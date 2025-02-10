@@ -36,7 +36,7 @@ Long-term dermal toxicity studies of 24 months' duration in rats and 18 months' 
 
 ## Pregnancy
 
-### Teratogenic Effects
+### Teratogenic Effects.
 
 A reproductive study has been performed in rabbits at doses up to three to ten times the concentration of silver sulfadiazine in silver sulfadiazine cream 1% and has revealed no evidence of harm to the fetus due to silver sulfadiazine.
 There are, however, no adequate and well-controlled studies in pregnant women.
