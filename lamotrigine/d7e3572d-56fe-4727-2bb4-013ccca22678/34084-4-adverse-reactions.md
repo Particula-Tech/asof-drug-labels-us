@@ -103,16 +103,16 @@ In a randomized, parallel trial comparing placebo with 300 and 500 mg/day of LAM
 Table 9.
 Dose-Related Adverse Reactions from a Randomized, Placebo-Controlled, Adjunctive Trial in Adults with Epilepsy
 
-| Adverse Reaction | Percent of Patients Experiencing Adverse Reactions |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Placebo(n = 73) | LAMICTAL300 mg(n = 71) | LAMICTAL500 mg(n = 72) |  |  |  |  |
-| Ataxia | 10 | 10 | 28a,b |  |  |  |
-| Blurred vision | 10 | 11 | 25a,b |  |  |  |
-| Diplopia | 8 | 24a | 49a,b |  |  |  |
-| Dizziness | 27 | 31 | 54a,b |  |  |  |
-| Nausea | 11 | 18 | 25a |  |  |  |
-| Vomiting | 4 | 11 | 18a |  |  |  |
-| a Significantly greater than placebo group (P<0.05). b Significantly greater than group receiving LAMICTAL 300 mg (P<0.05). |  |  |  |  |  |  |
+| Adverse Reaction | Percent of Patients Experiencing Adverse Reactions |  |  |
+| --- | --- | --- | --- |
+| Placebo(n = 73) | LAMICTAL300 mg(n = 71) | LAMICTAL500 mg(n = 72) |  |
+| Ataxia | 10 | 10 | 28a,b |
+| Blurred vision | 10 | 11 | 25a,b |
+| Diplopia | 8 | 24a | 49a,b |
+| Dizziness | 27 | 31 | 54a,b |
+| Nausea | 11 | 18 | 25a |
+| Vomiting | 4 | 11 | 18a |
+| a Significantly greater than placebo group (P<0.05). b Significantly greater than group receiving LAMICTAL 300 mg (P<0.05). |  |  |  |
 
 The overall adverse reaction profile for LAMICTAL was similar between females and males and was independent of age.
 Because the largest non-Caucasian racial subgroup was only 6% of patients exposed to LAMICTAL in placebo-controlled trials, there are insufficient data to support a statement regarding the distribution of adverse reaction reports by race.
@@ -125,28 +125,28 @@ Controlled Monotherapy Trial in Adults with Partial-Onset Seizures: Table 10 lis
 Table 10.
 Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Partial-Onset Seizuresa,b
 
-| Body System/Adverse Reaction | Percent of Patients Receiving LAMICTALc as Monotherapy(n = 43) | Percent of Patients Receiving Low-Dose Valproated Monotherapy(n = 44) |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Body as a whole |  |  |  |  |  |  |  |  |  |
-| Pain | 5 | 0 |  |  |  |  |  |  |  |
-| Infection | 5 | 2 |  |  |  |  |  |  |  |
-| Chest pain | 5 | 2 |  |  |  |  |  |  |  |
-| Digestive |  |  |  |  |  |  |  |  |  |
-| Vomiting | 9 | 0 |  |  |  |  |  |  |  |
-| Dyspepsia | 7 | 2 |  |  |  |  |  |  |  |
-| Nausea | 7 | 2 |  |  |  |  |  |  |  |
-| Metabolic and nutritional |  |  |  |  |  |  |  |  |  |
-| Weight decrease | 5 | 2 |  |  |  |  |  |  |  |
-| Nervous |  |  |  |  |  |  |  |  |  |
-| Coordination abnormality | 7 | 0 |  |  |  |  |  |  |  |
-| Dizziness | 7 | 0 |  |  |  |  |  |  |  |
-| Anxiety | 5 | 0 |  |  |  |  |  |  |  |
-| Insomnia | 5 | 2 |  |  |  |  |  |  |  |
-| Respiratory |  |  |  |  |  |  |  |  |  |
-| Rhinitis | 7 | 2 |  |  |  |  |  |  |  |
-| Urogenital (female patients only) | (n = 21) | (n = 28) |  |  |  |  |  |  |  |
-| Dysmenorrhea | 5 | 0 |  |  |  |  |  |  |  |
-| a Adverse reactions that occurred in at least 5% of patients treated with LAMICTAL and at a greater incidence than valproate-treated patients. b Patients in this trial were converted to LAMICTAL or valproate monotherapy from adjunctive therapy with carbamazepine or phenytoin. Patients may have reported multiple adverse reactions during the trial; thus, patients may be included in more than 1 category. c Up to 500 mg/day. d 1,000 mg/day. |  |  |  |  |  |  |  |  |  |
+| Body System/Adverse Reaction | Percent of Patients Receiving LAMICTALc as Monotherapy(n = 43) | Percent of Patients Receiving Low-Dose Valproated Monotherapy(n = 44) |
+| --- | --- | --- |
+| Body as a whole |  |  |
+| Pain | 5 | 0 |
+| Infection | 5 | 2 |
+| Chest pain | 5 | 2 |
+| Digestive |  |  |
+| Vomiting | 9 | 0 |
+| Dyspepsia | 7 | 2 |
+| Nausea | 7 | 2 |
+| Metabolic and nutritional |  |  |
+| Weight decrease | 5 | 2 |
+| Nervous |  |  |
+| Coordination abnormality | 7 | 0 |
+| Dizziness | 7 | 0 |
+| Anxiety | 5 | 0 |
+| Insomnia | 5 | 2 |
+| Respiratory |  |  |
+| Rhinitis | 7 | 2 |
+| Urogenital (female patients only) | (n = 21) | (n = 28) |
+| Dysmenorrhea | 5 | 0 |
+| a Adverse reactions that occurred in at least 5% of patients treated with LAMICTAL and at a greater incidence than valproate-treated patients. b Patients in this trial were converted to LAMICTAL or valproate monotherapy from adjunctive therapy with carbamazepine or phenytoin. Patients may have reported multiple adverse reactions during the trial; thus, patients may be included in more than 1 category. c Up to 500 mg/day. d 1,000 mg/day. |  |  |
 
 Adverse reactions that occurred with a frequency of <5% and >2% of patients receiving LAMICTAL and numerically more frequent than placebo were:
 
@@ -169,59 +169,59 @@ Incidence in Controlled Adjunctive Trials in Pediatric Patients with Epilepsy: T
 Table 11.
 Adverse Reactions in Pooled, Placebo-Controlled, Adjunctive Trials in Pediatric Patients with Epilepsya
 
-| Body System/Adverse Reaction | Percent of Patients Receiving LAMICTAL(n = 168) | Percent of Patients Receiving Placebo(n = 171) |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Body as a whole |  |  |  |  |  |  |  |  |  |  |  |  |
-| Infection | 20 | 17 |  |  |  |  |  |  |  |  |  |  |
-| Fever | 15 | 14 |  |  |  |  |  |  |  |  |  |  |
-| Accidental injury | 14 | 12 |  |  |  |  |  |  |  |  |  |  |
-| Abdominal pain | 10 | 5 |  |  |  |  |  |  |  |  |  |  |
-| Asthenia | 8 | 4 |  |  |  |  |  |  |  |  |  |  |
-| Flu syndrome | 7 | 6 |  |  |  |  |  |  |  |  |  |  |
-| Pain | 5 | 4 |  |  |  |  |  |  |  |  |  |  |
-| Facial edema | 2 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Photosensitivity | 2 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Cardiovascular |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hemorrhage | 2 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Digestive |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 20 | 16 |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 11 | 9 |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 10 | 2 |  |  |  |  |  |  |  |  |  |  |
-| Constipation | 4 | 2 |  |  |  |  |  |  |  |  |  |  |
-| Dyspepsia | 2 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Hemic and lymphatic |  |  |  |  |  |  |  |  |  |  |  |  |
-| Lymphadenopathy | 2 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Metabolic and nutritional |  |  |  |  |  |  |  |  |  |  |  |  |
-| Edema | 2 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Nervous system |  |  |  |  |  |  |  |  |  |  |  |  |
-| Somnolence | 17 | 15 |  |  |  |  |  |  |  |  |  |  |
-| Dizziness | 14 | 4 |  |  |  |  |  |  |  |  |  |  |
-| Ataxia | 11 | 3 |  |  |  |  |  |  |  |  |  |  |
-| Tremor | 10 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Emotional lability | 4 | 2 |  |  |  |  |  |  |  |  |  |  |
-| Gait abnormality | 4 | 2 |  |  |  |  |  |  |  |  |  |  |
-| Thinking abnormality | 3 | 2 |  |  |  |  |  |  |  |  |  |  |
-| Convulsions | 2 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Nervousness | 2 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Vertigo | 2 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Respiratory |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pharyngitis | 14 | 11 |  |  |  |  |  |  |  |  |  |  |
-| Bronchitis | 7 | 5 |  |  |  |  |  |  |  |  |  |  |
-| Increased cough | 7 | 6 |  |  |  |  |  |  |  |  |  |  |
-| Sinusitis | 2 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Bronchospasm | 2 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Skin |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rash | 14 | 12 |  |  |  |  |  |  |  |  |  |  |
-| Eczema | 2 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Pruritus | 2 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Special senses |  |  |  |  |  |  |  |  |  |  |  |  |
-| Diplopia | 5 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Blurred vision | 4 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Visual abnormality | 2 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Urogenital |  |  |  |  |  |  |  |  |  |  |  |  |
-| Male and female patients |  |  |  |  |  |  |  |  |  |  |  |  |
-| Urinary tract infection | 3 | 0 |  |  |  |  |  |  |  |  |  |  |
-| a Adverse reactions that occurred in at least 2% of patients treated with LAMICTAL and at a greater incidence than placebo. |  |  |  |  |  |  |  |  |  |  |  |  |
+| Body System/Adverse Reaction | Percent of Patients Receiving LAMICTAL(n = 168) | Percent of Patients Receiving Placebo(n = 171) |
+| --- | --- | --- |
+| Body as a whole |  |  |
+| Infection | 20 | 17 |
+| Fever | 15 | 14 |
+| Accidental injury | 14 | 12 |
+| Abdominal pain | 10 | 5 |
+| Asthenia | 8 | 4 |
+| Flu syndrome | 7 | 6 |
+| Pain | 5 | 4 |
+| Facial edema | 2 | 1 |
+| Photosensitivity | 2 | 0 |
+| Cardiovascular |  |  |
+| Hemorrhage | 2 | 1 |
+| Digestive |  |  |
+| Vomiting | 20 | 16 |
+| Diarrhea | 11 | 9 |
+| Nausea | 10 | 2 |
+| Constipation | 4 | 2 |
+| Dyspepsia | 2 | 1 |
+| Hemic and lymphatic |  |  |
+| Lymphadenopathy | 2 | 1 |
+| Metabolic and nutritional |  |  |
+| Edema | 2 | 0 |
+| Nervous system |  |  |
+| Somnolence | 17 | 15 |
+| Dizziness | 14 | 4 |
+| Ataxia | 11 | 3 |
+| Tremor | 10 | 1 |
+| Emotional lability | 4 | 2 |
+| Gait abnormality | 4 | 2 |
+| Thinking abnormality | 3 | 2 |
+| Convulsions | 2 | 1 |
+| Nervousness | 2 | 1 |
+| Vertigo | 2 | 1 |
+| Respiratory |  |  |
+| Pharyngitis | 14 | 11 |
+| Bronchitis | 7 | 5 |
+| Increased cough | 7 | 6 |
+| Sinusitis | 2 | 1 |
+| Bronchospasm | 2 | 1 |
+| Skin |  |  |
+| Rash | 14 | 12 |
+| Eczema | 2 | 1 |
+| Pruritus | 2 | 1 |
+| Special senses |  |  |
+| Diplopia | 5 | 1 |
+| Blurred vision | 4 | 1 |
+| Visual abnormality | 2 | 0 |
+| Urogenital |  |  |
+| Male and female patients |  |  |
+| Urinary tract infection | 3 | 0 |
+| a Adverse reactions that occurred in at least 2% of patients treated with LAMICTAL and at a greater incidence than placebo. |  |  |
 
 Bipolar Disorder in Adults
 
@@ -237,27 +237,27 @@ The overall adverse reaction profile for LAMICTAL was similar between females an
 Table 12.
 Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar I Disordera,b
 
-| Body System/Adverse Reaction | Percent of Patients Receiving LAMICTAL(n = 227) | Percent of Patients Receiving Placebo(n = 190) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| General |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Back pain | 8 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatigue | 8 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Abdominal pain | 6 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Digestive |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 14 | 11 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Constipation | 5 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 5 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nervous System |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Insomnia | 10 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Somnolence | 9 | 7 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Xerostomia (dry mouth) | 6 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Respiratory |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rhinitis | 7 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Exacerbation of cough | 5 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pharyngitis | 5 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Skin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rash (nonserious)c | 7 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Adverse reactions that occurred in at least 5% of patients treated with LAMICTAL and at a greater incidence than placebo. b Patients in these trials were converted to LAMICTAL (100 to 400 mg/day) or placebo monotherapy from add-on therapy with other psychotropic medications. Patients may have reported multiple adverse reactions during the trial; thus, patients may be included in more than 1 category. c In the overall bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received LAMICTAL as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received LAMICTAL as adjunctive therapy [see Warnings and Precautions (5.1)]. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Body System/Adverse Reaction | Percent of Patients Receiving LAMICTAL(n = 227) | Percent of Patients Receiving Placebo(n = 190) |
+| --- | --- | --- |
+| General |  |  |
+| Back pain | 8 | 6 |
+| Fatigue | 8 | 5 |
+| Abdominal pain | 6 | 3 |
+| Digestive |  |  |
+| Nausea | 14 | 11 |
+| Constipation | 5 | 2 |
+| Vomiting | 5 | 2 |
+| Nervous System |  |  |
+| Insomnia | 10 | 6 |
+| Somnolence | 9 | 7 |
+| Xerostomia (dry mouth) | 6 | 4 |
+| Respiratory |  |  |
+| Rhinitis | 7 | 4 |
+| Exacerbation of cough | 5 | 3 |
+| Pharyngitis | 5 | 4 |
+| Skin |  |  |
+| Rash (nonserious)c | 7 | 5 |
+| a Adverse reactions that occurred in at least 5% of patients treated with LAMICTAL and at a greater incidence than placebo. b Patients in these trials were converted to LAMICTAL (100 to 400 mg/day) or placebo monotherapy from add-on therapy with other psychotropic medications. Patients may have reported multiple adverse reactions during the trial; thus, patients may be included in more than 1 category. c In the overall bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received LAMICTAL as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received LAMICTAL as adjunctive therapy [see Warnings and Precautions (5.1)]. |  |  |
 
 Other reactions that occurred in 5% or more patients but equally or more frequently in the placebo group included: dizziness, mania, headache, infection, influenza, pain, accidental injury, diarrhea, and dyspepsia.
 

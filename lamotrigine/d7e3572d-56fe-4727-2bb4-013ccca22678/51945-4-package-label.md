@@ -42,8 +42,8 @@ Trademark owned or licensed by GSK.
 
 Rx only
 
-1. A087386 (62000000087386) Rev.
-   4/23
+- A087386 (62000000087386) Rev.
+  4/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -89,8 +89,8 @@ Trademark owned or licensed by GSK.
 
 Rx only
 
-1. A086833 (62000000086833) Rev.
-   4/23
+- A086833 (62000000086833) Rev.
+  4/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -136,8 +136,8 @@ Trademark owned or licensed by GSK.
 
 Rx only
 
-1. A0868332 (62000000086832) Rev.
-   4/23
+- A0868332 (62000000086832) Rev.
+  4/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -181,7 +181,7 @@ Made in India
 
 ©2023 GSK group of companies or its licensor
 
-1. 546716-02 Rev.6/23
+- 546716-02 Rev.6/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -229,8 +229,8 @@ Made in India
 
 ©2023 GSK group of companies or its licensor
 
-1. 546714-02 Rev.
-   6/23
+- 546714-02 Rev.
+  6/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -278,8 +278,8 @@ Made in India
 
 ©2023 the GSK group of companies
 
-1. 546718-02 Rev.
-   6/23
+- 546718-02 Rev.
+  6/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -462,8 +462,8 @@ Made in India
 
 ©2023 GSK group of companies or its licensor
 
-1. 547954-02 Rev.
-   6/23
+- 547954-02 Rev.
+  6/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -499,8 +499,8 @@ Made in India
 
 ©2023 GSK group of companies or its licensor
 
-1. 547955-02 Rev.
-   6/23
+- 547955-02 Rev.
+  6/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -536,8 +536,8 @@ Made in India
 
 ©2023 GSK group of companies or its licensor
 
-1. 547956-02 Rev.
-   6/23
+- 547956-02 Rev.
+  6/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -573,8 +573,8 @@ Made in India
 
 ©2023 GSK group of companies or its licensor
 
-1. 547957-02 Rev.
-   6/23
+- 547957-02 Rev.
+  6/23
 
 PRINCIPAL DISPLAY PANEL
 

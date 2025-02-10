@@ -128,35 +128,35 @@ The net effects of drug interactions with lamotrigine are summarized in Tables 1
 Table 15.
 Summary of Drug Interactions with Lamotrigine
 
-| Drug | Drug Plasma Concentration with Adjunctive Lamotriginea | Lamotrigine Plasma Concentration with Adjunctive Drugsb |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Oral contraceptives (e.g., ethinylestradiol/levonorgestrel)c | ↔d | ↓ |  |  |  |  |  |
-| Aripiprazole | Not assessed | ↔e |  |  |  |  |  |
-| Atazanavir/ritonavir | ↔f | ↓ |  |  |  |  |  |
-| Bupropion | Not assessed | ↔ |  |  |  |  |  |
-| Carbamazepine | ↔ | ↓ |  |  |  |  |  |
-| Carbamazepine epoxideg | ? |  |  |  |  |  |  |
-| Felbamate | Not assessed | ↔ |  |  |  |  |  |
-| Gabapentin | Not assessed | ↔ |  |  |  |  |  |
-| Lacosamide | Not assessed | ↔ |  |  |  |  |  |
-| Levetiracetam | ↔ | ↔ |  |  |  |  |  |
-| Lithium | ↔ | Not assessed |  |  |  |  |  |
-| Lopinavir/ritonavir | ↔e | ↓ |  |  |  |  |  |
-| Olanzapine | ↔ | ↔e |  |  |  |  |  |
-| Oxcarbazepine | ↔ | ↔ |  |  |  |  |  |
-| 10-Monohydroxy oxcarbazepine metaboliteh | ↔ |  |  |  |  |  |  |
-| Perampanel | Not assessed | ↔e |  |  |  |  |  |
-| Phenobarbital/primidone | ↔ | ↓ |  |  |  |  |  |
-| Phenytoin | ↔ | ↓ |  |  |  |  |  |
-| Pregabalin | ↔ | ↔ |  |  |  |  |  |
-| Rifampin | Not assessed | ↓ |  |  |  |  |  |
-| Risperidone | ↔ | Not assessed |  |  |  |  |  |
-| 9-Hydroxyrisperidonei | ↔ |  |  |  |  |  |  |
-| Topiramate | ↔j | ↔ |  |  |  |  |  |
-| Valproate | ↓ | ↑ |  |  |  |  |  |
-| Valproate + phenytoin and/or carbamazepine | Not assessed | ↔ |  |  |  |  |  |
-| Zonisamide | Not assessed | ↔ |  |  |  |  |  |
-| a From adjunctive clinical trials and volunteer trials. b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials. c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations. d Modest decrease in levonorgestrel. e Slight decrease, not expected to be clinically meaningful. f Compared with historical controls. g Not administered, but an active metabolite of carbamazepine. h Not administered, but an active metabolite of oxcarbazepine. i Not administered, but an active metabolite of risperidone. j Slight increase, not expected to be clinically meaningful. ↔ = No significant effect. ? = Conflicting data. |  |  |  |  |  |  |  |
+| Drug | Drug Plasma Concentration with Adjunctive Lamotriginea | Lamotrigine Plasma Concentration with Adjunctive Drugsb |
+| --- | --- | --- |
+| Oral contraceptives (e.g., ethinylestradiol/levonorgestrel)c | ↔d | ↓ |
+| Aripiprazole | Not assessed | ↔e |
+| Atazanavir/ritonavir | ↔f | ↓ |
+| Bupropion | Not assessed | ↔ |
+| Carbamazepine | ↔ | ↓ |
+| Carbamazepine epoxideg | ? |  |
+| Felbamate | Not assessed | ↔ |
+| Gabapentin | Not assessed | ↔ |
+| Lacosamide | Not assessed | ↔ |
+| Levetiracetam | ↔ | ↔ |
+| Lithium | ↔ | Not assessed |
+| Lopinavir/ritonavir | ↔e | ↓ |
+| Olanzapine | ↔ | ↔e |
+| Oxcarbazepine | ↔ | ↔ |
+| 10-Monohydroxy oxcarbazepine metaboliteh | ↔ |  |
+| Perampanel | Not assessed | ↔e |
+| Phenobarbital/primidone | ↔ | ↓ |
+| Phenytoin | ↔ | ↓ |
+| Pregabalin | ↔ | ↔ |
+| Rifampin | Not assessed | ↓ |
+| Risperidone | ↔ | Not assessed |
+| 9-Hydroxyrisperidonei | ↔ |  |
+| Topiramate | ↔j | ↔ |
+| Valproate | ↓ | ↑ |
+| Valproate + phenytoin and/or carbamazepine | Not assessed | ↔ |
+| Zonisamide | Not assessed | ↔ |
+| a From adjunctive clinical trials and volunteer trials. b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials. c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations. d Modest decrease in levonorgestrel. e Slight decrease, not expected to be clinically meaningful. f Compared with historical controls. g Not administered, but an active metabolite of carbamazepine. h Not administered, but an active metabolite of oxcarbazepine. i Not administered, but an active metabolite of risperidone. j Slight increase, not expected to be clinically meaningful. ↔ = No significant effect. ? = Conflicting data. |  |  |
 
 Estrogen-Containing Oral Contraceptives
 
@@ -339,21 +339,21 @@ Concomitant AEDs which influence lamotrigine clearance in adults were found to h
 Table 16.
 Mean Pharmacokinetic Parameters in Pediatric Subjects with Epilepsy
 
-| Pediatric Study Population | Number of Subjects | Tmax(h) | t½(h) | CL/F(mL/min/kg) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Ages 10 months-5.3 years |  |  |  |  |  |  |  |  |  |  |  |  |
-| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 10 | 3.0(1.0-5.9) | 7.7(5.7-11.4) | 3.62(2.44-5.28) |  |  |  |  |  |  |  |  |
-| Subjects taking antiepileptic drugs with no known effect on the apparent clearance of lamotrigine | 7 | 5.2(2.9-6.1) | 19.0(12.9-27.1) | 1.2(0.75-2.42) |  |  |  |  |  |  |  |  |
-| Subjects taking valproate only | 8 | 2.9(1.0-6.0) | 44.9(29.5-52.5) | 0.47(0.23-0.77) |  |  |  |  |  |  |  |  |
-| Ages 5-11 years |  |  |  |  |  |  |  |  |  |  |  |  |
-| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 7 | 1.6(1.0-3.0) | 7.0(3.8-9.8) | 2.54(1.35-5.58) |  |  |  |  |  |  |  |  |
-| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | 3.3(1.0-6.4) | 19.1(7.0-31.2) | 0.89(0.39-1.93) |  |  |  |  |  |  |  |  |
-| Subjects taking valproate onlyb | 3 | 4.5(3.0-6.0) | 65.8(50.7-73.7) | 0.24(0.21-0.26) |  |  |  |  |  |  |  |  |
-| Ages 13-18 years |  |  |  |  |  |  |  |  |  |  |  |  |
-| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 11 | ___c | ___c | 1.3 |  |  |  |  |  |  |  |  |
-| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | ___c | ___c | 0.5 |  |  |  |  |  |  |  |  |
-| Subjects taking valproate only | 4 | ___c | ___c | 0.3 |  |  |  |  |  |  |  |  |
-| a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. b Two subjects were included in the calculation for mean Tmax. c Parameter not estimated. |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pediatric Study Population | Number of Subjects | Tmax(h) | t½(h) | CL/F(mL/min/kg) |
+| --- | --- | --- | --- | --- |
+| Ages 10 months-5.3 years |  |  |  |  |
+| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 10 | 3.0(1.0-5.9) | 7.7(5.7-11.4) | 3.62(2.44-5.28) |
+| Subjects taking antiepileptic drugs with no known effect on the apparent clearance of lamotrigine | 7 | 5.2(2.9-6.1) | 19.0(12.9-27.1) | 1.2(0.75-2.42) |
+| Subjects taking valproate only | 8 | 2.9(1.0-6.0) | 44.9(29.5-52.5) | 0.47(0.23-0.77) |
+| Ages 5-11 years |  |  |  |  |
+| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 7 | 1.6(1.0-3.0) | 7.0(3.8-9.8) | 2.54(1.35-5.58) |
+| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | 3.3(1.0-6.4) | 19.1(7.0-31.2) | 0.89(0.39-1.93) |
+| Subjects taking valproate onlyb | 3 | 4.5(3.0-6.0) | 65.8(50.7-73.7) | 0.24(0.21-0.26) |
+| Ages 13-18 years |  |  |  |  |
+| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 11 | ___c | ___c | 1.3 |
+| Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea plus valproate | 8 | ___c | ___c | 0.5 |
+| Subjects taking valproate only | 4 | ___c | ___c | 0.3 |
+| a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. b Two subjects were included in the calculation for mean Tmax. c Parameter not estimated. |  |  |  |  |
 
 Geriatric Patients: The pharmacokinetics of lamotrigine following a single 150-mg dose of lamotrigine were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance = 61 mL/min, range: 33 to 108 mL/min).
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).
