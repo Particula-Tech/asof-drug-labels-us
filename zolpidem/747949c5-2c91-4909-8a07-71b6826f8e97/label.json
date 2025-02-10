@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019908"
+  ],
+  "inn": "zolpidem",
+  "labeler": "Cosette Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0713-5401-01",
+    "0713-5421-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "zolpidem tartrate",
+      "name": "Ambien"
+    }
+  ],
+  "setid": "747949c5-2c91-4909-8a07-71b6826f8e97",
+  "source": "dailymed"
+}
