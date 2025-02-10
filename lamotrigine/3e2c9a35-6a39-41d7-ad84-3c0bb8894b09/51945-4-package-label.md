@@ -300,8 +300,8 @@ Made in India
 
 ©2023 GSK group of companies or its licensor
 
-1. 546721-02 Rev.
-   6/23
+- 546721-02 Rev.
+  6/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -351,8 +351,8 @@ Made in India
 
 ©2023 GSK group of companies or its licensor
 
-1. 546720-02 Rev.
-   5/23
+- 546720-02 Rev.
+  5/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -402,5 +402,5 @@ Made in India
 
 ©2023 GSK group of companies or its licensor
 
-1. 546722-02 Rev.
-   5/23
+- 546722-02 Rev.
+  5/23
