@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Fluphenazine hydrochloride is a trifluoromethyl phenothiazine derivative intended for the management of schizophrenia.
-Fluphenazine hydrochloride is described chemically as 4-[3-[2-(Trifluoromethyl)phenothiazin-10-yl]propyl]-1-piperazineethanol dihydrochloride and its molecular formula is C 22H 26F 3N 3OS • 2HCl.
+Fluphenazine hydrochloride is described chemically as 4-[3-[2-(Trifluoromethyl)phenothiazin-10-yl]propyl]-1-piperazineethanol dihydrochloride and its molecular formula is C22H26F3N3OS • 2HCl.
 
 The structural formula is shown below:
 

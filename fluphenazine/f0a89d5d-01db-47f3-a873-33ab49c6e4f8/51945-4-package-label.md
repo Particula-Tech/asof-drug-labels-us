@@ -8,7 +8,7 @@ Fluphenazine Hydrochloride Elixir USP
 
 Rx ONLY
 
-pai Pharmaceutical Associates, Inc. Greenville, SC 29605
+PAI Pharma
 
 # PRINCIPAL DISPLAY PANEL - 473 mL Bottle Label
 
@@ -22,4 +22,4 @@ For oral use only
 
 Rx ONLY
 
-pai Pharmaceutical Associates, Inc. Greenville, SC 29605
+PAI Pharma

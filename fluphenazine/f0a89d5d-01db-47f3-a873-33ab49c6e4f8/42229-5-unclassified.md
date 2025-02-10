@@ -1,11 +1,5 @@
 Rx ONLY
 
-Distributed by:
+Distributed by: PAI Pharma Greenville, SC 29605 www.paipharma.com
 
-PAI Pharma
-
-Greenville, SC 29605
-
-www.paipharma.com
-
-R09/24
+R11/24
