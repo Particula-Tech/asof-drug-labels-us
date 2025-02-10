@@ -30,6 +30,6 @@ Berkeley Heights, NJ 07922 Novaplus is a registered trademark of Vizient, Inc.
 
 novaplus+
 
-Revised April 2021
+Revised February 2025
 
-PIN575-NOV/1
+PIN575-NOV/2
