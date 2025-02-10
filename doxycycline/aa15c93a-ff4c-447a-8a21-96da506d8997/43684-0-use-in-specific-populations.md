@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Doxycycline may cause reversible inhibition of bone growth and permanent discoloration of deciduous teeth when administered during the second and third trimesters of pregnancy [see Warnings and Precautions (5.1and 5.2)].
+Risk Summary Doxycycline may cause reversible inhibition of bone growth and permanent discoloration of deciduous teeth when administered during the second and third trimesters of pregnancy [see Warnings and Precautions (5.1 and 5.2)].
 Available data from published studies have not shown a difference in major birth defect risk with doxycycline exposure in the first trimester of pregnancy compared to unexposed pregnancies.
 Avoid use of ORECEA during the second and third trimester of pregnancy.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.

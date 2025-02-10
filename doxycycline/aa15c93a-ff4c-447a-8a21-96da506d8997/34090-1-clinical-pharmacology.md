@@ -13,47 +13,47 @@ Pharmacokinetic parameters for ORACEA following single oral doses and at steady-
 Table 2.
 Pharmcokinetic Parameters [Mean (± SD)] for ORACEA
 
-|  | N | C maxMean (ng/mL) | T max Median(hr) | AU 0-∞ (ng●hr/mL) | t ½ (hr) |
+|  | N | Cmax Mean (ng/mL) | Tmax Median (hr) | AU0-∞ (ng●hr/mL) | t½ (hr) |
 | --- | --- | --- | --- | --- | --- |
 | Single Dose 40 mg capsules | 30 | 510 ± 220.7 | 3.00 (1.0 - 4.1) | 9227 ± 3212.8 | 21.2 ± 7.6 |
 | Steady-State Day 7 40 mg capsules | 31 | 600 ± 194.2 | 2.00 (1.0 - 4.0) | 7543 ± 2443.9 | 23.2 ± 6.2 |
 
-Absorption:In a single-dose food-effect study involving administration of ORACEA to healthy volunteers, concomitant administration with a 1000 calorie, high-fat, high-protein meal that included dairy products, resulted in a decrease in the rate and extent of absorption (C maxand AUC) by about 45% and 22%, respectively, compared to dosing under fasted conditions.
+Absorption: In a single-dose food-effect study involving administration of ORACEA to healthy volunteers, concomitant administration with a 1000 calorie, high-fat, high-protein meal that included dairy products, resulted in a decrease in the rate and extent of absorption (Cmax and AUC) by about 45% and 22%, respectively, compared to dosing under fasted conditions.
 This decrease in systemic exposure can be clinically significant, and therefore if ORACEA is taken close to meal times, it is recommended that it be taken at least one hour prior to or two hours after meals.
 
-Distribution:Doxycycline is greater than 90% bound to plasma proteins.
+Distribution: Doxycycline is greater than 90% bound to plasma proteins.
 
-Metabolism:Major metabolites of doxycycline have not been identified.
+Metabolism: Major metabolites of doxycycline have not been identified.
 However, enzyme inducers such as barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.
 
-Excretion:Doxycycline is excreted in the urine and feces as unchanged drug.
+Excretion: Doxycycline is excreted in the urine and feces as unchanged drug.
 It is reported that between 29% and 55.4% of an administered dose can be accounted for in the urine by 72 hours.
 Terminal half-life averaged 21.2 hours in subjects receiving a single dose of ORACEA.
 
 Special Populations
 
-Geriatric:Doxycycline pharmacokinetics have not been evaluated in geriatric patients.
+Geriatric: Doxycycline pharmacokinetics have not been evaluated in geriatric patients.
 
-Pediatric:Doxycycline pharmacokinetics have not been evaluated in pediatric patients [see Warnings and Precautions (5.1)]
+Pediatric: Doxycycline pharmacokinetics have not been evaluated in pediatric patients [see Warnings and Precautions (5.1)]
 
-Gender:The pharmacokinetics of ORACEA were compared in 16 male and 14 female subjects under fed and fasted conditions.
-While female subjects had a higher C maxand AUC than male subjects, these differences were thought to be due to differences in body weight/lean body mass.
+Gender: The pharmacokinetics of ORACEA were compared in 16 male and 14 female subjects under fed and fasted conditions.
+While female subjects had a higher Cmax and AUC than male subjects, these differences were thought to be due to differences in body weight/lean body mass.
 
-Race:Differences in doxycycline pharmacokinetics among racial groups have not been evaluated.
+Race: Differences in doxycycline pharmacokinetics among racial groups have not been evaluated.
 
-Renal Insufficiency:Studies have shown no significant difference in serum half-life of doxycycline in patients with normal and severely impaired renal function.
+Renal Insufficiency: Studies have shown no significant difference in serum half-life of doxycycline in patients with normal and severely impaired renal function.
 Hemodialysis does not alter the serum half-life of doxycycline.
 
-Hepatic Insufficiency:Doxycycline pharmacokinetics have not been evaluated in patients with hepatic insufficiency.
+Hepatic Insufficiency: Doxycycline pharmacokinetics have not been evaluated in patients with hepatic insufficiency.
 
 Gastric Insufficiency:In a study in healthy volunteers (N=24) the bioavailability of doxycycline is reported to be reduced at high pH.
 This reduced bioavailability may be clinically significant in patients with gastrectomy, gastric bypass surgery or who are otherwise deemed achlorhydric.
 
-Drug Interactions:[see Drug Interactions (7)].
+Drug Interactions: [see Drug Interactions (7)].
 
 ## 12.4 Microbiology
 
 Doxycycline is a member of the tetracycline-class of drugs.
 The plasma concentrations of doxycycline achieved with ORACEA during administration [see Clinical Pharmacology (12.3) and Dosage and Administration (2.2)] are less than the concentration required to treat bacterial diseases.
 ORACEA should not be used for treating bacterial infections, providing antibacterial prophylaxis, or reducing the numbers or eliminating microorganisms associated with any bacterial disease [see Indications and Usage (1.2)].
-In vivomicrobiological studies utilizing a similar drug exposure for up to 18 months demonstrated no detectable long term effects on bacterial flora of the oral cavity, skin, intestinal tract and vagina.
+In vivo microbiological studies utilizing a similar drug exposure for up to 18 months demonstrated no detectable long term effects on bacterial flora of the oral cavity, skin, intestinal tract and vagina.

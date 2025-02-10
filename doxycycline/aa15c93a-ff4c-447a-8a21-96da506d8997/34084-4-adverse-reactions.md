@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Adverse Reactions in Clinical Trials of ORACEA:In controlled clinical trials of adult subjects with mild to moderate rosacea, 537 subjects received ORACEA or placebo over a 16-week period.
+Adverse Reactions in Clinical Trials of ORACEA: In controlled clinical trials of adult subjects with mild to moderate rosacea, 537 subjects received ORACEA or placebo over a 16-week period.
 The following table summarizes selected adverse reactions that occurred in the clinical trials at a rate of ≥1% for the active arm:
 
 Table 1.
@@ -36,17 +36,17 @@ Placebo (n=268)
 | Sinus Headache | 3 (1) | 0 (0) |
 | Note: Percentages based on total number of study participants in each treatment group. |  |  |
 
-Adverse Reactions for Tetracyclines:The following adverse reactions have been observed in patients receiving tetracyclines at higher, antimicrobial doses:
+Adverse Reactions for Tetracyclines: The following adverse reactions have been observed in patients receiving tetracyclines at higher, antimicrobial doses:
 
-Gastrointestinal:anorexia, nausea, vomiting, diarrhea, glossitis, dysphagia, enterocolitis, and inflammatory lesions (with vaginal candidiasis) in the anogenital region.
+Gastrointestinal: anorexia, nausea, vomiting, diarrhea, glossitis, dysphagia, enterocolitis, and inflammatory lesions (with vaginal candidiasis) in the anogenital region.
 Hepatotoxicity, Esophagitis and esophageal ulcerations have been reported in patients receiving the capsule forms of the drugs in the tetracycline-class.
 Most of the patients experiencing esophagitis and/or esophageal ulceration took their medication immediately before lying down [see Dosage and Administration (2)].
-Renal toxicity:Rise in BUN has been reported and is apparently dose-related [see Warnings and Precautions (5.4)].
-Skin:maculopapular and erythematous rashes.
+Renal toxicity: Rise in BUN has been reported and is apparently dose-related [see Warnings and Precautions (5.4)].
+Skin: maculopapular and erythematous rashes.
 Exfoliative dermatitis.
 Photosensitivity is discussed above [see Warnings and Precautions (5.5)].
-Hypersensitivity reactions:urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, and exacerbation of systemic lupus erythematosus.
-Blood:Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia.
+Hypersensitivity reactions: urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, and exacerbation of systemic lupus erythematosus.
+Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia.
 
 ## 6.2 Postmarketing Experience
 
