@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Tocilizumab-aazg is a recombinant humanized anti-human interleukin 6 (IL-6) receptor monoclonal antibody of the immunoglobulin IgG1ϰ (gamma 1, kappa) subclass with a typical H2L2 polypeptide structure.
+Tocilizumab-aazg is a recombinant humanized anti-human interleukin 6 (IL-6) receptor monoclonal antibody of the immunoglobulin IgG1κ (gamma 1, kappa) subclass with a typical H2L2 polypeptide structure.
 Each light chain and heavy chain consists of 214 and 448 amino acids (excluding the C-terminal lysine), respectively.
 
 The four polypeptide chains are linked intra- and inter-molecularly by disulfide bonds.

@@ -2,16 +2,16 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-- Serious Infections Inform patients that TYENNE may lower their resistance to infections [see Warnings and Precautions (5.1)].
+- •Serious Infections Inform patients that TYENNE may lower their resistance to infections [see Warnings and Precautions (5.1)].
   Instruct the patient of the importance of contacting their doctor immediately when symptoms suggesting infection appear in order to assure rapid evaluation and appropriate treatment.
-- Gastrointestinal Perforation Inform patients that some patients who have been treated with TYENNE have had serious side effects in the stomach and intestines [see Warnings and Precautions (5.2)].
-  Instruct the patient of the importance of contacting their doctor immediately when symptoms of severe, persistent abdominal pain appear to assure rapid evaluation and appropriate treatment.
-- Hypersensitivity and Serious Allergic Reactions Assess patient suitability for home use for subcutaneous injection.
-  Inform patients that some patients who have been treated with TYENNE have developed serious allergic reactions, including anaphylaxis [see Warnings and Precautions (5.6)].
-  Advise patients to seek immediate medical attention if they experience any symptom of serious allergic reactions.
+- •Gastrointestinal Perforation Inform patients that some patients who have been treated with TYENNE have had serious side effects in the stomach and intestines [see Warnings and Precautions (5.2)].
+  Instruct the patient of the importance of contacting their doctor immediately when symptoms of fever, severe, persistent abdominal pain, and change in bowel habits appear to assure rapid evaluation and appropriate treatment.
+- •Hypersensitivity and Serious Allergic Reactions Inform patients that some patients who have been treated with TYENNE have developed serious allergic reactions, including anaphylaxis, as well as serious skin reactions [see Warnings and Precautions (5.6)].
+  Advise patients to stop taking TYENNE and seek immediate medical attention if they experience any symptom of serious allergic reactions (including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing).
 
 Instruction on Injection Technique
 
+Assess patient suitability for home use for subcutaneous injection.
 Perform the first injection under the supervision of a qualified healthcare professional.
 If a patient or caregiver is to administer subcutaneous TYENNE, instruct him/her in injection techniques and assess his/her ability to inject subcutaneously to ensure proper administration of subcutaneous TYENNE and the suitability for home use [See Instructions for Use].
 

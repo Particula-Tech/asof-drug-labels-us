@@ -61,57 +61,54 @@ Table 3 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Tr
 | Major Clinical Responses b |  |  |  | (0.08, 0.17) | (0.12, 0.21) |  |  |  |  |  |  |  |  |
 | Week 52 | N/A | N/A | 1% | 4% | 7% | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 |  |  |  |  | (0.01, 0.06) | (0.03, 0.09) |  |  |  |  |  |  |  |  |
-| a CI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| b Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week period |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a CI: 95% confidence interval of the weighted difference to placebo adjusted for site (and disease duration for Study I only) b Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week period |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 In study II, a greater proportion of patients treated with 4 mg per kg and 8 mg per kg tocilizumab + MTX achieved a low level of disease activity as measured by a DAS 28-ESR less than 2.6 compared with placebo+ MTX treated patients at week 52.
 The proportion of tocilizumab-treated patients achieving DAS 28-ESR less than 2.6, and the number of residual active joints in these responders in Study II are shown in Table 4.
 
 Table 4 Proportion of Patients with DAS28-ESR Less Than 2.6 with Number of Residual Active Joints in Trials of Intravenous Tocilizumab
 
-| Study II |  |  |  |
-| --- | --- | --- | --- |
-|  | Placebo + MTX N = 393 | Tocilizumab 4 mg per kg + MTX N = 399 | Tocilizumab 8 mg per kg + MTX N = 398 |
-| DAS28-ESR less than 2.6 |  |  |  |
-| Proportion of responders at week 52 (n) 95% confidence interval | 3% (12) | 18% (70) 0.10, 0.19 | 32% (127) 0.24, 0.34 |
-| Of responders, proportion with 0 active joints (n) | 33% (4) | 27% (19) | 21% (27) |
-| Of responders, proportion with 1 active joint (n) | 8% (1) | 19% (13) | 13% (16) |
-| Of responders, proportion with 2 active joints (n) | 25% (3) | 13% (9) | 20% (25) |
-| Of responders, proportion with 3 or more active joints (n) | 33% (4) | 41% (29) | 47% (59) |
-| *n denotes numerator of all the percentage. Denominator is the intent-to-treat population. Not all patients received DAS28 assessments at Week 52. |  |  |  |
+| Study II |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Placebo + MTX N = 393 | Tocilizumab 4 mg per kg + MTX N = 399 | Tocilizumab 8 mg per kg + MTX N = 398 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| DAS28-ESR less than 2.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Proportion of responders at week 52 (n) 95% confidence interval | 3% (12) | 18% (70) 0.10, 0.19 | 32% (127) 0.24, 0.34 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Of responders, proportion with 0 active joints (n) | 33% (4) | 27% (19) | 21% (27) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Of responders, proportion with 1 active joint (n) | 8% (1) | 19% (13) | 13% (16) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Of responders, proportion with 2 active joints (n) | 25% (3) | 13% (9) | 20% (25) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Of responders, proportion with 3 or more active joints (n) | 33% (4) | 41% (29) | 47% (59) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| *n denotes numerator of all the percentage. Denominator is the intent-to-treat population. Not all patients received DAS28 assessments at Week 52. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 The results of the components of the ACR response criteria for Studies III and V are shown in Table 5.
 Similar results to Study III were observed in Studies I, II and IV.
 
 Table 5 Components of ACR Response at Week 24 in Trials of Intravenous Tocilizumab
 
-|  | Study III |  |  |  |  |  | Study V |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Tocilizumab 4 mg per kg + MTX N=213 |  | Tocilizumab 8 mg per kg + MTX N=205 |  | Placebo + MTX N=204 |  | Tocilizumab 4 mg per kg + MTX N=161 |  | Tocilizumab 8 mg per kg + MTX N=170 |  | Placebo + MTX N=158 |  |
-| Component (mean) | Baseline | Week 24a | Baseline | Week 24 a | Baseline | Week 24 | Baseline | Week 24 a | Baseline | Week 24 a | Baseline | Week 24 |
-| Number of | 33 | 19 | 32 | 14.5 | 33 | 25 | 31 | 21 | 32 | 17 | 30 | 30 |
-| tender joints | -7.0 | -9.6 | -10.8 | -15.1 |  |  |  |  |  |  |  |  |
-| (0-68) | (-10.0, -4.1) | (-12.6, -6.7) | (-14.6, -7.1) | (-18.8, -11.4) |  |  |  |  |  |  |  |  |
-| Number of | 20 | 10 | 19.5 | 8 | 21 | 15 | 19.5 | 13 | 19 | 11 | 19 | 18 |
-| swollen | -4.2 | -6.2 | -6.2 | -7.2 |  |  |  |  |  |  |  |  |
-| joints (0-66) | (-6.1, -2.3) | (-8.1, -4.2) | (-9.0, -3.5) | (-9.9, -4.5) |  |  |  |  |  |  |  |  |
-| Painb | 61 | 33 -11.0 | 60 | 30 -15.8 | 57 | 43 | 63.5 | 43 -12.4 | 65 | 33 -23.9 | 64 | 48 |
-| (-17.0, -5.0) | (-21.7, -9.9) | (-22.1, -2.1) | (-33.7, -14.1) |  |  |  |  |  |  |  |  |  |
-| Patient | 66 | 34 | 65 | 31 | 64 | 45 | 70 | 46 | 70 | 36 | 71 | 51 |
-| global | -10.9 | -14.9 | -10.0 | -17.4 |  |  |  |  |  |  |  |  |
-| assessmentb | (-17.1, -4.8) | (-20.9, -8.9) | (-20.3, 0.3) | (-27.8, -7.0) |  |  |  |  |  |  |  |  |
-| Physician | 64 | 26 | 64 | 23 | 64 | 32 | 66.5 | 39 | 66 | 28 | 67.5 | 43 |
-| global | -5.6 | -9.0 | -10.5 | -18.2 |  |  |  |  |  |  |  |  |
-| assessmentb | (-10.5, -0.8) | (-13.8, -4.2) | (-18.6, -2.5) | (-26.3, -10.0) |  |  |  |  |  |  |  |  |
-| Disability | 1.64 | 1.01 | 1.55 | 0.96 | 1.55 | 1.21 | 1.67 | 1.39 | 1.75 | 1.34 | 1.70 | 1.58 |
-| index | -0.18 | -0.21 | -0.25 | -0.34 |  |  |  |  |  |  |  |  |
-| (HAQ)c | (-0.34, -0.02) | (-0.37, -0.05) | (-0.42, -0.09) | (-0.51, -0.17) |  |  |  |  |  |  |  |  |
-| CRP (mg per | 2.79 | 1.17 | 2.61 | 0.25 | 2.36 | 1.89 | 3.11 | 1.77 | 2.80 | 0.28 | 3.705 | 3.06 |
-| dL) | -1.30 | -2.156 | -1.34 | -2.52 |  |  |  |  |  |  |  |  |
-| (-2.0, -0.59) | (-2.86, -1.46) | (-2.5, -0.15) | (-3.72, -1.32) |  |  |  |  |  |  |  |  |  |
-| a Data shown is mean at week 24, difference in adjusted mean change from baseline compared with placebo + MTX at week 24 and 95% confidence interval for that difference |  |  |  |  |  |  |  |  |  |  |  |  |
-| b Visual analog scale: 0 = best, 100 = worst |  |  |  |  |  |  |  |  |  |  |  |  |
-| c Health Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Study III |  |  |  |  |  | Study V |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Tocilizumab 4 mg per kg + MTX N=213 |  | Tocilizumab 8 mg per kg + MTX N=205 |  | Placebo + MTX N=204 |  | Tocilizumab 4 mg per kg + MTX N=161 |  | Tocilizumab 8 mg per kg + MTX N=170 |  | Placebo + MTX N=158 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Component (mean) | Baseline | Week 24a | Baseline | Week 24 a | Baseline | Week 24 | Baseline | Week 24 a | Baseline | Week 24 a | Baseline | Week 24 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Number of | 33 | 19 | 32 | 14.5 | 33 | 25 | 31 | 21 | 32 | 17 | 30 | 30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| tender joints | -7.0 | -9.6 | -10.8 | -15.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| (0-68) | (-10.0, -4.1) | (-12.6, -6.7) | (-14.6, -7.1) | (-18.8, -11.4) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Number of | 20 | 10 | 19.5 | 8 | 21 | 15 | 19.5 | 13 | 19 | 11 | 19 | 18 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| swollen | -4.2 | -6.2 | -6.2 | -7.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| joints (0-66) | (-6.1, -2.3) | (-8.1, -4.2) | (-9.0, -3.5) | (-9.9, -4.5) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pain b | 61 | 33 -11.0 | 60 | 30 -15.8 | 57 | 43 | 63.5 | 43 -12.4 | 65 | 33 -23.9 | 64 | 48 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| (-17.0, -5.0) | (-21.7, -9.9) | (-22.1, -2.1) | (-33.7, -14.1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Patient | 66 | 34 | 65 | 31 | 64 | 45 | 70 | 46 | 70 | 36 | 71 | 51 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| global | -10.9 | -14.9 | -10.0 | -17.4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Assessment b | (-17.1, -4.8) | (-20.9, -8.9) | (-20.3, 0.3) | (-27.8, -7.0) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Physician | 64 | 26 | 64 | 23 | 64 | 32 | 66.5 | 39 | 66 | 28 | 67.5 | 43 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| global | -5.6 | -9.0 | -10.5 | -18.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Assessment b | (-10.5, -0.8) | (-13.8, -4.2) | (-18.6, -2.5) | (-26.3, -10.0) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Disability | 1.64 | 1.01 | 1.55 | 0.96 | 1.55 | 1.21 | 1.67 | 1.39 | 1.75 | 1.34 | 1.70 | 1.58 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| index | -0.18 | -0.21 | -0.25 | -0.34 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| (HAQ) c | (-0.34, -0.02) | (-0.37, -0.05) | (-0.42, -0.09) | (-0.51, -0.17) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| CRP (mg per | 2.79 | 1.17 -1.30 | 2.61 | 0.25 -2.156 | 2.36 | 1.89 | 3.11 | 1.77 -1.34 | 2.80 | 0.28 -2.52 | 3.705 | 3.06 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| dL) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| (-2.0, -0.59) | (-2.86, -1.46) | (-2.5, -0.15) | (-3.72, -1.32) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| a Data shown is mean at week 24, difference in adjusted mean change from baseline compared with placebo + MTX at week 24 and 95% confidence interval for that difference b Visual analog scale: 0 = best, 100 = worst c Health Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 The percent of ACR 20 responders by visit for Study III is shown in Figure 1.
 Similar response curves were observed in studies I, II, IV, and V.
@@ -139,8 +136,7 @@ Table 6 Mean Radiographic Change from Baseline to Week 52 in Study II
 | Adjusted Mean difference** (95%CI) |  | -0.55 (-0.76, -0.34) | -0.60 (-0.80, -0.39) |
 | Joint Space Narrowing Score, Mean (SD) | 0.41 (1.71) | 0.13 (0.72) | 0.10 (0.49) |
 | Adjusted Mean difference** (95%CI) |  | -0.28 (-0.44, -0.11) | -0.30 (-0.46, -0.14) |
-| * Week 52 analysis employs linearly extrapolated data for patients after escape, withdrawal, or loss to follow up. |  |  |  |
-| ** Difference between the adjusted means (tocilizumab + MTX – Placebo + MTX) SD = standard deviation |  |  |  |
+| * Week 52 analysis employs linearly extrapolated data for patients after escape, withdrawal, or loss to follow up. ** Difference between the adjusted means (tocilizumab + MTX – Placebo + MTX) SD = standard deviation |  |  |  |
 
 The mean change from baseline to week 104 in Total Sharp-Genant Score for the tocilizumab 4 mg per kg groups was 0.47 (SD = 1.47) and for the 8 mg per kg groups was 0.34 (SD = 1.24).
 By the week 104, most patients in the control (placebo + MTX) group had crossed over to active treatment, and results are therefore not included for comparison.
@@ -212,9 +208,7 @@ Table 7 Clinical Response at Week 24 in Trials of Subcutaneous Tocilizumab (Perc
 | DAS28 < 2.6 |  |  |  |  |
 | Week 24 | 38.4% | 36.9% | 32.0% | 4.0% |
 | Weighted difference (95% CI) | 0.9 (-5.0, 6.8) |  | 28.6 (22.0, 35.2) |  |
-| TCZ = tocilizumab |  |  |  |  |
-| a Per Protocol Population |  |  |  |  |
-| b Intent To Treat Population |  |  |  |  |
+| TCZ = tocilizumab a Per Protocol Population b Intent To Treat Population |  |  |  |  |
 
 The results of the components of the ACR response criteria and the percent of ACR20 responders by visit for tocilizumab-SC in Studies SC-I and SC-II were consistent with those observed for tocilizumab-IV.
 
@@ -259,11 +253,7 @@ Table 8 Efficacy Results from Study WA28119
 | Unadjusted difference in proportions vs PBO + 52 weeks taper (99.5% CI) | N/A | N/A | 38.4% (14.4, 62.3) | 35.4% (8.6, 62.2) |
 | Components of Sustained Remission |  |  |  |  |
 | Sustained absence of GCA signs and symptomsb, n (%) Sustained ESR<30 mm/hrc, n (%) Sustained CRP normalizationd, n (%) Successful prednisone taperinge, n (%) | 20 (40.0%) 20 (40.0%) 17 (34.0%) 10 (20.0%) | 23 (45.1%) 22 (43.1%) 13 (25.5%) 20 (39.2%) | 69 (69.0%) 83 (83.0%) 72 (72.0%) 60 (60.0%) | 28 (57.1%) 37 (75.5%) 34 (69.4%) 28 (57.1%) |
-| a Sustained remission was achieved by a patient meeting all of the following components: absence of GCA signs and symptomsb, normalization of ESRc, normalization of CRPd and adherence to the prednisone taper regimene. |  |  |  |  |
-| B Patients who did not have any signs or symptoms of GCA recorded from Week 12 up to Week 52. |  |  |  |  |
-| C Patients who did not have an elevated ESR ≥30 mm/hr which was classified as attributed to GCA from Week 12 up to Week 52. |  |  |  |  |
-| D Patients who did not have two or more consecutive CRP records of ≥ 1mg/dL from Week 12 up to Week 52. |  |  |  |  |
-| E Patients who did not enter escape therapy and received ≤ 100mg of additional concomitant prednisone from Week 12 up to Week 52. |  |  |  |  |
+| a Sustained remission was achieved by a patient meeting all of the following components: absence of GCA signs and symptomsb, normalization of ESRc, normalization of CRPd and adherence to the prednisone taper regimene. b Patients who did not have any signs or symptoms of GCA recorded from Week 12 up to Week 52. c Patients who did not have an elevated ESR ≥30 mm/hr which was classified as attributed to GCA from Week 12 up to Week 52. d Patients who did not have two or more consecutive CRP records of ≥ 1mg/dL from Week 12 up to Week 52. e Patients who did not enter escape therapy and received ≤ 100mg of additional concomitant prednisone from Week 12 up to Week 52. |  |  |  |  |
 
 Patients not completing the study to week 52 were classified as non-responders in the primary and key secondary analysis: PBO+26: 6 (12.0%), PBO+52: 5 (9.8%), TCZ QW: 15 (15.0%), TCZ Q2W: 9 (18.4%).
 
@@ -349,13 +339,12 @@ Table 9 Efficacy Findings at Week 12
 | Weighted difference (95% CI) | 62 (45, 78) | - |
 | JIA ACR Response Rates at Week 12 |  |  |
 | JIA ACR 30 |  |  |
-| Responders Weighted differencea (95% CI)b | 91% 67 (51, 83) | 24% - |
+| Responders Weighted difference a (95% CI) b | 91% 67 (51, 83) | 24% - |
 | JIA ACR 50 |  |  |
-| Responders Weighted differencea (95% CI) b | 85% 74 (58, 90) | 11% - |
+| Responders Weighted difference a (95% CI) b | 85% 74 (58, 90) | 11% - |
 | JIA ACR 70 |  |  |
-| Responders Weighted differencea (95% CI) b | 71% 63 (46, 80) | 8% - |
-| aThe weighted difference is the difference between the tocilizumab and Placebo response rates, adjusted for the stratification factors (weight, disease duration, background oral corticosteroid dose and background methotrexate use). |  |  |
-| b CI: confidence interval of the weighted difference. |  |  |
+| Responders Weighted difference a (95% CI) b | 71% 63 (46, 80) | 8% - |
+| aThe weighted difference is the difference between the tocilizumab and Placebo response rates, adjusted for the stratification factors (weight, disease duration, background oral corticosteroid dose and background methotrexate use). b CI: confidence interval of the weighted difference. |  |  |
 
 The treatment effect of tocilizumab was consistent across all components of the JIA ACR response core variables.
 JIA ACR scores and absence of fever responses in the open label extension were consistent with the controlled portion of the study (data available through 44 weeks).

@@ -4,7 +4,8 @@
 
 Risk Summary
 
-The limited available data with tocilizumab products in pregnant women are not sufficient to determine whether there is a drug-associated risk for major birth defects and miscarriage.
+The available data with tocilizumab products from a pregnancy exposure registry, retrospective cohort study, pharmacovigilance, and published literature are insufficient to draw conclusions about a drug-associated risk of major birth defects, miscarriage, or other adverse maternal or fetal outcomes.
+These studies had methodological limitations, including small sample size of tocilizumab exposed groups, missing exposure and outcomes information, and lack of adjustment for cofounders.
 Monoclonal antibodies, such as tocilizumab products, are actively transported across the placenta during the third trimester of pregnancy and may affect immune response in the in utero exposed infant [see Clinical Considerations].
 In animal reproduction studies, intravenous administration of tocilizumab to Cynomolgus monkeys during organogenesis caused abortion/embryo-fetal death at doses 1.25 times and higher than the maximum recommended human dose by the intravenous route of 8 mg per kg every 2 to 4 weeks.
 The literature in animals suggests that inhibition of IL-6 signaling may interfere with cervical ripening and dilatation and myometrial contractile activity leading to potential delays of parturition [see Data].
@@ -14,14 +15,19 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
 Fetal/Neonatal adverse reactions
 
 Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third trimester.
-Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to TYENNE in utero [see Warnings and Precautions 5.9)].
+Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to TYENNE in utero [see Warnings and Precautions (5.9)].
 
-Data
+Disease-associated Maternal Risk
+
+Published data suggest that the risk of adverse pregnancy outcomes in women with rheumatoid arthritis is associated with increased disease activity.
+Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth.
+
+### Data
 
 Animal Data
 
@@ -50,13 +56,13 @@ The lack of clinical data during lactation precludes clear determination of the 
 
 TYENNE by intravenous use is indicated for the treatment of pediatric patients with:
 
-- Active systemic juvenile idiopathic arthritis in patients 2 years of age and older
-- Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
+- •Active systemic juvenile idiopathic arthritis in patients 2 years of age and older
+- •Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
 
 TYENNE by subcutaneous use is indicated for the treatment of pediatric patients with:
 
-- Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
-- Active systemic juvenile idiopathic arthritis in patients 2 years of age and older
+- •Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
+- •Active systemic juvenile idiopathic arthritis in patients 2 years of age and older
 
 The safety and effectiveness of TYENNE in pediatric patients with conditions other than PJIA or SJIA have not been established.
 The safety and effectiveness in pediatric patients below the age of 2 have not been established in PJIA or SJIA.
@@ -88,7 +94,7 @@ As there is a higher incidence of infections in the elderly population in genera
 
 ## 8.6 Hepatic Impairment
 
-The safety and efficacy of tocilizumab products have not been studied in patients with hepatic impairment, including patients with positive HBV and HCV serology [see Warnings and Precautions 5.8)].
+The safety and efficacy of tocilizumab products have not been studied in patients with hepatic impairment, including patients with positive HBV and HCV serology [see Warnings and Precautions (5.8)].
 
 ## 8.7 Renal Impairment
 

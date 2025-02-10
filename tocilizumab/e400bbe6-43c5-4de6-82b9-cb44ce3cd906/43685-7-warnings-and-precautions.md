@@ -11,11 +11,11 @@ Patients have presented with disseminated rather than localized disease, and wer
 Do not administer TYENNE in patients with an active infection, including localized infections.
 The risks and benefits of treatment should be considered prior to initiating TYENNE in patients:
 
-- with chronic or recurrent infection;
-- who have been exposed to tuberculosis;
-- with a history of serious or an opportunistic infection;
-- who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
-- with underlying conditions that may predispose them to infection.
+- •with chronic or recurrent infection;
+- •who have been exposed to tuberculosis;
+- •with a history of serious or an opportunistic infection;
+- •who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
+- •with underlying conditions that may predispose them to infection.
 
 Closely monitor patients for the development of signs and symptoms of infection during and after treatment with TYENNE, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.1), Adverse Reactions (6.1), and Patient Counseling Information (17)].
 
@@ -43,7 +43,7 @@ No cases of Hepatitis B reactivation were observed in the trials; however patien
 
 Events of gastrointestinal perforation have been reported in clinical trials, primarily as complications of diverticulitis in patients treated with tocilizumab.
 Use TYENNE with caution in patients who may be at increased risk for gastrointestinal perforation.
-Promptly evaluate patients presenting with new onset abdominal symptoms for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
+Promptly evaluate patients presenting with fever, new onset abdominal symptoms, and a change in bowel habits for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
 
 ## 5.3 Hepatotoxicity
 
@@ -76,9 +76,9 @@ Neutropenia
 Treatment with tocilizumab products was associated with a higher incidence of neutropenia.
 Infections have been uncommonly reported in association with treatment-related neutropenia in long-term extension studies and postmarketing clinical experience.
 
-- – It is not recommended to initiate TYENNE treatment in RA and GCA patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
+- -It is not recommended to initiate TYENNE treatment in RA and GCA patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
   In patients who develop an absolute neutrophil count less than 500 per mm3 treatment is not recommended.
-- – Monitor neutrophils 4 to 8 weeks after start of therapy and every 3 months thereafter [see Clinical Pharmacology (12.2)].
+- -Monitor neutrophils 4 to 8 weeks after start of therapy and every 3 months thereafter [see Clinical Pharmacology (12.2)].
   For recommended modifications based on ANC results [see Dosage and Administration (2.8)].
 
 Thrombocytopenia
@@ -86,9 +86,9 @@ Thrombocytopenia
 Treatment with tocilizumab products was associated with a reduction in platelet counts.
 Treatment-related reduction in platelets was not associated with serious bleeding events in clinical trials [see Adverse Reactions (6.1, 6.2)].
 
-- – It is not recommended to initiate TYENNE treatment in RA and GCA patients with a platelet count below 100,000 per mm3.
+- -It is not recommended to initiate TYENNE treatment in RA and GCA patients with a platelet count below 100,000 per mm3.
   In patients who develop a platelet count less than 50,000 per mm3 treatment is not recommended.
-- – Monitor platelets 4 to 8 weeks after start of therapy and every 3 months thereafter.
+- -Monitor platelets 4 to 8 weeks after start of therapy and every 3 months thereafter.
   For recommended modifications based on platelet counts [see Dosage and Administration (2.8)].
 
 Elevated Liver Enzymes
@@ -100,8 +100,8 @@ Lipid Abnormalities
 
 Treatment with tocilizumab products was associated with increases in lipid parameters such as total cholesterol, triglycerides, LDL cholesterol, and/or HDL cholesterol [see Adverse Reactions (6.1, 6.2)].
 
-- – Assess lipid parameters approximately 4 to 8 weeks following initiation of TYENNE therapy.
-- – Subsequently, manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
+- -Assess lipid parameters approximately 4 to 8 weeks following initiation of TYENNE therapy.
+- -Subsequently, manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
 Patients with Polyarticular and Systemic Juvenile Idiopathic Arthritis
 
@@ -116,7 +116,7 @@ TYENNE is an immunosuppressant, and treatment with immunosuppressants may result
 
 ## 5.6 Hypersensitivity Reactions, Including Anaphylaxis
 
-Hypersensitivity reactions, including anaphylaxis, have been reported in association with tocilizumab products [see Adverse Reactions (6)] and anaphylactic events with a fatal outcome have been reported with intravenous infusion of tocilizumab products.
+Hypersensitivity reactions, including anaphylaxis, have been reported in association with tocilizumab products and anaphylactic events with a fatal outcome have been reported with intravenous infusion of tocilizumab products.
 Anaphylaxis and other hypersensitivity reactions that required treatment discontinuation were reported in 0.1% (3 out of 2644) of patients in the 6-month controlled trials of intravenous tocilizumab, 0.2% (8 out of 4009) of patients in the intravenous all-exposure RA population, 0.7% (8 out of 1068) in the subcutaneous 6-month controlled RA trials, and in 0.7% (10 out of 1465) of patients in the subcutaneous all-exposure population.
 In the SJIA controlled trial with intravenous tocilizumab, 1 out of 112 patients (0.9%) experienced hypersensitivity reactions that required treatment discontinuation.
 In the PJIA controlled trial with intravenous tocilizumab, 0 out of 188 patients (0%) in the tocilizumab all-exposure population experienced hypersensitivity reactions that required treatment discontinuation.
@@ -125,11 +125,12 @@ Injection site reactions were categorized separately [see Adverse Reactions (6)]
 
 In the postmarketing setting, events of hypersensitivity reactions, including anaphylaxis and death have occurred in patients treated with a range of doses of intravenous tocilizumab products, with or without concomitant therapies.
 Events have occurred in patients who received premedication.
-Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of tocilizumab products [see Adverse Reactions (6.7)].
+Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of tocilizumab products [seeAdverse Reactions (6.9)].
+In addition, serious cutaneous reactions, including Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported in patients with autoinflammatory conditions treated with tocilizumab products.
+
 TYENNE for intravenous use should only be infused by a healthcare professional with appropriate medical support to manage anaphylaxis.
 For TYENNE subcutaneous injection, advise patients to seek immediate medical attention if they experience any symptoms of a hypersensitivity reaction.
-If anaphylaxis or other hypersensitivity reaction occurs, stop administration of TYENNE immediately and discontinue TYENNE permanently.
-Do not administer TYENNE to patients with known hypersensitivity to tocilizumab products [see Contraindications (4) and Adverse Reactions (6)].
+If a hypersensitivity reaction occurs, stop immediately discontinue TYENNE treat promptly and monitor until signs and symptoms resolve.
 
 ## 5.7 Demyelinating Disorders
 

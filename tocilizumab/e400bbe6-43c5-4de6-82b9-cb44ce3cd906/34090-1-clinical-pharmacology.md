@@ -107,9 +107,7 @@ Accumulation data for Cmax were 1.37 and 1.42 for 12 mg/kg (BW less than 30 kg) 
 Following every other week dosing with tocilizumab IV, steady state was reached by 8 weeks for both body weight groups.
 Mean estimated tocilizumab exposure parameters were similar between the two dose groups defined by body weight.
 
-For doses of 162 mg tocilizumab (patients with a body weight at or above 30 kg) given every week subcutaneously, the estimated median (range) Cmax, Ctrough, and Cmean of tocilizumab were 89.8 (26.4–
-
-190) mcg/mL, 72.4 (19.5–158) mcg/mL, and 82.4 (23.9–169) mcg/mL, respectively.
+For doses of 162 mg tocilizumab (patients with a body weight at or above 30 kg) given every week subcutaneously, the estimated median (range) Cmax, Ctrough, and Cmean of tocilizumab were 89.8 (26.4– 190) mcg/mL, 72.4 (19.5–158) mcg/mL, and 82.4 (23.9–169) mcg/mL, respectively.
 For doses of 162 mg tocilizumab (patients with a body weight less than 30 kg) given every 2 weeks subcutaneously, the estimated median (range) Cmax, Ctrough, and Cmean of tocilizumab were 127 (51.7–266) mcg/mL, 64.2 (16.6–136) mcg/mL, and 92.7 (38.5–199) mcg/mL, respectively.
 
 The accumulation ratios were 2.27 and 4.28 for AUC4weeks, 3.21 and 4.39 for Ctrough, and 1.88 and 3.66 for Cmax, for 162 mg given every 2 weeks (BW less than 30 kg) and 162 mg given every week (BW at or above 30 kg) subcutaneous doses, respectively.
