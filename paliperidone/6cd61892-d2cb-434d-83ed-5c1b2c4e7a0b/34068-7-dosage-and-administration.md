@@ -148,7 +148,7 @@ Incomplete Administration
 | Remove air bubbles Press the plunger carefully until a drop of liquid comes out of the needle tip. |  |
 | 2. Slowly inject entire content and confirm |  |
 | Select and clean a gluteal injection site Wipe the gluteal site with an alcohol swab and allow it to dry. Do not touch, fan or blow on the injection site after you have cleaned it. |  |
-| Remove needle sheath Pull the needle sheath away from the needle in a straight motion. Do nottwist the sheath, as this may loosen the needle from the syringe. |  |
+| Remove needle sheath Pull the needle sheath away from the needle in a straight motion. Do not twist the sheath, as this may loosen the needle from the syringe. |  |
 | Slowly inject and confirm Use slow, firm, consistent pressure to press the plunger completely. This should take approximately 30 seconds. Continue to press the plunger if you feel resistance. This is normal. |  |
 | Remove needle from the muscle. |  |
 | 3. After the injection |  |

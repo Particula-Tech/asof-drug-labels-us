@@ -16,7 +16,7 @@ Carcinogenicity studies with risperidone, which is extensively converted to pali
 Risperidone was administered in the diet at daily doses of 0.63, 2.5, and 10 mg/kg for 18 months to mice and for 25 months to rats.
 A maximum tolerated dose was not achieved in male mice.
 There were statistically significant increases in pituitary gland adenomas, endocrine pancreas adenomas, and mammary gland adenocarcinomas.
-The no-effect dose for these tumors was less than or equal to the maximum recommended human dose of risperidone based on mg/m 2 body surface area (see risperidone package insert).
+The no-effect dose for these tumors was less than or equal to the maximum recommended human dose of risperidone based on mg/m 2body surface area (see risperidone package insert).
 An increase in mammary, pituitary, and endocrine pancreas neoplasms has been found in rodents after chronic administration of other antipsychotic drugs and is considered to be mediated by prolonged dopamine D 2 antagonism and hyperprolactinemia.
 The relevance of these tumor findings in rodents to human risk is unclear [see Warnings and Precautions (5.10)].
 
