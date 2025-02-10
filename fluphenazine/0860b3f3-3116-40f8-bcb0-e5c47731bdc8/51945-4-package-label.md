@@ -10,4 +10,4 @@ For oral use only
 
 Rx ONLY
 
-Pharmaceutical Associates, Inc. Greenville, SC 29605
+PAI Pharma
