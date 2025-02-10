@@ -2,7 +2,7 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.1)]
+- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
 - Cerebrovascular adverse reactions, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
 - Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
 - QT prolongation [see Warnings and Precautions (5.4)]
@@ -38,17 +38,17 @@ Adverse reactions that occurred more frequently in the INVEGA SUSTENNA than the 
 
 Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials
 
-Commonly Observed Adverse Reactions:The most common (at least 5% in any INVEGA SUSTENNA group) and likely drug-related (adverse events for which the drug rate is at least twice the placebo rate) adverse reactions from the double-blind, placebo-controlled trials in subjects with schizophrenia were injection site reactions, somnolence/sedation, dizziness, akathisia, and extrapyramidal disorder.No occurrences of adverse events reached this threshold in the long-term double-blind, placebo-controlled study in subjects with schizoaffective disorder.
+Commonly Observed Adverse Reactions: The most common (at least 5% in any INVEGA SUSTENNA group) and likely drug-related (adverse events for which the drug rate is at least twice the placebo rate) adverse reactions from the double-blind, placebo-controlled trials in subjects with schizophrenia were injection site reactions, somnolence/sedation, dizziness, akathisia, and extrapyramidal disorder.No occurrences of adverse events reached this threshold in the long-term double-blind, placebo-controlled study in subjects with schizoaffective disorder.
 
-Discontinuation of Treatment Due to Adverse Events:The percentage of subjects who discontinued due to adverse events in the four fixed-dose, double-blind, placebo-controlled schizophrenia trials were similar for INVEGA SUSTENNA- and placebo-treated subjects.
+Discontinuation of Treatment Due to Adverse Events: The percentage of subjects who discontinued due to adverse events in the four fixed-dose, double-blind, placebo-controlled schizophrenia trials were similar for INVEGA SUSTENNA- and placebo-treated subjects.
 
 The percentage of subjects who discontinued due to adverse events in the open-label period of the long-term study in subjects with schizoaffective disorder was 7.5%.
 During the double-blind, placebo-controlled period of that study, the percentages of subjects who discontinued due to adverse events were 5.5% and 1.8% in INVEGA SUSTENNA- and placebo-treated subjects, respectively.
 
-Dose-Related Adverse Reactions:Based on the pooled data from the four fixed-dose, double-blind, placebo-controlled trials in subjects with schizophrenia, among the adverse reactions that occurred with ≥ 2% incidence in the subjects treated with INVEGA SUSTENNA, only akathisia increased with dose.
+Dose-Related Adverse Reactions: Based on the pooled data from the four fixed-dose, double-blind, placebo-controlled trials in subjects with schizophrenia, among the adverse reactions that occurred with ≥ 2% incidence in the subjects treated with INVEGA SUSTENNA, only akathisia increased with dose.
 Hyperprolactinemia also exhibited a dose relationship, but did not occur at ≥ 2% incidence in INVEGA SUSTENNA-treated subjects from the four fixed-dose studies.
 
-Adverse Reactions Occurring at an Incidence of 2% or More in INVEGA SUSTENNA-Treated Patients:Table 10 lists the adverse reactions reported in 2% or more of INVEGA SUSTENNA-treated subjects and at a greater proportion than in the placebo group with schizophrenia in the four fixed-dose, double-blind, placebo-controlled trials.
+Adverse Reactions Occurring at an Incidence of 2% or More in INVEGA SUSTENNA-Treated Patients: Table 10 lists the adverse reactions reported in 2% or more of INVEGA SUSTENNA-treated subjects and at a greater proportion than in the placebo group with schizophrenia in the four fixed-dose, double-blind, placebo-controlled trials.
 
 Table 10: Incidences of Adverse Reactions 2% or More of INVEGA SUSTENNA-Treated Patients (and Greater than Placebo) with Schizophrenia in Four Fixed-Dose, Double-Blind, Placebo-Controlled Trials
 
@@ -103,31 +103,31 @@ Other Adverse Reactions Observed During the Clinical Trial Evaluation of INVEGA 
 
 The following list does not include reactions: 1) already listed in previous tables or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general as to be uninformative, or 4) which were not considered to have significant clinical implications.
 
-Cardiac disorders:atrioventricular block first degree, bradycardia, bundle branch block, palpitations, postural orthostatic tachycardia syndrome, tachycardia
+Cardiac disorders: atrioventricular block first degree, bradycardia, bundle branch block, palpitations, postural orthostatic tachycardia syndrome, tachycardia
 
-Ear and labyrinth disorders:vertigo
+Ear and labyrinth disorders: vertigo
 
-Eye disorders:eye movement disorder, eye rolling, oculogyric crisis, vision blurred
+Eye disorders: eye movement disorder, eye rolling, oculogyric crisis, vision blurred
 
-Gastrointestinal disorders:constipation, dyspepsia, flatulence, salivary hypersecretion
+Gastrointestinal disorders: constipation, dyspepsia, flatulence, salivary hypersecretion
 
-Immune system disorders:hypersensitivity
+Immune system disorders: hypersensitivity
 
-Investigations:alanine aminotransferase increased, aspartate aminotransferase increased, electrocardiogram abnormal
+Investigations: alanine aminotransferase increased, aspartate aminotransferase increased, electrocardiogram abnormal
 
-Metabolism and nutrition disorders:decreased appetite, hyperinsulinemia, increased appetite
+Metabolism and nutrition disorders: decreased appetite, hyperinsulinemia, increased appetite
 
-Musculoskeletal and connective tissue disorders:arthralgia, joint stiffness, muscle rigidity, muscle spasms, muscle tightness, muscle twitching, nuchal rigidity
+Musculoskeletal and connective tissue disorders: arthralgia, joint stiffness, muscle rigidity, muscle spasms, muscle tightness, muscle twitching, nuchal rigidity
 
-Nervous system disorders:bradykinesia, cerebrovascular accident, cogwheel rigidity, convulsion, dizziness postural, drooling, dysarthria, dyskinesia, dystonia, hypertonia, lethargy, oromandibular dystonia, parkinsonism, psychomotor hyperactivity, syncope
+Nervous system disorders: bradykinesia, cerebrovascular accident, cogwheel rigidity, convulsion, dizziness postural, drooling, dysarthria, dyskinesia, dystonia, hypertonia, lethargy, oromandibular dystonia, parkinsonism, psychomotor hyperactivity, syncope
 
-Psychiatric disorders:insomnia, libido decreased, restlessness
+Psychiatric disorders: insomnia, libido decreased, restlessness
 
-Reproductive system and breast disorders:amenorrhea, breast discharge, breast enlargement/breast swelling, breast tenderness/breast pain, ejaculation disorder, erectile dysfunction, galactorrhea, gynecomastia, menstrual disorder, menstruation delayed, menstruation irregular, sexual dysfunction
+Reproductive system and breast disorders: amenorrhea, breast discharge, breast enlargement/breast swelling, breast tenderness/breast pain, ejaculation disorder, erectile dysfunction, galactorrhea, gynecomastia, menstrual disorder, menstruation delayed, menstruation irregular, sexual dysfunction
 
-Respiratory, thoracic and mediastinal disorders:nasal congestion
+Respiratory, thoracic and mediastinal disorders: nasal congestion
 
-Skin and subcutaneous tissue disorders:drug eruption, pruritus, pruritus generalized, rash, urticaria
+Skin and subcutaneous tissue disorders: drug eruption, pruritus, pruritus generalized, rash, urticaria
 
 Demographic Differences
 
@@ -202,19 +202,19 @@ General disorders and administration site conditions: edema, edema peripheral
 
 Immune system disorders: anaphylactic reaction
 
-Infections and infestations:rhinitis
+Infections and infestations: rhinitis
 
 Musculoskeletal and connective tissue disorders: musculoskeletal pain, torticollis, trismus
 
 Nervous system disorders: grand mal convulsion, parkinsonian gait, transient ischemic attack
 
-Psychiatric disorders:sleep disorder
+Psychiatric disorders: sleep disorder
 
 Reproductive system and breast disorders: breast engorgement
 
-Respiratory, thoracic and mediastinal disorders:pharyngolaryngeal pain, pneumonia aspiration
+Respiratory, thoracic and mediastinal disorders: pharyngolaryngeal pain, pneumonia aspiration
 
-Skin and subcutaneous tissue disorders:rash papular
+Skin and subcutaneous tissue disorders: rash papular
 
 Vascular disorders: hypotension, ischemia
 

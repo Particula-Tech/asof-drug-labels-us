@@ -93,14 +93,14 @@ INVEGA SUSTENNA has not been systematically studied in patients with renal impai
 For patients with mild renal impairment (creatinine clearance ≥ 50 mL/min to < 80 mL/min [Cockcroft-Gault Formula]), initiate INVEGA SUSTENNA with a dose of 156 mg on treatment Day 1 and 117 mg on Day 8, both in the deltoid muscle.
 Follow with the recommended monthly maintenance dose of 78 mg, administered in either the deltoid or gluteal muscle.
 Adjust monthly maintenance dose based on tolerability and/or efficacy within the strengths of 39 mg, 78 mg, 117 mg, or 156 mg.
-The maximum monthly dose is 156 mg for patients with mild renal impairment [see Use in Specific Populations (8.6)and Clinical Pharmacology (12.3)].
+The maximum monthly dose is 156 mg for patients with mild renal impairment [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
-INVEGA SUSTENNA is not recommended in patients with moderate or severe renal impairment (creatinine clearance < 50 mL/min) [see Use in Specific Populations (8.6)and Clinical Pharmacology (12.3)].
+INVEGA SUSTENNA is not recommended in patients with moderate or severe renal impairment (creatinine clearance < 50 mL/min) [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 Coadministration with Strong CYP3A4/P-glycoprotein (P-gp) Inducers
 
 Avoid using a strong inducer of CYP3A4 and/or P-gp (e.g., carbamazepine, rifampin, St John's Wort) during the 1-month dosing interval for INVEGA SUSTENNA, if possible.
-If administering a strong inducer is necessary, consider managing the patient using paliperidone extended release tablets [see Drug Interactions (7.1)and Clinical Pharmacology (12.3)].
+If administering a strong inducer is necessary, consider managing the patient using paliperidone extended release tablets [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
 ## 2.6 Switching from Other Antipsychotics
 
@@ -131,7 +131,7 @@ For patients who have never taken oral paliperidone or oral or injectable risper
 When switching patients currently at steady-state on a long-acting injectable antipsychotic, initiate INVEGA SUSTENNA therapy in place of the next scheduled injection.
 INVEGA SUSTENNA should then be continued at monthly intervals.
 The one-week initiation dosing regimen as described in Section 2.2 is not required.
-See Table 1above for recommended monthly maintenance dosing.
+See Table 1 above for recommended monthly maintenance dosing.
 Based on previous clinical history of tolerability and/or efficacy, some patients may benefit from lower or higher maintenance doses within the available strengths (39 mg, 78 mg, 117 mg, 156 mg, and 234 mg).
 The 39 mg strength was not studied in the long-term schizoaffective disorder study.
 Monthly maintenance doses can be administered in either the deltoid or gluteal muscle [see Dosage and Administration (2.2)].
@@ -149,9 +149,9 @@ INVEGA SUSTENNA is for single use only.
 
 - Shake the syringe vigorously for a minimum of 10 seconds to ensure a homogeneous suspension.
 - Select the appropriate needle.
-  For DELTOID injection: For GLUTEAL injection:Use the 1 ½-inch 22gauge needle (needle with graycolored hub) regardless of patient's weight.
-  - If the patient weighs less than 90 kg, use the 1-inch 23gauge needle (needle with bluecolored hub).
-  - If the patient weighs 90 kg or more, use the 1 ½-inch 22gauge needle (needle with graycolored hub).
+  For DELTOID injection: For GLUTEAL injection:Use the 1 ½-inch 22 gauge needle (needle with gray colored hub) regardless of patient's weight.
+  - If the patient weighs less than 90 kg, use the 1-inch 23 gauge needle (needle with blue colored hub).
+  - If the patient weighs 90 kg or more, use the 1 ½-inch 22 gauge needle (needle with gray colored hub).
 - Hold the syringe with the tip cap pointing up.
   Remove the rubber tip cap with a gentle twisting motion.
 - Peel the safety needle pouch half way open.

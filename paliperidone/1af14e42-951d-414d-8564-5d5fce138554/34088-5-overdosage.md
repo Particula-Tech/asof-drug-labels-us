@@ -11,7 +11,7 @@ Other potential signs and symptoms include those resulting from an exaggeration 
 Torsades de pointes and ventricular fibrillation have been reported in a patient in the setting of overdose with oral paliperidone.
 
 Paliperidone is the major active metabolite of risperidone.
-Overdose experience reported with risperidone can be found in the OVERDOSAGEsection of the risperidone package insert.
+Overdose experience reported with risperidone can be found in the OVERDOSAGE section of the risperidone package insert.
 
 ## 10.2 Management of Overdosage
 

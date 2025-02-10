@@ -18,8 +18,8 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
-In animal reproduction studies, there were no treatment related effects on the offspring when pregnant rats were injected intramuscularly with paliperidone palmitate during the period of organogenesis at doses up to 10 times the maximum recommended human dose (MRHD) of 234 mg paliperidone based on mg/m 2body surface area.
-There were no increases in fetal abnormalities when pregnant rats and rabbits were treated orally with paliperidone during the period of organogenesis with up to 8 times the MRHD of 12 mg of paliperidone based on mg/m 2body surface area.
+In animal reproduction studies, there were no treatment related effects on the offspring when pregnant rats were injected intramuscularly with paliperidone palmitate during the period of organogenesis at doses up to 10 times the maximum recommended human dose (MRHD) of 234 mg paliperidone based on mg/m 2 body surface area.
+There were no increases in fetal abnormalities when pregnant rats and rabbits were treated orally with paliperidone during the period of organogenesis with up to 8 times the MRHD of 12 mg of paliperidone based on mg/m 2 body surface area.
 Additional reproduction toxicity studies were conducted with orally administered risperidone, which is extensively converted to paliperidone (see Animal data).
 
 Clinical Considerations
@@ -48,17 +48,17 @@ There was a small increase in the risk of major birth defects (RR= 1.26, 95% CI 
 
 Animal Data
 
-There were no treatment-related effects on the offspring when pregnant rats were injected intramuscularly with paliperidone palmitate extended-release injectable suspension during the period of organogenesis at doses up to 250 mg/kg, which is 10 times MRHD of 234 mg paliperidone based on mg/m 2body surface area.
+There were no treatment-related effects on the offspring when pregnant rats were injected intramuscularly with paliperidone palmitate extended-release injectable suspension during the period of organogenesis at doses up to 250 mg/kg, which is 10 times MRHD of 234 mg paliperidone based on mg/m 2 body surface area.
 
-In animal reproduction studies, there were no increases in fetal abnormalities when pregnant rats and rabbits were treated orally with paliperidone during the period of organogenesis with up to 8 times the MRHD of 12 mg based on mg/m 2body surface area.
+In animal reproduction studies, there were no increases in fetal abnormalities when pregnant rats and rabbits were treated orally with paliperidone during the period of organogenesis with up to 8 times the MRHD of 12 mg based on mg/m 2 body surface area.
 
 Additional reproduction toxicity studies were conducted with orally administered risperidone, which is extensively converted to paliperidone.
-Cleft palate was observed in the offspring of pregnant mice treated with risperidone at 3 to 4 times the MRHD of 16 mg based on mg/m 2body surface area; maternal toxicity occurred at 4 times the MHRD.
-There was no evidence of teratogenicity in embryo-fetal developmental toxicity studies with risperidone in rats and rabbits at doses up to 6 times the MRHD of 16 mg/day risperidone based on mg/m 2body surface area.
+Cleft palate was observed in the offspring of pregnant mice treated with risperidone at 3 to 4 times the MRHD of 16 mg based on mg/m 2 body surface area; maternal toxicity occurred at 4 times the MHRD.
+There was no evidence of teratogenicity in embryo-fetal developmental toxicity studies with risperidone in rats and rabbits at doses up to 6 times the MRHD of 16 mg/day risperidone based on mg/m 2 body surface area.
 When the offspring of pregnant rats, treated with risperidone at 0.6 times the MRHD based on mg/m 2body surface area, reached adulthood, learning was impaired.
 Increased neuronal cell death occurred in the fetal brains of the offspring of pregnant rats treated at 0.5 to 1.2 times the MRHD; the postnatal development and growth of the offspring was delayed.
 
-In rat reproduction studies with risperidone, pup deaths occurred at oral doses which are less than the MRHD of risperidone based on mg/m 2body surface area; it is not known whether these deaths were due to a direct effect on the fetuses or pups or, to effects on the dams (see RISPERDAL package insert).
+In rat reproduction studies with risperidone, pup deaths occurred at oral doses which are less than the MRHD of risperidone based on mg/m 2 body surface area; it is not known whether these deaths were due to a direct effect on the fetuses or pups or, to effects on the dams (see RISPERDAL package insert).
 
 ## 8.2 Lactation
 
@@ -108,7 +108,7 @@ Because elderly patients are more likely to have decreased renal function, adjus
 ## 8.6 Renal Impairment
 
 Use of INVEGA SUSTENNA is not recommended in patients with moderate or severe renal impairment (creatinine clearance < 50 mL/min).
-Dose reduction is recommended for patients with mild renal impairment (creatinine clearance ≥ 50 mL/min to < 80 mL/min) [see Dosage and Administration (2.5)and Clinical Pharmacology (12.3)].
+Dose reduction is recommended for patients with mild renal impairment (creatinine clearance ≥ 50 mL/min to < 80 mL/min) [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

@@ -8,13 +8,13 @@ Over the course of a typical 10-week controlled trial, the rate of death in drug
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
-INVEGA SUSTENNA is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.2)].
+INVEGA SUSTENNA is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.2)].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
 No studies have been conducted with oral paliperidone, INVEGA SUSTENNA, or the 3-month paliperidone palmitate extended-release injectable suspension in elderly patients with dementia.
-These medicines are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.1)].
+These medicines are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -36,8 +36,8 @@ Certain circumstances may increase the risk of the occurrence of Torsades de poi
 The effects of oral paliperidone on the QT interval were evaluated in a double-blind, active-controlled (moxifloxacin 400 mg single dose), multicenter QT study in adults with schizophrenia and schizoaffective disorder, and in three placebo- and active-controlled 6-week, fixed-dose efficacy trials in adults with schizophrenia.
 
 In the QT study (n=141), the 8 mg dose of immediate-release oral paliperidone (n=50) showed a mean placebo-subtracted increase from baseline in QTcLD of 12.3 msec (90% CI: 8.9; 15.6) on day 8 at 1.5 hours post-dose.
-The mean steady-state peak plasma concentration for this 8 mg dose of paliperidone immediate release (C max ss= 113 ng/mL) was more than 2-fold the exposure observed with the maximum recommended 234 mg dose of INVEGA SUSTENNA administered in the deltoid muscle (predicted median C max ss= 50 ng/mL).
-In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which C max ss= 35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on day 2 at 1.5 hours post-dose.
+The mean steady-state peak plasma concentration for this 8 mg dose of paliperidone immediate release (C max ss = 113 ng/mL) was more than 2-fold the exposure observed with the maximum recommended 234 mg dose of INVEGA SUSTENNA administered in the deltoid muscle (predicted median C max ss = 50 ng/mL).
+In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which C max ss = 35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on day 2 at 1.5 hours post-dose.
 
 In the three fixed-dose efficacy studies of oral paliperidone extended release in subjects with schizophrenia, electrocardiogram (ECG) measurements taken at various time points showed only one subject in the oral paliperidone 12 mg group had a change exceeding 60 msec at one time-point on Day 6 (increase of 62 msec).
 
@@ -224,7 +224,7 @@ Discontinue INVEGA SUSTENNA in patients with severe neutropenia (absolute neutro
 
 ## 5.10 Hyperprolactinemia
 
-Like other drugs that antagonize dopamine D 2receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
+Like other drugs that antagonize dopamine D 2 receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
 Paliperidone has a prolactin-elevating effect similar to that seen with risperidone, a drug that is associated with higher levels of prolactin than other antipsychotic drugs.
 
 Hyperprolactinemia, regardless of etiology, may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotrophin secretion.
@@ -234,7 +234,7 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 An increase in the incidence of pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 Prolactin data from two long-term, double-blind, placebo-controlled studies with INVEGA SUSTENNA are presented below; one study was in a population of patients with schizophrenia; the second study was in patients with schizoaffective disorder.
 
