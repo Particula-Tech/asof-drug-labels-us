@@ -1,67 +1,69 @@
-Principal Display Panel – 162 mg/0.9 mL Autoinjector
+# Principal Display Panel – 0.9 mL Prefilled syringe – Primary Label
 
-NDC: 65219-584-01 Rx only
+NDC 65219-586-04 Rx only
 
-Tyenne® (tocilizumab-aazg)
+Tyenne® tocilizumab-aazg Injection
 
-Injection
-
-162 mg/0.9 mL
+162 mg / 0.9 mL
 
 For Subcutaneous Use Only
 
-1 single-dose autoinjector 0.9 mL
+Sterile Solution - No Preservative
 
-Carton contains:
+Fresenius Kabi USA, LLC
 
-1 single-dose autoinjector - Discard Unused Portion
+# Principal Display Panel – 0.9 mL Prefilled syringe - Carton
 
-1 Prescribing Information
+NDC 65219-586-04 Rx only
 
-1 Medication Guide
-
-1 Instruction for use
-
-Refrigerate mmediately
-
-Sterile Solution – No Preservative
-
-Dispense the enclosed
-
-Medication Guide to each patient
-
------------------------------------------------------------------------
-
-Principal Display Panel – 162 mg/0.9 mL Prefilled Syringe
-
-NDC: 65219-586-04 Rx only
-
-Tyenne® (tocilizumab-aazg)
+Tyenne® tocilizumab-aazg
 
 Injection
 
-162 mg/0.9 mL
+162 mg / 0.9 mL
 
 For Subcutaneous Use Only
 
 1 single-dose prefilled syringe 0.9 mL
 
-Carton contains:
+Carton contains: 1 Single-dose prefilled syringe - Discard Unused Portion 1 Prescribing Information 1 Medication Guide 1 Instruction for Use
 
-1 single-dose prefilled syringe - Discard Unused Portion
+Dispense the enclosed Medication Guide to each patient
 
-1 Prescribing Information
+Sterile Solution - No Preservative
 
-1 Medication Guide
+Refrigerate Immediately
 
-1 Instruction for use
+# Principal Display Panel – 0.9 mL Autoinjector – Primary Label
 
-Sterile Solution – No Preservative
+NDC 65219-584-01 Rx only
 
-Refrigerate immediately
+Tyenne® tocilizumab-aazg Injection
 
-Dispense the enclosed
+162 mg / 0.9 mL
 
-Medication Guide to each patient
+For Subcutaneous Use Only
 
------------------------------------------------------------------------
+Manufactured by:
+
+Fresenius Kabi USA, LLC
+
+# Principal Display Panel – 0.9 mL Autoinjector - Carton
+
+NDC 65219-584-01 Rx only
+
+Tyenne® tocilizumab-aazg
+
+Injection
+
+162 mg / 0.9 mL
+
+For Subcutaneous Use Only
+
+1 single-dose autoinjector 0.9 mL
+
+Carton contains: 1 Single-dose autoinjector - Discard Unused Portion 1 Prescribing Information 1 Medication Guide 1 Instruction for Use
+
+Dispense the enclosed Medication Guide to each patient
+
+Refrigerate Immediately Sterile Solution - No Preservative.
