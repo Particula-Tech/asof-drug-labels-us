@@ -19,6 +19,6 @@ Medication Guide for Nonsteroidal Anti-inflammatory Drugs (NSAIDs)
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 04/2021
+Revised: 11/2024
 
-UPJ:MG:CLBRXC:RX
+UPJ:MG:CLBRXC:R2m

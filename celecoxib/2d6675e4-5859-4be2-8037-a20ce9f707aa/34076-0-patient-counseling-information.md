@@ -55,6 +55,6 @@ Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 CELEBREX is a registered trademark of G.D.
 Searle LLC, a Viatris Company.
 
-UPJ:CLBRXC:RX
+UPJ:CLBRXC:R2mmt
 
 Revised: 11/2024
