@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA214768"
+  ],
+  "inn": "triamterene",
+  "labeler": "Biocon Pharma Inc.",
+  "package_ndcs": [
+    "70377-138-11",
+    "70377-138-12",
+    "70377-139-11",
+    "70377-139-12"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "triamterene",
+      "name": "Triamterene"
+    }
+  ],
+  "setid": "dcaa7b4d-9613-298a-5a39-f2032492096c",
+  "source": "dailymed"
+}

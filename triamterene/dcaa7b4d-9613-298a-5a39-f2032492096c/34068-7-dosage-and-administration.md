@@ -1,0 +1,9 @@
+# DOSAGE AND ADMINISTRATION
+
+Adult Dosage Dosage should be titrated to the needs of the individual patient.
+When used alone, the usual starting dose is 100 mg twice daily after meals.
+When combined with another diuretic or antihypertensive agent, the total daily dosage of each agent should usually be lowered initially and then adjusted to the patient’s needs.
+The total daily dosage should not exceed 300 mg.
+Please refer to PRECAUTIONS−General.
+
+When triamterene capsules are added to other diuretic therapy or when patients are switched to triamterene capsules from other diuretics, all potassium supplementation should be discontinued.
