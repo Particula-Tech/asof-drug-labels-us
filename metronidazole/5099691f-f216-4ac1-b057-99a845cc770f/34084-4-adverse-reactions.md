@@ -1,0 +1,5 @@
+# ADVERSE REACTIONS
+
+In a controlled clinical trial, safety data from 141 patients who used Metronidazole Topical Lotion (n=71), or the lotion vehicle (n=70), twice daily and experienced a local cutaneous adverse event which may or may not have been related to the treatments include: local allergic reaction, Metronidazole Topical Lotion 2 (3%), lotion vehicle 0; contact dermatitis, Metronidazole Topical Lotion 2 (3%), lotion vehicle 1 (1%); pruritus, Metronidazole Topical Lotion 1 (1%), lotion vehicle 0; skin discomfort (burning and stinging), Metronidazole Topical Lotion 1 (1%), lotion vehicle 2 (3%); erythema, Metronidazole Topical Lotion 4 (6%), lotion vehicle 0; dry skin, MetronidazoleTopical Lotion 0, lotion vehicle 1 (1%); and worsening of rosacea, Metronidazole Topical Lotion 1 (1%), lotion vehicle 7 (10%).
+
+The following additional adverse experiences have been reported with the topical use of metronidazole: skin irritation, transient redness, metallic taste, tingling or numbness of extremities, and nausea.

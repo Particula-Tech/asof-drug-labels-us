@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020901"
+  ],
+  "inn": "metronidazole",
+  "labeler": "Mayne Pharma Inc.",
+  "package_ndcs": [
+    "68308-712-59"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "metronidazole",
+      "name": "metronidazole"
+    }
+  ],
+  "setid": "5099691f-f216-4ac1-b057-99a845cc770f",
+  "source": "dailymed"
+}
