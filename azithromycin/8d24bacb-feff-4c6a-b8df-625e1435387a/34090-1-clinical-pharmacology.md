@@ -25,9 +25,9 @@ In patients hospitalized with community-acquired pneumonia receiving single dail
 The mean Cmax, 24-hour trough and AUC24 values were 1.14 ± 0.14 mcg/mL, 0.18 ± 0.02 mcg/mL, and 8.03 ±0.86 mcg∙hr/mL, respectively, in normal volunteers receiving a 3-hour intravenous infusion of 500 mg azithromycin at a concentration of 1 mg/mL.
 Similar pharmacokinetic values were obtained in patients hospitalized with community-acquired pneumonia who received the same 3-hour dosage regimen for 2–5 days.
 
-| 0.5 | 1 | 2 | 3 | 4 | 6 | 8 | 12 | 24 |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Infusion Concentration, Duration | Time after starting the infusion (hr) |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 0.5 | 1 | 2 | 3 | 4 | 6 | 8 | 12 | 24 |  |
 | 2 mg/mL, 1 hr500 mg (2 mg/mL) for 2–5 days in community-acquired pneumonia patients. | 2.98 ±1.12 | 3.63 ±1.73 | 0.60 ±0.31 | 0.40 ±0.23 | 0.33 ±0.16 | 0.26 ±0.14 | 0.27±0.15 | 0.20 ±0.12 | 0.20 ±0.15 |
 | 1 mg/mL, 3 hr500 mg (1 mg/mL) for 5 days in healthy subjects. | 0.91 ±0.13 | 1.02 ±0.11 | 1.14 ±0.13 | 1.13 ±0.16 | 0.32 ±0.05 | 0.28 ±0.04 | 0.27±0.03 | 0.22 ±0.02 | 0.18 ±0.02 |
 
@@ -103,9 +103,9 @@ No dosage adjustment of azithromycin is recommended when administered with drugs
 Table 1.
 Drug Interactions: Pharmacokinetic Parameters for Co-administered Drugs in the Presence of Azithromycin
 
-| Mean Cmax | Mean AUC |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio (with/without azithromycin) of Co-administered Drug Pharmacokinetic Parameters (90% CI); No Effect = 1 |  |
+| --- | --- | --- | --- | --- | --- |
+| Mean Cmax | Mean AUC |  |  |  |  |
 | Atorvastatin | 10 mg/day for 8 days | 500 mg/day orally on days 6–8 | 12 | 0.83 (0.63 to 1.08) | 1.01 (0.81 to 1.25) |
 | Carbamazepine | 200 mg/day for 2 days, then 200 mg twice a day for 18 days | 500 mg/day orally for days 16–18 | 7 | 0.97 (0.88 to 1.06) | 0.96 (0.88 to 1.06) |
 | Cetirizine | 20 mg/day for 11 days | 500 mg orally on day 7, then 250 mg/day on days 8–11 | 14 | 1.03 (0.93 to 1.14) | 1.02 (0.92 to 1.13) |
@@ -127,9 +127,9 @@ Table 2.
 Drug Interactions: Pharmacokinetic Parameters for Azithromycin in the Presence of Co-administered Drugs.
 [see Drug Interactions (7.3)]
 
-| Mean Cmax | Mean AUC |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
 | Co-administered Drug | Dose of Co-administered Drug | Dose of Azithromycin | n | Ratio (with/without co-administered drug) of Azithromycin Pharmacokinetic Parameters (90% CI); No Effect = 1 |  |
+| --- | --- | --- | --- | --- | --- |
+| Mean Cmax | Mean AUC |  |  |  |  |
 | Efavirenz | 400 mg/day for 7 days | 600 mg orally on day 7 | 14 | 1.22 (1.04 to 1.42) | 0.92 - 90% Confidence interval not reported |
 | Fluconazole | 200 mg orally single dose | 1,200 mg orally single dose | 18 | 0.82 (0.66 to 1.02) | 1.07 (0.94 to 1.22) |
 | Nelfinavir | 750 mg three times a day for 11 days | 1,200 mg orally on day 9 | 14 | 2.36 (1.77 to 3.15) | 2.12 (1.80 to 2.5) |
@@ -151,37 +151,23 @@ Antimicrobial Activity
 Azithromycin has been shown to be active against the following microorganisms, both in vitro and in clinical infections.
 [see Indications and Usage (1)]
 
-Gram-positive Bacteria
+Gram-positive Bacteria Staphylococcus aureus Streptococcus pneumoniae
 
-Staphylococcus aureus Streptococcus pneumoniae
+Gram-negative Bacteria Haemophilus influenzae Moraxella catarrhalis Neisseria gonorrhoeae Legionella pneumophila
 
-Gram-negative Bacteria
-
-Haemophilus influenzae Moraxella catarrhalis Neisseria gonorrhoeae Legionella pneumophila
-
-Other Bacteria
-
-Chlamydophila pneumoniae Chlamydia trachomatis Mycoplasma hominis Mycoplasma pneumoniae
+Other Bacteria Chlamydophila pneumoniae Chlamydia trachomatis Mycoplasma hominis Mycoplasma pneumoniae
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for azithromycin against isolates of similar genus or organism group.
 However, the efficacy of azithromycin in treating clinical infections caused by these bacteria has not been established in adequate and well-controlled clinical trials.
 
-Aerobic Gram-Positive Bacteria
+Aerobic Gram-Positive Bacteria Streptococci (Groups C, F, G) Viridans group streptococci
 
-Streptococci (Groups C, F, G) Viridans group streptococci
+Gram-Negative Bacteria Bordetella pertussis
 
-Gram-Negative Bacteria
+Anaerobic Bacteria Peptostreptococcus species Prevotella bivia
 
-Bordetella pertussis
-
-Anaerobic Bacteria
-
-Peptostreptococcus species Prevotella bivia
-
-Other Bacteria
-
-Ureaplasma urealyticum
+Other Bacteria Ureaplasma urealyticum
 
 Susceptibility Testing
 

@@ -38,8 +38,7 @@ Normal Saline (0.9% sodium chloride) 1/2 Normal Saline (0.45% sodium chloride) 5
 
 | Final Infusion Solution Concentration (mg/mL) | Amount of Diluent (mL) |
 | --- | --- |
-| 1 mg/mL | 500 mL |
-| 2 mg/mL | 250 mL |
+| 1 mg/mL2 mg/mL | 500 mL250 mL |
 
 Other intravenous substances, additives, or medications should not be added to ZITHROMAX for injection, or infused simultaneously through the same intravenous line.
 

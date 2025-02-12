@@ -2,13 +2,13 @@
 
 The following clinically significant adverse reactions are described elsewhere in labeling:
 
-- Hypersensitivity [see Warnings and Precautions (5.1)]
-- Hepatotoxicity [see Warnings and Precautions (5.2)]
-- Infantile Hypertrophic Pyloric Stenosis (IHPS) [see Warnings and Precautions (5.3)]
-- QT Prolongation [see Warnings and Precautions (5.4)]
-- Cardiovascular Death [see Warnings and Precautions (5.5)]
-- Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.6)]
-- Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.7)]
+- •Hypersensitivity [see Warnings and Precautions (5.1)]
+- •Hepatotoxicity [see Warnings and Precautions (5.2)]
+- •Infantile Hypertrophic Pyloric Stenosis (IHPS) [see Warnings and Precautions (5.3)]
+- •QT Prolongation [see Warnings and Precautions (5.4)]
+- •Cardiovascular Death [see Warnings and Precautions (5.5)]
+- •Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.6)]
+- •Exacerbation of Myasthenia Gravis [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -33,11 +33,8 @@ When azithromycin was co-administered with metronidazole in these trials, a high
 Adverse reactions that occurred with a frequency of 1% or less included the following:
 
 Gastrointestinal: Dyspepsia, flatulence, mucositis, oral moniliasis, and gastritis.
-
 Nervous system: Headache, somnolence.
-
 Allergic: Bronchospasm.
-
 Special senses: Taste perversion.
 
 ## 6.2 Postmarketing Experience
@@ -48,36 +45,25 @@ Because these reactions are reported voluntarily from a population of uncertain 
 Adverse reactions reported with azithromycin during the postmarketing period in adult and/or pediatric patients for which a causal relationship may not be established include:
 
 Allergic: Arthralgia, edema, urticaria and angioedema.
-
 Cardiovascular: Arrhythmias including ventricular tachycardia and hypotension.
 There have been reports of QT prolongation, torsades de pointes, and cardiovascular death.
-
 Gastrointestinal: Anorexia, constipation, dyspepsia, flatulence, vomiting/diarrhea, pseudomembranous colitis, pancreatitis, oral candidiasis, pyloric stenosis, and reports of tongue discoloration.
-
 General: Asthenia, paresthesia, fatigue, malaise and anaphylaxis (including fatalities).
-
 Genitourinary: Interstitial nephritis and acute renal failure and vaginitis.
-
 Hematopoietic: Thrombocytopenia.
-
 Liver/biliary: Abnormal liver function, hepatitis, cholestatic jaundice, hepatic necrosis, and hepatic failure.
-[see Warnings and Precautions (5.2)]
-
-Nervous system: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope.
-
+[see Warnings and Precautions (5.2)] Nervous system: Convulsions, dizziness/vertigo, headache, somnolence, hyperactivity, nervousness, agitation and syncope.
 Psychiatric: Aggressive reaction and anxiety.
-
 Skin/appendages: Pruritus, serious skin reactions including, erythema multiforme, AGEP, Stevens-Johnson syndrome, toxic epidermal necrolysis, and DRESS.
-
 Special senses: Hearing disturbances including hearing loss, deafness and/or tinnitus and reports of taste/smell perversion and/or loss.
 
 ## 6.3 Laboratory Abnormalities
 
 Significant abnormalities (irrespective of drug relationship) occurring during the clinical trials were reported as follows:
 
-- elevated ALT (SGPT), AST (SGOT), creatinine (4 to 6%)
-- elevated LDH, bilirubin (1 to 3%)
-- leukopenia, neutropenia, decreased platelet count, and elevated serum alkaline phosphatase (less than 1%)
+- •elevated ALT (SGPT), AST (SGOT), creatinine (4 to 6%)
+- •elevated LDH, bilirubin (1 to 3%)
+- •leukopenia, neutropenia, decreased platelet count, and elevated serum alkaline phosphatase (less than 1%)
 
 When follow-up was provided, changes in laboratory tests appeared to be reversible.
 
