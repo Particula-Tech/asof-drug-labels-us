@@ -8,7 +8,23 @@ Irinotecan Hydrochloride Injection, USP
 
 40 mg per 2 mL (20 mg per mL)
 
-On basis of trihydrate salt
+Rx only
+
+For Intravenous Use Only
+
+Must be diluted before use
+
+Warning: Hazardous Drug
+
+PACKAGE LABEL – PRINCIPAL DISPLAY PANEL – Vial Label
+
+NDC 25021-230-05
+
+5 mL Single-Dose Vial
+
+Irinotecan Hydrochloride Injection, USP
+
+100 mg per 5 mL (20 mg per mL)
 
 Rx only
 
@@ -16,4 +32,4 @@ For Intravenous Use Only
 
 Must be diluted before use
 
-Caution: Cytotoxic Agent
+Warning: Hazardous Drug

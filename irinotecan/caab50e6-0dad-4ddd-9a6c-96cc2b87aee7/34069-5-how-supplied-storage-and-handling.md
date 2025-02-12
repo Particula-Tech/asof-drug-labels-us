@@ -13,8 +13,10 @@ Storage Conditions
 Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° and 30°C (59° and 86°F).
 [See USP Controlled Room Temperature.]
 
-Protect from light and freezing.
-Retain in carton until time of use.
+Protect from freezing.
+Protect from light.
+Keep the vial in the carton until the time of use.
+
 Discard unused portion.
 
 Inspect the vial for damage and visible signs of leaks before removing from the carton.
@@ -23,5 +25,4 @@ If damaged, incinerate the unopened package.
 Irinotecan Hydrochloride Injection, USP is a hazardous drug.
 Follow special handling and disposal procedures.1
 
-Sterile, Nonpyrogenic, Preservative-free.
 The container closure is not made with natural rubber latex.
