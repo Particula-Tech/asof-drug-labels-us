@@ -10,9 +10,9 @@ The clinical response for the primary population, Clinical Per Protocol Subjects
 
 Table 7: Clinical Response in Patients with Acute Bacterial Maxillary Sinusitis
 
-| RESPONSE AT TOC | N = 255 | N = 254 |
-| --- | --- | --- |
 |  | ZMAX | LEVOFLOXACIN |
+| --- | --- | --- |
+| RESPONSE AT TOC | N = 255 | N = 254 |
 | CURE | 241 (94.5%) | 236 (92.9%) |
 | FAILURE | 14 (5.5%) | 18 (7.1%) |
 
@@ -20,9 +20,9 @@ Clinical response by pathogen in the Bacteriologic Per Protocol population is pr
 
 Table 8: Clinical Response by Pathogen in Patients with Acute Bacterial Maxillary Sinusitis
 
-| Pathogen | N | Cure | N | Cure |
-| --- | --- | --- | --- | --- |
 |  | Zmax |  | Levofloxacin |  |
+| --- | --- | --- | --- | --- |
+| Pathogen | N | Cure | N | Cure |
 | S. pneumoniae | 37 | 36 (97.3%) | 39 | 36 (92.3%) |
 | H. influenzae | 27 | 26 (96.3%) | 30 | 30 (100.0%) |
 | M. catarrhalis | 8 | 8 (100.0%) | 11 | 10 (90.9%) |

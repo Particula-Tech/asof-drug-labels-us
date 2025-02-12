@@ -20,7 +20,6 @@ You take just one dose, one time.
 Zmax is used in adults and in children over the age of 6 months against bacteria to treat certain kinds of pneumonia (lung infections)
 
 Zmax is used in adults against bacteria to treat sinus infections.
-
 Zmax only works against bacteria.
 It does not work against viruses, like the common cold or flu.
 
@@ -103,11 +102,11 @@ These happened in a small number of patients.
 Call your healthcare provider right away or get emergency treatment if you or your child have any of the following:
 
 - •Serious allergic reaction or serious skin reaction: Get emergency help right away if you or your child has:
-  - oSkin rash (hives), sores in your mouth, or your skin blisters and peels
-  - oTrouble swallowing,
-  - oSwelling of your face, eyes, lips, tongue or throat
-  - oWheezing or trouble breathing
-  - oNew onset of fever and swollen lymph nodes
+  - •Skin rash (hives), sores in your mouth, or your skin blisters and peels
+  - •Trouble swallowing,
+  - •Swelling of your face, eyes, lips, tongue or throat
+  - •Wheezing or trouble breathing
+  - •New onset of fever and swollen lymph nodes
 
 These symptoms could go away and then come back.
 
@@ -157,15 +156,10 @@ For more information, go to our website at www.zmaxinfo.com or call 1-800-438-19
 
 What is in Zmax?
 
-Active ingredient: azithromycin dihydrate
-
-Inactive ingredients: glyceryl behenate, poloxamer 407, sucrose, sodium phosphate tribasic anhydrous, magnesium hydroxide, hydroxypropyl cellulose, xanthan gum, colloidal silicon dioxide, titanium dioxide, artificial cherry flavor, and artificial banana flavor
+Active ingredient: azithromycin dihydrate Inactive ingredients: glyceryl behenate, poloxamer 407, sucrose, sodium phosphate tribasic anhydrous, magnesium hydroxide, hydroxypropyl cellulose, xanthan gum, colloidal silicon dioxide, titanium dioxide, artificial cherry flavor, and artificial banana flavor
 
 Brand names are registered trademarks of their respective owners.
-
-Coumadin® is a registered trademark of Bristol-Myers Squibb, Inc.
-
-Ketek® is a registered trademark of Aventis Pharmaceuticals Inc.
+Coumadin® is a registered trademark of Bristol-Myers Squibb, Inc. Ketek® is a registered trademark of Aventis Pharmaceuticals Inc.
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
