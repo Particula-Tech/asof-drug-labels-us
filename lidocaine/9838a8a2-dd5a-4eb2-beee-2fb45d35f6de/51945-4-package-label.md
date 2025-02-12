@@ -2,11 +2,11 @@
 
 Rx only NDC 51672-5305-2
 
-Pliaglis®
+Pliaglis ®
 
-TaroPharma®
+TaroPharma ®
 
-(lidocaine and tetracaine) Cream 7%/7%
+(lidocaine and tetracaine) Cream 7 %/7 %
 
 For topical use only.
 
