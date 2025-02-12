@@ -96,6 +96,13 @@ Clearance was independent of dose.
 
 As in adults, hepatic enzyme-inducing antiepileptic drugs decrease the steady state plasma concentrations of topiramate.
 
+Pediatric Patients with Obesity
+
+A population PK analysis of topiramate was conducted in 129 obese and non-obese children <21 years of age to evaluate the potential impact of obesity on plasma topiramate exposures.
+Obesity was defined as BMI ≥95th percentile for age and sex based on CDC-recommended BMI-for-age growth charts for males and females.
+Using the currently recommended dosing regimens, obese patients are predicted to have median values of maximum concentration at steady-state, average concentration at steady-state, and trough concentration at steady-state that are up to 34% lower, 20% lower, and 19% lower, respectively, compared to non-obese patients.
+Dosage adjustment according to obesity status is not necessary.
+
 Drug Interactions
 
 In vitrostudies indicate that topiramate does not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, or CYP3A4/5 isozymes.
