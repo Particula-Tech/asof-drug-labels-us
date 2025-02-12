@@ -208,7 +208,7 @@ Table 12 enumerates the incidence, rounded to the nearest percent, of treatment-
 
 Table 12: Treatment-Emergent Adverse Reactions Incidence In Short-Term Oral Placebo-Controlled Trials – Manic and Mixed Episodes Associated With Bipolar Disorder
 
-| Body System/ Adverse Reaction | Ziprasidone (N=279) | Placebo (N=136) |
+| Body System/Adverse Reaction | Ziprasidone(N=279) | Placebo (N=136) |
 | --- | --- | --- |
 |  | Percentage of Patients Reporting Reaction |  |
 | Body as a Whole |  |  |

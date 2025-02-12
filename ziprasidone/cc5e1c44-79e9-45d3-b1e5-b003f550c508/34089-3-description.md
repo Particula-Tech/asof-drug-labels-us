@@ -7,7 +7,7 @@ The molecular formula of C21H21ClN4OS (free base of ziprasidone) represents the 
 
 Ziprasidone capsules USP contain a monohydrochloride, monohydrate salt of ziprasidone.
 Chemically, ziprasidone hydrochloride monohydrate is 5-[2-[4-(1,2­-benzisothiazol-3-yl)-1-piperazinyl]ethyl]-6-chloro-1,3-dihydro-2H-indol-2-one, monohydrochloride, monohydrate.
-The molecular formula is C21H21ClN4OS · HCl · H2O and its molecular weight is 467.42.
+The molecular formula is C21H21ClN4OS·HCl·H2O and its molecular weight is 467.42.
 Ziprasidone hydrochloride USP is a white to slightly pink powder.
 Ziprasidone capsules USP are supplied for oral administration in 20 mg (blue/off-white), 40 mg (blue/blue), 60 mg (off-white/off-white), and 80 mg (blue/off-white) capsules.
 Ziprasidone capsules USP contain ziprasidone hydrochloride USP, ethyl cellulose, lactose monohydrate, magnesium stearate, and pregelatinized starch (maize).

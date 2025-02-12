@@ -1,6 +1,6 @@
 # PATIENT SUMMARY OF INFORMATION ABOUT
 
-Ziprasidone Capsules, USP (zi pras' i done) Information for patients taking ziprasidone capsules or their caregivers This summary contains important information about ziprasidone capsules.
+Ziprasidone (zi pras' i done) Capsules, USP Information for patients taking ziprasidone capsules or their caregivers This summary contains important information about ziprasidone capsules.
 It is not meant to take the place of your doctor’s instructions.
 Read this information carefully before you take ziprasidone capsules.
 Ask your doctor or pharmacist if you do not understand any of this information or if you want to know more about ziprasidone capsules.
@@ -138,4 +138,4 @@ For More Information About Ziprasidone Capsules This sheet is only a summary.
 Ziprasidone capsules are a prescription medicine and only your doctor can decide if it is right for you.
 If you have any questions or want more information about ziprasidone capsules, talk with your doctor or pharmacist.
 You can also call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
-Maalox® is a registered trademark of Novartis Consumer Health, LLC Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2023
+Maalox® is a registered trademark of Novartis Consumer Health, LLC Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2025
