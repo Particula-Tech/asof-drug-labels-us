@@ -26,15 +26,17 @@ TOBI (TOH-bee) Podhaler (POD-hay-ler) (tobramycin inhalation powder)
     - ▪1 Podhaler device and its storage case
     - ▪1 extra reserve Podhaler device (to be used if needed) and its storage case.
 - Or:
-  1. o7-day pack (7-day supply) containing:
-     - ▪56 capsules (7 blister cards of 8 capsules).
-       Each blister card contains 8 TOBI Podhaler capsules (4 capsules for inhalation in the morning and 4 capsules for inhalation in the evening).
-     - ▪1 Podhaler device and its storage case.
+- 
+  - o7-day pack (7-day supply) containing:
+    - ▪56 capsules (7 blister cards of 8 capsules).
+      Each blister card contains 8 TOBI Podhaler capsules (4 capsules for inhalation in the morning and 4 capsules for inhalation in the evening).
+    - ▪1 Podhaler device and its storage case.
 - Or:
-  1. o1-day pack (1-day supply) containing:
-     - ▪8 capsules (1 blister card of 8 capsules).
-       Each blister card contains 8 TOBI Podhaler capsules (4 capsules for inhalation in the morning and 4 capsules for inhalation in the evening).
-     - ▪1 Podhaler device and its storage case.
+- 
+  - o1-day pack (1-day supply) containing:
+    - ▪8 capsules (1 blister card of 8 capsules).
+      Each blister card contains 8 TOBI Podhaler capsules (4 capsules for inhalation in the morning and 4 capsules for inhalation in the evening).
+    - ▪1 Podhaler device and its storage case.
 
 Note:
 
