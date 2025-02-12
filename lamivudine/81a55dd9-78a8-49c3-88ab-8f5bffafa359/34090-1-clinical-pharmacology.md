@@ -193,32 +193,32 @@ Effect of Efavirenz on Coadministered Drug Plasma Cmax, AUC, and Cmin
 Table 7.
 Effect of Coadministered Drug on Efavirenz Plasma Cmax, AUC, and Cmin
 
-| Coadministered Drug | Dose | Efavirenz Dose | Cmax (90% CI) | AUC (90% CI) | Cmin (90% CI) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | Number of Subjects | Efavirenz (mean % change) |  |  |  |  |  |  |  |  |  |
-| Boceprevir | 800 mg tid x 6 days | 600 mg qd x 16 days | NA | ↑ 11%(2-20%) | ↑ 20%(15-26%) | NA |  |  |  |  |  |  |  |
-| Simeprevir | 150 mg qd x 14 days | 600 mg qd x 14 days | 23 | ↔ | ↓ 10%(5-15%) | ↓ 13%(7-19%) |  |  |  |  |  |  |  |
-| Azithromycin | 600 mg single dose | 400 mg qd x 7 days | 14 | ↔ | ↔ | ↔ |  |  |  |  |  |  |  |
-| Clarithromycin | 500 mg q12h x 7 days | 400 mg qd x 7 days | 12 | ↑ 11%(3-19%) | ↔ | ↔ |  |  |  |  |  |  |  |
-| Fluconazole | 200 mg x 7 days | 400 mg qd x 7 days | 10 | ↔ | ↑ 16%(6-26%) | ↑ 22%(5-41%) |  |  |  |  |  |  |  |
-| Itraconazole | 200 mg q12h x 14 days | 600 mg qd x 28 days | 16 | ↔ | ↔ | ↔ |  |  |  |  |  |  |  |
-| Rifabutin | 300 mg qd x 14 days | 600 mg qd x 14 days | 11 | ↔ | ↔ | ↓ 12%(↓ 24-↑ 1%) |  |  |  |  |  |  |  |
-| Rifampin | 600 mg x 7 days | 600 mg qd x 7 days | 12 | ↓ 20%(11-28%) | ↓ 26%(15-36%) | ↓ 32%(15-46%) |  |  |  |  |  |  |  |
-| Voriconazole | 400 mg po q12h x 1 day, then 200 mg po q12h x 8 days | 400 mg qd x 9 days | NA | ↑ 38%90% CI not available. | ↑ 44% | NA |  |  |  |  |  |  |  |
-| 300 mg po q12h days 2-7 | 300 mg qd x 7 days | NA | ↓ 14%Relative to steady-state administration of efavirenz (600 mg once daily for 9 days).(7-21%) | ↔ | NA |  |  |  |  |  |  |  |  |
-| 400 mg po q12h days 2-7 | 300 mg qd x 7 days | NA | ↔ | ↑ 17%(6-29%) | NA |  |  |  |  |  |  |  |  |
-| Artemether/Lumefantrine | Artemether 20 mg/ lumefantrine 120 mg tablets (6 4-tablet doses over 3 days) | 600 mg qd x 26 days | 12 | ↔ | ↓ 17% | NA |  |  |  |  |  |  |  |
-| Atorvastatin | 10 mg qd x 4 days | 600 mg qd x 15 days | 14 | ↔ | ↔ | ↔ |  |  |  |  |  |  |  |
-| Pravastatin | 40 mg qd x 4 days | 600 mg qd x 15 days | 11 | ↔ | ↔ | ↔ |  |  |  |  |  |  |  |
-| Simvastatin | 40 mg qd x 4 days | 600 mg qd x 15 days | 14 | ↓ 12%(↓ 28-↑ 8%) | ↔ | ↓ 12%(↓ 25-↑ 3%) |  |  |  |  |  |  |  |
-| Aluminum hydroxide 400 mg, magnesium hydroxide 400 mg, plus simethicone 40 mg | 30 mL single dose | 400 mg single dose | 17 | ↔ | ↔ | NA |  |  |  |  |  |  |  |
-| Carbamazepine | 200 mg qd x 3 days, 200 mg bid x 3 days, then 400 mg qd x 15 days | 600 mg qd x 35 days | 14 | ↓ 21%(15-26%) | ↓ 36%(32-40%) | ↓ 47%(41-53%) |  |  |  |  |  |  |  |
-| Cetirizine | 10 mg single dose | 600 mg qd x 10 days | 11 | ↔ | ↔ | ↔ |  |  |  |  |  |  |  |
-| Diltiazem | 240 mg x 14 days | 600 mg qd x 28 days | 12 | ↑ 16%(6-26%) | ↑ 11%(5-18%) | ↑ 13%(1-26%) |  |  |  |  |  |  |  |
-| Famotidine | 40 mg single dose | 400 mg single dose | 17 | ↔ | ↔ | NA |  |  |  |  |  |  |  |
-| Paroxetine | 20 mg qd x 14 days | 600 mg qd x 14 days | 12 | ↔ | ↔ | ↔ |  |  |  |  |  |  |  |
-| Sertraline | 50 mg qd x 14 days | 600 mg qd x 14 days | 13 | ↑ 11%(6-16%) | ↔ | ↔ |  |  |  |  |  |  |  |
-| ↑ Indicates increase ↓ Indicates decrease ↔ Indicates no change or a mean increase or decrease of < 10%. NA = not available. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Coadministered Drug | Dose | Efavirenz Dose | Cmax (90% CI) | AUC (90% CI) | Cmin (90% CI) |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | Number of Subjects | Efavirenz (mean % change) |  |  |
+| Boceprevir | 800 mg tid x 6 days | 600 mg qd x 16 days | NA | ↑ 11%(2-20%) | ↑ 20%(15-26%) | NA |
+| Simeprevir | 150 mg qd x 14 days | 600 mg qd x 14 days | 23 | ↔ | ↓ 10%(5-15%) | ↓ 13%(7-19%) |
+| Azithromycin | 600 mg single dose | 400 mg qd x 7 days | 14 | ↔ | ↔ | ↔ |
+| Clarithromycin | 500 mg q12h x 7 days | 400 mg qd x 7 days | 12 | ↑ 11%(3-19%) | ↔ | ↔ |
+| Fluconazole | 200 mg x 7 days | 400 mg qd x 7 days | 10 | ↔ | ↑ 16%(6-26%) | ↑ 22%(5-41%) |
+| Itraconazole | 200 mg q12h x 14 days | 600 mg qd x 28 days | 16 | ↔ | ↔ | ↔ |
+| Rifabutin | 300 mg qd x 14 days | 600 mg qd x 14 days | 11 | ↔ | ↔ | ↓ 12%(↓ 24-↑ 1%) |
+| Rifampin | 600 mg x 7 days | 600 mg qd x 7 days | 12 | ↓ 20%(11-28%) | ↓ 26%(15-36%) | ↓ 32%(15-46%) |
+| Voriconazole | 400 mg po q12h x 1 day, then 200 mg po q12h x 8 days | 400 mg qd x 9 days | NA | ↑ 38%90% CI not available. | ↑ 44% | NA |
+| 300 mg po q12h days 2-7 | 300 mg qd x 7 days | NA | ↓ 14%Relative to steady-state administration of efavirenz (600 mg once daily for 9 days).(7-21%) | ↔ | NA |  |
+| 400 mg po q12h days 2-7 | 300 mg qd x 7 days | NA | ↔ | ↑ 17%(6-29%) | NA |  |
+| Artemether/Lumefantrine | Artemether 20 mg/ lumefantrine 120 mg tablets (6 4-tablet doses over 3 days) | 600 mg qd x 26 days | 12 | ↔ | ↓ 17% | NA |
+| Atorvastatin | 10 mg qd x 4 days | 600 mg qd x 15 days | 14 | ↔ | ↔ | ↔ |
+| Pravastatin | 40 mg qd x 4 days | 600 mg qd x 15 days | 11 | ↔ | ↔ | ↔ |
+| Simvastatin | 40 mg qd x 4 days | 600 mg qd x 15 days | 14 | ↓ 12%(↓ 28-↑ 8%) | ↔ | ↓ 12%(↓ 25-↑ 3%) |
+| Aluminum hydroxide 400 mg, magnesium hydroxide 400 mg, plus simethicone 40 mg | 30 mL single dose | 400 mg single dose | 17 | ↔ | ↔ | NA |
+| Carbamazepine | 200 mg qd x 3 days, 200 mg bid x 3 days, then 400 mg qd x 15 days | 600 mg qd x 35 days | 14 | ↓ 21%(15-26%) | ↓ 36%(32-40%) | ↓ 47%(41-53%) |
+| Cetirizine | 10 mg single dose | 600 mg qd x 10 days | 11 | ↔ | ↔ | ↔ |
+| Diltiazem | 240 mg x 14 days | 600 mg qd x 28 days | 12 | ↑ 16%(6-26%) | ↑ 11%(5-18%) | ↑ 13%(1-26%) |
+| Famotidine | 40 mg single dose | 400 mg single dose | 17 | ↔ | ↔ | NA |
+| Paroxetine | 20 mg qd x 14 days | 600 mg qd x 14 days | 12 | ↔ | ↔ | ↔ |
+| Sertraline | 50 mg qd x 14 days | 600 mg qd x 14 days | 13 | ↑ 11%(6-16%) | ↔ | ↔ |
+| ↑ Indicates increase ↓ Indicates decrease ↔ Indicates no change or a mean increase or decrease of < 10%. NA = not available. |  |  |  |  |  |  |
 
 #### Lamivudine
 
