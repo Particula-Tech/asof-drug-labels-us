@@ -1,6 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information and Instructions for Use)
+See FDA-Approved Patient Labeling (Error!
+Hyperlink reference not valid.)
 
 A healthcare provider should review the patient instructions and operation of EpiPen and EpiPen Jr in detail, with the patient or caregiver.
 
@@ -56,7 +57,8 @@ Instruct patients to inspect the epinephrine solution visually through the clear
 Replace EpiPen and EpiPen Jr if the epinephrine solution appears discolored (pinkish or brown color), cloudy, or contains particles.
 Epinephrine is light sensitive and should be stored in the carrier tube provided to protect it from light.
 The carrier tube is not waterproof.
-Instruct patients that EpiPen and EpiPen Jr must be used or properly disposed once the blue safety release is removed or after use [see Storage and Handling (16.2)].
+Instruct patients that EpiPen and EpiPen Jr must be used or properly disposed once the blue safety release is removed or after use [see Error!
+Hyperlink reference not valid.].
 
 Advise patients and caregivers to give used EpiPen and EpiPen Jr auto-injectors to their healthcare provider for inspection and proper disposal.
 

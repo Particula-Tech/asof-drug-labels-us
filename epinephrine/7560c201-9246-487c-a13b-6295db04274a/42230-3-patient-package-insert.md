@@ -39,7 +39,7 @@ Symptoms of anaphylaxis may include:
 - •losing control of urine or bowel movements (incontinence)
 - •diarrhea or stomach cramps
 - •dizziness, fainting, or “passing out” (unconsciousness)
-- 2.Always carry 2 EpiPen or 2 EpiPen Jr auto-injectors with you because sometimes a single dose of epinephrine may not be enough to treat a serious allergic reaction before seeking medical care.
+- •Always carry 2 EpiPen or 2 EpiPen Jr auto-injectors with you because sometimes a single dose of epinephrine may not be enough to treat a serious allergic reaction before seeking medical care.
   You also need to always carry 2 auto-injectors with you if the first auto-injector is activated before the dose can be given.
   A device that has been activated by accident cannot be used in an allergic emergency (anaphylaxis).
   Note: The EpiPen or EpiPen Jr auto-injector has been activated when the blue safety top is removed and a “pop” is heard, the orange needle end of the auto-injector is extended, or the medicine viewing window is blocked.
@@ -49,7 +49,7 @@ Symptoms of anaphylaxis may include:
   Tell your family members, caregivers, and others where you keep your EpiPen or EpiPen Jr auto-injectors.
   Make sure they know how to use it before you need it.
   You may be unable to speak in an allergic emergency.
-- 3.When you have an allergic emergency (anaphylaxis) use your EpiPen or EpiPen Jr auto-injector right away.
+- •When you have an allergic emergency (anaphylaxis) use your EpiPen or EpiPen Jr auto-injector right away.
   Get emergency medical help right away even if you have used the EpiPen or EpiPen Jr auto-injector.
   You can use a second EpiPen or EpiPen Jr auto-injector if symptoms continue or come back or if the first auto-injector is activated before the dose can be given.
   For this reason, you should carry 2 EpiPen or 2 EpiPen Jr auto-injectors with you at all times.
@@ -155,9 +155,9 @@ EpiPen and EpiPen Jr may cause serious side effects.
   If you inject a young child with an EpiPen or EpiPen Jr auto-injector, hold their leg firmly in place before and during the 3 second injection to prevent injuries.
   Follow the Instructions for Use at the end of this Patient Information leaflet.
   Ask your healthcare provider to show you how to:
-  - 1.Hold the young child firmly in place (restrain).
-  - 2.With one hand, grip the auto-injector with the orange needle end pointing down.
-  - 3.With the other hand, pull the blue safety top straight up and away from the auto-injector.
+  - oHold the young child firmly in place (restrain).
+  - oWith one hand, grip the auto-injector with the orange needle end pointing down.
+  - oWith the other hand, pull the blue safety top straight up and away from the auto-injector.
 - •If you have certain medical conditions, or take certain medicines, your condition may get worse or you may have longer lasting side effects when you use your EpiPen or EpiPen Jr auto-injector.
   Talk to your healthcare provider about all your medical conditions.
 
@@ -358,19 +358,19 @@ Preparing to Inject a Child
 
 Figure H. Medicine Viewing Window
 
-- ✓Use the medicine if it is clear and colorless.
+- •Use the medicine if it is clear and colorless.
 
 Do not use the medicine if it is discolored (pinkish or brown color) or if the medicine has particles floating in it.
 Throw it away (dispose of) and use a new EpiPen or EpiPen Jr auto-injector (see the section “Disposing of an Expired, Unused or Used EpiPen or EpiPen Jr Auto-Injector” on the Patient Information side of this leaflet).
 
 Injecting EpiPen or EpiPen Jr
 
-| Step 1 Slide the EpiPen or EpiPen Jr auto-injector out of the case (Figure I) Remove the auto-injector from the protective case. |  |
+| Step 1 Slide the EpiPen or EpiPen Jr auto-injector out of the case (Figure I) Remove the auto-injector from the protective case. | Figure I. |
 | --- | --- |
-| Step 2 Pull off the blue safety top (Figure J) Grip the EpiPen or EpiPen Jr auto-injector with one hand and with the orange needle end pointing down. Use the other hand to remove the blue safety top. Pull it straight up and away. |  |
+| Step 2 Pull off the blue safety top (Figure J) Grip the EpiPen or EpiPen Jr auto-injector with one hand and with the orange needle end pointing down. Use the other hand to remove the blue safety top. Pull it straight up and away. | Figure J. |
 | Note: Do not twist or bend the blue safety top. Failure to pull out the blue safety top correctly (straight up and away) can cause accidental activation. Note: To avoid an accidental injection, never put your thumb, fingers or hand over the orange needle end. If an accidental injection happens, get emergency medical help right away. |  |
 | Step 3 Inject the medicine by self (Figure K) or caregiver (Figure L) administration Place the orange needle end against the outer thigh, through clothing if needed. Push down firmly and hold in place for 3 seconds. Note: EpiPen and EpiPen Jr auto-injectors make a distinct pop sound when pushed against the thigh. This is normal and means that the EpiPen or EpiPen Jr auto-injector is working. After the pop, continue to press the EpiPen or EpiPen Jr auto-injector down firmly on the outer thigh for 3 seconds to make sure that the medicine is given. |  |
-| Step 4 Check if used (Figure M)Lift the auto-injector straight out from the thigh. The orange needle end will extend to cover the needle. If the needle is visible, do not reuse it. Use a new auto-injector. Throw away the blue safety top. |  |
+| Step 4 Check if used (Figure M)Lift the auto-injector straight out from the thigh. The orange needle end will extend to cover the needle. If the needle is visible, do not reuse it. Use a new auto-injector. Throw away the blue safety top. | Figure M. |
 | Step 5 Get emergency medical help After injecting EpiPen or EpiPen Jr, get emergency medical help right away. You can use a second EpiPen or EpiPen Jr auto-injector if symptoms continue or come back. •Take your used EpiPen or EpiPen Jr auto-injector to your healthcare provider. •EpiPen and EpiPen Jr are single-dose auto-injectors and cannot be reused.•If the needle is visible, do not try to reuse it. |  |
 
 Storing EpiPen and EpiPen Jr Auto-Injectors
@@ -465,10 +465,10 @@ Practice Instructions
 
 | Using the Trainer |  |
 | --- | --- |
-| Step 1 Pull off the blue safety top (Figure B)Grip the gray Trainer with one hand and with the orange end pointing down. Use the other hand to remove the blue safety top. Pull it straight up and away. Note: Do not twist or bend the blue safety top. Warning: Do not flip the blue safety top off using a thumb or by pulling it sideways or by bending and twisting the blue safety top. This may cause the real yellow EpiPen or real green EpiPen Jr auto-injector to accidentally activate. An EpiPen or EpiPen Jr auto-injector that has been activated by accident cannot be used for a patient in an emergency and must be replaced. |  |
-| Step 2 Trainer injection simulation by self (Figure C) or caregiver (Figure D) administrationPlace the orange end against the outer thigh, over clothing if needed. Push down firmly and hold in place for 3 seconds. If practicing an injection on a young child, first hold the child firmly (restrain) and then use one hand to hold the Trainer with the orange end pointing down and your other hand to remove the blue safety top. Hold the leg firmly in place before and during the 3 second practice injection to prevent injuries. Note: The Trainer makes a distinct pop sound when pushed against the thigh. This is normal and means that the auto-injector is working. After the pop, continue to press the Trainer down firmly on the outer thigh for 3 seconds. |  |
-| Step 3 Check if used (Figure E)Lift the Trainer straight out from the thigh. Inspect: The Trainer was activated correctly if the orange end is extended. If the orange end is not extended, repeat Step 1 and Step 2. |  |
-| Step 4 Reset the Trainer (Figure F)Put the blue safety top back on the Trainer immediately. Place the orange end on a hard surface. Squeeze the sides of the orange end and push down on the Trainer with the other hand. Note: This resetting step should never be used with a real yellow EpiPen or real green EpiPen Jr auto-injector as this may result in injury.Never put your thumb, other fingers, or hand over the orange (needle) end of the real yellow EpiPen or real green EpiPen Jr auto-injector. |  |
+| Step 1 Pull off the blue safety top (Figure B)Grip the gray Trainer with one hand and with the orange end pointing down. Use the other hand to remove the blue safety top. Pull it straight up and away. Note: Do not twist or bend the blue safety top. Warning: Do not flip the blue safety top off using a thumb or by pulling it sideways or by bending and twisting the blue safety top. This may cause the real yellow EpiPen or real green EpiPen Jr auto-injector to accidentally activate. An EpiPen or EpiPen Jr auto-injector that has been activated by accident cannot be used for a patient in an emergency and must be replaced. | Figure B |
+| Step 2 Trainer injection simulation by self (Figure C) or caregiver (Figure D) administrationPlace the orange end against the outer thigh, over clothing if needed. Push down firmly and hold in place for 3 seconds. If practicing an injection on a young child, first hold the child firmly (restrain) and then use one hand to hold the Trainer with the orange end pointing down and your other hand to remove the blue safety top. Hold the leg firmly in place before and during the 3 second practice injection to prevent injuries. Note: The Trainer makes a distinct pop sound when pushed against the thigh. This is normal and means that the auto-injector is working. After the pop, continue to press the Trainer down firmly on the outer thigh for 3 seconds. | Figure C Figure D |
+| Step 3 Check if used (Figure E)Lift the Trainer straight out from the thigh. Inspect: The Trainer was activated correctly if the orange end is extended. If the orange end is not extended, repeat Step 1 and Step 2. | Figure E |
+| Step 4 Reset the Trainer (Figure F)Put the blue safety top back on the Trainer immediately. Place the orange end on a hard surface. Squeeze the sides of the orange end and push down on the Trainer with the other hand. Note: This resetting step should never be used with a real yellow EpiPen or real green EpiPen Jr auto-injector as this may result in injury.Never put your thumb, other fingers, or hand over the orange (needle) end of the real yellow EpiPen or real green EpiPen Jr auto-injector. | Figure F |
 
 Practice Session Information
 
@@ -487,8 +487,8 @@ Train others who could help you in an emergency:
 
 - •Anyone who may be able to administer the EpiPen or EpiPen Jr auto-injector should know how to help you during an allergic emergency.
   Before an emergency occurs, have them:
-  - •Regularly practice preparing the Trainer for injection and simulating an injection
-  - •Read the Trainer Instructions for Use and the “Patient Information” leaflet
+  - oRegularly practice preparing the Trainer for injection and simulating an injection
+  - oRead the Trainer Instructions for Use and the “Patient Information” leaflet
 
 For more information about the EpiPen and EpiPen Jr auto-injector and the proper use of the products, go to www.epipen.com.
 
