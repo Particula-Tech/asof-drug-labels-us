@@ -1042,7 +1042,7 @@ Table 81: Response by Tumor Type
 Exploratory analysis by TMB
 
 In an exploratory analysis performed in 138 patients (Cohort K of KEYNOTE-158) who were tested retrospectively for tumor mutation burden (TMB) using an FDA-approved test, 45 (33%) had tumors with TMB score of <10 mut/Mb; ORR in these 45 patients was 6.7% (95% CI: 1.4, 18.3).
-Among the 45 patients with TMB score of <10 mut/Mb, 39 of the patients were not MSI-H/dMMR when tested using an FDA-approved test.
+Among the 45 patients with TMB score of <10 mut/Mb, 39 of the patients were pMMR/not MSI-H when tested using an FDA-approved test.
 
 ## 14.9 Microsatellite Instability-High or Mismatch Repair Deficient Colorectal Cancer
 
@@ -1880,8 +1880,7 @@ Table 98: Efficacy Results in KEYNOTE-775
 As a Single Agent for the Treatment of Advanced MSI-H or dMMR Endometrial Carcinoma
 
 The efficacy of KEYTRUDA was investigated in KEYNOTE-158 (NCT02628067), a multicenter, non-randomized, open-label, multi-cohort trial.
-The trial enrolled 90 patients with unresectable or metastatic MSI-H or dMMR endometrial carcinoma in Cohorts D and K who received at least one dose of KEYTRUDA.
-MSI or MMR tumor status was determined using polymerase chain reaction (PCR) or immunohistochemistry (IHC), respectively.
+The trial enrolled 90 patients with unresectable or metastatic MSI-H or dMMR endometrial carcinoma in Cohorts D and K. MSI or MMR tumor status was determined using polymerase chain reaction (PCR) or immunohistochemistry (IHC), respectively.
 Patients with autoimmune disease or a medical condition that required immunosuppression were ineligible.
 Patients received KEYTRUDA 200 mg intravenously every 3 weeks until unacceptable toxicity or documented disease progression.
 Patients treated with KEYTRUDA without disease progression could be treated for up to 24 months.

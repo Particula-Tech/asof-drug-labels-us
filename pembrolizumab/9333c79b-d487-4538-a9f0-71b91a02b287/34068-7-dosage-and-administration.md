@@ -33,13 +33,9 @@ For use of KEYTRUDA in combination with chemotherapy and trastuzumab, select pat
 
 For use of KEYTRUDA in combination with chemotherapy, with or without bevacizumab, select patients based on the presence of positive PD-L1 expression in persistent, recurrent, or metastatic cervical cancer [see Clinical Studies (14.12)].
 
-For the pMMR/not MSI-H advanced endometrial carcinoma indication, select patients for treatment with KEYTRUDA in combination with lenvatinib based on MSI or MMR status in tumor specimens [see Clinical Studies (14.17)].
+For the pMMR/not MSI-H advanced endometrial carcinoma indication, select patients for treatment with KEYTRUDA in combination with lenvatinib based on MMR or MSI status in tumor specimens [see Clinical Studies (14.17)].
 
 For use of KEYTRUDA in combination with chemotherapy, select patients based on the presence of positive PD-L1 expression in locally recurrent unresectable or metastatic TNBC [see Clinical Studies (14.20)].
-
-Additional Patient Selection Information
-
-- An FDA-approved test for the detection of not MSI-H is currently unavailable for the selection of patients with not MSI-H endometrial carcinoma for treatment with KEYTRUDA in combination with lenvatinib [see Clinical Studies (14.17)].
 
 ## 2.2 Recommended Dosage
 

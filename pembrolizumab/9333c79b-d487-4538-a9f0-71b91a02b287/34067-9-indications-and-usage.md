@@ -115,7 +115,7 @@ KEYTRUDA is indicated for the adjuvant treatment of patients with RCC at interme
 
 KEYTRUDA, in combination with carboplatin and paclitaxel, followed by KEYTRUDA as a single agent, is indicated for the treatment of adult patients with primary advanced or recurrent endometrial carcinoma.
 
-KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of adult patients with advanced endometrial carcinoma that is mismatch repair proficient (pMMR) as determined by an FDA-approved test or not MSI-H, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration (2.1)].
+KEYTRUDA, in combination with lenvatinib, is indicated for the treatment of adult patients with advanced endometrial carcinoma that is mismatch repair proficient (pMMR) or not MSI-H as determined by an FDA-approved test, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration (2.1)].
 
 KEYTRUDA, as a single agent, is indicated for the treatment of adult patients with advanced endometrial carcinoma that is MSI-H or dMMR, as determined by an FDA-approved test, who have disease progression following prior systemic therapy in any setting and are not candidates for curative surgery or radiation [see Dosage and Administration (2.1)].
 
