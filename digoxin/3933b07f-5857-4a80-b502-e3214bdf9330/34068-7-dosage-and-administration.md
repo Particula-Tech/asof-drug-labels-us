@@ -9,7 +9,7 @@ Parenteral administration of digoxin should be used only when the need for rapid
 Intramuscular injection can lead to severe pain at the injection site, thus intravenous administration is preferred.
 If the drug must be administered by the intramuscular route, it should be injected deep into the muscle followed by massage.
 For adults, no more than 500 mcg of Digoxin Injection should be injected into a single site.
-For pediatric patients, see the full prescribing information for pediatric digoxin injection (not available from Hikma Pharmaceuticals) for specific recommendations.
+For pediatric patients, see the full prescribing information for pediatric digoxin injection (not available from Hikma Pharmaceutical) for specific recommendations.
 
 Administer the dose over a period of 5 minutes or longer and avoid bolus administration to prevent systemic and coronary vasoconstriction.
 Mixing of Digoxin Injection with other drugs in the same container or simultaneous administration in the same intravenous line is not recommended.

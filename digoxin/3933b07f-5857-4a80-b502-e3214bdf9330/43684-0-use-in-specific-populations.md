@@ -5,7 +5,7 @@
 Risk Summary Experience with digoxin in pregnant women over several decades, based on published retrospective clinical studies and case reports, has not led to the identification of a drug associated risk of major birth defects, miscarriage or adverse maternal and fetal outcomes.
 Untreated underlying maternal conditions, such as heart failure and atrial fibrillation, during pregnancy pose a risk to the mother and fetus (see Clinical Consideration).
 Animal reproduction studies have not been conducted with digoxin.
-The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
+Confidential The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 Clinical Considerations Disease-associated maternal and/or embryo/fetal risk Pregnant women with heart failure are at increased risk for preterm birth.
@@ -21,7 +21,9 @@ Monitor patients continuously during labor and delivery [see Warnings and Precau
 
 ## 8.2 Lactation
 
-Risk Summary The digoxin dose received through breastfeeding is up to 4% of the neonatal maintenance dosage, which is unlikely to be clinically relevant.
+Risk Summary
+
+The digoxin dose received through breastfeeding is up to 4% of the neonatal maintenance dosage, which is unlikely to be clinically relevant.
 There are no data on the effects of digoxin on the breastfed infant or the effects on milk production.
 Data Based on data from two lactation studies in a total of 13 breastfed infants, the digoxin concentrations in breast milk were between 0.4 – 1.0 ng/mL following 0.25 mg once daily dose of digoxin in the lactating mother.
 Thus, the amount of digoxin ingested daily by the infants is estimated to be between 0.03 to 0.16 mcg/kg/day.
