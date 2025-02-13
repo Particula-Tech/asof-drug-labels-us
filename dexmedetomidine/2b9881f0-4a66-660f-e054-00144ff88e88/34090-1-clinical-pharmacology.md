@@ -3,12 +3,12 @@
 ## 12.1 Mechanism of Action
 
 Dexmedetomidine is a relatively selective centrally acting alpha 2-adrenergic agonist with sedative properties.
-Alpha 2selectivity is observed in animals following slow intravenous infusion of low and medium doses (10 - 300 mcg/kg).
+Alpha 2selectivity is observed in animals following slow intravenous infusion of low and medium doses (10 mcg/kg to 300 mcg/kg).
 Both alpha 1and alpha 2activity is observed following slow intravenous infusion of high doses (≥ 1,000 mcg/kg) or with rapid intravenous administration.
 
 ## 12.2 Pharmacodynamics
 
-In a study in healthy adult volunteers (N=10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when dexmedetomidine injection was administered by intravenous infusion at doses within the recommended dose range (0.2 - 0.7 mcg/kg/hr).
+In a study in healthy adult volunteers (N=10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when dexmedetomidine injection was administered by intravenous infusion at doses within the recommended dose range 0.2 mcg/kg/hour to 0.7 mcg/kg/hour.
 
 ## 12.3 Pharmacokinetics
 
@@ -75,7 +75,7 @@ There was no observed difference in dexmedetomidine pharmacokinetics due to sex.
 Geriatric Patients
 
 The pharmacokinetic profile of dexmedetomidine was not altered by age.
-There were no differences in the pharmacokinetics of dexmedetomidine in young (18 - 40 years), middle age (41 - 65 years), and elderly (>65 years) subjects.
+There were no differences in the pharmacokinetics of dexmedetomidine in young (18 to 40 years), middle age (41 to 65 years), and elderly (>65 years) subjects.
 
 Pediatric Patients
 

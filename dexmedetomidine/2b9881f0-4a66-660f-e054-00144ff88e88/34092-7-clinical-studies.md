@@ -37,7 +37,7 @@ Table 13: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
 | Mean Total Dose (mg) of Midazolam Standard deviation | 19 mg 53 mg | 5 mg 19 mg | 0.0011 ANOVA model with treatment center. |
 | Categorized Midazolam Use |  |  |  |
 | 0 mg | 43 (25%) | 108 (61%) | <0.001 Chi-square |
-| 0–4 mg | 34 (19%) | 36 (20%) |  |
+| 0 to 4 mg | 34 (19%) | 36 (20%) |  |
 | >4 mg | 98 (56%) | 34 (19%) |  |
 | ITT (intent-to-treat) population includes all randomized patients. |  |  |  |
 
@@ -45,7 +45,7 @@ A prospective secondary analysis assessed the dose of morphine sulfate administe
 On average, dexmedetomidine injection-treated patients received less morphine sulfate for pain than placebo-treated patients (0.47 versus 0.83 mg/h).
 In addition, 44% (79 of 178 patients) of dexmedetomidine injection patients received no morphine sulfate for pain versus 19% (33 of 175 patients) in the placebo group.
 
-In a second study, 198 adult patients were randomized to receive placebo and 203 to receive dexmedetomidine injection by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
+In a second study, 198 adult patients were randomized to receive placebo and 203 to receive dexmedetomidine injection by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 mcg/kg/ hourand 0.7 mcg/kg/ hour) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
 The study drug infusion was adjusted to maintain a Ramsay sedation score of ≥3.
 Patients were allowed to receive “rescue” propofol as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered as needed for pain.
@@ -62,7 +62,7 @@ Table 14: Propofol Use as Rescue Medication During Intubation (ITT) Study Two
 | Mean Total Dose (mg) of PropofolStandard deviation | 513 mg 782 mg | 72 mg 249 mg | <0.0001 ANOVA model with treatment center. |
 | Categorized Propofol Use |  |  |  |
 | 0 mg | 47 (24%) | 122 (60%) | <0.001 Chi-square |
-| 0–50 mg | 30 (15%) | 43 (21%) |  |
+| 0 to 50 mg | 30 (15%) | 43 (21%) |  |
 | >50 mg | 121 (61%) | 38 (19%) |  |
 
 A prospective secondary analysis assessed the dose of morphine sulfate administered to adult patients in the dexmedetomidine injection and placebo groups.

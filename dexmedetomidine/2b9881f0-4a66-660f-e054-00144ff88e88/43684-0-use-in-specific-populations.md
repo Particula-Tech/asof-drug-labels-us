@@ -14,7 +14,7 @@ Developmental toxicity (low pup weights and adult offspring weights, decreased F
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
 
@@ -42,7 +42,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Data
 
-In two published clinical studies, a total of 14 women were given intravenous dexmedetomidine 6 mcg/kg/hour for 10 minutes after delivery followed by continuous infusion of 0.2–0.7 mcg/kg/hour.
+In two published clinical studies, a total of 14 women were given intravenous dexmedetomidine 6 mcg/kg/hour for 10 minutes after delivery followed by continuous infusion of 0.2 mcg/kg/hour to 0.7 mcg/kg/hour.
 Breast milk and maternal blood samples were collected at 0, 6, 12, and 24 hours after discontinuation of dexmedetomidine.
 Plasma and milk dexmedetomidine concentrations were detectable up to 6 hours in most subjects, up to 12 hours in one subject and undetectable in all at 24 hours.
 The milk-to-plasma ratio from single paired maternal milk and plasma concentrations at each time point ranged from 0.53 to 0.95.
