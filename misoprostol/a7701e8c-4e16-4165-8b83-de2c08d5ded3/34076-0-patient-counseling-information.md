@@ -41,7 +41,7 @@ Instruct patients to seek immediate emergency help if these occur [see Contraind
 
 Serious Skin Reactions, including DRESS
 
-Advise patients to stop taking diclofenac sodium/misoprostol immediately if they develop any type of rash or fever and contact their healthcare provider as soon as possible [see Warnings and Precautions (5.10), (5.11)].
+Advise patients to stop taking diclofenac sodium/misoprostol immediately if they develop any type of rash or fever and contact their healthcare provider as soon as possible [see Warnings and Precautions (5.10, 5.11)].
 
 Avoid Concomitant Use of NSAIDs
 

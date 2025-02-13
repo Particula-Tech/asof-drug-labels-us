@@ -108,7 +108,7 @@ Reproductive system and breast disorders: female fertility decreased.
 
 Respiratory system: dyspnea, pneumonia, respiratory depression.
 
-Skin and appendages: acne, bruising, erythema multiforme, exfoliative dermatitis, pruritus ani, rash, skin ulceration, Stevens-Johnson syndrome, toxic epidermal necrolysis, cutaneous reactions (bullous eruption).
+Skin and appendages: acne, bruising, erythema multiforme, exfoliative dermatitis, pruritus ani, rash, skin ulceration, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), fixed drug eruption (FDE), cutaneous reactions (bullous eruption).
 
 Special senses: hearing impairment, taste loss.
 
