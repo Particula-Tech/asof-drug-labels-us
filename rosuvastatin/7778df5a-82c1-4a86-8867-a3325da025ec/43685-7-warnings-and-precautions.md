@@ -45,3 +45,8 @@ Although the clinical significance of this finding is unknown, consider a dose r
 Increases in HbA1c and fasting serum glucose levels have been reported with statins, including rosuvastatin.
 Based on clinical trial data with rosuvastatin, in some instances these increases may exceed the threshold for the diagnosis of diabetes mellitus [see Adverse Reactions (6.1)].
 Optimize lifestyle measures, including regular exercise, maintaining a healthy body weight, and making healthy food choices.
+
+## 5.6 Risk of Allergic Reactions Due to Tartrazine
+
+This product contains FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons.
+Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
