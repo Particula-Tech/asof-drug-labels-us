@@ -25,17 +25,15 @@ Concomitant Medications Ask patients to list all prescription medications, over-
 Prosthetic Heart Valves Instruct patients to inform their healthcare provider if they will have or have had surgery to place a prosthetic heart valve [see Warnings and Precautions (5.4)].
 
 Allergic Reactions Advise adult patients and caregivers that some adults taking dabigatran etexilate capsules have developed symptoms of an allergic reaction.
-Advise adult patients or caregivers to inform their healthcare provider if they develop symptoms of an allergic reaction, such as hives, rash, or itching.
-Advise adult patients or caregivers to seek emergency medical attention if they develop chest pain or tightness, swelling of the face or tongue, trouble breathing or wheezing, or feeling dizzy or faint.
+Advise adult patients or caregivers to inform their healthcare provider if they or their child develop symptoms of an allergic reaction, such as hives, rash, or itching.
+Advise adult patients or caregivers to seek emergency medical attention if they or their child develop chest pain or tightness, swelling of the face or tongue, trouble breathing or wheezing, or feeling dizzy or faint.
 
 Pregnancy Advise patients to inform their healthcare provider immediately if they become pregnant or intend to become pregnant during treatment with dabigatran etexilate capsules [see Use in Specific Populations (8.1)].
 
 Lactation Advise patients not to breastfeed if they are taking dabigatran etexilate capsules [see Use in Specific Populations (8.2)].
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 Manufactured for: Camber Pharmaceuticals, Inc., Piscataway, NJ 08854
 
 Manufactured by: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, Telangana, India.
 
-Revised: 08/2024
+Revised: 01/2025

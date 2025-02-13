@@ -142,11 +142,14 @@ Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replace
 The demographic characteristics were similar across the two studies and between the treatment groups within these studies.
 Approximately 45.3% of the treated patients were male, with a mean age of 63.2 years.
 The majority of the patients were white (96.1%), 3.6% were Asian, and 0.3% were black with a mean CrCl of 92 mL/min.
+
 Bleeding events for the RE-NOVATE and RE-NOVATE II studies were classified as major bleeding events if at least one of the following criteria applied: fatal bleeding, symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or retroperitoneal bleeding), bleeding causing a fall in hemoglobin level of 2.0 g/dL (1.24 mmol/L) or more, or leading to transfusion of 2 or more units of whole blood or red cells, requiring treatment cessation or leading to re-operation.
+
 The RE-NOVATE study compared dabigatran etexilate capsules 75 mg taken orally 1 to 4 hours after surgery followed by 150 mg once daily, dabigatran etexilate capsules 110 mg taken orally 1 to 4 hours after surgery followed by 220 mg once daily and subcutaneous enoxaparin 40 mg once daily initiated the evening before surgery for the prophylaxis of deep vein thrombosis and pulmonary embolism in patients who had undergone hip replacement surgery.
 The RE-NOVATE II study compared dabigatran etexilate capsules 110 mg taken orally 1 to 4 hours after surgery followed by 220 mg once daily and subcutaneous enoxaparin 40 mg once daily initiated the evening before surgery for the prophylaxis of deep vein thrombosis and pulmonary embolism in patients who had undergone hip replacement surgery.
 In the RE-NOVATE and RE-NOVATE II studies, patients received 28 to 35 days of dabigatran etexilate capsules or enoxaparin with median exposure of 33 days.
 Tables 7 and 8 show the number of patients experiencing bleeding events in the analysis of RE-NOVATE and RE-NOVATE II.
+
 Table 7 Bleeding Events in RE-NOVATE Treated Patients
 
 |  | Dabigatran Etexilate Capsules 220 mg N (%) | Enoxaparin N (%) |
@@ -166,12 +169,47 @@ Table 8 Bleeding Events in RE-NOVATE II Treated Patients
 | Any bleeding | 98 (9.7) | 83 (8.3) |
 
 In the two studies, the rate of major gastrointestinal bleeds in patients receiving dabigatran etexilate capsules and enoxaparin was the same (0.1%) and for any gastrointestinal bleeds was 1.4% for dabigatran etexilate capsules 220 mg and 0.9% for enoxaparin.
+
 Gastrointestinal Adverse Reactions In the two studies, the incidence of gastrointestinal adverse reactions for patients on dabigatran etexilate capsules 220 mg and enoxaparin was 39.5% and 39.5%, respectively.
 Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules 220 mg in 4.1% vs. 3.8% on enoxaparin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 0.6% vs 1.0%, respectively.
+
 Hypersensitivity Reactions In the two studies, drug hypersensitivity (such as urticaria, rash, and pruritus) was reported in 0.3% of patients receiving dabigatran etexilate capsules 220 mg.
+
 Clinical Myocardial Infarction Events In the two studies, clinical myocardial infarction was reported in 2 (0.1%) of patients who received dabigatran etexilate capsules 220 mg and 6 (0.3%) of patients who received enoxaparin.
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+
+Pediatric Trials Treatment of VTE in Pediatric Patients The safety of dabigatran etexilate A in the treatment of VTE in pediatric patients was studied in one phase III trial (DIVERSITY).
+The DIVERSITY study was a randomized, open-label, active-controlled, parallel-group trial comparing dabigatran etexilate with standard of care – SOC (vitamin K antagonists, low molecular weight heparin, or fondaparinux).
+There were 266 pediatric patients who received study treatment, 176 patients treated with dabigatran etexilate and 90 patients treated with SOC.
+Patients on dabigatran etexilate received age-and weight-adjusted dosages of an age-appropriate formulation of dabigatran etexilate (capsules, pellets, or oral solution) twice daily.
+Patients had a median age of 14 years (range: 0 to 17 years), 92% were white, and half the patients were male (50%).
+Following at least 5 days of parenteral anticoagulant therapy, the median duration of treatment with dabigatran etexilate was 85 days (range: 1 to 105).
+Patients with estimated glomerular filtration rate (eGFR) <50 mL/min/1.73 m 2were excluded from the trial.
+Bleeding Data on adjudicated major bleeding, clinically relevant non-major (CRNM) bleeding and minor bleeding events, for the dabigatran etexilate group and the SOC group in the DIVERSITY study, are reported in Table 9.
+There was no statistically significant difference in the time to first major bleeding event.
+Table 9 Summary of All Adjudicated Bleeding Events During On-Treatment Period in DIVERSITY
+
+|  | DABIGATRAN ETEXILATE N (%) | Standard of Care (SOC) N (%) |
+| --- | --- | --- |
+| Patients | N=176 | N=90 |
+| Major bleeding event 1 | 4 (2.3) | 2 (2.2) |
+| Fatal bleeding | 0 | 1 (1.1) |
+| Clinically relevant non-major bleeding | 2 (1.1) | 1 (1.1) |
+| Minor bleeding | 33 (19) | 21 (23) |
+| Major and clinically relevant non-major bleeding | 6 (3.4) | 3 (3.3) |
+| Any bleeding | 38 (22) | 22 (24) |
+
+1Major bleeding event if at least one of the following criteria applied: fatal bleeding, symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or intramuscular with compartment syndrome, retroperitoneal bleeding, intra-articular bleeding, or pericardial bleeding), bleeding causing a fall in hemoglobin level of 2.0 g/dL (1.24 mmol/L) or more, or leading to transfusion of 2 or more units of whole blood or red cells.
+Site-specific bleeding rates were comparable between the two arms, with the exception of the rate of any gastrointestinal bleeds (5.7% in dabigatran etexilate arm vs 1.8% in SOC arm).
+Gastrointestinal Adverse Reactions The incidence of gastrointestinal adverse reactions for patients on dabigatran etexilate and SOC was 32% and 12%, respectively, with the following occurring in ≥ 5% of patients taking dabigatran etexilate: dyspepsia (including term gastro-esophageal reflux disease, gastric pH decreased and esophagitis) in 9% (vs 2%), upper abdominal pain in 5% (vs 1%), vomiting in 8% (vs 2%), nausea 5% (vs 4%), and diarrhea 5% (vs 1%).
+Reduction in Risk of Recurrence of VTE in Pediatric Patients The safety of dabigatran etexilate in the reduction in the risk of recurrence of VTE in pediatric patients was studied in one open-label single-arm trial (Study 2).
+Study 2 enrolled patients who required further anticoagulation due to the presence of a clinical risk factor after completing the initial treatment for confirmed VTE (for at least 3 months) or after completing the DIVERSITY study and received dabigatran etexilate until the clinical risk factor resolved, or up to a maximum of 12 months.
+There were 213 pediatric patients treated with dabigatran etexilate, in a similar fashion as in the DIVERSITY trial.
+Patients had a median age of 14 years (range: 0 to 18 years), 91% were white, and 55% of patients were male.
+Patients previously enrolled on DIVERSITY accounted for 43% of patients enrolled on Study 2 (29% from dabigatran etexilate arm and 14% from SOC arm).
+The median duration of treatment with dabigatran etexilate in Study 2 was 42 weeks (range: 0 to 56 weeks), with 45% of patients completing the 12-month planned duration, 17% stopping due to resolution of VTE risk factors, 12% stopping due to failure to attain target dabigatran concentration and 6% had an adverse event leading to discontinuation.
+During the on-treatment period of Study 2, 3 patients (1.4%) had a major bleeding event, 3 patients (1.4%) had a clinically relevant non-major bleeding event, and 44 patients (20%) had a minor bleeding event.
+The most common drug-related adverse reactions were dyspepsia (5%), epistaxis (3.3%), nausea (3.3%) and menorrhagia (2.8%).
+The adverse reaction profile in pediatric patients was generally consistent with that of adult patients.
 
 ## 6.2 Postmarketing Experience
 
