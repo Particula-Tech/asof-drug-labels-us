@@ -14,13 +14,13 @@ The following adverse reactions are described, or described in greater detail, i
 
 Because clinical trials are conducted under widely varying conditions, the incidence of adverse reactions observed in the clinical trials of a drug cannot be directly compared to the incidences in the clinical trials of another drug and may not reflect the incidences observed in practice.
 
-The clinical program for STIOLTO RESPIMAT included 7151 subjects with COPD in two 52-week active-controlled trials, one 12-week placebo-controlled trial, three 6-week placebo-controlled cross-over trials, and four additional trials of shorter duration.
-A total of 1988 subjects received at least 1 dose of STIOLTO RESPIMAT.
+The clinical program for STIOLTO RESPIMAT included 7,151 subjects with COPD in two 52-week active-controlled trials, one 12-week placebo-controlled trial, three 6-week placebo-controlled cross-over trials, and four additional trials of shorter duration.
+A total of 1,988 subjects received at least 1 dose of STIOLTO RESPIMAT.
 Adverse reactions observed in the ≤12-week trials were consistent with those observed in the 52-week trials, which formed the primary safety database.
 
 The primary safety database consisted of pooled data from the two 52-week double-blind, active-controlled, parallel group confirmatory clinical trials (Trials 1 and 2).
-These trials included 5162 adult COPD patients (72.9% males and 27.1% females) 40 years of age and older.
-Of these patients, 1029 were treated with STIOLTO RESPIMAT once daily.
+These trials included 5,162 adult COPD patients (72.9% males and 27.1% females) 40 years of age and older.
+Of these patients, 1,029 were treated with STIOLTO RESPIMAT once daily.
 The STIOLTO RESPIMAT group was composed of mostly Caucasians (71.1%) with a mean age of 63.8 years and a mean percent predicted FEV1 at baseline of 43.2%.
 In these two trials, tiotropium 5 mcg and olodaterol 5 mcg were included as active control arms and no placebo was used.
 
@@ -34,7 +34,7 @@ Table 1 shows all adverse drug reactions that occurred with an incidence of >3% 
 
 Table 1 Number and frequency of adverse drug reactions greater than 3% (and higher than any of the comparators tiotropium and/or olodaterol) in COPD patients exposed to STIOLTO RESPIMAT: Pooled data from the two 52-week, double-blind, active-controlled clinical trials in COPD patients 40 years of age and older
 
-| Body system (adverse drug reaction) | n=1029 n (%) | n=1033 n (%) | n=1038 n (%) |
+| Body system (adverse drug reaction) | n=1,029 n (%) | n=1,033 n (%) | n=1,038 n (%) |
 | --- | --- | --- | --- |
 | Treatment | STIOLTO RESPIMAT (once daily) | Tiotropium (5 mcg once daily) | Olodaterol (5 mcg once daily) |
 | Infections and infestations |  |  |  |
@@ -50,5 +50,5 @@ Metabolism and nutrition disorders: dehydration Nervous system disorders: dizzin
 
 COPD Exacerbation Reduction Trial
 
-In a one year trial (Trial 5) of 7880 patients to compare rates of COPD exacerbations, 3939 patients were treated with STIOLTO RESPIMAT and 3941 patients were treated with tiotropium 5 mcg inhalation spray.
+In a one year trial (Trial 5) of 7,880 patients to compare rates of COPD exacerbations, 3,939 patients were treated with STIOLTO RESPIMAT and 3,941 patients were treated with tiotropium 5 mcg inhalation spray.
 The safety profile of STIOLTO RESPIMAT was similar to that of tiotropium 5 mcg inhalation spray and consistent with that documented in the STIOLTO RESPIMAT primary safety database.

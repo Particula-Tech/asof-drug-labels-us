@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The safety and efficacy of STIOLTO RESPIMAT were evaluated in a clinical development program that included three dose ranging trials, two active-controlled trials, three active- and placebo-controlled trials, and one placebo-controlled trial.
-The efficacy of STIOLTO RESPIMAT is based primarily on two 4-week dose-ranging trials in 592 COPD patients and two confirmatory active-controlled 52-week trials (Trials 1 and 2) in 5162 COPD patients.
+The efficacy of STIOLTO RESPIMAT is based primarily on two 4-week dose-ranging trials in 592 COPD patients and two confirmatory active-controlled 52-week trials (Trials 1 and 2) in 5,162 COPD patients.
 
 Dose-Ranging Trials
 
@@ -17,7 +17,7 @@ Results of these trials supported the evaluation of once-daily doses of tiotropi
 
 Confirmatory Trials
 
-A total of 5162 COPD patients (1029 receiving STIOLTO RESPIMAT, 1038 receiving olodaterol 5 mcg, and 1033 receiving tiotropium bromide 5 mcg) were studied in two confirmatory trials of STIOLTO RESPIMAT.
+A total of 5,162 COPD patients (1,029 receiving STIOLTO RESPIMAT, 1,038 receiving olodaterol 5 mcg, and 1,033 receiving tiotropium bromide 5 mcg) were studied in two confirmatory trials of STIOLTO RESPIMAT.
 Trials 1 and 2 were 52-week, replicate, randomized, double-blind, active controlled, parallel group trials that compared STIOLTO RESPIMAT to tiotropium 5 mcg and olodaterol 5 mcg.
 In these trials, all products were administered via the RESPIMAT inhaler.
 
@@ -76,7 +76,7 @@ STIOLTO RESPIMAT Trial Evaluating Exacerbations
 
 In a one-year, randomized, double-blind, active-controlled parallel group clinical trial (Trial 5), the effect of STIOLTO RESPIMAT on COPD exacerbations was compared with tiotropium 5 mcg inhalation spray.
 Exacerbations were defined as above.
-Enrolled patients (3939 patients receiving STIOLTO RESPIMAT and 3941 patients receiving tiotropium 5 mcg inhalation spray) had a history of COPD exacerbation in the previous 12 months.
+Enrolled patients (3,939 patients receiving STIOLTO RESPIMAT and 3,941 patients receiving tiotropium 5 mcg inhalation spray) had a history of COPD exacerbation in the previous 12 months.
 The primary endpoint was the annualized rate of moderate to severe COPD exacerbations.
 The majority of patients were male (71%) and Caucasian (79%).
 The mean age was 66 years, and mean post-bronchodilator FEV1 percent predicted was 45%.

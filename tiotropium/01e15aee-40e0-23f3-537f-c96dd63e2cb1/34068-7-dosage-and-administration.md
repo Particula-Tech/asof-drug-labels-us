@@ -2,7 +2,7 @@
 
 ## 2.1 Recommended Dosage
 
-The recommended dose of STIOLTO RESPIMAT is two inhalations once-daily at the same time of the day.
+The recommended dosage of STIOLTO RESPIMAT is two inhalations once-daily at the same time of the day.
 Do not use STIOLTO RESPIMAT more than two inhalations every 24 hours.
 
 ## 2.2 Administration Information

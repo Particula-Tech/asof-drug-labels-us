@@ -27,7 +27,7 @@ Do Not Use Additional Long-Acting Beta2-Agonists
 Patients who have been taking inhaled, short-acting beta2-agonists on a regular basis should be instructed to discontinue the regular use of these products and use them only for the symptomatic relief of acute symptoms.
 
 When patients are prescribed STIOLTO RESPIMAT, other inhaled medications containing long-acting beta2-agonists should not be used.
-Patients should not use more than the recommended once-daily dose of STIOLTO RESPIMAT.
+Patients should not use more than the recommended once-daily dosage of STIOLTO RESPIMAT.
 Excessive use of sympathomimetics may cause significant cardiovascular effects, and may be fatal.
 
 Risks Associated with Beta2-Agonist Therapy

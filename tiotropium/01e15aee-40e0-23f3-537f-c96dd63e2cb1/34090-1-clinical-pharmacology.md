@@ -23,7 +23,7 @@ Olodaterol is a long-acting beta2-adrenergic agonist (LABA).
 The compound exerts its pharmacological effects by binding and activation of beta2-adrenoceptors after topical administration by inhalation.
 Activation of these receptors in the airways results in a stimulation of intracellular adenyl cyclase, an enzyme that mediates the synthesis of cyclic-3', 5' adenosine monophosphate (cAMP).
 Elevated levels of cAMP induce bronchodilation by relaxation of airway smooth muscle cells.
-In vitro studies have shown that olodaterol has 241-fold greater agonist activity at beta2-adrenoceptors compared to beta1-adrenoceptors and 2299-fold greater agonist activity compared to beta3-adrenoceptors.
+In vitro studies have shown that olodaterol has 241-fold greater agonist activity at beta2-adrenoceptors compared to beta1-adrenoceptors and 2,299-fold greater agonist activity compared to beta3-adrenoceptors.
 The clinical significance of these findings is unknown.
 
 Beta-adrenoceptors are divided into three subtypes: beta1-adrenoceptors predominantly expressed on cardiac muscle, beta2-adrenoceptors predominantly expressed on airway smooth muscle, and beta3-adrenoceptors predominantly expressed on adipose tissue.
@@ -37,7 +37,7 @@ Cardiac Electrophysiology
 
 STIOLTO RESPIMAT
 
-In two 52-week randomized, double-blind trials using STIOLTO RESPIMAT that enrolled 5162 patients with COPD, ECG assessments were performed post-dose on days 1, 85, 169, and 365.
+In two 52-week randomized, double-blind trials using STIOLTO RESPIMAT that enrolled 5,162 patients with COPD, ECG assessments were performed post-dose on days 1, 85, 169, and 365.
 In a pooled analysis the number of subjects with changes from baseline-corrected QT interval of >30 msec using both the Bazett (QTcB) and Fredericia (QTcF), corrections of QT for heart rate were not different for the STIOLTO RESPIMAT group compared to olodaterol 5 mcg and tiotropium 5 mcg across the assessments conducted.
 
 Tiotropium
@@ -105,7 +105,7 @@ Studies in rats have shown that tiotropium does not penetrate the blood-brain ba
 Olodaterol
 
 Olodaterol exhibits multi-compartmental disposition kinetics after inhalation as well as after intravenous administration.
-The volume of distribution is high (1110 L), suggesting extensive distribution into tissue.
+The volume of distribution is high (1,110 L), suggesting extensive distribution into tissue.
 In vitro binding of [14C] olodaterol to human plasma proteins is independent of concentration and is approximately 60%.
 
 Elimination
@@ -189,7 +189,7 @@ A pharmacokinetic meta-analysis showed that no dose adjustment is necessary base
 
 Geriatric Patients
 
-Tiotropium
+Tiotropium:
 
 As expected for all predominantly renally excreted drugs, advancing age was associated with a decrease of tiotropium renal clearance (347 mL/min in COPD patients <65 years to 275 mL/min in COPD patients ≥65 years).
 This did not result in a corresponding increase in AUC0-6,ss and Cmax,ss values.

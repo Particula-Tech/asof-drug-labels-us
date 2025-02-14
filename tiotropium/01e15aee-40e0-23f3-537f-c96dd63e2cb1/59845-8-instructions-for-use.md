@@ -121,10 +121,12 @@ This Patient Information and Instructions for Use has been approved by the U.S. 
 
 Distributed by: Boehringer Ingelheim Pharmaceuticals, Inc., Ridgefield, CT 06877 USA
 
+Licensed from: Boehringer Ingelheim International GmbH
+
 SPIRIVA®, HANDIHALER®, STIOLTO® and RESPIMAT® are registered trademarks of and are used under license from Boehringer Ingelheim International GmbH
 
-Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2025 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: November 2021
+Revised: January 2025
 
-COL10537AK082021
+COL10537BA092025

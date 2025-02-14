@@ -20,13 +20,13 @@ The structural formula is:
 
 The drug product, STIOLTO RESPIMAT, is composed of a sterile aqueous solution of tiotropium bromide and olodaterol hydrochloride filled into a 4.5 mL plastic container crimped into an aluminum cylinder (STIOLTO RESPIMAT cartridge) for use with the STIOLTO RESPIMAT inhaler.
 
-Excipients include water for injection, benzalkonium chloride, edetate disodium, and hydrochloric acid.
+Excipients include, benzalkonium chloride, edetate disodium, hydrochloric acid, and water for injection.
 
 The STIOLTO RESPIMAT cartridge is only intended for use with the STIOLTO RESPIMAT inhaler.
 The STIOLTO RESPIMAT inhaler is a hand held, pocket sized oral inhalation device that uses mechanical energy to generate a slow-moving aerosol cloud of medication from a metered volume of the drug solution.
 The STIOLTO RESPIMAT inhaler has a light green-colored cap.
 
 When used with the STIOLTO RESPIMAT inhaler each cartridge, containing 4 grams of sterile aqueous solution, delivers the labeled number of metered actuations after preparation for use.
-Each dose (one dose equals two actuations) from the STIOLTO RESPIMAT inhaler delivers 5 mcg tiotropium and 5 mcg olodaterol in 22.1 mcL from the mouthpiece.
+Each dose (one dose equals two actuations) from the STIOLTO RESPIMAT inhaler delivers 5 mcg tiotropium (equivalent to 6.247 mcg tiotropium bromide monohydrate) and 5 mcg olodaterol (equivalent to 5.473 mcg olodaterol hydrochloride) in 22.1 mcL from the mouthpiece.
 As with all inhaled drugs, the actual amount of drug delivered to the lung may depend on patient factors, such as the coordination between the actuation of the inhaler and inspiration through the delivery system.
 The duration of inspiration should be at least as long as the spray duration (1.5 seconds).

@@ -11,7 +11,7 @@ Concomitant treatment with xanthine derivatives, steroids, or diuretics may pote
 
 ## 7.3 Non-Potassium Sparing Diuretics
 
-The ECG changes and/or hypokalemia that may result from the administration of non-potassium sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dose of the beta-agonist is exceeded.
+The ECG changes and/or hypokalemia that may result from the administration of non-potassium sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta-agonists, especially when the recommended dosage of the beta-agonist is exceeded.
 Although the clinical significance of these effects is not known, caution is advised in the co-administration of STIOLTO RESPIMAT with non-potassium sparing diuretics.
 
 ## 7.4 Monoamine Oxidase Inhibitors, Tricyclic Antidepressants, QTc Prolonging Drugs
@@ -35,5 +35,5 @@ Therefore, avoid co-administration of STIOLTO RESPIMAT with other anticholinergi
 ## 7.7 Inhibitors of Cytochrome P450 and P-gp Efflux Transporter
 
 In a drug interaction study using the strong dual CYP and P-gp inhibitor ketoconazole, a 1.7-fold increase of olodaterol maximum plasma concentrations and AUC was observed [see Pharmacokinetics (12.3)].
-Olodaterol was evaluated in clinical trials for up to one year at doses up to twice the recommended therapeutic dose.
-No dose adjustment of STIOLTO RESPIMAT is necessary.
+Olodaterol was evaluated in clinical trials for up to one year at doses up to twice the recommended therapeutic dosage.
+No dosage adjustment of STIOLTO RESPIMAT is necessary.

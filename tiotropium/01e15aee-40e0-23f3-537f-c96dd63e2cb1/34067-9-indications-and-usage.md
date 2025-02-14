@@ -2,7 +2,7 @@
 
 ## 1.1 Maintenance Treatment of COPD
 
-STIOLTO RESPIMAT is a combination of tiotropium and olodaterol indicated for long-term, once-daily maintenance treatment of patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema.
+STIOLTO RESPIMAT is a combination of tiotropium bromide and olodaterol indicated for long-term, once-daily maintenance treatment of patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema.
 
 Important Limitations of Use
 
