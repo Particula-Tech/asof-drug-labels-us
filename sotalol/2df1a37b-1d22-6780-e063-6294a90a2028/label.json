@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "NDA019865",
+    "NDA021151"
+  ],
+  "inn": "sotalol",
+  "labeler": "Skyepharma Production SAS",
+  "package_ndcs": [
+    "13672-051-00",
+    "13672-052-00",
+    "13672-053-00",
+    "13672-054-00",
+    "13672-055-00",
+    "13672-056-00"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sotalol hcl",
+      "name": "Betapace"
+    },
+    {
+      "form": "TABLET",
+      "generic": "sotalol hcl",
+      "name": "Betapace AF"
+    }
+  ],
+  "setid": "2df1a37b-1d22-6780-e063-6294a90a2028",
+  "source": "dailymed"
+}
