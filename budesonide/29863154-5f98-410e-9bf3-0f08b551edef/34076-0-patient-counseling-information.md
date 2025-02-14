@@ -4,8 +4,8 @@ Advise Patients to read the FDA-Approved patient labeling (Patient Information).
 
 Hypercorticism and Adrenal Axis Suppression
 
-Advise patients that budesonide capsules (enteric coated) may cause hypercorticism and adrenal axis suppression and to follow a taper schedule, as instructed by their healthcare provider if transferring to budesonide capsules (enteric coated) from systemic corticosteroids [see Warnings and Precautions (5.1, 5.2)].
-Advise patients that replacement of systemic corticosteroids with budesonide capsules (enteric coated) may unmask allergies (e.g., rhinitis and eczema), which were previously controlled by the systemic drug.
+Advise patients that budesonide delayed-release capsules may cause hypercorticism and adrenal axis suppression and to follow a taper schedule, as instructed by their healthcare provider if transferring to budesonide delayed-release capsules from systemic corticosteroids [see Warnings and Precautions (5.1, 5.2)].
+Advise patients that replacement of systemic corticosteroids with budesonide delayed-release capsules may unmask allergies (e.g., rhinitis and eczema), which were previously controlled by the systemic drug.
 
 Immunosuppression and Increased Risk of Infection
 
@@ -18,12 +18,12 @@ Advise patients that Kaposi's sarcoma has been reported in patients receiving co
 
 Pregnancy
 
-Advise female patients that budesonide capsules (enteric coated) may cause fetal harm and to inform their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Advise female patients that budesonide delayed-release capsules may cause fetal harm and to inform their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 
 Administration
 
-- Take budesonide capsules (enteric coated) once daily in the morning.
-- Swallow budesonide delayed-release capsules (enteric coated) whole.
+- Take budesonide delayed-release capsules once daily in the morning.
+- Swallow budesonide delayed-release capsules whole.
   Do not chew or crush.
 - For patients unable to swallow an intact capsule, budesonide delayed-release capsules can be opened and administered as follows:
 
@@ -37,7 +37,7 @@ Administration
    Do not save the applesauce and granules for future use.
 6. Follow the applesauce and granules immediately with a glass (8 ounces) of cool water to ensure complete swallowing of the granules.
 
-- Avoid consumption of grapefruit juice for the duration of their budesonide capsules (enteric coated) therapy [see Drug Interactions (7.1)].
+- Avoid consumption of grapefruit juice for the duration of their budesonide delayed-release capsules therapy [see Drug Interactions (7.1)].
 
 Manufactured by:
 
@@ -51,4 +51,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 06/24
+Rev.: 01/25
