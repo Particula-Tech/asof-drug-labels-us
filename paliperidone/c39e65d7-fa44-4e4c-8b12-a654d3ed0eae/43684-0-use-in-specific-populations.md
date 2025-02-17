@@ -81,7 +81,7 @@ Infertility
 
 Females
 
-Based on the pharmacologic action of paliperidone (D 2receptor antagonism), treatment with INVEGA TRINZA may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.10)].
+Based on the pharmacologic action of paliperidone (D 2 receptor antagonism), treatment with INVEGA TRINZA may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.10)].
 
 ## 8.4 Pediatric Use
 

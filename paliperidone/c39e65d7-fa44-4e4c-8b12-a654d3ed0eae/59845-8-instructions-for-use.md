@@ -45,7 +45,7 @@ Dose pack contents
 
 Needle selection is determined by injection area and patient weight.
 
-| If administering a Deltoidinjection If patient weighs: Less than 90 kg pink hub | If administering a Glutealinjection If patient weighs: Less than 90 kg yellow hub |
+| If administering a Deltoid injection If patient weighs: Less than 90 kg pink hub | If administering a Gluteal injection If patient weighs: Less than 90 kg yellow hub |
 | --- | --- |
 | 90 kg or more yellow hub | 90 kg or more yellow hub |
 
@@ -113,11 +113,11 @@ Manufactured for:
 
 Janssen Pharmaceuticals, Inc.
 
-Titusville, NJ 08560
+Titusville, NJ 08560, USA
 
 For patent information: www.janssenpatents.com
 
-© 2015 Janssen Pharmaceutical Companies
+© Johnson & Johnson and its affiliates 2015
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 9/2024
+Revised: 2/2025

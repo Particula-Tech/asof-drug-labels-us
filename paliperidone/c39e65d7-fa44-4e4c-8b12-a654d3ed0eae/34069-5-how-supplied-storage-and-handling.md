@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-INVEGA TRINZA ®is available as a white to off-white sterile aqueous extended-release suspension for intramuscular injection in dose strengths of 273 mg/0.88 mL, 410 mg/1.32 mL, 546 mg/1.75 mL, and 819 mg/2.63 mL paliperidone palmitate in single-dose prefilled syringes.
+INVEGA TRINZA ® is available as a white to off-white sterile aqueous extended-release suspension for intramuscular injection in dose strengths of 273 mg/0.88 mL, 410 mg/1.32 mL, 546 mg/1.75 mL, and 819 mg/2.63 mL paliperidone palmitate in single-dose prefilled syringes.
 The single-use kit contains a prefilled syringe and 2 safety needles (a thin walled 22G, 1-inch safety needle and a thin walled 22G, 1½-inch safety needle).
 
 273 mg paliperidone palmitate kit (NDC 50458-606-01)

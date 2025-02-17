@@ -23,6 +23,6 @@ Additionally, no dosage adjustment is necessary for valproate when co-administer
 Pharmacokinetic interaction between lithium and INVEGA TRINZA is unlikely.
 
 Paliperidone is not expected to cause clinically important pharmacokinetic interactions with drugs that are metabolized by cytochrome P450 isozymes.
-In vitrostudies indicate that CYP2D6 and CYP3A4 may be involved in paliperidone metabolism; however, there is no evidence in vivothat inhibitors of these enzymes significantly affect the metabolism of paliperidone.
+In vitro studies indicate that CYP2D6 and CYP3A4 may be involved in paliperidone metabolism; however, there is no evidence in vivo that inhibitors of these enzymes significantly affect the metabolism of paliperidone.
 Paliperidone is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19; an interaction with inhibitors or inducers of these isozymes is unlikely.
 [See Clinical Pharmacology (12.3)]

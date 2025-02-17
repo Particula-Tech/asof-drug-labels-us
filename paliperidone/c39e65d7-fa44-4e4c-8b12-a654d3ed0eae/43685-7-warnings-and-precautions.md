@@ -8,13 +8,13 @@ Over the course of a typical 10-week controlled trial, the rate of death in drug
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Observational studies suggest that, similar to atypical antipsychotic drugs, treatment with conventional antipsychotic drugs may increase mortality.
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
-INVEGA TRINZA is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.2)].
+INVEGA TRINZA is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.2)].
 
 ## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
 No studies have been conducted with oral paliperidone, the 1-month paliperidone palmitate extended-release injectable suspension, or INVEGA TRINZA in elderly patients with dementia.
-These medications are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.1)].
+These medications are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -180,7 +180,7 @@ Discontinue INVEGA TRINZA in patients with severe neutropenia (absolute neutroph
 
 ## 5.10 Hyperprolactinemia
 
-Like other drugs that antagonize dopamine D 2receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
+Like other drugs that antagonize dopamine D 2 receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
 Paliperidone has a prolactin-elevating effect similar to that seen with risperidone, a drug that is associated with higher levels of prolactin than other antipsychotic drugs.
 
 Hyperprolactinemia, regardless of etiology, may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotrophin secretion.

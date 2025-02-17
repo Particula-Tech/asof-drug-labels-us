@@ -2,7 +2,7 @@
 
 The following are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.1)]
+- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
 - Cerebrovascular adverse reactions, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
 - Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
 - QT prolongation [see Warnings and Precautions (5.4)]
@@ -31,12 +31,12 @@ The other is a Phase 1 study (N=308), which included patients with schizophrenia
 
 Adverse Reactions in a Double-Blind, Placebo-Controlled (Long-Term Maintenance) Clinical Trial
 
-Commonly Observed Adverse Reactions:The most common adverse reactions (incidence at least 5% in the open-label phase, or in the INVEGA TRINZA group and at least twice the incidence in the placebo group during the double-blind phase) were injection site reaction, weight increased, headache, upper respiratory tract infection, akathisia, and parkinsonism.
+Commonly Observed Adverse Reactions: The most common adverse reactions (incidence at least 5% in the open-label phase, or in the INVEGA TRINZA group and at least twice the incidence in the placebo group during the double-blind phase) were injection site reaction, weight increased, headache, upper respiratory tract infection, akathisia, and parkinsonism.
 
-Discontinuation of Treatment Due to Adverse Events:The percentages of subjects who discontinued due to adverse events in the long-term maintenance trial were 5.1% during the open-label phase.
+Discontinuation of Treatment Due to Adverse Events: The percentages of subjects who discontinued due to adverse events in the long-term maintenance trial were 5.1% during the open-label phase.
 During the double-blind phase, no INVEGA TRINZA-treated subject and one placebo-treated subject discontinued due to adverse events.
 
-Adverse Reactions Occurring at an Incidence of 2% or More in INVEGA TRINZA- Treated Patients:The safety profile of INVEGA TRINZA was similar to that seen with the 1-month paliperidone extended-release injectable suspension.
+Adverse Reactions Occurring at an Incidence of 2% or More in INVEGA TRINZA- Treated Patients: The safety profile of INVEGA TRINZA was similar to that seen with the 1-month paliperidone extended-release injectable suspension.
 Table 8 lists the adverse reactions reported in a long-term maintenance trial in subjects with schizophrenia.
 
 Table 8.
@@ -128,45 +128,45 @@ Other Adverse Reactions Observed During the Clinical Trial Evaluation of INVEGA 
 The following additional adverse reactions were identified in the long-term maintenance trial.
 The following list does not include reactions: 1) already listed in previous tables or elsewhere in labeling, 2) for which a drug cause was remote, 3) which were so general as to be uninformative, 4) which were not considered to have significant clinical implications, or 5) occurred at an incidence lower than that of placebo-treated patients.
 
-Cardiac disorders:tachycardia
+Cardiac disorders: tachycardia
 
-Gastrointestinal disorders:nausea, vomiting
+Gastrointestinal disorders: nausea, vomiting
 
-Metabolism and nutrition disorders:hyperinsulinemia
+Metabolism and nutrition disorders: hyperinsulinemia
 
-Psychiatric disorders:anxiety
+Psychiatric disorders: anxiety
 
 Additional Adverse Reactions Reported in Clinical Trials with the 1-Month Paliperidone Palmitate Extended-Release Injectable Suspension
 
 The following is a list of additional adverse reactions that have been reported in clinical trials with the 1-month paliperidone palmitate extended-release injectable suspension:
 
-Cardiac disorders:atrioventricular block first degree, bradycardia, bundle branch block, palpitations, postural orthostatic tachycardia syndrome
+Cardiac disorders: atrioventricular block first degree, bradycardia, bundle branch block, palpitations, postural orthostatic tachycardia syndrome
 
-Ear and labyrinth disorders:vertigo
+Ear and labyrinth disorders: vertigo
 
-Eye disorders:eye movement disorder, eye rolling, oculogyric crisis, vision blurred
+Eye disorders: eye movement disorder, eye rolling, oculogyric crisis, vision blurred
 
-Gastrointestinal disorders:abdominal discomfort/abdominal pain upper, diarrhea, dry mouth, toothache
+Gastrointestinal disorders: abdominal discomfort/abdominal pain upper, diarrhea, dry mouth, toothache
 
 General disorders and administration site conditions: asthenia, fatigue
 
-Immune system disorders:hypersensitivity
+Immune system disorders: hypersensitivity
 
 Investigations:electrocardiogram abnormal
 
-Metabolism and nutrition disorders:decreased appetite, increased appetite
+Metabolism and nutrition disorders: decreased appetite, increased appetite
 
-Musculoskeletal and connective tissue disorders:back pain, myalgia, pain in extremity, joint stiffness, muscle spasms, muscle twitching, nuchal rigidity
+Musculoskeletal and connective tissue disorders: back pain, myalgia, pain in extremity, joint stiffness, muscle spasms, muscle twitching, nuchal rigidity
 
-Nervous system disorders:bradykinesia, cerebrovascular accident, convulsion, dizziness, dizziness postural, dysarthria, hypertonia, lethargy, oromandibular dystonia, psychomotor hyperactivity, syncope
+Nervous system disorders: bradykinesia, cerebrovascular accident, convulsion, dizziness, dizziness postural, dysarthria, hypertonia, lethargy, oromandibular dystonia, psychomotor hyperactivity, syncope
 
-Psychiatric disorders:agitation, nightmare
+Psychiatric disorders: agitation, nightmare
 
-Reproductive system and breast disorders:breast discharge, erectile dysfunction, gynecomastia, menstrual disorder, menstruation delayed, menstruation irregular, sexual dysfunction
+Reproductive system and breast disorders: breast discharge, erectile dysfunction, gynecomastia, menstrual disorder, menstruation delayed, menstruation irregular, sexual dysfunction
 
-Respiratory, thoracic and mediastinal disorders:cough
+Respiratory, thoracic and mediastinal disorders: cough
 
-Skin and subcutaneous tissue disorders:drug eruption, pruritus, pruritus generalized, rash, urticaria
+Skin and subcutaneous tissue disorders: drug eruption, pruritus, pruritus generalized, rash, urticaria
 
 Vascular disorders: hypertension
 
