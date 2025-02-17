@@ -1,9 +1,9 @@
 # Instructions for Use
 
-​XYOSTED​TM Testosterone Enanthate Injection USP CIII
+​XYOSTED ​TM Testosterone Enanthate Injection USP CIII
 
-Single-use.
-For subcutaneous injection.
+Single-dose auto-injector.
+For a single subcutaneous administration.
 Administer one device weekly.
 
 Read this Instructions for Use before you start using XYOSTED (ZYE-oh-sted) and each time you get a refill.
@@ -19,13 +19,14 @@ Important Information about XYOSTED:
   You should not inject XYOSTED until you have been trained on the proper way to use it.
 - Check XYOSTED before you inject it.
   XYOSTED should be clear to light yellow in color and should be free of visible particles.
-- Do not use if the liquid is cloudy or if visible particles are present.
+- Do notuse if the liquid is cloudy or if visible particles are present.
   You may see air bubble(s), this is normal.
-- Do not use XYOSTED if the safety seal is broken or if the Auto-Injector appears broken, damaged or changed in any way.
+- Do notuse XYOSTED if the safety seal is broken or if the Auto-Injector appears broken, damaged or changed in any way.
 - XYOSTED should be injected in the stomach (abdomen) area after cleaning the skin.
-- Do not inject XYOSTED within 2 inches of the belly button (navel).
-- Do not inject XYOSTED in any other areas of the body.
-- Do not inject XYOSTED in areas where the skin is tender, bruised, red, scaly, hard, or has scars or stretch marks.
+- Do notinject XYOSTED within 2 inches of the belly button (navel).
+- Do notinject XYOSTED in any other areas of the body.
+- Do notinject XYOSTED in areas where the skin is tender, bruised, red, scaly, hard, or has scars or stretch marks.
+- Discard unused portion.
 
 If you are not sure if XYOSTED was injected, or if you have a hard time giving the injection, do not inject another dose.
 Call your pharmacist or healthcare provider right away.
@@ -50,14 +51,14 @@ Call your pharmacist or healthcare provider right away.
 
 ​Inspect Auto-Injector
 
-- Do not remove Cap until ready to inject.
+- Do notremove Cap until ready to inject.
 - Inspect Auto-Injector for any visible damage.
-  Do not use if it appears damaged or broken.
+  Do notuse if it appears damaged or broken.
 - Check the expiration date.
-  Do not use if the expiration date has passed.
+  Do notuse if the expiration date has passed.
 - Inspect the medicine through the Viewing Window; it should be clear to light yellow and free of visible particles (see Figure 2).
 
-Do not use if the medicine is cloudy or if visible particles are present.
+Do notuse if the medicine is cloudy or if visible particles are present.
 You may notice an air bubble, this is normal.
 
 ​Select & Prep Injection Site
@@ -66,14 +67,14 @@ Wash your hands with soap and water.
 Wipe the abdomen injection site with an alcohol swab.
 
 Allow the site to dry on its own.
-Do not fan or blow on the injection site.
-Do not touch the site again before injecting.
+Do notfan or blow on the injection site.
+Do nottouch the site again before injecting.
 
 Only use the left or right side of the abdomen (belly) for injection sites.
-Do not use the area within 2 inches around your navel (belly button).
+Do notuse the area within 2 inches around your navel (belly button).
 See Figure 3.
 
-Do not use in areas where the skin is tender, bruised, red, scaly, or hard.
+Do notuse in areas where the skin is tender, bruised, red, scaly, or hard.
 Avoid areas with scars, tattoos, or stretch marks.
 
 ​Administering Injection
@@ -86,9 +87,9 @@ See Figure 4.
 
 After the Cap is removed, a few drops of liquid may appear, this is normal.
 The Auto-Injector should be used or discarded after the Cap is removed.
-Do not re-Cap for later use.
+Do notre-Cap for later use.
 
-|  | Do not touch the Needle End of the Auto-Injector with your hand or fingers after the Cap is removed, doing so can cause injection and injury to your hands. |
+|  | Do nottouch the Needle End of the Auto-Injector with your hand or fingers after the Cap is removed, doing so can cause injection and injury to your hands. |
 | --- | --- |
 
 ​2.
@@ -112,7 +113,7 @@ Keep holding the XYOSTED Auto-Injector down for a total of 10 seconds even if yo
 
 It is normal if there is slight bleeding from the site after injection.
 If this occurs, hold a cotton ball or gauze on the area for a few seconds.
-Do not rub the area.
+Do notrub the area.
 
 ​4.
 Inspect Viewing Window
@@ -122,16 +123,16 @@ It should be orange, confirming the dose was administered (see Figure 9).
 
 If the Viewing Window is not orange:
 
-- Do not use another Auto-Injector.
-- Do not attempt another injection.
-- Call your healthcare provider or 1-844-996-7833 for assistance.
+- Do notuse another Auto-Injector.
+- Do notattempt another injection.
+- Callyour healthcare provider or 1-844-996-7833for assistance.
 
 ​Disposal After Injection
 
 |  | After completing your injection, dispose of the XYOSTED Auto-Injector and Cap in an FDA-cleared sharps disposal container immediately after use. |
 | --- | --- |
 
-Do not dispose of the XYOSTED Auto-Injector in your household trash.
+Do notdispose of the XYOSTED Auto-Injector in your household trash.
 
 If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
 
@@ -145,11 +146,11 @@ When your sharps disposal container is almost full, you will need to follow your
 There may be state or local laws about how you should throw away used needles and syringes.
 For more information about safe sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
 
-Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+Do notdispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
 Do not recycle your used sharps disposal container.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration
 
-LB-0118 V6
+LB-0118 V07
 
-Manufactured for: Antares Pharma, Inc. Ewing, NJ 08628 08/2023
+Manufactured for: Antares Pharma, Inc. Ewing, NJ 08628 01/2025

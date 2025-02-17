@@ -30,12 +30,12 @@ At Week 12, total testosterone concentrations were measured before and at specif
 Table 3.
 Arithmetic Mean (SD) and Range for Total Testosterone Pharmacokinetic Parameters at Week 12 Following Weekly Administration of 50 mg, 75 mg, or 100 mg XYOSTED (N=137)
 
-|  | Cavg (0-168 hr)(ng/dL) | Cmax(ng/dL) | Tmax(hr)a | Cmin(ng/dL) | AUC (0-168 hr)(ng·hr/dL) |
+|  | C avg (0-168 hr)(ng/dL) | C max(ng/dL) | T max(hr) a | C min(ng/dL) | AUC (0-168 hr)(ng·hr/dL) |
 | --- | --- | --- | --- | --- | --- |
 | Mean (SD) | 553 (127) | 790 (215) | 11.9 | 436 (109) | 92,955 (21,385) |
 | Min - Max | 276 - 1036 | 389 - 1410 | 6 - 168 | 166 - 788 | 46432 - 173,987 |
 
-a Reported as median
+aReported as median
 
 Distribution
 

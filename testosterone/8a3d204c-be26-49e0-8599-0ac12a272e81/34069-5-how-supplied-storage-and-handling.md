@@ -3,7 +3,7 @@
 ## 16.1 How Supplied
 
 XYOSTED (testosterone enanthate) injection is provided as 0.5 mL of a sterile, preservative-free, and nonpyrogenic colorless to pale yellow solution in a single-dose syringe pre-assembled in an autoinjector for a single subcutaneous administration.
-XYOSTED is packaged in cartons containing four (4) autoinjectors.
+XYOSTED is packaged in cartons containing four (4) or one (1) autoinjectors.
 XYOSTED is available in the following strengths and configurations.
 
 - XYOSTED (testosterone enanthate) injection, USP, 50 mg/0.5 mL

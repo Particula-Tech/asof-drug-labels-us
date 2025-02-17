@@ -1,50 +1,102 @@
 # PRINCIPAL DISPLAY PANEL - 50 mg/0.5 mL Autoinjector
 
-XYOSTED®(testosterone enathate) Injection, USP
+XYOSTED ® (testosterone enathate injection, USP) CIII
 
-NDC 54436-250-02 Rx ONLY
+50 mg/0.5 mL
+
+NDC 54436-250-02
+
+For subcutaneous injections only.
+Single-dose autoinjector.
+Discard after use. ​ DO NOT​ reuse.
+Rx ONLY
+
+# PRINCIPAL DISPLAY PANEL - 75 mg/0.5 mL Autoinjector
+
+XYOSTED ® (testosterone enathate injection, USP) CIII
+
+75 mg/0.5 mL
+
+NDC 54436-275-02
+
+For subcutaneous injections only.
+Single-dose autoinjector.
+Discard after use.
+DO NOTreuse.
+Rx ONLY
+
+# PRINCIPAL DISPLAY PANEL - 100 mg/0.5 mL Autoinjector
+
+XYOSTED ® (testosterone enathate injection, USP) CIII
+
+100 mg/0.5 mL
+
+NDC 54436-200-02
+
+For subcutaneous injections only.
+Single-dose autoinjector.
+Discard after use. ​ DO NOT​ reuse.
+Rx ONLY
+
+# PRINCIPAL DISPLAY PANEL - 50 mg/0.5 mL Carton of 4
+
+XYOSTED ®(testosterone enathate injection, USP)
+
+NDC 54436-250-04
 
 50 mg/0.5 mL
 
 CIII
 
-For subcutaneous injection only.
-Single-dose autoinjector. ​DO NOT​ reuse.
+For subcutaneous injections only
 
-50 mg
+Four Single-dose autoinjectors
 
-# PRINCIPAL DISPLAY PANEL - 75 mg/0.5 mL Autoinjector
+Discard after use.
+DO NOTreuse.
 
-XYOSTED®(testosterone enathate) Injection, USP
+Dispense the enclosed Medication Guide to each patient.
 
-NDC 54436-275-02 Rx ONLY
+Rx ONLY
+
+# PRINCIPAL DISPLAY PANEL - 75 mg/0.5 mL Carton of 4
+
+XYOSTED ® (testosterone enathate injection, USP)
+
+NDC 54436-275-04
 
 75 mg/0.5 mL
 
 CIII
 
-For subcutaneous injection only.
-Single-dose autoinjector. ​DO NOT​ reuse.
+For subcutaneous injections only
 
-75 mg
+Four Single-dose autoinjectors
 
-# PRINCIPAL DISPLAY PANEL - 100 mg/0.5 mL Autoinjector
+Discard after use.
+DO NOTreuse.
 
-XYOSTED®(testosterone enathate) Injection, USP
+Dispense the enclosed Medication Guide to each patient.
 
-NDC 54436-200-02 Rx ONLY
+Rx ONLY
+
+# PRINCIPAL DISPLAY PANEL - 100 mg/0.5 mL Carton of 4
+
+XYOSTED ® (testosterone enathate injection, USP)
+
+NDC 54436-200-04
 
 100 mg/0.5 mL
 
 CIII
 
-For subcutaneous injection only.
-Single-dose autoinjector. ​DO NOT​ reuse.
+For subcutaneous injections only
 
-100 mg
+Four Single-dose autoinjectors
 
-# PRINCIPAL DISPLAY PANEL - 50 mg/0.5 mL Carton
+Discard after use.
+DO NOTreuse.
 
-# PRINCIPAL DISPLAY PANEL - 75 mg/0.5 mL Carton
+Dispense the enclosed Medication Guide to each patient.
 
-# PRINCIPAL DISPLAY PANEL - 100 mg/0.5 mL Carton
+Rx ONLY

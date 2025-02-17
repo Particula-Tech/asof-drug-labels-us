@@ -29,7 +29,7 @@ An increase in red blood cell mass may increase the risk of thromboembolic event
 Long term clinical safety trials have not been completed to assess the cardiovascular outcomes of testosterone replacement therapy in adult males.
 To date, epidemiologic studies and randomized controlled trials have been inconclusive for determining the risk of MACE, such as non-fatal myocardial infarction, non-fatal stroke, and cardiovascular death, with the use of testosterone compared to non-use.
 Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in adult males.
-XYOSTED can cause BP increases that can increase the risk of MACE [see Boxed Warning and Warnings and Precautions (5.1)].
+XYOSTED can cause BP increases that can increase the risk of MACE [see Boxed Warningand Warnings and Precautions (5.1)].
 Patients should be informed of this possible risk when deciding whether to use or to continue to use XYOSTED.
 
 ## 5.4 Worsening of Benign Prostatic Hyperplasia (BPH) and Potential Risk of Prostate Cancer

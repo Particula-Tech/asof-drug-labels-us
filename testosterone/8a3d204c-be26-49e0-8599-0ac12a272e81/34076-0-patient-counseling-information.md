@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Medication Guideand Instructions for Use).
 
 ## Increased Blood Pressure and Risk for Major Adverse Cardiovascular Events (MACE)
 
