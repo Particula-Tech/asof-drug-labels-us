@@ -6,7 +6,7 @@ Risk Summary
 
 There are no adequate and well-controlled studies of SUSVIMO (ranibizumab injection) administration in pregnant women.
 Administration of ranibizumab to pregnant monkeys throughout the period of organogenesis resulted in a low incidence of skeletal abnormalities at intravitreal doses up to 41 times the human exposure (based on serum levels following the recommended clinical dose).
-No skeletal abnormalities were observed at serum trough levels similar to the human exposure after a single eye treatment at the recommended clinical dose [see Animal Data].
+No skeletal abnormalities were observed at serum trough levels similar to the human exposure after a single eye treatment at the recommended clinical dose (see Data).
 
 Animal reproduction studies are not always predictive of human response, and it is not known whether ranibizumab can cause fetal harm when administered to a pregnant woman.
 Based on the anti-VEGF mechanism of action for ranibizumab [see Clinical Pharmacology (12.1)], treatment with SUSVIMO (ranibizumab injection) may pose a risk to human embryofetal development.

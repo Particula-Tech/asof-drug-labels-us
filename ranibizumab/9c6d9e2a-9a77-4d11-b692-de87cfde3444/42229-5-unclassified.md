@@ -1,3 +1,3 @@
-SUSVIMO™ [ranibizumab injection] Manufactured by: Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 U.S. License No.: 1048
+SUSVIMO® [ranibizumab injection] Manufactured by: Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 U.S. License No.: 1048
 
-SUSVIMO is a trademark of Genentech, Inc. ©2021 Genentech, Inc.
+SUSVIMO is a registered trademark of Genentech, Inc. ©2025 Genentech, Inc.

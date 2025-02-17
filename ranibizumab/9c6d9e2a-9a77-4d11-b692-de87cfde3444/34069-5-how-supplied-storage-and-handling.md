@@ -14,10 +14,10 @@ Each SUSVIMO refill needle carton contains a SUSVIMO refill needle (34-gauge ven
 | Device and Materials Description |  |
 | --- | --- |
 | Components |  |
-| Figure 30 |  |
-| SUSVIMO implant SUSVIMO implant (Figure 31) is capable of holding 0.02 mL of drug, and is secured within the sclera, by the extrascleral flange that remains visible through the conjunctiva following insertion.The septum is a self-sealing interface through which ranibizumab is administered to fill the implant. | Figure 31 |
-| SUSVIMO (ranibizumab injection) 100 mg/mL vial SUSVIMO (ranibizumab injection) (Figure 32) is used to fill the implant with ranibizumab prior to insertion or during subsequent refill-exchange in an office-based setting. | Figure 32 |
-| SUSVIMO refill needle SUSVIMO refill needle (Figure 33) consists of a 34 G vented needle assembly, silicone soft stop, and a 5 μm integrated filter within the needle hub. It is designed to simultaneously exchange the contents of the implant reservoir with replacement ranibizumab in an office-based setting. As replacement ranibizumab is administered into the implant through the stainless-steel cannula, fluid remaining in the implant flows through openings in the vented needle and is collected in the fluid collection reservoir.SUSVIMO refill needle is distinguished by its clear cap. | Figure 33 |
+| Figure 31 |  |
+| SUSVIMO implant SUSVIMO implant (Figure 31) is capable of holding 0.02 mL of drug, and is secured within the sclera, by the extrascleral flange that remains visible through the conjunctiva following insertion.The septum is a self-sealing interface through which ranibizumab is administered to fill the implant. | Figure 32 |
+| SUSVIMO (ranibizumab injection) 100 mg/mL vial SUSVIMO (ranibizumab injection) (Figure 32) is used to fill the implant with ranibizumab prior to insertion or during subsequent refill-exchange in an office-based setting. | Figure 33 |
+| SUSVIMO refill needle SUSVIMO refill needle (Figure 33) consists of a 34 G vented needle assembly, silicone soft stop, and a 5 μm integrated filter within the needle hub. It is designed to simultaneously exchange the contents of the implant reservoir with replacement ranibizumab in an office-based setting. As replacement ranibizumab is administered into the implant through the stainless-steel cannula, fluid remaining in the implant flows through openings in the vented needle and is collected in the fluid collection reservoir.SUSVIMO refill needle is distinguished by its clear cap. | Figure 34 |
 
 Materials List
 
@@ -70,8 +70,7 @@ Avoid contact between sharp surgical instruments and the SUSVIMO implant as the 
 
 Important Device Handling Information
 
-- Use caution when performing ophthalmic procedures that may cause deflection of the implant and subsequent injury.
-  For example, B-scan ophthalmic ultrasound, scleral depression, or gonioscopy.
+- Use caution when performing ophthalmic procedures (e.g., B-scan ophthalmic ultrasound, scleral depression, or gonioscopy) that may cause deflection or movement of the implant and subsequent injury.
 
 Ocular Implant Initial Fill Procedure
 
