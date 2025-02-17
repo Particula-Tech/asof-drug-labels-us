@@ -2,12 +2,12 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1 Cardiovascular Thrombotic Events)]
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1)]
 - GI Bleeding, Ulceration, and Perforation [see Warnings and Precautions (5.2)]
-- Hepatotoxicity [see Warnings and Precautions (5.3 Hepatotoxicity)]
-- Hypertension [see Warnings and Precautions (5.4 Hypertension)]
-- Heart Failure and Edema [see Warnings and Precautions (5.5 Heart Failure and Edema)]
-- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6 Renal Toxicity and Hyperkalemia)]
+- Hepatotoxicity [see Warnings and Precautions (5.3)]
+- Hypertension [see Warnings and Precautions (5.4)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
 - Hematologic Toxicity [see Warnings and Precautions (5.12)]
@@ -26,26 +26,26 @@ In controlled clinical trials with about 80 pediatric patients and in well-monit
 
 In patients taking naproxen in clinical trials, the most frequently reported adverse experiences in approximately 1% to 10% of patients are:
 
-Gastrointestinal (GI) Experiences, including: heartburn*, abdominal pain*, nausea*, constipation*, diarrhea, dyspepsia, stomatitis
+Gastrointestinal (GI) Experiences, including:heartburn*, abdominal pain*, nausea*, constipation*, diarrhea, dyspepsia, stomatitis
 
-Central Nervous System: headache*, dizziness*, drowsiness*, lightheadedness, vertigo
+Central Nervous System:headache*, dizziness*, drowsiness*, lightheadedness, vertigo
 
-Dermatologic: pruritus (itching)*, skin eruptions*, ecchymoses*, sweating, purpura
+Dermatologic:pruritus (itching)*, skin eruptions*, ecchymoses*, sweating, purpura
 
-Special Senses: tinnitus*, visual disturbances, hearing disturbances
+Special Senses:tinnitus*, visual disturbances, hearing disturbances
 
-Cardiovascular: edema*, palpitations
+Cardiovascular:edema*, palpitations
 
-General: dyspnea*, thirst
+General:dyspnea*, thirst
 
 *Incidence of reported reaction between 3% and 9%.
 Those reactions occurring in less than 3% of the patients are unmarked.
 
 In patients taking NSAIDs, the following adverse experiences have also been reported in approximately 1% to 10% of patients.
 
-Gastrointestinal (GI) Experiences, including: flatulence, gross bleeding/perforation, GI ulcers (gastric/duodenal), vomiting
+Gastrointestinal (GI) Experiences, including:flatulence, gross bleeding/perforation, GI ulcers (gastric/duodenal), vomiting
 
-General: abnormal renal function, anemia, elevated liver enzymes, increased bleeding time, rashes
+General:abnormal renal function, anemia, elevated liver enzymes, increased bleeding time, rashes
 
 ## 6.2 Postmarketing Experience
 
@@ -60,7 +60,7 @@ Body as a Whole: anaphylactoid reactions, angioneurotic edema, menstrual disorde
 Cardiovascular: congestive heart failure, vasculitis, hypertension, pulmonary edema
 
 Gastrointestinal: inflammation, bleeding (sometimes fatal, particularly in the elderly), ulceration, perforation and obstruction of the upper or lower gastrointestinal tract.
-Esophagitis, stomatitis, hematemesis, pancreatitis, vomiting, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn’s disease).
+Esophagitis, stomatitis, hematemesis, pancreatitis, vomiting, colitis, exacerbation of inflammatory bowel disease (ulcerative colitis, Crohn's disease).
 
 Hepatobiliary: jaundice, abnormal liver function tests, hepatitis (some cases have been fatal)
 
@@ -72,7 +72,7 @@ Nervous System: inability to concentrate, depression, dream abnormalities, insom
 
 Respiratory: eosinophilic pneumonitis, asthma
 
-Dermatologic: alopecia, urticaria, skin rashes, toxic epidermal necrolysis, erythema multiforme, erythema nodosum, fixed drug eruption, lichen planus, pustular reaction, systemic lupus erythematoses, bullous reactions, including Stevens-Johnson syndrome, photosensitive dermatitis, photosensitivity reactions, including rare cases resembling porphyria cutanea tarda (pseudoporphyria) or epidermolysis bullosa.
+Dermatologic: alopecia, urticaria, skin rashes, toxic epidermal necrolysis, erythema multiforme, erythema nodosum, lichen planus, pustular reaction, systemic lupus erythematoses, bullous reactions, including Stevens-Johnson syndrome, fixed drug eruption, photosensitive dermatitis, photosensitivity reactions, including rare cases resembling porphyria cutanea tarda (pseudoporphyria) or epidermolysis bullosa.
 If skin fragility, blistering or other symptoms suggestive of pseudoporphyria occur, treatment should be discontinued and the patient monitored.
 
 Special Senses: hearing impairment, corneal opacity, papillitis, retrobulbar optic neuritis, papilledema

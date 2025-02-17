@@ -6,6 +6,6 @@ NDC – 71511-701-16
 
 Storage
 
-Store at 25°C (77°F); excursions permitted to 15° - 30°C (59° - 86°F) [see USP Controlled Room Temperature] Avoid excessive heat above 40°C (104°F).
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59° F to 86°F) [see USP Controlled Room Temperature] Avoid excessive heat above 40°C (104°F).
 Dispense in light-resistant containers.
 Shake gently before use.

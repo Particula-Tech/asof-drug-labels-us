@@ -4,7 +4,7 @@ NAPROSYN Suspension (naproxen) is available as a light orange-colored opaque ora
 
 Naproxen is a propionic acid derivative related to the arylacetic acid group of nonsteroidal anti-inflammatory drugs.
 The chemical name is (S)-6-methoxy-α-methyl-2-naphthaleneacetic acid.
-The molecular weight is 230.26 Its molecular formula is C14H14O3, and it has the following chemical structure.
+The molecular weight is 230.26 Its molecular formula is C 14H 14O 3, and it has the following chemical structure.
 
 Naproxen is an odorless, white to off-white crystalline substance.
 It is lipid-soluble, practically insoluble in water at low pH and freely soluble in water at high pH.
