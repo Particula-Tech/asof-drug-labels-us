@@ -16,7 +16,7 @@ Please see accompanying full Package Insert.
 
 IMPORTANT RESOURCES
 
-For additional information, visit www.invegasustenna.comor call Janssen Pharmaceuticals, Inc. at 1-800-526-7736.
+For additional information, visit www.invegasustenna.com or call Janssen Pharmaceuticals, Inc. at 1-800-526-7736.
 
 Kit contents
 
@@ -36,9 +36,9 @@ INSTRUCTIONS FOR USE
 
 - Shake the syringe vigorously for a minimum of 10 seconds to ensure a homogeneous suspension.
 - Select the appropriate needle.
-  For DELTOID injection: For GLUTEAL injection: Use the 1 ½-inch 22gauge needle (needle with graycolored hub) regardless of patient's weight.
-  - If the patient weighs less than 90 kg, use the 1-inch 23gauge needle (needle with bluecolored hub).
-  - If the patient weighs 90 kg or more, use the 1 ½-inch 22gauge needle (needle with graycolored hub).
+  For DELTOID injection: For GLUTEAL injection: Use the 1 ½-inch 22 gauge needle (needle with gray colored hub) regardless of patient's weight.
+  - If the patient weighs less than 90 kg, use the 1-inch 23 gauge needle (needle with blue colored hub).
+  - If the patient weighs 90 kg or more, use the 1 ½-inch 22 gauge needle (needle with gray colored hub).
 - Hold the syringe with the tip cap pointing up.
   Remove the rubber tip cap with a gentle twisting motion.
 - Peel the safety needle pouch half way open.
@@ -63,12 +63,12 @@ Keep out of reach of children.
 |  | h2 |
 |  | h3 |
 
-Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560, USA
 
 For patent information: www.janssenpatents.com
 
-©2009 Janssen Pharmaceutical Companies
+© Johnson & Johnson and its affiliates 2009
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 9/2024
+Revised: 2/2025
