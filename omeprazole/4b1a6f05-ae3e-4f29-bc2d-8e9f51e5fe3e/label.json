@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA075757"
+  ],
+  "inn": "omeprazole",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-559-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, DELAYED RELEASE",
+      "generic": "omeprazole",
+      "name": "Omeprazole"
+    }
+  ],
+  "setid": "4b1a6f05-ae3e-4f29-bc2d-8e9f51e5fe3e",
+  "source": "dailymed"
+}
