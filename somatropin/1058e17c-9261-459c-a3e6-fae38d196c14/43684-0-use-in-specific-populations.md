@@ -5,7 +5,7 @@
 Risk Summary
 
 Limited available data with somatropin use in pregnant women are insufficient to determine a drug-associated risk of adverse developmental outcomes.
-In animal reproduction studies, there was no evidence of fetal or neonatal harm when pregnant rats were administered subcutaneous NORDITROPINduring organogenesis or during lactation at doses approximately 10-times higher than the maximal clinical dose of 0.016 mg/kg, based on body surface area (see Data).
+In animal reproduction studies, there was no evidence of fetal or neonatal harm when pregnant rats were administered subcutaneous NORDITROPIN during organogenesis or during lactation at doses approximately 10-times higher than the maximal clinical dose of 0.016 mg/kg, based on body surface area (see Data).
 
 The estimated background risk of birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
@@ -14,10 +14,10 @@ Data
 
 Animal Data
 
-In an embryo-fetal development study, NORDITROPINwas administered via subcutaneous injection to pregnant rats from gestation Day 6 to 17, corresponding with the period of organogenesis.
-NORDITROPINdid not adversely affect fetal viability or developmental outcomes at maternal doses that were approximately 10-times the clinical dose of 0.016 mg/kg, based on body surface area.
+In an embryo-fetal development study, NORDITROPIN was administered via subcutaneous injection to pregnant rats from gestation Day 6 to 17, corresponding with the period of organogenesis.
+NORDITROPIN did not adversely affect fetal viability or developmental outcomes at maternal doses that were approximately 10-times the clinical dose of 0.016 mg/kg, based on body surface area.
 
-In a pre- and post-natal development study in pregnant rats, NORDITROPINwas administered from gestation Day 17 through lactation Day 21 (weaning).
+In a pre- and post-natal development study in pregnant rats, NORDITROPIN was administered from gestation Day 17 through lactation Day 21 (weaning).
 No adverse developmental effects were observed in the offspring at doses up to 1.1 mg/kg (approximately 10 times the clinical dose of 0.016 mg/kg, based on body surface area).
 
 ## 8.2 Lactation
@@ -27,7 +27,7 @@ Risk Summary
 There is no information regarding the presence of somatropin in human milk.
 Limited published data indicate that exogenous somatropin does not increase normal breastmilk concentrations of growth hormone.
 No adverse effects on the breastfed infant have been reported with somatropin.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for NORDITROPINand any potential adverse effects on the breastfed infant from NORDITROPINor from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for NORDITROPIN and any potential adverse effects on the breastfed infant from NORDITROPIN or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
@@ -45,7 +45,7 @@ Short Stature Associated with Turner Syndrome
 
 Safety and effectiveness of NORDITROPIN have been established in pediatric patients with short stature associated with Turner syndrome in two randomized, parallel group, open-label, multicenter studies in 87 pediatric patients [see Clinical Studies (14.3)].
 
-Short Stature in Children Born Small for Gestational Age (SGA) with No Catch-up Growth by Age 2 Years to 4 Years of Age
+Short Stature in Pediatric Patients Born Small for Gestational Age (SGA) with No Catch-up Growth by Age 2 Years to 4 Years of Age
 
 Safety and effectiveness of NORDITROPIN have been established in pediatric patients with short stature born SGA with no catch-up growth in a multi-center, randomized, double-blind, two-arm study to final height in 53 pediatric patients and in a randomized study of 84 prepubertal, non-GHD, Japanese pediatric patients [see Clinical Studies (14.4)].
 
@@ -63,6 +63,6 @@ Patients with Prader-Willi syndrome should be evaluated for signs of upper airwa
 
 ## 8.5 Geriatric Use
 
-The safety and effectiveness of NORDITROPINin patients aged 65 and over has not been evaluated in clinical studies.
+The safety and effectiveness of NORDITROPIN in patients aged 65 and over has not been evaluated in clinical studies.
 Elderly patients may be more sensitive to the action of somatropin, and therefore may be more prone to develop adverse reactions.
 A lower starting dose and smaller dose increments should be considered for older patients [see Dosage and Administration (2.3)].

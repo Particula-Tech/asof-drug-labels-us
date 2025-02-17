@@ -37,9 +37,9 @@ A prospective, open label, randomized, parallel group study with 21 pediatric pa
 Additional 6 children were not randomized, but did follow the protocol.
 Inclusion criteria included bone age determination showing no significant acceleration, prepubertal status, height SDS <-2, and HV SDS <1 during the 12 months pre-treatment.
 Exclusion criteria were previous or ongoing treatment with growth hormone, anabolic steroids or corticosteroids, congenital heart disease or other serious disease perceived to possibly have major impact on growth, FPG >6.7 mmol/L (>120 mg/dL), or growth hormone deficiency (peak GH levels <10 ng/mL).
-The twenty-four, 12 female and 12 male, patients 3 – 14 years of age received either 0.033 mg/kg/day or 0.066 mg/kg/day of NORDITROPINsubcutaneously which was adjusted based on growth response after the first 2 years.
+The twenty-four, 12 female and 12 male, patients 3 – 14 years of age received either 0.033 mg/kg/day or 0.066 mg/kg/day of NORDITROPIN subcutaneously which was adjusted based on growth response after the first 2 years.
 
-After the initial two-year study, NORDITROPIN treatment continueduntil final height.
+After the initial two-year study, NORDITROPIN treatment continued until final height.
 Retrospective final height was collected from 18 patients in the study and the 6 who had followed the protocol without randomization.
 Historical reference materials of height velocity and adult height analyses of Noonan patients served as the controls.
 
@@ -54,8 +54,8 @@ Two randomized, parallel group, open label, multicenter studies were conducted i
 Patients were treated to final height in both studies [height velocity (HV) < 2 cm/year].
 Changes in height were expressed as standard deviation scores (SDS) utilizing reference data for untreated Turner syndrome patients as well as the national Dutch population.
 
-In Study 1, 68 euthyroid Caucasian patients stratified based on age and baseline height SDS were randomized in a 1:1:1 ratio to three different NORDITROPINtreatment regimens: 0.045 mg/kg/day (Dose A) for the entire study; 0.045 mg/kg/day for the first year and 0.067 mg/kg/day thereafter (Dose B); or 0.045 mg/kg/day for the first year, 0.067 for the second year, and 0.089 mg/kg/day thereafter (Dose C). At baseline, mean age was 6.5 years, mean height SDS (National standard) was -2.7, and mean HV during the previous year was 6.5 cm/year.
-Patients also received estrogen therapy after age 12 and following four years of NORDITROPINtreatment if they did not have spontaneous puberty.
+In Study 1, 68 euthyroid Caucasian patients stratified based on age and baseline height SDS were randomized in a 1:1:1 ratio to three different NORDITROPIN treatment regimens: 0.045 mg/kg/day (Dose A) for the entire study; 0.045 mg/kg/day for the first year and 0.067 mg/kg/day thereafter (Dose B); or 0.045 mg/kg/day for the first year, 0.067 for the second year, and 0.089 mg/kg/day thereafter (Dose C). At baseline, mean age was 6.5 years, mean height SDS (National standard) was -2.7, and mean HV during the previous year was 6.5 cm/year.
+Patients also received estrogen therapy after age 12 and following four years of NORDITROPIN treatment if they did not have spontaneous puberty.
 
 Patients were treated for a mean of 8.4 years.
 As seen in Table 5, overall mean final height was 161 cm in the 46 children who attained final height.
@@ -90,7 +90,7 @@ duration of treatment, age at baseline, bone age at baseline, height SDS at base
 
 3p=0.005 vs. Dose A; 4p=0.006 vs. Dose A; 5p=0.008 vs. Dose A
 
-In Study 2, 19 euthyroid Caucasian patients (with bone age ≤13.9 years) were randomized to treatment with 0.067 mg/kg/day of NORDITROPINas a single subcutaneous dose in the evening, or divided into two doses (1/3 morning and 2/3 evening).
+In Study 2, 19 euthyroid Caucasian patients (with bone age ≤13.9 years) were randomized to treatment with 0.067 mg/kg/day of NORDITROPIN as a single subcutaneous dose in the evening, or divided into two doses (1/3 morning and 2/3 evening).
 All subjects were treated with concomitant ethinyl estradiol.
 Overall, at baseline, mean age was 13.6 years, mean height SDS (National standard) was -3.5 and mean HV during the previous year was 4.3 cm/year.
 Patients were treated for a mean of 3.6 years.
@@ -98,17 +98,18 @@ In that there were no significant differences between the two treatment groups f
 Overall mean final height was 155 cm in the 17 children who attained final height.
 Height SDS changed significantly from -3.5 at baseline to -2.4 at final height (National standard), and from 0.7 to 1.3 at final height (Turner standard).
 
-## 14.4 Short Stature in Children Born Small for Gestational Age (SGA) with No Catch-up Growth by Age 2-4 Years
+## 14.4 Short Stature in Pediatric Patients Born Small for Gestational Age (SGA) with No Catch-up Growth by Age 2-4 Years
 
 A multi-center, randomized, double-blind, two-arm study to final height (Study 1) and a 2-year, multi-center, randomized, double-blind, parallel-group study (Study 2) were conducted to assess the efficacy and safety of NORDITROPIN.
 Changes in height and height velocity were compared to a national reference population in both studies.
 
 Study 1 included 53, 38 male, 15 female, non-GHD, Dutch prepubertal pediatric patients 3-11 years of age with short stature born SGA with no catch-up growth.
 Catch-up growth was defined as obtaining a height of ≥ 3rd percentile within the first 2 years of life or at a later stage.
-Inclusion criteria included: birth length < 3rd percentile for gestational age, and height velocity (cm/year) for chronological age < 50th percentile.Exclusion criteria included chromosomal abnormalities, signs of a syndrome (except for Silver-Russell syndrome), serious/chronic co-morbid disease, malignancy, and previous rhGH therapy.
-NORDITROPINwas administered subcutaneously daily at bedtime at a dose of approximately 0.033 (Dose A) or 0.067 mg/kg/day (Dose B) for the entire treatment period.
+Inclusion criteria included: birth length < 3rd percentile for gestational age, and height velocity (cm/year) for chronological age < 50th percentile.
+Exclusion criteria included chromosomal abnormalities, signs of a syndrome (except for Silver-Russell syndrome), serious/chronic co-morbid disease, malignancy, and previous rhGH therapy.
+NORDITROPIN was administered subcutaneously daily at bedtime at a dose of approximately 0.033 (Dose A) or 0.067 mg/kg/day (Dose B) for the entire treatment period.
 Final height was defined as a height velocity below 2 cm/year.
-Treatment with NORDITROPINwas continued to final height for up to 13 years.
+Treatment with NORDITROPIN was continued to final height for up to 13 years.
 Mean duration of treatment was 9.5 years (boys) and 7.9 years (girls).
 
 38 out of 53 children (72%) reached final height.
@@ -119,7 +120,7 @@ As seen in Table 6, for boys and girls combined, both mean final height SDS, and
 A similar dose response was observed for the increase in height SDS from baseline to Year 2 (Table 6).
 
 Overall mean height velocity at baseline was 5.4 cm/y (SD 1.2; n=29).
-Height velocity was greatest during the first year of NORDITROPINtreatment and was significantly greater after treatment with Dose B (mean 11.1 cm/y [SD 1.9; n=19]) compared with Dose A (mean 9.7 cm/y [SD 1.3; n=10]).
+Height velocity was greatest during the first year of NORDITROPIN treatment and was significantly greater after treatment with Dose B (mean 11.1 cm/y [SD 1.9; n=19]) compared with Dose A (mean 9.7 cm/y [SD 1.3; n=10]).
 
 Table 6 – Study 1: Results for Final Height SDS and Change from Baseline to Final Height in Height SDS Using National Standard After Long-Term Treatment of SGA Children with NORDITROPIN
 
@@ -228,11 +229,11 @@ Two representative studies, one in adult onset (AO) GHD patients and a second in
 
 Study 1
 
-A single center, randomized, double-blind, placebo-controlled, parallel-group, six month clinical trial was conducted in 31 adults with AO GHD comparing the effects of NORDITROPIN(somatropin) injection and placebo on body composition.
-Patients in the active treatment arm were treated with NORDITROPIN0.017 mg/kg/day (not to exceed 1.33 mg/day).
+A single center, randomized, double-blind, placebo-controlled, parallel-group, six month clinical trial was conducted in 31 adults with AO GHD comparing the effects of NORDITROPIN (somatropin) injection and placebo on body composition.
+Patients in the active treatment arm were treated with NORDITROPIN 0.017 mg/kg/day (not to exceed 1.33 mg/day).
 The changes from baseline in lean body mass (LBM) and percent total body fat (TBF) were measured by total body potassium (TBP) after 6 months.
 
-Treatment with NORDITROPINproduced a significant increase from baseline in LBM compared to placebo (Table 10).
+Treatment with NORDITROPIN produced a significant increase from baseline in LBM compared to placebo (Table 10).
 
 Table 10 – Lean Body Mass (kg) by TBP
 
@@ -256,16 +257,16 @@ Table 11 – Total Body Fat (%) by TBP
 
 *Least square mean based on an ANOVA model including treatment and sex as factors
 
-NORDITROPINalso significantly increased serum osteocalcin (a marker of osteoblastic activity).
+NORDITROPIN also significantly increased serum osteocalcin (a marker of osteoblastic activity).
 
 Study 2
 
-A single center, randomized, double-blind, placebo-controlled, parallel-group, dose-finding, six month clinical trial was conducted in 49 men with CO GHD comparing the effects of NORDITROPINand placebo on body composition.
+A single center, randomized, double-blind, placebo-controlled, parallel-group, dose-finding, six month clinical trial was conducted in 49 men with CO GHD comparing the effects of NORDITROPIN and placebo on body composition.
 Patients were randomized to placebo or one of three active treatment groups (0.008, 0.016, and 0.024 mg/kg/day).
 Thirty three percent of the total dose to which each patient was randomized was administered during weeks 1-4, 67% during weeks 5-8, and 100% for the remainder of the study.
 The changes from baseline in LBM and percent TBF were measured by TBP after 6 months.
 
-Treatment with NORDITROPINproduced a significant increase from baseline in LBM compared to placebo (pooled data) (Table 12).
+Treatment with NORDITROPIN produced a significant increase from baseline in LBM compared to placebo (pooled data) (Table 12).
 
 Table 12 – Lean Body Mass (kg) by TBP
 

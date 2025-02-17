@@ -1,8 +1,8 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-NORDITROPINinjection is a clear and colorless solution available as follows:
+Injection: NORDITROPIN is available as a clear and colorless solution in a
 
-- •5 mg in 1.5 mL (orange): NORDITROPINFlexPro single-patient-use pen
-- •10 mg in 1.5 mL (blue): NORDITROPIN FlexPro single-patient-use pen
-- •15 mg in 1.5 mL (green): NORDITROPIN FlexPro single-patient-use pen
-- •30 mg in 3 mL (purple): NORDITROPIN FlexPro single-patient-use pen
+- •5 mg/1.5 mL FlexPro single-patient-use pen (orange)
+- •10 mg/1.5 mL FlexPro single-patient-use pen (blue)
+- •15 mg/1.5 mL FlexPro single-patient-use pen (green)
+- •30 mg/3 mL FlexPro single-patient-use pen (purple)

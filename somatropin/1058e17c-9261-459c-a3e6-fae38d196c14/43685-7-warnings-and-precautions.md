@@ -4,7 +4,7 @@
 
 Increased mortality in patients with acute critical illness due to complications following open heart surgery, abdominal surgery or multiple accidental trauma, or those with acute respiratory failure has been reported after treatment with pharmacologic amounts of somatropin [see Contraindications (4)].
 Two placebo-controlled clinical trials in non-growth hormone deficient adult patients (n=522) with these conditions in intensive care units revealed a significant increase in mortality (42% vs. 19%) among somatropin-treated patients (doses 5.3-8 mg/day) compared to those receiving placebo.
-The safety of continuing NORDITROPINtreatment in patients receiving replacement doses for approved indications who concurrently develop these illnesses has not been established.
+The safety of continuing NORDITROPIN treatment in patients receiving replacement doses for approved indications who concurrently develop these illnesses has not been established.
 NORDITROPIN is not indicated for the treatment of non-GH deficient adults.
 
 ## 5.2 Sudden Death in Pediatric Patients with Prader-Willi Syndrome
@@ -13,7 +13,7 @@ There have been reports of sudden death after initiating therapy with somatropin
 Male patients with one or more of these factors may be at greater risk than females.
 Patients with Prader-Willi syndrome should be evaluated for signs of upper airway obstruction and sleep apnea before initiation of treatment with somatropin.
 If, during treatment with NORDITROPIN, patients show signs of upper airway obstruction (including onset of or increased snoring) and/or new onset sleep apnea, treatment should be interrupted.
-All patients with Prader-Willi syndrome treated with NORDITROPINshould also have effective weight control and be monitored for signs of respiratory infection, which should be diagnosed as early as possible and treated aggressively [see Contraindications (4)].
+All patients with Prader-Willi syndrome treated with NORDITROPIN should also have effective weight control and be monitored for signs of respiratory infection, which should be diagnosed as early as possible and treated aggressively [see Contraindications (4)].
 
 ## 5.3 Increased Risk of Neoplasms
 
@@ -49,7 +49,7 @@ The doses of antidiabetic agents may require adjustment when NORDITROPIN is init
 
 ## 5.5 Intracranial Hypertension
 
-Intracranial hypertension (IH) with papilledema, visual changes, headache, nausea, and/or vomiting has been reported in a small number of patients treated with somatropin products.
+Intracranial hypertension (IH) with papilledema, visual changes, headache, nausea, and/or vomiting has been reported in a small number of patients treated with somatropins.
 Symptoms usually occurred within the first eight (8) weeks after the initiation of somatropin therapy.
 In all reported cases, IH-associated signs and symptoms rapidly resolved after cessation of therapy or a reduction of the somatropin dose.
 Funduscopic examination should be performed routinely before initiating treatment with NORDITROPIN to exclude preexisting papilledema, and periodically thereafter.
@@ -59,7 +59,7 @@ Patients with Turner syndrome may be at increased risk for the development of IH
 
 ## 5.6 Severe Hypersensitivity
 
-Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with postmarketing use of somatropin products.
+Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema have been reported with postmarketing use of somatropins.
 Patients and caregivers should be informed that such reactions are possible and that prompt medical attention should be sought if an allergic reaction occurs [see Contraindications (4)].
 
 ## 5.7 Fluid Retention
@@ -70,7 +70,7 @@ Clinical manifestations of fluid retention (e.g. edema, arthralgia, myalgia, ner
 ## 5.8 Hypoadrenalism
 
 Patients receiving somatropin therapy who have or are at risk for pituitary hormone deficiency(s) may be at risk for reduced serum cortisol levels and/or unmasking of central (secondary) hypoadrenalism.
-In addition, patients treated with glucocorticoid replacement for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses following initiation of NORDITROPINtreatment.
+In addition, patients treated with glucocorticoid replacement for previously diagnosed hypoadrenalism may require an increase in their maintenance or stress doses following initiation of NORDITROPIN treatment.
 Monitor patients for reduced serum cortisol levels and/or need for glucocorticoid dose increases in those with known hypoadrenalism [see Drug Interactions (7)].
 
 ## 5.9 Hypothyroidism

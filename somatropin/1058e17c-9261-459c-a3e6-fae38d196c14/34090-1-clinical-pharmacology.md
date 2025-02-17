@@ -12,19 +12,19 @@ Linear growth is facilitated in part by increased cellular protein synthesis.
 
 ## 12.2 Pharmacodynamics
 
-Subcutaneous administration of a single dose of 4 mg NORDITROPINin healthy subjects (n=26) with suppressed endogenous growth hormone results in an increased mean (SD) IGF-1 level from 190 (46) ng/mL predose to maximal level of 276 (49) ng/mL after approx. 24 hours.
+Subcutaneous administration of a single dose of 4 mg NORDITROPIN in healthy subjects (n=26) with suppressed endogenous growth hormone results in an increased mean (SD) IGF-1 level from 190 (46) ng/mL predose to maximal level of 276 (49) ng/mL after approx. 24 hours.
 After 96 hours, the subjects displayed a mean (SD) IGF-1 concentration of 196 (41) ng/mL, comparable to the predose value.
 
 ## 12.3 Pharmacokinetics
 
 Absorption - Somatropin has been studied following subcutaneous and intravenous administration in adult healthy subjects and GHD patients.
-A single dose administration of 4 mg NORDITROPINin healthy subjects (n=26) with suppressed endogenous growth hormone resulted in a mean (SD) Cmax of 34.9 (10.4) ng/mL after approximately 3.0 hours.
-After a 180-min IV infusion of NORDITROPIN(33 ng/kg/min) administered to GHD patients (n=9), a mean (SD) hGH steady state serum level of approximately 23.1 (15.0) ng/mL was reached at 150 min.
+A single dose administration of 4 mg NORDITROPIN in healthy subjects (n=26) with suppressed endogenous growth hormone resulted in a mean (SD) Cmax of 34.9 (10.4) ng/mL after approximately 3.0 hours.
+After a 180-min IV infusion of NORDITROPIN (33 ng/kg/min) administered to GHD patients (n=9), a mean (SD) hGH steady state serum level of approximately 23.1 (15.0) ng/mL was reached at 150 min.
 
-After a SC dose of 0.024 mg/kg or 3 IU/m2 given in the thigh to adult GHD patients (n=18), mean (SD) Cmax values of 13.8 (5.8) and 17.1 (10.0) ng/mL were observed for the 4 and 8 mg NORDITROPINvials, respectively, at approximately 4 to 5 hr. post dose.
-The absolute bioavailability for NORDITROPINafter the SC route of administration is currently not known.
+After a SC dose of 0.024 mg/kg or 3 IU/m2 given in the thigh to adult GHD patients (n=18), mean (SD) Cmax values of 13.8 (5.8) and 17.1 (10.0) ng/mL were observed for the 4 and 8 mg NORDITROPIN vials, respectively, at approximately 4 to 5 hr. post dose.
+The absolute bioavailability for NORDITROPIN after the SC route of administration is currently not known.
 
-Distribution— The mean (SD) apparent volume of distribution of somatropin after single dose subcutaneous administration of 4 mg NORDITROPINin healthy subjects is 43.9 (14.9) L.
+Distribution — The mean (SD) apparent volume of distribution of somatropin after single dose subcutaneous administration of 4 mg NORDITROPIN in healthy subjects is 43.9 (14.9) L.
 
 Elimination
 
@@ -32,7 +32,7 @@ Metabolism — Extensive metabolism studies have not been conducted.
 The metabolic fate of somatropin involves classical protein catabolism in both the liver and kidneys.
 
 Excretion – The mean apparent terminal T1/2 values in healthy adult subjects (n=26) was 2.0 (0.5) hours.
-In GHD patients receiving 180-min IV infusion of NORDITROPIN(33 ng/kg/min), a mean clearance rate of approximately 2.3 (1.8) mL/min/kg or 139 (105) mL/min for hGH was observed.
+In GHD patients receiving 180-min IV infusion of NORDITROPIN (33 ng/kg/min), a mean clearance rate of approximately 2.3 (1.8) mL/min/kg or 139 (105) mL/min for hGH was observed.
 Following infusion, serum hGH levels had a biexponential decay with a terminal elimination half-life (T1/2) of approximately 21.1 (5.1) min. The mean apparent terminal T1/2 values in GHD patients receiving a SC dose of 0.024 mg/kg or 3 IU/m2 was estimated to be approximately 7 to 10 hr. The longer half-life observed after subcutaneous administration is due to slow absorption from the injection site.
 Urinary excretion of intact somatropin has not been measured.
 
@@ -44,3 +44,14 @@ Male and Female Patients — No gender-specific pharmacokinetic studies have bee
 The available literature indicates that the pharmacokinetics of somatropin are similar in men and women.
 
 Patients with Renal or Hepatic Impairment — No studies have been performed with somatropin.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of NORDITROPIN or other somatropins.
+In the case of growth hormone, antibodies with binding capacities lower than 2 mg/mL have not been associated with growth attenuation.
+In a very small number of patients treated with somatropin, when binding capacity was greater than 2 mg/mL, interference with the growth response was observed.
+
+In clinical trials, GH deficient pediatric patients receiving NORDITROPIN for up to 12 months were tested for induction of antibodies, and 0 of 358 patients developed antibodies with binding capacities above 2 mg/L.
+Amongst these patients, 165 had previously been treated with other somatropin formulations, and 193 were previously untreated naive patients.
+Eighteen of 76 children (~24%) treated with NORDITROPIN for short stature born SGA developed anti-rhGH antibodies.

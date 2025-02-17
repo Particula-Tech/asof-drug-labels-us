@@ -29,8 +29,8 @@ There were no clinically significant differences between the three doses assesse
 
 Short Stature Associated with Noonan Syndrome
 
-NORDITROPINwas studied in 21 pediatric patients, 3 years to 14 years of age at doses of 0.033 mg/kg/day and 0.066 mg/kg/day.
-After the two-year study, patients continued NORDITROPINtreatment until final height was achieved; randomized dose groups were not maintained.
+NORDITROPIN was studied in 21 pediatric patients, 3 years to 14 years of age at doses of 0.033 mg/kg/day and 0.066 mg/kg/day.
+After the two-year study, patients continued NORDITROPIN treatment until final height was achieved; randomized dose groups were not maintained.
 Adverse reactions were later collected retrospectively from 18 pediatric patients; total follow-up was 11 years.
 An additional 6 pediatric patients were not randomized, but followed the protocol and are included in this assessment of adverse reactions.
 
@@ -49,13 +49,13 @@ Two patients in study 1 had a serious adverse reaction of exacerbation of preexi
 
 Small for Gestational Age (SGA) with No Catch-up Growth by Age 2-4 Years
 
-In a study, 53 pediatric patients were treated with 2 doses of NORDITROPIN(0.033 or 0.067 mg/kg/day) to final height for up to 13 years (mean duration of treatment 7.9 and 9.5 years for girls and boys, respectively).
+In a study, 53 pediatric patients were treated with 2 doses of NORDITROPIN (0.033 or 0.067 mg/kg/day) to final height for up to 13 years (mean duration of treatment 7.9 and 9.5 years for girls and boys, respectively).
 The most frequently reported adverse reactions were influenza-like illness, upper respiratory tract infection, bronchitis, gastroenteritis, abdominal pain, otitis media, pharyngitis, arthralgia, headache, gynecomastia, and increased sweating.
 One pediatric patient treated with 0.067 mg/kg/day for 4 years was reported with disproportionate growth of the lower jaw, and another patient treated with 0.067 mg/kg/day developed a melanocytic nevus.
 4 pediatric patients treated with 0.067 mg/kg/day and 2 pediatric patients treated with 0.033 mg/kg/day of NORDITROPIN had increased fasting blood glucose levels after 1 year of treatment.
 In addition, small increases in mean fasting blood glucose and insulin levels after 1 and 2 years of NORDITROPIN treatment appeared to be dose-dependent.
 
-In a second study, 98 Japanese pediatric patients were treated with 2 doses of NORDITROPIN(0.033 or 0.067 mg/kg/day) for 2 years or were untreated for 1 year.
+In a second study, 98 Japanese pediatric patients were treated with 2 doses of NORDITROPIN (0.033 or 0.067 mg/kg/day) for 2 years or were untreated for 1 year.
 Adverse reactions were otitis media, arthralgia and impaired glucose tolerance.
 Arthralgia and transiently impaired glucose tolerance were reported in the 0.067 mg/kg/day treatment group.
 
@@ -71,7 +71,7 @@ Adult Patients
 
 Adults with Growth Hormone Deficiency
 
-Adverse reactions with an incidence of ≥5% occurring in patients with AO GHD during the 6 month placebo-controlled portion of a clinical trial for NORDITROPINare presented in Table 1.
+Adverse reactions with an incidence of ≥5% occurring in patients with AO GHD during the 6 month placebo-controlled portion of a clinical trial for NORDITROPIN are presented in Table 1.
 
 Table 1 – Adverse Reactions with ≥5% Overall Incidence in Adult Onset Growth Hormone
 
@@ -99,20 +99,7 @@ Deficient Patients Treated with NORDITROPIN During a Six Month Placebo-Controlle
 | Laryngitis | 6 | 6 |
 | Type 2 diabetes mellitus | 0 | 5 |
 
-## 6.2 Immunogenicity
-
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to NORDITROPINwith the incidence of antibodies to other products may be misleading.
-In the case of growth hormone, antibodies with binding capacities lower than 2 mg/mL have not been associated with growth attenuation.
-In a very small number of patients treated with somatropin, when binding capacity was greater than 2 mg/mL, interference with the growth response was observed.
-
-In clinical trials, GH deficient pediatric patients receiving NORDITROPINfor up to 12 months were tested for induction of antibodies, and 0/358 patients developed antibodies with binding capacities above 2 mg/L.
-Amongst these patients, 165 had previously been treated with other somatropin formulations, and 193 were previously untreated naive patients.
-Eighteen of 76 children (~24%) treated with NORDITROPINfor short stature born SGA developed anti-rhGH antibodies.
-
-## 6.3 Post-Marketing Experience
+## 6.2 Postmarketing Experience
 
 Because these adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
@@ -120,7 +107,7 @@ Immune system disorders — Serious systemic hypersensitivity reactions includin
 
 Skin — Increase in size or number of cutaneous nevi
 
-Endocrine disorders — Hypothyroidism
+Endocrine disorders — Hypothyroidism - Gynecomastia
 
 Metabolism and nutrition disorders — Hyperglycemia
 

@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis and Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis and Mutagenesis
 
 Carcinogenicity and mutagenicity studies have not been conducted with NORDITROPIN.
 

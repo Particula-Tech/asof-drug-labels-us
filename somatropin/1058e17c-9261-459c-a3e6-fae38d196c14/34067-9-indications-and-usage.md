@@ -13,4 +13,4 @@ NORDITROPIN is indicated for the treatment of pediatric patients with:
 
 ## 1.2 Adult Patients
 
-NORDITROPINis indicated for the replacement of endogenous GH in adults with growth hormone deficiency (GHD)
+NORDITROPIN is indicated for the replacement of endogenous GH in adults with growth hormone deficiency (GHD)
