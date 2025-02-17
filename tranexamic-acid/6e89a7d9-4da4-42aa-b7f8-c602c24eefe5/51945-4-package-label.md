@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 10 mL Ampule Label
 
-Pfizer Injectables
+Pfizer
 
 NDC 0013-1114-01
 
@@ -12,7 +12,7 @@ Cyklokapron® (tranexamic acid injection)
 
 (100 mg/mL) Intravenous Use Only Single-Dose Ampule Discard Unused Portion
 
-PAA176236
+PAA221603
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Ampule Carton - NDC 0013-1114-01
 
@@ -46,7 +46,7 @@ Single-Dose Ampule Discard Unused Portion
 
 Rx only
 
-Pfizer Injectables
+Pfizer Hospital
 
 # PRINCIPAL DISPLAY PANEL - 10 x 10 mL Ampule Box Label
 
@@ -82,6 +82,6 @@ Intravenous Use Only
 
 Single-Dose Vial Discard Unused Portion
 
-Pfizer Injectables
+Pfizer Hospital
 
 TEAR HERE
