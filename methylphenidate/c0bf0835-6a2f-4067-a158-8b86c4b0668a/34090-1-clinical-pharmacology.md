@@ -25,7 +25,17 @@ This was below the threshold of clinical concern and there was no evident exposu
 
 Absorption
 
-The time to peak rate in children was 1.9 hours (0.3 to 4.4 hours) for the Ritalin.
+The absolute bioavailability of methylphenidate is 22 ± 8 % for the d-enantiomer and 5 ± 3 % for the l-enantiomer.
+Peak
+
+plasma concentrations of approximately 4.3 ± 2.3 ng/mL were reached on an average of 2 hours after administration of 10
+
+mg tablet.
+The time to peak rate in children was 1.9 hours (0.3 to 4.4 hours) for Ritalin.
+
+Effect of Food
+
+Ingestion with food has no relevant effect on absorption of Ritalin.
 
 Distribution
 
