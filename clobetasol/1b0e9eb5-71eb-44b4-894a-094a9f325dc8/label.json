@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209483"
+  ],
+  "inn": "clobetasol",
+  "labeler": "INA Pharmaceutics Inc",
+  "package_ndcs": [
+    "74157-710-10"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "clobetasol propionate",
+      "name": "Clobetasol Propionate"
+    }
+  ],
+  "setid": "1b0e9eb5-71eb-44b4-894a-094a9f325dc8",
+  "source": "dailymed"
+}
