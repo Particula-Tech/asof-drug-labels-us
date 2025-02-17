@@ -79,7 +79,7 @@ Do not take colestipol hydrochloride tablets again without your doctor's advice.
 
 If you are taking other medications, you should take them at least one hour before or four hours after taking colestipol hydrochloride tablets.
 
-## DRUG INTERACTIONS
+## Drug Interactions
 
 Since colestipol hydrochloride is an anion exchange resin, it may have a strong affinity for anions other than the bile acids.
 In vitro studies have indicated that colestipol hydrochloride binds a number of drugs.

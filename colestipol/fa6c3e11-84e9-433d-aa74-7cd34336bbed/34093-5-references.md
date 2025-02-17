@@ -46,9 +46,42 @@ Cashin-Hemphill L, et al. Beneficial Effects of Colestipol-Niacin on Coronary At
 JAMA 1990; 264:3013-3017.
 
 10.
-Brown G. et al. Regression of Coronary Artery Disease as a Result of Intensive Lipid-Lowering Therapy in Men with High Levels of Apolipoprotein B. N.Engl.
-J. Med.1990; 323:1289-1298.
+Brown G. et al. Regression of Coronary Artery Disease as a Result of Intensive Lipid-Lowering Therapy in Men with High Levels of Apolipoprotein B. N. Engl.
+J. Med.
+1990; 323:1289-1298.
 
 11.
 Kane JP, et al. Regression of Coronary Atherosclerosis During Treatment of Familial Hypercholesterolemia with Combined Drug Regimens.
 JAMA 1990; 264:3007-3012.
+
+Made by:
+
+Amneal Pharmaceuticals Pvt.
+Ltd.
+
+Ahmedabad 382220, INDIA
+
+Coated and Packed by:
+
+Amneal Pharmaceuticals Pvt.
+Ltd.
+
+Ahmedabad 382220, INDIA
+
+or
+
+Amneal Pharmaceuticals Pvt.
+Ltd.
+
+Oral Solid Dosage Unit
+
+Ahmedabad 382213, INDIA
+
+Distributed by:
+
+Amneal Pharmaceuticals LLC
+
+Bridgewater, NJ 08807
+
+Rev.
+12-2024-03

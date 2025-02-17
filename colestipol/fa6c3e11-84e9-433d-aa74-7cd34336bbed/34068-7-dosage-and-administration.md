@@ -8,7 +8,7 @@ If the desired therapeutic effect is not obtained at a dose of 2 to 16 grams/day
 
 Colestipol hydrochloride tablets must be taken one at a time and be promptly swallowed whole, using plenty of water or other appropriate liquid.
 Do not cut, crush, or chew the tablets.
-Patients should take other drugs at least one hour before or four hours after colestipol hydrochloride tablets to minimize possible interference with their absorption (see DRUG INTERACTIONS).
+Patients should take other drugs at least one hour before or four hours after colestipol hydrochloride tablets to minimize possible interference with their absorption (see Drug Interactions).
 
 ## Before Administration of Colestipol Hydrochloride Tablets
 

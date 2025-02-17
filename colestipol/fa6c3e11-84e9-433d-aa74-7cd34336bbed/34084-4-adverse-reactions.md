@@ -42,4 +42,4 @@ Other infrequently reported complaints include dizziness, light-headedness, and 
 
 Anorexia, fatigue, weakness, shortness of breath, and swelling of the hands or feet, have been infrequently reported.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals LLC at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
