@@ -109,7 +109,7 @@ Phenytoin: Phenytoin plasma levels have been reported to be low in some patients
 However, in a pharmacokinetic interaction trial in which 12 HIV-1-positive volunteers received a single 300 mg phenytoin dose alone and during steady-state zidovudine conditions (200 mg every 4 hours), no change in phenytoin kinetics was observed.
 Although not designed to optimally assess the effect of phenytoin on zidovudine kinetics, a 30% decrease in oral zidovudine clearance was observed with phenytoin.
 Ribavirin: In vitro data indicate ribavirin reduces phosphorylation of lamivudine, stavudine, and zidovudine.
-However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.5)].
+However, no pharmacokinetic (e.g., plasma concentrations or intracellular triphosphorylated active metabolite concentrations) or pharmacodynamic (e.g., loss of HIV-1/HCV virologic suppression) interaction was observed when ribavirin and lamivudine (n = 18), stavudine (n = 10), or zidovudine (n = 6) were coadministered as part of a multi-drug regimen to HIV-1/HCV co-infected subjects [see Warnings and Precautions (5.4)].
 
 ## 12.4 Microbiology
 
