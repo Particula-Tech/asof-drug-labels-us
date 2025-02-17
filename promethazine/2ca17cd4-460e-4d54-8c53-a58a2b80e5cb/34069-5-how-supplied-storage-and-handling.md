@@ -6,6 +6,14 @@ bottle of 120 mL – NDC 62135-774-41
 
 bottle of 473 mL – NDC 62135-774-47
 
+Unit Dose Cup of 5 mL – NDC 62135-774-05
+
+20 Unit Dose Cups of 5 mL – NDC 62135-774-24
+
+Unit Dose Cup of 10 mL – NDC 62135-774-10
+
+20 Unit Dose Cups of 10 mL – NDC 62135-774-23
+
 Keep tightly closed.
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
@@ -20,6 +28,6 @@ Chartwell RX, LLC.
 
 Congers, NY 10920
 
-Rev: 10/2023
+Rev: 02/2025
 
 L71724
