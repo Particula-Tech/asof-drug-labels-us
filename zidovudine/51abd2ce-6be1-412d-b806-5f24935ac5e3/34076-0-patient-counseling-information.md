@@ -7,12 +7,12 @@ Neutropenia and Anemia Inform patients that the major toxicities of zidovudine a
 The frequency and severity of these toxicities are greater in patients with more advanced disease and in those who initiate therapy later in the course of their infection.
 Advise patients that if toxicity develops, they may require transfusions or drug discontinuation.
 Advise patients of the extreme importance of having their blood counts followed closely while on therapy, especially for patients with advanced symptomatic HIV-1 disease [see Boxed Warning, Warnings and Precautions (5.1)].
-Myopathy Inform patients that myopathy and myositis with pathological changes, similar to that produced by HIV-1 disease, have been associated with prolonged use of zidovudine [see Boxed Warning, Warnings and Precautions (5.3)].
+Myopathy Inform patients that myopathy and myositis with pathological changes, similar to that produced by HIV-1 disease, have been associated with prolonged use of zidovudine [see Boxed Warning, Warnings and Precautions (5.2)].
 Lactic Acidosis/Hepatomegaly with Steatosis Advise patients that lactic acidosis and severe hepatomegaly with steatosis have been reported with use of nucleoside analogues and other antiretrovirals.
-Advise patients to stop taking zidovudine if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Boxed Warning, Warnings and Precautions (5.4)].
-HIV-1/HCV Co-infection Inform patients with HIV-1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.5)].
-Immune Reconstitution Syndrome Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when zidovudine is started [see Warnings and Precautions (5.6)].
-Lipoatrophy Advise patients that loss of subcutaneous fat may occur in patients receiving zidovudine and that they will be regularly assessed during therapy [see Warnings and Precautions (5.7)].
+Advise patients to stop taking zidovudine if they develop clinical symptoms suggestive of lactic acidosis or pronounced hepatotoxicity [see Boxed Warning, Warnings and Precautions (5.3)].
+HIV-1/HCV Co-infection Inform patients with HIV-1/HCV co-infection that hepatic decompensation (some fatal) has occurred in HIV-1/HCV co-infected patients receiving combination antiretroviral therapy for HIV-1 and interferon alfa with or without ribavirin [see Warnings and Precautions (5.4)].
+Immune Reconstitution Syndrome Advise patients to inform their healthcare provider immediately of any signs and symptoms of infection as inflammation from previous infection may occur soon after combination antiretroviral therapy, including when zidovudine is started [see Warnings and Precautions (5.5)].
+Lipoatrophy Advise patients that loss of subcutaneous fat may occur in patients receiving zidovudine and that they will be regularly assessed during therapy [see Warnings and Precautions (5.6)].
 Common Adverse Reactions Inform patients that the most commonly reported adverse reactions in adult patients being treated with zidovudine were headache, malaise, nausea, anorexia, and vomiting.
 The most commonly reported adverse reactions in pediatric patients receiving zidovudine were fever, cough, and digestive disorders.
 Patients also should be encouraged to contact their physician if they experience muscle weakness, shortness of breath, symptoms of hepatitis or pancreatitis, or any other unexpected adverse events while being treated with zidovudine [see Adverse Reactions (6)].
@@ -25,4 +25,4 @@ Lactation Instruct women with HIV-1 infection not to breastfeed because HIV-1 ca
 Missed Dose Instruct patients that if they miss a dose of zidovudine, to take it as soon as they remember.
 Advise patients not to double their next dose or take more than the prescribed dose [see Dosage and Administration (2)].
 EPIVIR is a trademark owned by or licensed to the ViiV Healthcare group of companies.
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 07/2022
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad–500 032, India Revised: 02/2025

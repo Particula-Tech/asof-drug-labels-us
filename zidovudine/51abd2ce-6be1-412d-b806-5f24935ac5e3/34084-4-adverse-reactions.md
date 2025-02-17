@@ -3,9 +3,9 @@
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
 - Hematologic toxicity, including neutropenia and anemia [see Boxed Warning, Warnings and Precautions (5.1)].
-- Symptomatic myopathy [see Boxed Warning, Warnings and Precautions (5.3)].
-- Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.4)].
-- Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.5)].
+- Symptomatic myopathy [see Boxed Warning, Warnings and Precautions (5.2)].
+- Lactic acidosis and severe hepatomegaly with steatosis [see Boxed Warning, Warnings and Precautions (5.3)].
+- Hepatic decompensation in patients co-infected with HIV-1 and hepatitis C [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -102,7 +102,7 @@ The long-term consequences of in utero and infant exposure to zidovudine are unk
 
 The following adverse reactions have been identified during post-approval use of zidovudine.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Body as a Whole Back pain, chest pain, flu-like syndrome, generalized pain, redistribution/accumulation of body fat [see Warnings and Precautions (5.7)].
+Body as a Whole Back pain, chest pain, flu-like syndrome, generalized pain, redistribution/accumulation of body fat [see Warnings and Precautions (5.6)].
 Cardiovascular Cardiomyopathy, syncope.
 Eye Macular edema.
 Gastrointestinal Constipation, dysphagia, flatulence, oral mucosa pigmentation, mouth ulcer.
