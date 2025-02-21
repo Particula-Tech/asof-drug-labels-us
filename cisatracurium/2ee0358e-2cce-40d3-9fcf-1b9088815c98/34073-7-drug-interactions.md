@@ -17,7 +17,7 @@ Table 4: Clinically Significant Drug Interactions with Cisatracurium Besylate
 
 † Examples: aminoglycosides, tetracyclines, bacitracin, polymyxins, lincomycin, clindamycin, colistin, sodium colistimethate
 
-## 7.2 Drugs Without Clinically Significant Drug Interactions with Cisatracurium Besylate
+## 7.2 Drugs Without Clinically Significant Drug Interactions With Cisatracurium Besylate
 
 In clinical studies, propofol had no effect on the duration of action or dosing requirements for cisatracurium besylate.
 Cisatracurium besylate is not compatible with propofol for Y-site administration.

@@ -126,7 +126,7 @@ Table 2: Cisatracurium Besylate Infusion Rates for Maintenance of Neuromuscular 
 
 Visually inspect cisatracurium besylate injection for particulate matter and discoloration prior to administration.
 If a cisatracurium besylate injection solution is cloudy or contains visible particulates, do not use cisatracurium besylate injection.
-Cisatracurium besylate injection is a colorless to slightly yellow or greenish-yellow solution.
+Cisatracurium besylate injection is a clear, colorless to pale yellow or greenish colored solution.
 
 Cisatracurium besylate injection may be diluted to 0.1 mg/mL in the following solutions:
 

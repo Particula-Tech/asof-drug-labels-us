@@ -1,8 +1,8 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 0781-3152-70
+NDC 0781-3152-70 Rx only
 
-Cisatracurium Besylate Injection
+Cisatracurium Besylate Injection, USP
 
 20 mg/10 mL*
 
@@ -16,10 +16,8 @@ For Intravenous Injection
 
 (added as a preservative)
 
-10 mL Multiple Dose Vial
+Sterile, Nonpyrogenic.
 
-Sterile, Nonpyrogenic
+10 mL Multiple-Dose Vial
 
-Rx only
-
-Sandoz
+SANDOZ
