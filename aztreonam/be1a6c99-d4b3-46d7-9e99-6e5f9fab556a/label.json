@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA217906"
+  ],
+  "inn": "aztreonam",
+  "labeler": "AbbVie Inc.",
+  "package_ndcs": [
+    "0074-3878-01"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SOLUTION",
+      "generic": "aztreonam and avibactam",
+      "name": "EMBLAVEO"
+    }
+  ],
+  "setid": "be1a6c99-d4b3-46d7-9e99-6e5f9fab556a",
+  "source": "dailymed"
+}
