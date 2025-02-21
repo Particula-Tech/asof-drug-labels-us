@@ -12,7 +12,6 @@ Corticosteroids can:
 - •Increase the risk of disseminated infections
 - •Increase the risk of reactivation or exacerbation of latent infections
 - •Mask some signs of infection
-- •
 
 Corticosteroid-associated infections can be mild but can be severe and at times fatal.
 The rate of infectious complications increases with increasing corticosteroid dosages.
@@ -54,8 +53,7 @@ Therefore, it is recommended that latent amebiasis or active amebiasis be ruled 
 
 Strongyloides Infestation
 
-Corticosteroids, including CORTEF, should be used with great care in patients with known or suspected.
-Strongyloides (threadworm) infestation.
+Corticosteroids, including CORTEF, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
 In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
 Cerebral Malaria
