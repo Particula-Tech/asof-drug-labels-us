@@ -40,7 +40,7 @@ Adverse Reactions Reported by ≥1% of Haloperidol Decanoate-treated Patients in
 | Gastrointestinal Disorders |  |  |
 | Abdominal pain | 2.8 | 0 |
 | Nervous System Disorders |  |  |
-| Extrapyramidal disorderPrecise incidence for extrapyramidal disorder cannot be determined; reporting rates of some individual symptoms of extrapyramidal disorder are lower for haloperidol decanoate than for the active comparator, but the terms are included here because the events are considered associated with the drug: |  |  |
+| Extrapyramidal disorder Precise incidence for extrapyramidal disorder cannot be determined; reporting rates of some individual symptoms of extrapyramidal disorder are lower for haloperidol decanoate than for the active comparator, but the terms are included here because the events are considered associated with the drug: |  |  |
 | Parkinsonism | 30.6 | 44.4 |
 | Oculogyric crisis | 5.6 | 0 |
 | Akinesia | 2.8 | 22.2 |
@@ -52,23 +52,23 @@ Adverse Reactions Reported by ≥1% of Haloperidol Decanoate-treated Patients in
 
 Additional adverse reactions that are listed below were reported by haloperidol decanoate-treated patients in comparator, open-label, and dose-response clinical trials, or at <1% incidence in a double-blind, active comparator-controlled clinical trial with fluphenazine decanoate.
 
-Cardiac Disorders: Tachycardia
+Cardiac Disorders:Tachycardia
 
-Endocrine Disorders: Hyperprolactinemia
+Endocrine Disorders:Hyperprolactinemia
 
-Eye Disorders: Vision blurred
+Eye Disorders:Vision blurred
 
-Gastrointestinal Disorders: Constipation, Dry mouth, Salivary hypersecretion
+Gastrointestinal Disorders:Constipation, Dry mouth, Salivary hypersecretion
 
-General Disorders and Administration Site Conditions: Injection site reaction
+General Disorders and Administration Site Conditions:Injection site reaction
 
-Investigations: Weight increased
+Investigations:Weight increased
 
-Musculoskeletal and Connective Tissue Disorders: Muscle rigidity
+Musculoskeletal and Connective Tissue Disorders:Muscle rigidity
 
-Nervous System Disorders: Dyskinesia, Dystonia, Cogwheel rigidity, Hypertonia, Masked Facies, Sedation, Somnolence
+Nervous System Disorders:Dyskinesia, Dystonia, Cogwheel rigidity, Hypertonia, Masked Facies, Sedation, Somnolence
 
-Reproductive System and Breast Disorders: Erectile dysfunction
+Reproductive System and Breast Disorders:Erectile dysfunction
 
 ### Adverse Reactions Identified in Clinical Trials with Haloperidol (Non-Decanoate Formulations)
 
@@ -77,53 +77,53 @@ The adverse reactions listed below were identified with non-decanoate formulatio
 - 284 patients who participated in 3 double-blind, placebo-controlled clinical trials with haloperidol (injection or oral formulation, 2 to 20 mg/day); two trials were in the treatment of schizophrenia and one in the treatment of bipolar disorder.
 - 1295 patients who participated in 16 double-blind, active comparator-controlled clinical trials with haloperidol (injection or oral formulation, 1 to 45 mg/day) in the treatment of schizophrenia.
 
-Musculoskeletal and Connective Tissue Disorders: Torticollis, Trismus, Muscle twitching
+Musculoskeletal and Connective Tissue Disorders:Torticollis, Trismus, Muscle twitching
 
-Nervous System Disorders: Neuroleptic malignant syndrome, Tardive dyskinesia, Bradykinesia, Hyperkinesia, Hypokinesia, Dizziness, Nystagmus
+Nervous System Disorders:Neuroleptic malignant syndrome, Tardive dyskinesia, Bradykinesia, Hyperkinesia, Hypokinesia, Dizziness, Nystagmus
 
-Psychiatric Disorders: Loss of libido, Restlessness
+Psychiatric Disorders:Loss of libido, Restlessness
 
-Reproductive System and Breast Disorders: Amenorrhea, Galactorrhea, Dysmenorrhea, Menorrhagia, Breast discomfort
+Reproductive System and Breast Disorders:Amenorrhea, Galactorrhea, Dysmenorrhea, Menorrhagia, Breast discomfort
 
-Skin and Subcutaneous Tissue Disorders: Acneiform skin reactions
+Skin and Subcutaneous Tissue Disorders:Acneiform skin reactions
 
-Vascular Disorders: Hypotension, Orthostatic hypotension
+Vascular Disorders:Hypotension, Orthostatic hypotension
 
 ## Postmarketing Experience
 
 The following adverse reactions relating to the active moiety haloperidol have been identified during postapproval use of haloperidol or haloperidol decanoate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders: Pancytopenia, Agranulocytosis, Thrombocytopenia, Leukopenia, Neutropenia
+Blood and Lymphatic System Disorders:Pancytopenia, Agranulocytosis, Thrombocytopenia, Leukopenia, Neutropenia
 
-Cardiac Disorders: Ventricular fibrillation, Torsade de pointes, Ventricular tachycardia, Extrasystoles
+Cardiac Disorders:Ventricular fibrillation, Torsade de pointes, Ventricular tachycardia, Extrasystoles
 
-Endocrine Disorders: Inappropriate antidiuretic hormone secretion
+Endocrine Disorders:Inappropriate antidiuretic hormone secretion
 
-Gastrointestinal Disorders: Vomiting, Nausea
+Gastrointestinal Disorders:Vomiting, Nausea
 
-General Disorders and Administration Site Conditions: Sudden death, Face edema, Edema, Hyperthermia, Hypothermia, Injection site abscess
+General Disorders and Administration Site Conditions:Sudden death, Face edema, Edema, Hyperthermia, Hypothermia, Injection site abscess
 
-Hepatobiliary Disorders: Acute hepatic failure, Hepatitis, Cholestasis, Jaundice, Liver function test abnormal
+Hepatobiliary Disorders:Acute hepatic failure, Hepatitis, Cholestasis, Jaundice, Liver function test abnormal
 
-Immune System Disorders: Anaphylactic reaction, Hypersensitivity
+Immune System Disorders:Anaphylactic reaction, Hypersensitivity
 
-Investigations: Electrocardiogram QT prolonged, Weight decreased
+Investigations:Electrocardiogram QT prolonged, Weight decreased
 
-Metabolic and Nutritional Disorders: Hypoglycemia
+Metabolic and Nutritional Disorders:Hypoglycemia
 
-Musculoskeletal and Connective Tissue Disorders: Rhabdomyolysis
+Musculoskeletal and Connective Tissue Disorders:Rhabdomyolysis
 
-Nervous System Disorders: Convulsion, Opisthotonus, Tardive dystonia
+Nervous System Disorders:Convulsion, Opisthotonus, Tardive dystonia
 
-Pregnancy, Puerperium and Perinatal Conditions: Drug withdrawal syndrome neonatal
+Pregnancy, Puerperium and Perinatal Conditions:Drug withdrawal syndrome neonatal
 
-Psychiatric Disorders: Agitation, Confusional state, Depression, Insomnia
+Psychiatric Disorders:Agitation, Confusional state, Depression, Insomnia
 
-Renal and Urinary Disorders: Urinary retention
+Renal and Urinary Disorders:Urinary retention
 
-Reproductive System and Breast Disorders: Priapism, Gynecomastia
+Reproductive System and Breast Disorders:Priapism, Gynecomastia
 
-Respiratory, Thoracic and Mediastinal Disorders: Laryngeal edema, Bronchospasm, Laryngospasm, Dyspnea
+Respiratory, Thoracic and Mediastinal Disorders:Laryngeal edema, Bronchospasm, Laryngospasm, Dyspnea
 
-Skin and Subcutaneous Tissue Disorders: Angioedema, Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritus, Rash, Hyperhidrosis
+Skin and Subcutaneous Tissue Disorders:Angioedema, Dermatitis exfoliative, Hypersensitivity vasculitis, Photosensitivity reaction, Urticaria, Pruritus, Rash, Hyperhidrosis

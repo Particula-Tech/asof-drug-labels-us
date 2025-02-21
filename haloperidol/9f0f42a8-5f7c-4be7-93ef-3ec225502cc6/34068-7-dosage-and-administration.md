@@ -36,7 +36,7 @@ The usual maintenance range is 10 to 15 times the previous daily dose in oral ha
 
 HALOPERIDOL DECANOATE DOSING RECOMMENDATIONS
 
-| Patients | 1st Month | Maintenance |
+| Patients | 1 stMonth | Maintenance |
 | --- | --- | --- |
 | Monthly |  |  |
 | Stabilized on low daily oral doses (up to 10 mg/day) Elderly or Debilitated | 10–15 × Daily Oral Dose | 10–15 × Previous Daily Oral Dose |

@@ -11,7 +11,7 @@ Cases of sudden death, QTc interval-prolongation, and Torsades de Pointes have b
 Higher than recommended doses of any formulation and intravenous administration of haloperidol appear to be associated with a higher risk of QTc interval-prolongation and Torsades de Pointes.
 Also, a QTc interval that exceeds 500 msec is associated with an increased risk of Torsades de Pointes.
 Although cases have been reported even in the absence of predisposing factors, particular caution is advised in treating patients with other QTc-prolonging conditions (including electrolyte imbalance [particularly hypokalemia and hypomagnesemia], drugs known to prolong QTc, underlying cardiac abnormalities, hypothyroidism, and familial long QT-syndrome).
-HALOPERIDOL DECANOATE MUST NOT BE ADMINISTERED INTRAVENOUSLY.
+HALOPERIDOL DECANOATEMUST NOT BE ADMINISTERED INTRAVENOUSLY.
 
 Tachycardia and hypotension (including orthostatic hypotension) have also been reported in occasional patients (see ADVERSE REACTIONS).
 
@@ -20,7 +20,7 @@ Tachycardia and hypotension (including orthostatic hypotension) have also been r
 In controlled trials, elderly patients with dementia-related psychosis treated with some antipsychotics had an increased risk (compared to placebo) of cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities.
 The mechanism for this increased risk is not known.
 An increased risk cannot be excluded for haloperidol decanoate, other antipsychotics, or other patient populations.
-Haloperidol decanoate should be used with caution in patients with risk factors for cerebrobascular adverse reactions.
+Haloperidol decanoate should be used with caution in patients with risk factors for cerebrovascular adverse reactions.
 
 ## Tardive Dyskinesia
 
@@ -36,7 +36,7 @@ Antipsychotic treatment, itself, however, may suppress (or partially suppress) t
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
 Given these considerations, antipsychotic drugs should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that 1) is known to respond to antipsychotic drugs, and 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
+Chronic antipsychotic treatment should generally be reserved for patients who suffer from a chronic illness that 1) is known to respond to antipsychotic drugs, and 2) for whom alternative, equally effective, but potentially less harmful treatments are notavailable or appropriate.
 In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
 The need for continued treatment should be reassessed periodically.
 
@@ -105,7 +105,7 @@ Possible risk factors for leukopenia/neutropenia include pre-existing low white 
 Patients with a history of a clinically significant low WBC or a drug-induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and discontinuation of Haloperidol decanoate should be considered at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Patients with clinically significant neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
-Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue Haloperidol decanoate and have their WBC followed until recovery.
+Patients with severe neutropenia (absolute neutrophil count <1000/mm 3) should discontinue Haloperidol decanoate and have their WBC followed until recovery.
 
 ## Other
 
@@ -145,9 +145,9 @@ The risks of using haloperidol in combination with other drugs have been evaluat
 Since QTc interval-prolongation has been observed during haloperidol treatment, caution is advised when prescribing to a patient with QT-prolongation conditions or to patients receiving medications known to prolong the QTc-interval (see WARNINGS, Cardiovascular Effects).
 Examples include (but are not limited to): Class 1A antiarrhythmics (e.g., procainamide, quinidine, disopyramide); Class 3 antiarrhythmics (e.g., amiodarone, sotalol); and other drugs such as citalopram, erythromycin, levofloxacin, methadone, and ziprasidone.
 
-Caution is advised when haloperidol decanoate is used in combination with drugs known to cause electrolyte imbalance (e.g., diuretics or corticosteroids) because hypokalemia, hypomagnesmia, and hypocalcemia are risk factors for QT prolongation.
+Caution is advised when haloperidol decanoate is used in combination with drugs known to cause electrolyte imbalance (e.g., diuretics or corticosteroids) because hypokalemia, hypomagnesemia, and hypocalcemia are risk factors for QT prolongation.
 
-As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opiods, and alcohol.
+As with other antipsychotic agents, it should be noted that haloperidol may be capable of potentiating CNS depressants such as anesthetics, opioids, and alcohol.
 
 ### Pharmacokinetic Interactions
 
@@ -156,7 +156,8 @@ As with other antipsychotic agents, it should be noted that haloperidol may be c
 Haloperidol is metabolized by several routes.
 The major pathways are glucuronidation and ketone reduction.
 The cytochrome P450 enzyme system is also involved, particularly CYP3A4 and, to a lesser extent, CYP2D6.
-Inhibition of these routes of metabolism by another drug or a decrease in CYP2D6 enzyme may result in increased haloperidol concentrations The effect of CYP3A4 inhibition and of decreased CYP2D6 enzyme may be additive.
+Inhibition of these routes of metabolism by another drug or a decrease in CYP2D6 enzyme may result in increased haloperidol concentrations.
+The effect of CYP3A4 inhibition and of decreased CYP2D6 enzyme may be additive.
 
 The haloperidol plasma concentrations increased when a CYP3A4 and/or CYP2D6 inhibitor was coadministered with haloperidol.
 Examples include:
@@ -196,29 +197,29 @@ Plasma concentrations of CYP2D6 substrates (e,g. tricyclic antidepressants such 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 No mutagenic potential of haloperidol decanoate was found in the Ames Salmonella assay.
-Negative or inconsistent positive findings have been obtained in in vitro and in vivo studies of effects of short-acting haloperidol on chromosome structure and number.
+Negative or inconsistent positive findings have been obtained in in vitroand in vivostudies of effects of short-acting haloperidol on chromosome structure and number.
 The available cytogenetic evidence is considered too inconsistent to be conclusive at this time.
 
 Carcinogenicity studies using oral haloperidol were conducted in Wistar rats (dosed at up to 5 mg/kg daily for 24 months) and in Albino Swiss mice (dosed at up to 5 mg/kg daily for 18 months).
 In the rat study survival was reduced in all dose groups, decreasing the number of rats at risk for developing tumors.
 However, a relatively greater number of rats survived to the end of the study in high-dose male and female groups, these animals did not have a greater incidence of tumors than control animals.
-Therefore, although not optimal, this study does suggest the absence of a haloperidol related increase in the incidence of neoplasia in rats at doses up to approximately 2.5 times the maximum recommended human dose (MRHD) of 20 mg/day based on mg/m2 body surface area.
+Therefore, although not optimal, this study does suggest the absence of a haloperidol related increase in the incidence of neoplasia in rats at doses up to approximately 2.5 times the maximum recommended human dose (MRHD) of 20 mg/day based on mg/m 2body surface area.
 
-In female mice there was a statistically significant increase in mammary gland neoplasia and total tumor incidence at doses approximately 0.3 and 1.2 times the MRHD based on mg/m2 body surface area and there was a statistically significant increase in pituitary gland neoplasia at approximately 1.2 times the MRHD In male mice, no statistically significant differences in incidences of total tumors or specific tumor types were noted.
+In female mice there was a statistically significant increase in mammary gland neoplasia and total tumor incidence at doses approximately 0.3 and 1.2 times the MRHD based on mg/m 2body surface area and there was a statistically significant increase in pituitary gland neoplasia at approximately 1.2 times the MRHD In male mice, no statistically significant differences in incidences of total tumors or specific tumor types were noted.
 
 Antipsychotic drugs elevate prolactin levels; the elevation persists during chronic administration.
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with a previously detected breast cancer.
 Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported, the clinical significance of elevated serum prolactin levels is unknown for most patients.
 
 An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs.
-Neither clinical studies nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is considered too limited to be conclusive at this time.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## Usage in Pregnancy
 
-Rats or rabbits administered oral haloperidol at doses of 0.5 to 7.5 mg/kg, which are approximately 0.2 to 7 times the maximum recommended human dose (MRHD) of 20 mg/day based on mg/m2 body surface area. showed an increase in incidence of resorption, reduced fertility, delayed delivery and pup mortality.
+Rats or rabbits administered oral haloperidol at doses of 0.5 to 7.5 mg/kg, which are approximately 0.2 to 7 times the maximum recommended human dose (MRHD) of 20 mg/day based on mg/m 2body surface area. showed an increase in incidence of resorption, reduced fertility, delayed delivery and pup mortality.
 No fetal abnormalities were observed at these doses in rats or rabbits.
 
-Cleft palate has been observed in mice administered oral haloperidol at a dose of 0.5 mg/kg, which is approximately 0.1 times the MRHD based on mg/m2 body surface area.
+Cleft palate has been observed in mice administered oral haloperidol at a dose of 0.5 mg/kg, which is approximately 0.1 times the MRHD based on mg/m 2body surface area.
 
 There are no adequate and well-controlled studies in pregnant women.
 There are reports, however, of cases of limb malformations observed following maternal use of haloperidol along with other drugs which have suspected teratogenic potential during the first trimester of pregnancy.

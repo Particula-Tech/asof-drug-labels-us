@@ -31,7 +31,7 @@ Dispense in a light-resistant container as defined in the official compendium.
 
 Keep out of reach of children
 
-PATRIOT PHARMACEUTICALSLLC
+PATRIOT PHARMACEUTICALS LLC
 
 # PRINCIPAL DISPLAY PANEL - 100 mg/mL Box
 
@@ -66,4 +66,4 @@ Dispense in a light-resistant container as defined in the official compendium.
 
 Keep out of reach of children
 
-PATRIOT PHARMACEUTICALSLLC
+PATRIOT PHARMACEUTICALS LLC
