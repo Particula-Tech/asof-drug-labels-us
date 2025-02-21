@@ -4,7 +4,7 @@ NDC 59762-0450-1 120 Tablets
 
 GREENSTONE® BRAND
 
-1. colestipol hydrochloride tablets
+colestipol hydrochloride tablets
 
 1 g
 
