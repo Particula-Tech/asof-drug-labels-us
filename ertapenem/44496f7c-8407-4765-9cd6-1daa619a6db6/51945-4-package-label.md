@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 10 Single-dose vials Label
 
-NDC 51810-0504-4 Rx only
+NDC 51810-504-02 Rx only
 
 Ertapenem for Injection
 
@@ -10,7 +10,7 @@ FOR INTRAVENOUS OR INTRAMUSCULAR USE
 
 10 Single-dose vials
 
-NDC 51810-0504-0
+NDC 51810-504-01
 
 Ertapenem for Injection
 

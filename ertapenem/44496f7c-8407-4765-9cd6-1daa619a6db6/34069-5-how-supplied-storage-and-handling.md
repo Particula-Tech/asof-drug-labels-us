@@ -6,7 +6,7 @@ Ertapenem for injection is supplied as a sterile lyophilized powder in single-do
 
 1 g ertapenem equivalent
 
-Single-Dose Vials in a Carton of 10 NDC 51810-0504-4
+Single-Dose Vials in a Carton of 10 NDC 51810-504-02
 
 ## 16.2 Storage and Handling
 
