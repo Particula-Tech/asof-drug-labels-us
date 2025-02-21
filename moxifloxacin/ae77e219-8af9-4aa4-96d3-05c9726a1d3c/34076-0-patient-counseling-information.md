@@ -15,13 +15,15 @@ Instruct patients to discontinue use immediately and contact their physician at 
 
 Rx Only
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
-United States.
+United States
 
 Manufactured by:
 
@@ -32,4 +34,4 @@ P.), 454 775
 
 India.
 
-June 2022 ID #: 269219
+November 2024 ID #: 277251
