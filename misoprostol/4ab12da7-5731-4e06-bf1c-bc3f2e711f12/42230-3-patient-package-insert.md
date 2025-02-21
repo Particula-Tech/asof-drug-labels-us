@@ -37,4 +37,4 @@ Keep out of reach of children.
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0172–4.0 Revised February 2021
+LAB-0172-5.0 Revised February 2025
