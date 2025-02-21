@@ -3,7 +3,7 @@
 The most important adverse reactions to sodium nitroprusside are the avoidable ones of excessive hypotension and cyanide toxicity, described above under WARNINGS.
 The adverse reactions described in this section develop less rapidly and, as it happens, less commonly.
 
-Methemoglobinemia: As described in CLINICAL PHARMACOLOGYabove, sodium nitroprusside infusions can cause sequestration of hemoglobin as methemoglobin.
+Methemoglobinemia:As described in CLINICAL PHARMACOLOGYabove, sodium nitroprusside infusions can cause sequestration of hemoglobin as methemoglobin.
 The back-conversion process is normally rapid, and clinically significant methemoglobinemia (>10%) is seen only rarely in patients receiving sodium nitroprusside.
 Even patients congenitally incapable of back-converting methemoglobin should demonstrate 10% methemoglobinemia only after they have received about 10 mg/kg of sodium nitroprusside, and a patient receiving sodium nitroprusside at the maximum recommended rate (10 mcg/kg/min) would take over 16 hours to reach this total accumulated dose.
 
@@ -14,7 +14,7 @@ Classically, methemoglobinemic blood is described as chocolate brown, without co
 When methemoglobinemia is diagnosed, the treatment of choice is 1 to 2 mg/kg of methylene blue, administered intravenously over several minutes.
 In patients likely to have substantial amounts of cyanide bound to methemoglobin as cyanmethemoglobin, treatment of methemoglobinemia with methylene blue must be undertaken with extreme caution.
 
-Thiocyanate Toxicity: As described in CLINICAL PHARMACOLOGYabove, most of the cyanide produced during metabolism of sodium nitroprusside is eliminated in the form of thiocyanate.
+Thiocyanate Toxicity:As described in CLINICAL PHARMACOLOGYabove, most of the cyanide produced during metabolism of sodium nitroprusside is eliminated in the form of thiocyanate.
 When cyanide elimination is accelerated by the co-infusion of thiosulfate, thiocyanate production is increased.
 
 Thiocyanate is mildly neurotoxic (tinnitus, miosis, hyperreflexia) at serum levels of 1 mmol/L (60 mg/L).
@@ -34,18 +34,18 @@ These symptoms quickly disappeared when the infusion was slowed or discontinued,
 
 Other adverse reactions reported are:
 
-Cardiovascular: Bradycardia, electrocardiographic changes, tachycardia.
+Cardiovascular:Bradycardia, electrocardiographic changes, tachycardia.
 
-Dermatologic: Rash.
+Dermatologic:Rash.
 
-Endocrine: Hypothyroidism.
+Endocrine:Hypothyroidism.
 
-Gastrointestinal: Ileus.
+Gastrointestinal:Ileus.
 
-Hematologic: Decreased platelet aggregation.
+Hematologic:Decreased platelet aggregation.
 
-Neurologic: Increased intracranial pressure.
+Neurologic:Increased intracranial pressure.
 
-Miscellaneous: Flushing, venous streaking, irritation at the infusion site.
+Miscellaneous:Flushing, venous streaking, irritation at the infusion site.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Micro Labs USA, Inc. at 1-855-839-8195 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

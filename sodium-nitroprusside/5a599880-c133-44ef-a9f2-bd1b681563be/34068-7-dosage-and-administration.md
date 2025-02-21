@@ -1,17 +1,17 @@
 # DOSAGE AND ADMINISTRATION
 
-Dilution to proper strength for infusion: Depending on the desired concentration, the solution containing 50 mg of sodium nitroprusside must be further diluted in 250 to 1000 mL of sterile 5% dextrose injection.
+Dilution to proper strength for infusion:Depending on the desired concentration, the solution containing 50 mg of sodium nitroprusside must be further diluted in 250 to 1000 mL of sterile 5% dextrose injection.
 The diluted solution should be protected from light, using the supplied opaque sleeve, aluminum foil, or other opaque material.
 It is not necessary to cover the infusion drip chamber or the tubing.
 
-Verification of the chemical integrity of the product: Sodium nitroprusside solution can be inactivated by reactions with trace contaminants.
+Verification of the chemical integrity of the product:Sodium nitroprusside solution can be inactivated by reactions with trace contaminants.
 The products of these reactions are often blue, green, or red, much brighter than the faint brownish color of unreacted sodium nitroprusside.
 Discolored solutions, or solutions in which particulate matter is visible, should not be used.
 If properly protected from light, the freshly diluted solution is stable for 24 hours.
 
 No other drugs should be administered in the same solution with sodium nitroprusside.
 
-Avoidance of excessive hypotension: While the average effective rate in adult and pediatric patients is about 3 mcg/kg/min, some patients will become dangerously hypotensive when they receive sodium nitroprusside at this rate.
+Avoidance of excessive hypotension:While the average effective rate in adult and pediatric patients is about 3 mcg/kg/min, some patients will become dangerously hypotensive when they receive sodium nitroprusside at this rate.
 Infusion of sodium nitroprusside should therefore be started at a very low rate (0.3 mcg/kg/min), with upward titration every few minutes until the desired effect is achieved or the maximum recommended infusion rate (10 mcg/kg/min) has been reached.
 
 Because sodium nitroprusside’s hypotensive effect is very rapid in onset and in dissipation, small variations in infusion rate can lead to wide, undesirable variations in blood pressure.
@@ -34,7 +34,7 @@ Table 2 below shows the infusion rates corresponding to the recommended initial 
 This infusion rate may be lower than indicated in the table for patients less than 10 kg.
 Note that when the concentration used in a given patient is changed, the tubing is still filled with a solution at the previous concentration.
 
-Table 2: Infusion Rates (mL/hour) to Achieve Initial (0.3 mcg/kg/min) and Maximal (10 mcg/kg/min) Dosing of Sodium Nitroprusside
+Table 2: Infusion Rates (mL/hour) to Achieve Initial (0.3 mcg/kg/min) and Maximal (10mcg/kg/min) Dosing ofSodium Nitroprusside
 
 | Volume sodium nitroprusside concentration |  | 250 mL 50 mg 200 mcg/mL |  | 500 mL 50 mg 100 mcg/mL |  | 1000 mL 50 mg 50 mcg/mL |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -51,7 +51,7 @@ Table 2: Infusion Rates (mL/hour) to Achieve Initial (0.3 mcg/kg/min) and Maxima
 | 90 | 198 | 8 | 270 | 16 | 540 | 32 | 1080 |
 | 100 | 220 | 9 | 300 | 18 | 600 | 36 | 1200 |
 
-Avoidance of cyanide toxicity: As described in CLINICAL PHARMACOLOGY above, when more than 500 mcg/kg of sodium nitroprusside is administered faster than 2 mcg/kg/min, cyanide is generated faster than the unaided patient can eliminate it.
+Avoidance of cyanide toxicity: As described in CLINICAL PHARMACOLOGYabove, when more than 500 mcg/kg of sodium nitroprusside is administered faster than 2 mcg/kg/min, cyanide is generated faster than the unaided patient can eliminate it.
 Administration of sodium thiosulfate has been shown to increase the rate of cyanide processing, reducing the hazard of cyanide toxicity.
 Although toxic reactions to sodium thiosulfate have not been reported, the co-infusion regimen has not been extensively studied, and it cannot be recommended without reservation.
 In one study, sodium thiosulfate appeared to potentiate the hypotensive effects of sodium nitroprusside.
@@ -60,7 +60,7 @@ Co-infusions of sodium thiosulfate have been administered at rates of 5 to 10 ti
 Care must be taken to avoid the indiscriminate use of prolonged or high doses of sodium nitroprusside with sodium thiosulfate as this may result in thiocyanate toxicity and hypovolemia.
 Incautious administration of sodium nitroprusside must still be avoided, and all of the precautions concerning sodium nitroprusside administration must still be observed.
 
-Consideration of methemoglobinemia and thiocyanate toxicity: Rare patients receiving more than 10 mg/kg of sodium nitroprusside will develop methemoglobinemia; other patients, especially those with impaired renal function, will predictably develop thiocyanate toxicity after prolonged, rapid infusions.
+Consideration of methemoglobinemia and thiocyanate toxicity:Rare patients receiving more than 10 mg/kg of sodium nitroprusside will develop methemoglobinemia; other patients, especially those with impaired renal function, will predictably develop thiocyanate toxicity after prolonged, rapid infusions.
 In accordance with the descriptions in ADVERSE REACTIONSabove, patients with suggestive findings should be tested for these toxicities.
 
-WARNING: Do not use flexible container in series connections.
+WARNING:Do not use flexible container in series connections.

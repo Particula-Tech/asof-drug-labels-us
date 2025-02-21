@@ -4,12 +4,12 @@
 
 The principal hazards of sodium nitroprusside administration are excessive hypotension and excessive accumulation of cyanide (see also OVERDOSAGEand DOSAGE AND ADMINISTRATION).
 
-Excessive Hypotension: Small transient excesses in the infusion rate of sodium nitroprusside can result in excessive hypotension, sometimes to levels so low as to compromise the perfusion of vital organs.
+Excessive Hypotension:Small transient excesses in the infusion rate of sodium nitroprusside can result in excessive hypotension, sometimes to levels so low as to compromise the perfusion of vital organs.
 These hemodynamic changes may lead to a variety of associated symptoms; see ADVERSE REACTIONS.
 Nitroprusside-induced hypotension will be self-limited within 1 to 10 minutes after discontinuation of the nitroprusside infusion; during these few minutes, it may be helpful to put the patient into a head-down (Trendelenburg) position to maximize venous return.
 If hypotension persists more than a few minutes after discontinuation of the infusion of sodium nitroprusside, sodium nitroprusside is not the cause, and the true cause must be sought.
 
-Cyanide Toxicity: As described in CLINICAL PHARMACOLOGY above, sodium nitroprusside infusions at rates above 2 mcg/kg/min generate cyanide ion (CN¯) faster than the body can normally dispose of it.
+Cyanide Toxicity:As described in CLINICAL PHARMACOLOGYabove, sodium nitroprusside infusions at rates above 2 mcg/kg/min generate cyanide ion (CN¯) faster than the body can normally dispose of it.
 (When sodium thiosulfate is given, as described under DOSAGE AND ADMINISTRATION, the body’s capacity for CN¯ elimination is greatly increased.)
 Methemoglobin normally present in the body can buffer a certain amount of CN¯, but the capacity of this system is exhausted by the CN¯ produced from about 500 mcg/kg of sodium nitroprusside.
 This amount of sodium nitroprusside is administered in less than an hour when the drug is administered at 10 mcg/kg/min (the maximum recommended rate).
@@ -27,12 +27,12 @@ Hypertensive patients, and patients concomitantly receiving other antihypertensi
 
 # PRECAUTIONS
 
-General: Like other vasodilators, sodium nitroprusside can cause increases in intracranial pressure.
+General:Like other vasodilators, sodium nitroprusside can cause increases in intracranial pressure.
 In patients whose intracranial pressure is already elevated, sodium nitroprusside should be used only with extreme caution.
 
-Hepatic: Use caution when administering nitroprusside to patients with hepatic insufficiency.
+Hepatic:Use caution when administering nitroprusside to patients with hepatic insufficiency.
 
-Use in Anesthesia: When sodium nitroprusside (or any other vasodilator) is used for controlled hypotension during anesthesia, the patient’s capacity to compensate for anemia and hypovolemia may be diminished.
+Use in Anesthesia:When sodium nitroprusside (or any other vasodilator) is used for controlled hypotension during anesthesia, the patient’s capacity to compensate for anemia and hypovolemia may be diminished.
 If possible, pre-existing anemia and hypovolemia should be corrected prior to administration of sodium nitroprusside.
 
 Hypotensive anesthetic techniques may also cause abnormalities of the pulmonary ventilation/perfusion ratio.
@@ -41,15 +41,15 @@ Patients intolerant of these abnormalities may require a higher fraction of insp
 Extreme caution should be exercised in patients who are especially poor surgical risks (A.S.A.
 Class 4 and 4E).
 
-Laboratory Tests: The cyanide-level assay is technically difficult, and cyanide levels in body fluids other than packed red blood cells are difficult to interpret.
+Laboratory Tests:The cyanide-level assay is technically difficult, and cyanide levels in body fluids other than packed red blood cells are difficult to interpret.
 Cyanide toxicity will lead to lactic acidosis and venous hyperoxemia, but these findings may not be present until an hour or more after the cyanide capacity of the body’s red-cell mass has been exhausted.
 
-Drug Interactions: The hypotensive effect of sodium nitroprusside is augmented by that of most other hypotensive drugs, including ganglionic blocking agents, negative inotropic agents, and inhaled anesthetics.
+Drug Interactions:The hypotensive effect of sodium nitroprusside is augmented by that of most other hypotensive drugs, including ganglionic blocking agents, negative inotropic agents, and inhaled anesthetics.
 
-Carcinogenesis, Mutagenesis, and Impairment of Fertility: Animal studies assessing sodium nitroprusside’s carcinogenicity and mutagenicity have not been conducted.
+Carcinogenesis, Mutagenesis, and Impairment of Fertility:Animal studies assessing sodium nitroprusside’s carcinogenicity and mutagenicity have not been conducted.
 Similarly, sodium nitroprusside has not been tested for effects on fertility.
 
-Pregnancy: Teratogenic effects: Pregnancy Category C.
+Pregnancy:Teratogenic effects: Pregnancy Category C.
 
 There are no adequate, well-controlled studies of sodium nitroprusside in either laboratory animals or pregnant women.
 It is not known whether sodium nitroprusside can cause fetal harm when administered to a pregnant woman or can affect reproductive capacity.
@@ -69,9 +69,9 @@ The mother demonstrated no cyanide toxicity.
 
 The effects of administering sodium thiosulfate in pregnancy, either by itself or as a co-infusion with sodium nitroprusside, are completely unknown.
 
-Nursing Mothers: It is not known whether sodium nitroprusside and its metabolites are excreted in human milk.
+Nursing Mothers:It is not known whether sodium nitroprusside and its metabolites are excreted in human milk.
 Because many drugs are excreted in human milk and because of the potential for serious adverse reactions in nursing infants from sodium nitroprusside, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
-Pediatric Use: Efficacy in the pediatric population was established based on adult trials and supported by the dose-ranging trial (Study 1) and an open label trial of at least 12 hour infusion at a rate that achieved adequate MAP control (Study 2) with pediatric patients on sodium nitroprusside.
+Pediatric Use:Efficacy in the pediatric population was established based on adult trials and supported by the dose-ranging trial (Study 1) and an open label trial of at least 12 hour infusion at a rate that achieved adequate MAP control (Study 2) with pediatric patients on sodium nitroprusside.
 No novel safety issues were seen in these studies in pediatric patients.
 See CLINICAL PHARMACOLOGYand DOSAGE AND ADMINISTRATION.
