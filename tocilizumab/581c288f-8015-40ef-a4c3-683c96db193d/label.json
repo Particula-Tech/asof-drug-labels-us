@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "BLA761420"
+  ],
+  "inn": "tocilizumab",
+  "labeler": "CELLTRION USA, Inc.",
+  "package_ndcs": [
+    "72606-042-01",
+    "72606-042-02",
+    "72606-043-01",
+    "72606-043-02",
+    "72606-044-01",
+    "72606-044-02",
+    "72606-045-01",
+    "72606-045-02",
+    "72606-045-03",
+    "72606-045-04",
+    "72606-045-05",
+    "72606-045-06"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "tocilizumab",
+      "name": "AVTOZMA"
+    }
+  ],
+  "setid": "581c288f-8015-40ef-a4c3-683c96db193d",
+  "source": "dailymed"
+}
