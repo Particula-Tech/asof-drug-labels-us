@@ -23,7 +23,7 @@ Analgesic effect was shown by such measures as reduction of pain intensity score
 The analgesic effect has been found to last for up to 12 hours.
 
 Naproxen may be used safely in combination with gold salts and/or corticosteroids; however, in controlled clinical trials, when added to the regimen of patients receiving corticosteroids, it did not appear to cause greater improvement over that seen with corticosteroids alone.
-Whether naproxen has a "steroid-sparing" effect has not been adequately studied.
+Whether naproxen has a “steroid-sparing” effect has not been adequately studied.
 When added to the regimen of patients receiving gold salts, naproxen did result in greater improvement.
 Its use in combination with salicylates is not recommended because there is evidence that aspirin increases the rate of excretion of naproxen and data are inadequate to demonstrate that naproxen and aspirin produce greater improvement over that achieved with aspirin alone.
 In addition, as with other NSAIDs, the combination may result in higher frequency of adverse events than demonstrated for either product alone.

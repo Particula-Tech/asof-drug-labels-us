@@ -38,7 +38,7 @@ When NAPROSYN Suspension and immediate release naproxen tablets were given to fa
 | C max(µg/mL) | 64.3 | 71.1 |
 | T max(hours) | 2.6 | 2.3 |
 | T 1/2(hours) | 16.8 | 16.3 |
-| AUC 0–t(µg∙hr/mL) | 1249 | 1218 |
+| AUC 0–t(µg·hr/mL) | 1249 | 1218 |
 
 Distribution
 
@@ -59,7 +59,7 @@ Excretion
 The clearance of naproxen is 0.13 mL/min/kg.
 Approximately 95% of the naproxen from any dose is excreted in the urine, primarily as naproxen (<1%), 6-0-desmethyl naproxen (<1%) or their conjugates (66% to 92%).
 The plasma half-life of the naproxen anion in humans ranges from 12 to 17 hours.
-The corresponding half-lives of both naproxen's metabolites and conjugates are shorter than 12 hours, and their rates of excretion have been found to coincide closely with the rate of naproxen clearance from the plasma.
+The corresponding half-lives of both naproxen’s metabolites and conjugates are shorter than 12 hours, and their rates of excretion have been found to coincide closely with the rate of naproxen clearance from the plasma.
 Small amounts, 3% or less of the administered dose, are excreted in the feces.
 In patients with renal failure metabolites may accumulate [see Warnings and Precautions (5.6)].
 

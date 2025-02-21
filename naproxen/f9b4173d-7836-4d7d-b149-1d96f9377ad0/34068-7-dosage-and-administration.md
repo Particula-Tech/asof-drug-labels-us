@@ -5,7 +5,7 @@
 Carefully consider the potential benefits and risks of NAPROSYN Suspension and other treatment options before deciding to use NAPROSYN Suspension.
 Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
 
-After observing the response to initial therapy with NAPROSYN Suspension, the dose and frequency should be adjusted to suit an individual patient's needs.
+After observing the response to initial therapy with NAPROSYN Suspension, the dose and frequency should be adjusted to suit an individual patient’s needs.
 
 Always use a calibrated measuring device when administering NAPROSYN suspension to ensure the dose is measured and administered accurately.
 A household teaspoon or tablespoon is not an adequate measuring device, especially when one-half of a teaspoonful is to be measured.
@@ -35,14 +35,14 @@ When treating such patients with naproxen 1500 mg/day, the physician should obse
 
 ## 2.3 Polyarticular Juvenile Idiopathic Arthritis
 
-The use of NAPROSYN Suspension is recommended for juvenile arthritis in children 2 years or older because it allows for more flexible dose titration based on the child's weight.
+The use of NAPROSYN Suspension is recommended for juvenile arthritis in children 2 years or older because it allows for more flexible dose titration based on the child’s weight.
 In pediatric patients, doses of 5 mg/kg/day produced plasma levels of naproxen similar to those seen in adults taking 500 mg of naproxen [see Clinical Pharmacology (12.3)]
 
 The recommended total daily dose of naproxen is approximately 10 mg/kg given in 2 divided doses (i.e., 5 mg/kg given twice a day).
 A measuring cup marked in 1/2 teaspoon and 2.5 milliliter increments is provided with the NAPROSYN Suspension.
 The following table may be used as a guide for dosing of NAPROSYN Suspension:
 
-| Patient's Weight | Dose | Administered as |
+| Patient’s Weight | Dose | Administered as |
 | --- | --- | --- |
 | 13 kg (29 lb) | 62.5 mg twice daily | 2.5 mL (1/2 tsp) twice daily |
 | 25 kg (55 lb) | 125 mg twice daily | 5.0 mL (1 tsp) twice daily |

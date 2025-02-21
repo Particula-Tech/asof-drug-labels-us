@@ -69,7 +69,7 @@ Monitor blood pressure (BP) during the initiation of NSAID treatment and through
 
 ## 5.5 Heart Failure and Edema
 
-The Coxib and traditional NSAID Trialists' Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
+The Coxib and traditional NSAID Trialists’ Collaboration meta-analysis of randomized controlled trials demonstrated an approximately two-fold increase in hospitalizations for heart failure in COX-2 selective-treated patients and nonselective NSAID-treated patients compared to placebo-treated patients.
 In a Danish National Registry study of patients with heart failure, NSAID use increased the risk of MI, hospitalization for heart failure, and death.
 
 Additionally, fluid retention and edema have been observed in some patients treated with NSAIDs.
@@ -163,7 +163,7 @@ The pharmacological activity of NAPROSYN Suspension in reducing inflammation, an
 
 ## 5.14 Long-Term Use and Laboratory Monitoring
 
-Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)].
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3Hepatotoxicity, 5.6Renal Toxicity and Hyperkalemia)].
 
 Patients with initial hemoglobin values of 10 g or less who are to receive long-term therapy should have hemoglobin values determined periodically.
 
