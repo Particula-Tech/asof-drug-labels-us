@@ -35,7 +35,7 @@ Table 32: Results from Blinded Clinical Study in Prophylaxis of IFI in All Rando
 | Event free lost to follow-up§ | 24 (8%) | 30 (10%) |
 | * Patients may have met more than one criterion defining failure. † Use of systemic antifungal therapy (SAF) criterion is based on protocol definitions (empiric/IFI usage >4 consecutive days). ‡ 95% confidence interval (posaconazole-fluconazole) = (-11.5%, +3.7%). § Patients who are lost to follow-up (not observed for 112 days), and who did not meet another clinical failure endpoint. These patients were considered failures. |  |  |
 
-The second study (Noxafil® Suspension Study 2) was a randomized, open-label study that compared Noxafil® oral suspension (200 mg 3 times a day) with fluconazole suspension (400 mg once daily) or itraconazole oral solution (200 mg twice a day) as prophylaxis against IFIs in neutropenic patients who were receiving cytotoxic chemotherapy for AML or MDS.
+The second study (Noxafil® Oral Suspension Study 2) was a randomized, open-label study that compared Noxafil® oral suspension (200 mg 3 times a day) with fluconazole suspension (400 mg once daily) or itraconazole oral solution (200 mg twice a day) as prophylaxis against IFIs in neutropenic patients who were receiving cytotoxic chemotherapy for AML or MDS.
 As in Noxafil® Oral Suspension Study 1, efficacy of prophylaxis was evaluated using a composite endpoint of proven/probable IFIs, death, or treatment with systemic antifungal therapy (Patients might have met more than one of these criteria).
 This study assessed patients while on treatment plus 7 days and 100 days postrandomization.
 The mean duration of therapy was comparable between the 2 treatment groups (29 days, posaconazole; 25 days, fluconazole or itraconazole).

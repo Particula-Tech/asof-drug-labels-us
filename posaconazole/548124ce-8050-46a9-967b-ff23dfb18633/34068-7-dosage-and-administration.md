@@ -2,7 +2,7 @@
 
 ## 2.1 Important Administration Instructions
 
-Non-substitutable Noxafil® oral suspension is not substitutable with Posaconazole delayed-release tablets or Noxafil® powdermix for delayed-release oral suspension due to the differences in the dosing of each formulation.
+Non-substitutable Noxafil® oral suspension is not substitutable with posaconazole delayed-release tablets or Noxafil® powdermix for delayed-release oral suspension due to the differences in the dosing of each formulation.
 Therefore, follow the specific dosage recommendations for each of the formulations [see Dosage and Administration (2.2,2.3).
 Posaconazole delayed-release tablets
 

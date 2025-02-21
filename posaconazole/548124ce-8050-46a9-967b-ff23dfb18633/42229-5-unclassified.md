@@ -10,11 +10,11 @@ Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland - 21202
+Naples, FL 34108
 
 United States
 
-March 2024
+December 2024
 
 The trademarks referenced herein are owned by their respective companies.
 
