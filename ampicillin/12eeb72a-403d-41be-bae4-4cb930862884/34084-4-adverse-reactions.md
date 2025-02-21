@@ -46,7 +46,7 @@ In addition to adverse reactions reported from clinical trials, the following ha
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to a combination of their seriousness, frequency, or potential causal connection to ampicillin sodium/sulbactam sodium.
 
-Infections and Infestations:Clostridioides difficile-associated diarrhea (see WARNINGS section).
+Infections and Infestations: Clostridioides difficile-associated diarrhea (see WARNINGS section).
 
 ## Blood and Lymphatic System Disorders
 
@@ -54,7 +54,7 @@ Hemolytic anemia, thrombocytopenic purpura, and agranulocytosis have been report
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
 Some individuals have developed positive direct Coombs Tests during treatment with UNASYN, as with other beta-lactam antibacterials.
 
-Gastrointestinal Disorders: Abdominal pain, cholestatic hepatitis, cholestasis, hyperbilirubinemia, jaundice, abnormal hepatic function, melena, gastritis, stomatitis, and dyspepsia black "hairy" tongue (see CONTRAINDICATIONS and WARNINGS sections).
+Gastrointestinal Disorders: Abdominal pain, cholestatic hepatitis, cholestasis, hyperbilirubinemia, jaundice, abnormal hepatic function, melena, gastritis, stomatitis, dyspepsia, and black "hairy" tongue (see CONTRAINDICATIONS and WARNINGS sections).
 
 General Disorders and Administration Site Conditions: Injection site reaction
 

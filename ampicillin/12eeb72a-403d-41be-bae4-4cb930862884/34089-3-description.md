@@ -19,5 +19,7 @@ The pH of the solutions is between 8.0 and 10.0.
 Dilute solutions (up to 30 mg ampicillin and 15 mg sulbactam per mL) are essentially colorless to pale yellow.
 The pH of dilute solutions remains the same.
 
+Each 1.5 g of UNASYN (1 g ampicillin as the sodium salt plus 0.5 g sulbactam as the sodium salt) parenteral contains approximately 115 mg (5 mEq) of sodium.
+
 UNASYN pharmacy bulk package is a vial containing a sterile preparation of ampicillin sodium and sulbactam sodium for parenteral use that contains many single doses.
-The Pharmacy Bulk Package is for use in a pharmacy admixture setting; it provides many single doses of UNASYN for addition to suitable parenteral fluids in the preparation of admixtures for intravenous infusion (see DIRECTIONS FOR USE –Directions for Proper Use of Pharmacy Bulk Package section).
+The Pharmacy Bulk Package is for use in a pharmacy admixture setting; it provides many single doses of UNASYN for addition to suitable parenteral fluids in the preparation of admixtures for intravenous infusion (see DIRECTIONS FOR USE–Directions for Proper Use of Pharmacy Bulk Package section).
