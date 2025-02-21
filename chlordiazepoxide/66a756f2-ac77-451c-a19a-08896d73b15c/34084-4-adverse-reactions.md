@@ -21,7 +21,7 @@ Neurologic: Incoordination, ataxia, numbness, tingling and paresthesias of the e
 
 Anticholinergic: Disturbance of accommodation, paralytic ileus, urinary retention, dilatation of urinary tract.
 
-Allergic: Skin rash, urticaria, photosensitization, edema of face and tongue, pruritus.
+Allergic: Skin rash, urticaria, photosensitization, edema of face and tongue, pruritus, pruritus, drug reaction with eosinophilia and systemic symptoms (DRESS).
 
 Hematologic: Bone marrow depression including agranulocytosis, eosinophilia, purpura, thrombocytopenia.
 
