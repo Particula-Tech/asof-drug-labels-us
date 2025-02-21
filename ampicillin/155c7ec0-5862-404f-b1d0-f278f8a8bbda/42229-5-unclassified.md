@@ -57,11 +57,9 @@ TABLE 6
 
 While reversible glycogenosis was observed in laboratory animals, this phenomenon was dose- and time-dependent and is not expected to develop at the therapeutic doses and corresponding plasma levels attained during the relatively short periods of combined ampicillin/sulbactam therapy in man.
 
-For medical information about UNASYN, please visit www.pfizermedinfo.com or call 1-800‑438-1985.
-
 To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
 
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0017-24.0 Revised October 2024
+LAB-0017-25.0 Revised January 2025

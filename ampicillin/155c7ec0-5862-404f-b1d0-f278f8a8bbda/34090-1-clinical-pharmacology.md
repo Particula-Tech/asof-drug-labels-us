@@ -38,6 +38,8 @@ Mean half-life values were approximately 1 hour.
 
 ## MICROBIOLOGY
 
+Mechanism of Action
+
 Ampicillin is similar to benzyl penicillin in its bactericidal action against susceptible organisms during the stage of active multiplication.
 It acts through the inhibition of cell wall mucopeptide biosynthesis.
 Ampicillin has a broad spectrum of bactericidal activity against many gram-positive and gram-negative aerobic and anaerobic bacteria.
@@ -46,25 +48,62 @@ Ampicillin has a broad spectrum of bactericidal activity against many gram-posit
 A wide range of beta-lactamases found in microorganisms resistant to penicillins and cephalosporins have been shown in biochemical studies with cell free bacterial systems to be irreversibly inhibited by sulbactam.
 Although sulbactam alone possesses little useful antibacterial activity except against the Neisseriaceae, whole organism studies have shown that sulbactam restores ampicillin activity against beta-lactamase producing strains.
 In particular, sulbactam has good inhibitory activity against the clinically important plasmid mediated beta-lactamases most frequently responsible for transferred drug resistance.
-Sulbactam has no effect on the activity of ampicillin against ampicillin susceptible strains.
+Sulbactam has no effect on the activity of ampicillin against ampicillin-susceptible strains.
 
 The presence of sulbactam in the UNASYN formulation effectively extends the antibacterial spectrum of ampicillin to include many bacteria normally resistant to it and to other beta-lactam antibacterials.
 Thus, UNASYN possesses the properties of a broad-spectrum antibacterial and a beta-lactamase inhibitor.
 
+Antimicrobial Activity
+
 While in vitro studies have demonstrated the susceptibility of most strains of the following organisms, clinical efficacy for infections other than those included in the INDICATIONS and USAGE section has not been documented.
 
-### Gram-Positive Bacteria
+### Gram-positive Bacteria
 
-Staphylococcus aureus (beta-lactamase and non-beta-lactamase producing), Staphylococcus epidermidis (beta-lactamase and non-beta-lactamase producing), Staphylococcus saprophyticus (beta-lactamase and non-beta-lactamase producing), Streptococcus faecalis (Enterococcus), Streptococcus pneumoniae (formerly D. pneumoniae), Streptococcus pyogenes, Streptococcus viridans.
+Staphylococcus aureus (beta-lactamase and non-beta-lactamase producing)
 
-### Gram-Negative Bacteria
+Staphylococcus epidermidis (beta-lactamase and non-beta-lactamase producing)
 
-Hemophilus influenzae (beta-lactamase and non-beta-lactamase producing), Moraxella (Branhamella) catarrhalis (beta-lactamase and non-beta-lactamase producing), Escherichia coli (beta-lactamase and non-beta-lactamase producing), Klebsiella species (all known strains are beta-lactamase producing), Proteus mirabilis (beta-lactamase and non-beta-lactamase producing), Proteus vulgaris, Providencia rettgeri, Providencia stuartii, Morganella morganii, and Neisseria gonorrhoeae (beta-lactamase and non-beta-lactamase producing).
+Staphylococcus saprophyticus (beta-lactamase and non-beta-lactamase producing)
+
+Enterococcus faecalis
+
+Streptococcus pneumoniae
+
+Streptococcus pyogenes
+
+Streptococcus viridans
+
+### Gram-negative Bacteria
+
+Hemophilus influenzae (beta-lactamase and non-beta-lactamase producing)
+
+Moraxella catarrhalis (beta-lactamase and non-beta-lactamase producing)
+
+Escherichia coli (beta-lactamase and non-beta-lactamase producing)
+
+Klebsiella species (all known strains are beta-lactamase producing)
+
+Proteus mirabilis (beta-lactamase and non-beta-lactamase producing)
+
+Proteus vulgaris
+
+Providencia rettgeri
+
+Providencia stuartii
+
+Morganella morganii
+
+Neisseria gonorrhoeae (beta-lactamase and non-beta-lactamase producing)
 
 ### Anaerobes
 
-Clostridium species,These are not beta-lactamase producing strains and, therefore, are susceptible to ampicillin alone.
-Peptococcus species, Peptostreptococcus species, Bacteroides species, including B. fragilis.
+Clostridium speciesThese are not beta-lactamase producing strains and, therefore, are susceptible to ampicillin alone.
+
+Peptococcus species
+
+Peptostreptococcus species
+
+Bacteroides species, including B. fragilis
 
 ### Susceptibility Testing
 
