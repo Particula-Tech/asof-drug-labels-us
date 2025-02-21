@@ -9,10 +9,16 @@ Table 4: Available Packaging Configurations
 
 | Description | Contents | NDC |
 | --- | --- | --- |
+| Each Carton Contains 2 Doses |  |  |
 | 5 mg carton | 2 individual blister packs, each containing one 5 mg nasal spray device | 72252-505-02 |
 | 10 mg carton | 2 individual blister packs, each containing one 10 mg nasal spray device | 72252-510-02 |
 | 15 mg carton | 2 individual blister packs, each containing two 7.5 mg nasal spray devices | 72252-515-04 |
 | 20 mg carton | 2 individual blister packs, each containing two 10 mg nasal spray devices | 72252-520-04 |
+| Each Carton Contains 5 Doses |  |  |
+| 5 mg carton | 5 individual blister packs, each containing one 5 mg nasal spray device | 72252-505-05 |
+| 10 mg carton | 5 individual blister packs, each containing one 10 mg nasal spray device | 72252-510-05 |
+| 15 mg carton | 5 individual blister packs, each containing two 7.5 mg nasal spray devices | 72252-515-10 |
+| 20 mg carton | 5 individual blister packs, each containing two 10 mg nasal spray devices | 72252-520-10 |
 
 ## 16.2 Storage and Handling
 

@@ -2,7 +2,7 @@ NEURELIS, VALTOCO and the NEURELIS and VALTOCO logos are trademarks or registere
 
 Distributed by: Neurelis, Inc. San Diego, CA 92121 USA
 
-© 2022 Neurelis, Inc. All rights reserved.
+© 2024 Neurelis, Inc. All rights reserved.
 
 Neurelis Rev.
-1/2023 US-PRC-22-00041
+12/2024
