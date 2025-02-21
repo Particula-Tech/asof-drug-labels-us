@@ -2,9 +2,11 @@ When carbidopa is to be given to carbidopa-naive patients who are being treated 
 At least twelve hours should elapse between the last dose of levodopa and initiation of therapy with carbidopa and levodopa.
 See the WARNINGS and DOSAGE AND ADMINISTRATION sections before initiating therapy.
 
-Manufactured for: Edenbridge Pharmaceuticals, LLC Parsippany, NJ 07054 877-381-3336
+Manufactured for: Edenbridge Pharmaceuticals, LLC
 
-Item Code: 552601
+DBA Dexcel Pharma USA Parsippany, NJ 07054 877-381-3336
+
+Item Code: 552602
 
 Rev.
-05/2021
+12/2024
