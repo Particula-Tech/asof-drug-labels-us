@@ -71,9 +71,13 @@ Remove air bubbles Press the plunger carefully until a drop of liquid comes out 
 | --- | --- |
 |  | Dispose of properly and check injection site Dispose of the syringe in an approved sharps container. There may be a small amount of blood or liquid at the injection site. Hold pressure over the skin with a cotton ball or gauze pad until any bleeding stops. Do not rub the injection site. If needed, cover injection site with a bandage. |
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 9/2024 Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ 08560
+Manufactured for:
+
+Janssen Pharmaceuticals, Inc. Titusville, NJ 08560, USA
 
 For patent information: www.janssenpatents.com
 
-© 2021 Janssen Pharmaceutical Companies
+© Johnson & Johnson and its affiliates 2021
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+Revised: 2/2025
