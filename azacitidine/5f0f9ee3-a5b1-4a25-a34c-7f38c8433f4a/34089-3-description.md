@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Azacitidine is a nucleoside metabolic inhibitor.
-The molecular formula is C8H12N4O5.
+The molecular formula is C 8H 12N 4O 5.
 The molecular weight is
 
 244.

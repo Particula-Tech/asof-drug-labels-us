@@ -16,8 +16,8 @@ However, due to Celgene Corporation’s marketing exclusivity rights, this drug 
 
 ## 12.3 Pharmacokinetics
 
-The area under the curve (AUC) and peak concentration (C max) of subcutaneous administration of azacitidine in patients with cancer were approximately dose proportional within the dose range of 25 mg/m 2 (0.33 times the lowest approved recommended dosage) to 100 mg/m 2(the maximum approved recommended dosage).
-The mean and standard deviation (SD) of C maxwas 750 ± 403 ng/mL after a single subcutaneous administration of 75 mg/m 2 azacitidine.
+The area under the curve (AUC) and peak concentration (C max) of subcutaneous administration of azacitidine in patients with cancer were approximately dose proportional within the dose range of 25 mg/m 2(0.33 times the lowest approved recommended dosage) to 100 mg/m 2(the maximum approved recommended dosage).
+The mean and standard deviation (SD) of C maxwas 750 ± 403 ng/mL after a single subcutaneous administration of 75 mg/m 2azacitidine.
 Multiple dosing at the recommended dose-regimen does not result in drug accumulation.
 
 Absorption

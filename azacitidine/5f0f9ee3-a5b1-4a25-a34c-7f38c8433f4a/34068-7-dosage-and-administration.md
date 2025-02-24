@@ -7,7 +7,7 @@ The indications and dosing regimen for Azacitidine for Injection differ from tha
 
 ## 2.2 First Treatment Cycle for Adults
 
-The recommended starting dose for the first treatment cycle, for all patients regardless of baseline hematology laboratory values, is 75 mg/m 2 subcutaneously or intravenously, daily for 7 days.
+The recommended starting dose for the first treatment cycle, for all patients regardless of baseline hematology laboratory values, is 75 mg/m 2subcutaneously or intravenously, daily for 7 days.
 
 Premedicate patients for nausea and vomiting.
 Obtain complete blood counts, liver chemistries and serum creatinine prior to the first dose.
@@ -15,7 +15,7 @@ Obtain complete blood counts, liver chemistries and serum creatinine prior to th
 ## 2.3 Subsequent Treatment Cycles for Adults
 
 Repeat cycles every 4 weeks.
-The dose may be increased to 100 mg/m 2 if no beneficial effect is seen after 2 treatment cycles and if no toxicity other than nausea and vomiting has occurred.
+The dose may be increased to 100 mg/m 2if no beneficial effect is seen after 2 treatment cycles and if no toxicity other than nausea and vomiting has occurred.
 It is recommended that patients be treated for a minimum of 4 to 6 cycles.
 However, complete or partial response may require additional treatment cycles.
 Treatment may be continued as long as the patient continues to benefit.
@@ -57,7 +57,7 @@ If unexplained elevations of BUN or serum creatinine occur, delay the next cycle
 ## 2.6 Use in Geriatric Patients
 
 Azacitidine and its metabolites are known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, select the dose carefully and monitor renal function [see Warnings and Precautions (5.4) and Use in Specific Populations (8.5)].
+Because elderly patients are more likely to have decreased renal function, select the dose carefully and monitor renal function [see Warnings and Precautions (5.4)and Use in Specific Populations (8.5)].
 
 ## 2.7 Preparation of Azacitidine for Injection
 

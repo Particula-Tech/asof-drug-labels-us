@@ -106,9 +106,9 @@ Table 1: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5%
 | Hematoma | 19 (9) | 0 |
 | Hypotension | 15 (7) | 2 (2) |
 | Petechiae | 52 (24) | 8 (9) |
-| a Multiple terms of the same preferred terms for a patient are only counted once within each treatment group. |  |  |
-| b Includes adverse reactions from all patients exposed to azacitidine, including patients after crossing over from observations. |  |  |
-| c Includes adverse reactions from observation period only; excludes any adverse events after crossover to azacitidine. |  |  |
+| aMultiple terms of the same preferred terms for a patient are only counted once within each treatment group. |  |  |
+| bIncludes adverse reactions from all patients exposed to azacitidine, including patients after crossing over from observations. |  |  |
+| cIncludes adverse reactions from observation period only; excludes any adverse events after crossover to azacitidine. |  |  |
 
 Table 2 presents adverse reactions occurring in at least 5% of patients treated with azacitidine in Study 4.
 Similar to Studies 1 and 2 described above, duration of exposure to treatment with azacitidine was longer (mean 12.2 months) compared with best supportive care (mean 7.5 months).
@@ -167,7 +167,7 @@ Table 2: Most Frequently Observed Adverse Reactions (Greater Than or Equal To 5%
 | Rash | 18 (10) | 1 (1) | 0 | 0 |
 | Vascular disorders |  |  |  |  |
 | Hypertension | 15 (9) | 4 (4) | 2 (1) | 2 (2) |
-| a Multiple reports of the same preferred term from a patient were only counted once within each treatment. |  |  |  |  |
+| aMultiple reports of the same preferred term from a patient were only counted once within each treatment. |  |  |  |  |
 
 In Studies 1, 2 and 4 with subcutaneous administration of azacitidine, adverse reactions of neutropenia, thrombocytopenia, anemia, nausea, vomiting, diarrhea, constipation, and injection site erythema/reaction tended to increase in incidence with higher doses of azacitidine.
 Adverse reactions that tended to be more pronounced during the first 1 to 2 cycles of subcutaneous treatment compared with later cycles included thrombocytopenia, neutropenia, anemia, nausea, vomiting, injection site erythema/pain/bruising/reaction, constipation, petechiae, dizziness, anxiety, hypokalemia, and insomnia.
@@ -228,3 +228,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Differentiation syndrome
 - Pericardial effusion
 - Pericarditis
+- Cutaneous vasculitis

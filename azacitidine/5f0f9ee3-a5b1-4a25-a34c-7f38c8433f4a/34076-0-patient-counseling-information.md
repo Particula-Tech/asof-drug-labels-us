@@ -23,7 +23,7 @@ Advise women not to breastfeed during treatment with Azacitidine for Injection a
 
 Infertility
 
-Advise males and females of the potential for reduced fertility from Azacitidine for Injection [see Use in Specific Populations (8.3)andNonclinical Toxicology (13.1)].
+Advise males and females of the potential for reduced fertility from Azacitidine for Injection [see Use in Specific Populations (8.3)and Nonclinical Toxicology (13.1)].
 
 Manufactured In Romania By: Sindan Pharma SRL 11 Ion Mihalache Blvd.
 Bucharest 1, Romania 011171
@@ -31,4 +31,4 @@ Bucharest 1, Romania 011171
 For BluePoint Laboratories
 
 Rev.
-D 7/2024
+E 12/2024

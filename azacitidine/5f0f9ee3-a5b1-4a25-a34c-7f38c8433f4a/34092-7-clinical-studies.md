@@ -9,8 +9,8 @@ Supportive care allowed in this study included blood transfusion products, antib
 The use of hematopoietic growth factors was prohibited.
 Baseline patient and disease characteristics are summarized in Table 3; the 2 groups were similar.
 
-Azacitidine was administered at a subcutaneous dose of 75 mg/m 2 daily for 7 days every 4 weeks.
-The dose was increased to 100 mg/m 2 if no beneficial effect was seen after 2 treatment cycles.
+Azacitidine was administered at a subcutaneous dose of 75 mg/m 2daily for 7 days every 4 weeks.
+The dose was increased to 100 mg/m 2if no beneficial effect was seen after 2 treatment cycles.
 The dose was decreased and/or delayed based on hematologic response or evidence of renal toxicity.
 Patients in the observation arm were allowed by protocol to cross over to azacitidine if they had increases in bone marrow blasts, decreases in hemoglobin, increases in red cell transfusion requirements, or decreases in platelets, or if they required a platelet transfusion or developed a clinical infection requiring treatment with antibiotics.
 For purposes of assessing efficacy, the primary endpoint was response rate (as defined in Table 4).

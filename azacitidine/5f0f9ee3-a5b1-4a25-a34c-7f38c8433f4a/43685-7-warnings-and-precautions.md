@@ -54,7 +54,7 @@ Assess baseline risk and monitor and treat as appropriate.
 ## 5.6 Embryo-Fetal Toxicity
 
 Based on the mechanism of action and findings in animals, Azacitidine for Injection can cause fetal harm when administered to a pregnant woman.
-In animal studies, azacitidine caused adverse developmental outcomes when administered to mice and rats at doses of 3 to 12 mg/m 2 and 6 mg/m 2 (approximately 4% to 16% and 8%) of the recommended human daily dose of 75 mg/m 2, respectively.
+In animal studies, azacitidine caused adverse developmental outcomes when administered to mice and rats at doses of 3 to 12 mg/m 2and 6 mg/m 2(approximately 4% to 16% and 8%) of the recommended human daily dose of 75 mg/m 2, respectively.
 
 Advise pregnant women of the potential risk to a fetus.Advise females of reproductive potential to use effective contraception during treatment with Azacitidine for Injection and for 6 months following the last dose.
 Advise males with female partners of reproductive potential to use effective contraception during treatment with Azacitidine for Injection and for 3 months following the last dose [see Use in Specific Populations (8.1, 8.3)].

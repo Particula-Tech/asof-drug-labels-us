@@ -16,12 +16,12 @@ Data
 
 Animal Data
 
-Early embryotoxicity studies in mice revealed a 44% frequency of intrauterine embryonal death (increased resorption) after a single IP (intraperitoneal) injection of 6 mg/m 2 (approximately 8% of the recommended human daily dose on a mg/m 2 basis) azacitidine on gestation day 10.
-Developmental abnormalities in the brain have been detected in mice given azacitidine on or before gestation day 15 at doses of ~3 to 12 mg/m 2 (approximately 4% to 16% the recommended human daily dose on a mg/m 2 basis).
+Early embryotoxicity studies in mice revealed a 44% frequency of intrauterine embryonal death (increased resorption) after a single IP (intraperitoneal) injection of 6 mg/m 2(approximately 8% of the recommended human daily dose on a mg/m 2basis) azacitidine on gestation day 10.
+Developmental abnormalities in the brain have been detected in mice given azacitidine on or before gestation day 15 at doses of ~3 to 12 mg/m 2(approximately 4% to 16% the recommended human daily dose on a mg/m 2basis).
 
-In rats, azacitidine was clearly embryotoxic when given IP on gestation days 4 to 8 (postimplantation) at a dose of 6 mg/m 2 (approximately 8% of the recommended human daily dose on a mg/m 2 basis), although treatment in the preimplantation period (on gestation days 1 to 3) had no adverse effect on the embryos.
-Azacitidine caused multiple fetal abnormalities in rats after a single IP dose of 3 to 12 mg/m 2 (approximately 8% the recommended human daily dose on a mg/m 2 basis) given on gestation day 9, 10, 11 or 12.
-In this study azacitidine caused fetal death when administered at 3 to 12 mg/m 2 on gestation days 9 and 10; average live animals per litter was reduced to 9% of control at the highest dose on gestation day 9.
+In rats, azacitidine was clearly embryotoxic when given IP on gestation days 4 to 8 (postimplantation) at a dose of 6 mg/m 2(approximately 8% of the recommended human daily dose on a mg/m 2basis), although treatment in the preimplantation period (on gestation days 1 to 3) had no adverse effect on the embryos.
+Azacitidine caused multiple fetal abnormalities in rats after a single IP dose of 3 to 12 mg/m 2(approximately 8% the recommended human daily dose on a mg/m 2basis) given on gestation day 9, 10, 11 or 12.
+In this study azacitidine caused fetal death when administered at 3 to 12 mg/m 2on gestation days 9 and 10; average live animals per litter was reduced to 9% of control at the highest dose on gestation day 9.
 Fetal anomalies included: CNS anomalies (exencephaly/encephalocele), limb anomalies (micromelia, club foot, syndactyly, oligodactyly), and others (micrognathia, gastroschisis, edema, and rib abnormalities).
 
 ## 8.2 Lactation
@@ -43,7 +43,7 @@ Contraception
 
 Females
 
-Advise females of reproductive potential to use effective contraception during treatment with Azacitidine for Injection and for 6 months after the last dose [see Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
+Advise females of reproductive potential to use effective contraception during treatment with Azacitidine for Injection and for 6 months after the last dose [see Use in Specific Populations (8.1)and Clinical Pharmacology (12.3)].
 
 Males
 
@@ -71,4 +71,4 @@ Survival data for patients 65 years and older were consistent with overall survi
 The majority of adverse reactions occurred at similar frequencies in patients less than 65 years of age and patients 65 years of age and older.
 
 Elderly patients are more likely to have decreased renal function.
-Monitor renal function in these patients [see Dosage and Administration (2.6) and Warnings and Precautions (5.4)].
+Monitor renal function in these patients [see Dosage and Administration (2.6)and Warnings and Precautions (5.4)].
