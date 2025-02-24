@@ -9,12 +9,13 @@ WEZLANA (ustekinumab-auub) injection is a sterile, preservative-free, clear to o
 
 WEZLANA for Subcutaneous Use
 
-Available as 45 mg of ustekinumab-auub in 0.5 mL and 90 mg of ustekinumab-auub in 1 mL, supplied as a sterile solution in a single-dose prefilled syringe with a 27 gauge fixed ½ inch needle and as 45 mg of ustekinumab-auub in 0.5 mL in a single-dose Type I glass vial with a coated stopper.
+Available as 45 mg of ustekinumab-auub in 0.5 mL and 90 mg of ustekinumab-auub in 1 mL, supplied as a sterile solution in a single-dose prefilled syringe with a 27 gauge fixed ½ inch needle and a single-dose prefilled ConfiPen autoinjector, and as 45 mg of ustekinumab-auub in 0.5 mL in a single-dose Type I glass vial with a coated stopper.
 The syringe is fitted with a passive needle guard and a needle cap that does not contain dry natural rubber (a derivative of latex).
+The prefilled ConfiPen autoinjector is not made with natural rubber latex.
 
-Each 0.5 mL prefilled syringe or vial delivers 45 mg ustekinumab-auub, histidine (0.23 mg) and histidine hydrochloride monohydrate (0.36 mg), Polysorbate 80 (0.02 mg), and sucrose (38 mg).
+Each 0.5 mL prefilled syringe, prefilled ConfiPen autoinjector or vial delivers 45 mg ustekinumab-auub, histidine (0.23 mg) and histidine hydrochloride monohydrate (0.36 mg), Polysorbate 80 (0.02 mg), and sucrose (38 mg).
 
-Each 1 mL prefilled syringe delivers 90 mg ustekinumab-auub, histidine (0.46 mg) and histidine hydrochloride monohydrate (0.72 mg), Polysorbate 80 (0.04 mg), and sucrose (76 mg).
+Each 1 mL prefilled syringe, or prefilled ConfiPen autoinjector delivers 90 mg ustekinumab-auub, histidine (0.46 mg) and histidine hydrochloride monohydrate (0.72 mg), Polysorbate 80 (0.04 mg), and sucrose (76 mg).
 
 WEZLANA for Intravenous Infusion
 

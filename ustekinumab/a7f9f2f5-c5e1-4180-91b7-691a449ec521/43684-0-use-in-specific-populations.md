@@ -4,18 +4,23 @@
 
 Risk Summary
 
-Limited data on the use of ustekinumab products in pregnant women are insufficient to inform a drug associated risk [see Data].
-In animal reproductive and developmental toxicity studies, no adverse developmental effects were observed after administration of ustekinumab to pregnant monkeys at exposures greater than 100 times the human exposure at the maximum recommended human subcutaneous dose (MRHD).
+Limited data from observational studies, published case reports, and postmarketing surveillance on the use of ustekinumab products during pregnancy are insufficient to inform a drug associated risk of major birth defects, miscarriage, and other adverse maternal or fetal outcomes.
+Transport of human IgG antibody across the placenta increases as pregnancy progresses and peaks during the third trimester; therefore, ustekinumab products may be transferred to the developing fetus [see Clinical Considerations].
+In animal reproductive and developmental toxicity studies, no adverse developmental effects were observed in offspring after administration of ustekinumab to pregnant monkeys at exposures greater than 100 times the maximum recommended human dose (MRHD).
 
 The background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage of clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Because ustekinumab products may theoretically interfere with immune response to infections, consider risks and benefits prior to administering live vaccines to infants exposed to WEZLANA in utero.
+There are insufficient data regarding exposed infant serum levels of ustekinumab products at birth and the duration of persistence of ustekinumab products in infant serum after birth.
+Although a specific timeframe to delay administration of live attenuated vaccines in infants exposed in utero is unknown, consider the risks and benefits of delaying a minimum of 6 months after birth because of the clearance of the product.
+
 Data
-
-Human Data
-
-Limited data on use of ustekinumab products in pregnant women from observational studies, published case reports and postmarketing surveillance are insufficient to inform a drug associated risk.
 
 Animal Data
 
@@ -23,7 +28,7 @@ Ustekinumab was tested in two embryo-fetal development toxicity studies in cynom
 No teratogenic or other adverse developmental effects were observed in fetuses from pregnant monkeys that were administered ustekinumab subcutaneously twice weekly or intravenously weekly during the period of organogenesis.
 Serum concentrations of ustekinumab in pregnant monkeys were greater than 100 times the serum concentration in patients treated subcutaneously with 90 mg of ustekinumab weekly for 4 weeks.
 
-In a combined embryo-fetal development and pre- and post-natal development toxicity study, pregnant cynomolgus monkeys were administered subcutaneous doses of ustekinumab twice weekly at exposures greater than 100 times the human subcutaneous exposure from the beginning of organogenesis to Day 33 after delivery.
+In a combined embryo-fetal development and pre- and post-natal development toxicity study, pregnant cynomolgus monkeys were administered subcutaneous doses of ustekinumab twice weekly at exposures greater than 100 times the MRHD from the beginning of organogenesis to Day 33 after delivery.
 Neonatal deaths occurred in the offspring of one monkey administered ustekinumab at 22.5 mg/kg and one monkey dosed at 45 mg/kg.
 No ustekinumab-related effects on functional, morphological, or immunological development were observed in the neonates from birth through six months of age.
 
@@ -31,12 +36,10 @@ No ustekinumab-related effects on functional, morphological, or immunological de
 
 Risk Summary
 
-There are no data on the presence of ustekinumab products in human milk, the effects on the breastfed infant, or the effects on milk production.
-Ustekinumab was present in the milk of lactating monkeys administered ustekinumab.
-Due to species-specific differences in lactation physiology, animal data may not reliably predict drug levels in human milk.
-Maternal IgG is known to be present in human milk.
-Published data suggest that the systemic exposure to a breastfed infant is expected to be low because ustekinumab is a large molecule and is degraded in the gastrointestinal tract.
-However, if ustekinumab products are transferred into human milk the effects of local exposure in the gastrointestinal tract are unknown.
+Limited data from published literature suggests that ustekinumab is present in human breast milk.
+There are no available data on the effects of ustekinumab products on milk production.
+The effects of local gastrointestinal exposure and limited systemic exposure in the breastfed infant to ustekinumab products are unknown.
+No adverse effects on the breastfed infant causally related to ustekinumab products have been identified in the published literature or postmarketing experience.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for WEZLANA and any potential adverse effects on the breastfed child from WEZLANA or from the underlying maternal condition.
 
@@ -44,19 +47,20 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Plaque Psoriasis
 
-The safety and effectiveness of WEZLANA have been established for the treatment of moderate to severe plaque psoriasis in pediatric patients 6 to 17 years old.
-Use of WEZLANA in patients 12 to less than 17 years old is supported by WEZLANA's approval as a biosimilar to ustekinumab and evidence from a multicenter, randomized, 60-week trial (Ps STUDY 3) of ustekinumab that included a 12-week, double-blind, placebo-controlled, parallel-group portion, in 110 pediatric subjects 12 years and older [see Adverse Reactions (6.1), Clinical Studies (14.2)].
+The safety and effectiveness of WEZLANA have been established for the treatment of moderate to severe plaque psoriasis in pediatric patients 6 to 17 years of age who are candidates for phototherapy or systemic therapy.
 
-Use of WEZLANA in patients 6 to 11 years is supported by WEZLANA's approval as a biosimilar to ustekinumab and evidence from an open-label, single-arm, efficacy, safety, and pharmacokinetics study (Ps STUDY 4) of ustekinumab in 44 subjects [see Adverse Reactions (6.1), Pharmacokinetics (12.3)].
+Use of WEZLANA in pediatric patients 12 to less than 17 years of age is supported by evidence from a multicenter, randomized, 60-week trial (Ps STUDY 3) of ustekinumab that included a 12-week, double-blind, placebo-controlled, parallel-group portion, in 110 pediatric subjects 12 years of age and older [see Adverse Reactions (6.1), Clinical Studies (14.2)].
 
-The safety and effectiveness of WEZLANA have not been established in pediatric patients less than 6 years of age with psoriasis.
+Use of WEZLANA in pediatric patients 6 to 11 years of age is supported by evidence from an open-label, single-arm, efficacy, safety, and pharmacokinetics trial (Ps STUDY 4) of ustekinumab in 44 subjects [see Adverse Reactions (6.1), Pharmacokinetics (12.3)].
+
+The safety and effectiveness of WEZLANA have not been established in pediatric patients less than 6 years of age with plaque psoriasis.
 
 Psoriatic Arthritis
 
 The safety and effectiveness of WEZLANA have been established for treatment of psoriatic arthritis in pediatric patients 6 to 17 years old.
 
-Use of WEZLANA in these age groups is supported by WEZLANA's approval as a biosimilar to ustekinumab and evidence from adequate and well controlled studies of ustekinumab in adults with psoriasis and PsA, pharmacokinetic data from adult patients with psoriasis, adult patients with PsA and pediatric patients with psoriasis, and safety data of ustekinumab from two clinical studies in 44 pediatric patients 6 to 11 years old with psoriasis and 110 pediatric patients 12 to 17 years old with psoriasis.
-The observed pre-dose (trough) concentrations are generally comparable between adult patients with psoriasis, adult patients with PsA and pediatric patients with psoriasis, and the PK exposure is expected to be comparable between adult and pediatric patients with PsA [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1, 14.2, 14.3)].
+Use of WEZLANA in these age groups is supported by evidence from adequate and well controlled trials of ustekinumab in adults with psoriasis and PsA, pharmacokinetic data from adult subjects with psoriasis, adult subjects with PsA and pediatric subjects with psoriasis, and safety data of ustekinumab from two clinical trials in 44 pediatric subjects 6 to 11 years old with psoriasis and 110 pediatric subjects 12 to 17 years old with psoriasis.
+The observed pre-dose (trough) concentrations are generally comparable between adult subjects with psoriasis, adult subjects with PsA and pediatric subjects with psoriasis, and the PK exposure is expected to be comparable between adult and pediatric subjects with PsA [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1, 14.2, 14.3)].
 
 The safety and effectiveness of WEZLANA have not been established in pediatric patients less than 6 years old with psoriatic arthritis.
 
@@ -66,5 +70,5 @@ The safety and effectiveness of WEZLANA have not been established in pediatric p
 
 ## 8.5 Geriatric Use
 
-Of the 6709 patients exposed to ustekinumab, a total of 340 were 65 years or older (183 patients with psoriasis, 65 patients with psoriatic arthritis, 58 patients with Crohn's disease and 34 patients with ulcerative colitis), and 40 patients were 75 years or older.
-Although no overall differences in safety or efficacy were observed between older and younger patients, the number of patients aged 65 and over is not sufficient to determine whether they respond differently from younger patients.
+Of the 6709 subjects exposed to ustekinumab, a total of 340 were 65 years of age or older (183 subjects with plaque psoriasis, 65 subjects with psoriatic arthritis, 58 subjects with Crohn's disease and 34 subjects with ulcerative colitis), and 40 subjects were 75 years of age or older.
+Clinical trials of ustekinumab did not include sufficient numbers of subjects 65 years of age and older to determine whether they respond differently from younger adult subjects.

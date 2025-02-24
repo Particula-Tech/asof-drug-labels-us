@@ -1,11 +1,11 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Psoriasis
+## 2.1 Recommended Dosage in Plaque Psoriasis
 
 Subcutaneous Adult Dosage Regimen
 
-- For patients weighing 100 kg or less, the recommended dose is 45 mg initially and 4 weeks later, followed by 45 mg every 12 weeks.
-- For patients weighing more than 100 kg, the recommended dose is 90 mg initially and 4 weeks later, followed by 90 mg every 12 weeks.
+- For patients weighing 100 kg or less, the recommended dosage is 45 mg initially and 4 weeks later, followed by 45 mg every 12 weeks.
+- For patients weighing more than 100 kg, the recommended dosage is 90 mg initially and 4 weeks later, followed by 90 mg every 12 weeks.
 
 In subjects weighing more than 100 kg, 45 mg was also shown to be efficacious.
 However, 90 mg resulted in greater efficacy in these subjects [see Clinical Studies (14)].
@@ -14,10 +14,10 @@ Subcutaneous Pediatric Dosage Regimen
 
 Administer WEZLANA subcutaneously at Weeks 0 and 4, then every 12 weeks thereafter.
 
-The recommended dose of WEZLANA for pediatric patients (6–17 years old) based on body weight is shown below (Table 1).
+The recommended dose of WEZLANA for pediatric patients (6–17 years old) with plaque psoriasis based on body weight is shown below (Table 1).
 
 Table 1.
-Recommended Dose of WEZLANA for Subcutaneous Injection in Pediatric Patients (6–17 years old) With Psoriasis
+Recommended Dose of WEZLANA for Subcutaneous Injection in Pediatric Patients (6–17 years old) with Plaque Psoriasis
 
 | Body Weight of Patient at the Time of Dosing | Recommended Dose |
 | --- | --- |
@@ -28,7 +28,7 @@ Recommended Dose of WEZLANA for Subcutaneous Injection in Pediatric Patients (6�
 For pediatric patients weighing less than 60 kg, the administration volume for the recommended dose (0.75 mg/kg) is shown in Table 2; withdraw the appropriate volume from the single-dose vial.
 
 Table 2.
-Injection Volumes of WEZLANA 45 mg/0.5 mL Single Dose Vials for Pediatric Patients (6–17 years old) With Psoriasis and Pediatric Patients (6-17 years old) With Psoriatic ArthritisRefer to 2.2 Psoriatic Arthritis; Subcutaneous Pediatric Dosage Regimen.
+Injection Volumes of WEZLANA 45 mg/0.5 mL Single-dose Vials for Pediatric Patients (6–17 years old) with Plaque Psoriasis and Pediatric Patients (6-17 years old) with Psoriatic ArthritisRefer to 2.2 Psoriatic Arthritis; Subcutaneous Pediatric Dosage Regimen.
 Weighing Less Than 60 kg
 
 | Body Weight (kg) at the time of dosing | Dose (mg) | Volume of injection (mL) |
@@ -50,41 +50,41 @@ Weighing Less Than 60 kg
 | 29 | 21.8 | 0.24 |
 | 30 | 22.5 | 0.25 |
 | 31 | 23.3 | 0.26 |
-| 32 | 24 | 0.27 |
+| 32 | 24.0 | 0.27 |
 | 33 | 24.8 | 0.27 |
 | 34 | 25.5 | 0.28 |
 | 35 | 26.3 | 0.29 |
-| 36 | 27 | 0.3 |
+| 36 | 27.0 | 0.30 |
 | 37 | 27.8 | 0.31 |
 | 38 | 28.5 | 0.32 |
 | 39 | 29.3 | 0.32 |
-| 40 | 30 | 0.33 |
+| 40 | 30.0 | 0.33 |
 | 41 | 30.8 | 0.34 |
 | 42 | 31.5 | 0.35 |
 | 43 | 32.3 | 0.36 |
-| 44 | 33 | 0.37 |
+| 44 | 33.0 | 0.37 |
 | 45 | 33.8 | 0.37 |
 | 46 | 34.5 | 0.38 |
 | 47 | 35.3 | 0.39 |
-| 48 | 36 | 0.4 |
+| 48 | 36.0 | 0.40 |
 | 49 | 36.8 | 0.41 |
 | 50 | 37.5 | 0.42 |
 | 51 | 38.3 | 0.42 |
-| 52 | 39 | 0.43 |
+| 52 | 39.0 | 0.43 |
 | 53 | 39.8 | 0.44 |
 | 54 | 40.5 | 0.45 |
 | 55 | 41.3 | 0.46 |
-| 56 | 42 | 0.46 |
+| 56 | 42.0 | 0.46 |
 | 57 | 42.8 | 0.47 |
 | 58 | 43.5 | 0.48 |
 | 59 | 44.3 | 0.49 |
 
-## 2.2 Psoriatic Arthritis
+## 2.2 Recommended Dosage in Psoriatic Arthritis
 
 Subcutaneous Adult Dosage Regimen
 
-- The recommended dose is 45 mg initially and 4 weeks later, followed by 45 mg every 12 weeks.
-- For patients with co-existent moderate-to-severe plaque psoriasis weighing more than 100 kg, the recommended dose is 90 mg initially and 4 weeks later, followed by 90 mg every 12 weeks.
+- The recommended dosage is 45 mg initially and 4 weeks later, followed by 45 mg every 12 weeks.
+- For patients with co-existent moderate-to-severe plaque psoriasis weighing more than 100 kg, the recommended dosage is 90 mg initially and 4 weeks later, followed by 90 mg every 12 weeks.
 
 Subcutaneous Pediatric Dosage Regimen
 
@@ -101,7 +101,7 @@ Recommended Dose of WEZLANA for Subcutaneous Injection in Pediatric Patients (6 
 | 60 kg or more | 45 mg |
 | greater than 100 kg with co-existent moderate-to-severe plaque psoriasis | 90 mg |
 
-## 2.3 Crohn's Disease and Ulcerative Colitis
+## 2.3 Recommended Dosage in Crohn's Disease and Ulcerative Colitis
 
 Intravenous Induction Adult Dosage Regimen
 
@@ -122,19 +122,20 @@ The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 w
 
 ## 2.4 General Considerations for Administration
 
-- WEZLANA is intended for use under the guidance and supervision of a physician.
-  WEZLANA should only be administered to patients who will be closely monitored and have regular follow-up visits with a physician.
+- WEZLANA is intended for use under the guidance and supervision of a healthcare provider.
+  WEZLANA should only be administered to patients who will be closely monitored and have regular follow-up visits with a healthcare provider.
   The appropriate dose should be determined by a healthcare provider using the patient's current weight at the time of dosing.
   In pediatric patients, it is recommended that WEZLANA be administered by a healthcare provider.
-  If a physician determines that it is appropriate, a patient may self-inject, or a caregiver may inject WEZLANA after proper training in subcutaneous injection technique.
-  Patients should be instructed to follow the directions provided in the Medication Guide [see Medication Guide].
+  If a healthcare provider determines that it is appropriate, a patient may self-inject, or a caregiver may inject WEZLANA after proper training in subcutaneous injection technique.
+  Instruct patients to follow the directions provided in the Medication Guide [see Medication Guide].
 - The needle cap on the prefilled syringe does not contain dry natural rubber (a derivative of latex).
+  The prefilled ConfiPen autoinjector is not made with natural rubber latex.
 - It is recommended that each injection be administered at a different anatomic location (such as upper arms, gluteal regions, thighs, or any quadrant of abdomen) than the previous injection, and not into areas where the skin is tender, bruised, erythematous, or indurated.
   When using the single-dose vial, a 1 mL syringe with a 27 gauge, ½ inch needle is recommended.
 - Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   WEZLANA is a clear to opalescent and colorless to light yellow solution.
   Do not use WEZLANA if it is discolored or cloudy, or if other particulate matter is present.
-  WEZLANA does not contain preservatives; therefore, discard any unused product remaining in the vial and/or syringe.
+  WEZLANA does not contain preservatives; therefore, discard any unused product remaining in the ConfiPen autoinjector, vial and/or syringe.
 
 ## 2.5 Instructions for Administration of WEZLANA Prefilled Syringes Equipped with Needle Safety Guard
 
@@ -149,9 +150,13 @@ To prevent premature activation of the needle safety guard, do not touch the NEE
 - Inject all of the medication by pushing in the PLUNGER until the PLUNGER HEAD is completely between the finger grip.
   Injection of the entire prefilled syringe contents is necessary to activate the needle guard.
 - After injection, maintain the pressure on the PLUNGER HEAD and remove the needle from the skin.
-  Slowly take your thumb off the PLUNGER HEAD to allow the empty syringe to move up until the entire needle is covered by the needle guard, as shown by the illustration below: Used syringes should be placed in a puncture-resistant container.
+  Slowly take your thumb off the PLUNGER HEAD to allow the empty syringe to move up until the entire needle is covered by the needle guard, as shown by the illustration below:Used syringes should be placed in a puncture-resistant container.
 
-## 2.6 Preparation and Administration of WEZLANA 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn's Disease and Ulcerative Colitis)
+## 2.6 Instructions for Administration of WEZLANA Prefilled ConfiPen Autoinjector
+
+The WEZLANA single-dose prefilled ConfiPen autoinjector "Instructions for Use" insert contains detailed instructions on preparation, injection site selection, administration and disposal.
+
+## 2.7 Preparation and Administration of WEZLANA 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn's Disease and Ulcerative Colitis)
 
 WEZLANA solution for intravenous infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
 
