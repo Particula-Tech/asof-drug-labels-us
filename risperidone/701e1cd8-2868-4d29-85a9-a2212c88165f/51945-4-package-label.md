@@ -1,6 +1,6 @@
 PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Label
 
-NDC 50458-591-60
+NDC50458-591-60
 
 risperiDONE Tablets
 
@@ -16,7 +16,7 @@ Rx only
 
 PRINCIPAL DISPLAY PANEL - 1 mg Tablet Label
 
-NDC 50458-592-60
+NDC50458-592-60
 
 risperiDONE Tablets
 
@@ -32,7 +32,7 @@ Rx only
 
 PRINCIPAL DISPLAY PANEL - 2 mg Tablet Label
 
-NDC 50458-593-60
+NDC50458-593-60
 
 risperiDONE Tablets
 
@@ -48,7 +48,7 @@ Rx only
 
 PRINCIPAL DISPLAY PANEL - 3 mg Tablet Label
 
-NDC 50458-594-60
+NDC50458-594-60
 
 risperiDONE Tablets
 
@@ -64,7 +64,7 @@ Rx only
 
 PRINCIPAL DISPLAY PANEL - 4 mg Tablet Label
 
-NDC 50458-595-60
+NDC50458-595-60
 
 risperiDONE Tablets
 
@@ -80,7 +80,7 @@ Rx only
 
 PRINCIPAL DISPLAY PANEL - 30 mL Oral Solution Carton
 
-NDC 50458-596-01 30 mL
+NDC50458-596-01 30 mL
 
 risperiDONE Oral Solution
 
@@ -92,7 +92,7 @@ PATRIOT PHARMACEUTICALS LLC
 
 PRINCIPAL DISPLAY PANEL - 0.5 mg Tablet Carton
 
-NDC 50458-601-28 28 TABLETS
+NDC50458-601-28 28 TABLETS
 
 risperiDONE Orally Disintegrating Tablets
 
@@ -108,7 +108,7 @@ PATRIOT PHARMACEUTICALS LLC
 
 PRINCIPAL DISPLAY PANEL - 1 mg Tablet Carton
 
-NDC 50458-602-28 28 TABLETS
+NDC50458-602-28 28 TABLETS
 
 risperiDONE Orally Disintegrating Tablets
 
@@ -124,7 +124,7 @@ PATRIOT PHARMACEUTICALS LLC
 
 PRINCIPAL DISPLAY PANEL - 2 mg Tablet Carton
 
-NDC 50458-603-28 28 TABLETS
+NDC50458-603-28 28 TABLETS
 
 risperiDONE Orally Disintegrating Tablets
 
@@ -140,19 +140,19 @@ PATRIOT PHARMACEUTICALS LLC
 
 PRINCIPAL DISPLAY PANEL - 3 mg Tablet Carton
 
-NDC 50458-604-28
+NDC50458-604-28
 
 risperiDONE Orally Disintegrating Tablets
 
 3 mg
 
-Phenylketonurics: Contains 0.63 mg phenylalanine (a component of aspartame) per 3 mg tablet
+Phenylketonurics:Contains 0.63 mg phenylalanine (a component of aspartame) per 3 mg tablet
 
-Each tablet contains: 3 mg risperidone
+Each tablet contains:3 mg risperidone
 
 Rx Only
 
-Dosage: For information or use, see accompanying full Prescribing Information.
+Dosage:For information or use, see accompanying full Prescribing Information.
 
 Product of Ireland
 
@@ -164,19 +164,19 @@ PATRIOT PHARMACEUTICALS LLC
 
 PRINCIPAL DISPLAY PANEL - 4 mg Tablet Carton
 
-NDC 50458-605-28
+NDC50458-605-28
 
 risperiDONE Orally Disintegrating Tablets
 
 4 mg
 
-Phenylketonurics: Contains 0.84 mg phenylalanine (a component of aspartame) per 4 mg tablet
+Phenylketonurics:Contains 0.84 mg phenylalanine (a component of aspartame) per 4 mg tablet
 
-Each tablet contains: 4 mg risperidone
+Each tablet contains:4 mg risperidone
 
 Rx Only
 
-Dosage: For information or use, see accompanying full Prescribing Information.
+Dosage:For information or use, see accompanying full Prescribing Information.
 
 Product of Ireland
 

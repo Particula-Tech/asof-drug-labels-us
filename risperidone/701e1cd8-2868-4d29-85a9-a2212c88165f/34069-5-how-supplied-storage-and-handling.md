@@ -39,12 +39,12 @@ Risperidone Orally Disintegrating Tablets 3 mg and 4 mg are packaged in a child-
 
 ## 16.2 Storage and Handling
 
-Risperidone Tablets should be stored at controlled room temperature 15°–25°C (59°–77°F).
+Risperidone Tablets should be stored at controlled room temperature 15 °C to 25 °C (59 °F to 77 °F).
 Protect from light and moisture.
 
-Risperidone 1 mg/mL Oral Solution should be stored at controlled room temperature 15°–25°C (59°–77°F).
+Risperidone 1 mg/mL Oral Solution should be stored at controlled room temperature 15 °C to 25 °C (59 °F to 77 °F).
 Protect from light and freezing.
 
-Risperidone Orally Disintegrating Tablets should be stored at controlled room temperature 15°–25°C (59°–77°F).
+Risperidone Orally Disintegrating Tablets should be stored at controlled room temperature 15 °C to 25 °C (59 °F to 77 °F).
 
 Keep out of reach of children.
