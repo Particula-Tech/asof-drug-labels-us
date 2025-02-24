@@ -461,3 +461,232 @@ Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 913
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 Issued 10/2023
+
+# INSTRUCTIONS FOR USE WEZLANA™ [wez-LAH-nah] (ustekinumab-auub) injection, for subcutaneous use single-dose prefilled ConfiPen™ autoinjector
+
+This Instructions for Use contains information on how to inject WEZLANA with an ConfiPen autoinjector.
+
+The medicine in the WEZLANA autoinjector is for injection under-the-skin (subcutaneous injection).
+See the WEZLANA Medication Guide for information about WEZLANA.
+
+| Getting to know the prefilled autoinjector |
+| --- |
+
+Important Information You Need to Know Before Injecting WEZLANA
+
+Dosing:
+
+- WEZLANA comes in two different doses: 45 mg and 90 mg.
+  Check the prescription to make sure you have the correct dose.
+- The label color and window size of the autoinjector will be different for each dose.
+  The amount of medicine in the autoinjector will also be different for each dose.
+
+|  | 45 mg | 90 mg |  |
+| --- | --- | --- | --- |
+
+| Important: If the dose is 90 mg, you will receive either one 90 mg autoinjector or two 45 mg autoinjectors. –If you receive two 45 mg autoinjectors for a 90 mg dose, you will need to give a second injection right after the first.–Repeat Steps 1-16 for the second injection using a new autoinjector.–Choose a different site for the second injection. |
+| --- |
+
+Using your WEZLANA ConfiPen autoinjector:
+
+- It is important that you do not try to give the injection until you have fully read and understood this Instructions for Use.
+- If your doctor decides that you or a caregiver can give your WEZLANA injection at home, you should receive training on the right way to prepare and inject WEZLANA.
+  Do not try to inject WEZLANA yourself until you have been shown the right way to give the injections by your doctor or nurse.
+- Children 12 years of age and older with psoriasis who weigh 132 pounds or more may use an autoinjector under supervision of a parent or caregiver.
+- Do not use the autoinjector if the carton is damaged or the seal is broken.
+- Do not use the autoinjector after the expiration date on the label.
+- Do not shake the autoinjector.
+- Do not remove the cap from the autoinjector until you are ready to inject.
+- Do not use the autoinjector if it has been frozen.
+- Do not use the autoinjector if it has been dropped on a hard surface.
+  Part of the autoinjector may be broken even if you cannot see the break.
+  Use a new autoinjector, and call 1-800-77-AMGEN (1-800-772-6436).
+- The autoinjector is not made with natural rubber latex.
+
+| Important: Keep the autoinjector and sharps disposal container out of the sight and reach of children. |
+| --- |
+
+Frequently asked questions:
+
+For additional information and answers to frequently asked questions, visit www.WEZLANA.com.
+
+Where to get help:
+
+If you want more information or help using WEZLANA:
+
+- Contact your healthcare provider,
+- Visit www.WEZLANA.com, or
+- Call 1-800-77-AMGEN (1-800-772-6436).
+
+Storing and Preparing to Inject WEZLANA
+
+1 Refrigerate the autoinjector carton until you are ready to use it.
+
+- Keep the autoinjector in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Keep the autoinjector in the original carton to protect it from light or physical damage.
+- Do not freeze the autoinjector.
+- Do not store the autoinjector in extreme heat or cold.
+  For example, avoid storing in your vehicle's glove box or trunk.
+
+| Important: Keep the autoinjector out of the sight and reach of children. |
+| --- |
+
+| WAIT |
+| --- |
+
+2 Wait 30 minutes for the autoinjector to reach room temperature.
+
+- Remove the number of autoinjectors you need for the injection from the refrigerator.
+- Let the autoinjector warm up naturally.
+- Do not heat the autoinjector with hot water, a microwave, or direct sunlight.
+- Do not put the autoinjector back in the refrigerator once it reaches room temperature.
+- Do not shake the autoinjector at any time.
+- Using the autoinjector at room temperature ensures the full dose is delivered and allows for a more comfortable injection.
+
+3 You may keep WEZLANA at room temperature for up to 30 days, if needed.
+
+- For example, when you are traveling, you may keep WEZLANA at room temperature.
+- Keep it at room temperature between 68°F to 77°F (20°C to 25°C).
+- Do not use if it has been stored above 86°F (30°C).
+- Record the date you removed it from the refrigerator and use within 30 days.
+
+| Important: Place the autoinjector in a sharps disposal container if it has reached room temperature and has not been used within 30 days. |
+| --- |
+
+4 Inspect the medicine.
+It should be clear to white like an opal and colorless to light yellow.
+
+- It is okay to see air bubbles.
+- Do not use WEZLANA if the medicine is cloudy, discolored, or has particles.
+
+5 Check the expiration date (Exp.) and inspect the autoinjector for damage.
+
+- Do not use the autoinjector if the expiration date has passed.
+- Do not use the autoinjector if:
+  - –the cap is missing or loose,
+  - –it has cracks or broken parts, or
+  - –it has been dropped on a hard surface.
+- Make sure you have the right medicine and dose.
+
+| Important: If the medicine is cloudy, discolored, or has particles, or if the autoinjector is damaged or expired, call 1-800-77-AMGEN (1-800-772-6436). |
+| --- |
+
+Getting Ready to Inject WEZLANA
+
+6 Gather and place the following items for the injection on a clean, flat, and well-lit surface:
+
+- WEZLANA autoinjector (room temperature),
+- Sharps disposal container [see Disposing of WEZLANA and Checking the Injection Site]
+- Alcohol wipe,
+- Adhesive bandage, and
+- Cotton ball or gauze pad.
+
+7 Select 1 of these injection locations.
+
+- Select the front of your thigh or stomach (except for 2 inches around your belly button).
+- Someone else can inject in your thigh, stomach, back of your upper arm, or buttocks.
+
+| Important: Avoid areas with scars, stretch marks or where the skin is tender, bruised, red, or hard. |
+| --- |
+
+8 Wash your hands thoroughly with soap and water.
+
+9 Clean the injection site with an alcohol wipe.
+
+- Let the skin dry on its own.
+- Do not touch this area again before injecting.
+
+Injecting WEZLANA
+
+| Important: Only remove the cap when you can inject right away (within 5 minutes) because the medicine can dry out. Do not recap. |
+| --- |
+
+10 Pull hard or twist to remove the cap.
+Never put the cap back on as it may damage the needle.
+
+- It is normal to see a drop of medicine come out of the needle or yellow safety guard.
+
+| Important: Do not touch or push the yellow safety guard. Do not put your finger inside of the yellow safety guard. |
+| --- |
+
+11 Pinch the skin to create a firm surface at the injection site.
+Place the yellow safety guard straight against the pinched skin.
+
+- Keep the skin pinched until the injection is finished.
+- Make sure you can see the window.
+- Make sure the autoinjector is positioned straight on the injection site (at a 90-degree angle).
+
+| PUSH & HOLD down to start injection |
+| --- |
+
+12 Firmly push the autoinjector down until the yellow safety guard stops moving.
+Hold the autoinjector down, do not lift.
+
+- The needle will insert and the injection begins.
+- You may hear or feel a click.
+- Hold the autoinjector straight and steady on the skin.
+
+| WATCH until COMPLETE window will turn fully yellow |
+| --- |
+
+13 Keep pushing down the autoinjector.
+Wait for the window to turn fully yellow.
+
+- The injection can take up to 15 seconds to complete.
+  You may hear or feel a click.
+- After the window turns fully yellow, lift the autoinjector away from the skin.
+
+Completing the Injection
+
+| CONFIRM |
+| --- |
+
+14 Confirm a full dose of medicine was injected.
+
+- Do not touch the yellow safety guard.
+- A small amount of liquid on the injection site is okay.
+
+| Important: If the window has not turned fully yellow, if it looks like the medicine is still coming out, or if you see several drops of medicine, a full dose was not injected. Call your healthcare provider immediately. |
+| --- |
+
+15 Check the injection site.
+
+- Do not rub the injection site.
+- If there is blood, press a cotton ball or gauze pad on the injection site.
+- Apply an adhesive bandage if necessary.
+
+16 Place the used autoinjector and cap in an FDA-cleared sharps disposal container.
+
+| Important: Do not throw away the autoinjector in your household trash. |
+| --- |
+
+- Do not reuse the autoinjector.
+- Do not touch the yellow safety guard.
+
+Additional information about your sharps disposal container
+
+If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
+
+- made of a heavy-duty plastic,
+- can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+- upright and stable during use,
+- leak-resistant, and
+- properly labeled to warn of hazardous waste inside the container.
+
+Disposing of sharps containers:
+
+When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+
+There may be state or local laws about how you should throw away used needles and syringes.
+
+For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at:
+
+https://www.fda.gov/safesharpsdisposal
+
+Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+
+Do not recycle your used sharps disposal container.
+
+For more information or help call 1-800-77-AMGEN (1-800-772-6436).
+
+Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 US License Number 1080 ©2024 Amgen Inc. All rights reserved. nnnnnnnn Issued 12/2024 v1

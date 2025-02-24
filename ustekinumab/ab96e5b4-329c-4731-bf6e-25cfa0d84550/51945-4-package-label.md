@@ -105,3 +105,55 @@ Contains 1 Single-dose Vial Discard unused portion Sterile Solution - No Preserv
 Rx Only
 
 AMGEN®
+
+# PRINCIPAL DISPLAY PANEL - 45 mg/0.5 mL Autoinjector Carton Label
+
+45 mg/0.5 mL
+
+Single-dose prefilled ConfiPen™ Autoinjector
+
+AMGEN®
+
+NDC 55513-102-01
+
+WEZLANA™ (ustekinumab-auub) Injection
+
+Refrigerate until ready to use
+
+45 mg/0.5 mL For Subcutaneous Use Only ATTENTION: Enclosed Medication Guide is required for each patient.
+
+Sterile Solution - No Preservative
+
+Store refrigerated at 2°C to 8°C (36°F to 46°F).
+See side panel for additional storage information. i See full prescribing information and Instructions for Use.
+1 Single-dose prefilled ConfiPen™ Autoinjector.
+Discard after use.
+Do not re-use
+
+Rx Only
+
+# PRINCIPAL DISPLAY PANEL - 90 mg/mL Autoinjector Carton Label
+
+90 mg/mL
+
+Single-dose prefilled ConfiPen™ Autoinjector
+
+AMGEN®
+
+NDC 55513-114-01
+
+WEZLANA™ (ustekinumab-auub) Injection
+
+Refrigerate until ready to use
+
+90 mg/mL For Subcutaneous Use Only ATTENTION: Enclosed Medication Guide is required for each patient.
+
+Sterile Solution - No Preservative
+
+Store refrigerated at 2°C to 8°C (36°F to 46°F).
+See side panel for additional storage information. i See full prescribing information and Instructions for Use.
+1 Single-dose prefilled ConfiPen™ Autoinjector.
+Discard after use.
+Do not re-use
+
+Rx Only

@@ -1,12 +1,12 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Psoriasis (Ps)
+## 1.1 Plaque Psoriasis (PsO)
 
-WEZLANA is indicated for the treatment of patients 6 years or older with moderate to severe plaque psoriasis who are candidates for phototherapy or systemic therapy.
+WEZLANA is indicated for the treatment of adults and pediatric patients 6 years of age and older with moderate to severe plaque psoriasis who are candidates for phototherapy or systemic therapy.
 
 ## 1.2 Psoriatic Arthritis (PsA)
 
-WEZLANA is indicated for the treatment of patients 6 years or older with active psoriatic arthritis.
+WEZLANA is indicated for the treatment of adults and pediatric patients 6 years of age and older with active psoriatic arthritis.
 
 ## 1.3 Crohn's Disease (CD)
 
