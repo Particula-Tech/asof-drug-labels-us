@@ -14,7 +14,7 @@ WARNING: Do not use if blisters are torn, broken or missing.
 
 This unit-dose package is not child-resistant.
 
-SANDOZ A Novartis Division
+SANDOZ
 
 # PRINCIPAL DISPLAY PANEL
 
@@ -32,7 +32,7 @@ WARNING: Do not use if blisters are torn, broken or missing.
 
 This unit-dose package is not child-resistant.
 
-SANDOZ A Novartis Division
+SANDOZ
 
 # Package/Label Display Panel
 
@@ -50,7 +50,7 @@ WARNING: Do not use if blisters are torn, broken or missing.
 
 This unit-dose package is not child-resistant.
 
-SANDOZA Novartis Division
+SANDOZ
 
 # Package/Label Display Panel
 
@@ -71,7 +71,7 @@ The two capsules in this package are to be taken on Days 2 and 3.
 
 For Adults and Pediatric Patients 12 years of age and Older.
 
-SANDOZ A Novartis Division
+SANDOZ
 
 # Package/Label Display Panel
 
@@ -89,7 +89,7 @@ WARNING: Do not use if blisters are torn, broken or missing.
 
 This unit-dose package is not child-resistant.
 
-SANDOZ A Novartis Division
+SANDOZ
 
 # Package/Label Display Panel
 
@@ -113,4 +113,4 @@ One 125 mg capsule contains 125 mg aprepitant
 
 Two 80 mg capsules each containing 80 mg aprepitant
 
-SANDOZ A Novartis Division
+SANDOZ
