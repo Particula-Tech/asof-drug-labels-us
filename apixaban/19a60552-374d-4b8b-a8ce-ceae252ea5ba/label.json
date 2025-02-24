@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA209810"
+  ],
+  "inn": "apixaban",
+  "labeler": "Amneal Pharmaceuticals of New York LLC",
+  "package_ndcs": [
+    "0115-1721-01",
+    "0115-1721-03",
+    "0115-1721-13",
+    "0115-1721-15",
+    "0115-1722-01",
+    "0115-1722-03",
+    "0115-1722-13",
+    "0115-1722-15"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "apixaban",
+      "name": "Apixaban"
+    }
+  ],
+  "setid": "19a60552-374d-4b8b-a8ce-ceae252ea5ba",
+  "source": "dailymed"
+}
