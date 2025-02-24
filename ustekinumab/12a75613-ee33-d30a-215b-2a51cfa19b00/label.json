@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "BLA761406"
+  ],
+  "inn": "ustekinumab",
+  "labeler": "Biocon Biologics Inc.",
+  "package_ndcs": [
+    "83257-023-41",
+    "83257-024-11",
+    "83257-025-41",
+    "83257-026-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ustekinumab",
+      "name": "YESINTEK"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "ustekinumab",
+      "name": "YESINTEK"
+    }
+  ],
+  "setid": "12a75613-ee33-d30a-215b-2a51cfa19b00",
+  "source": "dailymed"
+}
