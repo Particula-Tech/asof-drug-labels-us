@@ -27,7 +27,7 @@ Advise patients with a pre-existing low WBC or a history of drug induced leukope
 Hyperprolactinemia
 
 Counsel patients on signs and symptoms of hyperprolactinemia that may be associated with chronic use of risperidone.
-Advise them to seek medical attention if they experience any of the following: amenorrhea or galactorrhea in females, erectile dysfunction or gynecomastia in males [See Warnings and Precautions (5.6)].
+Advise them to seek medical attention if they experience any of the following: amenorrhea or galactorrhea in females, erectile dysfunction or gynecomastia in males [see Warnings and Precautions (5.6)].
 
 Interference with Cognitive and Motor Performance
 
@@ -65,11 +65,7 @@ Infertility
 Advise females of reproductive potential that risperidone may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-06-2023-10
+02-2025-11

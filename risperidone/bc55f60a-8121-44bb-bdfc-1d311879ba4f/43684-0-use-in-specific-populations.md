@@ -22,7 +22,7 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
 Disease-associated maternal and/or embryo/fetal risk
 
@@ -37,7 +37,7 @@ These symptoms have varied in severity.
 Monitor neonates for extrapyramidal and/or withdrawal symptoms and manage symptoms appropriately.
 Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
 
-Data
+### Data
 
 Human Data
 
@@ -70,7 +70,7 @@ There are reports of sedation, failure to thrive, jitteriness, and extrapyramida
 There is no information on the effects of risperidone on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for risperidone and any potential adverse effects on the breastfed child from risperidone or from the mother's underlying condition.
 
-Clinical Considerations
+### Clinical Considerations
 
 Infants exposed to risperidone through breast milk should be monitored for excess sedation, failure to thrive, jitteriness, and extrapyramidal symptoms (tremors and abnormal muscle movements).
 

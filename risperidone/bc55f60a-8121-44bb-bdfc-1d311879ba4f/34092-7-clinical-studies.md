@@ -73,7 +73,7 @@ Results of this study demonstrated efficacy of risperidone in both dose groups c
 The efficacy on the primary parameter in the 3 mg/day to 6 mg/day dose group was comparable to the 0.5 mg/day to 2.5 mg/day dose group.
 Doses higher than 2.5 mg/day did not reveal any trend towards greater efficacy.
 
-## 14.3 Bipolar Mania – Adjunctive Therapy with Lithium or Valproate
+## 14.3 Bipolar Mania - Adjunctive Therapy with Lithium or Valproate
 
 The efficacy of risperidone with concomitant lithium or valproate in the treatment of acute manic or mixed episodes was established in one controlled trial in adult patients who met the DSM-IV criteria for Bipolar I Disorder.
 This trial included patients with or without psychotic features and with or without a rapid-cycling course.

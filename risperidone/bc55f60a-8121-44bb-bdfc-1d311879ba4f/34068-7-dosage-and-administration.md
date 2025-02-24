@@ -3,7 +3,7 @@
 Table 1.
 Recommended Daily Dosage by Indication
 
-|  | Initial Dose | Titration(Increments) | Target Dose | Effective DoseRange |
+|  | Initial Dose | Titration (Increments) | Target Dose | Effective Dose Range |
 | --- | --- | --- | --- | --- |
 | Schizophrenia: adults (2.1) | 2 mg | 1 mg to 2 mg | 4 mg to 8 mg | 4 mg to 16 mg |
 | Schizophrenia:adolescents (2.2) | 0.5 mg | 0.5 mg to 1 mg | 3 mg | 1 mg to 6 mg |
