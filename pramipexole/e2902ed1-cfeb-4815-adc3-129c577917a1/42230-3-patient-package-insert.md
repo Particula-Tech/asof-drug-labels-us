@@ -176,6 +176,6 @@ MIRAPEX is a registered trademark of and used under license from Boehringer Inge
 
 Copyright © 2024 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-Revised: 6/2024
+Revised: 7/2024
 
-COL9694BF072024
+COL9694CG092024

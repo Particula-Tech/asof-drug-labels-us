@@ -8,4 +8,4 @@ Address medical inquiries to: 1-800-542-6257.
 
 Copyright © 2024 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL9694BF072024 SPL9696E
+COL9694CG092024 SPL9696F

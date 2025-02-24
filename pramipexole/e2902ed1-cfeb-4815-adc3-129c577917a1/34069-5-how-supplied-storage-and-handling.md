@@ -14,11 +14,6 @@ MIRAPEX ER tablets are available as follows:
 |  | Unit of Use Bottles of 30 | NDC 0597-0285-30 |
 | --- | --- | --- |
 
-1.5 mg: white to off-white, oval, extended-release tablets debossed with "ER" on one side and "1.5" on the other side.
-
-|  | Unit of Use Bottles of 30 | NDC 0597-0113-30 |
-| --- | --- | --- |
-
 2.25 mg: white to off-white, oval, extended-release tablets debossed with "ER" on one side and "2.25" on the other side.
 
 |  | Unit of Use Bottles of 30 | NDC 0597-0286-30 |
@@ -32,11 +27,6 @@ MIRAPEX ER tablets are available as follows:
 3.75 mg: white to off-white, oval, extended-release tablets debossed with "ER" on one side and "3.75" on the other side.
 
 |  | Unit of Use Bottles of 30 | NDC 0597-0287-30 |
-| --- | --- | --- |
-
-4.5 mg: white to off-white, oval, extended-release tablets debossed with "ER" on one side and "4.5" on the other side.
-
-|  | Unit of Use Bottles of 30 | NDC 0597-0116-30 |
 | --- | --- | --- |
 
 ## 16.2 Storage and Handling
