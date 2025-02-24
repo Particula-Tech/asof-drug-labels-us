@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA761373",
+    "BLA761425"
+  ],
+  "inn": "ustekinumab",
+  "labeler": "SANDOZ INC",
+  "package_ndcs": [
+    "61314-651-01",
+    "61314-652-01",
+    "61314-654-94"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ustekinumab-ttwe",
+      "name": "PYZCHIVA"
+    }
+  ],
+  "setid": "e8a14922-7902-4d9f-8ba5-d91dccffed29",
+  "source": "dailymed"
+}
