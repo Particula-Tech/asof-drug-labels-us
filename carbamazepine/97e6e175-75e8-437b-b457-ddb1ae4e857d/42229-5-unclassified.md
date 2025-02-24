@@ -12,7 +12,7 @@ A low initial daily dosage with a gradual increase is advised.
 As soon as adequate control is achieved, the dosage may be reduced very gradually to the mini mum effective level.
 Medication should be taken with meals.
 
-Conversion of patients from oral carbamazepine tablets to carbamazepine suspension: Patients should be converted by administering the same number of mg per day in smaller, more frequent doses (i.e., twice a day. tablets to three times a day suspension).
+Conversion of patients from oral carbamazepine tablets to Tegretol suspension: Patients should be converted by administering the same number of mg per day in smaller, more frequent doses (i.e., twice a day. tablets to three times a day suspension).
 
 Epilepsy (SEE INDICATIONS AND USAGE)
 
