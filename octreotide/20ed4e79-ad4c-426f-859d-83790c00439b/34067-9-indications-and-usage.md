@@ -2,18 +2,16 @@
 
 ## 1.1 Acromegaly
 
-BYNFEZIA Pen is indicated to reduce blood levels of growth hormone (GH) and insulin-like growth factor 1 (IGF-1) [somatomedin C] in adult patients with acromegaly who have had inadequate response to or cannot be treated with surgical resection, pituitary irradiation, and bromocriptine mesylate at maximally tolerated doses.
+BYNFEZIA PEN is indicated to reduce blood levels of growth hormone (GH) and insulin gro wth factor-1 (I GF-1; somatomedin C) in acromegaly patients who have had inadequate response to or cannot be treated with surgical resection, pituitary irradiation, and bromocriptine mesylate at maximally tolerated doses.
 
 ## 1.2 Carcinoid Tumors
 
-BYNFEZIA Pen is indicated for the treatment of adult patients with severe diarrhea and flushing episodes associated with metastatic carcinoid tumors.
+BYNFEZIA PEN is indicated for treat ment of severe diarrhea and flushing episodes associated with metastatic carcinoid tumors.
 
-## 1.3 Vasoactive Intestinal Peptide Tumors (VIPomas)
+## 1.3 Vasoactive Intestinal Peptide Tumors
 
-BYNFEZIA Pen is indicated for the treatment of adult patients with the profuse watery diarrhea associated with VIP-secreting tumors.
+BYNFEZIA PEN is indicated for the treat ment of the profuse watery diarrhea associated with vasoactive intestinal peptide tumors (VIPomas)-secreting tu mors.
 
-## 1.4 Limitations of Use
+## 1.4 Important Limitations of Use
 
-In patients with acromegaly, the effect of BYNFEZIA Pen on improvement in clinical signs and symptoms, reduction in tumor size, and rate of growth has not been determined.
-
-In patients with carcinoid syndrome and VIPomas, the effect of BYNFEZIA Pen on the tumor size, rate of growth and development of metastases has not been determined.
+Improvement in clinical signs and symptoms, or reduction in tumor size or rate of growth, were not shown in clinical trials performed with octreotide injection; these trials were not optimally designed to detect such effects.

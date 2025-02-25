@@ -1,40 +1,46 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Cholelithiasis and Complications of Cholelithiasis
-
-BYNFEZIA Pen may inhibit gallbladder contractility and decrease bile secretion, which may lead to gallbladder abnormalities or sludge.
-There have been postmarketing reports of cholelithiasis (gallstones) resulting in complications, including cholecystitis, cholangitis, pancreatitis and requiring cholecystectomy in patients taking octreotide [see Adverse Reactions (6)].
-Patients should be monitored periodically.
-If complications of cholelithiasis are suspected, discontinue BYNFEZIA Pen and treat appropriately.
-
-## 5.2 Hyperglycemia and Hypoglycemia
-
-BYNFEZIA Pen alters the balance between the counter-regulatory hormones, insulin, glucagon and growth hormone, which may result in hypoglycemia, hyperglycemia, or overt diabetes mellitus.
-In patients with acromegaly, 3% developed hypoglycemia and 16% developed hyperglycemia during treatment with octreotide.
-Severe hyperglycemia, subsequent pneumonia, and death following initiation of octreotide was reported in one patient with no history of hyperglycemia [see Adverse Reactions (6)].
-
-In patients with type 1 diabetes mellitus, BYNFEZIA Pen is likely to affect glucose regulation, and insulin requirements may be reduced.
-Symptomatic hypoglycemia, sometimes severe, has been reported in these patients.
-In patients without diabetes and patients with type 2 diabetes with partially intact insulin reserves, BYNFEZIA Pen may result in decreases in plasma insulin levels and hyperglycemia.
-Monitor glycemic control for all patients and adjust antidiabetic treatment as necessary.
-
-## 5.3 Thyroid Function Abnormalities
-
-BYNFEZIA Pen suppresses secretion of thyroid stimulating hormone, which may result in hypothyroidism.
-In patients with acromegaly, 12% developed biochemical hypothyroidism, 8% developed goiter, and 4% required initiation of thyroid replacement therapy while receiving octreotide.
-Assess thyroid function at baseline and periodically during treatment with BYNFEZIA Pen [see Adverse Reactions (6)].
-
-## 5.4 Cardiac Function Abnormalities
+## 5.1 Cardiac Conduction Abnormalities
 
 Cardiac conduction abnormalities have occurred during treatment with octreotide.
-In patients with acromegaly, bradycardia (<50 bpm) developed in 25%, conduction abnormalities occurred in 10% and arrhythmias occurred in 9% of patients during treatment with octreotide.
-Other ECG changes observed included QT prolongation, axis shifts, early repolarization, low voltage, R/S transition, and early R wave progression.
-These ECG changes may occur in patients with acromegaly.
-In one patient with acromegaly and severe congestive heart failure (CHF), initiation of octreotide resulted in worsening of CHF with improvement when drug was discontinued and worsened when octreotide was restarted [see Adverse Reactions (6)].
-Dosage adjustments of concomitantly used drugs that have bradycardia effects (i.e. beta-blockers) may be necessary [see Drug Interactions (7.4)].
+In acromegalic patients, bradycardia (< 50 bpm) developed in 25%; conduction abnormalities occurred in 10% and arrhythmias occurred in 9% of patients during octreotide therapy [see Adverse Reactions (6)].
+Other electrocardiogram (ECG) changes observed included QT prolongation, axis shifts, early repolarization, low voltage, R/S transition, and early R-wave progression.
+These ECG changes are not uncommon in acromegalic patients.
+Dose adjustments in drugs such as beta-blockers that have bradycardia effects may be necessary.
+In one acromegalic patient with severe congestive heart failure (CHF), initiation of octreotide therapy resulted in worsening of CHF with improvement when drug was discontinued.
+Confirmation of a drug effect was obtained with a positive rechallenge.
 
-## 5.5 Decreased Vitamin B12 Levels and Abnormal Schilling's Tests
+## 5.2 Cholelithiasis and Complications of Cholelithiasis
 
-BYNFEZIA Pen may alter absorption of dietary fats in some patients.
-Decreased vitamin B12 levels and abnormal Schilling’s tests have been observed in some patients receiving octreotide.
-Monitor vitamin B12 levels during treatment with BYNFEZIA Pen.
+BYNFEZIA PEN may inhibit gallbladder contractility and decrease bile secretion, which may lead to gallbladder abnormalities or sludge.
+Acute cholecystitis, ascending cholangitis, biliary obstruction, cholestatic hepatitis, or pancreatitis have been reported with octreotide therapy.
+In clinical trials (primarily patients with acromegaly or psoriasis), the incidence of biliary tract abnormalities was 63% (27% gallstones, 24% sludge without stones, 12% biliary duct dilatation).
+The incidence of stones or sludge in patients who received octreotide for 12 months or longer was 52%.
+Less than 2% of patients treated with octreotide for 1 month or less developed gallstones.
+One patient developed ascending cholangitis during octreotide therapy and died.
+If complications of cholelithiasis are suspected, discontinue BYNFEZIA PEN and treat appropriately.
+
+## 5.3 Hyperglycemia and Hypoglycemia
+
+BYNFEZIA PEN alters the balance between the counter-regulatory hormones, insulin, glucagon and GH, which may result in hypoglycemia or hyperglycemia.
+The hypoglycemia or hyperglycemia which occurs during octreotide therapy is usually mild but may result in overt diabetes mellitus or necessitate dose changes in insulin or other anti-diabetic agents.
+Hypoglycemia and hyperglycemia occurred on octreotide in 3% and 16% of acromegalic patients, respectively [see Adverse Reactions (6)].
+Severe hyperglycemia, subsequent pneumonia, and death following initiation of octreotide therapy was reported in one patient with no history of hyperglycemia.
+
+Monitor glucose levels during BYNFEZIA PEN therapy.
+Adjust dosing of insulin or other anti-diabetic therapy accordingly.
+
+## 5.4 Thyroid Function Abnormalities
+
+Octreotide suppresses secretion of thyroid stimulating hormone (TSH), which may result in hypothyroidism.
+Baseline and periodic assessment of thyroid function (TSH, total, and/or free T4) is recommended during chronic therapy [see Adverse Reactions (6)].
+
+## 5.5 Steatorrhea and Malabsorption of Dietary Fats
+
+New onset steatorrhea, stool discoloration and loose stools have been reported in patients receiving somatostatin analogs, including octreotide.
+Somatostatin analogs reversibly inhibit secretion of pancreatic enzymes and bile acids, which may result in malabsorption of dietary fats and subsequent symptoms of steatorrhea, loose stools, abdominal bloating, and weight loss.
+If new occurrence or worsening of these symptoms are reported in patients receiving octreotide, evaluate patients for potential pancreatic exocrine insufficiency and manage accordingly.
+
+## 5.6 Changes in Vitamin B12 Levels
+
+Depressed vitamin B12 levels and abnormal Schilling’s tests have been observed in some patients receiving octreotide therapy and monitoring of vitamin B12 levels is recommended during BYNFEZIA PEN therapy.

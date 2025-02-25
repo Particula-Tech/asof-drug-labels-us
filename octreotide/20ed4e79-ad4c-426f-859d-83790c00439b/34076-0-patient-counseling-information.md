@@ -1,30 +1,26 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Instructions for Use).
+Advise patient and/or caregivers to read the FDA-approved patient labeling (Instructions for Use).
+
+Sterile Subcutaneous Injection Technique
+
+Careful instruction in sterile subcutaneous injection technique should be given to the patients and to other persons who may administer BYNFEZIA PEN.
 
 Cholelithiasis and Complications of Cholelithiasis
 
-Advise patients to contact their healthcare provider if they experience signs or symptoms of gallstones (cholelithiasis) or complications of cholelithiasis (e.g., cholecystitis, cholangitis and pancreatitis) [see Warnings and Precautions (5.1)].
+Advise patients to contact their healthcare provider if they experience signs or symptoms of gallstones (cholelithiasis) or complications of cholelithiasis (e.g., cholecystitis, cholangitis, and pancreatitis) [see Warnings and Precautions (5.2)].
 
-Hypoglycemia and Hyperglycemia
+Steatorrhea and Malabsorption of Dietary Fats
 
-Advise patients to contact their healthcare provider if they have problems with blood sugar levels, either too high (hyperglycemia) or too low (hypoglycaemia) [see Warnings and Precautions (5.2)].
+Advise patients to contact their healthcare provider if they experience new or worsening of steatorrhea, stool
 
-Thyroid Function Abnormalities
-
-Inform patients that their thyroid function will be assessed at baseline and periodically during treatment [see Warnings and Precautions (5.3)].
-
-Cardiac Function Abnormalities
-
-Inform patients to contact the health care provider in case they notice irregular heart beat [see Warnings and Precautions (5.4)].
-
-Decreased Vitamin B12 Levels and Abnormal Schilling’s Tests
-
-Inform patients that Vitamin B12 levels may be monitored during the treatment [see Warnings and Precautions (5.5)].
+discoloration, loose stools, abdominal bloating, and weight loss [see Warnings and Precautions (5.5)].
 
 Pregnancy
 
-Inform female patients that treatment with BYNFEZIA Pen may result in unintended pregnancy [see Use in Specific Populations (8.3)].
+Inform female patients that treatment with BYNFEZIA PEN may result in unintended pregnancy [see Use in Specific Populations (8.3)].
+
+All trademarks are the property of their respective owners.
 
 Distributed by:
 
@@ -32,12 +28,5 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-Manufactured by:
-
-Sun Pharmaceutical Industries Ltd.
-
-Halol-Baroda Highway,
-
-Halol-389 350, Gujarat, India
-
-Revised: 04/2020
+Manufactured by: Sun Pharmaceutical Industries Ltd., India At M/s.
+OneSource Specialty Pharma Limited Plot No. 2-D1, Obadenahalli, Doddaballapura, 3rd Phase, Industrial Area, Doddaballapura Taluk, Bengaluru Rural, 561203, Karnataka INDIA

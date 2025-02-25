@@ -1,38 +1,32 @@
 # INSTRUCTIONS FOR USE
 
-INSTRUCTIONS FOR USE
+BYNFEZIA PEN® (ben-FEZ-ee-uh PEN)
 
-Bynfezia Pen (ben-FEZ-ee-uh PEN)
+(octreotide acetate) Prefilled Pen
 
-(octreotide acetate)
-
-Prefilled Pen
-
-Read these instructions before you start using the Bynfezia Pen.
+Read these instructions before you start using the BYNFEZIA PEN.
 It is important that you understand and follow these instructions to use the pen correctly.
-Bynfezia Pen is a prefilled pen that you or your caregiver can use to give more than 1 dose of medicine.
-
-Ask your healthcare provider about your dose of Bynfezia Pen and how to inject Bynfezia Pen the right way before you inject it for the first time.
-If your healthcare provider decides that you or your caregiver can give your Bynfezia Pen at home, you or your caregiver should receive training on how to use the pen.
-
+BYNFEZIA PEN is a prefilled pen that you or your caregiver can use to give more than 1 dose of medicine.
+Ask your healthcare provider about your dose of BYNFEZIA PEN and how to inject BYNFEZIA PEN the right way before you inject it for the first time.
+If your healthcare provider decides that you or your caregiver can give your BYNFEZIA PEN at home, you or your caregiver should receive training on how to use the pen.
 Contact your healthcare provider if you or your caregiver have any questions.
 
 | Important |  |  |
 | --- | --- | --- |
-| Do not use a pen for more than 28 days after first use. After 28 days throw away (dispose of) the pen, even if the pen still has medicine in it.Do not place the pen in water or any other liquid.Keep your pen and needles out of the reach of children.Do not use if any part of your pen appears broken or damaged.If you drop your pen, prime it before you use it again to make sure the pen still works correctly (see step 3. Prime Your Pen).Do not take Bynfezia Pen solution out of the pen and put it into a syringe.Do not share your pen or needles with another person. You may give an infection to them or get an infection from them.Do not remove the outer needle cover or inner needle cover until you are ready to inject.Do not press the injection button unless a needle is attached to the pen. |  |  |
-| How should I store my Bynfezia Pen? |  |  |
-| Before First Use: Store new unused pens in the refrigerator between 36°F to 46°F (2°C to 8°C) in the carton.Protect the pen from light.Do not freeze. Throw away (dispose of) the pen if it has been frozen.Do not store the pen in direct sunlight. After First Use or During Use: Store the pen at room temperature between 68°F to 77°F (20°C to 25°C) for up to 28 days.Store the pen with the pen cap on.Throw away (dispose of) the pen 28 days after first use in a sharps container, even if the pen still has medicine in it (see step 6. Additional Disposal Information).Do not store a pen with a needle attached. |  |  |
+| • Do not use a pen for more than 28 days after first use. After 28 days throw away (dispose of) the pen, even if the pen still has medicine in it. • Do not place the pen in water or any other liquid. • Keep your pen and needles out of the reach of children. • Do not use if any part of your pen appears broken or damaged. • If you drop your pen, prime it before you use it again to make sure the pen still works correctly (see step 3. Prime Your Pen). • Do not take BYNFEZIA PEN solution out of the pen and put it into a syringe. • Do not share your pen or needles with another person. You may give an infection to them or get an infection from them. • Do not remove the outer needle cover or inner needle cover until you are ready to inject. • Do not press the injection button unless a needle is attached to the pen. |  |  |
+| How should I store my BYNFEZIA PEN? |  |  |
+| Before First Use: • Store new unused pens in the refrigerator between 36°F to 46°F (2°C to 8°C) and store in the outer carton in order to protect from light. • Do not freeze. Throw away (dispose of) the pen if it has been frozen. • Do not store the pen in direct sunlight. After First Use or During Use: • Store the pen at room temperature between 68°F to 77°F (20°C to 25°C) for up to 28 days. • Store the pen with the pen cap on. • Throw away (dispose of) the pen 28 days after first use in a sharps container, even if the pen still has medicine in it (see step 6. Additional Disposal Information). • Do not store a pen with a needle attached. |  |  |
 | How do I give a dose larger than 200 mcg (more than 1 injection)? |  |  |
-| Turn the dose set knob to 200 mcg (highest dose setting) and give the first injection. Choose a different injection site for each injection at least 2 inches from the area you used for your last injection.Calculate the remaining dose by subtracting 200 mcg from the prescribed dose.Turn the dose set knob to the line for your remaining dose up to the highest dose setting of 200 mcg. Give the second injection at least 2 inchesaway from the first injection.You may need more injections to give your total prescribed dose (see examples below). See the following examples to give a total dose larger than 200 mcg: |  |  |
+| 1. Turn the dose set knob to 200 mcg (highest dose setting) and give the first injection. Choose a different injection site for each injection at least 2 inches from the area you used for your last injection. 2. Calculate the remaining dose by subtracting 200 mcg from the prescribed dose. 3. Turn the dose set knob to the line for your remaining dose up to the highest dose setting of 200 mcg. Give the second injection at least 2 inches away from the first injection. 4. You may need more injections to give your total prescribed dose (see examples below). See the following examples to give a total dose larger than 200 mcg: |  |  |
 | Example Dose | Steps to give a total dose larger than 200 mcg | Number of injections needed to give the total dose |
 | For example, if your total dose is 300 mcg | Turn the dose set knob to 200 mcg for your first injection.Your remaining dose is 100 mcg.For the second injection, turn your dose set knob to 100 mcg to give the remaining dose. | 2 |
-| For example, if your total dose is 450 mcg | Turn the dose set knob to 200 mcg for your first injection.Your remaining dose is 250 mcg.Turn the dose set knob to 200 mcg for your second injection.Your remaining dose is 50 mcg. For the third injection, turn your dose set knob to 50 mcg to give the remaining dose. | 3 |
+| For example, if your total dose is 450 mcg | Turn the dose set knob to 200 mcg for your first injection.Your remaining dose is 250 mcg.Turn the dose set knob to 200 mcg for your second injection.Your remaining dose is 50 mcg.For the third injection, turn your dose set knob to 50 mcg to give the remaining dose. | 3 |
 | 1. Check the Pen |  |  |
 | A. Wash your hands with soap and water (Figure A). |  |  |
 | B. Check the expiration (EXP) date (Figure B). Check the pen label to make sure the expiration date has not passed. Do not use if the expiration date has passed. |  |  |
 | C. Pull the pen cap straight o­ff the pen (Figure C). |  |  |
 | D. Check the medicine (Figure D). The medicine should be clear and colorless. You may see small air bubbles in the pen, which is normal and will not affect the dose. Do not use if the medicine looks cloudy, colored, or has lumps or particles in it. The pen cartridge may look empty because the medicine is clear and colorless. Make sure you have enough medicine left in the pen to inject the full dose. When the plunger moves pass the thick line, your pen is almost empty (Figure E). If the dose set knob does not let you dial your prescribed dose, this means there is not enough medicine left in your pen. Throw away (dispose of) the pen and use a new pen for the injection. |  |  |
-| E. Allow the pen to reach room temperature. If the pen was not stored at room temperature between 68°F to 77°F (20°C to 25°C), allow it to reach room temperature for 20 to 30 minutes before injecting. This will reduce the chance of getting a reaction at the injection site. Do not try to warm the pen by using a heat source such as hot water or microwave. See the section "How should I store my Bynfezia Pen?" for more information. |  |  |
+| E. Allow the pen to reach room temperature. If the pen was not stored at room temperature between 68°F to 77°F (20°C to 25°C), allow it to reach room temperature for 20 to 30 minutes before injecting. This will reduce the chance of getting a reaction at the injection site. Do not try to warm the pen by using a heat source such as hot water or microwave. See the section "How should I store my BYNFEZIA PEN ?" for more information. |  |  |
 | 2. Attach a Needle |  |  |
 | A. Gather the following additional supplies (Figure F): 2 alcohol swabsnew pen needlesharps containercotton ball Note: These supplies are not included with the pen. |  |  |
 | B. Wipe the rubber seal on the pen with an alcohol swab (Figure G). |  |  |
@@ -55,12 +49,12 @@ Contact your healthcare provider if you or your caregiver have any questions.
 | A. Insert the needle straight into the injection site (Figure R). |  |  |
 | B. Deliver your dose. Deliver your dose by slowly pressing the injection button all the way down until it stops. The number in the dose display window will go back to “0” when the injection is complete (Figure S). |  |  |
 | C. Continue to hold the injection button down and slowly count to 10 to make sure the full dose of medicine is given (Figure T). |  |  |
-| D. Remove the pen from the injection site. Lift the pen straight up from the injection site (Figure U). If you see 1 or 2 drops of medicine on the needle tip, this is normal and will not a­ffect your dose.If you see more than 2 drops of medicine on the needle tip, or you see liquid around the injection site after your injection, you may not have received your full dose. If this happens: Do not inject another dose. Contact your healthcare provider for help. Next time you inject, make sure to keep the pen needle in your skin and continue to hold the injection button down while slowly counting to 10 (see Figure T). Note: As the pen is used, a plunger will appear in the cartridge and move towards the thick line. |  |  |
+| D. Remove the pen from the injection site. Lift the pen straight up from the injection site (Figure U).If you see 1 or 2 drops of medicine on the needle tip, this is normal and will not a­ffect your dose.If you see more than 2 drops of medicine on the needle tip, or you see liquid around the injection site after your injection, you may not have received your full dose. If this happens: Do not inject another dose. Contact your healthcare provider for help. Next time you inject, make sure to keep the pen needle in your skin and continue to hold the injection button down while slowly counting to 10 (see Figure T). Note: As the pen is used, a plunger will appear in the cartridge and move towards the thick line. |  |  |
 | 6. After the Injection |  |  |
 | A. Carefully place the outer needle cover back onto the needle. Place the outer needle cover on a flat surface. Hold the syringe with the needle attached in 1 hand and carefully slip the needle into the outer needle cover without using the other hand. Push the outer needle cover completely on (Figure V). Do not recap with the inner needle cover. |  |  |
-| B. Unscrew and remove the covered needle (Figure W). Squeeze the lower part of the covered needle while turning it to the left (counter clockwise). Keep turning until the covered needle lifts away from the pen. It may take several turns for the covered needle to lift away from the pen. |  |  |
+| B. Unscrew and remove the covered needle (Figure W). Squeeze the lower part of the covered needle while turning it to the left (counter clockwise).Keep turning until the covered needle lifts away from the pen. It may take several turns for the covered needle to lift away from the pen. |  |  |
 | C. Throw away (dispose of) the covered needle in a FDA-cleared sharps container (Figure X). |  |  |
-| D. Put the pen cap back on the pen (Figure Y) and store the pen. After use, store pens with the cap on at room temperature between 68°F to 77°F (20°C to 25°C) or in the refrigerator between 36°F to 46°F (2°C to 8°C) for up to 28 days. See the section "How should I store my Bynfezia Pen?" for more information on storing your pen. |  |  |
+| D. Put the pen cap back on the pen (Figure Y) and store the pen. After use, store pens with the cap on at room temperature between 68°F to 77°F (20°C to 25°C) or in the refrigerator between 36°F to 46°F (2°C to 8°C) for up to 28 days.See the section "How should I store my BYNFEZIA PEN?" for more information on storing your pen. |  |  |
 | E. Treat the injection site. If needed, press the injection site lightly with a cotton ball or an alcohol swab. Do not rub the area. |  |  |
 | Cleaning the Pen |  |  |
 | Wipe the outside of the pen with a clean, damp cloth.White particles may appear on the outside tip of the cartridge during normal use. You may remove them with an alcohol swab.Do not put the pen in water or any other liquid. |  |  |
@@ -68,6 +62,7 @@ Contact your healthcare provider if you or your caregiver have any questions.
 | Put used pens and needles in a FDA-cleared sharps disposal container right away after use. Do not throw away (dispose of) pens and needles in the household trash. If you do not have a FDA-cleared sharps disposal container, you may use a household container that is: made of a heavy-duty plastic,can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,upright and stable during use,leak-resistant, andproperly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.Do not recycle your used sharps disposal container.Always keep the sharps disposal container out of the reach of children and pets. |  |  |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+All trademarks are the property of their respective owners.
 
 Distributed by:
 
@@ -75,14 +70,9 @@ Sun Pharmaceutical Industries, Inc.
 
 Cranbury, NJ 08512
 
-Manufactured by:
-
-Sun Pharmaceutical Industries Ltd.
-
-Halol-Baroda Highway,
-
-Halol-389 350, Gujarat, India
+Manufactured by: Sun Pharmaceutical Industries Ltd., India At M/s.
+OneSource Specialty Pharma Limited Plot No. 2-D1, Obadenahalli, Doddaballapura, 3rd Phase, Industrial Area, Doddaballapura Taluk, Bengaluru Rural, 561203, Karnataka INDIA
 
 For more information, call 1-800-818-4555.
 
-Issued: 04/2020
+Issued: 10/2024
