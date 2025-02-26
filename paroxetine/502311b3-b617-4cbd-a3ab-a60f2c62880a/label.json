@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA204516"
+  ],
+  "inn": "paroxetine",
+  "labeler": "Legacy Pharma USA, Inc.",
+  "package_ndcs": [
+    "83107-027-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "paroxetine",
+      "name": "BRISDELLE"
+    }
+  ],
+  "setid": "502311b3-b617-4cbd-a3ab-a60f2c62880a",
+  "source": "dailymed"
+}
