@@ -30,3 +30,7 @@
 10. 10.Brown G, et al. Regression of Coronary Artery Disease as a Result of Intensive Lipid-Lowering Therapy in Men with High Levels of Apolipoprotein B. N Engl, J. Med 323:1289–1298, 1990.
 11. 11.Kane JP, et al. Regression of Coronary Atherosclerosis During Treatment of Familial Hypercholesterolemia with Combined Drug Regimens.
     JAMA 264:3007–3012, 1990.
+
+Rx only
+
+LAB-0360-4.0 Revised February 2025
