@@ -33,7 +33,4 @@ See your doctor if you have questions.
 
 Keep out of reach of children.
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.greenstonellc.com.
-
-LAB-0646-2.0 Revised January 2017
+LAB-0646-3.0 Revised February 2025
