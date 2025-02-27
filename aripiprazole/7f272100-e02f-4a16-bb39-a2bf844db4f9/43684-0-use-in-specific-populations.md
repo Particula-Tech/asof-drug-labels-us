@@ -12,15 +12,16 @@ Risk Summary
 Neonates exposed to antipsychotic drugs, including aripiprazole, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
 Overall available data from published epidemiologic studies of pregnant women exposed to aripiprazole have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 There are risks to the mother associated with untreated schizophrenia, bipolar I disorder, or major depressive disorder, and with exposure to antipsychotics, including aripiprazole, during pregnancy (see Clinical Considerations).
+Aripiprazole exposure during pregnancy can have variable effects on milk supply in the post-partum period [see Use in Specific Populations (8.2)].
 
 In animal reproduction studies, oral and intravenous aripiprazole administration during organogenesis in rats and/or rabbits at doses 10 and 19 times, respectively, the maximum recommended human dose (MRHD) of 30 mg/day based on mg/m2 body surface area, produced fetal death, decreased fetal weight, undescended testicles, delayed skeletal ossification, skeletal abnormalities, and diaphragmatic hernia.
 Oral and intravenous aripiprazole administration during the pre- and post-natal period in rats at doses 10 times the MRHD based on mg/m2 body surface area, produced prolonged gestation, stillbirths, decreased pup weight, and decreased pup survival (see Data).
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
 Disease-associated maternal and/or embryo/fetal risk
 
@@ -39,7 +40,7 @@ These symptoms have varied in severity.
 Monitor neonates for extrapyramidal and/or withdrawal symptoms, and manage symptoms appropriately.
 Some neonates recovered within hours or days without specific treatment; others required prolonged hospitalization.
 
-Data
+### Data
 
 Human Data
 
@@ -56,7 +57,7 @@ Delivered offspring had increased incidences of hepatodiaphragmatic nodules and 
 Postnatally, delayed vaginal opening was seen at 3 and 10 times the MRHD.
 Impaired reproductive performance (decreased fertility rate, corpora lutea, implants, live fetuses, and increased post-implantation loss, likely mediated through effects on female offspring) were observed at 10 times the MRHD; however, there was no evidence to suggest that these developmental effects were secondary to maternal toxicity.
 
-In pregnant rats injected intravenously with aripiprazole during organogenesis at doses of 3, 9, and 27 mg/kg/day, which are 1, 3, and 9 times the MRHD of 30 mg/day based on mg/m2 body surface area, decreased fetal weight and delayed skeletal ossification were observed at 9 times the MRHD; this dose also caused maternal toxicity.
+In pregnant rats injected intravenously with aripiprazole during organogenesis at doses of 3, 9, and 27 mg/kg/day, which are 1, 3, and 9 times the MRHD of 30 mg/day based on mg/m2body surface area, decreased fetal weight and delayed skeletal ossification were observed at 9 times the MRHD; this dose also caused maternal toxicity.
 
 In pregnant rabbits treated orally with aripiprazole during organogenesis at doses of 10, 30, and 100 mg/kg/day which are 6, 19, and 65 times the MRHD of 30 mg/day based on mg/m2 body surface area, decreased maternal food consumption, and increased abortions as well as increased fetal mortality were observed at 65 times the MRHD.
 Decreased fetal weight and increased incidence of fused sternebrae were observed at 19 and 65 times the MRHD.
@@ -74,10 +75,15 @@ There were no effects on postnatal behavioral and reproductive development.
 
 Risk Summary
 
-Limited data from published literature report the presence of aripiprazole in human breast milk, at relative infant doses ranging between 0.7% to 8.3% of the maternal weight-adjusted dosage.
-There are reports of poor weight gain in breastfed infants exposed to aripiprazole and reports of inadequate milk supply in lactating women taking aripiprazole.
+Aripiprazole is present in human breast milk.
+Based on published case reports and pharmacovigilance reports, aripiprazole exposure during pregnancy and/or the postpartum period can lead to variable effects on milk supply in the post-partum period, including clinically relevant decreases in milk supply which may be reversible with discontinuation of the drug.
+There are also reports of aripiprazole exposure during pregnancy and no maternal milk supply in the post-partum period.
+Effects on milk supply are likely mediated through decreases in prolactin levels, which have been observed [see Adverse Reactions (6.2)].
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for aripiprazole, and any potential adverse effects on the breastfed infant from aripiprazole, or from the underlying maternal condition.
 
-The development and health benefits of breastfeeding should be considered along with the mother’s clinical need for aripiprazole and any potential adverse effects on the breastfed infant from aripiprazole or from the underlying maternal condition.
+Clinical Considerations
+
+Monitor infants exposed to aripiprazole through breastmilk for dehydration and lack of appropriate weight gain.
 
 ## 8.4 Pediatric Use
 
@@ -130,7 +136,7 @@ All drug-related effects were reversible after a 2-month recovery period.
 
 No dosage adjustment is recommended for elderly patients [see Boxed Warning, Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
-Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1,073 (8%) were >65 years old and 799 (6%) were >75 years old.
+Of the 13,543 patients treated with oral aripiprazole in clinical trials, 1,073 (8%) were ≥65 years old and 799 (6%) were ≥75 years old.
 Placebo-controlled studies of oral aripiprazole in schizophrenia, bipolar mania, or major depressive disorder did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
 Aripiprazole is not approved for the treatment of patients with psychosis associated with Alzheimer’s disease [see Boxed Warning and Warnings and Precautions (5.1)].
