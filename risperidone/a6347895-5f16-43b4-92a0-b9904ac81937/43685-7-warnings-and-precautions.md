@@ -19,16 +19,14 @@ Risperidone is not approved for the treatment of dementia-related psychosis [see
 Cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities, were reported in patients (mean age 85 years; range 73 to 97) in trials of risperidone in elderly patients with dementia-related psychosis.
 In placebo-controlled trials, there was a significantly higher incidence of cerebrovascular adverse events in patients treated with risperidone compared to patients treated with placebo.
 Risperidone is not approved for the treatment of patients with dementia-related psychosis.
-[see Boxed Warningand Warnings and Precautions (5.1)]
+[see Boxed Warningand Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
 Neuroleptic Malignant Syndrome (NMS), a potentially fatal symptom complex, has been reported in association with antipsychotic drugs.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status including delirium, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
 Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
-Neuroleptic Malignant Syndrome (NMS), a potentially fatal symptom complex, has been reported in association with antipsychotic drugs.
-Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status including delirium, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
-Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
+
 If NMS is suspected, immediately discontinue risperidone and provide symptomatic treatment and monitoring.
 
 ## 5.4 Tardive Dyskinesia
@@ -36,6 +34,7 @@ If NMS is suspected, immediately discontinue risperidone and provide symptomatic
 Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with antipsychotic drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients will develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
+
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible increase with the duration of treatment and the cumulative dose.
 The syndrome can develop after relatively brief treatment periods, even at low doses.
 It may also occur after discontinuation of treatment.
@@ -79,7 +78,7 @@ Change in Random Glucose from Seven Placebo-Controlled, 3- to 8- Week, Fixed- or
 
 |  | Risperidone |  |  |
 | --- | --- | --- | --- |
-|  | Placebo | 1 to 8 mg/day | >8 to 16 g/day |
+|  | Placebo | 1 to 8 mg/day | >8 to 16 mg/day |
 |  |  | Mean change from baseline (mg/dL) |  |
 |  | n=555 | n=748 | n=164 |
 | Serum Glucose | -1.4 | 0.8 | 0.6 |
@@ -93,7 +92,7 @@ In longer-term, controlled and uncontrolled studies, risperidone was associated 
 Data from the placebo-controlled 3- to 6-week study in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), or autistic disorder (5 to 17 years of age) are presented in Table 3.
 
 Table 3.
-Change in Fasting Glucose from Three Placebo-controlled, 3- to 6-week, Fixed Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 years of age), Bipolar Mania (10 to 17 years of age), or Autistic Disorder (5 to 17 years of age)
+Change in Fasting Glucose from Three Placebo-Controlled, 3- to 6-Week, Fixed Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 years of age), Bipolar Mania (10 to 17 years of age), or Autistic Disorder (5 to 17 years of age)
 
 |  |  | Risperidone |
 | --- | --- | --- |
@@ -136,7 +135,7 @@ In longer-term, controlled and uncontrolled studies, risperidonewas associated w
 Pooled data from 3 placebo-controlled, 3- to 6-week, fixed-dose studies in children and adolescents with schizophrenia (13 to 17 years of age), bipolar mania (10 to 17 years of age), or autistic disorder (5 to 17 years of age) are presented in Table 5.
 
 Table 5.
-Change in Fasting Lipids From Three Placebo-Controlled, 3- to 6-Week, Fixed- Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), or Autistic Disorder (5 to 17 Years of Age)
+Change in Fasting Lipids from Three Placebo-Controlled, 3- to 6-Week, Fixed- Dose Studies in Children and Adolescents with Schizophrenia (13 to 17 Years of Age), Bipolar Mania (10 to 17 Years of Age), or Autistic Disorder (5 to 17 Years of Age)
 
 |  |  | Risperidone |
 | --- | --- | --- |
@@ -212,7 +211,7 @@ When treating pediatric patients with risperidone for any indication, weight gai
 
 ## 5.6 Hyperprolactinemia
 
-As with other drugs that antagonize dopamine D 2 receptors, risperidone elevates prolactin levels and the elevation persists during chronic administration.
+As with other drugs that antagonize dopamine D2 receptors, risperidone elevates prolactin levels and the elevation persists during chronic administration.
 Risperidone is associated with higher levels of prolactin elevation than other antipsychotic agents.
 
 Hyperprolactinemia may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotropin secretion.
@@ -222,7 +221,7 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
 An increase in pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## 5.7 Orthostatic Hypotension
 
@@ -269,7 +268,7 @@ Risperidone should be used cautiously in patients with a history of seizures.
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in patients with advanced Alzheimer's dementia.
 Risperidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
-[see Boxed Warning and Warnings and Precautions (5.1)]
+[see Boxed Warning and Warnings and Precautions (5.1)].
 
 ## 5.13 Priapism
 

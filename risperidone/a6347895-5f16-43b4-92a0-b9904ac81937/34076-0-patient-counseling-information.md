@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Physicians are advised to discuss the following issues with patients for whom they prescribe risperidone:
+Physicians are advised to discuss the following issues with patients for whom they prescribe risperidone.
 
 Neuroleptic Malignant Syndrome (NMS)
 
