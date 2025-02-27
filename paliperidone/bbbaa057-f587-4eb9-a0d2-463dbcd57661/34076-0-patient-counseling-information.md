@@ -30,7 +30,7 @@ Advise them to seek medical attention if they experience any of the following: a
 
 Interference with Cognitive and Motor Performance
 
-Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery, or operating a motor vehicle, until they are reasonably certain that paliperidone therapy does not affect them adversely [see Warnings and Precautions (5.12)].
+Caution patients about performing activities requiring mental alertness, such as operating hazardous machinery, or operating a motor vehicle, until they are reasonably certain that paliperidone therapy does not affect them adversely [seeWarnings and Precautions (5.12)].
 
 Priapism
 
@@ -75,4 +75,4 @@ Manufactured by: Inventia Healthcare Limited, F1-F1/1-F75/1, Additional Ambernat
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-10307 Rev 06/23 Revised: June 2023
+10307 Rev 02/25 Revised: February 2025

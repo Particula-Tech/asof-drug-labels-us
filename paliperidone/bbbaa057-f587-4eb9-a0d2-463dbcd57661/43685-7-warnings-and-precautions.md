@@ -14,7 +14,7 @@ Paliperidone is not approved for the treatment of dementia-related psychosis [se
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
 Paliperidone was not marketed at the time these studies were performed.
-Paliperidone is not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warning and Warnings and Precautions (5.1)].
+Paliperidone is not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warningand Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
@@ -35,8 +35,8 @@ Certain circumstances may increase the risk of the occurrence of torsade de poin
 The effects of paliperidone on the QT interval were evaluated in a double-blind, active-controlled (moxifloxacin 400 mg single dose), multicenter QT study in adults with schizophrenia and schizoaffective disorder, and in three placebo- and active-controlled 6-week, fixed-dose efficacy trials in adults with schizophrenia.
 
 In the QT study (n = 141), the 8 mg dose of immediate-release oral paliperidone (n=50) showed a mean placebo-subtracted increase from baseline in QTcLD of 12.3 msec (90% CI: 8.9; 15.6) on day 8 at 1.5 hours post-dose.
-The mean steady-state peak plasma concentration for this 8 mg dose of paliperidone immediate-release was more than twice the exposure observed with the maximum recommended 12 mg dose of paliperidone (Cmax ss = 113 ng/mL and 45 ng/mL, respectively, when administered with a standard breakfast).
-In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which Cmax ss = 35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on day 2 at 1.5 hours post-dose.
+The mean steady-state peak plasma concentration for this 8 mg dose of paliperidone immediate-release was more than twice the exposure observed with the maximum recommended 12 mg dose of paliperidone (C maxss = 113 ng/mL and 45 ng/mL, respectively, when administered with a standard breakfast).
+In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which C maxss = 35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on day 2 at 1.5 hours post-dose.
 None of the subjects had a change exceeding 60 msec or a QTcLD exceeding 500 msec at any time during this study.
 
 For the three fixed-dose efficacy studies in subjects with schizophrenia, electrocardiogram (ECG) measurements taken at various time points showed only one subject in the paliperidone 12 mg group had a change exceeding 60 msec at one time-point on Day 6 (increase of 62 msec).
@@ -212,7 +212,7 @@ In the study that examined high- and low-dose groups, the increase in body weigh
 
 ## 5.7 Hyperprolactinemia
 
-Like other drugs that antagonize dopamine D2 receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
+Like other drugs that antagonize dopamine D 2receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
 Paliperidone has a prolactin-elevating effect similar to that seen with risperidone, a drug that is associated with higher levels of prolactin than other antipsychotic drugs.
 
 Hyperprolactinemia, regardless of etiology, may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotrophin secretion.
@@ -222,13 +222,13 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 An increase in the incidence of pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## 5.8 Potential for Gastrointestinal Obstruction
 
 Because the paliperidone extended-release tablet is non-deformable and does not appreciably change in shape in the gastrointestinal tract, paliperidone extended-release tablets should ordinarily not be administered to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, "short gut" syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudo-obstruction, or Meckel’s diverticulum).
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of drugs in nondeformable controlled-release formulations.
-Because of the controlled-release design of the tablet, paliperidone extended-release tablets should only be used in patients who are able to swallow the tablet whole [see Dosage and Administration (2.3) and Patient Counseling Information (17)].
+Because of the controlled-release design of the tablet, paliperidone extended-release tablets should only be used in patients who are able to swallow the tablet whole [see Dosage and Administration (2.3)and Patient Counseling Information (17)].
 
 A decrease in transit time, e.g., as seen with diarrhea, would be expected to decrease bioavailability and an increase in transit time, e.g., as seen with gastrointestinal neuropathy, diabetic gastroparesis, or other causes, would be expected to increase bioavailability.
 These changes in bioavailability are more likely when the changes in transit time occur in the upper GI tract.
@@ -256,11 +256,11 @@ In patients with a history of a clinically significant low WBC/ANC or a drug-ind
 In such patients, consider discontinuation of paliperidone at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
-Discontinue paliperidone in patients with severe neutropenia (absolute neutrophil count < 1000/mm3) and follow their WBC until recovery.
+Discontinue paliperidone in patients with severe neutropenia (absolute neutrophil count < 1000/mm 3) and follow their WBC until recovery.
 
 ## 5.12 Potential for Cognitive and Motor Impairment
 
-Somnolence, sedation, and dizziness were reported as adverse reactions in subjects treated with paliperidone [see Adverse Reactions (6.2)].
+Somnolence, sedation, and dizziness were reported as adverse reactions in subjects treated with paliperidone [see Adverse Reactions(6.2)].
 Antipsychotics, including paliperidone, have the potential to impair judgment, thinking, or motor skills.
 Patients should be cautioned about performing activities requiring mental alertness, such as operating hazardous machinery or operating a motor vehicle, until they are reasonably certain that paliperidone therapy does not adversely affect them.
 
