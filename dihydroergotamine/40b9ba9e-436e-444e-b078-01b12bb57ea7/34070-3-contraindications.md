@@ -7,7 +7,7 @@ Dihydroergotamine Mesylate Injection, USP should not be given to patients with i
 
 Because Dihydroergotamine Mesylate Injection, USP may increase blood pressure, it should not be given to patients with uncontrolled hypertension.
 
-Dihydroergotamine Mesylate Injection, USP, 5-HT 1agonists (e.g., sumatriptan), ergotamine-containing or ergot-type medications or methysergide should not be used within 24 hours of each other.
+Dihydroergotamine Mesylate Injection, USP, 5-HT1 agonists (e.g., sumatriptan), ergotamine-containing or ergot-type medications or methysergide should not be used within 24 hours of each other.
 
 Dihydroergotamine Mesylate Injection, USP should not be administered to patients with hemiplegic or basilar migraine.
 

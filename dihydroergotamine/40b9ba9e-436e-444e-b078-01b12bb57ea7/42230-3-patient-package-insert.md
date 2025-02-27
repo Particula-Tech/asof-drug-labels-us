@@ -142,7 +142,7 @@ If the expiration date has passed, do not use it.
 
 Answers to Patients' Questions About Dihydroergotamine Mesylate Injection, USP
 
-What if I need help in using my Dihydroergotamine Mesylate Injection, USP ?
+What if I need help in using my Dihydroergotamine Mesylate Injection, USP?
 
 If you have any questions or if you need help in opening, putting together, or using Dihydroergotamine Mesylate Injection, USP, speak to your doctor or pharmacist.
 

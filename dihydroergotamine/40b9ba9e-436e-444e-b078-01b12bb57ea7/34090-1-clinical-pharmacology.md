@@ -2,13 +2,13 @@
 
 ## Mechanism of Action
 
-Dihydroergotamine binds with high affinity to 5-HT 1Dα and 5-HT 1Dβ receptors.
-It also binds with high affinity to serotonin 5-HT 1A, 5-HT 2A, and 5-HT 2Creceptors, noradrenaline α 2A, α 2Band α 1receptors, and dopamine D 2Land D 3receptors.
+Dihydroergotamine binds with high affinity to 5-HT1Dα and 5-HT1Dβ receptors.
+It also binds with high affinity to serotonin 5-HT1A, 5-HT2A, and 5-HT2C receptors, noradrenaline α2A, α2B and α1 receptors, and dopamine D2Land D3 receptors.
 
-The therapeutic activity of dihydroergotamine in migraine is generally attributed to the agonist effect at 5-HT 1Dreceptors.
-Two current theories have been proposed to explain the efficacy of 5-HT 1Dreceptor agonists in migraine.
-One theory suggests that activation of 5-HT 1Dreceptors located on intracranial blood vessels, including those on arteriovenous anastomoses, leads to vasoconstriction, which correlates with the relief of migraine headache.
-The alternative hypothesis suggests that activation of 5-HT 1Dreceptors on sensory nerve endings of the trigeminal system results in the inhibition of pro-inflammatory neuropeptide release.
+The therapeutic activity of dihydroergotamine in migraine is generally attributed to the agonist effect at 5-HT1D receptors.
+Two current theories have been proposed to explain the efficacy of 5-HT1D receptor agonists in migraine.
+One theory suggests that activation of 5-HT1D receptors located on intracranial blood vessels, including those on arteriovenous anastomoses, leads to vasoconstriction, which correlates with the relief of migraine headache.
+The alternative hypothesis suggests that activation of 5-HT1D receptors on sensory nerve endings of the trigeminal system results in the inhibition of pro-inflammatory neuropeptide release.
 
 In addition, dihydroergotamine possesses oxytocic properties.
 
@@ -28,7 +28,8 @@ The apparent steady-state volume of distribution is approximately 800 liters.
 Metabolism
 
 Four dihydroergotamine mesylate metabolites have been identified in human plasma following oral administration.
-The major metabolite, 8´-β-hydroxydihydroergotamine, exhibits affinity equivalent to its parent for adrenergic and 5-HT receptors and demonstrates equivalent potency in several venoconstrictor activity models, in vivo and in vitro.The other metabolites, (i.e., dihydrolysergic acid, dihydrolysergic amide) and a metabolite formed by oxidative opening of the proline ring are of minor importance.
+The major metabolite, 8´-β-hydroxydihydroergotamine, exhibits affinity equivalent to its parent for adrenergic and 5-HT receptors and demonstrates equivalent potency in several venoconstrictor activity models, in vivo and in vitro.
+The other metabolites, (i.e., dihydrolysergic acid, dihydrolysergic amide) and a metabolite formed by oxidative opening of the proline ring are of minor importance.
 Following nasal administration, total metabolites represent only 20% to 30% of plasma AUC.
 Quantitative pharmacokinetic characterization of the four metabolites has not been performed.
 

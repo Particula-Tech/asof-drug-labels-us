@@ -1,53 +1,43 @@
 # PRINCIPAL DISPLAY PANEL - 1 mL Ampule Label
 
-NDC 81284- 411-00 1 mL Ampule Rx only
+NDC 81284-411-00 1 mL Ampule Rx only
 
-Dihydroergotamine
+Dihydroergotamine Mesylate Injection, USP
 
-Mesylate Injection, USP
-
-1 mg/mL IV, IM, SC Sterile
+1 mg/mL For IV, IM or SC Use Sterile
 
 # PRINCIPAL DISPLAY PANEL - 5 x 1 mL Ampules Carton Label
 
-NDC 81284- 411-05 Sterile Rx only
+NDC 81284-411-05 Sterile Rx only
 
-Dihydroergotamine
+Dihydroergotamine Mesylate Injection, USP
 
-Mesylate Injection, USP
+1 mg/mL (1mL Ampule)
 
-1 mg/mL 5 x 1 mL Ampules
+For Intravenous, Intramuscular or Subcutaneous Use
+
+5 AMPULES X 1 ML
 
 Single-Dose Ampules
 
-For Intravenous, Intramuscular,
-
-and Subcutaneous Use
-
 Preservative Free
 
-Provepharm*
-
-Life Solutions
+PROVEPHARM
 
 # PRINCIPAL DISPLAY PANEL - 10 x 1 mL Ampules Carton Label
 
-NDC 81284- 411-10 Sterile Rx only
+NDC 81284-411-10 Sterile Rx only
 
-Dihydroergotamine
+Dihydroergotamine Mesylate Injection, USP
 
-Mesylate Injection, USP
+For Intravenous, Intramuscular or Subcutaneous Use
 
-1 mg/mL
+1 mg/mL (1mL Ampule)
+
+10 AMPULES X 1 ML
 
 Single-Dose Ampules
 
-For Intravenous, Intramuscular, 10 x 1 mL Ampules
-
-and Subcutaneous Use
-
 Preservative Free
 
-Provepharm*
-
-Life Solutions
+PROVEPHARM
