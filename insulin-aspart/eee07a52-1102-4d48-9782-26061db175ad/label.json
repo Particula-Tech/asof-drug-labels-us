@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "BLA761325"
+  ],
+  "inn": "insulin-aspart",
+  "labeler": "Sanofi-Aventis U.S. LLC",
+  "package_ndcs": [
+    "0024-5927-00",
+    "0024-5928-00",
+    "0024-5928-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin aspart-szjj",
+      "name": "MERILOG"
+    }
+  ],
+  "setid": "eee07a52-1102-4d48-9782-26061db175ad",
+  "source": "dailymed"
+}
