@@ -10,6 +10,6 @@
 | How should I store icosapent ethyl capsules? Store icosapent ethyl capsules at room temperature between 68° to 77° F (20° to 25° C).Safely throw away medicine that is out of date or no longer needed. Icosapent ethyl capsules come in child-resistant closure. Keep icosapent ethyl capsules and all medicine out of the reach of children. |
 | General information about the safe and effective use of icosapent ethyl capsules. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use icosapent ethyl capsules for a condition for which it was not prescribed. Do not give icosapent ethyl capsules to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about icosapent ethyl capsules that is written for health professionals. |
 | What are the ingredients in icosapent ethyl capsules? Active ingredient: icosapent ethyl Inactive ingredients: alpha tocopherol, gelatin, glycerol and purified water. The capsule is imprinted with white pharmaceutical ink and contains following inactive ingredients: shellac and titanium dioxide. For more information, go to MedicalAffairs@zydususa.com or Tel.: 1-877-993-8779. |
-| Manufactured by: Doppel Farmaceutici s.r.l. Piacenza, Italy Distributed by: Zydus Pharmaceuticals (USA) Inc. Pennington, NJ 08534 |
-| Rev.: 12/22 |
+| Manufactured by: Softgel Healthcare Pvt. Ltd., India Distributed by: Zydus Pharmaceuticals (USA) Inc. Pennington, NJ 08534 |
+| Rev.: 02/24 |
 | This Patient Information has been approved by the U.S. Food and Drug Administration |

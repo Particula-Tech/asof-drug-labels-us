@@ -19,9 +19,10 @@ For more information about icosapent ethyl capsules, go to MedicalAffairs@zydusu
 
 Manufactured by:
 
-Doppel Farmaceutici s.r.l.
+Softgel Healthcare Pvt.
+Ltd.,
 
-Piacenza, Italy
+India
 
 Distributed by:
 
@@ -29,4 +30,4 @@ Zydus Pharmaceuticals (USA) Inc.
 
 Pennington, NJ 08534
 
-Rev.: 12/22
+Rev.: 02/24
