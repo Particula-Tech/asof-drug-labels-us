@@ -30,7 +30,7 @@ The target maintenance dose of oxcarbazepine oral suspension should be achieved 
 
 - 20 to 29 kg – 900 mg/day
 - 29.1 to 39 kg – 1,200 mg/day
-- >39 kg – 1,800 mg/day
+- 39 kg – 1,800 mg/day
 
 In the clinical trial, in which the intention was to reach these target doses, the median daily dose was 31 mg/kg with a range of 6 to 51 mg/kg.
 
