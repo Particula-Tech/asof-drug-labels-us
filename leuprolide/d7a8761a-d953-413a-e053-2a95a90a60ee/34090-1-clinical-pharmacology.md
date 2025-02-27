@@ -6,14 +6,14 @@ Leuprolide, a GnRH agonist, acts as an inhibitor of gonadotropin secretion.
 Animal and human studies indicate that following an initial stimulation of gonadotropins, chronic administration of leuprolide results in suppression of ovarian and testicular steroidogenesis.
 This effect is reversible upon discontinuation of drug therapy.
 
+## 12.2 Pharmacodynamics
+
+Mean serum testosterone concentrations transiently increased, then fell to below castrate threshold levels (≤ 50 ng/dL) within 3 weeks following administration of the dose of leuprolide, and generally remained below castrate thresholds levels throughout treatment.
+
 In humans, subcutaneous administration of single daily doses of leuprolide result in an initial increase in circulating levels of LH and FSH, leading to a transient increase in levels of the gonadal steroids (testosterone and dihydrotestosterone in males).
 However, continuous daily administration of leuprolide results in decreased levels of LH and FSH.
 In males, testosterone is reduced to below castration levels.
 These decreases generally occur within 2 to 4 weeks after initiation of treatment, and castration levels of testosterone in prostatic cancer patients have been demonstrated for periods of up to 5 years.
-
-## 12.2 Pharmacodynamics
-
-Mean serum testosterone concentrations transiently increased, then fell to below castrate threshold levels (≤ 50 ng/dL) within 3 weeks following administration of the dose of leuprolide, and generally remained below castrate thresholds levels throughout treatment.
 
 ## 12.3 Pharmacokinetics
 
@@ -28,12 +28,12 @@ The median T maxof leuprolide was 3.2 and 2.1 hours following the first and seco
 
 Distribution
 
-The mean steady state volume of distribution of leuprolide was 27 L following an intravenous bolus in healthy male volunteers.
+The mean steady-state volume of distribution of leuprolide was 27 L following an intravenous bolus in healthy male volunteers.
 Protein binding of leuprolide ranged from 43% to 49% in vitro.
 
 Elimination
 
-The mean systemic clearance was 7.6 L/h and terminal elimination half life of approximately 3 hours following an intravenous bolus of leuprolide in healthy male volunteers.
+The mean systemic clearance was 7.6 L/h and terminal elimination half-life of approximately 3 hours following an intravenous bolus of leuprolide in healthy male volunteers.
 
 Metabolism
 

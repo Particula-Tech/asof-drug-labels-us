@@ -2,9 +2,9 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Two year carcinogenicity studies were conducted with leuprolide in rats and mice.
+Two-year carcinogenicity studies were conducted with leuprolide in rats and mice.
 In rats, a dose-related increase of benign pituitary hyperplasia and benign pituitary adenomas was noted at 24 months when the drug was administered subcutaneously at high daily doses (0.6 to 4 mg/kg).
-There was a significant but not dose related increase of pancreatic islet cell adenomas in females and of testicular interstitial cell adenomas in males (highest incidence in the low dose group).
+There was a significant but not dose-related increase of pancreatic islet-cell adenomas in females and of testicular interstitial cell adenomas in males (highest incidence in the low dose group).
 In mice, no pituitary abnormalities were observed at a dose as high as 60 mg/kg for 2 years.
 Patients have been treated with leuprolide for up to 3 years with doses as high as 10 mg/day and for 2 years with doses as high as 20 mg/day without demonstrable pituitary abnormalities.
 

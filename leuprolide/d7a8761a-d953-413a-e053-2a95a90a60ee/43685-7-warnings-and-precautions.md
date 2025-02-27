@@ -6,7 +6,7 @@ CAMCEVI, like other GnRH agonists, causes a transient increase in serum levels o
 Transient worsening of symptoms, or the occurrence of additional signs and symptoms of prostate cancer, may develop during the first few weeks of CAMCEVI treatment.
 Patients treated with CAMCEVI may experience a temporary increase in bone pain, which can be managed symptomatically.
 
-As with other GnRH agonists, cases of ureteral obstruction and spinal cord compression have been observed, which may contribute to paralysis with or without fatal complications.
+Cases of ureteral obstruction and spinal cord compression have been observed, which may contribute to paralysis with or without fatal complications.
 
 Patients with metastatic vertebral lesions and/or with urinary tract obstruction should be closely observed during the first few weeks of therapy.
 

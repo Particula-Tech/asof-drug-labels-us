@@ -15,7 +15,7 @@ Hyperglycemia and Diabetes
 - Advise patients that there is an increased risk of hyperglycemia and diabetes with CAMCEVI therapy.
   Inform patients that periodic monitoring for hyperglycemia and diabetes is required when being treated with CAMCEVI [see Warnings and Precautions (5.2)].
 
-Cardiovascular Disease
+Cardiovascular Diseases
 
 - Inform patients that there is an increased risk of myocardial infarction, sudden cardiac death, and stroke with CAMCEVI treatment.
   Advise patients to immediately report signs and symptoms associated with these events to their healthcare provider for evaluation [see Warnings and Precautions (5.3)].
@@ -43,6 +43,6 @@ Infertility
 
 - Inform patients that CAMCEVI may cause infertility [see Use In Specific Populations (8.3)].
 
-Manufactured for: Accord BioPharma, Inc. 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617 USA
+Manufactured for: Accord BioPharma Inc. 8041 Arco Corporate Drive, Suite 200 Raleigh, NC 27617, USA
 
-By: Fareva Pau Fareva Pau 1, Avenue du Bearn, IDRON, 64320, France 750138
+By: Fareva Pau Fareva Pau 1, Avenue du Bearn, IDRON, 64320, France

@@ -5,7 +5,7 @@ CAMCEVI is available as follows:
 
 | Kit Contents | NDC |
 | --- | --- |
-| Injectable emulsion in a pre-filled syringe containing 42 mg leuprolide for subcutaneous injection, a sterile 18 gauge needle, a Point-Lok ®needle protection device, and Instructions for Use. | 69448-014-63 |
+| Injectable emulsion in a pre-filled syringe containing 42 mg leuprolide for subcutaneous injection, a sterile 18 gauge needle, a Point-Lok ®needle protection device, and Prescribing Information. | 69448-014-63 |
 
 Store CAMCEVI at 2°C–8°C (36°F–46°F).
 Protect CAMCEVI from light by storing in the original package until time of use.

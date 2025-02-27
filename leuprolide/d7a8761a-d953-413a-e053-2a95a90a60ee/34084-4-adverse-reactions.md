@@ -11,7 +11,9 @@ The following adverse reactions are discussed in greater detail in other section
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
-In an open-label, non-comparative clinical trial (FP01C-13-001), patients with advanced prostate cancer received CAMCEVI administered subcutaneously at a dose of 42 mg on Day 0 and Day 168.
+
+FP01C-13-001 The safety of CAMCEVI was evaluated in an open-label, single-arm, international clinical trial (FP01C-13-001) in patients with advanced prostate cancer.
+Patients received CAMCEVI administered subcutaneously at a dose of 42 mg on Day 0 and Day 168.
 Of 137 patients enrolled, 93% received both doses of CAMCEVI.
 
 Serious adverse reactions occurred in 15% of patients who received CAMCEVI, including 1% of patients who experienced subdural hematoma.
@@ -22,13 +24,13 @@ The most common adverse reactions (≥10%) occurring during a median follow-up d
 Table 1 summarizes the adverse reactions in FP01C-13-001.
 
 Table 1.
-Adverse Reactions Occurring in ≥5% of Patients - FP01C-13-001
+Adverse Reactions Occurring in ≥5% of CAMCEVI in Advanced Prostate Cancer Patients - FP01C-13-001
 
-| Adverse Reaction | N = 137 |  |
+| Adverse Reaction | CAMCEVIN = 137 |  |
 | --- | --- | --- |
 |  | All Grades (%) | Grade 3-4 (%) |
 | Vascular disorders |  |  |
-| Hot flush a | 50 | 0 |
+| Hot flushes a | 50 | 0 |
 | Hypertension b | 15 | 0 |
 | General disorders and administration site conditions |  |  |
 | Injection site reactions c | 11 | 0 |
@@ -49,7 +51,7 @@ aincludes hot flush and flushing bincludes hypertension, essential hypertension,
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of leuprolide.
+The following adverse reactions have been identified during post approval use of CAMCEVI or leuprolide.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 During postmarketing surveillance, which includes other dosage forms and other patient populations, the following adverse reactions were reported.
-Allergic Conditions:anaphylactoid or asthmatic process, rash, urticaria, and photosensitivity reactions Cardiovascular System:hypotension, myocardial infarction, pulmonary embolism Central/Peripheral Nervous System:convulsion, peripheral neuropathy, spinal fracture/paralysis Endocrine System:pituitary apoplexy, diabetes Hepato-biliary disorder:drug-induced liver injury Hematologic:white blood cells Psychiatric:mood swings, including depression, suicidal ideation and attempt Respiratory, thoracic and mediastinal disorder:interstitial lung disease Musculoskeletal System:decreased bone density, tenosynovitis-like symptoms, fibromyalgia Skin and Subcutaneous:injection site reactions Urogenital System:prostate pain
+Allergic Conditions: hypersensitivity reactions including anaphylaxis, rash, urticaria, and photosensitivity reactions Cardiovascular System:hypotension, myocardial infarction, pulmonary embolism Central/Peripheral Nervous System:convulsion, peripheral neuropathy, spinal fracture/paralysis Endocrine System:pituitary apoplexy, diabetes Hepato-biliary disorder:drug-induced liver injury Hematologic: leukopenia Psychiatric:mood swings, including depression, suicidal ideation and attempt Respiratory, thoracic and mediastinal disorder:interstitial lung disease Musculoskeletal System:decreased bone density, tenosynovitis-like symptoms, fibromyalgia Skin and Subcutaneous:injection site induration or swelling Urogenital System:prostate pain
