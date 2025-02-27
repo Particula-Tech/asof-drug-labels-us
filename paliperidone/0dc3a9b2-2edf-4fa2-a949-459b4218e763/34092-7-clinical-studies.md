@@ -9,7 +9,7 @@ Dosing was in the morning without regard to meals.
 Efficacy was evaluated using the Positive and Negative Syndrome Scale (PANSS), a validated multi-item inventory composed of five factors to evaluate positive symptoms, negative symptoms, disorganized thoughts, uncontrolled hostility/excitement, and anxiety/depression.
 Efficacy was also evaluated using the Personal and Social Performance (PSP) scale.
 The PSP is a validated clinician-rated scale that measures personal and social functioning in the domains of socially useful activities (e.g., work and study), personal and social relationships, self-care, and disturbing and aggressive behaviors.
-In all 3 studies (n = 1665), paliperidone was superior to placebo on the PANSS at all doses.
+In all 3 studies (n = 1,665), paliperidone was superior to placebo on the PANSS at all doses.
 Mean effects at all doses were fairly similar, although the higher doses in all studies were numerically superior.
 Paliperidone was also superior to placebo on the PSP in these trials.
 An examination of population subgroups did not reveal any evidence of differential responsiveness on the basis of gender, age (there were few patients over 65), or geographic region.
@@ -19,15 +19,12 @@ After the stabilization phase, patients were randomized in a double-blind manner
 Relapse was pre-defined as significant increase in PANSS (or pre-defined PANSS subscales), hospitalization, clinically significant suicidal or homicidal ideation, or deliberate injury to self or others.
 An interim analysis of the data showed a significantly longer time to relapse in patients treated with paliperidone compared to placebo, and the trial was stopped early because maintenance of efficacy was demonstrated.
 Adolescents The efficacy of paliperidone in adolescent subjects with schizophrenia was established in a randomized, double-blind, parallel-group, placebo-controlled, 6-week study using a fixed-dose weight-based treatment group design over the dose range of 1.5 to 12 mg/day.
-The study was carried out in the U.S., India, Romania, Russia, and Ukraine, and involved subjects 12 to 17 years of age meeting DSM-IV criteria for schizophrenia, with diagnosis confirmation using the Kiddie Schedule for Affective Disorders and Schizophrenia-Present and Lifetime Version (K-SADS-PL).
+The study was carried out in the U.S, India, Romania, Russia, and Ukraine, and involved subjects 12 to 17 years of age meeting DSM-IV criteria for schizophrenia, with diagnosis confirmation using the Kiddie Schedule for Affective Disorders and Schizophrenia-Present and Lifetime Version (K-SADS-PL).
 Eligible subjects were randomly assigned to 1 of 4 treatment groups: a placebo group or paliperidone Low, Medium, or High dose groups.
 Doses were administered based on body weight to minimize the risk of exposing lower-weight adolescents to high doses of paliperidone.
-Subjects weighing between 29 kg and less than 51 kg at the baseline visit were randomly assigned to receive placebo or 1.5 mg (Low dose), 3 mg (Medium dose), or 6 mg (High dose) of paliperidone
-
-daily, and subjects weighing at least 51 kg at the baseline visit were randomly assigned to receive placebo or 1.5 mg (Low dose), 6 mg (Medium dose), or 12 mg (High dose) of paliperidone
-
-daily.
+Subjects weighing between 29 kg and less than 51 kg at the baseline visit were randomly assigned to receive placebo or 1.5 mg (Low dose), 3 mg (Medium dose), or 6 mg (High dose) of paliperidone daily, and subjects weighing at least 51 kg at the baseline visit were randomly assigned to receive placebo or 1.5 mg (Low dose), 6 mg (Medium dose), or 12 mg (High dose) of paliperidone daily.
 Dosing was in the morning without regard to meals.
+
 Efficacy was evaluated using PANSS.
 Overall, this study demonstrated the efficacy of paliperidone in adolescents with schizophrenia in the dose range of 3 to 12 mg/day.
 Doses within this broad range were shown to be effective, however, there was no clear enhancement to efficacy at the higher doses, i.e., 6 mg for subjects weighing less than 51 kg and 12 mg for subjects weighing 51 kg or greater.

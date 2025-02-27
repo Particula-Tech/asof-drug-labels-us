@@ -25,5 +25,5 @@ However, pre- and post-implantation loss was increased, and the number of live e
 These parameters were not affected at a dose of 0.63 mg/kg, which is half of the MRHD based on mg/m2 body surface area.
 
 The fertility of male rats was not affected at oral doses of paliperidone of up to 2 times the MRHD of 12 mg/day based on mg/m2 body surface area, although sperm count and sperm viability studies were not conducted with paliperidone.
-In a subchronic study in Beagle dogs with risperidone, which is extensively converted to paliperidone in dogs and humans, all doses tested (0.31 mg/kg to 5.0 mg/kg) resulted in decreases in serum testosterone and in sperm motility and concentration (0.6 to 10 times the MRHD of 16 mg/day for risperidone, based on mg/m2 body surface area).
+In a subchronic study in Beagle dogs with risperidone, which is extensively converted to paliperidone in dogs and humans, all doses tested (0.31 mg/kg to 5 mg/kg) resulted in decreases in serum testosterone and in sperm motility and concentration (0.6 to 10 times the MRHD of 16 mg/day for risperidone, based on mg/m2 body surface area).
 Serum testosterone and sperm parameters partially recovered, but remained decreased after the last observation (two months after treatment was discontinued).

@@ -35,9 +35,7 @@ In the QT study (n = 141), the 8 mg dose of immediate-release oral paliperidone 
 The mean steady-state peak plasma concentration for this 8 mg dose of paliperidone immediate-release was more than twice the exposure observed with the maximum recommended 12 mg dose of paliperidone (Cmax ss = 113 ng/mL and 45 ng/mL, respectively, when administered with a standard breakfast).
 In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which Cmax ss = 35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on day 2 at 1.5 hours post-dose.
 None of the subjects had a change exceeding 60 msec or a QTcLD exceeding 500 msec at any time during this study.
-For the three fixed-dose efficacy studies in subjects with schizophrenia, electrocardiogram (ECG) measurements taken at various time points showed only one subject in the paliperidone
-
-12 mg group had a change exceeding 60 msec at one time-point on Day 6 (increase of 62 msec).
+For the three fixed-dose efficacy studies in subjects with schizophrenia, electrocardiogram (ECG) measurements taken at various time points showed only one subject in the paliperidone 12 mg group had a change exceeding 60 msec at one time-point on Day 6 (increase of 62 msec).
 No subject receiving paliperidone had a QTcLD exceeding 500 msec at any time in any of these three studies.
 
 ## 5.5 Tardive Dyskinesia
@@ -201,7 +199,7 @@ Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in pati
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 An increase in the incidence of pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## 5.8 Potential for Gastrointestinal Obstruction
 
@@ -215,6 +213,7 @@ These changes in bioavailability are more likely when the changes in transit tim
 
 Paliperidone can induce orthostatic hypotension and syncope in some patients because of its alpha-blocking activity.
 In pooled results of the three placebo-controlled, 6-week, fixed-dose trials in subjects with schizophrenia, syncope was reported in 0.8% (7/850) of subjects treated with paliperidone (3 mg, 6 mg, 9 mg, 12 mg) compared to 0.3% (1/355) of subjects treated with placebo.
+
 Paliperidone should be used with caution in patients with known cardiovascular disease (e.g., heart failure, history of myocardial infarction or ischemia, conduction abnormalities), cerebrovascular disease, or conditions that predispose the patient to hypotension (e.g., dehydration, hypovolemia, and treatment with antihypertensive medications).
 Monitoring of orthostatic vital signs should be considered in patients who are vulnerable to hypotension.
 
@@ -233,7 +232,7 @@ In patients with a history of a clinically significant low WBC/ANC or a drug-ind
 In such patients, consider discontinuation of paliperidone at the first sign of a clinically significant decline in WBC in the absence of other causative factors.
 
 Monitor patients with clinically significant neutropenia for fever or other symptoms or signs of infection and treat promptly if such symptoms or signs occur.
-Discontinue paliperidone in patients with severe neutropenia (absolute neutrophil count < 1000/mm3) and follow their WBC until recovery.
+Discontinue paliperidone in patients with severe neutropenia (absolute neutrophil count < 1,000/mm3) and follow their WBC until recovery.
 
 ## 5.12 Potential for Cognitive and Motor Impairment
 
@@ -244,9 +243,7 @@ Patients should be cautioned about performing activities requiring mental alertn
 ## 5.13 Seizures
 
 During premarketing clinical trials in subjects with schizophrenia (the three placebo-controlled, 6-week, fixed-dose studies and a study conducted in elderly schizophrenic subjects), seizures occurred in 0.22% of subjects treated with paliperidone (3 mg, 6 mg, 9 mg, 12 mg) and 0.25% of subjects treated with placebo.
-Like other antipsychotic drugs, paliperidone
-
-should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
+Like other antipsychotic drugs, paliperidone should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in patients 65 years or older.
 
 ## 5.14 Dysphagia

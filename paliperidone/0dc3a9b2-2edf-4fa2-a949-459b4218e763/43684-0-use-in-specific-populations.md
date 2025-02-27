@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including paliperidone, during pregnancy.
-Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-andresearch-programs/pregnancyregistry/.
+Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 
 Risk Summary
 
@@ -24,8 +24,8 @@ Clinical Considerations
 
 Disease-associated maternal and/or embryo/fetal risk
 
-There is a risk to the mother from untreated schizophrenia, including increased risk of relapse,hospitalization, and suicide.
-Schizophrenia are associated with increased adverse perinatal outcomes,including preterm birth.
+There is a risk to the mother from untreated schizophrenia, including increased risk of relapse, hospitalization, and suicide.
+Schizophrenia are associated with increased adverse perinatal outcomes, including preterm birth.
 It is not known if this is a direct result of the illness or other comorbid factors.
 
 Fetal/Neonatal Adverse Reactions
@@ -54,7 +54,7 @@ There was no evidence of teratogenicity in embryo-fetal developmental toxicity s
 When the offspring of pregnant rats, treated with risperidone at 0.6 times the MRHD based on mg/m2 body surface area, reached adulthood, learning was impaired.
 Increased neuronal cell death occurred in the fetal brains of the offspring of pregnant rats treated at 0.5 to 1.2 times the MRHD; the postnatal development and growth of the offspring was delayed.
 
-In rat reproduction studies with risperidone, pup deaths occurred at oral doses which are less than the MRHD of risperidone based on mg/m2 body surface area; it is not known whether these deaths were due to a direct effect on the fetuses or pups or to effects on the dams (see RISPERDAL® package insert).
+In rat reproduction studies with risperidone, pup deaths occurred at oral doses which are less than the MRHD of risperidone based on mg/m2 body surface area; it is not known whether these deaths were due to a direct effect on the fetuses or pups or to effects on the dams (see RISPERDAL* package insert).
 
 ## 8.2 Lactation
 
@@ -101,10 +101,9 @@ The safety, tolerability, and efficacy of paliperidone were evaluated in a 6-wee
 In this study, subjects received flexible doses of paliperidone (3 mg to 12 mg once daily).
 In addition, a small number of subjects 65 years of age and older were included in the 6-week placebo-controlled studies in which adult schizophrenic subjects received fixed doses of paliperidone (3 mg to 15 mg once daily) [see Clinical Studies (14)].
 There were no subjects ≥ 65 years of age in the schizoaffective disorder studies.
-Overall, of the total number of subjects in schizophrenia clinical studies of paliperidone
-
-(n = 1796), including those who received paliperidone or placebo, 125 (7%) were 65 years of age and older and 22 (1.2%) were 75 years of age and older.
+Overall, of the total number of subjects in schizophrenia clinical studies of paliperidone (n = 1,796), including those who received paliperidone or placebo, 125 (7%) were 65 years of age and older and 22 (1.2%) were 75 years of age and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in response between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
+
 This drug is known to be substantially excreted by the kidney and clearance is decreased in patients with moderate to severe renal impairment [see Clinical Pharmacology (12.3)], who should be given reduced doses.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.5)].
 

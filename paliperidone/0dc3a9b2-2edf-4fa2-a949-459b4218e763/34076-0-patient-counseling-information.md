@@ -57,7 +57,8 @@ Tablets should not be chewed, divided, or crushed [see Dosage and Administration
 Pregnancy
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with paliperidone.
-Advise patients that paliperidone may cause extrapyramidal and/or withdrawal symptoms in a neonate [see Use in Specific Populations (8.1)].
+Advise patients that paliperidone may cause extrapyramidal and/or withdrawal symptoms in a neonate.
+Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to paliperidone extended-release tablets during pregnancy [see Use in Specific Populations (8.1)].
 
 Lactation
 
@@ -67,6 +68,8 @@ Infertility
 
 Advise females of reproductive potential that paliperidone may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Use in Specific Populations (8.3)].
+
+*Brands listed are the trademarks of their respective owner.
 
 Distributed by:
 
@@ -80,7 +83,5 @@ Sun Pharmaceutical Industries Limited
 
 Survey No. 1012, Dadra-396 193, U.T. of D & NH and Daman & Diu, India.
 
-5244997
-
 ISS.
-09/2023
+02/2025
