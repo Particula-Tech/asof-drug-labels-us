@@ -87,9 +87,9 @@ Table 1 - Adverse reactions occurring with an incidence of at least 5% in either
 
 * The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.
 
-†COSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.
+† COSTART Coding Symbols for Thesaurus of Adverse Reaction Terms.
 
-‡A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system.
+‡ A patient may have had more than 1 adverse reaction, including more than 1 adverse reaction in the same body system.
 
 § N = Number of patients receiving the treatment.
 
@@ -97,7 +97,7 @@ Table 1 - Adverse reactions occurring with an incidence of at least 5% in either
 
 Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (see Table 2).
 
-Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC Trial*
+Table 2 - Number of Patients with Pre-specified Adverse Reactions in ATAC Trial*
 
 |  | AnastrozoleN=3092(%) | TamoxifenN=3094(%) | Odds-ratio | 95% CI |
 | --- | --- | --- | --- | --- |
@@ -122,9 +122,9 @@ Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC Tria
 
 * Patients with multiple events in the same category are counted only once in that category.
 
-†Refers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia.
+† Refers to joint symptoms, including joint disorder, arthritis, arthrosis and arthralgia.
 
-‡Percentages calculated based upon the numbers of patients with an intact uterus at baseline.
+‡ Percentages calculated based upon the numbers of patients with an intact uterus at baseline.
 
 Ischemic Cardiovascular Events
 
@@ -342,7 +342,7 @@ The incidences of the following adverse reaction groups potentially causally rel
 These six groups, and the adverse reactions captured in the groups, were prospectively defined.
 The results are shown in the table below.
 
-Table 6 —Number (n) and Percentage of Patients with Pre-specified Adverse Reactions in Trials 0004 and 0005
+Table 6 - Number (n) and Percentage of Patients with Pre-specified Adverse Reactions in Trials 0004 and 0005
 
 |  | Anastrozole |  | Anastrozole |  | Megestrol Acetate |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -365,4 +365,5 @@ The following have been reported in post-approval use of anastrozole:
 - Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
 - Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
 - Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4)]
-- Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
+- Myalgia and hypercalcemia (with or without an increase in parathyroid hormone)
+- Tendon disorders including tendon rupture, tendonitis, tenosynovitis, and tenosynovitis stenosans (trigger finger)

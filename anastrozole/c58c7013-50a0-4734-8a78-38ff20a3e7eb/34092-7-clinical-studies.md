@@ -47,7 +47,7 @@ Table 7 - Demographic and Baseline Characteristics for ATAC Trial
 | Moderately differentiated | 46.8 | 47.8 | 46.5 |
 | Poorly/undifferentiated | 23.7 | 23.3 | 23.7 |
 | Not assessed/recorded | 8.7 | 8.4 | 8.5 |
-| *N = Number of patients randomized to the treatment†The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up‡Includes patients who were estrogen receptor (ER) positive or progesterone receptor (PgR) positive, or both positive§Includes patients with both ER negative and PgR negative receptor status¶Includes all other combinations of ER and PgR receptor status unknown#Among the patients who had breast conservation, radiotherapy was administered to 95.0% of patients in the anastrozole arm, 94.1% in the tamoxifen arm and 94.5% in the anastrozole plus tamoxifen arm. |  |  |  |
+| * N = Number of patients randomized to the treatment† The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up‡ Includes patients who were estrogen receptor (ER) positive or progesterone receptor (PgR) positive, or both positive§ Includes patients with both ER negative and PgR negative receptor status¶ Includes all other combinations of ER and PgR receptor status unknown# Among the patients who had breast conservation, radiotherapy was administered to 95.0% of patients in the anastrozole arm, 94.1% in the tamoxifen arm and 94.5% in the anastrozole plus tamoxifen arm. |  |  |  |
 
 Demographic and other baseline characteristics were similar among the three treatment groups (see Table 7).
 
@@ -81,7 +81,7 @@ Table 8 - All Recurrence and Death Events*
 | Death from Any Cause | 411 (13.2) | 420 (13.5) | 296 (11.3) | 301 (11.6) |
 | Death breast cancer | 218 (7.0) | 248 (8.0) | 138 (5.3) | 160 (6.2) |
 | Death other reason (including unknown) | 193 (6.2) | 172 (5.5) | 158 (6.0) | 141 (5.4) |
-| * The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.†Patients may fall into more than one category.‡N = Number of patients randomized. |  |  |  |  |
+| * The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up.† Patients may fall into more than one category.‡ N = Number of patients randomized. |  |  |  |  |
 
 A summary of the study efficacy results is provided in Table 9.
 
@@ -103,7 +103,7 @@ Table 9 - ATAC Efficacy Summary*
 | Overall Survival | 411 | 420 | 296 | 301 |
 | Hazard ratio | 0.97 |  | 0.97 |  |
 | 2 sided 95% CI | 0.85 to 1.12 |  | 0.83 to 1.14 |  |
-| *The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up. |  |  |  |  |
+| * The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up. |  |  |  |  |
 
 10-year median follow-up Efficacy Results from the ATAC Trial
 
@@ -180,7 +180,7 @@ Table 12 – Efficacy Results of First-line Treatment
 | 2 sided 95% CI‡ | (1.11, 1.82) |  | (0.85, 1.20) |  |
 | p-value§ | 0.006 |  | 0.920 |  |
 | Best objective response rate |  |  |  |  |
-| Number (%) of subjects with CR¶+ PR# | 36 (21.1%) | 31 (17.0%) | 112 (32.9%) | 107 (32.6%) |
+| Number (%) of subjects with CR¶ + PR# | 36 (21.1%) | 31 (17.0%) | 112 (32.9%) | 107 (32.6%) |
 | Odds Ratio (LCL*)♠ | 1.30 (0.83) |  | 1.01 (0.77) |  |
 
 * LCL = Lower Confidence Limit
