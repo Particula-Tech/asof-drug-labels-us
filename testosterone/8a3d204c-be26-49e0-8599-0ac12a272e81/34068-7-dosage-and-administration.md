@@ -13,9 +13,9 @@ Dose adjustment
 Measure total testosterone trough concentrations (measured 7 days after the most recent dose) following 6 weeks of dosing, following 6 weeks after dose adjustment, and periodically while on treatment with XYOSTED.
 A trough concentration between 350 ng/dL and 650 ng/dL generally provides testosterone exposures in the normal range during the entire dosing interval.
 
-Decrease the dose by 25 mg if the total testosterone trough concentration (C trough) is ≥650 ng/dL.
-Increase the dose by 25 mg if the total testosterone C troughis <350 ng/dL.
-Maintain the same dose if the total testosterone C troughis ≥350 ng/dL and <650 ng/dL.
+Decrease the dose by 25 mg if the total testosterone trough concentration (Ctrough) is ≥650 ng/dL.
+Increase the dose by 25 mg if the total testosterone Ctrough is <350 ng/dL.
+Maintain the same dose if the total testosterone Ctrough is ≥350 ng/dL and <650 ng/dL.
 
 ## 2.3 Important Administration Instructions
 
