@@ -10,7 +10,6 @@ The following adverse reactions are discussed in more detail in other sections o
 - •Secondary Malignancies [see Warnings and Precautions (5.5)]
 - •Veno-occlusive Liver Disease [see Warnings and Precautions (5.6)]
 - •Alcohol Content [see Warnings and Precautions (5.7)]
-- •Embryo-Fetal Toxicity [see Warnings and Precautions (5.8)]
 - •Infertility [see Warnings and Precautions (5.9)]
 - •Impaired Wound Healing [see Warnings and Precautions (5.10)]
 - •Hyponatremia [see Warnings and Precautions (5.11)]
@@ -42,7 +41,7 @@ Hepatic: veno-occlusive liver disease, cholestatic hepatitis, cytolytic hepatiti
 
 Immune: immunosuppression, anaphylactic shock and hypersensitivity reaction.
 
-Infections: The following manifestations have been associated with myelosuppression and immunosuppression caused by cyclophosphamide: increased risk for and severity of pneumonias (including fatal outcomes), other bacterial, fungal, viral, protozoal, and parasitic infections; reactivation of latent infections, (including viral hepatitis, tuberculosis), Pneumocystis jiroveci, herpes zoster, Strongyloides, sepsis and septic shock.
+Infections: The following manifestations have been associated with myelosuppression and immunosuppression caused by cyclophosphamide: increased risk for and severity of pneumonias (including fatal outcomes), other bacterial, fungal, viral, protozoal, and parasitic infections; reactivation of latent infections, (including viral hepatitis, tuberculosis), pneumocystis jiroveci, herpes zoster, strongyloides, sepsis and septic shock.
 
 Investigations: blood lactate dehydrogenase increased, C-reactive protein increased.
 

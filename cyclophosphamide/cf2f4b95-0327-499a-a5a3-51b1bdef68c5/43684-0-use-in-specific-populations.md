@@ -4,13 +4,13 @@
 
 Risk Summary
 
-Based on its mechanism of action and published reports of effects in pregnant patients or animals, cyclophosphamide Injection can cause fetal harm when administered to a pregnant woman based on its mechanism of action and published reports of effects in pregnant patients or animals [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
+Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide Injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
 Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn [see Data].
 Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys [see Data].
 Advise pregnant women and females of reproductive potential of the potential risk to the fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects is 2%-4% and of miscarriage is 15%-20% of clinically recognized pregnancies.
+In the U.S. general population, the estimated background risk of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
 
 Data
 
@@ -29,7 +29,7 @@ Risk Summary
 
 Cyclophosphamide is present in breast milk.
 Neutropenia, thrombocytopenia, low hemoglobin, and diarrhea have been reported in infants breast fed by women treated with cyclophosphamide.
-Because of the potential for serious adverse reactions in a breastfed infant from Cyclophosphamide Injection, lactating women should be advised not to breastfeed during the treatment and for 1 week after the last dose.
+Because of the potential for serious adverse reactions in a breastfed child, advise lactating women not to breastfeed during the treatment and for 1 week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -37,23 +37,21 @@ Cyclophosphamide Injection can cause fetal harm when administered to a pregnant 
 
 Pregnancy Testing
 
-Verify the pregnancy status of females of reproductive potential prior to the initiation of Cyclophosphamide Injection [see Use in Specific Populations (8.1)].
+Verify the pregnancy status of females of reproductive potential prior to the initiation of Cyclophosphamide Injection.
 
 Contraception
 
 Females
 
-Advise female patients of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for up to 1 year after therapy [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
+Advise female patients of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for up to 1 year after therapy.
 
 Males
 
-Based on findings in genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection for 4 months after therapy [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
+Based on findings in genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection for 4 months after therapy [see Nonclinical Toxicology (13.1)].
 
 Infertility
 
-Females
-
-Amenorrhea, transient or permanent, associated with decreased estrogen and increased gonadotropin secretion develops in a proportion of women treated with cyclophosphamide.
+Females Amenorrhea, transient or permanent, associated with decreased estrogen and increased gonadotropin secretion develops in a proportion of women treated with cyclophosphamide.
 Affected patients generally resume regular menses within a few months after cessation of therapy.
 The risk of premature menopause with cyclophosphamide increases with age.
 Oligomenorrhea has also been reported in association with cyclophosphamide treatment.
@@ -61,9 +59,7 @@ Oligomenorrhea has also been reported in association with cyclophosphamide treat
 Animal data suggest an increased risk of failed pregnancy and malformations may persist after discontinuation of cyclophosphamide as long as oocytes/follicles exist that were exposed to cyclophosphamide during any of their maturation phases.
 The exact duration of follicular development in humans is not known but may be longer than 12 months [see Nonclinical Toxicology (13.1)].
 
-Males
-
-Men treated with cyclophosphamide may develop oligospermia or azoospermia which are normally associated with increased gonadotropin but normal testosterone secretion.
+Males Men treated with cyclophosphamide may develop oligospermia or azoospermia which are normally associated with increased gonadotropin but normal testosterone secretion.
 
 ## 8.4 Pediatric Use
 

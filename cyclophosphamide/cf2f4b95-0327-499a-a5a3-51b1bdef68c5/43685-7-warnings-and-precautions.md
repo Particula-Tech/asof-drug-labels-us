@@ -87,17 +87,18 @@ Based on its mechanism of action and published reports of effects in pregnant pa
 Exposure to cyclophosphamide during pregnancy may cause birth defects, miscarriage, fetal growth retardation, and fetotoxic effects in the newborn.
 Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits, and monkeys.
 
-Advise pregnant women and female patients of reproductive potential of the potential risk to a fetus and to use effective contraception during treatment with Cyclophosphamide Injection and for up to 1 year after completion of therapy.
-Advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for 4 months after completion of therapy [see Use in Specific Populations (8.3)].
+Advise pregnant women and females of reproductive potential of the potential risk to a fetus [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for up to 1 year after completion of therapy.
+Advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for 4 months after completion of therapy [see Use in Specific Populations (8.1, 8.3)].
 
 ## 5.9 Infertility
 
-Male and female reproductive function and fertility may be impaired in patients being treated with cyclophosphamide.
+Male and female reproductive function and fertility may be impaired in patients being treated with Cyclophosphamide Injection.
 Cyclophosphamide interferes with oogenesis and spermatogenesis.
 It may cause sterility in both sexes.
 Development of sterility appears to depend on the dose of cyclophosphamide, duration of therapy, and the state of gonadal function at the time of treatment.
 Cyclophosphamide-induced sterility may be irreversible in some patients.
-Advise patients on the potential risks for infertility [see Use in Specific Populations (8.3 and 8.4)].
+Advise patients on the potential risks for infertility [see Use in Specific Populations (8.3, 8.4)].
 
 ## 5.10 Impairment of Wound Healing
 
