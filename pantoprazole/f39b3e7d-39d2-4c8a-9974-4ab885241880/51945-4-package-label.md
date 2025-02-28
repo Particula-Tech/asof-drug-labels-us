@@ -7,7 +7,7 @@ PROTONIX® I.V.
 
 40 mg/vial
 
-Sterile For Intravenous Infusion Only Single-dose vial
+Sterile For Intravenous Use Single-dose vial
 
 Rx only
 
@@ -22,7 +22,7 @@ PROTONIX® I.V.
 
 40 mg/vial
 
-Sterile For Intravenous Infusion Only Single-dose vial
+Sterile For Intravenous Use Single-dose vial
 
 Contains 1 mg edetate disodium No filter required
 
@@ -34,7 +34,7 @@ Each vial contains: Pantoprazole 40 mg (equivalent to 45.1 mg of pantoprazole so
 [See USP Controlled Room Temperature].
 Protect vials from light; use of vial carton is recommended.
 Dist. by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia, PA 19101 Under license from Takeda GmbH D78467 Konstanz, Germany PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
-MADE IN FRANCE R03/1020/6171043
+MADE IN FRANCE R04/0924/6171043
 
 1 Bundle of 10 unit cartons NDC 0008-4001-10
 
@@ -43,7 +43,7 @@ PROTONIX® I.V.
 
 40 mg/vial
 
-Sterile For Intravenous Infusion Only Single-dose vial
+Sterile For Intravenous Use Single-dose vial
 
 PREMIERProRx®
 
@@ -68,6 +68,6 @@ PROTONIX® I.V.
 
 40 mg/vial
 
-Sterile For Intravenous Infusion Only Single-dose vial
+Sterile For Intravenous Use Single-dose vial
 
 PREMIERProRx®
