@@ -25,7 +25,7 @@ The plasma protein binding of meropenem is approximately 2%.
 
 After a single intravenous dose of Meropenem for injection, the highest mean concentrations of meropenem were found in tissues and fluids at 1 hour (0.5 hours to 1.5 hours) after the start of infusion, except where indicated in the tissues and fluids listed in Table 5 below.
 
-Table 5: Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported)
+Table 3: Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported)
 
 | Tissue | Intravenous Dose(gram) | Number of Samples | Mean [mcg/mLor mcg/(gram)]at 1 hour unless otherwise noted | Range [mcg/mL ormcg/(gram)] |
 | --- | --- | --- | --- | --- |
