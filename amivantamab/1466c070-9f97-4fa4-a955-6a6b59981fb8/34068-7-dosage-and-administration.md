@@ -23,7 +23,7 @@ Table 1: Patient Selection
 | Previously Treated NSCLC with EGFR Exon 20 Insertion Mutations [see Indications and Usage (1.4)] | RYBREVANT as a single agent |  |
 | Information on FDA approved tests is available at: http://www.fda.gov/CompanionDiagnostics. |  |  |
 
-## 2.3 Recommended Dosage of RYBREVANT in Combination with Carboplatin and Pemetrexed for the treatment of NSCLC – Every 3-week dosing
+## 2.3 Recommended Dosage of RYBREVANT in Combination with Carboplatin and Pemetrexed for the Treatment of NSCLC – Every 3-week dosing
 
 The recommended dosage of RYBREVANT, administered in combination with carboplatin and pemetrexed is based on baseline body weight is provided in Table 2.
 
@@ -84,8 +84,7 @@ Refer to the lazertinib prescribing information for information about concomitan
 
 Prior to the initial infusion of RYBREVANT (Week 1, Day 1 and 2), administer premedications as described in Table 5 to reduce the risk of infusion-related reactions [see Warnings and Precautions (5.1)].
 
-Glucocorticoid administration is required for Week 1, Day 1 and 2 dose only and upon re-initiation after prolonged dose interruptions, then as necessary for subsequent infusions (see Table 5).
-Administer both antihistamine and antipyretic prior to all infusions.
+Glucocorticoid administration is required for Week 1, Day 1 and 2 dose only and upon re-initiation after prolonged dose interruptions, then as necessary for subsequent infusions (see Table 5).Administer both antihistamine and antipyretic prior to all infusions.
 
 Table 5: Premedications
 
@@ -119,7 +118,7 @@ Table 7: Recommended Dosage Modifications and Management for Adverse Reactions f
 | --- | --- | --- |
 | Infusion-related reactions (IRR) [see Warnings and Precautions (5.1)] | Grade 1 to 2 | Interrupt RYBREVANT infusion if IRR is suspected and monitor patient until reaction symptoms resolve.Resume the infusion at 50% of the infusion rate at which the reaction occurred.If there are no additional symptoms after 30 minutes, the infusion rate may be escalated (see Tables 8 and 9). Include corticosteroid with premedications for subsequent dose (see Table 5). |
 | Grade 3 | Interrupt RYBREVANT infusion and administer supportive care medications. Continuously monitor patient until reaction symptoms resolve.Resume the infusion at 50% of the infusion rate at which the reaction occurred.If there are no additional symptoms after 30 minutes, the infusion rate may be escalated (see Tables 8 and 9). Include corticosteroid with premedications for subsequent dose (see Table 5). For recurrent Grade 3, permanently discontinue RYBREVANT. |  |
-| Grade 4 | Permanently discontinue RYBREVANT. |  |
+| Grade 4 or any Grade anaphylaxis / anaphylactic reactions | Permanently discontinue RYBREVANT. |  |
 | Interstitial Lung Disease (ILD)/pneumonitis [see Warnings and Precautions (5.2)] | Any Grade | Withhold RYBREVANT if ILD/pneumonitis is suspected.Permanently discontinue RYBREVANT if ILD/pneumonitis is confirmed. |
 | Venous Thromboembolic (VTE) Events [Applies to the combination with lazertinib, see Warnings and Precautions (5.3)] | Grade 2 or 3 | Withhold RYBREVANT and lazertinib.Administer anticoagulant treatment as clinically indicated.Once anticoagulant treatment has been initiated, resume RYBREVANT and lazertinib at the same dose level, at the discretion of the healthcare provider. |
 |  | Grade 4 or recurrent Grade 2 or 3 despite therapeutic level anticoagulation | Withhold lazertinib and permanently discontinue RYBREVANT.Administer anticoagulant treatment as clinically indicated.Once anticoagulant treatment has been initiated, treatment can continue with lazertinib at the same dose level at the discretion of the healthcare provider. |
@@ -164,7 +163,7 @@ Dilute and prepare RYBREVANT for intravenous infusion before administration.
 
 - Administer the diluted RYBREVANT solution [see Dosage and Administration (2.7)] by intravenous infusion using an infusion set fitted with a flow regulator and with an in-line, sterile, non-pyrogenic, low protein-binding polyethersulfone (PES) filter (pore size 0.2 micrometer).
 - Administration sets must be made of either polyurethane (PU), polybutadiene (PBD), PVC, PP, or PE.
-- The administration set with filter, must be primed with either 5% Dextrose Injection or 0.9% Sodium Chloride Injection prior to the initiation of each RYBREVANT infusion.
+- The administration set with filter, mustbe primed with either 5% Dextrose Injection or 0.9% Sodium Chloride Injection prior to the initiation of each RYBREVANT infusion.
 - Do not infuse RYBREVANT concomitantly in the same intravenous line with other agents.
 
 RYBREVANT in Combination with Carboplatin and Pemetrexed

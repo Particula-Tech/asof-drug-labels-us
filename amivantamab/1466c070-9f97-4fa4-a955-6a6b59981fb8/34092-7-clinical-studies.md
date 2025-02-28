@@ -80,7 +80,7 @@ The evaluation of efficacy for metastatic NSCLC relied upon comparison between:
   RYBREVANT was administered intravenously at 1,400 mg (for patients < 80 kg) or 1,750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1,750 mg (for patients < 80 kg) or 2,100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
 - Platinum-based chemotherapy with carboplatin and pemetrexed.
 
-For both arms, carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks and pemetrexed was administered intravenously at 500 mg/m 2once every 3 weeks until disease progression or unacceptable toxicity.
+For both arms, carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks and pemetrexed was administered intravenously at 500 mg/m 2 once every 3 weeks until disease progression or unacceptable toxicity.
 
 Randomization was stratified by osimertinib line of therapy (first-line or second-line), prior brain metastases (yes or no), and Asian race (yes or no). Tumor assessments were performed every 6 weeks for the first 12 months and every 12 weeks thereafter.
 
@@ -135,7 +135,7 @@ Patients with a medical history of interstitial lung disease or active ILD were 
 A total of 308 patients were randomized 1:1 to receive RYBREVANT in combination with carboplatin and pemetrexed (n=153) or carboplatin and pemetrexed (n=155).
 Patients received RYBREVANT intravenously at 1,400 mg (for patients < 80 kg) or 1,750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1,750 mg (for patients < 80 kg) or 2,100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
 Carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks.
-Pemetrexed was administered intravenously at 500 mg/m 2 on once every 3 weeks until disease progression or unacceptable toxicity.
+Pemetrexed was administered intravenously at 500 mg/m 2on once every 3 weeks until disease progression or unacceptable toxicity.
 Patients were stratified by Eastern Cooperative Oncology Group (ECOG) performance status (0 or 1) and prior brain metastases (yes or no).
 
 The primary efficacy outcome measure was progression-free survival (PFS) as assessed by blinded independent central review (BICR).
@@ -178,7 +178,7 @@ The study included patients with locally advanced or metastatic NSCLC with EGFR 
 Patients with untreated brain metastases and patients with a history of ILD requiring treatment with prolonged steroids or other immunosuppressive agents within the last 2 years were not eligible for the study.
 
 In the efficacy population, EGFR exon 20 insertion mutation status was determined by prospective local testing using tissue (94%) and/or plasma (6%) samples.
-Of the 81 patients with EGFR exon 20 insertion mutations identified by local testing, plasma samples from 78/81 (96%) patients were tested retrospectively using Guardant360 ® CDx, identifying 62/78 (79%) samples with an EGFR exon 20 insertion mutation; 16/78 (21%) samples did not have an EGFR exon 20 insertion mutation identified.
+Of the 81 patients with EGFR exon 20 insertion mutations identified by local testing, plasma samples from 78/81 (96%) patients were tested retrospectively using Guardant360 ®CDx, identifying 62/78 (79%) samples with an EGFR exon 20 insertion mutation; 16/78 (21%) samples did not have an EGFR exon 20 insertion mutation identified.
 
 Patients received RYBREVANT at 1,050 mg (for patient baseline body weight < 80 kg) or 1,400 mg (for patient baseline body weight ≥ 80 kg) once weekly for 4 weeks, then every 2 weeks thereafter until disease progression or unacceptable toxicity.
 The major efficacy outcome measure was overall response rate (ORR) according to Response Evaluation Criteria in Solid Tumors (RECIST v1.1) as evaluated by Blinded Independent Central Review (BICR).
@@ -195,7 +195,7 @@ Table 22: Efficacy Results for CHRYSALIS
 
 |  | Prior Platinum-based Chemotherapy Treated (N=81) |
 | --- | --- |
-| Overall Response Rate (95% CI) | 40% (29%, 51%) |
+| Overall Response Rate(95% CI) | 40% (29%, 51%) |
 | Complete response (CR) | 3.7% |
 | Partial response (PR) | 36% |
 | Duration of Response (DOR) |  |

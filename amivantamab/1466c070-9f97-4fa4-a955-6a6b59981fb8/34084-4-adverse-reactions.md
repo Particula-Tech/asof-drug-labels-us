@@ -53,10 +53,10 @@ Serious adverse reactions occurring in ≥ 2% of patients included VTE (11%), pn
 Fatal adverse reactions occurred in 7% of patients who received RYBREVANT in combination with lazertinib due to death not otherwise specified (1.2%); sepsis and respiratory failure (1% each); pneumonia, myocardial infarction and sudden death (0.7% each); cerebral infarction, pulmonary embolism (PE), and COVID-19 infection (0.5% each); and ILD/pneumonitis, acute respiratory distress syndrome (ARDS), and cardiopulmonary arrest (0.2% each).
 
 Permanent discontinuation of RYBREVANT due to an adverse reaction occurred in 34% of patients.
-Adverse reactions which resulted in permanent discontinuation in ≥ 1% of patients included rash, infusion related reactions, nail toxicity, VTE, ILD/pneumonitis, pneumonia, edema, hypoalbuminemia, fatigue, paresthesia and dyspnea.
+Adverse reactions which resulted in permanent discontinuation in ≥ 1% of patients included rash, infusion-related reactions, nail toxicity, VTE, ILD/pneumonitis, pneumonia, edema, hypoalbuminemia, fatigue, paresthesia and dyspnea.
 
 Dosage interruption of RYBREVANT due to an adverse reaction occurred in 88% of patients.
-Adverse reactions which required dosage interruption in ≥5% of patients were infusion related reactions, rash, nail toxicity, COVID-19, VTE, increased ALT, edema, and hypoalbuminemia.
+Adverse reactions which required dosage interruption in ≥5% of patients were infusion-related reactions, rash, nail toxicity, COVID-19, VTE, increased ALT, edema, and hypoalbuminemia.
 
 Dose reductions of RYBREVANT due to an adverse reaction occurred in 46% of patients.
 Adverse reactions requiring dose reductions in ≥ 5% of patients were rash and nail toxicity.
@@ -144,7 +144,7 @@ Previously Treated Non-Small Cell Lung Cancer (NSCLC) with EGFR Exon 19 Deletion
 The safety data described below reflect exposure to RYBREVANT in combination with carboplatin and pemetrexed was evaluated in MARIPOSA-2 [see Clinical Studies (14.2)].
 Eligible patients had locally advanced or metastatic NSCLC with EGFR exon 19 deletions or exon 21 L858R substitution mutations with progressive disease on or after treatment with osimertinib.Patients with asymptomatic or previously treated and stable intracranial metastases were eligible.
 Patients received RYBREVANT intravenously at 1,400 mg (for patients < 80 kg) or 1,750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1,750 mg (for patients < 80 kg) or 2,100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity, in combination with carboplatin at area under the curve AUC 5 once every 3 weeks, for up to 12 weeks, and pemetrexed at 500 mg/m 2once every 3 weeks until disease progression or unacceptable toxicity.
-Among patients who received RYBREVANT (n-130), 52% were exposed for 6 months or longer and 7% were exposed for greater than one year.
+Among patients who received RYBREVANT (n=130), 52% were exposed for 6 months or longer and 7% were exposed for greater than one year.
 The median treatment duration was 6.3 months (range: 0 to 14.7 months).
 
 The median age was 62 years (range: 36 to 84 years); 62% were female; 48% were Asian, 46% were White, 2.3% Black or African American, 1.5% race not reported, 1.5% race unknown, 0.8% Alaska native; 7% were Hispanic or Latino; and 87% had baseline body weight < 80 kg.
@@ -275,7 +275,7 @@ Table 14: Adverse Reactions (≥ 10%) in Patients with Metastatic NSCLC with Exo
 | Hemorrhoids | 12 | 1 | 1.3 | 0 |
 | Abdominal pain | 11 | 0.7 | 8 | 0 |
 | General disorders and administration site conditions |  |  |  |  |
-| Infusion related reaction | 42 | 1.3 | 1.3 | 0 |
+| Infusion-related reaction | 42 | 1.3 | 1.3 | 0 |
 | Fatigue | 42 | 6 | 45 | 3.9 |
 | Edema | 40 | 1.3 | 19 | 0 |
 | Pyrexia | 17 | 0 | 6 | 0 |
@@ -409,3 +409,10 @@ Table 17: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline 
 | Decreased potassium | 26 | 6 |
 | Hematology |  |  |
 | Decreased lymphocytes | 36 | 8 |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions associated with the use of RYBREVANT were identified in clinical studies or postmarketing reports.
+Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Immune System disorders:Infusion-related reactions, including anaphylaxis/anaphylactic reactions

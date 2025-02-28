@@ -2,7 +2,7 @@
 
 ## 5.1 Infusion-Related Reactions
 
-RYBREVANT can cause infusion-related reactions (IRR); signs and symptoms of IRR include dyspnea, flushing, fever, chills, nausea, chest discomfort, hypotension, and vomiting.
+RYBREVANT can cause infusion-related reactions (IRR) including anaphylaxis; signs and symptoms of IRR include dyspnea, flushing, fever, chills, nausea, chest discomfort, hypotension, and vomiting.
 The median time to IRR onset is approximately 1 hour.
 
 RYBREVANT with Lazertinib
@@ -31,6 +31,7 @@ Administer RYBREVANT via a peripheral line on Week 1 and Week 2 to reduce the ri
 Monitor patients for signs and symptoms of infusion reactions during RYBREVANT infusion in a setting where cardiopulmonary resuscitation medication and equipment are available.
 Interrupt infusion if IRR is suspected.
 Reduce the infusion rate or permanently discontinue RYBREVANT based on severity [see Dosage and Administration (2.6)].
+If an anaphylactic reaction occurs, permanently discontinue RYBREVANT.
 
 ## 5.2 Interstitial Lung Disease/Pneumonitis
 

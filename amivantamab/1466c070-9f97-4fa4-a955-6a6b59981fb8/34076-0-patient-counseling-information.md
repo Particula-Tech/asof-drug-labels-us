@@ -4,7 +4,8 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Infusion-Related Reactions
 
-Advise patients that RYBREVANT can cause infusion-related reactions, the majority of which may occur with the first infusion.
+Advise patients that RYBREVANT can cause infusion-related reactions including anaphylaxis.
+The majority of infusion-related reactions occurred with the first infusion.
 Advise patients to alert their healthcare provider immediately for any signs or symptoms of infusion-related reactions [see Warnings and Precautions (5.1)].
 
 Interstitial Lung Disease/Pneumonitis

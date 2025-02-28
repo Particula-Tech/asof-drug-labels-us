@@ -7,8 +7,7 @@ Risk Summary
 Based on the mechanism of action and findings in animal models, RYBREVANT can cause fetal harm when administered to a pregnant woman.
 There are no available data on the use of RYBREVANT in pregnant women or animal data to assess the risk of RYBREVANT in pregnancy.
 Disruption or depletion of EGFR in animal models resulted in impairment of embryo-fetal development including effects on placental, lung, cardiac, skin, and neural development.
-The absence of EGFR or MET signaling has resulted in embryo lethality, malformations, and post-natal death in animals (see Data).
-Advise pregnant women of the potential risk to a fetus.
+The absence of EGFR or MET signaling has resulted in embryo lethality, malformations, and post-natal death in animals (see Data).Advise pregnant women of the potential risk to a fetus.
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 

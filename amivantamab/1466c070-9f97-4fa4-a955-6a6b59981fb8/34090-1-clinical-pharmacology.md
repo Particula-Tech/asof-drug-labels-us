@@ -36,7 +36,7 @@ Increases in body weight increased the volume of distribution and clearance of a
 Amivantamab-vmjw exposures are 30 to 40% lower in patients who weighed ≥ 80 kg compared to patients with body weight < 80 kg at the same dose.
 Exposures of amivantamab-vmjw were comparable between patients who weighed < 80 kg and received 1,050 mg dose and patients who weighed ≥ 80 kg and received 1,400 mg dose.
 
-## 12.4 Immunogenicity
+## 12.6 Immunogenicity
 
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies (ADA) in the studies described below with the incidence of anti-drug antibodies in other studies, including those of amivantamab-vmjw or amivantamab products.
