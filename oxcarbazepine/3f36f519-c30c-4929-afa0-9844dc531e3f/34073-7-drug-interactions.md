@@ -1,0 +1,18 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Effect of Oxcarbazepine Oral Suspension on Other Drugs
+
+Phenytoin levels have been shown to increase with concomitant use of oxcarbazepine oral suspension at doses greater than 1200 mg/day [see Clinical Pharmacology (12.3)].
+Therefore, it is recommended that the plasma levels of phenytoin be monitored during the period of oxcarbazepine oral suspension titration and dosage modification.
+A decrease in the dose of phenytoin may be required.
+
+## 7.2 Effect of Other Drugs on Oxcarbazepine Oral Suspension
+
+Strong inducers of cytochrome P450 enzymes and/or inducers of UGT (e.g., rifampin, carbamazepine, phenytoin and phenobarbital) have been shown to decrease the plasma/serum levels of MHD, the active metabolite of oxcarbazepine oral suspension (25% to 49%) [see Clinical Pharmacology (12.3)].
+If oxcarbazepine oral suspension and strong CYP3A4 inducers or UGT inducers are administered concurrently, it is recommended that the plasma levels of MHD be monitored during the period of oxcarbazepine oral suspension titration.
+Dose adjustment of oxcarbazepine oral suspension may be required after initiation, dosage modification, or discontinuation of such inducers.
+
+## 7.3 Hormonal Contraceptives
+
+Concurrent use of oxcarbazepine oral suspension with hormonal contraceptives may render these contraceptives less effective [see Use in Specific Populations (8.3) and Clinical Pharmacology (12.3)].
+Studies with other oral or implant contraceptives have not been conducted.
