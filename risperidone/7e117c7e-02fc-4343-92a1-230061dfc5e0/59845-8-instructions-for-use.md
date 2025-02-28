@@ -1,6 +1,6 @@
 # INSTRUCTIONS FOR USE
 
-RISPERDAL ®(RISS-per-dal) (risperidone) Oral Solution
+RISPERDAL ® (RISS-per-dal) (risperidone) Oral Solution
 
 Read these Instructions for Use before you start using RISPERDAL Oral Solution and each time you get a refill.
 There may be new information.
@@ -14,7 +14,7 @@ Important information you need to know before taking RISPERDAL Oral Solution:
 - Always use the oral dosing syringe that comes with RISPERDAL Oral Solution.
   Contact your healthcare provider or pharmacist if you lose or damage the oral dosing syringe, or if your carton does not come with one.
 - RISPERDAL Oral Solution can be taken directly from the oral dosing syringe or mixed with water, coffee, orange juice, or low-fat milk.
-  Do notmix RISPERDAL Oral Solution with cola or tea.
+  Do not mix RISPERDAL Oral Solution with cola or tea.
 
 | Each RISPERDAL Oral Solution carton contains: 1 bottle of RISPERDAL Oral Solution1 oral dosing syringe |  |
 | --- | --- |
@@ -31,30 +31,32 @@ Gather and check supplies:
 
 Preparing a dose of RISPERDAL Oral Solution:
 
-| Step 1.Place the RISPERDAL Oral Solution bottle on a flat surface. Push down on the cap while turning it to the left (counterclockwise) to open the bottle. |  |
+| Step 1. Place the RISPERDAL Oral Solution bottle on a flat surface. Push down on the cap while turning it to the left (counterclockwise) to open the bottle. |  |
 | --- | --- |
-| Step 2.Push the plunger of the oral dosing syringe all the way down. |  |
-| Step 3.With the bottle in an upright position, fully insert the oral dosing syringe into the opening of the bottle. |  |
-| Step 4.Withdraw the prescribed dose of RISPERDAL Oral Solution from the bottle. Hold down the barrel of the oral dosing syringe with one hand. With your other hand, slowly pull the plunger up until you reach the mL markings on the plunger for the prescribed dose. |  |
-| Step 5. Remove the oral dosing syringe from the bottle by holding the outer barrel and pulling straight up. Be careful not to push down on the plunger during this step. Check the oral dosing syringe for air bubbles. If you see air bubbles, slowly push the plunger all the way down to return the oral solution into the bottle. Then repeat Step 4to withdraw the prescribed dose. |  |
-| Step 6.RISPERDAL Oral Solution can be mixed with a drink or taken directly from the oral dosing syringe. Mix the dose of RISPERDAL Oral Solution with water, coffee, orange juice, or low-fat milk. Stir well and drink all of the mixture right away to ensure the full dose is taken. See Figure 6a. Do not mixRISPERDAL Oral Solution with cola or tea. |  |
+| Step 2. Push the plunger of the oral dosing syringe all the way down. |  |
+| Step 3. With the bottle in an upright position, fully insert the oral dosing syringe into the opening of the bottle. |  |
+| Step 4. Withdraw the prescribed dose of RISPERDAL Oral Solution from the bottle. Hold down the barrel of the oral dosing syringe with one hand. With your other hand, slowly pull the plunger up until you reach the mL markings on the plunger for the prescribed dose. |  |
+| Step 5. Remove the oral dosing syringe from the bottle by holding the outer barrel and pulling straight up. Be careful not to push down on the plunger during this step. Check the oral dosing syringe for air bubbles. If you see air bubbles, slowly push the plunger all the way down to return the oral solution into the bottle. Then repeat Step 4 to withdraw the prescribed dose. |  |
+| Step 6. RISPERDAL Oral Solution can be mixed with a drink or taken directly from the oral dosing syringe. Mix the dose of RISPERDAL Oral Solution with water, coffee, orange juice, or low-fat milk. Stir well and drink all of the mixture right away to ensure the full dose is taken. See Figure 6a. Do not mix RISPERDAL Oral Solution with cola or tea. |  |
 | Or To take the RISPERDAL Oral Solution dose directly from the oral dosing syringe, place the tip of the oral dosing syringe into the mouth and toward the cheek. Slowly push the plunger all the way down to gently release all of the medicine in the oral dosing syringe. Do not squirt or forcefully push the medicine into the back of the throat. See Figure 6b. |  |
-| Step 7.Place the cap back on the RISPERDAL Oral Solution bottle and turn the cap to the right (clockwise) to close the bottle. |  |
-| Step 8.Rinse the oral dosing syringe with water after each use. Remove the plunger from the oral dosing syringe barrel.Rinse the oral dosing syringe barrel and plunger with water and let them air dry.When the oral dosing syringe barrel and plunger are dry, put the plunger back into the oral dosing syringe barrel for the next use. Do not throw away the oral dosing syringe. |  |
+| Step 7. Place the cap back on the RISPERDAL Oral Solution bottle and turn the cap to the right (clockwise) to close the bottle. |  |
+| Step 8. Rinse the oral dosing syringe with water after each use. Remove the plunger from the oral dosing syringe barrel.Rinse the oral dosing syringe barrel and plunger with water and let them air dry.When the oral dosing syringe barrel and plunger are dry, put the plunger back into the oral dosing syringe barrel for the next use. Do not throw away the oral dosing syringe. |  |
 
 Storing RISPERDAL Oral Solution:
 
-- Store RISPERDAL Oral Solution at room temperature between 59°F to 77°F (15°C to 25°C).
+- Store RISPERDAL Oral Solution at room temperature between 59 °F to 77 °F (15 °C to 25 °C).
 - Do not freeze RISPERDAL Oral Solution.
   Protect from light.
 - Keep RISPERDAL Oral Solution and all medicines out of the reach of children.
 
-Manufactured by: Janssen Pharmaceutica NV Beerse, Belgium
+Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ, 08560, USA
 
-Manufactured for: Janssen Pharmaceuticals, Inc. Titusville, NJ, 08560
+For patent information: www.jansenpatents.com
+
+© Johnson & Johnson and its affiliates 2007
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: 3/2022
+Issued: 2/2025
 
 # INSTRUCCIONES DE USO
 
@@ -107,11 +109,17 @@ Almacenamiento de RISPERDAL Solución oral
   Proteger de la luz.
 - Mantenga RISPERDAL Solución oral y todos los medicamentos fuera del alcance de los niños.
 
-Fabricado por: Janssen Pharmaceutica NV Beerse, Bélgica
+Fabricado para:
 
-Fabricado para: Janssen Pharmaceuticals, Inc. Titusville, NJ, 08560
+Janssen Pharmaceuticals, Inc.
+
+Titusville, NJ, 08560, USA
 
 Estas Instrucciones de uso han sido aprobadas por la Administración de Alimentos y Medicamentos (FDA) de los EE.
 UU.
 
-Revisado: 3/2022
+Para información sobre patentes: www.janssenpatents.com
+
+© Johnson & Johnson y sus afiliados 2007
+
+Revisado: 2/2025
