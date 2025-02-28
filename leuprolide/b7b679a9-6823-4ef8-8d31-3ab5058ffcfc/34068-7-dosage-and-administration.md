@@ -18,6 +18,8 @@ The specific injection location should be an area with sufficient soft or loose 
 In clinical trials, the injections were administered in the upper- or mid-abdominal area.
 Avoid areas with brawny or fibrous subcutaneous tissue or locations that could be rubbed or compressed (i.e., with a belt or clothing waistband).
 
+In patients treated with GnRH analogues for prostate cancer, treatment is usually continued upon development of metastatic castration-resistant prostate cancer.
+
 ## 2.2 Preparation Instructions
 
 Use aseptic technique throughout the procedure.

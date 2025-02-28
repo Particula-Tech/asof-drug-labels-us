@@ -13,12 +13,17 @@ Tumor Flare
 Hyperglycemia and Diabetes
 
 - Advise patients that there is an increased risk of hyperglycemia and diabetes with ELIGARD therapy.
-  Inform patients that periodic monitoring for hyperglycemia and diabetes is required when being treated with ELIGARD [see Warnings and Precautions (5.3)].
+  Inform patients that periodic monitoring for hyperglycemia and diabetes is required when being treated with ELIGARD [see Warnings and Precautions (5.2)].
 
 Cardiovascular Disease
 
 - Inform patients that there is an increased risk of myocardial infarction, sudden cardiac death, and stroke with ELIGARD treatment.
-  Advise patients to immediately report signs and symptoms associated with these events to their healthcare provider for evaluation [see Warnings and Precautions (5.4)].
+  Advise patients to immediately report signs and symptoms associated with these events to their healthcare provider for evaluation [see Warnings and Precautions (5.3)].
+
+Severe Cutaneous Adverse Reactions
+
+- Inform patients that severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), which may be life threatening or fatal, may occur during treatment with ELIGARD.
+  Advise patients to contact their healthcare provider or seek medical attention right away if they experience signs or symptoms of SCARs [see Warnings and Precautions (5.6)].
 
 Injection Site Reactions
 
@@ -33,7 +38,13 @@ Infertility
 
 - Inform patients that ELIGARD may cause infertility [see Use In Specific Populations (8.3)].
 
-Manufactured by: Tolmar, Fort Collins, CO 80526 ©2024 Tolmar
+Continuation of ELIGARD Treatment:
+
+- Inform patients that ELIGARD is usually continued, often with additional medication, after the development of non-metastatic and metastatic castration-resistant prostate cancer [see Dosage and Administration (2.1)].
+
+Manufactured by: Tolmar, Fort Collins, CO 80526
+
+©2025 Tolmar
 
 04006512 Rev.
-4 05/2024
+5 02/2025

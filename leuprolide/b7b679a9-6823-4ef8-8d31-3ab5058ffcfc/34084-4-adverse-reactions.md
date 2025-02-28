@@ -3,10 +3,11 @@
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - Tumor Flare [see Warnings and Precautions (5.1)]
-- Hyperglycemia and Diabetes [see Warnings and Precautions (5.3)]
-- Cardiovascular Disease [see Warnings and Precautions (5.4)]
-- Effect on QT/QTc Interval [see Warnings and Precautions (5.5)]
-- Convulsions [see Warnings and Precautions (5.6)]
+- Hyperglycemia and Diabetes [see Warnings and Precautions (5.2)]
+- Cardiovascular Disease [see Warnings and Precautions (5.3)]
+- Effect on QT/QTc Interval [see Warnings and Precautions (5.4)]
+- Convulsions [see Warnings and Precautions (5.5)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -17,7 +18,7 @@ In addition, the safety of ELIGARD 7.5 mg was evaluated in 8 surgically castrate
 ELIGARD, like other GnRH analogs, caused a transient increase in serum testosterone concentrations during the first one to two weeks of treatment.
 
 Therefore, potential exacerbations of signs and symptoms of the disease during the first weeks of treatment are of concern in patients with vertebral metastases and/or urinary obstruction or hematuria.
-If these conditions are aggravated, it may lead to neurological problems such as weakness and/or paresthesia of the lower limbs or worsening of urinary symptoms [see Warnings and Precautions (5.2)].
+If these conditions are aggravated, it may lead to neurological problems such as weakness and/or paresthesia of the lower limbs or worsening of urinary symptoms [see Warnings and Precautions (5.7)].
 
 During the clinical trials, injection sites were closely monitored.
 Refer to Table 3 for a summary of reported injection site adverse reactions.
@@ -69,7 +70,7 @@ Summary of Possible or Probably Related Systemic Adverse Reactions Reported by >
 | Alopecia | - | - | - | 2 (2.2%) | - |  |  |  |
 | Musculoskeletal |  |  | Arthralgia | - | - | 4 (3.4%) | - | - |
 | Myalgia | - | - | - | 2 (2.2%) | 5 (4.5%) |  |  |  |
-| Pain in Limb | - | - | - | - | 3 (2.7%) |  |  |  |
+| Pain in limb | - | - | - | - | 3 (2.7%) |  |  |  |
 | Reproductive |  |  | Testicular atrophy | 6 (5.0%)* | - | - | 4 (4.4%)* | 8 (7.2%)* |
 | Gynecomastia | - | - | - | 2 (2.2%)* | 4 (3.6%)* |  |  |  |
 | Testicular pain | - | - | - | 2 (2.2%) | - |  |  |  |
@@ -99,7 +100,7 @@ It can be anticipated that long periods of medical castration in men will have e
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of ELIGARD.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a casual relationship to drug exposure.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Pituitary apoplexy- During postmarketing surveillance, rare cases of pituitary apoplexy (a clinical syndrome secondary to infarction of the pituitary gland) have been reported after the administration of gonadotropin-releasing hormone agonists.
 In a majority of these cases, a pituitary adenoma was diagnosed with a majority of pituitary apoplexy cases occurring within 2 weeks of the first dose, and some within the first hour.
@@ -109,3 +110,5 @@ Immediate medical attention has been required.
 Nervous System- Convulsions
 
 Respiratory System- Interstitial lung disease
+
+Skin reactions- Erythema multiforme, SJS/TEN
