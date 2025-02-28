@@ -7,7 +7,7 @@ PROTONIX® I.V.
 
 40 mg/vial
 
-Sterile For Intravenous Infusion Only Single-dose vial
+Sterile For Intravenous Use Single-dose vial
 
 Rx only
 
@@ -20,7 +20,7 @@ PROTONIX® I.V.
 
 40 mg/vial
 
-Sterile For Intravenous Infusion Only Single-dose vial
+Sterile For Intravenous Use Single-dose vial
 
 Contains 1 mg edetate disodium
 
@@ -41,7 +41,7 @@ PROTONIX® I.V.
 
 40 mg/vial
 
-Sterile For Intravenous Infusion Only Single-dose vial
+Sterile For Intravenous Use Single-dose vial
 
 Pfizer Hospital Rx only
 
@@ -58,11 +58,11 @@ Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F
 
 Protect vials from light; use of vial carton is recommended.
 
-Dist. by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc Philadelphia, PA 19101
+Dist. by Wyeth Pharmaceuticals LLC A subsidiary of Pfizer Inc. Philadelphia, PA 19101
 
 Under license from Takeda GmbH D78467 Konstanz, Germany MADE IN FRANCE
 
-R04/0522/ 6171032
+R05/0824/ 6171032
 
 1 Bundle of 10 unit cartons NDC 0008-0923-55
 
@@ -71,7 +71,7 @@ PROTONIX® I.V.
 
 40 mg/vial
 
-Sterile For Intravenous Infusion Only Single-dose vial
+Sterile For Intravenous Use Single-dose vial
 
 GTIN: 00300080923559
 
