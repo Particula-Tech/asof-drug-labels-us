@@ -2,13 +2,20 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •Interstitial Lung Disease/Pneumonitis [see Warnings and Precautions (5.1)]
-- •QTc Interval Prolongation [see Warnings and Precautions (5.2)]
-- •Cardiomyopathy [see Warnings and Precautions (5.3)]
-- •Keratitis [see Warnings and Precautions (5.4)]
-- •Erythema multiforme, Stevens-Johnson syndrome, and Toxic epidermal necrolysis [see Warnings and Precautions (5.5)]
-- •Cutaneous Vasculitis [see Warnings and Precautions (5.6)]
-- •Aplastic Anemia [see Warnings and Precautions (5.7)]
+- •Interstitial Lung Disease/Pneumonitis [see Error!
+  Hyperlink reference not valid.]
+- •QTc Interval Prolongation [see Error!
+  Hyperlink reference not valid.]
+- •Cardiomyopathy [see Error!
+  Hyperlink reference not valid.]
+- •Keratitis [see Error!
+  Hyperlink reference not valid.]
+- •Erythema multiforme, Stevens-Johnson syndrome, and Toxic epidermal necrolysis [see Error!
+  Hyperlink reference not valid.]
+- •Cutaneous Vasculitis [see Error!
+  Hyperlink reference not valid.]
+- •Aplastic Anemia [see Error!
+  Hyperlink reference not valid.]
 
 ## 6.1 Clinical Trials Experience
 
@@ -74,19 +81,19 @@ QTc interval prolongation represents the incidence of patients who had a QTcF pr
 Table 5.
 Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in ADAURA
 
-| All Grades (%) | Grade 3 or Grade 4 (%) | All Grades (%) | Grade 3 or Grade 4 (%) |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Laboratory AbnormalityNCI CTCAE v4.0Based on the number of patients with available follow-up laboratory data. | TAGRISSO (N=337) |  | PLACEBO (N=343) |  |  |
-| Hematology |  |  |  |  |  |
-| Leukopenia | 54 | 0 | 25 |  | 0 |
-| Thrombocytopenia | 47 | 0 | 7 |  | 0.3 |
-| Lymphopenia | 44 | 3.4 | 14 |  | 0.9 |
-| Anemia | 30 | 0 | 12 |  | 0.3 |
-| Neutropenia | 26 | 0.6 | 10 |  | 0.3 |
-| Chemistry |  |  |  |  |  |
-| Hyperglycemia | 25 | 2.3 | 30 |  | 0.9 |
-| Hypermagnesemia | 24 | 1.3 | 14 |  | 1.5 |
-| Hyponatremia | 20 | 1.8 | 16 |  | 1.5 |
+| All Grades (%) | Grade 3 or Grade 4 (%) | All Grades (%) | Grade 3 or Grade 4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory AbnormalityNCI CTCAE v4.0Based on the number of patients with available follow-up laboratory data. | TAGRISSO (N=337) |  | PLACEBO (N=343) |  |
+| Hematology |  |  |  |  |
+| Leukopenia | 54 | 0 | 25 | 0 |
+| Thrombocytopenia | 47 | 0 | 7 | 0.3 |
+| Lymphopenia | 44 | 3.4 | 14 | 0.9 |
+| Anemia | 30 | 0 | 12 | 0.3 |
+| Neutropenia | 26 | 0.6 | 10 | 0.3 |
+| Chemistry |  |  |  |  |
+| Hyperglycemia | 25 | 2.3 | 30 | 0.9 |
+| Hypermagnesemia | 24 | 1.3 | 14 | 1.5 |
+| Hyponatremia | 20 | 1.8 | 16 | 1.5 |
 
 Laboratory abnormalities in ADAURA that occurred in <20% of patients receiving TAGRISSO was increased blood creatinine (10%).
 
@@ -198,7 +205,7 @@ Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in FLAURANC
 | Infection and Infestation Disorders |  |  |  |  |
 | Upper Respiratory Tract Infection | 10 | 0 | 7 | 0 |
 
-Clinically relevant adverse reactions in FLAURA in <10% of patients receiving TAGRISSO were alopecia (7%), epistaxis (6%), interstitial lung disease (3.9%), urticaria (2.2%), palmar-plantar erythrodysesthesia syndrome (1.4%), QTc interval prolongation (1.1%), keratitis (0.4%), and skin hyperpigmentation (0.4)%.
+Clinically relevant adverse reactions in FLAURA in <10% of patients receiving TAGRISSO were alopecia (7%), epistaxis (6%), interstitial lung disease (3.9%), urticaria (2.2%), palmar-plantar erythrodysesthesia syndrome (1.4%), QTc interval prolongation (1.1%), keratitis (0.4%), and skin hyperpigmentation (0.4%).
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500 msec.
 
 Table 9.
@@ -221,7 +228,7 @@ Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in FLAURA
 | Hypokalemia | 16 | 0.4 | 22 | 1.1 |
 | Hyperbilirubinemia | 14 | 0 | 29 | 1.1 |
 
-Clinically relevant laboratory abnormalities in FLAURA that occurred in <20% of patients receiving TAGRISSO was increased blood creatinine (9%).
+A clinically relevant laboratory abnormality in FLAURA that occurred in <20% of patients receiving TAGRISSO was increased blood creatinine (9%).
 
 Previously Untreated EGFR Mutation-Positive Locally Advanced or Metastatic Non-Small Cell Lung Cancer – TAGRISSO in Combination with Pemetrexed and Platinum-based Chemotherapy
 
@@ -297,28 +304,28 @@ Tables 12 and 13 summarize common adverse reactions and laboratory abnormalities
 Table 12.
 Adverse Reactions Occurring in ≥10% of Patients Receiving TAGRISSO in AURA3NCI CTCAE v4.0.
 
-| Adverse Reaction | TAGRISSO(N=279) |  |  | Chemotherapy(Pemetrexed/Cisplatin orPemetrexed/Carboplatin)(N=136) |  |
-| --- | --- | --- | --- | --- | --- |
-| All GradesNo grade 4 events were reported.(%) |  | Grade 3/4(%) | All Grades (%) | Grade 3/4(%) |  |
-| Gastrointestinal Disorders |  |  |  |  |  |
-| Diarrhea | 41 | 1.1 |  | 11 | 1.5 |
-| Nausea | 16 | 0.7 |  | 49 | 3.7 |
-| StomatitisIncludes stomatitis and mouth ulceration. | 19 | 0 |  | 15 | 1.5 |
-| Constipation | 14 | 0 |  | 35 | 0 |
-| Vomiting | 11 | 0.4 |  | 20 | 2.2 |
-| Skin Disorders |  |  |  |  |  |
-| RashIncludes rash, rash generalized, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, erythema, folliculitis, acne, dermatitis, acneiform dermatitis, pustule. | 34 | 0.7 |  | 6 | 0 |
-| Dry skinIncludes dry skin, eczema, skin fissures, xerosis. | 23 | 0 |  | 4.4 | 0 |
-| Nail toxicityIncludes nail disorders, nail bed disorders, nail bed inflammation, nail bed tenderness, nail discoloration, nail disorder, nail dystrophy, nail infection, nail ridging, nail toxicity, onychalgia, onychoclasis, onycholysis, onychomadesis, paronychia. | 22 | 0 |  | 1.5 | 0 |
-| PruritusIncludes pruritus, pruritus generalized, eyelid pruritus. | 13 | 0 |  | 5 | 0 |
-| General Disorders and Administration Site Conditions |  |  |  |  |  |
-| FatigueIncludes fatigue, asthenia. | 22 | 1.8 |  | 40 | 5.1 |
-| Metabolism and Nutrition Disorders |  |  |  |  |  |
-| Decreased appetite | 18 |  | 1.1 | 36 | 2.9 |
-| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |
-| Cough | 17 |  | 0 | 14 | 0 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |
-| Back pain | 10 |  | 0.4 | 9 | 0.7 |
+| Adverse Reaction | TAGRISSO(N=279) |  | Chemotherapy(Pemetrexed/Cisplatin orPemetrexed/Carboplatin)(N=136) |  |
+| --- | --- | --- | --- | --- |
+| All GradesNo grade 4 events were reported.(%) | Grade 3/4(%) | All Grades (%) | Grade 3/4(%) |  |
+| Gastrointestinal Disorders |  |  |  |  |
+| Diarrhea | 41 | 1.1 | 11 | 1.5 |
+| Nausea | 16 | 0.7 | 49 | 3.7 |
+| StomatitisIncludes stomatitis and mouth ulceration. | 19 | 0 | 15 | 1.5 |
+| Constipation | 14 | 0 | 35 | 0 |
+| Vomiting | 11 | 0.4 | 20 | 2.2 |
+| Skin Disorders |  |  |  |  |
+| RashIncludes rash, rash generalized, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pustular, erythema, folliculitis, acne, dermatitis, acneiform dermatitis, pustule. | 34 | 0.7 | 6 | 0 |
+| Dry skinIncludes dry skin, eczema, skin fissures, xerosis. | 23 | 0 | 4.4 | 0 |
+| Nail toxicityIncludes nail disorders, nail bed disorders, nail bed inflammation, nail bed tenderness, nail discoloration, nail disorder, nail dystrophy, nail infection, nail ridging, nail toxicity, onychalgia, onychoclasis, onycholysis, onychomadesis, paronychia. | 22 | 0 | 1.5 | 0 |
+| PruritusIncludes pruritus, pruritus generalized, eyelid pruritus. | 13 | 0 | 5 | 0 |
+| General Disorders and Administration Site Conditions |  |  |  |  |
+| FatigueIncludes fatigue, asthenia. | 22 | 1.8 | 40 | 5.1 |
+| Metabolism and Nutrition Disorders |  |  |  |  |
+| Decreased appetite | 18 | 1.1 | 36 | 2.9 |
+| Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |
+| Cough | 17 | 0 | 14 | 0 |
+| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
+| Back pain | 10 | 0.4 | 9 | 0.7 |
 
 Clinically relevant adverse reactions in AURA3 in <10% of patients receiving TAGRISSO were epistaxis (5%), interstitial lung disease (3.9%), alopecia (3.6%), urticaria (2.9%), palmar-plantar erythrodysesthesia syndrome (1.8%), QTc interval prolongation (1.4%), keratitis (1.1%), and erythema multiforme (0.7%), and skin hyperpigmentation (0.4%).
 QTc interval prolongation represents the incidence of patients who had a QTcF prolongation >500 msec.
@@ -326,20 +333,20 @@ QTc interval prolongation represents the incidence of patients who had a QTcF pr
 Table 13.
 Laboratory Abnormalities Worsening from Baseline in ≥20% of Patients in AURA3
 
-| Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 279, Chemotherapy comparator 131). | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131) |  |  |
-| --- | --- | --- | --- | --- | --- |
-| All Grades(%) | Grade 3 or Grade 4(%) | All Grades(%) |  | Grade 3 or Grade 4(%) |  |
-| Hematology |  |  |  |  |  |
-| Anemia | 43 | 0 |  | 79 | 3.1 |
-| Lymphopenia | 63 | 8 |  | 61 | 10 |
-| Thrombocytopenia | 46 | 0.7 |  | 48 | 7 |
-| Neutropenia | 27 | 2.2 |  | 49 | 12 |
-| Chemistry |  |  |  |  |  |
-| Hypermagnesemia | 27 | 1.8 |  | 9 | 1.5 |
-| Hyponatremia | 26 | 2.2 |  | 36 | 1.5 |
-| HyperglycemiaHyperglycemia is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 270, Chemotherapy 5; fasting glucose was not a protocol requirement for patients in the chemotherapy arm). | 20 | 0 |  | NA | NA |
-| Hypokalemia | 9 | 1.4 |  | 18 | 1.5 |
-| NA=Not Applicable |  |  |  |  |  |
+| Laboratory AbnormalityNCI CTCAE v4.0Each test incidence, except for hyperglycemia, is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 279, Chemotherapy comparator 131). | TAGRISSO(N=279) |  | Chemotherapy (Pemetrexed/Cisplatin or Pemetrexed/Carboplatin)(N=131) |  |
+| --- | --- | --- | --- | --- |
+| All Grades(%) | Grade 3 or Grade 4(%) | All Grades(%) | Grade 3 or Grade 4(%) |  |
+| Hematology |  |  |  |  |
+| Anemia | 43 | 0 | 79 | 3.1 |
+| Lymphopenia | 63 | 8 | 61 | 10 |
+| Thrombocytopenia | 46 | 0.7 | 48 | 7 |
+| Neutropenia | 27 | 2.2 | 49 | 12 |
+| Chemistry |  |  |  |  |
+| Hypermagnesemia | 27 | 1.8 | 9 | 1.5 |
+| Hyponatremia | 26 | 2.2 | 36 | 1.5 |
+| HyperglycemiaHyperglycemia is based on the number of patients who had both baseline and at least one on-study laboratory measurement available (TAGRISSO 270, Chemotherapy 5; fasting glucose was not a protocol requirement for patients in the chemotherapy arm). | 20 | 0 | NA | NA |
+| Hypokalemia | 9 | 1.4 | 18 | 1.5 |
+| NA=Not Applicable |  |  |  |  |
 
 Clinically relevant laboratory abnormalities in AURA3 that occurred in <20% of patients receiving TAGRISSO included increased blood creatinine (7%).
 
@@ -353,5 +360,5 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - 
-  - •Skin and subcutaneous tissue: Erythema multiforme major (EMM), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), cutaneous vasculitis, erythema dyschromicum perstans
-  - •Blood and lymphatic system disorders: Aplastic anemia
+  - oSkin and subcutaneous tissue: Erythema multiforme major (EMM), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), cutaneous vasculitis, erythema dyschromicum perstans
+  - oBlood and lymphatic system disorders: Aplastic anemia

@@ -26,7 +26,7 @@ Risk Summary
 
 There are no data on the presence of osimertinib or its active metabolites in human milk, the effects of osimertinib on the breastfed infant or on milk production.
 Administration to rats during gestation and early lactation was associated with adverse effects, including reduced growth rates and neonatal death [see Use in Specific Populations (8.1)].
-Because of the potential for serious adverse reactions in breastfed infants from osimertinib, advise women not to breastfeed during treatment with TAGRISSO and for 2 weeks after the final dose.
+Because of the potential for serious adverse reactions in breastfed infants from osimertinib, advise women not to breastfeed during treatment with TAGRISSO and for 2 weeks after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -40,11 +40,11 @@ Contraception
 
 Females
 
-Advise females of reproductive potential to use effective contraception during treatment with TAGRISSO and for 6 weeks after the final dose [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment with TAGRISSO and for 6 weeks after the last dose [see Use in Specific Populations (8.1)].
 
 Males
 
-Advise male patients with female partners of reproductive potential to use effective contraception during and for 4 months following the final dose of TAGRISSO [see Nonclinical Toxicology (13.1)].
+Advise male patients with female partners of reproductive potential to use effective contraception during and for 4 months following the last dose of TAGRISSO [see Nonclinical Toxicology (13.1)].
 
 Infertility
 

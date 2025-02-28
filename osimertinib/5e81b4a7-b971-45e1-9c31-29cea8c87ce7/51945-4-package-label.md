@@ -25,3 +25,31 @@ Tagrisso®
 Rx only
 
 AstraZeneca
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 0310-1248-30 30 Tablets
+
+Tagrisso®
+
+(osimertinib) tablets
+
+40 mg per tablet
+
+Rx only
+
+AstraZeneca
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 0310-1251-30 30 Tablets
+
+Tagrisso®
+
+(osimertinib) tablets
+
+80 mg per tablet
+
+Rx only
+
+AstraZeneca

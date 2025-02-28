@@ -1,3 +1,5 @@
+# 5 WARNINGS AND PRECAUTIONS
+
 ## 5.1 Interstitial Lung Disease/Pneumonitis
 
 TAGRISSO can cause severe and fatal ILD/pneumonitis.
@@ -45,7 +47,7 @@ In the FLAURA2 study, cardiomyopathy occurred in 9% of the 276 patients who rece
 
 A decline in left ventricular ejection fraction (LVEF) ≥10 percentage points from baseline and to less than 50% LVEF occurred in 4.2% of 1557 patients who had baseline and at least one follow-up LVEF assessment.
 In the ADAURA study, 1.5% (5/325) of patients treated with TAGRISSO experienced LVEF decreases greater than or equal to 10 percentage points and a drop to less than 50%.
-In the LAURA study, following platinum based chemoradiation therapy, 3% (4/135) of patients treated with TAGRISSO and no patients treated with placebo experienced LVEF decreases greater than or equal to 10 percentage points and a drop to less than 50%.
+In the LAURA study, following platinum-based chemoradiation therapy, 3% (4/135) of patients treated with TAGRISSO and no patients treated with placebo experienced LVEF decreases greater than or equal to 10 percentage points and a drop to less than 50%.
 In the FLAURA2 study, 8% (21/262) of patients treated with TAGRISSO in combination with pemetrexed and platinum-based chemotherapy, who had baseline and at least one follow-up LVEF assessment, experienced LVEF decreases greater than or equal to 10 percentage points and a drop to less than 50%.
 
 For patients who will be receiving TAGRISSO monotherapy, conduct cardiac monitoring, including assessment of LVEF at baseline and during treatment, in patients with cardiac risk factors.
@@ -88,5 +90,5 @@ In animal reproduction studies, osimertinib caused post-implantation fetal loss 
 When males were treated prior to mating with untreated females, there was an increase in preimplantation embryonic loss at plasma exposures of approximately 0.5 times those observed at the recommended dose of 80 mg once daily.
 Verify pregnancy status of females of reproductive potential prior to initiating TAGRISSO.
 Advise pregnant women of the potential risk to a fetus.
-Advise females of reproductive potential to use effective contraception during treatment with TAGRISSO and for 6 weeks after the final dose.
-Advise males with female partners of reproductive potential to use effective contraception for 4 months after the final dose [see Use in Specific Populations (8.1and 8.3)].
+Advise females of reproductive potential to use effective contraception during treatment with TAGRISSO and for 6 weeks after the last dose.
+Advise males with female partners of reproductive potential to use effective contraception for 4 months after the last dose [see Use in Specific Populations (8.1and 8.3)].

@@ -37,7 +37,7 @@ Efficacy Results in ADAURA according to Investigator Assessment
 | Recurrent disease (%) | 26 (11) | 129 (54) | 37 (11) | 157 (46) |
 | Deaths (%) | 0 | 1 (0.4) | 0 | 2 (0.6) |
 | Median DFS, months (95% CI) | NR (38.8, NE) | 19.6 (16.6, 24.5) | NR (NE, NE) | 27.5 (22.0, 35.0) |
-| Hazard ratio (95% CI)Stratified by race (Asian vs non-Asian), mutation status (Ex19del vs L858R), and pTNM staging.Pike estimator. | 0.17 (0.12, 0.23) |  | 0.20 (0.15, 0.27) |  |
+| Hazard ratio (95% CI)Stratified by race (Asian vs other races), mutation status (Ex19del vs L858R), and pTNM staging.Pike estimator. | 0.17 (0.12, 0.23) |  | 0.20 (0.15, 0.27) |  |
 | p-valueStratified log-rank test. | <0.0001 |  | <0.0001 |  |
 | Overall Survival (OS) |  |  |  |  |
 | Number of deaths (%) | 35 (15) | 65 (27) | 42 (12) | 82 (24) |
@@ -94,7 +94,7 @@ Efficacy Results in LAURA
 | p-valueStratified log-rank test. | <0.001 |  |
 | Overall Response RateConfirmed responses. |  |  |
 | ORR, % (95% CI) | 54 (45, 62) | 26 (17, 38) |
-| PFS and ORR results as assessed by BICR. |  |  |
+| CI=Confidence Interval, NE=Not EstimablePFS and ORR results as assessed by BICR. |  |  |
 
 Figure 3.
 Kaplan-Meier Curves of PFS as assessed by BICR in LAURA
@@ -126,7 +126,7 @@ At the time of the final data cut-off, of those randomized to TAGRISSO and to in
 Out of the 180 patients randomized to erlotinib or gefitinib who received subsequent treatment, 85 (47%) patients received TAGRISSO as first subsequent therapy.
 
 FLAURA demonstrated a statistically significant improvement in PFS for patients randomized to TAGRISSO as compared to erlotinib or gefitinib (see Table 16 and Figure 4).
-The final analysis of overall survival demonstrated a statistically significant improvement in overall survival in patients randomized to TAGRISSO compared to erlotinib or gefitinib (see Table 16 and Figure 4).
+The final analysis of overall survival demonstrated a statistically significant improvement in overall survival in patients randomized to TAGRISSO compared to erlotinib or gefitinib (see Table 17 and Figure 5).
 
 Table 16.
 Efficacy Results in FLAURA according to Investigator Assessment
@@ -145,11 +145,11 @@ Efficacy Results in FLAURA according to Investigator Assessment
 | Median OS in months (95% CI) | 38.6 (34.5, 41.8) | 31.8 (26.6, 36.0) |
 | Hazard Ratio (95% CI), | 0.80 (0.64, 1.00) |  |
 | p-value, | 0.0462 |  |
-| Overall Response Rate (ORR)¶ |  |  |
+| Overall Response Rate (ORR)Confirmed responses. |  |  |
 | ORR, % (95% CI) | 77 (71, 82) | 69 (63, 74) |
 | Complete response, % | 2 | 1 |
 | Partial response, % | 75 | 68 |
-| Duration of Response (DoR)Confirmed responses. |  |  |
+| Duration of Response (DoR) |  |  |
 | Median in months (95% CI) | 17.6 (13.8, 22.0) | 9.6 (8.3, 11.1) |
 
 Figure 4.
@@ -162,14 +162,14 @@ Kaplan-Meier Curves of Overall Survival in FLAURA
 
 Of 556 patients, 200 patients (36%) had baseline brain scans reviewed by BICR; this included 106 patients in the TAGRISSO arm and 94 patients in the investigator choice of EGFR TKI arm.
 Of these 200 patients, 41 had measurable CNS lesions per RECIST v1.1.
-Results of pre-specified exploratory analyses of CNS ORR and duration of response (DoR) by BICR in the subset of patients with measurable CNS lesions at baseline are summarized in Table 13.
+Results of pre-specified exploratory analyses of CNS ORR and duration of response (DoR) by BICR in the subset of patients with measurable CNS lesions at baseline are summarized in Table 17.
 
 Table 17.
 CNS ORR and DOR by BICR in Patients with Measurable CNS Lesions at Baseline in FLAURA
 
 |  | TAGRISSON=22 | EGFR TKI(gefitinib or erlotinib)N=19 |
 | --- | --- | --- |
-| CNS Tumor Response AssessmentAccording to RECIST v1.1. |  |  |
+| CNS Tumor Response AssessmentAccording to RECIST v1.1.Based on confirmed response. |  |  |
 | CNS ORR, % (95% CI) | 77 (55, 92) | 63 (38, 84) |
 | Complete response, % | 18 | 0 |
 | CNS Duration of ResponseBased on patients with response only; DoR defined as the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
@@ -189,7 +189,7 @@ Patients were randomized (1:1) to one of the following treatment arms:
 - •TAGRISSO (80 mg) orally once daily with pemetrexed (500 mg/m2) and investigator’s choice of cisplatin (75 mg/m2) or carboplatin (AUC5) administered intravenously on Day 1 of 21-day cycles for 4 cycles, followed by TAGRISSO (80 mg) orally once daily and pemetrexed (500 mg/m2) administered intravenously every 3 weeks
 - •TAGRISSO (80 mg) orally once daily
 
-Randomization was stratified by race (Chinese/Asian, non-Chinese/Asian or non-Asian), WHO performance status (0 or 1), and method for tissue testing (central or local).
+Randomization was stratified by race (Chinese/Asian, Other races except-Chinese/Asian or other races), WHO performance status (0 or 1), and method for tissue testing (central or local).
 Patients received study therapy until intolerance to therapy, or the investigator determined that the patient was no longer experiencing clinical benefit.
 
 Progression-free survival, as assessed by investigator per RECIST 1.1 was the primary efficacy outcome measure.
@@ -215,9 +215,9 @@ Efficacy Results in FLAURA2 according to Investigator Assessment
 | Progressive disease (%) | 95 (34) | 158 (57) |
 | DeathWithout documented radiological disease progression (%) | 25 (9) | 8 (2.9) |
 | Median PFS in months (95% CI) | 25.5 (24.7, NE) | 16.7 (14.1, 21.3) |
-| Hazard Ratio (95% CI)Stratified by race (Chinese/Asian, -Other races except Chinese/Asian vs other races), WHO performance status (0 or 1) and method of tissue testing (central or local). | 0.62 (0.49, 0.79) |  |
+| Hazard Ratio (95% CI)Stratified by race (Chinese/Asian, -Other races except Chinese/Asian vs other races), WHO performance status (0 or 1) and method of tissue testing (central or local).Pike estimator. | 0.62 (0.49, 0.79) |  |
 | p-valueStratified log-rank test. | <0.0001 |  |
-| Overall Response Rate (ORR) |  |  |
+| Overall Response Rate (ORR)Confirmed responses. |  |  |
 | ORR, % (95% CI) | 77 (71, 82) | 69 (63, 74) |
 | Complete response, % | 0.4 | 0.4 |
 | Partial response, % | 76 | 68 |
@@ -237,18 +237,18 @@ Exploratory Analysis – CNS Efficacy by BICR in Patients with CNS Metastases on
 | Efficacy Parameter | CNS Measurable Lesions |  |
 | --- | --- | --- |
 | TAGRISSO with pemetrexed and platinum-based chemotherapy (N=40) | TAGRISSO (N=38) |  |
-| CNS Tumor Response AssessmentAccording to RECIST v1.1. |  |  |
+| CNS Tumor Response AssessmentAccording to RECIST v1.1.Based on confirmed response. |  |  |
 | CNS ORR, % (95% CI) | 80 (64, 91) | 76 (60, 89) |
 | Complete response, % | 48 | 16 |
 | Partial response, % | 33 | 61 |
-| CNS Duration of Response |  |  |
+| CNS Duration of ResponseBased on patients with response only; DoR defined as the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
 | Number of responders | 32 | 29 |
 | Response Duration ≥6 months, % | 75 | 50 |
 | Response Duration ≥12 months, % | 65 | 34 |
 
 ## 14.5 Previously Treated EGFR T790M Mutation-Positive Metastatic NSCLC
 
-The efficacy of TAGRISSO was demonstrated in a randomized, multicenter open-label, active-controlled trial in patients with metastatic EGFR T790M mutation-positive NSCLC who had progressed on prior systemic therapy, including an EGFR TKI (AURA3).
+The efficacy of TAGRISSO was demonstrated in a randomized, multicenter open-label, active-controlled trial in patients with metastatic EGFR T790M mutation-positive NSCLC who had progressed on prior systemic therapy, including an EGFR TKI (AURA3) [NCT02151981].
 All patients were required to have EGFR T790M mutation-positive NSCLC identified by the cobas® EGFR Mutation Test performed in a central laboratory prior to randomization.
 
 A total of 419 patients were randomized 2:1 to receive TAGRISSO (n=279) or platinum-based doublet chemotherapy (n=140).
@@ -272,27 +272,27 @@ At the time of the final OS analysis, 99 patients (71%) randomized to chemothera
 Table 20.
 Efficacy Results According to Investigator Assessment in AURA3
 
-| Efficacy Parameter | TAGRISSO (N=279) |  | Chemotherapy (N=140) |
-| --- | --- | --- | --- |
-| Progression-Free Survival |  |  |  |
-| Number of events (%) | 140 (50) |  | 110 (79) |
-| Progressive disease (%) | 129 (46) |  | 104 (74) |
-| Death(%)Without documented radiological disease progression. | 11 (4) |  | 6 (4) |
-| Median PFS in months (95% CI) | 10.1 (8.3, 12.3) |  | 4.4 (4.2, 5.6) |
-| Hazard Ratio (95% CIStratified by ethnicity (Asian vs other races).Pike estimator.) | 0.30 (0.23,0.41) |  |  |
-| p-valueStratified log-rank test. | <0.001 |  |  |
-| Overall Survival |  |  |  |
-| Number of deaths (%) | 188 (67) | 93 (66) |  |
-| Median OS in months (95% CI) | 26.8 (23.5, 31.5) | 22.5 (20.2, 28.8) |  |
-| Hazard Ratio (95% CI) | 0.87 (0.67, 1.12) |  |  |
-| p-value | 0.277 |  |  |
-| Overall Response RateConfirmed responses. |  |  |  |
-| ORR, % (95% CI) | 65 (59, 70) |  | 29 (21, 37) |
-| Complete response, % | 1 |  | 1 |
-| Partial response, % | 63 |  | 27 |
-| p-valueLogistic regression analysis | <0.001 |  |  |
-| Duration of Response (DoR) |  |  |  |
-| Median in months (95% CI) | 11.0 (8.6, 12.6) |  | 4.2 (3.0, 5.9) |
+| Efficacy Parameter | TAGRISSO (N=279) | Chemotherapy (N=140) |
+| --- | --- | --- |
+| Progression-Free Survival |  |  |
+| Number of events (%) | 140 (50) | 110 (79) |
+| Progressive disease (%) | 129 (46) | 104 (74) |
+| DeathWithout documented radiological disease progression.(%) | 11 (4) | 6 (4) |
+| Median PFS in months (95% CI) | 10.1 (8.3, 12.3) | 4.4 (4.2, 5.6) |
+| Hazard Ratio (95% CIStratified by ethnicity (Asian vs other races).Pike estimator.) | 0.30 (0.23,0.41) |  |
+| p-valueStratified log-rank test. | <0.001 |  |
+| Overall Survival |  |  |
+| Number of deaths (%) | 188 (67) | 93 (66) |
+| Median OS in months (95% CI) | 26.8 (23.5, 31.5) | 22.5 (20.2, 28.8) |
+| Hazard Ratio (95% CI) | 0.87 (0.67, 1.12) |  |
+| p-value | 0.277 |  |
+| Overall Response RateConfirmed responses. |  |  |
+| ORR, % (95% CI) | 65 (59, 70) | 29 (21, 37) |
+| Complete response, % | 1 | 1 |
+| Partial response, % | 63 | 27 |
+| p-valueLogistic regression analysis. | <0.001 |  |
+| Duration of Response (DoR) |  |  |
+| Median in months (95% CI) | 11.0 (8.6, 12.6) | 4.2 (3.0, 5.9) |
 
 Figure 7.
 Kaplan-Meier Curves of PFS by Investigator Assessment in AURA3
@@ -311,7 +311,7 @@ CNS ORR and DoR by BICR in Patients with Measurable CNS Lesions at Baseline in A
 | CNS Tumor Response AssessmentAccording to RECIST v 1.1.Based on confirmed response. |  |  |
 | CNS ORR, % (95% CI) | 57 (37, 75) | 25 (7, 52) |
 | Complete response, % | 7 | 0 |
-| Duration of CNS ResponseBased on patients with response only; DoR definedas the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
+| Duration of CNS ResponseBased on patients with response only; DoR defined as the time from the date of first documented response (complete response or partial response) until progression or death event. |  |  |
 | Number of responders | 17 | 4 |
 | Response Duration ≥6 months, % | 47 | 0 |
 | Response Duration ≥9 months, % | 12 | 0 |
