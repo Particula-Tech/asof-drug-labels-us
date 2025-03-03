@@ -12,7 +12,7 @@ Important information you need to know before taking Risperidone Oral Solution:
 - Always use the oral dosing syringe that comes with Risperidone Oral Solution.
   Contact your healthcare provider or pharmacist if you lose or damage the oral dosing syringe, or if your carton does not come with one.
 - Risperidone Oral Solution can be taken directly from the oral dosing syringe or mixed with water, coffee, orange juice, or low-fat milk.
-  Do notmix Risperidone Oral Solution with cola or tea.
+  Do not mix Risperidone Oral Solution with cola or tea.
 
 Each Risperidone Oral Solution carton contains:
 
@@ -31,30 +31,28 @@ Gather and check supplies:
 
 Preparing a dose of Risperidone Oral Solution:
 
-| Step 1.Place the Risperidone Oral Solution bottle on a flat surface. Push down on the cap while turning it to the left (counterclockwise) to open the bottle. |  |
+| Step 1. Place the Risperidone Oral Solution bottle on a flat surface. Push down on the cap while turning it to the left (counterclockwise) to open the bottle. |  |
 | --- | --- |
-| Step 2.Push the plunger of the oral dosing syringe all the way down. |  |
-| Step 3.With the bottle in an upright position, fully insert the oral dosing syringe into the opening of the bottle. |  |
-| Step 4.Withdraw the prescribed dose of Risperidone Oral Solution from the bottle. Hold down the barrel of the oral dosing syringe with one hand. With your other hand, slowly pull the plunger up until you reach the mL markings on the plunger for the prescribed dose. |  |
-| Step 5. Remove the oral dosing syringe from the bottle by holding the outer barrel and pulling straight up. Be careful not to push down on the plunger during this step. Check the oral dosing syringe for air bubbles. If you see air bubbles, slowly push the plunger all the way down to return the oral solution into the bottle. Then repeat Step 4to withdraw the prescribed dose. |  |
-| Step 6.Risperidone Oral Solution can be mixed with a drink or taken directly from the oral dosing syringe. Mix the dose of Risperidone Oral Solution with water, coffee, orange juice, or low-fat milk. Stir well and drink all of the mixture right away to ensure the full dose is taken. See Figure 6a. Do not mix Risperidone Oral Solution with cola or tea. |  |
+| Step 2. Push the plunger of the oral dosing syringe all the way down. |  |
+| Step 3. With the bottle in an upright position, fully insert the oral dosing syringe into the opening of the bottle. |  |
+| Step 4. Withdraw the prescribed dose of Risperidone Oral Solution from the bottle. Hold down the barrel of the oral dosing syringe with one hand. With your other hand, slowly pull the plunger up until you reach the mL markings on the plunger for the prescribed dose. |  |
+| Step 5. Remove the oral dosing syringe from the bottle by holding the outer barrel and pulling straight up. Be careful not to push down on the plunger during this step. Check the oral dosing syringe for air bubbles. If you see air bubbles, slowly push the plunger all the way down to return the oral solution into the bottle. Then repeat Step 4 to withdraw the prescribed dose. |  |
+| Step 6. Risperidone Oral Solution can be mixed with a drink or taken directly from the oral dosing syringe. Mix the dose of Risperidone Oral Solution with water, coffee, orange juice, or low-fat milk. Stir well and drink all of the mixture right away to ensure the full dose is taken. See Figure 6a. Do not mix Risperidone Oral Solution with cola or tea. |  |
 | Or To take the Risperidone Oral Solution dose directly from the oral dosing syringe, place the tip of the oral dosing syringe into the mouth and toward the cheek. Slowly push the plunger all the way down to gently release all of the medicine in the oral dosing syringe. Do not squirt or forcefully push the medicine into the back of the throat. See Figure 6b. |  |
-| Step 7.Place the cap back on the Risperidone Oral Solution bottle and turn the cap to the right (clockwise) to close the bottle. |  |
-| Step 8.Rinse the oral dosing syringe with water after each use. Remove the plunger from the oral dosing syringe barrel.Rinse the oral dosing syringe barrel and plunger with water and let them air dry.When the oral dosing syringe barrel and plunger are dry, put the plunger back into the oral dosing syringe barrel for the next use. Do not throw away the oral dosing syringe. |  |
+| Step 7. Place the cap back on the Risperidone Oral Solution bottle and turn the cap to the right (clockwise) to close the bottle. |  |
+| Step 8. Rinse the oral dosing syringe with water after each use. Remove the plunger from the oral dosing syringe barrel.Rinse the oral dosing syringe barrel and plunger with water and let them air dry.When the oral dosing syringe barrel and plunger are dry, put the plunger back into the oral dosing syringe barrel for the next use. Do not throw away the oral dosing syringe. |  |
 
 Storing Risperidone Oral Solution:
 
-- Store Risperidone Oral Solution at room temperature between 59°F to 77°F (15°C to 25°C).
+- Store Risperidone Oral Solution at room temperature between 59 °F to 77 °F (15°C to 25°C).
 - Do not freeze Risperidone Oral Solution.
   Protect from light.
 - Keep Risperidone Oral Solution and all medicines out of the reach of children.
 
-Manufactured by: Janssen Pharmaceutica NV Beerse, Belgium
-
-Manufactured for: Patriot Pharmaceuticals, LLC Horsham, PA 19044
+Manufactured for: Patriot Pharmaceuticals, LLC Horsham, PA 19044,USA
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: 6/2022
+Revised: 2/2025
 
 # INSTRUCCIONES DE USO Risperidona Solución oral
 
@@ -70,7 +68,7 @@ Información importante que debe saber antes de tomar Risperidona Solución oral
 - Utilice siempre la jeringa de dosificación oral que viene con Risperidona Solución oral.
   Comuníquese con su proveedor de atención médica o farmacéutico si pierde o daña la jeringa de dosificación oral, o si su caja no viene con una.
 - Risperidona Solución oral se puede tomar directamente de la jeringa de dosificación oral o se puede mezclar con agua, café, jugo de naranja o leche con bajo contenido de grasa.
-  Nomezcle Risperidona Solución oral con refrescos de cola o té.
+  No mezcle Risperidona Solución oral con refrescos de cola o té.
 
 Cada caja de Risperidona Solución oral contiene lo siguiente:
 
@@ -89,16 +87,16 @@ Reúna y verifique los suministros:
 
 Preparación de una dosis de Risperidona Solución oral:
 
-| Paso 1.Coloque el frasco de Risperidona Solución oral sobre una superficie plana. Empuje hacia abajo la tapa mientras la gira hacia la izquierda (en sentido antihorario) para abrir el frasco. |  |
+| Paso 1. Coloque el frasco de Risperidona Solución oral sobre una superficie plana. Empuje hacia abajo la tapa mientras la gira hacia la izquierda (en sentido antihorario) para abrir el frasco. |  |
 | --- | --- |
-| Paso 2.Empuje el émbolo de la jeringa de dosificación oral hasta el fondo. |  |
-| Paso 3.Con el frasco en posición vertical, inserte completamente la jeringa de dosificación oral en la abertura del frasco. |  |
-| Paso 4.Extraiga la dosis prescrita de Risperidona Solución oral del frasco. Sostenga el cilindro de la jeringa de dosificación oral con una mano. Con la otra mano, tire lentamente del émbolo hacia arriba hasta que alcance las marcas de ml en el émbolo para la dosis prescrita. |  |
-| Paso 5.Retire la jeringa de dosificación oral del frasco sujetando el cilindro exterior y tirando hacia arriba. Tenga cuidado de no empujar hacia abajo el émbolo durante este paso. Compruebe que no haya burbujas de aire en la jeringa de dosificación oral. Si ve burbujas de aire, empuje lentamente el émbolo hasta el fondo para devolver la solución oral al frasco. Luego repita el Paso 4para retirar la dosis prescrita. |  |
-| Paso 6.Risperidona Solución oral se puede mezclar con una bebida o se puede tomar directamente de la jeringa de dosificación oral. Mezcle la dosis de Risperidona Solución oral con agua, café, jugo de naranja o leche con bajo contenido de grasa. Revuelva bien y beba toda la mezcla de inmediato para asegurarse de tomar la dosis completa. Consulte la Figura 6a. No mezcleRisperidona Solución oral con refrescos de cola o té. |  |
+| Paso 2. Empuje el émbolo de la jeringa de dosificación oral hasta el fondo. |  |
+| Paso 3. Con el frasco en posición vertical, inserte completamente la jeringa de dosificación oral en la abertura del frasco. |  |
+| Paso 4. Extraiga la dosis prescrita de Risperidona Solución oral del frasco. Sostenga el cilindro de la jeringa de dosificación oral con una mano. Con la otra mano, tire lentamente del émbolo hacia arriba hasta que alcance las marcas de ml en el émbolo para la dosis prescrita. |  |
+| Paso 5. Retire la jeringa de dosificación oral del frasco sujetando el cilindro exterior y tirando hacia arriba. Tenga cuidado de no empujar hacia abajo el émbolo durante este paso. Compruebe que no haya burbujas de aire en la jeringa de dosificación oral. Si ve burbujas de aire, empuje lentamente el émbolo hasta el fondo para devolver la solución oral al frasco. Luego repita el Paso 4 para retirar la dosis prescrita. |  |
+| Paso 6.Risperidona Solución oral se puede mezclar con una bebida o se puede tomar directamente de la jeringa de dosificación oral. Mezcle la dosis de Risperidona Solución oral con agua, café, jugo de naranja o leche con bajo contenido de grasa. Revuelva bien y beba toda la mezcla de inmediato para asegurarse de tomar la dosis completa. Consulte la Figura 6a. No mezcle Risperidona Solución oral con refrescos de cola o té. |  |
 | O Para tomar la dosis de Risperidona Solución oral directamente de la jeringa de dosificación oral, coloque la punta de la jeringa de dosificación oral en la boca y hacia la mejilla. Empuje lentamente el émbolo hasta el fondo para liberar suavemente todo el medicamento en la jeringa de dosificación oral. No rocíe ni empuje con fuerza el medicamento en la parte posterior de la garganta. Consulte la Figura 6b. |  |
-| Paso 7.Vuelva a colocar la tapa en el frasco de Risperidona Solución oral y gírela hacia la derecha (en el sentido de las agujas del reloj) para cerrar el frasco. |  |
-| Paso 8.Enjuague la jeringa de dosificación oral con agua después de cada uso. Retire el émbolo del cilindro de la jeringa de dosificación oral.Enjuague el cilindro de la jeringa de dosificación oral con agua y déjela secar al aire.Cuando el cilindro de la jeringa de dosificación oral y el émbolo estén secos, vuelva a colocar el émbolo en el cilindro de la jeringa de dosificación oral para el próximo uso. No deseche la jeringa de dosificación oral. |  |
+| Paso 7. Vuelva a colocar la tapa en el frasco de Risperidona Solución oral y gírela hacia la derecha (en el sentido de las agujas del reloj) para cerrar el frasco. |  |
+| Paso 8. Enjuague la jeringa de dosificación oral con agua después de cada uso. Retire el émbolo del cilindro de la jeringa de dosificación oral.Enjuague el cilindro de la jeringa de dosificación oral con agua y déjela secar al aire.Cuando el cilindro de la jeringa de dosificación oral y el émbolo estén secos, vuelva a colocar el émbolo en el cilindro de la jeringa de dosificación oral para el próximo uso. No deseche la jeringa de dosificación oral. |  |
 
 Almacenamiento de Risperidona Solución oral
 
@@ -107,11 +105,9 @@ Almacenamiento de Risperidona Solución oral
   Proteger de la luz.
 - Mantenga Risperidona Solución oral y todos los medicamentos fuera del alcance de los niños.
 
-Fabricado por: Janssen Pharmaceutica NV Beerse, Bélgica
-
-Fabricado para: Patriot Pharmaceuticals, LLC Horsham, PA 19044
+Fabricado para: Patriot Pharmaceuticals, LLC Horsham, PA 19044,USA
 
 Estas Instrucciones de uso han sido aprobadas por la Administración de Alimentos y Medicamentos (FDA) de los EE.
 UU.
 
-Revisado: 6/2022
+Revisado: 2/2025
