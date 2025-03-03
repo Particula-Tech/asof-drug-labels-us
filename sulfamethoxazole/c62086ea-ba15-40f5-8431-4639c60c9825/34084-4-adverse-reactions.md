@@ -7,9 +7,9 @@ Fatalities and serious adverse reactions, including severe cutaneous adverse rea
 
 Agranulocytosis, aplastic anemia, thrombocytopenia, leukopenia, neutropenia, hemolytic anemia, megaloblastic anemia, hypoprothrombinemia, methemoglobinemia, eosinophilia.
 
-## Allergic Reactions
+## Allergic/Immune Reactions
 
-Stevens-Johnson syndrome, toxic epidermal necrolysis, anaphylaxis, allergic myocarditis, erythema multiforme, exfoliative dermatitis, angioedema, drug fever, chills, Henoch-Schönlein purpura, serum sickness-like syndrome, generalized allergic reactions, generalized skin eruptions, photosensitivity, conjunctival and scleral injection, pruritus, urticaria and rash, periarteritis nodosa, systemic lupus erythematosus, drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized erythematous pustulosis (AGEP), and acute febrile neutrophilic dermatosis (AFND) (see WARNINGS).
+Stevens-Johnson syndrome, toxic epidermal necrolysis, anaphylaxis, allergic myocarditis, erythema multiforme, exfoliative dermatitis, angioedema, drug fever, chills, Henoch-Schönlein purpura, serum sickness-like syndrome, generalized allergic reactions, generalized skin eruptions, photosensitivity, conjunctival and scleral injection, pruritus, urticaria and rash, periarteritis nodosa, hemophagocytic lymphohistiocytosis (HLH), systemic lupus erythematosus, drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized erythematous pustulosis (AGEP), and acute febrile neutrophilic dermatosis (AFND) (see WARNINGS).
 
 ## Gastrointestinal
 
