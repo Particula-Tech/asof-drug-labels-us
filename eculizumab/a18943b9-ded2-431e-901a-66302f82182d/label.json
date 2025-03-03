@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761340"
+  ],
+  "inn": "eculizumab",
+  "labeler": "Samsung Bioepis Co., Ltd.",
+  "package_ndcs": [
+    "71202-010-01",
+    "71202-010-07"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "eculizumab-aagh",
+      "name": "EPYSQLI"
+    }
+  ],
+  "setid": "a18943b9-ded2-431e-901a-66302f82182d",
+  "source": "dailymed"
+}
