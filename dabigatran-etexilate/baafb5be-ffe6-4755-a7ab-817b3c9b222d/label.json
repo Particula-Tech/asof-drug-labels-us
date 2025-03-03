@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA208067"
+  ],
+  "inn": "dabigatran-etexilate",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-0265-91",
+    "0378-0265-93",
+    "0378-0266-91",
+    "0378-0266-93"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "dabigatran etexilate",
+      "name": "Dabigatran Etexilate"
+    }
+  ],
+  "setid": "baafb5be-ffe6-4755-a7ab-817b3c9b222d",
+  "source": "dailymed"
+}
