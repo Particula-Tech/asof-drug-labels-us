@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761333"
+  ],
+  "inn": "eculizumab",
+  "labeler": "Amgen Inc",
+  "package_ndcs": [
+    "55513-180-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION, CONCENTRATE",
+      "generic": "eculizumab-aeeb",
+      "name": "BKEMV"
+    }
+  ],
+  "setid": "002f9748-b0e8-4b6e-a38b-56930a839491",
+  "source": "dailymed"
+}
