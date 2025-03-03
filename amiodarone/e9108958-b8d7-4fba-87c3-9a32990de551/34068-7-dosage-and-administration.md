@@ -13,22 +13,22 @@ NEXTERONE Premixed Injection is available in GALAXY containers as a single-use, 
 No further dilution is required.
 Discard any unused portion after use.
 
-Administer NEXTERONE, whenever possible, through a central venous catheter dedicated to that purpose.
+Administer NEXTERONE Premixed Injection, whenever possible, through a central venous catheter dedicated to that purpose.
 Use an in-line filter during administration.
 
 ## 2.2 Recommended Dosage
 
-NEXTERONE response can vary.
+NEXTERONE Premixed Injection response can vary.
 Monitor patient response and adjust dose accordingly.
 In controlled clinical trials, mean daily doses above 2100 mg were associated with an increased risk of hypotension.
 
-Table 1: NEXTERONE Dosage Recommendations
+Table 1: NEXTERONE Premixed Injection Dosage Recommendations
 
-| Loading Infusion | First Rapid | 150 mg over the FIRST 10 minutes (15 mg/min).Directly infuse NEXTERONE Premixed Injection (150 mg/100 mL; 1.5 mg/mL) at a rate of 10 mL/min. |
+| Loading Infusion | First Rapid | 150 mg over the FIRST 10 minutes (15 mg/min). Directly infuse NEXTERONE Premixed Injection (150 mg/100 mL; 1.5 mg/mL) at a rate of 10 mL/min. |
 | --- | --- | --- |
-|  | Followed by Slow | 360 mg over the NEXT 6 hours (1 mg/min). Directly infuse NEXTERONE Premixed Injection (360 mg/200 mL; 1.8 mg/mL) at a rate of 0.556 mL/min.540 mg over the REMAINING 18 hours (0.5 mg/min)Decrease the rate to 0.278 mL/min. |
-| Maintenance Infusion |  | After the first 24 hours, continue the maintenance infusion 720 mg per 24 hour period (0.5 mg/min)Directly infuse NEXTERONE Premixed Injection (360 mg/200 mL; 1.8 mg/mL) at a rate of 0.278 mL/min). |
-| Breakthrough VF or Hemodynamically Unstable VT |  | 150 mg supplemental infusion over 10 minutes (15 mg/min).Directly infuse NEXTERONE Premixed Injection (150 mg/100mL; 1.5 mg/mL) at a rate of 10 mL/min. |
+|  | Followed by Slow | 360 mg over the NEXT 6 hours (1 mg/min). Directly infuse NEXTERONE Premixed Injection (360 mg/200 mL; 1.8 mg/mL) at a rate of 0.556 mL/min. 540 mg over the REMAINING 18 hours (0.5 mg/min) Decrease the rate to 0.278 mL/min. |
+| Maintenance Infusion |  | After the first 24 hours, continue the maintenance infusion 720 mg per 24 hour period (0.5 mg/min) Directly infuse NEXTERONE Premixed Injection (360 mg/200 mL; 1.8 mg/mL) at a rate of 0.278 mL/min). |
+| Breakthrough VF or Hemodynamically Unstable VT |  | 150 mg supplemental infusion over 10 minutes (15 mg/min). Directly infuse NEXTERONE Premixed Injection (150 mg/100mL; 1.5 mg/mL) at a rate of 10 mL/min. |
 
 Admixture Incompatibility Amiodarone in D5W Injection forms precipitates with the drugs shown in Table 2.
 If co-administration of the following drugs is necessary, use separate intravenous administration lines.
