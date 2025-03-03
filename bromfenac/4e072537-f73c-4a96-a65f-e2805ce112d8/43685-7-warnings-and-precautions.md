@@ -2,7 +2,7 @@
 
 ## 5.1 Sulfite Allergic Reactions
 
-PROLENSA ophthalmic solution contains sodium sulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
+PROLENSA contains sodium sulfite, a sulfite that may cause allergic-type reactions including anaphylactic symptoms and life-threatening or less severe asthmatic episodes in certain susceptible people.
 The overall prevalence of sulfite sensitivity in the general population is unknown and probably low.
 Sulfite sensitivity is seen more frequently in asthmatic than in non-asthmatic people.
 
@@ -26,7 +26,7 @@ It is recommended that PROLENSA ophthalmic solution be used with caution in pati
 
 ## 5.5 Keratitis and Corneal Reactions
 
-Use of topical NSAIDs may result in keratitis.
+Use of topical NSAIDs, including bromfenac, may result in keratitis.
 In some susceptible patients, continued use of topical NSAIDs may result in epithelial breakdown, corneal thinning, corneal erosion, corneal ulceration or corneal perforation.
 These events may be sight threatening.
 Patients with evidence of corneal epithelial breakdown should immediately discontinue use of topical NSAIDs, including bromfenac, and should be closely monitored for corneal health.
@@ -36,7 +36,12 @@ Topical NSAIDs should be used with caution in these patients.
 
 Postmarketing experience with topical NSAIDs also suggests that use more than 24 hours prior to surgery or use beyond 14 days postsurgery may increase patient risk for the occurrence and severity of corneal adverse events.
 
-## 5.6 Contact Lens Wear
+## 5.6 Risk of Contamination
+
+Do not touch dropper tip to the eye, eyelids, or to any surface, as this may contaminate the contents.
+Replace the bottle cap after using.
+
+## 5.7 Contact Lens Wear
 
 PROLENSA should not be instilled while wearing contact lenses.
 Remove contact lenses prior to instillation of PROLENSA.

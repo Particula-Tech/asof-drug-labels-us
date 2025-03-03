@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Topical ophthalmic solution: bromfenac 0.07%
+Ophthalmic solution: bromfenac 0.07%

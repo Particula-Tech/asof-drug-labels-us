@@ -2,23 +2,45 @@
 
 ## 8.1 Pregnancy
 
-Treatment of rats at oral doses up to 0.9 mg/kg/day (systemic exposure 90 times the systemic exposure predicted from the recommended human ophthalmic dose [RHOD] assuming the human systemic concentration is at the limit of quantification) and rabbits at oral doses up to 7.5 mg/kg/day (150 times the predicted human systemic exposure) produced no treatment-related malformations in reproduction studies.
-However, embryofetal lethality and maternal toxicity were produced in rats and rabbits at 0.9 mg/kg/day and 7.5 mg/kg/day, respectively.
-In rats, bromfenac treatment caused delayed parturition at 0.3 mg/kg/day (30 times the predicted human exposure), and caused dystocia, increased neonatal mortality, and reduced postnatal growth at 0.9 mg/kg/day.
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no available data on PROLENSA use in pregnant women to evaluate a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.
 
-Because of the known effects of prostaglandin biosynthesis-inhibiting drugs on the fetal cardiovascular system (closure of ductus arteriosus), the use of PROLENSA ophthalmic solution during late pregnancy should be avoided.
+The systemic exposure to bromfenac following topical ocular administration is low [see Clinical Pharmacology (12.3)].
+Consequently, the systemic exposure of a pregnant woman to bromfenac is expected to be minimal following topical ocular administration.
 
-## 8.3 Nursing Mothers
+However, because of the known effects of prostaglandin biosynthesis-inhibiting drugs on the fetal cardiovascular system (closure of ductus arteriosus), the use of PROLENSA during late pregnancy should be avoided.
 
-Caution should be exercised when PROLENSA ophthalmic solution is administered to a nursing woman.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Premature closure of the ductus arteriosus in the fetus has occurred with third trimester use of oral and injectable NSAIDs.
+Measurable maternal and fetal plasma drug levels are available with oral and injectable routes of NSAID administration.
+The maternal plasma level of PROLENSA following ocular administration is unknown [see Clinical Pharmacology (12.3)].
+
+Data
+
+Animal Data
+
+Embryo-fetal lethality and maternal toxicity were produced in rats and rabbits treated with bromfenac during the period of organogenesis at oral doses up to 0.9 mg/kg/day and 7.5 mg/kg/day, respectively.
+These doses corresponded to a Cmax 90- and 150- times the predicted Cmax at the recommended human ophthalmic dose (RHOD), respectively.
+In rats, bromfenac treatment caused delayed parturition at 0.3 mg/kg/day (30 times the predicted human Cmax at the RHOD), and caused dystocia, increased neonatal mortality, and reduced postnatal growth at 0.9 mg/kg/day (90 times the predicted human Cmax at the RHOD).
+
+## 8.2 Lactation
+
+There are no data on the presence of bromfenac in human milk, the effects on the breastfed infant, or the effects on milk production.
+
+The systemic exposure of a breastfeeding woman to bromfenac is expected to be minimal following topical ocular administration, however, the possibility of harm to the breastfed infant cannot be ruled out.
+
+The developmental and health benefits of breastfeeding should be considered, along with the mother’s clinical need for PROLENSA, and any potential adverse effects on the breastfed infant from PROLENSA or from the underlying maternal conditions.
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy in pediatric patients below the age of 18 years have not been established.
+The safety and effectiveness of PROLENSA have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
-There is no evidence that the efficacy or safety profiles for PROLENSA differ in patients 70 years of age and older compared to younger adult patients.
+No overall differences in safety or effectiveness of PROLENSA have been observed between patients 70 years of age and older and younger adult patients.

@@ -1,8 +1,8 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 24208-602-03
+NDC24208-602-03
 
-PROLENSA® (bromfenac ophthalmic solution) 0.07%
+PROLENSA ® (bromfenac ophthalmic solution) 0.07%
 
 Sterile
 
@@ -16,6 +16,4 @@ Rx only
 
 BAUSCH + LOMB
 
-9534402
-
-AB49405
+9534402 AB49405
