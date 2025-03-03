@@ -17,7 +17,7 @@ The precise mechanisms by which amlodipine relieves angina have not been fully d
 Exertional Angina: In patients with exertional angina, amlodipine reduces the total peripheral resistance (afterload) against which the heart works and reduces the rate pressure product, and thus myocardial oxygen demand, at any given level of exercise.
 
 Vasospastic Angina: Amlodipine has been demonstrated to block constriction and restore blood flow in coronary arteries and arterioles in response to calcium, potassium epinephrine, serotonin, and thromboxane A2 analog in experimental animal models and in human coronary vessels in vitro.
-This inhibition of coronary spasm is responsible for the effectiveness of amlodipine in vasospastic (Prinzmetal's or variant) angina.
+This inhibition of coronary spasm is responsible for the effectiveness of amlodipine in vasospastic (Prinzmetal’s or variant) angina.
 
 ## 12.2 Pharmacodynamics
 
@@ -33,16 +33,16 @@ Normotensive subjects experienced no clinically significant change in blood pres
 In hypertensive patients with normal renal function, therapeutic doses of amlodipine besylate tablets resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria.
 
 As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine besylate tablets have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume.
-In hemodynamic studies, amlodipine besylate tablets have not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when co-administered with beta-blockers to man.
-Similar findings, however, have been observed in normal or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.
+In hemodynamic studies, amlodipine besylate tablets have not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when co‑administered with beta‑blockers to man.
+Similar findings, however, have been observed in normal or well‑compensated patients with heart failure with agents possessing significant negative inotropic effects.
 
 Electrophysiologic Effects: Amlodipine besylate tablets do not change sinoatrial nodal function or atrioventricular conduction in intact animals or man.
-In patients with chronic stable angina, intravenous administration of 10 mg did not significantly alter A-H and H-V conduction and sinus node recovery time after pacing.
+In patients with chronic stable angina, intravenous administration of 10 mg did not significantly alter A‑H and H‑V conduction and sinus node recovery time after pacing.
 Similar results were obtained in patients receiving amlodipine besylate tablets and concomitant beta-blockers.
-In clinical studies in which amlodipine besylate tablets were administered in combination with beta-blockers to patients with either hypertension or angina, no adverse effects on electrocardiographic parameters were observed.
+In clinical studies in which amlodipine besylate tablets were administered in combination with beta‑blockers to patients with either hypertension or angina, no adverse effects on electrocardiographic parameters were observed.
 In clinical trials with angina patients alone, amlodipine besylate tablet therapy did not alter electrocardiographic intervals or produce higher degrees of AV blocks.
 
-Drug interactions
+### Drug interactions
 
 Sildenafil: When amlodipine and sildenafil were used in combination, each agent independently exerted its own blood pressure lowering effect [see Drug Interactions (7.1)].
 
@@ -63,7 +63,7 @@ Patients with renal failure may therefore receive the usual initial dose.
 Elderly patients and patients with hepatic insufficiency have decreased clearance of amlodipine with a resulting increase in AUC of approximately 40–60%, and a lower initial dose may be required.
 A similar increase in AUC was observed in patients with moderate to severe heart failure.
 
-Drug interactions
+### Drug interactions
 
 In vitro data indicate that amlodipine has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.
 
