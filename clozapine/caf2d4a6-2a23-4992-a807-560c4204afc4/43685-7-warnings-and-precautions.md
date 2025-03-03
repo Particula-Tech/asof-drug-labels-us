@@ -127,21 +127,19 @@ Initiate treatment with a low dose (12.5 mg), titrate slowly, and use divided do
 Use caution when administering clozapine orally disintegrating tablets to patients with a history of seizures or other predisposing risk factors for seizure (e.g., head trauma or other CNS pathology, use of medications that lower the seizure threshold, or alcohol abuse).
 Because of the substantial risk of seizure associated with clozapine orally disintegrating tablets use, caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others (e.g., driving an automobile, operating complex machinery, swimming, climbing).
 
-## 5.6 Myocarditis and Cardiomyopathy
+## 5.6 Myocarditis, Pericarditis, Cardiomyopathy, and Mitral Valve Incompetence
 
-Myocarditis and cardiomyopathy have occurred with the use of clozapine.
+Myocarditis, pericarditis, and cardiomyopathy have occurred with the use of clozapine orally disintegrating tablets.
 These reactions can be fatal.
-Discontinue clozapine orally disintegrating tablets and obtain a cardiac evaluation upon suspicion of myocarditis or cardiomyopathy.
-Generally, patients with a history of clozapine-associated myocarditis or cardiomyopathy should not be rechallenged with clozapine orally disintegrating tablets.
-However, if the benefit of clozapine orally disintegrating tablets treatment is judged to outweigh the potential risks of recurrent myocarditis or cardiomyopathy, the clinician may consider rechallenge with clozapine orally disintegrating tablets in consultation with a cardiologist, after a complete cardiac evaluation, and under close monitoring.
+Discontinue clozapine orally disintegrating tablets and obtain a cardiac evaluation upon suspicion of myocarditis, pericarditis, or cardiomyopathy.
+Generally, patients with a history of clozapine-associated myocarditis, pericarditis, or cardiomyopathy should not be rechallenged with clozapine orally disintegrating tablets.
+However, if the benefit of clozapine orally disintegrating tablets treatment is judged to outweigh the potential risks of recurrence, the clinician may consider rechallenge with clozapine orally disintegrating tablets in consultation with a cardiologist.
 
 Consider the possibility of myocarditis or cardiomyopathy in patients receiving clozapine orally disintegrating tablets who present with chest pain, dyspnea, persistent tachycardia at rest, palpitations, fever, flu-like symptoms, hypotension, other signs or symptoms of heart failure, or electrocardiographic findings (low voltages, ST-T abnormalities, arrhythmias, right axis deviation, and poor R wave progression).
-Myocarditis most frequently presents within the first two months of clozapine treatment.
+Myocarditis and pericarditis most frequently present within the first 2 months of clozapine treatment.
 Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis and usually after 8 weeks of treatment.
-However, myocarditis and cardiomyopathy can occur at any period during treatment with clozapine orally disintegrating tablets.
-It is common for nonspecific flu-like symptoms such as malaise, myalgia, pleuritic chest pain, and low-grade fevers to precede more overt signs of heart failure.
-Typical laboratory findings include elevated troponin I or T, elevated creatinine kinase-MB, peripheral eosinophilia, and elevated C-reactive protein (CRP).
-Chest roentgenogram may demonstrate cardiac silhouette enlargement, and cardiac imaging (echocardiogram, radionucleotide studies, or cardiac catheterization) may reveal evidence of left ventricular dysfunction.
+However, myocarditis, pericarditis, and cardiomyopathy can occur at any period during treatment with clozapine orally disintegrating tablets.
+In patients who are diagnosed with cardiomyopathy while taking clozapine orally disintegrating tablets mitral valve incompetence has been reported.
 
 ## 5.7 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
