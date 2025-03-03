@@ -126,7 +126,7 @@ When celecoxib capsules is used in patients with preexisting asthma (without kno
 
 ## 5.9 Serious Skin Reactions
 
-Serious skin reactions have occurred following treatment with celecoxib capsules, including erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP), and fixed drug eruption (FFDE) which may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE).
+Serious skin reactions have occurred following treatment with celecoxib capsules, including erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and fixed drug eruption (FFDE) which may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE).
 These serious events may occur without warning and can be fatal.
 
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of celecoxib capsules at the first appearance of skin rash or any other sign of hypersensitivity.
