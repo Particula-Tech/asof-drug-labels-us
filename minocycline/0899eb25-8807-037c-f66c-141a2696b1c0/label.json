@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA219015"
+  ],
+  "inn": "minocycline",
+  "labeler": "Journey Medical Corporation",
+  "package_ndcs": [
+    "69489-131-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "minocycline hydrochloride extended-release",
+      "name": "EMROSI"
+    }
+  ],
+  "setid": "0899eb25-8807-037c-f66c-141a2696b1c0",
+  "source": "dailymed"
+}
