@@ -127,24 +127,18 @@ Initiate treatment with a low dose (12.5 mg), titrate slowly, and use divided do
 Use caution when administering clozapine tablets to patients with a history of seizures or other predisposing risk factors for seizure (e.g., head trauma or other CNS pathology, use of medications that lower the seizure threshold, or alcohol abuse).
 Because of the substantial risk of seizure associated with clozapine tablets use, caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others (e.g., driving an automobile, operating complex machinery, swimming, climbing).
 
-## 5.6 Myocarditis, Cardiomyopathy and Mitral Valve Incompetence
+## 5.6 Myocarditis, Pericarditis, Cardiomyopathy and Mitral Valve Incompetence
 
-Myocarditis and cardiomyopathy have occurred with the use of clozapine tablets.
+Myocarditis, pericarditis, and cardiomyopathy have occurred with the use of clozapine tablets.
 These reactions can be fatal.
 Discontinue clozapine tablets and obtain a cardiac evaluation upon suspicion of myocarditis or cardiomyopathy.
 Generally, patients with a history of clozapine-associated myocarditis or cardiomyopathy should not be rechallenged with clozapine tablets.
-However, if the benefit of clozapine tablets treatment is judged to outweigh the potential risks of recurrent myocarditis or cardiomyopathy, the clinician may consider rechallenge with clozapine tablets in consultation with a cardiologist, after a complete cardiac evaluation, and under close monitoring.
+However, if the benefit of clozapine tablets treatment is judged to outweigh the potential risks of recurrence, the clinician may consider rechallenge with clozapine tablets in consultation with a cardiologist.
 
-Consider the possibility of myocarditis or cardiomyopathy in patients receiving clozapine tablets who present with chest pain, dyspnea, persistent tachycardia at rest, palpitations, fever, flu-like symptoms, hypotension, other signs or symptoms of heart failure, or electrocardiographic findings (low voltages, ST-T abnormalities, arrhythmias, right axis deviation, and poor R wave progression).
-Myocarditis most frequently presents within the first 2 months of clozapine treatment.
+Myocarditis and pericarditis most frequently present within the first 2 months of clozapine treatment.
 Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis and usually after 8 weeks of treatment.
-However, myocarditis and cardiomyopathy can occur at any period during treatment with clozapine tablets.
-It is common for nonspecific flu-like symptoms such as malaise, myalgia, pleuritic chest pain, and low-grade fevers to precede more overt signs of heart failure.
-Typical laboratory findings include elevated troponin I or T, elevated creatinine kinase-MB, peripheral eosinophilia, and elevated C-reactive protein (CRP).
-Chest roentgenogram may demonstrate cardiac silhouette enlargement, and cardiac imaging (echocardiogram, radionucleotide studies, or cardiac catheterization) may reveal evidence of left ventricular dysfunction.
-In patients who are diagnosed with cardiomyopathy while taking clozapine tablets mitral valve incompetence has been reported.
-These cases reported either mild or moderate mitral regurgitation on two-dimensional echocardiography.
-In patients with suspected cardiomyopathy, consider a 2D-echo Doppler examination to identify mitral valve incompetence.
+However, myocarditis, pericarditis, and cardiomyopathy can occur at any period during treatment with clozapine tablets.
+In patients who are diagnosed with cardiomyopathy while taking clozapine tablets, mitral valve incompetence has been reported.
 
 ## 5.7 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 

@@ -1,4 +1,4 @@
-# WARNING: SEVERE NEUTROPENIA; ORTHOSTATIC HYPOTENSION, BRADYCARDIA, AND SYNCOPE; SEIZURE; MYOCARDITIS AND CARDIOMYOPATHY; INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS
+# WARNING: SEVERE NEUTROPENIA; ORTHOSTATIC HYPOTENSION, BRADYCARDIA, AND SYNCOPE; SEIZURE; MYOCARDITIS, PERICARDITIS, AND CARDIOMYOPATHY; INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS
 
 Severe Neutropenia
 
@@ -26,12 +26,12 @@ Initiate treatment at 12.5 mg, titrate gradually, and use divided dosing.
 Use caution when administering clozapine tablets to patients with a history of seizures or other predisposing risk factors for seizure (CNS pathology, medications that lower the seizure threshold, alcohol abuse).
 Caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others [see Dosage and Administration (2.2), Warnings and Precautions (5.5)].
 
-Myocarditis, Cardiomyopathy and Mitral Valve Incompetence
+Myocarditis, Pericarditis, Cardiomyopathy and Mitral Valve Incompetence
 
 Fatal myocarditis and cardiomyopathy have occurred with clozapine tablets treatment.
 Discontinue clozapine tablets and obtain a cardiac evaluation upon suspicion of these reactions.
 Generally, patients with clozapine tablets-related myocarditis or cardiomyopathy should not be rechallenged with clozapine tablets.
-Consider the possibility of myocarditis or cardiomyopathy if chest pain, tachycardia, palpitations, dyspnea, fever, flu-like symptoms, hypotension, or ECG changes occur [see Warnings and Precautions (5.6)].
+Consider the possibility of myocarditis, pericarditis, or cardiomyopathy if chest pain, tachycardia, palpitations, dyspnea, fever, flu-like symptoms, hypotension, or ECG changes occur [see Warnings and Precautions (5.6)].
 
 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 

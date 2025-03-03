@@ -6,7 +6,7 @@ The following adverse reactions are discussed in more detail in other sections o
 - •Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)]
 - •Falls [see Warnings and Precautions (5.4)]
 - •Seizures [see Warnings and Precautions (5.5)]
-- •Myocarditis, Cardiomyopathy, and Mitral Valve Incompetence [see Warnings and Precautions (5.6)]
+- •Myocarditis, Pericarditis, Cardiomyopathy, and Mitral Valve Incompetence [see Warnings and Precautions (5.6)]
 - •Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.7)]
 - •Gastrointestinal Hypomotility with Severe Complications [see Warnings and Precautions (5.8)]
 - •Eosinophilia [see Warnings and Precautions (5.9)]
@@ -135,7 +135,7 @@ Delirium, EEG abnormal, myoclonus, paresthesia, possible cataplexy, status epile
 
 ### Cardiovascular System
 
-Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, myocarditis, and periorbital edema.
+Atrial or ventricular fibrillation, ventricular tachycardia, palpitations, QT interval prolongation, Torsades de Pointes, mitral valve incompetence associated with clozapine-related cardiomyopathy, myocardial infarction, cardiac arrest, myocarditis, pericarditis, and periorbital edema.
 
 ### Endocrine System
 
@@ -143,7 +143,7 @@ Pseudopheochromocytoma
 
 ### Gastrointestinal System
 
-Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, and intestinal ischemia, infarction, perforation, ulceration or necrosis.
+Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, fecal incontinence, and intestinal ischemia, infarction, perforation, ulceration or necrosis.
 
 ### Hepatobiliary System
 
