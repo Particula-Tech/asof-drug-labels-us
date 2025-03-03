@@ -1,4 +1,4 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY – Lidocaine HCl 5mL Single Dose Vial Label
+PACKAGE LABEL - PRINCIPAL DISPLAY – Lidocaine HCl 5 mL Single Dose Vial Label
 
 NDC 63323-208-01 20805
 
