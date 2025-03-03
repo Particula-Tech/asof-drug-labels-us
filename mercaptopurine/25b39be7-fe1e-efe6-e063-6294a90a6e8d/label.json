@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA216418"
+  ],
+  "inn": "mercaptopurine",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0054-4582-49"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "mercaptopurine",
+      "name": "MERCAPTOPURINE"
+    }
+  ],
+  "setid": "25b39be7-fe1e-efe6-e063-6294a90a6e8d",
+  "source": "dailymed"
+}
