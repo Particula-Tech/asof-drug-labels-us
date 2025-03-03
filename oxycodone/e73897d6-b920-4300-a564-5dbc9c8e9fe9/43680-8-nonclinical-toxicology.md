@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-Long-term studies have not been performed in animals to evaluate the carcinogenic potential of Oxycodone Hydrochloride or oxycodone.
+Long-term studies have not been performed in animals to evaluate the carcinogenic potential of oxycodone hydrochloride or oxycodone.
 
 Mutagenesis
 

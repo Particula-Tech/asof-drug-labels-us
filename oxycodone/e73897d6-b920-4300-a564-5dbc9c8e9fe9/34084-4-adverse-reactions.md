@@ -4,31 +4,32 @@ The following serious adverse reactions are described, or described in greater d
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
-- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.3)]
-- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.5)]
-- Adrenal Insufficiency [see Warnings and Precautions (5.7)]
-- Severe Hypotension [see Warnings and Precautions (5.8)]
-- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.10)]
-- Seizures [see Warnings and Precautions (5.11)]
-- Withdrawal [see Warnings and Precautions (5.12)]
+- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.3)]
+- Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.4)]
+- Opioid-Induce Hyperalgesia and Allodynia [see Warnings and Precautions (5.7)]
+- Adrenal Insufficiency [see Warnings and Precautions (5.9)]
+- Severe Hypotension [see Warnings and Precautions (5.10)]
+- Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.12)]
+- Seizures [see Warnings and Precautions (5.13)]
+- Withdrawal [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Oxycodone hydrochloride tablets have been evaluated in open label clinical trials in patients with cancer and nonmalignant pain.
-Oxycodone hydrochloride tablets are associated with adverse experiences similar to those seen with other opioids.
+Oxycodone hydrochloride have been evaluated in open label clinical trials in patients with cancer and nonmalignant pain.
+Oxycodone hydrochloride are associated with adverse experiences similar to those seen with other opioids.
 
-Serious adverse reactions associated with oxycodone hydrochloride tablets use included: respiratory depression, respiratory arrest, circulatory depression, cardiac arrest, hypotension, and/or shock.
+Serious adverse reactions associated with oxycodone hydrochloride use included: respiratory depression, respiratory arrest, circulatory depression, cardiac arrest, hypotension, and/or shock.
 
-The common adverse reactions seen on initiation of therapy with oxycodone hydrochloride tablets are dose-related and are typical opioid-related adverse reactions.
+The common adverse reactions seen on initiation of therapy with oxycodone hydrochloride are dose-related and are typical opioid-related adverse reactions.
 The most frequent of these included nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
 The frequency of these reactions depended on several factors, including clinical setting, the patient’s level of opioid tolerance, and host factors specific to the individual.
 
-In all patients for whom dosing information was available (n=191) from the open-label and double-blind studies involving oxycodone hydrochloride tablets, the following adverse events were recorded in oxycodone hydrochloride tablets treated patients with an incidence ≥ 3%.
+In all patients for whom dosing information was available (n=191) from the open-label and double-blind studies involving oxycodone hydrochloride, the following adverse events were recorded in oxycodone hydrochloride treated patients with an incidence ≥ 3%.
 In descending order of frequency, they were: nausea, constipation, vomiting, headache, pruritus, insomnia, dizziness, asthenia, and somnolence.
 
-Other less frequently observed adverse reactions from opioid analgesics, including oxycodone hydrochloride tablets included:
+Other less frequently observed adverse reactions from opioid analgesics, including oxycodone hydrochloride included:
 
 Blood and lymphatic system disorders:anemia, leukopenia
 
@@ -64,14 +65,19 @@ The following adverse reactions have been identified during post approval use of
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-General disorders and administrative site disorders:drug withdrawal syndrome neonatal [see Warnings and Precautions (5.3)]
+General disorders and administrative site disorders:drug withdrawal syndrome neonatal [see Warnings and Precautions (5.4)]
 
 Respiratory, thoracic and mediastinal disorders:pharyngeal edema
 
 Serotonin syndrome:Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs [see Drug Interactions (7)].
 
-Adrenal insufficiency:Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use [see Warnings and Precautions (5.7)].
+Adrenal insufficiency:Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use [see Warnings and Precautions (5.9)].
 
-Anaphylaxis:Anaphylactic reaction has been reported with ingredients contained in ROXICODONE [see Contraindications (4)].
+Anaphylaxis:Anaphylactic reaction has been reported with ingredients contained in oxycodone hydrochloride [see Contraindications (4)].
 
-Androgen deficiency:Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen deficiency:Cases of androgen deficiency have occurred with use of opioids for an extended period of time [see Clinical Pharmacology (12.2)].
+
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration [see Warnings and Precautions (5.7)].
+
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
+Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
