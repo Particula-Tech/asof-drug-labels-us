@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA213276"
+  ],
+  "inn": "ivabradine",
+  "labeler": "Bionpharma Inc.",
+  "package_ndcs": [
+    "69452-190-17",
+    "69452-190-30",
+    "69452-191-17",
+    "69452-191-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ivabradine",
+      "name": "ivabradine"
+    }
+  ],
+  "setid": "2ead1cf3-e61a-49c4-e063-6294a90a330f",
+  "source": "dailymed"
+}
