@@ -15,6 +15,10 @@ Do not try to inject STEQEYMA yourself until you have been shown how to inject S
 
 STEQEYMA prefilled syringes are available in 2 dose strengths (see Figure A). These instructions can be used for both dose strengths.
 
+Figure A
+
+Figure A
+
 Important Information
 
 - Before you start, check the carton to make sure that it is the right dose.
@@ -47,9 +51,13 @@ Storing STEQEYMA
 
 Parts of the Prefilled Syringe (see Figure B)
 
+Figure B
+
+Figure B
+
 Preparing to Inject STEQEYMA
 
-| Figure C | 1.Gather the supplies for the injection 1.a. Prepare a clean, ﬂat surface, such as a table or counter top, in a well-lit area. 1.b. Take the carton(s) containing the prefilled syringe(s) needed to administer your prescribed dose out of the refrigerator. Each STEQEYMA carton contains 1 prefilled syringe. Note: Depending on the dose prescribed to you by your healthcare provider you may need to prepare 1 or more prefilled syringes and inject the contents of them all.1.c. Make sure you have the following supplies (see Figure C) - Carton containing preﬁlled syringe Not included in the carton: - Cotton ball or gauze- Adhesive bandage- FDA-cleared sharps disposal container- Alcohol swab |
+| Figure C | 1.Gather the supplies for the injection1.a.Prepare a clean, ﬂat surface, such as a table or counter top, in a well-lit area.1.b. Take the carton(s) containing the prefilled syringe(s) needed to administer your prescribed dose out of the refrigerator. Each STEQEYMA carton contains 1 prefilled syringe. Note: Depending on the dose prescribed to you by your healthcare provider you may need to prepare 1 or more prefilled syringes and inject the contents of them all.1.c. Make sure you have the following supplies (see Figure C)- Carton containing preﬁlled syringe Not included in the carton:- Cotton ball or gauze- Adhesive bandage- FDA-cleared sharps disposal container- Alcohol swab |
 | --- | --- |
 | Figure D | 2.Check the expiration date on the carton (see Figure D). Do not use it if the expiration date has passed. If the expiration date has passed, safely throw away (dispose of) the carton in an FDA-cleared sharps disposal container (see step 13. Throw away (dispose of) STEQEYMA). |
 | Figure E | 3.Wait 30 minutes.3.a. Open the carton. Gripping from the syringe body, lift the prefilled syringe from the carton.3.b. Leave the prefilled syringe outside of the carton at room temperature 68°F to 77°F (20°C to 25°C) for 30 minutes to allow it to warm up (see Figure E). Do not warm the prefilled syringe using heat sources such as hot water or a microwave.If the prefilled syringe does not reach room temperature, this could cause the injection to feel uncomfortable and make it hard to push the plunger. |
@@ -65,7 +73,7 @@ Injecting STEQEYMA
 | --- | --- |
 | Figure L | 10.Insert the prefilled syringe into the injection site.10.a. Hold the body of the prefilled syringe in one hand between the thumb and index fingers (see Figure L).10.b. Gently pinch a fold of skin at the injection site with one hand. Note: Pinching the skin is important to make sure that you inject under the skin (into the fatty area) but not any deeper (into muscle).10.c. With a quick and dart-like motion, insert the needle completely into the fold of skin at a 45-degree angle (see Figure L). Do not pull back on the plunger rod at any time. |
 | Figure M | 11.Give the injection.11.a. After the needle is inserted, release the pinch.11.b. Inject all of the liquid by using your thumb to push the plunger all the way down (see Figure M). If the plunger is not fully pressed, the needle guard will not extend to cover the needle when it is removed. |
-| Figure N | 12.Remove the prefilled syringe from the injection site.12.a. After the prefilled syringe is empty, slowly lift your thumb from the plunger rod until the needle is completely covered by the needle guard (see Figure N). If the needle is not covered, proceed carefully to throw away (dispose of) the syringe (see step 13. Throw away (dispose of) STEQEYMA).Some bleeding may occur. This is normal (see step 14. Care for the injection site). Do not rub the injection site. |
+| Figure N | 12.Remove the prefilled syringe from the injection site.12.a. After the prefilled syringe is empty, slowly lift your thumb from the plunger rod until the needle is completely covered by the needle guard (see Figure N). If the needle is not covered, proceed carefully to throw away (dispose of) the syringe (see step 13. Throw away (dispose of) STEQEYMA).Some bleeding may occur. This is normal (see step 14. Care for the injection site).Do not rub the injection site. |
 
 If your dose is 90 mg, you will receive either one 90 mg prefilled syringe or two 45 mg prefilled syringes.
 If you receive two 45 mg prefilled syringes for a 90 mg dose, you will need to give yourself a second injection right after the first.
@@ -74,7 +82,7 @@ Choose a different site for the second injection.
 
 After the Injection
 
-| Figure O | 13. Throw away (dispose of) STEQEYMA. 13.a. Put the used prefilled syringe in an FDA-cleared sharps disposal container right away after use (see Figure O). STEQEYMA prefilled syringe is a single-dose syringe and should not be used again.Do not throw away (dispose of) the prefilled syringe in your household trash.If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: - made of a heavy-duty plastic,- can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,- upright and stable during use,- leak-resistant, and- properly labeled to warn of hazardous waste inside the container. When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of it. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. |
+| Figure O | 13. Throw away (dispose of) STEQEYMA.13.a. Put the used prefilled syringe in an FDA-cleared sharps disposal container right away after use (see Figure O). STEQEYMA prefilled syringe is a single-dose syringe and should not be used again.Do not throw away (dispose of) the prefilled syringe in your household trash.If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:- made of a heavy-duty plastic,- can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,- upright and stable during use,- leak-resistant, and- properly labeled to warn of hazardous waste inside the container.When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of it. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.Do not recycle your used sharps disposal container. |
 | --- | --- |
 | 14. Care for the injection site. 14.a. If some bleeding occurs, treat the injection site by gently pressing, not rubbing, a cotton ball or gauze to the site and apply an adhesive bandage if needed. |  |
 
