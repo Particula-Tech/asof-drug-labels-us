@@ -4,7 +4,13 @@ How Supplied
 
 ONYDA XR (clonidine hydrochloride) extended-release oral suspension 0.1 mg/mL is a light beige to tan viscous suspension.
 
-ONYDA XR is supplied, as 30-days supply, in a bottle of 30 mL (NDC 24478-148-03) and a bottle of 60 mL (NDC 24478-148-04) with a child-resistant closure that are packaged in a carton with one oral dosing dispenser and one press in bottle adapter each and in a bottle of 120 mL (NDC 24478-148-02) with a child-resistant closure that are packaged in a carton with two oral dosing dispensers and two press in bottle adapters.
+ONYDA XR is supplied in a carton.
+Each carton contains one bottle with a child resistant closure, an oral dosing dispenser(s), and a press in bottle adapter(s).
+
+| Bottle of 30 mL | NDC 24478-148-03 | One (1) oral dosing dispenser and one (1) press in bottle adapter |
+| --- | --- | --- |
+| Bottle of 60 mL | NDC 24478-148-04 | One (1) oral dosing dispenser and one (1) press in bottle adapter |
+| Bottle of 120 mL | NDC 24478-148-02 | Two (2) oral dosing dispensers and two (2) press in bottle adapters |
 
 Storage and Handling
 
@@ -13,4 +19,7 @@ Protect from light.
 
 Store and dispense ONYDA XR in the original bottle.
 Dispense with bottle adapter and oral dosing dispenser supplied in the carton.
-Discard any unused ONYDA XR remaining in the bottle after 60 days of first opening the bottle.
+
+For the bottles of 30 mL and 60 mL, discard any unused ONYDA XR 30 days after first opening the bottle.
+
+For the 120 mL bottle, discard any unused ONYDA XR 60 days after first opening the bottle.

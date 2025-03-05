@@ -16,7 +16,8 @@ Instruct patients to read the “Instructions for Use” for complete administra
 - Use the oral dosing dispenser and bottle adapter provided with ONYDA XR.
 - Ensure that the bottle adapter is firmly inserted into the bottle before first use and keep the adapter in place for the duration of the usage of the bottle.
 - Gently shake ONYDA XR with a smooth up and down motion (to avoid foaming) for at least 10 seconds before each administration.
-- Discard any unused ONYDA XR remaining in the bottle after 60 days of first opening the bottle.
+- For the bottles of 30 mL and 60 mL, discard any unused ONYDA XR 30 days after first opening the bottle.
+- For the 120 mL bottle, discard any unused ONYDA XR 60 days after first opening the bottle.
 
 ## 2.3 Switching from Other Clonidine Products
 
