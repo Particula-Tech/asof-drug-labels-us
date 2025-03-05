@@ -8,7 +8,7 @@ The systemic exposure to valsartan (AUC) is 60% higher with the suspension compa
 Use of the oral suspension is recommended:
 
 - in patients ≥ 6 years of age who cannot swallow tablets and
-- in pediatric patients for whom the calculated dose (mg/kg) does not correspond to the available tablet strengths of valsartan tablet.
+- in pediatric patients for whom the calculated dose (mg/kg) does not correspond to the available tablet strengths of valsartan tablets.
 
 When switching between suspension and tablets, the dose of valsartan may need to be adjusted.
 

@@ -1,6 +1,8 @@
 # PATIENT INFORMATION
 
-Valsartan Tablets (val-sar’-tan)
+Valsartan Tablets, USP
+
+(val-sar’-tan)
 
 What is the most important information I should know about valsartan tablets?
 
@@ -9,17 +11,17 @@ Valsartan Tablet can cause harm or death to an unborn baby.
 - Talk to your healthcare provider about other ways to lower your blood pressure if you plan to become pregnant.
 - If you become pregnant during treatment with valsartan tablet, stop taking valsartan tablet and tell your healthcare provider right away.
 
-What are valsartan tablets?
+What is valsartan tablets?
 
 Valsartan tablets are prescription medicine used in:
 
 - adults and children 6 years of age and older to lower high blood pressure (hypertension).
   Valsartan tablets may be used alone or in combination with other blood pressure medicines.
-- adult to treat heart failure valsartan tablets may help decrease your need for hospitalization that happens with heart failure.
-- adult with certain types of heart failure, to increase the chance of living longer after a heart attack (myocardial infarction) in adults.
+- adults to treat heart failure valsartan tablets may help decrease your need for hospitalization that happens with heart failure.
+- adults with certain types of heart failure, to increase the chance of living longer after a heart attack (myocardial infarction) in adults.
 
 Valsartan tablets should not be used to treat high blood pressure in children less than 1 year of age.
-It is not known if valsartan tablets safe and effective in children with certain kidney problems.
+It is not known if valsartan tablets are safe and effective in children with certain kidney problems.
 
 Do not take valsartan tablets if you:
 
@@ -35,7 +37,7 @@ Before taking valsartan tablets, tell your healthcare provider about all of your
 - are pregnant or plan to become pregnant.
   See “What is the most important information I should know about valsartan tablets?
 - are breastfeeding or plan to breastfeed.
-  It is not known if valsartan tablets passes into your breast milk.
+  It is not known if valsartan passes into your breast milk.
   You should not breastfeed during treatment with valsartan tablets.
   Talk with your healthcare provider about the best way to feed your baby during your treatment with valsartan tablets.
 
@@ -59,7 +61,7 @@ Talk to your healthcare provider or pharmacist before you start taking any new m
 How should I take valsartan tablets?
 
 - Take valsartan tablets exactly as prescribed by your healthcare provider.
-- For treatment of high blood pressure, take valsartan tablet one time each day, at the same time each day.
+- For treatment of high blood pressure, take valsartan tablet 1 time each day.
 - For children: Your pharmacist will mix valsartan tablets as a liquid suspension for your child, if:
 
 o your child is ≥ 6 years of age and cannot swallow tablets, or o if tablets are not available in the prescribed strength needed for your child
@@ -108,7 +110,7 @@ Call your healthcare provider right away.
   Some people may develop increased potassium in the blood during treatment with valsartan tablets.
   Your doctor may do a blood test to check your potassium levels as needed.
 
-The most common side effects of valsartan tablets used to treat people with high blood pressure include:
+The most common side effects of valsartan tablets when used to treat people with high blood pressure include:
 
 - headache
 - dizziness
@@ -137,9 +139,9 @@ For more information, ask your healthcare provider or pharmacist.
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA- 1088.
 
-How do I store valsartan tablets?
+How should I store valsartan tablets?
 
-- Store at room temperature between 68ºF to 77ºF (20ºC to 25ºC).
+- Store valsartan tablets at room temperature between 68ºF to 77ºF (20ºC to 25ºC).
 - Keep valsartan tablets container tightly closed and in a dry place to protect from moisture.
 - Valsartan suspension is provided in a glass bottle with a child-resistant screw-cap closure.
 - Store bottles of valsartan suspension at room temperature less than 86ºF (30ºC) for up to 30 days, or
@@ -148,7 +150,7 @@ How do I store valsartan tablets?
 Keep valsartan tablets and all medicines out of the reach of children.
 
 General information about the safe and effective use of valsartan tablets.
-Medicines are sometimes prescribed for conditions that are not mentioned in Patient Information Leaflets.
+Medicines are sometimes prescribed for purposes otherthan those listed in a Patient Information Leaflets.
 Do not use valsartan tablets for a condition for which it was not prescribed.
 Do not give valsartan tablets to other people, even if they have the same symptoms you have.
 It may harm them.
@@ -157,13 +159,11 @@ You can ask your healthcare provider or pharmacist for information about valsart
 What are the ingredients in valsartan tablets?
 Active ingredient: valsartan USP Inactive ingredients: anhydrous lactose, crospovidone, dental-type silica, ferric oxide red (80 mg only), ferric oxide yellow, hypromellose, magnesium stearate, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 All brands mentioned are trademarks of their respective owners and are not trademarks of Jubilant Generics Limited.
-Rx OnlyManufactured and distributed by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD-21801, USA
-
-For: Jubilant Generics Ltd. 1A, Sector-16A, Noida, India-201301
+Rx Only Made in India Marketed by: Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067,USA
 
 Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
 However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information
 
-This Patient Information had been approved by U.S.Food and Drug Administration.
+This Patient Information has been approved by the U.S.Food and Drug Administration.
 
-Revised: 01/2022
+Revised: 02/2025

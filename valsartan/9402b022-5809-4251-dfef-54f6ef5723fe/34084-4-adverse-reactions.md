@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical Studies Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 Adult Hypertension Valsartan has been evaluated for safety in more than 4,000 patients, including over 400 treated for over 6 months, and more than 160 for over 1 year.
@@ -14,15 +14,9 @@ In trials in which valsartan was compared to an ACE inhibitor with or without pl
 In a 129-patient trial limited to patients who had dry cough when they had previously received ACE inhibitors, the incidences of cough in patients who received valsartan, HCTZ, or lisinopril were 20%, 19%, and 69% respectively (p <0.001).
 Dose-related orthostatic effects were seen in less than 1% of patients.
 An increase in the incidence of dizziness was observed in patients treated with valsartan 320 mg (8%) compared to 10 to 160 mg (2% to 4%).
-Pediatric Hypertension Valsartan has been evaluated for safety in over 400 patients aged 6 to 17 years No relevant differences were identified between the adverse experience profile for pediatric patients and that previously reported for adult patients.
+Pediatric Hypertension Valsartan has been evaluated for safety in over 400 patients aged 6 to 17 years.
+No relevant differences were identified between the adverse experience profile for pediatric patients and that previously reported for adult patients.
 Hyperkalemia was more frequently observed in pediatric patients with underlying chronic kidney disease (CKD).
-Valsartan is not recommended for pediatric patients under 6 years of age.
-In a study (n=90) of pediatric patients (1 to 5 years), two deaths and three cases of on-treatment transaminase elevations were seen in the one-year open-label extension phase.
-These 5 events occurred in a study population in which patients frequently had significant co-morbidities.
-A causal relationship to valsartan has not been established.
-In a second study of 6-months duration in 75 children aged 1 to 5 years, there were no deaths; one case of marked liver transaminase elevations occurred following 6 months of treatment.
-The most common adverse reaction in children less than 6 years old was hyperkalemia.
-Hyperkalemia was mainly observed in children with underlying renal disease.
 Heart Failure In the Valsartan Heart Failure Trial (Val-HeFT), comparing valsartan in total daily doses up to 320 mg (n=2,506) to placebo (n=2,494), 10% of valsartan patients discontinued for adverse reactions vs. 7% of placebo patients.
 The table shows adverse reactions in double-blind short-term heart failure trials, including the first 4 months of the Valsartan Heart Failure Trial, with an incidence of at least 2% that were more frequent in valsartan-treated patients than in placebo-treated patients.
 All patients received standard drug therapy for heart failure, frequently as multiple medications, which could include diuretics, digitalis, beta-blockers.
@@ -61,11 +55,14 @@ Neutropenia: Neutropenia was observed in 1.9% of patients treated with valsartan
 Blood Urea Nitrogen (BUN): In heart failure trials, greater than 50% increases in BUN were observed in 16.6% of valsartan-treated patients compared to 6.3% of placebo-treated patients.
 [see Warnings and Precautions (5.3)]
 
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s Diovan (valsartan) tablets.
+However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 6.2 Postmarketing Experience
 
 The following additional adverse reactions have been reported in postmarketing use of valsartan.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Hypersensitivity: Angioedema has been reported.
-Some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
+Some of these patients previously experienced angioedema with other drugs, including ACE inhibitors.
 Valsartan should not be re-administered to patients who have had angioedema.
 Digestive: Elevated liver enzymes and very rare reports of hepatitis Musculoskeletal: Rhabdomyolysis Renal: Impaired renal function, renal failure Dermatologic: Alopecia, bullous dermatitis Blood and Lymphatic: Thrombocytopenia Vascular: Vasculitis

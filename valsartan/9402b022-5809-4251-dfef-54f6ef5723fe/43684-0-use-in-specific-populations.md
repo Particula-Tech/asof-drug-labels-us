@@ -22,7 +22,7 @@ If oligohydramnios is observed, consider alternative drug treatment.
 Closely observe neonates with histories of in utero exposure to valsartan for hypotension, oliguria, and hyperkalemia.
 In neonates with a history of in utero exposure to valsartan, if oliguria or hypotension occurs, support blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and replacing renal function.
-Data Animal Data No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses of up to 600 mg/kg/day (9 and 18 times the MRHD on a mg/m2 basis) and to pregnant rabbits at oral doses of up to 10 mg/kg/day.
+Data Animal Data No teratogenic effects were observed when valsartan was administered to pregnant mice and rats at oral doses of up to 600 mg/kg/day (9 and 18 times the maximum recommended human dose (MRHD) on a mg/m2 basis) and to pregnant rabbits at oral doses of up to 10 mg/kg/day.
 In rats, oral valsartan administered at maternally toxic doses (600 mg/kg/day) during organogenesis or late gestation and lactation, resulted in decreased fetal and pup weight, pup survival and delayed developmental milestones.
 In rabbits administered maternally toxic doses of 5 and 10 mg/kg/day, fetotoxicity was observed.
 
@@ -31,15 +31,18 @@ In rabbits administered maternally toxic doses of 5 and 10 mg/kg/day, fetotoxici
 Risk Summary There is no information regarding the presence of valsartan in human milk, the effects on the breastfed infant, or the effects on milk production.
 Valsartan is present in rat milk.
 Because of the potential for serious adverse reactions in breastfed infants from exposure to valsartan, advise a nursing woman that breastfeeding is not recommended during treatment with valsartan.
+Data Valsartan was detected in the milk of lactating rats 15 minutes after oral administration of a 3 mg/kg dose.
 
 ## 8.4 Pediatric Use
 
-The antihypertensive effects of valsartan have been evaluated in two randomized, double-blind clinical studies in pediatric patients from 1 to 5 and 6 to 16 years of age [see Clinical Studies (14.1)].
+The antihypertensive effects of valsartan have been evaluated in a clinical studies in pediatric patients from 6-16 years of age [see Clinical Studies (14.1)].
 The pharmacokinetics of valsartan have been evaluated in pediatric patients 1 to 16 years of age [see Clinical Pharmacology (12.3)].
-Valsartan was generally well tolerated in children 6 to 16 years and the adverse experience profile was similar to that described for adults [see Adverse Reactions (6.1).
+The adverse experience profile of valsartan was similar to that described for adults [see Adverse Reactions (6.1)].
 In children and adolescents with hypertension where underlying renal abnormalities may be more common, renal function and serum potassium should be closely monitored as clinically indicated.
-Use of valsartan is not recommended for pediatric patients under 6 years of age due to safety findings for which a relationship to treatment could not be excluded [see Adverse Reactions (6.1)].
-No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate <30 mL/min/1.73 m2.
+Use of valsartan tablet is not recommended in children less than 1 year of age [see Nonclinical Toxicology (13.2)].
+It is not known whether post-natal use of valsartan, before maturation of renal function is complete, has a long-term deleterious effect on the kidney.
+
+No data are available in pediatric patients either undergoing dialysis or with a glomerular filtration rate less than 30 mL/min/1.73 m2.
 
 Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's Diovan (valsartan) tablets.
 However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
