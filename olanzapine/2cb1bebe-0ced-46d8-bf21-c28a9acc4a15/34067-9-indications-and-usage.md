@@ -32,13 +32,13 @@ Medication treatment for both pediatric schizophrenia and bipolar I disorder sho
 ## 1.5 Olanzapine and Fluoxetine in Combination: Depressive Episodes Associated with Bipolar I Disorder
 
 Oral olanzapine and fluoxetine in combination is indicated for the treatment of depressive episodes associated with bipolar I disorder, based on clinical studies.
-When using olanzapine and fluoxetine in combination, refer to the Clinical Studies section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using olanzapine and fluoxetine in combination, refer to the Clinical Studies section of the package insert for Symbyax.
 
 Olanzapine monotherapy is not indicated for the treatment of depressive episodes associated with bipolar I disorder.
 
 ## 1.6 Olanzapine and Fluoxetine in Combination: Treatment Resistant Depression
 
 Oral olanzapine and fluoxetine in combination is indicated for the treatment of treatment resistant depression (major depressive disorder in patients who do not respond to 2 separate trials of different antidepressants of adequate dose and duration in the current episode), based on clinical studies in adult patients.
-When using olanzapine and fluoxetine in combination, refer to the Clinical Studies section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using olanzapine and fluoxetine in combination, refer to the Clinical Studies section of the package insert for Symbyax.
 
 Olanzapine monotherapy is not indicated for the treatment of treatment resistant depression.

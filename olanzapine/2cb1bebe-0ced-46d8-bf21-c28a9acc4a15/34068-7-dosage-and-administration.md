@@ -64,12 +64,12 @@ Patients should be periodically reassessed to determine the need for maintenance
 
 ## 2.3 Administration of olanzapine orally disintegrating tablets
 
-Immediately upon opening the bottle or blister, using dry hands, remove tablet and place entire olanzapine orally disintegrating tablet in the mouth.
+Immediately upon opening the bottle, using dry hands, remove tablet and place entire olanzapine orally disintegrating tablet in the mouth.
 Tablet disintegration occurs rapidly in saliva so it can be easily swallowed with or without liquid.
 
 ## 2.5 Olanzapine and Fluoxetine in Combination: Depressive Episodes Associated with Bipolar I Disorder
 
-When using olanzapine and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using olanzapine and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
 Adults
 
@@ -84,22 +84,22 @@ Oral olanzapine should be administered in combination with fluoxetine once daily
 Dosage adjustments, if indicated, can be made according to efficacy and tolerability.
 Safety of co-administration of doses above 12 mg olanzapine with 50 mg fluoxetine has not been evaluated in pediatric clinical studies.
 
-Safety and efficacy of olanzapine and fluoxetine in combination was determined in clinical trials supporting approval of olanzapine and fluoxetine hydrochloride capsules (fixed dose combination of olanzapine and fluoxetine).
-Olanzapine and fluoxetine hydrochloride capsules are dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
-The following table demonstrates the appropriate individual component doses of olanzapine and fluoxetine versus olanzapine and fluoxetine hydrochloride capsules.
+Safety and efficacy of olanzapine and fluoxetine in combination was determined in clinical trials supporting approval of Symbyax (fixed dose combination of olanzapine and fluoxetine).
+Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
+The following table demonstrates the appropriate individual component doses of olanzapine and fluoxetine versus Symbyax.
 Dosage adjustments, if indicated, should be made with the individual components according to efficacy and tolerability.
 
-Table 1: Approximate Dose Correspondence Between Olanzapine and Fluoxetine Hydrochloride Capsules a and the Combination of Olanzapine and Fluoxetine
+Table 1: Approximate Dose Correspondence Between Symbyaxa and the Combination of Olanzapine and Fluoxetine
 
 | For | Use in Combination |  |
 | --- | --- | --- |
-| Olanzapine and Fluoxetine Hydrochloride Capsules (mg/day) | Olanzapine (mg/day) | Fluoxetine (mg/day) |
+| Symbyax (mg/day) | Olanzapine (mg/day) | Fluoxetine (mg/day) |
 | 3 mg olanzapine/25 mg fluoxetine | 2.5 | 20 |
 | 6 mg olanzapine/25 mg fluoxetine | 5 | 20 |
 | 12 mg olanzapine/25 mg fluoxetine | 10+2.5 | 20 |
 | 6 mg olanzapine/50 mg fluoxetine | 5 | 40+10 |
 | 12 mg olanzapine/50 mg fluoxetine | 10+2.5 | 40+10 |
-| a Olanzapine and fluoxetine hydrochloride capsules (olanzapine/fluoxetine HCl) is a fixed-dose combination of olanzapine and fluoxetine |  |  |
+| a Symbyax (olanzapine/fluoxetine HCl) is a fixed-dose combination of olanzapine and fluoxetine |  |  |
 
 While there is no body of evidence to answer the question of how long a patient treated with olanzapine and fluoxetine in combination should remain on it, it is generally accepted that bipolar I disorder, including the depressive episodes associated with bipolar I disorder, is a chronic illness requiring chronic treatment.
 The healthcare provider should periodically reexamine the need for continued pharmacotherapy.
@@ -108,15 +108,14 @@ Olanzapine monotherapy is not indicated for the treatment of depressive episodes
 
 ## 2.6 Olanzapine and Fluoxetine in Combination: Treatment Resistant Depression
 
-When using olanzapine and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using olanzapine and fluoxetine in combination, also refer to the Clinical Studies section of the package insert for Symbyax.
 
 Oral olanzapine should be administered in combination with fluoxetine once daily in the evening, without regard to meals, generally beginning with 5 mg of oral olanzapine and 20 mg of fluoxetine.
 Dosage adjustments, if indicated, can be made according to efficacy and tolerability within dose ranges of oral olanzapine 5 to 20 mg and fluoxetine 20 to 50 mg.
 Antidepressant efficacy was demonstrated with olanzapine and fluoxetine in combination in adult patients with a dose range of olanzapine 6 to 18 mg and fluoxetine 25 to 50 mg.
 
-Safety and efficacy of olanzapine in combination with fluoxetine was determined in clinical trials supporting approval of olanzapine and fluoxetine hydrochloride capsules (fixed dose combination of olanzapine and fluoxetine).
-Olanzapine and fluoxetine hydrochloride capsules are dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
-Table 1 above demonstrates the appropriate individual component doses of olanzapine and fluoxetine versus olanzapine and fluoxetine hydrochloride capsules.
+Safety and efficacy of olanzapine in combination with fluoxetine was determined in clinical trials supporting approval of Symbyax (fixed dose combination of olanzapine and fluoxetine).Symbyax is dosed between 3 mg/25 mg (olanzapine/fluoxetine) per day and 12 mg/50 mg (olanzapine/fluoxetine) per day.
+Table 1 above demonstrates the appropriate individual component doses of olanzapine and fluoxetine versus Symbyax.
 Dosage adjustments, if indicated, should be made with the individual components according to efficacy and tolerability.
 
 While there is no body of evidence to answer the question of how long a patient treated with olanzapine and fluoxetine in combination should remain on it, it is generally accepted that treatment resistant depression (major depressive disorder in adult patients who do not respond to 2 separate trials of different antidepressants of adequate dose and duration in the current episode) is a chronic illness requiring chronic treatment.

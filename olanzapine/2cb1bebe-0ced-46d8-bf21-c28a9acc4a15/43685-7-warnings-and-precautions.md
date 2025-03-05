@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-When using olanzapine and fluoxetine in combination, also refer to the Warnings and Precautions section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using olanzapine and fluoxetine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.
 
 ## 5.1 Elderly Patients with Dementia-Related Psychosis
 
@@ -37,7 +37,7 @@ The patient should be carefully monitored, since recurrences of NMS have been re
 ## 5.4 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported with olanzapine exposure.
-DRESS may present with a cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, and/or lymphadenopathy with systemic complications such as hepatitis, nephritis, pneumonitis, myocardiatis, and/or pericardiatis.
+DRESS may present with a cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, and/or lymphadenopathy with systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and/or pericarditis.
 DRESS is sometimes fatal.
 Discontinue olanzapine if DRESS is suspected [see Patient Counseling Information (17)].
 
@@ -124,7 +124,7 @@ Table 4 shows categorical changes in fasting lipids values.
 
 Table 4: Changes in Fasting Lipids Values from Adult Olanzapine Monotherapy Studies
 
-|  |  |  | Up to 12 week exposure |  | At least 48 week exposure |  |
+|  |  |  | Up to 12 weeks exposure |  | At least 48 weeks exposure |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | Patients | N | Patients |
 |  | Increase by ≥50 | Olanzapine | 745 | 39.6% | 487 | 61.4% |
@@ -253,23 +253,22 @@ Table 8: Weight Gain with Olanzapine Use in Adolescents
 ## 5.6 Tardive Dyskinesia
 
 A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients treated with antipsychotic drugs.
-Although the prevalence of the syndrome appears to bve the highest among the elderly, especially women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to deveop the syndrome.
+Although the prevalence of the syndrome appears to be the highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
 The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
-However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses or may even arise after discontinuation of treatment.The risk of developing tardive dyskinesia and the likelihood that it will become irreversible are believed to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase.
 However, the syndrome can develop, although much less commonly, after relatively brief treatment periods at low doses or may even arise after discontinuation of treatment.
 
 Tardive dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
-Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and therevy may possibly mask the underlying process.
-The effect that symptomatic suppression has upon the long-term course od the syndrome is unknown.
+Antipsychotic treatment, itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
+The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
 Given these considerations, olanzapine should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic antipsychotic treatment should generally be reserved for patients (1) who suffer from chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
-In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clincal response should be sought.
+Chronic antipsychotic treatment should generally be reserved for patients (1) who suffer from a chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
+In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
 The need for continued treatment should be reassessed periodically.
 
-If signs and symptoms of tardive dyskinesia apear in a patient on olanzapine, drug discontinuation should be considered.
+If signs and symptoms of tardive dyskinesia appear in a patient on olanzapine, drug discontinuation should be considered.
 However, some patients may require treatment with olanzapine despite the presence of the syndrome.
 
 For specific information about the warnings of lithium or valproate, refer to the Warnings section of the package inserts for these other products.
@@ -284,6 +283,7 @@ For oral olanzapine therapy, the risk of orthostatic hypotension and syncope may
 A more gradual titration to the target dose should be considered if hypotension occurs.
 
 Syncope was reported in 0.6% (15/2,500) of olanzapine -treated patients in phase 2 to 3 oral olanzapine studies.
+
 The risk for this sequence of hypotension, bradycardia, and sinus pause may be greater in nonpsychiatric patients compared to psychiatric patients who are possibly more adapted to certain effects of psychotropic drugs.
 
 Olanzapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) where the occurrence of syncope, or hypotension and/or bradycardia might put the patient at increased medical risk.
@@ -293,7 +293,7 @@ Caution is necessary in patients who receive treatment with other drugs having e
 ## 5.8 Falls
 
 Olanzapine may cause somnolence, postural hypotension, motor, and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
-For patients with diseases, conditions, or medication that could exacerbate these effects, complete fall risk assessment when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
+For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
 ## 5.9 Leukopenia, Neutropenia, and Agranulocytosis
 
@@ -333,12 +333,12 @@ Since olanzapine has the potential to impair judgment, thinking, or motor skills
 Disruption of the body's ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing olanzapine for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration [see Patient Counseling Information (17)].
 
-## 5.14 Anticholingeric (antimuscarinic) Effects
+## 5.14 Anticholinergic (antimuscarinic) Effects
 
-Olanzapine exhibits in vitro muscarinic receptor affinity [see Clinical Pharmacology (12.2)].
+Olanzapine exhibits in vitro muscarinic receptor affinity [see Clinical Pharmacology 12.2].
 In premarketing clinical trials, olanzapine was associated with constipation, dry mouth, and tachycardia, all adverse reactions possibly related to cholinergic antagonism.
-Such adverse reactions were not often the basis for discontinuations, but olanzapine should be used with caution in patients with a current diagnosis or a prior history of urinary retention, clinically significant prostatic hypertrophy, constipation, or a history of paralytic ileus or related conditions.
-In postmarketing experience, the risk for severe adverse reactions (including fatalities) was increased with concomitant use of anticholinergic medications [See Drug Interactions (7.1)].
+Such adverse reactions were not often the basis for discontinuations, but olanzapine should be used with caution in patients with a current diagnosis or prior history of urinary retention, clinically significant prostatic hypertrophy, constipation, or a history of paralytic ileus or related conditions.
+In post marketing experience, the risk for severe adverse reactions (including fatalities) was increased with concomitant use of anticholinergic medications [see Drug Interactions (7.1)].
 
 ## 5.15 Hyperprolactinemia
 
@@ -350,7 +350,7 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
 As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in the olanzapine carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer
 
 In placebo-controlled olanzapine clinical studies (up to 12 weeks), changes from normal to high in prolactin concentrations were observed in 30% of adults treated with olanzapine as compared to 10.5% of adults treated with placebo.
 In a pooled analysis from clinical studies including 8,136 adults treated with olanzapine, potentially associated clinical manifestations included menstrual-related events 1 (2% [49/3,240] of females), sexual function-related events 2 (2% [150/8,136] of females and males), and breast-related events 3 (0.7% [23/3,240] of females, 0.2% [9/4,896] of males).
@@ -369,7 +369,7 @@ In a single 8-week randomized, double-blind, fixed-dose study comparing 10 (N=19
 
 ## 5.16 Use in Combination with Fluoxetine, Lithium, or Valproate
 
-When using olanzapine and fluoxetine in combination, the prescriber should also refer to the Warnings and Precautions section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using olanzapine and fluoxetine in combination, the prescriber should also refer to the Warnings and Precautions section of the package insert for Symbyax.
 When using olanzapine in combination with lithium or valproate, the prescriber should refer to the Warnings and Precautions sections of the package inserts for lithium or valproate [see Drug Interactions (7)].
 
 ## 5.17 Laboratory Tests

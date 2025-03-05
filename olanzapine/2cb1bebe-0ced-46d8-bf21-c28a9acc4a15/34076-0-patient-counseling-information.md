@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide) 
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking olanzapine as monotherapy or in combination with fluoxetine.
 If you do not think you are getting better or have any concerns about your condition while taking olanzapine, call your doctor.
-When using olanzapine and fluoxetine in combination, also refer to the Patient Counseling Information section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using olanzapine and fluoxetine in combination, also refer to the Patient Counseling Information section of the package insert for Symbyax.
 
 Elderly Patients with Dementia-Related Psychosis: Increased Mortality and Cerebrovascular Adverse Events (CVAE), Including Stroke
 
@@ -55,8 +55,8 @@ Patients should be advised to call their doctor right away if they become severe
 
 Concomitant Medication
 
-Patients should be advised to inform their physicians if they are taking, or plan to take, olanzapine and fluoxetine hydrochloride capsules.
-Patients should also be advised to inform their physicians if they are taking, plan to take, or have stopped taking any prescription or over-the-counter drugs, including herbal supplements, since there is a potential for interactions [see Drug Interactions (7)].
+Patients should be advised to inform their healthcare providers if they are taking, or plan to take, Symbyax.
+Patients should also be advised to inform their healthcare providers if they are taking, plan to take, or have stopped taking any prescription or over-the-counter drugs, including herbal supplements, since there is a potential for interactions [see Drug Interactions (7)].
 
 Alcohol
 
@@ -91,7 +91,9 @@ Olanzapine is indicated as an integral part of a total treatment program for ped
 Effectiveness and safety of olanzapine have not been established in pediatric patients less than 13 years of age.
 Atypical antipsychotics are not intended for use in the pediatric patient who exhibits symptoms secondary to environmental factors and/or other primary psychiatric disorders.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
-The decision to prescribe atypical antipsychotic medication will depend upon the physician's assessment of the chronicity and severity of the patient's symptoms [see Indications and Usage (1.3)].
+The decision to prescribe atypical antipsychotic medication will depend upon the healthcare provider’s assessment of the chronicity and severity of the patient's symptoms [see Indications and Usage (1.3)].
+
+Trademarks are the property of their respective owners.
 
 Manufactured by:
 
@@ -101,4 +103,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-8089747 Revised October 2022
+8100334 Revised February 2025

@@ -1,6 +1,6 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
-When using olanzapine and fluoxetine in combination, also refer to the Use in Specific Populations section of the package insert for olanzapine and fluoxetine hydrochloride capsules.
+When using olanzapine and fluoxetine in combination, also refer to the Use in Specific Populations section of the package insert for Symbyax.
 
 ## 8.1 Pregnancy
 
@@ -99,6 +99,7 @@ In placebo-controlled studies of olanzapine in elderly patients with dementia-re
 In 5 placebo-controlled studies of olanzapine in elderly patients with dementia-related psychosis (n=1,184), the following adverse reactions were reported in olanzapine-treated patients at an incidence of at least 2% and significantly greater than placebo-treated patients: falls, somnolence, peripheral edema, abnormal gait, urinary incontinence, lethargy, increased weight, asthenia, pyrexia, pneumonia, dry mouth and visual hallucinations.
 The rate of discontinuation due to adverse reactions was greater with olanzapine than placebo (13% vs 7%).
 Elderly patients with dementia-related psychosis treated with olanzapine are at an increased risk of death compared to placebo Olanzapine is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.1), and Patient Counseling Information (17)].
+Olanzapine is not approved for the treatment of patients with dementia-related psychosis.
 Also, the presence of factors that might decrease pharmacokinetic clearance or increase the pharmacodynamic response to olanzapine should lead to consideration of a lower starting dose for any geriatric patient [see Boxed Warning, Dosage and Administration (2.1), and Warnings and Precautions (5.1)].
 
 Clinical studies of olanzapine and fluoxetine in combination did not include sufficient numbers of patients ≥65 years of age to determine whether they respond differently from younger patients.

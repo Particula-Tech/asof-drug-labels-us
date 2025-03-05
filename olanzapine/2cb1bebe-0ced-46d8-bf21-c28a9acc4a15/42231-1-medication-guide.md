@@ -71,8 +71,8 @@ Olanzapine tablets or orally disintegrating tablets are a prescription medicine 
 - manic or mixed episodes that happen with bipolar I disorder in people age 13 or older.
 - manic or mixed episodes that happen with bipolar I disorder, when used with the medicine lithium or valproate, in adults.
 - long-term treatment of bipolar I disorder in adults.
-- episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine in people age 10 or older.
-- episodes of depression that do not get better after 2 other medicines, also called treatment resistant depression, when used with the medicine fluoxetine, in adults.
+- episodes of depression that happen with bipolar I disorder, when used with the medicine fluoxetine (Prozac®) in people age 10 or older.
+- episodes of depression that do not get better after 2 other medicines, also called treatment resistant depression, when used with the medicine fluoxetine (Prozac), in adults.
 
 Olanzapine tablets or orally disintegrating tablets have not been approved for use in children under 13 years of age.
 Olanzapine tablets or orally disintegrating tablets in combination with fluoxetine has not been approved for use in children under 10 years of age.
@@ -138,7 +138,7 @@ How should I take olanzapine tablets or orally disintegrating tablets?
 - Olanzapine tablets or orally disintegrating tablets are usually taken one time each day.
 - Take olanzapine orally disintegrating tablets as follows:
 - Be sure that your hands are dry.
-- As soon as you open the blister, remove the tablet and put it into your mouth.
+- As soon as you open the bottle, remove the tablet and put it into your mouth.
 - The tablet will disintegrate quickly in your saliva so that you can easily swallow it with or without drinking liquid.
 - Call your doctor if you do not think you are getting better or have any concerns about your condition while taking olanzapine tablets or orally disintegrating tablets.
 
@@ -239,4 +239,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920
 
-8089748 Revised: October 2022
+8100335 Revised: February 2025

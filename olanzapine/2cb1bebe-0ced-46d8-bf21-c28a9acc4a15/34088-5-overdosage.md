@@ -23,4 +23,4 @@ Cardiovascular monitoring should commence immediately and should include continu
 Contact a Certified Poison Control Center for the most up to date information on the management of overdosage (1-800-222-1222).
 
 For specific information about overdosage with lithium or valproate, refer to the Overdosage section of the prescribing information for those products.
-For specific information about overdosage with olanzapine and fluoxetine in combination, refer to the Overdosage section of the olanzapine and fluoxetine hydrochloride capsules prescribing information.
+For specific information about overdosage with olanzapine and fluoxetine in combination, refer to the Overdosage section of the Symbyax prescribing information.
