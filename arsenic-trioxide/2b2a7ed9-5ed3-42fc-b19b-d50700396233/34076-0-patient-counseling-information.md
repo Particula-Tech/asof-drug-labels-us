@@ -41,7 +41,7 @@ Advise patients of the expected adverse reactions of Arsenic Trioxide Injection.
 Most patients in clinical trials experienced some drug-related toxicity, most commonly leukocytosis, gastrointestinal symptoms (nausea, vomiting, diarrhea, and abdominal pain), fatigue, edema, hyperglycemia, dyspnea, cough, rash or itching, headaches, and dizziness.
 Advise patients to call their healthcare provider at the onset of any adverse reactions [see Adverse Reactions (6.1)].
 
-Manufactured in Malta for:
+Manufactured in Belgium for:
 
 Nexus Pharmaceuticals, LLC
 
@@ -61,7 +61,7 @@ The container closure is not made with natural rubber latex.
 
 Rx only
 
-ARSPI01MT04
+ARSPI01BE04
 
 NEXUS PHARMACEUTICALS
 
