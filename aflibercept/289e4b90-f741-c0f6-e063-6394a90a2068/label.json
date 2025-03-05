@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761378"
+  ],
+  "inn": "aflibercept",
+  "labeler": "Valorum Biologics Inc",
+  "package_ndcs": [
+    "85006-2908-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "aflibercept-mrbb",
+      "name": "AHZANTIVE"
+    }
+  ],
+  "setid": "289e4b90-f741-c0f6-e063-6394a90a2068",
+  "source": "dailymed"
+}
