@@ -7,26 +7,26 @@ Because ODEFSEY is a complete regimen, coadministration with other antiretrovira
 ## 7.2 Drugs Inducing or Inhibiting CYP3A Enzymes
 
 RPV is primarily metabolized by CYP3A, and drugs that induce or inhibit CYP3A may affect the clearance of RPV [see Clinical Pharmacology (12.3)].
-Coadministration of RPV and drugs that induce CYP3A may result in decreased plasma concentrations of RPV and loss of virologic response and possible resistance to RPV or to the class of NNRTIs [see Contraindications (4), Warnings and Precautions (5.6), and Table 3].
+Coadministration of RPV and drugs that induce CYP3A may result in decreased plasma concentrations of RPV and loss of virologic response and possible resistance to RPV or to the class of NNRTIs [see Contraindications (4), Warnings and Precautions (5.6), and Table 4].
 
 Coadministration of RPV and drugs that inhibit CYP3A may result in increased plasma concentrations of RPV and possible adverse events.
 
 ## 7.3 Drugs Inducing or Inhibiting P-glycoprotein
 
 TAF, a component of ODEFSEY, is a substrate of P-gp, BCRP, OATP1B1, and OATP1B3.
-Drugs that strongly affect P-gp and BCRP activity may lead to changes in TAF absorption (see Table 3).
+Drugs that strongly affect P-gp and BCRP activity may lead to changes in TAF absorption (see Table 4).
 Drugs that induce P-gp activity are expected to decrease the absorption of TAF, resulting in decreased plasma concentration of TAF, which may lead to loss of therapeutic effect of ODEFSEY and development of resistance.
 Coadministration of ODEFSEY with other drugs that inhibit P-gp and BCRP may increase the absorption and plasma concentration of TAF.
 
 ## 7.4 Drugs Increasing Gastric pH
 
 Coadministration of RPV with drugs that increase gastric pH may decrease plasma concentrations of RPV and lead to loss of virologic response and possible resistance to RPV or to the class of NNRTIs.
-Use of RPV with proton pump inhibitors is contraindicated and use of RPV with H2-receptor antagonists requires staggered administration [see Contraindications (4) and Table 3].
+Use of RPV with proton pump inhibitors is contraindicated and use of RPV with H2-receptor antagonists requires staggered administration [see Contraindications (4) and Table 4].
 
 ## 7.5 QT Prolonging Drugs
 
 There is limited information available on the potential for a pharmacodynamic interaction between RPV and drugs that prolong the QTc interval.
-In a study of healthy subjects, higher than recommended doses of RPV, 75 mg once daily and 300 mg once daily (3 times and 12 times recommended daily dose in ODEFSEY) prolonged the QTc interval [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.2)].
+In a study of healthy participants, higher than recommended doses of RPV, 75 mg once daily and 300 mg once daily (3 times and 12 times recommended daily dose in ODEFSEY) prolonged the QTc interval [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.2)].
 Consider alternative medications to ODEFSEY in patients taking a drug with a known risk of Torsade de Pointes.
 
 ## 7.6 Drugs Affecting Renal Function
@@ -36,11 +36,11 @@ Some examples of drugs that are eliminated by active tubular secretion include, 
 
 ## 7.7 Significant Drug Interactions
 
-Table 3 provides a listing of established or potentially clinically significant drug interactions with recommended steps to prevent or manage the drug interaction (the table is not all inclusive).
-The drug interactions described are based on studies conducted with either ODEFSEY, the components of ODEFSEY (FTC, RPV and TAF) as individual agents, or are predicted drug interactions that may occur with ODEFSEY [see Clinical Pharmacology (12.3), Tables 8–11].
+Table 4 provides a listing of established or potentially clinically significant drug interactions with recommended steps to prevent or manage the drug interaction (the table is not all inclusive).
+The drug interactions described are based on studies conducted with either ODEFSEY, the components of ODEFSEY (FTC, RPV and TAF) as individual agents, or are predicted drug interactions that may occur with ODEFSEY [see Clinical Pharmacology (12.3), Tables 9–12].
 For list of contraindicated drugs, [see Contraindications (4)].
 
-Table 3 SignificantThis table is not all inclusive.
+Table 4 SignificantThis table is not all inclusive.
 Drug Interactions
 
 | Concomitant Drug Class: Drug Name | Effect on ConcentrationIncrease=↑; Decrease=↓; No Effect=↔ | Clinical Comment |

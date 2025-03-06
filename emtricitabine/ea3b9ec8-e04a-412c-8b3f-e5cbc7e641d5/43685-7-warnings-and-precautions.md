@@ -1,18 +1,18 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV
+## 5.1 Severe Acute Exacerbation of Hepatitis B in Patients with HIV-1 and HBV
 
 Test patients with HIV-1 for the presence of hepatitis B virus (HBV) before or when initiating antiretroviral therapy [see Dosage and Administration (2.1)].
 
-Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver failure) have been reported in patients who are coinfected with HIV-1 and HBV and have discontinued products containing FTC and/or TDF, and may occur with discontinuation of ODEFSEY.
-Patients coinfected with HIV-1 and HBV who discontinue ODEFSEY should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with ODEFSEY.
+Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver failure) have been reported in patients with HIV-1 and HBV who have discontinued products containing FTC and/or TDF, and may occur with discontinuation of ODEFSEY.
+Patients with HIV-1 and HBV who discontinue ODEFSEY should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with ODEFSEY.
 If appropriate, anti-hepatitis B therapy may be warranted, especially in patients with advanced liver disease or cirrhosis, since post treatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
 
 ## 5.2 Skin and Hypersensitivity Reactions
 
 Severe skin and hypersensitivity reactions, including cases of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported during postmarketing experience with RPV-containing regimens.
 While some skin reactions were accompanied by constitutional symptoms such as fever, other skin reactions were associated with organ dysfunction, including elevations in hepatic serum biochemistries.
-During Phase 3 clinical trials of RPV, treatment-related rashes with at least Grade 2 severity were reported in 1% of subjects.
+During Phase 3 clinical trials of RPV, treatment-related rashes with at least Grade 2 severity were reported in 1% of participants.
 Overall, most rashes were Grade 1 or 2 and occurred in the first four to six weeks of therapy [see Adverse Reactions (6.2)].
 
 Discontinue ODEFSEY immediately if signs or symptoms of severe skin or hypersensitivity reactions develop, including but not limited to, severe rash or rash accompanied by fever, blisters, mucosal involvement, conjunctivitis, facial edema, angioedema, hepatitis, or eosinophilia.
@@ -31,15 +31,15 @@ Liver-associated test monitoring should also be considered for patients without 
 Depressive disorders (including depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, suicidal ideation) have been reported with RPV.
 Promptly evaluate patients with severe depressive symptoms to assess whether the symptoms are related to ODEFSEY, and to determine whether the risks of continued therapy outweigh the benefits.
 
-In Phase 3 trials of RPV in adult subjects (N=1368) through 96 weeks, the incidence of depressive disorders (regardless of causality, severity) reported among RPV-treated subjects (n=686) was 9%.
+In Phase 3 trials of RPV in adult participants (N=1368) through 96 weeks, the incidence of depressive disorders (regardless of causality, severity) reported among RPV-treated participants (n=686) was 9%.
 Most events were mild or moderate in severity.
-In RPV-treated subjects, the incidence of Grades 3 and 4 depressive disorders (regardless of causality) was 1%, the incidence of discontinuation due to depressive disorders was 1%, and suicidal ideation and suicide attempt was reported in 4 and 2 subjects, respectively.
+In RPV-treated participants, the incidence of Grades 3 and 4 depressive disorders (regardless of causality) was 1%, the incidence of discontinuation due to depressive disorders was 1%, and suicidal ideation and suicide attempt was reported in 4 and 2 participants, respectively.
 
-During the Phase 2 trial in RPV-treated pediatric subjects 12 to less than 18 years of age (N=36), the incidence of depressive disorders (regardless of causality, severity) was 19% (7/36) through 48 weeks.
+During the Phase 2 trial in RPV-treated pediatric participants 12 to less than 18 years of age (N=36), the incidence of depressive disorders (regardless of causality, severity) was 19% (7/36) through 48 weeks.
 Most events were mild or moderate in severity.
 The incidence of Grades 3 and 4 depressive disorders (regardless of causality) was 6% (2/36).
-None of the subjects discontinued due to depressive disorders.
-Suicidal ideation and suicide attempt were reported in 1 subject.
+None of the participants discontinued due to depressive disorders.
+Suicidal ideation and suicide attempt were reported in 1 participant.
 
 ## 5.5 New Onset or Worsening Renal Impairment
 
@@ -58,7 +58,7 @@ The concomitant use of ODEFSEY and other drugs may result in potentially signifi
 
 - Loss of therapeutic effect of ODEFSEY and possible development of resistance due to reduced exposure of RPV.
 
-In healthy subjects, higher than recommended doses of RPV (75 mg once daily and 300 mg once daily –3 and 12 times the recommended dosages in ODEFSEY, respectively) have been shown to prolong the QTc interval of the electrocardiogram.
+In healthy participants, higher than recommended doses of RPV (75 mg once daily and 300 mg once daily – 3 and 12 times the recommended dosages in ODEFSEY, respectively) have been shown to prolong the QTc interval of the electrocardiogram.
 Consider alternatives to ODEFSEY when coadministered with a drug that is known to have a risk of Torsade de Pointes [see Drug Interactions (7.2) and Clinical Pharmacology (12.2)].
 
 See Table 3 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Contraindications (4) and Drug Interactions (7)].

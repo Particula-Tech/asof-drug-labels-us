@@ -7,10 +7,10 @@ Prior to or when initiating ODEFSEY, test patients for hepatitis B virus infecti
 Prior to or when initiating ODEFSEY, and during treatment with ODEFSEY, on a clinically appropriate schedule, assess serum creatinine, estimated creatinine clearance, urine glucose, and urine protein in all patients.
 In patients with chronic kidney disease, also assess serum phosphorus [see Warnings and Precautions (5.5)].
 
-## 2.2 Recommended Dosage
+## 2.2 Recommended Dosage in Adult and Pediatric Patients Weighing at Least 25 kg
 
 ODEFSEY is a three-drug fixed dose combination product containing 200 mg of emtricitabine (FTC), 25 mg of rilpivirine (RPV), and 25 mg of tenofovir alafenamide (TAF).
-The recommended dosage of ODEFSEY is one tablet taken orally once daily with a meal in adults and pediatric patients with body weight at least 35 kg and creatinine clearance greater than or equal to 30 mL per minute [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+The recommended dosage of ODEFSEY is one tablet taken orally once daily with a meal in adults and pediatric patients with body weight at least 25 kg and creatinine clearance greater than or equal to 30 mL per minute [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 2.3 Recommended Dosage During Pregnancy
 

@@ -13,7 +13,7 @@ Available data from the APR show no statistically significant difference in the 
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in the clinically recognized pregnancies in the U.S. general population is 15–20%.
 
-Based on the experience of HIV-1-infected pregnant individuals who completed a clinical trial through the postpartum period with an RPV-based regimen, no dose adjustments are required for pregnant patients who are already on a stable RPV-containing regimen prior to pregnancy and who are virologically suppressed (HIV-1 RNA less than 50 copies per mL).
+Based on the experience of pregnant individuals with HIV-1 who completed a clinical trial through the postpartum period with an RPV-based regimen, no dose adjustments are required for pregnant patients who are already on a stable RPV-containing regimen prior to pregnancy and who are virologically suppressed (HIV-1 RNA less than 50 copies per mL).
 Lower exposures of RPV were observed during pregnancy compared to the postpartum period.
 Therefore, viral load should be monitored closely [see Data and Clinical Pharmacology (12.3)].
 
@@ -35,22 +35,24 @@ Based on prospective reports to the APR of over 5,400 exposures to FTC-containin
 
 Rilpivirine (RPV):
 
-RPV in combination with a background regimen was evaluated in a clinical trial of 19 HIV-1 infected pregnant subjects during the second and third trimesters and postpartum.
+RPV in combination with a background regimen was evaluated in a clinical trial of 19 pregnant participants with HIV-1 during the second and third trimesters and postpartum.
 Each of the subjects were on an RPV-based regimen at the time of enrollment.
-Twelve subjects completed the trial through the postpartum period (6–12 weeks after delivery) and pregnancy outcomes are missing for six subjects.
+Twelve participants completed the trial through the postpartum period (6–12 weeks after delivery) and pregnancy outcomes are missing for six participants.
 The exposure (C0h and AUC) of total RPV was approximately 30 to 40% lower during pregnancy compared with postpartum (6 to 12 weeks).
 The protein binding of RPV was similar (>99%) during second trimester, third trimester, and postpartum period [see Clinical Pharmacology (12.3)].
-One subject discontinued the trial following fetal death at 25 weeks gestation due to suspected premature rupture of membranes.
-Among the 12 subjects who were virologically suppressed at baseline (less than 50 copies/mL), virologic response was preserved in 10 subjects (83.3%) through the third trimester visit and in 9 subjects (75%) through the 6–12 week postpartum visit.
-Virologic outcomes during the third trimester visit were missing for two subjects who were withdrawn (one subject was nonadherent to the study drug and one subject withdrew consent).
-Among the 10 infants with HIV test results available, born to 10 HIV-infected pregnant subjects, all had test results that were negative for HIV-1 at the time of delivery and up to 16 weeks postpartum.
+One participant discontinued the trial following fetal death at 25 weeks gestation due to suspected premature rupture of membranes.
+Among the 12 participants who were virologically suppressed at baseline (less than 50 copies/mL), virologic response was preserved in 10 participants (83.3%) through the third trimester visit and in 9 participants (75%) through the 6–12 week postpartum visit.
+Virologic outcomes during the third trimester visit were missing for two participants who were withdrawn (one participant was nonadherent to the study drug and one participant withdrew consent).
+Among the 10 infants with HIV test results available, born to 10 pregnant participants with HIV-1, all had test results that were negative for HIV-1 at the time of delivery and up to 16 weeks postpartum.
 All 10 infants received antiretroviral prophylactic treatment with zidovudine.
 RPV was well tolerated during pregnancy and postpartum.
-There were no new safety findings compared with the known safety profile of RPV in HIV–1-infected adults.
+There were no new safety findings compared with the known safety profile of RPV in adults with HIV-1.
 
 Based on prospective reports to the APR of over 750 exposures to RPV-containing regimens during pregnancy resulting in live births (including over 550 exposed in the first trimester and over 200 exposed in the second/third trimester), the prevalence of birth defects in live births was 1.4% (95% CI: 0.6% to 2.8%) and 1.5% (95% CI: 0.3% to 4.3%) following first and second/third trimester exposure, respectively, to RPV-containing regimens.
 
-Tenofovir Alafenamide (TAF): Based on prospective reports to the APR of over 660 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 520 exposed in the first trimester and over 130 exposed in the second/third trimester), the prevalence of birth defects in live births was 4.2% (95% CI: 2.6% to 6.3%) and 3.0% (95% CI: 0.8% to 7.5%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
+Tenofovir Alafenamide (TAF):
+
+Based on prospective reports to the APR of over 660 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 520 exposed in the first trimester and over 130 exposed in the second/third trimester), the prevalence of birth defects in live births was 4.2% (95% CI: 2.6% to 6.3%) and 3.0% (95% CI: 0.8% to 7.5%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
 
 Animal Data
 
@@ -72,40 +74,38 @@ Doses up to 600 mg/kg/day were administered through lactation, no adverse effect
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants, to avoid risking postnatal transmission of HIV.
+Data from the published literature report the presence of FTC, TAF, and TFV (tenofovir) in human milk; it is unknown if RPV is present in human milk.
+RPV is present in rat milk (see Data).
+Data from the published literature have not reported adverse effects of FTC or TAF on a breastfed child; it is not known if RPV has effects on the breastfed child.
+It is not known if the components of ODEFSEY affect milk production.
 
-Based on published data, emtricitabine has been shown to be present in human milk; it is unknown if rilpivirine (RPV) and tenofovir alafenamide (TAF) are present in human milk.
-RPV is present in rat milk and tenofovir has been shown to be present in the milk of lactating rats and rhesus monkeys after administration of TDF (see Data).
-It is unknown if TAF is present in animal milk.
-
-It is not known if the components of ODEFSEY affect milk production or have effects on the breastfed infant.
-Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are receiving ODEFSEY.
+Potential risks of breastfeeding include: (1) HIV-1 transmission to infants without HIV-1, (2) developing viral resistance in infants with HIV-1, and (3) adverse reactions in a breastfed infant similar to those seen in adults.
 
 Data
 
 Rilpivirine: In animals, no studies have been conducted to assess the excretion of RPV directly; however, RPV was measured in rat pups which were exposed through the milk of treated dams (dosed up to 400 mg/kg/day).
 
-Tenofovir Alafenamide: Studies in rats and monkeys have demonstrated that tenofovir is excreted in milk.
-Tenofovir was excreted into the milk of lactating rats following oral administration of TDF (up to 600 mg/kg/day) at up to approximately 24% of the median plasma concentration in the highest dosed animals at lactation day 11.Tenofovir was excreted into the milk of lactating monkeys, following a single subcutaneous (30 mg/kg) dose of tenofovir, at concentrations up to approximately 4% of plasma concentration resulting in exposure (AUC) of approximately 20% of plasma exposure.
-
 ## 8.4 Pediatric Use
 
-The efficacy and safety of ODEFSEY as a complete regimen for the treatment of HIV-1 infection was established in pediatric patients 12 years of age and older with body weight greater than or equal to 35 kg [see Dosage and Administration (2.2)].
-Use of ODEFSEY in this age group is supported by adequate and well-controlled studies of RPV+FTC+TDF in adults with HIV-1 infection, adequate and well-controlled studies of FTC+TAF with EVG+COBI in adults with HIV-1 infection, and by the following pediatric studies [see Clinical Studies (14)]:
+The efficacy and safety of ODEFSEY as a complete regimen for the treatment of HIV-1 was established in pediatric patients 6 years of age and older with body weight greater than or equal to 25 kg [see Dosage and Administration (2.2)].
+No pediatric clinical trials were conducted with ODEFSEY.
+Use of ODEFSEY in this age group is supported by adequate and well-controlled studies of RPV+FTC+TDF in adults with HIV-1 infection, adequate and well-controlled studies of FTC+TAF with EVG+COBI in adults with HIV-1, and by the following pediatric studies conducted using the components of ODEFSEY [see Clinical Studies (14)]:
 
-- 48-week open-label trial of 36 antiretroviral treatment-naïve HIV-1 infected pediatric subjects 12 to less than 18 years old weighing at least 32 kg treated with 25 mg per day of RPV and other antiretrovirals.
-  The safety and efficacy of RPV administered with other antiretrovirals were similar to that of antiretroviral treatment-naïve HIV-1 infected adults on this regimen [see Adverse Reactions (6.1) and Clinical Studies (14)].
-- 24-week open-label trial of 23 antiretroviral treatment-naïve HIV-1 infected pediatric subjects 12 to less than 18 years old (weighing at least 35 kg) treated with FTC+TAF with EVG+COBI.
-  The safety and efficacy of FTC+TAF with EVG+COBI were similar to that of antiretroviral treatment-naïve HIV-1 infected adults on this regimen [see Adverse Reactions (6.1) and Clinical Studies (14)].
+- 48-week open-label trials of antiretroviral treatment-naïve pediatric participants with HIV-1 aged 12 to less than 18 years and weighing at least 32 kg (N=36) and aged 6 to less than 12 years weighing at least 17 kg (N=18) treated with RPV and other antiretrovirals.
+  The safety and efficacy of RPV administered with other antiretrovirals were similar to that in antiretroviral treatment-naïve adults with HIV-1 on this regimen [see Adverse Reactions (6.1) and Clinical Studies (14)].
+- 48-week open-label trial of 26 virologically-suppressed pediatric participants with HIV-1 aged less than 12 years old and weighing at least 16 kg (N=26) treated with RPV and other antiretrovirals.
+  The safety and efficacy of RPV administered with other antiretrovirals were similar to that in virologically-suppressed adults with HIV-1 on this regimen [see Adverse Reactions (6.1)]
+- 48-week open-label trials of antiretroviral treatment-naïve pediatric participants with HIV-1 aged 12 to less than 18 years and weighing at least 35 kg (N=50) and virologically-suppressed pediatric participants between the ages of 6 to less than 12 years weighing at least 25 kg (N=52) treated with FTC+TAF with EVG+COBI.
+  The safety and efficacy of FTC+TAF with EVG+COBI were similar to that in adults with HIV-1 on this regimen, with the exception of a decrease from baseline in CD4+ cell counts in participants 6 to less than 12 years of age weighing at least 25 kg [see Adverse Reactions (6.1) and Clinical Studies (14)].
 
 Because it is a fixed-dose combination tablet, the dose of ODEFSEY cannot be adjusted for patients of lower age and weight.
-The safety and efficacy of ODEFSEY have not been established in pediatric patients weighing less than 35 kg [see Clinical Pharmacology (12.3)].
+The safety and efficacy of ODEFSEY have not been established in pediatric patients weighing less than 25 kg [see Clinical Pharmacology (12.3) and Clinical Studies (14)].
 
 ## 8.5 Geriatric Use
 
-In clinical trials, 80 of the 97 subjects enrolled aged 65 years and over received FTC+TAF with EVG+COBI.
-No differences in safety or efficacy have been observed between elderly subjects and those between 12 and less than 65 years of age.
-Clinical trials of RPV did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects [see Clinical Pharmacology (12.3)].
+In clinical trials, 80 of the 97 participants enrolled aged 65 years and over received FTC+TAF with EVG+COBI.
+No differences in safety or efficacy have been observed between elderly participants and those between 12 and less than 65 years of age.
+Clinical trials of RPV did not include sufficient numbers of participants aged 65 years and over to determine whether they respond differently from younger participants [see Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
