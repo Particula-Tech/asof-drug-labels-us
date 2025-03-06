@@ -38,7 +38,7 @@ Bronchospasm (predominantly in patients with preexisting bronchospastic disease)
 
 Endocrine
 
-Masked symptoms of hypoglycemia in diabetic patients [see WARNINGS].
+Masked symptoms of hypoglycemia in diabetic patients [see].
 
 Special Senses
 

@@ -3,7 +3,7 @@
 As with many topically applied ophthalmic drugs, this drug is absorbed systemically.
 
 The same adverse reactions found with systemic administration of beta-adrenergic blocking agents may occur with topical administration.
-For example, severe respiratory reactions and cardiac reactions, including death due to bronchospasm in patients with asthma, and rarely death in association with cardiac failure, have been reported following systemic or ophthalmic administration of timolol maleate [see CONTRAINDICATIONS].
+For example, severe respiratory reactions and cardiac reactions, including death due to bronchospasm in patients with asthma, and rarely death in association with cardiac failure, have been reported following systemic or ophthalmic administration of timolol maleate [see].
 
 ## Cardiac Failure
 
@@ -14,7 +14,7 @@ At the first sign or symptom of cardiac failure, Timolol Maleate Ophthalmic Solu
 
 ## Obstructive Pulmonary Disease
 
-Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which Timolol Maleate Ophthalmic Solution is contraindicated [see CONTRAINDICATIONS]) should, in general, not receive beta-blockers, including Timolol Maleate Ophthalmic Solution.
+Patients with chronic obstructive pulmonary disease (e.g., chronic bronchitis, emphysema) of mild or moderate severity, bronchospastic disease, or a history of bronchospastic disease (other than bronchial asthma or a history of bronchial asthma, in which Timolol Maleate Ophthalmic Solution is contraindicated [see]) should, in general, not receive beta-blockers, including Timolol Maleate Ophthalmic Solution.
 
 ## Major Surgery
 
@@ -45,7 +45,7 @@ Because of potential effects of beta-adrenergic blocking agents on blood pressur
 If signs or symptoms suggesting reduced cerebral blood flow develop following initiation of therapy with Timolol Maleate Ophthalmic Solution, alternative therapy should be considered.
 
 There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
-These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see PRECAUTIONS, Information for Patients].
+These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see].
 
 Choroidal detachment after filtration procedures has been reported with the administration of aqueous suppressant therapy (e.g., timolol).
 
@@ -75,7 +75,7 @@ Serious damage to the eye and subsequent loss of vision may result from using co
 
 Patients should also be advised that if they have ocular surgery or develop an intercurrent ocular condition (e.g., trauma or infection), they should immediately seek their physician’s advice concerning the continued use of the present multidose container.
 
-Patients with bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, second or third degree atrioventricular block, or cardiac failure should be advised not to take this product [see CONTRAINDICATIONS].
+Patients with bronchial asthma, a history of bronchial asthma, severe chronic obstructive pulmonary disease, sinus bradycardia, second or third degree atrioventricular block, or cardiac failure should be advised not to take this product [see].
 
 Patients should be advised that Timolol Maleate Ophthalmic Solution contains benzalkonium chloride which may be absorbed by soft contact lenses.
 Contact lenses should be removed prior to administration of the solution.
@@ -114,7 +114,7 @@ There have been no reports of exacerbation of rebound hypertension with ophthalm
 
 ### Injectable epinephrine:
 
-[see PRECAUTIONS, General, Anaphylaxis].
+[see].
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
