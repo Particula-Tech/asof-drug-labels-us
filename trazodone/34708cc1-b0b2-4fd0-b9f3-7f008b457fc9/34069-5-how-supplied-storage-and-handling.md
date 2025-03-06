@@ -24,4 +24,4 @@ The bottle, bottle adapter and the dosing syringe are placed in a carton.
 Storage and Handling Store at 20°C to 25°C (68°F to 77°F).
 Excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Protect from light.
-Discard any unused RALDESY remaining in the bottle 20 days after first opening the bottle.
+Discard any unused RALDESY remaining in the bottle 30 days after first opening the bottle.
