@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA217217"
+  ],
+  "inn": "dasatinib",
+  "labeler": "Biocon Pharma Inc.",
+  "package_ndcs": [
+    "70377-083-11",
+    "70377-084-11",
+    "70377-085-11",
+    "70377-086-11",
+    "70377-087-11",
+    "70377-088-11"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "dasatinib",
+      "name": "Dasatinib"
+    }
+  ],
+  "setid": "76e1833c-e105-5a3d-0f01-1330d8cc7ae1",
+  "source": "dailymed"
+}
