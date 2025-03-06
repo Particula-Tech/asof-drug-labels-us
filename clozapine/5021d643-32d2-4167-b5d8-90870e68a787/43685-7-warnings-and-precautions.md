@@ -56,7 +56,7 @@ Table 3: Patients with Benign Ethnic Neutropenia (BEN); Clozapine Treatment Reco
 | Normal BEN Range (Established ANC baseline ≥1000/µL) | • Obtain at least two baseline ANC levels before initiating treatment • If treatment interrupted – < 30 days, continue monitoring as before – ≥ 30 days, monitor as if new patient | • Weekly from initiation to 6 months • Every 2 weeks from 6 to 12 months • Monthly after 12 months |
 | • Discontinuation of treatment for reasons other than neutropenia | • See Section 2.4 |  |
 | BEN Neutropenia 500 to 999/µL* | • Recommend hematology consultation • Continue treatment | • Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baseline • Once ANC ≥ 1000/µL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.** |
-| BEN Severe Neutropenia less than 500/µL* | • Recommend hematology consultation • Interrupt treatment for suspected clozapine­induced neutropenia • Do not rechallenge unless prescriber determines benefits outweigh risks | • Daily until ANC ≥500/µL, then • Three times weekly until ANC ≥ patient’s baseline • If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/µL or at patient’s baseline |
+| BEN Severe Neutropenia less than 500/µL* | • Recommend hematology consultation • Interrupt treatment for suspected clozapine-­induced neutropenia • Do not rechallenge unless prescriber determines benefits outweigh risks | • Daily until ANC ≥500/µL, then • Three times weekly until ANC ≥ patient’s baseline • If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥1000/µL or at patient’s baseline |
 | * Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours ** If clinically appropriate |  |  |
 
 General Guidelines for Management of All Patients with Fever or with Neutropenia
@@ -128,23 +128,18 @@ Initiate treatment with a low dose (12.5 mg), titrate slowly, and use divided do
 Use caution when administering clozapine to patients with a history of seizures or other predisposing risk factors for seizure (e.g., head trauma or other CNS pathology, use of medications that lower the seizure threshold, or alcohol abuse).
 Because of the substantial risk of seizure associated with clozapine use, caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others (e.g., driving an automobile, operating complex machinery, swimming, climbing).
 
-## 5.6 Myocarditis, Cardiomyopathy and Mitral Valve Incompetence
+## 5.6 Myocarditis, Pericarditis, Cardiomyopathy and Mitral Valve Incompetence
 
-Myocarditis and cardiomyopathy have occurred with the use of clozapine.
+Myocarditis, pericarditis, and cardiomyopathy have occurred with the use of clozapine.
 These reactions can be fatal.
 Discontinue clozapine and obtain a cardiac evaluation upon suspicion of myocarditis or cardiomyopathy.
 Generally, patients with a history of clozapine-associated myocarditis or cardiomyopathy should not be rechallenged with clozapine.
-However, if the benefit of clozapine treatment is judged to outweigh the potential risks of recurrent myocarditis or cardiomyopathy, the clinician may consider rechallenge with clozapine in consultation with a cardiologist, after a complete cardiac evaluation, and under close monitoring.
-Consider the possibility of myocarditis or cardiomyopathy in patients receiving clozapine who present with chest pain, dyspnea, persistent tachycardia at rest, palpitations, fever, flu-like symptoms, hypotension, other signs or symptoms of heart failure, or electrocardiographic findings (low voltages, ST-T abnormalities, arrhythmias, right axis deviation, and poor R wave progression).
-Myocarditis most frequently presents within the first 2 months of clozapine treatment.
-Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis and usually after 8 weeks of treatment.
-However, myocarditis and cardiomyopathy can occur at any period during treatment with clozapine.
-It is common for nonspecific flu-like symptoms such as malaise, myalgia, pleuritic chest pain, and low-grade fevers to precede more overt signs of heart failure.
-Typical laboratory findings include elevated troponin I or T, elevated creatinine kinase-MB, peripheral eosinophilia, and elevated C-reactive protein (CRP).
-Chest roentgenogram may demonstrate cardiac silhouette enlargement, and cardiac imaging (echocardiogram, radionucleotide studies, or cardiac catheterization) may reveal evidence of left ventricular dysfunction.
+However, if the benefit of clozapine treatment is judged to outweigh the potential risks of recurrence, the clinician may consider rechallenge with clozapine in consultation with a cardiologist.
+
+Myocarditis and pericarditis most frequently present within the first 2 months of clozapine treatment.
+Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis or pericarditis and usually after 8 weeks of treatment.
+However, myocarditis, pericarditis, and cardiomyopathy can occur at any period during treatment with clozapine.
 In patients who are diagnosed with cardiomyopathy while taking clozapine mitral valve incompetence has been reported.
-These cases reported either mild or moderate mitral regurgitation on two-dimensional echocardiography.
-In patients with suspected cardiomyopathy, consider a 2D-echo Doppler examination to identify mitral valve incompetence.
 
 ## 5.7 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
