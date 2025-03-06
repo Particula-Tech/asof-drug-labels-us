@@ -25,7 +25,7 @@ Manufactured by:
 
 Orient Pharma Co., Ltd.
 
-8 Kehu 1 st Road, Huwei Chen, Yunlin, Taiwan 63247
+8 Kehu 1 st Road, Huwei Township, Yunlin, Taiwan 63247
 
 Manufactured for: Teva Pharmaceuticals Parsippany, NJ 07054
 

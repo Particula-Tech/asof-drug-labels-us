@@ -49,8 +49,9 @@ One patient (0.8%) treated with pitavastatin tablets had a peak creatine phospho
 Four patients (3%) treated with pitavastatin tablets had at least one ALT value exceeding 3 times but less than 5 times the ULN, none of which led to drug discontinuation.
 Virologic failure was reported for four patients (3%) treated with pitavastatin tablets, defined as a confirmed measurement of HIV-1 RNA exceeding 200 copies/mL that was also more than a 2-fold increase from baseline.
 
-Pediatric use information is approved for Kowa Co Ltd’s LIVALO (pitavastatin) tablets.
-However, due to Kowa Co Ltd’s marketing exclusivity rights, this drug product is not labeled with that information.
+Adverse Reactions in Pediatric Patients Aged 8 Years and Older with HeFH
+
+In a 12-week, double-blind, placebo-controlled trial of pitavastain tablets 1 mg, 2 mg, and 4 mg once daily in 82 pediatric patients 8 years to 16 years of age with HeFH and a 52-week open-label trial in 85 pediatric patients with HeFH, the safety profile was similar to that observed in the adult population.
 
 ## 6.2 Postmarketing Experience
 
@@ -58,7 +59,8 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Gastrointestinal disorders: abdominal discomfort, abdominal pain, dyspepsia, nausea General disorders: asthenia, fatigue, malaise, dizziness Hepatobiliary disorders: hepatitis, jaundice, fatal and non-fatal hepatic failure Immune system disorders: angioedema, immune-mediated necrotizing myopathy associated with statin use.
-Metabolism and nutrition disorders: increases in HbA1c, fasting serum glucose levels Musculoskeletal and connective tissue disorders: muscle spasms, myopathy, rhabdomyolysis Nervous system disorders: hypoesthesia, peripheral neuropathy Psychiatric disorders: insomnia, depression.
+Metabolism and nutrition disorders: increases in HbA1c, fasting serum glucose levels Musculoskeletal and connective tissue disorders: muscle spasms, myopathy, rhabdomyolysis Nervous system disorders: hypoesthesia, peripheral neuropathy.There have been rare reports of new onset or exacerbation of myasthenia gravis, including ocular myasthenia, and reports of recurrence when the same or a different statin was administered.
 Rare reports of cognitive impairment (e.g., memory loss, forgetfulness, amnesia, memory impairment, confusion) associated with statin use.
 Cognitive impairment was generally nonserious, and reversible upon statin discontinuation, with variable times to symptom onset (1 day to years) and symptom resolution (median of 3 weeks).
+Psychiatric disorders: insomnia, depression.
 Reproductive system and breast disorders: erectile dysfunction Respiratory, thoracic and mediastinal disorders: interstitial lung disease Skin and subcutaneous tissue disorders: lichen planus

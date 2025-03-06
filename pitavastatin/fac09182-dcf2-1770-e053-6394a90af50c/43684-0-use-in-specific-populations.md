@@ -50,10 +50,10 @@ Because of the potential for serious adverse reactions in a breastfed infant, ba
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of pitavastatin tablets have not been established in pediatric patients younger than 8 years of age with HeFH or in pediatric patients with other types of hyperlipidemia (other than HeFH).
+The safety and effectiveness of pitavastatin tablets as an adjunctive therapy to diet to reduce elevated LDL-C in pediatric patients aged 8 years and older with HeFH have been established.
+Use of pitavastatin tablets for this indication is supported by a 12-week, double-blind, placebo-controlled trial in 82 pediatric patients 8 to 16 years of age with HeFH [see Clinical Studies (14)] and a 52-week open-label trial in 85 pediatric patients with HeFH.
 
-Pediatric use information is approved for Kowa Co Ltd’s LIVALO (pitavastatin) tablets.
-However, due to Kowa Co Ltd’s marketing exclusivity rights, this drug product is not labeled with that information.
+The safety and effectiveness of pitavastatin tablets have not been established in pediatric patients younger than 8 years of age with HeFH or in pediatric patients with other types of hyperlipidemia (other than HeFH).
 
 ## 8.5 Geriatric Use
 

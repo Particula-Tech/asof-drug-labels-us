@@ -2,7 +2,7 @@
 
 ## 5.1 Myopathy and Rhabdomyolysis
 
-Pitavastatin tablets may cause myopathy (muscle pain, tenderness, or weakness with elevated creatine kinase [CK]) and rhabdomyolysis.
+Pitavastatin tablets may cause myopathy (muscle pain, tenderness, or weakness associated with elevated creatine kinase [CK]) and rhabdomyolysis.
 Acute kidney injury secondary to myoglobinuria and rare fatalities have occurred as a result of rhabdomyolysis in patients treated with statin, including pitavastatin tablets.
 
 Risk Factors for Myopathy

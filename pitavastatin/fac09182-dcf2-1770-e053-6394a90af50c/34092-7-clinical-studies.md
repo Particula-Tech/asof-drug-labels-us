@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Primary Hyperlipidemia in Adult
+## Primary Hyperlipidemia in Adult
 
 Study with Atorvastatin (Study 301) Pitavastatin tablets were compared with Atorvastatin Calcium Tablets (referred to as atorvastatin) in a randomized, multicenter, double-blind, double-dummy, active-controlled, non-inferiority study of 817 adult patients with primary hyperlipidemia or mixed dyslipidemia.
 Patients entered a 6- to 8-week wash-out/dietary lead-in period and then were randomized to a 12-week treatment with either pitavastatin tablets or atorvastatin (Table 5).
@@ -17,7 +17,7 @@ Lipid Response by Dose of Pitavastatin Tablets and Atorvastatin in Adult Patient
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pitavastatin Tablets 2 mg daily | 315 | -38 | -30 | -28 | -14 | 4 | -35 |
 | Pitavastatin Tablets 4 mg daily | 298 | -45 | -35 | -32 | -19 | 5 | -41 |
-| Atorvastatin 10 mg daily | 102 | -38 | -39 | -28 | -18 | 3 | -35 |
+| Atorvastatin 10 mg daily | 102 | -38 | -29 | -28 | -18 | 3 | -35 |
 | Atorvastatin 20 mg daily | 102 | -44 | -36 | -33 | -22 | 2 | -41 |
 
 Study with Simvastatin (Study 302)
@@ -36,7 +36,7 @@ Lipid Response by Dose of Pitavastatin Tablets and Simvastatin in Adult Patients
 | Treatment | N | LDL-C | Apo-B | TC | TG | HDL-C | non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pitavastatin Tablets 2 mg daily | 307 | -39 | -30 | -28 | -16 | 6 | -36 |
-| Pitavastatin Tablets 4 mg daily | 319 | -44 | -35 | -42 | -17 | 6 | -41 |
+| Pitavastatin Tablets 4 mg daily | 319 | -44 | -35 | -32 | -17 | 6 | -41 |
 | Simvastatin 20 mg daily | 107 | -35 | -27 | -25 | -16 | 6 | -32 |
 | Simvastatin 40 mg daily | 110 | -43 | -34 | -31 | -16 | 7 | -39 |
 
@@ -105,5 +105,29 @@ The treatment differences in efficacy in LDL-C change from baseline between pita
 Figure 1.
 Treatment Difference in Adjusted Mean Percent Change in LDL-C between Pitavastatin Tablets and the Comparator (Atorvastatin, Simvastatin, or Pravastatin)
 
-Pediatric use information is approved for Kowa Co Ltd’s LIVALO (pitavastatin) tablets.
-However, due to Kowa Co Ltd’s marketing exclusivity rights, this drug product is not labeled with that information.
+NL=non-inferiority limit.
+
+HeFH in Pediatric Patients
+
+In a double-blind, placebo-controlled, 12-week trial, 82 pediatric patients (36 boys and 46 girls), 8 to 16 years of age with genetically confirmed HeFH, fasting low-density lipoprotein cholesterol (LDL-C) ≥190 mg/dL or LDL-C ≥160 mg/dL with an additional cardiovascular risk factor (male gender, a family history of premature CV disease, presence of low HDL (<45 mg/dL) or high TG (>150 mg/dL), presence of high lipoprotein (a) (>75 nmol/L), presence of type 2 diabetes mellitus or presence of hypertension) were randomized to pitavastatin tablets 1 mg, 2 mg, and 4 mg.
+Mean LDL-C at baseline was 235 mg/dL (range 160.5 mg/dL to 441mg/dL).
+Approximately 39% of patients were Tanner Stage 1 at baseline.
+
+Pitavastatin tablets significantly reduced plasma LDL-C, non-HDL-C, TC, and Apo-B compared to placebo.
+The reductions in LDL-C, Apo-B, TC, and non-HDL-C were dose dependent.
+There was no statistically significant improvement in HDL-C or TG at any pitavastatin tablets dose.
+See the lipid results in Table 10.
+
+Table 10.
+Lipid Response in Pediatric Patients with HeFH (Mean % Change from Baseline at Week 12)
+
+| Treatment | N | LDL-C | Apo-B | TC | TG*# | HDL-C* | non-HDL-C |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Placebo | 19 | -1 | -3 | -1 | -3 | -1 | -1 |
+| Pitavastatin Tablets 1 mg daily | 20 | -21 | -20 | -16 | -14 | 7 | -21 |
+| Pitavastatin Tablets 2 mg daily | 24 | -30 | -25 | -25 | -15 | -3 | -29 |
+| Pitavastatin Tablets 4 mg daily | 19 | -38 | -28 | -30 | 5 | -2 | -36 |
+
+*Difference from placebo not statistically significant
+
+# Median Percent Change from Baseline at Week 12

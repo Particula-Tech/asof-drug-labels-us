@@ -39,8 +39,8 @@ In a pharmacokinetic study which compared healthy young and geriatric (≥65 yea
 
 Pediatric Patients
 
-Pediatric use information is approved for Kowa Co Ltd’s LIVALO (pitavastatin) tablets.
-However, due to Kowa Co Ltd’s marketing exclusivity rights, this drug product is not labeled with that information.
+A 12-week study in pediatric patients 8 to 16 years of age treated with pitavastatin 1 mg, 2 mg and 4 mg administered once daily, showed a dose-dependent increase in pitavastatin plasma concentrations at trough (for 2 mg and 4 mg doses) and 1 hour post dose.
+A dose-dependent increase in pitavastatin lactone plasma concentrations was observed at trough and 1 hour post dose.
 
 Male and Female Patients In a pharmacokinetic study, which compared healthy male and female volunteers, pitavastatin C max and AUC were 60 and 54% higher, respectively in females.
 
