@@ -72,15 +72,29 @@ It is not known if this effect is reversible [see Nonclinical Toxicology (13.1)]
 
 ## 8.4 Pediatric Use
 
+Safety and efficacy of XELJANZ/XELJANZ Oral Solution in pediatric patients for indications other than pcJIA have not been established.
+
+The safety and effectiveness of XELJANZ XR in pediatric patients have not been established.
+
+### Polyarticular Course Juvenile Idiopathic Arthritis (pcJIA)
+
 The safety and effectiveness of XELJANZ/XELJANZ Oral Solution for the treatment of active pcJIA have been established in patients 2 years to 17 years of age.
 Use of XELJANZ/XELJANZ Oral Solution for the treatment of pediatric patients with active pcJIA in this age group is supported by evidence from adequate and well-controlled studies of XELJANZ in adult RA patients with additional data from a clinical trial of XELJANZ/XELJANZ Oral Solution in pediatric patients (2 years to 17 years of age) with active pcJIA consisting of an 18-week, open label, run-in period followed by a 26-week placebo-controlled, randomized withdrawal period [see Clinical Studies (14.5)].
 The safety and effectiveness of XELJANZ/XELJANZ Oral Solution have not been established in pcJIA patients less than 2 years of age.
 
-Adverse reactions observed in pediatric patients receiving XELJANZ/XELJANZ Oral Solution were consistent with those reported in RA patients [see Adverse Reactions (6.1)].
+Adverse reactions observed in pediatric patients with pcJIA receiving XELJANZ/XELJANZ Oral Solution were consistent with those reported in RA patients [see Adverse Reactions (6.1)].
 
-Safety and efficacy of XELJANZ/XELJANZ Oral Solution in pediatric patients for indications other than pcJIA have not been established.
+#### Systemic Juvenile Idiopathic Arthritis (sJIA)
 
-The safety and effectiveness of XELJANZ XR in pediatric patients have not been established.
+The safety and effectiveness of XELJANZ/XELJANZ Oral Solution in the treatment of pediatric patients with sJIA have not been established.
+
+The results from a two-part study (an open-label, run-in phase, followed by a double-blind, placebo-controlled, randomized event-driven withdrawal phase) in 100 patients with sJIA with active systemic features (2 years to 17 years of age) did not demonstrate that XELJANZ/XELJANZ Oral Solution (dosed at 5 mg twice daily or body weight-based equivalent twice daily) is efficacious in the treatment of sJIA with active systemic features.
+
+Of the 100 patients enrolled in the open-label run-in phase, 59 (59%) patients achieved a clinical response and were eligible for the double-blind withdrawal phase.
+There were 28 patients randomized to XELJANZ/XELJANZ Oral Solution and 31 patients to placebo.
+The study data are insufficient to demonstrate efficacy and, therefore, XELJANZ/XELJANZ Oral Solution is not recommended for pediatric use in sJIA.
+
+Adverse reactions observed in pediatric patients with sJIA receiving XELJANZ/XELJANZ Oral Solution were consistent with those reported in pcJIA and RA patients [see Adverse Reactions (6.1)].
 
 ## 8.5 Geriatric Use
 
