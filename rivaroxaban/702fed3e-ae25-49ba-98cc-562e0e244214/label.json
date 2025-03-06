@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208555"
+  ],
+  "inn": "rivaroxaban",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "68180-709-06",
+    "68180-709-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rivaroxaban",
+      "name": "RIVAROXABAN"
+    }
+  ],
+  "setid": "702fed3e-ae25-49ba-98cc-562e0e244214",
+  "source": "dailymed"
+}

@@ -1,0 +1,138 @@
+# 6 ADVERSE REACTIONS
+
+The following clinically significant adverse reactions are also discussed in other sections of the labeling:
+
+- Increased Risk of Stroke After Discontinuation in Nonvalvular Atrial Fibrillation[see Boxed Warning and Warnings and Precautions (5.1)]
+- Bleeding Risk [see Warnings and Precautions (5.2, 5.4, 5.5, 5.6, 5.7)]
+- Spinal/Epidural Hematoma [see Boxed Warning and Warnings and Precautions (5.3)]
+
+## 6.1 Clinical Trials Experience
+
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+During clinical development for the approved indications, 34, 947 adult patients were exposed to rivaroxaban tablets.
+
+Hemorrhage
+
+The most common adverse reactions with rivaroxaban tablets were bleeding complications [see Warnings and Precautions (5.2)].
+
+Reduction of Risk of Major Cardiovascular Events in Patients with CAD:
+
+In the COMPASS trial overall, the most frequent adverse reactions associated with permanent drug discontinuation were bleeding events, with incidence rates of 2.7 % for rivaroxaban tablets 2.5 mg twice daily vs. 1.2 % for placebo on background therapy for all patients with aspirin 100 mg once daily.
+The incidences of important bleeding events in the CAD and PAD populations in COMPASS were similar.
+
+Table 10 shows the number of patients experiencing various types of major bleeding events in the COMPASS trial.
+
+Table 10: Major Bleeding Events in COMPASS -On Treatment Plus 2 Days*
+
+| Parameter | Rivaroxaban Tablets† N=9134 n (%/year) | Placebo† N=9107 n (%/year) | Rivaroxaban Tablets plus Placebo HR (95 % CI) |
+| --- | --- | --- | --- |
+| Modified ISTH Major Bleeding‡ | 263 (1.6) | 144 (0.9) | 1.8 (1.5, 2.3) |
+| - Fatal bleeding event Intracranial hemorrhage (ICH) Non-intracranial | 12 (<0.1) 6 (<0.1) 6 (<0.1) | 8 (<0.1) 3 (<0.1) 5 (<0.1) | 1.5 (0.6, 3.7) 2.(0.5, 8) 1.2 (0.4, 4) |
+| - Symptomatic bleeding in critical organ (non-fatal) - ICH (fatal and non-fatal) Hemorrhagic Stroke Other ICH | 58 (0.3) 23 (0.1) 18 (0.1) 6 (<0.1) | 43 (0.3) 21 (0.1) 13 (<0.1) 9 (<0.1) | 1.4 (0.9, 2) 1.1 (0.6, 2) 1.4 (0.7, 2.8) 0.7 (0.2, 1.9) |
+| - Bleeding into the surgical site requiring reoperation (non-fatal, not in critical organ) | 7 (<0.1) | 6 (<0.1) | 1.2 (0.4, 3.5) |
+| - Bleeding leading to hospitalization (non-fatal, not in critical organ, not requiring reoperation) | 188 (1.1) | 91 (0.5) | 2.1 (1.6, 2.7) |
+| Major GI bleeding | 117 (0.7) | 49 (0.3) | 2.4 (1.7, 3.4) |
+| *Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. These events occurred during treatment or within 2 days of stopping treatment in the safety analysis set in COMPASS patients. |  |  |  |
+| †Treatment schedule: rivaroxaban tablets 2.5 mg twice daily or placebo. All patients received background therapy with aspirin 100 mg once daily |  |  |  |
+| ‡Defined as i) fatal bleeding, or ii) symptomatic bleeding in a critical area or organ, such as intraarticular, intramuscular with compartment syndrome, intraspinal, intracranial, intraocular, respiratory, pericardial, liver, pancreas, retroperitoneal, adrenal gland or kidney; or iii) bleeding into the surgical site requiring reoperation, or iv) bleeding leading to hospitalization. |  |  |  |
+| CI:confidence interval; HR: hazard ratio; ISTH: International Society on Thrombosis and Hemostasis |  |  |  |
+
+Reduction of Risk of Major Thrombotic Vascular Events in Patients with Peripheral Artery Disease (PAD), Including Patients after Lower Extremity Revascularization due to Symptomatic PAD:
+
+The incidence of premature permanent discontinuation due to bleeding events for rivaroxaban tablets 2.5 mg twice daily vs. placebo on background therapy with aspirin 100 mg once daily in VOYAGER was 4.1 % vs. 1.6 % and in COMPASS PAD was 2.7 % vs. 1.3 %, respectively.
+
+Table 11 shows the number of patients experiencing various types of TIMI (Thrombolysis in Myocardial Infarction) major bleeding events in the VOYAGER trial.
+The most common site of bleeding was gastrointestinal.
+
+Table 11: Major Bleeding Events* in VOYAGER-On Treatment Plus 2 Days
+
+|  | Rivaroxaban Tablets† N=3256 |  | Placebo† N=3248 |  | Rivaroxaban Tablets vs. Placebo HR (95 % CI) |
+| --- | --- | --- | --- | --- | --- |
+| Parameter | n (%) | Event rate %/year | n (%) | Event rate %/year |  |
+| TIMI Major Bleeding (CABG/non-CABG) | 62 (1.9) | 0.96 | 44 (1.4) | 0.67 | 1.4 (1, 2.1) |
+| Fatal bleeding | 6 (0.2) | 0.09 | 6 (0.2) | 0.09 | 1 (0.3, 3.2) |
+| Intracranial bleeding | 13 (0.4) | 0.20 | 17 (0.5) | 0.26 | 0.8 (0.4, 1.6) |
+| Clinically overt signs of hemorrhage associated with a drop in hemoglobin of ≥5 g/dL or drop in hematocrit of ≥15 % | 46 (1.4) | 0.71 | 24 (0.7) | 0.36 | 1.9 (1.2, 3.2) |
+| * Major bleeding events within each subcategory were counted once per patient, but patients may have contributed events to multiple subcategories. |  |  |  |  |  |
+| † Treatment schedule: rivaroxaban tablets 2.5 mg twice daily or placebo. All patients received background therapy with aspirin 100 mg once daily. |  |  |  |  |  |
+| CABG: Coronary artery bypass graft; CI: confidence interval; HR: hazard ratio; TIMI: Thrombolysis in Myocardial Infarction Bleeding Criteria |  |  |  |  |  |
+
+Other Adverse Reactions
+
+Non-hemorrhagic adverse reactions reported in ≥1 % of rivaroxaban-treated patients in the EINSTEIN DVT and EINSTEIN PE studies are shown in Table 12.
+
+Table 12: Other Adverse Reactions Adverse reaction with Relative Risk >1.5 for rivaroxaban tablets versus comparator Reported by ≥1 % of Rivaroxaban-Treated Patients in EINSTEIN DVT and EINSTEIN PE Studies
+
+| Body System Adverse Reaction |  |  |
+| --- | --- | --- |
+| EINSTEIN DVT Study | Rivaroxaban Tablets 20 mg N=1718 n (%) | Enoxaparin/VKA N=1711 n (%) |
+| Gastrointestinal disorders |  |  |
+| Abdominal pain | 46 (2.7) | 25 (1.5) |
+| General disorders and administration site conditions |  |  |
+| Fatigue | 24 (1.4) | 15 (0.9) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Back pain | 50 (2.9) | 31 (1.8) |
+| Muscle spasm | 23 (1.3) | 13 (0.8) |
+| Nervous system disorders |  |  |
+| Dizziness | 38 (2.2) | 22 (1.3) |
+| Psychiatric disorders |  |  |
+| Anxiety | 24 (1.4) | 11 (0.6) |
+| Depression | 20 (1.2) | 10 (0.6) |
+| Insomnia | 28 (1.6) | 18 (1.1) |
+| EINSTEIN PE Study | Rivaroxaban Tablets 20 mg N=2412 n (%) | Enoxaparin/VKA N=2405 n (%) |
+| Skin and subcutaneous tissue disorders |  |  |
+| Pruritus | 53 (2.2) | 27 (1.1) |
+
+Non-hemorrhagic adverse reactions reported in ≥1 % of rivaroxaban-treated patients in RECORD 1 to 3 studies are shown in Table 13.
+
+Table 13: Other Adverse Drug Reactions*Reported by ≥1 % of Rivaroxaban -Treated Patients in RECORD 1 to 3 Studies
+
+| Body System Adverse Reaction | Rivaroxaban Tablets 10 mg N=4487 n (%) | Enoxaparin† N=4524 n (%) |
+| --- | --- | --- |
+| Injury, poisoning and procedural complications |  |  |
+| Wound secretion | 125 (2.8) | 89 (2) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Pain in extremity | 74 (1.7) | 55 (1.2) |
+| Muscle spasm | 52 (1.2) | 32 (0.7) |
+| Nervous system disorders |  |  |
+| Syncope | 55 (1.2) | 32 (0.7) |
+| Skin and subcutaneous tissue disorders |  |  |
+| Pruritus | 96 (2.1) | 79 (1.8) |
+| Blister | 63 (1.4) | 40 (0.9) |
+| * Adverse reaction occurring any time following the first dose of double-blind medication, which may have been prior to administration of active drug, until two days after the last dose of double-blind study medication |  |  |
+| † Includes the placebo-controlled period of RECORD 2, enoxaparin dosing was 40 mg once daily (RECORD 1 to 3) |  |  |
+
+Non-bleeding adverse reactions reported in ≥5 % of rivaroxaban-treated patients are shown in Table 17.
+
+Table 17: Other Adverse Reactions*Reported by ≥5 % of Rivaroxaban -Treated Patients in UNIVERSE Study (Part B)
+
+| Adverse Reaction | Rivaroxaban Tablets N=64 n (%) | Aspirin N=34 n (%) |
+| --- | --- | --- |
+| Cough | 10 (15.6) | 3 (8.8) |
+| Vomiting | 9 (14.1) | 3 (8.8) |
+| Gastroenteritis† | 8 (12.5) | 1 (2.9) |
+| Rash† | 6 (9.4) | 2 (5.9) |
+| * Adverse reaction with Relative Risk >1.5 for rivaroxaban tablets versus aspirin. |  |  |
+| † The following terms were combined: |  |  |
+| Gastroenteritis: gastroenteritis, gastroenteritis viral |  |  |
+| Rash: rash, rash maculo-papular, viral rash |  |  |
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post-approval use of rivaroxaban tablets.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Blood and Lymphatic System Disorders: agranulocytosis, thrombocytopenia
+
+Hepatobiliary Disorders: jaundice, cholestasis, hepatitis (including hepatocellular injury)
+
+Immune System Disorders: hypersensitivity, anaphylactic reaction, anaphylactic shock, angioedema
+
+Nervous System Disorders: hemiparesis
+
+Renal Disorders: Anticoagulant-related nephropathy
+
+Respiratory, Thoracic and Mediastinal Disorders: Eosinophilic pneumonia
+
+Skin and Subcutaneous Tissue Disorders: Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS)
