@@ -19,6 +19,18 @@ Yellow, round, flat-faced, beveled-edge, unscored tablet.
 Debossed with I2 on one side and plain on the other side.
 Available in bottles of 100 (NDC 0093-5419-01) and cartons of 48 tablets for Institutional Use Only (8x6 blister cards) (NDC 0093-5419-84).
 
+150 mg
+
+Yellow, round, flat-faced, beveled-edge, unscored tablet.
+Debossed with I1 on one side and plain on the other side.
+Available in bottles of 100 (NDC 0093-5376-01) and cartons of 48 tablets for Institutional Use Only (8x6 blister cards) (NDC 0093-5376-84).
+
+200 mg
+
+Yellow, round, flat-faced, beveled-edge, unscored tablet.
+Debossed with L1 on one side and plain on the other side.
+Available in bottles of 100 (NDC 0093-5377-01) and cartons of 48 tablets for Institutional Use Only (8x6 blister cards) (NDC 0093-5377-84).
+
 ## 16.2 Storage and Handling
 
 Store Clozapine Orally Disintegrating Tablets at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].

@@ -33,3 +33,27 @@ Phenylketonurics: Contains phenylalanine 11.2 mg per each 100 mg orally disinteg
 Rx only
 
 100 TABLETS
+
+# Package/Label Display panel
+
+NDC 0093-5376-01
+
+Clozapine Orally Disintegrating Tablets 150 mg
+
+Phenylketonurics: Contains phenylalanine 16.8 mg per each 150 mg orally disintegrating tablet.
+
+Rx only
+
+100 TABLETS
+
+# Package/Label Display panel
+
+NDC 0093-5377-01
+
+Clozapine Orally Disintegrating Tablets 200 mg
+
+Phenylketonurics: Contains phenylalanine 22.4 mg per each 200 mg orally disintegrating tablet.
+
+Rx only
+
+100 TABLETS
