@@ -60,13 +60,17 @@ Who should NOT take ziprasidone capsules?
 Elderly patients with a diagnosis of psychosis related to dementia.
 Ziprasidone capsules are not approved for the treatment of these patients.
 
-Anything that can increase the chance of a heart rhythm abnormality should be avoided.
-Therefore, do not take ziprasidone capsules if:
+Do not take ziprasidone capsules if you:
 
-- You have certain heart diseases, for example, long QT syndrome, a recent heart attack, severe heart failure, or certain irregularities of heart rhythm (discuss the specifics with your doctor)
-- You are currently taking medications that should not be taken in combination with ziprasidone, for example, dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, pimozide, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol or tacrolimus.
+- take anything that can increase the chance of a heart rhythm abnormality.
+- have certain heart diseases, for example, long QT syndrome, a recent heart attack, severe heart failure, or certain irregularities of heart rhythm (discuss the specifics with your doctor).
+- are currently taking medications that should not be taken in combination with ziprasidone, for example, dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, pimozide, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol or tacrolimus.
+- are taking a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including linezolid or intravenous methylene blue.
+- have stopped taking an MAOI in the last 14 days.
+- are allergic to ziprasidone or any of the ingredients in ziprasidone capsules
 
-What to tell your doctor before you start ziprasidone capsules
+What To Tell Your Doctor Before You Start Ziprasidone Capsules
 
 Only your doctor can decide if ziprasidone capsules are right for you.
 Before you start ziprasidone capsules, be sure to tell your doctor if you:
@@ -91,7 +95,7 @@ Ziprasidone Capsules And Other Medicines
 There are some medications that may be unsafe to use when taking ziprasidone capsules, and there are some medicines that can affect how well ziprasidone capsules works.
 While you are on ziprasidone capsules, check with your doctor before starting any new prescription or over-the-counter medications, including natural/herbal remedies.
 
-How to take ziprasidone capsules
+How To Take Ziprasidone Capsules
 
 - Take ziprasidone capsules only as directed by your doctor.
 - Swallow ziprasidone capsules whole.
@@ -135,6 +139,12 @@ What To Do For An Overdose
 In case of an overdose, call your doctor or poison control center right away or go to the nearest emergency room.
 
 Other Important Safety Information
+
+A potentially life-threatening problem called serotonin syndrome can happen when you take ziprasidone capsules with certain other medicines.
+
+See “Who should NOT take ziprasidone capsules?”
+
+- Call your healthcare provider if you have any of the following signs and symptoms of serotonin syndrome: agitation, hallucinations, coma, or other changes in mental status; racing heartbeat, high or low blood pressure; coordination problems or muscle twitching; nausea, vomiting, or diarrhea; sweating or fever; muscle rigidity.
 
 A serious condition called neuroleptic malignant syndrome (NMS) can occur with all antipsychotic medications including ziprasidone capsules.
 Signs of NMS include very high fever, rigid muscles, shaking, confusion, sweating, or increased heart rate and blood pressure.
@@ -185,15 +195,14 @@ This sheet is only a summary.
 Ziprasidone capsules are a prescription medicine and only your doctor can decide if it is right for you.
 If you have any questions or want more information about ziprasidone capsules, talk with your doctor or pharmacist.
 
-This product’s labeling may have been updated.
 For the most recent prescribing information, please visit www.apotex.com.
 
 All registered trademarks in this document are the property of their respective owners.
 
 APOTEX INC. ZIPRASIDONE CAPSULES, USP 20 mg, 40 mg, 60 mg and 80 mg
 
-Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 33326
+Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 USA, 33326
 
-Revised: March 2022
+Revised: March 2025
 
-Revision: 19
+Revision: 20

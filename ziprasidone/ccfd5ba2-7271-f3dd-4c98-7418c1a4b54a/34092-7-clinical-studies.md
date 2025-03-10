@@ -33,17 +33,17 @@ The results of the oral ziprasidone trials in schizophrenia follow:
 
 ## 14.2 Bipolar I Disorder (Acute Mixed or Manic Episodes and Maintenance Treatment as an Adjunct to Lithium or Valproate)
 
-Acute Manic and Mixed Episodes Associated With Bipolar I Disorder
+Acute Manic and Mixed Episodes Associated with Bipolar I Disorder
 
 The efficacy of ziprasidone was established in 2 placebo-controlled, double-blind, 3-week monotherapy studies in patients meeting DSM-IV criteria for bipolar I disorder, manic or mixed episode with or without psychotic features.
 Primary rating instruments used for assessing manic symptoms in these trials were: (1) the Mania Rating Scale (MRS), which is derived from the Schedule for Affective Disorders and Schizophrenia-Change Version (SADS-CB) with items grouped as the Manic Syndrome subscale (elevated mood, less need for sleep, excessive energy, excessive activity, grandiosity), the Behavior and Ideation subscale (irritability, motor hyperactivity, accelerated speech, racing thoughts, poor judgment) and impaired insight; and (2) the Clinical Global Impression-Severity of Illness Scale (CGI-S), which was used to assess the clinical significance of treatment response.
 
 The results of the oral ziprasidone trials in adult bipolar I disorder, manic/mixed episode follow: in a 3-week placebo-controlled trial (n=210), the dose of ziprasidone was 40 mg twice daily on Day 1 and 80 mg twice daily on Day 2.
-Titration within the range of 40-80 mg twice daily (in 20 mg twice daily increments) was permitted for the duration of the study.
+Titration within the range of 40 to 80 mg twice daily (in 20 mg twice daily increments) was permitted for the duration of the study.
 Ziprasidone was significantly more effective than placebo in reduction of the MRS total score and the CGI-S score.
 The mean daily dose of ziprasidone in this study was 132 mg.
 In a second 3-week placebo-controlled trial (n=205), the dose of ziprasidone was 40 mg twice daily on Day 1.
-Titration within the range of 40-80 mg twice daily (in 20 mg twice daily increments) was permitted for the duration of study (beginning on Day 2).
+Titration within the range of 40 to 80 mg twice daily (in 20 mg twice daily increments) was permitted for the duration of study (beginning on Day 2).
 Ziprasidone was significantly more effective than placebo in reduction of the MRS total score and the CGI-S score.
 The mean daily dose of ziprasidone in this study was 112 mg.
 
@@ -54,7 +54,7 @@ The trial included patients whose most recent episode was manic or mixed, with o
 In the open-label phase, patients were required to be stabilized on ziprasidone plus lithium or valproic acid for at least 8 weeks in order to be randomized.
 In the double-blind randomized phase, patients continued treatment with lithium or valproic acid and were randomized to receive either ziprasidone (administered twice daily totaling 80 mg to 160 mg per day) or placebo.
 Generally, in the maintenance phase, patients continued on the same dose on which they were stabilized during the stabilization phase.
-The primary endpoint in this study was time to recurrence of a mood episode (manic, mixed or depressed episode) requiring intervention, which was defined as any of the following: discontinuation due to a mood episode, clinical intervention for a mood episode (e.g., initiation of medication or hospitalization), or Mania Rating Scale score > 18 or a MADRS score >18 (on 2 consecutive assessments no more than 10 days apart).
+The primary endpoint in this study was time to recurrence of a mood episode (manic, mixed or depressed episode) requiring intervention, which was defined as any of the following: discontinuation due to a mood episode, clinical intervention for a mood episode (e.g., initiation of medication or hospitalization), or Mania Rating Scale score ≥18 or a MADRS score ≥18 (on 2 consecutive assessments no more than 10 days apart).
 A total of 584 subjects were treated in the open-label stabilization period.
 In the double-blind randomization period, 127 subjects were treated with ziprasidone, and 112 subjects were treated with placebo.
 Ziprasidone was superior to placebo in increasing the time to recurrence of a mood episode.

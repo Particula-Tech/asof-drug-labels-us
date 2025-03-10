@@ -7,7 +7,7 @@ Administration Information for Ziprasidone Capsules
 Advise patients to take ziprasidone capsules whole.
 Do not open, crush, or chew the capsules.
 Instruct patients to take ziprasidone capsules with food for optimal absorption.
-The absorption of ziprasidone is increased up to two-fold in the presence of food [see Dosage and Administration (2.1), Drug Interactions (7.10) and Clinical Pharmacology (12.3)].
+The absorption of ziprasidone is increased up to two-fold in the presence of food [see Dosage and Administration (2.1), Drug Interactions (7.10), and Clinical Pharmacology (12.3)].
 
 QTc Prolongation
 
@@ -16,9 +16,14 @@ Advise patients to inform their health care providers of the following: History 
 Instruct patients to report the onset of any conditions that put them at risk for significant electrolyte disturbances, hypokalemia in particular, including but not limited to the initiation of diuretic therapy or prolonged diarrhea.
 In addition, instruct patients to report symptoms such as dizziness, palpitations, or syncope to the prescriber [see Warnings and Precautions (5.3)].
 
+Serotonin Syndrome
+
+Caution patients about the risk of serotonin syndrome, particularly with the concomitant use of ziprasidone capsules with other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, St. John’s Wort, and with drugs that impair the metabolism of serotonin (in particular, MAOIs, which include those intended to treat psychiatric disorders and also others, such as linezolid).
+Instruct patients to contact their health care provider, or report to the emergency room, should they experience signs or symptoms of serotonin syndrome [see Contraindication (4.3), Warnings and Precautions (5.4), Drug Interactions (7.3)].
+
 Severe Cutaneous Adverse Reactions
 
-Instruct patients to report to their health care provider at the earliest onset any signs or symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) or with severe cutaneous adverse reactions, such as Stevens-Johnson syndrome [see Warnings and Precautions (5.5)].
+Instruct patients to report to their health care provider at the earliest onset any signs or symptoms that may be associated with Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) or with severe cutaneous adverse reactions, such as Stevens-Johnson syndrome [see Warnings and Precautions (5.6)].
 
 Pregnancy
 
@@ -46,9 +51,7 @@ ZIPRASIDONE CAPSULES, USP
 
 20 mg, 40 mg, 60 mg and 80 mg
 
-| Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida 33326 |
+| Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida USA, 33326 |
 | --- | --- |
 
-Revised: March 2022
-
-Revision: 19
+Revision: 20

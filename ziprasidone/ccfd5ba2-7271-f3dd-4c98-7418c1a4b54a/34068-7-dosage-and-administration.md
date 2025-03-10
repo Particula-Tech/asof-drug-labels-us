@@ -30,10 +30,15 @@ Patients should be periodically reassessed to determine the need for maintenance
 Acute Treatment of Manic or Mixed Episodes
 
 In adults oral ziprasidone should be administered at an initial daily dose of 40 mg twice daily with food.
-The dose may then be increased to 60 mg or 80 mg twice daily on the second day of treatment and subsequently adjusted on the basis of tolerance and efficacy within the range 40 mg-80 mg twice daily.
+The dose may then be increased to 60 mg or 80 mg twice daily on the second day of treatment and subsequently adjusted on the basis of tolerance and efficacy within the range 40 mg to 80 mg twice daily.
 In the flexible-dose clinical trials, the mean daily dose administered was approximately 120 mg [see Clinical Studies (14.2)].
 
 Maintenance Treatment (as an adjunct to lithium or valproate)
 
-Continue treatment at the same dose on which the patient was initially stabilized, within the range of 40 mg-80 mg twice daily with food.
+Continue treatment at the same dose on which the patient was initially stabilized, within the range of 40 mg to 80 mg twice daily with food.
 Patients should be periodically reassessed to determine the need for maintenance treatment [see Clinical Studies (14.2)].
+
+## 2.5 Switching Patients to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
+
+At least 14 days must elapse between discontinuation of an MAOI (intended to treat psychiatric disorders) and initiation of therapy with ziprasidone capsules.
+In addition, at least 3 days should be allowed after stopping ziprasidone capsules before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.3), Warnings and Precautions (5.2), and Drug Interactions (7.1)].

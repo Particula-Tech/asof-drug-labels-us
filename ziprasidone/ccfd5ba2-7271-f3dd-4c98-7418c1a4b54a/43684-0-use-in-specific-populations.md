@@ -14,7 +14,7 @@ Overall available data from published epidemiologic studies of pregnant women ex
 There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including ziprasidone, during pregnancy (see Clinical Considerations).
 
 In animal studies, ziprasidone administration to pregnant rats and rabbits during organogenesis caused developmental toxicity at doses similar to recommended human doses, and was teratogenic in rabbits at 3 times the maximum recommended human dose (MRHD).
-Rats exposed to ziprasidone during gestation and lactation exhibited increased perinatal pup mortality and delayed neurobehavioral and functional development of offspring at doses less than or similar to human therapeutic doses.(see Data).
+Rats exposed to ziprasidone during gestation and lactation exhibited increased perinatal pup mortality and delayed neurobehavioral and functional development of offspring at doses less than or similar to human therapeutic doses (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -22,13 +22,13 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-associated Maternal and/or Embryo/Fetal Risk
 
 There is risk to the mother from untreated schizophrenia or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
 Schizophrenia and bipolar I disorder are associated with increased adverse perinatal outcomes, including preterm birth.
 It is not known if this is a direct result of the illness or other comorbid factors.
 
-Fetal/neonatal adverse reactions
+Fetal/Neonatal Adverse Reactions
 
 Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including ziprasidone, during the third trimester of pregnancy.
 These symptoms have varied in severity.
@@ -40,7 +40,7 @@ Data
 Human Data
 
 Published data from observational studies, birth registries, and case reports on the use of atypical antipsychotics during pregnancy do not report a clear association with antipsychotics and major birth defects.
-A retrospective cohort study from a Medicaid database of 9258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
+A retrospective cohort study from a Medicaid database of 9,258 women exposed to antipsychotics during pregnancy did not indicate an overall increased risk for major birth defects.
 
 Animal Data
 
@@ -97,7 +97,7 @@ Ziprasidone is not removed by hemodialysis.
 
 ## 8.7 Hepatic Impairment
 
-As ziprasidone is cleared substantially by the liver, the presence of hepatic impairment would be expected to increase the AUC of ziprasidone; a multiple-dose study at 20 mg twice daily for 5 days in subjects (n=13) with clinically significant (Childs-Pugh Class A and B) cirrhosis revealed an increase in AUC 0 to 12 of 13% and 34% in Childs-Pugh Class A and B, respectively, compared to a matched control group (n=14).
+As ziprasidone is cleared substantially by the liver, the presence of hepatic impairment would be expected to increase the AUC of ziprasidone; a multiple-dose study at 20 mg twice daily for 5 days in subjects (n=13) with clinically significant (Childs-Pugh Class A and B) cirrhosis revealed an increase in AUC 0-12 of 13% and 34% in Childs-Pugh Class A and B, respectively, compared to a matched control group (n=14).
 A half-life of 7.1 hours was observed in subjects with cirrhosis compared to 4.8 hours in the control group.
 
 ## 8.8 Age and Gender Effects

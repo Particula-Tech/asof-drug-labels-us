@@ -22,22 +22,16 @@ Steady-state concentrations are achieved within one to three days of dosing.
 The mean apparent systemic clearance is 7.5 mL/min/kg.
 Ziprasidone is unlikely to interfere with the metabolism of drugs metabolized by cytochrome P450 enzymes.
 
-Absorption
-
-Ziprasidone is well absorbed after oral administration, reaching peak plasma concentrations in 6 to 8 hours.
+Absorption: Ziprasidone is well absorbed after oral administration, reaching peak plasma concentrations in 6 to 8 hours.
 The absolute bioavailability of a 20 mg dose under fed conditions is approximately 60%.
 The absorption of ziprasidone is increased up to two-fold in the presence of food.
 
-Distribution
-
-Ziprasidone has a mean apparent volume of distribution of 1.5 L/kg.
+Distribution: Ziprasidone has a mean apparent volume of distribution of 1.5 L/kg.
 It is greater than 99% bound to plasma proteins, binding primarily to albumin and α1-acid glycoprotein.
 The in vitro plasma protein binding of ziprasidone was not altered by warfarin or propranolol, two highly protein-bound drugs, nor did ziprasidone alter the binding of these drugs in human plasma.
 Thus, the potential for drug interactions with ziprasidone due to displacement is minimal.
 
-Metabolism and Elimination
-
-Ziprasidone is extensively metabolized after oral administration with only a small amount excreted in the urine (<1%) or feces (<4%) as unchanged drug.
+Metabolism and Elimination:Ziprasidone is extensively metabolized after oral administration with only a small amount excreted in the urine (<1%) or feces (<4%) as unchanged drug.
 Ziprasidone is primarily cleared via three metabolic routes to yield four major circulating metabolites, benzisothiazole (BITP) sulphoxide, BITP-­sulphone, ziprasidone sulphoxide, and S-methyl-dihydroziprasidone.
 Approximately 20% of the dose is excreted in the urine, with approximately 66% being eliminated in the feces.
 Unchanged ziprasidone represents about 44% of total drug-related material in serum.
