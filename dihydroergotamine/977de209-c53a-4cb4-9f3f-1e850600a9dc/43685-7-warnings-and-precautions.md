@@ -62,7 +62,7 @@ In patients with compromised circulation, persistent vasospasm may result in gan
 Significant elevation in blood pressure has been reported on rare occasions in patients with and without a history of hypertension treated with Dihydroergotamine Mesylate Nasal Spray and dihydroergotamine mesylate injection.
 Dihydroergotamine Mesylate Nasal Spray is contraindicated in patients with uncontrolled hypertension (see CONTRAINDICATIONS).
 
-An 18% increase in mean pulmonary artery pressure was seen following dosing with another 5HT1 agonist in a study evaluating subjects undergoing cardiac catheterization.
+An 18% increase in mean pulmonary artery pressure was seen following dosing with another 5HT 1agonist in a study evaluating subjects undergoing cardiac catheterization.
 
 # PRECAUTIONS
 
@@ -109,11 +109,11 @@ Nicotine may provoke vasoconstriction in some patients, predisposing to a greate
 
 ### CYP 3A4 Inhibitors (e.g., Macrolide Antibiotics and Protease Inhibitors)
 
-See CONTRAINDICATIONS and WARNINGS.
+See CONTRAINDICATIONSand WARNINGS.
 
 ### SSRI’s
 
-Weakness, hyperreflexia, and incoordination have been reported rarely when 5HT1 agonists have been coadministered with SSRI’s (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
+Weakness, hyperreflexia, and incoordination have been reported rarely when 5HT 1agonists have been coadministered with SSRI’s (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
 There have been no reported cases from spontaneous reports of drug interaction between SSRI’s and Dihydroergotamine Mesylate Nasal Spray or D.H.E.
 45.
 

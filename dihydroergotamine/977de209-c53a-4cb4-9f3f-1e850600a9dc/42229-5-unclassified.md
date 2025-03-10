@@ -11,7 +11,7 @@ In approximately 70% of the above mentioned cases, the symptoms resolved within 
 Examinations of the nose and throat in a small subset (N = 66) of study participants treated for up to 36 months (range 1-36 months) did not reveal any clinically noticeable injury.
 Other than this limited number of patients, the consequences of extended and repeated use of Dihydroergotamine Mesylate Nasal Spray on the nasal and/or respiratory mucosa have not been systematically evaluated in patients.
 
-Nasal tissue in animals treated with dihydroergotamine mesylate daily at nasal cavity surface area exposures (in mg/mm2) that were equal to or less than those achieved in humans receiving the maximum recommended daily dose of 0.08 mg/kg/day showed mild mucosal irritation characterized by mucous cell and transitional cell hyperplasia and squamous cell metaplasia.
+Nasal tissue in animals treated with dihydroergotamine mesylate daily at nasal cavity surface area exposures (in mg/mm 2) that were equal to or less than those achieved in humans receiving the maximum recommended daily dose of 0.08 mg/kg/day showed mild mucosal irritation characterized by mucous cell and transitional cell hyperplasia and squamous cell metaplasia.
 Changes in rat nasal mucosa at 64 weeks were less severe than at 13 weeks.
 Local effects on respiratory tissue after chronic intranasal dosing in animals have not been evaluated.
 

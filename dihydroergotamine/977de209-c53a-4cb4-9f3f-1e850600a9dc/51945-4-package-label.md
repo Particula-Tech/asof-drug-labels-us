@@ -1,15 +1,15 @@
 # PRINCIPAL DISPLAY PANEL - 4 mg/mL Vial Carton
 
-NDC 68682-357-10 Rx only
+NDC68682-357-10 Rx only
 
 Dihydroergotamine Mesylate NASAL SPRAY
 
 This Kit Contains:
 
-- •8 Dihydroergotamine Mesylate Vials
-- •8 Dihydroergotamine Mesylate Nasal Sprayers
-- •Administration Instructions
-- •Package Insert
+- 8 Dihydroergotamine Mesylate Vials
+- 8 Dihydroergotamine Mesylate Nasal Sprayers
+- Administration Instructions
+- Package Insert
 
 FOR NASAL USE ONLY-NOT FOR INJECTION
 

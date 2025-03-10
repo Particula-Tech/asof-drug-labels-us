@@ -11,24 +11,23 @@ In all studies, patients received a regimen consisting of 0.5 mg in each nostril
 
 The percentage of patients achieving headache response 4 hours after treatment was significantly greater in patients receiving 2 mg doses of Dihydroergotamine Mesylate Nasal Spray compared to those receiving placebo in 3 of the 4 studies (see Tables 1 & 2 and Figures 1 & 2).
 
-Table 1: Studies 1 and 2: Percentage of Patients with Headache ResponseHeadache response was defined as a reduction in headache severity to mild or no pain.
+Table 1: Studies 1 and 2: Percentage of Patients with Headache Response Headache response was defined as a reduction in headache severity to mild or no pain.
 Headache response was based on pain intensity as interpreted by the patient using a four-point pain intensity scale.
 2 and 4 Hours Following a Single Treatment of Study Medication [Dihydroergotamine Mesylate Nasal Spray or Placebo]
 
 |  |  | N | 2 hours | 4 hours |
 | --- | --- | --- | --- | --- |
-| Study 1 | Dihydroergotamine | 105 | 61%p value < 0.001 | 70% |
+| Study 1 | Dihydroergotamine | 105 | 61% p value < 0.001 | 70% |
 |  | Mesylate Nasal Spray Placebo | 98 | 23% | 28% |
-| Study 2 | Dihydroergotamine | 103 | 47% | 56%p value < 0.01 |
+| Study 2 | Dihydroergotamine | 103 | 47% | 56% p value < 0.01 |
 |  | Mesylate Nasal Spray Placebo | 102 | 33% | 35% |
 
-Table 2: Studies 3 and 4: Percentage of Patients with Headache ResponseHeadache response was defined as a reduction in headache severity to mild or no pain.
-Headache response was evaluated on a five-point scale that included both pain response and restoration of function for “severe” or “incapacitating” pain.
-2 and 4 Hours Following a Single Treatment of Study Medication [Dihydroergotamine Mesylate Nasal Spray or Placebo]
+Table 2: Studies 3 and 4: Percentage of Patients with Headache Response Headache response was defined as a reduction in headache severity to mild or no pain.
+Headache response was evaluated on a five-point scale that included both pain response and restoration of function for “severe” or “incapacitating” pain.2 and 4 Hours Following a Single Treatment of Study Medication [Dihydroergotamine Mesylate Nasal Spray or Placebo]
 
 |  |  | N | 2 hours | 4 hours |
 | --- | --- | --- | --- | --- |
-| Study 3 | Dihydroergotamine | 50 | 32% | 48%p value < 0.01 |
+| Study 3 | Dihydroergotamine | 50 | 32% | 48% p value < 0.01 |
 |  | Mesylate Nasal Spray Placebo | 50 | 20% | 22% |
 | Study 4 | Dihydroergotamine | 47 | 30% | 47% |
 |  | Mesylate Nasal Spray Placebo | 50 | 20% | 30% |
