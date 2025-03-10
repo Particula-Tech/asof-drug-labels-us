@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA218719"
+  ],
+  "inn": "dasatinib",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-1741-6",
+    "70710-1742-6",
+    "70710-1743-6",
+    "70710-1744-3",
+    "70710-1745-3",
+    "70710-1746-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dasatinib",
+      "name": "dasatinib"
+    }
+  ],
+  "setid": "11703145-29ea-480a-9810-bc70663b783f",
+  "source": "dailymed"
+}
