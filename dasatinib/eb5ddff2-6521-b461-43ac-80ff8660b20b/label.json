@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA213383"
+  ],
+  "inn": "dasatinib",
+  "labeler": "Dr.Reddys Laboratories Inc",
+  "package_ndcs": [
+    "43598-599-60",
+    "43598-600-60",
+    "43598-601-60",
+    "43598-602-30",
+    "43598-603-30",
+    "43598-604-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "dasatinib",
+      "name": "Dasatinib"
+    }
+  ],
+  "setid": "eb5ddff2-6521-b461-43ac-80ff8660b20b",
+  "source": "dailymed"
+}
