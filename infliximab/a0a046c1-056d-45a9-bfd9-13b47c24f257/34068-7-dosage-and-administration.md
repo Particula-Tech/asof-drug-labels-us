@@ -22,7 +22,7 @@ The recommended dosage of REMICADE for pediatric patients 6 years and older with
 
 The recommended dosage of REMICADE is 3 mg/kg given as an intravenous induction regimen at 0, 2 and 6 weeks followed by a maintenance regimen of 3 mg/kg every 8 weeks thereafter for the treatment of moderately to severely active RA.
 REMICADE should be given in combination with methotrexate.
-For patients who have an incomplete response, consideration may be given to adjusting the dosage up to 10 mg/kg every 8 weeks or treating as often as every 4 weeks bearing in mind that risk of serious infections is increased at higher doses per infusion or more frequent dosing [see Adverse Reactions (6.1)].
+For patients who have an incomplete response, consideration may be given to adjusting the dosage up to 10 mg/kg every 8 weeks or treating as often as every 4 weeks bearing in mind that risk of serious infections is increased at higher doses per infusion or more frequent dosing [seeAdverse Reactions (6.1)].
 
 ## 2.6 Dosage in Ankylosing Spondylitis
 
@@ -39,7 +39,7 @@ The recommended dosage of REMICADE in adult patients is 5 mg/kg given as an intr
 
 ## 2.9 Assessment for Latent and Active Tuberculosis
 
-Prior to initiating REMICADE and periodically during therapy, patients should be evaluated for active tuberculosis and tested for latent infection [see Warnings and Precautions (5.1)].
+Prior to initiating REMICADE and periodically during therapy, patients should be evaluated for active tuberculosis and tested for latent infection [seeWarnings and Precautions (5.1)].
 
 ## 2.10 Administration Instructions Regarding Infusion Reactions
 
@@ -73,8 +73,8 @@ The infusion solution should be prepared and administered by a trained medical p
      Do not use if the lyophilized powder has not fully dissolved or if opaque particles, discoloration, or other foreign particles are present.
      Do not store unused reconstituted REMICADE solution.
 3. Dilute the total volume of the reconstituted REMICADE solution to 250 mL For volumes greater than 250 mL, either use a larger infusion bag (e.g.
-   500 mL) or multiple 250 mL infusion bags to ensure that the concentration of the infusion solution does not exceed 4 mg/mL. with sterile 0.9% Sodium Chloride Injection, USP, (do not dilute with any other diluent) as follows:
-   - Withdraw a volume from the 0.9% Sodium Chloride Injection, USP, 250 mL bottle or bag equal to the total volume of reconstituted REMICADE required for a dose.
+   500 mL) or multiple 250 mL infusion bags to ensure that the concentration of the infusion solution does not exceed 4 mg/mL.with sterile 0.9% Sodium Chloride Injection, USP, (do not dilute with any other diluent) as follows:
+   - Withdraw a volume from the 0.9% Sodium Chloride Injection, USP, 250 mL bottle or bag equal to the totalvolume of reconstituted REMICADE required for a dose.
      Slowly add the total volume of reconstituted REMICADE solution from the vial(s) to the 250 mL infusion bottle or bag.
    - Discard any unused portion of the reconstituted REMICADE solution remaining in the vial(s).
    - Gently invert the bag to mix the solution.

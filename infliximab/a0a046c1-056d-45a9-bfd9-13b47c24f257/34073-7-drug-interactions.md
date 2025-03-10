@@ -33,6 +33,6 @@ Upon initiation or discontinuation of REMICADE in patients being treated with CY
 ## 7.5 Live Vaccines/Therapeutic Infectious Agents
 
 It is recommended that live vaccines not be given concurrently with REMICADE.
-It is also recommended that live vaccines not be given to infants after in utero exposure to infliximab for at least 6 months following birth [see Warnings and Precautions (5.13)].
+It is also recommended that live vaccines not be given to infants after in uteroexposure to infliximab for at least 6 months following birth [see Warnings and Precautions (5.13)].
 
 It is recommended that therapeutic infectious agents not be given concurrently with REMICADE [see Warnings and Precautions (5.13)].

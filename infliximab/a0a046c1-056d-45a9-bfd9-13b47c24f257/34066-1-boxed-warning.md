@@ -2,7 +2,7 @@
 
 SERIOUS INFECTIONS
 
-Patients treated with REMICADE are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
+Patients treated with REMICADE are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1)and Adverse Reactions (6.1)].
 Most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids.
 
 REMICADE should be discontinued if a patient develops a serious infection or sepsis.

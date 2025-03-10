@@ -21,7 +21,7 @@ Instruct patients to seek medical attention if they develop signs or symptoms of
 
 Heart Failure
 
-Instruct patients to seek medical attention and consult their prescriber if they develop signs or symptoms of heart failure [see Contraindications (4) and Warnings and Precautions (5.5)].
+Instruct patients to seek medical attention and consult their prescriber if they develop signs or symptoms of heart failure [see Contraindications (4)and Warnings and Precautions (5.5)].
 
 Hematologic Reactions
 
@@ -47,4 +47,4 @@ Manufactured by: Janssen Biotech, Inc. Horsham, PA 19044
 
 U.S. License No. 1864
 
-© 1998-2020 Janssen Pharmaceutical Companies
+© Johnson & Johnson and its affiliates 1998-2025

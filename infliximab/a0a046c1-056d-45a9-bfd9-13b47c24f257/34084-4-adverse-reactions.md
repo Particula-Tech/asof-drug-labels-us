@@ -27,7 +27,7 @@ The infusion reaction rates remained stable in Ps through 1 year in Ps Study I. 
 Across the 3 Ps studies, the percent of total infusions resulting in infusion reactions (i.e., an adverse event occurring within 1 hour) was 7% in the 3 mg/kg group, 4% in the 5 mg/kg group, and 1% in the placebo group.
 
 Patients who became positive for antibodies to infliximab were more likely (approximately two-to three-fold) to have an infusion reaction than were those who were negative.
-Use of concomitant immunosuppressant agents appeared to reduce the frequency of both antibodies to infliximab and infusion reactions [see Adverse Reactions (6.2) and Drug Interactions (7.3)].
+Use of concomitant immunosuppressant agents appeared to reduce the frequency of both antibodies to infliximab and infusion reactions [see Adverse Reactions (6.2)and Drug Interactions (7.3)].
 
 Infusion Reactions Following Re-administration
 
@@ -83,7 +83,7 @@ In a randomized, double-blind study evaluating REMICADE in moderate or severe he
 Higher incidences of mortality and hospitalization due to worsening heart failure were observed in patients receiving the 10 mg/kg REMICADE dose.
 At 1 year, 8 patients in the 10 mg/kg REMICADE group had died compared with 4 deaths each in the 5 mg/kg REMICADE and the placebo groups.
 There were trends toward increased dyspnea, hypotension, angina, and dizziness in both the 10 mg/kg and 5 mg/kg REMICADE treatment groups, versus placebo.
-REMICADE has not been studied in patients with mild heart failure (NYHA Class I/II) [see Contraindications (4) and Warnings and Precautions (5.5)].
+REMICADE has not been studied in patients with mild heart failure (NYHA Class I/II) [see Contraindications (4)and Warnings and Precautions (5.5)].
 
 Hepatotoxicity
 
@@ -99,12 +99,12 @@ Table 1: Proportion of Patients with Elevated ALT in Clinical Trials in Adults
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Proportion of patients with elevated ALT |  |  |  |  |  |
 | >1 to <3 × ULN |  | ≥3 × ULN |  | ≥5 × ULN |  |  |
-| Rheumatoid arthritisPlacebo patients received methotrexate while REMICADE patients received both REMICADE and methotrexate. Median follow-up was 58 weeks. | 24% | 34% | 3% | 4% | <1% | <1% |
-| Crohn's diseasePlacebo patients in the 2 Phase 3 trials in CD received an initial dose of 5 mg/kg REMICADE at study start and were on placebo in the maintenance phase. Patients who were randomized to the placebo maintenance group and then later crossed over to REMICADE are included in the REMICADE group in ALT analysis. Median follow-up was 54 weeks. | 34% | 39% | 4% | 5% | 0% | 2% |
-| Ulcerative colitisMedian follow-up was 30 weeks. Specifically, the median duration of follow-up was 30 weeks for placebo and 31 weeks for REMICADE. | 12% | 17% | 1% | 2% | <1% | <1% |
-| Ankylosing spondylitisMedian follow-up was 24 weeks for the placebo group and 102 weeks for the REMICADE group. | 15% | 51% | 0% | 10% | 0% | 4% |
-| Psoriatic arthritisMedian follow-up was 39 weeks for the REMICADE group and 18 weeks for the placebo group. | 16% | 50% | 0% | 7% | 0% | 2% |
-| Plaque psoriasisALT values are obtained in 2 Phase 3 Ps studies with median follow-up of 50 weeks for REMICADE and 16 weeks for placebo. | 24% | 49% | <1% | 8% | 0% | 3% |
+| Rheumatoid arthritis Placebo patients received methotrexate while REMICADE patients received both REMICADE and methotrexate. Median follow-up was 58 weeks. | 24% | 34% | 3% | 4% | <1% | <1% |
+| Crohn's disease Placebo patients in the 2 Phase 3 trials in CD received an initial dose of 5 mg/kg REMICADE at study start and were on placebo in the maintenance phase. Patients who were randomized to the placebo maintenance group and then later crossed over to REMICADE are included in the REMICADE group in ALT analysis. Median follow-up was 54 weeks. | 34% | 39% | 4% | 5% | 0% | 2% |
+| Ulcerative colitis Median follow-up was 30 weeks. Specifically, the median duration of follow-up was 30 weeks for placebo and 31 weeks for REMICADE. | 12% | 17% | 1% | 2% | <1% | <1% |
+| Ankylosing spondylitis Median follow-up was 24 weeks for the placebo group and 102 weeks for the REMICADE group. | 15% | 51% | 0% | 10% | 0% | 4% |
+| Psoriatic arthritis Median follow-up was 39 weeks for the REMICADE group and 18 weeks for the placebo group. | 16% | 50% | 0% | 7% | 0% | 2% |
+| Plaque psoriasis ALT values are obtained in 2 Phase 3 Ps studies with median follow-up of 50 weeks for REMICADE and 16 weeks for placebo. | 24% | 49% | <1% | 8% | 0% | 3% |
 
 Adverse Reactions in Psoriasis Studies
 
@@ -270,18 +270,19 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Postmarketing Adverse Reactions in Adults and Pediatric Patients
 
-- Neutropenia [see Warnings and Precautions (5.6)], agranulocytosis (including infants exposed in utero to infliximab), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura.
+- Neutropenia [see Warnings and Precautions (5.6)], agranulocytosis (including infants exposed in uteroto infliximab), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura.
 - Interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and rapidly progressive disease).
 - Pericardial effusion, systemic and cutaneous vasculitis.
-- Erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, linear IgA bullous dermatosis (LABD), acute generalized exanthematous pustulosis (AGEP), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), lichenoid reactions.
+- Erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, linear IgA bullous dermatosis (LABD), acute generalized exanthematous pustulosis (AGEP), worsening psoriasis (all subtypes including pustular, primarily palmoplantar), lichenoid reactions.
 - Peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy) transverse myelitis, and neuropathies (additional neurologic reactions have also been observed) [see Warnings and Precautions (5.9)].
 - Acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)].
-- Serious infections [see Warnings and Precautions (5.1)] and vaccine breakthrough infection including bovine tuberculosis (disseminated BCG infection) following vaccination in an infant exposed in utero to infliximab [see Warnings and Precautions (5.13)].
+- Serious infections [see Warnings and Precautions (5.1)] and vaccine breakthrough infection including bovine tuberculosis (disseminated BCG infection) following vaccination in an infant exposed in uteroto infliximab [see Warnings and Precautions (5.13)].
 - Malignancies, including leukemia, melanoma, Merkel cell carcinoma, and cervical cancer [see Warnings and Precautions (5.2)].
 - Anaphylactic reactions, including anaphylactic shock, laryngeal/pharyngeal edema and severe bronchospasm, and seizure have been associated with REMICADE administration.
 - Transient visual loss have been reported in association with REMICADE during or within 2 hours of infusion.
   Cerebrovascular accidents, myocardial ischemia/infarction (some fatal), and arrhythmia occurring within 24 hours of initiation of infusion have also been reported [see Warnings and Precautions (5.8)].
+- New onset immune disorders (e.g., psoriasis, rheumatoid arthritis, inflammatory bowel disease).
 
 Postmarketing Serious Adverse Reactions in Pediatric Patients
 
-The following serious adverse reactions have been reported in the post-marketing experience in pediatric patients: infections (some fatal) including opportunistic infections and tuberculosis, infusion reactions, hypersensitivity reactions, malignancies, including hepatosplenic T-cell lymphomas [see Boxed Warning and Warnings and Precautions (5.2)], transient hepatic enzyme abnormalities, lupus-like syndromes, and the development of autoantibodies.
+The following serious adverse reactions have been reported in the post-marketing experience in pediatric patients: infections (some fatal) including opportunistic infections and tuberculosis, infusion reactions, hypersensitivity reactions, malignancies, including hepatosplenic T-cell lymphomas [see Boxed Warningand Warnings and Precautions (5.2)], transient hepatic enzyme abnormalities, lupus-like syndromes, and the development of autoantibodies.

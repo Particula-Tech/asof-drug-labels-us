@@ -2,7 +2,7 @@
 
 NDC 57894-030-01
 
-Remicade® (infliximab) For Injection 100 mg per vial
+Remicade ® (infliximab) For Injection 100 mg per vial
 
 Single-dose vial Discard unused portion
 

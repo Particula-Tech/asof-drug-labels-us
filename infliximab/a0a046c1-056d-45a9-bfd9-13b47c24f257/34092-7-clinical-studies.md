@@ -23,13 +23,13 @@ Table 3: Clinical Remission and Steroid Withdrawal in Adult Patients with CD (St
 
 |  |  | 5 mg/kg | 10 mg/kg |
 | --- | --- | --- | --- |
-|  | Single 5-mg/kg DoseREMICADE at Week 0 | Three-Dose InductionREMICADE 5 mg/kg administered at Weeks 0, 2 and 6 |  |
+|  | Single 5-mg/kg Dose REMICADE at Week 0 | Three-Dose Induction REMICADE 5 mg/kg administered at Weeks 0, 2 and 6 |  |
 |  | Placebo Maintenance | REMICADE Maintenance q8 wks |  |
 | Week 30 | 25/102 | 41/104 | 48/105 |
 | Clinical remission | 25% | 39% | 46% |
-| P-valueP-values represent pairwise comparisons to placebo |  | 0.022 | 0.001 |
+| P-value P-values represent pairwise comparisons to placebo |  | 0.022 | 0.001 |
 | Week 54 | 6/54 | 14/56 | 18/53 |
-| Patients in remission able to discontinue corticosteroid useOf those receiving corticosteroids at baseline | 11% | 25% | 34% |
+| Patients in remission able to discontinue corticosteroid use Of those receiving corticosteroids at baseline | 11% | 25% | 34% |
 | P-value |  | 0.059 | 0.005 |
 
 Patients in the REMICADE maintenance groups (5 mg/kg and 10 mg/kg) had a longer time to loss of response than patients in the placebo maintenance group (Figure 1).
@@ -107,10 +107,10 @@ Table 4: Response and Remission in Study Peds Crohn's
 |  | Every 8 Week | Every 12 Week |
 | Patients randomized | 52 | 51 |
 | Clinical ResponseDefined as a decrease from baseline in the PCDAI score of ≥15 points and total score of ≤30 points. |  |  |
-| Week 30 | 73%P-value <0.01 | 47% |
+| Week 30 | 73% P-value <0.01 | 47% |
 | Week 54 | 64% | 33% |
 | Clinical RemissionDefined as a PCDAI score of ≤10 points. |  |  |
-| Week 30 | 60%P-value <0.05 | 35% |
+| Week 30 | 60% P-value <0.05 | 35% |
 | Week 54 | 56% | 24% |
 
 ## 14.3 Adult Ulcerative Colitis
@@ -143,9 +143,9 @@ Table 5: Response, Remission and Mucosal Healing in Adult UC Studies (Studies UC
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Study UC I |  |  | Study UC II |  |  |
 | Patients randomized | 121 | 121 | 122 | 123 | 121 | 120 |
-| Clinical ResponseDefined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, accompanied by a decrease in the rectal bleeding subscore of ≥1 or a rectal bleeding subscore of 0 or 1. (The Mayo score consists of the sum of four subscores: stool frequency, rectal bleeding, physician's global assessment and endoscopy findings)., Patients who had a prohibited change in medication, had an ostomy or colectomy, or discontinued study infusions due to lack of efficacy are considered to not be in clinical response, clinical remission or mucosal healing from the time of the event onward. |  |  |  |  |  |  |
-| Week 8 | 37% | 69%P<0.001, | 62% | 29% | 65% | 69% |
-| Week 30 | 30% | 52% | 51%P<0.01 | 26% | 47% | 60% |
+| Clinical ResponseDefined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, accompanied by a decrease in the rectal bleeding subscore of ≥1 or a rectal bleeding subscore of 0 or 1. (The Mayo score consists of the sum of four subscores: stool frequency, rectal bleeding, physician's global assessment and endoscopy findings).,Patients who had a prohibited change in medication, had an ostomy or colectomy, or discontinued study infusions due to lack of efficacy are considered to not be in clinical response, clinical remission or mucosal healing from the time of the event onward. |  |  |  |  |  |  |
+| Week 8 | 37% | 69% P<0.001, | 62% | 29% | 65% | 69% |
+| Week 30 | 30% | 52% | 51% P<0.01 | 26% | 47% | 60% |
 | Week 54 | 20% | 45% | 44% | NA | NA | NA |
 | Sustained Response |  |  |  |  |  |  |
 | (Clinical response at both Weeks 8 and 30) | 23% | 49% | 46% | 15% | 41% | 53% |
@@ -207,7 +207,7 @@ Patients were allowed to change to a higher dose and/or more frequent administra
 Clinical response at Week 8 was defined as a decrease from baseline in the Mayo score by ≥30% and ≥3 points, including a decrease in the rectal bleeding subscore by ≥1 points or achievement of a rectal bleeding subscore of 0 or 1.
 
 Clinical remission at Week 8 was measured by the Mayo score, defined as a Mayo score of ≤2 points with no individual subscore >1.
-Clinical remission was also assessed at Week 8 and Week 54 using the Pediatric Ulcerative Colitis Activity Index (PUCAI)1 score and was defined by a PUCAI score of <10 points.
+Clinical remission was also assessed at Week 8 and Week 54 using the Pediatric Ulcerative Colitis Activity Index (PUCAI) 1score and was defined by a PUCAI score of <10 points.
 
 Endoscopies were performed at baseline and at Week 8.
 A Mayo endoscopy subscore of 0 indicated normal or inactive disease and a subscore of 1 indicated mild disease (erythema, decreased vascular pattern, or mild friability).
@@ -256,28 +256,28 @@ Table 7: ACR Response (percent of patients) in Adult RA Patients (Studies RA I a
 |  |  | 3 mg/kg |  | 10 mg/kg |  |  | 3 mg/kg | 6 mg/kg |
 | Response | Placebo+MTX | q8 wks | q4 wks | q8 wks | q4 wks | Placebo+MTX | q8 wks | q8 wks |
 | ACR 20 |  |  |  |  |  |  |  |  |
-| Week 30 | 20% | 50%P≤0.001 | 50% | 52% | 58% | N/A | N/A | N/A |
-| Week 54 | 17% | 42% | 48% | 59% | 59% | 54% | 62%P<0.05 | 66% |
+| Week 30 | 20% | 50% P≤0.001 | 50% | 52% | 58% | N/A | N/A | N/A |
+| Week 54 | 17% | 42% | 48% | 59% | 59% | 54% | 62% P<0.05 | 66% |
 | ACR 50 |  |  |  |  |  |  |  |  |
 | Week 30 | 5% | 27% | 29% | 31% | 26% | N/A | N/A | N/A |
 | Week 54 | 9% | 21% | 34% | 40% | 38% | 32% | 46% | 50% |
 | ACR 70 |  |  |  |  |  |  |  |  |
-| Week 30 | 0% | 8%P<0.01 | 11% | 18% | 11% | N/A | N/A | N/A |
+| Week 30 | 0% | 8% P<0.01 | 11% | 18% | 11% | N/A | N/A | N/A |
 | Week 54 | 2% | 11% | 18% | 26% | 19% | 21% | 33% | 37% |
-| Major clinical responseA major clinical response was defined as a 70% ACR response for 6 consecutive months (consecutive visits spanning at least 26 weeks) through Week 102 for Study RA I and Week 54 for Study RA II. | 0% | 7% | 8% | 15% | 6% | 8% | 12% | 17% |
+| Major clinical response A major clinical response was defined as a 70% ACR response for 6 consecutive months (consecutive visits spanning at least 26 weeks) through Week 102 for Study RA I and Week 54 for Study RA II. | 0% | 7% | 8% | 15% | 6% | 8% | 12% | 17% |
 
 Table 8: Components of ACR 20 at Baseline and 54 Weeks (Study RA I)
 
 |  | Baseline | Week 54 | Baseline | Week 54 |
 | --- | --- | --- | --- | --- |
-|  | Placebo+MTX |  | REMICADE+MTXAll doses/schedules of REMICADE+MTX |  |
+|  | Placebo+MTX |  | REMICADE+MTX All doses/schedules of REMICADE+MTX |  |
 | Parameter (medians) | (n=88) |  | (n=340) |  |
 | No. of Tender Joints | 24 | 16 | 32 | 8 |
 | No. of Swollen Joints | 19 | 13 | 20 | 7 |
-| PainVisual Analog Scale (0=best, 10=worst) | 6.7 | 6.1 | 6.8 | 3.3 |
+| Pain Visual Analog Scale (0=best, 10=worst) | 6.7 | 6.1 | 6.8 | 3.3 |
 | Physician's Global Assessment | 6.5 | 5.2 | 6.2 | 2.1 |
 | Patient's Global Assessment | 6.2 | 6.2 | 6.3 | 3.2 |
-| Disability Index (HAQ-DI)Health Assessment Questionnaire, measurement of 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities (0=best, 3=worst) | 1.8 | 1.5 | 1.8 | 1.3 |
+| Disability Index (HAQ-DI) Health Assessment Questionnaire, measurement of 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities (0=best, 3=worst) | 1.8 | 1.5 | 1.8 | 1.3 |
 | CRP (mg/dL) | 3.0 | 2.3 | 2.4 | 0.6 |
 
 Radiographic Response
@@ -307,7 +307,7 @@ Table 9: Radiographic Change from Baseline to Week 54 in Adult RA Patients (Stud
 | Mean | 79 | 78 | 65 | 11.3 | 11.6 | 11.2 |
 | Median | 55 | 57 | 56 | 5.1 | 5.2 | 5.3 |
 | Change from baseline |  |  |  |  |  |  |
-| Mean | 6.9 | 1.3P<0.001 for each outcome against placebo. | 0.2 | 3.7 | 0.4 | 0.5 |
+| Mean | 6.9 | 1.3 P<0.001 for each outcome against placebo. | 0.2 | 3.7 | 0.4 | 0.5 |
 | Median | 4.0 | 0.5 | 0.5 | 0.4 | 0.0 | 0.0 |
 | Erosion Score |  |  |  |  |  |  |
 | Baseline |  |  |  |  |  |  |
@@ -359,14 +359,14 @@ Table 10: Components of AS Disease Activity
 |  | Placebo (n=78) |  | REMICADE 5 mg/kg (n=201) |  |  |
 | ASAS 20 response |  |  |  |  |  |
 | Criteria (Mean) |  |  |  |  |  |
-| Patient Global AssessmentMeasured on a VAS with 0="none" and 10="severe" | 6.6 | 6.0 | 6.8 | 3.8 | <0.001 |
+| Patient Global Assessment Measured on a VAS with 0="none" and 10="severe" | 6.6 | 6.0 | 6.8 | 3.8 | <0.001 |
 | Spinal pain | 7.3 | 6.5 | 7.6 | 4.0 | <0.001 |
-| BASFIBath Ankylosing Spondylitis Functional Index (BASFI), average of 10 questions | 5.8 | 5.6 | 5.7 | 3.6 | <0.001 |
-| InflammationInflammation, average of last 2 questions on the 6-question BASDAI | 6.9 | 5.8 | 6.9 | 3.4 | <0.001 |
+| BASFI Bath Ankylosing Spondylitis Functional Index (BASFI), average of 10 questions | 5.8 | 5.6 | 5.7 | 3.6 | <0.001 |
+| Inflammation Inflammation, average of last 2 questions on the 6-question BASDAI | 6.9 | 5.8 | 6.9 | 3.4 | <0.001 |
 | Acute Phase Reactants |  |  |  |  |  |
-| Median CRPCRP normal range 0–1.0 mg/dL (mg/dL) | 1.7 | 1.5 | 1.5 | 0.4 | <0.001 |
+| Median CRP CRP normal range 0–1.0 mg/dL(mg/dL) | 1.7 | 1.5 | 1.5 | 0.4 | <0.001 |
 | Spinal Mobility (cm, Mean) |  |  |  |  |  |
-| Modified Schober's testSpinal mobility normal values: modified Schober's test: >4 cm; chest expansion:>6 cm; tragus to wall: <15 cm; lateral spinal flexion: >10 cm | 4.0 | 5.0 | 4.3 | 4.4 | 0.75 |
+| Modified Schober's test Spinal mobility normal values: modified Schober's test: >4 cm; chest expansion:>6 cm; tragus to wall: <15 cm; lateral spinal flexion: >10 cm | 4.0 | 5.0 | 4.3 | 4.4 | 0.75 |
 | Chest expansion | 3.6 | 3.7 | 3.3 | 3.9 | 0.04 |
 | Tragus to wall | 17.3 | 17.4 | 16.9 | 15.7 | 0.02 |
 | Lateral spinal flexion | 10.6 | 11.0 | 11.4 | 12.9 | 0.03 |
@@ -402,16 +402,16 @@ Table 11: Components of ACR 20 and Percentage of Adult PsA Patients with 1 or Mo
 
 |  | Baseline | Week 24 | Baseline | Week 24 |
 | --- | --- | --- | --- | --- |
-|  | Placebo |  | REMICADE 5 mg/kgP<0.001 for percent change from baseline in all components of ACR 20 at Week 24, P<0.05 for % of patients with dactylitis, and P=0.004 for % of patients with enthesopathy at Week 24 |  |
+|  | Placebo |  | REMICADE 5 mg/kg P<0.001 for percent change from baseline in all components of ACR 20 at Week 24, P<0.05 for % of patients with dactylitis, and P=0.004 for % of patients with enthesopathy at Week 24 |  |
 | Patients Randomized | (n=100) |  | (n=100) |  |
 | Parameter (medians) |  |  |  |  |
-| No. of Tender JointsScale 0–68 | 24 | 20 | 20 | 6 |
-| No. of Swollen JointsScale 0–66 | 12 | 9 | 12 | 3 |
-| PainVisual Analog Scale (0=best, 10=worst) | 6.4 | 5.6 | 5.9 | 2.6 |
+| No. of Tender Joints Scale 0–68 | 24 | 20 | 20 | 6 |
+| No. of Swollen Joints Scale 0–66 | 12 | 9 | 12 | 3 |
+| Pain Visual Analog Scale (0=best, 10=worst) | 6.4 | 5.6 | 5.9 | 2.6 |
 | Physician's Global Assessment | 6.0 | 4.5 | 5.6 | 1.5 |
 | Patient's Global Assessment | 6.1 | 5.0 | 5.9 | 2.5 |
-| Disability Index (HAQ-DI)Health Assessment Questionnaire, measurement of 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities (0=best, 3=worst) | 1.1 | 1.1 | 1.1 | 0.5 |
-| CRP (mg/dL)Normal range 0–0.6 mg/dL | 1.2 | 0.9 | 1.0 | 0.4 |
+| Disability Index (HAQ-DI) Health Assessment Questionnaire, measurement of 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities (0=best, 3=worst) | 1.1 | 1.1 | 1.1 | 0.5 |
+| CRP (mg/dL) Normal range 0–0.6 mg/dL | 1.2 | 0.9 | 1.0 | 0.4 |
 | % Patients with 1 or more digits with dactylitis | 41 | 33 | 40 | 15 |
 | % Patients with enthesopathy | 35 | 36 | 42 | 22 |
 
@@ -481,13 +481,13 @@ Table 12: Adult Psoriasis Studies I, II, and III, Percentage of Patients who Ach
 |  |  | 3 mg/kg | 5 mg/kg |
 | --- | --- | --- | --- |
 |  | Placebo | REMICADE |  |
-| Psoriasis Study I - patients randomizedPatients with missing data at Week 10 were considered as nonresponders. | 77 | — | 301 |
-| PASI 75 | 2 (3%) | — | 242 (80%)P<0.001 compared with placebo |
+| Psoriasis Study I - patients randomized Patients with missing data at Week 10 were considered as nonresponders. | 77 | — | 301 |
+| PASI 75 | 2 (3%) | — | 242 (80%) P<0.001 compared with placebo |
 | sPGA | 3 (4%) | — | 242 (80%) |
 | Psoriasis Study II - patients randomized | 208 | 313 | 314 |
 | PASI 75 | 4 (2%) | 220 (70%) | 237 (75%) |
 | rPGA | 2 (1%) | 217 (69%) | 234 (75%) |
-| Psoriasis Study III - patients randomizedPatients with missing data at Week 10 were imputed by last observation. | 51 | 99 | 99 |
+| Psoriasis Study III - patients randomized Patients with missing data at Week 10 were imputed by last observation. | 51 | 99 | 99 |
 | PASI 75 | 3 (6%) | 71 (72%) | 87 (88%) |
 | sPGA | 5 (10%) | 71 (72%) | 89 (90%) |
 
