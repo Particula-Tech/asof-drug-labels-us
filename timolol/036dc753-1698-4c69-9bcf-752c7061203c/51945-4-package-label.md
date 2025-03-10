@@ -1,4 +1,4 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 82260-496-05 Timolol Maleate Ophthalmic Solution in OCUDOSE® 0.5% (DISPENSER) Timolol Equivalent (Timolol Maleate 6.8 mg/mL) Rx only FOR TOPICAL APPLICATION IN THE EYE PRESERVATIVE-FREE STERILE OPHTHALMIC SOLUTION Keep out of reach of children.
-BAUSCH + LOMB 60 x 0.3 mL UNIT DOSES
+NDC82260-496-05 Timolol Maleate Ophthalmic Solution in OCUDOSE ® 0.5% (DISPENSER) Timolol Equivalent (Timolol Maleate 6.8 mg/mL) [Eye Image] Rx only FOR TOPICAL APPLICATION IN THE EYE PRESERVATIVE-FREE STERILE OPHTHALMIC SOLUTION Keep out of reach of children.
+BAUSCH + LOMB 60 x 0.3 mL UNIT DOSES 9747902

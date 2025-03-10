@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Preservative-free Sterile Timolol Maleate Ophthalmic Solution in OCUDOSE® is a clear, colorless to light yellow solution.
+Preservative-free Sterile Timolol Maleate Ophthalmic Solution in OCUDOSE ®is a clear, colorless to light yellow solution.
 
 Preservative-free Timolol Maleate Ophthalmic Solution, 0.5% timolol equivalent, is supplied in OCUDOSE, a clear low density polyethylene unit dose container.
 Each individual unit contains 0.3 mL of solution, and is available in a foil laminate overwrapped pouch as follows:
