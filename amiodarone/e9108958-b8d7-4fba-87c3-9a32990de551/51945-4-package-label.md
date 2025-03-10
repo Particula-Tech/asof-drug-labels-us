@@ -1,10 +1,14 @@
 # PACKAGE LABELING - PRINCIPAL DISPLAY PANEL
 
-NDC 43066-360-20 For Intravenous Use
+LOT: ABXXXXXX EXP: YYY-MM-DD
 
-Nexterone (amiodarone HCl) Premixed Injection
+NDC 43066-360-20
+
+Nexterone (amiodarone HCI) Premixed Injection
 
 360 mg/200 mL (1.8 mg/mL)
+
+Rx Only For Intravenous Use
 
 GALAXY 200mL Single-Dose Container Discard unused portion
 
@@ -26,56 +30,71 @@ Avoid excessive heat.
 
 USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE.
 
-Rx Only
-
-Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc.
+Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc. or its subsidiaries.
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in the USA
 
-07-34-00-2282
+07-34-00-2401
 
-For Intravenous Use Nexterone (amiodarone HCl) Premixed Injection
+Barcode 3 4306636020 7
+
+Nexterone (amiodarone HCl) Premixed Injection For Intravenous Use
 
 360 mg/200 mL (1.8 mg/mL)
+
+Nexterone (amiodarone HCl) Premixed Injection For Intravenous Use
+
+360 mg/200 mL (1.8 mg/mL)
+
+Nexterone (amiodarone HCl) Premixed Injection
+
+360 mg/200 mL (1.8 mg/mL) For Intravenous Use
 
 UNVARNISHED AREA FOR ON-LINE PRINTING OF LOT & EXP
 
-FPO UPC-A Barcode 343066360207
+Lot ABXXXXXX EXP YYY-MM-DD
 
-For Intravenous Use Nexterone (amiodarone HCl) Premixed Injection
+*FOR BAR CODE POSITION ONLY
 
-360 mg/200 mL (1.8 mg/mL)
+(01) 00000000000000 (10)XX0000000 (21) 000000000000 (17)0000000000
 
-Iso-osmotic solution in Dextrose
+Barcode 3 4306636020 7
 
-Sterile, Nonpyrogenic
+Iso-osmotic solution in Dextrose Sterile, Nonpyrogenic
 
 Each mL contains: 1.8 mg amiodarone HCl, USP; 18 mg Betadex Sulfobutyl Ether Sodium, NF; 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate, and 41.4 mg dextrose anhydrous in water for injection.
 Sodium hydroxide or hydrochloric acid may have been added to adjust pH.
+
 Does not contain polysorbate 80 or benzyl alcohol.
 
-DOSAGE: See package insert for complete information on dosage and administration.
+DOSAGE: See prescribing information.
 
 STORAGE: Store at 20º to 25º C (68º to 77º F); excursions permitted to 15º to 30º C (59º to 86º F). See USP Controlled Room Temperature.
 Protect from freezing.
 Avoid excessive heat.
 USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE.
 
-Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc.
+Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc. or its subsidiaries.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-07-01-00-0371
+07-01-00-1679
 
-For Intravenous Use Nexterone (amiodarone HCl) Premixed Injection
+Nexterone (amiodarone HCl) Premixed Injection For Intravenous Use
+
+360 mg/200 mL (1.8 mg/mL)
+
+Nexterone (amiodarone HCl) Premixed Injection For Intravenous Use
 
 360 mg/200 mL (1.8 mg/mL)
 
 NDC 43066-360-20 Code 2G3450
 
-Rx Only
+Nexterone (amiodarone HCl) Premixed Injection
 
-NDC 43066-360-20 Code 2G3450
+360 mg/200 mL (1.8 mg/mL)
+
+Rx Only For Intravenous Use
 
 USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE
 
@@ -83,11 +102,15 @@ USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
-NDC 43066-150-10 For Intravenous Use
+LOT: ABXXXXXX EXP: YYY-MM-DD
+
+NDC 43066-150-10
 
 Nexterone (amiodarone HCl) Premixed Injection
 
 150 mg/100 mL (1.5 mg/mL)
+
+Rx Only For Intravenous Use
 
 GALAXY 100mL Single-Dose Container Discard unused portion
 
@@ -103,72 +126,82 @@ Do not use unless solution is clear.
 Do not add supplemental medication.
 Must not be used in series connections.
 
-Store at 20º to 25º C (68º to 77º F); excursions permitted to 15º to 30º C (59º to 86º F).
+Dosage: See prescribing information.
 
-See USP Controlled Room Temperature.
+Store at 20º to 25º C (68º to 77º F); excursions permitted to 15º to 30º C (59º to 86º F). See USP Controlled Room Temperature.
 Protect from freezing.
 Avoid excessive heat.
 
 USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE.
 
-Rx Only
-
-Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc.
+Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc. or its subsidiaries.
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA Made in the USA
 
-07-34-00-2283
+07-34-00-2461
 
-For Intravenous Use Nexterone (amiodarone HCl) Premixed Injection
+Barcode 3 4306615010 5
+
+Nexterone (amiodarone HCl) Premixed Injection For Intravenous Use
 
 150 mg/100 mL (1.5 mg/mL)
+
+Nexterone (amiodarone HCl) Premixed Injection For Intravenous Use
+
+150 mg/100 mL (1.5 mg/mL)
+
+Nexterone (amiodarone HCl) Premixed Injection
+
+150 mg/100 mL (1.5 mg/mL) For Intravenous Use
 
 UNVARNISHED AREA FOR ON-LINE PRINTING OF LOT & EXP
 
-FPO UPC-A Barcode 343066150105
+Lot ABXXXXXX EXP YYY-MM-DD
 
-For Intravenous Use Nexterone (amiodarone HCl) Premixed Injection
+*FOR BAR CODE POSITION ONLY
 
-150 mg/100 mL (1.5 mg/mL)
+(01) 00000000000000 (10)XX0000000 (21) 000000000000 (17)0000000000
 
-Iso-osmotic solution in Dextrose
+Barcode 3 4306615010 5
 
-Sterile, Nonpyrogenic
+Iso-osmotic solution in Dextrose Sterile, Nonpyrogenic
 
 Each mL contains: 1.5 mg amiodarone HCl, USP; 15 mg Betadex Sulfobutyl Ether Sodium, NF; 0.362 mg citric acid anhydrous, 0.183 mg sodium citrate dihydrate, and 42.1 mg dextrose anhydrous in water for injection.
 Sodium hydroxide or hydrochloric acid may have been added to adjust pH.
 
 Does not contain polysorbate 80 or benzyl alcohol.
 
-DOSAGE: See package insert for complete information on dosage and administration.
+DOSAGE: See prescribing information.
 
 STORAGE: Store at 20º to 25º C (68º to 77º F); excursions permitted to 15º to 30º C (59º to 86º F). See USP Controlled Room Temperature.
 Protect from freezing.
 Avoid excessive heat.
 USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE.
 
-Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc.
+Baxter, Galaxy and Nexterone are trademarks of Baxter International Inc. or its subsidiaries.
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-07-01-00-0372
+07-01-00-1735
 
-For Intravenous Use Nexterone (amiodarone HCl) Premixed Injection
+Nexterone (amiodarone HCl) Premixed Injection For Intravenous Use
+
+150 mg/100 mL (1.5 mg/mL)
+
+Nexterone (amiodarone HCl) Premixed Injection For Intravenous Use
 
 150 mg/100 mL (1.5 mg/mL)
 
 NDC 43066-150-10 Code 2G3451
 
-Rx Only
+Nexterone (amiodarone HCl) Premixed Injection
+
+150 mg/100 mL (1.5 mg/mL)
+
+Rx Only For Intravenous Use
 
 USE CARTON TO PROTECT CONTENTS FROM LIGHT UNTIL USE
 
 1 GALAXY Single-Dose Container Discard unused portion
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA
-
-For Intravenous Use
-
-Nexterone (amiodarone HCl) Premixed Injection
-
-150 mg/100 mL (1.5 mg/mL)
