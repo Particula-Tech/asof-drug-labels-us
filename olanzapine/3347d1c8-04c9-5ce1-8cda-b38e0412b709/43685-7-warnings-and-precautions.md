@@ -62,7 +62,7 @@ Epidemiological studies suggest an increased risk of treatment-emergent hypergly
 While relative risk estimates are inconsistent, the association between atypical antipsychotics and increases in glucose levels appears to fall on a continuum and olanzapine appears to have a greater association than some other atypical antipsychotics.
 
 Mean increases in blood glucose have been observed in patients treated (median exposure of 9.2 months) with olanzapine in phase 1 of the Clinical Antipsychotic Trials of Intervention Effectiveness (CATIE).
-The mean increase of serum glucose (fasting and nonfasting samples) from baseline to the average of the 2 highest serum concentrations was 15.0 mg/dL.
+The mean increase of serum glucose (fasting and nonfasting samples) from baseline to the average of the 2 highest serum concentrations was 15 mg/dL.
 
 In a study of healthy volunteers, subjects who received olanzapine (N=22) for 3 weeks had a mean increase compared to baseline in fasting blood glucose of 2.3 mg/dL.
 Placebo-treated subjects (N=19) had a mean increase in fasting blood glucose compared to baseline of 0.34 mg/dL.
@@ -114,7 +114,7 @@ Clinical monitoring, including baseline and periodic follow-up lipid evaluations
 Clinically significant, and sometimes very high (>500 mg/dL), elevations in triglyceride levels have been observed with olanzapine use.
 Modest mean increases in total cholesterol have also been seen with olanzapine use.
 
-Olanzapine Monotherapy in Adults — In an analysis of 5 placebo-controlled olanzapine monotherapy studies with treatment duration up to 12 weeks, olanzapine-treated patients had increases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 5.3 mg/dL, 3.0 mg/dL, and 20.8 mg/dL respectively compared to decreases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 6.1 mg/dL, 4.3 mg/dL, and 10.7 mg/dL for placebo-treated patients.
+Olanzapine Monotherapy in Adults — In an analysis of 5 placebo-controlled olanzapine monotherapy studies with treatment duration up to 12 weeks, olanzapine-treated patients had increases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 5.3 mg/dL, 3 mg/dL, and 20.8 mg/dL respectively compared to decreases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 6.1 mg/dL, 4.3 mg/dL, and 10.7 mg/dL for placebo-treated patients.
 For fasting HDL cholesterol, no clinically meaningful differences were observed between olanzapine-treated patients and placebo-treated patients.
 Mean increases in fasting lipid values (total cholesterol, LDL cholesterol, and triglycerides) were greater in patients without evidence of lipid dysregulation at baseline, where lipid dysregulation was defined as patients diagnosed with dyslipidemia or related adverse reactions, patients treated with lipid lowering agents, or patients with high baseline lipid levels.
 
@@ -154,7 +154,7 @@ In phase 1 of the Clinical Antipsychotic Trials of Intervention Effectiveness (C
 In phase 1 of CATIE, the mean increase in total cholesterol was 9.4 mg/dL.
 
 Olanzapine Monotherapy in Adolescents — The safety and efficacy of olanzapine have not been established in patients under the age of 13 years.
-In an analysis of 3 placebo-controlled olanzapine monotherapy studies of adolescents, including those with schizophrenia (6 weeks) or bipolar I disorder (manic or mixed episodes) (3 weeks), olanzapine-treated adolescents had increases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 12.9 mg/dL, 6.5 mg/dL, and 28.4 mg/dL, respectively, compared to increases from baseline in mean fasting total cholesterol and LDL cholesterol of 1.3 mg/dL and 1.0 mg/dL, and a decrease in triglycerides of 1.1 mg/dL for placebo-treated adolescents.
+In an analysis of 3 placebo-controlled olanzapine monotherapy studies of adolescents, including those with schizophrenia (6 weeks) or bipolar I disorder (manic or mixed episodes) (3 weeks), olanzapine-treated adolescents had increases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 12.9 mg/dL, 6.5 mg/dL, and 28.4 mg/dL, respectively, compared to increases from baseline in mean fasting total cholesterol and LDL cholesterol of 1.3 mg/dL and 1 mg/dL, and a decrease in triglycerides of 1.1 mg/dL for placebo-treated adolescents.
 For fasting HDL cholesterol, no clinically meaningful differences were observed between olanzapine-treated adolescents and placebo-treated adolescents.
 
 In long-term studies (at least 24 weeks), adolescents had increases from baseline in mean fasting total cholesterol, LDL cholesterol, and triglycerides of 5.5 mg/dL, 5.4 mg/dL, and 20.5 mg/dL, respectively, and a mean decrease in fasting HDL cholesterol of 4.5 mg/dL.
@@ -195,7 +195,7 @@ Olanzapine Monotherapy in Adults — In an analysis of 13 placebo-controlled ola
 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories.
 Discontinuation due to weight gain occurred in 0.2% of olanzapine-treated patients and in 0% of placebo-treated patients.
 
-In long-term studies (at least 48 weeks), the mean weight gain was 5.6 kg (12.3 lb) (median exposure of 573 days, N=2021).
+In long-term studies (at least 48 weeks), the mean weight gain was 5.6 kg (12.3 lb) (median exposure of 573 days, N=2,021).
 The percentages of patients who gained at least 7%, 15%, or 25% of their baseline body weight with long-term exposure were 64%, 32%, and 12%, respectively.
 Discontinuation due to weight gain occurred in 0.4% of olanzapine-treated patients following at least 48 weeks of exposure.
 
@@ -204,15 +204,15 @@ The data in each column represent data for those patients who completed treatmen
 
 Table 6: Weight Gain with Olanzapine Use in Adults
 
-| Amount Gained kg (lb) | 6 Weeks (N=7465) (%) | 6 Months (N=4162) (%) | 12 Months (N=1345) (%) | 24 Months (N=474) (%) | 36 Months (N=147) (%) |
+| Amount Gained kg (lb) | 6 Weeks (N=7,465) (%) | 6 Months (N=4,162) (%) | 12 Months (N=1,345) (%) | 24 Months (N=474) (%) | 36 Months (N=147) (%) |
 | --- | --- | --- | --- | --- | --- |
 | ≤0 | 26.2 | 24.3 | 20.8 | 23.2 | 17.0 |
-| 0 to ≤5 (0-11 lb) | 57.0 | 36.0 | 26.0 | 23.4 | 25.2 |
-| >5 to ≤10 (11-22 lb) | 14.9 | 24.6 | 24.2 | 24.1 | 18.4 |
-| >10 to ≤15 (22-33 lb) | 1.8 | 10.9 | 14.9 | 11.4 | 17.0 |
-| >15 to ≤20 (33-44 lb) | 0.1 | 3.1 | 8.6 | 9.3 | 11.6 |
-| >20 to ≤25 (44-55 lb) | 0 | 0.9 | 3.3 | 5.1 | 4.1 |
-| >25 to ≤30 (55-66 lb) | 0 | 0.2 | 1.4 | 2.3 | 4.8 |
+| 0 to ≤5 (0 to 11 lb) | 57.0 | 36.0 | 26.0 | 23.4 | 25.2 |
+| >5 to ≤10 (11 to 22 lb) | 14.9 | 24.6 | 24.2 | 24.1 | 18.4 |
+| >10 to ≤15 (22 to 33 lb) | 1.8 | 10.9 | 14.9 | 11.4 | 17.0 |
+| >15 to ≤20 (33 to 44 lb) | 0.1 | 3.1 | 8.6 | 9.3 | 11.6 |
+| >20 to ≤25 (44 to 55 lb) | 0 | 0.9 | 3.3 | 5.1 | 4.1 |
+| >25 to ≤30 (55 to 66 lb) | 0 | 0.2 | 1.4 | 2.3 | 4.8 |
 | >30 (>66 lb) | 0 | 0.1 | 0.8 | 1.2 | 2 |
 
 Dose group differences with respect to weight gain have been observed.
@@ -244,14 +244,14 @@ Table 8: Weight Gain with Olanzapine Use in Adolescents
 | Amount Gained kg (lb) | 6 Weeks (N=243) (%) | 6 Months (N=191) (%) |
 | --- | --- | --- |
 | ≤0 | 2.9 | 2.1 |
-| 0 to ≤5 (0-11 lb) | 47.3 | 24.6 |
-| >5 to ≤10 (11-22 lb) | 42.4 | 26.7 |
-| >10 to ≤15 (22-33 lb) | 5.8 | 22.0 |
-| >15 to ≤20 (33-44 lb) | 0.8 | 12.6 |
-| >20 to ≤25 (44-55 lb) | 0.8 | 9.4 |
-| >25 to ≤30 (55-66 lb) | 0 | 2.1 |
-| >30 to ≤35 (66-77 lb) | 0 | 0 |
-| >35 to ≤40 (77-88 lb) | 0 | 0 |
+| 0 to ≤5 (0 to 11 lb) | 47.3 | 24.6 |
+| >5 to ≤10 (11 to 22 lb) | 42.4 | 26.7 |
+| >10 to ≤15 (22 to 33 lb) | 5.8 | 22.0 |
+| >15 to ≤20 (33 to 44 lb) | 0.8 | 12.6 |
+| >20 to ≤25 (44 to 55 lb) | 0.8 | 9.4 |
+| >25 to ≤30 (55 to 66 lb) | 0 | 2.1 |
+| >30 to ≤35 (66 to 77 lb) | 0 | 0 |
+| >35 to ≤40 (77 to 88 lb) | 0 | 0 |
 | >40 (>88 lb) | 0 | 0.5 |
 
 ## 5.6 Tardive Dyskinesia
@@ -281,12 +281,12 @@ For specific information about the warnings of lithium or valproate, refer to th
 
 Olanzapine may induce orthostatic hypotension associated with dizziness, tachycardia, bradycardia and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α1-adrenergic antagonistic properties [see Patient Counseling Information (17)].
 
-From an analysis of the vital sign data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, orthostatic hypotension was recorded in ≥20% (1277/6030) of patients.
+From an analysis of the vital sign data in an integrated database of 41 completed clinical studies in adult patients treated with oral olanzapine, orthostatic hypotension was recorded in ≥20% (1,277/6,030) of patients.
 
 For oral olanzapine therapy, the risk of orthostatic hypotension and syncope may be minimized by initiating therapy with 5 mg QD [see Dosage and Administration (2)].
 A more gradual titration to the target dose should be considered if hypotension occurs.
 
-Syncope was reported in 0.6% (15/2500) of olanzapine-treated patients in phase 2 to 3 oral olanzapine studies.
+Syncope was reported in 0.6% (15/2,500) of olanzapine-treated patients in phase 2 to 3 oral olanzapine studies.
 The risk for this sequence of hypotension, bradycardia, and sinus pause may be greater in nonpsychiatric patients compared to psychiatric patients who are possibly more adapted to certain effects of psychotropic drugs.
 
 Olanzapine should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) where the occurrence of syncope, or hypotension and/or bradycardia might put the patient at increased medical risk.
@@ -317,7 +317,7 @@ Olanzapine is not approved for the treatment of patients with Alzheimer's diseas
 
 ## 5.11 Seizures
 
-During premarketing testing, seizures occurred in 0.9% (22/2500) of olanzapine-treated patients.
+During premarketing testing, seizures occurred in 0.9% (22/2,500) of olanzapine-treated patients.
 There were confounding factors that may have contributed to the occurrence of seizures in many of these cases.
 Olanzapine should be used cautiously in patients with a history of seizures or with conditions that potentially lower the seizure threshold, e.g., Alzheimer's dementia.
 Olanzapine is not approved for the treatment of patients with Alzheimer's disease.
@@ -327,7 +327,7 @@ Conditions that lower the seizure threshold may be more prevalent in a populatio
 
 Somnolence was a commonly reported adverse reaction associated with olanzapine treatment, occurring at an incidence of 26% in olanzapine patients compared to 15% in placebo patients.
 This adverse reaction was also dose related.
-Somnolence led to discontinuation in 0.4% (9/2500) of patients in the premarketing database.
+Somnolence led to discontinuation in 0.4% (9/2,500) of patients in the premarketing database.
 
 Since olanzapine has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about operating hazardous machinery, including automobiles, until they are reasonably certain that olanzapine therapy does not affect them adversely [see Patient Counseling Information (17)].
 
@@ -353,10 +353,10 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
 As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in the olanzapine carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 In placebo-controlled olanzapine clinical studies (up to 12 weeks), changes from normal to high in prolactin concentrations were observed in 30% of adults treated with olanzapine as compared to 10.5% of adults treated with placebo.
-In a pooled analysis from clinical studies including 8136 adults treated with olanzapine, potentially associated clinical manifestations included menstrual-related events1 (2% [49/3240] of females), sexual function-related events2 (2% [150/8136] of females and males), and breast-related events3 (0.7% [23/3240] of females, 0.2% [9/4896] of males).
+In a pooled analysis from clinical studies including 8,136 adults treated with olanzapine, potentially associated clinical manifestations included menstrual-related events1 (2% [49/3,240] of females), sexual function-related events2 (2% [150/8,136] of females and males), and breast-related events3 (0.7% [23/3,240] of females, 0.2% [9/4,896] of males).
 
 In placebo-controlled olanzapine monotherapy studies in adolescent patients (up to 6 weeks) with schizophrenia or bipolar I disorder (manic or mixed episodes), changes from normal to high in prolactin concentrations were observed in 47% of olanzapine-treated patients compared to 7% of placebo-treated patients.
 In a pooled analysis from clinical trials including 454 adolescents treated with olanzapine, potentially associated clinical manifestations included menstrual-related events1 (1% [2/168] of females), sexual function-related events2 (0.7% [3/454] of females and males), and breast-related events3 (2% [3/168] of females, 2% [7/286] of males) [see Use in Specific Populations (8.4)].

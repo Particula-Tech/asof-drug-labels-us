@@ -1,8 +1,8 @@
 Medication Guide
 
-Olanzapine Tablets, USP (oh lan′ za peen)
+Olanzapine (oh lan′ za peen) Tablets, USP
 
-Medication Guide available at www1.apotex.com/products/us
+Medication Guide available at https://www.apotex.com/products/us/mg.asp
 
 Read the Medication Guide that comes with olanzapine tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -193,7 +193,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store olanzapine tablets?
 
-- Store olanzapine tablets at 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F).
+- Store olanzapine tablets at room temperature, between 68°F to 77°F (20°C to 25°C)..
 - Keep olanzapine tablets away from light.
 - Keep olanzapine tablets dry and away from moisture.
 
@@ -216,13 +216,13 @@ What are the ingredients in olanzapine tablets?
 Active ingredient: olanzapine
 
 Inactive ingredients: lactose, magnesium stearate, microcrystalline cellulose, starch.
-The color coating contains FD&C blue No.2 aluminum lake (15 mg), ferric oxide red (20 mg), hydroxypropyl cellulose, hypromellose, iron oxide yellow (20 mg), polyethylene glycol and titanium dioxide (all strengths).
+The color coating contains FD&C blue No.2 aluminum lake (15 mg), ferric oxide red (20 mg), ferric oxide yellow (20 mg), hydroxypropyl cellulose, hypromellose, polyethylene glycol and titanium dioxide (all strengths).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 All registered trademarks in this document are the property of their respective owners.
 
-APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 mg
+APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5 mg, 7.5 mg, 10 mg, 15 mg and 20 mg
 
 | Manufactured by | Manufactured for |
 | --- | --- |
@@ -230,4 +230,4 @@ APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: June 2021 Revision 8
+Revised: March 2025 Rev: 9

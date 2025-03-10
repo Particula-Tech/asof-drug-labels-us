@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of olanzapine in the listed indications is unclear.
+The mechanism of action of olanzapine, in the listed indications is unclear.
 However, the efficacy of olanzapine in schizophrenia could be mediated through a combination of dopamine and serotonin type 2 (5HT2) antagonism.
 
 ## 12.2 Pharmacodynamics

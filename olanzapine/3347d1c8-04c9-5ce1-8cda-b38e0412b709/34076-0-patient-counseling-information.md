@@ -68,8 +68,7 @@ Pregnancy — Advise women to notify their healthcare provider if they become pr
 Advise patients that olanzapine may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to olanzapine during pregnancy [see Use in Specific Populations (8.1)].
 
-Lactation — Advise breastfeeding women using olanzapine tablets to monitor infants for excess sedation, irritability, poor feeding and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs.
-[see Use in Specific Populations (8.3)].
+Lactation — Advise breastfeeding women using olanzapine tablets to monitor infants for excess sedation, irritability, poor feeding and extrapyramidal symptoms (tremors and abnormal muscle movements) and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
 
 Infertility — Advise females of reproductive potential that olanzapine tablets may impair fertility due to an increase in serum prolactin levels.
 The effects on fertility are reversible [see Use in Specific Populations (8.3)].
@@ -92,9 +91,9 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 All registered trademarks in this document are the property of their respective owners.
 
-Dispense with Medication Guide available at www1.apotex.com/products/us
+Dispense with Medication Guide available at https://www.apotex.com/products/us/mg.asp
 
-APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 mg
+APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5 mg, 7.5 mg, 10 mg, 15 mg and 20 mg
 
 | Manufactured by | Manufactured for |
 | --- | --- |
@@ -102,4 +101,4 @@ APOTEX INC. OLANZAPINE TABLETS, USP 2.5 mg, 5.0 mg, 7.5 mg, 10 mg, 15 mg and 20 
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: June 2021 Revision 8
+Rev: 9

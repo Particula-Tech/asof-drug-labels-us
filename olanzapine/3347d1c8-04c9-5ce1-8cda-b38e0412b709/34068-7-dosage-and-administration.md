@@ -96,7 +96,7 @@ a Symbyax (olanzapine/fluoxetine HCl) is a fixed-dose combination of olanzapine 
 While there is no body of evidence to answer the question of how long a patient treated with olanzapine tablets and fluoxetine in combination should remain on it, it is generally accepted that bipolar I disorder, including the depressive episodes associated with bipolar I disorder, is a chronic illness requiring chronic treatment.
 The healthcare provider should periodically reexamine the need for continued pharmacotherapy.
 
-Olanzapine tablets monotherapy is not indicated for the treatment of depressive episodes associated with bipolar I disorder.
+Olanzapine monotherapy is not indicated for the treatment of depressive episodes associated with bipolar I disorder.
 
 ## 2.6 Olanzapine Tablets and Fluoxetine in Combination: Treatment Resistant Depression
 

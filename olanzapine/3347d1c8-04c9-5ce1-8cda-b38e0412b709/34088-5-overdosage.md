@@ -2,7 +2,7 @@
 
 ## 10.1 Human Experience
 
-In premarketing trials involving more than 3100 patients and/or normal subjects, accidental or intentional acute overdosage of olanzapine was identified in 67 patients.
+In premarketing trials involving more than 3,100 patients and/or normal subjects, accidental or intentional acute overdosage of olanzapine was identified in 67 patients.
 In the patient taking the largest identified amount, 300 mg, the only symptoms reported were drowsiness and slurred speech.
 In the limited number of patients who were evaluated in hospitals, including the patient taking 300 mg, there were no observations indicating an adverse change in laboratory analytes or ECG.
 Vital signs were usually within normal limits following overdoses.
