@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA218475"
+  ],
+  "inn": "epinephrine",
+  "labeler": "Baxter Healthcare Corporation",
+  "package_ndcs": [
+    "0338-0024-20"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "epinephrine",
+      "name": "epinephrine"
+    }
+  ],
+  "setid": "60efd409-3555-4182-a68d-1cd7bc0d1bfc",
+  "source": "dailymed"
+}
