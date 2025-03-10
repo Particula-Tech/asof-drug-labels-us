@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020369"
+  ],
+  "inn": "ciprofloxacin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "66758-071-38"
+  ],
+  "products": [
+    {
+      "form": "OINTMENT",
+      "generic": "ciprofloxacin hydrochloride",
+      "name": "CILOXAN"
+    }
+  ],
+  "setid": "09ca5374-2a16-4a95-91b3-70591d78254e",
+  "source": "dailymed"
+}
