@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-SUBLOCADE is available as a sterile, clear, viscous, colorless to yellow to amber solution in a single dose, prefilled syringe with safety needle.
+SUBLOCADE injection is available as a sterile, clear, viscous, colorless to yellow to amber solution in a single dose, prefilled syringe with safety needle.
 
 SUBLOCADE, 100 mg/0.5 mL – NDC 12496-0100-1
 

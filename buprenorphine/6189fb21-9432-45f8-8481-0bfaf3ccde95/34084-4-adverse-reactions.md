@@ -34,7 +34,7 @@ Table 2 Total Subjects Exposed to SUBLOCADE
 | † FLEX = 300 mg initial dose with an option to receive either 100 mg or 300 mg for subsequent dosing per clinician's discretion |  |  |  |  |  |  |  |
 | ‡ = Not included in total unique subjects exposed to SUBLOCADE, already accounted for in Study 13-0001 section of table |  |  |  |  |  |  |  |
 
-Table 3shows the non-injection site-related adverse reactions (ADRs) for the groups receiving SUBLOCADE 300/300 mg (6 doses of 300 mg SC injections) 300/100 mg (300 mg SC injections for the first two doses followed by 4 doses of 100 mg SC injections) and placebo (volume-matched ATRIGEL ®delivery system subcutaneous injections) reported following administration in the 6 month, double-blind, placebo-controlled study.
+Table 3 shows the non-injection site-related adverse reactions (ADRs) for the groups receiving SUBLOCADE 300/300 mg (6 doses of 300 mg SC injections) 300/100 mg (300 mg SC injections for the first two doses followed by 4 doses of 100 mg SC injections) and placebo (volume-matched ATRIGEL ® delivery system subcutaneous injections) reported following administration in the 6 month, double-blind, placebo-controlled study.
 The systemic safety profile for SUBLOCADE, given by a healthcare provider in clinical trials, was consistent with the known safety profile of transmucosal buprenorphine.
 Common adverse reactions associated with buprenorphine included constipation, nausea, vomiting, abnormal liver enzymes, headache, sedation and somnolence.
 Dose dependent hepatic effects observed in the Phase 3, double-blind study (13-0001, NCT02357901) included the incidence of ALT more than 3 times the upper limit of normal (> 3 × ULN) in 12.4%, 5.4%, and 4.0% of the SUBLOCADE 300/300-mg, SUBLOCADE 300/100-mg, and placebo groups, respectively.
@@ -65,7 +65,7 @@ Table 3 Adverse Reactions for Phase 3 Double-Blind Study: ≥ 2% of Subjects Rec
 | Somnolence | 0 | 10 (4.9) | 4 (2) |
 | *There were no cases of serious liver injury attributed to study drug. |  |  |  |
 
-Table 4shows the injection site-related adverse events reported by ≥ 2 subjects in the Phase 3 studies.
+Table 4 shows the injection site-related adverse events reported by ≥ 2 subjects in the Phase 3 studies.
 Most injection site adverse drug reactions (ADRs) were of mild to moderate severity, with one report of severe injection site pruritus.
 None of the injection site reactions were serious.
 One reaction, an injection site ulcer, led to study treatment discontinuation.
@@ -95,6 +95,11 @@ In an interim analysis of the ongoing open-label long-term safety study (13-0003
 Adverse events were reported for 432 of 669 subjects during the treatment period.
 The overall adverse event profile was similar to the double-blind trial described above.
 
+Rapid Induction study
+
+The proportion of patients who experienced an adverse event associated with opioid withdrawal was 31.4% in patients who received SUBLOCADE injection after an initial dose of transmucosal buprenorphine (rapid induction) and 25.1% in those who first received transmucosal buprenorphine for at least 7 days (standard induction).
+Three fentanyl positive patients in the rapid induction arm had serious adverse events associated with opioid withdrawal, and none in the standard induction arm.
+
 ## 6.2 Postmarketing Experience
 
 The most frequently reported systemic postmarketing adverse event observed with buprenorphine sublingual tablets was drug misuse or abuse.
@@ -103,13 +108,13 @@ The most frequently reported systemic postmarketing adverse event with buprenorp
 The following adverse reactions have been identified during post-approval use of buprenorphine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Serotonin syndrome:Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
+Serotonin syndrome: Cases of serotonin syndrome, a potentially life-threatening condition, have been reported during concomitant use of opioids with serotonergic drugs.
 
-Adrenal insufficiency:Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
+Adrenal insufficiency: Cases of adrenal insufficiency have been reported with opioid use, more often following greater than one month of use.
 
-Anaphylaxis:Anaphylaxis has been reported with ingredients contained in SUBLOCADE.
+Anaphylaxis: Anaphylaxis has been reported with ingredients contained in SUBLOCADE.
 
-Androgen deficiency:Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
+Androgen deficiency: Cases of androgen deficiency have occurred with chronic use of opioids [see Clinical Pharmacology (12.2)].
 
-Hypoglycemia:Cases of hypoglycemia have been reported in patients taking opioids.
+Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
 Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).

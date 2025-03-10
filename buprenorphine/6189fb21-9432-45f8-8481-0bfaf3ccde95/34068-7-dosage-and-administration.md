@@ -2,13 +2,19 @@
 
 ## 2.1 Important Dosing and Administration Information
 
-FOR ABDOMINAL SUBCUTANEOUS INJECTION ONLY.
+FOR SUBCUTANEOUS INJECTION ONLY.
 DO NOT ADMINISTER SUBLOCADE INTRAVENOUSLY, INTRAMUSCULARLY OR INTRADERMALLY [see Dosage and Administration (2.5), Warnings and Precautions (5.1, 5.6)].
 
-- Only healthcare providers should prepare and administer SUBLOCADE.
-- Administer SUBLOCADE monthly with a minimum of 26 days between doses.
-- Initiating treatment with SUBLOCADE as the first buprenorphine product has not been studied.
-  Initiate SUBLOCADE treatment only following induction and dose-adjustment with a transmucosal buprenorphine-containing product [see Dosage and Administration (2.3)].
+- SUBLOCADE is for healthcare provider preparation and administration only.
+- SUBLOCADE must be injected into the subcutaneous tissue of the abdomen, thigh, buttock, or back of the upper arm.
+- Patients not currently taking buprenorphine should receive an initial dose (e.g.
+  4 mg) of transmucosal buprenorphine before administering the first injection of SUBLOCADE.
+  Monitor patients in a healthcare setting after injection with SUBLOCADE to assess for symptoms of worsening withdrawal or sedation.
+  Patients' symptoms should be stable or improving prior to release from the healthcare setting.
+- The second injection of SUBLOCADE may be administered as early as one week after the first injection.
+- Injection sites should be rotated between doses.
+- Administer maintenance injections at least 26 days apart.
+- A patient who misses a maintenance dose should receive the next dose as soon as possible.
 - Administer each injection only using the syringe and safety needle included with the product [see Dosage and Administration (2.5)].
 
 ## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
@@ -22,39 +28,59 @@ Higher than normal doses and repeated administration of naloxone may be necessar
 
 Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
 
-## 2.3 Recommended Dosing
+## 2.3 Recommended Dosage
 
-Initiation of Treatment following Induction
+Induction in patients not already receiving buprenorphine
 
-Patients should first undergo induction and stabilization by initiating a buprenorphine-containing product, delivering the equivalent of 8-24 mg/day of transmucosal buprenorphine for a minimum of 7 days.
-Dosing and induction with buprenorphine-containing products should be based on instructions in their appropriate product label.
-One SUBOXONE ®(buprenorphine and naloxone) 8 mg/2 mg sublingual tablet provides equivalent buprenorphine exposure to one SUBUTEX ®(buprenorphine HCl) 8 mg sublingual tablet or one Bunavail ®(buprenorphine and naloxone) 4.2 mg/0.7 mg buccal film or one Zubsolv ®(buprenorphine and naloxone) 5.7 mg/1.4 mg sublingual tablet.
+Treatment with buprenorphine should be initiated when objective and clear signs of opioid withdrawal are evident in order to minimize the risk of precipitating withdrawal [see Warnings and Precautions (5.12)].
 
-The recommended dose of SUBLOCADE following induction is 300 mg monthly for the first two months followed by a maintenance dose of 100 mg monthly.
+Patients should receive an initial dose (e.g.
+4 mg) of transmucosal buprenorphine and be observed for one hour to confirm tolerability before administering the first injection of SUBLOCADE.
+The recommended starting dose of SUBLOCADE is 300 mg.
+Monitor patients in a healthcare setting after injection with SUBLOCADE to assess for symptoms of worsening withdrawal or sedation.
+Patients' symptoms should be stable or improving prior to release from the healthcare setting.
+On induction day, up to an additional 8 mg of transmucosal buprenorphine could be administered to manage withdrawal symptoms.
 
-The maintenance dose may be increased to 300 mg monthly for patients who tolerate the 100 mg dose, but do not demonstrate a satisfactory clinical response, as evidenced by self-reported illicit opioid use or urine drug screens positive for illicit opioid use.
+The recommended dose for the second injection is 300 mg.
+The second injection may be administered as early as 1 week and up to 1 month after the initial injection, based on patient need [see Table 1].
 
-A patient who misses a dose should receive the next dose as soon as possible, with the following dose given no less than 26 days later.
+Transition of patients already receiving transmucosal buprenorphine
+
+Patients who have been on 8 mg to 24 mg daily of transmucosal buprenorphine may be transitioned directly to the recommended starting dose of 300 mg of SUBLOCADE.
+The recommended dose for the second injection is 300 mg.
+The second injection may be administered as early as 1 week and up to 1 month after the initial injection, based on patient need [see Table 1].
+
+Patients established on long-term treatment and whose symptoms are controlled with 8 mg to 18 mg daily of transmucosal buprenorphine may receive 100 mg of SUBLOCADE as their second dose if symptoms remain controlled following the initial dose of 300 mg [see Table 1].
+
+Maintenance dosage
+
+After the first two injections, the recommended maintenance dosage of SUBLOCADE is 100 mg monthly.
+A monthly maintenance dosage of 300 mg may be considered in patients who tolerate 100 mg of SUBLOCADE monthly, but do not demonstrate a satisfactory clinical response.
+Maintenance doses should be administered with at least 26 days between injections.
+
+Table 1 Recommended Dosing Schedule
+
+| Previous Dose of TM BUP | TM BUP | SUBLOCADE |  |  |
+| --- | --- | --- | --- | --- |
+| Initial Dose | Injection #1 | Injection #2a | Maintenance Doseb |  |
+| Initiation in patients not already receiving buprenorphine |  |  |  |  |
+| NA | 4 mgc | 300 mg | 300 mg | 100 mg |
+| Transition of patients already receiving transmucosal buprenorphine |  |  |  |  |
+| 8 – 24 mg/day | NA | 300 mg | 300 mgd | 100 mg |
+| TM BUP, transmucosal buprenorphine; NA, not applicable |  |  |  |  |
+| a The second injection may be administered as early as 1 week and up to 1 month after the initial injection based on patient need. |  |  |  |  |
+| b A monthly maintenance dosage of 300 mg may be considered in patients who tolerate SUBLOCADE, but do not demonstrate a satisfactory clinical response. |  |  |  |  |
+| c On induction day, additional transmucosal buprenorphine may be administered as needed to manage withdrawal symptoms. Monitor patients for 1 hour to confirm tolerability before administering the first injection of SUBLOCADE. |  |  |  |  |
+| d Patients established on long-term treatment and whose symptoms are controlled with 8 mg to 18 mg daily of transmucosal buprenorphine may receive 100 mg of SUBLOCADE as their second dose if symptoms remain controlled following the initial dose of 300 mg. |  |  |  |  |
+
+Missed doses
+
+A patient who misses a maintenance dose should receive the next dose as soon as possible, with the following dose given at least 26 days later.
 Occasional delays in dosing up to 2 weeks are not expected to have a clinically significant impact on treatment effect.
 
 For patients in established treatment of 100 mg monthly, there may be instances when allowance for a two-month dosing interval may be appropriate (e.g., extended travel); in those instances, a single 300 mg dose may be given to cover a two-month period.
 Thereafter, the 100 mg monthly regimen would resume.
-Patients should be cautioned that the peak plasma level after injection of a 300 mg dose will be higher than their usual monthly dose and that they may experience sedation or other buprenorphine-related effects.
-
-Transition of Patients Established on Long-term Treatment with Transmucosal Buprenorphine
-
-Patients established on long-term treatment with transmucosal buprenorphine (8-24 mg/day) and whose disease symptoms are controlled may be directly transitioned to SUBLOCADE [seeTable 1].
-At steady-state, buprenorphine plasma concentrations achieved with 100-mg monthly dosing are contained within the range obtained with transmucosal treatment; peak concentrations with SUBLOCADE may be lower, while average and trough concentrations may be higher.
-Potential differences in steady state levels need to be taken into consideration when transitioning a patient established on long term treatment with transmucosal buprenorphine to SUBLOCADE [see Clinical Pharmacology (12.3), Table 7].
-
-Table 1 Transition of Patients Established on Long-term Treatment with Transmucosal Buprenorphine Whose Disease Symptoms are Controlled
-
-| Transmucosal Buprenorphine Doses | SUBLOCADE |  |  |
-| --- | --- | --- | --- |
-| Injection #1 | Injection #2 | Maintenance Dose |  |
-| 8 – 18 mg/day | 300 mg | 100 mg* | 100 mg |
-| 20 – 24 mg/day | 300 mg | 300 mg | 100 mg |
-| *For patients still experiencing craving or withdrawal symptoms after the initial 300-mg dose, consider giving 300 mg as the second dose |  |  |  |
+Patients should be cautioned that the peak plasma level after injection of a 300 mg dose will be higher than their usual monthly dose and that they may experience sedation or other buprenorphine- related effects.
 
 ## 2.4 Clinical Supervision
 
@@ -73,11 +99,12 @@ After steady-state has been achieved (4-6 months), patients discontinuing SUBLOC
 
 IMPORTANT INFORMATION:
 
-- For abdominal subcutaneous injection only.
+- For subcutaneous injection only.
   Do not inject intravenously, intramuscularly, or intradermally [see Warnings and Precautions (5.1, 5.6)].
 - To be prepared and administered by a healthcare provider only.
-- Please read the instructions carefully before handling the product.
+- Read the instructions carefully before handling the product.
 - As a universal precaution, always wear gloves.
+- SUBLOCADE must be injected into the subcutaneous tissue of the abdomen, thigh, buttock, or back of the upper arm.
 - Remove SUBLOCADE from the refrigerator prior to administration.
   The product requires at least 15 minutes to reach room temperature.
   Do not open the foil pouch until the patient has arrived for his or her injection.
@@ -114,17 +141,22 @@ Do not remove the plastic cover from the needle.
 
 Figure 3
 
-STEP 4: PREPARE THE ABDOMINAL INJECTION SITE
+STEP 4: PREPARE THE INJECTION SITE
 
-Choose an injection site on the abdomen between the transpyloric and transtubercular planes with adequate subcutaneous tissue that is free of skin conditions (e.g., nodules, lesions, excessive pigment).
-It is recommended that the patient is in the supine position.
+Choose one of the following body regions for subcutaneous injection (see Figure 4):
+
+- Abdomen between the transpyloric and transtubercular planes
+- Back of the upper arm
+- Buttock
+- Thigh
+
+Ensure that the selected injection site has adequate subcutaneous tissue that is free of skin conditions (e.g., nodules, lesions, excessive pigment).
 
 Do not inject into an area where the skin is irritated, reddened, bruised, infected or scarred in any way.
 
-Clean the injection site well with an alcohol swab.
+To avoid irritation, rotate injection sites.
 
-To avoid irritation, rotate injection sites following a pattern similar to the illustration in Figure 4.
-Record the location of the injection to ensure that a different site is used at the time of the next injection.
+Clean the injection site well with an alcohol swab.
 
 Figure 4
 
@@ -156,7 +188,7 @@ STEP 7: INJECT THE MEDICATION
 SUBLOCADE is for subcutaneous injection only.
 Do not inject intravenously, intramuscularly, or intradermally [see Warnings and Precautions (5.1, 5.6)].
 
-Insert needle fully into the abdominal subcutaneous tissue.
+Insert needle fully into the subcutaneous tissue.
 Actual angle of injection will depend on the amount of subcutaneous tissue.
 
 Use a slow, steady push to inject the medication.
@@ -184,7 +216,7 @@ Figure 9
 STEP 10: INSTRUCT THE PATIENT
 
 Advise the patient that they may have a lump for several weeks that will decrease in size over time.
-Instruct the patient not to rub or massage the injection site and to be aware of the placement of any belts or clothing waistbands.
+Instruct the patient not to rub or massage the injection site and to be aware of the placement of any restrictive clothing, such as belts, waistbands, or sleeves.
 
 ## 2.6 Limits on Distribution
 

@@ -1,25 +1,25 @@
 # 14 CLINICAL STUDIES
 
-The key studies from the SUBLOCADE clinical development program that support its use in moderate to severe OUD are a Phase 3 double-blind efficacy and safety study (13-0001, NCT02357901) and an opioid blockade study (13-0002, NCT02044094).
+The key studies from the SUBLOCADE clinical development program that support its use in moderate to severe OUD are a Phase 3 double-blind efficacy and safety study (13-0001, NCT02357901), an opioid blockade study (13-0002, NCT02044094), and a study evaluating rapid induction of SUBLOCADE after an initial dose of transmucosal buprenorphine (Rapid Induction Substudy INDV-6000-401, NCT04995029).
 
 ## 14.1 Study 13-0002, NCT02044094
 
 The opioid blockade study evaluated the blockade of subjective opioid effects, PK and safety of subcutaneous injections of SUBLOCADE in 39 subjects with OUD (not treatment-seeking).
 
-The peak (E max) effect of “Drug Liking” Visual Analog Scale (VAS) measurement after challenge with IM injections of 6 mg and 18 mg hydromorphone (HM) was not inferior (i.e., shown to be not substantially more likeable) compared to the E maxof “Drug Liking” VAS measured after challenge with placebo (at weeks 1 through 4 following the first injection of 300 mg SUBLOCADE).
+The peak (E max) effect of “Drug Liking” Visual Analog Scale (VAS) measurement after challenge with IM injections of 6 mg and 18 mg hydromorphone (HM) was not inferior (i.e., shown to be not substantially more likeable) compared to the E max of “Drug Liking” VAS measured after challenge with placebo (at weeks 1 through 4 following the first injection of 300 mg SUBLOCADE).
 The noninferiority (NI) margin, the largest difference allowed for the 6 or 18 mg HM VAS to exceed the placebo VAS (the maximum VAS recorded following IM injection of 0 mg HM) before being considered significant, was set at 20.
 Based on comparison to the historical response to opioid agonists in unblocked subjects, a difference of less than 20 points (on a unipolar scale) between the mean maximum response to hydromorphone and the mean maximum placebo response for the same challenge was considered to indicate near-complete blockade.
 
 All 12 weeks of the treatment period demonstrated blockade for both 6 mg and 18 mg following SUBLOCADE injections.
 However, wide variation can be seen in isolated measurements from individual subjects, shown in the figure below.
 For comparison, stabilization doses of SL buprenorphine in Week 0 failed to provide full blockade to 18 mg of HM.
-Complete blockade continued throughout the 8 weeks of observation that followed the 2 ndSUBLOCADE injection.
+Complete blockade continued throughout the 8 weeks of observation that followed the 2 nd SUBLOCADE injection.
 
 Figure 12 Median (95% Confidence Interval) of Placebo-Corrected Drug-Liking Scores by Hydromorphone Dose and by Week
 
 - Key to Figure: The grey shaded area indicates the period where subjects were stabilized with 8 to 24 mg/day sublingual (SL) buprenorphine; the two vertical arrows represent treatment injections of SUBLOCADE, with 300 mg of buprenorphine.
-- The light grey and dark grey squares represent the median E maxdrug-liking scores, placebo-corrected (VAS drug liking for that week's 0 mg dose subtracted) during the hydromorphone challenge of 6 and 18 mg, respectively.
-  This median Placebo-Corrected E maxis shown by treatment week, together with its 95% confidence interval (CI; vertical line).
+- The light grey and dark grey squares represent the median E max drug-liking scores, placebo-corrected (VAS drug liking for that week's 0 mg dose subtracted) during the hydromorphone challenge of 6 and 18 mg, respectively.
+  This median Placebo-Corrected E max is shown by treatment week, together with its 95% confidence interval (CI; vertical line).
   In some cases, 95% CI are not visible as the median was equal to the confidence limit.
   The horizontal line at 20 mm delineates the non-inferiority margin for opioid blockade.
   Next to median estimates, individual data are summarized by circles, the area of which is proportional to the number of subjects at that location.
@@ -33,7 +33,7 @@ Patients were randomized to one of following dosing regimens: 6 once-monthly 300
 All doses were administered by a physician or suitably qualified designee and were separated by 28 ± 2 days.
 In addition to study medication, all subjects received manual-guided psychosocial support at least once a week (Individual Drug Counseling = IDC).
 
-Prior to the first dose, treatment was initiated with SUBOXONE ®(buprenorphine/naloxone) sublingual film (SUBOXONE SL Film); doses were adjusted from 8/2 mg to 24/6 mg per day over a period of 7-14 days.
+Prior to the first dose, treatment was initiated with SUBOXONE ® (buprenorphine/naloxone) sublingual film (SUBOXONE SL Film); doses were adjusted from 8/2 mg to 24/6 mg per day over a period of 7-14 days.
 Patients were randomized to SUBLOCADE injection or placebo after cravings and withdrawal symptoms were clinically controlled.
 After randomization, supplemental dosing with SUBOXONE SL Film was not permitted during the study.
 
@@ -47,7 +47,7 @@ Patient demographics and baseline characteristics are provided in Table 8.
 
 Table 8 Patient Demographics and Baseline Characteristics
 
-|  | SUBLOCADE 300/100 mg % | SUBLOCADE 300/300 mg % | Placebo % |
+|  | SUBLOCADE 300/100 mg % (N = 194) | SUBLOCADE 300/300 mg % (N = 196) | Placebo % (N = 99) |
 | --- | --- | --- | --- |
 | Mean Age (years) | 40.4 | 39.3 | 39.2 |
 | Sex |  |  |  |
@@ -73,7 +73,7 @@ Table 8 Patient Demographics and Baseline Characteristics
 Based on the cumulative distribution function (CDF) of the percentage of urine samples negative for illicit opioids combined with self-reports negative for illicit opioid use collected from Week 5 through Week 24 (Table 9), regardless of dose, SUBLOCADE was superior to the placebo group with statistical significance.
 The proportion of patients achieving treatment success (defined as patients with ≥ 80% opioid-free weeks) was statistically significantly higher in both groups receiving SUBLOCADE compared to the placebo group (28.4% [300 mg/100 mg], 29.1% [300 mg/300mg], 2% [placebo]).
 
-For various percentages of opioid-free weeks, Table 9shows the fraction of patients achieving that criterion.
+For various percentages of opioid-free weeks, Table 9 shows the fraction of patients achieving that criterion.
 The table is cumulative, so that a patient whose percent of opioid-free weeks is, for example, 50%, is also included at every level of opioid-free week percentage below 50%.
 Missing values and values after premature discontinuation were considered positive.
 
@@ -97,3 +97,18 @@ Table 9 Cumulative Distribution Function of Percentage of Opioid-Free Weeks
 | ≥ 80% | 55 (28.4) | 57 (29.1) | 2 (2.0) |
 | ≥ 90% | 41 (21.1) | 48 (24.5) | 2 (2.0) |
 | = 100% | 25 (13) | 23 (12) | 1 (1.0) |
+
+## 14.3 Rapid Induction Substudy INDV-6000-401, NCT04995029
+
+Induction on SUBLOCADE following a single dose of 4 mg transmucosal buprenorphine was compared to standard induction (minimum of 7 days of transmucosal buprenorphine) based on data from 723 treatment-seeking patients with moderate to severe OUD and high-risk opioid use.
+High-risk opioid use was defined as using five or more days per week either via IV injection, high doses (at least 500 mg IV heroin equivalent), or potent synthetic opioids (e.g., fentanyl).
+At induction, 77.5% of patients were fentanyl positive by urine drug screen (UDS).
+
+In this open-label study, patients were randomized at a 2:1 ratio to SUBLOCADE rapid induction or standard induction and stratified according to the same-day UDS result for fentanyl due to the potential for fentanyl use to impact the response to induction.
+For rapid induction, patients were observed at a minimum of 1 hour after receiving a single dose of 4 mg transmucosal buprenorphine to confirm tolerability before administering the first injection of 300 mg SUBLOCADE.
+On induction day, up to an additional 8 mg of transmucosal buprenorphine could be administered to manage withdrawal symptoms.
+In both treatment groups, the second 300 mg injection was administered at 1 week after the first SUBLOCADE injection and subsequent injections were scheduled every 4 weeks.
+
+Rapid induction was effective, shown by the primary endpoint of participant retention at the second injection.
+The proportion of participants who received the second injection was 66.4% in the rapid induction arm and 54.5% in the standard induction arm; the estimated retention rate difference (rapid induction minus standard induction) in the overall population was 11.8% with a lower bound of multiplicity adjusted two-sided 95% confidence interval greater than the pre-specified non-inferiority margin of -10%.
+This demonstrated non-inferiority of rapid induction to standard induction.

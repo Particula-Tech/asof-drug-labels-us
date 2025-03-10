@@ -146,8 +146,8 @@ A history of hypersensitivity to buprenorphine is a contraindication to the use 
 
 ## 5.12 Precipitation of Opioid Withdrawal in Patients Dependent on Full Agonist Opioids
 
-Because of the partial opioid agonist properties of buprenorphine, buprenorphine may precipitate opioid withdrawal signs and symptoms in persons who are currently physically dependent on full opioid agonists such as heroin, morphine, or methadone before the effects of the full opioid agonist have subsided.
-Verify that patients have tolerated and are dose adjusted on transmucosal buprenorphine before subcutaneously injecting SUBLOCADE.
+Because of the partial opioid agonist properties of buprenorphine, buprenorphine may precipitate opioid withdrawal signs and symptoms in persons who are currently physically dependent on full opioid agonists if administered before the effects of the full opioid agonist have subsided, at least 6 hours for short-acting opioids (e.g., heroin, morphine) and 24 hours for long-acting opioids (e.g., methadone).
+Verify that patients have tolerated transmucosal buprenorphine before administering the first injection of SUBLOCADE.
 
 ## 5.13 Risks Associated With Treatment of Emergent Acute Pain
 

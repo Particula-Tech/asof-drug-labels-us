@@ -104,9 +104,11 @@ Tell your patients to seek emergency attention if they have signs or symptoms of
 
 Tell your patients not to tamper with or try to remove their depot [see Dosage and Administration (2.7)].
 
-© 2023, Indivior UK Limited.
+© 2025, Indivior UK Limited.
 All Rights Reserved.
 
-SUBLOCADE ®and SUBOXONE ® are registered trademarks of Indivior UK Limited.
+SUBLOCADE® is a registered trademark of Indivior UK Limited.
+
+All third-party trademarks used herein are registered trademarks of their respective owners.
 
 Manufactured for Indivior Inc., North Chesterfield VA, 23235
