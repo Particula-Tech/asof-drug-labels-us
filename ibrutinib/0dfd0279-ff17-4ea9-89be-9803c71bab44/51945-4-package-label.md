@@ -84,22 +84,6 @@ pharmacyclics® An AbbVie Company
 
 janssen
 
-PRINCIPAL DISPLAY PANEL - 28 Tablet Blister Carton
-
-NDC 57962-560-28
-
-Imbruvica® (ibrutinib) tablets
-
-560 mg per tablet
-
-Each tablet contains ibrutinib 560 mg Wallet card contains 28 tablets
-
-Rx Only
-
-pharmacyclics® An AbbVie Company
-
-janssen
-
 PRINCIPAL DISPLAY PANEL
 
 NDC 57962-007-12
