@@ -45,7 +45,7 @@ Dosing for Children
 | --- | --- | --- | --- | --- |
 | Children 2 to 12 years of age | 12.5 mg/kg | 15 mg/kg | 15 mg/kg (up to 750 mg) | 75 mg/kg in 24 hours (up to 3,750 mg) |
 
-## 2.4 Recommended Dosage For Treatment of Fever in Neonates and Infants
+## 2.4 Recommended Dosage for Treatment of Fever in Neonates and Infants
 
 Neonates, including premature neonates born at greater than or equal to 32 weeks gestational age, up to 28 days chronological age: the recommended dosage of Acetaminophen Injection is 12.5 mg/kg every 6 hours, to a maximum daily dose of acetaminophen of 50 mg/kg per day, with a minimum dosing interval of 6 hours.
 

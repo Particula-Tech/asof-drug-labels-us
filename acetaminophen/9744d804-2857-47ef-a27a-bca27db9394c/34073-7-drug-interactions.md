@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Effects of other Substances on Acetaminophen
+## 7.1 Effects of Other Substances on Acetaminophen
 
 Substances that induce or regulate hepatic cytochrome enzyme CYP2E1 may alter the metabolism of acetaminophen and increase its hepatotoxic potential.
 The clinical consequences of these effects have not been established.
