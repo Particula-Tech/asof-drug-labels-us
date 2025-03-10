@@ -59,31 +59,31 @@ Event frequencies are calculated as the number of patients who used MIGRANAL (di
 All reported events are included except those already listed in the previous table, those too general to be informative, and those not reasonably associated with the use of the drug.
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are defined as those occurring in at least 1/100 patients; infrequent adverse events are those occurring in 1/100 to 1/1,000 patients; and rare adverse events are those occurring in fewer than 1/1,000 patients.
 
-Skin and Appendages: Infrequent: petechia, pruritus, rash, cold clammy skin; Rare: papular rash, urticaria, herpes simplex.
+Skin and Appendages:Infrequent: petechia, pruritus, rash, cold clammy skin; Rare: papular rash, urticaria, herpes simplex.
 
-Musculoskeletal: Infrequent: cramps, myalgia, muscular weakness, dystonia; Rare: arthralgia, involuntary muscle contractions, rigidity.
+Musculoskeletal:Infrequent: cramps, myalgia, muscular weakness, dystonia; Rare: arthralgia, involuntary muscle contractions, rigidity.
 
-Central and Peripheral Nervous System: Infrequent: confusion, tremor, hypoesthesia, vertigo; Rare: speech disorder, hyperkinesia, stupor, abnormal gait, aggravated migraine.
+Central and Peripheral Nervous System:Infrequent: confusion, tremor, hypoesthesia, vertigo; Rare: speech disorder, hyperkinesia, stupor, abnormal gait, aggravated migraine.
 
-Autonomic Nervous System: Infrequent: increased sweating.
+Autonomic Nervous System: Infrequent:increased sweating.
 
-Special Senses: Infrequent: sense of smell altered, photophobia, conjunctivitis, abnormal lacrimation, abnormal vision, tinnitus, earache; Rare: eye pain.
+Special Senses:Infrequent: sense of smell altered, photophobia, conjunctivitis, abnormal lacrimation, abnormal vision, tinnitus, earache; Rare:eye pain.
 
-Psychiatric: Infrequent: nervousness, euphoria, insomnia, concentration impaired; Rare: anxiety, anorexia, depression.
+Psychiatric:Infrequent: nervousness, euphoria, insomnia, concentration impaired; Rare: anxiety, anorexia, depression.
 
-Gastrointestinal: Infrequent: abdominal pain, dyspepsia, dysphagia, hiccup; Rare: increased salivation, esophagospasm.
+Gastrointestinal:Infrequent: abdominal pain, dyspepsia, dysphagia, hiccup; Rare: increased salivation, esophagospasm.
 
-Cardiovascular: Infrequent: edema, palpitation, tachycardia; Rare: hypotension, peripheral ischemia, angina.
+Cardiovascular:Infrequent: edema, palpitation, tachycardia; Rare:hypotension, peripheral ischemia, angina.
 
-Respiratory System: Infrequent: dyspnea, upper respiratory tract infections; Rare: bronchospasm, bronchitis, pleural pain, epistaxis.
+Respiratory System:Infrequent: dyspnea, upper respiratory tract infections; Rare: bronchospasm, bronchitis, pleural pain, epistaxis.
 
-Urinary System: Infrequent: increased frequency of micturition, cystitis.
+Urinary System:Infrequent: increased frequency of micturition, cystitis.
 
-Reproductive, Female: Rare: pelvic inflammation, vaginitis.
+Reproductive, Female:Rare: pelvic inflammation, vaginitis.
 
-Body as a Whole - General: Infrequent: feeling cold, malaise, rigors, fever, periorbital edema; Rare: flu-like symptoms, shock, loss of voice, yawning.
+Body as a Whole -General: Infrequent:feeling cold, malaise, rigors, fever, periorbital edema; Rare: flu-like symptoms, shock, loss of voice, yawning.
 
-Application Site: Infrequent: local anesthesia.
+Application Site:Infrequent: local anesthesia.
 
 ## Post-introduction Reports
 

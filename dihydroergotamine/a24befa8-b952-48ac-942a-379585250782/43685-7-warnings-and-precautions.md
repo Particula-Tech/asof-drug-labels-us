@@ -62,7 +62,7 @@ In patients with compromised circulation, persistent vasospasm may result in gan
 Significant elevation in blood pressure has been reported on rare occasions in patients with and without a history of hypertension treated with MIGRANAL (dihydroergotamine mesylate) Nasal Spray and dihydroergotamine mesylate injection.
 MIGRANAL (dihydroergotamine mesylate) Nasal Spray is contraindicated in patients with uncontrolled hypertension (see CONTRAINDICATIONS).
 
-An 18% increase in mean pulmonary artery pressure was seen following dosing with another 5HT1 agonist in a study evaluating subjects undergoing cardiac catheterization.
+An 18% increase in mean pulmonary artery pressure was seen following dosing with another 5HT 1agonist in a study evaluating subjects undergoing cardiac catheterization.
 
 ## Local Irritation
 
@@ -73,7 +73,7 @@ In approximately 70% of the above mentioned cases, the symptoms resolved within 
 Examinations of the nose and throat in a small subset (N = 66) of study participants treated for up to 36 months (range 1-36 months) did not reveal any clinically noticeable injury.
 Other than this limited number of patients, the consequences of extended and repeated use of MIGRANAL (dihydroergotamine mesylate) Nasal Spray on the nasal and/or respiratory mucosa have not been systematically evaluated in patients.
 
-Nasal tissue in animals treated with dihydroergotamine mesylate daily at nasal cavity surface area exposures (in mg/mm2) that were equal to or less than those achieved in humans receiving the maximum recommended daily dose of 0.08 mg/kg/day showed mild mucosal irritation characterized by mucous cell and transitional cell hyperplasia and squamous cell metaplasia.
+Nasal tissue in animals treated with dihydroergotamine mesylate daily at nasal cavity surface area exposures (in mg/mm 2) that were equal to or less than those achieved in humans receiving the maximum recommended daily dose of 0.08 mg/kg/day showed mild mucosal irritation characterized by mucous cell and transitional cell hyperplasia and squamous cell metaplasia.
 Changes in rat nasal mucosa at 64 weeks were less severe than at 13 weeks.
 Local effects on respiratory tissue after chronic intranasal dosing in animals have not been evaluated.
 
@@ -133,11 +133,11 @@ Nicotine may provoke vasoconstriction in some patients, predisposing to a greate
 
 ### CYP 3A4 Inhibitors (e.g., Macrolide Antibiotics and Protease Inhibitors)
 
-See CONTRAINDICATIONS and WARNINGS.
+See CONTRAINDICATIONSand WARNINGS.
 
 ### SSRI’s
 
-Weakness, hyperreflexia, and incoordination have been reported rarely when 5HT1 agonists have been coadministered with SSRI’s (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
+Weakness, hyperreflexia, and incoordination have been reported rarely when 5HT 1agonists have been coadministered with SSRI’s (e.g., fluoxetine, fluvoxamine, paroxetine, sertraline).
 There have been no reported cases from spontaneous reports of drug interaction between SSRI’s and MIGRANAL (dihydroergotamine mesylate) Nasal Spray or D.H.E.
 45.
 
