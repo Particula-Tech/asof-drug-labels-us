@@ -25,4 +25,4 @@ Distributed by: Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-May 2023 PIN347-WES/3
+October 2024 PIN347-WES/4
