@@ -40,8 +40,6 @@ Manufactured by: National Pharmaceutical Industries Oman
 
 Distributed by: Bionpharma Inc. Princeton, NJ 08540
 
-Revised: March 2023
-
-FDA-06
+Revised: March 2024 FDA-07
 
 NCAL003 R00

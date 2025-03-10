@@ -182,8 +182,8 @@ Manufactured by: National Pharmaceutical Industries Oman
 
 Distributed by: Bionpharma Inc. Princeton, NJ 08540
 
-Revised: March 2023
+Revised: March 2024
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-FDA-06
+FDA-07
