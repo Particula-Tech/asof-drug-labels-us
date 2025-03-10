@@ -3,10 +3,10 @@
 ## 5.1 Acute Kidney Injury, Including Acute Renal Failure Requiring Dialysis, and Renal Tubular Toxicity Including Fanconi Syndrome
 
 Deferasirox is contraindicated in patients with eGFR less than 40 mL/min/1.73 m 2.
-Exercise caution in pediatric patients with eGFR between 40 and 60 mL/minute/1.73 m 2.
+Exercise caution in pediatric patients with eGFR between 40 mL/minute/1.73 m 2and 60 mL/minute/1.73 m 2.
 If treatment is needed, use the minimum effective dose and monitor renal function frequently.
 Individualize dose titration based on improvement in renal injury [see Use in Specific Populations (8.6)].
-For patients with renal impairment (eGFR 40–60 mL/min/1.73 m 2), reduce the starting dose by 50% [see Dosage and Administration (2.4, 2.5), Use in Specific Populations (8.6)].
+For patients with renal impairment (eGFR 40 mL/min/1.73 m 2 to 60 mL/min/1.73 m 2), reduce the starting dose by 50% [see Dosage and Administration (2.4, 2.5), Use in Specific Populations (8.6)].
 
 Deferasirox can cause acute kidney injury including renal failure requiring dialysis that has resulted in fatal outcomes.
 Based on postmarketing experience, most fatalities have occurred in patients with multiple comorbidities and who were in advanced stages of their hematological disorders.
@@ -28,7 +28,7 @@ Use the minimum dose to establish and maintain a low iron burden.
 Monitor renal function more frequently in patients with preexisting renal disease or decreased renal function.
 In pediatric patients, interrupt deferasirox during acute illnesses, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake, and monitor renal function more frequently.
 Promptly correct fluid deficits to prevent renal injury.
-Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal [see Dosage and Administration (2.5), Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Specific Populations (8.4)].
+Resume therapy as appropriate, based on assessments of renal function, when oral intake and volume status are normal [see Dosage and Administration (2.5), Warnings and Precautions (5.6), Adverse Reactions (6.1, 6.2), Use in Specific Populations(8.4)].
 
 ## 5.2 Hepatic Toxicity and Failure
 
@@ -39,7 +39,7 @@ Hepatic failure was more common in patients with significant comorbidities, incl
 Acute liver injury and failure, including fatal outcomes, have occurred in pediatric deferasirox-treated patients.
 Liver failure occurred in association with acute kidney injury in pediatric patients at risk for overchelation during a volume depleting event.
 Interrupt deferasirox therapy when acute liver injury or acute kidney injury is suspected and during volume depletion.
-Monitor liver and renal function more frequently in pediatric patients who are receiving deferasirox in the 20 mg to 40 mg/kg/day range and when iron burden is approaching normal.
+Monitor liver and renal function more frequently in pediatric patients who are receiving deferasirox in the 20 mg/kg/day to 40 mg/kg/day range and when iron burden is approaching normal.
 Use the minimum effective dose to achieve and maintain a low iron burden [see Dosage and Administration (2.5), Warnings and Precautions (5.6), Adverse Reactions (6.1)].
 
 Measure transaminases [aspartate transaminase (AST) and alanine transaminase (ALT)] and bilirubin in all patients before the initiation of treatment, and every 2 weeks during the first month and at least monthly thereafter.
@@ -91,7 +91,7 @@ If the serum ferritin falls below 1,000 mcg/L at 2 consecutive visits, consider 
 If the serum ferritin falls below 500 mcg/L, interrupt therapy with deferasirox and continue monthly monitoring.
 Evaluate the need for ongoing chelation for patients whose conditions do not require regular blood transfusions.
 Use the minimum effective dose to maintain iron burden in the target range.
-Continued administration of deferasirox in the 20 mg to 40 mg/kg/day range when the body iron burden is approaching or within the normal range has resulted in life-threatening adverse reactions [see Dosage and Administration (2.1)].
+Continued administration of deferasirox in the 20 mg/kg/day to 40 mg/kg/day range when the body iron burden is approaching or within the normal range has resulted in life-threatening adverse reactions [see Dosage and Administration (2.1)].
 
 For patients with NTDT, measure LIC by liver biopsy or by using an FDA-cleared or approved method for monitoring patients receiving deferasirox therapy every 6 months on treatment.
 Interrupt deferasirox administration when the LIC is less than 3 mg Fe/g dw.

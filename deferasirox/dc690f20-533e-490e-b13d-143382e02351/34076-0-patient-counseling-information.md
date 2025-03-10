@@ -77,11 +77,8 @@ Caution patients experiencing dizziness to avoid driving or operating machinery 
 
 Distributed by:
 
-Bionpharma Inc. 600 Alexander Road, Princeton, NJ 08540
+Bionpharma Inc. Princeton, NJ 08540
 
-Manufactured by: Bluepharma - Indústria Farmacêutica, S.A.
-Rua Da Bayer, Sao Martinho do Bispo Coimbra 3045-016, Portugal
+July 2023
 
-February 2021
-
-FDA-10
+FDA-12

@@ -23,9 +23,9 @@ Calculate doses (mg per kg per day) to the nearest whole tablet.
 
 During Therapy:
 
-- Monitor serum ferritin monthly and adjust the dose of deferasirox tablets for oral suspension, if necessary, every 3 to 6 months based on serum ferritin trends.
+- Monitor serum ferritin monthly and adjust the dose of deferasirox tablets for oral suspension, if necessary, every 3 months to 6 months based on serum ferritin trends.
 - Use the minimum effective dose to achieve a trend of decreasing ferritin.
-- Make dose adjustments in steps of 5 or 10 mg per kg and tailor adjustments to the individual patient’s response and therapeutic goals.
+- Make dose adjustments in steps of 5 mg per kg or 10 mg per kg and tailor adjustments to the individual patient’s response and therapeutic goals.
 - In patients not adequately controlled with doses of 30 mg per kg (e.g., serum ferritin levels persistently above 2,500 mcg/L and not showing a decreasing trend over time), doses of up to 40 mg per kg may be considered.
   Doses above 40 mg per kg are not recommended [see Warnings and Precautions (5.6)].
 - Adjust dose based on serum ferritin levels
@@ -55,7 +55,7 @@ Prior to starting therapy, obtain:
 
 Initiating Therapy:
 
-- The recommended initial dose of deferasirox tablets for oral suspension for patients with eGFR greater than 60 mL/min/1.73 m 2 is 10 mg per kg body weight orally once daily.
+- The recommended initial dose of deferasirox tablets for oral suspension for patients with eGFR greater than 60 mL/min/1.73 m 2is 10 mg per kg body weight orally once daily.
   Calculate doses (mg per kg per day) to the nearest whole tablet.
 - If the baseline LIC is greater than 15 mg Fe/g dw, consider increasing the dose to 20 mg/kg/day after 4 weeks.
 
@@ -67,7 +67,7 @@ During Therapy:
 - Monitor LIC every 6 months.
 - After 6 months of therapy, if the LIC remains greater than 7 mg Fe/g dw, increase the dose of deferasirox to a maximum of 20 mg/kg/day.
   Do not exceed a maximum of 20 mg/kg/day.
-- If after 6 months of therapy, the LIC is 3 to 7 mg Fe/g dw, continue treatment with deferasirox at no more than 10 mg/kg/day.
+- If after 6 months of therapy, the LIC is 3 mg Fe/g dw to 7 mg Fe/g dw, continue treatment with deferasirox at no more than 10 mg/kg/day.
 - When the LIC is less than 3 mg Fe/g dw, interrupt treatment with deferasirox and continue to monitor the LIC.
 - Monitor blood counts, liver function, renal function and ferritin monthly [see Warnings and Precautions (5.1, 5.2, 5.4)].
 - Increase monitoring frequency for pediatric patients who have acute illness, which can cause volume depletion, such as vomiting, diarrhea, or prolonged decreased oral intake.
@@ -85,7 +85,7 @@ Disperse doses of less than 1 g in 3.5 ounces of liquid and doses of 1 g or grea
 After swallowing the suspension, resuspend any residue in a small volume of liquid and swallow.
 Do not take deferasirox tablets for oral suspension with aluminum-containing antacid products [see Drug Interactions (7.1)].
 
-## 2.4 Use in Patients With Baseline Hepatic or Renal Impairment
+## 2.4 Use in Patients with Baseline Hepatic or Renal Impairment
 
 Patients with Baseline Hepatic Impairment
 
@@ -97,11 +97,11 @@ Severe (Child-Pugh C) Hepatic Impairment: Avoid deferasirox tablets for oral sus
 
 Patients with Baseline Renal Impairment
 
-Do not use deferasirox tablets for oral suspension in adult or pediatric patients with eGFR less than 40 mL/min/1.73 m 2 [see Dosage and Administration (2.5), Contraindications (4)].
+Do not use deferasirox tablets for oral suspension in adult or pediatric patients with eGFR less than 40 mL/min/1.73 m 2[see Dosage and Administration (2.5), Contraindications (4)].
 
-For patients with renal impairment (eGFR 40–60 mL/min/1.73 m 2), reduce the starting dose by 50% [see Use in Specific Populations (8.6)].
+For patients with renal impairment (eGFR 40 mL/min/1.73 m 2to 60 mL/min/1.73 m 2), reduce the starting dose by 50% [see Use in Specific Populations (8.6)].
 
-Exercise caution in pediatric patients with eGFR between 40 and 60 mL/min/1.73 m 2.
+Exercise caution in pediatric patients with eGFR between 40 mL/min/1.73 m 2and 60 mL/min/1.73 m 2.
 If treatment is needed, use the minimum effective dose and monitor renal function frequently.
 Individualize dose titration based on improvement in renal injury [see Use in Specific Populations (8.6)].
 
@@ -137,7 +137,7 @@ Non-Transfusion-Dependent Thalassemia Syndromes
 
 Adults:
 
-- If the serum creatinine increases by 33% or more above the average baseline measurement, repeat the serum creatinine within 1 week, and if still elevated by 33% or more, interrupt therapy if the dose is 5 mg per kg, or reduce by 50% if the dose is 10 or 20 mg per kg.
+- If the serum creatinine increases by 33% or more above the average baseline measurement, repeat the serum creatinine within 1 week, and if still elevated by 33% or more, interrupt therapy if the dose is 5 mg per kg, or reduce by 50% if the dose is 10 mg per kg or 20 mg per kg.
 
 Pediatric Patients (ages 10 years to 17 years):
 
@@ -153,7 +153,7 @@ Pediatric Patients (ages 10 years to 17 years):
 
 All Patients (regardless of age):
 
-- Discontinue therapy for eGFR less than 40 mL/min/1.73 m 2 [see Contraindications (4)].
+- Discontinue therapy for eGFR less than 40 mL/min/1.73 m 2[see Contraindications (4)].
 
 ## 2.6 Dose Modifications Based on Concomitant Medications
 

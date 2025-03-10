@@ -6,8 +6,8 @@ Risk Summary
 
 There are no studies with the use of deferasirox in pregnant women to inform drug-associated risks.
 
-Administration of deferasirox to rats during pregnancy resulted in decreased offspring viability and an increase in renal anomalies in male offspring at doses that were about or less than the recommended human dose on a mg/m 2 basis.
-No fetal effects were noted in pregnant rabbits at doses equivalent to the human recommended dose on a mg/m 2 basis.
+Administration of deferasirox to rats during pregnancy resulted in decreased offspring viability and an increase in renal anomalies in male offspring at doses that were about or less than the recommended human dose on a mg/m 2basis.
+No fetal effects were noted in pregnant rabbits at doses equivalent to the human recommended dose on a mg/m 2basis.
 Deferasirox should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -18,11 +18,11 @@ Data
 
 Animal Data
 
-In embryo-fetal developmental studies, pregnant rats and rabbits received oral deferasirox during the period of organogenesis at doses up to 100 mg/kg/day in rats and 50 mg/kg/day in rabbits (1.2 times the maximum recommended human dose (MRHD) on a mg/m 2 basis).
+In embryo-fetal developmental studies, pregnant rats and rabbits received oral deferasirox during the period of organogenesis at doses up to 100 mg/kg/day in rats and 50 mg/kg/day in rabbits (1.2 times the maximum recommended human dose (MRHD) on a mg/m 2basis).
 These doses resulted in maternal toxicity but no fetal harm was observed.
 
-In a prenatal and postnatal developmental study, pregnant rats received oral deferasirox daily from organogenesis through lactation day 20 at doses of 10, 30, and 90 mg/kg/day (0.1, 0.3, and 1.0 times the MRHD on a mg/m 2 basis).
-Maternal toxicity, loss of litters, and decreased offspring viability occurred at 90 mg/kg/day (1.0 times the MRHD on a mg/m 2 basis) and increases in renal anomalies in male offspring occurred at 30 mg/kg/day (0.3 times the MRHD on a mg/m 2 basis).
+In a prenatal and postnatal developmental study, pregnant rats received oral deferasirox daily from organogenesis through lactation day 20 at doses of 10 mg/kg/day, 30 mg/kg/day, and 90 mg/kg/day (0.1 times, 0.3 times, and 1.0 times the MRHD on a mg/m 2basis).
+Maternal toxicity, loss of litters, and decreased offspring viability occurred at 90 mg/kg/day (1.0 times the MRHD on a mg/m 2basis) and increases in renal anomalies in male offspring occurred at 30 mg/kg/day (0.3 times the MRHD on a mg/m 2basis).
 
 ## 8.2 Lactation
 
@@ -47,8 +47,10 @@ The safety and effectiveness of deferasirox have been established in pediatric p
 Safety and effectiveness have not been established in pediatric patients less than 2 years of age for the treatment of transfusional iron overload.
 
 Pediatric approval for treatment of transfusional iron overload was based on clinical studies of 292 pediatric patients 2 years to less than 16 years of age with various congenital and acquired anemias.
-Seventy percent of these patients had beta-thalassemia [see Indications and Usage (1), Dosage and Administration (2.1), Clinical Studies (14)].
-In those clinical studies, 173 children (ages 2 to < 12 years) and 119 adolescents (ages 12 to < 17 years) were exposed to deferasirox.
+Seventy percent of these patients had beta-thalassemia [seeIndications and Usage (1), Dosage and Administration (2.1), Clinical Studies (14)].
+In those clinical studies, 173 children (ages 2 years to < 12 years) and 119 adolescents (ages 12 years to < 17 years) were exposed to deferasirox.
+
+A trial conducted in treatment-naïve pediatric patients, 2 years to < 18 years of age with transfusional iron overload (NCT02435212) did not provide additional relevant information about the safety or effectiveness of the deferasirox granules dosage form compared to the deferasirox oral tablets for suspension dosage form.
 
 Iron Overload in Non-Transfusion-Dependent Thalassemia Syndromes
 
@@ -81,29 +83,26 @@ Juvenile Animal Toxicity Data
 
 Renal toxicity was observed in adult mice, rats, and marmoset monkeys administered deferasirox at therapeutic doses.
 In a neonatal and juvenile toxicity study in rats, deferasirox was administered orally from postpartum Day 7 through 70, which equates to a human age range of term neonate through adolescence.
-Increased renal toxicity was identified in juvenile rats compared to adult rats at a dose based on mg/m 2 approximately 0.4 times the recommended dose of 20 mg/kg/day.
+Increased renal toxicity was identified in juvenile rats compared to adult rats at a dose based on mg/m 2approximately 0.4 times the recommended dose of 20 mg/kg/day.
 A higher frequency of renal abnormalities was noted when deferasirox was administered to non-iron overloaded animals compared to iron overloaded animals.
-
-Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s EXJADE ® (deferasirox) tablets for oral suspension.
-However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
 Four hundred thirty-one (431) patients greater than or equal to 65 years of age were studied in clinical trials of deferasirox in the transfusional iron overload setting.
-Two hundred twenty-five (225) of these patients were between 65 and 75 years of age while 206 were greater than or equal to 75 years of age.
+Two hundred twenty-five (225) of these patients were between 65 years and 75 years of age while 206 were greater than or equal to 75 years of age.
 The majority of these patients had myelodysplastic syndrome (MDS) (n = 393).
 In these trials, elderly patients experienced a higher frequency of adverse reactions than younger patients.
 Monitor elderly patients for early signs or symptoms of adverse reactions that may require a dose adjustment.
 Elderly patients are at increased risk for toxicity due to the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 Dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range.
 
-In elderly patients, including those with MDS, individualize the decision to remove accumulated iron based on clinical circumstances and the anticipated clinical benefit and risks of deferasirox therapy.
+In elderly patients, including those with MDS, individualize the decision to remove accumulated iron based on clinical circumstances and the anticipated clinical benefit and risks of deferasirox tablets for oral suspension therapy.
 
 ## 8.6 Renal Impairment
 
-Deferasirox is contraindicated in patients with eGFR less than 40 mL/min/1.73 m 2 [see Contraindications (4)].
-For patients with renal impairment (eGFR 40–60 mL/min/1.73 m 2), reduce the starting dose by 50% [see Dosage and Administration (2.4)].
-Exercise caution in pediatric patients with eGFR between 40 and 60 mL/min/1.73 m 2 [see Dosage and Administration (2.4)].
+Deferasirox is contraindicated in patients with eGFR less than 40 mL/min/1.73 m 2[see Contraindications (4)].
+For patients with renal impairment (eGFR 40mL/min/1.73 m 2to 60 mL/min/1.73 m 2), reduce the starting dose by 50% [see Dosage and Administration (2.4)].
+Exercise caution in pediatric patients with eGFR between 40 mL/min/1.73 m 2to and 60 mL/min/1.73 m 2[see Dosage and Administration (2.4)].
 If treatment is needed, use the minimum effective dose with enhanced monitoring of glomerular and renal tubular function.
 Individualize dose titration based on improvement in renal injury [see Dosage and Administration (2.4, 2.5)].
 
