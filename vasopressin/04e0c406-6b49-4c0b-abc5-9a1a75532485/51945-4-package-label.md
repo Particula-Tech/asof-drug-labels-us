@@ -2,9 +2,7 @@ PACKAGE LABEL- PRINCIPAL DISPLAY PANEL- VASOPRESSIN INJECTION 20 Unit Tray Label
 
 NDC 63323-930-01 Rx Only
 
-Vasopressin
-
-Injection, USP
+Vasopressin Injection, USP
 
 20 Units per mL
 
@@ -23,9 +21,7 @@ PACKAGE LABEL- PRINCIPAL DISPLAY PANEL- VASOPRESSIN INJECTION 20 Unit Vial Label
 
 NDC 63323-930-00 930101
 
-Vasopressin
-
-Injection, USP
+Vasopressin Injection, USP
 
 20 Units per mL
 
