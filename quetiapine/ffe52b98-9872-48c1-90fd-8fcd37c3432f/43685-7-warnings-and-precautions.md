@@ -23,7 +23,7 @@ There was considerable variation in risk of suicidality among drugs, but a tende
 There were differences in absolute risk of suicidality across the different indications, with the highest incidence in MDD.
 The risk differences (drug vs. placebo), however, were relatively stable within age strata and across indications.
 These risk differences (drug-placebo difference in the number of cases of suicidality per 1,000 patients treated) are provided in Table 2.
-Table 2 Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated
+Table 2: Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated
 
 | Age Range | Drug-Placebo Difference in Number of Cases of Suicidality per 1,000 Patients Treated |
 | --- | --- |
@@ -99,18 +99,16 @@ Adults: Table 3: Fasting Glucose—Proportion of Patients Shifting to ≥126 mg/
 In a 24-week trial (active-controlled, 115 patients treated with quetiapine) designed to evaluate glycemic status with oral glucose tolerance testing of all patients, at Week 24 the incidence of a post-glucose challenge glucose level ≥200 mg/dL was 1.7% and the incidence of a fasting blood glucose level ≥126 mg/dL was 2.6%.
 The mean change in fasting glucose from baseline was 3.2 mg/dL and mean change in 2-hour glucose from baseline was -1.8 mg/dL for quetiapine.
 
-In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar I disorder maintenance, mean exposure of 213 days for quetiapine (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5.0 mg/dL for quetiapine and –0.05 mg/dL for placebo.
+In 2 long-term placebo-controlled randomized withdrawal clinical trials for bipolar I disorder maintenance, mean exposure of 213 days for quetiapine (646 patients) and 152 days for placebo (680 patients), the mean change in glucose from baseline was +5 mg/dL for quetiapine and –0.05 mg/dL for placebo.
 The exposure-adjusted rate of any increased blood glucose level (≥126 mg/dL) for patients more than 8 hours since a meal (however, some patients may not have been precluded from calorie intake from fluids during fasting period) was 18.0 per 100 patient years for quetiapine (10.7% of patients; n=556) and 9.5 for placebo per 100 patient years (4.6% of patients; n=581).
 
-Children and Adolescents:
-
-In a placebo-controlled quetiapine monotherapy study of adolescent patients (13 to 17 years of age) with schizophrenia (6 weeks duration), the mean change in fasting glucose levels for quetiapine (n=138) compared to placebo (n=67) was –0.75 mg/dL versus –1.70 mg/dL.
+Children and Adolescents: In a placebo-controlled quetiapine monotherapy study of adolescent patients (13 to 17 years of age) with schizophrenia (6 weeks duration), the mean change in fasting glucose levels for quetiapine (n=138) compared to placebo (n=67) was –0.75 mg/dL versus –1.70 mg/dL.
 In a placebo-controlled quetiapine monotherapy study of children and adolescent patients (10 to 17 years of age) with bipolar mania (3 weeks duration), the mean change in fasting glucose level for quetiapine (n=170) compared to placebo (n=81) was 3.62 mg/dL versus –1.17 mg/dL.
 No patient in either study with a baseline normal fasting glucose level (<100 mg/dL) or a baseline borderline fasting glucose level (≥100 mg/dL and <126 mg/dL) had a blood glucose level of ≥126 mg/dL.
 
 In a placebo-controlled Seroquel XR* monotherapy study (8 weeks duration) of children and adolescent patients (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the mean change in fasting glucose levels for Seroquel XR* (n=60) compared to placebo (n=62) was 1.8 mg/dL versus 1.6 mg/dL.
 In this study, there were no patients in the Seroquel XR* or placebo-treated groups with a baseline normal fasting glucose level (<100 mg/dL) that had an increase in blood glucose level >126 mg/dL.
-There was one patient in the Seroquel XR* group with a baseline borderline fasting glucose level (>100 mg/dL) and (<126 mg/dL) who had an increase in blood glucose level of >126 mg/dL compared to zero patients in the placebo group.
+There was one patient in the Seroquel XR* group with a baseline borderline fasting glucose level (>100 mg/dL and <126 mg/dL) who had an increase in blood glucose level of >126 mg/dL compared to zero patients in the placebo group.
 
 Dyslipidemia
 
@@ -200,7 +198,7 @@ Table 7: Proportion of Patients with Weight Gain ≥7% of Body Weight (Children 
 | Bipolar Maniab | Quetiapine | 157 | 18 (12%) |  |
 | Placebo | 68 | 0 (0%) |  |  |
 
-a: 6 weeks duration b: 3 weeks duration The mean change in body weight in the schizophrenia trial was 2.0 kg in the quetiapine group and -0.4 kg in the placebo group and in the bipolar mania trial, it was 1.7 kg in the quetiapine group and 0.4 kg in the placebo group.
+a: 6 weeks duration b: 3 weeks duration The mean change in body weight in the schizophrenia trial was 2 kg in the quetiapine group and -0.4 kg in the placebo group and in the bipolar mania trial, it was 1.7 kg in the quetiapine group and 0.4 kg in the placebo group.
 
 In an open-label study that enrolled patients from the above two pediatric trials, 63% of patients (241/380) completed 26 weeks of therapy with quetiapine.
 After 26 weeks of treatment, the mean increase in body weight was 4.4 kg.
@@ -209,7 +207,6 @@ In order to adjust for normal growth over 26 weeks, an increase of at least 0.5 
 
 In a clinical trial for Seroquel XR* in children and adolescents (10 to 17 years of age) with bipolar depression, in which efficacy was not established, the percentage of patients with weight gain ≥7% of body weight at any time was 15% (14/92) for Seroquel XR* vs. 10% (10/100) for placebo.
 The mean change in body weight was 1.4 kg in the Seroquel XR* group vs. 0.6 kg in the placebo group.
-
 When treating pediatric patients with quetiapine tablets for any indication, weight gain should be assessed against that expected for normal growth.
 
 ## 5.6 Tardive Dyskinesia
@@ -334,9 +331,10 @@ Hyperprolactinemia, regardless of etiology, may suppress hypothalamic GnRH, resu
 This, in turn, may inhibit reproductive function by impairing gonadal steroidogenesis in both female and male patients.
 Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in patients receiving prolactin-elevating compounds.
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
+
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
-As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary, and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [see Nonclinical Toxicology (13.1)].
+As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary, and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## 5.16 Potential for Cognitive and Motor Impairment
 
@@ -362,7 +360,7 @@ Quetiapine and other antipsychotic drugs should be used cautiously in patients a
 ## 5.19 Discontinuation Syndrome
 
 Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been described after abrupt cessation of atypical antipsychotic drugs, including quetiapine.
-In short-term placebo-controlled, monotherapy clinical trials with Seroquel XR* that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1,993) for Seroquel XR* tablets and 6.7% (71/1,065) for placebo.
+In short-term placebo-controlled, monotherapy clinical trials with Seroquel XR* that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1,993) for Seroquel XR* and 6.7% (71/1,065) for placebo.
 The incidence of the individual adverse reactions (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness, and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1 week post-discontinuation.
 Gradual withdrawal is advised [see Use in Specific Populations (8.1)].
 

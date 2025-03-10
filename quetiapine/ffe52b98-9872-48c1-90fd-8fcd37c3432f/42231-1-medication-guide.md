@@ -1,6 +1,6 @@
 # Medication Guide
 
-Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products Quetiapine (kwe-TYE-a-peen) Tablets USP
+Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products Quetiapine (kwe-TYE-a-peen) Tablets, USP
 
 Read this Medication Guide before you start taking quetiapine tablets and each time you get a refill.
 There may be new information.
@@ -277,7 +277,7 @@ Manufactured by:
 
 Sun Pharmaceutical Industries Ltd.
 
-Survey No. 1012, Dadra-396 193, U.T. of D & NH and Daman & Diu, India
+Survey No. 1012, Dadra-396 193, U.T. of D & NH and Daman & Diu, India.
 
-ISS.
-10/2023 5246370
+Revised.
+03/2025

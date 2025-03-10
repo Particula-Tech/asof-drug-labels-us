@@ -11,7 +11,6 @@ The active metabolite, N-desalkyl quetiapine (norquetiapine), has similar activi
 Quetiapine and its metabolite, norquetiapine, have affinity for multiple neurotransmitter receptors with norquetiapine binding with higher affinity than quetiapine in general.
 The Ki values for quetiapine and norquetiapine at the dopamine D1 are 428/99.8 nM, at D2 626/489nM, at serotonin 5HT1A 1,040/191 nM at 5HT2A 38/2.9 nM, at histamine H1 4.4/1.1 nM, at muscarinic M1 1,086/38.3 nM, and at adrenergic α1b 14.6/46.4 nM and, at α2 receptors 617/1,290 nM, respectively.
 Quetiapine and norquetiapine lack appreciable affinity to the benzodiazepine receptors.
-
 Effect on QT Interval
 
 In clinical trials, quetiapine was not associated with a persistent increase in QT intervals.
@@ -85,12 +84,12 @@ Since quetiapine is extensively metabolized by the liver, higher plasma levels a
 Drug-Drug Interaction Studies
 
 The in vivo assessments of effect of other drugs on the pharmacokinetics of quetiapine are summarized in Table 17 [see Dosage and Administration (2.5 and 2.6) and Drug Interactions (7.1)].
-Table 17 The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
+Table 17: The Effect of Other Drugs on the Pharmacokinetics of Quetiapine
 
 | Coadministered Drug | Dose Schedules |  | Effect on Quetiapine Pharmacokinetics |
 | --- | --- | --- | --- |
 |  | Coadministered Drug | Quetiapine |  |
-| Phenytoin | 100 mg three times daily | 250 mg three times daily | 5-fold Increase in oral clearance |
+| Phenytoin | 100 mg three times daily | 250 mg three times daily | 5-fold increase in oral clearance |
 | Divalproex | 500 mg twice daily | 150 mg twice daily | 17% increase mean max plasma concentration at steady state. No effect on absorption or mean oral clearance |
 | Thioridazine | 200 mg twice daily | 300 mg twice daily | 65% increase in oral clearance |
 | Cimetidine | 400 mg three times daily for 4 days | 150 mg three times daily | 20% decrease in mean oral clearance |
