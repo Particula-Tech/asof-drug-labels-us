@@ -12,5 +12,5 @@
 | General information about the safe and effective use of itraconazole capsules. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use itraconazole capsules for a condition for which it was not prescribed. Do not give itraconazole capsules to other people, even if they have the same symptoms that you have. It may harm them. You can ask your doctor or pharmacist for information about itraconazole capsules that is written for health professionals. |
 | What are the ingredients in itraconazole capsules? Active ingredients: itraconazole (coated on sugar spheres composed of purified water, starch and sucrose) Inactive ingredients: D&C Red No. 22, D&C Red No. 28, FD&C Blue No. 1, gelatin, hydroxypropyl methylcellulose, polyethylene glycol, and titanium dioxide. The imprinting ink contains black iron oxide, potassium hydroxide, propylene glycol, and shellac. Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA For more information or call 1-866-210-9797. |
 
-This patient information has been approved by the U.S. Food and Drug Administration.
-Revised: 11/2024
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised: 12/2024

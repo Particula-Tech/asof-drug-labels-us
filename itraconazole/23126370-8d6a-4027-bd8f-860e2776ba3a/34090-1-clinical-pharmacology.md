@@ -26,7 +26,7 @@ When itraconazole capsules were administered as a single 200-mg dose under faste
 (See PRECAUTIONS: Drug Interactions.)
 
 Itraconazole exposure is lower with the Capsule formulation than with the Oral Solution when the same dose of drug is given.
-(See WARNINGS)
+(See WARNINGS.)
 
 Distribution
 
