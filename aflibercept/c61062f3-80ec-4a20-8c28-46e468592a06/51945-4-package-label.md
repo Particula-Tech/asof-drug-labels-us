@@ -2,9 +2,11 @@
 
 2 mg / 0.05 mL
 
+AMGEN®
+
 PAVBLU™ (aflibercept-ayyh) Injection
 
-NDC 55513-056-96 Not for Sale
+NDC 55513-056-01
 
 2 mg (0.05 mL of 40 mg/mL solution)
 
