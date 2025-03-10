@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Tetracycline-class drugs, including EMROSI, may cause permanent discoloration of deciduous teeth and reversible inhibition of bone growth when administered during the second and third trimesters of pregnancy [see Warnings and Precautions (5.2, 5.3)and Use in Specific Populations (8.4)].
+Tetracycline-class drugs, including EMROSI, may cause permanent discoloration of deciduous teeth and reversible inhibition of bone growth when administered during the second and third trimesters of pregnancy [see Warnings and Precautions (5.2, 5.3) and Use in Specific Populations (8.4)].
 A few postmarketing cases of limb reductions have been reported over decades of use; however, the association is unclear.
 The limited data from postmarketing reports are not sufficient to inform a drug-associated risk for birth defects or miscarriage.
 
@@ -43,13 +43,13 @@ Risk Summary
 
 Tetracycline-class antibiotics, including minocycline, are present in breast milk following oral administration.
 There are no data on the effects of minocycline on milk production.
-Because of the potential for serious adverse reactions, including tooth discoloration and inhibition of bone growth, advise patients that breastfeeding is not recommended during EMROSI therapy and for 4 days after the final dose[see Warnings and Precautions (5.2, 5.3)].
+Because of the potential for serious adverse reactions, including tooth discoloration and inhibition of bone growth, advise patients that breastfeeding is not recommended during EMROSI therapy and for 4 days after the final dose [see Warnings and Precautions (5.2,5.3)].
 
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of EMROSI have not been established in pediatric patients.
 
-Tooth discoloration and inhibition of bone growth have been observed in pediatric patients with the use of tetracycline class antibiotics[see Warnings and Precaution (5.2, 5.3)].
+Tooth discoloration and inhibition of bone growth have been observed in pediatric patients with the use of tetracycline class antibiotics [see Warnings and Precaution (5.2, 5.3)].
 
 ## 8.5 Geriatric Use
 

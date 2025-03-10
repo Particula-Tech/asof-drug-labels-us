@@ -7,12 +7,12 @@ Advise patients taking EMROSI extended-release capsules of the following informa
 Administration Instructions
 
 - EMROSI should be taken exactly as directed.
-- Advise patients to swallow EMROSI capsule whole and not to chew or crush the capsule[see Dosage and Administration (2)].
+- Advise patients to swallow EMROSI capsule whole and not to chew or crush the capsule [see Dosage and Administration (2)].
 
 Serious Skin/Hypersensitivity Reactions
 
-- Inform patients that serious skin reactions have occurred with the minocycline use in patients with acne.
-  Advise patients to discontinue use of EMROSI and contact their healthcare provider immediately at the first evidence of skin erythema [see Warnings and Precautions (5.1)].
+- Inform patients that serious skin reactions have occurred with minocycline use in patients with acne.
+  Advise patients to discontinue use of EMROSI and contact their healthcare provider immediately at the first evidence of skin erythema [see Warnings and Precautions (5.1)]
 
 Tooth Discoloration and Enamel Hypoplasia
 
@@ -22,12 +22,12 @@ Tooth Discoloration and Enamel Hypoplasia
 Inhibition of Bone Growth
 
 - Advise patients that EMROSI use in pregnancy may cause inhibition of fetal bone growth.
-  Advise patients to discontinue EMROSI during pregnancy and to inform their healthcare provider right away if they become pregnant during treatment [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)].
+  Advise patients to discontinue EMROSI during pregnancy and to inform their healthcare provider right away if they become pregnant during treatment [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)]
 
 Clostridioides difficile-Associated Diarrhea (Antibiotic-Associated Colitis)
 
 - Advise patients that Clostridioides difficile-associated diarrhea (antibiotic-associated colitis) can occur with minocycline therapy, including EMROSI.
-  If patients develop watery or bloody stools, advise patients to seek medical attention [see Warnings and Precautions (5.4)].
+  If patients develop watery or bloody stools, advise patients to seek medical attention [see Warnings and Precautions (5.4)]
 
 Hepatotoxicity
 
@@ -69,3 +69,11 @@ Manufactured for:
 Journey Medical Corporation
 
 Scottsdale, AZ 85258
+
+EMR-P01-R01
+
+EMROSI is a trademark of Journey Medical Corporation.
+
+All other trademarks are the properties of their respective owners.
+Copyright © 2024, Journey Medical Corporation.
+All rights reserved.

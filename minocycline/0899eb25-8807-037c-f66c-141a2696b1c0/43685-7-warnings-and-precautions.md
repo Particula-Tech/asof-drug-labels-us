@@ -15,7 +15,7 @@ Permanent discoloration of the teeth is more common during long-term use of tetr
 Enamel hypoplasia has also been reported.
 Use of EMROSI is not recommended during tooth development.
 
-Advise the patient of the potential risk to the fetus if EMROSI is used during the second or third trimester of pregnancy [see Use in Specific Populations (8.1, 8.4)].
+Advise the patient of the potential risk to the fetus if EMROSI is used during the second or third trimester of pregnancy [see Use in Specific Populations(8.1,8.4)].
 
 ## 5.3 Inhibition of Bone Growth
 
@@ -30,8 +30,8 @@ Advise the patient of the potential risk to the fetus if EMROSI is used during t
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with nearly all antibacterial agents, including minocycline, and may range in severity from mild diarrhea to fatal colitis.
 
-C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+C. difficileproduces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C.difficilecause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
@@ -62,7 +62,7 @@ Because intracranial pressure can remain elevated for weeks after drug cessation
 ## 5.8 Autoimmune Syndromes
 
 Tetracyclines have been associated with the development of autoimmune syndromes.
-The long- term use of minocycline in the treatment of acne has been associated with drug-induced lupus-like syndrome, autoimmune hepatitis and vasculitis.
+The long-term use of minocycline in the treatment of acne has been associated with drug-induced lupus-like syndrome, autoimmune hepatitis and vasculitis.
 Sporadic cases of serum sickness have presented shortly after minocycline use.
 Symptoms may be manifested by fever, rash, arthralgia, and malaise.
 Evaluate symptomatic patients.
@@ -72,7 +72,7 @@ If symptoms occur, immediately discontinue EMROSI.
 
 The anti-anabolic action of the tetracyclines, including EMROSI, may cause an increase in blood urea nitrogen (BUN).
 In patients with significantly impaired renal function, higher serum levels of EMROSI may lead to azotemia, hyperphosphatemia, and acidosis.
-If renal impairment exists monitor serum levels of EMROSI during treatment, discontinue EMROSI if necessary.
+If renal impairment exists monitor serum levels of EMROSI during treatment, and discontinue EMROSI if necessary.
 
 ## 5.10 Photosensitivity
 
