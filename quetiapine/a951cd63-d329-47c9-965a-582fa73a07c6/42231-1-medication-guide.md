@@ -260,14 +260,16 @@ The 25 mg tablets contain iron oxide red and iron oxide black; and the 100 mg an
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States.
 
 MADE IN INDIA.
 
-Rev: November 2020 ID#: 265489
+Rev: June 2024 ID#: 276187

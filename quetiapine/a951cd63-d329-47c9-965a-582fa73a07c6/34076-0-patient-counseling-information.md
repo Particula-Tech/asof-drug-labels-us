@@ -81,14 +81,16 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 *Brands listed are the trademarks of their respective owners.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States.
 
 MADE IN INDIA.
 
-Rev: July 2023 ID#: 273942
+Rev: March 2025 ID#: 279943
