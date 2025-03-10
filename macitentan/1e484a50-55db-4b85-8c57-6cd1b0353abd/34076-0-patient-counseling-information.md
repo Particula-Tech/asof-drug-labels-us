@@ -30,15 +30,15 @@ Review the Medication Guide and REMS educational materials with female patients.
 
 Lactation
 
-Advise women not to breastfeed during treatment with OPSUMIT [see Use in Specific Population (8.2)].
+Advise women not to breastfeed during treatment with OPSUMIT [see Use in Specific Populations (8.2)].
 
 Hepatotoxicity
 
 Some members of this pharmacological class are hepatotoxic.
 Educate patients on signs of hepatotoxicity.
-Advise patients that they should contact their doctor if they have unexplained nausea, vomiting, right upper quadrant pain, fatigue, anorexia, jaundice, dark urine, fever, or itching.
+Advise patients that they should contact their doctor if they have unexplained nausea, vomiting, right upper quadrant pain, fatigue, anorexia, jaundice, dark urine, fever, or itching [see Warnings and Precautions (5.3)].
 
 Fluid Retention
 
 Educate patients on signs of fluid retention.
-Advise patients that they should contact their doctor if they have unusual weight increase or swelling of the ankles or legs.
+Advise patients that they should contact their doctor if they have unusual weight increase or swelling of the ankles or legs [see Warnings and Precautions (5.4)].

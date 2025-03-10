@@ -40,7 +40,7 @@ Pregnancy Testing
 
 Verify the pregnancy status of females of reproductive potential prior to initiating OPSUMIT, monthly during treatment and one month after stopping treatment with OPSUMIT.
 The patient should contact her physician immediately for pregnancy testing if onset of menses is delayed or pregnancy is suspected.
-If the pregnancy test is positive, the physician and patient must discuss the risks to her, the pregnancy, and the fetus [see Warnings and Precautions (5.1), and Dosage and Administration (2.2) and Contraindication (4.1)].
+If the pregnancy test is positive, the physician and patient must discuss the risks to her, the pregnancy, and the fetus [see Warnings and Precautions (5.1), Dosage and Administration (2.2), and Contraindications (4.1)].
 
 Contraception
 
@@ -52,11 +52,16 @@ Counsel patients on pregnancy planning and prevention, including emergency contr
 Infertility
 
 Based on findings in animals, OPSUMIT may impair fertility in males of reproductive potential.
-It is not known whether effects on fertility would be reversible [see Warnings and Precautions (5.7), Adverse Reactions (6.1) and Nonclinical Toxicology (13.1)].
+It is not known whether effects on fertility would be reversible [see Warnings and Precautions (5.7), Adverse Reactions (6.1), and Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of OPSUMIT in children have not been established.
+The safety and effectiveness of OPSUMIT in pediatric patients have not been established for the treatment of PAH.
+
+OPSUMIT was evaluated in 148 pediatric patients 2 to 17 years of age with PAH in a single open-label, randomized trial with an extension period in which all patients received treatment.
+The trial did not demonstrate a clinical benefit of OPSUMIT compared with standard of care in the treatment of PAH.
+It cannot be ruled out that a trial with a different design would demonstrate a clinical benefit in this patient population.
+Adverse reactions observed in the trial were similar in nature to those reported in clinical trials in adults.
 
 ## 8.5 Geriatric Use
 

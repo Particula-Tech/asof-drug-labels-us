@@ -8,12 +8,9 @@ Carcinogenicity studies of 2 years' duration did not reveal any carcinogenic pot
 
 Mutagenesis
 
-Macitentan was not genotoxic in a standard battery of in vitro and in vivo assays that included a bacterial reverse mutation assay, an assay for gene mutations in mouse lymphoma cells, a chromosome aberration test in human lymphocytes, and an in vivo micronucleus test in rats.
+Macitentan was not genotoxic in a standard battery of in vitroand in vivoassays that included a bacterial reverse mutation assay, an assay for gene mutations in mouse lymphoma cells, a chromosome aberration test in human lymphocytes, and an in vivomicronucleus test in rats.
 
 Impairment of Fertility
-
-Treatment of juvenile rats from postnatal Day 4 to Day 114 led to reduced body weight gain and testicular tubular atrophy at exposures 7-fold the human exposure.
-Fertility was not affected.
 
 Reversible testicular tubular dilatation was observed in chronic toxicity studies at exposures greater than 7-fold and 23-fold the human exposure in rats and dogs, respectively.
 After 2 years of treatment, tubular atrophy was seen in rats at 4-fold the human exposure.
