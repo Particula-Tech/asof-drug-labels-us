@@ -16,3 +16,5 @@ TYRVAYA® and/or the use of TYRVAYA® in a method may be covered by one or more 
 
 ©2023 Oyster Point Pharma, Inc., a Viatris Company.
 All Rights Reserved.
+
+OYP:TYRVA:R1

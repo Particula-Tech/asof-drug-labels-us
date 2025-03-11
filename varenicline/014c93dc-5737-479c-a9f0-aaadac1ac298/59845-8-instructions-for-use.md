@@ -1,10 +1,6 @@
-Instructions for Use
+# Instructions for Use
 
-Tyrvaya® (Teer-vye-ah)
-
-(varenicline solution)
-
-nasal spray, for intranasal use
+TYRVAYA® (Teer-vye-ah) (varenicline solution) nasal spray, for intranasal use
 
 Read this Instructions for Use before you start using TYRVAYA and each time you get a refill.
 There may be new information.
@@ -41,4 +37,8 @@ TYRVAYA® and/or the use of TYRVAYA® in a method may be covered by one or more 
 
 Manufactured for: Oyster Point Pharma, Inc., 202 Carnegie Center, Suite 106, Princeton, NJ 08540
 
-©2023 Oyster Point Pharma, Inc. Revised: 2/2024
+©2023 Oyster Point Pharma, Inc.
+
+Revised: 2/2024
+
+OYP:IFU:TYRVA:R1
