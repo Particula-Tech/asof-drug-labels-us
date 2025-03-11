@@ -2,7 +2,7 @@
 
 ## 2.1 Dosage
 
-The single-use, On-body Infusor with prefilled cartridge is pre-programmed to deliver 30 mg of furosemide over the first hour followed by 12.5 mg per hour for the subsequent 4 hours [see Clinical Pharmacology (12)].
+The single-use, On-body Infusor with prefilled cartridge is pre-programmed to deliver 30 mg of furosemide over the first hour followed by 12.5 mg per hour for the subsequent 4 hours [see Use in Specific Populations (8.6) and see Clinical Pharmacology (12)].
 
 FUROSCIX is not for chronic use and should be replaced with oral diuretics as soon as practical.
 

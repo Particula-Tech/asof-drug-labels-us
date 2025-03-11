@@ -1,5 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Congestion
-
-FUROSCIX is indicated for the treatment of congestion due to fluid overload in adult patients with chronic heart failure.
+FUROSCIX is indicated for the treatment of edema in adult patients with chronic heart failure or chronic kidney disease (CKD), including the nephrotic syndrome.

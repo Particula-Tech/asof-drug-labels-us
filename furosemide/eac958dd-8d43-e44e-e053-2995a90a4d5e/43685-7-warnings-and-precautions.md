@@ -4,7 +4,7 @@
 
 Furosemide may cause fluid, electrolyte, and metabolic abnormalities such as hypovolemia, hypokalemia, azotemia, hyponatremia, hypochloremic alkalosis, hypomagnesemia, hypocalcemia, hyperglycemia, or hyperuricemia, particularly in patients receiving higher doses, patients with inadequate oral electrolyte intake, and in elderly patients.
 Excessive diuresis may cause dehydration and blood volume reduction with circulatory collapse and possibly vascular thrombosis and embolism, particularly in elderly patients.
-Serum electrolytes, CO 2, BUN, creatinine, glucose, and uric acid should be monitored frequently during furosemide therapy.
+Serum electrolytes, CO 2, BUN, creatinine, glucose, and uric acid should be monitored frequently during furosemide therapy [see Use in Specific Populations (8.6)].
 
 ## 5.2 Worsening Renal Function
 

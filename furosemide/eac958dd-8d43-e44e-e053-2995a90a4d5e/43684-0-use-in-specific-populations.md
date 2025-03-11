@@ -60,3 +60,13 @@ In general, dose selection for the elderly patients should be cautious, reflecti
 
 FUROSCIX is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (12.3)].
+
+## 8.6 Renal Impairment
+
+Significantly reduced renal function can affect the response to furosemide.
+The On-body Infusor will deliver only an 80 mg dose of furosemide, and patients with significantly reduced renal function may require additional diuretic therapy.
+
+## 8.7 Hepatic Impairment
+
+In patients with hepatic cirrhosis and ascites, sudden alterations of fluid and electrolyte balance may precipitate hepatic encephalopathy and coma.
+Treat such patients in a setting where clinical status and electrolyte balance can be carefully monitored.
