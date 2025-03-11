@@ -10,7 +10,7 @@ Dispense in tight container.
 
 Store at controlled room temperature 20°-25°C (68°-77°F).
 
-Mfd for: Wallace Pharmaceuticals, Inc. Somerset, NJ 08873-4120
+Mfd for: Wallace Pharmaceuticals, Inc. 1000 Mylan Blvd Cannonsburg, PA 15317
 
-LB-590110-06 Rev.
-5/2018 400941-01
+LB-590110-07 Rev.
+6/2023 400941-02

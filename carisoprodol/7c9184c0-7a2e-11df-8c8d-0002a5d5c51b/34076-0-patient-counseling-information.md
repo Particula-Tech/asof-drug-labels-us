@@ -21,12 +21,12 @@ Lactation
 
 Advise nursing mothers using carisoprodol tablets to monitor neonates for signs of sedation [see Use in Specific Populations (8.2)].
 
-Manufactured for: Wallace Pharmaceuticals Inc. Somerset, NJ 08873-4120
+Manufactured for: Wallace Pharmaceuticals Inc. 1000 Mylan Blvd Canonsburg, PA 15317
 
-WALLACE and are registered trademarks of Wallace Pharmaceuticals Inc., a Mylan company
+WALLACE and are trademarks of Wallace Pharmaceuticals Inc., a Viatris Company.
 
-©2019 Mylan Specialty LP
+© 2023 Viatris Inc.
 
-IN-5901-07 Revised: 3/2019
+IN-5901-08 Revised: 6/2023
 
-500492-03
+500492-05
