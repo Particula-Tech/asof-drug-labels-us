@@ -10,7 +10,7 @@ Table 3: Clinically Important Drug Interactions with Ezetimibe
 | Intervention: | Monitor cyclosporine concentrations in patients receiving ezetimibe and cyclosporine. In patients treated with cyclosporine, weigh the potential effects of the increased exposure to ezetimibe from concomitant use against the benefits of alterations in lipid levels provided by ezetimibe. |
 | Fibrates |  |
 | Clinical Impact: | Both fenofibrate and ezetimibe may increase cholesterol excretion into the bile, leading to cholelithiasis. Co-administration of ezetimibe with fibrates other than fenofibrate is not recommended [see Adverse Reactions (6.1)]. |
-| Intervention: | If cholelithiasis is suspected in a patient receiving ezetimibe and fenofibrate, gallbladder studies are indicated, and alternative lipid-lowering therapy should be considered. |
+| Intervention: | If cholelithiasis is suspected in a patient receiving ezetimibe and fenofibrate, gallbladder studies are indicated and alternative lipid-lowering therapy should be considered. |
 | Bile Acid Sequestrants |  |
 | Clinical Impact: | Concomitant cholestyramine administration decreased the mean exposure of total ezetimibe. This may result in a reduction of efficacy [see Clinical Pharmacology (12.3)]. |
 | Intervention: | In patients taking a bile acid sequestrant, administer ezetimibe at least 2 hours before or 4 hours after the bile acid sequestrant [see Dosage and Administration (2)]. |

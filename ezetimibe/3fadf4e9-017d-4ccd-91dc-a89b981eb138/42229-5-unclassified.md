@@ -50,18 +50,18 @@ The safety and effectiveness of ezetimibe in combination with a statin as an adj
 Use of ezetimibe for this indication is based on a double-blind, placebo-controlled clinical trial in 248 pediatric patients (142 males and 106 postmenarchal females) 10 years of age and older with HeFH [see Clinical Studies (14)].
 In this limited controlled trial, there was no significant effect on growth or sexual maturation in the adolescent males or females, or on menstrual cycle length in females.
 
-The safety and effectiveness of ezetimibe in combination with a statin, and other LDL-C lowering therapies, to reduce LDL-C have been established in pediatric patients 10 years of age and older with HoFH.
+The safety and effectiveness of ezetimibe in combination with a statin and other LDL-C lowering therapies, to reduce LDL-C have been established in pediatric patients 10 years of age and older with HoFH.
 Use of ezetimibe for this indication is based on a 12-week double-blind, placebo-controlled clinical trial followed by an uncontrolled extension period in 7 pediatric patients 11 years of age and older with HoFH [see Clinical Studies (14)].
 
 The safety and effectiveness of ezetimibe as an adjunct to diet for the reduction of elevated sitosterol and campesterol levels have been established in adults and pediatric patients 9 years of age and older with homozygous familial sitosterolemia.
-Use of ezetimibe for this indication is based on an 8-week double-blind, placebo-controlled clinical trial in 4 patients 9 years of age and older with homozygous sitosterolemia with elevated plasma sitosterol levels (>5 mg/dL) [see Clinical Studies (14)].
+Use of ezetimibe for this indication is based on an 8-week double-blind, placebo-controlled clinical trial in 4 patients 9 years of age and older with homozygous sitosterolemia with elevated plasma sitosterol levels (> 5 mg/dL) [see Clinical Studies (14)].
 
 The safety and effectiveness of ezetimibe have not been established in pediatric patients younger than 10 years of age with HeFH or HoFH, in pediatric patients younger than 9 years of age with homozygous familial sitosterolemia, or in pediatric patients with other types of hyperlipidemia.
 
 ## 8.5 Geriatric Use
 
-Of the 2,396 patients who received ezetimibe in clinical trials, 669 (28%) were 65 years of age and older, and 111 (5%) were 75 years of age and older.
-Of the 11,308 patients who received ezetimibe in combination with a statin in clinical trials, 3587 (32%) were 65 years of age and older, and 924 (8%) were 75 years of age and older [see Clinical Studies (14)].
+Of the 2,396 patients who received ezetimibe in clinical trials, 669 (28%) were 65 years of age and older and 111 (5%) were 75 years of age and older.
+Of the 11,308 patients who received ezetimibe in combination with a statin in clinical trials, 3587 (32%) were 65 years of age and older and 924 (8%) were 75 years of age and older [see Clinical Studies (14)].
 No overall differences in safety or effectiveness of ezetimibe have been observed between patients 65 years of age and older and younger patients.
 No clinically meaningful differences in the pharmacokinetics of ezetimibe were observed in geriatric patients compared to younger adult patients [see Clinical Pharmacology (12.3)].
 

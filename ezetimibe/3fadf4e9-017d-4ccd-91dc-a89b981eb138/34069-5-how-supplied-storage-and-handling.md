@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ezetimibe tablets USP, 10 mg are supplied as white to off-white, capsule-shaped tablets debossed with “AA69” on one side and plain on other side.
+Ezetimibe Tablets USP, 10 mg are supplied as white to off-white, capsule-shaped tablets debossed with “AA69” on one side and plain on other side.
 
 They are supplied as follows:
 

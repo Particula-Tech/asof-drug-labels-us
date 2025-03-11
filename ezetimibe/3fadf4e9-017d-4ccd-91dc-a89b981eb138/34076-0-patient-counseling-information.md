@@ -8,7 +8,7 @@ Muscle Pain
 
 Advise patients that ezetimibe may cause myopathy and rhabdomyolysis.
 Inform patients that the risk is also increased when taking certain types of medication and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
-Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.3), and Drug Interactions (7)].
+Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.3) and Drug Interactions (7)].
 
 Pregnancy
 
@@ -27,7 +27,12 @@ Advise patients not to double their next dose.
 Manufactured by: Amneal Pharmaceuticals Pvt.
 Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
 
+Or
+
+Amneal Pharmaceuticals Pvt.
+Ltd. Ahmedabad 382220, INDIA
+
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-04-2024-06
+02-2025-07

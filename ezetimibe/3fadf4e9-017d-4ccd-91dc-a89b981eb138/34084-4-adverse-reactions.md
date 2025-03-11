@@ -13,9 +13,9 @@ Monotherapy
 
 In 10 double-blind, placebo-controlled clinical trials, 2,396 patients with primary hyperlipidemia (age range 9 to 86 years; 50% female, 90% White, 5% Black or African American, 2% Asian, 3% other races; 3% identified as Hispanic or Latino ethnicity) and elevated LDL-C were treated with ezetimibe 10 mg daily for a median treatment duration of 12 weeks (range 0 to 39 weeks).
 
-Adverse reactions reported in ≥ 2% of patients treated with ezetimibe and at an incidence greater than placebo in placebo-controlled studies of ezetimibe is shown in Table 1.
+Adverse reactions reported in ≥ 2% of patients treated with ezetimibe and at an incidence greater than placebo in placebo-controlled studies of ezetimibe are shown in Table 1.
 
-TABLE 1: Adverse Reactions Occurring ≥ 2% and Greater than Placebo in Ezetimibe - treated Patients
+Table 1: Adverse Reactions Occurring ≥ 2% and Greater than Placebo in Ezetimibe-treated Patients
 
 | Adverse Reaction | Placebo (%) n = 1,159 | Ezetimibe 10 mg (%) n = 2,396 |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ The incidence of consecutive increased transaminases (≥ 3 X ULN) was higher in
 
 Adverse reactions reported in ≥ 2% of patients treated with ezetimibe + statin and at an incidence greater than statin are shown in Table 2.
 
-TABLE 2: Adverse Reactions Occurring ≥ 2% in Ezetimibe -treated Patients Co-administered with a Statin and at an Incidence Greater than Statin
+Table 2: Adverse Reactions Occurring ≥ 2% in Ezetimibe-treated Patients Co-administered with a Statin and at an Incidence Greater than Statin
 
 | Adverse Reaction | All Statins* (%) n = 9,361 | Ezetimibe + All Statins* (%) n = 11,308 |
 | --- | --- | --- |
@@ -53,7 +53,7 @@ TABLE 2: Adverse Reactions Occurring ≥ 2% in Ezetimibe -treated Patients Co-ad
 Combination with Fenofibrate
 
 This clinical trial involving 625 patients with mixed dyslipidemia (age range 20 to 76 years; 44% female, 79% White, 1% Black or African American, 20% other races; 11% identified as Hispanic or Latino ethnicity) treated for up to 12 weeks and 576 patients treated for up to an additional 48 weeks evaluated co-administration of ezetimibe and fenofibrate.
-Incidence rates for clinically important elevations (≥ 3 X ULN, consecutive) in hepatic transaminase levels were 4.5% and 2.7% for fenofibrate monotherapy (n=188) and ezetimibe co-administered with fenofibrate (n=183), respectively, adjusted for treatment exposure.
+Incidence rates for clinically important elevations (≥ 3 X ULN, consecutive) in hepatic transaminase levels were 4.5% and 2.7% for fenofibrate monotherapy (n = 188) and ezetimibe co-administered with fenofibrate (n = 183), respectively, adjusted for treatment exposure.
 Corresponding incidence rates for cholecystectomy were 0.6% and 1.7% for fenofibrate monotherapy and ezetimibe co-administered with fenofibrate, respectively [see Drug Interactions (7)].
 
 ## 6.2 Post-Marketing Experience
@@ -68,7 +68,7 @@ Gastrointestinal Disorders: abdominal pain; pancreatitis; nausea
 
 Hepatobiliary Disorders: elevations in liver transaminases, including elevations more than 5 X ULN; hepatitis; cholelithiasis; cholecystitis
 
-Immune System Disorders: Hypersensitivity reactions including: anaphylaxis, angioedema, rash, and urticaria
+Immune System Disorders: Hypersensitivity reactions including: anaphylaxis, angioedema, rash and urticaria
 
 Musculoskeletal Disorders: elevated creatine phosphokinase; myopathy/rhabdomyolysis
 

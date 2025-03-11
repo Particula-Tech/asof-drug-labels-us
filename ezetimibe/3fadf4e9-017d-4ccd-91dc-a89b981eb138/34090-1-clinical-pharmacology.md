@@ -10,17 +10,17 @@ This causes a reduction of hepatic cholesterol stores and an increase in LDL rec
 
 ## 12.2 Pharmacodynamics
 
-Ezetimibe reduces total cholesterol (total-C), LDL-C, apolipoprotein (Apo) B, and non-high-density lipoprotein cholesterol (non-HDL-C) in patients with hyperlipidemia.
+Ezetimibe reduces total cholesterol (total-C), LDL-C, apolipoprotein (Apo) B and non-high-density lipoprotein cholesterol (non-HDL-C) in patients with hyperlipidemia.
 
 In a 2-week clinical trial in 18 hypercholesterolemic patients, ezetimibe inhibited intestinal cholesterol absorption by 54%, compared with placebo.
-Ezetimibe had no clinically meaningful effect on the plasma concentrations of the fat-soluble vitamins A, D, and E (in a trial of 113 patients) and did not impair adrenocortical steroid hormone production (in a trial of 118 patients).
+Ezetimibe had no clinically meaningful effect on the plasma concentrations of the fat-soluble vitamins A, D and E (in a trial of 113 patients) and did not impair adrenocortical steroid hormone production (in a trial of 118 patients).
 
 ## 12.3 Pharmacokinetics
 
 Absorption
 
 After oral administration, ezetimibe is absorbed and extensively conjugated to a pharmacologically active phenolic glucuronide (ezetimibe-glucuronide).
-After a single 10 mg dose of ezetimibe to fasted adults, mean ezetimibe peak plasma concentrations (Cmax) of 3.4 to 5.5 ng/mL were attained within 4 to 12 hours (Tmax).
+After a single 10 mg dose of ezetimibe to fasted adults, mean ezetimibe peak plasma concentrations (Cmax) of 3.4 ng/mL to 5.5 ng/mL were attained within 4 to 12 hours (Tmax).
 
 Ezetimibe-glucuronide mean Cmax values of 45 ng/mL to 71 ng/mL were achieved between 1 and 2 hours (Tmax).
 There was no substantial deviation from dose proportionality between 5 mg and 20 mg.
@@ -73,7 +73,7 @@ Studies in Asian subjects indicated that the pharmacokinetics of ezetimibe were 
 
 Renal Impairment
 
-After a single 10 mg dose of ezetimibe in patients with severe renal disease (n=8; mean CrCl ≤ 30 mL/min/1.73 m2), the mean AUC values for total ezetimibe, ezetimibe-glucuronide, and ezetimibe were increased approximately 1.5-fold, compared to healthy subjects (n=9).
+After a single 10 mg dose of ezetimibe in patients with severe renal disease (n = 8; mean CrCl ≤ 30 mL/min/1.73 m2), the mean AUC values for total ezetimibe, ezetimibe-glucuronide and ezetimibe were increased approximately 1.5-fold, compared to healthy subjects (n = 9).
 
 Hepatic Impairment
 
@@ -83,10 +83,10 @@ In a 14-day, multiple-dose trial (10 mg daily) in patients with moderate hepatic
 
 Drug Interactions
 
-Ezetimibe had no significant effect on a series of probe drugs (caffeine, dextromethorphan, tolbutamide, and IV midazolam) known to be metabolized by cytochrome P450 (1A2, 2D6, 2C8/9 and 3A4) in a “cocktail” trial of twelve healthy adult males.
-This indicates that ezetimibe is neither an inhibitor nor an inducer of these cytochrome P450 isozymes, and it is unlikely that ezetimibe will affect the metabolism of drugs that are metabolized by these enzymes.
+Ezetimibe had no significant effect on a series of probe drugs [caffeine, dextromethorphan, tolbutamide, and intravenous (IV) midazolam] known to be metabolized by cytochrome P450 (1A2, 2D6, 2C8/9 and 3A4) in a “cocktail” trial of twelve healthy adult males.
+This indicates that ezetimibe is neither an inhibitor nor an inducer of these cytochrome P450 isozymes and it is unlikely that ezetimibe will affect the metabolism of drugs that are metabolized by these enzymes.
 
-TABLE 4: Effect of Co-administered Drugs on Total Ezetimibe
+Table 4: Effect of Co-administered Drugs on Total Ezetimibe
 
 | Co-administered Drug and Dosing Regimen | Total Ezetimibe* |  |
 | --- | --- | --- |
@@ -106,7 +106,7 @@ TABLE 4: Effect of Co-administered Drugs on Total Ezetimibe
 | Fluvastatin 20 mg QD, 14 days | ↓19% | ↑7% |
 | * Based on 10 mg dose of ezetimibe.† Post-renal transplant patients with mild impaired or normal renal function. In a different trial, a renal transplant patient with severe renal insufficiency (creatinine clearance of 13.2 mL/min/1.73 m2) who was receiving multiple medications, including cyclosporine, demonstrated a 12-fold greater exposure to total ezetimibe compared to healthy subjects.‡ See Drug Interactions (7).§ Supralox, 20 mL. |  |  |
 
-TABLE 5: Effect of Ezetimibe Co-administration on Systemic Exposure to Other Drugs
+Table 5: Effect of Ezetimibe Co-administration on Systemic Exposure to Other Drugs
 
 | Co-administered Drug and its Dosage Regimen | Ezetimibe Dosage Regimen | Change in AUC of Co-administered Drug | Change in Cmax of Co-administered Drug |
 | --- | --- | --- | --- |
