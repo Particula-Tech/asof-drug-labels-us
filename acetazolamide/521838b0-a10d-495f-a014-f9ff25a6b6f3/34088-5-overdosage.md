@@ -2,7 +2,6 @@
 
 No specific antidote is known.
 Treatment should be symptomatic and supportive.
-
 Electrolyte imbalance, development of an acidotic state, and central nervous effects might be expected to occur.
 Serum electrolyte levels (particularly potassium) and blood pH levels should be monitored.
 

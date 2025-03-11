@@ -14,6 +14,9 @@ Increasing the dose does not increase the diuresis and may increase the incidenc
 Increasing the dose often results in a decrease in diuresis.
 Under certain circumstances, however, very large doses have been given in conjunction with other diuretics in order to secure diuresis in complete refractory failure.
 
+Choroidal effusion and choroidal detachment have been reported after the use of acetazolamide in the post-operative period following ophthalmic surgery.
+Discontinue Acetazolamide if choroidal effusion and/or choroidal detachment is suspected.
+
 ## Information for Patients
 
 Adverse reactions common to all sulfonamide derivatives may occur: anaphylaxis, fever, rash (including erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis), crystalluria, renal calculus, bone marrow depression, thrombocytopenic purpura, hemolytic anemia, leukopenia, pancytopenia, and agranulocytosis.
@@ -41,7 +44,7 @@ To monitor for hematologic reactions common to all sulfonamides, it is recommend
 If significant changes occur, early discontinuance and institution of appropriate therapy are important.
 Periodic monitoring of serum electrolytes is recommended.
 
-### Drug Interactions
+## Drug Interactions
 
 Aspirin – See WARNINGS.
 
@@ -95,7 +98,7 @@ The safety and effectiveness of acetazolamide in pediatric patients have not bee
 
 Growth retardation has been reported in children receiving long-term therapy, believed secondary to chronic acidosis.
 
-### Geriatric Use
+## Geriatric Use
 
 Metabolic acidosis, which can be severe, may occur in the elderly with reduced renal function.
 

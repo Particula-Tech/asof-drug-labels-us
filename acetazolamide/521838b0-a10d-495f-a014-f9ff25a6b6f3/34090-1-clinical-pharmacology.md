@@ -7,7 +7,7 @@ Rather, it is a nonbacteriostatic sulfonamide possessing a chemical structure an
 
 Acetazolamide is an enzyme inhibitor that acts specifically on carbonic anhydrase, the enzyme that catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid.
 In the eye, this inhibitory action of acetazolamide decreases the secretion of aqueous humor and results in a drop in intraocular pressure, a reaction considered desirable in cases of glaucoma and even in certain nonglaucomatous conditions.
-Evidence seems to indicate that acetazolamide has utility as an adjuvant in the treatment of certain dysfunctions of the central nervous system (e.g., epilepsy).
+Evidence seems to indicate that acetazolamide has utility as an adjuvant in the treatment of certain dysfunctions of the central nervous system (e.g, epilepsy).
 Inhibition of carbonic anhydrase in this area appears to retard abnormal, paroxysmal, excessive discharge from central nervous system neurons.
 The diuretic effect of acetazolamide is due to its action in the kidney on the reversible reaction involving hydration of carbon dioxide and dehydration of carbonic acid.
 The result is renal loss of HCO3 ion, which carries out sodium, water, and potassium.

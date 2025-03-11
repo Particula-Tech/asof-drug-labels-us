@@ -20,16 +20,10 @@ The container closure is not made with natural rubber latex.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Manufactured for:
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
-Mylan Institutional LLC
+Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-Morgantown, WV 26505 U.S.A.
+FEBRUARY 2025
 
-Manufactured by:
-
-Mylan Laboratories Limited
-
-Bangalore, India
-
-AUGUST 2022
+50103682
