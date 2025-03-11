@@ -47,12 +47,25 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of SOLIRIS for the treatment of PNH, gMG, or NMOSD in pediatric patients have not been established.
+PNH and NMOSD
+
+Safety and effectiveness of SOLIRIS for the treatment of PNH, or NMOSD in pediatric patients have not been established.
+
+aHUS
 
 The safety and effectiveness of SOLIRIS for the treatment of aHUS have been established in pediatric patients.
 Use of SOLIRIS in pediatric patients for this indication is supported by evidence from four adequate and well-controlled clinical studies assessing the safety and effectiveness of SOLIRIS for the treatment of aHUS.
 The studies included a total of 47 pediatric patients (ages 2 months to 17 years).
 The safety and effectiveness of SOLIRIS for the treatment of aHUS appear similar in pediatric and adult patients [see Adverse Reactions (6.1), and Clinical Studies (14.2)].
+
+gMG
+
+The safety and effectiveness of SOLIRIS for the treatment of gMG have been established in pediatric patients 6 years of age and older.
+Use of SOLIRIS in pediatric patients for this indication is supported by evidence from an adequate and well-controlled trial in adults with additional pharmacokinetic and safety data in pediatric patients with gMG who are 12 years of age and older, and pharmacokinetic and safety data in other pediatric populations aged 6 to less than 12 years [see Dosage and Administration (2.4), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
+
+Safety and effectiveness of SOLIRIS for the treatment of gMG in pediatric patients below the age of 6 years have not been established.
+
+Vaccinations
 
 Administer vaccinations for the prevention of infection due to Neisseria meningitidis, Streptococcus pneumoniae and Haemophilus influenzae type b (Hib) according to ACIP guidelines [see Warnings and Precautions (5.1, 5.3)].
 

@@ -43,7 +43,7 @@ Inform patients that there may be an increased risk of other types of infections
 
 Aspergillus infections have occurred in immunocompromised and neutropenic patients.
 
-Inform parents or caregivers of children receiving SOLIRIS for the treatment of aHUS that their child should be vaccinated against Streptococcus pneumoniae and Haemophilus influenzae type b (Hib) according to current medical guidelines.
+Inform parents or caregivers of children receiving SOLIRIS that their child should be vaccinated against Streptococcus pneumoniae and Haemophilus influenzae type b (Hib) according to current medical guidelines.
 
 Infusion-Related Reactions
 

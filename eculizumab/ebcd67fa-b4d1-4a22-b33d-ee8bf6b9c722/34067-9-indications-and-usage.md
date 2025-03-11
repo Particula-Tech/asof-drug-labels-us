@@ -14,7 +14,7 @@ SOLIRIS is not indicated for the treatment of patients with Shiga toxin E. coli 
 
 ## 1.3 Generalized Myasthenia Gravis (gMG)
 
-SOLIRIS is indicated for the treatment of generalized myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AchR) antibody positive.
+SOLIRIS is indicated for the treatment of generalized myasthenia gravis (gMG) in adult and pediatric patients six years of age and older who are anti-acetylcholine receptor (AChR) antibody positive.
 
 ## 1.4 Neuromyelitis Optica Spectrum Disorder (NMOSD)
 
