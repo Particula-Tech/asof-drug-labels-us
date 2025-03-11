@@ -34,7 +34,7 @@ The following are the most common adverse reactions in trials of sertraline hydr
 - PMDD: somnolence, dry mouth, dizziness, fatigue, and abdominal pain;
 - SAD: insomnia, dizziness, fatigue, dry mouth, malaise.
 
-Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults with MDD, OCD, PD, PTSD, SAD, and PMDDAdverse reactions that occurred greater than 2% in sertraline hydrochloride-treated patients and at least 2% greater in sertraline hydrochloride-treated patients than placebo-treated patients.
+Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults with MDD, OCD, PD, PTSD, SAD, and PMDD Adverse reactions that occurred greater than 2% in sertraline hydrochloride-treated patients and at least 2% greater in sertraline hydrochloride-treated patients than placebo-treated patients.
 
 |  | Sertraline Hydrochloride (N=3066) | Placebo (N=2293) |
 | --- | --- | --- |
@@ -62,10 +62,10 @@ Table 3: Common Adverse Reactions in Pooled Placebo-Controlled Trials in Adults 
 | Agitation | 8% | 5% |
 | Libido Decreased | 6% | 2% |
 | Reproductive system and breast disorders |  |  |
-| Ejaculation failure(1) | 8% | 1% |
-| Erectile dysfunction(1) | 4% | 1% |
-| Ejaculation disorder(1) | 3% | 0% |
-| Male sexual dysfunction(1) | 2% | 0% |
+| Ejaculation failure Denominator used was for male patients only (n=1316 sertraline hydrochloride; n=973 placebo). | 8% | 1% |
+| Erectile dysfunction | 4% | 1% |
+| Ejaculation disorder | 3% | 0% |
+| Male sexual dysfunction | 2% | 0% |
 | Skin and subcutaneous tissue disorders |  |  |
 | Hyperhidrosis | 7% | 3% |
 

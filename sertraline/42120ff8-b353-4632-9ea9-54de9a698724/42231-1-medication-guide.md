@@ -13,8 +13,10 @@ Suicidal thoughts or actions:
 - Sertraline hydrochloride tablets and other antidepressant medicines may increase suicidal thoughts or actions in some people 24 years of age and younger, especially within thefirst few months of treatment or when the dose is changed.
 - Depression or other serious mental illnesses are the most important causes of suicidal thoughts or actions.
 - Watch for these changes and call your healthcare provider right away if you notice new or sudden changes in mood, behavior, actions, thoughts, or feelings, especially if severe.
-  - Pay particular attention to such changes when sertraline hydrochloride tablets are started or when the dose is changed.
-  - Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
+- $$UnOrderedlist
+- Pay particular attention to such changes when sertraline hydrochloride tablets are started or when the dose is changed.
+- Keep all follow-up visits with your healthcare provider and call between visits if you are worried about symptoms.
+- $$EndUnOrderedlist
 
 Call your healthcare provider right away if you have any of the following symptoms, or call 911 if an emergency, especially if they are new, worse, or worry you:
 
@@ -271,14 +273,16 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 The brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
 MADE IN INDIA
 
-Revised: September 2023 ID#: 274583
+Revised: January 2025 ID#: 278954

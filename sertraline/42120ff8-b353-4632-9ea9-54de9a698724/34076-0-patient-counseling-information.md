@@ -39,14 +39,16 @@ Pregnancy
 Inform pregnant women that sertraline hydrochloride tablets may cause withdrawal symptoms in the newborn or persistent pulmonary hypertension of the newborn (PPHN) [See Use in Specific Populations (8.1)].
 Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes of women exposed to sertraline hydrochloride tablets during pregnancy
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
 MADE IN INDIA
 
-Revised: September 2023 ID#: 274488
+Revised: January 2025 ID#: 278878

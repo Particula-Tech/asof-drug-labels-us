@@ -12,8 +12,8 @@ Given the 24-hour elimination half-life of sertraline hydrochloride, the recomme
 | --- | --- | --- |
 | Indication | Starting Dose | Therapeutic Range |
 | Adults |  |  |
-| MDD | 50 mg |  |
-| OCD | 50 mg | 50 to 200 mg |
+| MDD | 50 mg | 50 to 200 mg |
+| OCD | 50 mg |  |
 | PD, PTSD, SAD | 25 mg |  |
 | Pediatric Patients |  |  |
 | OCD (ages 6 to 12 years old) | 25 mg | 50 to 200 mg |
