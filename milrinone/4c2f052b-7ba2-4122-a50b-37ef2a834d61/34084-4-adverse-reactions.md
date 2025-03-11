@@ -31,4 +31,4 @@ In addition to adverse events reported from clinical trials, the following event
 - Liver function test abnormalities and skin reactions such as rash.
 - Administration site conditions: Infusion site reaction.
 
-To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877‑233‑2001 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact West-ward Pharmaceutical Corp. at 1-877-845-0689 or the FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
