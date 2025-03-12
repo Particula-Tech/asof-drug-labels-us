@@ -4,7 +4,11 @@ NDC 66758-095-75 Rx Only
 
 TRAVATAN Z®
 
-(travoprost ophthalmic solution) 0.004%
+(travoprost ophthalmic
+
+solution) 0.004%
+
+FOR EYE USE ONLY
 
 5 mL STERILE
 
