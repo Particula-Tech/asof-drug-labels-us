@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 15 mg Tablet Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 15 mg Tablet Bottle Label
 
 NDC 78206-160-01
 
@@ -6,15 +6,15 @@ REMERON® (mirtazapine)Tablets
 
 15 mg
 
-Dispense the accompanying Medication Guide to each patient.
-
 Rx only
 
 30 Tablets
 
-ORGANON
+Must be dispensed with Medication Guide.
+Manuf. for: Organon USA LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA Manuf. by: Organon Pharma (UK) Limited Cramlington, Northumberland, UK NE23 3JU Mirtazapine (active ingred.) made in The Netherlands.
+Formulated in UK.
 
-# PRINCIPAL DISPLAY PANEL - 30 mg Tablet Bottle Carton
+# PRINCIPAL DISPLAY PANEL - 30 mg Tablet Bottle Label
 
 NDC 78206-161-01
 
@@ -22,13 +22,13 @@ REMERON® (mirtazapine)Tablets
 
 30 mg
 
-Dispense the accompanying Medication Guide to each patient.
-
 Rx only
 
 30 Tablets
 
-ORGANON
+Must be dispensed with Medication Guide.
+Manuf. for: Organon USA LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA Manuf. by: Organon Pharma (UK) Limited Cramlington, Northumberland, UK NE23 3JU Mirtazapine (active ingred.) made in The Netherlands.
+Formulated in UK.
 
 # PRINCIPAL DISPLAY PANEL - 15 mg Tablet Blister Pack Box
 
