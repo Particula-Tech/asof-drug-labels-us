@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA214264"
+  ],
+  "inn": "tofacitinib",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-1353-3",
+    "70710-1353-9",
+    "70710-1727-3",
+    "70710-1727-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "tofacitinib",
+      "name": "tofacitinib"
+    }
+  ],
+  "setid": "179ffbb2-bedc-40e6-b77b-33d4f7832172",
+  "source": "dailymed"
+}
