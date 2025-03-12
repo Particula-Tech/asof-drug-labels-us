@@ -23,5 +23,3 @@ Haloperidol Decanoate Injection
 For Intramuscular Use only
 
 Sterile 5 mL Multiple-dose Vial
-
-# Serialization Image

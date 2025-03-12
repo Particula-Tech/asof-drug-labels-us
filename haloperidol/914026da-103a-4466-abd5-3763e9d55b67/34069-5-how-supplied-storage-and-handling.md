@@ -27,8 +27,8 @@ Distributed by:
 
 Hikma Pharmaceuticals USA Inc.
 
-Eatontown, NJ 07724
+Berkeley Heights, NJ 07922
 
-Revised July 2021
+Revised December 2024
 
-PIN477-WES/3
+PIN477-WES/4
