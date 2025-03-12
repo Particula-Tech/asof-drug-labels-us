@@ -6,7 +6,9 @@
   "labeler": "Cosette Pharmaceuticals, Inc.",
   "package_ndcs": [
     "0713-0670-31",
-    "0713-0670-60"
+    "0713-0670-60",
+    "0713-0765-31",
+    "0713-0765-60"
   ],
   "products": [
     {

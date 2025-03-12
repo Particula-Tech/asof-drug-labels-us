@@ -4,13 +4,14 @@
 
 Tazarotene cream is for topical use only.
 Tazarotene cream is not for ophthalmic, oral, or intravaginal use.
-If contact with mucous membranes occurs, rinse thoroughly with water [see Warnings and Precaution (5.2)].
+If contact with mucous membranes occurs, rinse thoroughly with water [see Warnings and Precautions (5.2)].
 
 Wash hands thoroughly after application.
 
 ## 2.2 Psoriasis
 
-Apply a thin film (2 mg/cm 2) of tazarotene cream 0.1% once per day, in the evening, to cover only the psoriatic lesions.
+It is recommended that treatment starts with tazarotene cream, 0.05%, with strength increased to 0.1% if tolerated and medically indicated.
+Apply a thin film (2 mg/cm 2) of tazarotene cream once per day, in the evening, to cover only the psoriatic lesions.
 If a bath or shower is taken prior to application, the skin should be dry before applying the cream.
 If emollients are used, they should be applied at least an hour before application of tazarotene cream.
 Because unaffected skin may be more susceptible to irritation, application of tazarotene cream to these areas should be carefully avoided.
@@ -21,4 +22,4 @@ Cleanse the face gently.
 After the skin is dry, apply a thin layer (2 mg/cm 2) of tazarotene cream 0.1% once per day, in the evening, to the skin areas where acne lesions appear.
 Use enough to cover the entire affected area.
 
-Use effective sunscreens and wear protective clothing while using tazarotene cream [see Warnings and Precaution (5.3)].
+Use effective sunscreens and wear protective clothing while using tazarotene cream [see Warnings and Precautions (5.3)].

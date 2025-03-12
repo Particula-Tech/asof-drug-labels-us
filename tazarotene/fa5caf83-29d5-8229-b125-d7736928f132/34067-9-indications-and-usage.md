@@ -2,7 +2,7 @@
 
 ## 1.1 Plaque Psoriasis
 
-Tazarotene cream, 0.1% is indicated for the topical treatment of patients with plaque psoriasis.
+Tazarotene cream, 0.05% and 0.1% are indicated for the topical treatment of patients with plaque psoriasis.
 
 ## 1.2 Acne Vulgaris
 

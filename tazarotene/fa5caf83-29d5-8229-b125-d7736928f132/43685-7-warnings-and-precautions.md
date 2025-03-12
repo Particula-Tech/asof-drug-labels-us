@@ -35,6 +35,7 @@ Concomitant topical medications and cosmetics that have a strong drying effect s
 It is also advisable to "rest" a patient's skin until the effects of such preparations subside before use of tazarotene cream is begun.
 
 Tazarotene cream, should not be used on eczematous skin, as it may cause severe irritation.
+
 Weather extremes, such as wind or cold, may be more irritating to patients using tazarotene cream.
 
 ## 5.3 Photosensitivity and Risk for Sunburn

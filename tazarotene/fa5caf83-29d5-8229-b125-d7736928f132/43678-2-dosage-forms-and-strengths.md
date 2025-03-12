@@ -1,3 +1,4 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Each gram of tazarotene cream, 0.1% contains 1 mg of tazarotene, in a white cream base.
+Cream, 0.05% and 0.1%.
+Each gram of tazarotene cream, 0.05% and 0.1% contains 0.5 mg and 1 mg of tazarotene, respectively in a white to off-white cream base.
