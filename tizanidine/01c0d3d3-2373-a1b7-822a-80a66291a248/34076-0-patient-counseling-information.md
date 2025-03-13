@@ -33,5 +33,5 @@ APOTEX INC. Tizanidine Tablets, USP 2 mg and 4 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: December 2024 Rev.
-7
+Rev.
+8
