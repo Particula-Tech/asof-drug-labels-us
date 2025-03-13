@@ -7,7 +7,7 @@ Risk Summary
 Available observational studies in pregnant women exposed to Infliximab showed no increased risk of major malformations among live births as compared to those exposed to non-biologics.
 However, findings on other birth and maternal outcomes were not consistent across studies of different study design and conduct (see Data).
 
-Monoclonal antibodies such as infliximab are transferred across the placenta during the third trimester of pregnancy and may affect immune response in the in utero exposed infant (see Clinical Considerations).
+Monoclonal antibodies such as infliximab are transferred across the placenta during the third trimester of pregnancy and may affect immune response in the in uteroexposed infant (see Clinical Considerations).
 Because infliximab does not cross-react with TNFα in species other than humans and chimpanzees, animal reproduction studies have not been conducted with Infliximab.
 In a developmental study conducted in mice using an analogous antibody, no evidence of maternal toxicity or fetal harm was observed (see Data).
 
@@ -29,7 +29,7 @@ As with other IgG antibodies, infliximab crosses the placenta.
 Infliximab has been detected in the serum of infants up to 6 months following birth.
 Consequently, these infants may be at increased risk of infection, including disseminated infection which can become fatal.
 At least a six month waiting period following birth is recommended before the administration of live vaccines (e.g., BCG vaccine or other live vaccines, such as the rotavirus vaccine) to these infants [see Warnings and Precautions (5.13)].
-Cases of agranulocytosis in infants exposed in utero have also been reported [see Adverse Reactions (6.3)].
+Cases of agranulocytosis in infants exposed in uterohave also been reported [see Adverse Reactions (6.3)].
 
 Data
 
@@ -67,7 +67,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Infliximab have been established in pediatric patients 6 to 17 years of age for induction and maintenance treatment of CD and UC [see Dosage and Administration (2.2, 2.4) and Adverse Reactions (6.1)].
+The safety and effectiveness of Infliximab have been established in pediatric patients 6 to 17 years of age for induction and maintenance treatment of CD and UC [see Dosage and Administration (2.2, 2.4)and Adverse Reactions (6.1)].
 However, the safety and effectiveness of Infliximab in pediatric patients <6 years of age with CD or UC have not been established.
 The safety and effectiveness of Infliximab in the treatment of pediatric patients with Ps and juvenile rheumatoid arthritis (JRA) have not been established.
 
@@ -80,7 +80,7 @@ Infliximab has been studied only in combination with conventional immunosuppress
 The longer term (greater than 1 year) safety and effectiveness of Infliximab in pediatric CD patients have not been established in clinical trials.
 
 Postmarketing cases of HSTCL have been reported in pediatric patients treated with TNF blockers including Infliximab.
-Due to the risk of HSTCL, a careful risk-benefit assessment should be made when Infliximab is used in combination with other immunosuppressants in pediatric CD patients [see Boxed Warning, Warnings and Precautions (5.2)].
+Due to the risk of HSTCL, a careful risk-benefit assessment should be made when Infliximab is used in combination with other immunosuppressants in pediatric CD patients [see Boxed Warningand Warnings and Precautions (5.2)].
 
 Pediatric Ulcerative Colitis
 
@@ -91,13 +91,13 @@ Although 41 patients had a Mayo endoscopy subscore of 0 or 1 at the Week 8 endos
 Only 9 patients had an optional endoscopy at Week 54.
 Approximately half of the patients were on concomitant immunomodulators (AZA, 6-MP, MTX) at study start.
 
-Due to the risk of HSTCL, a careful risk-benefit assessment should be made when Infliximab is used in combination with other immunosuppressants in pediatric UC patients [see Boxed Warning and Warnings and Precautions (5.2)].
+Due to the risk of HSTCL, a careful risk-benefit assessment should be made when Infliximab is used in combination with other immunosuppressants in pediatric UC patients [see Boxed Warningand Warnings and Precautions (5.2)].
 
 The longer term (greater than 1 year) safety and effectiveness of Infliximab in pediatric UC patients have not been established in clinical trials.
 
 Juvenile Rheumatoid Arthritis (JRA)
 
-The safety and effectiveness of Infliximab in the treatment of pediatric patients with juvenile rheumatoid arthritis (JRA) have not been established.
+The safety and effectiveness of Infliximab in the treatment of pediatric patients with juvenile rheumatoid arthritis (JRA) have notbeen established.
 
 The safety and efficacy of Infliximab in patients with JRA were evaluated in a multicenter, randomized, placebo-controlled, double-blind study for 14 weeks, followed by a double-blind, all-active treatment extension, for a maximum of 44 weeks.
 Patients with active JRA between the ages of 4 and 17 years who had been treated with MTX for at least 3 months were enrolled.
@@ -111,7 +111,7 @@ The study failed to establish the efficacy of Infliximab in the treatment of JRA
 Key observations in the study included a high placebo response rate and a higher rate of immunogenicity than what has been observed in adults.
 Additionally, a higher rate of clearance of infliximab was observed than had been observed in adults.
 
-Population pharmacokinetic analysis showed that in pediatric patients with JRA with a body weight of up to 35 kg receiving 6 mg/kg Infliximab and pediatric patients with JRA with body weight greater than 35 kg up to adult body weight receiving 3 mg/kg Infliximab, the steady state area under the concentration curve (AUCss) was similar to that observed in adults receiving 3 mg/kg of Infliximab.
+Population pharmacokinetic analysis showed that in pediatric patients with JRA with a body weight of up to 35 kg receiving 6 mg/kg Infliximab and pediatric patients with JRA with body weight greater than 35 kg up to adult body weight receiving 3 mg/kg Infliximab, the steady state area under the concentration curve (AUC ss) was similar to that observed in adults receiving 3 mg/kg of Infliximab.
 
 A total of 60 patients with JRA were treated with doses of 3 mg/kg and 57 patients were treated with doses of 6 mg/kg.
 The proportion of patients with infusion reactions who received 3 mg/kg Infliximab was 35% (21/60) over 52 weeks compared with 18% (10/57) in patients who received 6 mg/kg over 38 weeks.
@@ -134,4 +134,4 @@ However, the incidence of serious adverse reactions in geriatric patients was hi
 Of the total number of Infliximab-treated patients in CD, UC, AS, and PsA clinical studies, 76 (3.2%) were 65 years old and over, while 9 (0.4%) were 75 years old and over.
 In the CD, UC, AS, and PsA studies, there were insufficient numbers of geriatric patients to determine whether they respond differently from younger adults.
 
-The incidence of serious infections in Infliximab-treated geriatric patients was greater than in Infliximab-treated younger adult patients; therefore close monitoring of geriatric patients for the development of serious infections is recommended [see Warnings and Precautions (5.1), and Adverse Reactions (6.1)].
+The incidence of serious infections in Infliximab-treated geriatric patients was greater than in Infliximab-treated younger adult patients; therefore close monitoring of geriatric patients for the development of serious infections is recommended [see Warnings and Precautions (5.1)and Adverse Reactions (6.1)].

@@ -8,9 +8,9 @@ Each single-dose vial contains 100 mg of infliximab as a sterile, preservative-f
 
 Storage and Handling
 
-Store unopened Infliximab vials in a refrigerator at 2°C to 8°C (36°F to 46°F).
+Store unopened Infliximab vials in a refrigerator at 2 °C to 8 °C (36 °F to 46 °F).
 
-If needed, unopened Infliximab vials may be stored at room temperatures up to a maximum of 30°C (86°F) for a single period of up to 6 months but not exceeding the original expiration date.
+If needed, unopened Infliximab vials may be stored at room temperatures up to a maximum of 30 °C (86 °F) for a single period of up to 6 months but not exceeding the original expiration date.
 The new expiration date must be written in the space provided on the carton.
 Once removed from the refrigerator, Infliximab cannot be returned to the refrigerator.
 

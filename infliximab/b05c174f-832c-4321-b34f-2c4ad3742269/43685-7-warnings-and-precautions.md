@@ -72,7 +72,7 @@ These cases have had a very aggressive disease course and have been fatal.
 Almost all patients had received treatment with the immunosuppressants azathioprine or 6-mercaptopurine concomitantly with a TNF blocker at or prior to diagnosis.
 The majority of reported Infliximab cases have occurred in patients with CD or UC and most were in adolescent and young adult males.
 It is uncertain whether the occurrence of HSTCL is related to TNF blockers or TNF blockers in combination with these other immunosuppressants.
-When treating patients, consideration of whether to use Infliximab alone or in combination with other immunosuppressants such as azathioprine or 6-mercaptopurine should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with Infliximab monotherapy from the clinical trial data [see Warnings and Precautions (5.7) and Adverse Reactions (6.1)].
+When treating patients, consideration of whether to use Infliximab alone or in combination with other immunosuppressants such as azathioprine or 6-mercaptopurine should take into account a possibility that there is a higher risk of HSTCL with combination therapy versus an observed increased risk of immunogenicity and hypersensitivity reactions with Infliximab monotherapy from the clinical trial data [see Warnings and Precautions (5.7)and Adverse Reactions (6.1)].
 
 Skin Cancer
 
@@ -135,7 +135,7 @@ Compared to patients who received placebo, there was a higher rate of mortality 
 There have been post-marketing reports of new onset and worsening heart failure, with and without identifiable precipitating factors (e.g., pre-existing cardiovascular disease), in Infliximab-treated patients.
 Some of these patients have been under 50 years of age.
 
-If a decision is made to administer Infliximab (≤ 5 mg/kg) to patients with moderate or severe heart failure or to administer Infliximab (any approved dose) to patients with mild heart failure, they should be closely monitored during therapy, and Infliximab should be discontinued if new or worsening symptoms of heart failure appear [see Contraindications (4) and Adverse Reactions (6.1)].
+If a decision is made to administer Infliximab (≤ 5 mg/kg) to patients with moderate or severe heart failure or to administer Infliximab (any approved dose) to patients with mild heart failure, they should be closely monitored during therapy, and Infliximab should be discontinued if new or worsening symptoms of heart failure appear [see Contraindications (4)and Adverse Reactions (6.1)].
 
 ## 5.6 Hematologic Reactions
 
@@ -155,7 +155,7 @@ Symptoms associated with these reactions include fever, rash, headache, sore thr
 These reactions were associated with a marked increase in antibodies to infliximab, loss of detectable serum concentrations of infliximab, and possible loss of drug efficacy.
 
 Infliximab should be discontinued for severe hypersensitivity reactions.
-Medications for the treatment of hypersensitivity reactions (e.g., acetaminophen, antihistamines, corticosteroids and/or epinephrine) should be available for immediate use in the event of a reaction [see Dosage and Administration (2.10) and Adverse Reactions (6.1)].
+Medications for the treatment of hypersensitivity reactions (e.g., acetaminophen, antihistamines, corticosteroids and/or epinephrine) should be available for immediate use in the event of a reaction [see Dosage and Administration (2.10)and Adverse Reactions (6.1)].
 
 In RA, CD and Ps clinical trials, re-administration of Infliximab after a period of no treatment resulted in a higher incidence of infusion reactions relative to regular maintenance treatment [see Adverse Reactions (6.1)].
 In general, the benefit-risk of re-administration of Infliximab after a period of no-treatment, especially as a re-induction regimen given at weeks 0, 2 and 6, should be carefully considered.
@@ -206,9 +206,9 @@ In patients receiving TNF blockers, limited data are available on the response t
 Use of live vaccines can result in clinical infections, including disseminated infections.
 The concurrent administration of live vaccines with Infliximab is not recommended.
 
-Fatal outcome due to disseminated BCG infection has been reported in an infant who received a BCG vaccine after in utero exposure to infliximab.
+Fatal outcome due to disseminated BCG infection has been reported in an infant who received a BCG vaccine after in uteroexposure to infliximab.
 Infliximab is known to cross the placenta and has been detected up to 6 months following birth.
-At least a six month waiting period following birth is recommended before the administration of any live vaccine to infants exposed in utero to infliximab.
+At least a six month waiting period following birth is recommended before the administration of any live vaccine to infants exposed in uteroto infliximab.
 
 Other uses of therapeutic infectious agents such as live attenuated bacteria (e.g., BCG bladder instillation for the treatment of cancer) could result in clinical infections, including disseminated infections.
 It is recommended that therapeutic infectious agents not be given concurrently with Infliximab.
