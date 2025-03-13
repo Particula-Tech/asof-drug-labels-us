@@ -45,11 +45,18 @@ You must also tell your doctor about any heart problems you have or have had.
 Who should NOT take ziprasidone capsules?
 Elderly patients with a diagnosis of psychosis related to dementia.
 Ziprasidone capsules are not approved for the treatment of these patients.
-Anything that can increase the chance of a heart rhythm abnormality should be avoided.
-Therefore, do not take ziprasidone capsules if:
 
-- You have certain heart diseases, for example, long QT syndrome, a recent heart attack, severe heart failure, or certain irregularities of heart rhythm (discuss the specifics with your doctor)
-- You are currently taking medications that should not be taken in combination with ziprasidone, for example, dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, pimozide, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol or tacrolimus.
+Do not take ziprasidone capsules if you:
+
+- take anything that can increase the chance of a heart rhythm abnormality.
+
+- have certain heart diseases, for example, long QT syndrome, a recent heart attack, severe heart failure, or certain irregularities of heart rhythm (discuss the specifics with your doctor).
+- are currently taking medications that should not be taken in combination with ziprasidone, for example, dofetilide, sotalol, quinidine, other Class Ia and III anti-arrhythmics, mesoridazine, thioridazine, chlorpromazine, droperidol, pimozide, sparfloxacin, gatifloxacin, moxifloxacin, halofantrine, mefloquine, pentamidine, arsenic trioxide, levomethadyl acetate, dolasetron mesylate, probucol or tacrolimus.
+
+- are taking a monoamine oxidase inhibitor (MAOI).
+  Ask your healthcare provider or pharmacist if you are not sure if you take an MAOI, including linezolid or intravenous methylene blue.
+- have stopped taking an MAOI in the last 14 days.
+- are allergic to ziprasidone or any of the ingredients in ziprasidone capsules.
 
 What To Tell Your Doctor Before You Start Ziprasidone Capsules Only your doctor can decide if ziprasidone capsules are right for you.
 Before you start ziprasidone capsules, be sure to tell your doctor if you:
@@ -104,7 +111,15 @@ It is particularly important to tell your doctor if you have diarrhea, vomiting,
 Your doctor may want to check your blood to make sure that you have the right amount of important salts after such illnesses.
 For a list of all side effects that have been reported, ask your doctor or pharmacist for the ziprasidone capsules Professional Package Insert.
 What To Do For An Overdose In case of an overdose, call your doctor or poison control center right away or go to the nearest emergency room.
-Other Important Safety Information A serious condition called neuroleptic malignant syndrome (NMS) can occur with all antipsychotic medications including ziprasidone capsules.
+Other Important Safety Information
+
+A potentially life-threatening problem called serotonin syndrome can happen when you take ziprasidone capsules with certain other medicines.
+
+See “Who should NOT take ziprasidone capsules?”
+
+- Call your healthcare provider if you have any of the following signs and symptoms of serotonin syndrome: agitation, hallucinations, coma, or other changes in mental status; racing heartbeat, high or low blood pressure; coordination problems or muscle twitching; nausea, vomiting, or diarrhea; sweating or fever; muscle rigidity.
+
+A serious condition called neuroleptic malignant syndrome (NMS) can occur with all antipsychotic medications including ziprasidone capsules.
 Signs of NMS include very high fever, rigid muscles, shaking, confusion, sweating, or increased heart rate and blood pressure.
 NMS is a rare but serious side effect that could be fatal.
 Therefore, tell your doctor if you experience any of these signs.
@@ -137,5 +152,7 @@ How To Store Ziprasidone Capsules Store ziprasidone capsules at room temperature
 For More Information About Ziprasidone Capsules This sheet is only a summary.
 Ziprasidone capsules are a prescription medicine and only your doctor can decide if it is right for you.
 If you have any questions or want more information about ziprasidone capsules, talk with your doctor or pharmacist.
-You can also call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
-Maalox® is a registered trademark of Novartis Consumer Health, LLC Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2025
+
+The brands listed are trademarks of their respective owners.
+
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 03/2025

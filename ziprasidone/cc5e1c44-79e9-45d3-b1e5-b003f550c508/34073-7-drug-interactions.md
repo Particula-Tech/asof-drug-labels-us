@@ -18,10 +18,11 @@ There is little potential for drug interactions with ziprasidone due to displace
 
 ## 7.3 Pharmacodynamic Interactions
 
-Ziprasidone should not be used with any drug that prolongs the QT interval [see Contraindications (4.1)].
-Given the primary CNS effects of ziprasidone, caution should be used when it is taken in combination with other centrally acting drugs.
-Because of its potential for inducing hypotension, ziprasidone may enhance the effects of certain antihypertensive agents.
-Ziprasidone may antagonize the effects of levodopa and dopamine agonists.
+- Ziprasidone should not be used with any drug that prolongs the QT interval [see Contraindications (4.1)].
+- Given the primary CNS effects of ziprasidone, caution should be used when it is taken in combination with other centrally acting drugs.
+- Because of its potential for inducing hypotension, ziprasidone may enhance the effects of certain antihypertensive agents.
+- Ziprasidone may antagonize the effects of levodopa and dopamine agonists.
+- Risk of serotonin syndrome with concomitant therapy with other serotonergic drugs such as SNRIs, SSRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort [see Contraindications (4.3), Warnings and Precautions (5.4), Adverse Reactions (6.2)].
 
 ## 7.4 Pharmacokinetic Interactions
 
