@@ -37,12 +37,12 @@ In the 12-week study, there was no difference in the extent of improvement betwe
 The ASAS 20 defines a responder as improvement from baseline of at least 20% and an absolute improvement of at least 10 mm, on a 0 mm to 100 mm scale, in at least three of the four following domains: patient global pain, Bath Ankylosing Spondylitis Functional Index, and inflammation.
 The responder analysis also demonstrated no change in the responder rates beyond 6 weeks.
 
-## 14.5 Analgesia, including Primary Dysmenorrhea
+## 14.5 Analgesia, Including Primary Dysmenorrhea
 
 In acute analgesic models of post-oral surgery pain, post-orthopedic surgical pain, and primary dysmenorrhea, celecoxib capsules relieved pain that was rated by patients as moderate to severe.
 Single doses [see Dosage and Administration (2.6)] of celecoxib capsules provided pain relief within 60 minutes.
 
-## 14.6 Cardiovascular Outcomes Trial
+## 14.6 Cardiovascular Outcomes Trial: Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen (PRECISION; NCT00346216)
 
 Cardiovascular Outcomes Trial: Prospective Randomized Evaluation of Celecoxib Integrated Safety vs. Ibuprofen Or Naproxen (PRECISION; NCT00346216)
 

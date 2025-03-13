@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-CELECOXIB has analgesic, anti-inflammatory, and antipyretic properties.
+Celecoxib has analgesic, anti-inflammatory, and antipyretic properties.
 
 The mechanism of action of celecoxib is believed to be due to inhibition of prostaglandin synthesis, primarily via inhibition of COX-2.
 

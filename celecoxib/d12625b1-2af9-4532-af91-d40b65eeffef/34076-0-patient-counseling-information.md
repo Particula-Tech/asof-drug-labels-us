@@ -26,7 +26,7 @@ Anaphylactic Reactions
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 
-Serious Skin Reactions, including DRESS
+Serious Skin Reactions, Including DRESS
 
 Advise patients to stop taking celecoxib capsules immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9)5.10)].
 
@@ -50,15 +50,15 @@ Inform patients not to use low-dose aspirin concomitantly with celecoxib capsule
 
 Manufactured by:
 
-Cipla Ltd.,
+Cipla Ltd,
 
-Kurkumbh, India
+Kurkumbh-413802, Maharashtra, India
 
 &
 
-Cipla Ltd.,
+Cipla Ltd,
 
-Indore, India
+Indore SEZ-454775, MP, India
 
 Manufactured for:
 
@@ -68,4 +68,4 @@ Cipla USA, Inc.
 
 Warren, NJ 07059
 
-Revised: 5/2021
+Revised: 12/2024

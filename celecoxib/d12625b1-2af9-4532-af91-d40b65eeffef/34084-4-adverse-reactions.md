@@ -154,7 +154,7 @@ The only additional adverse event reported was post-dental extraction alveolar o
 
 The APC and PreSAP Trials
 
-Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to celecoxib capsules in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Clinical Studies (14.7)].
+Adverse reactions from Long-term, Placebo-controlled Polyp Prevention Studies: Exposure to celecoxib capsules in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Clinical Studies (14.7)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from celecoxib capsules pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with celecoxib capsules were greater as compared to the arthritis pre-marketing trials were as follows:
@@ -194,3 +194,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 | Metabolic: | Hypoglycemia, hyponatremia |
 | Nervous: | Aseptic meningitis, ageusia, anosmia, fatal intracranial hemorrhage |
 | Renal: | Interstitial nephritis |
+| Skin and Appendages: | Erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and fixed drug eruption (FDE) |
