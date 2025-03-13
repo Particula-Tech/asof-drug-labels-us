@@ -15,11 +15,11 @@ Esmolol Hydrochloride is:
 All Esmolol Hydrochloride in Sodium Chloride Injection presentations are clear, colorless to light yellow, sterile, nonpyrogenic, iso-osmotic solutions of esmolol hydrochloride in sodium chloride.
 The formulations for Esmolol Hydrochloride in Sodium Chloride Injection and Esmolol Hydrochloride in Sodium Chloride Injection, Double Strength, are described in the table below:
 
-Table 3 Esmolol Hydrochloride in Sodium Chloride Injection Formulations
+Table 4 Esmolol Hydrochloride in Sodium Chloride Injection Formulations
 
 |  | Esmolol Hydrochloride in Sodium Chloride Injection | Esmolol Hydrochloride in Sodium Chloride Injection - Double Strength |
 | --- | --- | --- |
-| Esmolol Hydrochloride | 10 mg per mL | 20 mg per mL |
+| Esmolol Hydrochloride, USP | 10 mg per mL | 20 mg per mL |
 | Sodium Chloride, USP | 5.9 mg per mL | 4.1 mg per mL |
 | Water for Injection, USP | Q.S. to volume of 250 mL | Q.S. to volume of 100 mL |
 | Sodium Acetate Trihydrate, USP | 2.8 mg per mL | 2.8 mg per mL |

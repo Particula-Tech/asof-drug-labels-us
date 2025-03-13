@@ -6,7 +6,7 @@ Esmolol Hydrochloride in Sodium Chloride Injection is indicated for the rapid co
 Esmolol Hydrochloride in Sodium Chloride Injection is also indicated in noncompensatory sinus tachycardia where, in the physician's judgment, the rapid heart rate requires specific intervention.
 Esmolol Hydrochloride in Sodium Chloride Injection is intended for short-term use.
 
-## 1.2 Intraoperative and Postoperative Tachycardia and Hypertension
+## 1.2 Intraoperative and Postoperative Tachycardia and/or Hypertension
 
 Esmolol Hydrochloride in Sodium Chloride Injection is indicated for the short-term treatment of tachycardia and hypertension that occur during induction and tracheal intubation, during surgery, on emergence from anesthesia and in the postoperative period, when in the physician's judgment such specific intervention is considered indicated.
 

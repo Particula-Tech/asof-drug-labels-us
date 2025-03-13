@@ -15,7 +15,7 @@ Continuous monitoring of the patient is required.
 Because of its approximately 9-minute elimination half-life, the first step in the management of toxicity should be to discontinue the esmolol hydrochloride infusion.
 Then, based on the observed clinical effects, consider the following general measures.
 
-Bradycardia:
+Bradycardia
 
 Consider intravenous administration of atropine or another anticholinergic drug or cardiac pacing.
 

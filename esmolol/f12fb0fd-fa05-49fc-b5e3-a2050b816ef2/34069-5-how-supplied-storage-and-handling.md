@@ -26,6 +26,9 @@ Discard unused portion.
 
 Once drug has been withdrawn from ready-to-infuse premixed flexible container bag, the bag should be used within 24 hours, with any unused portion discarded.
 
+Visually inspect the container.
+If the administration port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
+
 Do not use plastic containers in series connections.
 Such use could result in an embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
 
