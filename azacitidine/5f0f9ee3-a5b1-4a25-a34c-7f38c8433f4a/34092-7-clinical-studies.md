@@ -58,7 +58,7 @@ Response Criteria
 | --- | --- | --- | --- | --- | --- | --- |
 | Complete Response(CR),duration ≥4 weeks | Marrow | <5% blasts |  |  |  |  |
 | PeripheralBlood | Normal CBC if abnormal at baselineAbsence of blasts in the peripheral circulation |  |  |  |  |  |
-| PartialResponse(PR),duration ≥4 weeks | Marrow | No marrow requirements |  | ≥50% decrease in blastsImprovement of marrow dyspoiesis |  |  |
+| PartialResponse(PR),duration ≥4 weeks | Marrow | No marrowrequirements |  | ≥50% decrease in blastsImprovement of marrow dyspoiesis |  |  |
 | PeripheralBlood | ≥50% restoration in the deficit from normal levels of baseline white cells,hemoglobin and platelets if abnormal at baselineNo blasts in the peripheral circulationFor CMMoL, if WBC is elevated at baseline, a ≥75% reduction in the excesscount over the upper limit of normal |  |  |  |  |  |
 
 The overall response rate (CR + PR) of 15.7% in azacitidine -treated patients without AML (16.2% for all azacitidine randomized patients including AML) was statistically significantly higher than the response rate of 0% in the observation group (p<0.0001) (Table 5).
@@ -90,7 +90,7 @@ Response occurred in all MDS subtypes as well as in patients with adjudicated ba
 Azacitidine dosage regimens in these 2 studies were similar to the regimen used in the controlled study.
 
 Benefit was seen in patients who did not meet the criteria for PR or better, but were considered “improved.”
-About 24% of azacitidine -treated patients were considered improved, and about 2/3 of those lost transfusion dependence.
+About 24% of azacitidine-treated patients were considered improved, and about 2/3 of those lost transfusion dependence.
 In the observation group, only 5/83 patients met criteria for improvement; none lost transfusion dependence.
 In all 3 studies, about 19% of patients met criteria for improvement with a median duration of 195 days.
 
@@ -125,4 +125,4 @@ Effect of Azacitidine on RBC Transfusions in MDS Patients
 | --- | --- | --- |
 | Number and percent of patients who were transfusion dependent at baseline who became transfusion independent on treatment 1Number and percent of patients who were transfusion-independent at baseline who became transfusion-dependent on treatment | 50/111 (45.0%)(95% CI: 35.6%, 54.8%)10/68 (14.7%)(95% CI: 7.3%, 25.4%) | 13/114 (11.4%)(95% CI: 6.2%, 18.7%)28/65 (43.1%)(95% CI: 30.9%, 56.0%) |
 | 1A patient was considered RBC transfusion independent during the treatment period if the patient had no RBC transfusions during any 56 consecutive days or more during the treatment period. Otherwise, the patient was considered transfusion dependent. |  |  |
-| Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection). However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information. |  |  |
+| Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection). However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information. |  |  |

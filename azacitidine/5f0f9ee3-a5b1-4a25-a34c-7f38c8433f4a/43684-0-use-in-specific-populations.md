@@ -58,7 +58,7 @@ Based on animal data, azacitidine could have an effect on male or female fertili
 Safety and effectiveness of Azacitidine for Injection in pediatric patients with MDS have not been established.
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection).
-However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

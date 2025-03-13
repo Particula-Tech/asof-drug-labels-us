@@ -10,6 +10,7 @@ The indications and dosing regimen for Azacitidine for Injection differ from tha
 The recommended starting dose for the first treatment cycle, for all patients regardless of baseline hematology laboratory values, is 75 mg/m 2subcutaneously or intravenously, daily for 7 days.
 
 Premedicate patients for nausea and vomiting.
+
 Obtain complete blood counts, liver chemistries and serum creatinine prior to the first dose.
 
 ## 2.3 Subsequent Treatment Cycles for Adults
@@ -23,7 +24,7 @@ Treatment may be continued as long as the patient continues to benefit.
 Monitor patients for hematologic response and renal toxicities [see Warnings and Precautions (5.4)] and delay or reduce dosage if necessary as described below.
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection).
-However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.4 Dosage Adjustment Based on Hematology Laboratory Values
 
@@ -47,11 +48,12 @@ If a greater than 25% increase above the nadir is not seen by day 28, reassess c
 If a 25% increase is not seen by day 42, reduce the scheduled dose by 50%.
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection).
-However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.5 Dosage Adjustment Based on Serum Electrolytes and Renal Toxicity
 
-If unexplained reductions in serum bicarbonate levels to less than 20 mEq/L occur, reduce the dose by 50% for the next course.
+If unexplained reductions in serum bicarbonate levels to less than 20 mEq/L occur, reduce the dosage by 50% for the next course.
+
 If unexplained elevations of BUN or serum creatinine occur, delay the next cycle until values return to normal or baseline and reduce the dose by 50% for the next course [see Warnings and Precautions (5.4)].
 
 ## 2.6 Use in Geriatric Patients
@@ -78,7 +80,7 @@ Doing so could remove the active substance.
 
 Preparation for Immediate Subcutaneous Administration
 
-For doses requiring more than 1 vial, divide the dose equally between the syringes (e.g., dose 150mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
+For doses requiring more than 1 vial, divide the dose equally between the syringes (e.g., dose 150 mg = 6 mL, 2 syringes with 3 mL in each syringe) and inject into two separate sites.
 Due to retention in the vial and needle, it may not be feasible to withdraw all of the suspension from the vial.
 The product may be held at room temperature for up to 1 hour, but must be administered within 1 hour after reconstitution.
 
@@ -138,4 +140,4 @@ Solution Stability
 Azacitidine for Injection reconstituted for intravenous administration may be stored at 25°C (77°F), but administration must be completed within 1 hour of reconstitution.
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection).
-However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.

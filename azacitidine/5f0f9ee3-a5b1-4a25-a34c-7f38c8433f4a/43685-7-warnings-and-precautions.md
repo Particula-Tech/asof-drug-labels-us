@@ -2,7 +2,7 @@
 
 ## 5.1 Risks of Substitution with Other Azacitidine Products
 
-Due to substantial differences in the pharmacokinetic parameters [see Clinical Pharmacology (12.3)], the recommended dose and schedule for Azacitidine for Injection are different from those of oral azacitidine products.
+Due to substantial differences in the pharmacokinetic parameters [see Clinical Pharmacology(12.3)], the recommended dose and schedule for Azacitidine for Injection are different from those of oral azacitidine products.
 Treatment of patients using Azacitidine for Injection at the recommended dosage of oral azacitidine may result in a fatal adverse reaction.
 Treatment of patients using oral azacitidine at the doses recommended for Azacitidine for Injection may not be effective.
 Do not substitute Azacitidine for Injection for oral azacitidine [see Dosage and Administration (2.1)].
@@ -14,7 +14,7 @@ Monitor complete blood counts frequently for response and/or toxicity, at a mini
 After administration of the recommended dosage for the first cycle, adjust dosage for subsequent cycles based on nadir counts and hematologic response [see Dosage and Administration (2.4)].
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection).
-However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 5.3 Hepatic Toxicity in Patients with Severe Pre-existing Hepatic Impairment
 
@@ -27,7 +27,7 @@ Monitor liver chemistries prior to initiation of therapy and with each cycle.
 Safety and effectiveness of Azacitidine for Injection in patients with MDS and hepatic impairment have not been studied as these patients were excluded from the clinical trials.
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection).
-However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 5.4 Renal Toxicity
 
@@ -43,7 +43,7 @@ Therefore, monitor these patients closely for toxicity [see Dosage and Administr
 Patients with MDS and renal impairment were excluded from the clinical studies.
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection).
-However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 5.5 Tumor Lysis Syndrome
 

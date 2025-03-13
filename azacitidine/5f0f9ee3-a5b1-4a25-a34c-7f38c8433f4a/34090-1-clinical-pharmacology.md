@@ -12,7 +12,7 @@ Non-proliferating cells are relatively insensitive to azacitidine.
 ## 12.2 Pharmacodynamics
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection).
-However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 12.3 Pharmacokinetics
 
@@ -48,7 +48,7 @@ The effects of hepatic impairment, gender, or race/ethnicity on the pharmacokine
 Pediatric Patients
 
 Pediatric use information is approved for Celgene Corporation’s Vidaza ®(azacitidine for injection).
-However, due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
+However due to Celgene Corporation’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 Patients with Renal Impairment
 
@@ -63,7 +63,7 @@ No formal clinical drug interaction studies with azacitidine have been conducted
 
 In vitro Studies
 
-Cytochrome P450 (CYP) Enzymes:An in vitro study at azacitidine concentrations up to 100 μM (IV C max = 10.6 μM) in human liver microsomes indicated that azacitidine does not cause any inhibition of CYP isoforms CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, or CYP2E1 at clinically achievable concentrations.
+Cytochrome P450 (CYP) Enzymes:An in vitro study at azacitidine concentrations up to 100 μM (IV C max= 10.6 μM) in human liver microsomes indicated that azacitidine does not cause any inhibition of CYP isoforms CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP3A4, or CYP2E1 at clinically achievable concentrations.
 
 In vitro studies with human cultured hepatocytes indicate that azacitidine at concentrations of 1.0 μM to 100 μM does not induce CYP 1A2, 2C19, or 3A4/5.
 
