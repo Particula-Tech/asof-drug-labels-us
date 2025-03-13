@@ -39,10 +39,9 @@ In general, dose selection for an elderly patient should be cautious, reflecting
 
 Treprostinil injection clearance is reduced in patients with hepatic insufficiency.
 In patients with mild or moderate hepatic insufficiency, decrease the initial dose of Treprostinil injection to 0.625 ng/kg/min ideal body weight, and monitor closely.
-Treprostinil injection has not been studied in patients with severe hepatic insufficiency [see Dosage and Administration (2.5), Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+Treprostinil injection has not been studied in patients with severe hepatic insufficiency [see Dosage and Administration (2.5), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients with Renal Impairment
 
 No dose adjustments are required in patients with renal impairment.
-Treprostinil is not cleared by dialysis.
-[see Clinical Pharmacology (12.3)].
+Treprostinil is not cleared by dialysis [see Clinical Pharmacology (12.3)].

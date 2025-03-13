@@ -16,9 +16,9 @@ In an open-label study of an implantable pump (n=60), there were two blood strea
 
 Avoid abrupt withdrawal or sudden large reductions in dosage of Treprostinil injection, which may result in worsening of PAH symptoms.
 
-## 5.3 Patients with Hepatic or Renal Insufficiency
+## 5.3 Patients with Hepatic Insufficiency
 
-Titrate slowly in patients with hepatic or renal insufficiency, because such patients will likely be exposed to greater systemic concentrations relative to patients with normal hepatic or renal function [see Dosage and Administration (2.5), Use In Specific Populations (8.6, 8.7), and Clinical Pharmacology (12.3)].
+Titrate slowly in patients with hepatic insufficiency, because such patients will likely be exposed to greater systemic concentrations relative to patients with normal hepatic function [see Dosage and Administration (2.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 ## 5.4 Risk of Symptomatic Hypotension
 

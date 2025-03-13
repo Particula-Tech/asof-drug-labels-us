@@ -21,7 +21,7 @@ Subcutaneous and intravenous administration of Treprostinil injection demonstrat
 
 Absorption Treprostinil injection is relatively rapidly and completely absorbed after subcutaneous infusion, with an absolute bioavailability approximating 100%.
 Steady-state concentrations occurred in approximately 10 hours.
-Concentrations in patients treated with an average dose of 9.3 ng/kg/min were approximately 2,000 ng/mL.
+Concentrations in patients treated with an average dose of 9.3 ng/kg/min were approximately 2,000 ng/L.
 Distribution The volume of distribution of the drug in the central compartment is approximately 14 L/70 kg ideal body weight.
 Treprostinil injection at in vitro concentrations well above what is clinically relevant was 91% bound to human plasma protein.
 Metabolism and Excretion Treprostinil is substantially metabolized by the liver, primarily by CYP2C8.
@@ -31,9 +31,9 @@ Five metabolites were detected in the urine, ranging from 10% to 16% and represe
 Four of the metabolites are products of oxidation of the 3- hydroxyloctyl side chain and one is a glucuroconjugated derivative (treprostinil glucuronide).
 The identified metabolites do not appear to have activity.
 The elimination of treprostinil (following subcutaneous administration) is biphasic, with a terminal elimination half-life of approximately 4 hours using a two compartment model.
-Systemic clearance is approximately 30 L/hr for a 70 kg person.
+Systemic clearance is approximately 30 L/hour for a 70 kg person.
 Based on in vitro studies treprostinil does not inhibit or induce major CYP enzymes.
-Special Populations Hepatic Insufficiency In patients with portopulmonary hypertension and mild (n=4) or moderate (n=5) hepatic insufficiency, Treprostinil injection at a subcutaneous dose of 10 ng/kg/min for 150 minutes had a Cmax that was 2-fold and 4-fold, respectively, and an AUC0-∞ that was 3-fold and 5-fold, respectively, values observed in healthy subjects.
+Specific Populations Hepatic Insufficiency In patients with portopulmonary hypertension and mild (n=4) or moderate (n=5) hepatic insufficiency, Treprostinil injection at a subcutaneous dose of 10 ng/kg/min for 150 minutes had a Cmax that was 2-fold and 4-fold, respectively, and an AUC0-∞ that was 3-fold and 5-fold, respectively, values observed in healthy subjects.
 Clearance in patients with hepatic insufficiency was reduced by up to 80% compared to healthy adults.
 Renal Impairment In patients with severe renal impairment requiring dialysis (n=8), administration of a single 1 mg dose of orally administered treprostinil pre-and post-dialysis resulted in an AUC0-inf that was not significantly altered compared to healthy subjects.
 
@@ -41,12 +41,12 @@ Drug Interaction Studies
 
 Effect of CYP2C8 Inhibitors and Inducers on Treprostinil
 
-Co-administration of an oral formulation of treprostinil (treprostinil diolamine) with gemfibrozil (600 mg twice a day), a CYP2C8 enzyme inhibitor, doubles the AUC and Cmax of treprostinil by 2-fold in healthy adults.
+Co-administration of an oral formulation of treprostinil (treprostinil diolamine) with gemfibrozil (600 mg twice a day), a CYP2C8 enzyme inhibitor, doubles the AUC and Cmax of treprostinil in healthy adults.
 Co-administration of an oral formulation of treprostinil (treprostinil diolamine) with rifampin (600 mg/day), a CYP2C8 enzyme inducer, decreases AUC of treprostinil by 22%.
 
 Effect of Treprostinil on Cytochrome P450 Enzymes
 
-In vitro studies of human hepatic microsomes showed that treprostinil does not inhibit cytochrome P450 (CYP) isoenzymes CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1 and CYP3A.
+In vitro studies of human hepatic microsomes showed that treprostinil does not inhibit cytochrome P450 (CYP) isoenzymes CYP1A2, CYP2A6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A.
 Additionally, treprostinil does not induce CYP1A2, CYP2B6, CYP2C9, CYP2C19, and CYP3A isoenzymes.
 
 Effect of Other Drugs on Treprostinil
