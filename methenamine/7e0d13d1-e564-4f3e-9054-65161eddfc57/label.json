@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA219661"
+  ],
+  "inn": "methenamine",
+  "labeler": "Zydus Lifesciences Limited",
+  "package_ndcs": [
+    "70771-1919-1"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methenamine hippurate",
+      "name": "Methenamine hippurate"
+    }
+  ],
+  "setid": "7e0d13d1-e564-4f3e-9054-65161eddfc57",
+  "source": "dailymed"
+}
