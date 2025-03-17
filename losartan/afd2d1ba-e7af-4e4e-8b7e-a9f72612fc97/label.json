@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA218772"
+  ],
+  "inn": "losartan",
+  "labeler": "Scienture Inc.",
+  "package_ndcs": [
+    "83245-053-06"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "losartan potassium",
+      "name": "TRADENAME"
+    }
+  ],
+  "setid": "afd2d1ba-e7af-4e4e-8b7e-a9f72612fc97",
+  "source": "dailymed"
+}
