@@ -7,4 +7,4 @@ Icosapent ethyl is an ethyl ester of the omega-3 fatty acid eicosapentaenoic aci
 The empirical formula of icosapent ethyl is C22H34O2 and the molecular weight is 330.50.
 The chemical name for icosapent ethyl is ethyl all-cis-5,8,11,14,17-icosapentaenoate with the following chemical structure:
 
-Icosapent ethyl capsules also contain the following inactive ingredients: tocopherol, gelatin, glycerin, isopropyl alcohol, maltitol, purified water, printing ink white and sorbitol sorbitan solution.
+Icosapent ethyl capsules also contain the following inactive ingredients: gelatin, glycerin, isopropyl alcohol, maltitol, purified water, printing ink white and sorbitol sorbitan solution.
