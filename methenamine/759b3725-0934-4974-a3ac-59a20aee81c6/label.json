@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA219661"
+  ],
+  "inn": "methenamine",
+  "labeler": "Viona Pharmaceuticals Inc",
+  "package_ndcs": [
+    "72578-175-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "methenamine hippurate",
+      "name": "Methenamine hippurate"
+    }
+  ],
+  "setid": "759b3725-0934-4974-a3ac-59a20aee81c6",
+  "source": "dailymed"
+}
