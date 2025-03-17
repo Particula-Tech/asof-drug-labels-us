@@ -8,7 +8,7 @@ AK-FLU0R®10%
 
 Fluorescein Injection, USP
 
-100 mg/mL /12 Sterile Vials (5mL each)
+500 mg/5 mL (100 mg/mL) / 12 Sterile Vials (5mL each)
 
 LONG GROVE™ PHARMACEUTICALS
 
@@ -22,7 +22,7 @@ AK-FLU0R®10%
 
 Fluorescein Injection, USP
 
-100 mg/mL
+500 mg/5 mL (100 mg/mL)
 
 5 mL Sterile Vial
 
