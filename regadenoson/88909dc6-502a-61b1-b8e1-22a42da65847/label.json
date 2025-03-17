@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA207604"
+  ],
+  "inn": "regadenoson",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-6288-0"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "regadenoson",
+      "name": "Regadenoson"
+    }
+  ],
+  "setid": "88909dc6-502a-61b1-b8e1-22a42da65847",
+  "source": "dailymed"
+}
