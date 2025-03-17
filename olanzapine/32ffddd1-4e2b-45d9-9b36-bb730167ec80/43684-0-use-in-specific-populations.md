@@ -90,14 +90,22 @@ There were no adverse effects on pup developmental landmarks, learning, memory, 
 
 Risk Summary
 
-Olanzapine is present in human milk.
-There are reports of excess sedation, irritability, poor feeding and extrapyramidal symptoms (tremors and abnormal muscle movements) in infants exposed to olanzapine through breast milk.
-There is no information on the effects of olanzapine on milk production.
-There are no data on the presence of samidorphan or the combination of olanzapine and samidorphan in human milk, the effects on the breastfed infant or the effects on milk production.
-When samidorphan was administered to lactating rats, samidorphan and a metabolite were detected in the plasma of nursing pups, likely due to the presence of samidorphan in milk.
+Olanzapine and samidorphan are present in human milk.
+A clinical lactation study in 12 healthy lactating women demonstrated that olanzapine and samidorphan are present in low levels in human milk (see Data).
+However, there are reports of excess sedation, irritability, poor feeding and extrapyramidal symptoms (tremors and abnormal muscle movements) in infants exposed to olanzapine through breast milk (see Clinical Considerations).
+There are no data on the effects of samidorphan or the combination of olanzapine and samidorphan on the breastfed infant, or on milk production.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for LYBALVI and any potential adverse effects on the breastfed infant from LYBALVI or from the underlying maternal condition.
+
+Clinical Considerations
+
 Infants exposed to LYBALVI should be monitored for excess sedation, irritability, poor feeding and extrapyramidal symptoms (tremors and abnormal muscle movements).
 
-The development and health benefits of breastfeeding should be considered along with the mother's clinical need for LYBALVI and any potential adverse effects on the breastfed infant from LYBALVI or from the underlying maternal condition.
+Data
+
+A single dose milk-only lactation study was conducted in 12 healthy adult lactating women.
+Following a 5 mg/10 mg oral dose of olanzapine and samidorphan, the mean quantities in human milk were detected to be 0.002 mg and 0.006 mg, respectively.
+The calculated weight-adjusted infant daily oral dose for olanzapine (~ 0.0005 mg/kg) and samidorphan (0.001 mg/kg) was less than 1% of the weight-adjusted maternal dose for olanzapine (0.07 mg/kg) and samidorphan (0.15 mg/kg), respectively.
 
 ## 8.3 Females and Males of Reproductive Potential
 
