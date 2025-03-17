@@ -126,6 +126,6 @@ Instruct patients how to recognize the symptoms of low blood glucose and to cont
 
 Manufactured for:
 
-VistaPharm, LLC Largo, FL 33771, USA
+VistaPharm, LLC Parsippany, NJ 07054, USA
 
-VP2002R3 01/2024
+VP2002R3 05/2024

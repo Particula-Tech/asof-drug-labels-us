@@ -64,7 +64,7 @@ Because the risk of overdose increases as opioid doses increase, reserve titrati
 Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see WARNINGS AND PRECAUTIONS (5.1)].
 
 Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with methadone hydrochloride tablets.
-Consider this risk when selecting an initial dose and when making dose adjustments [see WARNINGS AND PRECAUTIONS (5)]
+Consider this risk when selecting an initial dose and when making dose adjustments [see WARNINGS AND PRECAUTIONS (5)].
 
 Use of Methadone Hydrochloride Tablets as the First Opioid Analgesic: Initiate treatment with methadone hydrochloride tablets with 2.5 mg orally every 8 to 12 hours.
 

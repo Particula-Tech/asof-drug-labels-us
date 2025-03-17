@@ -27,14 +27,14 @@ Contact local state professional licensing board or state-controlled substances 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of methadone, even when used as recommended.
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak analgesic effect.
 Respiratory depression from opioid use, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see OVERDOSAGE (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of methadone hydrochloride tablets, the risk is greatest during the initiation of therapy or following a dosage increase.
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak analgesic effect, especially during the initial dosing period.
 Regularly evaluate patients for respiratory depression, when initiating therapy with methadone hydrochloride tablets and following dose increases.
 
-To reduce the risk of respiratory depression, proper dosing and titration of methadone hydrochloride tablets are essential [see Dosage and Administration (2.4, 2.5)].
+To reduce the risk of respiratory depression, proper dosing and titration of methadone hydrochloride tablets are essential [see DOSAGE AND ADMINISTRATION (2.4, 2.5)].
 Overestimating the methadone hydrochloride tablets dosage when converting patients from another opioid product can result in fatal overdose with the first dose.
 
 Accidental ingestion of even one dose of methadone hydrochloride tablets, especially by children, can result in respiratory depression and death due to an overdose of methadone.
@@ -43,7 +43,7 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.5)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see DOSAGE AND ADMINISTRATION (2.5)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose:
 

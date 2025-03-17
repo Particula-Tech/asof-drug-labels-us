@@ -18,6 +18,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for:
 
-VistaPharm, LLC Largo, FL 33771, USA
+VistaPharm, LLC Parsippany, NJ 07054, USA
 
-VP2113R3 01/2024
+VP2113R3 05/2024
