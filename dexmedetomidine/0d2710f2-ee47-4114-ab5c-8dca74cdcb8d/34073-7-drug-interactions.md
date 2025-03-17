@@ -1,13 +1,12 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs that Can Potentiate the Sedating Effects of Dexmedetomidine HCl
+## 7.1 Anesthetics, Sedatives, Hypnotics, Opioids
 
-Anesthetics (e.g., isoflurane, sevoflurane, propofol), sedatives/hypnotics (e.g., midazolam), and opioids (e.g., alfentanil) can potentiate the sedating effects of dexmedetomidine HCl.
-Consider reducing the dosage of dexmedetomidine HCl or the co-administered drug.
+Co-administration of dexmedetomidine with anesthetics, sedatives, hypnotics, and opioids is likely to lead to an enhancement of effects.
+Specific studies have confirmed these effects with sevoflurane, isoflurane, propofol, alfentanil, and midazolam.
+No pharmacokinetic interactions between dexmedetomidine and isoflurane, propofol, alfentanil and midazolam have been demonstrated.
+However, due to possible pharmacodynamic interactions, when co-administered with dexmedetomidine, a reduction in dosage of dexmedetomidine or the concomitant anesthetic, sedative, hypnotic or opioid may be required.
 
-## 7.2 Drugs without Clinically Significant Drug Interactions with Dexmedetomidine HCl
+## 7.2 Neuromuscular Blockers
 
-Dexmedetomidine HCl had no clinically meaningful effect on the magnitude of neuromuscular blockade associated with rocuronium [see Clinical Pharmacology (12.2)].
-
-In clinical trials where other vasodilators or negative chronotropic agents were co-administered with dexmedetomidine HCl an additive hypotensive or bradycardic effect was not observed.
-Nonetheless, close monitoring of hemodynamic parameters (e.g., blood pressure, heart rate) is recommended if other vasodilators or negative chronotropic agents are co-administered with dexmedetomidine HCl.
+In one study of 10 healthy adult volunteers, administration of dexmedetomidine for 45 minutes at a plasma concentration of one ng/mL resulted in no clinically meaningful increases in the magnitude of neuromuscular blockade associated with rocuronium administration.

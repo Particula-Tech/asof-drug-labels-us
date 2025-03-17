@@ -1,9 +1,11 @@
 # 10 OVERDOSAGE
 
-Overdosage of dexmedetomidine HCl can cause the adverse reactions generally associated with dexmedetomidine HCl administration [see Warnings and Precautions (5) and Adverse Reactions (6)].
-However, these reactions may be more severe.
-Heart block (e.g., first degree atrioventricular block, second degree heart block) has been reported following overdosage with dexmedetomidine HCl.
-Cardiac arrest has been reported following loading bolus administration of undiluted Dexmedetomidine HCl Injection.
+The tolerability of dexmedetomidine was studied in one study in which healthy adult subjects were administered doses at and above the recommended dose of 0.2 to 0.7 mcg/kg/hr.
+The maximum blood concentration achieved in this study was approximately 13 times the upper boundary of the therapeutic range.
+The most notable effects observed in two subjects who achieved the highest doses were first degree atrioventricular block and second-degree heart block.
+No hemodynamic compromise was noted with the atrioventricular block and the heart block resolved spontaneously within one minute.
 
-Dexmedetomidine HCl Injection must be diluted prior to administration [see Dosage and Administration (2.1)].
-Management of overdosage should include general supportive measures to sustain the patient through any period of toxicity that may occur.
+Five adult patients received an overdose of dexmedetomidine in the intensive care unit sedation studies.
+Two of these patients had no symptoms reported; one patient received a 2 mcg/kg loading dose over 10 minutes (twice the recommended loading dose) and one patient received a maintenance infusion of 0.8 mcg/kg/hr.
+Two other patients who received a 2 mcg/kg loading dose over 10 minutes, experienced bradycardia and/or hypotension.
+One patient who received a loading bolus dose of undiluted dexmedetomidine (19.4 mcg/kg), had cardiac arrest from which he was successfully resuscitated.

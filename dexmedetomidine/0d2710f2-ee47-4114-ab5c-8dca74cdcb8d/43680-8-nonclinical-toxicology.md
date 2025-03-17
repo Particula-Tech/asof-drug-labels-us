@@ -15,7 +15,7 @@ Although dexmedetomidine was clastogenic in an in vivo mouse micronucleus test i
 
 Impairment of Fertility
 
-Fertility in male or female rats was not affected after daily subcutaneous injections of dexmedetomidine HCl at doses up to 54 mcg/kg (less than the maximum recommended human intravenous dose on a mcg/m2 basis) administered from 10 weeks prior to mating in males, and 3 weeks prior to mating and during mating in females.
+Fertility in male or female rats was not affected after daily subcutaneous injections of dexmedetomidine at doses up to 54 mcg/kg (less than the maximum recommended human intravenous dose on a mcg/m2 basis) administered from 10 weeks prior to mating in males, and 3 weeks prior to mating and during mating in females.
 
 ## 13.2 Animal Pharmacology and/or Toxicology
 

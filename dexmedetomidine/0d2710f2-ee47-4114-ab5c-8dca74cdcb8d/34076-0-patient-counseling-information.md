@@ -1,13 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise patients, their families, or caregivers to report to their health care provider symptoms that occur within 48 hours after the administration of Dexmedetomidine HCl Injection such as:
+Dexmedetomidine is indicated for short-term intravenous sedation.
+Dosage must be individualized and titrated to the desired clinical effect.
+Blood pressure, heart rate and oxygen levels will be monitored both continuously during the infusion of dexmedetomidine and as clinically appropriate after discontinuation.
 
-- •Nervousness, agitation, and headaches which may be associated with an infusion lasting for more than 6 hours
-- •Weakness, confusion, excessive sweating, weight loss, abdominal pain, salt cravings, diarrhea, constipation, dizziness or light-headedness
-
-Important Potential Adverse Reactions Following Drug Discontinuation
-
-Advise the patient, their families, or caregivers to contact their health care provider if they develop any of the following symptoms within 48 hours of receiving Dexmedetomidine HCl Injection: weakness, confusion, excessive sweating, weight loss, abdominal pain, salt cravings, diarrhea, constipation, dizziness or light-headedness.
+- •When dexmedetomidine is infused for more than 6 hours, patients should be informed to report nervousness, agitation, and headaches that may occur for up to 48 hours.
+- •Additionally, patients should be informed to report symptoms that may occur within 48 hours after the administration of dexmedetomidine such as: weakness, confusion, excessive sweating, weight loss, abdominal pain, salt cravings, diarrhea, constipation, dizziness or light-headedness.
+- •Advise breastfeeding mothers who were exposed to dexmedetomidine to monitor breastfed neonates for irritability [see Use in Specific Populations (8.2)].
 
 Manufactured for:
 

@@ -1,8 +1,11 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Dexmedetomidine Hydrochloride Injection is clear and colorless, and is available in a 100 mcg/mL (vial) and 4 mcg/mL (bag) strength as follows:
+Dexmedetomidine Injection is clear, colorless, sterile, and nonpyrogenic solution suitable for intravenous infusion following dilution and is available in 100 mcg/mL strength as follows:
 
-- •400 mcg in 4 mL in a multiple-dose glass vial
-- •1000 mcg in 10 mL in a multiple-dose glass vial
-- •200 mcg/50 mL single-dose, flexible plastic infusion bag
-- •400 mcg/100 mL single-dose, flexible plastic infusion bag
+- •400 mcg/4 mL (100 mcg/mL) in a multiple-dose vial
+- •1000 mcg in 10 mL in a multiple-dose vial
+
+Dexmedetomidine in 5% Dextrose Injection is clear, colorless, sterile ready-to-use, and nonpyrogenic solution suitable for intravenous infusion and is available in 4 mcg/mL strength as follows:
+
+- •200 mcg/50 mL single-dose, single-port flexible plastic infusion bag
+- •400 mcg/100 mL single-dose, single-port flexible plastic infusion bag
