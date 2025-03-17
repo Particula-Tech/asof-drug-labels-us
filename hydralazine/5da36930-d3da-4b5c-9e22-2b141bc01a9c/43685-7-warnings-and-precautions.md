@@ -8,7 +8,7 @@ Long-term treatment with steroids may be necessary.
 
 # PRECAUTIONS
 
-## GENERAL PRECAUTIONS
+## General
 
 Myocardial stimulation produced by hydrALAZINE can cause anginal attacks and ECG changes of myocardial ischemia.
 The drug has been implicated in the production of myocardial infarction.
@@ -24,11 +24,11 @@ However, as with any antihypertensive agent, hydrALAZINE should be used with cau
 Peripheral neuritis, evidenced by paresthesia, numbness, and tingling, has been observed.
 Published evidence suggests an antipyridoxine effect, and that pyridoxine should be added to the regimen if symptoms develop.
 
-## INFORMATION FOR PATIENTS
+## Information for Patients
 
 Patients should be informed of possible side effects and advised to take the medication regularly and continuously as directed.
 
-## LABORATORY TESTS
+## Laboratory Tests
 
 Complete blood counts and antinuclear antibody titer determinations are indicated before and periodically during prolonged therapy with hydrALAZINE even though the patient is asymptomatic.
 These studies are also indicated if the patient develops arthralgia, fever, chest pain, continued malaise, or other unexplained signs or symptoms.
@@ -46,7 +46,7 @@ Profound hypotensive episodes may occur when diazoxide injection and hydrALAZINE
 
 Administration of hydrALAZINE with food results in higher plasma levels.
 
-## CARCINOGENESIS & MUTAGENESIS & IMPAIRMENT OF FERTILITY
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 In a lifetime study in Swiss albino mice, there was a statistically significant increase in the incidence of lung tumors (adenomas and adenocarcinomas) of both male and female mice given hydrALAZINE continuously in their drinking water at a dosage of about 250 mg/kg per day (about 80 times the maximum recommended human dose).
 In a 2-year carcinogenicity study of rats given hydrALAZINE by gavage at dose levels of 15, 30, and 60 mg/kg/day (approximately 5 to 20 times the recommended human daily dosage), microscopic examination of the liver revealed a small, but statistically significant, increase in benign neoplastic nodules in male and female rats from the high-dose group and in female rats from the intermediate-dose group.
@@ -55,21 +55,20 @@ The tumors observed are common in aged rats and a significantly increased incide
 HydrALAZINE was shown to be mutagenic in bacterial systems (Gene Mutation and DNA Repair) and in one of two rat and one rabbit hepatocyte in vitro DNA repair studies.
 Additional in vivo and in vitro studies using lymphoma cells, germinal cells, and fibroblasts from mice, bone marrow cells from Chinese hamsters and fibroblasts from human cell lines did not demonstrate any mutagenic potential for hydrALAZINE.
 The extent to which these findings indicate a risk to man is uncertain.
-While long-term clinical observation has not suggested that human cancer is associated with hydrALAZINE use, pidemiologic studies have so far been insufficient to arrive at any conclusions.
+While long-term clinical observation has not suggested that human cancer is associated with hydrALAZINE use, epidemiologic studies have so far been insufficient to arrive at any conclusions.
 
-## PREGNANCY
+## Pregnancy Category C
 
-Pregnancy Category C:Animal studies indicate that hydrALAZINE is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats.
+Animal studies indicate that hydrALAZINE is teratogenic in mice at 20 to 30 times the maximum daily human dose of 200 to 300 mg and possibly in rabbits at 10 to 15 times the maximum daily human dose, but that it is nonteratogenic in rats.
 Teratogenic effects observed were cleft palate and malformations of facial and cranial bones.
 There are no adequate and well-controlled studies in pregnant women.
 Although clinical experience does not include any positive evidence of adverse effects on the human fetus, hydrALAZINE should be used during pregnancy only if the expected benefit justifies the potential risk to the fetus.
 
-## NURSING MOTHERS
+## Nursing Mothers
 
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when hydrALAZINE is administered to a nursing woman.
+Hydralazine has been shown to be excreted in breast milk.
 
-## PEDIATRIC USE
+## Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established in controlled clinical trials, although there is experience with the use of hydrALAZINE in pediatric patients.
 The usual recommended oral starting dosage is 0.75 mg/kg of body weight daily in four divided doses.

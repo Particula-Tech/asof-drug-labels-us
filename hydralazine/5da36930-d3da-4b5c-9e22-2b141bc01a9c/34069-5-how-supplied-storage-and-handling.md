@@ -10,4 +10,10 @@ HydrALAZINE Hydrochloride Tablets, USP: 10 mg - Orange, round, unscored tablets 
 Dispense in a tight, light-resistant container as defined in the USP.
 Store at 20°-25°C (68°-77°F) [See USP Controlled Room Temperature].
 For more information, call 1-866-495-1995 Manufactured for: Camber Pharmaceuticals, Inc. Piscataway, NJ 08854 By: HETERO TM Hetero Labs Limited Jeedimetla, Hyderabad - 500 055, India OR By: Annora Pharma Pvt.
-Ltd. Sangareddy - 502313, Telangana, India Revised: 07/2019
+Ltd. Sangareddy - 502313, Telangana, India
+
+OR
+
+By: HETERO TM Plot No. 28P1 to 36P1 & 37 to 54, Vemagal Industrial Area, Hobli Vemagal, Kolar, Karnataka - 563102, India.
+
+Revised: 02/2025

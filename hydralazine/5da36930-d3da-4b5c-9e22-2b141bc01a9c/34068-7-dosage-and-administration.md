@@ -1,4 +1,4 @@
-# DOSAGE & ADMINISTRATION
+# DOSAGE AND ADMINISTRATION
 
 Initiate therapy in gradually increasing dosages; adjust according to individual response.
 Start with 10 mg four times daily for the first 2 to 4 days, increase to 25 mg four times daily for the balance of the first week.
