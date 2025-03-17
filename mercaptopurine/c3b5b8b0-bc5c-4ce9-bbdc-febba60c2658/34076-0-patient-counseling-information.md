@@ -24,12 +24,16 @@ Other Adverse Reactions
 
 Instruct patients to minimize sun exposure due to risk of photosensitivity [see Adverse Reactions (6.1)].
 
+Manufactured by: West-Ward Columbus Inc
+
+1809 Wilson Road, Columbus, OH 43228/USA
+
 Distributed by:
 
 Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000734/02
+C50000734/03
 
-Revised July 2024
+Revised October 2024
