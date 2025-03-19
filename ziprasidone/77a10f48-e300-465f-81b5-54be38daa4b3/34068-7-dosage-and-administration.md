@@ -18,3 +18,8 @@ Any unused portion should be discarded.
 Since no preservative or bacteriostatic agent is present in this product, aseptic technique must be used in preparation of the final solution.
 This medicinal product must not be mixed with other medicinal products or solvents other than Sterile Water for Injection.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+
+## 2.5 Switching Patients to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
+
+At least 14 days must elapse between discontinuation of an MAOI (intended to treat psychiatric disorders) and initiation of therapy with ziprasidone mesylate for injection.
+In addition, at least 3 days should be allowed after stopping ziprasidone mesylate for injection before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.3), Warnings and Precautions (5.2), and Drug Interactions (7.1)].

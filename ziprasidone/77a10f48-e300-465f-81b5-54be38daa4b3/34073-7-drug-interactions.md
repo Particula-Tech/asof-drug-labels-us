@@ -18,18 +18,22 @@ There is little potential for drug interactions with ziprasidone due to displace
 
 ## 7.3 Pharmacodynamic Interactions
 
-Ziprasidone should not be used with any drug that prolongs the QT interval [see Contraindications (4.1)].
-Given the primary CNS effects of ziprasidone, caution should be used when it is taken in combination with other centrally acting drugs.
-Because of its potential for inducing hypotension, ziprasidone may enhance the effects of certain antihypertensive agents.
-Ziprasidone may antagonize the effects of levodopa and dopamine agonists.
+- Ziprasidone should not be used with any drug that prolongs the QT interval [see Contraindications (4.1)].
+- Given the primary CNS effects of ziprasidone, caution should be used when it is taken in combination with other centrally acting drugs.
+- Because of its potential for inducing hypotension, ziprasidone may enhance the effects of certain antihypertensive agents.
+- Ziprasidone may antagonize the effects of levodopa and dopamine agonists.
+- Risk of serotonin syndrome with concomitant therapy with other serotonergic drugs such as SNRIs, SSRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort [see Contraindications (4.3), Warnings and Precautions (5.4), Adverse Reactions (6.2)].
 
 ## 7.4 Pharmacokinetic Interactions
 
 Carbamazepine Carbamazepine is an inducer of CYP3A4; administration of 200 mg twice daily for 21 days resulted in a decrease of approximately 35% in the AUC of ziprasidone.
 This effect may be greater when higher doses of carbamazepine are administered.
+
 Ketoconazole Ketoconazole, a potent inhibitor of CYP3A4, at a dose of 400 mg QD for 5 days, increased the AUC and Cmax of ziprasidone by about 35 to 40%.
 Other inhibitors of CYP3A4 would be expected to have similar effects.
+
 Cimetidine Cimetidine at a dose of 800 mg QD for 2 days did not affect ziprasidone pharmacokinetics.
+
 Antacid The co-administration of 30 mL of Maalox® with ziprasidone did not affect the pharmacokinetics of ziprasidone.
 
 ## 7.5 Lithium

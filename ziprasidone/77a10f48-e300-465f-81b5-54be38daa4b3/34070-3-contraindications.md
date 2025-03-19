@@ -18,3 +18,7 @@ Therefore, ziprasidone should not be given with:
 ## 4.2 Hypersensitivity
 
 Ziprasidone is contraindicated in individuals with a known hypersensitivity to the product.
+
+## 4.3 Monoamine Oxidase Inhibitors (MAOIs)
+
+Ziprasidone is contraindicated in patients taking, or within 14 days of stopping, MAOIs (including the MAOIs linezolid and intravenous methylene blue) because of an increased risk of serotonin syndrome [see Warnings and Precautions (5.4), Drug Interaction (7.3)].

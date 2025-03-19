@@ -5,8 +5,8 @@ Each mL of ziprasidone mesylate for injection (when reconstituted) affords a col
 
 | Ziprasidone Mesylate for Injection |  |  |
 | --- | --- | --- |
-| Package | Concentration | NDC Code |
-| Single-Dose Vial (carton of 1 vial) | 20 mg/mL | NDC 68083-340-01 |
+| Package | Concentration | NDC |
+| Single-Dose Vial (carton of 1 vial) | 20 mg/mL | 68083-340-01 |
 
 Ziprasidone mesylate for injection should be stored at 20° to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature] in dry form.
 Protect from light.
