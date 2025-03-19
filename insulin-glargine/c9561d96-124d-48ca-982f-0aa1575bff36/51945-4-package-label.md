@@ -18,7 +18,7 @@ sanofi
 
 NDC 0024-5871-02 Rx only
 
-Toujeo® Max SoloStar® (insulin glargine) injection
+Toujeo Max SoloStar® (insulin glargine) injection
 
 For Single Patient Use Only
 
