@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
 The active ingredient in atazanavir capsules is atazanavir sulfate, which is an HIV-1 protease inhibitor.
-The chemical name for atazanavir sulfate is ((3S,8S,9S,12S)-3,12-Bis(1,1-dimethylethyl)-8-hydroxy-4,11-dioxo-9-(phenylmethyl)-6-[[4-(2-pyridinyl)phenyl]methyl] 2,5,6,10,13-pentaazatetradecanedioic acid dimethyl ester, sulfate.
-Its molecular formula is C 38H 52N 6O 7.H2SO4 which corresponds to a molecular weight of 802.9 (sulphuric acid salt).
+The chemical name for atazanavir sulfate is ((3 S,8 S,9 S,12 S)-3,12-Bis(1,1-dimethylethyl)-8-hydroxy-4,11-dioxo-9-(phenylmethyl)-6-[[4-(2-pyridinyl)phenyl]methyl] 2,5,6,10,13-pentaazatetradecanedioic acid dimethyl ester, sulfate.
+Its molecular formula is C 38H 52N 6O 7.H 2SO 4which corresponds to a molecular weight of 802.9 (sulphuric acid salt).
 The free base molecular weight is 704.9.
 Atazanavir sulfate has the following structural formula:
 
