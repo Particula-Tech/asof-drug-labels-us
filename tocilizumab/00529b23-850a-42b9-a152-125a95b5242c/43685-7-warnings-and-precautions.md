@@ -50,7 +50,7 @@ No cases of Hepatitis B reactivation were observed in the trials; however patien
 
 Events of gastrointestinal perforation have been reported in clinical trials, primarily as complications of diverticulitis in patients treated with tocilizumab.
 Use TOFIDENCE with caution in patients who may be at increased risk for gastrointestinal perforation.
-Promptly evaluate patients presenting with new onset abdominal symptoms for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
+Promptly evaluate patients presenting with fever, new onset abdominal symptoms, and a change in bowel habits for early identification of gastrointestinal perforation [see Adverse Reactions (6.1)].
 
 ## 5.3 Hepatotoxicity
 
@@ -138,7 +138,7 @@ TOFIDENCE is an immunosuppressant, and treatment with immunosuppressants may res
 
 ## 5.6 Hypersensitivity Reactions, Including Anaphylaxis
 
-Hypersensitivity reactions, including anaphylaxis, have been reported in association with tocilizumab products [see Adverse Reactions (6)] and anaphylactic events with a fatal outcome have been reported with intravenous infusion of tocilizumab products.
+Hypersensitivity reactions, including anaphylaxis, have been reported in association with tocilizumab products and anaphylactic events with a fatal outcome have been reported with intravenous infusion of tocilizumab products.
 Anaphylaxis and other hypersensitivity reactions that required treatment discontinuation were reported in 0.1% (3 out of 2644) of patients in the 6-month controlled trials of intravenous tocilizumab and 0.2% (8 out of 4009) of patients in the intravenous all-exposure RA population.
 In the SJIA controlled trial with intravenous tocilizumab, 1 out of 112 patients (0.9%) experienced hypersensitivity reactions that required treatment discontinuation.
 In the PJIA controlled trial with intravenous tocilizumab 0 out of 188 patients (0%) in the tocilizumab all-exposure population experienced hypersensitivity reactions that required treatment discontinuation.
@@ -146,10 +146,11 @@ Reactions that required treatment discontinuation included generalized erythema,
 
 In the postmarketing setting, events of hypersensitivity reactions, including anaphylaxis and death have occurred in patients treated with a range of doses of intravenous tocilizumab products, with or without concomitant therapies.
 Events have occurred in patients who received premedication.
-Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of tocilizumab products.In addition, serious cutaneous reactions, including Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported in patients with autoinflammatory conditions treated with tocilizumab products.
+Hypersensitivity, including anaphylaxis events, have occurred both with and without previous hypersensitivity reactions and as early as the first infusion of tocilizumab products [see Adverse Reactions (6.6)].
+In addition, serious cutaneous reactions, including Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), have been reported in patients with autoinflammatory conditions treated with tocilizumab products.
 
 TOFIDENCE for intravenous use should only be infused by a healthcare professional with appropriate medical support to manage anaphylaxis.
-If a hypersensitivity reaction occurs immediately discontinue TOFIDENCE; treat promptly and monitor until signs and symptoms resolve.
+If a hypersensitivity reaction occurs, immediately discontinue TOFIDENCE, treat promptly and monitor until signs and symptoms resolve.
 
 ## 5.7 Demyelinating Disorders
 
