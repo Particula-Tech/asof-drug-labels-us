@@ -128,7 +128,7 @@ Tables 1 and 2 provide guidelines for the cisatracurium besylate injection infus
 
 Visually inspect cisatracurium besylate injection for particulate matter and discoloration prior to administration.
 If a cisatracurium besylate injection solution is cloudy or contains visible particulates, do not use cisatracurium besylate injection.
-Cisatracurium besylate injection is a colorless to slightly yellow or greenish-yellow solution.
+Cisatracurium besylate injection is a clear, colorless to pale yellow or greenish colored solution.
 
 Discard unused portion.
 
