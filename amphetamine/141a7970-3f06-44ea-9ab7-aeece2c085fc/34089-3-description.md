@@ -4,7 +4,7 @@ MYDAYIS extended-release capsules contain mixed salts of a single-entity ampheta
 MYDAYIS contains equal amounts (by weight) of four salts: dextroamphetamine sulfate and amphetamine sulfate, dextroamphetamine saccharate and amphetamine aspartate monohydrate.
 This results in a 3:1 mixture of dextro- to levo- amphetamine base equivalent.
 
-The 12.5 mg, 25 mg, 37.5 mg and 50 mg strength capsules are for oral administration.
+The 12.5 mg, 25 mg, 37.5 mg, and 50 mg strength capsules are for oral administration.
 They contain three types of drug-releasing beads, an immediate release and two different types of delayed release (DR) beads.
 The first DR bead releases amphetamine at pH 5.5 and the other DR bead releases amphetamine at pH 7.0.
 
@@ -20,7 +20,7 @@ The first DR bead releases amphetamine at pH 5.5 and the other DR bead releases 
 
 Inactive Ingredients and Colors
 
-The inactive ingredients in MYDAYIS capsules include: hard gelatin capsules, ethylcellulose, hydroxypropyl methylcellulose, methacrylic acid copolymer, methyl acrylate, methyl methacrylate, methacrylic acid copolymer, opadry beige, sugar spheres, talc, and triethyl citrate.
+The inactive ingredients in MYDAYIS capsules include: hard gelatin capsules, ethylcellulose, hydroxypropyl methylcellulose, methacrylic acid copolymer, methyl acrylate, methyl methacrylate, methacrylic acid copolymer, Opadry® beige, sugar spheres, talc, and triethyl citrate.
 The gelatin capsules for all four strengths contain gelatin, titanium dioxide, yellow iron oxide, and edible inks.
 The 12.5 mg and 25 mg strength gelatin capsules also contain FD&C Blue #2.
 The 37.5 mg strength also contains red iron oxide.

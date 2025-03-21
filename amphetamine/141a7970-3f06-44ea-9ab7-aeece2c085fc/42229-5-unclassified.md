@@ -1,12 +1,14 @@
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
+Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
-Made in USA.
+For more information call 1-877-825-3327.
 
-For more information call 1-800-828-2088
+MYDAYIS is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc.
 
-MYDAYIS® and the MYDAYIS Logo® are registered trademarks of Takeda Pharmaceuticals U.S.A., Inc.
+DSM-IV-TR is a registered trademark of the American Psychiatric Association.
 
-© 2023 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+OPADRY is a registered trademark of BPSI Holdings, LLC.
+
+© 2025 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
 
 Patented: see www.takeda.com/en-us/patents.
 
