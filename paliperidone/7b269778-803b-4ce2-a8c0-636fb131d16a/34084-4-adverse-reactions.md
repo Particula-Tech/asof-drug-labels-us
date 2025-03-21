@@ -140,12 +140,12 @@ Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical
 Table 6 enumerates the pooled incidences of adverse reactions reported in the two placebo-controlled 6-week studies in adult subjects, listing those that occurred in 2% or more of subjects treated with paliperidone and for which the incidence in paliperidone-treated subjects was greater than the incidence in subjects treated with placebo.
 
 Table 6.
-Adverse Drug Reactions Reported by > 2% of Paliperidone-Treated Adult Subjects with Schizoaffective Disorder in Two Double-Blind, Placebo-Controlled Clinical Trials*
+Adverse Drug Reactions Reported by ≥ 2% of Paliperidone-Treated Adult Subjects with Schizoaffective Disorder in Two Double-Blind, Placebo-Controlled Clinical Trials*
 
 | Dictionary-Derived Term |  |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Percentage of Patients |  |  |  |
-|  | Placebo | Paliperidone 3 to 6 mgonce-daily fixed-dose range | Paliperidone 9 to 12 mgonce-dailyfixed-dose range | Paliperidone 3 to 12 mgonce-dailyflexible dose |
+|  | Placebo | Paliperidone 3 to 6 mg once-daily fixed-dose range | Paliperidone 9 to 12 mg once-daily fixed-dose range | Paliperidone 3 to 12 mg once-daily flexible dose |
 | Body System or Organ Class | (N=202) | (N=108) | (N=98) | (N=214) |
 | Total percentage of subjects with adverse reactions | 32 | 48 | 50 | 43 |
 | Cardiac disorders |  |  |  |  |
