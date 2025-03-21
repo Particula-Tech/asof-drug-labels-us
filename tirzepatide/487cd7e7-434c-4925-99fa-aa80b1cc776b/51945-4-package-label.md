@@ -152,10 +152,6 @@ Zepbound®
 
 2.5 mg/0.5 mL
 
-4 x 2.5 mg/0.5 mL single-dose vials
-
-Discard unused portion
-
 Rx Only
 
 For Subcutaneous Use
@@ -167,6 +163,8 @@ Dispense enclosed Medication Guide to each patient.
 Use one vial every week.
 
 4 Single-dose vials
+
+Discard unused portion
 
 Lilly
 
@@ -180,9 +178,31 @@ Zepbound®
 
 5 mg/0.5 mL
 
-4 x 5 mg/0.5 mL single-dose vials
+Rx Only
+
+For Subcutaneous Use
+
+Needles and Syringes are not included
+
+Dispense enclosed Medication Guide to each patient.
+
+Use one vial every week.
+
+4 Single-dose vials
 
 Discard unused portion
+
+Lilly
+
+PACKAGE LABEL - Zepbound®, 7.5 mg/0.5 mL, Carton, 4 Single-dose Vials
+
+NDC 0002-1214-04
+
+Zepbound®
+
+(tirzepatide) injection
+
+7.5 mg/0.5 mL
 
 Rx Only
 
@@ -196,33 +216,13 @@ Use one vial every week.
 
 4 Single-dose vials
 
-Lilly
-
-PACKAGE LABEL - Zepbound®, 7.5 mg/0.5 mL, Single-dose Vial
-
-NDC 0002-1214-01
-
-Zepbound®
-
-(tirzepatide) injection
-
-7.5 mg/0.5 mL
-
-Single-dose Vial - discard unused portion
-
-Rx Only
-
-For Subcutaneous Use
-
-Needles and Syringes are not included
-
-Dispense enclosed Medication Guide to each patient.
+Discard unused portion
 
 Lilly
 
-PACKAGE LABEL - Zepbound®, 10 mg/0.5 mL, Carton, Single-dose Vial
+PACKAGE LABEL - Zepbound®, 10 mg/0.5 mL, Carton, 4 Single-dose Vials
 
-NDC 0002-1340-01
+NDC 0002-1340-04
 
 Zepbound®
 
@@ -230,8 +230,6 @@ Zepbound®
 
 10 mg/0.5 mL
 
-Single-dose Vial - discard unused portion
-
 Rx Only
 
 For Subcutaneous Use
@@ -240,9 +238,15 @@ Needles and Syringes are not included
 
 Dispense enclosed Medication Guide to each patient.
 
+Use one vial every week.
+
+4 Single-dose vials
+
+Discard unused portion
+
 Lilly
 
-PACKAGE LABEL - Zepbound®, 12.5 mg/0.5 mL, Single-dose Vial
+PACKAGE LABEL - Zepbound®, 12.5 mg/0.5 mL, Carton, Single-dose Vial
 
 NDC 0002-1423-01
 
@@ -264,7 +268,7 @@ Dispense enclosed Medication Guide to each patient.
 
 Lilly
 
-PACKAGE LABEL - Zepbound®, 15 mg/0.5 mL, Single-dose Vial
+PACKAGE LABEL - Zepbound®, 15 mg/0.5 mL, Carton, Single-dose Vial
 
 NDC 0002-2002-01
 
