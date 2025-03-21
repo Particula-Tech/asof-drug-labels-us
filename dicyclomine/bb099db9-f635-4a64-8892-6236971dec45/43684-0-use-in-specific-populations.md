@@ -21,16 +21,16 @@ Because of the potential for serious adverse reactions in human breastfed infant
 
 Safety and effectiveness in pediatric patients have not been established.
 
-Dicyclomine hydrochloride is contraindicated in infants less than 6 months of age [see Contrainidications (4)].
+Dicyclomine hydrochloride is contraindicated in infants less than 6 months of age [see Contraindications (4)].
 There are published cases reporting that the administration of dicyclomine hydrochloride to infants has been followed by serious respiratory symptoms (dyspnea, shortness of breath, breathlessness, respiratory collapse, apnea and asphyxia), seizures, syncope, pulse rate fluctuations, muscular hypotonia, and coma, and death, however; no causal relationship has been established.
 
 ## 8.5 Geriatric Use
 
 Clinical studies of dicyclomine hydrochloride did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
-In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range in adults, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range in adults, reflecting the greater frequency of decreased hepatic, renal or cardiac function, and of concomitant disease or other drug therapy.
 
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function care should be taken in dose selection, and it may be useful to monitor renal function.
 
 ## 8.6 Renal Impairment
 

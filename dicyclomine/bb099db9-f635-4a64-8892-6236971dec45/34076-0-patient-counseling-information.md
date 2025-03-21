@@ -6,7 +6,7 @@ Inform parents and caregivers not to administer dicyclomine hydrochloride in inf
 
 ## 17.3 Use in Nursing Mothers
 
-Advise lactating women that dicyclomine hydrochloride should not be used while human milk feeding their infants [see Use in Specific Populations (8.3,8.4)].
+Advise lactating women that dicyclomine hydrochloride should not be used while human milk feeding their infants [see Use in Specific Populations (8.3, 8.4)].
 
 ## 17.4 Peripheral and Central Nervous System
 
@@ -15,13 +15,12 @@ If symptoms occur, the drug should be discontinued and a physician contacted.
 Dicyclomine hydrochloride may produce drowsiness or blurred vision.
 The patient should be warned not to engage in activities requiring mental alertness, such as operating a motor vehicle or other machinery or to perform hazardous work while taking dicyclomine hydrochloride [see Warnings and Precautions (5.3)].
 
-Distributed by:
+Manufactured for:
 
-Par Pharmaceutical
+Endo USA
 
-Chestnut Ridge, NY 10977
+Malvern, PA 19355
 
-Code 1214A00
+© 2024 Endo, Inc. or one of its affiliates.
 
-Rev.
-06/17
+Revised: 09/2024

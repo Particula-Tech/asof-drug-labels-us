@@ -29,7 +29,7 @@ It should not be given to patients with myasthenia gravis except to reduce adver
 
 ## 5.5 Intestinal Obstruction
 
-Diarrhea may be an early symptom of incomplete intestinal obstruction, especially in patients with ileostomy or olostomy.
+Diarrhea may be an early symptom of incomplete intestinal obstruction, especially in patients with ileostomy or colostomy.
 In this instance, treatment with this drug would be inappropriate and possibly harmful [see Contraindications (4)].
 
 Rarely development of Ogilvie’s syndrome (colonic pseudo-obstruction) has been reported.

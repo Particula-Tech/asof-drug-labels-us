@@ -8,7 +8,7 @@ A curare-like action may occur (i.e., neuromuscular blockade leading to muscular
 One reported event included a 37-year-old who reported numbness on the left side, cold fingertips, blurred vision, abdominal and flank pain, decreased appetite, dry mouth, and nervousness following ingestion of 320 mg daily (four 20 mg tablets four times daily).
 These events resolved after discontinuing the dicyclomine.
 
-The acute oral LD 50 of the drug is 625 mg/kg in mice.
+The acute oral LD50 of the drug is 625 mg/kg in mice.
 
 The amount of drug in a single dose that is ordinarily associated with symptoms of overdosage or that is likely to be life-threatening, has not been defined.
 The maximum human oral dose recorded was 600 mg by mouth in a 10-month-old child and approximately 1500 mg in an adult, each of whom survived.

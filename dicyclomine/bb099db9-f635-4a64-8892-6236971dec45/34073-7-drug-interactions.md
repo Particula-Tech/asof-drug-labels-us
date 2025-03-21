@@ -16,7 +16,7 @@ Interaction with other gastrointestinal motility drugs may antagonize the effect
 
 ## 7.4 Effect of Antacids
 
-Because antacids may interfere with the absorption of anticholinergic agents including dicycolomine hydrochloride, simultaneous use of these drugs should be avoided.
+Because antacids may interfere with the absorption of anticholinergic agents including dicyclomine hydrochloride, simultaneous use of these drugs should be avoided.
 
 ## 7.5 Effect on Absorption of Other Drugs
 

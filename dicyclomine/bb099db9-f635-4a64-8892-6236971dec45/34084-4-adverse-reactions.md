@@ -1,10 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-The pattern of adverse effects seen with dicyclomine is mostly related to its pharmacological actions at muscarinic receptors [see Clinical Pharmacology (12)].
+The pattern of adverse effects seen with dicylomine is mostly related to its pharmacological actions at muscarinic receptors [see Clinical Pharmacology (12)].
 They are a consequence of the inhibitory effect on muscarinic receptors within the autonomic nervous system.
 These effects are dose-related and are usually reversible when treatment is discontinued.
 
-The most serious adverse reactions reported with dicyclomine hydrochloride include cardiovascular and central nervous system symptoms [see Warnings and Precautions (5.2,5.3)].
+The most serious adverse reactions reported with dicyclomine hydrochloride include cardiovascular and central nervous system symptoms [see Warnings and Precautions (5.2, 5.3)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -49,7 +49,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 ## 6.3 Adverse Reactions Reported with Similar Drugs with Anticholinergic/Antispasmodic Action
 
-Gastrointestinal: anorexia
+Gastrointestinal: anorexia,
 
 Central Nervous System: tingling, numbness, dyskinesia, speech disturbance, insomnia
 
