@@ -1,13 +1,13 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Pirfenidone tablets are supplied as follows:
+Pirfenidone tablets, USP are supplied as follows:
 
-267 mg - Each yellow, biconvex, oval shaped, film-coated tablet debossed with “3610” on one side and “TEVA” on the other side contains 267 mg of pirfenidone.
+267 mg - Each yellow, biconvex, oval shaped, film-coated tablet debossed with “3610” on one side and “TEVA” on the other side contains 267 mg of pirfenidone, USP.
 Tablets are supplied in:
 
 - Bottles of 270 (NDC 0480-3610-87)
 
-801 mg - Each purple, biconvex, oval shaped, film-coated tablet debossed with “3611” on one side and “TEVA” on the other side contains 801 mg of pirfenidone.
+801 mg - Each purple, biconvex, oval shaped, film-coated tablet debossed with “3611” on one side and “TEVA” on the other side contains 801 mg of pirfenidone, USP.
 Tablets are supplied in:
 
 - Bottles of 90 (NDC 0480-3611-98)
@@ -18,4 +18,4 @@ Keep the bottle tightly closed.
 Do not use if the seal over the bottle opening is broken or missing.
 Safely throw away any pirfenidone tablets that are out of date or no longer needed.
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all medications out of the reach of children.
