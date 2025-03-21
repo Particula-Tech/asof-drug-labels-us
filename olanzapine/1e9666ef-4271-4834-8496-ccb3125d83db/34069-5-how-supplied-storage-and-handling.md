@@ -12,7 +12,7 @@ NDC 0781-3159-95, package of 10 single-dose vials
 
 Store olanzapine for injection vials (before reconstitution) at controlled room temperature, 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 Reconstituted olanzapine for injection may be stored at controlled room temperature, 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature] for up to 1 hour if necessary.
-Discard any unused portion of reconstituted olanzapine for injection IntraMuscular.
+Discard any unused portion of reconstituted olanzapine for injection.
 The USP defines controlled room temperature as a temperature maintained thermostatically that encompasses the usual and customary working environment of 20° to 25°C (68° to 77°F); that results in a mean kinetic temperature calculated to be not more than 25°C; and that allows for excursions between 15° and 30°C (59° and 86°F) that are experienced in pharmacies, hospitals, and warehouses.
 
 Protect olanzapine for injection from light, do not freeze.
