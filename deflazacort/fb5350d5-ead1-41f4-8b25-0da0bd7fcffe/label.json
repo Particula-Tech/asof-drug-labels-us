@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA217741"
+  ],
+  "inn": "deflazacort",
+  "labeler": "Sun Pharmaceutical Industries Limited",
+  "package_ndcs": [
+    "70095-040-01",
+    "70095-041-30",
+    "70095-042-30",
+    "70095-043-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "deflazacort",
+      "name": "Deflazacort"
+    }
+  ],
+  "setid": "fb5350d5-ead1-41f4-8b25-0da0bd7fcffe",
+  "source": "dailymed"
+}

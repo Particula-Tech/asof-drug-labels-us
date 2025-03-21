@@ -1,0 +1,18 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 CYP3A4 Inhibitors and Inducers
+
+Moderate or Strong CYP3A4 Inhibitors
+
+The active metabolite of deflazacort, 21-desDFZ, is a substrate of CYP3A4 [see Clinical Pharmacology (12.3)].
+Co-administration of deflazacort with clarithromycin, a strong CYP3A4 inhibitor, increased total exposure to 21-desDFZ by about 3-fold.
+Therefore, give one third the recommended dosage of deflazacort when moderate or strong CYP3A4 inhibitors (e.g., clarithromycin, fluconazole, diltiazem, verapamil, grapefruit juice) are used concomitantly with deflazacort [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+
+Moderate or Strong CYP3A4 Inducers
+
+Co-administration of deflazacort with rifampin, a strong CYP3A4 inducer, significantly decreased the exposure of 21-desDFZ.
+Avoid concomitant use of strong (e.g., efavirenz) or moderate (e.g., carbamazepine, phenytoin) CYP3A4 inducers with deflazacort [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+
+## 7.2 Neuromuscular Blockers
+
+Patients receiving corticosteroids, including deflazacort, and concomitant therapy with neuromuscular blocking drugs (e.g., pancuronium) may be at increased risk of developing an acute myopathy [see Warnings and Precautions (5.11)].
