@@ -13,7 +13,7 @@ Anesthesia is not necessary.
 Premedication sedatives or tranquilizers are usually not needed (see PRECAUTIONS).
 Patients should be well hydrated prior to and following contrast administration.
 Seizure-prone patients should be maintained on anticonvulsant medication.
-Many radiopaque contrast agents are incompatible in vitro with some antihistamines and many other drugs; therefore, concurrent drugs should not be physically admixed with contrast agents.
+Many radiopaque contrast agents are incompatible in vitrowith some antihistamines and many other drugs; therefore, concurrent drugs should not be physically admixed with contrast agents.
 
 ## Rate of Injection
 

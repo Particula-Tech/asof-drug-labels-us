@@ -240,7 +240,7 @@ The dosage recommended for use in peripheral angiography is as follows:
 OMNIPAQUE 300 at a concentration of 300 mg Iodine/mL or OMNIPAQUE 350 at a concentration of 350 mg Iodine/mL is indicated for use in adults in excretory urography to provide diagnostic contrast of the urinary tract.
 
 OMNIPAQUE 300 at a concentration of 300 mg Iodine/mL is indicated in pediatric patients for excretory urography.
-(See Section III for information on voiding cystourethrography.)
+(See Section IIIfor information on voiding cystourethrography.)
 
 For pharmacokinetics of excretion in adults, see CLINICAL PHARMACOLOGY—Intravascular.
 
@@ -446,9 +446,9 @@ Severe pain may often result from undue use of pressure or the injection of larg
 Joint swelling after injection is less with OMNIPAQUE than with high osmolar ionic contrast medium.
 These types of reactions are generally procedurally dependent and of greater frequency when double-contrast technique is employed.
 
-Nervous system: Swelling sensation (42%), pain (29%), heat sensation (13%), and muscle weakness (0.7%).
+Nervous system:Swelling sensation (42%), pain (29%), heat sensation (13%), and muscle weakness (0.7%).
 
-Skin and appendages: Hematoma at injection site (0.7%).
+Skin and appendages:Hematoma at injection site (0.7%).
 
 ### Dosage and Administration
 
@@ -479,7 +479,7 @@ OMNIPAQUE 300 for hysterosalpingography is contraindicated during pregnancy or s
 Injection of OMNIPAQUE for hysterosalpingography is associated with immediate, transient pain.
 Monitor injection pressure and volume instilled to minimize pain and to avoid disruptive distention of the uterus and fallopian tubes.
 Fluoroscopic monitoring is recommended.
-Nervous system: Pain (49%), somnolence and fever each with an individual incidence of 3%.
+Nervous system:Pain (49%), somnolence and fever each with an individual incidence of 3%.
 Gastrointestinal system: Nausea (3%).
 
 ### Dosage and Administration

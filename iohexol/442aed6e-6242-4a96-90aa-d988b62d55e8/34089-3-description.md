@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Iohexol,N,N´ - Bis(2,3-dihydroxypropyl)-5-[N-(2,3-dihydroxypropyl)-acetamido]-2,4,6-triiodoisophthalamide, is a nonionic, water-soluble radiographic contrast medium with a molecular weight of 821.14 (iodine content 46.36%).
+Iohexol, N, N´- Bis(2,3-dihydroxypropyl)-5-[N-(2,3-dihydroxypropyl)-acetamido]-2,4,6-triiodoisophthalamide, is a nonionic, water-soluble radiographic contrast medium with a molecular weight of 821.14 (iodine content 46.36%).
 In aqueous solution each triiodinated molecule remains undissociated.
 The chemical structure is:
 
@@ -15,7 +15,7 @@ The available concentrations have the following physical properties:
 
 |  |  |  | 20°C | 37°C | 37°C |
 | --- | --- | --- | --- | --- | --- |
-| Concentration (mg Iodine/mL) | OsmolalityBy vapor-pressure osmometry. (mOsm/kg water) | Osmolarity (mOsm/L) | Absolute Viscosity (cp) |  | Specific Gravity |
+| Concentration (mg Iodine/mL) | Osmolality By vapor-pressure osmometry. (mOsm/kg water) | Osmolarity (mOsm/L) | Absolute Viscosity (cp) |  | Specific Gravity |
 | 300 | 672 | 465 | 11.8 | 6.3 | 1.349 |
 | 350 | 844 | 541 | 20.4 | 10.4 | 1.406 |
 

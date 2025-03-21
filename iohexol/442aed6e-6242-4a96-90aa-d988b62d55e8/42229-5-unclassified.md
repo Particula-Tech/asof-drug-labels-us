@@ -35,7 +35,7 @@ Good patient management should be exercised at all times to minimize the potenti
 - Avoid early and high cephalad dispersion of the medium.
 - Avoid abrupt or active patient movement to minimize excessive mixing of medium with CSF.
   Instruct patient to remain passive.
-  Move patient slowly and only as necessary.
+  Move patient slowlyand only as necessary.
 
 ## Postprocedure
 
@@ -44,7 +44,7 @@ Good patient management should be exercised at all times to minimize the potenti
 - Before moving patient onto bed, raise head of bed 30° to 45°.
 - Advise patient to remain still in bed, in a sitting or semisitting position, especially in the first few hours.
 - Maintain close observation for at least 12 hours after myelogram.
-- Obtain visitors' cooperation in keeping the patient quiet and in head-up position, especially in first few hours.
+- Obtain visitors' cooperation in keeping the patient quiet and in head-upposition, especially in first few hours.
 - Encourage oral fluids.
   Diet as tolerated.
 - If nausea or vomiting occurs, do not use phenothiazine antinauseants.

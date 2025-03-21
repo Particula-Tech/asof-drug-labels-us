@@ -80,7 +80,7 @@ If particulate matter or discoloration is present, do not use.
 
 ## Repeat Procedures
 
-If in the clinical judgment of the physician sequential or repeat examinations are required, a suitable interval of time between administrations should be observed to allow for normal clearance of the drug from the body (see DOSAGE AND ADMINISTRATION and CLINICAL PHARMACOLOGY).
+If in the clinical judgment of the physician sequential or repeat examinations are required, a suitable interval of time between administrations should be observed to allow for normal clearance of the drug from the body (see DOSAGE AND ADMINISTRATIONand CLINICAL PHARMACOLOGY).
 
 ## Information for Patients (or if applicable, parents of pediatric patients)
 
@@ -127,14 +127,14 @@ Pediatric patients at higher risk of experiencing adverse events during contrast
 
 # WARNINGS—General
 
-Nonionic iodinated contrast media inhibit blood coagulation, in vitro, less than ionic contrast media.
+Nonionic iodinated contrast media inhibit blood coagulation, in vitro,less than ionic contrast media.
 Clotting has been reported when blood remains in contact with syringes containing nonionic contrast media.
 
 Serious, fatal, thromboembolic events causing myocardial infarction and stroke have been reported during angiographic procedures with both ionic and nonionic contrast media.
 Therefore, meticulous intravascular administration technique is necessary, particularly during angiographic procedures, to minimize thromboembolic events.
 Numerous factors, including length of procedure, catheter and syringe material, underlying disease state, and concomitant medications may contribute to the development of thromboembolic events.
 For these reasons, meticulous angiographic techniques are recommended including close attention to guidewire and catheter manipulation, use of manifold systems and/or three-way stopcocks, frequent catheter flushing with heparinized saline solutions and minimizing the length of the procedure.
-The use of plastic syringes in place of glass syringes has been reported to decrease but not eliminate the likelihood of in vitro clotting.
+The use of plastic syringes in place of glass syringes has been reported to decrease but not eliminate the likelihood of in vitroclotting.
 
 OMNIPAQUE should be used with extreme care in patients with severe functional disturbances of the liver and kidneys, severe thyrotoxicosis, or myelomatosis.
 Diabetics with a serum creatinine level above 3 mg/dL should not be examined unless the possible benefits of the examination clearly outweigh the additional risk.
@@ -236,9 +236,9 @@ Patients receiving injectable radiopaque diagnostic agents should be instructed 
 ## Drug/Laboratory Test Interaction
 
 If iodine-containing isotopes are to be administered for the diagnosis of thyroid disease, the iodine-binding capacity of thyroid tissue may be reduced for up to 2 weeks after contrast medium administration.
-Thyroid function tests which do not depend on iodine estimation, eg, T3 resin uptake or direct thyroxine assays, are not affected.
+Thyroid function tests which do not depend on iodine estimation, eg, T 3resin uptake or direct thyroxine assays, are not affected.
 
-Many radiopaque contrast agents are incompatible in vitro with some antihistamines and many other drugs; therefore, no other pharmaceuticals should be admixed with contrast agents.
+Many radiopaque contrast agents are incompatible in vitrowith some antihistamines and many other drugs; therefore, no other pharmaceuticals should be admixed with contrast agents.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -268,7 +268,7 @@ Bottle feedings may be substituted for breast feedings for 24 hours following ad
 Pediatric patients at higher risk of experiencing adverse events during contrast medium administration may include those having asthma, a sensitivity to medication and/or allergens, congestive heart failure, a serum creatinine greater than 1.5 mg/dL or those less than 12 months of age.
 Thyroid function tests indicative of thyroid dysfunction, characterized by hypothyroidism or transient thyroid suppression have been uncommonly reported following iodinated contrast media administration in pediatric patients, including term and preterm neonates.
 Some patients were treated for hypothyroidism.
-After exposure to iodinated contrast media, individualize thyroid function monitoring in pediatric patients 0 to 3 years of age based on underlying risk factors, especially in term and preterm neonates (see WARNINGS and ADVERSE REACTIONS).
+After exposure to iodinated contrast media, individualize thyroid function monitoring in pediatric patients 0 to 3 years of age based on underlying risk factors, especially in term and preterm neonates (see WARNINGSand ADVERSE REACTIONS).
 
 # WARNINGS—General
 
