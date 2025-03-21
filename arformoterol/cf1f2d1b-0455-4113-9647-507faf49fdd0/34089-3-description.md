@@ -2,12 +2,10 @@
 
 Arformoterol tartrate inhalation solution is a sterile, clear, colorless, aqueous solution of the tartrate salt of arformoterol, the (R,R)-enantiomer of formoterol.
 Arformoterol is a selective beta2-adrenergic bronchodilator.
-The chemical name for arformoterol tartrate is formamide,
-
-N-[2-hydroxy-5-[(1R)-1-hydroxy-2-[[(1R)-2 (4-methoxyphenyl)-1-methylethyl]amino]ethyl]phenyl]-,(2R,3R)-2,3-dihydroxybutanedioate (1:1 salt), and its established structural formula is as follows:
+The chemical name for arformoterol tartrate is formamide, N-[2-hydroxy-5-[(1R)-1-hydroxy-2-[[(1R)-2 (4-methoxyphenyl)-1-methylethyl]amino]ethyl]phenyl]-,(2R,3R)-2,3-dihydroxybutanedioate (1:1 salt), and its established structural formula is as follows:
 
 The molecular weight of arformoterol tartrate is 494.5 g/mol, and its empirical formula is C19H24N2O4•C4H6O6 (1:1 salt).
-It is a white or off white or light brown color powder that is soluble in dimethyl sulphoxide, slightly soluble in water, methanol and insoluble in ethyl acetate.
+It is a white or off white or light brown color powder that is soluble in dimethyl sulphoxide, slightly soluble in water, methanol and insoluble in Ethyl acetate.
 Arformoterol tartrate is the United States Adopted Name (USAN) for (R,R) formoterol L-tartrate.
 
 Arformoterol tartrate inhalation solution is supplied as 2 mL of arformoterol tartrate solution packaged in 2.1 mL unit-dose, low-density polyethylene (LDPE) unit-dose vials.

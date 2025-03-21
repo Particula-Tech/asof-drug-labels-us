@@ -45,14 +45,14 @@ FDA-Approved Patient Information
 
 See the accompanying Patient Information.
 
-For more information, go to www.lupinpharmaceuticals.com or call 1-800-399-2561.
+For more information, go to www.lupin.com/US/ or call 1-800-399-2561.
 
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
-November 2021 RPIN0148
+March 2025 RPIN0204
