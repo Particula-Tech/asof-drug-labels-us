@@ -306,7 +306,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Dermatologic
 
-Hair texture changes, hair color changes, photosensitivity, erythema multiforme, toxic epidermal necrolysis, nail and nail bed disorders, and Stevens-Johnson syndrome.
+Hair texture changes, hair color changes, photosensitivity, erythema multiforme, toxic epidermal necrolysis, nail and nail bed disorders, Stevens-Johnson syndrome, and hyperpigmentation.
 
 Psychiatric
 
