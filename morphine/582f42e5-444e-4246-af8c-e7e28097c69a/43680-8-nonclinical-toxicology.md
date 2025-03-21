@@ -23,6 +23,6 @@ One study in which male rats were administered morphine sulfate subcutaneously p
 
 Studies from the literature have also reported changes in hormonal levels in male rats (i.e. testosterone, luteinizing hormone) following treatment with morphine at 10 mg/kg/day or greater (1.6 times the HDD).
 
-Female rats that were administered morphine sulfate intraperitoneally prior to mating exhibited prolonged estrous cycles at 10 mg/kg/day (1.6 times the HDD).
+Female rats that were ad ministered morphine sulfate intraperitoneally prior to mating exhibited prolonged estrous cycles at 10 mg/kg/day (1.6 times the HDD).
 
 Exposure of adolescent male rats to morphine has been associated with delayed sexual maturation and following mating to untreated females, smaller litters, increased pup mortality, and/or changes in reproductive endocrine status in adult male offspring have been reported (estimated 5 times the plasma levels at the HDD).
