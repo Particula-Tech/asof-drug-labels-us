@@ -19,3 +19,5 @@ Itraconazole capsules, USP contain 100 mg of itraconazole, USP coated on sugar s
 Inactive ingredients are D&C Red No. 22, D&C Red No. 28, FD&C Blue No. 1, gelatin, hydroxypropyl methylcellulose, polyethylene glycol, and titanium dioxide.
 
 The imprinting ink contains black iron oxide, potassium hydroxide, propylene glycol, and shellac.
+
+Meets USP Dissolution Test 2.
