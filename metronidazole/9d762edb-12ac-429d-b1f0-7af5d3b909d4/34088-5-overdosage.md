@@ -1,6 +1,6 @@
 # OVERDOSAGE
 
-Signs and symptoms of an overdose may include nausea, vomiting, and neurotoxic effects, including ataxia, confusion, disorientation, seizures, and peripheral neuropathy.
+Signs and symptoms of an overdose may include: nausea, vomiting, and neurotoxic effects, including ataxia, confusion, disorientation, seizures, and peripheral neuropathy.
 
 ## Treatment of Overdosage
 

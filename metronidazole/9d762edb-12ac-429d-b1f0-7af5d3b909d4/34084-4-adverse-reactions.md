@@ -12,7 +12,7 @@ METABOLISM AND NUTRITION DISORDERS: Decreased appetite
 
 PSYCHIATRIC DISORDERS: Confusional state, Depression, Insomnia, Decreased libido
 
-NERVOUS SYSTEM DISORDERS: Encephalopathy, Seizure, Neuropathy peripheral, Ataxia, Dizziness, Hypoesthesia, Paresthesia, Dysgeusia, Headache, Nystagmus, Aseptic meningitis, Somonlence, Dysarthria, Numbness, Syncope
+NERVOUS SYSTEM DISORDERS: Encephalopathy, Seizure, Neuropathy peripheral, Ataxia, Dizziness, Hypoesthesia, Paresthesia, Dysgeusia, Headache, Nystagmus, Aseptic meningitis, Somnolence, Dysarthria, Numbness, Syncope
 
 EYE DISORDERS: Optic neuropathy, Saccadic eye movement
 
@@ -39,9 +39,9 @@ REPRODUCTIVE: Dyspareunia
 
 GENERAL DISORDERS AND ADMINISTRATION SITE CONDITIONS: Injection site reaction, Malaise, Face edema, Edema peripheral, Chest pain, Chills
 
-INVESTIGATIONS: Hepatic enzyme increased
+INVESTIGATIONS: Hepatic enzyme increased.
 
 Patients with Crohn's disease are known to have an increased incidence of gastrointestinal and certain extraintestinal cancers.
 There have been some reports in the medical literature of breast and colon cancer in Crohn's disease patients who have been treated with metronidazole at high doses for extended periods of time.
 A cause and effect relationship has not been established.
-Crohn's disease is not an approved indication for Metronidazole Injection, USP.
+Crohn's disease is not an approved indication for Metronidazole Injection.

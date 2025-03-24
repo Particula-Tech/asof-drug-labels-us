@@ -1,14 +1,14 @@
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Metronidazole Injection, USP and other antibacterial drugs, Metronidazole Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Metronidazole Injection and other antibacterial drugs, Metronidazole Injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 
 | WARNINGMetronidazole has been shown to be carcinogenic in mice and rats (see PRECAUTIONS). Unnecessary use of the drug should be avoided. Its use should be reserved for the conditions described in the INDICATIONS AND USAGE section below. |
 | --- |
 
 # DIRECTIONS FOR USE OF VIAFLEX PLUS PLASTIC CONTAINER
 
-Metronidazole Injection, USP is a ready-to-use iso-osmotic solution.
+Metronidazole Injection is a ready-to-use iso-osmotic solution.
 No dilution or buffering is required.
 Do not refrigerate.
-Each container of Metronidazole Injection, USP contains 14 mEq of sodium.
+Each container of Metronidazole Injection contains 14 mEq of sodium.
 
 Do not connect flexible plastic containers in series in order to avoid air embolism due to possible residual air contained in the primary container.
 
@@ -41,9 +41,9 @@ Do not add supplementary medication.
 
 Manufactured by: Baxter Healthcare Corporation Deerfield, IL 60015 USA Printed in USA PREMIERPro™Rx
 
-Baxter and Viaflex are registered trademarks of Baxter International Inc.
+Baxter and Viaflex are registered trademarks of Baxter International Inc. and its subsidiaries.
 
 PremierPro Rx is a trademark of Premier, Inc. used under license
 
-07-19-00-7964 Rev.
-07/2024
+07-19-00-8466 Rev.
+3/2025
