@@ -4,10 +4,10 @@
 
 This product is for intravenous use only.
 
-Adult Dosage: The recommended adult dose of ARRANON is 1500 mg/m2 administered intravenously over 2 hours on Days 1, 3, and 5 repeated every 21 days.
+Adult Dosage: The recommended adult dose of ARRANON is 1,500 mg/m2 administered by intravenous infusion over 2 hours on Days 1, 3, and 5 repeated every 21 days.
 Administer ARRANON undiluted.
 
-Pediatric Dosage: The recommended pediatric dose of ARRANON is 650 mg/m2 administered intravenously over 1 hour daily for 5 consecutive days repeated every 21 days.
+Pediatric Dosage: The recommended pediatric dose of ARRANON is 650 mg/m2 administered by intravenous infusion over 1 hour daily for 5 consecutive days repeated every 21 days.
 Administer ARRANON undiluted.
 
 The recommended duration of treatment for adult and pediatric patients has not been clearly established.
@@ -30,7 +30,7 @@ Take precautions against hyperuricemia (e.g., hydration, urine alkalinization, a
 
 ## 2.5 Instructions for Handling, Preparation, and Administration
 
-Handling: ARRANON is a cytotoxic agent.
+Handling: ARRANON is a hazardous drug.
 Caution should be used during handling and preparation.
 Use of gloves and other protective clothing to prevent skin contact is recommended.
 Proper aseptic technique should be used.

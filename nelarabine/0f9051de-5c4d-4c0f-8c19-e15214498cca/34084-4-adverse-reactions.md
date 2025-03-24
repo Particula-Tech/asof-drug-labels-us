@@ -22,7 +22,7 @@ The most common adverse reactions in adults were fatigue; gastrointestinal disor
 The most common adverse reactions in adults by Body System, including severe or life-threatening adverse reactions (NCI CTCAE Grade 3 or Grade 4) and fatal adverse reactions (Grade 5) are shown in Table 1.
 
 Table 1.
-Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Adult Patients Treated With 1500 mg/m2 of ARRANON Administered Intravenously Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
+Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Adult Patients Treated With 1,500 mg/m2 of ARRANON Administered by Intravenous Infusion Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
 
 |  | Percentage of Patients (N = 103) |  |  |
 | --- | --- | --- | --- |
@@ -98,7 +98,7 @@ Neurologic Adverse Reactions: Nervous system adverse reactions, were reported fo
 The most common neurologic adverse reactions (≥ 2%) in adult patients including all grades (NCI CTCAE) are shown in Table 2.
 
 Table 2.
-Neurologic Adverse Reactions (≥ 2%) in Adult Patients Treated With 1500 mg/m2 of ARRANON Administered Intravenously Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
+Neurologic Adverse Reactions (≥ 2%) in Adult Patients Treated With 1,500 mg/m2 of ARRANON Administered by Intravenous Infusion Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
 
 |  | Percentage of Patients (N =103) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -138,7 +138,7 @@ Of the non-hematologic adverse reactions in pediatric patients, the most frequen
 The most common adverse reactions in pediatric patients by System Organ Class including severe or life threatening adverse reactions (NCI CTCAE Grade 3 or Grade 4) and fatal adverse reactions (Grade 5) are shown in Table 3.
 
 Table 3.
-Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Pediatric Patients Treated With 650 mg/m2 of ARRANON Administered Intravenously Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
+Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Pediatric Patients Treated With 650 mg/m2 of ARRANON Administered by Intravenous Infusion Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
 
 |  | Percentage of Patients (N = 84) |  |  |
 | --- | --- | --- | --- |
@@ -175,7 +175,7 @@ Neurologic Adverse Reactions: Nervous system adverse reactions were reported for
 The most common neurologic adverse reactions (≥ 2%) in pediatric patients including all grades (NCI CTCAE) are shown in Table 4.
 
 Table 4.
-Neurologic Adverse Reactions (≥ 2%) in Pediatric Patients Treated With 650 mg/m2 of ARRANON Administered Intravenously Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
+Neurologic Adverse Reactions (≥ 2%) in Pediatric Patients Treated With 650 mg/m2 of ARRANON Administered by Intravenous Infusion Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
 
 |  | Percentage of Patients (N = 84) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |

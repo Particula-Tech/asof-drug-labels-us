@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 66758-165-94
+NDC 66758-165-94 Rx only
 
 ARRANON® (nelarabine) Injection
 
@@ -14,6 +14,6 @@ Single-Dose Vial
 
 Discard Unused Portion.
 
-Rx only
+WARNING: Hazardous Drug
 
 SANDOZ
