@@ -19,3 +19,10 @@ Changes in renal function including acute renal failure can be caused by drugs t
 Patients whose renal function may depend in part on the activity of the renin-angiotensin system (e.g., patients with renal artery stenosis, chronic kidney disease, severe heart failure, or volume depletion) may be at particular risk of developing acute renal failure or death on AVAPRO.
 Monitor renal function periodically in these patients.
 Consider withholding or discontinuing therapy in patients who develop a clinically significant decrease in renal function on AVAPRO [see Drug Interactions (7.3)].
+
+## 5.4 Intestinal Angioedema
+
+Intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including AVAPRO [see Adverse Reactions (6.2)].
+These patients presented with abdominal pain, nausea, vomiting and diarrhea.
+Symptoms resolved after discontinuation of angiotensin II receptor antagonists.
+If intestinal angioedema is diagnosed, AVAPRO should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.

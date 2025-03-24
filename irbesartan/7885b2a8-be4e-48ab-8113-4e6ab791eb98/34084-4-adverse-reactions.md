@@ -33,3 +33,5 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate reliably their frequency or to establish a causal relationship to drug exposure.
 
 Urticaria; angioedema (involving swelling of the face, lips, pharynx, and/or tongue); anaphylactic reaction including anaphylactic shock; increased liver function tests; jaundice; hepatitis; hyperkalemia; anemia; thrombocytopenia; increased CPK; tinnitus; and hypoglycemia in diabetic patients.
+
+The following has been rarely reported with irbesartan: intestinal angioedema [see Warnings and Precautions (5.4)].
