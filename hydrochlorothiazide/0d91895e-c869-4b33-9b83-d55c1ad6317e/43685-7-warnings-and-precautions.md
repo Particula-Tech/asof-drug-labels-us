@@ -90,3 +90,10 @@ Untreated acute angle-closure glaucoma may result in permanent vision loss.
 The primary treatment is to discontinue drug intake as rapidly as possible.
 Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled.
 Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy.
+
+## 5.9 Intestinal Angioedema
+
+Intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including AVALIDE [see Adverse Reactions (6.2)].
+These patients presented with abdominal pain, nausea, vomiting and diarrhea.
+Symptoms resolved after discontinuation of angiotensin II receptor antagonists.
+If intestinal angioedema is diagnosed, AVALIDE should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
