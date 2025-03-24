@@ -1,9 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-ARRANON Injection is supplied as a clear, colorless, sterile solution in Type I, clear glass single-dose vials with a gray bromobutyl rubber stopper (not made with natural rubber latex) and an aluminum seal with a red snap-off cap.
-Each vial contains 250 mg of nelarabine (5 mg nelarabine per mL) and the inactive ingredient sodium chloride (4.5 mg per mL) in Water for Injection, USP.
+ARRANON (nelarabine) injection is supplied as a clear, colorless, sterile solution in Type I, clear glass single-dose vials with a gray bromobutyl rubber stopper (not made with natural rubber latex) and an aluminum seal with a snap-off cap.
 
-Single-dose Vials are available in the following carton sizes:
+Single-dose Vials are available in 250 mg/50 mL (5 mg/mL) strength and the following carton sizes:
 
 NDC 0078-0683-61 (package of 1).
 Discard Unused Portion.

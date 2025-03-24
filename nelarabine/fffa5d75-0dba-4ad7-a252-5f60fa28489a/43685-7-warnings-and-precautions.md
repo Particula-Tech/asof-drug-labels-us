@@ -25,7 +25,7 @@ Complete blood counts including platelets should be monitored regularly [see Dos
 ## 5.3 Embryo-Fetal Toxicity
 
 1. Based on its mechanism of action and findings in animal studies, ARRANON can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
-   In animal reproduction studies, intravenous administration of nelarabine to pregnant rabbits during the period of organogenesis resulted in teratogenicity at maternal doses below the recommended human adult dose of 1500 mg/m2/day (see Data).
+   In animal reproduction studies, intravenous administration of nelarabine to pregnant rabbits during the period of organogenesis resulted in teratogenicity at maternal doses below the recommended human adult dose of 1,500 mg/m2/day (see Data).
 2. Advise pregnant women of the potential risk to the fetus.
    Advise females of reproductive potential to use effective contraception during treatment with ARRANON.
    Advise males with female partners of reproductive potential to use condoms during treatment with ARRANON and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3), Nonclinical Toxicology (13.1)].

@@ -7,7 +7,7 @@ Risk Summary
 Based on its mechanism of action and findings in animal studies, ARRANON can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 Limited available data with ARRANON use in pregnant women are insufficient to determine a drug-associated risk for major birth defects, miscarriage or adverse maternal, or fetal outcomes.
 There are risks to the pregnant woman associated with untreated leukemia or lymphoma (see Clinical Considerations).
-In animal reproduction studies, intravenous administration of nelarabine to pregnant rabbits during the period of organogenesis resulted in teratogenicity at maternal doses below the recommended human adult dose of 1500 mg/m2/day (see Data).
+In animal reproduction studies, intravenous administration of nelarabine to pregnant rabbits during the period of organogenesis resulted in teratogenicity at maternal doses below the recommended human adult dose of 1,500 mg/m2/day (see Data).
 Advise pregnant women of the potential risk to the fetus.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.

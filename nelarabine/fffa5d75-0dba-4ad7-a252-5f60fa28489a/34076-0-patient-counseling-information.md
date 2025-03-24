@@ -45,5 +45,3 @@ Lactation
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936
 
 © Novartis
-
-T2019-90

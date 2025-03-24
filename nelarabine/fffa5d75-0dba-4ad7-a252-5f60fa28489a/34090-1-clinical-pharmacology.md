@@ -10,11 +10,11 @@ Other mechanisms may contribute to the cytotoxic and systemic toxicity of nelara
 ## 12.3 Pharmacokinetics
 
 Absorption: Following intravenous administration of nelarabine to adult patients with refractory leukemia or lymphoma, plasma ara-G Cmax values generally occurred at the end of the nelarabine infusion and were generally higher than nelarabine Cmax values, suggesting rapid and extensive conversion of nelarabine to ara-G.
-Mean plasma nelarabine and ara-G Cmax values were 5.0 ± 3.0 mcg/mL and 31.4 ± 5.6 mcg/mL, respectively, after a 1500 mg/m2 nelarabine dose infused over 2 hours in adult patients.
-The area under the concentration-time curve (AUC) of ara-G is 37 times higher than that for nelarabine on Day 1 after nelarabine IV infusion of 1500 mg/m2 dose (162 ± 49 mcg.h/mL versus 4.4 ± 2.2 mcg.h/mL, respectively).
-Comparable Cmax and AUC values were obtained for nelarabine between Days 1 and 5 at the nelarabine adult dosage of 1500 mg/m2, indicating that nelarabine does not accumulate after multiple-dosing.
+Mean plasma nelarabine and ara-G Cmax values were 5.0 ± 3.0 mcg/mL and 31.4 ± 5.6 mcg/mL, respectively, after a 1,500 mg/m2 nelarabine dose infused over 2 hours in adult patients.
+The area under the concentration-time curve (AUC) of ara-G is 37 times higher than that for nelarabine on Day 1 after nelarabine IV infusion of 1,500 mg/m2 dose (162 ± 49 mcg.h/mL versus 4.4 ± 2.2 mcg.h/mL, respectively).
+Comparable Cmax and AUC values were obtained for nelarabine between Days 1 and 5 at the nelarabine adult dosage of 1,500 mg/m2, indicating that nelarabine does not accumulate after multiple-dosing.
 There are not enough ara-G data to make a comparison between Day 1 and Day 5.
-After a nelarabine adult dose of 1500 mg/m2, intracellular Cmax for ara-GTP appeared within 3 to 25 hours on Day 1.
+After a nelarabine adult dose of 1,500 mg/m2, intracellular Cmax for ara-GTP appeared within 3 to 25 hours on Day 1.
 Exposure (AUC) to intracellular ara-GTP was 532 times higher than that for nelarabine and 14 times higher than that for ara-G (2,339 ± 2,628 mcg.h/mL versus 4.4 ± 2.2 mcg.h/mL and 162 ± 49 mcg.h/mL, respectively).
 Because the intracellular levels of ara-GTP were so prolonged, its elimination half-life could not be accurately estimated.
 

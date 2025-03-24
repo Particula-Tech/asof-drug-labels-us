@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-NDC 0078-0683-61
+NDC 0078-0683-61 Rx only
 
 ARRANON® (nelarabine) Injection
 
@@ -14,6 +14,6 @@ Single-Dose Vial.
 
 Discard Unused Portion.
 
-Rx only
+WARNING: Hazardous Drug
 
 NOVARTIS

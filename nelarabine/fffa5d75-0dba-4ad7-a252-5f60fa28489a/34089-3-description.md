@@ -8,7 +8,7 @@ Nelarabine has the following structural formula:
 
 Nelarabine is slightly soluble to soluble in water and melts with decomposition between 209ºC and 217ºC.
 
-ARRANON Injection is supplied as a clear, colorless, sterile solution in glass single-dose vials.
+ARRANON (nelarabine) injection is supplied as a clear, colorless, sterile solution in glass single-dose vials.
 Each vial contains 250 mg of nelarabine (5 mg nelarabine per mL) and the inactive ingredient sodium chloride (4.5 mg per mL) in Water for Injection, USP.
 ARRANON is intended for intravenous infusion.
 
