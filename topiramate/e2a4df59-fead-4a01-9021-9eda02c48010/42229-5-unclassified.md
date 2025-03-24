@@ -9,4 +9,4 @@ For current Full Prescribing Information, please visit www.eprontia.com
 
 PN: 65628-00603
 
-REV #: 08
+REV #: 09

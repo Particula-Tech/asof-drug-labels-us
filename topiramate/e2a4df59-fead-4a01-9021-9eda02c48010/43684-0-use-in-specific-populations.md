@@ -151,7 +151,7 @@ The safety and effectiveness of EPRONTIA as monotherapy for the treatment of par
 
 A one-year, active-controlled, open-label study with blinded assessments of bone mineral density (BMD) and growth in pediatric patients 4 to 15 years of age, including 63 patients with recent or new onset of epilepsy, was conducted to assess effects of topiramate (N=28, 6-15 years of age) versus levetiracetam (N=35, 4-15 years of age) monotherapy on bone mineralization and on height and weight, which reflect growth.
 Effects on bone mineralization were evaluated via dual-energy X-ray absorptiometry and blood markers.
-Table 10summarizes effects of topiramate at 12 months for key safety outcomes including BMD, height, height velocity, and weight.
+Table 10 summarizes effects of topiramate at 12 months for key safety outcomes including BMD, height, height velocity, and weight.
 All Least Square Mean values for topiramate and the comparator were positive.
 Therefore, the Least Square Mean treatment differences shown reflect a topiramate-induced attenuation of the key safety outcomes.
 Statistically significant effects were observed for decreases in BMD (and bone mineral content) in lumbar spine and total body less head and in weight.

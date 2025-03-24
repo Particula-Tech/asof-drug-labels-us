@@ -37,7 +37,7 @@ The most common adverse reactions in the controlled clinical trial (Study 1) tha
 Approximately 14% of the 77 pediatric patients in the 400 mg/day group who received topiramate as monotherapy in the controlled clinical trial discontinued therapy due to adverse reactions.
 The most common (≥2% more frequent than low-dose 50 mg/day topiramate) adverse reactions resulting in discontinuation were difficulty with concentration/attention, fever, flushing, and confusion.
 
-Table 5presents the incidence of adverse reactions occurring in at least 3% of adult and pediatric patients treated with 400 mg/day topiramate and occurring with greater incidence than 50 mg/day topiramate.
+Table 5 presents the incidence of adverse reactions occurring in at least 3% of adult and pediatric patients treated with 400 mg/day topiramate and occurring with greater incidence than 50 mg/day topiramate.
 
 Table 5: Adverse Reactions in the High Dose Group as Compared to the Low Dose Group, in Monotherapy Epilepsy Trial (Study 1) in Adult and Pediatric Patients
 
@@ -120,7 +120,7 @@ Patients in these trials were receiving 1 to 2 concomitant antiepileptic drugs i
 
 The most common adverse reactions in the controlled clinical trial that occurred in adult patients in the 200-400 mg/day topiramate group with an incidence higher (≥ 10 %) than in the placebo group were: dizziness, speech disorders/related speech problems, somnolence, nervousness, psychomotor slowing, and vision abnormal (Table 6).
 
-Table 6presents the incidence of adverse reactions occurring in at least 3% of adult patients treated with 200 to 400 mg/day topiramate and was greater than placebo incidence.
+Table 6 presents the incidence of adverse reactions occurring in at least 3% of adult patients treated with 200 to 400 mg/day topiramate and was greater than placebo incidence.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, paresthesia, language problems, psychomotor slowing, depression, difficulty with concentration/attention, mood problems) was dose-related and much greater at higher than recommended topiramate dosing (i.e., 600 mg - 1000 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (200 mg to 400 mg daily) range.
 
 Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Adults *
@@ -184,7 +184,7 @@ In pooled, controlled clinical trials in pediatric patients (2 to 15 years of ag
 
 The most common adverse reactions in the controlled clinical trial that occurred in pediatric patients in the 5 mg to 9 mg/kg/day topiramate group with an incidence higher (≥ 10 %) than in the placebo group were: fatigue and somnolence (Table 7).
 
-Table 7presents the incidence of adverse reactions that occurred in at least 3% of pediatric patients 2 to 15 years of age receiving 5 mg to 9 mg/kg/day (recommended dose range) of topiramate and was greater than placebo incidence.
+Table 7 presents the incidence of adverse reactions that occurred in at least 3% of pediatric patients 2 to 15 years of age receiving 5 mg to 9 mg/kg/day (recommended dose range) of topiramate and was greater than placebo incidence.
 
 Table 7: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Epilepsy Trials in Pediatric Patients 2 to 15 Years of Age *,†
 
@@ -240,7 +240,7 @@ In the four multicenter, randomized, double-blind, placebo-controlled, parallel 
 
 The most common adverse reactions with topiramate 100 mg in the clinical trials for the preventive treatment of migraine of predominantly adults that were seen at an incidence higher (≥ 5 %) than in the placebo group were: paresthesia, anorexia, weight loss, taste perversion, diarrhea, difficulty with memory, hypoesthesia, and nausea (see Table 8).
 
-Table 8includes those adverse reactions that occurred in the placebo-controlled trials where the incidence in any topiramate treatment group was at least 3% and was greater than that for placebo patients.
+Table 8 includes those adverse reactions that occurred in the placebo-controlled trials where the incidence in any topiramate treatment group was at least 3% and was greater than that for placebo patients.
 The incidence of some adverse reactions (e.g., fatigue, dizziness, somnolence, difficulty with memory, difficulty with concentration/attention) was dose-related and greater at higher than recommended topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
 Table 8: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in Adults *,†
@@ -315,9 +315,9 @@ In five, randomized, double-blind, placebo-controlled, parallel group clinical t
 Among adverse reactions with onset during titration, approximately half persisted into the maintenance period.
 
 In four, fixed-dose, double-blind clinical trials for the preventive treatment of migraine in topiramate -treated pediatric patients 12 to 17 years of age, the most common adverse reactions with topiramate 100 mg that were seen at an incidence higher (≥5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain (see Table 9).
-Table 9shows adverse reactions from the pediatric trial (Study 13 [see Clinical Studies (14.3)]) in which 103 pediatric patients were treated with placebo or 50 mg or 100 mg of topiramate, and three predominantly adult trials in which 49 pediatric patients (12 to 17 years of age) were treated with placebo or 50 mg, 100 mg or 200 mg of topiramate.
-Table 9also shows adverse reactions in pediatric patients in the controlled migraine trials when the incidence in a topiramate dose group was at least 5 % or higher and greater than the incidence of placebo.
-Many adverse reactions shown in Table 9indicate a dose-dependent relationship.
+Table 9 shows adverse reactions from the pediatric trial (Study 13 [see Clinical Studies (14.3)]) in which 103 pediatric patients were treated with placebo or 50 mg or 100 mg of topiramate, and three predominantly adult trials in which 49 pediatric patients (12 to 17 years of age) were treated with placebo or 50 mg, 100 mg or 200 mg of topiramate.
+Table 9 also shows adverse reactions in pediatric patients in the controlled migraine trials when the incidence in a topiramate dose group was at least 5 % or higher and greater than the incidence of placebo.
+Many adverse reactions shown in Table 9 indicate a dose-dependent relationship.
 The incidence of some adverse reactions (e.g., allergy, fatigue, headache, anorexia, insomnia, somnolence, and viral infection) was dose-related and greater at higher than recommended topiramate dosing (200 mg daily) compared to the incidence of these adverse reactions at the recommended dosing (100 mg daily).
 
 Table 9: Adverse Reactions in Pooled Double-Blind Studies for the Preventive Treatment of Migraine in Pediatric Patients 12 to 17 Years of Age *,†,‡
