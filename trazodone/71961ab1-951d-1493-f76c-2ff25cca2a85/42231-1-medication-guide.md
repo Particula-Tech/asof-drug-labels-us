@@ -204,7 +204,7 @@ APOTEX INC. TRAZODONE HYDROCHLORIDE TABLETS, USP 50 mg, 100 mg, 150 mg and 300 m
 | Toronto, Ontario | Weston Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: November 2022
+Revised: March 2025
 
 Rev.
-8
+9
