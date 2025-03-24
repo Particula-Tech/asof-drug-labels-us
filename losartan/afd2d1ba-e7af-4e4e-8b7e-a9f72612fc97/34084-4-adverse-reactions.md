@@ -6,23 +6,35 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Hypertension
 
-TRADENAME has been evaluated for safety in more than 3,300 adult patients treated for essential hypertension and 4058 patients/subjects overall.
+Arbli has been evaluated for safety in more than 3,300 adult patients treated for essential hypertension and 4058 patients/subjects overall.
 Over 1,200 patients were treated for over 6 months and more than 800 for over one year.
 
-Treatment with TRADENAME was well-tolerated with an overall incidence of adverse events similar to that of placebo.
-In controlled clinical trials, discontinuation of therapy for adverse events occurred in 2.3% of patients treated with TRADENAME and 3.7% of patients given placebo.
-In 4 clinical trials involving over 1,000 patients on various doses (10 mg to 150 mg) of losartan potassium and over 300 patients given placebo, the adverse events that occurred in 2% of patients treated with TRADENAME and more commonly than placebo were: dizziness (3% vs. 2%), upper respiratory infection (8% vs. 7%), nasal congestion (2% vs. 1%), and back pain (2% vs. 1%).
+Treatment with Arbli was well-tolerated with an overall incidence of adverse events similar to that of placebo.
+In controlled clinical trials, discontinuation of therapy for adverse events occurred in 2.3% of patients treated with Arbli and 3.7% of patients given placebo.
+In 4 clinical trials involving over 1,000 patients on various doses (10 mg to 150 mg) of losartan potassium and over 300 patients given placebo, the adverse events that occurred in ≥2% of patients treated with Arbli and more commonly than placebo were: dizziness (3% vs. 2%), upper respiratory infection (8% vs. 7%), nasal congestion (2% vs. 1%), and back pain (2% vs. 1%).
 
-The following less common adverse reactions have been reported: Blood and lymphatic system disorders: Anemia.
+The following less common adverse reactions have been reported:
+
+Blood and lymphatic system disorders: Anemia.
+
 Psychiatric disorders: Depression.
+
 Nervous system disorders: Somnolence, headache, sleep disorders, paresthesia, migraine.
+
 Ear and labyrinth disorders: Vertigo, tinnitus.
+
 Cardiac disorders: Palpitations, syncope, atrial fibrillation, CVA.
+
 Respiratory, thoracic and mediastinal disorders: Dyspnea.
+
 Gastrointestinal disorders: Abdominal pain, constipation, nausea, vomiting.
+
 Skin and subcutaneous tissue disorders: Urticaria, pruritus, rash, photosensitivity.
+
 Musculoskeletal and connective tissue disorders: Myalgia, arthralgia.
+
 Reproductive system and breast disorders: Impotence.
+
 General disorders and administration site conditions: Edema.
 
 Cough
@@ -38,12 +50,12 @@ Table 1
 | Study 1* | HCTZ | Losartan | Lisinopril |
 | --- | --- | --- | --- |
 | Cough | 25% | 17% | 69% |
-| Study 2 | Placebo | Losartan | Lisinopril |
+| Study 2† | Placebo | Losartan | Lisinopril |
 | Cough | 35% | 29% | 62% |
 
 * Demographics = (89% Caucasian, 64% female)
 
-Demographics = (90% Caucasian, 51% female)
+† Demographics = (90% Caucasian, 51% female)
 
 These studies demonstrate that the incidence of cough associated with losartan therapy, in a population that all had cough associated with ACE-inhibitor therapy, is similar to that associated with hydrochlorothiazide or placebo therapy.
 
@@ -57,7 +69,7 @@ Nephropathy in Type 2 Diabetic Patients
 
 In the Reduction of Endpoints in NIDDM with the Angiotensin II Receptor Antagonist Losartan (RENAAL) study involving 1,513 patients treated with losartan or placebo, the overall incidences of reported adverse events were similar for the two groups.
 Discontinuations of losartan because of side effects were similar to placebo (19% for losartan, 24% for placebo).
-The adverse events, regardless of drug relationship, reported with an incidence of 4% of patients treated with losartan and occurring with 2% difference in the losartan group vs. placebo on a background of conventional antihypertensive therapy, were asthenia/fatigue, chest pain, hypotension, orthostatic hypotension, diarrhea, anemia, hyperkalemia, hypoglycemia, back pain, muscular weakness, and urinary tract infection.
+The adverse events, regardless of drug relationship, reported with an incidence of ≥4% of patients treated with losartan and occurring with ≥2% difference in the losartan group vs. placebo on a background of conventional antihypertensive therapy, were asthenia/fatigue, chest pain, hypotension, orthostatic hypotension, diarrhea, anemia, hyperkalemia, hypoglycemia, back pain, muscular weakness, and urinary tract infection.
 
 ## 6.2 Postmarketing Experience
 
@@ -66,12 +78,26 @@ The following additional adverse reactions have been reported in postmarketing e
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure:
 
 Digestive: Hepatitis.
+
 General Disorders and Administration Site Conditions: Malaise.
+
 Hematologic: Thrombocytopenia.
-Hypersensitivity: Angioedema, including swelling of the larynx and glottis, causing airway obstruction and/or swelling of the face, lips, pharynx, and/or tongue has been reported rarely in patients treated with losartan; some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
+
+Hypersensitivity: Angioedema, including swelling of the larynx and glottis, causing airway obstruction and/or
+
+swelling of the face, lips, pharynx, and/or tongue has been reported rarely in patients treated with losartan;
+
+some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
+
 Vasculitis, including Henoch-Schönlein purpura, has been reported.
-Anaphylactic reactions have been reported.
+Anaphylactic reactions have been
+
+reported.
+
 Metabolic and Nutrition: Hyponatremia.
+
 Musculoskeletal: Rhabdomyolysis.
+
 Nervous System Disorders: Dysgeusia.
+
 Skin: Erythroderma.

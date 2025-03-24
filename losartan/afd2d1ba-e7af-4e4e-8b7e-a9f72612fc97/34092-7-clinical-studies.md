@@ -4,7 +4,7 @@
 
 Adult Hypertension
 
-The antihypertensive effects of losartan were demonstrated principally in 4 placebo-controlled, 6 to 12 week trials of dosages from 10 to 150 mg per day in patients with baseline diastolic blood pressures of 95 to 115.
+The antihypertensive effects of losartanwere demonstrated principally in 4 placebo-controlled, 6-to-12-week trials of dosages from 10 to 150 mg per day in patients with baseline diastolic blood pressures of 95 to 115.
 The studies allowed comparisons of two doses (50 to 100 mg/day) as once-daily or twice-daily regimens, comparisons of peak and trough effects, and comparisons of response by gender, age, and race.
 Three additional studies examined the antihypertensive effects of losartan and hydrochlorothiazide in combination.
 
@@ -12,7 +12,7 @@ The 4 studies of losartan monotherapy included a total of 1,075 patients randomi
 The 10-and 25-mg doses produced some effect at peak (6 hours after dosing) but small and inconsistent trough (24 hour) responses.
 Doses of 50, 100 and 150 mg once daily gave statistically significant systolic/diastolic mean decreases in blood pressure, compared to placebo in the range of 5.5 to 10.5/3.5 to 7.5 mmHg, with the 150-mg dose giving no greater effect than 50 mg to 100 mg.
 Twice-daily dosing at 50 to 100 mg/day gave consistently larger trough responses than once-daily dosing at the same total dose.
-Peak (6 hour) effects were uniformly, but moderately, larger than trough effects, with the trough-to-peak ratio for systolic and diastolic responses 50% to 95% and 60% to 90%, respectively.
+Peak (6 h) effects were uniformly, but moderately, larger than trough effects, with the trough-to-peak ratio for systolic and diastolic responses 50% to 95% and 60% to 90%, respectively.
 
 Addition of a low dose of hydrochlorothiazide (12.5 mg) to losartan 50 mg once daily resulted in placebo-adjusted blood pressure reductions of 15.5/9.2 mmHg.
 
@@ -23,7 +23,7 @@ Pediatric Hypertension
 
 The antihypertensive effect of losartan was studied in one trial enrolling 177 hypertensive pediatric patients aged 6 to 16 years old.
 Children who weighed <50 kg received 2.5, 25 or 50 mg of losartan daily and patients who weighed ≥50 kg received 5, 50 or 100 mg of losartan daily.
-Children in the lowest dose group were given losartan in a suspension formulation [see Dosage and Administration (2.1)].
+Children in the lowest dose group were given losartan in a suspension formulation [see Dosage and Administration (2.2)].
 The majority of the children had hypertension associated with renal and urogenital disease.
 The sitting diastolic blood pressure (SiDBP) on entry into the study was higher than the 95th percentile level for the patient’s age, gender, and height.
 At the end of three weeks, losartan reduced systolic and diastolic blood pressure, measured at trough, in a dose-dependent manner.
@@ -38,12 +38,12 @@ While blood pressure was reduced in all racial subgroups examined, too few non-W
 
 The LIFE study was a multinational, double-blind study comparing losartan and atenolol in 9,193 hypertensive patients with ECG-documented left ventricular hypertrophy.
 Patients with myocardial infarction or stroke within six months prior to randomization were excluded.
-Patients were randomized to receive once daily losartan 50 mg or atenolol 50 mg.
+Patients were randomized to receive once daily losartan50 mg or atenolol 50 mg.
 If goal blood pressure (<140/90 mmHg) was not reached, hydrochlorothiazide (12.5 mg) was added first and, if needed, the dose of losartan or atenolol was then increased to 100 mg once daily.
 If necessary, other antihypertensive treatments (e.g., increase in dose of hydrochlorothiazide therapy to 25 mg or addition of other diuretic therapy, calcium-channel blockers, alpha-blockers, or centrally acting agents, but not ACE inhibitors, angiotensin II antagonists, or beta-blockers) were added to the treatment regimen to reach the goal blood pressure.
 
 Of the randomized patients, 4,963 (54%) were female and 533 (6%) were Black.
-The mean age was 67 with 5,704 (62%) age 65.
+The mean age was 67 with 5,704 (62%) age ≥65.
 At baseline, 1,195 (13%) had diabetes, 1,326 (14%) had isolated systolic hypertension, 1,469 (16%) had coronary heart disease, and 728 (8%) had cerebrovascular disease.
 Baseline mean blood pressure was 174/98 mmHg in both treatment groups.
 The mean length of follow-up was 4.8 years.
@@ -88,7 +88,9 @@ Table 3: Incidence of Primary Endpoint Events
 
 * Rate per 1,000 patient-years of follow-up
 
-† Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy ‡ Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease
+† Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy
+
+‡ Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease
 
 Although the LIFE study favored losartan over atenolol with respect to the primary endpoint (p=0.021), this result is from a single study and, therefore, is less compelling than the difference between losartan and placebo.
 Although not measured directly, the difference between losartan and placebo is compelling because there is evidence that atenolol is itself effective (vs. placebo) in reducing cardiovascular events, including stroke, in hypertensive patients.
@@ -99,16 +101,21 @@ There were no significant differences in the rates of these endpoints between th
 For the primary endpoint and stroke, the effects of losartan in patient subgroups defined by age, gender, race and presence or absence of isolated systolic hypertension (ISH), diabetes, and history of cardiovascular disease (CVD) are shown in Figure 3 below.
 Subgroup analyses can be difficult to interpret and it is not known whether these represent true differences or chance effects.
 
-Figure 3: Primary Endpoint Events within Demographic Subgroups
+Figure 3: Primary Endpoint Events† within Demographic Subgroups
 
-Symbols are proportional to sample size. #Other includes Asian, Hispanic, Asiatic, Multi-race, Indian, Native American, European.
-Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy.
+Symbols are proportional to sample size.
+
+#Other includes Asian, Hispanic, Asiatic, Multi-race, Indian, Native American, European.
+
+†Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy.
 
 ## 14.3 Nephropathy in Type 2 Diabetic Patients
 
-The RENAAL study was a randomized, placebo-controlled, double-blind, multicenter study conducted worldwide in 1,513 patients with type 2 diabetes with nephropathy (defined as serum creatinine 1.3 to 3 mg/dL in females or males 60 kg and 1.5 to 3 mg/dL in males >60 kg and proteinuria [urinary albumin to creatinine ratio 300 mg/g]).
+The RENAAL study was a randomized, placebo-controlled, double-blind, multicenter study conducted worldwide in 1,513 patients with type 2 diabetes with nephropathy (defined as serum creatinine 1.3 to
 
-Patients were randomized to receive losartan 50 mg once daily or placebo on a background of conventional antihypertensive therapy excluding ACE inhibitors and angiotensin II antagonists.
+3 mg/dL in females or males ≤60 kg and 1.5 to 3 mg/dL in males >60 kg and proteinuria [urinary albumin to creatinine ratio ≥300 mg/g]).
+
+Patients were randomized to receive losartan50 mg once daily or placebo on a background of conventional antihypertensive therapy excluding ACE inhibitors and angiotensin II antagonists.
 After one month, investigators were instructed to titrate study drug to 100 mg once daily if the trough blood pressure goal (140/90 mmHg) was not achieved.
 Overall, 72% of patients received the 100-mg daily dose more than 50% of the time they were on study drug.
 Because the study was designed to achieve equal blood pressure control in both groups, other antihypertensive agents (diuretics, calcium-channel blockers, alpha-or beta-blockers, and centrally acting agents) could be added as needed in both groups.
@@ -126,10 +133,6 @@ The mean baseline blood pressures were 152/82 mmHg for losartan plus conventiona
 At the end of the study, the mean blood pressures were 143/76 mmHg for the group treated with losartan and 146/77 mmHg for the group treated with placebo.
 
 Figure 4: Kaplan-Meier curve for the primary composite endpoint of doubling of serum creatinine, end stage renal disease (need for dialysis or transplantation) or death.
-
-Doubling of Serum Creatinine, ESRD and Death Occurring as a First Event
-
-Overall Incidence of Doubling of Serum Creatinine, ESRD and Death
 
 Table 4: Incidence of Primary Endpoint Events
 
@@ -163,12 +166,12 @@ Table 5: Efficacy Outcomes within Demographic Subgroups
 | Overall Results | 1,513 | 43.5 | 47.1 | 0.84 (0.72, 0.98) | 19.6 | 25.5 | 0.71 (0.58, 0.89) |
 | Age |  |  |  |  |  |  |  |
 | <65 years | 1,005 | 44.1 | 49.0 | 0.78 (0.65, 0.94) | 21.1 | 28.5 | 0.67 (0.52, 0.86) |
-| ≥65 years | 508 | 42.3 | 43.5 | 0.78 (0.65, 0.94) | 16.5 | 19.6 | 0.67 (0.52, 0.86) |
+| ≥65 years | 508 | 42.3 | 43.5 | 0.98 (0.75, 1.28) | 16.5 | 19.6 | 0.85 (0.56, 1.28) |
 | Gender |  |  |  |  |  |  |  |
-| Female | 557 | 47.8 | 54.1 | 0.78 (0.65, 0.94) | 22.8 | 32.8 | 0.60 (0.44, 0.83) |
-| Male | 956 | 40.9 | 43.3 | 0.78 (0.65, 0.94) | 17.5 | 21.5 | 0.60 (0.44, 0.83) |
+| Female | 557 | 47.8 | 54.1 | 0.76 (0.60, 0.96) | 22.8 | 32.8 | 0.60 (0.44, 0.83) |
+| Male | 956 | 40.9 | 43.3 | 0.89 (0.73, 1.09) | 17.5 | 21.5 | 0.81 (0.60, 1.08) |
 | Race |  |  |  |  |  |  |  |
-| Asian | 252 | 41.9 | 54.8 | 0.78 (0.65, 0.94) | 18.8 | 27.4 | 0.63 (0.37, 1.07) |
-| Black | 230 | 40.0 | 39.0 | 0.78 (0.65, 0.94) | 17.6 | 21.0 | 0.83 (0.46, 1.52) |
-| Hispanic | 277 | 55.0 | 54.0 | 0.78 (0.65, 0.94) | 30.0 | 28.5 | 1.02 (0.66, 1.59) |
-| White | 735 | 40.5 | 43.2 | 0.78 (0.65, 0.94) | 16.2 | 23.9 | 0.60 (0.43, 0.83) |
+| Asian | 252 | 41.9 | 54.8 | 0.66 (0.45, 0.95) | 18.8 | 27.4 | 0.63 (0.37, 1.07) |
+| Black | 230 | 40.0 | 39.0 | 0.98 (0.65, 1.50) | 17.6 | 21.0 | 0.83 (0.46, 1.52) |
+| Hispanic | 277 | 55.0 | 54.0 | 1.00 (0.73, 1.38) | 30.0 | 28.5 | 1.02 (0.66, 1.59) |
+| White | 735 | 40.5 | 43.2 | 0.81 (0.65, 1.01) | 16.2 | 23.9 | 0.60 (0.43, 0.83) |

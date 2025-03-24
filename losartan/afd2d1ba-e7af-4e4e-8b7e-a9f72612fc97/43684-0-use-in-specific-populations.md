@@ -4,14 +4,16 @@
 
 Risk Summary
 
-Losartan can cause fetal harm when administered to a pregnant woman.
-Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death.
+Arbli can cause fetal harm when administered to a pregnant woman.
+Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death (see Clinical Considerations).
 Most epidemiologic studies examining fetal abnormalities after exposure to antihypertensive use in the first trimester have not distinguished drugs affecting the renin-angiotensin system from other antihypertensive agents.
-When pregnancy is detected, discontinue losartan as soon as possible (see Clinical Considerations).
+When pregnancy is detected, discontinue losartan as soon as possible.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+In the
+
+U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
 
@@ -49,17 +51,18 @@ Significant levels of losartan and its active metabolite were shown to be presen
 
 Risk Summary
 
-It is not known whether losartan is excreted in human milk, but significant levels of losartan and its active metabolite were shown to be present in rat milk.
-Because of the potential for adverse effects on the nursing infant, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother.
+It is not known whether losartan is present in human milk, but significant levels of losartan and its active metabolite were shown to be present in rat milk Because of the potential for serious adverse reactions in breastfed infants, advise a lactating woman that breastfeeding is not recommended during the treatment with losartan and for 2 days after the last dose.
 
 ## 8.4 Pediatric Use
 
-Antihypertensive effects of TRADENAME have been established in hypertensive pediatric patients aged 6 to 16 years.
+Antihypertensive effects of Arbli have been established in hypertensive pediatric patients aged 6 to 16 years.
 Safety and effectiveness have not been established in pediatric patients under the age of 6 or in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2 [see Dosage and Administration (2.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
+Use of Arbli is not recommended in children less than 2 years of age.
+It is not known whether post-natal use of losartan, before maturation of renal function is complete, has a long­term deleterious effect on the kidney.
 
 ## 8.5 Geriatric Use
 
-Of the total number of patients receiving TRADENAME in controlled clinical studies for hypertension, 391 patients (19%) were 65 years and over, while 37 patients (2%) were 75 years and over.
+Of the total number of patients receiving Arbli in controlled clinical studies for hypertension, 391 patients (19%) were 65 years and over, while 37 patients (2%) were 75 years and over.
 In a controlled clinical study for renal protection in type 2 diabetic patients with proteinuria, 248 patients (33%) were 65 years and over.
 In a controlled clinical study for the reduction in the combined risk of cardiovascular death, stroke and myocardial infarction in hypertensive patients with left ventricular hypertrophy, 2,857 patients (62%) were 65 years and over, while 808 patients (18%) were 75 years and over.
 No overall differences in effectiveness or safety were observed between these patients and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
@@ -77,9 +80,9 @@ However, the LIFE study provides no evidence that the benefits of losartan on re
 ## 8.7 Renal Impairment
 
 Patients with renal insufficiency have elevated plasma concentrations of losartan and its active metabolite compared to subjects with normal renal function.
-No dose adjustment is necessary in patients with renal impairment unless a patient with renal impairment is also volume depleted [see Dosage and Administration (2.3), Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+No dose adjustment is necessary in patients with renal impairment unless a patient with renal impairment is also volume depleted [see Dosage and Administration (2.4), Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
 
 ## 8.8 Hepatic Impairment
 
 The recommended starting dose of losartan is 25 mg in patients with mild-to-moderate hepatic impairment.
-Following oral administration in patients with mild-to-moderate hepatic impairment, plasma concentrations of losartan and its active metabolite were, respectively, 5 times and 1.7 times those seen in healthy volunteers. losartan has not been studied in patients with severe hepatic impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+Following oral administration in patients with mild-to-moderate hepatic impairment, plasma concentrations of losartan and its active metabolite were, respectively, 5 times and 1.7 times those seen in healthy volunteers. losartan has not been studied in patients with severe hepatic impairment [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].

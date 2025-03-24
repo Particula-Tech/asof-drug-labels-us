@@ -3,7 +3,7 @@
     "NDA218772"
   ],
   "inn": "losartan",
-  "labeler": "Scienture Inc.",
+  "labeler": "Scienture LLC",
   "package_ndcs": [
     "83245-053-06"
   ],
@@ -11,7 +11,7 @@
     {
       "form": "SUSPENSION",
       "generic": "losartan potassium",
-      "name": "TRADENAME"
+      "name": "ARBLI"
     }
   ],
   "setid": "afd2d1ba-e7af-4e4e-8b7e-a9f72612fc97",

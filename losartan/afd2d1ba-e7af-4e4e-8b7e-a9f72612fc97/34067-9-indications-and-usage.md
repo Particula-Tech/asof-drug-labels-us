@@ -2,7 +2,7 @@
 
 ## 1.1 Hypertension
 
-TRADENAME (losartan potassium oral suspension) is indicated for the treatment of hypertension in adults and pediatric patients 6 years of age and older, to lower blood pressure.
+Arbli is indicated for the treatment of hypertension in adults and pediatric patients 6 years of age and older, to lower blood pressure.
 Lowering blood pressure lowers the risk of fatal and nonfatal cardiovascular (CV) events, primarily strokes and myocardial infarction.
 These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including losartan.
 
@@ -19,13 +19,13 @@ Relative risk reduction from blood pressure reduction is similar across populati
 Some antihypertensive drugs have smaller blood pressure effects (as monotherapy) in Black patients, and many antihypertensive drugs have additional approved indications and effects (e.g., on angina, heart failure, or diabetic kidney disease).
 These considerations may guide selection of therapy.
 
-TRADENAME may be administered with other antihypertensive agents.
+Arbli may be administered with other antihypertensive agents.
 
 ## 1.2 Hypertensive Patients with Left Ventricular Hypertrophy
 
-TRADENAME is indicated to reduce the risk of stroke in patients with hypertension and left ventricular hypertrophy, but there is evidence that this benefit does not apply to Black patients [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Arbli is indicated to reduce the risk of stroke in patients with hypertension and left ventricular hypertrophy, but there is evidence that this benefit does not apply to Black patients [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 ## 1.3 Nephropathy in Type 2 Diabetic Patients
 
-TRADENAME is indicated for the treatment of diabetic nephropathy with an elevated serum creatinine and proteinuria (urinary albumin to creatinine ratio ≥300 mg/g) in patients with type 2 diabetes and a history of hypertension.
-In this population, TRADENAME reduces the rate of progression of nephropathy as measured by the occurrence of doubling of serum creatinine or end stage renal disease (need for dialysis or renal transplantation) [see Clinical Studies (14.3)].
+Arbli is indicated for the treatment of diabetic nephropathy with an elevated serum creatinine and proteinuria (urinary albumin to creatinine ratio ≥300 mg/g) in patients with type 2 diabetes and a history of hypertension.
+In this population, Arbli reduces the rate of progression of nephropathy as measured by the occurrence of doubling of serum creatinine or end stage renal disease (need for dialysis or renal transplantation) [see Clinical Studies (14.3)].

@@ -9,4 +9,5 @@ Losartan potassium is a white to off-white free-flowing crystalline powder with 
 It is freely soluble in water, soluble in alcohols, and slightly soluble in common organic solvents, such as acetonitrile and methyl ethyl ketone.
 Oxidation of the 5-hydroxymethyl group on the imidazole ring results in the active metabolite of losartan.
 
-TRADENAME is available as a white, translucent oral suspension with a peppermint odor, containing 10 mg/mL of losartan potassium and the following inactive ingredients: hypromellose, parabens, natural peppermint flavor, polyethylene glycol, povidone, propylene glycol, purified water, simethicone, sodium phosphates, sucralose, and xanthan gum.
+Arbli is available as a white, translucent oral suspension with a peppermint odor.
+Each mL contains 10 mg losartan potassium (equivalent to 9.2 mg losartan), inactive ingredients are: hypromellose, methyl paraben, natural peppermint flavor, polyethylene glycol, povidone, propyl paraben, propylene glycol, purified water, simethicone, sodium phosphates, sucralose, and xanthan gum.

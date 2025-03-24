@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis and Mutagenesis and Impairment of Fertility
 
 Losartan potassium was not carcinogenic when administered at maximally tolerated dosages to rats and mice for 105 and 92 weeks, respectively.
 Female rats given the highest dose (270 mg/kg/day) had a slightly higher incidence of pancreatic acinar adenoma.
