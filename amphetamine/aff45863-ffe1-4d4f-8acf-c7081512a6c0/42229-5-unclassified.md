@@ -1,13 +1,13 @@
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
+Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
-Made in USA.
+For more information call 1-877-825-3327.
 
-For more information call 1-800-828-2088
+ADDERALL XR is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc.
 
-ADDERALL XR® is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc.
+ADDERALL is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc. under license to Duramed Pharmaceuticals, Inc.
 
-ADDERALL® is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc. under license to Duramed Pharmaceuticals, Inc.
+OPADRY is a registered trademark of BPSI Holdings, LLC.
 
-© 2023 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+© 2025 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
 
 ADL364

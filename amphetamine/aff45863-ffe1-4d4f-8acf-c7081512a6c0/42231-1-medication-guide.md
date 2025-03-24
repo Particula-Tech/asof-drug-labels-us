@@ -37,8 +37,8 @@
 | You can ask your healthcare provider or pharmacist for information about ADDERALL XR that is written for healthcare professionals. |  |  |  |
 | What are the ingredients in ADDERALL XR? |  |  |  |
 | Active ingredient: dextroamphetamine sulfate, amphetamine sulfate, dextroamphetamine saccharate, and amphetamine aspartate monohydrate |  |  |  |
-| Inactive ingredients: gelatin capsules, hydroxypropyl methylcellulose, methacrylic acid copolymer, opadry beige, sugar spheres, talc, and triethyl citrate. Gelatin capsules contain edible inks, kosher gelatin, and titanium dioxide. The 5 mg, 10 mg, and 15 mg capsules also contain FD&C Blue #2. The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron oxide |  |  |  |
-| Distributed by: Takeda Pharmaceuticals America, Inc, Lexington, MA 02421 |  |  |  |
-| ADDERALL XR® is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc. © 2023 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved. |  |  |  |
-| For more information, you may also contact Takeda Pharmaceuticals (the maker of ADDERALL XR) at 1-800-828-2088 or visit the website at http://www.adderallxr.com. |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  | ADL364 Revised: 10/2023 |
+| Inactive ingredients: gelatin capsules, hydroxypropyl methylcellulose, methacrylic acid copolymer, Opadry® beige, sugar spheres, talc, and triethyl citrate. Gelatin capsules contain edible inks, kosher gelatin, and titanium dioxide. The 5 mg, 10 mg, and 15 mg capsules also contain FD&C Blue #2. The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron oxide |  |  |  |
+| Distributed by: Takeda Pharmaceuticals America, Inc, Cambridge, MA 02142 |  |  |  |
+| ADDERALL XR is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc. OPADRY is a registered trademark of BPSI Holdings, LLC. © 2025 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved. |  |  |  |
+| For more information, you may also contact Takeda Pharmaceuticals (the maker of ADDERALL XR) at 1-877-825-3327 or visit the website at http://www.adderallxr.com. |  |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  | ADL364 Revised: 3/2025 |
