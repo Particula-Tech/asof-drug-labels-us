@@ -4,7 +4,7 @@ LOT EXP
 
 NDC 10019-075-87
 
-Brevibloc DOUBLE STRENGTH Premixed Injection Esmolol Hydrochloride in Sodium Chloride 2,000 mg/100 mL (20 mg/mL)
+BREVIBLOC DOUBLE STRENGTH Premixed Injection Esmolol Hydrochloride in Sodium Chloride 2,000 mg/100 mL (20 mg/mL)
 
 100 mL Iso-Osmotic • No Preservative Added Single Intravenous Use Only
 
@@ -20,19 +20,17 @@ DO NOT INTRODUCE ADDITIVES
 
 MUST NOT BE USED IN SERIES CONNECTIONS
 
-STORE AT 25°C (77°F) EXCURSIONS PERMITTED TO 15°-30°C (59°-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE] PROTECT FROM FREEZING AVOID EXCESSIVE HEAT Rx only
+STORE AT 25°C (77°F) EXCURSIONS PERMITTED TO 15°-30°C (59°-86°F) [SEE USP CONTROLLED ROOMTEMPERATURE] PROTECT FROM FREEZINGAVOID EXCESSIVE HEAT
 
-Baxter DEERFIELD, IL 60015 USA MADE IN USA
+0725005674
 
-460-324-01 2J1413
+Rx only NDC 10019-075-87
+
+Baxter Logo DEERFIELD, IL 60015 USA MADE IN USA
 
 LOT EXP
 
-NDC 10019-055-61
-
-Brevibloc Premixed Injection
-
-Esmolol Hydrochloride in Sodium Chloride 2,500 mg/250 mL (10 mg/mL)
+NDC 10019-055-61 Brevibloc Premixed Injection Esmolol Hydrochloride in Sodium Chloride 2,500 mg/250 mL (10 mg/mL)
 
 250 mL Iso-Osmotic No Preservative Added Single Intravenous Use Only
 
@@ -48,11 +46,11 @@ MUST NOT BE USED IN SERIES CONNECTIONS
 
 STORE AT 25°C (77°F) EXCURSIONS PERMITTED TO 15°-30°C (59°-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE] PROTECT FROM FREEZING AVOID EXCESSIVE HEAT Rx only
 
-Baxter BAXTER HEALTHCARE CORPORATION DEERFIELD, IL 60015 USA MADE IN USA
+Baxter Logo BAXTER HEALTHCARE CORPORATION DEERFIELD, IL 60015 USA MADE IN USA
 
-INTRAVIA CONTAINER 460-327-02 2J1415
+INTRAVIA CONTAINER NDC 10019-055-61
 
-FOR PRODUCT INQUIRY 1 800 ANA DRUG (1-800-262-3784)
+FOR PRODUCT INQUIRY 1 800 ANA DRUG (1-800-262-3784) 0725001514
 
 NDC 10019-115-39
 
@@ -100,7 +98,7 @@ Single Dose Vials
 
 Iso-Osmotic Contains no preservatives - discard unused portion.
 
-Baxter Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Baxter Logo Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 NDC 10019-115-01
 
@@ -116,7 +114,7 @@ Single Dose Vials
 
 Iso-Osmotic Contains no preservatives - discard unused portion.
 
-Baxter Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Baxter Logo Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 NDC 10019-115-01
 
@@ -132,7 +130,7 @@ Single Dose Vials
 
 Iso-Osmotic Contains no preservatives - discard unused portion.
 
-Baxter Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
+Baxter Logo Manufactured for Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
 40602
 
