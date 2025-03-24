@@ -10,4 +10,8 @@ Carton:
 
 Unvarnished Area Consists of: 2D Barcode, Lot Number, Expiry Date and Serial Number
 
+Carton:
+
+Unvarnished Area Consists of: 2D Barcode, Lot Number, Expiry Date and Serial Number
+
 PFS CARTON LABEL
