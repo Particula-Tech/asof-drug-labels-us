@@ -20,11 +20,11 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The safety of concomitantly administered empagliflozin (daily dosage 10 mg or 25 mg) and metformin HCl (mean daily dosage of approximately 1,800 mg) has been evaluated in 3,456 adult patients with type 2 diabetes mellitus treated for 16 to 24 weeks, of which 926 patients received placebo, 1,271 patients received a daily dosage of empagliflozin 10 mg, and 1,259 patients received a daily dosage of empagliflozin 25 mg.
 Discontinuation of therapy due to adverse events across treatment groups was 3.0%, 2.8%, and 2.9% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
-Adverse Reactions in a Clinical Trial with Empagliflozin (Add-On Combination Therapy with Metformin and Sulfonylurea) for Glycemic Control in Adults with Type 2 Diabetes Mellitus
+Adverse Reactions in a Clinical Trial with Empagliflozin (Add-On Combination Therapy with Metformin HCl and Sulfonylurea) for Glycemic Control in Adults with Type 2 Diabetes Mellitus
 
-In a 24-week placebo-controlled trial of empagliflozin 10 mg or 25 mg administered once daily added to metformin and sulfonylurea, adverse reactions reported in ≥5% of empagliflozin-treated patients and more commonly than in placebo-treated patients are presented in Table 1 (see also Table 4).
+In a 24-week placebo-controlled trial of empagliflozin 10 mg or 25 mg administered once daily added to metformin HCl and sulfonylurea, adverse reactions reported in ≥5% of empagliflozin-treated patients and more commonly than in placebo-treated patients are presented in Table 1 (see also Table 4).
 
-Table 1 Adverse Reactions Reported in ≥5% of Adults with Type 2 Diabetes Mellitus Treated with Empagliflozin added on to Metformin plus Sulfonylurea and Greater than with Placebo in a 24-week Placebo Controlled Clinical Trial
+Table 1 Adverse Reactions Reported in ≥5% of Adults with Type 2 Diabetes Mellitus Treated with Empagliflozin added on to Metformin HCl plus Sulfonylurea and Greater than with Placebo in a 24-week Placebo Controlled Clinical Trial
 
 | Adverse Reactions | Placebo (%) n=225 | Empagliflozin 10 mg (%) n=224 | Empagliflozin 25 mg (%) n=217 |
 | --- | --- | --- | --- |
@@ -90,19 +90,19 @@ Table 3 Incidence of Overalla and Severeb Hypoglycemic Events in Placebo-Control
 | --- | --- | --- | --- |
 | Overall (%) | 0.4 | 0.4 | 0.4 |
 | Severe (%) | 0 | 0 | 0 |
-| In Combination with Metformin (24 weeks) | Placebo + Metformin (n=206) | Empagliflozin 10 mg + Metformin (n=217) | Empagliflozin 25 mg + Metformin (n=214) |
+| In Combination with Metformin HCl (24 weeks) | Placebo + Metformin HCl (n=206) | Empagliflozin 10 mg + Metformin HCl (n=217) | Empagliflozin 25 mg + Metformin HCl (n=214) |
 | Overall (%) | 0.5 | 1.8 | 1.4 |
 | Severe (%) | 0 | 0 | 0 |
-| In Combination with Metformin + Sulfonylurea (24 weeks) | Placebo (n=225) | Empagliflozin 10 mg + Metformin + Sulfonylurea (n=224) | Empagliflozin 25 mg + Metformin + Sulfonylurea (n=217) |
+| In Combination with Metformin HCl + Sulfonylurea (24 weeks) | Placebo (n=225) | Empagliflozin 10 mg + Metformin HCl + Sulfonylurea (n=224) | Empagliflozin 25 mg + Metformin HCl + Sulfonylurea (n=217) |
 | Overall (%) | 8.4 | 16.1 | 11.5 |
 | Severe (%) | 0 | 0 | 0 |
-| In Combination with Pioglitazone +/- Metformin (24 weeks) | Placebo (n=165) | Empagliflozin 10 mg + Pioglitazone +/- Metformin (n=165) | Empagliflozin 25 mg + Pioglitazone +/- Metformin (n=168) |
+| In Combination with Pioglitazone +/- Metformin HCl (24 weeks) | Placebo (n=165) | Empagliflozin 10 mg + Pioglitazone +/- Metformin HCl (n=165) | Empagliflozin 25 mg + Pioglitazone +/- Metformin HCl (n=168) |
 | Overall (%) | 1.8 | 1.2 | 2.4 |
 | Severe (%) | 0 | 0 | 0 |
-| In Combination with Basal Insulin +/- Metformin (18 weeksd) | Placebo (n=170) | Empagliflozin 10 mg (n=169) | Empagliflozin 25 mg (n=155) |
+| In Combination with Basal Insulin +/- Metformin HCl (18 weeksd) | Placebo (n=170) | Empagliflozin 10 mg (n=169) | Empagliflozin 25 mg (n=155) |
 | Overall (%) | 20.6 | 19.5 | 28.4 |
 | Severe (%) | 0 | 0 | 1.3 |
-| In Combination with MDI Insulin +/- Metformin (18 weeksd) | Placebo (n=188) | Empagliflozin 10 mg (n=186) | Empagliflozin 25 mg (n=189) |
+| In Combination with MDI Insulin +/- Metformin HCl (18 weeksd) | Placebo (n=188) | Empagliflozin 10 mg (n=186) | Empagliflozin 25 mg (n=189) |
 | Overall (%) | 37.2 | 39.8 | 41.3 |
 | Severe (%) | 0.5 | 0.5 | 0.5 |
 | aOverall hypoglycemic events: plasma or capillary glucose of less than or equal to 70 mg/dL |  |  |  |
@@ -123,13 +123,12 @@ Other Adverse Reactions in Clinical Trials with Empagliflozin in Adults
   The incidence of urinary tract infections in female patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 16.6%, 18.4%, and 17.0%, respectively.
   The incidence of urinary tract infections in male patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Use in Specific Populations (8.5)].
 - Lower Limb Amputations: Across four empagliflozin outcome trials, lower limb amputation event rates were 4.3 and 5.0 events per 1,000 patient-years in the placebo group and the empagliflozin 10 mg or 25 mg dose group, respectively, with a HR of 1.05 (95% CI) (0.81, 1.36).
-  In a long-term cardio-renal outcome trial, in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1,000 patient-years in the placebo, and empagliflozin 10 mg treatment arms, respectively.
-  SYNJARDY and SYNJARDY XR are not indicated for the treatment of chronic kidney disease.
+  In a long-term cardio-renal outcome trial with empagliflozin, in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1,000 patient-years in the placebo, and empagliflozin 10 mg treatment arms, respectively.
 
 Clinical Trial of Empagliflozin in Pediatric Patients Aged 10 to 17 Years with Type 2 Diabetes Mellitus
 
 Empagliflozin was administered to 52 patients in a trial of 157 pediatric patients aged 10 to 17 years with type 2 diabetes mellitus with a mean exposure to empagliflozin of 23.8 weeks [see Clinical Studies (14.2)].
-Background therapies as adjunct to diet and exercise included metformin (51%), a combination of metformin and insulin (40.1%), insulin (3.2%), or none (5.7%).
+Background therapies as adjunct to diet and exercise included metformin HCl (51%), a combination of metformin HCl and insulin (40.1%), insulin (3.2%), or none (5.7%).
 The mean HbA1c at baseline was 8.0% and the mean duration of type 2 diabetes mellitus was 2.1 years.
 The mean age was 14.5 years (range: 10-17 years) and 51.6% were aged 15 years and older.
 Approximately, 50% were White, 6% were Asian, 31% were Black or African American, and 38% were of Hispanic or Latino ethnicity.
@@ -137,35 +136,35 @@ The mean BMI was 36.0 kg/m2 and mean BMI Z-score was 3.0.
 Approximately 25% of the trial population had microalbuminuria or macroalbuminuria.
 
 The risk of hypoglycemia was higher in pediatric patients treated with empagliflozin regardless of concomitant insulin use.
-Hypoglycemia, defined as a blood glucose < 54 mg/dL, occurred in 10 (19.2%) patients and in 4 (7.5%) patients treated with empagliflozin and placebo, respectively.
+Hypoglycemia, defined as a blood glucose <54 mg/dL, occurred in 10 (19.2%) patients and in 4 (7.5%) patients treated with empagliflozin and placebo, respectively.
 No severe hypoglycemic events occurred (severe hypoglycemia was defined as an event requiring the assistance of another person to actively administer carbohydrates, glucagon or take other corrective actions).
 
-Adverse Reactions with Clinical Trials of Metformin
+Adverse Reactions with Clinical Trials of Metformin HCl
 
-The most common (>5%) established adverse reactions due to initiation of metformin therapy are diarrhea, nausea/vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
+The most common (>5%) established adverse reactions due to initiation of metformin HCl therapy are diarrhea, nausea/vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
 
-In a 24-week clinical trial in which extended-release metformin or placebo was added to glyburide therapy, the most common (>5% and greater than placebo) adverse reactions in the combined treatment group were hypoglycemia (13.7% vs 4.9%), diarrhea (12.5% vs 5.6%), and nausea (6.7% vs 4.2%).
+In a 24-week clinical trial in which extended-release metformin HCl or placebo was added to glyburide therapy, the most common (>5% and greater than placebo) adverse reactions in the combined treatment group were hypoglycemia (13.7% vs 4.9%), diarrhea (12.5% vs 5.6%), and nausea (6.7% vs 4.2%).
 
 Pediatric Patients
 
 In clinical trials with metformin HCl immediate-release tablets in pediatric patients with type 2 diabetes mellitus, the profile of adverse reactions was similar to that observed in adults.
 
-Laboratory Test Abnormalities in Clinical Trials of Empagliflozin or Metformin
+Laboratory Test Abnormalities in Clinical Trials of Empagliflozin or Metformin HCl
 
 Empagliflozin
 
 - Increases in Serum Creatinine and Decreases in eGFR: Initiation of empagliflozin causes an increase in serum creatinine and decrease in eGFR within weeks of starting therapy and then these changes stabilize.
   In a trial of adults with moderate renal impairment, larger mean changes were observed.
-  In a long-term cardiovascular outcomes trial, the increase in serum creatinine and decrease in eGFR generally did not exceed 0.1 mg/dL and -9.0 mL/min/1.73 m2, respectively, at Week 4, and reversed after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with empagliflozin.
+  In a long-term CV outcomes trial, the increase in serum creatinine and decrease in eGFR generally did not exceed 0.1 mg/dL and -9.0 mL/min/1.73 m2, respectively, at Week 4, and reversed after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with empagliflozin.
 - Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in adults treated with empagliflozin.
   LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
   The range of mean baseline LDL-C levels was 90.3 to 90.6 mg/dL across treatment groups.
 - Increase in Hematocrit: In a pool of four placebo-controlled trials in adults, median hematocrit decreased by 1.3% in placebo and increased by 2.8% in empagliflozin 10 mg and 2.8% in empagliflozin 25 mg treated patients.
   At the end of treatment, 0.6%, 2.7%, and 3.5% of patients with hematocrits initially within the reference range had values above the upper limit of the reference range with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
-Metformin
+Metformin HCl
 
-- Decrease in Vitamin B12: In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
+- Decrease in Vitamin B12: In metformin HCl clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 
 ## 6.2 Postmarketing Experience
 

@@ -4,23 +4,23 @@
 
 SYNJARDY or SYNJARDY XR
 
-SYNJARDY and SYNJARDY XR contain: empagliflozin, a SGLT2 inhibitor, and metformin, a biguanide.
+SYNJARDY and SYNJARDY XR contain: empagliflozin, a SGLT2 inhibitor, and metformin HCl, a biguanide.
 
 Empagliflozin
 
-Empagliflozin is an inhibitor of the SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
+Empagliflozin is an inhibitor of SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
 By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
 
 Empagliflozin also reduces sodium reabsorption and increases the delivery of sodium to the distal tubule.
-This may influence several physiological functions such as lowering both pre- and afterload of the heart and downregulating sympathetic activity.
+This may influence several physiological functions including, but not restricted to, increasing tubuloglomerular feedback and reducing intraglomerular pressure, lowering both pre- and afterload of the heart and downregulating sympathetic activity.
 
 Metformin HCl
 
-Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
+Metformin HCl is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
 It is not chemically or pharmacologically related to any other classes of oral antihyperglycemic agents.
-Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-Unlike SUs, metformin does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.5)] and does not cause hyperinsulinemia.
-With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may decrease.
+Metformin HCl decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
+Unlike sulfonylureas, metformin HCl does not produce hypoglycemia in either patients with type 2 diabetes mellitus or normal subjects (except in special circumstances) [see Warnings and Precautions (5.5)] and does not cause hyperinsulinemia.
+With metformin HCl therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may decrease.
 
 ## 12.2 Pharmacodynamics
 
@@ -88,7 +88,7 @@ Excretion
 Following administration of an oral [14C]-empagliflozin solution to healthy subjects, approximately 95.6% of the drug-related radioactivity was eliminated in feces (41.2%) or urine (54.4%).
 The majority of drug-related radioactivity recovered in feces was unchanged parent drug and approximately half of drug-related radioactivity excreted in urine was unchanged parent drug.
 
-Metformin
+Metformin HCl
 
 Absorption
 
@@ -153,7 +153,7 @@ In controlled clinical studies of metformin HCl in patients with type 2 diabetes
 
 Patients with Renal Impairment
 
-SYNJARDY or SYNJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin and metformin after administration of SYNJARDY or SYNJARDY XR in renally impaired patients have not been performed.
+SYNJARDY or SYNJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin and metformin HCl after administration of SYNJARDY or SYNJARDY XR in renally impaired patients have not been performed.
 
 Empagliflozin: In adult patients with type 2 diabetes mellitus with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and patients on dialysis due to kidney failure, AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
 Peak plasma levels of empagliflozin were similar in patients with moderate renal impairment and patients on dialysis due to kidney failure, compared to subjects with normal renal function.
@@ -161,7 +161,7 @@ Peak plasma levels of empagliflozin were roughly 20% higher in patients with mil
 Population pharmacokinetic analysis showed that the apparent oral clearance of empagliflozin decreased with a decrease in eGFR leading to an increase in drug exposure.
 However, the fraction of empagliflozin that was excreted unchanged in urine, and urinary glucose excretion, declined with decrease in eGFR.
 
-Metformin: In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
+Metformin HCl: In patients with decreased renal function, the plasma and blood half-life of metformin is prolonged and the renal clearance is decreased [see Contraindications (4) and Warnings and Precautions (5.1)].
 
 Patients with Hepatic Impairment
 
@@ -219,10 +219,10 @@ Table 5 Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 | Carbonic anhydrase inhibitors may cause metabolic acidosis [see Drug Interactions (7)]. |  |  |  |  |  |
 | Topiramate** | 100 mg | 500 mg | metformin | 1.25 | 1.17 |
 | * All metformin and coadministered drugs were given as single doses |  |  |  |  |  |
-| † AUC = AUC(INF) |  |  |  |  |  |
+| † AUC = AUC (INF) |  |  |  |  |  |
 | ≠ Metformin HCl extended-release tablets 500 mg |  |  |  |  |  |
 | ‡ Ratio of arithmetic means |  |  |  |  |  |
-| **At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC(0-12 hours) |  |  |  |  |  |
+| **At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC (0-12 hours) |  |  |  |  |  |
 
 Table 6 Effect of Metformin on Coadministered Drug Systemic Exposure
 
@@ -236,7 +236,7 @@ Table 6 Effect of Metformin on Coadministered Drug Systemic Exposure
 | Ibuprofen | 400 mg | 850 mg | ibuprofen | 0.97¶ | 1.01¶ |
 | Cimetidine | 400 mg | 850 mg | cimetidine | 0.95§ | 1.01 |
 | * All metformin and coadministered drugs were given as single doses |  |  |  |  |  |
-| † AUC = AUC(INF) unless otherwise noted |  |  |  |  |  |
+| † AUC = AUC (INF) unless otherwise noted |  |  |  |  |  |
 | ‡ Ratio of arithmetic means, p-value of difference <0.05 |  |  |  |  |  |
-| § AUC(0-24 hours) reported |  |  |  |  |  |
+| § AUC (0-24 hours) reported |  |  |  |  |  |
 | ¶ Ratio of arithmetic means |  |  |  |  |  |

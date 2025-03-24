@@ -14,7 +14,7 @@
   - Empagliflozin and metformin HCl: initiate SYNJARDY or SYNJARDY XR at the same total daily dosages of each component.
 - Recommended dosage of SYNJARDY or SYNJARDY XR:
   - The recommended total daily dosage of empagliflozin is 10 mg.
-  - For additional glycemic control, empagliflozin may be increased to a maximum total daily dosage of 25 mg in patients tolerating 10 mg daily and metformin may be increased to a maximum total daily dosage of 2,000 mg, with gradual escalation to reduce gastrointestinal adverse reactions with metformin [see Adverse Reactions (6.1)].
+  - For additional glycemic control, empagliflozin may be increased to a maximum total daily dosage of 25 mg in patients tolerating 10 mg daily and metformin HCl may be increased to a maximum total daily dosage of 2,000 mg, with gradual escalation to reduce gastrointestinal adverse reactions with metformin HCl [see Adverse Reactions (6.1)].
 - Take SYNJARDY orally twice daily with meals.
 - Take SYNJARDY XR orally once daily with a meal in the morning.
   Swallow each tablet whole.
@@ -24,12 +24,12 @@
 
 - Individualize the dosage of SYNJARDY based on the patient's current regimen.
 - Monitor effectiveness and tolerability, and adjust dosage as appropriate, not to exceed the maximum total daily dosage of empagliflozin 25 mg and metformin HCl 2,000 mg.
-- Take SYNJARDY orally twice daily with meals; with gradual dose escalation to reduce gastrointestinal adverse reactions with metformin [see Adverse Reactions (6.1)].
+- Take SYNJARDY orally twice daily with meals; with gradual dose escalation to reduce gastrointestinal adverse reactions with metformin HCl [see Adverse Reactions (6.1)].
 
 ## 2.4 Dosage Recommendations in Patients with Renal Impairment
 
-- Initiation of SYNJARDY or SYNJARDY XR is not recommended in patients with an eGFR less than 45 mL/min/1.73 m2, due to the metformin component.
-- SYNJARDY and SYNJARDY XR are contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 or in patients on dialysis [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
+- Initiation of SYNJARDY or SYNJARDY XR is not recommended in patients with an eGFR less than 45 mL/min/1.73 m2, due to the metformin HCl component.
+- SYNJARDY and SYNJARDY XR are contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.6)].
 
 ## 2.5 Discontinuation for Iodinated Contrast Imaging Procedures
 
@@ -38,10 +38,10 @@ Re-evaluate eGFR 48 hours after the imaging procedure; restart SYNJARDY or SYNJA
 
 ## 2.6 Temporary Interruption for Surgery
 
-Withhold SYNJARDY or SYNJARDY XR for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
+Withhold SYNJARDY or SYNJARDY XR for at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting.
 Resume SYNJARDY or SYNJARDY XR when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
 
 ## 2.7 Recommendations Regarding Missed Dose
 
 - If a dose is missed, instruct patients to take the dose as soon as possible.
-- Do not double up the next dose.
+- Advise patients not to double up the next dose.
