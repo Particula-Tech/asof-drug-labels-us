@@ -2,7 +2,7 @@
 
 NDC 64764-625-30
 
-Nesina (alogliptin) tablets
+Nesina® (alogliptin) tablets
 
 6.25 mg
 
@@ -18,7 +18,7 @@ Rx Only
 
 NDC 64764-125-30
 
-Nesina (alogliptin) tablets
+Nesina® (alogliptin) tablets
 
 12.5 mg
 
@@ -34,7 +34,7 @@ Rx Only
 
 NDC 64764-250-30
 
-Nesina (alogliptin) tablets
+Nesina® (alogliptin) tablets
 
 25 mg
 
