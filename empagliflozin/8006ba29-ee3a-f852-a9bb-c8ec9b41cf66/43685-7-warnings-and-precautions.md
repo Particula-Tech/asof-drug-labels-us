@@ -119,10 +119,9 @@ Monitor and treat as appropriate.
 In some clinical studies with SGLT2 inhibitors an imbalance in the incidence of lower limb amputation has been observed.
 Across four empagliflozin outcome trials, lower limb amputation event rates were 4.3 and 5.0 events per 1,000 patient-years in the placebo group and the empagliflozin 10 mg or 25 mg dose group, respectively, with a HR of 1.05 (95% CI) (0.81, 1.36).
 
-In a long-term cardio-renal outcome trial, in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1,000 patient-years in the placebo, and empagliflozin 10 mg treatment arms, respectively.
+In a long-term cardio-renal outcome trial with empagliflozin, in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1,000 patient-years in the placebo, and empagliflozin 10 mg treatment arms, respectively.
 Amputation of the toe and mid-foot were most frequent (21 out of 28 empagliflozin 10 mg treated patients with lower limb amputations), and some involving above and below the knee.
 Some patients had multiple amputations.
-SYNJARDY and SYNJARDY XR are not indicated for the treatment of chronic kidney disease.
 
 Peripheral artery disease, and diabetic foot infection (including osteomyelitis), were the most common precipitating medical events leading to the need for an amputation.
 The risk of amputation was highest in patients with a baseline history of diabetic foot, peripheral artery disease (including previous amputation) or diabetes.
@@ -138,7 +137,7 @@ SYNJARDY and SYNJARDY XR are contraindicated in patients with hypersensitivity t
 
 ## 5.10 Vitamin B12 Deficiency
 
-In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of metformin-treated patients.
+In metformin HCl clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of metformin-treated patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.
 Certain individuals (those with inadequate vitamin B12 or calcium intake or absorption) appear to be predisposed to developing subnormal vitamin B12 levels.
 Measure hematologic parameters on an annual basis and vitamin B12 at 2 to 3 year intervals in patients on SYNJARDY or SYNJARDY XR and manage any abnormalities [see Adverse Reactions (6.1)].

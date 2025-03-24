@@ -24,7 +24,7 @@ Volume Depletion
 Inform patients that symptomatic hypotension may occur with SYNJARDY or SYNJARDY XR and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.3)].
 Inform patients that dehydration may increase the risk for hypotension, and to maintain adequate fluid intake.
 
-Serious Urinary Tract Infections
+Urosepsis and Pyelonephritis
 
 Inform patients of the potential for urinary tract infections, which may be serious.
 Provide them with information on the symptoms of urinary tract infections.
@@ -81,7 +81,7 @@ Advise patients that breastfeeding is not recommended during treatment with SYNJ
 
 Patients of Reproductive Potential
 
-Inform patients that treatment with metformin may result in ovulation in some premenopausal anovulatory patients, which may lead to unintended pregnancy [see Use in Specific Populations (8.3)].
+Inform patients that treatment with metformin HCl may result in ovulation in some premenopausal anovulatory patients, which may lead to unintended pregnancy [see Use in Specific Populations (8.3)].
 
 Administration Instructions
 

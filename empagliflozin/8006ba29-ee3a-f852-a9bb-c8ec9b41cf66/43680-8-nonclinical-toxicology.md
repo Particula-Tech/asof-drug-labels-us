@@ -6,7 +6,7 @@ SYNJARDY or SYNJARDY XR
 
 No carcinogenicity, mutagenicity, or impairment of fertility studies have been conducted with the combination of empagliflozin and metformin HCl.
 General toxicity studies in rats up to 13 weeks were performed with the combined components.
-These studies indicated that no additive toxicity is caused by the combination of empagliflozin and metformin.
+These studies indicated that no additive toxicity is caused by the combination of empagliflozin and metformin HCl.
 
 Empagliflozin
 
