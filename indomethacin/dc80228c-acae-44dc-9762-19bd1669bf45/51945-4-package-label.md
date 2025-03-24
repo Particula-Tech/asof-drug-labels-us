@@ -8,7 +8,7 @@ INDOMETHACIN EXTENDED-RELEASE CAPSULES USP
 
 75 mg
 
-PHARMACIST: Please dispense with Medication Guide.﻿
+PHARMACIST:Please dispense with Medication Guide.﻿
 
 Rx Only 30 CAPSULES
 
@@ -22,7 +22,7 @@ INDOMETHACIN EXTENDED-RELEASE CAPSULES USP
 
 75 mg
 
-PHARMACIST: Please dispense with Medication Guide.
+PHARMACIST:Please dispense with Medication Guide.
 
 Rx Only 60 CAPSULES
 
@@ -36,7 +36,7 @@ INDOMETHACIN EXTENDED-RELEASE CAPSULES USP
 
 75 mg
 
-PHARMACIST: Please dispense with Medication Guide.
+PHARMACIST:Please dispense with Medication Guide.
 
 Rx Only 90 CAPSULES
 
@@ -50,7 +50,7 @@ INDOMETHACIN EXTENDED-RELEASE CAPSULES USP
 
 75 mg
 
-PHARMACIST: Please dispense with Medication Guide.
+PHARMACIST:Please dispense with Medication Guide.
 
 Rx Only 100 CAPSULES
 
@@ -64,7 +64,7 @@ INDOMETHACIN EXTENDED-RELEASE CAPSULES USP
 
 75 mg
 
-PHARMACIST: Please dispense with Medication Guide.
+PHARMACIST:Please dispense with Medication Guide.
 
 Rx Only 500 CAPSULES
 
@@ -78,7 +78,7 @@ INDOMETHACIN EXTENDED-RELEASE CAPSULES USP
 
 75 mg
 
-PHARMACIST: Please dispense with Medication Guide.
+PHARMACIST:Please dispense with Medication Guide.
 
 Rx Only 1000 CAPSULES
 

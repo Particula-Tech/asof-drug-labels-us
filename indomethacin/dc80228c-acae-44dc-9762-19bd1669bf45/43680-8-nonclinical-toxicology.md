@@ -13,4 +13,4 @@ Indomethacin did not have any mutagenic effect in in vitro bacterial tests and a
 
 Impairment of Fertility
 
-Indomethacin at dosage levels up to 0.5 mg/kg/day had no effect on fertility in mice in a two generation reproduction study (0.01 times the MRHD on a mg/m2 basis) or a two litter reproduction study in rats (0.02 times the MRHD on a mg/m 2 basis).
+Indomethacin at dosage levels up to 0.5 mg/kg/day had no effect on fertility in mice in a two generation reproduction study (0.01 times the MRHD on a mg/m2 basis) or a two litter reproduction study in rats (0.02 times the MRHD on a mg/m 2basis).

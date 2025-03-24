@@ -55,14 +55,21 @@ Table 1 Summary of Adverse Reactions for Indomethacin Capsules
 | None | epistaxisbreast changes, including enlargement and tenderness, or gynecomastia |  |
 | * Reactions occurring in 3% to 9% of patients treated with indomethacin. (Those reactions occurring in less than 3% of the patients are unmarked.) |  |  |
 
-Causal relationship unknown: Other reactions have been reported but occurred under circumstances where a causal relationship could not be established.
+Causal relationship unknown:Other reactions have been reported but occurred under circumstances where a causal relationship could not be established.
 However, in these rarely reported events, the possibility cannot be excluded.
 Therefore, these observations are being listed to serve as alerting information to physicians:
 
-Cardiovascular: Thrombophlebitis
+Cardiovascular:Thrombophlebitis
 
-Hematologic: Although there have been several reports of leukemia, the supporting information is weak
+Hematologic:Although there have been several reports of leukemia, the supporting information is weak
 
-Genitourinary: Urinary frequency
+Genitourinary:Urinary frequency
 
 A rare occurrence of fulminant necrotizing fasciitis, particularly in association with Group Aβ hemolytic streptococcus, has been described in persons treated with nonsteroidal anti-inflammatory agents, including indomethacin, sometimes with fatal outcome.
+
+## 6.2 Postmarketing Experience
+
+The following adverse reactions have been identified during post approval use of indomethacin.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Skin and Appendages: Exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), and fixed drug eruption (FDE).

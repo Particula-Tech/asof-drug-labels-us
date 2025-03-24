@@ -4,8 +4,7 @@ What is the most important information I should know about medicines called Non-
 
 NSAIDs can cause serious side effects, including:
 
-• Increased risk of a heart attack or stroke that can lead to death.
-This risk may happen early in treatment and may increase:
+• Increased risk of a heart attack or stroke that can lead to death.This risk may happen early in treatment and may increase:
 
 ° with increasing doses of NSAIDs
 
@@ -77,8 +76,7 @@ Before taking NSAIDS, tell your healthcare provider about all of your medical co
   You should not take NSAIDs after about 30 weeks of pregnancy.
 - are breastfeeding or plan to breast feed.
 
-Tell your healthcare provider about all of the medicines you take, including prescription or over-the­ counter medicines, vitamins or herbal supplements.
-NSAIDs and some other medicines can interact with each other and cause serious side effects.
+Tell your healthcare provider about all of the medicines you take, including prescription or over-the­ counter medicines, vitamins or herbal supplements.NSAIDs and some other medicines can interact with each other and cause serious side effects.
 Do not start taking any new medicine without talking to your healthcare provider first.
 
 What are the possible side effects of NSAIDs?
@@ -101,7 +99,7 @@ See "What is the most important information I should know about medicines called
 
 • life threatening allergic reactions
 
-• Other side effects of NSAIDs include: stomach pain, constipation, diarrhea, gas, heartburn, nausea, vomiting, and dizziness.
+• Other side effects of NSAIDs include:stomach pain, constipation, diarrhea, gas, heartburn, nausea, vomiting, and dizziness.
 
 Get emergency help right away if you get any of the following symptoms:
 
@@ -175,7 +173,7 @@ KVK-TECH INC.
 
 Newtown, PA 18940
 
-For more information, go to www.kvktech.com or call our customer service at 1-800-862-3895.
+For more information, go to www.kvktech.comor call our customer service at 1-800-862-3895.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 Issued or Revised: April 2021

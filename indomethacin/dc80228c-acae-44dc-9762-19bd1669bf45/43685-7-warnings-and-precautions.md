@@ -115,7 +115,7 @@ The potential effects of indomethacin and potassium-sparing diuretics on potassi
 
 ## 5.7 Anaphylactic Reactions
 
-Indomethacin has been associated with anaphylactic reactions in patients with and without known hypersensitivity to indomethacin and in patients with aspirin-sensitive asthma [see Contraindications (4) and Warnings and Precautions (5.8)].
+Indomethacin has been associated with anaphylactic reactions in patients with and without known hypersensitivity to indomethacin and in patients with aspirin-sensitive asthma [see Contraindications (4)and Warnings and Precautions (5.8)].
 
 Seek emergency help if an anaphylactic reaction occurs.
 
@@ -128,6 +128,8 @@ When indomethacin extended-release capsules are used in patients with preexistin
 ## 5.9 Serious Skin Reactions
 
 NSAIDs, including indomethacin, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of indomethacin extended-release capsules at the first appearance of skin rash or any other sign of hypersensitivity.
 Indomethacin extended-release capsules are contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
@@ -179,7 +181,7 @@ The pharmacological activity of indomethacin extended-release capsules in reduci
 
 ## 5.14 Laboratory Monitoring
 
-Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)].
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions(5.2, 5.3, 5.6)].
 
 ## 5.15 Central Nervous System Effects
 
