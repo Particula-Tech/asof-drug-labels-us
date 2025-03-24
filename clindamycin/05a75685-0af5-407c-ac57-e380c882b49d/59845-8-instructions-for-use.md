@@ -16,10 +16,10 @@ To Assemble Vial and Flexible Diluent Container:
 (Use Aseptic Technique)
 
 1. 1.Remove the protective covers from the top of the vial and the vial port on the diluent container as follows:
-   1. 1.To remove the breakaway vial cap, swing the pull ring over the top of the vial and pull down far enough to start the opening (SEE FIGURE 1.), then pull straight up to remove the cap.
+   1. a.To remove the breakaway vial cap, swing the pull ring over the top of the vial and pull down far enough to start the opening (SEE FIGURE 1.), then pull straight up to remove the cap.
       (SEE FIGURE 2.)
       NOTE: Once the breakaway cap has been removed, DO NOT ACCESS VIAL WITH SYRINGE.
-   2. 2.To remove the vial port cover, grasp the tab on the pull ring, pull up to break the three tie strings, then pull back to remove the cover.
+   2. b.To remove the vial port cover, grasp the tab on the pull ring, pull up to break the three tie strings, then pull back to remove the cover.
       (SEE FIGURE 3.)
 2. 2.Screw the vial into the vial port until it will go no farther.
    THE VIAL MUST BE SCREWED IN TIGHTLY TO ASSURE A SEAL.
