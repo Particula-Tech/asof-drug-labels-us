@@ -12,7 +12,7 @@ METABOLISM AND NUTRITION DISORDERS: Decreased appetite
 
 PSYCHIATRIC DISORDERS: Confusional state, Depression, Insomnia, Decreased libido
 
-NERVOUS SYSTEM DISORDERS: Encephalopathy, Seizure, Neuropathy peripheral, Ataxia, Dizziness, Hypoesthesia, Paresthesia, Dysgeusia, Headache, Nystagmus, Aseptic meningitis, Somonlence, Dysarthria, Numbness, Syncope
+NERVOUS SYSTEM DISORDERS: Encephalopathy, Seizure, Neuropathy peripheral, Ataxia, Dizziness, Hypoesthesia, Paresthesia, Dysgeusia, Headache, Nystagmus, Aseptic meningitis, Somnolence, Dysarthria, Numbness, Syncope
 
 EYE DISORDERS: Optic neuropathy, Saccadic eye movement
 
@@ -25,7 +25,7 @@ RESPIRATORY, THORACIC AND MEDIASTINAL DISORDERS: Dyspnea
 
 GASTROINTESTINAL DISORDERS: Pancreatitis, Abdominal pain, Diarrhea, Nausea, Vomiting, Asthenia, Proctitis
 
-HEPATOBILIARY DISORDERS: Hepatotoxicity/Liver Failure in patients with Cockayne syndrome (see WARNINGS), Jaundice
+HEPATOBILIARY DISORDERS: Hepatotoxicity/Liver Failure in patients with Cockayne syndrome (see CONTRAINDICATIONS), Jaundice
 
 SKIN AND SUBCUTANEOUS DISORDERS: Toxic epidermal necrolysis, Swelling face, Pruritus, Urticaria, Hyperhidrosis, Erythema, Rash; Stevens-Johnson syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP) (see WARNINGS)
 
@@ -44,4 +44,4 @@ INVESTIGATIONS: Hepatic enzyme increased.
 Patients with Crohn's disease are known to have an increased incidence of gastrointestinal and certain extraintestinal cancers.
 There have been some reports in the medical literature of breast and colon cancer in Crohn's disease patients who have been treated with metronidazole at high doses for extended periods of time.
 A cause and effect relationship has not been established.
-Crohn's disease is not an approved indication for Metronidazole Injection, USP.
+Crohn's disease is not an approved indication for Metronidazole Injection.

@@ -60,6 +60,9 @@ In one study newborn infants appeared to demonstrate diminished capacity to elim
 The elimination half-life, measured during the first three days of life, was inversely related to gestational age.
 In infants whose gestational ages were between 28 and 40 weeks, the corresponding elimination half-lives ranged from 109 to 22.5 hours.
 
+Two other trials included infants 23-48 weeks post-menstrual age, (0-80 days postnatal age) with complicated intra-abdominal infections.
+Clearance increased with increasing post-menstrual age, while volume of distribution and half-life decreased (see PRECAUTIONS, Pediatric Use and DOSAGE AND ADMINISTRATION).
+
 ## Microbiology
 
 ### Mechanism of Action
