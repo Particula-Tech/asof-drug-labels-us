@@ -7,7 +7,7 @@ The following serious adverse reactions are described below and elsewhere in the
 - Hepatotoxicity [see Warnings and Precautions (5.4)]
 - Hypersensitivity/Antibody Formation [see Warnings and Precautions (5.5)]
 - Immunosuppression/Infections [see Warnings and Precautions (5.6)]
-- Thrombocytopenia [see Warnings and Precautions (5.8)]
+- Hematological Abnormalities [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 

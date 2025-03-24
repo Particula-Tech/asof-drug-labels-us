@@ -190,14 +190,14 @@ Observed changes persisted during TYSABRI exposure, but were reversible, returni
 Elevations of neutrophils were not observed.
 TYSABRI induces mild decreases in hemoglobin levels (mean decrease of 0.6 g/dL) that are frequently transient.
 
-## 5.8 Thrombocytopenia
+## 5.8 Hematological Abnormalities
 
 Cases of thrombocytopenia, including immune thrombocytopenic purpura (ITP), have been reported with the use of TYSABRI in the postmarketing setting.
 Symptoms of thrombocytopenia may include easy bruising, abnormal bleeding, and petechiae.
 Delay in the diagnosis and treatment of thrombocytopenia may lead to serious and life-threatening sequelae.
 If thrombocytopenia is suspected, TYSABRI should be discontinued.
 
-Cases of neonatal thrombocytopenia, at times associated with anemia, have been reported in newborns with in utero exposure to TYSABRI [see Use in Specific Populations (8.1)].
+Cases of neonatal thrombocytopenia and anemia have been reported in newborns with in utero exposure to TYSABRI [see Use in Specific Populations (8.1)].
 A CBC should be obtained in neonates with in utero exposure to TYSABRI.
 
 ## 5.9 Immunizations

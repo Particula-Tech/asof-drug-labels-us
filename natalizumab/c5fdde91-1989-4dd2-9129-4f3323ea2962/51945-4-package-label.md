@@ -23,7 +23,7 @@ Biogen Inc.
 
 Cambridge, MA 02142 USA
 
-US License # 1697
+U.S. License # 1697
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - Carton Label
 
