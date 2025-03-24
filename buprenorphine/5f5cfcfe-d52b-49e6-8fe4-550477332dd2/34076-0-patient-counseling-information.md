@@ -81,5 +81,5 @@ Manufactured for and distributed by Orexo US, Inc. Morristown, NJ 07960 USA
 
 For patent information: https://orexo.com/operations/us-pharma
 
-ZUBSOLV is a licensed trademark of Orexo US, Inc. © 2025 Orexo US, Inc. All rights reserved.
+ZUBSOLV is a licensed trademark of Orexo US, Inc. © 2023 Orexo US, Inc. All rights reserved.
 Suboxone® is a registered trademark of Indivior UK Limited
