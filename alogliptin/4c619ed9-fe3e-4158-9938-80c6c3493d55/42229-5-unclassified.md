@@ -1,7 +1,7 @@
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
+Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
-OSENI, NESINA and ACTOS are trademarks of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
+OSENI, NESINA and ACTOS are registered trademarks of Takeda Pharmaceutical Company Limited.
 
-©2013 - 2024 Takeda Pharmaceuticals America, Inc.
+©2025 Takeda Pharmaceuticals America, Inc. All rights reserved.
 
-ALP008 R12
+ALP008 R13
