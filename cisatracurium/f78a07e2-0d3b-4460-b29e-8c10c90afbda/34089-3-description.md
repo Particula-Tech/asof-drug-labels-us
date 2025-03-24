@@ -1,12 +1,13 @@
-# DESCRIPTION:
+# 11 DESCRIPTION
 
-Cisatracurium Besylate Injection, USP is a non-depolarizing skeletal muscle relaxant for intravenous administration.
-Compared to other neuromuscular blocking agents, it is intermediate in its onset and duration of action.
+Cisatracurium Besylate Injection, USP is a nondepolarizing skeletal neuromuscular blocker for intravenous administration.
+Compared to other neuromuscular blockers, it is intermediate in its onset and duration of action.
+Cisatracurium Besylate Injection, USP contains cisatracurium besylate as the active pharmaceutical ingredient.
+
 Cisatracurium besylate is one of 10 isomers of atracurium besylate and constitutes approximately 15% of that mixture.
-Cisatracurium besylate is [1R -[1α,2α(1'R*,2'R*)]]-2,2'-[1,5-pentanediylbis[oxy(3-oxo-3,1-propanediyl)]]bis[1-[(3,4-dimethoxyphenyl)methyl]-1,2,3,4-tetrahydro-6,7-dimethoxy-2-methylisoquinolinium] dibenzenesulfonate.
+Cisatracurium besylate is [1R-[1α,2α(1'R*,2'R*)]]-2,2'-[1,5-pentanediylbis[oxy(3-oxo-3,1-propanediyl)]]bis[1-[(3,4-dimethoxyphenyl)methyl]-1,2,3,4-tetrahydro-6,7-dimethoxy-2-methylisoquinolinium] dibenzenesulfonate.
 The molecular formula of the cisatracurium parent bis-cation is C53H72N2O12 and the molecular weight is 929.2.
 The molecular formula of cisatracurium as the besylate salt is C65H82N2O18S2 and the molecular weight is 1243.50.
-
 The structural formula of cisatracurium besylate is:
 
 The log of the partition coefficient of cisatracurium besylate is -2.12 in a 1-octanol/distilled water system at 25°C.
@@ -19,6 +20,6 @@ The 10 mL vial, intended for multiple dose use, contains 0.9% benzyl alcohol as 
 The 5 mL and 20 mL vials are single dose vials and do not contain benzyl alcohol.
 
 Cisatracurium besylate slowly loses potency with time at a rate of approximately 5% per year under refrigeration (5°C).
-Cisatracurium should be refrigerated at 2° to 8°C (36° to 46°F) in the carton to preserve potency.
+Cisatracurium should be refrigerated at 2°C to 8°C (36°F to 46°F) in the tray to preserve potency.
 The rate of loss in potency increases to approximately 5% per month at 25°C (77°F).
-Upon removal from refrigeration to room temperature storage conditions (25°C/77°F), use cisatracurium within 21 days, even if rerefrigerated.
+Upon removal from refrigeration to room temperature storage conditions (25°C/77°F), use cisatracurium within 21 days, even if re-refrigerated.
