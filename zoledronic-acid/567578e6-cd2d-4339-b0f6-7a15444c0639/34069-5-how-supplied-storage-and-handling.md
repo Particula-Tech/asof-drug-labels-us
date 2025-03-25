@@ -4,7 +4,8 @@ Zoledronic Acid Injection is supplied as follows:
 
 | NDC | Zoledronic Acid Injection (0.04 mg per mL) | Package Factor |
 | --- | --- | --- |
-| 25021-826-82 | 4 mg per 100 mL in a single-dose bag | 1 bag per carton |
+| 25021-826-82 | 4 mg per 100 mL in a Single-Dose Bag | 1 bag per carton |
+| 25021-826-87 | 4 mg per 100 mL in a Single-Dose Bag | 5 bags per carton |
 
 Storage Conditions
 

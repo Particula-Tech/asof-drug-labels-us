@@ -49,8 +49,6 @@ Common Adverse Reactions
 
 Brands listed are the trademarks of their respective owners.
 
-SAGENT® Manufactured for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2021 Sagent Pharmaceuticals, Inc.
+sagent® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60173 (USA) Made in Switzerland ©2025 Sagent Pharmaceuticals
 
-Revised: September 2021
-
-SAGENT Pharmaceuticals®
+Revised: January 2025
