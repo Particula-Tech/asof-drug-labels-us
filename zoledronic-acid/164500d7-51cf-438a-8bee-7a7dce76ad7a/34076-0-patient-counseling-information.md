@@ -47,6 +47,6 @@ Atypical femur fractures in patients on bisphosphonate therapy have been reporte
 
 Brands listed are the trademarks of their respective owners.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Switzerland ©2024 Sagent Pharmaceuticals
+sagent® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60173 (USA) Made in Switzerland ©2025 Sagent Pharmaceuticals
 
-Revised: July 2024
+Revised: January 2025
