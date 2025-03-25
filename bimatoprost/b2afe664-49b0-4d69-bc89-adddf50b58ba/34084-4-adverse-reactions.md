@@ -10,7 +10,7 @@ The following adverse reactions are described elsewhere in the labeling:
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 In clinical trials, the most frequent events associated with the use of bimatoprost ophthalmic solution 0.03% occurring in approximately 15% to 45% of patients, in descending order of incidence, included conjunctival hyperemia, growth of eyelashes, and ocular pruritus.
 Approximately 3% of patients discontinued therapy due to conjunctival hyperemia.

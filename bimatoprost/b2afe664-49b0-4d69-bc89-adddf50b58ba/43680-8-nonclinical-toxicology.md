@@ -12,4 +12,4 @@ Bimatoprost was not mutagenic or clastogenic in the Ames test, in the mouse lymp
 
 Impairment of Fertility
 
-Bimatoprost did not impair fertility in male or female rats at doses up to 0.6 mg/kg/day (at least 103 times the human system exposure at the RHOD, based on blood AUC levels).
+Bimatoprost did not impair fertility in male or female rats at doses up to 0.6 mg/kg/day (at least 103 times the human systemic exposure at the RHOD, based on blood AUC levels).
