@@ -1,10 +1,10 @@
 # WARNINGS
 
-Since methocarbamol may posses a general CNS depressant effect, patients receiving Methocarbamol injection should be cautioned about combined effects with alcohol and other CNS depressants.
+Since methocarbamol may possess a general CNS depressant effect, patients receiving methocarbamol injection should be cautioned about combined effects with alcohol and other CNS depressants.
 
-Safe use of Methocarbamol injection has not been established with regard to possible adverse effects upon fetal development.
+Safe use of methocarbamol injection has not been established with regard to possible adverse effects upon fetal development.
 There have been very rare reports of fetal and congenital abnormalities following in utero exposure to methocarbamol.
-Therefore, Methocarbamol injection should not be used in women who are or may become pregnant and particularly during early pregnancy unless in the judgment of the physician the potential benefits outweigh the possible hazards (see PRECAUTIONS, Pregnancy).
+Therefore, methocarbamol injection should not be used in women who are or may become pregnant and particularly during early pregnancy unless in the judgment of the physician the potential benefits outweigh the possible hazards (see PRECAUTIONS, Pregnancy).
 
 ## Use in Activities Requiring Mental Alertness
 
@@ -17,7 +17,7 @@ Patients should be cautioned about operating machinery, including automobiles, u
 
 As with other agents administered either intravenously or intramuscularly, careful supervision of dose and rate of injection should be observed.
 Rate of injection should not exceed 3 mL per minute-i.e., one 10 mL vial in approximately three minutes.
-Since Methocarbamol injection is hypertonic, vascular extravasation must be avoided.
+Since methocarbamol injection is hypertonic, vascular extravasation must be avoided.
 A recumbent position will reduce the likelihood of side reactions.
 
 Blood aspirated into the syringe does not mix with the hypertonic solution.
@@ -58,16 +58,16 @@ Animal reproduction studies have not been conducted with methocarbamol.
 It is also not known whether methocarbamol can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Methocarbamol injection should be given to a pregnant woman only if clearly needed.
 
-Safe use of Methocarbamol injection has not been established with regard to possible adverse effects upon fetal development.
+Safe use of methocarbamol injection has not been established with regard to possible adverse effects upon fetal development.
 There have been reports of fetal and congenital abnormalities following in utero exposure to methocarbamol.
-Therefore, Methocarbamol injection should not be used in women who are or may become pregnant and particularly during early pregnancy unless in the judgment of the physician the potential benefits outweigh the possible hazards (see WARNINGS).
+Therefore, methocarbamol injection should not be used in women who are or may become pregnant and particularly during early pregnancy unless in the judgment of the physician the potential benefits outweigh the possible hazards (see WARNINGS).
 
 ## Nursing Mothers
 
 Methocarbamol and/or its metabolites are excreted in the milk of dogs; however, it is not known whether methocarbamol or its metabolites are excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Methocarbamol injection is administered to a nursing woman.
+Because many drugs are excreted in human milk, caution should be exercised when methocarbamol injection is administered to a nursing woman.
 
 ## Pediatric Use
 
-Safety and effectiveness of Methocarbamol injection in pediatric patients have not been established except in tetanus.
-See Dosage and Administration, Special Directions for Use in Tetanus, For pediatric patients.
+Safety and effectiveness of methocarbamol injection in pediatric patients have not been established except in tetanus.
+See DOSAGE AND ADMINISTRATION, Special Directions for Use in Tetanus, For pediatric patients.

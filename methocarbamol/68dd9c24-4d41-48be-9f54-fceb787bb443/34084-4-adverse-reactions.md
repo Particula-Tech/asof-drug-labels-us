@@ -20,7 +20,7 @@ Nervous system: Amnesia, confusion, diplopia, dizziness or light-headedness, dro
 
 The onset of convulsive seizures during intravenous administration of methocarbamol has been reported in patients with seizure disorders.
 The psychic trauma of the procedure may have been a contributing factor.
-Although several observers have reported success in terminating epileptiform seizures with Methocarbamol injection, its administration to patients with epilepsy is not recommended (see PRECAUTIONS, General).
+Although several observers have reported success in terminating epileptiform seizures with methocarbamol injection, its administration to patients with epilepsy is not recommended (see PRECAUTIONS, General).
 
 Skin and special senses: Blurred vision, conjunctivitis, nasal congestion, metallic taste, pruritus, rash, urticaria
 

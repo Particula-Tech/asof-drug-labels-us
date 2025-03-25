@@ -12,11 +12,11 @@ Total Drug Content: Methocarbamol USP 1,000 mg in 10 mL.
 
 10 mL vials are single dose vials packaged as;
 
-- 5 vials per tray,
+- 5 vials per carton,
 
-- 10 vials per tray and
+- 10 vials per carton and
 
-- 25 vials per tray.
+- 25 vials per carton.
 
 Store at 20°- 25°C (68°F - 77°F), excursions permitted to 15° - 30°C (59°F - 86°F).
 [see USP Controlled Room Temperature].
@@ -27,14 +27,16 @@ To report SUSPECTED ADVERSE REACTIONS, contact Somerset Therapeutics, LLC at 1-8
 
 Manufactured for:
 
-Somerset Therapeutics, LLC
+Somerset Therapeutics, LLC.
 
-Hollywood, FL 33024
+Somerset, NJ 08873
 
 Made in India
 
 Code No.:KR/DRUGS/KTK/28/289/97
 
-ST-MET11/P/03
+ST-MET21/P/00
 
-Revised: July, 2020
+Revised: August, 2024
+
+1201014

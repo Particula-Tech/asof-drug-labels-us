@@ -10,7 +10,7 @@ The structural formula is shown below.
 
 Methocarbamol is a white powder, sparingly soluble in water and chloroform, soluble in alcohol (only with heating) and propylene glycol, and insoluble in benzene and n-hexane.
 
-Methocarbamol injection has a pH between 3.5 and 6.0.
+Methocarbamol injection, USP has a pH between 3.5 and 6.0.
 
 AFTER MIXING WITH I.V.
 INFUSION FLUIDS, DO NOT REFRIGERATE.
