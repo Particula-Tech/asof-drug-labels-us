@@ -17,7 +17,7 @@ The following packaging configurations are available.
 | 40 mg/0.4 mL single-dose prefilled Sensoready Pen with a fixed 29 gauge, ½ inch needle | Carton of 2 | NDC 61314-327-20 |
 | 40 mg/0.4 mL single-dose prefilled Sensoready Pen with a fixed 29 gauge, ½ inch needle | Carton of 4 | NDC 61314-327-84 |
 | 20 mg/0.2 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle | Carton of 2 | NDC 61314-332-64 |
-| 10 mg/0.1 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle | Carton of 2 | NDC 61314-342-64 |
+| 10 mg/0.1 mL single-dose prefilled syringe with a fixed 29 gauge, ½ inch needle | Carton of 2 | NDC 61314-391-64 |
 
 Prefilled syringes and injection devices are not made with natural rubber latex.
 

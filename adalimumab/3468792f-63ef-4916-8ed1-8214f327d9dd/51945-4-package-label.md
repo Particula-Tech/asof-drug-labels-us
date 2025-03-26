@@ -69,3 +69,21 @@ For Subcutaneous Use Only
 This product is Hyrimoz®
 
 SANDOZ
+
+# Principal Display Panel
+
+NDC 61314-391-64
+
+Rx Only
+
+Adalimumab-adaz Injection
+
+10 mg/0.1 mL
+
+For Subcutaneous Use Only
+
+2 Single-Dose Prefilled Syringes
+
+This product is Hyrimoz®
+
+SANDOZ
