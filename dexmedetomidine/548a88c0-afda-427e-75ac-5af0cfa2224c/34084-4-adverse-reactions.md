@@ -82,9 +82,9 @@ Table 4: Treatment-Emergent Adverse Events Occurring in >1% of All Dexmedetomidi
 
 In a controlled clinical trial, PRECEDEX was compared to midazolam for ICU sedation exceeding 24 hours duration in adult patients.
 Key treatment emergent adverse events occurring in dexmedetomidine or midazolam treated adult patients in the randomized active comparator continuous infusion long-term intensive care unit sedation study are provided in Table 5.
-The number (%) of adult subjects who had a dose-related increase in treatment-emergent adverse events by maintenance adjusted dose rate range in the PRECEDEX group is provided in Table 6.
+The number (%) of adult subjects who had a dose-related increase in treatment‑emergent adverse events by maintenance adjusted dose rate range in the PRECEDEX group is provided in Table 6.
 
-Table 5: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or Midazolam-Treated Adult Patients in the Randomized Active Comparator Continuous Infusion Long-Term Intensive Care Unit Sedation Study
+Table 5: Key Treatment-Emergent Adverse Events Occurring in Dexmedetomidine- or Midazolam‑Treated Adult Patients in the Randomized Active Comparator Continuous Infusion Long‑Term Intensive Care Unit Sedation Study
 
 | Adverse Event | Dexmedetomidine (N = 244) | Midazolam (N = 122) |
 | --- | --- | --- |
@@ -185,10 +185,10 @@ Table 8: Treatment-Emergent Adverse Events with Incidence >5%—Pediatric Patien
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of PRECEDEX.
+The following adverse reactions have been identified during post‑approval use of PRECEDEX.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypotension and bradycardia were the most common adverse reactions associated with the use of PRECEDEX during post-approval use of the drug.
+Hypotension and bradycardia were the most common adverse reactions associated with the use of PRECEDEX during post‑approval use of the drug.
 
 Table 9: Adverse Reactions Experienced During Post-Approval Use of PRECEDEX
 

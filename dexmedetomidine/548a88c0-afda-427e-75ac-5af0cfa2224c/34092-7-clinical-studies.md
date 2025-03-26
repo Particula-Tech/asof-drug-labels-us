@@ -20,7 +20,7 @@ Table 12: Ramsay Level of Sedation Scale
 | 2 | Patient cooperative, oriented, and tranquil |
 | 1 | Patient anxious, agitated, or restless |
 
-In the first study, 175 adult patients were randomized to receive placebo and 178 to receive PRECEDEX by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
+In the first study, 175 adult patients were randomized to receive placebo and 178 to receive PRECEDEX by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 mcg/kg/hr and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
 The study drug infusion rate was adjusted to maintain a Ramsay sedation score of ≥3.
 Patients were allowed to receive "rescue" midazolam as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered for pain as needed.
@@ -43,10 +43,10 @@ Table 13: Midazolam Use as Rescue Medication During Intubation (ITT) Study One
 | ITT (intent-to-treat) population includes all randomized patients. |  |  |  |
 
 A prospective secondary analysis assessed the dose of morphine sulfate administered to adult patients in the PRECEDEX and placebo groups.
-On average, PRECEDEX-treated patients received less morphine sulfate for pain than placebo-treated patients (0.47 versus 0.83 mg/h).
+On average, PRECEDEX-treated patients received less morphine sulfate for pain than placebo‑treated patients (0.47 versus 0.83 mg/h).
 In addition, 44% (79 of 178 patients) of PRECEDEX patients received no morphine sulfate for pain versus 19% (33 of 175 patients) in the placebo group.
 
-In a second study, 198 adult patients were randomized to receive placebo and 203 to receive PRECEDEX by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
+In a second study, 198 adult patients were randomized to receive placebo and 203 to receive PRECEDEX by intravenous infusion at a dose of 0.4 mcg/kg/hr (with allowed adjustment between 0.2 mcg/kg/hr and 0.7 mcg/kg/hr) following an initial loading infusion of one mcg/kg intravenous over 10 minutes.
 The study drug infusion was adjusted to maintain a Ramsay sedation score of ≥3.
 Patients were allowed to receive "rescue" propofol as needed to augment the study drug infusion.
 In addition, morphine sulfate was administered as needed for pain.
@@ -87,9 +87,9 @@ In Study 1, the sedative properties of PRECEDEX were evaluated by comparing the 
 
 Table 15: Observer's Assessment of Alertness/Sedation
 
-| Responsiveness | Speech | Facial Expression | Eyes | Composite Score |
-| --- | --- | --- | --- | --- |
 | Assessment Categories |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Responsiveness | Speech | Facial Expression | Eyes | Composite Score |
 | Responds readily to name spoken in normal tone | Normal | Normal | Clear, no ptosis | 5 (alert) |
 | Lethargic response to name spoken in normal tone | Mild slowing or thickening | Mild relaxation | Glazed or mild ptosis (less than half the eye) | 4 |
 | Responds only after name is called loudly and/or repeatedly | Slurring or prominent slowing | Marked relaxation (slack jaw) | Glazed and marked ptosis (half the eye or more) | 3 |
@@ -101,7 +101,7 @@ The maintenance infusion of study drug could be titrated from 0.2 mcg/kg/hr to 1
 Adult patients were allowed to receive rescue midazolam as needed to achieve and/or maintain an Observer's Assessment of Alertness/Sedation Scale ≤4.
 After achieving the desired level of sedation, a local or regional anesthetic block was performed.
 Demographic characteristics were similar between the PRECEDEX and comparator groups.
-Efficacy results showed that PRECEDEX was more effective than the comparator group when used to sedate non-intubated patients requiring monitored anesthesia care during surgical and other procedures (see Table 15).
+Efficacy results showed that PRECEDEX was more effective than the comparator group when used to sedate non‑intubated patients requiring monitored anesthesia care during surgical and other procedures (see Table 15).
 
 In Study 2, the sedative properties of PRECEDEX were evaluated by comparing the percent of adult patients requiring rescue midazolam to achieve or maintain a specified level of sedation using the Ramsay Sedation Scale score ≥2 (see Table 12).
 Adult patients were randomized to receive a loading infusion of PRECEDEX 1 mcg/kg or placebo (normal saline) given over 10 minutes and followed by a fixed maintenance infusion of 0.7 mcg/kg/hr.
@@ -145,7 +145,7 @@ Table 18: Percent of Pediatric Patients not Requiring Concomitant Propofol by Ag
 
 | Age Group |  | High Dose | Middle Dose | Low Dose | High Dose vs Low Dose |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  |  | n (%)95% CIExact 95% Cl of proportion of subjects not requiring propofol in each dose level. | n (%)95% CI | n (%)95% CI | Odds Ratio95% CIp-values; Cl is confidence interval of odds ratio. | p-value |
+|  |  | n (%)95% CIExact 95% CI of proportion of subjects not requiring propofol in each dose level. | n (%)95% CI | n (%)95% CI | Odds Ratio95% CIp-values; CI is confidence interval of odds ratio. | p-value |
 | 1 month to less than 2 years | N=59 | 9/18 (50.0%)(0.26, 0.74) | 2/21 (9.5%)(0.01, 0.30) | 2/20 (15.0%)(0.03, 0.38) | 0.18 (0.04, 0.82) | 0.022 |
 | 2 to less than 17 years | N=63 | 15/20 (75.0%)(0.51, 0.91) | 13/21 (61.9%)(0.38, 0.82) | 3/22 (13.6%)(0.03, 0.35) | 0.05 (0.01, 0.26) | <0.001 |
 | Overall | N=122 | 24/38 (63.2%)(0.46, 0.78) | 15/42 (35.7%)(0.22, 0.52) | 6/42 (14.3%)(0.05, 0.29) | 0.10 (0.03, 0.29) | <0.001 |

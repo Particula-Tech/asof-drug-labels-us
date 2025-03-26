@@ -44,18 +44,18 @@ In adult subjects, tachycardia and hypertension requiring intervention in the 48
 
 Procedural Sedation
 
-In adult subjects, withdrawal symptoms were not seen after discontinuation of short-term infusions of PRECEDEX (<6 hours).
+In adult subjects, withdrawal symptoms were not seen after discontinuation of short‑term infusions of PRECEDEX (<6 hours).
 
 In pediatric patients, mild transient withdrawal symptoms of emergence delirium or agitation were seen after discontinuation of short‑term infusions of PRECEDEX (<2 hours) [see Adverse Reactions (6.1)].
 
 ## 5.6 Tolerance and Tachyphylaxis
 
-Use of dexmedetomidine beyond 24 hours has been associated with tolerance and tachyphylaxis and a dose-related increase in adverse reactions [see Adverse Reactions (6.1)].
+Use of dexmedetomidine beyond 24 hours has been associated with tolerance and tachyphylaxis and a dose‑related increase in adverse reactions [see Adverse Reactions (6.1)].
 
 ## 5.7 Hyperthermia or Pyrexia
 
 PRECEDEX may induce hyperthermia or pyrexia, which may be resistant to traditional cooling methods, such as administration of cooled intravenous fluids and antipyretic medications.
-Discontinue PRECEDEX if drug-related hyperthermia or pyrexia is suspected and monitor patients until body temperature normalizes.
+Discontinue PRECEDEX if drug‑related hyperthermia or pyrexia is suspected and monitor patients until body temperature normalizes.
 
 ## 5.8 Hepatic Impairment
 

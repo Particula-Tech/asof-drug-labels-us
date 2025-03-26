@@ -8,7 +8,7 @@ Both alpha1 and alpha2 activity is observed following slow intravenous infusion 
 
 ## 12.2 Pharmacodynamics
 
-In a study in healthy adult volunteers (N = 10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when PRECEDEX was administered by intravenous infusion at doses within the recommended dose range (0.2–0.7 mcg/kg/hr).
+In a study in healthy adult volunteers (N = 10), respiratory rate and oxygen saturation remained within normal limits and there was no evidence of respiratory depression when PRECEDEX was administered by intravenous infusion at doses within the recommended dose range (0.2 mcg/kg/hr to 0.7 mcg/kg/hr).
 
 ## 12.3 Pharmacokinetics
 
@@ -16,7 +16,7 @@ Following intravenous administration to adults, dexmedetomidine exhibits the fol
 Clearance is estimated to be approximately 39 L/h.
 The mean body weight associated with this clearance estimate was 72 kg.
 
-Dexmedetomidine exhibits linear pharmacokinetics in the dosage range of 0.2 to 0.7 mcg/kg/hr when administered to adults by intravenous infusion for up to 24 hours.
+Dexmedetomidine exhibits linear pharmacokinetics in the dosage range of 0.2 mcg/kg/hr to 0.7 mcg/kg/hr when administered to adults by intravenous infusion for up to 24 hours.
 Table 10 shows the main pharmacokinetic parameters when PRECEDEX was infused (after appropriate loading doses) at maintenance infusion rates of 0.17 mcg/kg/hr (target plasma concentration of 0.3 ng/mL) for 12 and 24 hours, 0.33 mcg/kg/hr (target plasma concentration of 0.6 ng/mL) for 24 hours, and 0.70 mcg/kg/hr (target plasma concentration of 1.25 ng/mL) for 24 hours.
 
 Table 10: Mean ± SD Pharmacokinetic Parameters in Adults
@@ -30,11 +30,11 @@ Table 10: Mean ± SD Pharmacokinetic Parameters in Adults
 | CL, liter/hour | 46.3 ± 8.3 | 43.1 ± 6.5 | 35.3 ± 6.8 | 36.5 ± 7.5 |
 | Vss, liter | 88.7 ± 22.9 | 102.4 ± 20.3 | 93.6 ± 17.0 | 99.6 ± 17.8 |
 | Avg CssMean Css = Average steady-state concentration of dexmedetomidine. The mean Css was calculated based on post-dose sampling from 2.5 to 9 hours samples for 12 hour infusion and post-dose sampling from 2.5 to 18 hours for 24 hour infusions., ng/mL | 0.27 ± 0.05 | 0.27 ± 0.05 | 0.67 ± 0.10 | 1.37 ± 0.20 |
-| Abbreviations: t1/2 = half-life, CL = clearance, Vss = steady-state volume of distribution. |  |  |  |  |
+| Abbreviations: t1/2 = half‑life, CL = clearance, Vss = steady‑state volume of distribution. |  |  |  |  |
 
 The loading doses for each of the above indicated groups were 0.5, 0.5, 1 and 2.2 mcg/kg, respectively.
 
-Dexmedetomidine pharmacokinetic parameters in adults after PRECEDEX maintenance doses of 0.2 to 1.4 mcg/kg/hr for >24 hours were similar to the pharmacokinetic (PK) parameters after PRECEDEX maintenance dosing for <24 hours in other studies.
+Dexmedetomidine pharmacokinetic parameters in adults after PRECEDEX maintenance doses of 0.2 mcg/kg/hr to 1.4 mcg/kg/hr for >24 hours were similar to the pharmacokinetic (PK) parameters after PRECEDEX maintenance dosing for <24 hours in other studies.
 The values for clearance (CL), volume of distribution (V), and t1/2 were 39.4 L/hr, 152 L, and 2.67 hours, respectively.
 
 Distribution

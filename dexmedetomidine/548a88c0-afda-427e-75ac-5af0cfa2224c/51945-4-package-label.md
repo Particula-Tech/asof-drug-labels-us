@@ -169,3 +169,44 @@ PrecedexTM Dexmedetomidine HCl in 0.9% Sodium Chloride Injection
 For Intravenous Use
 
 Hospira
+
+# PRINCIPAL DISPLAY PANEL – 50 mL Bag - 7838
+
+50 mL Single-dose.
+Discard unused portion.
+NDC 0409-7838-01 PrecedexTM Dexmedetomidine HCl in 0.9% Sodium Chloride Injection Rx only 200 mcg/50 mL (4mcg/mL) For Intravenous Infusion Each mL contains 4 mcg of dexmedetomidine provided as 4.72 mcg dexmedetomidine HCl and 9 mg of sodium chloride in water for injection.
+Recommended Dosage: See prescribing information.
+Store at 20˚C to 25˚C (68˚F to 77˚F).
+[See USP Controlled Room Temperature.]
+Do not freeze.
+This product is not made with natural rubber latex.
+
+Preservative-Free.
+1000072255 Distributed by Hospira, Inc. Lake Forest, IL 60045 USA Hospira
+
+# PRINCIPAL DISPLAY PANEL – 100 mL Bag - 7853
+
+100 mL Single-dose.
+Discard unused portion.
+NDC 0409-7853-01 PrecedexTM Dexmedetomidine HCl in 0.9% Sodium Chloride Injection Rx only 400 mcg/100 mL (4 mcg/mL) For Intravenous Infusion Each mL contains 4 mcg of dexmedetomidine provided as 4.72 mcg dexmedetomidine HCl and 9 mg of sodium chloride in water for injection.
+Recommended Dosage: See prescribing information.
+Storage at 20ºC to 25ºC (68ºF to 77ºF).[See USP Controlled Room Temperature.]
+Do not Freeze.
+This product is not made with natural rubber latex.
+Preservative-Free.
+1000072256 Distributed by Hospira, Inc. Lake Forest, IL 60045 USA Hospira
+
+# PRINCIPAL DISPLAY PANEL – 250 mL Bag - 7875
+
+250 mL Single-dose.
+Discard unused portion.
+NDC 0409-7875-01 PrecedexTM Dexmedetomidine HCl in 0.9% Sodium Chloride Injection 1,000 mcg/250 mL (4 mcg/mL) For Intravenous Infusion Each mL contains 4 mcg of dexmedetomidine provided as 4.72 mcg dexmedetomidine HCl and 9 mg of sodium chloride in water for injection.
+Recommended Dosage: See prescribing information.
+Store at 20˚C to 25˚C (68˚F to 77˚F).
+[See USP Controlled Room
+
+Temperature.]
+Do not freeze.
+This product is not made with natural rubber latex.
+Preservative-Free.
+Rx only 1000072257 Distributed by Hospira, Inc. Lake Forest, IL 60045 USA Hospira

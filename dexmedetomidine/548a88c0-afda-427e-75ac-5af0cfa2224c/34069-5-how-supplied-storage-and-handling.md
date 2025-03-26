@@ -24,3 +24,6 @@ Discard unused portion.
 | NDC 0409-1660-10Tray of 10 single-dose clear glass bottles | 400 mcg/100 mL(4 mcg/mL) |
 | NDC 0409-1596-10Case of 10 cartons containing 1 single-dose clear glass bottle | 400 mcg/100 mL(4 mcg/mL) |
 | NDC 0409-1434-01Carton containing 1 single-dose clear glass bottle | 1,000 mcg/250 mL(4 mcg/mL) |
+| NDC 0409-7838-24Case of 24 single-dose flexible containers | 200 mcg/50 mL(4 mcg/mL) |
+| NDC 0409-7853-24Case of 24 single-dose flexible containers | 400 mcg/100 mL(4 mcg/mL) |
+| NDC 0409-7875-12Case of 12 single-dose flexible containers | 1,000 mcg/250 mL(4 mcg/mL) |
