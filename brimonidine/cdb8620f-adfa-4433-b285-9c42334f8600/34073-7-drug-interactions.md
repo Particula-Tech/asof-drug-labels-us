@@ -2,7 +2,7 @@
 
 ## 7.1 Antihypertensives/Cardiac Glycosides
 
-Because Brimonidine tartrate ophthalmic solution may reduce blood pressure, caution in using drugs such as antihypertensives and/or cardiac glycosides with Brimonidine tartrate ophthalmic solution is advised.
+Because brimonidine tartrate ophthalmic solution may reduce blood pressure, caution in using drugs such as antihypertensives and/or cardiac glycosides with brimonidine tartrate ophthalmic solution is advised.
 
 ## 7.2 CNS Depressants
 

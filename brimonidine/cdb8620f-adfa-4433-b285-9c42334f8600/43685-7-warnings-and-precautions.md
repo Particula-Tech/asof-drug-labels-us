@@ -17,5 +17,5 @@ These containers had been inadvertently contaminated by patients who, in most ca
 
 ## 5.4 Use with Contact Lenses
 
-The preservative in Brimonidine tartrate ophthalmic solution, benzalkonium chloride, may be absorbed by soft contact lenses.
-Patients wearing soft contact lenses should be instructed to wait at least 15 minutes after instilling Brimonidine tartrate ophthalmic solution to insert soft contact lenses.
+The preservative in brimonidine tartrate ophthalmic solution, benzalkonium chloride, may be absorbed by soft contact lenses.
+Patients wearing soft contact lenses should be instructed to wait at least 15 minutes after instilling brimonidine tartrate ophthalmic solution to insert soft contact lenses.

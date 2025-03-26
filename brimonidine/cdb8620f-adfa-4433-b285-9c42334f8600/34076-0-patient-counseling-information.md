@@ -29,7 +29,7 @@ Manufactured for:
 
 Somerset Therapeutics, LLC
 
-Hollywood, FL 33024
+Somerset, NJ 08873
 
 Customer Care # 1-800-417-9175
 
@@ -37,6 +37,6 @@ Made in India
 
 Code No.:KR/DRUGS/KTK/28/289/97
 
-ST-BRM/P/04
+ST-BRM/P/05
 
-1200742
+1201040

@@ -2,10 +2,10 @@
 
 The following serious adverse reactions are described elsewhere in the labeling:
 
-- Potentiation of Vascular Insufficiency [seeWarningsandPrecautions(5.1)]
-- Severe Cardiovascular Disease [seeWarningsandPrecautions(5.2)]
-- Contamination of Topical Ophthalmic Products after Use [seeWarningsandPrecautions(5.3)]
-- Neonates and Infants (under the age of 2 years) [seeContraindications(4.1)]
+- Potentiation of Vascular Insufficiency [see Warnings and Precautions (5.1)]
+- Severe Cardiovascular Disease [see Warnings and Precautions (<5.2)]
+- Contamination of Topical Ophthalmic Products after Use [see Warnings and Precautions (5.3)]
+- Neonates and Infants (under the age of 2 years) [see Contraindications (4.1)]
 
 ## 6.1 Clinical Studies Experience
 
