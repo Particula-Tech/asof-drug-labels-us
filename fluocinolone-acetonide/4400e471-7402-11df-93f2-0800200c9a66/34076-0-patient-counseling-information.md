@@ -5,16 +5,14 @@ If this occurs, advise patients that their vision will decrease, and they will n
 
 Advise patients that they may develop increased intraocular pressure with ILUVIEN treatment, and the increased IOP may need to be managed with eye drops, or surgery.
 
-Intravitreal Injection-related Effects Advise patients that in the days following intravitreal injection of ILUVIEN, patients are at risk for potential complications including in particular, but not limited to, the development of endophthalmitis or elevated intraocular pressure.
+When to Seek Physician Advice Advise patients that in the days following intravitreal injection of ILUVIEN, patients are at risk for potential complications including in particular, but not limited to, the development of endophthalmitis or elevated intraocular pressure.
+Advise patients that if the eye becomes red, sensitive to light, painful, or develops a change in vision, they should seek immediate care from an ophthalmologist.
 
-When to Seek Physician Advice Advise patients that if the eye becomes red, sensitive to light, painful, or develops a change in vision, they should seek immediate care from an ophthalmologist.
-
-Driving and Using Machines Inform patients that they may experience temporary visual blurring after receiving an intravitreal injection.
+Driving and Using Machines Inform patients that they may experience temporary blurred vision after injection of the implant.
 Advise patients not to drive or use machines until this has been resolved.
 
 Manufactured for: Alimera Sciences, Inc. 6310 Town Square, Suite 400 Alpharetta, GA 30005
 
 Patented.
-See: www.alimerasciences.com
 
 alimera

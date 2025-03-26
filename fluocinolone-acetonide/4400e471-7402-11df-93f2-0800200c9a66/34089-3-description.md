@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 ILUVIEN is a sterile non-bioerodable intravitreal implant containing 0.19 mg (190 mcg) fluocinolone acetonide in a 36-month sustained-release drug delivery system.
-ILUVIEN is designed to release fluocinolone acetonide at an initial rate of 0.25 µg/day.
+ILUVIEN is designed to release fluocinolone acetonide at an initial rate of 0.25 mcg/day.
 ILUVIEN is preloaded into a single-use applicator to facilitate injection of the implant directly into the vitreous.
 The drug substance is a synthetic corticosteroid, fluocinolone acetonide.
 

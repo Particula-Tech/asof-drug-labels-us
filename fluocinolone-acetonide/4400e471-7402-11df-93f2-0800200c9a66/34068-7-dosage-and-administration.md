@@ -4,6 +4,8 @@
 
 For ophthalmic intravitreal injection.
 
+The initial prescription and renewal of the medication order of ILUVIEN should be made by a physician only after examination of the patient with the aid of magnification, such as slit lamp biomicroscopy, and, where appropriate, fluorescein staining.
+
 ## 2.2 Administration
 
 The intravitreal injection procedure should be carried out under aseptic conditions, which include use of sterile gloves, a sterile drape, a sterile caliper, and a sterile eyelid speculum (or equivalent).
@@ -32,6 +34,6 @@ The injection procedure for ILUVIEN is as follows:
    Note: Ensure that the button reaches the end of the track before removing the needle.
 8. Remove the lid speculum and perform indirect ophthalmoscopy to verify placement of the implant, adequate central retinal artery perfusion and absence of any other complications.
 
-Following the injection, patients should be monitored for elevation in intraocular pressure and for endophthalmitis.
+Following the injection, patients should be monitored for change in intraocular pressure and for endophthalmitis.
 Monitoring may consist of a check for perfusion of the optic nerve head immediately after the injection, tonometry within 30 minutes following the injection, and biomicroscopy between two and seven days following the injection.
 Patients should be instructed to report without delay any symptoms suggestive of endophthalmitis.
