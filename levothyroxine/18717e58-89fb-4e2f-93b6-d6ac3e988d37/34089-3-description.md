@@ -8,6 +8,9 @@ Levothyroxine sodium tablets USP for oral administration are supplied in the fol
 Each levothyroxine sodium tablets USP contains the inactive ingredients corn starch, croscarmellose sodium, magnesium stearate, mannitol and sodium bicarbonate.
 Table 9 provides a listing of the color additives by tablet strength:
 
+Table 9.
+Levothyroxine Sodium Tablets USP Color Additives
+
 | Strength (mcg) | Color additive(s) |
 | --- | --- |
 | 25 | FD&C Yellow No. 6 Aluminum Lake* |
