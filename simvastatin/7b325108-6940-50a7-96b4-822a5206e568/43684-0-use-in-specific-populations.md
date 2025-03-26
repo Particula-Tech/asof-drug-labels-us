@@ -2,79 +2,92 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category X [See Contraindications (4).]
+Risk Summary
 
-Simvastatin is contraindicated in women who are or may become pregnant.
-Lipid lowering drugs offer no benefit during pregnancy, because cholesterol and cholesterol derivatives are needed for normal fetal development.
-Atherosclerosis is a chronic process, and discontinuation of lipid-lowering drugs during pregnancy should have little impact on long-term outcomes of primary hypercholesterolemia therapy.
-There are no adequate and well-controlled studies of use with simvastatin during pregnancy; however, there are rare reports of congenital anomalies in infants exposed to statins in utero.
-Animal reproduction studies of simvastatin in rats and rabbits showed no evidence of teratogenicity.
-Serum cholesterol and triglycerides increase during normal pregnancy, and cholesterol or cholesterol derivatives are essential for fetal development.
-Because statins decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, simvastatin may cause fetal harm when administered to a pregnant woman.
-If simvastatin is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
+Discontinue simvastatin when pregnancy is recognized.
+Alternatively, consider the ongoing therapeutic needs of the individual patient.
 
-There are rare reports of congenital anomalies following intrauterine exposure to statins.
-In a reviewManson, J.M., Freyssinges, C., Ducrocq, M.B., Stephenson, W.P., Post marketing Surveillance of Lovastatin and Simvastatin Exposure During Pregnancy, Reproductive Toxicology, 10(6):439-446, 1996. of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or another structurally related statin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed those expected in the general population.
-However, the study was only able to exclude a 3- to 4-fold increased risk of congenital anomalies over the background rate.
-In 89% of these cases, drug treatment was initiated prior to pregnancy and was discontinued during the first trimester when pregnancy was identified.
+Simvastatin decreases synthesis of cholesterol and possibly other biologically active substances derived from cholesterol; therefore, simvastatin may cause fetal harm when administered to pregnant patients based on the mechanism of action [see Clinical Pharmacology (12.1)].
+In addition, treatment of hyperlipidemia is not generally necessary during pregnancy.
+Atherosclerosis is a chronic process and the discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hyperlipidemia for most patients.
 
-Simvastatin was not teratogenic in rats or rabbits at doses (25, 10 mg/kg/day, respectively) that resulted in 3 times the human exposure based on mg/m2 surface area.
-However, in studies with another structurally-related statin, skeletal malformations were observed in rats and mice.
+Available data from case series and prospective and retrospective observational cohort studies over decades of use with statins in pregnant women have not identified a drug-associated risk of major congenital malformations.
+Published data from prospective and retrospective observational cohort studies with simvastatin use in pregnant women are insufficient to determine if there is a drug-associated risk of miscarriage (see Data).
 
-Women of childbearing potential, who require treatment with simvastatin for a lipid disorder, should be advised to use effective contraception.
-For women trying to conceive, discontinuation of simvastatin should be considered.
-If pregnancy occurs, simvastatin should be immediately discontinued.
+In animal reproduction studies, no adverse developmental effects were observed in pregnant rats or rabbits orally administered simvastatin during the period of organogenesis at doses that resulted in 2.5 and 2 times, respectively, the human exposure at the maximum recommended human dosage of 80 mg/day, based on body surface area (mg/m2) (see Data).
 
-## 8.3 Nursing Mothers
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-It is not known whether simvastatin is excreted in human milk.
-Because a small amount of another drug in this class is excreted in human milk and because of the potential for serious adverse reactions in nursing infants, women taking simvastatin should not nurse their infants.
-A decision should be made whether to discontinue nursing or discontinue drug, taking into account the importance of the drug to the mother [see Contraindications (4)].
+Data
+
+Human Data
+
+A Medicaid cohort linkage study of 1152 statin-exposed pregnant women compared to 886,996 controls did not find a significant teratogenic effect from maternal use of statins in the first trimester of pregnancy, after adjusting for potential confounders – including maternal age, diabetes mellitus, hypertension, obesity, and alcohol and tobacco use – using propensity score-based methods.
+The relative risk of congenital malformations between the group with statin use and the group with no statin use in the first trimester was 1.07 (95% confidence interval 0.85 to 1.37) after controlling for confounders, particularly pre-existing diabetes mellitus.
+There were also no statistically significant increases in any of the organ-specific malformations assessed after accounting for confounders.
+In the majority of pregnancies, statin treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
+Study limitations include reliance on physician coding to define the presence of a malformation, lack of control for certain confounders such as body mass index, use of prescription dispensing as verification for the use of a statin, and lack of information on non-live births.
+
+Animal Data
+
+Simvastatin was given to pregnant rats at doses of 6.25, 12.5 and 25 mg/kg/day (0.6 times, 1.3 times, and 2.5 times, respectively, the maximum recommended dosage of 80 mg/day when normalized to body surface area) from gestation days 6-17 and to pregnant rabbits from gestation days 6-18 at doses of 2.5, 5, and 10 mg/kg/day (0.5 times, 1 times, and 2 times, respectively, the maximum recommended dosage of 80 mg/day when normalized to body surface area).
+For both species, there was no evidence of maternal toxicity or embryolethality.
+In rats, mean fetal body weights in the 25 mg/kg/day group were decreased 5.4%.
+Similar fetal body weight effects were not observed in rabbits.
+
+Simvastatin doses of 6.25, 12.5 and 25 mg/kg/day (0.6 times, 1.3 times, and 2.5 times, respectively, the maximum recommended dosage of 80 mg/day when normalized to body surface area) were given to pregnant rats from gestation day 15 to lactation day 21.
+Slight decreases in maternal body weight gain and pup postnatal day 0 weight were observed in the 25 mg/kg/day dose group.
+Mean body weight gain of pups during lactation was slightly decreased at doses ≥12.5 mg/kg/day.
+Post weaning weight, behavior, reproductive performance and fertility of the offspring were not affected at any dose tested.
+
+Placental transfer of simvastatin was not evaluated in rats or rabbits.
+However, it has been shown that other drugs in this class cross the placenta.
+
+## 8.2 Lactation
+
+Risk Summary
+
+There is no information about the presence of simvastatin in human or animal milk, the effects of the drug on the breastfed infant or the effects of the drug on milk production.
+However, it has been shown that another drug in this class passes into human milk.
+Statins, including simvastatin, decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol and may cause harm to the breastfed infant.
+
+Because of the potential for serious adverse reactions in a breastfed infant, based on the mechanism of action, advise patients that breastfeeding is not recommended during treatment with simvastatin [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)].
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of simvastatin in patients 10 to 17 years of age with heterozygous familial hypercholesterolemia have been evaluated in a controlled clinical trial in adolescent boys and in girls who were at least 1 year post-menarche.
-Patients treated with simvastatin had an adverse reaction profile similar to that of patients treated with placebo.
-Doses greater than 40 mg have not been studied in this population.
-In this limited controlled study, there was no significant effect on growth or sexual maturation in the adolescent boys or girls, or on menstrual cycle length in girls.
-[See Dosage and Administration (2.5), Adverse Reactions (6.1), Clinical Studies (14.2).]
-Adolescent females should be counseled on appropriate contraceptive methods while on simvastatin therapy [see Contraindications (4) and Use in Specific Populations (8.1)].
-Simvastatin has not been studied in patients younger than 10 years of age, nor in pre-menarchal girls.
+The safety and effectiveness of simvastatin as an adjunct to diet to reduce LDL-C have been established in pediatric patients 10 years of age and older with HeFH.
+Use of simvastatin for this indication is based on a double-blind, placebo-controlled clinical study in 175 pediatric patients (99 boys and 76 girls at least 1 year post-menarche) 10 years of age and older with HeFH.
+In this limited controlled study, there was no significant effect on growth or sexual maturation in the boys or girls, or on menstrual cycle length in girls.
+
+The safety and effectiveness of simvastatin have not been established in pediatric patients younger than 10 years of age with HeFH or in pediatric patients with other types of hyperlipidemia (other than HeFH).
 
 ## 8.5 Geriatric Use
 
-Of the 2,423 patients who received simvastatin in Phase III clinical studies and the 10,269 patients in the Heart Protection Study who received simvastatin, 363 (15%) and 5,366 (52%), respectively were ≥65 years old.
-In HPS, 615 (6%) were ≥75 years old.
-No overall differences in safety or effectiveness were observed between these subjects and younger subjects, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
-Since advanced age (≥65 years) is a predisposing factor for myopathy, simvastatin should be prescribed with caution in the elderly.
-[See Clinical Pharmacology (12.3).]
+Of the total number of simvastatin -treated patients in clinical studies 1,021 (23%) patients, 5,366 (52%) patients, and 363 (15%) patients were ≥65 years old, respectively.
+In Study HPS, 615 (6%) patients were ≥75 years old [see Clinical Studies (14)].
+In a clinical study of patients treated with simvastatin tablets 80 mg daily, patients ≥65 years of age had an increased risk of myopathy, including rhabdomyolysis, compared to patients <65 years of age.
 
-A pharmacokinetic study with simvastatin showed the mean plasma level of statin activity to be approximately 45% higher in elderly patients between 70 to 78 years of age compared with patients between 18 to 30 years of age.
-In 4S, 1,021 (23%) of 4,444 patients were 65 or older.
-Lipid-lowering efficacy was at least as great in elderly patients compared with younger patients, and simvastatin significantly reduced total mortality and CHD mortality in elderly patients with a history of CHD.
-In HPS, 52% of patients were elderly (4,891 patients 65-69 years and 5,806 patients 70 years or older).
-The relative risk reductions of CHD death, non-fatal MI, coronary and non-coronary revascularization procedures, and stroke were similar in older and younger patients [see Clinical Studies (14.1)].
-In HPS, among 32,145 patients entering the active run-in period, there were 2 cases of myopathy/rhabdomyolysis; these patients were aged 67 and 73.
-Of the 7 cases of myopathy/rhabdomyolysis among 10,269 patients allocated to simvastatin, 4 were aged 65 or more (at baseline), of whom one was over 75.
-There were no overall differences in safety between older and younger patients in either 4S or HPS.
+A pharmacokinetic study with simvastatin use showed the mean plasma level of total inhibitors to be approximately 45% higher in geriatric patients between 70-78 years of age compared with patients between 18-30 years of age [see Clinical Pharmacology (12.3)].
 
-Because advanced age (≥65 years) is a predisposing factor for myopathy, including rhabdomyolysis, simvastatin should be prescribed with caution in the elderly.
-In a clinical trial of patients treated with simvastatin 80 mg/day, patients ≥65 years of age had an increased risk of myopathy, including rhabdomyolysis, compared to patients <65 years of age.
-[See Warnings and Precautions (5.1) and Clinical Pharmacology (12.3).]
+Advanced age (≥65 years) is a risk factor for simvastatin -associated myopathy and rhabdomyolysis.
+Dose selection for an elderly patient should be cautious, recognizing the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy and the higher risk of myopathy.
+Monitor geriatric patients receiving simvastatin for the increased risk of myopathy [see Warnings and Precautions (5.1)].
 
 ## 8.6 Renal Impairment
 
-Caution should be exercised when simvastatin is administered to patients with severe renal impairment.
-[See Dosage and Administration (2.6).]
+Renal impairment is a risk factor for myopathy and rhabdomyolysis.
+Monitor all patients with renal impairment for development of myopathy.
+In patients with severe renal impairment (CLcr 15 – 29 mL/min), the recommended starting dosage is simvastatin 5 mg once daily [see Dosage and Administration (2.4), Warnings and Precautions (5.1)].
 
 ## 8.7 Hepatic Impairment
 
-Simvastatin is contraindicated in patients with active liver disease which may include unexplained persistent elevations in hepatic transaminase levels [see Contraindications (4) and Warnings and Precautions (5.3)].
+Simvastatin is contraindicated in patients with acute liver failure or decompensated cirrhosis [see Contraindications (4), Warnings and Precautions (5.3)].
 
 ## 8.8 Chinese Patients
 
-In a clinical trial in which patients at high risk of cardiovascular disease were treated with simvastatin40 mg/day (median follow-up 3.9 years), the incidence of myopathy was approximately 0.05% for nonChinese patients (n=7367) compared with 0.24% for Chinese patients (n=5468).
-The incidence ofmyopathy for Chinese patients on simvastatin 40 mg/day or ezetimibe/simvastatin 10/40 mg/daycoadministered with extended-release niacin 2 g/day was 1.24%.
+In a clinical study in which patients at high risk of CVD were treated with simvastatin 40 mg/day (median follow-up 3.9 years), the incidence of myopathy was approximately 0.05% for non-Chinese patients (n=7367) compared with 0.24% for Chinese patients (n=5468).
+In this study, the incidence of myopathy for Chinese patients on simvastatin 40 mg/day or ezetimibe/simvastatin 10/40 mg/day coadministered with extended-release niacin 2 g/day was 1.24%.
 
-Chinese patients may be at higher risk for myopathy, monitor patients appropriately.
-Coadministrationof simvastatin with lipid-modifying doses (≥1 g/day niacin) of niacin-containing products is not recommended in Chinese patients [see Warnings and Precautions (5.1), Drug Interactions (7.4)].
+Chinese patients may be at higher risk for myopathy, monitor these patients appropriately.
+Coadministration of simvastatin with lipid-modifying doses of niacin-containing products (≥1 g/day niacin) is not recommended in Chinese patients [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
