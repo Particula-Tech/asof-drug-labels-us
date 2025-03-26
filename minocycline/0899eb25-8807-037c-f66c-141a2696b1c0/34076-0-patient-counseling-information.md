@@ -66,11 +66,7 @@ Lactation
 
 Manufactured for:
 
-Journey Medical Corporation
-
-Scottsdale, AZ 85258
-
-EMR-P01-R01
+Journey Medical Corporation Scottsdale, AZ 85258 EMR-P01-R01
 
 EMROSI is a trademark of Journey Medical Corporation.
 

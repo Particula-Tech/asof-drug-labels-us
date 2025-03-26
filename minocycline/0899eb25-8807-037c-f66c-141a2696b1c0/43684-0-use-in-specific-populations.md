@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Tetracycline-class drugs, including EMROSI, may cause permanent discoloration of deciduous teeth and reversible inhibition of bone growth when administered during the second and third trimesters of pregnancy [see Warnings and Precautions (5.2, 5.3) and Use in Specific Populations (8.4)].
+Tetracycline-class drugs, including EMROSI, may cause permanent discoloration of deciduous teeth and reversible inhibition of bone growth when administered during the second and third trimesters of pregnancy [see Warnings and Precautions (5.2,5.3) and Use in Specific Populations (8.4)].
 A few postmarketing cases of limb reductions have been reported over decades of use; however, the association is unclear.
 The limited data from postmarketing reports are not sufficient to inform a drug-associated risk for birth defects or miscarriage.
 

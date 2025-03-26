@@ -2,17 +2,17 @@ PRINCIPAL DISPLAY PANEL
 
 NDC 69489-131-30
 
-emrosi
+emrosi TM
 
 (minocycline hydrochloride)
 
 extended-release capsules
 
-40mg
+40mg*
 
-*10mg immediaate-release and 30mg extended-release
+*10mg immediate-release & 30mg extended-release
 
-Rx only
+Rx Only
 
 30 Capsules
 
@@ -22,16 +22,16 @@ NDC 69489-131-07
 
 PHYSICIAN SAMPLE-NOT FOR SALE
 
-emrosi
+emrosi TM
 
 (minocycline hydrochloride)
 
 extended-release capsules
 
-40mg
+40mg*
 
-*10mg immediaate-release and 30mg extended-release
+*10mg immediate-release & 30mg extended-release
 
-Rx only
+Rx Only
 
-07 Capsules
+7 Capsules
