@@ -1,8 +1,10 @@
 # HOW SUPPLIED
 
-Furosemide Injection, USP is clear, colorless to slightly yellow solution.Furosemide Injection USP, (10 mg/mL)
+Furosemide Injection, USP is clear, colorless to slightly yellow solution.
 
-| NDC 23155-473-41 | 2 mL single dose amber colored vial (23155-473-31) in boxes of 25. |
+Furosemide Injection USP, (10 mg/mL)
+
+| NDC 23155-473-41 | 2 mL single dose amber colored vial (23155-473-31) packaged in boxes of 25. |
 | --- | --- |
 | NDC 23155-473-42 | 4 mL single dose amber colored vial (23155-473-32) packaged in boxes of 25. |
 | NDC 23155-473-43 | 4 mL single dose amber colored vial (23155-473-32) packaged in boxes of 50. |
@@ -19,7 +21,7 @@ Manufactured by: Emcure Pharmaceuticals Ltd., Sanand, Ahmedabad – 382110, Indi
 
 Manufactured for: Avet Pharmaceuticals Inc. East Brunswick, NJ 08816 1.866.901.DRUG (3784)
 
-Revised:11/2024
+Revised:02/2025
 
 OR
 
@@ -28,4 +30,4 @@ No. 32, Sipcot Industrial Complex, Phase -1, Hosur-635126 Tamilnadu, INDIA.
 
 Manufactured for: Avet Pharmaceuticals Inc. East Brunswick, NJ 08816 1.866.901.DRUG (3784)
 
-Revised: 11/2024
+Revised: 02/2025
