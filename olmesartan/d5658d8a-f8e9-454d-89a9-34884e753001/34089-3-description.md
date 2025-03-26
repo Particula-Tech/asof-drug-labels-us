@@ -7,6 +7,6 @@ Olmesartan medoxomil, USP is described chemically as 4-(1-Hydroxy-1-methylethyl)
 
 Its empirical formula is C29H30N6O6 and its structural formula is:
 
-Olmesartan medoxomil, USP is a white to off-white crystalline powder with a molecular weight of 558.58.
-It is sparingly soluble in methanol, practically insoluble in water, slightly soluble in acetone, and very slightly soluble in ethanol.
-Olmesartan medoxomil is available for oral use as film-coated tablets containing 5 mg, 20 mg, or 40 mg of olmesartan medoxomil, USP and the following inactive ingredients: hydroxypropyl cellulose, hypromellose, lactose monohydrate, low-substituted hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, talc, titanium dioxide, and ferric oxide yellow (for 5 mg only).
+Olmesartan medoxomil, USP is a white to off-white powder with a molecular weight of 558.58.
+It is slightly soluble in acetone, methanol; very slightly soluble in ethanol; practically insoluble in water.
+Olmesartan medoxomil is available for oral use as film-coated tablets containing 5 mg, 20 mg, or 40 mg of olmesartan medoxomil, USP and the following inactive ingredients: lactose monohydrate, microcrystalline cellulose,low-substituted hydroxypropyl cellulose, hydroxypropyl cellulose, magnesium stearate, hypromellose, titanium dioxide, talc, and (5 mg only) ferric oxide yellow.

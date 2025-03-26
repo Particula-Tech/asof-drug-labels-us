@@ -11,7 +11,9 @@ Consider alternative antihypertensive therapy during pregnancy.
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2%–4% and 15%–20%, respectively.
-Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section and post-partum hemorrhage).
+Clinical Considerations Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+Hypertension in pregnancy increases the maternal risk for pre-eclampsia, gestational diabetes, premature delivery, and delivery complications (e.g., need for cesarean section and post-partum hemorrhage).
 Hypertension increases the fetal risk for intrauterine growth restriction and intrauterine death.
 Pregnant women with hypertension should be carefully monitored and managed accordingly.
 Fetal/Neonatal Adverse Reactions Oligohydramnios in pregnant women who use drugs affecting the renin-angiotensin system in the second and third trimesters of pregnancy can result in the following: reduced fetal renal function leading to anuria and renal failure, fetal lung hypoplasia, skeletal deformations, including skull hypoplasia, hypotension and death.
@@ -38,7 +40,7 @@ The antihypertensive effects of olmesartan medoxomil were evaluated in one rando
 The pharmacokinetics of olmesartan medoxomil were evaluated in pediatric patients 1 to 16 years of age [see Clinical Pharmacology (12.3)].
 Olmesartan medoxomil was generally well tolerated in pediatric patients, and the adverse experience profile was similar to that described for adults.
 Olmesartan medoxomil has not been shown to be effective for hypertension in children <6 years of age.
-Use of olmesartan medoxomil children <1 year of age is not recommended [see Warnings and Precautions (5.2)].
+Use of olmesartan medoxomil in children <1 year of age is not recommended [see Warnings and Precautions (5.2)].
 The renin-angiotensin-aldosterone system (RAAS) plays a critical role in kidney development.
 RAAS blockade has been shown to lead to abnormal kidney development in very young mice.
 Administering drugs that act directly on the renin-angiotensin-aldosterone system (RAAS) can alter normal renal development.
