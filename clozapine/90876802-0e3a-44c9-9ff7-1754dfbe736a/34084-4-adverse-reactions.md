@@ -142,7 +142,7 @@ Pseudopheochromocytoma
 
 Gastrointestinal System
 
-Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, fetal incontinence, and intestinal ischemia, infarction, perforation, ulceration or necrosis.
+Acute pancreatitis, dysphagia, salivary gland swelling, colitis, megacolon, fecal incontinence, and intestinal ischemia, infarction, perforation, ulceration or necrosis.
 
 Hepatobiliary System
 
