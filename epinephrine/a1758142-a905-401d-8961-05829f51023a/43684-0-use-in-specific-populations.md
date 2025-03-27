@@ -42,10 +42,10 @@ Treatment for anaphylaxis in breastfeeding patients should not be delayed.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of neffy for emergency treatment of type I allergic reactions, including anaphylaxis, have been established in pediatric patients who weigh 30 kg or greater.
-Use of neffy for this indication is supported by clinical pharmacology studies in adults that compared the PK/PD profile of neffy to epinephrine injection products with established safety and effectiveness for this indication, and clinical pharmacology data with neffy in pediatric patients who weigh 30 kg or greater [see Adverse Reactions (6) and Clinical Pharmacology (12.2, 12.3)].
+The safety and effectiveness of neffy for emergency treatment of type I allergic reactions, including anaphylaxis, have been established in pediatric patients aged 4 years and older who weigh 15 kg or greater.
+Use of neffy for this indication is supported by extrapolation from the clinical pharmacology studies in adults that compared the PK/PD profile of neffy to epinephrine injection products with established safety and effectiveness for this indication and clinical pharmacology data (Study 5) in pediatric patients aged 4 years and older who weigh 15 kg or greater [see Adverse Reactions (6) and Clinical Pharmacology (12.2, 12.3)].
 
-The safety and effectiveness of neffy have not been established in pediatric patients who weigh less than 30 kg.
+The safety and effectiveness of neffy have not been established in pediatric patients less than 4 years of age and who weigh less than 15 kg.
 
 ## 8.5 Geriatric Use
 

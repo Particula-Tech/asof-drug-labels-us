@@ -80,13 +80,13 @@ Results showed the following:
 
 Figure 3: Median Change from Baseline for Pulse Rate (PR) and Systolic Blood Pressure (SBP) Following Two Doses of Epinephrine Administered 10 Minutes Apart in Subjects with and without Nasal Allergen Challenge (NAC) Induced Rhinitis [Study 4]
 
-| R/L: First dose administered in right naris followed by second dose administered in left naris 10 minutes apart. R/R: First dose administered in right naris followed by second dose administered in right naris 10 minutes apart. Epinephrine 0.3 mg was administered using needle-syringe product |  |
-| --- | --- |
+| R/L: First dose administered in right naris followed by second dose administered in left naris 10 minutes apart. R/R: First dose administered in right naris followed by second dose administered in right naris 10 minutes apart. Epinephrine 0.3 mg was administered using needle-syringe product |
+| --- |
 
-Systolic Blood Pressure and Pulse Rate in Pediatric Patients with Type I Allergy without Anaphylaxis (Study 5)
+Systolic Blood Pressure and Pulse Rate in Pediatric Patients Aged 4 Years and Older Weighing 15 kg or Greater with Type I Allergy without Anaphylaxis (Study 5)
 
-Study 5 was a single-arm study conducted in pediatric patients who weighed 30 kg or greater (age range: 8 to 17 years) with type I allergy without anaphylaxis (N=21) that assessed the PK and PD of epinephrine following one nasal dose of neffy 2 mg.
-The median change in SBP and PR from baseline over the 60 minutes post-dose were numerically lower than in healthy adults who received the same dose of neffy in Study 1.
+Study 5 was a single-arm study conducted in pediatric patients who weighed 15 kg or greater (age range: 4 to 17 years) with type I allergy without anaphylaxis (N=42) that assessed the PK and PD of epinephrine following one nasal dose of neffy 1 mg (for subjects who weigh 15 kg to < 30 kg) and 2 mg (for subjects who weigh 30 kg or greater).
+The median change in SBP from baseline over the 60 minutes post-dose were numerically lower than in adults who received neffy 2 mg in Study 1 and 2, while the median change in PR from baseline over 60 minutes post-dose was within the range of adults who received neffy 2 mg in Study 1 and 2.
 
 ## 12.3 Pharmacokinetics
 
@@ -98,11 +98,11 @@ See Pharmacodynamics (12.2) for a description for Study 1.
 
 Following one nasal dose of neffy 2 mg in Study 1, the geometric mean plasma epinephrine concentration-time profile was overall within the range of that following one intramuscular dose of epinephrine injection 0.3 mg (using a needle-syringe product and an auto-injector product) 60 minutes post-dose.
 The epinephrine plasma concentration versus time profiles are shown in Figure 4.
-The pharmacokinetic parameters of epinephrine are summarized in Table 2.
+The pharmacokinetic parameters of epinephrine are summarized in Table 3.
 
 Figure 4: Epinephrine Geometric Mean (90% Confidence Interval) Plasma Concentration-Time Profiles Following One Dose of Epinephrine in Healthy Subjects [Study 1]
 
-Table 2: Geometric Mean (CV%) Plasma PK Parameters Following One Dose of Epinephrine in Healthy Subjects [Study 1]
+Table 3: Geometric Mean (CV%) Plasma PK Parameters Following One Dose of Epinephrine in Healthy Subjects [Study 1]
 
 | GeoMean Cmax (pg/mL) | Median Tmax (min) | GeoMean AUC0-10min (min*pg/mL)Note: Based on within-study comparison results from Studies 1, 2, and 3, the epinephrine exposures in the first 10 minutes following neffy administration were generally within the range observed following epinephrine injection 0.3 mg (needle-syringe) | GeoMean AUC0-20min (min*pg/mL) | GeoMean AUC0-45min (min*pg/mL) | GeoMean AUC0-60min (min*pg/mL) |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -132,15 +132,14 @@ See the Pharmacodynamics (12.2) for a description of Studies 3 and 4.
 
 Figure 5: Epinephrine Geometric Mean Plasma Concentration-Time Profiles Following One or Two Dose(s) of Epinephrine in Adult Subjects with and without Nasal Allergen Challenge Induced Rhinitis [Study 3 and Study 4]
 
-| a | b |
-| --- | --- |
-| a: Epinephrine geometric mean plasma concentration-time profiles following one dose of epinephrine in Study 3 b: Epinephrine geometric mean plasma concentration-time profiles following two doses of epinephrine in Study 4 R/L: First dose administered in right naris followed by second dose administered in left naris 10 minutes apart. R/R: First dose administered in right naris followed by second dose administered in right naris 10 minutes apart. Epinephrine 0.3 mg was administered using needle-syringe product |  |
+| a: Epinephrine geometric mean plasma concentration-time profiles following one dose of epinephrine in Study 3 b: Epinephrine geometric mean plasma concentration-time profiles following two doses of epinephrine in Study 4 R/L: First dose administered in right naris followed by second dose administered in left naris 10 minutes apart. R/R: First dose administered in right naris followed by second dose administered in right naris 10 minutes apart. Epinephrine 0.3 mg was administered using needle-syringe product |
+| --- |
 
-Pharmacokinetics in Pediatric Patients with a history of Type I Allergy without Anaphylaxis (Study 5)
+Pharmacokinetics in Pediatric Patients Aged 4 Years and Older Weighing 15 kg or Greater with Type I Allergy without Anaphylaxis (Study 5)
 
 See the Pharmacodynamics (12.2) for a description for Study 5.
 
-In pediatric patients with type I allergy without anaphylaxis who weigh 30 kg or greater (age range: 8 to 17 years), following one nasal dose of neffy 2 mg (Study 5), the geometric mean plasma epinephrine concentration time profile was numerically higher than that of healthy adults who received the same dose.
+In pediatric patients with type I allergy without anaphylaxis who weigh 15 kg or greater (age range: 4 to 17 years), following one nasal dose of neffy 1 mg (for subjects who weigh 15 kg to < 30 kg) or 2 mg (for subjects who weigh 30 kg or greater) (Study 5), the geometric mean plasma epinephrine concentration time profiles for both weight groups were numerically higher than that of adults who received neffy 2 mg (Study 1 and 2).
 
 Elimination:
 

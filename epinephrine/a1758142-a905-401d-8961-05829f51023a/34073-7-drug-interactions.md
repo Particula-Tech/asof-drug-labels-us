@@ -14,8 +14,8 @@ The effects of epinephrine may be potentiated by tricyclic antidepressants, mono
 
 ## 7.4 Drugs Antagonizing Effects of Epinephrine
 
-The cardiostimulating and bronchodilating effects of epinephrine are antagonized by beta-adrenergic blocking drugs, such as propranolol.
+The cardiostimulating and bronchodilating effects of epinephrine are antagonized by beta- adrenergic blocking drugs, such as propranolol.
 
-The vasoconstricting and hypertensive effects of epinephrine are antagonized by alpha-adrenergic blocking drugs, such as phentolamine.
+The vasoconstricting and hypertensive effects of epinephrine are antagonized by alpha- adrenergic blocking drugs, such as phentolamine.
 
 Ergot alkaloids may also reverse the pressor effects of epinephrine.

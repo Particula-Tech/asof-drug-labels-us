@@ -2,7 +2,14 @@
 
 How Supplied
 
-Neffy (epinephrine nasal spray): 2 mg/0.1 mL of epinephrine is supplied in a carton containing two (2) blister packages each with a single-dose nasal spray product for 1 time use (NDC 82580-020-02).
+Neffy (epinephrine nasal spray) is available in 1 mg and 2 mg strengths as described in Table 4.
+
+Table 4: Neffy Strengths and Package Configurations
+
+| Strength | Package Configuration | NDC |
+| --- | --- | --- |
+| 1 mg/0.1 mL | Carton containing two (2) blister packages each with a single-dose nasal spray for 1 time use | NDC 82580-010-02 |
+| 2 mg/0.1 mL | Carton containing two (2) blister packages each with a single-dose nasal spray for 1 time use | NDC 82580-020-02 |
 
 Storage and Handling
 

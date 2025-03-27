@@ -9,3 +9,15 @@ neffy® (epinephrine nasal spray) 2 mg
 For Use in the Nose Only (Single-dose) Read the Instructions for Use for complete information on how to use neffy.
 
 Two (2) single-dose nasal spray devices
+
+# PRINCIPAL DISPLAY PANEL - 1 mg Spray Device Blister Pack Carton
+
+Dispense in this sealed carton
+
+NDC 82580-010-02 Rx Only
+
+neffy® (epinephrine nasal spray) 1 mg
+
+For Use in the Nose Only (Single-dose) Read the Instructions for Use for complete information on how to use neffy.
+
+Two (2) single-dose nasal spray devices
