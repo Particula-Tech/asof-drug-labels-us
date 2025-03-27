@@ -64,9 +64,9 @@ The intravenous infusion rate required to produce an average plasma concentratio
 
 | Oral Nicardipine Dose | Equivalent Intravenous Infusion Rate |
 | --- | --- |
-| 20 mg q8h | 0.5 mg/hr |
-| 30 mg q8h | 1.2 mg/hr |
-| 40 mg q8h | 2.2 mg/hr |
+| 20 mg every 8 hours | 0.5 mg/hr |
+| 30 mg every 8 hours | 1.2 mg/hr |
+| 40 mg every 8 hours | 2.2 mg/hr |
 
 ## 2.4 Dosage for Initiation of Therapy in a Drug-Free Patient
 
@@ -75,7 +75,7 @@ Nicardipine hydrochloride injection is administered by slow continuous infusion 
 With constant infusion, blood pressure begins to fall within minutes.
 It reaches about 50% of its ultimate decrease in about 45 minutes.
 
-When treating acute hypertensive episodes in patients with chronic hypertension, discontinuation of infusion is followed by a 50% offset of action in 30 minutes ± 7 minutes but plasma levels of drug and gradually decreasing antihypertensive effects exist for many hours.
+When treating acute hypertensive episodes in patients with chronic hypertension, discontinuation of infusion is followed by a 50% offset of action in 30 minutes plus/minus 7 minutes but plasma levels of drug and gradually decreasing antihypertensive effects exist for many hours.
 
 ### Titration
 
@@ -106,4 +106,4 @@ Monitor closely when titrating nicardipine hydrochloride injection in patients w
 
 If treatment includes transfer to an oral antihypertensive agent other than nicardipine capsules, initiate oral therapy upon discontinuation of nicardipine hydrochloride injection.
 
-When switching to a TID regimen of nicardipine capsules, administer the first dose 1 hour prior to discontinuation of the infusion.
+When switching to a three times a day regimen of nicardipine capsules, administer the first dose 1 hour prior to discontinuation of the infusion.

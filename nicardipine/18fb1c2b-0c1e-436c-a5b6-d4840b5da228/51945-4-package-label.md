@@ -9,5 +9,3 @@ NDC 0143-9634-01 Rx Only USE IMMEDIATELY ONCE REMOVED FROM THE OVERWRAP Nicardip
 # PRINCIPAL DISPLAY PANEL
 
 NDC 0143-9633-01 Rx Only USE IMMEDIATELY ONCE REMOVED FROM THE OVERWRAP Nicardipine Hydrochloride in 0.9% Sodium Chloride Injection 40 mg in 200 mL (0.2 mg/mL) For Intravenous Infusion Sterile, Nonpyrogenic 200 mL Iso-osmotic
-
-# SERIALIZATION IMAGE

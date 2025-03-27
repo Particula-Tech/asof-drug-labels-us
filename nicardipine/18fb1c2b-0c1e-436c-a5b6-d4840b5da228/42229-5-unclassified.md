@@ -11,6 +11,6 @@ Distributed by:
 
 Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised February 2024
+Revised August 2024
 
-PIN547-WES/4
+PIN547-WES/6
