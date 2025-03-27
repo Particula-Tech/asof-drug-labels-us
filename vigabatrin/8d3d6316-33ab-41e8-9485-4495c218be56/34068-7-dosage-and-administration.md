@@ -43,8 +43,8 @@ Dosing of VIGAFYDE for Infantile Spasms
 | 8 | 200 mg (2 mL) twice daily | 600 mg (6 mL) twice daily |
 | 9 | 225 mg (2.25 mL) twice daily | 675 mg (6.75 mL) twice daily |
 | 10 | 250 mg (2.5 mL) twice daily | 750 mg (7.5 mL) twice daily |
-| 11 | 275 mg (2.75 mL) twice daily | 825 (8.25 mL) twice daily |
-| 12 | 300 mg (3 mL) twice daily | 900 (9 mL) twice daily |
+| 11 | 275 mg (2.75 mL) twice daily | 825 mg (8.25 mL) twice daily |
+| 12 | 300 mg (3 mL) twice daily | 900 mg (9 mL) twice daily |
 | 13 | 325 mg (3.25 mL) twice daily | 975 mg (9.75 mL) twice daily |
 | 14 | 350 mg (3.5 mL) twice daily | 1050 mg (10.5 mL) twice daily |
 | 15 | 375 mg (3.75 mL) twice daily | 1125 mg (11.25 mL) twice daily |
