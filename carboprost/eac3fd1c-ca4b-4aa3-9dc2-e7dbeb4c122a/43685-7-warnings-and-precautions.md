@@ -17,13 +17,13 @@ As with spontaneous abortion, a process which is sometimes incomplete, abortion 
 Although the incidence of cervical trauma is extremely small, the cervix should always be carefully examined immediately post-abortion.
 
 Use of carboprost tromethamine is associated with transient pyrexia that may be due to its effect on hypothalamic thermoregulation.
-Temperature elevations exceeding 2° F (1.1° C) were observed in approximately one-eighth of the patients who received the recommended dosage regimen.
+Temperature elevations exceeding 2°F (1.1°C) were observed in approximately one-eighth of the patients who received the recommended dosage regimen.
 In all cases, temperature returned to normal when therapy ended.
 Differentiation of post-abortion endometritis from drug-induced temperature elevations is difficult, but with increasing clinical experience, the distinctions become more obvious and are summarized below:
 
 | Endometritis pyrexia | Pyrexia induced by carboprost tromethamine |
 | --- | --- |
-| 1. Time of onset: Typically, on third post-abortional day (38° C or higher). | Within 1 to 16 hours after the first injection. |
+| 1. Time of onset: Typically, on third post-abortional day (38°C or higher). | Within 1 to 16 hours after the first injection. |
 | 2. Duration: Untreated pyrexia and infection continue and may give rise to other pelvic infections. | Temperatures revert to pretreatment levels after discontinuation of therapy without any other treatment. |
 | 3. Retention: Products of conception are often retained in the cervical os or uterine cavity. | Temperature elevation occurs whether or not tissue is retained. |
 | 4. Histology: Endometrium is infiltrated with lymphocytes and some areas are necrotic and hemorrhagic. | Although the endometrial stroma may be edematous and vascular, it is not inflamed. |
@@ -48,7 +48,7 @@ This complication during labor may have an inhibitory effect on the uterine resp
 
 1Duff, Sanders, and Gibbs; The course of labor in term patients with chorioamnionitis; Am.
 J. Obstet.
-Gynecol.; vol. 147, no. 4, October 15, 1983 pp 391–395.
+Gynecol.; vol. 147, no. 4, October 15, 1983 pp 391-395.
 
 ## Drug Interactions
 

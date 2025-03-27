@@ -3,7 +3,7 @@
 The adverse effects of carboprost tromethamine injection are generally transient and reversible when therapy ends.
 The most frequent adverse reactions observed are related to its contractile effect on smooth muscle.
 
-In patients studied, approximately two-thirds experienced vomiting and diarrhea, approximately one-third had nausea, one-eighth had a temperature increase greater than 2° F, and one-fourteenth experienced flushing.
+In patients studied, approximately two-thirds experienced vomiting and diarrhea, approximately one-third had nausea, one-eighth had a temperature increase greater than 2°F, and one-fourteenth experienced flushing.
 
 The pretreatment or concurrent administration of antiemetic and antidiarrheal drugs decreases considerably the very high incidence of gastrointestinal effects common with all prostaglandins used for abortion.
 Their use should be considered an integral part of the management of patients undergoing abortion with carboprost tromethamine.

@@ -21,4 +21,4 @@ Evidence from animal studies has suggested that certain other prostaglandins hav
 Although these studies do not indicate that carboprost tromethamine is teratogenic, any pregnancy termination with carboprost tromethamine that fails should be completed by some other means.
 
 This product contains benzyl alcohol.
-Benzyl alcohol has been reported to be associated with a fatal "Gasping Syndrome" in premature infants.
+Benzyl alcohol has been reported to be associated with a fatal “Gasping Syndrome” in premature infants.
