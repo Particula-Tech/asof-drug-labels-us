@@ -1,4 +1,4 @@
-WARNING: EMBRYO-FETAL TOXICITY and DIFFERENTIATION SYNDROME
+# WARNING: EMBRYO-FETAL TOXICITY and DIFFERENTIATION SYNDROME
 
 - Tretinoin capsules can cause embryo-fetal loss and malformations when administered to a pregnant woman.
   Advise pregnant women of the potential risk to a fetus.

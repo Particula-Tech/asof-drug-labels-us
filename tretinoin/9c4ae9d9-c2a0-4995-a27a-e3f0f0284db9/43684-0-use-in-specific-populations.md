@@ -19,7 +19,7 @@ Data
 
 Human Data
 
-Trentoin capsules are a retinoid and increased spontaneous abortions and major fetal abnormalities related to the use of retinoids have been documented in humans.
+Tretinoin capsules are a retinoid and increased spontaneous abortions and major fetal abnormalities related to the use of retinoids have been documented in humans.
 Reported malformations include abnormalities of the central nervous system, musculoskeletal system, external ear, eye, thymus and great vessels; and facial dysmorphia, cleft palate, and parathyroid hormone deficiency.
 Some of these abnormalities were fatal.
 

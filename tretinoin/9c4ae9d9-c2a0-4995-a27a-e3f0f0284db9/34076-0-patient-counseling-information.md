@@ -62,4 +62,4 @@ Made in France
 
 © 2024 Endo, Inc. or one of its affiliates.
 
-Revised: 07/2024
+Revised: 03/2025

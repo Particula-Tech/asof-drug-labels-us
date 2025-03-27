@@ -25,7 +25,7 @@ Consider withholding tretinoin capsules for moderate and severe differentiation 
 
 Tretinoin capsules may be initiated based on the morphological diagnosis of acute promyelocytic leukemia (APL).
 Confirm the diagnosis of APL by detection of the t(15;17) translocation using cytogenetic studies or PML/RARα fusion using molecular diagnostic techniques.
-Tretinoin capsules not recommended for use in patients without these genetic markers [see Indications and Usage (1)].
+Tretinoin capsules are not recommended for use in patients without these genetic markers [see Indications and Usage (1)].
 
 ## 5.4 Leukocytosis
 
