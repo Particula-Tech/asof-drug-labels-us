@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA218038"
+  ],
+  "inn": "diltiazem",
+  "labeler": "WG Critical Care, LLC",
+  "package_ndcs": [
+    "44567-662-01",
+    "44567-662-10",
+    "44567-663-01",
+    "44567-663-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "diltiazem hydrochloride",
+      "name": "DILTIAZEM HYDROCHLORIDE in SODIUM CHLORIDE"
+    }
+  ],
+  "setid": "8bae87a5-2137-467e-a1ad-79b2bc075e07",
+  "source": "dailymed"
+}
