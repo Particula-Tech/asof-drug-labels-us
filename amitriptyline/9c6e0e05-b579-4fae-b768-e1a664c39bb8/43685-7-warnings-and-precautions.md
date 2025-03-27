@@ -48,6 +48,22 @@ Such monitoring should include daily observation by families and caregivers.
 
 Prescriptions for amitriptyline hydrochloride tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
+## Serotonin Syndrome
+
+The development of a potentially life-threatening serotonin syndrome has been reported with tricyclic antidepressants, including Amitriptyline hydrochloride, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, SSRI/SNRI, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
+
+The concomitant use of Amitriptyline hydrochloride with MAOIs intended to treat psychiatric disorders is contraindicated Amitriptyline hydrochloride should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking Amitriptyline hydrochloride.
+Amitriptyline hydrochloride should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONS and DOSAGE AND ADMINISTRATION).
+If concomitant use of Amitriptyline hydrochloride with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol,
+
+buspirone, tryptophan, and St. John's Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+Treatment with Amitriptyline hydrochloride and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
+
 ## Screening Patients for Bipolar Disorder
 
 A major depressive episode may be the initial presentation of bipolar disorder.
@@ -70,6 +86,16 @@ Close supervision is required when amitriptyline hydrochloride is given to hyper
 Amitriptyline hydrochloride may enhance the response to alcohol and the effects of barbiturates and other CNS depressants.
 In patients who may use alcohol excessively, it should be borne in mind that the potentiation may increase the danger inherent in any suicide attempt or overdosage.
 Delirium has been reported with concurrent administration of amitriptyline and disulfiram.
+
+## Hyponatremia
+
+Hyponatremia has occurred as a result of treatment with Amitriptyline hydrochloride.
+In many cases, hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
+Signs and symptoms associated with more severe and/or acute cases have included syncope, seizure, coma, respiratory arrest, and death.
+
+In patients with symptomatic hyponatremia, discontinue Amitriptyline hydrochloride and institute appropriate medical intervention.
+Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia with Amitriptyline hydrochloride.
 
 ## Angle-Closure Glaucoma
 

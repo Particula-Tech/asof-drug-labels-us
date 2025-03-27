@@ -39,6 +39,14 @@ How can I watch for and try to prevent suicidal thoughts and actions in myself o
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
+- Serotonin Syndrome.
+  This condition can be life-threatening and symptoms may include:
+  - agitation, hallucinations, coma, or other changes in mental status
+  - racing heartbeat, high or low blood pressure
+  - coordination problems or muscle twitching (overactive reflexes)
+  - nausea, vomiting, or diarrhea
+  - sweating or fever
+  - muscle rigidity
 - thoughts about suicide or dying
 - attempts to commit suicide
 - new or worse depression
@@ -51,35 +59,36 @@ Call a healthcare provider right away if you or your family member has any of th
 - acting on dangerous impulses
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
+- Low salt (Sodium) levels in the blood.
+  Elderly people may be at greater risk for this.
+  Symptoms may include:
+  - Headache
+  - Weakness or feeling unsteady
+  - Confusion, problems concentrating or thinking or memory problems.
 - Visual problems: eye pain, changes in vision, swelling or redness in or around the eye
 
 What else do I need to know about antidepressant medicines?
 
-- Never s top an antidepressant medicine without firs t talking to a healthcare provider.
+- Never stop an antidepressant medicine without first talking to a healthcare provider.
 
 Stopping an antidepressant medicine suddenly can cause other symptoms.
 
 - Visual problems.
   Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-- Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+- Antidepressants are medicines used to treat depression and other illnesses.It is important to discuss all the risks of treating depression and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-- Antidepressant medicines have other side effects.
-  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
-- Antidepressant medicines can interact with other medicines.
-  Know all of the medicines that you or your family member takes.
+- Antidepressant medicines have other side effects.Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
+- Antidepressant medicines can interact with other medicines.Know all of the medicines that you or your family member takes.
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
-- Not all antidepressant medicines prescribed for children are FDA approved for use in children.
-  Talk to your child's healthcare provider for more information.
+- Not all antidepressant medicines prescribed for children are FDA approved for use in children.Talk to your child's healthcare provider for more information.
+- Tell your healthcare provider if have low sodium levels in your blood during treatment with Amitriptyline hydrochloride.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1- 800-FDA-1088.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration for all
-
-antidepressants.
+This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
 Additional medication guides can be obtained by calling Unichem at 1-866- 562-4616.
 
@@ -94,6 +103,6 @@ Manufactured for:
 
 East Brunswick, NJ 08816
 
-02-R-09/2021
+03-R-03/2025
 
-13013554
+13016326
