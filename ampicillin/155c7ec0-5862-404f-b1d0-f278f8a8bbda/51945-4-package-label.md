@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 1.5 g Injection Vial Label
+# PRINCIPAL DISPLAY PANEL - 1.5 g Vial Label
 
 NDC 0049-0013-81 Rx only
 
@@ -10,7 +10,7 @@ Unasyn®
 
 Sterile For Intramuscular or Intravenous use
 
-# PRINCIPAL DISPLAY PANEL - 1.5 g Vial Carton
+# PRINCIPAL DISPLAY PANEL – 1.5 g Vial Carton
 
 NDC 0049-0013-83 contains 10 of NDC 0049-0013-81
 
@@ -24,7 +24,7 @@ Unasyn® (ampicillin sodium/sulbactam sodium) for Injection
 
 Sterile For Intramuscular or Intravenous use
 
-Pfizer Injectables
+Pfizer
 
 # PRINCIPAL DISPLAY PANEL - 3 g Vial Label
 
@@ -36,7 +36,7 @@ Unasyn® (ampicillin sodium/ sulbactam sodium) for Injection
 
 Sterile For Intramuscular or Intravenous use
 
-# PRINCIPAL DISPLAY PANEL - 10 x 3 g Vial Carton
+# PRINCIPAL DISPLAY PANEL – 3 g Vial Carton
 
 NDC 0049-0014-83 contains 10 of NDC 0049-0014-81 Rx only
 
@@ -48,4 +48,4 @@ Unasyn® (ampicillin sodium/sulbactam sodium) for Injection
 
 Sterile For Intramuscular or Intravenous use
 
-Pfizer Injectables
+Pfizer
