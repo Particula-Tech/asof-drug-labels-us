@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "ANDA203640"
+  ],
+  "inn": "nilotinib",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-3801-0",
+    "60505-3801-2",
+    "60505-3801-5",
+    "60505-3801-7",
+    "60505-3801-8",
+    "60505-3802-0",
+    "60505-3802-2",
+    "60505-3802-5",
+    "60505-3802-7",
+    "60505-3802-8",
+    "60505-3803-7"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nilotinib",
+      "name": "Nilotinib"
+    }
+  ],
+  "setid": "8283672c-619f-fe60-3d25-040f95ac1440",
+  "source": "dailymed"
+}
