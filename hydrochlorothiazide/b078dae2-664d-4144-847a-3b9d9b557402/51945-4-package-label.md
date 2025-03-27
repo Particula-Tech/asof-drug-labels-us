@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 40 mg/12.5 mg Tablet Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 40 mg/12.5 mg Tablet Blister Card Carton
 
 NDC 0597-0043-37
 
@@ -19,7 +19,7 @@ Important: Moisture sensitive tablets - do not remove from blisters until immedi
 
 Boehringer Ingelheim
 
-# PRINCIPAL DISPLAY PANEL - 80 mg/12.5 mg Tablet Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 80 mg/12.5 mg Tablet Blister Card Carton
 
 NDC 0597-0044-37
 
@@ -40,7 +40,7 @@ Important: Moisture sensitive tablets - do not remove from blisters until immedi
 
 Boehringer Ingelheim
 
-# PRINCIPAL DISPLAY PANEL - 80 mg/25 mg Tablet Blister Pack Carton
+# PRINCIPAL DISPLAY PANEL - 80 mg/25 mg Tablet Blister Card Carton
 
 NDC 0597-0042-37
 
