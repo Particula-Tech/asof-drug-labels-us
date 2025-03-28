@@ -1,18 +1,14 @@
 # CONTRAINDICATIONS
 
-Metronidazole Injection USP is contraindicated in patients with a prior history of hypersensitivity to metronidazole or other nitroimidazole derivatives.
+- Hypersensitivity
 
-## Psychotic Reaction with Disulfiram
+Metronidazole Injection is contraindicated in patients with a prior history of hypersensitivity to metronidazole or other nitroimidazole derivatives.
 
-Use of oral metronidazole is associated with psychotic reactions in alcoholic patients who were using disulfiram concurrently.
-Do not administer metronidazole to patients who have taken disulfiram within the last two weeks (see PRECAUTIONS-Drug Interactions).
-
-## Interaction with Alcohol
-
-Use of oral metronidazole is associated with a disulfiram-like reaction to alcohol, including abdominal cramps, nausea, vomiting, headaches, and flushing.
-Discontinue consumption of alcohol or products containing propylene glycol during and for at least three days after therapy with metronidazole (see PRECAUTIONS-Drug Interactions).
-
-## Cockayne Syndrome
+- Psychotic Reaction with DisulfiramUse of oral metronidazole is associated with psychotic reactions in alcoholic patients who were using disulfiram concurrently.
+  Do not administer metronidazole to patients who have taken disulfiram within the last two weeks (see PRECAUTIONS-Drug Interactions).
+- Interaction with AlcoholUse of oral metronidazole is associated with a disulfiram-like reaction to alcohol, including abdominal cramps, nausea, vomiting, headaches, and flushing.
+  Discontinue consumption of alcohol or products containing propylene glycol during and for at least three days after therapy with metronidazole (see PRECAUTIONS-Drug Interactions).
+- Cockayne Syndrome
 
 Metronidazole Injection is contraindicated in patients with Cockayne syndrome.
 Severe irreversible hepatotoxicity/acute liver failure with fatal outcomes have been reported after initiation of metronidazole in patients with Cockayne syndrome (see ADVERSE REACTIONS).

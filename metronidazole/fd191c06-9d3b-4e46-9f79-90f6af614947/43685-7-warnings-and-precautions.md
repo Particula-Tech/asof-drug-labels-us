@@ -20,11 +20,11 @@ Patients with severe hepatic disease metabolize metronidazole slowly, with resul
 Accordingly, for such patients, doses below those usually recommended should be administered cautiously.
 
 Administration of solutions containing sodium ions may result in sodium retention.
-Care should be taken when administering Metronidazole Injection USP to patients receiving corticosteroids or to patients predisposed to edema.
+Care should be taken when administering Metronidazole Injection to patients receiving corticosteroids or to patients predisposed to edema.
 
-Known or previously unrecognized candidiasis may present more prominent symptoms during therapy with Metronidazole Injection USP and requires treatment with a candicidal agent.
+Known or previously unrecognized candidiasis may present more prominent symptoms during therapy with Metronidazole Injection and requires treatment with a candicidal agent.
 
-Prescribing Metronidazole Injection USP in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing Metronidazole Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## INFORMATION FOR PATIENTS:
 
@@ -89,4 +89,17 @@ Because of the potential for tumorigenicity shown for metronidazole in mouse and
 
 ## PEDIATRIC USE:
 
-Safety and effectiveness in children have not been established.
+Pediatric Patients Less than 4 Months of Age
+
+The safety and effectiveness of Metronidazole Injection have been established for the treatment of intra-abdominal infections in pediatric patients from birth to less than 4 months.
+Use of Metronidazole Injection in this age group is supported by evidence from data in adults with additional pharmacokinetic and safety data in pediatric patients from birth to less than 4 months of age.
+
+A partially randomized, open-label, phase 2/3 study of intravenous Metronidazole Injection in combination with other intravenous antibacterial drugs was conducted in 62 preterm infants (≤ 33 weeks gestational age at birth, and postnatal age <121 days) and 55 late preterm and term infants (≥ 34 weeks gestational age at birth, and postnatal age <121 days), with complicated intra-abdominal infections.
+The primary objective of this study was to evaluate the safety of metronidazole-containing regimens, which were administered for up to 10 days.
+The adverse reactions reported in patients receiving metronidazole-containing regimens were comparable to patients receiving other antibacterial regimens in the study and generally similar to adverse reactions described in adults.
+
+The safety and effectiveness of Metronidazole Injection in pediatric patients less than 4 months of age have not been established for (1) the treatment of anaerobic infections other than intra-abdominal infections or for (2) prophylaxis of postoperative infections (see INDICATIONS AND USAGE, CLINICAL PHARMACOLOGY, Pediatric Patients and DOSAGE AND ADMINISTRATION).
+
+Pediatric Patients 4 Months of Age and Older
+
+The safety and effectiveness of Metronidazole Injection in pediatric patients 4 months of age and older have not been established.

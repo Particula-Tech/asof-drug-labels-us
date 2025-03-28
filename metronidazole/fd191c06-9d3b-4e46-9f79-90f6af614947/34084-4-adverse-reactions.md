@@ -32,7 +32,7 @@ HEPATIC: Cases of severe irreversible hepatotoxicity/acute liver failure, includ
 LOCAL REACTIONS: Thrombophlebitis after intravenous infusion.
 This reaction can be minimized or avoided by avoiding prolonged use of indwelling intravenous catheters.
 
-OTHER: Fever, hiccup, proliferation of Candida in the vagina, dyspareunia, decrease of libido, proctitis, and fleeting joint pains sometimes resembling “serum sickness”.
+OTHER ADVERSE REACTIONS: Fever, hiccup, proliferation of Candida in the vagina, dyspareunia, decrease of libido, proctitis, and fleeting joint pains sometimes resembling “serum sickness”.
 If patients receiving metronidazole drink alcoholic beverages, they may experience abdominal distress, nausea, vomiting, flushing, or headache.
 A modification of the taste of alcoholic beverages has also been reported.
 
