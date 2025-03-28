@@ -1,9 +1,9 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
 ## 5.1 Neutropenia
 
-In Study 1, severe neutropenia (ANC < 500/mm3) lasting more than one week occurred in 12% (62/503) of patients with metastatic breast cancer, leading to discontinuation in <1% of patients.
-Febrile neutropenia (fever ≥38.5°C with Grade 3 or 4 neutropenia) occurred in 5% (23/503) of patients; two patients (0.4%) died from complications of febrile neutropenia [see Adverse Reactions (6.1)].
+In Study 1, severe neutropenia (ANC < 500/mm 3) lasting more than one week occurred in 12% (62/503) of patients with metastatic breast cancer, leading to discontinuation in <1% of patients.
+Febrile neutropenia (fever ≥38.5°C with Grade 3 or 4 neutropenia) occurred in 5% (23/503) of patients; two patients (0.4%) died from complications of febrile neutropenia [seeAdverse Reactions (6.1)].
 
 In Study 1, patients with alanine aminotransferase (ALT) or aspartate aminotransferase (AST) > 3 × ULN (upper limit of normal) experienced a higher incidence of Grade 4 neutropenia and febrile neutropenia than patients with normal aminotransferase levels.
 Patients with bilirubin > 1.5 × ULN also had a higher incidence of Grade 4 neutropenia and febrile neutropenia.
@@ -12,8 +12,8 @@ In Study 2, severe neutropenia (ANC < 500/mm3) lasting more than one week occurr
 Febrile neutropenia occurred in 0.9% of patients treated with eribulin mesylate injection and fatal neutropenic sepsis in 0.9% [see Adverse Reactions (6.1)].
 
 Monitor complete blood counts prior to each dose; increase the frequency of monitoring in patients who develop Grade 3 or 4 cytopenias.
-Delay administration of eribulin mesylate injection and reduce subsequent doses in patients who experience febrile neutropenia or Grade 4 neutropenia lasting longer than 7 days [see Dosage and Administration (2.2)].
-Clinical studies of eribulin mesylate injection did not include patients with baseline neutrophil counts below 1,500/mm3.
+Delay administration of eribulin mesylate injection and reduce subsequent doses in patients who experience febrile neutropenia or Grade 4 neutropenia lasting longer than 7 days [seeDosage and Administration (2.2)].
+Clinical studies of eribulin mesylate injection did not include patients with baseline neutrophil counts below 1,500/mm 3.
 
 ## 5.2 Peripheral Neuropathy
 
@@ -38,7 +38,7 @@ There are no adequate and well-controlled studies of eribulin mesylate injection
 In animal reproduction studies, eribulin mesylate caused embryo-fetal toxicity when administered to pregnant rats during organogenesis at doses below the recommended human dose.
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception during treatment with eribulin mesylate injection and for at least 2 weeks following the final dose.
-Advise males with female partners of reproductive potential to use effective contraception during treatment with eribulin mesylate injection and for 3.5 months following the final dose [see Use in Specific Populations (8.1)].
+Advise males with female partners of reproductive potential to use effective contraception during treatment with eribulin mesylate injection and for 3.5 months following the final dose [seeUse in Specific Populations (8.1)].
 
 ## 5.4 QT Prolongation
 

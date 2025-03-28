@@ -1,10 +1,10 @@
-# 11 DESCRIPTION
+# 11DESCRIPTION
 
 Eribulin mesylate injection contains eribulin mesylate, a microtubule dynamics inhibitor.
 Eribulin mesylate is a synthetic analogue of halichondrin B, a product isolated from the marine sponge Halichondria okadai.
-The chemical name for eribulin mesylate is 11,15:18,21:24,28-Triepoxy-7,9-ethano-12,15-methano-9H,15H-furo[3,2-i]furo[2',3':5,6]pyrano[4,3-b][1,4]dioxacyclopentacosin-5(4H)-one, 2-[(2S)-3-amino-2-hydroxypropyl]hexacosahydro-3-methoxy-26-methyl-20,27-bis(methylene)-, (2R,3R,3aS,7R,8aS,9S,10aR,11S,12R,13aR,13bS,15S,18S,21S,24S,26R,28R,29aS)-, methanesulfonate (salt).
+The chemical name for eribulin mesylate is 11,15:18,21:24,28-Triepoxy-7,9-ethano-12,15-methano-9 H,15 H-furo[3,2- i]furo[2',3':5,6]pyrano[4,3- b][1,4]dioxacyclopentacosin-5(4 H)-one, 2-[(2 S)-3-amino-2-hydroxypropyl]hexacosahydro-3-methoxy-26-methyl-20,27-bis(methylene)-, (2 R,3 R,3a S,7 R,8a S,9 S,10a R,11 S,12 R,13a R,13b S,15 S,18 S,21 S,24 S,26 R,28 R,29a S)-, methanesulfonate (salt).
 It has a molecular weight of 826.0 (729.9 for free base).
-The empirical formula is C40H59NO11•CH4O3S.
+The empirical formula is C 40H 59NO 11•CH 4O 3S.
 Eribulin mesylate has the following structural formula:
 
 Eribulin mesylate injection is a clear, colorless, sterile solution for intravenous administration.

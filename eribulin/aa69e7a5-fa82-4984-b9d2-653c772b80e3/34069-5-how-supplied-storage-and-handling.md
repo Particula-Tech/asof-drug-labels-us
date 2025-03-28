@@ -1,4 +1,4 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
 NDC 0143-9167-01
 
@@ -10,4 +10,5 @@ Do not freeze or refrigerate.
 Store the vials in their original cartons.
 
 Eribulin mesylate injection is a cytotoxic drug.
-Follow applicable special handling and disposal procedures.1
+Follow applicable special handling and disposal procedures.
+1

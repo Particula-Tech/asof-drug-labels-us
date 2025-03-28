@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PACKAGE - Eribulin Mesylate Injection 1 mg/2 mL Vial Label
 
-NDC 0143-9167-01
+NDC 0143- 9167-01
 
 Rx only
 
@@ -14,7 +14,7 @@ For Intravenous Use
 
 # PRINCIPAL DISPLAY PACKAGE - Eribulin Mesylate Injection 1 mg/2 mL Carton
 
-NDC 0143-9167-01
+NDC 0143- 9167-01
 
 Rx only
 
