@@ -2,7 +2,7 @@
 
 ## Mechanism of Action
 
-Timolol maleate is a beta1 and beta2 (non-selective) adrenergic receptor blocking agent that does not have significant intrinsic sympathomimetic, direct myocardial depressant, or local anesthetic (membrane-stabilizing) activity.
+Timolol maleate is a beta 1and beta 2(non-selective) adrenergic receptor blocking agent that does not have significant intrinsic sympathomimetic, direct myocardial depressant, or local anesthetic (membrane-stabilizing) activity.
 
 Timolol Maleate Ophthalmic Gel Forming Solution, when applied topically on the eye, has the action of reducing elevated, as well as normal intraocular pressure, whether or not accompanied by glaucoma.
 Elevated intraocular pressure is a major risk factor in the pathogenesis of glaucomatous visual field loss and optic nerve damage.

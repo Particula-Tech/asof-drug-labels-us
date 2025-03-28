@@ -9,7 +9,7 @@ For example, severe respiratory reactions and cardiac reactions, including death
 
 Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition by beta-adrenergic receptor blockade may precipitate more severe failure.
 
-In Patients Without a History of Cardiac Failure continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
+In Patients Without a History of Cardiac Failurecontinued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
 At the first sign or symptom of cardiac failure, Timolol Maleate Ophthalmic Gel Forming Solution should be discontinued.
 
 ## Obstructive Pulmonary Disease

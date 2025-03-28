@@ -11,7 +11,7 @@ The optical rotation of timolol maleate is:
 
 405 nm
 
-Its molecular formula is C13H24N4O3S•C4H4O4 and its structural formula is:
+Its molecular formula is C 13H 24N 4O 3S•C 4H 4O 4and its structural formula is:
 
 Timolol maleate has a molecular weight of 432.49.
 It is a white, odorless, crystalline powder which is soluble in water; sparingly soluble in ethanol; slightly soluble in chloroform; practically insoluble in ether.

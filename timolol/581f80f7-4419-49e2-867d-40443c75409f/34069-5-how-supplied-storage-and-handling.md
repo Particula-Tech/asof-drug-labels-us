@@ -11,8 +11,7 @@ Timolol Maleate Ophthalmic Gel Forming Solution, 0.5% timolol equivalent, is sup
 NDC 82260-819-05, 5 mL in a 7.5 mL capacity bottle.
 
 Storage Store at 15°C to 25°C (59°F to 77°F).
-Avoid freezing.
-Protect from light.
+Avoid freezing.Protect from light.
 
 Distributed by: Bausch & Lomb Americas Inc. Bridgewater, NJ 08807 USA Manufactured by: Bausch & Lomb Incorporated Tampa, FL 33637 USA © 2022 Bausch & Lomb Incorporated or its affiliates Revised: 03/2022
 

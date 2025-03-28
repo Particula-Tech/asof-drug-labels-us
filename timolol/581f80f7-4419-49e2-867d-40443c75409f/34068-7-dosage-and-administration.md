@@ -2,7 +2,7 @@
 
 Patients should be instructed to invert the closed container and shake once before each use.
 It is not necessary to shake the container more than once.
-Other topically applied ophthalmic medications should be administered at least 10 minutes before Timolol Maleate Ophthalmic Gel Forming Solution [see PRECAUTIONS, Information for Patients and accompanying INSTRUCTIONS FOR USE].
+Other topically applied ophthalmic medications should be administered at least 10 minutes before Timolol Maleate Ophthalmic Gel Forming Solution [see PRECAUTIONS, Information for Patientsand accompanying INSTRUCTIONS FOR USE].
 
 Timolol Maleate Sterile Ophthalmic Gel Forming Solution is available in concentrations of 0.25% and 0.5%.
 The dose is one drop of Timolol Maleate Ophthalmic Gel Forming Solution (either 0.25% or 0.5%) in the affected eye(s) once a day.
