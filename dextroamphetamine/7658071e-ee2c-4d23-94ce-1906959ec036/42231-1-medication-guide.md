@@ -163,25 +163,25 @@ Do not give Dextroamphetamine Sulfate Oral Solution to other people, even if the
 It may harm them and it is against the law.
 You can ask your healthcare provider or pharmacist for information about Dextroamphetamine Sulfate Oral Solution that is written for health professionals.
 
+For more information about Dextroamphetamine Sulfate Oral Solution, please contact Cranbury Pharmaceuticals, LLC at 1-732-940-0358 or go to https://www.cranburypharma.com/products/.
+
 What are the ingredients in Dextroamphetamine Sulfate Oral Solution?
 
 Active ingredient: dextroamphetamine sulfate
 
 Inactive ingredients: anhydrous citric acid, benzoic acid, bubble gum flavor, purified water, sodium citrate anhydrous, sodium saccharin, and sorbitol solution.
 
-Manufactured by:
+Manufactured by: Tris Pharma, Inc. Monmouth Junction, NJ 08852
 
-Tris Pharma, Inc.
-
-Monmouth Junction, NJ 08852
-
-For more information about Dextroamphetamine Sulfate Oral Solution, please contact Tris Pharma, Inc. at 1-732-940-0358 or go to www.trispharma.com.
+For: Cranbury Pharmaceuticals, LLC Monmouth Junction, NJ 08852
 
 LB8256
 
 Rev.
-06
+07
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 09/2023
+Revised: 08/2024
+
+Dispense with Medication Guide available at: https://www.cranburypharma.com/products/

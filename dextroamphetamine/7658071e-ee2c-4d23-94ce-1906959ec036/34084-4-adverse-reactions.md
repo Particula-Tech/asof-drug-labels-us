@@ -14,4 +14,4 @@ Endocrine: Impotence, changes in libido.
 
 Musculoskeletal: Rhabdomyolysis.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Tris Pharma, Inc. at 1-732-940-0358 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Cranbury Pharmaceuticals, LLC at 1-732-940-0358 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -12,11 +12,14 @@ Tris Pharma, Inc.
 
 Monmouth Junction, NJ 08852
 
-www.trispharma.com
+For:
+
+Cranbury Pharmaceuticals, LLC
+
+Monmouth Junction, NJ 08852
 
 LB8255
 
-Rev.
-09
+Rev.10
 
-Revised: 09/2023
+Revised: 08/2024
