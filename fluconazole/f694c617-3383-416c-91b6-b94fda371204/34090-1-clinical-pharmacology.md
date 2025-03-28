@@ -14,7 +14,7 @@ The Cmax and AUC data from a food-effect study involving administration of DIFLU
 Therefore, DIFLUCAN may be taken without regard to meals.
 (See DOSAGE AND ADMINISTRATION.)
 
-Table 1:Mean Pharmacokinetic Parameters of Fluconazole in Adult Healthy Volunteers Following the Administration of DIFLUCAN
+Table 1: Mean Pharmacokinetic Parameters of Fluconazole in Adult Healthy Volunteers Following the Administration of DIFLUCAN
 
 | Dose regimen | Cmax (mcg/mL) | AUC0-24 (mcg*h/mL) | Half-life (hours) |
 | --- | --- | --- | --- |
@@ -32,8 +32,7 @@ Steady-state concentrations are reached within 5 to 10 days following oral doses
 Administration of a loading dose (on Day 1) of twice the usual daily dose results in plasma concentrations close to steady-state by the second day.
 The apparent volume of distribution of fluconazole approximates that of total body water.
 Plasma protein binding is low (11 to 12%).
-Following either single- or multiple oral doses for up to 14 days, fluconazole penetrates into all body fluids studied (see Error!
-Hyperlink reference not valid. below).
+Following either single- or multiple oral doses for up to 14 days, fluconazole penetrates into all body fluids studied (see table below).
 In normal volunteers, saliva concentrations of fluconazole were equal to or slightly greater than plasma concentrations regardless of dose, route, or duration of dosing.
 In patients with bronchiectasis, sputum concentrations of fluconazole following a single 150 mg oral dose were equal to plasma concentrations at both 4 and 24 hours post dose.
 In patients with fungal meningitis, fluconazole concentrations in the cerebrospinal fluid (CSF) are approximately 80% of the corresponding plasma concentrations.
@@ -101,7 +100,7 @@ A maintenance dose of 9 mg/kg daily should be used in pediatric patients born at
 A population PK model using data from 21 pediatric patients ages from birth to 17 years supported with extracorporeal membrane oxygenation (ECMO), and 19 pediatric non-ECMO patients ages from birth to 2 years found that clearance was related to serum creatinine while a higher volume of distribution was related to presence of ECMO support.
 The median volume of distribution was 1.3 L/kg in pediatric patients on ECMO and 0.9 L/kg in those not on ECMO.
 Simulations suggested that a loading dose of 35 mg/kg is needed to achieve the target AUC0-24 >400 mg*h/L within the first 24 hours in pediatric patients on ECMO.
-(See DOSAGE AND ADMINISTRATION).
+(See DOSAGE AND ADMINISTRATION.).
 
 ## Pharmacokinetics in Elderly
 

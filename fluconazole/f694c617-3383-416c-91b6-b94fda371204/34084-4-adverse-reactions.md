@@ -4,7 +4,7 @@ DIFLUCAN is generally well tolerated.
 
 In some patients, particularly those with serious underlying diseases such as AIDS and cancer, changes in renal and hematological function test results and hepatic abnormalities have been observed during treatment with fluconazole and comparative agents, but the clinical significance and relationship to treatment is uncertain.
 
-## In Patients Receiving a Single Dose for Vaginal Candidiasis
+## In Patients Receiving a Single Dose for Vaginal Candidiasis:
 
 During comparative clinical studies conducted in the United States, 448 patients with vaginal candidiasis were treated with DIFLUCAN, 150 mg single dose.
 The overall incidence of side effects possibly related to DIFLUCAN was 26%.
@@ -14,7 +14,7 @@ Other side effects reported with an incidence equal to or greater than 1% includ
 Most of the reported side effects were mild to moderate in severity.
 Rarely, angioedema and anaphylactic reaction have been reported in marketing experience.
 
-## In Patients Receiving Multiple Doses for Other Infections
+## In Patients Receiving Multiple Doses for Other Infections:
 
 Sixteen percent of over 4000 patients treated with DIFLUCAN (fluconazole) in clinical trials of 7 days or more experienced adverse events.
 Treatment was discontinued in 1.5% of patients due to adverse clinical events and in 1.3% of patients due to laboratory test abnormalities.

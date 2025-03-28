@@ -1,10 +1,10 @@
 # DOSAGE AND ADMINISTRATION
 
-## Dosage and Administration in Adults
+## Dosage and Administration in Adults:
 
 ### Single Dose
 
-#### Vaginal candidiasis
+#### Vaginal candidiasis:
 
 The recommended dosage of DIFLUCAN for vaginal candidiasis is 150 mg as a single oral dose.
 
@@ -50,7 +50,7 @@ The recommended dosage of DIFLUCAN for suppression of relapse of cryptococcal me
 The recommended DIFLUCAN daily dosage for the prevention of candidiasis in patients undergoing bone marrow transplantation is 400 mg, once daily.
 Patients who are anticipated to have severe granulocytopenia (less than 500 neutrophils cells/mm3) should start DIFLUCAN prophylaxis several days before the anticipated onset of neutropenia, and continue for 7 days after the neutrophil count rises above 1000 cells/mm3.
 
-## Dosage and Administration in Pediatric Patients:
+## Dosage and Administration in Pediatric Patients
 
 ### Oropharyngeal candidiasis:
 
@@ -81,7 +81,8 @@ Dosing in Pediatric Patients on ECMO:
 
 The recommended dosage of DIFLUCAN in pediatric patients 3 months and older on ECMO is 35-mg/kg on the first day (not to exceed 800 mg) followed by 12-mg/kg once daily (not to exceed 400 mg).
 
-For patients from birth to 3 months postnatal age, and gestational age less than 30 weeks, a loading dose of 35-mg/kg on the first day followed by 9-mg/kg once daily is recommended.For patients from birth to 3 months postnatal age and gestational age 30 weeks and above, a loading dose of 35-mg/kg on the first day followed by 12-mg/kg once daily is recommended.
+For patients from birth to 3 months postnatal age, and gestational age less than 30 weeks, a loading dose of 35-mg/kg on the first day followed by 9-mg/kg once daily is recommended.
+For patients from birth to 3 months postnatal age and gestational age 30 weeks and above, a loading dose of 35-mg/kg on the first day followed by 12-mg/kg once daily is recommended.
 
 ### Cryptococcal meningitis:
 
@@ -90,7 +91,7 @@ A dosage of 12 mg/kg once daily may be used, based on medical judgment of the pa
 The recommended duration of treatment for initial therapy of cryptococcal meningitis is 10 to 12 weeks after the cerebrospinal fluid becomes culture negative.
 For suppression of relapse of cryptococcal meningitis in pediatric patients with AIDS, the recommended dose of DIFLUCAN is 6 mg/kg once daily.
 
-## Dosage In Patients With Impaired Renal Function
+## Dosage In Patients With Impaired Renal Function:
 
 Fluconazole is cleared primarily by renal excretion as unchanged drug.
 There is no need to adjust single dose therapy for vaginal candidiasis because of impaired renal function.

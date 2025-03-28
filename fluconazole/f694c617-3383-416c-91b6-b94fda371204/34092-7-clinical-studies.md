@@ -1,13 +1,13 @@
 # CLINICAL STUDIES
 
-## Cryptococcal meningitis
+## Cryptococcal meningitis:
 
 In a multicenter study comparing DIFLUCAN (200 mg/day) to amphotericin B (0.3 mg/kg/day) for treatment of cryptococcal meningitis in patients with AIDS, a multivariate analysis revealed three pretreatment factors that predicted death during the course of therapy: abnormal mental status, cerebrospinal fluid cryptococcal antigen titer greater than 1:1024, and cerebrospinal fluid white blood cell count of less than 20 cells/mm3.
 Mortality among high risk patients was 33% and 40% for amphotericin B and DIFLUCAN patients, respectively (p=0.58), with overall deaths 14% (9 of 63 subjects) and 18% (24 of 131 subjects) for the 2 arms of the study (p=0.48).
 Optimal doses and regimens for patients with acute cryptococcal meningitis and at high risk for treatment failure remain to be determined.
 (Saag, et al. N Engl J Med 1992; 326:83-9.)
 
-## Vaginal candidiasis
+## Vaginal candidiasis:
 
 Two adequate and well-controlled studies were conducted in the U.S. using the 150 mg tablet.
 In both, the results of the fluconazole regimen were comparable to the control regimen (clotrimazole or miconazole intravaginally for 7 days) both clinically and statistically at the one month post-treatment evaluation.
@@ -49,7 +49,7 @@ Because fluconazole was given as a single dose, no discontinuations occurred.
 
 ## Pediatric Studies
 
-### Oropharyngeal candidiasis
+### Oropharyngeal candidiasis:
 
 An open-label, comparative study of the efficacy and safety of DIFLUCAN (2 to 3 mg/kg/day) and oral nystatin (400,000 I.U.
 4 times daily) was conducted in immunocompromised pediatric patients from 6 months to 13 years of age with oropharyngeal candidiasis.

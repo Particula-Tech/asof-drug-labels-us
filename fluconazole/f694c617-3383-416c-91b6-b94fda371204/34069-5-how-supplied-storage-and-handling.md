@@ -37,7 +37,7 @@ DIFLUCAN for Oral Suspension: DIFLUCAN for Oral Suspension is supplied as an ora
 | --- | --- | --- |
 |  | NDC 0049-3450-19 | Fluconazole 1400 mg per bottle |
 
-## Storage
+## Storage:
 
 Store dry powder below 30°C (86°F).
 Store reconstituted suspension between 30°C (86°F) and 5°C (41°F) and discard unused portion after 2 weeks.

@@ -23,8 +23,6 @@
 | General information about the safe and effective use of DIFLUCAN. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use DIFLUCAN for a condition for which it was not prescribed. Do not give DIFLUCAN to other people, even if they have the same symptoms you have. It may harm them. You can ask your healthcare provider for information about DIFLUCAN that is written for health professionals. |  |  |  |  |
 | What are the ingredients in DIFLUCAN? Active ingredient: fluconazole Inactive ingredients: microcrystalline cellulose, dibasic calcium phosphate anhydrous, povidone, croscarmellose sodium, FD&C Red No. 40 aluminum lake dye, and magnesium stearate. |  |  |  |  |
 | For Medical Information about DIFLUCAN, please visit www.pfizermedinfo.com or call 1-800-438-1985. |  |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  |  | Revised: 02/2024 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration |  |  |  | Revised: 3/2025 |
 
-LAB-0380-15
-
-.0
+LAB-0380-16.0

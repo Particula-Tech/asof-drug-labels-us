@@ -343,7 +343,7 @@ Such a hormone change has not been observed in women treated with fluconazole.
 
 ### Teratogenic Effects
 
-#### Potential for Fetal Harm
+#### Potential for Fetal Harm:
 
 Use in pregnancy should be avoided except in patients with severe or potentially life-threatening fungal infections in whom fluconazole may be used if the anticipated benefit outweighs the possible risk to the fetus.
 A few published case reports describe a pattern of distinct congenital anomalies in infants exposed in utero to high dose maternal fluconazole (400 to 800 mg/day) during most or all of the first trimester.
@@ -352,8 +352,7 @@ Effective contraceptive measures should be considered in women of child-bearing 
 If DIFLUCAN is used during pregnancy, or if the patient becomes pregnant while taking the drug, the patient should be informed of the potential hazard to the fetus.
 Spontaneous abortions and congenital abnormalities have been suggested as potential risks associated with 150 mg of fluconazole as a single or repeated dose in the first trimester of pregnancy based on retrospective epidemiological studies.
 There are no adequate and well-controlled studies of DIFLUCAN in pregnant women.
-(See Error!
-Hyperlink reference not valid..)
+(See WARNINGS: Potential for Fetal Harm.)
 
 #### Human Data
 
@@ -433,7 +432,8 @@ The most common fatal serious adverse reactions in the DIFLUCAN vs placebo arms,
 
 The most common serious adverse reactions (>5%), reported in patients receiving DIFLUCAN prophylaxis are displayed in Table 5.
 
-Table 5: Serious Adverse Reactions* Occurring in >5% of Infants Receiving DIFLUCAN Prophylaxis
+Table 5.
+Serious Adverse Reactions* Occurring in >5% of Infants Receiving DIFLUCAN Prophylaxis
 
 | Adverse Reaction | DIFLUCAN(N=188)n(%) | Placebo(N=173)n (%) |
 | --- | --- | --- |
