@@ -26,12 +26,13 @@ However, glucagon is a peptide and would be expected to be broken down to its co
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of GVOKE for the treatment of severe hypoglycemia in patients with diabetes have been established in pediatric patients ages 2 years and above.
-Use of GVOKE for this indication is supported by evidence from a study in 31 pediatric patients ages 2 and older with type 1 diabetes mellitus [see Clinical Studies (14.2)].
+The safety and effectiveness of GVOKE for subcutaneous use for the treatment of severe hypoglycemia in patients with diabetes have been established in pediatric patients aged 2 years and older.
+Use of GVOKE for this indication is supported by evidence from two adequate and well-controlled studies in adults with type-1 diabetes mellitus [see Clinical Studies (14.1)] and from a study in 31 pediatric patients ages 2 and older with type 1 diabetes mellitus [see Clinical Studies (14.2)].
 
-The safety and effectiveness of GVOKE have not been established in pediatric patients younger than 2 years of age.
+The safety and effectiveness of GVOKE for subcutaneous use for the treatment of severe hypoglycemia in patients with diabetes have not been established in pediatric patients younger than 2 years of age.
+
+Safety and effectiveness of GVOKE VialDx for intravenous use as a diagnostic aid during radiologic examinations to temporarily inhibit movement of the gastrointestinal tract in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of GVOKE did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Limited clinical trial experience has not identified differences in responses between the elderly and younger patients.
+Clinical studies of GVOKE and GVOKE VialDx did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger adult patients.

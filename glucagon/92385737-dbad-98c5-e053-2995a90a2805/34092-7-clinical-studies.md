@@ -1,46 +1,44 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Adult Patients with Type 1 Diabetes Mellitus
+## 14.1 Adult Patients with Type 1 Diabetes Mellitus for the Treatment of Severe Hypoglycemia
 
-GVOKE was evaluated in adult patients aged 18 to 74 years with type 1 diabetes in two multi-center 2-way crossover studies, Study A was double-blinded with 80 patients, and Study B was single-blinded with 81 patients.
-Both studies involved 2 clinic visits 7 to 28 days apart, with random assignment to receive GVOKE 1 mg during one session and GEK 1 mg during the other.
-154 subjects received an injection of GVOKE and 157 subjects received an injection of GEK.
-A total of 152 subjects received both GVOKE and GEK.
+GVOKE was evaluated in adult patients aged 18 to 74 years with type 1 diabetes mellitus in two multi-center 2-way crossover studies: Study A was double-blinded with 80 patients, and Study B was single-blinded with 81 patients.
+Both studies involved 2 clinic visits 7 to 28 days apart, with random assignment to receive GVOKE 1 mg subcutaneous injection during one session and glucagon 1 mg subcutaneous injection (subcutaneous glucagon) during the other.
+In these studies, 154 patients received GVOKE and 157 patients received subcutaneous glucagon.
+A total of 152 patients received both GVOKE and subcutaneous glucagon.
 
-The efficacy of GVOKE was compared to GEK in subjects who were in a state of insulin‑induced hypoglycemia via insulin infusion with target plasma glucose less than 50 mg/dL.
-In Study A, mean plasma glucose at time of glucagon administration was 44.8 mg/dL and 45.2 mg/dL for GVOKE and GEK, respectively.
-In Study B, mean plasma glucose at time of glucagon administration was 47.7 mg/dL and 48.7 mg/dL for GVOKE and GEK, respectively.
+The efficacy of GVOKE was compared to subcutaneous glucagon in patients who were in a state of insulin- induced hypoglycemia via insulin infusion with target plasma glucose less than 50 mg/dL.
+In Study A, mean plasma glucose at time of glucagon administration was 44.8 mg/dL and 45.2 mg/dL for the GVOKE and subcutaneous glucagon groups, respectively.
+In Study B, mean plasma glucose at time of glucagon administration was 47.7 mg/dL and 48.7 mg/dL for the GVOKE and subcutaneous glucagon groups, respectively.
 
-Treatment ‘success’ was defined as plasma glucose increase from mean value at time of glucagon administration to absolute value greater than 70 mg/dL or relative increase of 20 mg/dL or greater, at 30 minutes after glucagon administration.
-In a pooled analysis of Study A and Study B, the proportion of patients who achieved treatment ‘success’ was 98.7 % in the GVOKE group and 100% in the GEK group and the comparison between groups met the pre-specified non-inferiority margin.
-A summary of treatment ‘success’ rates is shown in Table 3.
+Treatment “success” was defined as plasma glucose increase from mean value at time of glucagon administration to absolute value greater than 70 mg/dL or relative increase of 20 mg/dL or greater, at 30 minutes after glucagon administration.
+In a pooled analysis of Study A and Study B, the proportion of patients who achieved treatment “success” was 98.7 % in the GVOKE group and 100% in the subcutaneous glucagon group and the comparison between groups met the pre-specified non-inferiority margin.
+A summary of treatment “success” rates is shown in Table 6.
 
-The mean time to treatment ‘success’ was 13.8 minutes in the GVOKE group and 10 minutes in the GEK group.
+The mean time to treatment "success" was 13.8 minutes in the GVOKE group and 10 minutes the subcutaneous glucagon group.
 
-Table 3: Adult Patients Meeting Treatment Success in Studies A and B Combined
+Table 6:Adult Patients with Type 1 Diabetes Mellitus Treatment “Success” in Studies A and B
 
-|  | Study A (n=80) |  | Study B (n=81) |  | Pooled Studies A and B (n=161)b |  |
+|  | Study A (n=80) |  | Study B (n=81) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | GVOKE | GEK | GVOKE | GEK | GVOKE | GEK |
-| Treatment Success-n (%)a | 76 (97%) | 79 (100%) | 76 (100%) | 78 (100%) | 152 (99%) | 157 (100%) |
+|  | GVOKE | subcutaneous glucagon | GVOKE | subcutaneous glucagon |  |  |
+| Treatment Success-n (%)a | 76 (97 %) | 79 (100%) | 76 (100%) | 78 (100%) |  |  |
 | Glucose criteria met- n (%) |  |  |  |  |  |  |
-| Greater than 70 mg/dL | 74 (95%) | 79 (100%) | 76 (100%) | 78 (100%) | 150 (97%) | 157 (100%) |
-| 20 mg/dL or greater increase from baseline | 76 (97%) | 79 (100%) | 76 (100%) | 78 (100%) | 152 (99%) | 157 (100%) |
-| a Treatment success is defines as blood glucose greater than 70 mg/dL or an increase of blood glucose by 20 mg/dL or greater from baseline. The efficacy analysis population consisted of all patients who received both doses of the study drug. |  |  |  |  |  |  |
+| Greater than 70 mg/dL | 74 (95%) | 79 (100%) | 76 (100%) | 78 (100%) |  |  |
+| 20 mg/dL or greater increase from baseline | 76 (97%) | 79 (100%) | 76 (100%) | 78 (100%) |  |  |
+| a Treatment success was defined as blood glucose greater than 70 mg/dL or an increase of blood glucose by 20 mg/dL or greater from baseline. The efficacy analysis population consisted of all patients who received both doses of the study drug. |  |  |  |  |  |  |
 | b Percentage based on number of patients from both studies. |  |  |  |  |  |  |
 
-## 14.2 Pediatric Patients with Type 1 Diabetes Mellitus
+## 14.2 Pediatric Patients Aged 2 Years and Older with Type 1 Diabetes Mellitus for the Treatment of Severe Hypoglycemia
 
 GVOKE was evaluated in a study in 31 pediatric patients with type 1 diabetes mellitus.
-Patients were administered insulin to induce a plasma glucose of less than 80 mg/dL.
-Patients ages 2 to under 6 years and 6 to under 12 years of age then received a 0.5 mg dose of GVOKE.
-Patients ages 12 and older received a 0.5 mg or 1 mg dose of GVOKE.
+Pediatric patients were administered insulin to induce a plasma glucose of less than 80 mg/dL, following which patients ages 2 to under 12 years of age received a 0.5 mg subcutaneous dose of GVOKE and patients ages 12 and older received a 0.5 mg or 1 mg subcutaneous dose of GVOKE.
 
 All evaluable pediatric patients (30/30) achieved a target glucose increase of at least 25 mg/dL.
 Following administration, plasma glucose levels over time showed similar glucose responses for patients in each age group.
-A summary of plasma glucose results are shown in Table 4.
+A summary of plasma glucose results are shown in Table 7.
 
-Table 4: Pediatric Patients with Type 1 Diabetes Mellitus Plasma Glucose by Age Group
+Table 7: Pediatric Patients with Type 1 Diabetes Mellitus Plasma Glucose by Age Group
 
 | Age Group | GVOKE Dose | Plasma Glucose (mg/dL)Mean (SD) |  |  |
 | --- | --- | --- | --- | --- |
