@@ -22,7 +22,7 @@ When the CYP3A4 inducer is discontinued, the dose of quetiapine should be reduce
 Anticholinergic Drugs:
 
 Concomitant treatment with quetiapine and other drugs with anticholinergic activity can increase the risk for severe gastrointestinal adverse reactions related to hypomotility.
-Quetiapine should be used with caution in patients receiving medication having anticholinergic (antimuscarinic) effects [see Warnings and Precautions (5.20)].
+Quetiapine should be used with caution in patients receiving medications having anticholinergic (antimuscarinic) effects [see Warnings and Precautions (5.20)].
 
 The potential effects of several concomitant medications on quetiapine pharmacokinetics were studied [see ClinicalPharmacology (12.3)].
 

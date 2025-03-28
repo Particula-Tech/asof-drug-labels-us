@@ -1,8 +1,4 @@
-# Medication Guide
-
-Quetiapine Tablets, USP
-
-(kwe tye′ a peen)
+MEDICATION GUIDE Quetiapine Tablets, USP (kwe tye′ a peen)
 
 Rx only
 
@@ -258,6 +254,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000602/02-dm
+C50000602/02
 
-Revised February 2023
+Revised February 2025

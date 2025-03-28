@@ -43,7 +43,9 @@ Adverse Reactions Associated with Discontinuation of Treatment in Short-Term, Pl
 Schizophrenia: Overall, there was little difference in the incidence of discontinuation due to adverse reactions (4% for quetiapine vs. 3% for placebo) in a pool of controlled trials.
 However, discontinuations due to somnolence (0.8% quetiapine vs. 0% placebo) and hypotension (0.4% quetiapine vs. 0% placebo) were considered to be drug related [see Warnings and Precautions (5.7 and 5.19)].
 
-Bipolar Disorder:Mania: Overall, discontinuations due to adverse reactions were 5.7% for quetiapine vs. 5.1% for placebo in monotherapy and 3.6% for quetiapine vs. 5.9% for placebo in adjunct therapy.
+Bipolar Disorder:
+
+Mania: Overall, discontinuations due to adverse reactions were 5.7% for quetiapine vs. 5.1% for placebo in monotherapy and 3.6% for quetiapine vs. 5.9% for placebo in adjunct therapy.
 
 Depression: Overall, discontinuations due to adverse reactions were 12.3% for quetiapine 300 mg vs. 19.0% for quetiapine 600 mg and 5.2% for placebo.
 
@@ -188,7 +190,9 @@ The following adverse reactions have also been reported with quetiapine: nightma
 
 Extrapyramidal Symptoms (EPS):
 
-Dystonia:Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Dystonia:
+
+Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.
@@ -342,21 +346,31 @@ Table 16: Adverse Reactions Associated with Extrapyramidal Symptoms in a Placebo
 
 Laboratory, ECG and Vital Sign Changes Observed in Clinical Studies - Laboratory Changes:
 
-Neutrophil Counts:Adults: In placebo-controlled monotherapy clinical trials involving 3,368 patients on quetiapine and 1,515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2,967) in patients treated with quetiapine, compared to 0.1% (2/1,349) in patients treated with placebo [see Warnings and Precautions (5.10)].
+Neutrophil Counts:
 
-Transaminase Elevations:Adults: Asymptomatic, transient and reversible elevations in serum transaminases (primarily ALT) have been reported.
+Adults: In placebo-controlled monotherapy clinical trials involving 3,368 patients on quetiapine and 1,515 on placebo, the incidence of at least one occurrence of neutrophil count <1.0 x 109/L among patients with a normal baseline neutrophil count and at least one available follow up laboratory measurement was 0.3% (10/2,967) in patients treated with quetiapine, compared to 0.1% (2/1,349) in patients treated with placebo [see Warnings and Precautions (5.10)].
+
+Transaminase Elevations:
+
+Adults: Asymptomatic, transient and reversible elevations in serum transaminases (primarily ALT) have been reported.
 In schizophrenia trials in adults, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in a pool of 3- to 6-week placebo-controlled trials were approximately 6% (29/483) for quetiapine compared to 1% (3/194) for placebo.
 In acute bipolar mania trials in adults, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in a pool of 3- to 12-week placebo-controlled trials were approximately 1% for both quetiapine (3/560) and placebo (3/294).
 These hepatic enzyme elevations usually occurred within the first 3 weeks of drug treatment and promptly returned to pre-study levels with ongoing treatment with quetiapine.
 In bipolar depression trials, the proportions of patients with transaminase elevations of > 3 times the upper limits of the normal reference range in two 8-week placebo-controlled trials was 1% (5/698) for quetiapine and 2% (6/347) for placebo.
 
-Decreased Hemoglobin:Adults: In short-term placebo-controlled trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 8.3% (594/7,155) of quetiapine-treated patients compared to 6.2% (219/3,536) of patients treated with placebo.
+Decreased Hemoglobin:
+
+Adults: In short-term placebo-controlled trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 8.3% (594/7,155) of quetiapine-treated patients compared to 6.2% (219/3,536) of patients treated with placebo.
 In a database of controlled and uncontrolled clinical trials, decreases in hemoglobin to ≤ 13 g/dL males, ≤ 12 g/dL females on at least one occasion occurred in 11% (2,277/20,729) of quetiapine-treated patients.
 
-Interference with Urine Drug Screens: There have been literature reports suggesting false positive results in urine enzyme immunoassays for methadone and tricyclic antidepressants in patients who have taken quetiapine.
+Interference with Urine Drug Screens:
+
+There have been literature reports suggesting false positive results in urine enzyme immunoassays for methadone and tricyclic antidepressants in patients who have taken quetiapine.
 Caution should be exercised in the interpretation of positive urine drug screen results for these drugs, and confirmation by alternative analytical technique (e.g., chromatographic methods) should be considered.
 
-ECG Changes:Adults: Between-group comparisons for pooled placebo-controlled trials revealed no statistically significant quetiapine/placebo differences in the proportions of patients experiencing potentially important changes in ECG parameters, including QT, QTc, and PR intervals.
+ECG Changes:
+
+Adults: Between-group comparisons for pooled placebo-controlled trials revealed no statistically significant quetiapine/placebo differences in the proportions of patients experiencing potentially important changes in ECG parameters, including QT, QTc, and PR intervals.
 However, the proportions of patients meeting the criteria for tachycardia were compared in four 3- to 6-week placebo-controlled clinical trials for the treatment of schizophrenia revealing a 1% (4/399) incidence for quetiapine compared to 0.6% (1/156) incidence for placebo.
 In acute (monotherapy) bipolar mania trials the proportions of patients meeting the criteria for tachycardia was 0.5% (1/192) for quetiapine compared to 0% (0/178) incidence for placebo.
 In acute bipolar mania (adjunct) trials the proportions of patients meeting the same criteria was 0.6% (1/166) for quetiapine compared to 0% (0/171) incidence for placebo.
@@ -378,4 +392,4 @@ Mean increases in heart rate were 3.4 bpm for quetiapine extended-release, compa
 The following adverse reactions were identified during post approval of quetiapine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, drug reaction with eosinophilia and systemic symptoms (DRESS), hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), decreased platelet count, serious liver reactions (including hepatitis, liver necrosis, and hepatic failure), agranulocytosis, intestinal obstruction, ileus, colon ischemia, urinary retention, sleep apnea, acute generalized exanthematous pustulosis (AGEP), confusional state and cutaneous vasculitis.
+Adverse reactions reported since market introduction which were temporally related to quetiapine therapy include anaphylactic reaction, cardiomyopathy, drug reaction with eosinophilia and systemic symptoms (DRESS), hyponatremia, myocarditis, nocturnal enuresis, pancreatitis, retrograde amnesia, rhabdomyolysis, syndrome of inappropriate antidiuretic hormone secretion (SIADH), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), decreased platelet count, serious liver reactions (including hepatitis, liver necrosis, and hepatic failure), agranulocytosis, intestinal obstruction, ileus, colon ischemia, urinary retention, sleep apnea, acute generalized exanthematous pustulosis (AGEP), confusional state, cutaneous vasculitis, and fecal incontinence.
