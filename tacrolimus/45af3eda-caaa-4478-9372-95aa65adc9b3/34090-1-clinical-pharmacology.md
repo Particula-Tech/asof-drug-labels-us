@@ -99,7 +99,7 @@ The mean clearance of radiolabel was 0.226 ± 0.116 L/hr/kg and clearance of tac
 
 #### Pediatric Patients
 
-##### Tacrolimus Capsules Pharmacokinetics in Pediatric Patients
+Tacrolimus Capsules Pharmacokinetics in Pediatric Patients
 
 Pharmacokinetics of tacrolimus have been studied in liver transplantation patients, 0.7 to 13.2 years of age.
 Following IV administration of a 0.037 mg/kg/day dose to 12 pediatric patients, mean terminal half-life, volume of distribution and clearance were 11.5 ± 3.8 hours, 2.6 ± 2.1 L/kg and 0.138 ± 0.071 L/hr/kg, respectively.
@@ -113,7 +113,7 @@ The absolute bioavailability was 19 ± 14%.
 
 Whole blood trough concentrations from 31 patients less than 12 years old showed that pediatric patients needed higher doses than adults to achieve similar tacrolimus trough concentrations [see Dosage and Administration (2.3)].
 
-### Renal and Hepatic Impairment
+### Renal and Hepatic Impairment Patients
 
 The mean pharmacokinetic parameters for tacrolimus following single administrations to adult patients with renal and hepatic impairment are given in Table 19.
 
