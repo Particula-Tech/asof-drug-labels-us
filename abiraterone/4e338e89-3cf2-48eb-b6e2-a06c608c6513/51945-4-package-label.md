@@ -10,7 +10,7 @@ Each tablet contains 250 mg of abiraterone acetate.
 
 Warning: Women who are or may be pregnant should not handle ZYTIGA without gloves (see Prescribing Information).
 
-120 tablets janssen
+120 tablets
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Label
 
@@ -22,4 +22,4 @@ Each film-coated tablet contains 500 mg of abiraterone acetate.
 
 Rx only
 
-60 film-coated tablets janssen
+60 film-coated tablets
