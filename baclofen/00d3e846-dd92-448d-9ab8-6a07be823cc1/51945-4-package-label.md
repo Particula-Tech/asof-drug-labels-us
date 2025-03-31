@@ -54,9 +54,7 @@ Gablofen®
 
 (1,000 mcg/mL)
 
-Sterile solution for intrathecal use only
-
-NDC 66794-156-02
+Sterile solution for intrathecal use only NDC 66794-156-02
 
 Gablofen® (baclofen injection)
 
