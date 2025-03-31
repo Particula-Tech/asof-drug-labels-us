@@ -1,4 +1,4 @@
-# INSTRUCTIONS FOR USE
+# INSTRUCTIONS FOR USE - 75 mg
 
 RISVAN ®
 
@@ -70,28 +70,28 @@ Figure B
 TWIST and PULL the Powder syringe cap off.
 Figure C
 
-Make sure that Powder syringe is in the upright position to prevent loss of product.
+is in the upright position to prevent loss of product.
 
 Figure C
 
 2.2 Connect the syringes
 
-Pick the solvent syringe that has the colored finger flange and place it on TOP of the powder syringe or slightly tilt it vertically.
+Pick the solvent syringe S or slightly tilt it vertically.
 
 TWIST the syringes together until you feel a slight resistance.
 
-Make sure that Powder syringe is in the upright position to prevent loss of product.
+is in the upright position to prevent loss of product.
 
 3.
 MIX THE CONTENTS
 
 STOP AND READ THIS SECTION BEFORE STARTING OR THE MEDICATION MAY NOT CORRECTLY RECONSTITUTE.
 
-- PUSH VIGOROUSLY the Solvent content towards the Powder syringe.
+- PUSH VIGOROUSLY the Solvent content S towards the Powder syringe.
 - DO NOT WAIT for powder wetting and QUICKLY start mixing contents by pushing the plungers FAST and alternately for 100 pushes (2 pushes within 1 second, approximately 1 minute).
 - ENSUREmedication is passing between both syringes for proper mixing: medication is viscous and you will need to apply force when pressing on the plunger rods.
 
-Mix for at least 100 pushes by doing alternately followed by
+Mix for at least 100 pushes by doing alternately 1
 
 Make sure medication is passing between both syringes
 
@@ -104,7 +104,7 @@ PREPARE INJECTION SYRINGE
 
 4.1 Transfer medication
 
-Place downward pressure on the plunger rod and transfer all the content into the syringe that has the colored flange.
+Place downward pressure on the R syringe that has the colored flange.
 
 Make sure all the content is transferred.
 
@@ -161,6 +161,8 @@ Cover the needle by pressing on the needle guard using a finger or a flat surfac
 There may be state or local laws about how you should throw away used needles and syringes.
 
 For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+
+# Instruction for Use - 100mg
 
 RISVAN®
 
@@ -230,28 +232,28 @@ Figure B
 TWIST and PULL the Powder syringe cap off.
 Figure C
 
-Make sure that Powder syringe is in the upright position to prevent loss of product.
+is in the upright position to prevent loss of product.
 
 Figure C
 
 2.2 Connect the syringes
 
-Pick the solvent syringe that has the colored finger flange and place it on TOP of the powder syringe or slightly tilt it vertically.
+Pick the solvent syringe or slightly tilt it vertically.
 
 TWIST the syringes together until you feel a slight resistance.
 
-Make sure that Powder syringe is in the upright position to prevent loss of product.
+is in the upright position to prevent loss of product.
 
 3.
 MIX THE CONTENTS
 
 STOP AND READ THIS SECTION BEFORE STARTING OR THE MEDICATION MAY NOT CORRECTLY RECONSTITUTE.
 
-- PUSH VIGOROUSLY the Solvent content towards the Powder syringe.
+- PUSH VIGOROUSLY the Solvent content S towards the Powder syringe.
 - DO NOT WAIT for powder wetting and QUICKLY start mixing contents by pushing the plungers FAST and alternately for 100 pushes (2 pushes within 1 second, approximately 1 minute).
 - ENSUREmedication is passing between both syringes for proper mixing: medication is viscous and you will need to apply force when pressing on the plunger rods.
 
-Mix for at least 100 pushes by doing alternately followed by
+Mix for at least 100 pushes by doing alternately 1
 
 Make sure medication is passing between both syringes
 
@@ -264,7 +266,7 @@ PREPARE INJECTION SYRINGE
 
 4.1 Transfer medication
 
-Place downward pressure on the plunger rod and transfer all the content into the syringe that has the colored flange.
+Place downward pressure on the R syringe that has the colored flange.
 
 Make sure all the content is transferred.
 

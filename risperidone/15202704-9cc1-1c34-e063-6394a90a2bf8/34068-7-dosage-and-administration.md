@@ -92,22 +92,22 @@ PULL the cap off the Solvent syringe.
 
 TWIST and PULL the Powder syringe cap off.
 
-- Make sure that Powder syringe is in the upright position to prevent loss of product.
+- Make sure that Powder syringeis in the upright position to prevent loss of product.
 
 ​
 
 CONNECT THE SYRINGES
 
-Pick the solvent syringe that has the colored finger flange and place it on TOP of the powder syringe, or slightly tilt it vertically.
+Pick the solvent syringe that has the S, or slightly tilt it vertically.
 
 TWIST the syringes together until you feel a slight resistance.
 
-Make sure that Powder syringe is in the upright position to prevent loss of product.
+Make sure that Powder syringe R is in the upright position to prevent loss of product.
 
 STEP 3 MIX THE CONTENTS
 
 - STOP AND READ THIS SECTION BEFORE STARTING OR THE MEDICATION MAY NOT CORRECTLY RECONSTITUTE.
-- PUSH VIGOROUSLY the Solvent content towards the Powder syringe.
+- PUSH VIGOROUSLY the Solvent content S towards the Powder syringe.
 - DO NOT WAIT for powder wetting and QUICKLY start mixing contents by pushing the plungers FAST and alternately for 100 pushes (2 pushes within 1 second, approximately 1 minute).
 - ENSUREmedication is passing between both syringes for proper mixing: medication is viscous and you will need to apply force when pressing on the plunger rods.
 - Mix for at least 100 pushes by doing alternately 1 followed by 2
@@ -122,7 +122,7 @@ STEP 4 PREPARE INJECTION SYRINGE
 
 TRANSFER MEDICATION
 
-Place downward pressure on the plunger rod and transfer all the content into the syringe that has the colored flange.
+Place downward pressure on the R syringe that has the colored flange.
 
 - Make sure all the content is transferred.
 
