@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050818"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Harrow Eye, LLC",
+  "package_ndcs": [
+    "82667-011-00",
+    "82667-011-05"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "tobramycin / dexamethasone",
+      "name": "Tobradex ST"
+    }
+  ],
+  "setid": "3b99dbb3-ac84-4d0d-b30f-a5db44fdc316",
+  "source": "dailymed"
+}
