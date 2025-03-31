@@ -16,4 +16,4 @@ The concurrent use of testosterone with corticosteroids may result in increased 
 ## 7.4 Medications that May Also Increase Blood Pressure
 
 Some prescription medications and nonprescription analgesic and cold medications contain drugs known to increase blood pressure.
-Concomitant administration of these medications with JATENZO may lead to additional increases in blood pressure [see Boxed Warning and Warnings and Precautions (5.1)].
+Concomitant administration of these medications with JATENZO may lead to additional increases in blood pressure [see Warnings and Precautions (5.4)].

@@ -33,7 +33,7 @@ JATENZO is not indicated for use in women.
 
 Infertility
 
-During treatment with large doses of exogenous androgens, including JATENZO, spermatogenesis may be suppressed through feedback inhibition of the hypothalamic-pituitary-testicular axis [see Warnings and Precautions (5.8)], possibly leading to adverse effects on semen parameters including sperm count.
+During treatment with large doses of exogenous androgens, including JATENZO, spermatogenesis may be suppressed through feedback inhibition of the hypothalamic-pituitary-testicular axis [see Warnings and Precautions (5.7)], possibly leading to adverse effects on semen parameters including sperm count.
 Reduced fertility is observed in some men taking testosterone replacement therapy.
 Testicular atrophy, subfertility, and infertility have also been reported in men who abuse anabolic androgenic steroids [see Drug Abuse and Dependence (9.2)].
 With either type of use, the impact on fertility may be irreversible.
@@ -49,4 +49,4 @@ There have not been sufficient numbers of geriatric patients involved in control
 No patients over 65 years of age were enrolled in the 4-month efficacy and safety clinical study utilizing JATENZO.
 Additionally, there is insufficient long-term safety data in geriatric patients utilizing JATENZO to assess the potentially increased risk of cardiovascular disease and prostate cancer.
 
-Geriatric patients treated with androgens may also be at risk for worsening of signs and symptoms of BPH [see Warnings and Precautions (5.4)].
+Geriatric patients treated with androgens may also be at risk for worsening of signs and symptoms of BPH [see Warnings and Precautions (5.3)].

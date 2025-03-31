@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-JATENZO for oral use is provided as a gelatin capsule containing testosterone undecanoate, a fatty-acid ester of testosterone.
+JATENZO (testosterone undecanoate) for oral use is provided as a gelatin capsule containing testosterone undecanoate, a fatty-acid ester of testosterone.
 Testosterone undecanoate is a white to off-white yellow crystalline powder.
 Testosterone, an androgen, is formed by cleavage of the ester side chain of testosterone undecanoate.
 

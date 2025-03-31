@@ -2,9 +2,7 @@
 
 JATENZO is contraindicated in:
 
-- Men with carcinoma of the breast or known or suspected carcinoma of the prostate [see Warnings and Precautions (5.4)].
+- Men with carcinoma of the breast or known or suspected carcinoma of the prostate [see Warnings and Precautions (5.3)].
 - Women who are pregnant.
   Testosterone can cause virilization of the female fetus when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 - Men with known hypersensitivity to JATENZO or any of its ingredients [see Description (11)].
-- Men with hypogonadal conditions, such as “age-related hypogonadism”, that are not associated with structural or genetic etiologies.
-  The efficacy of JATENZO has not been established for these conditions, and JATENZO can increase BP which can increase the risk of MACE [see Boxed Warning and Warning and Precautions (5.1)].

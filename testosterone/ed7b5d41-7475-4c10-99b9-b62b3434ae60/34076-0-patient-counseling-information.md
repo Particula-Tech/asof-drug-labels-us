@@ -1,8 +1,16 @@
-# 17 PATIENT COUNSELING INFORMATION Increased Blood Pressure and Risk for Major Adverse Cardiovascular Events (MACE) Other Adverse Reactions
+# 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-- Inform patients that JATENZO can increase BP that can increase the risk for MACE, including myocardial infarction, stroke, and cardiovascular death.
+Venous Thromboembolism
+
+- Inform patients that JATENZO can cause venous thromboembolism.
+  Advise patients of the signs and symptoms of venous thromboembolism, which may include the following: lower limb pain, edema, or erythema; and dyspnea or chest pain.
+  Advise patients to promptly report the signs and symptoms of venous thromboembolism, discontinue use of JATENZO, and seek urgent medical care.
+
+Increased Blood Pressure
+
+- Inform patients that JATENZO can increase BP which can increase cardiovascular risk over time.
 - Instruct patients about the importance of monitoring BP periodically while on JATENZO.
   If BP increases while on JATENZO, antihypertensive medications may need to be started, added, or adjusted to control BP, or JATENZO may need to be discontinued.
 
@@ -24,5 +32,5 @@ Keep JATENZO out of the reach of children.
 
 Distributed by: Tolmar, Inc. Fort Collins, CO 80526
 
-Issued: 01/2023 708707 Rev.
-1 01/23
+131924 Rev.
+1 03/2025
