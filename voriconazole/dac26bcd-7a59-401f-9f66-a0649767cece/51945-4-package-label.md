@@ -13,7 +13,7 @@ Not made with natural rubber latex No Preservatives
 
 200 mg* 200 mg* of voriconazole
 
-Distributed by Roerig Division of Pfizer Inc, NY, NY 10017 Novaplus is a registered trademark of Vizient, Inc.
+Distributed by Roerig Division of Pfizer Inc. New York, NY 10001 Novaplus is a registered trademark of Vizient, Inc.
 
 novaplus™
 
