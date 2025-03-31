@@ -1115,35 +1115,41 @@ Patients were randomized (1:1) to one of the following treatment arms:
 
 All study medications, except oral capecitabine, were administered as an intravenous infusion every 3-week cycle.
 Treatment with KEYTRUDA continued until RECIST v1.1-defined progression of disease as determined by BICR, unacceptable toxicity, or a maximum of 24 months.
-In an interim efficacy analysis, the major outcome measures assessed were ORR and DoR by BICR using RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
+The major outcome measures assessed were PFS by BICR using RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ, and OS.
 
-At the time of the interim analysis, ORR and DoR were assessed in the first 264 patients randomized.
-Among the 264 patients, the population characteristics were: median age of 62 years (range: 19 to 84), 41% age 65 or older; 82% male; 63% White, 31% Asian, and 0.8% Black; 47% ECOG PS of 0 and 53% ECOG PS of 1.
-Ninety-seven percent of patients had metastatic disease (Stage IV) and 3% had locally advanced unresectable disease.
-Ninety-one percent (n=240) had tumors that were not MSI-H, 1% (n=2) had tumors that were MSI-H, and in 8% (n=22) the status was not known.
-Eighty-seven percent of patients received CAPOX.
+Additional outcome measures included ORR and DoR, based on BICR using RECIST 1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
 
-A statistically significant improvement in ORR was demonstrated in patients randomized to KEYTRUDA in combination with trastuzumab and chemotherapy compared with placebo in combination with trastuzumab and chemotherapy.
-Efficacy results are summarized in Table 83.
+Among the 698 patients, randomized, 594 (85%) had tumors that expressed PD-L1 with a CPS ≥1.
+PD-L1 status was determined using the PD-L1 IHC 22C3 pharmDx™ kit.
+The population characteristics of these 594 patients were: median age of 63 years (range: 19 to 85), 43% age 65 or older; 80% male; 63% White, 33% Asian, and 0.7% Black; 42% ECOG PS of 0 and 58% ECOG PS of 1.
+Ninety-eight percent of patients had metastatic disease (Stage IV) and 2% had locally advanced unresectable disease.
+Ninety-five percent (n=562) had tumors that were not MSI-H, 1% (n=8) had tumors that were MSI-H, and in 4% (n=24) the status was not known.
+Eighty-five percent of patients received CAPOX.
 
-Table 83: Efficacy Results for KEYNOTE-811
+A statistically significant improvement in OS and PFS was demonstrated in patients randomized to KEYTRUDA in combination with trastuzumab and chemotherapy compared with placebo in combination with trastuzumab and chemotherapy; however, an exploratory analysis of OS in the PD-L1 CPS <1 population showed a HR of 1.10 (95% CI: 0.72, 1.68), indicating that the improvement in the ITT population was primarily attributed to the results observed in the subgroup of patients with PD-L1 CPS ≥1.
 
-| Endpoint | KEYTRUDA 200 mg every 3 weeks Trastuzumab Fluoropyrimidine and Platinum Chemotherapy n=133 | Placebo Trastuzumab Fluoropyrimidine and Platinum Chemotherapy n=131 |
+Efficacy results at the final analysis for the subgroup of patients whose tumors expressed PD-L1 with a CPS ≥1 are summarized in Table 83 and Figure 20.
+
+Table 83: Efficacy Results for KEYNOTE-811 with PD-L1 Expression CPS ≥1
+
+| Endpoint | KEYTRUDA 200 mg every 3 weeks Trastuzumab Fluoropyrimidine and Platinum Chemotherapy n=298 | Placebo Trastuzumab Fluoropyrimidine and Platinum Chemotherapy n=296 |
 | --- | --- | --- |
+| OS |  |  |
+| Number (%) of patients with event | 226 (76%) | 244 (82%) |
+| Median in monthsBased on Kaplan-Meier estimation (95% CI) | 20.1 (17.9, 22.9) | 15.7 (13.5, 18.5) |
+| Hazard ratioBased on the unstratified Cox proportional hazard model (95% CI) | 0.79 (0.66, 0.95) |  |
+| PFS |  |  |
+| Number (%) of patients with event | 221 (74%) | 226 (76%) |
+| Median in months (95% CI) | 10.9 (8.5, 12.5) | 7.3 (6.8, 8.4) |
+| Hazard ratio (95% CI) | 0.72 (0.60, 0.87) |  |
 | Objective Response Rate |  |  |
-| ORRResponse: Best objective response as confirmed complete response or partial response (95% CI) | 74% (66, 82) | 52% (43, 61) |
-| Complete response rate | 11% | 3.1% |
-| Partial response rate | 63% | 49% |
-| p-Valuep-Value based on stratified Miettinen and Nurminen method (compared to an alpha boundary of 0.002) | <0.0001 |  |
-| Duration of Response | n=99 | n=68 |
-| Median in months (range) | 10.6 (1.1+, 16.5+) | 9.5 (1.4+, 15.4+) |
-| % with duration ≥6 monthsBased on observed duration of response | 65% | 53% |
+| ORRResponse: Best objective response as confirmed complete (95% CI) | 73% (68, 78) | 58% (53, 64) |
+| Complete response rate | 17% | 10% |
+| Partial response rate | 56% | 48% |
+| Duration of Response | n=218 | n=173 |
+| Median in months (95% CI) | 11.3 (9.9, 13.7) | 9.6 (7.1, 11.2) |
+| Range in months | 1.1+, 60.8+ | 1.4+, 60.5+ |
 | + Denotes ongoing response |  |  |
-
-In a pre-specified subgroup analysis of ORR based on PD-L1 status, the ORR in patients with PD-L1-positive disease (CPS ≥1) was 76% (95% CI: 67, 83) in the pembrolizumab arm (n=117) versus 51% (95% CI: 41, 60) in the control arm (n=112).
-In patients with tumors that were PD-L1 CPS<1, the ORR was 63% (95% CI: 35, 85) in the pembrolizumab arm (n=16) versus 58% (95% CI: 34, 80) in the control arm (n=19).
-
-In a subsequent interim analysis of pre-specified subgroups based on PD-L1 status in the full study population (n=698), the HR for PFS and OS in patients with PD-L1 CPS<1 (N=104) was 1.03 (95% CI: 0.65, 1.64) and 1.41 (95% CI: 0.90, 2.20), respectively.
 
 First-line Treatment of Locally Unresectable or Metastatic HER2-Negative Gastric or Gastroesophageal Junction Adenocarcinoma
 
@@ -1167,7 +1173,7 @@ Seventy-eight percent had tumors that expressed PD-L1 with a CPS ≥1 and 5% (n=
 Eighty-six percent of patients received CAPOX.
 
 A statistically significant improvement in OS, PFS, and ORR was demonstrated in patients randomized to KEYTRUDA in combination with chemotherapy compared with placebo in combination with chemotherapy at the time of a pre-specified interim analysis of OS.
-Efficacy results are summarized in Table 84 and Figures 20 and 21.
+Efficacy results are summarized in Table 84 and Figures 21 and 22.
 
 Table 84: Efficacy ResultsBased on a pre-specified interim analysis for KEYNOTE-859
 
@@ -1224,7 +1230,7 @@ Seventy-three percent had a tumor histology of squamous cell carcinoma, and 27% 
 
 The trial demonstrated a statistically significant improvement in OS and PFS for patients randomized to KEYTRUDA in combination with chemotherapy, compared to chemotherapy.
 
-Table 85 and Figure 22 summarize the efficacy results for KEYNOTE-590 in all patients.
+Table 85 and Figure 23 summarize the efficacy results for KEYNOTE-590 in all patients.
 
 Table 85: Efficacy Results in Patients with Locally Advanced Unresectable or Metastatic Esophageal Cancer in KEYNOTE-590
 
@@ -1279,7 +1285,7 @@ Thirty-three percent of patients received prior treatment with a taxane.
 
 The observed OS hazard ratio was 0.77 (95% CI: 0.63, 0.96) in patients with ESCC, 0.70 (95% CI: 0.52, 0.94) in patients with tumors expressing PD-L1 CPS ≥10, and 0.89 (95% CI: 0.75, 1.05) in all randomized patients.
 On further examination in patients whose ESCC tumors expressed PD-L1 (CPS ≥10), an improvement in OS was observed among patients randomized to KEYTRUDA as compared with chemotherapy.
-Table 86 and Figure 23 summarize the key efficacy measures for KEYNOTE-181 for patients with ESCC CPS ≥10.
+Table 86 and Figure 24 summarize the key efficacy measures for KEYNOTE-181 for patients with ESCC CPS ≥10.
 
 Table 86: Efficacy Results in Patients with Recurrent or Metastatic ESCC (CPS ≥10) in KEYNOTE-181
 
@@ -1338,7 +1344,7 @@ The trial demonstrated a statistically significant improvement in PFS in the ove
 In an exploratory subgroup analysis for the 462 patients (44%) with FIGO 2014 Stage IB2-IIB disease, the PFS HR estimate was 0.91 (95% CI: 0.63, 1.31), indicating that the PFS improvement in the overall population was primarily attributed to the results seen in the subgroup of patients with FIGO 2014 Stage III-IVA disease.
 OS data were not mature at the time of PFS analysis, with 10% deaths in the overall population.
 
-The efficacy results in the exploratory subgroup analysis of 596 patients with FIGO 2014 Stage III-IVA disease are summarized in Table 87 and Figure 24.
+The efficacy results in the exploratory subgroup analysis of 596 patients with FIGO 2014 Stage III-IVA disease are summarized in Table 87 and Figure 25.
 
 Table 87: Efficacy Results in KEYNOTE-A18 (Patients with FIGO 2014 Stage III-IVA Cervical Cancer)
 
@@ -1387,7 +1393,7 @@ At study entry, 21% of patients had metastatic disease only and 79% had persiste
 
 A statistically significant improvement in OS and PFS was demonstrated in patients randomized to receive KEYTRUDA compared with patients randomized to receive placebo.
 An updated OS analysis was conducted at the time of final analysis when 354 deaths in the CPS ≥1 population were observed.
-Table 88 and Figure 25 summarize the key efficacy measures for KEYNOTE-826 for patients with tumors expressing PD-L1 (CPS ≥1).
+Table 88 and Figure 26 summarize the key efficacy measures for KEYNOTE-826 for patients with tumors expressing PD-L1 (CPS ≥1).
 
 Table 88: Efficacy Results in Patients with Persistent, Recurrent, or Metastatic Cervical Cancer (CPS ≥1) in KEYNOTE-826
 
@@ -1468,7 +1474,7 @@ The study enrolled 453 patients, and 360 (79%) had active hepatitis B. The popul
 Patient characteristics also included extrahepatic disease (77%), macrovascular invasion (10%), BCLC stage C (93%) and B (7%), and baseline AFP ≥200 ng/mL (57%).
 
 KEYNOTE-394 demonstrated improved OS in patients with HCC secondary to hepatitis B randomized to KEYTRUDA compared with placebo.
-Efficacy results are summarized in Table 90 and Figure 26.
+Efficacy results are summarized in Table 90 and Figure 27.
 
 Table 90: Efficacy Results in Patients with Hepatocellular Carcinoma in KEYNOTE-394
 
@@ -1490,7 +1496,7 @@ Table 90: Efficacy Results in Patients with Hepatocellular Carcinoma in KEYNOTE-
 | Median in monthsBased on Kaplan-Meier estimate (range) | 23.9 (2.6+, 44.4+) | 5.6 (3.0+, 5.6) |
 | + Denotes ongoing response |  |  |
 
-| Figure 26: Kaplan-Meier Curve for Overall Survival in KEYNOTE-394 |
+| Figure 27: Kaplan-Meier Curve for Overall Survival in KEYNOTE-394 |
 | --- |
 
 ## 14.14 Biliary Tract Cancer
@@ -1513,7 +1519,7 @@ Study population characteristics were median age of 64 years (range: 23 to 85), 
 The major efficacy outcome measure was OS.
 Additional efficacy outcome measures were PFS, ORR and DoR as assessed by BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
 
-Table 91 and Figure 27 summarize the efficacy results for KEYNOTE-966.
+Table 91 and Figure 28 summarize the efficacy results for KEYNOTE-966.
 
 Table 91: Efficacy Results in KEYNOTE-966
 
@@ -1538,7 +1544,7 @@ Table 91: Efficacy Results in KEYNOTE-966
 | Median in months Based on Kaplan-Meier estimate (95% CI) | 8.3 (6.9, 10.2) | 6.8 (5.7, 7.1) |
 | NS = not significant |  |  |
 
-| Figure 27: Kaplan-Meier Curve for Overall Survival in KEYNOTE-966 |
+| Figure 28: Kaplan-Meier Curve for Overall Survival in KEYNOTE-966 |
 | --- |
 
 ## 14.15 Merkel Cell Carcinoma
@@ -1601,7 +1607,7 @@ Additional efficacy outcome measures included ORR, as assessed by BICR.
 A statistically significant improvement in OS was demonstrated at the first pre-specified interim analysis in patients randomized to KEYTRUDA in combination with axitinib compared with sunitinib.
 The trial also demonstrated statistically significant improvements in PFS and ORR.
 An updated OS analysis was conducted when 418 deaths were observed based on the planned number of deaths for the pre-specified final analysis.
-Table 93 and Figure 28 summarize the efficacy results for KEYNOTE-426.
+Table 93 and Figure 29 summarize the efficacy results for KEYNOTE-426.
 
 Table 93: Efficacy Results in KEYNOTE-426
 
@@ -1629,7 +1635,7 @@ Table 93: Efficacy Results in KEYNOTE-426
 | p-ValueBased on Miettinen and Nurminen method stratified by IMDC risk group and geographic region | <0.0001 |  |
 | NR = not reached |  |  |
 
-| Figure 28: Kaplan-Meier Curve for Updated Overall Survival in KEYNOTE-426 |
+| Figure 29: Kaplan-Meier Curve for Updated Overall Survival in KEYNOTE-426 |
 | --- |
 
 In an exploratory analysis, the updated analysis of OS in patients with IMDC favorable, intermediate, intermediate/poor, and poor risk demonstrated a HR of 1.17 (95% CI: 0.76, 1.80), 0.67 (95% CI: 0.52, 0.86), 0.64 (95% CI: 0.52, 0.80), and 0.51 (95% CI: 0.32, 0.81), respectively.
@@ -1661,7 +1667,7 @@ The major efficacy outcome measures were PFS, as assessed by independent radiolo
 Additional efficacy outcome measures included confirmed ORR as assessed by IRC.
 KEYTRUDA in combination with lenvatinib demonstrated statistically significant improvements in PFS, OS, and ORR compared with sunitinib.
 An updated OS analysis was conducted when 304 deaths were observed based on the planned number of deaths for the pre-specified final analysis.
-Table 94 and Figures 29 and 30 summarize the efficacy results for KEYNOTE-581.
+Table 94 and Figures 30 and 31 summarize the efficacy results for KEYNOTE-581.
 
 Table 94: Efficacy Results in KEYNOTE-581
 
@@ -1692,10 +1698,10 @@ Table 94: Efficacy Results in KEYNOTE-581
 | p-ValueTwo-sided p-Value based upon CMH test. | <0.0001 |  |
 | Tumor assessments were based on RECIST 1.1; only confirmed responses are included for ORR. Data cutoff date = 28 Aug 2020, Updated OS cutoff date = 31 July 2022 CI = confidence interval; NR= Not reached |  |  |
 
-| Figure 29: Kaplan-Meier Curve for PFS in KEYNOTE-581 |
+| Figure 30: Kaplan-Meier Curve for PFS in KEYNOTE-581 |
 | --- |
 
-| Figure 30: Kaplan-Meier Curve for Updated Overall Survival in KEYNOTE-581 |
+| Figure 31: Kaplan-Meier Curve for Updated Overall Survival in KEYNOTE-581 |
 | --- |
 
 KEYNOTE-B61
@@ -1746,7 +1752,7 @@ Ninety-two percent of patients had a radical nephrectomy, and 8% had a partial n
 The major efficacy outcome measure was investigator-assessed disease-free survival (DFS), defined as time to recurrence, metastasis, or death.
 An additional outcome measure was OS.
 Statistically significant improvements in DFS and OS were demonstrated at pre-specified interim analyses in patients randomized to the KEYTRUDA arm compared with placebo.
-Efficacy results are summarized in Table 96 and Figures 31 and 32.
+Efficacy results are summarized in Table 96 and Figures 32 and 33.
 
 Table 96: Efficacy Results in KEYNOTE-564
 
@@ -1766,10 +1772,10 @@ Table 96: Efficacy Results in KEYNOTE-564
 | 48-month OS rate (95% CI) | 91% (88, 93) | 86% (83, 89) |
 | NR = not reached |  |  |
 
-| Figure 31: Kaplan-Meier Curve for Disease-Free Survival in KEYNOTE-564 |
+| Figure 32: Kaplan-Meier Curve for Disease-Free Survival in KEYNOTE-564 |
 | --- |
 
-| Figure 32: Kaplan-Meier Curve for Overall Survival in KEYNOTE-564 |
+| Figure 33: Kaplan-Meier Curve for Overall Survival in KEYNOTE-564 |
 | --- |
 
 ## 14.17 Endometrial Carcinoma
@@ -1803,7 +1809,7 @@ The pMMR population characteristics were: median age of 66 years (range: 29 to 9
 The histologic subtypes were endometrioid carcinoma (52%), serous carcinoma (26%), adenocarcinoma NOS (10%), clear cell carcinoma (7%), and other (5%).
 
 The trial demonstrated statistically significant improvements in PFS for patients randomized to KEYTRUDA in combination with paclitaxel and carboplatin compared to placebo in combination with paclitaxel and carboplatin in both the dMMR and pMMR populations.
-Table 97 and Figures 33 and 34 summarize the efficacy results for KEYNOTE-868 by MMR status.
+Table 97 and Figures 34 and 35 summarize the efficacy results for KEYNOTE-868 by MMR status.
 At the time of the PFS analysis, OS data were not mature with 12% deaths in the dMMR population and 17% deaths in the pMMR population.
 
 Table 97: Efficacy Results in KEYNOTE-868
@@ -1818,10 +1824,10 @@ Table 97: Efficacy Results in KEYNOTE-868
 | p-ValueBased on the stratified log-rank test | <0.0001 |  | <0.0001 |  |
 | NR = not reached |  |  |  |  |
 
-| Figure 33: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-868 (dMMR Population) |
+| Figure 34: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-868 (dMMR Population) |
 | --- |
 
-| Figure 34: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-868 (pMMR Population) |
+| Figure 35: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-868 (pMMR Population) |
 | --- |
 
 In Combination with Lenvatinib for the Treatment of Advanced Endometrial Carcinoma That Is pMMR or Not MSI-H
@@ -1846,7 +1852,7 @@ The histologic subtypes were endometrioid carcinoma (55%), serous (30%), clear c
 All 697 of these patients received prior systemic therapy for endometrial carcinoma: 67% had one, 30% had two, and 3% had three or more prior systemic therapies.
 Thirty-seven percent of patients received only prior neoadjuvant or adjuvant therapy.
 
-Efficacy results for the pMMR or not MSI-H patients are summarized in Table 98 and Figures 35 and 36.
+Efficacy results for the pMMR or not MSI-H patients are summarized in Table 98 and Figures 36 and 37.
 
 Table 98: Efficacy Results in KEYNOTE-775
 
@@ -1871,10 +1877,10 @@ Table 98: Efficacy Results in KEYNOTE-775
 | Duration of Response | n=105 | n=53 |
 | Median in months (range) | 9.2 (1.6+, 23.7+) | 5.7 (0.0+, 24.2+) |
 
-| Figure 35: Kaplan-Meier Curve for Overall Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
+| Figure 36: Kaplan-Meier Curve for Overall Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
 | --- |
 
-| Figure 36: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
+| Figure 37: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-775 (pMMR or Not MSI-H) |
 | --- |
 
 As a Single Agent for the Treatment of Advanced MSI-H or dMMR Endometrial Carcinoma
@@ -2031,7 +2037,7 @@ An additional efficacy outcome was overall survival (OS).
 
 The study population characteristics were: median age of 49 years (range: 22 to 80), 11% age 65 or older; 99.9% female; 64% White, 20% Asian, 4.5% Black, and 1.8% American Indian or Alaska Native; 87% ECOG PS of 0 and 13% ECOG PS of 1; 56% were pre-menopausal status and 44% were post-menopausal status; 7% were primary Tumor 1 (T1), 68% T2, 19% T3, and 7% T4; 49% were nodal involvement 0 (N0), 40% N1, 11% N2, and 0.2% N3; 75% of patients were overall Stage II and 25% were Stage III.
 
-Table 103 and Figure 37 summarize the efficacy results for KEYNOTE-522.
+Table 103 and Figure 38 summarize the efficacy results for KEYNOTE-522.
 At the protocol pre-specified IA4 interim analysis of OS, OS data were not mature with 45% of the required events for the final analysis.
 
 Table 103: Efficacy Results in KEYNOTE-522
@@ -2047,7 +2053,7 @@ Table 103: Efficacy Results in KEYNOTE-522
 | Hazard ratio (95% CI)Based on stratified Cox regression model | 0.63 (0.48, 0.82) |  |
 | p-ValueBased on a pre-specified EFS interim analysis (compared to a significance level of 0.0052),Based on log-rank test stratified by nodal status, tumor size, and choice of carboplatin | 0.00031 |  |
 
-| Figure 37: Kaplan-Meier Curve for Event-Free Survival in KEYNOTE-522 |
+| Figure 38: Kaplan-Meier Curve for Event-Free Survival in KEYNOTE-522 |
 | --- |
 
 Locally Recurrent Unresectable or Metastatic TNBC
@@ -2068,7 +2074,7 @@ Additional efficacy outcome measures were ORR and DoR as assessed by BICR.
 The study population characteristics for patients were: median age of 53 years (range: 22 to 85), 21% age 65 or older; 100% female; 68% White, 21% Asian, and 4% Black; 60% ECOG PS of 0 and 40% ECOG PS of 1; and 68% were post-menopausal status.
 Seventy-five percent of patients had tumor PD-L1 expression CPS ≥1 and 38% had tumor PD-L1 expression CPS ≥10.
 
-Table 104 and Figures 38 and 39 summarize the efficacy results for KEYNOTE-355.
+Table 104 and Figures 39 and 40 summarize the efficacy results for KEYNOTE-355.
 
 Table 104: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 
@@ -2091,10 +2097,10 @@ Table 104: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 | Duration of Response | n=116 | n=42 |
 | Median in months (95% CI) | 12.8 (9.9, 25.9) | 7.3 (5.5, 15.4) |
 
-| Figure 38: Kaplan-Meier Curve for Overall Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 39: Kaplan-Meier Curve for Overall Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
-| Figure 39: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 40: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
 ## 14.21 Adult Classical Hodgkin Lymphoma and Adult Primary Mediastinal Large B-Cell Lymphoma: Additional Dosing Regimen of 400 mg Every 6 Weeks

@@ -1092,20 +1092,21 @@ Gastric Cancer
 
 First-line Treatment of Locally Advanced Unresectable or Metastatic HER2-Positive Gastric or Gastroesophageal Junction Adenocarcinoma
 
-The safety of KEYTRUDA was evaluated in 433 patients with HER2-positive gastric or GEJ cancer enrolled in KEYNOTE-811, which included 217 patients treated with KEYTRUDA 200 mg, trastuzumab, and CAPOX (n=189) or FP (n=28) every 3 weeks, compared to 216 patients treated with placebo, trastuzumab, and CAPOX (n=187) or FP (n=29) every 3 weeks [see Clinical Studies (14.10)].
+The safety of KEYTRUDA was evaluated in 696 patients with HER2-positive gastric or GEJ cancer enrolled in KEYNOTE-811, which included 350 patients treated with KEYTRUDA 200 mg, trastuzumab, and CAPOX (n=297) or FP (n=53) every 3 weeks, compared to 346 patients treated with placebo, trastuzumab, and CAPOX (n=298) or FP (n=48) every 3 weeks [see Clinical Studies (14.10)].
 
-The median duration of exposure to KEYTRUDA was 5.8 months (range: 1 day to 17.7 months).
+The median duration of exposure to KEYTRUDA was 9.2 months (range: 1 day to 33.6 months).
 
-The study population characteristics were: median age of 63 years (range: 19 to 84), 43% age 65 or older; 81% male; 58% White, 35% Asian, and 0.9% Black; 44% ECOG PS of 0 and 56% ECOG PS of 1.
+Fatal adverse reactions occurred in 3 patients who received KEYTRUDA in combination with trastuzumab and CAPOX or FP and included pneumonitis in 2 patients and hepatitis in 1 patient.
 
-KEYTRUDA and placebo were discontinued due to adverse reactions in 6% of patients in each arm.
-The most common adverse reaction resulting in permanent discontinuation of KEYTRUDA was pneumonitis (1.4%).
-Adverse reactions leading to interruption of KEYTRUDA occurred in 58% of patients; the most common adverse reactions or laboratory abnormalities leading to interruption of KEYTRUDA (≥2%) were neutropenia (18%), thrombocytopenia (12%), diarrhea (6%), anemia (3.7%), hypokalemia (3.7%), fatigue/asthenia (3.2%), decreased appetite (3.2%), increased AST (2.8%), increased blood bilirubin (2.8%), pneumonia (2.8%), increased ALT (2.3%), and vomiting (2.3%).
+KEYTRUDA was discontinued due to adverse reactions in 13% of patients.
+Adverse reactions resulting in permanent discontinuation of KEYTRUDA in ≥1% of patients were pneumonitis (2.0%) and pneumonia (1.1%).
 
-In the KEYTRUDA arm versus placebo, there was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for diarrhea (53% vs 44%) and nausea (49% vs 44%).
+Adverse reactions leading to interruption of KEYTRUDA occurred in 71% of patients; the most common adverse reactions or laboratory abnormalities leading to interruption of KEYTRUDA (≥2%) were neutropenia (21%), thrombocytopenia (13%), diarrhea (7%), pneumonia (5%), anemia (4.9%), COVID-19 (3.1%), hypokalemia (3.1%), fatigue/asthenia (4.9%), decreased appetite (4%), increased AST (3.7%), increased blood bilirubin (4.6%), increased ALT (2.9%), vomiting (2.6%), pneumonitis (2.3%), pyrexia (2.3%), increased blood creatinine (2%), and colitis (2%).
+
+In the KEYTRUDA arm versus placebo, there was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for diarrhea (53% vs 47%), rash (35% vs. 28%), hypothyroidism (11% vs. 5%), and pneumonia (11% vs. 5%).
 There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
 
-There was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for increased creatinine (20% vs 10%).
+There was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for decreased leukocytes (60% vs. 54%), decreased calcium (56% vs. 46%), decreased lymphocytes (59% vs. 51%), decreased potassium (41% vs. 36%), increased bilirubin (33% vs. 25%), increased creatinine (28% vs 18%), and decreased glucose (17% vs. 11%).
 There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
 
 First-line Treatment of Locally Advanced Unresectable or Metastatic HER2-Negative Gastric or Gastroesophageal Junction Adenocarcinoma
