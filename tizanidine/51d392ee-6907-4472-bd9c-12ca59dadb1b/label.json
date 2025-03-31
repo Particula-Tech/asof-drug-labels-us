@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216190"
+  ],
+  "inn": "tizanidine",
+  "labeler": "Fidelity BioPharma Co.",
+  "package_ndcs": [
+    "82919-626-16"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tizanidine hydrochloride",
+      "name": "Ontralfy"
+    }
+  ],
+  "setid": "51d392ee-6907-4472-bd9c-12ca59dadb1b",
+  "source": "dailymed"
+}
