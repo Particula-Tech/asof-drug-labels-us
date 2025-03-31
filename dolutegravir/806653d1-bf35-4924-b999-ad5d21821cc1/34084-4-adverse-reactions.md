@@ -65,27 +65,27 @@ Selected laboratory abnormalities with a worsening grade from baseline and repre
 Table 3.
 Selected Laboratory Abnormalities (Grades 2 and 3 to 4; Week 48 Pooled Analyses) in SWORD-1 and SWORD-2 Trials
 
-| Laboratory Parameter Preferred Term | Dolutegravir plus Rilpivirine(n = 513) | Current Antiretroviral Regimen(n = 511) |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| ALT |  |  |  |  |  |
-| Grade 2 (>2.5-5.0 x ULN) | 2% | <1% |  |  |  |
-| Grade 3 to 4 (>5.0 x ULN) | <1% | <1% |  |  |  |
-| AST |  |  |  |  |  |
-| Grade 2 (>2.5-5.0 x ULN) | <1% | 2% |  |  |  |
-| Grade 3 to 4 (>5.0 x ULN) | <1% | <1% |  |  |  |
-| Total Bilirubin |  |  |  |  |  |
-| Grade 2 (1.6-2.5 x ULN) | 2% | 4% |  |  |  |
-| Grade 3 to 4 (>2.5 x ULN) | 0 | 3% |  |  |  |
-| Creatine kinase |  |  |  |  |  |
-| Grade 2 (6.0-9.9 x ULN) | <1% | <1% |  |  |  |
-| Grade 3 to 4 (≥10.0 x ULN) | 1% | 2% |  |  |  |
-| Hyperglycemia |  |  |  |  |  |
-| Grade 2 (126-250 mg/dL) | 4% | 5% |  |  |  |
-| Grade 3 to 4 (>250 mg/dL) | <1% | <1% |  |  |  |
-| Lipase |  |  |  |  |  |
-| Grade 2 (>1.5-3.0 x ULN) | 5% | 5% |  |  |  |
-| Grade 3 to 4 (>3.0 x ULN) | 2% | 2% |  |  |  |
-| ALT = Alanine aminotransferase; AST = Aspartate aminotransferase; ULN = Upper limit of normal. |  |  |  |  |  |
+| Laboratory Parameter Preferred Term | Dolutegravir plus Rilpivirine(n = 513) | Current Antiretroviral Regimen(n = 511) |
+| --- | --- | --- |
+| ALT |  |  |
+| Grade 2 (>2.5-5.0 x ULN) | 2% | <1% |
+| Grade 3 to 4 (>5.0 x ULN) | <1% | <1% |
+| AST |  |  |
+| Grade 2 (>2.5-5.0 x ULN) | <1% | 2% |
+| Grade 3 to 4 (>5.0 x ULN) | <1% | <1% |
+| Total Bilirubin |  |  |
+| Grade 2 (1.6-2.5 x ULN) | 2% | 4% |
+| Grade 3 to 4 (>2.5 x ULN) | 0 | 3% |
+| Creatine kinase |  |  |
+| Grade 2 (6.0-9.9 x ULN) | <1% | <1% |
+| Grade 3 to 4 (≥10.0 x ULN) | 1% | 2% |
+| Hyperglycemia |  |  |
+| Grade 2 (126-250 mg/dL) | 4% | 5% |
+| Grade 3 to 4 (>250 mg/dL) | <1% | <1% |
+| Lipase |  |  |
+| Grade 2 (>1.5-3.0 x ULN) | 5% | 5% |
+| Grade 3 to 4 (>3.0 x ULN) | 2% | 2% |
+| ALT = Alanine aminotransferase; AST = Aspartate aminotransferase; ULN = Upper limit of normal. |  |  |
 
 In the Week 148 pooled analyses, there were no additional selected laboratory abnormalities with dolutegravir plus rilpivirine compared with those shown in Table 3.
 

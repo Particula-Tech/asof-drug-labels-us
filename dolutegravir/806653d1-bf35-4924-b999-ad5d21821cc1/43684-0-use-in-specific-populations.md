@@ -9,14 +9,14 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 
 Risk Summary
 
-Data from two, ongoing birth outcome surveillance studies in Botswana and Eswatini which together include over 14,000 individuals evaluated during pregnancy show similar prevalence of neural tube defects among infants born to individuals taking dolutegravir at the time of conception compared to those born to individuals taking non-dolutegravir-containing regimens at conception or infants born to HIV-negative individuals (see Data).
+Data from two, ongoing birth outcome surveillance studies in Botswana and Eswatini which together include over 14,000 individuals evaluated during pregnancy show similar prevalence of neural tube defects among infants born to individuals taking dolutegravir at the time of conception compared to those born to individuals taking non-dolutegravir-containing regimens at conception or infants born to HIV-negative individuals (see).
 
 There are insufficient human data on the use of JULUCA during pregnancy to definitively assess a drug-associated risk for birth defects and miscarriage.
-However, available human data from the APR with the individual components of JULUCA do not indicate an increased risk of birth defects (see Data).
+However, available human data from the APR with the individual components of JULUCA do not indicate an increased risk of birth defects (see).
 The background risk for major birth defects for the indicated population is unknown.
 In the U.S. general population, the estimated background rate for major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-In animal reproduction studies, no evidence of adverse developmental outcomes (including neural tube defects) was observed with the components of JULUCA at systemic exposures (AUC) to dolutegravir less than (rabbits) and 38 times (rats) and exposures to rilpivirine 15 (rats) and 70 (rabbits) times the exposure at the recommended human dose (RHD) of JULUCA (see Data).
+In animal reproduction studies, no evidence of adverse developmental outcomes (including neural tube defects) was observed with the components of JULUCA at systemic exposures (AUC) to dolutegravir less than (rabbits) and 38 times (rats) and exposures to rilpivirine 15 (rats) and 70 (rabbits) times the exposure at the recommended human dose (RHD) of JULUCA (see).
 
 Data
 
@@ -75,7 +75,7 @@ Risk Summary
 
 Dolutegravir is present in human milk.
 It is not known whether dolutegravir affects human milk production or have effects on the breastfed infant.
-When administered to lactating rats, rilpivirine was present in milk (see Data).
+When administered to lactating rats, rilpivirine was present in milk (see).
 
 Potential risks of breastfeeding include: (1) HIV‑1 transmission (in HIV-1–negative infants), (2) developing viral resistance (in HIV-1–positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults.
 
