@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050023"
+  ],
+  "inn": "neomycin",
+  "labeler": "Nordic Pharma, Inc.",
+  "package_ndcs": [
+    "69918-515-05"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "neomycin sulfate, polymyxin b sulfate and dexamethasone",
+      "name": "neomycin sulfate, polymyxin b sulfate and dexamethasone"
+    }
+  ],
+  "setid": "191c1a56-194f-4876-b501-2f8aee447d83",
+  "source": "dailymed"
+}
