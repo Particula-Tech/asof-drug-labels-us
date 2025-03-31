@@ -20,7 +20,7 @@ Table 1: Studies 1 and 2: Percentage of Patients with Headache Response 2 and 4 
 | Study 2 | MIGRANAL | 103 | 47% | 56% |
 |  | Placebo | 102 | 33% | 35% |
 
-Table 2: Studies 3 and 4: Percentage of Patients with Headache Response 2 and 4 Hours Following a Single Treatment of Study Medication [MIGRANAL (Dihydroergotamine Mesylate) Nasal Spray or Placebo]
+Table 1: Studies 3 and 4: Percentage of Patients with Headache Response 2 and 4 Hours Following a Single Treatment of Study Medication [MIGRANAL (Dihydroergotamine Mesylate) Nasal Spray or Placebo]
 
 |  |  | N | 2 hours | 4 hours |
 | --- | --- | --- | --- | --- |

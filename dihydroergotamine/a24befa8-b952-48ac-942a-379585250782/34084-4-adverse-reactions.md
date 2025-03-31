@@ -21,7 +21,7 @@ MIGRANAL (dihydroergotamine mesylate) Nasal Spray was generally well tolerated.
 In most instances these events were transient and self-limited and did not result in patient discontinuation from a study.
 The following table summarizes the incidence rates of adverse events reported by at least 1% of patients who received MIGRANAL (dihydroergotamine mesylate) Nasal Spray for the treatment of migraine headaches during placebo-controlled, double-blind clinical studies and were more frequent than in those patients receiving placebo.
 
-Table 3: Adverse Reactions Reported by at least 1% of the MIGRANAL (Dihydroergotamine Mesylate) Nasal Spray Treated Patients and Occurred More Frequently than in the Placebo-Group in the Migraine Placebo-Controlled Trials
+Table 2: Adverse Reactions Reported by at least 1% of the MIGRANAL (Dihydroergotamine Mesylate) Nasal Spray Treated Patients and Occurred More Frequently than in the Placebo-Group in the Migraine Placebo-Controlled Trials
 
 |  | MIGRANAL N=597 | Placebo N=631 |
 | --- | --- | --- |
@@ -65,7 +65,7 @@ Musculoskeletal:Infrequent: cramps, myalgia, muscular weakness, dystonia; Rare: 
 
 Central and Peripheral Nervous System:Infrequent: confusion, tremor, hypoesthesia, vertigo; Rare: speech disorder, hyperkinesia, stupor, abnormal gait, aggravated migraine.
 
-Autonomic Nervous System: Infrequent:increased sweating.
+Autonomic Nervous System:Infrequent:increased sweating.
 
 Special Senses:Infrequent: sense of smell altered, photophobia, conjunctivitis, abnormal lacrimation, abnormal vision, tinnitus, earache; Rare:eye pain.
 
