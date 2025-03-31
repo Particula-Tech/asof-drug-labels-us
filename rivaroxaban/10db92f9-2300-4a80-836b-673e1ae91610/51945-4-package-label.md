@@ -89,4 +89,4 @@ ATTENTION: Dispense the enclosed Medication Guide to each patient.
 
 For Oral Use Only
 
-Rx only janssen
+Rx only Johnson & Johnson
