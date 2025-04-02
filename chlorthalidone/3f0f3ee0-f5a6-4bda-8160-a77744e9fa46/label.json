@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA218647"
+  ],
+  "inn": "chlorthalidone",
+  "labeler": "Ingenus Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "50742-285-30",
+    "50742-285-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "chlorthalidone",
+      "name": "HEMICLOR"
+    }
+  ],
+  "setid": "3f0f3ee0-f5a6-4bda-8160-a77744e9fa46",
+  "source": "dailymed"
+}
