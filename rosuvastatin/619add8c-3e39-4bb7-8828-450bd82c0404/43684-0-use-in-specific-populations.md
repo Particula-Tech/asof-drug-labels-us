@@ -14,7 +14,7 @@ Atherosclerosis is a chronic process and the discontinuation of lipid-lowering d
 Available data from case series and prospective and retrospective observational cohort studies over decades of use with statins in pregnant women have not identified a drug-associated risk of major congenital malformations.
 Published data from prospective and retrospective observational cohort studies with rosuvastatin use in pregnant women are insufficient to determine if there is a drug-associated risk of miscarriage (see Data).
 
-In animal reproduction studies, no adverse developmental effects were observed in pregnant rats or rabbits orally administered rosuvastatin during the period of organogenesis at doses that resulted in systemic exposures equivalent to human exposures at the maximum recommended human dose (MRHD) of 40 mg/day, based on AUC and body surface area (mg/m2) respectively (see Data).
+In animal reproduction studies, no adverse developmental effects were observed in pregnant rats or rabbits orally administered rosuvastatin during the period of organogenesis at doses that resulted in systemic exposures equivalent to human exposures at the maximum recommended human dose (MRHD) of 40 mg/day, based on AUC and body surface area (mg/m2), respectively (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
@@ -42,40 +42,7 @@ In pregnant rats given 2, 10 and 50 mg/kg/day of rosuvastatin from gestation day
 In pregnant rabbits given 0.3, 1, and 3 mg/kg/day of rosuvastatin from gestation day 6 to day 18, decreased fetal viability and maternal mortality was observed at 3 mg/kg/day (dose equivalent to the MRHD of 40 mg/day based on body surface area).
 
 Rosuvastatin crosses the placenta in rats and rabbits and is found in fetal tissue and amniotic fluid at 3% and 20%, respectively, of the maternal plasma concentration following a single 25 mg/kg oral gavage dose on gestation day 16 in rats.
-In rabbits, fetal tissue distribution was 25% of maternal plasma concentration was observed in rabbits after a single oral gavage dose of 1 mg/kg on gestation day 18.Risk Summary
-
-EZALLOR Sprinkle is contraindicated for use in pregnant women since safety in pregnant women has not been established and there is no apparent benefit to therapy with EZALLOR Sprinkle during pregnancy.
-Because HMG-CoA reductase inhibitors decrease cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol, EZALLOR Sprinkle may cause fetal harm when administered to pregnant women.
-EZALLOR Sprinkle should be discontinued as soon as pregnancy is recognized [see Contraindications (4)].
-Limited published data on the use of rosuvastatin are insufficient to determine a drug-associated risk of major congenital malformations or miscarriage.
-In animal reproduction studies, there were no adverse developmental effects with oral administration of rosuvastatin during organogenesis at systemic exposures equivalent to a maximum recommended human dose (MRHD) of 40 mg/day in rats or rabbits (based on AUC and body surface area, respectively).
-In rats and rabbits, decreased pup/fetal survival occurred at 12 times and equivalent, respectively, to the MRHD of 40 mg/day [see Data].
-
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
-
-Data
-
-Human Data
-
-Limited published data on rosuvastatin have not shown an increased risk of major congenital malformations or miscarriage.
-Rare reports of congenital anomalies have been received following intrauterine exposure to other statins.
-In a review of approximately 100 prospectively followed pregnancies in women exposed to simvastatin or lovastatin, the incidences of congenital anomalies, spontaneous abortions, and fetal deaths/stillbirths did not exceed what would be expected in the general population.
-The number of cases is adequate to exclude a ≥3 to 4-fold increase in congenital anomalies over the background incidence.
-In 89% of the prospectively followed pregnancies, drug treatment was initiated prior to pregnancy and was discontinued at some point in the first trimester when pregnancy was identified.
-
-Animal Data
-
-Rosuvastatin crosses the placenta in rats and rabbits and is found in fetal tissue and amniotic fluid at 3% and 20%, respectively, of the maternal plasma concentration following a single 25 mg/kg oral gavage dose on gestation day 16 in rats.
-A higher fetal tissue distribution (25% maternal plasma concentration) was observed in rabbits after a single oral gavage dose of 1 mg/kg on gestation day 18.
-
-Rosuvastatin administration did not indicate a teratogenic effect in rats at ≤25 mg/kg/day or in rabbits ≤3 mg/kg/day (doses equivalent to the MRHD of 40 mg/day based on AUC and body surface area, respectively).
-
-In female rats given 5, 15 and 50 mg/kg/day before mating and continuing through to gestation day 7 resulted in decreased fetal body weight (female pups) and delayed ossification at 50 mg/kg/day (10 times the human exposure at the MRHD dose of 40 mg/day based on AUC).
-
-In pregnant rats given 2, 10 and 50 mg/kg/day of rosuvastatin from gestation day 7 through lactation day 21 (weaning), decreased pup survival occurred at 50 mg/kg/day (dose equivalent to 12 times the MRHD of 40 mg/day based body surface area).
-
-In pregnant rabbits given 0.3, 1, and 3 mg/kg/day of rosuvastatin from gestation day 6 to day 18, decreased fetal viability and maternal mortality was observed at 3 mg/kg/day (dose equivalent to the MRHD of 40 mg/day based on body surface area).
+In rabbits, fetal tissue distribution was 25% of maternal plasma concentration after a single oral gavage dose of 1 mg/kg on gestation day 18.
 
 ## 8.2 Lactation
 
@@ -90,17 +57,17 @@ Because of the potential for serious adverse reactions in a breastfed infant, ba
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of rosuvastatin as an adjunct to diet to reduce LDL-C have been established in pediatric patients 8 years of age and older with HeFH.
-Use of rosuvastatin for this indication is based on one 12-week controlled trial with a 40-week open-label extension period in 176 pediatric patients 10 years of age and older with HeFH and one 2-year open-label, uncontrolled trial in 175 pediatric patients 8 years of age and older with HeFH [see ClinicalStudies (14)].
+Use of rosuvastatin for this indication is based on one 12-week controlled trial with a 40-week open-label extension period in 176 pediatric patients 10 years of age and older with HeFH and one 2-year open-label, uncontrolled trial in 175 pediatric patients 8 years of age and older with HeFH [see Clinical Studies (14)].
 In the 1-year trial with a 12-week controlled phase, there was no detectable effect of rosuvastatin on growth, weight, BMI (body mass index), or sexual maturation in patients aged 10 to 17 years.
 
-The safety and effectiveness of rosuvastatin as an adjunct to other LDL-C-lowering therapies to reduce LDL-C have been established pediatric patients 7 years of age and older with HoFH.
+The safety and effectiveness of rosuvastatin as an adjunct to other LDL-C-lowering therapies to reduce LDL-C have been established in pediatric patients 7 years of age and older with HoFH.
 Use of rosuvastatin for this indication is based on a randomized, placebo-controlled, cross-over study in 14 pediatric patients 7 years of age and older with HoFH [see Clinical Studies (14)].
 
 The safety and effectiveness of rosuvastatin have not been established in pediatric patients younger than 8 years of age with HeFH, younger than 7 years of age with HoFH, or in pediatric patients with other types of hyperlipidemia (other than HeFH or HoFH).
 
 ## 8.5 Geriatric Use
 
-Of the total number of rosuvastatin-treated patients in clinical studies, 3,159 (31%) were 65 years and older, and 698 (6.8%) were 75 years and older.
+Of the 10,275 patients in clinical studies with rosuvastatin, 3,159 (31%) were 65 years and older, and 698 (6.8%) were 75 years and older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 
 Advanced age (≥65 years) is a risk factor for rosuvastatin-associated myopathy and rhabdomyolysis.
@@ -114,7 +81,7 @@ Exposure to rosuvastatin is increased to a clinically significant extent in pati
 
 Renal impairment is a risk factor for myopathy and rhabdomyolysis.
 Monitor all patients with renal impairment for development of myopathy.
-In patients with severe renal impairment not on hemodialysis, the recommended starting dosage is 5 mg daily and should not exceed 10 mg daily [see Dosage and Administration (2.5)and Warnings and Precautions (5.1)].
+In patients with severe renal impairment not on hemodialysis, the recommended starting dosage is 5 mg daily and should not exceed 10 mg daily [see Dosage and Administration (2.5) and Warnings and Precautions (5.1)].
 
 ## 8.7 Hepatic Impairment
 

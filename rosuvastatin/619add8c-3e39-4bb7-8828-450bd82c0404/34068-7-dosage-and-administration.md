@@ -3,16 +3,17 @@
 ## 2.1 General Dosage and Administration Information
 
 - Administer EZALLOR SPRINKLE orally as a single dose at any time of day, with or without food.
-  Swallow capsules whole.
+  Swallow the capsules whole.
   Do not crush or chew.
-  Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating EZALLOR SPRINKLE, and adjust the dosage if necessary.
-- If a dose is missed, advise patients not take an extra dose.
+- Assess LDL-C when clinically appropriate, as early as 4 weeks after initiating EZALLOR SPRINKLE, and adjust the dosage if necessary.
+- If a dose is missed, advise patients not to take an extra dose.
   Resume treatment with the next dose.
+- When taking EZALLOR SPRINKLE with an aluminum and magnesium hydroxide combination antacid, administer EZALLOR SPRINKLE at least 2 hours before the antacid [see Drug Interactions (7.2)].
 
 ## 2.2 Recommended Dosage in Adult Patients
 
 - The dosage range for EZALLOR SPRINKLE is 5 mg to 40 mg orally once daily.
-- The recommended dose of EZALLOR SPRINKLE depends on a patient’s indication for usage, LDL-C, and individual risk for cardiovascular events.
+- The recommended dose of EZALLOR SPRINKLE depends on a patient’s indication for usage, LDL-C, and individual risk for CV events.
 
 ## 2.3 Recommended Dosage in Pediatric Patients
 
@@ -24,7 +25,7 @@ Dosage in Pediatric Patients 7 Years of Age and Older with HoFH
 
 The recommended dosage is 20 mg orally once daily.
 
-## 2.4 Dosing in Asian Patients
+## 2.4 Recommended Dosage in Asian Patients
 
 Initiate EZALLOR SPRINKLE at 5 mg once daily due to increased rosuvastatin plasma concentrations.
 Consider the risks and benefits of EZALLOR SPRINKLE when treating Asian patients not adequately controlled at doses up to 20 mg once daily [see Warnings and Precautions (5.1), Use in Specific Populations (8.8), and Clinical Pharmacology (12.3)].
@@ -35,9 +36,7 @@ In patients with severe renal impairment (CLcr less than 30 mL/min/1.73 m2) not 
 
 There are no dosage adjustment recommendations for patients with mild and moderate renal impairment.
 
-## 2.6 Dosage and Administration Modifications Due to Drug Interactions
-
-EZALLOR SPRINKLE Dosage Modifications Due to Drug Interactions
+## 2.6 Dosage Modifications Due to Drug Interactions
 
 Table 1 displays dosage modifications for EZALLOR SPRINKLE due to drug interactions [see Warnings and Precautions (5.1) and Drug Interactions (7.1)].
 
@@ -54,14 +53,10 @@ Table 1: EZALLOR SPRINKLE Dosage Modifications Due to Drug Interactions
 | Gemfibrozil | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily. |
 | Tafamidis | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 20 mg once daily. |
 | Antiviral Medications |  |
-| Sofbuvir/velpatasvir/voxilaprevirLedipasvir/sofosbuvir | Concomitant use not recommended. |
+| Sofosbuvir/velpatasvir/voxilaprevirLedipasvir/sofosbuvir | Concomitant use not recommended. |
 | SimeprevirDasabuvir/ombitasvir/paritaprevir/ritonavirElbasvir/GrazoprevirSofosbuvir/VelpatasvirGlecaprevir/PibrentasvirAtazanavir/RitonavirLopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |
 | Darolutamide | Do not exceed 5 mg once daily. |
 | Regorafenib | Do not exceed 10 mg once daily. |
-
-EZALLOR SPRINKLE Administration Modifications Due to Drug Interactions
-
-When taking EZALLOR SPRINKLE with an aluminum and magnesium hydroxide combination antacid, administer EZALLOR SPRINKLE at least 2 hours before the antacid [see Drug Interactions (7.2)].
 
 ## 2.7 Preparation and Administration Instructions
 

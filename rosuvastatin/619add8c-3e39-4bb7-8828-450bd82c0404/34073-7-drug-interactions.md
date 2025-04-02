@@ -4,7 +4,7 @@
 
 Rosuvastatin is a substrate of CYP2C9 and transporters (such as OATP1B1, BCRP).
 Rosuvastatin plasma levels can be significantly increased with concomitant administration of inhibitors of CYP2C9 and transporters.
-Table 5 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when used concomitantly with EZALLOR SPRINKLE and instructions for preventing or managing them [see Warnings andPrecautions (5.1)and Clinical Pharmacology(12.3)].
+Table 5 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when used concomitantly with EZALLOR SPRINKLE and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 Table 5: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with EZALLOR SPRINKLE
 
@@ -52,6 +52,9 @@ Table 5: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis
 | Colchicine |  |  |
 | Clinical Impact: | Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with EZALLOR SPRINKLE. |  |
 | Intervention: | Consider if the benefit of using colchicine concomitantly with EZALLOR SPRINKLE outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. |  |
+| Ticagrelor |  |  |
+| Clinical Impact: | Concomitant use of EZALLOR SPRINKLE and ticagrelor has been shown to increase rosuvastatin concentrations, which may result in increased risk of myopathy. Cases of myopathy and rhabdomyolysis have been reported in patients using both products concomitantly. Cases have occurred more frequently in patients taking 40 mg of rosuvastatin. |  |
+| Intervention: | In patients taking concomitant ticagrelor, especially those with additional risk factors for myopathy and rhabdomyolysis, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of EZALLOR SPRINKLE. |  |
 
 ## 7.2 Drug Interactions that Decrease the Efficacy of EZALLOR SPRINKLE
 
@@ -61,12 +64,12 @@ Table 6: Drug Interactions that Decrease the Efficacy of EZALLOR SPRINKLE
 
 | Antacids |  |
 | --- | --- |
-| Clinical Impact: | Concomitant aluminum and magnesium hydroxide combination antacid administration decreased the mean exposure of rosuvastatin 50% [see ClinicalPharmacology (12.3)]. |
-| Intervention: | In patients taking antacid, administer EZALLOR SPRINKLE at least 2 hours after the antacid. |
+| Clinical Impact: | Concomitant aluminum and magnesium hydroxide combination antacid administration decreased the mean exposure of rosuvastatin 50% [see Clinical Pharmacology (12.3)]. |
+| Intervention: | In patients taking antacid, administer EZALLOR SPRINKLE at least 2 hours before the antacid. |
 
-## 7.3 Rosuvastatin Effects on Other Drugs
+## 7.3 EZALLOR SPRINKLE Effects on Other Drugs
 
-Table 7 presents rosuvastatin’s effect on other drugs and instructions for preventing or managing them.
+Table 7 presents EZALLOR SPRINKLE effect on other drugs and instructions for preventing or managing them.
 
 Table 7: Rosuvastatin Effects on Other Drugs
 

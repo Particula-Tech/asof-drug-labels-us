@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Myopathy and Rhabdomyolysis
 
 Advise patients that EZALLOR SPRINKLE may cause myopathy and rhabdomyolysis.
-Inform patients that the risk is also increased when taking certain types of medication and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
+Inform patients that the risk is also increased when taking certain types of medication and they should discuss all medication, both prescription and over-the-counter, with their healthcare provider.
 Instruct patients to promptly report any unexplained muscle pain, tenderness or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.1), and Drug Interactions (7.1)].
 
 Hepatic Dysfunction
@@ -25,31 +25,19 @@ Advise patients to inform their healthcare provider of a known or suspected preg
 
 Lactation
 
-Advise patients that breastfeeding during treatment with EZALLOR SPRINKLE is not recommended[see Use in Specific Populations (8.2)].
+Advise patients that breastfeeding during treatment with EZALLOR SPRINKLE is not recommended [see Use in Specific Populations (8.2)].
 
 Concomitant Use of Antacids
 
-When taking EZALLOR SPRINKLE with an aluminum and magnesium hydroxide combination antacid, the antacid should be taken at least 2 hours after EZALLOR SPRINKLE administration [see Drug Interactions (7.2)].
+When taking EZALLOR SPRINKLE with an aluminum and magnesium hydroxide combination antacid, administer EZALLOR SPRINKLE at least 2 hours before the antacid [see Drug Interactions (7.2)].
 
 Missed Doses
 
 If a dose is missed, advise patients not to take an extra dose.
-Just resume the usual schedule [see General Dosage and Administration Information (2.1)].
+Just resume the usual schedule [see Dosage and Administration (2.1)].
 
-Distributed by:
+Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
 
-Sun Pharmaceutical Industries, Inc.
+Manufactured by: Sun Pharmaceutical Industries Limited Halol-Baroda Highway, Halol-389 350, Gujarat, India.
 
-Cranbury, NJ 08512
-
-Manufactured by:
-
-Sun Pharmaceutical Industries Limited
-
-Halol-Baroda Highway,
-
-Halol-389 350, Gujarat, India.
-
-FDA-03
-
-EZALLOR SPRINKLE is a trademark of Sun Pharmaceutical Industries Limited.
+FDA-05 EZALLOR SPRINKLE is a registered trademark of Sun Pharmaceutical Industries Limited.
