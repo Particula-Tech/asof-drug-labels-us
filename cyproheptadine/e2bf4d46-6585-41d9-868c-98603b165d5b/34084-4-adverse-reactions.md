@@ -20,4 +20,4 @@ Respiratory: Dryness of nose and throat, thickening of bronchial secretions, tig
 
 Miscellaneous: Fatigue, chills, headache, increased appetite/weight gain.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharmaceuticals, Inc. at 1-866-562-4597 or FDA at 1-800-FDA-1088 or www.FDA.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc. at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.FDA.gov/medwatch.
