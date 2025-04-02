@@ -1,0 +1,12 @@
+# 1 INDICATIONS AND USAGE
+
+## 1.1 Acute Coronary Syndrome or a History of Myocardial Infarction
+
+Ticagrelor is indicated to reduce the risk of cardiovascular (CV) death, myocardial infarction (MI), and stroke in patients with acute coronary syndrome (ACS) or a history of MI.
+For at least the first 12 months following ACS, it is superior to clopidogrel.
+
+Ticagrelor tablets also reduce the risk of stent thrombosis in patients who have been stented for treatment of ACS [see Clinical Studies (14.1)].
+
+## 1.3 Acute Ischemic Stroke or Transient Ischemic Attack (TIA)
+
+Ticagrelor tablets are indicated to reduce the risk of stroke in patients with acute ischemic stroke (NIH Stroke Scale score ≤5) or high-risk transient ischemic attack (TIA) [see Clinical Studies (14.3)].
