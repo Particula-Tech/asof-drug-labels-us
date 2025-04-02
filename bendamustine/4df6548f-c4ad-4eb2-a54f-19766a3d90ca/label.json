@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA212209"
+  ],
+  "inn": "bendamustine",
+  "labeler": "Azurity Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24338-270-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bendamustine hydrochloride",
+      "name": "VIVIMUSTA"
+    }
+  ],
+  "setid": "4df6548f-c4ad-4eb2-a54f-19766a3d90ca",
+  "source": "dailymed"
+}
