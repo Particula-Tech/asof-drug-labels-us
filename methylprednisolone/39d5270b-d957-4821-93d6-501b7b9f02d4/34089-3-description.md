@@ -17,9 +17,8 @@ Inactive ingredients:
 | --- | --- |
 | Calcium Stearate | Calcium Stearate |
 | Corn Starch | Corn Starch |
-| Erythrosine Sodium | Lactose |
-| Lactose | Sucrose |
-| Mineral Oil |  |
+| Lactose | Lactose |
+| Mineral Oil | Sucrose |
 | Sorbic Acid |  |
 | Sucrose |  |
 | 16 mg and 32 mg |  |
