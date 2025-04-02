@@ -153,4 +153,4 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 LB-0118 V07
 
-Manufactured for: Antares Pharma, Inc. Ewing, NJ 08628 01/2025
+Manufactured for: Antares Pharma, Inc. Ewing, NJ 08628 03/2025

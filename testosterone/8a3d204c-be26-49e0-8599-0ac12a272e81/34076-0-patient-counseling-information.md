@@ -2,15 +2,19 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
-## Increased Blood Pressure and Risk for Major Adverse Cardiovascular Events (MACE)
+Venous Thromboembolism
 
-- Inform patients that XYOSTED can increase BP that can increase the risk for MACE, including myocardial infarction, stroke, and cardiovascular death.
+- Inform patients that XYOSTED can cause venous thromboembolism.
+  Advise patients of the signs and symptoms of venous thromboembolism, which may include the following: lower limb pain, edema, or erythema; and dyspnea or chest pain.
+  Advise patients to promptly report the signs and symptoms of venous thromboembolism, discontinue use of XYOSTED, and seek urgent medical care.
+
+Increased Blood Pressure
+
+- Inform patients that XYOSTED can increase BP which can increase cardiovascular risk over time.
 - Instruct patients about the importance of monitoring BP periodically while on XYOSTED.
   If BP increases while on XYOSTED, antihypertensive medications may need to be started, added, or adjusted to control BP, or XYOSTED may need to be discontinued.
 
-## Other Adverse Reactions
-
-Inform patients that treatment with androgens may lead to adverse reactions which include:
+Other Adverse Reactions Inform patients that treatment with androgens may lead to adverse reactions which include:
 
 - Changes in urinary habits related to effects on prostate size, such as increased urination at night, hesitancy, urinary frequency, urinary urgency, having a urine accident, or being unable to pass urine or weak urine flow.
 - Breathing disturbances that may reflect obstructive sleep apnea, including those associated with sleep or excessive daytime sleepiness.

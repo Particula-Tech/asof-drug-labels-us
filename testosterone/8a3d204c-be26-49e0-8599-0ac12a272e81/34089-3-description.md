@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-XYOSTED injection contains testosterone enanthate, an ester derivative of an endogenous androgen, testosterone.
+XYOSTED (testosterone enanthate) injection contains testosterone enanthate, an ester derivative of an endogenous androgen, testosterone.
 Testosterone enanthate is a white to creamy white crystalline powder described by the chemical name (17β)-17-[(1-Oxoheptyl) oxy]-androst-4-en-3-one.
 Testosterone enanthate has the molecular formula C26H40O3, the molecular weight 400.59, and the molecular structure with the chemical formula:
 

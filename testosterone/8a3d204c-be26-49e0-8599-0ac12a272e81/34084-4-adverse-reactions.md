@@ -57,12 +57,18 @@ Number (%) of Patients with Adverse Reactions ≥2% in a 6-Month Study with XYOS
 | Nausea | 3 (2.3) |
 | Note: Includes events that started on or after the first dosing, or existed prior to the first dose and worsened in severity or relatedness after dosing. Percentage was calculated using the number of patients in the column heading as the denominator. |  |
 
-BP Increases in the 6-Month Clinical Study
+BP Increases
 
 In the 6-month clinical study, 24-hour ambulatory blood pressure monitoring (ABPM) was conducted in 133 patients, 113 of whom completed the study.
 ABPM was conducted at 3 distinct 24-hour time periods: at Baseline and following 6 and 12 weeks of XYOSTED therapy.
 A total of 62 patients had acceptable ABPM recordings at baseline and Week 12.
-In that group, the mean change in systolic BP from baseline to Week 12 was + 3.9 mmHg (95% CI 1.4-6.4) and the mean change in diastolic BP was + 1.5 mmHg (95% CI 0.4-2.6).
+In that group, the mean change in systolic and diastolic BP from baseline to Week 12 was + 3.9 mmHg (95% CI 1.4-6.4) and + 1.5 mmHg (95% CI 0.4-2.6), respectively.
+In patients with a history of hypertension who were receiving antihypertensive therapy, the mean ABPM systolic and diastolic BP increased by +3.9 mmHg [95% CI 0.19-7.7] and +1.3 mmHg [95% CI -0.37-3.0], respectively [n=33]).
+In patients with no history of hypertension, the mean ABPM systolic and diastolic blood pressure increased by +4.1 mmHg [95% CI 0.43-7.8] and +1.9 mmHg [95% CI 0.055-3.7], respectively [n=28]).
+
+10% of XYOSTED-treated patients were either started on antihypertensive medications or required changes to their antihypertensive medication regimen during the 1-year study.
+
+A total of 3 patients were reported to have an adverse reaction of hypertension (2 patients with hypertension and 1 patient with worsening hypertension), and 1 was reported to have an adverse reaction of increased blood pressure.
 
 Increases in Hematocrit
 
@@ -82,3 +88,28 @@ Depression requiring discontinuation was reported in 2 of the 283 patients in th
 Increases in Serum PSA
 
 Increases in serum PSA concentrations, defined as an increase from baseline of at least 1.4 ng/mL, or PSA greater than 4 ng/mL, led to discontinuation in 4.6% of the 283 patients in the 2 clinical studies.
+
+Cardiovascular Outcomes
+
+TRAVERSE was a randomized, double-blind, cardiovascular outcomes study to assess the cardiovascular (CV) safety of topical testosterone gel compared to placebo in 5198 hypogonadal men aged 45 to 80 years with a history of CV disease or with multiple CV risk factors.
+The primary outcome was the incidence of the composite endpoint of major adverse cardiovascular events (MACE), consisting of CV death, non-fatal myocardial infarction (MI), and non-fatal stroke.
+
+The mean duration of therapy was approximately 22 months.
+The mean duration of follow-up was 33 months.
+Approximately 61% of all patients discontinued topical testosterone gel or placebo therapy.
+
+The mean patient age (±SD) was 63.3 (7.9) years.
+Approximately 80% of patients were White, 17% were Black, and 3% were of other races or ethnic groups.
+Approximately 69%, 84%, and 93% had diabetes mellitus, hyperlipidemia, and hypertension, respectively.
+Approximately 55% had preexisting cardiovascular disease.
+
+The mean serum testosterone concentration at baseline in patients receiving topical testosterone gel was 220.4 ng/dL (n=2129).
+The mean serum testosterone concentrations at 12 months, 24 months, 36 months, and 48 months in patients receiving topical testosterone gel were 440.5 ng/dL (n=1683), 420.9 ng/dl (n=1125), 428.7 ng/dL (n=731), and 365.2 ng/dL (n=220), respectively.
+
+For patients treated with topical testosterone gel, the incidence of MACE was 7.0% (n=182 events) and for those receiving placebo, the incidence of MACE was 7.3% (n=190 events).
+The study demonstrated noninferiority of topical testosterone gel versus placebo because the upper bound of 95% CI was less than the prespecified risk margin, of 1.5 for MACE (Hazard Ratio 0.96 [95% CI: 0.78, 1.17]).
+
+Additional Adverse Reactions Reported in TRAVERSE
+
+Additional adverse reactions reported in TRAVERSE at an incidence rate >2% in either treatment group and greater in topical testosterone gel versus placebo included: nonfatal arrythmias warranting intervention (5.2% vs 3.3%), atrial fibrillation (3.5% vs 2.4%), acute kidney injury (2.3% vs 1.5%) and bone fracture (3.5% vs 2.5%).
+For the adverse reaction of bone fracture, each event was adjudicated by clinical review.
