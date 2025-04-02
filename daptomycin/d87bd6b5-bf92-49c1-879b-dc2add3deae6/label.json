@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA217630"
+  ],
+  "inn": "daptomycin",
+  "labeler": "MAIA Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70511-181-10",
+    "70511-181-84",
+    "70511-182-15",
+    "70511-182-84"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "Daptomycin"
+    }
+  ],
+  "setid": "d87bd6b5-bf92-49c1-879b-dc2add3deae6",
+  "source": "dailymed"
+}
