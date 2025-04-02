@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA211488"
+  ],
+  "inn": "leuprolide",
+  "labeler": "Accord BioPharma, Inc.",
+  "package_ndcs": [
+    "69448-023-63"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, EMULSION",
+      "generic": "leuprolide",
+      "name": "CAMCEVI"
+    }
+  ],
+  "setid": "cbff25e5-6fe8-4e44-b10a-8397b3349905",
+  "source": "dailymed"
+}
