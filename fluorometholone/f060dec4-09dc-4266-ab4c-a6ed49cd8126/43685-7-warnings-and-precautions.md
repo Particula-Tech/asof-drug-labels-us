@@ -1,0 +1,58 @@
+# WARNINGS
+
+FOR TOPICAL OPHTHALMIC USE.
+NOT FOR INJECTION.
+Use in the treatment of herpes simplex infection requires great caution.
+Prolonged use may result in glaucoma, damage to the optic nerve, defect in visual acuity and visual field, cataract formation and/or may aid in the establishment of secondary ocular infections from pathogens due to suppression of host response.
+Acute purulent infections of the eye may be masked or exacerbated by presence of steroid medication.
+Topical ophthalmic corticosteroids may slow corneal wound healing.
+In those diseases causing thinning of the cornea or sclera, perforation has been known to occur with chronic use of topical steroids.
+If these products are used for 10 days or longer, intraocular pressure (IOP) should be routinely monitored even though it may be difficult in children and uncooperative patients.
+
+# PRECAUTIONS
+
+## General
+
+Fungal infections of the cornea are particularly prone to develop coincidentally with long-term local steroid application.
+Fungus invasion must be considered in any persistent corneal ulceration where a steroid has been used or is in use.
+
+## Prescription Guidelines
+
+The initial prescription and renewal of the medication order should be made by a physician only after examination of the patient with the aid of magnification, such as slit lamp biomicroscopy, and, where appropriate, fluorescein staining.
+If signs and symptoms fail to improve after 2 days, the patient should be re-evaluated.
+
+Not more than one bottle should be prescribed initially, and the prescription should not be refilled without further evaluation.
+
+## Information for Patients
+
+Do not touch dropper tip to any surface, as this may contaminate the suspension.
+The preservative in FLAREX ®(fluorometholone acetate ophthalmic suspension) 0.1%, benzalkonium chloride, may be absorbed by soft contact lenses.
+Contact lenses should be removed during instillation of FLAREX (fluorometholone acetate ophthalmic suspension) 0.1% but may be reinserted 15 minutes after instillation.
+
+Patients should be advised that their vision may be temporarily blurred following dosing with FLAREX ®(fluorometholone acetate ophthalmic suspension) 0.1%.
+Care should be exercised in operating machinery or driving a motor vehicle.
+
+## Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+No studies have been conducted in animals or in humans to evaluate the possibility of these effects with fluorometholone.
+
+## Pregnancy
+
+Fluorometholone has been shown to be embryocidal and teratogenic in rabbits when administered at low multiples of the human ocular dose.
+Fluorometholone was applied ocularly to rabbits daily on days 6-18 of gestation, and dose-related fetal loss and fetal abnormalities including cleft palate, deformed rib cage, anomalous limbs and neural abnormalities such as encephalocele, craniorachischisis, and spina bifida were observed.
+There are no adequate and well controlled studies of fluorometholone in pregnant women, and it is not known whether fluorometholone can cause fetal harm when administered to a pregnant woman.
+Fluorometholone should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+
+## Nursing Mothers
+
+Systemically administered corticosteroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
+It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
+Because many drugs are excreted in human milk, caution should be exercised when FLAREX (fluorometholone acetate ophthalmic suspension) 0.1%, is administered to a nursing woman.
+
+## Pediatric Use
+
+Safety and effectiveness in pediatric patients have not been established.
+
+## Geriatric Use
+
+No overall differences in safety or effectiveness have been observed between elderly and younger patients.

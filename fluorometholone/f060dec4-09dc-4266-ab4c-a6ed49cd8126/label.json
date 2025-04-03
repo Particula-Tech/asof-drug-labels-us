@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA019079"
+  ],
+  "inn": "fluorometholone",
+  "labeler": "Harrow Eye, LLC",
+  "package_ndcs": [
+    "82667-010-00",
+    "82667-010-01"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION/ DROPS",
+      "generic": "fluorometholone acetate",
+      "name": "Flarex"
+    }
+  ],
+  "setid": "f060dec4-09dc-4266-ab4c-a6ed49cd8126",
+  "source": "dailymed"
+}
