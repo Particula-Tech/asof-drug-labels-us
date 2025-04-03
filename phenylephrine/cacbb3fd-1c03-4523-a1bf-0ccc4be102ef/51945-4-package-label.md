@@ -22,3 +22,13 @@ NDC 0065-0349-04 15mL 300066880-0924
 Principal Display Panel Text for Carton Label:
 
 NDC 0065-0349-04 15mL 300066872-0924 SN: LOT: EXP.: GTIN: 00300650349048
+
+Principal Display Panel Text for Container Label: NDC 0065-0343-02 Phenylephrine Hydrochloride Ophthalmic Solution, USP 10% FOR TOPICAL APPLICATION IN THE EYE Sterile Rx only Alcon 5 mL Each mL contains: Active: Phenylephrine Hydrochloride (10%); Inactives: Sodium Phosphate Dibasic, Sodium Phosphate Monobasic, Sodium Hydroxide and/or Phosphoric Acid may be added to adjust pH (4.0 to 7.5) and Water for Injection q.s.; Preservative: Benzalkonium Chloride 0.1 mg (0.01%).
+Dosage: see Prescribing Information.
+Storage: Store at 20ºC to 25ºC (68ºF to 77ºF).
+Keep container tightly closed.
+Do not use if solution is brown or contains a precipitate.
+DO NOT USE IF IMPRINTED SEAL IS BROKEN OR MISSING.
+ALCON LABORATORIES, INC. Fort Worth, Texas 76134 USA LOT: EXP.: 30006 7943-0225
+
+Principal Display Panel Text for Carton Label: NDC 0065-343-02 KEEP OUT OF REACH OF CHILDREN ALCON LABORATORIES, INC. 6201 South Freeway Fort Worth, Texas 76134 USA 1-800-757-9195 alcon.medinfor@alcon.com Printed in USA SN: LOT: EXP.: GTIN: 00300650343022 300067876-0225

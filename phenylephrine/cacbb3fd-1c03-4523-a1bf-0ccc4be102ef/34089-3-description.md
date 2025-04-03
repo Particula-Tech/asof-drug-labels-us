@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Phenylephrine Hydrochloride Ophthalmic Solution, USP is a sterile, clear, colorless, topical α-adrenergic agonist for ophthalmic use.
+Phenylephrine Hydrochloride Ophthalmic Solution, USP is a sterile, clear, colorless to yellow, topical α-adrenergic agonist for ophthalmic use.
 The active ingredient is represented by the chemical structure
 
 Chemical Name: (R)-3-hydroxy-α[(methylamino)methyl]benzenemethanol hydrochloride.
