@@ -1,6 +1,6 @@
 # 4. CONTRAINDICATIONS
 
-Natesto is contraindicated in men with carcinoma of the breast or known or suspected carcinoma of the prostate [see Warnings and Precaution (5.3)].
+Natesto is contraindicated in men with carcinoma of the breast or known or suspected carcinoma of the prostate [see Warnings and Precaution (5.5)].
 
 Natesto is contraindicated in women who are or who may become pregnant, or who are breast- feeding.
 Natesto may cause fetal harm when administered to a pregnant woman.
