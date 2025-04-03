@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 15 g Bulk Vial Label
 
-Pfizer Injectables
+Pfizer
 
 NDC 0049-0024-28 Rx only
 
@@ -28,4 +28,4 @@ Sterile
 
 For Intravenous Use
 
-Pfizer Injectables
+Pfizer
