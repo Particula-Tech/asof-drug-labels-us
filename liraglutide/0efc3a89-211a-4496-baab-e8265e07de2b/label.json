@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA218115"
+  ],
+  "inn": "liraglutide",
+  "labeler": "Meitheal Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "71288-563-84",
+    "71288-563-85"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "liraglutide",
+      "name": "Liraglutide"
+    }
+  ],
+  "setid": "0efc3a89-211a-4496-baab-e8265e07de2b",
+  "source": "dailymed"
+}

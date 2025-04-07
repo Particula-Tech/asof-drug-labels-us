@@ -1,0 +1,212 @@
+# INSTRUCTIONS FOR USE
+
+Liraglutide Injection
+
+If you are having problems using your Liraglutide Injection pen, call toll free 1-844-824-8426 or visit www.meithealpharma.com.
+
+First read the Medication Guide that comes with your Liraglutide Injection single-patient-use pen and then read this Instructions for Use for information about how to use your Liraglutide Injection pen the right way.
+
+These instructions do not take the place of talking with your healthcare provider about your medical condition or your treatment.
+
+Do not share your Liraglutide Injection pen with other people, even if the needle has been changed.
+You may give other people a serious infection, or get a serious infection from them.
+
+Your Liraglutide Injection pen is a disposable single-patient-use pre-filled pen injector that contains 3 mL of Liraglutide Injection and will deliver doses of 0.6 mg, 1.2 mg or 1.8 mg.
+The number of doses that you can take with a Liraglutide Injection pen depends on the dose of medicine that is prescribed for you.
+Your healthcare provider will tell you how much Liraglutide Injection to take.
+
+Talk to your healthcare provider or pharmacist for more information about needles for your Liraglutide Injection pen.
+
+Important Information
+
+Δ Always use a new needle for each injection to prevent contamination.
+
+Δ Always remove the needle after each injection, and store your pen without the needle attached.
+This reduces the risk of contamination, infection, leakage of liraglutide, blocked needles and inaccurate dosing.
+
+Δ Keep your Liraglutide Injection pen and all medicines out of the reach of children.
+
+Δ If you drop your Liraglutide Injection pen, repeat “ First Time Use For Each New Pen” (steps A through D).
+
+Δ Be careful not to bend or damage the needle.
+
+Δ Do not use the cartridge scale to measure how much Liraglutide Injection to inject.
+
+Δ Be careful when handling used needles to avoid needle stick injuries.
+
+Δ You can use your Liraglutide Injection pen for up to 30 days after you use it the first time.
+
+Supplies you will need to give your Liraglutide Injection:
+
+- Liraglutide Injection pen
+- a new disposable needle
+- alcohol swab
+- cotton ball or gauze
+- sharps disposal container for throwing away used Liraglutide Injection pens and needles.
+
+See “Remove and Dispose of the Needle” at the end of these instructions.
+
+First Time Use for Each New Pen
+
+Step A. Check the Pen
+
+- Take your new Liraglutide Injection pen out of the refrigerator.
+- Wash hands with soap and water before use.
+- Check pen label before each use to make sure it is your Liraglutide Injection pen.
+- Pull off pen cap (See Figure A).
+
+- Check Liraglutide Injection in the cartridge.
+  The liquid should be clear, colorless and free of particles.
+  If not, do not use.
+- Wipe the rubber stopper with an alcohol swab.
+
+Step B. Attach the Needle
+
+- Remove protective tab from outer needle cap.
+- Push outer needle cap containing the needle straight onto the pen, then screw needle on until secure.
+  (See Figure B).
+
+- Pull off outer needle cap.
+  (See Figure C). Do not throw away.
+
+- Pull off inner needle cap and throw away.
+  (See Figure D). A small drop of liquid may appear.
+  This is normal.
+
+Step C. Dial to the Flow Check Symbol
+
+This step is done only One Time for each new pen and is Onlyrequired the first time you use a new pen.
+
+- Turn dose selector until the black line in front of flow check symbol () appears centered within the notch in the dose display (See Figure E). The flow check symbol does not administer the dose as prescribed by your healthcare provider.
+
+- To select the dose prescribed by your healthcare provider, continue to Step Gunder “ Routine Use”.
+
+Step D. Prepare the Pen
+
+- Hold pen with needle pointing up.
+- Tap cartridge gently with your finger a few times to bring any air bubbles to the top of the cartridge (See Figure F).
+
+- Keep needle pointing up and press dose button until the black line in front of 0 appears centered within the notch in the dose display (See Figure G). Repeat steps Cand D, up to 6 times, until a drop of Liraglutide Injection appears at the needle tip.
+
+If you still see no drop of Liraglutide Injection, use a new pen and contact Meitheal Pharmaceuticals at 1-844-824-8426.
+
+Continue to Step G under "Routine Use"→
+
+Routine Use
+
+Step E. Check the Pen
+
+- Take your Liraglutide Injection pen from where it is stored.
+- Wash hands with soap and water before use.
+- Check pen label before each use to make sure it is your Liraglutide Injection pen.
+- Pull off pen cap (See Figure H).
+
+- Check Liraglutide Injection in the cartridge.
+  The liquid should be clear, colorless and free of particles.
+  If not, do not use.
+- Wipe the rubber stopper with an alcohol swab.
+
+Step F. Attach the Needle
+
+- Remove protective tab from outer needle cap.
+- Push outer needle cap containing the needle straight onto the pen, then screw needle on until secure (See Figure I).
+
+- Pull off outer needle cap.
+  Do not throw away (See Figure J).
+
+- Pull off inner needle cap and throw away (See Figure K). A small drop of liquid may appear.
+  This is normal.
+
+Step G. Dial the Dose
+
+- Liraglutide Injection pen can give a dose of 0.6 mg (starting dose), 1.2 mg or 1.8 mg.
+  Be sure that you know the dose of Liraglutide Injection that is prescribed for you.
+- Turn the dose selector until the black line in front of your needed dose appears centered within the notch in the dose display (0.6 mg, 1.2 mg or 1.8 mg) (See Figure L).
+
+- You will hear a "click" every time you turn the dose selector.
+  Do not set the dose by counting the number of clicks you hear.
+- If you select a wrong dose, change it by turning the dose selector backwards or forwards until the black line in front of the correct dose appears centered within the notch in the dose display.
+  Be careful not to press the dose button when turning the dose selector.
+  This may cause Liraglutide Injection to come out.
+
+Step H. Injecting the Dose
+
+- Choose your injection site in either the stomach (abdomen), thigh, or upper arm (only if caregiver administered) and wipe the skin with an alcohol swab (See Figure M). Let the injection site dry before you inject your dose.
+
+- Insert needle into your skin using the injection technique shown to you by your healthcare provider.
+  Do not inject Liraglutide Injection into a vein or muscle.
+- Press down on the center of the dose button to inject until the black line in front of 0 appears centered within the notch in the dose display (See Figure N).
+
+- Be careful not to touch the dose display with your other fingers.
+  This may block the injection.
+- Keep the dose button pressed down and make sure that you keep the needle under the skin for a full count of 6 seconds to make sure the full dose is injected.
+  Keep your thumb on the injection button until you remove the needle from your skin (See Figure O).
+
+- Change (rotate) your injection sites within the area you choose for each dose.
+  Do notuse the same injection site for each injection.
+
+Step I. Withdraw Needle
+
+- You may see a drop of Liraglutide Injection at the needle tip.
+  This is normal and it does not affect the dose you just received.
+  If blood appears after you take the needle out of your skin, apply light pressure with a cotton ball or gauze, but do not rub the area(See Figure P).
+
+Step J. Remove and Dispose of the Needle
+
+- Carefully put the outer needle cap over the needle (See Figure Q). Unscrew the needle.
+
+- Safely remove the needle from your Liraglutide Injection pen after each use.
+- Put your used Liraglutide Injection pen and needles in a FDA-cleared sharps disposal container right away after use.
+  Do not throw away (dispose of) loose needles and pens in your household trash.
+- If you do not have a FDA-cleared sharps disposal container, you may use a household container that is:
+  - made of a heavy-duty plastic
+  - can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out
+  - upright and stable during use
+  - leak-resistant
+  - properly labeled to warn of hazardous waste inside the container
+- When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container.
+  There may be state or local laws about how you should throw away used needles and syringes.
+  Do not reuse or share your needles with other people.
+  For more information about the safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.
+- Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+  Do not recycle your used sharps disposal container.
+
+Caring for your Liraglutide Injection pen
+
+- After removing the needle, put the pen cap on your Liraglutide Injection pen and store your Liraglutide Injection pen without the needle attached (See Figure R).
+
+- Do not try to refill your Liraglutide Injection pen - it is pre-filled and is disposable.
+- Do not try to repair your pen or pull it apart.
+- Keep your Liraglutide Injection pen away from dust, dirt and liquids.
+- If cleaning is needed, wipe the outside of the pen with a clean, damp cloth.
+
+How should I store Liraglutide Injection?
+
+Before use:
+
+- Store your new, unused Liraglutide Injection pen in the refrigerator between 36° to 46°F (2° to 8°C).
+- If Liraglutide Injection is stored outside of refrigeration (by mistake) prior to first use, it should be used or thrown away within 30 days.
+- Do not freeze Liraglutide Injection or use Liraglutide Injection if it has been frozen.
+  Do not store Liraglutide Injection near the refrigerator cooling element.
+
+Pen in use:
+
+- Use a Liraglutide Injection pen for only 30 days.
+  Throw away a used Liraglutide Injection pen 30 days after you start using it, even if some medicine is left in the pen.
+- Store your Liraglutide Injection pen at room temperature between 59° to 86°F (15° to 30°C), or in a refrigerator between 36° to 46°F (2° to 8°C).
+- When carrying the pen away from home, store the pen at room temperature between 59° to 86°F (15° to 30°C).
+- If Liraglutide Injection has been exposed to temperatures above 86°F (30°C), it should be thrown away.
+- Protect your Liraglutide Injection pen from heat and sunlight.
+- Keep the pen cap on when your Liraglutide Injection pen is not in use.
+- Always remove the needle after each injection and store your pen without the needle attached.
+  This reduces the risk of contamination, infection, leakage and inaccurate dosing.
+
+meitheal ® Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2025 Meitheal Pharmaceuticals Inc.
+
+Mfd. by Nanjing King-Friend Biochemical Pharmaceutical Co., Ltd. Nanjing, China 210061
+
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+
+March 2025
+
+8N3AAMK-02
