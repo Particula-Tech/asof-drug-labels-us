@@ -7,7 +7,7 @@ It is a yellow crystalline powder and is insoluble in water.
 The chemical structure is:
 
 Amitriptyline hydrochloride, USP is a dibenzocycloheptadiene derivative.
-The formula is 10,11-dihydro-N,N-dimethyl-5H-dibenzo[a,d]cycloheptene-Δ5,g-propylamine hydrochloride.
+The formula is 10,11-dihydro-N,N-dimethyl-5H-dibenzo[a,d]cycloheptene-Δ5,γ-propylamine hydrochloride.
 It is a white or practically white crystalline powder that is freely soluble in water.
 The chemical structure is:
 

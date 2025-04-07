@@ -68,6 +68,16 @@ Consider changing the therapeutic regimen, including possibly discontinuing chlo
 In patients with bipolar disorder, treating a depressive episode with chlordiazepoxide and amitriptyline hydrochloride tablets or another antidepressant may precipitate a mixed/manic episode.
 Prior to initiating treatment with chlordiazepoxide and amitriptyline hydrochloride tablets, screen patients for any personal or family history of bipolar disorder, mania, or hypomania.
 
+## Hyponatremia
+
+Hyponatremia has occurred as a result of treatment with chlordiazepoxide and amitriptyline hydrochloride tablets.
+In many cases, hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
+Signs and symptoms associated with more severe and/or acute cases have included syncope, seizure, coma, respiratory arrest, and death.
+
+In patients with symptomatic hyponatremia, discontinue chlordiazepoxide and amitriptyline hydrochloride tablets and institute appropriate medical intervention.
+Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia with chlordiazepoxide and amitriptyline hydrochloride tablets.
+
 ## Angle-Closure Glaucoma
 
 The pupillary dilation that occurs following use of many antidepressant drugs including chlordiazepoxide and amitriptyline hydrochloride tablets may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.

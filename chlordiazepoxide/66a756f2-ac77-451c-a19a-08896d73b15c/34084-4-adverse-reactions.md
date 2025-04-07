@@ -29,4 +29,4 @@ Gastrointestinal: Nausea, epigastric distress, vomiting, anorexia, stomatitis, p
 
 Endocrine: Testicular swelling and gynecomastia in the male, breast enlargement, galactorrhea and minor menstrual irregularities in the female, elevation and lowering of blood sugar levels, and syndrome of inappropriate ADH (antidiuretic hormone) secretion.
 
-Other: Headache, weight gain or loss, increased perspiration, urinary frequency, mydriasis, jaundice, alopecia, parotid swelling.
+Other: Headache, weight gain or loss, increased perspiration, urinary frequency, mydriasis, jaundice, alopecia, parotid swelling, hyponatremia.
