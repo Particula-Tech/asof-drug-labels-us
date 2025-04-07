@@ -70,9 +70,9 @@ Philadelphia, PA 19136
 
 Dispense with Medication Guide available at: www.lannett.com/med-guide/esomeprazole
 
-CIA77977H
+CIA77977J
 
 Rev.
-07/2023
+03/2025
 
 All brand names are the trademarks of their respective owners.

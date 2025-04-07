@@ -125,7 +125,7 @@ Table 12: Cumulative Percentage of Patients at Least 60 Years of Age Taking NSAI
 |  | 257 | Placebo | 83.3 |
 | 1.%= Life Table Estimate. Significant difference from placebo (p<0.01). |  |  |  |
 
-## 14.6 H. pylori Eradication in Adult Patients with Duodenal Ulcer Disease
+## 14.6 H.pylori Eradication in Adult Patients with Duodenal Ulcer Disease
 
 Two multicenter, randomized, double-blind studies were conducted in adult patients using a 10-day treatment regimen of triple therapy (Esomeprazole Magnesium Delayed-release Capsules, amoxicillin and clarithromycin).
 The first study (191) compared Esomeprazole Magnesium Delayed-release Capsules 40 mg once daily in combination with amoxicillin 1000 mg twice daily and clarithromycin 500 mg twice daily to Esomeprazole Magnesium Delayed-release Capsules 40 mg once daily plus clarithromycin 500 mg twice daily.
@@ -138,9 +138,9 @@ Table 13: H. pylori Eradication Rates at 4 Weeks after 10 Day Treatment Regimen 
 | Study | Treatment Group | Per-Protocol1 | Intent-to-Treat2 |
 | --- | --- | --- | --- |
 | 191 | Esomeprazole Magnesium Delayed-release Capsules, amoxicillin and clarithromycin | 84%3[78, 89] (n=196) | 77%3[71, 82] (n=233) |
-|  | Esomeprazole Magnesium Delayed-release Capsules and clarithromycin | 55%[48, 62](n=187) | 52%[45, 59](n=215) |
-| 193 | Esomeprazole Magnesium Delayed-release Capsules, amoxicillin and clarithromycin | 85%4[74, 93](n=67) | 78%4[67, 87](n=74) |
-|  | Esomeprazole Magnesium Delayed-release Capsules | 5%[0, 23](n=22) | 4%[0, 21](n=24) |
+|  | Esomeprazole Magnesium Delayed-release Capsules and clarithromycin | 55%[48, 62] (n=187) | 52%[45, 59] (n=215) |
+| 193 | Esomeprazole Magnesium Delayed-release Capsules, amoxicillin and clarithromycin | 85%4[74, 93] (n=67) | 78%4[67, 87] (n=74) |
+|  | Esomeprazole Magnesium Delayed-release Capsules | 5%[0, 23] (n=22) | 4%[0, 21] (n=24) |
 
 1.
 Patients were included in the analysis if they had H. pylori infection documented at baseline, had at least one endoscopically verified duodenal ulcer ≥ 0.5 cm in diameter at baseline or had a documented history of duodenal ulcer disease within the past 5 years, and were not protocol violators.
