@@ -18,4 +18,6 @@ White Opaque Hard gelatin capsule shell Size #3, imprinted with black ink as "01
 
 NDC 0254-3022-02 Bottles of 60 capsules with child-resistant closure and tamper resistant induction sealing
 
-Store at room temperature between 20°C to 25°C (68°F to 77°F), excursions permitted to 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
+Store at room temperature between
+
+20°C to 25°C (68°F to 77°F), excursions permitted to 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].

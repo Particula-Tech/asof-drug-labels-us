@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-## 6.1 Clinical trials experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
@@ -16,30 +16,14 @@ Six patients had thrombocytopenia, three of which had platelet counts 30,000/mic
 In 4 patients with thrombocytopenia, platelet counts gradually returned to normal (duration up to 47 days) without change in nitisinone dose.
 No patients developed infections or bleeding as a result of the episodes of leukopenia and thrombocytopenia.
 
-Patients with HT- 1 are at increased risk of developing porphyric crises, hepatic neoplasms, and liver failure requiring liver transplantation.
+Patients with HT-1 are at increased risk of developing porphyric crises, hepatic neoplasms, and liver failure requiring liver transplantation.
 These complications of HT-1 were observed in patients treated with nitisinone for a median of 22 months during the clinical trial (liver transplantation 13%, liver failure 7%, malignant hepatic neoplasms 5%, benign hepatic neoplasms 3%, porphyria 1%).
 
 The most common adverse reactions reported in the clinical trial are summarized in Table 1.
 
 | TABLE 1 Most Common Adverse Reactions in Patients with HT-1 Treated with Nitisinone* |  |
 | --- | --- |
-| Elevated tyrosine levels | >10% |
-| Leukopenia | 3% |
-| Thrombocytopenia | 3% |
-| Conjunctivitis | 2% |
-| Corneal opacity | 2% |
-| Keratitis | 2% |
-| Photophobia | 2% |
-| Eye pain | 1% |
-| Blepharitis | 1% |
-| Cataracts | 1% |
-| Granulocytopenia | 1% |
-| Epistaxis | 1% |
-| Pruritus | 1% |
-| Exfoliative dermatitis | 1% |
-| Dry skin | 1% |
-| Maculopapular rash | 1% |
-| Alopecia | 1% |
+| Elevated tyrosine levels Leukopenia Thrombocytopenia Conjunctivitis Corneal opacity Keratitis Photophobia Eye pain Blepharitis Cataracts Granulocytopenia Epistaxis Pruritus Exfoliative dermatitis Dry skin Maculopapular rash Alopecia | >10% 3% 3% 2% 2% 2% 2% 1% 1% 1% 1% 1% 1% 1% 1% 1% 1% |
 
 *reported in at least 1% of patients
 

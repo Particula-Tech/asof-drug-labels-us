@@ -1,11 +1,19 @@
-PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 2mg Label
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 2mg Carton
+Nitisinone Capsules 2 mg
 
-PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 5mg Label
+NDC 0254-3020-02 Bottles of 60 capsules Container label
 
-PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 5mg Carton
+Carton label
 
-PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 10mg Label
+Nitisinone Capsules 5 mg
 
-PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 10mg Carton
+NDC 0254-3021-02 Bottles of 60 capsules Container label
+
+Carton label
+
+Nitisinone Capsules 10 mg
+
+NDC 0254-3022-02 Bottles of 60 capsules Container label
+
+Carton label

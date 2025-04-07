@@ -1,8 +1,8 @@
-# 17 PATIENT COUNSELLING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Administration [see Dosage and Administration (2.2)]
 
-Administration of Nitisinone Capsules
+Administration of nitisinone capsules
 
 - Maintain dietary restriction of tyrosine and phenylalanine when taking nitisinone.
 - Capsules: Take at least one hour before, or two hours after a meal.
@@ -13,8 +13,20 @@ Elevated Plasma Tyrosine Levels, Ocular Symptoms, Developmental Delay and Hyperk
 - Inform patients that inadequate restriction may be associated with ocular signs and symptoms, intellectual disability and developmental delay, and painful hyperkeratotic plaques on the soles and palms.
   Advise patients and caregivers of the need to maintain dietary restriction of tyrosine and phenylalanine and to report any unexplained ocular, neurologic, or other symptoms promptly to their healthcare provider [see Warnings and Precautions (5.1)].
 
-Manufactured by: Novitium Pharma LLC 70 Lake Drive, East Windsor New Jersey 08520
+Manufactured by:
 
-Distributed by: Par Pharmaceutical Chestnut Ridge, NY 10977
+Novitium Pharma LLC
 
-Revised: August, 2019
+70 Lake Drive, East Windsor
+
+New Jersey 08520
+
+Manufactured for:
+
+Endo USA
+
+Malvern, PA 19355
+
+Revised: March, 2025
+
+OS3020-01-16-04
