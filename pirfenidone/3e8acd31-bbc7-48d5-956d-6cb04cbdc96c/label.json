@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA212748"
+  ],
+  "inn": "pirfenidone",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-461-38",
+    "33342-461-58",
+    "33342-461-82"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "pirfenidone capsule, 267 mg",
+      "name": "Pirfenidone Capsule, 267 mg"
+    }
+  ],
+  "setid": "3e8acd31-bbc7-48d5-956d-6cb04cbdc96c",
+  "source": "dailymed"
+}

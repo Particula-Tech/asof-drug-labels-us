@@ -1,0 +1,53 @@
+# Patient Information
+
+Patient Information Pirfenidone (pir fen'i done) Capsules, USP What are pirfenidone capsules? • Pirfenidone capsules are a prescription medicine used to treat people with a lung disease called idiopathic pulmonary fibrosis (IPF). • It is not known if pirfenidone capsules are safe and effective in children.
+Before you take pirfenidone capsules, tell your doctor about all of your medical conditions, including if you: • have liver problems • have kidney problems • are a smoker • are pregnant or plan to become pregnant.
+It is not known if pirfenidone capsules will harm your unborn baby. • are breastfeeding or plan to breastfeed.
+It is not known if pirfenidone passes into your breast milk.
+You and your doctor should decide if you will take pirfenidone capsules.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+How should I take pirfenidone capsules? • Take pirfenidone capsules exactly as your doctor tells you to take it. • Your doctor may change your dose of pirfenidone capsules as needed. • Take pirfenidone capsules with food at the same time each day.
+This may help to decrease your nausea and dizziness. • Pirfenidone capsules 267 mg are supplied as a white to off-white capsule.
+If you have been prescribed pirfenidone capsules 267 mg, take it as follows: o Take 1 pirfenidone capsules 267 mg 3 times each day for days 1 through 7. o Take 2 pirfenidone capsules 267 mg 3 times each day for days 8 through 14. o Take 3 pirfenidone capsules 267 mg capsule 3 times each day on day 15 and each day after.
+
+| Pirfenidone Capsules 267 mg Dosing Schedule |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Week | Morning (Breakfast) | Afternoon (Lunch) | Evening (Dinner) | Total Pills Each Day |
+| Days 1-7 | 1 | 1 | 1 | 3 |
+| Days 8-14 | 2 | 2 | 2 | 6 |
+| Days 15 onward | 3 | 3 | 3 | 9 |
+
+• If you miss 14 days or more of pirfenidone capsules call your doctor right away for further instructions about how to take your medicine. • Do not take 2 doses at the same time to make up for your missed dose. • Do not take more than 3 doses each day. • If you take too much pirfenidone capsules, call your doctor or go to the nearest hospital emergency room right away. • Your doctor should do certain blood tests before you start taking pirfenidone capsules.
+What should I avoid while taking pirfenidone capsules? • Avoid sunlight.
+Pirfenidone capsules can make your skin sensitive to the sun and the light from sunlamps and tanning beds.
+You could get a severe sunburn.
+Use sunscreen (SPF 50) and wear a hat and clothes that cover your skin if you have to be in sunlight.
+Talk to your doctor if you get sunburn or a rash. • Avoid taking pirfenidone capsules with other medicines that can make your skin sensitive to the sun, the light from sunlamps and tanning beds. • Avoid smoking.
+Smoking may affect how well pirfenidone capsule works.
+What are the possible side effects of pirfenidone capsules?
+Pirfenidone capsules may cause serious side effects, including: • liver problems.
+Call your doctor right away if you have unexplained symptoms such as yellowing of your skin or the white part of your eyes (jaundice), dark or brown (tea colored) urine, pain on the upper right side of your stomach area (abdomen), bleeding or bruising more easily than normal, feeling tired.
+Your doctor will do blood tests to check how your liver is working during your treatment with pirfenidone capsules. • sensitivity to sunlight (photosensitivity) and rash.
+See “What should I avoid while taking pirfenidone capsules?” • severe skin reactions.
+Call your doctor right away if you have a severe skin reaction such as skin blisters, rash, sores in the mouth, hives or any other severe skin symptoms.
+Your doctor may stop your treatment with pirfenidone capsules. • stomach problems.
+Pirfenidone capsules may cause stomach problems such as nausea, vomiting, diarrhea, indigestion, heartburn, and stomach pain.
+Tell your doctor right away if your stomach problems get worse or do not go away.
+Your doctor may need to change your dose of pirfenidone capsules.
+The most common side effects of pirfenidone capsules include feeling tired, insomnia, upper respiratory tract infections, sinusitis, headache, dizziness, decreased weight and decreased or loss of appetite.
+These are not all the possible side effects of pirfenidone capsules.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+How should I store pirfenidone capsules? • Store pirfenidone capsules at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature] • Keep in a tightly closed container.
+Safely throw away any pirfenidone capsules that are out of date or no longer needed.
+Keep pirfenidone capsules and all medicines out of reach of children.
+General information about the safe and effective use of pirfenidone capsules.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use pirfenidone capsules for a condition for which it was not prescribed.
+Do not give pirfenidone capsules to other people, even if they have the same symptoms that you have.
+It may harm them.
+You can ask your pharmacist or doctor for information about pirfenidone capsules that is written for health professionals.
+What are the ingredients in pirfenidone capsules?
+Active ingredient: pirfenidone Inactive ingredients: croscarmellose sodium, magnesium stearate, and pregelatinized starch.
+Capsule Shell: gelatin and titanium dioxide Capsule Brown Printing Ink: ammonium hydroxide, iron oxide black, iron oxide brown, potassium hydroxide, propylene glycol, shellac.
+For more information, call Macleods Pharma USA, Inc., at 1-888-943-3210 or 1-855-926-3384 This Patient Information has been approved by the U.S. Food and Drug Administration Revised: April 2025
