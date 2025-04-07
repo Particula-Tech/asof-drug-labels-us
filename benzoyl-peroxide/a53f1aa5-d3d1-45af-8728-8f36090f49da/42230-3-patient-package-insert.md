@@ -1,6 +1,6 @@
 # Patient Information Adapalene and Benzoyl Peroxide Gel 0.1%/2.5%
 
-Important: For use on the skin only (topical).
+Important:For use on the skin only (topical).
 Do not use adapalene and benzoyl peroxide gel in or on your mouth, eyes, or vagina.
 
 Read this Patient Information leaflet about adapalene and benzoyl peroxide gel before you start using it and each time you get a refill.
@@ -29,7 +29,7 @@ Before you use adapalene and benzoyl peroxide gel, tell your doctor if you:
   It is not known if adapalene and benzoyl peroxide gel passes into your breast milk and if it can harm your baby.
   Talk to your doctor about the best way to feed your baby if you use adapalene and benzoyl peroxide gel.
 
-Tell your doctor about all the medicines you take, including prescription and non-prescription medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take,including prescription and non-prescription medicines, vitamins and herbal supplements.
 
 Especially tell your doctor if you use any other medicine for acne.
 Using adapalene and benzoyl peroxide gel with topical medicines that contain sulfur, resorcinol or salicylic acid may cause skin irritation.

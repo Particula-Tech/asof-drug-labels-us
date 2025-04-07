@@ -18,10 +18,10 @@ Pharmacodynamics of adapalene and benzoyl peroxide gel is unknown.
 
 ## 12.3 Pharmacokinetics
 
-A pharmacokinetic study was conducted in 10 adult subjects with acne vulgaris who were treated once daily for 30 days with 2 grams/day of adapalene and benzoyl peroxide gel applied to 1000 cm2 of acne involved skin, (face, chest, and upper back).
+A pharmacokinetic study was conducted in 10 adult subjects with acne vulgaris who were treated once daily for 30 days with 2 grams/day of adapalene and benzoyl peroxide gel applied to 1000 cm 2of acne involved skin, (face, chest, and upper back).
 
 Two subjects (20%) had quantifiable adapalene plasma concentrations above the limit of quantification (LOQ = 0.1 ng/mL).
-The highest adapalene Cmax and AUC0-24h was 0.21 ng/mL and 1.99 ng∙h/mL, respectively.
+The highest adapalene C maxand AUC 0-24hwas 0.21 ng/mL and 1.99 ng∙h/mL, respectively.
 Excretion of adapalene appears to be primarily by the biliary route.
 Pharmacokinetics of adapalene and benzoyl peroxide gel in pediatric subjects have not been evaluated.
 

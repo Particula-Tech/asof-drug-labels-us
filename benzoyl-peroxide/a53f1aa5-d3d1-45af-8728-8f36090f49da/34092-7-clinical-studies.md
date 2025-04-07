@@ -46,5 +46,5 @@ In both Studies 1 and 2 the treatment effect was smaller in subjects with a smal
 | --- | --- | --- |
 | Study 3 |  |  |
 | IGA: Two Grade Improvement and Clear or Almost Clear | 67 (47.2%) | 22 (15.4%) |
-| Inflammatory Lesions: Mean Absolute (Percent) Change | 7.4 (36%) | 0.7 (-13.2%)- That is, a mean percent increase of 13.2% |
+| Inflammatory Lesions: Mean Absolute (Percent) Change | 7.4 (36%) | 0.7 (-13.2%) - That is, a mean percent increase of 13.2% |
 | Non-inflammatory Lesions: Mean Absolute (Percent) Change | 20.2 (54.7%) | 2.9 (2.3%) |
