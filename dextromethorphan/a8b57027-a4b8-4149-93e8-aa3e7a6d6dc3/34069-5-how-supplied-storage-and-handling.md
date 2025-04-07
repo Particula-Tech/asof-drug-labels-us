@@ -12,11 +12,11 @@ Dispense in a tight, light-resistant container with a child-resistant closure as
 
 Manufactured By: Tris Pharma, Inc. Monmouth Junction, NJ 08852
 
-www.trispharma.com
+For: Cranbury Pharmaceuticals, LLC Monmouth Junction, NJ 08852
 
 LB8077
 
 Rev.
-01
+02
 
-07/2021
+10/2024

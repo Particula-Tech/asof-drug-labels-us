@@ -39,7 +39,7 @@ There is no general agreement about specific pharmacological treatment regimens 
 
 Since recurrences of NMS have been reported with phenothiazines, the reintroduction of promethazine HCl should be carefully considered.
 
-## Use in Pediatric Patients
+## Use In Pediatric Patients
 
 PROMETHAZINE PRODUCTS ARE CONTRAINDICATED FOR USE IN PEDIATRIC PATIENTS LESS THAN TWO YEARS OF AGE.
 
@@ -155,7 +155,7 @@ Caution should be exercised when promethazine and dextromethorphan is administer
 
 PROMETHAZINE HYDROCHLORIDE AND DEXTROMETHORPHAN HYDROBROMIDE ORAL SOLUTION IS CONTRAINDICATED FOR USE IN PEDIATRIC PATIENTS LESS THAN TWO YEARS OF AGE (see WARNINGS – Black Box Warning and Use in Pediatric Patients).
 
-Promethazine Hydrochloride and Dextromethorphan Hydrobromide Oral Solution should be used with caution in pediatric patients 2 years of age and older (see WARNINGS – Use in Pediatric Patients).
+Promethazine Hydrochloride and Dextromethorphan Hydrobromide Oral Solution should be used with caution in pediatric patients 2 years of age and older (seeWARNINGS – Use in Pediatric Patients).
 
 ## Geriatric Use
 

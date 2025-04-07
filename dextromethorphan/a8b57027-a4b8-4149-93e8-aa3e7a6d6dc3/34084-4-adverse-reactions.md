@@ -2,7 +2,7 @@
 
 Dextromethorphan: Dextromethorphan hydrobromide occasionally causes slight drowsiness, dizziness, and gastrointestinal disturbances.
 
-Promethazine:Central Nervous System - Drowsiness is the most prominent CNS effect of this drug.
+Promethazine: Central Nervous System - Drowsiness is the most prominent CNS effect of this drug.
 Sedation, somnolence, blurred vision, dizziness; confusion, disorientation, and extrapyramidal symptoms such as oculogyric crisis, torticollis, and tongue protrusion; lassitude, tinnitus, incoordination, fatigue, euphoria, nervousness, diplopia, insomnia, tremors, convulsive seizures, excitation, catatonic-like states, hysteria.
 Hallucinations have also been reported.
 
