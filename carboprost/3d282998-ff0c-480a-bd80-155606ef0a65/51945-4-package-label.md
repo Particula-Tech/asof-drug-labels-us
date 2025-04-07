@@ -2,7 +2,7 @@
 
 1 mL
 
-NDC 0009-0856-05 Rx only
+1. NDC 0009-0856-05 Rx only
 
 Hemabate® carboprost tromethamine injection, USP
 

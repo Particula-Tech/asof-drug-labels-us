@@ -5,10 +5,10 @@ HEMABATE Sterile Solution, an oxytocic, contains the tromethamine salt of the (1
 Carboprost tromethamine is the established name for the active ingredient in HEMABATE.
 Four other chemical names are:
 
-1. (15S)-15-methyl prostaglandin F2α tromethamine salt
-2. 7-(3α,5α-dihydroxy-2ß-[(3S)-3-hydroxy-3-methyl-trans-1-octenyl]-1α-cyclopentyl]-cis-5-heptenoic acid compound with 2-amino-2-(hydroxymethyl)-1,3-propanediol
-3. (15S)-9α,11α,15-trihydroxy-15-methylprosta-cis-5, trans-13-dienoic acid tromethamine salt
-4. (15S)-15-methyl PGF2α-THAM
+1. 1.(15S)-15-methyl prostaglandin F2α tromethamine salt
+2. 2.7-(3α,5α-dihydroxy-2ß-[(3S)-3-hydroxy-3-methyl-trans-1-octenyl]-1α-cyclopentyl]-cis-5-heptenoic acid compound with 2-amino-2-(hydroxymethyl)-1,3-propanediol
+3. 3.(15S)-9α,11α,15-trihydroxy-15-methylprosta-cis-5, trans-13-dienoic acid tromethamine salt
+4. 4.(15S)-15-methyl PGF2α-THAM
 
 The structural formula is represented below:
 
