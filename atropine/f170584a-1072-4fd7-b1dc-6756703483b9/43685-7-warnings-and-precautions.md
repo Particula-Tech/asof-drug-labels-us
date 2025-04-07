@@ -51,7 +51,7 @@ Lomotil has caused atropinism (hyperthermia, tachycardia, urinary retention, flu
 Lomotil is not indicated for use in pediatric patients (see CONTRAINDICATIONS and WARNINGS).
 Monitor patients for signs of atropinism.
 
-## Information for patients
+## Information for patients:
 
 Advise patients:
 
@@ -67,7 +67,7 @@ Advise patients:
 - •Clinical improvement of diarrhea is usually observed within 48 hours.
   If clinical improvement is not seen within 10 days, discontinue Lomotil and contact their healthcare provider.
 
-## Drug interactions
+## Drug interactions:
 
 ### Alcohol
 
