@@ -69,7 +69,7 @@ Table 3 shows FEV1 results from Trials 5 and 6 which had demonstrated a signific
 
 Table 3: Effect of Roflumilast on FEV1
 
-| Study | Change in FEV 1 from Baseline, mL |  |  |  |
+| Study | Change in FEV1 from Baseline, mL |  |  |  |
 | --- | --- | --- | --- | --- |
 | Trial 5 | Roflumilast | Placebo | Effect1 | 95% CI |
 | 46 | 8 | 39 | 18, 60 |  |

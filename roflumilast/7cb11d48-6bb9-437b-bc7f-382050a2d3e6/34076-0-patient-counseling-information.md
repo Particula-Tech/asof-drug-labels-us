@@ -31,4 +31,4 @@ Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Wi
 
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
 
-Revised: 10/2023
+Revised: 11/2024 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides.
