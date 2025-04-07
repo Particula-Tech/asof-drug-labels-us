@@ -23,7 +23,7 @@ In the event of accidental contact with the eye, rinse the eye with copious amou
 The use of CLEOCIN Vaginal Cream 2% may result in the overgrowth of nonsusceptible organisms in the vagina.
 In clinical studies involving 600 non-pregnant women who received treatment for 3 days, Candida albicans was detected, either symptomatically or by culture, in 8.8% of patients.
 In 9% of the patients, vaginitis was recorded.
-Inclinical studies involving 1325 non-pregnant women who received treatment for 7 days, Candida albicans was detected, either symptomatically or by culture, in 10.5% of patients.
+In clinical studies involving 1325 non-pregnant women who received treatment for 7 days, Candida albicans was detected, either symptomatically or by culture, in 10.5% of patients.
 Vaginitis was recorded in 10.7% of the patients.
 In 180 pregnant women who received treatment for 7 days, Candida albicans was detected, either symptomatically or by culture, in 13.3% of patients.
 In 7.2% of the patients, vaginitis was recorded.
