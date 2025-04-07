@@ -50,11 +50,11 @@ Asymptomatic microdeposits alone are not a reason to reduce dose or discontinue 
 
 ## 5.6 Thyroid Abnormalities
 
-Amiodarone hydrochloride inhibits peripheral conversion of thyroxine (T4) to triiodothyronine (T3) and may cause increased thyroxine levels, decreased T3 levels, and increased levels of inactive reverse T3 (rT3) in clinically euthyroid patients.
+Amiodarone hydrochloride inhibits peripheral conversion of thyroxine (T 4) to triiodothyronine (T 3) and may cause increased thyroxine levels, decreased T 3levels, and increased levels of inactive reverse T 3(rT 3) in clinically euthyroid patients.
 Amiodarone hydrochloride tablets can cause either hypothyroidism (reported in up to 10% of patients) or hyperthyroidism (occurring in about 2% of patients).
 Monitor thyroid function prior to treatment and periodically thereafter, particularly in elderly patients, and in any patient with a history of thyroid nodules, goiter, or other thyroid dysfunction.
 
-Hyperthyroidism may induce arrhythmia breakthrough.
+Hyperthyroidism mayinduce arrhythmia breakthrough.
 If any new signs of arrhythmia appear, the possibility of hyperthyroidism should be considered.
 Antithyroid drugs, β-adrenergic blockers, temporary corticosteroid therapy may be necessary to treat the symptoms of hyperthyroidism.
 The action of antithyroid drugs may be delayed in amiodarone-induced thyrotoxicosis because of substantial quantities of preformed thyroid hormones stored in the gland.

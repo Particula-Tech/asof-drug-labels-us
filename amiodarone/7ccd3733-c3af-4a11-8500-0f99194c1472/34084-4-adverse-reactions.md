@@ -67,32 +67,32 @@ Uncommon: Blue skin discoloration, rash, spontaneous ecchymosis, alopecia, hypot
 The following adverse reactions have been identified during post-approval use of amiodarone hydrochloride.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hematologic: hemolytic anemia, aplastic anemia, pancytopenia, neutropenia, thrombocytopenia, agranulocytosis, granuloma.
+Hematologic:hemolytic anemia, aplastic anemia, pancytopenia, neutropenia, thrombocytopenia, agranulocytosis, granuloma.
 
-Immune: anaphylactic/anaphylactoid reaction (including shock), angioedema.
+Immune:anaphylactic/anaphylactoid reaction (including shock), angioedema.
 
-Neurologic: pseudotumor cerebri, parkinsonian symptoms such as akinesia and bradykinesia (sometimes reversible with discontinuation of therapy), demyelinating polyneuropathy.
+Neurologic:pseudotumor cerebri, parkinsonian symptoms such as akinesia and bradykinesia (sometimes reversible with discontinuation of therapy), demyelinating polyneuropathy.
 
-Psychiatric: hallucination, confusional state, disorientation, delirium.
+Psychiatric:hallucination, confusional state, disorientation, delirium.
 
-Cardiac: hypotension (sometimes fatal), sinus arrest.
+Cardiac:hypotension (sometimes fatal), sinus arrest.
 
-Respiratory: eosinophilic pneumonia, acute respiratory distress syndrome in the post-operative setting, bronchospasm, bronchiolitis obliterans organizing pneumonia, pulmonary alveolar hemorrhage, pleural effusion, pleuritis.
+Respiratory:eosinophilic pneumonia, acute respiratory distress syndrome in the post-operative setting, bronchospasm, bronchiolitis obliterans organizing pneumonia, pulmonary alveolar hemorrhage, pleural effusion, pleuritis.
 
-Gastrointestinal: pancreatitis, acute pancreatitis.
+Gastrointestinal:pancreatitis, acute pancreatitis.
 
-Hepatic: hepatitis, cholestatic hepatitis, cirrhosis.
+Hepatic:hepatitis, cholestatic hepatitis, cirrhosis.
 
-Skin and Subcutaneous Tissue Disorders: urticaria, toxic epidermal necrolysis (sometimes fatal), erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, bullous dermatitis, drug rash with eosinophilia and systemic symptoms (DRESS), eczema, pruritus, skin cancer, lupus-like syndrome.
+Skin and Subcutaneous Tissue Disorders:urticaria, toxic epidermal necrolysis (sometimes fatal), erythema multiforme, Stevens-Johnson syndrome, exfoliative dermatitis, bullous dermatitis, drug rash with eosinophilia and systemic symptoms (DRESS), eczema, pruritus, skin cancer, lupus-like syndrome.
 
-Musculoskeletal: myopathy, muscle weakness, rhabdomyolysis.
+Musculoskeletal:myopathy, muscle weakness, rhabdomyolysis.
 
-Renal: renal impairment, renal insufficiency, acute renal failure.
+Renal:renal impairment, renal insufficiency, acute renal failure.
 
-Reproductive: epididymitis, impotence.
+Reproductive:epididymitis, impotence.
 
-Body as a whole: fever, dry mouth.
+Body as a whole:fever, dry mouth.
 
-Endocrine and metabolic: thyroid nodules/thyroid cancer, syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Endocrine and metabolic:thyroid nodules/thyroid cancer, syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 
-Vascular: vasculitis.
+Vascular:vasculitis.

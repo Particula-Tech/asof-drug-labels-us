@@ -46,9 +46,9 @@ These means, however, include considerable individual variability.
 
 Food increases the rate and extent of absorption of amiodarone hydrochloride.
 The effects of food upon the bioavailability of amiodarone hydrochloride have been studied in 30 healthy subjects who received a single 600-mg dose immediately after consuming a high-fat meal and following an overnight fast.
-The area under the plasma concentration-time curve (AUC) and the peak plasma concentration (Cmax) of amiodarone hydrochloride increased by 2.3 (range 1.7 to 3.6) and 3.8 (range 2.7 to 4.4) times, respectively, in the presence of food.
-Food also increased the rate of absorption of amiodarone hydrochloride, decreasing the time to peak plasma concentration (Tmax) by 37%.
-The mean AUC and mean Cmax of the major metabolite of amiodarone, DEA increased by 55% (range 58 to 101%) and 32% (range 4 to 84%), respectively, but there was no change in the Tmax in the presence of food.
+The area under the plasma concentration-time curve (AUC) and the peak plasma concentration (C max) of amiodarone hydrochloride increased by 2.3 (range 1.7 to 3.6) and 3.8 (range 2.7 to 4.4) times, respectively, in the presence of food.
+Food also increased the rate of absorption of amiodarone hydrochloride, decreasing the time to peak plasma concentration (T max) by 37%.
+The mean AUC and mean C maxof the major metabolite of amiodarone, DEA increased by 55% (range 58 to 101%) and 32% (range 4 to 84%), respectively, but there was no change in the T maxin the presence of food.
 
 Distribution
 
@@ -86,13 +86,13 @@ Neither amiodarone nor DEA is dialyzable.
 
 Specific Populations
 
-Effect of Age: Normal subjects over 65 years of age show lower clearances (about 100 mL/hr/kg) than younger subjects (about 150 mL/hr/kg) and an increase in t½ from about 20 to 47 days.
+Effect of Age:Normal subjects over 65 years of age show lower clearances (about 100 mL/hr/kg) than younger subjects (about 150 mL/hr/kg) and an increase in t ½from about 20 to 47 days.
 
-Renal Impairment: Renal impairment does not influence the pharmacokinetics of amiodarone or DEA.
+Renal Impairment:Renal impairment does not influence the pharmacokinetics of amiodarone or DEA.
 
-Hepatic Impairment: After a single dose of intravenous amiodarone to cirrhotic patients, significantly lower Cmax and average concentration values are seen for DEA, but mean amiodarone levels are unchanged.
+Hepatic Impairment:After a single dose of intravenous amiodarone to cirrhotic patients, significantly lower C maxand average concentration values are seen for DEA, but mean amiodarone levels are unchanged.
 
-Cardiac Disease: In patients with severe left ventricular dysfunction, the pharmacokinetics of amiodarone are not significantly altered but the terminal elimination t½ of DEA is prolonged.
+Cardiac Disease:In patients with severe left ventricular dysfunction, the pharmacokinetics of amiodarone are not significantly altered but the terminal elimination t ½of DEA is prolonged.
 
 Although no dosage adjustment for patients with renal, hepatic, or cardiac abnormalities has been defined during chronic treatment with oral amiodarone, close clinical monitoring is prudent for elderly patients and those with severe left ventricular dysfunction.
 
@@ -100,25 +100,25 @@ Drug Interactions:
 
 Effects of other agents on amiodarone
 
-Grapefruit juice: Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and Cmax by 84%, and decreased DEA to unquantifiable concentrations.
+Grapefruit juice: Grapefruit juice given to healthy volunteers increased amiodarone AUC by 50% and C maxby 84%, and decreased DEA to unquantifiable concentrations.
 
-Cimetidine inhibits CYP3A and can increase serum amiodarone levels.
+Cimetidineinhibits CYP3A and can increase serum amiodarone levels.
 
-Cholestyramine reduces enterohepatic circulation of amiodarone thereby increasing its elimination.
+Cholestyraminereduces enterohepatic circulation of amiodarone thereby increasing its elimination.
 This results in reduced amiodarone serum levels and half-life.
 
 Effects of amiodarone on agents:
 
 CYP3A substrates:
 
-Amiodarone taken concomitantly with quinidine increases the quinidine serum concentration by 33% after two days.
-Amiodarone taken concomitantly with procainamide for less than seven days increases plasma concentrations of procainamide and n-acetyl procainamide by 55% and 33%, respectively.
+Amiodarone taken concomitantly with quinidineincreases the quinidine serum concentration by 33% after two days.
+Amiodarone taken concomitantly with procainamidefor less than seven days increases plasma concentrations of procainamide and n-acetyl procainamide by 55% and 33%, respectively.
 
 Loratadine, a non-sedating antihistaminic, is metabolized primarily by CYP3A and its metabolism can be inhibited by amiodarone.
 
-Metabolism of lidocaine can be inhibited by amiodarone.
+Metabolism of lidocainecan be inhibited by amiodarone.
 
-Cyclophosphamide is a prodrug, metabolized by CYP450 including CYP3A to an active metabolite.
+Cyclophosphamideis a prodrug, metabolized by CYP450 including CYP3A to an active metabolite.
 The metabolism of cyclophosphamide may be inhibited by amiodarone.
 
 Clopidogrel, an inactive thienopyridine prodrug, is metabolized in the liver by CYP3A to an active metabolite.
@@ -126,14 +126,14 @@ A potential interaction between clopidogrel and amiodarone resulting in ineffect
 
 Macrolide/ketolide antibiotics:
 
-Amiodarone can inhibit the metabolism of macrolide/ketolide antibiotics (except for azithromycin) and systemic azole antifungal drugs.
+Amiodarone can inhibit the metabolism of macrolide/ketolide antibiotics(except for azithromycin) and systemic azole antifungal drugs.
 
 P-glycoprotein substrates:
 
-Amiodarone taken concomitantly with digoxin increases the serum digoxin concentration by 70% after one day.
+Amiodarone taken concomitantly with digoxinincreases the serum digoxin concentration by 70% after one day.
 
-Dabigatran etexilate when taken concomitantly with oral amiodarone can result in elevated serum concentration of dabigatran.
+Dabigatran etexilatewhen taken concomitantly with oral amiodarone can result in elevated serum concentration of dabigatran.
 
-Dextromethorphan is a substrate for both CYP2D6 and CYP3A.
+Dextromethorphanis a substrate for both CYP2D6 and CYP3A.
 Amiodarone inhibits CYP2D6.
 Chronic (> 2 weeks) oral amiodarone administration impairs metabolism of dextromethorphan can lead to increased serum concentrations.

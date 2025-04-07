@@ -38,7 +38,7 @@ Data
 
 Animal Data
 
-In pregnant rats and rabbits during the period of organogenesis, amiodarone hydrochloride in doses of 25 mg/kg/day (approximately 0.4 and 0.9 times, respectively, the maximum recommended human maintenance dose600 mg in a 60 kg patient (doses compared on a body surface area basis)) had no adverse effects on the fetus.
+In pregnant rats and rabbits during the period of organogenesis, amiodarone hydrochloride in doses of 25 mg/kg/day (approximately 0.4 and 0.9 times, respectively, the maximum recommended human maintenance dose 600 mg in a 60 kg patient (doses compared on a body surface area basis)) had no adverse effects on the fetus.
 In the rabbit, 75 mg/kg/day (approximately 2.7 times the maximum recommended human maintenance dose) caused abortions in greater than 90% of the animals.
 In the rat, doses of 50 mg/kg/day or more were associated with slight displacement of the testes and an increased incidence of incomplete ossification of some skull and digital bones; at 100 mg/kg/day or more, fetal body weights were reduced; at 200 mg/kg/day, there was an increased incidence of fetal resorption.
 (These doses in the rat are approximately 0.8, 1.6 and 3.2 times the maximum recommended human maintenance dose) Adverse effects on fetal growth and survival also were noted in one of two strains of mice at a dose of 5 mg/kg/day (approximately 0.04 times the maximum recommended human maintenance dose).
