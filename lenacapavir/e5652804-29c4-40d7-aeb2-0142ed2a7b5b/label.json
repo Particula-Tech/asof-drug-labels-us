@@ -4,12 +4,14 @@
     "NDA215974"
   ],
   "inn": "lenacapavir",
-  "labeler": "Gilead Sciences",
+  "labeler": "Gilead Sciences, Inc.",
   "package_ndcs": [
     "61958-3001-1",
     "61958-3001-2",
+    "61958-3001-3",
     "61958-3002-1",
-    "61958-3004-1"
+    "61958-3004-1",
+    "61958-3005-1"
   ],
   "products": [
     {

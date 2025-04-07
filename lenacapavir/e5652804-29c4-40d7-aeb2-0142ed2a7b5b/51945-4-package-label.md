@@ -50,6 +50,16 @@ Manufactured for: Gilead Sciences, Inc. Foster City, CA 94404 Made in Canada
 
 © 2022 Gilead Sciences, Inc.
 
+# PRINCIPAL DISPLAY PANEL - 4 Tablet Bottle Label
+
+NDC 61958-3001-3 4 tablets
+
+Sunlenca® (lenacapavir) tablets 300 mg per tablet
+
+Talk to your healthcare provider before taking Sunlenca tablets.
+
+Your healthcare provider will tell you when to take Sunlenca tablets.
+
 # PRINCIPAL DISPLAY PANEL - Kit Carton
 
 Rx only NDC 61958-3002-1
