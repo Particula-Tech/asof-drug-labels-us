@@ -12,7 +12,7 @@ Therefore, if an inducer of CYP2C8 is started or stopped during treatment with A
 
 ## 7.3 Carbonic Anhydrase Inhibitors
 
-Topiramate or other carbonic anhydrse inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently causes a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
+Topiramate or other carbonic anhydrase inhibitors (e.g., zonisamide, acetazolamide or dichlorphenamide) frequently causes a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis.
 Concomitant use of these drugs with ACTOPLUS MET may increase the risk for lactic acidosis.
 Consider more frequent monitoring of these patients.
 

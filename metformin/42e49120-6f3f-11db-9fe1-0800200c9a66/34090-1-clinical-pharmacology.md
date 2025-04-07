@@ -67,7 +67,7 @@ Absorption
 
 ACTOPLUS MET
 
-In bioequivalence studies of ACTOPLUS MET 15 mg/500 mg and 15 mg/850 mg, the area under the curve (AUC) and maximum concentration (Cmax) of both the pioglitazone and the metformin component following a single dose of the combination tablet were bioequivalent to ACTOS 15 mg concomitantly administered with metformin HCl immediate release (500 mg or 850 mg, respectively) tablets under fasted conditions in healthy subjects.
+In bioequivalence studies of ACTOPLUS MET 15 mg/500 mg and 15 mg/850 mg, the area under the curve (AUC) and maximum concentration (Cmax) of both the pioglitazone and the metformin component following a single dose of the combination tablet were bioequivalent to ACTOS® 15 mg concomitantly administered with metformin HCl immediate release (500 mg or 850 mg, respectively) tablets under fasted conditions in healthy subjects.
 
 Administration of ACTOPLUS MET 15 mg/850 mg with food resulted in no change in overall exposure of pioglitazone.
 With metformin there was no change in AUC; however, mean peak serum concentration of metformin was decreased by 28% when administered with food.

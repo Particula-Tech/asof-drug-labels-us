@@ -2,7 +2,7 @@
 
 Congestive Heart Failure
 
-- Thiazolidinediones, including pioglitazone, which is a component of ACTOPLUS MET, cause or exacerbate congestive heart failure in some patients [see Warnings and Precautions (5.1)].
+- Thiazolidinediones, including pioglitazone, which is a component of ACTOPLUS MET®, cause or exacerbate congestive heart failure in some patients [see Warnings and Precautions (5.1)].
 - After initiation of ACTOPLUS MET, and after dose increases, monitor patients carefully for signs and symptoms of heart failure (e.g., excessive, rapid weight gain, dyspnea, and/or edema).
   If congestive heart failure develops while taking ACTOPLUS MET, consider discontinuation of ACTOPLUS MET or dosage reduction of pioglitazone in ACTOPLUS MET [see Warnings and Precautions (5.1)].
 - ACTOPLUS MET is not recommended in patients with symptomatic heart failure [see Warnings and Precautions (5.1)].
