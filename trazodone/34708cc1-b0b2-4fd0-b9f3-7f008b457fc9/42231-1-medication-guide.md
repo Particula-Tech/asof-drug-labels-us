@@ -11,4 +11,4 @@
 | General information about the safe and effective use of RALDESY.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use RALDESY for a condition for which it was not prescribed. Do not give RALDESY to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about RALDESY that is written for health professional. |
 | What are the ingredients in RALDESY?Active ingredient:trazodone hydrochloride, USP Inactive ingredients: disodium edetate, glycerin, ortho phosphoric acid, propyl gallate, propylene glycol, purified water, sodium benzoate, sorbitol, and sucralose. Manufactured for and distributed by:Validus Pharmaceuticals LLCParsippany, NJ 07054For more information, go to www.RALDESY.com or call Validus Pharmaceuticals LLC at 1-866-982-5438. |
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Issued: 02/2025
+This Medication Guide has been approved by the U.S. Food and Drug Administration Issued: 03/2025

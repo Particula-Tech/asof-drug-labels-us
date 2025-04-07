@@ -18,4 +18,4 @@
 | Storing RALDESY Store RALDESY at room temperature between 68°F to 77°F (20°C to 25°C).RALDESY comes in a bottle with a child-resistant cap.Keep RALDESY out of the light.Throw away (discard) RALDESY 30 days after first opening the bottle.Safely throw away medicine that is out of date or no longer needed. Keep RALDESY and all medicines out of the reach of children. Manufactured for and distributed by:Validus Pharmaceuticals LLCParsippany, NJ 07054This Instructions for Use has been approved by the U.S. Food and Drug Administration.Approved: 02/2025 |  |
 
 Rev.
-02, 02/2025
+03, 03/2025
