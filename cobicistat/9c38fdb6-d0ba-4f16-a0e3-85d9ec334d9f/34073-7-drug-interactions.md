@@ -5,23 +5,23 @@
 Darunavir co-administered with cobicistat is an inhibitor of CYP3A and CYP2D6.
 Cobicistat inhibits the following transporters: P-glycoprotein (P-gp), BCRP, MATE1, OATP1B1 and OATP1B3.
 Therefore, co-administration of PREZCOBIX with drugs that are primarily metabolized by CYP3A and/or CYP2D6 or are substrates of P-gp, BCRP, MATE1, OATP1B1 or OATP1B3 may result in increased plasma concentrations of such drugs, which could increase or prolong their therapeutic effect and can be associated with adverse events.
-Co-administration of PREZCOBIX with drugs that have active metabolite(s) formed by CYP3A may result in reduced plasma concentrations of these active metabolite(s), potentially leading to loss of their therapeutic effect (see Table 1).
+Co-administration of PREZCOBIX with drugs that have active metabolite(s) formed by CYP3A may result in reduced plasma concentrations of these active metabolite(s), potentially leading to loss of their therapeutic effect (see Table 2).
 
 ## 7.2 Potential for Other Drugs to Affect PREZCOBIX
 
 Darunavir is metabolized by CYP3A.
 Cobicistat is metabolized by CYP3A, and to a minor extent, by CYP2D6.
 Co-administration of PREZCOBIX and drugs that induce CYP3A activity are expected to increase the clearance of darunavir and cobicistat, resulting in lowered plasma concentrations of darunavir and cobicistat which may lead to loss of therapeutic effect and development of resistance.
-Co-administration of PREZCOBIX and other drugs that inhibit CYP3A may result in increased plasma concentrations of darunavir and cobicistat (see Table 1).
+Co-administration of PREZCOBIX and other drugs that inhibit CYP3A may result in increased plasma concentrations of darunavir and cobicistat (see Table 2).
 
 ## 7.3 Established and Other Potentially Significant Drug Interactions
 
-Table 1 provides dosing recommendations for expected clinically relevant interactions with PREZCOBIX (this table is not all inclusive).
+Table 2 provides dosing recommendations for expected clinically relevant interactions with PREZCOBIX (this table is not all inclusive).
 These recommendations are based on either drug interaction trials or predicted interactions due to the expected magnitude of interaction and potential for serious adverse events or loss of therapeutic effect.
-The table includes examples of potentially significant interactions but is not all inclusive,and therefore the label of each drug that is co-administered with PREZCOBIX should be consulted for information related to the route of metabolism, interaction pathways, potential risks, and specific actions to be taken with regard to co-administration.
+The table includes examples of potentially significant interactions but is not all inclusive, and therefore the label of each drug that is co-administered with PREZCOBIX should be consulted for information related to the route of metabolism, interaction pathways, potential risks, and specific actions to be taken with regard to co-administration.
 For the list of examples of contraindicated drugs, [see Contraindications (4)].
 
-Table 1: Established and Other Potentially Significant this table is not all inclusiveDrug Interactions: Alterations in Dose or Regimen May Be Recommended
+Table 2: Established and Other Potentially Significant this table is not all inclusiveDrug Interactions: Alterations in Dose or Regimen May Be Recommended
 
 | Concomitant Drug Class: Drug Name Examples | Effect on Concentration of Darunavir, Cobicistat, or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
@@ -73,7 +73,7 @@ Table 1: Established and Other Potentially Significant this table is not all inc
 | Corticosteroids: dexamethasone (systemic) Corticosteroids primarily metabolized by CYP3A: e.g. betamethasone budesonide ciclesonide fluticasone methylprednisolone mometasone triamcinolone | ↓ darunavir ↓ cobicistat ↑ corticosteroids | Co-administration with systemic dexamethasone or other systemic corticosteroids that induce CYP3A may result in loss of therapeutic effect and development of resistance to PREZCOBIX. Consider alternative corticosteroids. Co-administration with corticosteroids (all routes of administration) of which exposures are significantly increased by strong CYP3A inhibitors can increase the risk for Cushing's syndrome and adrenal suppression. Alternative corticosteroids including beclomethasone, prednisone and prednisolone (for which PK and/or PD are less affected by strong CYP3A inhibitors relative to other steroids) should be considered, particularly for long-term use. |
 | Endothelin receptor antagonists: bosentan | ↓ darunavir ↓ cobicistat ↑ bosentan | Initiation of bosentan in patients taking PREZCOBIX: In patients who have been receiving PREZCOBIX for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability. Initiation of PREZCOBIX in patients on bosentan: Discontinue use of bosentan at least 36 hours prior to initiation of PREZCOBIX. After at least 10 days following the initiation of PREZCOBIX, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability. Switching from darunavir co-administered with ritonavir to PREZCOBIX in patients on bosentan: Maintain bosentan dose. |
 | Ergot derivatives: e.g. dihydroergotamine, ergotamine, methylergonovine | ↑ ergot derivatives | Co-administration is contraindicated due to potential for serious and/or life-threatening reactions such as acute ergot toxicity characterized by peripheral vasospasm and ischemia of the extremities and other tissues. |
-| Hepatitis C virus (HCV): Direct-Acting Antivirals:elbasvir/grazoprevir | ↑ elbasvir/grazoprevir | Co-administration is contraindicated due to potential for the increased risk of alanine transaminase (ALT) elevations. |
+| Hepatitis C virus (HCV): Direct-Acting Antivirals: elbasvir/grazoprevir | ↑ elbasvir/grazoprevir | Co-administration is contraindicated due to potential for the increased risk of alanine transaminase (ALT) elevations. |
 | glecaprevir/pibrentasvir | ↑ glecaprevir ↑ pibrentasvir | Co-administration of PREZCOBIX with glecaprevir/pibrentasvir is not recommended. |
 | Herbal product: St. John's wort (Hypericum perforatum) | ↓ darunavir ↓ cobicistat | Co-administration is contraindicated due to potential for reduced plasma concentrations of darunavir, which may result in loss of therapeutic effect and development of resistance. |
 | Hormonal contraceptives: |  | Additional or alternative (non-hormonal) forms of contraception should be considered when estrogen-containing contraceptives are co-administered with PREZCOBIX [see Use in Specific Populations (8.3)]. |

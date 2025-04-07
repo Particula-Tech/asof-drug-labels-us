@@ -2,7 +2,7 @@
 
 ## 5.1 Hepatotoxicity
 
-During the darunavir clinical development program (N=3063), where darunavir was co-administered with ritonavir 100 mg once or twice daily, drug-induced hepatitis (e.g., acute hepatitis, cytolytic hepatitis) was reported in 0.5% of subjects.
+During the darunavir clinical development program (N=3063), where darunavir was co-administered with ritonavir 100 mg once or twice daily, drug-induced hepatitis (e.g., acute hepatitis, cytolytic hepatitis) was reported in 0.5% of participants.
 Patients with pre-existing liver dysfunction, including chronic active hepatitis B or C, have an increased risk for liver function abnormalities including severe hepatic adverse reactions.
 
 Post-marketing cases of liver injury, including some fatalities, have also been reported with darunavir co-administered with ritonavir.
@@ -16,7 +16,7 @@ Evidence of new or worsening liver dysfunction (including clinically significant
 
 ## 5.2 Severe Skin Reactions
 
-During the darunavir clinical development program (n=3063), where darunavir was co-administered with ritonavir 100 mg once or twice daily, severe skin reactions, accompanied by fever and/or elevations of transaminases in some cases, was reported in 0.4% of subjects.
+During the darunavir clinical development program (n=3063), where darunavir was co-administered with ritonavir 100 mg once or twice daily, severe skin reactions, accompanied by fever and/or elevations of transaminases in some cases, was reported in 0.4% of participants.
 Stevens-Johnson Syndrome was rarely (less than 0.1%) reported during the clinical development program.
 During post-marketing experience toxic epidermal necrolysis, drug rash with eosinophilia and systemic symptoms, and acute generalized exanthematous pustulosis have been reported.
 Discontinue PREZCOBIX immediately if signs or symptoms of severe skin reactions develop.
@@ -58,11 +58,11 @@ These interactions may lead to:
 - loss of therapeutic effect of the concomitant medications from lower exposures of active metabolite(s).
 - loss of therapeutic effect of PREZCOBIX and possible development of resistance from lower exposures of PREZCOBIX.
 
-See Table 1for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
-Consider the potential for drug interactions prior to and during PREZCOBIX therapy; review concomitant medications during PREZCOBIX therapy; and monitor for the adverse reactions associated with concomitant medications [see Contraindications (4)and Drug Interactions (7)].
+See Table 2 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations.
+Consider the potential for drug interactions prior to and during PREZCOBIX therapy; review concomitant medications during PREZCOBIX therapy; and monitor for the adverse reactions associated with concomitant medications [see Contraindications (4) and Drug Interactions (7)].
 
 When used with concomitant medications, PREZCOBIX may result in different drug interactions than those observed or expected with darunavir co-administered with ritonavir.
-Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with darunavir co-administered with ritonavir to certain PREZCOBIX interactions [see Drug Interactions (7)and Clinical Pharmacology (12.3)].
+Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with darunavir co-administered with ritonavir to certain PREZCOBIX interactions [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 ## 5.6 Antiretrovirals Not Recommended
 
@@ -79,7 +79,7 @@ In clinical studies with darunavir co-administered with ritonavir, the incidence
 
 ## 5.8 Diabetes Mellitus/Hyperglycemia
 
-New onset diabetes mellitus, exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in patients with HIV-1 infection receiving HIV protease inhibitor (PI) therapy.
+New onset diabetes mellitus, exacerbation of pre-existing diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in patients with HIV-1 receiving HIV protease inhibitor (PI) therapy.
 Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for treatment of these events.
 In some cases, diabetic ketoacidosis has occurred.
 In those patients who discontinued PI therapy, hyperglycemia persisted in some cases.
@@ -94,7 +94,7 @@ A causal relationship has not been established.
 ## 5.10 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including PREZCOBIX.
-During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium aviuminfection, cytomegalovirus, Pneumocystis jiroveciipneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
+During the initial phase of combination antiretroviral treatment, patients whose immune systems respond may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia [PCP], or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syndrome and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of antiretroviral treatment.
 

@@ -1,3 +1,5 @@
-Manufactured for: Janssen Products, LP, Horsham PA 19044, USA
+Manufactured for: Janssen Products, LP, Horsham, PA 19044, USA
 
-© 2015, 2020 Janssen Pharmaceutical Companies
+For patent information: www.janssenpatents.com
+
+© Johnson & Johnson and its affiliates 2015, 2025

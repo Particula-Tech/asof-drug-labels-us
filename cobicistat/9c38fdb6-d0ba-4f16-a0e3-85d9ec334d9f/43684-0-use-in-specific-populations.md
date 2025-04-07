@@ -34,21 +34,21 @@ Data
 
 Human Data
 
-PREZCOBIX in combination with a background regimen was evaluated in a clinical trial of 7 pregnant individuals taking PREZCOBIX prior to enrollment and who were willing to remain on PREZCOBIX throughout the study.
+PREZCOBIX in combination with a background regimen was evaluated in a clinical trial of 7 pregnant participants taking PREZCOBIX prior to enrollment and who were willing to remain on PREZCOBIX throughout the study.
 The study period included the second and third trimesters, and through 12 weeks postpartum.
-Six pregnant individuals completed the trial.
+Six pregnant participants completed the trial.
 
 Exposure to darunavir and cobicistat as part of an antiretroviral regimen was substantially lower during the second and third trimesters of pregnancy compared with postpartum [see Clinical Pharmacology (12.3)].
 
-One out of 6 pregnant individuals who completed the study experienced virologic failure with HIV-1 RNA >1,000 copies/mL from the third trimester visit through the postpartum period.
-Five pregnant individuals had sustained virologic response (HIV RNA <50 copies/mL) throughout the study period.
+One out of 6 pregnant participants who completed the study experienced virologic failure with HIV-1 RNA >1,000 copies/mL from the third trimester visit through the postpartum period.
+Five pregnant participants had sustained virologic response (HIV RNA <50 copies/mL) throughout the study period.
 There are no clinical data on the virologic response when PREZCOBIX is initiated during pregnancy.
 
 Prospective reports from the APR of overall major birth defects in pregnancies exposed to the components of PREZCOBIX are compared with a U.S. background major birth defect rate.
 Methodological limitations of the APR include the use of MACDP as the external comparator group.
 Limitations of using an external comparator include differences in methodology and populations, as well as confounding due to the underlying disease.
 
-There were no new clinically relevant safety findings compared with the known safety profile of PREZCOBIX in adults with HIV-1 infection.
+There were no new clinically relevant safety findings compared with the known safety profile of PREZCOBIX in adults with HIV-1.
 
 Darunavir: Based on prospective reports to the APR of over 980 exposures to darunavir-containing regimens during pregnancy resulting in live births (including over 660 exposed in the first trimester and over 320 exposed in the second/third trimester), the prevalence of birth defects in live births was 3.6% (95% CI: 2.3% to 5.3%) with first trimester exposure to darunavir-containing regimens and 2.5% (95% CI: 1.1% to 4.8%) with second/third trimester exposure to darunavir-containing regimens.
 
@@ -76,11 +76,9 @@ Systemic exposures (AUC) at this dose were 1.2 times the human exposures at the 
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV infected mothers in the United States not breastfeed their infants to avoid risking postnatal transmission of HIV.
-
 There are no data on the presence of darunavir or cobicistat in human milk, the effects on the breastfed infant, or the effects on milk production.
 Darunavir and cobicistat are present in the milk of lactating rats (see Data).
-Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants), and (3) serious adverse reactions in breastfed infants, instruct mothers not to breastfeed if they are receiving PREZCOBIX.
+Potential risks of breastfeeding include: (1) HIV-1 transmission (in infants without HIV-1), (2) developing viral resistance (in infants with HIV-1), and (3) serious adverse reactions in breastfed infant similar to those seen in adults.
 
 Data
 
@@ -102,15 +100,15 @@ No data are available to make recommendations on co-administration with other ho
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of PREZCOBIX for the treatment of HIV-1 infection in pediatric patients weighing at least 40 kg was established through a trial with components of PREZCOBIX.
-Use of PREZCOBIX in this group is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic, safety, and virologic data from a study of components of PREZCOBIX (Trial GS-US-216-0128) in pediatric subjects with HIV-1 infection aged 12 to less than 18 years [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
+The safety and effectiveness of PREZCOBIX for the treatment of HIV-1 in pediatric patients weighing at least 25 kg was established through a trial with components of PREZCOBIX.
+Use of PREZCOBIX in this group is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic, safety, and virologic data from a study of components of PREZCOBIX (Trial GS-US-216-0128) in pediatric participants with HIV-1 aged 6 to less than 18 years [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
 
-The safety and effectiveness of PREZCOBIX have not been established in pediatric patients weighing less than 40 kg.
+The safety and effectiveness of PREZCOBIX have not been established in pediatric patients weighing less than 25 kg.
 Darunavir, a component of PREZCOBIX is not recommended in pediatric patients below 3 years of age because of toxicity and mortality observed in juvenile rats dosed with darunavir.
 
 Juvenile Animal Toxicity Data
 
-Darunavir:In a juvenile toxicity study where rats were directly dosed with darunavir (up to 1000 mg/kg), deaths occurred from post-natal day 5 at plasma exposure levels ranging from 0.1 to 1.0 of the human exposure levels.
+Darunavir: In a juvenile toxicity study where rats were directly dosed with darunavir (up to 1000 mg/kg), deaths occurred from post-natal day 5 at plasma exposure levels ranging from 0.1 to 1.0 of the human exposure levels.
 In a 4-week rat toxicology study, when dosing was initiated on post-natal day 23 (the human equivalent of 2 to 3 years of age), no deaths were observed with a plasma exposure (in combination with ritonavir) 2 times the human plasma exposure levels.
 
 ## 8.5 Geriatric Use
@@ -120,9 +118,9 @@ In general, caution should be exercised in the administration and monitoring of 
 
 ## 8.6 Hepatic Impairment
 
-No clinical trials were conducted with darunavir co-administered with cobicistat in hepatically impaired subjects and the effect of hepatic impairment on darunavir exposure when co-administered with cobicistat has not been evaluated.
+No clinical trials were conducted with darunavir co-administered with cobicistat in hepatically impaired patients and the effect of hepatic impairment on darunavir exposure when co-administered with cobicistat has not been evaluated.
 Based on the recommendations for darunavir co-administered with ritonavir, a dose adjustment for patients with mild or moderate hepatic impairment is not necessary.
-No pharmacokinetic or safety data are available regarding the use of darunavir in subjects with severe hepatic impairment.
+No pharmacokinetic or safety data are available regarding the use of darunavir in patients with severe hepatic impairment.
 Therefore, PREZCOBIX is not recommended for use in patients with severe hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment

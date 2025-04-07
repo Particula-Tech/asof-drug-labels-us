@@ -18,14 +18,14 @@ During the darunavir clinical development program, where darunavir was co-admini
 See the darunavir full prescribing information for additional information on adverse reactions reported with darunavir co-administered with ritonavir.
 See cobicistat full prescribing information for clinical trial information on adverse reactions reported with cobicistat.
 
-One single arm clinical trial was conducted with darunavir and cobicistat administered as single entities in 313 subjects with HIV-1 infection.
+One single arm clinical trial was conducted with darunavir and cobicistat administered as single entities in 313 participants with HIV-1.
 Adverse reactions evaluated through Week 24 did not differ substantially from those reported in clinical trials with darunavir co-administered with ritonavir.
 
-Clinical Trials in Pediatric Patients
+Clinical Trials in Pediatrics
 
 No clinical trials with PREZCOBIX were performed in pediatric patients.
-However, the safety of the components of PREZCOBIX, darunavir and cobicistat, co-administered with two nucleoside reverse transcriptase inhibitors, was evaluated in pediatric subjects of 12 to less than 18 years of age with HIV-1 infection through clinical trial GS-US-216-0128 (virologically-suppressed, N=7 with weight ≥40 kg) through Week 48.
-Safety analyses of this trial in these pediatric subjects did not identify new safety concerns compared to the known safety profile of PREZCOBIX in adult subjects [see Clinical Studies (14.2)].
+However, the safety of the components of PREZCOBIX, darunavir and cobicistat, co-administered with two nucleoside reverse transcriptase inhibitors, was evaluated in pediatric participants of 12 to less than 18 years of age with HIV-1 through clinical trial GS-US-216-0128 (Cohort 1, virologically-suppressed, N=7 with weight ≥40 kg) and pediatric participants 6 to less than 12 years of age (Cohort 2, virologically-suppressed, N=8 with weight ≥25 kg) through Week 48.
+Safety analyses of this trial in these pediatric participants did not identify new safety concerns compared to the known safety profile of PREZCOBIX in adult participants [see Clinical Studies (14.2)].
 
 ## 6.2 Postmarketing Experience
 

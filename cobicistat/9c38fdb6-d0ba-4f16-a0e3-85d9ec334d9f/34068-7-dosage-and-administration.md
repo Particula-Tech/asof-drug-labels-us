@@ -1,10 +1,23 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage
+## 2.1 Recommended Dosage in Adults and Pediatric Patients Weighing at Least 25 kg
 
-PREZCOBIX is a fixed-dose combination product containing 800 mg of darunavir and 150 mg of cobicistat.
-In treatment-naïve and treatment-experienced adults and pediatric patients weighing at least 40 kg with no darunavir resistance-associated substitutions, the recommended dosage of PREZCOBIX is one tablet taken once daily orally with food.
-Administer PREZCOBIX in conjunction with other antiretroviral agents.
+The recommended dosages of PREZCOBIX for adults and pediatric patients weighing at least 25 kg are shown in Table 1.
+The pediatric dose is based on weight.
+Administer PREZCOBIX orally with food in conjunction with other antiretroviral agents.
+
+Table 1: Recommended Dosages of PREZCOBIX in Adults and Pediatric Patients Weighing at Least 25 kg, who are Treatment-Naïve or Treatment-Experienced Without DRV RAMs DRV-resistance-associated mutations (RAMs): V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V, L89V.
+
+| Patient Population | Dose (once daily with food) |
+| --- | --- |
+| Adult Patients | One 800 mg darunavir/150 mg cobicistat tablet |
+| Pediatric Patients weighing at least 40 kg |  |
+| Pediatric Patients weighing at least 25 kg to less than 40 kg | One 675 mg darunavir/150 mg cobicistat tablet |
+
+Before prescribing PREZCOBIX 675 mg/150 mg tablets, children should be assessed for the ability to swallow tablets.
+For patients unable to swallow the 675 mg/150 mg tablet whole, the scored tablet may be split by hand into two pieces.
+Each piece should be consumed immediately after splitting to ensure the entire dose is administered.
+The score line is only to facilitate breaking for ease of swallowing and not to divide into equal doses.
 
 ## 2.2 Testing Prior to Initiation of PREZCOBIX
 
