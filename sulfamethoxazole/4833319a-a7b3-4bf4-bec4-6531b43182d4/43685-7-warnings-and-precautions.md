@@ -27,6 +27,13 @@ Sulfamethoxazole and trimethoprim tablets should be discontinued at the first ap
 A skin rash may be followed by a more severe reaction, such as Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS, AFND, AGEP, hepatic necrosis, or serious blood disorders (see PRECAUTIONS and ADVERSE REACTIONS).
 Clinical signs, such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice may be early indications of serious reactions.
 
+Hemophagocytic Lymphohistiocytosis
+
+Cases of hemophagocytic lymphohistiocytosis (HLH) have been reported in patients treated with sulfamethoxazole-trimethoprim.
+HLH is a life-threatening syndrome of pathologic immune activation characterized by clinical signs and symptoms of extreme systemic inflammation.
+Signs and symptoms of HLH may include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin, hypertriglyceridemia, and liver enzyme and coagulation abnormalities.
+If HLH is suspected, discontinue sulfamethoxazole and trimethoprim tablets immediately and institute appropriate management.
+
 Thrombocytopenia Sulfamethoxazole and trimethoprim tablets-induced thrombocytopenia may be an immune-mediated disorder.
 Severe cases of thrombocytopenia that are fatal or life threatening have been reported.
 Thrombocytopenia usually resolves within a week upon discontinuation of sulfamethoxazole and trimethoprim tablets.
@@ -108,14 +115,14 @@ Patients who are “slow acetylators” may be more prone to idiosyncratic react
 
 Information for Patients
 
-Hypersensitivity and Other Serious Reactions: Advise patients to stop taking sulfamethoxazole and trimethoprim tablets immediately if they experience any clinical signs such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice and to contact their healthcare provider as soon as possible (see WARNINGS and ADVERSE REACTIONS).
+Hypersensitivity and Other Serious Reactions:Advise patients to stop taking sulfamethoxazole and trimethoprim tablets immediately if they experience any clinical signs such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice and to contact their healthcare provider as soon as possible (see WARNINGSand ADVERSE REACTIONS).
 
-Antibacterial Resistance: Patients should be counseled that antibacterial drugs including sulfamethoxazole and trimethoprim tablets should only be used to treat bacterial infections.
+Antibacterial Resistance:Patients should be counseled that antibacterial drugs including sulfamethoxazole and trimethoprim tablets should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
 When sulfamethoxazole and trimethoprim tablets are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by sulfamethoxazole and trimethoprim tablets or other antibacterial drugs in the future.
 
-Crystalluria and Stone Formation: Advise patients to maintain an adequate fluid intake in order to prevent crystalluria and stone formation.
+Crystalluria and Stone Formation:Advise patients to maintain an adequate fluid intake in order to prevent crystalluria and stone formation.
 
 Diarrhea: Advise patients that diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
