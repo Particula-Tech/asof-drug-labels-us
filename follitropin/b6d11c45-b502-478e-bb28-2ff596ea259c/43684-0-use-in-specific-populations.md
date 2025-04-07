@@ -4,13 +4,13 @@
 
 Risk Summary
 
-Gonal-f® RFF Redi-ject® is not indicated in pregnant women.
+GONAL-f® RFF Redi-ject® is not indicated in pregnant women.
 
 The incidence of congenital malformations after some Assisted Reproductive Technology (ART), procedures, specifically in vitro fertilization (IVF) or intracytoplasmic sperm injection (ICSI)], may be slightly higher than after spontaneous conception.
 This slightly higher incidence is thought to be related to differences in parental characteristics (e.g., maternal age, maternal and paternal genetic background, sperm characteristics) and to a higher incidence of multi-fetal gestations after IVF or ICSI.
-There is no human data that the use of gonadotropins (including Gonal-f® RFF Redi-ject®), alone or as part of IVF or ICSI cycles, increases the risk of congenital malformations.
+There is no human data that the use of gonadotropins (including GONAL-f® RFF Redi-ject®), alone or as part of IVF or ICSI cycles, increases the risk of congenital malformations.
 
-The risk of spontaneous abortion (miscarriage) is increased in women who have used gonadotropins products (including Gonal-f® RFF Redi-ject®) to achieve pregnancy.
+The risk of spontaneous abortion (miscarriage) is increased in women who have used gonadotropins products (including GONAL-f® RFF Redi-ject®) to achieve pregnancy.
 
 In animal studies, the continuous administration of recombinant human FSH during pregnancy resulted in a decrease in the number of viable fetuses and difficult and prolonged delivery.
 No teratogenic effect has been observed.
@@ -32,11 +32,11 @@ This toxicity was not observed in dams and offspring dosed at a level 5 times th
 ## 8.2 Lactation
 
 There are no data on the presence of GONAL-F RFF in human milk, the effects on the breastfed infant, or the effects on milk production.
-Because the secretion of prolactin during lactation can result in inadequate response to ovarian stimulation, advise women not to breast feed during treatment with Gonal-f® RFF Redi-ject®.
+Because the secretion of prolactin during lactation can result in inadequate response to ovarian stimulation, advise women not to breast feed during treatment with GONAL-f® RFF Redi-ject®.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Since Gonal-f® RFF Redi-ject® is not indicated in pregnant women, verify a negative pregnancy test before administering Gonal-f® RFF Redi-ject® to a woman [see Dosage and Administration (2.2, 2.3)].
+Since GONAL-f® RFF Redi-ject® is not indicated in pregnant women, verify a negative pregnancy test before administering GONAL-f® RFF Redi-ject® to a woman [see Dosage and Administration (2.2, 2.3)].
 
 ## 8.4 Pediatric Use
 
@@ -44,4 +44,4 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.6 Renal and Hepatic Insufficiency
 
-Safety, efficacy, and pharmacokinetics of Gonal-f® RFF Redi-ject® in women with renal or hepatic insufficiency have not been established.
+Safety, efficacy, and pharmacokinetics of GONAL-f® RFF Redi-ject® in women with renal or hepatic insufficiency have not been established.

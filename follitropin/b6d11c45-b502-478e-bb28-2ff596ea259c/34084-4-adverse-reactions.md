@@ -18,16 +18,16 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trial of another drug and may not reflect the rates observed in practice.
 
-The safety of Gonal-f® RFF was examined in two clinical studies (one ovulation induction study and one ART study).
+The safety of GONAL-f® RFF was examined in two clinical studies (one ovulation induction study and one ART study).
 
 Ovulation Induction
 
-In a multiple cycle (3), assessor-blind, multinational, multicenter, active comparator study vs. a recombinant FSH comparator, a total of 83 oligo-anovulatory infertile women were randomized and underwent ovulation induction with Gonal-f® RFF.
-Adverse reactions occurring in at least 2.0% of women receiving Gonal-f® RFF are listed in Table 1.
+In a multiple cycle (3), assessor-blind, multinational, multicenter, active comparator study vs. a recombinant FSH comparator, a total of 83 oligo-anovulatory infertile women were randomized and underwent ovulation induction with GONAL-f® RFF.
+Adverse reactions occurring in at least 2.0% of women receiving GONAL-f® RFF are listed in Table 1.
 
 Table 1: Common Adverse Reactions Reported at a Frequency of ≥ 2% in an Ovulation Induction Study
 
-| System Organ Class/Adverse Reactions | Gonal-f® RFF N=83total number of women treated with Gonal-f® RFF (176 treatment cyclesup to 3 treatment cycles per woman) nnumber of women with the adverse reaction (%) |
+| System Organ Class/Adverse Reactions | GONAL-f® RFF N=83total number of women treated with GONAL-f® RFF (176 treatment cyclesup to 3 treatment cycles per woman) nnumber of women with the adverse reaction (%) |
 | --- | --- |
 | Central and Peripheral Nervous System |  |
 | Headache | 22 (26.5%) |
@@ -46,13 +46,13 @@ Table 1: Common Adverse Reactions Reported at a Frequency of ≥ 2% in an Ovulat
 
 Assisted Reproductive Technology
 
-In a single cycle, assessor-blind, multinational, multicenter, active comparator study vs. a recombinant FSH comparator, a total of 237 normal ovulatory infertile women were randomized and received Gonal-f® RFF as part of an ART [in vitro fertilization (IVF) or intracytoplasmic sperm injection cycle (ICSI)] cycle.
+In a single cycle, assessor-blind, multinational, multicenter, active comparator study vs. a recombinant FSH comparator, a total of 237 normal ovulatory infertile women were randomized and received GONAL-f® RFF as part of an ART [in vitro fertilization (IVF) or intracytoplasmic sperm injection cycle (ICSI)] cycle.
 All women received pituitary down-regulation with gonadotropin releasing hormone (GnRH) agonist before stimulation.
 Adverse Reactions occurring in at least 2.0% of women are listed in Table 2.
 
 Table 2: Common Adverse Reactions Reported at a Frequency of ≥ 2% in an Assisted Reproductive Technologies Study
 
-| System Organ Class/Adverse Reactions | Gonal-f® RFF N=237total number of women treated with Gonal-f® RFF nnumber of women with the adverse reaction (%) |
+| System Organ Class/Adverse Reactions | GONAL-f® RFF N=237total number of women treated with GONAL-f® RFF nnumber of women with the adverse reaction (%) |
 | --- | --- |
 | Gastrointestinal System |  |
 | Abdominal Pain | 55 (23.2%) |
@@ -72,8 +72,8 @@ Table 2: Common Adverse Reactions Reported at a Frequency of ≥ 2% in an Assist
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been reported during postmarketing use of Gonal-f® RFF.
-Because these reactions were reported voluntarily from a population of uncertain size, the frequency or a causal relationship to Gonal-f® RFF cannot be reliably determined.
+The following adverse reactions have been reported during postmarketing use of GONAL-f® RFF.
+Because these reactions were reported voluntarily from a population of uncertain size, the frequency or a causal relationship to GONAL-f® RFF cannot be reliably determined.
 
 Body as a Whole - General: hypersensitivity reactions including anaphylactoid reactions [see Warnings and Precautions (5.1)]
 

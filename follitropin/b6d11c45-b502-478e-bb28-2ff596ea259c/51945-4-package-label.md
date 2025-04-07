@@ -8,7 +8,7 @@ GONAL-f® RFF Redi-ject® 300 IU/0.48 mL
 
 For subcutaneous injection Do not shake Rx only
 
-1 Gonal-f® RFF Redi-ject® 5 needles for injection (29 gauge)
+1 Gonal-f® RFF Redi-ject® 5 needles for injection (31 gauge)
 
 EMD SERONO
 
@@ -22,7 +22,7 @@ GONAL-f® RFF Redi-ject® 450 IU/0.72 mL
 
 For subcutaneous injection Do not shake Rx only
 
-1 Gonal-f® RFF Redi-ject® 7 needles for injection (29 gauge)
+1 Gonal-f® RFF Redi-ject® 7 needles for injection (31 gauge)
 
 EMD SERONO
 
@@ -36,6 +36,6 @@ GONAL-f® RFF Redi-ject® 900 IU/1.44 mL
 
 For subcutaneous injection Do not shake Rx only
 
-1 Gonal-f® RFF Redi-ject® 14 needles for injection (29 gauge)
+1 Gonal-f® RFF Redi-ject® 14 needles for injection (31 gauge)
 
 EMD SERONO

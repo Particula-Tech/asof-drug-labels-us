@@ -1,6 +1,6 @@
 # 4 CONTRAINDICATIONS
 
-Gonal-f® RFF Redi-ject® is contraindicated in women who exhibit:
+GONAL-f® RFF Redi-ject® is contraindicated in women who exhibit:
 
 - Prior hypersensitivity to recombinant FSH products
 - High levels of FSH indicating primary gonadal failure
