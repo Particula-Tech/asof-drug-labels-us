@@ -64,4 +64,4 @@ WARNING: Do not use flexible container in series connections.
 
 ADD-Vantage® is a registered trademark of Hospira Inc.
 
-LAB-0050-5.0 Revised October 2021
+LAB-0050-6.0 Revised March 2025
