@@ -19,6 +19,4 @@ East Brunswick, NJ 08816
 
 1-866-901-DRUG (3784)
 
-51U000000136US09
-
-Revised: 09/2021
+Revised: 03/2025
