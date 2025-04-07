@@ -11,8 +11,7 @@ Tablets should be stored at or below 30°C (86°F).
 
 ZITHROMAX for oral suspension is supplied in single-dose packets containing azithromycin dihydrate equivalent to 1 gram of azithromycin as follows:
 
-| Boxes of 10 single-dose packets (1 g) | NDC 0069-3051-07 |
-| --- | --- |
 | Boxes of 3 single-dose packets (1 g) | NDC 0069-3051-75 |
+| --- | --- |
 
 Store single-dose packets below 30°C (86°F).
