@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761340"
+  ],
+  "inn": "eculizumab",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "51759-208-13"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "eculizumab-aagh",
+      "name": "EPYSQLI"
+    }
+  ],
+  "setid": "1fa1aa80-1c59-44d4-9841-b6c52882651b",
+  "source": "dailymed"
+}
