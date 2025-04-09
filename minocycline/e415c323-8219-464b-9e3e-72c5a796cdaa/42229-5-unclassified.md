@@ -9,8 +9,8 @@ Eastern Time, Monday through Friday.
 
 Manufactured for Rempex Pharmaceuticals, Inc., a wholly-owned subsidiary of Melinta Therapeutics, LLC All rights reserved.
 
-Marketed and Distributed by Melinta Therapeutics, LLC Lincolnshire, IL 60069 USA
+Marketed and Distributed by Melinta Therapeutics, LLC Parsippany, New Jersey 07054
 
-2/2021
+3/2025
 
-MEL080-R003
+MEL080-R004

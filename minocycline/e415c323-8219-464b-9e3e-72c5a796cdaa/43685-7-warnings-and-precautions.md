@@ -22,7 +22,9 @@ Evidence of embryotoxicity has been noted in animals treated early in pregnancy.
 ## Dermatologic Reaction
 
 Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) including fatal cases have been reported with minocycline use.
-If this syndrome is recognized, the drug should be discontinued immediately.
+Fixed drug eruptions have occurred with minocycline and other tetracyclines.
+Worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption, has been observed with other tetracyclines (see ADVERSE REACTIONS).
+If severe skin reactions occur, discontinue MINOCIN immediately and institute appropriate therapy.
 
 ## Anti-anabolic Action
 
@@ -107,8 +109,6 @@ Patients treated with minocycline should have a follow-up serologic test for syp
 Because tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage.
 
 Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracyclines in conjunction with penicillin.
-
-The concurrent use of tetracyclines and methoxyflurane has been reported to result in fatal renal toxicity.
 
 Concurrent use of tetracyclines with oral contraceptives may render oral contraceptives less effective.
 

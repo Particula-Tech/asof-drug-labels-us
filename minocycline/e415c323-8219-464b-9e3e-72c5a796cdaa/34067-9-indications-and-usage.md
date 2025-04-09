@@ -18,7 +18,7 @@ Brucellosis due to Brucella species (in conjunction with streptomycin).
 Bartonellosis due to Bartonella bacilliformis.
 Granuloma inguinale caused by Klebsiella granulomatis.
 
-Minocycline is indicated for the treatment of infections caused by the following Gramnegative bacteria when bacteriologic testing indicates appropriate susceptibility to the drug:
+Minocycline is indicated for the treatment of infections caused by the following Gram-negative bacteria when bacteriologic testing indicates appropriate susceptibility to the drug:
 
 Escherichia coli.
 Enterobacter aerogenes.
