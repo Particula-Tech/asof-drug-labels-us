@@ -1,4 +1,4 @@
-MEDICATION GUIDE DUETACT (doo-et' -ăct) (pioglitazone and glimepiride) tablets
+MEDICATION GUIDE DUETACT® (doo-et' -ăct) (pioglitazone and glimepiride) tablets
 
 Read this Medication Guide carefully before you start taking DUETACT and each time you get a refill.
 There may be new information.
@@ -28,7 +28,7 @@ What is DUETACT?
 
 DUETACT is a prescription medicine used with diet and exercise to improve blood sugar (glucose) control in adults with type 2 diabetes.
 
-DUETACT contains 2 prescription diabetes medicines called pioglitazone (ACTOS) and glimepiride, a sulfonylurea.
+DUETACT contains 2 prescription diabetes medicines called pioglitazone (ACTOS®) and glimepiride, a sulfonylurea.
 
 DUETACT is not for people with type 1 diabetes.
 
@@ -185,12 +185,12 @@ Distributed by:
 
 Takeda Pharmaceuticals America, Inc.
 
-Lexington, MA 02421
+Cambridge, MA 02142
 
-Revised: December 2016
+Revised: March 2025
 
-DUETACT and ACTOS are registered trademarks of Takeda Pharmaceutical Company Limited and used under license by Takeda Pharmaceuticals America, Inc.
+DUETACT and ACTOS are registered trademarks of Takeda Pharmaceutical Company Limited.
 
-© 2009 - 2020 Takeda Pharmaceuticals America, Inc.
+© 2025 Takeda Pharmaceuticals America, Inc. All rights reserved.
 
-DTA007 R16
+DTA007 R17

@@ -2,7 +2,7 @@
 
 NDC 64764-302-30 30 Tablets
 
-duetact pioglitazone 30 mg and glimepiride 2 mg tablets
+duetact® pioglitazone 30 mg and glimepiride 2 mg tablets
 
 Each tablet contains pioglitazone hydrochloride equivalent to 30 mg pioglitazone and 2 mg glimepiride.
 
@@ -14,7 +14,7 @@ Takeda Rx Only
 
 NDC 64764-304-30 30 Tablets
 
-duetact pioglitazone 30 mg and glimepiride 4 mg tablets
+duetact® pioglitazone 30 mg and glimepiride 4 mg tablets
 
 Each tablet contains pioglitazone hydrochloride equivalent to 30 mg pioglitazone and 4 mg glimepiride.
 

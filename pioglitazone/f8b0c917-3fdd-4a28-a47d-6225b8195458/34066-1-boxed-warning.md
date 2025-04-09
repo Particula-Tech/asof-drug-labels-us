@@ -1,6 +1,6 @@
 # WARNING: CONGESTIVE HEART FAILURE
 
-- •Thiazolidinediones, including pioglitazone, which is a component of DUETACT, cause or exacerbate congestive heart failure in some patients [see Warnings and Precautions (5.1)].
+- •Thiazolidinediones, including pioglitazone, which is a component of DUETACT®, cause or exacerbate congestive heart failure in some patients [see Warnings and Precautions (5.1)].
 - •After initiation of DUETACT and after dose increases, monitor patients carefully for signs and symptoms of heart failure (e.g., excessive, rapid weight gain, dyspnea, and/or edema).
   If heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of DUETACT must be considered [see Warnings and Precautions (5.1)].
 - •DUETACT is not recommended in patients with symptomatic heart failure [see Warnings and Precautions (5.1)].
