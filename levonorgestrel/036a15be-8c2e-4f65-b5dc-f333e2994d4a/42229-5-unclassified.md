@@ -50,7 +50,7 @@ DOLISHALE is a birth-control pill that is taken every day.
 When you take DOLISHALE, the lining of your uterus does not undergo the changes needed for menstruation, and therefore you do not have regular menstrual periods.
 You are likely to have unscheduled or unplanned bleeding or spotting when you start to use DOLISHALE.
 The number of days each month with unscheduled bleeding and spotting usually decreases over time for the majority of women.
-When using DOLISHALE the convenience of having no regular menstrual periods should be weighed against the inconvenience of unscheduled or unplanned breakthrough bleeding and spotting.
+When using DOLISHALE, the convenience of having no regular menstrual periods should be weighed against the inconvenience of unscheduled or unplanned breakthrough bleeding and spotting.
 
 For the majority of women, oral contraceptives can be taken safely.
 However, there are some women who are at high risk of developing certain serious diseases that can be life-threatening or may cause temporary or permanent disability or death.
@@ -93,17 +93,7 @@ The symptoms associated with these serious side effects are discussed in the det
 Notify your health care provider if you notice any unusual physical disturbances while taking the pill.
 In addition, drugs such as rifampin, as well as some anticonvulsants and some antibiotics, herbal preparations containing St. John's Wort (Hypericum perforatum), and HIV/AIDS drugs may decrease oral contraceptive effectiveness.
 
-Various studies give conflicting reports on the relationship between breast cancer and oral contraceptive use.
-
-Oral contraceptive use may slightly increase your chance of having breast cancer diagnosed, particularly if you started using hormonal contraceptives at a younger age.
-
-After you stop using hormonal contraceptives, the chances of having breast cancer diagnosed begin to go down, and disappear 10 years after stopping use of the pill.
-It is not known whether this slightly increased risk of having breast cancer diagnosed is caused by the pill.
-It may be that women taking the pill were examined more often, so that breast cancer was more likely to be detected.
-
-You should have regular breast examinations by a health care professional and examine your own breasts monthly.
-Tell your health care professional if you have a family history of breast cancer or if you have had breast nodules or an abnormal mammogram.
-Women who currently have or have had breast cancer should not use oral contraceptives because breast cancer is usually a hormone-sensitive tumor.
+There may be slight increases in the risk of breast cancer among current users of hormonal birth control pills with longer duration of use of 8 years or more.
 
 Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
 However, this finding may be related to factors other than the use of oral contraceptives.
@@ -267,7 +257,7 @@ WHAT TO DO IF YOU MISS PILLS
 Combination oral contraceptives may not be as effective if you miss pills.
 Instructions for what to do if you miss pills are provided in the following table.
 
-| of pills missed in a row | What to do when you miss a pill(s) |
+| # of pills missed in a row | What to do when you miss a pill(s) |
 | --- | --- |
 | 1 missed pill | • Take the missed pill as soon as you remember. THEN • Take the next pill at your regular time. This means you may take 2 pills in 1 day. • You COULD BECOME PREGNANT if you have sex during the 7 days after you restart your pills. You MUST use a nonhormonal birth-control method (such as condoms and/or spermicide) as a back-up for those 7 days. |
 | 2 missed pills and remembered on the day of the second missed pill | • Take 2 missed pills on the day you remember. The following day you are back on schedule to take 1 pill a day. For example, you take your pills in the morning and you missed 1 pill on Monday and 1 on Tuesday. On Tuesday evening you remembered that you missed your Monday and Tuesday pills. You take the 2 missed pills on Tuesday evening and on Wednesday morning you're back on schedule and you take 1 pill. • You COULD BECOME PREGNANT if you have sex during the 7 days after you restart your pills. You MUST use a nonhormonal birth-control method (such as condoms and/or spermicide) as a back-up for those 7 days. |
@@ -411,7 +401,7 @@ You should consult your health care professional about stopping oral contracepti
 You should also not take oral contraceptives soon after delivery of a baby or after a midtrimester pregnancy termination.
 It is advisable to wait for at least four weeks after delivery if you are not breast-feeding.
 If you are breast-feeding, you should wait until you have weaned your child before using the pill.
-(See also the section While Breast-Feeding in GENERAL PRECAUTIONS.)
+(See also the section While Breast-Feedingin GENERAL PRECAUTIONS.)
 
 The risk of blood clots is greater in users of combination oral contraceptives compared to nonusers.
 This risk may be higher in users of high-dose pills (those containing 0.05 mg or more of estrogen) and may also be greater with longer use.
@@ -458,21 +448,12 @@ However, liver cancers are extremely rare.
 The chance of developing liver cancer from using the pill is thus even rarer.
 
 5.
-Cancer of the Reproductive Organs and Breasts
+Risk of Cancer
 
-Various studies give conflicting reports on the relationship between breast cancer and oral contraceptive use.
+It is not known if hormonal birth control pills causes breast cancer.
+Some studies, but not all, suggest that there could be a slight increase in the risk of breast cancer among current users with longer duration of use.
 
-Oral contraceptive use may slightly increase your chance of having breast cancer diagnosed, particularly if you started using hormonal contraceptives at a younger age.
-
-After you stop using hormonal contraceptives, the chances of having breast cancer diagnosed begin to go down, and disappear 10 years after stopping use of the pill.
-It is not known whether this slightly increased risk of having breast cancer diagnosed is caused by the pill.
-It may be that women taking the pill were examined more often, so that breast cancer was more likely to be detected.
-
-You should have regular breast examinations by a health care professional and examine your own breasts monthly.
-Tell your health care professional if you have a family history of breast cancer or if you have had breast nodules or an abnormal mammogram.
-Women who currently have or have had breast cancer should not use oral contraceptives because breast cancer is usually a hormone-sensitive tumor.
-
-Some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
+If you have breast cancer now, or have had it in the past, do not use hormonal birth control because some breast cancers are sensitive to hormones.some studies have found an increase in the incidence of cancer of the cervix in women who use oral contraceptives.
 However, this finding may be related to factors other than the use of oral contraceptives.
 
 6.
@@ -761,7 +742,7 @@ WHAT TO DO IF YOU MISS PILLS
 Combination oral contraceptives may not be as effective if you miss pills.
 Instructions for what to do if you miss pills are provided in the following table.
 
-| of pills missed in a row | What to do when you miss a pill(s) |
+| # of pills missed in a row | What to do when you miss a pill(s) |
 | --- | --- |
 | 1 missed pill | • Take the missed pill as soon as you remember. THEN • Take the next pill at your regular time. This means you may take 2 pills in 1 day. • You COULD BECOME PREGNANT if you have sex during the 7 days after you restart your pills. You MUST use a nonhormonal birth-control method (such as condoms and/or spermicide) as a back-up for those 7 days. |
 | 2 missed pills and remembered on the day of the second missed pill | • Take 2 missed pills on the day you remember. The following day you are back on schedule to take 1 pill a day. For example, you take your pills in the morning and you missed 1 pill on Monday and 1 on Tuesday. On Tuesday evening you remembered that you missed your Monday and Tuesday pills. You take the 2 missed pills on Tuesday evening and on Wednesday morning you're back on schedule and you take 1 pill. • You COULD BECOME PREGNANT if you have sex during the 7 days after you restart your pills. You MUST use a nonhormonal birth-control method (such as condoms and/or spermicide) as a back-up for those 7 days. |
@@ -836,9 +817,9 @@ Trademarks are the property of their respective owners.
 
 Rx Only
 
-Iss: 12/2020
+Iss: 12/2024
 
-Rev A
+Rev B
 
 Manufactured for:
 

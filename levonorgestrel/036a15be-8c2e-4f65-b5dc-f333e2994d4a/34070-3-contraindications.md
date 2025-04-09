@@ -22,7 +22,7 @@ Combination oral contraceptives should not be used in women with any of the foll
 
 • Uncontrolled hypertension
 
-• Known or suspected carcinoma of the breast or personal history of breast cancer
+• Current diagnosis of, or history of, breast cancer, which may be hormone-sensitive
 
 • Carcinoma of the endometrium or other known or suspected estrogen-dependent neoplasia Undiagnosed abnormal genital bleeding
 

@@ -28,9 +28,9 @@ If the patient has not adhered to the prescribed schedule (missed one or more ta
 Hormonal contraception must be discontinued if pregnancy is confirmed.
 
 The risk of pregnancy increases with each tablet missed.
-For additional patient instructions regarding missed tablets, see the WHAT TO DO IF YOU MISS PILLS section in the DETAILED PATIENT LABELING below.
+For additional patient instructions regarding missed tablets, see the WHAT TO DO IF YOU MISS PILLSsection in the DETAILED PATIENT LABELINGbelow.
 
-DOLISHALE may be initiated no earlier than day 28 postpartum in the nonlactating mother or after a second-trimester abortion due to the increased risk for thromboembolism (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONS concerning thromboembolic disease).
+DOLISHALE may be initiated no earlier than day 28 postpartum in the nonlactating mother or after a second-trimester abortion due to the increased risk for thromboembolism (see CONTRAINDICATIONS, WARNINGS, and PRECAUTIONSconcerning thromboembolic disease).
 The patient should be advised to use a nonhormonal back-up method for the first 7 days of tablet-taking.
 However, if intercourse has already occurred, pregnancy should be excluded before the start of combined oral contraceptive use or the patient must wait for her first menstrual period.
 

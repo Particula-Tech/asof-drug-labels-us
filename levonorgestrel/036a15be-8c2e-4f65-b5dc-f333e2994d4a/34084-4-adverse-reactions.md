@@ -1,6 +1,19 @@
 # ADVERSE REACTIONS
 
-An increased risk of the following serious adverse reactions (see WARNINGS section for additional information) has been associated with the use of oral contraceptives:
+Post Marketing Experience Five studies that compared breast cancer risk between ever-users (current or past use) of COCs and never-users of COCs reported no association between ever use of COCs and breast cancer risk, with effect estimates ranging from 0.90 - 1.12 (Figure 6).
+
+Three studies compared breast cancer risk between current or recent COC users (<6 months since last use) and never users of COCs (Figure 6).
+One of these studies reported no association between breast cancer risk and COC use.
+The other two studies found an increased relative risk of 1.19 - 1.33 with current or recent use.
+Both of these studies found an increased risk of breast cancer with current use of longer duration, with relative risks ranging from 1.03 with less than one year of COC use to approximately 1.4 with more than 8-10 years of COC use.
+
+Figure 6.
+Risk of Breast Cancer with Combined Oral Contraceptive Use
+
+RR = relative risk; OR = odds ratio; HR = hazard ratio.
+“ever COC” are females with current or past COC use; “never COC use” are females that never used COCs.
+
+An increased risk of the following serious adverse reactions (see WARNINGSsection for additional information) has been associated with the use of oral contraceptives:
 
 Thromboembolic and thrombotic disorders and other vascular problems (including thrombophlebitis and venous thrombosis with or without pulmonary embolism, mesenteric thrombosis, arterial thromboembolism, myocardial infarction, cerebral hemorrhage, cerebral thrombosis, transient ischemic attack), carcinoma of the reproductive organs and breasts, hepatic neoplasia/liver disease (including hepatic adenomas or benign liver tumors), ocular lesions (including retinal vascular thrombosis), gallbladder disease, carbohydrate and lipid effects, elevated blood pressure, and headache including migraine.
 

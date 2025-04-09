@@ -30,11 +30,11 @@ The risk is very low under the age of 30.
 Smoking in combination with oral contraceptive use has been shown to contribute substantially to the incidence of myocardial infarction in women in their mid-thirties or older with smoking accounting for the majority of excess cases.
 Mortality rates associated with circulatory disease have been shown to increase substantially in smokers over the age of 35 and nonsmokers over the age of 40 (Figure 3) among women who use oral contraceptives.
 
-Figure 3: Circulatory Disease Mortality Rates per 100,000 Woman Years by Age, Smoking Status and Oral Contraceptive Use
+Figure 3: Circulatory Disease Mortality Rates per 100,000 Woman Years by Age, SmokingStatus and Oral Contraceptive Use
 
 Oral contraceptives may compound the effects of well-known risk factors, such as hypertension, diabetes, hyperlipidemias, age, and obesity.
 In particular, some progestogens are known to decrease HDL cholesterol and cause glucose intolerance, while estrogens may create a state of hyperinsulinism.
-Oral contraceptives have been shown to increase blood pressure among users (see section 10 in WARNINGS).
+Oral contraceptives have been shown to increase blood pressure among users (see section 10in WARNINGS).
 Similar effects on risk factors have been associated with an increased risk of heart disease.
 Oral contraceptives must be used with caution in women with cardiovascular disease risk factors.
 
@@ -130,24 +130,18 @@ Adapted from H.W.
 Ory, Family Planning Perspectives, 15:57 to 63, 1983.
 
 3.
-Carcinoma of the Reproductive Organs and Breasts
+Malignant Neoplasms
 
-Numerous epidemiological studies have examined the association between the use of oral contraceptives and the incidence of breast and cervical cancer.
+Breast Cancer DOLISHALE is contraindicated in females who currently have or have had breast cancer because breast cancer may be hormonally sensitive [see Contraindications].
 
-The risk of having breast cancer diagnosed may be slightly increased among current and recent users of combination oral contraceptives.
-However, this excess risk appears to decrease over time after combination oral contraceptive discontinuation and by 10 years after cessation the increased risk disappears.
-Some studies report an increased risk with duration of use while other studies do not and no consistent relationships have been found with dose or type of steroid.
-Some studies have reported a small increase in risk for women who first use combination oral contraceptives at a younger age.
-Most studies show a similar pattern of risk with combination oral contraceptive use regardless of a woman's reproductive history or her family breast cancer history.
+Epidemiology studies have not found a consistent association between use of combined oral contraceptives (COCs) and breast cancer risk.
+Studies do not show an association between ever (current or past) use of COCs and risk of breast cancer.
+However, some studies report a small increase in the risk of breast cancer among current or recent users (<6 months since last use) and current users with longer duration of COC use [see Postmarketing Experience].
 
-Breast cancers diagnosed in current or previous oral contraceptive users tend to be less clinically advanced than in nonusers.
-
-Women with known or suspected carcinoma of the breast or personal history of breast cancer should not use oral contraceptives because breast cancer is usually a hormonally sensitive tumor.
+Cervical Cancer
 
 Some studies suggest that oral contraceptive use has been associated with an increase in the risk of cervical intraepithelial neoplasia or invasive cervical cancer in some populations of women.
 However, there continues to be controversy about the extent to which such findings may be due to differences in sexual behavior and other factors.
-
-In spite of many studies of the relationship between combination oral contraceptive use and breast and cervical cancers, a cause-and-effect relationship has not been established.
 
 Endometrial biopsies performed in a subset of subjects (Study 1; n = 93) ages 18 to 49 years, after 6 to 12 months of use of levonorgestrel and ethinyl estradiol, did not reveal any hyperplasias or malignancies.
 Endometrial malignancy is rare in this age group, so change in the risk is unlikely to be detected with a study of this size.
@@ -180,7 +174,7 @@ Appropriate diagnostic and therapeutic measures should be undertaken immediately
 Oral Contraceptive Use Before or During Early Pregnancy
 
 Extensive epidemiological studies have revealed no increased risk of birth defects in infants born to women who have used oral contraceptives prior to pregnancy.
-Studies also do not suggest a teratogenic effect, particularly insofar as cardiac anomalies and limb-reduction defects are concerned, when taken inadvertently during early pregnancy (see CONTRAINDICATIONS section).
+Studies also do not suggest a teratogenic effect, particularly insofar as cardiac anomalies and limb-reduction defects are concerned, when taken inadvertently during early pregnancy (see CONTRAINDICATIONSsection).
 
 The administration of oral contraceptives to induce withdrawal bleeding should not be used as a test for pregnancy.
 Oral contraceptives should not be used during pregnancy to treat threatened or habitual abortion.
@@ -215,7 +209,7 @@ An increase in blood pressure has been reported in women taking oral contracepti
 Data from the Royal College of General Practitioners and subsequent randomized trials have shown that the incidence of hypertension increases with increasing quantities of progestogens.
 
 Women with a history of hypertension or hypertension-related diseases, or renal disease should be encouraged to use another method of contraception.
-If women with hypertension elect to use oral contraceptives, they should be monitored closely and if significant elevation of blood pressure occurs, oral contraceptives should be discontinued (see CONTRAINDICATIONS section).
+If women with hypertension elect to use oral contraceptives, they should be monitored closely and if significant elevation of blood pressure occurs, oral contraceptives should be discontinued (see CONTRAINDICATIONSsection).
 For most women, elevated blood pressure will return to normal after stopping oral contraceptives, and there is no difference in the occurrence of hypertension among ever- and never-users.
 
 11.
@@ -355,11 +349,11 @@ This may be of clinical significance if a woman becomes pregnant shortly after d
 
 ## 11. Carcinogenesis
 
-See WARNINGS section.
+See WARNINGSsection.
 
 ## 12. Pregnancy
 
-Pregnancy Category X. See CONTRAINDICATIONS and WARNINGS sections.
+Pregnancy Category X. See CONTRAINDICATIONSand WARNINGSsections.
 
 ## 13. Nursing Mothers
 
@@ -379,4 +373,4 @@ This product has not been studied in women over 65 years of age and is not indic
 
 ## 16. Information for the Patient
 
-See DETAILED PATIENT LABELING printed below.
+See DETAILED PATIENT LABELINGprinted below.

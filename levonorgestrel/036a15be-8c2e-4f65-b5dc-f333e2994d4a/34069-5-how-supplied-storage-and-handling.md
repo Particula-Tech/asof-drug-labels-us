@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-DOLISHALE (90 mcg levonorgestrel and 20 mcg ethinyl estradiol) tablets are available in a blister pack, arranged in 4 rows of 7 active tablets as follows:
+DOLISHALE(90 mcg levonorgestrel and 20 mcg ethinyl estradiol) tablets are available in a blister pack, arranged in 4 rows of 7 active tablets as follows:
 
 28 round, green biconvex tablets debossed with "H1" on one side.
 
@@ -19,11 +19,11 @@ References available upon request.
 
 Rx Only
 
-Iss: 12/2020
+Iss: 12/2024
 
 I0154
 
-Rev A
+Rev B
 
 Manufactured for:
 
