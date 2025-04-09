@@ -13,10 +13,10 @@ See FDA-Approved Patient Labeling (Medication Guide).
 - •When using combination therapy with insulin or other antidiabetic medications, the risks of hypoglycemia, its symptoms and treatment, and conditions that predispose to its development should be explained to patients and their family members.
 - •Inform female patients that treatment with ACTOS, like other thiazolidinediones, may result in an unintended pregnancy in some premenopausal anovulatory females due to its effect on ovulation [see Use in Specific Populations (8.3)].
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
+Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
-ACTOS is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
+ACTOS is a registered trademark of Takeda Pharmaceutical Company Limited.
 
-©1999 - 2020 Takeda Pharmaceuticals America, Inc.
+©2025 Takeda Pharmaceuticals America, Inc. All rights reserved.
 
-ACT003 R23
+ACT003 R24

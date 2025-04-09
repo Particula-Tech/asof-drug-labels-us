@@ -1,6 +1,6 @@
 MEDICATION GUIDE
 
-ACTOS (ak-TŌS) (pioglitazone) tablets
+ACTOS® (ak-TŌS) (pioglitazone) tablets
 
 Read this Medication Guide carefully before you start taking ACTOS and each time you get a refill.
 There may be new information.
@@ -177,12 +177,12 @@ Inactive Ingredients: lactose monohydrate, hydroxypropylcellulose, carboxymethyl
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
+Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
-Revised: December 2016
+Revised: March 2025
 
-ACTOS is a trademark of Takeda Pharmaceutical Company Limited registered with the U.S. Patent and Trademark Office and used under license by Takeda Pharmaceuticals America, Inc.
+ACTOS is a registered trademark of Takeda Pharmaceutical Company Limited.
 
-© 2009 - 2020 Takeda Pharmaceuticals America, Inc.
+©2025 Takeda Pharmaceuticals America, Inc. All rights reserved.
 
-ACT003 R23
+ACT003 R24

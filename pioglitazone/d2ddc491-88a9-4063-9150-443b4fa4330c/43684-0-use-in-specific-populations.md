@@ -44,7 +44,7 @@ Discuss the potential for unintended pregnancy with premenopausal women as thera
 
 Safety and effectiveness of ACTOS in pediatric patients have not been established.
 
-ACTOS is not recommended for use in pediatric patients based on adverse effects observed in adults, including fluid retention and congestive heart failure, fractures, and urinary bladder tumors [see Warnings and Precautions (5.1, 5.4, 5.5 and 5.6)].
+ACTOS is not recommended for use in pediatric patients based on adverse effects observed in adults, including fluid retention and congestive heart failure, fractures, and urinary bladder tumors [see Warnings and Precautions (5.1, 5.4, 5.5, and 5.6)].
 
 ## 8.5 Geriatric Use
 

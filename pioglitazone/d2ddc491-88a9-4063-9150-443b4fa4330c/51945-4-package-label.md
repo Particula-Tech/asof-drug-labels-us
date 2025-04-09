@@ -2,7 +2,7 @@
 
 NDC 64764-151-04 30 Tablets
 
-actos (pioglitazone) Tablets
+actos® (pioglitazone) Tablets
 
 15 mg
 
@@ -18,7 +18,7 @@ Rx Only
 
 NDC 64764-301-14 30 Tablets
 
-actos (pioglitazone) Tablets
+actos® (pioglitazone) Tablets
 
 30 mg
 
@@ -34,7 +34,7 @@ Rx Only
 
 NDC 64764-451-24 30 Tablets
 
-actos (pioglitazone) Tablets
+actos® (pioglitazone) Tablets
 
 45 mg
 
