@@ -4,14 +4,14 @@ To report SUSPECTED ADVERSE REACTIONS, contact Fresenius Kabi USA, LLC at 1-800-
 
 The following adverse reactions have been reported in the mother:
 
-- Anaphylactic reaction
-- Postpartum hemorrhage
-- Cardiac arrhythmia
-- Fatal afibrinogenemia
-- Nausea
-- Vomiting
-- Premature ventricular contractions
-- Pelvic hematoma
+- •Anaphylactic reaction
+- •Postpartum hemorrhage
+- •Cardiac arrhythmia
+- •Fatal afibrinogenemia
+- •Nausea
+- •Vomiting
+- •Premature ventricular contractions
+- •Pelvic hematoma
 
 Excessive dosage or hypersensitivity to the drug may result in uterine hypertonicity, spasm, tetanic contraction or rupture of the uterus.
 
@@ -24,13 +24,13 @@ The following adverse reactions have been reported in the fetus or infant:
 
 Due to induced uterine mobility:
 
-- Bradycardia
-- Premature ventricular contractions and other arrhythmias
-- Permanent CNS or brain damage
-- Fetal death
+- •Bradycardia
+- •Premature ventricular contractions and other arrhythmias
+- •Permanent CNS or brain damage
+- •Fetal death
 
 Due to use of oxytocin in the mother:
 
-- Neonatal retinal hemorrhage
-- Low Apgar scores at five minutes
-- Neonatal jaundice
+- •Neonatal retinal hemorrhage
+- •Low Apgar scores at five minutes
+- •Neonatal jaundice
