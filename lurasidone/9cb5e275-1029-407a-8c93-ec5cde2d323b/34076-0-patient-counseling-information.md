@@ -4,12 +4,12 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide)
 
 Suicidal Thoughts and Behavior
 
-Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down and instruct them to report such symptoms to the healthcare provider [see Boxed Warning, Warning and Precautions (5.2)].
+Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down and instruct them to report such symptoms to the healthcare provider [see Boxed Warning, Warnings and Precautions (5.2)].
 
 Neuroleptic Malignant Syndrome
 
 Counsel patients about a potentially fatal adverse reaction referred to as Neuroleptic Malignant Syndrome (NMS).
-Advise patients, family members, or caregivers to contact healthcare provider or to report to the emergency room if they experience signs and symptoms of NMS [see Warnings and Precautions (5.4)].
+Advise patients, family members, or caregivers to contact the healthcare provider or to report to the emergency room if they experience signs and symptoms of NMS [see Warnings and Precautions (5.4)].
 
 Tardive Dyskinesia
 
@@ -54,6 +54,8 @@ Advise patients that lurasidone hydrochloride tablets may cause extrapyramidal a
 Advise patients to notify their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to lurasidone hydrochloride tablets during pregnancy [see Use in Specific Populations (8.1)].
 
+Trademarks are the property of their respective owners.
+
 Manufactured by:
 
 TORRENT PHARMACEUTICALS LTD., INDIA.
@@ -62,4 +64,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8093909 Revised: August 2023
+8100116 Revised: April 2025

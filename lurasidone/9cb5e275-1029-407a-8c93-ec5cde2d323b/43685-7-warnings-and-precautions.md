@@ -6,7 +6,7 @@ Elderly patients with dementia-related psychosis treated with antipsychotic drug
 Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6- to 1.7-times the risk of death in placebo-treated patients.
 Over the course of a typical 10-week controlled trial, the rate of death in drug-treated patients was about 4.5%, compared to a rate of about 2.6% in the placebo group.
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
-Lurasidone hydrochloride is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.3)].
+Lurasidone hydrochloride tablets are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.3)].
 
 ## 5.2 Suicidal Thoughts and Behaviors in Pediatric and Young Adult Patients
 
@@ -173,7 +173,7 @@ Schizophrenia
 
 Adults
 
-Pooled data from short-term, placebo-controlled schizophrenia studies are presented in Table 6: Change in Fasting Lipids in Adult Schizophrenia Studies
+Pooled data from short-term, placebo-controlled schizophrenia studies are presented in Table 6.
 
 Table 6: Change in Fasting Lipids in Adult Schizophrenia Studies
 
@@ -242,7 +242,7 @@ Table 8: Change in Fasting Lipids in the Adult Adjunctive Therapy Bipolar Depres
 
 Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 120 mg/day or placebo as adjunctive therapy with lithium or valproate.
 
-In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride, as adjunctive therapy with either lithium or valproate in the short-term study and continued in the longer-term study, had a mean change in total cholesterol and triglycerides of -0.9 (n=88) and +5.3 (n=88) mg/dL at week 24, respectively.
+In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride as adjunctive therapy with either lithium or valproate in the short-term study and continued in the longer-term study, had a mean change in total cholesterol and triglycerides of -0.9 (n=88) and +5.3 (n=88) mg/dL at week 24, respectively.
 
 Pediatric Patients (10 to 17 years)
 
@@ -283,8 +283,7 @@ Data from the short-term, placebo-controlled adolescent schizophrenia study are 
 The mean change in weight gain was +0.5 kg for lurasidone hydrochloride tablets -treated patients compared to +0.2 kg for placebo-treated patients.
 The proportion of patients with a ≥7% increase in body weight (at Endpoint) was 3.3% for lurasidone hydrochloride tablets-treated patients and 4.5% for placebo-treated patients.
 
-Table 10.
-Mean Change in Weright (kg) from Baseline in Adolescent Schizophrenia Studies
+Table 10: Mean Change in Weight (kg) from Baseline in the Adolescent Schizophrenia Study
 
 |  | Lurasidone hydrochloride tablets |  |  |
 | --- | --- | --- | --- |
@@ -337,7 +336,7 @@ Data from the 6-week, placebo-controlled bipolar depression study in patients 10
 The mean change in weight gain was +0.7 kg for lurasidone hydrochloride tablets-treated patients compared to +0.5 kg for placebo-treated patients.
 The proportion of patients with a ≥7% increase in body weight (at Endpoint) was 4.0% for lurasidone hydrochloride tablets-treated patients and 5.3% for placebo-treated patients.
 
-Table 13: Mean Change in Weight (kg) from Baseline in Bipolar Depression Study Pediatric Patients (10 to 17 years)
+Table 13: Mean Change in Weight (kg) from Baseline in the Bipolar Depression Study in Pediatric Patients (10 to 17 years)
 
 |  | Placebo(n=170) | Lurasidone hydrochloride 20 to 80 mg/day (n=175) |
 | --- | --- | --- |
@@ -362,7 +361,7 @@ Long-standing hyperprolactinemia, when associated with hypogonadism, may lead to
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in a carcinogenicity study conducted with lurasidone in rats and mice [see Nonclinical Toxicology (13)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 Schizophrenia
 
@@ -393,7 +392,7 @@ In the short-term, placebo-controlled adolescent schizophrenia study, the median
 For lurasidone hydrochloride tablets-treated patients, the median change from baseline to endpoint for males was +1.0 ng/mL and for females was +2.6 ng/mL.
 Median changes for prolactin by dose are shown in Table 15.
 
-Tabler 15: Median Change in Prolactin (ng/mL) from Baseline in the Adolescent Schizophrenia Study
+Table 15: Median Change in Prolactin (ng/mL) from Baseline in the Adolescent Schizophrenia Study
 
 |  |  | Lurasidone hydrochloride tablets | Lurasidone hydrochloride tablets |  |
 | --- | --- | --- | --- | --- |
@@ -474,7 +473,7 @@ Table 18: Median Change in Prolactin (ng/mL) from Baseline in the Bipolar Depres
 | Females | +0.55(n=78) | +2.50(n=83) |
 | Males | +0.50 (n=79) | +0.85(n=82) |
 
-The proportion of patients with prolactin elevations ≥5x ULN was 0% for Llrasidone hydrochloride tablets-treated patients and 0.6% for placebo-treated patients.
+The proportion of patients with prolactin elevations ≥5x ULN was 0% for lurasidone hydrochloride tablets-treated patients and 0.6% for placebo-treated patients.
 The proportion of female patients with prolactin elevations ≥5x ULN was 0% for lurasidone hydrochloride tablets-treated patients and 1.3% for placebo-treated female patients.
 No male patients in the placebo or lurasidone hydrochloride tablets treatment groups had prolactin elevations ≥5x ULN.
 
@@ -561,7 +560,7 @@ Bipolar Depression
 
 Monotherapy
 
-In the adult and pediatric 6-week, flexible-dose, placebo-controlled monotherapy bipolar depression study, no patients experienced seizures/convulsions.
+In the adult and pediatric 6-week, flexible-dose, placebo-controlled monotherapy bipolar depression studies, no patients experienced seizures/convulsions.
 
 Adjunctive Therapy with Lithium or Valproate
 

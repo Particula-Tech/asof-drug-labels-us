@@ -12,7 +12,7 @@ Risk Summary
 Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery [see Clinical Considerations].
 There are no studies of lurasidone hydrochloride tablets use in pregnant women.
 The limited available data are not sufficient to inform a drug-associated risk of birth defects or miscarriage.
-In animal reproduction studies, no teratogenic effects were seen in pregnant rats and rabbits given lurasidone during the period of organogenesis at doses approximately 1.5- and 6-times, the maximum recommended human dose (MRHD) of 160 mg/day, respectively based on mg/m 2 body surface area [see Data].
+In animal reproduction studies, no teratogenic effects were seen in pregnant rats and rabbits given lurasidone during the period of organogenesis at doses approximately 1.5- and 6-times, the maximum recommended human dose (MRHD) of 160 mg/day, respectively based on mg/m2 body surface area [see Data].
 
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
@@ -33,11 +33,11 @@ Animal Data
 
 Pregnant rats were treated with oral lurasidone at doses of 3, 10, and 25 mg/kg/day during the period of organogenesis.
 These doses are 0.2, 0.6, and 1.5 times the MRHD of 160 mg/day based on mg/m2 body surface area.
-No teratogenic or embryo-fetal effects were observed up to 1.5 times the MHRD of 160 mg/day, based on mg/m 2.
+No teratogenic or embryo-fetal effects were observed up to 1.5 times the MRHD of 160 mg/day, based on mg/m 2.
 
 Pregnant rabbits were treated with oral lurasidone at doses of 2, 10, and 50 mg/kg/day during the period of organogenesis.
 These doses are 0.2, 1.2 and 6 times the MRHD of 160 mg/day based on mg/m2.
-No teratogenic or embryo-fetal effects were observed up to 6 times the MHRD of 160 mg/day based on mg/m 2.
+No teratogenic or embryo-fetal effects were observed up to 6 times the MRHD of 160 mg/day based on mg/m 2.
 
 Pregnant rats were treated with oral lurasidone at doses of 0.4, 2, and 10 mg/kg/day during the periods of organogenesis and lactation.
 These doses are 0.02, 0.1 and 0.6 times the MRHD of 160 mg/day based on mg/m2.
@@ -57,13 +57,13 @@ Schizophrenia
 
 The safety and effectiveness of lurasidone hydrochloride tablets 40-mg/day and 80-mg/day for the treatment of schizophrenia in adolescents (13 to 17 years) was established in a 6-week, placebo-controlled clinical study in 326 adolescent patients [see Dosage and Administration (2.1), Adverse Reactions (6.1), and Clinical Studies (14.1)].
 
-The safety and effectiveness of lurasidone hydrochloride have not been established in pediatric patients less than 13 years of age with schizophrenia.
+The safety and effectiveness of lurasidone hydrochloride has not been established in pediatric patients less than 13 years of age with schizophrenia.
 
 Bipolar Depression
 
 The safety and effectiveness of lurasidone hydrochloride tablets 20 to 80 mg/day for the treatment of bipolar depression in pediatric patients (10 to 17 years) was established in a 6-week, placebo-controlled clinical study in 347 pediatric patients [see Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
-The safety and effectiveness of lurasidone hydrochloride have not been established in pediatric patients less than 10 years of age with bipolar depression.
+The safety and effectiveness of lurasidone hydrochloride has not been established in pediatric patients less than 10 years of age with bipolar depression.
 
 Irritability Associated with Autistic Disorder
 
@@ -92,7 +92,7 @@ Mortality occurred in both sexes during early post- weaning period and some of t
 Histopathological findings included increased colloid in the thyroids and inflammation of the prostate in males at 10 times MRHD based on mg/m 2 and mammary gland hyperplasia, increased vaginal mucification, and increased ovarian atretic follicles at doses as low as 0.2 times the MRHD based on mg/m 2.
 Some of these findings were attributed to transiently elevated serum prolactin which was seen in both sexes at all doses.
 However, there were no changes at any dose level in reproductive parameters (fertility, conception indices, spermatogenesis, estrous cycle, gestation length, parturition, number of pups born).
-The no effect dose for neurobehavioral changes in males is 0.2 times the MHRD based on mg/m 2 and could not be determined in females.
+The no effect dose for neurobehavioral changes in males is 0.2 times the MRHD based on mg/m 2 and could not be determined in females.
 The no effect dose for growth and physical development in both sexes is 0.2 times the MRHD based on mg/m 2.
 
 ## 8.5 Geriatric Use
@@ -108,7 +108,7 @@ Lurasidone hydrochloride is not approved for the treatment of patients with deme
 
 Reduce the maximum recommended dosage in patients with moderate or severe renal impairment (CLcr<50 mL/minute).
 Patients with impaired renal function (CLcr<50 mL/minute) had higher exposure to lurasidone than patients with normal renal function [see Clinical Pharmacology (12.3)].
-Greater exposure may increase the risk of lurasidone Hydrochloride-associated adverse reactions [see Dosage and Administration (2.4)]
+Greater exposure may increase the risk of lurasidone hydrochloride-associated adverse reactions [see Dosage and Administration (2.4)]
 
 ## 8.7 Hepatic Impairment
 

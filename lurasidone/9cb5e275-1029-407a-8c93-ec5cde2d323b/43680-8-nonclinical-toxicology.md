@@ -12,11 +12,11 @@ No increases in tumors were seen in male rats up to the highest dose tested, whi
 Proliferative and/or neoplastic changes in the mammary and pituitary glands of rodents have been observed following chronic administration of antipsychotic drugs and are considered to be prolactin-mediated [see Warnings and Precautions (5.7)].
 
 Mutagenesis: Lurasidone did not cause mutation or chromosomal aberration when tested in vitro and in vivo test battery.
-Lurasidone was negative in the Ames gene mutation test, the Chinese Hamster Lung (CHL) cells, and in the in vivo mouse bone marrow micronucleus test up to 2,000 mg/kg which is 61 times the MRHD of 160 mg/day based on mg/m 2 body surface area.
+Lurasidone was negative in the Ames gene mutation test, the Chinese Hamster Lung (CHL) cells, and in the in vivo mouse bone marrow micronucleus test up to 2,000 mg/kg which is 61 times the MRHD of 160 mg/day based on mg/m2 body surface area.
 
 Impairment of Fertility: Estrus cycle irregularities were seen in rats orally administered lurasidone at 1.5, 15 and 150 mg/kg/day for 15 consecutive days prior to mating, during the mating period, and through gestation day 7.
-No effect was seen at the lowest dose of 0.1 mg/kg which is approximately 0.006 times the MRHD of 160 mg/day based on mg/m 2.
+No effect was seen at the lowest dose of 0.1 mg/kg which is approximately 0.006 times the MRHD of 160 mg/day based on mg/m2.
 Fertility was reduced only at the highest dose, which was reversible after a 14 day drug-free period.
-The no-effect dose for reduced fertility was approximately equal to the MRHD based on mg/m 2.
+The no-effect dose for reduced fertility was approximately equal to the MRHD based on mg/m2.
 
-Lurasidone had no effect on fertility in male rats treated orally for 64 consecutive days prior to mating and during the mating period at doses up to 9 times the MRHD based on mg/m 2.
+Lurasidone had no effect on fertility in male rats treated orally for 64 consecutive days prior to mating and during the mating period at doses up to 9 times the MRHD based on mg/m2.

@@ -1,7 +1,5 @@
 # WARNING: INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA-RELATED PSYCHOSIS; and SUICIDAL THOUGHTS AND BEHAVIORS
 
-WARNING: INCREASED MORTALITY IN ELDERLY PATIENTS WITH DEMENTIA RELATED PSYCHOSIS; and SUICIDAL THOUGHTS AND BEHAVIORS
-
 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
@@ -10,4 +8,4 @@ Lurasidone Hydrochloride is not approved for the treatment of patients with deme
 Suicidal Thoughts and Behaviors
 
 Antidepressants increased the risk of suicidal thoughts and behavior in pediatric and young adults in short-term studies.
-Closely monitor all antidepressant-treated patients for clinical worsening and for emergence of suicidal thoughts and behaviors [see Warnings and Precautions (5.2)].
+Closely monitor all antidepressant-treated patients for clinical worsening, and for emergence of suicidal thoughts and behaviors [see Warnings and Precautions (5.2)].

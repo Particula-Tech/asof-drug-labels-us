@@ -6,11 +6,11 @@ What is the most important information I should know about lurasidone hydrochlor
 
 Lurasidone hydrochloride tablets may cause serious side effects, including:
 
-• Increased risk of death in elderly people with dementia-related psychosis.
-Medicines like lurasidone hydrochloride tablets can raise the risk of death in elderly people who have lost touch with reality (psychosis) due to confusion and memory loss (dementia). lurasidone hydrochloride tablets are not approved for the treatment of people with dementia-related psychosis.
-
-• Increased risk of suicidal thoughts or actions in children and young adults.
-Antidepressant medicines may increase suicidal thoughts or actions in some children and young adults within the first few months of treatment and when the dose is changed.
+- Increased risk of death in elderly people with dementia-related psychosis.
+  Medicines like lurasidone hydrochloride tablets can raise the risk of death in elderly people who have lost touch with reality (psychosis) due to confusion and memory loss (dementia).
+  Lurasidone hydrochloride tablets are not approved for the treatment of people with dementia-related psychosis.
+- Increased risk of suicidal thoughts or actions in children and young adults.
+  Antidepressant medicines may increase suicidal thoughts or actions in some children and young adults within the first few months of treatment and when the dose is changed.
 
 o Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
 Some people may have a particularly high risk of having suicidal thoughts or actions.
@@ -28,78 +28,57 @@ Call the healthcare provider between visits as needed, especially if you have co
 
 Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
 
-• thoughts about suicide or dying • attempts to commit suicide
-
-• new or worse depression • new or worse anxiety
-
-• feeling very agitated or restless • panic attacks
-
-• trouble sleeping (insomnia) • new or worse irritability
-
-• acting aggressive, being angry, or violent
-
-• acting on dangerous impulses
-
-• an extreme increase in activity and talking (mania)
-
-• other unusual changes in behavior or mood
+| • thoughts about suicide or dying | • attempts to commit suicide |
+| --- | --- |
+| • new or worse depression | • new or worse anxiety |
+| • feeling very agitated or restless | • panic attacks |
+| • trouble sleeping (insomnia) | • new or worse irritability |
+| • acting aggressive, being angry, or violent | • acting on dangerous impulses |
+| • an extreme increase in activity and talking (mania) | • other unusual changes in behavior or mood |
 
 What are lurasidone hydrochloride tablets?
 
-Lurasidone hydrochloride tablets are prescription medicine that are used:
+Lurasidone hydrochloride tablets are prescription medicine used:
 
-• To treat people 13 years of age or older with Schizophrenia.
-
-• Alone to treat people 10 years of age and older with depressive episodes that happen with Bipolar I Disorder (bipolar depression).
-
-• With the medicine lithium or valproate to treat adults with depressive episodes that happen with Bipolar I Disorder (bipolar depression).
+- To treat people 13 years of age or older with schizophrenia.
+- Alone to treat people 10 years of age and older with depressive episodes that happen with Bipolar I Disorder (bipolar depression).
+- With the medicine lithium or valproate to treat adults with depressive episodes that happen with Bipolar I Disorder (bipolar depression).
 
 It is not known if lurasidone hydrochloride tablets are safe and effective in children:
 
-• less than 13 years of age with schizophrenia
-
-• less than 10 years of age with bipolar depression
-
-• for the treatment of irritability associated with autistic disorder
+- less than 13 years of age with schizophrenia.
+- less than 10 years of age with bipolar depression.
+- for the treatment of irritability associated with autistic disorder.
 
 Do not take lurasidone hydrochloride t ablets if you are:
 
-• allergic to lurasidone hydrochloride or any of the ingredients in lurasidone hydrochloride tablets.
-See the end of this Medication Guide for a complete list of ingredients in lurasidone hydrochloride tablets.
-
-• taking certain other medicines called CYP3A4 inhibitors or inducers including ketoconazole, clarithromycin, ritonavir, voriconazole, mibefradil, rifampin, avasimibe, St. John's wort, phenytoin, or carbamazepine.
-Ask your healthcare provider if you are not sure if you are taking any of these medicines.
+- allergic to lurasidone hydrochloride or any of the ingredients in lurasidone hydrochloride tablets.
+  See the end of this Medication Guide for a complete list of ingredients in lurasidone hydrochloride tablets.
+- taking certain other medicines called CYP3A4 inhibitors or inducers including ketoconazole, clarithromycin, ritonavir, voriconazole, mibefradil, rifampin, avasimibe, St. John's wort, phenytoin, or carbamazepine.
+  Ask your healthcare provider if you are not sure if you are taking any of these medicines.
 
 Before taking lurasidone hydrochloridetablets, tell your healthcare provider about all of your medical conditions, including if you:
 
-• have or have had heart problems or stroke
-
-• have or have had low or high blood pressure
-
-• have or have had diabetes or high blood sugar, or have a family history of diabetes or high blood sugar.
-
-• have or have had high levels of total cholesterol or triglycerides
-
-• have or have had high prolactin levels
-
-• have or have had low white blood cell count
-
-• have or have had seizures
-
-• have or have had kidney or liver problems
-
-• are pregnant or plan to become pregnant.
-It is not known if lurasidone hydrochloride tablets will harm your unborn baby.
-Talk to your healthcare provider about the risk to your unborn baby if you take lurasidone hydrochloride tablets during pregnancy.
+- have or have had heart problems or stroke
+- have or have had low or high blood pressure
+- have or have had diabetes or high blood sugar, or have a family history of diabetes or high blood sugar.
+- have or have had high levels of total cholesterol or triglycerides
+- have or have had high prolactin levels
+- have or have had low white blood cell count
+- have or have had seizures
+- have or have had kidney or liver problems
+- are pregnant or plan to become pregnant.
+  It is not known if lurasidone hydrochloride tablets will harm your unborn baby.
+  Talk to your healthcare provider about the risk to your unborn baby if you take lurasidone hydrochloride tablets during pregnancy.
 
 o Tell your healthcare provider if you become pregnant or think you are pregnant during treatment with lurasidone hydrochloride tablets.
 
 o If you become pregnant during treatment with lurasidone hydrochloride tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Atypical Antipsychotics.
 You can register by calling 1-866-961-2388 orgotohttp://womensmentalhealth.org/clinical-and-researchprograms/ pregnancyregistry/.
 
-• are breastfeeding or plan to breastfeed.
-It is not known if lurasidone hydrochloride passes into your breast milk.
-Talk to your healthcare provider about the best way to feed your baby during treatment with lurasidone hydrochloride tablets.
+- are breastfeeding or plan to breastfeed.
+  It is not known if lurasidone hydrochloride passes into your breast milk.
+  Talk to your healthcare provider about the best way to feed your baby during treatment with lurasidone hydrochloride tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -114,24 +93,18 @@ Keep a list of your medicines to show your healthcare provider and pharmacist wh
 
 How should I take lurasidone hydrochloride tablets?
 
-• Take lurasidone hydrochloride tablets exactly as your healthcare provider tells you to take it.
-Do not change the dose or stop taking lurasidone hydrochloride tablets without first talking to your healthcare provider.
-
-• Take lurasidone hydrochloride tablets by mouth, with food (at least 350 calories).
-
-• If you take too much lurasidone hydrochloride tablets, call your healthcare provider or poison control center or go to the nearest hospital emergency room right away.
+- Take lurasidone hydrochloride tablets exactly as your healthcare provider tells you to take it.
+  Do not change the dose or stop taking lurasidone hydrochloride tablets without first talking to your healthcare provider.
+- Take lurasidone hydrochloride tablets by mouth, with food (at least 350 calories).
+- If you take too much lurasidone hydrochloride tablets, call your healthcare provider or poison control center or go to the nearest hospital emergency room right away.
 
 What should I avoid while taking lurasidone hydrochloride tablets?
 
-• Do not drive, operate heavy machinery, or do other dangerous activities until you know how lurasidone hydrochloride tablets affect you.
-Lurasidone hydrochloride tablets may make you drowsy.
-
-• Avoid eating grapefruit or drinking grapefruit juice during treatment with lurasidone hydrochloride tablets.
-Grapefruit and grapefruit juice may affect the amount of lurasidone hydrochloride tablets in your blood.
-
-• Do not become too hot or dehydrated during treatment with lurasidone
-
-hydrochloride tablets.
+- Do not drive, operate heavy machinery, or do other dangerous activities until you know how lurasidone hydrochloride tablets affect you.
+  Lurasidone hydrochloride tablets may make you drowsy.
+- Avoid eating grapefruit or drinking grapefruit juice during treatment with lurasidone hydrochloride tablets.
+  Grapefruit and grapefruit juice may affect the amount of lurasidone hydrochloride tablets in your blood.
+- Do not become too hot or dehydrated during treatment with lurasidone hydrochloride tablets.
 
 o Do not exercise too much.
 
@@ -147,12 +120,9 @@ What are the possible side effects of lurasidone hydrochloride tablets?
 
 Lurasidone hydrochloride tablets may cause serious side effects, including:
 
-• See "What is the most important information I should know about lurasidone hydrochloridetablets?"
-
-• stroke (cerebrovascular problems) in elderly people with dementia-related psychosis that can lead to death.
-
-• Neuroleptic malignant syndrome (NMS) a serious condition that can lead to death.
-Call your healthcare provider or go to the nearest hospital emergency room right away if you have some or all of the following signs and symptoms of NMS:
+- See "What is the most important information I should know about lurasidone hydrochloridetablets?"
+- Stroke (cerebrovascular problems) in elderly people with dementia-related psychosis that can lead to death.
+- Neuroleptic malignant syndrome (NMS) a serious condition that can lead to death.Call your healthcare provider or go to the nearest hospital emergency room right away if you have some or all of the following signs and symptoms of NMS:
 
 o high fever o stiff muscles
 
@@ -160,12 +130,11 @@ o confusion o increased sweating
 
 o changes in your breathing, heart rate, and blood pressure
 
-• Uncontrolled body movements (tardive dyskinesia).
-Lurasidone hydrochloride tablets may cause movements that you cannot control in your face, tongue, or other body parts.
-Tardive dyskinesia may not go away, even if you stop taking lurasidone hydrochloride tablets.
-Tardive dyskinesia may also start after you stop taking lurasidone hydrochloride tablets.
-
-• Problems with your metabolism such as:
+- Uncontrolled body movements (tardive dyskinesia).
+  Lurasidone hydrochloride tablets may cause movements that you cannot control in your face, tongue, or other body parts.
+  Tardive dyskinesia may not go away, even if you stop taking lurasidone hydrochloride tablets.
+  Tardive dyskinesia may also start after you stop taking lurasidone hydrochloride tablets.
+- Problems with your metabolism such as:
 
 o high blood sugar (hyperglycemia) and diabetes.
 Increases in blood sugar can happen in some people who take lurasidone hydrochloride tablets.
@@ -174,18 +143,18 @@ If you have diabetes or risk factors for diabetes (such as being overweight or a
 
 Call your healthcare provider if you have any of these symptoms of high blood sugar during treatment with lurasidone hydrochloride tablets:
 
-- feel very thirsty • need to urinate more than usual
-- feel very hungry • feel weak or tired
-- feel sick to your stomach • feel confused, or your breath smells fruity
+- feel very thirsty need to urinate more than usual
+- feel very hungry feel weak or tired
+- feel sick to your stomach feel confused, or your breath smells fruity
 
 o increased fat levels (cholesterol and triglycerides) in your blood.
 
 o weight gain.
 You and your healthcare provider should check your weight regularly during treatment with lurasidone hydrochloride tablets.
 
-• Increased prolactin levels in your blood (hyperprolactinemia).
-Your healthcare provider may do blood tests to check your prolactin levels during treatment with lurasidone hydrochloride tablets.
-Tell your healthcare provider if you have any of the following signs and symptoms of hyperprolactinemia:
+- Increased prolactin levels in your blood (hyperprolactinemia).
+  Your healthcare provider may do blood tests to check your prolactin levels during treatment with lurasidone hydrochloride tablets.
+  Tell your healthcare provider if you have any of the following signs and symptoms of hyperprolactinemia:
 
 Females:
 
@@ -199,22 +168,21 @@ o problems getting or maintaining an erection (erectile dysfunction)
 
 o enlargement of breasts (gynecomastia)
 
-• Low white blood cell count.
+Low white blood cell count.
 Your healthcare provider may do blood tests during the first few months of treatment with lurasidone hydrochloride tablets.
 
-• Decreased blood pressure (orthostatic hypotension).
+Decreased blood pressure (orthostatic hypotension).
 You may feel lightheaded or faint when you rise too quickly from a sitting or lying position.
 
-• Falls.
+Falls.
 Lurasidone hydrochloride tablets may make you sleepy or dizzy, may cause a decrease in your blood pressure when changing position (orthostatic hypotension), and can slow your thinking and motor skills which may lead to falls that can cause fractures or other injuries.
 
-• Seizures (convulsions)
+Seizures (convulsions)
 
-• Problems controlling your body temperature so that you feel too warm.
-See "What should I avoid while taking lurasidone hydrochloride tablets?"
-
-• Mania or hypomania (manic episodes) in people with a history of bipolar disorder.
-Symptoms may include:
+- Problems controlling your body temperature so that you feel too warm.
+  See "What should I avoid while taking lurasidone hydrochloride tablets?"
+- Mania or hypomania (manic episodes) in people with a history of bipolar disorder.
+  Symptoms may include:
 
 o greatly increased energy o severe problems sleeping
 
@@ -224,11 +192,11 @@ o unusually grand ideas o excessive happiness or irritability
 
 o talking more or faster than usual
 
-• Difficulty swallowing
+Difficulty swallowing
 
 The most common side effects of lurasidone hydrochloride tablets include:
 
-• Adults with schizophrenia:
+- Adults with schizophrenia:
 
 o sleepiness or drowsiness
 
@@ -242,7 +210,7 @@ o nausea
 
 o sleepiness or drowsiness o nausea o restlessness and feeling like you need to move around (akathisia) o difficulty moving, slow movements, muscle stiffness, or tremor o runny nose o vomiting
 
-• Adults with bipolar depression:
+- Adults with bipolar depression:
 
 o restlessness and feeling like you need to move around (akathisia)
 
@@ -250,11 +218,13 @@ o difficulty moving, slow movements, muscle stiffness, or tremor
 
 o sleepiness or drowsiness
 
-- Children 10 to 17 tears of age with bipolar depression:
+- Children 10 to 17 years of age with bipolar depression:
 
-1. nausea
-2. weight gain
-3. problems sleeping (insomia)
+o nausea
+
+o weight gain
+
+o problems sleeping (insomnia)
 
 These are not all of the possible side effects of lurasidone hydrochloride tablets.
 
@@ -263,9 +233,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store lurasidone hydrochloride tablets?
 
-• Store lurasidone hydrochloride tablets at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F)
-
-• Keep lurasidone hydrochloride tablets and all medicines out of the reach of children.
+- Store lurasidone hydrochloride tablets at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F)
+- Keep lurasidone hydrochloride tablets and all medicines out of the reach of children.
 
 General information about the safe and effective use of lurasidone hydrochloridetablets.
 
@@ -285,9 +254,12 @@ Inactive ingredients: croscarmellose sodium, hypromellose, mannitol, magnesium s
 
 The color coating material contains following ingredients.
 
-Trademarks are the property of their respective owners.
+| Strength | Coating Material | Ingredients |
+| --- | --- | --- |
+| 20 mg, 40 mg, 60 mg, and 120 mg | Opadry® white | Hypromellose, Titanium dioxide, Macrogol/Polyethylene glycol |
+| 80 mg | Opadry® green | Hypromellose, Titanium dioxide, Macrogol/ Polyethylene glycol, Iron oxide yellow, FD&C Blue #2/Indigo carmine aluminum lake |
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Trademarks are the property of their respective owners.
 
 Manufactured by:
 
@@ -297,4 +269,6 @@ Manufactured for
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8086604 Revised July 2022
+8100117 Revised: April 2025
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.

@@ -12,6 +12,12 @@ Bottles of 30 NDC 13668-465-30
 
 Bottles of 90 NDC 13668-465-90
 
+Lurasidone hydrochloride tablets 60 mg are white to off white coloured, oblong shaped, film coated tablets plain on one side and debossed “509” on other side.
+
+Bottles of 30 NDC 13668-737-30
+
+Bottles of 90 NDC 13668-737-90
+
 Lurasidone hydrochloride tablets 80 mg are pale green coloured, oval shaped, film coated tablets plain on one side and debossed "466" on other side.
 
 Bottles of 30 NDC 13668-466-30

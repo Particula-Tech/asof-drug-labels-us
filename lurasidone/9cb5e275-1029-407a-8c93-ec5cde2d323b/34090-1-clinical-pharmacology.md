@@ -61,9 +61,9 @@ A population PK analyses concluded that coadministration of lithum 300 to 2,400 
 And the effects of lurasidone hydrochloride on the exposures of other drugs are summarized in Figure 2.
 A population PK analyses concluded that coadministration of lurasidone has minimal effect on lithium and valproate exposure when it is coadministered with lithium 300 to 2,400 mg/day or valproate 300 to 2,000 mg/day.
 
-Caption: Figure 1: Impact of Other Drugs on Lurasidone Hydrochloride Pharmacokinetics
+Figure 1: Impact of Other Drugs on Lurasidone Hydrochloride Pharmacokinetics
 
-Caption: Figure 2: Impact of Lurasidone Hydrochloride on Other Drugs
+Figure 2: Impact of Lurasidone Hydrochloride on Other Drugs
 
 Studies in Specific Populations
 
@@ -71,6 +71,6 @@ The effect of intrinsic patient factors on the pharmacokinetics of lurasidone hy
 
 Pediatric Patients
 
-Lurasidone hydrochloride tablets exposure (i.e., steady-state C max and AUC) in children and adolescent patients (10 to 17 years of age) was generally similar to that in adults across the dose range from 40 to 160 mg, without adjusting for body weight.
+Lurasidone hydrochloride tablets exposure (i.e., steady-state Cmax and AUC) in children and adolescent patients (10 to 17 years of age) was generally similar to that in adults across the dose range from 40 to 160 mg, without adjusting for body weight.
 
 Figure 3: Impact of Other Patient Factors on Lurasidone Hydrochloride Pharmacokinetics

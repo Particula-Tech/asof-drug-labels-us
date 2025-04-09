@@ -44,7 +44,7 @@ There were no adverse reactions associated with discontinuation in subjects trea
 
 Adverse Reactions Occurring at an Incidence of 2% or More in Lurasidone Hydrochloride-Treated Patients: Adverse reactions associated with the use of lurasidone hydrochloride (incidence of 2% or greater, rounded to the nearest percent and lurasidone hydrochloride incidence greater than placebo) that occurred during acute therapy (up to 6 weeks in patients with schizophrenia) are shown in Table 19.
 
-Table 19: Adverse Reactions in 2% or More of Lurasidone Hydrochloride Tablets-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in Adult Short-term Schizophrenia Studies
+Table 19: Adverse Reactions in 2% or More of Lurasidone Hydrochloride-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in Adult Short-term Schizophrenia Studies
 
 | Percentage of Patients Reporting Reaction |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -67,14 +67,8 @@ Table 19: Adverse Reactions in 2% or More of Lurasidone Hydrochloride Tablets-Tr
 | Agitation | 4 | 10 | 7 | 3 | 6 | 5 | 5 |
 | Anxiety | 4 | 3 | 6 | 4 | 7 | 3 | 5 |
 | Restlessness | 1 | 1 | 3 | 1 | 3 | 2 | 2 |
-| Gastrointestinal Disorders |  |  |  |  |  |  |  |
-| Nausea | 5 | 11 | 10 | 9 | 13 | 7 | 10 |
-| Vomiting | 6 | 7 | 6 | 9 | 9 | 7 | 8 |
-| Dyspepsia | 5 | 11 | 6 | 5 | 8 | 6 | 6 |
-| Salivary Hypersecretion | <1 | 1 | 1 | 2 | 4 | 2 | 2 |
-| Musculoskeletal and Connective Tissue Disorders |  |  |  |  |  |  |  |
 
-Note: Figures rounded to the nearest integer * Somnolence includes adverse event terms: hypersomnia, hypersomnolence, sedation, and somnolence ** Extrapyramidal symptoms includes adverse event terms: bradykinesia, cogwheel rigidity, drooling, dystonia, extrapyramidal disorder, hypokinesia, muscle rigidity, oculogyric crisis, oromandibular dystonia, parkinsonism, psychomotor retardation, tongue spasm, torticollis, tremor, and trismus
+Note: Figures rounded to the nearest integer * Somnolence includes adverse event terms: hypersomnia, hypersomnolence, sedation, and somnolence ** Extrapyramidal symptoms include adverse event terms: bradykinesia, cogwheel rigidity, drooling, dystonia, extrapyramidal disorder, hypokinesia, muscle rigidity, oculogyric crisis, oromandibular dystonia, parkinsonism, psychomotor retardation, tongue spasm, torticollis, tremor, and trismus
 
 Dose-Related Adverse Reactions in the Schizophrenia Studies
 
@@ -95,7 +89,7 @@ There were no adverse reactions associated with discontinuation in subjects trea
 
 Adverse Reactions Occurring at an Incidence of 2% or More in Lurasidone Hydrochloride-Treated Patients: Adverse reactions associated with the use of lurasidone hydrochloride (incidence of 2% or greater, rounded to the nearest percent and lurasidone hydrochloride incidence greater than placebo) that occurred during acute therapy (up to 6 weeks in patients with bipolar depression) are shown in Table 20.
 
-Table 20: Adverse Reactions in 2% or More of Lurasidone Hydrochloride Tablets-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in the Adult Short-term Monotherapy Bipolar Depression Study
+Table 20: Adverse Reactions in 2% or More of Lurasidone Hydrochloride-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in the Adult Short-term Monotherapy Bipolar Depression Study
 
 |  | Percentage of Patients Reporting Reaction |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -137,7 +131,7 @@ There were no adverse reactions associated with discontinuation in subjects trea
 
 Adverse Reactions Occurring at an Incidence of 2% or More in Lurasidone Hydrochloride-Treated Patients: Adverse reactions associated with the use of lurasidone hydrochloride (incidence of 2% or greater, rounded to the nearest percent and lurasidone hydrochloride incidence greater than placebo) that occurred during acute therapy (up to 6 weeks in patients with bipolar depression) are shown in Table 21.
 
-Table 21: Adverse Reactions in 2% or More of Lurasidone Hydrochloride Tablets-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in the Adult Short-term Adjunctive Therapy Bipolar Depression Studies
+Table 21: Adverse Reactions in 2% or More of Lurasidone Hydrochloride-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in the Adult Short-term Adjunctive Therapy Bipolar Depression Studies
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
@@ -216,7 +210,7 @@ Adverse Reactions Occurring at an Incidence of 2% or More in Lurasidone hydrochl
 
 Adverse reactions associated with the use of lurasidone hydrochloride tablets (incidence of 2% or greater, rounded to the nearest percent and lurasidone hydrochloride tablets incidence greater than placebo) that occurred during acute therapy (up to 6 weeks in pediatric patients with bipolar depression) are shown in Table 23.
 
-Table 23: Adverse Reaction in 2% or More of Lurasidone Hydrochloride Tablets-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in the 6 Week Bipolar Depression Study in Pediatric Patients (10 to 17 years)
+Table 23: Adverse Reactions in 2% or More of Lurasidone Hydrochloride Tablets-Treated Patients and That Occurred at Greater Incidence than in the Placebo-Treated Patients in the 6 Week Bipolar Depression Study in Pediatric Patients (10 to 17 years)
 
 | Percentage of Patients Reporting Reaction |  |  |
 | --- | --- | --- |
@@ -271,10 +265,10 @@ Note: Figures rounded to the nearest integer * Dystonia includes adverse event t
 
 Adolescents
 
-In the short-term, placebo-controlled, study of schizophrenia in adolescents, the incidence of EPS, excluding events related to akathisia, for lurasidone-treated patients was higher in the 40 mg (10%) and the 80 mg (7.7%) treatment groups vs. placebo (3.6%); and the incidence of akathisia-related events for lurasidone-treated patients was 8.9% vs. 1.8% for placebo-treated patients.
+In the short-term, placebo-controlled, study of schizophrenia in adolescents, the incidence of EPS, excluding events related to akathisia, for lurasidone hydrochloride tablets-treated patients was higher in the 40 mg (10%) and the 80 mg (7.7%) treatment groups vs. placebo (3.6%); and the incidence of akathisia-related events for lurasidone hydrochloride tablets-treated patients was 8.9% vs. 1.8% for placebo-treated patients.
 Incidence of EPS by dose is provided in Table 25.
 
-Table 25: Incidence of EPS Compared to Placebo in Adolescent Schizophrenia Study
+Table 25: Incidence of EPS Compared to Placebo in the Adolescent Schizophrenia Study
 
 | Adverse Event Term | Lurasidone hydrochloride |  |  |
 | --- | --- | --- | --- |
@@ -373,12 +367,12 @@ Adults
 
 Monotherapy
 
-The mean change from baseline for Lurasidone hydrochloride tablets-treated adult patients for the SAS, BAS and AIMS was comparable to placebo-treated patients.
+The mean change from baseline for lurasidone hydrochloride tablets-treated adult patients for the SAS, BAS and AIMS was comparable to placebo-treated patients.
 The percentage of patients who shifted from normal to abnormal was greater in lurasidone hydrochloride-treated patients and placebo for the BAS (lurasidone hydrochloride, 8.4%; placebo, 5.6%), the SAS (lurasidone hydrochloride, 3.7%; placebo, 1.9%) and the AIMS (lurasidone hydrochloride, 3.4%; placebo, 1.2%).
 
 Adjunctive Therapy with Lithium or Valproate
 
-The mean change from baseline for Lurasidone hydrochloride tabletse-treated adult patients for the SAS, BAS and AIMS was comparable to placebo-treated patients.
+The mean change from baseline for lurasidone hydrochloride tablets-treated adult patients for the SAS, BAS and AIMS was comparable to placebo-treated patients.
 The percentage of patients who shifted from normal to abnormal was greater in lurasidone hydrochloride-treated patients and placebo for the BAS (lurasidone hydrochloride, 8.7%; placebo, 2.1%), the SAS (lurasidone hydrochloride, 2.8%; placebo, 2.1%) and the AIMS (lurasidone hydrochloride, 2.8%; placebo, 0.6%).
 
 Pediatric Patients (10 to 17 years)
@@ -481,11 +475,11 @@ Table 29: Serum Creatinine Shifts from Normal at Baseline to High at Study End-P
 Adolescents
 
 Serum Creatinine: In the short-term, placebo-controlled, adolescent schizophrenia study, the mean change from Baseline in serum creatinine was -0.009 mg/dL for lurasidone hydrochloride tablets-treated patients compared to +0.017 mg/dL for placebo-treated patients.
-A creatinine shift from normal to high (based on the centralized laboratory definition) occurred in 7.2% (14/194) of lurasidone-treated patients and 2.9% (3/103) on placebo (Table 30).
+A creatinine shift from normal to high (based on the centralized laboratory definition) occurred in 7.2% (14/194) of lurasidone hydrochloride tablets-treated patients and 2.9% (3/103) on placebo (Table 30).
 
-Table 30: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in Adolescent Schizophrenia Studies
+Table 30: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in the Adolescent Schizophrenia Study
 
-| Laboratory Parameter | Placebo(N=103) | Lurasidone hydro-chloride40 mg/day(N=97) | Lurasidone hydro-chloride80 mg/day(N=97) |
+| Laboratory Parameter | Placebo (N=103) | Lurasidone hydro-chloride 40 mg/day (N=97) | Lurasidone hydro-chloride 80 mg/day (N=97) |
 | --- | --- | --- | --- |
 | SerumCreatinineElevated | 2.9% | 7.2% | 7.2% |
 
@@ -520,16 +514,16 @@ Pediatric Patients (10 to 17 years)
 Serum Creatinine: In the 6-week, placebo-controlled bipolar depression study in pediatric patients 10 to 17 years, the mean change from Baseline in serum creatinine was +0.021 mg/dL for lurasidone hydrochloride tablets -treated patients compared to +0.009 mg/dL for placebo-treated patients.
 A creatinine shift from normal to high (based on the centralized laboratory definition) occurred in 6.7% (11/163) of lurasidone hydrochloride tablets -treated patients and 4.5% (7/155) on placebo (Table 33).
 
-Table 33: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in the Bipolar Depression Studies in Pediatric Patients (10 to 17 years)
+Table 33: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in the Bipolar Depression Study in Pediatric Patients (10 to 17 years)
 
-| Laboratory Parameter | Placebo(N=155) | Lurasidone hydrochloride20 to 80 mg/day(N=163) |
+| Laboratory Parameter | Placebo (N=155) | Lurasidone hydrochloride 20 to 80 mg/day (N=163) |
 | --- | --- | --- |
 | Serum CreatinineElevated | 4.5% | 6.7% |
 
 Pediatric Patients (6 to 17 years)
 
 In a 104-week, open-label study in pediatric patients with schizophrenia, bipolar depression, or autistic disorder, the mean change from baseline to Week 104 in serum creatinine was +0.07 mg/dL.
-In patients with a normal serum creatinine at baseline, 6% experienced a shift to high at endpoint
+In patients with a normal serum creatinine at baseline, 6% experienced a shift to high at endpoint.
 
 ## 6.2 Postmarketing Experience
 

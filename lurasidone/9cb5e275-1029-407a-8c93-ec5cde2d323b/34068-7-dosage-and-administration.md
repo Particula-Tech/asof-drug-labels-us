@@ -31,7 +31,7 @@ Pediatric Patients (10 to 17 years)
 The recommended starting dose of lurasidone hydrochloride tablets is 20 mg given once daily as monotherapy.
 Initial dose titration is not required.
 The dose may be increased after one week based on clinical response.
-Lurasidone hydrochloride tablets has been shown to be effective in a dose range of 20 mg per day to 80 mg per day as monotherapy.
+Lurasidone hydrochloride tablets have been shown to be effective in a dose range of 20 mg per day to 80 mg per day as monotherapy.
 At the end of the clinical study, most of the patients (67%) received 20 mg or 40 mg once daily [see Clinical Studies (14.2)].
 The maximum recommended dose is 80 mg per day.
 
@@ -66,7 +66,7 @@ Concomitant Use with CYP3A4 Inhibitors
 Lurasidone hydrochloride tablets should not be used concomitantly with a strong CYP3A4 inhibitor (e.g., ketoconazole, clarithromycin, ritonavir, voriconazole, mibefradil, etc.) [see Contraindications (4)].
 
 If lurasidone hydrochloride tablets is being prescribed and a moderate CYP3A4 inhibitor (e.g. diltiazem, atazanavir, erythromycin, fluconazole, verapamil etc.) is added to the therapy, the lurasidone hydrochloride tablets dose should be reduced to half of the original dose level.
-Similarly, if a moderate CYP3A4 inhibitor is being prescribed and lurasidone hydrochloride tablets is added to the therapy, the recommended starting dose of lurasidone hydrochloride tablets is 20 mg per day, and the maximum recommended dose of lurasidone hydrochloride tablets is 80 mg per day [see Contraindications (4), Drug Interactions (7.1)].
+Similarly, if a moderate CYP3A4 inhibitor is being prescribed and lurasidone hydrochloride tablet is added to the therapy, the recommended starting dose of lurasidone hydrochloride tablets is 20 mg per day, and the maximum recommended dose of lurasidone hydrochloride tablets is 80 mg per day [see Contraindications (4), Drug Interactions (7.1)].
 
 Grapefruit and grapefruit juice should be avoided in patients taking lurasidone hydrochloride tablets, since these may inhibit CYP3A4 and alter lurasidone hydrochloride tablets concentrations [see Drug Interactions (7.1)].
 
