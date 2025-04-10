@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (17.4).
+See FDA-Approved Patient Labeling.
 
 ## 17.1 Vaginal Bleeding
 
@@ -13,5 +13,3 @@ Inform patients of the possible side effects of progesterone therapy such as hea
 ## 17.3 Coadministration of Other Vaginal Products
 
 Inform patients that ENDOMETRIN is not recommended for use with other vaginal products.
-
-## 17.4 FDA-Approved Patient Labeling
