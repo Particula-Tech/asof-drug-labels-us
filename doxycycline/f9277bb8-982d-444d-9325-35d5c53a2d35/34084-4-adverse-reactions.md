@@ -12,7 +12,7 @@ These reactions have been caused by both the oral and parenteral administration 
 Esophagitis and esophageal ulcerations have been reported in patients receiving capsule and tablet forms of drugs in the tetracycline-class.
 Most of these patients took medications immediately before going to bed [see Dosage and Administration (2.1)].
 
-Skin: Maculopapular and erythematous rashes, Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis, and erythema multiforme have been reported.
+Skin: Maculopapular and erythematous rashes, Stevens-Johnson syndrome, toxic epidermal necrolysis, exfoliative dermatitis, erythema multiforme, and fixed drug eruption have been reported.
 Photosensitivity is discussed above [see Warnings and Precautions (5.3)].
 
 Renal: Rise in BUN has been reported and is apparently dose-related [see Warnings and Precautions (5.8)].
@@ -25,3 +25,5 @@ Intracranial Hypertension: Intracranial hypertension (IH, pseudotumor cerebri) h
 
 Thyroid Gland Changes: When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of thyroid glands.
 No abnormalities of thyroid function are known to occur.
+
+Psychiatric: Depression, anxiety, suicidal ideation, insomnia, abnormal dreams, hallucination
