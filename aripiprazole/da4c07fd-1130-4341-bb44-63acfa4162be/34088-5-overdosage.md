@@ -7,4 +7,4 @@ Other clinically important signs and symptoms observed in one or more patients w
 
 Management of Overdosage
 
-Consider contacting the Poison Help line (1-800-222-1222) or medical toxicologist for additional overdosage management recommendations.
+In case of overdosage, call the Poison Control Center immediately at 1-800-222-1222 or medical toxicologist for additional overdosage management recommendations.

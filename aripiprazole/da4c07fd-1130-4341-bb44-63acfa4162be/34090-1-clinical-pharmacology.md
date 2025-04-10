@@ -12,12 +12,12 @@ Aripiprazole exhibits high affinity for dopamine D2 and D3 (Kis 0.34 and 0.8 nM,
 Aripiprazole has no appreciable affinity for cholinergic muscarinic receptors (IC50>1000 nM).
 Actions at receptors other than D2, 5-HT1A, and 5-HT2A could explain some of the other adverse reactions of aripiprazole (e.g., the orthostatic hypotension observed with aripiprazole may be explained by its antagonist activity at adrenergic alpha1 receptors).
 
+ABILIFY ASIMTUFII activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D2 receptors.
+
 ## 12.3 Pharmacokinetics
 
-ABILIFY ASIMTUFII activity is presumably primarily due to the parent drug, aripiprazole, and to a lesser extent, to its major metabolite, dehydro-aripiprazole, which has been shown to have affinities for D2 receptors similar to the parent drug and represents about 29% of the parent drug exposure in plasma.
-
 ABILIFY ASIMTUFII delivers aripiprazole over a 2-month period.
-ABILIFY ASIMTUFII has linear PK in the approved dose range.
+ABILIFY ASIMTUFII has linear pharmacokinetics in the approved dose range.
 Steady-state aripiprazole exposures were reached by the fourth dose.
 Plasma exposures at steady state were compared between ABILIFY ASIMTUFII (960 mg, once every 2 months) and Abilify Maintena (400 mg, once every month).
 The average plasma concentrations (Cavg) of aripiprazole were 263 ng/mL and 280 ng/mL for ABILIFY ASIMTUFII and Abilify Maintena, respectively.
@@ -38,46 +38,53 @@ At therapeutic concentrations, aripiprazole and dehydro-aripiprazole are greater
 
 Elimination
 
+Following single dose administration of ABILIFY ASIMTUFII, the mean apparent terminal elimination half-life of aripiprazole was 21 days.
+
 Metabolism
 
 Aripiprazole is metabolized primarily by three biotransformation pathways: dehydrogenation, hydroxylation, and N-dealkylation.
 Based on in vitro studies, CYP3A4 and CYP2D6 enzymes are responsible for dehydrogenation and hydroxylation of aripiprazole, and N-dealkylation is catalyzed by CYP3A4.
 Aripiprazole is the predominant drug moiety in the systemic circulation.
-Following administration of multiple doses of ABILIFY ASIMTUFII, dehydro-aripiprazole, the active metabolite, represents approximately 30% of aripiprazole AUC in plasma.
+Following administration of multiple doses of ABILIFY ASIMTUFII, dehydro-aripiprazole, the active metabolite, represents approximately 29% of aripiprazole AUC in plasma.
 
 Excretion
 
 Following a single oral dose of [14C]-labeled aripiprazole, approximately 25% and 55% of the administered radioactivity was recovered in the urine and feces, respectively.
 Less than 1% of unchanged aripiprazole was excreted in the urine and approximately 18% of the oral dose was recovered unchanged in the feces.
 
-Drug Interaction Studies
-
-No specific drug interaction studies have been performed with ABILIFY ASIMTUFII.
-The information below is obtained from studies with oral aripiprazole.
-
-The effect of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 10 and Figure 11, respectively.
-Based on simulations, a 4.5-fold increase in mean Cmax and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
-After oral administration, a 3-fold increase in mean Cmax and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
-
-Figure 10: The Effect of Other Drugs on Aripiprazole Pharmacokinetics
-
-Figure 11: The Effect of Other Drugs on Dehydro-aripiprazole Pharmacokinetics
-
-The effect of oral aripiprazole on the exposures of other drugs are summarized in Figure 12.
-A population PK analysis in patients with major depressive disorder showed no substantial change in plasma concentrations of fluoxetine (20 mg/day or 40 mg/day), paroxetine CR (37.5 mg/day or 50 mg/day), or sertraline (100 mg/day or 150 mg/day) dosed to steady-state.
-The steady-state plasma concentrations of fluoxetine and norfluoxetine increased by about 18% and 36%, respectively, and concentrations of paroxetine decreased by about 27%.
-The steady-state plasma concentrations of sertraline and desmethylsertraline were not substantially changed when these antidepressant therapies were coadministered with aripiprazole.
-
-Figure 12: The Effect of Oral Aripiprazole on Pharmacokinetics of Other Drugs
-
 Studies in Specific Populations
 
 No specific pharmacokinetic studies have been performed with ABILIFY ASIMTUFII in specific populations.
 All the information is obtained from studies with oral aripiprazole or is based on the pharmacokinetic modeling of oral aripiprazole and/or ABILIFY ASIMTUFII.
 
-Exposures of aripiprazole and dehydro-aripiprazole in specific populations are summarized in Figure 13 and Figure 14, respectively.
+Exposures of aripiprazole and dehydro-aripiprazole in specific populations are summarized in Figure 10 and Figure 11, respectively.
 In addition, in pediatric patients (10 to 17 years of age) administered with oral aripiprazole (20 mg to 30 mg), the body weight corrected aripiprazole clearance was similar to the adults.
 
-Figure 13: Effect of Intrinsic Factors on Aripiprazole Pharmacokinetics
+Figure 10: Effect of Intrinsic Factors on Aripiprazole Pharmacokinetics
 
-Figure 14: Effects of Intrinsic Factors on Dehydro-aripiprazole Pharmacokinetics
+Figure 11: Effects of Intrinsic Factors on Dehydro-aripiprazole Pharmacokinetics
+
+Drug Interaction Studies
+
+No specific drug interaction studies have been performed with ABILIFY ASIMTUFII.
+The information below is obtained from studies with oral aripiprazole.
+
+The effect of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 12 and Figure 13, respectively.
+Based on simulations, a 4.5-fold increase in mean Cmax and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
+After oral administration, a 3-fold increase in mean Cmax and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
+
+Figure 12: The Effect of Other Drugs on Aripiprazole Pharmacokinetics
+
+Figure 13: The Effect of Other Drugs on Dehydro-aripiprazole Pharmacokinetics
+
+The effect of oral aripiprazole on the exposures of other drugs are summarized in Figure 14.
+A population PK analysis in patients with major depressive disorder showed no substantial change in plasma concentrations of fluoxetine (20 mg/day or 40 mg/day), paroxetine CR (37.5 mg/day or 50 mg/day), or sertraline (100 mg/day or 150 mg/day) dosed to steady-state.
+The steady-state plasma concentrations of fluoxetine and norfluoxetine increased by about 18% and 36%, respectively, and concentrations of paroxetine decreased by about 27%.
+The steady-state plasma concentrations of sertraline and desmethylsertraline were not substantially changed when these antidepressant therapies were coadministered with aripiprazole.
+
+Figure 14: The Effect of Oral Aripiprazole on Pharmacokinetics of Other Drugs
+
+In vitro
+
+Aripiprazole is not a substrate of CYP1A1, CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP2E1 enzymes.
+Aripiprazole also does not undergo direct glucuronidation.

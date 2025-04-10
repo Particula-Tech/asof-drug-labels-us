@@ -66,7 +66,7 @@ This trial included:
   Prior to the next phase, stabilization was required.
   Stabilization was defined as having all of the following for four consecutive weeks: an outpatient status, PANSS total score ≤80, CGI-S ≤4 (moderately ill), and CGISS score ≤2 (mildly suicidal) on Part 1 and ≤5 (minimally worsened) on Part 2; and a score of ≤4 on each of the following PANSS items: conceptual disorganization, suspiciousness, hallucinatory behavior, and unusual thought content.
 - A minimum 12-week uncontrolled, single-blind Abilify Maintena stabilization phase (treatment with 400 mg of Abilify Maintena given every 4 weeks in conjunction with oral aripiprazole [10 mg to 20 mg/day] for the first 2 weeks).
-  The dose of ABILIFY MAINTENA may have been decreased to 300 mg due to adverse reactions.
+  The dose of Abilify Maintena may have been decreased to 300 mg due to adverse reactions.
   A total of 576 patients entered this phase.
   The mean PANSS total score was 59 (range 30 to 80) and the mean CGI-S score was 3.2 (mildly ill).
   Prior to the next phase, stabilization was required (see above for the definition of stabilization) for 12 consecutive weeks.

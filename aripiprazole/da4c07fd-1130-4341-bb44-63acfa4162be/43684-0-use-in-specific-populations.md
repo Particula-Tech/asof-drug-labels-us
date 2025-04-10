@@ -100,10 +100,10 @@ All drug-related effects were reversible after a 2-month recovery period.
 ## 8.5 Geriatric Use
 
 Clinical studies of ABILIFY ASIMTUFII did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects.
-Other reported clinical experience and pharmacokinetic data have not identified differences in responses between the elderly and younger patients.
+Other reported clinical experience and pharmacokinetic data have not identified differences in responses between the elderly and younger patients [see Clinical Pharmacology (12.3)].
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-In single-dose and multiple-dose pharmacokinetic studies with oral aripiprazole, there was no detectable age effect in the population pharmacokinetic analysis in schizophrenia patients.
+In single-dose and multiple-dose pharmacokinetic studies with oral aripiprazole, there was no detectable age effect in the population pharmacokinetic analysis in schizophrenia patients [see Clinical Pharmacology (12.3)].
 No dosage adjustments are recommended based on age alone.
 ABILIFY ASIMTUFII is not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warning and Warnings and Precautions (5.1)].
 
@@ -111,11 +111,3 @@ ABILIFY ASIMTUFII is not approved for the treatment of patients with dementia-re
 
 Dosage adjustment is recommended in known CYP2D6 poor metabolizers due to high aripiprazole concentrations.
 Approximately 8% of Caucasians and 3% to 8% of Black/African Americans cannot metabolize CYP2D6 substrates and are classified as poor metabolizers (PM) [see Dosage and Administration (2.4)].
-
-## 8.7 Renal Impairment
-
-No dosage adjustment for ABILIFY ASIMTUFII is required on the basis of a patient's renal function (mild to severe renal impairment, glomerular filtration rate between 15 and 90 mL/minute) [see Dosage and Administration (2.4)].
-
-## 8.8 Hepatic Impairment
-
-No dosage adjustment for ABILIFY ASIMTUFII is required on the basis of a patient's hepatic function (mild to severe hepatic impairment, Child-Pugh score between 5 and 15).

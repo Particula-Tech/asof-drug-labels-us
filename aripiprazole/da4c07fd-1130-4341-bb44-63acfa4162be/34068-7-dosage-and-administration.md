@@ -3,12 +3,12 @@
 ## 2.1 Important Administration Information
 
 For patients who have never taken aripiprazole, establish tolerability with oral aripiprazole prior to initiating treatment with ABILIFY ASIMTUFII.
-Due to the half-life of oral aripiprazole, it may take up to 2 weeks to fully assess tolerability.
+Due to the half-life of oral aripiprazole (i.e., 75 hours and 94 hours for aripiprazole and dehydro-aripiprazole, respectively), it may take up to 2 weeks to fully assess tolerability.
 
 ABILIFY ASIMTUFII must be administered as an intramuscular gluteal injection by a healthcare professional.
 Do not administer by any other route.
 
-For detailed preparation and administration instructions, see Dosage and Administration (2.5).
+For detailed preparation and administration instructions, [see Dosage and Administration (2.5)].
 
 ## 2.2 Recommended Dosage for ABILIFY ASIMTUFII
 
@@ -16,13 +16,21 @@ The recommended dosage of ABILIFY ASIMTUFII is 960 mg, administered once every 2
 
 Patients Receiving Oral Antipsychotics
 
-When ABILIFY ASIMTUFII injection is initiated in patients receiving oral aripiprazole, administer the first dose of ABILIFY ASIMTUFII along with oral aripiprazole (10 mg to 20 mg) for 14 consecutive days.
+There are two ways to initiate treatment with ABILIFY ASIMTUFII in patients receiving oral antipsychotics:
 
-For patients already stable on another oral antipsychotic (and known to tolerate aripiprazole), administer the first ABILIFY ASIMTUFII injection along with the oral antipsychotic for 14 consecutive days.
+1-day initiation:
+
+- Administer one intramuscular injection of ABILIFY ASIMTUFII 960 mg in the gluteal muscle, one injection of Abilify Maintena 400 mg in a separate gluteal or deltoid muscle, and one dose of oral aripiprazole 20 mg, on the first day of treatment with ABILIFY ASIMTUFII.
+- Do not administer both injections into the same muscle.
+
+14-day initiation:
+
+- Administer one intramuscular injection of ABILIFY ASIMTUFII 960 mg in the gluteal muscle and continue treatment with oral aripiprazole (10 mg to 20 mg) for 14 consecutive days.
+- For patients already stable on another oral antipsychotic (and known to tolerate aripiprazole), administer one intramuscular injection of ABILIFY ASIMTUFII 960 mg in the gluteal muscle and continue treatment with the oral antipsychotic for 14 consecutive days.
 
 Patients Receiving Abilify Maintena
 
-For patients receiving Abilify Maintena (once monthly dosing), administer ABILIFY ASIMTUFII 960 mg (once every 2 month dosing) in place of the next scheduled injection of the Abilify Maintena.
+For patients receiving Abilify Maintena 400 mg (once monthly dosing), administer ABILIFY ASIMTUFII 960 mg (once every 2 month dosing) in place of the next scheduled injection of the Abilify Maintena.
 The first ABILIFY ASIMTUFII injection may be administered in place of the second, or later injection of Abilify Maintena.
 
 If there are adverse reactions with the ABILIFY ASIMTUFII 960 mg dosage, the dosage may be reduced to 720 mg once every 2 months.
@@ -34,11 +42,11 @@ Patients may be given the ABILIFY ASIMTUFII injection up to 2 weeks before or 2 
 If more than 8 weeks and less than 14 weeks have elapsed since the last injection, administer the next dose of ABILIFY ASIMTUFII as soon as possible.
 The once every 2 month schedule should be resumed.
 
-If more than 14 weeks have elapsed since the last injection, restart concomitant oral aripiprazole for 14 days with the next administered injection of ABILIFY ASIMTUFII.
+If more than 14 weeks have elapsed since the last injection, restart treatment with either 1-day initiation or 14-day initiation with ABILIFY ASIMTUFII [see Dosage and Administration (2.2)].
 
-## 2.4 Dosage Recommendations for Cytochrome P450 Considerations
+## 2.4 Dosage Modifications for Cytochrome P450 Considerations
 
-Dosage adjustments for patients who are CYP2D6 poor metabolizers and/or in patients taking concomitant CYP3A4 inhibitors or CYP2D6 inhibitors for more than 14 days are described in Table 1.
+Dosage adjustments for patients who are CYP2D6 poor metabolizers and/or in patients taking concomitant strong CYP3A4 inhibitors or CYP2D6 inhibitors for more than 14 days are described in Table 1.
 
 If the CYP3A4 inhibitor or CYP2D6 inhibitor is withdrawn, the dosage of ABILIFY ASIMTUFII may need to be increased to the previous dose.
 
@@ -49,7 +57,7 @@ Table 1: Dosage Recommendations for ABILIFY ASIMTUFII in Patients Who are Known 
 | Factors | Dosage Recommendation |
 | --- | --- |
 | CYP2D6 Poor Metabolizers |  |
-| Known CYP2D6 Poor Metabolizers | 720 mg once every 2 months |
+| Known CYP2D6 Poor Metabolizers | 720 mg once every 2 monthsFor the 1-day initiation regimen, administer a single 20 mg oral aripiprazole, 300 mg Abilify Maintena and 720 mg ABILIFY ASIMTUFII on Day 1. |
 | Known CYP2D6 Poor Metabolizers taking concomitant CYP3A4 inhibitors | Avoid use |
 | Patients Taking 960 mg of ABILIFY ASIMTUFII |  |
 | Concomitant use of ABILIFY ASIMTUFII with Strong CYP2D6 inhibitors | 720 mg once every 2 months |

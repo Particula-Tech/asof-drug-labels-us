@@ -189,7 +189,7 @@ Conditions that lower the seizure threshold may be more prevalent in a populatio
 ## 5.11 Potential for Cognitive and Motor Impairment
 
 ABILIFY ASIMTUFII, like other antipsychotics, may impair judgment, thinking, or motor skills.
-Patients should be cautioned about performing activities that require mental alertness such as operating hazardous machinery or operating a motor vehicle, until they are reasonably certain that therapy with ABILIFY ASIMTUFII does not affect them adversely.
+Instruct patients to be cautious about performing activities that require mental alertness such as operating hazardous machinery or operating a motor vehicle, until they are reasonably certain that therapy with ABILIFY ASIMTUFII does not affect them adversely.
 
 ## 5.12 Body Temperature Regulation
 

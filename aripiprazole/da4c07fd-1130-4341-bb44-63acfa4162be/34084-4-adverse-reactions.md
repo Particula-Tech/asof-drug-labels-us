@@ -36,7 +36,7 @@ A total of 419 patients were treated with Abilify Maintena for at least 180 days
 
 Safety Database of ABILIFY ASIMTUFII (once every 2 month dosing)
 
-In a 32-week open-label study of ABILIFY ASIMTUFII in adult patients with schizophrenia or bipolar I disorder, 266 patients were randomized to receive either ABILIFY ASIMTUFII 960 mg (132 patients) or Abilify Maintena 400 mg (134 patients).
+In a 32 week open-label study of ABILIFY ASIMTUFII in adult patients with schizophrenia or bipolar I disorder, 266 patients were randomized to receive either ABILIFY ASIMTUFII 960 mg (132 patients) or Abilify Maintena 400 mg (134 patients).
 A total of the 132 patients received at least one injection of ABILIFY ASIMTUFII, a total of 114 patients received at least two consecutive injections (4 months treatment) of ABILIFY ASIMTUFII, and a total of 104 patients received at least four consecutive injections (8 months treatment) of ABILIFY ASIMTUFII.
 Of the total 266 patients receiving ABILIFY ASIMTUFII 960 mg or Abilify Maintena 400 mg, 185 had schizophrenia and 81 had bipolar I disorder.
 Injection site reactions for ABILIFY ASIMTUFII (once every 2 month dosing) presented in this section is based on this open-label study (see section titled "Injection Site Reactions with Abilify ASIMTUFII").
@@ -125,12 +125,12 @@ The following listing does not include reactions: 1) already listed in previous 
 - Endocrine Disorders: hypoprolactinemia
 - Eye Disorders: vision blurred, oculogyric crisis
 - Gastrointestinal Disorders: abdominal pain upper, dyspepsia, nausea, swollen tongue
-- General Disorders and Administration Site Conditions: chest discomfort, fatigue, gait disturbance, injection site reaction (erythema, induration, pruritis, swelling, rash, inflammation, hemorrhage), irritability, pyrexia
+- General Disorders and Administration Site Conditions: chest discomfort, fatigue, gait disturbance, injection site reaction (erythema, induration, pruritus, swelling, rash, inflammation, hemorrhage), irritability, pyrexia
 - Hepatobiliary Disorders: drug-induced liver injury
 - Immune System Disorders: drug hypersensitivity
 - Infections and Infestations: nasopharyngitis
 - Investigations: blood creatine phosphokinase increased, blood cholesterol decreased, blood pressure decreased, blood triglycerides decreased, electrocardiogram T wave abnormal, electrocardiogram QT-prolonged, hepatic enzyme increased, liver function test abnormal
-- Metabolism and Nutrition Disorders: decreased appetite, hyperinsulinaemia, obesity
+- Metabolism and Nutrition Disorders: decreased appetite, hyperinsulinemia, obesity
 - Musculoskeletal and Connective Tissue Disorders: joint stiffness, muscle twitching, rhabdomyolysis, trismus
 - Nervous System Disorders: bradykinesia, convulsion, dysgeusia, extrapyramidal disorder, hypersomnia, lethargy, memory impairment, oromandibular dystonia,
 - Psychiatric Disorders: anxiety, insomnia, restlessness, agitation, bruxism, psychotic disorder, suicidal ideation, aggression, hypersexuality, panic attack
@@ -140,7 +140,7 @@ The following listing does not include reactions: 1) already listed in previous 
 
 Adverse Reactions Reported in Clinical Trials with Oral Aripiprazole
 
-The following is a list of additional adverse reactions that have been reported in clinical trials with oral aripiprazole and not reported above for ABILIFY MAINTENA:
+The following is a list of additional adverse reactions that have been reported in clinical trials with oral aripiprazole and not reported above for Abilify Maintena:
 
 - Cardiac Disorders: angina pectoris, atrial flutter, atrioventricular block, cardiopulmonary failure, cardio-respiratory arrest, extrasystoles, myocardial infarction, myocardial ischemia, palpitations, supraventricular tachycardia, ventricular tachycardia
 - Eye Disorders: diplopia, photophobia, eyelid edema, photopsia
@@ -153,7 +153,7 @@ The following is a list of additional adverse reactions that have been reported 
 - Metabolism and Nutrition Disorders: anorexia, diabetic ketoacidosis, hyponatremia, hypoglycemia, polydipsia
 - Musculoskeletal and Connective Tissue Disorders: mobility decreased, muscle rigidity, muscle tightness, muscular weakness, musculoskeletal stiffness, pain in extremity, muscle spasms
 - Nervous System Disorders: akinesia, choreoathetosis, coordination abnormal, hypokinesia, hypotonia, myoclonus, speech disorder
-- Psychiatric Disorders: anger, anorgasmia, catatonia, completed suicide, delirium, loss of libido, homicidal ideation, intentional self-injury, hostility, libido increased, sleep walking, suicide attempt, tic
+- Psychiatric Disorders: anger, anorgasmia, catatonia, completed suicide, delirium, loss of libido, homicidal ideation, intentional self-injury, hostility, libido increased, sleepwalking, suicide attempt, tic
 - Renal and Urinary Disorders: nocturia, polyuria, urinary retention
 - Reproductive System and Breast Disorders: amenorrhea, breast pain, erectile dysfunction, gynecomastia, menstruation irregular, priapism
 - Respiratory, Thoracic, and Mediastinal Disorders: dyspnea, nasal congestion, pharyngolaryngeal pain, cough
