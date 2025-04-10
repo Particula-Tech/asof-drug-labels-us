@@ -32,3 +32,9 @@ Lactation
 Advise breastfeeding mothers to monitor infants exposed to guanfacine through breastmilk for sedation, lethargy and poor feeding [see Use in Specific Populations (8.2)].
 
 All trademarks are property of their respective owners.
+
+Distributed by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
+
+Made in Taiwan
+
+LA-3040-04

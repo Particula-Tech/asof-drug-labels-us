@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Guanfacine extended-release tablets are supplied in 1 mg, 2 mg, 3 mg, and 4 mg strength extended-release tablets in 100 count and 1,000 count bottles.
+Guanfacine extended-release tablets, USP are supplied in 1 mg, 2 mg, 3 mg, and 4 mg strength extended-release tablets in 100 count and 1,000 count bottles.
 
 |  | 1 mg | 2 mg | 3 mg | 4 mg |
 | --- | --- | --- | --- | --- |

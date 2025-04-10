@@ -4,7 +4,7 @@ Guanfacine
 
 (gwahn-fa-seen)
 
-Extended-Release Tablets
+Extended-Release Tablets, USP
 
 Read the Patient Information that comes with guanfacine extended-release tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -160,6 +160,6 @@ Distributed by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
 Made in Taiwan
 
-Revised: 9/2024
+Revised: 02/2025
 
-LA-3040-03
+LA-3040-04

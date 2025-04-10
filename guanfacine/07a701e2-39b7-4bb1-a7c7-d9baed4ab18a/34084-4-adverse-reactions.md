@@ -7,8 +7,6 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Cardiac conduction abnormalities [see Warnings and Precautions (5.3)]
 - Rebound Hypertension [see Warnings and Precautions (5.4)]
 
-To report SUSPECTED ADVERSE REACTIONS, contact Upsher-Smith Laboratories, LLC at 1-855-899-9180 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
-
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
