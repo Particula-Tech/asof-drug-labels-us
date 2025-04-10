@@ -9,15 +9,14 @@ REF 3103-11 NDC 0264-3103-11
 DUPLEX®CONTAINER
 
 Use only after mixing contents of both chambers.
-For IV Use Only Iso-osmotic Single Dose Sterile/Nonpyrogenic * Contains Cefazolin Sodium USP equivalent to 1 g cefazolin.
+For IV Use Only Iso-osmotic Single-Dose Sterile/Nonpyrogenic * Contains 1.048 g of Cefazolin Sodium USP equivalent to 1 g cefazolin.
 
 Reconstitution: Hold container with set port in a downward direction and fold the diluent chamber just below the solution meniscus.
 To activate seal, squeeze folded diluent chamber until seal between diluent and drug chamber opens, releasing diluent into drug chamber.
 Agitate the reconstituted solution until the drug powder is completely dissolved.
 Fold the container a second time and squeeze until seal between drug chamber and set port opens.
 
-After reconstitution each 50 mL single dose unit contains: Cefazolin for Injection USP (equivalent to 1 g cefazolin) with approx. 2.0 g (4.0% w/v) Hydrous Dextrose USP in Water for Injection USP.
-Sodium content is 48 mg/g of cefazolin sodium.
+After reconstitution each 50 mL single-dose unit contains: Cefazolin for Injection USP (1 g cefazolin, equivalent to 1.048 g of cefazolin sodium) with approx. 2 g (4% w/v) Hydrous Dextrose USP in Water for Injection USP.
 Approximate osmolality: 290 mOsmol/kg
 
 Prior to Reconstitution: Store at 20-25°C (68-77°F).
@@ -35,6 +34,8 @@ Do not introduce additives into this container.
 Prior to administration check for minute leaks by squeezing container firmly.
 If leaks are found, discard container and solution as sterility may be impaired.
 Do not freeze.
+Discard unused portion.
+
 Not made with natural rubber latex, PVC or DEHP.
 
 Rx only
@@ -44,7 +45,7 @@ B. Braun Medical Inc. Bethlehem, PA 18018-3524
 Prepared in USA.
 API from USA and Italy.
 
-LD-201-7 Y37-002-541
+LD-201-9 Y37-002-610
 
 EXP LOT
 
@@ -67,15 +68,14 @@ REF 3105-11 NDC 0264-3105-11
 DUPLEX®CONTAINER
 
 Use only after mixing contents of both chambers.
-For IV Use Only Iso-osmotic Single Dose Sterile/Nonpyrogenic * Contains Cefazolin Sodium USP equivalent to 2 g cefazolin.
+For IV Use Only Iso-osmotic Single-Dose Sterile/Nonpyrogenic * Contains 2.096 g of Cefazolin Sodium USP equivalent to 2 g cefazolin.
 
 Reconstitution: Hold container with set port in a downward direction and fold the diluent chamber just below the solution meniscus.
 To activate seal, squeeze folded diluent chamber until seal between diluent and drug chamber opens, releasing diluent into drug chamber.
 Agitate the reconstituted solution until the drug powder is completely dissolved.
 Fold the container a second time and squeeze until seal between drug chamber and set port opens.
 
-After reconstitution each 50 mL single dose unit contains: Cefazolin for Injection USP (equivalent to 2 g cefazolin) with approx. 1.5 g (3.0% w/v) Hydrous Dextrose USP in Water for Injection USP.
-Sodium content is 48 mg/g of cefazolin sodium.
+After reconstitution each 50 mL single-dose unit contains: Cefazolin for Injection USP (2 g cefazolin, equivalent to 2.096 g of cefazolin sodium) with approx. 1.5 g (3% w/v) Hydrous Dextrose USP in Water for Injection USP.
 Approximate osmolality: 290 mOsmol/kg
 
 Prior to Reconstitution: Store at 20-25°C (68-77°F).
@@ -93,14 +93,17 @@ Do not introduce additives into this container.
 Prior to administration check for minute leaks by squeezing container firmly.
 If leaks are found, discard container and solution as sterility may be impaired.
 Do not freeze.
+Discard unused portion.
 Not made with natural rubber latex, PVC or DEHP.
 
-Rx only B. Braun Medical Inc. Bethlehem, PA 18018-3524
+Rx only
+
+B. Braun Medical Inc. Bethlehem, PA 18018-3524
 
 Prepared in USA.
 API from USA and Italy.
 
-LD-200-4 Y37-002-542
+LD-200-6 Y37-002-611
 
 EXP LOT
 
