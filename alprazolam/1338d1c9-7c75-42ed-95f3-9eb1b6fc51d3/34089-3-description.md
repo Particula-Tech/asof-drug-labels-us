@@ -9,6 +9,6 @@ The structural formula is represented below:
 
 Alprazolam is a white crystalline powder, which is soluble in methanol or ethanol but which has no appreciable solubility in water at physiological pH.
 
-Each Alprazolam XR extended-release tablet, for oral administration, contains 0.5 mg, 1 mg, 2 mg, or 3 mg of alprazolam.
+Each alprazolam XR extended-release tablet, for oral administration, contains 0.5 mg, 1 mg, 2 mg, or 3 mg of alprazolam.
 The inactive ingredients are colloidal silicon dioxide, hypromellose, lactose, and magnesium stearate.
 In addition, the 1 mg and 3 mg tablets contain D & C yellow No. 10 and the 2 mg and 3 mg tablets contain FD&C blue No. 2.

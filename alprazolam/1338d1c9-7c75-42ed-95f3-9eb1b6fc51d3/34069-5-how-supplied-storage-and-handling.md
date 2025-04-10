@@ -2,10 +2,9 @@
 
 Alprazolam XR is supplied in the following strengths and package configurations:
 
-Alprazolam XR Tablets
-
 | Package Configuration | Tablet Strength (mg) | NDC | Print |
 | --- | --- | --- | --- |
+| Alprazolam XR Tablets |  |  |  |
 | Bottles of 60 | 0.5 mg | NDC 59762-0057-1 | white, pentagonal shaped tablets debossed with an "G" on one side and "0.5" on the other side |
 | Bottles of 60 | 1 mg | NDC 59762-0059-1 | yellow, square shaped tablets debossed with an "G" on one side and "1" on the other side |
 | Bottles of 60 | 2 mg | NDC 59762-0066-1 | blue, round shaped tablets debossed with an "G" on one side and "2" on the other side |

@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Alprazolam XR extended-release tablets are available as:
+Alprazolam XR Extended-Release Tablets are available as:
 
 - •0.5 mg: white, pentagonal shaped tablets debossed with an "G" on one side and "0.5" on the other side
 - •1 mg: yellow, square shaped tablets debossed with an "G" on one side and "1" on the other side
