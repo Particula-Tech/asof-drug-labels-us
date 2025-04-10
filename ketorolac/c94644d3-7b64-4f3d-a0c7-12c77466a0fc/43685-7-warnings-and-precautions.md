@@ -6,7 +6,7 @@ Topical nonsteroidal anti-inflammatory drugs (NSAIDs) may slow or delay healing.
 Topical corticosteroids are also known to slow or delay healing.
 Concomitant use of topical NSAIDs and topical steroids may increase the potential for healing problems.
 
-## 5.2Cross-Sensitivity or Hypersensitivity
+## 5.2 Cross-Sensitivity or Hypersensitivity
 
 There is the potential for cross-sensitivity to acetylsalicylic acid, phenylacetic acid derivatives, and other NSAIDs.
 There have been reports of bronchospasm or exacerbation of asthma associated with the use of ketorolac tromethamine ophthalmic solution in patients who have either a known hypersensitivity to aspirin/non-steroidal anti-inflammatory drugs or a past medical history of asthma.
@@ -17,9 +17,9 @@ Therefore, caution should be used when treating individuals who have previously 
 With some NSAIDs, there exists the potential for increased bleeding time due to interference with thrombocyte aggregation.
 There have been reports that ocularly applied nonsteroidal anti-inflammatory drugs may cause increased bleeding of ocular tissues (including hyphemas) in conjunction with ocular surgery.
 
-It is recommended that ACULAR be used with caution in patients with known bleeding tendencies or who are receiving other medications, which may prolong bleeding time.
+It is recommended that ACULAR® ophthalmic solution be used with caution in patients with known bleeding tendencies or who are receiving other medications, which may prolong bleeding time.
 
-## 5.4Corneal Effects
+## 5.4 Corneal Effects
 
 Use of topical NSAIDs may result in keratitis.
 In some susceptible patients, continued use of topical NSAIDs may result in epithelial breakdown, corneal thinning, corneal erosion, corneal ulceration, or corneal perforation.
@@ -31,11 +31,6 @@ Topical NSAIDs should be used with caution in these patients.
 
 Postmarketing experience with topical NSAIDs also suggests that use more than 1 day prior to surgery or use beyond 14 days post-surgery may increase patient risk for the occurrence and severity of corneal adverse events.
 
-## 5.5Risk of Contamination
+## 5.5 Contact Lens Wear
 
-Avoid allowing the tip of the bottle to contact the eye or surrounding structures because this could cause the tip to become contaminated by common bacteria known to cause ocular infections.
-Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions.
-
-## 5.6Contact Lens Wear
-
-ACULAR should not be administered while wearing contact lenses.
+ACULAR® should not be administered while wearing contact lenses.
