@@ -1,3 +1,3 @@
-Distributed by: Mayne Pharma Greenville, NC 27834
+Distributed by: Mayne Pharma Raleigh, NC 27609
 
 61450
