@@ -15,6 +15,13 @@ Management of Hypersensitivity and Other Serious Reactions Sulfamethoxazole and 
 A skin rash may be followed by a more severe reaction, such as Stevens-Johnson syndrome, toxic epidermal necrolysis, DRESS, AFND, AGEP, hepatic necrosis, or serious blood disorders (see PRECAUTIONS and ADVERSE REACTIONS).
 Clinical signs, such as rash, pharyngitis, fever, arthralgia, cough, chest pain, dyspnea, pallor, purpura or jaundice may be early indications of serious reactions.
 
+Hemophagocytic Lymphohistiocytosis
+
+Cases of hemophagocytic lymphohistiocytosis (HLH) have been reported in patients treated with sulfamethoxazole-trimethoprim.
+HLH is a life-threatening syndrome of pathologic immune activation characterized by clinical signs and symptoms of extreme systemic inflammation.
+Signs and symptoms of HLH may include fever, hepatosplenomegaly, rash, lymphadenopathy, neurologic symptoms, cytopenias, high serum ferritin, hypertriglyceridemia, and liver enzyme and coagulation abnormalities.
+If HLH is suspected, discontinue sulfamethoxazole and trimethoprim immediately and institute appropriate management.
+
 Thrombocytopenia
 
 Sulfamethoxazole and trimethoprim-induced thrombocytopenia may be an immune-mediated disorder.
