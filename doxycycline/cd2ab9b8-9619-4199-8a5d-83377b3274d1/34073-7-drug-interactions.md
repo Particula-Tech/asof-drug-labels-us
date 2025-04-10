@@ -20,10 +20,6 @@ Concurrent use of tetracycline may render oral contraceptives less effective.
 
 Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.
 
-## 7.6 Penthrane
-
-The concurrent use of tetracycline and Penthrane® (methoxyflurane) has been reported to result in fatal renal toxicity.
-
-## 7.7 Drug/Laboratory Test Interactions
+## 7.6 Drug/Laboratory Test Interactions
 
 False elevations of urinary catecholamines may occur due to interference with the fluorescence test.

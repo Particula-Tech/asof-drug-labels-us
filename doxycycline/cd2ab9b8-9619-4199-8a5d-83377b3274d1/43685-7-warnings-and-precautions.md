@@ -32,8 +32,9 @@ If superinfection occurs, the antibacterial should be discontinued and appropria
 
 ## 5.5 Severe Skin Reactions
 
-Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline [see Adverse Reactions (6)].
-If severe skin reactions occur, doxycycline should be discontinued immediately and appropriate therapy should be instituted.
+Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline.
+Fixed drug eruptions have occurred with doxycycline and have been associated with worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption [see Adverse Reactions (6)].
+If severe skin reactions occur, discontinue doxycycline hyclate delayed-release tablets immediately and institute appropriate therapy.
 
 ## 5.6 Intracranial Hypertension
 
