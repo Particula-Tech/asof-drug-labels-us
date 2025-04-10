@@ -66,6 +66,14 @@ Amitriptyline hydrochloride may enhance the response to alcohol and the effects 
 In patients who may use alcohol excessively, it should be borne in mind that the potentiation may increase the danger inherent in any suicide attempt or overdosage.
 Delirium has been reported with concurrent administration of amitriptyline and disulfiram.
 
+Hyponatremia - Hyponatremia has occurred as a result of treatment with amitriptyline hydrochloride.
+In many cases, hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
+Signs and symptoms associated with more severe and/or acute cases have included syncope, seizure, coma, respiratory arrest, and death.
+
+In patients with symptomatic hyponatremia, discontinue amitriptyline hydrochloride and institute appropriate medical intervention.
+Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia with amitriptyline hydrochloride.
+
 ## Angle-Closure Glaucoma
 
 The pupillary dilation that occurs following use of many antidepressant drugs including amitriptyline hydrochloride may trigger an angle closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.

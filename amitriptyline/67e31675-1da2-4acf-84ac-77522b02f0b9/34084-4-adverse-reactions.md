@@ -34,7 +34,7 @@ Testicular swelling and gynecomastia in the male; breast enlargement and galacto
 
 Other
 
-Alopecia; edema; weight gain or loss; urinary frequency; increased perspiration.
+Alopecia; edema; weight gain or loss; urinary frequency; increased perspiration, hyponatremia.
 
 ## Withdrawal Symptoms
 
