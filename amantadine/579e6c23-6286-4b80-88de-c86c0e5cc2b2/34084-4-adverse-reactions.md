@@ -33,7 +33,7 @@ leukocytosis, agranulocytosis;
 
 Special Senses
 
-keratitis and mydriasis;
+Keratitis, mydriasis, and corneal edema;
 
 Skin and Appendages
 
