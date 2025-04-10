@@ -5,7 +5,7 @@ The following adverse reactions are included in more detail in other sections of
 - Hypersensitivity reactions to paroxetine [see Contraindications (4)]
 - Suicidal Thoughts and Behaviors [see Warnings and Precautions (5.1)]
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
-- Embryofetal and Neonatal Toxicity [see Warnings and Precautions (5.4)]
+- Embryofetal Toxicity [see Warnings and Precautions (5.4)]
 - Increased Risk of Bleeding [see Warnings and Precautions (5.5)]
 - Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.7)]

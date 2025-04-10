@@ -23,7 +23,7 @@ Table 9: Clinically Significant Drug Interactions with Paroxetine
 | Drugs Highly Bound to Plasma Protein |  |
 | Clinical Impact | Paroxetine is highly bound to plasma protein. The concomitant use of paroxetine with another drug that is highly bound to plasma protein may increase free concentrations of paroxetine or other tightly-bound drugs in plasma. |
 | Intervention | Monitor for adverse reactions and reduce dosage of paroxetine or other protein-bound drugs as warranted. |
-| Examples | warfarin |
+| Examples | Warfarin |
 | Drugs Metabolized by CYP2D6 |  |
 | Clinical Impact | Paroxetine is a CYP2D6 inhibitor [see Clinical Pharmacology (12.3)]. The concomitant use of paroxetine with a CYP2D6 substrate may increase the exposure of the CYP2D6 substrate. |
 | Intervention | Decrease the dosage of a CYP2D6 substrate if needed with concomitant paroxetine use. Conversely, an increase in dosage of a CYP2D6 substrate may be needed if paroxetine is discontinued. |

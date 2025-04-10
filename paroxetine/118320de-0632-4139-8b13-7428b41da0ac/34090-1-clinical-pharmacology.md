@@ -19,7 +19,7 @@ Absorption
 
 Paroxetine hydrochloride is completely absorbed after oral dosing of a solution of the hydrochloride salt.
 In a study in which normal male subjects (n = 15) received 30 mg tablets daily for 30 days, steady-state paroxetine concentrations were achieved by approximately 10 days for most subjects, although it may take substantially longer in an occasional patient.
-At steady state, mean values of Cmax, Tmax, Cmin, and T½ were 61.7 ng/mL (CV 45%), 5.2 hr. (CV 10%), 30.7 ng/mL (CV 67%), and 21.0 hours (CV 32%), respectively.
+At steady state, mean values of Cmax, Tmax, Cmin, and T½ were 61.7 ng/mL (CV 45%), 5.2 hr. (CV 10%), 30.7 ng/mL (CV 67%), and 21 hours (CV 32%), respectively.
 The steady-state Cmax and Cmin values were about 6 and 14 times what would be predicted from single-dose studies.
 Steady-state drug exposure based on AUC0-24 was about 8 times greater than would have been predicted from single-dose data in these subjects.
 The excess accumulation is a consequence of the fact that 1 of the enzymes that metabolizes paroxetine is readily saturable.
@@ -78,7 +78,7 @@ While this interaction has not been formally studied, it is recommended that the
 Drugs Metabolized by Cytochrome CYP3A4
 
 An in vivo interaction study involving the coadministration under steady-state conditions of paroxetine and terfenadine, a substrate for CYP3A4, revealed no effect of paroxetine on terfenadine pharmacokinetics.
-In addition, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for this enzyme, including terfenadine, astemizole, cisapride, triazolam, and cyclosporine.
+In addition, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for this enzyme, including terfenadine, triazolam, and cyclosporine.
 Paroxetine’s extent of inhibition of CYP3A4 activity is not expected to be of clinical significance.
 
 Specific Populations

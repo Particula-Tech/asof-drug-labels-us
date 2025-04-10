@@ -33,15 +33,21 @@ Allergic Reactions
 
 Advise patients to notify their healthcare provider if they develop an allergic reaction such as rash, hives, swelling, or difficulty breathing [see Adverse Reactions (6.1, 6.2)].
 
-Embryo-Fetal Toxicity
+EmbryoFetal Toxicity
 
-Advise women of the potential risk to the fetus [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy because of the risk to the fetus.
+Advise women to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with paroxetine.
+Advise women of risks associated with first trimester use of paroxetine and that use later in pregnancy may lead to an increased risk for neonatal complications requiring prolonged hospitalization, respiratory support, tube feeding, and/or persistent pulmonary hypertension of the newborn (PPHN) [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Advise women that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to paroxetine during pregnancy [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
-Nursing
+Lactation
 
-Advise women to notify their healthcare provider if they are breastfeeding an infant [see Use In Specific Populations (8.3)].
+Advise breastfeeding women using paroxetine to monitor infants for agitation, irritability, poor feeding, and poor weight gain and to seek medical care if they notice these signs [see Use in Specific Populations (8.2)].
+
+Females and Males of Reproductive Potential
+
+Advise men that paroxetine may affect sperm quality, which may impair fertility; it is not known if this effect is reversible [see Use in Specific Populations (8.3)].
+
 Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India.
-M.L.No.: 19/HD/AP/95/F/R Revised: 09/2023 Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
+M.L.No.: 19/HD/AP/95/F/R Revised: 02/2025 Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
