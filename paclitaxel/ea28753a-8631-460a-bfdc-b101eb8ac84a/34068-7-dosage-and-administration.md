@@ -57,20 +57,20 @@ Patients should be monitored closely for the development of profound myelosuppre
 Table 17.
 Recommendations for Dosing in Patients with Hepatic Impairment Based on Clinical Trial Dataa
 
-| Degree of Hepatic Impairment |  |  |  | Recommended Paclitaxel Dosec |
-| --- | --- | --- | --- | --- |
-| TransaminaseLevels |  | Bilirubin Levelsb |  |  |
-| 24-Hour Infusion |  |  |  |  |
-| <2 x ULN | and |  | ≤1.5 mg/dL | 135 mg/m2 |
-| 2 to <10 x ULN | and |  | ≤1.5 mg/dL | 100 mg/m2 |
-| <10 x ULN | and |  | 1.6-7.5 mg/dL | 50 mg/m2 |
-| ≥10 x ULN | or |  | >7.5 mg/dL | Not recommended |
-| 3-Hour Infusion |  |  |  |  |
-| <10 x ULN | and |  | ≤1.25 x ULN | 175 mg/m2 |
-| <10 x ULN | and |  | 1.26-2.0 x ULN | 135 mg/m2 |
-| <10 x ULN | and |  | 2.01-5.0 x ULN | 90 mg/m2 |
-| ≥10 x ULN | or |  | >5.0 x ULN | Not recommended |
-| a These recommendations are based on dosages for patients without hepatic imairement of 135 mg/m2 over 24 hours or 175 mg/m2 over 3 hours; data are not available to make dose adjustment recommendations for other regimens (eg, for AIDS-related Kaposi’s sarcoma).b Differences in criteria for bilirubin levels between the 3- and 24-hour infusion are due to differences in clinical trial design.c Dosage recommendations are for the first course of therapy; further dose reduction in subsequent courses should be based on individual tolerance. |  |  |  |  |
+| Degree of Hepatic Impairment |  |  | Recommended Paclitaxel Dosec |
+| --- | --- | --- | --- |
+| TransaminaseLevels |  | Bilirubin Levelsb |  |
+| 24-Hour Infusion |  |  |  |
+| <2 x ULN | and | ≤1.5 mg/dL | 135 mg/m2 |
+| 2 to <10 x ULN | and | ≤1.5 mg/dL | 100 mg/m2 |
+| <10 x ULN | and | 1.6-7.5 mg/dL | 50 mg/m2 |
+| ≥10 x ULN | or | >7.5 mg/dL | Not recommended |
+| 3-Hour Infusion |  |  |  |
+| <10 x ULN | and | ≤1.25 x ULN | 175 mg/m2 |
+| <10 x ULN | and | 1.26-2.0 x ULN | 135 mg/m2 |
+| <10 x ULN | and | 2.01-5.0 x ULN | 90 mg/m2 |
+| ≥10 x ULN | or | >5.0 x ULN | Not recommended |
+| a These recommendations are based on dosages for patients without hepatic imairement of 135 mg/m2 over 24 hours or 175 mg/m2 over 3 hours; data are not available to make dose adjustment recommendations for other regimens (eg, for AIDS-related Kaposi’s sarcoma).b Differences in criteria for bilirubin levels between the 3- and 24-hour infusion are due to differences in clinical trial design.c Dosage recommendations are for the first course of therapy; further dose reduction in subsequent courses should be based on individual tolerance. |  |  |  |
 
 Preparation and Administration Precautions: Procedures for proper handling and disposal of anticancer drugs should be considered.
 Several guidelines on this subject have been published.1–4 To minimize the risk of dermal exposure, always wear impervious gloves when handling vials containing paclitaxel Injection.

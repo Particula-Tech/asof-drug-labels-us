@@ -26,6 +26,6 @@ Chemo Dispensing Pin™ is a trademark of B. Braun Medical Incorporated.
 
 Distributed by Hospira Inc., Lake Forest, IL 60045 USA
 
-LAB-1315-2.0
+LAB-1315-3.0
 
-Revised: 04/2021
+Revised: 06/2023

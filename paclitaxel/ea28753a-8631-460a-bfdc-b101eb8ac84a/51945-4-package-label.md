@@ -63,3 +63,23 @@ Rx only
 CAUTION: DILUTION REQUIRED PRIOR TO IV INFUSION Multiple Dose Vial
 
 Cytotoxic Agent
+
+# PRINCIPAL DISPLAY PANEL - 5 mL Vial Label
+
+5 mL fill volume NDC 61703-015-04 Sterile Rx only
+
+Paclitaxel Injection, USP 30 mg/ 5 mL (6 mg/mL)
+
+CAUTION: DILUTION REQUIRED PRIOR TO IV INFUSION Hazardous Drug
+
+# PRINCIPAL DISPLAY PANEL - 5 mL Vial Carton
+
+VIAL Hospira
+
+1 x 5 mL fill NDC 61703-015-04 Sterile Rx only
+
+Paclitaxel Injection, USP 30 mg/ 5 mL (6 mg/mL)
+
+CAUTION: DILUTION REQUIRED PRIOR TO IV INFUSION Multiple Dose Vial
+
+Hazardous Drug
