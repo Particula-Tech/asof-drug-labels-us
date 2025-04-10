@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "BLA125261",
+    "BLA761044"
+  ],
+  "inn": "ustekinumab",
+  "labeler": "Janssen Biotech, Inc.",
+  "package_ndcs": [
+    "57894-440-01",
+    "57894-440-03",
+    "57894-441-01",
+    "57894-444-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ustekinumab",
+      "name": "ustekinumab"
+    },
+    {
+      "form": "SOLUTION",
+      "generic": "ustekinumab",
+      "name": "ustekinumab"
+    }
+  ],
+  "setid": "23b486eb-f48d-47d4-815e-1313d4ebfbfa",
+  "source": "dailymed"
+}
