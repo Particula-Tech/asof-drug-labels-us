@@ -53,4 +53,4 @@ Caution: Avoid heat over 30°C (86°F).
 Avoid high humidity.
 See end of carton for the lot number and expiration date.
 
-LAB-0649-2.0 Revised July 2022
+LAB-0649-3.0 Revised March 2025
