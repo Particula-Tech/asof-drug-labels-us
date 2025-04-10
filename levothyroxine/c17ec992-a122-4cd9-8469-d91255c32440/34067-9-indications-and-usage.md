@@ -10,5 +10,5 @@ THYQUIDITY is indicated as an adjunct to surgery and radioiodine therapy in the 
 
 Limitations of Use:
 
-- THYQUIDITY is not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients as there are no clinical benefits and overtreatment with THYQUIDITY may induce hyperthyroidism [see Warnings and Precautions (5.4)].
+- THYQUIDITY is not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients as there are no clinical benefits and overtreatment with THYQUIDITY may induce hyperthyroidism [seeWarnings and Precautions (5.4)].
 - THYQUIDITY is not indicated for treatment of hypothyroidism during the recovery phase of subacute thyroiditis.

@@ -4,8 +4,7 @@
 
 Risk Summary
 
-Prolonged experience with levothyroxine use in pregnant women, including data from post-marketing studies, to maintain a euthyroid state have not reported increased rates of major birth defects, miscarriages, or adverse maternal or fetal outcomes.
-There are risks to the mother and fetus associated with untreated hypothyroidism in pregnancy.
+Prolonged experience with levothyroxine use in pregnant women, including data from post-marketing studies, to maintain a euthyroid state have not reported increased rates of major birth defects, miscarriages, or adverse maternal or fetal outcomes.There are risks to the mother and fetus associated with untreated hypothyroidism in pregnancy.
 Since TSH levels may increase during pregnancy, TSH should be monitored and THYQUIDITY dosage adjusted during pregnancy (see Clinical Considerations).
 There are no animal studies conducted with levothyroxine during pregnancy.
 THYQUIDITY should not be discontinued during pregnancy and hypothyroidism diagnosed during pregnancy should be promptly treated.
@@ -44,7 +43,7 @@ Glycerol has the potential to cause gastrointestinal irritation resulting in vom
 Patients in the first 3 months of life may be particularly susceptible to serious fluid and electrolyte complications from glycerol-induced gastrointestinal irritation.
 Closely monitor patients from birth to 3 months of age receiving THYQUIDITY for signs and symptoms of gastrointestinal irritation.
 
-Congenital Hypothyroidism [see Dosage and Administration (2.3, 2.4)]
+Congenital Hypothyroidism[seeDosage and Administration(2.3,2.4)]
 
 Rapid restoration of normal serum T4 concentrations is essential for preventing the adverse effects of congenital hypothyroidism on intellectual development as well as on overall physical growth and maturation.
 Therefore, initiate THYQUIDITY therapy immediately upon diagnosis.
@@ -67,6 +66,6 @@ In children with severe or prolonged hypothyroidism, catch-up growth may not be 
 
 ## 8.5 Geriatric Use
 
-Because of the increased prevalence of cardiovascular disease among the elderly, initiate THYQUIDITY at less than the full replacement dose [see Warnings and Precautions (5.1) and Dosage and Administration (2.3)].
+Because of the increased prevalence of cardiovascular disease among the elderly, initiate THYQUIDITY at less than the full replacement dose [see Warnings and Precautions (5.1)and Dosage and Administration (2.3)].
 Atrial arrhythmias can occur in elderly patients.
 Atrial fibrillation is the most common of the arrhythmias observed with levothyroxine overtreatment in the elderly.

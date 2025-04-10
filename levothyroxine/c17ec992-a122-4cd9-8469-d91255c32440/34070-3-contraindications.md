@@ -2,4 +2,4 @@
 
 THYQUIDITY is contraindicated in patients with:
 
-- Uncorrected adrenal insufficiency [see Warnings and Precautions (5.3)].
+- Uncorrected adrenal insufficiency [seeWarnings and Precautions (5.3)].

@@ -3,7 +3,7 @@
 ## 5.1 Cardiac Adverse Reactions in the Elderly and in Patients with Underlying Cardiovascular Disease
 
 Over-treatment with levothyroxine may cause an increase in heart rate, cardiac wall thickness, and cardiac contractility and may precipitate angina or arrhythmias, particularly in patients with cardiovascular disease and in elderly patients.
-Initiate THYQUIDITY therapy in this population at lower doses than those recommended in younger individuals or in patients without cardiac disease [see Dosage and Administration (2.3), Use in Specific Populations (8.5)].
+Initiate THYQUIDITY therapy in this population at lower doses than those recommended in younger individuals or in patients without cardiac disease [seeDosage and Administration (2.3), Use in Specific Populations (8.5)].
 
 Monitor for cardiac arrhythmias during surgical procedures in patients with coronary artery disease receiving suppressive THYQUIDITY therapy.
 Monitor patients receiving concomitant THYQUIDITY and sympathomimetic agents for signs and symptoms of coronary insufficiency.
@@ -20,14 +20,14 @@ Administer thyroid hormone products formulated for intravenous administration to
 
 Thyroid hormone increases metabolic clearance of glucocorticoids.
 Initiation of thyroid hormone therapy prior to initiating glucocorticoid therapy may precipitate an acute adrenal crisis in patients with adrenal insufficiency.
-Treat patients with adrenal insufficiency with replacement glucocorticoids prior to initiating treatment with THYQUIDITY [see Contraindications (4)].
+Treat patients with adrenal insufficiency with replacement glucocorticoids prior to initiating treatment with THYQUIDITY [seeContraindications (4)].
 
 ## 5.4 Prevention of Hyperthyroidism or Incomplete Treatment of Hypothyroidism
 
 THYQUIDITY has a narrow therapeutic index.
 Over- or undertreatment with THYQUIDITY may have negative effects on growth and development, cardiovascular function, bone metabolism, reproductive function, cognitive function, emotional state, gastrointestinal function, and glucose and lipid metabolism [see Use in Specific Populations - Pediatric Use (8.4)].
-Titrate the dose of THYQUIDITY carefully and monitor response to titration to avoid these effects [see Dosage and Administration (2.4)].
-Monitor for the presence of drug or food interactions when using THYQUIDITY and adjust the dose as necessary [see Drug Interactions (7.9) and Clinical Pharmacology (12.3)].
+Titrate the dose of THYQUIDITY carefully and monitor response to titration to avoid these effects [seeDosage and Administration (2.4)].
+Monitor for the presence of drug or food interactions when using THYQUIDITY and adjust the dose as necessary [see Drug Interactions (7.9)andClinical Pharmacology (12.3)].
 
 ## 5.5 Worsening of Diabetic Control
 

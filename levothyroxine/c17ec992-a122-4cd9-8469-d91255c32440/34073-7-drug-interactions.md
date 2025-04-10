@@ -24,7 +24,7 @@ Drugs That May Alter T4 and Triiodothyronine (T3) Serum Transport Without Affect
 | Androgens / Anabolic Steroids AsparaginaseGlucocorticoidsSlow-Release Nicotinic Acid | These drugs may decrease serum TBG concentration. |
 | Potential impact (below): Administration of these agents with THYQUIDITY results in an initial transient increase in FT4. Continued administration results in a decrease in serum T4 and normal FT4 and TSH concentrations. |  |
 | Salicylates (> 2 g/day) | Salicylates inhibit binding of T4 and T3 to TBG and transthyretin. An initial increase in serum FT4 is followed by return of FT4 to normal levels with sustained therapeutic serum salicylate concentrations, although total T4 levels may decrease by as much as 30%. |
-| Other drugs: Carbamazepine Furosemide (> 80 mg IV) HeparinHydantoinsNon-Steroidal Anti-inflammatory Drugs-Fenamates | These drugs may cause protein-binding site displacement. Furosemide has been shown to inhibit the protein binding of T4 to TBG and albumin, causing an increase free T4 fraction in serum. Furosemide competes for T4-binding sites on TBG, prealbumin, and albumin, so that a single high dose can acutely lower the total T4 level. Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total and free T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid.Closely monitor thyroid hormone parameters. |
+| Other drugs: Carbamazepine Furosemide (> 80 mg IV)HeparinHydantoinsNon-Steroidal Anti-inflammatory Drugs-Fenamates | These drugs may cause protein-binding site displacement. Furosemide has been shown to inhibit the protein binding of T4 to TBG and albumin, causing an increase free T4 fraction in serum. Furosemide competes for T4-binding sites on TBG, prealbumin, and albumin, so that a single high dose can acutely lower the total T4 level. Phenytoin and carbamazepine reduce serum protein binding of levothyroxine, and total and free T4 may be reduced by 20% to 40%, but most patients have normal serum TSH levels and are clinically euthyroid.Closely monitor thyroid hormone parameters. |
 
 Table 4.
 Drugs That May Alter Hepatic Metabolism of T4 (Hypothyroidism)
@@ -41,13 +41,13 @@ Drugs That May Decrease Conversion of T4 to T3
 | --- | --- |
 | Drug or Drug Class | Effect |
 | Beta-adrenergic antagonists (e.g., Propranolol > 160 mg/day) | In patients treated with large doses of propranolol (> 160 mg/day), T3 and T4 levels change, TSH levels remain normal, and patients are clinically euthyroid. Actions of particular beta-adrenergic antagonists may be impaired when the hypothyroid patient is converted to the euthyroid state. |
-| Glucocorticoids(e.g., Dexamethasone > 4 mg/day) | Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels. However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (See above). |
+| Glucocorticoids(e.g., Dexamethasone >4 mg/day) | Short-term administration of large doses of glucocorticoids may decrease serum T3 concentrations by 30% with minimal change in serum T4 levels. However, long-term glucocorticoid therapy may result in slightly decreased T3 and T4 levels due to decreased TBG production (See above). |
 | Other drugs: Amiodarone | Amiodarone inhibits peripheral conversion of levothyroxine (T4) to triiodothyronine (T3) and may cause isolated biochemical changes (increase in serum free-T4, and decrease or normal free-T3) in clinically euthyroid patients. |
 
 ## 7.2 Antidiabetic Therapy
 
 Addition of THYQUIDITY therapy in patients with diabetes mellitus may worsen glycemic control and result in increased antidiabetic agent or insulin requirements.
-Carefully monitor glycemic control, especially when thyroid therapy is started, changed, or discontinued [see Warnings and Precautions (5.5)].
+Carefully monitor glycemic control, especially when thyroid therapy is started, changed, or discontinued [seeWarnings and Precautions (5.5)].
 
 ## 7.3 Oral Anticoagulants
 

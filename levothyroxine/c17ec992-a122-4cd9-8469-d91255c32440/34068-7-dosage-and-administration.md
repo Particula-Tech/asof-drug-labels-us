@@ -4,17 +4,17 @@
 
 Administer THYQUIDITY as a single daily oral dose, on an empty stomach, one-half to one hour before breakfast.
 
-Administer THYQUIDITY at least 4 hours before or after drugs known to interfere with THYQUIDITY absorption [see Drug Interactions (7.1)].
+Administer THYQUIDITY at least 4 hours before or after drugs known to interfere with THYQUIDITY absorption [seeDrug Interactions (7.1)].
 
-Evaluate the need for dose adjustments when regularly administering within one hour of certain foods that may affect THYQUIDITY absorption [see Drug Interactions (7.9) and Clinical Pharmacology (12.3)].
+Evaluate the need for dose adjustments when regularly administering within one hour of certain foods that may affect THYQUIDITY absorption [see Drug Interactions (7.9)and Clinical Pharmacology (12.3)].
 
 Administer THYQUIDITY directly to the mouth using a calibrated oral syringe provided by the pharmacy.
 A household teaspoon or tablespoon is not an adequate measuring device.
 
 ## 2.2 General Principles of Dosing
 
-The dose of THYQUIDITY for hypothyroidism or pituitary TSH suppression depends on a variety of factors including: the patient's age, body weight, cardiovascular status, concomitant medical conditions (including pregnancy), concomitant medications, co-administered food and the specific nature of the condition being treated [see Dosage and Administration (2.3), Warnings and Precautions (5), and Drug Interactions (7)].
-Dosing must be individualized to account for these factors and dose adjustments made based on periodic assessment of the patient's clinical response and laboratory parameters [see Dosage and Administration (2.4)].
+The dose of THYQUIDITY for hypothyroidism or pituitary TSH suppression depends on a variety of factors including: the patient's age, body weight, cardiovascular status, concomitant medical conditions (including pregnancy), concomitant medications, co-administered food and the specific nature of the condition being treated [seeDosage and Administration (2.3),Warnings and Precautions (5), and Drug Interactions (7)].
+Dosing must be individualized to account for these factors and dose adjustments made based on periodic assessment of the patient's clinical response and laboratory parameters [seeDosage and Administration (2.4)].
 
 The peak therapeutic effect of a given dose of THYQUIDITY may not be attained for 4 to 6 weeks.
 
@@ -49,12 +49,12 @@ Pediatric Dosage - Congenital or Acquired Hypothyroidism
 The recommended daily dose of THYQUIDITY in pediatric patients with hypothyroidism is based on body weight and changes with age as described in Table 1.
 Start THYQUIDITY at the full daily dose in most pediatric patients.
 Start at a lower starting dose in newborns (0-3 months) at risk for cardiac failure and in children at risk for hyperactivity (see below).
-Monitor for clinical and laboratory response [see Dosage and Administration (2.4)].
+Monitor for clinical and laboratory response [seeDosage and Administration (2.4)].
 
 Table 1.
 THYQUIDITY Dosing Guidelines for Pediatric Hypothyroidism
 
-| AGE | Daily Dose Per Kg Body Weighta |
+| AGE | Daily Dose Per Kg Body Weight a |
 | --- | --- |
 | 0-3 months | 10-15 mcg/kg/day |
 | 3-6 months | 8-10 mcg/kg/day |
@@ -63,7 +63,7 @@ THYQUIDITY Dosing Guidelines for Pediatric Hypothyroidism
 | 6-12 years | 4-5 mcg/kg/day |
 | Greater than 12 years but growth and puberty incomplete | 2-3 mcg/kg/day |
 | Growth and puberty complete | 1.6 mcg/kg/day |
-| a The dose should be adjusted based on clinical response and laboratory parameters [see Dosage and Administration (2.4) and Use in Specific Populations (8.4)]. |  |
+| aThe dose should be adjusted based on clinical response and laboratory parameters [seeDosage and Administration (2.4)and Use in Specific Populations (8.4)]. |  |
 
 Newborns (0-3 months) at risk for cardiac failure: Consider a lower starting dose in newborns at risk for cardiac failure.
 Increase the dose every 4 to 6 weeks as needed based on clinical and laboratory response.
@@ -72,14 +72,14 @@ Children at risk for hyperactivity: To minimize the risk of hyperactivity in chi
 
 Pregnancy
 
-Pre-existing Hypothyroidism: THYQUIDITY dose requirements may increase during pregnancy.
+Pre-existing Hypothyroidism:THYQUIDITY dose requirements may increase during pregnancy.
 Measure serum TSH and free-T4 as soon as pregnancy is confirmed and, at a minimum, during each trimester of pregnancy.
 In patients with primary hypothyroidism, maintain serum TSH in the trimester-specific reference range.
 For patients with serum TSH above the normal trimester- specific range, increase the dose of THYQUIDITY by 12.5 to 25 mcg/day and measure TSH every 4 weeks until a stable THYQUIDITY dose is reached and serum TSH is within the normal trimester-specific range.
 Reduce THYQUIDITY dosage to pre-pregnancy levels immediately after delivery and measure serum TSH levels 4 to 8 weeks postpartum to ensure THYQUIDITY dose is appropriate.
 
 New Onset Hypothyroidism: Normalize thyroid function as rapidly as possible.
-Evaluate serum TSH every 4 weeks and adjust THYQUIDITY dosage until a serum TSH is within the normal trimester specific range [see Use in Specific Populations (8.1)].
+Evaluate serum TSH every 4 weeks and adjust THYQUIDITY dosage until a serum TSH is within the normal trimester specific range [seeUse in Specific Populations (8.1)].
 
 TSH Suppression in Well-differentiated Thyroid Cancer
 
@@ -103,9 +103,9 @@ Monitor TSH and total or free-T4 in children as follows: 2 and 4 weeks after the
 Poor compliance or abnormal values may necessitate more frequent monitoring.
 Perform routine clinical examination, including assessment of development, mental and physical growth, and bone maturation, at regular intervals.
 
-Although the general aim of therapy is to normalize the serum TSH level, TSH may not normalize in some patients due to in utero hypothyroidism causing a resetting of pituitary-thyroid feedback.
+Although the general aim of therapy is to normalize the serum TSH level, TSH may not normalize in some patients due to in uterohypothyroidism causing a resetting of pituitary-thyroid feedback.
 Failure of the serum T4 to increase into the upper half of the normal range within 2 weeks of initiation of THYQUIDITY therapy and/or of the serum TSH to decrease below 20 mIU per liter within 4 weeks may indicate the child is not receiving adequate therapy.
-Assess compliance, dose of medication administered, and method of administration prior to increasing the dose of THYQUIDITY [see Warnings and Precautions (5.4) and Use in Specific Populations (8.4)].
+Assess compliance, dose of medication administered, and method of administration prior to increasing the dose of THYQUIDITY [seeWarnings and Precautions (5.4)and Use in Specific Populations (8.4)].
 
 Secondary and Tertiary Hypothyroidism
 

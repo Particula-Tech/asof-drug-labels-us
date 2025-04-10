@@ -21,7 +21,7 @@ The majority of the THYQUIDITY dose is absorbed from the jejunum and upper ileum
 T4 absorption is increased by fasting, and decreased in malabsorption syndromes and by certain foods such as soybeans.
 Dietary fiber decreases bioavailability of T4.
 Absorption may also decrease with age.
-In addition, many drugs and foods affect T4 absorption [see Drug Interactions (7)].
+In addition, many drugs and foods affect T4 absorption [seeDrug Interactions (7)].
 
 Distribution
 
@@ -29,8 +29,8 @@ Circulating thyroid hormones are greater than 99% bound to plasma proteins, incl
 The higher affinity of both TBG and TBPA for T4 partially explains the higher serum levels, slower metabolic clearance, and longer half-life of T4 compared to T3.
 Protein-bound thyroid hormones exist in reverse equilibrium with small amounts of free hormone.
 Only unbound hormone is metabolically active.
-Many drugs and physiologic conditions affect the binding of thyroid hormones to serum proteins [see Drug Interactions (7)].
-Thyroid hormones do not readily cross the placental barrier [see Use in Specific Populations (8.1)].
+Many drugs and physiologic conditions affect the binding of thyroid hormones to serum proteins [seeDrug Interactions (7)].
+Thyroid hormones do not readily cross the placental barrier [seeUse in Specific Populations (8.1)].
 
 Elimination
 
@@ -54,8 +54,8 @@ Urinary excretion of T4 decreases with age.
 Table 6.
 Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients
 
-| Hormone | Ratio in Thyroglobulin | Biologic Potency | Half-Life (days) | Protein Binding (%)a |
+| Hormone | Ratio in Thyroglobulin | Biologic Potency | Half-Life (days) | Protein Binding (%) a |
 | --- | --- | --- | --- | --- |
-| Levothyroxine (T4) | 10 - 20 | 1 | 6-7b | 99.96 |
+| Levothyroxine (T4) | 10 - 20 | 1 | 6-7 b | 99.96 |
 | Liothyronine (T3) | 1 | 4 | ≤ 2 | 99.5 |
-| aIncludes TBG, TBPA, and TBAb3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism |  |  |  |  |
+| aIncludes TBG, TBPA, and TBA b3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism |  |  |  |  |
