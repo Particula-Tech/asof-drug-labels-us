@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Nelarabine is a prodrug of the deoxyguanosine analogue 9-β-D-arabinofuranosylguanine (ara-G), a nucleoside metabolic inhibitor.
-Nelarabine is demethylated by adenosine deaminase (ADA) to ara-G, mono-phosphorylated by deoxyguanosine kinase and deoxycytidine kinase, and subsequently converted to the active 5’-triphosphate, ara-GTP.
+Nelarabine is demethylated by ADA to ara-G, mono-phosphorylated by deoxyguanosine kinase and deoxycytidine kinase, and subsequently converted to the active 5’-triphosphate, ara-GTP.
 Accumulation of ara-GTP in leukemic blasts allows for incorporation into deoxyribonucleic acid (DNA), leading to inhibition of DNA synthesis and cell death.
 Other mechanisms may contribute to the cytotoxic and systemic toxicity of nelarabine.
 
@@ -21,7 +21,7 @@ Distribution: Nelarabine and ara-G are extensively distributed throughout the bo
 For nelarabine, VSS values were 197 ± 216 L/m2 in adult patients.
 For ara-G, VSS/F values were 50 ± 24 L/m2 in adult patients.
 Nelarabine and ara-G are not substantially bound to human plasma proteins (< 25%) in vitro, and binding is independent of nelarabine or ara-G concentrations up to 600 μM.
-Metabolism: The principal route of metabolism for nelarabine is O-demethylation by adenosine deaminase to form ara-G, which undergoes hydrolysis to form guanine.
+Metabolism: The principal route of metabolism for nelarabine is O-demethylation by ADA to form ara-G, which undergoes hydrolysis to form guanine.
 In addition, some nelarabine is hydrolyzed to form methylguanine, which is O-demethylated to form guanine.
 Guanine is N-deaminated to form xanthine, which is further oxidized to yield uric acid.
 Excretion: Nelarabine and ara-G are partially eliminated by the kidneys.
@@ -32,7 +32,7 @@ The apparent clearance of ara-G (CL/F) is 10.5 ± 4.5 L/h/m2 on Day 1.
 Nelarabine and ara-G are rapidly eliminated from plasma with a mean half-life of 18 minutes and 3.2 hours, respectively, in adult patients.
 Pediatrics: No pharmacokinetic data are available in pediatric patients at the once-daily 650 mg/m2 nelarabine dosage.
 Combined Phase I pharmacokinetic data at nelarabine doses of 104 to 2,900 mg/m2 indicate that the mean clearance (CL) of nelarabine is about 30% higher in pediatric patients than in adult patients (259 ± 409 L/h/m2 versus 197 ± 189 L/h/m2, respectively) (n = 66 adults, n = 22 pediatric patients) on Day 1.
-The apparent clearance of ara-G (CL/F) is comparable between the two groups (10.5 ± 4.5 L/h/m2 in adult patients and 11.3 ± 4.2 L/h/m2 in pediatric patients) on Day 1.
+The apparent clearance of ara-G (CL/F) is comparable between the 2 groups (10.5 ± 4.5 L/h/m2 in adult patients and 11.3 ± 4.2 L/h/m2 in pediatric patients) on Day 1.
 Nelarabine and ara-G are extensively distributed throughout the body.
 For nelarabine, VSS values were 213 ± 358 L/m2 in pediatric patients.
 For ara-G, VSS/F values were 33 ± 9.3 L/m2 in pediatric patients.
@@ -50,7 +50,7 @@ In the combined Phase I trials, patients were categorized into 3 groups: normal 
 The mean apparent clearance (CL/F) of ara-G was about 15% and 40% lower in patients with mild and moderate renal impairment, respectively, than in patients with normal renal function [see Use in Specific Populations (8.6), Dosage and Administration (2.3)].
 No differences in safety or effectiveness were observed.
 Effect of Hepatic Impairment: The influence of hepatic impairment on the pharmacokinetics of nelarabine has not been evaluated [see Use in Specific Populations (8.7)].
-Drug Interactions:Cytochrome P450: Nelarabine and ara-G did not significantly inhibit the activities of the human hepatic cytochrome P450 isoenzymes 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, or 3A4 in vitro at concentrations of nelarabine and ara-G up to 100 μM.
+Drug Interactions: Cytochrome P450: Nelarabine and ara-G did not significantly inhibit the activities of the human hepatic cytochrome P450 isoenzymes 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, or 3A4 in vitro at concentrations of nelarabine and ara-G up to 100 μM.
 Fludarabine: Administration of fludarabine 30 mg/m2 as a 30-minute infusion 4 hours before a 1,200-mg/m2 infusion of nelarabine did not affect the pharmacokinetics of nelarabine, ara-G, or ara-GTP in 12 patients with refractory leukemia.
-Pentostatin: There is in vitro evidence that pentostatin is a strong inhibitor of adenosine deaminase.
-Inhibition of adenosine deaminase may result in a reduction in the conversion of the prodrug nelarabine to its active moiety and consequently in a reduction in efficacy of nelarabine and/or change in adverse reaction profile of either drug [see Drug Interactions (7)].
+Pentostatin: There is in vitro evidence that pentostatin is a strong inhibitor of ADA.
+Inhibition of ADA may result in a reduction in the conversion of the prodrug nelarabine to its active moiety and consequently in a reduction in efficacy of nelarabine and/or change in adverse reaction profile of either drug [see Drug Interactions (7)].

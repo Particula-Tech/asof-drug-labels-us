@@ -1,6 +1,6 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Vial Label:
+Vial Label
 
 NDC 68083-233-01 Rx only
 
@@ -10,13 +10,15 @@ Nelarabine Injection
 
 For Intravenous Infusion Only
 
-Cytotoxic Agent
+WARNING: Hazardous Drug
 
-Discard Unused Portion Sterile 50 mL Single-Dose Vial
+Discard Unused Portion
 
-Carton Label:
+Sterile 50 mL Single-Dose Vial
 
-NDC: 68083-233-06 Rx only
+Carton Label
+
+NDC 68083-233-06 Rx only
 
 Nelarabine Injection
 
@@ -24,6 +26,8 @@ Nelarabine Injection
 
 For Intravenous Infusion Only
 
-Cytotoxic Agent
+WARNING: Hazardous Drug
 
-Discard Unused Portion Sterile 6 x 50 mL Single-Dose Vial
+Discard Unused Portion
+
+Sterile 6 x 50 mL Single-Dose Vials
