@@ -14,4 +14,4 @@ Studies in asthmatic patients have shown that less than 20% of a single albutero
 Most of the absorbed dose was recovered in urine collected during the 24 hours after drug administration.
 Following oral administration of 4 mg albuterol, the elimination half-life was five to six hours.
 Following a 3 mg dose of nebulized albuterol in adults, the mean maximum albuterol plasma level at 0.5 hours was 2.1 ng/mL (range, 1.4 to 3.2 ng/mL).
-The pharmacokinetics of albuterol following administration of 0.63 mg (0.021%) or 1.25 mg (0.042%) albuterol sulfate inhalation solution by nebulization have not been determined in children 2 to 12 years old.
+The pharmacokinetics of albuterol following administration of 0.63 mg (0.021%) or 1.25 mg (0.042%) albuterol inhalation solution by nebulization have not been determined in children 2 to 12 years old.

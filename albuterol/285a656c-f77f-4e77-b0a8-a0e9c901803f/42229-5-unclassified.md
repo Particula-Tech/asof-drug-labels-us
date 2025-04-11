@@ -1,1 +1,5 @@
-*Potency expressed as albuterol equivalent to 0.75 mg and 1.5 mg albuterol sulfate.
+*Potency expressed as albuterol.
+
+PRESCRIBING INFORMATION
+
+FOR INHALATION USE ONLY - NOT FOR INJECTION.

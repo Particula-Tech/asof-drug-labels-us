@@ -2,8 +2,8 @@
 
 ## PARADOXICAL BRONCHOSPASM
 
-As with other inhaled beta-adrenergic agonists, albuterol sulfate inhalation solution can produce paradoxical bronchospasm, which may be life-threatening.
-If paradoxical bronchospasm occurs, albuterol sulfate inhalation solution should be discontinued immediately and alternative therapy instituted.
+As with other inhaled beta-adrenergic agonists, albuterol inhalation solution can produce paradoxical bronchospasm, which may be life-threatening.
+If paradoxical bronchospasm occurs, albuterol inhalation solution should be discontinued immediately and alternative therapy instituted.
 It should be noted that paradoxical bronchospasm, when associated with inhaled formulations, frequently occurs with the first use of a new canister or vial.
 
 ## USE OF ANTI-INFLAMMATORY AGENTS
@@ -14,18 +14,18 @@ Early consideration should be given to adding anti-inflammatory agents (e.g., co
 ## DETERIORATION OF ASTHMA
 
 Asthma may deteriorate acutely over a period of hours or chronically over several days or longer.
-If the patient needs more doses of albuterol sulfate inhalation solution than usual, this may be a marker of destabilization of asthma and requires reevaluation of the patient and the treatment regimen, giving special consideration of the possible need for anti-inflammatory treatment (e.g., corticosteroids).
+If the patient needs more doses of albuterol inhalation solution than usual, this may be a marker of destabilization of asthma and requires reevaluation of the patient and the treatment regimen, giving special consideration of the possible need for anti-inflammatory treatment (e.g., corticosteroids).
 
 Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs and with the home use of nebulizers.
 It is, therefore, essential that the physician instruct the patient in the need for further evaluation, if his/her asthma becomes worse.
 
 ## CARDIOVASCULAR EFFECTS
 
-Albuterol sulfate inhalation solution, like other beta-adrenergic agonists, can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms.
-Although such effects are uncommon for albuterol sulfate inhalation solution at recommended doses, if they occur, the drug may need to be discontinued.
+Albuterol inhalation solution, like other beta-adrenergic agonists, can produce a clinically significant cardiovascular effect in some patients as measured by pulse rate, blood pressure, and/or symptoms.
+Although such effects are uncommon for albuterol inhalation solution at recommended doses, if they occur, the drug may need to be discontinued.
 In addition, beta-agonists have been reported to produce ECG changes, such as flattening of the T-wave, prolongation of the QTc interval, and ST segment depression.
 The clinical significance of these findings is unknown.
-Therefore, albuterol sulfate inhalation solution, like all other sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
+Therefore, albuterol inhalation solution, like all other sympathomimetic amines, should be used with caution in patients with cardiovascular disorders, especially coronary insufficiency, cardiac arrhythmias, and hypertension.
 
 ## IMMEDIATE HYPERSENSITIVITY REACTIONS
 
@@ -41,28 +41,28 @@ The decrease is usually transient, not requiring potassium supplementation.
 
 ## Information for Patients
 
-The action of albuterol sulfate inhalation solution may last up to six hours, and therefore it should not be used more frequently than recommended.
+The action of albuterol inhalation solution may last up to six hours, and therefore it should not be used more frequently than recommended.
 Do not increase the dose or frequency of medication without consulting your physician.
-If you find that treatment with albuterol sulfate inhalation solution becomes less effective for symptomatic relief, your symptoms become worse, and/or you need to use the product more frequently than usual, you should seek medical attention immediately.
+If you find that treatment with albuterol inhalation solution becomes less effective for symptomatic relief, your symptoms become worse, and/or you need to use the product more frequently than usual, you should seek medical attention immediately.
 All asthma medication should only be used under the supervision and direction of a physician.
-Common effects with medications such as albuterol sulfate inhalation solution include palpitations, chest pain, rapid heart rate, tremor, or nervousness.
+Common effects with medications such as albuterol inhalation solution include palpitations, chest pain, rapid heart rate, tremor, or nervousness.
 
-If you are pregnant or nursing, contact your physician about the use of albuterol sulfate inhalation solution.
-Effective and safe use of albuterol sulfate inhalation solution includes an understanding of the way it should be administered.
+If you are pregnant or nursing, contact your physician about the use of albuterol inhalation solution.
+Effective and safe use of albuterol inhalation solution includes an understanding of the way it should be administered.
 
 If the solution in the vial changes color or becomes cloudy, you should not use it.
 
-The drug compatibility (physical and chemical), clinical efficacy, and safety of albuterol sulfate inhalation solution, when mixed with other drugs in a nebulizer, have not been established.
+The drug compatibility (physical and chemical), clinical efficacy, and safety of albuterol inhalation solution, when mixed with other drugs in a nebulizer, have not been established.
 
 See illustrated Patient’s Instructions for Use.
 
 ## Drug Interactions
 
-Other short-acting sympathomimetic aerosol bronchodilators or epinephrine should not be used concomitantly with albuterol sulfate inhalation solution.
+Other short-acting sympathomimetic aerosol bronchodilators or epinephrine should not be used concomitantly with albuterol inhalation solution.
 
-Albuterol sulfate inhalation solution should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants or within 2 weeks of discontinuation of such agents, since the action of albuterol on the vascular system may be potentiated.
+Albuterol inhalation solution should be administered with extreme caution to patients being treated with monoamine oxidase inhibitors or tricyclic antidepressants or within 2 weeks of discontinuation of such agents, since the action of albuterol on the vascular system may be potentiated.
 
-Beta-receptor blocking agents not only block the pulmonary effect of beta-agonists, such as albuterol sulfate inhalation solution, but may produce severe bronchospasm in asthmatic patients.
+Beta-receptor blocking agents not only block the pulmonary effect of beta-agonists, such as albuterol inhalation solution, but may produce severe bronchospasm in asthmatic patients.
 Therefore, patients with asthma should not normally be treated with beta-blockers.
 However, under certain circumstances (e.g., prophylaxis after myocardial infarction), there may be no acceptable alternatives to the use of beta-adrenergic blocking agents in patients with asthma.
 In this setting, cardioselective beta-blockers should be considered, although they should be administered with caution.
@@ -112,7 +112,7 @@ Because no consistent pattern of defects can be discerned, a relationship betwee
 
 Oral albuterol has been shown to delay pre-term labor in some reports.
 There are presently no well-controlled studies that demonstrate that it will stop pre-term labor or prevent labor at term.
-Because of the potential for beta-agonist interference with uterine contractility, use of albuterol sulfate inhalation solution for relief of bronchospasm during labor should be restricted to those patients in whom the benefits clearly outweigh the risk.
+Because of the potential for beta-agonist interference with uterine contractility, use of albuterol inhalation solution for relief of bronchospasm during labor should be restricted to those patients in whom the benefits clearly outweigh the risk.
 
 Albuterol has not been approved for the management of pre-term labor.
 The benefit:risk ratio when albuterol is administered for tocolysis has not been established.
@@ -125,6 +125,6 @@ Because of the potential for tumorigenicity shown for albuterol in some animal s
 
 ## Pediatric Use
 
-Safety and effectiveness of albuterol sulfate inhalation solution 1.25 mg (0.042%) and 0.63 mg (0.021%) have been established in pediatric patients between the ages of 2 and 12 years.
-The use of albuterol sulfate inhalation solution in these age groups is supported by evidence from adequate and well-controlled studies of albuterol sulfate inhalation solution in children age 6 to 12 years and published reports of albuterol sulfate trials in pediatric patients 3 years of age and older.
-The safety and effectiveness of albuterol sulfate inhalation solution in children below 2 years of age have not been established.
+Safety and effectiveness of albuterol inhalation solution 1.25 mg (0.042%) and 0.63 mg (0.021%) have been established in pediatric patients between the ages of 2 and 12 years.
+The use of albuterol inhalation solution in these age groups is supported by evidence from adequate and well-controlled studies of albuterol inhalation solution in children age 6 to 12 years and published reports of albuterol sulfate trials in pediatric patients 3 years of age and older.
+The safety and effectiveness of albuterol inhalation solution in children below 2 years of age have not been established.
