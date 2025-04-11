@@ -18,10 +18,10 @@ Table 2 lists adverse reactions with an incidence of ≥ 1%, in either group (OB
 
 Table 2: Adverse reactions with an incidence of ≥ 1% from North American trial, [n (%)]
 
-| Preferred Term | OBMTOBMT = Omeprazole + PYLERA (n = 147) | OACOAC = Omeprazole + Amoxicillin + Clarithromycin; (n = 152) |
+| Preferred Term | OBMT* (n = 147) | OAC** (n = 152) |
 | --- | --- | --- |
 | Gastrointestinal disorders |  |  |
-| Abnormal fecesDark stools [see Warnings and Precautions (5.8)] | 23 (15.6%) | 7 (4.6%) |
+| Abnormal feces*** | 23 (15.6%) | 7 (4.6%) |
 | Nausea | 12 (8.2%) | 14 (9.2%) |
 | Diarrhea | 10 (6.8%) | 20 (13.2%) |
 | Abdominal Pain | 7 (4.8%) | 2 (1.3%) |
@@ -29,7 +29,7 @@ Table 2: Adverse reactions with an incidence of ≥ 1% from North American trial
 | Constipation | 2 (1.4%) | 5 (3.3%) |
 | Dry Mouth | 2 (1.4%) | 1 (0.7%) |
 | Flatulence | 0 | 4 (2.6%) |
-| Glositis | 0 | 2 (1.3%) |
+| Glossitis | 0 | 2 (1.3%) |
 | General disorders and administration site conditions |  |  |
 | Asthenia | 5 (3.4%) | 2 (1.3%) |
 | Infections and infestations |  |  |
@@ -48,8 +48,9 @@ Table 2: Adverse reactions with an incidence of ≥ 1% from North American trial
 | Rash Maculo-Papular | 2 (1.4%) | 0 |
 | Rash | 1 (0.7%) | 3 (2.0%) |
 | Pruritus | 0 | 4 (2.6%) |
+| *OBMT = Omeprazole + PYLERA**OAC = Omeprazole + Amoxicillin + Clarithromycin;*** Dark stools [see Warnings and Precautions (5.9)] |  |  |
 
-Adverse reactions with an incidence of <1% for OBMT group are: back pain, vomiting, tongue darkening [see Warnings and Precautions (5.8)], anxiety, gastritis, gastroenteritis, myalgia, chest pain, increased appetite, blood creatine phosphokinase increased, malaise, somnolence, tachycardia, duodenal ulcer, visual disturbance, weight increased.
+Adverse reactions with an incidence of <1% for OBMT group are: back pain, vomiting, tongue darkening [see Warnings and Precautions (5.9)], anxiety, gastritis, gastroenteritis, myalgia, chest pain, increased appetite, blood creatine phosphokinase increased, malaise, somnolence, tachycardia, duodenal ulcer, visual disturbance, weight increased.
 
 ## 6.2 Postmarketing Experience
 
@@ -66,7 +67,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Metronidazole
 
-Blood and Lymphatic system disorders: Reversible neutropenia (leucopenia) in cases of prolonged treatment; rarely reversible thrombocytopenia however no persistent hematological abnormalities attributable to metronidazole have been observed [see Warnings and Precautions (5.9)].
+Blood and Lymphatic system disorders: Reversible neutropenia (leucopenia) in cases of prolonged treatment; rarely reversible thrombocytopenia however no persistent hematological abnormalities attributable to metronidazole have been observed [see Warnings and Precautions (5.10)].
 
 Cardiac disorders: QT prolongation has been reported with metronidazole, particularly when administered with drugs with the potential for prolonging the QT interval.
 Flattening of the T-wave may be seen in electrocardiographic tracings.
@@ -77,13 +78,13 @@ Hypersensitivity/Immune system disorders: Acute generalized exanthematous pustul
 
 Metabolism and nutrition disorders: Pancreatitis.
 
-Nervous system disorders: Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, headache, syncope, dizziness, vertigo, incoordination, ataxia, tinnitus, hearing impairment, hearing loss, confusion, dysarthria, irritability, depression, weakness, and insomnia [see Warnings and Precautions (5.5)].
+Nervous system disorders: Convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, headache, syncope, dizziness, vertigo, incoordination, ataxia, tinnitus, hearing impairment, hearing loss, confusion, dysarthria, irritability, depression, weakness, and insomnia [see Warnings and Precautions (5.6)].
 
 Dermatologic disorders: Erythematous rash and pruritus.
 
 Renal and urinary disorders: Dysuria, cystitis, polyuria, incontinence, darkened urine, and a sense of pelvic pressure.
 
-Hepatic: Cases of severe irreversible hepatotoxicity/acute liver failure, including cases with fatal outcomes with very rapid onset after initiation of systemic use of metronidazole, have been reported in patients with Cockayne Syndrome (latency from drug start to signs of liver failure as short as 2 days) [see Contraindications (4.4)].
+Hepatic: Cases of severe irreversible hepatotoxicity/acute liver failure, including cases with fatal outcomes with very rapid onset after initiation of systemic use of metronidazole, have been reported in patients with Cockayne Syndrome (latency from drug start to signs of liver failure as short as 2 days) [see Contraindications (4.3)].
 
 Other: Dyspareunia, decrease of libido, proctitis, joint pains.
 
@@ -97,7 +98,7 @@ Nervous system disorders: Intracranial hypertension including pseudotumor cerebr
 
 Renal and urinary disorders: Increased BUN.
 
-Skin and subcutaneous tissue disorders: Maculopapular and erythematous rashes, onycholysis, discoloration of the nails, exfoliative dermatitis and photosensitivity have been rarely reported [see Warnings and Precautions (5.13)].
+Skin and subcutaneous tissue disorders: Maculopapular and erythematous rashes, onycholysis, fixed drug eruption, discoloration of the nails, exfoliative dermatitis and photosensitivity have been rarely reported [see Warnings and Precautions (5.8)].
 
 Liver: Hepatotoxicity and liver failure.
 

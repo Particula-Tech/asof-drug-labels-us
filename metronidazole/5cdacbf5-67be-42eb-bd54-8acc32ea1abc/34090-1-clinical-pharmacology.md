@@ -65,14 +65,15 @@ The pharmacokinetic parameters for the individual drugs, when administered as se
 
 Table 3: Mean (%CV) Pharmacokinetic Parameters for Metronidazole, Tetracycline hydrochloride, and Bismuth Subcitrate Potassium in Healthy Volunteers (N=18)
 
-|  |  | Cmax (ng/mL) (%C.V.C.V. – Coefficient Variation) | AUCT (ng ∙ h/mL) (%C.V.) | AUC∞ (ng ∙ h/mL) (%C.V.) |
+|  |  | Cmax (ng/mL) (%C.V.**) | AUCT (ng ∙ h/mL) (%C.V.**) | AUC∞(ng ∙ h/mL) (%C.V.**) |
 | --- | --- | --- | --- | --- |
 | Metronidazole | Metronidazole Capsule | 9044 (20) | 80289 (15) | 81849 (16) |
-|  | PYLERAPYLERA given as a single dose of 3 capsules | 8666.3 (22) | 83018 (17) | 84413 (17) |
+|  | PYLERA* | 8666.3 (22) | 83018 (17) | 84413 (17) |
 | Tetracycline | Tetracycline Capsules | 748.0 (40) | 9544 (55) | 9864 (53) |
-|  | PYLERA | 774 (47) | 9674 (50) | 9987 (49) |
+|  | PYLERA* | 774 (47) | 9674 (50) | 9987 (49) |
 | Bismuth | Bismuth Capsule | 22 (123) | 47 (129) | 65.4 (113) |
-|  | PYLERA | 17 (202) | 43 (191) | 57 (178) |
+|  | PYLERA* | 17 (202) | 43 (191) | 57 (178) |
+| *PYLERA given as a single dose of 3 capsules **C.V. – Coefficient Variation |  |  |  |  |
 
 Effect of Bismuth on the Bioavailability of Tetracycline Hydrochloride
 
@@ -86,14 +87,15 @@ Food reduced the systemic absorption of all three PYLERA components, with AUC va
 Reduction in the absorption of all three PYLERA components in the presence of food is not considered to be clinically significant.
 PYLERA should be given after meals and at bedtime, in combination with omeprazole twice a day.
 
-Table 4: Mean PYLERA Pharmacokinetic Parameters in Fasted and Fed States (N=18)PYLERA given as a single dose of 3 capsules
+Table 4: Mean PYLERA Pharmacokinetic Parameters in Fasted and Fed States (N=18)*
 
-|  | metronidazole | tetracycline | bismuth | metronidazole | tetracycline | bismuth |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | FED |  |  | FASTED |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | metronidazole | tetracycline | bismuth | metronidazole | tetracycline | bismuth |
 | Cmax (ng/mL) (%C.V.) | 6835.0 (13) | 515.8 (36) | 1.7 (61) | 8666.3 (22) | 773.8 (47) | 16.7 (202) |
-| Tmax (hours)Tmax is expressed as median (range) (range) | 3.0 (1.3 – 4.0) | 4.0 (2.5 – 5.0) | 3.5 (0.8 – 6.0) | 0.75 (0.5 – 3.5) | 3.3 (1.3 – 5.0) | 0.6 (0.5 – 1.7) |
+| Tmax (hours)** (range) | 3.0 (1.3 – 4.0) | 4.0 (2.5 – 5.0) | 3.5 (0.8 – 6.0) | 0.75 (0.5 – 3.5) | 3.3 (1.3 – 5.0) | 0.6 (0.5 – 1.7) |
 | AUC∞ (ng ∙ h/mL) (%C.V.) | 79225.6 (18) | 5840.1 (312) | 18.4 (116) | 84413.6 (17) | 9986.7 (49) | 56.5 (178) |
+| *PYLERA given as a single dose of 3 capsules **Tmax is expressed as median (range) |  |  |  |  |  |  |
 
 Effect of Omeprazole on the Bioavailability of Bismuth
 
@@ -104,13 +106,14 @@ One subject transiently achieved a maximum bismuth concentration (Cmax) higher t
 The patient did not exhibit symptoms of neurotoxicity during the study.
 There is no clinical evidence to suggest that short-term exposure to bismuth Cmax concentrations above 50 ng/mL is associated with neurotoxicity.
 
-Table 5: Mean Bismuth Pharmacokinetic Parameters following PYLERA AdministrationPYLERA given as 3 capsules four times daily for 6 days with or without 20 mg omeprazole twice daily With and Without Omeprazole (N=34)
+Table 5: Mean Bismuth Pharmacokinetic Parameters following PYLERA Administration* With and Without Omeprazole (N=34)
 
-|  | Mean | %C.V.C.V. – Coefficient Variation | Mean | %C.V. |
-| --- | --- | --- | --- | --- |
 | Parameter | Without omeprazole |  | With omeprazole |  |
+| --- | --- | --- | --- | --- |
+|  | Mean | %C.V.** | Mean | %C.V.** |
 | Cmax (ng/mL) | 8.1 | 84 | 25.5 | 69 |
 | AUCT (ng ∙ h/mL) | 48.5 | 28 | 140.9 | 42 |
+| *PYLERA given as 3 capsules four times daily for 6 days with or without 20 mg omeprazole twice daily **C.V. – Coefficient Variation |  |  |  |  |
 
 ## 12.4 Microbiology
 

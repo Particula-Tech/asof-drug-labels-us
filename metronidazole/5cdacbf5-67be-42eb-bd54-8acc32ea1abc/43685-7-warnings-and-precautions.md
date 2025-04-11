@@ -11,12 +11,12 @@ It is unknown whether metronidazole is associated with carcinogenicity in humans
 Tetracycline can cause fetal harm when administered to a pregnant woman.
 Based on animal data, use of drugs of the tetracycline class during the second and third trimester of pregnancy can cause permanent discoloration of the teeth (yellow-gray brown) and possibly inhibit bone development [see Warnings and Precautions (5.4)].
 Administration of oral tetracycline to pregnant rats at various doses resulted in yellow fluorescence in teeth and bones in the newborn animals.
-If PYLERA is used during pregnancy, or if the patient becomes pregnant while taking PYLERA, advise the patient of the potential risk to the fetus [see Contraindications (4.6) and Use in Specific Populations (8.1)].
+If PYLERA is used during pregnancy, or if the patient becomes pregnant while taking PYLERA, advise the patient of the potential risk to the fetus [see Contraindications (4.5) and Use in Specific Populations (8.1)].
 
 ## 5.3 Maternal Toxicity
 
 Tetracycline, a component of PYLERA, administered during pregnancy at high doses (> 2 g IV) was associated with rare but serious cases of maternal hepatotoxicity.
-This syndrome may result in stillborn or premature birth due to maternal pathology [see Contraindications (4.6) and Use in Specific Populations (8.1)].
+This syndrome may result in stillborn or premature birth due to maternal pathology [see Contraindications (4.5) and Use in Specific Populations (8.1)].
 
 ## 5.4 Tooth Enamel Discoloration and Hypoplasia
 
@@ -27,9 +27,12 @@ PYLERA, therefore, should not be used in this age group unless other drugs are n
 
 ## 5.5 Severe Cutaneous Adverse Reactions
 
-Severe cutaneous adverse reactions (SCARs) including toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of metronidazole.
+Metronidazole: Severe cutaneous adverse reactions (SCARs) including toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported with the use of metronidazole.
 Symptoms can be serious and potentially life threatening.
 If symptoms or signs of SCARs develop, discontinue PYLERA capsules immediately and institute appropriate therapy.
+
+Tetracycline: Fixed drug eruptions have occurred with tetracycline and have been associated with worsening severity upon subsequent administrations, including generalize bullous fixed drug eruption [see Adverse Reactions (6.3)].
+If severe skin reactions occur, discontinue PYLERA immediately, and institute appropriate therapy.
 
 ## 5.6 Central and Peripheral Nervous System Effects
 
@@ -107,7 +110,7 @@ Oral Contraceptives
 
 Concurrent use of PYLERA with oral contraceptive may make oral contraceptives less effective due to an interaction with the tetracycline component of PYLERA.
 Breakthrough bleeding has been reported.
-Advise women of child-bearing potential to use a different or additional form of contraception while taking PYLERA [see Drug Interactions (7.4)].
+Advise women of child-bearing potential to use a different or additional form of contraception while taking PYLERA [see Drug Interactions (7.3)].
 
 Anticoagulants
 
@@ -115,18 +118,18 @@ PYLERA may alter the anticoagulant effects of warfarin and other oral coumarin a
 Metronidazole has been reported to potentiate the anticoagulant effect of warfarin, and other oral coumarin anticoagulants, resulting in a prolongation of prothrombin time.
 Tetracycline has been shown to depress plasma prothrombin activity.
 Closely monitor prothrombin time, International Normalized Ratio (INR), or other suitable anticoagulation tests if PYLERA is administered concomitantly with warfarin.
-Patients should also be monitored for evidence of bleeding [see Drug Interactions (7.5)].
+Patients should also be monitored for evidence of bleeding [see Drug Interactions (7.4)].
 
 Lithium
 
 In patients stabilized on relatively high doses of lithium, short-term use of PYLERA may cause elevation of serum lithium concentrations and signs of lithium toxicity due to the interaction between metronidazole and lithium.
-Monitor serum lithium and serum creatinine concentrations daily for several days after beginning treatment with PYLERA to detect any increase that may precede clinical symptoms of lithium toxicity [see Drug Interactions (7.6)].
+Monitor serum lithium and serum creatinine concentrations daily for several days after beginning treatment with PYLERA to detect any increase that may precede clinical symptoms of lithium toxicity [see Drug Interactions (7.5)].
 
 Busulfan
 
 Metronidazole has been reported to increase plasma concentrations of busulfan, which can result in an increased risk for serious busulfan toxicity.
 Do not administer PYLERA concomitantly with busulfan unless the benefit outweighs the risk.
-If no therapeutic alternatives to PYLERA are available, and concomitant administration with busulfan is medically needed, monitor for busulfan toxicity and busulfan plasma concentrations and adjust the busulfan dose accordingly [see Drug Interactions (7.8)].
+If no therapeutic alternatives to PYLERA are available, and concomitant administration with busulfan is medically needed, monitor for busulfan toxicity and busulfan plasma concentrations and adjust the busulfan dose accordingly [see Drug Interactions (7.7)].
 
 Drugs that Prolong the QT interval
 

@@ -6,7 +6,7 @@ Advise the lactating women to pump and discard their milk during treatment with 
 
 Hypersensitivity
 
-Inform patients that PYLERA may cause allergic reactions and to discontinue PYLERA at the first sign of urticaria, erythematous rash, flushing, and fever or other symptoms of an allergic reaction [see Contraindications (4.7)].
+Inform patients that PYLERA may cause allergic reactions and to discontinue PYLERA at the first sign of urticaria, erythematous rash, flushing, and fever or other symptoms of an allergic reaction [see Contraindications (4.6)].
 
 Severe Cutaneous Adverse Reactions
 
@@ -16,18 +16,17 @@ Advise patients to stop PYLERA capsules immediately if they develop any type of 
 
 Central Nervous System Effects
 
-Inform patients of the risk of central and peripheral nervous system effects with PYLERA and to discontinue PYLERA and report immediately to their health-care provider if any neurologic symptoms occur [see Warnings and Precautions (5.5)].
+Inform patients of the risk of central and peripheral nervous system effects with PYLERA and to discontinue PYLERA and report immediately to their health-care provider if any neurologic symptoms occur [see Warnings and Precautions (5.6)].
 
 Photosensitivity
 
-Avoid exposure to sun or sun lamps while taking PYLERA [see Warnings and Precautions (5.7)].
+Avoid exposure to sun or sun lamps while taking PYLERA [see Warnings and Precautions (5.8)].
 
 Drug Interactions
 
 Advise patients to report to their health-care provider the use of any other medications while taking PYLERA.
 The administration of any of the following drugs with PYLERA may result in clinically significant adverse reactions or insufficient drug efficacies [see Contraindications (4) and Drug Interactions (7)]:
 
-- Methoxyflurane
 - Disulfiram
 - Alcoholic Beverages, or Products Containing Propylene Glycol
 - Oral Contraceptives
@@ -41,7 +40,7 @@ The administration of any of the following drugs with PYLERA may result in clini
 Darkening of the Tongue and/or Stool
 
 Inform patients that PYLERA may cause temporary and harmless darkening of the tongue and/or black stool generally reversible within several days after treatment is stopped.
-Stool darkening should not be confused with melena (blood in the stool) [see Warnings and Precautions (5.8)].
+Stool darkening should not be confused with melena (blood in the stool) [see Warnings and Precautions (5.9)].
 
 Dosing Information
 

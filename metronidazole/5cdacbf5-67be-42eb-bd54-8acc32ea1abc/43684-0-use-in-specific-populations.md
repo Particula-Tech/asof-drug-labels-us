@@ -91,15 +91,15 @@ Clinical studies of PYLERA did not include sufficient numbers of patients aged 6
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, elderly patients may have a greater frequency of decreased hepatic, renal, or cardiac function, and concomitant diseases or other drug therapies.
 Bismuth subcitrate potassium, a component of PYLERA, is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, additional monitoring may be required [see Contraindications (4.5)].
+Because elderly patients are more likely to have decreased renal function, additional monitoring may be required [see Contraindications (4.4)].
 
 ## 8.6 Renal Impairment
 
 The antianabolic action of the tetracyclines may cause an increase in blood urea nitrogen (BUN).
-In patients with severe renal impairment, higher serum concentrations of tetracycline may lead to azotemia, hyperphosphatemia, and acidosis [see Contraindications (4.5)].
+In patients with severe renal impairment, higher serum concentrations of tetracycline may lead to azotemia, hyperphosphatemia, and acidosis [see Contraindications (4.4)].
 
 ## 8.7 Hepatic Impairment
 
 Patients with severe hepatic disease metabolize metronidazole slowly, with resultant accumulation of metronidazole and its metabolites in plasma.
 Patients with mild to moderate hepatic impairment should be monitored for metronidazole associated adverse events.
-PYLERA is not recommended in patients with severe hepatic impairment [see Warnings and Precautions (5.10) and Clinical Pharmacology (12.3)].
+PYLERA is not recommended in patients with severe hepatic impairment [see Warnings and Precautions (5.11) and Clinical Pharmacology (12.3)].
