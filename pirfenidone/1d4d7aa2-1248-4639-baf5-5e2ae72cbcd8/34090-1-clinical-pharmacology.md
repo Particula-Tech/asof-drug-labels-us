@@ -34,7 +34,7 @@ The absolute bioavailability of pirfenidone has not been determined in humans.
 Distribution
 
 Pirfenidone binds to human plasma proteins, primarily to serum albumin, in a concentration-independent manner over the range of concentrations observed in clinical trials.
-The overall mean binding was 58% at concentrations observed in clinical studies (1 to 10 mcg/mL).
+The overall mean binding was 58% at concentrations observed in clinical studies (1 mcg/mL to 10 mcg/mL).
 Mean apparent oral volume of distribution is approximately 59 to 71 liters.
 
 Metabolism
@@ -63,7 +63,7 @@ The exposure of 5-carboxy-pirfenidone did not change significantly in subjects w
 
 Renal Impairment
 
-The pharmacokinetics of pirfenidone and the 5-carboxy-pirfenidone metabolite were studied in 18 subjects with mild (CLcr 50 to 80 mL/min), moderate (CLcr 30 to 50 mL/min), and severe (CLcr less than 30 mL/min) renal impairment (n=6/group) and in 6 subjects with normal CLcr (greater than or equal to 80 mL/min) renal function.
+The pharmacokinetics of pirfenidone and the 5-carboxy-pirfenidone metabolite were studied in 18 subjects with mild (CLcr 50 mL/min to 80 mL/min), moderate (CLcr 30 mL/min to 50 mL/min), and severe (CLcr less than 30 mL/min) renal impairment (n = 6/group) and in 6 subjects with normal CLcr (greater than or equal to 80 mL/min) renal function.
 Results showed that systemic exposure (AUC0-inf) to pirfenidone increased approximately 1.4, 1.5, and 1.2-fold in subjects with mild, moderate and severe renal impairment, respectively.
 The corresponding AUC0-inf of 5-carboxy-pirfenidone increased 1.7, 3.4, and 5.6-fold, although the change in the patients with mild renal impairment was not statistically significant.
 The renal clearance of 5-carboxy-pirfenidone decreased significantly in patients with moderate to severe renal impairment.
@@ -103,7 +103,7 @@ AUC0-inf and Cmax of pirfenidone in smokers were 46% and 68% of those in nonsmok
 
 Inhibitory Effect of Pirfenidone on P-glycoprotein (Pgp)
 
-The potential for pirfenidone to inhibit Pgp mediated transport of digoxin (5.0 μM) was evaluated in the absence and presence of pirfenidone at concentrations ranging from 1 to 1,000 μM in in vitro system.
+The potential for pirfenidone to inhibit Pgp mediated transport of digoxin (5.0 μM) was evaluated in the absence and presence of pirfenidone at concentrations ranging from 1 μM to 1,000 μM in in vitro system.
 Pirfenidone showed weak inhibition (10% to 30%) of Pgp facilitated digoxin B-A efflux at concentrations of 100 μM and above.
 Effect of pirfenidone upon Pgp substrate pharmacokinetics and safety has not been evaluated in humans.
 

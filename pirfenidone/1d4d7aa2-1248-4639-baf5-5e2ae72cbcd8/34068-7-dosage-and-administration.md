@@ -36,18 +36,18 @@ Dosage Modification due to Elevated Liver Enzymes
 Dosage modifications or interruptions may also be necessary when liver enzyme and bilirubin elevations are exhibited.
 For liver enzyme elevations, modify the dosage as follows:
 
-If a patient exhibits >3 but ≤5 × the upper limit of normal (ULN) ALT and/or AST without symptoms or hyperbilirubinemia after starting pirfenidone capsules therapy:
+If a patient exhibits > 3 but ≤ 5 × the upper limit of normal (ULN) ALT and/or AST without symptoms or hyperbilirubinemia after starting pirfenidone capsules therapy:
 
 - Discontinue confounding medications, exclude other causes, and monitor the patient closely.
 - Repeat liver chemistry tests as clinically indicated.
 - The full daily dosage may be maintained, if clinically appropriate, or reduced or interrupted (e.g., until liver chemistry tests are within normal limits) with subsequent re-titration to the full dosage as tolerated.
 
-If a patient exhibits >3 but ≤5 × ULN ALT and/or AST accompanied by symptoms or hyperbilirubinemia:
+If a patient exhibits > 3 but ≤ 5 × ULN ALT and/or AST accompanied by symptoms or hyperbilirubinemia:
 
 - Permanently discontinue pirfenidone capsules.
 - Do not rechallenge patient with pirfenidone capsules.
 
-If a patient exhibits >5 × ULN ALT and/or AST:
+If a patient exhibits > 5 × ULN ALT and/or AST:
 
 - Permanently discontinue pirfenidone capsules.
 - Do not rechallenge patient with pirfenidone capsules.
