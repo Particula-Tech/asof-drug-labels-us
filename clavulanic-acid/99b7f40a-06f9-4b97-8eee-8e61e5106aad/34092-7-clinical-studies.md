@@ -10,10 +10,9 @@ Clinical assessments were planned for all patients during treatment (4 to 6 days
 Bacteriological success was defined as the absence of the pretreatment pathogen from the on-therapy tympanocentesis specimen.
 Clinical success was defined as improvement or resolution of signs and symptoms.
 Clinical failure was defined as lack of improvement or worsening of signs and/or symptoms at any time following at least 72 hours of amoxicillin and clavulanate potassium for oral suspension; patients who received an additional systemic antibacterial drug for otitis media after 3 days of therapy were considered clinical failures.
-Bacteriological eradication on therapy (day 4 to 6 visit) in the per protocol population is summarized in the following table:
+Bacteriological eradication on therapy (day 4 to 6 visit) in the per protocol population is summarized in Table 5.
 
-- Table 3.
-  Bacteriologic Eradication Rates in the Per Protocol Population
+Table 5 Bacteriologic Eradication Rates in the Per Protocol Population
 
 | Pathogen | Bacteriologic Eradication on Therapy |  |  |
 | --- | --- | --- | --- |
@@ -27,9 +26,9 @@ Bacteriological eradication on therapy (day 4 to 6 visit) in the per protocol po
 Clinical assessments were made in the per protocol population 2 to 4 days post-therapy and 15 to 18 days post-therapy.
 Patients who responded to therapy 2 to 4 days post-therapy were followed for 15 to 18 days post-therapy to assess them for acute otitis media.
 Non-responders at 2 to 4 days post-therapy were considered failures at the latter timepoint.
+The clinical assessments in the per protocol population are presented in Table 6.
 
-1. Table 4.
-   Clinical Assessments in the Per Protocol Population (Includes S. pneumoniae Patients with Penicillin MICs equal to 2 or 4 mcg/mL*)
+Table 6 Clinical Assessments in the Per Protocol Population (Includes S. pneumoniae Patients with Penicillin MICs equal to 2 or 4 mcg/mL*)
 
 | Pathogen | 2 to 4 Days Post-Therapy (Primary Endpoint) |  |  |
 | --- | --- | --- | --- |

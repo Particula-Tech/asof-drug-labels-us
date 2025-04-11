@@ -14,7 +14,7 @@ If patients develop a skin rash, they should be monitored closely, and amoxicill
 
 ## 5.3 Drug-Induced Enterocolitis Syndrome (DIES)
 
-Drug-induced enterocolitis syndrome (DIES) has been reported with the use of amoxicillin, a component of amoxicillin and clavulanate potassium [see Adverse Reactions (6.2)], with most cases occurring in pediatric patients ≤18 years of age.
+Drug-induced enterocolitis syndrome (DIES) has been reported with use of amoxicillin, a component of amoxicillin and clavulanate potassium [see Adverse Reactions (6.2)], with most cases occurring in pediatric patients ≤18 years of age.
 DIES is a non-IgE mediated hypersensitivity reaction characterized by protracted vomiting occurring 1 to 4 hours after drug ingestion in the absence of skin or respiratory symptoms.
 DIES may be associated with pallor, lethargy, hypotension, shock, diarrhea within 24 hours after ingesting amoxicillin, and leukocytosis with neutrophilia.
 If DIES occurs, discontinue amoxicillin and clavulanate potassium for oral suspension and institute appropriate therapy.
@@ -42,7 +42,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibacte
 ## 5.6 Skin Rash in Patients with Mononucleosis
 
 A high percentage of patients with mononucleosis who receive amoxicillin develop an erythematous skin rash.
-Thus, amoxicillin and clavulanate potassium for oral suspension should not be administered to patients with mononucleosis.
+Avoid amoxicillin and clavulanate potassium for oral suspension use in patients with mononucleosis.
 
 ## 5.7 Potential for Microbial Overgrowth
 

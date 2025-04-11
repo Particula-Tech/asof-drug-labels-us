@@ -7,10 +7,9 @@ Amoxicillin and clavulanate potassium for oral suspension is an antibacterial dr
 ## 12.3 Pharmacokinetics
 
 The pharmacokinetics of amoxicillin and clavulanate were determined in a study of 19 pediatric patients, 8 months to 11 years, given amoxicillin and clavulanate potassium for oral suspension at an amoxicillin dose of 45 mg/kg q12h with a snack or meal.
-The mean plasma amoxicillin and clavulanate pharmacokinetic parameter values are listed in the following table.
+The mean plasma amoxicillin and clavulanate pharmacokinetic parameter values are listed in Table 3.
 
-1. Table 1.
-   Mean (±SD) Plasma Amoxicillin and Clavulanate Pharmacokinetic Parameter Values Following Administration of 45 mg/kg of Amoxicillin and Clavulanate Potassium for Oral Suspension Every 12 Hours to Pediatric Patients
+Table 3 Mean (±SD) Plasma Amoxicillin and Clavulanate Pharmacokinetic Parameter Values Following Administration of 45 mg/kg of Amoxicillin and Clavulanate Potassium for Oral Suspension Every 12 Hours to Pediatric Patients
 
 | Parameter | Amoxicillin | Clavulanate |
 | --- | --- | --- |
@@ -32,21 +31,28 @@ Neither component in amoxicillin and clavulanate potassium for oral suspension i
 
 Oral administration of a single dose of amoxicillin and clavulanate potassium for oral suspension at 45 mg/kg (based on the amoxicillin component) to pediatric patients, 9 months to 8 years, yielded the following pharmacokinetic data for amoxicillin in plasma and middle ear fluid (MEF):
 
-1. Table 2.
-   Amoxicillin Concentrations in Plasma and Middle Ear Fluid Following Administration of 45 mg/kg of Amoxicillin and Clavulanate Potassium for Oral Suspension to Pediatric Patients
+Table 4 Amoxicillin Concentrations in Plasma and Middle Ear Fluid Following Administration of 45 mg/kg of Amoxicillin and Clavulanate Potassium for Oral Suspension to Pediatric Patients
 
 | Timepoint |  | Amoxicillin concentration in plasma (mcg/mL) | Amoxicillin concentration in MEF (mcg/mL) |
 | --- | --- | --- | --- |
-| 1 hour | mean median range | 7.79.31.5 to 14(n equals 5) | 3.23.50.2 to 5.5(n equals 4) |
-| 2 hour | mean median range | 15.71311 to 25(n equals 7) | 3.32.41.9 to 6(n equals 5) |
-| 3 hour | mean median range | 13125.5 to 21(n equals 5) | 5.86.53.9 to 7.4(n equals 5) |
+| 1 hour | mean median range | 7.79.31.5 to 14(n = 5) | 3.23.50.2 to 5.5(n = 4) |
+| 2 hour | mean median range | 15.71311 to 25(n = 7) | 3.32.41.9 to 6(n = 5) |
+| 3 hour | mean median range | 13125.5 to 21(n = 5) | 5.86.53.9 to 7.4(n = 5) |
 
 Dose administered immediately prior to eating.
 
 Amoxicillin diffuses readily into most body tissues and fluids, with the exception of the brain and spinal fluid.
 The results of experiments involving the administration of clavulanic acid to animals suggest that this compound, like amoxicillin, is well distributed in body tissues.
 
+Drug Interaction Studies
+
+Clinical Studies
+
+Concurrent administration of probenecid delays amoxicillin excretion but does not delay renal excretion of clavulanic acid.
+
 ## 12.4 Microbiology
+
+Mechanism of Action
 
 Amoxicillin is a semisynthetic antibacterial with a broad spectrum of bactericidal activity against many gram-positive and gram-negative microorganisms.
 Amoxicillin is, however, susceptible to degradation by β-lactamases, and therefore, its spectrum of activity does not include organisms which produce these enzymes.
@@ -55,6 +61,8 @@ In particular, it has good activity against the clinically important plasmid-med
 
 The clavulanic acid component of amoxicillin and clavulanate potassium for oral suspension protects amoxicillin from degradation by β-lactamase enzymes and effectively extends the antibacterial spectrum of amoxicillin to include many bacteria normally resistant to amoxicillin and other β-lactam antibacterials.
 Thus, amoxicillin and clavulanate potassium for oral suspension possesses the distinctive properties of a broad spectrum antibacterial and a β-lactamase inhibitor.
+
+Antimicrobial Activity
 
 Amoxicillin/clavulanic acid has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
 
