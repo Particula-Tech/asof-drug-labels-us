@@ -2,9 +2,9 @@
 
 The efficacy of pirfenidone was evaluated in patients with IPF in three phase 3, randomized, double-blind, placebo-controlled, multicenter trials (Studies 1, 2, and 3).
 
-Study 1 was a 52-week trial comparing pirfenidone 2,403 mg/day (n=278) versus placebo (n=277) in patients with IPF.
+Study 1 was a 52-week trial comparing pirfenidone 2,403 mg/day (n = 278) versus placebo (n = 277) in patients with IPF.
 Study 2 and Study 3 were nearly identical to each other in design, with few exceptions, including an intermediate dose treatment arm in Study 2.
-Study 2 compared treatment with either pirfenidone 2,403 mg/day (n=174) or pirfenidone 1,197 mg/day (n=87) to placebo (n=174), while Study 3 compared pirfenidone 2,403 mg/day (n=171) to placebo (n=173).
+Study 2 compared treatment with either pirfenidone 2,403 mg/day (n = 174) or pirfenidone 1,197 mg/day (n = 87) to placebo (n = 174), while Study 3 compared pirfenidone 2,403 mg/day (n = 171) to placebo (n = 173).
 Study drug was administered three times daily with food for a minimum of 72 weeks.
 Patients continued on treatment until the last patient completed 72 weeks of treatment, which included observations to approximately 120 weeks of study treatment.
 The primary endpoint was the change in percent predicted forced vital capacity (%FVC) from baseline to study end, measured at 52 weeks in Study 1, and at 72 weeks in Studies 2 and 3.
@@ -13,7 +13,7 @@ Studies 1, 2 and 3 enrolled adult patients who had a clinical and radiographic d
 Eligible patients were to have %FVC greater than or equal to 50% at baseline and a percent predicted diffusing capacity of the lungs for carbon monoxide (%DLCO) greater than or equal to 30% (Study 1) or 35% (Studies 2 and 3) at baseline.
 In all three trials, over 80% of patients completed study treatment.
 
-A total of 1,247 patients with IPF were randomized to receive pirfenidone 2,403 mg/day (n=623) or placebo (n=624) in these three trials.
+A total of 1,247 patients with IPF were randomized to receive pirfenidone 2,403 mg/day (n = 623) or placebo (n = 624) in these three trials.
 Baseline characteristics were generally balanced across treatment groups.
 The study population ranged from 40 to 80 years of age (mean age 67 years).
 Most patients were male (74%), white (95%), and current or former smokers (65%).
@@ -23,7 +23,7 @@ Approximately 15% subjects discontinued from each treatment group.
 
 Change from Baseline in Percent Predicted Forced Vital Capacity
 
-In Study 1, the primary efficacy analysis for the change in %FVC from baseline to Week 52 demonstrated a statistically significant treatment effect of pirfenidone 2,403 mg/day (n=278) compared with placebo (n=277) using a rank ANCOVA with the lowest rank imputation for missing data due to death.
+In Study 1, the primary efficacy analysis for the change in %FVC from baseline to Week 52 demonstrated a statistically significant treatment effect of pirfenidone 2,403 mg/day (n = 278) compared with placebo (n = 277) using a rank ANCOVA with the lowest rank imputation for missing data due to death.
 In Study 2, there was a statistically significant difference at Week 72 for the change in %FVC from baseline.
 In Study 3, there was no statistically significant difference at Week 72 for the change in %FVC from baseline.
 

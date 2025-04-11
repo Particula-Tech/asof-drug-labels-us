@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Pirfenidone Tablets, 267 mg are supplied as yellow colored, oval, biconvex, film-coated tablets debossed with “AC69” on one side and plain on the other side.
+Pirfenidone Tablets USP, 267 mg are supplied as yellow colored, oval, biconvex, film-coated tablets debossed with “AC69” on one side and plain on the other side.
 
 They are available as follows:
 
@@ -8,7 +8,7 @@ Bottles of 90: NDC 60219-1640-9
 
 Carton of 270 (3 bottles of 90 tablets each): NDC 60219-1640-8
 
-Pirfenidone Tablets, 801 mg are supplied as brown colored, oval, biconvex, film-coated tablets debossed with “AC70” on one side and plain on the other side.
+Pirfenidone Tablets USP, 801 mg are supplied as brown colored, oval, biconvex, film-coated tablets debossed with “AC70” on one side and plain on the other side.
 
 They are available as follows:
 
