@@ -54,7 +54,7 @@ Additionally, patients with advanced liver disease and/or coagulopathy are at in
 Complicated and symptomatic ulcer rates were 0.78% at nine months for all patients in the CLASS trial, and 2.19% for the subgroup on low-dose ASA.
 Patients 65 years of age and older had an incidence of 1.40% at nine months, 3.06% when also taking ASA [see Clinical Studies (14.7)].
 
-Strategies to Minimize the GI Risks in NSAID-treated patients:
+Strategies to Minimize the GI Risks in NSAID-treated Patients:
 
 - Use the lowest effective dosage for the shortest possible duration.
 - Avoid administration of more than one NSAID at a time.
@@ -120,7 +120,7 @@ If celecoxib capsules are used in patients with advanced renal disease, monitor 
 Hyperkalemia
 
 Increases in serum potassium concentration, including hyperkalemia, have been reported with use of NSAIDs, even in some patients without renal impairment.
-In patients with normal renal function, these effects have been attributed to a hyporeninemic- hypoaldosteronism state.
+In patients with normal renal function, these effects have been attributed to a hyporeninemic-hypoaldosteronism state.
 
 ## 5.7 Anaphylactic Reactions
 
@@ -137,7 +137,7 @@ When celecoxib capsules are used in patients with preexisting asthma (without kn
 
 ## 5.9 Serious Skin Reactions
 
-Serious skin reactions have occurred following treatment with celecoxib, including erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP).
+Serious skin reactions have occurred following treatment with celecoxib, including erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and fixed drug eruption (FDE) which may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE).
 These serious events may occur without warning and can be fatal.
 
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of celecoxib capsules at the first appearance of skin rash or any other sign of hypersensitivity.
@@ -174,7 +174,7 @@ If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, l
 Consider ultrasound monitoring of amniotic fluid if celecoxib treatment extends beyond 48 hours.
 Discontinue celecoxib if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
 
-## 5.12 Hematological Toxicity
+## 5.12 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.

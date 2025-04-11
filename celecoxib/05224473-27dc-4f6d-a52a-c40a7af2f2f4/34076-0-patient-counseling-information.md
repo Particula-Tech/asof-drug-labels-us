@@ -14,7 +14,7 @@ In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, i
 
 Hepatotoxicity
 
-Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
+Inform patients of the warning signs and symptoms of hepatotoxicity (e.g., nausea, fatigue, lethargy, pruritus, diarrhea, jaundice, right upper quadrant tenderness, and “flu-like” symptoms).
 If these occur, instruct patients to stop celecoxib capsules and seek immediate medical therapy [see Warnings and Precautions (5.3), Use in Specific Populations (8.6)].
 
 Heart Failure and Edema
@@ -26,7 +26,7 @@ Anaphylactic Reactions
 Inform patients of the signs of an anaphylactic reaction (e.g., difficulty breathing, swelling of the face or throat).
 Instruct patients to seek immediate emergency help if these occur [see Contraindications (4) and Warnings and Precautions (5.7)].
 
-Serious Skin Reactions, including DRESS
+Serious Skin Reactions, Including DRESS
 
 Advise patients to stop taking celecoxib capsules immediately if they develop any type of rash or fever and to contact their healthcare provider as soon as possible [see Warnings and Precautions (5.9, 5.10)].
 
@@ -55,4 +55,4 @@ Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-D 1/2022
+E 4/2025

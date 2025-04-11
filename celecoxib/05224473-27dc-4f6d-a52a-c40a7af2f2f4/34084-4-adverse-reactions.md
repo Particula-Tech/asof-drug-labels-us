@@ -81,7 +81,7 @@ Metabolic and nutritional: blood urea nitrogen (BUN) increased, creatine phospho
 
 Musculoskeletal: Arthralgia, arthrosis, myalgia, synovitis, tendinitis
 
-Platelets (bleeding or clotting): Ecchymosis, epistaxis, thrombocythemia,
+Platelets (bleeding or clotting): Ecchymosis, epistaxis, thrombocythemia
 
 Psychiatric: Anorexia, anxiety, appetite increased, depression, nervousness, somnolence
 
@@ -175,7 +175,7 @@ The only additional adverse event reported was post-dental extraction alveolar o
 
 The APC and PreSAP Trials
 
-Adverse reactions from long-term, placebo-controlled polyp prevention studies: Exposure to celecoxib in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Clinical Studies (14.7)].
+Adverse Reactions from Long-term, Placebo-controlled Polyp Prevention Studies: Exposure to celecoxib in the APC and PreSAP trials was 400 mg to 800 mg daily for up to 3 years [see Clinical Studies (14.7)].
 
 Some adverse reactions occurred in higher percentages of patients than in the arthritis pre-marketing trials (treatment durations up to 12 weeks; see Adverse events from celecoxib pre-marketing controlled arthritis trials, above).
 The adverse reactions for which these differences in patients treated with celecoxib were greater as compared to the arthritis pre-marketing trials were as follows:
@@ -228,3 +228,5 @@ Metabolic: Hypoglycemia, hyponatremia
 Nervous: Aseptic meningitis, ageusia, anosmia, fatal intracranial hemorrhage
 
 Renal: Interstitial nephritis
+
+Skin and Appendages: Erythema multiforme, exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and fixed drug eruption (FDE)
