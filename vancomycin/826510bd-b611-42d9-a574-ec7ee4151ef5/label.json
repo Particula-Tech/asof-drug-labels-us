@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA065401"
+  ],
+  "inn": "vancomycin",
+  "labeler": "Medimetriks Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "43538-805-01",
+    "43538-805-10",
+    "43538-810-01",
+    "43538-810-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "vancomycin hydrochloride",
+      "name": "Vancomycin Hydrochloride"
+    }
+  ],
+  "setid": "826510bd-b611-42d9-a574-ec7ee4151ef5",
+  "source": "dailymed"
+}
