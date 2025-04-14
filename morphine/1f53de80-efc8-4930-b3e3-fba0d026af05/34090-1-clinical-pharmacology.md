@@ -31,17 +31,15 @@ Morphine may also cause spasm of the sphincter of the urinary bladder.
 
 Effects on the Cardiovascular System
 
-In therapeutic doses, morphine does not usually exert major effects on the cardiovascular system.
-Morphine produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
-Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes sweating and/or orthostatic hypotension.
+Morphine produces peripheral vasodilation which may result in orthostatic hypotension or syncope.
+Manifestations of histamine release and/or peripheral vasodilation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 
 Effects on the Endocrine System
 
-Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans.
-[see Adverse Reactions (6)].
+Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormones (LH) in humans [see Adverse Reactions (6)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6)].
 
 Effects on the Immune System
@@ -52,9 +50,8 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration–Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent agonist opioids.
-The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance.
-[see Dosage and Administration (2.1, 2.3)]
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
+The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 
 Onset of analgesia occurs with 5-20 minutes following intramuscular administration of morphine, rising to peak analgesia sixty minutes after a single intramuscular injection.
 The duration of analgesia after a single injection is usually three to four hours.
@@ -62,7 +59,7 @@ The duration of analgesia after a single injection is usually three to four hour
 Concentration–Adverse Reaction Relationships
 
 There is a relationship between increasing morphine plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3)].
 
 ## 12.3 Pharmacokinetics
 
@@ -80,7 +77,7 @@ The accepted elimination half-life in normal subjects is 1.5 to 2 hours.
 
 Metabolism
 
-The major pathway of clearance is hepatic glucuronidation to morphine -3-glucuronide, which is pharmacologically inactive.
+The major pathway of clearance is hepatic glucuronidation to morphine-3-glucuronide, which is pharmacologically inactive.
 
 Excretion
 
@@ -92,7 +89,7 @@ Specific Populations
 Sex
 
 While evidence of greater post-operative Morphine Sulfate Injection consumption in men compared to women is present in the literature, clinically significant differences in analgesic outcomes and pharmacokinetic parameters have not been consistently demonstrated.
-Some studies have shown an increased sensitivity to the adverse effects of Morphine Sulfate Injection USP, including respiratory depression, in women compared to men.
+Some studies have shown an increased sensitivity to the adverse effects of Morphine Sulfate Injection, including respiratory depression, in women compared to men.
 
 Hepatic Impairment
 
