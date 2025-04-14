@@ -1,7 +1,7 @@
 # DESCRIPTION
 
-Amitriptyline HCl is 3-(10,11-dihydro-5H-dibenzo [a,d] cycloheptene-5-ylidene)-N,N-dimethyl-1-propanamine hydrochloride.
-Its molecular formula is C20H23N ∙ HCl and its structural formula is:
+Amitriptyline HCl is 3-(10,11-dihydro-5 H-dibenzo [a,d] cycloheptene-5-ylidene)- N,N-dimethyl-1-propanamine hydrochloride.
+Its molecular formula is C 20H 23N ∙ HCl and its structural formula is:
 
 Amitriptyline HCl, a dibenzocycloheptadiene derivative, has a molecular weight of 313.87.
 It is a white, odorless, crystalline compound which is freely soluble in water.

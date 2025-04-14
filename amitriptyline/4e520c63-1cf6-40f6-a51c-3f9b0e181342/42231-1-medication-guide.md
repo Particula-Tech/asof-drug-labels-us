@@ -9,53 +9,64 @@ This Medication Guide is only about the risk of suicidal thoughts and actions wi
 
 Talk to your, or your family member's, healthcare provider about:
 
-- •all risks and benefits of treatment with antidepressant medicines
-- •all treatment choices for depression or other serious mental illness
+- all risks and benefits of treatment with antidepressant medicines
+- all treatment choices for depression or other serious mental illness
 
 What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
 
-1. 1.Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-2. 2.Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-   Some people may have a particularly high risk of having suicidal thoughts or actions.
-   These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-3. 3.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-   1. 1.Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
+1. Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
+2. Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
+   Some people may have a particularly high risk of having suicidal thoughts or actions.These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+3. How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
+   1. Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
       This is very important when an antidepressant medicine is started or when the dose is changed.
-   2. 2.Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-   3. 3.Keep all follow-up visits with the healthcare provider as scheduled.
+   2. Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
+   3. Keep all follow-up visits with the healthcare provider as scheduled.
       Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
 4. Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
-   1. 4.thoughts about suicide or dying
-   2. 5.attempts to commit suicide
-   3. 6.new or worse depression
-   4. 7.new or worse anxiety
-   5. 8.feeling very agitated or restless
-   6. 9.panic attacks
-   7. 10.trouble sleeping (insomnia)
-   8. 11.new or worse irritability
-   9. 12.acting aggressive, being angry, or violent
-   10. 13.acting on dangerous impulses
-   11. 14.an extreme increase in activity and talking (mania)
-   12. 15.other unusual changes in behavior or mood
-   13. 16.Visual problems: eye pain, changes in vision, swelling or redness in or around the eye
+   - thoughts about suicide or dying
+   - attempts to commit suicide
+   - new or worse depression
+   - new or worse anxiety
+   - feeling very agitated or restless
+   - panic attacks
+   - trouble sleeping (insomnia)
+   - new or worse irritability
+   - acting aggressive, being angry, or violent
+   - acting on dangerous impulses
+   - an extreme increase in activity and talking (mania)
+   - other unusual changes in behavior or mood
+
+Low salt (sodium) levels in the blood.
+Elderly people may be at greater risk for this.
+Symptoms may include:
+
+- headache
+- weakness or feeling unsteady
+- confusion, problems concentrating or thinking or memory problems
+- Visual problems: eye pain, changes in vision, swelling or redness in or around the eye
+- Serotonin Syndrome.
+  This condition can be life-threatening and symptoms may include:
+- agitation, hallucinations, coma, or other changes in mental status
+- racing heartbeat, high or low blood pressure
+- coordination problems or muscle twitching (overactive reflexes)
+- nausea, vomiting, or diarrhea
+- sweating or fever
+- muscle rigidity
 
 What else do I need to know about antidepressant medicines?
 
-- •Never stop an antidepressant medicine without first talking to a healthcare provider.
-  Stopping an antidepressant medicine suddenly can cause other symptoms.
-- •Visual problems: Only some people are at risk for these problems.
+- Never stop an antidepressant medicine without first talking to a healthcare provider.Stopping an antidepressant medicine suddenly can cause other symptoms.
+- Visual problems:Only some people are at risk for these problems.
   You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-- •Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+- Antidepressants are medicines used to treat depression and other illnesses.It is important to discuss all the risks of treating depression and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-- •Antidepressant medicines have other side effects.
-  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
-- •Antidepressant medicines can interact with other medicines.
-  Know all of the medicines that you or your family member takes.
+- Antidepressant medicines have other side effects.Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
+- Antidepressant medicines can interact with other medicines.Know all of the medicines that you or your family member takes.
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
-- •Not all antidepressant medicines prescribed for children are FDA approved for use in children.
-  Talk to your child's healthcare provider for more information.
+- Not all antidepressant medicines prescribed for children are FDA approved for use in children.Talk to your child's healthcare provider for more information.
+- Tell your healthcare provider if have low sodium levels in your blood during treatment with amitriptyline hydrochloride.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -63,3 +74,5 @@ You may report side effects to FDA at 1-800-FDA-1088.
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
 Distributed by: Sun Pharmaceutical Industries, Inc. Cranbury, NJ 08512
+
+Rev: 05, March 2025

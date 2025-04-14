@@ -40,8 +40,22 @@ Although a causal link between the emergence of such symptoms and either the wor
 Consideration should be given to changing the therapeutic regimen, including possibly discontinuing the medication, in patients whose depression is persistently worse, or who are experiencing emergent suicidality or symptoms that might be precursors to worsening depression or suicidality, especially if these symptoms are severe, abrupt in onset, or were not part of the patient's presenting symptoms.
 
 Families and caregivers of patients being treated with antidepressants for major depressive disorder or other indications, both psychiatric and nonpsychiatric, should be alerted about the need to monitor patients for the emergence of agitation, irritability, unusual changes in behavior, and the other symptoms described above, as well as the emergence of suicidality, and to report such symptoms immediately to health care providers.
-Such monitoring should include daily observation by families and caregivers.
-Prescriptions for amitriptyline hydrochloride tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+Such monitoring should include daily observation by families and caregivers.Prescriptions for amitriptyline hydrochloride tablets should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
+
+## Serotonin Syndrome
+
+The development of a potentially life-threatening serotonin syndrome has been reported with tricyclic antidepressants, including amitriptyline hydrochloride, alone but particularly with concomitant use of other serotonergic drugs (including triptans, tricyclic antidepressants, SSRI/SNRI, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John’s Wort) and with drugs that impair metabolism of serotonin (in particular, MAOIs, both those intended to treat psychiatric disorders and also others, such as linezolid and intravenous methylene blue).
+Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular changes (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+Patients should be monitored for the emergence of serotonin syndrome.
+
+The concomitant use of amitriptyline hydrochloride with MAOIs intended to treat psychiatric disorders is contraindicated.
+Amitriptyline hydrochloride should also not be started in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue.
+All reports with methylene blue that provided information on the route of administration involved intravenous administration in the dose range of 1 mg/kg to 8 mg/kg.
+No reports involved the administration of methylene blue by other routes (such as oral tablets or local tissue injection) or at lower doses.
+There may be circumstances when it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking amitriptyline hydrochloride.
+Amitriptyline hydrochloride should be discontinued before initiating treatment with the MAOI (see CONTRAINDICATIONSand DOSAGE AND ADMINISTRATION).
+If concomitant use of amitriptyline hydrochloride with other serotonergic drugs, including triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, buspirone, tryptophan, and St. John’s Wort is clinically warranted, patients should be made aware of a potential increased risk for serotonin syndrome, particularly during treatment initiation and dose increases.
+Treatment with amitriptyline hydrochloride and any concomitant serotonergic agents should be discontinued immediately if the above events occur and supportive symptomatic treatment should be initiated.
 
 ## Screening Patients for Bipolar Disorder
 
@@ -66,15 +80,22 @@ Amitriptyline hydrochloride may enhance the response to alcohol and the effects 
 In patients who may use alcohol excessively, it should be borne in mind that the potentiation may increase the danger inherent in any suicide attempt or overdosage.
 Delirium has been reported with concurrent administration of amitriptyline and disulfiram.
 
+## Hyponatremia
+
+Hyponatremia has occurred as a result of treatment with amitriptyline hydrochloride.
+In many cases, hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
+Signs and symptoms associated with more severe and/or acute cases have included syncope, seizure, coma, respiratory arrest, and death.
+In patients with symptomatic hyponatremia, discontinue amitriptyline hydrochloride and institute appropriate medical intervention.
+Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia with amitriptyline hydrochloride.
+
 ## Angle-Closure Glaucoma
 
 The pupillary dilation that occurs following use of many antidepressant drugs including amitriptyline hydrochloride may trigger an angle-closure attack in a patient with anatomically narrow angles who does not have a patent iridectomy.
 
 ## Usage in Pregnancy
 
-Pregnancy Category C
-
-Teratogenic effects were not observed in mice, rats, or rabbits when amitriptyline was given orally at doses of 2 to 40 mg/kg/day (up to 13 times the maximum recommended human doseBased on a maximum recommended amitriptyline dose of 150 mg/day or 3 mg/kg/day for a 50 kg patient.).
+Teratogenic effects were not observed in mice, rats, or rabbits when amitriptyline was given orally at doses of 2 to 40 mg/kg/day (up to 13 times the maximum recommended human dose Based on a maximum recommended amitriptyline dose of 150 mg/day or 3 mg/kg/day for a 50 kg patient.).
 Studies in literature have shown amitriptyline to be teratogenic in mice and hamsters when given by various routes of administration at doses of 28 to 100 mg/kg/day (9 to 33 times the maximum recommended human dose), producing multiple malformations.
 Another study in the rat reported that an oral dose of 25 mg/kg/day (8 times the maximum recommended human dose) produced delays in ossification of fetal vertebral bodies without other signs of embryotoxicity.
 In rabbits, an oral dose of 60 mg/kg/day (20 times the maximum recommended human dose) was reported to cause incomplete ossification of the cranial bones.
@@ -173,8 +194,8 @@ Concomitant use of tricyclic antidepressants with drugs that can inhibit cytochr
 Furthermore, whenever one of these other drugs is withdrawn from co-therapy, an increased dose of tricyclic antidepressant may be required.
 It is desirable to monitor TCA plasma levels whenever a TCA is going to be coadministered with another drug known to be an inhibitor of P450 2D6.
 
-Monoamine oxidase inhibitors – see CONTRAINDICATIONS section.
-Guanethidine or similarly acting compounds; thyroid medication; alcohol, barbiturates and other CNS depressants; and disulfiram – see WARNINGS section.
+Monoamine oxidase inhibitors – see CONTRAINDICATIONSsection.
+Guanethidine or similarly acting compounds; thyroid medication; alcohol, barbiturates and other CNS depressants; and disulfiram – see WARNINGSsection.
 
 When amitriptyline is given with anticholinergic agents or sympathomimetic drugs, including epinephrine combined with local anesthetics, close supervision and careful adjustment of dosages are required.
 
@@ -203,5 +224,5 @@ Elderly patients should be started on low doses of amitriptyline hydrochloride a
 
 ## Pediatric Use
 
-Safety and effectiveness in the pediatric population have not been established (see BOX WARNING and WARNINGS: Clinical Worsening and Suicide Risk).
+Safety and effectiveness in the pediatric population have not been established (see BOX WARNINGand WARNINGS: Clinical Worsening and Suicide Risk).
 Anyone considering the use of amitriptyline in a child or adolescent must balance the potential risks with the clinical need.
