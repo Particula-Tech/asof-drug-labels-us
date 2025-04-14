@@ -5,10 +5,12 @@ However, a one month topical ocular study using immature Beagle dogs did not dem
 
 Manufactured by
 
-SA Alcon-Couvreur NV
+Novartis Manufacturing NV
 
-Puurs, Belgium for
+Puurs-Sint-Amands, Belgium for
 
 Sandoz Inc., Princeton, NJ 08540
 
-Rev: December 2023
+Rev: 07/2024
+
+9103380 US

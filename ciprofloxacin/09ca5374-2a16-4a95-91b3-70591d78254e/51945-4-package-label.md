@@ -1,11 +1,16 @@
 # PRINCIPAL DISPLAY PANEL
 
-Rx Only NDC 66758-071-38
+NDC 66758-071-38 Rx Only
 
 Ciloxan®
 
-(ciprofloxacin ophthalmic ointment) 0.3%
+(ciprofloxacin
 
-Sterile 3.5 g Net Wt.
+ophthalmic ointment)
+
+0.3%
+
+Net Wt.
+3.5 g Sterile
 
 SANDOZ

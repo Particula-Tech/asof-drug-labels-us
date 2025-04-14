@@ -1,8 +1,8 @@
 # WARNINGS:
 
-FOR TOPICAL OPHTHALMIC USE ONLY.
+FOR EYE USE ONLY
 
-NOT FOR INJECTION INTO THE EYE.
+NOT FOR INJECTION INTO THE EYE
 
 1. Serious and occasionally fatal hypersensitivity (anaphylactic) reactions, some following the first dose, have been reported in patients receiving systemic quinolone therapy.
    Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching.
