@@ -19,5 +19,4 @@ The recommended dose of OPSYNVI is one 10 mg/40 mg tablet taken orally once dail
 
 ## 2.2 Pregnancy Testing in Females of Reproductive Potential
 
-Obtain a pregnancy test in females of reproductive potential prior to OPSYNVI treatment, monthly during treatment and one month after stopping OPSYNVI.
-Initiate treatment with OPSYNVI in females of reproductive potential only after a negative pregnancy test [see Contraindications (4.1), Warnings and Precautions (5.1), and Use in Specific Populations (8.3)].
+Exclude pregnancy before initiating treatment with OPSYNVI in females of reproductive potential [see Boxed Warning, Contraindications (4.1), Warnings and Precautions (5.1), and Use in Specific Populations (8.3)].

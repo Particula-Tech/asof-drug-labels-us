@@ -19,7 +19,7 @@ PAH is associated with impaired release of nitric oxide by the vascular endothel
 PDE5 is the predominant phosphodiesterase in the pulmonary vasculature.
 Inhibition of PDE5 by tadalafil increases the concentrations of cGMP resulting in relaxation of pulmonary vascular smooth muscle cells and vasodilation of the pulmonary vascular bed.
 
-Studies in vitro have shown that tadalafil is a selective inhibitor of PDE5.
+Studies in vitrohave shown that tadalafil is a selective inhibitor of PDE5.
 PDE5 is an enzyme found in corpus cavernosum, vascular smooth muscle, visceral smooth muscle, skeletal muscle, platelets, kidney, lung, and cerebellum.
 The effect of tadalafil is more potent on PDE5 than on other phosphodiesterases.
 Tadalafil is > 10,000-fold more potent for PDE5 than for PDE1, PDE2, PDE4 and PDE7, enzymes which are found in the heart, brain, blood vessels, liver, and other organs.
@@ -130,7 +130,7 @@ Tadalafil is predominantly metabolized by CYP3A to a catechol metabolite.
 The catechol metabolite undergoes extensive methylation and glucuronidation to form the methylcatechol and methylcatechol glucuronide conjugate, respectively.
 The major circulating metabolite is the methylcatechol glucuronide.
 Methylcatechol concentrations are less than 10% of glucuronide concentrations.
-In vitro data suggests that metabolites are not expected to be pharmacologically active at observed metabolite concentrations.
+In vitrodata suggests that metabolites are not expected to be pharmacologically active at observed metabolite concentrations.
 
 Elimination
 
@@ -269,4 +269,4 @@ Exposure changes of drugs following co-administration with tadalafil are shown i
 
 Figure 1: Impact of Tadalafil on the Pharmacokinetics of Other Drugs
 
-a A small augmentation (increase of 3 beats per minute) in heart rate was observed with theophylline. b Tadalafil (40 mg qd) had no clinically significant effect on exposure (AUC and C) of bosentan metabolites. c 95% CI
+aA small augmentation (increase of 3 beats per minute) in heart rate was observed with theophylline. bTadalafil (40 mg qd) had no clinically significant effect on exposure (AUC and C) of bosentan metabolites. c95% CI

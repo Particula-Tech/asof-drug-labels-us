@@ -4,13 +4,13 @@ Clinically significant adverse reactions that appear in other sections of the la
 
 - Hypersensitivity [see Contraindications (4.2)]
 - Embryo-fetal Toxicity [see Warnings and Precautions (5.1)]
-- Hepatotoxicity [see Warnings and Precautions (5.3)]
-- Hypotension [see Warnings and Precautions (5.4)]
-- Decrease in Hemoglobin [see Warnings and Precautions (5.5)]
-- Visual Loss [see Warnings and Precautions (5.7) and Patient Counseling Information (17)]
-- Hearing loss [see Warnings and Precautions (5.8)]
-- Fluid Retention [see Warnings and Precautions (5.9)]
-- Prolonged Erection [see Warnings and Precautions (5.12)]
+- Hepatotoxicity [see Warnings and Precautions (5.2)]
+- Hypotension [see Warnings and Precautions (5.3)]
+- Decrease in Hemoglobin [see Warnings and Precautions (5.4)]
+- Visual Loss [see Warnings and Precautions (5.6)and Patient Counseling Information (17)]
+- Hearing loss [see Warnings and Precautions (5.7)]
+- Fluid Retention [see Warnings and Precautions (5.8)]
+- Prolonged Erection [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 

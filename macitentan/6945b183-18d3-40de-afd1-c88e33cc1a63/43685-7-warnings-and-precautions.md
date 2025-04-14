@@ -2,27 +2,14 @@
 
 ## 5.1 Embryo-fetal Toxicity
 
-OPSYNVI may cause fetal harm when administered during pregnancy and is contraindicated for use in females who are pregnant.
-In females of reproductive potential, exclude pregnancy prior to initiation of therapy, ensure use of acceptable contraceptive methods and obtain monthly pregnancy tests [see Dosage and Administration (2.2) and Use in Specific Populations (8.1, 8.3)].
+Based on data from animal reproduction studies, OPSYNVI may cause fetal harm when administered to a pregnant patient and is contraindicated during pregnancy.
+The available human data for ERAs do not establish the presence or absence of major birth defects related to the use of OPSYNVI.
+Advise patients who can become pregnant of the potential risk to a fetus.
+Obtain a pregnancy test prior to initiation of therapy with OPSYNVI.
+Advise patients who can become pregnant to use effective contraceptive methods prior to initiation of treatment, during treatment, and for one month after discontinuation of treatment with OPSYNVI.
+When pregnancy is detected, discontinue use as soon as possible [see Dosage and Administration (2.2), Contraindications (4.1), and Use in Specific Populations (8.1, 8.3)].
 
-OPSYNVI is available for females through the Macitentan-Containing Products REMS, a restricted distribution program [see Warnings and Precautions (5.2)].
-
-## 5.2 Macitentan-Containing Products REMS
-
-For all females, OPSYNVI is available only through a restricted program called the Macitentan-Containing Products REMS, because of the risk of embryo-fetal toxicity [see Contraindications (4.1), Warnings and Precautions (5.1), and Use in Specific Populations (8.1, 8.3)].
-
-Notable requirements of the Macitentan-Containing Products REMS include the following:
-
-- Prescribers must be certified with the Macitentan-Containing Products REMS by enrolling and completing training.
-- All females, regardless of reproductive potential, must enroll in the Macitentan-Containing Products REMS prior to initiating OPSYNVI.
-  Male patients are not enrolled in the REMS.
-- Females of reproductive potential must comply with the pregnancy testing and contraception requirements [see Use in Specific Populations (8.3)].
-- Pharmacies must be certified with the Macitentan-Containing Products REMS and must only dispense to patients who are authorized to receive OPSYNVI.
-
-Further information is available at www.MacitentanREMS.com or 1-888-572-2934.
-Information on Macitentan-Containing Products REMS certified pharmacies or wholesale distributors is available at 1-888-572-2934.
-
-## 5.3 Hepatotoxicity
+## 5.2 Hepatotoxicity
 
 ERAs have caused elevations of aminotransferases, hepatotoxicity, and liver failure.
 
@@ -57,13 +44,13 @@ Consider re-initiation of OPSYNVI when hepatic enzyme levels normalize in patien
 Do not initiate OPSYNVI in patients with elevated aminotransferases (> 3 × upper limit of normal [ULN]) at baseline.
 Patients with severe hepatic cirrhosis (Child-Pugh Class C) have not been studied, and, therefore, avoid use of OPSYNVI.
 
-## 5.4 Hypotension
+## 5.3 Hypotension
 
 OPSYNVI tablets have vasodilatory properties that may result in transient decreases in blood pressure.
 Prior to prescribing OPSYNVI tablets, carefully consider whether patients with underlying cardiovascular disease could be affected adversely by such vasodilatory effects.
 Patients with pre-existing hypotension, with autonomic dysfunction, with left ventricular outflow obstruction, may be particularly sensitive to the actions of vasodilators [see Clinical Pharmacology (12.2)].
 
-## 5.5 Hemoglobin Decrease
+## 5.4 Hemoglobin Decrease
 
 Decreases in hemoglobin concentration and hematocrit have occurred following administration of other ERAs and were observed in clinical studies with OPSYNVI and OPSUMIT.
 These decreases occurred early and stabilized thereafter.
@@ -76,14 +63,14 @@ Decreases in hemoglobin seldom require transfusion.
 Initiation of OPSYNVI is not recommended in patients with severe anemia.
 Measure hemoglobin prior to initiation of treatment and repeat during treatment as clinically indicated [see Adverse Reactions (6.1)].
 
-## 5.6 Worsening Pulmonary Veno-Occlusive Disease (PVOD)
+## 5.5 Worsening Pulmonary Veno-Occlusive Disease (PVOD)
 
 Pulmonary vasodilators may significantly worsen the cardiovascular status of patients with pulmonary veno-occlusive disease (PVOD).
 Since there are no clinical data on administration of OPSYNVI tablets to patients with veno-occlusive disease, administration of OPSYNVI tablets to such patients is not recommended.
 Should signs of pulmonary edema occur when OPSYNVI tablets are administered, the possibility of associated PVOD should be considered.
 If confirmed, discontinue OPSYNVI.
 
-## 5.7 Visual Loss
+## 5.6 Visual Loss
 
 Non–arteritic anterior ischemic optic neuropathy (NAION), a cause of decreased vision, including permanent loss of vision, has been reported postmarketing in temporal association with the use of PDE5 inhibitors, including tadalafil.
 Most, but not all, of these patients had underlying anatomic or vascular risk factors for development of NAION, including: low cup to disc ratio ("crowded disc"), age over 50, diabetes, hypertension, coronary artery disease, hyperlipidemia, and smoking.
@@ -92,12 +79,12 @@ Other risk factors for NAION, such as the presence of "crowded" optic disc, may 
 
 Patients with known hereditary degenerative retinal disorders, including retinitis pigmentosa, were not included in the clinical trials, and use of OPSYNVI in these patients is not recommended.
 
-## 5.8 Hearing Impairment
+## 5.7 Hearing Impairment
 
 Cases of sudden decrease or loss of hearing, which may be accompanied by tinnitus and dizziness, have been reported in patients taking tadalafil.
 It is not possible to determine whether these events are related directly to the use of PDE5 inhibitors or to other factors.
 
-## 5.9 Fluid Retention
+## 5.8 Fluid Retention
 
 Peripheral edema and fluid retention are known clinical consequences of PAH and known effects of ERAs and heart failure has been reported in patients taking OPSYNVI.
 In the active-controlled and combined double-blind/open-label arms of the study of OPSYNVI in PAH, the incidence of peripheral edema/fluid retention was 20.6% in the active-controlled and 17.3% in the double-blind/open-label arm [see Adverse Reactions (6.1)].
@@ -110,18 +97,18 @@ Postmarketing cases of edema and fluid retention occurring within weeks of start
 Monitor for signs of fluid retention after OPSYNVI initiation.
 If clinically significant fluid retention develops, evaluate the patient to determine the cause, such as OPSYNVI or underlying heart failure, and the possible need to discontinue OPSYNVI.
 
-## 5.10 Combination with Other PDE5 Inhibitors
+## 5.9 Combination with Other PDE5 Inhibitors
 
 Tadalafil is also indicated for erectile dysfunction.
 The safety and efficacy of taking tadalafil tablets together with another PDE5 inhibitors or other treatments for erectile dysfunction have not been studied.
 Instruct patients taking OPSYNVI tablets not to take other PDE5 inhibitors.
 
-## 5.11 Decreased Sperm Count
+## 5.10 Decreased Sperm Count
 
 Macitentan, like other ERAs, may have an adverse effect on spermatogenesis.
-Counsel men about potential effects on fertility [see Use in Specific Populations (8.3) and Nonclinical Toxicology (13.1)].
+Counsel men about potential effects on fertility [see Use in Specific Populations (8.3)and Nonclinical Toxicology (13.1)].
 
-## 5.12 Prolonged Erection
+## 5.11 Prolonged Erection
 
 There have been reports of prolonged erections greater than 4 hours and priapism (painful erections greater than 6 hours in duration) for PDE5 inhibitors like tadalafil.
 Patients with conditions that might predispose them to priapism (such as sickle cell anemia, multiple myeloma, or leukemia), or in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis, or Peyronie's disease) are at an increased risk.

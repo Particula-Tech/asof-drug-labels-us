@@ -6,14 +6,16 @@ Risk Summary
 
 Based on data from animal reproduction studies, OPSYNVI is contraindicated during pregnancy.
 Macitentan, a component of OPSYNVI, may cause embryo-fetal toxicity, including birth defects and fetal death, when administered to a pregnant female.
-The available data from OPSYNVI pharmacovigilance reports and published case reports on macitentan are insufficient to evaluate the potential risk of embryo-fetal toxicity.
+Available data from postmarketing reports and published literature over decades of use with ERAs in the same class as OPSYNVI have not identified an increased risk of major birth defects; however, these data are limited.
+Methodological limitations of these postmarketing reports and published literature include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and missing data.
+These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal ERA use.
 Macitentan was teratogenic in rabbits and rats at all doses tested.
 
 Available data from a randomized controlled trial, observational studies, and case series with tadalafil use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 In tadalafil animal reproduction studies, no adverse developmental effects were observed with oral administration of tadalafil to pregnant rats and mice during organogenesis at exposures 7 times the maximum recommended human dose (MRHD) of 40 mg/day (see Data).
 
 There are risks to the mother and the fetus associated with PAH in pregnancy (see Clinical Considerations).
-If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, advise pregnant women of the potential risk to a fetus [see Contraindications (4.1) and Warnings and Precautions (5.1)].
+If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, advise pregnant women of the potential risk to a fetus [see Contraindications (4.1)and Warnings and Precautions (5.1)].
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -59,18 +61,17 @@ Tadalafil and/or its metabolites are present in the milk of lactating rats at co
 
 ## 8.3 Females and Males of Reproductive Potential
 
+Based on data from animal reproductive toxicity studies, OPSYNVI can cause fetal harm, including birth defects and fetal death, when administered to a pregnant patient and is contraindicated during pregnancy [see Contraindications (4.1), and Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
-Verify the pregnancy status of females of reproductive potential prior to initiating OPSYNVI, monthly during treatment and one month after stopping treatment with OPSYNVI.
-The patient should contact her physician immediately for pregnancy testing if onset of menses is delayed or pregnancy is suspected.
-If the pregnancy test is positive, the physician and patient must discuss the risks to her, the pregnancy, and the fetus [see Dosage and Administration (2.2) and Contraindications (4.1)].
+Verify that patients who can become pregnant are not pregnant prior to initiating OPSYNVI.
+The patient should contact their physician immediately for pregnancy testing if onset of menses is delayed or pregnancy is suspected.
+If the pregnancy test is positive, the physician and patient should discuss the risks to the pregnancy, and the fetus.
 
 Contraception
 
-Female patients of reproductive potential must use acceptable methods of contraception during treatment with OPSYNVI and for 1 month after treatment with OPSYNVI.
-Patients may choose one highly effective form of contraception (intrauterine devices (IUD), contraceptive implants or tubal sterilization) or a combination of methods (hormone method with a barrier method or two barrier methods).
-If a partner's vasectomy is the chosen method of contraception, a hormone or barrier method must be used along with this method.
-Counsel patients on pregnancy planning and prevention, including emergency contraception, or designate counseling by another healthcare provider trained in contraceptive counseling [see Warnings and Precautions (5.1)].
+Patients who can become pregnant who are using OPSYNVI should use an effective method of contraception prior to initiation of treatment, during treatment, and for one month after discontinuation of treatment with OPSYNVI to prevent pregnancy [see Warnings and Precautions (5.1)].
 
 Infertility
 
@@ -79,7 +80,7 @@ Males
 Macitentan
 
 Based on findings in animals, macitentan may impair fertility in males of reproductive potential.
-It is not known whether effects on fertility would be reversible [see Warnings and Precautions (5.11), Clinical Pharmacology (12.2), and Nonclinical Toxicology (13.1)].
+It is not known whether effects on fertility would be reversible [see Warnings and Precautions (5.10), Clinical Pharmacology (12.2), and Nonclinical Toxicology (13.1)].
 
 Tadalafil
 
@@ -87,7 +88,7 @@ Based on the data from 3 studies in adult males, tadalafil decreased sperm conce
 This effect was not seen in the study of 20 mg tadalafil taken for 6 months.
 There was no adverse effect of tadalafil 10 mg or 20 mg on mean concentrations of testosterone, luteinizing hormone or follicle stimulating hormone.
 The clinical significance of the decreased sperm concentrations in the two studies is unknown.
-There have been no studies evaluating the effect of tadalafil on fertility in men or women [see Clinical Pharmacology (12.2) and Nonclinical Toxicology (13.1)].
+There have been no studies evaluating the effect of tadalafil on fertility in men or women [see Clinical Pharmacology (12.2)and Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
@@ -102,10 +103,10 @@ No overall differences in safety or effectiveness were observed between these su
 
 The use of OPSYNVI is not recommended in patients undergoing dialysis.
 Avoid use of OPSYNVI in patients with severe renal impairment (creatinine clearance 15–29 mL/min) because of increased tadalafil exposure (AUC), lack of clinical experience and the lack of ability to influence clearance by dialysis.
-For patients with mild (creatinine clearance 51–80 mL/min) to moderate (creatinine clearance 30–50 mL/min) renal impairment, the recommended dose should be consistent with the adult dosing [see Dosage and Administration (2.1) and Clinical Pharmacology (12.3)].
+For patients with mild (creatinine clearance 51–80 mL/min) to moderate (creatinine clearance 30–50 mL/min) renal impairment, the recommended dose should be consistent with the adult dosing [see Dosage and Administration (2.1)and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 OPSYNVI was not studied in severe hepatic impairment patients defined as a Model for End-Stage Liver Disease score ≥19.
 OPSYNVI must not be initiated in patients with severe hepatic impairment, or clinically significant elevated hepatic aminotransferases (greater than 3 times the Upper Limit of Normal at baseline (> 3 × ULN).
-For patients with mild to moderate hepatic impairment (Child Pugh Class A or B) the recommended dose should be consistent with the adult dosing see Dosage and Administration (2.1) [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+For patients with mild to moderate hepatic impairment (Child Pugh Class A or B) the recommended dose should be consistent with the adult dosing see Dosage and Administration (2.1)[see Warnings and Precautions (5.2)and Clinical Pharmacology (12.3)].

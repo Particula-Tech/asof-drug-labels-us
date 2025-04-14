@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-OPSYNVI ®is a single tablet combination containing two oral components used to treat pulmonary arterial hypertension: macitentan, an endothelin receptor antagonist (ERA), and tadalafil, a phosphodiesterase 5 (PDE5) inhibitor.
+OPSYNVI ® is a single tablet combination containing two oral components used to treat pulmonary arterial hypertension: macitentan, an endothelin receptor antagonist (ERA), and tadalafil, a phosphodiesterase 5 (PDE5) inhibitor.
 
 Macitentan
 
