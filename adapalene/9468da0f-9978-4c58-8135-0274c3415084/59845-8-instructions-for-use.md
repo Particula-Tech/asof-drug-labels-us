@@ -1,6 +1,8 @@
 # Instructions for Use
 
-CABTREO TM(kab-TREE-oh) (clindamycin phosphate, adapalene and benzoyl peroxide) topical gel
+CABTREO ®(kab-TREE-oh) (clindamycin phosphate, adapalene and benzoyl peroxide)
+
+topical gel
 
 This Instructions for Use contains information on how to apply CABTREO.
 
@@ -18,7 +20,8 @@ Step 1
 
 To apply CABTREO to your face, use the pump to dispense one pea-sized amount of CABTREO onto your fingertip.
 See Figure 1.
-Note: One pea-sized amount of CABTREO should be enough to cover your entire face.
+
+1. Note: One pea-sized amount of CABTREO should be enough to cover your entire face.
 
 Figure 1
 
@@ -48,7 +51,7 @@ How should I store CABTREO?
 
 Keep CABTREO and all medicines out of the reach of children.
 
-Distributed by:Bausch Health US, LLC, Bridgewater, NJ 08807 USA
+1. Distributed by:Bausch Health US, LLC, Bridgewater, NJ 08807 USA
 
 Manufactured by:Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
 
@@ -57,10 +60,9 @@ See https://patents.ortho-dermatologics.com for US patent information.
 
 CABTREO is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-© 2023 Bausch Health Companies Inc. or its affiliates
+© 2025 Bausch Health Companies Inc. or its affiliates
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+| This Instructions for Use has been approved by the U.S. Food and Drug Administration. Revised: 03/2025 |
+| --- |
 
-90001200
-
-Issued: 10/2023
+90001201

@@ -42,7 +42,7 @@ While the clinical significance of this finding is unknown, it still warrants co
 
 Clindamycin binds to the 50S ribosomal subunits of susceptible bacteria and prevents elongation of peptide chains by interfering with peptidyl transfer, thereby suppressing bacterial protein synthesis.
 
-Clindamycin and benzoyl peroxide individually have been shown to have in vitro activity against Cutibacterium acnes(C. acnes), an organism which has been associated with acne vulgaris.
+Clindamycin and benzoyl peroxide individually have been shown to have in vitro activity against Cutibacterium acnes (C. acnes), an organism which has been associated with acne vulgaris.
 In an in vitro study, the minimum inhibitory concentration (MIC) for benzoyl peroxide against C. acnesis 128 mg/L.
 The clinical significance of this activity against C. acnesis not known.
 

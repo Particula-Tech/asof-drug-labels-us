@@ -4,7 +4,7 @@ NDC0187-0006-25
 
 Rx only
 
-CABTREO TM (clindamycin phosphate, adapalene and benzoyl peroxide) Topical Gel 1.2%/0.15%/3.1%
+CABTREO® (clindamycin phosphate, adapalene and benzoyl peroxide) Topical Gel 1.2%/0.15%/3.1%
 
 Not for Oral, Ophthalmic, or Intravaginal Use
 
@@ -14,3 +14,5 @@ Net Wt.
 50 g
 
 ORTHO Dermatologics
+
+90000701

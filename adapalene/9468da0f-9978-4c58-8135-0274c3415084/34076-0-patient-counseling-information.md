@@ -45,4 +45,4 @@ See https://patents.ortho-dermatologics.com for US patent information.
 
 CABTREO is a trademark of Bausch Health Companies Inc. or its affiliates.
 
-© 2023 Bausch Health Companies Inc. or its affiliates 90001200
+© 2025 Bausch Health Companies Inc. or its affiliates 90001201
