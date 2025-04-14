@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA204074"
+  ],
+  "inn": "dapsone",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-965-30",
+    "62135-966-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dapsone",
+      "name": "Dapsone"
+    }
+  ],
+  "setid": "93028aff-54f0-4f94-b925-a91400118294",
+  "source": "dailymed"
+}

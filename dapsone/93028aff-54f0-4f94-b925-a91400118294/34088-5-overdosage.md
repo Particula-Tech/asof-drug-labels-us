@@ -1,0 +1,8 @@
+# OVERDOSAGE
+
+Nausea, vomiting, hyperexcitability can appear a few minutes up to 24 hours after ingestion of an overdosage.
+Methemoglobin induced depression, convulsions or severe cyanosis requires prompt treatment.
+In normal and methemoglobin reductase deficient patients, methylene blue, 1 to 2 mg/kg of body weight, given slowly intravenously, is the treatment of choice.
+The effect is complete in 30 minutes, but may have to be repeated if methemoglobin reaccumulates.
+For non-emergencies, if treatment is needed, methylene blue may be given orally in doses of 3 to 5 mg/kg every 4 to 6 hours.
+Methylene blue reduction depends on G6PD and should not be given to fully expressed G6PD deficient patients.
