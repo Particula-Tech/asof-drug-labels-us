@@ -3,62 +3,62 @@
 ## 12.1 Mechanism of Action
 
 Alprazolam is a 1,4 benzodiazepine.
-Alprazolam exerts its effect for the acute treatment of generalized anxiety disorder and panic disorder through binding to the benzodiazepine site of gamma-aminobutyric acid-A (GABAA) receptors in the brain and enhances GABA-mediated synaptic inhibition.
+Alprazolam exerts its effect for the acute treatment of generalized anxiety disorder and panic disorder through binding to the benzodiazepine site of gamma‑aminobutyric acid-A (GABAA) receptors in the brain and enhances GABA-mediated synaptic inhibition.
 
 ## 12.3 Pharmacokinetics
 
 Plasma levels of alprazolam increase proportionally to the dose over the range of 0.5 to 3.0 mg.
 
-Absorption
+### Absorption
 
 Following oral administration, peak plasma concentration of alprazolam (Cmax) occurs in 1 to 2 hours post dose.
 
-Distribution
+### Distribution
 
 Alprazolam is 80% bound to human serum protein, and albumin accounts for the majority of the binding.
 
-Elimination
+### Elimination
 
 The mean plasma elimination half-life (T1/2) of alprazolam is approximately 11.2 hours (range: 6.3 to 26.9 hours) in healthy adults.
 
-Metabolism
+#### Metabolism
 
-Alprazolam is extensively metabolized in humans, primarily by cytochrome P450 3A4 (CYP3A4), to 2 major active metabolites in the plasma: 4-hydroxyalprazolam and α-hydroxyalprazolam.
+Alprazolam is extensively metabolized in humans, primarily by cytochrome P450 3A4 (CYP3A4), to 2 major active metabolites in the plasma: 4‑hydroxyalprazolam and α‑hydroxyalprazolam.
 The plasma circulation levels of the two active metabolites are less than 4% of the parent.
-The reported relative potencies in benzodiazepine receptor binding experiments and in animal models of induced seizure inhibition are 0.20 and 0.66, respectively, for 4-hydroxyalprazolam and α-hydroxyalprazolam.
+The reported relative potencies in benzodiazepine receptor binding experiments and in animal models of induced seizure inhibition are 0.20 and 0.66, respectively, for 4‑hydroxyalprazolam and α‑hydroxyalprazolam.
 The low concentrations and low potencies of 4-hydroxyalprazolam and α-hydroxyalprazolam indicate that they unlikely contribute much to the effects of alprazolam.
 A benzophenone derived from alprazolam is also found in humans.
 Their half-lives appear to be similar to that of alprazolam.
 
-Excretion
+#### Excretion
 
 Alprazolam and its metabolites are excreted primarily in the urine.
 
-Specific Populations
+### Specific Populations
 
-Geriatric Patients
+#### Geriatric Patients
 
 The mean T1/2 of alprazolam was 16.3 hours (range: 9.0 to 26.9 hours) in healthy elderly subjects compared to 11.0 hours (range: 6.3 to -15.8 hours, n=16) in healthy younger adult subjects.
 
-Obese Patients
+#### Obese Patients
 
 The mean T1/2 of alprazolam was 21.8 hours (range: 9.9 to 40.4 hours) in a group of obese subjects.
 
-Patients with Hepatic Impairment
+#### Patients with Hepatic Impairment
 
 The mean T1/2 of alprazolam was 19.7 hours (range: 5.8 to 65.3 hours) in patients with alcoholic liver disease.
 
-Racial or Ethnic Groups
+#### Racial or Ethnic Groups
 
 Maximal concentrations and T1/2 of alprazolam are approximately 15% and 25% higher in Asians compared to Caucasians.
 
-Smoking
+#### Smoking
 
-Alprazolam concentrations may be reduced by up to 50% in smokers compared to non-smokers.
+Alprazolam concentrations may be reduced by up to 50% in smokers compared to non‑smokers.
 
-Drug Interaction Studies
+### Drug Interaction Studies
 
-In Vivo Studies
+#### In Vivo Studies
 
 Most of the interactions that have been documented with alprazolam are with drugs that modulate CYP3A4 activity.
 
@@ -73,7 +73,7 @@ Fluoxetine: Coadministration of fluoxetine with alprazolam increased the maximum
 Oral Contraceptives: Coadministration of oral contraceptives increased the maximum plasma concentration of alprazolam by 18%, decreased clearance by 22%, and increased T1/2 by 29%.
 
 Carbamazepine: The oral clearance of alprazolam (given in a 0.8 mg single dose) was increased from 0.90±0.21 mL/min/kg to 2.13±0.54 mL/min/kg and the elimination T1/2 was shortened (from 17.1±4.9 to 7.7±1.7 hour) following administration of 300 mg per day carbamazepine for 10 days [see Drug Interactions (7.2)].
-However, the carbamazepine dose used in this study was fairly low compared to the recommended doses (1000–1200 mg per day); the effect at usual carbamazepine doses is unknown.
+However, the carbamazepine dose used in this study was fairly low compared to the recommended doses (1000‑1200 mg per day); the effect at usual carbamazepine doses is unknown.
 
 Ritonavir: Interactions involving HIV protease inhibitors (e.g., ritonavir) and alprazolam are complex and time dependent.
 Short-term low doses of ritonavir (4 doses of 200 mg) increased mean AUC of alprazolam by about 2.5-fold, and did not significantly affect Cmax of alprazolam.
@@ -84,11 +84,12 @@ The elimination T1/2 of alprazolam was not significantly changed [see Warnings a
 
 Sertraline: A single dose of alprazolam 1 mg and steady state dose of sertraline (50 mg to 150 mg per day) did not reveal any clinically significant changes in the pharmacokinetics of alprazolam.
 
-Imipramine and Desipramine: The steady state plasma concentrations of imipramine and desipramine have been reported to be increased an average of 31% and 20%, respectively, by the concomitant administration of Alprazolam in doses up to 4 mg per day.
+Imipramine and Desipramine: The steady state plasma concentrations of imipramine and desipramine have been reported to be increased an average of 31% and 20%, respectively, by the concomitant administration of alprazolam in doses up to 4 mg per day.
 
 Warfarin: Alprazolam did not affect the prothrombin or plasma warfarin levels in male volunteers administered sodium warfarin orally.
 
-In Vitro Studies
+#### In Vitro Studies
 
 Data from in vitro studies of alprazolam suggest a possible drug interaction of alprazolam with paroxetine.
+
 The ability of alprazolam to induce human hepatic enzyme systems has not yet been determined.

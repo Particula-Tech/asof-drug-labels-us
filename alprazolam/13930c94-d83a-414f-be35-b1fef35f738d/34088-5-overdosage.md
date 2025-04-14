@@ -1,23 +1,17 @@
 # 10 OVERDOSAGE
 
-## 10.1 Clinical Experience
+Overdosage of benzodiazepines is characterized by central nervous system depression ranging from drowsiness to coma.
+In mild to moderate cases, symptoms can include drowsiness, confusion, dysarthria, lethargy, hypnotic state, diminished reflexes, ataxia, and hypotonia.
+Rarely, paradoxical or disinhibitory reactions (including agitation, irritability, impulsivity, violent behavior, confusion, restlessness, excitement, and talkativeness) may occur.
+In severe overdosage cases, patients may develop respiratory depression and coma.
+Overdosage of benzodiazepines in combination with other CNS depressants (including alcohol and opioids) may be fatal [see Warnings and Precautions (5.2)].
+Markedly abnormal (lowered or elevated) blood pressure, heart rate, or respiratory rate raise the concern that additional drugs and/or alcohol are involved in the overdosage.
 
-Manifestations of alprazolam overdosage include somnolence, confusion, impaired coordination, diminished reflexes, and coma.
-Death has been reported in association with overdoses of alprazolam by itself, as it has with other benzodiazepines.
-In addition, fatalities have been reported in patients who have overdosed with a combination of a single benzodiazepine, including alprazolam, and alcohol; alcohol levels seen in some of these patients have been lower than those usually associated with alcohol-induced fatality.
+In managing benzodiazepine overdosage, employ general supportive measures, including intravenous fluids and airway management.
+Flumazenil, a specific benzodiazepine receptor antagonist indicated for the complete or partial reversal of the sedative effects of benzodiazepines in the management of benzodiazepine overdosage, can lead to withdrawal and adverse reactions, including seizures, particularly in the context of mixed overdosage with drugs that increase seizure risk (e.g., tricyclic and tetracyclic antidepressants) and in patients with long-term benzodiazepine use and physical dependency.
+The risk of withdrawal seizures with flumazenil use may be increased in patients with epilepsy.
+Flumazenil is contraindicated in patients who have received a benzodiazepine for control of a potentially life-threatening condition (e.g., status epilepticus).
+If the decision is made to use flumazenil, it should be used as an adjunct to, not as a substitute for, supportive management of benzodiazepine overdosage.
+See the flumazenil injection Prescribing Information.
 
-## 10.2 Management of Overdose
-
-In case of an overdosage, consult a Certified Poison Control Center at 1-800-222-1222 for latest recommendations.
-
-As in all cases of drug overdosage, respiration, pulse rate, and blood pressure should be monitored.
-General supportive measures should be employed, along with immediate gastric lavage.
-Intravenous fluids should be administered and an adequate airway maintained.
-As with the management of intentional overdosing with any drug, it should be borne in mind that multiple agents may have been ingested.
-
-Flumazenil may be useful in situations when an overdose with a benzodiazepine is known or suspected.
-Prior to the administration of flumazenil, necessary measures should be instituted to secure airway, ventilation, and intravenous access.
-Flumazenil is intended as an adjunct to, not as a substitute for, proper management of benzodiazepine overdose.
-Patients treated with flumazenil should be monitored for re-sedation, respiratory depression, and other residual benzodiazepine effects for an appropriate period after treatment.
-The prescriber should be aware of a risk of seizure in association with flumazenil treatment, particularly in long-term benzodiazepine users and in cyclic antidepressant overdose.
-The complete flumazenil package insert should be consulted prior to use.
+Consider contacting the Poison Help Line (1-800-222-1222), or a medical toxicologist for additional overdosage management recommendations.

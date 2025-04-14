@@ -2,7 +2,7 @@
 
 ## 9.1 Controlled Substance
 
-Alprazolam contains alprazolam, which is a Schedule IV controlled substance.
+Alprazolam tablets contain alprazolam, which is a Schedule IV controlled substance.
 
 ## 9.2 Abuse
 
@@ -28,7 +28,7 @@ Physical dependence is a state that develops as a result of physiological adapta
 Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use [see Warnings and Precautions (5.3)].
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Alprazolam or reduce the dosage [see Dosage and Administration (2.3), Warnings and Precautions (5.3)].
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue alprazolam or reduce the dosage [see Dosage and Administration (2.3), Warnings and Precautions (5.3)].
 
 Acute Withdrawal Signs and Symptoms
 

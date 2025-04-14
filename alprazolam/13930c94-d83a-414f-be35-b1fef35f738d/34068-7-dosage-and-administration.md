@@ -18,14 +18,14 @@ The mean dosage was approximately 5 mg to 6 mg daily.
 Occasional patients required as much as 10 mg per day.
 
 For patients receiving doses greater than 4 mg per day, periodic reassessment and consideration of dosage reduction is advised.
-In a controlled postmarketing dose-response study, patients treated with doses of alprazolam greater than 4 mg per day for 3 months were able to taper to 50% of their total maintenance dose without apparent loss of clinical benefit.
+In a controlled postmarketing dose‑response study, patients treated with doses of alprazolam greater than 4 mg per day for 3 months were able to taper to 50% of their total maintenance dose without apparent loss of clinical benefit.
 
 The necessary duration of treatment for PD in patients responding to alprazolam is unknown.
 After a period of extended freedom from panic attacks, a carefully supervised tapered discontinuation may be attempted, but there is evidence that this may often be difficult to accomplish without recurrence of symptoms and/or the manifestation of withdrawal phenomena [see Dosage and Administration (2.3)].
 
 ## 2.3 Discontinuation or Dosage Reduction of Alprazolam
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Alprazolam or reduce the dosage.
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue alprazolam or reduce the dosage.
 If a patient develops withdrawal reactions, consider pausing the taper or increasing the dosage to the previous tapered dosage level.
 Subsequently decrease the dosage more slowly [see Warnings and Precautions (5.3), Drug Abuse and Dependence (9.3)].
 
@@ -37,14 +37,14 @@ In a controlled postmarketing discontinuation study of panic disorder patients w
 
 ## 2.4 Dosage Recommendations in Geriatric Patients
 
-In geriatric patients, the recommended starting oral dosage of Alprazolam is 0.25 mg, given 2 or 3 times daily.
+In geriatric patients, the recommended starting oral dosage of alprazolam is 0.25 mg, given 2 or 3 times daily.
 This may be gradually increased if needed and tolerated.
 Geriatric patients may be especially sensitive to the effects of benzodiazepines.
 If adverse reactions occur at the recommended starting dosage, the dosage may be reduced [see Use in Specific Populations (8.5), Clinical Pharmacology (12.3)].
 
 ## 2.5 Dosage Recommendations in Patients with Hepatic Impairment
 
-In patients with hepatic impairment, the recommended starting oral dosage of Alprazolam is 0.25 mg, given 2 or 3 times daily.
+In patients with hepatic impairment, the recommended starting oral dosage of alprazolam is 0.25 mg, given 2 or 3 times daily.
 This may be gradually increased if needed and tolerated.
 If adverse reactions occur at the recommended starting dose, the dosage may be reduced [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
