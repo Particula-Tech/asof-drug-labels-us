@@ -13,6 +13,8 @@ Monthly Required iPLEDGE Interactions
 | PHARMACIST |  |  |
 | Contacts system to get an authorization | X | X |
 
+Document Patient Identification Number:________________________________
+
 Patient Enrollment Form for Patients who can get Pregnant
 
 To be completed by the patient (and their parent or guardian* if patient is under age 18) and signed by their doctor.
@@ -59,32 +61,32 @@ __________________________________________________________________________
     The first pregnancy test should be done when my doctor decides to prescribe isotretinoin.
     The second pregnancy test must be done in a lab during the first 5 days of my menstrual period right before starting isotretinoin therapy treatment, or as instructed by my doctor.
     I will then have one pregnancy test; in a lab.
-11. •every month during treatment
-12. •at the end of treatment
-13. •and one month after stopping treatment
-14. I must not start taking isotretinoin until I am sure that I am not pregnant, have negative results from two pregnancy tests, and the second test has been done in a lab.
+    1. •every month during treatment
+    2. •at the end of treatment
+    3. •and one month after stopping treatment
+11. I must not start taking isotretinoin until I am sure that I am not pregnant, have negative results from two pregnancy tests, and the second test has been done in a lab.
+12. Initial: ______
+13. 10.I have read and understand the materials my doctor has provided to me, including the Guide for Patients Who Can Get Pregnant and the Fact Sheet on the iPLEDGE REMS.
+14. I have received information on emergency birth control.
 15. Initial: ______
-16. 10.I have read and understand the materials my doctor has provided to me, including the Guide for Patients Who Can Get Pregnant and the Fact Sheet on the iPLEDGE REMS.
-17. I have received information on emergency birth control.Initial: ______
-18. 11.I must stop taking isotretinoin right away and call my doctor if I get pregnant, miss my expected menstrual period, stop using birth control, or have any sexual contact (penis-vaginal) with a partner who could get me pregnant without using my two birth control forms at any time.
+16. 11.I must stop taking isotretinoin right away and call my doctor if I get pregnant, miss my expected menstrual period, stop using birth control, or have any sexual contact (penis-vaginal) with a partner who could get me pregnant without using my two birth control forms at any time.
     Initial: ______
-19. 12.My doctor provided me information about the purpose and importance of providing information to the iPLEDGE REMS should I become pregnant while taking isotretinoin or within one month of the last dose.
+17. 12.My doctor provided me information about the purpose and importance of providing information to the iPLEDGE REMS should I become pregnant while taking isotretinoin or within one month of the last dose.
     I understand that if I become pregnant, information about my pregnancy, my health, and my baby’s health may be shared with the makers of isotretinoin, authorized parties who maintain the iPLEDGE REMS for the makers of isotretinoin and government health regulatory authorities.
     Initial: ______
-20. 13.I understand that being qualified to receive isotretinoin in the iPLEDGE REMS means that I:
-21. 
-22. •have had two negative urine or blood pregnancy tests before receiving the first isotretinoin prescription.
-    The second test must be done in a lab.
-    I must have a negative result from a urine or blood pregnancy test done in a lab repeated each month before I receive another isotretinoin prescription.
-23. •have chosen and agreed to use two forms of effective birth control at the same time.
-    At least one form must be a primary form of birth control, unless I have chosen never to have any sexual contact (penis-vaginal) with a partner who could get me pregnant (abstinence), or I have undergone a hysterectomy or bilateral oophorectomy, or I have been medically confirmed to be post-menopausal.
-    I must use two forms of birth control for at least one month before I start isotretinoin therapy, during therapy, and for one month after stopping therapy.
-    I must receive counseling, repeated on a monthly basis, about birth control and behaviors associated with an increased risk of pregnancy.
-24. •have signed a Patient Enrollment Form for Patients who can get Pregnant that contains warnings about the chance of possible birth defects if I am pregnant or become pregnant and my unborn baby is exposed to isotretinoin.
-25. •have been informed of and understand the purpose and importance of providing information to the iPLEDGE REMS should I become pregnant while taking isotretinoin or within one month of the last dose.
-26. •have interacted with the iPLEDGE REMS before starting isotretinoin and on a monthly basis to answer questions on the program requirements and to enter my two chosen forms of birth control.
-27. Initial: ______
-28. 
+18. 13.I understand that being qualified to receive isotretinoin in the iPLEDGE REMS means that I:
+    1. •have had two negative urine or blood pregnancy tests before receiving the first isotretinoin prescription.
+       The second test must be done in a lab.
+       I must have a negative result from a urine or blood pregnancy test done in a lab repeated each month before I receive another isotretinoin prescription.
+    2. •have chosen and agreed to use two forms of effective birth control at the same time.
+       At least one form must be a primary form of birth control, unless I have chosen never to have any sexual contact (penis-vaginal) with a partner who could get me pregnant (abstinence), or I have undergone a hysterectomy or bilateral oophorectomy, or I have been medically confirmed to be post-menopausal.
+       I must use two forms of birth control for at least one month before I start isotretinoin therapy, during therapy, and for one month after stopping therapy.
+       I must receive counseling, repeated on a monthly basis, about birth control and behaviors associated with an increased risk of pregnancy.
+    3. •have signed a Patient Enrollment Form for Patients who can get Pregnant that contains warnings about the chance of possible birth defects if I am pregnant or become pregnant and my unborn baby is exposed to isotretinoin.
+    4. •have been informed of and understand the purpose and importance of providing information to the iPLEDGE REMS should I become pregnant while taking isotretinoin or within one month of the last dose.
+    5. •have interacted with the iPLEDGE REMS before starting isotretinoin and on a monthly basis to answer questions on the program requirements and to enter my two chosen forms of birth control.
+19. Initial: ______
+20. 
 
 My doctor has answered all my questions about isotretinoin and I understand that it is my responsibility not to get pregnant one month before, during isotretinoin treatment, or for one month after I stop taking isotretinoin.
 
@@ -108,7 +110,7 @@ Doctor Signature: ________________________________________ Date: _____________
 PLACE THE ORIGINAL SIGNED DOCUMENTS IN THE PATIENT’S MEDICAL RECORD.
 PLEASE PROVIDE A COPY TO THE PATIENT.
 
-Document Patient Identification Number:
+Document Patient Identification Number: ________________________________
 
 Patient Enrollment Form for Patients who cannot get Pregnant:
 

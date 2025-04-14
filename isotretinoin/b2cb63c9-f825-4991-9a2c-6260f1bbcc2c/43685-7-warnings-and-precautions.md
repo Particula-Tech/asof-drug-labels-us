@@ -4,7 +4,8 @@
 
 Amnesteem may cause depression, psychosis and, rarely, suicidal ideation, suicide attempts, suicide, and aggressive and/or violent behaviors.
 No mechanism of action has been established for these events (see ADVERSE REACTIONS: Psychiatric).
-Prescribers should read the brochure, Recognizing Psychiatric Disorders in Adolescents and Young Adults: A Guide for Prescribers of Isotretinoin.Prescribers should be alert to the warning signs of psychiatric disorders to guide patients to receive the help they need.
+Prescribers should read the brochure, Recognizing Psychiatric Disorders in Adolescents and Young Adults: A Guide for Prescribers of Isotretinoin.
+Prescribers should be alert to the warning signs of psychiatric disorders to guide patients to receive the help they need.
 Therefore, prior to initiation of Amnesteem therapy, patients and family members should be asked about any history of psychiatric disorder, and at each visit during therapy patients should be assessed for symptoms of depression, mood disturbance, psychosis, or aggression to determine if further evaluation may be necessary.
 Signs and symptoms of depression, as described in the brochure (“Recognizing Psychiatric Disorders in Adolescents and Young Adults”), include sad mood, hopelessness, feelings of guilt, worthlessness or helplessness, loss of pleasure or interest in activities, fatigue, difficulty concentrating, change in sleep pattern, change in weight or appetite, suicidal thoughts or attempts, restlessness, irritability, acting on dangerous impulses, and persistent physical symptoms unresponsive to treatment.
 Patients should stop Amnesteem and the patient or a family member should promptly contact their prescriber if the patient develops depression, mood disturbance, psychosis, or aggression, without waiting until the next visit.
@@ -140,8 +141,8 @@ These include:
 - •Enrolling prior to distributing isotretinoin and re-enrolling annually thereafter
 - •Distributing only FDA approved isotretinoin product
 - •Only shipping isotretinoin to
-  - -wholesalers enrolled in the iPLEDGE REMS with prior written consent from the manufacturer or
-  - -pharmacies licensed in the US and enrolled and activated in the iPLEDGE REMS
+  - owholesalers enrolled in the iPLEDGE REMS with prior written consent from the manufacturer or
+  - opharmacies licensed in the US and enrolled and activated in the iPLEDGE REMS
 - •Notifying the isotretinoin manufacturer (or delegate) of any non-enrolled and/or non-activated pharmacy or unenrolled wholesaler that attempts to order isotretinoin
 - •Complying with inspection/audit of wholesaler records for verification of compliance with the iPLEDGE REMS by the isotretinoin manufacturer (or delegate)
 - •Returning to the manufacturer (or delegate) any undistributed product if the wholesaler is deactivated by the iPLEDGE REMS or if the wholesaler chooses to not re-enroll annually
@@ -180,8 +181,8 @@ Meeting the requirements for a patient who can become pregnant signifies that th
   The first test (a screening test) is obtained by the prescriber when the decision is made to pursue qualification of the patient for isotretinoin.
   The second pregnancy test (a confirmation test) must be done in a CLIA-certified laboratory.
   The interval between the two tests should be at least 19 days.
-  - -For patients with regular menstrual cycles, the second pregnancy test should be done during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month.
-  - -For patients with amenorrhea, irregular cycles, or using a contraceptive form that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month.
+  - oFor patients with regular menstrual cycles, the second pregnancy test should be done during the first 5 days of the menstrual period immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month.
+  - oFor patients with amenorrhea, irregular cycles, or using a contraceptive form that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of isotretinoin therapy and after the patient has used two forms of contraception for one month.
 - •Has had a negative result from a urine or serum pregnancy test in a CLIA-certified laboratory before receiving each subsequent course of isotretinoin.
   A pregnancy test must be repeated every month, in a CLIA-certified laboratory, prior to the patient who can become pregnant receiving each prescription.
 - •Has selected and has committed to use two forms of effective contraception simultaneously, at least one of which must be a primary form, unless the patient commits to continuous abstinence not having any sexual contact with a partner that could result in pregnancy, or the patient has undergone a hysterectomy or bilateral oophorectomy, or has been medically confirmed to be post-menopausal.
@@ -231,7 +232,7 @@ To receive isotretinoin all patients must meet all of the following conditions:
 - •Must not donate blood while on isotretinoin and for one month after treatment has ended
 - •Must not share isotretinoin with anyone, even someone who has similar symptoms
 
-## Patients Who Become Pregnant
+## Patients Who Can Become Pregnant
 
 Isotretinoin is contraindicated in patients who are pregnant.
 In addition to the requirements for all patients described above, patients who can become pregnant must meet the following conditions:
@@ -382,7 +383,7 @@ Severe allergic reaction necessitates discontinuation of therapy and appropriate
 - •Norethindrone/ethinyl estradiol: In a study of 31 premenopausal female patients with severe recalcitrant nodular acne receiving Ortho-Novum® 7/7/7 Tablets as an oral contraceptive agent, Amnesteem at the recommended dose of 1 mg/kg/day, did not induce clinically relevant changes in the pharmacokinetics of ethinyl estradiol and norethindrone and in the serum levels of progesterone, follicle-stimulating hormone (FSH) and luteinizing hormone (LH).
   Prescribers are advised to consult the package insert of medication administered concomitantly with hormonal contraceptives, since some medications may decrease the effectiveness of these birth control products.
 - •St.
-  John’s Wort:Amnesteem use is associated with depression in some patients (see WARNINGS: Psychiatric Disorders and ADVERSE REACTIONS: Psychiatric).
+  John’s Wort: Amnesteem use is associated with depression in some patients (see WARNINGS: Psychiatric Disorders and ADVERSE REACTIONS: Psychiatric).
   Patients should be prospectively cautioned not to self-medicate with the herbal supplement St. John’s Wort because a possible interaction has been suggested with hormonal contraceptives based on reports of breakthrough bleeding on oral contraceptives shortly after starting St. John's Wort.
   Pregnancies have been reported by users of combined hormonal contraceptives who also used some form of St. John's Wort.
 - •Phenytoin: Amnesteem has not been shown to alter the pharmacokinetics of phenytoin in a study in seven healthy volunteers.
@@ -398,13 +399,13 @@ Severe allergic reaction necessitates discontinuation of therapy and appropriate
 
 ### Pregnancy Test
 
-- -Patients who can become pregnant must have had two negative urine or serum pregnancy tests with a sensitivity of at least 25 mIU/mL before receiving the initial Amnesteem prescription.
+- •Patients who can become pregnant must have had two negative urine or serum pregnancy tests with a sensitivity of at least 25 mIU/mL before receiving the initial Amnesteem prescription.
   The first test (a screening test) is obtained by the prescriber when the decision is made to pursue qualification of the patient for Amnesteem.
   The second pregnancy test (a confirmation test) must be done in a CLIA-certified laboratory.
   The interval between the two tests must be at least 19 days.
-- -For patients with regular menstrual cycles, the second pregnancy test must be done during the first 5 days of the menstrual period immediately preceding the beginning of Amnesteem therapy and after the patient has used 2 forms of contraception for one month.
-- -For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of Amnesteem therapy and after the patient has used 2 forms of contraception for one month.
-- -Each month of therapy, patients must have a negative result from a urine or serum pregnancy test.
+- •For patients with regular menstrual cycles, the second pregnancy test must be done during the first 5 days of the menstrual period immediately preceding the beginning of Amnesteem therapy and after the patient has used 2 forms of contraception for one month.
+- •For patients with amenorrhea, irregular cycles, or using a contraceptive method that precludes withdrawal bleeding, the second pregnancy test must be done immediately preceding the beginning of Amnesteem therapy and after the patient has used 2 forms of contraception for one month.
+- •Each month of therapy, patients must have a negative result from a urine or serum pregnancy test.
   A pregnancy test must be repeated each month, in a CLIA-certified laboratory, prior to the patient who can become pregnant receiving each prescription.
 
 ### Lipids

@@ -26,7 +26,7 @@ Pharmacokinetic Parameters of Isotretinoin Mean (%CV), N = 74
 
 | Amnesteem2 x 40 mgCapsules | AUC0-∞(ng•hr/mL) | Cmax(ng/mL) | Tmax(hr) | t1/2(hr) |
 | --- | --- | --- | --- | --- |
-| FedEating a standardized high fat meal | 10,004 (22%) | 862 (22%) | 5.3 (77%) | 21 (39%) |
+| FedEating a standardized high-fat meal | 10,004 (22%) | 862 (22%) | 5.3 (77%) | 21 (39%) |
 | Fasted | 3,703 (46%) | 301 (63%) | 3.2 (56%) | 21 (30%) |
 
 ### Distribution

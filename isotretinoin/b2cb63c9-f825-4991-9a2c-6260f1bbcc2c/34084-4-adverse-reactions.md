@@ -38,7 +38,7 @@ Skin and Appendages: acne fulminans, alopecia (which in some cases persists), br
 
 Special Senses: Hearing: hearing impairment (see WARNINGS: Hearing Impairment), tinnitus
 
-Vision:corneal opacities (see WARNINGS: Corneal Opacities), decreased night vision which may persist (see WARNINGS: Decreased Night Vision), cataracts, color vision disorder, conjunctivitis, dry eyes, eyelid inflammation, keratitis, optic neuritis, photophobia, visual disturbances
+Vision: corneal opacities (see WARNINGS: Corneal Opacities), decreased night vision which may persist (see WARNINGS: Decreased Night Vision), cataracts, color vision disorder, conjunctivitis, dry eyes, eyelid inflammation, keratitis, optic neuritis, photophobia, visual disturbances
 
 Urinary System: glomerulonephritis (see PRECAUTIONS: Hypersensitivity), nonspecific urogenital findings (see PRECAUTIONS: Laboratory Tests for other urological parameters)
 

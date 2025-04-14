@@ -24,5 +24,3 @@
    J Am Acad Dermatol 10:490-496, 1984.
 
 Ortho-Novum 7/7/7 is a registered trademark of Ortho-McNeil Pharmaceutical, Inc.
-
-Document Patient Identification Number:
