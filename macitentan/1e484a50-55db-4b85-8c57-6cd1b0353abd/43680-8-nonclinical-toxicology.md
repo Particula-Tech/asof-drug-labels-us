@@ -8,7 +8,7 @@ Carcinogenicity studies of 2 years' duration did not reveal any carcinogenic pot
 
 Mutagenesis
 
-Macitentan was not genotoxic in a standard battery of in vitroand in vivoassays that included a bacterial reverse mutation assay, an assay for gene mutations in mouse lymphoma cells, a chromosome aberration test in human lymphocytes, and an in vivomicronucleus test in rats.
+Macitentan was not genotoxic in a standard battery of in vitro and in vivo assays that included a bacterial reverse mutation assay, an assay for gene mutations in mouse lymphoma cells, a chromosome aberration test in human lymphocytes, and an in vivo micronucleus test in rats.
 
 Impairment of Fertility
 

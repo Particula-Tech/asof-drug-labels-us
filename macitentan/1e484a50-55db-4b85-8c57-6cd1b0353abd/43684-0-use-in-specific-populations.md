@@ -6,7 +6,9 @@ Risk Summary
 
 Based on data from animal reproduction studies, OPSUMIT may cause embryo-fetal toxicity, including birth defects and fetal death, when administered to a pregnant female and is contraindicated during pregnancy.
 There are risks to the mother and the fetus associated with pulmonary arterial hypertension in pregnancy [see Clinical Considerations].
-There are limited data on OPSUMIT use in pregnant women.
+Available data from postmarketing reports and published literature over decades of use with ERAs in the same class as OPSUMIT have not identified an increased risk of major birth defects; however, these data are limited.
+Methodological limitations of these postmarketing reports and published literature include lack of a control group; limited information regarding dose, duration, and timing of drug exposure; and missing data.
+These limitations preclude establishing a reliable estimate of the risk of adverse fetal and neonatal outcomes with maternal ERA use.
 Macitentan was teratogenic in rabbits and rats at all doses tested.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, advise the patient of the risk to a fetus [see Contraindications (4.1)].
 
@@ -36,23 +38,22 @@ Because of the potential for serious adverse reactions in breastfed infants from
 
 ## 8.3 Females and Males of Reproductive Potential
 
+Based on data from animal reproductive toxicity studies, OPSUMIT can cause fetal harm, including birth defects and fetal death, when administered to a pregnant patient and is contraindicated during pregnancy [see Contraindications (4.1), and Use in Specific Populations (8.1)].
+
 Pregnancy Testing
 
-Verify the pregnancy status of females of reproductive potential prior to initiating OPSUMIT, monthly during treatment and one month after stopping treatment with OPSUMIT.
-The patient should contact her physician immediately for pregnancy testing if onset of menses is delayed or pregnancy is suspected.
-If the pregnancy test is positive, the physician and patient must discuss the risks to her, the pregnancy, and the fetus [see Warnings and Precautions (5.1), Dosage and Administration (2.2), and Contraindications (4.1)].
+Verify that patients who can become pregnant are not pregnant prior to initiating OPSUMIT.
+The patient should contact their physician immediately for pregnancy testing if onset of menses is delayed or pregnancy is suspected.
+If the pregnancy test is positive, the physician and patient should discuss the risks to the pregnancy, and the fetus.
 
 Contraception
 
-Female patients of reproductive potential must use acceptable methods of contraception during treatment with OPSUMIT and for 1 month after treatment with OPSUMIT.
-Patients may choose one highly effective form of contraception (intrauterine devices (IUD), contraceptive implants or tubal sterilization) or a combination of methods (hormone method with a barrier method or two barrier methods).
-If a partner's vasectomy is the chosen method of contraception, a hormone or barrier method must be used along with this method.
-Counsel patients on pregnancy planning and prevention, including emergency contraception, or designate counseling by another healthcare provider trained in contraceptive counseling [see Warnings and Precautions (5.1)].
+Patients who can become pregnant who are using OPSUMIT should use an effective method of contraception prior to initiation of treatment, during treatment, and for one month after discontinuation of treatment with OPSUMIT to prevent pregnancy [see Warnings and Precautions (5.1)].
 
 Infertility
 
 Based on findings in animals, OPSUMIT may impair fertility in males of reproductive potential.
-It is not known whether effects on fertility would be reversible [see Warnings and Precautions (5.7), Adverse Reactions (6.1), and Nonclinical Toxicology (13.1)].
+It is not known whether effects on fertility would be reversible [see Warnings and Precautions (5.6), Adverse Reactions (6.1), and Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
 
