@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA205931",
+    "NDA208253"
+  ],
+  "inn": "doxycycline",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-907-20",
+    "62135-908-20",
+    "62135-975-20"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "doxycycline hyclate",
+      "name": "Doxycycline Hyclate"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "doxycycline hyclate",
+      "name": "Doxycycline Hyclate"
+    }
+  ],
+  "setid": "fad03768-f1d2-459f-965e-0ec29f189f1f",
+  "source": "dailymed"
+}
