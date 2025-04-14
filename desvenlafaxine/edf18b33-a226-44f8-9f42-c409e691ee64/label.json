@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA211427"
+  ],
+  "inn": "desvenlafaxine",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-388-07",
+    "33342-388-10",
+    "33342-388-12",
+    "33342-389-07",
+    "33342-389-10",
+    "33342-389-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "desvenlafaxine succinate",
+      "name": "Desvenlafaxine Succinate"
+    }
+  ],
+  "setid": "edf18b33-a226-44f8-9f42-c409e691ee64",
+  "source": "dailymed"
+}
