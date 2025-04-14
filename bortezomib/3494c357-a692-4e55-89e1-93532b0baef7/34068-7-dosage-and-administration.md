@@ -40,8 +40,8 @@ Once Weekly Bortezomib for Injection (Cycles 5 to 9 when used in combination wit
 
 Prior to initiating any cycle of therapy with Bortezomib for Injection in combination with melphalan and prednisone:
 
-- Platelet count should be at least 70 x 109/L and the absolute neutrophil count (ANC) should be at least 1.0 x 109/L
-- Nonhematological toxicities should have resolved to Grade 1 or baseline
+- •Platelet count should be at least 70 x 109/L and the absolute neutrophil count (ANC) should be at least 1.0 x 109/L
+- •Nonhematological toxicities should have resolved to Grade 1 or baseline
 
 Table 2: Dose Modifications During Cycles of Combination Bortezomib for Injection, Melphalan and Prednisone Therapy
 
@@ -78,9 +78,9 @@ Table 3: Dosage Regimen for Patients with Previously Untreated Mantle Cell Lymph
 
 Prior to the first day of each cycle (other than Cycle 1):
 
-- Platelet count should be at least 100 x 109/L and absolute neutrophil count (ANC) should be at least 1.5 x 109/L
-- Hemoglobin should be at least 8 g/dL (at least 4.96 mmol/L)
-- Nonhematologic toxicity should have recovered to Grade 1 or baseline
+- •Platelet count should be at least 100 x 109/L and absolute neutrophil count (ANC) should be at least 1.5 x 109/L
+- •Hemoglobin should be at least 8 g/dL (at least 4.96 mmol/L)
+- •Nonhematologic toxicity should have recovered to Grade 1 or baseline
 
 Interrupt Bortezomib for Injection treatment at the onset of any Grade 3 hematologic or nonhematological toxicities, excluding neuropathy [see Table 5, and Warnings and Precautions (5)].
 
@@ -91,7 +91,7 @@ Table 4: Dose Modifications on Days 4, 8, and 11 During Cycles of Combination Bo
 | Toxicity | Dose Modification or Delay |
 | --- | --- |
 | Hematological Toxicity |  |
-| Grade 3 or higher neutropenia, or a platelet count not at or above 25 × 109/L | Withhold Bortezomib for Injection therapy for up to 2 weeks until the patient has an ANC at or above 0.75 × 109/L and a platelet count at or above 25 × 109/L. If, after Bortezomib for Injection has been withheld, the toxicity does not resolve, discontinue Bortezomib for Injection. If toxicity resolves such that the patient has an ANC at or above 0.75 × 109/L and a platelet count at or above 25 × 109/L, Bortezomib for Injection dose should be reduced by 1 dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). |
+| •Grade 3 or higher neutropenia, or a platelet count not at or above 25 × 109/L | Withhold Bortezomib for Injection therapy for up to 2 weeks until the patient has an ANC at or above 0.75 × 109/L and a platelet count at or above 25 × 109/L. •If, after Bortezomib for Injection has been withheld, the toxicity does not resolve, discontinue Bortezomib for Injection. •If toxicity resolves such that the patient has an ANC at or above 0.75 × 109/L and a platelet count at or above 25 × 109/L, Bortezomib for Injection dose should be reduced by 1 dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). |
 | Grade 3 or higher nonhematological toxicities | Withhold Bortezomib for Injection therapy until symptoms of the toxicity have resolved to Grade 2 or better. Then, Bortezomib for Injection may be reinitiated with one dose level reduction (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). For Bortezomib for Injection-related neuropathic pain and/or peripheral neuropathy, hold or modify Bortezomib for Injection as outlined in Table 5. |
 
 For information concerning rituximab, cyclophosphamide, doxorubicin, and prednisone, see manufacturer's prescribing information.
@@ -130,9 +130,7 @@ Table 5: Recommended Dose Modification for Bortezomib for Injection-Related Neur
 | Grade 2 with pain or Grade 3 (severe | Withhold Bortezomib for Injection therapy until |
 | symptoms; limiting self care ADL ‡) | toxicity resolves. When toxicity resolves reinitiate with a reduced dose of Bortezomib for Injection at 0.7 mg/m2 once per week. |
 | Grade 4 (life-threatening consequences; urgent intervention indicated) | Discontinue Bortezomib for Injection |
-| *Grading based on NCI Common Terminology Criteria CTCAE v4.0 |  |
-| ✝Instrumental ADL: refers to preparing meals, shopping for groceries or clothes, using telephone, managing money, etc; |  |
-| ‡Self care ADL: refers to bathing, dressing and undressing, feeding self, using the toilet, taking medications, and not bedridden |  |
+| *Grading based on NCI Common Terminology Criteria CTCAE v4.0 ✝Instrumental ADL: refers to preparing meals, shopping for groceries or clothes, using telephone, managing money, etc; ‡Self care ADL: refers to bathing, dressing and undressing, feeding self, using the toilet, taking medications, and not bedridden |  |
 
 ## 2.8 Dosage in Patients with Hepatic Impairment
 
@@ -148,8 +146,7 @@ Table 6: Recommended Starting Dose Modification for Bortezomib for Injection in 
 | More than 1x to 1.5x ULN | Any | None |  |
 | Moderate | More than 1.5x to 3x ULN | Any | Reduce Bortezomib for Injection to 0.7 mg/m2 in the first cycle. Consider dose escalation to 1 mg/m2 or further dose reduction to 0.5 mg/m2 in subsequent cycles based on patient tolerability. |
 | Severe | More than 3x ULN | Any |  |
-| Abbreviations: SGOT = serum glutamic oxaloacetic transaminase; |  |  |  |
-| AST = aspartate aminotransferase; ULN = upper limit of the normal range. |  |  |  |
+| Abbreviations: SGOT = serum glutamic oxaloacetic transaminase; AST = aspartate aminotransferase; ULN = upper limit of the normal range. |  |  |  |
 
 ## 2.9 Administration Precautions
 
@@ -187,17 +184,15 @@ Table 7: Reconstitution Volumes and Final Concentration for Intravenous and Subc
 Dose must be individualized to prevent overdosage.
 After determining patient body surface area (BSA) in square meters, use the following equations to calculate the total volume (mL) of reconstituted Bortezomib for Injection to be administered:
 
-- Intravenous Administration [1 mg/mL concentration]
+- •Intravenous Administration [1 mg/mL concentration]
 
-| Bortezomib for Injection dose (mg/m2) x patient BSA (m2) = | Total Bortezomib for Injection volume (mL) to be administered |
+| Bortezomib for Injection dose (mg/m2) x patient BSA (m2) =1 mg /mL | Total Bortezomib for Injection volume (mL) to be administered |
 | --- | --- |
-| 1 mg /mL |  |
 
-- Subcutaneous Administration [2.5 mg/mL concentration]
+- •Subcutaneous Administration [2.5 mg/mL concentration]
 
-| Bortezomib for Injection dose (mg/m2) x patient BSA (m2) = | Total Bortezomib for Injection volume (mL) to be administered |
+| Bortezomib for Injection dose (mg/m2) x patient BSA (m2) =2.5 mg⁄ mL | Total Bortezomib for Injection volume (mL) to be administered |
 | --- | --- |
-| 2.5 mg⁄ mL |  |
 
 Stickers that indicate the route of administration are provided with each Bortezomib for Injection vial.
 These stickers should be placed directly on the syringe of Bortezomib for Injection once Bortezomib for Injection is prepared to help alert practitioners of the correct route of administration for Bortezomib for Injection.

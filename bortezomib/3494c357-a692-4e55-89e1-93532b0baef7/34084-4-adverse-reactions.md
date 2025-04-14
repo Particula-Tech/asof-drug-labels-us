@@ -2,16 +2,16 @@
 
 The following clinically significant adverse reactions are also discussed in other sections of the labeling:
 
-- Peripheral Neuropathy [see Warnings and Precautions (5.1)]
-- Hypotension [see Warnings and Precautions (5.2)]
-- Cardiac Toxicity [see Warnings and Precautions (5.3)]
-- Pulmonary Toxicity [see Warnings and Precautions (5.4)]
-- Posterior Reversible Encephalopathy Syndrome (PRES) [see Warnings and Precautions (5.5)]
-- Gastrointestinal Toxicity [see Warnings and Precautions (5.6)]
-- Thrombocytopenia/Neutropenia [see Warnings and Precautions (5.7)]
-- Tumor Lysis Syndrome [see Warnings and Precautions (5.8)]
-- Hepatic Toxicity [see Warnings and Precautions (5.9)]
-- Thrombotic Microangiopathy [see Warnings and Precautions (5.10)]
+- •Peripheral Neuropathy [see Warnings and Precautions (5.1)]
+- •Hypotension [see Warnings and Precautions (5.2)]
+- •Cardiac Toxicity [see Warnings and Precautions (5.3)]
+- •Pulmonary Toxicity [see Warnings and Precautions (5.4)]
+- •Posterior Reversible Encephalopathy Syndrome (PRES) [see Warnings and Precautions (5.5)]
+- •Gastrointestinal Toxicity [see Warnings and Precautions (5.6)]
+- •Thrombocytopenia/Neutropenia [see Warnings and Precautions (5.7)]
+- •Tumor Lysis Syndrome [see Warnings and Precautions (5.8)]
+- •Hepatic Toxicity [see Warnings and Precautions (5.9)]
+- •Thrombotic Microangiopathy [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -148,8 +148,7 @@ Table 11: Most Commonly Reported Adverse Reactions (≥ 10%), with Grade 3 and �
 | Nervous System Disorders |  |  |  |  |  |  |
 | Neuralgia | 34 (23) | 5 (3) | 0 | 17 (23) | 7 (9) | 0 |
 | Peripheral neuropathies* | 55 (37) | 8 (5) | 1 (1) | 37 (50) | 10 (14) | 1 (1) |
-| Note: Safety population: 147 patients in the subcutaneous treatment group and 74 patients in the intravenous treatment group who received at least one dose of study medication |  |  |  |  |  |  |
-| * Represents High Level Term Peripheral Neuropathies NEC |  |  |  |  |  |  |
+| Note: Safety population: 147 patients in the subcutaneous treatment group and 74 patients in the intravenous treatment group who received at least one dose of study medication * Represents High Level Term Peripheral Neuropathies NEC |  |  |  |  |  |  |
 
 In general, safety data were similar for the subcutaneous and intravenous treatment groups.
 
@@ -224,8 +223,7 @@ Table 12: Most Commonly Reported Adverse Reactions (≥ 5%) with Grades 3 and �
 | Hypertension | 15 (6) | 1 (< 1) | 0 | 3(1) | 0 | 0 |
 | Psychiatric Disorders |  |  |  |  |  |  |
 | Insomnia | 16 (7) | 1 (< 1) | 0 | 8(3) | 0 | 0 |
-| Key: R-CHOP = rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; VcR-CAP = bortezomib, rituximab, cyclophosphamide, doxorubicin, and prednisone. |  |  |  |  |  |  |
-| * Represents High Level Term Peripheral Neuropathies NEC |  |  |  |  |  |  |
+| Key: R-CHOP = rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; VcR-CAP = bortezomib, rituximab, cyclophosphamide, doxorubicin, and prednisone. * Represents High Level Term Peripheral Neuropathies NEC |  |  |  |  |  |  |
 
 The incidence of herpes zoster reactivation was 4.6% in the VcR-CAP arm and 0.8% in the R-CHOP arm.
 Antiviral prophylaxis was mandated by protocol amendment.

@@ -45,12 +45,7 @@ Table 14: Summary of Efficacy Analyses in the Previously Untreated Multiple Myel
 | Median* (months) (95% CI) | Not Reached (46.2, NR) | 43.1 (34.8, NR) |
 | Hazard ratio+ (95% CI) | 0.65 (0.51, 0.84) |  |
 | p-value + | 0.00084 |  |
-| Note: All results are based on the analysis performed at a median follow-up duration of 16.3 months except for the overall survival analysis. |  |  |
-| * Kaplan-Meier estimate |  |  |
-| ✝ Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: beta2-microglobulin, albumin, and region. A hazard ratio less than one indicates an advantage for Bortezomib for Injection, melphalan and prednisone |  |  |
-| ‡ p-value based on the stratified log-rank test adjusted for stratification factors: beta2-microglobulin, albumin, and region |  |  |
-| § EBMT criteria |  |  |
-| ¶ p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors |  |  |
+| Note: All results are based on the analysis performed at a median follow-up duration of 16.3 months except for the overall survival analysis. * Kaplan-Meier estimate ✝ Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: beta2-microglobulin, albumin, and region. A hazard ratio less than one indicates an advantage for Bortezomib for Injection, melphalan and prednisone ‡ p-value based on the stratified log-rank test adjusted for stratification factors: beta2-microglobulin, albumin, and region § EBMT criteria ¶p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors |  |  |
 
 TTP was statistically significantly longer on the bortezomib, melphalan and prednisone arm (see Figure 1).
 (median follow-up 16.3 months)
@@ -124,31 +119,24 @@ Near complete response (nCR) was defined as meeting all the criteria for complet
 
 Table 16: Summary of Efficacy Analyses in the Relapsed Multiple Myeloma Study
 
-| Efficacy Endpoint | All Patients |  | 1 Prior Line of Therapy |  |  | > 1 Prior Line of Therapy |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Bortezomib | Dex | Bortezomib |  | Dex | Bortezomib |  | Dex |  |
-| n=333 | n=336 | n=132 |  | n=119 | n=200 |  | n=217 |  |
-| Time to Progression Events n (%) | 147 (44) | 196 (58) | 55 (42) |  | 64 (54) | 92 (46) |  | 132 (61) |
-| Median * (95% CI) | 6.2 mo (4.9, 6.9) | 3.5 mo (2.9, 4.2) | 7.0 mo (6.2, 8.8) |  | 5.6 mo (3.4, 6.3) | 4.9 mo (4.2, 6.3) |  | 2.9 mo (2.8, 3.5) |
-| Hazard ratio ✝ (95% CI) | 0.55 (0.44, 0.69) |  | 0.55 (0.38, 0.81) |  |  | 0.54 (0.41, 0.72) |  |  |
-| p-value ‡ | <0.0001 |  | 0.0019 |  |  | <0.0001 |  |  |
-| Overall Survival Events (deaths) n (%) | 51 (15) | 84 (25) | 12 (9) |  | 24 (20) | 39 (20) | 60 (28) |  |
-| Hazard ratio✝ (95% CI) | 0.57 (0.40, 0.81) |  | 0.39 (0.19, 0.81) |  |  | 0.65 (0.43, 0.97) |  |  |
-| p-value ‡,§ | <0.05 |  | <0.05 |  |  | <0.05 |  |  |
-| Response Rate Population ¶ n = 627 | n=315 | n=312 | n=128 | n=110 |  | n=187 | n=202 |  |
-| CR # n (%) | 20 (6) | 2 (<1) | 8 (6) | 2 (2) |  | 12 (6) | 0 (0) |  |
-| PR # n(%) | 101 (32) | 54 (17) | 49 (38) | 27 (25) |  | 52 (28) | 27 (13) |  |
-| nCR #, ♠ n(%) | 21 (7) | 3 (<1) | 8 (6) | 2 (2) |  | 13 (7) | 1 (<1) |  |
-| CR + PR # n (%) | 121 (38) | 56 (18) | 57 (45) | 29 (26) |  | 64 (34) | 27 (13) |  |
-| p-value ♥ | <0.0001 |  | 0.0035 |  |  | <0.0001 |  |  |
-| *Kaplan-Meier estimate |  |  |  |  |  |  |  |  |
-| ✝ Hazard ratio is based on Cox proportional-hazard model with the treatment as single independent variable. A hazard ratio less than one indicates an advantage for Bortezomib for Injection |  |  |  |  |  |  |  |  |
-| ‡p-value based on the stratified log-rank test including randomization stratification factors |  |  |  |  |  |  |  |  |
-| §Precise p-value cannot be rendered |  |  |  |  |  |  |  |  |
-| ¶ Response population includes patients who had measurable disease at baseline and received at least one dose of study drug |  |  |  |  |  |  |  |  |
-| # EBMT criteria; nCR meets all EBMT criteria for CR but has positive IF. Under EBMT criteria nCR is in the PR category |  |  |  |  |  |  |  |  |
-| ♠In two patients, the IF was unknown |  |  |  |  |  |  |  |  |
-| ♥ p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors |  |  |  |  |  |  |  |  |
+| Efficacy Endpoint | All Patients |  | 1 Prior Line of Therapy |  | > 1 Prior Line of Therapy |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bortezomib | Dex | Bortezomib | Dex | Bortezomib | Dex |  |  |  |  |
+| n=333 | n=336 | n=132 | n=119 | n=200 | n=217 |  |  |  |  |
+| Time to Progression Events n (%) | 147 (44) | 196 (58) | 55 (42) | 64 (54) | 92 (46) | 132 (61) |  |  |  |
+| Median * (95% CI) | 6.2 mo (4.9, 6.9) | 3.5 mo (2.9, 4.2) | 7.0 mo (6.2, 8.8) | 5.6 mo (3.4, 6.3) | 4.9 mo (4.2, 6.3) | 2.9 mo (2.8, 3.5) |  |  |  |
+| Hazard ratio ✝ (95% CI) | 0.55 (0.44, 0.69) |  | 0.55 (0.38, 0.81) |  | 0.54 (0.41, 0.72) |  |  |  |  |
+| p-value ‡ | <0.0001 |  | 0.0019 |  | <0.0001 |  |  |  |  |
+| Overall Survival Events (deaths) n (%) | 51 (15) | 84 (25) | 12 (9) | 24 (20) | 39 (20) | 60 (28) |  |  |  |
+| Hazard ratio✝ (95% CI) | 0.57 (0.40, 0.81) |  | 0.39 (0.19, 0.81) |  | 0.65 (0.43, 0.97) |  |  |  |  |
+| p-value ‡,§ | <0.05 |  | <0.05 |  | <0.05 |  |  |  |  |
+| Response Rate Population ¶ n = 627 | n=315 | n=312 | n=128 | n=110 | n=187 | n=202 |  |  |  |
+| CR # n (%) | 20 (6) | 2 (<1) | 8 (6) | 2 (2) | 12 (6) | 0 (0) |  |  |  |
+| PR # n(%) | 101 (32) | 54 (17) | 49 (38) | 27 (25) | 52 (28) | 27 (13) |  |  |  |
+| nCR #, ♠ n(%) | 21 (7) | 3 (<1) | 8 (6) | 2 (2) | 13 (7) | 1 (<1) |  |  |  |
+| CR + PR # n (%) | 121 (38) | 56 (18) | 57 (45) | 29 (26) | 64 (34) | 27 (13) |  |  |  |
+| p-value ♥ | <0.0001 |  | 0.0035 |  | <0.0001 |  |  |  |  |
+| *Kaplan-Meier estimate ✝ Hazard ratio is based on Cox proportional-hazard model with the treatment as single independent variable. A hazard ratio less than one indicates an advantage for Bortezomib for Injection ‡p-value based on the stratified log-rank test including randomization stratification factors §Precise p-value cannot be rendered ¶Response population includes patients who had measurable disease at baseline and received at least one dose of study drug #EBMT criteria; nCR meets all EBMT criteria for CR but has positive IF. Under EBMT criteria nCR is in the PR category ♠In two patients, the IF was unknown ♥ p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors |  |  |  |  |  |  |  |  |  |
 
 TTP was statistically significantly longer on the Bortezomib arm (see Figure 3).
 
@@ -264,13 +252,7 @@ Table 18: Summary of Efficacy Analyses in the Previously Untreated Mantle Cell L
 | Events n (%) | 103 (42) | 138 (57) |  |
 | Median* (months) (95% CI) | 91 (71, NE) | 56 (47, 69) |  |
 | Hazard Ratio† (95% CI) | 0.66 (0.51, 0.85) |  |  |
-| Note: All results are based on the analysis performed at a median follow-up duration of 40 months except for the overall survival analysis, which was performed at a median follow-up of 78.5 months |  |  |  |
-| CI = Confidence Interval; IPI = International Prognostic Index; LDH = Lactate dehydrogenase |  |  |  |
-| *Based on Kaplan-Meier product limit estimates. |  |  |  |
-| †Hazard ratio estimate is based on a Cox's model stratified by IPI risk and stage of disease. A hazard ratio < 1 indicates an advantage for VcR-CAP. |  |  |  |
-| ‡Based on Log rank test stratified with IPI risk and stage of disease. |  |  |  |
-| §Includes CR by independent radiographic assessment, bone marrow, and LDH using ITT population. |  |  |  |
-| ¶Includes CR + Cru + PR by independent radiographic assessment, regardless of the verification by bone marrow and LDH, using ITT population. |  |  |  |
+| Note: All results are based on the analysis performed at a median follow-up duration of 40 months except for the overall survival analysis, which was performed at a median follow-up of 78.5 months CI = Confidence Interval; IPI = International Prognostic Index; LDH = Lactate dehydrogenase *Based on Kaplan-Meier product limit estimates. †Hazard ratio estimate is based on a Cox's model stratified by IPI risk and stage of disease. A hazard ratio < 1 indicates an advantage for VcR-CAP. ‡Based on Log rank test stratified with IPI risk and stage of disease. §Includes CR by independent radiographic assessment, bone marrow, and LDH using ITT population. ¶Includes CR + Cru + PR by independent radiographic assessment, regardless of the verification by bone marrow and LDH, using ITT population. |  |  |  |
 
 Figure 5: Progression-Free Survival VcR-CAP vs R-CHOP (previously Untreated Mantle Cell Lymphoma Study)
 

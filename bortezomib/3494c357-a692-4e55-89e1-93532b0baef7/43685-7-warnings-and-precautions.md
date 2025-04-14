@@ -78,8 +78,7 @@ Table 8: Severity of Thrombocytopenia Related to Pretreatment Platelet Count in 
 | ≥ 75,000/μL | 309 | 8(3%) | 36(12%) |
 | ≥ 50,000/μL to < 75,000/μL | 14 | 2(14%) | 11(79%) |
 | ≥ 10,000/μL to < 50,000/μL | 7 | 1(14%) | 5(71%) |
-| * A baseline platelet count of 50,000/μL was required for study eligibility |  |  |  |
-| ‡ Data were missing at baseline for one patient |  |  |  |
+| * A baseline platelet count of 50,000/μL was required for study eligibility ‡ Data were missing at baseline for one patient |  |  |  |
 
 In the combination study of bortezomib with rituximab, cyclophosphamide, doxorubicin and prednisone (VcR-CAP) in previously untreated mantle cell lymphoma patients, the incidence of thrombocytopenia (≥ Grade 4) was 32% vs 1% for the rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) arm as shown in Table 12.
 The incidence of bleeding events (≥ Grade 3) was 1.7% in the VcR-CAP arm (four patients) and was 1.2% in the R-CHOP arm (three patients).
