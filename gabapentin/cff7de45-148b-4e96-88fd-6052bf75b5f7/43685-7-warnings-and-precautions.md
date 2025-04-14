@@ -22,7 +22,7 @@ Patients should be instructed to discontinue gabapentin and seek immediate medic
 
 Patients taking gabapentin should not drive until they have gained sufficient experience to assess whether gabapentin impairs their ability to drive.
 Driving performance studies conducted with a prodrug of gabapentin (gabapentin enacarbil tablet, extended-release) indicate that gabapentin may cause significant driving impairment.
-Prescribers and patients should be aware that patients' ability to assess their own driving competence, as well as their ability to assess the degree of somnolence caused by gabapentin, can be imperfect.
+Prescribers and patients should be aware that patients’ ability to assess their own driving competence, as well as their ability to assess the degree of somnolence caused by gabapentin, can be imperfect.
 The duration of driving impairment after starting therapy with gabapentin is unknown.
 Whether the impairment is related to somnolence [see Warnings and Precautions (5.4)] or other effects of gabapentin is unknown.
 
@@ -62,10 +62,11 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
-The risk did not vary substantially by age (5–100 years) in the clinical trials analyzed.
+The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
 Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
 
-TABLE 2 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+TABLE 2.
+Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
 | --- | --- | --- | --- | --- |
@@ -104,9 +105,9 @@ One placebo-treated patient (0.4%) withdrew due to emotional lability.
 
 In an oral carcinogenicity study, gabapentin increased the incidence of pancreatic acinar cell tumors in rats [see Nonclinical Toxicology (13.1)].
 The clinical significance of this finding is unknown.
-Clinical experience during gabapentin's premarketing development provides no direct means to assess its potential for inducing tumors in humans.
+Clinical experience during gabapentin’s premarketing development provides no direct means to assess its potential for inducing tumors in humans.
 
-In clinical studies in adjunctive therapy in epilepsy comprising 2,085 patient-years of exposure in patients >12 years of age, new tumors were reported in 10 patients (2 breast, 3 brain, 2 lung, 1 adrenal, 1 non-Hodgkin's lymphoma, 1 endometrial carcinoma in situ), and preexisting tumors worsened in 11 patients (9 brain, 1 breast, 1 prostate) during or up to 2 years following discontinuation of gabapentin.
+In clinical studies in adjunctive therapy in epilepsy comprising 2,085 patient-years of exposure in patients >12 years of age, new tumors were reported in 10 patients (2 breast, 3 brain, 2 lung, 1 adrenal, 1 non-Hodgkin’s lymphoma, 1 endometrial carcinoma in situ), and preexisting tumors worsened in 11 patients (9 brain, 1 breast, 1 prostate) during or up to 2 years following discontinuation of gabapentin.
 Without knowledge of the background incidence and recurrence in a similar population not treated with gabapentin, it is impossible to know whether the incidence seen in this cohort is or is not affected by treatment.
 
 ## 5.10 Sudden and Unexplained Death in Patients with Epilepsy

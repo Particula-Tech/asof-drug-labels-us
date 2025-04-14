@@ -15,7 +15,7 @@ The following serious adverse reactions are discussed in greater detail in other
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Postherpetic Neuralgia
+### Postherpetic Neuralgia
 
 The most common adverse reactions associated with the use of gabapentin in adults, not seen at an equivalent frequency among placebo-treated patients, were dizziness, somnolence, and peripheral edema.
 
@@ -27,7 +27,7 @@ Table 3 lists adverse reactions that occurred in at least 1% of gabapentin-treat
 TABLE 3.
 Adverse Reactions in Pooled Placebo-Controlled Trials in Postherpetic Neuralgia
 
-|  | Gabapentin N=336 % | Placebo N=227 % |
+|  | GabapentinN=336% | PlaceboN=227% |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 6 | 5 |
@@ -63,7 +63,7 @@ Other reactions in more than 1% of patients but equally or more frequent in the 
 There were no clinically important differences between men and women in the types and incidence of adverse reactions.
 Because there were few patients whose race was reported as other than white, there are insufficient data to support a statement regarding the distribution of adverse reactions by race.
 
-Epilepsy with Partial Onset Seizures (Adjunctive Therapy)
+### Epilepsy with Partial Onset Seizures (Adjunctive Therapy)
 
 The most common adverse reactions with gabapentin in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
 
@@ -74,25 +74,25 @@ The adverse reactions most commonly associated with withdrawal in patients >12 y
 The adverse reactions most commonly associated with withdrawal in pediatric patients were emotional lability (1.6%), hostility (1.3%), and hyperkinesia (1.1%).
 
 Table 4 lists adverse reactions that occurred in at least 1% of gabapentin-treated patients >12 years of age with epilepsy participating in placebo-controlled trials and were numerically more common in the gabapentin group.
-In these studies, either gabapentin or placebo was added to the patient's current antiepileptic drug therapy.
+In these studies, either gabapentin or placebo was added to the patient’s current antiepileptic drug therapy.
 
 TABLE 4.
-Adverse Reactions in Pooled Placebo-Controlled Add-On Trials In Epilepsy Patients >12 years of age
+Adverse Reactions in Pooled Placebo-Controlled Add-On Trials in Epilepsy Patients >12 Years of Age
 
-|  | GabapentinPlus background antiepileptic drug therapy N=543 % | Placebo N=378 % |
+|  | GabapentinPlus background antiepileptic drug therapyN=543% | PlaceboN=378% |
 | --- | --- | --- |
-| Body As A Whole |  |  |
+| Body as a Whole |  |  |
 | Fatigue | 11 | 5 |
-| Increased Weight | 3 | 2 |
-| Back Pain | 2 | 1 |
-| Peripheral Edema | 2 | 1 |
+| Increased weight | 3 | 2 |
+| Back pain | 2 | 1 |
+| Peripheral edema | 2 | 1 |
 | Cardiovascular |  |  |
 | Vasodilatation | 1 | 0 |
 | Digestive System |  |  |
 | Dyspepsia | 2 | 1 |
-| Dry Mouth or Throat | 2 | 1 |
+| Dry mouth or throat | 2 | 1 |
 | Constipation | 2 | 1 |
-| Dental Abnormalities | 2 | 0 |
+| Dental abnormalities | 2 | 0 |
 | Nervous System |  |  |
 | Somnolence | 19 | 9 |
 | Dizziness | 17 | 7 |
@@ -126,24 +126,24 @@ Table 5 lists adverse reactions that occurred in at least 2% of gabapentin-treat
 TABLE 5.
 Adverse Reactions in a Placebo-Controlled Add-On Trial in Pediatric Epilepsy Patients Age 3 to 12 Years
 
-|  | GabapentinPlus background antiepileptic drug therapy N=119 % | Placebo N=128 % |
+|  | GabapentinPlus background antiepileptic drug therapyN=119% | PlaceboN=128% |
 | --- | --- | --- |
-| Body As A Whole |  |  |
-| Viral Infection | 11 | 3 |
+| Body as a Whole |  |  |
+| Viral infection | 11 | 3 |
 | Fever | 10 | 3 |
-| Increased Weight | 3 | 1 |
+| Increased weight | 3 | 1 |
 | Fatigue | 3 | 2 |
 | Digestive System |  |  |
-| Nausea and/or Vomiting | 8 | 7 |
+| Nausea and/or vomiting | 8 | 7 |
 | Nervous System |  |  |
 | Somnolence | 8 | 5 |
 | Hostility | 8 | 2 |
-| Emotional Lability | 4 | 2 |
+| Emotional lability | 4 | 2 |
 | Dizziness | 3 | 2 |
 | Hyperkinesia | 3 | 1 |
 | Respiratory System |  |  |
 | Bronchitis | 3 | 1 |
-| Respiratory Infection | 3 | 1 |
+| Respiratory infection | 3 | 1 |
 
 Other reactions in more than 2% of pediatric patients 3 to 12 years of age but equally or more frequent in the placebo group included: pharyngitis, upper respiratory infection, headache, rhinitis, convulsions, diarrhea, anorexia, coughing, and otitis media.
 
@@ -152,21 +152,21 @@ Other reactions in more than 2% of pediatric patients 3 to 12 years of age but e
 The following adverse reactions have been identified during postmarketing use of gabapentin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hepatobiliary disorders: jaundice
+Hepatobiliary Disorders: jaundice
 
 Investigations: elevated creatine kinase, elevated liver function tests
 
-Metabolism and nutrition disorders: hyponatremia
+Metabolism and Nutrition Disorders: hyponatremia
 
-Musculoskeletal and connective tissue disorder: rhabdomyolysis
+Musculoskeletal and Connective Tissue Disorder: rhabdomyolysis
 
-Nervous system disorders: movement disorder
+Nervous System Disorders: movement disorder
 
-Psychiatric disorders: agitation
+Psychiatric Disorders: agitation
 
-Reproductive system and breast disorders: breast enlargement, changes in libido, ejaculation disorders and anorgasmia
+Reproductive System and Breast Disorders: breast enlargement, changes in libido, ejaculation disorders and anorgasmia
 
-Skin and subcutaneous tissue disorders: angioedema [see Warnings and Precautions (5.2)], bullous pemphigoid, erythema multiforme, Stevens-Johnson syndrome.
+Skin and Subcutaneous Tissue Disorders: angioedema [see Warnings and Precautions (5.2)], bullous pemphigoid, erythema multiforme, Stevens-Johnson syndrome.
 
 There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking gabapentin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment [see Warnings and Precautions (5.7)].
 

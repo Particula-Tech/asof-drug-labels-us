@@ -5,8 +5,6 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Administration Information
 
 Inform patients that gabapentin is taken orally with or without food.
-Inform patients that, should they divide the scored 600 mg or 800 mg tablet in order to administer a half-tablet, they should take the unused half-tablet as the next dose.
-Advise patients to discard half-tablets not used within 28 days of dividing the scored tablet.
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
 
@@ -20,7 +18,7 @@ Dizziness and Somnolence and Effects on Driving and Operating Heavy Machinery
 
 Advise patients that gabapentin may cause dizziness, somnolence, and other symptoms and signs of CNS depression.
 Other drugs with sedative properties may increase these symptoms.
-Accordingly, although patients' ability to determine their level of impairment can be unreliable, advise them neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on gabapentin to gauge whether or not it affects their mental and/or motor performance adversely.
+Accordingly, although patients’ ability to determine their level of impairment can be unreliable, advise them neither to drive a car nor to operate other complex machinery until they have gained sufficient experience on gabapentin to gauge whether or not it affects their mental and/or motor performance adversely.
 Inform patients that it is not known how long this effect lasts [see Warnings and Precautions (5.3) and Warnings and Precautions (5.4)].
 
 Suicidal Thinking and Behavior
@@ -41,4 +39,12 @@ Instruct patients to notify their physician if they become pregnant or intend to
 
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
+To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
+
+GREENSTONE® BRAND Distributed by: Greenstone LLC Morgantown, WV 26505 U.S.A.
+
+© 2025 Viatris Inc.
+
+The brands listed are trademarks of their respective owners.
+
+GST:GABA:R1
