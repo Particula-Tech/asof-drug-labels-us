@@ -57,19 +57,21 @@ Advise patients to notify their physicians if they are taking, or plan to take, 
 
 Pregnancy
 
+Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADZENYS XR-ODT during pregnancy.
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with ADZENYS XR-ODT.
-Advise patients of the potential fetal effects from the use of ADZENYS XR-ODT during pregnancy [see Use in Specific Populations (8.1)].
+Advise patients of the potential fetal effects from the use of ADZENYS XR-ODT during pregnancy.
+[seeUse in Specific Populations (8.1)].
 
-Nursing
+Lactation
 
-Advise patients not to breastfeed if they are taking ADZENYS XR-ODT [see Use in Specific Populations (8.3)].
+Advise patients not to breastfeed if they are taking ADZENYS XR-ODT [see Use in Specific Populations (8.2)].
 
 Alcohol
 
 Advise patients to avoid alcohol while taking ADZENYS XR-ODT.
 Consumption of alcohol while taking ADZENYS XR-ODT may result in a more rapid release of the dose of amphetamine [see Clinical Pharmacology (12)].
 
-Manufactured for Neos Therapeutics Brands, LLC., Grand Prairie, TX 75050.
+Manufactured for Neos Therapeutics Brands, LLC., Denver, CO 80237.
 Made in USA.
 
 For more information call 1-888-319-1789.
