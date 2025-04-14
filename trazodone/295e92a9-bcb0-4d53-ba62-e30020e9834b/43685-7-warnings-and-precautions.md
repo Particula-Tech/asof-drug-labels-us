@@ -10,7 +10,7 @@ There were suicides in the adult studies, but the number was not sufficient to r
 
 Table 1: Risk Differences of the Number of Cases of Suicidal Thoughts or Behaviors in the Pooled Placebo-Controlled
 
-| Age Range (years) | Drug-Placebo Differencein Number of Patients of Suicidal Thoughts or Behaviors per 1000 Patients Treated |
+| Age Range (years) | Drug-Placebo Difference in Number of Patients of Suicidal Thoughts or Behaviors per 1000 Patients Treated |
 | --- | --- |
 |  | Increases Compared to Placebo |
 | <18 | 14 additional patients |

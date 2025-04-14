@@ -18,7 +18,7 @@ Patients should contact their health care provider or report to the emergency ro
 
 Activation of Mania/Hypomania
 
-Advise patients and their caregivers to observe for signs of activation of mania/hypomania and instruct them to report such symptoms to the healthcare provider [seeWarnings and Precautions (5.7)].
+Advise patients and their caregivers to observe for signs of activation of mania/hypomania and instruct them to report such symptoms to the healthcare provider [see Warnings and Precautions (5.7)].
 
 Increased Risk of Bleeding
 
@@ -41,4 +41,4 @@ Advise patients that there is a pregnancy exposure registry that monitors pregna
 
 Dispense with Medication Guide available at www.aurobindousa.com/medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 05/2023 Dispense with Medication Guide available at www.aurobindousa.com/medication-guides
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 04/2025 Dispense with Medication Guide available at www.aurobindousa.com/medication-guides

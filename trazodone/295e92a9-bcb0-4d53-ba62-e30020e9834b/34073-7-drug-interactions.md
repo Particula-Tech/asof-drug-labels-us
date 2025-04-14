@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Drugs Having Clinically Important Interactions with Trazodone Hydrochloride Tablets
+## 7.1 Drugs Having Clinically Important Interactions With Trazodone Hydrochloride Tablets
 
 Table 3: Clinically Important Drug Interactions with Trazodone Hydrochloride Tablets
 
