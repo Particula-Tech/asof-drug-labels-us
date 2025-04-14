@@ -37,7 +37,7 @@ Effects on the Immune System Opioids have been shown to have a variety of effect
 The clinical significance of these findings is unknown.
 Overall, the effects of opioids appear to be modestly immunosuppressive.
 
-Concentration-Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent opioid agonists.
+Concentration-Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of hydromorphone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.6)].
 
 Concentration-Adverse Reaction Relationships There is a relationship between increasing hydromorphone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
@@ -50,9 +50,9 @@ Hydromorphone is rapidly absorbed from the gastrointestinal tract after oral adm
 Exposure of hydromorphone (Cmax and AUC0-24) is dose-proportional at a dose range of 2 and 8 mg.
 In vivo bioavailability following single-dose administration of the 8 mg tablet is approximately 24% (coefficient of variation 21%).
 
-After oral administration of hydromorphone hydrochloride tablets, peak plasma hydromorphone concentrations are generally attained within ½ to 1 hour.
+After oral administration of hydromorphone hydrochloride tablets, peak plasma hydromorphone concentrations are generally attained within &frac12; to 1 hour.
 
-| Dosage Form | Cmax (ng) | Tmax (hrs) | AUC (ng*hr/mL) | T½ (hrs) |
+| Dosage Form | Cmax (ng) | Tmax (hrs) | AUC (ng*hr/mL) | T&frac12; (hrs) |
 | --- | --- | --- | --- | --- |
 | Mean (%cv) |  |  |  |  |
 | 8 mg Tablet | 5.5 (33%) | 0.74 (34%) | 23.7 (28%) | 2.6 (18%) |

@@ -79,11 +79,11 @@ It is not known whether these effects on fertility are reversible [see Use in Sp
 
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-© 2023 Mallinckrodt.
+© 2025 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Issued 12/2023
+Issued 03/2025
 
 Mallinckrodt™ Pharmaceuticals
 

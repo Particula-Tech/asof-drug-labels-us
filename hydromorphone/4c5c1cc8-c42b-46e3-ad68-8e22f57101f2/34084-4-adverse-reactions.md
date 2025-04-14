@@ -4,7 +4,7 @@ The following serious adverse reactions are described, or described in greater d
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.2)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.3)]
-- Interactions with Benzodiazepines or Other CNS Depressants [see Warnings and Precautions (5.4)]
+- Interactions with Benzodiazepines or Other CNS Depressants[see Warnings and Precautions (5.4)]
 - Neonatal Opioid Withdrawal Syndrome [see Warnings and Precautions (5.5)]
 - Opioid-Induced Hyperalgesia and Allodynia [see Warnings and Precautions (5.7)]
 - Adrenal Insufficiency [see Warnings and Precautions (5.9)]

@@ -1,3 +1,5 @@
+# WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OF HYDROMORPHONE HYDROCHLORIDE TABLETS
+
 WARNING: SERIOUS AND LIFE-THREATENING RISKS FROM USE OF HYDROMORPHONE HYDROCHLORIDE TABLETS
 
 Addiction, Abuse, and Misuse Because the use of hydromorphone hydrochloride tablets expose patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.2)].
