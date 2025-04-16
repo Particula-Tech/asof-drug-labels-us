@@ -42,13 +42,11 @@ Disposing of buprenorphine sublingual tablets:
 
 If you need help with disposal of buprenorphine sublingual tablets, call 1-888-838-2872.
 
+Manufactured In Czech Republic By: Teva Czech Industries s.r.o.
+Opava-Komarov, Czech Republic
+
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
+
 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.
-
-Manufactured For:
-
-Teva Pharmaceuticals
-
-Parsippany, NJ 07054
-
 Rev.
-E 1/2024
+A 7/2024

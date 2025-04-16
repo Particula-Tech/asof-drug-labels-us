@@ -75,7 +75,10 @@ If naloxone is prescribed, also advise patients and caregivers:
 
 Dispense with Medication Guide available at: www.tevausa.com/medguides
 
+Manufactured In Czech Republic By: Teva Czech Industries s.r.o.
+Opava-Komarov, Czech Republic
+
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-J 1/2024
+A 7/2024
