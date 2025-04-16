@@ -162,7 +162,7 @@ Table 5 below provides a summary of the observed cyclosporine whole blood trough
 Table 5.
 Cyclosporine Trough Concentrations Over 12 Months Posttransplant – Kidney Study Median Values (ng/mL) with 10th and 90th Percentiles
 
-| Treatment Group | Visit | N | Target (ng/mL) | Median | 10th percentile | 90th percentile |
+| Treatment Group | Visit | N | Target (ng/mL) | Median | 10th Percentile | 90th Percentile |
 | --- | --- | --- | --- | --- | --- | --- |
 | Everolimus 0.75 mg twice daily | Day 3 | 242 | 100 to 200 | 172 | 46 | 388 |
 | Day 7 | 265 | 100 to 200 | 185 | 75 | 337 |  |
@@ -187,7 +187,7 @@ Table 6 below provides a summary of the tacrolimus whole blood trough concentrat
 Table 6.
 Tacrolimus Trough Concentrations Over 24 Months Posttransplant – Liver Study Median Values (ng/mL) with 10th and 90th Percentiles
 
-| Treatment Group | Visit | N | Target (ng/mL) | Median | 10th percentile | 90th percentile |
+| Treatment Group | Visit | N | Target (ng/mL) | Median | 10th Percentile | 90th Percentile |
 | --- | --- | --- | --- | --- | --- | --- |
 | Pre-dose group Everolimus 1 mg twice daily (initiated at Month 1) | Week 4 | 234 | 3 to 5 | 9.5 | 5.8 | 14.6 |
 | Week 5 | 219 | 3 to 5 | 8.1 | 4.5 | 13.8 |  |

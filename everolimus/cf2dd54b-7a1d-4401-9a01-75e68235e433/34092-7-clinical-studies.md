@@ -22,7 +22,7 @@ Efficacy Failure by Treatment Group (ITT Population) at 12 Months After Kidney T
 
 |  | Everolimus 1.5 mg per day with reduced exposure CsA N=277 n (%) | Mycophenolic acid 1.44 g per day with standard exposure CsA N=277 n (%) |
 | --- | --- | --- |
-| Efficacy endpoints1 |  |  |
+| Efficacy Endpoints1 |  |  |
 | Efficacy failure endpoint2 | 70 (25.3) | 67 (24.2) |
 | Treated biopsy proven acute rejection | 45 (16.2) | 47 (17.0) |
 | Death | 7 (2.5) | 6 (2.2) |
@@ -68,7 +68,7 @@ The study population consisted of 18- to 70-year-old male and female liver trans
 Key stratification parameters of HCV status (31% to 32% HCV positive across groups) and renal function (mean baseline eGFR range 79 to 83 mL/min/1.73 m2) were also balanced between groups.
 
 A total of 1,147 patients were enrolled into the run-in period of this trial.
-At 30 days posttransplant, a total 719 patients, who were eligible according to study inclusion/exclusion criteria, were randomized into 1 of 3 treatment groups: everolimus with reduced exposure tacrolimus; N = 245, everolimus with tacrolimus elimination (tacrolimus elimination group); N = 231, or standard dose/exposure tacrolimus (tacrolimus control); N = 243.
+At 30 days posttransplant, a total 719 patients, who were eligible according to study inclusion/exclusion criteria, were randomized into 1 of 3 treatment groups: everolimus with reduced exposure tacrolimus; N=245, everolimus with tacrolimus elimination (tacrolimus elimination group); N=231, or standard dose/exposure tacrolimus (tacrolimus control); N=243.
 The study was conducted at 89 liver transplant centers across Europe, including the United Kingdom and Ireland, North and South America, and Australia.
 
 Key inclusion criteria were recipients 18 to 70 years of age, eGFR greater or equal to 30 mL/min/1.73 m2, tacrolimus trough level of greater or equal to 8 ng/mL in the week prior to randomization, and the ability to take oral medication.
@@ -118,10 +118,10 @@ Estimated Glomerular Filtration Rates (mL/min/1.73 m2) by MDRD at 12 and 24 Mont
 
 | eGFR (MDRD) | Everolimus with reduced exposure tacrolimus | Tacrolimus standard exposure |
 | --- | --- | --- |
-| Month 12 | N = 215 | N = 209 |
+| Month 12 | N=215 | N=209 |
 | Mean (SD) | 80.9 (27.3) | 70.3 (23.1) |
 | Median (range) | 78.3 (28.4 to 153.1) | 66.4 (27.9 to 155.8) |
-| Month 24 | N = 184 | N = 186 |
+| Month 24 | N=184 | N=186 |
 | Mean (SD) | 74.7 (26.1) | 67.8 (21.0) |
 | Median (range) | 72.9 (20.3 to 151.6) | 65.2 (27.0 to 148.9) |
 | Abbreviations: eGFR, Estimated Glomerular Filtration Rates; MDRD, Modification Of Diet In Renal Disease; SD, standard deviation. |  |  |

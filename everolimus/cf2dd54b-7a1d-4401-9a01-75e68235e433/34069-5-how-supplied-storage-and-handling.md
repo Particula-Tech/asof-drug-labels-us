@@ -20,7 +20,6 @@ NDC 0054-0604-21: Bottles of 60 Tablets
 
 Storage
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [See USP Controlled Room Temperature].
 
 Protect from light and moisture.

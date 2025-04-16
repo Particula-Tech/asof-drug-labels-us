@@ -91,9 +91,9 @@ Table 2 compares the incidence of treatment-emergent adverse reactions reported 
 Within each MedDRA system organ class, the adverse reactions are presented in order of decreasing frequency.
 
 Table 2.
-Incidence Rates of Frequent (Greater Than or Equal to 10% in Any Treatment Group) Adverse Reactions (Safety Population*)
+Incidence Rates of Frequent (Greater Than or Equal to 10% in any Treatment Group) Adverse Reactions (Safety Population*)
 
-| Adverse reactions | Everolimus 1.5 mg with reduced exposure cyclosporine N=274 n (%) | Mycophenolic acid 1.44 g with standard exposure cyclosporine N=273 n (%) |
+| Adverse Reactions | Everolimus 1.5 mg with reduced exposure cyclosporine N=274 n (%) | Mycophenolic acid 1.44 g with standard exposure cyclosporine N=273 n (%) |
 | --- | --- | --- |
 | Any adverse reactions* | 271 (99) | 270 (99) |
 | Blood lymphatic system disorders | 93 (34) | 111 (41) |
@@ -214,7 +214,7 @@ Within each MedDRA system organ class, the adverse reactions are presented in or
 
 | Table 3. Incidence Rates of Most Frequent (Greater Than or Equal to 10% in Any Treatment Group) Adverse Reactions at 12 Months and 24 Months After Liver Transplantation (Safety Population*) |  |  |  |  |
 | --- | --- | --- | --- | --- |
-| Adverse reactions | 12 months |  | 24 months |  |
+| Adverse Reactions | 12 months |  | 24 months |  |
 | Everolimus with reduced exposure tacrolimus N=245 n (%) | Tacrolimus standard exposure N=241 n (%) | Everolimus with reduced exposure tacrolimusN=245n (%) | Tacrolimus standard exposure N=242n (%) |  |
 | Any adverse reaction/infection | 232 (95) | 229 (95) | 236 (96) | 237 (98) |
 | Blood & lymphatic system disorders | 66 (27) | 47 (20) | 79 (32) | 58 (24) |
@@ -223,7 +223,7 @@ Within each MedDRA system organ class, the adverse reactions are presented in or
 | Diarrhea | 47 (19) | 50 (21) | 59 (24) | 61 (25) |
 | Nausea | 33 (14) | 28 (12) | 36 (15) | 33 (14) |
 | Abdominal pain | 32 (13) | 22 (9) | 37 (15) | 31(13) |
-| General disorders and administration site conditions | 94 (38) | 85 (35) | 113 (46) | 98 (41) |
+| General disorders and administration-site conditions | 94 (38) | 85 (35) | 113 (46) | 98 (41) |
 | Peripheral edema | 43 (18) | 26 (11) | 49 (20) | 31 (13) |
 | Pyrexia | 32 (13) | 25 (10) | 43 (18) | 28 (12) |
 | Fatigue | 22 (9) | 26 (11) | 27 (11) | 28 (12) |
@@ -260,7 +260,7 @@ General Disorders and Administrative Site Conditions:chest discomfort, chest pai
 
 Hepatobiliary Disorders:hepatic enzyme increased, bile duct stenosis, bilirubin increased, cholangitis, cholestasis, hepatitis (non-infectious)
 
-Infections and Infestations:BK virus infection [see Warnings and Precautions (5.13)], bacteremia, bronchitis, candidiasis, cellulitis, CMV, folliculitis, gastroenteritis, herpes infections, influenza, lower respiratory tract, nasopharyngitis, onychomycosis, oral candidiasis, oral herpes, osteomyelitis, pneumonia, pyelonephritis, sepsis, sinusitis, tinea pedis, upper respiratory tract infection, urethritis, urinary tract infection, wound infection [see Boxed Warning, Warnings and Precautions (5.3)]
+Infections and Infestations:BK virus infection [see Warnings and Precautions (5.13)], bacteremia, bronchitis, candidiasis, cellulitis, CMV, folliculitis, gastroenteritis, herpes infections, influenza, lower respiratory tract, nasopharyngitis, onychomycosis, oral candidiasis, oral herpes, osteomyelitis, pneumonia, pyelonephritis, sepsis, sinusitis, tinea pedis, upper respiratory tract infection, urethritis, urinary tract infection, wound infection [see Boxed Warning, Warnings and Precautions (5.3).
 
 Injury Poisoning and Procedural Complications:incision site complications, including infections, perinephric collection, seroma, wound dehiscence, incisional hernia, perinephric hematoma, localized intra-abdominal fluid collection, impaired healing, lymophocele, lymphorrhea
 
