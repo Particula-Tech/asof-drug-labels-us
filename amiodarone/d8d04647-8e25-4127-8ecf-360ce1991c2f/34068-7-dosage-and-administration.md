@@ -108,5 +108,4 @@ Table 4: RECOMMENDATIONS FOR ORAL DOSAGE AFTER INTRAVENOUS INFUSION
 | < 1 week | 800-1600 mg |
 | 1-3 weeks | 600-800 mg |
 | > 3 weeks* | 400 mg |
-| # Assuming a 720 mg/day infusion (0.5 mg/min). |  |
-| * Intravenous amiodarone is not intended for maintenance treatment. |  |
+| # Assuming a 720 mg/day infusion (0.5 mg/min). * Intravenous amiodarone is not intended for maintenance treatment. |  |

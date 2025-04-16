@@ -10,13 +10,13 @@ Amiodarone and desethylamiodarone cross the placenta.
 
 Reported risks include:
 
-- neonatal bradycardia, QT prolongation, and periodic ventricular extrasystoles
-- neonatal hypothyroidism (with or without goiter) detected antenatally or in the newborn and reported even after a few days of exposure
-- neonatal hyperthyroxinemia
-- neurodevelopmental abnormalities independent of thyroid function, including speech delay and difficulties with written language and arithmetic, delayed motor development, and ataxia.
-- jerk nystagmus with synchronous head titubation
-- fetal growth retardation
-- premature birth
+- •neonatal bradycardia, QT prolongation, and periodic ventricular extrasystoles
+- •neonatal hypothyroidism (with or without goiter) detected antenatally or in the newborn and reported even after a few days of exposure
+- •neonatal hyperthyroxinemia
+- •neurodevelopmental abnormalities independent of thyroid function, including speech delay and difficulties with written language and arithmetic, delayed motor development, and ataxia.
+- •jerk nystagmus with synchronous head titubation
+- •fetal growth retardation
+- •premature birth
 
 Amiodarone has caused a variety of adverse effects in animals.
 

@@ -6,4 +6,4 @@ Recommend that patients avoid grapefruit juice, over-the-counter cough medicines
 Inform patients that most manufacturers of corneal refractive laser surgery devices contraindicate corneal refractive laser surgery in patients taking amiodarone.
 Discuss the symptoms of hypo- and hyper-thyroidism, particularly if patients will be transitioned to oral amiodarone.
 
-Lake Zurich, IL 60047 www.fresenius-kabi.com/us 45887J Revised: May 2020
+Lake Zurich, IL 60047 www.fresenius-kabi.com/us 45887K Revised: August 2024

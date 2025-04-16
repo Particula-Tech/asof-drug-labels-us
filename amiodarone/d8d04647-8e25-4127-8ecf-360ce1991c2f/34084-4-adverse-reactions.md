@@ -2,12 +2,12 @@
 
 The following adverse reactions are described elsewhere in labeling:
 
-- Hypotension [see Warnings and Precautions (5.1)]
-- Hepatic injury [see Warnings and Precautions (5.3)]
-- Rhythm disturbances [see Warnings and Precautions (5.4)]
-- Pulmonary injury [see Warnings and Precautions (5.5)]
-- Thyroid injury [see Warnings and Precautions (5.7)]
-- Hypersensitivity [see Warnings and Precautions (5.11)]
+- •Hypotension [see Warnings and Precautions (5.1)]
+- •Hepatic injury [see Warnings and Precautions (5.3)]
+- •Rhythm disturbances [see Warnings and Precautions (5.4)]
+- •Pulmonary injury [see Warnings and Precautions (5.5)]
+- •Thyroid injury [see Warnings and Precautions (5.7)]
+- •Hypersensitivity [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
