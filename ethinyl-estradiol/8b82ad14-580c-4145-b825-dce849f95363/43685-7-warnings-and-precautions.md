@@ -28,11 +28,7 @@ The risk is very low under the age of 30.
 Smoking in combination with oral contraceptive use has been shown to contribute substantially to the incidence of myocardial infarctions in women in their mid-thirties or older with smoking accounting for the majority of excess cases (17).
 Mortality rates associated with circulatory disease have been shown to increase substantially in smokers over the age of 35 and non-smokers over the age of 40 (Table II) among women who use oral contraceptives.
 
-TABLE II
-
-CIRCULATORY DISEASE MORTALITY RATES PER 100,000 WOMAN
-
-YEARS BY AGE, SMOKING STATUS AND ORAL CONTRACEPTIVE USE
+TABLE II CIRCULATORY DISEASE MORTALITY RATES PER 100,000 WOMAN YEARS BY AGE, SMOKING STATUS AND ORAL CONTRACEPTIVE USE
 
 Adapted from P.M.
 Layde and V. Beral, Reference 18.
@@ -46,7 +42,7 @@ Oral contraceptives must be used with caution in women with cardiovascular disea
 ### b. Thromboembolism
 
 An increased risk of thromboembolic and thrombotic disease associated with the use of oral contraceptives is well established.
-Case control studies have found the relative risk of users compared to non-users to be 3 for the first episode of superficial venous thrombosis, 4 to 11 for deep vein thrombosis or pulmonary embolism, and 1.5 to 6 for women with predisposing conditions for venous thromboembolic disease (9,10,25-30).
+Case control studies have found the relative risk of users compared to non-users to be 3 for the first episode of superficial venous thrombosis, 4 to 11 for deep vein thrombosis or pulmonary embolism, and 1.5 to 6 for women with predisposing conditions for venous thromboembolic disease (9, 10, 25-30).
 Cohort studies have shown the relative risk to be somewhat lower, about 3 for new cases and about 4.5 for new cases requiring hospitalization (31).
 The risk of thromboembolic disease due to oral contraceptives is not related to length of use and disappears after pill use is stopped (8).
 
@@ -135,8 +131,6 @@ Rupture of rare, benign, hepatic adenomas may cause death through intra-abdomina
 
 Studies from Britain have shown an increased risk of developing hepatocellular carcinoma (49-51) in long-term (greater than 8 years) oral contraceptive users.
 However, these cancers are extremely rare in the U.S., and the attributable risk (the excess incidence) of liver cancers in oral contraceptive users approaches less than one per million users.
-
-.
 
 ## 5. Risk of Liver Enzyme Elevations with Concomitant Hepatitis C Treatment
 
@@ -254,9 +248,9 @@ Troglitazone: Administration of troglitazone with an oral contraceptive containi
 Antibiotics: Pregnancy while taking oral contraceptives has been reported when the oral contraceptives were administered with antimicrobials such as ampicillin, tetracycline, and griseofulvin.
 However, clinical pharmacokinetic studies have not demonstrated any consistent effect of antibiotics (other than rifampin) on plasma concentrations of synthetic steroids.
 
-Atorvastatin: Coadministratrion of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol by approximately 30% and 20%, respectively.
+Atorvastatin: Coadministration of atorvastatin and an oral contraceptive increased AUC values for norethindrone and ethinyl estradiol by approximately 30% and 20%, respectively.
 
-Concomitant Use with HCV Combination Therapy– Liver Enzyme Elevation Coadministration of Junel with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir is contraindicated due to potential for ALT elevations (see Warnings,RISK OF LIVER ENZYME ELEVATIONS WITH CONCOMITANT HEPATITIS C TREATMENT).
+Concomitant Use with HCV Combination Therapy – Liver Enzyme Elevation Coadministration of Junel with HCV drug combinations containing ombitasvir/paritaprevir/ritonavir, with or without dasabuvir is contraindicated due to potential for ALT elevations (see Warnings, RISK OF LIVER ENZYME ELEVATIONS WITH CONCOMITANT HEPATITIS C TREATMENT).
 Coadministration of Junel and glecaprevir/pibrentasvir is not recommended due to potential for ALT elevations.
 
 Other: Ascorbic acid and acetaminophen may increase plasma ethinyl estradiol concentrations, possibly by inhibition of conjugation.
@@ -273,15 +267,21 @@ Decreased plasma concentrations of acetaminophen and increased clearance of tema
 
 Certain endocrine and liver function tests and blood components may be affected by oral contraceptives:
 
-1. Increased prothrombin and factors VII, VIII, IX, and X; decreased antithrombin 3; increased norepinephrine-induced platelet aggregability.
-2. Increased thyroid binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 by column or by radioimmunoassay.
-   Free T3 resin uptake is decreased, reflecting the elevated TBG; free T4 concentration is unaltered.
-3. Other binding proteins may be elevated in serum.
-4. Sex-binding globulins are increased and result in elevated levels of total circulating sex steroids and corticoids; however, free or biologically active levels remain unchanged.
-5. Triglycerides may be increased.
-6. Glucose tolerance may be decreased.
-7. Serum folate levels may be depressed by oral contraceptive therapy.
-   This may be of clinical significance if a woman becomes pregnant shortly after discontinuing oral contraceptives.
+a. Increased prothrombin and factors VII, VIII, IX, and X; decreased antithrombin 3; increased norepinephrine-induced platelet aggregability.
+
+b. Increased thyroid binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 by column or by radioimmunoassay.
+Free T3 resin uptake is decreased, reflecting the elevated TBG; free T4 concentration is unaltered.
+
+c. Other binding proteins may be elevated in serum.
+
+d. Sex-binding globulins are increased and result in elevated levels of total circulating sex steroids and corticoids; however, free or biologically active levels remain unchanged.
+
+e. Triglycerides may be increased.
+
+f. Glucose tolerance may be decreased.
+
+g. Serum folate levels may be depressed by oral contraceptive therapy.
+This may be of clinical significance if a woman becomes pregnant shortly after discontinuing oral contraceptives.
 
 ## 9. Carcinogenesis
 

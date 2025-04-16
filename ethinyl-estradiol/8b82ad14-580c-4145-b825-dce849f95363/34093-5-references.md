@@ -9,7 +9,7 @@
    An investigation of the pharmacokinetics of ethinyl estradiol in women using radioimmunoassay.
    Contraception 1979; 20:263-273.
 4. Hammond GL, Lähteenmäki PLA, Lähteenmäki P and Luukkainen T. Distribution and percentages of non-protein bound contraceptive steroids in human serum.
-   J Steriod Biochem 1982;17:375-380.
+   J Steroid Biochem 1982;17:375-380.
 5. Fotherby K. Pharmacokinetics and metabolism of progestins in humans, in Pharmacology of the contraceptive steroids, Goldzieher JW, Fotherby K (eds), Raven Press, Ltd., New York, 1994; 99-126.
 6. Goldzieher JW.
    Pharmacokinetics and metabolism of ethinyl estrogens, in Pharmacology of the contraceptive steroids, Goldzieher JW, Fotherby K (eds), Raven Press Ltd., New York, 1994; 127-151.
@@ -199,8 +199,8 @@
 54. Janerich, D.T., J.M.
     Piper, and D.M.
     Glebatis: Oral contraceptives and birth defects.
-    Am.J.
-    Epidemiology, 112:73-79, 1980.
+    Am.
+    J. Epidemiology, 112:73-79, 1980.
 55. Ferencz, C., G.M.
     Matanoski, P.D.
     Wilson, J.D.
@@ -302,7 +302,7 @@
     Forrest, and R. Lincoln: Making Choices: Evaluating the health risks and benefits of birth control methods.
     New York, The Alan Guttmacher Institute, p.1, 1983.
 
-Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-D 8/2023
+E 2/2025

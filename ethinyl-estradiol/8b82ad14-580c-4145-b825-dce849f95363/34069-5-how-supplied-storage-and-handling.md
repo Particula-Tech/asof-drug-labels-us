@@ -20,4 +20,4 @@ Each brown tablet contains 75 mg ferrous fumarate.
 The ferrous fumarate tablets are present to facilitate ease of drug administration via a 28-day regimen, are non-hormonal, and do not serve any therapeutic purpose.
 (NDC 0555-9028-58).
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].

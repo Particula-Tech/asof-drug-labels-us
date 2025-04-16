@@ -14,24 +14,25 @@ The possibility of ovulation and conception prior to initiation of use should be
 ## Dosage and Administration for 21-Day Dosage Regimen
 
 To achieve maximum contraceptive effectiveness, Junel 21 must be taken exactly as directed and at intervals not exceeding 24 hours.
-Junel 21 provides the patient with a convenient tablet schedule of “3 weeks on --1 week off”.
+Junel 21 provides the patient with a convenient tablet schedule of “3 weeks on - 1 week off”.
 Two dosage regimens are described, one of which may be more convenient or suitable than the other for an individual patient.
 For the initial cycle of therapy, the patient begins her tablets according to the Day-1 Start or Sunday-Start regimen.
 With either regimen, the patient takes one tablet daily for 21 consecutive days followed by one week of no tablets.
 
-1. Sunday-Start Regimen: The patient begins taking tablets from the top row on the first Sunday after menstrual flow begins.
-   When menstrual flow begins on Sunday, the first tablet is taken on the same day.
-   The last tablet in the dispenser will then be taken on a Saturday, followed by no tablets for a week (7 days).
-   For all subsequent cycles, the patient then begins a new 21-tablet regimen on the eighth day, Sunday, after taking her last tablet.
-   Following this regimen, of 21 days on--7 days off, the patient will start all subsequent cycles on a Sunday.
-2. Day-1 Regimen: The first day of menstrual flow is Day 1.
-   The patient places the self-adhesive day label strip that corresponds to her starting day over the preprinted days on the tablet dispenser.
-   She starts taking one tablet daily, beginning with the first tablet in the top row.
-   The patient completes her 21-tablet regimen when she has taken the last tablet in the tablet dispenser.
-   She will then take no tablets for a week (7 days).
-   For all subsequent cycles, the patient begins a new 21-tablet regimen on the eighth day after taking her last tablet, again starting with the first tablet in the top row after placing the appropriate day label strip over the preprinted days on the tablet dispenser.
-   Following this regimen of 21 days on - 7 days off, the patient will start all subsequent cycles on the same day of the week as the first course.
-   Likewise, the interval of no tablets will always start on the same day of the week.
+A. Sunday-Start Regimen: The patient begins taking tablets from the top row on the first Sunday after menstrual flow begins.
+When menstrual flow begins on Sunday, the first tablet is taken on the same day.
+The last tablet in the dispenser will then be taken on a Saturday, followed by no tablets for a week (7 days).
+For all subsequent cycles, the patient then begins a new 21-tablet regimen on the eighth day, Sunday, after taking her last tablet.
+Following this regimen, of 21 days on - 7 days off, the patient will start all subsequent cycles on a Sunday.
+
+B. Day-1 Regimen: The first day of menstrual flow is Day 1.
+The patient places the self-adhesive day label strip that corresponds to her starting day over the preprinted days on the tablet dispenser.
+She starts taking one tablet daily, beginning with the first tablet in the top row.
+The patient completes her 21-tablet regimen when she has taken the last tablet in the tablet dispenser.
+She will then take no tablets for a week (7 days).
+For all subsequent cycles, the patient begins a new 21-tablet regimen on the eighth day after taking her last tablet, again starting with the first tablet in the top row after placing the appropriate day label strip over the preprinted days on the tablet dispenser.
+Following this regimen of 21 days on - 7 days off, the patient will start all subsequent cycles on the same day of the week as the first course.
+Likewise, the interval of no tablets will always start on the same day of the week.
 
 Tablets should be taken regularly with a meal or at bedtime.
 It should be stressed that efficacy of medication depends on strict adherence to the dosage schedule.
@@ -69,7 +70,7 @@ Day-1 Start Regimen:
 - start new pack of tablets that same day
 - use another birth control method for seven days following the missed tablets
 
-Three(or more) consecutive tablets are missed
+Three (or more) consecutive tablets are missed
 
 Sunday-Start Regimen:
 
@@ -99,21 +100,22 @@ Junel Fe provides a continuous administration regimen consisting of 21 light yel
 The ferrous fumarate tablets are present to facilitate ease of drug administration via a 28-day regimen and do not serve any therapeutic purpose.
 There is no need for the patient to count days between cycles because there are no “off-tablet days.”
 
-1. Sunday-Start Regimen: The patient begins taking the first light yellow or pink tablet from the top row of the dispenser (labeled Sunday) on the first Sunday after menstrual flow begins.
-   When the menstrual flow begins on Sunday, the first light yellow or pink tablet is taken on the same day.
-   The patient takes one light yellow or pink tablet daily for 21 days.
-   The last light yellow or pink tablet in the dispenser will be taken on a Saturday.
-   Upon completion of all 21 light yellow or pink tablets, and without interruption, the patient takes one brown tablet daily for 7 days.
-   Upon completion of this first course of tablets, the patient begins a second course of 28-day tablets, without interruption, the next day (Sunday), starting with the Sunday light yellow or pink tablet in the top row.
-   Adhering to this regimen of one light yellow or pink tablet daily for 21 days, followed without interruption by one brown tablet daily for seven days, the patient will start all subsequent cycles on a Sunday.
-2. Day-1 Start Regimen: The first day of menstrual flow is Day 1.
-   The patient places the self-adhesive day label strip that corresponds to her starting day over the preprinted days on the tablet dispenser.
-   She starts taking one light yellow or pink tablet daily, beginning with the first light yellow or pink tablet in the top row.
-   After the last light yellow or pink tablet (at the end of the third row) has been taken, the patient will then take the brown tablets for a week (7 days).
-   For all subsequent cycles, the patient begins a new 28 tablet regimen on the eighth day after taking her last light yellow or pink tablet, again starting with the first tablet in the top row after placing the appropriate day label strip over the preprinted days on the tablet dispenser.
-   Following this regimen of 21 light yellow or pink tablets and 7 brown tablets, the patient will start all subsequent cycles on the same day of the week as the first course.
-   Tablets should be taken regularly with a meal or at bedtime.
-   It should be stressed that efficacy of medication depends on strict adherence to the dosage schedule.
+A. Sunday-Start Regimen: The patient begins taking the first light yellow or pink tablet from the top row of the dispenser (labeled Sunday) on the first Sunday after menstrual flow begins.
+When the menstrual flow begins on Sunday, the first light yellow or pink tablet is taken on the same day.
+The patient takes one light yellow or pink tablet daily for 21 days.
+The last light yellow or pink tablet in the dispenser will be taken on a Saturday.
+Upon completion of all 21 light yellow or pink tablets, and without interruption, the patient takes one brown tablet daily for 7 days.
+Upon completion of this first course of tablets, the patient begins a second course of 28-day tablets, without interruption, the next day (Sunday), starting with the Sunday light yellow or pink tablet in the top row.
+Adhering to this regimen of one light yellow or pink tablet daily for 21 days, followed without interruption by one brown tablet daily for seven days, the patient will start all subsequent cycles on a Sunday.
+
+B. Day-1 Start Regimen: The first day of menstrual flow is Day 1.
+The patient places the self-adhesive day label strip that corresponds to her starting day over the preprinted days on the tablet dispenser.
+She starts taking one light yellow or pink tablet daily, beginning with the first light yellow or pink tablet in the top row.
+After the last light yellow or pink tablet (at the end of the third row) has been taken, the patient will then take the brown tablets for a week (7 days).
+For all subsequent cycles, the patient begins a new 28 tablet regimen on the eighth day after taking her last light yellow or pink tablet, again starting with the first tablet in the top row after placing the appropriate day label strip over the preprinted days on the tablet dispenser.
+Following this regimen of 21 light yellow or pink tablets and 7 brown tablets, the patient will start all subsequent cycles on the same day of the week as the first course.
+Tablets should be taken regularly with a meal or at bedtime.
+It should be stressed that efficacy of medication depends on strict adherence to the dosage schedule.
 
 ## Special Notes on Administration
 
@@ -149,7 +151,7 @@ Day-1 Start Regimen:
 - start new pack of tablets that same day
 - use another birth control method for seven days following the missed tablets
 
-Three(or more) consecutive tablets are missed
+Three (or more) consecutive tablets are missed
 
 Sunday-Start Regimen:
 

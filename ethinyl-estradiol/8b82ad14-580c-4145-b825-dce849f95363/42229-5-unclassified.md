@@ -1,6 +1,6 @@
 Junel® 21 Day
 
-(norethindrone acetate and ethinyl estradiol tablets USP)
+(norethindrone acetate and ethinyl estradiol tablets, USP)
 
 Junel®1/20
 
@@ -12,7 +12,7 @@ Junel®1.5/30
 
 Junel® Fe 28 Day
 
-(norethindrone acetate and ethinyl estradiol tablets USP and ferrous fumarate tablets*)
+(norethindrone acetate and ethinyl estradiol tablets, USP and ferrous fumarate tablets*)
 
 *Ferrous fumarate tablets are not USP for dissolution and assay
 
@@ -75,7 +75,7 @@ It does not protect against HIV infection (AIDS) and other sexually transmitted 
 
 Oral contraceptives, also known as “birth control pills” or “the pill,” are taken to prevent pregnancy and, when taken correctly, have a failure rate of about 1% per year when used without missing any pills.
 The typical failure rate of large numbers of pill users is less than 3% per year when women who miss pills are included.
-For most women, oral contraceptives are also free of serious or unpleasant side effects.
+For most women oral contraceptives are also free of serious or unpleasant side effects.
 However, forgetting to take pills considerably increases the chances of pregnancy.
 
 For the majority of women, oral contraceptives can be taken safely.
@@ -130,7 +130,7 @@ INSTRUCTIONS TO PATIENT
 TABLET DISPENSER
 
 The Junel tablet dispenser has been designed to make oral contraceptive dosing as easy and as convenient as possible.
-The tablets are arranged in either three or four rows of seven tablets each, with the days of the week appearing above the first row of tablets.
+The tablets are arranged in either three or four rows of seven tablets each with the days of the week appearing above the first row of tablets.
 
 | If your TABLET DISPENSER contains: | You are taking: |
 | --- | --- |
@@ -152,7 +152,8 @@ Do not press with your thumbnail, fingernail, or any other sharp object.
 
 HOW TO TAKE THE PILL
 
-IMPORTANT POINTS TO REMEMBER
+| IMPORTANT POINTS TO REMEMBER |
+| --- |
 
 BEFORE YOU START TAKING YOUR PILLS:
 
@@ -162,7 +163,7 @@ BEFORE YOU START TAKING YOUR PILLS:
    If you miss pills you could get pregnant.
    This includes starting the pack late.
    The more pills you miss, the more likely you are to get pregnant.
-3. MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH DURING THE FIRST 1 to 3 PACKS OF PILLS.
+3. MANY WOMEN HAVE SPOTTING OR LIGHT BLEEDING, OR MAY FEEL SICK TO THEIR STOMACH, DURING THE FIRST 1 to 3 PACKS OF PILLS.
    If you do have spotting or light bleeding or feel sick to your stomach, do not stop taking the pill.
    The problem will usually go away.
    If it doesn't go away, check with your doctor or clinic.
@@ -173,7 +174,8 @@ BEFORE YOU START TAKING YOUR PILLS:
 6. IF YOU HAVE TROUBLE REMEMBERING TO TAKE THE PILL, talk to your doctor or clinic about how to make pill-taking easier or about using another method of birth control.
 7. IF YOU HAVE ANY QUESTIONS OR ARE UNSURE ABOUT THE INFORMATION IN THIS LEAFLET, call your doctor or clinic.
 
-BEFORE YOU START TAKING YOUR PILLS
+| BEFORE YOU START TAKING YOUR PILLS |
+| --- |
 
 1. DECIDE WHAT TIME OF DAY YOU WANT TO TAKE YOUR PILL.
    It is important to take it at about the same time every day.
@@ -181,7 +183,7 @@ BEFORE YOU START TAKING YOUR PILLS
    The 28-Day pill pack has 21 “active” light yellow or pink pills (with hormones) to take for 3 weeks, followed by 1 week of reminder brown pills (without hormones).
 3. ALSO FIND: 1) where on the pack to start taking pills, 2) in what order to take the pills (follow the arrows), and 3) the week numbers as shown in the following pictures:
 
-Junel 21 1/20 will contain:ALL LIGHT YELLOW PILLS
+Junel 21 1/20 will contain: ALL LIGHT YELLOW PILLS
 
 Junel 21 1.5/30 will contain: ALL PINK PILLS
 
@@ -192,10 +194,13 @@ Junel Fe 1.5/30 will contain: 21 PINK PILLS for WEEKS 1, 2, and 3.
 WEEK 4 will contain BROWN PILLS ONLY.
 
 4.
-BE SURE YOU HAVE READY AT ALL TIMES: ANOTHER KIND OF BIRTH CONTROL (such as condoms or foam) to use as a back-up in case you miss pills.
+BE SURE YOU HAVE READY AT ALL TIMES:
+
+ANOTHER KIND OF BIRTH CONTROL (such as condoms or foam) to use as a back-up in case you miss pills.
 An EXTRA, FULL PILL PACK.
 
-WHEN TO START THE FIRST PACK OF PILLS
+| WHEN TO START THE FIRST PACK OF PILLS |
+| --- |
 
 You have a choice of which day to start taking your first pack of pills.
 Decide with your doctor or clinic which is the best day for you.
@@ -216,18 +221,23 @@ SUNDAY START:
 2. Use another method of birth control as a back-up method if you have sex anytime from the Sunday you start your first pack until the next Sunday (7 days).
    Condoms or foam are good back-up methods of birth control.
 
-WHAT TO DO DURING THE MONTH
+| WHAT TO DO DURING THE MONTH |
+| --- |
 
-1. TAKE ONE PILL AT THE SAME TIME EVERY DAY UNTIL THE PACK IS EMPTY.
-   Do not skip pills even if you are spotting or bleeding between monthly periods or feel sick to your stomach (nausea).
-   Do not skip pills even if you do not have sex very often.
-2. WHEN YOU FINISH A PACK OR SWITCH YOUR BRAND OF PILLS: 21 pills: Wait 7 days to start the next pack.
-   You will probably have your period during that week.
-   Be sure that no more than 7 days pass between 21-day packs.
-   28 pills: Start the next pack on the day after your last “reminder” pill.
-   Do not wait any days between packs.
+1.
+TAKE ONE PILL AT THE SAME TIME EVERY DAY UNTIL THE PACK IS EMPTY.
+Do not skip pills even if you are spotting or bleeding between monthly periods or feel sick to your stomach (nausea).
+Do not skip pills even if you do not have sex very often.
 
-WHAT TO DO IF YOU MISS PILLS
+2.
+WHEN YOU FINISH A PACK OR SWITCH YOUR BRAND OF PILLS: 21 pills: Wait 7 days to start the next pack.
+You will probably have your period during that week.
+Be sure that no more than 7 days pass between 21-day packs.
+28 pills: Start the next pack on the day after your last “reminder” pill.
+Do not wait any days between packs.
+
+| WHAT TO DO IF YOU MISS PILLS |
+| --- |
 
 If you MISS 1 light yellow or pink “active” pill:
 
@@ -263,7 +273,7 @@ If you MISS 3 OR MORE light yellow or pink “active” pills in a row (during t
 3. You COULD GET PREGNANT if you have sex in the 7 days after you miss pills.
    You MUST use another birth control method (such as condoms or foam) as a back-up method of birth control until you have taken a light yellow or pink “active” pill every day for 7 days.
 
-| A REMINDER FOR THOSE ON 28-DAY PACKS IF YOU FORGET ANY OF THE 7 BROWN “REMINDER” PILLS IN WEEK 4: THROW AWAY THE PILLS YOU MISSED. KEEP TAKING 1 PILL EACH DAY UNTIL THE PACK IS EMPTY. YOU DO NOT NEED A BACK-UP METHOD. |
+| A REMINDER FOR THOSE ON 28-DAY PACKS: IF YOU FORGET ANY OF THE 7 BROWN “REMINDER” PILLS IN WEEK 4: THROW AWAY THE PILLS YOU MISSED. KEEP TAKING 1 PILL EACH DAY UNTIL THE PACK IS EMPTY. YOU DO NOT NEED A BACK-UP METHOD. |
 | --- |
 | FINALLY, IF YOU ARE STILL NOT SURE WHAT TO DO ABOUT THE PILLS YOU HAVE MISSED: Use a BACK-UP METHOD anytime you have sex. KEEP TAKING ONE LIGHT YELLOW OR PINK “ACTIVE” PILL EACH DAY until you can reach your doctor or clinic. |
 
@@ -274,4 +284,4 @@ Keep this and all drugs out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
