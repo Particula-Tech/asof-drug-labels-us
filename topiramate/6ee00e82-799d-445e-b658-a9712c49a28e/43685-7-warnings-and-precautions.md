@@ -10,6 +10,7 @@ Symptoms typically occur within 1 month of initiating topiramate therapy.
 In contrast to primary narrow angle glaucoma, which is rare under 40 years of age, secondary angle closure glaucoma associated with topiramate has been reported in pediatric patients as well as adults.
 The primary treatment to reverse symptoms is discontinuation of topiramate as rapidly as possible, according to the judgment of the treating physician.
 Other measures, in conjunction with discontinuation of topiramate, may be helpful.
+
 Elevated intraocular pressure of any etiology, if left untreated, can lead to serious sequelae including permanent vision loss.
 
 ## 5.2 Visual Field Defects
