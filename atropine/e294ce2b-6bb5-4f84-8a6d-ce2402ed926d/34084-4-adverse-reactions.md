@@ -2,8 +2,8 @@
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
-- •Photophobia and Blurred Vision [see Warnings and Precautions (5.1)]
-- •Elevation in Blood Pressure [see Warnings and Precautions (5.2)]
+- Photophobia and Blurred Vision [see Warnings and Precautions (5.1)]
+- Elevation in Blood Pressure [see Warnings and Precautions (5.2)]
 
 The following adverse reactions have been identified following use of atropine sulfate ophthalmic solution.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
