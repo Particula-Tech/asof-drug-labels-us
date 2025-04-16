@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "NDA022047"
+  ],
+  "inn": "quetiapine",
+  "labeler": "H2-Pharma, LLC",
+  "package_ndcs": [
+    "61269-270-60",
+    "61269-271-60",
+    "61269-272-60",
+    "61269-273-60",
+    "61269-274-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "quetiapine",
+      "name": "SEROQUEL"
+    }
+  ],
+  "setid": "ab959a35-d0ba-4f18-8f2e-6619d88b16e3",
+  "source": "dailymed"
+}
