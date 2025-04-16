@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA203975"
+  ],
+  "inn": "umeclidinium",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-134-97"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "umeclidinium bromide and vilanterol trifenatate",
+      "name": "Umeclidinium and Villanterol Ellipta"
+    }
+  ],
+  "setid": "6de414b1-f707-4b98-9e4b-742032ec90af",
+  "source": "dailymed"
+}
