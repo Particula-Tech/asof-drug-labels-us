@@ -22,7 +22,7 @@ Advise patients to consult their healthcare provider if new onset or worsening e
 
 Eosinophilic Conditions
 
-Advise patients to notify their healthcare provider if they present with clinical features of eosinophilic pneumonia or vasculitis consistent with eosinophilic granulomatosis with polyangiitis [see Warnings and Precautions (5.3)].
+Advise patients to notify their healthcare provider if they present with clinical features of eosinophilic pneumonia or eosinophilic granulomatosis with polyangiitis [see Warnings and Precautions (5.3)].
 
 Not for Acute Symptoms of Asthma or Chronic Obstructive Pulmonary Disease or Acute Deteriorating Disease
 
@@ -38,15 +38,21 @@ Patients with Co-morbid Asthma
 
 Advise patients with co-morbid asthma not to adjust or stop their asthma treatment without talking to their healthcare providers [see Warnings and Precautions (5.6)].
 
-Arthralgia
+Psoriasis
 
-Advise patients to report new onset or worsening joint symptoms to their healthcare provider [see Warnings and Precautions (5.7)].
+Advise patients that cases of new-onset psoriasis have been reported with the use of DUPIXENT.
+Advise patients to report new-onset psoriasis symptoms to their healthcare provider [see Warnings and Precautions (5.7)].
+
+Arthralgia and Psoriatic Arthritis
+
+Advise patients that cases of new-onset psoriatic arthritis have been reported with the use of DUPIXENT.
+Advise patients to report new onset or worsening joint symptoms to their healthcare provider [see Warnings and Precautions (5.8)].
 
 Parasitic (Helminth) Infections
 
-Advise patients to notify their healthcare provider if they present with clinical features consistent with helminthic infection [see Warnings and Precautions (5.8)].
+Advise patients to notify their healthcare provider if they present with clinical features consistent with helminthic infection [see Warnings and Precautions (5.9)].
 
 Vaccinations
 
 Advise patients that vaccination with live vaccines is not recommended immediately prior to and while they are receiving DUPIXENT.
-Instruct patients to inform their healthcare provider that they are taking DUPIXENT prior to a potential vaccination [see Warnings and Precautions (5.9)].
+Instruct patients to inform their healthcare provider that they are taking DUPIXENT prior to a potential vaccination [see Warnings and Precautions (5.10)].

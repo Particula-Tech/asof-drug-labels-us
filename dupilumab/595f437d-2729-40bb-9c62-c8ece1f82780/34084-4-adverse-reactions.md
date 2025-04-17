@@ -4,8 +4,9 @@ The following clinically significant adverse reactions are described elsewhere i
 
 - Hypersensitivity [see Warnings and Precautions (5.1)]
 - Conjunctivitis and Keratitis [see Warnings and Precautions (5.2)]
-- Arthralgia [see Warnings and Precautions (5.7)]
-- Parasitic (Helminth) Infections [see Warnings and Precautions (5.8)]
+- Psoriasis [see Warnings and Precautions (5.7)]
+- Arthralgia and Psoriatic Arthritis [see Warnings and Precautions (5.8)]
+- Parasitic (Helminth) Infections [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -341,6 +342,6 @@ In the 24-week placebo-controlled trial in subjects with EoE (Study EoE-1 Parts 
 The following adverse reactions have been identified during post-approval use of DUPIXENT.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: angioedema [see Warnings and Precautions (5.1)]
-
-Skin and subcutaneous tissue disorders: Facial skin reactions, including erythema, rash, scaling, edema, papules, pruritus, burning, and pain
+- Immune system disorders: angioedema
+- Musculoskeletal system disorders: psoriatic arthritis
+- Skin and subcutaneous tissue disorders: Facial skin reactions, including erythema, rash, scaling, edema, papules, pruritus, burning, and pain; new-onset psoriasis, vasculitis

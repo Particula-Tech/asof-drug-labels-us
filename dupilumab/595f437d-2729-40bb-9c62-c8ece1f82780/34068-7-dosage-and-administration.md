@@ -33,7 +33,7 @@ The DUPIXENT "Instructions for Use" contains more detailed instructions on the p
 
 ## 2.2 Vaccination Prior to Treatment
 
-Consider completing all age-appropriate vaccinations as recommended by current immunization guidelines prior to initiating treatment with DUPIXENT [see Warnings and Precautions (5.9)].
+Consider completing all age-appropriate vaccinations as recommended by current immunization guidelines prior to initiating treatment with DUPIXENT [see Warnings and Precautions (5.10)].
 
 ## 2.3 Recommended Dosage for Atopic Dermatitis
 

@@ -2,7 +2,7 @@
 
 ## 5.1 Hypersensitivity
 
-Hypersensitivity reactions, including anaphylaxis, serum sickness or serum sickness-like reactions, angioedema, generalized urticaria, rash, erythema nodosum, and erythema multiforme have been reported.
+Hypersensitivity reactions, including anaphylaxis, serum sickness or serum sickness-like reactions, angioedema, generalized urticaria, rash, erythema nodosum and erythema multiforme have been reported.
 If a clinically significant hypersensitivity reaction occurs, institute appropriate therapy and discontinue DUPIXENT [see Adverse Reactions (6.1, 6.2) and Clinical Pharmacology (12.6)].
 
 ## 5.2 Conjunctivitis and Keratitis
@@ -33,11 +33,13 @@ Consider ophthalmological examination for patients who develop conjunctivitis th
 
 ## 5.3 Eosinophilic Conditions
 
-Patients being treated for asthma may present with serious systemic eosinophilia sometimes presenting with clinical features of eosinophilic pneumonia or vasculitis consistent with eosinophilic granulomatosis with polyangiitis, conditions which are often treated with systemic corticosteroid therapy.
+Patients being treated for asthma may present with clinical features of eosinophilic pneumonia or eosinophilic granulomatosis with polyangiitis (EGPA).
 These events may be associated with the reduction of oral corticosteroid therapy.
-Healthcare providers should be alert to vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients with eosinophilia.
-Cases of eosinophilic pneumonia were reported in adult subjects who participated in the asthma development program and cases of vasculitis consistent with eosinophilic granulomatosis with polyangiitis have been reported with DUPIXENT in adult subjects who participated in the asthma development program as well as in adult subjects with co-morbid asthma in the CRSwNP development program.
-A causal association between DUPIXENT and these conditions has not been established.
+Healthcare providers should be alert to vasculitic rash, worsening pulmonary symptoms, cardiac complications, kidney injury, and/or neuropathy presenting in their patients with eosinophilia.
+Cases of eosinophilic pneumonia were reported in adults who participated in the asthma development program.
+Cases of EGPA have been reported with DUPIXENT in adults who participated in the asthma development program as well as in adults with co-morbid asthma in the CRSwNP development program.
+Advise patients to report signs of eosinophilic pneumonia and EGPA to their healthcare provider.
+Consider withholding DUPIXENT if eosinophilic pneumonia or EGPA are suspected.
 
 ## 5.4 Acute Symptoms of Asthma or Chronic Obstructive Pulmonary Disease or Acute Deteriorating Disease
 
@@ -55,16 +57,27 @@ Reduction in corticosteroid dose may be associated with systemic withdrawal symp
 
 Advise patients with co-morbid asthma not to adjust or stop their asthma treatments without consultation with their physicians.
 
-## 5.7 Arthralgia
+## 5.7 Psoriasis
+
+Cases of new-onset psoriasis have been reported with the use of DUPIXENT for the treatment of atopic dermatitis and asthma, including in patients without a family history of psoriasis.
+In postmarketing reports, onset of psoriasis varied from weeks to months after the first dose of DUPIXENT and resulted in partial or complete resolution of psoriasis with discontinuation of dupilumab, with or without use of supplemental treatment for psoriasis (topical or systemic).
+Those who continued on dupilumab received supplemental treatment for psoriasis to improve associated symptoms.
+Advise patients to report new-onset psoriasis symptoms to their healthcare provider.
+If symptoms persist or worsen, consider dermatologic evaluation and/or discontinuation of DUPIXENT.
+
+## 5.8 Arthralgia and Psoriatic Arthritis
 
 Arthralgia has been reported with the use of DUPIXENT with some patients reporting gait disturbances or decreased mobility associated with joint symptoms; some cases resulted in hospitalization [see Adverse Reactions (6.1)].
 In postmarketing reports, onset of arthralgia was variable, ranging from days to months after the first dose of DUPIXENT.
-Some patients' symptoms resolved while continuing treatment with DUPIXENT and other patients recovered or were recovering following discontinuation of DUPIXENT.
+
+Cases of new-onset psoriatic arthritis requiring systemic treatment have been reported with the use of DUPIXENT.
+
+Some patients' symptoms resolved while continuing treatment with DUPIXENT, and other patients recovered or were recovering following discontinuation of DUPIXENT.
 
 Advise patients to report new onset or worsening joint symptoms to their healthcare provider.
 If symptoms persist or worsen, consider rheumatological evaluation and/or discontinuation of DUPIXENT.
 
-## 5.8 Parasitic (Helminth) Infections
+## 5.9 Parasitic (Helminth) Infections
 
 Patients with known helminth infections were excluded from participation in clinical studies.
 It is unknown if DUPIXENT will influence the immune response against helminth infections.
@@ -73,7 +86,7 @@ Treat patients with pre-existing helminth infections before initiating therapy w
 If patients become infected while receiving treatment with DUPIXENT and do not respond to anti-helminth treatment, discontinue treatment with DUPIXENT until the infection resolves.
 Adverse reactions of helminth infections (5 cases of enterobiasis and 1 case of ascariasis) were reported in pediatric subjects 6 to 11 years old who participated in the pediatric asthma development program [see Adverse Reactions (6.1)].
 
-## 5.9 Vaccinations
+## 5.10 Vaccinations
 
 Consider completing all age-appropriate vaccinations as recommended by current immunization guidelines prior to initiating treatment with DUPIXENT.
 Avoid use of live vaccines during treatment with DUPIXENT.
