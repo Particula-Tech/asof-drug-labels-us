@@ -21,7 +21,7 @@ Prolonged use of corticosteroids may result in elevated IOP and/or glaucoma with
 Steroids should be used with caution in the presence of glaucoma.
 Patients must be monitored for elevated IOP.
 
-Based on clinical trials with RETISERT, within 3-years post-implantation, approximately 77% of patients will require IOP lowering medications to control intraocular pressure and 37% of patients will require filtering procedures to control intraocular pressure [seeAdverse Reactions (6.1)].
+Based on clinical trials with RETISERT, within 3-years post-implantation, approximately 77% of patients will require IOP lowering medications to control intraocular pressure and 37% of patients will require filtering procedures to control intraocular pressure [see Adverse Reactions (6.1)].
 
 ## 5.4 Separation of Implant Components
 

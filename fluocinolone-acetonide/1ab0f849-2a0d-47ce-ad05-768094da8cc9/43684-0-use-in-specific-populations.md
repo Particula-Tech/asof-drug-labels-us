@@ -2,19 +2,27 @@
 
 ## 8.1 Pregnancy
 
-No adequate animal reproduction studies have been conducted with fluocinolone acetonide.
-Corticosteroids are generally teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
-Fluocinolone acetonide when administered subcutaneously at a dose of 0.13 mg/kg/day (approximately 10,000 times the daily clinical dose of RETISERT), during days 6 to 18 of pregnancy in the rabbit, induced abortion at the end of the third and at the beginning of the fourth gestational week.
-When administered subcutaneously to rats and rabbits during gestation at a maternal toxic dose of 50 mcg/kg/day (approximately 4,000 times the clinical dose of RETISERT), fluocinolone acetonide caused abortions and malformations in a few surviving fetuses.
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
+Adequate and well-controlled studies with RETISERT have not been conducted in pregnant women to inform drug-associated risk.
+Animal reproduction studies have not been conducted with RETISERT.
+It is not known whether RETISERT can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
+Corticosteroids have been shown to be teratogenic in laboratory animals when administered systemically at relatively low dosage levels.
 RETISERT should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## 8.3 Nursing Mothers
+In the US general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-It is not known whether ocular administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in human milk.
-Systemic steroids appear in human milk and could suppress growth, interfere with endogenous corticosteroid production, or cause other untoward effects.
-Caution should be exercised when RETISERT is implanted in a nursing woman.
+## 8.2 Lactation
+
+Risk Summary
+
+There are no data on the presence of RETISERT in human milk, the effects on the breastfed infant, or the effects on milk production.
+Systemically administered corticosteroids are present in human milk and can suppress growth, interfere with endogenous corticosteroid production, or cause other unwanted effects.
+Clinical or nonclinical lactation studies have not been conducted with RETISERT.
+
+It is not known whether intravitreal treatment with RETISERT could result in sufficient systemic absorption to produce detectable quantities of fluocinolone acetonide in human milk, or affect breastfed infants or milk production.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for RETISERT and any potential adverse effects on the breastfed child from RETISERT or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

@@ -11,10 +11,19 @@ Table 1: Uveitis Recurrence Rates
 | TIME POINT | STUDY 1 | STUDY 2 |
 | --- | --- | --- |
 | N=108 | N=116 |  |
-| Uveitis Recurrence Rates Recurrence of uveitis for all post-implantation time points was compared to the 34 weeks pre-implantation time point.,p-value <0.01 from McNemar’s χ 2 test. N (%) |  |  |
-| 34 Weeks Pre-implantation | 58 (53.7) | 46 (39.7) |
-| 34 Weeks Post-implantation | 2 (1.8) | 15 (12.9) |
+| Uveitis Recurrence Rates 1,2 N (%) |  |  |
+| 34 Weeks Pre- implantation | 58 (53.7) | 46 (39.7) |
+| 34 Weeks Post- implantation | 2 (1.8) | 15 (12.9) |
 | 1 Year Post-implantation | 4 (3.7) | 15 (12.9) |
 | 2 Years Post-implantation | 11 (10.2) | 16 (13.8) |
 | 3 Years Post-implantation | 22 (20.4) | 20 (17.2) |
-| 3 Years 3 Results presented include imputed recurrences. Recurrences were imputed when a subject was not seen within 10 weeks of their final scheduled visit. Post-implantation | 33 (30.6) | 28 (24.1) |
+| 3 Years 3Post- implantation | 33 (30.6) | 28 (24.1) |
+
+1Recurrence of uveitis for all post-implantation time points was compared to the 34 weeks pre-implantation time point.
+
+2p-value <0.01 from McNemar’s χ 2test.
+
+3Results presented include imputed recurrences.
+Recurrences were imputed when a subject was not seen within 10 weeks of their final scheduled visit.
+
+In assessing the effect of RETISERT on the corneal endothelial cell density in eyes that have been implanted for a minimum of 1 year, the results indicate that eyes containing the RETISERT implant for an average of 3.54 years had a lower mean corneal endothelial cell density (mean paired difference of -435 cells/mm 2) compared with non-implanted eyes (p<0.01).
