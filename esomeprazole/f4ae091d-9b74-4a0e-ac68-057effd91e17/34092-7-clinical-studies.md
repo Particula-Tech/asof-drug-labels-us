@@ -84,7 +84,7 @@ Table 13: Cumulative Percentage of Patients at Least 60 Years of Age Taking NSAI
 | 271 | Esomeprazole magnesium delayed-release capsules 40 mg | 95.3 |  |
 | 257 | Placebo | 83.3 |  |
 
-1.%= Life Table Estimate.
+1. %= Life Table Estimate.
 Significant difference from placebo (p<0.01).
 
 ## 14.6 H. pylori Eradication in Adult Patients with Duodenal Ulcer Disease
