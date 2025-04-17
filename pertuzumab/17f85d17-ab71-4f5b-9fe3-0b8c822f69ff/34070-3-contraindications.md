@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-PERJETA is contraindicated in patients with known hypersensitivity to pertuzumab or to any of its excipients.
+PERJETA is contraindicated in patients with known hypersensitivity to pertuzumab or to any of its excipients [see Warnings and Precautions (5.4)].

@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
-Pertuzumab is a recombinant humanized monoclonal antibody that targets the extracellular dimerization domain (Subdomain II) of the human epidermal growth factor receptor 2 protein (HER2).
+Pertuzumab is a recombinant humanized monoclonal antibody and HER2/neu receptor antagonist that targets the extracellular dimerization domain (Subdomain II) of the human epidermal growth factor receptor 2 protein (HER2).
 Pertuzumab is produced by recombinant DNA technology in a mammalian cell (Chinese Hamster Ovary) culture.
 Pertuzumab has an approximate molecular weight of 148 kDa.
 
-PERJETA injection is a sterile, clear to slightly opalescent, colorless to pale brown liquid for intravenous infusion.
-Each single-dose vial contains 420 mg of pertuzumab at a concentration of 30 mg/mL in 20 mM L-histidine acetate (pH 6.0), 120 mM sucrose and 0.02% polysorbate 20.
+PERJETA (pertuzumab) injection is a sterile, preservative-free, clear to slightly opalescent, colorless to pale brown solution for intravenous infusion.
+Each single-dose vial contains 420 mg of pertuzumab,glacial acetic acid (9.2 mg), histidine (43.5 mg), polysorbate 20 (2.8 mg), and sucrose (575.1 mg) with a pH of 6.

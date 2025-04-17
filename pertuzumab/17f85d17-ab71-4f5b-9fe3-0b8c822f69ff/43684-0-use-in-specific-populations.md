@@ -65,13 +65,12 @@ The safety and effectiveness of PERJETA have not been established in pediatric p
 
 ## 8.5 Geriatric Use
 
-In studies in the indicated populations, CLEOPATRA, NeoSphere, TRYPHAENA, BERENICE, and APHINITY, 464 patients who received PERJETA were ≥ 65 years of age and 47 were ≥ 75 years of age.
-The most common (≥ 10%) Grade 3-4 adverse reactions in both age groups were neutropenia (22% ≥ 65 years, 23% ≥ 75 years), febrile neutropenia (12% ≥ 65 years, 13% ≥ 75 years), diarrhea (15% ≥ 65 years, 17% ≥ 75 years) and anemia (15% ≥ 75 years).
+In CLEOPATRA, NeoSphere, TRYPHAENA, BERENICE, and APHINITY, 464 patients who received PERJETA were ≥ 65 years of age and 47 were ≥ 75 years of age.
 
-The incidence of the following all grade adverse events was at least 5% higher in patients aged ≥ 65 years of age, compared to patients aged < 65 years of age: decreased appetite (13% higher), anemia (7% higher), weight decreased (7% higher), asthenia (7% higher), dysgeusia (7% higher), neuropathy peripheral and hypomagnesemia (both 5% higher).
+The incidence of adverse reactions was increased in patients aged ≥ 65 years of age compared to patients aged < 65 years of age for decreased appetite, anemia, decreased weight, asthenia, dysgeusia, peripheral neuropathy, and hypomagnesemia.
 
 No overall differences in efficacy of PERJETA were observed in patients aged ≥ 65 and <65 years of age.
-There are too few patients aged ≥ 75 years to draw conclusions on efficacy in this age group.
+Clinical studies did not include sufficient numbers of patients aged ≥ 75 years to determine if these patients respond differently than younger patients.
 
 Based on a population pharmacokinetic analysis, no significant difference was observed in the pharmacokinetics of pertuzumab between patients < 65 years (n=306) and patients ≥ 65 years (n=175).
 
@@ -79,7 +78,3 @@ Based on a population pharmacokinetic analysis, no significant difference was ob
 
 Dose adjustments of PERJETA are not needed in patients with mild (creatinine clearance [CLcr] 60 to 90 mL/min) or moderate (CLcr 30 to 60 mL/min) renal impairment.
 No dose adjustment can be recommended for patients with severe renal impairment (CLcr less than 30 mL/min) because of the limited pharmacokinetic data available [see Clinical Pharmacology (12.3)].
-
-## 8.7 Hepatic Impairment
-
-No clinical studies have been conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of pertuzumab.
