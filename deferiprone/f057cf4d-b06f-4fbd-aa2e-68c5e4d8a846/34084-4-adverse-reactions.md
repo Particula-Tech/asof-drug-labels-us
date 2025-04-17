@@ -32,8 +32,8 @@ Table 3: Adverse reactions occurring in ≥ 1% of FERRIPROX-treated patients wit
 | Body System Adverse Reaction | (N=642) % Patients |
 | --- | --- |
 | BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |
-| Neutropenia | 6 |
-| Agranulocytosis | 2 |
+| Neutropenia* | 7 |
+| Agranulocytosis† | 1 |
 | GASTROINTESTINAL DISORDERS |  |
 | Nausea | 13 |
 | Abdominal pain/discomfort | 10 |
@@ -54,6 +54,7 @@ Table 3: Adverse reactions occurring in ≥ 1% of FERRIPROX-treated patients wit
 | Arthropathy | 1 |
 | NERVOUS SYSTEM DISORDERS |  |
 | Headache | 2 |
+| *Neutropenia includes events of severe neutropenia (ANC ≥0.2 x 109/L and <0.5 x 109/L). †Agranulocytosis (ANC< 0.2 x 109/L) |  |
 
 Gastrointestinal symptoms such as nausea, vomiting, and abdominal pain were the most frequent adverse reactions reported by patients participating in clinical trials and led to the discontinuation of FERRIPROX therapy in 1.6% of patients.
 

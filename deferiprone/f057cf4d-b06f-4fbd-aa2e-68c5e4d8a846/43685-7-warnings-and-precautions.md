@@ -14,20 +14,20 @@ Interrupt FERRIPROX if infection develops and monitor the ANC frequently.
 
 Advise patients taking FERRIPROX to immediately interrupt therapy and report to their physician if they experience any symptoms indicative of infection.
 
-The incidence of agranulocytosis was 1.7% of patients in pooled clinical trials of 642 patients with thalassemia syndromes and 1.5% of patients in pooled clinical trials of 196 patients with sickle cell disease or other anemias.
+The incidence of agranulocytosis was 1% of patients in pooled clinical trials of 642 patients with thalassemia syndromes and 0.5% of patients in pooled clinical trials of 196 patients with sickle cell disease or other anemias.
 The mechanism of FERRIPROX-associated agranulocytosis is unknown.
 Agranulocytosis and neutropenia usually resolve upon discontinuation of FERRIPROX, but there have been reports of agranulocytosis leading to death.
 
 Implement a plan to monitor for and to manage agranulocytosis and neutropenia prior to initiating FERRIPROX treatment.
 
-For agranulocytosis (ANC < 0.5 x 109/L):
+For agranulocytosis (ANC < 0.2 x 109/L) and severe neutropenia (0.2 x 109/L ≤ ANC < 0.5 x 109/L):
 
 Consider hospitalization and other management as clinically appropriate.
 
 Do not resume FERRIPROX in patients who have developed agranulocytosis unless potential benefits outweigh potential risks.
 Do not rechallenge patients who have developed neutropenia with FERRIPROX unless potential benefits outweigh potential risks.
 
-For neutropenia (ANC < 1.5 x 109/L and > 0.5 x 109/L):
+For neutropenia (ANC < 1.5 x 109/L and ≥ 0.5 x 109/L):
 
 Instruct the patient to immediately discontinue FERRIPROX and all other medications with a potential to cause neutropenia.
 

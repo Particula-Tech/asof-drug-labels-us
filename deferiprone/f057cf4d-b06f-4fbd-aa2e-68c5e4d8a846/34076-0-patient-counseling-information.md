@@ -34,4 +34,4 @@ Advise females not to breastfeed during treatment with FERRIPROX and for at leas
 Distributed by Chiesi USA, Inc., Cary, NC 27518.
 Manufactured by Apotex Inc., Toronto, Ontario, Canada, M9L 1T9.
 
-CTFD-015-0521-02-SPL
+US-618-s5-W
