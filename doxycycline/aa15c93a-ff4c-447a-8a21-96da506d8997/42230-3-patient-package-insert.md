@@ -133,7 +133,7 @@ Active ingredient: doxycycline Inactive ingredients: hard gelatin capsule, hypro
 
 Marketed by: Galderma Laboratories, L.P.
 Dallas, Texas 75201 USA All trademarks are the property of their respective owners.
-P52631-3
+PXXXXX-X
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: September 2022
+Revised: April 2025
