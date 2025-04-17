@@ -93,7 +93,7 @@ Table 5: DARZALEX Dosing Schedule With Carfilzomib and Dexamethasone (4-Week Cyc
 | Weeks 9 to 24 First dose of the every-2-week dosing schedule is given at Week 9 | 16 mg/kg | every two weeks (total of 8 doses) |
 | Week 25 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 25 | 16 mg/kg | every four weeks |
 
-For dosing instructions of combination agents administered with DARZALEX see Clinical Studies (14.1)and manufacturer's prescribing information.
+For dosing instructions of combination agents administered with DARZALEX see Clinical Studies (14.2)and manufacturer's prescribing information.
 
 Infusion Rates
 

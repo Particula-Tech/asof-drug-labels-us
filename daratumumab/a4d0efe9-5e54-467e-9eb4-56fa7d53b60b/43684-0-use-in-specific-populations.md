@@ -23,7 +23,7 @@ Fetal/Neonatal Adverse Reactions
 
 Immunoglobulin G1 (IgG1) monoclonal antibodies are transferred across the placenta.
 Based on its mechanism of action, DARZALEX may cause depletion of fetal CD38 positive immune cells and decreased bone density.
-Defer administering live vaccines to neonates and infants exposed to DARZALEX in utero until a hematology evaluation is completed.
+Defer administering live vaccines to neonates and infants exposed to DARZALEX in uterountil a hematology evaluation is completed.
 
 Data
 
@@ -65,7 +65,7 @@ The pharmacokinetic parameters in these pediatric patients were within range of 
 
 ## 8.5 Geriatric Use
 
-Of the 2,459 patients who received DARZALEX at the recommended dose, 38% were 65 to 74 years of age, and 15% were 75 years of age or older.
+Of the 2,459 patients who received DARZALEX at the recommended dose, 38% were 65 to 74 years of age, and 15% were 75 years of age and older.
 No overall differences in effectiveness were observed between these patients and younger patients.
 The incidence of serious adverse reactions was higher in older than in younger patients [see Adverse Reactions (6.1)].
 Among patients with relapsed and refractory multiple myeloma (n=1,213), the serious adverse reactions that occurred more frequently in patients 65 years and older were pneumonia and sepsis.
