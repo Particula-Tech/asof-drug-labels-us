@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208544"
+  ],
+  "inn": "rivaroxaban",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-849-18",
+    "59651-849-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rivaroxaban",
+      "name": "Rivaroxaban"
+    }
+  ],
+  "setid": "bcb0e6e7-3006-4d82-8009-c5fddbbfc80d",
+  "source": "dailymed"
+}
