@@ -33,7 +33,7 @@ It is estimated that 9% to 19% of an administered dose is absorbed.
 Following administration of 40 mg of lurasidone hydrochloride, the mean (%CV) apparent volume of distribution was 6173 (17.2) L. Lurasidone hydrochloride is highly bound (~99%) to serum proteins.
 
 In a food effect study, lurasidone hydrochloride mean Cmax and AUC were about 3-times and 2-times, respectively, when administered with food compared to the levels observed under fasting conditions.
-Lurasidone hydrochloride exposure was not affected as meal size was increased from 350 to 1,000 calories and was independent of meal fat content [see Dosage and Administration (2.3)].
+Lurasidone hydrochloride exposure was not affected as meal size was increased from 350 calories to 1,000 calories and was independent of meal fat content [see Dosage and Administration (2.3)].
 
 In clinical studies, establishing the safety and efficacy of lurasidone hydrochloride, patients were instructed to take their daily dose with food [see Dosage and Administration (2.3)].
 
@@ -55,10 +55,10 @@ Following administration of 40 mg of lurasidone hydrochloride, the mean (% CV) a
 Drug Interaction Studies
 
 Effects of other drugs on the exposure of lurasidone are summarized in Figure 1.
-A population PK analyses concluded that co-administration of lithium 300 to 2,400 mg/day or valproate 300 to 2,000 mg/day with lurasidone for up to 6 weeks has minimal effect on lurasidone exposure.
+A population PK analyses concluded that co-administration of lithium 300 mg/day to 2,400 mg/day or valproate 300 mg/day to 2,000 mg/day with lurasidone for up to 6 weeks has minimal effect on lurasidone exposure.
 
 And the effects of lurasidone hydrochloride on the exposures of other drugs are summarized in Figure 2.
-A population PK analyses concluded that co-administration of lurasidone has minimal effect on lithium and valproate exposure when it is co-administered with lithium 300 to 2,400 mg/day or valproate 300 to 2,000 mg/day.
+A population PK analyses concluded that co-administration of lurasidone has minimal effect on lithium and valproate exposure when it is co-administered with lithium 300 mg/day to 2,400 mg/day or valproate 300 mg/day to 2,000 mg/day.
 
 Figure 1: Impact of Other Drugs on Lurasidone Hydrochloride Pharmacokinetics
 
@@ -70,6 +70,6 @@ The effect of intrinsic patient factors on the pharmacokinetics of lurasidone hy
 
 Pediatric Patients
 
-Lurasidone hydrochloride exposure (i.e. steady-state Cmax and AUC) in children and adolescent patients (10 to 17 years of age) was generally similar to that in adults across the dose range from 40 mg to 160 mg, without adjusting for body weight.
+Lurasidone hydrochloride exposure (i.e., steady-state Cmax and AUC) in children and adolescent patients (10 to 17 years of age) was generally similar to that in adults across the dose range from 40 mg to 160 mg, without adjusting for body weight.
 
 Figure 3: Impact of Other Patient Factors on Lurasidone Hydrochloride Pharmacokinetics

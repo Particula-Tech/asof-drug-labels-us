@@ -9,7 +9,7 @@ Advise patients and caregivers to look for the emergence of suicidality, especia
 Neuroleptic Malignant Syndrome
 
 Counsel patients about a potentially fatal adverse reaction referred to as Neuroleptic Malignant Syndrome (NMS).
-Advise patients, family members, or caregivers to contact healthcare provider or to report to the emergency room if they experience signs and symptoms of NMS [see Warnings and Precautions (5.4)].
+Advise patients, family members, or caregivers to contact the healthcare provider or to report to the emergency room if they experience signs and symptoms of NMS [see Warnings and Precautions (5.4)].
 
 Tardive Dyskinesia
 
@@ -62,4 +62,4 @@ Ltd. Ahmedabad 382220, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-10-2024-03
+02-2025-04

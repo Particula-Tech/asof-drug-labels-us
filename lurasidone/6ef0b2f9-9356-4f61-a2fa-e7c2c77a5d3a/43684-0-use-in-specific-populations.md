@@ -55,7 +55,7 @@ The development and health benefits of breastfeeding should be considered along 
 
 Bipolar Depression
 
-The safety and effectiveness of lurasidone hydrochloride tablet 20 to 80 mg/day for the treatment of bipolar depression in pediatric patients (10 to 17 years) was established in a 6-week, placebo-controlled clinical study in 347 pediatric patients [see Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
+The safety and effectiveness of lurasidone hydrochloride tablet 20 mg/day to 80 mg/day for the treatment of bipolar depression in pediatric patients (10 to 17 years) was established in a 6-week, placebo-controlled clinical study in 347 pediatric patients [see Dosage and Administration (2.2), Adverse Reactions (6.1), and Clinical Studies (14.2)].
 
 The safety and effectiveness of lurasidone hydrochloride has not been established in pediatric patients less than 10 years of age with bipolar depression.
 

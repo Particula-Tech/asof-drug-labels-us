@@ -27,7 +27,7 @@ Table 2: Risk Differences of the Number of Cases of Suicidal Thoughts or Behavio
 | 25 to 64 | 1 fewer patient |
 | ≥ 65 | 6 fewer patients |
 
-It is unknown whether the risk of suicidal thoughts and behaviors in pediatric and young adult patients extends to longer-term use, i.e. beyond four months.
+It is unknown whether the risk of suicidal thoughts and behaviors in pediatric and young adult patients extends to longer-term use, i.e., beyond four months.
 However, there is substantial evidence from placebo-controlled maintenance studies in adults with MDD that antidepressants delay the recurrence of depression.
 
 Monitor all antidepressant-treated patients for clinical worsening and emergence of suicidal thoughts and behaviors, especially during the initial few months of drug therapy and at times of dosage changes.
@@ -99,15 +99,15 @@ Table 4: Change in Fasting Glucose in the Adult Monotherapy Bipolar Depression S
 
 |  |  | Lurasidone Hydrochloride |  |
 | --- | --- | --- | --- |
-|  | Placebo | 20 to 60 mg/day | 80 to 120 mg/day |
+|  | Placebo | 20 mg/day to 60 mg/day | 80 mg/day to 120 mg/day |
 | Mean Change from Baseline (mg/dL) |  |  |  |
-|  | n=148 | n=140 | n=143 |
+|  | n = 148 | n = 140 | n = 143 |
 | Serum Glucose | +1.8 | -0.8 | +1.8 |
 | Proportion of Patients with Shifts to ≥ 126 mg/dL |  |  |  |
 | Serum Glucose (≥ 126 mg/dL) | 4.3% (6/141) | 2.2% (3/138) | 6.4% (9/141) |
-| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 60 mg/day, lurasidone hydrochloride 80 to 120 mg/day, or placebo |  |  |  |
+| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 mg/day to 60 mg/day, lurasidone hydrochloride 80 mg/day to 120 mg/day, or placebo |  |  |  |
 
-In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride as monotherapy in the short-term study and continued in the longer-term study, had a mean change in glucose of +1.2 mg/dL at week 24 (n=129).
+In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride as monotherapy in the short-term study and continued in the longer-term study, had a mean change in glucose of +1.2 mg/dL at week 24 (n = 129).
 
 Adjunctive Therapy with Lithium or Valproate
 
@@ -117,20 +117,20 @@ Table 5: Change in Fasting Glucose in the Adult Adjunctive Therapy Bipolar Depre
 
 |  |  | Lurasidone Hydrochloride |
 | --- | --- | --- |
-|  | Placebo | 20 to 120 mg/day |
+|  | Placebo | 20 mg/day to 120 mg/day |
 | Mean Change from Baseline (mg/dL) |  |  |
-|  | n=302 | n=319 |
+|  | n = 302 | n = 319 |
 | Serum Glucose | -0.9 | +1.2 |
 | Proportion of Patients with Shifts to ≥ 126 mg/dL |  |  |
 | Serum Glucose (≥ 126 mg/dL) | 1.0% (3/290) | 1.3% (4/316) |
-| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 120 mg/day or placebo as adjunctive therapy with lithium or valproate. |  |  |
+| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 mg/day to 120 mg/day or placebo as adjunctive therapy with lithium or valproate. |  |  |
 
-In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride as adjunctive therapy with either lithium or valproate in the short-term study and continued in the longer-term study, had a mean change in glucose of +1.7 mg/dL at week 24 (n=88).
+In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride as adjunctive therapy with either lithium or valproate in the short-term study and continued in the longer-term study, had a mean change in glucose of +1.7 mg/dL at week 24 (n = 88).
 
 Pediatric Patients (10 to 17 years)
 
 In studies of pediatric patients 10 to 17 years and adults with bipolar depression, changes in fasting glucose were similar.
-In the 6-week, placebo-controlled study of pediatric patients with bipolar depression, mean change in fasting glucose was +1.6 mg/dL for lurasidone hydrochloride 20 to 80 mg/day (n=145) and -0.5 mg/dL for placebo (n=145).
+In the 6-week, placebo-controlled study of pediatric patients with bipolar depression, mean change in fasting glucose was +1.6 mg/dL for lurasidone hydrochloride 20 mg/day to 80 mg/day (n = 145) and -0.5 mg/dL for placebo (n = 145).
 
 Pediatric Patients (6 to 17 years)
 
@@ -152,17 +152,17 @@ Table 7: Change in Fasting Lipids in the Adult Monotherapy Bipolar Depression St
 
 |  |  | Lurasidone Hydrochloride |  |
 | --- | --- | --- | --- |
-|  | Placebo | 20 to 60 mg/day | 80 to 120 mg/day |
+|  | Placebo | 20 mg/day to 60 mg/day | 80 mg/day to 120 mg/day |
 | Mean Change from Baseline (mg/dL) |  |  |  |
-|  | n=147 | n=140 | n=144 |
+|  | n = 147 | n = 140 | n = 144 |
 | Total cholesterol | -3.2 | +1.2 | -4.6 |
 | Triglycerides | +6.0 | +5.6 | +0.4 |
 | Proportion of Patients with Shifts |  |  |  |
 | Total cholesterol (≥ 240 mg/dL) | 4.2% (5/118) | 4.4% (5/113) | 4.4% (5/114) |
 | Triglycerides (≥ 200 mg/dL) | 4.8% (6/126) | 10.1% (12/119) | 9.8% (12/122) |
-| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 60 mg/day, lurasidone hydrochloride 80 to 120 mg/day, or placebo |  |  |  |
+| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 mg/day to 60 mg/day, lurasidone hydrochloride 80 mg/day to 120 mg/day, or placebo |  |  |  |
 
-In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride as monotherapy in the short-term and continued in the longer-term study had a mean change in total cholesterol and triglycerides of -0.5 mg/dL (n=130) and -1.0 mg/dL (n=130) at week 24, respectively.
+In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride as monotherapy in the short-term and continued in the longer-term study had a mean change in total cholesterol and triglycerides of -0.5 mg/dL (n = 130) and -1.0 mg/dL (n = 130) at week 24, respectively.
 
 Adjunctive Therapy with Lithium or Valproate
 
@@ -172,21 +172,21 @@ Table 8: Change in Fasting Lipids in the Adult Adjunctive Therapy Bipolar Depres
 
 |  |  | Lurasidone Hydrochloride |
 | --- | --- | --- |
-|  | Placebo | 20 to 120 mg/day |
+|  | Placebo | 20 mg/day to 120 mg/day |
 | Mean Change from Baseline (mg/dL) |  |  |
-|  | n=303 | n=321 |
+|  | n = 303 | n = 321 |
 | Total cholesterol | -2.9 | -3.1 |
 | Triglycerides | -4.6 | +4.6 |
 | Proportion of Patients with Shifts |  |  |
 | Total cholesterol (≥ 240 mg/dL) | 5.7% (15/263) | 5.4% (15/276) |
 | Triglycerides (≥ 200 mg/dL) | 8.6% (21/243) | 10.8% (28/260) |
-| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 120 mg/day or placebo as adjunctive therapy with lithium or valproate. |  |  |
+| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 mg/day to 120 mg/day or placebo as adjunctive therapy with lithium or valproate. |  |  |
 
-In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride, as adjunctive therapy with either lithium or valproate in the short-term study and continued in the longer-term study, had a mean change in total cholesterol and triglycerides of -0.9 (n=88) and +5.3 (n=88) mg/dL at week 24, respectively.
+In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride, as adjunctive therapy with either lithium or valproate in the short-term study and continued in the longer-term study, had a mean change in total cholesterol and triglycerides of -0.9 (n = 88) and +5.3 (n = 88) mg/dL at week 24, respectively.
 
 Pediatric Patients (10 to 17 years)
 
-In the 6-week, placebo-controlled bipolar depression study with pediatric patients 10 to 17 years, mean change in fasting cholesterol was -6.3 mg/dL for lurasidone hydrochloride 20 to 80 mg/day (n=144) and -1.4 mg/dL for placebo (n=145), and mean change in fasting triglyceride was -7.6 mg/dL for lurasidone hydrochloride 20 to 80 mg/day (n=144) and +5.9 mg/dL for placebo (n=145).
+In the 6-week, placebo-controlled bipolar depression study with pediatric patients 10 to 17 years, mean change in fasting cholesterol was -6.3 mg/dL for lurasidone hydrochloride 20 mg/day to 80 mg/day (n=144) and -1.4 mg/dL for placebo (n = 145), and mean change in fasting triglyceride was -7.6 mg/dL for lurasidone hydrochloride 20 mg/day to 80 mg/day (n = 144) and +5.9 mg/dL for placebo (n = 145).
 
 Pediatric Patients (6 to 17 years)
 
@@ -212,11 +212,11 @@ Table 11: Mean Change in Weight (kg) from Baseline in the Adult Monotherapy Bipo
 
 |  |  | Lurasidone Hydrochloride |  |
 | --- | --- | --- | --- |
-|  | Placebo (n=151) | 20 to 60 mg/day (n=143) | 80 to 120 mg/day (n=147) |
+|  | Placebo (n = 151) | 20 mg/day to 60 mg/day (n = 143) | 80 mg/day to 120 mg/day (n = 147) |
 | All Patients | -0.04 | +0.56 | +0.02 |
-| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 60 mg/day, lurasidone hydrochloride 80 to 120 mg/day, or placebo |  |  |  |
+| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 mg/day to 60 mg/day, lurasidone hydrochloride 80 mg/day to 120 mg/day, or placebo |  |  |  |
 
-In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride as monotherapy in the short-term and continued in the longer-term study had a mean change in weight of -0.02 kg at week 24 (n=130).
+In the uncontrolled, open-label, longer-term bipolar depression study, patients who received lurasidone hydrochloride as monotherapy in the short-term and continued in the longer-term study had a mean change in weight of -0.02 kg at week 24 (n = 130).
 
 Adjunctive Therapy with Lithium or Valproate
 
@@ -228,11 +228,11 @@ Table 12: Mean Change in Weight (kg) from Baseline in the Adult Adjunctive Thera
 
 |  |  | Lurasidone Hydrochloride |
 | --- | --- | --- |
-|  | Placebo (n=307) | 20 to 120 mg/day (n=327) |
+|  | Placebo (n = 307) | 20 mg/day to 120 mg/day (n = 327) |
 | All Patients | +0.16 | +0.11 |
-| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 120 mg/day or placebo as adjunctive therapy with lithium or valproate. |  |  |
+| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 mg/day to 120 mg/day or placebo as adjunctive therapy with lithium or valproate. |  |  |
 
-In the uncontrolled, open-label, longer-term bipolar depression study, patients who were treated with lurasidone hydrochloride, as adjunctive therapy with either lithium or valproate in the short-term and continued in the longer-term study, had a mean change in weight of +1.28 kg at week 24 (n=86).
+In the uncontrolled, open-label, longer-term bipolar depression study, patients who were treated with lurasidone hydrochloride, as adjunctive therapy with either lithium or valproate in the short-term and continued in the longer-term study, had a mean change in weight of +1.28 kg at week 24 (n = 86).
 
 Pediatric Patients (10 to 17 years)
 
@@ -244,7 +244,7 @@ Table 13: Mean Change in Weight (kg) from Baseline in the Bipolar Depression Stu
 
 |  |  | Lurasidone Hydrochloride |
 | --- | --- | --- |
-|  | Placebo(n=170) | 20 to 80 mg/day(n=175) |
+|  | Placebo(n = 170) | 20 mg/day to 80 mg/day(n = 175) |
 | All Patients | +0.5 | +0.7 |
 
 Pediatric Patients (6 to 17 years)
@@ -266,7 +266,7 @@ Long-standing hyperprolactinemia, when associated with hypogonadism, may lead to
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in a carcinogenicity study conducted with lurasidone in rats and mice [see Nonclinical Toxicology (13)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 Bipolar Depression
 
@@ -274,7 +274,7 @@ Adults
 
 Monotherapy
 
-The median change from baseline to endpoint in prolactin levels, in the adult short-term, flexible-dosed, placebo-controlled monotherapy bipolar depression study, was +1.7 ng/mL and +3.5 ng/mL with lurasidone hydrochloride 20 to 60 mg/day and 80 to 120 mg/day, respectively compared to +0.3 ng/mL with placebo-treated patients.
+The median change from baseline to endpoint in prolactin levels, in the adult short-term, flexible-dosed, placebo-controlled monotherapy bipolar depression study, was +1.7 ng/mL and +3.5 ng/mL with lurasidone hydrochloride 20 mg/day to 60 mg/day and 80 mg/day to 120 mg/day, respectively compared to +0.3 ng/mL with placebo-treated patients.
 The median change from baseline to endpoint for males was +1.5 ng/mL and for females was +3.1 ng/mL.
 Median changes for prolactin by dose range are shown in Table 16.
 
@@ -282,21 +282,21 @@ Table 16: Median Change in Prolactin (ng/mL) from Baseline in the Adult Monother
 
 |  |  | Lurasidone Hydrochloride |  |
 | --- | --- | --- | --- |
-|  | Placebo | 20 to 60 mg/day | 80 to 120 mg/day |
-| All Patients | +0.3 (n=147) | +1.7 (n=140) | +3.5 (n=144) |
-| Females | 0.0 (n=82) | +1.8 (n=78) | +5.3 (n=88) |
-| Males | +0.4 (n=65) | +1.2 (n=62) | +1.9 (n=56) |
-| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 60 mg/day, lurasidone hydrochloride 80 to 120 mg/day, or placebo |  |  |  |
+|  | Placebo | 20 mg/day to 60 mg/day | 80 mg/day to 120 mg/day |
+| All Patients | +0.3 (n = 147) | +1.7 (n = 140) | +3.5 (n = 144) |
+| Females | 0.0 (n = 82) | +1.8 (n = 78) | +5.3 (n = 88) |
+| Males | +0.4 (n = 65) | +1.2 (n = 62) | +1.9 (n = 56) |
+| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 mg/day to 60 mg/day, lurasidone hydrochloride 80 mg/day to 120 mg/day, or placebo |  |  |  |
 
 The proportion of patients with prolactin elevations ≥ 5x upper limit of normal (ULN) was 0.4% for lurasidone hydrochloride-treated patients and 0.0% for placebo-treated patients.
 The proportion of female patients with prolactin elevations ≥ 5x ULN was 0.6% for lurasidone hydrochloride-treated patients and 0% for placebo-treated female patients.
 The proportion of male patients with prolactin elevations ≥ 5x ULN was 0% and 0% for placebo-treated male patients.
 
-In the uncontrolled, open-label, longer-term bipolar depression study, patients who were treated with lurasidone hydrochloride as monotherapy in the short-term and continued in the longer-term study, had a median change in prolactin of -1.15 ng/mL at week 24 (n=130).
+In the uncontrolled, open-label, longer-term bipolar depression study, patients who were treated with lurasidone hydrochloride as monotherapy in the short-term and continued in the longer-term study, had a median change in prolactin of -1.15 ng/mL at week 24 (n = 130).
 
 Adjunctive Therapy with Lithium or Valproate
 
-The median change from baseline to endpoint in prolactin levels, in the adult short-term, flexible-dosed, placebo-controlled adjunctive therapy bipolar depression studies was +2.8 ng/mL with lurasidone hydrochloride 20 to 120 mg/day compared to 0.0 ng/mL with placebo-treated patients.
+The median change from baseline to endpoint in prolactin levels, in the adult short-term, flexible-dosed, placebo-controlled adjunctive therapy bipolar depression studies was +2.8 ng/mL with lurasidone hydrochloride 20 mg/day to 120 mg/day compared to 0.0 ng/mL with placebo-treated patients.
 The median change from baseline to endpoint for males was +2.4 ng/mL and for females was +3.2 ng/mL.
 Median changes for prolactin across the dose range are shown in Table 17.
 
@@ -304,17 +304,17 @@ Table 17: Median Change in Prolactin (ng/mL) from Baseline in the Adult Adjuncti
 
 |  |  | Lurasidone Hydrochloride |
 | --- | --- | --- |
-|  | Placebo | 20 to 120 mg/day |
-| All Patients | 0.0 (n=301) | +2.8 (n=321) |
-| Females | +0.4 (n=156) | +3.2 (n=162) |
-| Males | -0.1 (n=145) | +2.4 (n=159) |
-| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 to 120 mg/day or placebo as adjunctive therapy with lithium or valproate. |  |  |
+|  | Placebo | 20 mg/day to 120 mg/day |
+| All Patients | 0.0 (n = 301) | +2.8 (n = 321) |
+| Females | +0.4 (n = 156) | +3.2 (n = 162) |
+| Males | -0.1 (n = 145) | +2.4 (n = 159) |
+| Patients were randomized to flexibly dosed lurasidone hydrochloride 20 mg/day to 120 mg/day or placebo as adjunctive therapy with lithium or valproate. |  |  |
 
 The proportion of patients with prolactin elevations ≥ 5x upper limit of normal (ULN) was 0.0% for lurasidone hydrochloride-treated patients and 0.0% for placebo-treated patients.
 The proportion of female patients with prolactin elevations ≥ 5x ULN was 0% for lurasidone hydrochloride-treated patients and 0% for placebo-treated female patients.
 The proportion of male patients with prolactin elevations ≥ 5x ULN was 0% and 0% for placebo-treated male patients.
 
-In the uncontrolled, open-label, longer-term bipolar depression study, patients who were treated with lurasidone hydrochloride, as adjunctive therapy with either lithium or valproate, in the short-term and continued in the longer-term study, had a median change in prolactin of -2.9 ng/mL at week 24 (n=88).
+In the uncontrolled, open-label, longer-term bipolar depression study, patients who were treated with lurasidone hydrochloride, as adjunctive therapy with either lithium or valproate, in the short-term and continued in the longer-term study, had a median change in prolactin of -2.9 ng/mL at week 24 (n = 88).
 
 Pediatric Patients (10 to 17 years)
 
@@ -326,10 +326,10 @@ Table 18: Median Change in Prolactin (ng/mL) from Baseline in the Bipolar Depres
 
 |  |  | Lurasidone Hydrochloride |
 | --- | --- | --- |
-|  | Placebo | 20 to 80 mg/day |
-| All Patients | +0.50(n=157) | +1.10 (n=165) |
-| Females | +0.55 (n=78) | +2.50 (n=83) |
-| Males | +0.50 (n=79) | +0.85 (n=82) |
+|  | Placebo | 20 mg/day to 80 mg/day |
+| All Patients | +0.50(n = 157) | +1.10 (n = 165) |
+| Females | +0.55 (n = 78) | +2.50 (n = 83) |
+| Males | +0.50 (n = 79) | +0.85 (n = 82) |
 
 The proportion of patients with prolactin elevations ≥ 5x ULN was 0% for lurasidone hydrochloride-treated patients and 0.6% for placebo-treated patients.
 The proportion of female patients with prolactin elevations ≥ 5x ULN was 0% for lurasidone hydrochloride-treated patients and 1.3% for placebo-treated female patients.
@@ -338,7 +338,7 @@ No male patients in the placebo or lurasidone hydrochloride treatment groups had
 Pediatric Patients (6 to 17 years)
 
 In a 104-week, open-label study of pediatric patients with bipolar depression, autistic disorder, or another indication, the median changes from baseline to endpoint in serum prolactin levels were -0.20 ng/mL (all patients), -0.30 ng/mL (females), and -0.05 ng/mL (males).
-The proportions of patients with a markedly high prolactin level (≥5 times the upper limit of normal) at any time during open-label treatment were 2% (all patients), 3% (females), and 1% (males).
+The proportions of patients with a markedly high prolactin level (≥ 5 times the upper limit of normal) at any time during open-label treatment were 2% (all patients), 3% (females), and 1% (males).
 
 Adverse events among females in this trial that are potentially prolactin-related include galactorrhea (0.6%).
 Among male patients in this study, decreased libido was reported in one patient (0.2%) and there were no reports of impotence, gynecomastia, or galactorrhea.
@@ -381,7 +381,7 @@ Pediatric Patients (10 to 17 years)
 
 In the 6-week, placebo-controlled bipolar depression study in pediatric patients 10 to 17 years, there were no reported adverse events of orthostatic hypotension or syncope.
 
-Orthostatic hypotension, as assessed by vital signs, occurred with a frequency of 1.1% with lurasidone hydrochloride 20 to 80 mg/day, compared to 0.6% with placebo.
+Orthostatic hypotension, as assessed by vital signs, occurred with a frequency of 1.1% with lurasidone hydrochloride 20 mg/day to 80 mg/day, compared to 0.6% with placebo.
 
 ## 5.10 Falls
 
@@ -422,7 +422,7 @@ In the adult short-term, flexible-dosed, placebo-controlled adjunctive therapy b
 
 Pediatric Patients (10 to 17 years)
 
-In the 6-week, placebo-controlled bipolar depression study in pediatric patients 10 to 17 years, somnolence was reported by 11.4% (20/175) of patients treated with lurasidone hydrochloride 20 to 80 mg/day compared to 5.8% (10/172) of placebo treated patients.
+In the 6-week, placebo-controlled bipolar depression study in pediatric patients 10 to 17 years, somnolence was reported by 11.4% (20/175) of patients treated with lurasidone hydrochloride 20 mg/day to 80 mg/day compared to 5.8% (10/172) of placebo treated patients.
 
 ## 5.13 Body Temperature Dysregulation
 

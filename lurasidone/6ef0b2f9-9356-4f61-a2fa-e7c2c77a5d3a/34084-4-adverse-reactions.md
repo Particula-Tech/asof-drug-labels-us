@@ -35,7 +35,7 @@ In order to provide a meaningful estimate of the proportion of individuals exper
 
 Bipolar Depression (Monotherapy)
 
-The following findings are based on the adult short-term, placebo-controlled premarketing study for bipolar depression in which lurasidone hydrochloride was administered at daily doses ranging from 20 mg to 120 mg (n=331).
+The following findings are based on the adult short-term, placebo-controlled premarketing study for bipolar depression in which lurasidone hydrochloride was administered at daily doses ranging from 20 mg to 120 mg (n = 331).
 
 Commonly Observed Adverse Reactions: The most common adverse reactions (incidence ≥ 5%, in either dose group, and at least twice the rate of placebo) in patients treated with lurasidone hydrochloride were akathisia, extrapyramidal symptoms, somnolence, nausea, vomiting, diarrhea, and anxiety.
 
@@ -48,7 +48,7 @@ Table 20: Adverse Reactions in 2% or More of Lurasidone Hydrochloride-Treated Pa
 
 |  | Percentage of Patients Reporting Reaction |  |  |  |
 | --- | --- | --- | --- | --- |
-| Body System or Organ Class Dictionary-derived Term | Placebo (N=168) (%) | Lurasidone Hydrochloride 20 to 60 mg/day (N=164) (%) | Lurasidone Hydrochloride 80 to 120 mg/day (N=167) (%) | All Lurasidone Hydrochloride(N=331) (%) |
+| Body System or Organ Class Dictionary-derived Term | Placebo (N = 168) (%) | Lurasidone Hydrochloride 20 mg/day to 60 mg/day (N = 164) (%) | Lurasidone Hydrochloride 80 mg/day to 120 mg/day (N = 167) (%) | All Lurasidone Hydrochloride(N = 331) (%) |
 | Gastrointestinal Disorders |  |  |  |  |
 | Nausea | 8 | 10 | 17 | 14 |
 | Dry Mouth | 4 | 6 | 4 | 5 |
@@ -70,13 +70,13 @@ Table 20: Adverse Reactions in 2% or More of Lurasidone Hydrochloride-Treated Pa
 
 Dose-Related Adverse Reactions in the Monotherapy Study:
 
-In the adult short-term, placebo-controlled study (involving lower and higher lurasidone hydrochloride dose ranges) [see Clinical Studies (14.2)] the adverse reactions that occurred with a greater than 5% incidence in the patients treated with lurasidone hydrochloride in any dose group and greater than placebo in both groups were nausea (10.4%, 17.4%), somnolence (7.3%, 13.8%), akathisia (7.9%, 10.8%), and extrapyramidal symptoms (4.9%, 9.0%) for lurasidone hydrochloride 20 to 60 mg/day and lurasidone hydrochloride 80 to 120 mg/day, respectively.
+In the adult short-term, placebo-controlled study (involving lower and higher lurasidone hydrochloride dose ranges) [see Clinical Studies (14.2)] the adverse reactions that occurred with a greater than 5% incidence in the patients treated with lurasidone hydrochloride in any dose group and greater than placebo in both groups were nausea (10.4%, 17.4%), somnolence (7.3%, 13.8%), akathisia (7.9%, 10.8%), and extrapyramidal symptoms (4.9%, 9.0%) for lurasidone hydrochloride 20 mg/day to 60 mg/day and lurasidone hydrochloride 80 mg/day to 120 mg/day, respectively.
 
 Bipolar Depression
 
 Adjunctive Therapy with Lithium or Valproate
 
-The following findings are based on two adult short-term, placebo-controlled premarketing studies for bipolar depression in which lurasidone hydrochloride was administered at daily doses ranging from 20 mg to 120 mg as adjunctive therapy with lithium or valproate (n=360).
+The following findings are based on two adult short-term, placebo-controlled premarketing studies for bipolar depression in which lurasidone hydrochloride was administered at daily doses ranging from 20 mg to 120 mg as adjunctive therapy with lithium or valproate (n = 360).
 
 Commonly Observed Adverse Reactions: The most common adverse reactions (incidence ≥ 5% and at least twice the rate of placebo) in subjects treated with lurasidone hydrochloride were akathisia and somnolence.
 
@@ -89,7 +89,7 @@ Table 21: Adverse Reactions in 2% or More of Lurasidone Hydrochloride-Treated Pa
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| Body System or Organ Class Dictionary-derived Term | Placebo (N=334) (%) | Lurasidone Hydrochloride 20 to 120 mg/day (N=360) (%) |
+| Body System or Organ Class Dictionary-derived Term | Placebo (N = 334) (%) | Lurasidone Hydrochloride 20 mg/day to 120 mg/day (N = 360) (%) |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 10 | 14 |
 | Vomiting | 1 | 4 |
@@ -113,7 +113,7 @@ Pediatric Patients (10 to 17 years)
 
 Bipolar Depression
 
-The following findings are based on the 6-week, placebo-controlled study for bipolar depression in pediatric patients 10 to 17 years in which lurasidone hydrochloride was administered at daily doses ranging from 20 mg to 80 mg (N=175).
+The following findings are based on the 6-week, placebo-controlled study for bipolar depression in pediatric patients 10 to 17 years in which lurasidone hydrochloride was administered at daily doses ranging from 20 mg to 80 mg (N = 175).
 
 Commonly Observed Adverse Reactions:The most common adverse reactions (incidence ≥ 5%, and at least twice the rate of placebo) in pediatric patients (10 to 17 years) treated with lurasidone hydrochloride were nausea, weight increase, and insomnia.
 
@@ -125,7 +125,7 @@ Table 23: Adverse Reactions in 2% or More of Lurasidone Hydrochloride-Treated Pa
 
 |  | Percentage of Patients Reporting Reaction |  |
 | --- | --- | --- |
-| Body System or Organ ClassDictionary-derived Term | Placebo(N=172) | Lurasidone Hydrochloride20 to 80 mg/day(N=175) |
+| Body System or Organ ClassDictionary-derived Term | Placebo(N = 172) | Lurasidone Hydrochloride20 mg/day to 80 mg/day(N = 175) |
 | Gastrointestinal Disorders |  |  |
 | Nausea | 6 | 16 |
 | Vomiting | 4 | 6 |
@@ -165,7 +165,7 @@ Table 26: Incidence of EPS Compared to Placebo in the Adult Monotherapy Bipolar 
 
 |  | Lurasidone Hydrochloride |  |  |
 | --- | --- | --- | --- |
-| Adverse Event Term | Placebo (N=168) (%) | 20 to 60 mg/day (N=164) (%) | 80 to 120 mg/day (N=167) (%) |
+| Adverse Event Term | Placebo (N = 168) (%) | 20 mg/day to 60 mg/day (N = 164) (%) | 80 mg/day to 120 mg/day (N = 167) (%) |
 | All EPS events | 5 | 12 | 20 |
 | All EPS events, excluding Akathisia/Restlessness | 2 | 5 | 9 |
 | Akathisia | 2 | 8 | 11 |
@@ -182,7 +182,7 @@ Incidence of EPS is provided in Table 27.
 
 Table 27: Incidence of EPS Compared to Placebo in the Adult Adjunctive Therapy Bipolar Depression Studies
 
-| Adverse Event Term | Placebo (N=334) (%) | Lurasidone Hydrochloride 20 to 120 mg/day (N=360) (%) |
+| Adverse Event Term | Placebo (N = 334) (%) | Lurasidone Hydrochloride 20 mg/day to 120 mg/day (N = 360) (%) |
 | --- | --- | --- |
 | All EPS events | 13 | 24 |
 | All EPS events, excluding Akathisia/Restlessness | 9 | 14 |
@@ -196,12 +196,12 @@ In the short-term, placebo-controlled bipolar depression studies, data was objec
 
 Pediatric Patients (10 to 17 years)
 
-In the 6-week, placebo-controlled study of bipolar depression in pediatric patients 10 to 17 years, the incidence of EPS, excluding events related to akathisia, for lurasidone hydrochloride-treated patients was similar in the lurasidone hydrochloride 20 to 80 mg/day (3.4%) treatment group vs. placebo (3.5%); and the incidence of akathisia-related events for lurasidone hydrochloride-treated patients was 2.9% vs. 3.5% for placebo-treated patients.
+In the 6-week, placebo-controlled study of bipolar depression in pediatric patients 10 to 17 years, the incidence of EPS, excluding events related to akathisia, for lurasidone hydrochloride-treated patients was similar in the lurasidone hydrochloride 20 mg/day to 80 mg/day (3.4%) treatment group vs. placebo (3.5%); and the incidence of akathisia-related events for lurasidone hydrochloride-treated patients was 2.9% vs. 3.5% for placebo-treated patients.
 Incidence of EPS by dose is provided in Table 28.
 
 Table 28: Incidence of EPS Compared to Placebo in the Bipolar Depression Study in Pediatric Patients (10 to 17 years)
 
-| Adverse Event Term | Placebo(N=172)(%) | Lurasidone Hydrochloride20 to 80 mg/day(N=175)(%) |
+| Adverse Event Term | Placebo(N = 172)(%) | Lurasidone Hydrochloride20 mg/day to 80 mg/day(N = 175)(%) |
 | --- | --- | --- |
 | All EPS events* | 5 | 6 |
 | All EPS events, excluding Akathisia/Restlessness | 4 | 3 |
@@ -245,7 +245,7 @@ Adults
 
 Monotherapy
 
-In the adult short-term, flexible-dose, placebo-controlled monotherapy bipolar depression study, dystonia occurred in 0.9% of lurasidone hydrochloride-treated subjects (0.0% and 1.8% for lurasidone hydrochloride 20 to 60 mg/day and lurasidone hydrochloride 80 to 120 mg/day, respectively) compared to 0.0% of subjects receiving placebo.
+In the adult short-term, flexible-dose, placebo-controlled monotherapy bipolar depression study, dystonia occurred in 0.9% of lurasidone hydrochloride-treated subjects (0.0% and 1.8% for lurasidone hydrochloride 20 mg/day to 60 mg/day and lurasidone hydrochloride 80 mg/day to 120 mg/day, respectively) compared to 0.0% of subjects receiving placebo.
 No subject discontinued the clinical study due to dystonic events.
 
 Adjunctive Therapy with Lithium or Valproate
@@ -309,7 +309,7 @@ A creatinine shift from normal to high occurred in 2.8% (9/322) of lurasidone hy
 
 Table 31: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in the Adult Monotherapy Bipolar Depression Study
 
-| Laboratory Parameter | Placebo (N=168) | Lurasidone Hydrochloride 20 to 60 mg/day (N=164) | Lurasidone Hydrochloride 80 to 120 mg/day (N=167) |
+| Laboratory Parameter | Placebo (N = 168) | Lurasidone Hydrochloride 20 mg/day to 60 mg/day (N = 164) | Lurasidone Hydrochloride 80 mg/day to 120 mg/day (N = 167) |
 | --- | --- | --- | --- |
 | Serum Creatinine Elevated | < 1% | 2% | 4% |
 
@@ -320,7 +320,7 @@ A creatinine shift from normal to high occurred in 4.3% (15/360) of lurasidone h
 
 Table 32: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in the Adult Adjunctive Therapy Bipolar Depression Studies
 
-| Laboratory Parameter | Placebo (N=334) | Lurasidone Hydrochloride 20 to 120 mg/day (N=360) |
+| Laboratory Parameter | Placebo (N = 334) | Lurasidone Hydrochloride 20 mg/day to 120 mg/day (N = 360) |
 | --- | --- | --- |
 | Serum Creatinine Elevated | 2% | 4% |
 
@@ -331,7 +331,7 @@ A creatinine shift from normal to high (based on the centralized laboratory defi
 
 Table 33: Serum Creatinine Shifts from Normal at Baseline to High at Study End-Point in the Bipolar Depression Study in Pediatric Patients (10 to 17 years)
 
-| Laboratory Parameter | Placebo(N=155) | Lurasidone Hydrochloride20 to 80 mg/day(N=163) |
+| Laboratory Parameter | Placebo(N = 155) | Lurasidone Hydrochloride20 mg/day to 80 mg/day(N = 163) |
 | --- | --- | --- |
 | Serum Creatinine Elevated | 4.5% | 6.7% |
 
