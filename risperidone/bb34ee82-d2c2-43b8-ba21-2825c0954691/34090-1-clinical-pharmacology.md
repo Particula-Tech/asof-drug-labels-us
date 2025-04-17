@@ -5,12 +5,12 @@
 The mechanism of action of risperidone in schizophrenia is unclear.
 The drug's therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D 2) and serotonin Type 2 (5HT 2) receptor antagonism.
 The clinical effect from risperidone results from the combined concentrations of risperidone and its major active metabolite, 9-hydroxyrisperidone (paliperidone) [see Clinical Pharmacology (12.3)].
-Antagonism at receptors other than D 2and 5HT 2may explain some of the other effects of risperidone [see Clinical Pharmacology (12.1)].
+Antagonism at receptors other than D 2 and 5HT 2 may explain some of the other effects of risperidone [see Clinical Pharmacology (12.1)].
 
 ## 12.2 Pharmacodynamics
 
-Risperidone is a monoaminergic antagonist with high affinity (Ki of 0.12 to 7.3 nM) for the serotonin Type 2 (5HT 2), dopamine Type 2 (D 2), α1 and α2 adrenergic, and H 1histaminergic receptors.
-Risperidone showed low to moderate affinity (Ki of 47 to 253 nM) for the serotonin 5HT 1C, 5HT 1D, and 5HT 1Areceptors, weak affinity (Ki of 620 to 800 nM) for the dopamine D 1and haloperidol-sensitive sigma site, and no affinity (when tested at concentrations >10 -5M) for cholinergic muscarinic or β1 and β2 adrenergic receptors.
+Risperidone is a monoaminergic antagonist with high affinity (Ki of 0.12 to 7.3 nM) for the serotonin Type 2 (5HT 2), dopamine Type 2 (D 2), α1 and α2 adrenergic, and H 1 histaminergic receptors.
+Risperidone showed low to moderate affinity (Ki of 47 to 253 nM) for the serotonin 5HT 1C, 5HT 1D, and 5HT 1A receptors, weak affinity (Ki of 620 to 800 nM) for the dopamine D 1 and haloperidol-sensitive sigma site, and no affinity (when tested at concentrations >10 -5 M) for cholinergic muscarinic or β1 and β2 adrenergic receptors.
 
 ## 12.3 Pharmacokinetics
 

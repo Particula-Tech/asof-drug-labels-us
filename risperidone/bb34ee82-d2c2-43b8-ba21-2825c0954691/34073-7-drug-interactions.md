@@ -48,7 +48,7 @@ Oral RISPERDAL (0.25 mg twice daily) did not show a clinically relevant effect o
 
 ## 7.11 Topiramate
 
-Oral RISPERDAL administered at doses from 1–6 mg/day concomitantly with topiramate 400 mg/day resulted in a 23% decrease in risperidone C maxand a 33% decrease in risperidone AUC 0–12 hourat steady state.
+Oral RISPERDAL administered at doses from 1–6 mg/day concomitantly with topiramate 400 mg/day resulted in a 23% decrease in risperidone C max and a 33% decrease in risperidone AUC 0–12 hour at steady state.
 Minimal reductions in the exposure to risperidone and 9-hydroxyrisperidone combined, and no change for 9-hydroxyrisperidone were observed.
 This interaction is unlikely to be of clinical significance.
 There was no clinically relevant effect of oral RISPERDAL on the pharmacokinetics of topiramate.

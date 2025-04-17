@@ -15,10 +15,10 @@ There are risks to the mother associated with untreated schizophrenia or bipolar
 Risperidone has been detected in plasma in adult subjects up to 8 weeks after a single-dose administration of RISPERDAL CONSTA [see Clinical Pharmacology (12.3)].
 The clinical significance of RISPERDAL CONSTA administered before pregnancy or anytime during pregnancy is not known.
 
-Oral administration of risperidone to pregnant mice caused cleft palate at doses 3 to 4 times the maximum recommended human dose (MRHD) with maternal toxicity observed at 4-times the MRHD based on mg/m 2body surface area.
-Risperidone was not teratogenic in rats or rabbits at doses up to 6-times the MRHD based on mg/m 2body surface area.
-Increased stillbirths and decreased birth weight occurred after oral risperidone administration to pregnant rats at 1.5-times the MRHD based on mg/m 2body surface area.
-Learning was impaired in offspring of rats when the dams were dosed at 0.6-times the MRHD and offspring mortality increased at doses 0.1 to 3 times the MRHD based on mg/m 2body surface area.
+Oral administration of risperidone to pregnant mice caused cleft palate at doses 3 to 4 times the maximum recommended human dose (MRHD) with maternal toxicity observed at 4-times the MRHD based on mg/m 2 body surface area.
+Risperidone was not teratogenic in rats or rabbits at doses up to 6-times the MRHD based on mg/m 2 body surface area.
+Increased stillbirths and decreased birth weight occurred after oral risperidone administration to pregnant rats at 1.5-times the MRHD based on mg/m 2 body surface area.
+Learning was impaired in offspring of rats when the dams were dosed at 0.6-times the MRHD and offspring mortality increased at doses 0.1 to 3 times the MRHD based on mg/m 2 body surface area.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -50,18 +50,18 @@ There was a small increase in the risk major of birth defects (RR=1.26, 95% CI 1
 
 Animal Data
 
-Oral administration of risperidone to pregnant mice during organogenesis caused cleft palate at 10 mg/kg/day which is 3 times the MRHD of 16 mg/day based on mg/m 2body surface area; maternal toxicity occurred at 4 times the MRHD.
-Risperidone was not teratogenic when administered orally to rats at 0.6 to 10 mg/kg/day and rabbits at 0.3 to 5 mg/kg/day, which are up to 6 times the MRHD of 16 mg/day risperidone based on mg/m 2body surface area.
-Learning was impaired in offspring of rats dosed orally throughout pregnancy at 1 mg/kg/day which is 0.6 times the MRHD and neuronal cell death increased in fetal brains of offspring of rats dosed during pregnancy at 1 and 2 mg/kg/day which are 0.6 and 1.2 times the MRHD based on mg/m 2body surface area; postnatal development and growth of the offspring were also delayed.
+Oral administration of risperidone to pregnant mice during organogenesis caused cleft palate at 10 mg/kg/day which is 3 times the MRHD of 16 mg/day based on mg/m 2 body surface area; maternal toxicity occurred at 4 times the MRHD.
+Risperidone was not teratogenic when administered orally to rats at 0.6 to 10 mg/kg/day and rabbits at 0.3 to 5 mg/kg/day, which are up to 6 times the MRHD of 16 mg/day risperidone based on mg/m 2 body surface area.
+Learning was impaired in offspring of rats dosed orally throughout pregnancy at 1 mg/kg/day which is 0.6 times the MRHD and neuronal cell death increased in fetal brains of offspring of rats dosed during pregnancy at 1 and 2 mg/kg/day which are 0.6 and 1.2 times the MRHD based on mg/m 2 body surface area; postnatal development and growth of the offspring were also delayed.
 
-Rat offspring mortality increased during the first 4 days of lactation when pregnant rats were dosed throughout gestation at 0.16 to 5 mg/kg/day which are 0.1 to 3 times the MRHD of 16 mg/day based on mg/m 2body surface area.
+Rat offspring mortality increased during the first 4 days of lactation when pregnant rats were dosed throughout gestation at 0.16 to 5 mg/kg/day which are 0.1 to 3 times the MRHD of 16 mg/day based on mg/m 2 body surface area.
 It is not known whether these deaths were due to a direct effect on the fetuses or pups or to effects on the dams; a no-effect dose could not be determined.
-The rate of stillbirths was increased at 2.5 mg/kg or 1.5 times the MRHD based on mg/m 2body surface area.
+The rate of stillbirths was increased at 2.5 mg/kg or 1.5 times the MRHD based on mg/m 2 body surface area.
 
 In a rat cross-fostering study the number of live offspring was decreased, the number of stillbirths increased, and the birth weight was decreased in offspring of drug-treated pregnant rats.
 In addition, the number of deaths increased by Day 1 among offspring of drug-treated pregnant rats, regardless of whether or not the offspring were cross-fostered.
 Risperidone also appeared to impair maternal behavior in that offspring body weight gain and survival (from Day 1 to 4 of lactation) were reduced in offspring born to control but reared by drug-treated dams.
-All of these effects occurred at 5 mg/kg which is 3 times the MRHD based on mg/m 2and the only dose tested in the study.
+All of these effects occurred at 5 mg/kg which is 3 times the MRHD based on mg/m 2 and the only dose tested in the study.
 
 ## 8.2 Lactation
 
@@ -83,7 +83,7 @@ Infertility
 
 Females
 
-Based on the pharmacologic action of risperidone (D 2receptor antagonism), treatment with RISPERDAL CONSTA may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.6)].
+Based on the pharmacologic action of risperidone (D 2 receptor antagonism), treatment with RISPERDAL CONSTA may result in an increase in serum prolactin levels, which may lead to a reversible reduction in fertility in females of reproductive potential [see Warnings and Precautions (5.6)].
 
 ## 8.4 Pediatric Use
 
@@ -92,7 +92,7 @@ However, juvenile animal toxicology studies have been conducted with oral risper
 
 Juvenile Animal Studies
 
-Juvenile dogs were treated with oral risperidone from weeks 10 to 50 of age (equivalent to the period of childhood through adolescence in humans), at doses of 0.31, 1.25, or 5 mg/kg/day, which are 1.2, 3.4 and 13.5 times the MRHD of 6 mg/day for children, based on mg/m 2body surface area.
+Juvenile dogs were treated with oral risperidone from weeks 10 to 50 of age (equivalent to the period of childhood through adolescence in humans), at doses of 0.31, 1.25, or 5 mg/kg/day, which are 1.2, 3.4 and 13.5 times the MRHD of 6 mg/day for children, based on mg/m 2 body surface area.
 Bone length and density were decreased with a no-effect dose of 0.31 mg/kg/day; this dose produced plasma AUC of risperidone plus its active metabolite paliperidone (9-hydroxy-risperidone) that were similar to those in children and adolescents receiving the MRHD of 6 mg/day.
 In addition, sexual maturation was delayed at all doses in both males and females.
 The above effects showed little or no reversibility in females after a 12 week drug-free recovery period.
