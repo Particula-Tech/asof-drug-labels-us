@@ -87,7 +87,7 @@ Rising Pharma Holdings, Inc.
 
 East Brunswick, NJ 08816
 
-140571
+141036
 
-Revised: Jan.
+Revised: Mar.
 2025 Dispense with Medication Guide available at: www.risingpharma.com/Medguides/ciprofloxacin-tablets.pdf

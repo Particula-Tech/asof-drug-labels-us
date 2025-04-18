@@ -324,11 +324,13 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Trademarks are the property of their respective owner.
 Manufactured by:Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India Rx only Distributed by:
 
-Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
+Rising Pharma Holdings, Inc.
+
+East Brunswick, NJ 08816
 
 For more information, call 1-844-874-7464.
 
-140583
+141079
 
-Revised: Jan.
+Revised: Mar.
 2025

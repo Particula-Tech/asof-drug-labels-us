@@ -32,7 +32,9 @@ Avoid fluoroquinolones, including ciprofloxacin, in patients who have previously
 
 ## 5.4 Central Nervous System Effects
 
-Psychiatric Adverse Reactions Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychosis, psychotic reactions progressing to suicidal ideations/thoughts, hallucinations, or paranoia; depression, or self-injurious behavior such as attempted or completed suicide; anxiety, agitation, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment.
+Psychiatric Adverse Reactions
+
+Fluoroquinolones, including ciprofloxacin, have been associated with an increased risk of psychiatric adverse reactions, including: toxic psychosis, psychotic reactions progressing to suicidal ideations/thoughts, hallucinations, or paranoia; depression, or self-injurious behavior such as attempted or completed suicide; anxiety, agitation, or nervousness; confusion, delirium, disorientation, or disturbances in attention; insomnia or nightmares; memory impairment.
 These reactions may occur following the first dose.
 Advise patients receiving ciprofloxacin to inform their healthcare provider immediately if these reactions occur, discontinue the drug, and institute appropriate care.
 
