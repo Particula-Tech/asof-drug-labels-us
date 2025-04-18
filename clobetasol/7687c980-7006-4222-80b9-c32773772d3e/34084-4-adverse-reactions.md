@@ -14,5 +14,5 @@ The following serious reactions are found elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Ocular adverse reactions occurring in ≥ 1% of subjects in clinical studies who received Clobetasol Propionate Ophthalmic Suspension 0.05% included eye inflammation (2%), corneal edema (2%), anterior chamber inflammation (2%), cystoid macular edema (2%), intraocular pressure elevation (1%), photophobia (1%) and vitreous detachment (1%).
+Ocular adverse reactions occurring in ≥ 1% of subjects in clinical studies who received BYQLOVI included eye inflammation (2%), corneal edema (2%), anterior chamber inflammation (2%), cystoid macular edema (2%), intraocular pressure elevation (1%), photophobia (1%) and vitreous detachment (1%).
 Many of these reactions may have been the consequence of the surgical procedure.

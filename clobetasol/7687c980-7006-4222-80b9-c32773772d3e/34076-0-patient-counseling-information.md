@@ -2,7 +2,7 @@
 
 Administration with Other Eye Drops
 
-Advise patients to wait at least 5 minutes between instillation of Clobetasol Propionate Ophthalmic Suspension 0.05% and other eye drops if using other eye drops in addition to Clobetasol Propionate Ophthalmic Suspension 0.05%.
+Advise patients to wait at least 5 minutes between instillation of BYQLOVI and other eye drops if using other eye drops in addition to BYQLOVI.
 
 Risk of Contamination
 
@@ -15,5 +15,5 @@ Advise patients to consult a physician if pain develops; or if redness, itching,
 
 Contact Lens Wear
 
-Advise patients that the preservative in Clobetasol Propionate Ophthalmic Suspension 0.05% may be absorbed by soft contact lenses.
-Contact lenses should be removed prior to instillation of Clobetasol Propionate Ophthalmic Suspension 0.05% and may be reinserted after 15 minutes following administration.
+Advise patients that the preservative in BYQLOVI may be absorbed by soft contact lenses.
+Contact lenses should be removed prior to instillation of BYQLOVI and may be reinserted after 15 minutes following administration.

@@ -4,7 +4,7 @@
 
 Prolonged use of corticosteroids may result in glaucoma with damage to the optic nerve, defects in visual acuity and fields of vision.
 Steroids should be used with caution in the presence of glaucoma.
-If Clobetasol Propionate Ophthalmic Suspension 0.05% is used for 10 days or longer, IOP should be monitored.
+If BYQLOVI is used for 10 days or longer, IOP should be monitored.
 
 ## 5.2 Cataracts
 
@@ -42,7 +42,7 @@ Do not allow the dropper tip to touch any surface, as this may contaminate the o
 
 ## 5.9 Contact Lens Wear
 
-Clobetasol Propionate Ophthalmic Suspension 0.05% should not be instilled while wearing contact lenses.
-Remove contact lenses prior to instillation of Clobetasol Propionate Ophthalmic Suspension 0.05%.
-The preservative in Clobetasol Propionate Ophthalmic Suspension 0.05% may be absorbed by soft contact lenses.
-Lenses may be reinserted after 15 minutes following administration of clobetasol propionate ophthalmic suspension 0.05%.
+BYQLOVI should not be instilled while wearing contact lenses.
+Remove contact lenses prior to instillation of BYQLOVI.
+The preservative in BYQLOVI may be absorbed by soft contact lenses.
+Lenses may be reinserted after 15 minutes following administration of BYQLOVI.
