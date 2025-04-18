@@ -21,7 +21,7 @@ Do not take voriconazole tablets if you:
   See the end of this leaflet for a complete list of ingredients in voriconazole tablets.
 - •are taking any of the following medicines:
 
-| •pimozide•rifampin•efavirenz •ergotamine, dihydroergotamine (ergot alkaloids)•tolvaptan•venetoclax | •quinidine•carbamazepine •ritonavir•St.John’s Wort (herbal supplement)•lurasidone | •sirolimus•long-acting barbiturates like phenobarbital•rifabutin•naloxegol•ivabradine |
+| •pimozide•rifampin•efavirenz •ergotamine, dihydroergotamine (ergot alkaloids)•tolvaptan•venetoclax | •quinidine•carbamazepine •ritonavir•St.John’s Wort (herbal supplement)•lurasidone•finerenone | •sirolimus•long-acting barbiturates like phenobarbital•rifabutin•naloxegol•ivabradine |
 | --- | --- | --- |
 
 Ask your healthcare provider or pharmacist if you are not sure if you are taking any of the medicines listed above.
@@ -73,7 +73,7 @@ What should I avoid while taking voriconazole tablets?
   Use sunscreen and wear a hat and clothes that cover your skin if you have to be in sunlight.
   Talk to your healthcare provider if you get sunburn.
 
-What are possible side effects of voriconazole tablets?
+What are the possible side effects of voriconazole tablets?
 
 Voriconazole tablets may cause serious side effects including:
 
@@ -84,10 +84,27 @@ Voriconazole tablets may cause serious side effects including:
 | --- | --- | --- |
 | •flu-like symptoms | •nausea or vomiting |  |
 
+- •serious heart problems.
+  Voriconazole tablets may cause changes in your heart rate or rhythm, including your heart stopping (cardiac arrest).
+- •allergic reactions.
+  Symptoms of an allergic reaction may include:
+
+| ofever | osweating | ofeels like your heart is beating fast (tachycardia) |
+| --- | --- | --- |
+| ochest tightness | otrouble breathing | ofeel faint |
+| onausea | oitching | oskin rash |
+| oflushing |  |  |
+
 - •vision changes.
   Symptoms of vision changes may include:
 - •blurred vision
 - •changes in the way you see colors
+- •serious skin reactions.
+  Symptoms of serious skin reactions may include:
+- orash or hives
+- omouth sores
+- oblistering or peeling of your skin
+- otrouble swallowing or breathing
 - •sensitivity to light or sun (photosensitivity).
   Voriconazole tablets can cause serious photosensitivity.
   There is an increased chance of skin toxicity while taking voriconazole tablets.
@@ -98,22 +115,10 @@ Photosensitivity reactions may also increase your risk of:
 - •faster skin aging from the sun
 - •skin cancer
 - •Call your healthcare provider right away if you get a new skin rash or your skin rash gets worse.
-
-| •fever | •sweating | •feels like your heart is beating fast (tachycardia) |
-| --- | --- | --- |
-| •chest tightness | •trouble breathing | •feel faint |
-| •nausea | •itching | •skin rash |
-
 - •kidney problems.
   Voriconazole tablets may cause new or worse problems with kidney function, including kidney failure.
   Your healthcare provider should check your kidney function while you are taking voriconazole tablets.
   Your healthcare provider will decide if you can keep taking voriconazole tablets
-- •serious skin reactions.
-  Symptoms of serious skin reactions may include:
-- •rash or hives
-- •mouth sores
-- •blistering or peeling of your skin
-- •trouble swallowing or breathing
 - •adrenal gland problems:
   - oVoriconazole tablets may cause reduced adrenal function (adrenal insufficiency).
   - oVoriconazole tablets may cause overactive adrenal function (Cushing’s syndrome) when voriconazole is used at the same time with corticosteroids.
@@ -131,6 +136,10 @@ Symptoms of Cushing’s syndrome include:
 | •thinning skin | •bruising easily | •high blood sugar |
 | •excessive hair growth | •excessive sweating |  |
 
+- •inflammation of the pancreas (pancreatitis).
+  Symptoms of pancreatitis may include pain in your stomach area (abdomen) that is severe and will not go away.
+  The pain may be felt going from your abdomen to your back.
+  The pain may happen with or without vomiting.
 - •bone problems.
   Voriconazole tablets may cause weakening of bones and bone pain.
   Tell your healthcare provider if you have bone pain.
@@ -152,13 +161,14 @@ The most common side effects of voriconazole tablets in children include:
 | --- | --- | --- |
 | •diarrhea | •cough | •hallucinations (seeing or hearing things that are not there) |
 | •low platelet counts | •low blood pressure | •coughing up blood |
-| •abnormal liver function tests | •swelling in the arms and legs |  |
-| •low blood calcium levels | •high blood sugar levels | •constipation |
-| •low blood phosphate levels | •headache | •low blood magnesium levels |
-| •vision changes | •fast heart beat (tachycardia) | •fullness of the stomach area |
-| •rash | •nose bleeds | •vomiting |
-| •stomach pain | •low blood potassium levels | •nausea |
-|  |  | •upper respiratory tract infection |
+| •abnormal liver function tests | •swelling in the arms and legs | •constipation |
+| •low blood calcium levels | •high blood sugar levels | •low blood magnesium levels |
+| •low blood phosphate levels | •headache | •fullness of the stomach area |
+| •vision changes | •fast heart beat (tachycardia) | •vomiting |
+| •rash | •nose bleeds | •nausea |
+| •stomach pain | •low blood potassium levels | •upper respiratory tract infection |
+| •trouble breathing | •low blood levels of albumin |  |
+| •dizziness | •kidney problems |  |
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
@@ -169,7 +179,8 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store voriconazole tablets?
 
-- •Store voriconazole tablets at room temperature, 59°F to 86°F (15°C to 30°C).
+- •Store voriconazole tablets at room temperature between 59°F to 86°F (15°C to 30°C).
+  Do not refrigerate or freeze.
 - • Keep voriconazole tablets in a tightly closed container.
 - •Safely throw away medicine that is out of date or no longer needed.
 - •Keep voriconazole tablets, as well as all other medicines, out of the reach of children.
@@ -204,6 +215,6 @@ Questions?
 
 www.glenmarkpharma-us.com
 
-November 2022
+April 2025
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.

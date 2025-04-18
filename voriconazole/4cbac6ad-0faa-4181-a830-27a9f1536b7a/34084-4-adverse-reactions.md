@@ -30,7 +30,9 @@ Study 305 evaluated the effects of oral voriconazole (200 patients) and oral flu
 The rate of discontinuation from voriconazole study medication in Study 305 due to adverse reactions was 7% (14/200 patients).
 Laboratory test abnormalities for these studies are discussed under Clinical Laboratory Values below.
 
-Table 4: Adverse Reactions Rate ≥ 2% on Voriconazole or Adverse Reactions of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
+Table 4:
+
+Adverse Reactions Rate ≥ 2% on Voriconazole or Adverse Reactions of Concern in Therapeutic Studies Population, Studies 307/602-608 Combined, or Study 305.
 Possibly Related to Therapy or Causality Unknown†
 
 |  | N (%) | N (%) | N (%) | N (%) | N (%) | N (%) |
@@ -135,7 +137,9 @@ In study 305, patients with EC were randomized to either oral voriconazole or or
 In study 307/602, patients with definite or probable IA were randomized to either voriconazole or amphotericin B therapy.
 In study 608, patients with candidemia were randomized to either voriconazole or the regimen of amphotericin B followed by fluconazole.
 
-Table 5: Protocol 305 – Patients with Esophageal Candidiasis Clinically Significant Laboratory Test Abnormalities
+Table 5:
+
+Protocol 305 – Patients with Esophageal Candidiasis Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
@@ -153,7 +157,11 @@ N = total number of patients with at least one observation of the given lab test
 
 AST = Aspartate aminotransferase; ALT= alanine aminotransferase
 
-ULN = upper limit of normal Table 6: Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
+ULN = upper limit of normal
+
+Table 6:
+
+Protocol 307/602 – Primary Treatment of Invasive Aspergillosis Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
@@ -179,7 +187,9 @@ ULN = upper limit of normal
 
 LLN = lower limit of normal
 
-Table 7: Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
+Table 7:
+
+Protocol 608 – Treatment of Candidemia Clinically Significant Laboratory Test Abnormalities
 
 |  |  | n/N (%) | n/N (%) |
 | --- | --- | --- | --- |
@@ -218,7 +228,9 @@ Most Common Adverse Reactions
 
 The most common adverse reactions occurring in ≥5% of pediatric patients receiving voriconazole in the pooled pediatric clinical trials are displayed by body system, in Table 8.
 
-Table 8: Adverse Reactions Occurring in ≥5% of Pediatric Patients Receiving Voriconazole in the Pooled Pediatric Clinical Trials
+Table 8:
+
+Adverse Reactions Occurring in ≥5% of Pediatric Patients Receiving Voriconazole in the Pooled Pediatric Clinical Trials
 
 | Body System | Adverse Reaction | Pooled Pediatric DataaN=105n (%) |
 | --- | --- | --- |
@@ -320,7 +332,9 @@ A higher frequency of clinically significant liver laboratory abnormalities, irr
 The incidence of bilirubin elevation was comparable between adult and pediatric patients.
 The incidence of hepatic abnormalities in pediatric patients is shown in Table 9.
 
-Table 3: Incidence of Hepatic Abnormalities among Pediatric Subjects
+Table 9:
+
+Incidence of Hepatic Abnormalities among Pediatric Subjects
 
 |  | Criteria | n/N (%) |
 | --- | --- | --- |
@@ -346,8 +360,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Dermatological Reactions
 
-Increased risk of skin toxicity with concomitant use of methotrexate, a drug associated with UV reactivation, was observed in postmarketing reports [see Warnings and Precautions (5.6) and Adverse Reactions (Error!
-Hyperlink reference not valid.)].
+Increased risk of skin toxicity with concomitant use of methotrexate, a drug associated with UV reactivation, was observed in postmarketing reports [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
 
 Adults Skeletal: fluorosis and periostitis have been reported during long-term voriconazole therapy [see Warnings and Precautions (5.12)].
 Eye disorders: prolonged visual adverse reactions, including optic neuritis and papilledema [see Warnings and Precautions (5.4)].
