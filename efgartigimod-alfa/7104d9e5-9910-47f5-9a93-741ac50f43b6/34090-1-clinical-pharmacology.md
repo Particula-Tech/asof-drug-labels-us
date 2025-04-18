@@ -7,7 +7,7 @@ VYVGART HYTRULO is a coformulation of efgartigimod alfa and hyaluronidase.
 Efgartigimod alfa is a human IgG1 antibody fragment that binds to the neonatal Fc receptor (FcRn), resulting in the reduction of circulating IgG.
 
 Hyaluronidase increases permeability of the subcutaneous tissue by depolymerizing hyaluronan.
-This effect is transient and permeability of the subcutaneous tissue is restored within 24 to 48 hours.
+This effect is transient, and permeability of the subcutaneous tissue is restored within 24 to 48 hours.
 
 ## 12.2 Pharmacodynamics
 
@@ -24,6 +24,10 @@ The 90% confidence intervals for the geometric mean ratios of AChR-Ab reduction 
 ## 12.3 Pharmacokinetics
 
 Efgartigimod alfa exposures were approximately dose-proportional up to the highest subcutaneously tested dose of VYVGART HYTRULO (1750 mg, 1.75 times the recommended dosage).
+
+Absorption
+
+The rate and extent of absorption from a single-dose prefilled syringe and single-dose vial are similar.
 
 Distribution
 

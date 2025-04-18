@@ -1,5 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
+Advise the patient and/or caregiver to read FDA-approved patient labeling (Patient Information and Instructions for Use).
+
 Infections
 
 Instruct patients to communicate any history of infections to the healthcare provider and to contact their healthcare provider if they develop any symptoms of an infection.
@@ -11,9 +13,13 @@ Hypersensitivity Reactions
 Inform patients that hypersensitivity reactions, including angioedema and anaphylaxis, have occurred in patients who were treated with efgartigimod alfa products.
 Inform patients about the signs and symptoms of these reactions, and advise patients to contact their healthcare provider immediately if these occur [see Warnings and Precautions (5.2)].
 
-Infusion-Related Reactions
+Infusion/injection-Related Reactions
 
-Advise patients of the potential risk of infusion-related reactions, which can include hypertension, chills, shivering, and chest, abdominal, and back pain [see Warnings and Precautions (5.3)].
+Advise patients of the potential risk of infusion/injection-related reactions, which can include hypertension, chills, shivering, and chest, abdominal, and back pain [see Warnings and Precautions (5.3)].
+
+Instruction on Injection Technique
+
+If a patient or caregiver is to administer subcutaneous VYVGART HYTRULO prefilled syringe, instruct them in proper injection technique (e.g., site selection and duration of injection) [see Instructions for Use].
 
 Pregnancy Registry
 
