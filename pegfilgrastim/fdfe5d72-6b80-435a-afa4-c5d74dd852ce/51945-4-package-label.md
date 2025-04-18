@@ -6,7 +6,7 @@
 
 NDC 55513-192-01
 
-AMGEN®
+AMGEN
 
 Neulasta® (pegfilgrastim) injection Onpro® kit
 

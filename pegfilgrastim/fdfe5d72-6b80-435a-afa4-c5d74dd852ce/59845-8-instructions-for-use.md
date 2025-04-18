@@ -116,9 +116,9 @@ Neulasta® (pegfilgrastim)
 
 Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 US License No. 1080
 
-Patent: http://pat.amgen.com/onpro/ © 2002 to 2021 Amgen Inc. All rights reserved.
+Patent: http://pat.amgen.com/onpro/ © 2002 to 2025 Amgen Inc. All rights reserved.
 
-http://www.neulasta.com/ 1-844-MYNEULASTA (1-844-696-3852) Issued: 03/2021 V12
+http://www.neulasta.com/ 1-844-MYNEULASTA (1-844-696-3852) Issued: 03/2021 V13
 
 Before You Begin
 
@@ -398,8 +398,8 @@ Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. Lice
 
 Patent: http://pat.amgen.com/onpro/
 
-© 2002-2016 Amgen Inc. All rights reserved.
-1xxxxxx Revised: 12/2016 v2
+© 2002-2025 Amgen Inc. All rights reserved.
+1xxxxxx Revised: 01/2025 v3
 
 # Patient INSTRUCTIONS FOR USE Neulasta® Onpro® (nu-las-tah) (pegfilgrastim) injection Single-Use On-body Injector
 
@@ -414,7 +414,7 @@ Patent: http://pat.amgen.com/onpro/
 | Healthcare Provider contact number: |  |  |  |
 | On-body Injector lot number: |  |  |  |
 
-AMGEN®
+AMGEN
 
 Neulasta® (pegfilgrastim) Onpro® kit
 
@@ -538,8 +538,8 @@ Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 913
 
 Patent: http://pat.amgen.com/onpro/
 
-© 2002 to 2020 Amgen Inc. All rights reserved.
+© 2002 to 2025 Amgen Inc. All rights reserved.
 
 http://www.neulasta.com
 
-1-844-MYNEULASTA (1-844-696-3852) Revised: 11/2020 V9
+1-844-MYNEULASTA (1-844-696-3852) Revised: 11/2020 V10
