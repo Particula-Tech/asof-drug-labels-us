@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761175"
+  ],
+  "inn": "bevacizumab",
+  "labeler": "Biocon Biologics Inc.",
+  "package_ndcs": [
+    "83257-009-11",
+    "83257-010-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "bevacizumab-nwgd",
+      "name": "JOBEVNE"
+    }
+  ],
+  "setid": "70ab1de6-fb68-aee4-a6cb-f9a0f146687f",
+  "source": "dailymed"
+}
