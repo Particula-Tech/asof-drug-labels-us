@@ -2,16 +2,20 @@
 
 ## 2.1 Important Dosage and Administration Instructions
 
-- Always initiate dosing in opioid-naïve patients using Hydromorphone Hydrochloride Injection.
-  Never administer Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] to opioid-naïve patients.
-- Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
-- Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
-- Monitor patients closely for respiratory depression, especially within the first 24-72 hours of initiating therapy and following dosage increases with Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF) and adjust the dosage accordingly [see Warnings and Precautions (5.3)].
-- Inspect parenteral drug products visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+- •Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF) should be prescribed only by healthcare professionals who are knowledgeable about the use of opioids and how to mitigate the associated risks.
+- •Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+  Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF) for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
+- •Many acute pain conditions (e.g., the pain that occurs with a number of surgical procedures or acute musculoskeletal injuries) require no more than a few days of an opioid analgesic.
+  Clinical guidelines on opioid prescribing for some acute pain conditions are available.
+- •There is variability in the opioid analgesic dose and duration needed to adequately manage pain due both to the cause of pain and to individual patient factors.
+  Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
+- •Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF).
+  Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)].
+- •Inspect parenteral drug products visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
   A slight yellowish discoloration may develop in Hydromorphone Hydrochloride Injection and Hydromorphone Hydrochloride Injection (HPF) vials.
   No loss of potency has been demonstrated.
   Hydromorphone Hydrochloride Injection and Hydromorphone Hydrochloride Injection (HPF) are physically compatible and chemically stable for at least 24 hours at 25°C, protected from light in most common large-volume parenteral solutions.
-- Discard any unused portion in an appropriate manner.
+- •Discard any unused portion in an appropriate manner.
 
 500 mg/50 mL Vial To use this single dose presentation, withdraw the contents using aseptic technique for preparation of a single, large-volume parenteral solution.
 Discard any unused portion in an appropriate manner.
@@ -25,12 +29,13 @@ Do not use Hydromorphone Hydrochloride Injection (HPF) for patients who are not 
 
 Subcutaneous or Intramuscular Administration:
 
-The usual starting dose of Hydromorphone Hydrochloride Injection is 1 mg to 2 mg every 2 to 3 hours as necessary.
+The usual starting dose is 1 mg to 2 mg every 2 to 3 hours as necessary for pain, and the lowest dose necessary to achieve adequate analgesia.
 Depending on the clinical situation, the initial starting dose may be lowered in patients who are opioid naïve.
+Titrate the dose based upon the individual patient’s response to their initial dose of Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF).
 
 Intravenous Administration:
 
-The initial starting dose is 0.2 to 1 mg every 2 to 3 hours.
+The initial starting dose is 0.2 mg to 1 mg every 2 to 3 hours.
 Intravenous administration should be given slowly, over at least 2 to 3 minutes, depending on the dose.
 The initial dose should be reduced in the elderly or debilitated and may be lowered to 0.2 mg.
 
@@ -60,16 +65,16 @@ Start patients with renal impairment on one-fourth to one-half the usual Hydromo
 
 ## 2.5 Titration and Maintenance of Therapy
 
+Titrate the dose based upon the individual patient’s response to their initial dose of Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF).
 Individually titrate Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] to a dose that provides adequate analgesia and minimizes adverse reactions.
-Continually reevaluate patients receiving Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF) to assess the maintenance of pain control and the relative incidence of adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2)].
+Continually reevaluate patients receiving Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF) to assess the maintenance of pain control, signs and symptoms of opioid withdrawal, and other adverse reactions, as well as monitoring for the development of addiction, abuse, or misuse [see Warnings and Precautions (5.2, 5.13)].
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
-
 If the level of pain increases after dosage stabilization, attempt to identify the source of increased pain before increasing the Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF) dosage.
-If unacceptable opioid-related adverse reactions are observed, consider reducing the dosage.
+If after increasing the dosage, unacceptable opioid-related adverse reactions are observed (including an increase in pain after a dosage increase), consider reducing the dosage [see Warnings and Precautions (5)].
 Adjust the dosage to obtain an appropriate balance between management of pain and opioid-related adverse reactions.
 
-## 2.6 Discontinuation of Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF)
+## 2.6 Safe Reduction or Discontinuation of Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF)
 
 When a patient who has been taking Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection [high potency formulation (HPF)] regularly and may be physically dependent no longer requires therapy with Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF), taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF) in a physically-dependent patient [see Warnings and Precautions (5.12), Drug Abuse and Dependence (9.3)].
+Do not abruptly discontinue Hydromorphone Hydrochloride Injection or Hydromorphone Hydrochloride Injection (HPF) in a physically-dependent patient [see Warnings and Precautions (5.13), Drug Abuse and Dependence (9.3)].
