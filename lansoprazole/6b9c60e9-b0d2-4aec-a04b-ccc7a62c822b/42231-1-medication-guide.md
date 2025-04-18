@@ -118,7 +118,7 @@ Lansoprazole delayed-release capsules can cause serious side effects, including:
 - Stomach growths (fundic gland polyps).
   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growth called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
 - Low magnesium levelsin the body can happen in people who have taken lansoprazole delayed-release capsules for at least 3 months.
-  Tell your doctor if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
+  Tell your doctor right away if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
 - Severe skin reactions.
   Lansoprazole delayed-release capsules can cause rare but severe skin reactions that may affect any part of your body.
   These serious skin reactions may need to be treated in a hospital and may be life threatening:
@@ -167,7 +167,7 @@ All other trademark names are the property of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 04/2022
+Revised: 04/2025
 
 INSTRUCTIONS FOR USE
 
@@ -232,6 +232,6 @@ Bridgewater, NJ 08807.
 
 Made in India
 
-Revised: April 2022
+Revised: April 2025
 
 All other trademark names are the property of their respective owners.
