@@ -17,8 +17,9 @@ If CDAD is suspected or confirmed, ongoing use of antibacterial drugs not direct
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline.
+Fixed drug eruptions have occurred with doxycycline and have been associated with worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption.
 (See ADVERSE REACTIONS.)
-If severe skin reactions occur, doxycycline should be discontinued immediately and appropriate therapy should be instituted.
+If severe skin reactions occur, discontinue Vibramycin immediately and institute appropriate therapy.
 
 Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including Vibramycin.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
@@ -116,8 +117,6 @@ Absorption of tetracyclines is impaired by bismuth subsalicylate.
 
 Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.
 
-The concurrent use of tetracycline and Penthrane® (methoxyflurane) has been reported to result in fatal renal toxicity.
-
 Concurrent use of tetracycline may render oral contraceptives less effective.
 
 ## Drug/Laboratory Test Interactions
@@ -134,7 +133,7 @@ Likewise, although mutagenicity studies of doxycycline have not been conducted, 
 Doxycycline administered orally at dosage levels as high as 250 mg/kg/day had no apparent effect on the fertility of female rats.
 Effect on male fertility has not been studied.
 
-## Pregnancy
+## Pregnancy:
 
 ### Teratogenic Effects
 
@@ -148,7 +147,7 @@ This association was not seen when the analysis was confined to maternal treatme
 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester.
 All mothers reported their exposed infants were normal at 1 year of age.3
 
-### Nonteratogenic Effects
+### Nonteratogenic Effects:
 
 (See WARNINGS.)
 

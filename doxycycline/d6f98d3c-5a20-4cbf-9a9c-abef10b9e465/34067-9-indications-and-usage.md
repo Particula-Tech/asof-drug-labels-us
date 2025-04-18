@@ -4,7 +4,7 @@ To reduce the development of drug-resistant bacteria and maintain effectiveness 
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
-## Treatment
+## Treatment:
 
 Doxycycline is indicated for the treatment of the following infections:
 
@@ -59,7 +59,7 @@ In acute intestinal amebiasis, doxycycline may be a useful adjunct to amebicides
 
 In severe acne, doxycycline may be useful adjunctive therapy.
 
-## Prophylaxis
+## Prophylaxis:
 
 Doxycycline is indicated for the prophylaxis of malaria due to Plasmodium falciparum in short-term travelers (<4 months) to areas with chloroquine and/or pyrimethamine-sulfadoxine resistant strains.
 (See DOSAGE AND ADMINISTRATION section and Information for Patients subsection of the PRECAUTIONS section.)

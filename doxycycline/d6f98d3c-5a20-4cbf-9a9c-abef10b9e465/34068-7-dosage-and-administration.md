@@ -6,12 +6,12 @@ Exceeding the recommended dosage may result in an increased incidence of side ef
 All dosage forms and strengths of Vibramycin are not currently being marketed.
 (See HOW SUPPLIED.)
 
-## Adults
+## Adults:
 
 The usual dose of oral doxycycline is 200 mg on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg/day.
 In the management of more severe infections (particularly chronic infections of the urinary tract), 100 mg every 12 hours is recommended.
 
-## Pediatric Patients
+## Pediatric Patients:
 
 For all pediatric patients weighing less than 45 kg with severe or life-threatening infections (e.g., anthrax, Rocky Mountain spotted fever), the recommended dosage is 2.2 mg/kg of body weight administered every 12 hours.
 Children weighing 45 kg or more should receive the adult dose.
