@@ -32,7 +32,7 @@ In addition, patients with amyloid heart disease may be more susceptible to toxi
 
 ## 5.5 Use in Patients with Impaired Renal Function
 
-Digoxin is primarily excreted by the kidneys; therefore, patients with impaired renal function require smaller than usual maintenance doses of digoxin [see Dosage and Administration (2.4).
+Digoxin is primarily excreted by the kidneys; therefore, patients with impaired renal function require smaller than usual maintenance doses of digoxin [see Dosage and Administration (2.4)].
 Because of the prolonged elimination half-life, a longer period of time is required to achieve an initial or new steady-state serum concentration in patients with renal impairment than in patients with normal renal function.
 If appropriate care is not taken to reduce the dose of digoxin, such patients are at high risk for toxicity, and toxic effects will last longer in such patients than in patients with normal renal function.
 

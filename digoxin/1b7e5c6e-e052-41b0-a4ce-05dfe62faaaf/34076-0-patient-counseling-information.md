@@ -25,6 +25,4 @@ Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000480/02
-
-Revised April 2024
+C50000480/03

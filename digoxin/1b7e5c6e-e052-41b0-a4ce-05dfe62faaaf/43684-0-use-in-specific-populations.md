@@ -2,22 +2,50 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects
+Risk Summary
 
+Experience with digoxin in pregnant women over several decades, based on published retrospective clinical studies and case reports, has not led to the identification of a drug associated risk of major birth defects, miscarriage or adverse maternal and fetal outcomes.
+Untreated underlying maternal conditions, such as heart failure and atrial fibrillation, during pregnancy pose a risk to the mother and fetus (see Clinical Consideration).
 Animal reproduction studies have not been conducted with digoxin.
-It is also not known whether digoxin can cause fetal harm when administered to pregnant women or can affect reproductive capacity.
-Digoxin should be given to a pregnant woman only if clearly needed.
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) are unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes, In the U.S. General population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-## 8.2 Labor and Delivery
+Clinical Considerations
 
-There is not enough data from clinical trials to determine the safety and efficacy of digoxin during labor and delivery.
+Disease-associated maternal and/or embryo/fetal risk
 
-## 8.3 Nursing Mothers
+Pregnant women with heart failure are at increased risk for preterm birth.
+Clinical classification of heart disease may worsen with pregnancy and lead to maternal or fetal death.
+Pregnant women with atrial fibrillation are at an increased risk of delivering a low birth weight infant.
+Atrial fibrillation may worsen with pregnancy and can lead to maternal or fetal death.
 
-Digoxin levels in human milk are lower than those in maternal serum.
-The estimated exposure that a nursing infant would be expected to receive via breastfeeding would be far below the usual infant maintenance dose.
-Therefore, this amount should have no pharmacologic effect upon the infant.
-Nevertheless, caution should be exercised when digoxin is administered to a nursing woman.
+Fetal/neonatal adverse reactions
+
+Digoxin has been shown to cross the placenta and is found in amniotic fluid.
+Monitor neonates for signs and symptoms of digoxin toxicity, including vomiting, and cardiac arrhythmias.
+
+Dose adjustments during pregnancy and the postpartum period
+
+Digoxin requirements may increase during pregnancy and decrease in the postpartum period.
+Monitor serum digoxin levels during pregnancy and the postpartum period.
+
+Labor or Delivery
+
+Risk of arrhythmias may increase during the labor and delivery.
+Monitor patients continuously during labor and delivery.
+
+## 8.2 Lactation
+
+Risk Summary
+
+The digoxin dose received through breastfeeding is up to 4% of the neonatal maintenance dosage, which is unlikely to be clinically relevant.
+There are no data on the effects of digoxin on the breastfed infant or the effects on milk reduction.
+
+Data
+
+Based on data from two lactation studies in a total of 13 breastfed infants, the digoxin concentrations in breast milk were between 0.4 – 1.0 ng/mL following 0.25 mg once daily dose of digoxin in the lactating mother.
+Thus, the amount of digoxin ingested daily by the infants is estimated to be between 0.03 to 0.16 mcg/kg/day.
+This translates to a relative infant dose of digoxin between 1 to 7% of the maternal weight-adjusted dose and about 0.2 to 4% of the neonatal maintenance dose.
 
 ## 8.4 Pediatric Use
 

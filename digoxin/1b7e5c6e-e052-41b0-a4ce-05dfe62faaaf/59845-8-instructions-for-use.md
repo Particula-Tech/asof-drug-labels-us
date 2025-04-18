@@ -1,4 +1,4 @@
-INSTRUCTIONS FOR USE
+# INSTRUCTIONS FOR USE
 
 Digoxin Oral Solution, USP
 
@@ -31,6 +31,6 @@ Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000480/02
+C50000480/03
 
-Revised April 2024
+Revised April 2025

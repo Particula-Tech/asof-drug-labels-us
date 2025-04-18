@@ -53,7 +53,7 @@ Loading doses for each age group are given in Table 1 below.
 
 In pediatric patients, if a loading dose is needed, it can be administered with roughly half the total given as the first dose.
 Additional fractions of this planned total dose may be given at 4- to 8-hour intervals, with careful assessment of clinical response before each additional dose.
-If the patient’s clinical response necessitates a change from the calculated loading dose of digoxin, then calculation of the maintenance dose should be based upon the amount actually given as the loading dose [see Table 1 and 2].
+If the patient’s clinical response necessitates a change from the calculated loading dose of digoxin, then calculation of the maintenance dose should be based upon the amount actually given as the loading dose [seeTable 1and 2].
 
 Table 1: Estimate the Loading Dose
 
