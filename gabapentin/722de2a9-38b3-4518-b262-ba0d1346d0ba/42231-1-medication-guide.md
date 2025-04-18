@@ -250,13 +250,13 @@ Manufactured by:
 
 Alkem Laboratories Ltd.,
 
-INDIA.
+Mumbai - 400 013, INDIA.
 
 Distributed by:
 
 Ascend Laboratories, LLC
 
-Parsippany, NJ 07054
+Bedminster, NJ 07921
 
 Trademarks are the property of their respective owners.
 
@@ -264,4 +264,4 @@ For more information, call 1-877-272-7901.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: October, 2024
+Revised: January, 2025

@@ -4,6 +4,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Administration Information
 
+Inform patients that gabapentin capsules are taken orally with or without food.
+
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
 
 Prior to initiation of treatment with gabapentin, instruct patients that a rash or other signs or symptoms of hypersensitivity (such as fever or lymphadenopathy) may herald a serious medical event and that the patient should report any such occurrence to a physician immediately [see Warnings and Precautions (5.1)].
@@ -43,14 +45,14 @@ Manufactured by:
 
 Alkem Laboratories Ltd.,
 
-INDIA.
+Mumbai - 400 013, INDIA.
 
 Distributed by:
 
 Ascend Laboratories, LLC
 
-Parsippany, NJ 07054 Revised: October, 2024
+Bedminster, NJ 07921 Revised: January, 2025
 
-PT 1702-12
+PT1702-13
 
 Trademarks are the property of their respective owners.
