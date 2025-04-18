@@ -1,6 +1,6 @@
-# MEDICATION GUIDE
-
 Dispense with Medication Guide available at: www.tevausa.com/medguides
+
+MEDICATION GUIDE
 
 Olanzapine (oh lan' za peen)
 

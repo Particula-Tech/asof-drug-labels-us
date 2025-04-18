@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Patients should be advised of the following issues and asked to alert their prescriber if these occur while taking olanzapine as monotherapy or in combination with fluoxetine.
 If you do not think you are getting better or have any concerns about your condition while taking olanzapine, call your doctor.
-When using olanzapine and fluoxetine in combination, also refer to the Patient Counseling Information section of the package insert for Symbyax.
+When using olanzapine and fluoxetine in combination, also refer to the Patient Counseling Information section of the package insert for Symbyax®.
 
 Elderly Patients with Dementia-Related Psychosis: Increased Mortality and Cerebrovascular Adverse Events (CVAE), Including Stroke
 
@@ -55,7 +55,7 @@ Patients should be advised to call their doctor right away if they become severe
 
 Concomitant Medication
 
-Patients should be advised to inform their healthcare providers if they are taking, or plan to take, Symbyax.
+Patients should be advised to inform their healthcare providers if they are taking, or plan to take, Symbyax®.
 Patients should also be advised to inform their healthcare providers if they are taking, plan to take, or have stopped taking any prescription or over-the-counter drugs, including herbal supplements, since there is a potential for interactions [see Drug Interactions (7)].
 
 Alcohol
@@ -99,4 +99,4 @@ Dispense with Medication Guide available at: www.tevausa.com/medguides
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-I 1/2022
+J 3/2025

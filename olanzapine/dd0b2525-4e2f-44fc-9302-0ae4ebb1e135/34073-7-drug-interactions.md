@@ -13,7 +13,7 @@ This increase is likely due to the fact that carbamazepine is a potent inducer o
 Higher daily doses of carbamazepine may cause an even greater increase in olanzapine clearance.
 
 Alcohol — Ethanol (45 mg/70 kg single dose) did not have an effect on olanzapine pharmacokinetics.
-The co-administration of alcohol (i.e., ethanol) with olanzapine potentiated the orthostatic hypotension observed with olanzapine [see Drug Interactions (7.2)].
+The coadministration of alcohol (i.e., ethanol) with olanzapine potentiated the orthostatic hypotension observed with olanzapine [see Drug Interactions (7.2)].
 
 Inhibitors of CYP1A2
 
@@ -26,7 +26,7 @@ Inhibitors of CYP2D6
 
 Fluoxetine: Fluoxetine (60 mg single dose or 60 mg daily dose for 8 days) causes a small (mean 16%) increase in the maximum concentration of olanzapine and a small (mean 16%) decrease in olanzapine clearance.
 The magnitude of the impact of this factor is small in comparison to the overall variability between individuals, and therefore dose modification is not routinely recommended.
-When using olanzapine and fluoxetine in combination, also refer to the Drug Interactions section of the package insert for Symbyax.
+When using olanzapine and fluoxetine in combination, also refer to the Drug Interactions section of the package insert for Symbyax®.
 
 Warfarin — Warfarin (20 mg single dose) did not affect olanzapine pharmacokinetics [see Drug Interactions (7.2)].
 

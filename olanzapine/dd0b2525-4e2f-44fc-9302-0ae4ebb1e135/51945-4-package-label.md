@@ -12,7 +12,9 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-30 Tablets (5 Blister Cards Of 6 Tablets Each)
+30 Tablets
+
+(5 Blister Cards Of 6 Tablets Each)
 
 # Package/Label Display Panel
 
@@ -28,7 +30,9 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-30 Tablets (5 Blister Cards Of 6 Tablets Each)
+30 Tablets
+
+(5 Blister Cards Of 6 Tablets Each)
 
 # Package/Label Display Panel
 
@@ -44,7 +48,9 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-30 Tablets (5 Blister Cards Of 6 Tablets Each)
+30 Tablets
+
+(5 Blister Cards Of 6 Tablets Each)
 
 # Package/Label Display Panel
 
@@ -60,4 +66,6 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 Rx only
 
-30 Tablets (5 Blister Cards Of 6 Tablets Each)
+30 Tablets
+
+(5 Blister Cards Of 6 Tablets Each)

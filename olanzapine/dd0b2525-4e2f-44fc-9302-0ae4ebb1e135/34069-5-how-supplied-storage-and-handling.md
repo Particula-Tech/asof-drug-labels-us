@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Olanzapine Orally Disintegrating Tablets, USP are available as:
+Olanzapine orally disintegrating tablets, USP are available as:
 
 | 5 mg: | Yellow, round, flat-faced, beveled-edge, unscored tablets. Debossed with “TV” over “U1” on one side and “5” on the other side. Available in a blister package of 30 tablets; NDC 0093-5245-65 |
 | --- | --- |
@@ -20,4 +20,4 @@ The USP defines controlled room temperature as a temperature maintained thermost
 
 PROTECT FROM LIGHT AND MOISTURE.
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all medications out of the reach of children.
