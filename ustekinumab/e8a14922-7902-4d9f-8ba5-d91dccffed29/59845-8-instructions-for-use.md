@@ -153,7 +153,7 @@ Manufactured by: Samsung Bioepis Co., Ltd., 76, Songdogyoyuk-ro, Yeonsu-gu, Inch
 Manufactured for: Sandoz Inc. Princeton, NJ 08540
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised 12/2024
+Revised: 06/2025
 
 INSTRUCTIONS FOR USE PYZCHIVA® (Piz-chi-va) (ustekinumab-ttwe)
 
@@ -337,4 +337,4 @@ Manufactured by: Samsung Bioepis Co., Ltd., 76, Songdogyoyuk-ro, Yeonsu-gu, Inch
 Manufactured for: Sandoz Inc. Princeton, NJ 08540
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised 12/2024
+Revised: 06/2025

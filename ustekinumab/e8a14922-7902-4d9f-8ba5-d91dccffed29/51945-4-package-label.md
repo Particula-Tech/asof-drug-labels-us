@@ -8,7 +8,7 @@ Contains one 45 mg/0.5 mL syringe Single-dose prefilled syringe - Discard unused
 
 Recommended Dosage: See Prescribing Information
 
-ATTENTION: Dispense the endosed
+ATTENTION: Dispense the enclosed
 
 Medication Guide to each patient.
 
