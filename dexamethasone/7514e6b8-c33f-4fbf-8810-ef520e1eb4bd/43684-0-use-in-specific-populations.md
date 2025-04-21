@@ -5,7 +5,7 @@
 Risk Summary
 
 There are no adequate or well-controlled studies with DEXTENZA in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
-In animal reproduction studies, administration of topical ocular dexamethasone to pregnant mice and rabbits during organogenesis produced embryofetal lethality, cleft palate and multiple visceral malformations [see Animal Data].
+In animal reproduction studies, administration of topical ocular dexamethasone to pregnant mice and rabbits during organogenesis produced embryofetal lethality, cleft palate and multiple visceral malformations (see Data).
 
 Data
 
@@ -24,10 +24,13 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of DEXTENZA have been established in the pediatric population from neonates to adolescents (birth to younger than 17 years).
-Use of DEXTENZA in this population is supported by evidence from adequate and well-controlled studies of DEXTENZA in adults with additional data from a single active-controlled safety study in pediatric patients from 0 to 5 years old [see Clinical Studies (14)].
+The safety and effectiveness of DEXTENZA for the treatment of ocular inflammation and pain following ophthalmic surgery have been established in pediatric patients.
 
-No overall differences in safety were observed between pediatric and adult patients.
+The safety and effectiveness of DEXTENZA for the treatment of ocular itching associated with allergic conjunctivitis have been established in pediatric patients aged 2 years and older.
+The use of DEXTENZA is not recommended for the treatment of ocular itching associated with allergic conjunctivitis in pediatric patients who require sedation for the insertion procedure.
+
+Use of DEXTENZA for these indications is supported by evidence from adequate and well-controlled studies in adults with additional safety data from a single active-controlled study in pediatric patients aged birth to 5 years old [see Clinical Studies (14)].
+A similar safety profile was observed between pediatric and adult patients.
 
 ## 8.5 Geriatric Use
 
