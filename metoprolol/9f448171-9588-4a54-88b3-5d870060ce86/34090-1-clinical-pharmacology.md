@@ -1,0 +1,85 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Metoprolol is a beta 1-selective (cardioselective) adrenergic receptor blocking agent.
+This preferential effect is not absolute, however, and at higher plasma concentrations, metoprolol also inhibits beta 2-adrenoreceptors, chiefly located in the bronchial and vascular musculature.
+
+Metoprolol has no intrinsic sympathomimetic activity, and membrane-stabilizing activity is detectable only at plasma concentrations much greater than required for beta-blockade.
+Animal and human experiments indicate that metoprolol slows the sinus rate and decreases AV nodal conduction.
+
+The relative beta 1-selectivity of metoprolol has been confirmed by the following: (1) In normal subjects, metoprolol is unable to reverse the beta 2-mediated vasodilating effects of epinephrine.
+This contrasts with the effect of nonselective beta-blockers, which completely reverse the vasodilating effects of epinephrine.
+(2) In asthmatic patients, metoprolol reduces FEV 1and FVC significantly less than a nonselective beta-blocker, propranolol, at equivalent beta 1-receptor blocking doses.
+
+Hypertension:The mechanism of the antihypertensive effects of beta-blocking agents has not been elucidated.
+However, several possible mechanisms have been proposed: (1) competitive antagonism of catecholamines at peripheral (especially cardiac) adrenergic neuron sites, leading to decreased cardiac output; (2) a central effect leading to reduced sympathetic outflow to the periphery; and (3) suppression of renin activity.
+
+Angina Pectoris:By blocking catecholamine-induced increases in heart rate, in velocity and extent of myocardial contraction, and in blood pressure, metoprolol reduces the oxygen requirements of the heart at any given level of effort, thus making it useful in the long-term management of angina pectoris.
+
+Heart Failure:The precise mechanism for the beneficial effects of beta-blockers in heart failure has not been elucidated.
+
+## 12.2 Pharmacodynamics
+
+Clinical pharmacology studies have confirmed the beta-blocking activity of metoprolol in man, as shown by (1) reduction in heart rate and cardiac output at rest and upon exercise, (2) reduction of systolic blood pressure upon exercise, (3) inhibition of isoproterenol-induced tachycardia, and (4) reduction of reflex orthostatic tachycardia.
+
+The relationship between plasma metoprolol levels and reduction in exercise heart rate is independent of the pharmaceutical formulation.
+Beta 1-blocking effects in the range of 30-80% of the maximal effect (approximately 8 to 23% reduction in exercise heart rate) correspond to metoprolol plasma concentrations from 30 to 540 nmol/L.
+The relative beta 1-selectivity of metoprolol diminishes and blockade of beta 2-adrenoceptors increases at plasma concentration above 300 nmol/L.
+
+Significant beta-blocking effect (as measured by reduction of exercise heart rate) occurs within 1 hour after oral administration, and its duration is dose-related.
+For example, a 50% reduction of the maximum effect after single oral doses of 20, 50, and 100 mg occurred at 3.3, 5.0, and 6.4 hours, respectively, in normal subjects.
+After repeated oral dosages of 100 mg twice daily, a significant reduction in exercise systolic blood pressure was evident at 12 hours.
+When the drug was infused over a 10-minute period, in normal volunteers, maximum beta-blockade was achieved at approximately 20 minutes.
+Equivalent maximal beta-blocking effect is achieved with oral and intravenous doses in the ratio of approximately 2.5:1.
+
+There is a linear relationship between the log of plasma levels and reduction of exercise heart rate.
+However, antihypertensive activity does not appear to be related to plasma levels.
+Because of variable plasma levels attained with a given dose and lack of a consistent relationship of antihypertensive activity to dose, selection of proper dosage requires individual titration.
+
+In several studies of patients with acute myocardial infarction, intravenous followed by oral administration of LOPRESSOR caused a reduction in heart rate, systolic blood pressure and cardiac output.
+Stroke volume, diastolic blood pressure and pulmonary artery end diastolic pressure remained unchanged.
+
+## 12.3 Pharmacokinetics
+
+Absorption:The estimated oral bioavailability of immediate release metoprolol is about 50% because of pre-systemic metabolism which is saturable leading to non-proportionate increase in the exposure with increased dose.
+
+Distribution:Metoprolol is extensively distributed with a reported volume of distribution of 3.2 to 5.6 L/kg.
+About 10% of metoprolol in plasma is bound to serum albumin.
+Metoprolol is known to cross the placenta and is found in breast milk.
+Metoprolol is also known to cross the blood brain barrier following oral administration and CSF concentrations close to that observed in plasma have been reported.
+Metoprolol is not a significant P-glycoprotein substrate.
+
+Elimination:Elimination of LOPRESSOR is mainly by biotransformation in the liver.
+The mean elimination half-life of metoprolol is 3 to 4 hours; in poor CYP2D6 metabolizers the half-life may be 7 to 9 hours.
+
+Metabolism:LOPRESSOR is primarily metabolized by CYP2D6.
+Metoprolol is a racemic mixture of R- and S- enantiomers, and when administered orally, it exhibits stereoselective metabolism that is dependent on oxidation phenotype.
+
+Excretion
+
+Approximately 95% of the dose can be recovered in urine.
+In most subjects (extensive metabolizers), less than 5% of an oral dose and less than 10% of an intravenous dose are excreted as unchanged drug in the urine.
+In poor metabolizers, up to 30% or 40% of oral or intravenous doses, respectively, may be excreted unchanged; the rest is excreted by the kidneys as metabolites that appear to have no beta-blocking activity.
+The renal clearance of the stereo-isomers of metoprolol does not exhibit stereo-selectivity in renal excretion.
+
+Specific populations
+
+Geriatric patients:The geriatric population may show slightly higher plasma concentrations of metoprolol as a combined result of a decreased metabolism of the drug in elderly population and a decreased hepatic blood flow.
+However, this increase is not clinically significant or therapeutically relevant.
+
+Renal Impairment:The systemic availability and half-life of LOPRESSOR in patients with renal failure do not differ to a clinically significant degree from those in normal subjects.
+
+Hepatic Impairment:Since the drug is primarily eliminated by hepatic metabolism, hepatic impairment may impact the pharmacokinetics of metoprolol.
+
+Drug Interaction Studies
+
+Metoprolol is metabolized predominantly by CYP2D6.
+In healthy subjects with CYP2D6 extensive metabolizer phenotype, coadministration of quinidine 100 mg, a potent CYP2D6 inhibitor, and immediate-release metoprolol 200 mg tripled the concentration of S-metoprolol and doubled the metoprolol elimination half-life.
+In four patients with cardiovascular disease, coadministration of propafenone 150 mg t.i.d. with immediate-release metoprolol 50 mg t.i.d. increased the steady-state metoprolol concentration 2- to 5-fold compared to metoprolol alone.
+Extensive metabolizers who concomitantly use CYP2D6 inhibiting drugs will have increased (several-fold) metoprolol blood levels, decreasing metoprolol's cardioselectivity [see Drug Interactions (7.2)].
+
+## 12.5 Pharmacogenomics
+
+CYPD6 is absent (poor metabolizers) in about 8% of Caucasians and about 2% of most other populations.
+Poor CYP2D6 metabolizers exhibit several- fold higher plasma concentrations of Metoprolol Tartrate than extensive metabolizers with normal CYP2D6 activity thereby decreasing Metoprolol Tartrate cardioselectivity.

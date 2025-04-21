@@ -1,0 +1,16 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Instructions for Use).
+
+Advise patients to take LOPRESSOR regularly and continuously, as directed, preferably with or immediately following meals.
+If a dose is missed, the patient should take only the next scheduled dose (without doubling it).
+Patients should not interrupt or discontinue LOPRESSOR without consulting the physician.
+
+Advise patients (1) to avoid operating automobiles and machinery or engaging in other tasks requiring alertness until the patient’s response to therapy with LOPRESSOR has been determined; (2) to contact the physician if any difficulty in breathing occurs; (3) to inform the physician or dentist before any type of surgery that he or she is taking LOPRESSOR.
+
+Inform patients or caregivers that there is a risk of hypoglycemia when Metoprolol Tartrate is given to patients who are fasting or who are vomiting.
+Monitor for symptoms of hypoglycemia.
+
+Manufactured for and Distributed by: Validus Pharmaceuticals LLC East Windsor, NJ 08520 info@validuspharma.com www.validuspharma.com 1-866-982-5438
+
+©2025 Validus Pharmaceuticals LLC
