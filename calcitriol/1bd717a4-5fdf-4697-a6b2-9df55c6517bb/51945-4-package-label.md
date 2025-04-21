@@ -2,6 +2,14 @@
 
 NDC 64980-447-15
 
-Calcitriol Oral Solution 15 mL
+Calcitriol Oral Solution
 
-1 mcg/mL For Oral Use Each mL contains 1 mcg calcitriol Rx Only
+15 mL
+
+1 mcg/mL
+
+For Oral Use
+
+Each mL contains 1 mcg calcitriol
+
+Rx Only

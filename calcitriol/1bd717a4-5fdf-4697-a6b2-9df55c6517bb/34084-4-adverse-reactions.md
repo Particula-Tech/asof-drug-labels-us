@@ -18,3 +18,5 @@ In patients with normal renal function, chronic hypercalcemia may be associated 
 
 Hypersensitivity reactions (pruritus, rash, urticaria, and very rarely severe erythematous skin disorders) may occur in susceptible individuals.
 One case of erythema multiforme and one case of allergic reaction (swelling of lips and hives all over the body) were confirmed by rechallenge.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc. at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

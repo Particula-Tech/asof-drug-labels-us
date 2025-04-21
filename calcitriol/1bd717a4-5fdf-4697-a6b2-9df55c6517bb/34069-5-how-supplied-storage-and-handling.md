@@ -2,7 +2,7 @@
 
 Oral Solution: a clear, colorless oral solution containing 1 mcg/mL of calcitriol; each amber glass bottle of 15 mL of oral solution supplied with 20 single-use, graduated oral dispensers NDC: 64980-447-15
 
-CalcitriolOral Solution should be protected from light.
+Calcitriol Oral Solution should be protected from light.
 Store at 59° to 86°F (15° to 30°C).
 
 ## REFERENCE
@@ -12,10 +12,8 @@ Jones CL, et al. Comparisons between oral and intraperitoneal 1,25-dihydroxyvita
 Clin Nephrol.
 1994; 42:44-49.
 
-Distributed by:
+Manufactured for: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
 
-Rising Pharmaceuticals, Inc.
+Revised: 02/2025
 
-Saddle Brook, NJ 07763
-
-Issued March 2018
+PIR44715-00
