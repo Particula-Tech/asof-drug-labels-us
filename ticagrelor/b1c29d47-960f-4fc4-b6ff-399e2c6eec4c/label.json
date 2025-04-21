@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA208596"
+  ],
+  "inn": "ticagrelor",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-368-11",
+    "72205-368-18",
+    "72205-368-60",
+    "72205-368-91",
+    "72205-368-99"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ticagrelor",
+      "name": "TICAGRELOR"
+    }
+  ],
+  "setid": "b1c29d47-960f-4fc4-b6ff-399e2c6eec4c",
+  "source": "dailymed"
+}
