@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA208508"
+  ],
+  "inn": "ticagrelor",
+  "labeler": "Oryza Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "72516-018-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ticagrelor",
+      "name": "Ticagrelor"
+    }
+  ],
+  "setid": "32c950bd-7f5f-a811-e063-6394a90a0080",
+  "source": "dailymed"
+}
