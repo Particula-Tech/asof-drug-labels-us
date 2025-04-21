@@ -12,7 +12,7 @@ Animal reproduction studies have not been conducted with levothyroxine sodium.
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo/Fetal Risk
 
@@ -20,7 +20,7 @@ Myxedema coma is a medical emergency which can be fatal, if left untreated.
 Delaying treatment in pregnant women with myxedema coma increases the risk of maternal and fetal morbidity and mortality.
 Life-sustaining therapy for the pregnant woman should not be withheld due to potential concerns regarding the effects of Levothyroxine Sodium Injection on the fetus.
 
-Data
+### Data
 
 Human Data
 

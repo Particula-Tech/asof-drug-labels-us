@@ -45,7 +45,4 @@ Table 1: Pharmacokinetic Parameters of Thyroid Hormones in Euthyroid Patients
 | --- | --- | --- | --- | --- |
 | T4 | 10 to 20 | 1 | 6 to 81 | 99.96 |
 | T3 | 1 | 4 | ≤ 2 | 99.5 |
-| T4: Levothyroxine |  |  |  |  |
-| T3: Liothyronine |  |  |  |  |
-| 1 3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism. |  |  |  |  |
-| 2 Includes TBG, TBPA, and TBA. |  |  |  |  |
+| T4: Levothyroxine T3: Liothyronine 1 3 to 4 days in hyperthyroidism, 9 to 10 days in hypothyroidism. 2 Includes TBG, TBPA, and TBA. |  |  |  |  |
