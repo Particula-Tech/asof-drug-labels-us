@@ -42,11 +42,11 @@ Dispense in tight, light-resistant container as defined in the USP.
 
 Store acetaminophen and codeine phosphate tablets securely and dispose of properly (see PRECAUTIONS, Information for Patients).
 
-Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company. © 2023 Mallinckrodt.
+Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company. © 2025 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 12/2023
+Rev 03/2025
 
 Mallinckrodt™ Pharmaceuticals
 
