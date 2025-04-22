@@ -63,11 +63,7 @@ Brands listed are the trademarks of their respective owners.
 
 Dispense with Medication Guide available at: www.tevausa.com/medguides
 
-Manufactured For:
-
-Teva Pharmaceuticals
-
-Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-F 5/2024
+G 2/2025
