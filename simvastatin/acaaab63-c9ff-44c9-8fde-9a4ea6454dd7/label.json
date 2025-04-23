@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA211394"
+  ],
+  "inn": "simvastatin",
+  "labeler": "Westminster Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "69367-374-09",
+    "69367-374-10",
+    "69367-375-09",
+    "69367-375-10",
+    "69367-376-09",
+    "69367-376-10",
+    "69367-377-09",
+    "69367-377-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "simvastatin",
+      "name": "Simvastatin"
+    }
+  ],
+  "setid": "acaaab63-c9ff-44c9-8fde-9a4ea6454dd7",
+  "source": "dailymed"
+}
