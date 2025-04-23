@@ -12,11 +12,12 @@ PROCYSBI® (cysteamine bitartrate) delayed-release capsules
 
 Rx Only
 
-Distributed by: Horizon Therapeutics USA, Inc. Deerfield, IL 60015 Country of origin: Italy
+Horizon Therapeutics USA, Inc. Deerfield, IL 60015 © 2025 Amgen Inc. All rights reserved.
+Country of origin: Italy
 
 Discard after:
 
-HORIZON
+AMGEN
 
 # PRINCIPAL DISPLAY PANEL - 75 mg Capsule Bottle Label
 
@@ -32,7 +33,8 @@ Rx Only
 
 250 capsules
 
-Distributed by: Horizon Therapeutics USA, Inc. Deerfield, IL 60015 Country of origin: Italy
+Horizon Therapeutics USA, Inc. Deerfield, IL 60015 © 2025 Amgen Inc. All rights reserved.
+Country of origin: Italy
 
 # PRINCIPAL DISPLAY PANEL - 75 mg Granule Packet Carton
 

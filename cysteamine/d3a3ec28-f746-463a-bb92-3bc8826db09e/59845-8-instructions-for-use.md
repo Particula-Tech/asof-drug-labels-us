@@ -128,6 +128,6 @@ Keep PROCYSBI and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Horizon Therapeutics USA, Inc., Deerfield, IL 60015
+Horizon Therapeutics USA, Inc., Deerfield, IL 60015
 
-Revised: March 2021
+Revised: December 2024
