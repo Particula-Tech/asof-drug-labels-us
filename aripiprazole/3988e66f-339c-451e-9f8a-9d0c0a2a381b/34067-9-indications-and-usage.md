@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Aripiprazole Oral Tablets are indicated for the treatment of:
+Aripiprazole Tablets are indicated for the treatment of:
 
 - Schizophrenia
 - Acute Treatment of Manic and Mixed Episodes associated with Bipolar I Disorder

@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
 Aripiprazole tablets, USP 2 mg are yellow, round, uncoated tablets with scattered specks, debossed with "2" on one side and "16" on other side.
 
@@ -74,6 +74,6 @@ Bottles of 500 NDC 13668-221-05
 
 Bottles of 2500 NDC 13668-221-31
 
-## 16.2 Storage
+Storage
 
-Store at 20° to 25°C (68° to 77°F), excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].

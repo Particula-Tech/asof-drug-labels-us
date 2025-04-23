@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of aripiprazole in schizophrenia or bipolar mania, is unclear.
-However, the efficacy of aripiprazole in the listed indications could be mediated through a combination of partial agonist activity at D 2 and 5-HT 1A receptors and antagonist activity at 5-HT 2A receptors.
+However, the efficacy of aripiprazole in the listed indications could be mediated through a combination of partial agonist activity at D2 and 5-HT1A receptors and antagonist activity at 5-HT2A receptors.
 
 ## 12.2 Pharmacodynamics
 
@@ -20,28 +20,19 @@ At steady-state, the pharmacokinetics of aripiprazole is dose-proportional.
 Elimination of aripiprazole is mainly through hepatic metabolism involving two P450 isozymes, CYP2D6 and CYP3A4.
 For CYP2D6 poor metabolizers, the mean elimination half-life for aripiprazole is about 146 hours.
 
-Pharmacokinetic studies showed that aripiprazole orally disintegrating tablets are bioequivalent to aripiprazole tablets.
-
-ORAL ADMINISTRATION
-
 Absorption
 
-Tablet: Aripiprazole is well absorbed after administration of the tablet, with peak plasma concentrations occurring within 3 hours to 5 hours; the absolute oral bioavailability of the tablet formulation is 87%.
+Aripiprazole is well absorbed after administration of the tablet, with peak plasma concentrations occurring within 3 hours to 5 hours; the absolute oral bioavailability of the tablet formulation is 87%.
 Aripiprazole can be administered with or without food.
-Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the C max or AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed Tmax by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
-
-Oral Solution: Aripiprazole is well absorbed when administered orally as the solution.
-At equivalent doses, the plasma concentrations of aripiprazole from the solution were higher than that from the tablet formulation.
-In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to tablet ratios of geometric mean Cmax and AUC values were 122% and 114%, respectively [see Dosage and Administration (2.6)].
-The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional between the doses of 5 mg to 30 mg.
+Administration of a 15 mg aripiprazole tablet with a standard high-fat meal did not significantly affect the Cmax or AUC of aripiprazole or its active metabolite, dehydro-aripiprazole, but delayed Tmax by 3 hours for aripiprazole and 12 hours for dehydro-aripiprazole.
 
 Distribution
 
 The steady-state volume of distribution of aripiprazole following intravenous administration is high (404 L or 4.9 L/kg), indicating extensive extravascular distribution.
 At therapeutic concentrations, aripiprazole and its major metabolite are greater than 99% bound to serum proteins, primarily to albumin.
-In healthy human volunteers administered 0.5 to 30 mg/day aripiprazole for 14 days, there was dose-dependent D 2 receptor occupancy indicating brain penetration of aripiprazole in humans.
+In healthy human volunteers administered 0.5 to 30 mg/day aripiprazole for 14 days, there was dose-dependent D2 receptor occupancy indicating brain penetration of aripiprazole in humans.
 
-Elimination
+Metabolism and Elimination
 
 Metabolism
 
@@ -53,13 +44,13 @@ At steady-state, dehydro- aripiprazole, the active metabolite, represents about 
 Excretion
 
 Following a single oral dose of [14C]-labeled aripiprazole, approximately 25% and 55% of the administered radioactivity was recovered in the urine and feces, respectively.
-Less than 1% of unchanged aripiprazole was excreted in the urine and approximately 18% of the oral dose was recovered unchanged in the feces.
+Less than 1% of unchanged aripiprazole was excreted in the urine and approximately 18% of the dose was recovered unchanged in the feces.
 
 Drug Interaction Studies
 
 Effect of other drugs on the exposures of aripiprazole and dehydro-aripiprazole are summarized in Figure 1 and Figure 2, respectively.
-Based on simulation, a 4.5 fold increase in mean C max and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
-A 3 fold increase in mean C max and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
+Based on simulation, a 4.5-fold increase in mean C max and AUC values at steady-state is expected when extensive metabolizers of CYP2D6 are administered with both strong CYP2D6 and CYP3A4 inhibitors.
+A 3-fold increase in mean C max and AUC values at steady-state is expected in poor metabolizers of CYP2D6 administered with strong CYP3A4 inhibitors.
 
 The effect of aripiprazole on the exposures of other drugs are summarized in Figure 3.
 A population PK analysis in patients with major depressive disorder showed no substantial change in plasma concentrations of fluoxetine (20 or 40 mg/day), paroxetine CR (37.5 or 50 mg/day), or sertraline (100 or 150 mg/day) dosed to steady-state.

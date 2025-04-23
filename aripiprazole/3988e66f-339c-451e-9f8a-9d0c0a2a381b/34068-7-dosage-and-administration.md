@@ -9,7 +9,7 @@ Aripiprazole has been systematically evaluated and shown to be effective in a do
 Dosage increases should generally not be made before 2 weeks, the time needed to achieve steady-state [see Clinical Studies (14.1)].
 
 Maintenance Treatment: Maintenance of efficacy in schizophrenia was demonstrated in a trial involving patients with schizophrenia who had been symptomatically stable on other antipsychotic medications for periods of 3 months or longer.
-These patients were discontinued from those medications and randomized to either aripiprazole 15 mg/day or placebo, and observed for relapse [see Clinical Studies (14.1)].
+These patients were discontinued from those medications and randomized to either aripiprazole 15 mg/day or placebo and observed for relapse [see Clinical Studies (14.1)].
 Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
 Adolescents
@@ -79,14 +79,14 @@ Dosage adjustments should occur gradually in increments of 5 mg/day at intervals
 
 Patients should be periodically reassessed to determine the continued need for maintenance treatment.
 
-## 2.7 Dosage Adjustments for Cytochrome P450 Considerations
+## 2.6 Dosage Adjustments for Cytochrome P450 Considerations
 
-Dosage adjustments are recommended in patients who are known CYP2D6 poor metabolizers and in patients taking concomitant CYP3A4 inhibitors or CYP2D6 inhibitors or strong CYP3A4 inducers (see Table 2).
+Dosage adjustments are recommended in patients who are known CYP2D6 poor metabolizers and in patients taking concomitant CYP3A4 inhibitors or CYP2D6 inhibitors or strong CYP3A4 inducers (see Table 1).
 When the coadministered drug is withdrawn from the combination therapy, aripiprazole dosage should then be adjusted to its original level.
 When the coadministered CYP3A4 inducer is withdrawn, aripiprazole dosage should be reduced to the original level over 1 to 2 weeks.
 Patients who may be receiving a combination of strong, moderate, and weak inhibitors of CYP3A4 and CYP2D6 (e.g., a strong CYP3A4 inhibitor and a moderate CYP2D6 inhibitor or a moderate CYP3A4 inhibitor with a moderate CYP2D6 inhibitor), the dosing may be reduced to one-quarter (25%) of the usual dose initially and then adjusted to achieve a favorable clinical response.
 
-Table 2: Dose Adjustments for Aripiprazole in Patients who are known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, 3A4 Inhibitors, and/or CYP3A4 Inducers
+Table 1: Dose Adjustments for Aripiprazole in Patients who are known CYP2D6 Poor Metabolizers and Patients Taking Concomitant CYP2D6 Inhibitors, CYP3A4 Inhibitors, and/or CYP3A4 Inducers
 
 | Factors | Dosage Adjustments for Aripiprazole |
 | --- | --- |
@@ -97,12 +97,3 @@ Table 2: Dose Adjustments for Aripiprazole in Patients who are known CYP2D6 Poor
 | Strong CYP3A4 inducers (e.g., carbamazepine, rifampin) | Double usual dose over 1 to 2 weeks |
 
 When adjunctive aripiprazole is administered to patients with major depressive disorder, aripiprazole should be administered without dosage adjustment as specified in Dosage and Administration (2.3).
-
-## 2.8 Dosing of Oral Solution
-
-The oral solution can be substituted for tablets on a mg-per-mg basis up to the 25 mg dose level.
-Patients receiving 30 mg tablets should receive 25 mg of the solution [see Clinical Pharmacology (12.3)].
-
-## 2.9 Dosing of Orally Disintegrating Tablets
-
-The dosing for Aripiprazole Orally Disintegrating Tablets is the same as for the oral tablets [see Dosage and Administration (2.1, 2.2, 2.3, and 2.4)].

@@ -2,8 +2,6 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Discuss the following issues with patients prescribed aripiprazole:
-
 Clinical Worsening of Depression and Suicide Risk
 
 Patients, their families, and their caregivers should be encouraged to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
@@ -12,7 +10,7 @@ Such symptoms should be reported to the patient's prescriber or health professio
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication [see Warnings and Precautions (5.3)].
 
 Prescribers or other health professionals should inform patients, their families, and their caregivers about the benefits and risks associated with treatment with aripiprazole and should counsel them in its appropriate use.
-A patient Medication Guide including information about "Antidepressant Medicines, Depression and other Serious Mental Illness, and Suicidal Thoughts or Actions" is available for aripiprazole.
+A patient Medication Guide including information about "Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions" is available for aripiprazole.
 The prescriber or health professional should instruct patients, their families, and their caregivers to read the Medication Guide and should assist them in understanding its contents.
 Patients should be given the opportunity to discuss the contents of the Medication Guide and to obtain answers to any questions they may have.
 It should be noted that aripiprazole is not approved as a single agent for treatment of depression and has not been evaluated in pediatric major depressive disorder.
@@ -40,6 +38,9 @@ Advise patients to notify their healthcare provider if they become pregnant or i
 Advise patients that aripiprazole may cause extrapyramidal and/or withdrawal symptoms (agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder) in a neonate.
 Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to aripiprazole during pregnancy [see Use in Specific Populations (8.1)].
 
+Lactation Aripiprazole use during pregnancy may affect milk supply.
+Advise the lactating patient to discuss any plans for breastfeeding with their healthcare provider, and to monitor the breastfed infant for dehydration and lack of appropriate weight gain [see Use in Specific Populations (8.2)].
+
 Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
 
 Manufactured by:
@@ -50,4 +51,4 @@ Manufactured for:
 
 Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8096013 Revised: December 2024
+8100789 Revised: April 2025
