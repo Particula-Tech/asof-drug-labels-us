@@ -1,6 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 4 Vial Carton
+# PRINCIPAL DISPLAY PANEL - 4 Vial Box Carton
 
-4 x 1 mL NDC 18657-117-04
+4 x 1mL NDC 18657-117-04
 
 Hylenex® recombinant (hyaluronidase) injection
 
