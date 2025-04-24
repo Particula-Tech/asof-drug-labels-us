@@ -17,10 +17,6 @@ Protect from light.
 
 Dispense in a tight container as defined in the USP.
 
-See label or bottom of container for lot number and expiration date.
-
-Rx Only
-
-Actavis
+Rx only
 
 One Pint (473 mL)

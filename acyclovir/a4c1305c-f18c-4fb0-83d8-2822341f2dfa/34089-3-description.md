@@ -3,7 +3,7 @@
 Acyclovir is a synthetic nucleoside analogue active against herpes viruses.
 Acyclovir suspension is formulated for oral administration.
 
-Each teaspoonful (5 mL) of acyclovir oral suspension USP contains 200 mg of acyclovir and the inactive ingredients carboxymethylcellulose sodium, flavor, glycerin, methylparaben (0.1%), microcrystalline cellulose, propylparaben (0.02%), purified water and sorbitol.
+Each teaspoonful (5 mL) of acyclovir oral suspension, USP contains 200 mg of acyclovir and the inactive ingredients carboxymethylcellulose sodium, flavor, glycerin, methylparaben (0.1%), microcrystalline cellulose, propylparaben (0.02%), purified water and sorbitol.
 
 Acyclovir is a white, crystalline powder with the molecular formula C8H11N5O3, and a molecular weight of 225.20.
 The maximum solubility in water at 37°C is 2.5 mg/mL.

@@ -10,7 +10,7 @@ Dosage adjustment is recommended when administering acyclovir to patients with r
 Caution should also be exercised when administering acyclovir to patients receiving potentially nephrotoxic agents since this may increase the risk of renal dysfunction and/or the risk of reversible central nervous system symptoms such as those that have been reported in patients treated with intravenous acyclovir.
 Adequate hydration should be maintained.
 
-## Information for Patients
+## Information for Patients:
 
 Patients are instructed to consult with their physician if they experience severe or troublesome adverse reactions, they become pregnant or intend to become pregnant, they intend to breastfeed while taking orally administered acyclovir, or they have any other questions.
 
@@ -29,11 +29,11 @@ Chickenpox: Chickenpox in otherwise healthy children is usually a self-limited d
 Adolescents and adults tend to have more severe disease.
 Treatment was initiated within 24 hours of the typical chickenpox rash in the controlled studies, and there is no information regarding the effects of treatment begun later in the disease course.
 
-## Drug Interactions
+## Drug Interactions:
 
 See CLINICAL PHARMACOLOGY: Pharmacokinetics.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment of Fertility:
 
 The data presented below include references to peak steady-state plasma acyclovir concentrations observed in humans treated with 800 mg given orally 5 times a day (dosing appropriate for treatment of herpes zoster) or 200 mg given orally 5 times a day (dosing appropriate for treatment of genital herpes).
 Plasma drug concentrations in animal studies are expressed as multiples of human exposure to acyclovir at the higher and lower dosing schedules (see CLINICAL PHARMACOLOGY: Pharmacokinetics).
@@ -53,11 +53,11 @@ In a rat peri- and post-natal study at 50 mg/kg/day, s.c., there was a statistic
 No testicular abnormalities were seen in dogs given 50 mg/kg/day, IV for 1 month (21 to 41 times human levels) or in dogs given 60 mg/kg/day orally for 1 year (6 to 12 times human levels).
 Testicular atrophy and aspermatogenesis were observed in rats and dogs at higher dose levels.
 
-## Pregnancy
+## Pregnancy:
 
-### Teratogenic Effects
+### Teratogenic Effects:
 
-Pregnancy Category B. Acyclovir administered during organogenesis was not teratogenic in the mouse (450 mg/kg/day, p.o.), rabbit (50 mg/kg/day, s.c. and IV), or rat (50 mg/kg/day, s.c.).
+Acyclovir administered during organogenesis was not teratogenic in the mouse (450 mg/kg/day, p.o.), rabbit (50 mg/kg/day, s.c. and IV), or rat (50 mg/kg/day, s.c.).
 These exposures resulted in plasma levels 9 and 18, 16 and 106, and 11 and 22 times, respectively, human levels.
 
 There are no adequate and well-controlled studies in pregnant women.
@@ -67,17 +67,17 @@ The occurrence rate of birth defects approximates that found in the general popu
 However, the small size of the registry is insufficient to evaluate the risk for less common defects or to permit reliable or definitive conclusions regarding the safety of acyclovir in pregnant women and their developing fetuses.
 Acyclovir should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-## Nursing Mothers
+## Nursing Mothers:
 
 Acyclovir concentrations have been documented in breast milk in 2 women following oral administration of acyclovir and ranged from 0.6 to 4.1 times corresponding plasma levels.
 These concentrations would potentially expose the nursing infant to a dose of acyclovir up to 0.3 mg/kg/day.
 Acyclovir should be administered to a nursing mother with caution and only when indicated.
 
-## Pediatric Use
+## Pediatric Use:
 
 Safety and effectiveness of oral formulations of acyclovir in pediatric patients younger than 2 years of age have not been established.
 
-## Geriatric Use
+## Geriatric Use:
 
 Of 376 subjects who received acyclovir in a clinical study of herpes zoster treatment in immunocompetent subjects greater than or equal to 50 years of age, 244 were 65 and over while 111 were 75 and over.
 No overall differences in effectiveness for time to cessation of new lesion formation or time to healing were reported between geriatric subjects and younger adult subjects.

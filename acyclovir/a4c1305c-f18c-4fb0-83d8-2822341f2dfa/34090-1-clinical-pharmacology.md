@@ -50,7 +50,7 @@ Serial analyses of the 3-month recurrence rates for the patients showed that 71%
 
 Herpes Zoster Infections: In a double-blind, placebo-controlled study of immunocompetent patients with localized cutaneous zoster infection, acyclovir (800 mg 5 times daily for 10 days) shortened the times to lesion scabbing, healing, and complete cessation of pain, and reduced the duration of viral shedding and the duration of new lesion formation.
 
-In a similar double-blind, placebo-controlled study, acyclovir (800 mg 5 times daily for 7 days) shortened the times to complete lesion scabbing, healing, and cessation of pain, reduced the duration of new lesion formation, and reduced the prevalence of localized zoster-associated neurologic symptoms (paresthesia, dysesthesia, or hyperesthesia).
+In a similar double-blind, placebo-controlled study, acyclovir (800 mg 5 times daily for 7 days) shortened the times to complete lesion scabbing, healing, and cessation of pain; reduced the duration of new lesion formation; and reduced the prevalence of localized zoster-associated neurologic symptoms (paresthesia, dysesthesia, or hyperesthesia).
 
 Treatment was begun within 72 hours of rash onset and was most effective if started within the first 48 hours.
 

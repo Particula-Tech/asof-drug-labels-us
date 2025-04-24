@@ -9,7 +9,7 @@ Protect from light.
 
 Dispense in a tight container as defined in the USP.
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-A 1/2020 3701602-1120 GW7331
+B 10/2024
