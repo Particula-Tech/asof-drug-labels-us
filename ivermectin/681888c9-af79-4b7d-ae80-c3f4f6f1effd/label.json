@@ -5,6 +5,7 @@
   "inn": "ivermectin",
   "labeler": "Merck Sharp & Dohme LLC",
   "package_ndcs": [
+    "0006-0032-01",
     "0006-0032-20"
   ],
   "products": [

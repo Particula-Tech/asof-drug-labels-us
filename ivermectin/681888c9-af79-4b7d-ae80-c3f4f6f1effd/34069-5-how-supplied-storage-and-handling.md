@@ -5,6 +5,8 @@ They are supplied as follows:
 
 NDC 0006-0032-20 unit dose packages of 20.
 
+NDC 0006-0032-01 unit dose packages of 20.
+
 ## Storage
 
 Store at temperatures below 30°C (86°F).
