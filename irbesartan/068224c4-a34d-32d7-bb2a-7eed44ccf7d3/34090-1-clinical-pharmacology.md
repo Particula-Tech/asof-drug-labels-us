@@ -18,7 +18,7 @@ Inhibition was complete (100%) 4 hours following oral doses of 150 mg or 300 mg 
 In hypertensive patients, angiotensin II receptor inhibition following chronic administration of irbesartan causes a 1.5-fold to 2-fold rise in angiotensin II plasma concentration and a 2-fold to 3-fold increase in plasma renin levels.
 Aldosterone plasma concentrations generally decline following irbesartan administration, but serum potassium levels are not significantly affected at recommended doses.
 In hypertensive patients, chronic oral doses of irbesartan (up to 300 mg) had no effect on glomerular filtration rate, renal plasma flow, or filtration fraction.
-In multiple dose studies in hypertensive patients, there were no clinically important effects on fasting triglycerides, total cholesterol or HDL-cholesterol, or fasting glucose concentrations.
+In multiple dose studies in hypertensive patients, there were no clinically important effects on fasting triglycerides, total cholesterol or HDL-cholesterol concentrations.
 There was no effect on serum uric acid during chronic oral administration, and no uricosuric effect.
 
 ## 12.3 Pharmacokinetics
@@ -31,7 +31,7 @@ Distribution Irbesartan is 90% bound to serum proteins (primarily albumin and α
 The average volume of distribution is 53 to 93 liters.
 Studies in animals indicate that radiolabeled irbesartan weakly crosses the blood-brain barrier and placenta.
 Irbesartan is excreted in the milk of lactating rats.
-Elimination Total plasma and renal clearances are in the range of 157 to 176 mL/min and 3.0 to 3.5 mL/min, respectively.
+Elimination Total plasma and renal clearances are in the range of 157 to 176 mL/min and 3 to 3.5 mL/min, respectively.
 The terminal elimination half-life of irbesartan averages 11 to 15 hours.
 Steady- state concentrations are achieved within 3 days.
 Limited accumulation of irbesartan (<20%) is observed in plasma upon repeated once-daily dosing and is not clinically relevant.
@@ -49,11 +49,11 @@ In studies of hypertensive patients, there is no sex difference in half-life or 
 No sex-related dosage adjustment is necessary.
 Geriatrics In elderly subjects (age 65-80 years), irbesartan elimination half-life is not significantly altered, but AUC and Cmax values are about 20% to 50% greater than those of young subjects (age 18-40 years).
 No dosage adjustment is necessary in the elderly.
-Race/Ethnicity In healthy black subjects, irbesartan AUC values are approximately 25% greater than whites; there is no difference in Cmax values.
-Renal Impairment The pharmacokinetics of irbesartan is not altered in patients with renal impairment or in patients on hemodialysis.
+Race/ethnicity In healthy black subjects, irbesartan AUC values are approximately 25% greater than whites; there is no difference in Cmax values.
+Renal impairment The pharmacokinetics of irbesartan is not altered in patients with renal impairment or in patients on hemodialysis.
 Irbesartan is not removed by hemodialysis.
 No dosage adjustment is necessary in patients with mild to severe renal impairment unless a patient with renal impairment is also volume depleted [see Warnings and Precautions (5.2) and Dosage and Administration (2.4)].
-Hepatic Insufficiency The pharmacokinetics of irbesartan following repeated oral administration are not significantly affected in patients with mild to moderate cirrhosis of the liver.
+Hepatic insufficiency The pharmacokinetics of irbesartan following repeated oral administration are not significantly affected in patients with mild to moderate cirrhosis of the liver.
 No dosage adjustment is necessary in patients with hepatic insufficiency.
 Drug-Drug Interactions In vitro studies show significant inhibition of the formation of oxidized irbesartan metabolites with the known cytochrome CYP2C9 substrates/inhibitors sulphenazole, tolbutamide and nifedipine.
 However, in clinical studies the consequences of concomitant irbesartan on the pharmacodynamics of warfarin were negligible.

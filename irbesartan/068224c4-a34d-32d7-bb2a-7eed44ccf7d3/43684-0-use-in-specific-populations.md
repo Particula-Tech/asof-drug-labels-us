@@ -36,8 +36,6 @@ Pregnant rabbits given oral doses of irbesartan of 30 mg/kg/day (1.9 times the M
 Surviving females had a slight increase in early resorptions and a corresponding decrease in live fetuses.
 Radioactivity was present in the rat and rabbit fetuses during late gestation following oral doses of radiolabeled irbesartan.
 
-## 8.3
-
 ## 8.2 Lactation
 
 There are no available data on the presence of irbesartan in human milk, effects on milk production, or the breastfed infant.
@@ -51,6 +49,6 @@ Irbesartan has not been studied in pediatric patients less than 6 years old.
 
 ## 8.5 Geriatric Use
 
-Of 4925 subjects receiving irbesartan in controlled clinical studies of hypertension, 911 (18.5%) were 65 years and over, while 150 (3.0%) were 75 years and over.
+Of 4925 subjects receiving irbesartan in controlled clinical studies of hypertension, 911 (18.5%) were 65 years and over, while 150 (3%) were 75 years and over.
 No overall differences in effectiveness or safety were observed between these subjects and younger subjects, but greater sensitivity of some older individuals cannot be ruled out.
 [See Clinical Pharmacology (12.3) and Clinical Studies (14.1).]
