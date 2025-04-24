@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA216547"
+  ],
+  "inn": "dasatinib",
+  "labeler": "Aurobindo Pharma Limited",
+  "package_ndcs": [
+    "59651-542-15",
+    "59651-542-60",
+    "59651-543-15",
+    "59651-543-60",
+    "59651-544-15",
+    "59651-544-60",
+    "59651-545-15",
+    "59651-545-30",
+    "59651-546-15",
+    "59651-546-30",
+    "59651-547-15",
+    "59651-547-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dasatinib",
+      "name": "DASATINIB"
+    }
+  ],
+  "setid": "58ce42c6-10bd-4bb4-bf89-eae8ed82c339",
+  "source": "dailymed"
+}
