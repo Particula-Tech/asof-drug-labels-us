@@ -12,7 +12,7 @@ Administration Instructions
 Serious Skin/Hypersensitivity Reactions
 
 - Inform patients that serious skin reactions have occurred with minocycline use in patients with acne.
-  Advise patients to discontinue use of EMROSI and contact their healthcare provider immediately at the first evidence of skin erythema [see Warnings and Precautions (5.1)]
+  Advise patients to discontinue use of EMROSI and contact their healthcare provider immediately at the first evidence of skin erythema [see Warnings and Precautions (5.1)].
 
 Tooth Discoloration and Enamel Hypoplasia
 
@@ -22,12 +22,12 @@ Tooth Discoloration and Enamel Hypoplasia
 Inhibition of Bone Growth
 
 - Advise patients that EMROSI use in pregnancy may cause inhibition of fetal bone growth.
-  Advise patients to discontinue EMROSI during pregnancy and to inform their healthcare provider right away if they become pregnant during treatment [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)]
+  Advise patients to discontinue EMROSI during pregnancy and to inform their healthcare provider right away if they become pregnant during treatment [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)].
 
 Clostridioides difficile-Associated Diarrhea (Antibiotic-Associated Colitis)
 
 - Advise patients that Clostridioides difficile-associated diarrhea (antibiotic-associated colitis) can occur with minocycline therapy, including EMROSI.
-  If patients develop watery or bloody stools, advise patients to seek medical attention [see Warnings and Precautions (5.4)]
+  If patients develop watery or bloody stools, advise patients to seek medical attention [see Warnings and Precautions (5.4)].
 
 Hepatotoxicity
 
@@ -66,7 +66,9 @@ Lactation
 
 Manufactured for:
 
-Journey Medical Corporation Scottsdale, AZ 85258 EMR-P01-R01
+Journey Medical Corporation Scottsdale, AZ 85258
+
+EMR-P01-R01
 
 EMROSI is a trademark of Journey Medical Corporation.
 

@@ -13,17 +13,17 @@ The efficacy results are presented in Table 2.
 
 Table 2: Efficacy Results at Week 16 in Trials MVOR-1 and MVOR-2
 
-| Endpoint | Trial MVOR-1 |  |  | Trial MVOR-2 |  |  |
+| EMROSI(N=122) | Doxycycline(N=121) | Placebo(N=80) | EMROSI(N=123) | Doxycycline(N=125) | Placebo(N=82) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| EMROSI (N=122) | Doxycycline (N=121) | Placebo (N=80) | EMROSI (N=123) | Doxycycline (N=125) | Placebo (N=82) |  |
-| IGA Treatment Success 1 | 65% | 46% | 31% | 60% | 31% | 27% |
+| Endpoint | Trial MVOR-1 |  |  | Trial MVOR-2 |  |  |
+| IGA TreatmentSuccess 1 | 65% | 46% | 31% | 60% | 31% | 27% |
 | Difference from Placebo (95% CI) | 33% (20%, 46%) |  |  | 34% (21%, 47%) |  |  |
 | Difference from Doxycycline (95% CI) | 18% (5%, 31%) |  |  | 28% (17%, 39%) |  |  |
 | Inflammatory Lesion Counts |  |  |  |  |  |  |
 | Mean 2Absolute Change from Baseline | -20.6 | -15.6 | -11.4 | -18.1 | -14.6 | -11.2 |
 | Difference from Placebo (95% CI) | -9.3 (-11.6, -6.9) |  |  | -6.9 (-9.1, -4.6) |  |  |
 | Difference from Doxycycline (95% CI) | -5.1 (-7.2, -2.9) |  |  | -3.4 (-5.4, -1.5) |  |  |
-| Mean 2Percent Change from Baseline | -79% | -63% | -47% | -75% | -60% | -46% |
+| Mean 2 Percent Change from Baseline | -79% | -63% | -47% | -75% | -60% | -46% |
 | Difference from Placebo (95% CI) | -33% (-41%, -24%) |  |  | -30% (-39%, -20%) |  |  |
 | Difference from Doxycycline (95% CI) | -16% (-24%, -8%) |  |  | -15% (-23%, -7%) |  |  |
 

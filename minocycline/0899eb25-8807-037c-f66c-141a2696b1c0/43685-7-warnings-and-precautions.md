@@ -28,10 +28,10 @@ Advise the patient of the potential risk to the fetus if EMROSI is used during t
 
 ## 5.4 Clostridioides difficile-Associated Diarrhea (Antibiotic-Associated Colitis)
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with nearly all antibacterial agents, including minocycline, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficileassociated diarrhea (CDAD) has been reported with nearly all antibacterial agents, including minocycline, and may range in severity from mild diarrhea to fatal colitis.
 
-C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of C.difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+C. difficileproduces toxins A and B which contribute to the development of CDAD.
+Hypertoxin producing strains of C. difficilecause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
@@ -72,7 +72,7 @@ If symptoms occur, immediately discontinue EMROSI.
 
 The anti-anabolic action of the tetracyclines, including EMROSI, may cause an increase in blood urea nitrogen (BUN).
 In patients with significantly impaired renal function, higher serum levels of EMROSI may lead to azotemia, hyperphosphatemia, and acidosis.
-If renal impairment exists monitor serum levels of EMROSI during treatment, and discontinue EMROSI if necessary.
+If renal impairment exists, monitor serum levels of EMROSI during treatment, and discontinue EMROSI if necessary.
 
 ## 5.10 Photosensitivity
 
@@ -89,8 +89,7 @@ Skin pigmentation includes diffuse pigmentation as well as over sites of scars o
 
 ## 5.12 Development of Drug-Resistant Bacteria
 
-Bacterial resistance to the tetracyclines may develop in patients using EMROSI.
-Because of the potential for drug-resistant bacteria to develop during the use of EMROSI, use EMROSI only as indicated.
+Bacterial resistance to the tetracyclines may develop in patients using EMROSI, Because of the potential for drug-resistant bacteria to develop during the use of EMROSI, use EMROSI only as indicated.
 
 ## 5.13 Superinfection
 
