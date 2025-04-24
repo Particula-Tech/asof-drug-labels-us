@@ -1,3 +1,3 @@
 # 3DOSAGE FORMS AND STRENGTHS
 
-Ophthalmic solution containing 0.1% (1 mg/mL) or 0.15% (1.5 mg/mL) brimonidine tartrate.
+Solution containing 1 mg/mL or 1.5 mg/mL brimonidine tartrate.

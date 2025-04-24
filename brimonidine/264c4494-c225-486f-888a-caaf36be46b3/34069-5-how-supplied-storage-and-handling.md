@@ -1,6 +1,6 @@
 # 16HOW SUPPLIED/STORAGE AND HANDLING
 
-ALPHAGAN P is supplied sterile, in teal opaque plastic LDPE bottles and tips, with purple high impact polystyrene (HIPS) caps as follows:
+ALPHAGAN® P is supplied sterile, in teal opaque plastic LDPE bottles and tips, with purple high impact polystyrene (HIPS) caps as follows:
 
 0.1%
 
@@ -18,4 +18,4 @@ ALPHAGAN P is supplied sterile, in teal opaque plastic LDPE bottles and tips, wi
 
 15 mL in 15 mL bottle NDC 0023-9177-15
 
-Storage: Store at 15oC to 25oC (59oF to 77oF).
+Storage: Store at 15o-25oC (59o-77oF).

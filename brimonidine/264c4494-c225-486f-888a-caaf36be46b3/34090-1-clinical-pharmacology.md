@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-ALPHAGAN P is a relatively selective alpha-2 adrenergic receptor agonist with a peak ocular hypotensive effect occurring at two hours post-dosing.
+ALPHAGAN® P is a relatively selective alpha-2 adrenergic receptor agonist with a peak ocular hypotensive effect occurring at two hours post-dosing.
 
 Fluorophotometric studies in animals and humans suggest that brimonidine tartrate has a dual mechanism of action by reducing aqueous humor production and increasing uveoscleral outflow.
 
@@ -14,9 +14,7 @@ After ocular administration of either a 0.1% or 0.2% solution, plasma concentrat
 
 Distribution
 
-Brimonidine was approximately 29% bound to plasma proteins in healthy subjects.
-
-Elimination
+The protein binding of brimonidine has not been studied.
 
 Metabolism
 

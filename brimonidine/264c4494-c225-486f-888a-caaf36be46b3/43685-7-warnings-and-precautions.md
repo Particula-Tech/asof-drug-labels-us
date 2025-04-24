@@ -2,8 +2,8 @@
 
 ## 5.1 Potentiation of Vascular Insufficiency
 
-ALPHAGAN P may potentiate syndromes associated with vascular insufficiency.
-ALPHAGAN P should be used with caution in patients with depression, cerebral or coronary insufficiency, Raynaud’s phenomenon, orthostatic hypotension, or thromboangiitis obliterans.
+ALPHAGAN® P may potentiate syndromes associated with vascular insufficiency.
+ALPHAGAN® P should be used with caution in patients with depression, cerebral or coronary insufficiency, Raynaud’s phenomenon, orthostatic hypotension, or thromboangiitis obliterans.
 
 ## 5.2Severe Cardiovascular Disease
 
@@ -12,6 +12,4 @@ Although brimonidine tartrate ophthalmic solution had minimal effect on the bloo
 ## 5.3 Contamination of Topical Ophthalmic Products After Use
 
 There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
-These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface.
-Do not touch the tip of the dispensing container to the eye or surrounding structures.
-Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions [see Patient Counseling Information (17)].
+These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface [see Patient Counseling Information (17)].
