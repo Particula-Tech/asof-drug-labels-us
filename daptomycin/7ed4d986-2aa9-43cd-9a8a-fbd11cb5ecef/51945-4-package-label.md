@@ -1,6 +1,6 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-LOT XXXXXXXX EXP YYYY-MM-DD
+For Placement Only to left of hanger hole LOT XXXXXXXX EXP YYYY-MM-DD (Numeric)
 
 DAPTOmycin in 0.9% Sodium Chloride Injection 350 mg per 50 mL (7mg/mL)
 
@@ -10,7 +10,7 @@ NDC 0338-0712-24 50 mL Single Dose Container Discard unused portion
 
 Code 2G3593 Sterile Nonpyrogenic For Intravenous Infusion Only
 
-Each mL contains: 7 mg Daptomycin, 0.55 mg Dibasic Sodium Phosphate, USP, 0.435 mg Monobasic Sodium Phosphate, USP, 9 mg Sodium Chloride, USP and Water for Injection, USP. pH may have been adjusted with Hydrochloric Acid and/or Sodium Hydroxide.
+Each 50 mL contains: 350 mg Daptomycin, 450 mg Sodium Chloride, USP, 25 mg Monobasic Sodium Phosphate Monohydrate, USP, 27.5 mg Dibasic Sodium Phosphate Anhydrous, USP and Water for Injection, USP. pH may have been adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
 Cautions: Do not add supplementary medication or additives.
 Recommended Dosage: See prescribing information.
 Rx only Store frozen at or below -20°C/-4°F.
@@ -20,15 +20,15 @@ Product should not be thawed by immersion in water baths or by microwave irradia
 Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
 Do not refreeze.
 
-GALAXY
+GALAXY PL 2040 Plastic
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA Baxter and Galaxy are registered trademarks of Baxter International Inc. Made in USA
 
-07-34-00-2561
+07-34-00-1224
 
-BAR CODE 303380712243
+*BAR CODE FOR POSITION ONLY (1) XXXXXXXXXXXXXX
 
-LOT XXXXXXXX EXP YYYY-MM-DD
+For Placement Only to left of hanger hole LOT XXXXXXXX EXP YYYY-MM-DD (Numeric)
 
 DAPTOmycin in 0.9% Sodium Chloride Injection 500 mg per 50 mL (10mg/mL)
 
@@ -38,7 +38,7 @@ NDC 0338-0714-24 50 mL Single Dose Container Discard unused portion
 
 Code 2G3594 Sterile Nonpyrogenic For Intravenous Infusion Only
 
-Each mL contains: 10 mg Daptomycin, 0.55 mg Dibasic Sodium Phosphate, USP, 0.435 mg Monobasic Sodium Phosphate, USP, 9 mg Sodium Chloride, USP and Water for Injection, USP. pH may have been adjusted with Hydrochloric Acid and/or Sodium Hydroxide.
+Each 50 mL contains: 500 mg Daptomycin, 450 mg Sodium Chloride, USP, 25 mg Monobasic Sodium Phosphate Monohydrate, USP, 27.5 mg Dibasic Sodium Phosphate Anhydrous, USP and Water for Injection, USP. pH may have been adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
 Cautions: Do not add supplementary medication or additives.
 Recommended Dosage: See prescribing information.
 Rx only Store frozen at or below -20°C/-4°F.
@@ -48,15 +48,13 @@ Product should not be thawed by immersion in water baths or by microwave irradia
 Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
 Do not refreeze.
 
-GALAXY
+GALAXY PL 2040 Plastic
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA Baxter and Galaxy are registered trademarks of Baxter International Inc. Made in USA
 
-07-34-00-2562
+07-34-00-1225
 
-BAR CODE 303380714247
-
-LOT XXXXXXXX EXP YYYY-MM-DD
+*BAR CODE FOR POSITION ONLY (1) XXXXXXXXXXXXXX
 
 DAPTOmycin in 0.9% Sodium Chloride Injection 700 mg per 100 mL (7mg/mL)
 
@@ -66,7 +64,7 @@ NDC 0338-0716-12 100 mL Single Dose Container Discard unused portion
 
 Code 2G3595 Sterile Nonpyrogenic For Intravenous Infusion Only
 
-Each mL contains: 7 mg Daptomycin, 0.55 mg Dibasic Sodium Phosphate, USP, 0.435 mg Monobasic Sodium Phosphate, USP, 9 mg Sodium Chloride, USP and Water for Injection, USP. pH may have been adjusted with Hydrochloric Acid and/or Sodium Hydroxide.
+Each 100 mL contains: 700 mg Daptomycin, 900 mg Sodium Chloride, USP, 50 mg Monobasic Sodium Phosphate Monohydrate, USP, 55 mg Dibasic Sodium Phosphate Anhydrous, USP and Water for Injection, USP. pH may have been adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
 Cautions: Do not add supplementary medication or additives.
 Recommended Dosage: See prescribing information.
 Rx only Store frozen at or below -20°C/-4°F.
@@ -76,15 +74,13 @@ Product should not be thawed by immersion in water baths or by microwave irradia
 Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
 Do not refreeze.
 
-GALAXY
+GALAXY PL 2040 Plastic
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA Baxter and Galaxy are registered trademarks of Baxter International Inc. Made in USA
 
-07-34-00-2563
+07-34-00-1901
 
-BAR CODE 303380716128
-
-LOT XXXXXXXX EXP YYYY-MM-DD
+BAR CODE POSITION ONLY 303380716128
 
 DAPTOmycin in 0.9% Sodium Chloride Injection 1,000 mg per 100 mL (10mg/mL)
 
@@ -94,7 +90,7 @@ NDC 0338-0718-12 100 mL Single Dose Container Discard unused portion
 
 Code 2G3596 Sterile Nonpyrogenic For Intravenous Infusion Only
 
-Each mL contains: 10 mg Daptomycin, 0.55 mg Dibasic Sodium Phosphate, USP, 0.435 mg Monobasic Sodium Phosphate, USP, 9 mg Sodium Chloride, USP and Water for Injection, USP. pH may have been adjusted with Hydrochloric Acid and/or Sodium Hydroxide.
+Each 100 mL contains: 1,000 mg Daptomycin, 900 mg Sodium Chloride, USP, 50 mg Monobasic Sodium Phosphate Monohydrate, USP, 55 mg Dibasic Sodium Phosphate Anhydrous, USP and Water for Injection, USP. pH may have been adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
 Cautions: Do not add supplementary medication or additives.
 Recommended Dosage: See prescribing information.
 Rx only Store frozen at or below -20°C/-4°F.
@@ -104,13 +100,13 @@ Product should not be thawed by immersion in water baths or by microwave irradia
 Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
 Do not refreeze.
 
-GALAXY
+GALAXY PL 2040 Plastic
 
 Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA Baxter and Galaxy are registered trademarks of Baxter International Inc. Made in USA
 
-07-34-00-2564
+07-34-00-1902
 
-BAR CODE 303380718122
+BAR CODE POSITION ONLY 303380718122
 
 Store frozen at or below -20°C/-4°F.
 Do not force thaw.
@@ -120,21 +116,21 @@ Product should not be thawed by immersion in water baths or by microwave irradia
 Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
-Baxter and Galaxy are registered trademarks of Baxter International Inc. GALAXY
+Baxter and Galaxy are registered trademarks of Baxter International Inc. GALAXY PL 2040 Plastic
 
-07-04-00-1441
+07-04-00-0501
 
 DAPTOmycin in 0.9% Sodium Chloride Injection 350 mg per 50 mL (7 mg/mL)
 
 350 mg TOTAL
 
+For Placement Only LOT XXXXXXXX EXP YYYY-MM-DD (Numeric)
+
 Baxter Logo 12 – 50 mL Single Dose Containers Sterile – Nonpyrogenic For Intravenous Infusion Only Store at or below -20°C/-4°F.
 
-LOT XXXXXXXX EXP YYYY-MM-DD
+NDC 0338-0712-24 Code 2G3593 * FOR BAR CODEPOSITION ONLY (01) XXXXXXXXXXXXXX
 
-NDC 0338-0712-24 Code 2G3593 BAR CODE (01)20303380712247
-
-Each mL contains: 7 mg Daptomycin, 0.55 mg Dibasic Sodium Phosphate, USP, 0.435 mg Monobasic Sodium Phosphate, USP, 9 mg Sodium Chloride, USP and Water for Injection, USP. pH may have been adjusted with Hydrochloric Acid and/or Sodium Hydroxide.
+Each 50 mL contains: 350 mg Daptomycin, 450 mg Sodium Chloride, USP, 25 mg Monobasic Sodium Phosphate Monohydrate, USP, 27.5 mg Dibasic Sodium Phosphate Anhydrous, USP and Water for Injection, USP. pH may have been adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
 Cautions: Do not add supplementary medications or additives.
 Recommended Dosage: See prescribing information.
 Rx only.
@@ -149,21 +145,21 @@ Product should not be thawed by immersion in water baths or by microwave irradia
 Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
-Baxter and Galaxy are registered trademarks of Baxter International Inc. GALAXY
+Baxter and Galaxy are registered trademarks of Baxter International Inc. GALAXY PL 2040 Plastic
 
-07-04-00-1442
+07-04-00-0502
 
 DAPTOmycin in 0.9% Sodium Chloride Injection 500 mg per 50 mL (10 mg/mL)
 
 500 mg TOTAL
 
+For Placement Only LOT XXXXXXXX EXP YYYY-MM-DD (Numeric)
+
 Baxter Logo 12 – 50 mL Single Dose Containers Sterile – Nonpyrogenic For Intravenous Infusion Only Store at or below -20°C/-4°F.
 
-LOT XXXXXXXX EXP YYYY-MM-DD
+NDC 0338-0714-24 Code 2G3594 * FOR BAR CODEPOSITION ONLY (01) XXXXXXXXXXXXXX
 
-NDC 0338-0714-24 Code 2G3594 BAR CODE (01)20303380714241
-
-Each mL contains: 10 mg Daptomycin, 0.55 mg Dibasic Sodium Phosphate, USP, 0.435 mg Monobasic Sodium Phosphate, USP, 9 mg Sodium Chloride, USP and Water for Injection, USP. pH may have been adjusted with Hydrochloric Acid and/or Sodium Hydroxide.
+Each 50 mL contains: 500 mg Daptomycin, 450 mg Sodium Chloride, USP, 25 mg Monobasic Sodium Phosphate Monohydrate, USP, 27.5 mg Dibasic Sodium Phosphate Anhydrous, USP and Water for Injection, USP. pH may have been adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
 Cautions: Do not add supplementary medications or additives.
 Recommended Dosage: See prescribing information.
 Rx only.
@@ -178,21 +174,21 @@ Product should not be thawed by immersion in water baths or by microwave irradia
 Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
-Baxter and Galaxy are registered trademarks of Baxter International Inc. GALAXY
+Baxter and Galaxy are registered trademarks of Baxter International Inc. GALAXY PL 2040 Plastic
 
-07-04-00-1443
+07-04-00-0503
 
 DAPTOmycin in 0.9% Sodium Chloride Injection 700 mg per 100 mL (7 mg/mL)
 
 700 mg TOTAL
 
+For Placement Only LOT XXXXXXXX EXP YYYY-MM-DD (Numeric)
+
 Baxter Logo 6 – 100 mL Single Dose Containers Sterile – Nonpyrogenic For Intravenous Infusion Only Store at or below -20°C/-4°F.
 
-LOT XXXXXXXX EXP YYYY-MM-DD
+NDC 0338-0716-12 Code 2G3595 * FOR BAR CODEPOSITION ONLY (01) XXXXXXXXXXXXXX
 
-NDC 0338-0716-12 Code 2G3595 BAR CODE (01)20303380716122
-
-Each mL contains: 7 mg Daptomycin, 0.55 mg Dibasic Sodium Phosphate, USP, 0.435 mg Monobasic Sodium Phosphate, USP, 9 mg Sodium Chloride, USP and Water for Injection, USP. pH may have been adjusted with Hydrochloric Acid and/or Sodium Hydroxide.
+Each 100 mL contains: 700 mg Daptomycin, 900 mg Sodium Chloride, USP, 50 mg Monobasic Sodium Phosphate Monohydrate, USP, 55 mg Dibasic Sodium Phosphate Anhydrous, USP and Water for Injection, USP. pH may have been adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
 Cautions: Do not add supplementary medications or additives.
 Recommended Dosage: See prescribing information.
 Rx only.
@@ -207,21 +203,21 @@ Product should not be thawed by immersion in water baths or by microwave irradia
 Thawed solution is stable for 30 days under refrigeration or 48 hours at room temperature.
 Handle frozen product containers with care.
 Product containers may be fragile in the frozen state.
-Baxter and Galaxy are registered trademarks of Baxter International Inc. GALAXY
+Baxter and Galaxy are registered trademarks of Baxter International Inc. GALAXY PL 2040 Plastic
 
-07-04-00-1444
+07-04-00-0504
 
 DAPTOmycin in 0.9% Sodium Chloride Injection 1,000 mg per 100 mL (10 mg/mL)
 
 1,000 mg TOTAL
 
+For Placement Only LOT XXXXXXXX EXP YYYY-MM-DD (Numeric)
+
 Baxter Logo 6 – 100 mL Single Dose Containers Sterile – Nonpyrogenic For Intravenous Infusion Only Store at or below -20°C/-4°F.
 
-LOT XXXXXXXX EXP YYYY-MM-DD
+NDC 0338-0718-12 Code 2G3596 * FOR BAR CODEPOSITION ONLY (01) XXXXXXXXXXXXXX
 
-NDC 0338-0718-12 Code 2G3596 BAR CODE (01)20303380718126
-
-Each mL contains: 10 mg Daptomycin, 0.55 mg Dibasic Sodium Phosphate, USP, 0.435 mg Monobasic Sodium Phosphate, USP, 9 mg Sodium Chloride, USP and Water for Injection, USP. pH may have been adjusted with Hydrochloric Acid and/or Sodium Hydroxide.
+Each 100 mL contains: 1000 mg Daptomycin, 900 mg Sodium Chloride, USP, 50 mg Monobasic Sodium Phosphate Monohydrate, USP, 55 mg Dibasic Sodium Phosphate Anhydrous, USP and Water for Injection, USP. pH may have been adjusted with Sodium Hydroxide and/or Hydrochloric Acid.
 Cautions: Do not add supplementary medications or additives.
 Recommended Dosage: See prescribing information.
 Rx only.
