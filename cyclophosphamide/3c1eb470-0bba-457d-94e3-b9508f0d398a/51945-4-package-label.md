@@ -1,6 +1,8 @@
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL- 500 mg per 2.5 mL (200 mg per mL) - Container Label
 
-Rx only NDC 55150-270-99 Cyclophosphamide Injection 500 mg per 2.5 mL (200 mg per mL) For Intravenous Use After Dilution HAZARDOUS AGENT Multiple-Dose Vial
+Rx only NDC 55150-270-99 Cyclophosphamide Injection 500 mg per 2.5 mL (200 mg per mL) For Intravenous Use After Dilution
+
+HAZARDOUS AGENT Multiple-Dose Vial
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL-500 mg per 2.5 mL (200 mg per mL) - Container-Carton (1 Vial)
 
