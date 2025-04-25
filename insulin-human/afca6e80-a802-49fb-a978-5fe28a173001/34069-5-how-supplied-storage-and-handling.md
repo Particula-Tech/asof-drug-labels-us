@@ -4,7 +4,7 @@
 
 MYXREDLIN (insulin human) in 0.9% sodium chloride injection contains 100 units/100 mL (1 unit/mL) of insulin human in 0.9% sodium chloride and is a clear, colorless solution available as:
 
-1. 100 mL single-dose GALAXY container, package of 12, NDC 0338-0126-12
+- 100 mL single-dose GALAXY container, package of 12, NDC 0338-0126-12
 
 ## 16.2 Storage and Handling
 
