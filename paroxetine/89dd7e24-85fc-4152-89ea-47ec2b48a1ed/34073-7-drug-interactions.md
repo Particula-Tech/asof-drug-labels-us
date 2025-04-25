@@ -15,7 +15,7 @@ Table 9: Clinically Significant Drug Interactions with Paroxetine Tablets
 | Other Serotonergic Drugs |  |
 | Clinical Impact | The concomitant use of serotonergic drugs with paroxetine tablets increases the risk of serotonin syndrome. |
 | Intervention | Monitor patients for signs and symptoms of serotonin syndrome, particularly during treatment initiation and dosage increases. If serotonin syndrome occurs, consider discontinuation of paroxetine tablets and/or concomitant serotonergic drugs [see Warnings and Precautions (5.2)]. |
-| Examples | other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort |
+| Examples | other SSRIs, SNRIs, triptans, tricyclic antidepressants, opioids, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort. |
 | Drugs that Interfere with Hemostasis (antiplatelet agents and anticoagulants) |  |
 | Clinical Impact | The concurrent use of an antiplatelet agent or anticoagulant with paroxetine tablets may potentiate the risk of bleeding. |
 | Intervention | Inform patients of the increased risk of bleeding associated with the concomitant use of paroxetine tablets and antiplatelet agents and anticoagulants. For patients taking warfarin, carefully monitor the international normalized ratio [see Warnings and Precautions (5.5)]. |
@@ -23,7 +23,7 @@ Table 9: Clinically Significant Drug Interactions with Paroxetine Tablets
 | Drugs Highly Bound to Plasma Protein |  |
 | Clinical Impact | Paroxetine tablets are highly bound to plasma protein. The concomitant use of paroxetine tablets with another drug that is highly bound to plasma protein may increase free concentrations of paroxetine tablets or other tightly-bound drugs in plasma. |
 | Intervention | Monitor for adverse reactions and reduce dosage of paroxetine tablets or other protein-bound drugs as warranted. |
-| Examples | warfarin |
+| Examples | Warfarin |
 | Drugs Metabolized by CYP2D6 |  |
 | Clinical Impact | Paroxetine tablets are a CYP2D6 inhibitor [see Clinical Pharmacology (12.3)]. The concomitant use of paroxetine tablets with a CYP2D6 substrate may increase the exposure of the CYP2D6 substrate. |
 | Intervention | Decrease the dosage of a CYP2D6 substrate if needed with concomitant paroxetine tablets use. Conversely, an increase in dosage of a CYP2D6 substrate may be needed if paroxetine tablets are discontinued. |

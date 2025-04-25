@@ -5,7 +5,7 @@
 In pooled analyses of placebo-controlled trials of antidepressant drugs (SSRIs and other antidepressant classes) that included approximately 77,000 adult patients and 4,500 pediatric patients, the incidence of suicidal thoughts and behaviors in antidepressant-treated patients age 24 years and younger was greater than in placebo-treated patients.
 There was considerable variation in risk of suicidal thoughts and behaviors among drugs, but there was an increased risk identified in young patients for most drugs studied.
 There were differences in absolute risk of suicidal thoughts and behaviors across the different indications, with the highest incidence in patients with MDD.
-The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1000 patients treated are provided in Table 2.
+The drug-placebo differences in the number of cases of suicidal thoughts and behaviors per 1,000 patients treated are provided in Table 2.
 
 Table 2: Risk Differences of the Number of Patients with Suicidal Thoughts and Behaviors in the Pooled Placebo-Controlled Trials of Antidepressants in Pediatric and Adult Patients
 
@@ -49,13 +49,10 @@ If concomitant use of paroxetine tablets with other serotonergic drugs is clinic
 The CYP2D6 inhibitory properties of paroxetine can elevate plasma levels of thioridazine and pimozide.
 Since thioridazine and pimozide given alone produce prolongation of the QTc interval and increase the risk of serious ventricular arrhythmias, the use of paroxetine tablets is contraindicated in combination with thioridazine and pimozide [see Contraindications (4), Drug Interactions (7),Clinical Pharmacology (12.3)].
 
-## 5.4 Embryofetal and Neonatal Toxicity
+## 5.4 Embryofetal Toxicity
 
-Paroxetine tablets can cause fetal harm when administered to a pregnant woman.
-Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of cardiovascular malformations.
-Exposure to paroxetine in late pregnancy may lead to an increased risk for persistent pulmonary hypertension of the newborn (PPNH) and/or neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
-
-If paroxetine tablets are used during pregnancy, or if the patient becomes pregnant while taking paroxetine tablets, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
+Based on meta-analyses of epidemiological studies, exposure to paroxetine in the first trimester of pregnancy is associated with a less than 2-fold increase in the rate of cardiovascular malformations among infants.
+For women who intend to become pregnant or who are in their first trimester of pregnancy, paroxetine tablets, should be initiated only after consideration of the other available treatment options [see Use in Specific Populations (8.1)].
 
 ## 5.5 Increased Risk of Bleeding
 

@@ -9,4 +9,4 @@ The following have been reported with paroxetine tablet overdosage:
 
 Gastrointestinal decontamination with activated charcoal should be considered in patients who present early after a paroxetine overdose.
 
-Consider contacting a Poison Center (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.
+Consider contacting a poison center (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.

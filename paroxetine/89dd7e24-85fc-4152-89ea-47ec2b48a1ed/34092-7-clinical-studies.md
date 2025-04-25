@@ -25,7 +25,7 @@ The following table provides the outcome classification by treatment group on Gl
 
 Table 10: Outcome Classification (%) on CGI-Global Improvement Item for Completers in Study 1 in Patients with OCD
 
-| Outcome Classification | Placebo(n = 74)% | ParoxetineTablets 20 mg(n = 75)% | ParoxetineTablets 40 mg(n = 66)% | ParoxetineTablets 60 mg(n = 66)% |
+| Outcome Classification | Placebo (n = 74)% | ParoxetineTablets 20 mg(n = 75)% | ParoxetineTablets 40 mg(n = 66)% | ParoxetineTablets 60 mg(n = 66)% |
 | --- | --- | --- | --- | --- |
 | Worse | 14 | 7 | 7 | 3 |
 | No Change | 44 | 35 | 22 | 19 |
@@ -74,7 +74,7 @@ In Study 1, for patients who completed to week 12, 69% of paroxetine tablets-tre
 In Study 2, CGI Improvement responders were 77% and 42% for the paroxetine tablets- and placebo-treated patients, respectively.
 
 Study 3 was a 12-week study comparing fixed doses of paroxetine tablets 20 mg, 40 mg, or 60 mg daily with placebo.
-Paroxetine tablets 20 mg was statistically significantly superior to placebo on both the LSAS Total Score and the CGI Improvement responder criterion; there were trends for superiority over placebo for the paroxetine tablets 40 mg and 60 mg daily dose groups.
+Paroxetine tablets 20 mg were statistically significantly superior to placebo on both the LSAS Total Score and the CGI Improvement responder criterion; there were trends for superiority over placebo for the paroxetine tablets 40 mg and 60 mg daily dose groups.
 There was no indication in this study of any additional benefit for doses higher than 20 mg daily.
 
 Subgroup analyses generally did not indicate differences in treatment outcomes as a function of age, race, or gender.
@@ -85,7 +85,6 @@ The effectiveness of paroxetine tablets in the treatment of generalized anxiety 
 
 Study 1 was an 8-week study comparing fixed doses of paroxetine tablets 20 mg or 40 mg daily with placebo.
 Doses of paroxetine tablets 20 mg or 40 mg were both demonstrated to be statistically significantly superior to placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score.
-
 There was not sufficient evidence in this study to suggest a greater benefit for the paroxetine tablets 40 mg daily dose compared to the 20 mg daily dose.
 
 Study 2 was a flexible-dose study comparing paroxetine tablets 20 mg to 50 mg daily and placebo.
