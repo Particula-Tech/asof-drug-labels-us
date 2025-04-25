@@ -48,7 +48,8 @@ One birth defect (ventricular septal defect) and cases of miscarriage have been 
 Multiple birth defects have been reported in a fetus of a patient treated with intravenous fluorouracil.
 
 Animal reproduction studies have not been conducted with EFUDEX.
-Fluorouracil administered parenterally has been shown to be teratogenic in mice, rats, and hamsters when given at doses equivalent to the usual human intravenous dose; however, the amount of fluorouracil absorbed systemically after topical administration to actinic keratoses is minimal (see CLINICAL PHARMACOLOGY).Fluorouracil exhibited maximum teratogenicity when given to mice as single intraperitoneal injections of 10 to 40 mg/kg on Day 10 or 12 of gestation.
+Fluorouracil administered parenterally has been shown to be teratogenic in mice, rats, and hamsters when given at doses equivalent to the usual human intravenous dose; however, the amount of fluorouracil absorbed systemically after topical administration to actinic keratoses is minimal (see CLINICAL PHARMACOLOGY).
+Fluorouracil exhibited maximum teratogenicity when given to mice as single intraperitoneal injections of 10 to 40 mg/kg on Day 10 or 12 of gestation.
 Similarly, intraperitoneal doses of 12 to 37 mg/kg given to rats between Days 9 and 12 of gestation and intramuscular doses of 3 to 9 mg/kg given to hamsters between Days 8 and 11 of gestation were teratogenic and/or embryotoxic (i.e., resulted in increased resorptions or embryolethality).
 In monkeys, divided doses of 40 mg/kg given between Days 20 and 24 of gestation were not teratogenic.
 Doses higher than 40 mg/kg resulted in abortion.
@@ -113,7 +114,7 @@ However, in studies with a strain of mouse which is sensitive to the induction o
 In female rats, fluorouracil administered intraperitoneally at doses of 25 and 50 mg/kg during the preovulatory phase of oogenesis significantly reduced the incidence of fertile matings, delayed the development of preimplantation and postimplantation embryos, increased the incidence of preimplantation lethality and induced chromosomal anomalies in these embryos.
 Single-dose intravenous and intraperitoneal injections of 5-fluorouracil have been reported to kill differentiated spermatogonia and spermatocytes (at 500 mg/kg) and to produce abnormalities in spermatids (at 50 mg/kg) in mice.
 
-Pregnancy:See CONTRAINDICATIONS.
+Pregnancy: SeeCONTRAINDICATIONS.
 
 Nursing Mothers:It is not known whether EFUDEX is excreted in human milk.
 Because there is some systemic absorption of fluorouracil after topical administration (see CLINICAL PHARMACOLOGY), because many drugs are excreted in human milk, and because of the potential for serious adverse reactions in nursing infants, a decision should be made whether to discontinue nursing or to discontinue use of the drug, taking into account the importance of the drug to the mother.
@@ -189,7 +190,7 @@ EFUDEX is a trademark of Bausch Health Companies Inc. or its affiliates.
 
 © 2024 Bausch Health Companies Inc. or its affiliates
 
-- Rev.
-  03/2024
+Rev.
+03/2024
 
 9734603
