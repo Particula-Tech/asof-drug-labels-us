@@ -51,7 +51,7 @@
 16. AMA Council on Scientific Affairs.
     Guidelines for handling parenteral antineoplastics.
     JAMA.
-    1985; 253:15901592.
+    1985; 253:1590-1592.
 17. National Study Commission on Cytotoxic Exposure.
     Recommendations for handling cytotoxic agents.
     1987.
@@ -69,20 +69,12 @@
     Am J Hosp Pharm.
     1990; 47:1033-1049.
 21. Yodaiken RE, Bennett D. OSHA Work-Practice guidelines for personnel dealing with cytotoxic (antineoplastic) drugs.
-    Am J Hosp Pharm, 1996; 43:1193-1204
+    Am J Hosp Pharm, 1996; 43:1193-1204.
 
-Manufactured in India by:
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
 
-Alkem Laboratories Ltd.,
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
 
-INDIA
+Revised: January 2025
 
-Distributed by:
-
-Ascend Laboratories, LLC
-
-Parsippany, NJ 07054
-
-Revised: November, 2021
-
-PT 1887-02
+PT 1887-03

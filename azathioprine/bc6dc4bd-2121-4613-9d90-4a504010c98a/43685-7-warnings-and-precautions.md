@@ -35,7 +35,7 @@ Hematologic toxicities are dose-related and may be more severe in renal transpla
 It is suggested that patients on azathioprine have complete blood counts, including platelet counts, weekly during the first month, twice monthly for the second and third months of treatment, then monthly or more frequently if dosage alterations or other therapy changes are necessary.
 Delayed hematologic suppression may occur.
 Prompt reduction in dosage or temporary withdrawal of the drug may be necessary if there is a rapid fall in or persistently low leukocyte count, or other evidence of bone marrow depression.
-Leukopenia does not correlate with therapeutic effect; therefore the dose should not be increased intentionally to lower the white blood cell count.
+Leukopenia does not correlate with therapeutic effect; therefore, the dose should not be increased intentionally to lower the white blood cell count.
 
 TPMT or NUDT15 Deficiency
 
@@ -69,6 +69,10 @@ This drug should not be used for treating rheumatoid arthritis in pregnant women
 Azathioprine is teratogenic in rabbits and mice when given in doses equivalent to the human dose (5 mg/kg daily).
 Abnormalities included skeletal malformations and visceral anomalies.
 2
+
+Postmarketing cases of intrahepatic cholestasis of pregnancy (ICP) have been reported in women treated with azathioprine during pregnancy.
+ICP symptoms and evaluated bile acid levels improved following azathioprine discontinuation.
+Discontinue azathioprine if ICP develops in a pregnant woman.
 
 Limited immunologic and other abnormalities have occurred in a few infants born of renal allograft recipients on azathioprine.
 In a detailed case report, 4 documented lymphopenia, diminished IgG and IgM levels, CMV infection, and a decreased thymic shadow were noted in an infant born to a mother receiving 150 mg azathioprine and 30 mg prednisone daily throughout pregnancy.
@@ -107,8 +111,7 @@ Complete Blood Count (CBC) Monitoring: Patients on azathioprine should have comp
 
 TPMT and NUDT15 Testing: Consider genotyping or phenotyping patients for TPMT deficiency and genotyping for NUDT15 deficiency in patients with severe myelosuppression.
 TPMT and NUDT15 testing cannot substitute for complete blood count (CBC) monitoring in patients receiving azathioprine.
-Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions.
-(see CLINICAL PHARMACOLOGY, WARNINGS:Cytopenias ADVERSE REACTIONSand DOSAGE AND ADMINISTRATIONsections).
+Accurate phenotyping (red blood cell TPMT activity) results are not possible in patients who have received recent blood transfusions (see CLINICAL PHARMACOLOGY, WARNINGS: Cytopenias, ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION sections).
 
 ## DRUG INTERACTIONS
 
@@ -116,8 +119,7 @@ Use with xanthine oxidase (XO) inhibitors: One of the pathways for inactivation 
 Patients receiving azathioprine and allopurinol concomitantly should have a dose reduction of azathioprine, to approximately 1/3 to 1/4 the usual dose.
 Concomitant use of azathioprine with febuxostat is not recommended.
 Inhibition of XO may cause increased plasma concentrations of azathioprine or its metabolite, 6-MP, leading to toxicity.
-It is recommended that a further dose reduction or alternative therapies be considered for patients with low or absent TPMT activity receiving azathioprine and xanthine oxidase inhibitors because both TPMT and XO inactivation pathways are affected.
-(See CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS: Laboratory Tests and ADVERSE REACTIONSsections).
+It is recommended that a further dose reduction or alternative therapies be considered for patients with low or absent TPMT activity receiving azathioprine and xanthine oxidase inhibitors because both TPMT and XO inactivation pathways are affected (see CLINICAL PHARMACOLOGY, WARNINGS, PRECAUTIONS: Laboratory Tests and ADVERSE REACTIONS sections).
 
 Use with Aminosalicylates: There is in vitro evidence that aminosalicylate derivatives (e.g., sulphasalazine, mesalazine, or olsalazine) inhibit the TPMT enzyme.
 Concomitant use of these agents with azathioprine should be done with caution.
@@ -139,7 +141,7 @@ See WARNINGS section.
 
 ## PREGNANCY
 
-Teratogenic Effects: Pregnancy Category D. See WARNINGS section.
+Teratogenic Effects: See WARNINGS section.
 
 ## NURSING MOTHERS
 
