@@ -1,4 +1,4 @@
-| Instructions for Use Epogen® (Ee-po-jen) (epoetin alfa) |
+| Instructions for Use EPOGEN® (Ee-po-jen) (epoetin alfa) |
 | --- |
 
 Use these Instructions for Use if you or your caregiver has been trained to give Epogen injections at home.
@@ -35,7 +35,9 @@ When you receive your Epogen vial and syringes make sure that:
   Throw the vial away after use even if there is medicine left in the vial.
 - After removing a dose from the multidose vial, store the vial in the refrigerator (but not the freezer).
   Do not store the vial for more than 21 days.
-- Throw away the multidose vial as directed by your healthcare provider: ○ if there is not enough medicine left in the multidose vial for another dose, or ○ if it has been more than 21 days since you first put a needle into the multidose vial.
+- Throw away the multidose vial as directed by your healthcare provider:
+  - if there is not enough medicine left in the multidose vial for another dose, or
+  - if it has been more than 21 days since you first put a needle into the multidose vial.
 
 How should I prepare for an injection of Epogen?
 
@@ -146,15 +148,16 @@ In patients on hemodialysis, the intravenous (IV) route is recommended.
 1.
 Subcutaneous Route:
 
-• Epogen can be injected directly into a layer of fat under your skin.
-This is called a subcutaneous injection.
-When giving subcutaneous injections, follow your healthcare provider’s instructions about changing the site for each injection.
-You may wish to write down the site where you have injected.
-
-• Do not inject Epogen into an area that is tender, red, bruised, hard, or has scars or stretch marks.
-Recommended sites for injection are shown in Figure 11 below, including:
-
-○ The outer area of the upper arms ○ The abdomen (except for the 2-inch area around the navel) ○ The front of the middle thighs ○ The upper outer area of the buttocks
+- Epogen can be injected directly into a layer of fat under your skin.
+  This is called a subcutaneous injection.
+  When giving subcutaneous injections, follow your healthcare provider’s instructions about changing the site for each injection.
+  You may wish to write down the site where you have injected.
+- Do not inject Epogen into an area that is tender, red, bruised, hard, or has scars or stretch marks.
+  Recommended sites for injection are shown in Figure 11 below, including:
+  - The outer area of the upper arms
+  - The abdomen (except for the 2-inch area around the navel)
+  - The front of the middle thighs
+  - The upper outer area of the buttocks
 
 • Clean the skin with an alcohol wipe where the injection is to be made.
 Be careful not to touch the skin that has been wiped clean.
@@ -220,7 +223,7 @@ There may be special state and local laws for disposing of used needles and syri
 Do not throw the puncture-proof disposable container in the household trash.
 Do not recycle.
 
-Keep Epogen and all medicines out of reach of children.
+Keep Epogen and all medicines out of the reach of children.
 
 These Instructions for Use have been approved by the U.S. Food and Drug Administration.
 
@@ -228,8 +231,8 @@ Manufactured by:
 
 Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A.
 
-Revised: 05/2012
+Revised: 12/2024
 
-© 1989-2012 Amgen Inc. All rights reserved.
+© 1989-2012, 2024 Amgen Inc. All rights reserved.
 
-1xxxxxx - v3 PMV 3
+1xxxxxx - v4 PMV 3

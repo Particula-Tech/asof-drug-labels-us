@@ -49,7 +49,9 @@ For adult patients with CKD on dialysis:
 
 For adult patients with CKD not on dialysis:
 
-- Consider initiating Epogen treatment only when the hemoglobin level is less than 10 g/dL and the following considerations apply: ○ The rate of hemoglobin decline indicates the likelihood of requiring a RBC transfusion and, ○ Reducing the risk of alloimmunization and/or other RBC transfusion-related risks is a goal
+- Consider initiating Epogen treatment only when the hemoglobin level is less than 10 g/dL and the following considerations apply:
+  - The rate of hemoglobin decline indicates the likelihood of requiring a RBC transfusion and,
+  - Reducing the risk of alloimmunization and/or other RBC transfusion-related risks is a goal
 - If the hemoglobin level exceeds 10 g/dL, reduce or interrupt the dose of Epogen, and use the lowest dose of Epogen sufficient to reduce the need for RBC transfusions.
 - The recommended starting dose for adult patients is 50 to 100 Units/kg 3 times weekly intravenously or subcutaneously.
 

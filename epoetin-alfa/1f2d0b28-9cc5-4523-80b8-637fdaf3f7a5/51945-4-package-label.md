@@ -4,11 +4,33 @@ NDC 55513-126-10 10 x 2000 Units/mL Single Dose Vials AMGEN® EPOGEN® EPOETIN A
 Do Not Freeze or Shake.
 Manufactured by Amgen Inc. Thousand Oaks, CA 91320-1799 U.S.A. U.S. License No. 1080 ©2012,2017 Amgen Inc. Rx Only
 
+# PRINCIPAL DISPLAY PANEL - 2000 Units/mL Vial Package
+
+10 x 2000 Units/mL Single Dose Vials NDC 55513-126-20
+
+AMGEN
+
+EPOGEN® EPOETIN ALFA recombinant
+
+2000 Units/mL 2000 Units/mL Single Dose Vials (containing 1 mL) For Intravenous or Subcutaneous Use Only Sterile Solution - No Preservative Store at 2° to 8°C (36° to 46°F).
+Do Not Freeze or Shake.
+Manufactured by Amgen Inc. Thousand Oaks, CA 91320-1799 U.S.A. U.S. License No. 1080 ©2012, 2017, and 2024 Amgen Inc. Rx Only
+
 PRINCIPAL DISPLAY PANEL
 
 NDC 55513-267-10 10 x 3000 Units/mL Single Dose Vials AMGEN® EPOGEN® EPOETIN ALFA recombinant 3000 Units/mL 3000 Units/mL Single Dose Vials (containing 1 mL) For Intravenous or Subcutaneous Use Only Sterile Solution – No Preservative Store at 2˚ to 8˚C (36˚ to 46˚F).
 Do Not Freeze or Shake.
 Manufactured by Amgen Inc. Thousand Oaks, CA 91320-1799 U.S.A. U.S. License No. 1080 ©2012,2017 Amgen Inc. Rx Only
+
+# PRINCIPAL DISPLAY PANEL - 3000 Units/mL Vial Package
+
+10 x 3000 Units/mL Single Dose Vials NDC 55513-267-20
+
+AMGEN EPOGEN® EPOETIN ALFA recombinant
+
+3000 Units/mL 3000 Units/mL Single Dose Vials (containing 1 mL) For Intravenous or Subcutaneous Use Only Sterile Solution - No Preservative Store at 2° to 8°C (36° to 46°F).
+Do Not Freeze or Shake.
+Manufactured by Amgen Inc. Thousand Oaks, CA 91320-1799 U.S.A. U.S. License No. 1080 ©2012, 2017, and 2024 Amgen Inc. Rx Only
 
 PRINCIPAL DISPLAY PANEL
 
@@ -16,11 +38,31 @@ NDC 55513-148-10 10 x 4000 Units/mL Single Dose Vials AMGEN® EPOGEN® EPOETIN A
 Do Not Freeze or Shake.
 Manufactured by Amgen Inc. Thousand Oaks, CA 91320-1799 U.S.A. U.S. License No. 1080 ©2012,2017 Amgen Inc. Rx Only
 
+# PRINCIPAL DISPLAY PANEL - 4000 Units/mL Vial Package
+
+10 x 4000 Units/mL Single Dose Vials NDC 55513-148-20
+
+AMGEN EPOGEN® EPOETIN ALFA recombinant
+
+4000 Units/mL 4000 Units/mL Single Dose Vials (containing 1 mL) For Intravenous or Subcutaneous Use Only Sterile Solution - No Preservative Store at 2° to 8°C (36° to 46°F).
+Do Not Freeze or Shake.
+Manufactured by Amgen Inc. Thousand Oaks, CA 91320-1799 U.S.A. U.S. License No. 1080 ©2012, 2017, and 2024 Amgen Inc. Rx Only
+
 PRINCIPAL DISPLAY PANEL
 
 NDC 55513-144-10 10 x 10,000 Units/mL Single Dose Vials AMGEN® EPOGEN® EPOETIN ALFA recombinant 10,000 Units/mL 10,000 Units/mL Single Dose Vials (containing 1 mL) For Intravenous or Subcutaneous Use Only Sterile Solution – No Preservative Store at 2˚ to 8˚C (36˚ to 46˚F).
 Do Not Freeze or Shake.
 Manufactured by Amgen Inc. Thousand Oaks, CA 91320-1799 U.S.A. U.S. License No. 1080 ©2012,2017 Amgen Inc. Rx Only
+
+# PRINCIPAL DISPLAY PANEL - 10,000 Units/mL Vial Package
+
+10 x 10,000 Units/mL Single Dose Vials NDC 55513-144-20
+
+AMGEN EPOGEN® EPOETIN ALFA recombinant
+
+10,000 Units/mL 10,000 Units/mL Single Dose Vials (containing 1 mL) For Intravenous or Subcutaneous Use Only Sterile Solution - No Preservative Store at 2° to 8°C (36° to 46°F).
+Do Not Freeze or Shake.
+Manufactured by Amgen Inc. Thousand Oaks, CA 91320-1799 U.S.A. U.S. License No. 1080 ©2012, 2017, and 2024 Amgen Inc. Rx Only
 
 PRINCIPAL DISPLAY PANEL
 
@@ -28,8 +70,20 @@ NDC 55513-283-10 AMGEN® EPOGEN® EPOETIN ALFA recombinant Multiple Dose Vials 2
 Do Not Freeze or Shake.
 Manufactured by Amgen Inc. Thousand Oaks, CA 91320-1799 U.S.A. U.S. License No. 1080 ©2012,2017 Amgen Inc. Rx Only
 
+# PRINCIPAL DISPLAY PANEL - 2 mL Vial Package
+
+10 x 2 mL Multiple Dose Vials 20,000 Units/2 mL (10,000 Units/mL) NDC 55513-283-20 AMGEN EPOGEN® EPOETIN ALFA recombinant 20,000 Units / 2 mL (10,000 Units / mL) 20,000 Units / 2 mL (10,000 Units / mL) Multiple Dose Vials For Intravenous or Subcutaneous Use Only Sterile Solution - Preserved 2 mL Store at 2° to 8°C (36° to 46°F).
+Do Not Freeze or Shake.
+Manufactured by Amgen Inc. Thousand Oaks, CA 91320-1799 U.S.A. U.S. License No. 1080 ©2012, 2017, and 2024 Amgen Inc. Rx Only
+
 PRINCIPAL DISPLAY PANEL
 
 NDC 55513-478-10 AMGEN® EPOGEN® EPOETIN ALFA recombinant Multiple Dose Vials 20,000 Units/mL 20,000 Units/mL 1 mL For Intravenous or Subcutaneous Use Only Sterile Solution – Preserved Store at 2˚ to 8˚C (36˚ to 46˚F).
 Do Not Freeze or Shake.
 Manufactured by Amgen Inc. Thousand Oaks, CA 91320-1799 U.S.A. U.S. License No. 1080 ©2012,2017 Amgen Inc. Rx Only
+
+# PRINCIPAL DISPLAY PANEL - 1 mL Vial Package
+
+10 x 20,000 Units/mL Multiple Dose Vials NDC 55513-478-20 AMGEN EPOGEN® EPOETIN ALFA recombinant 20,000 Units / mL 20,000 Units / mL Multiple Dose Vials 1 mL For Intravenous or Subcutaneous Use Only Sterile Solution - Preserved Store at 2° to 8°C (36° to 46°F).
+Do Not Freeze or Shake.
+Manufactured by Amgen Inc. Thousand Oaks, CA 91320-1799 U.S.A. U.S. License No. 1080 ©2012, 2017, and 2024 Amgen Inc. Rx Only

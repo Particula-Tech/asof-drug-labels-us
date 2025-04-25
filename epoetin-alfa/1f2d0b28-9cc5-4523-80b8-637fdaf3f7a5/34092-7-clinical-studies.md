@@ -10,7 +10,8 @@ In clinical studies of patients with CKD on dialysis, Epogen increased hemoglobi
 Overall, more than 95% of patients were RBC transfusion-independent after receiving Epogen for 3 months.
 In clinical studies at starting doses of 50 to 150 Units/kg 3 times weekly, adult patients responded with an average rate of hemoglobin rise as presented in Table 8.
 
-Table 8: Average Rate of Hemoglobin Rise in 2 Weeks
+Table 8.
+Average Rate of Hemoglobin Rise in 2 Weeks
 
 | Starting Dose (3 Times Weekly Intravenously) | Hemoglobin Increase in 2 Weeks |
 | --- | --- |
@@ -22,7 +23,7 @@ The safety and efficacy of Epogen were evaluated in 13 clinical studies involvin
 Overall, more than 90% of the patients treated with Epogen experienced improvement in hemoglobin concentrations.
 In the 3 largest of these clinical studies, the median maintenance dose necessary to maintain the hemoglobin between 10 to 12 g/dL was approximately 75 Units/kg 3 times weekly.
 More than 95% of patients were able to avoid RBC transfusions.
-In the largest US multicenter study, approximately 65% of the patients received doses of 100 Units/kg 3 times weekly or less to maintain their hemoglobin at approximately 11.7 g/dL.
+In the largest U.S. multicenter study, approximately 65% of the patients received doses of 100 Units/kg 3 times weekly or less to maintain their hemoglobin at approximately 11.7 g/dL.
 Almost 10% of patients received a dose of 25 Units/kg or less, and approximately 10% received a dose of more than 200 Units/kg 3 times weekly to maintain their hemoglobin at this level.
 
 In the Normal Hematocrit Study, the yearly transfusion rate was 51.5% in the lower hemoglobin group (10 g/dL) and 32.4% in the higher hemoglobin group (14 g/dL).
@@ -55,7 +56,7 @@ Patients with CKD not on dialysis demonstrated a dose-dependent and sustained in
 
 Patients with chronic kidney disease not on dialysis: ESA effects on rates of transfusion
 
-In TREAT, a randomized, double-blind trial of 4038 patients with CKD and type 2 diabetes not on dialysis, a post-hoc analysis showed that the proportion of patients receiving RBC transfusions was lower in patients administered an ESA to target a hemoglobin of 13 g/dL compared to the control arm in which an ESA was administered intermittently if hemoglobin concentration decreased to less than 9 g/dL (15% versus 25%, respectively).
+In TREAT, a randomized, double-blind trial of 4038 patients with CKD and type 2 diabetes not on dialysis, a post-hoc analysis showed that the proportion of patients receiving RBC transfusions was lower in patients administered an ESA to target a hemoglobin of 13 g/dL compared to the control arm in which an ESA was administered intermittently if hemoglobin concentration decreased to less than 9 g/dL (15% vs. 25%, respectively).
 In CHOIR, a randomized open-label study of 1432 patients with CKD not on dialysis, use of epoetin alfa to target a higher (13.5 g/dL) versus lower (11.3 g/dL) hemoglobin goal did not reduce the use of RBC transfusions.
 In each trial, no benefits occurred for the cardiovascular or end-stage renal disease outcomes.
 In each trial, the potential benefit of ESA therapy was offset by worse cardiovascular safety outcomes resulting in an unfavorable benefit-risk profile [see Warnings and Precautions (5.1)].
@@ -68,7 +69,7 @@ In each trial, the potential benefit of ESA therapy was offset by worse cardiova
 
 ## 14.2 Zidovudine-treated Patients with HIV Infection
 
-The safety and efficacy of Epogen were evaluated in 4 placebo-controlled studies enrolling 297 anemic patients (hemoglobin < 10 g/dL) with HIV-infection receiving concomitant therapy with zidovudine.
+The safety and efficacy of Epogen were evaluated in 4 placebo-controlled studies enrolling 297 anemic patients (hemoglobin < 10 g/dL) with HIV infection receiving concomitant therapy with zidovudine.
 In the subgroup of patients (89/125 Epogen and 88/130 placebo) with pre-study endogenous serum erythropoietin levels ≤ 500 mUnits/mL, Epogen reduced the mean cumulative number of units of blood transfused per patient by approximately 40% as compared to the placebo group.
 Among those patients who required RBC transfusions at baseline, 43% of patients treated with Epogen versus 18% of placebo-treated patients were RBC transfusion-independent during the second and third months of therapy.
 Epogen therapy also resulted in significant increases in hemoglobin in comparison to placebo.
@@ -98,13 +99,12 @@ Efficacy results are shown in Table 9.
 Table 9.
 Study C1: Proportion of Patients Transfused
 
-|  | Week 5 Through Week 16 or End of Studya |  |
+|  | Week 5 Through Week 16 or End of StudyLast-known RBC transfusion status carried forward for patients who discontinued treatment. |  |
 | --- | --- | --- |
 | Chemotherapy Regimen | Epogen (n = 174) | Placebo (n = 170) |
-| All Regimens | 14% (25/174)b | 28% (48/170) |
+| All Regimens | 14% (25/174)Two-sided p < 0.001, logistic regression analysis adjusting for accrual rate and stratification variables. | 28% (48/170) |
 | Regimens without cisplatin | 14% (21/148) | 26% (35/137) |
 | Regimens containing cisplatin | 15% (4/26) | 39% (13/33) |
-| aLast-known RBC transfusion status carried forward for patients who discontinued treatment. bTwo-sided p < 0.001, logistic regression analysis adjusting for accrual rate and stratification variables |  |  |
 
 Study C2
 
@@ -126,13 +126,12 @@ Twelve patients (19%) in the epoetin alfa arm and 10 patients (15%) in the place
 Table 10.
 Proportion of Patients Transfused in the Pooled Analysis for Three Times Per Week Dosing
 
-|  | Week 5 Through Week 12 or End of Studya |  |
+|  | Week 5 Through Week 12 or End of StudyLimited to patients remaining on study beyond week 6 and includes only RBC transfusions during weeks 5-12. |  |
 | --- | --- | --- |
 | Chemotherapy Regimen | Epogen | Placebo |
-| All Regimens | 22% (11/51)b | 43% (25/58) |
+| All Regimens | 22% (11/51)Two-sided p < 0.05, unadjusted. | 43% (25/58) |
 | Regimens without cisplatin | 21% (6/29) | 33% (11/33) |
 | Regimens containing cisplatin | 23% (5/22) | 56% (14/25) |
-| a Limited to patients remaining on study beyond week 6 and includes only RBC transfusions during weeks 5-12. bTwo-sided p < 0.05, unadjusted |  |  |
 
 ## 14.4 Surgery Patients
 

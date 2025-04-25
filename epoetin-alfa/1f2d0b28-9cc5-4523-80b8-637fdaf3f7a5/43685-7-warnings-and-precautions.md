@@ -2,7 +2,7 @@
 
 ## 5.1 Increased Mortality, Myocardial Infarction, Stroke, and Thromboembolism
 
-- In controlled clinical trials of patients with CKD comparing higher hemoglobin targets (13 - 14 g/dL) to lower targets (9 - 11.3 g/dL), Epogen and other ESAs increased the risk of death, myocardial infarction, stroke, congestive heart failure, thrombosis of hemodialysis vascular access, and other thromboembolic events in the higher target groups.
+- In controlled clinical trials of patients with CKD comparing higher hemoglobin targets (13 – 14 g/dL) to lower targets (9 - 11.3 g/dL), Epogen and other ESAs increased the risk of death, myocardial infarction, stroke, congestive heart failure, thrombosis of hemodialysis vascular access, and other thromboembolic events in the higher target groups.
 - Using ESAs to target a hemoglobin level of greater than 11 g/dL increases the risk of serious adverse cardiovascular reactions and has not been shown to provide additional benefit [see Clinical Studies (14.1)].
   Use caution in patients with coexistent cardiovascular disease and stroke [see Dosage and Administration (2.2)].
   Patients with CKD and an insufficient hemoglobin response to ESA therapy may be at even greater risk for cardiovascular reactions and mortality than other patients.
@@ -74,10 +74,10 @@ Adverse effects on PFS and/or OS were observed in studies of patients receiving 
 Table 2.
 Randomized, Controlled Studies with Decreased Survival and/or Decreased Locoregional Control
 
-| Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin (Median; Q1, Q3*) | Primary Efficacy Outcome | Adverse Outcome for ESA- containing Arm |
+| Study/Tumor/(n) | Hemoglobin Target | Achieved Hemoglobin (Median; Q1, Q3Q1 = 25th percentile; Q3 = 75th percentile) | Primary Efficacy Outcome | Adverse Outcome for ESA- containing Arm |
 | --- | --- | --- | --- | --- |
 | Chemotherapy |  |  |  |  |
-| Study 1 Metastatic breast cancer (n = 2098) | ≤ 12 g/dL† | 11.6 g/dL; 10.7, 12.1 g/dL | Progression-free survival (PFS) | Decreased progression-free and overall survival |
+| Study 1 Metastatic breast cancer (n = 2098) | ≤ 12 g/dLThis study did not include a defined hemoglobin target. Doses were titrated to achieve and maintain the lowest hemoglobin level sufficient to avoid transfusion and not to exceed 12 g/dL. | 11.6 g/dL; 10.7, 12.1 g/dL | Progression-free survival (PFS) | Decreased progression-free and overall survival |
 | Study 2 Metastatic breast cancer (n = 939) | 12-14 g/dL | 12.9 g/dL; 12.2, 13.3 g/dL | 12-month overall survival | Decreased 12- month survival |
 | Study 3 Lymphoid malignancy (n = 344) | 13-15 g/dL (M) 13-14 g/dL (F) | 11 g/dL; 9.8, 12.1 g/dL | Proportion of patients achieving a hemoglobin response | Decreased overall survival |
 | Study 4 Early breast cancer (n = 733) | 12.5-13 g/dL | 13.1 g/dL; 12.5, 13.7 g/dL | Relapse-free and overall survival | Decreased 3-year relapse-free and overall survival |
@@ -88,7 +88,6 @@ Randomized, Controlled Studies with Decreased Survival and/or Decreased Locoregi
 | No Chemotherapy or Radiotherapy |  |  |  |  |
 | Study 8 Non-small cell lung cancer (n = 70) | 12-14 g/dL | Not available | Quality of life | Decreased overall survival |
 | Study 9 Non-myeloid malignancy (n = 989) | 12-13 g/dL | 10.6 g/dL; 9.4, 11.8 g/dL | RBC transfusions | Decreased overall survival |
-| *Q1= 25th percentile; Q3= 75th percentile †This study did not include a defined hemoglobin target. Doses were titrated to achieve and maintain the lowest hemoglobin level sufficient to avoid transfusion and not to exceed 12 g/dL. |  |  |  |  |
 
 Decreased Overall Survival
 
@@ -112,7 +111,7 @@ Decreased Progression-free Survival and Overall Survival
 
 Study 1 was a randomized, open-label, multicenter study in 2,098 anemic women with metastatic breast cancer, who received first line or second line chemotherapy.
 This was a non-inferiority study designed to rule out a 15% risk increase in tumor progression or death of epoetin alfa plus standard of care (SOC) as compared with SOC alone.
-At the time of clinical data cutoff, the median progression free survival (PFS) per investigator assessment of disease progression was 7.4 months in each arm (HR 1.09, 95% CI: 0.99, 1.20), indicating the study objective was not met.
+At the time of clinical data cutoff, the median progression-free survival (PFS) per investigator assessment of disease progression was 7.4 months in each arm (HR 1.09, 95% CI: 0.99, 1.20), indicating the study objective was not met.
 There were more deaths from disease progression in the epoetin alfa plus SOC arm (59% vs. 56%) and more thrombotic vascular events in the epoetin alfa plus SOC arm (3% vs. 1%).
 At the final analysis, 1653 deaths were reported (79.8% subjects in the epoetin alfa plus SOC group and 77.8% subjects in the SOC group.
 Median overall survival in the epoetin alfa plus SOC group was 17.8 months compared with 18.0 months in the SOC alone group (HR 1.07, 95% CI: 0.97, 1.18).

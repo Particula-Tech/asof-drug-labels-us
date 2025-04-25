@@ -31,7 +31,7 @@ The racial distribution was as follows: 164 (78%) patients were white, 38 (18%) 
 The adverse reactions with a reported incidence of ≥ 5% in Epogen-treated patients and that occurred at a ≥ 1% higher frequency than in placebo-treated patients are shown in the table below:
 
 Table 3.
-Adverse Reactions in Patients With CKD on Dialysis
+Adverse Reactions in Patients with CKD on Dialysis
 
 | Adverse Reaction | Epogen-treated Patients (n = 148) | Placebo-treated Patients (n = 96) |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ An additional serious adverse reaction that occurred in less than 5% of epoetin 
 The adverse reactions with a reported incidence of ≥ 5% in Epogen-treated patients and that occurred at a ≥ 1% higher frequency than in placebo-treated patients are shown in the table below:
 
 Table 4.
-Adverse Reactions in Patients With CKD Not on Dialysis
+Adverse Reactions in Patients with CKD Not on Dialysis
 
 | Adverse Reaction | Epogen-treated Patients (n = 131) | Placebo-treated Patients (n = 79) |
 | --- | --- | --- |
@@ -135,19 +135,18 @@ Adverse Reactions in Surgery Patients
 
 |  | Study S1 |  |  | Study S2 |  |
 | --- | --- | --- | --- | --- | --- |
-| Adverse Reaction | Epogen 300 U/kg (n = 112)a | Epogen 100 U/kg (n = 101)a | Placebo (n = 103)a | Epogen 600 U/kg × 4 weeks (n = 73)b | Epogen 300 U/kg × 15 days (n = 72)b |
+| Adverse Reaction | Epogen 300 U/kg (n = 112)Study included patients undergoing orthopedic surgery treated with Epogen or placebo for 15 days. | Epogen 100 U/kg (n = 101) | Placebo (n = 103) | Epogen 600 U/kg × 4 weeks (n = 73)Study included patients undergoing orthopedic surgery treated with Epogen 600 U/kg weekly for 4 weeks or 300 U/kg daily for 15 days. | Epogen 300 U/kg × 15 days (n = 72) |
 | Nausea | 47% | 43% | 45% | 45% | 56% |
 | Vomiting | 21% | 12% | 14% | 19% | 28% |
 | Pruritus | 16% | 16% | 14% | 12% | 21% |
 | Headache | 13% | 11% | 9% | 10% | 18% |
 | Injection site pain | 13% | 9% | 8% | 12% | 11% |
 | Chills | 7% | 4% | 1% | 1% | 0% |
-| Deep vein thrombosis | 6% | 3% | 3% | 0%c | 0%c |
+| Deep vein thrombosis | 6% | 3% | 3% | 0%DVTs were determined by clinical symptoms. | 0% |
 | Cough | 5% | 4% | 0% | 4% | 4% |
 | Hypertension | 5% | 3% | 5% | 5% | 6% |
 | Rash | 2% | 2% | 1% | 3% | 3% |
 | Edema | 1% | 2% | 2% | 1% | 3% |
-| aStudy included patients undergoing orthopedic surgery treated with Epogen or placebo for 15 days. bStudy included patients undergoing orthopedic surgery treated with Epogen 600 U/kg weekly for 4 weeks or 300 U/kg daily for 15 days. cDVTs were determined by clinical symptoms. |  |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 

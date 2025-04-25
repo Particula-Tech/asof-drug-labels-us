@@ -16,10 +16,10 @@ Instruct patients who self-administer Epogen of the:
 - Dangers of reusing needles, syringes, or unused portions of single-dose vials.
 - Proper disposal of used syringes, needles, and unused vials, and of the full container.
 
-Epogen® (epoetin alfa)
+EPOGEN® (epoetin alfa)
 
 Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, CA 91320-1799 U.S.A. U.S. License Number 1080
 
 ©1989-2018, 2024 Amgen Inc. All rights reserved.
 
-1xxxxxx- v34
+1xxxxxx- v35
