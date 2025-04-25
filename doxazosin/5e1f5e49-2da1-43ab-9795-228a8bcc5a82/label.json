@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA019668"
+  ],
+  "inn": "doxazosin",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-074-01",
+    "58151-075-01",
+    "58151-076-01",
+    "58151-077-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "doxazosin",
+      "name": "Cardura"
+    }
+  ],
+  "setid": "5e1f5e49-2da1-43ab-9795-228a8bcc5a82",
+  "source": "dailymed"
+}
