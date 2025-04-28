@@ -33,7 +33,7 @@ Phentermine may impair the ability of the patient to engage in potentially hazar
 
 Phentermine is related chemically and pharmacologically to amphetamine (d- and d/l-amphetamine) and other related stimulant drugs have been extensively abused.
 The possibility of abuse of phentermine should be kept in mind when evaluating the desirability of including a drug as part of a weight reduction program.
-See Drug Abuse and Dependence (9)and Overdosage (10).
+See Drug Abuse and Dependence (9) and Overdosage (10).
 
 The least amount feasible should be prescribed or dispensed at one time in order to minimize the possibility of overdosage.
 

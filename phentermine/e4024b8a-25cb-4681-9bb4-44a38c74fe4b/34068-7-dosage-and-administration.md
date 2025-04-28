@@ -12,7 +12,7 @@ Phentermine hydrochloride is not recommended for use in pediatric patients ≤ 1
 
 Late evening medication should be avoided because of the possibility of resulting insomnia.
 
-### 2.2 Dosage in Patients With Renal Impairment
+## 2.2 Dosage in Patients With Renal Impairment
 
 The recommended maximum dosage of phentermine hydrochloride is 15 mg daily for patients with severe renal impairment (eGFR 15 to 29 mL/min/1.73m2).
-Avoid use of phentermine hydrochloride in patients with eGFR less than 15 mL/min/1.73m2 or end-stage renal disease requiring dialysis [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+Avoid use of phentermine hydrochloride in patients with eGFR less than 15 mL/min/1.73m2 or end-stage renal disease requiring dialysis [see Use in Specific Populations (8.6)andClinicalPharmacology (12.3)].

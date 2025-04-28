@@ -15,7 +15,7 @@ Experience with hemodialysis or peritoneal dialysis is inadequate to permit reco
 Acidification of the urine increases phentermine excretion.
 Intravenous phentolamine (Regitine®, CIBA) has been suggested on pharmacologic grounds for possible acute, severe hypertension, if this complicates overdosage.
 
-### 10.2 Chronic Intoxication
+## 10.2 Chronic Intoxication
 
 Manifestations of chronic intoxication with anorectic drugs include severe dermatoses, marked insomnia, irritability, hyperactivity and personality changes.
 The most severe manifestation of chronic intoxications is psychosis, often clinically indistinguishable from schizophrenia.

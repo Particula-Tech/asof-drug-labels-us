@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients must be informed that phentermine hydrochloride is a short-term (a few weeks) adjunct in a regimen of weight reduction based on exercise, behavioral modification and caloric restriction in the management of exogenous obesity, and that coadministration of phentermine with other drugs for weight loss is not recommended [see Indications and Usage (1) and Warnings and Precautions (5.1)].
+Patients must be informed that phentermine hydrochloride is a short-term (a few weeks) adjunct in a regimen of weight reduction based on exercise, behavioral modification and caloric restriction in the management of exogenous obesity, and that coadministration of phentermine with other drugs for weight loss is not recommended [see Indications and Usage (1)and Warnings and Precautions (5.1)].
 
 Patients must be instructed on how much phentermine to take, and when and how to take it [see Dosage and Administration (2)].
 
@@ -15,7 +15,7 @@ The risks include, but are not limited to:
 - •The risk of an increase in blood pressure [see Warnings and Precautions (5.8) and Adverse Reactions (6)]
 - •The risk of interactions [see Contraindications (4), Warnings and Precautions (5.7, 5.9) and Drug Interactions (7)]
 
-See also, for example, Adverse Reactions (6) and Use in Specific Populations (8).
+See also, for example, Adverse Reactions (6)and Use in Specific Populations (8).
 
 The patients must also be informed about
 
@@ -27,6 +27,16 @@ Selling or giving away phentermine may harm others and is against the law.
 
 Regitine® is a registered trademark of CIBA PHARMACEUTICAL PRODUCTS, INC.
 
-Manufactured for: Solco Healthcare US, LLC Cranbury, NJ 08512, USA
+Manufactured by:
 
-8185192-02 Revised: 03/2017
+Prinston Laboratories
+
+Charlotte, NC 28206, USA
+
+Distributed by:
+
+Solco Healthcare US, LLC
+
+Somerset, NJ 08873, USA
+
+8185192-05 Revised: 03/2025

@@ -4,7 +4,7 @@
 
 Teratogenic Effects Pregnancy category X Phentermine is contraindicated during pregnancy because weight loss offers no potential benefit to a pregnant woman and may result in fetal harm.
 A minimum weight gain, and no weight loss, is currently recommended for all pregnant women, including those who are already overweight or obese, due to obligatory weight gain that occurs in maternal tissues during pregnancy.
-Phentermine has pharmacologic activity similar to amphetamine (d- and dll-amphetamine) [see Clinical Pharmacology (12.1)].
+Phentermine has pharmacologic activity similar to amphetamine (d- and d/l-amphetamine) [see Clinical Pharmacology (12.1)].
 Animal reproduction studies have not been conducted with phentermine.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
 
