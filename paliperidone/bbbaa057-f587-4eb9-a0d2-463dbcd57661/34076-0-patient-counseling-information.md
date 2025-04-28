@@ -71,6 +71,8 @@ The effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Paliperidone extended-release tablets Product of India
 
+The brand RISPERDAL is not belongs to Inventia Healthcare Limited and a trademark of their respective owner.
+
 Manufactured by: Inventia Healthcare Limited, F1-F1/1-F75/1, Additional Ambernath M.I.D.C., Ambernath (East) - 421506 Dist.-Thane, Maharashtra, INDIA.
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
