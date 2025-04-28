@@ -6,7 +6,7 @@ A total of 256 hypertensives were treated for between 4 and 8 weeks; a total of 
 Two patients experienced first-degree AV block at the 540 mg dose.
 The following table presents the most common adverse reactions, whether or not drug-related, reported in placebo-controlled trials in patients receiving Tiazac up to 360 mg and up to 540 mg with rates in placebo patients shown for comparison.
 
-MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED HYPERTENSION TRIALSAdverse events occurring in treated patients at 2% or more than placebo-treated patients.
+MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED HYPERTENSION TRIALS Adverse events occurring in treated patients at 2% or more than placebo-treated patients.
 
 | Adverse Events (COSTART Term) | n=57 # pts (%) | Up to 360 mg n=149 # pts (%) | 480 - 540 mg n=48 # pts (%) |
 | --- | --- | --- | --- |
@@ -22,7 +22,7 @@ MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED HYPERTENSION TRIAL
 | palpitations | 0 (0) | 2 (1) | 1 (2) |
 | nervousness | 0 (0) | 3 (2) | 0 (0) |
 
-MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED ANGINA TRIALSAdverse events occurring in treated patients at 2% or more than placebo-treated patients.
+MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED ANGINA TRIALS Adverse events occurring in treated patients at 2% or more than placebo-treated patients.
 
 | Adverse Events (COSTART Term) | n=50 # pts (%) | Up to 360 mg n=158 # pts (%) | 540 mg n=49 # pts (%) |
 | --- | --- | --- | --- |
@@ -49,15 +49,15 @@ MOST COMMON ADVERSE EVENTS IN DOUBLE-BLIND PLACEBO-CONTROLLED ANGINA TRIALSAdver
 
 In addition, the following events have been reported infrequently (less than 2%) in clinical trials with other diltiazem products:
 
-Cardiovascular: Angina, arrhythmia, AV block (second- or third-degree), bundle branch block, congestive heart failure, ECG abnormalities, hypotension, palpitations, syncope, tachycardia, ventricular extrasystoles.
+Cardiovascular:Angina, arrhythmia, AV block (second- or third-degree), bundle branch block, congestive heart failure, ECG abnormalities, hypotension, palpitations, syncope, tachycardia, ventricular extrasystoles.
 
-Nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tinnitus, tremor.
+Nervous System:Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tinnitus, tremor.
 
-Gastrointestinal: Anorexia, constipation, diarrhea, dry mouth, dysgeusia, mild elevations of SGOT, SGPT, LDH, and alkaline phosphatase (see WARNINGS, Acute Hepatic Injury), nausea, thirst, vomiting, weight increase.
+Gastrointestinal:Anorexia, constipation, diarrhea, dry mouth, dysgeusia, mild elevations of SGOT, SGPT, LDH, and alkaline phosphatase (see WARNINGS, Acute Hepatic Injury), nausea, thirst, vomiting, weight increase.
 
-Dermatological: Petechiae, photosensitivity, pruritus.
+Dermatological:Petechiae, photosensitivity, pruritus.
 
-Other: Albuminuria, allergic reaction, amblyopia, asthenia, CPK increase, crystalluria, dyspnea, edema, epistaxis, eye irritation, headache, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, neck rigidity, nocturia, osteoarticular pain, pain, polyuria, rhinitis, sexual difficulties, gynecomastia.
+Other:Albuminuria, allergic reaction, amblyopia, asthenia, CPK increase, crystalluria, dyspnea, edema, epistaxis, eye irritation, headache, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, neck rigidity, nocturia, osteoarticular pain, pain, polyuria, rhinitis, sexual difficulties, gynecomastia.
 
 In addition, the following postmarketing events have been reported infrequently in patients receiving diltiazem hydrochloride: acute generalized exanthematous pustulosis, alopecia, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, toxic epidermal necrolysis, extrapyramidal symptoms, gingival hyperplasia, hemolytic anemia, increased bleeding time, photosensitivity (including lichenoid keratosis and hyperpigmentation at sun-exposed skin areas), leukopenia, purpura, retinopathy, and thrombocytopenia.
 In addition, events such as myocardial infarction have been observed which are not readily distinguishable from the natural history of the disease in these patients.
