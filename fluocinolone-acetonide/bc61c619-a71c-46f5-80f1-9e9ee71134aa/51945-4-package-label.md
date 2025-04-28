@@ -1,24 +1,34 @@
-# Principal Display Panel
+# ​Principal Display Panel
 
-PRINCIPAL DISPLAY PANEL - 118.28 mL Carton Label
+​PRINCIPAL DISPLAY PANEL - 118.28 mL Carton Label
 
-NDC 68791-101-04
+NDC 58791-101-04
 
 Rx only
 
-Derma-Smoothe/FS®
+​Derma-Smoothe/FS®
 
-Fluocinolone Acetonide 0.01% Topical Oil
+​Fluocinolone Acetonide
 
-(BODY OIL)
+​0.01% Topical Oil
 
-FOR TOPICAL USE ONLY NOT FOR ORAL, OPHTHALMIC, or INTRAVAGINAL USE
+​(Body Oil)
 
-SHAKE WELL BEFORE USE
+​FOR TOPICAL USE ONLY
 
-Net Contents 118.28 mL (4 fL. oz.)
+​NOT FOR ORAL, OPHTHALMIC,
 
-ROYAL PHARMACEUTICALS®
+​or INTRAVAGINAL USE
+
+​SHAKE WELL BEFORE USE
+
+​Net Contents 118.28 mL
+
+​(4 fl. oz.)
+
+​ROYAL
+
+​PHARMACEUTICALS​®​
 
 PRINCIPAL DISPLAY PANEL - 20 mL Carton Physcian Sample Label
 
