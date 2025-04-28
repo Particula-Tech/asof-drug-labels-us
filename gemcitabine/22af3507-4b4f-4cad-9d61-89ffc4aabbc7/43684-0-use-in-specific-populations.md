@@ -16,9 +16,9 @@ Data
 Animal Data
 
 Gemcitabine is embryotoxic in mice.
-Daily dosing of gemcitabine to pregnant mice increased the incidence of fetal malformations (cleft palate, incomplete ossification) at doses of 1.5 mg/kg/day [about 0.005 times the 1000 mg/m2 clinical dose based on body surface area (BSA)].
+Daily dosing of gemcitabine to pregnant mice increased the incidence of fetal malformations (cleft palate, incomplete ossification) at doses of 1.5 mg/kg/day [about 0.005 times the 1,000 mg/m2 clinical dose based on body surface area (BSA)].
 Gemcitabine is embryotoxic and fetotoxic in rabbits.
-Daily dosing of gemcitabine to pregnant rabbits resulted in fetotoxicity (decreased fetal viability, reduced litter sizes and developmental delays) and increased the incidence of fetal malformations (fused pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day (about 0.002 times the 1000 mg/m2 clinical dose based on BSA).
+Daily dosing of gemcitabine to pregnant rabbits resulted in fetotoxicity (decreased fetal viability, reduced litter sizes and developmental delays) and increased the incidence of fetal malformations (fused pulmonary artery, absence of gall bladder) at doses of 0.1 mg/kg/day (about 0.002 times the 1,000 mg/m2 clinical dose based on BSA).
 
 ## 8.2 Lactation
 

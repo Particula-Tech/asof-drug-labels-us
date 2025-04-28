@@ -3,7 +3,7 @@
 ## 14.1 Ovarian Cancer
 
 The efficacy of gemcitabine was evaluated in a randomized trial (Study 1) conducted in women with advanced ovarian cancer that had relapsed at least 6 months after first-line platinum-based therapy.
-Patients were randomized to receive either gemcitabine 1000 mg/m2 on Days 1 and 8 of each 21-day cycle with carboplatin AUC 4 on Day 1 after gemcitabine administration (n = 178) or carboplatin AUC 5 on Day 1 of each 21-day cycle (n = 178).
+Patients were randomized to receive either gemcitabine 1,000 mg/m2 on Days 1 and 8 of each 21-day cycle with carboplatin AUC 4 on Day 1 after gemcitabine administration (n = 178) or carboplatin AUC 5 on Day 1 of each 21-day cycle (n = 178).
 The major efficacy outcome measure was progression-free survival (PFS).
 
 A total of 356 patients were enrolled.
@@ -64,7 +64,7 @@ Figure 1: Kaplan-Meier Curves for Progression-Free Survival in Study 1
 
 The efficacy of gemcitabine was evaluated in a multinational, randomized, open-label trial conducted in women receiving initial treatment for metastatic breast cancer and who have received prior adjuvant/neoadjuvant anthracycline chemotherapy unless clinically contraindicated.
 
-Patients were randomized to receive gemcitabine 1250 mg/m2 on Days 1 and 8 of each 21-day cycle with paclitaxel 175 mg/m2 administered on Day 1 before gemcitabine administration (n = 267) or paclitaxel 175 mg/m2 on Day 1 of each 21-day cycle (n = 262).
+Patients were randomized to receive gemcitabine 1,250 mg/m2 on Days 1 and 8 of each 21-day cycle with paclitaxel 175 mg/m2 administered on Day 1 before gemcitabine administration (n = 267) or paclitaxel 175 mg/m2 on Day 1 of each 21-day cycle (n = 262).
 The major efficacy outcome measure was time to documented disease progression.
 
 A total of 529 patients were enrolled.
@@ -114,7 +114,7 @@ The efficacy of gemcitabine was evaluated in two randomized, multicenter trials.
 Study 3: 28-Day Schedule
 
 A multinational, randomized trial (Study 3) compared gemcitabine with cisplatin to cisplatin alone in the treatment of patients with inoperable Stage IIIA, IIIB, or IV NSCLC who had not received prior chemotherapy.
-Patients were randomized to receive either gemcitabine 1000 mg/m2 on Days 1, 8, and 15 of each 28-day cycle with cisplatin 100 mg/m2 on Day 1 after gemcitabine administration (N=260) or cisplatin 100 mg/m2 on Day 1 of each 28-day cycle (N=262).
+Patients were randomized to receive either gemcitabine 1,000 mg/m2 on Days 1, 8, and 15 of each 28-day cycle with cisplatin 100 mg/m2 on Day 1 after gemcitabine administration (N=260) or cisplatin 100 mg/m2 on Day 1 of each 28-day cycle (N=262).
 The major efficacy outcome measure was overall survival.
 
 A total of 522 patients were enrolled.
@@ -125,7 +125,7 @@ Efficacy results are presented in Table 21 and Figure 3.
 Study 4: 21-Day Schedule
 
 A randomized (1:1), multicenter trial (Study 4) was conducted in patients with Stage IIIB or IV NSCLC.
-Patients were randomized to receive gemcitabine 1250 mg/m2 on Days 1 and 8 of each 21-day cycle with cisplatin 100 mg/m2 on Day 1 after gemcitabine administration or etoposide 100 mg/m2 intravenously on Days 1, 2, and 3 with cisplatin 100 mg/m2 on Day 1 of each 21-day cycle.
+Patients were randomized to receive gemcitabine 1,250 mg/m2 on Days 1 and 8 of each 21-day cycle with cisplatin 100 mg/m2 on Day 1 after gemcitabine administration or etoposide 100 mg/m2 intravenously on Days 1, 2, and 3 with cisplatin 100 mg/m2 on Day 1 of each 21-day cycle.
 The major efficacy outcome measure was response rate.
 
 A total of 135 patients were enrolled.
@@ -174,8 +174,8 @@ Table 21: Efficacy Results for Studies 3 and 4
 ## 14.4 Pancreatic Cancer
 
 The efficacy of gemcitabine was evaluated in two trials (Studies 5 and 6), a randomized, single-blind, two-arm, active-controlled trial (Study 5) conducted in patients with locally advanced or metastatic pancreatic cancer who had received no prior chemotherapy and in a single-arm, open-label, multicenter trial (Study 6) conducted in patients with locally advanced or metastatic pancreatic cancer previously treated with fluorouracil or a fluorouracil-containing regimen.
-In Study 5, patients were randomized to receive either gemcitabine 1000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly for 3 consecutive weeks every 28-days in subsequent cycles (n=63) or fluorouracil 600 mg/m2 intravenously over 30 minutes once weekly (n=63).
-In Study 6, all patients received gemcitabine 1000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly for 3 consecutive weeks every 28-days in subsequent cycles.
+In Study 5, patients were randomized to receive either gemcitabine 1,000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly for 3 consecutive weeks every 28-days in subsequent cycles (n=63) or fluorouracil 600 mg/m2 intravenously over 30 minutes once weekly (n=63).
+In Study 6, all patients received gemcitabine 1,000 mg/m2 intravenously over 30 minutes once weekly for 7 weeks followed by a one-week rest, then once weekly for 3 consecutive weeks every 28-days in subsequent cycles.
 
 The major efficacy outcome measure in both trials was “clinical benefit response”.
 A patient was considered to have had a clinical benefit response if either of the following occurred:

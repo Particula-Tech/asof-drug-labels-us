@@ -13,7 +13,7 @@ After the gemcitabine nucleotide is incorporated into DNA, only one additional n
 
 The pharmacokinetics of gemcitabine were examined in 353 patients, with various solid tumors.
 Pharmacokinetic parameters were derived using data from patients treated for varying durations of therapy given weekly with periodic rest weeks and using both short infusions (<70 minutes) and long infusions (70 to 285 minutes).
-The total gemcitabine dose varied from 500 mg/m2 to 3600 mg/m2.
+The total gemcitabine dose varied from 500 mg/m2 to 3,600 mg/m2.
 
 Distribution
 
@@ -34,7 +34,7 @@ The half-life of the terminal phase for gemcitabine triphosphate from mononuclea
 
 Excretion
 
-Gemcitabine disposition was studied in 5 patients who received a single 1000 mg/m2 of radiolabeled drug as a 30-minute infusion.
+Gemcitabine disposition was studied in 5 patients who received a single 1,000 mg/m2 of radiolabeled drug as a 30-minute infusion.
 Within one (1) week, 92% to 98% of the dose was recovered, almost entirely in the urine.
 Gemcitabine (<10%) and the inactive uracil metabolite, 2′-deoxy-2′,2′- difluorouridine (dFdU), accounted for 99% of the excreted dose.
 The metabolite dFdU is also found in plasma.
@@ -74,7 +74,7 @@ No clinical studies have been conducted with gemcitabine in patients with decrea
 
 Drug Interaction Studies
 
-When gemcitabine (1250 mg/m2 on Days 1 and 8) and cisplatin (75 mg/m2 on Day 1) were administered in patients with NSCLC, the clearance of gemcitabine on Day 1 was 128 L/hr/m2 and on Day 8 was 107 L/hr/m2.
+When gemcitabine (1,250 mg/m2 on Days 1 and 8) and cisplatin (75 mg/m2 on Day 1) were administered in patients with NSCLC, the clearance of gemcitabine on Day 1 was 128 L/hr/m2 and on Day 8 was 107 L/hr/m2.
 Data from patients with NSCLC demonstrate that gemcitabine and carboplatin given in combination does not alter the pharmacokinetics of gemcitabine or carboplatin compared to administration of either single agent, however, due to wide confidence intervals and small sample size, interpatient variability may be observed.
 
 Data from patients with metastatic breast cancer shows that gemcitabine has little or no effect on the pharmacokinetics (clearance and half-life) of paclitaxel and paclitaxel has little or no effect on the pharmacokinetics of gemcitabine.
