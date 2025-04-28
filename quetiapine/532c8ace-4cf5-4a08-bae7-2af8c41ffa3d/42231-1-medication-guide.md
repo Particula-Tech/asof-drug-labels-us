@@ -1,6 +1,8 @@
 # Medication Guide
 
-Quetiapine Tablets, USP (kwe tye' a peen)
+Quetiapine (kwe tye' a peen)
+
+Tablets, USP
 
 Read this Medication Guide before you start taking quetiapine tablets and each time you get a refill.
 There may be new information.
@@ -244,5 +246,17 @@ For more information, call Rising Pharma Holdings, Inc. at 1(844) 874-7464 What 
 Active ingredient: quetiapine Inactive ingredients: colloidal silicon dioxide, dibasic calcium phosphate dihydrate, hypromellose 6cp, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol 400, povidone, sodium starch glycolate, talc, and titanium dioxide.
 In addition, the 25 mg contains iron oxide red and iron oxide yellow; the 100 mg, 150 mg, and 400 mg contains iron oxide yellow.
 The 50 mg, 100 mg, 150 mg, 200 mg, 300 mg, and 400 mg tablets are printed with Opacode S-1-17823 black contains iron oxide black and shellac.
+
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 06/2023
+
+Distributed by:
+
+Rising Pharma Holdings, Inc.
+
+East Brunswick, NJ 08816
+
+Made in India
+
+Code: TS/DRUGS/19/1993
+
+Revised: 04/2025

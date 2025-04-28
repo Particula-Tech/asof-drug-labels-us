@@ -302,22 +302,27 @@ Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Pla
 In short-term placebo-controlled monotherapy trials, the incidence of reciprocal, shifts in T3 and TSH was 0% for both quetiapine (1/4,800) and placebo (0/2,190) and for T4 and TSH the shifts were 0.1% (7/6,154) for quetiapine versus 0% (1/3,007) for placebo.
 
 Children and Adolescents: In acute placebo-controlled trials in children and adolescent patients with schizophrenia (6-week duration) or bipolar mania (3-week duration), the incidence of shifts for thyroid function values at any time for quetiapine treated patients and placebo-treated patients for elevated TSH was 2.9% (8/280) vs. 0.7% (1/138), respectively, and for decreased total thyroxine was 2.8% (8/289) vs. 0% (0/145), respectively.
-Of the quetiapine treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment. ___________________________________________________ 1 Based on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is >5 mlU/L at any time.
+Of the quetiapine treated patients with elevated TSH levels, 1 had simultaneous low free T4 level at end of treatment.
 
 ## 5.15 Hyperprolactinemia
 
-Adults: During clinical trials with quetiapine, the incidence of shifts in prolactin levels to a clinically significant value occurred in 3.6% (158/4,416) of patients treated with quetiapine compared to 2.6% (51/1,968) on placebo.
+Adults:
 
-Children and Adolescents: In acute placebo-controlled trials in children and adolescent patients with bipolar mania (3-week duration) or schizophrenia (6-week duration), the incidence of shifts in prolactin levels to a value (>20 mcg/L males; >26 mcg/L females at any time) was 13.4% (18/134) for quetiapine compared to 4% (3/75) for placebo in males and 8.7% (9/104) for quetiapine compared to 0% (0/39) for placebo in females.
+During clinical trials with quetiapine, the incidence of shifts in prolactin levels to a clinically significant value occurred in 3.6% (158/4,416) of patients treated with quetiapine compared to 2.6% (51/1,968) on placebo.
+
+Children and Adolescents:
+
+In acute placebo-controlled trials in children and adolescent patients with bipolar mania (3-week duration) or schizophrenia (6-week duration), the incidence of shifts in prolactin levels to a value (>20 mcg/L males; >26 mcg/L females at any time) was 13.4% (18/134) for quetiapine compared to 4% (3/75) for placebo in males and 8.7% (9/104) for quetiapine compared to 0% (0/39) for placebo in females.
+
 Like other drugs that antagonize dopamine D2 receptors, quetiapine elevates prolactin levels in some patients and the elevation may persist during chronic administration.
 Hyperprolactinemia, regardless of etiology, may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotrophin secretion.
 This, in turn, may inhibit reproductive function by impairing gonadal steroidogenesis in both female and male patients.
 Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in patients receiving prolactin-elevating compounds.
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
+
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
-As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary, and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [see Nonclinical Toxicology (13.1)].
+As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary, and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## 5.16 Potential for Cognitive and Motor Impairment
 
@@ -346,7 +351,7 @@ Acute withdrawal symptoms, such as insomnia, nausea, and vomiting have been desc
 In short-term placebo-controlled, monotherapy clinical trials with SEROQUEL XR that included a discontinuation phase which evaluated discontinuation symptoms, the aggregated incidence of patients experiencing one or more discontinuation symptoms after abrupt cessation was 12.1% (241/1,993) for SEROQUEL XR and 6.7% (71/1,065) for placebo.
 The incidence of the individual adverse reactions (i.e., insomnia, nausea, headache, diarrhea, vomiting, dizziness, and irritability) did not exceed 5.3% in any treatment group and usually resolved after 1 week post-discontinuation.
 Gradual withdrawal is advised.
-[see Use in Specific Populations (8.1)]
+[see Use in Specific Populations (8.1)].
 
 ## 5.20 Anticholinergic (antimuscarinic) Effects
 

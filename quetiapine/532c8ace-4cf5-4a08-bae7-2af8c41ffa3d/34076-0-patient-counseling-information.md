@@ -36,6 +36,21 @@ Need for Comprehensive Treatment Program Quetiapine is indicated as an integral 
 Effectiveness and safety of quetiapine have not been established in pediatric patients less than 13 years of age for schizophrenia or less than 10 years of age for bipolar mania.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].
-Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html
 
 Brands listed are the trademarks of their respective owners.
+
+Dispense with Medication Guide available at: https://risingpharma.com/Medguides/QuetiapineTabletsUSPMG.pdf
+
+Distributed by:
+
+Rising Pharma Holdings, Inc.
+
+East Brunswick, NJ 08816
+
+Made in India
+
+Code: TS/DRUGS/19/1993
+
+Revised: 04/2025
+
+Dispense with Medication Guide available at: https://risingpharma.com/Medguides/QuetiapineTabletsUSPMG.pdf
