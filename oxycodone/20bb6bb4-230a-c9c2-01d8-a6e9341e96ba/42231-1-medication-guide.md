@@ -10,4 +10,4 @@
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 12/2023 PL263-03
+Revised: 02/2025 PL263-04
