@@ -18,4 +18,4 @@ Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-11-2023-02
+05-2024-03
