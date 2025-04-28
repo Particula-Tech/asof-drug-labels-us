@@ -24,8 +24,10 @@ The safety of minocycline hydrochloride for use during pregnancy has not been es
 
 Dermatologic Reaction
 
-Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) including fatal cases has been reported with minocycline use.
-If this syndrome is recognized, the drug should be discontinued immediately.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) including fatal cases has been reported with minocycline use.
+Fixed drug eruptions have occurred with minocycline and other tetracyclines.
+Worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption, has been observed with other tetracyclines (see ADVERSE REACTIONS).
+If severe skin reactions occur, discontinue minocycline hydrochloride immediately and institute appropriate therapy.
 
 Antianabolic Action
 
@@ -116,8 +118,6 @@ Because tetracyclines have been shown to depress plasma prothrombin activity, pa
 Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracycline-class drugs in conjunction with penicillin.
 
 Absorption of tetracyclines is impaired by antacids containing aluminum, calcium, or magnesium, and iron-containing preparations.
-
-The concurrent use of tetracycline and methoxyflurane has been reported to result in fatal renal toxicity.
 
 Concurrent use of tetracyclines with oral contraceptives may render oral contraceptives less effective.
 
