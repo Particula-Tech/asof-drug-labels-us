@@ -1,6 +1,6 @@
-# Patient Information
+# Patient Package Insert
 
-| CABTREO ®(kab-TREE-oh) (clindamycin phosphate, adapalene and benzoyl peroxide) topical gel |
+| PATIENT INFORMATION CABTREO ®(kab-TREE-oh) (clindamycin phosphate, adapalene and benzoyl peroxide) topical gel |
 | --- |
 | Important information:CABTREO is for use on skin only (topical use). Do not use CABTREO in your mouth, eyes, or vagina. |
 | What is CABTREO?CABTREO is a prescription medicine used on the skin (topical) to treat acne vulgaris in adults and children 12 years of age and older.It is not known if CABTREO is safe and effective in children under 12 years of age. |
@@ -14,7 +14,5 @@
 | What are the ingredients in CABTREO?Active ingredient:clindamycin phosphate, adapalene, and benzoyl peroxide. Inactive ingredients:carbomer homopolymer type C (carbomer 980), potassium hydroxide, propylene glycol, and purified water. Distributed by:Bausch Health US, LLC, Bridgewater, NJ 08807 USA Manufactured by:Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada Patented. See https://patents.ortho-dermatologics.com for US patent information.CABTREO is a trademark of Bausch Health Companies Inc. or its affiliates.© 2025 Bausch Health Companies Inc. or its affiliatesFor more information about CABTREO, call 1-800-321-4576. |
 
 - This Patient Information has been approved by the U.S. Food and Drug Administration.
-
-Revised: 03/2025
-
-90001201
+- Revised: 03/2025
+- 90001201

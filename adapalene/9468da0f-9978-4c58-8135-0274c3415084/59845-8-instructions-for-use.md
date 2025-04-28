@@ -51,7 +51,7 @@ How should I store CABTREO?
 
 Keep CABTREO and all medicines out of the reach of children.
 
-1. Distributed by:Bausch Health US, LLC, Bridgewater, NJ 08807 USA
+Distributed by:Bausch Health US, LLC, Bridgewater, NJ 08807 USA
 
 Manufactured by:Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
 
