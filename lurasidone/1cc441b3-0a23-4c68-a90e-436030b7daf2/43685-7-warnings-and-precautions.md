@@ -131,7 +131,7 @@ In the 6-week, placebo-controlled study of pediatric patients with bipolar depre
 
 Pediatric Patients (6 to 17 years)
 
-In a 104-week, open-label study in pediatric patients with bipolar depression, autistic disorder, or another indication, 7 % of patients with a normal baseline fasting glucose experienced a shift to high at endpoint while taking lurasidone.
+In a 104-week, open-label study in pediatric patients with bipolar depression, autistic disorder, or another indication, 7% of patients with a normal baseline fasting glucose experienced a shift to high at endpoint while taking lurasidone.
 
 Dyslipidemia
 
@@ -265,7 +265,8 @@ Long-standing hyperprolactinemia, when associated with hypogonadism, may lead to
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in a carcinogenicity study conducted with lurasidone in rats and mice [see Nonclinical Toxicology (13)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
+
 Bipolar Depression Adults Monotherapy The median change from baseline to endpoint in prolactin levels, in the adult short-term, flexible-dosed, placebo-controlled monotherapy bipolar depression study, was +1.7 ng/mL and +3.5 ng/mL with lurasidone hydrochloride 20 to 60 mg/day and 80 to 120 mg/day, respectively compared to +0.3 ng/mL with placebo-treated patients.
 The median change from baseline to endpoint for males was +1.5 ng/mL and for females was +3.1 ng/mL.
 Median changes for prolactin by dose range are shown in Table 16.

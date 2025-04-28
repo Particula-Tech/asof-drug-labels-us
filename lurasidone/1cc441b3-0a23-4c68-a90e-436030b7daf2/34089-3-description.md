@@ -14,6 +14,6 @@ Practically insoluble in toluene.
 Lurasidone hydrochloride tablets are intended for oral administration only.
 Each tablet contains 20 mg, 40 mg, 60 mg, 80 mg or 120 mg of lurasidone hydrochloride.
 
-Inactive ingredients are mannitol, corn starch, croscarmellose sodium, hypromellose and magnesium stearate.
-The tablets are film-coated with coating material containing hypromellose, titanium dioxide and polyethylene glycol 8000.
-Additionally, the 80 mg tablet contains iron oxide yellow and FD&C Blue No. 2 Aluminum Lake.
+Inactive ingredients are corn starch, croscarmellose sodium, hypromellose, magnesium stearate and mannitol.
+The tablets are film-coated with coating material containing hypromellose, polyethylene glycol 8000 and titanium dioxide.
+Additionally, the 80 mg tablet contains FD&C Blue No. 2 Aluminum Lake and iron oxide yellow.
