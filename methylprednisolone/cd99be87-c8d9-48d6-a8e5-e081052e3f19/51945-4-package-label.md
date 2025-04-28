@@ -72,40 +72,6 @@ Rx only
 
 Pfizer Injectables
 
-# PRINCIPAL DISPLAY PANEL - 2 gram Vial Label
-
-NDC 0009-0796-01
-
-Single use vial.
-Discard unused portion.
-
-Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
-
-2 grams* per vial
-
-For Intramuscular or Intravenous Use Only
-
-The Enclosed Packaged Diluent (Bacteriostatic Water for Injection) Contains Benzyl Alcohol as a Preservative.
-
-Rx only
-
-# PRINCIPAL DISPLAY PANEL - 2 gram Vial Carton
-
-NDC 0009-0796-01
-
-Single use vial.
-Discard unused portion.
-
-Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
-
-2 grams* per vial
-
-For Intramuscular or Intravenous Use Only
-
-The Enclosed Packaged Diluent (Bacteriostatic Water for Injection) Contains Benzyl Alcohol as a Preservative.
-
-Pfizer Injectables Rx only
-
 # PRINCIPAL DISPLAY PANEL - 40 mg Vial Label
 
 NDC 0009-0039-30
