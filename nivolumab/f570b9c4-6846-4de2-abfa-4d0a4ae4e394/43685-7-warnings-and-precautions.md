@@ -101,7 +101,7 @@ OPDIVO 1 mg/kg with Ipilimumab 3 mg/kg: Immune-mediated hepatitis occurred in 15
 Immune-mediated hepatitis led to permanent discontinuation of OPDIVO with ipilimumab in 8% or withholding of OPDIVO with ipilimumab in 3.5% of patients.
 
 Systemic corticosteroids were required in 100% (70/70) of patients with hepatitis.
-Approximately 9% of patients with immune-mediated hepatitis required the addition mycophenolic acid to high-dose corticosteroids.
+Approximately 9% of patients with immune-mediated hepatitis required the addition of mycophenolic acid to high-dose corticosteroids.
 Hepatitis resolved in 91% of the 70 patients.
 Of the 16 patients in whom OPDIVO with ipilimumab was withheld for hepatitis, 14 reinitiated treatment after symptom improvement; of these, 8 (57%) had recurrence of hepatitis.
 

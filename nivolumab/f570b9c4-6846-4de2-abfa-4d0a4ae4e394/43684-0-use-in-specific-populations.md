@@ -44,7 +44,7 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of OPDIVO have been established in pediatric patients aged 12 years and older for the following indications: as a single agent and in combination with ipilimumab for the treatment of unresectable or metastatic melanoma, as a single agent for the adjuvant treatment of completely resected Stage IIB, Stage IIC, Stage III, or Stage IV melanoma and, as a single agent or in combination with ipilimumab for the treatment of MSI-H or dMMR mCRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
+The safety and effectiveness of OPDIVO have been established in pediatric patients aged 12 years and older for the following indications: as a single agent and in combination with ipilimumab for the treatment of unresectable or metastatic melanoma, as a single agent for the adjuvant treatment of completely resected Stage IIB, Stage IIC, Stage III, or Stage IV melanoma in combination with ipilimumab for the treatment of MSI-H or dMMR unresectable and metastatic CRC, and as a single agent for the treatment of MSI-H or dMMR mCRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
 Use of OPDIVO for these indications is supported by evidence from adequate and well-controlled studies in adults with melanoma or MSI-H or dMMR mCRC and additional pharmacokinetic data in pediatric patients.
 Nivolumab exposure in pediatric patients 12 years and older is comparable to that of adults and the courses of melanoma and MSI-H or dMMR mCRC are similar in pediatric patients aged 12 years and older to that of adults to allow extrapolation of safety and efficacy [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1, 14.11)].
 
@@ -79,6 +79,17 @@ Of the 550 patients with renal cell carcinoma who were randomized to OPDIVO in c
 No overall difference in safety was reported between elderly patients and younger patients.
 In elderly patients with intermediate or poor risk, no overall difference in effectiveness was reported [see Clinical Studies (14.7)].
 
+Of the 354 patients with dMMR or MSI-H metastatic CRC (mCRC) who were randomized to OPDIVO in combination with ipilimumab, 44% were 65 years or older and 14% were 75 years or older.
+Of the 353 patients randomized to OPDIVO, as a single agent, 45% were 65 years or older and 13% were 75 years or older.
+There was a higher incidence of any Grade 3 or 4 adverse reactions (55%) in patients aged 65 years or older receiving OPDIVO in combination with ipilimumab compared to those younger than 65 receiving the combination (42%).
+There was also a higher incidence of any Grade 3 or 4 adverse reactions (55%) in patients aged 65 years or older receiving OPDIVO in combination with ipilimumab relative to patients aged 65 years or older receiving single-agent OPDIVO (41%).
+There was a similar incidence of any Grade 3 or 4 adverse reactions in patients receiving single-agent OPDIVO aged 65 years or older (41%) relative to patients younger than 65 years (45%).
+Patients 65 years or older who received OPDIVO with ipilimumab discontinued treatment due to adverse reaction at a higher rate (23%) relative to patients 65 years or older receiving nivolumab (15%).
+No overall differences in effectiveness were reported between elderly patients and younger patients receiving either OPDIVO in combination with ipilimumab or single-agent OPDIVO [see Clinical Studies (14.11)].
+
+Of the 335 patients with unresectable hepatocellular carcinoma who were randomized to OPDIVO in combination with ipilimumab, 52% were 65 years or older and 14% were 75 years or older.
+No overall difference in safety was reported between elderly patients and younger patients, however, there were higher rates of serious adverse reactions and discontinuation due to adverse reactions in patients aged 75 years or older (67% and 35%, respectively) relative to all patients who received OPDIVO with ipilimumab (53% and 27%, respectively).
+
 Of the 49 patients with hepatocellular carcinoma who were treated with OPDIVO in combination with ipilimumab, 29% were between 65 years and 74 years of age and 8% were 75 years or older.
 Clinical studies of OPDIVO in combination with ipilimumab did not include sufficient numbers of patients with hepatocellular carcinoma aged 65 and over to determine whether they respond differently from younger patients [see Clinical Studies (14.12)].
 
@@ -94,7 +105,7 @@ No overall differences in safety or effectiveness were reported between patients
 Of the 229 patients with NSCLC who were randomized to OPDIVO 360 mg in combination with platinum-doublet chemotherapy every 3 weeks for up to 4 cycles, followed by OPDIVO 480 mg every 4 weeks, 56% were 65 years old or older and 7% were 75 years old or older.
 No overall differences in safety or effectiveness were reported between patients older and younger than 65 years.
 
-Of the 1,110 patients with ESCC, GC, GEJC, or EAC who were randomized to OPDIVO in combination with fluoropyrimidine- and platinum-containing chemotherapy), 42% were 65 years or older and 10% were 75 years or older.
+Of the 1,110 patients with ESCC, GC, GEJC, or EAC who were randomized to OPDIVO in combination with fluoropyrimidine- and platinum-containing chemotherapy, 42% were 65 years or older and 10% were 75 years or older.
 No overall difference in safety was reported between elderly patients and younger patients [see Clinical Studies (14.13, 14.14)].
 
 Of the 304 patients with UC who were treated with OPDIVO in combination with gemcitabine and platinum-doublet chemotherapy, 40% were 65 years or older and 11% were 75 years or older.

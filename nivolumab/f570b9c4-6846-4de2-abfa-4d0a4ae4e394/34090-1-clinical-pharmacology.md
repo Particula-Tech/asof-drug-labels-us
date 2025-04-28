@@ -40,7 +40,7 @@ Nivolumab has not been studied in patients with severe hepatic impairment (TB gr
 
 #### Pediatric Patients
 
-The exposures of nivolumab in pediatric patients 12 years of age or older are comparable to those in adults at the recommended dosage [see Dosage and Administration (2.2)].
+The exposures of nivolumab, as monotherapy or in combination with ipilimumab, in pediatric patients 12 years of age or older are within range of those in adults at the recommended dosage [see Dosage and Administration (2.2)].
 
 ### Drug Interaction Studies
 
@@ -58,9 +58,9 @@ The observed incidence of anti-drug antibodies is highly dependent on the sensit
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of OPDIVO or of other nivolumab products.
 
 Anti-drug antibody and neutralizing antibody responses were monitored throughout the treatment period where the benefit to risk ratio was assessed.
-Incidence of anti-drug antibodies and neutralizing antibodies are presented in Table 51.
+Incidence of anti-drug antibodies and neutralizing antibodies are presented in Table 55.
 
-Table 51: OPDIVO Anti-Drug Antibody (ADA) and Neutralizing Antibody (NAb) Incidence
+Table 55: OPDIVO Anti-Drug Antibody (ADA) and Neutralizing Antibody (NAb) Incidence
 
 | Treatment Regimena | Indication(s) | ADA | NAbb |
 | --- | --- | --- | --- |

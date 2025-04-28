@@ -8,9 +8,9 @@ Information on FDA-approved tests for the determination of PD-L1 expression in N
 
 ## 2.2 Recommended Dosage
 
-The recommended dosages of OPDIVO as a single agent are presented in Table 1.
+The recommended dosages of intravenous OPDIVO as a single agent are presented in Table 1.
 
-Table 1: Recommended Dosages for OPDIVO as a Single Agent
+Table 1: Recommended Dosages for Intravenous OPDIVO as a Single Agent
 
 | Indication | Recommended OPDIVO Dosage | Duration of Therapy |
 | --- | --- | --- |
@@ -25,7 +25,7 @@ Table 1: Recommended Dosages for OPDIVO as a Single Agent
 | Adjuvant treatment of melanoma | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks*or480 mg every 4 weeks* | Until disease recurrence or unacceptable toxicity for up to 1 year |
 | Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks*or6 mg/kg every 4 weeks* |  |  |
 | Adjuvant treatment of urothelial carcinoma (UC) | 240 mg every 2 weeks*or480 mg every 4 weeks* | Until disease recurrence or unacceptable toxicity for up to 1 year |
-| Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks*or480 mg every 4 weeks* | Until disease progression or unacceptable toxicity |
+| Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer that has progressed following prior treatment for metastatic disease | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks*or480 mg every 4 weeks* | Until disease progression or unacceptable toxicity |
 | Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks* |  |  |
 | Adjuvant treatment of resected esophageal or gastroesophageal junction cancer | 240 mg every 2 weeks*or480 mg every 4 weeks* | Until disease progression or unacceptable toxicity for a total treatment duration of 1 year |
 | * 30-minute intravenous infusion. |  |  |
@@ -33,11 +33,11 @@ Table 1: Recommended Dosages for OPDIVO as a Single Agent
 The recommended dosages of OPDIVO in combination with other therapeutic agents are presented in Table 2.
 Refer to the respective Prescribing Information for each therapeutic agent administered in combination with OPDIVO for the recommended dosage information, as appropriate.
 
-Table 2: Recommended Dosages of OPDIVO in Combination with Other Therapeutic Agents
+Table 2: Recommended Dosages of Intravenous OPDIVO in Combination with Other Therapeutic Agents
 
 | Indication | Recommended OPDIVO Dosage | Duration of Therapy |
 | --- | --- | --- |
-| Unresectable or metastatic melanoma | 1 mg/kg every 3 weeks* with ipilimumab 3 mg/kg intravenously* | In combination with ipilimumab for a maximum of 4 doses or until unacceptable toxicity, whichever occurs earlier |
+| Unresectable or metastatic melanoma | 1 mg/kg every 3 weeks* with ipilimumab 3 mg/kg* | In combination with ipilimumab for a maximum of 4 doses or until unacceptable toxicity, whichever occurs earlier |
 | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks* or 480 mg every 4 weeks* | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
 | Pediatric patients age 12 years and older and weighing less than 40 kg:3 mg/kg every 2 weeks* or 6 mg/kg every 4 weeks* |  |  |
 | Neoadjuvant treatment of resectable non-small cell lung cancer | 360 mg every 3 weeks* with platinum-doublet chemotherapy on the same day every 3 weeks | In combination with platinum-doublet chemotherapy for 3 cycles |
@@ -47,21 +47,22 @@ Table 2: Recommended Dosages of OPDIVO in Combination with Other Therapeutic Age
 | Metastatic or recurrent non-small cell lung cancer | 360 mg every 3 weeks* with ipilimumab 1 mg/kg every 6 weeks* and histology-based platinum‑doublet chemotherapy every 3 weeks | In combination with ipilimumab until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression |
 | 2 cycles of histology-based platinum‑doublet chemotherapy |  |  |
 | Malignant pleural mesothelioma | 360 mg every 3 weeks* with ipilimumab 1 mg/kg every 6 weeks* | In combination with ipilimumab until disease progression, unacceptable toxicity, or up to 2 years in patients without disease progression |
-| Advanced renal cell carcinoma | 3 mg/kg every 3 weeks* with ipilimumab 1 mg/kg intravenously* | In combination with ipilimumab for 4 doses |
+| Advanced renal cell carcinoma | 3 mg/kg every 3 weeks* with ipilimumab 1 mg/kg* | In combination with ipilimumab for 4 doses |
+| 240 mg every 2 weeks* or 480 mg every 4 weeks* | After completing 4 doses of combination therapy with ipilimumab, administer as single agent until disease progression or unacceptable toxicity |  |
 | 240 mg every 2 weeks* or 480 mg every 4 weeks*Administer OPDIVO in combination with cabozantinib 40 mg orally once daily without food | OPDIVO: Until disease progression, unacceptable toxicity, or up to 2 years |  |
 | Cabozantinib: Until disease progression or unacceptable toxicity |  |  |
-| 240 mg every 2 weeks* or 480 mg every 4 weeks* | After completing 4 doses of combination therapy with ipilimumab, administer as single agent until disease progression or unacceptable toxicity |  |
 | First-line unresectable or metastatic urothelial carcinoma | 360 mg every 3 weeks* Administer OPDIVO in combination with cisplatin and gemcitabine on the same day every 3 weeks | In combination with cisplatin and gemcitabine for up to 6 cycles |
 | 240 mg every 2 weeks* or 480 mg every 4 weeks* | After completing up to 6 cycles of combination therapy, administer as single agent until disease progression, unacceptable toxicity, or up to 2 years from first dose |  |
-| Microsatellite instability-high (MSI‑H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | 3 mg/kg every 3 weeks* with ipilimumab 1 mg/kg intravenously* | In combination with ipilimumab for 4 doses |
-| Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks* or 480 mg every 4 weeks* | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
-| Pediatric patients age 12 years and older and weighing less than 40 kg: 3 mg/kg every 2 weeks* |  |  |
-| Hepatocellular carcinoma | 1 mg/kg every 3 weeks* with ipilimumab 3 mg/kg intravenously* | In combination with ipilimumab for 4 doses |
-| 240 mg every 2 weeks* or 480 mg every 4 weeks* | After completing 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity |  |
+| Microsatellite instability-high (MSI‑H) or mismatch repair deficient (dMMR) metastatic colorectal cancer | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 3 weeks* with ipilimumab 1 mg/kg* | In combination with ipilimumabfor a maximum of 4 doses |
+| Pediatric patients age 12 years and older and weighing less than 40 kg: 3 mg/kg every 3 weeks* with ipilimumab 1 mg/kg* |  |  |
+| Adult patients and pediatric patients age 12 years and older and weighing 40 kg or more:240 mg every 2 weeks* or 480 mg every 4 weeks* | After completing a maximum of 4 doses of combination therapy, administer as single agent until disease progression or unacceptable toxicity, or up to 2 years |  |
+| Pediatric patients age 12 years and older and weighing less than 40 kg: 3 mg/kg every 2 weeks or 6 mg/kg every 4 weeks* |  |  |
+| Hepatocellular carcinoma | 1 mg/kg every 3 weeks* with ipilimumab 3 mg/kg* | In combination with ipilimumab for a maximum of 4 doses |
+| 240 mg every 2 weeks* or 480 mg every 4 weeks* | After completing a maximum of 4 doses of combination therapy, administer as single agent until disease progression, unacceptable toxicity, or up to 2 years |  |
 | Esophageal squamous cell carcinoma | 240 mg every 2 weeks* or 480 mg every 4 weeks*Administer OPDIVO in combination with fluoropyrimidine- and platinum‑containing chemotherapy | OPDIVO: Until disease progression, unacceptable toxicity, or up to 2 years |
 | Chemotherapy: Until disease progression or unacceptable toxicity |  |  |
 | 3 mg/kg every 2 weeks* or 360 mg every 3 weeks* with ipilimumab 1 mg/kg every 6 weeks* | In combination with ipilimumab until disease progression, unacceptable toxicity, or up to 2 years |  |
-| Gastric cancer, Gastroesophageal junction cancer, and Esophageal adenocarcinoma | 240 mg every 2 weeks* with fluoropyrimidine- and platinum‑containing chemotherapy every 2 weeksor360 mg every 3 weeks* with fluoropyrimidine- and platinum‑containing chemotherapy every 3 weeks | Until disease progression, unacceptable toxicity, or up to 2 years |
+| Gastric cancer, Gastroesophageal junction cancer, and Esophageal adenocarcinoma | 240 mg every 2 weeks* with fluoropyrimidine- and platinum‑containing chemotherapy every 2 weeks or 360 mg every 3 weeks* with fluoropyrimidine- and platinum‑containing chemotherapy every 3 weeks | Until disease progression, unacceptable toxicity, or up to 2 years |
 | * 30-minute intravenous infusion on the same day. |  |  |
 
 ## 2.3 Dosage Modifications
@@ -126,27 +127,27 @@ Do not shake.
 - •Withdraw the required volume of OPDIVO and transfer into an intravenous container.
 - •Dilute OPDIVO with either 0.9% Sodium Chloride Injection, USP or 5% Dextrose Injection, USP to prepare an infusion with a final concentration ranging from 1 mg/mL to 10 mg/mL.
   The total volume of infusion must not exceed 160 mL.
-  - •For adult and pediatric patients with body weight 40 kg or greater, do not exceed a total volume of infusion of 160 mL.
-  - •For adult and pediatric patients with body weight less than 40 kg, do not exceed a total volume of infusion of 4 mL/kg of body weight.
+- •For adult and pediatric patients with body weight 40 kg or greater, do not exceed a total volume of infusion of 160 mL.
+- •For adult and pediatric patients with body weight less than 40 kg, do not exceed a total volume of infusion of 4 mL/kg of body weight.
 - •Mix diluted solution by gentle inversion.
   Do not shake.
 - •Discard partially used vials or empty vials of OPDIVO.
 - •The product does not contain a preservative.
 - •After preparation, store the diluted solution either:
-  - •at room temperature and room light for no more than 8 hours from the time of preparation to end of the infusion.
-    Discard diluted solution if not used within 8 hours from the time of preparation; or
-  - •under refrigeration at 2°C to 8°C (36°F to 46°F) and protected from light for no more than 7 days from the time of preparation to end of infusion.
-    Discard diluted solution if not used within 7 days from the time of preparation.
+- •at room temperature at 20°C to 25°C (68°F to 77°F) and room light for no more than 8 hours from the time of preparation to end of the infusion.
+  Discard diluted solution if not used within 8 hours from the time of preparation; or
+- •under refrigeration at 2°C to 8°C (36°F to 46°F) and protected from light for no more than 7 days from the time of preparation to end of infusion.
+  Discard diluted solution if not used within 7 days from the time of preparation.
 - •Do not freeze.
 
 ### Administration
 
-- •Administer the infusion, after dilution, over 30 minutes through an intravenous line containing a sterile, non‑pyrogenic, low protein binding in-line filter (pore size of 0.2 micrometer to 1.2 micrometer).
+- •Administer the infusion, after dilution, over 30 minutes through an intravenous line containing a sterile, nonpyrogenic, low protein binding in-line filter (pore size of 0.2 micrometer to 1.2 micrometer).
 - •Administer OPDIVO in combination with other therapeutic agents as follows:
-  - •With ipilimumab: administer OPDIVO first followed by ipilimumab on the same day.
-  - •With platinum-doublet chemotherapy: administer OPDIVO first followed by platinum‑doublet chemotherapy on the same day.
-  - •With ipilimumab and platinum-doublet chemotherapy: administer OPDIVO first followed by ipilimumab and then platinum-doublet chemotherapy on the same day.
-  - •With fluoropyrimidine- and platinum-containing chemotherapy: administer OPDIVO first followed by fluoropyrimidine- and platinum-containing chemotherapy on the same day.
+- •With ipilimumab: administer OPDIVO first followed by ipilimumab on the same day.
+- •With platinum-doublet chemotherapy: administer OPDIVO first followed by platinum‑doublet chemotherapy on the same day.
+- •With ipilimumab and platinum-doublet chemotherapy: administer OPDIVO first followed by ipilimumab and then platinum-doublet chemotherapy on the same day.
+- •With fluoropyrimidine- and platinum-containing chemotherapy: administer OPDIVO first followed by fluoropyrimidine- and platinum-containing chemotherapy on the same day.
 - •Use separate infusion bags and filters for each infusion.
 - •Flush the intravenous line at end of infusion.
 - •Do not co-administer other drugs through the same intravenous line.

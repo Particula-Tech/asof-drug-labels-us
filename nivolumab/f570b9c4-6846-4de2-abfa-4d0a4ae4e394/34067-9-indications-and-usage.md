@@ -60,16 +60,13 @@ OPDIVO is indicated for the treatment of adult patients with locally advanced or
 
 ## 1.11 Microsatellite Instability-High or Mismatch Repair Deficient Metastatic Colorectal Cancer
 
-OPDIVO, as a single agent or in combination with ipilimumab, is indicated for the treatment of adult and pediatric patients 12 years and older with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer (CRC) that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
-
-This indication is approved under accelerated approval based on overall response rate and duration of response [see Clinical Studies (14.11)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
+- •OPDIVO, in combination with ipilimumab, is indicated for the treatment of adult and pediatric patients 12 years and older with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer (CRC).
+- •OPDIVO, as a single agent, is indicated for the treatment of adult and pediatric patients 12 years and older with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer (CRC) that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
 
 ## 1.12 Hepatocellular Carcinoma
 
-OPDIVO, in combination with ipilimumab, is indicated for the treatment of adult patients with hepatocellular carcinoma (HCC) who have been previously treated with sorafenib.
-This indication is approved under accelerated approval based on overall response rate and duration of response [see Clinical Studies (14.12)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+- •OPDIVO, in combination with ipilimumab, is indicated for the first-line treatment of adult patients with unresectable or metastatic hepatocellular carcinoma (HCC).
+- •OPDIVO, in combination with ipilimumab, is indicated for the treatment of adult patients with unresectable or metastatic HCC who have been previously treated with sorafenib.
 
 ## 1.13 Esophageal Cancer
 
