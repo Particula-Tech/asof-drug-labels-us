@@ -1,9 +1,11 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Tamsulosin hydrochloride capsules USP, 0.4 mg are supplied in high density polyethylene bottles containing 30, 100 or 500 hard gelatin capsules with an olive green opaque cap and an orange opaque body.
+Tamsulosin hydrochloride capsules USP, 0.4 mg are supplied in high density polyethylene bottles containing 30, 90, 100 or 500 hard gelatin capsules with an olive green opaque cap and an orange opaque body.
 The cap is imprinted with the code “TSL 0.4” in black ink.
 
 Bottle of 30 capsules (NDC 63672-0021-1)
+
+Bottle of 90 capsules (NDC 63672-0021-2)
 
 Bottle of 100 capsules (NDC 63672-0021-6)
 

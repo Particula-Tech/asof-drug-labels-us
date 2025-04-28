@@ -127,7 +127,7 @@ Therefore, ask your doctor about screening for prostate cancer prior to treatmen
 This patient information leaflet summarizes the most important information about tamsulosin hydrochloride capsules.
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about tamsulosin hydrochloride capsules that is written for health professionals.
-For more information, call Synthon Pharmaceuticals, Inc. at 919-493-6006.
+For more information, call Synthon at 919-493-6006.
 
 What are the ingredients in tamsulosin hydrochloride capsules?
 
@@ -141,8 +141,8 @@ or
 Synthon Hispania, S.L.
 Barcelona, Spain Made in Spain
 
-Manufactured for: Synthon Pharmaceuticals, Inc.
+Manufactured for: Synthon B.V.
 
-Revised: 01/2024
+Revised: 02/2025
 
-PPI-4013-10
+PPI-4013-11

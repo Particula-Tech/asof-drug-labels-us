@@ -36,8 +36,8 @@ or
 Synthon Hispania, S.L.
 Barcelona, Spain Made in Spain
 
-Manufactured for: Synthon Pharmaceuticals, Inc.
+Manufactured for: Synthon B.V.
 
-Revised: 01/2024
+Revised:02/2025
 
-PI-4010-10 (PPI-4013-10)
+PI-4010-11 (PPI-4013-11)
