@@ -39,9 +39,9 @@ COMBIVIR is a trademark of its respective owner and is not a trademark of A2A In
 TROFILE is a trademark owned by or licensed to Monogram BioSciences, Inc., and is not owned by or licensed to A2A Integrated Pharmaceuticals.
 The maker of this brand is not affiliated with and does not endorse A2A Integrated Pharmaceuticals or its products.
 
-Distributed by: A2A Integrated Pharmaceuticals Bowling Green, KY 42101
+Distributed by: A2A Integrated Pharmaceuticals Franklin, KY 42134
 
-PI0025-01 R02/24 Revised: February 2024
+PI0025-02 R02/25 Revised: February 2025
 
 PHARMACIST‑DETACH HERE AND GIVE MEDICATION GUIDE TO PATIENT
 

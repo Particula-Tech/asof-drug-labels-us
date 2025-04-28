@@ -59,7 +59,7 @@ A higher incidence of Herpes virus infections (11 per 100 patient‑years) was a
 
 In the Phase 2b/3 trial in treatment‑naive adult subjects, the incidence of AIDS-defining Category C events when adjusted for exposure was 1.8 for Maraviroc compared with 2.4 for efavirenz per 100 patient‑years of exposure.
 
-Patients should be monitored closely for evidence of infections while receiving Maraviroc
+Patients should be monitored closely for evidence of infections while receiving Maraviroc.
 
 ## 5.6 Potential Risk of Malignancy
 

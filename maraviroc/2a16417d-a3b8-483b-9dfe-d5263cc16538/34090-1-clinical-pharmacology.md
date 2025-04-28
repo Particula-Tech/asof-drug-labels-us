@@ -17,7 +17,7 @@ Treatment-Experienced Subjects with Virologic Success by C minQuartile (Q1-Q4)
 
 |  | 150 mg Twice Daily (with CYP3A Inhibitors) |  |  | 300 mg Twice Daily (without CYP3A Inhibitors) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| n | Median Cmin | % Subjects with Virologic Success | n | Median Cmin | % Subjects with Virologic Success |  |
+| n | Median C min | % Subjects with Virologic Success | n | Median C min | % Subjects with Virologic Success |  |
 | Placebo | 160 | - | 30.6 | 35 | - | 28.6 |
 | Q1 | 78 | 33 | 52.6 | 22 | 13 | 50.0 |
 | Q2 | 77 | 87 | 63.6 | 22 | 29 | 68.2 |
@@ -54,14 +54,14 @@ No subject experienced an interval exceeding the potentially clinically relevant
 Table 11.
 Mean Maraviroc Pharmacokinetic Parameters in Adults
 
-| Patient Population | Maraviroc Dose | n | AUC 12 (ng.h/mL) | C max (ng/mL) | C min (ng/mL) |
+| Patient Population | Maraviroc Dose | n | AUC 12 (ng.h/mL) | C max(ng/mL) | C min(ng/mL) |
 | --- | --- | --- | --- | --- | --- |
 | Healthy volunteers (Phase 1) | 300 mg twice daily | 64 | 2908 | 888 | 43.1 |
 | Asymptomatic HIV subjects (Phase 2a) | 300 mg twice daily | 8 | 2550 | 618 | 33.6 |
 | Treatment- experienced HIV subjects (Phase 3)* | 300 mg twice daily | 94 | 1513 | 266 | 37.2 |
 | 150 mg twice daily (+ CYP3A inhibitor) | 375 | 2463 | 332 | 101 |  |
 | Treatment- naive HIV Subjects (Phase 2b/3)* | 300 mg twice daily | 344 | 1865 | 287 | 60 |
-| *The estimated exposure is lower compared with other trials possibly due to sparse sampling, food effect, compliance, and concomitant medications. |  |  |  |  |  |
+| * The estimated exposure is lower compared with other trials possibly due to sparse sampling, food effect, compliance, and concomitant medications. |  |  |  |  |  |
 
 Absorption
 
@@ -71,7 +71,7 @@ The pharmacokinetics of oral maraviroc are not dose proportional over the dose r
 The absolute bioavailability of a 100‑mg dose is 23% and is predicted to be 33% at 300 mg.
 Maraviroc is a substrate for the efflux transporter P-gp.
 
-Effect of Food on Oral Absorption:Coadministration of a 300‑mg tablet with a high‑fat breakfast reduced maraviroc C max and AUC by 33% and coadministration of 75 mg of oral solution with a high-fat breakfast reduced maraviroc AUC by 73% in healthy adult volunteers.
+Effect of Food on Oral Absorption:Coadministration of a 300‑mg tablet with a high‑fat breakfast reduced maraviroc C maxand AUC by 33% and coadministration of 75 mg of oral solution with a high-fat breakfast reduced maraviroc AUC by 73% in healthy adult volunteers.
 Studies with the tablet formulation demonstrated a reduced food effect at higher doses.
 
 There were no food restrictions in the adult trials (using the tablet formulation) or in the pediatric trial (using both tablet and oral solution formulations) that demonstrated the efficacy/antiviral activity and safety of maraviroc [see Clinical Studies (14.1, 14.2)].
@@ -102,7 +102,7 @@ Specific Populations
 
 Patients with Hepatic Impairment:Maraviroc is primarily metabolized and eliminated by the liver.
 A trial compared the pharmacokinetics of a single 300‑mg dose of Maraviroc in subjects with mild (Child‑Pugh Class A, n = 8) and moderate (Child‑Pugh Class B, n = 8) hepatic impairment with pharmacokinetics in healthy subjects (n = 8).
-The mean C max and AUC were 11% and 25% higher, respectively, for subjects with mild hepatic impairment, and 32% and 46% higher, respectively, for subjects with moderate hepatic impairment compared with subjects with normal hepatic function.
+The mean C maxand AUC were 11% and 25% higher, respectively, for subjects with mild hepatic impairment, and 32% and 46% higher, respectively, for subjects with moderate hepatic impairment compared with subjects with normal hepatic function.
 These changes do not warrant a dose adjustment.
 Maraviroc concentrations are higher when Maraviroc, 150 mg is administered with a potent CYP3A inhibitor compared with following administration of 300 mg without a CYP3A inhibitor, so patients with moderate hepatic impairment who receive Maraviroc, 150 mg with a potent CYP3A inhibitor should be monitored closely for maraviroc‑associated adverse events.
 The pharmacokinetics of maraviroc have not been studied in subjects with severe hepatic impairment [see Warnings and Precautions (5.1)].
@@ -117,8 +117,8 @@ However, if patients with severe renal impairment or ESRD experience any symptom
 
 In addition, the trial compared the pharmacokinetics of multiple‑dose Maraviroc in combination with saquinavir/ritonavir 1,000/100 mg twice daily (a potent CYP3A inhibitor combination) for 7 days in subjects with mild renal impairment (CrCl greater than 50 and less than or equal to 80 mL per minute, n = 6) and moderate renal impairment (CrCl greater than or equal to 30 and less than or equal to 50 mL per minute, n = 6) with healthy volunteers with normal renal function (n = 6).
 Subjects received 150 mg of Maraviroc at different dose frequencies (healthy volunteers every 12 hours; mild renal impairment every 24 hours; moderate renal impairment every 48 hours).
-Compared with healthy volunteers (dosed every 12 hours), geometric mean ratios for maraviroc AUC tau, C max, and C min were 50% higher, 20% higher, and 43% lower, respectively, for subjects with mild renal impairment (dosed every 24 hours).
-Geometric mean ratios for maraviroc AUC tau, C max, and C min were 16% higher, 29% lower, and 85% lower, respectively, for subjects with moderate renal impairment (dosed every 48 hours) compared with healthy volunteers (dosed every 12 hours).
+Compared with healthy volunteers (dosed every 12 hours), geometric mean ratios for maraviroc AUC tau, C max, and C minwere 50% higher, 20% higher, and 43% lower, respectively, for subjects with mild renal impairment (dosed every 24 hours).
+Geometric mean ratios for maraviroc AUC tau, C max, and C minwere 16% higher, 29% lower, and 85% lower, respectively, for subjects with moderate renal impairment (dosed every 48 hours) compared with healthy volunteers (dosed every 12 hours).
 Based on the data from this trial, no adjustment in dose is recommended for patients with mild or moderate renal impairment [see Dosage and Administration (2.3)].
 
 Pediatric Patients: Aged 2 to Less Than 18 Years:The pharmacokinetics of maraviroc were evaluated in CCR5-tropic, HIV-1infected, treatment-experienced pediatric subjects aged 2 to less than 18 years.
@@ -139,7 +139,7 @@ Maraviroc Pharmacokinetic Parameters in Treatment-Experienced Pediatric Patients
 | 20 kg to <30 kg | 75 mg twice daily | 3,020 | 252 | 394 | 118 |
 | 30 kg to <40 kg | 100 mg twice daily | 3,229 | 269 | 430 | 126 |
 | 40 kg | 150 mg twice daily | 4,044 | 337 | 563 | 152 |
-| *Model-predicted steady-state pharmacokinetic parameters are presented. |  |  |  |  |  |
+| * Model-predicted steady-state pharmacokinetic parameters are presented. |  |  |  |  |  |
 
 Clinical pharmacokinetic data in pediatric patients aged 2 to less than 18 years receiving noninteracting concomitant medications are limited.
 Based on population pharmacokinetic modeling and simulation, the recommended dosing regimen of Maraviroc for this population is predicted to result in similar maraviroc exposures when compared with exposures achieved in adults receiving Maraviroc, 300 mg twice daily (with noninteracting concomitant medications) [see Dosage and Administration (2.4)].
@@ -158,7 +158,8 @@ While not studied, potent CYP3A and/or P-gp inducers carbamazepine, phenobarbita
 Based on in vitro study results, maraviroc is also a substrate of OATP1B1 and MRP2; its pharmacokinetics may be modulated by inhibitors of these transporters.
 
 Tipranavir/ritonavir (net CYP3A inhibitor/P-gp inducer) did not affect the steady‑state pharmacokinetics of maraviroc (Table 14).
-Cotrimoxazole and tenofovir did not affect the pharmacokinetics of maraviroc.100 mg b.i.d.300 mg b.i.d
+Cotrimoxazole and tenofovir did not affect the pharmacokinetics of maraviroc.
+Cotrimoxazole and tenofovir did not affect the pharmacokinetics of maraviroc.
 
 Table 14.
 Effect of Coadministered Agents on the Pharmacokinetics of Maraviroc
@@ -167,21 +168,21 @@ Effect of Coadministered Agents on the Pharmacokinetics of Maraviroc
 | --- | --- | --- | --- | --- | --- |
 | C min | AUC tau | C max |  |  |  |
 | CYP3A and/or P-gp Inhibitors |  |  |  |  |  |
-| Ketoconazole400 mg q.d. | 12 | 100 mg b.i.d. | 3.75 (3.01, 4.69) | 5.00 (3.98, 6.29) | 3.38(2.38, 4.78) |
-| Ritonavir100 mg b.i.d. | 8 | 100 mg b.i.d. | 4.55 (3.37, 6.13) | 2.61 (1.92, 3.56) | 1.28(0.79, 2.09) |
+| Ketoconazole400 mg q.d. | 12 | 100 mg b.i.d. | 3.75(3.01, 4.69) | 5.00(3.98, 6.29) | 3.38(2.38, 4.78) |
+| Ritonavir100 mg b.i.d. | 8 | 100 mg b.i.d. | 4.55(3.37, 6.13) | 2.61(1.92, 3.56) | 1.28(0.79, 2.09) |
 | Saquinavir (soft gelcapsules) /ritonavir 1,000 mg/100 mg b.i.d. | 11 | 100 mg b.i.d. | 11.3 (8.96, 14.1) | 9.77(7.87, 12.14) | 4.78 (3.41, 6.71) |
-| Lopinavir/ritonavir400 mg/100 mg b.i.d. | 11 | 300 mg b.i.d. | 9.24 (7.98, 10.7) | 3.95 (3.43, 4.56) | 1.97(1.66, 2.34) |
-| Atazanavir400 mg q.d. | 12 | 300 mg b.i.d. | 4.19 (3.65, 4.80) | 3.57 (3.30, 3.87) | 2.09(1.72, 2.55) |
-| Atazanavir/ritonavir300 mg/100 mg q.d. | 12 | 300 mg b.i.d. | 6.67 (5.78, 7.70) | 4.88 (4.40, 5.41) | 2.67(2.32, 3.08) |
-| Darunavir/ritonavir600 mg/100 mg b.i.d. | 12 | 150 mg b.i.d. | 8.00 (6.35, 10.1) | 4.05 (2.94, 5.59) | 2.29(1.46, 3.59) |
-| Elvitegravir/ritonavir150 mg/100 mg q.d. | 11 | 150 mg b.i.d. | 4.23 (3.47, 5.16) | 2.86 (2.33, 3.51) | 2.15(1.71, 2.69) |
+| Lopinavir/ritonavir400 mg/100 mg b.i.d. | 11 | 300 mg b.i.d. | 9.24(7.98, 10.7) | 3.95(3.43, 4.56) | 1.97(1.66, 2.34) |
+| Atazanavir400 mg q.d. | 12 | 300 mg b.i.d. | 4.19(3.65, 4.80) | 3.57(3.30, 3.87) | 2.09(1.72, 2.55) |
+| Atazanavir/ritonavir300 mg/100 mg q.d. | 12 | 300 mg b.i.d. | 6.67(5.78, 7.70) | 4.88(4.40, 5.41) | 2.67(2.32, 3.08) |
+| Darunavir/ritonavir600 mg/100 mg b.i.d. | 12 | 150 mg b.i.d. | 8.00(6.35, 10.1) | 4.05(2.94, 5.59) | 2.29(1.46, 3.59) |
+| Elvitegravir/ritonavir150 mg/100 mg q.d. | 11 | 150 mg b.i.d. | 4.23(3.47, 5.16) | 2.86(2.33, 3.51) | 2.15(1.71, 2.69) |
 | CYP3A and/or P-gp Inducers |  |  |  |  |  |
-| Efavirenz600 mg q.d. | 12 | 100 mg b.i.d. | 0.55 (0.43, 0.72) | 0.55 (0.49, 0.62) | 0.49(0.38, 0.63) |
-| Efavirenz 600 mg q.d. | 12 | 200 mg b.i.d. (+ efavirenz): 100 mg b.i.d. (alone) | 1.09 (0.89, 1.35) | 1.15 (0.98, 1.35) | 1.16 (0.87, 1.55) |
+| Efavirenz600 mg q.d. | 12 | 100 mg b.i.d. | 0.55(0.43, 0.72) | 0.55(0.49, 0.62) | 0.49(0.38, 0.63) |
+| Efavirenz600 mg q.d. | 12 | 200 mg b.i.d. (+ efavirenz): 100 mg b.i.d. (alone) | 1.09 (0.89, 1.35) | 1.15 (0.98, 1.35) | 1.16 (0.87, 1.55) |
 | Rifampicin600 mg q.d. | 12 | 100 mg b.i.d. | 0.22(0.17, 0.28) | 0.37(0.33, 0.41) | 0.34(0.26, 0.43) |
 | Rifampicin 600 mg q.d. | 12 | 200 mg b.i.d. (+efavirenz): 100 mg b.i.d.(alone) | 0.66 (0.54, 0.82) | 1.04 (0.89, 1.22) | 0.97 (0.72, 1.29) |
-| Etravirine200 mg b.i.d. | 14 | 300 mg b.i.d | 0.61 (0.53, 0.71) | 0.47 (0.38, 0.58) | 0.40(0.28, 0.57) |
-| Nevirapine*200 mg b.i.d.(+ lamivudine 150 mgb.i.d., tenofovir 300 mg q.d.) | 8 | 300 mg single dose | - | 1.01 (0.65, 1.55) | 1.54 (0.94, 2.51) |
+| Etravirine200 mg b.i.d. | 14 | 300 mg b.i.d | 0.61(0.53, 0.71) | 0.47(0.38, 0.58) | 0.40(0.28, 0.57) |
+| Nevirapine*200 mg b.i.d.(+ lamivudine 150 mgb.i.d., tenofovir 300 mgq.d.) | 8 | 300 mg single dose | - | 1.01 (0.65, 1.55) | 1.54 (0.94, 2.51) |
 | CYP3A and/or P-gp Inhibitors and Inducers |  |  |  |  |  |
 | Lopinavir/ritonavir +efavirenz400 mg/100 mg b.i.d.+ 600 mg q.d. | 11 | 300 mg b.i.d. | 6.29 (4.72, 8.39) | 2.53 (2.24, 2.87) | 1.25 (1.01, 1.55) |
 | Saquinavir (soft gelcapsules) /ritonavir +efavirenz1,000 mg/100 mg b.i.d. | 11 | 100 mg b.i.d. | 8.42 (6.46, 10.97) | 5.00 (4.26, 5.87) | 2.26 (1.64, 3.11) |
@@ -191,7 +192,7 @@ Effect of Coadministered Agents on the Pharmacokinetics of Maraviroc
 | Tipranavir/ritonavir500 mg/200 mg b.i.d. | 12 | 150 mg b.i.d. | 1.80 (1.55, 2.09) | 1.02 (0.85, 1.23) | 0.86 (0.61, 1.21) |
 | Other |  |  |  |  |  |
 | Raltegravir400 mg b.i.d. | 17 | 300 mg b.i.d. | 0.90 (0.85, 0.96) | 0.86 (0.80, 0.92) | 0.79 (0.67, 0.94) |
-| *Compared with historical data. |  |  |  |  |  |
+| * Compared with historical data. |  |  |  |  |  |
 
 Effect of Maraviroc on the Pharmacokinetics of Concomitant Drugs:Maraviroc is unlikely to inhibit the metabolism of coadministered drugs metabolized by the following cytochrome P enzymes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP3A) or to inhibit the uptake of OATP1B1 or the export of MRP2 because maraviroc did not inhibit activity of those enzymes or transporters at clinically relevant concentrations in vitro.
 Maraviroc does not induce CYP1A2 in vitro.
@@ -202,14 +203,14 @@ However, maraviroc did not significantly affect the pharmacokinetics of digoxin 
 
 Drug interaction trials were performed with maraviroc and other drugs likely to be coadministered or commonly used as probes for pharmacokinetic interactions (Table 14).
 
-Coadministration of fosamprenavir 700 mg/ritonavir 100 mg twice daily and maraviroc 300 mg twice daily decreased the Cmin and AUC of amprenavir by 36% and 35%, respectively.
-Coadministration of fosamprenavir 1,400 mg/ritonavir 100 mg once daily and maraviroc 300 mg once daily decreased the Cmin and AUC of amprenavir by 15% and 30%, respectively.
+Coadministration of fosamprenavir 700 mg/ritonavir 100 mg twice daily and maraviroc 300 mg twice daily decreased the C minand AUC of amprenavir by 36% and 35%, respectively.
+Coadministration of fosamprenavir 1,400 mg/ritonavir 100 mg once daily and maraviroc 300 mg once daily decreased the C minand AUC of amprenavir by 15% and 30%, respectively.
 No dosage adjustment is necessary when Maraviroc is dosed 150 mg twice daily in combination with fosamprenavir/ritonavir dosed once or twice daily.
 Fosamprenavir should be given with ritonavir when coadministered with Maraviroc.
 
 Maraviroc had no significant effect on the pharmacokinetics of elvitegravir, zidovudine, or lamivudine.
 Maraviroc decreased the Cmin and AUC of raltegravir by 27% and 37%, respectively, which is not clinically significant.
-Maraviroc had no clinically relevant effect on the pharmacokinetics of midazolam, the oral contraceptives ethinylestradiol and levonorgestrel, no effect on the urinary 6-hydroxycortisol/cortisol ratio, suggesting no induction of CYP3A in vivo.
+Maraviroc had no clinically relevant effect on the pharmacokinetics of midazolam, the oral contraceptives ethinylestradiol and levonorgestrel, no effect on the urinary 6β-hydroxycortisol/cortisol ratio, suggesting no induction of CYP3A in vivo.
 Maraviroc had no effect on the debrisoquine metabolic ratio (MR) at 300 mg twice daily or less in vivo and did not cause inhibition of CYP2D6 in vitro until concentrations greater than 100 microM.
 However, there was 234% increase in debrisoquine MR on treatment compared with baseline at 600 mg once daily, suggesting potential inhibition of CYP2D6 at higher doses.
 

@@ -42,7 +42,7 @@ Demographic and Baseline Characteristics of Subjects in Trials A4001027 and A400
 | PI substitutions | 10 | 10 |
 | NNRTI substitutions | 1 | 1 |
 | NRTI substitutions | 6 | 6 |
-| NNRTI = Non-nucleoside reverse transcriptase inhibitors; NRTI = nucleoside reverse transcriptase inhibitors; OBT = optimized background therapy; PI = protease inhibitor. aOSS - Sum of active drugs in OBT based on combined information from genotypic and phenotypic testing.bResistance substitutions based on IAS guidelines.1 |  |  |
+| NNRTI = Non-nucleoside reverse transcriptase inhibitors; NRTI = nucleoside reverse transcriptase inhibitors; OBT = optimized background therapy; PI = protease inhibitor. aOSS - Sum of active drugs in OBT based on combined information from genotypic and phenotypic testing. bResistance substitutions based on IAS guidelines. |  |  |
 
 The Week 48 results for the pooled Trials A4001027 and A4001028 are shown in Table 17.
 
@@ -54,7 +54,7 @@ Outcomes of Randomized Treatment at Week 48 in Trials A4001027 and A4001028
 | Mean change from Baseline to Week 48 in HIV-1 RNA (log10 copies/mL) | -1.84 | -0.78 | -1.05 |
 | <400 copies/mL at Week 48 | 239 (56%) | 47 (22%) | 34% |
 | <50 copies/mL at Week 48 | 194 (46%) | 35 (17%) | 29% |
-| Discontinuations: Insufficientclinical response Adverse events Other | 97 (23%) 19 (4%) 27 (6%) | 113 (54%) 11 (5%) 18 (9%) |  |
+| Discontinuations: Insufficientclinical response Adverse eventsOther | 97 (23%) 19 (4%) 27 (6%) | 113 (54%) 11 (5%) 18 (9%) |  |
 | Subjects with treatment-emergent CDC Category C events | 22 (5%) | 16 (8%) |  |
 | Deaths (during trial or within 28 days of last dose) | 9 (2%) One additional subject died while receiving open-label therapy with Maraviroc subsequent to discontinuing double-blind placebo due to insufficient response. | 1 (0.5%) |  |
 

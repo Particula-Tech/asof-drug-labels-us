@@ -157,7 +157,7 @@ Laboratory Abnormalities:
 Table 8.
 Maximum Shift in Laboratory Test Values (without Regard to Baseline) ≥2% of Grade 3-4 Abnormalities (ACTG Criteria) in Trial A4001026 (96 Weeks)
 
-| Laboratory ParameterPreferred Term | Limit | Maraviroc 300 mg Twice Daily + Lamivudine/Zidovudine (n = 353) n = Total number of subjects evaluable for laboratory abnormalities. Percentages based on total subjects evaluated for each laboratory parameter. If the same subject in a given treatment group had greater than 1 occurrence of the same abnormality, only the most severe is counted. % | Efavirenz 600 mg Once Daily+ Lamivudine/Zidovudine (n = 350) a % |
+| Laboratory ParameterPreferred Term | Limit | Maraviroc 300 mg Twice Daily + Lamivudine/Zidovudine (n = 353) * % | Efavirenz 600 mg Once Daily+ Lamivudine/Zidovudine (n = 350) * % |
 | --- | --- | --- | --- |
 | Aspartate aminotransferase | >5.0 x ULN | 4.0 | 4.0 |
 | Alanine aminotransferase | >5.0 x ULN | 3.9 | 4.0 |
@@ -165,7 +165,7 @@ Maximum Shift in Laboratory Test Values (without Regard to Baseline) ≥2% of Gr
 | Amylase | >2.0 x ULN | 4.3 | 6.0 |
 | Absolute neutrophil count | <750/mm3 | 5.7 | 4.9 |
 | Hemoglobin | <7.0 g/dL | 2.9 | 2.3 |
-| ULN = Upper limit of normal. |  |  |  |
+| ULN = Upper limit of normal.* n = Total number of subjects evaluable for laboratory abnormalities. Percentages based on total subjects evaluated for each laboratory parameter. If the same subject in a given treatment group had greater than 1 occurrence of the same abnormality, only the most severe is counted. |  |  |  |
 
 Less Common Adverse Events in Clinical Trials:The following adverse events occurred in less than 2% of subjects treated with Maraviroc or at a rate similar to the comparator.
 These events have been included because of their seriousness and either increased frequency on Maraviroc or are potential risks due to the mechanism of action.
