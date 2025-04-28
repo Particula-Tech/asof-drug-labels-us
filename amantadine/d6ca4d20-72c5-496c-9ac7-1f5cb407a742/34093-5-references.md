@@ -2,19 +2,21 @@
 
 1W.W.
 Wilson and A.H.
-Rajput, Amantadine-Dyazide ®Interaction, Can.
+Rajput, Amantadine-Dyazide ® Interaction, Can.
 Med.
 Assoc.
 J.129:974-975, 1983.
 
 2D.F.
 Casey, N. Engl.
-J. Med.298:516, 1978.
+J. Med.
+298:516, 1978.
 
 3C.D.
-Berkowitz, J. Pediatr.95:144, 1979.
+Berkowitz, J. Pediatr.
+95:144, 1979.
 
 Manufactured for: Bionpharma Inc. Princeton, NJ 08540, USA
 
 Rev.
-03/23
+04/25
