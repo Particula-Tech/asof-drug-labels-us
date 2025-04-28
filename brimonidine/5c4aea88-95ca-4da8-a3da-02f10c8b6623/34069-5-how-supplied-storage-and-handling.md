@@ -8,4 +8,4 @@ Brimonidine tartrate ophthalmic solution 0.1% and 0.15% is supplied sterile, in 
 
 0.15% 5 mL in 10 mL bottle NDC 82182-773-05 10 mL in 10 mL bottle NDC 82182-773-10 15 mL in 15 mL bottle NDC 82182-773-15
 
-Storage: Store at 15oC to 25oC (59oF to 77oF).
+Storage: Store at 15o-25oC (59o-77oF).

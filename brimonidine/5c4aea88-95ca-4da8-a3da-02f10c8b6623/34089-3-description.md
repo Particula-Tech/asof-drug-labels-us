@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Brimonidine tartrate ophthalmic solution 0.1% or 0.15%, sterile, is a relatively selective alpha-2 adrenergic receptor agonist for topical ophthalmic use.
+Brimonidine tartrate ophthalmic solution 0.1% or 0.15%, sterile, is a relatively selective alpha-2 adrenergic receptor agonist (topical intraocular pressure lowering agent).
 
 The structural formula of brimonidine tartrate is:
 

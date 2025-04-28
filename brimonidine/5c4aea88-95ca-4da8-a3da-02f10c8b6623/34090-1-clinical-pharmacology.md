@@ -14,9 +14,7 @@ After ocular administration of either a 0.1% or 0.2% solution, plasma concentrat
 
 Distribution
 
-Brimonidine was approximately 29% bound to plasma proteins in healthy subjects.
-
-Elimination
+The protein binding of brimonidine has not been studied.
 
 Metabolism
 
