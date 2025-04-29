@@ -1,3 +1,5 @@
+Dispense with Medication Guide available at:www.drreddys.com/medguide/olanzapineodtabs.pdf
+
 Medication Guide
 
 Olanzapine Orally Disintegrating Tablets USP
@@ -252,6 +254,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 0321
-
-Dispense with Medication Guide available at:www.drreddys.com/medguide/olanzapineodtabs.pdf
+Revised: 03/2025
