@@ -7,13 +7,11 @@ Carton of 30 patches, packaged into individual child-resistant envelopes NDC 514
 Store at 25 oC (77 oF); excursions permitted to 15 o-30 oC (59 o-86 oF).
 [See USP Controlled Room Temperature].
 
-For more information, call Par Pharmacutical at 1-800-828-9393.
+For more information, call Endo at 1-800-828-9393.
 
-Manufactured for: Par Pharmaceutical Chestnut Ridge, NY 10977
+Manufactured for: Endo USA Malvern, PA 19355
 
-Printed in U.S.A.
-
-Revised: January 2019
+Revised: April 2024
 
 Marketed by:
 

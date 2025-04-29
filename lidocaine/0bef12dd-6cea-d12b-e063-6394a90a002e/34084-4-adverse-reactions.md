@@ -12,7 +12,7 @@ They are characterized by angioedema, bronchospasm, dermatitis, dyspnea, hyperse
 If they occur, they should be managed by conventional means.
 The detection of sensitivity by skin testing is of doubtful value.
 
-### Other Adverse Events
+## Other Adverse Events
 
 Due to the nature and limitation of spontaneous reports in postmarketing surveillance, causality has not been established for additional reported adverse events including:
 
