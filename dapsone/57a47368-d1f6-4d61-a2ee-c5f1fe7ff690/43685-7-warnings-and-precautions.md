@@ -30,6 +30,12 @@ Toxic hepatitis and cholestatic jaundice have been reported early in therapy.
 Hyperbilirubinemia may occur more often in G6PD deficient patients.
 When feasible, baseline and subsequent monitoring of liver function is recommended; if abnormal, Dapsone should be discontinued until the source of the abnormality is established.
 
+Falsely Reduced HbA1c
+
+Falsely reduced HbA1c measurements have been reported with dapsone use.
+Alternate measures of glycemic control (e.g., fructosamine and/or more frequent blood glucose monitoring) are recommended when a discordance between HbA1c and blood glucose concentrations are observed or suspected.
+Falsely reduced HbA1c may occur without overt evidence of hemolysis or anemia.
+
 ## Drug Interactions
 
 Rifampin lowers Dapsone levels 7 to 10-fold by accelerating plasma clearance; in leprosy this reduction has not required a change in dosage.

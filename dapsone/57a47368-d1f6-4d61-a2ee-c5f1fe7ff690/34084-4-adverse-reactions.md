@@ -14,5 +14,11 @@ The mechanism of recovery is reported by axonal regeneration.
 Some recovered patients have tolerated retreatment at reduced dosage.
 In leprosy this complication may be difficult to distinguish from a leprosy reactional state.
 
+Falsely Reduced HbA1c
+
+Falsely reduced HbA1c measurements have been reported with dapsone use.
+Alternate measures of glycemic control (e.g., fructosamine and/or more frequent blood glucose monitoring) are recommended when a discordance between HbA1c and blood glucose concentrations are observed or suspected.
+Falsely reduced HbA1c may occur without overt evidence of hemolysis or anemia.
+
 Body As A Whole: In addition to the warnings and adverse effects reported above, additional adverse reactions include: nausea, vomiting, abdominal pains, pancreatitis, vertigo, blurred vision, tinnitus, insomnia, fever, headache, psychosis, phototoxicity, pulmonary eosinophilia, tachycardia, albuminuria, the nephrotic syndrome, hypoalbuminemia without proteinuria, renal papillary necrosis, male infertility, drug-induced Lupus erythematosus and an infectious mononucleosis-like syndrome.
 In general, with the exception of the complications of severe anoxia from overdosage (retinal and optic nerve damage, etc.) these adverse reactions have regressed off drug.
