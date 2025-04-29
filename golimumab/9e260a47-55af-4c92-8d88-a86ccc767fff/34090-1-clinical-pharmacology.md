@@ -40,7 +40,7 @@ The mean terminal half-life was estimated to be 12 ± 3 days in healthy subjects
 Multiple Doses
 
 When 2 mg/kg SIMPONI ARIA was administered intravenously to patients with RA at weeks 0, 4 and every 8 weeks thereafter, serum concentrations reached steady-state by Week 12.
-With concomitant use of MTX, treatment with 2 mg/kg golimumab every 8 weeks resulted in a mean steady-state trough serum concentration of approximately 0.4 ± 0.4 mcg/mL in patients with active RA.
+With concomitant use of MTX, treatment with 2 mg/kg SIMPONI ARIA every 8 weeks resulted in a mean steady-state trough serum concentration of approximately 0.4 ± 0.4 mcg/mL in patients with active RA.
 The mean steady-state trough serum concentration in patients with PsA was 0.7 ± 0.6 mcg/mL.
 The mean steady-state trough serum concentration in patients with AS was 0.8 ± 0.6 mcg/mL.
 
