@@ -25,6 +25,9 @@ There were no cases of keratitis reported in the PN development program [see Adv
 
 Among subjects with COPD, the frequency of conjunctivitis and keratitis was 1.4% and 0.1% in the DUPIXENT group and 1% and 0% in the placebo group, respectively [see Adverse Reactions (6.1)].
 
+In subjects with CSU, the frequency of conjunctivitis was similar between DUPIXENT and placebo.
+There were no cases of keratitis reported in the CSU development program [see Adverse Reactions (6.1)].
+
 Conjunctivitis and keratitis adverse events have also been reported with DUPIXENT in postmarketing settings, predominantly in AD patients.
 Some patients reported visual disturbances (e.g., blurred vision) associated with conjunctivitis or keratitis.
 

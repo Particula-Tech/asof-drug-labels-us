@@ -5,8 +5,8 @@
 Dupilumab is a human monoclonal IgG4 antibody that inhibits interleukin-4 (IL-4) and interleukin-13 (IL-13) signaling by specifically binding to the IL-4Rα subunit shared by the IL-4 and IL-13 receptor complexes.
 Dupilumab inhibits IL-4 signaling via the Type I receptor and both IL-4 and IL-13 signaling through the Type II receptor.
 
-Inflammation driven by IL-4 and IL-13 is an important component in the pathogenesis of asthma, AD, CRSwNP, EoE, PN, and COPD.
-Multiple cell types that express IL-4Rα (e.g., mast cells, eosinophils, macrophages, lymphocytes, epithelial cells, goblet cells) and inflammatory mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines, chemokines) are involved in inflammation.
+Inflammation driven by IL-4 and IL-13 is an important component in the pathogenesis of asthma, AD, CRSwNP, EoE, PN, COPD, and CSU.
+Multiple cell types that express IL-4Rα (e.g., mast cells, basophils, eosinophils, macrophages, lymphocytes, epithelial cells, goblet cells) and inflammatory mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines, chemokines) are involved in inflammation.
 Blocking IL-4Rα with dupilumab inhibits IL-4 and IL-13 cytokine-induced inflammatory responses, including the release of proinflammatory cytokines, chemokines, nitric oxide, and IgE.
 The mechanism of dupilumab action has not been definitively established.
 
@@ -20,6 +20,8 @@ These effects were sustained throughout treatment.
 The median percent reduction from baseline in total IgE concentrations with dupilumab treatments was 52% at Week 24 (DRI12544) and 70% at Week 52 (QUEST).
 For FeNO, the mean percent reduction from baseline at Week 2 was 35% and 24% in DRI12544 and QUEST, respectively, and in the overall safety population, the mean FeNO level decreased to 20 ppb.
 
+A continuous decline in total IgE in serum was observed in CSU trials.
+
 Antibody Response to Non-Live Vaccines During DUPIXENT Treatment
 
 In a clinical study, adult subjects with AD were treated once weekly for 16 weeks with 300 mg of DUPIXENT (twice the recommended dosing frequency).
@@ -31,7 +33,7 @@ Antibody responses to other non-live vaccines were also not assessed.
 
 ## 12.3 Pharmacokinetics
 
-The pharmacokinetics of dupilumab is similar in subjects with AD, asthma, CRSwNP, EoE, PN, and COPD.
+The pharmacokinetics of dupilumab is similar in subjects with AD, asthma, CRSwNP, EoE, PN, COPD, and CSU.
 
 Absorption
 
@@ -39,7 +41,7 @@ Following an initial subcutaneous (SC) dose of 600 mg, 400 mg, or 300 mg, dupilu
 Steady-state concentrations were achieved by Week 16 following the administration of 600 mg starting dose and 300 mg dose either weekly or Q2W, or 400 mg starting dose and 200 mg dose Q2W, or 300 mg Q2W without a loading dose.
 Across clinical trials, the mean ± SD steady-state trough concentrations ranged from 55.3±34.3 mcg/mL to 80.2±35.3 mcg/mL for 300 mg administered Q2W, from 173±75.9 mcg/mL to 195±71.7 mcg/mL for 300 mg administered weekly, and from 29.2±18.7 to 36.5±22.2 mcg/mL for 200 mg administered Q2W.
 
-The bioavailability of dupilumab following a SC dose is similar between AD, asthma, CRSwNP, EoE, PN, and COPD subjects, ranging between 61% and 64%.
+The bioavailability of dupilumab following a SC dose is similar between AD, asthma, CRSwNP, EoE, PN, COPD, and CSU subjects, ranging between 61% and 64%.
 
 Distribution
 
@@ -81,11 +83,11 @@ Pediatric Patients
 
 Atopic Dermatitis
 
-For pediatric subjects 12 to 17 years of age with AD receiving every other week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ± SD steady-state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
+For pediatric subjects 12 to 17 years of age with AD receiving every 2 week dosing (Q2W) with either 200 mg (<60 kg) or 300 mg (≥60 kg), the mean ± SD steady-state trough concentration of dupilumab was 54.5±27.0 mcg/mL.
 
-For pediatric subjects 6 to 11 years of age with AD receiving every other week dosing (Q2W) with 200 mg (≥30 kg) or every four week dosing (Q4W) with 300 mg (<30 kg), mean ± SD steady-state trough concentration was 86.0±34.6 mcg/mL and 98.7±33.2 mcg/mL, respectively.
+For pediatric subjects 6 to 11 years of age with AD receiving every 2 week dosing (Q2W) with 200 mg (≥30 kg) or every 4 week dosing (Q4W) with 300 mg (<30 kg), mean ± SD steady-state trough concentration was 86.0±34.6 mcg/mL and 98.7±33.2 mcg/mL, respectively.
 
-For pediatric subjects 6 months to 5 years of age with AD receiving every four week dosing (Q4W) with 300 mg (≥15 to <30 kg) or 200 mg (≥5 to <15 kg), the mean ± SD steady-state trough concentration was 110±42.8 mcg/mL and 109±50.8 mcg/mL, respectively.
+For pediatric subjects 6 months to 5 years of age with AD receiving every 4 week dosing (Q4W) with 300 mg (≥15 to <30 kg) or 200 mg (≥5 to <15 kg), the mean ± SD steady-state trough concentration was 110±42.8 mcg/mL and 109±50.8 mcg/mL, respectively.
 
 Asthma
 
@@ -111,6 +113,11 @@ At Week 16, the mean ± SD steady-state trough concentration of dupilumab was 17
 
 The systemic exposure in pediatric subjects 1 to 11 years of age with a body weight ≥40 kg receiving 300 mg QW is expected to be comparable to adult and pediatric subjects 12 years and older with a body weight ≥40 kg.
 The systemic exposure in pediatric subjects 12 to 17 years of age with a body weight <40 kg receiving 300 mg Q2W is expected to be comparable to pediatric subjects 6 to 11 years of age.
+
+Chronic Spontaneous Urticaria
+
+A total of 12 pediatric subjects 12 to 17 years of age with CSU were enrolled in CUPID.
+The observed steady-state trough concentrations of 6 pediatric subjects 12 to 17 years of age with CSU who received DUPIXENT 300 mg Q2W or 200 mg Q2W were within the range of steady-state trough concentrations in adult subjects with CSU who received DUPIXENT 300 mg Q2W.
 
 Drug Interaction Studies
 
@@ -158,6 +165,10 @@ Approximately 8% of subjects with PN who received DUPIXENT 300 mg Q2W for 24 wee
 Chronic Obstructive Pulmonary Disease
 
 Approximately 8% of subjects with COPD who received DUPIXENT 300 mg Q2W for 52 weeks developed antibodies to DUPIXENT; approximately 3% exhibited persistent ADA responses, and approximately 3% had neutralizing antibodies.
+
+Chronic Spontaneous Urticaria
+
+Approximately 5% of subjects with CSU who received DUPIXENT 200 mg Q2W or 300 mg Q2W through 24 weeks developed antibodies to dupilumab; approximately 1% exhibited persistent ADA responses, and approximately 1% had neutralizing antibodies.
 
 The antibody titers detected in subjects who received DUPIXENT were mostly low.
 In subjects who received DUPIXENT, development of high titer antibodies to DUPIXENT was associated with lower serum dupilumab concentrations [see Clinical Pharmacology (12.3)].

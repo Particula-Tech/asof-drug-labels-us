@@ -118,6 +118,13 @@ Chronic Obstructive Pulmonary Disease
 The safety and effectiveness in pediatric patients less than 18 years of age with COPD have not been established.
 COPD is largely a disease of adult patients.
 
+Chronic Spontaneous Urticaria
+
+The safety and effectiveness of DUPIXENT for the treatment of CSU in patients who remain symptomatic despite H1 antihistamine treatment have been established in pediatric patients 12 years of age and older.
+The use of DUPIXENT in this indication is supported by evidence from two adequate and well-controlled studies in adults with additional pharmacokinetic data in 6 pediatric patients 12 years of age and older, and safety data in pediatric patients in other indications [see Dosage and Administration (2.9), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
+
+Safety and effectiveness in pediatric patients younger than 12 years of age, and/or weighing less than 30 kg, with CSU have not been established.
+
 ## 8.5 Geriatric Use
 
 Of the 1539 subjects with AD exposed to DUPIXENT in a dose-ranging study and placebo-controlled trials, 70 subjects were 65 years or older.
@@ -136,3 +143,6 @@ Clinical trials did not include a sufficient number of subjects 65 years of age 
 
 Of the 1874 subjects with COPD randomized in clinical trials of DUPIXENT, a total of 1072 were 65 years or older, while 244 subjects were 75 years or older.
 No overall differences in safety or effectiveness of DUPIXENT have been observed between subjects 65 years of age and older and younger adult subjects.
+
+Of the 198 subjects with CSU exposed to DUPIXENT, a total of 30 subjects were 65 years or older, including 7 subjects 75 years or older.
+Efficacy and safety in subjects 65 years or older were similar to the overall study population.

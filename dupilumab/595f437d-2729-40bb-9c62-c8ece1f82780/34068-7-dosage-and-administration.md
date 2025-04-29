@@ -19,9 +19,9 @@ In pediatric patients 6 months to less than 12 years of age, administer DUPIXENT
 
 Administration Instructions
 
-For AD, asthma, and PN patients taking an initial 600 mg dose, administer each of the two DUPIXENT 300 mg injections at different injection sites.
+For AD, asthma, PN, and CSU patients taking an initial 600 mg dose, administer each of the two DUPIXENT 300 mg injections at different injection sites.
 
-For AD and asthma patients taking an initial 400 mg dose, administer each of the two DUPIXENT 200 mg injections at different injection sites.
+For AD, asthma, and CSU patients taking an initial 400 mg dose, administer each of the two DUPIXENT 200 mg injections at different injection sites.
 
 Administer subcutaneous injection into the thigh or abdomen, except for the 2 inches (5 cm) around the navel.
 The upper arm can also be used if a caregiver administers the injection.
@@ -39,7 +39,7 @@ Consider completing all age-appropriate vaccinations as recommended by current i
 
 Dosage in Adults
 
-The recommended dosage of DUPIXENT for adult patients is an initial dose of 600 mg (two 300 mg injections), followed by 300 mg given every other week (Q2W).
+The recommended dosage of DUPIXENT for adult patients is an initial dose of 600 mg (two 300 mg injections), followed by 300 mg given every 2 weeks (Q2W).
 
 Dosage in Pediatric Patients 6 Months to 5 Years of Age
 
@@ -61,8 +61,8 @@ Table 2: Dosage of DUPIXENT in Pediatric Patients 6 Years to 17 Years of Age wit
 | Body Weight | Initial Loading Dose | Subsequent Dosage |
 | --- | --- | --- |
 | 15 to less than 30 kg | 600 mg (two 300 mg injections) | 300 mg every 4 weeks (Q4W) |
-| 30 to less than 60 kg | 400 mg (two 200 mg injections) | 200 mg every other week (Q2W) |
-| 60 kg or more | 600 mg (two 300 mg injections) | 300 mg every other week (Q2W) |
+| 30 to less than 60 kg | 400 mg (two 200 mg injections) | 200 mg every 2 weeks (Q2W) |
+| 60 kg or more | 600 mg (two 300 mg injections) | 300 mg every 2 weeks (Q2W) |
 
 Concomitant Topical Therapies
 
@@ -93,14 +93,14 @@ Table 4: Dosage of DUPIXENT in Pediatric Patients 6 to 11 Years of Age with Asth
 
 | Body Weight | InitialFor pediatric patients 6 to 11 years of age with asthma, no initial loading dose is recommended. and Subsequent Dosage |
 | --- | --- |
-| 15 to less than 30 kg | 300 mg every four weeks (Q4W) |
-| ≥30 kg | 200 mg every other week (Q2W) |
+| 15 to less than 30 kg | 300 mg every 4 weeks (Q4W) |
+| ≥30 kg | 200 mg every 2 weeks (Q2W) |
 
 For pediatric patients 6 to 11 years of age with asthma and co-morbid moderate-to-severe AD, follow the recommended dosage as per Table 2 which includes an initial loading dose [see Dosage and Administration (2.3)].
 
 ## 2.5 Recommended Dosage for Chronic Rhinosinusitis with Nasal Polyps
 
-The recommended dosage of DUPIXENT for adult and pediatric patients 12 years of age and older is 300 mg given every other week (Q2W).
+The recommended dosage of DUPIXENT for adult and pediatric patients 12 years of age and older is 300 mg given every 2 weeks (Q2W).
 
 ## 2.6 Recommended Dosage for Eosinophilic Esophagitis
 
@@ -110,29 +110,46 @@ Table 5: Dosage of DUPIXENT in Adult and Pediatric Patients 1 Year of Age and Ol
 
 | Body Weight | Recommended Dosage |
 | --- | --- |
-| 15 to less than 30 kg | 200 mg every other week (Q2W) |
-| 30 to less than 40 kg | 300 mg every other week (Q2W) |
+| 15 to less than 30 kg | 200 mg every 2 weeks (Q2W) |
+| 30 to less than 40 kg | 300 mg every 2 weeks (Q2W) |
 | 40 kg or more | 300 mg every week (QW) |
 
 ## 2.7 Recommended Dosage for Prurigo Nodularis
 
-The recommended dosage of DUPIXENT for adult patients is an initial dose of 600 mg (two 300 mg injections) followed by 300 mg given every other week (Q2W).
+The recommended dosage of DUPIXENT for adult patients is an initial dose of 600 mg (two 300 mg injections) followed by 300 mg given every 2 weeks (Q2W).
 
 ## 2.8 Recommended Dosage for Chronic Obstructive Pulmonary Disease
 
-The recommended dosage of DUPIXENT for adult patients is 300 mg given every other week (Q2W).
+The recommended dosage of DUPIXENT for adult patients is 300 mg given every 2 weeks (Q2W).
 
-## 2.9 Missed Doses
+## 2.9 Recommended Dosage for Chronic Spontaneous Urticaria
+
+Dosage in Adults
+
+The recommended dosage of DUPIXENT for adult patients is an initial dose of 600 mg (two 300 mg injections), followed by 300 mg given every 2 weeks (Q2W).
+
+Dosage in Pediatric Patients 12 to 17 Years of Age
+
+The recommended dosage of DUPIXENT for pediatric patients 12 to 17 years of age is specified in Table 6.
+
+Table 6: Dosage of DUPIXENT in Pediatric Patients 12 to 17 Years of Age with CSU
+
+| Body Weight | Initial Loading Dose | Subsequent Dosage |
+| --- | --- | --- |
+| 30 to less than 60 kg | 400 mg (two 200 mg injections) | 200 mg every 2 weeks (Q2W) |
+| 60 kg or more | 600 mg (two 300 mg injections) | 300 mg every 2 weeks (Q2W) |
+
+## 2.10 Missed Doses
 
 If a weekly dose is missed, administer the dose as soon as possible, and start a new weekly schedule from the date of the last administered dose.
 
-If an every other week dose is missed, administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
+If an every 2 week dose is missed, administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
 If the missed dose is not administered within 7 days, wait until the next dose on the original schedule.
 
 If an every 4 week dose is missed, administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
 If the missed dose is not administered within 7 days, administer the dose, starting a new schedule based on this date.
 
-## 2.10 Preparation for Use
+## 2.11 Preparation for Use
 
 Before injection, remove DUPIXENT from the refrigerator and allow DUPIXENT to reach room temperature (45 minutes for the 300 mg/2 mL pre-filled syringe or pre-filled pen, and 30 minutes for the 200 mg/1.14 mL pre-filled syringe or pre-filled pen) without removing the needle cap.
 After removal from the refrigerator, DUPIXENT must be used within 14 days or discarded.
