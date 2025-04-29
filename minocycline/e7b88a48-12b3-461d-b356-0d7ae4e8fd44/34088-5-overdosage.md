@@ -1,4 +1,5 @@
 # 10 OVERDOSAGE
 
-In case of overdosage, discontinue medication, treat symptomatically and institute supportive measures.
 Minocycline is not removed in significant quantities by hemodialysis or peritoneal dialysis.
+In case of overdosage, discontinue minocycline hydrochloride extended-release tablets, treat symptomatically, and institute supportive measures.
+Call Poison Control Center at 1-800­-222-1222 for the latest recommendations.

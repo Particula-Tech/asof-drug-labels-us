@@ -1,29 +1,82 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Labeling) Patients taking minocycline hydrochloride extended-release tablets should receive the following information and instructions:
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-- Minocycline hydrochloride extended-release tablets should not be used by pregnant women or women attempting to conceive a child [see USE IN SPECIFIC POPULATIONS (8.1), NONCLINICAL TOXICOLOGY (13.1)].
-- It is recommended that minocycline hydrochloride extended-release tablets not be used by men who are attempting to father a child [see NONCLINICAL TOXICOLOGY (13.1)].
-- Patients should be advised that pseudomembranous colitis can occur with minocycline therapy.
-  If patients develop watery or bloody stools, they should seek medical attention.
-- Patients should be counseled about the possibility of hepatotoxicity.
-  Patients should seek medical advice if they experience symptoms which can include loss of appetite, tiredness, diarrhea, skin turning yellow, bleeding easily, confusion, and sleepiness.
-- Patients who experience central nervous system symptoms [see WARNINGS AND PRECAUTIONS (5.5)] should be cautioned about driving vehicles or using hazardous machinery while on minocycline therapy.
-  Patients should seek medical help for persistent headaches or blurred vision.
-- Concurrent use of tetracycline may render oral contraceptives less effective [see DRUG INTERACTIONS (7.5)].
-- Autoimmune syndromes, including drug-induced lupus-like syndrome, autoimmune hepatitis, vasculitis and serum sickness have been observed with tetracycline-class drugs, including minocycline.
-  Symptoms may be manifested by arthralgia, fever, rash and malaise.
-  Patients who experience such symptoms should be cautioned to stop the drug immediately and seek medical help.
-- Patients should be counseled about discoloration of skin, scars, teeth or gums that can arise from minocycline therapy.
-- Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines, including minocycline.
-  Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while using minocycline.
-  If patients need to be outdoors while using minocycline, they should wear loose-fitting clothes that protect skin from sun exposure and discuss other sun protection measures with their physician.
-  Treatment should be discontinued at the first evidence of skin erythema.
+Patients taking minocycline hydrochloride extended-release tablets should receive the following information and instructions:
+
+Administration Instructions
+
 - Minocycline hydrochloride extended-release tablets should be taken exactly as directed.
-  Skipping doses or not completing the full course of therapy may decrease the effectiveness of the current treatment course and increase the likelihood that bacteria will develop resistance and will not be treatable by other antibacterial drugs in the future.
-- Patients should be advised to swallow minocycline hydrochloride extended-release tablets whole and not to chew, crush, or split the tablets.
-- Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
-  Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
-  If this occurs, patients should contact their physician as soon as possible.
+- Advise patients to swallow minocycline hydrochloride extended-release tablets whole and not to chew, crush, or split the tablets [see Dosage and Administration (2)].
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2025
+Serious Skin/Hypersensitivity Reactions
+
+- Inform patients that serious skin reactions have occurred with the minocycline use in patients with acne.
+  Advise patients to discontinue use of minocycline hydrochloride extended-release tablets and contact their healthcare provider immediately at the first evidence of skin erythema [see Warnings and Precautions (5.1)].
+
+Tooth Discoloration and Enamel Hypoplasia
+
+- Advise patients that minocycline hydrochloride extended-release tablets use in pregnancy may cause permanent tooth discoloration of deciduous teeth.
+  Advise patients to discontinue minocycline hydrochloride extended-release tablets during pregnancy and to inform their healthcare provider right away if they become pregnant during treatment [see Warnings and Precautions (5.2), Use in Specific Populations (8.1)].
+- Advise caregivers of pediatric patients that minocycline hydrochloride extended-release tablets use may cause permanent discoloration of deciduous and permanent teeth [see Warnings and Precautions (5.2), Use in Specific Populations (8.4)].
+
+Inhibition of Bone Growth
+
+- Advise patients that minocycline hydrochloride extended-release tablets use in pregnancy may cause inhibition of fetal bone growth.
+  Advise patients to discontinue minocycline hydrochloride extended-release tablets during pregnancy and to inform their healthcare provider right away if they become pregnant during treatment [see Warnings and Precautions (5.3), Use in Specific Populations (8.1)].
+
+Clostridioides difficile-Associated Diarrhea (Antibiotic-Associated Colitis)
+
+- Advise patients that Clostridioides difficile-associated diarrhea (antibiotic-associated colitis) can occur with minocycline therapy, including minocycline hydrochloride extended-release tablets.
+  If patients develop watery or bloody stools, advise patients to seek medical attention [see Warnings and Precautions (5.4)].
+
+Hepatotoxicity
+
+- Inform patients about the possibility of hepatotoxicity.
+  Advise patients to seek medical advice if they experience signs or symptoms of hepatotoxicity, including loss of appetite, tiredness, diarrhea, jaundice, bleeding easily, confusion, and sleepiness [see Warnings and Precautions (5.5)].
+
+Central Nervous System Effects
+
+- Inform patients that central nervous system adverse reactions including dizziness or vertigo have been reported with oral minocycline therapy.
+  Caution patients about driving vehicles or using hazardous machinery if they experience such symptoms while on minocycline hydrochloride extended-release tablets [see Warnings and Precautions (5.6)].
+
+Idiopathic Intracranial Hypertension
+
+- Inform patients that idiopathic intracranial hypertension can occur with minocycline therapy.
+  Advise patients to seek medical attention if they develop unusual headache, visual symptoms, such as blurred vision, diplopia, and vision loss [see Warnings and Precautions (5.7)].
+
+Autoimmune Syndromes
+
+- Inform patients that autoimmune syndromes, including drug-induced lupus-like syndrome, autoimmune hepatitis, vasculitis, and serum sickness have been observed with tetracycline-class drugs, including minocycline.
+  Symptoms may be manifested by arthralgia, fever, rash, and malaise.
+  Advise patients who experience such symptoms to immediately discontinue minocycline hydrochloride extended-release tablets and seek medical help [see Warnings and Precautions (5.8)].
+
+Photosensitivity
+
+- Inform patients that photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines, including minocycline.
+  Advise patients to minimize or avoid exposure to natural or artificial sunlight (i.e., tanning beds or UVA/B treatment) while using minocycline hydrochloride extended-release tablets.
+  Instruct patients to use sunscreen and wear protective clothing (e.g., hat) over treated areas when exposure to sun cannot be avoided [see Warnings and Precautions (5.10)].
+
+Tissue Hyperpigmentation
+
+- Inform patients that minocycline hydrochloride extended-release tablets may cause discoloration of skin, scars, teeth, or gums [see Warnings and Precautions (5.11)].
+
+Lactation
+
+- Advise patients that minocycline hydrochloride extended-release tablets therapy is not recommended during breast feeding for 4 days after the final dose [see Use in Specific Populations (8.2)].
+
+Distributed by:
+
+Aurobindo Pharma USA, Inc.
+
+279 Princeton-Hightstown Road
+
+East Windsor, NJ 08520
+
+Manufactured by:
+
+Aurobindo Pharma Limited
+
+Hyderabad-500 032, India
+
+Revised: 04/2025

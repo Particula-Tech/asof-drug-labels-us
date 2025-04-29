@@ -1,3 +1,3 @@
 # 4 CONTRAINDICATIONS
 
-This drug is contraindicated in persons who have shown hypersensitivity to any of the tetracyclines.
+Minocycline hydrochloride extended-release tablets are contraindicated in patients with history of a hypersensitivity reaction to any of the tetracyclines [see Warnings and Precautions (5.1)].
