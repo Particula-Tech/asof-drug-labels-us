@@ -4,11 +4,13 @@
 
 Risk Summary
 
-There are no adequate and well-controlled trials of SIMPONI in pregnant women.
-Monoclonal antibodies, such as golimumab, are transported across the placenta during the third trimester of pregnancy and may affect immune response in the in uteroexposed infant [see Clinical Considerations].
-In an animal reproductive study, golimumab administered by the subcutaneous route to pregnant monkeys, during the period of organogenesis, at doses that produced exposures approximately 360 times the maximum recommended human dose (MRHD) had no adverse fetal effects [see Data].
-In a pre- and post-natal development study with pregnant monkeys, subcutaneous administration of golimumab, during the later gestational and lactation periods, at doses producing maximal maternal blood concentrations approximately 460 times those found with the MRHD had no adverse developmental effects on infants [see Data].
-SIMPONI should be used during pregnancy only if clearly needed.
+Available data from postmarketing case reports with golimumab use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+An observational study of northern European births observed similar unadjusted rates of major birth defects in infants exposed in utero to golimumab compared to no treatment or non-biologic systemic therapy.
+However, this study had important limitations (see Data).
+
+Monoclonal antibodies, such as golimumab, are transported across the placenta during the third trimester of pregnancy and may affect immune response in the in uteroexposed infant (see Clinical Considerations).
+In an animal reproductive study, golimumab administered by the subcutaneous route to pregnant monkeys, during the period of organogenesis, at doses that produced exposures approximately 360 times the maximum recommended human dose (MRHD) had no adverse fetal effects (see Data).
+In a pre- and post-natal development study with pregnant monkeys, subcutaneous administration of golimumab, during the later gestational and lactation periods, at doses producing maximal maternal blood concentrations approximately 460 times those found with the MRHD had no adverse developmental effects on infants (see Data)
 
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
@@ -21,13 +23,15 @@ Fetal/Neonatal Adverse Reactions
 Golimumab crosses the placenta during pregnancy.
 Another TNF-blocking monoclonal antibody administered during pregnancy was detected for up to 6 months in the serum of infants.
 Consequently, these infants may be at increased risk of infection.
-Administration of live vaccines to infants exposed to SIMPONI in uterois not recommended for 6 months following the mother's last SIMPONI injection during pregnancy [see Warnings and Precautions (5.10)and Drug Interactions (7.3)].
+Administration of live vaccines to infants exposed to SIMPONI in utero is not recommended for 6 months following the mother's last SIMPONI injection during pregnancy [see Warnings and Precautions (5.10) and Drug Interactions (7.3)].
 
 Data
 
 Human Data
 
-Limited data on use of SIMPONI in pregnant women from observational studies, published case reports, and postmarketing surveillance are insufficient to inform a drug associated risk.
+An observational, exposure-based, cohort study based on data from the Swedish, Danish, and Finnish Medical Birth Registers conducted between 2006-2020 (Sweden and Denmark) and 2006-2019 (Finland) compared the risk of major birth defects in 134 live-born infants exposed to golimumab (116 from women treated for rheumatic conditions, 18 from women treated for ulcerative colitis) to no treatment or nonbiologic systemic therapy.
+The unadjusted rate of major birth defects in infants exposed in uterowas similar across all groups.
+However, this study had important limitations such as a small number of pregnant women exposed to golimumab, a wide exposure ascertainment window, and incomplete risk adjustment for potential confounders.
 
 Animal Data
 
@@ -45,12 +49,11 @@ Risk Summary
 
 There is no information regarding the presence of SIMPONI in human milk, the effects on breastfed infants, or the effects on milk production.
 Maternal IgG is known to be present in human milk.
+Golimumab is present in the milk of lactating cynomolgus monkeys (see Data).
 If golimumab is transferred into human milk, the effects of local exposure in the gastrointestinal tract and potential limited systemic exposure in the infant to golimumab are unknown.
 The developmental and health benefits of breast-feeding should be considered along with the mother's clinical need for SIMPONI and any potential adverse effects on the breast-fed infants from SIMPONI, or from the underlying maternal condition.
 
 Data
-
-Animal Data
 
 In the pre- and postnatal development study in cynomolgus monkeys in which golimumab was administered subcutaneously during pregnancy and lactation, golimumab was detected in the breast milk at concentrations that were approximately 400-fold lower than the maternal serum concentrations.
 

@@ -12,18 +12,19 @@ Important information
 
 If your doctor decides that you or a caregiver may be able to give your SIMPONI injections at home, you should receive training on the right way to prepare and inject SIMPONI using SmartJect.
 
-Do nottry to inject SIMPONI yourself until you have been shown the right way to give the injections by your doctor or nurse.
+Do not try to inject SIMPONI yourself until you have been shown the right way to give the injections by your doctor or nurse.
 
-Do not pinch the skin while injecting.Pinching the skin can cause failure of the device and injury, including needlestick injury.
+Do not pinch the skin while injecting.
+Pinching the skin can cause failure of the device and injury, including needlestick injury.
 
-Do notinject into the arm to avoid failure of the device or injury.
+Do not inject into the arm to avoid failure of the device or injury.
 
 |  | Store SIMPONI in the refrigerator at 36°F to 46°F(2°C to 8°C). |
 | --- | --- |
 
-Do notfreeze SmartJect.
+Do not freeze SmartJect.
 
-Do notshake SmartJect.
+Do not shake SmartJect.
 
 If needed, store SIMPONI at room temperature, up to 77°F (25°C) for one period of time up to 30 days.
 Do not return it to the refrigerator.
@@ -43,21 +44,22 @@ Take out SmartJect
 Take SmartJect out of the refrigerator and remove it from the carton.
 Place on a flat surface out of reach of children.
 
-SmartJect should sit at room temperature for at least 30 minutesto ensure proper injection.
+SmartJect should sit at room temperature for at least 30 minutes to ensure proper injection.
 
-Do notwarm any other way.
+Do not warm any other way.
 
-Do notremove the cap yet.
+Do not remove the cap yet.
 
 Inspect SmartJect
 
 Check the expiration date ('EXP') on the back of SmartJect.
 
-Do not use SIMPONI SmartJect if the expiration date has passed.Call your doctor or pharmacist for a refill.
+Do not use SIMPONI SmartJect if the expiration date has passed.
+Call your doctor or pharmacist for a refill.
 
 Check the security seal on the cap.
 
-Do notinject if the seal is broken.
+Do not inject if the seal is broken.
 
 Gather supplies
 
@@ -65,7 +67,7 @@ While SmartJect sits at room temperature for 30 minutes, gather your supplies:
 
 - 1 Alcohol swab
 - 1 Cotton ballor gauze pad
-- 1 Sharpscontainer (See Step 3)
+- 1 Sharps container (See Step 3)
 
 Check liquid in the SmartJect
 
@@ -74,21 +76,21 @@ It should be clear to slightly yellow and may contain tiny white or clear partic
 
 It is also normal to see a small air bubble.
 
-Do notinject if the liquid is cloudy or discolored, or has large particles.
+Do not inject if the liquid is cloudy or discolored, or has large particles.
 
-Do notinject into the arm to avoid failure of the device or injury.
+Do not inject into the arm to avoid failure of the device or injury.
 
 Choose injection site
 
 Select from the following areas for your injection:
 
 - Front of thighs
-- Lower abdomen (do notuse the 2-inch area around your navel (belly-button)
-- Do notinject into the arms
+- Lower abdomen (do not use the 2-inch area around your navel (belly-button)
+- Do not inject into the arms
 
 Choose a different site within your preferred area for each injection.
 
-Do notinject into skin that is tender, bruised, red, scaly or hard.
+Do not inject into skin that is tender, bruised, red, scaly or hard.
 Avoid areas with scars or stretch marks.
 
 Wash hands and clean injection site
@@ -97,7 +99,7 @@ Wash your hands well with soap and warm water.
 
 Wipe your chosen injection site with an alcohol swab and allow it to dry.
 
-Do nottouch, fan or blow on the injection site after you have cleaned it.
+Do not touch, fan or blow on the injection site after you have cleaned it.
 
 2.
 Injecting SIMPONI using SmartJect
@@ -107,24 +109,25 @@ Remove cap
 Twist the cap to break the security seal, then pull it straight off.
 Dispose of the cap right away.
 
-It is important to inject within 5 minutesof removing the cap.
+It is important to inject within 5 minutes of removing the cap.
 
-Do notput the cap back on, this may damage the hidden needle.
+Do not put the cap back on, this may damage the hidden needle.
 
-Do notinject if SmartJect is dropped withoutthe cap on.
+Do not inject if SmartJect is dropped without the cap on.
 
-Do not pinch the skin while injecting.Pinching the skin can cause failure of the device and injury, including needlestick injury.
+Do not pinch the skin while injecting.
+Pinching the skin can cause failure of the device and injury, including needlestick injury.
 
 Position
 
-Hold SmartJect comfortably with one hand above the blue buttonand position it straight onto your skin, as shown.
+Hold SmartJect comfortably with one hand above the blue button and position it straight onto your skin, as shown.
 
 Make sure the green safety sleeve is stable and as flat as possible against your skin.
 If the device is not stable during injection, your risk bending the needle.
 
-Do notpinch your skin while positioning SmartJect onto your skin.
+Do not pinch your skin while positioning SmartJect onto your skin.
 
-Do notpinch the skin to avoid injury, including needlestick injury.
+Do not pinch the skin to avoid injury, including needlestick injury.
 
 Push down
 
@@ -132,7 +135,7 @@ Push the open end of SmartJect against your skin at a 90-degree angle.
 Apply enough pressure to slide the green safety sleeve up and to keep it inside the clear cover.
 Only the wider part of the green safety sleeve stays outside of the clear cover.
 
-Do nottouch or press the blue button while pushing SmartJect against your skin.
+Do not touch or press the blue button while pushing SmartJect against your skin.
 
 The green safety sleeve helps prevent accidental injections.
 
@@ -143,16 +146,16 @@ Inject without pinching the skin.
 Press button and wait
 
 Keep holding SmartJect against your skin.
-Use your other handto press the raised part of the blue buttonto start your injection.
-Do notpress the button until SmartJect is pressed against your skin and the safety sleeve slides into the clear cover.
+Use your other hand to press the raised part of the blue button to start your injection.
+Do not press the button until SmartJect is pressed against your skin and the safety sleeve slides into the clear cover.
 
-You will hear a loud 1st 'click'as you press the button.
+You will hear a loud 1st 'click' as you press the button.
 This is normal, the medication is just beginning to be delivered.
 You may or may not feel a needle prick.
 
 Listen for 2nd 'click'
 
-Keep holding SmartJect against your skin until you hear the 2nd 'click'(or for 15 seconds).
+Keep holding SmartJect against your skin until you hear the 2nd 'click' (or for 15 seconds).
 It usually takes about 3-6 seconds, but may take up to 15 seconds for you to hear the second 'click' sound.
 
 The 2nd 'click' means the injection is complete and you can lift SmartJect from your skin.
@@ -173,7 +176,7 @@ Dispose of your SmartJect
 
 Put your used SmartJect in an FDA-cleared sharps disposal container right away after use.
 
-Do notrecycle your used sharps disposal container.
+Do not recycle your used sharps disposal container.
 
 For more information, see " Helpful tips".
 
@@ -183,7 +186,7 @@ There may be a small amount of blood or liquid at the injection site.
 
 Hold pressure over your skin with a cotton ball or gauze pad until any bleeding stops.
 
-Do notrub the injection site.
+Do not rub the injection site.
 
 If needed, cover injection site with a bandage.
 Your injection is now complete!

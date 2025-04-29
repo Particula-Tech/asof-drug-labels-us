@@ -16,7 +16,7 @@ Patients should be counseled about the risk of lymphoma and other malignancies w
 
 Allergic Reactions
 
-Advise latex-sensitive patients that the needle cover on the prefilled syringe as well as the prefilled syringe in the prefilled SmartJect autoinjector contains dry natural rubber (a derivative of latex).
+Advise latex-sensitive patients that the needle cover on the prefilled syringe as well as the prefilled syringe in the prefilled SmartJect ®autoinjector contains dry natural rubber (a derivative of latex).
 
 Other Medical Conditions
 
@@ -29,10 +29,10 @@ If a patient or caregiver is to administer SIMPONI, he/she should be instructed 
 
 Advise the patient to read the FDA-approved Instructions for Use and provide the following instructions to patients:
 
-- Prior to use, remove the prefilled syringe or the prefilled SmartJect autoinjector from the refrigerator and allow SIMPONI to sit at room temperature outside of the carton for at least 30 minutes and out of the reach of children.
+- Prior to use, remove the prefilled syringe or the prefilled SmartJect ®autoinjector from the refrigerator and allow SIMPONI to sit at room temperature outside of the carton for at least 30 minutes and out of the reach of children.
 - Do not warm SIMPONI in any other way.
   For example, do not warm SIMPONI in a microwave or in hot water.
-- Do not remove the prefilled syringe needle cover or SmartJect autoinjector cap while allowing SIMPONI to reach room temperature.
+- Do not remove the prefilled syringe needle cover or SmartJect ®autoinjector cap while allowing SIMPONI to reach room temperature.
   Remove these immediately before injection.
 - Do not pull the autoinjector away from the skin until you hear a first "click" sound and then a second "click" sound (the injection is finished and the needle is pulled back).
   It usually takes about 3 to 6 seconds but may take up to 15 seconds for you to hear the second "click" after the first "click".

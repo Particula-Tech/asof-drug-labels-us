@@ -10,7 +10,7 @@ Golimumab did not lyse human monocytes expressing transmembrane TNF in the prese
 Elevated TNFα levels in the blood, synovium, and joints have been implicated in the pathophysiology of several chronic inflammatory diseases such as rheumatoid arthritis, psoriatic arthritis, and ankylosing spondylitis.
 TNFα is an important mediator of the articular inflammation that is characteristic of these diseases.
 The exact mechanism by which golimumab treats ulcerative colitis is unknown.
-Golimumab modulated the in vitrobiological effects mediated by TNF in several bioassays, including the expression of adhesion proteins responsible for leukocyte infiltration (E-selectin, ICAM-1 and VCAM-1) and the secretion of proinflammatory cytokines (IL-6, IL-8, G-CSF and GM-CSF).
+Golimumab modulated the in vitro biological effects mediated by TNF in several bioassays, including the expression of adhesion proteins responsible for leukocyte infiltration (E-selectin, ICAM-1 and VCAM-1) and the secretion of proinflammatory cytokines (IL-6, IL-8, G-CSF and GM-CSF).
 
 ## 12.2 Pharmacodynamics
 
@@ -28,7 +28,7 @@ By cross-trial comparisons of mean AUC infvalues following an IV or subcutaneous
 Distribution
 
 Following a single IV administration over the dose range of 0.1 to 10.0 mg/kg in patients with active RA, mean volume of distribution ranged from 58 to 126 mL/kg.
-The volume of distribution for SIMPONI indicates that SIMPONI is distributed primarily in the circulatory system with limited extravascular distribution.
+The volume of distribution for golimumab indicates that golimumab is distributed primarily in the circulatory system with limited extravascular distribution.
 
 Metabolism
 
@@ -40,13 +40,13 @@ Following a single IV administration over the dose range of 0.1 to 10.0 mg/kg in
 
 Median terminal half-life values were estimated to be approximately 2 weeks in healthy subjects and patients with active RA, PsA or AS.
 
-Population PK analyses indicated that concomitant use of NSAIDs, oral corticosteroids, or sulfasalazine did not influence the apparent clearance of SIMPONI.
+Population PK analyses indicated that concomitant use of NSAIDs, oral corticosteroids, or sulfasalazine did not influence the apparent clearance of golimumab.
 
-Patients who developed anti-golimumab antibodies generally had lower steady-state serum trough concentrations of SIMPONI.
+Patients who developed anti-golimumab antibodies generally had lower steady-state serum trough concentrations of golimumab.
 
 Dose Linearity
 
-SIMPONI exhibited dose-proportional pharmacokinetics (PK) in patients with active RA over the dose range of 0.1 to 10 mg/kg following a single intravenous (IV) dose.
+Golimumab exhibited dose-proportional pharmacokinetics (PK) in patients with active RA over the dose range of 0.1 to 10 mg/kg following a single intravenous (IV) dose.
 Following a single SC dose in healthy subjects, dose proportional pharmacokinetics were also observed over a dose range of 50 mg to 400 mg.
 
 Single Dose Versus Multiple Doses
@@ -63,7 +63,7 @@ Treatment with 100-mg SIMPONI subcutaneous every 4 weeks during maintenance resu
 
 Effect of Weight on Pharmacokinetics
 
-Population PK analyses showed there was a trend toward higher apparent clearance of SIMPONI with increasing weight.
+Population PK analyses showed there was a trend toward higher apparent clearance of golimumab with increasing weight.
 Treatment with the recommended maintenance dose regimen of SIMPONI 100 mg in UC patients did not result in meaningful differences in clinical efficacy among different weight groups.
 Across the PsA and AS populations, no meaningful differences in clinical efficacy were observed among the subgroups by weight quartile.
 The RA trial in MTX-experienced and TNF-blocker-naïve patients (Trial RA-2) did show evidence of a reduction in clinical efficacy with increasing body weight, but this effect was observed for both tested doses of SIMPONI (50 mg and 100 mg).
@@ -76,8 +76,8 @@ In the AS trial, female patients showed 13% higher apparent clearance than male 
 Subgroup analysis based on gender showed that both female and male patients achieved clinically significant response at the proposed clinical dose.
 Dosage adjustment based on gender is not needed.
 
-Population PK analyses indicated that PK parameters of SIMPONI were not influenced by age in adult patients.
-Patients with age ≥ 65 years had apparent clearance of SIMPONI similar to patients with age < 65 years.
+Population PK analyses indicated that PK parameters of golimumab were not influenced by age in adult patients.
+Patients with age ≥ 65 years had apparent clearance of golimumab similar to patients with age < 65 years.
 No ethnicity-related PK differences were observed between Caucasians and Asians, and there were too few patients of other races to assess for PK differences.
 
 No formal trial of the effect of renal or hepatic impairment on the PK of golimumab was conducted.
