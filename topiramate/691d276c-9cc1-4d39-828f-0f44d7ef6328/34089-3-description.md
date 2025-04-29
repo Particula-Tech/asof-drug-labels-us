@@ -12,3 +12,5 @@ Topiramate extended-release capsules contain beads of topiramate in a capsule.
 The inactive ingredients are microcrystalline cellulose, hypromellose 2910, ethylcellulose, diethyl phthalate.
 
 In addition, the capsule shells for all strengths contain hypromellose 2910, titanium dioxide, black iron oxide, red iron oxide and/or yellow iron oxide, black pharmaceutical ink, and white pharmaceutical ink (200 mg only).
+
+Meets USP Dissolution Test 2
