@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208694"
+  ],
+  "inn": "cetirizine",
+  "labeler": "Harrow Eye, LLC",
+  "package_ndcs": [
+    "82667-015-24"
+  ],
+  "products": [
+    {
+      "form": "FOR SOLUTION",
+      "generic": "cetirizine",
+      "name": "ZERVIATE"
+    }
+  ],
+  "setid": "6fc5ef4e-4aea-4c34-8d51-0c07ab9aad59",
+  "source": "dailymed"
+}
