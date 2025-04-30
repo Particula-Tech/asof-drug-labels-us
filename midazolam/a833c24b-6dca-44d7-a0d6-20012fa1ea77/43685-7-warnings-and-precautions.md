@@ -231,55 +231,20 @@ Midazolam did not cause adverse effects to the fetus at doses of up to 1.85 time
 All doses produced slight to moderate ataxia.
 The high dose produced a 5% decrease in maternal body weight gain compared to control.
 
-Pregnant rabbits were treated with midazolam using intravenous doses of 0.2, 0.6, and 2
+Pregnant rabbits were treated with midazolam using intravenous doses of 0.2, 0.6, and 2 mg/kg/day (0.09, 0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body surface area comparisons) during the period of organogenesis (Gestation Day 7 to 18).
+Midazolam did not cause adverse effects to the fetus at doses of up to 1.85 times the human induction dose.
+The high dose was associated with findings of ataxia and sedation but no evidence of maternal toxicity.
 
-mg/kg/day (0.09, 0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body
-
-surface area comparisons) during the period of organogenesis (Gestation Day 7 to 18).
-
-Midazolam did not cause adverse effects to the fetus at doses of up to 1.85 times the human
-
-induction dose.
-The high dose was associated with findings of ataxia and sedation but no
-
-evidence of maternal toxicity.
-
-Pregnant rats were administered midazolam using intravenous doses of 0.2, 1, and 4 mg/kg/day
-
-(0.09, 0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body surface area
-
-comparisons) during late gestation and through lactation (Gestation Day 15 through Lactation
-
-Day 21).
+Pregnant rats were administered midazolam using intravenous doses of 0.2, 1, and 4 mg/kg/day (0.09, 0.46, and 1.85 times the human induction dose of 0.35 mg/kg based on body surface area comparisons) during late gestation and through lactation (Gestation Day 15 through Lactation Day 21).
 All doses produced ataxia.
-The high dose produced a slight decrease in maternal body
-
-weight gain compared to control.
+The high dose produced a slight decrease in maternal body weight gain compared to control.
 There were no clear adverse effects noted in the offspring.
-The
+The study included no functional assessments of the pups, such as learning and memory testing or reproductive capacity.
 
-study included no functional assessments of the pups, such as learning and memory testing or
-
-reproductive capacity.
-
-In a published study in primates, administration of an anesthetic dose of ketamine for 24 hours
-
-on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
-In other
-
-published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day
-
-120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the
-
-offspring.
-With respect to brain development, this time period corresponds to the third trimester
-
-of gestation in the human.
-The clinical significance of these findings is not clear; however,
-
-studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits
-
-[see WARNINGS, Pediatric Neurotoxicity, PRECAUTIONS, Pediatric Use,and Animal Toxicology and/or Pharmacology].
+In a published study in primates, administration of an anesthetic dose of ketamine for 24 hours on Gestation Day 122 increased neuronal apoptosis in the developing brain of the fetus.
+In other published studies, administration of either isoflurane or propofol for 5 hours on Gestation Day 120 resulted in increased neuronal and oligodendrocyte apoptosis in the developing brain of the offspring.
+With respect to brain development, this time period corresponds to the third trimester of gestation in the human.
+The clinical significance of these findings is not clear; however, studies in juvenile animals suggest neuroapoptosis correlates with long-term cognitive deficits [see WARNINGS, Pediatric Neurotoxicity, PRECAUTIONS, Pediatric Use,and Animal Toxicology and/or Pharmacology].
 
 ## Nursing Mothers
 
