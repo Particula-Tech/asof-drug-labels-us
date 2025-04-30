@@ -1,8 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-How Supplied
-
-POSFREATM injection is clear and colorless solution and is supplied in single-dose vials as follows:
+POSFREATM injection is supplied as a sterile, clear and colorless solution in single-dose vials as follows:
 
 | NDC Number | Strength | Package |
 | --- | --- | --- |

@@ -1,131 +1,153 @@
 # 14 CLINICAL STUDIES
 
-The safety and efficacy of POSFREA have been established based on adequate and well-controlled adult studies of another intravenous formulation of palonosetron HCl in chemotherapy induced nausea and vomiting and postoperative nausea and vomiting.
-Below is a display of the results of these adequate and well-controlled studies of palonosetron HCl in these conditions.
+The safety and efficacy of POSFREA have been established based on adequate and well-controlled adult studies of another intravenous formulation of palonosetron in CINV and PONV.
+Below is a display of the results of these adequate and well-controlled studies of palonosetron in these conditions.
 
-## 14.1 Chemotherapy Induced Nausea and Vomiting in Adults
+## 14.1 Prevention of Nausea and Vomiting Associated with MEC and HEC in Adults
 
-Efficacy of a single intravenous dose of palonosetron HCl in preventing acute and delayed nausea and vomiting induced by both moderately and highly emetogenic chemotherapy was studied in 4 trials.
+Efficacy of a single intravenous dose of palonosetron in preventing acute and delayed nausea and vomiting associated with MEC or HEC were studied in four trials.
 In these double-blind studies, complete response rates (no emetic episodes and no rescue medication) and other efficacy parameters were assessed through at least 120 hours after administration of chemotherapy.
-The safety and efficacy of palonosetron HCl in repeated courses of chemotherapy was also assessed.
+The safety and efficacy of palonosetron in repeated courses of chemotherapy was also assessed.
 
 Moderately Emetogenic Chemotherapy
 
-Two double-blind trials (Study 1 and Study 2) involving 1132 patients compared a single intravenous dose of palonosetron HCl with either a single intravenous dose of ondansetron (Study 1) or dolasetron (Study 2) given 30 minutes prior to moderately emetogenic chemotherapy including carboplatin, cisplatin ≤ 50 mg/m2, cyclophosphamide <1500 mg/m2, doxorubicin > 25 mg/m2, epirubicin, irinotecan, and methotrexate >250 mg/m2.
+Two double-blind trials (Study 1 and Study 2) involving 1132 patients compared a single dose of palonosetron with either a single-dose of ondansetron (Study 1) or dolasetron (Study 2) given 30 minutes prior to MEC, including carboplatin, cisplatin ≤ 50 mg/m2, cyclophosphamide <1500 mg/m2, doxorubicin > 25 mg/m2, epirubicin, irinotecan, and methotrexate >250 mg/m2.
 Concomitant corticosteroids were not administered prophylactically in Study 1 and were only used by 4 to 6% of patients in Study 2.
 The majority of patients in these studies were women (77%), White (65%) and naïve to previous chemotherapy (54%).
 The mean age was 55 years.
 
 Highly Emetogenic Chemotherapy
 
-A double-blind, dose-ranging trial evaluated the efficacy of a single intravenous dose of palonosetron HCl from 0.3 to 90 mcg/kg (equivalent to < 0.1 mg to 6 mg fixed dose) in 161 chemotherapy-naïve adult cancer patients receiving highly-emetogenic chemotherapy (either cisplatin ≥ 70 mg/m2 or cyclophosphamide > 1100 mg/m2).
+A double-blind, dose-ranging trial evaluated the efficacy of a single intravenous dose of palonosetron from 0.3 to 90 mcg/kg (equivalent to < 0.1 mg to 6 mg fixed dose) in 161 chemotherapy-naïve adult cancer patients receiving HEC, either cisplatin ≥ 70 mg/m2 or cyclophosphamide > 1100 mg/m2.
 Concomitant corticosteroids were not administered prophylactically.
-Analysis of data from this trial indicates that 0.25 mg is the lowest effective dose in preventing acute nausea and vomiting induced by highly emetogenic chemotherapy.
+Analysis of data from this trial indicates that 0.25 mg is the lowest effective dose in preventing acute nausea and vomiting associated with HEC.
 
-A double-blind trial involving 667 patients compared a single intravenous dose of palonosetron HCl with a single intravenous dose of ondansetron (Study 3) given 30 minutes prior to highly emetogenic chemotherapy including cisplatin ≥ 60 mg/m2, cyclophosphamide > 1500 mg/m2, and dacarbazine.
+A double-blind trial involving 667 patients compared a single intravenous dose of palonosetron with a single intravenous dose of ondansetron (Study 3) given 30 minutes prior to HEC, including cisplatin ≥ 60 mg/m2, cyclophosphamide > 1500 mg/m2, and dacarbazine.
 Corticosteroids were co-administered prophylactically before chemotherapy in 67% of patients.
 Of the 667 patients, 51% were women, 60% White, and 59% naïve to previous chemotherapy.
 The mean age was 52 years.
 
 Efficacy Results
 
-The antiemetic activity of palonosetron HCl was evaluated during the acute phase (0-24 hours) [Table 4], delayed phase (24-120 hours) [Table 5], and overall phase (0-120 hours) [Table 6] post-chemotherapy in Studies 1, 2 and 3.
-
-Table 4: Prevention of Acute Nausea and Vomiting (0-24 hours): Complete Response Rates
-
-| Chemotherapy | Study | Treatment Group | Na | % with Complete Response | p-value b | 97.5% Confidence Interval Palonosetron HCl minus Comparator c |
-| --- | --- | --- | --- | --- | --- | --- |
-| Moderately Emetogenic | 1 | Palonosetron HCl 0.25 mg Intravenous | 189 | 81 | 0.009 |  |
-| Ondansetron 32 mg Intravenousd | 185 | 69 |  |  |  |  |
-| 2 | Palonosetron HCl 0.25 mg Intravenous | 189 | 63 | NS |  |  |
-| Dolasetron 100 mg Intravenous | 191 | 53 |  |  |  |  |
-| Highly Emetogenic | 3 | Palonosetron HCl 0.25 mg Intravenous | 223 | 59 | NS |  |
-| Ondansetron 32 mg Intravenousd | 221 | 57 |  |  |  |  |
-| a Intent-to-treat cohort |  |  |  |  |  |  |
-| b 2-sided Fisher's exact test. Significance level at α=0.025. |  |  |  |  |  |  |
-| c These studies were designed to show non-inferiority. A lower bound greater than –15% demonstrates non-inferiority between palonosetron HCl and comparator. |  |  |  |  |  |  |
-| d Ondansetron 32 mg intravenous was used in the clinical trial. Although this dose was used in the trial, this is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. |  |  |  |  |  |  |
-
-These trials show that palonosetron HCl was effective in the prevention of acute nausea and vomiting associated with initial and repeat courses of moderately and highly emetogenic cancer chemotherapy.
-In Study 3, efficacy was greater when prophylactic corticosteroids were administered concomitantly.
+Studies 1, 2 and 3 show that palonosetron was effective in the prevention of nausea and vomiting associated with initial and repeat courses of MEC and HEC in the acute phase (0 to 24 hours) [Table 5].
 Clinical superiority over other 5-HT3 receptor antagonists has not been adequately demonstrated in the acute phase.
+In Study 3, efficacy was greater when prophylactic corticosteroids were administered concomitantly.
 
-Table 5: Prevention of Delayed Nausea and Vomiting (24-120 hours): Complete Response Rates
+Studies 1 and 2 show that palonosetron was effective in the prevention of nausea and vomiting associated with initial and repeat course of MEC in the delayed phase (24 to 120 hours) [Table 6] and overall phase (0 to 120 hours) [Table 7].
 
-| Chemotherapy | Study | Treatment Group | Na | % with Complete Response | p-value b | 97.5% Confidence Interval Palonosetron HCl minus Comparatorc |
+Table 5: Prevention of Acute Nausea and Vomiting (0 to 24 Hours) in Adults with Nausea and Vomiting Associated with MEC or HEC in Studies 1, 2 and 3: Complete Response Rates
+
+| Chemotherapy | Study | Treatment Group | Na | % with Complete Response | p-value b | 97.5% Confidence Interval Palonosetron minus Comparator c |
 | --- | --- | --- | --- | --- | --- | --- |
-| Moderately Emetogenic | 1 | Palonosetron HCl 0.25 mg Intravenous | 189 | 74 | <0.001 |  |
-| Ondansetron 32 mg Intravenousd | 185 | 55 |  |  |  |  |
-| 2 | Palonosetron HCl 0.25 mg Intravenous | 189 | 54 | 0.004 |  |  |
-| Dolasetron 100 mg Intravenous | 191 | 39 |  |  |  |  |
+| Moderately Emetogenic | 1 | Palonosetron 0.25 mg intravenously | 189 | 81 | 0.009 |  |
+| Ondansetron 32 mg intravenouslyd | 185 | 69 |  |  |  |  |
+| 2 | Palonosetron 0.25 mg intravenously | 189 | 63 | NS |  |  |
+| Dolasetron 100 mg intravenously | 191 | 53 |  |  |  |  |
+| Highly Emetogenic | 3 | Palonosetron 0.25 mg intravenously | 223 | 59 | NS |  |
+| Ondansetron 32 mg intravenouslyd | 221 | 57 |  |  |  |  |
+| aIntent-to-treat cohort |  |  |  |  |  |  |
+| b2-sided Fisher's exact test. Significance level at α=0.025. |  |  |  |  |  |  |
+| cThese studies were designed to show non-inferiority. A lower bound greater than –15% demonstrates non-inferiority between palonosteron and comparator. |  |  |  |  |  |  |
+| dOndansetron 32 mg intravenously was used in the clinical trial. Although this dose was used in the trial, it is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. |  |  |  |  |  |  |
+
+Table 6: Prevention of Delayed Nausea and Vomiting (24 to 120 Hours) Associated with MEC in Adults in Studies 1 and 2: Complete Response Rates
+
+| Chemotherapy | Study | Treatment Group | Na | % with Complete Response | p-value b | 97.5% Confidence Interval Palonosetron minus Comparatorc |
+| --- | --- | --- | --- | --- | --- | --- |
+| Moderately Emetogenic | 1 | Palonosetron 0.25 mg intravenously | 189 | 74 | <0.001 |  |
+| Ondansetron 32 mg intravenouslyd | 185 | 55 |  |  |  |  |
+| 2 | Palonosetron 0.25 mg intravenously | 189 | 54 | 0.004 |  |  |
+| Dolasetron 100 mg intravenously | 191 | 39 |  |  |  |  |
+| aIntent-to-treat cohort |  |  |  |  |  |  |
+| b2-sided Fisher's exact test. Significance level at α=0.025. |  |  |  |  |  |  |
+| cThese studies were designed to show non-inferiority. A lower bound greater than–15% demonstrates non-inferiority between palonosetron and comparator. |  |  |  |  |  |  |
+| dOndansetron 32 mg intravenously was used in the clinical trial. Although this dose was used in the trial, it is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. |  |  |  |  |  |  |
+
+Table 7: Prevention of Overall Nausea and Vomiting (0 to 120 Hours) Associated with MEC in Adults in Studies 1 and 2: Complete Response Rates
+
+| Chemotherapy | Study | Treatment Group | Na | % with Complete Response | p-value b | 97.5% Confidence Interval Palonosetron minus Comparator c |
+| --- | --- | --- | --- | --- | --- | --- |
+| Moderately Emetogenic | 1 | Palonosetron 0.25 mg intravenously | 189 | 69 | <0.001 |  |
+| Ondansetron 32 mg intravenouslyd | 185 | 50 |  |  |  |  |
+| 2 | Palonosetron 0.25 mg intravenously | 189 | 46 | 0.021 |  |  |
+| Dolasetron 100 mg intravenously | 191 | 34 |  |  |  |  |
 | a Intent-to-treat cohort |  |  |  |  |  |  |
 | b 2-sided Fisher's exact test. Significance level at α=0.025. |  |  |  |  |  |  |
-| c These studies were designed to show non-inferiority. A lower bound greater than–15% demonstrates noninferiority between palonosetron HCl and comparator. |  |  |  |  |  |  |
-| d Ondansetron 32 mg intravenous was used in the clinical trial. Although this dose was used in the trial, this is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. |  |  |  |  |  |  |
+| c These studies were designed to show non-inferiority. A lower bound greater than –15% demonstrates non-inferiority between palonosetron and comparator. |  |  |  |  |  |  |
+| d Ondansetron 32 mg intravenously was used in the clinical trial. Although this dose was used in the trial, it is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. |  |  |  |  |  |  |
 
-These trials show that palonosetron HCl was effective in the prevention of delayed nausea and vomiting associated with initial and repeat courses of moderately emetogenic chemotherapy.
+## 14.2 Prevention of Nausea and Vomiting Associated with Emetogenic Chemotherapy, Including HEC in Pediatric Patients
 
-Table 6: Prevention of Overall Nausea and Vomiting (0-120 hours): Complete Response Rates
+One double-blind, active-controlled clinical trial was conducted in pediatric cancer patients.
+The total population (N = 327) had a mean age of 8.3 years (range two months to 16.9 years) and were 53% male; and 96% white.
+Patients were randomized and received a 20 mcg/kg (maximum 1.5 mg) intravenous infusion of palonosetron 30 minutes prior to the start of emetogenic chemotherapy (followed by placebo infusions four and eight hours after the dose of palonosetron) or 0.15 mg/kg of intravenous ondansetron 30 minutes prior to the start of emetogenic chemotherapy (followed by ondansetron 0.15 mg/kg infusions four and eight hours after the first dose of ondansetron, with a maximum total dose of 32 mg).
+Emetogenic chemotherapies administered included doxorubicin, cyclophosphamide (<1500 mg/m2), ifosfamide, cisplatin, dactinomycin, carboplatin, and daunorubicin.
+Adjuvant corticosteroids, including dexamethasone, were administered with chemotherapy in 55% of patients.
 
-| Chemotherapy | Study | Treatment Group | Na | % with Complete Response | p-value b | 97.5% Confidence Interval Palonosetron HCl minus Comparator c |
-| --- | --- | --- | --- | --- | --- | --- |
-| Moderately Emetogenic | 1 | Palonosetron HCl 0.25 mg Intravenous | 189 | 69 | <0.001 |  |
-| Ondansetron 32 mg Intravenousd | 185 | 50 |  |  |  |  |
-| 2 | Palonosetron HCl 0.25 mg Intravenous | 189 | 46 | 0.021 |  |  |
-| Dolasetron 100 mg Intravenous | 191 | 34 |  |  |  |  |
-| a Intent-to-treat cohort |  |  |  |  |  |  |
-| b 2-sided Fisher's exact test. Significance level at α=0.025. |  |  |  |  |  |  |
-| c These studies were designed to show non-inferiority. A lower bound greater than –15% demonstrates non-inferiority between palonosetron HCl and comparator. |  |  |  |  |  |  |
-| d Ondansetron 32 mg intravenous was used in the clinical trial. Although this dose was used in the trial, this is no longer the currently recommended dose. Refer to the ondansetron prescribing information for the current recommended dose. |  |  |  |  |  |  |
+Complete Response in the acute phase of the first cycle of chemotherapy was defined as no vomiting, no retching, and no rescue medication in the first 24 hours after starting chemotherapy.
+Efficacy was based on demonstrating non-inferiority of intravenous palonosetron compared to intravenous ondansetron.
+Non-inferiority criteria were met if the lower bound of the 97.5% confidence interval for the difference in Complete Response rates of intravenous palonosetron minus intravenous ondansetron was larger than -15%.
+The non-inferiority margin was 15%.
 
-These trials show that palonosetron HCl was effective in the prevention of nausea and vomiting throughout the 120 hours (5 days) following initial and repeat courses of moderately emetogenic cancer chemotherapy.
+Efficacy Results
 
-## 14.2 Postoperative Nausea and Vomiting
+As shown in Table 8, intravenous palonosetron 20 mcg/kg (maximum 1.5 mg) demonstrated non-inferiority to the active comparator during the 0 to 24-hour time interval.
 
-In one multicenter, randomized, stratified, double-blind, parallel-group, clinical trial (Study 1), palonosetron HCl was compared with placebo for the prevention of PONV in 546 patients undergoing abdominal and gynecological surgery.
+Table 8: Prevention of Acute Nausea and Vomiting (0 to 24 Hours) Associated with Emetogenic Chemotherapy in Pediatric Patients: Complete Response Rates
+
+| Palonosetron 20 mcg/kg intravenously (N=165) | Ondansetron 0.15 mg/kg for three intravenous doses (N=162) | Difference [97.5% Confidence Interval]a: Palonosetron minus intravenous Ondansetron Comparator |
+| --- | --- | --- |
+| 59.4% | 58.6% | 0.36% [-11.7%, 12.4%] |
+| aTo adjust for multiplicity of treatment groups, a lower-bound of a 97.5% confidence interval was used to compare to -15%, the negative value of the non-inferiority margin. |  |  |
+
+In patients that received palonosetron at a lower dose than the recommended dose of 20 mcg/kg, non-inferiority criteria were not met.
+
+## 14.3 Prevention of Postoperative Nausea and Vomiting in Adults
+
+In a multicenter, randomized, stratified, double-blind, parallel-group, clinical trial, palonosetron was compared to placebo for PONV in 546 patients undergoing abdominal and gynecological surgery.
 All patients received general anesthesia.
-Study 1 was a pivotal study conducted predominantly in the US in the out-patient setting for patients undergoing elective gynecologic or abdominal laparoscopic surgery and stratified at randomization for the following risk factors: gender, non-smoking status, history of postoperative nausea and vomiting and/or motion sickness.
+The trial was conducted predominantly in the US in the out-patient setting for patients undergoing elective gynecologic or abdominal laparoscopic surgery and stratified at randomization for the following risk factors: gender, non-smoking status, history of PONV and/or motion sickness.
 
-In Study 1 patients were randomized to receive palonosetron HCl 0.025 mg, 0.050 mg or 0.075 mg or placebo, each given intravenously immediately prior to induction of anesthesia.
-The antiemetic activity of palonosetron was evaluated during the 0 to 72 hour time period after surgery.
+Patients were randomized to receive a single dose of palonosetron 0.025 mg, 0.050 mg or 0.075 mg or placebo, each given intravenously immediately prior to induction of anesthesia.
+Antiemetic activity of was evaluated during the 0 to 72-hour time period after surgery.
 
-Of the 138 patients treated with 0.075 mg palonosetron HCl in Study 1 and evaluated for efficacy, 96% were women; 66% had a history of PONV or motion sickness; 85% were non smokers.
+Of the 138 patients treated with palonosetron 0.075 mg and evaluated for efficacy, 96% were women; 66% had a history of PONV or motion sickness; 85% were non-smokers.
 As for race, 63% were White, 20% were Black, 15% were Hispanic, and 1% were Asian.
-The age of patients ranged from 21 to 74 years, with a mean age of 37.9 years.
+The age of patients ranged from 21 to 74 years, with a mean age of 38 years.
 Three patients were greater than 65 years of age.
 
-Co-primary efficacy measures were Complete Response (CR) defined as no emetic episode and no use of rescue medication in the 0-24 and in the 24-72 hours postoperatively.
+Co-primary efficacy measures were Complete Response (CR) defined as no emetic episode and no use of rescue medication in 0 to 24 hours and 24 to 72 hours postoperatively.
 
 Secondary efficacy endpoints included:
 
-- Complete Response (CR) 0-48 and 0-72 hours
+- Complete Response (CR) 0 to 48 hours and 0 to 72 hours
 - Complete Control (CC) defined as CR and no more than mild nausea
 - Severity of nausea (none, mild, moderate, severe)
 
-The primary hypothesis in Study 1 was that at least one of the three palonosetron HCl doses were superior to placebo.
+The primary hypothesis was that at least one of the three palonosetron doses were superior to placebo.
 
-Results for Complete Response in Study 1 for 0.075 mg palonosetron HCl versus placebo are described in the following table.
+Complete Response Rates for palonosetron 0.075 mg and placebo in this trial are described in the Table 9.
 
-Table 7: Prevention of Postoperative Nausea and Vomiting: Complete Response (CR), Study 1, Palonosetron HCl 0.075 mg Vs Placebo
+Table 9: Prevention of Postoperative Nausea and Vomiting in Adults: Complete Response Rates
 
-| Treatment | n/N (%) | Palonosetron HCl Vs Placebo |  |
+| Treatment | n/N (%) | Palonosetron vs Placebo |  |
 | --- | --- | --- | --- |
-| Δ | p-value* |  |  |
+| Δ | p-valuea |  |  |
 | Co-primary Endpoints |  |  |  |
-| CR 0-24 hours |  |  |  |
-| Palonosetron HCl | 59/138 (42.8%) | 16.8% | 0.004 |
+| Complete Response Rate (0 to 24 hours) |  |  |  |
+| Palonosetron 0.075 mg intravenously | 59/138 (42.8%) | 16.8% | 0.004 |
 | Placebo | 35/135 (25.9%) |  |  |
-| CR 24-72 hours |  |  |  |
-| Palonosetron HCl | 67/138 (48.6%) | 7.8% | 0.188 |
+| Complete Response Rate (24 to 72 hours) |  |  |  |
+| Palonosetron 0.075 mg intravenously | 67/138 (48.6%) | 7.8% | 0.188 |
 | Placebo | 55/135 (40.7%) |  |  |
-| * To reach statistical significance for each co-primary endpoint, the required significance limit for the lowest p- value was p<0.017. |  |  |  |
-| Δ Difference (%): palonosetron HCl 0.075 mg minus placebo |  |  |  |
+| a To reach statistical significance for each co-primary endpoint, the required significance limit for the lowest |  |  |  |
+| p- value was p<0.017. |  |  |  |
+| Δ Difference (%): palonosetron 0.075 mg minus placebo |  |  |  |
 
-Palonosetron HCl 0.075 mg reduced the severity of nausea compared to placebo.
-Analyses of other secondary endpoints indicate that palonosetron HCl 0.075 mg was numerically better than placebo; however, statistical significance was not formally demonstrated.
+Palonosetron as a single dose of 0.075 mg reduced the severity of nausea compared to placebo.
+Analyses of other secondary endpoints indicate that palonosetron 0.075 mg was numerically better than placebo, however, statistical significance was not formally demonstrated.
 
-A randomized, double-blind, multicenter, placebo-controlled, dose ranging trial was performed to evaluate intravenous palonosetron HCl for the prevention of post-operative nausea and vomiting following abdominal or vaginal hysterectomy.
-Five intravenous palonosetron HCl doses (0.1, 0.3, 1.0, 3.0 and 30 μg/kg) were evaluated in a total of 381 intent-to-treat patients.
+A randomized, double-blind, multicenter, placebo-controlled, dose ranging study was performed to evaluate palonosetron for PONV following abdominal or vaginal hysterectomy.
+Five intravenous doses (0.1, 0.3, 1.0, 3.0 and 30 mcg/kg) were evaluated in a total of 381 intent-to-treat patients.
 The primary efficacy measure was the proportion of patients with CR in the first 24 hours after recovery from surgery.
-The lowest effective dose was palonosetron HCl 1 mcg/kg (approximately 0.075 mg) which had a CR rate of 44% versus 19% for placebo, p=0.004.
-Palonosetron HCl 1 mcg/kg also significantly reduced the severity of nausea versus placebo, p=0.009.
+The lowest effective dose of palonosetron was 1 mcg/kg (approximately 0.075 mg) which had a CR rate of 44% versus 19% for placebo, p=0.004 and significantly reduced the severity of nausea versus placebo, p=0.009.

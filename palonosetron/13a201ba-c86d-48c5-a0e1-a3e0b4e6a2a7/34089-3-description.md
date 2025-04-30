@@ -7,10 +7,10 @@ The empirical formula is C19H24N2O.HCl, with a molecular weight of 332.87.
 Palonosetron HCl exists as a single isomer and has the following structural formula:
 
 Palonosetron HCl is a white to off-white crystalline powder.
-It is freely soluble in water and soluble in propylene glycol and slightly soluble in ethanol and 2-propanol.
+It is freely soluble in water, soluble in propylene glycol, and slightly soluble in ethanol and 2-propanol.
 
 POSFREA Injection is a sterile, clear, colorless, non-pyrogenic, isotonic, buffered solution for intravenous administration.
-POSFREA Injection is available as 5 mL single- dose vial or 1.5 mL single dose vial.
+POSFREA Injection is available as a 5 mL or 1.5 mL single-dose vial.
 
 Each mL of aqueous solution contains 0.05 mg palonosetron (equivalent to 0.056 mg palonosetron hydrochloride).
 Each mL also contains 41.5 mg mannitol, 3.0 mg sodium acetate trihydrate, and water for injection (q.s. to 1.0 mL).

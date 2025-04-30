@@ -2,17 +2,24 @@
 
 ## 2.1 Recommended Dosage
 
-Recommended Dosage for Chemotherapy-Induced Nausea and Vomiting
+Prevention of Chemotherapy-Induced Nausea and Vomiting (CINV) The recommended dosage of POSFREA for prevention of nausea and vomiting associated with HEC and MEC in adults and associated with emetogenic chemotherapy, including HEC in pediatric patients 1 month to less than 17 years of age is shown in Table 1.
 
-- Inject 0.25 mg as a single intravenous dose over 30 seconds.
-- Start the dosing approximately 30 minutes before the start of chemotherapy.
+Table 1: Recommended Dosage of POSFREA for the Prevention of Nausea and Vomiting Associated with Chemotherapy in Adults and Pediatric Patients 1 Month to Less than 17 Years
 
-Recommended Dosage for Postoperative Nausea and Vomiting
+| Age | Dose* | Infusion Time |
+| --- | --- | --- |
+| Adults | 0.25 mg as a single dose | Infuse over 30 seconds beginning approximately 30 minutes before the start of chemotherapy |
+| Pediatrics (1 month to less than 17 years) | 20 micrograms per kilogram (max 1.5 mg) as a single dose | Infuse over 15 minutes beginning approximately 30 minutes before the start of chemotherapy |
+| *Note different dosing units in pediatrics |  |  |
 
-- 0.075 mg as a single intravenous dose over 10 seconds immediately before the induction of anesthesia.
+Postoperative Nausea and Vomiting
+
+The recommended dosage of POSFREA in adults for PONV is 0.075 mg administered as a single intravenous dose over 10 seconds immediately before the induction of anesthesia.
 
 ## 2.2 Instructions for Intravenous Administration
 
-- Do not mix with other drugs.
-- Flush the infusion line with 0.9% Sodium Chloride Injection, USP before and after administration of POSFREA.
+- POSFREA is supplied ready for intravenous administration at a concentration of 0.05 mg/mL (50 mcg/mL).
+- Do not mix POSFREA with other drugs.
+- Flush the infusion line with 0.9% Sodium Chloride Injection before and after administration of POSFREA.
 - Inspect POSFREA visually for particulate matter and discoloration before administration.
+- Discard unused portion.

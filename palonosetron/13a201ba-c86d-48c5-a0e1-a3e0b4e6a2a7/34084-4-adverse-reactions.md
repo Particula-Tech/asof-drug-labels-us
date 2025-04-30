@@ -1,99 +1,100 @@
 # 6 ADVERSE REACTIONS
 
+Serious or otherwise clinically significant adverse reactions reported in other sections of labeling:
+
+- Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- Serotonin Syndrome [see Warnings and Precautions (5.2)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of POSFREA has been established from adequate and well-controlled studies of another intravenous formulation of palonosetron HCl [see Clinical Studies (14)].
-Below is a display of the adverse reactions of palonosetron HCl in these adequate and well- controlled studies.
+The safety of POSFREA has been established from adequate and well-controlled studies of another intravenous formulation of palonosetron [see Clinical Studies (14)].
+Below is a display of the adverse reactions of palonosetron in these adequate and well-controlled studies.
 
-Chemotherapy-Induced Nausea and Vomiting
+Chemotherapy-Induced Nausea and Vomiting (CINV)
 
-In clinical trials for the prevention of nausea and vomiting induced by moderately or highly emetogenic chemotherapy, 1374 adult patients received a single 0.25 mg dose of palonosetron HCl.
-Adverse reactions were similar in frequency and severity with intravenous palonosetron HCl and ondansetron or dolasetron.
-The following is a listing of all adverse reactions reported by ≥ 2% of patients in these trials (Table 1).
+Adults
 
-Table 1: Adverse Reactions from Chemotherapy-Induced Nausea and Vomiting Studies ≥ 2% in any Treatment Group
+In double-blind randomized clinical trials for the prevention of nausea and vomiting induced by MEC or HEC, 1374 adult patients received a single dose of palonosetron, ondansetron (Studies 1 and 3) or dolasetron (Study 2) administered intravenously 30 minutes prior to chemotherapy [see Clinical Studies (14.1)].
+Adverse reactions were similar in frequency and severity in all three treatment groups.
+Common adverse reactions reported in at least 2% of patients in these trials are shown in Table 2.
 
-| Adverse Reaction | Palonosetron HCl 0.25 mg Intravenous (N=633) | Ondansetron 32 mg Intravenous (N=410) | Dolasetron 100 mg Intravenous (N=194) |
+Table 2: Common Adverse Reactions* in Adults with Receiving MEC (Studies 1 and 2) or HEC (Study 3)
+
+| Adverse Reaction | Palonosetron 0.25 mg intravenously (N=633) | Ondansetron 32 mg intravenously (N=410) | Dolasetron 100 mg intravenously (N=194) |
 | --- | --- | --- | --- |
-| Headache | 60 (9%) | 34 (8%) | 32 (16%) |
-| Constipation | 29 (5%) | 8 (2%) | 12 (6%) |
-| Diarrhea | 8 (1%) | 7 (2%) | 4 (2%) |
-| Dizziness | 8 (1%) | 9 (2%) | 4 (2%) |
-| Fatigue | 3 (< 1%) | 4 (1%) | 4 (2%) |
-| Abdominal Pain | 1 (< 1%) | 2 (< 1%) | 3 (2%) |
-| Insomnia | 1 (< 1%) | 3 (1%) | 3 (2%) |
+| Headache | 9% | 8% | 16% |
+| Constipation | 5% | 2% | 6% |
+| Diarrhea | 1% | 2% | 2% |
+| Dizziness | 1% | 2% | 2% |
+| Fatigue | < 1% | 1% | 2% |
+| Abdominal Pain | < 1% | < 1% | 2% |
+| Insomnia | < 1% | 1% | 2% |
+| *Reported in at least 2% of patients in any treatment group |  |  |  |
 
-In other studies, 2 subjects experienced severe constipation following a single palonosetron HCl dose of approximately 0.75 mg, three times the recommended dose.
+Less common adverse reactions, reported in 1% or less of patients in any treatment group, in Studies 1, 2 and 3 were:
 
-In clinical trials, the following infrequently reported adverse reactions, assessed by investigators as treatment-related or causality unknown, occurred following administration of palonosetron HCl to adult patients receiving concomitant cancer chemotherapy:
+- Cardiac disorders: non-sustained tachycardia, bradycardia, myocardial ischemia, extrasystoles, sinus tachycardia, sinus arrhythmia, supraventricular extrasystoles.
+- Skin & subcutaneous tissue disorders: allergic dermatitis, rash.
+- Ear &labyrinth disorders: motion sickness, tinnitus.
+- Gastrointestinal disorders: diarrhea, dyspepsia, abdominal pain, dry mouth, hiccups and flatulence.
+- General disorders and administration site conditions: weakness, fatigue, fever, hot flash, flu-like syndrome.
+- Investigations: QT prolongation, transient, asymptomatic increases in AST and/or ALT and bilirubin and these changes occurred predominantly in patients receiving HEC.
+- Metabolism and nutrition disorders: hyperkalemia, electrolyte fluctuations, hyperglycemia, metabolic acidosis, appetite decrease, anorexia.
+- Musculoskeletal and connective tissue disorders: arthralgia.
+- Nervous System disorders: dizziness, somnolence, insomnia, hypersomnia, paresthesia.
+- Psychiatric disorders: anxiety, euphoric mood.
+- Renal and urinary disorders: urinary retention, glycosuria.
+- Vascular disorders: vein discoloration, vein distention, hypotension, hypertension.
 
-Cardiovascular: 1%: non-sustained tachycardia, bradycardia, hypotension, < 1%: hypertension, myocardial ischemia, extrasystoles, sinus tachycardia, sinus arrhythmia, supraventricular extrasystoles and QT prolongation.
-In many cases, the relationship to palonosetron was unclear.
+In other studies, two subjects experienced severe constipation following a single dose of approximately 0.75 mg (three times the recommended dose).
 
-Dermatological: < 1%: allergic dermatitis, rash.
+Pediatrics Aged 2 Months to 17 Years
 
-Hearing and Vision: < 1%: motion sickness, tinnitus, eye irritation and amblyopia.
+In a pediatric clinical trial, 163 pediatric cancer patients with a mean age of eight years received a single 20 mcg/kg (maximum 1.5 mg) intravenous infusion of palonosetron 30 minutes before beginning the first cycle of emetogenic chemotherapy [see Clinical Studies (14.2)].
+Adverse reactions were evaluated in pediatric patients receiving palonosetron for up to four chemotherapy cycles.
+The following adverse reactions were reported in less than 1% of palonosetron-treated patients:
 
-Gastrointestinal System: 1%: diarrhea, < 1%: dyspepsia, abdominal pain, dry mouth, hiccups and flatulence.
+- Nervous System disorders: headache, dizziness, dyskinesia.
+- General disorders and administration site conditions: infusion site pain.
+- Skin and subcutaneous tissue disorders: allergic dermatitis, skin disorder.
 
-General: 1%: weakness, < 1%: fatigue, fever, hot flash, flu-like syndrome.
+Postoperative Nausea and Vomiting (PONV)
 
-Liver: < 1%: transient, asymptomatic increases in AST and/or ALT and bilirubin.
-These changes occurred predominantly in patients receiving highly emetogenic chemotherapy.
+The most common adverse reactions reported in at least 2% of adults receiving palonosetron 0.075 mg intravenously immediately before induction of anesthesia in three randomized placebo-controlled trials [see Clinical Studies (14.3)] are shown in Table 3.
+Rates of adverse reactions between palonosetron and placebo groups were similar.
+Some events are known to be associated with, or may be exacerbated by, concomitant perioperative and intraoperative medications administered in this surgical population.
+A thorough QT/QTc study demonstrated palonosetron does not prolong the QT interval to any clinically relevant extent [see Clinical Pharmacology (12.2)].
 
-Metabolic: 1%: hyperkalemia, < 1%: electrolyte fluctuations, hyperglycemia, metabolic acidosis, glycosuria, appetite decrease, anorexia.
+Table 3: Common Adverse Reactions* in Trials of Adults with Postoperative Nausea and Vomiting
 
-Musculoskeletal: < 1%: arthralgia.
-
-Nervous System: 1%: dizziness, < 1%: somnolence, insomnia, hypersomnia, paresthesia.
-
-Psychiatric: 1%: anxiety, < 1%: euphoric mood.
-
-Urinary System: < 1%: urinary retention.
-
-Vascular: < 1%: vein discoloration, vein distention.
-
-Postoperative Nausea and Vomiting
-
-The adverse reactions cited in Table 2 were reported in ≥ 2% of adults receiving intravenous palonosetron HCl 0.075 mg immediately before induction of anesthesia in three randomized placebo-controlled trials.
-Rates of adverse reactions between palonosetron HCl and placebo groups were similar.
-Some events are known to be associated with, or may be exacerbated by concomitant perioperative and intraoperative medications administered in this surgical population See Clinical Pharmacology (12.2)for thorough QT/QTc study results and data demonstrating the lack of palonosetron effect on QT/QTc.
-
-Table 2: Adverse Reactions from Postoperative Nausea and Vomiting Studies ≥ 2% in any Treatment Group
-
-| Adverse Reaction | Palonosetron HCl 0.075 mg Intravenous (N=336) | Placebo (N=369) |
+| Adverse Reaction | Palonosetron 0.075 mg intravenously (N=336) | Placebo (N=369) |
 | --- | --- | --- |
-| Electrocardiogram QT prolongation | 16 (5%) | 11 (3%) |
-| Bradycardia | 13 (4%) | 16 (4%) |
-| Headache | 11 (3%) | 14 (4%) |
-| Constipation | 8 (2%) | 11(3%) |
+| Electrocardiogram QT prolongation | 5% | 3% |
+| Bradycardia | 4% | 4% |
+| Headache | 3% | 4% |
+| Constipation | 2% | 3% |
+| *Reported in at least 2% of patients in any treatment group |  |  |
 
-In these clinical trials, the following infrequently reported adverse reactions, assessed by investigators as treatment-related or causality unknown, occurred following administration of palonosetron HCl to adult patients receiving concomitant perioperative and intraoperative medications including those associated with anesthesia:
+Less common adverse reactions, reported in 1% or less of patients, in these PONV clinical trials were:
 
-Cardiovascular: 1% electrocardiogram QTc prolongation, sinus bradycardia, tachycardia; <1%: blood pressure decreased, hypotension, hypertension, arrhythmia, ventricular extrasystoles, generalized edema; ECG T wave amplitude decreased, platelet count decreased.
-The frequency of these adverse effects did not appear to be different from placebo.
-
-Dermatological: 1%: pruritus.
-
-Gastrointestinal System: 1%: flatulence, < 1%: dry mouth, upper abdominal pain, salivary hypersecretion, dyspepsia, diarrhea, intestinal hypomotility, anorexia.
-
-General: < 1%: chills.
-
-Liver: 1%: increases in AST and/or ALT< 1%: hepatic enzyme increased
-
-Metabolic: < 1%: hypokalemia, anorexia.
-
-Nervous System: < 1%: dizziness.
-
-Respiratory: < 1%: hypoventilation, laryngospasm.
-
-Urinary System: 1%: urinary retention.
+- Cardiac disorders: sinus bradycardia, tachycardia, arrhythmia, ventricular extrasystoles.
+  The frequency of these adverse effects did not appear to be different from placebo.
+- Skin and subcutaneous tissue disorders: pruritus.
+- Gastrointestinal disorders: flatulence, dry mouth, upper abdominal pain, salivary hypersecretion, dyspepsia, diarrhea, intestinal hypomotility.
+- General disorders and administration site conditions: chills, generalized edema.
+- Investigations: increases in AST and/or ALT, hepatic enzyme increased, QTc prolongation, blood pressure decreased, platelet count decreased, T wave amplitude decreased.
+- Metabolism and nutrition disorders: hypokalemia, anorexia.
+- Nervous System disorders: dizziness.
+- Respiratory, thoracic and mediastinal disorders: hypoventilation, laryngospasm.
+- Renal and urinary disorders: Urinary retention.
+- Vascular disorders: Hypotension, Hypertension.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of another intravenous formulation of palonosetron HCl.
+The following adverse reactions have been identified during postapproval use of palonosetron.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Very rare cases (<1/10,000) of hypersensitivity reactions including anaphylaxis and anaphylactic shock and injection site reactions (burning, induration, discomfort and pain) were reported from postmarketing experience of palonosetron HCl 0.25 mg in the prevention of chemotherapy- induced nausea and vomiting.
+- Hypersensitivity reactions: including dyspnea, bronchospasm, swelling/edema, erythema, pruritus, rash, urticaria, anaphylaxis and anaphylactic shock [see Warnings and Precautions (5.1)]
+- Injection site reactions: including burning, induration, discomfort and pain
