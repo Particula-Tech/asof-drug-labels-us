@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA208541"
+  ],
+  "inn": "ticagrelor",
+  "labeler": "Dr. Reddys Laboratories Inc",
+  "package_ndcs": [
+    "43598-480-18",
+    "43598-480-60",
+    "43598-480-78",
+    "43598-480-79"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ticagrelor",
+      "name": "Ticagrelor"
+    }
+  ],
+  "setid": "1225fd45-9b56-1671-ee77-cd0c9f2174a5",
+  "source": "dailymed"
+}
