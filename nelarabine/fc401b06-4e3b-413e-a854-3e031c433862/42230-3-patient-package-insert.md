@@ -78,9 +78,9 @@ Nelarabine Injection may also cause:
 - decreased blood counts such as low red blood cells, low white blood cells, and low platelets.
   Blood tests should be done regularly to check blood counts.
   Call the doctor right away if you or your child:
-
-o is more tired than usual, pale, or has trouble breathing o has a fever or other signs of an infection o bruises easy or has any unusual bleeding
-
+  - is more tired than usual, pale, or has trouble breathing
+  - has a fever or other signs of an infection
+  - bruises easy or has any unusual bleeding
 - stomach area problems such as nausea, vomiting, diarrhea, and constipation
 - headache
 - sleepiness
@@ -93,7 +93,7 @@ These are not all the side effects associated with Nelarabine Injection.
 Ask your doctor or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800- FDA-1088.
+You may report side effects to FDA at 1 800-FDA-1088.
 
 General Advice about Nelarabine Injection
 
@@ -109,6 +109,6 @@ Distributed by:
 
 Shorla Oncology Inc., Cambridge, MA 02142, USA
 
-Version: NELGIUS002
+Version: NELGIUS004
 
-Revised: Mar 2023
+Revised: Feb 2025

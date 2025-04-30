@@ -22,12 +22,12 @@ The most common adverse reactions in adults were fatigue; gastrointestinal disor
 The most common adverse reactions in adults by Body System, including severe or life-threatening adverse reactions (NCI CTCAE Grade 3 or Grade 4) and fatal adverse reactions (Grade 5) are shown in Table 1.
 
 Table 1.
-Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Adult Patients Treated With 1500 mg/m2 of Nelarabine Injection Administered Intravenously Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
+Most Commonly Reported (≥5% Overall) Adverse Reactions in Adult Patients Treated with 1,500 mg/m2 of Nelarabine Injection Administered Intravenously Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
 
-|  | Percentage of Patients (N = 103) |  |  |
+| Body System Adverse Reactions | Percentage of Patients (N=103) |  |  |
 | --- | --- | --- | --- |
-|  | Toxicity Grade |  |  |
-| Body System Adverse Reaction | Grade 3 % | Grades 4 and 5 Five (5) patients had a fatal adverse reaction. Fatal adverse reactions included hypoten-sion (n = 1), respiratory arrest (n = 1), pleural effusion/pneumothorax (n = 1), pneumonia (n = 1), and cerebral hemorrhage/coma/leukoencephalopathy (n = 1) % | All Grades % |
+| Toxicity Grade |  |  |  |
+| Grade 3 % | Grades 4 and 5a % | All Grades % |  |
 | Blood and Lymphatic System Disorders |  |  |  |
 | Anemia | 20 | 14 | 99 |
 | Thrombocytopenia | 37 | 22 | 86 |
@@ -86,26 +86,29 @@ Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Adult Patients Trea
 | Petechiae | 2 | 0 | 12 |
 | Hypotension | 1 | 1 | 8 |
 
-Abbreviation: AST, aspartate transaminase.
+Abbreviation: AST, aspartate transaminase
+
+aFive (5) patients had a fatal adverse reaction.
+Fatal adverse reactions included hypotension (n = 1), respiratory arrest (n = 1), pleural effusion/pneumothorax (n = 1), pneumonia (n = 1), and cerebral hemorrhage/ coma/ leukoencephalopathy (n = 1)
 
 Other Adverse Reactions: Blurred vision was also reported in 4% of adult patients.
 
-There was a single report of biopsy-confirmed progressive multifocal leukoenceph-alopathy in the adult patient population.
+There was a single report of biopsy-confirmed progressive multifocal leukoencephalopathy in the adult patient population.
 
 Neurologic Adverse Reactions: Nervous system adverse reactions, were reported for 76% of adult patients across the Phase I and Phase II trials.
 The most common neurologic adverse reactions (≥ 2%) in adult patients including all grades (NCI CTCAE) are shown in Table 2.
 
 Table 2.
-Neurologic Adverse Reactions (≥ 2%) in Adult Patients Treated With 1500 mg/m2 of Nelarabine Injection Administered Intravenously Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
+Neurologic Adverse Reactions (≥ 2%) in Adult Patients Treated with 1,500 mg/m2 of Nelarabine Injection Administered Intravenously Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
 
-| Nervous System Disorders Adverse Reaction | Percentage of Patients (N =103) |  |  |  |  |
+| Nervous System Disorders Adverse Reaction | Percentage of Patients (N=103) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Grade 1 % | Grade 2 % | Grade 3 % | Grade 4 % | All Grades % |
+| Grade 1 % | Grade 2 % | Grade 3 % | Grade 4 % | All Grades % |  |
 | Somnolence | 20 | 3 | 0 | 0 | 23 |
 | Dizziness | 14 | 8 | 0 | 0 | 21 |
-| Peripheral neurologic disorders, any adverse reaction | 8 | 12 | 2 | 0 | 21 |
+| Peripheral neurologic disorders, any adverse reactions | 8 | 12 | 2 | 0 | 21 |
 | Neuropathy | 0 | 4 | 0 | 0 | 4 |
-| Perippheran neu-ropathy | 2 | 2 | 1 | 0 | 5 |
+| Peripheral neuropathy | 2 | 2 | 1 | 0 | 5 |
 | Peripheral motor neuropathy | 3 | 3 | 1 | 0 | 7 |
 | Peripheral sensory neuropathy | 7 | 6 | 0 | 0 | 13 |
 | Hypoesthesia | 5 | 10 | 2 | 0 | 17 |
@@ -119,10 +122,10 @@ Neurologic Adverse Reactions (≥ 2%) in Adult Patients Treated With 1500 mg/m2 
 | Balance disorder | 1 | 1 | 0 | 0 | 2 |
 | Sensory loss | 0 | 2 | 0 | 0 | 2 |
 
-One patient had a fatal neurologic adverse reaction, cerebral hemorrhage/coma/leukoencephalopathy.
+One patient had a fatal neurologic adverse reaction, cerebral hemorrhage/coma/ leukoencephalopathy.
 
 Most nervous system adverse reactions in the adult patients were evaluated as Grade 1 or 2.
-The additional Grade 3 adverse reactions in adult patients, were apha-sia, convulsion, hemiparesis, and loss of consciousness, each reported in 1 patient (1%).
+The additional Grade 3 adverse reactions in adult patients, were aphasia, convulsion, hemiparesis, and loss of consciousness, each reported in 1 patient (1%).
 The additional Grade 4 adverse reactions were cerebral hemorrhage, coma, intracranial hemorrhage, leukoencephalopathy, and metabolic encephalopathy, each reported in one patient (1%).
 
 The other neurologic adverse reactions reported as Grade 1, 2, or unknown in adult patients were abnormal coordination, burning sensation, disturbance in attention, dysarthria, hyporeflexia, neuropathic pain, nystagmus, peroneal nerve palsy, sciatica, sensory disturbance, sinus headache, and speech disorder, each reported in one patient (1%).
@@ -135,12 +138,12 @@ Of the non-hematologic adverse reactions in pediatric patients, the most frequen
 The most common adverse reactions in pediatric patients by System Organ Class including severe or life threatening adverse reactions (NCI CTCAE Grade 3 or Grade 4) and fatal adverse reactions (Grade 5) are shown in Table 3.
 
 Table 3.
-Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Pediatric Patients Treated With 650 mg/m2 of Nelarabine Injection Administered Intravenously Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
+Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Pediatric Patients Treated with 650 mg/m2 of Nelarabine Injection Administered Intravenously Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
 
 |  | Percentage of Patients (N = 84) |  |  |
 | --- | --- | --- | --- |
-|  | Toxicity Grade |  |  |
-| Body System Adverse Reaction | Grade 3 % | Grade 4 and 5Three (3) patients had a fatal adverse reaction. Fatal adverse reactions included neutropenia and pyrexia (n = 1), status epilepticus/seizure (n = 1), and fungal pneumonia (n = 1). | All Grades % |
+| Toxicity Grade |  |  |  |
+| Grade 3 % | Grade 4 and 5% | All Grades % |  |
 | Blood and Lymphatic System Disorders |  |  |  |
 | Anemia | 45 | 10 | 95 |
 | Neutropenia | 17 | 62 | 94 |
@@ -164,15 +167,18 @@ Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Pediatric Patients 
 | Infections & Infestations |  |  |  |
 | Infection | 2 | 1 | 5 |
 
+a Three (3) patients had a fatal adverse reaction.
+Fatal adverse reactions included neutropenia and pyrexia (n = 1), status epilepticus/- seizure (n = 1), and fungal pneumonia (n = 1).
+
 Neurologic Adverse Reactions: Nervous system adverse reactions were reported for 42% of pediatric patients across the Phase I and Phase II trials.
 The most common neurologic adverse reactions (≥ 2%) in pediatric patients including all grades (NCI CTCAE) are shown in Table 4.
 
 Table 4.
-Neurologic Adverse Reactions (≥ 2%) in Pediatric Patients Treated With 650 mg/m2 of Nelarabine Injection Administered Intravenously Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
+Neurologic Adverse Reactions (≥ 2%) in Pediatric Patients Treated with 650 mg/m2 of Nelarabine Injection Administered Intravenously Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
 
-|  | Percentage of Patients (N = 84) |  |  |  |  |
+| Nervous System Disorders Adverse Reaction | Percentage of Patients (N = 84) |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Nervous System Disorders Adverse Reaction | Grade 1 % | Grade 2 % | Grade 3 % | Grade 4 and 5One (1) patient had a fatal neurologic adverse reaction, status epilepticus. % | All Grades % |
+| Grade 1 % | Grade 2 % | Grade 3 % | Grade 4 and 5a % | All Grades % |  |
 | Headache | 8 | 2 | 4 | 2 | 17 |
 | Peripheral neurologic disorders, any adverse reaction | 1 | 4 | 7 | 0 | 12 |
 | Peripheral neuropathy | 0 | 4 | 2 | 0 | 6 |
@@ -190,6 +196,8 @@ Neurologic Adverse Reactions (≥ 2%) in Pediatric Patients Treated With 650 mg/
 | Tremor | 1 | 2 | 0 | 0 | 4 |
 | Ataxia | 1 | 0 | 1 | 0 | 2 |
 
+a One (1) patient had a fatal neurologic adverse reaction, status epilepticus.
+
 The other Grade 3 neurologic adverse reaction in pediatric patients was hypertonia reported in 1 patient (1%).
 The additional Grade 4 neurologic adverse reactions, were third nerve paralysis, and sixth nerve paralysis, each reported in 1 patient (1%).
 
@@ -198,9 +206,9 @@ The other neurologic adverse reactions reported as Grade 1, 2, or unknown in ped
 Nelarabine Injection in Combination with Multi-Agent Chemotherapy in T-ALL and T-LBL
 
 Nelarabine Injection was studied in combination with multi-agent chemotherapy in a randomized clinical trial [NCT00408005].
-The safety population in this trial included 804 patients with newly-diagnosed T- ALL (85%) or T-LBL (15%) treated with (n = 411) or without (n =393) Nelarabine Injection in combination with the augmented Berlin-Frankfurt-Münster chemotherapy regimen (aBFM) after initial induction therapy.
+The safety population in this trial included 804 patients with newly diagnosed T-ALL (85%) or T-LBL (15%) treated with (n = 411) or without (n = 393) Nelarabine Injection in combination with the augmented Berlin-Frankfurt-Münster chemotherapy regimen (aBFM) after initial induction therapy.
 Patients assigned to Nelarabine Injection received 650 mg/m2 intravenously over 1 hour daily for 5 consecutive days, during consolidation Days 1 to 5 and 43 to 47, delayed intensification Days 29 to 33, and during the initial 3 courses of maintenance Days 29 to 33.
-The median age on enrollment was 9.5 years (range: 1-29), the majority of patients were male (73%) and white (69%).
+The median age on enrollment was 9.5 years (range: 1-29), the majority of patients were male (73%) and White (69%).
 Sixty-five percent of patients assigned to the Nelarabine Injection arms received at least 85% of the planned dose through the third course of maintenance therapy compared to 79% of patients on the control arms who received 3 courses of maintenance therapy.
 
 There was one fatal neurological adverse reaction in the Nelarabine Injection arm.
@@ -219,4 +227,4 @@ Metabolism and Nutrition Disorders: Tumor lysis syndrome
 
 Nervous System Disorders: Demyelination and ascending peripheral neuropathies similar in appearance to Guillain-Barré syndrome
 
-Musculoskeletal and Connective Disorders: Rhabdomyolysis, blood creatine phosphokinase increased
+Musculoskeletal and Connective Disorders: Rhabdomyolysis, blood creatine phosphokinase increased.

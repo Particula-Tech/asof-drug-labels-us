@@ -25,7 +25,7 @@ Vaccinations
 Effects on Ability to Drive and Use Machines
 
 - Patients receiving Nelarabine Injection may experience somnolence during and for several days after treatment.
-  Instruct patients to not drive or engage in haz-ardous occupations or activities until somnolence has resolved [see Warnings and Precautions (5.6), Adverse Reactions (6.1)].
+  Instruct patients to not drive or engage in hazardous occupations or activities until somnolence has resolved [see Warnings and Precautions (5.6), Adverse Reactions (6.1)].
 
 Neurologic Adverse Reactions
 
@@ -42,4 +42,12 @@ Lactation
 
 - Advise women not to breastfeed during treatment with Nelarabine Injection [see Use in Specific Populations (8.2)].
 
-Manufactured by: AqVida GmbH, Dassow, Germany Manufactured for: Shorla Oncology, Clonmel, Co. Tipperary, Ireland Distributed by: Shorla Oncology Inc., Cambridge, MA 02142, USA
+Manufactured by: AqVida GmbH, Dassow, Germany
+
+Manufactured for: Shorla Oncology, Clonmel, Co. Tipperary, Ireland
+
+Distributed by:
+
+Shorla Oncology Inc.,
+
+Cambridge, MA 02142, USA

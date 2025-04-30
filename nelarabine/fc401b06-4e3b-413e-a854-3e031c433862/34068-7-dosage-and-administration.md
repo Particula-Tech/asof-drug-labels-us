@@ -1,10 +1,10 @@
-# 2 DOSAGE AND ADMINISTRATION
+# 2. DOSAGE AND ADMINISTRATION
 
 ## 2.1 Recommended Dosage
 
 This product is for intravenous use only.
 
-Adult Dosage: The recommended adult dose of Nelarabine Injection is 1500 mg/m2 administered intravenously over 2 hours on Days 1, 3, and 5 repeated every 21 days.
+Adult Dosage: The recommended adult dose of Nelarabine Injection is 1,500 mg/m2 administered intravenously over 2 hours on Days 1, 3, and 5 repeated every 21 days.
 Administer Nelarabine Injection undiluted.
 
 Pediatric Dosage: The recommended pediatric dose of Nelarabine Injection is 650 mg/m2 administered intravenously over 1 hour daily for 5 consecutive days repeated every 21 days.

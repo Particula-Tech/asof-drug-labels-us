@@ -1,9 +1,11 @@
 # 11 DESCRIPTION
 
-Nelarabine Injection is a prodrug of the cytotoxic deoxyguanosine analogue, 9-β-D- arabinofuranosylguanine (ara-G).
+Nelarabine Injection is a prodrug of the cytotoxic deoxyguanosine analogue, 9-β-D-arabinofuranosylguanine (ara-G).
 
-The chemical name for nelarabine is 2-amino-9-β-D-arabinofuranosyl-6-me-thoxy-9H-purine.
+The chemical name for nelarabine is 2-amino-9-β-D-arabinofuranosyl-6-methoxy-9H-purine.
+
 It has the molecular formula C11H15N5O5 and a molecular weight of 297.27.
+
 Nelarabine has the following structural formula:
 
 Nelarabine Injection is supplied as a clear, colorless, sterile solution in glass single-dose vials.

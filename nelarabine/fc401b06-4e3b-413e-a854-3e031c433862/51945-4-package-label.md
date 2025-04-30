@@ -22,7 +22,7 @@ Carton
 
 # Principal Display Panel
 
-NDC 81927-111-06
+DC 81927-111-06
 
 Rx Only
 
@@ -34,7 +34,7 @@ Nelarabine Injection
 
 For Intravenous Infusion Only
 
-6 X 50 mL Single-Dose Vial
+Contains six Single-Dose Vial
 
 Discard Unused Portion
 
