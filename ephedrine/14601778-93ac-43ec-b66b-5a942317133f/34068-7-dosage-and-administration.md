@@ -20,7 +20,7 @@ Administer additional boluses as needed, not to exceed a total dosage of 50 mg.
 
 ## 2.3 Instructions for Use of Prefilled Syringe
 
-The proper method of administration of EMERPHED injection is described in the following instructions.
+The proper method of administration of EMERPHED-PFS injection is described in the following instructions.
 
 For each single-dose prefilled syringe:
 
@@ -39,8 +39,7 @@ For each single-dose prefilled syringe:
    - Before injection, ensure that the syringe is securely attached to the needle or needleless luer access device (NLAD).
 10. Depress plunger rod to deliver medication.
     Ensure that pressure is maintained on the plunger rod during the entire administration.
-11. Remove syringe from NLAD (if applicable) and discard into appropriate receptacle.
-    NOTE: All steps must be done sequentially
+11. Remove syringe from NLAD (if applicable) and discard into appropriate receptacle.NOTE: All steps must be done sequentially
     - To prevent needle stick injuries, do not recap needle when needle is connected to syringe.
     - Do not re-sterilize syringe
     - Do not use this product on a sterile field

@@ -1,6 +1,6 @@
 # 11. DESCRIPTION
 
-EMERPHED (ephedrine sulfate injection) is a clear, colorless, sterile solution for intravenous injection.
+EMERPHED / EMERPHED-PFS (ephedrine sulfate injection) is a clear, colorless, sterile solution for intravenous injection.
 The chemical name of ephedrine sulfate is benzenemethanol, α-[1-(methylamino)ethyl]-, [R-(R*,S*)]-, sulfate (2:1) (salt), and the molecular weight is 428.5 g/mol.
 Its structural formula is depicted below:
 

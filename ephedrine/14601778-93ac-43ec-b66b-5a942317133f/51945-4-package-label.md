@@ -4,7 +4,9 @@ NDC 14789-252-10
 
 Rx Only
 
-EMERPHED® (ephedrine sulfate injection)
+EMERPHED®-PFS
+
+(ephedrine sulfate injection)
 
 50 mg/10 mL (5 mg/mL) (equivalent to 38 mg/10 mL ephedrine base)
 
@@ -22,7 +24,9 @@ NDC 14789-252-09
 
 Rx Only
 
-EMERPHED® (ephedrine sulfate injection)
+EMERPHED®-EPF
+
+(ephedrine sulfate injection)
 
 50 mg/10 mL (5 mg/mL) (equivalent to 38 mg/5 mL ephedrine base)
 
@@ -38,7 +42,9 @@ NDC 14789-251-10
 
 Rx Only
 
-EMERPHED® (ephedrine sulfate injection)
+EMERPHED®-EPF
+
+(ephedrine sulfate injection)
 
 25 mg/5 mL (5 mg/mL) (equivalent to 19 mg/5 mL ephedrine base)
 
@@ -56,7 +62,9 @@ NDC 14789-251-09
 
 Rx Only
 
-EMERPHED® (ephedrine sulfate injection)
+EMERPHED®-EPF
+
+(ephedrine sulfate injection)
 
 25 mg/5 mL (5 mg/mL) (equivalent to 19 mg/5 mL ephedrine base)
 
