@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208183"
+  ],
+  "inn": "halobetasol",
+  "labeler": "Lacer Pharma, LLC",
+  "package_ndcs": [
+    "73159-008-60"
+  ],
+  "products": [
+    {
+      "form": "LOTION",
+      "generic": "halobetasol propionate",
+      "name": "ULTRAVATE"
+    }
+  ],
+  "setid": "74e899db-1c1f-48b2-9913-5d32a14906ae",
+  "source": "dailymed"
+}
