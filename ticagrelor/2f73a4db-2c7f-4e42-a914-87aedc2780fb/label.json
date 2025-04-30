@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA208567"
+  ],
+  "inn": "ticagrelor",
+  "labeler": "Ascend Laboratories, LLC",
+  "package_ndcs": [
+    "67877-491-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "ticagrelor",
+      "name": "Ticagrelor"
+    }
+  ],
+  "setid": "2f73a4db-2c7f-4e42-a914-87aedc2780fb",
+  "source": "dailymed"
+}
