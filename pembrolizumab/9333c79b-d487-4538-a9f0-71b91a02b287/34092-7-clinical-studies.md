@@ -2031,14 +2031,17 @@ Patients were randomized (2:1) to one of the following two treatment arms; all s
     - Cyclophosphamide 600 mg/m2 every 3 weeks on Day 1 of cycles 5-8 of treatment regimen
   - Following surgery, nine cycles of placebo every 3 weeks were administered.
 
+The trial was not designed to isolate the effect of KEYTRUDA in each phase (neoadjuvant or adjuvant) of treatment.
+
 The main efficacy outcomes were pCR rate and EFS. pCR was defined as absence of invasive cancer in the breast and lymph nodes (ypT0/Tis ypN0) and was assessed by the blinded local pathologist at the time of definitive surgery.
 EFS was defined as the time from randomization to the first occurrence of any of the following events: progression of disease that precludes definitive surgery, local or distant recurrence, second primary malignancy, or death due to any cause.
 An additional efficacy outcome was overall survival (OS).
 
 The study population characteristics were: median age of 49 years (range: 22 to 80), 11% age 65 or older; 99.9% female; 64% White, 20% Asian, 4.5% Black, and 1.8% American Indian or Alaska Native; 87% ECOG PS of 0 and 13% ECOG PS of 1; 56% were pre-menopausal status and 44% were post-menopausal status; 7% were primary Tumor 1 (T1), 68% T2, 19% T3, and 7% T4; 49% were nodal involvement 0 (N0), 40% N1, 11% N2, and 0.2% N3; 75% of patients were overall Stage II and 25% were Stage III.
 
-Table 103 and Figure 38 summarize the efficacy results for KEYNOTE-522.
-At the protocol pre-specified IA4 interim analysis of OS, OS data were not mature with 45% of the required events for the final analysis.
+Statistically significant improvements in pCR, EFS, and OS were demonstrated at pre-specified interim analyses for patients randomized to KEYTRUDA in combination with chemotherapy followed by KEYTRUDA as a single agent compared with patients randomized to placebo in combination with chemotherapy followed by placebo alone.
+
+Table 103 and Figures 38 and 39 summarize the efficacy results for KEYNOTE-522.
 
 Table 103: Efficacy Results in KEYNOTE-522
 
@@ -2046,14 +2049,21 @@ Table 103: Efficacy Results in KEYNOTE-522
 | --- | --- | --- |
 | pCR (ypT0/Tis ypN0)Based on the entire intention-to-treat population n=1174 patients |  |  |
 | Number of patients with pCR | 494 | 217 |
-| pCR Rate (%), (95% CI) | 63.0 (59.5, 66.4) | 55.6 (50.6, 60.6) |
+| pCR rate (%), (95% CI) | 63.0 (59.5, 66.4) | 55.6 (50.6, 60.6) |
 | Treatment difference (%) estimate (95% CI)Based on a pre-specified pCR interim analysis in n=602 patients, the pCR rate difference was statistically significant (p=0.00055 compared to a significance level of 0.003).,Based on Miettinen and Nurminen method stratified by nodal status, tumor size, and choice of carboplatin | 7.5 (1.6, 13.4) |  |
 | EFS |  |  |
 | Number of patients with event (%) | 123 (16%) | 93 (24%) |
 | Hazard ratio (95% CI)Based on stratified Cox regression model | 0.63 (0.48, 0.82) |  |
 | p-ValueBased on a pre-specified EFS interim analysis (compared to a significance level of 0.0052),Based on log-rank test stratified by nodal status, tumor size, and choice of carboplatin | 0.00031 |  |
+| OS |  |  |
+| Number of patients with event (%) | 115 (15%) | 85 (22%) |
+| Hazard ratio (95% CI) | 0.66 (0.50, 0.87) |  |
+| p-Value,Based on a pre-specified OS interim analysis (compared to a significance level of 0.0050) | 0.00150 |  |
 
 | Figure 38: Kaplan-Meier Curve for Event-Free Survival in KEYNOTE-522 |
+| --- |
+
+| Figure 39: Kaplan-Meier Curve for Overall Survival in KEYNOTE-522 |
 | --- |
 
 Locally Recurrent Unresectable or Metastatic TNBC
@@ -2074,7 +2084,7 @@ Additional efficacy outcome measures were ORR and DoR as assessed by BICR.
 The study population characteristics for patients were: median age of 53 years (range: 22 to 85), 21% age 65 or older; 100% female; 68% White, 21% Asian, and 4% Black; 60% ECOG PS of 0 and 40% ECOG PS of 1; and 68% were post-menopausal status.
 Seventy-five percent of patients had tumor PD-L1 expression CPS ≥1 and 38% had tumor PD-L1 expression CPS ≥10.
 
-Table 104 and Figures 39 and 40 summarize the efficacy results for KEYNOTE-355.
+Table 104 and Figures 40 and 41 summarize the efficacy results for KEYNOTE-355.
 
 Table 104: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 
@@ -2097,10 +2107,10 @@ Table 104: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 | Duration of Response | n=116 | n=42 |
 | Median in months (95% CI) | 12.8 (9.9, 25.9) | 7.3 (5.5, 15.4) |
 
-| Figure 39: Kaplan-Meier Curve for Overall Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 40: Kaplan-Meier Curve for Overall Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
-| Figure 40: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
+| Figure 41: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
 
 ## 14.21 Adult Classical Hodgkin Lymphoma and Adult Primary Mediastinal Large B-Cell Lymphoma: Additional Dosing Regimen of 400 mg Every 6 Weeks
