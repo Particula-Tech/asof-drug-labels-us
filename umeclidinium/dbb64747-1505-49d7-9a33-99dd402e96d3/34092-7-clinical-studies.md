@@ -122,12 +122,12 @@ INCRUSE ELLIPTA + FP/SAL demonstrated a larger mean change from baseline in trou
 Table 4.
 Least Squares Mean Change from Baseline in Trough FEV1 (mL) at Day 85 in the Intent-to-Treat Population (Trial 6)
 
-| Treatment | n | Trough FEV1 (mL) at Day 85 |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Difference from Placebo + FP/SAL(95% CI)n = 205 |  |  |  |  |  |
-| INCRUSE ELLIPTA+FP/SAL | n = 204 | 147 (107, 187) |  |  |  |
-| FP/SAL = fluticasone propionate/salmeterol. |  |  |  |  |  |
-| n = Number in intent-to-treat population. |  |  |  |  |  |
+| Treatment | n | Trough FEV1 (mL) at Day 85 |
+| --- | --- | --- |
+| Difference from Placebo + FP/SAL(95% CI)n = 205 |  |  |
+| INCRUSE ELLIPTA+FP/SAL | n = 204 | 147 (107, 187) |
+| FP/SAL = fluticasone propionate/salmeterol. |  |  |
+| n = Number in intent-to-treat population. |  |  |
 
 Exacerbations
 
@@ -147,10 +147,10 @@ A reduction in risk of on-treatment moderate/severe exacerbation (as measured by
 Table 5.
 Moderate and Severe Chronic Obstructive Pulmonary Disease Exacerbations (Trial 8)
 
-| Treatment | n | Mean Annual Rate(exacerbations/year) | FF/UMEC/VI Rate Ratio vs. Comparator(95% CI) | % Reduction in Exacerbation Rate(95% CI) | P Value |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FF/UMEC/VI | 4,145 | 0.91 |  |  |  |  |  |  |  |  |  |
-| FF/VI | 4,133 | 1.07 | 0.85(0.80, 0.90) | 15(10, 20) | P<0.001 |  |  |  |  |  |  |
-| UMEC/VI | 2,069 | 1.21 | 0.75(0.70, 0.81) | 25(19, 30) | P<0.001 |  |  |  |  |  |  |
-| FF/UMEC/VI = Fluticasone furoate/umeclidinium/vilanterol 100 mcg/62.5 mcg/25 mcg, FF/VI = Fluticasone furoate/vilanterol 100 mcg/25 mcg, UMEC/VI = Umeclidinium/vilanterol 62.5 mcg/25 mcg. |  |  |  |  |  |  |  |  |  |  |  |
-| a On-treatment analyses excluded exacerbation data collected after discontinuation of study treatment. |  |  |  |  |  |  |  |  |  |  |  |
+| Treatment | n | Mean Annual Rate(exacerbations/year) | FF/UMEC/VI Rate Ratio vs. Comparator(95% CI) | % Reduction in Exacerbation Rate(95% CI) | P Value |
+| --- | --- | --- | --- | --- | --- |
+| FF/UMEC/VI | 4,145 | 0.91 |  |  |  |
+| FF/VI | 4,133 | 1.07 | 0.85(0.80, 0.90) | 15(10, 20) | P<0.001 |
+| UMEC/VI | 2,069 | 1.21 | 0.75(0.70, 0.81) | 25(19, 30) | P<0.001 |
+| FF/UMEC/VI = Fluticasone furoate/umeclidinium/vilanterol 100 mcg/62.5 mcg/25 mcg, FF/VI = Fluticasone furoate/vilanterol 100 mcg/25 mcg, UMEC/VI = Umeclidinium/vilanterol 62.5 mcg/25 mcg. |  |  |  |  |  |
+| a On-treatment analyses excluded exacerbation data collected after discontinuation of study treatment. |  |  |  |  |  |

@@ -47,7 +47,7 @@ Adverse reactions that occurred with a frequency ≥1% in subjects receiving ume
 
 The safety and efficacy of INCRUSE ELLIPTA in combination with an inhaled corticosteroid/long-acting beta2-adrenergic agonist (ICS/LABA) were also evaluated in four 12‑week clinical trials (Trial 4, Trial 5, Trial 6, and Trial 7).
 A total of 1,637 subjects with COPD across four 12‑week, randomized, double-blind clinical trials received at least 1 dose of INCRUSE ELLIPTA (62.5 mcg) or placebo administered once daily in addition to background ICS/LABA (mean age: 64 years, 88% white, 65% male across all treatments).
-Two trials (Trials 4 and 5) evaluated INCRUSE ELLIPTA in combination with fluticasone furoate/vilanterol (FF/VI) 100 mcg/25 mcg administered once daily, and 2 trials (Trials 6 and 7) evaluated INCRUSE ELLIPTA administered once daily in combination with fluticasone propionate/salmeterol (FP/SAL) 250 mcg/50 mcg administered twice daily [see Clinical Studies (14.3)].
+Two trials (Trials 4 and 5) evaluated INCRUSE ELLIPTA in combination with fluticasone furoate/vilanterol (FF/VI) 100 mcg/25mcg administered once daily, and 2 trials (Trials 6 and 7) evaluated INCRUSE ELLIPTA administered once daily in combination with fluticasone propionate/salmeterol (FP/SAL) 250 mcg/50 mcg administered twice daily [see Clinical Studies (14.3)].
 Adverse reactions that occurred with INCRUSE ELLIPTA in combination with an ICS/LABA were similar to those reported with INCRUSE ELLIPTA as monotherapy.
 In addition to the umeclidinium monotherapy adverse reactions reported above, adverse reactions occurring with INCRUSE ELLIPTA in combination with an ICS/LABA, at an incidence of ≥1% and exceeding ICS/LABA alone, were oropharyngeal pain and dysgeusia.
 
