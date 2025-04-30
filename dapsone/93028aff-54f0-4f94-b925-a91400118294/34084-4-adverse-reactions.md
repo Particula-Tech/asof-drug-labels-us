@@ -5,7 +5,7 @@ In addition to the warnings listed above, the following syndromes and serious re
 Hematologic Effects
 
 Dose-related hemolysis is the most common adverse effect and is seen in patients with or without G6PD deficiency.
-Almost all patients demonstrate the inter-related changes of a loss or 1 to 2g of hemoglobin, an increase in the reticulocytes (2 to 12%), a shortened red cell life span and a rise in methemoglobin.
+Almost all patients demonstrate the inter-related changes of a loss of 1 to 2g of hemoglobin, an increase in the reticulocytes (2 to 12%), a shortened red cell life span and a rise in methemoglobin.
 G6PD deficient patients have greater responses.
 
 Nervous System Effects
@@ -17,6 +17,12 @@ Recovery on withdrawal is usually substantially complete.
 The mechanism of recovery is reported by axonal regeneration.
 Some recovered patients have tolerated retreatment at reduced dosage.
 In leprosy this complication may be difficult to distinguish from a leprosy reactional state.
+
+Falsely Reduced HbA1c
+
+Falsely reduced HbA1c measurements have been reported with dapsone use.
+Alternate measures of glycemic control (e.g., fructosamine and/or more frequent blood glucose monitoring) are recommended when a discordance between HbA1c and blood glucose concentrations are observed or suspected.
+Falsely reduced HbA1c may occur without overt evidence of hemolysis or anemia.
 
 Body As A Whole
 
