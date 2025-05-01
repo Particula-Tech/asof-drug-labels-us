@@ -60,7 +60,7 @@ Nervous System: convulsions, coma, hallucinations, meningitis
 
 Respiratory System: respiratory depression, pneumonia
 
-Skin and Appendages: angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, urticaria
+Skin and Appendages: angioedema, toxic epidermal necrolysis, erythema multiforme, exfoliative dermatitis, Stevens-Johnson syndrome, fixed drug eruption (FDE), urticaria
 
 Special Senses: conjunctivitis, hearing impairment
 
