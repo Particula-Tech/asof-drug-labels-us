@@ -2,9 +2,9 @@
 
 For oral inhalation only.
 Do not swallow tiotropium bromide inhalation powder capsules, as the intended effects on the lungs will not be obtained.
-The contents of the tiotropium bromide inhalation powder capsules should only be used with the LupinHaler™ device [see Overdosage (10)].
+The contents of the tiotropium bromide inhalation powder capsules should only be used with the LupinHaler® device [see Overdosage (10)].
 
-The recommended dose of tiotropium bromide inhalation powder is two inhalations of the powder contents of one tiotropium bromide inhalation powder capsule, once-daily, with the LupinHaler device [see Patient Counseling Information (17)].
+The recommended dosage of tiotropium bromide inhalation powder is two inhalations of the powder contents of one tiotropium bromide inhalation powder capsule, once-daily, with the LupinHaler device [see Patient Counseling Information (17)].
 Do not take more than one dose in 24 hours.
 
 For administration of tiotropium bromide inhalation powder, a tiotropium bromide inhalation powder capsule is placed into the center chamber of the LupinHaler device.

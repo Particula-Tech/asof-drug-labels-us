@@ -1,7 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Tiotropium bromide inhalation powder consists of tiotropium bromide inhalation powder capsules and the LupinHaler device.
-Tiotropium bromide inhalation powder capsules contain 18 mcg of tiotropium in a hypromellose capsule with white opaque cap and white opaque body, imprinted with "LU" on cap and "T18" on body.
+Tiotropium bromide inhalation powder capsules contain 18 mcg of tiotropium (equivalent to 22.5 mcg tiotropium bromide monohydrate USP) in a hypromellose capsule with white opaque cap and white opaque body, imprinted with "LU" on cap and "T18" on body.
 
 The LupinHaler device is a white colour inhaler with a green piercing button.
 It is also imprinted with LupinHaler, Tiotropium Bromide Inhalation Powder and the LUPIN company Logo.
@@ -20,7 +20,7 @@ Do not get powder into eyes.
 
 Storage
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 The Tiotropium Bromide Inhalation Powder Capsules should not be exposed to extreme temperature or moisture.
 Do not store Tiotropium Bromide Inhalation Powder Capsules in the LupinHaler device.

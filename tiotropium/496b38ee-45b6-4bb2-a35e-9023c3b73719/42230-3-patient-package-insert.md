@@ -7,7 +7,7 @@ Tiotropium Bromide Inhalation Powder
 Do NOT swallow Tiotropium Bromide Inhalation Powder Capsules.
 
 Important Information: Do not swallow tiotropium bromide inhalation powder capsules.
-Tiotropium bromide inhalation powder capsules should only be used with the LupinHaler™ device and inhaled through your mouth (oral inhalation).
+Tiotropium bromide inhalation powder capsules should only be used with the LupinHaler® device and inhaled through your mouth (oral inhalation).
 
 Read the information that comes with your tiotropium bromide inhalation powder before you start using it and each time you refill your prescription.
 There may be new information.
@@ -77,14 +77,14 @@ How should I take tiotropium bromide inhalation powder?
 - Read the "Instructions for Use" at the end of this leaflet before you use tiotropium bromide inhalation powder.
   Talk with your doctor if you do not understand the instructions.
 - Do not swallow tiotropium bromide inhalation powder capsules.
-- Only use tiotropium bromide inhalation powder capsules with the LupinHalerdevice.
+- Only use tiotropium bromide inhalation powder capsules with the LupinHaler device
 - Do not use the LupinHaler device to take any other medicine.
 - Tiotropium bromide inhalation powder comes as a powder in a tiotropium bromide inhalation powder capsule that fits the LupinHaler device.
   Each tiotropium bromide inhalation powder capsule, containing only a small amount of tiotropium bromide inhalation powder, is one full dose of medicine.
 - Separate one blister from the blister card.
   Then take out one of the tiotropium bromide inhalation powder capsules from the blister package right before you use it.
 - After the capsule is pierced, take a complete dose of tiotropium bromide inhalation powder by breathing in the powder by mouth two times, using the LupinHaler device (take 2 inhalations from one tiotropium bromide inhalation powder capsule).
-  See the "Instructions for Use " at the end of this leaflet.
+  See the "Instructions for Use" at the end of this leaflet.
 - Throw away any tiotropium bromide inhalation powder capsule that is not used right away after it is taken out of the blister package.
   Do not leave the tiotropium bromide inhalation powder capsules open to air; they may not work as well.
 - If you miss a dose, take it as soon as you remember.
@@ -172,7 +172,7 @@ It may harm them.
 For more information about tiotropium bromide inhalation powder, talk with your doctor.
 You can ask your doctor or pharmacist for information about tiotropium bromide inhalation powder that is written for health professionals.
 
-For more information about tiotropium bromide inhalation powder, visit our website at www.lupinpharmaceuticals.com, or call Lupin Pharmaceuticals, Inc. at 1-800-399-2561.
+For current prescribing information for tiotropium bromide inhalation powder, visit our website at www.lupin.com/US/lupinhaler/, or for additional information you may also call Lupin Pharmaceuticals, Inc. at 1-800-399-2561.
 
 What are the ingredients in tiotropium bromide inhalation powder?
 
@@ -192,7 +192,7 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 Instructions for Use
 
-Tiotropium Bromide (tye-oh-TROE-pee-um BROE-mide) Inhalation Powder LupinHaler™
+Tiotropium Bromide (tye-oh-TROE-pee-um BROE-mide) Inhalation Powder LupinHaler®
 
 Do NOT swallow Tiotropium Bromide Inhalation Powder Capsules.
 
@@ -371,11 +371,11 @@ Helpful Hints to help ensure that you are properly taking your full daily dose o
   If pieces or powder are seen, tap out before use.
 - Clean your LupinHaler as needed and dry thoroughly.
 
-For more information, ask your doctor or pharmacist, or visit our website at www.lupinpharmaceuticals.com, or contact Lupin Pharmaceuticals, Inc. at 1-800-399-2561.
+For current prescribing information for tiotropium bromide inhalation powder, visit our website at www.lupin.com/US/lupinhaler/, or for additional information you may also call Lupin Pharmaceuticals, Inc. at 1-800-399-2561.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-LupinHaler™ is a trademark of Lupin Pharmaceuticals, Inc.
+LupinHaler® is a registered trademark of Lupin Limited.
 
 ®The other brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
 
@@ -383,7 +383,7 @@ Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
@@ -395,4 +395,4 @@ Pithampur (M.P.) - 454 775
 
 India
 
-October 2024 ID#: 275971
+May 2025 ID#:278818
