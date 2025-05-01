@@ -57,7 +57,7 @@ However, periodic liver enzyme determinations should be made when treating patie
 
 Prescribing clindamycin hydrochloride capsules in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-Due to the risk of esophagitis and esophageal ulcer, it is important to ensure adherence with administration guidance (See DOSAGE AND ADMINISTRATION and ADVERSE REACTIONS).
+Due to the risk of esophagitis and esophageal ulcer, it is important to ensure adherence with administration guidance (See DOSAGE AND ADMINISTRATIONand ADVERSE REACTIONS).
 
 ## Information for Patients
 
@@ -70,7 +70,7 @@ Diarrhea is a common problem caused by antibiotics which usually ends when the a
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
 
-Advise patients that due to the risk of esophagitis and esophageal ulcer, it is important to adhere to the administration guidance for clindamycin hydrochloride capsules (See DOSAGE AND ADMINISTRATION and ADVERSE REACTIONS).
+Advise patients that due to the risk of esophagitis and esophageal ulcer, it is important to adhere to the administration guidance for clindamycin hydrochloride capsules (See DOSAGE AND ADMINISTRATIONand ADVERSE REACTIONS).
 
 ## Laboratory Tests
 
