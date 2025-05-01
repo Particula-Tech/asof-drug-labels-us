@@ -10,7 +10,7 @@ DISPENSE WITH MEDICATION GUIDE
 
 60 Tablets
 
-PadagisTM
+Padagis®
 
 # PRINCIPAL DISPLAY PANEL - 12.5 mg/1000 mg Tablet Bottle Label
 
@@ -24,4 +24,4 @@ DISPENSE WITH MEDICATION GUIDE
 
 60 Tablets
 
-PadagisTM
+Padagis®
