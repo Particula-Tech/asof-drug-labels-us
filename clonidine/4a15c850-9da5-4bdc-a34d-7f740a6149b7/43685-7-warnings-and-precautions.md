@@ -23,6 +23,7 @@ Advise patients to avoid use with alcohol.
 Abrupt discontinuation of ONYDA XR can cause rebound hypertension.
 In adults with hypertension, sudden cessation of clonidine extended-release formulation treatment in the 0.2 to 0.6 mg per day range resulted in reports of headache, tachycardia, nausea, flushing, warm feeling, brief lightheadedness, tightness in chest, and anxiety.
 In adults with hypertension, sudden cessation of treatment with immediate-release clonidine has, in some cases, resulted in symptoms such as nervousness, agitation, headache, and tremor accompanied or followed by a rapid rise in blood pressure and elevated catecholamine concentrations in the plasma.
+Pediatric patients with gastrointestinal illnesses that lead to vomiting may result in missed doses of ONYDA XR, increasing the risk for rebound hypertension.
 
 No studies evaluating abrupt discontinuation of clonidine hydrochloride extended-release tablets in pediatric patients with ADHD have been conducted; however, to minimize the risk of rebound hypertension, gradually reduce the dose of ONYDA XR in decrements of no more than 0.1 mg every 3 to 7 days.
 Patients should be instructed not to discontinue ONYDA XR therapy without consulting their physician due to the potential risk of withdrawal effects.

@@ -34,7 +34,8 @@ Also advise patients to avoid the use of ONYDA XR with other centrally active de
 
 Rebound Hypertension
 
-Advise patients not to discontinue ONYDA XR abruptly [see Warnings and Precautions (5.3)].
+Advise patients not to discontinue ONYDA XR abruptly.
+Inform patients and caregivers that pediatric patients with gastrointestinal illnesses that lead to vomiting may be at increased risk for rebound hypertension [see Warnings and Precautions (5.3)].
 
 Allergic Reactions
 
@@ -63,4 +64,4 @@ www.trispharma.com
 LB8735
 
 Rev.
-04
+05
