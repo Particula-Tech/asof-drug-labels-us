@@ -46,6 +46,6 @@
 | This Medication Guide summarizes the most important information about alogliptin tablets. If you would like to know more information, talk with your doctor. You can ask your doctor or pharmacist for information about alogliptin tablets that is written for health professionals. |  |  |  |  |  |
 | For more information go to www.padagis.com or call 1-877-TAKEDA-7 (1-877-825-3327). |  |  |  |  |  |
 | What are the ingredients in alogliptin tablets? Active ingredient: alogliptin Inactive ingredients: croscarmellose sodium, hydroxypropyl cellulose, mannitol, and microcrystalline cellulose. In addition, the film-coating contains the following inactive ingredients: ferric oxide (red or yellow), hypromellose, polyethylene glycol and titanium dioxide is marked with printing ink (Gray F1). |  |  |  |  |  |
-| Distributed by: Allegan, MI 49010 • www.padagis.com |  |  |  |  |  |
-| All trademarks are the property of their respective owners. |  |  |  |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  | ALO332 R8 | July 2023 |
+| Manufactured for Padagis®, Minneapolis, MN 55427 • www.padagis.com |  |  |  |  |  |
+| and PADAGIS are registered trademarks of Padagis US LLC. |  |  |  |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  | ALO332 R9 | April 2025 |

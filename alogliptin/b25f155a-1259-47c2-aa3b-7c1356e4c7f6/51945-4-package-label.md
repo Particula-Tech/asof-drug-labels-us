@@ -8,7 +8,7 @@ DISPENSE WITH MEDICATION GUIDE
 
 30 Tablets
 
-Padagis™
+Padagis®
 
 # PRINCIPAL DISPLAY PANEL - 12.5 mg Tablet Bottle Label
 
@@ -20,7 +20,7 @@ DISPENSE WITH MEDICATION GUIDE
 
 30 Tablets
 
-Padagis™
+Padagis®
 
 # PRINCIPAL DISPLAY PANEL - 25 mg Tablet Bottle Label
 
@@ -32,4 +32,4 @@ DISPENSE WITH MEDICATION GUIDE
 
 30 Tablets
 
-Padagis™
+Padagis®
