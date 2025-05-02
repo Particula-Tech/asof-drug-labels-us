@@ -4,7 +4,7 @@ WARNING: Hazardous drug
 
 NDC 81927-204-01
 
-Jylamvo
+JylamvoTM
 
 (methotrexate)
 
@@ -24,7 +24,7 @@ WARNING: hazardous drug
 
 NDC 81927-204-01
 
-Jylamvo
+JylamvoTM
 
 (methotrexate)
 

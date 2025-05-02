@@ -6,7 +6,7 @@ Verify pregnancy status in females of reproductive potential before starting JYL
 
 Instruct patients and caregivers on how to measure and administer the recommended dosage using the copackaged syringe and bottle adaptor as directed, because medication errors have led to deaths [see Warnings and Precautions (5.9)].
 
-Ensure patients and caregivers understand the instructions provided in the Patient Information on proper dosing of Jylamvo based on volume (mL) utilizing the copackaged syringe before use.
+Ensure patients and caregivers understand the instructions provided in the Patient Information on proper dosing of JYLAMVO based on volume (mL) utilizing the copackaged syringe before use.
 
 Advise patients and caregivers to only use the copackaged syringe to measure JYLAMVO and that a teaspoon is not an appropriate measuring device.
 The dosing syringe utilizes mL as the unit of measure; ensure that the correct dose expressed in volume (mL) is prescribed.
@@ -43,7 +43,7 @@ Administer folic acid or folinic acid to reduce the risk of methotrexate adverse
 
 ## 2.4 Recommended Dosage for Polyarticular Juvenile Idiopathic Arthritis
 
-The recommended starting dose of Jylamvo is 10 mg/m2 orally once weekly with escalation to achieve optimal response.
+The recommended starting dose of JYLAMVO is 10 mg/m2 orally once weekly with escalation to achieve optimal response.
 Dosages of more than 30 mg/m2once weekly result in an increased risk of serious adverse reactions, including myelosuppression.
 When responses are observed, the majority occurred between 3 and 6 weeks from initiation of treatment; however, responses have occurred up to 12 weeks after treatment initiation.
 

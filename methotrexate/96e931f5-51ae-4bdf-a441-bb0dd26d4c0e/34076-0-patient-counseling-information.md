@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 
 Embryo-Fetal Toxicity
 
-- Advise females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider of a known or suspected pregnancy [see Contraindications(4), Warnings and Precautions (5.1), Use in Specific Populations (8.1)].
+- Advise females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider of a known or suspected pregnancy [see Contraindications (4), Warnings and Precautions (5.1), Use in Specific Populations (8.1)].
 - Advise females of reproductive potential to use effective contraception during treatment with JYLAMVO and for 6 months after the final dose [see Use in Specific Populations (8.3)].
 - Advise males of reproductive potential to use effective contraception during treatment with JYLAMVO and for at least 3 months after the final dose [see Use in Specific Populations (8.3)].
 
