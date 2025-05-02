@@ -2,10 +2,8 @@
 
 Body As A Whole
 
-The Jarisch-Herxheimer reaction is a systemic reaction, that may
-
-occur after the initiation of penicillin therapy in patients with syphilis or other spirochetal infections (i.e., Lyme disease and Relapsing fever).
-The reaction begins one to two hours after initiation of therapy and disappears within 12 to 24 hours.
+The Jarisch-Herxheimer reaction is a systemic reaction, that may occur after the initiation of penicillin therapy in patients with syphilis or other spirochetal infections (i.e., Lyme disease and Relapsing fever).
+The reaction begins one or two hours after initiation of therapy and disappears within 12 to 24 hours.
 It is characterized by fever, chills, myalgias, headache, exacerbation of cutaneous lesions, tachycardia, hyperventilation, vasodilation with flushing and mild hypotension.
 The pathogenesis of the Herxheimer reaction may be due to the release from the spirochetes of heat-stable pyrogen.
 
@@ -36,7 +34,7 @@ Reactions include neutropenia, which resolves after penicillin therapy is discon
 
 Metabolic
 
-Penicillin G potassium (1 million units contains 1.68 mEq of potassium ion) may cause serious and even fatal electrolyte disturbances, i.e., hyperkalemia, when given intravenously in large doses.
+Penicillin G Potassium, USP (1 million units contains 1.68 mEq of potassium ion) may cause serious and even fatal electrolyte disturbances, i.e., hyperkalemia, when given intravenously in large doses.
 
 Nervous System
 
@@ -50,5 +48,9 @@ Discontinuation of penicillin G results in resolution in the majority of patient
 Local Reactions
 
 Phlebitis and thrombophlebitis may occur, and pain at the injection site has been reported with intravenous administration.
+
+Immune System Disorders
+
+Acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction (Kounis syndrome).
 
 To report SUSPECTED ADVERSE REACTIONS, contact WG Critical Care, LLC at 1-866-562-4708 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

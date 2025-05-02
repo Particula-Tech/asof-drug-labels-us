@@ -4,7 +4,7 @@ Therapy: Penicillin G Potassium for Injection, USP is indicated in the treatment
 
 Appropriate culture and susceptibility tests should be done before treatment in order to isolate and identify organisms causing infection and to determine their susceptibility to penicillin G.
 
-Therapy with penicillin G Potassium for Injection, USP may be indicated before results of such tests are known when there is reason to believe the infection may involve any of the organisms listed below, however, once these results become available, appropriate therapy should be continued.
+Therapy with Penicillin G Potassium for Injection, USP may be initiated before results of such tests are known when there is reason to believe the infection may involve any of the organisms listed below, however, once these results become available, appropriate therapy should be continued.
 
 | Clinical Indication | Infecting Organism |
 | --- | --- |
@@ -21,9 +21,9 @@ Therapy with penicillin G Potassium for Injection, USP may be indicated before r
 | Rat bite fever | Spirillum minus or Streptobacillusmoniliformis |
 | Disseminated gonococcal infections | Neisseria gonorrhoeae(penicillin-susceptible) |
 | Syphilis (congenital and neurosyphilis) | Treponema pallidum |
-| Meningococcal meningitis and / or septicemia | Neisseria meningitidis |
+| Meningococcal meningitis and/or septicemia | Neisseria meningitidis |
 | Gram-negative bacillary infections (bacteremias)Penicillin G is not the drug of choice in the treatment of gram-negative bacillary infections. | Gram-negative bacillary organisms (i.e. Enterobacteriaceae) |
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of Penicillin G Potassium for Injection, USP and other antibacterial drugs, Penicillin G Potassium for Injection, USP should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain effectiveness of Penicillin G Potassium for Injection, USP and other antibacterial drugs, Penicillin G Potassium for Injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

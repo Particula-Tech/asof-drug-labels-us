@@ -1,14 +1,19 @@
 # WARNINGS
 
-SERIOUS AND OCCASIONALLY FATAL HYPERSENSITIVITY (anaphylactic) REACTIONS HAVE BEEN REPORTED IN PATIENTS ON PENICILLIN THERAPY.
-THESE REACTIONS ARE MORE LIKELY TO OCCUR IN INDIVIDUALS WITH A HISTORY OF PENICILLIN HYPERSENSITIVITY AND/OR A HISTORY OF SENSITIVITY TO MULTIPLE ALLERGENS.
-THERE HAVE BEEN REPORTS OF INDIVIDUALS WITH A HISTORY OF PENICILLIN HYPERSENSITIVITY WHO HAVE EXPERIENCED SEVERE REACTIONS WHEN TREATED WITH CEPHALOSPORINS.
-BEFORE INITIATING THERAPY WITH PENICILLIN G, CAREFUL INQUIRY SHOULD BE MADE CONCERNING PREVIOUS
+Anaphylaxis
 
-HYPERSENSITIVITY REACTIONS TO PENICILLINS, CEPHALOSPORINS, OR OTHER ALLERGENS.
-IF AN ALLERGIC REACTION OCCURS, PENICILLIN G SHOULD BE DISCONTINUED AND APPROPRIATE THERAPY INSTITUTED.
-SERIOUS ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
-OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
+Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients on penicillin therapy.
+These reactions are more likely to occur in individuals with a history of penicillin hypersensitivity and/or a history of sensitivity to multiple allergens.
+There have been reports of individuals with a history of penicillin hypersensitivity who have experienced severe reactions when treated with cephalosporins.
+Before initiating therapy with penicillin G, careful inquiry should be made concerning previous hypersensitivity reactions to penicillins, cephalosporins, or other allergens.
+If an allergic reaction occurs, penicillin G should be discontinued and appropriate therapy instituted.
+
+Severe cutaneous adverse reactions
+
+Severe cutaneous adverse reactions (SCAR), such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP) have been reported in patients taking beta-lactam antibiotics.
+When SCAR is suspected, Penicillin G Potassium for Injection, USP should be discontinued immediately and an alternative treatment should be considered.
+
+Clostridium difficile associated diarrhea
 
 Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Penicillin G Potassium for Injection, USP, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
@@ -26,11 +31,9 @@ Appropriate fluid and electrolyte management, protein supplementation, antibioti
 ## General
 
 Penicillin should be used with caution in individuals with histories of significant allergies and/or asthma (see WARNINGS).
-Whenever allergic reactions occur, penicillin should be withdrawn unless, in the opinion of the physician, the condition being treated is lifethreatening and amenable only to penicillin therapy.
+Whenever allergic reactions occur, penicillin should be withdrawn unless, in the opinion of the physician, the condition being treated is life threatening and amenable only to penicillin therapy.
 Penicillin G Potassium for Injection, USP by the intravenous route in high doses (above 10 million units) should be administered slowly because of the potential adverse effects of electrolyte imbalance from the potassium content of the penicillin.
-Penicillin G Potassium for Injection, USP contains approximately 6.9 milligrams of sodium (0.3 mEq) and 65.8 milligrams of potassium (1.68
-
-mEq) per million units of penicillin G. The use of antibiotics may promote overgrowth of nonsusceptible organisms, including fungi.
+Penicillin G Potassium for Injection, USP contains approximately 6.9 milligrams of sodium (0.3 mEq) and 65.8 milligrams of potassium (1.68 mEq) per million units of penicillin G. The use of antibiotics may promote overgrowth of nonsusceptible organisms, including fungi.
 Indwelling intravenous catheters encourage superinfections.
 Should superinfection occur, appropriate measures should be taken.
 When indicated, incision and drainage or other surgical procedures should be performed in conjunction with antibiotic therapy.
@@ -58,7 +61,7 @@ If this occurs, patients should contact their physician as soon as possible.
 Periodic assessment of organ system function, including frequent evaluation of electrolyte balance, hepatic, renal and hematopoietic systems, and cardiac and vascular status should be performed during prolonged therapy with high doses of intravenous penicillin G (see ADVERSE REACTIONS).
 If any impairment of function is suspected or known to exist, a reduction in the total dosage should be considered (see DOSAGE AND ADMINISTRATION).
 In suspected staphylococcal infections, proper laboratory studies, including susceptibility tests should be performed.
-All infections due to Group A betahemolytic streptococci should be treated for at least 10 days.
+All infections due to Group A beta-hemolytic streptococci should be treated for at least 10 days.
 
 Patients being treated for gonococcal infection should have a serologic test for syphilis before receiving penicillin.
 All cases of penicillin treated syphilis should receive adequate follow-up including clinical and serological examinations.
@@ -67,7 +70,7 @@ The recommended follow-up varies with the stage of syphilis being treated.
 ## Drug Interactions
 
 Bacteriostatic antibacterials (i.e., chloramphenicol, erythromycins, sulfonamides or tetracyclines) may antagonize the bactericidal effect of penicillin, and concurrent use of these drugs should be avoided.
-This has been documented in vitro, however, the clinical significance of this interaction is not well-documented.
+This has been documented in vitro; however, the clinical significance of this interaction is not well-documented.
 
 Penicillin blood levels may be prolonged by concurrent administration of probenecid which blocks the renal tubular secretion of penicillins.
 Other drugs may compete with penicillin G for renal tubular secretion and thus prolong the serum half-life of penicillin.
@@ -75,7 +78,7 @@ These drugs include: aspirin, phenylbutazone, sulfonamides, indomethacin, thiazi
 
 ## Drug/Laboratory Test Interactions
 
-After treatment with penicillin G, a false-positive reaction for glucose in the urine may occur with Benedict’s solution, Fehling’s solution or Clinitest tablet, but not with the enzyme-based tests, such as Clinistix and Tes-Tape.
+After treatment with penicillin G, a false-positive reaction for glucose in the urine may occur with Benedict’s solution, Fehling’s solution or Clinitest® tablet, but not with the enzyme-based tests, such as Clinistix® and Tes-Tape®.
 
 Penicillin G has been associated with pseudoproteinuria by certain test methods.
 
@@ -86,8 +89,6 @@ No long-term animal studies have been conducted with this drug.
 ## Pregnancy
 
 ### Teratogenic Effects
-
-Pregnancy Category B
 
 Reproduction studies performed in the mouse, rat, and rabbit have revealed no evidence of impaired fertility or harm to the fetus due to penicillin G. Human experience with the penicillins during pregnancy has not shown any positive evidence of adverse effects on the fetus.
 There are, however, no adequate and well-controlled studies in pregnant women showing conclusively that harmful effects of these drugs on the fetus can be excluded.
@@ -109,7 +110,7 @@ Recommended guidelines for pediatric dosages are presented in DOSAGE AND ADMINIS
 
 ## Geriatric Use
 
-Clinical studies of penicillin G potassium did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Clinical studies of penicillin G injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
@@ -117,6 +118,6 @@ This drug is known to be substantially excreted by the kidney, and the risk of t
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 
 Penicillin G potassium contains 6.9 milligrams of sodium (0.3 mEq) per million units.
-At the usual recommended doses of 10 to 20 million units per day, patients would receive between 69 and 138 mg/day (3 and 6 mEq) of sodium.
+At the usual recommended doses of 10 to 20 million units per day, patients would receive between 69 and 138 mg/day (3 and 6 mEq) of sodium per day.
 The geriatric population may respond with a blunted natriuresis to salt loading.
 This may be clinically important with regard to such diseases as congestive heart failure.
