@@ -18,8 +18,10 @@ Trademarks are the property of their respective owners.
 
 Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India.
 
-Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
+Distributed by:
 
-139859
+Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
 
-Revised: 08/2024
+141039
+
+Revised: 02/2025

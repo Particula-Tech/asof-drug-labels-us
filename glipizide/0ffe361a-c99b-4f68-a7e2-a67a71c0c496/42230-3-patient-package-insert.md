@@ -59,7 +59,7 @@ How should I take Glipizide Extended-Release Tablets?
   If your blood sugar level is not under control, call your healthcare provider.
   Do not change your dose unless your healthcare provider tells you to.
 - If you take too much glipizide extended-release tablets, call your healthcare provider or go to the nearest emergency room right away.
-  Your healthcare provider may tell you to take glipizide extended-release tablet with other diabetes medicines.
+- Your healthcare provider may tell you to take glipizide extended-release tablet with other diabetes medicines.
   Low blood sugar can happen more often when glipizide extended-release tablet is taken with other diabetes medicines.
   See “What are the possible side effects of Glipizide Extended-Release Tablets?”
 - Check your blood sugar as your healthcare provider tells you to.
@@ -77,18 +77,18 @@ Glipizide extended-release tablet can cause serious side effects, including:
 - Low blood sugar.
   Glipizide extended-release tablet may cause low blood sugar.
   Signs and symptoms of low blood sugar may include:
-  - a cold clammy feeling
-  - hunger
-  - unusual sweating
-  - fast heartbeat
-  - dizziness
-  - headache
-  - weakness
-  - blurred vision
-  - trembling
-  - slurred speech
-  - shakiness
-  - tingling in the lips or hands
+- a cold clammy feeling
+- hunger
+- unusual sweating
+- fast heartbeat
+- dizziness
+- headache
+- weakness
+- blurred vision
+- trembling
+- slurred speech
+- shakiness
+- tingling in the lips or hands
 
 If you have signs or symptoms of low blood sugar, eat or drink something with sugar in it right away.
 If you do not feel better or your blood sugar level does not go up, call your healthcare provider or go to the nearest emergency room.
@@ -116,6 +116,7 @@ It may harm them.
 This Patient Information summarizes the most important information about glipizide extended-release tablets.
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about glipizide extended-release tablets that is written for healthcare professionals.
+
 For more information about glipizide extended-release tablets please call 1-(844)-874-7464
 
 What are the ingredients in Glipizide Extended-Release Tablets?
@@ -124,8 +125,10 @@ The 2.5 mg tablet also contains: FD&C blue#2, lactose monohydrate and triacetin.
 
 Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India.
 
-Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
+Distributed by:
 
-139859
+Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
 
-Revised: 08/2024
+141076
+
+Revised: 02/2025
