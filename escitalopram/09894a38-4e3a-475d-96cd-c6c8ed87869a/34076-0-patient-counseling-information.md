@@ -65,4 +65,4 @@ Advise breastfeeding women using escitalopram oxalate to monitor infants for exc
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-11-2023-11
+04-2025-12

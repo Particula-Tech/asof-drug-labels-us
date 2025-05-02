@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clnical-and-research-programs/pregnancyregistry/antidepressants/.
+Healthcare providers are encouraged to advise patients to register by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/research/pregnancyregistry/antidepressants.
 
 Risk Summary
 
@@ -21,7 +21,7 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in the clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-Clinical Considerations
+### Clinical Considerations
 
 Disease-associated maternal risk and/or embryo/fetal risk
 
@@ -41,7 +41,7 @@ Reported clinical findings have included respiratory distress, cyanosis, apnea, 
 These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
 It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2)].
 
-Data
+### Data
 
 Human Data
 
@@ -80,11 +80,11 @@ There are reports of excessive sedation, restlessness, agitation, poor feeding a
 There are no data on the effects of escitalopram or its metabolites on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for escitalopram oxalate and any potential adverse effects on the breastfed child from escitalopram oxalate or from the underlying maternal condition.
 
-Clinical Considerations
+### Clinical Considerations
 
 Infants exposed to escitalopram oxalate should be monitored for excess sedation, restlessness, agitation, poor feeding and poor weight gain.
 
-Data
+### Data
 
 A study of 8 nursing mothers on escitalopram with daily doses of 10 to 20 mg/day showed that exclusively breast-fed infants receive approximately 3.9% of the maternal weight-adjusted dose of escitalopram and 1.7% of the maternal weight-adjusted dose of desmethylcitalopram.
 
