@@ -6,9 +6,9 @@ The therapeutic benefits achieved with CARDIZEM are believed to be related to it
 
 Although precise mechanisms of its antianginal actions are still being delineated, CARDIZEM is believed to act in the following ways:
 
-- •Angina Due to Coronary Artery Spasm: CARDIZEM has been shown to be a potent dilator of coronary arteries both epicardial and subendocardial.
+- Angina Due to Coronary Artery Spasm:CARDIZEM has been shown to be a potent dilator of coronary arteries both epicardial and subendocardial.
   Spontaneous and ergonovine-induced coronary artery spasms are inhibited by CARDIZEM.
-- •Exertional Angina: CARDIZEM has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
+- Exertional Angina:CARDIZEM has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
   This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal exercise workloads.
 
 In animal models, diltiazem interferes with the slow inward (depolarizing) current in excitable tissue.
@@ -47,7 +47,7 @@ There is a departure from linearity when dose strengths are increased.
 A study that compared patients with normal hepatic function to patients with cirrhosis found an increase in half-life and a 69% increase in AUC (area-under-the-plasma concentration vs. time curve) in the hepatically impaired patients.
 A single study in nine patients with severely impaired renal functions showed no difference in the pharmacokinetic profile of diltiazem as compared to patients with normal renal function.
 
-CARDIZEM Tablets: Diltiazem is absorbed from the tablet formulation to about 98% of a reference solution.
+CARDIZEM Tablets:Diltiazem is absorbed from the tablet formulation to about 98% of a reference solution.
 Single oral doses of 30 to 120 mg of CARDIZEM tablets result in detectable plasma levels within 30 to 60 minutes and peak plasma levels 2 to 4 hours after drug administration.
-As the dose of CARDIZEM tablets is increased from a daily dose of 120 mg (30 mg qid) to 240 mg (60 mg qid) daily, there is an increase in area-under-the-curve of 2.3 times.
+As the dose of CARDIZEM tablets is increased from a daily dose of 120 mg (30 mg QID) to 240 mg (60 mg QID) daily, there is an increase in area-under-the-curve of 2.3 times.
 When the dose is increased from 240 mg to 360 mg daily, there is an increase in area-under-the-curve of 1.8 times.

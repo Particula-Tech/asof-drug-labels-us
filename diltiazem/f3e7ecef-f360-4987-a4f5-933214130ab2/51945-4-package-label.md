@@ -1,10 +1,10 @@
 # PRINCIPAL DISPLAY PANEL - 120 mg Tablet Bottle Label
 
-NDC 0187-0792-47
+NDC0187-0792-47
 
 Rx only
 
-Cardizem® (diltiazem hydrochloride) Tablets
+Cardizem ® (diltiazem hydrochloride) Tablets
 
 120 mg
 
@@ -16,11 +16,11 @@ BAUSCH Health
 
 # Package/Label Display Panel – 90 mg Tablet Bottle Label
 
-NDC 0187-0791-47
+NDC0187-0791-47
 
 Rx only
 
-Cardizem® (diltiazem hydrochloride) Tablets
+Cardizem ® (diltiazem hydrochloride) Tablets
 
 90 mg
 
@@ -32,11 +32,11 @@ BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 30 mg Tablet Bottle Label
 
-NDC 0187-0771-47
+NDC0187-0771-47
 
 Rx only
 
-Cardizem® (diltiazem hydrochloride) Tablets
+Cardizem ® (diltiazem hydrochloride) Tablets
 
 30 mg
 
@@ -49,11 +49,11 @@ BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 60 mg Tablet Bottle Label
 
-NDC 0187-0772-47
+NDC0187-0772-47
 
 Rx only
 
-Cardizem® (diltiazem hydrochloride) Tablets
+Cardizem ® (diltiazem hydrochloride) Tablets
 
 60 mg
 

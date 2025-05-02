@@ -1,8 +1,8 @@
 # OVERDOSAGE
 
-The oral LD50s in mice and rats range from 415 to 740 mg/kg and from 560 to 810 mg/kg, respectively.
-The intravenous LD50s in these species were 60 and 38 mg/kg, respectively.
-The oral LD50 in dogs is considered to be in excess of 50 mg/kg, while lethality was seen in monkeys at 360 mg/kg.
+The oral LD 50s in mice and rats range from 415 to 740 mg/kg and from 560 to 810 mg/kg, respectively.
+The intravenous LD 50s in these species were 60 and 38 mg/kg, respectively.
+The oral LD 50in dogs is considered to be in excess of 50 mg/kg, while lethality was seen in monkeys at 360 mg/kg.
 
 The toxic dose in man is not known.
 Due to extensive metabolism, blood levels after a standard dose of diltiazem can vary over tenfold, limiting the usefulness of blood levels in overdose cases.
@@ -27,14 +27,14 @@ Diltiazem does not appear to be removed by peritoneal or hemodialysis.
 Limited data suggest that plasmapheresis or charcoal hemoperfusion may hasten diltiazem elimination following overdose.
 Based on the known pharmacological effects of diltiazem and/or reported clinical experiences, the following measures may be considered:
 
-Bradycardia: Administer atropine (0.60 to 1.0 mg).
+Bradycardia:Administer atropine (0.60 to 1.0 mg).
 If there is no response to vagal blockade, administer isoproterenol cautiously.
 
-High-Degree AV Block: Treat as for bradycardia above.
+High-Degree AV Block:Treat as for bradycardia above.
 Fixed high-degree AV block should be treated with cardiac pacing.
 
-Cardiac Failure: Administer inotropic agents (isoproterenol, dopamine, or dobutamine) and diuretics.
+Cardiac Failure:Administer inotropic agents (isoproterenol, dopamine, or dobutamine) and diuretics.
 
-Hypotension: Vasopressors (e.g., dopamine or norepinephrine).
+Hypotension:Vasopressors (e.g., dopamine or norepinephrine).
 
 Actual treatment and dosage should depend on the severity of the clinical situation and the judgment and experience of the treating physician.
