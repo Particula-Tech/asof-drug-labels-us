@@ -52,7 +52,7 @@ These ampoules bear a color band signifying that they are Easy Break Ampoules.
 The tops snap off at constriction, regardless of the position of the color band.
 Usual dosage: See Insert.
 
-LD-618-1
+LD-618-2
 
 Manufactured for:
 
