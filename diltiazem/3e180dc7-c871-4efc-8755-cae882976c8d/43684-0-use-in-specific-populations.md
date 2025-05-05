@@ -2,18 +2,35 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C. Reproduction studies have been conducted in mice, rats, and rabbits.
-Administration of doses ranging from five to ten times (on a mg/kg basis) the daily recommended therapeutic dose has resulted in embryo and fetal lethality.
-These doses, in some studies, have been reported to cause skeletal abnormalities.
-In the perinatal/postnatal studies, there was an increased incidence of stillbirths at doses of 20 times the human dose or greater.
+Risk Summary
 
-There are no well-controlled studies in pregnant women; therefore, use diltiazem in pregnant women only if the potential benefit justifies the risk to the fetus.
+The available data from the published literature over decades of use with diltiazem during pregnancy have not identified a drug associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
+In animal reproduction studies in rats and rabbits, administration of diltiazem to pregnant animals during organogenesis at oral doses approximately 1 and 4 times the Maximum Recommended Human Dose (MRHD) of CARDIZEM LA produced embryofetal deaths and increased incidence of skeletal abnormalities.
+An increased incidence of stillbirths was noted at diltiazem doses approximately 2 times the MRHD of CARDIZEM LA.
 
-## 8.3 Nursing Mothers
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+All pregnancies have a background risk of major birth defects, loss, and other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2- 4% and 15-20%, respectively.
+
+Data
+
+Animal Data
+
+Embryofetal development studies have been conducted with diltiazem in rats and rabbits.
+Daily oral administration of diltiazem at 0, 17.5, 35 or 70 mg/kg to pregnant rabbits during organogenesis (gestational day 6 to 18) resulted in embryo-fetal lethality at 35 mg/kg/day (approximately 1 time the MRHD of CARDIZEM LA, on a mg/m 2basis) and higher, concurrent with maternal toxicity (reduced body weight gain).
+Daily oral administration of diltiazem at 0, 100, 200 and 400 mg/kg to pregnant rats during organogenesis (gestation day 9 to 14) resulted in embryo-fetal lethality at 200 mg/kg/day (approximately 4 times the MRHD of CARDIZEM LA, on a mg/m 2basis) and higher.
+These doses, in some studies, were reported to cause increased incidence of skeletal malformations (e.g. malformations of vertebral column) or variations.
+In an oral perinatal/postnatal study in rats with diltiazem at 0, 50, 100, 200 and 400 mg/kg/day from gestation day 15 to lactation/post-partum day 20, there was an increased incidence of stillbirths at 100 mg/kg/day, approximately 2 times (on a mg/m 2basis) the MRHD of CARDIZEM LA.
+
+## 8.2 Lactation
+
+Risk Summary
 
 Diltiazem is excreted in human milk.
 One report suggests that concentrations in breast milk may approximate serum levels.
 Because of the potential for serious adverse reactions in nursing infants from diltiazem, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for diltiazem and any potential adverse effects on the breastfed child from diltiazem or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
