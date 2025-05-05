@@ -54,7 +54,7 @@ In these trials, onset of effect was seen after 1 day of dosing.
 Pediatric Patients Less than 12 Years of Age
 
 There are no clinical efficacy trials with levocetirizine dihydrochloride 2.5 mg once daily in pediatric patients under 12 years of age, and no clinical efficacy trials with levocetirizine dihydrochloride 1.25 mg once daily in pediatric patients 6 months to 5 years of age.
-The clinical efficacy of levocetirizine dihydrochloride in pediatric patients under 12 years of age has been extrapolated from adult clinical efficacy trials based on pharmacokinetic comparisons [see Use in Specific Populations (8.4)].
+The clinical efficacy of levocetirizine dihydrochloride in pediatric patients under 12 years of age has been extrapolated from adult clinical efficacy trials based on pharmacokinetic comparisons [seeUse in Specific Populations (8.4)].
 
 ## 14.2 Chronic Idiopathic Urticaria
 

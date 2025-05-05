@@ -9,6 +9,6 @@ In a 2-year carcinogenicity study in mice, cetirizine caused an increased incide
 No increased incidence of benign tumors was observed at a dietary dose of 4 mg/kg (approximately 4, 4, 2, and 1 times the MRHDs in adults, children 6 to 11 years of age, children 2 to 5 years, and children 6 months to 2 years of age, respectively on a mg/m 2 basis).
 The clinical significance of these findings during long-term use of levocetirizine dihydrochloride is not known.
 
-Levocetirizine was not mutagenic in the Ames test, and not clastogenic in the human lymphocyte assay, the mouse lymphoma assay, and in vivo micronucleus test in mice.
+Levocetirizine was not mutagenic in the Ames test, and not clastogenic in the human lymphocyte assay, the mouse lymphoma assay, and in vivomicronucleus test in mice.
 
 Fertility and reproductive performance were unaffected in male and female mice and rats that received cetirizine at oral doses up to 64 and 200 mg/kg/day, respectively (approximately 60 and 390 times the MRHD in adults on a mg/m 2basis).
