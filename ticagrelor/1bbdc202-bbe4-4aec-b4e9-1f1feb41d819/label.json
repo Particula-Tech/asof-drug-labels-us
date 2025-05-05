@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208390"
+  ],
+  "inn": "ticagrelor",
+  "labeler": "Teva Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0480-2688-06",
+    "0480-2695-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "ticagrelor",
+      "name": "Ticagrelor"
+    }
+  ],
+  "setid": "1bbdc202-bbe4-4aec-b4e9-1f1feb41d819",
+  "source": "dailymed"
+}
