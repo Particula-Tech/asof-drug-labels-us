@@ -19,6 +19,6 @@ Retin-A Micro is a trademark of Bausch Health Companies Inc. or its affiliates.
 Microsponge is a registered trademark of AMCOL International Corporation.
 All other product/brand names and/or logos are trademarks of the respective owners.
 
-© 2024 Bausch Health Companies Inc. or its affiliates
+© 2025 Bausch Health Companies Inc. or its affiliates
 
-9454706
+9454708

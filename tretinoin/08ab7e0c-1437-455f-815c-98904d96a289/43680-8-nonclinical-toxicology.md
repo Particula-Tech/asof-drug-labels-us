@@ -16,7 +16,7 @@ There was no evidence of carcinogenic potential when 0.025 mg/kg/day of tretinoi
 
 Studies in hairless albino mice suggest that concurrent exposure to tretinoin may enhance the tumorigenic potential of carcinogenic doses of UVB and UVA light from a solar simulator.
 This effect has been confirmed in a later study in pigmented mice, and dark pigmentation did not overcome the enhancement of photocarcinogenesis by 0.05% tretinoin.
-Although the significance of these studies to humans is not clear, patients should minimize exposure to sunlight or artificial ultraviolet irradiation sources [see WARNINGS AND PRECAUTIONS(5.2)].
+Although the significance of these studies to humans is not clear, patients should minimize exposure to sunlight or artificial ultraviolet irradiation sources [see Warnings and Precautions (5.2)].
 
 The genotoxic potential of tretinoin was evaluated in the Ames assay and in the in vivo mouse micronucleus assay, both of which were negative.
 
