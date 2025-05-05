@@ -13,7 +13,7 @@ By inhibiting FXa, apixaban decreases thrombin generation and thrombus developme
 As a result of FXa inhibition, apixaban prolongs clotting tests such as prothrombin time (PT), INR, and activated partial thromboplastin time (aPTT).
 Changes observed in these clotting tests at the expected therapeutic dose, however, are small, subject to a high degree of variability, and not useful in monitoring the anticoagulation effect of apixaban.
 
-The Rotachrom® Heparin chromogenic assay was used to measure the effect of apixaban on FXa activity in humans during the apixaban development program.
+The Rotachrom® Heparin chromogenic assay was used to measure the effect of apixaban on FXa activity in humans primarily during the apixaban adult development program.
 A concentration-dependent increase in anti-FXa activity was observed in the dose range tested and was similar in healthy subjects and patients with AF.
 
 This test is not recommended for assessing the anticoagulant effect of apixaban.
@@ -40,6 +40,8 @@ Renal impairment: Anti-FXa activity adjusted for exposure to apixaban was simila
 Hepatic impairment: Changes in anti-FXa activity were similar in patients with mild-to-moderate hepatic impairment and healthy subjects.
 However, in patients with moderate hepatic impairment, there is no clear understanding of the impact of this degree of hepatic function impairment on the coagulation cascade and its relationship to efficacy and bleeding.
 Patients with severe hepatic impairment were not studied.
+
+Pediatric patients: In pediatric patients treated with apixaban, the correlation between anti-FXa activity and plasma concentration is linear with a slope close to 1.
 
 ### Cardiac Electrophysiology
 
@@ -102,16 +104,21 @@ The effects of level of renal impairment, age, body weight, and level of hepatic
 
 Figure 3: Effect of Specific Populations on the Pharmacokinetics of Apixaban
 
-* ESRD subjects treated with intermittent hemodialysis; reported PK findings are following single dose of apixaban post hemodialysis. † Results reflect CrCl of 15 mL/min based on regression analysis. ‡ Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations. § No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless at least 2 of the following patient characteristics (age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL) are present.
+* ESRD subjects treated with intermittent hemodialysis; reported PK findings are following single dose of apixaban posthemodialysis. † Results reflect CrCl of 15 mL/min based on regression analysis. ‡ Dashed vertical lines illustrate pharmacokinetic changes that were used to inform dosing recommendations. § No dose adjustment is recommended for nonvalvular atrial fibrillation patients unless at least 2 of the following patient characteristics (age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL) are present.
 
 Gender: A study in healthy subjects comparing the pharmacokinetics in males and females showed no meaningful difference.
 
 Race: The results across pharmacokinetic studies in normal subjects showed no differences in apixaban pharmacokinetics among White/Caucasian, Asian, and Black/African American subjects.
 No dose adjustment is required based on race/ethnicity.
 
-Hemodialysis in ESRD subjects: Systemic exposure to apixaban administered as a single 5 mg dose in ESRD subjects dosed immediately after the completion of a 4-hour hemodialysis session (post-dialysis) is 36% higher when compared to subjects with normal renal function (Figure 3).
+Hemodialysis in ESRD subjects: Systemic exposure to apixaban administered as a single 5 mg dose in ESRD subjects dosed immediately after the completion of a 4-hour hemodialysis session (postdialysis) is 36% higher when compared to subjects with normal renal function (Figure 3).
 The systemic exposure to apixaban administered 2 hours prior to a 4-hour hemodialysis session with a dialysate flow rate of 500 mL/min and a blood flow rate in the range of 350 to 500 mL/min is 17% higher compared to those with normal renal function.
 The dialysis clearance of apixaban is approximately 18 mL/min.
 The systemic exposure of apixaban is 14% lower on dialysis when compared to not on dialysis.
 
 Protein binding was similar (92%-94%) between healthy controls and ESRD subjects during the on-dialysis and off-dialysis periods.
+
+Pediatric Patients: Apixaban reached maximum concentration (Cmax) in pediatric patients approximately 2 hours after single-dose administration.
+In pediatric patients, apixaban has a total apparent clearance of about 3.0 L/h.
+
+An exploratory analysis in pediatric patients did not reveal relevant differences in apixaban exposure based on gender or race.

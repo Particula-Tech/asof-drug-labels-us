@@ -63,7 +63,9 @@ The risk of clinically significant uterine bleeding, potentially requiring gynec
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness in pediatric patients have not been established.
+The safety and effectiveness of ELIQUIS for the treatment of VTE and the reduction in the risk of recurrent VTE have been established in pediatric patients aged birth and older.
+Use of ELIQUIS for this indication is supported by evidence from adequate and well-controlled studies in adults with additional pharmacokinetic, safety, and efficacy data in pediatric patients.
+These studies included a randomized, active controlled, open label, multi-center study of ELIQUIS [see Adverse Reactions (6.1) and Clinical Studies (14.4)].
 
 ## 8.5 Geriatric Use
 
@@ -93,6 +95,25 @@ It is not known whether these concentrations will lead to similar stroke reducti
 No dose adjustment is recommended for patients with renal impairment, including those with ESRD on dialysis [see Dosage and Administration (2.1)].
 Clinical efficacy and safety studies with ELIQUIS did not enroll patients with ESRD on dialysis or patients with a CrCl <15 mL/min; therefore, dosing recommendations are based on pharmacokinetic and pharmacodynamic (anti-FXa activity) data in subjects with ESRD maintained on dialysis [see Clinical Pharmacology (12.3)].
 
+### Treatment of Venous Thromboembolism (VTE) and Reduction in the Risk of Recurrent VTE in Pediatric Patients
+
+In pediatric patients equal to or greater than 2 years of age, ELIQUIS is not recommended in patients with an estimated glomerular filtration rate (eGFR) <30 mL/min/1.73 m2 body surface area (BSA).
+
+In patients less than 2 years of age, ELIQUIS is not recommended in patients with inadequate renal function defined by sex and postnatal age as used in the pediatric VTE trial for ELIQUIS (see Table 12 below).
+
+To estimate GFR, the pediatric VTE trial for ELIQUIS used the updated Schwartz formula, eGFR (ml/min/1.73m2) = 0.413 * height (cm)/serum creatinine (mg/dL) for serum creatinine measured by an enzymatic creatinine method calibrated to be traceable to isotope dilution mass spectrometry (IDMS).
+
+Table 12: Inadequate renal function by sex and post-natal age in pediatric patients <2 years of age as defined in the pediatric VTE trial for ELIQUIS
+
+| Postnatal age (gender) | Threshold eGFR used to define inadequate renal function (mL/min/1.73 m2) |
+| --- | --- |
+| 1 week (males and females) | <8 |
+| 2–8 weeks (males and females) | <12 |
+| >8 weeks to <2 years (males and females) | <22 |
+| Inadequate renal function was defined as <30% of 1 standard deviation (SD) below normal GFR for age and size as |  |
+| determined by the updated Schwartz formula for ages up to 2 years. Beyond 2 years of age, the qualifying GFR for |  |
+| the pediatric VTE study was ≥30 mL/min/1.73m2. |  |
+
 ## 8.7 Hepatic Impairment
 
 No dose adjustment is required in patients with mild hepatic impairment (Child-Pugh class A).
@@ -100,3 +121,5 @@ No dose adjustment is required in patients with mild hepatic impairment (Child-P
 Because patients with moderate hepatic impairment (Child-Pugh class B) may have intrinsic coagulation abnormalities and there is limited clinical experience with ELIQUIS in these patients, dosing recommendations cannot be provided [see Clinical Pharmacology (12.2)].
 
 ELIQUIS is not recommended in patients with severe hepatic impairment (Child-Pugh class C) [see Clinical Pharmacology (12.2)].
+
+ELIQUIS has not been studied in pediatric patients with hepatic impairment.

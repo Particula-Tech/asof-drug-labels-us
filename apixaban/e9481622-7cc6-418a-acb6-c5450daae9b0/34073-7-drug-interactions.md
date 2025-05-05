@@ -1,14 +1,15 @@
 # 7 DRUG INTERACTIONS
 
-Apixaban is a substrate of both CYP3A4 and P-gp.
-Inhibitors of CYP3A4 and P-gp increase exposure to apixaban and increase the risk of bleeding.
-Inducers of CYP3A4 and P-gp decrease exposure to apixaban and increase the risk of stroke and other thromboembolic events.
-
 ## 7.1 Combined P-gp and Strong CYP3A4 Inhibitors
 
-For patients receiving ELIQUIS 5 mg or 10 mg twice daily, the dose of ELIQUIS should be decreased by 50% when coadministered with drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir) [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+For patients receiving ELIQUIS 5 mg or 10 mg twice daily, the dose of ELIQUIS should be decreased by 50% when coadministered with drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir) [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 
-For patients receiving ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with combined P-gp and strong CYP3A4 inhibitors [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+For patients receiving ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with combined P-gp and strong CYP3A4 inhibitors [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+
+Concomitant administration of combined P-gp and strong CYP3A4 inhibitors has not been studied in pediatric patients.
+
+Apixaban is a substrate of both CYP3A4 and P-gp.
+Concomitant use with drugs that are combined P-gp and strong CYP3A4 inhibitors increases exposure to apixaban [see Clinical Pharmacology (12.3)] which increases the risk for bleeding.
 
 ### Clarithromycin
 
@@ -17,6 +18,9 @@ Although clarithromycin is a combined P-gp and strong CYP3A4 inhibitor, pharmaco
 ## 7.2 Combined P-gp and Strong CYP3A4 Inducers
 
 Avoid concomitant use of ELIQUIS with combined P-gp and strong CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort) because such drugs will decrease exposure to apixaban [see Clinical Pharmacology (12.3)].
+
+Apixaban is a substrate of both CYP3A4 and P-gp.
+Concomitant use with drugs that are combined P-gp and strong CYP3A4 inducers decreases exposure to apixaban [see Clinical Pharmacology (12.3)] which increases the risk for stroke and other thromboembolic events.
 
 ## 7.3 Anticoagulants and Antiplatelet Agents
 

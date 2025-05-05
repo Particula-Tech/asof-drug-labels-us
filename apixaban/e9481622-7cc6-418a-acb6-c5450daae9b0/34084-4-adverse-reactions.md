@@ -8,9 +8,11 @@ The following clinically significant adverse reactions are discussed in greater 
 
 ## 6.1 Clinical Trials Experience
 
+Adult Patients
+
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-### Reduction of Risk of Stroke and Systemic Embolism in Patients with Nonvalvular Atrial Fibrillation
+Reduction of Risk of Stroke and Systemic Embolism in Patients with Nonvalvular Atrial Fibrillation
 
 The safety of ELIQUIS was evaluated in the ARISTOTLE and AVERROES studies [see Clinical Studies (14)], including 11,284 patients exposed to ELIQUIS 5 mg twice daily and 602 patients exposed to ELIQUIS 2.5 mg twice daily.
 The duration of ELIQUIS exposure was ≥12 months for 9375 patients and ≥24 months for 3369 patients in the two studies.
@@ -19,11 +21,11 @@ In AVERROES, the mean duration of exposure was approximately 59 weeks (>3000 pat
 
 The most common reason for treatment discontinuation in both studies was for bleeding-related adverse reactions; in ARISTOTLE this occurred in 1.7% and 2.5% of patients treated with ELIQUIS and warfarin, respectively, and in AVERROES, in 1.5% and 1.3% on ELIQUIS and aspirin, respectively.
 
-#### Bleeding in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE and AVERROES
+Bleeding in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE and AVERROES
 
-Tables 1 and 2 show the number of patients experiencing major bleeding during the treatment period and the bleeding rate (percentage of subjects with at least one bleeding event per 100 patient-years) in ARISTOTLE and AVERROES.
+Tables 2 and 3 show the number of patients experiencing major bleeding during the treatment period and the bleeding rate (percentage of subjects with at least one bleeding event per 100 patient-years) in ARISTOTLE and AVERROES.
 
-Table 1: Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE*
+Table 2: Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE*
 
 |  | ELIQUIS N=9088 n (per 100 pt-year) | Warfarin N=9052 n (per 100 pt-year) | Hazard Ratio (95% CI) | P-value |
 | --- | --- | --- | --- | --- |
@@ -35,10 +37,12 @@ Table 1: Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in ARI
 | Fatal** | 10 (0.06) | 37 (0.24) | 0.27 (0.13, 0.53) | - |
 | Intracranial | 4 (0.03) | 30 (0.20) | 0.13 (0.05, 0.37) | - |
 | Non-intracranial | 6 (0.04) | 7 (0.05) | 0.84 (0.28, 2.15) | - |
-
-1. * Bleeding events within each subcategory were counted once per subject, but subjects may have contributed events to multiple endpoints.
-   Bleeding events were counted during treatment or within 2 days of stopping study treatment (on-treatment period). † Defined as clinically overt bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥2 g/dL, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site: intracranial, intraspinal, intraocular, pericardial, intra-articular, intramuscular with compartment syndrome, retroperitoneal or with fatal outcome. ‡ Intracranial bleed includes intracerebral, intraventricular, subdural, and subarachnoid bleeding.
-   Any type of hemorrhagic stroke was adjudicated and counted as an intracranial major bleed. § On-treatment analysis based on the safety population, compared to ITT analysis presented in Section 14. ¶ GI bleed includes upper GI, lower GI, and rectal bleeding. ** Fatal bleeding is an adjudicated death with the primary cause of death as intracranial bleeding or non-intracranial bleeding during the on-treatment period.
+| * Bleeding events within each subcategory were counted once per subject, but subjects may have contributed events to multiple endpoints. Bleeding events were counted during treatment or within 2 days of stopping study treatment (on-treatment period). |  |  |  |  |
+| † Defined as clinically overt bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥2 g/dL, a transfusion of 2 or more units of packed red blood cells, bleeding at a critical site: intracranial, intraspinal, intraocular, pericardial, intra-articular, intramuscular with compartment syndrome, retroperitoneal or with fatal outcome. |  |  |  |  |
+| ‡ Intracranial bleed includes intracerebral, intraventricular, subdural, and subarachnoid bleeding. Any type of hemorrhagic stroke was adjudicated and counted as an intracranial major bleed. |  |  |  |  |
+| § On-treatment analysis based on the safety population, compared to ITT analysis presented in Section 14. |  |  |  |  |
+| ¶ GI bleed includes upper GI, lower GI, and rectal bleeding. |  |  |  |  |
+| ** Fatal bleeding is an adjudicated death with the primary cause of death as intracranial bleeding or non-intracranial bleeding during the on-treatment period. |  |  |  |  |
 
 In ARISTOTLE, the results for major bleeding were generally consistent across most major subgroups including age, weight, CHADS2 score (a scale from 0 to 6 used to estimate risk of stroke, with higher scores predicting greater risk), prior warfarin use, geographic region, and aspirin use at randomization (Figure 1).
 Subjects treated with ELIQUIS with diabetes bled more (3% per year) than did subjects without diabetes (1.9% per year).
@@ -49,29 +53,30 @@ Note: The figure above presents effects in various subgroups, all of which are b
 The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
-Table 2: Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in AVERROES
+Table 3: Bleeding Events in Patients with Nonvalvular Atrial Fibrillation in AVERROES
 
-|  | ELIQUIS N=2798 n (%/year) | Aspirin N=2780 n (%/year) | Hazard Ratio (95% CI) | P-value |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Major | 45 (1.41) | 29 (0.92) | 1.54 (0.96, 2.45) | 0.07 |  |  |  |  |  |
-| Fatal | 5 (0.16) | 5 (0.16) | 0.99 (0.23, 4.29) | - |  |  |  |  |  |
-| Intracranial | 11 (0.34) | 11 (0.35) | 0.99 (0.39, 2.51) | - |  |  |  |  |  |
-| Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |  |  |  |  |  |  |
+|  | ELIQUIS N=2798 n (%/year) | Aspirin N=2780 n (%/year) | Hazard Ratio (95% CI) | P-value |
+| --- | --- | --- | --- | --- |
+| Major | 45 (1.41) | 29 (0.92) | 1.54 (0.96, 2.45) | 0.07 |
+| Fatal | 5 (0.16) | 5 (0.16) | 0.99 (0.23, 4.29) | - |
+| Intracranial | 11 (0.34) | 11 (0.35) | 0.99 (0.39, 2.51) | - |
 
-#### Other Adverse Reactions
+Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints.
+
+Other Adverse Reactions
 
 Hypersensitivity reactions (including drug hypersensitivity, such as skin rash, and anaphylactic reactions, such as allergic edema) and syncope were reported in <1% of patients receiving ELIQUIS.
 
-### Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
+Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
 
 The safety of ELIQUIS has been evaluated in 1 Phase II and 3 Phase III studies including 5924 patients exposed to ELIQUIS 2.5 mg twice daily undergoing major orthopedic surgery of the lower limbs (elective hip replacement or elective knee replacement) treated for up to 38 days.
 
 In total, 11% of the patients treated with ELIQUIS 2.5 mg twice daily experienced adverse reactions.
 
-Bleeding results during the treatment period in the Phase III studies are shown in Table 3.
+Bleeding results during the treatment period in the Phase III studies are shown in Table 4.
 Bleeding was assessed in each study beginning with the first dose of double-blind study drug.
 
-Table 3: Bleeding During the Treatment Period in Patients Undergoing Elective Hip or Knee Replacement Surgery
+Table 4: Bleeding During the Treatment Period in Patients Undergoing Elective Hip or Knee Replacement Surgery
 
 | Bleeding Endpoint* | ADVANCE-3 Hip Replacement Surgery |  | ADVANCE-2 Knee Replacement Surgery |  | ADVANCE-1 Knee Replacement Surgery |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -85,11 +90,15 @@ Table 3: Bleeding During the Treatment Period in Patients Undergoing Elective Hi
 | Bleed at critical site§ | 1 (0.04%) | 1 (0.04%) | 1 (0.07%) | 2 (0.13%) | 1 (0.06%) | 4 (0.25%) |
 | Major + CRNM¶ | 129 (4.83%) | 134 (5.04%) | 53 (3.53%) | 72 (4.77%) | 46 (2.88%) | 68 (4.28%) |
 | All | 313 (11.71%) | 334 (12.56%) | 104 (6.93%) | 126 (8.36%) | 85 (5.33%) | 108 (6.80%) |
-| * All bleeding criteria included surgical site bleeding. † Includes 13 subjects with major bleeding events that occurred before the first dose of ELIQUIS (administered 12 to 24 hours post-surgery). ‡ Includes 5 subjects with major bleeding events that occurred before the first dose of ELIQUIS (administered 12 to 24 hours post-surgery). § Intracranial, intraspinal, intraocular, pericardial, an operated joint requiring re-operation or intervention, intramuscular with compartment syndrome, or retroperitoneal. Bleeding into an operated joint requiring re-operation or intervention was present in all patients with this category of bleeding. Events and event rates include one enoxaparin-treated patient in ADVANCE-1 who also had intracranial hemorrhage. ¶ CRNM = clinically relevant nonmajor. |  |  |  |  |  |  |
+| * All bleeding criteria included surgical site bleeding. |  |  |  |  |  |  |
+| † Includes 13 subjects with major bleeding events that occurred before the first dose of ELIQUIS (administered 12 to 24 hours post surgery). |  |  |  |  |  |  |
+| ‡ Includes 5 subjects with major bleeding events that occurred before the first dose of ELIQUIS (administered 12 to 24 hours post surgery). |  |  |  |  |  |  |
+| § Intracranial, intraspinal, intraocular, pericardial, an operated joint requiring re-operation or intervention, intramuscular with compartment syndrome, or retroperitoneal. Bleeding into an operated joint requiring re-operation or intervention was present in all patients with this category of bleeding. Events and event rates include one enoxaparin-treated patient in ADVANCE-1 who also had intracranial hemorrhage. |  |  |  |  |  |  |
+| ¶ CRNM = clinically relevant nonmajor. |  |  |  |  |  |  |
 
-Adverse reactions occurring in ≥1% of patients undergoing hip or knee replacement surgery in the 1 Phase II study and the 3 Phase III studies are listed in Table 4.
+Adverse reactions occurring in ≥1% of patients undergoing hip or knee replacement surgery in the 1 Phase II study and the 3 Phase III studies are listed in Table 5.
 
-Table 4: Adverse Reactions Occurring in ≥1% of Patients in Either Group Undergoing Hip or Knee Replacement Surgery
+Table 5: Adverse Reactions Occurring in ≥1% of Patients in Either Group Undergoing Hip or Knee Replacement Surgery
 
 |  | ELIQUIS, n (%) 2.5 mg po bid N=5924 | Enoxaparin, n (%) 40 mg sc qd or 30 mg sc q12h N=5904 |
 | --- | --- | --- |
@@ -122,13 +131,13 @@ Less common adverse reactions in ELIQUIS-treated patients undergoing hip or knee
 
 Gingival bleeding, hemoptysis, hypersensitivity, muscle hemorrhage, ocular hemorrhage (including conjunctival hemorrhage), rectal hemorrhage
 
-### Treatment of DVT and PE and Reduction in the Risk of Recurrence of DVT or PE
+Treatment of DVT and PE and Reduction in the Risk of Recurrence of DVT or PE
 
 The safety of ELIQUIS has been evaluated in the AMPLIFY and AMPLIFY-EXT studies, including 2676 patients exposed to ELIQUIS 10 mg twice daily, 3359 patients exposed to ELIQUIS 5 mg twice daily, and 840 patients exposed to ELIQUIS 2.5 mg twice daily.
 
 Common adverse reactions (≥1%) were gingival bleeding, epistaxis, contusion, hematuria, rectal hemorrhage, hematoma, menorrhagia, and hemoptysis.
 
-#### AMPLIFY Study
+AMPLIFY Study
 
 The mean duration of exposure to ELIQUIS was 154 days and to enoxaparin/warfarin was 152 days in the AMPLIFY study.
 Adverse reactions related to bleeding occurred in 417 (15.6%) ELIQUIS-treated patients compared to 661 (24.6%) enoxaparin/warfarin-treated patients.
@@ -136,9 +145,9 @@ The discontinuation rate due to bleeding events was 0.7% in the ELIQUIS-treated 
 
 In the AMPLIFY study, ELIQUIS was statistically superior to enoxaparin/warfarin in the primary safety endpoint of major bleeding (relative risk 0.31, 95% CI [0.17, 0.55], P-value <0.0001).
 
-Bleeding results from the AMPLIFY study are summarized in Table 5.
+Bleeding results from the AMPLIFY study are summarized in Table 6.
 
-Table 5: Bleeding Results in the AMPLIFY Study
+Table 6: Bleeding Results in the AMPLIFY Study
 
 |  | ELIQUIS N=2676 n (%) | Enoxaparin/Warfarin N=2689 n (%) | Relative Risk (95% CI) |
 | --- | --- | --- | --- |
@@ -147,11 +156,12 @@ Table 5: Bleeding Results in the AMPLIFY Study
 | Major + CRNM | 115 (4.3) | 261 (9.7) |  |
 | Minor | 313 (11.7) | 505 (18.8) |  |
 | All | 402 (15.0) | 676 (25.1) |  |
-| * CRNM = clinically relevant nonmajor bleeding. Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |
+| * CRNM = clinically relevant nonmajor bleeding. |  |  |  |
+| Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |
 
-Adverse reactions occurring in ≥1% of patients in the AMPLIFY study are listed in Table 6.
+Adverse reactions occurring in ≥1% of patients in the AMPLIFY study are listed in Table 7.
 
-Table 6: Adverse Reactions Occurring in ≥1% of Patients Treated for DVT and PE in the AMPLIFY Study
+Table 7: Adverse Reactions Occurring in ≥1% of Patients Treated for DVT and PE in the AMPLIFY Study
 
 |  | ELIQUIS N=2676 n (%) | Enoxaparin/Warfarin N=2689 n (%) |
 | --- | --- | --- |
@@ -164,15 +174,15 @@ Table 6: Adverse Reactions Occurring in ≥1% of Patients Treated for DVT and PE
 | Rectal hemorrhage | 26 (1.0) | 39 (1.5) |
 | Gingival bleeding | 26 (1.0) | 50 (1.9) |
 
-#### AMPLIFY-EXT Study
+AMPLIFY-EXT Study
 
 The mean duration of exposure to ELIQUIS was approximately 330 days and to placebo was 312 days in the AMPLIFY-EXT study.
 Adverse reactions related to bleeding occurred in 219 (13.3%) ELIQUIS-treated patients compared to 72 (8.7%) placebo-treated patients.
 The discontinuation rate due to bleeding events was approximately 1% in the ELIQUIS-treated patients compared to 0.4% in those patients in the placebo group in the AMPLIFY-EXT study.
 
-Bleeding results from the AMPLIFY-EXT study are summarized in Table 7.
+Bleeding results from the AMPLIFY-EXT study are summarized in Table 8.
 
-Table 7: Bleeding Results in the AMPLIFY-EXT Study
+Table 8: Bleeding Results in the AMPLIFY-EXT Study
 
 |  | ELIQUIS 2.5 mg bid N=840 n (%) | ELIQUIS 5 mg bid N=811 n (%) | Placebo N=826 n (%) |
 | --- | --- | --- | --- |
@@ -181,11 +191,12 @@ Table 7: Bleeding Results in the AMPLIFY-EXT Study
 | Major + CRNM | 27 (3.2) | 35 (4.3) | 22 (2.7) |
 | Minor | 75 (8.9) | 98 (12.1) | 58 (7.0) |
 | All | 94 (11.2) | 121 (14.9) | 74 (9.0) |
-| * CRNM = clinically relevant nonmajor bleeding. Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |
+| * CRNM = clinically relevant nonmajor bleeding. |  |  |  |
+| Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |  |
 
-Adverse reactions occurring in ≥1% of patients in the AMPLIFY-EXT study are listed in Table 8.
+Adverse reactions occurring in ≥1% of patients in the AMPLIFY-EXT study are listed in Table 9.
 
-Table 8: Adverse Reactions Occurring in ≥1% of Patients Undergoing Extended Treatment for DVT and PE in the AMPLIFY-EXT Study
+Table 9: Adverse Reactions Occurring in ≥1% of Patients Undergoing Extended Treatment for DVT and PE in the AMPLIFY-EXT Study
 
 |  | ELIQUIS 2.5 mg bid N=840 n (%) | ELIQUIS 5 mg bid N=811 n (%) | Placebo N=826 n (%) |
 | --- | --- | --- | --- |
@@ -195,7 +206,7 @@ Table 8: Adverse Reactions Occurring in ≥1% of Patients Undergoing Extended Tr
 | Contusion | 18 (2.1) | 18 (2.2) | 18 (2.2) |
 | Gingival bleeding | 12 (1.4) | 9 (1.1) | 3 (0.4) |
 
-#### Other Adverse Reactions
+Other Adverse Reactions
 
 Less common adverse reactions in ELIQUIS-treated patients in the AMPLIFY or AMPLIFY-EXT studies occurring at a frequency of ≥0.1% to <1%:
 
@@ -218,3 +229,46 @@ Eye disorders: conjunctival hemorrhage, retinal hemorrhage, eye hemorrhage
 Investigations: blood urine present, occult blood positive, occult blood, red blood cells urine positive
 
 General disorders and administration-site conditions: injection-site hematoma, vessel puncture-site hematoma
+
+Pediatric Patients
+
+Treatment of Venous Thromboembolism (VTE) and Reduction in the Risk of Recurrent VTE in Pediatric Patients
+
+The safety assessment of ELIQUIS is based on data from CV185325, a phase 3 study in 225 patients from birth and older.
+Patients were randomized 2:1 to receive body weight-adjusted doses of an age-appropriate formulation of ELIQUIS or standard of care.
+The standard of care treatments included unfractionated heparin (UFH), low molecular weight heparin (LMWH), or vitamin K antagonist (VKA).
+
+Overall, the safety profile of ELIQUIS in pediatric patients from birth and older was generally similar to that in adults and consistent across different pediatric age groups.
+In pediatric patients, excessive menstrual bleeding occurred in 17 (11%) patients in the ELIQUIS group and 3 (4%) patients in the standard of care group.
+Epistaxis occurred in 24 (16%) patients in the ELIQUIS group and 14 (19%) patients in the standard of care group.
+
+Bleeding results from Study CV185325 in pediatric patients with VTE are summarized in Table 10.
+
+Table 10: Bleeding Results in Study CV185325 – Safety Analysis Set – Main Phase
+
+|  | ELIQUIS N=152 | Standard of care ** N=73 |
+| --- | --- | --- |
+| Major Bleeding |  |  |
+| Number (%) Subjects with Event 95% Confidence Interval (1) | 0 | 0 |
+| CRNM* |  |  |
+| Number (%) Subjects with Event | 2 (1.3) | 1 (1.4) |
+| 95% Confidence Interval (1) | (0.2, 4.7) | (0.0, 7.4) |
+| Minor Bleeding |  |  |
+| Number (%) Subjects with Event | 54 (35.5) | 21 (28.8) |
+| 95% Confidence Interval (1) | (27.9, 43.7) | (18.8, 40.6) |
+| All |  |  |
+| Number (%) Subjects with Event | 55 (36.2) | 21 (28.8) |
+| 95% Confidence Interval (1) | (28.6, 44.4) | (18.8, 40.6) |
+| * CRNM = clinically relevant nonmajor bleeding. |  |  |
+| (1) 95% Confidence Interval calculated using the Clopper-Pearson exact method |  |  |
+| Events associated with each endpoint were counted once per subject, but subjects may have contributed events to multiple endpoints. |  |  |
+| ** UFH/LMWH for patients less than 2 years of age and UFH/LMWH/VKA for those equal to or greater than 2 years of age. |  |  |
+
+Non-bleeding adverse reactions occurring in ≥10% of patients in study CV185325 are listed in Table 11.
+
+Table 11: Other Adverse Reactions Occurring in ≥10% of Patients in Study CV185325
+
+| Number of Subjects Evaluable for Adverse Reaction | ELIQUIS N=152 n (%) | Standard of Care N=73 n (%) |
+| --- | --- | --- |
+| Headache | 25 (16.4) | 11 (15.1) |
+| Vomiting | 21 (13.8) | 5 (6.8) |

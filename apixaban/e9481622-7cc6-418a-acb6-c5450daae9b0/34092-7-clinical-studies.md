@@ -2,7 +2,7 @@
 
 ## 14.1 Reduction of Risk of Stroke and Systemic Embolism in Nonvalvular Atrial Fibrillation
 
-### ARISTOTLE
+ARISTOTLE
 
 Evidence for the efficacy and safety of ELIQUIS was derived from ARISTOTLE, a multinational, double-blind study in patients with nonvalvular AF comparing the effects of ELIQUIS and warfarin on the risk of stroke and non-central nervous system (CNS) systemic embolism.
 In ARISTOTLE, patients were randomized to ELIQUIS 5 mg orally twice daily (or 2.5 mg twice daily in subjects with at least 2 of the following characteristics: age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL) or to warfarin (targeted to an INR range of 2.0-3.0).
@@ -27,13 +27,13 @@ There was a history of stroke, TIA, or non-CNS systemic embolism in 19% of patie
 Concomitant diseases of patients in this study included hypertension 88%, diabetes 25%, congestive heart failure (or left ventricular ejection fraction ≤40%) 35%, and prior myocardial infarction 14%.
 Patients treated with warfarin in ARISTOTLE had a mean percentage of time in therapeutic range (INR 2.0-3.0) of 62%.
 
-ELIQUIS was superior to warfarin for the primary endpoint of reducing the risk of stroke and systemic embolism (Table 9 and Figure 4).
+ELIQUIS was superior to warfarin for the primary endpoint of reducing the risk of stroke and systemic embolism (Table 13 and Figure 4).
 Superiority to warfarin was primarily attributable to a reduction in hemorrhagic stroke and ischemic strokes with hemorrhagic conversion compared to warfarin.
 Purely ischemic strokes occurred with similar rates on both drugs.
 
 ELIQUIS also showed significantly fewer major bleeds than warfarin [see Adverse Reactions (6.1)].
 
-Table 9: Key Efficacy Outcomes in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE (Intent-to-Treat Analysis)
+Table 13: Key Efficacy Outcomes in Patients with Nonvalvular Atrial Fibrillation in ARISTOTLE (Intent-to-Treat Analysis)
 
 |  | ELIQUIS N=9120 n (%/year) | Warfarin N=9081 n (%/year) | Hazard Ratio (95% CI) | P-value |
 | --- | --- | --- | --- | --- |
@@ -50,7 +50,7 @@ Figure 4: Kaplan-Meier Estimate of Time to First Stroke or Systemic Embolism in 
 
 All-cause death was assessed using a sequential testing strategy that allowed testing for superiority if effects on earlier endpoints (stroke plus systemic embolus and major bleeding) were demonstrated.
 ELIQUIS treatment resulted in a significantly lower rate of all-cause death (p = 0.046) than did treatment with warfarin, primarily because of a reduction in cardiovascular death, particularly stroke deaths.
-Non vascular death rates were similar in the treatment arms.
+Non-vascular death rates were similar in the treatment arms.
 
 In ARISTOTLE, the results for the primary efficacy endpoint were generally consistent across most major subgroups including weight, CHADS2 score (a scale from 0 to 6 used to predict risk of stroke in patients with AF, with higher scores predicting greater risk), prior warfarin use, level of renal impairment, geographic region, and aspirin use at randomization (Figure 5).
 
@@ -64,13 +64,13 @@ At the end of the ARISTOTLE study, warfarin patients who completed the study wer
 ELIQUIS patients who completed the study were generally switched to a VKA with a 2-day period of coadministration of ELIQUIS and VKA, so that some patients may not have been adequately anticoagulated after stopping ELIQUIS until attaining a stable and therapeutic INR.
 During the 30 days following the end of the study, there were 21 stroke or systemic embolism events in the 6791 patients (0.3%) in the ELIQUIS arm compared to 5 in the 6569 patients (0.1%) in the warfarin arm [see Dosage and Administration (2.4)].
 
-### AVERROES
+AVERROES
 
 In AVERROES, patients with nonvalvular atrial fibrillation thought not to be candidates for warfarin therapy were randomized to treatment with ELIQUIS 5 mg orally twice daily (or 2.5 mg twice daily in selected patients) or aspirin 81 to 324 mg once daily.
 The primary objective of the study was to determine if ELIQUIS was superior to aspirin for preventing the composite outcome of stroke or systemic embolism.
-AVERROES was stopped early on the basis of a prespecified interim analysis showing a significant reduction in stroke and systemic embolism for ELIQUIS compared to aspirin that was associated with a modest increase in major bleeding (Table 10) [see Adverse Reactions (6.1)].
+AVERROES was stopped early on the basis of a prespecified interim analysis showing a significant reduction in stroke and systemic embolism for ELIQUIS compared to aspirin that was associated with a modest increase in major bleeding (Table 14) [see Adverse Reactions (6.1)].
 
-Table 10: Key Efficacy Outcomes in Patients with Nonvalvular Atrial Fibrillation in AVERROES
+Table 14: Key Efficacy Outcomes in Patients with Nonvalvular Atrial Fibrillation in AVERROES
 
 |  | ELIQUIS N=2807 n (%/year) | Aspirin N=2791 n (%/year) | Hazard Ratio (95% CI) | P-value |
 | --- | --- | --- | --- | --- |
@@ -94,7 +94,7 @@ The first dose of ELIQUIS was given 12 to 24 hours post surgery, whereas enoxapa
 Treatment duration was 32 to 38 days.
 
 In patients undergoing elective knee replacement surgery, ELIQUIS 2.5 mg orally twice daily was compared to enoxaparin 40 mg subcutaneously once daily (ADVANCE-2, N=3057) or enoxaparin 30 mg subcutaneously every 12 hours (ADVANCE-1, N=3195).
-In the ADVANCE-2 study, the first dose of ELIQUIS was given 12 to 24 hours post surgery, whereas enoxaparin was started 9 to 15 hours prior to surgery.
+In the ADVANCE-2 study, the first dose of ELIQUIS was given 12 to 24 hours postsurgery, whereas enoxaparin was started 9 to 15 hours prior to surgery.
 In the ADVANCE-1 study, both ELIQUIS and enoxaparin were initiated 12 to 24 hours post surgery.
 Treatment duration in both ADVANCE-2 and ADVANCE-1 was 10 to 14 days.
 
@@ -102,9 +102,9 @@ In all 3 studies, the primary endpoint was a composite of adjudicated asymptomat
 In ADVANCE-3 and ADVANCE-2, the primary endpoint was tested for noninferiority, then superiority, of ELIQUIS to enoxaparin.
 In ADVANCE-1, the primary endpoint was tested for noninferiority of ELIQUIS to enoxaparin.
 
-The efficacy data are provided in Tables 11 and 12.
+The efficacy data are provided in Tables 15 and 16.
 
-Table 11: Summary of Key Efficacy Analysis Results During the Intended Treatment Period for Patients Undergoing Elective Hip Replacement Surgery*
+Table 15: Summary of Key Efficacy Analysis Results During the Intended Treatment Period for Patients Undergoing Elective Hip Replacement Surgery*
 
 |  | ADVANCE-3 |  |  |
 | --- | --- | --- | --- |
@@ -121,22 +121,22 @@ Table 11: Summary of Key Efficacy Analysis Results During the Intended Treatment
 | Distal DVT‡ | 20 (1.03%) (0.66, 1.59) | 57 (2.99%) (2.31, 3.86) |  |
 | * Events associated with each endpoint were counted once per subject but subjects may have contributed events to multiple endpoints. † Total VTE includes symptomatic and asymptomatic DVT and PE. ‡ Includes symptomatic and asymptomatic DVT. |  |  |  |
 
-Table 12: Summary of Key Efficacy Analysis Results During the Intended Treatment Period for Patients Undergoing Elective Knee Replacement Surgery*
+Table 16: Summary of Key Efficacy Analysis Results During the Intended Treatment Period for Patients Undergoing Elective Knee Replacement Surgery*
 
-|  | ADVANCE-1 |  |  | ADVANCE-2 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Events during 12-day treatment period | ELIQUIS 2.5 mg po bid | Enoxaparin 30 mg sc q12h | Relative Risk (95% CI) P-value | ELIQUIS 2.5 mg po bid | Enoxaparin 40 mg scqd | Relative Risk (95% CI)P-value |  |  |  |  |
-| Number of Patients | N=1157 | N=1130 |  | N=976 | N=997 |  |  |  |  |  |
-| Total VTE†/All-cause death | 104 (8.99%) (7.47, 10.79) | 100 (8.85%) (7.33, 10.66) | 1.02 (0.78, 1.32) NS | 147 (15.06%) (12.95, 17.46) | 243 (24.37%) (21.81, 27.14) | 0.62 (0.51, 0.74) p<0.0001 |  |  |  |  |
-| Number of Patients | N=1599 | N=1596 |  | N=1528 | N=1529 |  |  |  |  |  |
-| All-cause death | 3 (0.19%) (0.04, 0.59) | 3 (0.19%) (0.04, 0.59) |  | 2 (0.13%) (0.01, 0.52) | 0 (0%) (0.00, 0.31) |  |  |  |  |  |
-| PE | 16 (1.0%) (0.61, 1.64) | 7 (0.44%) (0.20, 0.93) |  | 4 (0.26%) (0.08, 0.70) | 0 (0%) (0.00, 0.31) |  |  |  |  |  |
-| Symptomatic DVT | 3 (0.19%) (0.04, 0.59) | 7 (0.44%) (0.20, 0.93) |  | 3 (0.20%) (0.04, 0.61) | 7 (0.46%) (0.20, 0.97) |  |  |  |  |  |
-| Number of Patients | N=1254 | N=1207 |  | N=1192 | N=1199 |  |  |  |  |  |
-| Proximal DVT‡ | 9 (0.72%) (0.36, 1.39) | 11 (0.91%) (0.49, 1.65) |  | 9 (0.76%) (0.38, 1.46) | 26 (2.17%) (1.47, 3.18) |  |  |  |  |  |
-| Number of Patients | N=1146 | N=1133 |  | N=978 | N=1000 |  |  |  |  |  |
-| Distal DVT‡ | 83 (7.24%) (5.88, 8.91) | 91 (8.03%) (6.58, 9.78) |  | 142 (14.52%) (12.45, 16.88) | 239 (23.9%) (21.36, 26.65) |  |  |  |  |  |
-| * Events associated with each endpoint were counted once per subject but subjects may have contributed events to multiple endpoints. † Total VTE includes symptomatic and asymptomatic DVT and PE. ‡ Includes symptomatic and asymptomatic DVT. |  |  |  |  |  |  |  |  |  |  |
+|  | ADVANCE-1 |  |  | ADVANCE-2 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Events during 12-day treatment period | ELIQUIS 2.5 mg po bid | Enoxaparin 30 mg sc q12h | Relative Risk (95% CI) P-value | ELIQUIS 2.5 mg po bid | Enoxaparin 40 mg scqd | Relative Risk (95% CI)P-value |
+| Number of Patients | N=1157 | N=1130 |  | N=976 | N=997 |  |
+| Total VTE†/All-cause death | 104 (8.99%) (7.47, 10.79) | 100 (8.85%) (7.33, 10.66) | 1.02 (0.78, 1.32) NS | 147 (15.06%) (12.95, 17.46) | 243 (24.37%) (21.81, 27.14) | 0.62 (0.51, 0.74) p<0.0001 |
+| Number of Patients | N=1599 | N=1596 |  | N=1528 | N=1529 |  |
+| All-cause death | 3 (0.19%) (0.04, 0.59) | 3 (0.19%) (0.04, 0.59) |  | 2 (0.13%) (0.01, 0.52) | 0 (0%) (0.00, 0.31) |  |
+| PE | 16 (1.0%) (0.61, 1.64) | 7 (0.44%) (0.20, 0.93) |  | 4 (0.26%) (0.08, 0.70) | 0 (0%) (0.00, 0.31) |  |
+| Symptomatic DVT | 3 (0.19%) (0.04, 0.59) | 7 (0.44%) (0.20, 0.93) |  | 3 (0.20%) (0.04, 0.61) | 7 (0.46%) (0.20, 0.97) |  |
+| Number of Patients | N=1254 | N=1207 |  | N=1192 | N=1199 |  |
+| Proximal DVT‡ | 9 (0.72%) (0.36, 1.39) | 11 (0.91%) (0.49, 1.65) |  | 9 (0.76%) (0.38, 1.46) | 26 (2.17%) (1.47, 3.18) |  |
+| Number of Patients | N=1146 | N=1133 |  | N=978 | N=1000 |  |
+| Distal DVT‡ | 83 (7.24%) (5.88, 8.91) | 91 (8.03%) (6.58, 9.78) |  | 142 (14.52%) (12.45, 16.88) | 239 (23.9%) (21.36, 26.65) |  |
+| * Events associated with each endpoint were counted once per subject but subjects may have contributed events to multiple endpoints. † Total VTE includes symptomatic and asymptomatic DVT and PE. ‡ Includes symptomatic and asymptomatic DVT. |  |  |  |  |  |  |
 
 The efficacy profile of ELIQUIS was generally consistent across subgroups of interest for this indication (e.g., age, gender, race, body weight, renal impairment).
 
@@ -146,7 +146,7 @@ Efficacy and safety of ELIQUIS for the treatment of DVT and PE, and for the redu
 Both studies were randomized, parallel-group, double-blind trials in patients with symptomatic proximal DVT and/or symptomatic PE.
 All key safety and efficacy endpoints were adjudicated in a blinded manner by an independent committee.
 
-### AMPLIFY
+AMPLIFY
 
 The primary objective of AMPLIFY was to determine whether ELIQUIS was noninferior to enoxaparin/warfarin for the incidence of recurrent VTE (venous thromboembolism) or VTE-related death.
 Patients with an objectively confirmed symptomatic DVT and/or PE were randomized to treatment with ELIQUIS 10 mg twice daily orally for 7 days followed by ELIQUIS 5 mg twice daily orally for 6 months, or enoxaparin 1 mg/kg twice daily subcutaneously for at least 5 days (until INR ≥2) followed by warfarin (target INR range 2.0-3.0) orally for 6 months.
@@ -161,9 +161,9 @@ For patients randomized to warfarin, the mean percentage of time in therapeutic 
 Approximately 90% of patients enrolled in AMPLIFY had an unprovoked DVT or PE at baseline.
 The remaining 10% of patients with a provoked DVT or PE were required to have an additional ongoing risk factor in order to be randomized, which included previous episode of DVT or PE, immobilization, history of cancer, active cancer, and known prothrombotic genotype.
 
-ELIQUIS was shown to be noninferior to enoxaparin/warfarin in the AMPLIFY study for the primary endpoint of recurrent symptomatic VTE (nonfatal DVT or nonfatal PE) or VTE-related death over 6 months of therapy (Table 13).
+ELIQUIS was shown to be noninferior to enoxaparin/warfarin in the AMPLIFY study for the primary endpoint of recurrent symptomatic VTE (nonfatal DVT or nonfatal PE) or VTE-related death over 6 months of therapy (Table 17).
 
-Table 13: Efficacy Results in the AMPLIFY Study
+Table 17: Efficacy Results in the AMPLIFY Study
 
 |  | ELIQUIS N=2609 n | Enoxaparin/Warfarin N=2635 n | Relative Risk (95% CI) |
 | --- | --- | --- | --- |
@@ -178,7 +178,7 @@ Table 13: Efficacy Results in the AMPLIFY Study
 In the AMPLIFY study, patients were stratified according to their index event of PE (with or without DVT) or DVT (without PE).
 Efficacy in the initial treatment of VTE was consistent between the two subgroups.
 
-### AMPLIFY-EXT
+AMPLIFY-EXT
 
 Patients who had been treated for DVT and/or PE for 6 to 12 months with anticoagulant therapy without having a recurrent event were randomized to treatment with ELIQUIS 2.5 mg orally twice daily, ELIQUIS 5 mg orally twice daily, or placebo for 12 months.
 Approximately one-third of patients participated in the AMPLIFY study prior to enrollment in the AMPLIFY-EXT study.
@@ -189,9 +189,9 @@ The study population was 57% male, 85% Caucasian, 5% Asian, and 3% Black.
 
 The AMPLIFY-EXT study enrolled patients with either an unprovoked DVT or PE at baseline (approximately 92%) or patients with a provoked baseline event and one additional risk factor for recurrence (approximately 8%).
 However, patients who had experienced multiple episodes of unprovoked DVT or PE were excluded from the AMPLIFY-EXT study.
-In the AMPLIFY-EXT study, both doses of ELIQUIS were superior to placebo in the primary endpoint of symptomatic, recurrent VTE (nonfatal DVT or nonfatal PE), or all-cause death (Table 14).
+In the AMPLIFY-EXT study, both doses of ELIQUIS were superior to placebo in the primary endpoint of symptomatic, recurrent VTE (nonfatal DVT or nonfatal PE), or all-cause death (Table 18).
 
-Table 14: Efficacy Results in the AMPLIFY-EXT Study
+Table 18: Efficacy Results in the AMPLIFY-EXT Study
 
 |  | ELIQUIS 2.5 mg bid N=840 | ELIQUIS 5 mg bid N=813 | Placebo N=829 | ELIQUIS 2.5 mg bid vs Placebo | ELIQUIS 5 mg bid vs Placebo |
 | --- | --- | --- | --- | --- | --- |
@@ -201,4 +201,41 @@ Table 14: Efficacy Results in the AMPLIFY-EXT Study
 | DVT* | 19 (2.3) | 28 (3.4) | 72 (8.7) |  |  |
 | PE* | 23 (2.7) | 25 (3.1) | 37 (4.5) |  |  |
 | All-cause death | 22 (2.6) | 25 (3.1) | 33 (4.0) |  |  |
-| * Patients with more than one event are counted in multiple rows. |  |  |  |  |  |
+
+* Patients with more than one event are counted in multiple rows.
+
+## 14.4 Treatment of VTE and Prevention of Recurrent VTE in Pediatric Patients from birth and older
+
+Study CV185325
+
+ELIQUIS for the treatment of venous thromboembolism (VTE) and reduction in the risk of recurrent VTE was evaluated in Study CV185325, a multicenter, randomized, active-controlled, open-label, multi-center study in 229 pediatric patients from birth to less than 18 years with confirmed VTE.
+This was a descriptive study and no formal inferences were performed.
+There were 137 patients aged 12 to < 18 years, 44 patients aged 2 to < 12 years, 32 patients aged 28 days to less than 2 years and 16 patients from birth to less than 27 days.
+Overall, the median age was 14.2 years with a range of 0.04 to 18.0 years.
+Neonates and infants were excluded from enrollment if they were < 34 weeks’ gestation (until age of > 6 months) or had a body weight of < 2.6 kg.
+For pre-term infants born between 34 and <37 weeks gestation, neonates who reached 37 weeks starting from actual date of birth (postnatal age), from 27 day neonatal period starting from actual date of birth (postnatal age), or from when the postmenstrual age (gestational age defined as time elapsed between first day of last normal menstrual period and the day of delivery plus postnatal age) and enrolled the neonate no more than 27 days thereafter.
+There were 101 (44.1%) males, and 128 (55.9%) females in the study.
+One hundred and seventy-five (76.4%) patients were White, 31 (13.5%) were Black, 9 (3.9%) were Asian, 4 (1.7%) were Other, 2 (0.9%) were Multiracial and 1 (0.4%) was American Indian or Alaska Native, and 7 (3.1%) were missing this information.
+Twenty-five (10.9%) were Hispanic or Latino and 204 (89.1%) were not Hispanic or Latino.
+
+Index VTE was classified as deep venous thrombosis (DVT), pulmonary embolism (PE), device-related thrombosis (neonatal population only), and other VTE (i.e. cerebral vein and sinus thrombosis, renal vein thrombosis, intracardiac thrombus).
+Prior to randomization, patients could be treated with SOC anticoagulation for up to 14 days; overall mean (SD) duration of treatment with SOC anticoagulation prior to randomization was 4.9 (2.6) days, and for 92.9% of patients the duration was between 0 and 7 days.
+Patients were randomized according to a 2:1 ratio to receive either an age-appropriate formulation and body weight-adjusted doses of ELIQUIS or SOC.
+For patients 2 to less than 18 years, SOC was comprised of low molecular weight heparins (LMWH), unfractionated heparins (UFH) or vitamin K antagonists (VKA).
+For patients 28 days to less than 2 years of age, SOC was limited to heparins (UFH or LMWH).
+The main treatment phase lasted 6 to 12 weeks for patients aged birth to less than 2 years, and 12 weeks for patients aged greater than 2 years.
+Patients aged 28 days to less than 18 years who were randomized to receive apixaban had the option to continue apixaban treatment for 6 to 12 additional weeks in the extension phase.
+
+A diagnostic imaging test was obtained at baseline, at week 6, and end of treatment for patients ≥2 years of age and at baseline and end of treatment for <2 years of age.
+
+Table 19: Primary efficacy results from Study CV185325
+
+|  | ELIQUIS N=155 | Standard of care ** N=74 |
+| --- | --- | --- |
+| Symptomatic and asymptomatic recurrent VTE* and VTE* related mortality*** |  |  |
+| Number (%) Subjects with Event | 4 (2.6) | 2 (2.7) |
+| 95% Confidence Interval (1) | (0.7, 6.5) | (0.3, 9.4) |
+| * Recurrent VTE, defined as either contiguous progression or non-contiguous new thrombus and including, but not limited to DVT, PE and paradoxical embolism. |  |  |
+| (1) 95% Confidence Interval calculated using the Clopper-Pearson exact method |  |  |
+| ** UFH/LMWH for patients less than 2 years of age and UFH/LMWH/VKA for those equal to or greater than 2 years of age. |  |  |
+| *** no VTE related mortality was observed in either treatment arms during the study. |  |  |

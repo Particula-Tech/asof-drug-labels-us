@@ -4,7 +4,7 @@
 
 Premature discontinuation of any oral anticoagulant, including ELIQUIS, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
 An increased rate of stroke was observed during the transition from ELIQUIS to warfarin in clinical trials in atrial fibrillation patients.
-If ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.4) and Clinical Studies (14.1)].
+If ELIQUIS is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.5) and Clinical Studies (14.1)].
 
 ## 5.2 Bleeding
 
@@ -18,7 +18,8 @@ Discontinue ELIQUIS in patients with active pathological hemorrhage.
 
 ### Reversal of Anticoagulant Effect
 
-An agent to reverse the anti-factor Xa activity of apixaban is available.
+A specific reversal agent (andexanet alfa) antagonizing the pharmacodynamic effect of apixaban is available for adults.
+However, its safety and efficacy have not been established in pediatric patients (refer to the USPI of andexanet alfa).
 The pharmacodynamic effect of ELIQUIS can be expected to persist for at least 24 hours after the last dose, i.e., for about two drug half-lives.
 Prothrombin complex concentrate (PCC), activated prothrombin complex concentrate or recombinant factor VIIa may be considered, but have not been evaluated in clinical studies [see Clinical Pharmacology (12.2)].
 When PCCs are used, monitoring for the anticoagulation effect of apixaban using a clotting test (PT, INR, or aPTT) or anti-factor Xa (FXa) activity is not useful and is not recommended.
@@ -42,6 +43,9 @@ If traumatic puncture occurs, delay the administration of ELIQUIS for 48 hours.
 Monitor patients frequently for signs and symptoms of neurological impairment (e.g., numbness or weakness of the legs, or bowel or bladder dysfunction).
 If neurological compromise is noted, urgent diagnosis and treatment is necessary.
 Prior to neuraxial intervention the physician should consider the potential benefit versus the risk in anticoagulated patients or in patients to be anticoagulated for thromboprophylaxis.
+
+No data are available on the timing of the placement or removal of neuraxial catheters in pediatric patients while on ELIQUIS.
+In such cases, discontinue ELIQUIS and consider a short acting parenteral anticoagulant.
 
 ## 5.4 Patients with Prosthetic Heart Valves
 

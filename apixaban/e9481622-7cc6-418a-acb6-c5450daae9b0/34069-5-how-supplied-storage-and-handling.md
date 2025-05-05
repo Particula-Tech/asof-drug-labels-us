@@ -2,17 +2,15 @@
 
 ### How Supplied
 
-ELIQUIS (apixaban) tablets are available as listed in the table below.
+ELIQUIS (apixaban) tablets for oral use, ELIQUIS (apixaban) tablets for oral suspension, and ELIQUIS SPRINKLE (apixaban) for oral suspension are available as listed in the table below.
 
-| Tablet Strength | Tablet Color/Shape | Tablet Markings | Package Size | NDC Code |
+| Strength | Dosage form/Description | Markings | Package Size | NDC Code |
 | --- | --- | --- | --- | --- |
-| 2.5 mg | Yellow, round, | Debossed with “893” on | Bottles of 60 | 0003-0893-21 |
-|  | biconvex | one side and “2½” on theother side | Hospital Unit-Dose Blister Package of 100 | 0003-0893-31 |
-| 5 mg | Pink, oval, biconvex | Debossed with “894” on | Bottles of 60 | 0003-0894-21 |
-|  |  | one side and “5” on the | Bottles of 74 | 0003-0894-70 |
-|  |  | other side | Hospital Unit-Dose Blister Package of 100 | 0003-0894-31 |
-|  |  |  | 30-Day Starter Pack for Treatment of DVT and PE Containing 74 Tablets (1 blister pack of 42 tablets and 1 blister pack of 32 tablets) | 0003-3764-74 |
+| 0.15 mg | Powder In a yellow, opaque capsule | Printed with “898” | Bottles of 28 | 0003-0898-28 |
+| 0.5 mg | Film-coated Tablet for oral suspension, Pink, round | N/A | Carton of 28 packets 28 count tablet carton (1 tablet per packet)84 count tablet carton (3 tablets per packet)112 count tablet carton (4 tablets per packet) | 0003-1028-280003-3084-280003-4112-28 |
+| 2.5 mg | Film-coated TabletYellow, round,biconvex | Debossed with “893” onone side and “2½” on theother side | Bottles of 60Hospital Unit-Dose Blister Package of 100 | 0003-0893-210003-0893-31 |
+| 5 mg | Film-coated TabletPink, oval, biconvex | Debossed with “894” on one side and “5” on the other side | Bottles of 60Bottles of 74Hospital Unit-Dose Blister Package of 10030-Day Starter Pack for Treatment of DVT and PE Containing 74 Tablets (1 blister pack of 42 tablets and 1 blister pack of 32 tablets) | 0003-0894-210003-0894-700003-0894-310003-3764-74 |
 
 ### Storage and Handling
 
-Store at 20°C to 25°C (68°F-77°F); excursions permitted between 15°C and 30°C (59°F-86°F) [see USP Controlled Room Temperature].
+Store ELIQUIS and ELIQUIS SPRINKLE at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
