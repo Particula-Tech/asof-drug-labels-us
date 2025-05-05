@@ -1,8 +1,7 @@
 Zestril is a registered trademark of TWi Pharmaceuticals, Inc.
 
-Distributed by: TWi Pharmaceuticals USA, Inc. Paramus, NJ 07652
+Distributed by: UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-PKG03122
+PKG03219
 
-Rev.
-11/2023
+Revised 11/2024
