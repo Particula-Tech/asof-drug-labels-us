@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA217810"
+  ],
+  "inn": "rivaroxaban",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-6256-5",
+    "60505-6256-6"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rivaroxaban",
+      "name": "Rivaroxaban"
+    }
+  ],
+  "setid": "e98f6d83-5172-97a1-ee41-5d7d1d8ba2fd",
+  "source": "dailymed"
+}
