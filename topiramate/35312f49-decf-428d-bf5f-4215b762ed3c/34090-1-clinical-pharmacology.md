@@ -87,6 +87,13 @@ Clearance was independent of dose.
 
 As in adults, hepatic enzyme-inducing antiepileptic drugs decrease the steady state plasma concentrations of topiramate.
 
+Pediatric Patients with Obesity
+
+A population PK analysis of topiramate was conducted in 129 children <21 years of age with and without obesity to evaluate the potential impact of obesity on plasma topiramate exposures.
+Obesity was defined as BMI ≥ 95th percentile for age and sex based on CDC-recommended BMI-for-age growth charts for males and females.
+Using the currently recommended dosing regimens, children with obesity are likely to have median values of average concentration at steady-state and trough concentration at steady-state up to 20% lower and 19% lower, respectively, compared to children without obesity.
+Dosage adjustment according to obesity status is not necessary.
+
 Drug Interactions
 
 In vitro studies indicate that topiramate does not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, or CYP3A4/5 isozymes.
@@ -98,9 +105,9 @@ Potential interactions between topiramate and standard AEDs were assessed in con
 The effects of these interactions on mean plasma AUCs are summarized in Table 11.
 
 In Table 11, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate is added.
-The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to topiramate given alone.
+The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to topiramate tablets given alone.
 
-Table 11: Summary of AED Interactions with Topiramate
+Table 11: Summary of AED Interactions with Topiramate Tablets
 
 | AED Co-administered | AED Concentration | Topiramate Concentration |
 | --- | --- | --- |
@@ -112,9 +119,9 @@ Table 11: Summary of AED Interactions with Topiramate
 | Primidone | NC | NE |
 | Lamotrigine | NC at TPM doses up to 400 mg/day | 13% decrease |
 
-a = Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin.
+a Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin.
 
-b = Is not administered but is an active metabolite of carbamazepine.
+b Is not administered but is an active metabolite of carbamazepine.
 
 NC = Less than 10% change in plasma concentration.
 
@@ -126,14 +133,14 @@ TPM = Topiramate
 
 Oral Contraceptives
 
-In a pharmacokinetic interaction study in healthy volunteers with a concomitantly administered combination oral contraceptive product containing 1 mg norethindrone (NET) plus 35 mcg ethinyl estradiol (EE), topiramate, given in the absence of other medications at doses of 50 to 200 mg/day, was not associated with statistically significant changes in mean exposure (AUC) to either component of the oral contraceptive.
+In a pharmacokinetic interaction study in healthy volunteers with a concomitantly administered combination oral contraceptive product containing 1 mg norethindrone (NET) plus 35 mcg ethinyl estradiol (EE), topiramate tablets, given in the absence of other medications at doses of 50 to 200 mg/day, was not associated with statistically significant changes in mean exposure (AUC) to either component of the oral contraceptive.
 In another study, exposure to EE was statistically significantly decreased at doses of 200, 400, and 800 mg/day (18%, 21%, and 30%, respectively) when given as adjunctive therapy in patients taking valproic acid.
-In both studies, topiramate (50 mg/day to 800 mg/day) did not significantly affect exposure to NET and there was no significant dose-dependent change in EE exposure for doses of 50 to 200 mg/day.
+In both studies, topiramate tablets (50 mg/day to 800 mg/day) did not significantly affect exposure to NET and there was no significant dose-dependent change in EE exposure for doses of 50 to 200 mg/day.
 The clinical significance of the changes observed is not known [see Drug Interactions (7.4)].
 
 Digoxin
 
-In a single-dose study, serum digoxin AUC was decreased by 12% with concomitant topiramate administration.
+In a single-dose study, serum digoxin AUC was decreased by 12% with concomitant topiramate tablets administration.
 The clinical relevance of this observation has not been established.
 
 Hydrochlorothiazide
@@ -178,7 +185,7 @@ The pharmacokinetics of a single dose of haloperidol (5 mg) were not affected fo
 
 Amitriptyline
 
-There was a 12% increase in AUC and Cmax for amitriptyline (25 mg per day) in 18 healthy subjects (9 males, 9 females) receiving 200 mg/day of topiramate.
+There was a 12% increase in AUC and Cmax for amitriptyline (25 mg per day) in 18 healthy subjects (9 males, 9 females) receiving 200 mg/day of topiramate tablets.
 
 Sumatriptan
 
@@ -203,10 +210,10 @@ Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the phar
 
 Diltiazem
 
-Co-administration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg/day) resulted in a 10% decrease in Cmax and a 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
+Co-administration of diltiazem (240 mg Cardizem CD) with topiramate (150 mg/day) resulted in a 10% decrease in Cmax and a 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
 Co-administration of topiramate with diltiazem resulted in a 16% increase in Cmax and a 19% increase in AUC12 of topiramate.
 
 Venlafaxine
 
-Multiple dosing of topiramate (150 mg/day) in healthy volunteers did not affect the pharmacokinetics of venlafaxine or O‑desmethyl venlafaxine.
+Multiple dosing of topiramate tablets (150 mg/day) in healthy volunteers did not affect the pharmacokinetics of venlafaxine or O‑desmethyl venlafaxine.
 Multiple dosing of venlafaxine (150 mg) did not affect the pharmacokinetics of topiramate.

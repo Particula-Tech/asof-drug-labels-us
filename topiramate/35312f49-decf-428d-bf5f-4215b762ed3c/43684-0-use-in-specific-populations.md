@@ -4,7 +4,7 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to topiramate during pregnancy.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to topiramate tablets during pregnancy.
 Patients should be encouraged to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334.
@@ -12,7 +12,7 @@ Information about the North American Drug Pregnancy Registry can be found at htt
 
 Risk Summary
 
-Topiramate can cause fetal harm when administered to a pregnant woman.
+Topiramate tablets can cause fetal harm when administered to a pregnant woman.
 Data from pregnancy registries indicate that infants exposed to topiramate in utero have an increased risk of major congenital malformations, including but not limited to cleft lip and/or cleft palate (oral clefts), and of being small for gestational age (SGA) [see Human Data].
 SGA has been observed at all doses and appears to be dose-dependent.
 The prevalence of SGA is greater in infants of women who received higher doses of topiramate during pregnancy.
@@ -34,12 +34,12 @@ Women who are planning a pregnancy should be counseled regarding the relative ri
 
 Labor or Delivery
 
-Although the effect of topiramate on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus’ ability to tolerate labor.
+Although the effect of topiramate tablets on labor and delivery in humans has not been established, the development of topiramate-induced metabolic acidosis in the mother and/or in the fetus might affect the fetus’ ability to tolerate labor.
 
-Topiramate treatment can cause metabolic acidosis [see Warnings and Precautions (5.4)].
+Topiramate tablets treatment can cause metabolic acidosis [see Warnings and Precautions (5.4)].
 The effect of topiramate‑induced metabolic acidosis has not been studied in pregnancy; however, metabolic acidosis in pregnancy (due to other causes) can cause decreased fetal growth, decreased fetal oxygenation, and fetal death, and may affect the fetus’ ability to tolerate labor.
 Pregnant patients should be monitored for metabolic acidosis and treated as in the nonpregnant state [see Warnings and Precautions (5.4)].
-Newborns of mothers treated with topiramate should be monitored for metabolic acidosis because of transfer of topiramate to the fetus and possible occurrence of transient metabolic acidosis following birth.
+Newborns of mothers treated with topiramate tablets should be monitored for metabolic acidosis because of transfer of topiramate to the fetus and possible occurrence of transient metabolic acidosis following birth.
 
 Based on limited information, topiramate has also been associated with pre-term labor and premature delivery.
 
@@ -57,7 +57,7 @@ The UK Epilepsy and Pregnancy Register reported a prevalence of oral clefts amon
 
 Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10th percentile).
 In the NAAED pregnancy registry, 19.7% of topiramate-exposed newborns were SGA compared to 7.9% of newborns exposed to a reference AED and 5.4% of newborns of mothers without epilepsy and without AED exposure.
-In the Medical Birth Registry of Norway (MBRN), a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9 % in the comparison group unexposed to AEDs.
+In the Medical Birth Registry of Norway (MBRN), a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9% in the comparison group unexposed to AEDs.
 The long-term consequences of the SGA findings are not known.
 
 Animal Data
@@ -89,7 +89,7 @@ Topiramate is excreted in human milk [see Data].
 The effects of topiramate on milk production are unknown.
 Diarrhea and somnolence have been reported in breastfed infants whose mothers receive topiramate treatment.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for topiramate and any potential adverse effects on the breastfed infant from topiramate or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for topiramate tablets and any potential adverse effects on the breastfed infant from topiramate tablets or from the underlying maternal condition.
 
 Data
 
@@ -109,7 +109,7 @@ Adjunctive Treatment for Epilepsy
 
 Pediatric Patients 2 Years of Age and Older
 
-The safety and effectiveness of topiramate as adjunctive therapy for the treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome have been established in pediatric patients 2 years of age and older [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
+The safety and effectiveness of topiramate tablets as adjunctive therapy for the treatment of partial-onset seizures, primary generalized tonic-clonic seizures, or seizures associated with Lennox-Gastaut syndrome have been established in pediatric patients 2 years of age and older [see Adverse Reactions (6.1) and Clinical Studies (14.2)].
 
 Pediatric Patients Below the Age of 2 Years
 
@@ -117,7 +117,7 @@ Safety and effectiveness in patients below the age of 2 years have not been esta
 In a single randomized, double-blind, placebo-controlled investigational trial, the efficacy, safety, and tolerability of topiramate oral liquid and sprinkle formulations as an adjunct to concurrent antiepileptic drug therapy in pediatric patients 1 to 24 months of age with refractory partial-onset seizures were assessed.
 After 20 days of double-blind treatment, topiramate (at fixed doses of 5, 15, and 25 mg/kg/day) did not demonstrate efficacy compared with placebo in controlling seizures.
 
-In general, the adverse reaction profile for topiramate in this population was similar to that of older pediatric patients, although results from the above controlled study and an open-label, long-term extension study in these pediatric patients 1 to 24 months old suggested some adverse reactions/toxicities (not previously observed in older pediatric patients and adults; i.e., growth/length retardation, certain clinical laboratory abnormalities, and other adverse reactions/toxicities that occurred with a greater frequency and/or greater severity than had been recognized previously from studies in older pediatric patients or adults for various indications).
+In general, the adverse reaction profile for topiramate tablets in this population was similar to that of older pediatric patients, although results from the above controlled study and an open-label, long-term extension study in these pediatric patients 1 to 24 months old suggested some adverse reactions/toxicities (not previously observed in older pediatric patients and adults; i.e., growth/length retardation, certain clinical laboratory abnormalities, and other adverse reactions/toxicities that occurred with a greater frequency and/or greater severity than had been recognized previously from studies in older pediatric patients or adults for various indications).
 
 These very young pediatric patients appeared to experience an increased risk for infections (any topiramate dose 12%, placebo 0%) and of respiratory disorders (any topiramate dose 40%, placebo 16%).
 The following adverse reactions were observed in at least 3% of patients on topiramate and were 3% to 7% more frequent than in patients on placebo: viral infection, bronchitis, pharyngitis, rhinitis, otitis media, upper respiratory infection, cough, and bronchospasm.
@@ -129,7 +129,7 @@ Creatinine was the only analyte showing a noteworthy increased incidence (topira
 The significance of these findings is uncertain.
 
 Topiramate treatment also produced a dose-related increase in the percentage of patients who had a shift from normal at baseline to high/increased (above the normal reference range) in total eosinophil count at the end of treatment.
-The incidence of these abnormal shifts was 6 % for placebo, 10% for 5 mg/kg/day, 9% for 15 mg/kg/day, 14% for 25 mg/kg/day, and 11% for any topiramate dose.
+The incidence of these abnormal shifts was 6% for placebo, 10% for 5 mg/kg/day, 9% for 15 mg/kg/day, 14% for 25 mg/kg/day, and 11% for any topiramate dose.
 There was a mean dose-related increase in alkaline phosphatase.
 The significance of these findings is uncertain.
 
@@ -148,17 +148,17 @@ Monotherapy Treatment for Epilepsy
 
 Pediatric Patients 2 Years of Age and Older
 
-The safety and effectiveness of topiramate as monotherapy for the treatment of partial-onset seizures or primary generalized tonic-clonic seizures have been established in pediatric patients aged 2 years and older [see Adverse Reactions (6.1), Clinical Studies (14.1)].
+The safety and effectiveness of topiramate tablets as monotherapy for the treatment of partial-onset seizures or primary generalized tonic-clonic seizures have been established in pediatric patients aged 2 years and older [see Adverse Reactions (6.1), Clinical Studies (14.1)].
 
-A one-year, active-controlled, open-label study with blinded assessments of bone mineral density (BMD) and growth in pediatric patients 4 to 15 years of age, including 63 patients with recent or new onset of epilepsy, was conducted to assess effects of topiramate (N=28, 6 to15 years of age) versus levetiracetam (N=35, 4 to 15 years of age) monotherapy on bone mineralization and on height and weight, which reflect growth.
+A one-year, active-controlled, open-label study with blinded assessments of bone mineral density (BMD) and growth in pediatric patients 4 to 15 years of age, including 63 patients with recent or new onset of epilepsy, was conducted to assess effects of topiramate tablets (N=28, 6 to15 years of age) versus levetiracetam (N=35, 4 to 15 years of age) monotherapy on bone mineralization and on height and weight, which reflect growth.
 Effects on bone mineralization were evaluated via dual-energy X-ray absorptiometry and blood markers.
-Table 10 summarizes effects of topiramate at 12 months for key safety outcomes including BMD, height, height velocity, and weight.
-All Least Square Mean values for topiramate and the comparator were positive.
-Therefore, the Least Square Mean treatment differences shown reflect a topiramate-induced attenuation of the key safety outcomes.
+Table 10 summarizes effects of topiramate tablets at 12 months for key safety outcomes including BMD, height, height velocity, and weight.
+All Least Square Mean values for topiramate tablets and the comparator were positive.
+Therefore, the Least Square Mean treatment differences shown reflect a topiramate tablets-induced attenuation of the key safety outcomes.
 Statistically significant effects were observed for decreases in BMD (and bone mineral content) in lumbar spine and total body less head and in weight.
 Subgroup analyses according to age demonstrated similar negative effects for all key safety outcomes (i.e., BMD, height, weight).
 
-Table 10 Summary of Topiramate Treatment Difference Results at 12 Months for Key Safety Outcomes
+Table 10: Summary of Topiramate Tablets Treatment Difference Results at 12 Months for Key Safety Outcomes
 
 | Safety Parameter | Treatment Difference in Least Square Means (95 % Confidence Interval) |  |
 | --- | --- | --- |
@@ -174,15 +174,15 @@ Table 10 Summary of Topiramate Treatment Difference Results at 12 Months for Key
 
 * TBLH=total body less head
 
-** Whereas no patients were randomized to 2 to 5 year age subgroup for topiramate, 5 patients (4 to 5 years) were randomized to the active control group.
+** Whereas no patients were randomized to 2 to 5 year age subgroup for topiramate tablets, 5 patients (4 to 5 years) were randomized to the active control group
 
-Metabolic acidosis (serum bicarbonate < 20 mEq/L) was observed in all topiramate-treated patients at some time in the study [see Warnings and Precautions (5.4)].
-Over the whole study, 76% more topiramate-treated patients experienced persistent metabolic acidosis (i.e.
+Metabolic acidosis (serum bicarbonate < 20 mEq/L) was observed in all topiramate tablets-treated patients at some time in the study [see Warnings and Precautions (5.4)].
+Over the whole study, 76% more topiramate tablets-treated patients experienced persistent metabolic acidosis (i.e.
 2 consecutive visits with or final serum bicarbonate < 20 mEq/L) compared to levetiracetam-treated patients.
-Over the whole study, 35% more topiramate-treated patients experienced a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and ≥ 5 mEq/L decrease from pre-treatment), indicating the frequency of more severe metabolic acidosis, compared to levetiracetam-treated patients.
+Over the whole study, 35% more topiramate tablets-treated patients experienced a markedly abnormally low serum bicarbonate (i.e., absolute value < 17 mEq/L and ≥ 5 mEq/L decrease from pre-treatment), indicating the frequency of more severe metabolic acidosis, compared to levetiracetam-treated patients.
 The decrease in BMD at 12 months was correlated with decreased serum bicarbonate, suggesting that metabolic acidosis was at least a partial factor contributing to this adverse effect on BMD.
 
-Topiramate-treated patients exhibited an increased risk for developing an increased serum creatinine and an increased serum glucose above the normal reference range compared to control patients.
+Topiramate tablets-treated patients exhibited an increased risk for developing an increased serum creatinine and an increased serum glucose above the normal reference range compared to control patients.
 
 Pediatric Patients Below the Age of 2 Years
 
@@ -199,7 +199,7 @@ Open-label extension phases of 3 studies enabled evaluation of long-term safety 
 Efficacy of topiramate for the preventive treatment of migraine in pediatric patients 12 to 17 years of age is demonstrated for a 100 mg daily dose in Study 13 [see Clinical Studies (14.3)].
 Efficacy of topiramate (2 to 3 mg/kg/day) for the preventive treatment of migraine was not demonstrated in a placebo-controlled trial of 157 pediatric patients (6 to 16 years of age) that included treatment of 67 pediatric patients (12 to 16 years of age) for 20 weeks.
 
-In the pediatric trials (12 to 17 years of age) in which patients were randomized to placebo or a fixed daily dose of topiramate, the most common adverse reactions with topiramate that were seen at an incidence higher (≥5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain [see Adverse Reactions (6)].
+In the pediatric trials (12 to 17 years of age) in which patients were randomized to placebo or a fixed daily dose of topiramate tablets, the most common adverse reactions with topiramate tablets that were seen at an incidence higher (≥5%) than in the placebo group were: paresthesia, upper respiratory tract infection, anorexia, and abdominal pain [see Adverse Reactions (6)].
 
 The most common cognitive adverse reaction in pooled double-blind studies in pediatric patients 12 to 17 years of age was difficulty with concentration/attention [see Warnings and Precautions (5.6)].
 
@@ -215,7 +215,7 @@ Pediatric Patients Below the Age of 12 Years
 Safety and effectiveness in pediatric patients below the age of 12 years have not been established for the preventive treatment of migraine.
 
 In a double-blind study in 90 pediatric patients 6 to 11 years of age (including 59 topiramate-treated and 31 placebo patients), the adverse reaction profile was generally similar to that seen in pooled double-blind studies of pediatric patients 12 to 17 years of age.
-The most common adverse reactions that occurred in topiramate-treated pediatric patients 6 to 11 years of age, and at least twice as frequently than placebo, were gastroenteritis (12% topiramate, 6% placebo), sinusitis (10% topiramate, 3% placebo), weight loss (8% topiramate, 3% placebo) and paresthesia (7% topiramate, 0% placebo).
+The most common adverse reactions that occurred in topiramate tablets-treated pediatric patients 6 to 11 years of age, and at least twice as frequently than placebo, were gastroenteritis (12% topiramate, 6% placebo), sinusitis (10% topiramate, 3% placebo), weight loss (8% topiramate, 3% placebo) and paresthesia (7% topiramate, 0% placebo).
 Difficulty with concentration/attention occurred in 3 topiramate-treated patients (5%) and 0 placebo-treated patients.
 
 The risk for cognitive adverse reaction was greater in younger patients (6 to 11 years of age) than in older patients (12 to 17 years of age) [see Warnings and Precautions (5.6)].
