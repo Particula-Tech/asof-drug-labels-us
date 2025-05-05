@@ -278,12 +278,11 @@ Table 6: Changes in Body Weight After 36-Week Open-Label Treatment Followed by R
 | Body Weight |  |  |
 | Mean at Week 36 (kg) | 85.8 | 84.6 |
 | % change from Week 36 at Week 88b | 14.0 | -5.5 |
-| % difference from placebo at Week 88 (95% CI)b |  | -19.4 (-21.2, -17.7)d |
+| % difference from placebo at Week 88 (95% CI)b |  | -19.4 (-21.2, -17.7)c |
 | Abbreviations: ANCOVA = analysis of covariance; CI = confidence interval; MTD = maximum tolerated dose; N = number of patients randomly assigned to study drug. |  |  |
 | a The intent-to-treat population included all randomly assigned patients and did not include 113 patients who were enrolled but not randomized. At Week 88, body weight was missing for 13.7% and 7.5% of patients randomly assigned to placebo and ZEPBOUND MTD (10 or 15 mg), respectively. The missing values were imputed by a hybrid approach using retrieved dropouts from the same treatment group (if missing not due to COVID-19) or using all non-missing data assuming missing at random (for missing solely due to COVID-19). |  |  |
 | b Least-squares mean from ANCOVA adjusted for baseline value and other stratification factors. |  |  |
-| c Analyzed using logistic regression adjusted for baseline value. |  |  |
-| d p-value<0.001 (unadjusted 2-sided) for superiority, controlled for type I error rate. |  |  |
+| c p-value<0.001 (unadjusted 2-sided) for superiority, controlled for type I error rate. |  |  |
 
 Changes in waist circumference and cardiometabolic parameters in Study 4 are shown in Table 7.
 

@@ -75,7 +75,9 @@ In each case, inform patients to resume their regular once weekly dosing schedul
 
 Marketed by: Lilly USA, LLC, Indianapolis, IN 46285, USA
 
-Copyright © 2023, 2024, Eli Lilly and Company.
+Copyright © 2023, 2025, Eli Lilly and Company.
 All rights reserved.
 
-ZEP-0008-USPI-20241220
+Pat.: www.lilly.com/patents
+
+ZEP-0009-USPI-20250428
