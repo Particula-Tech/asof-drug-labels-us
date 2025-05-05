@@ -2,7 +2,7 @@
 
 NDC 0078-0925-25
 
-MAXIDEX®
+MAXIDEX ®
 
 (dexamethasone ophthalmic suspension) 0.1%
 
