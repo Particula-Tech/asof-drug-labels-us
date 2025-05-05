@@ -7,13 +7,13 @@ Subsequent titration to higher or lower doses may be necessary.
 There is limited general clinical experience with doses above 360 mg, but doses to 540 mg have been studied in clinical trials.
 The incidence of side effects increases as the dose increases with first-degree AV block, dizziness, and sinus bradycardia bearing the strongest relationship to dose.
 
-Hypertension: Adjust dosage to individual patient needs.
+Hypertension:Adjust dosage to individual patient needs.
 When used as monotherapy, reasonable starting doses are 180 to 240 mg once daily, although some patients may respond to lower doses.
 Maximum antihypertensive effect is usually observed by 14 days of chronic therapy; therefore, schedule dosage adjustments accordingly.
 The usual dosage range studied in clinical trials was 240 to 360 mg once daily.
 Individual patients may respond to higher doses of up to 480 mg once daily.
 
-Angina: Dosages for the treatment of angina should be adjusted to each patient’s needs, starting with a dose of 120 or 180 mg once daily.
+Angina:Dosages for the treatment of angina should be adjusted to each patient’s needs, starting with a dose of 120 or 180 mg once daily.
 Individual patients may respond to higher doses of up to 480 mg once daily.
 When necessary, titration may be carried out over a 7- to 14-day period.
 
@@ -23,7 +23,7 @@ Sublingual NTG: May be taken as required to abort acute anginal attacks during d
 
 Prophylactic Nitrate Therapy: Diltiazem hydrochloride may be safely coadministered with short- and long-acting nitrates.
 
-Beta-blockers: (See WARNINGS and PRECAUTIONS.)
+Beta-blockers: (see WARNINGSand PRECAUTIONS.)
 
-Antihypertensives: Diltiazem hydrochloride has an additive antihypertensive effect when used with other antihypertensive agents.
+Antihypertensives:Diltiazem hydrochloride has an additive antihypertensive effect when used with other antihypertensive agents.
 Therefore, the dosage of diltiazem hydrochloride or the concomitant antihypertensives may need to be adjusted when adding one to the other.

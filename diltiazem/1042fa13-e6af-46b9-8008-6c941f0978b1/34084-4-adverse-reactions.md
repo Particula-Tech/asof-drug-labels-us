@@ -16,15 +16,15 @@ The following table presents the most common adverse reactions reported in place
 
 In addition, the following events were reported infrequently (less than 1%) in angina or hypertension trials:
 
-Cardiovascular: Congestive heart failure, palpitations, syncope, ventricular extrasystoles.
+Cardiovascular:Congestive heart failure, palpitations, syncope, ventricular extrasystoles.
 
-Nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tinnitus, tremor.
+Nervous System:Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tinnitus, tremor.
 
-Gastrointestinal: Anorexia, constipation, diarrhea, dry mouth, dysgeusia, dyspepsia, mild elevations of SGOT, SGPT, LDH, and alkaline phosphatase (see WARNINGS, Acute Hepatic Injury), thirst, vomiting, weight increase.
+Gastrointestinal:Anorexia, constipation, diarrhea, dry mouth, dysgeusia, dyspepsia, mild elevations of SGOT, SGPT, LDH, and alkaline phosphatase (see WARNINGS, Acute Hepatic Injury), thirst, vomiting, weight increase.
 
-Dermatological: Petechiae, photosensitivity, pruritus, urticaria.
+Dermatological:Petechiae, photosensitivity, pruritus, urticaria.
 
-Other: Amblyopia, CPK increase, dyspnea, epistaxis, eye irritation, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, nocturia, osteoarticular pain, polyuria, sexual difficulties.
+Other:Amblyopia, CPK increase, dyspnea, epistaxis, eye irritation, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, nocturia, osteoarticular pain, polyuria, sexual difficulties.
 
 The following postmarketing events have been reported infrequently in patients receiving diltiazem hydrochloride: acute generalized exanthematous pustulosis, allergic reactions, alopecia, angioedema (including facial or periorbital edema), asystole, erythema multiforme (including Stevens-Johnson syndrome, toxic epidermal necrolysis), exfoliative dermatitis, extrapyramidal symptoms, gingival hyperplasia, hemolytic anemia, increased bleeding time, leukopenia, photosensitivity (including lichenoid keratosis and hyperpigmentation at sun-exposed skin areas), purpura, retinopathy, myopathy, and thrombocytopenia.
 In addition, events such as myocardial infarction have been observed which are not readily distinguishable from the natural history of the disease in these patients.

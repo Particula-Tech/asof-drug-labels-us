@@ -1,10 +1,10 @@
 # Package/Label Display Panel -120 mg
 
-NDC 0187-0795-42
+NDC0187-0795-42
 
 Rx only
 
-CARDIZEM® CD
+CARDIZEM ®CD
 
 (diltiazem hydrochloride)
 
@@ -18,11 +18,11 @@ BAUSCH HEALTH
 
 # Package/Label Display Panel – 180 mg
 
-NDC 0187-0796-42
+NDC0187-0796-42
 
 Rx only
 
-CARDIZEM® CD
+CARDIZEM ®CD
 
 (diltiazem hydrochloride)
 
@@ -36,11 +36,11 @@ BAUSCH HEALTH
 
 # Package/Label Display Panel – 240 mg
 
-NDC 0187-0797-42
+NDC0187-0797-42
 
 Rx only
 
-CARDIZEM® CD
+CARDIZEM ®CD
 
 (diltiazem hydrochloride)
 
@@ -54,11 +54,11 @@ BAUSCH HEALTH
 
 # Package/Label Display Panel – 300 mg
 
-NDC 0187-0798-42
+NDC0187-0798-42
 
 Rx only
 
-CARDIZEM® CD
+CARDIZEM ®CD
 
 (diltiazem hydrochloride)
 
@@ -72,11 +72,11 @@ BAUSCH HEALTH
 
 # Package/Label Display Panel – 360 mg
 
-NDC 0187-0799-42
+NDC0187-0799-42
 
 Rx only
 
-CARDIZEM® CD
+CARDIZEM ®CD
 
 (diltiazem hydrochloride)
 
