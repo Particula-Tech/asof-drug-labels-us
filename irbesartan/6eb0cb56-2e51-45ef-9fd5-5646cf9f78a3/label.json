@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA077205"
+  ],
+  "inn": "irbesartan",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-976-90",
+    "62135-977-90",
+    "62135-978-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "irbesartan",
+      "name": "IRBESARTAN"
+    }
+  ],
+  "setid": "6eb0cb56-2e51-45ef-9fd5-5646cf9f78a3",
+  "source": "dailymed"
+}
