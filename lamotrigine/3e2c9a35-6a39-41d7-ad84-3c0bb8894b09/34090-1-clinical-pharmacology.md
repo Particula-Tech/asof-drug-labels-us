@@ -69,7 +69,7 @@ Steady-State Bioavailability of LAMICTAL XR Relative to Immediate-Release Lamotr
 | Enzyme-inducing antiepileptic drugsa | 0.79 (0.69, 0.90) | 0.71 (0.61, 0.82) | 0.99 (0.89, 1.09) |
 | Valproate | 0.94 (0.81, 1.08) | 0.88 (0.75, 1.03) | 0.99 (0.88, 1.10) |
 | Antiepileptic drugs other than enzyme-inducing antiepileptic drugsa or valproate | 1.00 (0.88, 1.14) | 0.89 (0.78, 1.03) | 1.14 (1.03, 1.25) |
-| a Enzyme-inducing antiepileptic drugs include carbamazepine, phenytoin, phenobarbital, and primidone. |  |  |  |
+| a Enzyme-inducing AEDs include carbamazepine, phenytoin, phenobarbital, and primidone. |  |  |  |
 
 Dose Proportionality
 
@@ -130,7 +130,7 @@ Mean Pharmacokinetic Parametersa of Immediate-Release Lamotrigine in Healthy Vol
 
 Drug Interactions
 
-The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.13), Drug Interactions (7)].
+The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.12), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine, based on drug interaction studies using immediate-release lamotrigine, are summarized in Tables 5 and 8, followed by details of the drug interaction studies below.
 
@@ -165,7 +165,7 @@ Summary of Drug Interactions with Lamotrigine
 | Valproate | ↓ | ↑ |
 | Valproate + phenytoin and/or carbamazepine | Not assessed | ↔ |
 | Zonisamide | Not assessed | ↔ |
-| a From adjunctive clinical trials and volunteer trials. b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials. c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations. d Modest decrease in levonorgestrel. e Slight decrease, not expected to be clinically meaningful. f Compared with historical controls. g Not administered, but an active metabolite of carbamazepine. h Not administered, but an active metabolite of oxcarbazepine. i Not administered, but an active metabolite of risperidone. j Slight increase, not expected to be clinically meaningful. ↔ = No significant effect. ? = Conflicting data. |  |  |
+| a From adjunctive clinical trials and volunteer trials. b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials. c The effect of other hormonal contraceptive preparations or HRT on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations. d Modest decrease in levonorgestrel. e Slight decrease, not expected to be clinically meaningful. f Compared with historical controls. g Not administered, but an active metabolite of carbamazepine. h Not administered, but an active metabolite of oxcarbazepine. i Not administered, but an active metabolite of risperidone. j Slight increase, not expected to be clinically meaningful. ↔ = No significant effect. ? = Conflicting data. |  |  |
 
 Estrogen-Containing Oral Contraceptives
 
@@ -181,16 +181,17 @@ There were mean decreases in the AUC and Cmax of the levonorgestrel component of
 Measurement of serum progesterone indicated that there was no hormonal evidence of ovulation in any of the 16 volunteers, although measurement of serum FSH, LH, and estradiol indicated that there was some loss of suppression of the hypothalamic-pituitary-ovarian axis.
 
 The effects of doses of lamotrigine other than 300 mg/day have not been systematically evaluated in controlled clinical trials.
+Studies with other female hormonal preparations (including progesterone/progesterone-containing HRT) have not been conducted.
 
 The clinical significance of the observed hormonal changes on ovulatory activity is unknown.
 However, the possibility of decreased contraceptive efficacy in some patients cannot be excluded.
 Therefore, patients should be instructed to promptly report changes in their menstrual pattern (e.g., break-through bleeding).
 
-Dosage adjustments may be necessary for women receiving estrogen-containing oral contraceptive preparations [see Dosage and Administration (2.1)].
+Dosage adjustments may be necessary for women receiving estrogen-containing products, including oral contraceptive preparations [see Dosage and Administration (2.1)].
 
 Other Hormonal Contraceptives or Hormone Replacement Therapy
 
-The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated.
+The effect of other hormonal contraceptive preparations or HRT on the pharmacokinetics of lamotrigine has not been systematically evaluated.
 It has been reported that ethinylestradiol, not progestogens, increased the clearance of lamotrigine up to 2-fold, and the progestin-only pills had no effect on lamotrigine plasma levels.
 Therefore, adjustments to the dosage of LAMICTAL XR in the presence of progestogens alone will likely not be needed.
 
@@ -271,7 +272,7 @@ Limited clinical data suggest a higher incidence of headache, dizziness, nausea,
 
 Perampanel
 
-In a pooled analysis of data from 3 placebo-controlled clinical trials investigating adjunctive perampanel in patients with partial-onset and primary generalized tonic-clonic seizures, the highest perampanel dose evaluated (12 mg/day) increased lamotrigine clearance by <10%.
+In a pooled analysis of data from 3 placebo-controlled clinical trials investigating adjunctive perampanel in patients with partial-onset and PGTC seizures, the highest perampanel dose evaluated (12 mg/day) increased lamotrigine clearance by <10%.
 An effect of this magnitude is not considered to be clinically relevant.
 
 Phenobarbital, Primidone

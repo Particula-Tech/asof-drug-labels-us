@@ -8,7 +8,7 @@ Drugs that induce or inhibit glucuronidation may, therefore, affect the apparent
 Strong or moderate inducers of the cytochrome P450 3A4 (CYP3A4) enzyme, which are also known to induce UGT, may also enhance the metabolism of lamotrigine.
 
 Those drugs that have been demonstrated to have a clinically significant impact on lamotrigine metabolism are outlined in Table 13.
-Specific dosing guidance for these drugs is provided in the Dosage and Administration section [see Dosage and Administration (2.1)].
+Specific dosing guidance for these drugs is provided in the Dosage and Administration section, and, for women taking estrogen-containing products, including oral contraceptives, in the Warnings and Precautions section [see Dosage and Administration (2.1), Warnings and Precautions, (5.9)].
 
 Table 5.
 Established and Other Potentially Significant Drug Interactions

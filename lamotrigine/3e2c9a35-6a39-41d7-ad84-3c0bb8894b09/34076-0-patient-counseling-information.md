@@ -43,16 +43,16 @@ Pregnancy and Nursing
 Instruct patients to notify their healthcare providers if they become pregnant or intend to become pregnant during therapy and if they intend to breastfeed or are breastfeeding an infant.
 
 Encourage patients to enroll in the NAAED Pregnancy Registry if they become pregnant.
-This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+This registry is collecting information about the safety of AEDs during pregnancy.
 To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
 Inform patients who intend to breastfeed that LAMICTAL XR is present in breast milk and advise them to monitor their child for potential adverse effects of this drug.
 Discuss the benefits and risks of continuing breastfeeding.
 
-Oral Contraceptive Use
+Use of Estrogen-Containing Products, Including Oral Contraceptives
 
-Instruct women to notify their healthcare providers if they plan to start or stop use of oral contraceptives or other female hormonal preparations.
-Starting estrogen-containing oral contraceptives may significantly decrease lamotrigine plasma levels and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
+Instruct women to notify their healthcare providers if they plan to start or stop use of oral contraceptives or other female hormonal preparations (including HRT).
+Starting estrogen-containing products, including oral contraceptives, may significantly decrease lamotrigine plasma levels, and stopping estrogen-containing oral contraceptives (including the pill-free week) may significantly increase lamotrigine plasma levels [see Warnings and Precautions (5.9), Clinical Pharmacology (12.3)].
 Also instruct women to promptly notify their healthcare providers if they experience adverse reactions or changes in menstrual pattern (e.g., break-through bleeding) while receiving LAMICTAL XR in combination with these medications.
 
 Discontinuing LAMICTAL XR
@@ -77,6 +77,6 @@ GlaxoSmithKline
 
 Durham, NC 27701
 
-©2023 GSK group of companies or its licensor.
+©2025 GSK group of companies or its licensor.
 
-LXR:27PI
+LXR:28PI

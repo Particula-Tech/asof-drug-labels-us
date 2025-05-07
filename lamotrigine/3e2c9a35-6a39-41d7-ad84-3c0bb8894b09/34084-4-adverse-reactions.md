@@ -11,7 +11,6 @@ The following serious adverse reactions are described in more detail in the Warn
 - •Aseptic Meningitis [see Warnings and Precautions (5.7)]
 - •Withdrawal Seizures [see Warnings and Precautions (5.10)]
 - •Status Epilepticus [see Warnings and Precautions (5.11)]
-- •Sudden Unexplained Death in Epilepsy [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trial Experience with LAMICTAL XR for Treatment of Primary Generalized Tonic-Clonic and Partial-Onset Seizures
 
@@ -28,7 +27,7 @@ Table 4 displays the incidence of adverse reactions in these two 19-week, double
 Table 4.
 Adverse Reactions in Pooled, Placebo-Controlled, Adjunctive Trials in Patients with Epilepsya
 
-| Body System/Adverse Reaction | Percent of Patients Receiving Adjunctive LAMICTAL XR (n = 190) | Percent of Patients Receiving Adjunctive Placebo (n = 195) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving Adjunctive LAMICTAL XR (n = 190) | Percent of Patients Receiving Adjunctive Placebo (n = 195) |
 | --- | --- | --- |
 | Ear and labyrinth disorders |  |  |
 | Vertigo | 3 | <1 |
@@ -176,7 +175,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Blood and Lymphatic
 
-Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder.
+Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder, pseudolymphoma.
 
 Gastrointestinal
 

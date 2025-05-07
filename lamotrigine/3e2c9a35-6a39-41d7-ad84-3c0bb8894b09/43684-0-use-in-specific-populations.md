@@ -102,7 +102,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## 8.6 Hepatic Impairment
 
 Experience in patients with hepatic impairment is limited.
-Based on a clinical pharmacology study with immediate-release lamotrigine in 24 subjects with mild, moderate, and severe liver impairment [see Clinical Pharmacology (12.3)], the following general recommendations can be made.
+Based on a clinical pharmacology study with immediate-release lamotrigine in 24 subjects with mild, moderate, and severe liver impairment, the following general recommendations can be made [see Clinical Pharmacology (12.3)].
 No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response [see Dosage and Administration (2.1)].
