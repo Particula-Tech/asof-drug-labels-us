@@ -9,4 +9,4 @@ A solution (1:100) in water has a pH between 4.5 and 6.5.
 
 It has the following structural formula:
 
-Each mL of Methadone Hydrochloride Oral Concentrate, USP (Intensol™) contains 10 mg of methadone hydrochloride, USP and the following inactive ingredients: citric acid, sodium benzoate and water.
+Each mL of Methadone Hydrochloride Oral Concentrate, USP (Intensol™) contains 10 mg of methadone hydrochloride, USP and the following inactive ingredients: anhydrous citric acid, sodium benzoate and water.
