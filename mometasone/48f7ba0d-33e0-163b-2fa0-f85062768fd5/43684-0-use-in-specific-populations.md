@@ -29,7 +29,7 @@ There were no findings at a dose less than the MRDID (on a mcg/m2 basis with a m
 Embryofetal development studies were conducted with pregnant rabbits dosed with mometasone furoate by either the topical dermal route or oral route throughout the period of organogenesis.
 In the study using the topical dermal route, mometasone furoate caused multiple malformations in fetuses (e.g., flexed front paws, gallbladder agenesis, umbilical hernia, hydrocephaly) at doses approximately 6 times the MRDID (on mcg/m2 basis with maternal topical dermal doses of 150 mcg/kg and above).
 In the study using the oral route, mometasone furoate caused increased fetal resorptions and cleft palate and/or head malformations (hydrocephaly and domed head) at a dose approximately 30 times of the MRDID (on a mcg/m2 basis with a maternal oral dose of 700 mcg/kg).
-At approximately 110 times the MRDID (on a mcg/m2 basis with a maternal oral dose of 2800 mcg/kg), most litters were aborted or resorbed.
+At approximately 110 times the MRDID (on a mcg/m2 basis with a maternal oral dose of 2,800 mcg/kg), most litters were aborted or resorbed.
 No effects were observed at a dose approximately 6 times the MRDID (on a mcg/m2 basis with a maternal oral dose of 140 mcg/kg).
 
 ## 8.2 Lactation
@@ -52,7 +52,7 @@ A total of 127 patients with chronic rhinosinusitis with nasal polyps were rando
 The results of this trial did not support the efficacy of mometasone furoate nasal spray in the treatment of chronic rhinosinusitis with nasal polyps in pediatric patients.
 The adverse reactions reported in this trial were similar to the adverse reactions reported in patients 18 years of age and older with chronic rhinosinusitis with nasal polyps.
 
-Effect of Growth
+Effect on Growth
 
 Controlled clinical studies have shown nasal corticosteroids may cause a reduction in growth velocity in pediatric patients.
 This effect has been observed in the absence of laboratory evidence of hypothalamic-pituitary-adrenal (HPA) axis suppression, suggesting that growth velocity is a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.

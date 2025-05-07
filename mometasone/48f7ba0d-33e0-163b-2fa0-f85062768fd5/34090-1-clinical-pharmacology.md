@@ -19,13 +19,13 @@ Adrenal Function in Adults: Four clinical pharmacology studies have been conduct
 In one study, daily doses of 200 and 400 mcg of mometasone furoate nasal spray and 10 mg of prednisone were compared to placebo in 64 patients (22 to 44 years of age) with allergic rhinitis.
 Adrenal function before and after 36 consecutive days of treatment was assessed by measuring plasma cortisol levels following a 6-hour Cortrosyn (ACTH) infusion and by measuring 24-hour urinary free cortisol levels.
 Mometasone furoate nasal spray at both the 200- and 400-mcg dose, was not associated with a statistically significant decrease in mean plasma cortisol levels post-Cortrosyn infusion or a statistically significant decrease in the 24-hour urinary free cortisol levels compared to placebo.
-A statistically significant decrease in the measn plasma cortisol levels post-Cortrosyn infusion and 24-hour urinary free cortisol levels was detected in the prednisone treatment group compared to placebo.
+A statistically significant decrease in the mean plasma cortisol levels post-Cortrosyn infusion and 24-hour urinary free cortisol levels was detected in the prednisone treatment group compared to placebo.
 
-A second study assessed adrenal response to mometasone furoate nasal spray (400 and 1600 mcg/day), prednisone (10 mg/day), and placebo, administered for 29 days in 48 male volunteers (21 to 40 years of age).
+A second study assessed adrenal response to mometasone furoate nasal spray (400 and 1,600 mcg/day), prednisone (10 mg/day), and placebo, administered for 29 days in 48 male volunteers (21 to 40 years of age).
 The 24-hour plasma cortisol area under the curve (AUC0–24), during and after an 8-hour Cortrosyn infusion and 24-hour urinary free cortisol levels were determined at baseline and after 29 days of treatment.
 No statistically significant differences in adrenal function were observed with mometasone furoate nasal spray compared to placebo.
 
-A third study evaluated single, rising doses of mometasone furoate nasal spray (1000, 2000, and 4000 mcg/day), orally administered mometasone furoate (2000, 4000, and 8000 mcg/day), orally administered dexamethasone (200, 400, and 800 mcg/day), and placebo (administered at the end of each series of doses) in 24 male volunteers (22 to 39 years of age).
+A third study evaluated single, rising doses of mometasone furoate nasal spray (1,000, 2,000, and 4,000 mcg/day), orally administered mometasone furoate (2,000, 4,000, and 8,000 mcg/day), orally administered dexamethasone (200, 400, and 800 mcg/day), and placebo (administered at the end of each series of doses) in 24 male volunteers (22 to 39 years of age).
 Dose administrations were separated by at least 72 hours.
 Determination of serial plasma cortisol levels at 8 AM and for the 24-hour period following each treatment were used to calculate the plasma cortisol area under the curve (AUC0–24).
 In addition, 24-hour urinary free cortisol levels were collected prior to initial treatment administration and during the period immediately following each dose.

@@ -2,8 +2,8 @@
 
 ## 14.1 Prophylaxis of Seasonal Allergic Rhinitis in Adult and Pediatric Patients 12 Years of Age and Older
 
-The efficacy and safety of mometasone furoate nasal spray in the prophylaxis and treatment of seasonal allergic rhinitis and the treatment of perennial allergic rhinitis have been evaluated in 18 controlled trials, and one uncontrolled clinical trial, in approximately 3000 adults (ages 17 to 85 years) and pediatric patients (ages 12 to 16 years).
-Of the total number of patients, there were 1757 males and 1453 females, including a total of 283 adolescents (182 boys and 101 girls) with seasonal allergic or perennial allergic rhinitis.
+The efficacy and safety of mometasone furoate nasal spray in the prophylaxis and treatment of seasonal allergic rhinitis and the treatment of perennial allergic rhinitis have been evaluated in 18 controlled trials, and one uncontrolled clinical trial, in approximately 3,000 adults (ages 17 to 85 years) and pediatric patients (ages 12 to 16 years).
+Of the total number of patients, there were 1,757 males and 1,453 females, including a total of 283 adolescents (182 boys and 101 girls) with seasonal allergic or perennial allergic rhinitis.
 Patients were treated with mometasone furoate nasal spray at doses ranging from 50 to 800 mcg/day.
 The majority of patients were treated with 200 mcg/day.
 The allergic rhinitis trials evaluated the total nasal symptom scores that included stuffiness, rhinorrhea, itching, and sneezing.

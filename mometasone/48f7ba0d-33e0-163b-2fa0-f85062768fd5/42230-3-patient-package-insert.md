@@ -1,8 +1,6 @@
 PATIENT INFORMATION
 
-Mometasone Furoate Nasal Spray, 50 mcg
-
-(moe met' a sone fure' oh ate)
+Mometasone Furoate (moe met' a sone fure' oh ate) Nasal Spray, 50 mcg
 
 For Nasal Use Only
 
@@ -133,9 +131,9 @@ What are the ingredients in mometasone furoate nasal spray?
 
 Active ingredients: mometasone furoate
 
-Inactive ingredients: benzalkonium chloride, citric acid, glycerin, microcrystalline cellulose and carboxymethylcellulose sodium, polysorbate 80, and sodium citrate.
+Inactive ingredients: benzalkonium chloride, citric acid, glycerin, microcrystalline cellulose and carboxymethylcellulose sodium, polysorbate 80, purified water, and sodium citrate.
 
-For more information, go to www.apotexcorp.com/products or call 1-800-706-5575.
+For more information, go to www.apotex.com/products or call 1-800-706-5575.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
@@ -149,13 +147,9 @@ MOMETASONE FUROATE NASAL SPRAY
 | --- | --- |
 | Apotex Inc. Toronto, Ontario M9L 1T9 | Apotex Corp. Weston, FL 33326 |
 
-Revised: September 2022
-
 Patient Instructions for Use
 
-Mometasone Furoate Nasal Spray, 50 mcg
-
-(moe met' a sone fure' oh ate)
+Mometasone Furoate (moe met' a sone fure' oh ate) Nasal Spray, 50 mcg
 
 For use in your nose only.
 
@@ -248,4 +242,4 @@ MOMETASONE FUROATE NASAL SPRAY
 | Toronto, Ontario |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Weston, FL |
 | M9L 1T9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 33326 |
 
-Revised: September 2022
+Revised: March 2025

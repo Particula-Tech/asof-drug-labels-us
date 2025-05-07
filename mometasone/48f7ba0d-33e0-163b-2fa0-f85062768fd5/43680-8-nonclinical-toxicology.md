@@ -23,7 +23,7 @@ In rats, mometasone furoate produced umbilical hernia at topical dermal doses of
 A dose of 300 mcg/kg (approximately 6 times the MRDID in adults on a mcg/m2 basis) produced delays in ossification, but no malformations.
 In rabbits, mometasone furoate caused multiple malformations (e.g., flexed front paws, gallbladder agenesis, umbilical hernia, hydrocephaly) at topical dermal doses of 150 mcg/kg and above (approximately 6 times the MRDID in adults on a mcg/m2 basis).
 In an oral study, mometasone furoate increased resorptions and caused cleft palate and/or head malformations (hydrocephaly or domed head) at 700 mcg/kg (approximately 30 times the MRDID in adults on a mcg/m2 basis).
-At 2800 mcg/kg (approximately 110 times the MRDID in adults on a mcg/m2 basis), most litters were aborted or resorbed.
+At 2,800 mcg/kg (approximately 110 times the MRDID in adults on a mcg/m2 basis), most litters were aborted or resorbed.
 No toxicity was observed at 140 mcg/kg (approximately 6 times the MRDID in adults on a mcg/m2 basis).
 
 When rats received subcutaneous doses of mometasone furoate throughout pregnancy or during the later stages of pregnancy, 15 mcg/kg (less than the MRDID in adults on a mcg/m2 basis) caused prolonged and difficult labor and reduced the number of live births, birth weight, and early pup survival.

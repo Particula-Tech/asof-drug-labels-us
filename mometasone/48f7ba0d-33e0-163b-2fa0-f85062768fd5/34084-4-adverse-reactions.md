@@ -15,8 +15,8 @@ Allergic Rhinitis
 
 Adults and pediatric patients 12 years of age and older
 
-In controlled U.S. and international clinical studies, a total of 3210 adult and pediatric patients 12 years and older with allergic rhinitis received treatment with mometasone furoate nasal spray at doses of 50 to 800 mcg/day.
-The majority of patients (n=2103) were treated with 200 mcg/day.
+In controlled U.S. and international clinical studies, a total of 3,210 adult and pediatric patients 12 years and older with allergic rhinitis received treatment with mometasone furoate nasal spray at doses of 50 to 800 mcg/day.
+The majority of patients (n=2,103) were treated with 200 mcg/day.
 A total of 350 adult and pediatric patients 12 years and older have been treated for one year or longer.
 Adverse reactions did not differ significantly based on age, sex, or race.
 Four percent or less of patients in clinical trials discontinued treatment because of adverse events and the discontinuation rate was similar for the vehicle and active comparators.
@@ -25,7 +25,7 @@ All adverse reactions (regardless of relationship to treatment) reported by 5% o
 
 Table 1: Adult and Pediatric Patients 12 Years and Older – Adverse Reactions from Controlled Clinical Trials in Seasonal Allergic and Perennial Allergic Rhinitis (Percent of Patients Reporting)
 
-|  | Mometasone Furoate Nasal Spray 200 mcg (n = 2103) % | Vehicle Placebo (n = 1671) % |
+|  | Mometasone Furoate Nasal Spray 200 mcg (n = 2,103) % | Vehicle Placebo (n = 1,671) % |
 | --- | --- | --- |
 | Headache | 26 | 22 |
 | Viral Infection | 14 | 11 |
