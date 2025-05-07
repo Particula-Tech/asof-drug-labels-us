@@ -4,13 +4,13 @@ NDC 70515-602-15
 
 Rx only
 
-Zanaflex Capsules® (tizanidine hydrochloride)
+Zana flex Capsules ® (tizanidine hydrochloride)
 
 2 mg
 
 150 Capsules
 
-STOP Not interchangeable with tizanidine tablets or Zanaflex® tablets.
+STOP Not interchangeable with tizanidine tablets or Zanaflex ®tablets.
 
 Each capsule contains 2.29 mg tizanidine hydrochloride, equivalent to 2 mg tizanidine base.
 
@@ -39,13 +39,13 @@ NDC 70515-604-15
 
 Rx only
 
-Zanaflex Capsules® (tizanidine hydrochloride)
+Zana flex Capsules ® (tizanidine hydrochloride)
 
 4 mg
 
 150 Capsules
 
-STOP Not interchangeable with tizanidine tablets or Zanaflex® tablets.
+STOP Not interchangeable with tizanidine tablets or Zanaflex ®tablets.
 
 Each capsule contains 4.58 mg tizanidine hydrochloride, equivalent to 4 mg tizanidine base.
 
@@ -74,13 +74,13 @@ NDC 70515-606-15
 
 Rx only
 
-Zanaflex Capsules® (tizanidine hydrochloride)
+Zana flex Capsules ® (tizanidine hydrochloride)
 
 6 mg
 
 150 Capsules
 
-STOP Not interchangeable with tizanidine tablets or Zanaflex® tablets.
+STOP Not interchangeable with tizanidine tablets or Zanaflex ®tablets.
 
 Each capsule contains 6.87 mg tizanidine hydrochloride, equivalent to 6 mg tizanidine base.
 
@@ -107,13 +107,13 @@ SN 12345678901234 GTIN 00370515606159
 
 NDC 70515-594-15
 
-Zanaflex® (tizanidine hydrochloride)
+Zanaflex ® (tizanidine hydrochloride)
 
 4 mg
 
 150 Tablets
 
-STOP Zanaflex® (tizanidine hydrochloride) tablets are not interchangeable with Zanaflex Capsules®.
+STOP Zanaflex ®(tizanidine hydrochloride) tablets are not interchangeable with Zanaflex Capsules ®.
 
 Each tablet contains 4.576 mg tizanidine HCl equivalent to 4 mg tizanidine base.
 

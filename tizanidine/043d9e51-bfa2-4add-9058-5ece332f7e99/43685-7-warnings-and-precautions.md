@@ -2,13 +2,13 @@
 
 ## 5.1 Hypotension
 
-Tizanidine is an α2-adrenergic agonist that can produce hypotension.
+Tizanidine is an α 2-adrenergic agonist that can produce hypotension.
 Syncope has been reported in the post marketing setting.
 The chance of significant hypotension may possibly be minimized by titration of the dose and by focusing attention on signs and symptoms of hypotension prior to dose advancement.
 In addition, patients moving from a supine to fixed upright position may be at increased risk for hypotension and orthostatic effects.
 
 Monitor for hypotension when Zanaflex is used in patients receiving concurrent antihypertensive therapy.
-It is not recommended that Zanaflex be used with other α2-adrenergic agonists.
+It is not recommended that Zanaflex be used with other α 2-adrenergic agonists.
 Clinically significant hypotension (decreases in both systolic and diastolic pressure) has been reported with concomitant administration of either fluvoxamine or ciprofloxacin and single doses of 4 mg of Zanaflex.
 Therefore, concomitant use of Zanaflex with fluvoxamine or with ciprofloxacin, potent inhibitors of CYP1A2, is contraindicated [see Contraindications (4) and Drug Interactions (7.1, 7.2)].
 

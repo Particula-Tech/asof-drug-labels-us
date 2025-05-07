@@ -16,17 +16,17 @@ Animal Data
 
 Oral administration of tizanidine (0.3 to 100 mg/kg/day) to pregnant rats during the period of organogenesis resulted in embryofetal and postnatal offspring mortality and reductions in body weight at doses of 30 mg/kg/day and above.
 Maternal toxicity was observed at the highest dose tested.
-The no-effect dose for embryofetal developmental toxicity in rats (3 mg/kg/day) is similar to the maximum recommended human dose (MRHD) of 36 mg/day on a body surface area (mg/m2) basis.
+The no-effect dose for embryofetal developmental toxicity in rats (3 mg/kg/day) is similar to the maximum recommended human dose (MRHD) of 36 mg/day on a body surface area (mg/m 2) basis.
 
 Oral administration of tizanidine (1 to 100 mg/kg/day) to pregnant rabbits during the period of organogenesis resulted in embryofetal and postnatal offspring mortality at all doses.
 Maternal toxicity was observed at the highest dose tested.
 Oral administration of tizanidine (10 and 30 mg/kg/day) during the perinatal period of pregnancy (2-6 days prior to delivery) resulted in increased postnatal offspring mortality at both doses.
 A no-effect dose for embryofetal developmental toxicity in rabbit was not identified.
-The lowest dose tested (1 mg/kg/day) is less than the MRHD on a mg/m2 basis.
+The lowest dose tested (1 mg/kg/day) is less than the MRHD on a mg/m 2basis.
 
 In a pre- and postnatal development study in rats, oral administration of tizanidine (3 to 30 mg/kg/day) resulted in increased postnatal offspring mortality.
 A no-effect dose for pre- and postnatal developmental toxicity was not identified.
-The lowest dose tested (3 mg/kg/day) is similar to the MRHD on a mg/m2 basis, respectively.
+The lowest dose tested (3 mg/kg/day) is similar to the MRHD on a mg/m 2basis, respectively.
 
 ## 8.2 Lactation
 

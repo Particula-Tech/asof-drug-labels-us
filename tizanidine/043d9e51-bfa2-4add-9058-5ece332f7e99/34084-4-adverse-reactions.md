@@ -2,11 +2,11 @@
 
 The following adverse reactions are described elsewhere in other sections of the prescribing information:
 
-- •Hypotension [see Warnings and Precautions (5.1)]
-- •Liver Injury [see Warnings and Precautions (5.2)]
-- •Sedation [see Warnings and Precautions (5.3)]
-- •Hallucinosis/Psychotic-Like Symptoms [see Warnings and Precautions (5.4)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
+- Hypotension [see Warnings and Precautions (5.1)]
+- Liver Injury [see Warnings and Precautions (5.2)]
+- Sedation [see Warnings and Precautions (5.3)]
+- Hallucinosis/Psychotic-Like Symptoms [see Warnings and Precautions (5.4)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -23,7 +23,7 @@ The most frequent adverse reactions reported in multiple dose, placebo-controlle
 Three-quarters of the patients rated the events as mild to moderate and one-quarter of the patients rated the events as being severe.
 These events appeared to be dose related.
 
-Table 1 lists signs and symptoms that were reported in greater than 2% of patients in three multiple dose, placebo-controlled studies who received Zanaflex where the frequency in the Zanaflex group was greater than the placebo group.
+Table 1lists signs and symptoms that were reported in greater than 2% of patients in three multiple dose, placebo-controlled studies who received Zanaflex where the frequency in the Zanaflex group was greater than the placebo group.
 For comparison purposes, the corresponding frequency of the event (per 100 patients) among placebo treated patients is also provided.
 
 Table 1: Multiple Dose, Placebo-Controlled Studies - Frequent (>2%) Adverse Reactions Reported for Which Zanaflex Tablets Incidence is Greater than Placebo
@@ -32,7 +32,7 @@ Table 1: Multiple Dose, Placebo-Controlled Studies - Frequent (>2%) Adverse Reac
 | --- | --- | --- |
 | Dry mouth | 10 | 49 |
 | Somnolence | 10 | 48 |
-| Asthenia(weakness, fatigue, and/or tiredness) | 16 | 41 |
+| Asthenia (weakness, fatigue, and/or tiredness) | 16 | 41 |
 | Dizziness | 4 | 16 |
 | UTI | 7 | 10 |
 | Infection | 5 | 6 |
@@ -59,7 +59,7 @@ Table 2: Single Dose, Placebo-Controlled Study - Common Adverse Reactions Report
 | --- | --- | --- | --- |
 | Somnolence | 31 | 78 | 92 |
 | Dry mouth | 35 | 76 | 88 |
-| Asthenia(weakness, fatigue, and/or tiredness) | 40 | 67 | 78 |
+| Asthenia (weakness, fatigue, and/or tiredness) | 40 | 67 | 78 |
 | Dizziness | 4 | 22 | 45 |
 | Hypotension | 0 | 16 | 33 |
 | Bradycardia | 0 | 2 | 10 |
@@ -75,14 +75,14 @@ The following adverse reactions have been identified as occurring in the post ma
 Based on the information provided regarding these reactions, a causal relationship with Zanaflex cannot be entirely excluded.
 The events are listed in order of decreasing clinical significance; severity in the post marketing setting is not reported.
 
-- •Stevens Johnson Syndrome
-- •Anaphylactic Reaction
-- •Exfoliative Dermatitis
-- •Ventricular Tachycardia
-- •Hepatitis
-- •Convulsion
-- •Depression
-- •Arthralgia
-- •Paresthesia
-- •Rash
-- •Tremor
+- Stevens Johnson Syndrome
+- Anaphylactic Reaction
+- Exfoliative Dermatitis
+- Ventricular Tachycardia
+- Hepatitis
+- Convulsion
+- Depression
+- Arthralgia
+- Paresthesia
+- Rash
+- Tremor

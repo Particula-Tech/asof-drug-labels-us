@@ -33,6 +33,6 @@ The CNS depressant effects of Zanaflex and alcohol are additive [see Clinical Ph
 The sedative effects of Zanaflex with CNS depressants (e.g., benzodiazepines, opioids, tricyclic antidepressants) may be additive.
 Monitor patients who take Zanaflex with another CNS depressant for symptoms of excess sedation [see Clinical Pharmacology (12.3)].
 
-## 7.7 α2-Adrenergic Agonists
+## 7.7 α 2-Adrenergic Agonists
 
-Because hypotensive effects may be cumulative, it is not recommended that Zanaflex be used with other α2-adrenergic agonists [see Warnings and Precautions (5.1)].
+Because hypotensive effects may be cumulative, it is not recommended that Zanaflex be used with other α 2-adrenergic agonists [see Warnings and Precautions (5.1)].

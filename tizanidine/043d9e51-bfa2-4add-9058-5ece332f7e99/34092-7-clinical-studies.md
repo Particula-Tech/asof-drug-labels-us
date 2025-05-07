@@ -16,7 +16,7 @@ Spasm counts were also collected.
 
 Assessments were made at 1, 2, 3 and 6 hours after treatment.
 A statistically significant reduction of the Ashworth score for Zanaflex compared to placebo was detected at 1, 2 and 3 hours after treatment.
-Figure 2 below shows a comparison of the mean change in muscle tone from baseline as measured by the Ashworth scale.
+Figure 2below shows a comparison of the mean change in muscle tone from baseline as measured by the Ashworth scale.
 The greatest reduction in muscle tone was 1 to 2 hours after treatment.
 By 6 hours after treatment, muscle tone in the 8 and 16 mg Zanaflex groups was indistinguishable from muscle tone in placebo treated patients.
 Within a given patient, improvement in muscle tone was correlated with plasma concentration.
@@ -36,4 +36,4 @@ The number of daytime spasms was recorded daily by patients.
 
 At endpoint (the protocol-specified time of outcome assessment), there was a statistically significant reduction in muscle tone and frequency of spasms in the Zanaflex treated group compared to placebo.
 The reduction in muscle tone was not associated with a reduction in muscle strength (a desirable outcome) but also did not lead to any consistent advantage of Zanaflex treated patients on measures of activities of daily living.
-Figure 3 below shows a comparison of the mean change in muscle tone from baseline as measured by the Ashworth scale.
+Figure 3below shows a comparison of the mean change in muscle tone from baseline as measured by the Ashworth scale.
