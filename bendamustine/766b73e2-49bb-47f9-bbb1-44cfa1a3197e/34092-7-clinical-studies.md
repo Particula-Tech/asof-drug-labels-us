@@ -23,10 +23,10 @@ Table 5: Efficacy Data for CLL
 | Response Rate n (%) |  |  |  |
 | Overall response rate | 90 (59) | 38 (26) | <0.0001 |
 | (95% CI) | (51, 66.6) | (18.6, 32.7) |  |
-| Complete response (CR)* | 13 (8) | 1 (<1) |  |
-| Nodular partial response (nPR)** | 4 (3) | 0 |  |
-| Partial response (PR) † | 73 (48) | 37 (25) |  |
-| Progression-Free Survival †† |  |  |  |
+| Complete response (CR)Error! Hyperlink reference not valid. | 13 (8) | 1 (<1) |  |
+| Nodular partial response (nPR)Error! Hyperlink reference not valid. | 4 (3) | 0 |  |
+| Partial response (PR) Error! Hyperlink reference not valid. | 73 (48) | 37 (25) |  |
+| Progression-Free Survival Error! Hyperlink reference not valid. |  |  |  |
 | Median, months (95% CI) | 18 (11.7, 23.5) | 6 (5.6, 8.6) |  |
 | Hazard ratio (95% CI) | 0.27 (0.17, 0.43) |  | <0.0001 |
 | CI = confidence interval |  |  |  |
@@ -35,7 +35,8 @@ Table 5: Efficacy Data for CLL
 | † PR was defined as ≥50% decrease in peripheral lymphocyte count from the pretreatment baseline value, and either ≥50% reduction in lymphadenopathy, or ≥50% reduction in the size of spleen or liver, as well as one of the following hematologic improvements: neutrophils ≥ 1.5 x 109/L or 50% improvement over baseline, platelets >100 x 109/L or 50% improvement over baseline, hemoglobin >110g/L or 50% improvement over baseline without transfusions, for a period of at least 56 days. |  |  |  |
 | †† PFS was defined as time from randomization to progression or death from any cause. |  |  |  |
 
-Kaplan-Meier estimates of progression-free survival comparing bendamustine hydrochloride with chlorambucil are shown in Figure 1.
+Kaplan-Meier estimates of progression-free survival comparing bendamustine hydrochloride with chlorambucil are shown in Error!
+Hyperlink reference not valid..
 
 Figure 1.
 Progression-Free Survival
@@ -53,7 +54,8 @@ Ninety-nine percent of patients had received previous chemotherapy, 91% of patie
 
 Efficacy was based on the assessments by a blinded independent review committee (IRC) and included overall response rate (complete response + complete response unconfirmed + partial response) and duration of response (DR) as summarized in Table 6.
 
-Table 6: Efficacy Data for NHL*
+Table 6: Efficacy Data for NHLError!
+Hyperlink reference not valid.
 
 |  | Bendamustine Hydrochloride (N=100) |
 | --- | --- |

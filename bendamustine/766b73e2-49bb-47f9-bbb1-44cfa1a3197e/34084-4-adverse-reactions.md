@@ -101,7 +101,7 @@ The most common non-hematologic Grade 3 or 4 adverse reactions (≥5%) were fati
 
 Table 3: Non-Hematologic Adverse Reactions Occurring in at Least 5% of NHL Patients Treated with Bendamustine Hydrochloride by System Organ Class and Preferred Term (N=176)
 
-| Body System | Number (%) of patients* |  |
+| Body System | Number (%) of patientsError! Hyperlink reference not valid. |  |
 | --- | --- | --- |
 | Adverse Reaction | All Grades | Grade 3/4 |
 | Total number of patients with at least 1 adverse reaction | 176 (100) | 94 (53) |

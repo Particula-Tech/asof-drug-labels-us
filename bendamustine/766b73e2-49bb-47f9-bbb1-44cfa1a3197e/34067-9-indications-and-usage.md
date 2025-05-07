@@ -2,7 +2,7 @@
 
 ## 1.1 Chronic Lymphocytic Leukemia (CLL)
 
-Bendamustine Hydrochloride Injection is indicated for the treatment of adult patients with chronic lymphocytic leukemia.
+Bendamustine q Hydrochloride Injection is indicated for the treatment of adult patients with chronic lymphocytic leukemia.
 Efficacy relative to first line therapies other than chlorambucil has not been established.
 
 ## 1.2 Non-Hodgkin Lymphoma (NHL)

@@ -53,8 +53,8 @@ Intravenous Infusion
 
 Aseptically withdraw the volume needed for the required dose from the 25 mg/mL solution as per Table A below and immediately transfer to a 500 mL infusion bag of one of the following diluents:
 
-- -0.9% Sodium Chloride Injection, USP; or
-- -2.5% Dextrose/0.45% Sodium Chloride Injection, USP.
+- •0.9% Sodium Chloride Injection, USP; or
+- •2.5% Dextrose/0.45% Sodium Chloride Injection, USP.
 
 The resulting final concentration of Bendamustine Hydrochloride Injection in the infusion bag should be within 0.05 to 0.7 mg/mL.
 After transferring, thoroughly mix the contents of the infusion bag.
