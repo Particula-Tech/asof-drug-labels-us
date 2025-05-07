@@ -121,7 +121,7 @@ Half-life and apparent oral clearance vary depending on concomitant AEDs.
 
 Drug Interactions
 
-The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.13), Drug Interactions (7)].
+The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.12), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
@@ -172,12 +172,13 @@ There were mean decreases in the AUC and Cmax of the levonorgestrel component of
 Measurement of serum progesterone indicated that there was no hormonal evidence of ovulation in any of the 16 volunteers, although measurement of serum FSH, LH, and estradiol indicated that there was some loss of suppression of the hypothalamic-pituitary-ovarian axis.
 
 The effects of doses of lamotrigine other than 300 mg/day have not been systematically evaluated in controlled clinical trials.
+Studies with other female hormonal preparations (including progesterone/progesterone-containing HRT) have not been conducted.
 
 The clinical significance of the observed hormonal changes on ovulatory activity is unknown.
 However, the possibility of decreased contraceptive efficacy in some patients cannot be excluded.
 Therefore, patients should be instructed to promptly report changes in their menstrual pattern (e.g., break-through bleeding).
 
-Dosage adjustments may be necessary for women receiving estrogen-containing oral contraceptive preparations [see Dosage and Administration (2.1)].
+Dosage adjustments may be necessary for women receiving estrogen-containing products, including oral contraceptive preparations [see Dosage and Administration (2.1)].
 
 Other Hormonal Contraceptives or Hormone Replacement Therapy
 
@@ -257,7 +258,7 @@ Limited clinical data suggest a higher incidence of headache, dizziness, nausea,
 
 Perampanel
 
-In a pooled analysis of data from 3 placebo-controlled clinical trials investigating adjunctive perampanel in patients with partial-onset and primary generalized tonic-clonic seizures, the highest perampanel dose evaluated (12 mg/day) increased lamotrigine clearance by <10%.
+In a pooled analysis of data from 3 placebo-controlled clinical trials investigating adjunctive perampanel in patients with partial-onset and PGTC seizures, the highest perampanel dose evaluated (12 mg/day) increased lamotrigine clearance by <10%.
 An effect of this magnitude is not considered to be clinically relevant.
 
 Phenobarbital, Primidone

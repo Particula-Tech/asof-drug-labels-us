@@ -11,7 +11,6 @@ The following serious adverse reactions are described in more detail in the Warn
 - •Aseptic Meningitis [see Warnings and Precautions (5.7)]
 - •Withdrawal Seizures [see Warnings and Precautions (5.10)]
 - •Status Epilepticus [see Warnings and Precautions (5.11)]
-- •Sudden Unexplained Death in Epilepsy [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -96,7 +95,7 @@ Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Adult Patie
 | Dysmenorrhea | 7 | 6 |
 | Vaginitis | 4 | 1 |
 | Amenorrhea | 2 | 1 |
-| a Adverse reactions that occurred in at least 2% of patients treated with LAMICTAL and at a greater incidence than placebo. b Patients in these adjunctive trials were receiving 1 to 3 of the concomitant antiepileptic drugs carbamazepine, phenytoin, phenobarbital, or primidone in addition to LAMICTAL or placebo. Patients may have reported multiple adverse reactions during the trial or at discontinuation; thus, patients may be included in more than 1 category. |  |  |
+| a Adverse reactions that occurred in at least 2% of patients treated with LAMICTAL and at a greater incidence than placebo. b Patients in these adjunctive trials were receiving 1 to 3 of the concomitant AEDs carbamazepine, phenytoin, phenobarbital, or primidone in addition to LAMICTAL or placebo. Patients may have reported multiple adverse reactions during the trial or at discontinuation; thus, patients may be included in more than 1 category. |  |  |
 
 In a randomized, parallel trial comparing placebo with 300 and 500 mg/day of LAMICTAL, some of the more common drug-related adverse reactions were dose related (see Table 9).
 
@@ -105,7 +104,7 @@ Dose-Related Adverse Reactions from a Randomized, Placebo-Controlled, Adjunctive
 
 | Adverse Reaction | Percent of Patients Experiencing Adverse Reactions |  |  |
 | --- | --- | --- | --- |
-| Placebo(n = 73) | LAMICTAL300 mg(n = 71) | LAMICTAL500 mg(n = 72) |  |
+| Placebo(n = 73) | LAMICTAL 300 mg(n = 71) | LAMICTAL 500 mg(n = 72) |  |
 | Ataxia | 10 | 10 | 28a,b |
 | Blurred vision | 10 | 11 | 25a,b |
 | Diplopia | 8 | 24a | 49a,b |
@@ -125,7 +124,7 @@ Controlled Monotherapy Trial in Adults with Partial-Onset Seizures: Table 10 lis
 Table 10.
 Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Partial-Onset Seizuresa,b
 
-| Body System/Adverse Reaction | Percent of Patients Receiving LAMICTALc as Monotherapy(n = 43) | Percent of Patients Receiving Low-Dose Valproated Monotherapy(n = 44) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving LAMICTALc as Monotherapy(n = 43) | Percent of Patients Receiving Low-Dose Valproated Monotherapy(n = 44) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Pain | 5 | 0 |
@@ -164,12 +163,12 @@ Skin and Appendages: Contact dermatitis, dry skin, sweating.
 
 Special Senses: Vision abnormality.
 
-Incidence in Controlled Adjunctive Trials in Pediatric Patients with Epilepsy: Table 11 lists adverse reactions that occurred in 339 pediatric patients with partial-onset seizures or generalized seizures of Lennox-Gastaut syndrome who received LAMICTAL up to 15 mg/kg/day or a maximum of 750 mg/day.
+Incidence in Controlled Adjunctive Trials in Pediatric Patients with Epilepsy:Table 11 lists adverse reactions that occurred in 339 pediatric patients with partial-onset seizures or generalized seizures of Lennox-Gastaut syndrome who received LAMICTAL up to 15 mg/kg/day or a maximum of 750 mg/day.
 
 Table 11.
 Adverse Reactions in Pooled, Placebo-Controlled, Adjunctive Trials in Pediatric Patients with Epilepsya
 
-| Body System/Adverse Reaction | Percent of Patients Receiving LAMICTAL(n = 168) | Percent of Patients Receiving Placebo(n = 171) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving LAMICTAL(n = 168) | Percent of Patients Receiving Placebo(n = 171) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Infection | 20 | 17 |
@@ -237,7 +236,7 @@ The overall adverse reaction profile for LAMICTAL was similar between females an
 Table 12.
 Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar I Disordera,b
 
-| Body System/Adverse Reaction | Percent of Patients Receiving LAMICTAL(n = 227) | Percent of Patients Receiving Placebo(n = 190) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving LAMICTAL(n = 227) | Percent of Patients Receiving Placebo(n = 190) |
 | --- | --- | --- |
 | General |  |  |
 | Back pain | 8 | 6 |
@@ -372,7 +371,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Blood and Lymphatic
 
-Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder.
+Agranulocytosis, hemolytic anemia, lymphadenopathy not associated with hypersensitivity disorder, pseudolymphoma.
 
 Gastrointestinal
 

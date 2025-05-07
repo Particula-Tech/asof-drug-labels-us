@@ -7,7 +7,7 @@ Drugs that induce or inhibit glucuronidation may, therefore, affect the apparent
 Strong or moderate inducers of the cytochrome P450 3A4 (CYP3A4) enzyme, which are also known to induce UGT, may also enhance the metabolism of lamotrigine.
 
 Those drugs that have been demonstrated to have a clinically significant impact on lamotrigine metabolism are outlined in Table 13.
-Specific dosing guidance for these drugs is provided in the Dosage and Administration section [see Dosage and Administration (2.1)].
+Specific dosing guidance for these drugs is provided in the Dosage and Administration section, and, for women taking estrogen‑containing products, including oral contraceptives, in the Warnings and Precautions section [see Dosage and Administration (2.1), Warnings and Precautions (5.9)].
 
 Additional details of these drug interaction studies are provided in the Clinical Pharmacology section [see Clinical Pharmacology (12.3)].
 
@@ -16,17 +16,14 @@ Established and Other Potentially Significant Drug Interactions
 
 | Concomitant Drug | Effect on Concentration of Lamotrigine or Concomitant Drug | Clinical Comment |
 | --- | --- | --- |
-| Estrogen-containing oral contraceptive preparations containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel | ↓ lamotrigine | Decreased lamotrigine concentrations approximately 50%. |
-|  | ↓ levonorgestrel | Decrease in levonorgestrel component by 19%. |
-| Carbamazepine and carbamazepine epoxide | ↓ lamotrigine | Addition of carbamazepine decreases lamotrigine concentration approximately 40%. |
-|  | ? carbamazepine epoxide | May increase carbamazepine epoxide levels. |
+| Estrogen-containing oral contraceptive preparations containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel | ↓ lamotrigine ↓ levonorgestrel | Decreased lamotrigine concentrations approximately 50%. Decrease in levonorgestrel component by 19%. |
+| Carbamazepine and carbamazepine epoxide | ↓ lamotrigine ? carbamazepine epoxide | Addition of carbamazepine decreases lamotrigine concentration approximately 40%. May increase carbamazepine epoxide levels. |
 | Lopinavir/ritonavir | ↓ lamotrigine | Decreased lamotrigine concentration approximately 50%. |
 | Atazanavir/ritonavir | ↓ lamotrigine | Decreased lamotrigine AUC approximately 32%. |
 | Phenobarbital/primidone | ↓ lamotrigine | Decreased lamotrigine concentration approximately 40%. |
 | Phenytoin | ↓ lamotrigine | Decreased lamotrigine concentration approximately 40%. |
 | Rifampin | ↓ lamotrigine | Decreased lamotrigine AUC approximately 40%. |
-| Valproate | ↑ lamotrigine | Increased lamotrigine concentrations slightly more than 2-fold. |
-|  | ? valproate | There are conflicting study results regarding effect of lamotrigine on valproate concentrations: 1) a mean 25% decrease in valproate concentrations in healthy volunteers, 2) no change in valproate concentrations in controlled clinical trials in patients with epilepsy. |
+| Valproate | ↑ lamotrigine ? valproate | Increased lamotrigine concentrations slightly more than 2-fold. There are conflicting study results regarding effect of lamotrigine on valproate concentrations: 1) a mean 25% decrease in valproate concentrations in healthy volunteers, 2) no change in valproate concentrations in controlled clinical trials in patients with epilepsy. |
 | ↓ = Decreased (induces lamotrigine glucuronidation). ↑ = Increased (inhibits lamotrigine glucuronidation). ? = Conflicting data. |  |  |
 
 Effect of LAMICTAL on Organic Cationic Transporter 2 Substrates
