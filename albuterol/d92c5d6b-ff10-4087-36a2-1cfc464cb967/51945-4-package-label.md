@@ -19,9 +19,7 @@ Net Wt.
 
 GlaxoSmithKline
 
-Research Triangle Park, NC 27709
-
-Made in United Kingdom
+Durham, NC 27701
 
 Rx only
 
@@ -35,7 +33,9 @@ WARNING: Do not exceed the dose prescribed by your doctor.
 
 If difficulty in breathing persists, get immediate medical help.
 
-Contents Under Pressure: Do not puncture.
+Contents Under Pressure:
+
+Do not puncture.
 Do not use or store near heat or open flame.
 Keep out of reach of children.
 
@@ -43,5 +43,5 @@ Shake the inhaler well before each spray.
 
 Store at room temperature between 68oF and 77oF (20oC and 25oC). with the mouthpiece down.
 
-1. 62000000048002 Rev.
-   3/20
+- 62000000095460 Rev.
+  8/24
