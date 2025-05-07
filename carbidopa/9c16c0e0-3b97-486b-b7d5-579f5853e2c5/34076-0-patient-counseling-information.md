@@ -51,11 +51,6 @@ Rhabdomyolysis
 Advise patients that they may develop rhabdomyolysis and myalgia if they experience prolonged motor activity including dyskinesia.
 This event may also be associated with fever and confusion [see Warnings and Precautions (5.9)].
 
-Melanoma
-
-Advise patients with Parkinson's disease that they have a higher risk of developing melanoma.
-Advise patients to have their skin examined on a regular basis by a qualified healthcare provider (e.g., dermatologist) and to monitor for melanomas frequently and on a regular basis when using carbidopa, levodopa and entacapone tablets [see Warnings and Precautions (5.10)].
-
 Nausea and Vomiting
 
 Inform patients that carbidopa, levodopa and entacapone tablets may cause nausea and vomiting may occur more frequently during initial therapy and may require dose adjustment.
@@ -81,10 +76,10 @@ Advise patients that a change in diet to foods that are high in protein may dela
 Excessive acidity also delays stomach emptying, thus delaying the absorption of levodopa.
 Iron salts (such as in multi-vitamin tablets) may also reduce the effectiveness of carbidopa, levodopa and entacapone tablets.
 
-Pregnancy and Breastfeeding
+Pregnancy
 
-Carbidopa and levodopa are known to affect embryo-fetal development in the rabbit and decrease the number of live pups delivered by rats.
-Instruct patients to notify their physicians if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
+Instruct patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy [see Use in Specific Populations (8.1)].
 
-Carbidopa is known to be excreted into milk in rats.
-Because of the possibility that carbidopa and levodopa may be excreted into human milk, instruct patients to notify their physicians if they intend to breastfeed or are breastfeeding an infant [see Use in Specific Populations (8.3)].
+Lactation
+
+Instruct patients to notify their healthcare provider if they intend to breastfeed or are breastfeeding an infant [see Use in Specific Populations (8.2)].

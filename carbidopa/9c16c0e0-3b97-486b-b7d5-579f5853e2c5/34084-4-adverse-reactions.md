@@ -19,7 +19,7 @@ Because clinical trials are conducted under widely varying conditions, the incid
 
 Entacapone
 
-The most commonly observed adverse reactions (incidence at least 3% greater than placebo incidence) in the double-blind, carbidopa-levodopa-placebo-controlled trials of entacapone (N=1,003 patients) associated with the use of carbidopa-levodopa-entacapone alone and not seen at an equivalent frequency among the placebo-treated patients were: dyskinesia, urine discoloration, diarrhea, nausea, hyperkinesia, vomiting, and dry mouth.
+The most commonly observed adverse reactions (incidence at least 3% greater than placebo incidence) in the double-blind, carbidopa-levodopa-placebo-controlled trials of entacapone (N=1,003 patients) associated with the use of carbidopa-levodopa-entacapone alone and not seen at an equivalent frequency among the placebo-treated patients were: dyskinesia, diarrhea, nausea, hyperkinesia, abdominal pain, vomiting, dry mouth, and urine discoloration.
 
 The treatment difference incidence for premature study discontinuation for entacapone with levodopa and dopa decarboxylase inhibitor in the double-blind, placebo-controlled trials was 5%.
 The treatment difference incidence for the most frequent causes of study discontinuation was 2% for diarrhea, and 1% for other specific adverse reactions including psychiatric reasons, dyskinesia/ hyperkinesia, nausea, or abdominal pain.
@@ -31,7 +31,7 @@ In these studies, either entacapone or placebo was added to carbidopa/levodopa (
 
 Table 2: Summary of Patients With Adverse Reactions After Start of Trial Drug Administration At Least 1% in Entacapone Group and Greater Than Placebo
 
-| Preferred Term | (n=603) % of patients | (n=400) % of patients |
+| Adverse Reaction | (n=603) % of patients | (n=400) % of patients |
 | --- | --- | --- |
 | SYSTEM ORGAN CLASS | Carbidopa/levodopa plus Entacapone | Carbidopa/levodopa plus Placebo |
 | SKIN AND APPENDAGES DISORDERS |  |  |

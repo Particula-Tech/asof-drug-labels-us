@@ -26,7 +26,7 @@ The oval-shaped tablets are light brownish red, unscored and embossed with code 
 
 1. NDC 0781-5641-01 HDPE bottle of 100 tablets
 
-Carbidopa, levodopa and entacaponefilm-coated tablets containing 37.5 mg of carbidopa, 150 mg of levodopa, and 200 mg of entacapone.
+Carbidopa, levodopa and entacapone film-coated tablets containing 37.5 mg of carbidopa, 150 mg of levodopa, and 200 mg of entacapone.
 
 The elongated-ellipse shaped tablets are brownish- or greyish-red, unscored, and embossed “LCE 150” on one side.
 
@@ -38,8 +38,6 @@ The oval shaped tablets are dark brownish red, unscored, and embossed “LCE 200
 
 1. NDC 0781-5669-01 HDPE bottle of 100 tablets
 
-Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
-[See USP Controlled Room Temperature.]
-
-Dispense in tight container (USP).
+Dispense contents in a tight, light-resistant container as defined in the USP with a child-resistant closure.

@@ -16,7 +16,7 @@ Prescribers should also be aware that patients may not acknowledge drowsiness or
 Patients who have already experienced somnolence and/or an episode of sudden sleep onset should not participate in these activities during treatment with carbidopa, levodopa and entacapone tablets.
 
 Before initiating treatment with carbidopa, levodopa and entacapone tablets, advise patients of the potential to develop drowsiness and specifically ask about factors that may increase this risk such as use of concomitant sedating medications and the presence of sleep disorders.
-If a patient develops daytime sleepiness or episodes of falling asleep during activities that require active participation (e.g., conversations, eating, etc.), carbidopa, levodopa and entacapone tablets should ordinarily be discontinued [see Dosage and Administration (2.5) and Warnings and Precautions (5.7)].
+If a patient develops daytime sleepiness or episodes of falling asleep during activities that require active participation (e.g., conversations, eating, etc.), carbidopa, levodopa and entacapone tablets should ordinarily be discontinued [see Dosage and Administration (2.5), and Warnings and Precautions (5.7)].
 If the decision is made to continue carbidopa, levodopa and entacapone tablets, patients should be advised not to drive and to avoid other potentially dangerous activities.
 There is insufficient information to establish whether dose reduction will eliminate episodes of falling asleep while engaged in activities of daily living.
 
@@ -89,19 +89,11 @@ Most of the cases were manifested by myalgia and increased values of creatine ph
 Some of the reactions also included fever and/or alteration of consciousness.
 It is also possible that rhabdomyolysis may be a result of the syndrome described in Withdrawal-Emergent Hyperpyrexia and Confusion [see Warnings and Precautions (5.7)].
 
-## 5.10 Melanoma
-
-Epidemiological studies have shown that patients with Parkinson's disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
-Whether the increased risk observed was due to Parkinson's disease or other factors, such as drugs used to treat Parkinson's disease, is unclear.
-
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using carbidopa, levodopa and entacapone tablets, for any indication.
-Ideally, periodic skin examination should be performed by appropriately qualified individuals (e.g., dermatologists).
-
-## 5.11 Interaction with Drugs Metabolized by COMT
+## 5.10 Interaction with Drugs Metabolized by COMT
 
 Drugs known to be metabolized by COMT, such as isoproterenol, epinephrine, norepinephrine, dopamine, dobutamine, alpha-methyldopa, apomorphine, isoetherine, and bitolterol should be administered with caution in patients receiving entacapone regardless of the route of administration (including inhalation), as their interaction may result in increased heart rate, arrhythmia, and/or increased blood pressure.
 
-## 5.12 Fibrotic Complications
+## 5.11 Fibrotic Complications
 
 Cases of retroperitoneal fibrosis, pulmonary infiltrates, pleural effusion, and pleural thickening have been reported in some patients treated with ergot derived dopaminergic agents.
 These complications may resolve when the drug is discontinued, but complete resolution does not always occur.
@@ -110,16 +102,16 @@ The expected incidence of fibrotic complications is so low that even if entacapo
 Four cases of pulmonary fibrosis have been reported during clinical development of entacapone; 3 of these patients were also treated with pergolide and 1 with bromocriptine.
 The duration of treatment with entacapone ranged from 7 months to 17 months.
 
-## 5.13 Peptic Ulcer Disease
+## 5.12 Peptic Ulcer Disease
 
 As with levodopa, treatment with carbidopa, levodopa and entacapone tablets may increase the possibility of upper gastrointestinal hemorrhage in patients with a history of peptic ulcer.
 
-## 5.14 Hepatic Impairment
+## 5.13 Hepatic Impairment
 
 Patients with hepatic impairment should be treated with caution [see Clinical Pharmacology (12.3)].
 As with levodopa, periodic evaluation of hepatic function is recommended during extended therapy.
 
-## 5.15 Laboratory Tests
+## 5.14 Laboratory Tests
 
 Abnormalities in laboratory tests may include elevations of liver function tests such as alkaline phosphatase, SGOT (AST), SGPT (ALT), lactic dehydrogenase, and bilirubin.
 Abnormalities in blood urea nitrogen and positive Coombs test have also been reported.

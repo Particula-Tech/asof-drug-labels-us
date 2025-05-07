@@ -2,12 +2,16 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
-It has been reported from individual cases that levodopa crosses the human placental barrier, enters the fetus, and is metabolized.
-In animals, administration of carbidopa-levodopa or entacapone during pregnancy was associated with developmental toxicity, including increased incidences of fetal malformations.
-Carbidopa, levodopa and entacapone tablets should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no adequate data on the developmental risk associated with the use of carbidopa, levodopa and entacapone in pregnant women.
+In animals, administration of carbidopa-levodopa or entacapone during pregnancy was associated with developmental toxicity, including increased incidences of fetal malformations (see Data).
+The estimated background risk of major birth defects and miscarriage in the indicated population is unknown.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies are 2 to 4% and 15 to 20%, respectively.
+
+Data
+
+Animal data
 
 In nonclinical studies in which carbidopa-levodopa was administered to pregnant animals, increased incidences of visceral and skeletal malformations were observed in rabbits at all doses and ratios of carbidopa-levodopa tested, which ranged from 10 times (carbidopa)-5 times (levodopa) to 20 times (carbidopa)-10 times (levodopa) the maximum recommended human dose (MRHD) of 1,600 mg/day.
 In rats, there was a decrease in the number of live pups delivered by dams receiving approximately two times (carbidopa)-five times (levodopa) the MRHD throughout organogenesis.
@@ -16,17 +20,23 @@ No effects on malformation frequencies were observed in mice receiving up to 20 
 In embryo-fetal development studies of entacapone, pregnant animals received doses of up to 1,000 mg/kg/day (rats) or 300 mg/kg/day (rabbits) throughout organogenesis.
 Increased incidences of fetal variations were evident in litters from rats treated with the highest dose, in the absence of overt signs of maternal toxicity.
 The maternal plasma entacapone exposure (AUC) associated with this dose was approximately 34 times that in humans at the MRHD.
-Increased frequencies of abortions and late/total resorptions and decreased fetal weights were observed in the litters of rabbits treated with maternally toxic doses of 100 mg/kg/day (plasma AUCs les than that in humans at the MRHD) or greater.
+Increased frequencies of abortions and late/total resorptions and decreased fetal weights were observed in the litters of rabbits treated with maternally toxic doses of 100 mg/kg/day (plasma AUCs less than that in humans at the MRHD) or greater.
 There were no increases in malformation rates in these studies.
 
 When entacapone was administered to female rats prior to mating and during early gestation, an increased incidence of fetal eye anomalies (macrophthalmia, microphthalmia, anophthalmia) was observed in the litters of dams treated with doses of 160 mg/kg/day (plasma AUCs seven times that in humans at the MRHD) or greater, in the absence of maternal toxicity.
 Administration of up to 700 mg/kg/day (plasma AUCs 28 times that in humans at the MRHD) to rats during the latter part of gestation and throughout lactation produced no evidence of developmental impairment in the offspring.
 
-## 8.3 Nursing Mothers
+## 8.2 Lactation
 
+Risk Summary
+
+Levodopa has been detected in human milk after administration of carbidopa-levodopa.
+There are no data on the presence of entacapone or carbidopa in human milk, the effects of levodopa, carbidopa, or entacapone on the breastfed infant, or the effects on milk production.
+However, inhibition of lactation may occur because levodopa decreases secretion of prolactin [see Clinical Pharmacology (12.6)].
 Carbidopa and entacapone are excreted in rat milk.
-It is not known whether entacapone, carbidopa, or levodopa is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when carbidopa, levodopa and entacapone tablets are administered to a nursing woman.
+In lactating rat, oral administration of radiolabeled entacapone resulted in levels of entacapone and/or metabolites in milk up to 2 to 3 times that in plasma.
+
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for carbidopa, levodopa and entacapone and any potential adverse effects on the breastfed infant from carbidopa, levodopa and entacapone or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

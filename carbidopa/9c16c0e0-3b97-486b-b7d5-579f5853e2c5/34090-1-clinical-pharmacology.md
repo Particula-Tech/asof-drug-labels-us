@@ -160,6 +160,8 @@ Entacapone
 
 There is no gender difference in the pharmacokinetics of entacapone.
 
+Drug Interaction Studies
+
 Drug Metabolized by COMT
 
 When a single 400 mg dose of entacapone was given together with intravenous isoprenaline (isoproterenol) and epinephrine without coadministered levodopa and dopa decarboxylase inhibitor, the overall mean maximal changes in heart rate during infusion were about 50% and 80% higher than with placebo, for isoprenaline and epinephrine, respectively.

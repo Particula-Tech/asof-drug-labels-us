@@ -7,7 +7,7 @@ Therefore, the use of carbidopa, levodopa and entacapone tablets are contraindic
 
 ## 7.2 Drugs Metabolized by Catechol-O-Methyltransferase (COMT)
 
-Drugs known to be metabolized by COMT, such as isoproterenol, epinephrine, norepinephrine, dopamine, dobutamine, alpha-methyldopa, apomorphine, isoetherine, and bitolterol should be administered with caution in patients receiving entacapone regardless of the route of administration (including inhalation), as their interaction may result in increased heart rates, possibly arrhythmias, and excessive changes in blood pressure [see Warnings and Precautions (5.11)].
+Drugs known to be metabolized by COMT, such as isoproterenol, epinephrine, norepinephrine, dopamine, dobutamine, alpha-methyldopa, apomorphine, isoetherine, and bitolterol should be administered with caution in patients receiving entacapone regardless of the route of administration (including inhalation), as their interaction may result in increased heart rates, possibly arrhythmias, and excessive changes in blood pressure [see Warnings and Precautions (5.10)].
 
 ## 7.3 Antihypertensive Agents
 

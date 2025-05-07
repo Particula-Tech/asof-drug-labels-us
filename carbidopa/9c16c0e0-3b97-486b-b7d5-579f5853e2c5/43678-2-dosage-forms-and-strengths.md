@@ -3,7 +3,7 @@
 Each carbidopa, levodopa and entacapone tablet, provided in 6 single-dose strengths, contains carbidopa and levodopa in a 1:4 ratio and a 200 mg dose of entacapone.
 Carbidopa, levodopa and entacapone tablets are supplied as film-coated tablets for oral administration in the following 6 strengths:
 
-Carbidopa, levodopa and entacaponefilm-coated tablets containing 12.5 mg of carbidopa, 50 mg of levodopa and 200 mg of entacapone.
+Carbidopa, levodopa and entacapone film-coated tablets containing 12.5 mg of carbidopa, 50 mg of levodopa and 200 mg of entacapone.
 The round, bi-convex shaped tablets are brownish- or greyish-red, unscored, and embossed “LCE 50” on one side.
 
 Carbidopa, levodopa and entacapone film-coated tablets containing 18.75 mg of carbidopa, 75 mg of levodopa and 200 mg of entacapone.
