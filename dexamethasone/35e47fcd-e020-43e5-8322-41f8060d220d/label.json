@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA013422"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Harrow Eye, LLC",
+  "package_ndcs": [
+    "82667-600-05"
+  ],
+  "products": [
+    {
+      "form": "FOR SUSPENSION",
+      "generic": "dexamethasone",
+      "name": "MAXIDEX"
+    }
+  ],
+  "setid": "35e47fcd-e020-43e5-8322-41f8060d220d",
+  "source": "dailymed"
+}
