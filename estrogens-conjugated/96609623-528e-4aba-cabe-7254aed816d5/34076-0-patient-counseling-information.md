@@ -1,15 +1,18 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling (Patient Information and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 ## 17.1 Vaginal Bleeding
 
 Inform postmenopausal women of the importance of reporting vaginal bleeding to their healthcare provider as soon as possible [see Warnings and Precautions (5.3)].
 
-## 17.2 Possible Serious Adverse Reactions with Estrogen-Alone Therapy
+## 17.2 Possible Serious Adverse Reactions with Estrogens
 
 Inform postmenopausal women of possible serious adverse reactions of estrogen-alone therapy including Cardiovascular Disorders, Malignant Neoplasms, and Probable Dementia [see Warnings and Precautions (5.2, 5.3, 5.4)].
 
-## 17.3 Possible Less Serious but Common Adverse Reactions with Estrogen-Alone Therapy
+## 17.3 Possible Less Serious but Common Adverse Reactions with Estrogens
 
 Inform postmenopausal women of possible less serious but common adverse reactions of estrogen-alone therapy such as headache, breast pain and tenderness, nausea and vomiting.
+
+This product’s labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.

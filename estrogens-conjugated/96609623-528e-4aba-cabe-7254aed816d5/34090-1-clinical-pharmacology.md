@@ -18,7 +18,7 @@ Estrogens act to reduce the elevated levels of these gonadotropins seen in postm
 
 ## 12.2 Pharmacodynamics
 
-Currently, there are no pharmacodynamic data known for PREMARIN Vaginal Cream.
+Currently, there are no pharmacodynamic data known for PREMARIN vaginal cream.
 
 ## 12.3 Pharmacokinetics
 
@@ -28,7 +28,7 @@ Conjugated estrogens are water soluble and are well-absorbed through the skin, m
 The vaginal delivery of estrogens circumvents first-pass metabolism.
 
 A bioavailability study was conducted in 24 postmenopausal women with atrophic vaginitis.
-The mean (SD) pharmacokinetic parameters for unconjugated estrone, unconjugated estradiol, total estrone, total estradiol and total equilin following 7 once-daily doses of PREMARIN Vaginal Cream 0.5 g is shown in Table 2.
+The mean (SD) pharmacokinetic parameters for unconjugated estrone, unconjugated estradiol, total estrone, total estradiol and total equilin following 7 once-daily doses of PREMARIN vaginal cream 0.5 g is shown in Table 2.
 
 Table 2: Mean ± SD Pharmacokinetic Parameters of PREMARIN Following Daily Administration (7 Days) of PREMARIN Vaginal Cream 0.5 g in 24 Postmenopausal Women
 
@@ -39,7 +39,7 @@ Table 2: Mean ± SD Pharmacokinetic Parameters of PREMARIN Following Daily Admin
 | Baseline-adjusted estrone | 21.9 ± 13.1 | 7.4 ± 6.2 | 365 ± 255 |
 | Estradiol | 12.8 ± 16.6 | 8.5 ± 6.2 | 231 ± 285 |
 | Baseline-adjusted estradiol | 9.14 ± 14.7 | 8.5 ± 6.2 | 161 ± 252 |
-| Pharmacokinetic Profiles of Conjugated Estrogens PREMARIN Vaginal Cream 0.5 g |  |  |  |
+| Pharmacokinetic Profiles of CE PREMARIN Vaginal Cream 0.5 g |  |  |  |
 | PK Parameters Arithmetic Mean ± SD | Cmax (ng/mL) | Tmax (hr) | AUCss (ng•hr/mL) |
 | Total estrone | 0.60 ± 0.32 | 6.0 ± 4.0 | 9.75 ± 4.99 |
 | Baseline-adjusted total estrone | 0.40 ± 0.28 | 6.0 ± 4.0 | 5.79 ± 3.7 |
@@ -60,7 +60,7 @@ Circulating estrogens exist in a dynamic equilibrium of metabolic interconversio
 These transformations take place mainly in the liver.
 Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is a major urinary metabolite.
 Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
-In postmenopausal women, a significant portion of the circulating estrogens exists as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
+In postmenopausal women, a significant proportion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
 Excretion
 

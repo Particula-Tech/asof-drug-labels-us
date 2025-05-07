@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-No drug interaction studies have been conducted for PREMARIN Vaginal Cream.
+No drug interaction studies have been conducted for PREMARIN vaginal cream.
 
 ## 7.1 Metabolic Interactions
 

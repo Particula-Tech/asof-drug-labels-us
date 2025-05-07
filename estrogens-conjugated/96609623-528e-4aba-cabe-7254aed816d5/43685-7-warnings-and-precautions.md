@@ -2,21 +2,21 @@
 
 ## 5.1 Risks from Systemic Absorption
 
-Systemic absorption occurs with the use of PREMARIN Vaginal Cream.
+Systemic absorption occurs with the use of PREMARIN vaginal cream.
 The warnings, precautions, and adverse reactions associated with oral PREMARIN treatment should be taken into account.
 
 ## 5.2 Cardiovascular Disorders
 
 An increased risk of stroke and DVT has been reported with estrogen-alone therapy.
 An increased risk of PE, DVT, stroke and MI has been reported with estrogen plus progestin therapy.
-Should any of these occur or be suspected, estrogen with or without progestin therapy should be discontinued immediately.
+Should any of these events occur or be suspected, estrogen with or without progestin therapy should be discontinued immediately.
 
 Risk factors for arterial vascular disease (for example, hypertension, diabetes mellitus, tobacco use, hypercholesterolemia, and obesity) and/or venous thromboembolism (VTE) (for example, personal history or family history of VTE, obesity, and systemic lupus erythematosus) should be managed appropriately.
 
 Stroke
 
 In the WHI estrogen-alone substudy, a statistically significant increased risk of stroke was reported in women 50 to 79 years of age receiving daily CE (0.625 mg) -alone compared to women in the same age group receiving placebo (45 versus 33 per 10,000 women-years).
-The increase in risk was demonstrated in year 1 and persisted [see Clinical Studies (14.2)].
+The increase in risk was demonstrated in Year 1 and persisted [see Clinical Studies (14.2)].
 Should a stroke occur or be suspected, estrogen-alone therapy should be discontinued immediately.
 
 Subgroup analyses of women 50 to 59 years of age suggest no increased risk of stroke for those women receiving CE (0.625 mg) -alone versus those receiving placebo (18 versus 21 per 10,000 women-years).1
@@ -30,16 +30,16 @@ In the WHI estrogen-alone substudy, no overall effect on coronary heart disease 
 
 Subgroup analyses of women 50 to 59 years of age suggest a statistically non-significant reduction in CHD events (CE [0.625 mg]-alone compared to placebo) in women with less than 10 years since menopause (8 versus 16 per 10,000 women-years).1
 
-In the WHI estrogen plus progestin substudy, there was a statistically non-significant increased risk of CHD events reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women-years).1 An increase in relative risk was demonstrated in year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 [see Clinical Studies (14.2)].
+In the WHI estrogen plus progestin substudy, there was a statistically non-significant increased risk of CHD events reported in women receiving daily CE (0.625 mg) plus MPA (2.5 mg) compared to women receiving placebo (41 versus 34 per 10,000 women-years).1 An increase in relative risk was demonstrated in Year 1, and a trend toward decreasing relative risk was reported in years 2 through 5 [see Clinical Studies (14.2)].
 
-In postmenopausal women with documented heart disease (n = 2,763), average 66.7 years of age, in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study [HERS]), treatment with daily CE (0.625 mg) plus MPA (2.5 mg) demonstrated no cardiovascular benefit.
-During an average follow-up of 4.1 years, treatment with CE plus MPA did not reduce the overall rate of CHD events in postmenopausal women with established coronary heart disease.
-There were more CHD events in the CE plus MPA-treated group than in the placebo group in year 1, but not during subsequent years.
+In postmenopausal women with documented heart disease (n = 2,763, average 66.7 years of age), in a controlled clinical trial of secondary prevention of cardiovascular disease (Heart and Estrogen/Progestin Replacement Study; HERS), treatment with daily CE (0.625 mg) plus MPA (2.5 mg) demonstrated no cardiovascular benefit.
+During an average follow-up of 4.1 years, treatment with CE plus MPA did not reduce the overall rate of CHD events in postmenopausal women with established CHD.
+There were more CHD events in the CE plus MPA-treated group than in the placebo group in Year 1, but not during the subsequent years.
 Two thousand, three hundred and twenty-one (2,321) women from the original HERS trial agreed to participate in an open label extension of HERS, HERS II.
 Average follow-up in HERS II was an additional 2.7 years, for a total of 6.8 years overall.
-Rates of CHD events were comparable among women in the CE plus MPA group and the placebo group in HERS, HERS II, and overall.
+Rates of CHD events were comparable among women in the CE (0.625 mg) plus MPA (2.5 mg) group and the placebo group in HERS, HERS II, and overall.
 
-Venous Thromboembolism
+Venous Thromboembolism (VTE)
 
 In the WHI estrogen-alone substudy, the risk of VTE (DVT and PE) was increased for women receiving daily CE (0.625 mg) -alone compared to placebo (30 versus 22 per 10,000 women-years), although only the increased risk of DVT reached statistical significance (23 versus 15 per 10,000 women-years).
 The increase in VTE risk was demonstrated during the first 2 years3 [see Clinical Studies (14.2)].
@@ -67,7 +67,7 @@ Adequate diagnostic measures, including directed or random endometrial sampling 
 There is no evidence that the use of natural estrogens results in a different endometrial risk profile than synthetic estrogens of equivalent estrogen dose.
 Adding a progestin to postmenopausal estrogen therapy has been shown to reduce the risk of endometrial hyperplasia, which may be a precursor to endometrial cancer.
 
-In a 52-week clinical trial using PREMARIN Vaginal Cream alone (0.5 g inserted twice weekly or daily for 21 days, then off for 7 days), there was no evidence of endometrial hyperplasia or endometrial carcinoma.
+In a 52-week clinical trial using PREMARIN vaginal cream alone (0.5 g inserted twice weekly or daily for 21 days, then off for 7 days), there was no evidence of endometrial hyperplasia or endometrial carcinoma.
 
 Breast Cancer
 
@@ -75,7 +75,7 @@ The WHI substudy of daily CE (0.625 mg)-alone provided information about breast 
 In the WHI estrogen-alone substudy, after an average follow-up of 7.1 years, daily CE-alone was not associated with an increased risk of invasive breast cancer [relative risk (RR) 0.80]5 [see Clinical Studies (14.2)].
 
 After a mean follow-up of 5.6 years, the estrogen plus progestin substudy reported an increased risk of invasive breast cancer in women who took daily CE plus MPA.
-In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26 percent of the women.
+In this substudy, prior use of estrogen-alone or estrogen plus progestin therapy was reported by 26% of the women.
 The relative risk of invasive breast cancer was 1.24, and the absolute risk was 41 versus 33 cases per 10,000 women-years, for CE plus MPA compared with placebo.
 Among women who reported prior use of hormone therapy, the relative risk of invasive breast cancer was 1.86, and the absolute risk was 46 versus 25 cases per 10,000 women-years, for CE plus MPA compared with placebo.
 Among women who reported no prior use of hormone therapy, the relative risk of invasive breast cancer was 1.09, and the absolute risk was 40 versus 36 cases per 10,000 women-years for CE plus MPA compared with placebo.
@@ -88,9 +88,9 @@ One large meta-analysis of prospective cohort studies reported increased risks t
 Extension of the WHI trials also demonstrated increased breast cancer risk associated with estrogen plus progestin therapy.
 
 Observational studies also suggest that the risk of breast cancer was greater, and became apparent earlier, with estrogen plus progestin therapy as compared to estrogen-alone therapy.
-However, these studies have not generally found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
+However, these studies have not found significant variation in the risk of breast cancer among different estrogen plus progestin combinations, doses, or routes of administration.
 
-The use of estrogen-alone and estrogen plus progestin therapy has been reported to result in an increase in abnormal mammograms, requiring further evaluation.
+The use of estrogen-alone and estrogen plus progestin has been reported to result in an increase in abnormal mammograms, requiring further evaluation.
 
 All women should receive yearly breast examinations by a healthcare provider and perform monthly breast self-examinations.
 In addition, mammography examinations should be scheduled based on patient age, risk factors, and prior mammogram results.
@@ -98,12 +98,12 @@ In addition, mammography examinations should be scheduled based on patient age, 
 Ovarian Cancer
 
 The WHI estrogen plus progestin substudy reported a statistically non-significant increased risk of ovarian cancer.
-After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95 percent CI, 0.77–3.24).
+After an average follow-up of 5.6 years, the relative risk for ovarian cancer for CE plus MPA versus placebo was 1.58 (95% confidence interval [CI], 0.77–3.24).
 The absolute risk for CE plus MPA versus placebo was 4 versus 3 cases per 10,000 women-years.7
 
 A meta-analysis of 17 prospective and 35 retrospective epidemiology studies found that women who used hormonal therapy for menopausal symptoms had an increased risk for ovarian cancer.
 The primary analysis, using case-control comparisons, included 12,110 cancer cases from the 17 prospective studies.
-The relative risks associated with current use of hormonal therapy was 1.41 (95% confidence interval [CI] 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years] vs. greater than 5 years [median of 10 years] of use before the cancer diagnosis).
+The relative risks associated with current use of hormonal therapy was 1.41 (95% CI 1.32 to 1.50); there was no difference in the risk estimates by duration of the exposure (less than 5 years [median of 3 years] vs. greater than 5 years [median of 10 years] of use before the cancer diagnosis).
 The relative risk associated with combined current and recent use (discontinued use within 5 years before cancer diagnosis) was 1.37 (95% CI 1.27–1.48), and the elevated risk was significant for both estrogen-alone and estrogen plus progestin products.
 The exact duration of hormone therapy use associated with an increased risk of ovarian cancer, however, is unknown.
 
@@ -112,17 +112,17 @@ The exact duration of hormone therapy use associated with an increased risk of o
 In the WHIMS estrogen-alone ancillary study of WHI, a population of 2,947 hysterectomized women 65 to 79 years of age was randomized to daily CE (0.625 mg) -alone or placebo.
 
 After an average follow-up of 5.2 years, 28 women in the estrogen-alone group and 19 women in the placebo group were diagnosed with probable dementia.
-The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI, 0.83–2.66).
+The relative risk of probable dementia for CE-alone versus placebo was 1.49 (95% CI, 0.83–2.66).
 The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years8 [see Use in Specific Populations (8.5), and Clinical Studies (14.3)].
 
 In the WHIMS estrogen plus progestin ancillary study of WHI, a population of 4,532 postmenopausal women 65 to 79 years of age was randomized to daily CE (0.625 mg) plus MPA (2.5 mg) or placebo.
 
 After an average follow-up of 4 years, 40 women in the CE plus MPA group and 21 women in the placebo group were diagnosed with probable dementia.
-The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95 percent CI, 1.21–3.48).
+The relative risk of probable dementia for CE plus MPA versus placebo was 2.05 (95% CI, 1.21–3.48).
 The absolute risk of probable dementia for CE plus MPA versus placebo was 45 versus 22 cases per 10,000 women-years8 [see Use in Specific Populations (8.5), and Clinical Studies (14.3)].
 
-When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI, 1.19–2.60).
-Since both ancillary studies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8 [see Use in Specific Populations (8.5), and Clinical Studies (14.3)].
+When data from the two populations in the WHIMS estrogen-alone and estrogen plus progestin ancillary studies were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95% CI, 1.19–2.60).
+Since both substudies were conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women8 [see Use in Specific Populations (8.5), and Clinical Studies (14.3)].
 
 ## 5.5 Gallbladder Disease
 
@@ -152,7 +152,7 @@ These include an increased risk of breast cancer.
 In a small number of case reports, substantial increases in blood pressure have been attributed to idiosyncratic reactions to estrogens.
 In a large, randomized, placebo-controlled clinical trial, a generalized effect of estrogen therapy on blood pressure was not seen.
 
-## 5.10 Hypertriglyceridemia
+## 5.10 Exacerbation of Hypertriglyceridemia
 
 In women with pre-existing hypertriglyceridemia, estrogen therapy may be associated with elevations of plasma triglycerides leading to pancreatitis.
 Consider discontinuation of treatment if pancreatitis occurs.
@@ -162,7 +162,7 @@ Consider discontinuation of treatment if pancreatitis occurs.
 Estrogens may be poorly metabolized in women with impaired liver function.
 For women with a history of cholestatic jaundice associated with past estrogen use or with pregnancy, caution should be exercised, and in the case of recurrence, medication should be discontinued.
 
-## 5.12 Hypothyroidism
+## 5.12 Exacerbation of Hypothyroidism
 
 Estrogen administration leads to increased thyroid-binding globulin (TBG) levels.
 Women with normal thyroid function can compensate for the increased TBG by making more thyroid hormone, thus maintaining free T4 and T3 serum concentrations in the normal range.
@@ -172,7 +172,7 @@ These women should have their thyroid function monitored in order to maintain th
 ## 5.13 Fluid Retention
 
 Estrogens may cause some degree of fluid retention.
-Women with conditions that might be influenced by this factor, such as cardiac or renal dysfunction, warrant careful observation when estrogen-alone is prescribed.
+Women with conditions that might be influenced by this factor, such as a cardiac or renal dysfunction, warrant careful observation when estrogens are prescribed.
 
 ## 5.14 Hypocalcemia
 
@@ -202,8 +202,8 @@ Estrogen therapy may cause an exacerbation of asthma, diabetes mellitus, epileps
 
 ## 5.19 Effects on Barrier Contraception
 
-PREMARIN Vaginal Cream exposure has been reported to weaken latex condoms.
-The potential for PREMARIN Vaginal Cream to weaken and contribute to the failure of condoms, diaphragms, or cervical caps made of latex or rubber should be considered.
+PREMARIN vaginal cream exposure has been reported to weaken latex condoms.
+The potential for PREMARIN vaginal cream to weaken and contribute to the failure of condoms, diaphragms, or cervical caps made of latex or rubber should be considered.
 
 ## 5.20 Laboratory Tests
 
@@ -211,17 +211,13 @@ Serum follicle stimulating hormone (FSH) and estradiol levels have not been show
 
 ## 5.21 Drug-Laboratory Test Interactions
 
-Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of antifactor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
-
-Increased thyroid-binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
-T3 resin uptake is decreased, reflecting the elevated TBG.
-Free T4 and free T3 concentrations are unaltered.
-Women on thyroid replacement therapy may require higher doses of thyroid hormone.
-
-Other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased total circulating corticosteroids and sex steroids, respectively.
-Free hormone concentrations, such as testosterone and estradiol, may be decreased.
-Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
-
-Increased plasma high-density lipoprotein (HDL) and HDL2 cholesterol subfraction concentrations, reduced low-density lipoprotein (LDL) cholesterol concentrations, increased triglyceride levels.
-
-Impaired glucose tolerance.
+- •Accelerated prothrombin time, partial thromboplastin time, and platelet aggregation time; increased platelet count; increased factors II, VII antigen, VIII antigen, VIII coagulant activity, IX, X, XII, VII-X complex, II-VII-X complex, and beta-thromboglobulin; decreased levels of anti-factor Xa and antithrombin III, decreased antithrombin III activity; increased levels of fibrinogen and fibrinogen activity; increased plasminogen antigen and activity.
+- •Increased thyroid-binding globulin (TBG) leading to increased circulating total thyroid hormone, as measured by protein-bound iodine (PBI), T4 levels (by column or by radioimmunoassay) or T3 levels by radioimmunoassay.
+  T3 resin uptake is decreased, reflecting the elevated TBG.
+  Free T4 and free T3 concentrations are unaltered.
+  Women on thyroid replacement therapy may require higher doses of thyroid hormone.
+- •Other binding proteins may be elevated in serum, for example, corticosteroid binding globulin (CBG), sex hormone-binding globulin (SHBG), leading to increased total circulating corticosteroids and sex steroids, respectively.
+  Free hormone concentrations, such as testosterone and estradiol, may be decreased.
+  Other plasma proteins may be increased (angiotensinogen/renin substrate, alpha-1-antitrypsin, ceruloplasmin).
+- •Increased plasma high-density lipoprotein (HDL) and HDL2 cholesterol subfraction, reduced low-density lipoprotein (LDL) cholesterol, increased triglyceride levels.
+- •Impaired glucose tolerance.

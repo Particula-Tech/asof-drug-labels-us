@@ -2,28 +2,35 @@
 
 ## 8.1 Pregnancy
 
-PREMARIN Vaginal Cream should not be used during pregnancy [see Contraindications (4)].
-There appears to be little or no increased risk of birth defects in children born to women who have used estrogens and progestins as an oral contraceptive inadvertently during early pregnancy.
+Risk Summary
 
-## 8.3 Nursing Mothers
+PREMARIN vaginal cream is not indicated for use during pregnancy.
 
-PREMARIN Vaginal Cream should not be used during lactation.
-Estrogen administration to nursing women has been shown to decrease the quantity and quality of the breast milk.
-Detectable amounts of estrogens have been identified in the breast milk of women receiving estrogen therapy.
-Caution should be exercised when PREMARIN Vaginal Cream is administered to a nursing woman.
+There are no data with the use of PREMARIN vaginal cream in pregnant women; however, epidemiologic studies and meta-analyses have not found an increased risk of genital or nongenital birth defects (including cardiac anomalies and limb-reduction defects) following exposure to combined hormonal contraceptives (estrogen and progestins) before conception or during early pregnancy.
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Estrogens are present in human milk and can reduce milk production in breast-feeding women.
+This reduction can occur at any time but is less likely to occur once breast-feeding is well established.
+
+The developmental and health benefits of breast-feeding should be considered along with the mother’s clinical need for PREMARIN vaginal cream and any potential adverse effects on the breast-fed child from PREMARIN vaginal cream or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-PREMARIN Vaginal Cream is not indicated in children.
+PREMARIN vaginal cream is not indicated in children.
 Clinical studies have not been conducted in the pediatric population.
 
 ## 8.5 Geriatric Use
 
-There have not been sufficient numbers of geriatric women involved in clinical studies utilizing PREMARIN Vaginal Cream to determine whether those over 65 years of age differ from younger subjects in their response to PREMARIN Vaginal Cream.
+There have not been sufficient numbers of geriatric women involved in clinical studies utilizing PREMARIN vaginal cream to determine whether those over 65 years of age differ from younger subjects in their response to PREMARIN vaginal cream.
 
 The Women's Health Initiative Studies
 
-In the WHI estrogen-alone substudy (daily CE [0.625 mg]-alone versus placebo), there was a higher relative risk of stroke in women greater than 65 years of age [see Warnings and Precautions (5.2), and Clinical Studies (14.2)].
+In the WHI estrogen-alone substudy (daily CE (0.625 mg)-alone versus placebo), there was a higher relative risk of stroke in women greater than 65 years of age [see Warnings and Precautions (5.2), and Clinical Studies (14.2)].
 
 In the WHI estrogen plus progestin substudy (daily CE [0.625 mg] plus MPA [2.5 mg] versus placebo), there was a higher relative risk of nonfatal stroke and invasive breast cancer in women greater than 65 years of age [see Warnings and Precautions (5.2, 5.3), and Clinical Studies (14.2)].
 
@@ -35,8 +42,8 @@ Since both ancillary studies were conducted in women 65 to 79 years of age, it i
 
 ## 8.6 Renal Impairment
 
-The effect of renal impairment on the pharmacokinetics of PREMARIN Vaginal Cream has not been studied.
+The effect of renal impairment on the pharmacokinetics of PREMARIN vaginal cream has not been studied.
 
 ## 8.7 Hepatic Impairment
 
-The effect of hepatic impairment on the pharmacokinetics of PREMARIN Vaginal Cream has not been studied.
+The effect of hepatic impairment on the pharmacokinetics of PREMARIN vaginal cream has not been studied.
