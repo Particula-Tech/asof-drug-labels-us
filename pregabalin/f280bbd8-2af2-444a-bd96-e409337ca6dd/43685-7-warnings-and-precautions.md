@@ -19,6 +19,7 @@ Discontinue LYRICA CR immediately in patients with these symptoms.
 ## 5.3 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including pregabalin, the active ingredient in LYRICA CR, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Suicidal behavior and ideation have also been reported in patients after discontinuation of pregabalin [see Warnings and Precautions (5.4)].
 Monitor patients treated with any AED for any indication for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
@@ -53,7 +54,15 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Inform patients, their caregivers, and families that LYRICA CR can increase the risk of suicidal thoughts and behavior and advise them of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Report behaviors of concern immediately to healthcare providers.
 
-## 5.4 Respiratory Depression
+## 5.4 Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation
+
+Following abrupt or rapid discontinuation of LYRICA CR, some patients reported symptoms including, insomnia, nausea, headache, anxiety, and diarrhea [see Adverse Reactions (6.2), Drug Abuse and Dependence (9.3)].
+Suicidal behavior and ideation have also been reported in patients after discontinuation of pregabalin [see Warnings and Precautions (5.3)].
+Increased seizure frequency may occur in patients with seizure disorders taking LYRICA CR for pain if LYRICA CR is rapidly discontinued.
+Taper LYRICA CR gradually over a minimum of 1 week rather than discontinuing the drug abruptly.
+The efficacy of LYRICA CR as adjunctive therapy for adult patients with partial onset seizures has not been established.
+
+## 5.5 Respiratory Depression
 
 There is evidence from case reports, human studies, and animal studies associating pregabalin with serious, life-threatening, or fatal respiratory depression when co-administered with central nervous system (CNS) depressants, including opioids, or in the setting of underlying respiratory impairment.
 When the decision is made to co-prescribe LYRICA CR with another CNS depressant, particularly an opioid, or to prescribe LYRICA CR to patients with underlying respiratory impairment, monitor patients for symptoms of respiratory depression and sedation, and consider initiating LYRICA CR at a low dose.
@@ -61,23 +70,16 @@ The management of respiratory depression may include close observation, supporti
 
 There is more limited evidence from case reports, animal studies, and human studies associating pregabalin with serious respiratory depression, without co-administered CNS depressants or without underlying respiratory impairment.
 
-## 5.5 Dizziness and Somnolence
+## 5.6 Dizziness and Somnolence
 
 LYRICA CR may cause dizziness and somnolence.
 Inform patients that LYRICA CR-related dizziness and somnolence may impair their ability to perform tasks such as driving or operating machinery.
 Concomitant use of LYRICA CR with other central nervous system (CNS) depressants may exacerbate these effects [see Drug Interactions (7)].
 
-In the LYRICA CR controlled trials for pain indications, dizziness was experienced by 24% of LYRICA CR-treated patients during the single-blind phase; somnolence was experienced by 15.8% of LYRICA CR-treated patients.
+In the LYRICA CR controlled trials for pain indications, dizziness was experienced by 24% of LYRICA CR‑treated patients during the single‑blind phase; somnolence was experienced by 15.8% of LYRICA CR-treated patients.
 Dizziness and somnolence generally began shortly after the initiation of LYRICA CR therapy and occurred more frequently at higher doses.
-Dizziness and somnolence were the adverse reactions most frequently leading to withdrawal (2.4%, 1.2% each) during the single-blind phase of the controlled studies.
-In LYRICA-treated patients reporting these adverse reactions in short-term, controlled studies, dizziness persisted until the last dose in 30% and somnolence persisted until the last dose in 42% of patients.
-
-## 5.6 Risks Associated with Abrupt or Rapid Discontinuation
-
-Following abrupt or rapid discontinuation of LYRICA CR, some patients reported symptoms including, insomnia, nausea, headache, anxiety, and diarrhea.
-Increased seizure frequency may occur in patients with seizure disorders taking LYRICA CR for pain if LYRICA CR is rapidly discontinued.
-Taper LYRICA CR gradually over a minimum of 1 week rather than discontinuing the drug abruptly.
-The efficacy of LYRICA CR as adjunctive therapy for adult patients with partial onset seizures has not been established.
+Dizziness and somnolence were the adverse reactions most frequently leading to withdrawal (2.4%, 1.2% each) during the single‑blind phase of the controlled studies.
+In LYRICA-treated patients reporting these adverse reactions in short‑term, controlled studies, dizziness persisted until the last dose in 30% and somnolence persisted until the last dose in 42% of patients.
 
 ## 5.7 Peripheral Edema
 
@@ -142,9 +144,9 @@ Consider more frequent assessment for patients who are already routinely monitor
 ## 5.11 Creatine Kinase Elevations
 
 LYRICA treatment was associated with creatine kinase elevations.
-Mean changes in creatine kinase from baseline to the maximum value were 60 U/L for LYRICA-treated patients and 28 U/L for the placebo patients.
+Mean changes in creatine kinase from baseline to the maximum value were 60 U/L for LYRICA‑treated patients and 28 U/L for the placebo patients.
 In all controlled trials across multiple patient populations, 1.5% of patients on LYRICA and 0.7% of placebo patients had a value of creatine kinase at least 3 times the upper limit of normal.
-Three LYRICA-treated subjects had events reported as rhabdomyolysis in premarketing clinical trials.
+Three LYRICA‑treated subjects had events reported as rhabdomyolysis in premarketing clinical trials.
 The relationship between these myopathy events and LYRICA is not completely understood because the cases had documented factors that may have caused or contributed to these events.
 Instruct patients to promptly report unexplained muscle pain, tenderness, or weakness, particularly if these muscle symptoms are accompanied by malaise or fever.
 Discontinue treatment with LYRICA CR if myopathy is diagnosed or suspected or if markedly elevated creatine kinase levels occur.
@@ -152,17 +154,17 @@ Discontinue treatment with LYRICA CR if myopathy is diagnosed or suspected or if
 ## 5.12 Decreased Platelet Count
 
 Both LYRICA CR and LYRICA treatment were associated with a decrease in platelet count.
-In the double-blind phase of controlled studies for pain indication, LYRICA CR-treated patients experienced a median change from baseline in platelet count of 11 × 103/mm3 (for the PHN population) and 14 × 103/mm3 (for the FM population) as compared to 1 × 103/mm3 in placebo-treated patients (for both populations).
-LYRICA-treated patients experienced a mean maximal decrease in platelet count of 20 × 103/µL, compared to 11 × 103/µL in placebo patients.
+In the double‑blind phase of controlled studies for pain indication, LYRICA CR‑treated patients experienced a median change from baseline in platelet count of 11 × 103/mm3 (for the PHN population) and 14 × 103/mm3 (for the FM population) as compared to 1 × 103/mm3 in placebo‑treated patients (for both populations).
+LYRICA‑treated patients experienced a mean maximal decrease in platelet count of 20 × 103/µL, compared to 11 × 103/µL in placebo patients.
 In the overall database of controlled trials, 2% of placebo patients and 3% of LYRICA patients experienced a potentially clinically significant decrease in platelets, defined as 20% below baseline value and less than 150 × 103/µL.
-A single LYRICA-treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/µL.
-In randomized controlled trials, LYRICA or LYRICA CR were not associated with an increase in bleeding-related adverse reactions.
+A single LYRICA‑treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/µL.
+In randomized controlled trials, LYRICA or LYRICA CR were not associated with an increase in bleeding‑related adverse reactions.
 
 ## 5.13 PR Interval Prolongation
 
 LYRICA treatment was associated with PR interval prolongation.
 In analyses of clinical trial ECG data, the mean PR interval increase was 3-6 msec at pregabalin doses greater than or equal to 300 mg/day.
-This mean change difference was not associated with an increased risk of PR increase greater than or equal to 25% from baseline, an increased percentage of subjects with on-treatment PR greater than 200 msec, or an increased risk of adverse reactions of second or third degree AV block.
+This mean change difference was not associated with an increased risk of PR increase greater than or equal to 25% from baseline, an increased percentage of subjects with on‑treatment PR greater than 200 msec, or an increased risk of adverse reactions of second or third degree AV block.
 
 Subgroup analyses did not identify an increased risk of PR prolongation in patients with baseline PR prolongation or in patients taking other PR prolonging medications.
 However, these analyses cannot be considered definitive because of the limited number of patients in these categories.

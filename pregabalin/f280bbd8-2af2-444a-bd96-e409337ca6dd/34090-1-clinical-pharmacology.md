@@ -2,10 +2,10 @@
 
 ## 12.1 Mechanism of Action
 
-Pregabalin binds with high affinity to the alpha2-delta site (an auxiliary subunit of voltage-gated calcium channels) in central nervous system tissues.
-Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha2-delta subunit may be involved in pregabalin’s anti-nociceptive and antiseizure effects in animals.
-In animal models of nerve damage, pregabalin has been shown to reduce calcium-dependent release of pro-nociceptive neurotransmitters in the spinal cord, possibly by disrupting alpha2-delta-containing calcium channel trafficking and/or reducing calcium currents.
-Evidence from other animal models of nerve damage and persistent pain suggest the anti-nociceptive activities of pregabalin may also be mediated through interactions with descending noradrenergic and serotonergic pathways originating from the brainstem that modulate pain transmission in the spinal cord.
+Pregabalin binds with high affinity to the alpha2‑delta site (an auxiliary subunit of voltage‑gated calcium channels) in central nervous system tissues.
+Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha2‑delta subunit may be involved in pregabalin’s anti‑nociceptive and antiseizure effects in animals.
+In animal models of nerve damage, pregabalin has been shown to reduce calcium‑dependent release of pro‑nociceptive neurotransmitters in the spinal cord, possibly by disrupting alpha2‑delta-containing calcium channel trafficking and/or reducing calcium currents.
+Evidence from other animal models of nerve damage and persistent pain suggest the anti‑nociceptive activities of pregabalin may also be mediated through interactions with descending noradrenergic and serotonergic pathways originating from the brainstem that modulate pain transmission in the spinal cord.
 
 While pregabalin is a structural derivative of the inhibitory neurotransmitter gamma-aminobutyric acid (GABA), it does not bind directly to GABAA, GABAB, or benzodiazepine receptors, does not augment GABAA responses in cultured neurons, does not alter rat brain GABA concentration or have acute effects on GABA uptake or degradation.
 However, in cultured neurons prolonged application of pregabalin increases the density of GABA transporter protein and increases the rate of functional GABA transport.
@@ -14,8 +14,8 @@ It is inactive at serotonin and dopamine receptors and does not inhibit dopamine
 
 ## 12.3 Pharmacokinetics
 
-LYRICA CR has linear pharmacokinetics with dose-proportional increases in maximum plasma concentration (Cmax) and area under the plasma concentration-time curve (AUC) from 82.5-660 mg/day.
-Following repeated administration, steady state is achieved within approximately 48-72 hours.
+LYRICA CR has linear pharmacokinetics with dose‑proportional increases in maximum plasma concentration (Cmax) and area under the plasma concentration‑time curve (AUC) from 82.5‑660 mg/day.
+Following repeated administration, steady state is achieved within approximately 48‑72 hours.
 
 LYRICA CR administered once daily following an evening meal has equivalent AUC and lower Cmax relative to a comparative dose of LYRICA administered without food twice daily (Table 5).
 Variability in Cmax and AUC for LYRICA CR is less than or equal to 25%.
@@ -27,7 +27,7 @@ Steady-State Pharmacokinetics for LYRICA CR 165 mg Once Daily and LYRICA 75 mg T
 | --- | --- | --- |
 | N | 24 | 24 |
 | Cmax (µg/mL) | 2.0 (17) | 3.2 (21) |
-| Tmax (h) | 8.0 (5.0-12.0) | 0.7 (0.7-1.5) |
+| Tmax (h) | 8.0 (5.0 - 12.0) | 0.7 (0.7 - 1.5) |
 | AUC24 (µg•h/mL) | 29.4 (17) | 31.5 (18) |
 | Cmin (µg/mL) | 0.44 (24) | 0.59 (25) |
 | Note: Geometric mean (%CV) for AUC24, Cmax, Cmin; median (range) for Tmax. |  |  |
@@ -126,25 +126,25 @@ No clinically important effects on respiration were seen [see Drug Interactions 
 
 #### Gabapentin
 
-The pharmacokinetic interactions of pregabalin and gabapentin were investigated in 12 healthy subjects following concomitant single-dose administration of 100-mg pregabalin and 300-mg gabapentin and in 18 healthy subjects following concomitant multiple-dose administration of 200-mg pregabalin every 8 hours and 400-mg gabapentin every 8 hours.
-Gabapentin pharmacokinetics following single- and multiple-dose administration were unaltered by pregabalin co-administration.
+The pharmacokinetic interactions of pregabalin and gabapentin were investigated in 12 healthy subjects following concomitant single‑dose administration of 100‑mg pregabalin and 300‑mg gabapentin and in 18 healthy subjects following concomitant multiple‑dose administration of 200‑mg pregabalin every 8 hours and 400‑mg gabapentin every 8 hours.
+Gabapentin pharmacokinetics following single‑ and multiple‑dose administration were unaltered by pregabalin co-administration.
 The extent of pregabalin absorption was unaffected by gabapentin co-administration, although there was a small reduction in rate of absorption.
 
 #### Lorazepam
 
-Multiple-dose administration of pregabalin (300 mg twice a day) in healthy subjects had no effect on the rate and extent of lorazepam single-dose pharmacokinetics and single-dose administration of lorazepam (1 mg) had no effect on the steady-state pharmacokinetics of pregabalin.
-Additive effects on cognitive and gross motor functioning were seen when LYRICA was co-administered with lorazepam.
+Multiple-dose administration of pregabalin (300 mg twice a day) in healthy subjects had no effect on the rate and extent of lorazepam single‑dose pharmacokinetics and single‑dose administration of lorazepam (1 mg) had no effect on the steady‑state pharmacokinetics of pregabalin.
+Additive effects on cognitive and gross motor functioning were seen when LYRICA was co‑administered with lorazepam.
 No clinically important effects on respiration were seen [see Drug Interactions (7)].
 
 #### Oral Contraceptive
 
-Pregabalin co-administration (200 mg 3 times a day) had no effect on the steady-state pharmacokinetics of norethindrone and ethinyl estradiol (1 mg/35 μg, respectively) in healthy subjects.
+Pregabalin co-administration (200 mg 3 times a day) had no effect on the steady‑state pharmacokinetics of norethindrone and ethinyl estradiol (1 mg/35 μg, respectively) in healthy subjects.
 
 #### Oxycodone
 
-Multiple-dose administration of pregabalin (300 mg twice a day) in healthy subjects had no effect on the rate and extent of oxycodone single-dose pharmacokinetics.
-Single-dose administration of oxycodone (10 mg) had no effect on the steady-state pharmacokinetics of pregabalin.
-Additive effects on cognitive and gross motor functioning were seen when LYRICA was co-administered with oxycodone.
+Multiple-dose administration of pregabalin (300 mg twice a day) in healthy subjects had no effect on the rate and extent of oxycodone single‑dose pharmacokinetics.
+Single‑dose administration of oxycodone (10 mg) had no effect on the steady‑state pharmacokinetics of pregabalin.
+Additive effects on cognitive and gross motor functioning were seen when LYRICA was co‑administered with oxycodone.
 No clinically important effects on respiration were seen [see Drug Interactions (7)].
 
 #### Carbamazepine, Lamotrigine, Phenobarbital, Phenytoin, Topiramate and Valproic Acid
