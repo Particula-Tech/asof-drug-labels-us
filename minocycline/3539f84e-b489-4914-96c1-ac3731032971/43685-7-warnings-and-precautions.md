@@ -25,7 +25,9 @@ The safety of minocycline hydrochloride tablets for use during pregnancy has not
 ## Dermatologic Reaction
 
 Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) including fatal cases have been reported with minocycline use.
-If this syndrome is recognized, the drug should be discontinued immediately.
+Fixed drug eruptions have occurred with minocycline and other tetracyclines.
+Worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption, has been observed with other tetracyclines (see ADVERSE REACTIONS).
+If severe skin reactions occur, discontinue minocycline hydrochloride tablets immediately and institute appropriate therapy.
 
 ## Antianabolic Action
 
@@ -41,7 +43,7 @@ This has been reported with minocycline.
 
 ## Central Nervous System
 
-Central nervous system side effects including light-headedness, dizziness, or vertigo have been reported with minocycline therapy.
+Central nervous system side effects including lightheadedness, dizziness, or vertigo have been reported with minocycline therapy.
 Patients who experience these symptoms should be cautioned about driving vehicles or using hazardous machinery while on minocycline therapy.
 These symptoms may disappear during therapy and usually disappear rapidly when the drug is discontinued.
 
@@ -51,7 +53,7 @@ Clostridium difficile-associated diarrhea (CDAD) has been reported with use of n
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
-Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
+Hypertoxin- producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibiotic use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
@@ -94,7 +96,7 @@ This reaction has been reported with use of minocycline.
 
 Patients who experience central nervous system symptoms should be cautioned about driving vehicles or using hazardous machinery while on minocycline therapy (see WARNINGS).
 
-Concurrent use of tetracycline with oral contraceptives may render oral contraceptives less effective (see PRECAUTIONS - Drug Interactions).
+Concurrent use of tetracycline with oral contraceptives may render oral contraceptives less effective (see PRECAUTIONS -Drug Interactions).
 
 Patients should be counseled that antibacterial drugs including minocycline hydrochloride tablets should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
@@ -116,7 +118,6 @@ Because tetracyclines have been shown to depress plasma prothrombin activity, pa
 Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracycline-class drugs in conjunction with penicillin.
 
 Absorption of tetracyclines is impaired by antacids containing aluminum, calcium, or magnesium, and iron-containing preparations.
-The concurrent use of tetracycline and methoxyflurane has been reported to result in fatal renal toxicity.
 
 Concurrent use of tetracyclines with oral contraceptives may render oral contraceptives less effective.
 

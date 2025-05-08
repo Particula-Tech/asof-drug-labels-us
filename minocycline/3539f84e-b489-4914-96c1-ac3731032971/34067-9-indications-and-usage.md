@@ -49,7 +49,7 @@ In acute intestinal amebiasis, minocycline may be a useful adjunct to amebicides
 
 In severe acne, minocycline may be useful adjunctive therapy.
 
-Oral minocycline is indicated in the treatment of asymptomatic carriers of Neisseria meningitidis to eliminate meningococci from the nasopharynx.
+Oral minocycline is indicated in the treatment of asymptomatic carriers of Neisseriameningitidis to eliminate meningococci from the nasopharynx.
 In order to preserve the usefulness of minocycline in the treatment of asymptomatic meningococcal carriers, diagnostic laboratory procedures, including serotyping and susceptibility testing, should be performed to establish the carrier state and the correct treatment.
 It is recommended that the prophylactic use of minocycline be reserved for situations in which the risk of meningococcal meningitis is high.
 

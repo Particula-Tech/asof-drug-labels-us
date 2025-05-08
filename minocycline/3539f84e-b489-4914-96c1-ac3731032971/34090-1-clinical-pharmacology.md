@@ -24,7 +24,7 @@ Minocycline has been shown to be active against most strains of the following mi
 
 Gram-positive Bacteria Bacillus anthracis Listeria monocytogenes Staphylococcus aureus Streptococcus pneumoniae
 
-Gram-negative Bacteria Acinetobacter species Bartonella bacilliformis Brucella species Campylobacter fetus Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Klebsiella aerogenes Klebsiella granulomatis Klebsiella species Neisseria gonorrhoeae Neisseria meningitidis Shigella species Yersinia pestis Vibrio cholerae Other Microorganisms Actinomyces species Borrelia recurrentis Chlamydophila psittaci Chlamydia trachomatis Clostridium species Entamoeba species Fusobacterium nucleatum subspecies fusiforme Mycobacterium marinum Mycoplasma pneumoniae Propionibacterium acnes Rickettsiae Treponema pallidum subspecies pallidum Treponema pallidum subspecies pertenue Ureaplasma urealyticum
+Gram-negative Bacteria Acinetobacter species Bartonella bacilliformis Brucella species Campylobacter fetus Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Klebsiella aerogenes Klebsiella granulomatis Klebsiella species﻿ Neisseria gonorrhoeae Neisseria meningitidis Shigella species Yersinia pestis Vibrio cholerae Other Microorganisms Actinomyces species Borrelia recurrentis Chlamydophila psittaci Chlamydia trachomatis Clostridium species Entamoeba species Fusobacterium nucleatum subspecies fusiforme Mycobacterium marinum Mycoplasma pneumoniae Propionibacterium acnes Rickettsiae Treponema pallidum subspecies pallidum Treponema pallidum subspecies pertenue Ureaplasma urealyticum
 
 Susceptibility Testing
 

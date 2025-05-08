@@ -35,4 +35,4 @@ Ingestion of adequate amounts of fluids along with capsule and tablet forms of d
 The pharmacokinetics of minocycline in patients with renal impairment (CL CR <80 mL/min) have not been fully characterized.
 Current data are insufficient to determine if a dosage adjustment is warranted.
 The total daily dosage should not exceed 200 mg in 24 hours.
-However, due to the anti-anabolic effect of tetracyclines, BUN and creatinine should be monitored (see WARNINGS-Antianabolic Action).
+However, due to the antianabolic effect of tetracyclines, BUN and creatinine should be monitored (see WARNINGS-Antianabolic Action).
