@@ -43,4 +43,4 @@ Instructions for a Missing Dose Instruct patients that if they miss a single dos
 However, if a patient is within 6 hours of taking the next scheduled dose, tell the patient to wait until then to take the usual dose of topiramate, and to skip the missed dose.
 Tell patients that they should not take a double dose in the event of a missed dose.
 Advise patients to contact their healthcare provider if they have missed more than one dose.
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 06/2023 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
+Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 04/2025 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides

@@ -87,6 +87,13 @@ Clearance was independent of dose.
 
 As in adults, hepatic enzyme-inducing antiepileptic drugs decrease the steady state plasma concentrations of topiramate.
 
+Pediatric Patients with Obesity
+
+A population PK analysis of topiramate was conducted in 129 children <21 years of age with and without obesity to evaluate the potential impact of obesity on plasma topiramate exposures.
+Obesity was defined as BMI ≥ 95th percentile for age and sex based on CDC-recommended BMI-for-age growth charts for males and females.
+Using the currently recommended dosing regimens, children with obesity are likely to have median values of average concentration at steady-state and trough concentration at steady-state up to 20% lower and 19% lower, respectively, compared to children without obesity.
+Dosage adjustment according to obesity status is not necessary.
+
 Drug Interactions
 
 In vitro studies indicate that topiramate does not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, or CYP3A4/5 isozymes.
@@ -111,7 +118,7 @@ Table 11: Summary of AED Interactions with Topiramate
 | Phenobarbital | NC | NE |
 | Primidone | NC | NE |
 | Lamotrigine | NC at TPM doses up to 400 mg/day | 13% decrease |
-| a = Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin. b = Is not administered but is an active metabolite of carbamazepine. NC = Less than 10% change in plasma concentration. AED = Antiepileptic drug. NE = Not Evaluated. TPM = Topiramate |  |  |
+| a Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin. b Is not administered but is an active metabolite of carbamazepine. NC = Less than 10% change in plasma concentration. AED = Antiepileptic drug. NE = Not Evaluated. TPM = Topiramate |  |  |
 
 Oral Contraceptives
 
@@ -192,7 +199,7 @@ Similarly, a 1 mg subcutaneous dose of dihydroergotamine did not affect the phar
 
 Diltiazem
 
-Co-administration of diltiazem (240 mg Cardizem CD®) with topiramate (150 mg/day) resulted in a 10% decrease in Cmax and a 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
+Co-administration of diltiazem (240 mg Cardizem CD) with topiramate (150 mg/day) resulted in a 10% decrease in Cmax and a 25% decrease in diltiazem AUC, a 27% decrease in Cmax and an 18% decrease in des-acetyl diltiazem AUC, and no effect on N-desmethyl diltiazem.
 Co-administration of topiramate with diltiazem resulted in a 16% increase in Cmax and a 19% increase in AUC12 of topiramate.
 
 Venlafaxine

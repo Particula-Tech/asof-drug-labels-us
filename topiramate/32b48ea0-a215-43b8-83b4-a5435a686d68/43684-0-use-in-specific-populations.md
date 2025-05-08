@@ -35,7 +35,7 @@ The UK Epilepsy and Pregnancy Register reported a prevalence of oral clefts amon
 
 Data from the NAAED pregnancy registry and a population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10th percentile).
 In the NAAED pregnancy registry, 19.7% of topiramate-exposed newborns were SGA compared to 7.9% of newborns exposed to a reference AED and 5.4% of newborns of mothers without epilepsy and without AED exposure.
-In the Medical Birth Registry of Norway (MBRN), a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9 % in the comparison group unexposed to AEDs.
+In the Medical Birth Registry of Norway (MBRN), a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9% in the comparison group unexposed to AEDs.
 The long-term consequences of the SGA findings are not known.
 Animal Data When topiramate (0, 20, 100, or 500 mg/kg/day) was administered to pregnant mice during the period of organogenesis, incidences of fetal malformations (primarily craniofacial defects) were increased at all doses.
 Fetal body weights and skeletal ossification were reduced at the highest dose tested in conjunction with decreased maternal body weight gain.
@@ -120,7 +120,7 @@ Therefore, the Least Square Mean treatment differences shown reflect a topiramat
 Statistically significant effects were observed for decreases in BMD (and bone mineral content) in lumbar spine and total body less head and in weight.
 Subgroup analyses according to age demonstrated similar negative effects for all key safety outcomes (i.e., BMD, height, weight).
 
-Table 10 Summary of Topiramate Treatment Difference Results at 12 Months for Key Safety Outcomes
+Table 10: Summary of Topiramate Treatment Difference Results at 12 Months for Key Safety Outcomes
 
 | Safety Parameter | Treatment Difference in Least Square Means (95 % Confidence Interval) |
 | --- | --- |
