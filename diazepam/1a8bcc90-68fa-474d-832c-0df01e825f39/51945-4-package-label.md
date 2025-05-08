@@ -33,11 +33,9 @@ FOR NASAL USE ONLY.
 
 5 mg = 1 NASAL SPRAY DEVICE DEVICE SPRAYS ONE TIME ONLY
 
-5 DOSES
-
 Do NOT open blister packs or test nasal sprays before use.
 
-This carton contains 5 blister packs.
+Contains 5 blister packs (5 doses).
 Each blister pack contains 1 nasal spray device.
 1 device contains 1 dose (5 mg).
 
@@ -81,11 +79,9 @@ FOR NASAL USE ONLY.
 
 15 mg = 2 NASAL SPRAY DEVICES DEVICES SPRAY ONE TIME ONLY
 
-5 DOSES
-
 Do NOT open blister packs or test nasal sprays before use.
 
-This carton contains 5 blister packs.
+Contains 5 blister packs (5 doses).
 Each blister pack contains 2 nasal spray devices.
 2 devices contain 1 dose (15 mg).
 
@@ -129,11 +125,9 @@ FOR NASAL USE ONLY.
 
 10 mg = 1 NASAL SPRAY DEVICE DEVICE SPRAYS ONE TIME ONLY
 
-5 DOSES
-
 Do NOT open blister packs or test nasal sprays before use.
 
-This carton contains 5 blister packs.
+Contains 5 blister packs (5 doses).
 Each blister pack contains 1 nasal spray device.
 1 device contains 1 dose (10 mg).
 
@@ -177,11 +171,9 @@ FOR NASAL USE ONLY.
 
 20 mg = 2 NASAL SPRAY DEVICES DEVICES SPRAY ONE TIME ONLY
 
-5 DOSES
-
 Do NOT open blister packs or test nasal sprays before use.
 
-This carton contains 5 blister packs.
+Contains 5 blister packs (5 doses).
 Each blister pack contains 2 nasal spray devices.
 2 devices contain 1 dose (20 mg).
 

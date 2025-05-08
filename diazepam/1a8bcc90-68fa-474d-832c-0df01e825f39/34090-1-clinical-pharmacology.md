@@ -10,9 +10,9 @@ The effects of diazepam on the CNS are dependent on the dose administered, the r
 
 ## 12.3 Pharmacokinetics
 
-Absorption
+Pharmacokinetic information for VALTOCO following nasal administration was obtained from studies conducted in healthy adult subjects, as well as adult and pediatric patients with epilepsy 2 years of age and older.
 
-Pharmacokinetic information for VALTOCO following nasal administration was obtained from studies conducted in healthy adult subjects, as well as adult and pediatric patients with epilepsy 6 years of age and older.
+Absorption
 
 In a pharmacokinetic study in healthy adult subjects, the highest plasma diazepam concentrations after nasal administration of VALTOCO was reached in 1.5 hours.
 The estimated volume of distribution of diazepam at steady-state is 0.8 to 1.0 L/kg.
@@ -32,7 +32,7 @@ Both diazepam and its major active metabolite desmethyldiazepam bind extensively
 Metabolism and Elimination
 
 In vitro studies using human liver preparations suggest that CYP2C19 and CYP3A4 are the principal isozymes involved in the initial oxidative metabolism of diazepam.
-It has been reported in the literature that diazepam is extensively metabolized to one major active metabolite, desmethyldiazepam, and two minor active metabolites, 3­ hydroxydiazepam (temazepam) and 3-hydroxy-N-diazepam (oxazepam), in plasma.
+It has been reported in the literature that diazepam is extensively metabolized to one major active metabolite, desmethyldiazepam, and two minor active metabolites, 3- hydroxydiazepam (temazepam) and 3-hydroxy-N-diazepam (oxazepam), in plasma.
 At therapeutic doses, desmethyldiazepam is found in plasma at concentrations equivalent to those of diazepam while oxazepam and temazepam are not usually detectable.
 The metabolism of diazepam is primarily hepatic and involves demethylation (involving primarily CYP2C19 and CYP3A4) and 3-hydroxylation (involving primarily CYP3A4), followed by glucuronidation.
 The marked inter-individual variability in the clearance of diazepam reported in the literature is probably attributable to variability of CYP2C19 (which is known to exhibit genetic polymorphism; about 3-5% of Caucasians have little or no activity and are "poor metabolizers") and CYP3A4.
@@ -47,6 +47,8 @@ A study of single dose IV administration of diazepam (0.1 mg/kg) indicates that 
 Pediatric Patients
 
 Literature review indicates that following IV administration (0.33 mg/kg), diazepam has a half-life in pediatric patients 6 to 12 years of age of approximately 15-21 hours.
+Based on simulation studies, in pediatric patients 2 to 5 years of age, median maximum plasma concentration (Cmax) and median area under the plasma concentration curve (AUC0-t) of diazepam following a single administration of VALTOCO are approximately 2-times greater than in adults.
+In pediatric patients 6 to 11 years of age, median Cmax and median AUC0-t of diazepam following a single administration of VALTOCO are approximately 1.4-times greater than in adults.
 
 Patients with Renal Impairment
 

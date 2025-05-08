@@ -34,7 +34,7 @@ Adverse reactions associated with discontinuation occurring in one patient were 
 In the two double-blind, placebo-controlled, parallel-group studies [see Clinical Studies (14)], the proportion of patients who discontinued treatment because of adverse events was 2% for the group treated with diazepam rectal gel, versus 2% for the placebo group.
 In the diazepam rectal gel group, one patient discontinued because of rash and one patient discontinued because of lethargy.
 
-Table 3: Adverse Reactions That Occurred in Greater Than 1% Of Patients in Parallel-Group, Placebo-Controlled Trials with Diazepam Rectal Gel and More Common Than Placebo
+Table 4: Adverse Reactions That Occurred in Greater Than 1% Of Patients in Parallel-Group, Placebo-Controlled Trials with Diazepam Rectal Gel and More Common Than Placebo
 
 | Adverse Reaction | Diazepam Rectal Gel N=101 % | Placebo N=104 % |
 | --- | --- | --- |
@@ -51,11 +51,11 @@ Table 3: Adverse Reactions That Occurred in Greater Than 1% Of Patients in Paral
 
 VALTOCO (Diazepam Nasal Spray)
 
-Clinical studies of patients with epilepsy 6 years of age and older were conducted to support the safety and tolerability of VALTOCO for the treatment of acute repetitive seizures.
-A total of 220 patients 6 years of age and older received VALTOCO, of whom 134 received VALTOCO for at least 1 year.
+Clinical studies of patients with epilepsy 2 years of age and older were conducted to support the safety and tolerability of VALTOCO for the treatment of acute repetitive seizures.
+A total of 255 patients 2 years of age and older received VALTOCO, of whom 143 received VALTOCO for at least 1 year.
 Other than adverse reactions related to local nasal administration, the adverse reactions reported in these studies were similar to those seen in the efficacy trials of diazepam rectal gel.
 
-The most common local adverse reactions that occurred in VALTOCO-treated patients were nasal discomfort (6%), dysgeusia (3%), and epistaxis (2%).
+The most common local adverse reactions that occurred in at least 1% of VALTOCO-treated patients were nasal discomfort (5%), dysgeusia (2%), epistaxis (2%), and rhinorrhea (1%).
 
 Other Adverse Reactions
 

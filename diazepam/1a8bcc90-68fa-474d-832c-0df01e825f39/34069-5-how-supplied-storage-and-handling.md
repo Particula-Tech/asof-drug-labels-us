@@ -3,9 +3,9 @@
 ## 16.1 How Supplied
 
 VALTOCO is available in 5 mg, 7.5 mg, and 10 mg strengths.
-VALTOCO is supplied and packaged in doses of 5 mg, 10 mg, 15 mg, or 20 mg (see Table 4).
+VALTOCO is supplied and packaged in doses of 5 mg, 10 mg, 15 mg, or 20 mg (see Table 5).
 
-Table 4: Available Packaging Configurations
+Table 5: Available Packaging Configurations
 
 | Description | Contents | NDC |
 | --- | --- | --- |

@@ -62,10 +62,10 @@ Infants exposed to VALTOCO through breast milk should be monitored for sedation,
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of VALTOCO have been established in pediatric patients 6 years to 16 years of age.
-Use of VALTOCO in this age group is supported by evidence from adequate and well-controlled studies of diazepam rectal gel in adult and pediatric patients, adult bioavailability studies comparing VALTOCO with diazepam rectal gel, patient pharmacokinetic data, and an open-label safety study of VALTOCO including patients 6 years to 16 years of age [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
+Safety and effectiveness of VALTOCO have been established in pediatric patients 2 years to 16 years of age.
+Use of VALTOCO in this age group is supported by evidence from adequate and well-controlled studies of diazepam rectal gel in adult and pediatric patients, adult bioavailability studies comparing VALTOCO with diazepam rectal gel, patient pharmacokinetic data, and open-label safety studies of VALTOCO including patients 2 years to 16 years of age [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14)].
 
-Safety and effectiveness of VALTOCO in pediatric patients below the age of 6 have not been established.
+Safety and effectiveness of VALTOCO in pediatric patients below the age of 2 years have not been established.
 
 VALTOCO is not approved for use in neonates or infants.
 
@@ -74,7 +74,7 @@ VALTOCO is not approved for use in neonates or infants.
   In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
   Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
   Preterm, low-birth-weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
-  The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (VALTOCO contains 10.5 mg of benzyl alcohol per 0.1 mL) [see Warnings and Precautions (5.8)].
+  The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known (VALTOCO contains 10.5 mg of benzyl alcohol per 0.1 mL) [see Warnings and Precautions (5.8)]
 
 ## 8.5 Geriatric Use
 

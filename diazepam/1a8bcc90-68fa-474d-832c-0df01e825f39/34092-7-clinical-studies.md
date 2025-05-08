@@ -34,7 +34,7 @@ Patients treated with diazepam rectal gel experienced prolonged time-to-next-sei
 Figure 3: Kaplan-Meier Survival Analysis of Time-to-Next-Seizure - Second Study
 
 In addition, 55% of patients treated with diazepam rectal gel were seizure-free during the observation period compared to 34% of patients receiving placebo.
-Overall, caregivers judged diazepam rectal gel to be more effective than placebo (p = 0.018), based on a 10 centimeter visual analog scale.
+Overall, caregivers judged diazepam rectal gel to be more effective than placebo (p = 0.018), based on a 10-centimeter visual analog scale.
 In addition, investigators also evaluated the effectiveness of diazepam rectal gel and judged diazepam rectal gel to be more effective than placebo (p < 0.001).
 
 An analysis of response by gender revealed a statistically significant difference between treatments in females but not in males in this study, and the difference between the 2 genders in response to the treatments reached borderline statistical significance.

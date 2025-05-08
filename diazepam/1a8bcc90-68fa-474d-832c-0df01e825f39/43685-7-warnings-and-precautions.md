@@ -36,7 +36,7 @@ In some cases, benzodiazepine users have developed a protracted withdrawal syndr
 
 ## 5.4 CNS Depression
 
-Benzodiazepines, including VALTOCO, may produce CNS depression.
+Benzodiazepines, including VALTOCO, produce CNS depression.
 Caution patients against engaging in hazardous activities requiring mental alertness (e.g., operating machinery, driving a motor vehicle, or riding a bicycle) until the effects of the drug, such as drowsiness, have subsided, and as their medical condition permits.
 Although VALTOCO is indicated for use solely on an intermittent basis, the potential for synergistic CNS-depressant effects when used simultaneously with alcohol or other CNS depressants must be considered by the prescriber and appropriate recommendations made to the patient and/or caregiver.
 
@@ -54,9 +54,9 @@ Because most trials included in the analysis did not extend beyond 24 weeks, the
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
 The finding of increased risk with AEDs of varying mechanisms of action and across a range of indications suggests that the risk applies to all AEDs used for any indication.
 The risk did not vary substantially by age (5-100 years) in the clinical trials analyzed.
-Table 2 shows absolute and relative risk by indication for all evaluated AEDs.
+Table 3 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 2: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 3: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
 | Indication | Placebo Patients with Events/1000 Patients | Drug Patients with Events per 1000 Patients | Relative Risk: Incidence of Drug Events in Drug Patients /Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events per 1000 Patients |
 | --- | --- | --- | --- | --- |
