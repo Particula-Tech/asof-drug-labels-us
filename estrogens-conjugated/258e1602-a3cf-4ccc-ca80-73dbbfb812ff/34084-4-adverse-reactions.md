@@ -9,11 +9,11 @@ The following serious adverse reactions are discussed elsewhere in labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-During the first year of a 2-year clinical trial with 2,333 postmenopausal women with a uterus between 40 and 65 years of age (88 percent Caucasian), 1,012 women were treated with conjugated estrogens, and 332 were treated with placebo.
+During the first year of a 2-year clinical trial with 2,333 postmenopausal women with a uterus between 40 and 65 years of age (88% Caucasian), 1,012 women were treated with CE, and 332 were treated with placebo.
 
-Table 1 summarizes treatment-related adverse reactions that occurred at a rate of ≥ 1 percent in any treatment group.
+Table 1 summarizes treatment-related adverse reactions that occurred at a rate of ≥1% in any treatment group.
 
-Table 1: TREATMENT RELATED ADVERSE REACTIONS AT A FREQUENCY ≥ 1 PERCENT
+Table 1: Treatment-Related Adverse Reactions at a Frequency ≥1%
 
 |  | PREMARIN 0.625 mg (n=348) | PREMARIN 0.45 mg (n=338) | PREMARIN 0.3 mg (n=326) | Placebo (n=332) |
 | --- | --- | --- | --- | --- |

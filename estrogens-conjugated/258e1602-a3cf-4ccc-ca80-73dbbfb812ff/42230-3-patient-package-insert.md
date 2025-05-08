@@ -2,7 +2,7 @@
 
 PREMARIN®(prem-uh-rin)
 
-(Conjugated estrogen tablets, USP)
+(Conjugated estrogen tablets)
 
 Read this PATIENT INFORMATION before you start taking PREMARIN and read what you get each time you refill your PREMARIN prescription.
 There may be new information.
@@ -10,7 +10,7 @@ This information does not take the place of talking to your healthcare provider 
 
 | WHAT IS THE MOST IMPORTANT INFORMATION I SHOULD KNOW ABOUT PREMARIN (AN ESTROGEN MIXTURE)? |
 | --- |
-| •Using estrogen-alone may increase your chance of getting cancer of the uterus (womb)•Report any unusual vaginal bleeding right away while you are using PREMARIN. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find the cause.•Do not use estrogen-alone to prevent heart disease, heart attacks, or dementia (decline of brain function)•Using estrogen-alone may increase your chances of getting strokes or blood clots•Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older•Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots•Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older•You and your healthcare provider should talk regularly about whether you still need treatment with PREMARIN |
+| •Using estrogen-alone may increase your chance of getting cancer of the uterus (womb)Report any unusual vaginal bleeding right away while you are using PREMARIN. Vaginal bleeding after menopause may be a warning sign of cancer of the uterus (womb). Your healthcare provider should check any unusual vaginal bleeding to find the cause.•Do not use estrogen-alone to prevent heart disease, heart attacks, or dementia (decline of brain function)•Using estrogen-alone may increase your chances of getting strokes or blood clots•Using estrogen-alone may increase your chance of getting dementia, based on a study of women 65 years of age or older•Do not use estrogens with progestins to prevent heart disease, heart attacks, strokes, or dementia•Using estrogens with progestins may increase your chances of getting heart attacks, strokes, breast cancer, or blood clots•Using estrogens with progestins may increase your chance of getting dementia, based on a study of women 65 years of age or older•You and your healthcare provider should talk regularly about whether you still need treatment with PREMARIN |
 
 What is PREMARIN?
 
@@ -20,12 +20,12 @@ What is PREMARIN used for?
 
 PREMARIN is used after menopause to:
 
-- •Reduce moderate to severe hot flashes Estrogens are hormones made by a woman's ovaries.
+- •Reduce moderate to severe hot flushes Estrogens are hormones made by a woman's ovaries.
   The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
   This drop in body estrogen levels causes the "change of life" or menopause (the end of monthly menstrual periods).
   Sometimes, both ovaries are removed during an operation before natural menopause takes place.
   The sudden drop in estrogen levels causes "surgical menopause."
-  When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flashes" or "hot flushes").
+  When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flushes").
   In some women the symptoms are mild, and they will not need to take estrogens.
   In other women, symptoms can be more severe.
 - •Treat menopausal changes in and around the vagina You and your healthcare provider should talk regularly about whether you still need treatment with PREMARIN to control these problems.
@@ -53,7 +53,6 @@ Do not take PREMARIN if you:
 - •Currently have or have had liver problems
 - •Have been diagnosed with a bleeding disorder
 - •Are allergic to PREMARIN or any of its ingredients See the end of this leaflet for a list of ingredients in PREMARIN.
-- •Think you may be pregnant
 
 Tell your healthcare provider
 
@@ -64,7 +63,8 @@ Tell your healthcare provider
   Some medicines may affect how PREMARIN works.
   PREMARIN may also affect how your other medicines work.
 - •If you are going to have surgery or will be on bedrest You may need to stop taking PREMARIN.
-- •If you are breastfeeding The hormones in PREMARIN can pass into your milk.
+- •If you are pregnant or think you may be pregnantPREMARIN is not for pregnant women.
+- •If you are breastfeeding The hormones in PREMARIN can pass into your breast milk.
 
 How should I take PREMARIN?
 
@@ -86,16 +86,22 @@ Serious, but less common side effects include:
 - •Heart attack
 - •Stroke
 - •Blood clots
-- •Dementia
 - •Breast cancer
 - •Cancer of the lining of the uterus (womb)
 - •Cancer of the ovary
-- •High blood pressure
-- •High blood sugar
+- •Dementia
+- •High or low blood calcium
 - •Gallbladder disease
+- •Visual abnormalities
+- •High blood pressure
+- •High levels of fat (triglycerides) in your blood
 - •Liver problems
+- •Changes in your thyroid hormone levels
+- •Fluid retention
+- •Cancer changes of endometriosis
 - •Enlargement of benign tumors of the uterus ("fibroids")
 - •Severe allergic reactions
+- •Changes in certain laboratory test results, such as high blood sugar
 
 Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
@@ -104,9 +110,9 @@ Call your healthcare provider right away if you get any of the following warning
 - •Changes in vision or speech
 - •Sudden new severe headaches
 - •Severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
-- •Swollen lips, tongue and face
+- •Swelling of the face, lips, and tongue with or without red itchy bumps
 
-Less serious, but common side effects include:
+Common side effects of PREMARIN include:
 
 - •Headache
 - •Breast pain
@@ -153,19 +159,19 @@ PREMARIN 0.3 mg, 0.45 mg, 0.625 mg, 0.9 mg, and 1.25 mg tablets also contain the
 The tablets come in different strengths and each strength tablet is a different color.
 The color ingredients are:
 
-- -0.3 mg tablet (green color): D&C Yellow No. 10 and FD&C Blue No. 2.
-- -0.45 mg tablet (blue color): FD&C Blue No. 2.
-- -0.625 mg tablet (maroon color): FD&C Blue No. 2 and FD&C Red No. 40.
-- -0.9 mg tablet (white color): D&C Red No. 30 and D&C Red No. 7.
-- -1.25 mg tablet (yellow color): black iron oxide, D&C Yellow No. 10, and FD&C Yellow No. 6.
+- •0.3 mg tablet (green color): D&C Yellow No. 10 and FD&C Blue No. 2.
+- •0.45 mg tablet (blue color): FD&C Blue No. 2.
+- •0.625 mg tablet (maroon color): FD&C Blue No. 2 and FD&C Red No. 40.
+- •0.9 mg tablet (white color): D&C Red No. 30 and D&C Red No. 7.
+- •1.25 mg tablet (yellow color): black iron oxide, D&C Yellow No. 10, and FD&C Yellow No. 6.
 
 The appearance of these tablets is a trademark of Wyeth LLC.
 
 Store at Controlled Room Temperature 20° – 25°C (68° – 77°F).
 
-This product's label may have been updated.
-For current full prescribing information, please visit www.pfizer.com.
+This product's labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0515-6.0
+LAB-0515-7.0
 
-Revised February/2024
+Revised 04/2025

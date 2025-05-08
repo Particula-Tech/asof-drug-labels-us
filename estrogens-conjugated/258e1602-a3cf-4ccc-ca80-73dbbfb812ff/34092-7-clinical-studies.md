@@ -2,12 +2,12 @@
 
 ## 14.1 Effects on Vasomotor Symptoms
 
-In the first year of the Health and Osteoporosis, Progestin and Estrogen (HOPE) Study, a total of 2,805 postmenopausal women (average age 53.3 ± 4.9 years) were randomly assigned to one of eight treatment groups of either placebo or conjugated estrogens, with or without medroxyprogesterone acetate.
+In the first year of the Health and Osteoporosis, Progestin and Estrogen (HOPE) Study, a total of 2,805 postmenopausal women (average age 53.3 ± 4.9 years) were randomly assigned to one of eight treatment groups of either placebo or CE, with or without MPA.
 Efficacy for vasomotor symptoms was assessed during the first 12 weeks of treatment in a subset of symptomatic women (n = 241) who had at least seven moderate to severe hot flushes daily, or at least 50 moderate to severe hot flushes during the week before randomization.
 PREMARIN (0.3 mg, 0.45 mg, and 0.625 mg tablets) was shown to be statistically better than placebo at weeks 4 and 12 for relief of both frequency and severity of moderate to severe vasomotor symptoms.
 Table 3 shows the adjusted mean number of hot flushes in the PREMARIN 0.3 mg, 0.45 mg, and 0.625 mg and placebo groups during the initial 12-week period.
 
-Table 3: SUMMARY TABULATION OF THE NUMBER OF HOT FLUSHES PER DAY – MEAN VALUES AND COMPARISONS BETWEEN THE ACTIVE TREATMENT GROUPS AND THE PLACEBO GROUP: PATIENTS WITH AT LEAST 7 MODERATE TO SEVERE FLUSHES PER DAY OR AT LEAST 50 PER WEEK AT BASELINE, LAST OBSERVATION CARRIED FORWARD (LOCF)
+Table 3: Summary Tabulation of the Number of Hot Flushes Per Day – Mean Values and Comparisons Between the Active Treatment Groups and the Placebo Group: Patients with at Least 7 Moderate to Severe Flushes Per Day or at Least 50 Per Week at Baseline, Last Observation Carried Forward (LOCF)
 
 | Treatment (No. of Patients) | ---------------No. of Hot Flushes/Day--------------- |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -28,7 +28,7 @@ Table 3: SUMMARY TABULATION OF THE NUMBER OF HOT FLUSHES PER DAY – MEAN VALUES
 ## 14.2 Effects on Vulvar and Vaginal Atrophy
 
 Results of vaginal maturation indexes at cycles 6 and 13 showed that the differences from placebo were statistically significant (p < 0.001) for all treatment groups.
-(conjugated estrogens alone and conjugated estrogens/medroxyprogesterone acetate treatment groups).
+(CE alone and CE/MPA treatment groups).
 
 ## 14.3 Effects on Bone Mineral Density
 
@@ -45,8 +45,8 @@ Serum osteocalcin, urinary calcium, and N-telopeptide were used as bone turnover
 Intent-to-treat subjects
 
 All active treatment groups showed significant differences from placebo in each of the four BMD endpoints at cycles 6, 13, 19, and 26.
-The mean percent increases in the primary efficacy measure (L2 to L4 BMD) at the final on-therapy evaluation (cycle 26 for those who completed and the last available evaluation for those who discontinued early) were 2.46 percent with 0.625 mg, 2.26 percent with 0.45 mg, and 1.13 percent with 0.3 mg.
-The placebo group showed a mean percent decrease from baseline at the final evaluation of 2.45 percent.
+The mean percent increases in the primary efficacy measure (L2 to L4 BMD) at the final on-therapy evaluation (cycle 26 for those who completed and the last available evaluation for those who discontinued early) were 2.46% with 0.625 mg, 2.26% with 0.45 mg, and 1.13% with 0.3 mg.
+The placebo group showed a mean percent decrease from baseline at the final evaluation of 2.45%.
 These results show that the lower dosages of PREMARIN were effective in increasing L2 to L4 BMD compared with placebo, and therefore support the efficacy of the lower doses.
 
 The analysis for the other three BMD endpoints yielded mean percent changes from baseline in femoral trochanter that were generally larger than those seen for L2 to L4, and changes in femoral neck and total body that were generally smaller than those seen for L2 to L4.
@@ -55,7 +55,7 @@ With regard to femoral neck and total body, the active treatment groups all show
 For femoral trochanter, each of the PREMARIN dose groups showed a mean percent increase that was significantly greater than the small increase seen in the placebo group.
 The percent changes from baseline to final evaluation are shown in Table 4.
 
-TABLE 4: PERCENT CHANGE IN BONE MINERAL DENSITY: COMPARISON BETWEEN ACTIVE AND PLACEBO GROUPS IN THE INTENT-TO-TREAT POPULATION, LOCF
+Table 4: Percent Change in Bone Mineral Density: Comparison Between Active and Placebo Groups in the Intent-to-Treat Population, LOCF
 
 | Region Evaluated Treatment GroupIdentified by dosage (mg) of PREMARIN or placebo. | No. of Subjects | Baseline (g/cm2) Mean ± SD | Change from Baseline (%) Adjusted Mean ± SE | p-Value vs. Placebo |
 | --- | --- | --- | --- | --- |
@@ -83,13 +83,13 @@ TABLE 4: PERCENT CHANGE IN BONE MINERAL DENSITY: COMPARISON BETWEEN ACTIVE AND P
 Figure 1 shows the cumulative percentage of subjects with changes from baseline equal to or greater than the value shown on the x-axis.
 
 Figure 1.
-CUMULATIVE PERCENT OF SUBJECTS WITH CHANGES FROM BASELINE IN SPINE BMD OF GIVEN MAGNITUDE OR GREATER IN PREMARIN® AND PLACEBO GROUPS
+Cumulative Percent of Subjects With Changes From Baseline in Spine BMD of Given Magnitude or Greater in PREMARIN® and Placebo Groups
 
 The mean percent changes from baseline in L2 to L4 BMD for women who completed the bone density study are shown with standard error bars by treatment group in Figure 2.
 Significant differences between each of the PREMARIN dosage groups and placebo were found at cycles 6, 13, 19, and 26.
 
 Figure 2.
-ADJUSTED MEAN (SE) PERCENT CHANGE FROM BASELINE AT EACH CYCLE IN SPINE BMD: SUBJECTS COMPLETING IN PREMARIN GROUPS AND PLACEBO
+Adjusted Mean (SE) Percent Change From Baseline at Each Cycle in Spine BMD: Subjects Completing in PREMARIN Groups and Placebo
 
 The bone turnover markers, serum osteocalcin and urinary N-telopeptide, significantly decreased (p < 0.001) in all active-treatment groups at cycles 6, 13, 19, and 26 compared with the placebo group.
 Larger mean decreases from baseline were seen with the active groups than with the placebo group.
@@ -114,9 +114,9 @@ WHI Estrogen-Alone Substudy
 
 The WHI estrogen-alone substudy was stopped early because an increased risk of stroke was observed, and it was deemed that no further information would be obtained regarding the risks and benefits of estrogen alone in predetermined primary endpoints.
 
-Results of the estrogen-alone substudy, which included 10,739 women (average 63 years of age, range 50 to 79; 75.3 percent White, 15.1 percent Black, 6.1 percent Hispanic, 3.6 percent Other) after an average follow-up of 7.1 years, are presented in Table 5.
+Results of the estrogen-alone substudy, which included 10,739 women (average 63 years of age, range 50 to 79; 75.3% White, 15.1% Black, 6.1% Hispanic, 3.6% Other) after an average follow-up of 7.1 years, are presented in Table 5.
 
-TABLE 5: RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN ALONE SUBSTUDY OF WHIAdapted from numerous WHI publications.
+Table 5: Relative and Absolute Risk Seen in the Estrogen Alone Substudy of WHIAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi.
 
 | Event | Relative Risk CE vs. Placebo | CE n = 5,310 | Placebo n = 5,429 |
@@ -149,7 +149,7 @@ Centrally adjudicated results for stroke events from the estrogen-alone substudy
 Estrogen-alone increased the risk for ischemic stroke, and this excess risk was present in all subgroups of women examined.10
 
 Timing of the initiation of estrogen-alone therapy relative to the start of menopause may affect the overall risk benefit profile.
-The WHI estrogen-alone substudy stratified by age showed in women 50–59 years of age, a non-significant trend toward reduced risk for CHD [hazard ratio (HR) 0.63 (95 percent CI 0.36–1.09)] and overall mortality [HR 0.71 (95 percent CI 0.46–1.11)].
+The WHI estrogen-alone substudy stratified by age showed in women 50–59 years of age, a non-significant trend toward reduced risk for CHD [hazard ratio (HR) 0.63 (95% CI 0.36–1.09)] and overall mortality [HR 0.71 (95% CI 0.46–1.11)].
 
 WHI Estrogen Plus Progestin Substudy
 
@@ -159,10 +159,10 @@ The absolute excess risk of events included in the "global index" was 19 per 10,
 
 For those outcomes included in the WHI "global index" that reached statistical significance after 5.6 years of follow-up, the absolute excess risks per 10,000 women-years in the group treated with CE plus MPA were 7 more CHD events, 8 more strokes, 10 more PEs, and 8 more invasive breast cancers, while the absolute risk reductions per 10,000 women-years were 6 fewer colorectal cancers and 5 fewer hip fractures.
 
-Results of the estrogen plus progestin substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9 percent White, 6.8 percent Black, 5.4 percent Hispanic, 3.9 percent Other) are presented in Table 6.
+Results of the estrogen plus progestin substudy, which included 16,608 women (average 63 years of age, range 50 to 79; 83.9% White, 6.8% Black, 5.4% Hispanic, 3.9% Other) are presented in Table 6.
 These results reflect centrally adjudicated data after an average follow-up of 5.6 years.
 
-TABLE 6: RELATIVE AND ABSOLUTE RISK SEEN IN THE ESTROGEN PLUS PROGESTIN SUBSTUDY OF WHI AT AN AVERAGE OF 5.6 YEARSAdapted from numerous WHI publications.
+Table 6: Relative and Absolute Risk Seen in the Estrogen Plus Progestin Substudy of WHI at an Average of 5.6 YearsAdapted from numerous WHI publications.
 WHI publications can be viewed at www.nhlbi.nih.gov/whi.,Results are based on centrally adjudicated data.
 
 |  | Relative Risk CE/MPA vs. Placebo | CE/MPA n = 8,506 | Placebo n = 8,102 |
@@ -187,26 +187,26 @@ WHI publications can be viewed at www.nhlbi.nih.gov/whi.,Results are based on ce
 | Global IndexA subset of the events was combined in a "global index" defined as the earliest occurrence of CHD events, invasive breast cancer, stroke, pulmonary embolism, colorectal cancer, hip fracture, or death due to other causes. | 1.13 (1.02–1.25) | 184 | 165 |
 
 Timing of the initiation of estrogen therapy relative to the start of menopause may affect the overall risk benefit profile.
-The WHI estrogen plus progestin substudy stratified by age showed in women 50–59 years of age, a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95 percent CI 0.44–1.07)].
+The WHI estrogen plus progestin substudy stratified by age showed in women 50–59 years of age, a non-significant trend toward reduced risk for overall mortality [HR 0.69 (95% CI 0.44–1.07)].
 
 ## 14.6 Women's Health Initiative Memory Study
 
-The WHIMS estrogen-alone ancillary study of WHI enrolled 2,947 predominantly healthy hysterectomized postmenopausal women 65 to 79 years of age (45 percent were 65 to 69 years of age; 36 percent were 70 to 74 years of age; 19 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg)- alone on the incidence of probable dementia (primary outcome) compared to placebo.
+The WHIMS estrogen-alone ancillary study of WHI enrolled 2,947 predominantly healthy hysterectomized postmenopausal women 65 to 79 years of age (45% were 65 to 69 years of age; 36% were 70 to 74 years of age; 19% were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg)- alone on the incidence of probable dementia (primary outcome) compared to placebo.
 
-After an average follow-up of 5.2 years, the relative risk of probable dementia for CE-alone versus placebo was 1.49 (95 percent CI 0.83–2.66).
+After an average follow-up of 5.2 years, the relative risk of probable dementia for CE-alone versus placebo was 1.49 (95% CI 0.83–2.66).
 The absolute risk of probable dementia for CE-alone versus placebo was 37 versus 25 cases per 10,000 women-years.
 Probable dementia as defined in this study included Alzheimer's disease (AD), vascular dementia (VaD) and mixed types (having features of both AD and VaD).
 The most common classification of probable dementia in the treatment group and the placebo groups was AD.
 Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].
 
-The WHIMS estrogen plus progestin ancillary study enrolled 4,532 predominantly healthy postmenopausal women 65 years of age and older (47 percent were 65 to 69 years of age; 35 percent were 70 to 74 years; 18 percent were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg) plus MPA (2.5 mg) on the incidence of probable dementia (primary outcome) compared to placebo.
+The WHIMS estrogen plus progestin ancillary study enrolled 4,532 predominantly healthy postmenopausal women 65 years of age and older (47% were 65 to 69 years of age; 35% were 70 to 74 years; 18% were 75 years of age and older) to evaluate the effects of daily CE (0.625 mg) plus MPA (2.5 mg) on the incidence of probable dementia (primary outcome) compared to placebo.
 
-After an average follow-up of 4 years, the relative risk of probable dementia for CE plus MPA was 2.05 (95 percent CI, 1.21–3.48).
+After an average follow-up of 4 years, the relative risk of probable dementia for CE plus MPA was 2.05 (95% CI, 1.21–3.48).
 The absolute risk of probable dementia for CE (0.625 mg) plus MPA (2.5 mg) versus placebo was 45 versus 22 per 10,000 women-years.
 Probable dementia as defined in this study included AD, VaD and mixed types (having features of both AD and VaD).
 The most common classification of probable dementia in both the treatment and placebo groups was AD.
 Since the ancillary study was conducted in women 65 to 79 years of age, it is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].
 
-When data from the two populations were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95 percent CI 1.19–2.60).
+When data from the two populations were pooled as planned in the WHIMS protocol, the reported overall relative risk for probable dementia was 1.76 (95% CI 1.19–2.60).
 Differences between groups became apparent in the first year of treatment.
 It is unknown whether these findings apply to younger postmenopausal women [see Warnings and Precautions (5.3), and Use in Specific Populations (8.5)].

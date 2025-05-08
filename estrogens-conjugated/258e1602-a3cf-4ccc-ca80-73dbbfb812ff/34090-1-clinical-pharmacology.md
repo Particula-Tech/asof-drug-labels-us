@@ -25,14 +25,14 @@ There are no pharmacodynamic data for PREMARIN.
 Absorption
 
 Conjugated estrogens are water-soluble and are absorbed from the gastrointestinal tract after release from the drug formulation.
-The PREMARIN tablet releases conjugated estrogens slowly over several hours.
-Table 2 summarizes the mean pharmacokinetic parameters for unconjugated and conjugated estrogens following administration of 1 × 0.625 mg and 1 × 1.25 mg tablets to healthy postmenopausal women.
+The PREMARIN tablet releases CE slowly over several hours.
+Table 2 summarizes the mean pharmacokinetic parameters for unconjugated and CE following administration of 1 × 0.625 mg and 1 × 1.25 mg tablets to healthy postmenopausal women.
 
 Food effect: The pharmacokinetics of PREMARIN 0.45 mg and 1.25 mg tablets were assessed following a single dose with a high-fat breakfast and with fasting administration.
 The Cmax and AUC of estrogens were altered approximately 3–13%.
 The changes to Cmax and AUC are not considered clinically meaningful, therefore PREMARIN may be taken without regard to meals.
 
-TABLE 2: PHARMACOKINETIC PARAMETERS FOR PREMARIN
+Table 2: Pharmacokinetic Parameters for PREMARIN
 
 | Pharmacokinetic Profile of Unconjugated Estrogens Following a Dose of 1 × 0.625 mg |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -40,7 +40,7 @@ TABLE 2: PHARMACOKINETIC PARAMETERS FOR PREMARIN
 | Estrone | 87 (33) | 9.6 (33) | 50.7 (35) | 5557 (59) |
 | Baseline-adjusted estrone | 64 (42) | 9.6 (33) | 20.2 (40) | 1723 (52) |
 | Equilin | 31 (38) | 7.9 (32) | 12.9 (112) | 602 (54) |
-| Pharmacokinetic Profile of Conjugated Estrogens Following a Dose of 1 × 0.625 mg |  |  |  |  |
+| Pharmacokinetic Profile of CE Following a Dose of 1 × 0.625 mg |  |  |  |  |
 | PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng∙h/mL) |
 | Total Estrone | 2.7 (43) | 6.9 (25) | 26.7 (33) | 75 (52) |
 | Baseline-adjusted total estrone | 2.5 (45) | 6.9 (25) | 14.8 (35) | 46 (48) |
@@ -50,7 +50,7 @@ TABLE 2: PHARMACOKINETIC PARAMETERS FOR PREMARIN
 | Estrone | 124 (30) | 10.0 (32) | 38.1 (37) | 6332 (44) |
 | Baseline-adjusted estrone | 102 (35) | 10.0 (32) | 19.7 (48) | 3159 (53) |
 | Equilin | 59 (43) | 8.8 (36) | 10.9 (47) | 1182 (42) |
-| Pharmacokinetic Profile of Conjugated Estrogens Following a Dose of 1 × 1.25 mg |  |  |  |  |
+| Pharmacokinetic Profile of CE Following a Dose of 1 × 1.25 mg |  |  |  |  |
 | PK Parameter Arithmetic Mean (%CV) | Cmax (ng/mL) | tmax (h) | t1/2 (h) | AUC (ng∙h/mL) |
 | Total Estrone | 4.5 (39) | 8.2 (58) | 26.5 (40) | 109 (46) |
 | Baseline-adjusted total estrone | 4.3 (41) | 8.2 (58) | 17.5 (41) | 87 (44) |
@@ -60,7 +60,7 @@ Distribution
 
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentration in the sex hormone target organs.
-Estrogens circulate in the blood largely bound to sex hormone-binding globulin (SHBG) and albumin.
+Estrogens circulate in the blood largely bound to SHBG and albumin.
 
 Metabolism
 
@@ -69,7 +69,7 @@ Circulating estrogens exist in a dynamic equilibrium of metabolic interconversio
 These transformations take place mainly in the liver.
 Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is a major urinary metabolite.
 Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
-In postmenopausal women, a significant portion of the circulating estrogens exists as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
+In postmenopausal women, a significant proportion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
 Excretion
 
@@ -77,4 +77,4 @@ Estradiol, estrone, and estriol are excreted in the urine, along with glucuronid
 
 Use in Specific Populations
 
-No pharmacokinetic studies were conducted with Premarin in specific populations, including patients with renal or hepatic impairment.
+No pharmacokinetic studies were conducted with PREMARIN in specific populations, including patients with renal or hepatic impairment.
