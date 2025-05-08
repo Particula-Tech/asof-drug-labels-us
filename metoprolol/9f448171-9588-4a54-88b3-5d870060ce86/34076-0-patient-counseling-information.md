@@ -11,6 +11,9 @@ Advise patients (1) to avoid operating automobiles and machinery or engaging in 
 Inform patients or caregivers that there is a risk of hypoglycemia when Metoprolol Tartrate is given to patients who are fasting or who are vomiting.
 Monitor for symptoms of hypoglycemia.
 
-Manufactured for and Distributed by: Validus Pharmaceuticals LLC East Windsor, NJ 08520 info@validuspharma.com www.validuspharma.com 1-866-982-5438
+Manufactured for and Distributed by: Validus Pharmaceuticals LLC Parsippany, NJ 07054 info@validuspharma.com www.validuspharma.com 1-866-982-5438
 
 ©2025 Validus Pharmaceuticals LLC
+
+Revised.
+00, 04/2025
