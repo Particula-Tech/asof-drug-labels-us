@@ -1,1 +1,11 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 70010- 907-01
+
+Penicillamine Capsules, USP
+
+250 mg
+
+Rx Only
+
+100 Capsules

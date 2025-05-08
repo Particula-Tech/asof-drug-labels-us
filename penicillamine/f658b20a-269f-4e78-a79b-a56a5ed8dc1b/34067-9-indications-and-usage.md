@@ -3,7 +3,7 @@
 Penicillamine capsules are indicated in the treatment of Wilson's disease, cystinuria, and in patients with severe, active rheumatoid arthritis who have failed to respond to an adequate trial of conventional therapy.
 Available evidence suggests that penicillamine capsules are not of value in ankylosing spondylitis.
 
-Wilson’s Disease—
+Wilson’s Disease -
 
 Wilson’s disease (hepatolenticular degeneration) occurs in individuals who have inherited an autosomal recessive defect that leads to an accumulation of copper far in excess of metabolic requirements.
 The excess copper is deposited in several organs and tissues, and eventually produces pathological effects primarily in the liver, where damage progresses to postnecrotic cirrhosis, and in the brain, where degeneration is widespread.
@@ -11,11 +11,11 @@ Copper is also deposited as characteristic, asymptomatic, golden-brown Kayser-Fl
 
 Two types of patients require treatment for Wilson's disease: (1) the symptomatic, and (2) the asymptomatic in whom it can be assumed the disease will develop in the future if the patient is not treated.
 
-The diagnosis, if suspected on the basis of family or individual history or physical examination, can be confirmed if the plasma copper-protein ceruloplasmin** is <20 mg/dL and either a quantitative determination in a liver biopsy specimen shows an abnormally high concentration of copper (>250 mcg/g dry weight) or Kayser- Fleischer rings are present.
+The diagnosis, if suspected on the basis of family or individual history or physical examination, can be confirmed if the plasma copper-protein ceruloplasmin* is <20 mg/dL and either a quantitative determination in a liver biopsy specimen shows an abnormally high concentration of copper (>250 mcg/g dry weight) or Kayser- Fleischer rings are present.
 
 Treatment has two objectives:
 
-to minimize dietary intake of copper; to promote excretion and complex formation (i.e., detoxification) of excess tissue copper.
+(1) to minimize dietary intake of copper; (2) to promote excretion and complex formation (i.e., detoxification) of excess tissue copper.
 
 The first objective is attained by a daily diet that contains no more than one or two milligrams of copper.
 Such a diet should exclude, most importantly, chocolate, nuts, shellfish, mushrooms, liver, molasses, broccoli, and cereals and dietary supplements enriched with copper, and be composed to as great an extent as possible of foods with a low copper content.
@@ -23,7 +23,7 @@ Distilled or demineralized water should be used if the patient's drinking water 
 
 For the second objective, a copper chelating agent is used.
 
-In symptomatic patients this treatment usually produces marked neurologic improvement, fading of Kayser- Fleischer rings, and gradual amelioration of hepatic dysfunction and psychic disturbances.
+In symptomatic patients this treatment usually produces marked neurologic improvement, fading of Kayser-Fleischer rings, and gradual amelioration of hepatic dysfunction and psychic disturbances.
 
 Clinical experience to date suggests that life is prolonged with the above regimen.
 
@@ -32,12 +32,12 @@ Occasionally, neurologic symptoms become worse during initiation of therapy with
 Despite this, the drug should not be withdrawn.
 Temporary interruption carries an increased risk of developing a sensitivity reaction upon resumption of therapy, although it may result in clinical improvement of neurological symptoms (see WARNINGS).
 
-If the neurological symptoms and signs continue to worsen for a month after the initiation of penicillamine capsules therapy, several short courses of treatment with 2,3 - dimercaprol (BAL) while continuing penicillamine capsules may be considered.
+If the neurological symptoms and signs continue to worsen for a month after the initiation of penicillamine capsules therapy, several short courses of treatment with 2,3-dimercaprol (BAL) while continuing penicillamine capsules may be considered.
 
 Treatment of asymptomatic patients has been carried out for over thirty years.
 Symptoms and signs of the disease appear to be prevented indefinitely if daily treatment with penicillamine capsules are continued.
 
-Cystinuria —
+Cystinuria -
 
 Cystinuria is characterized by excessive urinary excretion of the dibasic amino acids, arginine, lysine, ornithine, and cystine, and the mixed disulfide of cysteine and homocysteine.
 The metabolic defect that leads to cystinuria is inherited as an autosomal, recessive trait.
@@ -60,17 +60,17 @@ This diet is not recommended in growing children and probably is contraindicated
 
 When these measures are inadequate to control recurrent stone formation, penicillamine capsules may be used as additional therapy, and when patients refuse to adhere to conventional treatment, penicillamine capsules may be a useful substitute.
 It is capable of keeping cystine excretion to near normal values, thereby hindering stone formation and the serious consequences of pyelonephritis and impaired renal function that develop in some patients.
-Bartter and colleagues depict the process by which penicillamine interacts with cystine to form penicillamine- cysteine mixed disulfide as:
+Bartter and colleagues depict the process by which penicillamine interacts with cystine to form penicillamine-cysteine mixed disulfide as:
 
 In this process, it is assumed that the deprotonated form of penicillamine, PS', is the active factor in bringing about the disulfide interchange.
 
-Rheumatoid Arthritis —
+Rheumatoid Arthritis -
 
 Because penicillamine capsules can cause severe adverse reactions, its use in rheumatoid arthritis should be restricted to patients who have severe, active disease and who have failed to respond to an adequate trial of conventional therapy.
 Even then, benefit-to-risk ratio should be carefully considered.
 Other measures, such as rest, physiotherapy, salicylates, and corticosteroids should be used, when indicated, in conjunction with penicillamine capsules (see PRECAUTIONS).
 
-** For quantitative test for serum ceruloplasmin see: Morell, A.G.; Windsor, J.; Sternlieb, I.; Scheinberg, I.H.: Measurement of the concentration of ceruloplasmin in serum by determination of its oxidase activity, in “Laboratory Diagnosis of Liver Disease”, F.W.
+* For quantitative test for serum ceruloplasmin see: Morell, A.G.; Windsor, J.; Sternlieb, I.; Scheinberg, I.H.: Measurement of the concentration of ceruloplasmin in serum by determination of its oxidase activity, in “Laboratory Diagnosis of Liver Disease”, F.W.
 Sunderman; F.W.
 Sunderman, Jr.
 (eds.), St. Louis, Warren H. Green, Inc., 1968, pp.

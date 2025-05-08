@@ -3,7 +3,7 @@
 In all patients receiving penicillamine, it is important that penicillamine capsules, USP be given on an empty stomach, at least one hour before meals or two hours after meals, and at least one hour apart from any other drug, food, or milk.
 Because penicillamine increases the requirement for pyridoxine, patients may require a daily supplement of pyridoxine (see PRECAUTIONS).
 
-Wilson's Disease— Optimal dosage can be determined by measurement of urinary copper excretion and the determination of free copper in the serum.
+Wilson's Disease - Optimal dosage can be determined by measurement of urinary copper excretion and the determination of free copper in the serum.
 The urine must be collected in copper-free glassware, and should be quantitatively analyzed for copper before and soon after initiation of therapy with penicillamine capsules, USP.
 Determination of 24-hour urinary copper excretion is of greatest value in the first week of therapy with penicillamine.
 In the absence of any drug reaction, a dose between 0.75 and 1.5 g that results in an initial 24-hour cupriuresis of over 2 mg should be continued for about three months, by which time the most reliable method of monitoring maintenance treatment is the determination of free copper in the serum.
@@ -12,8 +12,9 @@ Adequately treated patients will usually have less than 10 mcg free copper/dL of
 It is seldom necessary to exceed a dosage of 2 g/day.
 If the patient is intolerant to therapy with penicillamine capsules, USP, alternative treatment is trientine hydrochloride.
 In patients who cannot tolerate as much as 1 g/day initially, initiating dosage with 250 mg/day, and increasing gradually to the requisite amount, gives closer control of the effects of the drug and may help to reduce the incidence of adverse reactions.
-Cystinuria— It is recommended that penicillamine capsules, USP be used along with conventional therapy.
-By reducing urinary cystine, it decreases crystalluria and stone formation.In some instances, it has been reported to decrease the size of, and even to dissolve, stones already formed.
+Cystinuria- It is recommended that penicillamine capsules, USP be used along with conventional therapy.
+By reducing urinary cystine, it decreases crystalluria and stone formation.
+In some instances, it has been reported to decrease the size of, and even to dissolve, stones already formed.
 The usual dosage of penicillamine capsules, USP in the treatment of cystinuria is 2 g/day for adults, with a range of 1 to 4 g/day.
 For pediatric patients, dosage can be based on 30 mg/kg/day.
 The total daily amount should be divided into four doses.
@@ -25,24 +26,21 @@ It is especially important to drink about a pint of fluid at bedtime and another
 The greater the fluid intake, the lower the required dosage of penicillamine capsules, USP.
 Dosage must be individualized to an amount that limits cystine excretion to 100 to 200 mg/day in those with no history of stones, and below 100 mg/day in those who have had stone formation and/or pain.
 Thus, in determining dosage, the inherent tubular defect, the patient's size, age, and rate of growth, and his diet and water intake all must be taken into consideration.
-The standard nitroprusside cyanide test has been reported useful as a qualitative measure of the effective dose: Lotz, M.; Potts, J.T. and Bartter, F.C.: Brit.
-Med.
-J. 2: 521, Aug.
-28, 1965 (in Medical Memoranda).
-Add 2 mL of freshly prepared 5 percent sodium cyanide to 5 mL of a 24-hour aliquot of protein-free urine and let stand ten minutes Add 5 drops of freshly prepared 5 percent sodium nitroprusside and mix.
+The standard nitroprusside cyanide test has been reported useful as a qualitative measure of the effective dose: †Add 2 mL of freshly prepared 5 percent sodium cyanide to 5 mL of a 24-hour aliquot of protein-free urine and let stand ten minutes.
+Add 5 drops of freshly prepared 5 percent sodium nitroprusside and mix.
 Cystine will turn the mixture magenta.
 If the result is negative, it can be assumed that cystine excretion is less than 100 mg/g creatinine.
 Although penicillamine is rarely excreted unchanged, it also will turn the mixture magenta.
 If there is any question as to which substance is causing the reaction, a ferric chloride test can be done to eliminate doubt: Add 3 percent ferric chloride dropwise to the urine.
 Penicillamine will turn the urine an immediate and quickly fading blue.
 Cystine will not produce any change in appearance.
-Rheumatoid Arthritis — The principal rule of treatment with penicillamine capsules, USP in rheumatoid arthritis is patience.
+Rheumatoid Arthritis - The principal rule of treatment with penicillamine capsules, USP in rheumatoid arthritis is patience.
 The onset of therapeutic response is typically delayed.
 Two or three months may be required before the first evidence of a clinical response is noted (see CLINICAL PHARMACOLOGY).
 When treatment with penicillamine capsules, USP has been interrupted because of adverse reactions or other reasons, the drug should be reintroduced cautiously by starting with a lower dosage and increasing slowly.
 Initial Therapy — The currently recommended dosage regimen in rheumatoid arthritis begins with a single daily dose of 125 mg or 250 mg, which is thereafter increased at one to three month intervals, by 125 mg or 250 mg/day, as patient response and tolerance indicate.
 If a satisfactory remission of symptoms is achieved, the dose associated with the remission should be continued (see Maintenance Therapy).
-If there is no improvement and there are no signs of potentially serious toxicity after two to three months of treatment with doses of 500 to 750 mg/day, increases of 250 mg/day at two to three month intervals may be continued until a satisfactory remission occurs (see Maintenance Therapy) or signs of toxicity develop (see WARNINGSand PRECAUTIONS).
+If there is no improvement and there are no signs of potentially serious toxicity after two to three months of treatment with doses of 500 to 750 mg/day, increases of 250 mg/day at two to three month intervals may be continued until a satisfactory remission occurs (see Maintenance Therapy) or signs of toxicity develop (see WARNINGS and PRECAUTIONS).
 If there is no discernible improvement after three to four months of treatment with 1000 to 1500 mg of penicillamine/day, it may be assumed the patient will not respond and penicillamine capsules, USP should be discontinued.
 Maintenance Therapy — The maintenance dosage of penicillamine capsules, USP must be individualized, and may require adjustment during the course of treatment.
 Many patients respond satisfactorily to a dosage within the 500 to 750 mg/day range.
@@ -64,3 +62,8 @@ After improvement commences, analgesic and anti-inflammatory drugs may be slowly
 Steroid withdrawal must be done gradually, and many months of treatment with penicillamine capsules, USP may be required before steroids can be completely eliminated.
 Dosage Frequency — Based on clinical experience, dosages up to 500 mg/day can be given as a single daily dose.
 Dosages in excess of 500 mg/day should be administered in divided doses.
+
+† - Lotz, M.; Potts, J.T. and Bartter, F.C.: Brit.
+Med.
+J. 2: 521, Aug.
+28, 1965 (in Medical Memoranda).
