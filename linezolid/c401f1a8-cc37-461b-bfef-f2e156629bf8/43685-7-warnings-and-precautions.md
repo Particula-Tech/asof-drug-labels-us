@@ -16,8 +16,8 @@ Visual blurring has been reported in some patients treated with linezolid for le
 Peripheral and optic neuropathy has also been reported in children.
 
 If patients experience symptoms of visual impairment, such as changes in visual acuity, changes in color vision, blurred vision, or visual field defect, prompt ophthalmic evaluation is recommended.
-Visual function should be monitored in all patients taking linezolid for extended periods (≥3 months) and in all patients reporting new visual symptoms regardless of length of therapy with linezolid.
-If peripheral or optic neuropathy occurs, the continued use of linezolid in these patients should be weighed against the potential risks.
+Visual function should be monitored in all patients taking Linezolid injection for extended periods (≥3 months) and in all patients reporting new visual symptoms regardless of length of therapy with Linezolid injection.
+If peripheral or optic neuropathy occurs, the continued use of Linezolid injection in these patients should be weighed against the potential risks.
 
 ## 5.3 Serotonin Syndrome
 
@@ -63,7 +63,7 @@ Unless patients are monitored for potential increases in blood pressure, linezol
 
 Lactic acidosis has been reported with the use of linezolid.
 In reported cases, patients experienced repeated episodes of nausea and vomiting.
-Patients who develop recurrent nausea or vomiting, unexplained acidosis, or a low bicarbonate level while receiving linezolid should receive immediate medical evaluation.
+Patients who develop recurrent nausea or vomiting, unexplained acidosis, or a low bicarbonate level while receiving Linezolid injection should receive immediate medical evaluation.
 
 ## 5.8 Convulsions
 
@@ -87,9 +87,9 @@ If hypoglycemia occurs, a decrease in the dose of insulin or oral hypoglycemic a
 
 Postmarketing cases of hyponatremia and/or Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) have been observed in patients treated with linezolid.
 In reported cases, the signs and symptoms included confusion, somnolence, generalized weakness, and in severe cases led to respiratory failure and even death.
-Monitor serum sodium levels regularly in the elderly, in patients taking diuretics, and in other patients at risk of hyponatremia and/or SIADH while taking linezolid.
+Monitor serum sodium levels regularly in the elderly, in patients taking diuretics, and in other patients at risk of hyponatremia and/or SIADH while taking Linezolid injection.
 If signs and symptoms of hyponatremia and/or SIADH occur, discontinue Linezolid injection, and institute appropriate supportive measures.
 
 ## 5.12 Development of Drug-Resistant Bacteria
 
-Prescribing linezolid in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing Linezolid injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.

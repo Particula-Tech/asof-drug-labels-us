@@ -2,7 +2,7 @@
 
 ## 2.1 General Dosage and Administration
 
-The recommended dosage for linezolid injection for the treatment of infections is described in Table 1.
+The recommended dosage for Linezolid injection for the treatment of infections is described in Table 1.
 No dose adjustment is necessary when switching from intravenous to oral administration.
 
 Table 1.
