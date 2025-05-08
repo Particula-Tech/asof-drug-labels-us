@@ -9,9 +9,9 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trial of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In a 1-year clinical trial that included 678 postmenopausal women treated with PREMPRO and 351 postmenopausal women treated with PREMPHASE, the following adverse reactions occurred at a rate ≥ 1 percent, see Table 1.
+In a 1-year clinical trial that included 678 postmenopausal women treated with PREMPRO and 351 postmenopausal women treated with PREMPHASE, the following adverse reactions occurred at a rate ≥ 1%, see Table 1.
 
-TABLE 1: ALL TREATMENT RELATED ADVERSE REACTIONS AT A FREQUENCY ≥ 1 PERCENT
+Table 1: Treatment-Related Adverse Reactions at a Frequency ≥1%
 
 | Body System | PREMPRO 0.625 mg/2.5 mg continuous | PREMPRO 0.625 mg/5 mg continuous | PREMPHASE 0.625 mg/5 mg sequential |
 | --- | --- | --- | --- |
@@ -24,7 +24,7 @@ TABLE 1: ALL TREATMENT RELATED ADVERSE REACTIONS AT A FREQUENCY ≥ 1 PERCENT
 | Flu syndrome | 1 (<1%) | 1 (<1%) | 4 (1%) |
 | Generalized edema | 12 (4%) | 12 (4%) | 8 (2%) |
 | Headache | 64 (19%) | 52 (15%) | 66 (19%) |
-| Infection | 2 (<1%) | 4 (1%) | 0 |
+| Infection | 2 (<1%) | 4 (1)% | 0 |
 | Moniliasis | 4 (1%) | 3 (<1%) | 4 (1%) |
 | Pain | 12 (4%) | 14 (4%) | 15 (4%) |
 | Pelvic pain | 11 (3%) | 13 (4%) | 16 (5%) |
@@ -80,14 +80,14 @@ TABLE 1: ALL TREATMENT RELATED ADVERSE REACTIONS AT A FREQUENCY ≥ 1 PERCENT
 | Vaginal moniliasis | 5 (1%) | 6 (2%) | 7 (2%) |
 | Vaginitis | 13 (4%) | 13 (4%) | 10 (3%) |
 
-In addition, phargyngitis and sinusitis were reported as two of the more frequent adverse events (>5 percent) in the PREMPRO clinical study.
+In addition, phargyngitis and sinusitis were reported as two of the more frequent adverse events (>5%) in the PREMPRO clinical study.
 For pharyngitis, of the 121 events, six events were considered by the investigator causally related to study drug.
 For sinusitis, of the 73 events, one event was considered as casually related to study drug.
 
-During the first year of a 2-year clinical trial with postmenopausal women between 40 and 65 years of age (88 percent Caucasian), 989 postmenopausal women received continuous regimens of PREMPRO, and 332 received placebo tablets.
-Table 2 summarizes adverse reactions that occurred at a rate ≥ 1 percent in at least 1 treatment group.
+During the first year of a 2-year clinical trial with postmenopausal women between 40 and 65 years of age (88% Caucasian), 989 postmenopausal women received continuous regimens of PREMPRO, and 332 received placebo tablets.
+Table 2 summarizes adverse reactions that occurred at a rate ≥ 1% in at least 1 treatment group.
 
-TABLE 2: ALL TREATMENT RELATED ADVERSE REACTIONS AT A FREQUENCY OF ≥ 1 PERCENT
+Table 2: All Treatment-Related Adverse Reactions at a Frequency of ≥1%
 
 | Body System Adverse event | PREMPRO 0.625/2.5 continuous (N=331) | PREMPRO 0.45/1.5 continuous (N=331) | PREMPRO 0.3/1.5 continuous (N=327) | PLACEBO daily (N=332) |
 | --- | --- | --- | --- | --- |
@@ -151,7 +151,7 @@ TABLE 2: ALL TREATMENT RELATED ADVERSE REACTIONS AT A FREQUENCY OF ≥ 1 PERCENT
 | Vaginal moniliasis | 13 (4) | 11 (3) | 8 (2) | 5 (2) |
 | Vaginitis | 6 (2) | 8 (2) | 7 (2) | 1 (0) |
 
-In addition, the following events were considered as related to the study drug with an incidence less than 1 percent, including accidental injury, infection, myalgia, cough increased, rhinitis, sinusitis, and upper respiratory infection.
+In addition, the following events were considered as related to the study drug with an incidence less than 1%, including accidental injury, infection, myalgia, cough increased, rhinitis, sinusitis, and upper respiratory infection.
 
 ## 6.2 Postmarketing Experience
 

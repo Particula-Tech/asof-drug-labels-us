@@ -17,12 +17,12 @@ What is PREMPRO or PREMPHASE used for?
 
 PREMPRO or PREMPHASE is used after menopause to:
 
-- •Reduce moderate to severe hot flashes Estrogens are hormones made by a woman's ovaries.
+- •Reduce moderate to severe hot flushes Estrogens are hormones made by a woman's ovaries.
   The ovaries normally stop making estrogens when a woman is between 45 and 55 years old.
   This drop in body estrogen levels causes the "change of life" or menopause (the end of monthly menstrual periods).
   Sometimes, both ovaries are removed during an operation before natural menopause takes place.
   The sudden drop in estrogen levels causes "surgical menopause."
-  When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flashes" or "hot flushes").
+  When the estrogen levels begin dropping, some women get very uncomfortable symptoms, such as feelings of warmth in the face, neck, and chest, or sudden strong feelings of heat and sweating ("hot flushes").
   In some women the symptoms are mild, and they will not need to take estrogens.
   In other women, symptoms can be more severe.
 - •Treat menopausal changes in and around the vagina You and your healthcare provider should talk regularly about whether you still need treatment with PREMPRO or PREMPHASE to control these problems.
@@ -50,7 +50,6 @@ Do not take PREMPRO or PREMPHASE if you:
 - •Currently have or have had liver problems
 - •Have been diagnosed with a bleeding disorder
 - •Are allergic to PREMPRO or PREMPHASE or any of their ingredients See the list of ingredients in PREMPRO and PREMPHASE at the end of this leaflet.
-- •Think you may be pregnant
 
 Tell your healthcare provider
 
@@ -61,6 +60,7 @@ Tell your healthcare provider
   Some medicines may affect how PREMPRO or PREMPHASE works.
   PREMPRO or PREMPHASE may also affect how your other medicines work.
 - •If you are going to have surgery or will be on bedrest You may need to stop taking PREMPRO or PREMPHASE.
+- •If you are pregnant or think you may be pregnantPREMPRO and PREMPHASE are not for pregnant women.
 - •If you are breastfeeding The hormones in PREMPRO and PREMPHASE can pass into your breast milk.
 
 How should I take PREMPRO or PREMPHASE?
@@ -79,17 +79,22 @@ Serious, but less common side effects include:
 - •Heart attack
 - •Stroke
 - •Blood clots
-- •Dementia
 - •Breast cancer
 - •Cancer of the lining of the uterus (womb)
 - •Cancer of the ovary
-- •High blood pressure
-- •High blood sugar
+- •Dementia
+- •High or low blood calcium
 - •Gallbladder disease
+- •Visual abnormalities
+- •High blood pressure
+- •High levels of fat (triglycerides) in your blood
 - •Liver problems
+- •Changes in your thyroid hormone levels
+- •Fluid retention
+- •Cancer changes of endometriosis
 - •Enlargement of benign tumors of the uterus ("fibroids")
-- •Mental depression
-- •Severe allergic reaction
+- •Severe allergic reactions
+- •Changes in certain laboratory test results, such as high blood sugar
 
 Call your healthcare provider right away if you get any of the following warning signs or any other unusual symptoms that concern you:
 
@@ -98,9 +103,9 @@ Call your healthcare provider right away if you get any of the following warning
 - •Changes in vision or speech
 - •Sudden new severe headaches
 - •Severe pains in your chest or legs with or without shortness of breath, weakness and fatigue
-- •Swollen lips, tongue and face
+- •Swelling of the face, lips, and tongue with or without red itchy bumps
 
-Less serious, but common side effects include:
+Common side effects of PREMPRO or PREMPHASE include:
 
 - •Headache
 - •Breast pain
@@ -185,7 +190,7 @@ The appearance of PREMARIN tablets is a trademark of Pfizer Inc. The appearance 
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
-| This product's label may have been updated. For current package insert and further product information, please visit www.pfizer.com. |
+| This product's labeling may have been updated. For the most recent prescribing information, please visit www.pfizer.com. |
 | --- |
 
-LAB-0504-10.0 Revised February 2024
+LAB-0504-11.0 Revised 04/2025

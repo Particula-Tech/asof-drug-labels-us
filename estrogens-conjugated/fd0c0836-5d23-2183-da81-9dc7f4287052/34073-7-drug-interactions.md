@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Data from a single-dose drug-drug interaction study involving conjugated estrogens and medroxyprogesterone acetate indicate that the pharmacokinetic disposition of both drugs is not altered when the drugs are coadministered.
+Data from a single-dose drug-drug interaction study involving CE and MPA indicate that the pharmacokinetic disposition of both drugs is not altered when the drugs are coadministered.
 No other clinical drug-drug interaction studies have been conducted with CE plus MPA.
 
 ## 7.1 Metabolic Interactions

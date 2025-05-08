@@ -28,12 +28,12 @@ Currently, there are no pharmacodynamic data known for PREMPRO or PREMPHASE tabl
 
 Absorption
 
-PREMPRO and PREMPHASE contain a formulation of medroxyprogesterone acetate (MPA) that is immediately released and conjugated estrogens that are slowly released over several hours.
+PREMPRO and PREMPHASE contain a formulation of medroxyprogesterone acetate (MPA) that is immediately released and CE that are slowly released over several hours.
 Conjugated estrogens are water-soluble and are well-absorbed from the gastrointestinal tract after release from the drug formulation.
 MPA is well absorbed from the gastrointestinal tract.
 Table 3 and Table 4 summarize the mean pharmacokinetic parameters for select unconjugated and conjugated estrogens and medroxyprogesterone acetate following administration of PREMPRO to healthy, postmenopausal women.
 
-TABLE 3: PHARMACOKINETIC PARAMETERS FOR UNCONJUGATED AND CONJUGATED ESTROGENS (CE) AND MEDROXYPROGESTERONE ACETATE (MPA)
+Table 3: Pharmacokinetic Parameters for Unconjugated and Conjugated Estrogens (CE) and Medroxyprogesterone Acetate (MPA)
 
 | DRUG | 2 × 0.625 mg CE/2.5 mg MPA Combination Tablets (n = 54) |  |  |  | 2 × 0.625 mg CE/5 mg MPA Combination Tablets (n = 51) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -53,7 +53,7 @@ TABLE 3: PHARMACOKINETIC PARAMETERS FOR UNCONJUGATED AND CONJUGATED ESTROGENS (C
 | BA* = Baseline adjusted Cmax = peak plasma concentration tmax = time peak concentration occurs t1/2 = apparent terminal-phase disposition half-life (0.693/λz) AUC = total area under the concentration-time curve |  |  |  |  |  |  |  |  |
 
 TABLE 4.
-PHARMACOKINETIC PARAMETERS FOR UNCONJUGATED AND CONJUGATED ESTROGENS (CE) AND MEDROXYPROGESTERONE ACETATE (MPA)
+Pharmacokinetic Parameters for Unconjugated and Conjugated Estrogens (CE) and Medroxyprogesterone Acetate (MPA)
 
 | DRUG | 4 × 0.45 mg CE/1.5 mg MPA Combination (n = 65) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -73,13 +73,13 @@ PHARMACOKINETIC PARAMETERS FOR UNCONJUGATED AND CONJUGATED ESTROGENS (CE) AND ME
 | BA* = Baseline adjusted Cmax = peak plasma concentration tmax = time peak concentration occurs t1/2 = apparent terminal-phase disposition half-life (0.693/λz) AUC = total area under the concentration-time curve |  |  |  |  |
 
 Food-Effect: Single dose studies in healthy, postmenopausal women were conducted to investigate any potential drug interaction when PREMPRO or PREMPHASE is administered with a high-fat breakfast.
-Administration with food decreased the Cmax of total estrone by 18 to 34 percent and increased total equilin Cmax by 38 percent compared to the fasting state, with no other effect on the rate or extent of absorption of other conjugated or unconjugated estrogens.
-Administration with food approximately doubles MPA Cmax and increases MPA AUC by approximately 20 to 30 percent.
+Administration with food decreased the Cmax of total estrone by 18 to 34% and increased total equilin Cmax by 38% compared to the fasting state, with no other effect on the rate or extent of absorption of other conjugated or unconjugated estrogens.
+Administration with food approximately doubles MPA Cmax and increases MPA AUC by approximately 20 to 30%.
 
 Dose Proportionality: The Cmax and AUC values for MPA observed in two separate pharmacokinetic studies conducted with 2 PREMPRO 0.625 mg/2.5 mg or 2 PREMPRO or PREMPHASE 0.625 mg/5 mg tablets exhibited nonlinear dose proportionality; doubling the MPA dose from 2 × 2.5 to 2 × 5 mg increased the mean Cmax and AUC by 3.2- and 2.8-fold, respectively.
 
 The dose proportionality of estrogens and medroxyprogesterone acetate was assessed by combining pharmacokinetic data across another two studies totaling 61 healthy, postmenopausal women.
-Single conjugated estrogens doses of 2 × 0.3 mg, 2 × 0.45 mg, or 2 × 0.625 mg were administered either alone or in combination with medroxyprogesterone acetate doses of 2 × 1.5 mg or 2 × 2.5 mg.
+Single CE doses of 2 × 0.3 mg, 2 × 0.45 mg, or 2 × 0.625 mg were administered either alone or in combination with medroxyprogesterone acetate doses of 2 × 1.5 mg or 2 × 2.5 mg.
 Most of the estrogen components demonstrated dose proportionality; however, several estrogen components did not.
 Medroxyprogesterone acetate pharmacokinetic parameters increased in a dose-proportional manner.
 
@@ -88,7 +88,7 @@ Distribution
 The distribution of exogenous estrogens is similar to that of endogenous estrogens.
 Estrogens are widely distributed in the body and are generally found in higher concentrations in the sex hormone target organs.
 Estrogens circulate in the blood largely bound to SHBG and albumin.
-MPA is approximately 90 percent bound to plasma proteins, but does not bind to SHBG.
+MPA is approximately 90% bound to plasma proteins, but does not bind to SHBG.
 
 Metabolism
 
@@ -97,7 +97,7 @@ Circulating estrogens exist in a dynamic equilibrium of metabolic interconversio
 These transformations take place mainly in the liver.
 Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is a major urinary metabolite.
 Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
-In postmenopausal women, a significant portion of the circulating estrogens exists as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
+In postmenopausal women, a significant proportion of the circulating estrogens exist as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 Metabolism and elimination of MPA occur primarily in the liver via hydroxylation, with subsequent conjugation and elimination in the urine.
 
 Excretion

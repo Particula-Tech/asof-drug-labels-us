@@ -6,7 +6,7 @@ Cardiovascular Disorders and Probable Dementia
 
 Estrogen plus progestin therapy should not be used for the prevention of cardiovascular disease or dementia [see Warnings and Precautions (5.1, 5.3), and Clinical Studies (14.6, 14.7)].
 
-The Women's Health Initiative (WHI) estrogen plus progestin substudy reported an increased risk of deep vein thrombosis (DVT), pulmonary embolism (PE), stroke and myocardial infarction (MI) in postmenopausal women (50 to 79 years of age) during 5.6 years of treatment with daily oral conjugated estrogen (CE) [0.625 mg] combined with medroxyprogesterone acetate (MPA) [2.5 mg], relative to placebo [see Warnings and Precautions (5.1), and Clinical Studies (14.6)].
+The Women's Health Initiative (WHI) estrogen plus progestin substudy reported an increased risk of deep vein thrombosis (DVT), pulmonary embolism (PE), stroke and myocardial infarction (MI) in postmenopausal women (50 to 79 years of age) during 5.6 years of treatment with daily oral conjugated estrogen (CE) (0.625 mg) combined with medroxyprogesterone acetate (MPA) (2.5 mg), relative to placebo [see Warnings and Precautions (5.1), and Clinical Studies (14.6)].
 
 The WHI Memory Study (WHIMS) estrogen plus progestin ancillary study of the WHI reported an increased risk of developing probable dementia in postmenopausal women 65 years of age or older during 4 years of treatment with daily CE (0.625 mg) combined with MPA (2.5 mg), relative to placebo.
 It is unknown whether this finding applies to younger postmenopausal women [see Warnings and Precautions (5.3), Use in Specific Populations (8.5), and Clinical Studies (14.7)].

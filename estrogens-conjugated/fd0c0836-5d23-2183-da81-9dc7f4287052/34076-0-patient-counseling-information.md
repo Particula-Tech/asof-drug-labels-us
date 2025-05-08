@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Patient Labeling.
+Advise the patients to read the FDA-approved Patient Labeling (Patient Information).
 
 ## 17.1 Abnormal Vaginal Bleeding
 
