@@ -9,9 +9,9 @@ Administration of minocycline also produced a large goiter with high radioiodine
 Treatment of various animal species with this class of drugs has also resulted in the induction of thyroid hyperplasia in the following: in rats and dogs (minocycline), in chickens (chlortetracycline) and in rats and mice (oxytetracycline).
 Adrenal gland hyperplasia has been observed in goats and rats treated with oxytetracycline.
 
-Manufactured by: Watson Pharma Private Limited Verna, Salcette Goa 403 722 INDIA
+Manufactured In India By: Watson Pharma Private Limited Verna, Salcette Goa 403 722 India
 
-Distributed by: Actavis Pharma, Inc. Parsippany, NJ 07054 USA
+Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-A 11/2018
+B 4/2025

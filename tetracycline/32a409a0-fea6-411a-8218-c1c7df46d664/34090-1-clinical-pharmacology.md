@@ -9,27 +9,45 @@ Tetracyclines are primarily bacteriostatic and exert their antimicrobial effect 
 Tetracycline is active against a broad range of gram-negative and gram-positive organisms.
 The drugs in the tetracycline class have closely similar antimicrobial spectra, and cross-resistance among them is common.
 
-Tetracycline has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGEsection of the package insert.
+Tetracycline has been shown to be active against most isolates of the following bacteria, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert.
 
 Gram-negative Bacteria
 
-Acinetobacter species Bartonella bacilliformis Brucella species Campylobacter fetus Enterobacter aerogenes Escherichia coli Francisella tularensis Haemophilus ducreyi Haemophilus influenzae Klebsiellaspecies Klebsiella granulomatis Neisseria gonorrhoeae Shigella species Vibrio cholera Yersinia pestis
+| Acinetobacter species | Haemophilus influenzae |
+| --- | --- |
+| Bartonella bacilliformis | Klebsiella species |
+| Brucella species | Klebsiella granulomatis |
+| Campylobacter fetus | Neisseria gonorrhoeae |
+| Enterobacter aerogenes | Shigella species |
+| Escherichia coli | Vibrio cholerae |
+| Francisella tularensis | Yersinia pestis |
+| Haemophilus ducreyi |  |
 
 Gram-positive Bacteria
 
-Bacillus anthracis Streptococcus pyogenes Streptococcus pneumonia Staphylococcus aureus Listeria monocytogenes
+| Bacillus anthracis | Staphylococcus aureus |
+| --- | --- |
+| Streptococcus pyogenes | Listeria monocytogenes |
+| Streptococcus pneumoniae |  |
 
 Anaerobes
 
-Bacteroides species Clostridium species Fusobacterium fusiforme Propionibacterium acnes
+| Bacteroides species | Fusobacterium fusiforme |
+| --- | --- |
+| Clostridium species | Propionibacterium acnes |
 
 Other Bacteria
 
-Actinomyces species Borrelia recurrentis Chlamydophila psittaci Chlamydia trachomatis Rickettsiae Treponema pallidumTreponema pallidum subspecies pertenue
+| Actinomyces species | Rickettsiae |
+| --- | --- |
+| Borrelia recurrentis | Treponema pallidum |
+| Chlamydophila psittaci | Treponema pallidum subspecies pertenue |
+| Chlamydia trachomatis |  |
 
 Parasites
 
-Entamoeba species Balantidium coli
+| Entamoeba species | Balantidium coli |
+| --- | --- |
 
 Susceptibility Testing
 

@@ -1,23 +1,23 @@
 # INDICATIONS AND USAGE
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of tetracycline hydrochloride capsules and other antibacterial drugs, tetracycline hydrochloride capsules should be used only to treat or prevent infections that are proven or strongly suspected to be caused by susceptible bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of tetracycline hydrochloride and other antibacterial drugs, tetracycline hydrochloride should be used only to treat infections that are proven or strongly suspected to be caused by susceptible bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.
 
 Tetracycline is indicated in the treatment of infections caused by susceptible strains of the designated organisms in the conditions listed below:
 
-- Upper respiratory tract infections caused by Streptococcus pyogenes, Streptococcus pneumoniae and Haemophilus influenzae.
+- Upper respiratory tract infections caused by Streptococcus pyogenes, Streptococcus pneumoniae and Hemophilus influenzae.
   Note: Tetracycline should not be used for streptococcal disease unless the organism has been demonstrated to be susceptible.
-- Lower respiratory tract infections caused by Streptococcus pyogenes, Streptococcus pneumoniae, Mycoplasma pneumoniae (Eaton agent, and Klebsiella sp.)
-- Skin and soft tissue infections caused by Streptococcus pyogenes, Staphylococcus aureus.
+- Lower respiratory tract infections caused by Streptococcus pyogenes, Streptococcus pneumoniae, Mycoplasma pneumoniae (Eaton agent, and Klebsiella sp.).
+- Skin and soft tissue infections caused by Streptococcus pyogenes, Staphylococcus aureaus.
   (Tetracyclines are not the drugs of choice in the treatment of any type of staphylococcal infections.)
 - Infections caused by rickettsia including Rocky Mountain spotted fever, typhus group infections, Q fever, rickettsialpox.
 - Psittacosis caused by Chlamydophila psittaci.
 - Infections caused by Chlamydia trachomatis such as uncomplicated urethral, endocervical or rectal infections, inclusion conjunctivitis, trachoma, and lymphogranuloma venereum.
 - Granuloma inquinale caused by Klebsiella granulomatis.
 - Relapsing fever caused by Borrelia sp.
-- Bartonellosis caused by Bartonella bacill iformis.
-- Chancroid caused by Haemophilus ducreyi.
+- Bartonellosis caused by Bartonella bacilliformis.
+- Chancroid caused by Hemophilus ducreyi.
 - Tularemia caused by Francisella tularensis.
 - Plaque caused by Yersinia pestis.
 - Cholera caused by Vibrio cholerae.

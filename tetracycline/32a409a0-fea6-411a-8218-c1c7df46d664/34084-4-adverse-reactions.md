@@ -14,7 +14,7 @@ Enamel hypoplasia has been reported (see WARNINGS).
 
 ## Skin:
 
-maculopapular and erythematous rashes.
+fixed drug eruption, maculopapular and erythematous rashes.
 Exfoliative dermatitis has been reported.
 Onycholysis and discoloration of the nails have been reported.
 Photosensitivity is discussed in WARNINGS.
@@ -38,4 +38,4 @@ hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, neutropenia and eo
 When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of thyroid glands.
 No abnormalities of thyroid function studies are known to occur.
 
-To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-800-272-5525 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

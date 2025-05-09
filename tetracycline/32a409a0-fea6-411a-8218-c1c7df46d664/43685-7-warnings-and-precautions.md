@@ -35,13 +35,18 @@ Photosensitivity manifested by an exaggerated sunburn reaction has been observed
 Advise patients apt to be exposed to direct sunlight or ultraviolet lights that this reaction can occur with tetracycline drugs.
 Discontinue treatment at the first evidence of skin erythema.
 
+Fixed Drug Eruption
+
+Fixed drug eruptions have occurred with tetracycline and have been associated with worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption (see ADVERSE REACTIONS).
+If severe skin reactions occur, discontinue tetracycline hydrochloride capsules immediately and institute appropriate therapy.
+
 Intracranial Hypertension
 
 Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including Achromycin V. Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
 Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
 Concomitant use of isotretinoin and tetracycline should be avoided because isotretinoin, a systemic retinoid, is also known to cause pseudotumor cerebri.
 
-Although IH typically resolve after discontinuation of treatment, the possibility for permanent visual loss exists.
+Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
 If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.
 Since intracranial pressure can remain elevated for weeks after drug cessation patients should be monitored until they stabilize.
 
@@ -97,8 +102,6 @@ Since bacteriostatic drugs may interfere with the bactericidal action of penicil
 
 Because the tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage.
 
-The concurrent use of tetracycline and methoxyflurane has been reported to result in fatal renal toxicity.
-
 Absorption of tetracyclines is impaired by antacids containing aluminum, calcium or magnesium and preparations containing iron, zinc, or sodium bicarbonate.
 
 Concurrent use of tetracycline may render oral contraceptives less effective.
@@ -116,7 +119,7 @@ Tetracycline hydrochloride had no effect on fertility when administered in the d
 
 ### Teratogenic Effects
 
-Pregnancy Category D (see WARNINGS)
+(see WARNINGS)
 
 ### Nonteratogenic Effects
 
@@ -130,7 +133,7 @@ The effect of tetracyclines on labor and delivery is unknown.
 
 ## Nursing Mothers
 
-Because of the potential for serious adverse reaction in nursing infants from tetracyclines, a decision should be made whether to discontinue the drug, taking into account the importance of the drug to the mother (see WARNINGS).
+Because of potential for serious adverse reaction in nursing infants from tetracyclines, a decision should be made whether to discontinue the drug, taking into account the importance of the drug to the mother (see WARNINGS).
 
 ## Pediatric Use
 

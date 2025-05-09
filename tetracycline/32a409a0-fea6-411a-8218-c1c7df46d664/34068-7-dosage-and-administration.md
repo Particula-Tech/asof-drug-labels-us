@@ -19,7 +19,7 @@ Syphilis of more than one year’s duration (except neurosyphilis), 500 mg four 
 
 For treatment of gonorrhea, the recommended dose is 500 mg by mouth four times a day for seven days.
 
-Uncomplicated urethral, endocervical or rectal infections in adults caused by Chlamydia trachomatis: 500 mg, by mouth, four times a day for at least seven days.
+Uncomplicated urethral, endocervical or rectal infections in adults caused by Chlamydiatrachomatis: 500 mg, by mouth, four times a day for at least seven days.
 
 In cases of moderate to severe acne which, in the judgement of the clinician, require long-term treatment, the recommended initial dosage is 1 gram daily in divided doses.
 When improvement is noted, reduce dosage gradually to maintenance levels ranging from 125 mg to 500 mg daily.
