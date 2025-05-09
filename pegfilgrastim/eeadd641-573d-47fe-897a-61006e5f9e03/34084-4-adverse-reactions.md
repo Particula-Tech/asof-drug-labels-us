@@ -11,8 +11,8 @@ The following clinically significant adverse reactions are discussed in greater 
 - Thrombocytopenia [see Warnings and Precautions (5.7)]
 - Capillary Leak Syndrome [see Warnings and Precautions (5.8)]
 - Potential for Tumor Growth Stimulatory Effects on Malignant Cells [see Warnings and Precautions (5.9)]
-- Myelodysplastic Syndrome (MDS) [see Warnings and Precautions (5.10)]
-- Acute Myeloid Leukemia (AML) [see Warnings and Precautions (5.10)]
+- Myelodysplastic Syndrome [see Warnings and Precautions (5.10)]
+- Acute Myeloid Leukemia [see Warnings and Precautions (5.10)]
 - Aortitis [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
@@ -48,10 +48,8 @@ No complications attributable to leukocytosis were reported in clinical studies.
 
 ## 6.2 Immunogenicity
 
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other pegfilgrastim products may be misleading.
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of pegfilgrastim or of other pegfilgrastim products.
 
 Binding antibodies to pegfilgrastim were detected using a BIAcore assay.
 The approximate limit of detection for this assay is 500 ng/mL.

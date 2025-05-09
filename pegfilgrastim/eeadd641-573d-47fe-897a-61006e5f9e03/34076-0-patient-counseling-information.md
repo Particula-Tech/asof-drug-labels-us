@@ -13,13 +13,13 @@ Advise patients of the following risks and potential risks with FYLNETRA:
 - Capillary Leak Syndrome
 - Aortitis
 
+Advise patients acutely exposed to myelosuppressive doses of radiation (Hematopoietic Subsyndrome of Acute Radiation Syndrome) that efficacy studies of pegfilgrastim products for this indication could not be conducted in humans for ethical and feasibility reasons and that, therefore, approval of this use was based on efficacy studies conducted in animals [see Clinical Studies (14.2)].
+
 Instruct patients who self-administer FYLNETRA using the single-dose prefilled syringe of the:
 
 - Importance of following the Instructions for Use.
 - Dangers of reusing syringes.
 - Importance of following local requirements for proper disposal of used syringes.
-
-FYLNETRA® (pegfilgrastim-pbbk)
 
 Manufactured by:
 
@@ -36,6 +36,6 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-05-2022-00
+04-2025-02
 
 LBL-0003
