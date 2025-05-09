@@ -1,9 +1,10 @@
-# WARNING
+# WARNINGS
 
 Abuse, Misuse, and Addiction
 
 Amphetamine sulfate tablet has a high potential for abuse and misuse.
 The use of amphetamine sulfate tablets exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
+
 Amphetamine sulfate can be diverted for non-medical use into illicit channels or distribution (see DRUG ABUSE and DEPENDENCE).
 Misuse and abuse of CNS stimulants, including amphetamine sulfate tablets, can result in overdose and death (see OVERDOSAGE), and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
@@ -52,7 +53,7 @@ Peripheral Vasculopathy, including Raynaud's phenomenon
 
 Stimulants, including amphetamine sulfate, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud's phenomenon.
 Signs and symptoms are usually intermittent and mild; however, very rare sequelae include digital ulceration and/or soft tissue breakdown.
-Effects of peripheral vasculopathy, including Raynaud's phenomenon, were observed in postmarketing reports and at the therapeutic dosages of CNS stimulants in all age groups throughout the course of treatment.
+Effects of peripheral vasculopathy, including Raynaud's phenomenon, were observed in post-marketing reports and at the therapeutic dosages of CNS stimulants in all age groups throughout the course of treatment.
 Signs and symptoms generally improved after dosage reduction or discontinuation of the CNS stimulant.
 
 Careful observation for digital changes is necessary during Amphetamine sulfate tablets treatment.
@@ -71,7 +72,9 @@ Concomitant use of amphetamine sulfate with MAOI drugs is contraindicated (see C
 Discontinue treatment with amphetamine sulfate and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
 If concomitant use of amphetamine sulfate with other serotonergic drugs or CYP2D6 inhibitors is clinically warranted, initiate amphetamine sulfate with lower doses, monitor patients for the emergence of serotonin syndrome during drug initiation or titration, and inform patients of the increased risk for serotonin syndrome.
 
-Motor and Verbal Tics, and Worsening of Tourette’s Syndrome CNS stimulants, including amphetamine sulfate, have been associated with the onset or exacerbation of motor and verbal tics.
+Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
+
+CNS stimulants, including amphetamine sulfate have been associated with the onset or exacerbation of motor and verbal tics.
 Worsening of Tourette’s syndrome has also been reported.
 Assess the family history and clinically evaluate patients for tics or Tourette’s syndrome before initiating amphetamine sulfate tablets.
 Regularly monitor patients for the emergence or worsening of tics or Tourette’s syndrome with amphetamine sulfate tablets, and discontinue treatment if clinically appropriate.
@@ -194,7 +197,7 @@ Also, these infants may experience symptoms of withdrawal as demonstrated by dys
 ## Nursing Mothers
 
 Amphetamines are excreted in human milk.
-Mothers taking amphetamines should be advised to refrain from nursing
+Mothers taking amphetamines should be advised to refrain from nursing.
 
 ## Pediatric Use
 
