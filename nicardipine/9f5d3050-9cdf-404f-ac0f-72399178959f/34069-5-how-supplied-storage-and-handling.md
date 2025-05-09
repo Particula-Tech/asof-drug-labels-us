@@ -11,5 +11,5 @@ Freezing does not adversely affect the product, but avoid exposure to elevated t
 Protect from light.
 Store vials in carton until used.
 The vial stopper is not made with natural rubber latex.
-Distributed by: AuroMedics Pharma LLC 279 Princeton-Hightstown Rd.
+Distributed by: Eugia US LLC 279 Princeton-Hightstown Rd.
 E. Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad - 500032 India Novaplus is a registered trademark of Vizient Inc.
