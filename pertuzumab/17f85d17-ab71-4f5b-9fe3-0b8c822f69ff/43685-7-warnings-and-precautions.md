@@ -11,7 +11,7 @@ If the LVEF declines and has not improved, or has declined further at the subseq
 In the PERJETA-treated patients with MBC in CLEOPATRA, left ventricular dysfunction occurred in 4% of patients and symptomatic left ventricular systolic dysfunction (LVSD) (congestive heart failure) occurred in 1% of patients.
 Patients who received prior anthracyclines or prior radiotherapy to the chest area may be at higher risk of decreased LVEF or left ventricular dysfunction.
 
-In patients receiving PERJETA as a neoadjuvant treatment in combination with trastuzumab and docetaxel in NeoSphere, LVEF decline > 10% and a drop to < 50% occurred in 2% of patients and left ventricular dysfunction occurred in 0.9% of patients.
+In patients receiving PERJETA as a neoadjuvant treatment in combination with trastuzumab and docetaxel in NeoSphere, LVEF decline > 10% and a drop to < 50% occurred in 8% of patients and left ventricular dysfunction occurred in 3% of patients.
 LVEF recovered to ≥ 50% in all these patients.
 
 In patients receiving neoadjuvant PERJETA in TRYPHAENA, LVEF decline > 10% and a drop to < 50% occurred in 7% of patients treated with PERJETA plus trastuzumab and FEC followed by PERJETA plus trastuzumab and docetaxel, 16% of patients treated with PERJETA plus trastuzumab and docetaxel following FEC, and 11% of patients treated with PERJETA in combination with TCH.

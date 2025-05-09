@@ -75,7 +75,7 @@ For chemotherapy dose modifications, see relevant prescribing information.
 Left Ventricular Dysfunction
 
 Assess left ventricular ejection fraction (LVEF) prior to initiation of PERJETA and at regular intervals during treatment.
-The recommended dosage modifications for LVED are listed in Table 2 [see Warnings and Precautions (5.1)].
+The recommended dosage modifications for LVEF decrease are listed in Table 2 [see Warnings and Precautions (5.1)].
 
 Table 2: Dose Modifications for Left Ventricular Dysfunction
 
