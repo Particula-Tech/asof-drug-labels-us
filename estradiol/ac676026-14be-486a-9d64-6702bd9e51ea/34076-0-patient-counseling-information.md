@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Advise the patient to read FDA-approved patient labeling (Patient Information and Instructions for Use).
 
@@ -22,9 +22,9 @@ Distributed By: Allergan USA, Inc.
 
 Madison, NJ 07940
 
-12/2023 Alora® is a registered trademark of Allergan Sales, LLC.
+09/2024 Alora® is a registered trademark of Allergan Sales, LLC.
 
-©2023 Allergan.
+V4.0USPI5885
+
+©2024 Allergan.
 All rights reserved.
-
-V3.0USPI5885

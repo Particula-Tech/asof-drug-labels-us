@@ -10,13 +10,13 @@ Animal studies to evaluate embryo/fetal toxicity were not conducted with Alora.
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4 percent and 15 to 20 percent, respectively.
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Risk Summary
 
-Estrogens are present in human milk and can reduce milk production in breast-feeding women.
-This reduction can occur at any time but is less likely to occur once breast-feeding is well-established.
-The development and health benefits of breast-feeding should be considered along with the mother’s clinical need for Alora and any potential adverse effects on the breast-fed child from Alora or from the underlying maternal condition.
+Estrogens are present in human milk and can reduce milk production in breastfeeding women.
+This reduction can occur at any time but is less likely to occur once breastfeeding is well-established.
+The development and health benefits of breastfeeding should be considered along with the mother’s clinical need for Alora and any potential adverse effects on the breast-fed child from Alora or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 

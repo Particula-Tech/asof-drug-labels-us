@@ -78,14 +78,14 @@ Exogenous estrogens are metabolized in the same manner as endogenous estrogens.
 Circulating estrogens exist in a dynamic equilibrium of metabolic interconversions.
 These transformations take place mainly in the liver.
 Estradiol is converted reversibly to estrone, and both can be converted to estriol, which is the major urinary metabolite.
-Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the gut followed by reabsorption.
+Estrogens also undergo enterohepatic recirculation via sulfate and glucuronide conjugation in the liver, biliary secretion of conjugates into the intestine, and hydrolysis in the intestine followed by reabsorption.
 In postmenopausal women a significant portion of the circulating estrogens exists as sulfate conjugates, especially estrone sulfate, which serves as a circulating reservoir for the formation of more active estrogens.
 
 Excretion
 
 Estradiol, estrone and estriol are excreted in the urine along with glucuronide and sulfate conjugates.
 
-## 12.6 Adhesion
+## 12.6Adhesion
 
 The adhesion potential of Alora was evaluated in a randomized clinical trial involving 408 healthy postmenopausal women who wore placebo transdermal systems corresponding to the 18 cm2 size Alora.
 The placebo transdermal systems were applied twice weekly for 4 weeks on the lower quadrant of the abdomen (the lower abdomen, the upper quadrant of the buttocks or outer aspect of the hip are the approved recommended application sites).

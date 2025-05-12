@@ -132,4 +132,4 @@ Keep ALORA patches and all medicines out of the reach of children.
 Distributed By: Allergan USA, Inc. Madison, NJ 07940
 
 Rev.
-03/2020
+05/2025
