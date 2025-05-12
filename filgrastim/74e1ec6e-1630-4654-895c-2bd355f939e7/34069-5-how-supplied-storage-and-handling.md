@@ -12,12 +12,12 @@ Dispensing packs of 10 vials (NDC 70121-1571-7).
 
 Prefilled Syringes
 
-Single-dose prefilled syringe with 27 gauge, ½ inch needle with an UltraSafe PlusTM Needle Guard, containing 300 mcg/0.5 mL of filgrastim-ayow.
+Single-dose, prefilled syringe with 27 gauge, 1/2 inch needle with an UltraSafe PlusTM Needle Guard, containing 300 mcg/0.5 mL of filgrastim-ayow.
 
 - Carton of one single-dose prefilled syringe (NDC 70121-1568-1)
 - Pack of 10 prefilled syringes (NDC 70121-1568-7).
 
-Single-dose, prefilled syringe with 27 gauge, ½ inch needle with an UltraSafe PlusTM Needle Guard, containing 480 mcg/0.8 mL of filgrastim-ayow.
+Single-dose, prefilled syringe with 27 gauge, 1/2 inch needle with an UltraSafe PlusTM Needle Guard, containing 480 mcg/0.8 mL of filgrastim-ayow.
 
 - Carton of one single-dose prefilled syringe (NDC 70121-1570-1)
 - Pack of 10 prefilled syringes (NDC 70121-1570-7).

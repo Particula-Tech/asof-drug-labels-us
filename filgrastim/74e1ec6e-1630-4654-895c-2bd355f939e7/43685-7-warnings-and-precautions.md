@@ -35,7 +35,7 @@ If causality is likely, consider dose-reduction or interruption of RELEUKO.
 
 ## 5.6 Alveolar Hemorrhage and Hemoptysis
 
-Alveolar hemorrhage manifesting as pulmonary infiltrates and hemoptysis requiring hospitalization have been reported in healthy donors treated with filgrastim products for peripheral blood progenitor cell (PBPC) mobilization.
+Alveolar hemorrhage manifesting as pulmonary infiltrates and hemoptysis requiring hospitalization have been reported in healthy donors treated with filgrastim products undergoing peripheral blood progenitor cell (PBPC) collection mobilization.
 Hemoptysis resolved with discontinuation of filgrastim products.
 The use of RELEUKO for PBPC mobilization in healthy donors is not an approved indication.
 
@@ -73,6 +73,10 @@ Monitor CBCs at least twice weekly during therapy.
 Dosages of RELEUKO that increase the ANC beyond 10‚000/mm3 may not result in any additional clinical benefit.
 In patients with cancer receiving myelosuppressive chemotherapy‚ discontinuation of filgrastim therapy usually resulted in a 50% decrease in circulating neutrophils within 1 to 2 days‚ with a return to pretreatment levels in 1 to 7 days.
 
+Peripheral Blood Progenitor Cell Collection and Therapy
+
+During the period of administration of RELEUKO for PBPC mobilization in patients with cancer, discontinue RELEUKO if the leukocyte count rises to > 100,000/mm3.
+
 ## 5.11 Cutaneous Vasculitis
 
 Cutaneous vasculitis has been reported in patients treated with filgrastim products.
@@ -84,9 +88,12 @@ RELEUKO may be started at a reduced dose when the symptoms resolve and the ANC h
 ## 5.12 Potential Effect on Malignant Cells
 
 RELEUKO is a growth factor that primarily stimulates neutrophils.
-The granulocyte-colony stimulating factor (G-CSF) receptor through which RELEUKO acts has also been found on tumor cell lines.
+The granulocyte colony-stimulating factor (G-CSF) receptor through which RELEUKO acts has also been found on tumor cell lines.
 The possibility that RELEUKO acts as a growth factor for any tumor type cannot be excluded.
 The safety of filgrastim products in chronic myeloid leukemia (CML) and myelodysplasia has not been established.
+
+When RELEUKO is used to mobilize PBPC‚ tumor cells may be released from the marrow and subsequently collected in the leukapheresis product.
+The effect of reinfusion of tumor cells has not been well studied‚ and the limited data available are inconclusive.
 
 ## 5.13 Simultaneous Use with Chemotherapy and Radiation Therapy Not Recommended
 

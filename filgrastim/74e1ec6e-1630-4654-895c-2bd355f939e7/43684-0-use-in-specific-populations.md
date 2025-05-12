@@ -1,19 +1,19 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# USE IN SPECIFIC POPULATIONS
 
 ## 8.1 Pregnancy
 
 Risk Summary
 
-Available data from published studies, including several observational studies of pregnancy outcomes in women exposed to filgrastim products and those who were unexposed, have not established an association with filgrastim products use during pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+Available data from published studies, including several observational studies of pregnancy outcomes in women exposed to filgrastim products and those who were unexposed, have not established an association with filgrastim product use during pregnancy and major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
 Reports in the scientific literature have described transplacental passage of filgrastim in pregnant women when administered ≤ 30 hours prior to preterm delivery (≤ 30 weeks gestation).
 In animal reproduction studies, effects of filgrastim on prenatal development have been studied in rats and rabbits.
 No malformations were observed in either species.
 No maternal or fetal effects were observed in pregnant rats at doses up to 58 times the human doses.
 Filgrastim has been shown to have adverse effects in pregnant rabbits at doses 2 to 10 times higher than the human doses (see Data).
 
-The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
 
@@ -50,21 +50,23 @@ The pharmacokinetics of filgrastim in pediatric patients after chemotherapy are 
 In this population‚ filgrastim was well tolerated.
 There was one report of palpable splenomegaly and one report of hepatosplenomegaly associated with filgrastim therapy; however‚ the only consistently reported adverse event was musculoskeletal pain‚ which is no different from the experience in the adult population.
 
-The safety and effectiveness of filgrastim have been established in pediatric patients with SCN [see Clinical Studies (14.4)].
+The safety and effectiveness of RELEUKO have been established in pediatric patients with SCN [see Clinical Studies (14.5)].
 In a phase 3 study (Study 7) to assess the safety and efficacy of filgrastim in the treatment of SCN, 123 patients with a median age of 12 years (range 7 months to 76 years) were studied.
 Of the 123 patients, 12 were infants (7 months to 2 years of age), 49 were children (2 to 12 years of age), and 9 were adolescents (12 to 16 years of age).
 Additional information is available from a SCN postmarketing surveillance study, which includes long-term follow-up of patients in the clinical studies and information from additional patients who entered directly into the postmarketing surveillance study.
-Of the 731 patients in the surveillance study, 429 were pediatric patients < 18 years of age (range 0.9 to 17) [see Indications and Usage (1.4), Dosage and Administration (2.4) and Clinical Studies (14.4)].
+Of the 731 patients in the surveillance study, 429 were pediatric patients < 18 years of age (range 0.9 to 17) [see Indications and Usage (1.5), Dosage and Administration (2.6) and Clinical Studies (14.5)].
 
 Long-term follow-up data from the postmarketing surveillance study suggest that height and weight are not adversely affected in patients who received up to 5 years of filgrastim treatment.
 Limited data from patients who were followed in the phase 3 study for 1.5 years did not suggest alterations in sexual maturation or endocrine function.
 
 Pediatric patients with congenital types of neutropenia (Kostmann’s syndrome, congenital agranulocytosis, or Schwachman-Diamond syndrome) have developed cytogenetic abnormalities and have undergone transformation to MDS and AML while receiving chronic filgrastim treatment.
-The relationship of these events to filgrastim products administration is unknown [see Warnings and Precautions (5.8) and Adverse Reactions (6)].
+The relationship of these events to filgrastim product administration is unknown [see Warnings and Precautions (5.8) and Adverse Reactions (6)].
+
+The use of RELEUKO to increase survival in pediatric patients acutely exposed to myelosuppressive doses of radiation is based on studies of filgrastim conducted in animals and clinical data supporting the use of filgrastim in other approved indications [see Dosage and Administration (2.1 to 2.4) and Clinical Studies (14.6)].
 
 ## 8.5 Geriatric Use
 
 Among 855 subjects enrolled in 3 randomized, placebo-controlled trials of filgrastim-treated patients receiving myelosuppressive chemotherapy, there were 232 subjects age 65 or older, and 22 subjects age 75 or older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
 
-Clinical studies of filgrastim in other approved indications (i.e., BMT recipients, SCN and another indication) did not include sufficient numbers of subjects aged 65 and older to determine whether elderly subjects respond differently from younger subjects.
+Clinical studies of filgrastim in other approved indications (i.e., BMT recipients, PBPC mobilization, and SCN) did not include sufficient numbers of subjects aged 65 and older to determine whether elderly subjects respond differently from younger subjects.

@@ -11,7 +11,7 @@ G-CSF is not species-specific and has been shown to have minimal direct in vivo 
 ## 12.2 Pharmacodynamics
 
 In phase 1 studies involving 96 patients with various nonmyeloid malignancies‚ filgrastim administration resulted in a dose-dependent increase in circulating neutrophil counts over the dose range of 1 to 70 mcg/kg/day.
-This increase in neutrophil counts was observed whether filgrastim was administered intravenous (1 to 70 mcg/kg twice daily)‚ subcutaneous (1 to 3 mcg/kg once daily) or by continuous subcutaneous infusion (3 to 11 mcg/kg/day).
+This increase in neutrophil counts was observed whether filgrastim was administered intravenous (1 to 70 mcg/kg twice daily)‚ subcutaneous (1 to 3 mcg/kg once daily), or by continuous subcutaneous infusion (3 to 11 mcg/kg/day).
 With discontinuation of filgrastim therapy‚ neutrophil counts returned to baseline in most cases within 4 days.
 Isolated neutrophils displayed normal phagocytic (measured by zymosan-stimulated chemoluminescence) and chemotactic (measured by migration under agarose using N-formyl-methionyl-leucyl-phenylalanine [fMLP] as the chemotaxin) activity in vitro.
 
@@ -38,6 +38,12 @@ Continuous 24-hour intravenous infusions of 20 mcg/kg over an 11 to 20-day perio
 The absolute bioavailability of filgrastim after subcutaneous administration is 60% to 70%.
 
 Specific Populations
+
+Patients Acutely Exposed to Myelosuppressive Doses of Radiation
+
+The pharmacokinetics of filgrastim products are not available in patients acutely exposed to myelosuppressive doses of radiation.
+Based on limited pharmacokinetics data in irradiated non-human primates, the area under the time-concentration curve (AUC), reflecting the exposure to filgrastim in non-human primates at 10 mcg/kg dose of filgrastim, appears to be similar to that in humans at 5 mcg/kg.
+Simulations conducted using the population pharmacokinetic model indicates that the exposures to filgrastim at a filgrastim dose of 10 mcg/kg in patients acutely exposed to myelosuppressive doses of radiation are expected to exceed the exposures at a dose of 10 mcg/kg in irradiated non-human primates.
 
 Pediatric Patients
 

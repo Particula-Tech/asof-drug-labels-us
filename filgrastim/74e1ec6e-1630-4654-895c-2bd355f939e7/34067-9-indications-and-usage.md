@@ -12,6 +12,14 @@ RELEUKO is indicated for reducing the time to neutrophil recovery and the durati
 
 RELEUKO is indicated to reduce the duration of neutropenia and neutropenia-related clinical sequelae‚ e.g.‚ febrile neutropenia, in patients with nonmyeloid malignancies undergoing myeloablative chemotherapy followed by bone marrow transplantation [see Clinical Studies (14.3)].
 
-## 1.4 Patients with Severe Chronic Neutropenia
+## 1.4 Patients Undergoing Autologous Peripheral Blood Progenitor Cell Collection and Therapy
 
-RELEUKO is indicated for chronic administration to reduce the incidence and duration of sequelae of neutropenia (e.g.‚ fever‚ infections‚ oropharyngeal ulcers) in symptomatic patients with congenital neutropenia‚ cyclic neutropenia‚ or idiopathic neutropenia [see Clinical Studies (14.4)].
+RELEUKO is indicated for the mobilization of autologous hematopoietic progenitor cells into the peripheral blood for collection by leukapheresis [see Clinical Studies (14.4)].
+
+## 1.5 Patients with Severe Chronic Neutropenia
+
+RELEUKO is indicated for chronic administration to reduce the incidence and duration of sequelae of neutropenia (e.g.‚ fever‚ infections‚ oropharyngeal ulcers) in symptomatic patients with congenital neutropenia‚ cyclic neutropenia‚ or idiopathic neutropenia [see Clinical Studies (14.5)].
+
+## 1.6 Patients Acutely Exposed to Myelosuppressive Doses of Radiation (Hematopoietic Syndrome of Acute Radiation Syndrome)
+
+RELEUKO is indicated to increase survival in patients acutely exposed to myelosuppressive doses of radiation [see Clinical Studies (14.6)].

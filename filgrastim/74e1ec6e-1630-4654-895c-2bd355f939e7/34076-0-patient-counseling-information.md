@@ -28,17 +28,17 @@ Advise patients of the following risks and potential risks with RELEUKO:
   Symptoms may include fever, abdominal pain, malaise, back pain, and increased inflammatory markers.
   Advise patients to report signs and symptoms of aortitis to their physician immediately [see Warnings and Precautions (5.15)].
 
+Advise patients acutely exposed to myelosuppressive doses of radiation (Hematopoietic Syndrome of Acute Radiation Syndrome) that efficacy studies of filgrastim products for this indication could not be conducted in humans for ethical and feasibility reasons and that, therefore, approval of this use was based on efficacy studies conducted in animals [see Clinical Studies (14.6)].
+
 Instruct patients who self-administer RELEUKO using the prefilled syringe or single-dose vial of the:
 
 - Importance of following the applicable Instructions for Use.
 - Dangers of reusing needles, syringes, or unused portions of single-dose vials.
-- Importance of following local requirements for proper disposal of used syringes, needles and unused vials.
+- Importance of following local requirements for proper disposal of used syringes, needles, and unused vials.
 - Importance of informing the healthcare provider if difficulty occurs when measuring or administering partial contents of the RELEUKO prefilled syringe.
   If difficulty occurs, use of the RELEUKO vial may be considered.
 - Difference in product concentration of the RELEUKO prefilled syringe in comparison to the RELEUKO vial.
   When switching patients from the RELEUKO prefilled syringe to the RELEUKO vial, or vice versa, ensure that patients understand the correct volume to be administered since the concentration of RELEUKO differs between the prefilled syringe and the vial.
-
-RELEUKO® (filgrastim-ayow)
 
 Manufactured by:
 
@@ -55,4 +55,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-08-2023-03
+04-2025-05

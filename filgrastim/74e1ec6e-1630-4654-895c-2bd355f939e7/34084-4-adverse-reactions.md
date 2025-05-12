@@ -79,7 +79,30 @@ Adverse reactions with ≥ 5% higher incidence in filgrastim patients compared t
 
 Adverse reactions in patients receiving intensive chemotherapy followed by autologous BMT with ≥ 5% higher incidence in filgrastim patients compared to patients receiving no filgrastim included thrombocytopenia, anemia, hypertension, sepsis, bronchitis, and insomnia.
 
-Adverse Reactions in Patients with Severe Chronic Neutropenia The following adverse reaction data were identified in a randomized, controlled study in patients with SCN receiving filgrastim (Study 7).
+Adverse Reactions in Patients with Cancer Undergoing Autologous Peripheral Blood Progenitor Cell Collection
+
+The adverse reaction data in Table 3 are from a series of 7 trials in patients with cancer undergoing mobilization of autologous peripheral blood progenitor cells for collection by leukapheresis.
+Patients (n = 166) in all these trials underwent a similar mobilization/collection regimen: Filgrastim was administered for 6 to 8 days‚ in most cases the apheresis procedure occurred on days 5‚ 6, and 7.
+The dosage of filgrastim ranged between 5 to 30 mcg/kg/day and was administered subcutaneously by injection or continuous infusion.
+The median age was 39 (range 15 to 67) years, and 48% were male.
+
+Table 3.
+Adverse Reactions in Patients with Cancer Undergoing Autologous PBPC in the Mobilization Phase (≥ 5% Incidence in Filgrastim Patients)
+
+| System Organ Class Preferred Term | Mobilization Phase (N = 166) |
+| --- | --- |
+| Musculoskeletal and connective tissue disorders |  |
+| Bone pain | 30% |
+| General disorders and administration site conditions |  |
+| Pyrexia | 16% |
+| Investigations |  |
+| Blood alkaline phosphatase increased | 11% |
+| Nervous system disorders |  |
+| Headache | 10% |
+
+Adverse Reactions in Patients with Severe Chronic Neutropenia
+
+The following adverse reaction data were identified in a randomized, controlled study in patients with SCN receiving filgrastim (Study 7).
 123 patients were randomized to a 4-month observation period followed by subcutaneous filgrastim treatment or immediate subcutaneous filgrastim treatment.
 The median age was 12 years (range 7 months to 76 years) and 46% were male.
 The dosage of filgrastim was determined by the category of neutropenia.
@@ -92,7 +115,7 @@ Initial dosage of filgrastim:
 
 The dosage was increased incrementally to 12 mcg/kg/day divided 2 times per day if there was no response.
 
-Adverse reactions with ≥ 5% higher incidence in filgrastim patients compared to patients receiving no filgrastim included arthralgia, bone pain, back pain, muscle spasms, musculoskeletal pain, pain in extremity, splenomegaly, anemia, upper respiratory tract infection, and urinary tract infection (upper respiratory tract infection and urinary tract infection were higher in the filgrastim arm, total infection related events were lower in filgrastim treated patients), epistaxis, chest pain, diarrhea, hypoesthesia, and alopecia.
+Adverse reactions with ≥ 5% higher incidence in filgrastim patients compared to patients receiving no filgrastim included arthralgia, bone pain, back pain, muscle spasms, musculoskeletal pain, pain in extremity, splenomegaly, anemia, upper respiratory tract infection, and urinary tract infection (upper respiratory tract infection and urinary tract infection were higher in the filgrastim arm, total infection related events were lower in filgrastim-treated patients), epistaxis, chest pain, diarrhea, hypoesthesia, and alopecia.
 
 ## 6.2 Postmarketing Experience
 
