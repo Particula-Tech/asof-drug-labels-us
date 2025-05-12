@@ -20,7 +20,7 @@ Instruct patients and their caregivers to look for signs of activation of mania/
 
 Aggression or Hostility
 
-Instruct patients and their caregivers to contact their healthcare provider as soon as possible should they notice an increase in aggression or hostility[see Warnings and Precautions (5.7)].
+Instruct patients and their caregivers to contact their healthcare provider as soon as possible should they notice an increase in aggression or hostility [see Warnings and Precautions (5.7)].
 
 Priapism
 
@@ -54,6 +54,14 @@ Interference with Psychomotor Performance
 
 Patients should be instructed to use caution when driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected by atomoxetine.
 
-Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html
+Dispense with Medication Guide available at: https://risingpharma.com/Medguides/AtomoxetineCapsulesUSPMG.pdf
 
-Distributed by: Rising Pharmaceuticals, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 01/2023
+Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
+
+Made in India
+
+Code: TS/DRUGS/19/1993
+
+Revised: 04/2025
+
+Dispense with Medication Guide available at: https://risingpharma.com/Medguides/AtomoxetineCapsulesUSPMG.pdf

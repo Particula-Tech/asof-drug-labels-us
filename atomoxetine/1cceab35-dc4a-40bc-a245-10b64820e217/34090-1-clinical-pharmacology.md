@@ -34,9 +34,10 @@ In clinical trials with children and adolescents, administration of atomoxetine 
 The steady-state volume of distribution after intravenous administration is 0.85 L/kg indicating that atomoxetine distributes primarily into total body water.
 Volume of distribution is similar across the patient weight range after normalizing for body weight.
 At therapeutic concentrations, 98% of atomoxetine in plasma is bound to protein, primarily albumin.
+
 Metabolism and elimination — Atomoxetine is metabolized primarily through the CYP2D6 enzymatic pathway.
 People with reduced activity in this pathway (PMs) have higher plasma concentrations of atomoxetine compared with people with normal activity (Ems).
-For PMs, AUC of atomoxetine is approximately 10-fold and Css,max is about 5-fold greater than Ems.
+For PMs, AUC of atomoxetine is approximately 10-fold and Css, max is about 5-fold greater than Ems.
 Laboratory tests are available to identify CYP2D6 PMs.
 Coadministration of atomoxetine with potent inhibitors of CYP2D6, such as fluoxetine, paroxetine, or quinidine, results in a substantial increase in atomoxetine plasma exposure, and dosing adjustment may be necessary [see Warnings and Precautions (5.13)].
 Atomoxetine did not inhibit or induce the CYP2D6 pathway.

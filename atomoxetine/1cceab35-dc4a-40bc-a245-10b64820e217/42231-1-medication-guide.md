@@ -1,4 +1,4 @@
-Dispense with Medication Guide available at: http://www.risingpharma.com/med-guides.html MEDICATION GUIDE Atomoxetine Capsules, USP
+MEDICATION GUIDE Atomoxetine Capsules, USP
 
 (a'' toe mox' e teen) Read the Medication Guide that comes with atomoxetine capsules before you or your child starts taking them and each time you get a refill.
 There may be new information.
@@ -216,7 +216,7 @@ They may harm them.
 This Medication Guide summarizes the most important information about atomoxetine capsules.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about atomoxetine capsules that was written for healthcare professionals.
-For more information about atomoxetine capsules call 1-866-562-4597 (toll-free).
+For more information about atomoxetine capsules call 1-844-874-7464 (toll-free).
 
 What are the ingredients in atomoxetine capsules?
 
@@ -234,4 +234,11 @@ Parnate® is a registered trademark of GlaxoSmithKline.
 Emsam® is a registered trademark of Somerset Pharmaceuticals Inc.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Distributed by: Rising Pharmaceuticals, Inc. East Brunswick, NJ 08816 Made in India Code: TS/DRUGS/19/1993 Revised: 01/2023
+
+Distributed by: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
+
+Made in India
+
+Code: TS/DRUGS/19/1993
+
+Revised: 04/2025
