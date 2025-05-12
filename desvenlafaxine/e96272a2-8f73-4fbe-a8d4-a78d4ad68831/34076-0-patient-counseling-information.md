@@ -65,11 +65,13 @@ Residual Inert Matrix Tablet
 Patients receiving desvenlafaxine extended-release tablets may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
 
+LUPIN and theare registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
@@ -81,4 +83,4 @@ Goa - 403 722
 
 INDIA.
 
-Revised: September 2023 ID#: 274584
+Revised: June 2024 ID#: 276180
