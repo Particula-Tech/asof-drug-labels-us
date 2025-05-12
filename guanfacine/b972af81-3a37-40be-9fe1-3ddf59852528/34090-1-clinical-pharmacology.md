@@ -8,13 +8,13 @@ The mechanism of action of guanfacine in ADHD is not known.
 
 ## 12.2 Pharmacodynamics
 
-Guanfacine is a selective central alpha2A-adrenergic receptor agonist in that it has a 15-20 times higher affinity for this receptor subtype than for the alpha2B or alpha2C subtypes.
+Guanfacine is a selective central alpha2A-adrenergic receptor agonist in that it has a 15 to 20 times higher affinity for this receptor subtype than for the alpha2B or alpha2C subtypes.
 
 Guanfacine is a known antihypertensive agent.
 By stimulating central alpha2A-adrenergic receptors, guanfacine reduces sympathetic nerve impulses from the vasomotor center to the heart and blood vessels.
 This results in a decrease in peripheral vascular resistance and a reduction in heart rate.
 
-In a thorough QT study, the administration of two dose levels of immediate-release guanfacine (4 mg and 8 mg) produced concentrations approximately 2 to 4 times the concentrations observed with the maximum recommended dose of INTUNIV® of 0.12 mg/kg.
+In a thorough QT study, the administration of two dose levels of immediate-release guanfacine (4 mg and 8 mg) produced concentrations approximately 2 to 4 times the concentrations observed with the maximum recommended dose of INTUNIV of 0.12 mg/kg.
 Guanfacine was not shown to prolong the QTc interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
@@ -22,17 +22,17 @@ Guanfacine was not shown to prolong the QTc interval to any clinically relevant 
 Absorption and Distribution
 
 Guanfacine is readily absorbed and approximately 70% bound to plasma proteins independent of drug concentration.
-After oral administration of INTUNIV® the time to peak plasma concentration is approximately 5 hours in children and adolescents with ADHD.
+After oral administration of INTUNIV the time to peak plasma concentration is approximately 5 hours in children and adolescents with ADHD.
 
-Immediate-release guanfacine and INTUNIV® have different pharmacokinetic characteristics; dose substitution on a milligram per milligram basis will result in differences in exposure.
+Immediate-release guanfacine and INTUNIV have different pharmacokinetic characteristics; dose substitution on a milligram per milligram basis will result in differences in exposure.
 
-A comparison across studies suggests that the Cmax is 60% lower and AUC0-∞ 43% lower, respectively, for INTUNIV® compared to immediate-release guanfacine.
-Therefore, the relative bioavailability of INTUNIV® to immediate-release guanfacine is 58%.
-The mean pharmacokinetic parameters in adults following the administration of INTUNIV® 1 mg once daily and immediate-release guanfacine 1mg once daily are summarized in Table 15.
+A comparison across studies suggests that the Cmax is 60% lower and AUC0-∞ 43% lower, respectively, for INTUNIV compared to immediate-release guanfacine.
+Therefore, the relative bioavailability of INTUNIV to immediate-release guanfacine is 58%.
+The mean pharmacokinetic parameters in adults following the administration of INTUNIV 1 mg once daily and immediate-release guanfacine 1 mg once daily are summarized in Table 15.
 
-Table 15: Comparison of Pharmacokinetics: INTUNIV® vs. Immediate release Guanfacine in Adults
+Table 15: Comparison of Pharmacokinetics: INTUNIV vs. Immediate release Guanfacine in Adults
 
-| Parameter | INTUNIV® 1 mg once daily (n=52) | Immediate-release guanfacine 1 mg once daily (n=12) |
+| Parameter | INTUNIV 1 mg once daily (n=52) | Immediate-release guanfacine 1 mg once daily (n=12) |
 | --- | --- | --- |
 | Cmax (ng/mL) | 1.0 ± 0.3 | 2.5 ± 0.6 |
 | AUC0-∞ (ng∙h/mL) | 32 ± 9 | 56 ± 15 |
@@ -40,23 +40,23 @@ Table 15: Comparison of Pharmacokinetics: INTUNIV® vs. Immediate release Guanfa
 | t½ (h) | 18 ± 4 | 16 ± 3 |
 | Note: Values are mean +/- SD, except for tmax which is median (range) |  |  |
 
-Figure 1: Comparison of Pharmacokinetics: INTUNIV® vs. Immediate-release guanfacine in Adults
+Figure 1: Comparison of Pharmacokinetics: INTUNIV vs. Immediate-release guanfacine in Adults
 
-Exposure to guanfacine was higher in children (ages 6-12) compared to adolescents (ages 13-17) and adults.
-After oral administration of multiple doses of INTUNIV® 4 mg, the Cmax was 10 ng/mL compared to 7 ng/mL and the AUC was 162 ng∙h/mL compared to 116 ng∙h/mL in children (ages 6-12) and adolescents (ages 13-17), respectively.
+Exposure to guanfacine was higher in children (ages 6 to 12) compared to adolescents (ages 13 to 17) and adults.
+After oral administration of multiple doses of INTUNIV 4 mg, the Cmax was 10 ng/mL compared to 7 ng/mL and the AUC was 162 ng∙h/mL compared to 116 ng∙h/mL in children (ages 6 to 12) and adolescents (ages 13 to 17), respectively.
 These differences are probably attributable to the lower body weight of children compared to adolescents and adults.
 
-The pharmacokinetics were affected by intake of food when a single dose of INTUNIV® 4 mg was administered with a high-fat breakfast.
+The pharmacokinetics were affected by intake of food when a single dose of INTUNIV 4 mg was administered with a high-fat breakfast.
 The mean exposure increased (Cmax ~75% and AUC ~40%) compared to dosing in a fasted state.
 
 Dose Proportionality
 
-Following administration of INTUNIV® in single doses of 1 mg, 2 mg, 3 mg, and 4 mg to adults, Cmax and AUC0-∞ of guanfacine were proportional to dose.
+Following administration of INTUNIV in single doses of 1 mg, 2 mg, 3 mg, and 4 mg to adults, Cmax and AUC0-∞ of guanfacine were proportional to dose.
 
 Metabolism and Elimination
 
 In vitro studies with human liver microsomes and recombinant CYP's demonstrated that guanfacine was primarily metabolized by CYP3A4.
-In pooled human hepatic microsomes, guanfacine did not inhibit the activities of the major cytochrome P450 isoenzymes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A4/5); guanfacine is also not an inducer of CYP3A, CYP1A2 and CYP2B6.
+In pooled human hepatic microsomes, guanfacine did not inhibit the activities of the major cytochrome P450 isoenzymes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4/5); guanfacine is also not an inducer of CYP3A, CYP1A2, and CYP2B6.
 Guanfacine is a substrate of CYP3A4/5 and exposure is affected by CYP3A4/5 inducers/inhibitors.
 
 Guanfacine inhibits MATE1 and OCT1, but does not inhibit BSEP, MRP2, OATP1B1, OATP1B3, OAT1, OAT3, OCT2, or MATE2K.
@@ -81,8 +81,8 @@ Drug Interaction Studies
 
 Guanfacine is primarily metabolized by CYP3A4 and its plasma concentrations can be affected significantly by CYP3A4 inhibitors or inducers (Figure 2).
 
-Figure 2: Effect of Other Drugs on the Pharmacokinetics (PK) of INTUNIV®
+Figure 2: Effect of Other Drugs on the Pharmacokinetics (PK) of INTUNIV
 
 Guanfacine does not significantly affect exposures of methylphenidate and lisdexamfetamine when coadministered (Figure 3).
 
-Figure 3: Effect of INTUNIV® on the Pharmacokinetics (PK) of Other Drugs
+Figure 3: Effect of INTUNIV on the Pharmacokinetics (PK) of Other Drugs

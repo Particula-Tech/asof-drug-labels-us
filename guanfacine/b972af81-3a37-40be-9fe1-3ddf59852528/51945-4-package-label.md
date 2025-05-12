@@ -10,11 +10,11 @@ Each tablet contains: 1 mg of guanfacine, as guanfacine HCl
 
 Tablets should not be crushed, chewed or broken before swallowing.
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
+Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
 Takeda
 
-Made in Spain
+Product of Spain
 
 # PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
 
@@ -28,11 +28,11 @@ Each tablet contains: 2 mg of guanfacine, as guanfacine HCl
 
 Tablets should not be crushed, chewed or broken before swallowing.
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
+Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
 Takeda
 
-Made in Spain
+Product of Spain
 
 # PRINCIPAL DISPLAY PANEL - 3 mg Tablet Bottle Label
 
@@ -46,11 +46,11 @@ Each tablet contains: 3 mg of guanfacine, as guanfacine HCl
 
 Tablets should not be crushed, chewed or broken before swallowing.
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
+Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
 Takeda
 
-Made in Spain
+Product of Spain
 
 # PRINCIPAL DISPLAY PANEL - 4 mg Tablet Bottle Label
 
@@ -64,11 +64,11 @@ Each tablet contains: 4 mg of guanfacine, as guanfacine HCl
 
 Tablets should not be crushed, chewed or broken before swallowing.
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
+Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
 Takeda
 
-Made in Spain
+Product of Spain
 
 # PRINCIPAL DISPLAY PANEL - NDC 54092-520-01
 

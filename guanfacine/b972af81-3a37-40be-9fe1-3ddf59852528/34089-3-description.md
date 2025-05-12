@@ -1,8 +1,8 @@
 # 11 DESCRIPTION
 
-INTUNIV® is a once-daily, extended-release formulation of guanfacine hydrochloride (HCl) in a matrix tablet formulation for oral administration only.
+INTUNIV is a once-daily, extended-release formulation of guanfacine hydrochloride (HCl) in a matrix tablet formulation for oral administration only.
 The chemical designation is N-amidino-2-(2,6-dichlorophenyl) acetamide monohydrochloride.
-The molecular formula is C9H9Cl2 N3O∙HCl corresponding to a molecular weight of 282.55.
+The molecular formula is C9H9Cl2 N3O∙HCl corresponding to a molecular weight of 282.55 g/mol.
 The chemical structure is:
 
 Guanfacine HCl is a white to off-white crystalline powder, sparingly soluble in water (approximately 1 mg/mL) and alcohol and slightly soluble in acetone.

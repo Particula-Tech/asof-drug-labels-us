@@ -34,7 +34,7 @@ There are no data on the presence of guanfacine in human milk or the effects on 
 The effects on milk production are also unknown.
 Guanfacine is present in the milk of lactating rats (see Data).
 If a drug is present in animal milk, it is likely that the drug will be present in human milk.
-If an infant is exposed to guanfacine through breastmilk, monitor for symptoms of hypotension and bradycardia such as sedation, lethargy and poor feeding (see Clinical Considerations).
+If an infant is exposed to guanfacine through breastmilk, monitor for symptoms of hypotension and bradycardia such as sedation, lethargy, and poor feeding (see Clinical Considerations).
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for INTUNIV and any potential adverse effects on the breastfed child from INTUNIV or from the underlying maternal condition.
 
 Clinical Considerations
@@ -48,8 +48,8 @@ The concentration of drug in animal milk does not necessarily predict the concen
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of INTUNIV® in pediatric patients less than 6 years of age have not been established.
-The efficacy of INTUNIV® was studied for the treatment of ADHD in five controlled monotherapy clinical trials (up to 15 weeks in duration), one randomized withdrawal study and one controlled adjunctive trial with psychostimulants (8 weeks in duration) in children and adolescents ages 6-17 who met DSM-IV® criteria for ADHD [see Adverse Reactions (6) and Clinical Studies (14)].
+Safety and efficacy of INTUNIV in pediatric patients less than 6 years of age have not been established.
+The efficacy of INTUNIV was studied for the treatment of ADHD in five controlled monotherapy clinical trials (up to 15 weeks in duration), one randomized withdrawal study and one controlled adjunctive trial with psychostimulants (8 weeks in duration) in children and adolescents ages 6 to 17 who met DSM-IV® criteria for ADHD [see Adverse Reactions (6) and Clinical Studies (14)].
 
 Animal Data
 
@@ -66,7 +66,7 @@ These findings were not observed with guanfacine alone at 1 mg/kg/day or methylp
 
 ## 8.5 Geriatric Use
 
-The safety and efficacy of INTUNIV® in geriatric patients have not been established.
+The safety and efficacy of INTUNIV in geriatric patients have not been established.
 
 ## 8.6 Renal Impairment
 

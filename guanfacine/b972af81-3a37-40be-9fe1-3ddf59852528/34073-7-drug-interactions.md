@@ -1,8 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-Table 14 contains clinically important drug interactions with INTUNIV® [see Clinical Pharmacology (12.3)].
+Table 14 contains clinically important drug interactions with INTUNIV [see Clinical Pharmacology (12.3)].
 
-Table 14: Clinically Important Drug Interactions: Effect of other Drugs on INTUNIV®
+Table 14: Clinically Important Drug Interactions: Effect of other Drugs on INTUNIV
 
 | Concomitant Drug Name or Drug Class | Clinical Rationale and Magnitude of Drug Interaction | Clinical Recommendation |
 | --- | --- | --- |

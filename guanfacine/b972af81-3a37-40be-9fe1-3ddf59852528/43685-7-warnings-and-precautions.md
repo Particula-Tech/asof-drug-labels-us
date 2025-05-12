@@ -2,7 +2,7 @@
 
 ## 5.1 Hypotension, Bradycardia, and Syncope
 
-Treatment with INTUNIV® can cause dose-dependent decreases in blood pressure and heart rate.
+Treatment with INTUNIV can cause dose-dependent decreases in blood pressure and heart rate.
 Decreases were less pronounced over time of treatment.
 Orthostatic hypotension and syncope have been reported [see Adverse Reactions (6.1)].
 
@@ -14,22 +14,22 @@ Monitor blood pressure and heart rate, and adjust dosages accordingly in patient
 ## 5.2 Sedation and Somnolence
 
 Somnolence and sedation were commonly reported adverse reactions in clinical studies [see Adverse Reactions (6.1)].
-Before using INTUNIV® with other centrally active depressants, consider the potential for additive sedative effects.
-Caution patients against operating heavy equipment or driving until they know how they respond to treatment with INTUNIV®.
+Before using INTUNIV with other centrally active depressants, consider the potential for additive sedative effects.
+Caution patients against operating heavy equipment or driving until they know how they respond to treatment with INTUNIV.
 Advise patients to avoid use with alcohol.
 
 ## 5.3 Cardiac Conduction Abnormalities
 
-The sympatholytic action of INTUNIV® may worsen sinus node dysfunction and atrioventricular (AV) block, especially in patients taking other sympatholytic drugs.
+The sympatholytic action of INTUNIV may worsen sinus node dysfunction and atrioventricular (AV) block, especially in patients taking other sympatholytic drugs.
 Titrate INTUNIV slowly and monitor vital signs frequently in patients with cardiac conduction abnormalities or patients concomitantly treated with other sympatholytic drugs.
 
 ## 5.4 Rebound Hypertension
 
-In post marketing experience, abrupt discontinuation of INTUNIV® has resulted in clinically significant and persistent rebound hypertension above baseline levels and increases in heart rate.
-Hypertensive encephalopathy has also been reported in association with rebound hypertension with both INTUNIV® and immediate release guanfacine [see Adverse Reactions (6.2)].
+In post marketing experience, abrupt discontinuation of INTUNIV has resulted in clinically significant and persistent rebound hypertension above baseline levels and increases in heart rate.
+Hypertensive encephalopathy has also been reported in association with rebound hypertension with both INTUNIV and immediate release guanfacine [see Adverse Reactions (6.2)].
 In these cases, high-dosage guanfacine was discontinued; concomitant stimulant use was also reported, which may potentially increase hypertensive response upon abrupt discontinuation of guanfacine.
 Children commonly have gastrointestinal illnesses that lead to vomiting, and a resulting inability to take medications, so they may be especially at risk for rebound hypertension.
 
-To minimize the risk of rebound hypertension upon discontinuation, the total daily dose of INTUNIV® should be tapered in decrements of no more than 1 mg every 3 to 7 days [see Dosage and Administration (2.5)].
-Blood pressure and heart rate should be monitored when reducing the dose or discontinuing INTUNIV®.
+To minimize the risk of rebound hypertension upon discontinuation, the total daily dose of INTUNIV should be tapered in decrements of no more than 1 mg every 3 to 7 days [see Dosage and Administration (2.5)].
+Blood pressure and heart rate should be monitored when reducing the dose or discontinuing INTUNIV.
 If abrupt discontinuation occurs (especially with concomitant stimulant use), patients should be closely followed for rebound hypertension.
