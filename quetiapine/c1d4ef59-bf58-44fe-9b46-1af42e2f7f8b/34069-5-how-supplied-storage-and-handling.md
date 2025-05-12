@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Quetiapine Tablets, USP are available as follows:
+Quetiapine tablets, USP are available as follows:
 
 25 mg – light orange, round, biconvex, film-coated, unscored tablets, debossed with “93” on one side and “V7” on the other side, in bottles of 100 (NDC 0093-2063-01).
 
@@ -14,8 +14,8 @@ Quetiapine Tablets, USP are available as follows:
 
 400 mg – white to off-white, capsule-shaped, biconvex, film-coated, unscored tablets, debossed with “93” on one side and “8165” on the other side, in bottles of 100 (NDC 0093-8165-01).
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all medications out of the reach of children.
