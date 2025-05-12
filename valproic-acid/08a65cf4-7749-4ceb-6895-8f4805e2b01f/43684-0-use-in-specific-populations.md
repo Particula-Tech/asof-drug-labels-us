@@ -196,7 +196,7 @@ A higher percentage of patients above 65 years of age reported accidental injury
 Discontinuation of valproate was occasionally associated with the latter two events.
 It is not clear whether these events indicate additional risk or whether they result from preexisting medical illness and concomitant medication use among these patients.
 
-A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.14)].
+A study of elderly patients with dementia revealed drug related somnolence and discontinuation for somnolence [see Warnings and Precautions (5.16)].
 The starting dose should be reduced in these patients, and dosage reductions or discontinuation should be considered in patients with excessive somnolence [see Dosage and Administration (2.4)].
 
 There is insufficient information available to discern the safety and effectiveness of valproate for the prophylaxis of migraines in patients over 65.
