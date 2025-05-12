@@ -74,7 +74,7 @@ Among the LYRICA-treated patients, 80% completed the double-blind phase of the s
 
 Table 11 shows median baseline seizure rates and median percent reduction in seizure frequency by dose.
 
-Table 9.
+Table 11.
 Seizure Response in Controlled, Adjunctive Epilepsy Studies in Adults
 
 | Daily Dose of Pregabalin | Dosing Regimen | N | Baseline Seizure Frequency/mo | Median % Change from Baseline | p-value, vs. placebo |
@@ -187,7 +187,7 @@ The figure is cumulative.
 Patients who did not complete the study were assigned 0% improvement.
 Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
 
-Table 10.
+Table 14.
 Patient Global Response in Fibromyalgia Study F1
 
 | Patient Global Impression of Change |  |  |
@@ -231,10 +231,10 @@ Study SCI 1: This 12-week, randomized, double-blind, parallel-group, multicenter
 The 12-week study consisted of a 3‑week dose adjustment phase and a 9-week dose maintenance phase.
 Treatment with LYRICA 150-600 mg/day statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
 The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 12 is presented in Figure 11.
-Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
+Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.
 
 Study SCI 2: This 16-week, randomized, double-blind, placebo-controlled, parallel-group, multicenter, flexible dose (150-600 mg/day, in increments of 150 mg) study compared the efficacy, safety and tolerability of pregabalin with placebo.
 The 16-week study consisted of a 4‑week dose adjustment phase and a 12-week dose maintenance phase.
 Treatment with LYRICA statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
 The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 16 is presented in Figure 12.
-Some patients experienced a decrease in pain as early as Week 1, which persisted throughout the study.
+Some patients experienced a decrease in pain as early as week 1, which persisted throughout the study.

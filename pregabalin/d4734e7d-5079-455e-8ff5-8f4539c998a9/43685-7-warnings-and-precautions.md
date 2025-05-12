@@ -18,7 +18,8 @@ Discontinue LYRICA immediately in patients with these symptoms.
 
 ## 5.3 Suicidal Behavior and Ideation
 
-Antiepileptic drugs (AEDs), including LYRICA, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Antiepileptic drugs (AEDs), including pregabalin, the active ingredient in LYRICA, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Suicidal behavior and ideation have also been reported in patients after discontinuation of pregabalin [see Warnings and Precautions (5.4)].
 Monitor patients treated with any AED for any indication for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
@@ -50,7 +51,16 @@ Anyone considering prescribing LYRICA or any other AED must balance the risk of 
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-## 5.4 Respiratory Depression
+## 5.4 Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation
+
+As with all antiepileptic drugs (AEDs), withdraw LYRICA gradually to minimize the potential of increased seizure frequency in patients with seizure disorders.
+
+Following abrupt or rapid discontinuation of LYRICA, some patients reported symptoms including insomnia, nausea, headache, anxiety, hyperhidrosis, and diarrhea [see Adverse Reactions (6.2), Drug Abuse and Dependence (9.3)].
+Suicidal behavior and ideation have also been reported in patients after discontinuation of pregabalin [see Warnings and Precautions (5.3)].
+
+If LYRICA is discontinued, taper the drug gradually over a minimum of 1 week rather than discontinue the drug abruptly.
+
+## 5.5 Respiratory Depression
 
 There is evidence from case reports, human studies, and animal studies associating LYRICA with serious, life-threatening, or fatal respiratory depression when co-administered with central nervous system (CNS) depressants, including opioids, or in the setting of underlying respiratory impairment.
 When the decision is made to co-prescribe LYRICA with another CNS depressant, particularly an opioid, or to prescribe LYRICA to patients with underlying respiratory impairment, monitor patients for symptoms of respiratory depression and sedation, and consider initiating LYRICA at a low dose.
@@ -58,7 +68,7 @@ The management of respiratory depression may include close observation, supporti
 
 There is more limited evidence from case reports, animal studies, and human studies associating LYRICA with serious respiratory depression, without co-administered CNS depressants or without underlying respiratory impairment.
 
-## 5.5 Dizziness and Somnolence
+## 5.6 Dizziness and Somnolence
 
 LYRICA may cause dizziness and somnolence.
 Inform patients that LYRICA-related dizziness and somnolence may impair their ability to perform tasks such as driving or operating machinery [see Patient Counseling Information (17)].
@@ -70,14 +80,6 @@ In LYRICA-treated patients reporting these adverse reactions in short-term, cont
 
 In the LYRICA controlled trials in pediatric patients 4 to less than 17 years of age and 1 month to less than 4 years of age for the treatment of partial-onset seizures, somnolence was reported in 21% and 15% of LYRICA-treated patients compared to 14% and 9% of placebo-treated patients, respectively, and occurred more frequently at higher doses.
 For patients 1 month to less than 4 years of age, somnolence includes related terms lethargy, sluggishness, and hypersomnia.
-
-## 5.6 Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation
-
-As with all antiepileptic drugs (AEDs), withdraw LYRICA gradually to minimize the potential of increased seizure frequency in patients with seizure disorders.
-
-Following abrupt or rapid discontinuation of LYRICA, some patients reported symptoms including insomnia, nausea, headache, anxiety, hyperhidrosis, and diarrhea.
-
-If LYRICA is discontinued, taper the drug gradually over a minimum of 1 week rather than discontinue the drug abruptly.
 
 ## 5.7 Peripheral Edema
 
@@ -102,7 +104,7 @@ Because there are limited data on congestive heart failure patients with New Yor
 LYRICA treatment may cause weight gain.
 In LYRICA controlled clinical trials in adult patients of up to 14 weeks, a gain of 7% or more over baseline weight was observed in 9% of LYRICA‑treated patients and 2% of placebo-treated patients.
 Few patients treated with LYRICA (0.3%) withdrew from controlled trials due to weight gain.
-LYRICA associated weight gain was related to dose and duration of exposure, but did not appear to be associated with baseline BMI, gender, or age.
+LYRICA associated weight gain was related to dose and duration of exposure but did not appear to be associated with baseline BMI, gender, or age.
 Weight gain was not limited to patients with edema [see Warnings and Precautions (5.7)].
 
 Although weight gain was not associated with clinically important changes in blood pressure in short-term controlled studies, the long-term cardiovascular effects of LYRICA-associated weight gain are unknown.

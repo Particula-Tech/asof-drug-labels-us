@@ -14,12 +14,26 @@ Information on the registry can also be found at the website http://www.aedpregn
 Observational studies on the use of Lyrica during pregnancy suggest a possible small increase in the rate of overall major birth defects, but there was no consistent or specific pattern of major birth defects identified (see Data).
 Available postmarketing data on miscarriage and other maternal, fetal, and long term developmental adverse effects were insufficient to identify risk associated with pregabalin.
 
+Postmarketing data suggest that extended gabapentinoid use with opioids close to delivery may increase the risk of neonatal withdrawal versus opioids alone (see Clinical Considerations).
+There are no comparative epidemiologic studies evaluating this association.
+Therefore, it is not known whether exposure to pregabalin alone late in pregnancy may cause withdrawal signs and symptoms.
+
 In animal reproduction studies, increased incidences of fetal structural abnormalities and other manifestations of developmental toxicity, including skeletal malformations, retarded ossification, and decreased fetal body weight were observed in the offspring of rats and rabbits given pregabalin orally during organogenesis, at doses that produced plasma pregabalin exposures (AUC) greater than or equal to 16 times human exposure at the maximum recommended dose (MRD) of 600 mg/day (see Data).
 In an animal development study, lethality, growth retardation, and nervous and reproductive system functional impairment were observed in the offspring of rats given pregabalin during gestation and lactation.
 The no-effect dose for developmental toxicity was approximately twice the human exposure at MRD.
 
-The background risk of major birth defects and miscarriage for the indicated populations are unknown.
-However, the background risk in the U.S. general population of major birth defects is 2-4% and of miscarriage is 15-20% of clinically recognized pregnancies.
+The estimated background risk of major birth defects and miscarriage for the indicated populations are unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+### Clinical Considerations
+
+#### Fetal/Neonatal Adverse Reactions
+
+Neonatal withdrawal syndrome has been reported in newborns exposed to gabapentinoids in utero for an extended period of time when also exposed to opioids close to delivery.
+Neonatal withdrawal signs and symptoms reported have included tachypnea, vomiting, diarrhea, hypertonia, irritability, sneezing, poor feeding, hyperactivity, abnormal sleep pattern, and tremor.
+Reported signs and symptoms that may also be related to withdrawal include tongue thrusting, wandering eye movements while awake, back arching, and continuous extremity movements.
+Observe neonates exposed to LYRICA and opioids for signs and symptoms of neonatal withdrawal and manage accordingly.
 
 ### Data
 
@@ -127,7 +141,7 @@ The most common adverse reactions (≥5%) with LYRICA in this study were somnole
 
 The use of LYRICA 2.5 mg/kg/day in pediatric patients is further supported by evidence from adequate and well‑controlled studies in adults with partial-onset seizures and pharmacokinetic data from adult and pediatric patients [see Clinical Pharmacology (12.3)].
 
-#### 1 Month to Less Than 4 Years of Age with Partial-Onset Seizures
+#### 1 Month to Less than 4 Years of Age with Partial-Onset Seizures
 
 The safety and effectiveness of LYRICA as adjunctive treatment for partial‑onset seizures in pediatric patients 1 month to less than 4 years of age have been established in a 14‑day double‑blind, placebo-controlled study (N=175) [see Clinical Studies (14.3)].
 The youngest subject evaluated was 3 months of age; use in patients 1 month to less than 3 months of age is supported by additional pharmacokinetic analyses.

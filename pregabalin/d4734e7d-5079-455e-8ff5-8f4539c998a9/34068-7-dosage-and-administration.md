@@ -4,7 +4,7 @@
 
 LYRICA is given orally with or without food.
 
-When discontinuing LYRICA, taper gradually over a minimum of 1 week [see Warnings and Precautions (5.6)].
+When discontinuing LYRICA, taper gradually over a minimum of 1 week [see Warnings and Precautions (5.4)].
 
 Because LYRICA is eliminated primarily by renal excretion, adjust the dose in adult patients with reduced renal function [see Dosage and Administration (2.7)].
 
@@ -39,7 +39,7 @@ Recommended Dosage for Adults and Pediatric Patients 1 Month and Older
 | Age and Body Weight | Recommended Initial Dosage | Recommended Maximum Dosage | Frequency of Administration |
 | --- | --- | --- | --- |
 | Adults (17 years and older) | 150 mg/day | 600 mg/day | 2 or 3 divided doses |
-| Pediatric patients weighting 30 kg or more | 2.5 mg/kg/day | 10 mg/kg/day (not to exceed 600 mg/day) | 2 or 3 divided doses |
+| Pediatric patients weighing 30 kg or more | 2.5 mg/kg/day | 10 mg/kg/day (not to exceed 600 mg/day) | 2 or 3 divided doses |
 | Pediatric patients weighing less than 30 kg | 3.5 mg/kg/day | 14 mg/kg/day | 1 month to less than 4 years of age: 3 divided doses4 years of age and older: 2 or 3 divided doses |
 
 Both the efficacy and adverse event profiles of LYRICA have been shown to be dose-related.

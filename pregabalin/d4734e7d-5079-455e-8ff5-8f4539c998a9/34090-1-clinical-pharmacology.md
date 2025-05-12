@@ -72,7 +72,7 @@ Reduction of pregabalin dose may be required in patients who have age-related co
 
 Pediatric Pharmacokinetics
 
-Pediatric Patients (3 Months to Less Than 17 Years of Age)
+Pediatric Patients (3 months to less than 17 years of age)
 
 Pregabalin pharmacokinetics were evaluated in 358 pediatric patients 3 months to less than 17 years of age with partial‑onset seizures at dose levels of 2.5, 5, 10, and 15 mg/kg/day after single and multiple oral administration of pregabalin.
 Following oral administration, pregabalin reaches peak plasma concentration at 0.5 hours to 2 hours in the fasted state.
@@ -89,7 +89,7 @@ When normalized per body weight, CL/F (mL/min/kg) in pediatric subjects weighing
 
 Pregabalin, at concentrations that were, in general, 10-times those attained in clinical trials, does not inhibit human CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4 enzyme systems.
 In vitro drug interaction studies demonstrate that pregabalin does not induce CYP1A2 or CYP3A4 activity.
-Therefore, an increase in the metabolism of coadministered CYP1A2 substrates (e.g., theophylline, caffeine) or CYP3A4 substrates (e.g., midazolam, testosterone) is not anticipated.
+Therefore, an increase in the metabolism of coadministered CYP1A2 substrates (e.g., theophylline, caffeine) or CYP3A4 substrates (e.g. midazolam, testosterone) is not anticipated.
 
 #### In Vivo Studies
 
@@ -118,7 +118,7 @@ Ethanol
 
 Multiple-dose administration of pregabalin (300 mg twice a day) in healthy subjects had no effect on the rate and extent of ethanol single-dose pharmacokinetics and single-dose administration of ethanol (0.7 g/kg) had no effect on the steady-state pharmacokinetics of pregabalin.
 
-Phenytoin, Carbamazepine, Valproic Acid, and Lamotrigine
+Phenytoin, carbamazepine, valproic acid, and lamotrigine
 
 Steady-state trough plasma concentrations of phenytoin, carbamazepine and carbamazepine 10,11 epoxide, valproic acid, and lamotrigine were not affected by concomitant pregabalin (200 mg three times a day) administration.
 

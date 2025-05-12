@@ -8,7 +8,7 @@ Pregabalin is a white to off-white, crystalline solid with a pKa1 of 4.2 and a p
 It is freely soluble in water and both basic and acidic aqueous solutions.
 The log of the partition coefficient (n-octanol/0.05M phosphate buffer) at pH 7.4 is -1.35.
 
-LYRICA (pregabalin) capsules are administered orally and are supplied as imprinted hard-shell capsules containing 25, 50, 75, 100, 150, 200, 225, and 300 mg of pregabalin, along with cornstarch, lactose monohydrate, and talc as inactive ingredients.
+LYRICA (pregabalin) Capsules are administered orally and are supplied as imprinted hard-shell capsules containing 25, 50, 75, 100, 150, 200, 225, and 300 mg of pregabalin, along with cornstarch, lactose monohydrate, and talc as inactive ingredients.
 The capsule shells contain gelatin and titanium dioxide.
 In addition, the orange capsule shells contain red iron oxide and the white capsule shells contain colloidal silicon dioxide and sodium lauryl sulfate.
 Colloidal silicon dioxide is a manufacturing aid that may or may not be present in the capsule shells.
