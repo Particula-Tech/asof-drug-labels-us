@@ -28,7 +28,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 Prolia is a clear, colorless to pale yellow solution that may contain trace amounts of translucent to white proteinaceous particles.
 Do not use if the solution is discolored or cloudy or if the solution contains many particles or foreign particulate matter.
 
-Prior to administration, Prolia may be removed from the refrigerator and brought to room temperature (up to 25°C/77°F) by standing in the original container.
+Prior to administration, Prolia may be removed from the refrigerator and brought to room temperature up to 25°C (77°F) by standing in the original container.
 This generally takes 15 to 30 minutes.
 Do not warm Prolia in any other way [see How Supplied/Storage and Handling (16)].
 
