@@ -69,7 +69,7 @@ Dosing in Elderly Patients
 Due to a decrease in unbound clearance of valproate and possibly a greater sensitivity to somnolence in the elderly, the starting dose should be reduced in these patients.
 Dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse reactions.
 Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence.
-The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.14), Use in Specific Populations (8.5), and Clinical Pharmacology (12.3)].
+The ultimate therapeutic dose should be achieved on the basis of both tolerability and clinical response [see Warnings and Precautions (5.16), Use in Specific Populations (8.5), and Clinical Pharmacology (12.3)].
 
 Dose-Related Adverse Reactions
 

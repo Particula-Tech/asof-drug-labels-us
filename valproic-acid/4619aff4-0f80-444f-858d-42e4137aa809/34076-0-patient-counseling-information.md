@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Hepatotoxicity
 
@@ -39,13 +39,22 @@ CNS Depression
 
 Since valproate products may produce CNS depression, especially when combined with another CNS depressant (e.g., alcohol), advise patients not to engage in hazardous activities, such as driving an automobile or operating dangerous machinery, until it is known that they do not become drowsy from the drug.
 
-Multiorgan Hypersensitivity Reactions
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions
 
-Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related and should be reported to the physician immediately [see Warnings and Precautions (5.12)].
+Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related.
+Advise patients to report such reactions to a healthcare provider immediately [see Warnings and Precautions (5.12)].
+
+Serious Dermatologic Reactions
+
+Advise patients of the early signs and symptoms of severe cutaneous adverse reactions and to report any occurrence immediately to a healthcare provider [see Warnings and Precautions (5.13)].
+
+Angioedema
+
+Advise patients to discontinue Depakote and seek immediate medical care if they develop signs or symptoms of angioedema, such as facial, perioral, or upper airway swelling [see Warnings and Precautions (5.14)].
 
 Medication Residue in the Stool
 
-Instruct patients to notify their healthcare provider if they notice a medication residue in the stool [see Warnings and Precautions (5.18)].
+Instruct patients to notify their healthcare provider if they notice a medication residue in the stool [see Warnings and Precautions (5.20)].
 
 AbbVie Inc.
 
@@ -53,6 +62,4 @@ North Chicago, IL 60064, U.S.A.
 
 ©1989-2025 AbbVie Inc.
 
-Revised: January 2025
-
-20091023
+20091023 R1
