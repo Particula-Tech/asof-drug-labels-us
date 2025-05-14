@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA216620"
+  ],
+  "inn": "eltrombopag",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-300-12",
+    "31722-300-31",
+    "31722-300-32",
+    "31722-301-25",
+    "31722-301-31",
+    "31722-301-32"
+  ],
+  "products": [
+    {
+      "form": "POWDER, FOR SUSPENSION",
+      "generic": "eltrombopag olamine",
+      "name": "Eltrombopag"
+    }
+  ],
+  "setid": "8f6499f0-4774-4f1e-8ab5-145c1fe64401",
+  "source": "dailymed"
+}
