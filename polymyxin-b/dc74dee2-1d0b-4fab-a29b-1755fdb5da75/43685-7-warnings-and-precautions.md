@@ -11,6 +11,12 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
+Electrolyte and Acid/Base Abnormalities Postmarketing cases of renal tubulopathy (i.e., Pseudo-Bartter syndrome) have been identified with the use of intravenous polymyxins, including polymyxin B (see ADVERSE REACTIONS).
+All cases reported hypokalemia and metabolic alkalosis.
+Other common findings included hypocalcemia, hypomagnesemia, increased potassium in the urine, normal serum creatinine, and normal blood pressure.
+Consider electrolyte monitoring during treatment.
+Normalization of electrolyte abnormalities may require drug discontinuation.
+
 # PRECAUTIONS
 
 ## General

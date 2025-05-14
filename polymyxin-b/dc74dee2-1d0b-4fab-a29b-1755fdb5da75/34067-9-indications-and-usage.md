@@ -1,6 +1,6 @@
 # INDICATIONS AND USAGE
 
-Acute Infections Caused by Susceptible Strains of Pseudomonas aeruginosa
+Acute Infections Caused by Susceptible Strains of Pseudomonas aeruginosa.
 
 Polymyxin B sulfate is a drug of choice in the treatment of infections of the urinary tract, meninges, and bloodstream caused by susceptible strains of Ps. aeruginosa.
 It may also be used topically and subconjunctivally in the treatment of infections of the eye caused by susceptible strains of Ps. aeruginosa.
