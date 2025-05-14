@@ -1,6 +1,6 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 82260-734-05
+NDC82260-734-05
 
 Fluorescein Sodium
 
@@ -16,10 +16,10 @@ Ophthalmic Solution
 
 FOR TOPICAL OPHTHALMIC USE
 
-Rx only
+[Eye Image]
 
-5 mL
+Rx only5 mL
 
 BAUSCH + LOMB
 
-97850000
+9785001

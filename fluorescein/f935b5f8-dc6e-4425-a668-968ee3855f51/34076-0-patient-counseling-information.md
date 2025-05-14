@@ -18,7 +18,7 @@ Siegfried-Irvine
 Irvine, CA 92618 USA
 
 Patented.
-See https://patents.bausch.com for US patent information.
+See https://patents.bausch.comfor US patent information.
 
 © 2022 Bausch & Lomb Incorporated or its affiliates
 
