@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA206788"
+  ],
+  "inn": "eltrombopag",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-841-30",
+    "31722-842-30",
+    "31722-843-30",
+    "31722-844-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "eltrombopag",
+      "name": "ELTROMBOPAG"
+    }
+  ],
+  "setid": "e913cd11-f5fb-4ebe-81c7-0c5626b52cfd",
+  "source": "dailymed"
+}
