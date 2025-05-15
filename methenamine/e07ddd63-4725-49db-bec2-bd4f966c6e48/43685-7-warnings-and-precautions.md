@@ -6,7 +6,7 @@ Large doses of methenamine (8 grams daily for 3 to 4 weeks) have caused bladder 
 
 Prescribing methenamine hippurate in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-1. Care should be taken to maintain an acid pH of the urine, especially when treating infections due to urea-splitting organisms such as Proteus and strains of Pseudomonas.
+1. Care should be taken to maintain an acid pH of the urine, especially when treating infections due to urea-splitting organisms such as Proteusand strains of Pseudomonas.
 2. In a few instances in one study, the serum transaminase levels were slightly elevated during treatment but returned to normal while the patients were still taking methenamine hippurate.
    Because of this report, it is recommended that liver function studies be performed periodically on patients taking the drug, especially those with liver dysfunction.
 3. Use in Pregnancy: In early pregnancy the safe use of methenamine hippurate is not established.
