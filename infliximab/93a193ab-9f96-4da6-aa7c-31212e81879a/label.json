@@ -1,6 +1,7 @@
 {
   "application_numbers": [
-    "BLA761358"
+    "BLA761358",
+    "M003"
   ],
   "inn": "infliximab",
   "labeler": "CELLTRION USA Inc.",
@@ -11,6 +12,7 @@
     "72606-025-04",
     "72606-025-05",
     "72606-025-06",
+    "72606-025-07",
     "72606-025-08",
     "72606-025-09",
     "72606-025-10",
@@ -21,6 +23,11 @@
   "products": [
     {
       "form": "INJECTION",
+      "generic": "infliximab-dyyb",
+      "name": "ZYMFENTRA"
+    },
+    {
+      "form": "KIT",
       "generic": "infliximab-dyyb",
       "name": "ZYMFENTRA"
     }
