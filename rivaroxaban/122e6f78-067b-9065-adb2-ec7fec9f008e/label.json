@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA208534"
+  ],
+  "inn": "rivaroxaban",
+  "labeler": "Dr.Reddy's Laboratories, Inc.",
+  "package_ndcs": [
+    "43598-981-18",
+    "43598-981-60",
+    "43598-981-78",
+    "43598-981-79"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "rivaroxaban",
+      "name": "Rivaroxaban"
+    }
+  ],
+  "setid": "122e6f78-067b-9065-adb2-ec7fec9f008e",
+  "source": "dailymed"
+}
