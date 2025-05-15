@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA217901"
+  ],
+  "inn": "dihydroergotamine",
+  "labeler": "Satsuma Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "76978-101-08",
+    "76978-101-11"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "dihydroergotamine mesylate",
+      "name": "ATZUMI"
+    }
+  ],
+  "setid": "0982a44a-dc0c-75c0-e063-6394a90a6d6c",
+  "source": "dailymed"
+}
