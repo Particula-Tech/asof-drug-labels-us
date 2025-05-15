@@ -35,15 +35,15 @@ TABLE 4
 |  | 30 (20/10) | 3 hrs at 4°C |
 
 If piggyback bottles are unavailable, standard vials of UNASYN sterile powder may be used.
-Initially, the vials may be reconstituted with Sterile Water for Injection to yield solutions containing 375 mg UNASYN per mL (250 mg ampicillin/125 mg sulbactam per mL).
-An appropriate volume should then be immediately diluted with a suitable parenteral diluent to yield solutions containing 3 to 45 mg UNASYN per mL (2 to 30 mg ampicillin/1 to 15 mg sulbactam/per mL).
+Initially, the vials may be reconstituted with Sterile Water for Injection to yield solutions containing 375 mg UNASYN per mL (250 mg ampicillin plus 125 mg sulbactam per mL).
+An appropriate volume should then be immediately diluted with a suitable parenteral diluent to yield solutions containing 3 to 45 mg UNASYN per mL (2 to 30 mg ampicillin plus 1 to 15 mg sulbactam per mL).
 
 ## Preparation for Intramuscular Injection
 
 ### 1.5 g and 3.0 g Standard Vials
 
 Vials for intramuscular use may be reconstituted with Sterile Water for Injection USP, 0.5% Lidocaine Hydrochloride Injection USP or 2% Lidocaine Hydrochloride Injection USP.
-Consult the following table for recommended volumes to be added to obtain solutions containing 375 mg UNASYN per mL (250 mg ampicillin/125 mg sulbactam per mL).
+Consult the following table for recommended volumes to be added to obtain solutions containing 375 mg UNASYN per mL (250 mg ampicillin plus 125 mg sulbactam per mL).
 Note: Use only freshly prepared solutions and administer within one hour after preparation.
 
 TABLE 6
@@ -55,11 +55,13 @@ TABLE 6
 
 ## Animal Pharmacology
 
-While reversible glycogenosis was observed in laboratory animals, this phenomenon was dose- and time-dependent and is not expected to develop at the therapeutic doses and corresponding plasma levels attained during the relatively short periods of combined ampicillin/sulbactam therapy in man.
+While reversible glycogenosis was observed in laboratory animals, this phenomenon was dose- and time-dependent and is not expected to develop at the therapeutic doses and corresponding plasma levels attained during the relatively short periods of combined ampicillin sodium and sulbactam sodium therapy in man.
 
 To report SUSPECTED ADVERSE EVENTS, contact Pfizer Inc. at 1-800-438-1985 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
 
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0017-25.0 Revised January 2025
+For medical information about UNASYN, please visit www.pfizermedicalinformation.com or call 1-800-438-1985.
+
+LAB-0017-26.0 Revised April 2025

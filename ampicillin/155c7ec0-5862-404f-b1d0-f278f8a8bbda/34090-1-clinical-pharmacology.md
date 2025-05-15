@@ -14,7 +14,7 @@ Approximately 75 to 85% of both ampicillin and sulbactam are excreted unchanged 
 Somewhat higher and more prolonged serum levels of ampicillin and sulbactam can be achieved with the concurrent administration of probenecid.
 
 In patients with impaired renal function the elimination kinetics of ampicillin and sulbactam are similarly affected, hence the ratio of one to the other will remain constant whatever the renal function.
-The dose of UNASYN in such patients should be administered less frequently in accordance with the usual practice for ampicillin (see DOSAGE and ADMINISTRATION section).
+The dose of UNASYN in such patients should be administered less frequently in accordance with the usual practice for ampicillin (see DOSAGE AND ADMINISTRATION section).
 
 Ampicillin has been found to be approximately 28% reversibly bound to human serum protein and sulbactam approximately 38% reversibly bound.
 
@@ -55,9 +55,9 @@ Thus, UNASYN possesses the properties of a broad-spectrum antibacterial and a be
 
 Antimicrobial Activity
 
-While in vitro studies have demonstrated the susceptibility of most strains of the following organisms, clinical efficacy for infections other than those included in the INDICATIONS and USAGE section has not been documented.
+While in vitro studies have demonstrated the susceptibility of most strains of the following organisms, clinical efficacy for infections other than those included in the INDICATIONS AND USAGE section has not been documented.
 
-### Gram-positive Bacteria
+### Gram-positive Bacteria:
 
 Staphylococcus aureus (beta-lactamase and non-beta-lactamase producing)
 
@@ -73,7 +73,7 @@ Streptococcus pyogenes
 
 Streptococcus viridans
 
-### Gram-negative Bacteria
+### Gram-negative Bacteria:
 
 Hemophilus influenzae (beta-lactamase and non-beta-lactamase producing)
 
@@ -95,7 +95,7 @@ Morganella morganii
 
 Neisseria gonorrhoeae (beta-lactamase and non-beta-lactamase producing)
 
-### Anaerobes
+### Anaerobes:
 
 Clostridium speciesThese are not beta-lactamase producing strains and, therefore, are susceptible to ampicillin alone.
 

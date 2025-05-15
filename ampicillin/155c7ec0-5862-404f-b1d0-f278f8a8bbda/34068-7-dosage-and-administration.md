@@ -8,7 +8,7 @@ UNASYN may be administered by deep intramuscular injection.
 (see DIRECTIONS FOR USE-Preparation for Intramuscular Injection section).
 
 The recommended adult dosage of UNASYN is 1.5 g (1 g ampicillin as the sodium salt plus 0.5 g sulbactam as the sodium salt) to 3 g (2 g ampicillin as the sodium salt plus 1 g sulbactam as the sodium salt) every six hours.
-This 1.5 to 3 g range represents the total of ampicillin content plus the sulbactam content of UNASYN, and corresponds to a range of 1 g ampicillin/0.5 g sulbactam to 2 g ampicillin/1 g sulbactam.
+This 1.5 to 3 g range represents the total of ampicillin content plus the sulbactam content of UNASYN, and corresponds to a range of 1 g ampicillin plus 0.5 g sulbactam to 2 g ampicillin plus 1 g sulbactam.
 The total dose of sulbactam should not exceed 4 grams per day.
 
 ## Pediatric Patients 1 Year of Age or Older
@@ -28,7 +28,7 @@ The dose of UNASYN in such patients should be administered less frequently in ac
 
 TABLE 3 UNASYN Dosage Guide for Patients with Renal Impairment
 
-| Creatinine Clearance (mL/min/1.73m2) | Ampicillin/Sulbactam Half-Life (Hours) | Recommended UNASYN Dosage |
+| Creatinine Clearance (mL/min/1.73m2) | Ampicillin and Sulbactam Half-Life (Hours) | Recommended UNASYN Dosage |
 | --- | --- | --- |
 | ≥30 | 1 | 1.5–3 g q 6h–q 8h |
 | 15–29 | 5 | 1.5–3 g q 12h |

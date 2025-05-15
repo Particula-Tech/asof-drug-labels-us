@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-UNASYN® (ampicillin sodium/sulbactam sodium) is supplied as a sterile off-white dry powder in glass vials and piggyback bottles.
+UNASYN® (ampicillin sodium and sulbactam sodium) for Injection, USP is supplied as a sterile off-white dry powder in glass vials and piggyback bottles.
 The following packages are available:
 
 Vials containing 1.5 g (NDC 0049-0013-83) equivalent of UNASYN (1 g ampicillin as the sodium salt plus 0.5 g sulbactam as the sodium salt).

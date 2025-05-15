@@ -30,11 +30,11 @@ Blood Chemistry: Decreased serum albumin and total proteins.
 Renal: Increased BUN and creatinine.
 Urinalysis: Presence of RBC's and hyaline casts in urine.
 
-## Postmarketing Experience
+## Post-marketing Experience
 
-In addition to adverse reactions reported from clinical trials, the following have been identified during post-marketing use of ampicillin sodium/sulbactam sodium or other products containing ampicillin.
+In addition to adverse reactions reported from clinical trials, the following have been identified during post-marketing use of ampicillin sodium and sulbactam sodium or other products containing ampicillin.
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to a combination of their seriousness, frequency, or potential causal connection to ampicillin sodium/sulbactam sodium.
+These events have been chosen for inclusion due to a combination of their seriousness, frequency, or potential causal connection to ampicillin sodium and sulbactam sodium.
 
 Infections and Infestations: Clostridioides difficile-associated diarrhea (see WARNINGS section).
 
@@ -47,6 +47,8 @@ Gastrointestinal Disorders: Abdominal pain, cholestatic hepatitis, cholestasis, 
 General Disorders and Administration Site Conditions: Injection site reaction
 
 Immune System Disorders: Serious and fatal hypersensitivity (anaphylactic) reactions (see WARNINGS section), Acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction.
+
+Metabolism and Nutrition Disorders: Hypokalemia
 
 Nervous System Disorders: Convulsion and dizziness
 
