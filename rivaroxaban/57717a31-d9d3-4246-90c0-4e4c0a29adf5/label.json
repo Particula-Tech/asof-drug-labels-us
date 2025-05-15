@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA213114"
+  ],
+  "inn": "rivaroxaban",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-488-09",
+    "33342-488-10",
+    "33342-488-98"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rivaroxaban",
+      "name": "Rivaroxaban"
+    }
+  ],
+  "setid": "57717a31-d9d3-4246-90c0-4e4c0a29adf5",
+  "source": "dailymed"
+}
