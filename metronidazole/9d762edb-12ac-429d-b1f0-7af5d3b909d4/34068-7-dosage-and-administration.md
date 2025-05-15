@@ -6,9 +6,11 @@ Dosage, rate of administration, and duration of treatment are to be individualiz
 
 The recommended dosage schedule for adults for the treatment of anaerobic infections is presented in the Table 1:
 
-| Table 1. Recommended Dosage Schedule for the Treatment of Anaerobic Bacterial Infections in Adults |  |
-| --- | --- |
+Table 1.
+Recommended Dosage Schedule for the Treatment of Anaerobic Bacterial Infections in Adults
+
 | Loading Dose | 15 mg/kg infused intravenously over one hour (approximately 1 gram for a 70-kg adult). |
+| --- | --- |
 | Maintenance Dosage | 7.5 mg/kg infused intravenously over one hour every six hours (approximately 500 mg for a 70-kg adult). The first maintenance dose should be instituted six hours following the initiation of the loading dose. |
 
 Parenteral therapy may be changed to oral metronidazole therapy when conditions warrant, based upon the severity of the disease and the response of the patient to treatment with Metronidazole Injection.
@@ -23,14 +25,14 @@ The usual duration of therapy is 7 to 10 days; however, infections of the bone a
 The recommended dosage schedule for pediatric patients less than 4 months of age for the treatment of intra-abdominal infections is described in Table 2 below.
 These dosage schedules achieve drug exposures in pediatric patients similar to adults treated with Metronidazole Injection for this indication.
 
-| Table 1. Recommended Dosage Schedule for the Treatment of Intra-Abdominal Infections in Pediatric Patients Less than 4 months of Age |  |  |  |
+Table 2.
+Recommended Dosage Schedule for the Treatment of Intra-Abdominal Infections in Pediatric Patients Less than 4 months of Age
+
+| Post-menstrual age (Completed weeks) | Loading Dose(mg/kg) | Maintenance DoseThe first maintenance dose is given 24 hours after the start of the loading dose.(mg/kg) | Dosing interval(hours) |
 | --- | --- | --- | --- |
-| Post-menstrual age (Completed weeks) | Loading Dose(mg/kg) | Maintenance Dose*(mg/kg) | Dosing interval(hours) |
 | 23 to <34 | 15 | 7.5 | 12 |
 | 34 to 40 | 15 | 7.5 | 8 |
 | >40 to 48 | 15 | 7.5 | 6 |
-
-*The first maintenance dose is given 24 hours after the start of the loading dose.
 
 ### Recommended Dosage in Patients with Severe Hepatic Impairment
 

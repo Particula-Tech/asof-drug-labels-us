@@ -27,7 +27,7 @@ GASTROINTESTINAL DISORDERS: Pancreatitis, Abdominal pain, Diarrhea, Nausea, Vomi
 
 HEPATOBILIARY DISORDERS: Hepatotoxicity/Liver Failure in patients with Cockayne syndrome (see CONTRAINDICATIONS), Jaundice
 
-SKIN AND SUBCUTANEOUS DISORDERS: Toxic epidermal necrolysis, Swelling face, Pruritus, Urticaria, Hyperhidrosis, Erythema, Rash; Stevens-Johnson syndrome, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP) (see WARNINGS)
+SKIN AND SUBCUTANEOUS DISORDERS: Toxic epidermal necrolysis, Swelling face, Pruritus, Urticaria, Hyperhidrosis, Erythema, Rash; Stevens-Johnson syndrome, Fixed eruption, Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP) (see WARNINGS)
 
 MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS: Muscle spasms, Arthralgia, Myalgia
 
