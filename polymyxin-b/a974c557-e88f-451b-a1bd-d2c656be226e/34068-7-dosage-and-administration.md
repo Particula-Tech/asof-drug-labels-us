@@ -13,7 +13,7 @@ The dosage may be divided and given at either 4 or 6 hour intervals.
 Infants Infants with normal kidney function may receive up to 40,000 units/kg/day without adverse effects.
 Note: Doses as high as 45,000 units/kg/day have been used in limited clinical studies in treating prematures and newborn infants for sepsis caused by Ps aeruginosa.
 Intrathecal A treatment of choice for Ps aeruginosa meningitis.
-Dissolve 500,000 polymyxin B units in 10 mL sodium chloride injection USP for 50,000 units per mL dosage unit.
+Dissolve 500,000 polymyxin B units in 10 mL sodium chloride injection, USP for 50,000 units per mL dosage unit.
 Adults and children over 2 years of age Dosage is 50,000 units once daily intrathecally for 3 to 4 days, then 50,000 units once every other day for at least 2 weeks after cultures of the cerebrospinal fluid are negative and sugar content has returned to normal.
 Children under 2 years of age 20,000 units once daily, intrathecally for 3 to 4 days or 25,000 units once every other day.
 Continue with a dose of 25,000 units once every other day for at least 2 weeks after cultures of the cerebrospinal fluid are negative and sugar content has returned to normal.
