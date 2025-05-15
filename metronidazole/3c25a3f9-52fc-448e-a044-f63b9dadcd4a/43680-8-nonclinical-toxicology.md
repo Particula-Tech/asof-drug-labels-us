@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Metronidazole has shown evidence of carcinogenic activity in studies involving chronic oral administration in mice and rats, but not in studies involving hamsters.
+Metronidazole has shown evidence of carcinogenic activity in a number of studies involving chronic, oral administration in mice and rats, but not in studies involving hamsters.
 In several long-term studies in mice, oral doses of approximately 225 mg/m2/day or greater were associated with an increase in pulmonary tumors and lymphomas.
 Several long-term oral studies in the rat have shown statistically significant increases in mammary and hepatic tumors at doses >885 mg/m2/day.
 Metronidazole has shown evidence of mutagenic activity in several in vitro bacterial assay systems.

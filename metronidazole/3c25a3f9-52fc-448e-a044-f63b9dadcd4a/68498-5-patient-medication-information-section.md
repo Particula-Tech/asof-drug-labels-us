@@ -17,7 +17,7 @@ Before using Metronidazole Gel, tell your healthcare provider about all your med
 - have tingling or numbness in your hands or feet
 - have or have had a blood disorder or disease
 - are pregnant or plan to become pregnant.
-  It is not known if Metronidazole Gel will harm your unborn baby
+  It is not known if Metronidazole Gel will harm your unborn baby.
 - are breastfeeding or plan to breastfeed.
   It is not known if Metronidazole Gel passes into your breast milk.
   Do not breastfeed during treatment with Metronidazole Gel.
@@ -74,5 +74,5 @@ It may harm them.
 You can ask your pharmacist or healthcare provider for information about Metronidazole Gel that is written for health professionals.
 
 What are the ingredients in Metronidazole Gel?
-Active ingredient: metronidazole Inactive ingredients: betadex, edetate disodium, hydroxyethyl cellulose, methylparaben, niacinamide, phenoxyethanol, propylene glycol, propylparaben and purified water Distributed by: Mayne Pharma Raleigh, NC 27609 P57417-0 Product of Canada US Patent No. 6,881,726 and 7,348,317 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Issued: 02/2023
+Active ingredient: metronidazole Inactive ingredients: betadex, edetate disodium, hydroxyethyl cellulose, methylparaben, niacinamide, phenoxyethanol, propylene glycol, propylparaben and purified water Distributed by: Mayne Pharma Raleigh, NC 27609 P58252-0 Product of Canada US Patent No. 6,881,726 and 7,348,317 This Patient Information has been approved by the U.S. Food and Drug Administration.
+Revised 10/2024
