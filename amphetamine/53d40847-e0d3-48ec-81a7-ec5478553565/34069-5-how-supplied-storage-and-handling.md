@@ -18,6 +18,4 @@ Dispense in a well-closed container, as defined in the USP.
 Manufactured by: Amneal Pharmaceuticals of New York, LLC Brookhaven, NY 11719
 
 Rev.
-10-2023-06
-
-Dispense with Medication Guide available at: documents.amneal.com/mg/amphetamine-tab.pdf
+05-2025-07

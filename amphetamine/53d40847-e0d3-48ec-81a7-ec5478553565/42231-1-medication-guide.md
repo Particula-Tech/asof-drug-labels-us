@@ -1,7 +1,5 @@
 # MEDICATION GUIDE
 
-Dispense with Medication Guide available at: documents.amneal.com/mg/amphetamine-tab.pdf
-
 Amphetamine (am FET a meen) Sulfate Tablets CII
 
 | What is the most important information I should know about amphetamine sulfate tablets? Amphetamine sulfate tablets may cause serious side effects, including: Abuse, misuse, and addiction. Amphetamine sulfate tablets have a high chance for abuse and misuse and may lead to substance use problems, including addiction. Misuse and abuse of amphetamine sulfate tablets, other amphetamine-containing medicines, and methylphenidate, can lead to overdose and death. The risk of overdosage and death is increased with higher doses of amphetamine sulfate tablets or when it is used in ways that are not approved, such as snorting or injection. Your healthcare provider should check you or your child’s risk for abuse, misuse, and addiction before starting treatment with amphetamine sulfate tablets and will monitor you or your child during treatment.Amphetamine sulfate tablets may lead to physical dependence after prolonged use, even if taken as directed by your healthcare provider.Do not give amphetamine sulfate tablets to anyone else. See “What are amphetamine sulfate tablets?” for more information.Keep amphetamine sulfate tablets in a safe place and properly dispose of unused medicine. See “How should I store amphetamine sulfate tablets?” for more information.Tell your healthcare provider if you or your child have ever abused or been dependent on alcohol, prescription medicines, or street drugs. Risks for people with serious heart disease. Sudden death has happened in people who have heart defects or other serious heart disease. Your healthcare provider should check you or your child carefully for heart problems before starting amphetamine sulfate tablets. Tell your healthcare provider if you or your child have any heart problems, heart disease, or heart defects. Call your healthcare provider or go to the nearest hospital emergency room right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting during treatment with amphetamine sulfate tablets. Increased blood pressure and heart rate. Your healthcare provider should check you or your child’s blood pressure and heart rate regularly during treatment with amphetamine sulfate tablets. Mental (psychiatric) problems, including: new or worse behavior and thought problems new or worse bipolar illness new psychotic symptoms (such as hearing voices, seeing or believing things that are not real) or new manic symptoms Tell your healthcare provider about any mental problems you or your child have, or about a family history of suicide, bipolar illness, or depression. Call your healthcare provider right away if you or your child have any new or worsening mental symptoms or problems during treatment with amphetamine sulfate tablets, especially hearing voices, seeing or believing things that are not real, or new manic symptoms. |
@@ -112,7 +110,7 @@ Amphetamine sulfate tablets may cause serious side effects, including:
 - seizures
 - changes in blood pressure
 - sweating or fever
-- high body temperature (hypothermia)
+- high body temperature (hyperthermia)
 - loss of coordination
 - nausea, vomiting, diarrhea
 - New or worsening tics or worsening Tourette’s syndrome.
@@ -174,4 +172,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 Manufactured by: Amneal Pharmaceuticals of New York, LLC Brookhaven, NY 11719
 
 Rev.
-09-2023-03
+05-2025-04
