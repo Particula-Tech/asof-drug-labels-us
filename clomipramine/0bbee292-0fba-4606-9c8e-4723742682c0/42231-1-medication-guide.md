@@ -18,8 +18,7 @@ Antidepressant medicines may increase suicidal thoughts or actions in some child
 
 2.
 Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-Some people may have a particularly high risk of having suicidal thoughts or actions.
-These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
+Some people may have a particularly high risk of having suicidal thoughts or actions.These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
 
 3.
 How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
@@ -47,8 +46,7 @@ Call a healthcare provider right away if you or your family member has any of th
 - an extreme increase in activity and talking (mania)
 - other unusual changes in behavior or mood
 
-Low salt (sodium) levels in the blood.
-Elderly people may be at greater risk for this.
+Low salt (sodium) levels in the blood.Elderly people may be at greater risk for this.
 Symptoms may include:
 
 - headache
@@ -75,23 +73,18 @@ Do not take clomipramine hydrochloride capsules, USP if you:
 
 What else do I need to know about antidepressant medicines?
 
-- Never stop an antidepressant medicine without first talking to a healthcare provider.
-  Stopping an antidepressant medicine suddenly can cause other symptoms.
+- Never stop an antidepressant medicine without first talking to a healthcare provider.Stopping an antidepressant medicine suddenly can cause other symptoms.
 
-- Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression and also the risks of not treating it.
+- Antidepressants are medicines used to treat depression and other illnesses.It is important to discuss all the risks of treating depression and also the risks of not treating it.
   Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
 
-- Antidepressant medicines have other side effects.
-  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
+- Antidepressant medicines have other side effects.Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
 
-- Antidepressant medicines can interact with other medicines.
-  Know all of the medicines that you or your family member takes.
+- Antidepressant medicines can interact with other medicines.Know all of the medicines that you or your family member takes.
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
 
-- Not all antidepressant medicines prescribed for children are FDA approved for use in children.
-  Talk to your child’s healthcare provider for more information.
+- Not all antidepressant medicines prescribed for children are FDA approved for use in children.Talk to your child’s healthcare provider for more information.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.

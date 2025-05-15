@@ -4,7 +4,7 @@ The treatment regimens described below are based on those used in controlled cli
 During initial titration, clomipramine hydrochloride capsules, USP should be given in divided doses with meals to reduce gastrointestinal side effects.
 The goal of this initial titration phase is to minimize side effects by permitting tolerance to side effects to develop or allowing the patient time to adapt if tolerance does not develop.
 
-Because both CMI and its active metabolite, DMI, have long elimination half-lives, the prescriber should take into consideration the fact that steady-state plasma levels may not be achieved until 2 to 3 weeks after dosage change (see CLINICAL PHARMACOLOGY).
+Because both CMI and its active metabolite, DMI, have long elimination half-lives, the prescriber should take into consideration the fact that steady-state plasma levels may not be achieved until 2 to 3 weeks after dosage change (seeCLINICAL PHARMACOLOGY).
 Therefore, after initial titration, it may be appropriate to wait 2 to 3 weeks between further dosage adjustments.
 
 Initial Treatment/Dose Adjustment (Adults)
@@ -17,7 +17,7 @@ After titration, the total daily dose may be given once daily at bedtime to mini
 Initial Treatment/Dose Adjustment (Children and Adolescents)
 
 As with adults, the starting dose is 25 mg daily and should be gradually increased (also given in divided doses with meals to reduce gastrointestinal side effects) during the first 2 weeks, as tolerated, up to a daily maximum of 3 mg/kg or 100 mg, whichever is smaller.
-Thereafter, the dosage may be increased gradually over the next several weeks up to a daily maximum of 3 mg/kg or 200 mg, whichever is smaller (see PRECAUTIONS, Pediatric Use).
+Thereafter, the dosage may be increased gradually over the next several weeks up to a daily maximum of 3 mg/kg or 200 mg, whichever is smaller (seePRECAUTIONS, Pediatric Use).
 As with adults, after titration, the total daily dose may be given once daily at bedtime to minimize daytime sedation.
 
 Maintenance/Continuation Treatment (Adults, Children, and Adolescents)
@@ -30,17 +30,17 @@ During maintenance, the total daily dose may be given once daily at bedtime.
 Switching a Patient To or From a Monoamine Oxidase Inhibitor (MAOI) Intended to Treat Psychiatric Disorders
 
 At least 14 days should elapse between discontinuation of an MAOI intended to treat psychiatric disorders and initiation of therapy with clomipramine hydrochloride capsules, USP.
-Conversely, at least 14 days should be allowed after stopping clomipramine hydrochloride capsules, USP before starting an MAOI intended to treat psychiatric disorders (see CONTRAINDICATIONS).
+Conversely, at least 14 days should be allowed after stopping clomipramine hydrochloride capsules, USP before starting an MAOI intended to treat psychiatric disorders (seeCONTRAINDICATIONS).
 
-Use of Clomipramine Hydrochloride With Other MAOIs, Such as Linezolid or Methylene Blue
+Use of Clomipramine HydrochlorideWith Other MAOIs, Such as Linezolid or Methylene Blue
 
 Do not start clomipramine hydrochloride capsules, USP in a patient who is being treated with linezolid or intravenous methylene blue because there is increased risk of serotonin syndrome.
-In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (see CONTRAINDICATIONS).
+In a patient who requires more urgent treatment of a psychiatric condition, other interventions, including hospitalization, should be considered (seeCONTRAINDICATIONS).
 
 In some cases, a patient already receiving clomipramine hydrochloride capsules, USP therapy may require urgent treatment with linezolid or intravenous methylene blue.
 If acceptable alternatives to linezolid or intravenous methylene blue treatment are not available and the potential benefits of linezolid or intravenous methylene blue treatment are judged to outweigh the risks of serotonin syndrome in a particular patient, clomipramine hydrochloride capsules, USP should be stopped promptly, and linezolid or intravenous methylene blue can be administered.
 The patient should be monitored for symptoms of serotonin syndrome for two weeks or until 24 hours after the last dose of linezolid or intravenous methylene blue, whichever comes first.
-Therapy with clomipramine hydrochloride capsules, USP may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (see WARNINGS).
+Therapy with clomipramine hydrochloride capsules, USP may be resumed 24 hours after the last dose of linezolid or intravenous methylene blue (seeWARNINGS).
 
 The risk of administering methylene blue by non-intravenous routes (such as oral tablets or by local injection) or in intravenous doses much lower than 1 mg/kg with clomipramine hydrochloride capsule, USP is unclear.
-The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (see WARNINGS).
+The clinician should, nevertheless, be aware of the possibility of emergent symptoms of serotonin syndrome with such use (seeWARNINGS).

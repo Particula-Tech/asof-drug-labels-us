@@ -7,7 +7,7 @@ Monoamine Oxidase Inhibitors (MAOIs)
 The use of MAOIs intended to treat psychiatric disorders with clomipramine hydrochloride capsules, USP or within 14 days of stopping treatment with clomipramine hydrochloride capsules, USP are contraindicated because of an increased risk of serotonin syndrome.
 The use of clomipramine hydrochloride capsules, USP within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated (see WARNINGSand DOSAGE AND ADMINISTRATION).
 
-Starting clomipramine hydrochloride capsules, USP in a patient who is being treated with linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome (see WARNINGS and DOSAGE AND ADMINISTRATION).
+Starting clomipramine hydrochloride capsules, USP in a patient who is being treated with linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome (seeWARNINGS and DOSAGE AND ADMINISTRATION).
 
 Myocardial Infarction
 
