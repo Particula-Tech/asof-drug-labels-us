@@ -48,20 +48,16 @@ Hospira
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Ampule Label - 1761-18
 
-PAA223331
-
-NDC 0409-1761-18 2 mL Rx only
+2 mL NDC 0409-1761-18 Rx only
 
 Marcaine® Spinal
 
 bupivacaine hydrochloride 0.75% 15 mg/2 mL (7.5 mg/mL) in dextrose 8.25% injection, USP Contains 7.5 mg bupivacaine HCl (anhydrous) and 82.5 mg dextrose (anhydrous) per mL. pH adjusted between 4.0 and 6.5 with NaOH or HCl.
 
-Dist. by Hospira, Inc., Lake Forest, IL 60045 USA
-
-AP/DRUGS/08/2013 M.L.No.
+Dist. by Hospira, Inc., Lake Forest, IL 60045 USA AP/DRUGS/08/2013 M.L.No.
 08/VP/AP/2013/F/R
 
-Hospira
+PAA236110
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Ampule Cello Pack
 
