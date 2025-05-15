@@ -37,4 +37,6 @@ Advise patients that there is a pregnancy registry that monitors pregnancy outco
 
 Manufactured by: AbbVie Inc. North Chicago, IL 60064, USA
 
-US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2024 AbbVie Inc. 20086179 R2 6/2024
+US License Number 1889 SKYRIZI® is a registered trademark of AbbVie Biotechnology Ltd. © 2019-2025 AbbVie Inc.
+
+20092907 5/2025

@@ -102,7 +102,7 @@ NDC 0074-1069-01
 
 Skyrizi®
 
-Risankizumab-rzaa
+risankizumab-rzaa
 
 Injection
 
@@ -122,7 +122,7 @@ NOT FOR SALE
 
 Skyrizi®
 
-Risankizumab-rzaa
+risankizumab-rzaa
 
 Injection
 
@@ -164,7 +164,7 @@ NDC 0074-1066-01
 
 Skyrizi®
 
-Risankizumab-rzaa
+risankizumab-rzaa
 
 Injection
 
@@ -184,7 +184,7 @@ NOT FOR SALE
 
 Skyrizi®
 
-Risankizumab-rzaa
+risankizumab-rzaa
 
 Injection
 

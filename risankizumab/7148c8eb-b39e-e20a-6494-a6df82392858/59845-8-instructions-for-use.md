@@ -188,7 +188,7 @@ Questions About Using SKYRIZI
 | Q. What if I need help on how to inject SKYRIZI? |
 | --- |
 | A. Call your healthcare provider or (866) SKYRIZI or (866) 759-7494 if you need help. |
-| Q.What should I do with the used prefilled syringe after my injection? |
+| Q. What should I do with the used prefilled syringe after my injection? |
 | A. Throw away (dispose of) the used prefilled syringe in a sharps disposal container and not your household trash. You can sign up to receive sharps containers for SKYRIZI syringe disposal at no additional cost by going to www.SKYRIZI.com or calling (866) SKYRIZI or (866) 759-7494. |
 | Q. How do I know when the injection is complete? |
 | A. The injection is complete when the prefilled syringe is empty, the plunger rod is pushed all the way in, and the syringe needle guard is activated. |
