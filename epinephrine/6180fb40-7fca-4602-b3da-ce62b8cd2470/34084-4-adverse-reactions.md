@@ -1,23 +1,29 @@
 # 6 ADVERSE REACTIONS
 
-Due to lack of randomized, controlled clinical trials of epinephrine for the treatment of anaphylaxis, the true incidence of adverse reactions associated with the systemic use of epinephrine is difficult to determine.
-Adverse reactions reported in observational trials, case reports, and studies are listed below.
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-Common adverse reactions to systemically administered epinephrine include anxiety; apprehensiveness; restlessness; tremor; weakness; dizziness; sweating; palpitations; pallor; nausea and vomiting; headache; and/or respiratory difficulties.
-These symptoms occur in some persons receiving therapeutic doses of epinephrine, but are more likely to occur in patients with hypertension or hyperthyroidism [see Warnings and Precautions (5.5)].
+- Injection-Related Complications [see Warnings and Precautions (5.1)]
+- Serious Infections at the Injection Site [see Warnings and Precautions (5.2)]
+- Risks Associated with Use of Epinephrine in Certain Coexisting Conditions [see Warnings and Precautions (5.3)]
+- Allergic Reactions Associated with Sulfite [see Warnings and Precautions (5.4)]
 
-Arrhythmias, including fatal ventricular fibrillation, have been reported, particularly in patients with underlying cardiac disease or those receiving certain drugs [see Warnings and Precautions (5.5) and Drug Interactions (7)].
+Adverse Reactions from Postapproval Use of Epinephrine Products
 
-Rapid rises in blood pressure have produced cerebral hemorrhage, particularly in elderly patients with cardiovascular disease [see Warnings and Precautions (5.5)].
+The following adverse reactions have been identified during postapproval use of epinephrine.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Angina may occur in patients with coronary artery disease [see Warnings and Precautions (5.5)].
+Cardiovascular: angina, arrhythmias (including fatal ventricular fibrillation), cerebral hemorrhage, hypertension, pallor, palpitations, tachyarrhythmia, tachycardia, vasoconstriction, ventricular ectopy, and stress cardiomyopathy
 
-Rare cases of stress cardiomyopathy have been reported in patients treated with epinephrine.
+Gastrointestinal Disorders: nausea, vomiting
 
-Accidental injection into the digits, hands or feet may result in loss of blood flow to the affected area [see Warnings and Precautions (5.2)].
+Infections: Clostridial infections (gas gangrene)
 
-Adverse events experienced as a result of accidental injections may include increased heart rate, local reactions including injection site pallor, coldness and hypoesthesia or injury at the injection site resulting in bruising, bleeding, discoloration, erythema or skeletal injury.
+Metabolism and Nutrition Disorders: transient hyperglycemia, sweating
 
-Injection of epinephrine into the buttock has resulted in cases of gas gangrene [see Warnings and Precautions (5.2)].
+Neurological: disorientation, impaired memory, panic, psychomotor agitations, sleepiness, tingling, weakness, hypoesthesia, dizziness, tremor, headache
 
-Rare cases of serious skin and soft tissue infections, including necrotizing fasciitis and myonecrosis caused by Clostridia (gas gangrene), have been reported at the injection site following epinephrine injection in the thigh [see Warnings and Precautions (5.2)].
+Psychiatric: anxiety, apprehensiveness, restlessness
+
+Respiratory: respiratory difficulties
+
+Skin and Subcutaneous Tissue Disorders: bruising, bleeding, discoloration, erythema, necrotizing fasciitis, myonecrosis

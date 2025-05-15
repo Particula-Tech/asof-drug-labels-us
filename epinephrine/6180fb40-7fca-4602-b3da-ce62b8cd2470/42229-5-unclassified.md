@@ -1,20 +1,6 @@
-# TRAINER FOR AUVI-Q® Trainer Instructions for Use
-
-Important: The TRAINER for AUVI-Q Does Not contain a needle or medicine.
-
-In case of an allergic emergency, use the real AUVI-Q and not the gray Trainer.
-Always carry your real Auvi-Q with you in case of an allergic emergency.
-
-Important Information about the TRAINER for AUVI-Q:
-
-Inside your TRAINER for AUVI-Q are:
-
-- batteries
-- a speaker that will make a beeping sound and that produces electronic voice instructions
-- red and green blinking lights
-
-The TRAINER for AUVI-Q batteries are made to last long enough for you to practice 1 time each day for 2 years.
-If your TRAINER for AUVI-Q does not work properly call your healthcare provider for a new Trainer.
+| TRAINER FOR AUVI-Q® Trainer Instructions for Use |
+| --- |
+| Important: The TRAINER for AUVI-Q Does Not contain a needle or medicine. In case of an allergic emergency, use the real AUVI-Q and not the gray Trainer. Always carry your real Auvi-Q with you in case of an allergic emergency. Important Information about the TRAINER for AUVI-Q: Inside your TRAINER for AUVI-Q are: batteries a speaker that will make a beeping sound and that produces electronic voice instructionsred and green blinking lights The TRAINER for AUVI-Q batteries are made to last long enough for you to practice 1 time each day for 2 years. If your TRAINER for AUVI-Q does not work properly call your healthcare provider for a new Trainer. |
 
 | What is the TRAINER for AUVI-Q? The TRAINER for AUVI-Q does not contain a needle or medicine and can be reused to practice your injection.Practice with the TRAINER for AUVI-Q before an allergic emergency happens to make sure you are able to safely use the real AUVI-Q in an emergency. |  |
 | --- | --- |
@@ -34,7 +20,7 @@ If your TRAINER for AUVI-Q does not work properly call your healthcare provider 
 | Note: The red safety guard is made to fit tight similar to the safety guard on the real AUVI-Q. Pull firmly to remove. |  |
 | 3. Place black end against the middle of the outer thigh (through clothing, if needed), then push firmly until you hear a click and hiss sound, and hold in place for 2 seconds. See Figure D. As with the real AUVI-Q, if practicing with a young child or infant, hold the leg firmly in place while using the TRAINER for AUVI-Q. (See Figure E). |  |
 | Figure D | Figure E |
-| Note: In an actual emergency, after the injection you would need to seek medical help right away. Only practice using the middle of your outer thigh. The outer thigh is where you would inject with the real AUVI-Q. Note: The TRAINER for AUVI-Q makes a distinct sound (click and hiss) when you push it firmly against your outer thigh. This is the same sound that is made with the real AUVI-Q. This is normal, and indicates AUVI-Q is working correctly. Do not pull AUVI-Q away from your leg when you hear the click and hiss sound. |  |
+| Note: In an actual emergency, after the injection you would seek medical care if needed. Only practice using the middle of your outer thigh. The outer thigh is where you would inject with the real AUVI-Q. Note: The TRAINER for AUVI-Q makes a distinct sound (click and hiss) when you push it firmly against your outer thigh. This is the same sound that is made with the real AUVI-Q. This is normal, and indicates AUVI-Q is working correctly. Do not pull AUVI-Q away from your leg when you hear the click and hiss sound. |  |
 | 4. After practicing, reset the TRAINER for AUVI-Q: a. Replace the Red safety guard. Do not hold the black base while inserting the Red safety guard. The Black base will drop down into its original location during Red safety guard insertion. See Figure F. b. Slide the TRAINER for AUVI-Q all the way back into the gray outer case to reset the electronic voice system. See Figure G. |  |
 | Figure F | Figure G |
 | Note: Leave the TRAINER for AUVI-Q in its outer case for at least 5 seconds between each time you practice to allow the electronic voice system to reset. |  |
@@ -54,7 +40,7 @@ See www.dtsc.ca.gov/hazardouswaste/perchlorate
 Manufactured for: kaleo, Inc. Richmond, VA 23219 USA
 
 This product may be covered by one or more U.S. patents or pending patent applications; see www.kaleo.com for details.
-KALÉO® and AUVI-Q® are registered trademarks of kaleo, Inc. © 2024 kaleo, Inc.
+KALÉO® and AUVI-Q® are registered trademarks of kaleo, Inc. © 2025 kaleo, Inc.
 
 Rev.
-Feb 2024
+Apr 2025

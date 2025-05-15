@@ -15,17 +15,17 @@ AUVI-Q 0.3 mg, AUVI-Q 0.15 mg and AUVI-Q 0.1 mg each contain 0.76 mL epinephrine
 0.3 mL, 0.15 mL and 0.1 mL epinephrine solution is dispensed for AUVI-Q 0.3 mg, AUVI-Q 0.15 mg and AUVI-Q 0.1 mg, respectively, when activated.
 The remaining solution is not available for future use and should be discarded.
 
-Each 0.3 mL in AUVI-Q 0.3 mg contains 0.3 mg epinephrine, 2.3 mg sodium chloride, 0.5 mg sodium bisulfite, hydrochloric acid to adjust pH, and water for injection.
-The pH range is 2.2–5.0.
+Each 0.3 mL in AUVI-Q 0.3 mg contains 0.3 mg epinephrine, 2.3 mg sodium chloride, 0.45 mg sodium bisulfite, hydrochloric acid to adjust pH, and water for injection.
+The pH range is 2.2– 5.0.
 
-Each 0.15 mL in AUVI-Q 0.15 mg contains 0.15 mg epinephrine, 1.2 mg sodium chloride, 0.2 mg sodium bisulfite, hydrochloric acid to adjust pH, and water for injection.
+Each 0.15 mL in AUVI-Q 0.15 mg contains 0.15 mg epinephrine, 1.2 mg sodium chloride, 0.225 mg sodium bisulfite, hydrochloric acid to adjust pH, and water for injection.
 The pH range is 2.2–5.0.
 
 Each 0.1 mL in AUVI-Q 0.1 mg contains 0.1 mg epinephrine, 0.78 mg sodium chloride, 0.15 mg sodium bisulfite, hydrochloric acid to adjust pH, and water for injection.
 The pH range is 2.2–5.0.
 
 Epinephrine is a sympathomimetic catecholamine.
-Chemically, epinephrine is (-)-3,4-Dihydroxy-α-[(methylamino)methyl]benzyl alcohol with the following structure:
+Chemically, epinephrine is (-)-3,4-Dihydroxy-a-[(methylamino)methyl]benzyl alcohol with the following structure:
 
 Epinephrine solution deteriorates rapidly on exposure to air or light, turning pink from oxidation to adrenochrome and brown from the formation of melanin.
 
