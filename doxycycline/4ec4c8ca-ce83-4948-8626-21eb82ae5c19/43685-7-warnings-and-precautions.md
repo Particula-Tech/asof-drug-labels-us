@@ -5,7 +5,7 @@ This adverse reaction is more common during long-­term use of the drugs, but it
 Enamel hypoplasia has also been reported.
 Use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-­threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Doxycycline Hyclate Capsules, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including doxycycline hyclate capsules, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -16,14 +16,14 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing use of antibacterial drugs not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-Severe skin reactions such as exfoliative dermatitis, erythema multiforme, Stevens-­Johnson syn drome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline.
+Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-­Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline.
 Fixed drug eruptions have occurred with doxycycline and have been associated with worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption (See ADVERSE REACTIONS).
-If severe skin reactions occur, discontinue Doxycycline Hyclate Capsules immediately and institute appropriate therapy.
+If severe skin reactions occur, discontinue doxycycline hyclate capsules immediately and institute appropriate therapy.
 
-Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including Doxycycline Hyclate Capsules.
+Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including doxycycline hyclate capsules.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
 Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
-Concomitant use of isotretinoin and Doxycycline Hyclate Capsules should be avoided because isotretinoin is also known to cause pseudotumor cerebri.
+Concomitant use of isotretinoin and doxycycline hyclate capsules should be avoided because isotretinoin is also known to cause pseudotumor cerebri.
 
 Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
 If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.
@@ -47,8 +47,8 @@ Patients apt to be exposed to direct sunlight or ultraviolet light should be adv
 
 ## General
 
-As with other antibacterial drugs, use of Doxycycline Hyclate Capsules may result in overgrowth of nonsusceptible organisms, including fungi.
-If superinfection occurs, Doxycycline Hyclate Capsules should be discontinued and appropriate therapy instituted.
+As with other antibacterial drugs, use of doxycycline hyclate capsules may result in overgrowth of nonsusceptible organisms, including fungi.
+If superinfection occurs, doxycycline hyclate capsules should be discontinued and appropriate therapy instituted.
 
 Incision and drainage or other surgical procedures should be performed in conjunction with antibacterial therapy, when indicated.
 
@@ -57,7 +57,7 @@ Doxycycline offers substantial but not complete suppression of the asexual blood
 Doxycycline does not suppress P. falciparum’s sexual blood stage gametocytes.
 Subjects completing this prophylactic regimen may still transmit the infection to mosquitoes outside endemic areas.
 
-Prescribing Doxycycline Hyclate Capsules in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing doxycycline hyclate capsules in the absence of proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
 ## Information for Patients
 
@@ -91,10 +91,10 @@ All patients taking doxycycline should be advised:
 
 - that the use of doxycycline might increase the incidence of vaginal candidiasis.
 
-Patients should be counseled that antibacterial drugs, including Doxycycline Hyclate Capsules, should only be used to treat bacterial infections.
+Patients should be counseled that antibacterial drugs, including doxycycline hyclate capsules should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
-When Doxycycline Hyclate Capsules are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by Doxycycline Hyclate Capsules or other antibacterial drugs in the future.
+When doxycycline hyclate capsules are prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by doxycycline hyclate capsules or other antibacterial drugs in the future.
 
 Diarrhea is a common problem caused by antibacterial drugs, which usually ends when the antibacterials are discontinued.
 Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial drug.
@@ -117,8 +117,6 @@ Absorption of tetracyclines is impaired by antacids containing aluminum, calcium
 Absorption of tetracyclines is impaired by bismuth subsalicylate.
 
 Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.
-
-The concurrent use of tetracycline and Penthrane® (methoxyflurane) has been reported to result in fatal renal toxicity.
 
 Concurrent use of tetracycline may render oral contraceptives less effective.
 
@@ -145,15 +143,14 @@ The vast majority of reported experience with doxycycline during human pregnancy
 There are no human data available to assess the effects of long-term therapy of doxycycline in pregnant women, such as that proposed for treatment of anthrax exposure.
 An expert review of published data on experiences with doxycycline use during pregnancy by TERIS – the Teratogen Information System – concluded that therapeutic doses during pregnancy are unlikely to pose a substantial teratogenic risk (the quantity and quality of data were assessed as limited to fair), but the data are insufficient to state that there is no risk.1 A case-control study (18,515 mothers of infants with congenital anomalies and 32,804 mothers of infants with no congenital anomalies) shows a weak but marginally statistically significant association with total malformations and use of doxycycline anytime during pregnancy.
 Sixty-three (0.19%) of the controls and fifty-six (0.30%) of the cases were treated with doxycycline.
-This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation) with the exception of a marginal relationship with neural tube defect based on only two exposed cases.
-2
+This association was not seen when the analysis was confined to maternal treatment during the period of organogenesis (i.e., in the second and third months of gestation) with the exception of a marginal relationship with neural tube defect based on only two exposed cases.2
 
 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester.
 All mothers reported their exposed infants were normal at 1 year of age.3
 
 ## Nonteratogenic Effects
 
-(See WARNINGS).
+(See WARNINGS.)
 
 ## Labor and Delivery
 

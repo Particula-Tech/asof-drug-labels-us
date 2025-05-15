@@ -21,7 +21,7 @@ Immune: Hypersensitivity reactions including urticaria, angioneurotic edema, ana
 
 Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been reported.
 
-Psychiatric: Depression, anxiety, suicidal ideation, insomnia, abnormal dreams, hallucination
+Psychiatric: Depression, anxiety, suicidal ideation, insomnia, abnormal dreams, hallucination.
 
 Other: Bulging fontanels in infants and intracranial hypertension in adults (See WARNINGS).
 
