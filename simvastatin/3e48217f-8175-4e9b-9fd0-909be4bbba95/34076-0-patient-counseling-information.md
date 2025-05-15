@@ -35,14 +35,16 @@ Instruct patients to take simvastatin tablets only as prescribed.
 If a dose is missed, it should be taken as soon as possible.
 Advise patients not to double their next dose.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
 MADE IN INDIA.
 
-September 2023
+June 2024

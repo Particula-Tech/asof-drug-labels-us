@@ -20,19 +20,17 @@ In a Cardiovascular Outcomes Study (the Scandinavian Simvastatin Survival Study 
 
 Table 1: Adverse Reactions Reported ≥2% of Patients Treated with Simvastatin and Greater than Placebo in Study 4S
 
-|  | % Placebo | % Simvastatin |
+|  | % Placebo (N = 2,223) | % Simvastatin (N = 2,221) |
 | --- | --- | --- |
-|  | (N = 2,223) | (N = 2,221) |
 | Bronchitis | 6.3 | 6.6 |
 | Abdominal pain | 5.8 | 5.9 |
 | Atrial fibrillation | 5.1 | 5.7 |
-|  | 3.9 | 4.9 |
-| Gastritis |  |  |
+| Gastritis | 3.9 | 4.9 |
 | Eczema | 3.0 | 4.5 |
 | Vertigo | 4.2 | 4.5 |
 | Diabetes mellitus | 3.6 | 4.2 |
 | Insomnia | 3.8 | 4.0 |
-| Myglia | 3.2 | 3.7 |
+| Myalgia | 3.2 | 3.7 |
 | Urinary tract infection | 3.1 | 3.2 |
 | Edema/swelling | 2.3 | 2.7 |
 | Headache | 2.1 | 2.5 |

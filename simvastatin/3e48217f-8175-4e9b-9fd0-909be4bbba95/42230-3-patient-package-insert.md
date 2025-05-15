@@ -184,14 +184,16 @@ Active ingredient: simvastatin.
 Inactive ingredients: ascorbic acid, citric acid, hydroxy propyl cellulose, hypromellose, iron oxides, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinised starch, talc and titanium dioxide.
 Butylated hydroxyanisole is added as a preservative.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: September 2023 ID#: 274378
+Revised: June 2024 ID#: 275725
