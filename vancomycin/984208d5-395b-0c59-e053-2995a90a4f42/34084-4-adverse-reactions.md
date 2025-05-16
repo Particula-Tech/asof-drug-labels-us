@@ -58,5 +58,5 @@ Thrombocytopenia has been reported.
 
 Miscellaneous: Anaphylaxis, drug fever, chills, nausea, eosinophilia, and vasculitis have been reported with the administration of vancomycin.
 
-A condition has been reported with oral vancomycin that is similar to the IV–induced syndrome with symptoms consistent with anaphylactoid reactions, including hypotension, wheezing, dyspnea, urticaria, pruritus, flushing of the upper body (“vancomycin infusion reaction”), pain and muscle spasm of the chest and back.
+A condition has been reported with oral vancomycin that is similar to the IV–induced syndrome with symptoms consistent with anaphylactoid reactions, including hypotension, wheezing, dyspnea, urticaria, pruritus, flushing of the upper body (“Red Man Syndrome”), pain and muscle spasm of the chest and back.
 These reactions usually resolve within 20 minutes but may persist for several hours.

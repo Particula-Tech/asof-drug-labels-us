@@ -34,7 +34,7 @@ Steps for the Preparation of Solutions of FIRVANQ
 1. Hold the neck of the bottle containing the vancomycin hydrochloride USP powder for oral solution (see Table 1), and tap the bottom edges on a hard surface to loosen the powder.
 2. Remove the cap from the vancomycin hydrochloride USP powder for oral solution bottle (“Powder Bottle”).
 3. Tap the top of the induction seal liner to loosen any powder that may have adhered to the liner.
-4. Carefully and slowly peel back the inner foil seal liner from the Powder Bottle.
+4. Carefully and slowly peel back the inner foil seal liner from the bottle.
 5. Shake the Grape‑Flavored Diluent (see Table 1) for a few seconds.
 6. Remove the cap from the diluent bottle.
 7. Carefully and slowly peel back the inner foil seal from the diluent bottle.
