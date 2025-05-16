@@ -15,7 +15,7 @@ Additional Information about Insulin Glargine-yfgn:
 - •The Insulin Glargine-yfgn prefilled pen dials in 1-unit increments.
 - •Needles are not included in the packs.
 
-BD® Ultra-Fine needles are compatible with this pen.
+Embecta Ultra Fine needles are compatible with this pen.
 
 ## 16.2 Storage
 

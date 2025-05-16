@@ -37,4 +37,4 @@ When switching from:
 
 - •Once-daily insulin glargine 300 units/mL to once-daily Insulin Glargine-yfgn (100 units/mL), the recommended starting Insulin Glargine-yfgn dosage is 80% of the insulin glargine, 300 units/mL dosage that is being discontinued.
 - •Once-daily NPH insulin to once-daily Insulin Glargine-yfgn, the recommended starting Insulin Glargine-yfgn dosage is the same as the dosage of NPH that is being discontinued.
-- •Twice-daily NPH insulin to once-daily insulin Glargine-yfgn, the recommended starting insulin Glargine-yfgn dosage is 80% of the total NPH dosage that is being discontinued.
+- •Twice-daily NPH insulin to once-daily Insulin Glargine-yfgn, the recommended starting Insulin Glargine-yfgn dosage is 80% of the total NPH dosage that is being discontinued.

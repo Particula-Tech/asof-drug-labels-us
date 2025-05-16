@@ -38,12 +38,22 @@ WARNING: Keep this and all medication out of the reach of children.
 
 Use within 28 days after initial use.
 
-*BD® Ultra-Fine needles are compatible with insulin Glargine injection.
-These are sold separately and manufactured by BD.
+Initial Use Date:
 
-BD is a registered trademark of Becton, Dickinson, and Company.
+Pen 1: _____ / _____ / ______.
 
-© 2023 Biocon Biologics Inc.
+Pen 2: _____ / _____ / ______.
+
+Pen 3: _____ / _____ / ______.
+
+Pen 4: _____ / _____ / ______.
+
+Pen 5: _____ / _____ / ______.
+
+Embecta Ultra-Fine needles are compatible with insulin Glargine injection.
+These are sold separately and manufactured by embecta.
+
+Copyright © 2025 Biocon Biologics Inc. All rights reserved.
 
 Manufactured by: Biocon Biologics Inc., 245 Main St, 2nd Floor Cambridge, MA 02142, U.S.A. U.S. License No. 2324 Product of Malaysia
 

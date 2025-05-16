@@ -47,7 +47,8 @@ To avoid medication errors between Insulin Glargine-yfgn and other insulins, ins
 ## 5.5 Hypersensitivity Reactions
 
 Severe, life-threatening, generalized allergy, including anaphylaxis, can occur with insulins, including insulin glargine products [see Adverse Reactions (6.1)].
-If hypersensitivity reactions occur, discontinue insulin glargine-yfgn; treat per standard of care and monitor until symptoms and signs resolve. insulin glargine-yfgn is contraindicated in patients who have had hypersensitivity reactions to insulin glargine products or one of the excipients.
+If hypersensitivity reactions occur, discontinue Insulin Glargine-yfgn; treat per standard of care and monitor until symptoms and signs resolve.
+Insulin Glargine-yfgn is contraindicated in patients who have had hypersensitivity reactions to insulin glargine products or one of the excipients.
 
 ## 5.6 Hypokalemia
 

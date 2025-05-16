@@ -36,8 +36,8 @@ Insulin Glargine-yfgn (in′ su lin glar′ jeen) injection for subcutaneous use
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2023
+Revised: 03/2025
 
-© 2023 Biocon Biologics Inc.
+Copyright © 2025 Biocon Biologics Inc. All rights reserved.
 
 Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor Cambridge, MA 02142 U.S.A. U.S. License No. 2324 Product of Malaysia

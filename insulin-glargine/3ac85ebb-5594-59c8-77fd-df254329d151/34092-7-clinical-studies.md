@@ -93,7 +93,7 @@ Table 10: Type 1 Diabetes Mellitus – Pediatric Patients
 
 ## 14.3 Clinical Studies in Adults with Type 2 Diabetes
 
-In a randomized, controlled clinical study (Study E) in 570 adults with type 2 diabetes, insulin glargine was evaluated for 52 weeks in combination with oral anti-diabetic medications (a sulfonylurea, metformin, acarbose, or combinations of these drugs).
+In a randomized, controlled clinical study (Study E) in 570 adults with type 2 diabetes, insulin glargine was evaluated for 52 weeks in combination with oral antidiabetic medications (a sulfonylurea, metformin, acarbose, or combinations of these drugs).
 The average age was 60 years old.
 The majority of patients were White (93%) and 54% were male.
 The mean BMI was approximately 29.1 kg/m2.
@@ -165,7 +165,7 @@ The maximum mean blood glucose was observed just prior to insulin glargine injec
 In this study, 5% of patients in the insulin glargine-breakfast group discontinued treatment because of lack of efficacy.
 No patients in the other two groups (pre-dinner, bedtime) discontinued for this reason.
 
-The safety and efficacy of once daily insulin glargine administered pre-breakfast or at bedtime were also evaluated in a randomized, active-controlled clinical study (Study I, n = 697) in patients with type 2 diabetes not adequately controlled on oral anti-diabetic therapy.
+The safety and efficacy of once daily insulin glargine administered pre-breakfast or at bedtime were also evaluated in a randomized, active-controlled clinical study (Study I, n = 697) in patients with type 2 diabetes not adequately controlled on oral antidiabetic therapy.
 All patients in this study also received glimepiride 3 mg daily.
 The average age was 61 years.
 The majority of patients were White (97%) and 54% were male.
@@ -198,7 +198,7 @@ Insulin glargine was compared to NPH insulin in a 5-year randomized clinical stu
 Patients had type 2 diabetes (mean age 55 years) with no (86%) or mild (14%) retinopathy at baseline.
 Mean baseline HbA1c was 8.4%.
 The primary outcome was progression by 3 or more steps on the ETDRS scale at study endpoint.
-Patients with pre-specified post-baseline eye procedures (pan-retinal photocoagulation for proliferative or severe nonproliferative diabetic retinopathy, local photocoagulation for new vessels, and vitrectomy for diabetic retinopathy) were also considered as 3-step progressors regardless of actual change in ETDRS score from baseline.
+Patients with prespecified postbaseline eye procedures (pan-retinal photocoagulation for proliferative or severe nonproliferative diabetic retinopathy, local photocoagulation for new vessels, and vitrectomy for diabetic retinopathy) were also considered as 3-step progressors regardless of actual change in ETDRS score from baseline.
 Retinopathy graders were blinded to treatment group assignment.
 
 The results for the primary endpoint are shown in Table 13 for both the per-protocol and intent-to-treat populations, and indicate similarity of insulin glargine to NPH in the progression of diabetic retinopathy as assessed by this outcome.

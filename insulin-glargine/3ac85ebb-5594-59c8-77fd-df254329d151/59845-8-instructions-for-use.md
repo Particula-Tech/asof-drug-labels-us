@@ -143,9 +143,9 @@ Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor Cambridge, MA 0214
 
 # INSTRUCTIONS FOR USE
 
-Insulin Glargine-yfgn(in' su lin glar' jeen) injection, for subcutaneous use 3 mL Single-Patient-Use PREFILLED PEN: 100 units/mL (U-100) This product is SEMGLEE (insulin glargine-yfgn).
+Insulin Glargine-yfgn (in' su lin glar' jeen) injection, for subcutaneous use 3 mL Single-Patient-Use PREFILLED PEN: 100 units/mL (U-100) This product is SEMGLEE (insulin glargine-yfgn).
 
-Read these Instructions for Use before you start taking the Insulin Glargine-yfgn pen and each time you get a new Insulin Glargine-yfgn pen.
+Read these Instructions for Use before you start using the Insulin Glargine-yfgn pen and each time you get a new Insulin Glargine-yfgn pen.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
 
@@ -162,13 +162,13 @@ The plunger will only move to the end of the cartridge when 300 units of Insulin
 
 Important Information You Need to Know Before Injecting Insulin Glargine-yfgn:
 
-- •Do not use your pen if it is damaged or if you are not sure that it is working properly.
-- •Do not use a syringe to remove Insulin Glargine-yfgn from your pen.
-- •Do not reuse needles.
-  If you do, you might get the wrong dose of Insulin Glargine-yfgn and/or increase the chance of getting an infection.
-- •Always perform a safety test (see Step 3).
-- •Always carry a spare pen and spare needles in case they get lost or stop working.
-- •Change (rotate) your injection sites within the area you choose for each dose (see “Places to Inject”)
+- Do not use your pen if it is damaged or if you are not sure that it is working properly.
+- Do not use a syringe to remove Insulin Glargine-yfgn from your pen.
+- Do not reuse needles.
+  If you do, you might get the wrong dose of Insulin Glargine-yfgn or you may increase the chances of getting an infection.
+- Always perform a safety test (see Step 3).
+- Always carry a spare pen and spare needles in case they get lost or stop working.
+- Change (rotate) your injection sites within the area you choose for each dose (see Places to Inject)
 
 Learn to Inject
 
@@ -186,7 +186,7 @@ Extra Items You Will Need
 - •A new sterile needle (see Step 2).
 - •An alcohol swab.
 - •A puncture-resistant container for used needles and pens.
-  (See “Throwing your pen away”)
+  (See Throwing your pen away)
 
 Places to inject
 
@@ -231,7 +231,7 @@ Step 2: Attach a new needle
   Always use a new sterile needle for each injection.
   This helps stop blocked needles, contamination, and infection.
 
-Only use needles that are compatible for use with Insulin Glargine-yfgn, such as BD Ultra Fine®
+Only use needles that are compatible for use with Insulin Glargine-yfgn, such as Embecta Ultra Fine.
 
 2A Take a new needle and peel off the protective seal (See Figure f).
 
@@ -313,7 +313,7 @@ See the section below for help.
 Do not touch the injection button yet.
 
 5C Place your thumb on the injection button.
-Then press all the way in and hold (See Figure q).
+Slowly press all the way in and hold (see Figure q). Do not press hard.
 
 - •Do not press at an angle.
   Your thumb could block the dose selector from turning.
@@ -330,7 +330,6 @@ If you find it hard to press the button in:
 - •Change the needle (see Step 6 and Step 2) then do a safety test (see Step 3).
 - •If you still find it hard to press in, get a new pen.
 - •Do not use a syringe to remove insulin from your pen.
-- 
 
 Step 6: Remove the needle
 
@@ -348,7 +347,7 @@ Turn your pen several times with your other hand to remove the needle (See Figur
 
 - •Try again if the needle does not come off the first time.
 
-6C Throw away the used needle in a puncture-resistant container (see “Throwing your pen away” at the end of this Instructions for Use).
+6C Throw away the used needle in a puncture-resistant container (see Throwing your pen away at the end of this Instructions for Use).
 (See Figure u).
 
 6D Put your pen cap back on (See Figure v).
@@ -374,7 +373,7 @@ After first use:
 - •Only use your pen for up to 28 days after its first use.
   Throw away the Insulin Glargine-yfgn pen you are using after 28 days, even if it still has insulin left in it.
 
-Caring for Your Insulin Glargine-yfgnPen
+Caring for Your Insulin Glargine-yfgn Pen
 
 Handle your pen with care
 
@@ -407,8 +406,8 @@ Throwing your Pen away
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2023
-
-BD is a registered trademark of Becton, Dickinson, and Company. © 2023 Biocon Biologics Inc.
+Revised: 03/2025
 
 Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor Cambridge, MA 02142 U.S.A U.S. License No. 2324 Product of Malaysia
+
+Copyright © 2025 Biocon Biologics Inc. All rights reserved

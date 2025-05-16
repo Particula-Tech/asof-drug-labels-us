@@ -9,4 +9,4 @@ Insulin Glargine-yfgn is a sterile, clear and colorless solution for subcutaneou
 Prefilled Pen and Vial: Each mL contains 100 units of insulin glargine-yfgn and the inactive ingredients: glycerol (20 mg), metacresol (2.7 mg), zinc chloride (content adjusted to provide 30 mcg zinc ion), and Water for Injection, USP.
 The vial also contains polysorbate 20 (20 mcg).
 The pH is adjusted by addition of aqueous solutions of hydrochloric acid and/or sodium hydroxide.
-Insulin glargine - yfgn has a pH of approximately 4.
+Insulin Glargine - yfgn has a pH of approximately 4.

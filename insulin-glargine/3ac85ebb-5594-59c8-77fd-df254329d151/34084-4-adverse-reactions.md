@@ -13,8 +13,8 @@ The following adverse reactions are discussed elsewhere:
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in clinical trials of a drug cannot be directly compared to rates in the clinical trial of another drug and may not reflect the rates observed in practice.
 
 The data in Table 1 reflect the exposure of 2,327 patients with type 1 diabetes to insulin glargine or NPH in Studies A, B, C, and D [see Clinical Studies (14.2)].
-The type 1 diabetes population had the following characteristics: Mean age was 39 years.
-54% were male, and mean body mass index (BMI) was 25.1 Kg/m2.
+The type 1 diabetes population had the following characteristics: the mean age was 39 years.
+54% were male, and the mean body mass index (BMI) was 25.1 Kg/m2.
 Ninety-seven percent were White, 2% were Black or African American and less than 1% were Asian.
 Approximately 3% of the patients in studies B and C were Hispanic.
 
