@@ -5,11 +5,10 @@ Hyperpigmentation of the thyroid has been produced by members of the tetracyclin
 Minocycline, tetracycline PO4, methacycline, doxycycline, tetracycline base, oxytetracycline HCl and tetracycline HCl were goitrogenic in rats fed a low iodine diet.
 This goitrogenic effect was accomplished by high radioactive iodine uptake.
 Administration of minocycline also produced a large goiter with high radioiodine uptake in rats fed a relatively high iodine diet.
-
 Treatment of various animal species with this class of drugs has also resulted in the induction of thyroid hyperplasia in the following: in rats and dogs (minocycline), in chickens (chlortetracycline) and in rats and mice (oxytetracycline).
 Adrenal gland hyperplasia has been observed in goats and rats treated with oxytetracycline.
 
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-03-2018-00
+04-2025-01

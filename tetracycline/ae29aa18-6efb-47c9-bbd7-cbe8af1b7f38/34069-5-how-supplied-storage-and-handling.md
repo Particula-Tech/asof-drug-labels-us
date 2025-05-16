@@ -10,7 +10,7 @@ They are available as follows:
 
 Bottles of 100: NDC 69238-1523-1
 
-Dispense in a tight, light-resistant containers as defined in the USP.
+Dispense in a tight, light-resistant container as defined in the USP.
 Use child-resistant closure (as required).
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
