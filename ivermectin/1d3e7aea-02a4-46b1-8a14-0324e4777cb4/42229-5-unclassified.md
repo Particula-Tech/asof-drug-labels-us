@@ -31,6 +31,6 @@ Manufactured by Padagis® Yeruham, Israel
 
 www.padagis.com
 
-Rev 10-22
+Rev 03-24
 
-3Y100 RC PH3
+3Y100 RC PH4
