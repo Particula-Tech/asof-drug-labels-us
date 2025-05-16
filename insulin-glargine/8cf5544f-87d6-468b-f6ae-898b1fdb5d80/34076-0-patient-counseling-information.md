@@ -27,6 +27,6 @@ Hypersensitivity Reactions
 Advise patients that hypersensitivity reactions have occurred with insulin glargine products.
 Inform patients about the symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
 
-BD is a registered trademark of Becton, Dickinson, and Company.
+LANTUS is a registered trademark of Sanofi-Aventis Deutschland gmbh.
 
 Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor, Cambridge, MA 02142 U.S.A U.S. License No. 2324 Product of Malaysia

@@ -17,7 +17,7 @@ Additional Information about SEMGLEE:
 
 - Needles are not included in the packs.
 
-BD® Ultra-Fine needles are compatible with this pen.
+Embecta Ultra-Fine needles are compatible with this pen.
 
 ## 16.2 Storage
 

@@ -167,7 +167,7 @@ PATIENT INFORMATION
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 11/2023
+Revised: 03/2025
 
 SEMGLEE is a registered trademark of Biosimilars New Co Ltd; a Biocon Biologics Company.
 Copyright © 2023 Biocon Biologics Inc. All rights reserved.
@@ -258,7 +258,7 @@ Step 2: Attach a new needle
 Always use a new sterile needle for each injection.
 This helps stop blocked needles, contamination, and infection.
 
-Only use needles that are compatible for use with SEMGLEE, such as BD Ultra Fine®
+Only use needles that are compatible for use with SEMGLEE, such as embecta Ultra Fine
 
 2A Take a new needle and peel off the protective seal (See Figure f).
 
@@ -413,12 +413,10 @@ Do not recycle your used sharps disposal container.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 11/2024
+Revised: 03/2025
 
-BD is a registered trademark of Becton, Dickinson, and Company.
+SEMGLEE is a registered trademark of Biosimilars New Co Ltd; a Biocon Biologics company.
 
-SEMGLEE is a registered trademark of Biosimilars New Co Ltd; a Biocon Biologics.
-
-Copyright © 2023 Biocon Biologics Inc. All rights reserved
+Copyright © 2025 Biocon Biologics Inc. All rights reserved
 
 Manufactured by: Biocon Biologics Inc. 245 Main St, 2nd Floor Cambridge, MA 02142 U.S.A U.S. License No. 2324 Product of Malaysia
