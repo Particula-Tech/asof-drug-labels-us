@@ -42,18 +42,8 @@ The effects on fertility are reversible [see Warnings and Precautions (5.15) and
 
 The brands listed are trademarks of their respective owners.
 
-Distributed by:
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
 
-Aurobindo Pharma USA, Inc.
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
 
-279 Princeton-Hightstown Road
-
-East Windsor, NJ 08520
-
-Manufactured by:
-
-Aurobindo Pharma Limited
-
-Hyderabad-500 032, India
-
-Revised: 03/2025
+Revised: 04/2025

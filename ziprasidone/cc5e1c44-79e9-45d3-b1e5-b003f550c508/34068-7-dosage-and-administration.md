@@ -34,5 +34,5 @@ Patients should be periodically reassessed to determine the need for maintenance
 
 ## 2.5 Switching Patients to or from a Monoamine Oxidase Inhibitor (MAOI) Antidepressant
 
-At least 14 days must elapse between discontinuation of an MAOI (intended to treat psychiatric disorders) and initiation of therapy with ziprasidone tablets.
-In addition, at least 3 days should be allowed after stopping ziprasidone tablets before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.3), Warnings and Precautions (5.2), and Drug Interactions (7.1)].
+At least 14 days must elapse between discontinuation of an MAOI (intended to treat psychiatric disorders) and initiation of therapy with ziprasidone.
+In addition, at least 3 days should be allowed after stopping ziprasidone before starting an MAOI intended to treat psychiatric disorders [see Contraindications (4.3), Warnings and Precautions (5.2), and Drug Interactions (7.1)].
