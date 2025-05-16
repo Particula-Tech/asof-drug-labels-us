@@ -2,7 +2,7 @@
 
 Clinical Presentation
 
-Acute emergencies from use of bupivacaine hydrochloride are generally related to high plasma levels encountered during therapeutic use or to unintended intrathecal injection [see Warnings and Precautions (5.2, 5.9), Adverse Reactions (6)].
+Acute emergencies from use of bupivacaine hydrochloride are generally related to high plasma levels encountered during therapeutic use or to unintended intrathecal injection[see Warnings and Precautions (5.2, 5.9), Adverse Reactions (6)].
 
 If not treated immediately, convulsions with simultaneous hypoxia, hypercarbia, and acidosis plus myocardial depression from the direct effects of bupivacaine may result in cardiac arrhythmias, bradycardia, asystole, ventricular fibrillation, or cardiac arrest.
 Respiratory abnormalities, including apnea, may occur.

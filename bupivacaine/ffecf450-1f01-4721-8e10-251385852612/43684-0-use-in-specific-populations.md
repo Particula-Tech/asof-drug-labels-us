@@ -37,9 +37,7 @@ The high dose is comparable to the daily MRHD of 400 mg/day on a BSA basis.
 
 ## 8.2 Lactation
 
-Risk Summary
-
-Lactation studies have not been conducted with bupivacaine.
+Risk Summary Lactation studies have not been conducted with bupivacaine.
 Bupivacaine has been reported to be excreted in human milk suggesting that the nursing infant could be theoretically exposed to a dose of the drug.
 Bupivacaine hydrochloride should be administered to lactating women only if clearly indicated.
 Studies assessing the effects of bupivacaine hydrochloride in breastfed children have not been performed.
@@ -50,17 +48,13 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Bupivacaine hydrochloride is approved for use in adults.
 Administration of bupivacaine hydrochloride in pediatric patients younger than 12 years is not recommended.
-
 Continuous infusions of bupivacaine in pediatric patients have been reported to result in high systemic levels of bupivacaine and seizures; high plasma levels may also be associated with cardiovascular abnormalities.
 
 ## 8.5 Geriatric Use
 
 Patients 65 years and over, particularly those with hypertension, may be at increased risk for developing hypotension while undergoing anesthesia with bupivacaine hydrochloride.
-
 In clinical studies of bupivacaine, elderly patients reached the maximal spread of analgesia and maximal motor blockade more rapidly than younger adult patients.
-
 Differences in various pharmacokinetic parameters have been observed between elderly and younger adult patients [see Clinical Pharmacology (12.3)].
-
 This product is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
 Elderly patients may require lower doses of bupivacaine hydrochloride.

@@ -10,4 +10,4 @@ It has the following structural formula:
 
 Bupivacaine hydrochloride injection, USP is a clear and colorless sterile isotonic solution.
 Each mL of single-dose vial contains 2.5 mg, 5 mg or 7.5 mg of bupivacaine hydrochloride, USP (equivalent to 2.22 mg, 4.44 mg or 6.66 mg of bupivacaine, respectively), sodium chloride for isotonicity, sodium hydroxide or hydrochloric acid to adjust the pH between 4 and 6.5, in water for injection.
-For the Multiple-dosevials,each mL also contains 1 mg methylparaben as preservative.
+For the Multiple-dose vials, each mL also contains 1 mg methylparaben as preservative.
