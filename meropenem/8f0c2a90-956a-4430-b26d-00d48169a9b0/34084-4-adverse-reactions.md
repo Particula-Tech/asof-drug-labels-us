@@ -7,7 +7,7 @@ The following are discussed in greater detail in other sections of labeling:
 - •Rhabdomyolysis [see Warnings and Precautions (5.3)]
 - •Seizure Potential [see Warnings and Precautions (5.4)]
 - •Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.5)]
-- •Clostridioides difficile – associated Diarrhea [see Warnings and Precautions (5.6)]
+- •Clostridioides difficile–associated Diarrhea [see Warnings and Precautions (5.6)]
 - •Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.7)]
 - •Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.8)]
 - •Thrombocytopenia [see Warnings and Precautions (5.9)]
@@ -144,3 +144,5 @@ Immune System Disorders: angioedema.
 Skin and Subcutaneous Disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme and acute generalized exanthematous pustulosis.
 
 Musculoskeletal Disorders: rhabdomyolysis.
+
+Hepatic Disorders: drug-induced liver injury.
