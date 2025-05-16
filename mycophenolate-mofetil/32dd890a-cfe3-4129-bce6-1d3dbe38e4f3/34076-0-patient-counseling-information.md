@@ -80,6 +80,10 @@ Strides Pharma Inc.
 
 East Brunswick, NJ 08816
 
-Revised: 09/2022
+Revised: 03/2025
 
-Medication Guide available at: www.strides.com/medication-guides
+Medication Guide available at:
+
+For Capsules: www.strides.com/mmf-caps/
+
+For Tablets: www.strides.com/mmf-tabs/
