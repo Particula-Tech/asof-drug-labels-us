@@ -2,7 +2,7 @@
 
 ## 5.1 Acute Myopia and Secondary Angle Closure Glaucoma Syndrome
 
-A syndrome consisting of acute myopia associated with secondary angle closure glaucoma has been reported in patients receiving topiramate.
+A sndrome consisting of acute myopia associated with secondary angle closure glaucoma has been reported in patients receiving topiramate.
 Symptoms include acute onset of decreased visual acuity and/or ocular pain.
 Ophthalmologic findings can include some or all of the following: myopia, mydriasis, anterior chamber shallowing, ocular hyperemia (redness), choroidal detachments, retinal pigment epithelial detachments, macular striae, and increased intraocular pressure.
 This syndrome may be associated with supraciliary effusion resulting in anterior displacement of the lens and iris, with secondary angle closure glaucoma.

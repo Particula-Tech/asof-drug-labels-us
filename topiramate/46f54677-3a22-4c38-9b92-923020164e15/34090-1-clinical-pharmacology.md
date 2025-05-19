@@ -98,14 +98,14 @@ As in adults, hepatic enzyme-inducing antiepileptic drugs decrease the steady st
 
 Pediatric Patients with Obesity
 
-A population PK analysis of topiramate was conducted in 129 obese and non-obese children <21 years of age to evaluate the potential impact of obesity on plasma topiramate exposures.
+A population PK analysis of topiramate was conducted in 129 children <21 years of age with and without obesity to evaluate the potential impact of obesity on plasma topiramate exposures.
 Obesity was defined as BMI ≥95th percentile for age and sex based on CDC-recommended BMI-for-age growth charts for males and females.
-Using the currently recommended dosing regimens, obese patients are predicted to have median values of maximum concentration at steady-state, average concentration at steady-state, and trough concentration at steady-state that are up to 34% lower, 20% lower, and 19% lower, respectively, compared to non-obese patients.
-Dosage adjustment according to obesity status is not necessary.
+Using the currently recommended dosing regimens, children with obesity are likely to have median values of average concentration at steady-state and trough concentration at steady-state that are up to 20% lower and 19% lower, respectively, compared to children without obesity.
+Dosage adjustment according to obesity status is not necessary..
 
 Drug Interactions
 
-In vitrostudies indicate that topiramate does not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, or CYP3A4/5 isozymes.
+In vitros tudies indicate that topiramate does not inhibit CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2D6, CYP2E1, or CYP3A4/5 isozymes.
 In vitrostudies indicate that topiramate is a mild inhibitor of CYP2C19 and a mild inducer of CYP3A4.
 
 Antiepileptic Drugs
@@ -114,21 +114,28 @@ Potential interactions between immediate-release topiramate and standard AEDs we
 The effects of these interactions on mean plasma AUCs are summarized in Table 12.
 Interaction of QUDEXY XR and standard AEDs is not expected to differ from the experience with immediate-release topiramate products.
 
-In Table 12, the second column (AED concentration) describes what happens to the concentration of the co-administered AED listed in the first column when topiramate was added.
-The third column (topiramate concentration) describes how the co-administration of a drug listed in the first column modifies the concentration of topiramate when compared to topiramate given alone.
+In Table 12, the second column (AED concentration) describes what happens to the concentration of the co‑administered AED listed in the first column when topiramate was added.
+The third column (topiramate concentration) describes how the co‑administration of a drug listed in the first column modifies the concentration of topiramate when compared to topiramate given alone.
 
 Table 12: Summary of AED Interactions with Topiramate
 
-| AED Co-administered | AED Concentration | Topiramate Concentration |
-| --- | --- | --- |
-| Phenytoin | NC or 25% increase Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin | 48% decrease |
-| Carbamazepine (CBZ) | NC | 40% decrease |
-| CBZ epoxide Is not administered, but is an active metabolite of carbamazepine | NC | NE |
-| Valproic acid | 11% decrease | 14% decrease |
-| Phenobarbital | NC | NE |
-| Primidone | NC | NE |
-| Lamotrigine | NC at TPM doses up to 400 mg per day | 13% decrease |
-| NC=Less than 10% change in plasma concentration AED=Antiepileptic drug NE=Not evaluated TPM=topiramate |  |  |
+| AEDCo‑administered | AEDConcentration | Topiramate Concentration |  |
+| --- | --- | --- | --- |
+| Phenytoin | NC or 25% increase Plasma concentration increased 25% in some patients, generally those on a twice a day dosing regimen of phenytoin | 48% decrease |  |
+| Carbamazepine (CBZ) | NC | 40% decrease |  |
+| CBZ epoxide Is not administered, but is an active metabolite of carbamazepine | NC | NE |  |
+| Valproic acid | 11% decrease | 14% decrease |  |
+| Phenobarbital | NC | NE |  |
+| Primidone | NC | NE |  |
+| Lamotrigine | NC at TPM doses up to 400 mg per day | 13% decrease |  |
+
+NC=Less than 10% change in plasma concentration
+
+AED=Antiepileptic drug
+
+NE=Not evaluated
+
+TPM=topiramate
 
 Oral Contraceptives
 
