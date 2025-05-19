@@ -10,13 +10,13 @@ Prefilled Syringe
 Each prefilled syringe is equipped with a 29 gauge fixed 1/2 inch needle with a rigid needle shield and a plunger stopper.
 The following configurations are available:
 
-- 1 prefilled syringe (120 mg/mL solution) with 2 alcohol pads.
+- One prefilled syringe (120 mg/mL solution) and one dose tray with two alcohol pads.
   (NDC: 72606-025-05)
-- 2 prefilled syringes (120 mg/mL solution) with 2 alcohol pads.
+- Two prefilled syringes (120 mg/mL solution) and two dose trays with two alcohol pads.
   (NDC: 72606-025-06)
-- 4 prefilled syringes (120 mg/mL solution) with 4 alcohol pads.
+- Four prefilled syringes (120 mg/mL solution) and four dose trays with four alcohol pads.
   (NDC: 72606-025-07)
-- 6 prefilled syringes (120 mg/mL solution) with 6 alcohol pads.
+- Six prefilled syringes (120 mg/mL solution) and six dose trays with six alcohol pads.
   (NDC: 72606-025-08)
 
 Prefilled Syringe with Needle Guard
@@ -24,13 +24,13 @@ Prefilled Syringe with Needle Guard
 Each prefilled syringe is equipped with a 29 gauge fixed 1/2 inch needle with a rigid needle shield and an automatic needle guard, and a plunger stopper.
 The following configurations are available:
 
-- 1 prefilled syringe with needle guard (120 mg/mL solution) with 2 alcohol pads.
+- One prefilled syringe with needle guard (120 mg/mL solution) and one does tray with two alcohol pads.
   (NDC: 72606-025-09)
-- 2 prefilled syringes with needle guard (120 mg/mL solution) with 2 alcohol pads.
+- Two prefilled syringes with needle guard (120 mg/mL solution) and two dose trays with two alcohol pads.
   (NDC: 72606-025-10)
-- 4 prefilled syringes with needle guard (120 mg/mL solution) with 4 alcohol pads.
+- Four prefilled syringes with needle guard (120 mg/mL solution) and four dose trays with four alcohol pads.
   (NDC: 72606-025-11)
-- 6 prefilled syringes with needle guard (120 mg/mL solution) with 6 alcohol pads.
+- Six prefilled syringes with needle guard (120 mg/mL solution) and six dose trays with six alcohol pads.
   (NDC: 72606-025-12)
 
 Prefilled Pen
@@ -38,13 +38,13 @@ Prefilled Pen
 Each prefilled pen is equipped with a 27 gauge fixed 1/2 inch needle with a rigid needle shield and a plunger stopper.
 The following configurations are available:
 
-- 1 prefilled pen (120 mg/mL solution) with 2 alcohol pads.
+- One prefilled pen (120 mg/mL solution) and one dose tray with two alcohol pads.
   (NDC: 72606-025-01)
-- 2 prefilled pens (120 mg/mL solution with 2 alcohol pads.
+- Two prefilled pens (120 mg/mL solution and two dose trays with two alcohol pads.
   (NDC: 72606-025-02)
-- 4 prefilled pens (120 mg/mL solution) with 4 alcohol pads.
+- Four prefilled pens (120 mg/mL solution) and four dose trays with four alcohol pads.
   (NDC: 72606-025-03)
-- 6 prefilled pens (120 mg/mL solution) with 6 alcohol pads.
+- Six prefilled pens (120 mg/mL solution) and six dose trays with six alcohol pads.
   (NDC: 72606-025-04)
 
 Storage and Handling
