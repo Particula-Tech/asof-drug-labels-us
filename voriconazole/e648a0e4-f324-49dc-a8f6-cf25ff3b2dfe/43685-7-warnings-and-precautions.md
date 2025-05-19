@@ -53,7 +53,8 @@ Voriconazole has been associated with photosensitivity skin reaction.
 Patients, including pediatric patients, should avoid exposure to direct sunlight during voriconazole treatment and should use measures such as protective clothing and sunscreen with high sun protection factor (SPF).
 If phototoxic reactions occur, the patient should be referred to a dermatologist and voriconazole discontinuation should be considered.
 If voriconazole is continued despite the occurrence of phototoxicity-related lesions, dermatologic evaluation should be performed on a systematic and regular basis to allow early detection and management of premalignant lesions.
-Squamous cell carcinoma of the skin (including cutaneous SCC in situ, or Bowen’s disease) and melanoma have been reported during long-term voriconazole therapy in patients with photosensitivity skin reactions.If a patient develops a skin lesion consistent with premalignant skin lesions, squamous cell carcinoma or melanoma, voriconazole should be discontinued.
+Squamous cell carcinoma of the skin (including cutaneous SCC in situ, or Bowen’s disease) and melanoma have been reported during long-term voriconazole therapy in patients with photosensitivity skin reactions.
+If a patient develops a skin lesion consistent with premalignant skin lesions, squamous cell carcinoma or melanoma, voriconazole should be discontinued.
 In addition, voriconazole has been associated with photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus, as well as increased risk of skin toxicity with concomitant use of methotrexate, a drug associated with ultraviolet (UV) reactivation.
 There is the potential for this risk to be observed with other drugs associated with UV reactivation.
 Patients should avoid strong, direct sunlight during voriconazole therapy.

@@ -285,7 +285,7 @@ The most common adverse reactions occurring in ≥5% of pediatric patients recei
 | Hemoptysis | 5 (5) |  |
 | Skin and Subcutaneous Tissue Disorders | Rash | 14 (13) |
 | Vascular Disorders | Hypertension | 12 (11) |
-| Hypotension | 9(9) |  |
+| Hypotension | 9 (9) |  |
 
 The following adverse reactions with incidence less than 5% were reported in 105 pediatric patients treated with voriconazole:
 
