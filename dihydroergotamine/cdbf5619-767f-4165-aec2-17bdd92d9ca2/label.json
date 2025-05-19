@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA215400"
+  ],
+  "inn": "dihydroergotamine",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "64896-509-01",
+    "64896-509-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "dihydroergotamine mesylate",
+      "name": "BREKIYA"
+    }
+  ],
+  "setid": "cdbf5619-767f-4165-aec2-17bdd92d9ca2",
+  "source": "dailymed"
+}
