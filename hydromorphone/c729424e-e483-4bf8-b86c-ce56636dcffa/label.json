@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA217812"
+  ],
+  "inn": "hydromorphone",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0641-6254-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "hydromorphone hydrochloride",
+      "name": "Hydromorphone Hydrochloride"
+    }
+  ],
+  "setid": "c729424e-e483-4bf8-b86c-ce56636dcffa",
+  "source": "dailymed"
+}
