@@ -9,9 +9,3 @@ NDC 61037-479-02 Bottle of 4 fl. oz.
 (480 mL)
 
 STORAGE: Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F) [See USP Controlled Room Temperature]; or store refrigerated, 2-8°C (36-46°F).
-
-Manufactured by:
-
-Bajaj Medical, LLC Chicago IL 60609, USA
-
-Revised:07/2024

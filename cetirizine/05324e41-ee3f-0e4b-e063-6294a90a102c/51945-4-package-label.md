@@ -23,7 +23,7 @@ Bajaj Medical, LLC
 
 Chicago IL 60609, USA
 
-Revised:07/2024
+Revised: 05/2025
 
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL - 480 mL
 
@@ -50,4 +50,4 @@ Bajaj Medical, LLC
 
 Chicago IL 60609, USA
 
-Revised: 07/2024
+Revised: 05/2025
