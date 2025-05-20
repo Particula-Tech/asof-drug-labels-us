@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021187"
+  ],
+  "inn": "ethinyl-estradiol",
+  "labeler": "Advanz Pharma (US) Corp.",
+  "package_ndcs": [
+    "59212-146-01",
+    "59212-146-03"
+  ],
+  "products": [
+    {
+      "form": "INSERT, EXTENDED RELEASE",
+      "generic": "etonogestrel and ethinyl estradiol",
+      "name": "NuvaRing"
+    }
+  ],
+  "setid": "19ef66d1-913f-49a8-a0a5-59b4e20322f5",
+  "source": "dailymed"
+}
