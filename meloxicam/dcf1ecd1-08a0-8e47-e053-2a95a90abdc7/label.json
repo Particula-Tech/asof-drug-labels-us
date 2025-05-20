@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA215431"
+  ],
+  "inn": "meloxicam",
+  "labeler": "Axsome Therapeutics, Inc.",
+  "package_ndcs": [
+    "81968-020-03",
+    "81968-020-09"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "meloxicam, rizatriptan",
+      "name": "SYMBRAVO"
+    }
+  ],
+  "setid": "dcf1ecd1-08a0-8e47-e053-2a95a90abdc7",
+  "source": "dailymed"
+}
