@@ -111,7 +111,7 @@ There are, however, no adequate and well-controlled studies in pregnant women.
 Animal reproduction studies are not always predictive of human response.
 General consideration should be given to this fact before administering lidocaine HCl to women of childbearing potential, especially during early pregnancy when maximum organogenesis takes place.
 
-## ​Labor and Delivery
+## Labor and Delivery
 
 Local anesthetics rapidly cross the placenta and when used for epidural, paracervical, pudendal or caudal block anesthesia, can cause varying degrees of maternal, fetal and neonatal toxicity (see CLINICAL PHARMACOLOGY, Pharmacokinetics and Metabolism).
 The potential for toxicity depends upon the procedure performed, the type and amount of drug used, and the technique of drug administration.

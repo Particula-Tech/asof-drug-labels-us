@@ -61,8 +61,8 @@ Many commercially available brands of rubbing alcohol, as well as solutions of e
 Manufactured by HIKMA FARMACÊUTICA (PORTUGAL), S.A.
 Estrada do Rio da Mό, 8, 8A e 8B – Fervença 2705-906 Terrugem SNT, PORTUGAL
 
-Distributed by Hikma Pharmaceuticals USA Inc. Eatontown, NJ 07724 USA
+Distributed by Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised July 2019
+Revised January 2024
 
-PIN371–WES/3
+PIN371–WES/5
