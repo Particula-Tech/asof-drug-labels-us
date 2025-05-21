@@ -8,7 +8,7 @@ The intent-to-treat (ITT) population consisted of a total of 563 patients with p
 TABLE 6.
 Controlled PHN Studies: Duration, Dosages, and Number of Patients
 
-| Study | Study Duration | Gabapentin (mg/day)Given in 3 divided doses (TID) Target Dose | Patients Receiving Gabapentin | Patients Receiving Placebo |
+| Study | StudyDuration | Gabapentin(mg/day)Given in 3 divided doses (TID)Target Dose | PatientsReceivingGabapentin | PatientsReceivingPlacebo |
 | --- | --- | --- | --- | --- |
 | 1 | 8 weeks | 3600 | 113 | 116 |
 | 2 | 7 weeks | 1800, 2400 | 223 | 111 |
@@ -29,6 +29,9 @@ Pharmacokinetic/pharmacodynamic modeling provided confirmatory evidence of effic
 Figures 1 and 2 show pain intensity scores over time for Studies 1 and 2.
 
 The proportion of responders (those patients reporting at least 50% improvement in endpoint pain score compared to baseline) was calculated for each study (Figure 3).
+
+Figure 3.
+Proportion of Responders (patients with ≥50% reduction in pain score) at Endpoint: Controlled PHN Studies
 
 ## 14.2 Epilepsy for Partial Onset Seizures (Adjunctive Therapy)
 

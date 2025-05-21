@@ -5,17 +5,17 @@ The following serious adverse reactions are discussed in greater detail in other
 - •Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.1)]
 - •Anaphylaxis and Angioedema [see Warnings and Precautions (5.2)]
 - •Somnolence/Sedation and Dizziness [see Warnings and Precautions (5.4)]
-- •Withdrawal Precipitated Seizure, Status Epilepticus [see Warnings and Precautions (5.5)]
-- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.6)]
-- •Respiratory Depression [see Warnings and Precautions (5.7)]
-- •Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age) [see Warnings and Precautions (5.8)]
-- •Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Precautions (5.10)]
+- •Suicidal Behavior and Ideation [see Warnings and Precautions (5.5)]
+- •Increased Risk of Seizures and Other Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.6)]
+- •Status Epilepticus [see Warnings and Precautions (5.7)]
+- •Respiratory Depression [see Warnings and Precautions (5.8)]
+- •Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age) [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Postherpetic Neuralgia
+### Postherpetic Neuralgia
 
 The most common adverse reactions associated with the use of NEURONTIN in adults, not seen at an equivalent frequency among placebo-treated patients, were dizziness, somnolence, and peripheral edema.
 
@@ -27,7 +27,7 @@ Table 3 lists adverse reactions that occurred in at least 1% of NEURONTIN-treate
 TABLE 3.
 Adverse Reactions in Pooled Placebo-Controlled Trials in Postherpetic Neuralgia
 
-|  | NEURONTIN N=336 % | Placebo N=227 % |
+|  | NEURONTINN=336% | PlaceboN=227% |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 6 | 5 |
@@ -63,11 +63,11 @@ Other reactions in more than 1% of patients but equally or more frequent in the 
 There were no clinically important differences between men and women in the types and incidence of adverse reactions.
 Because there were few patients whose race was reported as other than white, there are insufficient data to support a statement regarding the distribution of adverse reactions by race.
 
-Epilepsy with Partial Onset Seizures (Adjunctive Therapy)
+### Epilepsy with Partial Onset Seizures (Adjunctive Therapy)
 
 The most common adverse reactions with NEURONTIN in combination with other antiepileptic drugs in patients >12 years of age, not seen at an equivalent frequency among placebo-treated patients, were somnolence, dizziness, ataxia, fatigue, and nystagmus.
 
-The most common adverse reactions with NEURONTIN in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.8)].
+The most common adverse reactions with NEURONTIN in combination with other antiepileptic drugs in pediatric patients 3 to 12 years of age, not seen at an equal frequency among placebo-treated patients, were viral infection, fever, nausea and/or vomiting, somnolence, and hostility [see Warnings and Precautions (5.9)].
 
 Approximately 7% of the 2074 patients >12 years of age and approximately 7% of the 449 pediatric patients 3 to 12 years of age who received NEURONTIN in premarketing clinical trials discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with withdrawal in patients >12 years of age were somnolence (1.2%), ataxia (0.8%), fatigue (0.6%), nausea and/or vomiting (0.6%), and dizziness (0.6%).
@@ -79,7 +79,7 @@ In these studies, either NEURONTIN or placebo was added to the patient’s curre
 TABLE 4.
 Adverse Reactions in Pooled Placebo-Controlled Add-On Trials in Epilepsy Patients >12 Years of Age
 
-|  | NEURONTINPlus background antiepileptic drug therapy N=543 % | Placebo N=378 % |
+|  | NEURONTINPlus background antiepileptic drug therapyN=543% | PlaceboN=378% |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Fatigue | 11 | 5 |
@@ -126,7 +126,7 @@ Table 5 lists adverse reactions that occurred in at least 2% of NEURONTIN-treate
 TABLE 5.
 Adverse Reactions in a Placebo-Controlled Add-On Trial in Pediatric Epilepsy Patients Age 3 to 12 Years
 
-|  | NEURONTINPlus background antiepileptic drug therapy N=119 % | Placebo N=128 % |
+|  | NEURONTINPlus background antiepileptic drug therapyN=119% | PlaceboN=128% |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Viral infection | 11 | 3 |
@@ -168,7 +168,7 @@ Reproductive System and Breast Disorders: breast enlargement, changes in libido,
 
 Skin and Subcutaneous Tissue Disorders: angioedema [see Warnings and Precautions (5.2)], bullous pemphigoid, erythema multiforme, Stevens-Johnson syndrome.
 
-There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking NEURONTIN with opioids or other CNS depressants, or in the setting of underlying respiratory impairment [see Warnings and Precautions (5.7)].
+There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking NEURONTIN with opioids or other CNS depressants, or in the setting of underlying respiratory impairment [see Warnings and Precautions (5.8)].
 
-Adverse reactions following the abrupt discontinuation of gabapentin have also been reported.
-The most frequently reported reactions were anxiety, insomnia, nausea, pain, and sweating.
+There are postmarketing reports of withdrawal symptoms after discontinuation of gabapentin.
+Reported adverse reactions include, but are not limited to, seizures, depression, suicidal ideation and behavior, agitation, confusion, disorientation, psychotic symptoms, anxiety, insomnia, nausea, pain, sweating, tremor, headache, dizziness, and malaise [see Warnings and Precautions (5.6)].
