@@ -27,8 +27,8 @@ BREO ELLIPTA was developed in collaboration with Innoviva, Inc.
 
 Made in UK
 
-1. 62000000086025 Rev.
-   5/23
+- 62000000086025 Rev.
+  5/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -59,8 +59,8 @@ BREO ELLIPTA was developed in collaboration with Innoviva, Inc.
 
 Made in UK
 
-1. 62000000089073 Rev.
-   7/23
+- 62000000089073 Rev.
+  7/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -91,5 +91,5 @@ BREO ELLIPTA was developed in collaboration with Innoviva, Inc.
 
 Made in UK
 
-1. 62000000089082 Rev.
-   7/23
+- 62000000089082 Rev.
+  7/23

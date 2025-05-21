@@ -30,7 +30,7 @@ The recommended dosage of BREO ELLIPTA 50/25 mcg (containing fluticasone furoate
 
 ## 2.3 Administration Information
 
-- •After inhalation, the patient should rinse his/her mouth with water without swallowing to help reduce the risk of oropharyngeal candidiasis [see Warnings and Precautions (5.4)]5.4)].
+- •After inhalation, the patient should rinse his/her mouth with water without swallowing to help reduce the risk of oropharyngeal candidiasis [see Warnings and Precautions (5.4)].
 - •BREO ELLIPTA should be used at the same time every day.
   Do not use BREO ELLIPTA more than 1 time every 24 hours.
 - •More frequent administration or a greater number of inhalations (more than 1 inhalation daily) of the prescribed strength of BREO ELLIPTA is not recommended as some patients are more likely to experience adverse effects with higher doses.
