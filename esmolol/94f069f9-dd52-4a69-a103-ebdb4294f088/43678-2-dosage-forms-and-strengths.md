@@ -6,4 +6,4 @@ Table 2: Esmolol Hydrochloride Injection Presentation
 | --- | --- |
 | Total Dose | 100 mg/10 mL |
 | Esmolol Hydrochloride Concentration | 10 mg/mL |
-| Packaging | 10 mL Vial |
+| Packaging | 10 mL Single-Dose Vial |

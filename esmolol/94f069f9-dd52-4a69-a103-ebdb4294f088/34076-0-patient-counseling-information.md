@@ -10,6 +10,6 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Institutional Galway, Ireland
 
-50095569
+50103382
 
-Revised: 9/2023 MI:ESMOIJ:R5
+Revised: 2/2025 MI:ESMOIJ:R6
