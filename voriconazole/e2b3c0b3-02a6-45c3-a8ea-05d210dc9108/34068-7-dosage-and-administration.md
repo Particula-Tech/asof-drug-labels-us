@@ -26,7 +26,7 @@ Patients should be treated for a minimum of 14 days and for at least 7 days foll
 
 Table 1: Recommended Dosing Regimen (Adults)
 
-|  | Intravenous infusion | Intravenous infusion | Oral‡ |
+|  | Intravenous infusion | Intravenous infusion | Oral tablets‡ |
 | --- | --- | --- | --- |
 | Infection | Loading Dose | Maintenance Dose*,† |  |
 | Invasive Aspergillosis§ | 6 mg/kg every 12 hours for the first 24 hours | 4 mg/kg every 12 hours | 200 mg every 12 hours |
@@ -45,11 +45,13 @@ Table 1: Recommended Dosing Regimen (Adults)
 
 Method for Adjusting the Dosing Regimen in Adults
 
-If patient's response is inadequate, the oral maintenance dose may be increased from 200 mg every 12 hours (similar to 3 mg/kg intravenously every 12 hours) to 300 mg every 12 hours (similar to 4 mg/kg intravenously every 12 hours).
-For adult patients weighing less than 40 kg, the oral maintenance dose may be increased from 100 mg every 12 hours to 150 mg every 12 hours.
-If patient is unable to tolerate 300 mg orally every 12 hours, reduce the oral maintenance dose by 50 mg steps to a minimum of 200 mg every 12 hours (or to 100 mg every 12 hours for adult patients weighing less than 40 kg).
+• If patient's response is inadequate, the oral maintenance dose may be increased from 200 mg every 12 hours (similar to 3 mg/kg intravenously every 12 hours) to 300 mg every 12 hours (similar to 4 mg/kg intravenously every 12 hours).
 
-If patient is unable to tolerate 4 mg/kg intravenously every 12 hours, reduce the intravenous maintenance dose to 3 mg/kg every 12 hours.
+• For adult patients weighing less than 40 kg, the oral maintenance dose may be increased from 100 mg every 12 hours to 150 mg every 12 hours.
+
+• If patient is unable to tolerate 300 mg orally every 12 hours, reduce the oral maintenance dose by 50 mg steps to a minimum of 200 mg every 12 hours (or to 100 mg every 12 hours for adult patients weighing less than 40 kg).
+
+• If patient is unable to tolerate 4 mg/kg intravenously every 12 hours, reduce the intravenous maintenance dose to 3 mg/kg every 12 hours.
 
 ## 2.4 Recommended Dosing Regimen in Pediatric Patients
 
@@ -58,9 +60,9 @@ For pediatric patients 12 to 14 years of age with a body weight greater than or 
 
 1. Table 2: Recommended Dosing Regimen for Pediatric Patients 2 to less than 12 years of age and 12 to 14 years of age with body weight less than 50 kgˆ
 
-| Intravenous infusion | Intravenous infusion | Oral |  |
+| Intravenous infusion | Intravenous infusion | Oral tablets |  |
 | --- | --- | --- | --- |
-| Infection | Loading Dose | Maintenance Dose |  |
+|  | Loading Dose | Maintenance Dose |  |
 | Invasive Aspergillosis* | 9 mg/kg every 12 hours for the first 24 hours | 8 mg/kg every 12 hours after the first 24 hours | 9 mg/kg every 12 hours (maximum dose of 350 mg every 12 hours) |
 | Candidemia in nonneutropenics and other deep tissue Candida infections† |  |  |  |
 | Scedosporiosis and Fusariosis |  |  |  |
@@ -90,7 +92,7 @@ Method for Adjusting the Dosing Regimen in Pediatric Patients
 Pediatric Patients 2 to less than 12 years of age and 12 to 14 years of age with body weight less than 50 kg
 
 If patient response is inadequate and the patient is able to tolerate the initial intravenous maintenance dose, the maintenance dose may be increased by 1 mg/kg steps.
-If patient response is inadequate and the patient is able to tolerate the oral maintenance dose, the dose may be increased by 1 mg/kg steps or 50 mg steps to a maximum of 350 mg every 12 hours.
+If patient response is inadequate and the patient is able to tolerate the oral maintenance dose, the dose may be increased by 1 mg/kg steps (0.0025 mL/kg) steps or 50 mg (1.25 mL) steps to a maximum of 350 mg every 12 hours.
 If patients are unable to tolerate the initial intravenous maintenance dose, reduce the dose by 1 mg/kg steps.
 If patients are unable to tolerate the oral maintenance dose, reduce the dose by 1 mg/kg or 50 mg steps.
 

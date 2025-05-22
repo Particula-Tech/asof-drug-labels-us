@@ -24,4 +24,4 @@ NDC 0781-5668-13, Carton of 100 Tablets (10 x 10 Unit-dose)
 
 ## 16.2 Storage
 
-Voriconazole tablets should be stored at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Voriconazole tablets should be stored at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].

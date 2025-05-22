@@ -17,6 +17,6 @@ Embryo-Fetal Toxicity
 - •Advise female patients of the potential risks to a fetus.
 - •Advise females of reproductive potential to use effective contraception during treatment with voriconazole.
 
-Manufactured in India by Sandoz Private Ltd.
+Manufactured by Sandoz Private Limited., India
 
-for Sandoz Inc., Princeton, NJ 08540
+for Sandoz Inc, Princeton, NJ 08540.
