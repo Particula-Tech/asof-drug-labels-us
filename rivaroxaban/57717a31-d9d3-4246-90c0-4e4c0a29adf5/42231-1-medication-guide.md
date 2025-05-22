@@ -76,6 +76,7 @@ It may harm them.
 You can ask your pharmacist or doctor for information about rivaroxaban tablets that is written for health professionals.
 What are the ingredients in rivaroxaban tablets?
 Active ingredient: Rivaroxaban tablets Inactive ingredients tablets: colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl methylcellulose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, and sodium lauryl sulfate.
-The proprietary film coating mixture used for rivaroxaban tablets 2.5 mg tablets is Instacoat@ yellow containing hypromellose, polyethylene glycol, titanium dioxide and red iron oxide Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh-174101 INDIA This Medication Guide has been approved by the U.S. Food and Drug Administration
+The proprietary film coating mixture used for rivaroxaban tablets 2.5 mg tablets is Instacoat@ yellow containing hypromellose, polyethylene glycol, titanium dioxide and yellow iron oxide.
+Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh-174101 INDIA This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Revised: 05/2025
