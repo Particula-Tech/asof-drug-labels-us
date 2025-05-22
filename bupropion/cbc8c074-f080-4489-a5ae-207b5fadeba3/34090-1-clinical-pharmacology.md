@@ -68,13 +68,13 @@ Bupropion is extensively metabolized in the liver to active metabolites, which a
 The elimination of the major metabolites of bupropion may be reduced by impaired renal function.
 WELLBUTRIN SR should be used with caution in patients with renal impairment and a reduced frequency and/or dose should be considered [see Use in Specific Populations (8.6)].
 
-Patients with Hepatic Impairment: The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in 2 single-dose trials, one in subjects with alcoholic liver disease and one in subjects with mild-to-severe cirrhosis.
+Patients with Hepatic Impairment: The effect of hepatic impairment on the pharmacokinetics of bupropion was characterized in 2 single-dose trials, one in subjects with alcoholic liver disease and one in subjects with mild‑to-severe cirrhosis.
 The first trial demonstrated that the half‑life of hydroxybupropion was significantly longer in 8 subjects with alcoholic liver disease than in 8 healthy volunteers (32 ± 14 hours versus 21 ± 5 hours, respectively).
 Although not statistically significant, the AUCs for bupropion and hydroxybupropion were more variable and tended to be greater (by 53% to 57%) in volunteers with alcoholic liver disease.
 The differences in half‑life for bupropion and the other metabolites in the 2 groups were minimal.
 
-The second trial demonstrated no statistically significant differences in the pharmacokinetics of bupropion and its active metabolites in 9 subjects with mild-to-moderate hepatic cirrhosis compared with 8 healthy volunteers.
-However, more variability was observed in some of the pharmacokinetic parameters for bupropion (AUC, Cmax, and Tmax) and its active metabolites (t½) in subjects with mild-to-moderate hepatic cirrhosis.
+The second trial demonstrated no statistically significant differences in the pharmacokinetics of bupropion and its active metabolites in 9 subjects with mild‑to-moderate hepatic cirrhosis compared with 8 healthy volunteers.
+However, more variability was observed in some of the pharmacokinetic parameters for bupropion (AUC, Cmax, and Tmax) and its active metabolites (t½) in subjects with mild‑to-moderate hepatic cirrhosis.
 In subjects with severe hepatic cirrhosis, significant alterations in the pharmacokinetics of bupropion and its metabolites were seen (Table 5).
 
 Table 5.

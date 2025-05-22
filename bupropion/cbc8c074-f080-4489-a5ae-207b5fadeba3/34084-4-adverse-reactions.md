@@ -17,11 +17,11 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adverse Reactions Leading to Discontinuation of Treatment
 
-In placebo‑controlled clinical trials, 4%, 9%, and 11% of the placebo, 300-mg/day, and 400-mg/day groups, respectively, discontinued treatment due to adverse reactions.
-The specific adverse reactions leading to discontinuation in at least 1% of the 300-mg/day or 400-mg/day groups and at a rate at least twice the placebo rate are listed in Table 2.
+In placebo‑controlled clinical trials, 4%, 9%, and 11% of the placebo, 300‑mg/day, and 400‑mg/day groups, respectively, discontinued treatment due to adverse reactions.
+The specific adverse reactions leading to discontinuation in at least 1% of the 300‑mg/day or 400‑mg/day groups and at a rate at least twice the placebo rate are listed in Table 2.
 
 Table 2.
-Treatment Discontinuations Due to Adverse Reactions in Placebo-Controlled Trials
+Treatment Discontinuations Due to Adverse Reactions in PlaceboControlled Trials
 
 | Adverse Reaction | Placebo(n = 385) | WELLBUTRIN SR 300 mg/day(n = 376) | WELLBUTRIN SR 400 mg/day(n = 114) |
 | --- | --- | --- | --- |
@@ -44,65 +44,65 @@ Reported adverse reactions were classified using a COSTART‑based Dictionary.
 Table 3.
 Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency than Placebo in Controlled Clinical Trials
 
-| Body System/Adverse Reaction | WELLBUTRIN SR 300 mg/day(n = 376) | WELLBUTRIN SR 400 mg/day(n = 114) | Placebo(n = 385) |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Body (general) |  |  |  |  |  |  |  |
-| Headache | 26% | 25% | 23% |  |  |  |  |
-| Infection | 8% | 9% | 6% |  |  |  |  |
-| Abdominal pain | 3% | 9% | 2% |  |  |  |  |
-| Asthenia | 2% | 4% | 2% |  |  |  |  |
-| Chest pain | 3% | 4% | 1% |  |  |  |  |
-| Pain | 2% | 3% | 2% |  |  |  |  |
-| Fever | 1% | 2% | — |  |  |  |  |
-| Cardiovascular |  |  |  |  |  |  |  |
-| Palpitation | 2% | 6% | 2% |  |  |  |  |
-| Flushing | 1% | 4% | — |  |  |  |  |
-| Migraine | 1% | 4% | 1% |  |  |  |  |
-| Hot flashes | 1% | 3% | 1% |  |  |  |  |
-| Digestive |  |  |  |  |  |  |  |
-| Dry mouth | 17% | 24% | 7% |  |  |  |  |
-| Nausea | 13% | 18% | 8% |  |  |  |  |
-| Constipation | 10% | 5% | 7% |  |  |  |  |
-| Diarrhea | 5% | 7% | 6% |  |  |  |  |
-| Anorexia | 5% | 3% | 2% |  |  |  |  |
-| Vomiting | 4% | 2% | 2% |  |  |  |  |
-| Dysphagia | 0% | 2% | 0% |  |  |  |  |
-| Musculoskeletal |  |  |  |  |  |  |  |
-| Myalgia | 2% | 6% | 3% |  |  |  |  |
-| Arthralgia | 1% | 4% | 1% |  |  |  |  |
-| Arthritis | 0% | 2% | 0% |  |  |  |  |
-| Twitch | 1% | 2% | — |  |  |  |  |
-| Nervous system |  |  |  |  |  |  |  |
-| Insomnia | 11% | 16% | 6% |  |  |  |  |
-| Dizziness | 7% | 11% | 5% |  |  |  |  |
-| Agitation | 3% | 9% | 2% |  |  |  |  |
-| Anxiety | 5% | 6% | 3% |  |  |  |  |
-| Tremor | 6% | 3% | 1% |  |  |  |  |
-| Nervousness | 5% | 3% | 3% |  |  |  |  |
-| Somnolence | 2% | 3% | 2% |  |  |  |  |
-| Irritability | 3% | 2% | 2% |  |  |  |  |
-| Memory decreased | — | 3% | 1% |  |  |  |  |
-| Paresthesia | 1% | 2% | 1% |  |  |  |  |
-| Central nervous system stimulation | 2% | 1% | 1% |  |  |  |  |
-| Respiratory |  |  |  |  |  |  |  |
-| Pharyngitis | 3% | 11% | 2% |  |  |  |  |
-| Sinusitis | 3% | 1% | 2% |  |  |  |  |
-| Increased cough | 1% | 2% | 1% |  |  |  |  |
-| Skin |  |  |  |  |  |  |  |
-| Sweating | 6% | 5% | 2% |  |  |  |  |
-| Rash | 5% | 4% | 1% |  |  |  |  |
-| Pruritus | 2% | 4% | 2% |  |  |  |  |
-| Urticaria | 2% | 1% | 0% |  |  |  |  |
-| Special senses |  |  |  |  |  |  |  |
-| Tinnitus | 6% | 6% | 2% |  |  |  |  |
-| Taste perversion | 2% | 4% | — |  |  |  |  |
-| Blurred vision or diplopia | 3% | 2% | 2% |  |  |  |  |
-| Urogenital |  |  |  |  |  |  |  |
-| Urinary frequency | 2% | 5% | 2% |  |  |  |  |
-| Urinary urgency | — | 2% | 0% |  |  |  |  |
-| Vaginal hemorrhagea | 0% | 2% | — |  |  |  |  |
-| Urinary tract infection | 1% | 0% | — |  |  |  |  |
-| a Incidence based on the number of female subjects. — Hyphen denotes adverse events occurring in greater than 0 but less than 0.5% of subjects. |  |  |  |  |  |  |  |
+| Body System/Adverse Reaction | WELLBUTRIN SR 300 mg/day(n = 376) | WELLBUTRIN SR 400 mg/day(n = 114) | Placebo(n = 385) |
+| --- | --- | --- | --- |
+| Body (general) |  |  |  |
+| Headache | 26% | 25% | 23% |
+| Infection | 8% | 9% | 6% |
+| Abdominal pain | 3% | 9% | 2% |
+| Asthenia | 2% | 4% | 2% |
+| Chest pain | 3% | 4% | 1% |
+| Pain | 2% | 3% | 2% |
+| Fever | 1% | 2% | — |
+| Cardiovascular |  |  |  |
+| Palpitation | 2% | 6% | 2% |
+| Flushing | 1% | 4% | — |
+| Migraine | 1% | 4% | 1% |
+| Hot flashes | 1% | 3% | 1% |
+| Digestive |  |  |  |
+| Dry mouth | 17% | 24% | 7% |
+| Nausea | 13% | 18% | 8% |
+| Constipation | 10% | 5% | 7% |
+| Diarrhea | 5% | 7% | 6% |
+| Anorexia | 5% | 3% | 2% |
+| Vomiting | 4% | 2% | 2% |
+| Dysphagia | 0% | 2% | 0% |
+| Musculoskeletal |  |  |  |
+| Myalgia | 2% | 6% | 3% |
+| Arthralgia | 1% | 4% | 1% |
+| Arthritis | 0% | 2% | 0% |
+| Twitch | 1% | 2% | — |
+| Nervous system |  |  |  |
+| Insomnia | 11% | 16% | 6% |
+| Dizziness | 7% | 11% | 5% |
+| Agitation | 3% | 9% | 2% |
+| Anxiety | 5% | 6% | 3% |
+| Tremor | 6% | 3% | 1% |
+| Nervousness | 5% | 3% | 3% |
+| Somnolence | 2% | 3% | 2% |
+| Irritability | 3% | 2% | 2% |
+| Memory decreased | — | 3% | 1% |
+| Paresthesia | 1% | 2% | 1% |
+| Central nervous system stimulation | 2% | 1% | 1% |
+| Respiratory |  |  |  |
+| Pharyngitis | 3% | 11% | 2% |
+| Sinusitis | 3% | 1% | 2% |
+| Increased cough | 1% | 2% | 1% |
+| Skin |  |  |  |
+| Sweating | 6% | 5% | 2% |
+| Rash | 5% | 4% | 1% |
+| Pruritus | 2% | 4% | 2% |
+| Urticaria | 2% | 1% | 0% |
+| Special senses |  |  |  |
+| Tinnitus | 6% | 6% | 2% |
+| Taste perversion | 2% | 4% | — |
+| Blurred vision or diplopia | 3% | 2% | 2% |
+| Urogenital |  |  |  |
+| Urinary frequency | 2% | 5% | 2% |
+| Urinary urgency | — | 2% | 0% |
+| Vaginal hemorrhagea | 0% | 2% | — |
+| Urinary tract infection | 1% | 0% | — |
+| a Incidence based on the number of female subjects. — Hyphen denotes adverse events occurring in greater than 0 but less than 0.5% of subjects. |  |  |  |
 
 Other Adverse Reactions Observed during the Clinical Development of Bupropion
 

@@ -5,7 +5,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Suicidal Thoughts and Behaviors
 
 Instruct patients, their families, and/or their caregivers to be alert to the emergence of anxiety, agitation, panic attacks, insomnia, irritability, hostility, aggressiveness, impulsivity, akathisia (psychomotor restlessness), hypomania, mania, other unusual changes in behavior, worsening of depression, and suicidal ideation, especially early during antidepressant treatment and when the dose is adjusted up or down.
-Advise families and caregivers of patients to observe for the emergence of such symptoms on a day-to-day basis, since changes may be abrupt.
+Advise families and caregivers of patients to observe for the emergence of such symptoms on a day‑to‑day basis, since changes may be abrupt.
 Such symptoms should be reported to the patient’s prescriber or healthcare professional, especially if they are severe, abrupt in onset, or were not part of the patient’s presenting symptoms.
 Symptoms such as these may be associated with an increased risk for suicidal thinking and behavior and indicate a need for very close monitoring and possibly changes in the medication.
 

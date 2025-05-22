@@ -40,8 +40,8 @@ Trademark owned or licensed by GSK.
 
 ©2023 GSK or licensor.
 
-1. 62000000085809 Rev.
-   2/23
+- 62000000085809 Rev.
+  2/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -85,8 +85,8 @@ Trademark owned or licensed by GSK.
 
 ©2023 GSK or licensor.
 
-1. 62000000085814 Rev.
-   2/23
+- 62000000085814 Rev.
+  2/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -130,5 +130,5 @@ Trademark owned or licensed by GSK.
 
 ©2023 GSK or licensor.
 
-1. 62000000085815 Rev.
-   2/23
+- 62000000085815 Rev.
+  2/23
