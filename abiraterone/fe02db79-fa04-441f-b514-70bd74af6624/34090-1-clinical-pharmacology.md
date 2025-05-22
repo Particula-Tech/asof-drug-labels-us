@@ -112,8 +112,6 @@ In Vitro Studies
 
 Cytochrome P450 (CYP) Enzymes: Abiraterone is a substrate of CYP3A4 and has the potential to inhibit CYP1A2, CYP2D6, CYP2C8 and to a lesser extent CYP2C9, CYP2C19 and CYP3A4/5.
 
-Transporter Systems
-
-In vitro studies show that at clinically relevant concentrations, abiraterone acetate and abiraterone are not substrates of P-glycoprotein (P-gp) and that abiraterone acetate is an inhibitor of P-gp.
+Transporter Systems: In vitro studies show that at clinically relevant concentrations, abiraterone acetate and abiraterone are not substrates of P-glycoprotein (P-gp) and that abiraterone acetate is an inhibitor of P-gp.
 In vitro, abiraterone and its major metabolites were shown to inhibit the hepatic uptake transporter OATP1B1.
 There are no clinical data available to confirm transporter based interaction.

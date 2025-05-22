@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
 A two-year carcinogenicity study was conducted in rats at oral abiraterone acetate doses of 5, 15, and 50 mg/kg/day for males and 15, 50, and 150 mg/kg/day for females.
 Abiraterone acetate increased the combined incidence of interstitial cell adenomas and carcinomas in the testes at all dose levels tested.

@@ -11,7 +11,7 @@ The following are discussed in more detail in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Two randomized placebo-controlled, multicenter clinical trials (COU-AA-301 and COU-AA¬302) enrolled patients who had metastatic CRPC in which abiraterone acetate tablets were administered orally at a dose of 1,000 mg daily in combination with prednisone 5 mg twice daily in the active treatment arms.
+Two randomized placebo-controlled, multicenter clinical trials (COU-AA-301 and COU-AA302) enrolled patients who had metastatic CRPC in which abiraterone acetate tablets were administered orally at a dose of 1,000 mg daily in combination with prednisone 5 mg twice daily in the active treatment arms.
 Placebo plus prednisone 5 mg twice daily was given to patients on the control arm.
 A third randomized placebo-controlled, multicenter clinical trial (LATITUDE) enrolled patients who had metastatic high-risk CSPC in which abiraterone acetate tablets were administered at a dose of 1,000 mg daily in combination with prednisone 5 mg once daily.
 Placebos were administered to patients in the control arm.
@@ -43,7 +43,7 @@ The median duration of treatment with abiraterone acetate tablets with prednison
 
 Table 1: Adverse Reactions due to Abiraterone Acetate Tablets in COU-AA-301
 
-| System/Organ Class | Abiraterone Acetate Tablets with Prednisone (N = 791) |  | Placebo with Prednisone (N = 394) |  |
+| System/Organ Class | AbirateroneAcetateTablets with Prednisone (N = 791) |  | Placebo with Prednisone (N = 394) |  |
 | --- | --- | --- | --- | --- |
 | All GradesAdverse events graded according to CTCAE version 3.0. | Grade 3-4 | All Grades | Grade 3-4 |  |
 | Adverse reaction | % | % | % | % |
@@ -77,7 +77,7 @@ Table 2 shows laboratory abnormalities of interest from COU-AA-301.
 
 Table 2: Laboratory Abnormalities of Interest in COU-AA-301
 
-|  | Abiraterone Acetate Tablets with Prednisone(N = 791) |  | Placebo with Prednisone(N = 394) |  |
+|  | Abiraterone Acetate Tablets with Prednisone (N = 791) |  | Placebo with Prednisone (N = 394) |  |
 | --- | --- | --- | --- | --- |
 | Laboratory Abnormality | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |
 | Hypertriglyceridemia | 63 | 0.4 | 53 | 0 |
@@ -99,7 +99,7 @@ The median duration of treatment with abiraterone acetate tablets with prednison
 
 Table 3: Adverse Reactions in ≥ 5% of Patients on the Abiraterone Acetate Tablets Arm in COU-AA-302
 
-| System/Organ Class | Abiraterone Acetate Tablets with Prednisone (N = 542) |  | Placebo with Prednisone (N = 540) |  |
+| System/Organ Class | AbirateroneAcetate Tabletswith Prednisone (N = 542) |  | Placebo with Prednisone (N = 540) |  |
 | --- | --- | --- | --- | --- |
 | All GradesAdverse events graded according to CTCAE version 3.0. | Grade 3-4 | All Grades | Grade 3-4 |  |
 | Adverse reaction | % | % | % | % |
@@ -114,7 +114,7 @@ Table 3: Adverse Reactions in ≥ 5% of Patients on the Abiraterone Acetate Tabl
 | Constipation | 23 | 0.4 | 19 | 0.6 |
 | Diarrhea | 22 | 0.9 | 18 | 0.9 |
 | Dyspepsia | 11 | 0.0 | 5.0 | 0.2 |
-| Vascular disorders |  |  |  |  |
+| Vasculardisorders |  |  |  |  |
 | Hot flush | 22 | 0.2 | 18 | 0.0 |
 | Hypertension | 22 | 3.9 | 13 | 3.0 |
 | Respiratory, thoracic and mediastinal disorders |  |  |  |  |
@@ -137,7 +137,7 @@ Table 4 shows laboratory abnormalities that occurred in greater than 15% of pati
 
 Table 4: Laboratory Abnormalities in > 15% of Patients in the Abiraterone Acetate Tablets Arm of COU-AA-302
 
-|  | Abiraterone Acetate Tablets with Prednisone(N = 542) |  | Placebo with Prednisone(N = 540) |  |
+|  | Abiraterone Acetate Tablets with Prednisone (N = 542) |  | Placebo with Prednisone (N = 540) |  |
 | --- | --- | --- | --- | --- |
 | Laboratory Abnormality | Grade 1-4 % | Grade 3-4 % | Grade 1-4 % | Grade 3-4 % |
 | Hematology |  |  |  |  |
@@ -162,7 +162,7 @@ Table 5 shows adverse reactions on the abiraterone acetate tablets arm that occu
 
 Table 5: Adverse Reactions in ≥ 5% of Patients on the Abiraterone Acetate Tablets Arm in LATITUDEAll patients were receiving an GnRH agonist or had undergone orchiectomy.
 
-| System/Organ Class Adverse reaction | Abiraterone Acetate Tablets with Prednisone(N = 597) |  | Placebos(N = 602) |  |
+| System/Organ Class Adverse reaction | Abiraterone Acetate Tablets with Prednisone (N = 597) |  | Placebos (N = 602) |  |
 | --- | --- | --- | --- | --- |
 | All GradesAdverse events graded according to CTCAE version 4.0% | Grade 3-4% | All Grades% | Grade 3-4% |  |
 | Vascular disorders |  |  |  |  |
@@ -185,7 +185,7 @@ Table 6 shows laboratory abnormalities that occurred in ≥ 15% of patients, and
 
 Table 6: Laboratory Abnormalities in > 15% of Patients in the Abiraterone Acetate Tablets Arm of LATITUDE
 
-| Laboratory Abnormality | Abiraterone Acetate Tablets with Prednisone(N = 597) |  | Placebos(N= 602) |  |
+| Laboratory Abnormality | Abiraterone Acetate Tablets with Prednisone (N = 597) |  | Placebos (N= 602) |  |
 | --- | --- | --- | --- | --- |
 | Grade 1-4% | Grade 3-4% | Grade 1-4% | Grade 3-4% |  |
 | Hematology |  |  |  |  |

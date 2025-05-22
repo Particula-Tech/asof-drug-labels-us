@@ -67,14 +67,14 @@ A significant difference in rPFS between treatment groups was observed (Table 9 
 
 Table 9: Radiographic Progression-free Survival of Patients Treated with Either Abiraterone Acetate Tablets or Placebo in Combination with Prednisone in COU-AA-302 (Intent-to-Treat Analysis)
 
-|  | Abiraterone Acetate Tablets with Prednisone (N = 546) | Placebo with Prednisone (N = 542) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Radiographic Progression-free Survival |  |  |  |  |  |  |  |  |
-| Progression or death | 150 (28%) | 251 (46%) |  |  |  |  |  |  |
-| Median rPFS (months) (95% CI) | NR (11.66, NR) | 8.28 (8.12, 8.54) |  |  |  |  |  |  |
-| p-valuep-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). | < 0.0001 |  |  |  |  |  |  |  |
-| Hazard ratioHazard Ratio is derived from a stratified proportional hazards model. Hazard ratio < 1 favors abiraterone acetate tablets with prednisone. (95% CI) | 0.425 (0.347, 0.522) |  |  |  |  |  |  |  |
-| NR = Not reached. |  |  |  |  |  |  |  |  |
+|  | Abiraterone Acetate Tablets with Prednisone (N = 546) | Placebo with Prednisone (N = 542) |
+| --- | --- | --- |
+| Radiographic Progression-free Survival |  |  |
+| Progression or death | 150 (28%) | 251 (46%) |
+| Median rPFS (months) (95% CI) | NR (11.66, NR) | 8.28 (8.12, 8.54) |
+| p-valuep-value is derived from a log-rank test stratified by ECOG performance status score (0 vs. 1). | < 0.0001 |  |
+| Hazard ratioHazard Ratio is derived from a stratified proportional hazards model. Hazard ratio < 1 favors abiraterone acetate tablets with prednisone. (95% CI) | 0.425 (0.347, 0.522) |  |
+| NR = Not reached. |  |  |
 
 The primary efficacy analyses are supported by the following prospectively defined endpoints.
 The median time to initiation of cytotoxic chemotherapy was 25.2 months for patients in the abiraterone acetate tablets arm and 16.8 months for patients in the placebo arm (HR = 0.580; 95% CI: [0.487, 0.691], p < 0.0001).
@@ -104,20 +104,20 @@ At the updated analysis, 29% of patients on the abiraterone acetate tablets arm 
 
 Table 10: Overall Survival of Patients Treated with Either Abiraterone Acetate Tablets or Placebos in LATITUDE (Intent-to-Treat Analysis)
 
-|  | Abiraterone Acetate Tablets with Prednisone(N = 597) |  | Placebos (N = 602) |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Overall SurvivalThis is based on the pre-specified interim analysis |  |  |  |  |  |  |  |  |  |  |  |  |
-| Deaths (%) | 169 (28%) |  | 237 (39%) |  |  |  |  |  |  |  |  |  |
-| Median survival (months) | NE (NE, NE) |  | 34.7 (33.1, NE) |  |  |  |  |  |  |  |  |  |
-| (95% CI) |  |  |  |  |  |  |  |  |  |  |  |  |
-| p-valuep value is from log-rank test stratified by ECOG PS score (0/1 or 2) and visceral (absent or present). |  | < 0.0001 |  |  |  |  |  |  |  |  |  |  |
-| Hazard ratio (95% CI)Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio < 1 favors abiraterone acetate tablets with prednisone. |  | 0.62 (0.51, 0.76) |  |  |  |  |  |  |  |  |  |  |
-| Updated Overall Survival |  |  |  |  |  |  |  |  |  |  |  |  |
-| Deaths (%) | 275 (46%) |  | 343 (57%) |  |  |  |  |  |  |  |  |  |
-| Median survival (months) | 53.3 |  | 36.5 |  |  |  |  |  |  |  |  |  |
-| (95% CI) | (48.2, NE) |  | (33.5, 40.0) |  |  |  |  |  |  |  |  |  |
-| Hazard ratio (95% CI) |  | 0.66 (0.56, 0.78) |  |  |  |  |  |  |  |  |  |  |
-| NE = Not estimable |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Abiraterone Acetate Tablets with Prednisone (N = 597) |  | Placebos (N = 602) |
+| --- | --- | --- | --- |
+| Overall SurvivalThis is based on the pre-specified interim analysis |  |  |  |
+| Deaths (%) | 169 (28%) |  | 237 (39%) |
+| Median survival (months) | NE (NE, NE) |  | 34.7 (33.1, NE) |
+| (95% CI) |  |  |  |
+| p-valuep value is from log-rank test stratified by ECOG PS score (0/1 or 2) and visceral (absent or present). |  | < 0.0001 |  |
+| Hazard ratio (95% CI)Hazard Ratio is derived from a stratified proportional hazards model. Hazard ratio < 1 favors abiraterone acetate tablets with prednisone. |  | 0.62 (0.51, 0.76) |  |
+| Updated Overall Survival |  |  |  |
+| Deaths (%) | 275 (46%) |  | 343 (57%) |
+| Median survival (months) | 53.3 |  | 36.5 |
+| (95% CI) | (48.2, NE) |  | (33.5, 40.0) |
+| Hazard ratio (95% CI) |  | 0.66 (0.56, 0.78) |  |
+| NE = Not estimable |  |  |  |
 
 The major efficacy outcome was supported by a statistically significant delay in time to initiation of chemotherapy for patients in the abiraterone acetate tablets arm compared to those in the placebos arm.
 The median time to initiation of chemotherapy was not reached for patients on abiraterone acetate tablets with prednisone and was 38.9 months for patients on placebos (HR = 0.44; 95% CI: [0.35, 0.56], p < 0.0001).
