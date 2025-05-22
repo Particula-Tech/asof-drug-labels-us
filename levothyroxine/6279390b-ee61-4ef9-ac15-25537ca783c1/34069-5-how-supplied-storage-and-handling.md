@@ -20,6 +20,6 @@ Berkeley Heights, NJ 07922
 
 www.hikma.com/us
 
-Revised: 11/2022
+Revised: 07/2024
 
-INS-0017-R2
+462-046-00
