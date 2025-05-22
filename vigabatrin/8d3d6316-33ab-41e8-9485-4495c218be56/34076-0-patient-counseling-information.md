@@ -49,10 +49,8 @@ As with all AEDs, withdrawal should normally be gradual [see Warnings and Precau
 
 Made in the United Kingdom
 
-Manufactured for
-
-PYROS PHARMACEUTICALS, INC Parsippany, NJ 07054 U.S.A.
+Distributed by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
 VIGAFYDE is a registered trademark of Pyros Pharmaceuticals, Inc.
 
-L3006 Rev 2.0
+PLFT0363-2-359

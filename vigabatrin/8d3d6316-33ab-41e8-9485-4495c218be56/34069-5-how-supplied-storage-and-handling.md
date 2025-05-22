@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-VIGAFYDE (vigabatrin oral solution) contains 100 mg/mL vigabatrin.
+VIGAFYDE (vigabatrin) oral solution contains 100 mg/mL vigabatrin.
 It is a clear, colorless to light yellow, peppermint-flavored solution supplied in a white opaque high-density polyethylene (HDPE) 150 mL bottle in a carton (NDC 80789-003-15).
 
 ## 16.2 Storage and Handling

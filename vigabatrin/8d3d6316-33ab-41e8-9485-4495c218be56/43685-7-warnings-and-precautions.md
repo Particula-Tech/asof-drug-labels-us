@@ -54,7 +54,7 @@ VIGAFYDE is available only through a restricted distribution program called the 
 
 Notable requirements of the Vigabatrin REMS include the following:
 
-- Prescribers must be certified by enrolling in the program, agreeing to counsel caregivers on the risk of vision loss and the need for periodic monitoring of vision, and reporting any event suggestive of vision loss to Pyros.
+- Prescribers must be certified by enrolling in the program, agreeing to counsel caregivers on the risk of vision loss and the need for periodic monitoring of vision, and reporting any event suggestive of vision loss to www.vigabatrinREMS.com.
 
 - Patients must enroll in the program.
 

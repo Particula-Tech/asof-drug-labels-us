@@ -2,7 +2,7 @@ INSTRUCTIONS FOR USE
 
 VIGAFYDE™(VIG-uh-fide)
 
-vigabatrin oral solution
+(vigabatrin) Oral Solution
 
 Read this Instructions for Use before your baby starts taking VIGAFYDE and each time you get a refill.
 There may be new information.
@@ -118,12 +118,12 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Made in the United Kingdom
 
-Manufactured for
+Distributed by
 
-PYROS PHARMACEUTICALS, INC Parsippany, NJ 07054 U.S.A.
+UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-VIGAFYDE is a registered trademark of Pyros Pharmaceuticals
+VIGAFYDE is a registered trademark of Pyros Pharmaceuticals, Inc.
 
-L3006 Rev 2.0
+PLFT0363-2-359
 
-Revised 7/2024
+Revised 2/2025
