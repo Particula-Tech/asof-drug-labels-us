@@ -33,8 +33,8 @@ Table 7: Adverse reactions occurring in ≥ 1% of deferiprone-treated patients w
 | --- | --- |
 | Body System | (N=642) |
 | BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |
-| Neutropenia | 6 |
-| Agranulocytosis | 2 |
+| Neutropenia* | 7 |
+| Agranulocytosis † | 1 |
 | GASTROINTESTINAL DISORDERS |  |
 | Nausea | 13 |
 | Abdominal pain/discomfort | 10 |
@@ -55,6 +55,10 @@ Table 7: Adverse reactions occurring in ≥ 1% of deferiprone-treated patients w
 | Arthropathy | 1 |
 | NERVOUS SYSTEM DISORDERS |  |
 | Headache | 2 |
+
+*Neutropenia includes events of severe neutropenia (ANC ≥0.2 x 10 9/L and <0.5 x 10 9/L).
+
+†Agranulocytosis (ANC< 0.2 x 10 9/L)
 
 Gastrointestinal symptoms such as nausea, vomiting, and abdominal pain were the most frequent adverse reactions reported by patients participating in clinical trials and led to the discontinuation of deferiprone therapy in 1.6% of patients.
 
