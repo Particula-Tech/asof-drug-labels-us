@@ -8,7 +8,7 @@ NDC 0781-3412-92 1 gram ADD-Vantage® Vial, packed in 10s
 
 NDC 0781-3413-92 2 grams ADD-Vantage® Vial, packed in 10s
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 
 Clinitest is a registered trademark of Miles, Inc.
 
@@ -22,5 +22,4 @@ Manufactured by Sandoz GmbH for
 
 Sandoz Inc., Princeton, NJ 08540
 
-Rev.
-January 2024
+Revised January 2025

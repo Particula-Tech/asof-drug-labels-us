@@ -16,7 +16,7 @@ For use only with the
 
 ADD-Vantage® diluent container.
 
-SANDOZ – A Novartis Division
+SANDOZ
 
 # 2 grams Label
 
@@ -26,7 +26,7 @@ Ampicillin for
 
 Injection, USP
 
-1 grams
+2 grams
 
 10 Single-Dose ADD-Vantage® Vials
 
@@ -36,4 +36,4 @@ For use only with the
 
 ADD-Vantage® diluent container.
 
-SANDOZ – A Novartis Division
+SANDOZ
