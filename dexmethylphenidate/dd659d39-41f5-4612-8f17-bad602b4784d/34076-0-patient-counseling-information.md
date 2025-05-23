@@ -32,9 +32,7 @@ Pregnancy Registry Advise patients that there is a pregnancy exposure registry t
 
 Brands listed are the trademarks of their respective owners.
 
-Dispense with Medication Guide available at: www.tevausa.com/medguides
-
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-N 10/2024
+O 4/2025

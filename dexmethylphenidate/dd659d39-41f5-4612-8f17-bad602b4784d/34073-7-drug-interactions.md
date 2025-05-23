@@ -4,7 +4,7 @@
 
 Table 5 presents clinically important drug interactions with dexmethylphenidate hydrochloride extended-release capsules.
 
-Table 5: Clinically Important Drug Interactions With Dexmethylphenidate Hydrochloride Extended-Release Capsules
+Table 5: Clinically Important Drug Interactions with Dexmethylphenidate Hydrochloride Extended-Release Capsules
 
 | Monoamine Oxidase Inhibitors (MAOIs) |  |
 | --- | --- |

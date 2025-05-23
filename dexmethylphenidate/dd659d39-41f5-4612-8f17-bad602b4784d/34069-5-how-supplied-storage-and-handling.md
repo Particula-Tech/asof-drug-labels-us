@@ -26,8 +26,8 @@ Imprinted in black ink with “TEVA” on cap and “5046” on body in bottles 
 40 mg: Two-piece hard-gelatin capsule with blue-green cap and white-opaque body, filled with white to off-white pellets.
 Imprinted in black ink with “TEVA” on cap and “5562” on body in bottles of 100 (NDC 0093-5562-01).
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all medications out of the reach of children.

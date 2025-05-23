@@ -121,7 +121,7 @@ Musculoskeletal: rhabdomyolysis
 
 Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
 
-Adverse Reactions Reported With All Ritalin and Focalin Formulations
+Adverse Reactions Reported with All Ritalin and Focalin Formulations
 
 The following adverse reactions associated with the use of all Ritalin and Focalin formulations were identified in clinical trials, spontaneous reports, and literature.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
@@ -154,9 +154,7 @@ Musculoskeletal and Connective Tissue Disorders: arthralgia, muscle cramps, rhab
 
 Investigations: weight loss (adult ADHD patients)
 
-Vascular Disorders: peripheral coldness, Raynaud's phenomenon
-
-Additional Adverse Reactions Reported with Other Methylphenidate Products
+Vascular Disorders: peripheral coldness, Raynaud's phenomenon Additional Adverse Reactions Reported with Other Methylphenidate Products
 
 The list below shows adverse reactions not listed with Ritalin and Focalin formulations that have been reported with other methylphenidate products based on clinical trials data and postmarketing spontaneous reports.
 
