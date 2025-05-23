@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA217880"
+  ],
+  "inn": "maraviroc",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-1930-6",
+    "70710-1931-6"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "maraviroc",
+      "name": "Maraviroc"
+    }
+  ],
+  "setid": "9bba17ba-0bc5-430c-96d1-c568e236a0ed",
+  "source": "dailymed"
+}
