@@ -1,0 +1,37 @@
+{
+  "application_numbers": [
+    "ANDA210301"
+  ],
+  "inn": "rivaroxaban",
+  "labeler": "Alembic Pharmaceuticals Limited",
+  "package_ndcs": [
+    "46708-240-51",
+    "46708-346-10",
+    "46708-346-30",
+    "46708-346-91",
+    "46708-347-10",
+    "46708-347-30",
+    "46708-347-91",
+    "46708-348-10",
+    "46708-348-30",
+    "46708-348-91",
+    "46708-683-10",
+    "46708-683-45",
+    "46708-683-60",
+    "46708-683-91"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "rivaroxaban",
+      "name": "RIVAROXABAN"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "rivaroxaban",
+      "name": "RIVAROXABAN"
+    }
+  ],
+  "setid": "5524f30f-789d-4f5c-8f7c-d03a475b6d34",
+  "source": "dailymed"
+}
