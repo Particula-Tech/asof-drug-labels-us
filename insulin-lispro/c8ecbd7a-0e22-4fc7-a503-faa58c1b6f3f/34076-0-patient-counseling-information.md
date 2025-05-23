@@ -24,9 +24,9 @@ Hypoglycemia due to Medication Errors
 Instruct patients to always check the insulin container label before each injection to avoid mix-ups between insulin products [see Warnings and Precautions (5.4)].
 
 Inform patients that HUMALOG U-200 contains 2 times as much insulin per mL as HUMALOG U-100.
-The HUMALOG U-200 KwikPen dose window shows the number of units of HUMALOG U-200 to be injected so no dose conversion is required [see Dosage and Administration (2.1)].
+The HUMALOG U-200 prefilled pen dose window shows the number of units of HUMALOG U-200 to be injected so no dose conversion is required [see Dosage and Administration (2.1)].
 
-Instruct patients to NOT transfer HUMALOG U-200 from the HUMALOG U-200 KwikPen to a syringe.
+Instruct patients to NOT transfer HUMALOG U-200 from the HUMALOG U-200 prefilled pen to a syringe.
 The markings on the syringe will not measure the dose correctly and this can result in overdosage and severe hypoglycemia.
 [see Warnings and Precautions (5.4)].
 
@@ -59,9 +59,9 @@ Manufactured by: Eli Lilly and Company Indianapolis, IN 46285, USA US License Nu
 
 1 3 mL cartridge is for use in compatible insulin delivery devices, including HumaPen® Luxura® HD
 
-Humalog®, Humalog KwikPen®, Humalog Tempo Penä, Humalog® Junior KwikPen®, HumaPen®, HumaPen® Luxura® and HumaPen® Luxura® HD are trademarks of Eli Lilly and Company.
+Humalog®, Humalog KwikPen®, Humalog Tempo PenTM, Humalog® Junior KwikPen®, HumaPen®, HumaPen® Luxura® and HumaPen® Luxura® HD are trademarks of Eli Lilly and Company.
 
-www.humalog.com Copyright © 1996, 2023, Eli Lilly and Company.
+www.humalog.com Copyright © 1996, 2025, Eli Lilly and Company.
 All rights reserved.
 
-LOG-0011-USPI-20230802
+LOG-0012-USPI-20250507

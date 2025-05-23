@@ -21,7 +21,7 @@ Subcutaneous Injection: HUMALOG U-100 or U-200
   Do not inject into areas of lipodystrophy or localized cutaneous amyloidosis [see Warnings and Precautions (5.2) and Adverse Reactions (6)].
 - During changes to a patient's insulin regimen, increase the frequency of blood glucose monitoring [see Warnings and Precautions (5.2)].
 - HUMALOG administered by subcutaneous injection should generally be used in regimens with an intermediate- or long-acting insulin.
-- The HUMALOG U-100 KwikPen, HUMALOG U-100 Tempo Pen and HUMALOG U-200 KwikPen each dial in 1 unit increments and delivers a maximum dose of 60 units per injection.
+- The HUMALOG U-100 KwikPen, HUMALOG U-100 Tempo Pen, HUMALOG U-200 KwikPen, and HUMALOG U-200 Tempo Pen each dial in 1 unit increments and delivers a maximum dose of 60 units per injection.
 - The HUMALOG U-100 Junior KwikPen dials in 0.5 unit increments and delivers a maximum dose of 30 units per injection.
 
 Subcutaneous Injection: Diluted HUMALOG U-100
@@ -30,7 +30,7 @@ Subcutaneous Injection: Diluted HUMALOG U-100
   Dilute one part HUMALOG U-100 to:
   - Nine parts diluent to yield a concentration one-tenth that of HUMALOG U-100 (equivalent to U-10).
   - One part diluent to yield a concentration one-half that of HUMALOG U-100 (equivalent to U-50).
-- Diluted HUMALOG for subcutaneous injection may be stored for 28 days when refrigerated at 41°F (5°C) and for 14 days at room temperature up to 80°F (30°C).
+- Diluted HUMALOG for subcutaneous injection may be stored for 28 days when refrigerated at 41°F (5°C) and for 14 days at room temperature up to 86°F (30°C).
 
 Continuous Subcutaneous Infusion (Insulin Pump): HUMALOG U-100 ONLY
 

@@ -42,7 +42,7 @@ In patients at higher risk for hypoglycemia and patients who have reduced sympto
 Accidental mix-ups between insulin products have been reported.
 To avoid medication errors between HUMALOG and other insulins, instruct patients to always check the insulin label before each injection.
 
-Do not transfer HUMALOG U-200 from the HUMALOG KwikPen to a syringe.
+Do not transfer HUMALOG U-200 from the HUMALOG prefilled pens to a syringe.
 The markings on the insulin syringe will not measure the dose correctly and can result in overdosage and severe hypoglycemia [see Dosage and Administration (2.1) and Warnings and Precautions (5.3)].
 
 ## 5.5 Hypersensitivity Reactions

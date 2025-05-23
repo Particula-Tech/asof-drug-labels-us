@@ -2,7 +2,7 @@
 
 The safety and efficacy of HUMALOG U-100 were studied in pediatric and adult patients with type 1 diabetes (n=789) and adult patients with type 2 diabetes (n=722).
 
-## 14.1 Type 1 Diabetes – Adults and Pediatric Patients Aged 12 years and Older
+## 14.1 Type 1 Diabetes – Adults and Pediatric Patients Aged 12 Years and Older
 
 A 12-month, randomized, parallel, open-label, active-controlled study was conducted in patients with type 1 diabetes to assess the safety and efficacy of HUMALOG (n=81) compared with Humulin® R [insulin human injection (100 units/mL)] (n=86).
 HUMALOG was administered by subcutaneous injection immediately prior to meals and Humulin R was administered 30 to 45 minutes before meals.
@@ -63,7 +63,7 @@ Another study involved 60 patients (mean age 39, range 15 to 58 years) treated f
 After 12 weeks of treatment, the mean HbA1c values decreased from 7.7% to 7.4% in the HUMALOG-treated patients and remained unchanged from 7.7% in the buffered regular human insulin-treated patients.
 Rates of hypoglycemia were comparable between treatment groups in both studies.
 
-## 14.4 Type 1 Diabetes – Pediatric Continuous Subcutaneous Insulin Infusion
+## 14.4 Type 1 Diabetes – Pediatric Patients: Continuous Subcutaneous Insulin Infusion
 
 A randomized, 16-week, open-label, parallel design, study of pediatric patients with type 1 diabetes (n=298) aged 4 to 18 years compared two subcutaneous infusion regimens administered via an external insulin pump: insulin aspart (n=198) or HUMALOG U-100 (n=100).
 These two treatments resulted in comparable changes from baseline in HbA1c and comparable rates of hypoglycemia after 16 weeks of treatment (see Table 7).
