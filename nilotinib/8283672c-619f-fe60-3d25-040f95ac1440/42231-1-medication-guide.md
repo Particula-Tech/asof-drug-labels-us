@@ -288,7 +288,7 @@ APOTEX INC. Nilotinib Capsules
 | Manufactured by: Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for: Apotex Corp. Weston, Florida USA 33326 |
 | --- | --- |
 
-Revised: March 2024
+Revised: April 2025
 
 Rev.
-6
+8
