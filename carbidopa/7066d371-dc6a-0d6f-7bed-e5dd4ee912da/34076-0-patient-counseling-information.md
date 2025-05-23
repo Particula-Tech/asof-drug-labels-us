@@ -71,6 +71,9 @@ Lactation
 
 Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
 
-Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by Fresenius Kabi Norge AS, 1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
+Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by HP Halden Pharma AS, Svinesundsveien 80, NO-1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2019-2022 AbbVie Inc. 20070164 Revised March 2022
+© 2025 AbbVie.
+All rights reserved.
+DUOPA and its design are trademarks of AbbVie AB.
+20087899R2 Revised: 5/2025

@@ -191,6 +191,9 @@ Inactive ingredients: carmellose sodium and purified water
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by Fresenius Kabi Norge AS, 1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
+Manufactured by AbbVie Inc., North Chicago, IL 60064, USA or by HP Halden Pharma AS, Svinesundsveien 80, NO-1788 Halden, Norway For AbbVie Inc. North Chicago, IL 60064, USA
 
-© 2019-2022 AbbVie Inc. 20070164 Revised: March 2022
+© 2025 AbbVie.
+All rights reserved.
+DUOPA and its design are trademarks of AbbVie AB.
+20087899R2 Revised: 5/2025
