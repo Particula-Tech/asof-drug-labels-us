@@ -24,9 +24,9 @@ Distributed by:
 
 AbbVie Inc. North Chicago, IL 60064
 
-© 2024 AbbVie.
+© 2025 AbbVie.
 All rights reserved.
 
 OZURDEX and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-V4.0USPI3348
+V5.0USPI3348
