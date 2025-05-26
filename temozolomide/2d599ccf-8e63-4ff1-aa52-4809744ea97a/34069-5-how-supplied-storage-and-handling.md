@@ -38,4 +38,4 @@ The capsule body is imprinted with '250'.
 The cap is imprinted with 'TMZ'.
 They are supplied as follows: Amber Glass Bottles 5 count – NDC 16729-051-53 Sachet Packs (Carton Contains Individual Sachet with One Capsule each): 5 count – NDC 16729-051-31
 
-Store temozolomide capsules, USP at 25°C (77°F) [see USP Controlled Room Temperature]; excursions permitted to 15°C to 30°C (59°F to 86°F).
+Store temozolomide capsules at 20° to 25°C (68° to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).

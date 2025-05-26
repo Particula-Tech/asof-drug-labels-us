@@ -154,4 +154,4 @@ OSHA.http://www.osha.gov/SLTC/hazardousdrugs/index.
 
 Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
-10 1475 5 6027033 Issued December 2023
+10 1475 6 6030879 Issued June 2024

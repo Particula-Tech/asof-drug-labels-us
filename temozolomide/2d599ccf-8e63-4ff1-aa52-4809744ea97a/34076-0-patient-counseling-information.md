@@ -14,7 +14,7 @@ Inform patients that prophylaxis for Pneumocystis pneumonia may be needed [see D
 Secondary Malignancies Advise patients of the increased risk of myelodysplastic syndrome and secondary malignancies [see Warnings and Precautions (5.4)].
 
 Exposure to Opened Capsules Advise patient to not open, chew, or dissolve the capsules.
-If capsules are accidentally opened or damaged, advise patients to take rigorous precautions with capsule contents to avoid inhalation or contact with the skin or mucous membranes [see Warnings and Precautions (5.4)].
+If capsules are accidentally opened or damaged, advise patients to take rigorous precautions with capsule contents to avoid inhalation or contact with the skin or mucous membranes [see Warnings and Precautions (5.6)].
 In case of powder contact, wash the affected area with water immediately [see Dosage and Administration (2.4)].
 
 Embryo-Fetal Toxicity Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
@@ -33,4 +33,4 @@ Infertility Advise males of reproductive potential that temozolomide may impair 
 Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad -380 054, India.
-10 1475 5 6027033 Issued December 2023
+10 1475 6 6030879 Issued June 2024
