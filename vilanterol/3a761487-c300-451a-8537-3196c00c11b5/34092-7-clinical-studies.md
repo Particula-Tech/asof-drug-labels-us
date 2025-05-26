@@ -178,26 +178,26 @@ Other secondary endpoints included change from baseline in percentage of rescue-
 Table 9.
 Change from Baseline in Weighted Mean FEV1 (0-24 h) (mL) and Trough FEV1 (mL) at Study Endpoint (Trials 8, 9, and 10)a
 
-| Study (Duration)Background Treatment | n | Weighted Mean FEV1 (0-24 h) (mL) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Difference from |  |  |  |  |  |  |  |  |  |  |
-| Treatment | Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |  |  |  |  |  |
-| Trial 8 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
-| Fluticasone furoate/vilanterol ELLIPTA 100/25 mcg | 108 | 302(178, 426) | 116(-5, 236) | –– |  |  |  |  |  |  |
-| Trial 9 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
-| Fluticasone furoate/vilanterol ELLIPTA 100/25 mcg | 312 | –– | 108(45, 171) | –– |  |  |  |  |  |  |
-| Trial 10 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
-| Fluticasone furoate/vilanterol ELLIPTA 200/25 mcg | 89 | –– | –– | 136(1, 270) |  |  |  |  |  |  |
-| Study (Duration)Background Treatment | n | Trough FEV1 (mL) |  |  |  |  |  |  |  |  |
-| Difference from |  |  |  |  |  |  |  |  |  |  |
-| Treatment | Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |  |  |  |  |  |  |
-| Trial 8 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
-| Fluticasone furoate/vilanterol ELLIPTA 100/25 mcg | 200 | 172(87, 258) | 36(-48, 120) | –– |  |  |  |  |  |  |
-| Trial 9 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
-| Fluticasone furoate/vilanterol ELLIPTA 100/25 mcg | 334 | –– | 77(16, 138) | –– |  |  |  |  |  |  |
-| Trial 10 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |  |  |  |  |  |  |
-| Fluticasone furoate/vilanterol ELLIPTA 200/25 mcg | 187 | –– | –– | 193(108, 277) |  |  |  |  |  |  |
-| FEV1 = Forced Expiratory Volume in 1 second, ICS = Inhaled Corticosteroid, LABA = Long-acting Beta2-adrenergic Agonist. a Although these trials included pediatric patients 12 to 17 years of age, they only support the efficacy in adult patients. |  |  |  |  |  |  |  |  |  |  |
+| Study (Duration)Background Treatment | n | Weighted Mean FEV1 (0-24 h) (mL) |  |  |
+| --- | --- | --- | --- | --- |
+| Difference from |  |  |  |  |
+| Treatment | Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |
+| Trial 8 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |
+| Fluticasone furoate/vilanterol ELLIPTA 100/25 mcg | 108 | 302(178, 426) | 116(-5, 236) | –– |
+| Trial 9 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |
+| Fluticasone furoate/vilanterol ELLIPTA 100/25 mcg | 312 | –– | 108(45, 171) | –– |
+| Trial 10 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |
+| Fluticasone furoate/vilanterol ELLIPTA 200/25 mcg | 89 | –– | –– | 136(1, 270) |
+| Study (Duration)Background Treatment | n | Trough FEV1 (mL) |  |  |
+| Difference from |  |  |  |  |
+| Treatment | Placebo(95% CI) | Fluticasone Furoate 100 mcg(95% CI) | Fluticasone Furoate 200 mcg(95% CI) |  |
+| Trial 8 (12 Weeks)Low- to mid-dose ICS or low-dose ICS + LABA |  |  |  |  |
+| Fluticasone furoate/vilanterol ELLIPTA 100/25 mcg | 200 | 172(87, 258) | 36(-48, 120) | –– |
+| Trial 9 (12 Weeks)Mid- to high-dose ICS or mid-dose ICS + LABA |  |  |  |  |
+| Fluticasone furoate/vilanterol ELLIPTA 100/25 mcg | 334 | –– | 77(16, 138) | –– |
+| Trial 10 (24 Weeks)High-dose ICS or mid-dose ICS + LABA |  |  |  |  |
+| Fluticasone furoate/vilanterol ELLIPTA 200/25 mcg | 187 | –– | –– | 193(108, 277) |
+| FEV1 = Forced Expiratory Volume in 1 second, ICS = Inhaled Corticosteroid, LABA = Long-acting Beta2-adrenergic Agonist. a Although these trials included pediatric patients 12 to 17 years of age, they only support the efficacy in adult patients. |  |  |  |  |
 
 In Trial 8, weighted mean FEV1 (0 to 24 hours) was assessed in a subset of patients (n = 309).
 At Week 12, change from baseline in weighted mean FEV1 (0 to 24 hours) was significantly greater for fluticasone furoate/vilanterol ELLIPTA 100/25 mcg compared with placebo (302 mL; 95% CI: 178, 426; P<0.001) (Table 9); change from baseline in weighted mean FEV1 (0 to 24 hours) for fluticasone furoate/vilanterol ELLIPTA 100/25 mcg was numerically greater than fluticasone furoate 100 mcg, but not statistically significant (116 mL; 95% CI: -5, 236).
@@ -262,15 +262,15 @@ Lung function improvements based on the primary endpoint of weighted mean FEV1 (
 Table 10.
 Weighted Mean FEV1 (0-4 h) (mL) at Week 12 in Patients Aged 5 to 17 Years (Intent to Treat Population)
 
-| Primary Endpoint | Fluticasone Furoatea(N = 448) | Fluticasone Furoate/Vilanterol ELLIPTAb(N = 454) |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Weighted Mean FEV1 (0-4 h) (mL) | n = 397 | n = 394 |  |  |  |  |  |  |  |  |  |  |  |
-| LS mean | 1999 | 2081 |  |  |  |  |  |  |  |  |  |  |  |
-| LS mean change (SE) | 323 (16.4) | 406 (16.5) |  |  |  |  |  |  |  |  |  |  |  |
-| Difference vs fluticasone furoate |  | 83 |  |  |  |  |  |  |  |  |  |  |  |
-| (95% CI) |  | (37, 129) |  |  |  |  |  |  |  |  |  |  |  |
-| FEV1 = Forced Expiratory Volume in 1 second, LS = Least Squares, SE = Standard Error. |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a The dose of fluticasone furoate was 100 mcg once daily for pediatric patients aged 12 to 17 years and 50 mcg once daily for pediatric patients aged 5 to 11 years. |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| b The dose of fluticasone furoate/vilanterol ELLIPTA was 100/25 mcg once daily for pediatric patients aged 12 to 17 years and 50/25 mcg once daily for pediatric patients aged 5 to 11 years. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Primary Endpoint | Fluticasone Furoatea(N = 448) | Fluticasone Furoate/Vilanterol ELLIPTAb(N = 454) |
+| --- | --- | --- |
+| Weighted Mean FEV1 (0-4 h) (mL) | n = 397 | n = 394 |
+| LS mean | 1999 | 2081 |
+| LS mean change (SE) | 323 (16.4) | 406 (16.5) |
+| Difference vs fluticasone furoate |  | 83 |
+| (95% CI) |  | (37, 129) |
+| FEV1 = Forced Expiratory Volume in 1 second, LS = Least Squares, SE = Standard Error. |  |  |
+| a The dose of fluticasone furoate was 100 mcg once daily for pediatric patients aged 12 to 17 years and 50 mcg once daily for pediatric patients aged 5 to 11 years. |  |  |
+| b The dose of fluticasone furoate/vilanterol ELLIPTA was 100/25 mcg once daily for pediatric patients aged 12 to 17 years and 50/25 mcg once daily for pediatric patients aged 5 to 11 years. |  |  |
 
 Difference in LS mean change from baseline at Week 12 for fluticasone furoate/vilanterol ELLIPTA 100/25 mcg compared with fluticasone furoate 100 mcg was 106 mL (95% CI: -8, 220) in pediatric patients 12 to 17 years of age, and difference in LS mean change from baseline at Week 12 for fluticasone furoate/vilanterol ELLIPTA 50/25 mcg compared with fluticasone furoate 50 mcg was 73 mL (95% CI: 28, 118) in pediatric patients 5 to 11 years of age.

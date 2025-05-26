@@ -139,18 +139,18 @@ Adverse reactions reported in ≥3% of pediatric patients treated with fluticaso
 Table 5.
 Adverse Reactions with Fluticasone Furoate/Vilanterol ELLIPTA with ≥3% Incidence in Pediatric Patients with Asthma (Trial 14)
 
-| Adverse Reaction | Fluticasone Furoate/Vilanterol ELLIPTAa(n = 454)% | Fluticasone Furoateb(n = 448)% |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  |  |  |  |  |  |  |  |  |  |
-| Nasopharyngitis | 10 | 8 |  |  |  |  |  |  |  |  |
-| Upper respiratory tract infection | 7 | 6 |  |  |  |  |  |  |  |  |
-| Rhinitis | 3 | 1 |  |  |  |  |  |  |  |  |
-| Viral upper respiratory tract infection | 3 | <1 |  |  |  |  |  |  |  |  |
-| Respiratory, thoracic, and mediastinal disorders |  |  |  |  |  |  |  |  |  |  |
-| Rhinitis allergic | 4 | 1 |  |  |  |  |  |  |  |  |
-| Nervous system disorders |  |  |  |  |  |  |  |  |  |  |
-| Headache | 3 | 2 |  |  |  |  |  |  |  |  |
-| a The dose of fluticasone furoate/vilanterol ELLIPTA was 100/25 mcg once daily for pediatric patients aged 12 to 17 years and 50/25 mcg once daily for pediatric patients aged 5 to 11 years. b The dose of fluticasone furoate was 100 mcg once daily for pediatric patients aged 12 to 17 years and 50 mcg once daily for pediatric patients aged 5 to 11 years. |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction | Fluticasone Furoate/Vilanterol ELLIPTAa(n = 454)% | Fluticasone Furoateb(n = 448)% |
+| --- | --- | --- |
+| Infections and infestations |  |  |
+| Nasopharyngitis | 10 | 8 |
+| Upper respiratory tract infection | 7 | 6 |
+| Rhinitis | 3 | 1 |
+| Viral upper respiratory tract infection | 3 | <1 |
+| Respiratory, thoracic, and mediastinal disorders |  |  |
+| Rhinitis allergic | 4 | 1 |
+| Nervous system disorders |  |  |
+| Headache | 3 | 2 |
+| a The dose of fluticasone furoate/vilanterol ELLIPTA was 100/25 mcg once daily for pediatric patients aged 12 to 17 years and 50/25 mcg once daily for pediatric patients aged 5 to 11 years. b The dose of fluticasone furoate was 100 mcg once daily for pediatric patients aged 12 to 17 years and 50 mcg once daily for pediatric patients aged 5 to 11 years. |  |  |
 
 ## 6.3 Postmarketing Experience
 
