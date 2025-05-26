@@ -3,7 +3,7 @@
 Hypercalcemia may occur in immobilized patients.
 If this occurs, the drug should be discontinued.
 
-Prolonged use of high doses of androgens (principally the 17-α alkyl-androgens) has been associated with development of hepatic adenomas, hepatocellular carcinoma, and peliosis hepatis – all potentially life-threatening complications.
+Prolonged use of high doses of androgens (principally the 17-α alkyl-androgens) has been associated with development of hepatic adenomas, hepatocellular carcinoma, and peliosis hepatis —all potentially life-threatening complications.
 
 Geriatric patients treated with androgens may be at an increased risk of developing prostatic hypertrophy and prostatic carcinoma although conclusive evidence to support this concept is lacking.
 
@@ -16,8 +16,12 @@ To date, epidemiologic studies and randomized controlled trials have been inconc
 Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
 Patients should be informed of this possible risk when deciding whether to use or to continue to use testosterone cypionate.
 
+Testosterone products can increase cardiovascular (CV) risk over time.
+Monitor blood pressure periodically in men using testosterone products, especially in men with hypertension.
+Testosterone products are not recommended for use in patients with uncontrolled hypertension.
+
 Testosterone has been subject to abuse, typically at doses higher than recommended for the approved indication and in combination with other anabolic androgenic steroids.
-Anabolic androgenic steroid abuse can lead to serious cardiovascular and psychiatric adverse reactions [see Drug Abuse and Dependence].
+Anabolic androgenic steroid abuse can lead to serious cardiovascular and psychiatric adverse reactions (see DRUG ABUSE AND DEPENDENCE).
 
 If testosterone abuse is suspected, check serum testosterone concentrations to ensure they are within therapeutic range.
 However, testosterone levels may be in the normal or subnormal range in men abusing synthetic testosterone derivatives.
@@ -98,7 +102,7 @@ Geriatric patients treated with androgens may be at an increased risk of develop
 
 ## Pregnancy
 
-Teratogenic Effects.
+Teratogenic Effects
 
 The use of testosterone in women who are pregnant is contraindicated.
 Testosterone is teratogenic and may cause fetal harm.
