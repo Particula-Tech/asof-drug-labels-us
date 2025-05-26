@@ -5,7 +5,7 @@ Mepolizumab is produced by recombinant DNA technology in Chinese hamster ovary c
 Mepolizumab has a molecular weight of approximately 149 kDa.
 
 NUCALA for injection is a sterile, preservative-free, white to off-white, lyophilized powder in a single-dose vial for subcutaneous injection after reconstitution.
-Upon reconstitution with 1.2 mL of Sterile Water for Injection, USP, the resulting concentration is 100 mg/mL and delivers 1 mL [see Dosage and Administration (2.5)].
+Upon reconstitution with 1.2 mL of Sterile Water for Injection, USP, the resulting concentration is 100 mg/mL and delivers 1 mL [see Dosage and Administration (2.2)].
 Each vial delivers 100 mg of mepolizumab, polysorbate 80 (0.67 mg), sodium phosphate dibasic heptahydrate (7.14 mg), and sucrose (160 mg), with a pH of 7.0.
 
 The vial stopper is not made with natural rubber latex.

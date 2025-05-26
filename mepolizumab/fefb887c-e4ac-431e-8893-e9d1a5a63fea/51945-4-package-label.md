@@ -70,10 +70,8 @@ Prefilled Autoinjector
 
 Do not accept if security seal is missing or broken.
 
-1. 62000000087671 Rev.
-   5/23
-2. 
-3. 
+- 62000000087671 Rev.
+  5/23
 
 PRINCIPAL DISPLAY PANEL
 

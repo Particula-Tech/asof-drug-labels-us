@@ -5,42 +5,47 @@
 Mepolizumab is an IL-5 antagonist (IgG1 kappa).
 IL-5 is the major cytokine responsible for the growth and differentiation, recruitment, activation, and survival of eosinophils.
 Mepolizumab binds to IL-5 with a dissociation constant of 100 pM, inhibiting the bioactivity of IL-5 by blocking its binding to the alpha chain of the IL-5 receptor complex expressed on the eosinophil cell surface.
-Inflammation is an important component in the pathogenesis of asthma, CRSwNP, EGPA, and HES.
+Inflammation is an important component in the pathogenesis of asthma, CRSwNP, COPD, EGPA, and HES.
 Multiple cell types (e.g., mast cells, eosinophils, neutrophils, macrophages, lymphocytes) and mediators (e.g., histamine, eicosanoids, leukotrienes, cytokines) are involved in inflammation.
-Mepolizumab, by inhibiting IL-5 signaling, reduces the production and survival of eosinophils; however, the mechanism of mepolizumab action in asthma, CRSwNP, EGPA, and HES has not been definitively established.
+Mepolizumab, by inhibiting IL-5 signaling, reduces the production and survival of eosinophils; however, the mechanism of mepolizumab action in asthma, CRSwNP, COPD, EGPA, and HES has not been definitively established.
 
 ## 12.2 Pharmacodynamics
 
 The pharmacodynamic response (blood eosinophil reduction) following repeat doses of mepolizumab administered subcutaneously or intravenously was evaluated in adult subjects with asthma and blood eosinophil levels >200 cells/mcL.
-Subjects received 1 of 4 mepolizumab treatments (administered every 28 days for a total of 3 doses): 12.5 mg subcutaneous, 125 mg subcutaneous, 250 mg subcutaneous, or 75 mg IV.
+Subjects received 1 of 4 mepolizumab treatments (administered every 28 days for a total of 3 doses): 12.5 mg subcutaneous, 125 mg subcutaneous, 250 mg subcutaneous, or 75 mg intravenous.
 Sixty-six of the 70 randomized subjects completed the trial.
-Compared with baseline levels, blood eosinophils decreased in a dose-dependent manner.
+Compared with baseline levels, blood eosinophils decreased in a dose‑dependent manner.
 A reduction in blood eosinophil levels was observed in all treatment groups by Day 3 (48 hours post-dose).
-On Day 84 (4 weeks post‑last dose), the observed geometric mean reduction from baseline in blood eosinophils was 64%, 78%, 84%, and 90% in the 12.5-mg subcutaneous, 75-mg IV, 125-mg subcutaneous, and 250-mg subcutaneous treatment groups, respectively.
+On Day 84 (4 weeks post-last dose), the observed geometric mean reduction from baseline in blood eosinophils was 64%, 78%, 84%, and 90% in the 12.5-mg subcutaneous, 75-mg intravenous, 125-mg subcutaneous, and 250-mg subcutaneous treatment groups, respectively.
 The model-predicted subcutaneous doses providing 50% and 90% of maximal reduction of blood eosinophils at Day 84 were estimated to be 11 and 99 mg, respectively.
-These results, along with the clinical efficacy data from the dose-ranging exacerbation trial in adult and adolescent subjects with severe asthma (Trial 1) supported the evaluation of mepolizumab 75 mg IV and 100 mg subcutaneous in the confirmatory severe asthma trials [see Clinical Studies (14.1)].
-Following subcutaneous administration of mepolizumab 100 mg every 4 weeks for 32 weeks in adult and adolescent subjects with severe asthma (Trial 2), blood eosinophils were reduced to a geometric mean count of 40 cells/mcL, which corresponds to a geometric mean reduction of 84% compared with placebo.
+These results, along with the clinical efficacy data from the dose-ranging exacerbation DREAM Trial in adult and adolescent subjects with severe asthma supported the evaluation of mepolizumab 75 mg intravenous and 100 mg subcutaneous in the confirmatory severe asthma trials [see Clinical Studies (14.1)].
+Following subcutaneous administration of mepolizumab 100 mg every 4 weeks for 32 weeks in adult and adolescent subjects with severe asthma (MENSA Trial), blood eosinophils were reduced to a geometric mean count of 40 cells/mcL, which corresponds to a geometric mean reduction of 84% compared with placebo.
 
 The pharmacodynamic response (blood eosinophil reduction) was also evaluated in children aged 6 to 11 years with severe asthma.
 Following subcutaneous administration of mepolizumab 40 mg every 4 weeks for 52 weeks, blood eosinophils were reduced to a geometric mean count of 48 cells/mcL.
 This corresponds to a geometric mean reduction from baseline of 85%.
 
-The magnitude of reduction in adults, adolescents, and children was observed within 4 weeks of treatment and was maintained throughout the treatment periods.
+The magnitude of reduction in adults, adolescents, and children with severe asthma was observed within 4 weeks of treatment and was maintained throughout the treatment periods.
+
+Following subcutaneous administration of NUCALA 100 mg every 4 weeks (for CRSwNP or COPD), or 300 mg every 4 weeks (for EGPA or HES), blood eosinophils were reduced to a similar magnitude to that observed in patients with severe asthma compared to placebo.
 
 For adults with CRSwNP, following subcutaneous administration of mepolizumab 100 mg every 4 weeks for 52 weeks, blood eosinophils were reduced to a geometric mean count of 60 cells/mcL.
 There was a geometric mean reduction of 83% compared with placebo.
 This magnitude of reduction was observed within 4 weeks of treatment and was maintained throughout the treatment period [see Clinical Studies (14.2)].
 
-For adults with EGPA, following subcutaneous administration of mepolizumab 300 mg every 4 weeks for 52 weeks, blood eosinophils were reduced to a geometric mean count of 38 cells/mcL.
-There was a geometric mean reduction of 83% compared with placebo, and this magnitude of reduction was observed within 4 weeks of treatment [see Clinical Studies (14.3)].
+For adults with COPD, following subcutaneous administration of mepolizumab 100 mg every 4 weeks for 52 to 104 weeks, blood eosinophils were reduced to a geometric mean count of 50‑60 cells/mcL.
+There was a geometric mean reduction of approximately 79% compared with placebo, and this magnitude of reduction was observed within 4 weeks of treatment and was maintained throughout the treatment period [see Clinical Studies (14.3)].
 
-For adults and adolescents with HES, following subcutaneous administration of mepolizumab 300 mg every 4 weeks for 32 weeks, blood eosinophils were reduced to a geometric mean count of 70 cells/mcL.
-There was a geometric mean reduction of 92% compared with placebo [see Clinical Studies (14.4)].
+For adults with EGPA, following subcutaneous administration of mepolizumab 300 mg every 4 weeks for 52 weeks, blood eosinophils were reduced to a geometric mean count of 38 cells/mcL.
+There was a geometric mean reduction of 83% compared with placebo, and this magnitude of reduction was observed within 4 weeks of treatment [see Clinical Studies (14.4)].
+
+For adults and pediatric patients aged 12 years and older with HES, following subcutaneous administration of mepolizumab 300 mg every 4 weeks for 32 weeks, blood eosinophils were reduced to a geometric mean count of 70 cells/mcL.
+There was a geometric mean reduction of 92% compared with placebo [see Clinical Studies (14.5)].
 
 ## 12.3 Pharmacokinetics
 
 Following subcutaneous dosing in adult subjects with asthma, mepolizumab exhibited approximately dose‑proportional pharmacokinetics over a dose range of 12.5 to 250 mg.
-The pharmacokinetic properties of mepolizumab observed in subjects with CRSwNP (adults), EGPA (adults), or HES (adults and adolescents) were similar to the pharmacokinetic properties observed in subjects with severe asthma (adults and adolescents).
+The pharmacokinetic properties of mepolizumab observed in subjects with CRSwNP (adults), COPD (adults), EGPA (adults), or HES (adults and adolescents) were similar to the pharmacokinetic properties observed in subjects with severe asthma (adults and adolescents).
 
 Subcutaneous administration of mepolizumab 300 mg had approximately 3 times the systemic exposure of mepolizumab 100 mg.
 
@@ -82,3 +87,24 @@ Drug Interaction Studies
 
 No formal drug interaction studies have been conducted with mepolizumab.
 In population pharmacokinetics analyses of Phase 3 studies, there was no evidence of an effect of commonly coadministered small molecule drugs on mepolizumab exposure.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of NUCALA or of other mepolizumab products.
+
+In adult and adolescent patients with severe asthma receiving NUCALA 100 mg, 15/260 (6%) had detectable anti-mepolizumab antibodies.
+Neutralizing antibodies were detected in 1 patient with asthma receiving NUCALA 100 mg.
+Anti-mepolizumab antibodies slightly increased (approximately 20%) the clearance of mepolizumab.
+There was no evidence of a correlation between anti-mepolizumab antibody titers and change in eosinophil level.
+The clinical relevance of the presence of anti-mepolizumab antibodies is not known.
+In the clinical trial of children aged 6 to 11 years with severe asthma receiving NUCALA 40 or 100 mg, 2/35 (6%) had detectable anti-mepolizumab antibodies during the initial short phase of the trial.
+No children had detectable anti-mepolizumab antibodies during the long phase of the trial.
+
+In patients receiving NUCALA 100 mg over 52 weeks for CRSwNP or over 52 to 104 weeks for COPD, 6/196 (3%) and 35/999 (4%) had detectable anti-mepolizumab antibodies, respectively.
+In patients receiving NUCALA 300 mg over 52 weeks for EGPA or over 32 weeks for HES, 1/68 (<2%) and 1/53 (2%) had detectable anti-mepolizumab antibodies, respectively.
+No neutralizing antibodies were detected in any of these patients.
+Because of the low occurrence of anti-drug antibodies, the effect of these antibodies on the pharmacokinetics, pharmacodynamics, safety, and/or effectiveness of NUCALA is unknown.
+
+The reported frequency of anti-mepolizumab antibodies may underestimate the actual frequency due to lower assay sensitivity in the presence of high drug concentration.
+The data reflect the percentage of patients whose test results were positive for antibodies to mepolizumab in specific assays.

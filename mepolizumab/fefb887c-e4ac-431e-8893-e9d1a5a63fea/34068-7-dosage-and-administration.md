@@ -1,32 +1,22 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-NUCALA is for subcutaneous use only.
+## 2.1 Recommended Dosage
 
-## 2.1 Severe Asthma
+NUCALA is for subcutaneous use only, and should be injected into the upper arm, thigh, or abdomen [see Dosage and Administration (2.2, 2.3)].
 
-Adults and Adolescents Aged 12 Years and Older
+Table 1.
+Recommended Dosage of NUCALA
 
-The recommended dosage of NUCALA in adults and adolescents aged 12 years and older is 100 mg administered once every 4 weeks by subcutaneous injection into the upper arm, thigh, or abdomen [see Dosage and Administration (2.5, 2.6)].
+| Indication | Adults | Pediatric Patients |
+| --- | --- | --- |
+| Severe asthma | 100 mg every 4 weeks | •12 to 17 years of age: 100 mg every 4 weeks•6 to 11 years of age: 40 mg every 4 weeks |
+| Chronic rhinosinusitis with nasal polyps | 100 mg every 4 weeks | Not applicable |
+| Chronic obstructive pulmonary disease | 100 mg every 4 weeks | Not applicable |
+| Eosinophilic granulomatosis with polyangiitis | 300 mga every 4 weeks | Not applicable |
+| Hypereosinophilic syndrome | 300 mga every 4 weeks | 12 to 17 years of age: 300 mga every 4 weeks |
+| a 300 mg dose is administered as 3 separate 100 mg dose injections administered at least 5 cm (approximately 2 inches) apart. |  |  |
 
-Pediatric Patients Aged 6 to 11 Years
-
-The recommended dosage of NUCALA for injection in pediatric patients aged 6 to 11 years is 40 mg administered once every 4 weeks by subcutaneous injection into the upper arm, thigh, or abdomen [see Dosage and Administration (2.5, 2.6)].
-
-## 2.2 Chronic Rhinosinusitis with Nasal Polyps
-
-The recommended dosage of NUCALA is 100 mg administered once every 4 weeks by subcutaneous injection into the upper arm, thigh, or abdomen [see Dosage and Administration (2.5, 2.6)].
-
-## 2.3 Eosinophilic Granulomatosis with Polyangiitis
-
-The recommended dosage of NUCALA is 300 mg administered once every 4 weeks by subcutaneous injection as 3 separate 100-mg injections into the upper arm, thigh, or abdomen [see Dosage and Administration (2.5, 2.6)].
-Administer individual 100-mg injections at least 5 cm (approximately 2 inches) apart.
-
-## 2.4 Hypereosinophilic Syndrome
-
-The recommended dosage of NUCALA is 300 mg administered once every 4 weeks by subcutaneous injection as 3 separate 100-mg injections into the upper arm, thigh, or abdomen [see Dosage and Administration (2.5, 2.6)].
-Administer individual 100-mg injections at least 5 cm (approximately 2 inches) apart.
-
-## 2.5 Preparation and Administration of NUCALA for Injection Vial
+## 2.2 Preparation and Administration of NUCALA for Injection Vial
 
 NUCALA for injection should be reconstituted and administered by a healthcare professional.
 In line with clinical practice, monitoring of patients after administration of biologic agents is recommended [see Warnings and Precautions (5.1)].
@@ -51,30 +41,30 @@ Reconstitution Instructions
    2. •do not freeze, and
    3. •discard if not used within 8 hours of reconstitution.
 
-Administration of 100-mg Dose
+Administration of 100 mg Dose
 
 1. 1.For subcutaneous administration, preferably using a 1-mL polypropylene syringe fitted with a disposable 21- to 27-gauge x 0.5-inch (13-mm) needle.
 2. 2.Just before administration, remove 1 mL of reconstituted NUCALA for injection.
    Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
-3. 3.Administer the 1-mL injection (equivalent to 100 mg of mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.
+3. 3.Administer the 1 mL injection (equivalent to 100 mg of mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.
 
-Administration of 40-mg Dose
+Administration of 40 mg Dose
 
 1. 1.For subcutaneous administration, preferably using a 1-mL polypropylene syringe fitted with a disposable 21- to 27-gauge x 0.5-inch (13-mm) needle.
 2. 2.Just before administration, remove 0.4 mL of reconstituted NUCALA for injection.
    Do not shake the reconstituted solution during the procedure as this could lead to product foaming or precipitation.
-3. 3.Administer the 0.4-mL injection (equivalent to 40 mg of mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.
+3. 3.Administer the 0.4 mL injection (equivalent to 40 mg of mepolizumab) subcutaneously into the upper arm, thigh, or abdomen.
 
 Each vial of NUCALA for injection should be used for a single patient, and any remainder of the contents should be discarded.
 
-## 2.6 Preparation and Administration of NUCALA Injection Prefilled Autoinjector and Prefilled Syringes
+## 2.3 Preparation and Administration of NUCALA Injection Prefilled Autoinjector and Prefilled Syringes
 
 NUCALA injection is intended for use under the guidance of a healthcare provider.
 
-The 100-mg/mL prefilled autoinjector and 100-mg/mL prefilled syringe are only for use in adults and adolescents aged 12 years and older.
-A patient may self-inject or the patient caregiver may administer NUCALA injection 100 mg/mL subcutaneously after the healthcare provider determines it is appropriate.
+The 100 mg/mL prefilled autoinjector and 100 mg/mL prefilled syringe are only for use in adults and adolescents aged 12 years and older.
+A patient may self-inject, or the patient caregiver may administer NUCALA injection 100 mg/mL subcutaneously after the healthcare provider determines it is appropriate.
 
-The 40-mg/0.4-mL prefilled syringe is only for use in children aged 6 to 11 years and must be administered by the healthcare provider or the patient caregiver.
+The 40 mg/0.4 mL prefilled syringe is only for use in children aged 6 to 11 years and must be administered by the healthcare provider or the patient caregiver.
 The patient caregiver may administer NUCALA injection 40 mg/0.4 mL subcutaneously after the healthcare provider determines it is appropriate.
 
 Provide proper training in subcutaneous injection technique and on the preparation and administration of NUCALA injection prior to use [see Instructions for Use].

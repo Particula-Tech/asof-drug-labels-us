@@ -1,6 +1,6 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-For injection
+For Injection
 
 - •100 mg white to off-white lyophilized powder in a single-dose vial for reconstitution.
 

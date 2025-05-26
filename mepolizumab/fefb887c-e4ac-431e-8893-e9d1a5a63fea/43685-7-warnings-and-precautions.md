@@ -6,11 +6,11 @@ Hypersensitivity reactions (e.g., anaphylaxis, angioedema, bronchospasm, hypoten
 These reactions generally occur within hours of administration, but in some instances can have a delayed onset (i.e., days).
 In the event of a hypersensitivity reaction, NUCALA should be discontinued [see Contraindications (4)].
 
-## 5.2 Acute Asthma Symptoms or Deteriorating Disease
+## 5.2 Acute Symptoms of Asthma or Chronic Obstructive Pulmonary Disease or Acute Deteriorating Disease
 
-NUCALA should not be used to treat acute asthma symptoms or acute exacerbations.
+NUCALA should not be used to treat acute symptoms or acute exacerbations of asthma or COPD.
 Do not use NUCALA to treat acute bronchospasm or status asthmaticus.
-Patients should seek medical advice if their asthma remains uncontrolled or worsens after initiation of treatment with NUCALA.
+Patients should seek medical advice if their asthma or COPD remains uncontrolled or worsens after initiation of treatment with NUCALA.
 
 ## 5.3 Opportunistic Infections: Herpes Zoster
 
