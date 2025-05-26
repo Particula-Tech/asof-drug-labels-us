@@ -49,9 +49,9 @@ Following induction, the patient may then be transitioned to once-daily ZUBSOLV.
 ## 2.4 Maintenance
 
 - The dosage of ZUBSOLV from Day 3 onwards should be progressively adjusted in increments/decrements of 2.9 mg/0.71 mg or lower of buprenorphine/naloxone to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
-- After treatment induction and stabilization, the maintenance dose of ZUBSOLV is generally in the range of 2.9 mg/0.71 mg buprenorphine/naloxone to 17.2 mg/4.2 mg buprenorphine/naloxone per day depending on the individual patient and clinical response.
-  The recommended target dosage of ZUBSOLV during maintenance is 11.4 mg/2.9 mg as a single daily dose.
-  Dosages higher than 17.2 mg/4.2 mg buprenorphine/naloxone have not been demonstrated to provide any clinical advantage.
+- After treatment induction to the recommended dose of 11.4 mg/2.9 mg buprenorphine/naloxone per day, dosing should be further adjusted based on the individual patient and clinical response.
+  The maintenance dose of ZUBSOLV is generally in the range of 2.9 mg/0.71 mg buprenorphine/naloxone to 17.2 mg/4.2 mg buprenorphine/naloxone per day.
+  Dosages higher than 17.2 mg/4.2 mg buprenorphine/naloxone daily have not been investigated in randomized clinical trials but may be appropriate for some patients.
 - When determining the prescription quantity for unsupervised administration, consider the patient’s level of stability, the security of his or her home situation, and other factors likely to affect the ability to manage supplies of take-home medication.
 - There is no maximum recommended duration of maintenance treatment.
   Patients may require treatment indefinitely and should continue for as long as patients are benefiting and the use of ZUBSOLV contributes to the intended treatment goals.
