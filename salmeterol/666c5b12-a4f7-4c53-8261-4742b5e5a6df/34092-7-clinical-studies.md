@@ -37,23 +37,23 @@ These improvements in FEV1 with fluticasone propionate and salmeterol HFA 45 mcg
 The effect of fluticasone propionate and salmeterol HFA 45 mcg/21 mcg on the secondary efficacy parameters, including morning and evening PEF, usage of VENTOLIN Inhalation Aerosol, and asthma symptoms over 24 hours on a scale of 0 to 5 is shown in Table 4.
 
 Table 4.
-Secondary Efficacy Variable Results for Subjects Previously Treated with Beta2‑agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Trial 1)
+Secondary Efficacy Variable Results for Subjects Previously Treated with Beta2agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Trial 1)
 
-| Efficacy Variablea | Fluticasone Propionate and Salmeterol HFA45 mcg/21 mcg(n = 92) | Fluticasone Propionate CFC Inhalation Aerosol44 mcg(n = 89) | Salmeterol CFC Inhalation Aerosol21 mcg(n = 92) | Placebo HFA Inhalation Aerosol(n = 87) |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AM PEF (L/min) |  |  |  |  |  |  |  |  |
-| Baseline | 377 | 369 | 381 | 382 |  |  |  |  |
-| Change from baseline | 58 | 27 | 25 | 1 |  |  |  |  |
-| PM PEF (L/min) |  |  |  |  |  |  |  |  |
-| Baseline | 397 | 387 | 402 | 407 |  |  |  |  |
-| Change from baseline | 48 | 20 | 16 | 3 |  |  |  |  |
-| Use of VENTOLIN Inhalation Aerosol (inhalations/day) |  |  |  |  |  |  |  |  |
-| Baseline | 3.1 | 2.4 | 2.7 | 2.7 |  |  |  |  |
-| Change from baseline | -2.1 | -0.4 | -0.8 | 0.2 |  |  |  |  |
-| Asthma symptom score/day |  |  |  |  |  |  |  |  |
-| Baseline | 1.8 | 1.6 | 1.7 | 1.7 |  |  |  |  |
-| Change from baseline | -1.0 | -0.3 | -0.4 | 0 |  |  |  |  |
-| a Change from baseline = change from baseline at Endpoint (last available data). |  |  |  |  |  |  |  |  |
+| Efficacy Variablea | Fluticasone Propionate and Salmeterol HFA45 mcg/21 mcg(n = 92) | Fluticasone Propionate CFC Inhalation Aerosol44 mcg(n = 89) | Salmeterol CFC Inhalation Aerosol21 mcg(n = 92) | Placebo HFA Inhalation Aerosol(n = 87) |
+| --- | --- | --- | --- | --- |
+| AM PEF (L/min) |  |  |  |  |
+| Baseline | 377 | 369 | 381 | 382 |
+| Change from baseline | 58 | 27 | 25 | 1 |
+| PM PEF (L/min) |  |  |  |  |
+| Baseline | 397 | 387 | 402 | 407 |
+| Change from baseline | 48 | 20 | 16 | 3 |
+| Use of VENTOLIN Inhalation Aerosol (inhalations/day) |  |  |  |  |
+| Baseline | 3.1 | 2.4 | 2.7 | 2.7 |
+| Change from baseline | -2.1 | -0.4 | -0.8 | 0.2 |
+| Asthma symptom score/day |  |  |  |  |
+| Baseline | 1.8 | 1.6 | 1.7 | 1.7 |
+| Change from baseline | -1.0 | -0.3 | -0.4 | 0 |
+| a Change from baseline = change from baseline at Endpoint (last available data). |  |  |  |  |
 
 The subjective impact of asthma on subjects’ perception of health was evaluated through use of an instrument called the Asthma Quality of Life Questionnaire (AQLQ) (based on a 7-point scale where 1 = maximum impairment and 7 = none).
 Subjects receiving fluticasone propionate and salmeterol HFA 45 mcg/21 mcg had clinically meaningful improvements in overall asthma-specific quality of life as defined by a difference between groups of ≥0.5 points in change from baseline AQLQ scores (difference in AQLQ score of 1.14 [95% CI: 0.85, 1.44] compared with placebo).
@@ -115,9 +115,6 @@ Figure 3.
 Percent Change in Serial 12-Hour FEV1 in Subjects Previously Using Either Beta2-agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Trial 1)
 
 First Treatment Day
-
-Figure 4.
-Percent Change in Serial 12-Hour FEV1 in Subjects Previously Using Either Beta2-agonists (Albuterol or Salmeterol) or Inhaled Corticosteroids (Trial 1)
 
 Last Treatment Day (Week 12)
 

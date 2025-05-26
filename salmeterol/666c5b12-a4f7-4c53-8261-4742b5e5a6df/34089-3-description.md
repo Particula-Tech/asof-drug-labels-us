@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Fluticasone Propionate and Salmeterol HFA 45 mcg/21 mcg inhalation aerosol, Fluticasone Propionate and Salmeterol HFA 115 mcg/21 mcg inhalation aerosol, and Fluticasone Propionate and Salmeterol HFA 230 mcg/21 mcg inhalation aerosol are combinations of fluticasone propionate and salmeterol xinafoate.
+Fluticasone Propionate and Salmeterol HFA 45 mcg/21 mcg inhalation aerosol, Fluticasone Propionate and Salmeterol HFA inhalation aerosol 115 mcg/21 mcg, and Fluticasone Propionate and Salmeterol HFA inhalation aerosol 230 mcg/21 mcg are combinations of fluticasone propionate and salmeterol xinafoate.
 
 One active component of Fluticasone Propionate and Salmeterol HFA is fluticasone propionate, a corticosteroid having the chemical name S-(fluoromethyl) 6α,9-difluoro-11β,17-dihydroxy-16α-methyl-3-oxoandrosta-1,4-diene-17β-carbothioate, 17-propionate and the following chemical structure:
 
