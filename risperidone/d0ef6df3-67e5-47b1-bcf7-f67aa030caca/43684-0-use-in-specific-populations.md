@@ -4,8 +4,6 @@
 
 ### Pregnancy Exposure Registry
 
-Pregnancy Exposure Registry
-
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to atypical antipsychotics, including risperidone, during pregnancy.
 Healthcare providers are encouraged to register patients by contacting the National Pregnancy Registry for Atypical Antipsychotics at 1-866-961-2388 or online at http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 

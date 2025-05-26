@@ -76,8 +76,6 @@ Manufactured for: Endo USA Malvern, PA 19355 U.S.A.
 
 Made in India
 
-Neutral Code: MP/DRUGS/25/82/2020
-
 ©2024 Endo, Inc. or one of its affiliates.
 
-OS212-01-74-02 Revised: 06/2024
+Issued: 07/2024
