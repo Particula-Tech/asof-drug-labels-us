@@ -27,9 +27,8 @@ GSK
 
 ©2023 GSK group of companies or its licensor.
 
-1. 62000000090770 Rev.
-   10/23
-2. 
+- 62000000090770 Rev.
+  10/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -60,10 +59,8 @@ GSK
 
 ©2023 GSK group of companies or its licensor.
 
-1. 62000000090781 Rev.
-   10/23
-2. 
-3. 
+- 62000000090781 Rev.
+  10/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -94,6 +91,5 @@ GSK
 
 ©2023 GSK group of companies or its licensor.
 
-1. 62000000090778 Rev.
-   10/23
-2. 
+- 62000000090778 Rev.
+  10/23
