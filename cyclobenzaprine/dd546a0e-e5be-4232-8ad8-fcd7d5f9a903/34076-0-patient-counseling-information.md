@@ -18,4 +18,4 @@ Manufactured By: Adare Pharmaceuticals, Inc. Vandalia, OH 45377
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-11-2021-03
+05-2025-04

@@ -136,4 +136,4 @@ Distributed by: Manufactured By: Amneal Pharmaceuticals LLC Adare Pharmaceutical
 
 For more information, go to www.amneal.com or call toll-free 1-877-835-5472.
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 11-2021-03
+This Patient Information has been approved by the U.S. Food and Drug Administration Revised: May 2025
