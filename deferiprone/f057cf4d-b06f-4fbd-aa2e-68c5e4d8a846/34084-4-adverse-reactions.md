@@ -29,32 +29,32 @@ The table below lists the adverse drug reactions that occurred in at least 1% of
 
 Table 3: Adverse reactions occurring in ≥ 1% of FERRIPROX-treated patients with thalassemia syndromes
 
-| Body System Adverse Reaction | (N=642) % Patients |
-| --- | --- |
-| BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |
-| Neutropenia* | 7 |
-| Agranulocytosis† | 1 |
-| GASTROINTESTINAL DISORDERS |  |
-| Nausea | 13 |
-| Abdominal pain/discomfort | 10 |
-| Vomiting | 10 |
-| Diarrhea | 3 |
-| Dyspepsia | 2 |
-| INVESTIGATIONS |  |
-| Alanine aminotransferase increased | 7 |
-| Weight increased | 2 |
-| Aspartate aminotransferase increased | 1 |
-| METABOLISM AND NUTRITION DISORDERS |  |
-| Increased appetite | 4 |
-| Decreased appetite | 1 |
-| MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS |  |
-| Arthralgia | 10 |
-| Back pain | 2 |
-| Pain in extremity | 2 |
-| Arthropathy | 1 |
-| NERVOUS SYSTEM DISORDERS |  |
-| Headache | 2 |
-| *Neutropenia includes events of severe neutropenia (ANC ≥0.2 x 109/L and <0.5 x 109/L). †Agranulocytosis (ANC< 0.2 x 109/L) |  |
+| Body System Adverse Reaction | (N=642) % Patients |  |
+| --- | --- | --- |
+| BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |  |
+| Neutropenia* | 7 |  |
+| Agranulocytosis† | 1 |  |
+| GASTROINTESTINAL DISORDERS |  |  |
+| Nausea | 13 |  |
+| Abdominal pain/discomfort | 10 |  |
+| Vomiting | 10 |  |
+| Diarrhea | 3 |  |
+| Dyspepsia | 2 |  |
+| INVESTIGATIONS |  |  |
+| Alanine aminotransferase increased | 7 |  |
+| Weight increased | 2 |  |
+| Aspartate aminotransferase increased | 1 |  |
+| METABOLISM AND NUTRITION DISORDERS |  |  |
+| Increased appetite | 4 |  |
+| Decreased appetite | 1 |  |
+| MUSCULOSKELETAL AND CONNECTIVE TISSUE DISORDERS |  |  |
+| Arthralgia | 10 |  |
+| Back pain | 2 |  |
+| Pain in extremity | 2 |  |
+| Arthropathy | 1 |  |
+| NERVOUS SYSTEM DISORDERS |  |  |
+| Headache | 2 |  |
+| *Neutropenia includes events of severe neutropenia (ANC ≥0.2 x 109/L and <0.5 x 109/L). †Agranulocytosis (ANC< 0.2 x 109/L) |  |  |
 
 Gastrointestinal symptoms such as nausea, vomiting, and abdominal pain were the most frequent adverse reactions reported by patients participating in clinical trials and led to the discontinuation of FERRIPROX therapy in 1.6% of patients.
 

@@ -27,6 +27,6 @@ Data from 185 patients (122 on FERRIPROX and 63 on deferoxamine) were available.
 Among the 122 FERRIPROX treated patients, the mean age was 15.9 years (range 3-46); 57.4% were male; 75.4% were White, 17.2% were Black and 7.4% were Multi-racial; 85% were diagnosed with Sickle Cell Disease and 15% with other anemias.
 Over 12 months, the Least Squares estimate of mean decrease from baseline in LIC was 4.13 ± 0.50 mg/g dw for FERRIPROX and 4.38 ± 0.59 mg/g dw for deferoxamine, and the non-inferiority criterion was met.
 
-Upon completion of the first year of therapy in the non inferiority study, 89 patients from the FERRIPROX group opted to continue with treatment and 45 from the deferoxamine group opted to switch to ferriprox treatment.
+Upon completion of the first year of therapy in the non inferiority study, 89 patients from the FERRIPROX group opted to continue with treatment and 45 from the deferoxamine group opted to switch to FERRIPROX treatment.
 This group continued for up to an additional 2 years.
 LIC continued to decrease over time, with the mean value dropping from 14.93 mg/g dw at baseline to 12.30 mg/g dw after one year of treatment, to 11.19 mg/g dw after two years of treatment, and to 10.45 mg/g dw after three years of treatment.
