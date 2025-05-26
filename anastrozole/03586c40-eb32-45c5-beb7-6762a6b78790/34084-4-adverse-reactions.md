@@ -160,8 +160,10 @@ Patients receiving anastrozole had a lower incidence of hot flashes, vaginal ble
 
 10-year median follow-up Safety Results from the ATAC Trial
 
-- Results are consistent with the previous analyses.
-- Serious adverse reactions were similar between anastrozole (50%) and tamoxifen (51%).
+Results are consistent with the previous analyses.
+
+Serious adverse reactions were similar between anastrozole (50%) and tamoxifen (51%).
+
 - Cardiovascular events were consistent with the known safety profiles of anastrozole and tamoxifen.
 - The cumulative incidences of all first fractures (both serious and non-serious, occurring either during or after treatment) was higher in the anastrozole group (15%) compared to the tamoxifen group (11%).
   This increased first fracture rate during treatment did not continue in the post-treatment follow-up period.
@@ -329,11 +331,9 @@ These adverse reactions are reported voluntarily from a population of uncertain 
 Therefore, it is not always possible to estimate reliably their frequency or establish a causal relationship to drug exposure.
 The following have been reported in post-approval use of anastrozole:
 
-Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
-
-Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome.
-
-Cases of allergic reactions including angioedema, urticaria and anaphylaxis.
-[see Contraindications (4)]
-
-Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
+- Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
+- Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome.
+- Cases of allergic reactions including angioedema, urticaria and anaphylaxis.
+  [see Contraindications (4)]
+- Myalgia,and hypercalcemia (with or without an increase in parathyroid hormone)
+- Tendon disorders including tendon rupture, tendonitis, tenosynovitis, and tenosynovitis stenosans (trigger finger)

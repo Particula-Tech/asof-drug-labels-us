@@ -56,7 +56,7 @@ In the hormone receptor-positive subpopulation representing about 84% of the tri
 
 Figure 1- Disease-Free Survival Kaplan Meier Survival Curve for all Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial (Intent-to-Treat)
 
-Figure 2- Disease-free Survival for Hormone Receptor-Positive Subpopulation of Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial
+Figure 2- Disease-Free Survival for Hormone Receptor-Positive Subpopulation of Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial
 
 The survival data with 68 months follow-up is presented in Table 9.
 
@@ -68,8 +68,8 @@ Table 8 - All Recurrence and Death Events The combination arm was discontinued d
 
 |  | Number (%) of Patients |  | Number (%) of Patients |  |
 | --- | --- | --- | --- | --- |
-|  | Intent-To-Treat Population Patients may fall into more than one category. |  | Hormone Receptor-Positive Subpopulation |  |
-|  | Anastrozole1 mg(N N=Number of patients randomized=3125) | Tamoxifen20 mg(N =3116) | Anastrozole1 mg(N =2618) | Tamoxifen20 mg(N =2598 |
+|  | Intent-To-Treat Population N=Number of patients randomized |  | Hormone Receptor-Positive Subpopulation |  |
+|  | Anastrozole1 mg(N Patients may fall into more than one category.=3125) | Tamoxifen20 mg(N =3116) | Anastrozole1 mg(N =2618) | Tamoxifen20 mg(N =2598 |
 | Median Duration of Therapy (mo) | 60 | 60 | 60 | 60 |
 | Median EfficacyFollow-up (mo) | 68 | 68 | 68 | 68 |
 | Loco-regional recurrence | 119 (3.8) | 149 (4.8) | 76 (2.9) | 101 (3.9) |
@@ -164,7 +164,7 @@ Table 12– Efficacy Results of First-line Treatment
 | 2-sided 95% CI CI=Confidence Interval | (1.11, 1.82) |  | (0.85, 1.20) |  |
 | p-value Two-sided Log Rank | 0.006 |  | 0.920 |  |
 | Best objective response rate |  |  |  |  |
-| Number (%) of subjectsWith CR CR=Complete Response+ PR PR=Partial Response | 36 (21.1%) | 31 (17.0%) | 112 (32.9%) | 107 (32.6%) |
+| Number (%) of subjectswith CR CR=Complete Response+ PR PR=Partial Response | 36 (21.1%) | 31 (17.0%) | 112 (32.9%) | 107 (32.6%) |
 | Odds Ratio (LCL) Anastrozole:Tamoxifen | 1.30 (0.83) |  | 1.01 (0.77) |  |
 
 Figure 5 — Kaplan-Meier probability of time to disease progression for all randomized patients (intent to- treat) in Trial 0030
