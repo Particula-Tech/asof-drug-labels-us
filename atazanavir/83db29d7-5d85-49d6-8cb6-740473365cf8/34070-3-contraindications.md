@@ -5,9 +5,12 @@ The concomitant use of EVOTAZ and the following drugs in Table 1, are contraindi
 EVOTAZ is contraindicated:
 
 - •in patients with previously demonstrated clinically significant hypersensitivity (e.g., Stevens-Johnson syndrome, erythema multiforme, or toxic skin eruptions) to any of the components of this product [see Warnings and Precautions (5.2)].
+- •when coadministered with drugs that strongly induce CYP3A4, which may lead to lower exposure of EVOTAZ resulting in potential loss of efficacy and development of possible resistance (Table 5).
 - •when coadministered with drugs that are highly dependent on CYP3A or UGT1A1 for clearance, and for which elevated plasma concentrations of the interacting drugs are associated with serious and/or life-threatening events (see Table 5).
-- •when coadministered with drugs that strongly induce CYP3A and may lead to lower exposure and loss of efficacy of EVOTAZ (see Table 1).
-- •For additional information, including clinical comments and potential impact on exposure levels associated with drugs that are contraindicated with EVOTAZ, refer to Table 5 [see Drug Interactions (7.3)].
+
+For additional information, including clinical comments and potential impact on exposure levels associated with drugs that are contraindicated with EVOTAZ, refer to Table 5 [see Drug Interactions (7.3)].
+
+- Coadministration is contraindicated with, but not limited to, the following drugs:
 
 Table 1: Drugs Contraindicated with EVOTAZ
 
@@ -19,10 +22,9 @@ Table 1: Drugs Contraindicated with EVOTAZ
 | Anticonvulsants | carbamazepine, phenobarbital, phenytoin |
 | Antigout | colchicine (when used in patients with hepatic and/or renal impairment) |
 | Antimycobacterials | rifampin |
-| Antineoplastics | irinotecan |
+| Antineoplastics | apalutamide, encorafenib, irinotecan, ivosidenib |
 | Antipsychotics | lurasidone, pimozide |
 | Ergot Derivatives | dihydroergotamine, ergotamine, methylergonovine |
-| GI Motility Agent | cisapride |
 | Hepatitis C Direct-Acting Antivirals | elbasvir/grazoprevir; glecaprevir/pibrentasvir |
 | Herbal Products | St. John’s wort (Hypericum perforatum) |
 | Hormonal Contraceptives | drospirenone/ethinyl estradiol |

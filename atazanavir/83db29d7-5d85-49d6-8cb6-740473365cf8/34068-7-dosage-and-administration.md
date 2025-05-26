@@ -18,7 +18,7 @@ Hepatic laboratory testing should be performed in patients with underlying liver
 ## 2.2 Recommended Dosage
 
 EVOTAZ is a fixed-dose tablet containing 300 mg of atazanavir and 150 mg of cobicistat.
-The recommended dosage of EVOTAZ is one tablet taken once daily orally with food [see Clinical Pharmacology (12.3)] in HIV-1-infected treatment-naïve and treatment-experienced:
+The recommended dosage of EVOTAZ is one tablet taken once daily orally with food [see Clinical Pharmacology (12.3)] in both treatment-naive and treatment-experienced patients with HIV-1:
 
 - •Adult patients
 - •Pediatric patients weighing at least 35 kg
@@ -28,7 +28,7 @@ Dose separation may be required when taken with H2-receptor antagonists or proto
 
 ## 2.3 Dosage in Patients with Renal Impairment
 
-EVOTAZ is not recommended in treatment-experienced patients with HIV-1 infection who have end-stage renal disease managed with hemodialysis [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
+EVOTAZ is not recommended in treatment-experienced patients with HIV-1 who have end-stage renal disease managed with hemodialysis [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)].
 
 EVOTAZ coadministered with tenofovir DF is not recommended in patients with estimated creatinine clearance below 70 mL/min.
 Coadministration of EVOTAZ and tenofovir DF in combination with concomitant or recent use of a nephrotoxic agent is not recommended [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].

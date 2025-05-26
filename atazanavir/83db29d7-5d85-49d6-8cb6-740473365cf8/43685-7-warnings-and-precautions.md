@@ -3,9 +3,9 @@
 ## 5.1 Cardiac Conduction Abnormalities
 
 Atazanavir prolongs the PR interval of the electrocardiogram in some patients.
-In healthy subjects and in subjects with HIV-1 infection treated with atazanavir, abnormalities in atrioventricular (AV) conduction were asymptomatic and generally limited to first-degree AV block.
+In healthy participants and in participants with HIV-1 treated with atazanavir, abnormalities in atrioventricular (AV) conduction were asymptomatic and generally limited to first-degree AV block.
 There have been reports of second-degree AV block and other conduction abnormalities [see Adverse Reactions (6.1) and Overdosage (10)].
-In clinical trials of atazanavir in subjects with HIV-1 infection that included electrocardiograms, asymptomatic first-degree AV block was observed in 6% of subjects treated with atazanavir (n=920) and 5% of subjects (n=118) treated with atazanavir coadministered with ritonavir.
+In clinical trials of atazanavir in participants with HIV-1 that included electrocardiograms, asymptomatic first-degree AV block was observed in 6% of participants treated with atazanavir (n=920) and 5% of participants (n=118) treated with atazanavir coadministered with ritonavir.
 Because of limited clinical experience in patients with preexisting conduction system disease (e.g., marked first-degree AV block or second- or third-degree AV block), consider ECG monitoring in these patients [see Clinical Pharmacology (12.2)].
 
 ## 5.2 Severe Skin Reactions
@@ -32,19 +32,21 @@ Although cobicistat may cause modest increases in serum creatinine and modest de
 Renal impairment, including cases of acute renal failure and Fanconi syndrome, has been reported when cobicistat was used in an antiretroviral regimen that contained tenofovir DF.
 Therefore, coadministration of EVOTAZ and tenofovir DF is not recommended in patients who have an estimated creatinine clearance below 70 mL/min [see Dosage and Administration (2.3)].
 
-- •When EVOTAZ is used with tenofovir DF, document urine glucose and urine protein at baseline and perform routine monitoring of estimated creatinine clearance, urine glucose, and urine protein during treatment.
-- •Measure serum phosphorus in patients with or at risk for renal impairment.
-- •Coadministration of EVOTAZ and tenofovir DF in combination with concomitant or recent use of a nephrotoxic agent is not recommended.
+• When EVOTAZ is used with tenofovir DF, document urine glucose and urine protein at baseline and perform routine monitoring of estimated creatinine clearance, urine glucose, and urine protein during treatment.
 
-In a clinical trial over 144 weeks (N=692), 10 (2.9%) subjects treated with atazanavir coadministered with cobicistat and tenofovir DF and 11 (3.2%) subjects treated with atazanavir coadministered with ritonavir and tenofovir DF discontinued study drug due to a renal adverse event.
-Seven of the 10 subjects (2.0% overall) in the cobicistat group had laboratory findings consistent with proximal renal tubulopathy leading to study drug discontinuation, compared to 7 of 11 subjects (2.0% overall) in the ritonavir group.
-One subject in the cobicistat group had renal impairment at baseline (e.g., estimated creatinine clearance less than 70 mL/min).
-The laboratory findings in these 7 subjects treated with cobicistat, with evidence of proximal tubulopathy improved but did not completely resolve in all subjects upon discontinuation of cobicistat coadministered with atazanavir and tenofovir DF.
-Renal replacement therapy was not required in any subject.
+• Measure serum phosphorus in patients with or at risk for renal impairment.
+
+• Coadministration of EVOTAZ and tenofovir DF in combination with concomitant or recent use of a nephrotoxic agent is not recommended.
+
+In a clinical trial over 144 weeks (N=692), 10 (2.9%) participants treated with atazanavir coadministered with cobicistat and tenofovir DF and 11 (3.2%) participants treated with atazanavir coadministered with ritonavir and tenofovir DF discontinued study drug due to a renal adverse event.
+Seven of the 10 participants (2.0% overall) in the cobicistat group had laboratory findings consistent with proximal renal tubulopathy leading to study drug discontinuation, compared to 7 of 11 participants (2.0% overall) in the ritonavir group.
+One participant in the cobicistat group had renal impairment at baseline (e.g., estimated creatinine clearance less than 70 mL/min).
+The laboratory findings in these 7 participants treated with cobicistat, with evidence of proximal tubulopathy improved but did not completely resolve in all participants upon discontinuation of cobicistat coadministered with atazanavir and tenofovir DF.
+Renal replacement therapy was not required in any participant.
 
 ## 5.5 Chronic Kidney Disease
 
-Chronic kidney disease in patients with HIV-1 infection treated with atazanavir, with or without ritonavir, has been reported during postmarketing surveillance.
+Chronic kidney disease in patients with HIV-1 treated with atazanavir, with or without ritonavir, has been reported during postmarketing surveillance.
 Reports included biopsy-proven cases of granulomatous interstitial nephritis associated with the deposition of atazanavir drug crystals in the renal parenchyma.
 Consider alternatives to EVOTAZ in patients at high risk for renal disease or with preexisting renal disease.
 Renal laboratory testing (including serum creatinine, estimated creatinine clearance, and urinalysis with microscopic examination) should be conducted in all patients prior to initiating therapy with EVOTAZ and continued during treatment with EVOTAZ.
@@ -53,14 +55,14 @@ In patients with progressive kidney disease, discontinuation of EVOTAZ may be co
 
 ## 5.6 Nephrolithiasis and Cholelithiasis
 
-Cases of nephrolithiasis and/or cholelithiasis have been reported during postmarketing surveillance in patients with HIV-1 infection receiving atazanavir therapy.
+Cases of nephrolithiasis and/or cholelithiasis have been reported during postmarketing surveillance in patients with HIV-1 receiving atazanavir therapy.
 Some patients required hospitalization for additional management and some had complications.
 Because these events were reported voluntarily during clinical practice, estimates of frequency cannot be made.
 If signs or symptoms of nephrolithiasis and/or cholelithiasis occur, temporary interruption or discontinuation of therapy may be considered [see Adverse Reactions (6, 6.1)].
 
 ## 5.7 Hepatotoxicity
 
-Patients with underlying hepatitis B or C viral infections or marked elevations in transaminases may be at increased risk for developing further transaminase elevations or hepatic decompensation.
+Patients with underlying hepatitis B or C virus or marked elevations in transaminases may be at increased risk for developing further transaminase elevations or hepatic decompensation.
 In these patients, hepatic laboratory testing should be conducted prior to initiating therapy with EVOTAZ and during treatment [see Dosage and Administration (2.4) and Use in Specific Populations (8.7)].
 
 ## 5.8 Risk of Serious Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
@@ -71,15 +73,16 @@ Initiation of medications that inhibit or induce CYP3A may increase or decrease 
 
 Increased concentrations of EVOTAZ may lead to:
 
-- •clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from higher exposures of concomitant medications.
-- •clinically significant adverse reactions from higher exposures of EVOTAZ.
+• clinically significant adverse reactions, potentially leading to severe, life threatening, or fatal events from higher exposures of concomitant medications.
+
+• clinically significant adverse reactions from higher exposures of EVOTAZ.
 
 Decreased concentrations of EVOTAZ may lead to:
 
-- •loss of therapeutic effect of EVOTAZ and possible development of resistance.
+• loss of therapeutic effect of EVOTAZ and possible development of resistance.
 
 See Table 5 for steps to prevent or manage these possible and known significant drug interactions, including dosing recommendations [see Drug Interactions (7.3)].
-Consider the potential for drug interactions prior to and during EVOTAZ therapy; review concomitant medications during EVOTAZ therapy; and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4)andDrug Interactions (7)].
+Consider the potential for drug interactions prior to and during EVOTAZ therapy; review concomitant medications during EVOTAZ therapy; and monitor for the adverse reactions associated with the concomitant medications [see Contraindications (4) and Drug Interactions (7)].
 
 When used with concomitant medications, EVOTAZ may result in different drug interactions than those observed or expected with atazanavir coadministered with ritonavir.
 Complex or unknown mechanisms of drug interactions preclude extrapolation of drug interactions with atazanavir coadministered with ritonavir to certain EVOTAZ interactions [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
@@ -103,13 +106,13 @@ Alternative antiretroviral therapy to EVOTAZ may be considered if jaundice or sc
 ## 5.11 Immune Reconstitution Syndrome
 
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy, including atazanavir, a component of EVOTAZ.
-During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jiroveci pneumonia, or tuberculosis), which may necessitate further evaluation and treatment.
+During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections (such as Mycobacterium avium, cytomegalovirus, Pneumocystis jirovecii pneumonia, or tuberculosis), which may necessitate further evaluation and treatment.
 
 Autoimmune disorders (such as Graves’ disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.12 Diabetes Mellitus/Hyperglycemia
 
-New-onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in patients with HIV-1 infection receiving protease inhibitor therapy.
+New-onset diabetes mellitus, exacerbation of preexisting diabetes mellitus, and hyperglycemia have been reported during postmarketing surveillance in patients with HIV-1 receiving protease inhibitor therapy.
 Some patients required either initiation or dose adjustments of insulin or oral hypoglycemic agents for treatment of these events.
 In some cases, diabetic ketoacidosis has occurred.
 In those patients who discontinued protease inhibitor therapy, hyperglycemia persisted in some cases.
@@ -124,6 +127,6 @@ A causal relationship has not been established.
 ## 5.14 Hemophilia
 
 There have been reports of increased bleeding, including spontaneous skin hematomas and hemarthrosis, in patients with hemophilia type A and B treated with protease inhibitors.
-In some patients additional factor VIII was given.
+In some patients, additional factor VIII was given.
 In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced.
 A causal relationship between protease inhibitor therapy and these events has not been established.
