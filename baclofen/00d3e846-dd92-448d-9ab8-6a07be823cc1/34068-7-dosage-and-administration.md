@@ -1,8 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-2.1 Use Only in Medtronic SynchroMed ® II Programmable Pump (or other pumps labeled for intrathecal administration of GABLOFEN)
+2.1 Use Only in Medtronic SynchroMed ® Programmable Pump (or other pumps labeled for intrathecal administration of GABLOFEN)
 
-GABLOFEN is approved only for use with the Medtronic SynchroMed ® II Programmable Pump or other pumps labeled for intrathecal administration of GABLOFEN.
+GABLOFEN is approved only for use with the Medtronic SynchroMed ® Programmable Pump or other pumps labeled for intrathecal administration of GABLOFEN.
 Refer to the manufacturer’s manual for specific instructions and precautions for programming the pump and/or refilling the reservoir.
 It is important to select the appropriate refill kit for the pump used to administer GABLOFEN.
 GABLOFEN is not to be compounded with other medications.

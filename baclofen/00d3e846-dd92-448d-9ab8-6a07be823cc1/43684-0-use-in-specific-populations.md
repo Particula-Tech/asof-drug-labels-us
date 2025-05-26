@@ -1,5 +1,7 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
+.
+
 ## 8.1 Pregnancy
 
 Risk Summary
