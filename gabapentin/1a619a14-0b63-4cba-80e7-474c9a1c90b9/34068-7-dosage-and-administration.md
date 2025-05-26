@@ -38,7 +38,7 @@ Gabapentin Capsules Dosage Based on Renal Function
 | >30 to 59 | 400 to 1400 | 200 BID | 300 BID | 400 BID | 500 BID | 700 BID |
 | >15 to 29 | 200 to 700 | 200 QD | 300 QD | 400 QD | 500 QD | 700 QD |
 | 15a | 100 to 300 | 100 QD | 125 QD | 150 QD | 200 QD | 300 QD |
-| Post-Hemodialysis Supplemental Dose (mg)b |  |  |  |  |  |  |
+|  |  | Post-Hemodialysis Supplemental Dose (mg)b |  |  |  |  |
 | Hemodialysis |  | 125b | 150b | 200b | 250b | 350b |
 | TID = Three times a day; BID = Two times a day; QD = Single daily dose a For patients with creatinine clearance <15 mL/min, reduce daily dose in proportion to creatinine clearance (e.g., patients with a creatinine clearance of 7.5 mL/min should receive one-half the daily dose that patients with a creatinine clearance of 15 mL/min receive). b Patients on hemodialysis should receive maintenance doses based on estimates of creatinine clearance as indicated in the upper portion of the table and a supplemental post-hemodialysis dose administered after each 4 hours of hemodialysis as indicated in the lower portion of the table. |  |  |  |  |  |  |
 
