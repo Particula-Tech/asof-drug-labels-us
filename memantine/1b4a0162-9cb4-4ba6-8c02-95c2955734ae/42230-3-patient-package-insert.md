@@ -108,11 +108,13 @@ For more information, contact Lupin Pharmaceuticals, Inc. at 1-800-399-2561 or w
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
@@ -124,4 +126,4 @@ Goa 403 722
 
 INDIA
 
-Revised: November 2019 ID#: 262258
+Revised: October 2024 ID#: 277501

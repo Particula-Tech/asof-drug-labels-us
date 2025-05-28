@@ -11,11 +11,13 @@ If a patient misses a single dose of memantine hydrochloride, that patient shoul
 The next dose should be taken as scheduled.
 If a patient fails to take memantine hydrochloride tablets for several days, dosing should not be resumed without consulting that patient's healthcare professional.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
@@ -27,4 +29,4 @@ Goa 403 722
 
 INDIA
 
-Revised: November 2019 ID#: 262257
+Revised: October 2024 ID#: 277500
