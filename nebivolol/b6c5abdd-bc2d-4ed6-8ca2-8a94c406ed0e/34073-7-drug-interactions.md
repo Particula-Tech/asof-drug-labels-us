@@ -1,0 +1,20 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 CYP2D6 Inhibitors
+
+Use caution when nebivolol tablets are co-administered with CYP2D6 inhibitors (quinidine, propafenone, fluoxetine, paroxetine, etc.) [see Clinical Pharmacology (12.5)].
+
+## 7.2 Hypotensive Agents
+
+Do not use nebivolol tablets with other β-blockers.
+Closely monitor patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, because the added β-blocking action of nebivolol tablets may produce excessive reduction of sympathetic activity.
+In patients who are receiving nebivolol tablets and clonidine, discontinue nebivolol tablets for several days before the gradual tapering of clonidine.
+
+## 7.3 Digitalis Glycosides
+
+Both digitalis glycosides and β-blockers slow atrioventricular conduction and decrease heart rate.
+Concomitant use can increase the risk of bradycardia.
+
+## 7.4 Calcium Channel Blockers
+
+Nebivolol tablets can exacerbate the effects of myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide.

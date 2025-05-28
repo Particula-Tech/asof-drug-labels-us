@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA212661"
+  ],
+  "inn": "nebivolol",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-457-07",
+    "33342-457-10",
+    "33342-457-25",
+    "33342-458-07",
+    "33342-458-10",
+    "33342-458-25",
+    "33342-459-07",
+    "33342-459-10",
+    "33342-459-25",
+    "33342-460-07",
+    "33342-460-10",
+    "33342-460-25"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "nebivolol",
+      "name": "Nebivolol"
+    }
+  ],
+  "setid": "b6c5abdd-bc2d-4ed6-8ca2-8a94c406ed0e",
+  "source": "dailymed"
+}
