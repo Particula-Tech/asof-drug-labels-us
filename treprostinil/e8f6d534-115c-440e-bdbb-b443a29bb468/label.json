@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA213005"
+  ],
+  "inn": "treprostinil",
+  "labeler": "Liquidia Technologies, Inc.",
+  "package_ndcs": [
+    "72964-011-01",
+    "72964-012-01",
+    "72964-013-01",
+    "72964-014-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "treprostinil",
+      "name": "Yutrepia"
+    }
+  ],
+  "setid": "e8f6d534-115c-440e-bdbb-b443a29bb468",
+  "source": "dailymed"
+}
