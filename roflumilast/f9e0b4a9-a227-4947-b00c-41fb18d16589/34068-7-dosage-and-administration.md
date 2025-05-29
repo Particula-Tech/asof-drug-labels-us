@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
 Shake can prior to each use.
-Apply a thin layer of ZORYVE foam, 0.3%, once daily to affected areas on skin and/or scalp when they are not wet.
+Apply a thin layer of ZORYVE foam, 0.3%, once daily to affected areas of body and/or scalp when they are not wet.
 Rub in completely.
 
 Wash hands after application.

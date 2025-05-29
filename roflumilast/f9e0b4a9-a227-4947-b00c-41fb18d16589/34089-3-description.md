@@ -3,7 +3,7 @@
 ZORYVE (roflumilast) topical foam, 0.3%, is a white to off-white foam for topical use.
 The active ingredient, roflumilast, is a phosphodiesterase 4 (PDE4) inhibitor.
 
-The chemical name of roflumilast is 3-cyclopropylmethoxy-N-(3,5-dichloropyridin-4-yl)-4-(difluoromethoxy)benzamide with a molecular formula of C17H14Cl2F2N2O3, and the molecular weight of 403.21.
+The chemical name of roflumilast is 3-cyclopropylmethoxy-N-(3,5-dichloropyridin-4-yl)-4-(difluoromethoxy)benzamide with a molecular formula of C17H14Cl2F2N2O3 and the molecular weight of 403.21.
 
 The structural formula of roflumilast is:
 

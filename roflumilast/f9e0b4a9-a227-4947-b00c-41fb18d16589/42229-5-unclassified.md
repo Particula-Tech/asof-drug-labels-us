@@ -1,5 +1,7 @@
-Marketed by: Arcutis Biotherapeutics, Inc. Westlake Village, CA 91361 For more information, call 1-805-418-5006 or visit http://www.zoryve.com.
+Marketed by: Arcutis Biotherapeutics, Inc. Westlake Village, CA 91361
 
-© 2023 Arcutis Biotherapeutics, Inc. All rights reserved.
+For more information on ZORYVE foam, call 1-805-418-5006 or visit http://www.zoryve.com.
 
-v1
+© 2025 Arcutis Biotherapeutics, Inc. All rights reserved.
+
+v2

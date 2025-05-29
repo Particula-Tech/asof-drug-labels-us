@@ -3,16 +3,18 @@
 ## 12.1 Mechanism of Action
 
 Roflumilast and its active metabolite (roflumilast N-oxide) are inhibitors of PDE4.
-Roflumilast and roflumilast N-oxide inhibition of PDE4 (a major cyclic 3',5'-adenosine monophosphate (cyclic AMP) metabolizing enzyme) activity leads to accumulation of intracellular cyclic AMP.
+Roflumilast and roflumilast N-oxide inhibition of PDE4 (a major cyclic 3′,5′-adenosine monophosphate (cyclic AMP) metabolizing enzyme) activity leads to accumulation of intracellular cyclic AMP.
 The specific mechanism(s) by which roflumilast exerts its therapeutic action is not well defined.
 
 ## 12.2 Pharmacodynamics
 
-Pharmacodynamics of ZORYVE foam, 0.3%, in the treatment of seborrheic dermatitis is unknown.
+Pharmacodynamics of ZORYVE foam, 0.3%, in the treatment of seborrheic dermatitis and plaque psoriasis is unknown.
 
 ## 12.3 Pharmacokinetics
 
 Absorption
+
+Seborrheic Dermatitis
 
 The pharmacokinetics of ZORYVE foam, 0.3%, was investigated in 10 adult and 10 pediatric (11 to 16 years of age) subjects with seborrheic dermatitis.
 In this study, a mean dose of approximately 4.1 g of ZORYVE foam, 0.3%, was applied once daily for 15 days to a mean ± SD body surface area (BSA) involvement of 6.5 ± 1.08% and 5.5 ± 1.27% in adult and pediatric subjects, respectively.
@@ -24,6 +26,17 @@ In adults, the mean ± SD maximum concentration (Cmax) was 2.2 ± 1.6 and 13.8 �
 The mean ± SD systemic exposure (AUC0-24) was 36.6 ± 23.7 and 261 ± 190 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
 In pediatric subjects, the extrapolated mean ± SD AUC0-24 (based on pre-dose concentration) was 25.1 ± 30.2 and 253 ± 404 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
 
+Plaque Psoriasis
+
+The pharmacokinetics of ZORYVE foam, 0.3%, was investigated in 19 adults and 7 pediatric subjects 12 to 16 years of age with plaque psoriasis of the scalp and body.
+The entire scalp (BSA of approximately 4.5%) was treated in addition to the mean ± SD BSA involvement on the body of 25.0 ± 7.88% and 10.4 ± 0.54% in adults and pediatric subjects, respectively.
+In this study, the mean daily dose administered in adults was 10.3 g and in pediatric subjects from 12 to 16 years of age was 5.3 g of ZORYVE foam, 0.3%, once daily for 15 days.
+Following application of ZORYVE foam, 0.3%, the plasma concentration versus time profile was flat, with mean peak-to-trough ratios of approximately 1.2 for both roflumilast and roflumilast N-oxide.
+
+In adults, the mean ± SD Cmax was 4.48 ± 2.28 and 29.9 ± 17.5 ng/mL for roflumilast and the N-oxide metabolite, respectively, on Day 15.
+The mean ± SD AUC0-24 was 90 ± 58.7 and 567 ± 436 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively, on Day 15.
+In pediatric subjects, the extrapolated mean ± SD AUC0-24 (based on pre-dose concentration) was 35.5 ± 41.4 and 270 ± 293 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively, on Day 15.
+
 Distribution
 
 Plasma protein binding of roflumilast and its N-oxide metabolite is approximately 99% and 97%, respectively.
@@ -31,7 +44,7 @@ Plasma protein binding of roflumilast and its N-oxide metabolite is approximatel
 Elimination
 
 The plasma clearance after short-term intravenous infusion of roflumilast is on average about 9.6 L/h.
-Following topical administration, the half-lives of roflumilast and the N-oxide metabolite were 3.6 and 4.4 days, respectively.
+Following topical administration, the mean half-lives of both roflumilast and the N-oxide metabolite were in the range of 3.6 to 5 days.
 
 Metabolism
 
@@ -46,7 +59,7 @@ A similar ratio was observed following intravenous administration, whereas follo
 
 Specific Populations
 
-Following topical administration, no clinically significant differences in the pharmacokinetics of roflumilast and roflumilast N-oxide were observed based on age (9 to 87 years), sex, race, or ethnicity.
+Following topical administration, no clinically significant differences in the pharmacokinetics of roflumilast and roflumilast N-oxide were observed based on age, sex, race, or ethnicity.
 
 Patients with Hepatic Impairment
 
@@ -63,6 +76,8 @@ Drug Interaction Studies
 
 Clinical Studies
 
+No formal drug-drug interaction studies were conducted with roflumilast topical foam, 0.3%.
+
 Since a major step in roflumilast metabolism is the N-oxidation of roflumilast to roflumilast N-oxide by CYP3A4 and CYP1A2, drug interaction studies were performed with oral roflumilast and systemic inhibitors of CYP3A4 and CYP1A2 [see Drug Interactions (7)].
 
 Erythromycin: In an open-label crossover study in 16 healthy volunteers, the co-administration of CYP3A4 inhibitor erythromycin (500 mg 3 times daily for 13 days) with a single oral dose of 500 mcg roflumilast resulted in 40% and 70% increase in Cmax and AUC for roflumilast, respectively, and a 34% decrease and a 4% increase in Cmax and AUC for roflumilast N-oxide, respectively.
@@ -75,6 +90,9 @@ Enoxacin: In an open-label crossover study in 16 healthy volunteers, the co-admi
 Roflumilast N-oxide Cmax was decreased by 14% while roflumilast N-oxide AUC was increased by 23%.
 
 Cimetidine: In an open-label crossover study in 16 healthy volunteers, the co-administration of a dual CYP 3A4/1A2 inhibitor cimetidine (400 mg twice daily for 7 days) with a single oral dose of 500 mcg roflumilast resulted in a 46% and 85% increase in roflumilast Cmax and AUC; and a 4% decrease in Cmax and 27% increase in AUC for roflumilast N-oxide, respectively.
+
+Oral Contraceptives Containing Gestodene and Ethinyl Estradiol: In an open-label crossover study in 20 healthy adult volunteers, co-administration of a single oral dose of roflumilast with repeated doses of a fixed combination oral contraceptive containing 0.075 mg gestodene and 0.03 mg ethinyl estradiol to steady state caused a 38% increase and 12% decrease in Cmax of roflumilast and roflumilast N-oxide, respectively.
+Roflumilast and roflumilast N-oxide AUCs were increased by 51% and 14%, respectively.
 
 In Vitro Studies
 
