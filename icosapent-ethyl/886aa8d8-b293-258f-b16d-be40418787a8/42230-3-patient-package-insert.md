@@ -2,7 +2,7 @@
 
 Icosapent Ethyl Capsules (eye koe’ sa pent eth’ il)
 
-Patient Information Leaflet available at www1.apotex.com/products/us
+Patient Information Leaflet available at www.apotex.com/products/us/mg.asp
 
 What are icosapent ethyl capsules?
 
@@ -107,12 +107,11 @@ This patient information has been approved by the U.S. Food and Drug Administrat
 
 APOTEX INC. ICOSAPENT ETHYL CAPSULES 1 gram
 
-Manufactured in Canada for:
+| Manufactured in Canada for: |
+| --- |
+| Apotex Corp. |
+| Weston, FL 33326 USA |
 
-Apotex Corp.
+Revised: May 2025
 
-Weston, FL 33326 USA
-
-Revised: February 2022
-
-Rev.: 6
+Rev: 7
