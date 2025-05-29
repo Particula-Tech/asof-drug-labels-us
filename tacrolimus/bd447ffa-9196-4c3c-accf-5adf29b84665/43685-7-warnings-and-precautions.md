@@ -49,12 +49,6 @@ In patients with elevated serum creatinine and tacrolimus whole blood trough con
 The risk for nephrotoxicity may increase when tacrolimus is concomitantly administered with CYP3A inhibitors (by increasing tacrolimus whole blood concentrations) or drugs associated with nephrotoxicity (e.g., aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors, protease inhibitors).
 When tacrolimus is used concurrently with other known nephrotoxic drugs, monitor renal function and tacrolimus blood concentrations, and adjust doses of both tacrolimus and/or concomitant medications during concurrent use [see Drug Interactions (7.2)].
 
-Tacrolimus, like other calcineurin inhibitors, can cause acute or chronic nephrotoxicity.
-Nephrotoxicity was reported in clinical trials [see Adverse Reactions (6.1)].
-Consider dosage reduction in patients with elevated serum creatinine and tacrolimus whole blood trough concentrations greater than the recommended range.
-The risk for nephrotoxicity may increase when tacrolimus is concomitantly administered with CYP3A inhibitors (by increasing tacrolimus whole blood concentrations) or drugs associated with nephrotoxicity (e.g., aminoglycosides, ganciclovir, amphotericin B, cisplatin, nucleotide reverse transcriptase inhibitors, protease inhibitors) [see Drug Interactions (7.2)].
-Monitor renal function and consider dosage reduction if nephrotoxicity occurs.
-
 ## 5.6 Neurotoxicity
 
 Tacrolimus may cause a spectrum of neurotoxicities.
