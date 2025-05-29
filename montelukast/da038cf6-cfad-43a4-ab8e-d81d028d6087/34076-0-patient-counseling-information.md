@@ -12,9 +12,9 @@ They should have appropriate short-acting inhaled β-agonist medication availabl
 Patients who have exacerbations of asthma after exercise should be instructed to have available for rescue a short-acting inhaled β-agonist.
 Daily administration of montelukast sodium for the chronic treatment of asthma has not been established to prevent acute episodes of EIB [see Warnings and Precautions (5.2)]. • Advise patients to seek medical attention if short-acting inhaled bronchodilators are needed more often than usual, or if more than the maximum number of inhalations of short-acting bronchodilator treatment prescribed for a 24-hour period are needed. • Instruct patients to continue other anti-asthma medications as prescribed unless instructed by a physician. • Instruct patients with known aspirin sensitivity to continue avoidance of aspirin or non-steroidal anti-inflammatory agents while taking montelukast sodium [see Warnings and Precautions (5.4)]. • Inform phenylketonuric patients that the 4-mg and 5-mg chewable tablets contain phenylalanine (a source of aspartame) [see Warnings and Precautions (5.6)].
 
-Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
+Manufactured by:
 
-Manufactured by: Torrent Pharmaceuticals LTD., India.
+Torrent Pharmaceuticals LTD., India.
 Manufactured for: Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8097170 Revised: October 2024
+8101032 Revised: May 2025
