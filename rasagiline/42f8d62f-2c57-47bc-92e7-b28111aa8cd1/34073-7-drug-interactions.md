@@ -26,14 +26,14 @@ Nevertheless, caution should be exercised when concomitantly using recommended d
 
 ## 7.5 Antidepressants
 
-Concomitant use of rasagiline with one of many classes of antidepressants (e.g., SSRIs, SNRIs, triazolopyridine, tricyclic, or tetracyclic antidepressants) is not recommended [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+Concomitant use of rasagiline with one of many classes of antidepressants (e.g., SSRIs, SNRIs, triazolopyridine, tricyclic, or tetracyclic antidepressants) is not recommended [see Warnings and Precautions (5.2)and Clinical Pharmacology (12.3)].
 Concomitant use of rasagiline and MAO inhibitors is contraindicated [see Contraindications (4)].
 
 ## 7.6 Ciprofloxacin or Other CYP1A2 Inhibitors
 
 Rasagiline plasma concentrations may increase up to 2 fold in patients using concomitant ciprofloxacin and other CYP1A2 inhibitors.
 This could result in increased adverse events.
-Patients taking concomitant ciprofloxacin or other CYP1A2 inhibitors should not exceed a dose of rasagiline tablet 0.5 mg once daily [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)].
+Patients taking concomitant ciprofloxacin or other CYP1A2 inhibitors should not exceed a dose of rasagiline tablet 0.5 mg once daily [see Warnings and Precautions (5.4)and Clinical Pharmacology (12.3)].
 
 ## 7.7 Tyramine/Rasagiline Interaction
 

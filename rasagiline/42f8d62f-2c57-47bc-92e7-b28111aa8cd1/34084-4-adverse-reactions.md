@@ -1,6 +1,6 @@
 # 6. ADVERSE REACTIONS
 
-The following adverse reactions are described in more detail in the Warnings and Precautions section of the label:
+The following adverse reactions are described in more detail in the Warnings and Precautionssection of the label:
 
 - Hypertension [see Warnings and Precautions (5.1)]
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
@@ -145,4 +145,4 @@ During all Parkinson’s disease phase 2/3 clinical trials, the long-term safety
 The following adverse reactions have been identified during postapproval use of rasagiline.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Skin and Subcutaneous Tissue Disorders: Melanoma
+Skin and Subcutaneous Tissue Disorders:Melanoma

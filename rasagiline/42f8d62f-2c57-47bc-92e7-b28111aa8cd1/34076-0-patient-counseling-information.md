@@ -13,7 +13,7 @@ If patients eat foods very rich in tyramine and do not feel well soon after eati
 Serotonin Syndrome
 
 Tell patients to inform their physician if they are taking, or planning to take, any prescription or over-the-counter drugs, especially antidepressants and over-the-counter cold medications, since there is a potential for interaction with rasagiline.
-Because patients should not use meperidine or certain other analgesics with rasagiline, they should contact their healthcare provider before taking analgesics [see Contraindications (4) and Warnings and Precautions (5.2)].
+Because patients should not use meperidine or certain other analgesics with rasagiline, they should contact their healthcare provider before taking analgesics [see Contraindications (4)and Warnings and Precautions (5.2)].
 
 Falling Asleep During Activities of Daily Living and Somnolence
 
@@ -26,7 +26,7 @@ Because of possible additive effects, advise patients to exercise caution when p
 
 Ciprofloxacin or Other CYP1A2 Inhibitors
 
-Inform patients that they should contact their healthcare provider of rasagiline if they take ciprofloxacin or a similar drug that could increase blood levels of rasagiline because of the need to adjust the dose of rasagiline [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
+Inform patients that they should contact their healthcare provider of rasagiline if they take ciprofloxacin or a similar drug that could increase blood levels of rasagiline because of the need to adjust the dose of rasagiline [see Dosage and Administration (2.2)and Warnings and Precautions (5.4)].
 
 Hepatic Impairment
 

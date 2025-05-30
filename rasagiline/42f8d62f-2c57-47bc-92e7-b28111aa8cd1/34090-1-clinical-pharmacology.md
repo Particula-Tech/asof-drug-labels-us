@@ -9,7 +9,7 @@ The selectivity for inhibiting MAO-B diminishes in a dose-related manner.
 MAO, a flavin-containing enzyme, is classified into two major molecular species, A and B, and is localized in mitochondrial membranes throughout the body in nerve terminals, brain, liver and intestinal mucosa.
 MAO regulates the metabolic degradation of catecholamines and serotonin in the CNS and peripheral tissues.
 MAO-B is the major form in the human brain.
-In ex vivo animal studies in brain, liver, and intestinal tissues, rasagiline was shown to be a potent, irreversible monoamine oxidase type B (MAO-B) selective inhibitor.
+In ex vivoanimal studies in brain, liver, and intestinal tissues, rasagiline was shown to be a potent, irreversible monoamine oxidase type B (MAO-B) selective inhibitor.
 Rasagiline at the recommended therapeutic dose was also shown to be a potent and irreversible inhibitor of MAO-B in platelets.
 The precise mechanisms of action of rasagiline are unknown.
 One mechanism is believed to be related to its MAO-B inhibitory activity, which causes an increase in extracellular levels of dopamine in the striatum.
@@ -41,7 +41,7 @@ Absorption
 Rasagiline is rapidly absorbed, reaching peak plasma concentration (C max) in approximately 1 hour.
 The absolute bioavailability of rasagiline is about 36%.
 
-Food does not affect the T max of rasagiline, although C max and exposure (AUC) are decreased by approximately 60% and 20%, respectively, when the drug rasagiline is taken with a high fat meal.
+Food does not affect the T maxof rasagiline, although C maxand exposure (AUC) are decreased by approximately 60% and 20%, respectively, when the drug rasagiline is taken with a high fat meal.
 Because AUC is not significantly affected, rasagiline can be administered with or without food.
 
 Distribution
@@ -53,7 +53,7 @@ Metabolism and Elimination
 
 Rasagiline undergoes almost complete biotransformation in the liver prior to excretion.
 The metabolism of rasagiline proceeds through two main pathways: N-dealkylation and/or hydroxylation to yield 1-aminoindan (AI), 3-hydroxy-N-propargyl-1 aminoindan (3-OH-PAI) and 3-hydroxy-1-aminoindan (3-OH-AI).
-In vitro experiments indicate that both routes of rasagiline metabolism are dependent on the cytochrome P450 (CYP) system, with CYP1A2 being the major isoenzyme involved in rasagiline metabolism.
+In vitroexperiments indicate that both routes of rasagiline metabolism are dependent on the cytochrome P450 (CYP) system, with CYP1A2 being the major isoenzyme involved in rasagiline metabolism.
 Glucuronide conjugation of rasagiline and its metabolites, with subsequent urinary excretion, is the major elimination pathway.
 
 After oral administration of 14C-labeled rasagiline, elimination occurred primarily via urine and secondarily via feces (62% of total dose in urine and 7% of total dose in feces over 7 days), with a total calculated recovery of 84% of the dose over a period of 38 days.
@@ -64,7 +64,7 @@ Specific Populations
 Hepatic Impairment
 
 Following repeat dose administration (7 days) of rasagiline (1 mg/day) in subjects with mild hepatic impairment (Child-Pugh score 5 to 6), AUC and Cmax were increased by 2 fold and 1.4 fold, respectively, compared to healthy subjects.
-In subjects with moderate hepatic impairment (Child-Pugh score 7 to 9), AUC and Cmax were increased by 7 fold and 2 fold, respectively, compared to healthy subjects [see Dosage and Administration (2.3) and Warnings and Precautions (5.5)].
+In subjects with moderate hepatic impairment (Child-Pugh score 7 to 9), AUC and Cmax were increased by 7 fold and 2 fold, respectively, compared to healthy subjects [see Dosage and Administration (2.3)and Warnings and Precautions (5.5)].
 
 Renal Impairment
 
@@ -74,7 +74,7 @@ Data are not available for patients with severe renal impairment.
 
 Elderly
 
-Since age has little influence on rasagiline pharmacokinetics, it can be administered at the recommended dose in the elderly (> 65 years).
+Since age has little influence on rasagiline pharmacokinetics, it can be administered at the recommended dose in the elderly (>65 years).
 
 Pediatric
 
@@ -92,17 +92,17 @@ A study in Parkinson’s disease patients, in which the effect of levodopa/carbi
 
 Effect of Other Drugs on the Metabolism of Rasagiline
 
-In vitro metabolism studies showed that CYP1A2 was the major enzyme responsible for the metabolism of rasagiline.
-There is the potential for inhibitors of this enzyme to alter rasagiline clearance when coadministered [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
+In vitrometabolism studies showed that CYP1A2 was the major enzyme responsible for the metabolism of rasagiline.
+There is the potential for inhibitors of this enzyme to alter rasagiline clearance when coadministered [see Dosage and Administration (2.2)and Warnings and Precautions (5.4)].
 
-Ciprofloxacin: When ciprofloxacin, an inhibitor of CYP1A2, was administered to healthy volunteers (n=12) at 500 mg (BID) with rasagiline at 2 mg/day, the AUC of rasagiline increased by 83% and there was no change in the elimination half life [see Dosage and Administration (2.2) and Warnings and Precautions (5.4)].
+Ciprofloxacin:When ciprofloxacin, an inhibitor of CYP1A2, was administered to healthy volunteers (n=12) at 500 mg (BID) with rasagiline at 2 mg/day, the AUC of rasagiline increased by 83% and there was no change in the elimination half life [see Dosage and Administration (2.2)and Warnings and Precautions (5.4)].
 
-Theophylline: Coadministration of rasagiline tablet 1 mg/day and theophylline, a substrate of CYP1A2, up to 500 mg twice daily to healthy subjects (n=24) did not affect the pharmacokinetics of either drug.
+Theophylline:Coadministration of rasagiline tablet 1 mg/day and theophylline, a substrate of CYP1A2, up to 500 mg twice daily to healthy subjects (n=24) did not affect the pharmacokinetics of either drug.
 
-Antidepressants: Severe CNS toxicity (occasionally fatal) associated with hyperpyrexia as part of a serotonin syndrome, has been reported with combined treatment of an antidepressant (e.g., from one of many classes including tricyclic or tetracyclic antidepressants, SSRIs, SNRIs, triazolopyridine antidepressants) and nonselective MAOI or a selective MAO-B inhibitor [see Warnings and Precautions (5.2)].
+Antidepressants:Severe CNS toxicity (occasionally fatal) associated with hyperpyrexia as part of a serotonin syndrome, has been reported with combined treatment of an antidepressant (e.g., from one of many classes including tricyclic or tetracyclic antidepressants, SSRIs, SNRIs, triazolopyridine antidepressants) and nonselective MAOI or a selective MAO-B inhibitor [see Warnings and Precautions (5.2)].
 
 Effect of Rasagiline on Other Drugs
 
-No additional in vivo trials have investigated the effect of rasagiline on other drugs metabolized by the cytochrome P450 enzyme system.
-In vitro studies showed that rasagiline at a concentration of 1 mcg/mL (equivalent to a level that is 160 times the average C max ~ 5.9 to 8.5 ng/mL in Parkinson’s disease patients after 1 mg rasagiline multiple dosing) did not inhibit cytochrome P450 isoenzymes, CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4 and CYP4A.
+No additional in vivotrials have investigated the effect of rasagiline on other drugs metabolized by the cytochrome P450 enzyme system.
+In vitrostudies showed that rasagiline at a concentration of 1 mcg/mL (equivalent to a level that is 160 times the average C max~ 5.9 to 8.5 ng/mL in Parkinson’s disease patients after 1 mg rasagiline multiple dosing) did not inhibit cytochrome P450 isoenzymes, CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4 and CYP4A.
 These results indicate that rasagiline is unlikely to cause any clinically significant interference with substrates of these enzymes.

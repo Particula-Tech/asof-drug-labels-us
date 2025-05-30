@@ -20,7 +20,7 @@ Selectivity for inhibiting MAO-B diminishes in a dose-related manner as the dose
 
 Serotonin syndrome has been reported with concomitant use of an antidepressant (e.g., selective serotonin reuptake inhibitors-SSRIs, serotonin-norepinephrine reuptake inhibitors-SNRIs, tricyclic antidepressants, tetracyclic antidepressants, triazolopyridine antidepressants) and a nonselective MAOI (e.g., phenelzine, tranylcypromine) or selective MAO-B inhibitors, such as selegiline (Eldepryl) and rasagiline (rasagiline).
 Serotonin syndrome has also been reported with concomitant use of rasagiline with meperidine, tramadol, methadone, or propoxyphene.
-Rasagiline is contraindicated for use with meperidine, tramadol, methadone, propoxyphene, and MAO inhibitors (MAOIs), including other selective MAO-B inhibitors [see Contraindications (4) and Drug Interactions (7.1, 7.2, 7.3)].
+Rasagiline is contraindicated for use with meperidine, tramadol, methadone, propoxyphene, and MAO inhibitors (MAOIs), including other selective MAO-B inhibitors [see Contraindications (4)and Drug Interactions (7.1, 7.2, 7.3)].
 
 In the postmarketing period, potentially life-threatening serotonin syndrome has been reported in patients treated with antidepressants concomitantly with rasagiline.
 Concomitant use of rasagiline with one of many classes of antidepressants (e.g., SSRIs, SNRIs, triazolopyridine, tricyclic or tetracyclic antidepressants) is not recommended [see Drug Interactions (7.5)].

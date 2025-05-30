@@ -25,9 +25,9 @@ The no-effect dose (0.1 mg/kg) for adverse developmental effects is similar to t
 The effect of rasagiline on physical and behavioral development was not adequately assessed in this study.
 
 Rasagiline may be given as an adjunct therapy to levodopa/carbidopa treatment.
-In pregnant rats administered rasagiline (0, 0.1, 0.3, 1 mg/kg/day) and levodopa/carbidopa (80/20 mg/kg/day) (alone and in combination) orally throughout the period of organogenesis, there was an increased incidence of fetal skeletal variations in fetuses from rats treated with rasagiline in combination with levodopa/carbidopa at 1/80/20 mg/kg/day (approximately 8 times the rasagiline plasma AUC in humans at the MRHD and similar to the MRHD of levodopa/carbidopa [800/200 mg/day] on a mg/m 2 basis).
+In pregnant rats administered rasagiline (0, 0.1, 0.3, 1 mg/kg/day) and levodopa/carbidopa (80/20 mg/kg/day) (alone and in combination) orally throughout the period of organogenesis, there was an increased incidence of fetal skeletal variations in fetuses from rats treated with rasagiline in combination with levodopa/carbidopa at 1/80/20 mg/kg/day (approximately 8 times the rasagiline plasma AUC in humans at the MRHD and similar to the MRHD of levodopa/carbidopa [800/200 mg/day] on a mg/m 2basis).
 In pregnant rabbits dosed orally throughout the period of organogenesis with rasagiline alone (3 mg/kg) or in combination with levodopa/carbidopa (rasagiline: 0.1, 0.6, 1.2 mg/kg, levodopa/carbidopa: 80/20 mg/kg/day), an increase in embryofetal death was noted at rasagiline doses of 0.6 and 1.2 mg/kg/day when administered in combination with levodopa/carbidopa (approximately 7 and 13 times, respectively, the rasagiline plasma AUC in humans at the MRHD).
-There was an increase in cardiovascular abnormalities with levodopa/carbidopa alone (similar to the MRHD on a mg/m 2 basis) and to a greater extent when rasagiline (at all doses; 1 to 13 times the rasagiline plasma AUC in humans at the MRHD) was administered in combination with levodopa/carbidopa.
+There was an increase in cardiovascular abnormalities with levodopa/carbidopa alone (similar to the MRHD on a mg/m 2basis) and to a greater extent when rasagiline (at all doses; 1 to 13 times the rasagiline plasma AUC in humans at the MRHD) was administered in combination with levodopa/carbidopa.
 
 ## 8.2 Lactation
 
@@ -52,7 +52,7 @@ There were no significant differences in the safety profile of the geriatric and
 
 Rasagiline plasma concentration may be increased in patients with mild (up to 2 fold, Child-Pugh score 5 to 6), moderate (up to 7 fold, Child-Pugh score 7 to 9), and severe (Child-Pugh score 10 to 15) hepatic impairment.
 Patients with mild hepatic impairment should not exceed a dose of 0.5 mg/day.
-Rasagiline should not be used in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3), Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)].
+Rasagiline should not be used in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3), Warnings and Precautions (5.5)and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 

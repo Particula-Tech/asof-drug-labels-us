@@ -15,9 +15,9 @@ The carcinogenic potential of rasagiline administered in combination with levodo
 
 Mutagenesis
 
-Rasagiline was reproducibly clastogenic in in vitro chromosomal aberration assays in human lymphocytes in the presence of metabolic activation and was mutagenic and clastogenic in the in vitro mouse lymphoma tk assay in the absence and presence of metabolic activation.
-Rasagiline was negative in the in vitro bacterial reverse mutation (Ames) assay and in the in vivo micronucleus assay in mice.
-Rasagiline was also negative in the in vivo micronucleus assay in mice when administered in combination with levodopa/carbidopa.
+Rasagiline was reproducibly clastogenic in in vitrochromosomal aberration assays in human lymphocytes in the presence of metabolic activation and was mutagenic and clastogenic in the in vitromouse lymphoma tk assay in the absence and presence of metabolic activation.
+Rasagiline was negative in the in vitrobacterial reverse mutation (Ames) assay and in the in vivomicronucleus assay in mice.
+Rasagiline was also negative in the in vivomicronucleus assay in mice when administered in combination with levodopa/carbidopa.
 
 Impairment of Fertility
 
