@@ -86,7 +86,7 @@ Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
 REVATIO is a registered trademark of Viatris Specialty LLC, a Viatris Company.
 
-UPJ:IFU:RVTTOSI:R1
+UPJ:IFU:RVTTOSI:R2
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 Revised: December 2024
