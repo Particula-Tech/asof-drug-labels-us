@@ -71,7 +71,7 @@ Comparative Dose and Trough Concentrations Based on Race
 Anaphylactic reactions have occurred with injectables containing castor oil derivatives, such as tacrolimus injection.
 Therefore, monitoring for signs and symptoms of anaphylaxis is recommended [see Warnings and Precautions (5.9)].
 
-## 2.3 Dosage Recommendations for Pediatric Liver Transplant Patients
+## 2.3 Dosage Recommendations for Pediatric Kidney, Liver, or Heart Transplant Patients
 
 ### Oral Formulation (Capsules)
 
@@ -84,7 +84,9 @@ Summary of Initial Tacrolimus Capsule Dosage Recommendations and Whole Blood Tro
 
 | Patient Population | Initial Tacrolimus Capsule Dosing | Whole Blood Trough Concentration Range |
 | --- | --- | --- |
+| Pediatric kidney transplant patients | 0.3 mg/kg/day capsules divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
 | Pediatric liver transplant patientsSee Clinical Studies (14.2), Liver Transplantation. | 0.15-0.2 mg/kg/day capsules divided in two doses, administered every 12 hours | Month 1-12: 5-20 ng/mL |
+| Pediatric heart transplant patients | 0.3 mg/kg/dayDose at 0.1 mg/kg/day if antibody induction treatment is administered.capsules divided in two doses, administered every 12 hours. | Month 1-12: 5-20 ng/mL |
 
 For conversion of pediatric patients from tacrolimus for oral suspension to tacrolimus capsules or from tacrolimus capsules to tacrolimus for oral suspension, the total daily dose should remain the same.
 Following conversion from one formulation to another formulation of tacrolimus, therapeutic drug monitoring is recommended [see Dosage and Administration (2.6)].

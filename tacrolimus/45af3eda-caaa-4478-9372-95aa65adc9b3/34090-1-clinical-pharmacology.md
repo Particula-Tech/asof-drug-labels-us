@@ -48,6 +48,7 @@ In 18 kidney transplant patients, tacrolimus trough concentrations from 3 to 30 
 In 24 liver transplant patients over a concentration range of 10 to 60 ng/mL, the correlation coefficient was 0.94.
 In 25 heart transplant patients over a concentration range of 2 to 24 ng/mL, the correlation coefficient was 0.89 after an oral dose of 0.075 or 0.15 mg/kg/day at steady-state.
 
+In a healthy volunteer adult study, the systemic exposure to tacrolimus (AUC) for tacrolimus for oral suspension was approximately 16% higher than that for tacrolimus capsules when administered as single doses.
 If pediatric patients are converted between formulations, therapeutic drug monitoring must be performed and dose adjustments made to ensure that systemic exposure to tacrolimus is maintained.
 
 ### Food Effects
@@ -181,6 +182,3 @@ Frequent monitoring of whole blood concentrations and appropriate dosage adjustm
 - •Posaconazole (see complete prescribing information for Noxafil®): Repeat oral administration of posaconazole (400 mg twice daily for 7 days) increased tacrolimus (0.05 mg/kg single dose) Cmax and AUC in healthy subjects by an average of 2-fold (90% CI: 2.01, 2.42) and 4.5-fold (90% CI 4.03, 5.19), respectively [see Drug Interactions (7.2)].
 - •Caspofungin (see complete prescribing information for CANCIDAS®): Caspofungin reduced the blood AUC0-12 of tacrolimus by approximately 20%, peak blood concentration (Cmax) by 16%, and 12-hour blood concentration (C12hr) by 26% in healthy adult subjects when tacrolimus (2 doses of 0.1 mg/kg 12 hours apart) was administered on the 10th day of CANCIDAS 70 mg daily, as compared to results from a control period in which tacrolimus was administered alone [see Drug Interactions (7.2)].
   The mechanism of interaction has not been confirmed.
-
-Additional pediatric use information is approved for Astellas Pharma US, Inc.’s Prograf (tacrolimus) products.
-However, due to Astellas Pharma US, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
