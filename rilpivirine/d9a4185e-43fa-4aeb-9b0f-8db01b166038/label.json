@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA208452"
+  ],
+  "inn": "rilpivirine",
+  "labeler": "Mylan Pharmaceuticals Inc.",
+  "package_ndcs": [
+    "0378-5440-77",
+    "0378-5440-93"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "emtricitabine, rilpivirine, tenofovir disoproxil fumarate",
+      "name": "Emtricitabine, Rilpivirine, Tenofovir Disoproxil Fumarate"
+    }
+  ],
+  "setid": "d9a4185e-43fa-4aeb-9b0f-8db01b166038",
+  "source": "dailymed"
+}
