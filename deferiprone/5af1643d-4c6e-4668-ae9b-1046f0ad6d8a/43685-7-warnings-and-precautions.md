@@ -20,14 +20,14 @@ Agranulocytosis and neutropenia usually resolve upon discontinuation of deferipr
 
 Implement a plan to monitor for and to manage agranulocytosis and neutropenia prior to initiating deferiprone treatment.
 
-For agranulocytosis (ANC < 0.5 × 109/L) and severe neutropenia (0.2 x 10 9/L ≤ ANC < 0.5 x 10 9/L):
+For agranulocytosis (ANC < 0.2 × 10 9 /L) and severe neutropenia (0.2 x 10 9/L ≤ ANC < 0.5 x 10 9/L):
 
 Consider hospitalization and other management as clinically appropriate.
 
 Do not resume deferiprone in patients who have developed agranulocytosis unless potential benefits outweigh potential risks.
 Do not rechallenge patients who have developed neutropenia with deferiprone unless potential benefits outweigh potential risks.
 
-For neutropenia (ANC < 1.5 × 10 9 /L and ≥ 0.5 × 10 9 /L):
+For neutropenia (ANC < 1.5 × 10 9/L and ≥ 0.5 × 10 9/L):
 
 Instruct the patient to immediately discontinue deferiprone and all other medications with a potential to cause neutropenia.
 

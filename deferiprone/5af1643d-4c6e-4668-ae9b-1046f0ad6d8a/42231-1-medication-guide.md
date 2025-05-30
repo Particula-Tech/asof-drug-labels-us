@@ -19,7 +19,7 @@ Dispense with Medication Guide available at: https://www.sunpharma.com/usa/produ
 | What are the ingredients in deferiprone tablets? |  |  |  |
 | Deferiprone Tablets 1,000 mg 3 times each day |  | Deferiprone Tablets 500 mg 3 times each day |  |
 | Active ingredient:deferiprone Inactive ingredients:Tablet core: crospovidone, magnesium stearate and methylcellulose. Coating: copovidone, hypromellose, medium chain triglycerides, polydextrose, polyethylene glycol and titanium dioxide. |  | Active ingredient:deferiprone Inactive ingredients:Tablet core: crospovidone, magnesium stearate and methylcellulose. |  |
-| Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761 Dist. by: Sun Pharmaceutical Industries, Inc., Cranbury, NJ 08512 For more information, call 1-866-923-4914 or visit https://www.sunpharma.com/usa/products |  |  |  |
+| Mfd. by: Taro Pharmaceutical Industries Ltd., Haifa Bay, Israel 2624761 Dist. by: Sun Pharmaceutical Industries, Inc.,Cranbury, NJ 08512 For more information, call 1-866-923-4914 or visit https://www.sunpharma.com/usa/products |  |  |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  |
 
 Pediatric use information is approved for Chiesi USA, Inc.'s FERRIPROX® (deferiprone) tablets.
