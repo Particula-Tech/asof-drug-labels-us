@@ -86,11 +86,11 @@ Manufactured by: MannKind Corporation Danbury, CT 06810
 
 US License No. #2190
 
-© 2016 – 2023 MannKind Corporation
+© 2016 – 2024 MannKind Corporation
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 02/2023
+Revised: 11/2024
 
 AFREZZA is a registered trademark of MannKind Corporation
 
