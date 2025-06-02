@@ -16,4 +16,4 @@
 - •Coadministration of voriconazole with tolvaptan is contraindicated because voriconazole may increase tolvaptan plasma concentrations and increase risk of adverse reactions [see Drug Interactions (7)].
 - •Coadministration of voriconazole with venetoclax at initiation and during the ramp-up phase is contraindicated in patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL) due to the potential for increased risk of tumor lysis syndrome [see Drug Interactions (7)].
 - •Coadministration of voriconazole with lurasidone is contraindicated since it may result in significant increases in lurasidone exposure and the potential for serious adverse reactions [see Drug Interactions (7)].
-- •Coadministration of VFEND with finerenone is contraindicated since it may result in significant increases in finerenone exposure and the potential for serious adverse reactions [see Drug Interactions (7)].
+- •Coadministration of voriconazole with finerenone is contraindicated since it may result in significant increases in finerenone exposure and the potential for serious adverse reactions [see Drug Interactions (7)].
