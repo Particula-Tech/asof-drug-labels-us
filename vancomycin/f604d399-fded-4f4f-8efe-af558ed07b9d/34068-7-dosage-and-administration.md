@@ -62,10 +62,10 @@ When only serum creatinine is known, the following formula (based on sex, weight
 Calculated creatinine clearances (mL/min) are only estimates.
 The creatinine clearance should be measured promptly.
 
-| Men: | [Weight (kg) x (140 - age in years)] |  |
-| --- | --- | --- |
-|  | 72 x serum creatinine concentration (mg/dL) |  |
-| Women: | 0.85 x above value |  |
+| Men: | [Weight (kg) x (140 - age in years)] |
+| --- | --- |
+|  | 72 x serum creatinine concentration (mg/dL) |
+| Women: | 0.85 x above value |
 
 The serum creatinine must represent a steady state of renal function.
 Otherwise, the estimated value for creatinine clearance is not valid.
