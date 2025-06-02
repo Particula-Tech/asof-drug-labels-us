@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "BLA761350"
+  ],
+  "inn": "aflibercept",
+  "labeler": "Biogen Inc.",
+  "package_ndcs": [
+    "64406-028-01",
+    "64406-028-02",
+    "64406-028-03",
+    "64406-028-04",
+    "64406-028-05",
+    "64406-028-06"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "aflibercept-yszy",
+      "name": "Opuviz"
+    }
+  ],
+  "setid": "26c42db1-00d0-467a-8327-38eab14807ea",
+  "source": "dailymed"
+}
