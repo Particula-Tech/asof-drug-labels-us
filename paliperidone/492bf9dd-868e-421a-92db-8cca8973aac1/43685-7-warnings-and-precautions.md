@@ -177,7 +177,7 @@ Weight Gain
 Weight gain has been observed with atypical antipsychotic use.
 Clinical monitoring of weight is recommended.
 
-Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of ≥ 7% of body weight from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of anotherPP1M in subjects with schizophrenia are presented in Table 8.
+Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of ≥ 7% of body weight from the four placebo-controlled (one 9-week and three 13-week), fixed-dose studies of another PP1M in subjects with schizophrenia are presented in Table 8.
 
 Table 8: Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain in Body Weight from Four Placebo-Controlled, 9- to 13-Week, Fixed-Dose Studies in Subjects with Schizophrenia
 
@@ -187,7 +187,7 @@ Table 8: Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥
 | Weight (kg) Change from baseline | -0.4 | 0.4 | 0.8 | 1.4 | 0.4 | 0.7 | 1.4 |
 | Weight Gain ≥ 7% increase from baseline | 3.3 % | 6.0% | 8.9% | 9.0% | 5.8% | 8.3% | 13.1 % |
 
-In a long-term open-label pharmacokinetic and safety study in which the highest maintenance dose available (234 mg) was evaluated, another PP1Mwas associated with a mean change in weight of +2.4 kg at Week 29 (n=134) and +4.3 kg at Week 53 (n=113).
+In a long-term open-label pharmacokinetic and safety study in which the highest maintenance dose available (234 mg) was evaluated, another PP1M was associated with a mean change in weight of +2.4 kg at Week 29 (n=134) and +4.3 kg at Week 53 (n=113).
 
 During the initial 25-week open-label period of a long-term study in subjects with schizoaffective disorder, another PP1M was associated with a mean change in weight of +2.2 kg and 18.4% of subjects had an increase in body weight of ≥ 7% (n=653).
 At the endpoint of the subsequent 15-month double-blind period of the study, the PP1M was associated with a mean change in weight of -0.2 kg and 13.0% of subjects had an increase in body weight of ≥ 7% (n=161); the placebo group had a mean change in weight of -0.8 kg and 6.0% of subjects had an increase in body weight of ≥ 7% (n=168).
@@ -231,7 +231,7 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 An increase in the incidence of pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 Prolactin data from two long-term, double-blind, placebo-controlled studies with another PP1M are presented below; one study was in a population of patients with schizophrenia; the second study was in patients with schizoaffective disorder.
 
@@ -265,7 +265,7 @@ Patients should be cautioned about performing activities requiring mental alertn
 
 ## 5.12 Seizures
 
-In the four fixed-dose double-blind placebo-controlled studies in subjects with schizophrenia, <1% (1 out of1,293) of subjects treated with another once-a-month paliperidone palmitate extended-release injectable suspension (PP1M) in the recommended dose range of 39 mg to 234 mg experienced a convulsion compared with <1% (1 out of 510) of placebo-treated subjects who experienced a grand mal convulsion.
+In the four fixed-dose double-blind placebo-controlled studies in subjects with schizophrenia, <1% (1 out of 1,293) of subjects treated with another once-a-month paliperidone palmitate extended-release injectable suspension (PP1M) in the recommended dose range of 39 mg to 234 mg experienced a convulsion compared with <1% (1 out of 510) of placebo-treated subjects who experienced a grand mal convulsion.
 
 Like other antipsychotic drugs, ERZOFRI should be used cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
 Conditions that lower the seizure threshold may be more prevalent in patients 65 years or older.

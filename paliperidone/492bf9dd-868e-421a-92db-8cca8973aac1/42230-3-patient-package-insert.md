@@ -29,7 +29,7 @@
 | Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. You can ask your pharmacist or healthcare provider for information about ERZOFRI that is written for health professionals. |  |  |  |  |  |  |
 | What are the ingredients in ERZOFRI? |  |  |  |  |  |  |
 | Active ingredient: paliperidone palmitate |  |  |  |  |  |  |
-| Inactive ingredients: citric acid monohydrate, dibasic sodium phosphate anhydrous, monobasic sodium phosphate monohydrate, polyethylene glycol 4000, polysorbate 20, and sodium hydroxide |  |  |  |  |  |  |
+| Inactive ingredients: citric acid monohydrate, dibasic sodium phosphate anhydrous, monobasic sodium phosphate monohydrate, polyethylene glycol 4000, polysorbate 20, sodium hydroxide, and water for injection. |  |  |  |  |  |  |
 | Manufactured by: Shandong Luye Pharmaceutical Co., Ltd., No.15 Chuangye Road, Yantai, Shandong Province, China 264003 |  |  |  |  |  |  |
 | Manufactured for: Luye Innomind Pharma Shijiazhuang Co., Ltd., Shijiazhuang, Hebei Province, China 050000 For more information call 1-800-548-9765. |  |  |  |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  |  |  | Revised: 11/2024 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  |  |  | Revised: 3/2025 |

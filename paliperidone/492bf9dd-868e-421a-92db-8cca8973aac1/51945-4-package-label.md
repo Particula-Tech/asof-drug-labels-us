@@ -84,5 +84,6 @@ Erzofri® (paliperidone palmitate) extended-release injectable suspension
 For Single Use Only.
 Use entire contents of syringe.
 
-FOR INITIATION INTRAMUSCULAR INJECTION ONLY Shake before using.
+FOR INTRAMUSCULAR INJECTION ONLY.
+Shake before using.
 Each injection must be administered by a healthcare professional.
