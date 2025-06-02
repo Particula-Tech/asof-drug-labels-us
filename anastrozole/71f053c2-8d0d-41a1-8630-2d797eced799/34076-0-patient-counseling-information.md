@@ -43,3 +43,5 @@ Advise females to contact their healthcare provider if they become pregnant, or 
 Lactation
 
 Advise women not to breastfeed during anastrozole treatment and for at least 2 weeks after the last dose [see Use in Specific Population (8.2)].
+
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad – 500032 India

@@ -34,9 +34,9 @@ Table 7 - Demographic and Baseline Characteristics for ATAC Trial
 | Axillary surgery | 95.5 | 95.7 | 95.2 |
 | Radiotherapy | 63.3 | 62.5 | 61.9 |
 | Chemotherapy | 22.3 | 20.8 | 20.8 |
-| Neoadjuvant Tamoxifen | 1.6 | 1.6 | 1.7 |
+| NeoadjuvantTamoxifen | 1.6 | 1.6 | 1.7 |
 | Primary Tumor Size (%) |  |  |  |
-| T1 (≤2 cm) | 63.9 | 62.9 | 64.1 |
+| T1(≤2 cm) | 63.9 | 62.9 | 64.1 |
 | T2 (>2 cm and ≤5 cm) | 32.6 | 34.2 | 32.9 |
 | T3 (>5 cm) | 2.7 | 2.2 | 2.3 |
 | Nodal Status (%) |  |  |  |
@@ -55,9 +55,9 @@ Patients in the two monotherapy arms of the ATAC trial were treated for a median
 Disease-free survival in the intent-to-treat population was statistically significantly improved [Hazard Ratio (HR) = 0.87, 95% CI: 0.78, 0.97, p=0.0127] in the anastrozole arm compared to the tamoxifen arm.
 In the hormone receptor-positive subpopulation representing about 84% of the trial patients, disease-free survival was also statistically significantly improved (HR = 0.83, 95% CI: 0.73, 0.94, p=0.0049) in the anastrozole arm compared to the tamoxifen arm.
 
-Figure 1 — Disease-Free Survival Kaplan Meier Survival Curve for all Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial (Intent-to-Treat)
+Figure 1 - Disease-Free Survival Kaplan Meier Survival Curve for all Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial (Intent-to-Treat)
 
-Figure 2 — Disease-Free Survival for Hormone Receptor-Positive Subpopulation of Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial
+Figure 2 - Disease-Free Survival for Hormone Receptor-Positive Subpopulation of Patients Randomized to Anastrozole or Tamoxifen Monotherapy in the ATAC Trial
 
 The survival data with 68 months follow-up is presented in Table 9.
 
@@ -67,23 +67,22 @@ The frequency of individual events in the intent-to-treat population and the hor
 
 Table 8 - All Recurrence and Death Events*
 
-| (N† =3125) | (N† =3116) | (N† =2618) | (N† =2598) |  |
-| --- | --- | --- | --- | --- |
-|  | Intent-To-Treat Population‡ |  | Hormone Receptor-Positive Subpopulation‡ |  |
-| Anastrozole 1 mg | Tamoxifen 20 mg | Anastrozole 1 mg | Tamoxifen 20 mg |  |
-| Median Duration of Therapy (mo) | 60 | 60 | 60 | 60 |
-| Median Efficacy Follow-up (mo) | 68 | 68 | 68 | 68 |
-| Loco-regional recurrence | 119 (3.8) | 149 (4.8) | 76 (2.9) | 101 (3.9) |
-| Contralateral breast | 35 (1.1) | 59 (1.9) | 26 (1.0) | 54 (2.1) |
-| cancer |  |  |  |  |
-| Invasive | 27 (0.9) | 52 (1.7) | 21 (0.8) | 48 (1.8) |
-| Ductal carcinoma in situ | 8 (0.3) | 6 (0.2) | 5 (0.2) | 5 (0.2) |
-| Unknown | 0 | 1 (<0.1) | 0 | 1 (<0.1) |
-| Distant recurrence | 324 (10.4) | 375 (12.0) | 226 (8.6) | 265 (10.2) |
-| Death from Any Cause | 411 (13.2) | 420 (13.5) | 296 (11.3) | 301 (11.6) |
-| Death breast cancer | 218 (7.0) | 248 (8.0) | 138 (5.3) | 160 (6.2) |
-| Death other reason (including unknown) | 193 (6.2) | 172 (5.5) | 158 (6.0) | 141 (5.4) |
-| * The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up. † N=Number of patients randomized. ‡ Patients may fall into more than one category. |  |  |  |  |
+| (N†=3125) | (N†=3116) | (N†=2618) | (N†=2598) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Intent-To-Treat Population‡ |  | Hormone Receptor-Positive Subpopulation‡ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Anastrozole 1 mg | Tamoxifen 20 mg | Anastrozole 1 mg | Tamoxifen 20 mg |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| MedianDurationof Therapy (mo) | 60 | 60 | 60 | 60 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Median Efficacy Follow-up (mo) | 68 | 68 | 68 | 68 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Loco-regional recurrence | 119 (3.8) | 149 (4.8) | 76 (2.9) | 101 (3.9) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Contralateral breast cancer | 35 (1.1) | 59 (1.9) | 26 (1.0) | 54 (2.1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Invasive | 27 (0.9) | 52 (1.7) | 21 (0.8) | 48 (1.8) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ductal carcinoma in situ | 8 (0.3) | 6 (0.2) | 5 (0.2) | 5 (0.2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Unknown | 0 | 1 (<0.1) | 0 | 1 (<0.1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Distant recurrence | 324 (10.4) | 375 (12.0) | 226 (8.6) | 265 (10.2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Death from Any Cause | 411 (13.2) | 420 (13.5) | 296 (11.3) | 301 (11.6) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Deathbreast cancer | 218 (7.0) | 248 (8.0) | 138 (5.3) | 160 (6.2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Deathother reason (including unknown) | 193 (6.2) | 172 (5.5) | 158 (6.0) | 141 (5.4) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * The combination arm was discontinued due to lack of efficacy benefit at 33 months of follow-up. † N=Number of patients randomized. ‡ Patients may fall into more than one category. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 A summary of the study efficacy results is provided in Table 9.
 
@@ -151,7 +150,7 @@ Table 11 – Demographic and Other Baseline Characteristics
 | Receptor status | Trial 0030 |  | Trial 0027 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Anastrozole 1 mg (N=171) | Tamoxifen 20 mg (N=182) | Anastrozole 1 mg (N=340) | Tamoxifen 20 mg (N=328) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | ER* and/or PgR† | 151 (88.3) | 162 (89.0) | 154 (45.3) | 144 (43.9) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ER* unknown, PgR† unknown | 19 (11.1) | 20 (11.0) | 185 (54.4) | 183 (55.8) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| ER*unknown, PgR† unknown | 19 (11.1) | 20 (11.0) | 185 (54.4) | 183 (55.8) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | * ER=Estrogen receptor † PgR=Progesterone receptor |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 For the primary endpoints, trial 0030 showed that anastrozole had a statistically significant advantage over tamoxifen (p=0.006) for time to tumor progression; objective tumor response rates were similar for anastrozole and tamoxifen.
@@ -173,7 +172,7 @@ Table 12 – Efficacy Results of First-line Treatment
 | Number (%) of subjects | 36 (21.1%) | 31 (17.0%) | 112 (32.9%) | 107 (32.6%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | with CR¶ + PR# |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Odds Ratio (LCL*)♠ | 1.30 (0.83) |  | 1.01 (0.77) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| * LCL=Lower Confidence Limit † Tamoxifen: Anastrozole ‡ CI=Confidence Interval § Two-sided Log Rank ¶ CR=Complete Response # PR=Partial Response ♠ Anastrozole:Tamoxifen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| * LCL=Lower Confidence Limit † Tamoxifen:Anastrozole ‡ CI=Confidence Interval § Two-sided Log Rank ¶ CR=Complete Response # PR=Partial Response ♠Anastrozole:Tamoxifen |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 Figure 5 - Kaplan-Meier probability of time to disease progression for all randomized patients (intent-to-treat) in Trial 0030
 
@@ -215,10 +214,10 @@ Table 13 – Efficacy Results of Second-line Treatment
 | 2 Year Survival Probability (%) | 62.0 | 58.0 | 53.1 |
 | Median Time to Progression (months) | 5.7 | 5.3 | 5.1 |
 | Objective Response (all patients) (%) | 12.5 | 10.0 | 10.2 |
-| Stable Disease for >24 weeks (%) | 35.2 | 29.2 | 32.8 |
+| Stable Disease for>24weeks (%) | 35.2 | 29.2 | 32.8 |
 | Progression (%) | 86.7 | 85.4 | 90.6 |
-| Trial 0005 |  |  |  |
-| (Europe, Australia, S.Africa) | (N=135) | (N=118) | (N=125) |
+| Trial0005 |  |  |  |
+| (Europe, Australia, S. Africa) | (N=135) | (N=118) | (N=125) |
 | Median Follow-up (months)* | 31.0 | 30.9 | 31.5 |
 | Median Time to Death (months) | 24.3 | 24.8 | 19.8 |
 | 2 Year Survival Probability (%) | 50.5 | 50.9 | 39.1 |

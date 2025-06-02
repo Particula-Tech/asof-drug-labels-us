@@ -1,6 +1,6 @@
 # Patient Information
 
-Anastrozole Tablets USP
+Anastrozole Tablets, USP
 
 (an as' troe zole)
 
@@ -18,8 +18,11 @@ What are anastrozole tablets?
 Anastrozole tablets are a prescription medicine used in women after menopause (“the change of life”) for:
 
 - treatment of early breast cancer
-- after surgery
-- in women whose breast cancer is hormone receptor-positive
+
+o after surgery
+
+o in women whose breast cancer is hormone receptor-positive
+
 - the first treatment of breast cancer that has spread to nearby tissue or lymph nodes (locally advanced) or has spread to other parts of the body (metastatic), in women whose breast cancer is hormone receptor-positive or the hormone receptors are not known
 - treatment of advanced breast cancer, if the cancer has grown, or the disease has spread after tamoxifen therapy
 
@@ -44,10 +47,9 @@ Before you take anastrozole tablets, tell your healthcare provider if you:
 - have high cholesterol
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
-  Taking anastrozole tablets during pregnancy or within 3 weeks of becoming pregnant may harm your unborn baby.
-  - Females who are able to become pregnant should have a pregnancy test before starting treatment with anastrozole tablets.
-  - Females who are able to become pregnant should use effective birth control (contraceptive) during treatment with anastrozole tablets and for 3 weeks after your last dose of anastrozole tablets.
-    Tell your healthcare provider right away if you become pregnant or think you may be pregnant.
+  Taking anastrozole tablets during pregnancy or within 3 weeks of becoming pregnant may harm your unborn baby. o Females who are able to become pregnant should have a pregnancy test before starting treatment with anastrozole tablets. o Females who are able to become pregnant should use effective birth control (contraceptive) during treatment with anastrozole tablets and for 3 weeks after your last dose of anastrozole tablets.
+  Tell your healthcare provider right away if you become pregnant or think you may be pregnant.
+
 - are breastfeeding or plan to breastfeed.
   It is not known if anastrozole passes into breast milk.
   Do not breastfeed during treatment with anastrozole tablets and for 2 weeks after your last dose of anastrozole tablets.
@@ -62,11 +64,16 @@ Taking anastrozole tablets with tamoxifen may lower the amount of anastrozole ta
 
 - Medicines that contain estrogen.
   Anastrozole tablets may not work if taken with any of these medicines:
-- hormone replacement therapy
-- birth control pills
-- estrogen creams
-- vaginal rings
-- vaginal suppositories
+
+o hormone replacement therapy
+
+o birth control pills
+
+o estrogen creams
+
+o vaginal rings
+
+o vaginal suppositories
 
 Know the medicines you take.
 Keep a list of them to show your healthcare provider and pharmacist when you get a new medicine.
@@ -98,17 +105,22 @@ Anastrozole tablets may cause serious side effects including:
   Stop taking anastrozole tablets and call your healthcare provider right away if you get any skin lesions, ulcers, or blisters.
 - severe allergic reactions.
   Get medical help right away if you get:
-- swelling of your face, lips, tongue, or throat
-- trouble swallowing or breathing
+
+o swelling of your face, lips, tongue, or throat
+
+o trouble swallowing or breathing
+
 - liver problems.
   Anastrozole tablets can cause inflammation of your liver and changes in liver function blood tests.
   Your healthcare provider may check you for this.
 
 Stop taking anastrozole tablets and call your healthcare provider right away if you have any of these signs or symptoms of a liver problem:
 
-- a general feeling of not being well
-- yellowing of your skin or whites of your eyes
-- pain on the right side of your stomach-area (abdomen)
+o a general feeling of not being well
+
+o yellowing of your skin or whites of your eyes
+
+o pain on the right side of your stomach-area (abdomen)
 
 Common side effects in women taking anastrozole tablets include:
 
@@ -156,7 +168,7 @@ It may harm them.
 
 If you would like more information, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about anastrozole tablets that is written for health professionals.
-For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
+For more information call Aurobindo Pharma USA, Inc. at 1-866-850-2876.
 
 What are the ingredients in anastrozole tablets?
 
@@ -165,6 +177,6 @@ Active ingredient: anastrozole
 Inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, polyethylene glycol, povidone, sodium starch glycolate and titanium dioxide.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
+All brands listed are the trademarks of their respective owners and are not trademarks of Eugia Pharma Specialities Limited.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Medchal-Malkajgiri District- 500 101 India Issued: January 2019
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Eugia Pharma Specialities Limited Hyderabad – 500032 India Revised: May 2025

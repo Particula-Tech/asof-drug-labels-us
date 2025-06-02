@@ -13,7 +13,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adjuvant Therapy
 
-Adverse reaction data for adjuvant therapy are based on the ATAC trial [see Clinical Studies (14.1)].
+Adverse reaction data for adjuvant therapy are based on the ATAC trial [see ClinicalStudies (14.1)].
 The median duration of adjuvant treatment for safety evaluation was 59.8 months and 59.6 months for patients receiving anastrozole 1 mg and tamoxifen 20 mg, respectively.
 
 Adverse reactions occurring with an incidence of at least 5% in either treatment group during treatment or within 14 days of the end of treatment are presented in Table 1.
@@ -88,7 +88,7 @@ Table 1 - Adverse reactions occurring with an incidence of at least 5% in either
 
 Certain adverse reactions and combinations of adverse reactions were prospectively specified for analysis, based on the known pharmacologic properties and side effect profiles of the two drugs (see Table 2).
 
-Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC Trial*
+Table 2 - Number of Patients with Pre-specified Adverse Reactions in ATAC Trial*
 
 |  | Anastrozole N=3092 (%) | Tamoxifen N=3094 (%) | Odds-ratio | 95% CI |
 | --- | --- | --- | --- | --- |
@@ -98,8 +98,8 @@ Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC Tria
 | Mood Disturbances | 597 (19) | 554 (18) | 1.10 | 0.97 to 1.25 |
 | Nausea and Vomiting | 393 (13) | 384 (12) | 1.03 | 0.88 to 1.19 |
 | All Fractures | 315 (10) | 209 (7) | 1.57 | 1.30 to 1.88 |
-| Fractures of Spine, Hip, or Wrist | 133 (4) | 91 (3) | 1.48 | 1.13 to 1.95 |
-| Wrist/Colles’ fractures | 67 (2) | 50 (2) |  |  |
+| Fractures of Spine,Hip, or Wrist | 133 (4) | 91 (3) | 1.48 | 1.13 to 1.95 |
+| Wrist/Colles’fractures | 67 (2) | 50 (2) |  |  |
 | Spine fractures | 43 (1) | 22 (1) |  |  |
 | Hip fractures | 28 (1) | 26 (1) |  |  |
 | Cataracts | 182 (6) | 213 (7) | 0.85 | 0.69 to 1.04 |
@@ -115,7 +115,6 @@ Table 2 — Number of Patients with Pre-specified Adverse Reactions in ATAC Tria
 Ischemic Cardiovascular Events
 
 Between treatment arms in the overall population of 6186 patients, there was no statistical difference in ischemic cardiovascular events (4% anastrozole vs. 3% tamoxifen).
-
 In the overall population, angina pectoris was reported in 71/3092 (2.3%) patients in the anastrozole arm and 51/3094 (1.6%) patients in the tamoxifen arm; myocardial infarction was reported in 37/3092 (1.2%) patients in the anastrozole arm and 34/3094 (1.1%) patients in the tamoxifen arm.
 
 In women with pre-existing ischemic heart disease 465/6186 (7.5%), the incidence of ischemic cardiovascular events was 17% in patients on anastrozole and 10% in patients on tamoxifen.
@@ -337,4 +336,5 @@ The following have been reported in post-approval use of anastrozole:
 - Hepatobiliary events including increases in alkaline phosphatase, alanine aminotransferase, aspartate aminotransferase, gamma-GT, and bilirubin; hepatitis
 - Rash including cases of mucocutaneous disorders such as erythema multiforme and Stevens-Johnson syndrome
 - Cases of allergic reactions including angioedema, urticaria and anaphylaxis [see Contraindications (4)]
-- Myalgia, trigger finger and hypercalcemia (with or without an increase in parathyroid hormone)
+- Myalgia and hypercalcemia (with or without an increase in parathyroid hormone)
+- Tendon disorders including tendon rupture, tendonitis, tenosynovitis, and tenosynovitis stenosans (trigger finger)

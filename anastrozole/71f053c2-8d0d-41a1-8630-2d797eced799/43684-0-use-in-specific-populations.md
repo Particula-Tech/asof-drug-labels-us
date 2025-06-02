@@ -18,7 +18,7 @@ Data
 Animal Data
 
 In animal reproduction studies, pregnant rats and rabbits received anastrozole during organogenesis at doses equal to or greater than 0.1 and 0.02 mg/kg/day, respectively, (about 1 and 1/3 the recommended human dose on a mg/m2 basis, respectively).
-In both species, anastrozole crossed the placenta, and there was increased pregnancy loss (increased preand/ or post-implantation loss, increased resorption, and decreased numbers of live fetuses).
+In both species, anastrozole crossed the placenta, and there was increased pregnancy loss (increased pre-and/ or post-implantation loss, increased resorption, and decreased numbers of live fetuses).
 In rats, these effects were dose related, and placental weights were significantly increased at doses equal to or greater than 0.1 mg/kg/day.
 Fetotoxicity, including delayed fetal development (i.e., incomplete ossification and depressed fetal body weights), occurred in rats at anastrozole doses of 1 mg/kg/day that produced peak plasma levels 19 times higher than serum levels in humans at the therapeutic dose (AUC0-24hr 9 times higher).
 In rabbits, anastrozole caused pregnancy failure at doses equal to or greater than 1.0 mg/kg/day (about 16 times the recommended human dose on a mg/m2 basis).
