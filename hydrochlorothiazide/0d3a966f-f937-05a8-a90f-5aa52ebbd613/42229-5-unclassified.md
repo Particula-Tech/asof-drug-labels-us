@@ -6,5 +6,5 @@ Product of USA
 
 Distributed by: Almatica Pharma LLC Morristown, NJ 07960 USA
 
-PI435-09 Rev.
-07/2021
+PI435-10 Rev.
+03/2025
