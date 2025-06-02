@@ -23,14 +23,19 @@ A 5-micron sterile filter needle (19-gauge × 1½ inch), and a 1 mL Luer lock sy
 
 The recommended dose of SUSVIMO (ranibizumab injection) is 2 mg (0.02 mL of 100 mg/mL solution) continuously delivered via the SUSVIMO ocular implant with refills administered every 24 weeks (approximately 6 months).
 
-## 2.3 Supplemental Treatment with Intravitreal Ranibizumab Injection
+## 2.3 Diabetic Retinopathy (DR)
+
+The recommended dose of SUSVIMO (ranibizumab injection) is 2 mg (0.02 mL of 100 mg/mL solution) continuously delivered via the SUSVIMO ocular implant with refills administered every 36 weeks (approximately 9 months).
+
+## 2.4 Supplemental Treatment with Intravitreal Ranibizumab Injection
 
 Supplemental treatment with 0.5 mg (0.05 mL of 10 mg/mL) intravitreal ranibizumab injection may be administered in the affected eye while the SUSVIMO implant is in place and if clinically necessary [see Clinical Studies (14)].
 
-## 2.4 Ocular Implant Initial Fill
+## 2.5 Ocular Implant Initial Fill
 
 The implant initial fill procedure must be performed by a physician experienced in vitreoretinal surgery [see Dosage and Administration (2.1)].
-The implant will be filled using aseptic technique with 0.02 mL of SUSVIMO (ranibizumab injection) prior to insertion of the implant into the patient's eye [see Dosage and Administration (2.5)].
+The implant will be filled using aseptic technique with 0.02 mL of SUSVIMO (ranibizumab injection) prior to insertion of the implant into the patient's eye [see Dosage and Administration (2.6)].
+
 Refer to the complete SUSVIMO Instructions for Use for the initial fill and implant procedure included in the insertion tool assembly carton for further details.
 
 Use aseptic technique to carry out the following preparation steps prior to insertion of the ocular implant into the patient's eye:
@@ -57,7 +62,7 @@ Use aseptic technique to carry out the following preparation steps prior to inse
 | Step 11: Slide the Insertion Tool Handle into the Carrier Slide the insertion tool handle into the guide channel of the carrier, ensuring that both components are facing upwards (see Figure 14).Push the handle forward as far as it will go into the gripper tips (see Figure 15). |  | Figure 14: Insert the handle into the insertion tool carrier Figure 15: Fully inserted handle |
 | Note: | Do not withdraw the handle and implant until the eye is ready for insertion. Contact between the implant and any surface or object – even within the sterile field – may result in the introduction of a foreign body into the vitreous. |  |
 
-## 2.5 Ocular Implant Insertion
+## 2.6 Ocular Implant Insertion
 
 SUSVIMO ocular implant insertion is a surgical procedure that is performed in an operating room.
 The procedure must be performed under aseptic conditions by a physician experienced in vitreoretinal surgery [see Dosage and Administration (2.1)].
@@ -67,7 +72,7 @@ No more than 30 minutes should pass between the initial fill of the ocular impla
 
 After placing an infusion line in the eye, create at least a 6×6 mm peritomy of the conjunctiva and Tenon's capsule centered around the selected SUSVIMO implant location in the supero-temporal quadrant.
 Perform careful conjunctival incision, hemostasis of the underlying sclera, and generous undermining of Tenon's capsule.
-Using aseptic technique, fill the ocular implant [see Dosage and Administration (2.4)].
+Using aseptic technique, fill the ocular implant [see Dosage and Administration (2.5)].
 Using an MVR blade, create a full thickness dissection of the sclera 4 mm from the limbus until the pars plana is fully visible, with final target scleral incision length of 3.5 mm.
 Using a 532 nm laser endoprobe, apply contiguous, overlapping laser spots starting at 300 mW 1000 ms along the full length of the exposed pars plana and repeat until complete ablation is achieved.
 Pass a 3.2 mm slit knife perpendicularly through the center of the scleral dissection to open the underlying pars plana.
@@ -77,7 +82,7 @@ Clean any residual vitreous around the implant flange using a vitrector.
 Suture both Tenon's capsule and conjunctiva, using scleral anchoring at the apex of the peritomy, ensuring complete coverage of the implant flange.
 Refer to the complete SUSVIMO Instructions for Use for the initial fill and implant procedure included in the insertion tool assembly carton for further details.
 
-## 2.6 Ocular Implant Removal
+## 2.7 Ocular Implant Removal
 
 Removal of the SUSVIMO ocular implant is a surgical procedure that is performed in an operating room.
 The procedure must be performed under aseptic conditions by a physician experienced in vitreoretinal surgery [see Dosage and Administration (2.1)].
@@ -91,7 +96,7 @@ Completely close the scleral incision with multiple non-absorbable sutures.
 Close the Tenon's capsule and conjunctiva to completely cover the scleral incision.
 Refer to the complete Instructions for Use for the implant removal procedure included in the explant tool carton for further details.
 
-## 2.7 Ocular Implant Refill-Exchange Procedure
+## 2.8 Ocular Implant Refill-Exchange Procedure
 
 The SUSVIMO ocular implant refill-exchange procedure must be performed under strict aseptic conditions by a physician experienced in ophthalmic surgery [see Dosage and Administration (2.1)].
 This includes the use of a surgical mask, sterile gloves, and a lid speculum.
@@ -126,11 +131,13 @@ Discontinue treatment with SUSVIMO (ranibizumab injection) following septum disl
 | Step 14: Dispose of the Used Components Do not recap the needle or detach it from the syringe. Dispose of the used syringe together with the refill needle in a sharps disposal container or in accordance with local requirements. |  |  |
 | Step 15: Perform Indirect Ophthalmoscopy Perform dilated indirect ophthalmoscopy (and slit lamp exam as needed) to ensure continued proper position of the implant and its components (e.g., septum) in the vitreous cavity and to examine for complications. |  |  |
 
-## 2.8 Delayed or Missed Doses
+## 2.9 Delayed or Missed Doses
 
-If a planned dose (refill-exchange) of SUSVIMO (ranibizumab injection) is missed, it should be administered as soon as possible and the subsequent refill-exchange procedures should be performed 24 weeks (approximately 6 months) thereafter.
+For patients with AMD or DME, if a planned dose (refill-exchange) of SUSVIMO (ranibizumab injection) is missed, it should be administered as soon as possible and the subsequent refill-exchange procedures should be performed 24 weeks (approximately 6 months) thereafter.
 
-## 2.9 Dosage (Refill-Exchange) Modifications for Adverse Reactions
+For patients with DR, if a planned dose (refill-exchange) of SUSVIMO (ranibizumab injection) is missed, it should be administered as soon as possible and the subsequent refill-exchange procedures should be performed 36 weeks (approximately 9 months) thereafter.
+
+## 2.10 Dosage (Refill-Exchange) Modifications for Adverse Reactions
 
 Table 1 describes dosage modifications for specific adverse Reactions [see Warnings and Precautions (5)].
 No dosage reductions for SUSVIMO are recommended.
@@ -144,4 +151,4 @@ Table 1: Dosage (Refill-Exchange) Modifications for Adverse Reactions
 | Local infections of either eye | Withhold dose (refill-exchange) |
 | Infectious endophthalmitis | Withhold dose (refill-exchange) |
 | Severe systemic infection | Withhold dose (refill-exchange) |
-| Observed damage to the implant | Withhold dose (refill-exchange) and consider SUSVIMO implant removal [see Dosage and Administration (2.7, 2.8)]. |
+| Observed damage to the implant | Withhold dose (refill-exchange) and consider SUSVIMO implant removal [see Dosage and Administration (2.8, 2.9)]. |

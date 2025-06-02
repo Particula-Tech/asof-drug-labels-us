@@ -17,8 +17,11 @@ In the active comparator period of the controlled clinical trial in DME, 0% of p
 When including the extension phase of the clinical trial, 0.7% (4/556) of patients receiving the ranibizumab implant experienced an episode of endophthalmitis.
 Reports occurred between days 625 and 1016, with a median of 824 days.
 
+In the period with an observational comparator arm of the clinical trial in DR, there were no patients (0/105) in the SUSVIMO arm who experienced an episode of endophthalmitis [see Clinical Studies (14.3)].
+When including the extension phase of the clinical trial 0.8% (1/128) patients receiving the ranibizumab implant experienced an episode of endophthalmitis, with the event reported on day 695.
+
 Endophthalmitis should be treated promptly in an effort to reduce the risk of vision loss and maximize recovery.
-The SUSVIMO (ranibizumab injection) dose (refill-exchange) should be delayed until resolution of endophthalmitis [see Dosage and Administration (2.9) and Adverse Reactions (6.1)].
+The SUSVIMO (ranibizumab injection) dose (refill-exchange) should be delayed until resolution of endophthalmitis [see Dosage and Administration (2.10) and Adverse Reactions (6.1)].
 
 Patients should not have an active or suspected ocular or periocular infection or severe systemic infection at the time of any SUSVIMO implant or refill procedure.
 Appropriate intraoperative handling followed by secure closure of the conjunctiva and Tenon's capsule, and early detection and surgical repair of conjunctival erosions or retractions and strict/controlled aseptic technique conditions throughout refill-exchange procedures may reduce the risk of endophthalmitis [see Dosage and Administration (2.1) and Warnings and Precautions (5.5)].
@@ -27,7 +30,7 @@ Appropriate intraoperative handling followed by secure closure of the conjunctiv
 
 Rhegmatogenous retinal detachments have occurred in clinical trials of SUSVIMO and may result in vision loss.
 Rhegmatogenous retinal detachments should be promptly treated with an intervention (e.g., pneumatic retinopexy, vitrectomy, or laser photocoagulation).
-SUSVIMO (ranibizumab injection) dose (refill-exchange) should be delayed in the presence of a retinal detachment or retinal break [see Dosage and Administration (2.9)].
+SUSVIMO (ranibizumab injection) dose (refill-exchange) should be delayed in the presence of a retinal detachment or retinal break [see Dosage and Administration (2.10)].
 
 Careful evaluation of the retinal periphery is recommended to be performed, and any suspected areas of abnormal vitreo-retinal adhesion or retinal breaks should be treated before inserting the implant in the eye.
 
@@ -41,18 +44,20 @@ Strict adherence to the scleral incision length and appropriate targeting of the
 
 In clinical trials, a type of implant damage where the septum has dislodged into the implant body has been reported.
 Perform a dilated slit lamp exam and/or dilated indirect ophthalmoscopy to inspect the implant in the vitreous cavity through the pupil prior to and after the refill-exchange procedure to identify if septum dislodgement has occurred.
-Discontinue treatment with SUSVIMO (ranibizumab injection) following septum dislodgement and consider implant removal should the benefit of the removal procedure outweigh the risk [see Dosage and Administration (2.8)].
+Discontinue treatment with SUSVIMO (ranibizumab injection) following septum dislodgement and consider implant removal should the benefit of the removal procedure outweigh the risk [see Dosage and Administration (2.9)].
 
-Appropriate handling and insertion of the refill needle into the septum (avoid twisting and/or rotation) is required to minimize the risk of septum dislodgement [see Dosage and Administration (2.7)].
+Appropriate handling and insertion of the refill needle into the septum (avoid twisting and/or rotation) is required to minimize the risk of septum dislodgement [see Dosage and Administration (2.8)].
 
 ## 5.5 Vitreous Hemorrhage
 
 Vitreous hemorrhages may result in temporary vision loss.
-Vitrectomy may be needed in the case of a non-clearing vitreous hemorrhage [see Dosage and Administration (2.9)].
+Vitrectomy may be needed in the case of a non-clearing vitreous hemorrhage [see Dosage and Administration (2.10)].
 
 In clinical trials of SUSVIMO including extension phases in patients with AMD, vitreous hemorrhages were reported in 5.2% (23/443) of patients receiving SUSVIMO.
 
-In the clinical trial of SUSVIMO including extension phases in patients with DME, vitreous hemorrhages were reported in 10.1% (56/556) of patients receiving SUSVIMO.
+In the clinical trial of SUSVIMO including the extension phase in patients with DME, vitreous hemorrhages were reported in 10.1% (56/556) of patients receiving SUSVIMO.
+
+In the clinical trial of SUSVIMO including the extension phase in patients with DR, vitreous hemorrhages were reported in 9.4% (12/128) of patients receiving SUSVIMO.
 
 The majority of these hemorrhages occurred within the first post-operative month following surgical implantation and the majority of vitreous hemorrhages resolved spontaneously.
 
@@ -71,7 +76,9 @@ Surgical intervention (e.g., conjunctival/Tenon's capsule repair) is recommended
 
 In clinical trials of SUSVIMO including extension phases in patients with AMD, 3.6% (16/443) of patients receiving SUSVIMO reported conjunctival erosion and 1.6% (7/443) of patients receiving SUSVIMO reported conjunctival retraction in the study eye.
 
-In the clinical trial of SUSVIMO including extension phases of patients with DME, 2.2% (12/556) of patients receiving SUSVIMO reported conjunctival erosion and 1.3% (7/556) of patients receiving SUSVIMO reported conjunctival retraction in the study eye.
+In the clinical trial of SUSVIMO including the extension phase of patients with DME, 2.2% (12/556) of patients receiving SUSVIMO reported conjunctival erosion and 1.3% (7/556) of patients receiving SUSVIMO reported conjunctival retraction in the study eye.
+
+In the clinical trial of SUSVIMO including the extension phase in patients with DR, 2.3% (3/128) of patients receiving SUSVIMO reported conjunctival erosion and 1.6% (2/128) of patients receiving SUSVIMO reported conjunctival retraction in the study eye.
 
 Appropriate intraoperative handling of conjunctiva and Tenon's capsule to preserve tissue integrity and secure closure of peritomy while ensuring placement of sutures away from implant edge may reduce the risk of conjunctival erosion or retraction.
 The implant and the tissue overlying the implant flange should be monitored routinely following the implant insertion.
@@ -83,7 +90,9 @@ Conjunctival blebs may require surgical management to avoid further complication
 
 In clinical trials of SUSVIMO including extension phases in patients with AMD, 5.9% (26/443) of patients receiving SUSVIMO reported conjunctival bleb/conjunctival filtering bleb leak in the study eye.
 
-In the clinical trial of SUSVIMO including extension phases in patients with DME, 9% (50/556) of patients receiving SUSVIMO reported conjunctival bleb/conjunctival filtering bleb leak in the study eye.
+In the clinical trial of SUSVIMO including the extension phase in patients with DME, 9% (50/556) of patients receiving SUSVIMO reported conjunctival bleb/conjunctival filtering bleb leak in the study eye.
+
+In the clinical trial of SUSVIMO including the extension phase in patients with DR, 3.9% (5/128) of patients receiving SUSVIMO reported conjunctival bleb/conjunctival filtering bleb leak in the study eye.
 
 Strict adherence to the scleral incision length, appropriate intraoperative handling of conjunctiva and Tenon's capsule to preserve tissue integrity and secure closure of peritomy, and proper seating of the refill needle during refill-exchange procedures may reduce the risk of conjunctival bleb.
 
@@ -91,7 +100,7 @@ Strict adherence to the scleral incision length, appropriate intraoperative hand
 
 Visual acuity was decreased by 4 letters on average in the first postoperative month and 2 letters on average in the second postoperative month following initial implantation of SUSVIMO in patients with AMD [see Clinical Studies (14.1)].
 
-Visual acuity was decreased by 7 letters on average in the first postoperative month and 3 letters on average in the second postoperative month following initial implantation of SUSVIMO in patients with DME [see Clinical Studies (14.2)].
+Visual acuity was decreased by 7 letters on average in the first postoperative month and 3 to 4 letters on average in the second postoperative month following initial implantation of SUSVIMO in patients with DME and DR [see Clinical Studies (14.2 and 14.3)].
 
 ## 5.9 Air Bubbles Causing Improper Filling of the Implant
 
