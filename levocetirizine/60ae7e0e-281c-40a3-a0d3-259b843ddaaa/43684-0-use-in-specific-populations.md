@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Available data from published literature and post-marketing experience with levocetirizine use in pregnant women are insufficient to identify any drug-associated risks of miscarriage, birth defects, or adverse maternal or fetal outcomes.
+Available data from published literature and postmarketing experience with levocetirizine use in pregnant women are insufficient to identify any drug-associated risks of miscarriage, birth defects, or adverse maternal or fetal outcomes.
 In animal reproduction studies, there was no evidence of fetal harm with administration of levocetirizine by the oral route to pregnant rats and rabbits, during the period of organogenesis, at doses up to 390 times and 470 times, respectively, the maximum recommended human dose (MRHD) in adults.
 In rats treated during late gestation and the lactation period, cetirizine had no effects on pup development at oral doses up to approximately 60 times the MRHD in adults.
 In mice treated during late gestation and the lactation period, cetirizine administered by the oral route to the dams had no effects on pup development at a dose that was approximately 25 times the MRHD in adults; however, lower pup weight gain during lactation was observed at a dose that was 95 times the MRHD in adults (see Data).

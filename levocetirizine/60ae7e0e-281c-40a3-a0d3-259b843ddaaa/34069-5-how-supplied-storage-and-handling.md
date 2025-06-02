@@ -1,9 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Levocetirizine Dihydrochloride Tablets, USP are white, oval, film coated biconvex tablets, one side embossed with 'G' breakline 'G' and the other side plain and contains 5 mg levocetirizine dihydrochloride.
+Levocetirizine Dihydrochloride Tablets, USP are white, oval, film-coated biconvex tablets, one side embossed with 'G' break line 'G' and the other side plain and contains 5 mg levocetirizine dihydrochloride, USP.
 They are supplied in HDPE bottles.
 
-90 Tablets (NDC 68462-346-90)
+Bottles of 90 Tablets with child-resistant closure, NDC 68462-346-90
 
 Storage
 
