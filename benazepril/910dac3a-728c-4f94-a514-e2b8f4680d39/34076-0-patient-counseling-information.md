@@ -35,6 +35,6 @@ Manufactured by: Emcure Pharmaceuticals Ltd., Kadu, Surendranagar - 382775, Indi
 
 Manufactured for: Avet Pharmaceuticals Inc. East Brunswick, NJ 08816 1.866.901.DRUG (3784)
 
-510490439US01
+510490439US02
 
-Revised: 08/2023
+Revised: 04/2025
