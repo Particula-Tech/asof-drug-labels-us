@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA209463"
+  ],
+  "inn": "pantoprazole",
+  "labeler": "Civica, Inc.",
+  "package_ndcs": [
+    "72572-553-01",
+    "72572-553-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "pantoprazole sodium",
+      "name": "Pantoprazole Sodium"
+    }
+  ],
+  "setid": "c857dc41-7b47-4f26-a9f5-d76eb82b44ee",
+  "source": "dailymed"
+}
