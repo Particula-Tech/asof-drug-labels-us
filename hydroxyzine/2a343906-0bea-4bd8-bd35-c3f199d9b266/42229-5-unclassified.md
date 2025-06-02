@@ -10,4 +10,4 @@ PROTECT FROM LIGHT
 
 Dispense in tight, light-resistant container as defined in the USP, with child-resistant closure.
 
-Manufactured for: PAI Pharma Greenville, SC 29605 Rev 08/24
+Distributed by: PAI Pharma Greenville, SC 29605 www.paipharma.com Rev 11/24
