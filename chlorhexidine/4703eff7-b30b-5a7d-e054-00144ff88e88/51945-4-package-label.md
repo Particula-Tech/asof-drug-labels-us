@@ -1,22 +1,3 @@
-NDC 48878-0620-4
-
-Peridex
-
-(CHLORHEXIDINE GLUCONATE 0.12%)
-
-ORAL RINSE
-
-DIRECTIONS FOR USE: Swish in mouth undiluted for 30 seconds, then spit out.
-Use after breakfast and before bedtime, or use as prescribed.
-NOTE: To minimize medicinal taste, do not rinse with water immediately after use.
-
-To open, press down while turning cap.
-To reseal, turn cap past "clicks" until tightly locked.
-
-Rx Only
-
-KEEP OUT OF REACH OF CHILDREN
-
 NDC 48878-0620-3
 
 Peridex
@@ -45,7 +26,7 @@ To reseal, turn cap past "clicks" until tightly locked.
 
 REF 12134
 
-PERIDEX04BLDLA
+PERIDEX04EZCD
 
 NDC 48878-0620-1
 
@@ -76,7 +57,7 @@ No.
 
 1 Pint (473 ml)
 
-PERIDEX16LBLDLB
+PERIDEX16EZCDA
 
 NDC 48878-0620-2
 
@@ -110,4 +91,4 @@ No.
 
 3M ESPE
 
-64PERIBTLLBLDLA
+64PERIEZCDLBL

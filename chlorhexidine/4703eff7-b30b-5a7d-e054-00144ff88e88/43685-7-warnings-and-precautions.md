@@ -30,7 +30,7 @@ SEE CONTRAINDICATIONS.
 
 ### Teratogenic Effects
 
-#### Pregnancy
+#### Pregnancy Category B
 
 Reproduction studies have been performed in rats and rabbits at chlorhexidine gluconate doses up to 300mg/kg/day and 40mg/kg/day, respectively, and have not revealed evidence of harm to fetus.
 However, adequate and well-controlled studies in pregnant women have not been done.
