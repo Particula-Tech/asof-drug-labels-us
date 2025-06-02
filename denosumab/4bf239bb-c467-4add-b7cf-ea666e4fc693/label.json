@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761362"
+  ],
+  "inn": "denosumab",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "61314-240-63"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "denosumab",
+      "name": "JUBBONTI"
+    }
+  ],
+  "setid": "4bf239bb-c467-4add-b7cf-ea666e4fc693",
+  "source": "dailymed"
+}
