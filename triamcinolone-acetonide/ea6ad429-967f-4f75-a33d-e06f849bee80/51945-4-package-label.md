@@ -1,12 +1,12 @@
 # PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
 
-NDC 24208-040-40
+NDC24208-040-40
 
-XIPERE®
+XIPERE ®
 
 (triamcinolone acetonide
 
-Injectable suspension) 40 mg/mL
+injectable suspension) 40 mg/mL
 
 For suprachoroidal use
 
@@ -38,4 +38,4 @@ Protect from light.
 
 BAUSCH + LOMB
 
-9771901
+97719XX
