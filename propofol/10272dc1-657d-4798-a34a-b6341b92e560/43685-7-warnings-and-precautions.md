@@ -123,7 +123,7 @@ With lidocaine pretreatment or when antecubital veins were utilized, pain was mi
 There have been reports in the literature indicating that the addition of lidocaine to propofol injectable emulsion in quantities greater than 20 mg lidocaine/200 mg propofol injectable emulsion results in instability of the emulsion which is associated with increases in globule sizes over time and (in rat studies) a reduction in anesthetic potency.
 Therefore, it is recommended that lidocaine be administered prior to propofol injectable emulsion administration or that it be added to propofol injectable emulsion immediately before administration and in quantities not exceeding 20 mg lidocaine/200 mg propofol injectable emulsion.
 
-## 5.14 Risks of Local Reactions
+## 5.14 Risk of Local Reactions
 
 Phlebitis or venous thrombosis has been reported.
 In two clinical studies using dedicated intravenous catheters, no instances of venous sequelae were observed up to 14 days following induction.
