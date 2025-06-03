@@ -26,16 +26,15 @@ The use of atazanavir capsules in treatment-experienced adult patients without r
 
 Table 1: Recommended Atazanavir Capsules and Ritonavir Dosage in Adultsa
 
-|  | Atazanavir Capsules Once Daily | Ritonavir Once Daily |
+|  | Atazanavir Capsules Once Daily Dosage | Ritonavir Once Daily Dosage |
 | --- | --- | --- |
-|  | Dosage | Dosage |
 | Treatment-Naive Adult Patients |  |  |
 | recommended regimen | 300 mg | 100 mg |
 | unable to tolerate ritonavir | 400 mg | N/A |
 | in combination with efavirenz | 400 mg | 100 mg |
 | Treatment-Experienced Adult Patients |  |  |
-| recommended regimen | 300 mg | 100 mg |
-| in combination with both H2RA and tenofovir DF | 400 mg | 100 mg |
+| recommended regimen | 300mg | 100 mg |
+| in combination with both H2RA and tenofovir DF | 400mg | 100 mg |
 | a See Drug Interactions (7) for instructions concerning coadministration of acid-reducing medications (eg, H2RA or proton pump inhibitors [PPIs]), and other antiretroviral drugs (eg, efavirenz, tenofovir DF, and didanosine). |  |  |
 
 ## 2.4 Dosage of Atazanavir Capsules in Pediatric Patients
@@ -44,7 +43,7 @@ The recommended daily dosage of atazanavir capsules and ritonavir in pediatric p
 
 Table 2: Recommended Dosage of Atazanavir Capsules and Ritonavir in Pediatric Patients (6 to less than 18 years of age)a,b
 
-| Body weight | Atazanavir CapsulesDaily Dosage | Ritonavir Daily Dosage |
+| Body weight | Atazanavir Capsules Daily Dosage | Ritonavir Daily Dosage |
 | --- | --- | --- |
 | Treatment-Naive and Treatment-Experiencedc |  |  |
 | Less than 15 kg | Capsules not recommended | N/A |
@@ -52,7 +51,7 @@ Table 2: Recommended Dosage of Atazanavir Capsules and Ritonavir in Pediatric Pa
 | At least 35 kg | 300 mg | 100 mg |
 | Treatment-Naive, at least 13 years old and cannot tolerate ritonavir |  |  |
 | At least 40 kg | 400 mg | N/A |
-| a Administer atazanavircapsules and ritonavir simultaneously with food. b The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients. See Drug Interactions (7) for instructions concerning coadministration of acid-reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir DF, and didanosine). c In treatment-experienced patients, atazanavir capsules must be administered with ritonavir. |  |  |
+| a Administer atazanavir capsules and ritonavir simultaneously with food. b The same recommendations regarding the timing and maximum doses of concomitant PPIs and H2RAs in adults also apply to pediatric patients. See Drug Interactions (7) for instructions concerning coadministration of acid-reducing medications (eg, H2RA or PPIs), and other antiretroviral drugs (eg, efavirenz, tenofovir DF, and didanosine). c In treatment-experienced patients, atazanavir capsules must be administered with ritonavir. |  |  |
 
 When transitioning between formulations, a change in dose may be needed.
 Consult the dosing table for the specific formulation.
@@ -77,7 +76,7 @@ Table 4: Recommended Dosage of Atazanavir Capsules and Ritonavir in Pregnant Pat
 
 For patients with renal impairment, including those with severe renal impairment who are not managed with hemodialysis, no dose adjustment is required for atazanavir capsules.
 Treatment-naive patients with end-stage renal disease managed with hemodialysis should receive atazanavir capsules 300 mg with ritonavir 100 mg.
-Atazanavir capsules are not recommended in treatment-experienced patients with HIV-1 infection who have end-stage renal disease managed with hemodialysis [see Use in Specific Populations (8.7)].
+Atazanavir capsules are not recommended in treatment-experienced patients with HIV-1 who have end-stage renal disease managed with hemodialysis [see Use in Specific Populations (8.7)].
 
 ## 2.8 Dosage Adjustments in Patients with Hepatic Impairment
 
@@ -87,7 +86,7 @@ The coadministration of atazanavir capsules with ritonavir in patients with any 
 
 Table 5: Recommended Dosage of Atazanavir Capsules in Treatment-Naive Adults with Hepatic Impairment
 
-|  | Atazanavir CapsulesOnce Daily Dosage |
+|  | Atazanavir Capsules Once Daily Dosage |
 | --- | --- |
 | Mild hepatic impairment (Child-Pugh Class A) | 400 mg |
 | Moderate hepatic impairment (Child-Pugh Class B) | 300 mg |
