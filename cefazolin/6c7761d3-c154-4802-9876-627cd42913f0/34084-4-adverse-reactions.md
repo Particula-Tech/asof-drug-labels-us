@@ -5,6 +5,7 @@ The following clinically significant adverse reactions to cefazolin for injectio
 - Hypersensitivity reactions to Cefazolin, Cephalosporins, Penicillins, or Other Beta-lactams [see Warnings and Precautions (5.1)]
 - Seizures in Patients with Renal Impairment [see Warnings and Precautions (5.2)]
 - Clostridioides difficile-associated Diarrhea [see Warnings and Precautions (5.3)]
+- Prothrombin Activity [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 

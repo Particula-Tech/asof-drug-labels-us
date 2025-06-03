@@ -39,4 +39,4 @@ CLINITEST is a registered trademark of Miles, Inc.
 
 CLINISTIX is a registered trademark of Bayer Corporation.
 
-PIN609-WES/X
+PIN609-WES/3

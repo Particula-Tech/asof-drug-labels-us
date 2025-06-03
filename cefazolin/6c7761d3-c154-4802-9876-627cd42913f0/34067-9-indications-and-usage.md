@@ -30,8 +30,6 @@ Cefazolin for Injection is indicated for the treatment of bone and joint infecti
 
 Cefazolin for Injection is indicated for the treatment of genital infections (i.e., prostatitis, epididymitis) due to E. coli, P. mirabilis, and Klebsiella species in adults and pediatric patients 1 month of age and older for whom appropriate dosing with this formulation can be achieved [see Dosage and Administration (2.1, 2.2, 2.4 and 2.5)].
 
-.
-
 ## 1.7 Septicemia
 
 Cefazolin for Injection is indicated for the treatment of septicemia due to S. pneumoniae, S. aureus (methicillin-susceptible), P. mirabilis, E. coli, and Klebsiella species in adults and pediatric patients 1 month of age and older for whom appropriate dosing with this formulation can be achieved [see Dosage and Administration (2.1, 2.2, 2.4 and 2.5)].

@@ -6,7 +6,7 @@ Cefazolin
 
 2 grams per vial
 
-FOR INTRAVENOUS INFUSION ONLY
+FOR INTRAVENOUS USE
 
 Single-Dose Vial
 
@@ -18,7 +18,7 @@ Cefazolin for Injection, USP
 
 2 grams per vial
 
-FOR INTRAVENOUS INFUSION ONLY
+FOR INTRAVENOUS USE
 
 25 x 2 gram Single-Dose Vials
 
@@ -32,7 +32,7 @@ Cefazolin
 
 3 grams per vial
 
-FOR INTRAVENOUS INFUSION ONLY
+FOR INTRAVENOUS USE
 
 Single-Dose Vial
 
@@ -44,7 +44,7 @@ Cefazolin for Injection, USP
 
 3 grams per vial
 
-FOR INTRAVENOUS INFUSION ONLY
+FOR INTRAVENOUS USE
 
 25 x 3 gram Single-Dose Vials
 
