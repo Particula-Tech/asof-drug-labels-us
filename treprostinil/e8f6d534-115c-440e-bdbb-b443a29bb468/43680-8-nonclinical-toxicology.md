@@ -4,7 +4,7 @@
 
 Carcinogenesis
 
-A two-year rat carcinogenicity study was performed with treprostinil inhalation solution at target treprostinil doses of 5.26, 10.6, and 34.1 µg/kg/day.
+A two-year rat carcinogenicity study was performed with treprostinil inhalation solution at target treprostinil doses of 5.26, 10.6, and 34.1 mcg/kg/day.
 There was no evidence for carcinogenic potential associated with treprostinil inhalation in rats at systemic exposure levels up to 35 times following a single YUTREPIA dose of 79.5 mcg [see Clinical Pharmacology (12.3)].
 In vitro and in vivo genetic toxicology studies did not demonstrate any mutagenic or clastogenic effects of treprostinil.
 Treprostinil sodium did not affect fertility or mating performance of male or female rats given continuous subcutaneous (sc) infusions at rates of up to 450 ng treprostinil/kg/min.

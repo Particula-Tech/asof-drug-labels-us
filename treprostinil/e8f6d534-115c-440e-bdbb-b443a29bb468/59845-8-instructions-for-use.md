@@ -19,7 +19,7 @@ Your healthcare provider should show you or your caregiver how to use YUTREPIA t
 | The YUTREPIA carton contains (See Figure A): •1 dry powder inhaler (called “inhaler” in these instructions)•7 Foil blister cards of YUTREPIA capsules (called “capsules” in these instructions) containing 4 capsules each, in one of 4 available strengths•7 Cleaning brushes (1 for each day)•1 Desiccant tab within each blister strip to keep the capsule dry and prevent moisture. Throw away the blister strip and the desiccant tab after removing the capsule. |  |
 | Preparing to use YUTREPIA |  |
 | The capsule must be inhaled within 5 minutes of opening the blister card. Ensure all supplies are gathered and you are familiar with the use of the product prior to opening the card. STEP 1. Gather your supplies. a.Place your YUTREPIA carton on a clean, dry surface.b.Remove the inhaler and foil blister cards from the carton (See Figure B). |  |
-| STEP 2. Select the capsule(s) for your dose.Use the Dosing Chart (See Figure C) to help you identify the capsule(s) needed for your prescribed dose. •If your prescribed dose is more than 106 mcg, you will need to inhale 2 capsules per the Dosing Chart (see Figure C).•Only load and inhale 1 capsule at a time.•All capsules in a carton are the same strength. If your prescribed dose requires 2 capsules of different strengths, you will need to select your capsules from 2 separate cartons. IMPORTANT: For doses requiring 2 capsules, only use the capsule combinations presented in the Dosing Chart above (See Figure C). The order for inhaling 2 capsules does not matter, regardless of capsule strength. |  |
+| STEP 2. Select the capsule(s) for your dose.Use the Dosing Chart (See Figure C) to help you identify the capsule(s) needed for your prescribed dose. •If your prescribed dose is more than 106 mcg, you will need to inhale 2 capsules per the Dosing Chart (see Figure C).•Only load and inhale 1 capsule at a time.•All capsules in a carton are the same strength. If your prescribed dose requires 2 capsules of different strengths, you will need to select your capsules from 2 separate cartons. IMPORTANT: For doses requiring 2 capsules, only use the capsule combinations presented in the Dosing Chart (See Figure C). The order for inhaling 2 capsules does not matter, regardless of capsule strength. |  |
 | STEP 3. Check the inhaler and blister card(s). a.Look at the inhaler and blister card(s) to make sure they are not damaged (See Figure D). Do not use the inhaler or capsules if they are damaged.b.Look at the expiration date on the blister cards to make sure it has not passed (See Figure E). Do not use the capsules if the expiration date has passed. |  |
 | Loading YUTREPIA |  |
 | STEP 4. Open the inhaler. a.Pull the cover straight off the inhaler (See Figure F).b.Rotate the mouthpiece in the direction of the arrow (counter-clockwise) to open the inhaler and expose the capsule chamber (See Figure G). If the mouthpiece separates from the base of the inhaler, gently reattach the 2 pieces and continue to follow the instructions. |  |
@@ -41,9 +41,9 @@ Your healthcare provider should show you or your caregiver how to use YUTREPIA t
 | Disposing of the inhaler |  |
 | Throw away (dispose of) the inhaler into household trash after 7 days of use. a.The inhaler is reusable and will last for 7 days (1 week) or 56 capsules, whichever comes first. (See Figure X). |  |
 
-®Copyright 2022 Liquidia Technologies, Inc. All rights reserved.
+©Copyright 2025 Liquidia Technologies, Inc. All rights reserved.
 Distributed by: Liquidia Technologies, Inc. Morrisville, NC 27560 For more information call 1-888-393-LQDA (5732) or go to www.YUTREPIA.com
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration
 
-Issued: May 2025
+Issued: June 2025

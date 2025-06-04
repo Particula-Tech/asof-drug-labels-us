@@ -6,8 +6,8 @@ Train patients in the administration process for YUTREPIA, including dosing, inh
 
 To avoid potential interruptions in drug delivery because of equipment malfunction, patients should have access to a back-up.
 
-In the event that a scheduled dose is missed, take another dose as soon as possible.
+If a scheduled dose is missed, resume therapy as soon as possible at the usual dose.
 
-®Copyright 2022 Liquidia Technologies, Inc. All rights reserved.
+©Copyright 2025 Liquidia Technologies, Inc. All rights reserved.
 
 Distributed by: Liquidia Technologies, Inc. Morrisville, NC 27560

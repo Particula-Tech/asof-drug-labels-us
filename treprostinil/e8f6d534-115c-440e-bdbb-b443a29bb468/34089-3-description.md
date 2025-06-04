@@ -6,7 +6,7 @@ The chemical name for tresprostinil sodium is 2-{[(1R,2R,3aS,9aS)-2-hydroxy-1-[(
 Treprostinil sodium has a molecular formula of C23H33O5Na and a molecular weight of 412.49 daltons equivalent to 390.5 daltons of Treprostinil.
 
 YUTREPIA inhalation powder contained in a capsule is intended for oral inhalation.
-The capsule contains white to off-white powder of treprostinil sodium and the inactive ingredients L-leucine, polysorbate 80, sodium citrate, sodium chloride, and trehalose.
+The capsule contains white to off-white powder of treprostinil sodium and the inactive ingredients L-leucine, polysorbate 80, sodium chloride, sodium citrate, and trehalose.
 Each 5 mg of YUTREPIA inhalation powder contains 26.5 mcg of treprostinil, where 26.5 mcg of treprostinil is equivalent to 28 mcg of treprostinil sodium.
 
 The accompanying inhalation device for delivery of YUTREPIA inhalation powder is a disposable plastic device used to inhale the dry powder contained in the HPMC capsule.
