@@ -11,3 +11,5 @@ It is sparingly soluble in water, freely soluble in ethanol (96%), and slightly 
 The melting point range is 107°C to 111°C.
 
 Pirfenidone Tablets, USP are available for oral administration, each pirfenidone tablet, USP contains pirfenidone USP, 267 mg or 801 mg, as active ingredient and the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, ferrosoferric oxide (801 mg), hypromellose, iron oxide red (801 mg), iron oxide yellow (267 mg), lactose monohydrate, magnesium stearate, polyethylene glycol, polyvinyl alcohol, talc and titanium dioxide.
+
+Meets USP Dissolution Test 2.
