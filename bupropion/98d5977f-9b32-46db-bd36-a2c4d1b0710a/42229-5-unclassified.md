@@ -1,7 +1,7 @@
-Brands listed are trademarks of their respective owners.
+All trademarks are property of their respective owners.
 
-Manufactured by: Pillar5 Pharma Inc. Arnprior, Ontario K7S 0C9 Canada
+Distributed by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Distributed by: TWi Pharmaceuticals USA, Inc. Paramus, NJ 07652
+Made in Canada
 
-RL-IN000180
+RL-IN000191 Revised: 1/2025
