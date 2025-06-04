@@ -5,7 +5,8 @@
   "inn": "acetaminophen",
   "labeler": "Baxter Healthcare Corporation",
   "package_ndcs": [
-    "36000-306-60"
+    "36000-306-60",
+    "36000-372-40"
   ],
   "products": [
     {
