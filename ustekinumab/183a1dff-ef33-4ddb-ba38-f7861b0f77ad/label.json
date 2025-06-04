@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761343"
+  ],
+  "inn": "ustekinumab",
+  "labeler": "Teva Pharmaceuticals USA, Inc.",
+  "package_ndcs": [
+    "51759-709-32",
+    "51759-710-32"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ustekinumab-aekn",
+      "name": "Ustekinumab-aekn"
+    }
+  ],
+  "setid": "183a1dff-ef33-4ddb-ba38-f7861b0f77ad",
+  "source": "dailymed"
+}
