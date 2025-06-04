@@ -8,11 +8,14 @@ Caution is advised for patients receiving concomitant high-dose aspirin and acet
 
 # PRECAUTIONS
 
-## General
+General
 
 Increasing the dose does not increase the diuresis and may increase the incidence of drowsiness and/or paresthesia.
 Increasing the dose often results in a decrease in diuresis.
 Under certain circumstances, however, very large doses have been given in conjunction with other diuretics in order to secure diuresis in complete refractory failure.
+
+Choroidal effusion and choroidal detachment have been reported after the use of acetazolamide in the post-operative period following opthalmic surgery.
+Discontinue acetazolamide if choroidal effusion and/or choroidal detachment is suspected.
 
 ## Information for Patients
 

@@ -1,7 +1,5 @@
 # HOW SUPPLIED
 
-## Acetazolamide for Injection, USP (lyophilized) powder.
-
 Intravenous Acetazolamide for Injection USP (lyophilized) powder.
 NDC 39822-0190-1, 500 mg Vial
 
@@ -14,8 +12,10 @@ Discard unused portion.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-Manufactured for: XGen Pharmaceuticals DJB, Inc. Big Flats NY 14814
+Manufactured for:
+
+XGen Pharmaceuticals DJB, Inc. Big Flats NY 14814
 
 Rx Only
 
-AZ-AV-PI-00 Revised: October 2023 Made in Italy 8021965
+AZ-AV-PI-01 Revised: October 2024 Made in Italy 8021965

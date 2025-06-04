@@ -14,7 +14,7 @@ Nervous: Drowsiness, paraesthesia (including numbness and tingling of extremitie
 
 Skin: Allergic skin reactions including urticaria, photosensitivity, Stevens-Johnson syndrome, toxic epidermal necrolysis
 
-Special senses: Hearing disturbances, tinnitus, transient myopia.
+Otologic: Hearing disturbances, tinnitus Eye Disorders: choroidal effusion, choroidal detachment, transient myopia.
 Transient myopia is the result of forward movement of the ciliary body leading to a narrowing of the angle.
 
 Urogenital: Crystalluria, increased risk of nephrolithiasis with long-term therapy, hematuria, glycosuria, renal failure, polyuria

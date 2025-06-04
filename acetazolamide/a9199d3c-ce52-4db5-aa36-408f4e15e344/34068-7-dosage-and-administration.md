@@ -1,10 +1,7 @@
 # DOSAGE AND ADMINISTRATION
 
-## Preparation and Storage of Parenteral Solution
-
-Each 500 mg vial containing sterile acetazolamide sodium should be reconstituted with at least 5 mL of Sterile Water for Injection prior to use.
-Reconstituted solutions retain their physical and chemical properties for 3 days under refrigeration at 2°- 8°C (36°- 46°F), or 12 hours at room temperature 20°- 25°C (68°- 77°F).
-CONTAINS NO PRESERVATIVE.
+Preparation and Storage of Parenteral Solution: Each 500 mg vial containing sterile acetazolamide sodium should be reconstituted with at least 5 mL of Sterile Water for Injection prior to use.
+Reconstituted solutions retain their physical and chemical properties for 3 days under refrigeration at 2° - 8° C (36° - 46° F), or 12 hours at room temperature 20° - 25° C (68° - 77° F). CONTAINS NO PRESERVATIVE.
 The direct intravenous route of administration is preferred.
 Intramuscular administration is not recommended.
 
@@ -53,7 +50,7 @@ The dosage recommendations for glaucoma and epilepsy differ considerably from th
 
 Sulfonamides may give false negative or decreased values for urinary phenolsulfonphthalein and phenol red elimination values for urinary protein, serum non-protein and for serum uric acid.
 
-Acetazolamide for injection may produce an increased level of crystals in the urine.
+Acetazolamide may produce an increased level of crystals in the urine.
 
 Acetazolamide interferes with the HPLC method of assay for theophylline.
 Interference with the theophylline assay by acetazolamide depends on the solvent used in the extraction; acetazolamide may not interfere with other assay methods for theophylline.
