@@ -29,7 +29,9 @@ If unable to perform confirmatory MSI-H/dMMR testing, the presence of TMB ≥10 
 
 Patient Selection for Combination Therapy
 
-For use of KEYTRUDA in combination with chemotherapy and trastuzumab, select patients based on the presence of positive PD-L1 expression (CPS ≥1) in locally advanced unresectable or metastatic HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma [see Clinical Studies (14.10)].
+For use of KEYTRUDA in combination with chemotherapy, select patients based on the presence of positive PD-L1 expression (CPS ≥1) in locally advanced unresectable or metastatic gastric or gastroesophageal junction (GEJ) adenocarcinoma, and esophageal or gastroesophageal junction (GEJ) carcinoma [see Clinical Studies (14.10), (14.11)].
+
+- An FDA-approved test for the detection of PD-L1 for the selection of patients with PD-L1 (CPS ≥ 1) expression in esophageal carcinoma in combination with platinum- and fluoropyrimidine-based chemotherapy is not available.
 
 For use of KEYTRUDA in combination with chemotherapy, with or without bevacizumab, select patients based on the presence of positive PD-L1 expression in persistent, recurrent, or metastatic cervical cancer [see Clinical Studies (14.12)].
 
@@ -39,12 +41,15 @@ For use of KEYTRUDA in combination with chemotherapy, select patients based on t
 
 ## 2.2 Recommended Dosage
 
+Administer KEYTRUDA as a 30-minute intravenous infusion.
+The recommended dosages of KEYTRUDA are presented in Table 1.
+
 Table 1: Recommended Dosage
 
 | Indication | Recommended Dosage of KEYTRUDA | Duration/Timing of Treatment |
 | --- | --- | --- |
 | Monotherapy |  |  |
-| Adult patients with unresectable or metastatic melanoma | 200 mg every 3 weeks30-minute intravenous infusion or 400 mg every 6 weeks | Until disease progression or unacceptable toxicity |
+| Adult patients with unresectable or metastatic melanoma | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease progression or unacceptable toxicity |
 | Adjuvant treatment of adult patients with melanoma, NSCLC, or RCC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease recurrence, unacceptable toxicity, or up to 12 months |
 | Adult patients with NSCLC, HNSCC, cHL, PMBCL, locally advanced or metastatic Urothelial Carcinoma, MSI-H or dMMR Cancer, MSI-H or dMMR CRC, MSI-H or dMMR Endometrial Carcinoma, Esophageal Cancer, Cervical Cancer, HCC, MCC, TMB-H Cancer, or cSCC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until disease progression, unacceptable toxicity, or up to 24 months |
 | Adult patients with high-risk BCG- unresponsive NMIBC | 200 mg every 3 weeks or 400 mg every 6 weeks | Until persistent or recurrent high-risk NMIBC, disease progression, unacceptable toxicity, or up to 24 months |
@@ -132,7 +137,7 @@ The product does not contain a preservative.
 
 Store the diluted solution from the KEYTRUDA 100 mg/4 mL vial either:
 
-- At room temperature for no more than 6 hours from the time of dilution.
+- At room temperature (temperatures at or below 25°C) for no more than 6 hours from the time of dilution.
   This includes room temperature storage of the diluted solution, and the duration of infusion.
 - Under refrigeration at 2°C to 8°C (36°F to 46°F) for no more than 96 hours from the time of dilution.
   If refrigerated, allow the diluted solution to come to room temperature prior to administration.

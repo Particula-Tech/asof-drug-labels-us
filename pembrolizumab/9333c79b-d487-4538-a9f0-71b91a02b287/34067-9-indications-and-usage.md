@@ -71,13 +71,13 @@ KEYTRUDA is indicated for the treatment of patients with unresectable or metasta
 
 KEYTRUDA, in combination with trastuzumab, fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adults with locally advanced unresectable or metastatic HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
 
-KEYTRUDA, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adults with locally advanced unresectable or metastatic HER2-negative gastric or gastroesophageal junction (GEJ) adenocarcinoma.
+KEYTRUDA, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adults with locally advanced unresectable or metastatic HER2-negative gastric or gastroesophageal junction (GEJ) adenocarcinoma whose tumors express PD-L1 (CPS ≥ 1) as determined by an FDA approved test [see Dosage and Administration (2.1)].
 
 ## 1.11 Esophageal Cancer
 
 KEYTRUDA is indicated for the treatment of patients with locally advanced or metastatic esophageal or gastroesophageal junction (GEJ) (tumors with epicenter 1 to 5 centimeters above the GEJ) carcinoma that is not amenable to surgical resection or definitive chemoradiation either:
 
-- in combination with platinum- and fluoropyrimidine-based chemotherapy, or
+- in combination with platinum- and fluoropyrimidine-based chemotherapy for patients with tumors that express PD-L1 (CPS ≥ 1) [see Dosage and Administration (2.1)], or
 - as a single agent after one or more prior lines of systemic therapy for patients with tumors of squamous cell histology that express PD-L1 (CPS ≥10) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
 
 ## 1.12 Cervical Cancer
