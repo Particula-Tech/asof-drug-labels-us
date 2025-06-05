@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Nelarabine Injection is supplied as a clear, colorless, sterile solution in Type I, clear glass single dose vials with a grey chlorobutyl rubber stopper (not made with natural rubber latex) and an aluminum seal with a white snap-off cap.
+Nelarabine Injection is supplied as a clear, colorless, sterile solution in Type I, clear glass single-dose vials with a grey chlorobutyl rubber stopper (not made with natural rubber latex) and an aluminum seal with a white snap-off cap.
 Each vial contains 250 mg of nelarabine (5 mg nelarabine per mL) and the inactive ingredient sodium chloride (4.5 mg per mL) in 50 mL Water for Injection, USP.
 
 Single-dose Vials are available in the following carton sizes:

@@ -38,7 +38,7 @@ Consideration should be given to the use of allopurinol in patients at risk of h
 
 ## 5.5 Vaccinations
 
-Avoid the administration of live vaccines to immunocompromised patients.
+Avoid administration of live vaccines to immunocompromised patients.
 
 ## 5.6 Effects on Ability to Drive and Use Machines
 

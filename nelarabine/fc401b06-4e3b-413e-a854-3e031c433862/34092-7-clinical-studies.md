@@ -3,7 +3,7 @@
 ## 14.1 Adult Clinical Trial in Relapsed or Refractory T-ALL and T-LBL
 
 The safety and efficacy of Nelarabine Injection in adult patients were studied in a clinical trial which included 39 treated patients, 28 who had T-ALL or T-LBL that had relapsed following or was refractory to at least two prior induction regimens.
-A 1,500 mg/m2 dose of Nelarabine Injection was administered intravenously over 2 hours on Days 1, 3, and 5 repeated every 21 days.
+A 1,500 mg/m2 dose of Nelarabine Injection was administered by intravenous infusion over 2 hours on Days 1, 3, and 5 repeated every 21 days.
 Patients who experienced signs or symptoms of Grade 2 or greater neurologic toxicity on therapy were to be discontinued from further therapy with Nelarabine Injection.
 Seventeen patients had a diagnosis of T-ALL and 11 had a diagnosis of T-LBL.
 For patients with ≥ 2 prior inductions, the age range was 16 to 65 years (mean: 34 years) and most patients were male (82%) and Caucasian (61%).
@@ -14,7 +14,7 @@ Complete response without complete hematologic recovery (CR*) was also assessed.
 The results of the trial for patients who had received ≥ 2 prior inductions are shown in Table 5.
 
 Table 5.
-Efficacy Results in Adult Patients With ≥ 2 Prior Inductions Treated with 1,500 mg/m2 of Nelarabine Injection Administered Intravenously Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
+Efficacy Results in Adult Patients With ≥ 2 Prior Inductions Treated with 1,500 mg/m2 of Nelarabine Injection Administered by Intravenous Infusion Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
 
 |  | N = 28 |
 | --- | --- |
@@ -58,7 +58,7 @@ Duration of response is reported from date of response to date of relapse, and m
 Efficacy results are presented in Table 7.
 
 Table 7.
-Efficacy Results in Patients Age 21 Years and Younger at Diagnosis with ≥ 2 Prior Inductions Treated With 650 mg/m2 of Nelarabine Injection Administered Intravenously Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
+Efficacy Results in Patients Age 21 Years and Younger at Diagnosis with ≥ 2 Prior Inductions Treated With 650 mg/m2 of Nelarabine Injection Administered by Intravenous Infusion Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
 
 |  | N = 39 |
 | --- | --- |

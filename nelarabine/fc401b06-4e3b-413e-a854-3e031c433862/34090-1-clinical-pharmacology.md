@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Nelarabine is a prodrug of the deoxyguanosine analogue 9-β-D-arabinofuranosylguanine (ara-G), a nucleoside metabolic inhibitor.
-Nelarabine is demethylated by ADA to ara-G, mono phosphorylated by deoxyguanosine kinase and deoxycytidine kinase, and subsequently converted to the active 5’-triphosphate, ara-GTP.
+Nelarabine is demethylated by ADA to ara-G, mono-phosphorylated by deoxyguanosine kinase and deoxycytidine kinase, and subsequently converted to the active 5’-triphosphate, ara-GTP.
 Accumulation of ara-GTP in leukemic blasts allows for incorporation into deoxyribonucleic acid (DNA), leading to inhibition of DNA synthesis and cell death.
 Other mechanisms may contribute to the cytotoxic and systemic toxicity of nelarabine.
 

@@ -93,7 +93,7 @@ These are not all the side effects associated with Nelarabine Injection.
 Ask your doctor or pharmacist for more information.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1 800-FDA-1088.
+You may report side effects to FDA at 1-800-FDA-1088.
 
 General Advice about Nelarabine Injection
 
@@ -109,6 +109,6 @@ Distributed by:
 
 Shorla Oncology Inc., Cambridge, MA 02142, USA
 
-Version: NELGIUS004
+Version: NELGIUS005
 
-Revised: Feb 2025
+Revised: May 2025
