@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Nelarabine is a prodrug of the deoxyguanosine analogue 9-β-D-arabinofuranosylguanine (ara-G), a nucleoside metabolic inhibitor.
-Nelarabine is demethylated by adenosine deaminase (ADA) to ara-G, mono-phosphorylated by deoxyguanosine kinase and deoxycytidine kinase, and subsequently converted to the active 5’-triphosphate, ara-GTP.
+Nelarabine is demethylated by ADA to ara-G, mono-phosphorylated by deoxyguanosine kinase and deoxycytidine kinase, and subsequently converted to the active 5’-triphosphate, ara-GTP.
 Accumulation of ara-GTP in leukemic blasts allows for incorporation into deoxyribonucleic acid (DNA), leading to inhibition of DNA synthesis and cell death.
 Other mechanisms may contribute to the cytotoxic and systemic toxicity of nelarabine.
 
@@ -24,7 +24,7 @@ For ara-G, VSS/F values were 50 ± 24 L/m2 in adult patients.
 
 Nelarabine and ara-G are not substantially bound to human plasma proteins (< 25%) in vitro, and binding is independent of nelarabine or ara-G concentrations up to 600 mcM.
 
-Metabolism: The principal route of metabolism for nelarabine is O-demethylation by adenosine deaminase to form ara-G, which undergoes hydrolysis to form guanine.
+Metabolism: The principal route of metabolism for nelarabine is O-demethylation by ADA to form ara-G, which undergoes hydrolysis to form guanine.
 In addition, some nelarabine is hydrolyzed to form methylguanine, which is O-demethylated to form guanine.
 Guanine is N-deaminated to form xanthine, which is further oxidized to yield uric acid.
 
@@ -37,7 +37,7 @@ Nelarabine and ara-G are rapidly eliminated from plasma with a mean half-life of
 
 Pediatrics: No pharmacokinetic data are available in pediatric patients at the once-daily 650 mg/m2 nelarabine dosage.
 Combined Phase I pharmacokinetic data at nelarabine doses of 104 to 2,900 mg/m2 indicate that the mean clearance (CL) of nelarabine is about 30% higher in pediatric patients than in adult patients (259 ± 409 L/h/m2 versus 197 ± 189 L/h/m2, respectively) (n = 66 adults, n = 22 pediatric patients) on Day 1.
-The apparent clearance of ara-G (CL/F) is comparable between the two groups (10.5 ± 4.5 L/h/m2 in adult patients and 11.3 ± 4.2 L/h/m2 in pediatric patients) on Day 1.
+The apparent clearance of ara-G (CL/F) is comparable between the 2 groups (10.5 ± 4.5 L/h/m2 in adult patients and 11.3 ± 4.2 L/h/m2 in pediatric patients) on Day 1.
 Nelarabine and ara-G are extensively distributed throughout the body.
 For nelarabine, VSS values were 213 ± 358 L/m2 in pediatric patients.
 For ara-G, VSS/F values were 33 ± 9.3 L/m2 in pediatric patients.
@@ -46,7 +46,7 @@ Nelarabine and ara-G are rapidly eliminated from plasma in pediatric patients, w
 Effect of Age: Age has no effect on the pharmacokinetics of nelarabine or ara-G in adults.
 Decreased renal function, which is more common in the elderly, may reduce ara-G clearance [see Use in Specific Populations (8.5)].
 
-Effect of Gender: Gender has no effect on nelarabine or ara-G pharmacokinetics
+Effect of Gender: Gender has no effect on nelarabine or ara-G pharmacokinetics.
 
 Effect of Race: In general, nelarabine mean clearance and volume of distribution values tend to be higher in whites (n = 63) than in blacks (by about 10%) (n = 15).
 The opposite is true for ara-G; mean apparent clearance and volume of distribution values tend to be lower in whites than in blacks (by about 15% to 20%).
@@ -65,5 +65,5 @@ Drug Interactions: Cytochrome P450: Nelarabine and ara-G did not significantly i
 
 Fludarabine: Administration of fludarabine 30 mg/m2 as a 30-minute infusion 4 hours before a 1,200 mg/m2 infusion of nelarabine did not affect the pharmacokinetics of nelarabine, ara-G, or ara-GTP in 12 patients with refractory leukemia.
 
-Pentostatin: There is in vitro evidence that pentostatin is a strong inhibitor of adenosine deaminase.
-Inhibition of adenosine deaminase may result in a reduction in the conversion of the prodrug nelarabine to its active moiety and consequently in a reduction in efficacy of nelarabine and/or change in adverse reaction profile of either drug [see Drug Interactions (7)].
+Pentostatin: There is in vitro evidence that pentostatin is a strong inhibitor of ADA.
+Inhibition of ADA may result in a reduction in the conversion of the prodrug nelarabine to its active moiety and consequently in a reduction in efficacy of nelarabine and/or change in adverse reaction profile of either drug [see Drug Interactions (7)].

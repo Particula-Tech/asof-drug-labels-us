@@ -18,14 +18,14 @@ Relapsed or Refractory T-ALL and T-LBL
 
 Nelarabine was studied in 459 patients in Phase I and Phase II clinical trials.
 
-Adult Patient: The safety profile of nelarabine is based on data from 103 adult patients treated with the recommended dose and schedule in 2 studies: an adult T-cell acute lymphoblastic leukemia (T-ALL)/T-cell lymphoblastic lymphoma (T-LBL) trial and an adult chronic lymphocytic leukemia trial.
+Adult Patient: The safety profile of nelarabine is based on data from 103 adult patients treated with the recommended dose and schedule in 2 studies: an adult T-ALL/T-cell T-LBL trial and an adult chronic lymphocytic leukemia trial.
 
-The most common adverse reactions in adults were fatigue; gastrointestinal (GI) disorders (nausea, diarrhea, vomiting, and constipation); hematologic disorders (anemia, neutropenia, and thrombocytopenia); respiratory disorders (cough and dyspnea); nervous system disorders (somnolence and dizziness); and pyrexia.
+The most common adverse reactions in adults were fatigue; gastrointestinal disorders (nausea, diarrhea, vomiting, and constipation); hematologic disorders (anemia, neutropenia, and thrombocytopenia); respiratory disorders (cough and dyspnea); nervous system disorders (somnolence and dizziness); and pyrexia.
 
 The most common adverse reactions in adults by Body System, including severe or life-threatening adverse reactions (NCI CTCAE Grade 3 or Grade 4) and fatal adverse reactions (Grade 5) are shown in Table 1.
 
 Table 1.
-Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Adult Patients Treated with 1,500 mg/m2 of Nelarabine Administered Intravenously over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
+Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Adult Patients Treated With 1,500 mg/m2 of Nelarabine Administered by Intravenous Infusion Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
 
 | Grade 3% | Grades 4 and5a % | All Grades% |  |
 | --- | --- | --- | --- |
@@ -91,7 +91,7 @@ Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Adult Patients Trea
 
 Abbreviation: AST, aspartate transaminase.
 
-a Five patients had a fatal adverse reaction.
+a Five (5) patients had a fatal adverse reaction.
 Fatal adverse reactions included hypotension (n = 1), respiratory arrest (n = 1), pleural effusion/pneumothorax (n = 1), pneumonia (n = 1), and cerebral hemorrhage/coma/leukoencephalopathy (n = 1).
 
 Other Adverse Reactions: Blurred vision was also reported in 4% of adult patients.
@@ -102,7 +102,7 @@ Neurologic Adverse Reactions: Nervous system adverse reactions, were reported fo
 The most common neurologic adverse reactions (≥ 2%) in adult patients including all grades (NCI CTCAE) are shown in Table 2.
 
 Table 2.
-Neurologic Adverse Reactions (≥ 2%) in Adult Patients Treated With 1,500 mg/m2 of Nelarabine Administered Intravenously Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
+Neurologic Adverse Reactions (≥ 2%) in Adult Patients Treated With 1,500 mg/m2 of Nelarabine Administered by Intravenous Infusion Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
 
 | Grade 1 % | Grade 2 % | Grade 3 % | Grade 4 % | All Grades % |  |
 | --- | --- | --- | --- | --- | --- |
@@ -141,7 +141,7 @@ Of the non-hematologic adverse reactions in pediatric patients, the most frequen
 The most common adverse reactions in pediatric patients by System Organ Class including severe or life threatening adverse reactions (NCI CTCAE Grade 3 or Grade 4) and fatal adverse reactions (Grade 5) are shown in Table 3.
 
 Table 3.
-Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Pediatric Patients Treated With 650 mg/m2 of Nelarabine Administered Intravenously Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
+Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Pediatric Patients Treated With 650 mg/m2 of Nelarabine Administered by Intravenous Infusion Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
 
 | Grade 3 % | Grade 4 and 5a % | All Grades % |  |
 | --- | --- | --- | --- |
@@ -170,14 +170,14 @@ Most Commonly Reported (≥ 5% Overall) Adverse Reactions in Pediatric Patients 
 | Infections & Infestations |  |  |  |
 | Infection | 2 | 1 | 5 |
 
-a Three patients had a fatal adverse reaction.
+a Three (3) patients had a fatal adverse reaction.
 Fatal adverse reactions included neutropenia and pyrexia (n = 1), status epilepticus/seizure (n = 1), and fungal pneumonia (n = 1).
 
 Neurologic Adverse Reactions: Nervous system adverse reactions were reported for 42% of pediatric patients across the Phase I and Phase II trials.
 The most common neurologic adverse reactions (≥ 2%) in pediatric patients including all grades (NCI CTCAE) are shown in Table 4.
 
 Table 4.
-Neurologic Adverse Reactions (≥ 2%) in Pediatric Patients Treated With 650 mg/m2 of Nelarabine Administered Intravenously Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
+Neurologic Adverse Reactions (≥ 2%) in Pediatric Patients Treated With 650 mg/m2 of Nelarabine Administered by Intravenous Infusion Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
 
 | Grade 1 % | Grade 2 % | Grade 3 % | Grade 4 and 5a % | All Grades % |  |
 | --- | --- | --- | --- | --- | --- |
@@ -202,18 +202,18 @@ Neurologic Adverse Reactions (≥ 2%) in Pediatric Patients Treated With 650 mg/
 a One (1) patient had a fatal neurologic adverse reaction, status epilepticus.
 
 The other Grade 3 neurologic adverse reaction in pediatric patients was hypertonia reported in 1 patient (1%).
-The additional Grade 4 neurologic adverse reactions, were 3rd nerve paralysis, and 6th nerve paralysis, each reported in 1 patient (1%).The other neurologic adverse reactions reported as Grade 1, 2, or unknown in pediatric patients were dysarthria, encephalopathy, hydrocephalus, hyporeflexia, lethargy, mental impairment, paralysis, and sensory loss, each reported in 1 patient (1%).
+The additional Grade 4 neurologic adverse reactions, were third nerve paralysis, and sixth nerve paralysis, each reported in 1 patient (1%).The other neurologic adverse reactions reported as Grade 1, 2, or unknown in pediatric patients were dysarthria, encephalopathy, hydrocephalus, hyporeflexia, lethargy, mental impairment, paralysis, and sensory loss, each reported in 1 patient (1%).
 
 Nelarabine in Combination with Multi-Agent Chemotherapy in T-ALL and T-LBL
 
 Nelarabine was studied in combination with multi-agent chemotherapy in a randomized clinical trial [NCT00408005].
 The safety population in this trial included 804 patients with newly-diagnosed T-ALL (85%) or T-LBL (15%) treated with (n = 411) or without (n = 393) nelarabine in combination with the augmented Berlin-Frankfurt-Münster chemotherapy regimen (aBFM) after initial induction therapy.
-Patients assigned to nelarabine received 650 mg/m2 intravenously over 1 hour daily for 5 consecutive days, during consolidation days 1 to 5 and 43 to 47, delayed intensification days 29 to 33, and during the initial 3 courses of maintenance days 29 to 33.
-The median age on enrollment was 9.5 years (range, 1 to 29), the majority of patients were male (73%) and white (69%).
+Patients assigned to nelarabine received 650 mg/m2 intravenously over 1 hour daily for 5 consecutive days, during consolidation Days 1 to 5 and 43 to 47, delayed intensification Days 29 to 33, and during the initial 3 courses of maintenance Days 29 to 33.
+The median age on enrollment was 9.5 years (range: 1 to 29), the majority of patients were male (73%) and white (69%).
 Sixty-five percent of patients assigned to the nelarabine arms received at least 85% of the planned dose through the third course of maintenance therapy compared to 79% of patients on the control arms who received 3 courses of maintenance therapy.
 
 There was one fatal neurological adverse reaction in the nelarabine arm.
-The incidence of the following grades 3 and 4 adverse reactions were higher in the nelarabine treated arms compared to the control arms: abnormal transaminases, motor and sensory neuropathy, nausea and vomiting, and dehydration.
+The incidence of the following Grades 3 and 4 adverse reactions were higher in the nelarabine treated arms compared to the control arms: abnormal transaminases, motor and sensory neuropathy, nausea and vomiting, and dehydration.
 The incidence of seizures of any grade was 3% (14 of 411).
 Rhabdomyolysis was diagnosed in 2% (7 of 411) of nelarabine treated patients and occurred after the first course of nelarabine during the consolidation phase of therapy.
 
@@ -222,10 +222,10 @@ Rhabdomyolysis was diagnosed in 2% (7 of 411) of nelarabine treated patients and
 The following adverse reactions have been identified during post-approval use of nelarabine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Infections and Infestations: Fatal opportunistic infections.
+Infections and Infestations: Fatal opportunistic infections
 
-Metabolism and Nutrition Disorders: Tumor lysis syndrome.
+Metabolism and Nutrition Disorders: Tumor lysis syndrome
 
-Nervous System Disorders: Demyelination and ascending peripheral neuropathies similar in appearance to Guillain-Barré syndrome.
+Nervous System Disorders: Demyelination and ascending peripheral neuropathies similar in appearance to Guillain-Barré syndrome
 
-Musculoskeletal and Connective Disorders: Rhabdomyolysis, blood creatine phosphokinase increased.
+Musculoskeletal and Connective Disorders: Rhabdomyolysis, blood creatine phosphokinase increased

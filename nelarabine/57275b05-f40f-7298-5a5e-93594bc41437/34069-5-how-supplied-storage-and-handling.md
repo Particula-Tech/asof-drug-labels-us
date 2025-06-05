@@ -5,10 +5,10 @@ Each vial contains 250 mg of nelarabine (5 mg nelarabine per mL) and the inactiv
 
 Single-dose Vials (NDC 43598-142-11) are available in the following carton size:
 
-(NDC 43598-142-11) (package of 1)
+(NDC 43598-142-11) (package of 1).
 
 NDC 43598‑142-06 (package of 6).
 
-Store nelarabine injection at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
+Store nelarabine injection between 20°C and 25°C (68°F and 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [See USP Controlled Room Temperature].
 
 Discard Unused Portion.
