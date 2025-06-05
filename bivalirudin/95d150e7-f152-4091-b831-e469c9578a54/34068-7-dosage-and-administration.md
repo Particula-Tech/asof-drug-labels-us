@@ -83,7 +83,7 @@ Table 2: Drugs Not for Administration in the Same Intravenous Line with Bivaliru
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.
 Preparations of bivalirudin for injection containing particulate matter should not be used.
-Reconstituted material will be a clear to slightly opalescent, colorless to slightly yellow solution.
+Reconstituted material will be a colorless to faintly yellow solution.
 
 ## 2.4 Storage after Reconstitution
 

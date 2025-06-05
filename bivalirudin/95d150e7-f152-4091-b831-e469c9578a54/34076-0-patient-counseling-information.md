@@ -6,6 +6,8 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Bangalore, India Code No.: KR/DRUGS/KTK/28/384/2009
 
-1032743
+Revised: 3/2025
 
-Revised: 4/2021 MI:BIVAIJ:R7
+50103962
+
+MI:BIVAIJ:R8

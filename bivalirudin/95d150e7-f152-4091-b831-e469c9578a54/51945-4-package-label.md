@@ -2,7 +2,7 @@
 
 NDC 67457-256-10
 
-Bivalirudin for Injection 250 mg /vial
+Bivalirudin for Injection, USP 250 mg /vial
 
 For Intravenous Use Only
 
@@ -13,7 +13,7 @@ Non-pyrogenic.
 
 Discard unused portion.
 
-Each vial contains: 250 mg bivalirudin equivalent to an average of 275 mg of bivalirudin trifluoroacetate with 125 mg mannitol.
+Each vial contains: 250 mg bivalirudin, USP equivalent to an average of 275 mg of bivalirudin trifluoroacetate with 125 mg mannitol.
 Sodium hydroxide may have been added for pH adjustment.
 Add 5 mL of sterile water for injection.
 Each mL contains 50 mg of bivalirudin.
@@ -29,6 +29,6 @@ Made in India
 
 Code No.: KR/DRUGS/KTK/28/384/2009
 
-MI:256:10C:R6
+MI:256:10C:R7
 
 Mylan.com
