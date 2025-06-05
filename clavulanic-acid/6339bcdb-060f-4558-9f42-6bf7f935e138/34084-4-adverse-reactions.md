@@ -1,14 +1,15 @@
 # 6 ADVERSE REACTIONS
 
-The following are discussed in more detail in other sections of the labeling [see Warnings and Precautions (5)]:
+The following clinically significant adverse reactions are described elsewhere in labeling:
 
 - Anaphylactic reactions [see Warnings and Precautions (5.1)]
 - Severe Cutaneous Adverse Reactions (SCAR) [see Warnings and Precautions (5.2)]
 - Drug-Induced Enterocolitis Syndrome (DIES) [see Warnings and Precautions (5.3)]
 - Hepatic Dysfunction [see Warnings and Precautions (5.4)]
 - Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.5)]
+- Skin Rash in Patients with Mononucleosis [see Warnings and Precautions (5.6)]
 
-## 6.1 Clinical Trial Experience
+## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -24,18 +25,18 @@ Two patients in the group treated with amoxicillin and clavulanate potassium for
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse reactions reported from clinical trials, the following have been identified during postmarketing use of amoxicillin and clavulanate potassium products, including amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to amoxicillin and clavulanate potassium.
+The following adverse reactions have been identified during postmarketing use of amoxicillin and clavulanate potassium products, including amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL.
+Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal: Drug-induced enterocolitis syndrome (DIES), black hairy tongue, and hemorrhagic/pseudomembranous colitis.
+Gastrointestinal: Drug-induced enterocolitis syndrome (DIES), diarrhea, nausea, vomiting, indigestion, gastritis, stomatitis, glossitis, black “hairy” tongue, mucocutaneous candidiasis, enterocolitis, and hemorrhagic/pseudomembranous colitis.
+Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5.3, 5.5)].
 
 Immune: Hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), angioedema, serum sickness-like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), hypersensitivity vasculitis [see Warnings and Precautions (5.1)].
 
-Skin and Appendages: Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis, and linear IgA bullous dermatosis.
+Skin and Appendages: Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis, and linear IgA bullous dermatosis [see Warnings and Precautions (5.1, 5.2, 5.6)].
 
 Liver: A moderate rise in AST (SGOT) and/or ALT (SGPT) has been noted in patients treated with ampicillin-class antibacterials.
-Hepatic dysfunction, including hepatitis and cholestatic jaundice, increases in serum transaminases (AST and/or ALT), serum bilirubin, and/or alkaline phosphatase, has been infrequently reported with amoxicillin and clavulanate potassium or amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL.
+Hepatic dysfunction, including increases in serum transaminases (AST and/or ALT), serum bilirubin, and/or alkaline phosphatase, has been infrequently reported with amoxicillin and clavulanate potassium or amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL.
 It has been reported more commonly in the elderly, in males, or in patients on prolonged treatment.
 The histologic findings on liver biopsy have consisted of cholestatic, hepatocellular, or mixed cholestatic-hepatocellular changes.
 The onset of signs/symptoms of hepatic dysfunction may occur during or several weeks after therapy has been discontinued.

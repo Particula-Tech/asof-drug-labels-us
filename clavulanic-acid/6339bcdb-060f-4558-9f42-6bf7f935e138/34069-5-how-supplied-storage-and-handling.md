@@ -4,7 +4,7 @@ How Supplied
 
 Amoxicillin and Clavulanate Potassium for Oral Suspension USP, 600 mg/42.9 mg per 5 mL:
 
-Each 5 mL of reconstituted orange-flavored suspension contains 600 mg amoxicillin trihydrate and 42.9 mg clavulanic acid as the potassium salt (equivalent to 51.1 mg of clavulanate potassium).
+Each 5 mL of reconstituted orange-flavored suspension contains 600 mg of amoxicillin as the trihydrate and 42.9 mg clavulanic acid as the potassium salt (equivalent to 51.1 mg of clavulanate potassium).
 
 NDC 0143-9853-75 75 mL bottle
 

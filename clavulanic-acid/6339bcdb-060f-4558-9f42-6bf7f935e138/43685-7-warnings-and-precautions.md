@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Serious Allergic Reactions, Including Anaphylaxis
+## 5.1 Serious Allergic Reactions, including Anaphylaxis
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving beta-lactam antibacterials, including amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL.
 These reactions are more likely to occur in individuals with a history of penicillin hypersensitivity and/or a history of sensitivity to multiple allergens.
@@ -14,7 +14,7 @@ If patients develop a skin rash, they should be monitored closely, and Amoxicill
 
 ## 5.3 Drug-Induced Enterocolitis Syndrome (DIES)
 
-Drug-induced enterocolitis syndrome (DIES) has been reported with the use of amoxicillin, a component of amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL, [see Adverse Reactions (6.2)], with most cases occurring in pediatric patients ≤18 years of age.
+Drug-induced enterocolitis syndrome (DIES) has been reported with use of amoxicillin, a component of amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL, [see Adverse Reactions (6.2)], with most cases occurring in pediatric patients ≤18 years of age.
 DIES is a non-IgE mediated hypersensitivity reaction characterized by protracted vomiting occurring 1 to 4 hours after drug ingestion in the absence of skin or respiratory symptoms.
 DIES may be associated with pallor, lethargy, hypotension, shock, diarrhea within 24 hours after ingesting amoxicillin, and leukocytosis with neutrophilia.
 If DIES occurs, discontinue amoxicillin and clavulanate potassium for oral suspension, 600 mg/42.9 mg per 5 mL and institute appropriate therapy.
@@ -42,7 +42,7 @@ Appropriate fluid and electrolyte management, protein supplementation, antibacte
 ## 5.6 Skin Rash in Patients with Mononucleosis
 
 A high percentage of patients with mononucleosis who receive amoxicillin develop an erythematous skin rash.
-Thus, amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL should not be administered to patients with mononucleosis.
+Avoid amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL use in patients with mononucleosis.
 
 ## 5.7 Potential for Microbial Overgrowth
 
@@ -52,7 +52,7 @@ If superinfections occur (usually involving Pseudomonas spp. or Candida spp.), t
 ## 5.8 Phenylketonurics
 
 Amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL contains aspartame which contains phenylalanine.
-Each 5 mL of the 600 mg/42.9 mg per 5 mL suspension of amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL Powder for Oral Suspension contains 7 mg phenylalanine.
+Each 5 mL of suspension of amoxicillin and clavulanate potassium for oral suspension 600 mg/42.9 mg per 5 mL contains 7 mg phenylalanine.
 
 ## 5.9 Development of Drug-Resistant Bacteria
 
