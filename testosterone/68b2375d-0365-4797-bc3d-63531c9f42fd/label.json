@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA021015"
+  ],
+  "inn": "testosterone",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-953-44",
+    "66993-953-88",
+    "66993-954-30",
+    "66993-955-30"
+  ],
+  "products": [
+    {
+      "form": "GEL",
+      "generic": "testosterone",
+      "name": "Testosterone"
+    }
+  ],
+  "setid": "68b2375d-0365-4797-bc3d-63531c9f42fd",
+  "source": "dailymed"
+}
