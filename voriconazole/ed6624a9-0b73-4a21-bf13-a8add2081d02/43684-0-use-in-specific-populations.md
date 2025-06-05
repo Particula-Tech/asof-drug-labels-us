@@ -8,14 +8,14 @@ Voriconazole can cause fetal harm when administered to a pregnant woman.
 There are no available data on the use of voriconazole in pregnant women.
 In animal reproduction studies, oral voriconazole was associated with fetal malformations in rats and fetal toxicity in rabbits.
 Cleft palates and hydronephrosis/hydroureter were observed in rat pups exposed to voriconazole during organogenesis at and above 10 mg/kg (0.3 times the RMD of 200 mg every 12 hours based on body surface area comparisons).
-In rabbits, embryomortality, reduced fetal weight and increased incidence of skeletal variations, cervical ribs and extrasternal ossification sites were observed in pups when pregnant rabbits were orally dosed at 100 mg/kg (6 times the RMD based on body surface area comparisons) during organogenesis.
+In rabbits, embryo mortality, reduced fetal weight and increased incidence of skeletal variations, cervical ribs and extrasternal ossification sites were observed in pups when pregnant rabbits were orally dosed at 100 mg/kg (6 times the RMD based on body surface area comparisons) during organogenesis.
 Rats exposed to voriconazole from implantation to weaning experienced increased gestational length and dystocia, which were associated with increased perinatal pup mortality at the 10 mg/kg dose [see Data].
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, inform the patient of the potential hazard to the fetus [see Warnings and Precautions (5.9)].
 
 The background risk of major birth defects and miscarriage for the indicated populations is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20% respectively.
 
-Data
+### Data
 
 Animal Data
 
