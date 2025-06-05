@@ -49,9 +49,9 @@ Following induction, the patient may then be transitioned to once‐daily SUBOXO
 
 - For maintenance, SUBOXONE sublingual film may be administered buccally or sublingually.
 - The dosage of SUBOXONE sublingual film from Day 3 onwards should be progressively adjusted in increments/decrements of 2 mg/0.5 mg or 4 mg/1 mg buprenorphine/naloxone to a level that holds the patient in treatment and suppresses opioid withdrawal signs and symptoms.
-- After treatment induction and stabilization, the maintenance dose of SUBOXONE sublingual film is generally in the range of 4 mg/1 mg buprenorphine/naloxone to 24 mg/6 mg buprenorphine/naloxone per day depending on the individual patient and clinical response.
-  The recommended target dosage of SUBOXONE sublingual film during maintenance is 16 mg/4 mg buprenorphine/naloxone/day as a single daily dose.
-  Dosages higher than 24 mg/6 mg daily have not been demonstrated to provide a clinical advantage.
+- After treatment induction to the recommended dose of 16 mg/4 mg buprenorphine/naloxone per day, dosing should be further adjusted based on the individual patient and clinical response.
+  The maintenance dose of SUBOXONE sublingual film is generally in the range of 4 mg/1 mg buprenorphine/naloxone to 24 mg/6 mg buprenorphine/naloxone per day.
+  Dosages higher than 24 mg/6 mg daily have not been investigated in randomized clinical trials but may be appropriate for some patients.
 - When determining the prescription quantity for unsupervised administration, consider the patient's level of stability, the security of his or her home situation, and other factors likely to affect the ability to manage supplies of take‐home medication.
 - There is no maximum recommended duration of maintenance treatment.
   Patients may require treatment indefinitely and should continue for as long as patients are benefiting and the use of SUBOXONE sublingual film contributes to the intended treatment goals.

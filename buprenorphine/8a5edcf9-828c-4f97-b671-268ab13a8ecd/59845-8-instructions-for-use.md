@@ -10,7 +10,7 @@ Important Information You Need to Know Before Taking SUBOXONE sublingual film:
 - Each SUBOXONE sublingual film comes in a sealed child‐resistant foil pouch.
   Do not open the foil pouch until you are ready to take it.
 
-Preparing to take SUBOXONEsublingual film:
+Preparing to take SUBOXONE sublingual film:
 
 - To open your SUBOXONE sublingual film foil pouch, fold along the dotted line (see Figure 1).
   Figure 1
@@ -63,11 +63,11 @@ Disposing of SUBOXONE Sublingual Film:
 - Dispose of unused SUBOXONE sublingual film as soon as you no longer need them.
 - Dispose of expired, unwanted or unused SUBOXONE sublingual film by removing the SUBOXONE sublingual film from the foil packaging, and promptly flushing down the toilet (if a drug take-back option is not readily available).
   Do not flush the SUBOXONE sublingual film foil pouch down the toilet.
-  Visit www.fda.gov/drugdisposalfor additional information on disposal of unused medicines.
+  Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
 If you need help with disposal of SUBOXONE sublingual film, call 1‐877‐782‐6966.
 
-SUBOXONE ®is a registered trademark of Indivior UK Limited.
+SUBOXONE® is a registered trademark of Indivior UK Limited.
 
 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.
 Revised 06/2022

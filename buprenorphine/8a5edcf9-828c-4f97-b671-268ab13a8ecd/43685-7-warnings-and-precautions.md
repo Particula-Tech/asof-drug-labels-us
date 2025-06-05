@@ -99,9 +99,7 @@ Cases of cytolytic hepatitis and hepatitis with jaundice have been observed in i
 The spectrum of abnormalities ranges from transient asymptomatic elevations in hepatic transaminases to case reports of death, hepatic failure, hepatic necrosis, hepatorenal syndrome, and hepatic encephalopathy.
 In many cases, the presence of pre‐existing liver enzyme abnormalities, infection with hepatitis B or hepatitis C virus, concomitant usage of other potentially hepatotoxic drugs, and ongoing injecting drug use may have played a causative or contributory role.
 In other cases, insufficient data were available to determine the etiology of the abnormality.
-Withdrawal of buprenorphine has resulted in amelioration of acute hepatitis in some cases;
-
-however, in other cases no dose reduction was necessary.
+Withdrawal of buprenorphine has resulted in amelioration of acute hepatitis in some cases; however, in other cases no dose reduction was necessary.
 The possibility exists that buprenorphine had a causative or contributory role in the development of the hepatic abnormality in some cases.
 Liver function tests, prior to initiation of treatment, are recommended to establish a baseline.
 Periodic monitoring of liver function during treatment is also recommended.

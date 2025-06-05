@@ -26,14 +26,14 @@ The onset of effects appeared more rapidly with buprenorphine than with the full
 Physiologic Effects
 
 Buprenorphine in IV (2, 4, 8, 12 and 16 mg) and sublingual (12 mg) doses has been administered to opioid- experienced subjects who were not physically dependent to examine cardiovascular, respiratory, and subjective effects at doses comparable to those used for treatment of opioid dependence.
-Compared to placebo, there were no statistically significant differences among any of the treatment conditions for blood pressure, heart rate, respiratory rate, O 2saturation, or skin temperature across time.
+Compared to placebo, there were no statistically significant differences among any of the treatment conditions for blood pressure, heart rate, respiratory rate, O2 saturation, or skin temperature across time.
 Systolic BP was higher in the 8 mg group than placebo (3 hour AUC values).
 Minimum and maximum effects were similar across all treatments.
 Subjects remained responsive to low voice and responded to computer prompts.
 Some subjects showed irritability, but no other changes were observed.
 The respiratory effects of sublingual buprenorphine were compared with the effects of methadone in a double- blind, parallel group, dose ranging comparison of single doses of buprenorphine sublingual solution (1, 2, 4, 8, 16, or 32 mg) and oral methadone (15, 30, 45, or 60 mg) in non-dependent, opioid-experienced volunteers.
 In this study, hypoventilation not requiring medical intervention was reported more frequently after buprenorphine doses of 4 mg and higher than after methadone.
-Both drugs decreased O 2saturation to the same degree.
+Both drugs decreased O2 saturation to the same degree.
 
 Effect of Naloxone
 
@@ -64,7 +64,7 @@ Absorption
 
 In several pharmacokinetic studies following the administration of different dosages, a dose of one or two of the 2 mg/0.5 mg SUBOXONE sublingual films administered sublingually or buccally showed comparable relative bioavailability to the same total dose of SUBOXONE sublingual tablets.
 In contrast, one 8 mg/2 mg and one 12 mg/3 mg SUBOXONE sublingual films administered sublingually or buccally showed higher relative bioavailability for both buprenorphine and naloxone compared to the same total dose of SUBOXONE sublingual tablets.
-A combination of one 8 mg/2 mg and two 2 mg/0.5 mg SUBOXONE sublingual films (total dose of 12 mg/ 3 mg) administered sublingually showed comparable relative bioavailability to the same total dose of SUBOXONE sublingual tablets, while buccally administered SUBOXONE sublingual films showed higher relative bioavailability.
+A combination of one 8 mg/2 mg and two 2 mg/0.5 mg SUBOXONE sublingual films (total dose of 12 mg/3 mg) administered sublingually showed comparable relative bioavailability to the same total dose of SUBOXONE sublingual tablets, while buccally administered SUBOXONE sublingual films showed higher relative bioavailability.
 Table 5, below, illustrates the relative increase in exposure to buprenorphine and naloxone associated with SUBOXONE sublingual films compared to SUBOXONE sublingual tablets, and shows the effect of route of administration [see Dosage and Administration (2.9, 2.10)].
 
 Across relevant pharmacokinetic studies, the pharmacokinetic parameters and exposures derived from the buccal and sublingual administrations of SUBOXONE sublingual film were comparable to one another.
@@ -75,18 +75,18 @@ Changes in Pharmacokinetic Parameters for SUBOXONE Sublingual Film Administered 
 | Dosage | PK Parameter | Increase in Buprenorphine |  |  | PK Parameter | Increase in Naloxone |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Film Sublingual Compared to Tablet Sublingual | Film Buccal Compared to Tablet Sublingual | Film Buccal Compared to Film Sublingual | Film Sublingual Compared to Tablet Sublingual | Film Buccal Compared to Tablet Sublingual | Film Buccal Compared to Film Sublingual |  |  |  |
-| 1 x 2 mg/0.5 mg | C max | 22% | 25% | - | C max | - | - | - |
-| AUC 0-last | - | 19% | - | AUC 0-last | - | - | - |  |
-| 2 x 2 mg/0.5 mg | C max | - | 21% | 21% | C max | - | 17% | 21% |
-| AUC 0-last | - | 23% | 16% | AUC 0-last | - | 22% | 24% |  |
-| 1 x 8 mg/2 mg | C max | 28% | 34% | - | C max | 41% | 54% | - |
-| AUC 0-last | 20% | 25% | - | AUC 0-last | 30% | 43% | - |  |
-| 1 x 12 mg/3 mg | C max | 37% | 47% | - | C max | 57% | 72% | 9% |
-| AUC 0-last | 21% | 29% | - | AUC 0-last | 45% | 57% | - |  |
-| 1 x 8 mg/2 mg plus 2 x 2 mg/0.5 mg | C max | - | 27% | 13% | C max | 17% | 38% | 19% |
-| AUC 0-last | - | 23% | - | AUC 0-last | - | 30% | 19% |  |
-| 1 x 16 mg/4 mg film | C max | 34% | 29% | 7% | C max | 44% | 46% | 9% |
-| AUC 0-last | 32% | - | - | AUC 0-last | 49% | 36% | 3% |  |
+| 1 x 2 mg/0.5 mg | Cmax | 22% | 25% | - | Cmax | - | - | - |
+| AUC0-last | - | 19% | - | AUC0-last | - | - | - |  |
+| 2 x 2 mg/0.5 mg | Cmax | - | 21% | 21% | Cmax | - | 17% | 21% |
+| AUC0-last | - | 23% | 16% | AUC0-last | - | 22% | 24% |  |
+| 1 x 8 mg/2 mg | Cmax | 28% | 34% | - | Cmax | 41% | 54% | - |
+| AUC0-last | 20% | 25% | - | AUC0-last | 30% | 43% | - |  |
+| 1 x 12 mg/3 mg | Cmax | 37% | 47% | - | Cmax | 57% | 72% | 9% |
+| AUC0-last | 21% | 29% | - | AUC0-last | 45% | 57% | - |  |
+| 1 x 8 mg/2 mg plus 2 x 2 mg/0.5 mg | Cmax | - | 27% | 13% | Cmax | 17% | 38% | 19% |
+| AUC0-last | - | 23% | - | AUC0-last | - | 30% | 19% |  |
+| 1 x 16 mg/4 mg film | Cmax | 34% | 29% | 7% | Cmax | 44% | 46% | 9% |
+| AUC0-last | 32% | - | - | AUC0-last | 49% | 36% | 3% |  |
 | Note: 1. the 16 mg/4 mg strength film is not marketed; it is compositionally proportional to the 8 mg/2 mg strength film and has the same size of 2 x 8 mg/2 mg film. 2. – represents no change when the 90% confidence intervals for the geometric mean ratios of the Cmax and AUC0-last values are within the 80% to 125% limit. 3. There are no data for the 4 mg/1 mg strength film; it is compositionally proportional to 2 mg/0.5 mg strength film and has the same size of 2 x 2 mg/0.5 mg film strength. |  |  |  |  |  |  |  |  |
 
 Distribution
@@ -104,9 +104,7 @@ Metabolism
 
 Buprenorphine undergoes both N-dealkylation to norbuprenorphine and glucuronidation.
 The N-dealkylation pathway is mediated primarily by the CYP3A4.
-Norbuprenorphine, the major metabolite, can further undergo
-
-glucuronidation.
+Norbuprenorphine, the major metabolite, can further undergo glucuronidation.
 Norbuprenorphine has been found to bind opioid receptors in vitro; however, it has not been studied clinically for opioid-like activity.
 Naloxone undergoes direct glucuronidation to naloxone-3-glucuronide as well as N-dealkylation, and reduction of the 6-oxo group.
 
@@ -122,7 +120,7 @@ Drug Interactions Studies
 
 CYP3A4 Inhibitors and Inducers
 
-Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine, has been found to be a moderate CYP2D6 inhibitor in in vitrostudies employing human liver microsomes.
+Buprenorphine has been found to be a CYP2D6 and CYP3A4 inhibitor and its major metabolite, norbuprenorphine, has been found to be a moderate CYP2D6 inhibitor in in vitro studies employing human liver microsomes.
 However, the relatively low plasma concentrations of buprenorphine and norbuprenorphine resulting from therapeutic doses are not expected to raise significant drug-drug interaction concerns [see Drug Interactions (7)].
 
 Specific Populations
@@ -132,25 +130,25 @@ Hepatic Impairment
 In a pharmacokinetic study, the disposition of buprenorphine and naloxone were determined after administering a 2.0/0.5 mg SUBOXONE sublingual tablet in subjects with varied degrees of hepatic impairment as indicated by Child-Pugh criteria.
 The disposition of buprenorphine and naloxone in patients with hepatic impairment were compared to disposition in subjects with normal hepatic function.
 
-In subjects with mild hepatic impairment, the changes in mean C max, AUC 0-last, and half-life values of both buprenorphine and naloxone were not clinically significant.
+In subjects with mild hepatic impairment, the changes in mean Cmax, AUC0-last, and half-life values of both buprenorphine and naloxone were not clinically significant.
 No dosing adjustment is needed in patients with mild hepatic impairment.
 
-For subjects with moderate and severe hepatic impairment, mean C max, AUC 0-last, and half-life values of both buprenorphine and naloxone were increased; the effects on naloxone are greater than that on buprenorphine (Table 6).
+For subjects with moderate and severe hepatic impairment, mean Cmax, AUC0-last, and half-life values of both buprenorphine and naloxone were increased; the effects on naloxone are greater than that on buprenorphine (Table 6).
 
 Table 6.
 Changes in Pharmacokinetic Parameters in Subjects With Moderate and Severe Hepatic Impairment
 
 | Hepatic Impairment | PK Parameters | Increase in buprenorphine compared to healthy subjects | Increase in naloxone compared to healthy subjects |
 | --- | --- | --- | --- |
-| Moderate | C max | 8% | 170% |
-| AUC 0-last | 64% | 218% |  |
+| Moderate | Cmax | 8% | 170% |
+| AUC0-last | 64% | 218% |  |
 | Half-life | 35% | 165% |  |
-| Severe | C max | 72% | 1030% |
-| AUC 0-last | 181% | 1302% |  |
+| Severe | Cmax | 72% | 1030% |
+| AUC0-last | 181% | 1302% |  |
 | Half-life | 57% | 122% |  |
 
 The difference in magnitude of the effects on naloxone and buprenorphine are greater in subjects with severe hepatic impairment than subjects with moderate hepatic impairment [see Warnings and Precautions (5.12), Use in Specific Populations (8.6)].
 
 HCV infection
 
-In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean C max, AUC 0-last, and half-life values of buprenorphine and naloxone were not clinically significant in comparison to healthy subjects without HCV infection.
+In subjects with HCV infection but no sign of hepatic impairment, the changes in the mean Cmax, AUC0-last, and half-life values of buprenorphine and naloxone were not clinically significant in comparison to healthy subjects without HCV infection.

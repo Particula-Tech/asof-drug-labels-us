@@ -66,10 +66,10 @@ Instruct patients to read the Medication Guide each time SUBOXONE sublingual fil
   It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 - Advise patients to inform their family members that, in the event of emergency, the treating healthcare provider or emergency room staff should be informed that the patient is physically dependent on an opioid and that the patient is being treated with SUBOXONE sublingual film.
 
-© 2023, Indivior UK Limited.
+© 2025, Indivior UK Limited.
 All Rights Reserved.
 
-SUBOXONE ®and SUBUTEX ®are registered trademarks of Indivior UK Limited.
+SUBOXONE® and SUBUTEX® are registered trademarks of Indivior UK Limited.
 
 Manufactured for Indivior Inc.
 
