@@ -1,0 +1,87 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+Dosage and Administration for testosterone gel 1.62% differs from testosterone gel 1%.
+For dosage and administration of testosterone gel 1% refer to its full prescribing information.
+(2)
+
+Prior to initiating testosterone gel 1.62%, confirm the diagnosis of hypogonadism by ensuring that serum testosterone concentrations have been measured in the morning on at least two separate days and that these serum testosterone concentrations are below the normal range.
+
+## 2.1 Dosing and Dose Adjustment
+
+The recommended starting dose of testosterone gel 1.62% is 40.5 mg of testosterone (2 pump actuations or a single 40.5 mg packet) applied topically once daily in the morning to the shoulders and upper arms.
+
+The dose can be adjusted between a minimum of 20.25 mg of testosterone (1 pump actuation or a single 20.25 mg packet) and a maximum of 81 mg of testosterone (4 pump actuations or two 40.5 mg packets).
+To ensure proper dosing, the dose should be titrated based on the pre-dose morning serum testosterone concentration from a single blood draw at approximately 14 days and 28 days after starting treatment or following dose adjustment.
+In addition, serum testosterone concentration should be assessed periodically thereafter.
+Table 1 describes the dose adjustments required at each titration step.
+
+Table 1: Dose Adjustment Criteria
+
+| Pre-Dose Morning Total Serum Testosterone Concentration | Dose Titration |
+| --- | --- |
+| Greater than 750 ng/dL | Decrease daily dose by 20.25 mg (1 pump actuation or the equivalent of one 20.25 mg packet) |
+| Equal to or greater than 350 and equal to or less than 750 ng/dL | No change: continue on current dose |
+| Less than 350 ng/dL | Increase daily dose by 20.25 mg (1 pump actuation or the equivalent of one 20.25 mg packet) |
+
+The application site and dose of testosterone gel 1.62% are not interchangeable with other topical testosterone products.
+
+## 2.2 Administration Instructions
+
+Testosterone gel 1.62% should be applied to clean, dry, intact skin of the upper arms and shoulders.
+Do not apply testosterone gel 1.62% to any other parts of the body, including the abdomen, genitals, chest, armpits (axillae), or knees [see Clinical Pharmacology (12.3)].
+Area of application should be limited to the area that will be covered by the patient's short sleeve t-shirt.
+Patients should be instructed to use the palm of the hand to apply testosterone gel 1.62% and spread across the maximum surface area as directed in Table 2 (for pump) and Table 3 (for packets) and in Figure 1.
+
+Table 2: Application Sites for Testosterone Gel 1.62%, Pump
+
+| Total Dose of Testosterone | Total Pump Actuations | Pump Actuations Per Upper Arm and Shoulder |  |
+| --- | --- | --- | --- |
+|  |  | Upper Arm and Shoulder #1 | Upper Arm and Shoulder #2 |
+| 20.25 mg | 1 | 1 | 0 |
+| 40.5 mg | 2 | 1 | 1 |
+| 60.75 mg | 3 | 2 | 1 |
+| 81 mg | 4 | 2 | 2 |
+
+Table 3: Application Sites for Testosterone Gel 1.62%, Packets
+
+| Total Dose of Testosterone | Total packets | Gel Applications Per Upper Arm and Shoulder |  |
+| --- | --- | --- | --- |
+|  |  | Upper Arm and Shoulder #1 | Upper Arm and Shoulder #2 |
+| 20.25 mg | One 20.25 mg packet | One 20.25 mg packet | 0 |
+| 40.5 mg | One 40.5 mg packet | Half of contents of One 40.5 mg packet | Half of contents of One 40.5 mg packet |
+| 60.75 mg | One 20.25 mg packet AND One 40.5 mg packet | One 40.5 mg packet | One 20.25 mg packet |
+| 81 mg | Two 40.5 mg packets | One 40.5 mg packet | One 40.5 mg packet |
+
+The prescribed daily dose of testosterone gel 1.62% should be applied to the right and left upper arms and shoulders as shown in the shaded areas in Figure 1.
+
+Figure 1.
+Application Sites for Testosterone Gel 1.62%
+
+Once the application site is dry, the site should be covered with clothing [see Clinical Pharmacology (12.3)].
+Wash hands thoroughly with soap and water.
+Avoid fire, flames or smoking until the gel has dried since alcohol based products, including testosterone gel 1.62%, are flammable.
+
+The patient should avoid swimming or showering or washing the administration site for a minimum of 2 hours after application [see Clinical Pharmacology (12.3)].
+
+To obtain a full first dose, it is necessary to prime the canister pump.
+To do so, with the canister in the upright position, slowly and fully depress the actuator three times.
+Safely discard the gel from the first three actuations.
+It is only necessary to prime the pump before the first dose.
+
+After the priming procedure, fully depress the actuator once for every 20.25 mg of testosterone gel 1.62%.
+Testosterone gel 1.62% should be delivered directly into the palm of the hand and then applied to the application sites.
+
+When using packets, the entire contents should be squeezed into the palm of the hand and immediately applied to the application sites.
+When 40.5 mg packets need to be split between the left and right shoulder, patients may squeeze a portion of the gel from the packet into the palm of the hand and apply to application sites.
+Repeat until entire contents have been applied.
+Alternatively, testosterone gel 1.62% can be applied directly to the application sites from the pump or packets.
+
+Strict adherence to the following precautions is advised in order to minimize the potential for secondary exposure to testosterone from testosterone gel 1.62%-treated skin:
+
+- Children and women should avoid contact with unwashed or unclothed application site(s) of men using testosterone gel 1.62%.
+- Testosterone gel 1.62% should only be applied to the upper arms and shoulders.
+  The area of application should be limited to the area that will be covered by a short sleeve t-shirt.
+- Patients should wash their hands with soap and water immediately after applying testosterone gel 1.62%.
+- Patients should cover the application site(s) with clothing (e.g., a t-shirt) after the gel has dried.
+- Prior to situations in which direct skin-to-skin contact is anticipated, patients should wash the application site(s) thoroughly with soap and water to remove any testosterone residue.
+- In the event that unwashed or unclothed skin to which testosterone gel 1.62% has been applied comes in direct contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible.

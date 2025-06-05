@@ -1,0 +1,14 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Insulin
+
+Changes in insulin sensitivity or glycemic control may occur in patients treated with androgens.
+In diabetic patients, the metabolic effects of androgens may decrease blood glucose and, therefore, may decrease insulin requirements.
+
+## 7.2 Oral Anticoagulants
+
+Changes in anticoagulant activity may be seen with androgens, therefore more frequent monitoring of international normalized ratio (INR) and prothrombin time are recommended in patients taking anticoagulants, especially at the initiation and termination of androgen therapy.
+
+## 7.3 Corticosteroids
+
+The concurrent use of testosterone with adrenocorticotropic hormone (ACTH) or corticosteroids may result in increased fluid retention and requires careful monitoring particularly in patients with cardiac, renal or hepatic disease.
