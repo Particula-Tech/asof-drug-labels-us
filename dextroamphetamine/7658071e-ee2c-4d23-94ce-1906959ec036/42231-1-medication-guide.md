@@ -124,7 +124,7 @@ Call your healthcare provider right away if you or your child have any signs of 
 - tremors, stiff muscles, or muscle twitching
 - seeing or hearing things that are not real (hallucination)
 - changes in blood pressure
-- high body temperature (hypothermia)
+- high body temperature (hyperthermia)
 - nausea, vomiting, diarrhea
 
 The most common side effects of Dextroamphetamine Sulfate Oral Solution include:
@@ -178,10 +178,10 @@ For: Cranbury Pharmaceuticals, LLC Monmouth Junction, NJ 08852
 LB8256
 
 Rev.
-07
+08
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 08/2024
+Revised: 05/2025
 
 Dispense with Medication Guide available at: https://www.cranburypharma.com/products/
