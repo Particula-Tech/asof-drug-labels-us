@@ -1,5 +1,17 @@
 # Package/Label Display Panel
 
+NDC 0172-3444-80
+
+Hydrochlorothiazide Tablets, USP
+
+12.5 mg
+
+Rx only
+
+1,000 Tablets
+
+# Package/Label Display Panel
+
 NDC 0172-2083-60
 
 Hydrochlorothiazide Tablets, USP
