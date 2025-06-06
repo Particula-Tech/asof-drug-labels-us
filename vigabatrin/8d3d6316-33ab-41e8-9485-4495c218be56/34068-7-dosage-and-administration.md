@@ -28,7 +28,7 @@ If a decision is made to discontinue VIGAFYDE, the dose should be gradually redu
 
 The initial daily dosing is 50 mg/kg/day given in two divided doses (25 mg/kg twice daily); subsequent dosing can be titrated by 25 mg/kg/day to 50 mg/kg/day increments every 3 days, up to a maximum of 150 mg/kg/day given in 2 divided doses (75 mg/kg twice daily) [see Use in Specific Populations (8.4)].
 
-Table 1 provides the volume of the 50 mg/mL dosing solution that should be administered as individual doses in infants of various weights.
+Table 1 provides the volume of the 100 mg/mL dosing solution that should be administered as individual doses in infants of various weights.
 
 Table 1.
 Dosing of VIGAFYDE for Infantile Spasms
