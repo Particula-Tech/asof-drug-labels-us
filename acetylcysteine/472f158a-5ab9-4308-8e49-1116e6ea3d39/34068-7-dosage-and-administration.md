@@ -39,32 +39,30 @@ The nomogram may underestimate the hepatotoxicity risk in patients with chronic 
 
 Loading dose
 
-For patients whose acetaminophen concentrations are at or above the “possible” treatment line (dotted line in nomogram):
+For patients whose acetaminophen concentrations are at or above the treatment line (see Figure 1):
 
 - Administer a loading dose of ACETADOTE [see Dosage and Administration (2.5)].
 
-For patients with an acute overdose from an extended-release acetaminophen, if the acetaminophen concentration at 4 hours post ingestion is below the possible treatment line then obtain a second sample for acetaminophen concentration 8 to 10 hours after the acute ingestion.
-If the second value is at or above the “possible” treatment line (dotted line in nomogram):
+For patients with an acute overdose from an extended-release acetaminophen, if the acetaminophen concentration at 4 hours post ingestion is below the treatment line (see Figure 1) then obtain a second sample for acetaminophen concentration 8 to 10 hours after the acute ingestion.
+If the second value is at or above the treatment line:
 
 - Administer a loading dose of ACETADOTE [see Dosage and Administration (2.5)].
 
-For patients whose values are below the “possible” treatment line, but time of ingestion was unknown or sample was obtained less than 4 hours after ingestion:
+For patients whose values are below the treatment line (see Figure 1), but time of ingestion was unknown or sample was obtained less than 4 hours after ingestion:
 
 - Administer a loading dose of ACETADOTE [see Dosage and Administration (2.5)].
 
-For patients whose values are below the “possible” treatment line and time of ingestion is known and the sample was obtained more than 4 hours after ingestion, do not administer ACETADOTE because there is minimal risk of hepatotoxicity.
+For patients whose values are below the treatment line (see Figure 1) and time of ingestion is known and the sample was obtained more than 4 hours after ingestion, do not administer ACETADOTE because there is minimal risk of hepatotoxicity.
 
 Figure 1.
-Revised Rumack-Matthew Nomogram for Estimating Potential for Hepatoxicity for Acetaminophen Poisioning – Plasma or Serum Acetaminophen Concentration versus Time (hours) Post-acetaminophen Ingestion
-
-(Dart et al., JAMA Network Open 2023; 6(89): e2337926)
+Revised Rumack-Matthew Nomogram for Estimating Risk of Hepatoxicity After Acute Ingestion of Acetaminophen
 
 Maintenance Dose
 
 Determine the need for continued treatment with ACETADOTE after the loading dose.
 Choose ONE of the following based on the acetaminophen concentration:
 
-The acetaminophen concentration is above the possible treatment line according to the nomogram (see Figure 1):
+The acetaminophen concentration is above the treatment line (see Figure 1) according to the nomogram:
 
 - Continue ACETADOTE treatment with the maintenance dose for a total of either two or three separate doses over an infusion time of 20 or 21 hours, respectively [see Dosage and Administration (2.5)].
 - Monitor hepatic and renal function and electrolytes throughout treatment.
@@ -74,7 +72,7 @@ The acetaminophen concentration could not be obtained:
 - Continue ACETADOTE treatment with the maintenance dose for a total of either two or three separate doses over an infusion time of 20 or 21 hours, respectively [see Dosage and Administration (2.5)].
 - Monitor hepatic and renal function and electrolytes throughout treatment.
 
-For patients whose acetaminophen concentration is below the “possible” treatment line (see Figure 1) and time of ingestion is known and the sample was obtained more than 4 hours after ingestion:
+For patients whose acetaminophen concentration is below the treatment line (see Figure 1) and time of ingestion is known and the sample was obtained more than 4 hours after ingestion:
 
 - Discontinue ACETADOTE.
 

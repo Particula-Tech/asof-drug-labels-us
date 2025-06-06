@@ -17,8 +17,6 @@ The ACETADOTE infusion may be carefully restarted after treatment of the hyperse
 ## 5.2 Fluid Overload
 
 The total volume of ACETADOTE administered should be adjusted for patients less than 40 kg and for those requiring fluid restriction.
-To avoid fluid overload, the volume of diluent should be reduced as needed [see Dosage and Administration (2)].
-If volume is not adjusted fluid overload can occur, potentially resulting in hyponatremia, seizure and death.
 
-Intravenous administration of ACETADOTE can cause fluid overload, potentially resulting in hyponatremia, seizure and death.
+Intravenous administration of ACETADOTE can cause fluid overload, potentially resulting in hyponatremia, seizure, and death.
 To avoid fluid overload, use the recommended dilutions [see Dosage and Administration (2.5)].
