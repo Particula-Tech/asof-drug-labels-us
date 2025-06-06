@@ -6,7 +6,7 @@ The effect of macitentan on progression of PAH was demonstrated in a multi-cente
 Patients were treated with macitentan tablets monotherapy or in combination with another PAH therapy.
 
 The primary study endpoint was time to the first occurrence of death, a significant morbidity event, defined as atrial septostomy, lung transplantation, initiation of IV or subcutaneous (SC) prostanoids, or "other worsening of PAH" during double-blind treatment plus 7 days.
-Other worsening was defined as all of the following: 1) a sustained 15% decrease from baseline in 6 minute walk distance (6MWD), 2) worsening of PAH symptoms (worsening of WHO FC), and 3) need for additional treatment for PAH.
+Other worsening was defined as all of the following: 1) a sustained ≥15% decrease from baseline in 6 minute walk distance (6MWD), 2) worsening of PAH symptoms (worsening of WHO FC), and 3) need for additional treatment for PAH.
 All of these other worsening events were confirmed by an independent adjudication committee, blinded to treatment allocation.
 A critical secondary endpoint was time to PAH death or PAH hospitalization.
 

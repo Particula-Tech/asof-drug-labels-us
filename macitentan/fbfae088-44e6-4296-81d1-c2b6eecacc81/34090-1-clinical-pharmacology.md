@@ -42,7 +42,7 @@ Metabolism and Elimination
 
 Following oral administration, the apparent elimination half-lives of macitentan and its active metabolite are approximately 16 hours and 48 hours, respectively.
 Macitentan is metabolized primarily by oxidative depropylation of the sulfamide to form the pharmacologically active metabolite.
-This reaction is dependent on the cytochrome P450 (CYP) system, mainly CYP3A4 with a minor contributions of CYP2C8, CYP2C9, and CYP2C19.
+This reaction is dependent on the cytochrome P450 (CYP) system, mainly CYP3A4 with minor contributions of CYP2C8, CYP2C9, and CYP2C19.
 At steady state in PAH patients, the systemic exposure to the active metabolite is 3-times the exposure to macitentan and is expected to contribute approximately 40% of the total pharmacologic activity.
 In a study in healthy subjects with radiolabeled macitentan, approximately 50% of radioactive drug material was eliminated in urine but none was in the form of unchanged drug or the active metabolite.
 About 24% of the radioactive drug material was recovered from feces.
@@ -66,7 +66,7 @@ Drug Interactions
 In Vitro Studies
 
 At plasma levels obtained with dosing at 10 mg once daily, macitentan has no relevant inhibitory or inducing effects on CYP enzymes.
-Macitentan is not a substrate or inhibitor of the multi-drug resistance protein (P-gp, MDR-1).
+Macitentan is not a substrate or inhibitor of multi-drug resistance protein (P-gp, MDR-1).
 The active metabolite of macitentan also is not an inhibitor of P-gp/MDR-1 at clinically relevant concentrations.
 
 Macitentan and its active metabolite are not expected to have significant interaction with drug transporters such as organic anion transporting polypeptide (OATP1B1, OATP1B3), multidrug and toxin extrusion protein (MATE-1, MATE-2K), bile salt export pump (BSEP), sodiumtaurocholate co-transporting polypeptide (NTCP), organic cation transporter (OCT-1, OCT-3), organic anion transporter (OAT-1, OAT-3) or BCRP transporter at clinically relevant plasma concentrations.

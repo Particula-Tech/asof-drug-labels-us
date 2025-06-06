@@ -9,5 +9,5 @@ Macitentan is a crystalline powder that is insoluble in water.
 In the solid state macitentan is very stable, is not hygroscopic, and is not light sensitive.
 
 Macitentan tablets are available as a 10 mg film-coated tablet for once daily oral administration.
-The tablets include the following inactive ingredients: silicified microcrystalline cellulose, mannitol 25, sodium starch glycolate (Type-A), povidone K-30, polysorbate 80, cellulose microcrystalline, magnesium stearate.
-The tablets are film-coated with a coating material containing polyvinyl alcohol-part, hydrolyzed, titanium dioxide, talc, lecithin (soya), and xanthan gum.
+The tablets include the following inactive ingredients: cellulose microcrystalline, magnesium stearate, mannitol 25, polysorbate 80, povidone K- 30, silicified microcrystalline cellulose, and sodium starch glycolate (Type-A).
+The tablets are film-coated with a coating material containing lecithin (soya), polyvinyl alcohol-part, hydrolyzed, talc, titanium dioxide, and xanthan gum.

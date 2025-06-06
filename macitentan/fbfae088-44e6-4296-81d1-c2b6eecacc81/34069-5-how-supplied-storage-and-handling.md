@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Macitentan tablets are 10 mg White to off white colored, round shaped, biconvex, film coated tablet debossed with 'J5' on one side and plain on the other side and supplied as follows:
+Macitentan tablets are 10 mg white to off white colored, round shaped, biconvex, film coated tablet debossed with 'J5' on one side and plain on the other side and supplied as follows:
 
 30 count bottle pack (NDC 13668-542-30)
 
