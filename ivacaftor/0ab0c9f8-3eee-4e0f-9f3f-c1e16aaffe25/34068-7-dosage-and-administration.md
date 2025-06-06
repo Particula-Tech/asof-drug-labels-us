@@ -6,10 +6,10 @@ The recommended dosage of KALYDECO for adults and pediatric patients aged 6 year
 
 ## 2.2 Recommended Dosage in Pediatric Patients Aged 1 Month to Less than 6 Years
 
-The recommended dosage of KALYDECO (oral granules) for pediatric patients ages 1 month to less than 6 years is weight-based provided in Table 1.
+The recommended dosage of KALYDECO (oral granules) for pediatric patients aged 1 month to less than 6 years is weight-based provided in Table 1.
 Take KALYDECO orally with fat-containing food [see Dosage and Administration (2.5)].
 
-Table 1: Recommended Dosage of KALYDECO Oral Granules by Body Weight in Pediatric Patients Aged 1 month to less than 6 Years
+Table 1: Recommended Dosage of KALYDECO Oral Granules by Body Weight in Pediatric Patients Aged 1 Month to Less than 6 Years
 
 | Age | Body Weight (kg) | KALYDECO Dosage |
 | --- | --- | --- |
@@ -27,15 +27,15 @@ The following is the recommended dosage of KALYDECO taken with fat-containing fo
 
 - Mild Hepatic Impairment (Child-Pugh Class A):
   - Less than 6 months of age: KALYDECO is not recommended.
-  - No dose adjustment is necessary for patients aged 6 months or older [see Clinical Pharmacology (12.3)].
+  - No dosage adjustment is necessary for patients aged 6 months or older [see Clinical Pharmacology (12.3)].
 - Moderate Hepatic Impairment (Child-Pugh Class B):
   - Less than 6 months of age: KALYDECO is not recommended.
   - 6 months to less than 6 years of age: one packet (containing 25 mg, 50 mg, or 75 mg ivacaftor) of oral granules once daily based on dosing recommended for age and weight in Table 1 [see Dosage and Administration (2.2)].
   - 6 years of age and older: 150 mg orally once daily.
 - Severe Hepatic Impairment (Child-Pugh Class C): Should not be used in patients less than 6 months of age.
-  In patients 6 months and older should be used with caution.
+  In patients aged 6 months and older should be used with caution.
   KALYDECO has not been studied in patients with severe hepatic impairment (Child-Pugh Class C), but exposure is expected to be higher than in patients with moderate hepatic impairment.
-  Therefore, use with caution at a reduced dose, in patients aged 6 months or older with severe hepatic impairment after weighing the risks and benefits of treatment [see Dosage and Administration (2.1, 2.2) and Clinical Pharmacology (12.3)].
+  Therefore, use with caution at a reduced dosage, in patients aged 6 months or older with severe hepatic impairment after weighing the risks and benefits of treatment [see Dosage and Administration (2.1, 2.2) and Clinical Pharmacology (12.3)].
   - Less than 6 months of age: KALYDECO is not recommended.
   - 6 months to less than 6 years of age: one packet (containing 25 mg, 50 mg, or 75 mg ivacaftor) of oral granules once daily or less frequently based on dosing recommended for age and weight in Table 1 [see Dosage and Administration (2.2)].
   - 6 years of age and older: 150 mg orally once daily or less frequently.
@@ -43,7 +43,7 @@ The following is the recommended dosage of KALYDECO taken with fat-containing fo
 ## 2.4 Dosage Modification for Patients Taking Drugs that are CYP3A Inhibitors
 
 Concomitant use of moderate or strong CYP3A inhibitors is not recommended in patients below 6 months of age.
-Food or drink containing grapefruit should be avoided [see Drug Interactions (7.1), Clinical Pharmacology (12.3)].
+Food or drink containing grapefruit should be avoided [see Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 Take KALYDECO with fat-containing food [see Dosage and Administration (2.5)].
 
 Dosage modification for patients 6 months of age and older taking CYP3A inhibitors:

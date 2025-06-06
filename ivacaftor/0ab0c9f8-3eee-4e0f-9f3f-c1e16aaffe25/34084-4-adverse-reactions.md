@@ -76,12 +76,11 @@ KALYDECO was permanently discontinued in one patient [see Warnings and Precautio
 During the 24-week, open-label, clinical trial in patients aged less than 24 months (Trial 8), the incidence of patients experiencing transaminase elevations (ALT or AST) >3, >5, and >8 × ULN in the cohort of patients aged 12 months to less than 24 months (N=19) was 27.8% (5/18), 11.1% (2/18) and 11.1% (2/18), respectively.
 In the cohort of patients aged 6 months to less than 12 months (N=11) one patient (9.1%) had elevated ALT of >3 to ≤5 × ULN.
 In the cohort of patients aged 4 months to less than 6 months (N=6), no patients had elevated ALT or AST (>3× ULN).
-In the cohort of patients aged 1 month to less than 4 months (N=7), 1 patient (14.3%) had maximum ALT or AST >3 × ULN (ALT >8 × ULN and AST of >3 to ≤5 × ULN); the patient discontinued ivacaftor treatment.
-[see Warnings and Precautions (5.1)].
+In the cohort of patients aged 1 month to less than 4 months (N=7), 1 patient (14.3%) had maximum ALT or AST >3 × ULN (ALT >8 × ULN and AST of >3 to ≤5 × ULN); the patient discontinued ivacaftor treatment [see Warnings and Precautions (5.1)].
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of KALYDECO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune System Disorders: anaphylaxis
+Immune system disorders: anaphylaxis

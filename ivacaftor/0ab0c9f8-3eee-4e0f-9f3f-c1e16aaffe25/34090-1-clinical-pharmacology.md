@@ -7,7 +7,7 @@ The CFTR protein is a chloride channel present at the surface of epithelial cell
 Ivacaftor facilitates increased chloride transport by potentiating the channel open probability (or gating) of CFTR protein located at the cell surface.
 The overall level of ivacaftor-mediated CFTR chloride transport is dependent on the amount of CFTR protein at the cell surface and how responsive a particular mutant CFTR protein is to ivacaftor potentiation.
 
-CFTR Chloride Transport Assay in Fisher Rat Thyroid (FRT) cells expressing mutant CFTR
+CFTR Chloride Transport Assay in Fischer Rat Thyroid (FRT) cells expressing mutant CFTR
 
 The chloride transport response of mutant CFTR protein to ivacaftor was determined in Ussing chamber electrophysiology studies using a panel of FRT cell lines transfected with individual CFTR mutations.
 Ivacaftor increased chloride transport in FRT cells expressing CFTR mutations that result in CFTR protein being delivered to the cell surface.
@@ -56,7 +56,7 @@ Changes in sweat chloride (a biomarker) response to KALYDECO were evaluated in s
 In a two-part, randomized, double-blind, placebo-controlled, crossover clinical trial in patients with CF who had a G1244E, G1349D, G178R, G551S, G970R, S1251N, S1255P, S549N, or S549R mutation in the CFTR gene (Trial 4), the treatment difference in mean change in sweat chloride from baseline through 8 weeks of treatment was -49 mmol/L (95% CI -57, -41).
 The mean changes in sweat chloride for the mutations for which KALYDECO is indicated ranged from -51 to -8, whereas the range for individual subjects with the G970R mutation was -1 to -11 mmol/L.
 In an open-label clinical trial in 34 patients ages 2 to less than 6 years administered either 50 mg or 75 mg of ivacaftor twice daily (Trial 6), the mean absolute change from baseline in sweat chloride through 24 weeks of treatment was -45 mmol/L (95% CI -53, -38) [see Use in Specific Populations (8.4)].
-In a randomized, double-blind, placebo-controlled, 2-period, 3-treatment, 8-week crossover study in patients with CF age 12 years and older who were heterozygous for the F508del mutation and with a second CFTR mutation predicted to be responsive to ivacaftor (Trial 7), the treatment difference in mean change in sweat chloride from study baseline to the average of Week 4 and Week 8 of treatment for KALYDECO treated patients was -4.5 mmol/L (95% CI -6.7, -2.3).
+In a randomized, double-blind, placebo-controlled, 2-period, 3-treatment, 8-week crossover study in patients with CF aged 12 years and older who were heterozygous for the F508del mutation and with a second CFTR mutation predicted to be responsive to ivacaftor (Trial 7), the treatment difference in mean change in sweat chloride from study baseline to the average of Week 4 and Week 8 of treatment for KALYDECO treated patients was -4.5 mmol/L (95% CI -6.7, -2.3).
 In a 24-week, open-label clinical trial in patients with CF aged less than 24 months administered 5.8 mg, 11.4 mg, 17.1 mg, 22.8 mg, 25 mg, 50 mg, or 75 mg (11.4 mg, 17.1 mg, and 22.8 mg are not recommended dosages) of ivacaftor twice daily (Trial 8), the mean absolute change from baseline in sweat chloride for patients aged 12 months to less than 24 months (n=10) was -73.5 mmol/L (95% CI -86.0, -61.0) at Week 24, the mean absolute change from baseline in sweat chloride for patients aged 6 months to less than 12 months (n=6) was -58.6 mmol/L (95% CI -75.9, -41.3) at Week 24, and the mean absolute change from baseline in sweat chloride for patients aged 4 months to less than 6 months (n=3) was -50 mmol/L (95% CI -93.1, -6.9) at Week 24.
 The mean absolute change from baseline in sweat chloride through 24 weeks for patients aged 1 month to less than 4 months (n=5) was -40.3 mmol/L (95% CI -76.6, -4.1) [see Use in Specific Populations (8.4)].
 
@@ -136,24 +136,24 @@ Table 4: Ivacaftor Exposure by Age Group, Mean (SD)
 
 Patients with Hepatic Impairment
 
-Adult subjects with moderately impaired hepatic function (Child-Pugh Class B, score 7 -9) had similar ivacaftor Cmax, but an approximately two-fold increase in ivacaftor AUC0-∞ compared with healthy subjects matched for demographics.
-Based on simulations of these results, a reduced KALYDECO dose to one tablet or packet of granules once daily is recommended for patients with moderate hepatic impairment aged 6 months and older.
-The impact of mild hepatic impairment (Child-Pugh Class A) on the pharmacokinetics of ivacaftor has not been studied, but the increase in ivacaftor AUC0-∞ is expected to be less than two-fold.
-Therefore, no dose adjustment is necessary for patients with mild hepatic impairment aged 6 months and older.
-The impact of severe hepatic impairment (Child-Pugh Class C, score 10-15) on the pharmacokinetics of ivacaftor has not been studied.
+Adult subjects with moderately impaired hepatic function (Child-Pugh Class B) had similar ivacaftor Cmax, but an approximately twofold increase in ivacaftor AUC0-∞ compared with healthy subjects matched for demographics.
+Based on simulations of these results, a reduced KALYDECO dosage to one tablet or packet of granules once daily is recommended for patients with moderate hepatic impairment aged 6 months and older.
+The impact of mild hepatic impairment (Child-Pugh Class A) on the pharmacokinetics of ivacaftor has not been studied, but the increase in ivacaftor AUC0-∞ is expected to be less than twofold.
+Therefore, no dosage adjustment is necessary for patients with mild hepatic impairment aged 6 months and older.
+The impact of severe hepatic impairment (Child-Pugh Class C) on the pharmacokinetics of ivacaftor has not been studied.
 The magnitude of increase in exposure in these patients is unknown but is expected to be substantially higher than that observed in patients with moderate hepatic impairment.
-When benefits are expected to outweigh the risks, KALYDECO should be used with caution in patients with severe hepatic impairment aged 6 months and older at a dose of one tablet or one packet of granules given once daily or less frequently [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
+When benefits are expected to outweigh the risks, KALYDECO should be used with caution in patients with severe hepatic impairment aged 6 months and older at a dosage of one tablet or one packet of granules given once daily or less frequently [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 KALYDECO is not recommended in patients aged 1 month to less than 6 months with any level of hepatic impairment.
 
 Patients with Renal Impairment
 
 KALYDECO has not been studied in patients with mild, moderate, or severe renal impairment (creatinine clearance less than or equal to 30 mL/min) or in patients with end-stage renal disease.
-No dose adjustments are recommended for mild and moderate renal impairment patients because of minimal elimination of ivacaftor and its metabolites in urine (only 6.6% of total radioactivity was recovered in the urine in a human PK study); however, caution is recommended when administering KALYDECO to patients with severe renal impairment or end-stage renal disease.
+No dosage adjustments are recommended for mild and moderate renal impairment patients because of minimal elimination of ivacaftor and its metabolites in urine (only 6.6% of total radioactivity was recovered in the urine in a human PK study); however, caution is recommended when administering KALYDECO to patients with severe renal impairment or end-stage renal disease.
 
 Male and Female Patients
 
 The effect of gender on KALYDECO pharmacokinetics was evaluated using population pharmacokinetics of data from clinical studies of KALYDECO.
-No dose adjustments are necessary based on gender.
+No dosage adjustments are necessary based on gender.
 
 Drug Interaction Studies
 
@@ -167,9 +167,9 @@ Based on in vitro results, ivacaftor and metabolite M1 have the potential to inh
 Clinical studies showed that KALYDECO is a weak inhibitor of CYP3A and P-gp, but not an inhibitor of CYP2C8.
 In vitro studies suggest that ivacaftor and M1 may inhibit CYP2C9.
 In vitro, ivacaftor, M1, and M6 were not inducers of CYP isozymes.
-Dosing recommendations for co-administered drugs with KALYDECO are shown in Figure 2.
+Dosing recommendations for co-administered drugs with KALYDECO are shown in Figure 1.
 
-| Figure 2: Impact of KALYDECO on Other Drugs |
+| Figure 1: Impact of KALYDECO on Other Drugs |
 | --- |
 | Note: The data obtained with substrates but without co-administration of KALYDECO are used as reference. * NE: Norethindrone; ** EE: Ethinyl Estradiol The vertical lines are at 0.8, 1.0, and 1.25, respectively. |
 
@@ -177,8 +177,8 @@ Potential for Other Drugs to Affect Ivacaftor
 
 In vitro studies showed that ivacaftor and metabolite M1 were substrates of CYP3A enzymes (i.e., CYP3A4 and CYP3A5).
 Exposure to ivacaftor is reduced by concomitant CYP3A inducers and increased by concomitant CYP3A inhibitors [see Dosage and Administration (2.4) and Drug Interactions (7)].
-KALYDECO dosing recommendations for co-administration with other drugs are shown in Figure 3.
+KALYDECO dosing recommendations for co-administration with other drugs are shown in Figure 2.
 
-| Figure 3: Impact of Other Drugs on KALYDECO |
+| Figure 2: Impact of Other Drugs on KALYDECO |
 | --- |
 | Note: The data obtained for KALYDECO without co-administration of inducers or inhibitors are used as reference. The vertical lines are at 0.8, 1.0, and 1.25, respectively. |

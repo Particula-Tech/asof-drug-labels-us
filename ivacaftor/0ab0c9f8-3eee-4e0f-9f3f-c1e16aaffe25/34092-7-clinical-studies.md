@@ -24,11 +24,11 @@ The use of inhaled hypertonic saline was not permitted.
 The primary efficacy endpoint in both studies was improvement in lung function as determined by the mean absolute change from baseline in percent predicted pre-dose FEV1 through 24 weeks of treatment.
 
 In both studies, treatment with KALYDECO resulted in a significant improvement in FEV1.
-The treatment difference between KALYDECO and placebo for the mean absolute change in percent predicted FEV1 from baseline through Week 24 was 10.6 percentage points (P<0.0001) in Trial 1 and 12.5 percentage points (P<0.0001) in Trial 2 (Figure 4).
+The treatment difference between KALYDECO and placebo for the mean absolute change in percent predicted FEV1 from baseline through Week 24 was 10.6 percentage points (P<0.0001) in Trial 1 and 12.5 percentage points (P<0.0001) in Trial 2 (Figure 3).
 These changes persisted through 48 weeks.
 Improvements in percent predicted FEV1 were observed regardless of age, disease severity, sex, and geographic region.
 
-| Figure 4: Mean Absolute Change from Baseline in Percent Predicted FEV1 Primary endpoint was assessed at the 24-week time point. |
+| Figure 3: Mean Absolute Change from Baseline in Percent Predicted FEV1 Primary endpoint was assessed at the 24-week time point. |
 | --- |
 
 Other efficacy variables included absolute change from baseline in sweat chloride [see Clinical Pharmacology (12.2)], time to first pulmonary exacerbation (Trial 1 only), absolute change from baseline in weight, and improvement from baseline in Cystic Fibrosis Questionnaire Revised (CFQ-R) respiratory domain score, a measure of respiratory symptoms relevant to patients with CF such as cough, sputum production, and difficulty breathing.
@@ -80,7 +80,7 @@ Table 6: Effect of KALYDECO for Efficacy Variables in the Overall Populations an
 | Mutation (n) | Absolute change in percent predicted FEV1 |  |  | BMI (kg/m2) | CFQ-R Respiratory Domain Score (Points) | Absolute Change in Sweat Chloride (mmol/L) |
 | All patients (n=39) Results shown as mean (95% CI) change from baseline KALYDECO vs. placebo-treated patients: |  |  |  |  |  |  |
 |  | 8.3 (4.5, 12.1) | 10.0 (6.2, 13.8) | 13.8 (9.9, 17.6) | 0.66 Result for weight gain as a component of body mass index was consistent with BMI. (0.34, 0.99) | 12.8 (6.7, 18.9) | -50 (-58, -41) n=36 for the analysis of absolute change in sweat chloride. |
-| Patients grouped under mutation types (n) Results shown as mean (minimum, maximum) for change from baseline for KALYDECO-treated patients Statistical testing was not performed due to small numbers for individual mutations.: |  |  |  |  |  |  |
+| Patients grouped under mutation types (n) Results shown as mean (minimum, maximum) for change from baseline for KALYDECO-treated patients: Statistical testing was not performed due to small numbers for individual mutations. |  |  |  |  |  |  |
 | G1244E (5) | 11 (-5, 25) | 6 (-5, 13) | 8 (-1, 18) | 0.63 (0.34, 1.32) | 3.3 (-27.8, 22.2) | -55 (-75, -34) |
 | G1349D (2) | 19 (5, 33) | 18 (2, 35) | 20 (3, 36) | 1.15 (1.07, 1.22) | 16.7 (-11.1, 44.4) | -80 (-82, -79) |
 | G178R (5) | 7 (1, 17) | 10 (-2, 21) | 8 (-1, 18) | 0.85 (0.33, 1.46) | 20.0 (5.6, 50.0) | -53 (-65, -35) |
@@ -97,7 +97,7 @@ The efficacy and safety of KALYDECO in patients with CF who have an R117H mutati
 Fifty-nine of 69 patients completed 24 weeks of treatment.
 Two patients discontinued and 8 patients did not complete treatment due to study termination.
 Trial 5 evaluated 69 clinically stable patients with CF who were 6 years of age or older (mean age 31 years).
-Patients who were 12 years and older had FEV1 at screening between 40-90% predicted, and patients who were 6-11 years of age had FEV1 at screening between 40-105% predicted.
+Patients who were aged 12 years and older had FEV1 at screening between 40-90% predicted, and patients who were 6-11 years of age had FEV1 at screening between 40-105% predicted.
 The overall mean FEV1 was 73% predicted at baseline (range: 33% to 106%).
 The patients had well preserved BMIs (mean overall: 23.76 kg/m2) and a high proportion were pancreatic sufficient as assessed by a low rate of pancreatic enzyme replacement therapy use (pancreatin: 11.6%; pancrelipase: 5.8%).
 Patients who had persistent Burkholderia cenocepacia, Burkholderia dolosa, or Mycobacterium abscessus isolated from sputum at screening, and those with abnormal liver function defined as 3 or more liver function tests (ALT, AST, AP, GGT, total bilirubin) ≥3 times the ULN, were excluded.
@@ -134,7 +134,7 @@ Table 7: Effect of KALYDECO on Overall Population (Percent Predicted FEV1, CFQ-R
 | 70-90% | Placebo KALYDECO | 14 14 | 0.2 2.8 | 2.6 (-2.3, 7.5) | 13 14 | -3.6 5.2 | 8.8 (-2.6, 20.2) | 14 14 | -3.1 -23.0 | -20.0 (-26.9, -12.9) |
 | >90% | Placebo KALYDECO | 6 7 | 2.2 -2.1 | -4.3 (-9.9, 1.3) | 6 6 | -2.5 -3.2 | -0.7 (-10.4, 9.0) | 6 6 | 1.0 -25.9 | -26.8 (-39.5, -14.1) |
 
-## 14.4 Trial in Patients with CF Heterozygous for the F508del Mutation and a Second Mutation Predicted to be Responsive to ivacaftor
+## 14.4 Trial in Patients with CF Heterozygous for the F508del Mutation and a Second Mutation Predicted to be Responsive to Ivacaftor
 
 The efficacy and safety of KALYDECO and an ivacaftor-containing combination product in 246 patients with CF was evaluated in a randomized, double-blind, placebo-controlled, 2-period, 3-treatment, 8-week crossover design clinical trial (Trial 7).
 Mutations predicted to be responsive to ivacaftor were selected for the study based on the clinical phenotype (pancreatic sufficiency), biomarker data (sweat chloride), and in vitro responsiveness to ivacaftor.
@@ -182,9 +182,9 @@ In an analysis of BMI at Week 8, an exploratory endpoint, patients treated with 
 
 ## 14.5 Trial in Patients Homozygous for the F508del Mutation in the CFTR Gene
 
-Trial 3 was a 16-week, randomized, double-blind, placebo-controlled, parallel-group trial in 140 patients with CF age 12 years and older who were homozygous for the F508del mutation in the CFTR gene and who had FEV1 ≥40% predicted.
+Trial 3 was a 16-week, randomized, double-blind, placebo-controlled, parallel-group trial in 140 patients with CF aged 12 years and older who were homozygous for the F508del mutation in the CFTR gene and who had FEV1 ≥40% predicted.
 Patients were randomized 4:1 to receive KALYDECO 150 mg (n=112) every 12 hours or placebo (n=28) in addition to their prescribed CF therapies.
-The mean age of patients enrolled was 23 years and the mean baseline FEV1 was 79% predicted (range 40% to 129%).
+The mean age of patients enrolled was 23 years and the mean baseline FEV1 was 79% predicted (range: 40% to 129%).
 As in Trials 1 and 2, patients who had persistent Burkholderia cenocepacia, Burkholderia dolosa, or Mycobacterium abscessus isolated from sputum at screening and those with abnormal liver function defined as 3 or more liver function tests (ALT, AST, AP, GGT, total bilirubin) ≥3 times the ULN were excluded.
 The use of inhaled hypertonic saline was not permitted.
 
