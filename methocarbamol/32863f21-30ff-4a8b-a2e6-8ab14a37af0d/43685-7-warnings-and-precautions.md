@@ -4,7 +4,7 @@ Since methocarbamol may possess a general CNS depressant effect, patients receiv
 
 Safe use of Methocarbamol tablets, USP has not been established with regard to possible adverse effects upon fetal development.
 There have been reports of fetal and congenital abnormalities following in utero exposure to methocarbamol.
-Therefore, Methocarbamol tablets, USP should not be used in women who are or may become pregnant and particularly during early pregnancy unless in the judgment of the physician the potential benefits outweigh the possible hazards (see Precautions, Pregnancy).
+Therefore, Methocarbamol tablets, USP should not be used in women who are or may become pregnant and particularly during early pregnancy unless in the judgment of the physician the potential benefits outweigh the possible hazards (see PRECAUTIONS, Pregnancy).
 
 ## Use In Activities Requiring Mental Alertness
 
@@ -21,7 +21,7 @@ Because methocarbamol may possess a general CNS-depressant effect, patients shou
 
 ## Drug interactions
 
-See Warnings and Precautions for interaction with CNS drugs and alcohol.
+SeeWARNINGS and PRECAUTIONSfor interaction with CNS drugs and alcohol.
 
 Methocarbamol may inhibit the effect of pyridostigmine bromide.
 Therefore, methocarbamol should be used with caution in patients with myasthenia gravis receiving anticholinesterase agents.
@@ -45,7 +45,7 @@ Methocarbamol tablets, USP should be given to a pregnant woman only if clearly n
 
 Safe use of Methocarbamol tablets, USP has not been established with regard to possible adverse effects upon fetal development.
 There have been reports of fetal and congenital abnormalities following in utero exposure to methocarbamol.
-Therefore, Methocarbamol tablets, USP should not be used in women who are or may become pregnant and particularly during early pregnancy unless in the judgment of the physician the potential benefits outweigh the possible hazards (see Warnings).
+Therefore, Methocarbamol tablets, USP should not be used in women who are or may become pregnant and particularly during early pregnancy unless in the judgment of the physician the potential benefits outweigh the possible hazards (see WARNINGS).
 
 ### Nursing mothers
 

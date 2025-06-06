@@ -10,7 +10,7 @@ Methocarbamol Tablets, USP
 
 Each tablet contains 750 mg of Methocarbamol, USP.
 
-See enclosed package insert for dosage information.
+Dosage: See package insert for full prescribing Information.
 
 Store at controlled room temperature, between 20℃ and 25℃ (68℉ and 77℉).
 [see USP Controlled Room Temperature].
@@ -38,7 +38,7 @@ Methocarbamol Tablets, USP
 
 Each tablet contains 500 mg of Methocarbamol, USP.
 
-See enclosed package insert for dosage information.
+Dosage: See package insert for full prescribing Information.
 
 Store at controlled room temperature, between 20℃ and 25℃ (68℉ and 77℉).
 [see USP Controlled Room Temperature].
