@@ -71,8 +71,8 @@ These pharmacokinetic data indicate that the effective daily dose in pediatric p
 
 Adult Patients with Renal Impairment
 
-Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13 - 114 mL/min) were administered single 400 mg oral doses of gabapentin.
-The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance >60 mL/min) to 52 hours (creatinine clearance <30 mL/ min) and gabapentin renal clearance from about 90 mL/min (>60 mL/min group) to about 10 mL/min (<30 mL/min).
+Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13 to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
+The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance >60 mL/min) to 52 hours (creatinine clearance <30 mL/min) and gabapentin renal clearance from about 90 mL/min (>60 mL/min group) to about 10 mL/min (<30 mL/min).
 Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 Pediatric patients with renal insufficiency have not been studied.
 
@@ -103,18 +103,18 @@ Drug Interactions
 - Phenobarbital
 - Estimates of steady-state pharmacokinetic parameters for phenobarbital or gabapentin (300 mg three times a day; N=12) are identical whether the drugs are administered alone or together.
 - Naproxen
-- Coadministration (N=18) of naproxen sodium capsules (250 mg) with gabapentin (125 mg) appears to increase the amount of gabapentin absorbed by 12% to 15%.
+- Coadministration (N=18) of naproxen sodium capsules (250 mg) with gabapentin tablets (125 mg) appears to increase the amount of gabapentin absorbed by 12% to 15%.
   Gabapentin had no effect on naproxen pharmacokinetic parameters.
   These doses are lower than the therapeutic doses for both drugs.
   The magnitude of interaction within the recommended dose ranges of either drug is not known.
 - Hydrocodone
-- Coadministration of gabapentin (125 to 500 mg; N=48) decreases hydrocodone (10 mg; N=50) Cmax and AUC values in a dose-dependent manner relative to administration of hydrocodone alone; Cmax and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin and 21% to 22% lower, respectively, after administration of 500 mg gabapentin.
+- Coadministration of gabapentin tablets (125 to 500 mg; N=48) decreases hydrocodone (10 mg; N=50) Cmax and AUC values in a dose-dependent manner relative to administration of hydrocodone alone; Cmax and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin tablets and 21% to 22% lower, respectively, after administration of 500 mg gabapentin tablets.
   The mechanism for this interaction is unknown.
   Hydrocodone increases gabapentin AUC values by 14%.
   The magnitude of interaction at other doses is not known.
 - Morphine
 - A literature article reported that when a 60 mg controlled-release morphine capsule was administered 2 hours prior to a 600 mg gabapentin capsule (N=12), mean gabapentin AUC increased by 44% compared to gabapentin administered without morphine.
-  Morphine pharmacokinetic parameter values were not affected by administration of gabapentin 2 hours after morphine.
+  Morphine pharmacokinetic parameter values were not affected by administration of gabapentin tablets 2 hours after morphine.
   The magnitude of interaction at other doses is not known.
 - Cimetidine
 - In the presence of cimetidine at 300 mg four times a day (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.

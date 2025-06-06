@@ -13,7 +13,8 @@ Patients 12 Years of Age and Above
 The starting dose is 300 mg three times a day.
 The recommended maintenance dose of gabapentin tablets is 300 mg to 600 mg three times a day.
 Dosages up to 2400 mg/day have been administered in long-term clinical studies.
-Doses of 3600 mg/day have also been administered to a small number of patients for a relatively short duration Administer gabapentin three times a day using 600 mg or 800 mg tablets.
+Doses of 3600 mg/day have also been administered to a small number of patients for a relatively short duration.
+Administer gabapentin tablets three times a day using 600 mg or 800 mg tablets.
 The maximum time between doses should not exceed 12 hours.
 
 Pediatric Patients Age 3 to 11 Years
@@ -62,4 +63,4 @@ Administer gabapentin tablets orally with or without food.
 Inform patients that, should they divide the scored 600 mg or 800 mg gabapentin tablet in order to administer a half-tablet, they should take the unused half-tablet as the next dose.
 Half-tablets not used within 28 days of dividing the scored tablet should be discarded.
 
-If the gabapentin dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
+If the gabapentin tablets dose is reduced, discontinued, or substituted with an alternative medication, this should be done gradually over a minimum of 1 week (a longer period may be needed at the discretion of the prescriber).
