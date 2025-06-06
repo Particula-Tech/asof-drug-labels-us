@@ -91,7 +91,7 @@ Manufactured for: Noven Therapeutics, LLC, Miami, FL 33186.
 
 By: Noven Pharmaceuticals, Inc., Miami, FL 33186.
 
-For more information, call 1-877-567-7857 or visit www.daytrana.com.
+For more information, call 1-800-455-8070 or visit www.daytrana.com.
 
 DOT Matrix™ is a trademark of Noven Pharmaceuticals, Inc. DAYTRANA® is a registered trademark of Noven Therapeutics, LLC.
 
