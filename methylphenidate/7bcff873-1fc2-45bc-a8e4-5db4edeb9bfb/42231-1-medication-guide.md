@@ -15,8 +15,8 @@
 | Methylphenidate Transdermal System may also cause skin problems where it is applied (redness, small bumps, itching)Your child's doctor may do certain blood tests while your child uses Methylphenidate Transdermal System.These are not all the possible side effects of Methylphenidate Transdermal System.Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
 | How should I store Methylphenidate Transdermal System? Store Methylphenidate Transdermal System at room temperature between 68° F to 77° F (20° C to 25° C).Store Methylphenidate Transdermal System in a safe place, like a locked cabinet.Do not store Methylphenidate Transdermal System in the refrigerator or freezer.Keep Methylphenidate Transdermal System in their unopened pouches until you are ready to use them.Use or throw away the patches within 2 months after you open the sealed tray.Dispose of remaining, unused, or expired Methylphenidate Transdermal System by a medicine take-back program at a U.S. Drug Enforcement Administration (DEA) authorized collection site. If no take-back program or DEA authorized collector is available, each unused patch should be removed from its individual pouch, separated from the protective liner, folded in half so that the sticky sides stick together, and flushed down the toilet. Put the pouch and liner in a container with a lid, close the container and throw away the container in the household trash. Do not flush the pouch and liner down the toilet. Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines. Keep Methylphenidate Transdermal System and all medicines out of the reach of children. |  |  |
 | General information about the safe and effective use of Methylphenidate Transdermal System.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use Methylphenidate Transdermal System for a condition for which it was not prescribed. Do not give Methylphenidate Transdermal System to other people, even if they have the same symptoms. It may harm them and it is against the law.You can ask your pharmacist or healthcare provider for information about Methylphenidate Transdermal System that is written for healthcare professionals. |  |  |
-| What are the ingredients in Methylphenidate Transdermal System? Active ingredient: methylphenidate Inactive ingredients: acrylic adhesive, silicone adhesive Manufactured by: Noven Pharmaceuticals, Inc., Miami, FL 33186DAYTRANA® is a trademark of Noven Therapeutics, LLC. For more information, call Padagis at 1-866-634-9120 |  |  |
-| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised 11/2024 |
+| What are the ingredients in Methylphenidate Transdermal System? Active ingredient: methylphenidate Inactive ingredients: acrylic adhesive, silicone adhesive Manufactured for Padagis®, Minneapolis, MN 55427 www.padagis.com For more Information, call Padagis® at 1-866-634-9120 DOT Matrix™ is a trademark of Noven Pharmaceuticals, Inc. DAYTRANA® is a registered trademark of Noven Therapeutics, LLC. |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. |  | Revised 06/2025 |
 
 INSTRUCTIONS FOR USE
 
@@ -158,8 +158,10 @@ How to remove and throw away Methylphenidate Transdermal System
     Do not flush the pouch and liner down the toilet.
     Visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
+Manufactured for Padagis® Minneapolis, MN 55427 www.padagis.com
+
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised 11/2024
+Revised: 06/2025
 
 102652-4

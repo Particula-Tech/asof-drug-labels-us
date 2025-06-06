@@ -87,11 +87,8 @@ Pregnancy Registry
 
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications, including Methylphenidate Transdermal System, during pregnancy [see Use in Specific Populations (8.1)].
 
-Distributed by
+Manufactured for Padagis® Minneapolis, MN 55427 www.padagis.com Rev 06/2025 19Z00 RC PH3
 
-Manufactured By: Noven Pharmaceuticals, Inc., Miami, FL 33186.
-For more information, call Padagis at 1-866-634-9120
-
-DOT Matrix™ is a trademark of Noven Pharmaceuticals, Inc. DAYTRANA® is a registered trademark of Noven Therapeutics, LLC.
+For more information, call Padagis® at 1-866-634-9120 DOT Matrix™ is a trademark of Noven Pharmaceuticals, Inc. DAYTRANA® is a registered trademark of Noven Therapeutics, LLC.
 
 102652-4

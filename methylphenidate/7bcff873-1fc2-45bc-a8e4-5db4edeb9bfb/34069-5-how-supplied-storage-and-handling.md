@@ -3,7 +3,7 @@
 Methylphenidate Transdermal System is supplied in a sealed tray containing 30 individually pouched transdermal systems.
 See the chart below for information regarding available strengths.
 
-| Nominal Dose Delivered (mg) Over 9 Hours | Dosage Rate* (mg/hr) | ​Transdermal System Size (cm2) | Methylphenidate Content per Transdermal System** (mg) | TransdermalSystems Per Carton | NDC Number |
+| Nominal Dose Delivered (mg) Over 9 Hours | Dosage Rate* (mg/hr) | Transdermal System Size (cm2) | Methylphenidate Content per Transdermal System** (mg) | TransdermalSystems Per Carton | NDC Number |
 | --- | --- | --- | --- | --- | --- |
 | 10 | 1.1 | 12.5 | 27.5 | 30 | 0574-2410-65 |
 | 15 | 1.6 | 18.75 | 41.3 | 30 | 0574-2415-65 |
