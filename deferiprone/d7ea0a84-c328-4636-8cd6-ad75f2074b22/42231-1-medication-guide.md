@@ -9,7 +9,7 @@
 | How should I store deferiprone tablets? Deferiprone Tablets, 500 mg (3 times each day) •Store at room temperature between 68°F to 77°F (20°C to 25°C). |
 | Keep deferiprone tablets and all medicines out of the reach of children. |
 | General information about the safe and effective use of deferiprone tablets. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use deferiprone tablets for a condition for which they were not prescribed. Do not give deferiprone tablets to other people, even if they have the same symptoms that you have. They may harm them. You can ask your pharmacist or healthcare provider for information about deferiprone tablets that is written for health professionals. |
-| What are the ingredients in deferiprone tablets? Deferiprone Tablets, 500 mg (3 times each day) Active ingredient: deferiprone Inactive ingredients: Tablet core: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose. Coating: hypromellose, polyethylene glycol, polysorbate 80, and titanium dioxide. Distributed by:Hikma Pharmaceuticals USA Inc.Berkeley Heights, NJ 07922C50000816/05Revised August 2023 |
+| What are the ingredients in deferiprone tablets? Deferiprone Tablets, 500 mg (3 times each day) Active ingredient: deferiprone Inactive ingredients: Tablet core: colloidal silicon dioxide, crospovidone, magnesium stearate, microcrystalline cellulose. Coating: hypromellose, polyethylene glycol, polysorbate 80, and titanium dioxide. Distributed by:Hikma Pharmaceuticals USA Inc.Berkeley Heights, NJ 07922C50000816/06Revised May 2025 |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
