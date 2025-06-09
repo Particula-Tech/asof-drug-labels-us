@@ -13,7 +13,7 @@ The osmolality of PROLENSA ophthalmic solution is approximately 300 mOsmol/kg.
 
 Each mL of PROLENSA ophthalmic solution contains:
 
-Active:Each mL contains bromfenac sodium sesquihydrate 0.0805%, which is equivalent to bromfenac free acid 0.07%.
+ACTIVE:Each mL contains bromfenac sodium sesquihydrate 0.0805%, which is equivalent to bromfenac free acid 0.07%.
 
 Inactives:boric acid, edetate disodium, povidone, sodium borate, sodium sulfite, tyloxapol, sodium hydroxide to adjust pH, and water for injection, USP.
 
