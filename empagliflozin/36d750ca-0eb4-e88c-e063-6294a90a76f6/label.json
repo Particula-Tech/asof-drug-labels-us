@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA212614"
+  ],
+  "inn": "empagliflozin",
+  "labeler": "Praxis, LLC",
+  "package_ndcs": [
+    "59368-389-01",
+    "59368-390-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, EXTENDED RELEASE",
+      "generic": "empagliflozin, linagliptin, metformin hydrochloride",
+      "name": "Trijardy XR"
+    }
+  ],
+  "setid": "36d750ca-0eb4-e88c-e063-6294a90a76f6",
+  "source": "dailymed"
+}
