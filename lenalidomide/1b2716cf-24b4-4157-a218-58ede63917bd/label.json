@@ -5,9 +5,11 @@
   "inn": "lenalidomide",
   "labeler": "Teva Pharmaceuticals, Inc.",
   "package_ndcs": [
+    "0480-1241-28",
     "0480-1242-28",
     "0480-1243-28",
     "0480-1244-21",
+    "0480-1245-21",
     "0480-1246-21"
   ],
   "products": [

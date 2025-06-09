@@ -4,6 +4,10 @@
 
 Lenalidomide capsules are available as follows:
 
+2.5 mg – Each size 4 capsule with white cap and body printed with “NAT” on cap and “2.5mg” on body in black ink contains 2.5 mg of lenalidomide.
+
+2.5 mg bottles of 28 (NDC 0480-1241-28)
+
 5 mg – Each size 2 capsule with white cap and body printed with “NAT” on cap and “5mg” on body in black ink contains 5 mg of lenalidomide.
 
 5 mg bottles of 28 (NDC 0480‐1242‐28)
@@ -15,6 +19,10 @@ Lenalidomide capsules are available as follows:
 15 mg – Each size 2 capsule with white cap and body printed with “NAT” on cap and “15mg” on body in black ink contains 15 mg of lenalidomide.
 
 15 mg bottles of 21 (NDC 0480‐1244‐21)
+
+20 mg – Each size 2 capsule with green cap and blue body printed with “NAT” on cap and “20 mg” on body in black ink contains 20 mg of lenalidomide.
+
+20 mg bottles of 21 (NDC 0480-1245-21)
 
 25 mg – Each size 2 capsule with white cap and body printed with “NAT” on cap and “25mg” on body in black ink contains 25 mg of lenalidomide.
 
