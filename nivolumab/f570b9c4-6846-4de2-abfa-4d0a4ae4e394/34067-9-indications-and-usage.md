@@ -71,10 +71,10 @@ OPDIVO is indicated for the treatment of adult patients with locally advanced or
 ## 1.13 Esophageal Cancer
 
 - •OPDIVO is indicated for the adjuvant treatment of completely resected esophageal or gastroesophageal junction cancer with residual pathologic disease in adult patients who have received neoadjuvant chemoradiotherapy (CRT).
-- •OPDIVO, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma (ESCC).
-- •OPDIVO, in combination with ipilimumab, is indicated for the first-line treatment of adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma (ESCC).
+- •OPDIVO, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma (ESCC) whose tumors express PD-L1 (≥1) [see Dosage and Administration (2.1)].
+- •OPDIVO, in combination with ipilimumab, is indicated for the first-line treatment of adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma (ESCC) whose tumors express PD-L1 (≥1) [see Dosage and Administration (2.1)].
 - •OPDIVO is indicated for the treatment of adult patients with unresectable advanced, recurrent or metastatic esophageal squamous cell carcinoma (ESCC) after prior fluoropyrimidine- and platinum-based chemotherapy.
 
 ## 1.14 Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma
 
-OPDIVO, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the treatment of adult patients with advanced or metastatic gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma.
+OPDIVO, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the treatment of adult patients with advanced or metastatic gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma whose tumors express PD-L1 (≥1) [see Dosage and Administration (2.1)].

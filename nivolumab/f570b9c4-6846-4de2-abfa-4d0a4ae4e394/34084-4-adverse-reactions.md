@@ -262,7 +262,7 @@ Table 11: Adverse Reactions Occurring in ≥10% of Patients Treated with OPDIVO 
 | Hypothyroidisme | 14 | 0 | 2.3 | 0 |
 | Nervous system |  |  |  |  |
 | Headachef | 12 | 0.2 | 14 | 0.8 |
-| Toxicity was graded per NCI CTCAE v5. a Includes asthenia. b Includes arthralgia, arthritis, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, musculoskeletal stiffness, myalgia, neck pain, non-cardiac chest pain, spinal pain, pain in extremity. c Includes dermatitis, dermatitis acneiform, dyshidrotic eczema, eczema, eczema asteatotic, eyelid rash, genital rash, pemphigoid, penile rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, rash vesicular, skin exfoliation, toxic skin eruption. d Includes autoimmune colitis, colitis, diarrhea, enteritis, enterocolitis e Includes autoimmune hypothyroidism, blood thyroid stimulating hormone increased. f Includes cluster headache, migraine. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v5. a Includes asthenia. b Includes arthralgia, arthritis, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, musculoskeletal stiffness, myalgia, neck pain, non-cardiac chest pain, spinal pain, pain in extremity. c Includes dermatitis, dermatitis acneiform, dyshidrotic eczema, eczema, eczema asteatotic, eyelid rash, genital rash, pemphigoid, penile rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, rash vesicular, skin exfoliation, toxic skin eruption. d Includes autoimmune colitis, colitis, diarrhea, enteritis, enterocolitis. e Includes autoimmune hypothyroidism, blood thyroid stimulating hormone increased. f Includes cluster headache, migraine. |  |  |  |  |
 
 Table 12: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of OPDIVO-Treated Patients - CHECKMATE-76K
 
@@ -389,7 +389,7 @@ Table 15: Adverse Reactions in >10% of Patients with Early-Stage NSCLC Receiving
 | Alopecia | 11 | 0 | 15 | 0 |
 | Nervous System |  |  |  |  |
 | Peripheral neuropathyc | 13 | 0 | 6 | 0 |
-| Toxicity was graded per NCI CTCAE v4. a Includes fatigue and asthenia b Includes rash, dermatitis, acneiform dermatitis, atopic dermatitis, bullous dermatitis, drug eruption, maculopapular rash, and pruritic rash. c Includes peripheral neuropathy, dysesthesia, hypoesthesia, peripheral motor neuropathy, peripheral sensory neuropathy. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes fatigue and asthenia. b Includes rash, dermatitis, acneiform dermatitis, atopic dermatitis, bullous dermatitis, drug eruption, maculopapular rash, and pruritic rash. c Includes peripheral neuropathy, dysesthesia, hypoesthesia, peripheral motor neuropathy, peripheral sensory neuropathy. |  |  |  |  |
 
 Table 16: Select Laboratory Values Worsening from Baselinea Occurring in >20% of Patients with Early-Stage NSCLC Receiving Neoadjuvant OPDIVO and Platinum-Doublet Chemotherapy in CHECKMATE-816
 
@@ -584,7 +584,7 @@ Table 19: Adverse Reactions in >10% of Patients Receiving OPDIVO and Ipilimumab 
 | Nervous System |  |  |  |  |
 | Headache | 11 | 0.6 | 7 | 0 |
 | Dizzinessj | 11 | 0.6 | 6 | 0 |
-| Toxicity was graded per NCI CTCAE v4. a Includes fatigue and asthenia b Includes myalgia, back pain, pain in extremity, musculoskeletal pain, bone pain, flank pain, muscle spasms, musculoskeletal chest pain, musculoskeletal disorder, osteitis, musculoskeletal stiffness, non-cardiac chest pain, arthralgia, arthritis, arthropathy, joint effusion, psoriatic arthropathy, synovitis c Includes colitis, ulcerative colitis, diarrhea, and enterocolitis d Includes abdominal discomfort, abdominal pain, lower abdominal pain, upper abdominal pain, and gastrointestinal pain e Includes acne, dermatitis, acneiform dermatitis, allergic dermatitis, atopic dermatitis, bullous dermatitis, generalized exfoliative dermatitis, eczema, keratoderma blennorrhagica, palmar-plantar erythrodysesthesia syndrome, rash, erythematous rash, generalized rash, macular rash, maculo-papular rash, morbilliform rash, papular rash, pruritic rash, skin exfoliation, skin reaction, skin toxicity, Stevens-Johnson syndrome, urticaria f Includes pruritus and generalized pruritus g Includes cough, productive cough, and upper-airway cough syndrome h Includes dyspnea, dyspnea at rest, and exertional dyspnea i Includes autoimmune thyroiditis, increased blood thyroid stimulating hormone, hypothyroidism, thyroiditis, and decreased free tri-iodothyronine j Includes dizziness, vertigo and positional vertigo |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes fatigue and asthenia. b Includes myalgia, back pain, pain in extremity, musculoskeletal pain, bone pain, flank pain, muscle spasms, musculoskeletal chest pain, musculoskeletal disorder, osteitis, musculoskeletal stiffness, non-cardiac chest pain, arthralgia, arthritis, arthropathy, joint effusion, psoriatic arthropathy, synovitis. c Includes colitis, ulcerative colitis, diarrhea, and enterocolitis. d Includes abdominal discomfort, abdominal pain, lower abdominal pain, upper abdominal pain, and gastrointestinal pain. e Includes acne, dermatitis, acneiform dermatitis, allergic dermatitis, atopic dermatitis, bullous dermatitis, generalized exfoliative dermatitis, eczema, keratoderma blennorrhagica, palmar-plantar erythrodysesthesia syndrome, rash, erythematous rash, generalized rash, macular rash, maculo-papular rash, morbilliform rash, papular rash, pruritic rash, skin exfoliation, skin reaction, skin toxicity, Stevens-Johnson syndrome, urticaria. f Includes pruritus and generalized pruritus. g Includes cough, productive cough, and upper-airway cough syndrome. h Includes dyspnea, dyspnea at rest, and exertional dyspnea. i Includes autoimmune thyroiditis, increased blood thyroid stimulating hormone, hypothyroidism, thyroiditis, and decreased free tri-iodothyronine. j Includes dizziness, vertigo and positional vertigo. |  |  |  |  |
 
 Table 20: Laboratory Values Worsening from Baselinea Occurring in >20% of Patients on OPDIVO and Ipilimumab and Platinum-Doublet Chemotherapy - CHECKMATE-9LA
 
@@ -1148,7 +1148,7 @@ Table 33: Adverse Reactions Occurring in ≥10% of Patients - CHECKMATE-274
 | Dizzinessj | 11 | 0.3 | 9 | 0 |
 | Hepatobiliary |  |  |  |  |
 | Hepatitisk | 11 | 4 | 8 | 0.6 |
-| Toxicity was graded per NCI CTCAE v4. a Includes acne, blister, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis contact, eczema, eczema asteatotic, eczema nummular, erythema, erythema multiforme, lichen sclerosus, lichenoid keratosis, pemphigoid, photosensitivity reaction, pigmentation disorder, psoriasis, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rosacea, skin exfoliation, skin lesion, skin reaction, toxic skin eruption, and urticaria. b Includes colitis, colitis microscopic, diarrhea, duodenitis, enteritis, immune-mediated enterocolitis c Includes abdominal pain, abdominal discomfort, abdominal tenderness, lower and upper abdominal pain. d Includes musculoskeletal pain, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity and spinal pain. e Includes cystitis, escherichia urinary tract infection, pyelonephritis, pyelonephritis acute, pyelonephritis chronic, urethritis, urinary tract infection, urinary tract infection bacterial, urinary tract infection staphylococcal, and urosepsis. f Includes upper respiratory tract infection, nasopharyngitis, pharyngitis and rhinitis. g Includes acute kidney injury, autoimmune nephritis, blood creatinine increased, glomerular filtration rate decreased, immune-mediated nephritis, nephritis, renal failure, and renal impairment. h Includes cough, productive cough, and upper-airway cough syndrome. i Includes dyspnea and exertional dyspnea. j Includes dizziness, postural dizziness and vertigo. k Includes aspartate aminotransferase increased, alanine aminotransferase increased, blood bilirubin increased, cholangitis, drug-induced liver injury, hepatic failure, hepatic function abnormal, hepatitis, hepatocellular injury, hyperbilirubinemia, gamma-glutamyl transferase increased, liver injury, and transaminases increased. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes acne, blister, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis contact, eczema, eczema asteatotic, eczema nummular, erythema, erythema multiforme, lichen sclerosus, lichenoid keratosis, pemphigoid, photosensitivity reaction, pigmentation disorder, psoriasis, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rosacea, skin exfoliation, skin lesion, skin reaction, toxic skin eruption, and urticaria. b Includes colitis, colitis microscopic, diarrhea, duodenitis, enteritis, immune-mediated enterocolitis. c Includes abdominal pain, abdominal discomfort, abdominal tenderness, lower and upper abdominal pain. d Includes musculoskeletal pain, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity and spinal pain. e Includes cystitis, escherichia urinary tract infection, pyelonephritis, pyelonephritis acute, pyelonephritis chronic, urethritis, urinary tract infection, urinary tract infection bacterial, urinary tract infection staphylococcal, and urosepsis. f Includes upper respiratory tract infection, nasopharyngitis, pharyngitis and rhinitis. g Includes acute kidney injury, autoimmune nephritis, blood creatinine increased, glomerular filtration rate decreased, immune-mediated nephritis, nephritis, renal failure, and renal impairment. h Includes cough, productive cough, and upper-airway cough syndrome. i Includes dyspnea and exertional dyspnea. j Includes dizziness, postural dizziness and vertigo. k Includes aspartate aminotransferase increased, alanine aminotransferase increased, blood bilirubin increased, cholangitis, drug-induced liver injury, hepatic failure, hepatic function abnormal, hepatitis, hepatocellular injury, hyperbilirubinemia, gamma-glutamyl transferase increased, liver injury, and transaminases increased. |  |  |  |  |
 
 Table 34: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of Patients - CHECKMATE-274
 
@@ -1326,15 +1326,15 @@ Table 38: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% o
 
 #### Treatment of MSI-H or dMMR mCRC: In Combination with Ipilimumab
 
-The safety of OPDIVO in combination with ipilimumab, or as a single agent, was evaluated in CHECKMATE-8HW, a randomized, open-label, three arm trial in immunotherapy naïve patients with MSI-H or dMMR mCRC [see Clinical Studies (14.11)].
+The safety of OPDIVO in combination with ipilimumab, or as a single agent, was evaluated in CHECKMATE-8HW, a randomized, open-label, three arm trial in immunotherapy naive patients with MSI-H or dMMR mCRC [see Clinical Studies (14.11)].
 Patients received one of the following:
 
-- •OPDIVO 240 mg every 3 weeks and ipilimumab 1 mg/kg every 3 weeks for a maximum of 4 doses, then OPDIVO 480 mg every 4 weeks
-- •OPDIVO 240 mg every 2 weeks for 6 doses, then OPDIVO 480 mg every 4 weeks
-- •Investigator’s choice chemotherapy: mFOLFOX or FOLFIRI [see Clinical Studies (14.11)]
+- •OPDIVO 240 mg every 3 weeks and ipilimumab 1 mg/kg every 3 weeks for a maximum of 4 doses, then OPDIVO 480 mg every 4 weeks.
+- •OPDIVO 240 mg every 2 weeks for 6 doses, then OPDIVO 480 mg every 4 weeks.
+- •Investigator’s choice chemotherapy: mFOLFOX or FOLFIRI [see Clinical Studies (14.11)].
 
-In the OPDIVO and ipilimumab arm, the median duration of exposure to OPDIVO was 20.5 months (range: 0 to 35.9 months), 70% patients were exposed for >6 months and 63% were exposed for >1 year.
-In the OPDIVO arm, the median duration of exposure to OPDIVO was 16.4 months (range: 0 to 36 months), 64% patients were exposed for >6 months and 54% were exposed for >1 year.
+In the OPDIVO and ipilimumab arm, the median duration of exposure to OPDIVO was 20.5 months (range: 0 to 35.9 months), 70% of patients were exposed for >6 months and 63% were exposed for >1 year.
+In the OPDIVO arm, the median duration of exposure to OPDIVO was 16.4 months (range: 0 to 36 months), 64% of patients were exposed for >6 months and 54% were exposed for >1 year.
 
 Serious adverse reactions occurred in 46% of patients receiving OPDIVO in combination with ipilimumab, and 39% of patients receiving OPDIVO alone.
 The most frequent serious adverse reactions reported in ≥1% of patients who received OPDIVO with ipilimumab were adrenal insufficiency (2.8%), hypophysitis (2.8%), diarrhea (2.0%), abdominal pain (2.0%), small intestinal obstruction (2.0%), pneumonia (1.7%), acute kidney injury (1.4%), immune mediated enterocolitis (1.4%), pneumonitis (1.4%), colitis (1.1%), large intestinal obstruction (1.1%), and urinary tract infection (1.1%).
@@ -1347,6 +1347,11 @@ OPDIVO and/or ipilimumab were permanently discontinued in 19% of patients receiv
 The most frequent adverse reactions (>1%) leading to permanent discontinuation were adrenal insufficiency (1.4%), immune mediated enterocolitis (1.1%), and pneumonitis (1.1%).
 OPDIVO was permanently discontinued in 13% of patients receiving single agent OPDIVO.
 Adverse reactions leading to the delay of OPDIVO and/or ipilimumab occurred in 48% of patients receiving the combination; single agent OPDIVO was delayed in 37% of patients due to adverse reactions.
+
+The most common adverse reactions reported in ≥20% of patients treated with OPDIVO in combination with ipilimumab were fatigue, diarrhea, pruritus, abdominal pain, musculoskeletal pain, and nausea.
+The most common adverse reactions reported in ≥20% of patients treated with OPDIVO as a single agent, were fatigue, diarrhea, abdominal pain, pruritus, and musculoskeletal pain.
+
+Tables 39 and 40 summarize selected adverse reactions and selected laboratory abnormalities for OPDIVO in combination with ipilimumab and the single agent OPDIVO arms respectively, in CHECKMATE-8HW.
 
 Table 39: Adverse Reactionsa in ≥10% in Patients with a Difference Between Arms of >5% for All Grades in CHECKMATE-8HW
 
@@ -1363,11 +1368,6 @@ Table 39: Adverse Reactionsa in ≥10% in Patients with a Difference Between Arm
 | Hypothyroidism | 18 | 0.6 | 10 | 0 |
 | Hyperthyroidism | 12 | 0 | 5 | 0 |
 | Toxicity was graded per NCI CTCAE v5. a Includes colitis, diarrhea, enterocolitis, immune mediated enterocolitis |  |  |  |  |
-
-The most common adverse reactions reported in ≥20% of patients treated with OPDIVO in combination with ipilimumab were fatigue, diarrhea, pruritus, abdominal pain, musculoskeletal pain, and nausea.
-The most common adverse reactions reported in ≥20% of patients treated with OPDIVO as a single agent, were fatigue, diarrhea, abdominal pain, pruritus, and musculoskeletal pain.
-
-Tables 39 and 40 summarize selected adverse reactions and selected laboratory abnormalities for OPDIVO in combination with ipilimumab and the single agent OPDIVO arms respectively, in CHECKMATE-8HW.
 
 Table 40: Laboratory Values Worsening from Baselinea in ≥10% of Patients and a Difference Between Arms of >5% for All Grades - CHECKMATE-8HW
 
@@ -1485,7 +1485,7 @@ Patients received OPDIVO in combination with ipilimumab (n=332) or investigator�
 In the OPDIVO and ipilimumab arm, the median duration of exposure to OPDIVO was 4.7 months (range: <0.1 to 24.4 months), 45% were exposed for >6 months and 30% were exposed for >1 year.
 
 Serious adverse reactions occurred in 53% of patients treated with OPDIVO in combination with ipilimumab.
-The most frequent non liver-related serious adverse reactions reported in ≥2% of patients who received OPDIVO in combination with ipilimumab were diarrhea/colitis (4.5%), gastrointestinal hemorrhage (3%), and rash (2.4%).
+The most frequent non-liver-related serious adverse reactions reported in ≥2% of patients who received OPDIVO in combination with ipilimumab were diarrhea/colitis (4.5%), gastrointestinal hemorrhage (3%), and rash (2.4%).
 
 Liver-related serious adverse reactions occurred in 17% of patients treated with OPDIVO in combination with ipilimumab, including Grade 3-4 events in 16% of patients.
 The most frequently reported all grade liver-related serious adverse reactions occurring in ≥1% of patients who received OPDIVO in combination with ipilimumab were immune-mediated hepatitis (3%), increased AST/ALT (3%), hepatic failure (2.4%), ascites (2.4%), and hepatotoxicity (1.2%).
