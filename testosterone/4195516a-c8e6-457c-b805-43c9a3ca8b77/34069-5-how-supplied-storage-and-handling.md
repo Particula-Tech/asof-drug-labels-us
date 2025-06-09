@@ -15,4 +15,4 @@ For current full prescribing information, please visit www.padagis.com.
 
 Manufactured for Padagis® Minneapolis, MN 55427 www.padagis.com
 
-Rev 03-25
+Rev 05-25
