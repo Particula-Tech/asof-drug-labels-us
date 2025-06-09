@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020850"
+  ],
+  "inn": "telmisartan",
+  "labeler": "Praxis, LLC",
+  "package_ndcs": [
+    "59368-382-01",
+    "59368-383-01",
+    "59368-384-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "telmisartan",
+      "name": "Micardis"
+    }
+  ],
+  "setid": "36d69907-63a8-70f0-e063-6294a90a0f28",
+  "source": "dailymed"
+}
