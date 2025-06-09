@@ -1,0 +1,15 @@
+# 10 OVERDOSAGE
+
+Telmisartan
+
+Limited data are available with regard to overdosage of telmisartan in humans.
+The most likely manifestations of overdosage with telmisartan are hypotension, dizziness, and tachycardia; bradycardia could occur from parasympathetic (vagal) stimulation.
+If symptomatic hypotension should occur, supportive treatment should be instituted.
+Telmisartan is not removed by hemofiltration and is not dialyzable.
+
+Hydrochlorothiazide
+
+The most common signs and symptoms observed in patients with a hydrochlorothiazide overdose are those caused by electrolyte depletion (hypokalemia, hypochloremia, hyponatremia) and dehydration resulting from excessive diuresis.
+If digitalis has also been administered, hypokalemia may accentuate cardiac arrhythmias.
+The degree to which hydrochlorothiazide is removed by hemodialysis has not been established.
+The oral LD 50of hydrochlorothiazide is greater than 10 g/kg in both mice and rats.

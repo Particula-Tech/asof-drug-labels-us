@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA021162"
+  ],
+  "inn": "hydrochlorothiazide",
+  "labeler": "Praxis, LLC",
+  "package_ndcs": [
+    "59368-385-01",
+    "59368-386-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "telmisartan and hydrochlorothiazide",
+      "name": "Micardis HCT"
+    }
+  ],
+  "setid": "36d6f15a-ed42-a8bf-e063-6294a90adcc0",
+  "source": "dailymed"
+}
