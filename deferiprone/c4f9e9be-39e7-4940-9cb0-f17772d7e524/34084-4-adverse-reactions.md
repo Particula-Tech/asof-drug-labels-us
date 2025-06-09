@@ -32,8 +32,8 @@ Table 7: Adverse reactions occurring in ≥ 1% of deferiprone tablets-treated pa
 | Body System Adverse Reaction | (N=642)% Patients |
 | --- | --- |
 | BLOOD AND LYMPHATIC SYSTEM DISORDERS |  |
-| Neutropenia | 6 |
-| Agranulocytosis | 2 |
+| NeutropeniaNeutropenia includes events of severe neutropenia (ANC ≥ 0.2 x 109/L and < 0.5 x 109/L). | 7 |
+| AgranulocytosisAgranulocytosis (ANC < 0.2 x 109/L) | 1 |
 | GASTROINTESTINAL DISORDERS |  |
 | Nausea | 13 |
 | Abdominal pain/discomfort | 10 |

@@ -14,20 +14,20 @@ Interrupt deferiprone tablets if infection develops and monitor the ANC frequent
 
 Advise patients taking deferiprone tablets to immediately interrupt therapy and report to their physician if they experience any symptoms indicative of infection.
 
-The incidence of agranulocytosis was 1.7% of patients in pooled clinical trials of 642 patients with thalassemia syndromes.
+The incidence of agranulocytosis was 1% of patients in pooled clinical trials of 642 patients with thalassemia syndromes.
 The mechanism of deferiprone-associated agranulocytosis is unknown.
 Agranulocytosis and neutropenia usually resolve upon discontinuation of deferiprone tablets, but there have been reports of agranulocytosis leading to death.
 
 Implement a plan to monitor for and to manage agranulocytosis and neutropenia prior to initiating deferiprone tablets treatment.
 
-For agranulocytosis (ANC < 0.5 x 109/L):
+For agranulocytosis (ANC < 0.2 x 109/L) and severe neutropenia (0.2 x 109/L ≤ ANC < 0.5 x 109/L):
 
 Consider hospitalization and other management as clinically appropriate.
 
 Do not resume deferiprone tablets in patients who have developed agranulocytosis unless potential benefits outweigh potential risks.
 Do not rechallenge patients who have developed neutropenia with deferiprone tablets unless potential benefits outweigh potential risks.
 
-For neutropenia (ANC < 1.5 x 109/L and > 0.5 x 109/L):
+For neutropenia (ANC < 1.5 x 109/L and ≥ 0.5 x 109/L):
 
 Instruct the patient to immediately discontinue deferiprone tablets and all other medications with a potential to cause neutropenia.
 
