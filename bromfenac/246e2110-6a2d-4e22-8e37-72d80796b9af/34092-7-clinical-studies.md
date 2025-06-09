@@ -9,7 +9,7 @@ The pain score was self-reported.
 The primary efficacy endpoint was the proportion of subjects who had complete clearance of ocular inflammation by Day 15.
 In the intent-to-treat analyses from both assessments, complete clearance at Day 8 and Day 15, bromfenac 0.07% was superior to vehicle as shown in the following table.
 
-| Proportion of Subjects with Cleared Ocular Inflammation (0 cells and no flare) |  |  |  |  |
+| Proportion of Subjects with Cleared Ocular Inflammation (0 cell and no flare) |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Study | Visit | Bromfenac 0.07% | Vehicle | Difference (%) (Asymptotic 95% CI) |
 | Study 1 | At Day 8 | 27/112 (24.1%) | 7/108 (6.5%) | 17.6 (8.4, 26.8) |
