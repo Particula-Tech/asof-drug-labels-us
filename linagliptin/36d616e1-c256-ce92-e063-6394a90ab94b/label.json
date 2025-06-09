@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208026"
+  ],
+  "inn": "linagliptin",
+  "labeler": "Praxis, LLC",
+  "package_ndcs": [
+    "59368-381-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "linagliptin and metformin hydrochloride",
+      "name": "Jentadueto XR"
+    }
+  ],
+  "setid": "36d616e1-c256-ce92-e063-6394a90ab94b",
+  "source": "dailymed"
+}
