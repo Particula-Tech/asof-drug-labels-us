@@ -6,8 +6,7 @@ The active pharmaceutical ingredient is in the form of bivalirudin trifluoroacet
 The chemical name for bivalirudin trifluoroacetate is D-phenylalanyl-L-prolyl-L-arginyl-L-prolyl-glycyl-glycyl-glycyl-glycyl-L-asparagyl-glycyl-L-aspartyl-L-phenylalanyl-L-glutamyl-L-glutamyl-L-isoleucyl-L-prolyl-L-glutamyl-L-glutamyl-L-tyrosyl-L-leucine trifluoroacetate (Figure 1).
 The molecular weight of bivalirudin is 2,180 daltons (anhydrous free base peptide).
 
-Figure 1.
-Structural formula for bivalirudin trifluoroacetate
+### Figure 1. Structural formula for bivalirudin trifluoroacetate
 
 Bivalirudin for Injection is supplied as a sterile white lyophilized cake, in single-dose vials.
 Each vial contains 250 mg bivalirudin, equivalent to an average of 270 mg of bivalirudin trifluoroacetate*, 125 mg mannitol, and sodium hydroxide to adjust the pH to 5 to 6 (equivalent of approximately 12.5 mg sodium).

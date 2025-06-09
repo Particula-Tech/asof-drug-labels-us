@@ -30,11 +30,11 @@ Bivalirudin for Injection is intended for intravenous bolus injection and contin
 
 Preparation Instructions for Bolus Injection and Continuous Infusion
 
-- To each 250 mg vial, add 5 mL of Sterile Water for Injection, USP.
-- Gently swirl until all material is dissolved.
-- Withdraw and discard 5 mL from a 50 mL infusion bag containing 5% Dextrose in Water or 0.9% Sodium Chloride for Injection.
-- Add the contents of the reconstituted vial to the infusion bag containing 5% Dextrose in Water or 0.9% Sodium Chloride for Injection to yield a final concentration of 5 mg/mL (e.g., 1 vial in 50 mL; 2 vials in 100 mL; 5 vials in 250 mL).
-- Adjust the dose to be administered according to the patient's weight (see Table 1).
+- •To each 250 mg vial, add 5 mL of Sterile Water for Injection, USP.
+- •Gently swirl until all material is dissolved.
+- •Withdraw and discard 5 mL from a 50 mL infusion bag containing 5% Dextrose in Water or 0.9% Sodium Chloride for Injection.
+- •Add the contents of the reconstituted vial to the infusion bag containing 5% Dextrose in Water or 0.9% Sodium Chloride for Injection to yield a final concentration of 5 mg/mL (e.g., 1 vial in 50 mL; 2 vials in 100 mL; 5 vials in 250 mL).
+- •Adjust the dose to be administered according to the patient's weight (see Table 1).
 
 Table 1: Dosing Table
 

@@ -11,7 +11,7 @@ All pregnancies have a background risk of birth defect, loss, or other adverse o
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
-Data
+### Data
 
 Animal Data
 
@@ -34,7 +34,7 @@ No data are available on the effects on the breastfed child or on milk productio
 Bivalirudin was administered to lactating rats in reproduction studies (see Data).
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Bivalirudin for Injection and any potential adverse effects on the breastfed child from Bivalirudin for Injection or from the underlying maternal condition.
 
-Data
+### Data
 
 Animal Data
 
