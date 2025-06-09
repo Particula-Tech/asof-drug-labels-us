@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA204629"
+  ],
+  "inn": "empagliflozin",
+  "labeler": "Praxis, LLC",
+  "package_ndcs": [
+    "59368-379-01",
+    "59368-380-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "empagliflozin",
+      "name": "Jardiance"
+    }
+  ],
+  "setid": "36d60609-d941-5fd0-e063-6294a90afc01",
+  "source": "dailymed"
+}
