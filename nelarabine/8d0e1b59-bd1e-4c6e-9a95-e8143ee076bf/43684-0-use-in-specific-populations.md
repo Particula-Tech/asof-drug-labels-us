@@ -5,7 +5,7 @@
 Risk Summary
 
 Based on its mechanism of action and findings in animal studies, nelarabine can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
-Limited available data with nelarabine use in pregnant women are insufficient to determine a drug-associated risk for major birth defects, miscarriage or adverse maternal or fetal outcomes.
+Limited available data with nelarabine use in pregnant women are insufficient to determine a drug-associated risk for major birth defects, miscarriage or adverse maternal, or fetal outcomes.
 There are risks to the pregnant woman associated with untreated leukemia or lymphoma (see Clinical Considerations).
 In animal reproduction studies, intravenous administration of nelarabine to pregnant rabbits during the period of organogenesis resulted in teratogenicity at maternal doses below the recommended human adult dose of 1,500 mg/m2/day (see Data).
 Advise pregnant women of the potential risk to the fetus.
@@ -24,7 +24,7 @@ Data
 
 Animal Data
 
-In an embryo-fetal development study in which pregnant rabbits were administered daily doses of nelarabine during organogenesis, increased incidences of fetal malformations, anomalies, and variations were observed at doses greater than or equal to 360 mg/m2/day (8-hour intravenous infusion; approximately 25% of the recommended human adult dose compared on a mg/m2 basis), which was the lowest dose tested.
+In an embryo-fetal development study in which pregnant rabbits were administered daily doses of nelarabine during organogenesis, increased incidences of fetal malformations, anomalies, and variations were observed at doses greater than or equal to 360 mg/m2/day (8-hour IV infusion; approximately 25% of the recommended human adult dose compared on a mg/m2 basis), which was the lowest dose tested.
 Cleft palate was seen in rabbits given 3,600 mg/m2/day (approximately 2-fold the adult dose), absent pollices (digits) in rabbits given greater than or equal to 1,200 mg/m2/day (approximately 75% of the recommended adult dose), while absent gall bladder, absent accessory lung lobes, fused or extra sternebrae, and delayed ossification was seen at all doses.
 Maternal body weight gain and fetal body weights were reduced in rabbits given 3,600 mg/m2/day (approximately 2-fold the adult dose), but could not account for the increased incidence of malformations seen at this or lower administered doses.
 

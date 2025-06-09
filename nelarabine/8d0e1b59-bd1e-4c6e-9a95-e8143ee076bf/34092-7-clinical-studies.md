@@ -3,7 +3,7 @@
 ## 14.1 Adult Clinical Trial in Relapsed or Refractory T-ALL and T-LBL
 
 The safety and efficacy of nelarabine in adult patients were studied in a clinical trial which included 39 treated patients, 28 who had T-ALL or T-LBL that had relapsed following or was refractory to at least two prior induction regimens.
-A 1,500-mg/m2 dose of nelarabine was administered intravenously over 2 hours on Days 1, 3, and 5 repeated every 21 days.
+A 1,500-mg/m2 dose of nelarabine was administered by intravenous infusion over 2 hours on Days 1, 3, and 5 repeated every 21 days.
 Patients who experienced signs or symptoms of Grade 2 or greater neurologic toxicity on therapy were to be discontinued from further therapy with nelarabine.
 Seventeen patients had a diagnosis of T-ALL and 11 had a diagnosis of T-LBL.
 For patients with ≥ 2 prior inductions, the age range was 16 to 65 years (mean: 34 years) and most patients were male (82%) and Caucasian (61%).
@@ -13,7 +13,7 @@ Complete response (CR) in this trial was defined as bone marrow blast counts ≤
 Complete response without complete hematologic recovery (CR*) was also assessed.
 The results of the trial for patients who had received ≥ 2 prior inductions are shown in Table 5.
 
-Table 5: Efficacy Results in Adult Patients With ≥ 2 Prior Inductions Treated With 1,500 mg/m2 of Nelarabine Administered Intravenously Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
+Table 5: Efficacy Results in Adult Patients With ≥ 2 Prior Inductions Treated With 1,500 mg/m2 of Nelarabine Administered by Intravenous Infusion Over 2 Hours on Days 1, 3, and 5 Repeated Every 21 Days
 
 |  | N = 28 |
 | --- | --- |
@@ -30,7 +30,7 @@ Time to CR plus CR* ranged from 2.9 to 11.7 weeks.
 ## 14.2 Pediatric Clinical Trial in Relapsed or Refractory T-ALL and T-LBL
 
 The safety and efficacy of nelarabine in pediatric patients were studied in a clinical trial which included patients age 21 years and younger, who had relapsed or refractory T-ALL or T-LBL.
-Eighty-four (84) patients, 39 of whom had received two or more prior induction regimens, were treated with 650 mg/m2/day of nelarabine administered intravenously over 1 hour daily for 5 consecutive days repeated every 21 days (see Table 6).
+Eighty-four (84) patients, 39 of whom had received two or more prior induction regimens, were treated with 650 mg/m2/day of nelarabine administered by intravenous infusion over 1 hour daily for 5 consecutive days repeated every 21 days (see Table 6).
 Patients who experienced signs or symptoms of Grade 2 or greater neurologic toxicity on therapy were to be discontinued from further therapy with nelarabine.
 
 Table 6: Pediatric Clinical Trial - Patient Allocation
@@ -50,7 +50,7 @@ Complete response without full hematologic recovery (CR*) was also assessed as a
 Duration of response is reported from date of response to date of relapse, and may include subsequent stem cell transplant.
 Efficacy results are presented in Table 7.
 
-Table 7: Efficacy Results in Patients Age 21 Years and Younger at Diagnosis With ≥ 2 Prior Inductions Treated With 650 mg/m2 of Nelarabine Administered Intravenously Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
+Table 7: Efficacy Results in Patients Age 21 Years and Younger at Diagnosis With ≥ 2 Prior Inductions Treated With 650 mg/m2 of Nelarabine Administered by Intravenous Infusion Over 1 Hour Daily for 5 Consecutive Days Repeated Every 21 Days
 
 |  | N = 39 |
 | --- | --- |

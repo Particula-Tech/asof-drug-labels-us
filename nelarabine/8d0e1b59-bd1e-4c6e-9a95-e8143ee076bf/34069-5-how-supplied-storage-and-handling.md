@@ -9,4 +9,6 @@ It is available as follows:
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 
+Discard unused portion.
+
 The vial stoppers are not made with natural rubber latex.
