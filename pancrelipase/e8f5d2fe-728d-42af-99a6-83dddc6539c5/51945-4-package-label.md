@@ -86,7 +86,7 @@ Rx only.
 
 NDC 62541-401-10
 
-pancrelipase PANCREAZE ® Delayed-Release Capsules
+pancrelipase PANCREAZE Delayed-Release Capsules
 
 Each capsule contains:
 

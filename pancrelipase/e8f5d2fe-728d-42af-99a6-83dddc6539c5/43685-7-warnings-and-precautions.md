@@ -9,7 +9,9 @@ The underlying mechanism of fibrosing colonopathy remains unknown.
 
 If there is a history of fibrosing colonopathy, monitor patients during treatment with PANCREAZE because some patients may be at risk of progressing to colonic stricture formation.
 It is uncertain whether regression of fibrosing colonopathy occurs.
-Do not exceed the recommended dosage of either 2,500 lipase units/kg/meal, 10,000 lipase units/kg/day, or 4,000 lipase units/g fat ingested/day in adult and pediatric patients greater than 12 months of age without further investigation.Higher dosages may be administered if they are documented to be effective by fecal fat measures or an improvement in signs and symptoms of malabsorption including measures of nutritional status.Patients receiving dosages higher than 6,000 lipase units/kg/meal should be frequently monitored for symptoms of fibrosing colonopathy and the dosage decreased or titrated downward to a lower range if clinically appropriate [see Dosage and Administration (2.1)].
+Do not exceed the recommended dosage of either 2,500 lipase units/kg/meal, 10,000 lipase units/kg/day, or 4,000 lipase units/g fat ingested/day in adult and pediatric patients greater than 12 months of age without further investigation.
+Higher dosages may be administered if they are documented to be effective by fecal fat measures or an improvement in signs and symptoms of malabsorption including measures of nutritional status.
+Patients receiving dosages higher than 6,000 lipase units/kg/meal should be frequently monitored for symptoms of fibrosing colonopathy and the dosage decreased or titrated downward to a lower range if clinically appropriate [see Dosage and Administration (2.1)].
 
 ## 5.2 Irritation of the Oral Mucosa
 
@@ -38,7 +40,7 @@ However, no cases of transmission of an infectious illness associated with the u
 
 ## 5.5 Hypersensitivity Reactions
 
-Serious hypersensitivity reactions including anaphylaxis, asthma, hives, and pruritus have been reported with pancreatic enzyme products [see Adverse Reactions (6.2)].
+Serious hypersensitivity reactions including anaphylaxis, asthma, hives, and pruritus have been reported with pancreatic enzyme products [see Adverse Reactions (6)].
 If symptoms occur, initiate appropriate medical management.
 
 Monitor patients with a known hypersensitivity reaction to proteins of porcine origin for hypersensitivity reactions during treatment with PANCREAZE.

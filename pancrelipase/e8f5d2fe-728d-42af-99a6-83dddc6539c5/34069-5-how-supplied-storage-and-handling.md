@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-PANCREAZE (pancrelipase) delayed-release capsules containing XXX-colored delayed-release pancrelipase are supplied as follows:
+PANCREAZE (pancrelipase) delayed-release capsules are supplied as follows:
 
 | Strength | Description | Supplied As NDC Number |
 | --- | --- | --- |
