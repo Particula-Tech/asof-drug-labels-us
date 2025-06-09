@@ -1,4 +1,4 @@
-| PATIENT INFORMATION Eribulin Mesylate Injection (i-RIBU-lin mi-SI-let) Injection, for intravenous use |
+| PATIENT INFORMATION Eribulin Mesylate Injection (er " i bue ' lin mes ' i late) Injection, for intravenous use |
 | --- |
 | What is the most important information I should know about eribulin mesylate injection? Eribulin mesylate injection can cause serious side effects, including: Lowwhite blood cell count (neutropenia). This can lead to serious infections that could lead to death. Your healthcare provider will check your blood cell counts before you receive each dose of eribulin mesylate injection and during treatment. Call your healthcare provider right away if you develop any of these symptoms of infection: ° fever (temperature above 100.5°F) ° chills ° cough ° burning or pain when you urinate Numbness, tingling, or pain in your hands or feet (peripheral neuropathy). Peripheral neuropathy is common with eribulin mesylate injection and sometimes can be severe. Tell your healthcare provider if you have new or worsening symptoms of peripheral neuropathy. Your healthcare provider may delay, decrease your dose, or stop treatment with eribulin mesylate injection if you have side effects. See “ What are possible side effects of eribulin mesylate injection?”for more information about side effects. |
 | What is eribulin mesylate injection? Eribulin mesylate injection is a prescription medicine used to treat people with: Breast cancer ° that has spread to other parts of the body, and ° who have already received certain types of anticancer medicines after the cancer has spread Liposarcoma ° that cannot be treated with surgery or has spread to other parts of the body, and °who have received treatment with a certain type of anticancer medicine It is not known if eribulin mesylate injection is safe and effective in children under 18 years of age. |
@@ -11,6 +11,6 @@
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 03/2025
+Revised: 05/2025
 
 LB-733-V2
