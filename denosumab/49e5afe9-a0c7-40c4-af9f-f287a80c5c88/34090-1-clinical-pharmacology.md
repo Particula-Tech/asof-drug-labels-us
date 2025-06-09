@@ -72,7 +72,7 @@ Hepatic Impairment: No clinical studies have been conducted to evaluate the effe
 
 ## 12.6 Immunogenicity
 
-The observed incidence of anti-drug antibody is highly dependent on the sensitivity and specificity of the assay.
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of Prolia or denosumab products.
 
 Using an electrochemiluminescent bridging immunoassay, less than 1% (55 out of 8113) of patients treated with Prolia for up to 5 years tested positive for binding antibodies (including pre-existing, transient, and developing antibodies).

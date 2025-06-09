@@ -13,7 +13,7 @@ Consider also assessing bone turnover status (serum markers of bone turnover or 
 
 ## 2.3 Recommended Dosage
 
-Prolia should be administered by a healthcare professional.
+Prolia should be administered by a healthcare provider.
 
 The recommended dose of Prolia is 60 mg administered as a single subcutaneous injection once every 6 months.
 Administer Prolia via subcutaneous injection in the upper arm, the upper thigh, or the abdomen.

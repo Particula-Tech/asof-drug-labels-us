@@ -14,12 +14,12 @@ Advise these patients to have their serum calcium measured weekly for the first 
 
 Drug Products with Same Active Ingredient
 
-Advise patients that denosumab is also marketed as Xgeva, and if taking Prolia, they should not receive Xgeva [see Warnings and Precautions (5.2)].
+Advise patients that if they receive Prolia, they should not receive other denosumab products concomitantly [see Warnings and Precautions (5.2)].
 
 Hypersensitivity
 
 Advise patients to seek prompt medical attention if signs or symptoms of hypersensitivity reactions occur.
-Advise patients who have had signs or symptoms of systemic hypersensitivity reactions that they should not receive denosumab (Prolia or Xgeva) [see Warnings and Precautions (5.3), Contraindications (4)].
+Advise patients who have had signs or symptoms of systemic hypersensitivity reactions that they should not receive denosumab products [see Warnings and Precautions (5.3), Contraindications (4)].
 
 Osteonecrosis of the Jaw
 

@@ -1,29 +1,28 @@
 # PRINCIPAL DISPLAY PANEL - 60 mg/mL Syringe Carton
 
-1 x 60 mg Single-Dose Prefilled Syringe
+1 x Single-Dose Prefilled Syringe NDC 55513-710-21
 
-NDC 55513-710-01
-
-AMGEN®
-
-prolia® (denosumab)
+AMGEN
 
 60 mg/mL
 
-60 mg/mL Injection – For Subcutaneous Use Only.
+prolia® (denosumab)
+
+Injection 60 mg/mL
+
+For Subcutaneous Use Only.
 
 Single-dose Prefilled Syringe.
 Discard unused portion.
+
+Prolia should be administered by a healthcare provider.
 
 Sterile Solution – No Preservative.
 
 Rx Only
 
-Refrigerate at 2° to 8°C (36° to 46°F).
-Do not freeze.
-Avoid excessive shaking.
-Protect from direct light and heat.
-
-Manufactured by: Amgen Inc., Thousand Oaks, CA 91320-1799
+ATTENTION: Dispense the accompanying Medication Guide to each patient.
+For more copies see www.prolia.com or call 1-877-562-4111.
+Manufactured by: Amgen Inc., Thousand Oaks, CA 91320-1799 U.S. License No. 1080
 
 Product of Singapore

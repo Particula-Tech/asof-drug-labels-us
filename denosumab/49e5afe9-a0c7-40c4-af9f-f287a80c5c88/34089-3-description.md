@@ -5,4 +5,4 @@ Denosumab has an approximate molecular weight of 147 kDa and is produced in gene
 
 Prolia (denosumab) injection is a sterile, preservative-free, clear, colorless to pale yellow solution for subcutaneous use.
 
-Each single-dose prefilled syringe contains 1 mL solution of 60 mg denosumab, 4.7% sorbitol, 17 mM acetate, 0.01% polysorbate 20, Water for Injection (USP), and sodium hydroxide to adjust the pH to 5.2.
+Each single-dose prefilled syringe contains 1 mL solution of 60 mg denosumab, glacial acetic acid (1 mg), polysorbate 20 (0.1 mg), sorbitol (47 mg), Water for Injection (USP), and sodium hydroxide to adjust the pH to 5.2.

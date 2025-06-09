@@ -24,8 +24,7 @@ Treatment with Prolia in these patients should be supervised by a healthcare pro
 
 ## 5.2 Drug Products with Same Active Ingredient
 
-Prolia contains the same active ingredient (denosumab) found in Xgeva.
-Patients receiving Prolia should not receive Xgeva.
+Patients receiving Prolia should not receive other denosumab products concomitantly.
 
 ## 5.3 Hypersensitivity
 

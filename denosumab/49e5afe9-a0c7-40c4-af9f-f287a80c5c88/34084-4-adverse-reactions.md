@@ -2,12 +2,13 @@
 
 The following serious adverse reactions are discussed below and also elsewhere in the labeling:
 
-- Hypocalcemia [see Warnings and Precautions (5.1)]
-- Serious Infections [see Warnings and Precautions (5.7)]
-- Dermatologic Adverse Reactions [see Warnings and Precautions (5.8)]
+- Severe Hypocalcemia and Mineral Metabolism Changes [see Warnings and Precautions (5.1)]
+- Hypersensitivity [see Warnings and Precautions (5.3)]
 - Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
 - Atypical Subtrochanteric and Diaphyseal Femoral Fractures [see Warnings and Precautions (5.5)]
 - Multiple Vertebral Fractures (MVF) Following Discontinuation of Prolia Treatment [see Warnings and Precautions (5.6)]
+- Serious Infections [see Warnings and Precautions (5.7)]
+- Dermatologic Adverse Reactions [see Warnings and Precautions (5.8)]
 
 The most common adverse reactions reported with Prolia in patients with postmenopausal osteoporosis are back pain, pain in extremity, musculoskeletal pain, hypercholesterolemia, and cystitis.
 
@@ -157,7 +158,7 @@ New Malignancies
 
 New malignancies were reported in no patients in the placebo group and 4 (3.3%) patients (3 prostate cancers, 1 basal cell carcinoma) in the Prolia group.
 
-Treatment of Glucocorticoid-Induced Osteoporosis
+Treatment of Glucocorticoid-induced Osteoporosis
 
 The safety of Prolia in the treatment of glucocorticoid-induced osteoporosis was assessed in the 1-year, primary analysis of a 2-year randomized, multicenter, double-blind, parallel-group, active-controlled study of 795 patients (30% men and 70% women) aged 20 to 94 (mean age of 63 years) treated with greater than or equal to 7.5 mg/day oral prednisone (or equivalent).
 A total of 384 patients were exposed to 5 mg oral daily bisphosphonate (active-control) and 394 patients were exposed to Prolia administered once every 6 months as a 60 mg subcutaneous dose.
