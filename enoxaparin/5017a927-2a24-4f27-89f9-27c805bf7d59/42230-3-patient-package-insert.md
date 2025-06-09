@@ -170,9 +170,9 @@ For more information about safe sharps disposal, and for specific information ab
 
 Figure N
 
-sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
+sanofi-aventis U.S. LLC Morristown, NJ 07960 A SANOFI COMPANY
 
-©2021 sanofi-aventis U.S. LLC
+©2025 sanofi-aventis U.S. LLC
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Issued: December 2021
+Issued: May 2025
