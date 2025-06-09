@@ -1,13 +1,7 @@
 For Oral Use Rx Only
 
-Distributed By
-
-PadagisTM
-
-Allegan, MI 49010
+Manufactured for Padagis® Minneapolis, MN 55427
 
 www.padagis.com
 
-Rev 04-22
-
-2F100 RC J6
+Rev 05-25
