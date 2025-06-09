@@ -15,7 +15,7 @@ Evaluate liver enzymes, creatinine, and thyroid function at baseline and periodi
 In cases of suspected immune-mediated adverse reactions, initiate appropriate workup to exclude alternative etiologies, including infection.
 Institute medical management promptly, including specialty consultation as appropriate.
 
-Withhold or permanently discontinue OPDIVO QVANTIG depending on severity [see Dosage and Administration (2.3)].
+Withhold or permanently discontinue OPDIVO QVANTIG depending on severity [see Dosage and Administration (2.4)].
 In general, if OPDIVO QVANTIG requires interruption or discontinuation, administer systemic corticosteroid therapy (1 to 2 mg/kg/day prednisone or equivalent) until improvement to Grade 1 or less.
 Upon improvement to Grade 1 or less, initiate corticosteroid taper and continue to taper over at least 1 month.
 Consider administration of other systemic immunosuppressants in patients whose immune-mediated adverse reactions are not controlled with corticosteroid therapy.
@@ -64,7 +64,7 @@ Of the 2 patients in whom OPDIVO QVANTIG was withheld for hepatitis, 2 reinitiat
 Nivolumab in combination with cabozantinib can cause hepatic toxicity with higher frequencies of Grade 3 and 4 ALT and AST elevations compared to nivolumab alone.
 Monitor liver enzymes before initiation of and periodically throughout treatment.
 Consider more frequent monitoring of liver enzymes as compared to when the drugs are administered as single agents.
-For elevated liver enzymes, interrupt nivolumab and cabozantinib and consider administering corticosteroids [see Dosage and Administration (2.3)].
+For elevated liver enzymes, interrupt nivolumab and cabozantinib and consider administering corticosteroids [see Dosage and Administration (2.4)].
 
 With the combination of intravenous nivolumab and cabozantinib, Grades 3 and 4 increased ALT or AST were seen in 11% (35/320) of patients.
 ALT or AST >3 times ULN (Grade ≥2) was reported in 83 patients, of whom 23 (28%) received systemic corticosteroids; ALT or AST resolved to Grades 0-1 in 74 (89%).
@@ -76,7 +76,7 @@ Adrenal Insufficiency
 
 OPDIVO QVANTIG can cause primary or secondary adrenal insufficiency.
 For Grade 2 or higher adrenal insufficiency, initiate symptomatic treatment, including hormone replacement as clinically indicated.
-Withhold OPDIVO QVANTIG depending on severity [see Dosage and Administration (2.3)].
+Withhold OPDIVO QVANTIG depending on severity [see Dosage and Administration (2.4)].
 
 Adrenal insufficiency occurred in 2% (5/247) of patients receiving OPDIVO QVANTIG, including Grade 3 (0.8%) and Grade 2 (1.2%) adverse reactions.
 Adrenal insufficiency led to permanent discontinuation of OPDIVO QVANTIG in 0.4% of patients and withholding of OPDIVO QVANTIG in 0.4% of patients.
@@ -99,7 +99,7 @@ OPDIVO QVANTIG can cause immune-mediated hypophysitis.
 Hypophysitis can present with acute symptoms associated with mass effect such as headache, photophobia, or visual field defects.
 Hypophysitis can cause hypopituitarism.
 Initiate hormone replacement as clinically indicated.
-Withhold or permanently discontinue OPDIVO QVANTIG depending on severity [see Dosage and Administration (2.3)].
+Withhold or permanently discontinue OPDIVO QVANTIG depending on severity [see Dosage and Administration (2.4)].
 
 Intravenous Nivolumab
 
@@ -115,7 +115,7 @@ OPDIVO QVANTIG can cause immune-mediated thyroid disorders.
 Thyroiditis can present with or without endocrinopathy.
 Hypothyroidism can follow hyperthyroidism.
 Initiate hormone replacement or medical management as clinically indicated.
-Withhold or permanently discontinue OPDIVO QVANTIG depending on severity [see Dosage and Administration (2.3)].
+Withhold or permanently discontinue OPDIVO QVANTIG depending on severity [see Dosage and Administration (2.4)].
 
 Thyroiditis
 
@@ -144,7 +144,7 @@ Type 1 Diabetes Mellitus, which can present with Diabetic Ketoacidosis
 
 Monitor patients for hyperglycemia or other signs and symptoms of diabetes.
 Initiate treatment with insulin as clinically indicated.
-Withhold OPDIVO QVANTIG depending on severity [see Dosage and Administration (2.3)].
+Withhold OPDIVO QVANTIG depending on severity [see Dosage and Administration (2.4)].
 
 Grade 3 diabetes occurred in 0.4% (1/247) of patients receiving OPDIVO QVANTIG.
 
@@ -167,7 +167,7 @@ Of the 3 patients in whom OPDIVO QVANTIG was withheld for nephritis or renal dys
 OPDIVO QVANTIG can cause immune-mediated rash or dermatitis, defined as requiring the use of steroids and no clear alternate etiology.
 Exfoliative dermatitis, including Stevens-Johnson Syndrome, toxic epidermal necrolysis (TEN), and DRESS (Drug Rash with Eosinophilia and Systemic Symptoms), has occurred with PD-1/PD-L1 blocking antibodies.
 Topical emollients and/or topical corticosteroids may be adequate to treat mild to moderate non-exfoliative rashes.
-Withhold or permanently discontinue OPDIVO QVANTIG depending on severity [see Dosage and Administration (2.3)].
+Withhold or permanently discontinue OPDIVO QVANTIG depending on severity [see Dosage and Administration (2.4)].
 
 Immune-mediated rash occurred in 7% (17/247) of patients, including Grade 3 (0.8%) and Grade 2 (2.8%) adverse reactions.
 Immune-mediated rash led to withholding of OPDIVO QVANTIG in 1.2% of patients.

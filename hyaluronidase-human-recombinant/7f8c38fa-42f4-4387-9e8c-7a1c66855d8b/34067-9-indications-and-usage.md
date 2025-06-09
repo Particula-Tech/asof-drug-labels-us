@@ -74,7 +74,7 @@ Continued approval for this indication may be contingent upon verification and d
 
 OPDIVO QVANTIG as monotherapy, is indicated for the adjuvant treatment of completely resected esophageal or gastroesophageal junction cancer with residual pathologic disease in adult patients who have received neoadjuvant chemoradiotherapy (CRT).
 
-OPDIVO QVANTIG, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma (ESCC).
+OPDIVO QVANTIG, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first-line treatment of adult patients with unresectable advanced or metastatic esophageal squamous cell carcinoma (ESCC) whose tumors express PD-L1 (≥1) [see Dosage and Administration (2.2)].
 
 Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of patients with unresectable advanced or metastatic ESCC.
 
@@ -82,4 +82,4 @@ OPDIVO QVANTIG as monotherapy, is indicated for the treatment of adult patients 
 
 ## 1.12 Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma
 
-OPDIVO QVANTIG, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the treatment of adult patients with advanced or metastatic gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma.
+OPDIVO QVANTIG, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the treatment of adult patients with advanced or metastatic gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma whose tumors express PD-L1 (≥1) [see Dosage and Administration (2.2)].

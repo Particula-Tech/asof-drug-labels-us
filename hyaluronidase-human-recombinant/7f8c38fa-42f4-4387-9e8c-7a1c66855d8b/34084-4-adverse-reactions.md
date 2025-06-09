@@ -763,7 +763,7 @@ Table 23: Adverse Reactions in >10% of Patients with Early-Stage NSCLC Receiving
 | Nervous System |  |  |  |  |
 | Peripheral neuropathyc | 13 | 0 | 6 | 0 |
 | Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
-| a Includes fatigue and asthenia |  |  |  |  |
+| a Includes fatigue and asthenia. |  |  |  |  |
 | b Includes rash, dermatitis, acneiform dermatitis, atopic dermatitis, bullous dermatitis, drug eruption, maculopapular rash, and pruritic rash. |  |  |  |  |
 | c Includes peripheral neuropathy, dysesthesia, hypoesthesia, peripheral motor neuropathy, peripheral sensory neuropathy. |  |  |  |  |
 
@@ -955,7 +955,7 @@ Table 27: Adverse Reactions Occurring in ≥10% of Patients - CHECKMATE-274
 | Hepatitisk | 11 | 4 | 8 | 0.6 |
 | Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
 | a Includes acne, blister, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis contact, eczema, eczema asteatotic, eczema nummular, erythema, erythema multiforme, lichen sclerosus, lichenoid keratosis, pemphigoid, photosensitivity reaction, pigmentation disorder, psoriasis, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rosacea, skin exfoliation, skin lesion, skin reaction, toxic skin eruption, and urticaria. |  |  |  |  |
-| b Includes colitis, colitis microscopic, diarrhea, duodenitis, enteritis, immune-mediated enterocolitis |  |  |  |  |
+| b Includes colitis, colitis microscopic, diarrhea, duodenitis, enteritis, immune-mediated enterocolitis. |  |  |  |  |
 | c Includes abdominal pain, abdominal discomfort, abdominal tenderness, lower and upper abdominal pain. |  |  |  |  |
 | d Includes musculoskeletal pain, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity and spinal pain. |  |  |  |  |
 | e Includes cystitis, escherichia urinary tract infection, pyelonephritis, pyelonephritis acute, pyelonephritis chronic, urethritis, urinary tract infection, urinary tract infection bacterial, urinary tract infection staphylococcal, and urosepsis. |  |  |  |  |

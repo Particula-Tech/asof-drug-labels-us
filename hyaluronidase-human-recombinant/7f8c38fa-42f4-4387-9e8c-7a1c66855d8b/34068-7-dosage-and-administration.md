@@ -2,7 +2,7 @@
 
 ## 2.1 Important Dosage and Administration Information
 
-OPDIVO QVANTIG has different dosage and administration instructions than intravenously administered nivolumab products [see Dosage and Administration (2.4)].
+OPDIVO QVANTIG has different dosage and administration instructions than intravenously administered nivolumab products [see Dosage and Administration (2.5)].
 
 OPDIVO QVANTIG is for subcutaneous use only in the abdomen or thigh.
 Do not administer intravenously.
@@ -11,7 +11,21 @@ OPDIVO QVANTIG is to be administered by a healthcare professional only.
 
 Adult patients currently receiving intravenous nivolumab as a single agent, or in combination with chemotherapy or cabozantinib, may switch to subcutaneous OPDIVO QVANTIG at their next scheduled dose.
 
-## 2.2 Recommended Dosage
+## 2.2 Patient Selection
+
+### Esophageal Cancer
+
+Select patients with unresectable advanced or metastatic ESCC for treatment with OPDIVO QVANTIG in combination with fluoropyrimidine- and platinum-containing chemotherapy based on PD-L1 expression [see Clinical Studies (14.11)].
+
+- •An FDA-approved companion diagnostic for the detection of PD-L1 expression in patients with advanced or metastatic ESCC is not available.
+
+### Gastric Cancer, Gastroesophageal Junction Cancer, and Esophageal Adenocarcinoma
+
+Select patients with advanced or metastatic gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma for treatment with OPDIVO QVANTIG in combination with fluoropyrimidine-and platinum-containing chemotherapy based on PD-L1 expression [see Clinical Studies (14.12)].
+
+- •An FDA-approved companion diagnostic for the detection of PD-L1 expression in patients with advanced or metastatic gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma is not available.
+
+## 2.3 Recommended Dosage
 
 The recommended dosages of OPDIVO QVANTIG as monotherapy agent are presented in Table 1.
 
@@ -50,7 +64,7 @@ Table 2: Recommended Dosages for OPDIVO QVANTIG in Combination with Other Therap
 | Gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma | 600 mg nivolumab and 10,000 units hyaluronidase* with fluoropyrimidine- and platinum-containing chemotherapy every 2 weeksor900 mg nivolumab and 15,000 units hyaluronidase* with fluoropyrimidine- and platinum-containing chemotherapy every 3 weeks | OPDIVO QVANTIG: Until disease progression, unacceptable toxicity, or up to 2 years Chemotherapy: Until disease progression or unacceptable toxicity |
 | * Administer over 3-5 minutes. |  |  |
 
-## 2.3 Dose Modifications
+## 2.4 Dosage Modifications
 
 No dose reduction for OPDIVO QVANTIG is recommended.
 In general, withhold OPDIVO QVANTIG for severe (Grade 3) immune-mediated adverse reactions.
@@ -89,7 +103,7 @@ Table 4: Recommended Dosage Modifications for Adverse Reactions in Patients Trea
 | ALT or AST >10 times ULN or >3 times ULN with concurrent total bilirubin ≥2 times ULN | Permanently discontinuea both OPDIVO QVANTIG and cabozantinib |  |  |
 | a Consider corticosteroid therapy for hepatic adverse reactions if OPDIVO QVANTIG is withheld or discontinued when administered in combination with cabozantinib. b After recovery, rechallenge with one or both of OPDIVO QVANTIG and cabozantinib may be considered. If rechallenging with cabozantinib with or without OPDIVO QVANTIG, refer to cabozantinib Prescribing Information. |  |  |  |
 
-## 2.4 Preparation and Administration
+## 2.5 Preparation and Administration
 
 To prevent medication errors, check the vial labels to ensure that the drug being prepared and administered is OPDIVO QVANTIG for subcutaneous use and NOT intravenous nivolumab.
 Do NOT administer OPDIVO QVANTIG intravenously.
