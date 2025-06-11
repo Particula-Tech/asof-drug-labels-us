@@ -211,15 +211,15 @@ Therefore, linezolid has the potential for interaction with adrenergic and serot
 Adrenergic Agents
 
 Some individuals receiving linezolid may experience a reversible enhancement of the pressor response to indirect-acting sympathomimetic agents, vasopressor or dopaminergic agents.
-Commonly used drugs such as phenylpropanolamine and pseudoephedrine have been specifically studied.
+Commonly used drugs such as pseudoephedrine have been specifically studied.
 Initial doses of adrenergic agents, such as dopamine or epinephrine, should be reduced and titrated to achieve the desired response.
 
 Tyramine: A significant pressor response has been observed in normal adult subjects receiving linezolid and tyramine doses of more than 100 mg.
 Therefore, patients receiving linezolid need to avoid consuming large amounts of foods or beverages with high tyramine content [see Patient Counseling Information (17)].
 
-Pseudoephedrine HCl or phenylpropanolamine HCl: A reversible enhancement of the pressor response of either pseudoephedrine HCl (PSE) or phenylpropanolamine HCl (PPA) is observed when linezolid is administered to healthy normotensive subjects [see Warnings and Precautions (5.6) and Drug Interactions (7)].
+Pseudoephedrine HCl: A reversible enhancement of the pressor response of pseudoephedrine HCl (PSE) is observed when linezolid is administered to healthy normotensive subjects [see Warnings and Precautions (5.6) and Drug Interactions (7)].
 A similar study has not been conducted in hypertensive patients.
-The interaction studies conducted in normotensive subjects evaluated the blood pressure and heart rate effects of placebo, PPA or PSE alone, linezolid alone, and the combination of steady-state linezolid (600 mg every 12 hours for 3 days) with two doses of PPA (25 mg) or PSE (60 mg) given 4 hours apart.
+The interaction studies conducted in normotensive subjects evaluated the blood pressure and heart rate effects of placebo, phenylpropanolamine (PPA) or PSE alone, linezolid alone, and the combination of steady-state linezolid (600 mg every 12 hours for 3 days) with two doses of PPA (25 mg) or PSE (60 mg) given 4 hours apart.
 Heart rate was not affected by any of the treatments.
 Blood pressure was increased with both combination treatments.
 Maximum blood pressure levels were seen 2 to 3 hours after the second dose of PPA or PSE, and returned to baseline 2 to 3 hours after peak.
