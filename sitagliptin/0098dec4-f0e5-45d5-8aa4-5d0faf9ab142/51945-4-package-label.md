@@ -2,7 +2,7 @@
 
 NDC 70771-1859-6 in bottle of 60 tablets with child-resistant closure.
 
-Zituvimet
+Zituvimet®
 
 (sitagliptin and metformin HCl) tablets, 50 mg/500 mg
 
@@ -12,7 +12,7 @@ Rx only
 
 NDC 70771-1860-6 in bottle of 60 tablets with child-resistant closure.
 
-Zituvimet
+Zituvimet®
 
 (sitagliptin and metformin HCl) tablets, 50 mg/1000 mg
 
