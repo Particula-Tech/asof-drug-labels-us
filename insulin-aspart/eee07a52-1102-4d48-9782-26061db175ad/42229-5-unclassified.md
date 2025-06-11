@@ -1,4 +1,4 @@
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
+Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960 A SANOFI COMPANY U.S. License No. 1752
 
 ©2025 Sanofi.
 All rights reserved.

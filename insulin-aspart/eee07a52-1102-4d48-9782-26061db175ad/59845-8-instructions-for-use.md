@@ -147,7 +147,7 @@ After MERILOG vials have been opened (in-use)
 - If a vial has been frozen, throw it away.
 - The MERILOG vial you are using should be thrown away after 28 days, even if it still has insulin left in it.
 
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
+Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960 A SANOFI COMPANY U.S. License No. 1752
 
 ©2025 Sanofi.
 All rights reserved.
@@ -155,7 +155,7 @@ All trademarks mentioned in this document are the property of the Sanofi group.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Approved: February 2025
+Approved: May 2025
 
 # INSTRUCTIONS FOR USE MERILOG™ SoloStar® [mer-ih-lawg soh-loh-stahr] (insulin aspart-szjj) injection, for subcutaneous use 3 mL single-patient-use prefilled pen: 100 units/mL (U-100)
 
@@ -462,7 +462,7 @@ Throwing your pen away
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
+Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960 A SANOFI COMPANY U.S. License No. 1752
 
 ©2025 Sanofi.
 All rights reserved.
@@ -470,4 +470,4 @@ All trademarks mentioned in this document are the property of the Sanofi group w
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Approved: February 2025
+Approved: May 2025
