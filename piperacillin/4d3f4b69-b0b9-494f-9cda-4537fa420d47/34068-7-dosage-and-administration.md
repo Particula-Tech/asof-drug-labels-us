@@ -38,7 +38,7 @@ No additional dosage of piperacillin and tazobactam for injection is necessary f
 
 ## 2.4 Dosage in Pediatric Patients with Appendicitis/Peritonitis or Nosocomial Pneumonia
 
-The recommended dosage for pediatric patients with appendicitis and or peritonitis or nosocomial pneumonia aged 2 months of age and older, weighing up to 40 kg, and with normal renal function, is described in Table 2[see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
+The recommended dosage for pediatric patients with appendicitis and/or peritonitis or nosocomial pneumonia aged 2 months of age and older, weighing up to 40 kg, and with normal renal function, is described in Table 2[see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].
 
 Table 2: Recommended Dosage of Piperacillin and Tazobactam for Injection in Pediatric Patients 2 Months of Age and Older, Weighing Up to 40 kg, and With Normal Renal Function*
 
