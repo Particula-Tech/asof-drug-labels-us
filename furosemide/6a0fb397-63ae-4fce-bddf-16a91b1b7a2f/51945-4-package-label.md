@@ -20,18 +20,28 @@ Do not use if bottle closure seal is broken.
 
 PHARMACIST: Dispense in well-closed, light-resistant container with child-resistant closure.
 
-STORE at 20°- 25°C (68°- 77°F) [see USP Controlled Room Temperature].
+Store at 68°to 77°F (20° to 25°C); excursions permitted to 59°to 86°F (15° to 30°C) [see USP Controlled Room Temperature].
+
 Protect from light.
 
+Manufactured by:
+
+Prinston Laboratorires
+
+Charlotte, NC 28206, USA
+
+Distributed by:
+
+Solco Healthcare US, LLC
+
+Somerset.
+NJ 08873, USA
+
+Rev: MAY2025
+
+8281353-05
+
 # PRINCIPAL DISPLAY PANEL - 40 mg
-
-Container Label - 40 mg - 100 tablets
-
-NDC 43547-402-10
-
-Furosemide Tablets
-
-Rx only
 
 EACH TABLET CONTAINS:
 
@@ -45,8 +55,26 @@ Do not use if bottle closure seal is broken.
 
 PHARMACIST: Dispense in well-closed, light-resistant container with child-resistant closure.
 
-STORE at 20°- 25°C (68°- 77°F) [see USP Controlled Room Temperature].
+Store at 68°to 77°F (20° to 25°C); excursions permitted to 59°to 86°F (15° to 30°C) [see USP Controlled Room Temperature].
+
 Protect from light.
+
+Manufactured by:
+
+Prinston Laboratorires
+
+Charlotte, NC 28206, USA
+
+Distributed by:
+
+Solco Healthcare US, LLC
+
+Somerset.
+NJ 08873, USA
+
+Rev: MAY2025
+
+8281356-05
 
 # PRINCIPAL DISPLAY PANEL - 80 mg
 
@@ -61,7 +89,7 @@ Rx only
 EACH TABLET CONTAINS:
 
 Furosemide, USP......................................
-40 mg
+80 mg
 
 DOSAGE and ADMINISTRATION: See package insert for dosage information.
 
@@ -70,8 +98,26 @@ Do not use if bottle closure seal is broken.
 
 PHARMACIST: Dispense in well-closed, light-resistant container with child-resistant closure.
 
-STORE at 20°- 25°C (68°- 77°F) [see USP Controlled Room Temperature].
+Store at 68°to 77°F (20° to 25°C); excursions permitted to 59°to 86°F (15° to 30°C) [see USP Controlled Room Temperature].
+
 Protect from light.
+
+Manufactured by:
+
+Prinston Laboratorires
+
+Charlotte, NC 28206, USA
+
+Distributed by:
+
+Solco Healthcare US, LLC
+
+Somerset.
+NJ 08873, USA
+
+Rev: MAY2025
+
+8281359-05
 
 # PRINCIPAL DISPLAY PANEL - 20 mg bulk
 
