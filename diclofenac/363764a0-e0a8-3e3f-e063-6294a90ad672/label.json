@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "ANDA075185"
+  ],
+  "inn": "diclofenac",
+  "labeler": "Carlsbad Technology, Inc.",
+  "package_ndcs": [
+    "61442-101-01",
+    "61442-101-10",
+    "61442-101-60",
+    "61442-226-01",
+    "61442-226-10",
+    "61442-226-60",
+    "61442-227-01",
+    "61442-227-05",
+    "61442-227-10",
+    "61442-227-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "diclofenac sodium",
+      "name": "Diclofenac Sodium"
+    }
+  ],
+  "setid": "363764a0-e0a8-3e3f-e063-6294a90ad672",
+  "source": "dailymed"
+}
