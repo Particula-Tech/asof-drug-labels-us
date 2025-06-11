@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA208780"
+  ],
+  "inn": "pirfenidone",
+  "labeler": "Legacy Pharma USA Inc.",
+  "package_ndcs": [
+    "83107-028-27",
+    "83107-029-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET, COATED",
+      "generic": "pirfenidone",
+      "name": "ESBRIET"
+    }
+  ],
+  "setid": "81f17f7d-cb04-4052-8682-dd3e330210ab",
+  "source": "dailymed"
+}
