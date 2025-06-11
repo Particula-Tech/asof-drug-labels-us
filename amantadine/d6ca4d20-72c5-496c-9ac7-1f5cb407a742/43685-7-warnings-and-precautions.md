@@ -26,14 +26,14 @@ Patients with Parkinson's disease improving on amantadine hydrochloride capsules
 Because Amantadine Hydrochloride Capsules has anticholinergic effects and may cause mydriasis, it should not be given to patients with untreated angle closure glaucoma.
 
 Corneal Edema: Corneal edema has been reported in patients taking amantadine.
-Symptoms can include blurry vision, eye pain, and vision loss.
+Symptoms include sudden onset of blurry vision, or progressive vision loss, with or without eye pain.
 Corneal involvement is usually bilateral.
 Onset can occur from a few weeks to several years after starting amantadine.
-Resolution of symptoms has occurred as soon as weeks after amantadine cessation.
-However, corneal grafts have been required in some patients.
-Ask patients if their vision has changed.
-Consider obtaining baseline and periodic ophthalmologic examinations after initiation of therapy with amantadine.
-If corneal edema occurs, consider discontinuing amantadine and ruling out other etiologies (see Dosage and Administration).
+Resolution of symptoms typically begins within weeks of amantadine cessation.
+However, corneal grafts have been required in some patients when the condition is not recognized.
+Permanent damage can occur if amantadine is continued.
+Ask patients if their vision has changed and obtain ophthalmologic examinations to rule out corneal edema should vision changes occur after initiation of therapy with amantadine.
+If corneal edema occurs, taper and discontinue amantadine (see Dosage and Administration).
 
 # PRECAUTIONS
 

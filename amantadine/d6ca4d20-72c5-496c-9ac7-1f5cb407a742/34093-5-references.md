@@ -19,4 +19,4 @@ Berkowitz, J. Pediatr.
 Manufactured for: Bionpharma Inc. Princeton, NJ 08540, USA
 
 Rev.
-04/25
+06/25
