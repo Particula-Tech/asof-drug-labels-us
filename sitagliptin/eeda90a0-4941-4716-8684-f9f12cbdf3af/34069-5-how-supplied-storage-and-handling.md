@@ -8,3 +8,7 @@ Tablets supplied as follows:
 | Bottles of 180 tablets with child-resistant closure. | NDC 70710-1786-8 |  |  |
 | 50 mg sitagliptin and 1,000 mg metformin HCl | Reddish brown, oval shaped, biconvex, film coated tablets debossed with "1787" on one side and plain on the other side | Bottles of 60 tablets with child-resistant closure. | NDC 70710-1787-6 |
 | Bottles of 180 tablets with child-resistant closure. | NDC 70710-1787-8 |  |  |
+
+Store at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (59°F and 86°F), [see USP Controlled Room Temperature].
+
+Protect from moisture.
