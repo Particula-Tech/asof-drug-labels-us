@@ -6,7 +6,8 @@ Liraglutide is made by attaching a C-16 fatty acid (palmitic acid) with a glutam
 The molecular formula of liraglutide is C172H265N43O51 and the molecular weight is 3751.2 Daltons.
 The structural formula (Figure 1) is:
 
-Figure 1 Structural Formula of liraglutide
+Figure 1.
+Structural Formula of liraglutide
 
 VICTOZA injection is a sterile, aqueous, clear, colorless or almost colorless solution for subcutaneous use.
 Each 1 mL of VICTOZA solution contains 6 mg of liraglutide and the following inactive ingredients: disodium phosphate dihydrate, 1.42 mg; propylene glycol, 14 mg; phenol, 5.5 mg; and water for injection.

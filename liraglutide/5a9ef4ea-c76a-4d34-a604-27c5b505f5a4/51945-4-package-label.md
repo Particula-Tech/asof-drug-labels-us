@@ -26,7 +26,7 @@ Contains: 3 Victoza Pens, Product Literature
 
 Dispense the enclosed Medication Guide to each patient
 
-Pen needles not included
+Intended for use with Novo Nordisk disposable needles
 
 3 Pens
 
@@ -58,6 +58,6 @@ Contains: 2 Victoza Pens, Product Literature
 
 Dispense the enclosed Medication Guide to each patient
 
-Pen needles not included
+Intended for use with Novo Nordisk disposable needles
 
 2 Pens

@@ -3,12 +3,13 @@
 The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
 - •Risk of Thyroid C-cell Tumors [see Warnings and Precautions (5.1)]
-- •Pancreatitis [see Warnings and Precautions (5.2)]
+- •Acute Pancreatitis [see Warnings and Precautions (5.2)]
 - •Hypoglycemia [see Warnings and Precautions (5.4)]
-- •Acute Kidney Injury [see Warnings and Precautions (5.5)]
+- •Acute Kidney Injury Due to Volume Depletion [see Warnings and Precautions (5.5)]
+- •Severe Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.6)]
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
-- •Acute Gallbladder Disease [see Warnings and Precautions (5.7)]
-- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.8)]
+- •Acute Gallbladder Disease [see Warnings and Precautions (5.8)]
+- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -27,7 +28,8 @@ Table 1 shows common adverse reactions in adults, excluding hypoglycemia, associ
 These adverse reactions occurred more commonly on VICTOZA than on placebo and occurred in at least 5% of patients treated with VICTOZA.
 Overall, the type, and severity of adverse reactions in pediatric patients 10 years of age and older and above were comparable to that observed in the adult population.
 
-Table 1 Adverse reactions reported in ≥ 5% of Adult Patients Treated with VICTOZA for Type 2 Diabetes Mellitus
+Table 1.
+Adverse reactions reported in ≥ 5% of Adult Patients Treated with VICTOZA for Type 2 Diabetes Mellitus
 
 |  | PlaceboN=661 | Liraglutide 1.2 mgN= 645 | Liraglutide 1.8 mgN= 1024 |
 | --- | --- | --- | --- |
@@ -52,6 +54,7 @@ Other Adverse Reactions
 Gastrointestinal Adverse Reactions
 
 In the pool of 5 glycemic control, placebo-controlled adult clinical trials, withdrawals due to gastrointestinal adverse reactions, occurred in 4.3% of VICTOZA-treated patients and 0.5% of placebo-treated patients.
+Severe gastrointestinal adverse reactions were reported more frequently among patients receiving VICTOZA (1.2 mg 4.4 %, 1.8 mg 4.2 %) than placebo (1.1 %).
 Withdrawal due to gastrointestinal adverse events mainly occurred during the first 2-3 months of the trials.
 
 Injection site reactions
@@ -64,7 +67,8 @@ Hypoglycemia
 In 5 adult glycemic control, placebo-controlled clinical trials of at least 26 weeks duration, hypoglycemia requiring the assistance of another person for treatment occurred in 8 VICTOZA-treated patients (7.5 events per 1000 patient-years).
 Of these 8 VICTOZA-treated patients, 7 patients were concomitantly using a sulfonylurea.
 
-Table 2 Adult Incidence (%) and Rate (episodes/patient year) of Hypoglycemia in 26-Week Combination Therapy Placebo-controlled Trials
+Table 2.
+Adult Incidence (%) and Rate (episodes/patient year) of Hypoglycemia in 26-Week Combination Therapy Placebo-controlled Trials
 
 |  | Placebo Comparator | VICTOZA Treatment |
 | --- | --- | --- |
@@ -93,6 +97,13 @@ Papillary thyroid carcinoma
 
 In adult glycemic control trials of VICTOZA, there were 7 reported cases of papillary thyroid carcinoma in patients treated with VICTOZA and 1 case in a comparator-treated patient (1.5 vs. 0.5 cases per 1000 patient-years).
 Most of these papillary thyroid carcinomas were <1 cm in greatest diameter and were diagnosed in surgical pathology specimens after thyroidectomy prompted by findings on protocol-specified screening with serum calcitonin or thyroid ultrasound.
+
+Pancreatitis
+
+In glycemic control trials of VICTOZA, there have been 13 cases of pancreatitis among VICTOZA-treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1000 patient-years).
+Nine of the 13 cases with VICTOZA were reported as acute pancreatitis and four were reported as chronic pancreatitis.
+In one case in a VICTOZA-treated patient, pancreatitis, with necrosis, was observed and led to death; however clinical causality could not be established.
+Some patients had other risk factors for pancreatitis, such as a history of cholelithiasis or alcohol abuse.
 
 Cholelithiasis and cholecystitis
 
@@ -138,13 +149,11 @@ Mean increases from baseline in heart rate of 2 to 3 beats per minute have been 
 The following additional adverse reactions have been reported during post-approval use of VICTOZA.
 Because these events are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- •Gastrointestinal: Acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death, ileus
-- •General Disorders and Administration Site Conditions: Allergic reactions: rash and pruritus
+- •Gastrointestinal: Acute pancreatitis; hemorrhagic and necrotizing pancreatitis sometimes resulting in death; ileus, nausea, vomiting and diarrhea leading to dehydration
 - •Hepatobiliary: Elevations of liver enzymes, hyperbilirubinemia, cholestasis, cholecystitis, cholelithiasis requiring cholecystectomy, hepatitis
-- •Immune system: Angioedema and anaphylactic reactions
-- •Metabolism and nutrition: Dehydration resulting from nausea, vomiting and diarrhea
+- •Hypersensitivity: Angioedema, anaphylactic reactions, pruritus
 - •Neoplasms: Medullary thyroid carcinoma
-- •Nervous system: Dysgeusia, dizziness
+- •Neurologic: Dysgeusia, dizziness, dysesthesia
 - •Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.
-- •Renal and urinary: Increased serum creatinine, acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis.
-- •Skin and subcutaneous tissue: Cutaneous amyloidosis
+- •Renal: Acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis; and increased serum creatinine
+- •Skin and subcutaneous tissue: Cutaneous amyloidosis, alopecia

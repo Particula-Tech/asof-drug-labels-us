@@ -1,14 +1,12 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+1. How Supplied
 
 VICTOZA Injection: 18 mg/3 mL (6 mg/mL) clear, colorless solution in a pre-filled, single-patient-use pen that delivers doses of 0.6 mg, 1.2 mg, or 1.8 mg is available in the following package sizes:
 
-2 x VICTOZA pen NDC 0169-4060-12
-
-3 x VICTOZA pen NDC 0169-4060-13
-
-## 16.2 Recommended Storage
+1. 2 x VICTOZA pen NDC 0169-4060-12
+2. 3 x VICTOZA pen NDC 0169-4060-13
+3. Recommended Storage
 
 Prior to first use, VICTOZA should be stored in a refrigerator between 36ºF to 46ºF (2ºC to 8ºC).
 Do not store in the freezer or directly adjacent to the refrigerator cooling element.

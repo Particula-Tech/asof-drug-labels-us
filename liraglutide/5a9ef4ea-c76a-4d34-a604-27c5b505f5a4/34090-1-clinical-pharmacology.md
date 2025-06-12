@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Liraglutide is an acylated human Glucagon-Like Peptide-1 (GLP-1) receptor agonist with 97% amino acid sequence homology to endogenous human GLP-1(7-37).
+Liraglutide is an acylated human GLP-1 receptor agonist with 97% amino acid sequence homology to endogenous human GLP-1(7-37).
 GLP-1(7-37) represents <20% of total circulating endogenous GLP-1.
 Like GLP-1(7-37), liraglutide activates the GLP-1 receptor, a membrane-bound cell-surface receptor coupled to adenylyl cyclase by the stimulatory G-protein, Gs, in pancreatic beta cells.
 Liraglutide increases intracellular cyclic AMP (cAMP) leading to insulin release in the presence of elevated glucose concentrations.
@@ -10,9 +10,9 @@ This insulin secretion subsides as blood glucose concentrations decrease and app
 Liraglutide also decreases glucagon secretion in a glucose-dependent manner.
 The mechanism of blood glucose lowering also involves a delay in gastric emptying.
 
-GLP-1(7-37) has a half-life of 1.5-2 minutes due to degradation by the ubiquitous endogenous enzymes, dipeptidyl peptidase IV (DPP-IV) and neutral endopeptidases (NEP).
+GLP-1(7-37) has a half-life of 1.5-2 minutes due to degradation by the ubiquitous endogenous enzymes, dipeptidyl peptidase 4 (DPP-4) and neutral endopeptidases (NEP).
 Unlike native GLP-1, liraglutide is stable against metabolic degradation by both peptidases and has a plasma half-life of 13 hours after subcutaneous administration.
-The pharmacokinetic profile of liraglutide, which makes it suitable for once daily administration, is a result of self-association that delays absorption, plasma protein binding and stability against metabolic degradation by DPP-IV and NEP.
+The pharmacokinetic profile of liraglutide, which makes it suitable for once daily administration, is a result of self-association that delays absorption, plasma protein binding and stability against metabolic degradation by DPP-4 and NEP.
 
 ## 12.2 Pharmacodynamics
 
@@ -26,7 +26,8 @@ Glucose-dependent insulin secretion
 The effect of a single dose of 7.5 mcg/kg (~ 0.7 mg) VICTOZA on insulin secretion rates (ISR) was investigated in 10 patients with type 2 diabetes mellitus during graded glucose infusion.
 In these patients, on average, the ISR response was increased in a glucose-dependent manner (Figure 2).
 
-Figure 2 Mean Insulin Secretion Rate (ISR) versus Glucose Concentration Following Single-Dose VICTOZA 7.5 mcg/kg (~ 0.7 mg) or Placebo in Patients with Type 2 Diabetes Mellitus (N=10) During Graded Glucose Infusion
+Figure 2.
+Mean Insulin Secretion Rate (ISR) versus Glucose Concentration Following Single-Dose VICTOZA 7.5 mcg/kg (~ 0.7 mg) or Placebo in Patients with Type 2 Diabetes Mellitus (N=10) During Graded Glucose Infusion
 
 Glucagon secretion
 

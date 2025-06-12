@@ -9,6 +9,5 @@ infarction, or non-fatal stroke) in adults with type 2 diabetes mellitus and est
 
 Limitations of Use:
 
-VICTOZA should not be used in patients with type 1 diabetes mellitus.
-
-VICTOZA contains liraglutide and should not be coadministered with other liraglutide-containing products.
+VICTOZA contains liraglutide.
+Coadministration with other liraglutide-containing products is not recommended.

@@ -76,20 +76,13 @@ No overall differences in safety or effectiveness for VICTOZA have been observed
 No dose adjustment of VICTOZA is recommended for patients with renal impairment [see Clinical Pharmacology (12.3)].
 The safety and efficacy of VICTOZA was evaluated in a 26-week clinical study that included patients with moderate renal impairment (eGFR 30 to 60 mL/min/1.73m2) [see Clinical Studies (14.1)].
 
-In the VICTOZA treatment arm of the LEADER trial [see Clinical Studies (14.3)], 1932 (41.4%) patients had mild renal impairment, 999 (21.4%) patients had moderate renal impairment and 117 (2.5%) patients had severe renal impairment at baseline.
+In the VICTOZA treatment arm of the LEADER trial [see Clinical Studies (14.3)], 1,932 (41.4%) patients had mild renal impairment, 999 (21.4%) patients had moderate renal impairment and 117 (2.5%) patients had severe renal impairment at baseline.
 No overall differences in safety or efficacy were seen in these patients compared to patients with normal renal function.
 
 There is limited experience with VICTOZA in patients with end stage renal disease.
-There have been postmarketing reports of acute renal failure and worsening of chronic renal failure, which may sometimes require hemodialysis [see Warnings and Precautions (5.5) and Adverse Reactions (6.2)].
-Use caution in patients who experience dehydration.
 
 ## 8.7 Hepatic Impairment
 
 There is limited experience in patients with mild, moderate or severe hepatic impairment.
 Therefore, VICTOZA should be used with caution in this patient population.
 No dose adjustment of VICTOZA is recommended for patients with hepatic impairment [see Clinical Pharmacology (12.3)].
-
-## 8.8 Gastroparesis
-
-VICTOZA slows gastric emptying.
-VICTOZA has not been studied in patients with pre-existing gastroparesis.
