@@ -1,14 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 6 mg Tablet Bottle Carton
 
-NDC 0832-0814-11
-
-Deflazacort Tablets
-
-6 mg for Oral Use
-
-100 Tablets Rx only
-
-UPSHER-SMITH
+NDC 0832-0814-11 Deflazacort Tablets 6 mg for Oral Use 100 Tablets Rx only UPSHER-SMITH
 
 # PRINCIPAL DISPLAY PANEL - 18 mg Tablet Bottle Carton
 
