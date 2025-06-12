@@ -35,6 +35,6 @@ Manufactured by, Packed by, Distributed by:
 
 Baxter Healthcare Corporation Deerfield, IL 60015 USA Made in the USA
 
-07-19-03-984
+07-19-08-903
 
 Baxter and Galaxy are trademarks of Baxter International Inc. or its subsidiaries.

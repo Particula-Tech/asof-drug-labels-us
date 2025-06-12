@@ -47,4 +47,6 @@ Vascular disorders: Hypotension, shock, vasculitis
 The following adverse reactions have been identified during postmarketing use of vancomycin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
+Immune System Disorders:Acute myocardial ischemia with or without myocardial infarction may occur as part of an allergic reaction.
+
 Skin and Subcutaneous Tissue Disorders: Severe dermatologic reactions such as toxic epidermal necrolysis (TEN), Drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), and linear IgA bullous dermatosis (LABD).
