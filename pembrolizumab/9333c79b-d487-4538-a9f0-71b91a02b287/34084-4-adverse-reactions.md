@@ -1244,20 +1244,20 @@ Cervical Cancer
 
 FIGO 2014 Stage III-IVA Cervical Cancer with Chemoradiotherapy
 
-The safety of KEYTRUDA in combination with CRT (cisplatin plus external beam radiation therapy [EBRT] followed by brachytherapy [BT]) was investigated in KEYNOTE-A18, a placebo-controlled, randomized (1:1), multicenter, double-blind trial including 594 patients with FIGO 2014 Stage III-IVA cervical cancer [see Clinical Studies (14.12)].
-Two hundred ninety-two patients received KEYTRUDA in combination with chemoradiotherapy and 302 patients received placebo in combination with chemoradiotherapy.
+The safety of KEYTRUDA in combination with CRT (cisplatin plus external beam radiation therapy [EBRT] followed by brachytherapy [BT]) was investigated in KEYNOTE-A18, a placebo-controlled, randomized (1:1), multicenter, double-blind trial including 597 patients with FIGO 2014 Stage III-IVA cervical cancer [see Clinical Studies (14.12)].
+Two hundred ninety-four patients received KEYTRUDA in combination with chemoradiotherapy and 303 patients received placebo in combination with chemoradiotherapy.
 
-The median duration of exposure to KEYTRUDA was 12.1 months (range: 1 day to 27 months).
+The median duration of exposure to KEYTRUDA was 20 months (range: 1 day to 32 months).
 
 Fatal adverse reactions occurred in 1.4% of patients receiving KEYTRUDA in combination with chemoradiotherapy, including 1 case each (0.3%) of large intestinal perforation, urosepsis, sepsis, and vaginal hemorrhage.
 
-Serious adverse reactions occurred in 30% of patients receiving KEYTRUDA in combination with chemoradiotherapy.
-Serious adverse reactions occurring in ≥1% of patients included urinary tract infection (2.7%), urosepsis (1.4%), and sepsis (1%).
+Serious adverse reactions occurred in 34% of patients receiving KEYTRUDA in combination with chemoradiotherapy.
+Serious adverse reactions occurring in ≥1% of patients included urinary tract infection (3.1%), urosepsis (1.4%), and sepsis (1%).
 
-KEYTRUDA was discontinued for adverse reactions in 7% of patients.
+KEYTRUDA was discontinued for adverse reactions in 9% of patients.
 The most common adverse reaction (≥1%) resulting in permanent discontinuation was diarrhea (1%).
 
-Adverse reactions leading to interruption of KEYTRUDA occurred in 43% of patients; the most common adverse reactions leading to interruption of KEYTRUDA (≥2%) were anemia (8%), COVID-19 (6%), SARS-CoV-2 test positive (3.1%), decreased neutrophil count (2.7%), diarrhea (2.7%), urinary tract infection (2.7%), and increased ALT (2.4%).
+Adverse reactions leading to interruption of KEYTRUDA occurred in 47% of patients; the most common adverse reactions leading to interruption of KEYTRUDA (≥2%) were anemia (7%), COVID-19 (7%), SARS-CoV-2 test positive (4.8%), diarrhea (4.1%), increased ALT (4.1%), increased AST (3.4%) decreased neutrophil count (3.1%), and urinary tract infection (2.7%).
 
 Table 37 and Table 38 summarize adverse reactions and laboratory abnormalities, respectively, in patients on KEYTRUDA in KEYNOTE-A18.
 
@@ -1265,53 +1265,57 @@ Table 37: Adverse Reactions Occurring in ≥10% of Patients with FIGO 2014 Stage
 
 | All GradesGraded per NCI CTCAE v5.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
-| Adverse Reaction | KEYTRUDA 200 mg every 3 weeks and 400 mg every 6 weeks with chemoradiotherapy n=292 |  | Placebo with chemoradiotherapy n=302 |  |
+| Adverse Reaction | KEYTRUDA 200 mg every 3 weeks and 400 mg every 6 weeks with chemoradiotherapy n=294 |  | Placebo with chemoradiotherapy n=303 |  |
 | Gastrointestinal |  |  |  |  |
-| Nausea | 56 | 0 | 61 | 2.3 |
-| Diarrhea | 50 | 3.8 | 50 | 4.3 |
-| Vomiting | 33 | 1 | 34 | 1.7 |
-| Constipation | 18 | 0 | 18 | 0.7 |
-| Abdominal pain | 12 | 0.7 | 12 | 1.7 |
+| Nausea | 56 | 0 | 62 | 2.3 |
+| Diarrhea | 51 | 4.4 | 50 | 4.3 |
+| Vomiting | 34 | 1.0 | 35 | 1.7 |
+| Constipation | 20 | 0 | 19 | 0.7 |
+| Abdominal pain | 13 | 1.0 | 14 | 1.7 |
 | Infections |  |  |  |  |
-| Urinary tract infectionIncludes urinary tract infection, urinary tract infection pseudomonal, pyelonephritis acute, cystitis, Escherichia urinary tract infection | 32 | 4.1 | 31 | 4.6 |
+| Urinary tract infectionIncludes urinary tract infection, urinary tract infection pseudomonal, pyelonephritis acute, cystitis, Escherichia urinary tract infection | 35 | 4.8 | 34 | 5 |
+| COVID-19 | 10 | 0 | 7 | 1.0 |
 | General |  |  |  |  |
-| FatigueIncludes fatigue, asthenia | 26 | 1 | 27 | 1.3 |
-| Pyrexia | 12 | 0.3 | 13 | 0 |
+| FatigueIncludes fatigue, asthenia | 28 | 1.0 | 28 | 1.3 |
+| Pyrexia | 14 | 0.7 | 15 | 0 |
 | Endocrine |  |  |  |  |
-| HypothyroidismIncludes hypothyroidism, autoimmune hypothyroidism | 20 | 0.7 | 5 | 0 |
-| Hyperthyroidism | 11 | 0.3 | 2.6 | 0 |
-| Metabolism and Nutrition |  |  |  |  |
-| Decreased appetite | 17 | 0.7 | 17 | 0.3 |
+| HypothyroidismIncludes hypothyroidism, autoimmune hypothyroidism | 23 | 0.7 | 8 | 0 |
+| Hyperthyroidism | 13 | 0.3 | 3.3 | 0 |
 | Investigations |  |  |  |  |
-| Weight loss | 17 | 1.4 | 18 | 1 |
+| Weight loss | 19 | 2.4 | 19 | 1.0 |
+| Metabolism and Nutrition |  |  |  |  |
+| Decreased appetite | 18 | 0.7 | 17 | 0.3 |
 | Renal and Urinary |  |  |  |  |
-| Dysuria | 11 | 0.3 | 12 | 0 |
+| Dysuria | 12 | 0.3 | 12 | 0 |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-| RashIncludes erythema multiforme, dermatitis, drug eruption, eczema, rash, skin exfoliation, dermatitis bullous, rash maculo-papular, lichen planus, dyshidrotic eczema, dermatitis acneiform | 11 | 0.7 | 7 | 0.3 |
+| RashIncludes erythema multiforme, dermatitis, drug eruption, eczema, rash, skin exfoliation, dermatitis bullous, rash maculo-papular, lichen planus, dyshidrotic eczema, dermatitis acneiform | 12 | 1.0 | 8 | 0.3 |
+| Musculoskeletal and Connective Tissues Disorders |  |  |  |  |
+| Back pain | 11 | 0.7 | 11 | 0.7 |
 | Reproductive System |  |  |  |  |
-| Pelvic pain | 10 | 1 | 13 | 1.3 |
+| Pelvic pain | 11 | 1.0 | 14 | 1.7 |
 
 Table 38: Laboratory Abnormalities Worsened from Baseline Occurring in ≥20% of Patients with FIGO 2014 Stage III-IVA Cervical Cancer Receiving KEYTRUDA in KEYNOTE-A18
 
 | All GradesGraded per NCI CTCAE v5.0 (%) | Grades 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | --- | --- | --- | --- | --- |
-| Laboratory TestLaboratory abnormality percentage is based on the number of patients who had both baseline and at least one post-baseline laboratory measurement for each parameter: KEYTRUDA + chemoradiotherapy (range: 286 to 291 patients) and placebo + chemoradiotherapy (range: 298 to 300 patients) | KEYTRUDA 200 mg every 3 weeks and 400 mg every 6 weeks with chemoradiotherapy |  | Placebo with chemoradiotherapy |  |
+| Laboratory TestLaboratory abnormality percentage is based on the number of patients who had both baseline and at least one post-baseline laboratory measurement for each parameter: KEYTRUDA + chemoradiotherapy (range: 288 to 293 patients) and placebo + chemoradiotherapy (range: 299 to 301 patients) | KEYTRUDA 200 mg every 3 weeks and 400 mg every 6 weeks with chemoradiotherapy |  | Placebo with chemoradiotherapy |  |
 | Hematology |  |  |  |  |
 | Lymphopenia | 99 | 96 | 99 | 92 |
-| Leukopenia | 96 | 46 | 94 | 49 |
-| Anemia | 88 | 31 | 81 | 25 |
-| Neutropenia | 75 | 32 | 74 | 33 |
-| Thrombocytopenia | 65 | 8 | 61 | 6 |
+| Leukopenia | 96 | 48 | 94 | 49 |
+| Anemia | 87 | 33 | 82 | 27 |
+| Neutropenia | 76 | 33 | 76 | 33 |
+| Thrombocytopenia | 64 | 9 | 62 | 7 |
 | Chemistry |  |  |  |  |
-| Hypomagnesemia | 59 | 4.2 | 63 | 3.4 |
-| Hyponatremia | 54 | 3.8 | 47 | 4 |
-| Increased AST | 45 | 1 | 39 | 1.7 |
-| Increased ALT | 44 | 2.1 | 44 | 1 |
-| Hypocalcemia | 43 | 4.8 | 40 | 4.3 |
-| Hypokalemia | 42 | 14 | 38 | 10 |
-| Increased creatinine | 41 | 6 | 43 | 6 |
-| Hypoalbuminemia | 37 | 0.7 | 35 | 1.7 |
-| Increased alkaline phosphatase | 34 | 0.3 | 33 | 0.3 |
+| Hypomagnesemia | 61 | 4.2 | 63 | 3.7 |
+| Hyponatremia | 56 | 4.8 | 50 | 4.7 |
+| Increased AST | 50 | 1.7 | 44 | 2.3 |
+| Increased ALT | 49 | 3.1 | 46 | 1 |
+| Hypocalcemia | 45 | 5 | 43 | 5 |
+| Hypokalemia | 44 | 15 | 41 | 11 |
+| Increased creatinine | 44 | 7 | 46 | 6 |
+| Hypoalbuminemia | 38 | 2.4 | 37 | 2.3 |
+| Increased alkaline phosphatase | 38 | 0.3 | 35 | 0.3 |
+| Hyperkalemia | 21 | 2.0 | 16 | 1 |
 
 Persistent, Recurrent, or Metastatic Cervical Cancer
 

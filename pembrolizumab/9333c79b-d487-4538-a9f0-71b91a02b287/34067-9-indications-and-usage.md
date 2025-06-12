@@ -82,7 +82,7 @@ KEYTRUDA is indicated for the treatment of patients with locally advanced or met
 
 ## 1.12 Cervical Cancer
 
-KEYTRUDA, in combination with chemoradiotherapy (CRT), is indicated for the treatment of patients with FIGO 2014 Stage III-IVA cervical cancer.
+KEYTRUDA, in combination with chemoradiotherapy (CRT), is indicated for the treatment of patients with locally advanced cervical cancer involving the lower third of the vagina, with or without extension to pelvic sidewall, or hydronephrosis/non-functioning kidney, or spread to adjacent pelvic organs (FIGO 2014 Stage III-IVA).
 
 KEYTRUDA, in combination with chemotherapy, with or without bevacizumab, is indicated for the treatment of patients with persistent, recurrent, or metastatic cervical cancer whose tumors express PD-L1 (CPS ≥1) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
 
