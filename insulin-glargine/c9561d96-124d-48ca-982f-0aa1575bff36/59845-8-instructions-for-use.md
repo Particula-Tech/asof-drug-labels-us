@@ -253,9 +253,9 @@ Throwing your pen away
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
+Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960 A SANOFI COMPANY U.S. License No. 1752
 
-©2024 sanofi-aventis U.S. LLC
+©2025 sanofi-aventis U.S. LLC
 
 TOUJEO and SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
 
@@ -263,7 +263,7 @@ Other brands listed are the registered trademarks of their respective owners and
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: August 2024
+Revised: May 2025
 
 # Instructions for Use
 
@@ -519,9 +519,9 @@ Throwing your pen away
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
+Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960A SANOFI COMPANY U.S. License No. 1752
 
-©2024 sanofi-aventis U.S. LLC
+©2025 sanofi-aventis U.S. LLC
 
 TOUJEO and TOUJEO Max SoloStar are registered trademarks of sanofi-aventis U.S. LLC.
 
@@ -529,4 +529,4 @@ Other brands listed are the registered trademarks of their respective owners and
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: August 2024
+Revised: May 2025
