@@ -13,13 +13,12 @@ Instruct pediatric patients 12 years of age and older to discontinue SAXENDA if 
 Risk of Thyroid C-cell Tumors
 
 Inform patients that liraglutide causes benign and malignant thyroid C-cell tumors in mice and rats and that the human relevance of this finding has not been determined.
-Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia or dyspnea) to their health care provider [see Boxed Warning and Warnings and Precautions (5.1)].
+Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia or dyspnea) to their health care provider [see Boxed Warning, Warnings and Precautions (5.1)].
 
 Acute Pancreatitis
 
-Inform patients of the potential risk for acute pancreatitis.
-Explain that persistent severe abdominal pain that may radiate to the back which may or may not be accompanied by vomiting is the hallmark symptom of acute pancreatitis.
-Instruct patients to discontinue SAXENDA promptly and contact their health care provider if persistent severe abdominal pain occurs [see Warnings and Precautions (5.2)].
+Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting.
+Instruct patients to discontinue SAXENDA promptly and contact their healthcare provider if pancreatitis is suspected [see Warnings and Precautions (5.2)].
 
 Acute Gallbladder Disease
 
@@ -37,43 +36,48 @@ Heart Rate Increase
 Inform patients to report symptoms of sustained periods of heart pounding or racing while at rest to their healthcare provider.
 Discontinue SAXENDA in patients who experience a sustained increase in resting heart rate [see Warnings and Precautions (5.5)].
 
-Dehydration and Renal Impairment
+Acute Kidney Injury Due to Volume Depletion
 
-Advise patients of the risk of dehydration due to gastrointestinal adverse reactions and to take precautions to avoid fluid depletion.
-Inform patients of the potential risk for worsening renal function, which in some cases may require dialysis [see Warnings and Precautions (5.6)].
+Inform patients of the potential risk of acute kidney injury due to dehydration associated with gastrointestinal
+
+adverse reactions.
+Advise patients to take precautions to avoid fluid depletion.
+Inform patients of the signs and symptoms of acute kidney injury and instruct them to promptly report any of these signs or symptoms or
+
+persistent (or extended) nausea, vomiting, and diarrhea to their healthcare provider [see Warnings and Precautions (5.6)].
+
+Severe Gastrointestinal Adverse Reactions
+
+Inform patients of the potential risk of severe gastrointestinal adverse reactions.
+Instruct patients to contact their healthcare provider if they have severe or persistent gastrointestinal symptoms [see Warnings and Precautions
+
+(5.7)].
 
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions have been reported during postmarketing use of SAXENDA.
-Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking SAXENDA and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.7)].
+Advise patients on the symptoms of hypersensitivity reactions and instruct them to stop taking SAXENDA and seek medical advice promptly if such symptoms occur [see Warnings and Precautions (5.8)].
 
 Suicidal Behavior and Ideation
 
 Advise patients to report emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
-Inform patients that if they experience suicidal thoughts or behaviors, they should stop taking SAXENDA [see Warnings and Precautions (5.8)].
+Inform patients that if they experience suicidal thoughts or behaviors, they should stop taking SAXENDA [see Warnings and Precautions (5.9)].
 
 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 Inform patients that SAXENDA may cause their stomach to empty more slowly which may lead to complications with anesthesia or deep sedation during planned surgeries or procedures.
-Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking SAXENDA [see Warnings and Precautions (5.9)].
-
-Jaundice and Hepatitis
-
-Inform patients that jaundice and hepatitis have been reported during postmarketing use of liraglutide.
-Instruct patients to contact their healthcare provider if they develop jaundice.
+Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking SAXENDA [see Warnings and Precautions (5.10)].
 
 Never Share a SAXENDA Pen Between Patients
 
 Inform patients that they should never share a SAXENDA pen with another person, even if the needle is changed.
 Sharing of the pen between patients may pose a risk of transmission of infection.
 
-Version: 11
-
 SAXENDA® and VICTOZA® are registered trademarks of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
-© 2024 Novo Nordisk
+© 2025 Novo Nordisk
 
 Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 

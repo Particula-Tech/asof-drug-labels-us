@@ -19,20 +19,9 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 
 ## 5.2 Acute Pancreatitis
 
-Based on spontaneous postmarketing reports, acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with liraglutide.
+Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, including liraglutide [see Adverse Reactions (6)].
 After initiation of SAXENDA, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
-If pancreatitis is suspected, SAXENDA should promptly be discontinued and appropriate management should be initiated.
-If pancreatitis is confirmed, SAXENDA should not be restarted.
-
-In SAXENDA clinical trials in adults, acute pancreatitis was confirmed by adjudication in 9 (0.3%) of 3291 SAXENDA-treated patients and 2 (0.1%) of 1843 placebo-treated patients.
-In addition, there were 2 cases of acute pancreatitis in SAXENDA-treated patients who prematurely withdrew from these clinical trials, occurring 74 and 124 days after the last dose.
-There were 2 additional cases in SAXENDA-treated patients, 1 during an off-treatment follow-up period within 2 weeks of discontinuing SAXENDA, and 1 that occurred in a patient who completed treatment and was off-treatment for 106 days.
-
-In a SAXENDA pediatric clinical trial, pancreatitis was not independently adjudicated.
-Pancreatitis was reported in 1 (0.8%) SAXENDA-treated patient and resulted in treatment discontinuation.
-
-Liraglutide has been studied in a limited number of adult patients with a history of pancreatitis.
-It is unknown if patients with a history of pancreatitis are at higher risk for development of pancreatitis on SAXENDA.
+If pancreatitis is suspected, discontinue SAXENDA and initiate appropriate management.
 
 ## 5.3 Acute Gallbladder Disease
 
@@ -69,24 +58,29 @@ Heart rate should be monitored at regular intervals consistent with usual clinic
 Patients should inform health care providers of palpitations or feelings of a racing heartbeat while at rest during SAXENDA treatment.
 For patients who experience a sustained increase in resting heart rate while taking SAXENDA, SAXENDA should be discontinued.
 
-## 5.6 Renal Impairment
+## 5.6 Acute Kidney Injury Due to Volume Depletion
 
-In patients treated with GLP-1 receptor agonists, including SAXENDA, there have been reports of acute renal failure and worsening of chronic renal failure, sometimes requiring hemodialysis [see Adverse Reactions (6.2)].
-Some of these events were reported in patients without known underlying renal disease.
-A majority of the reported events occurred in patients who had experienced nausea, vomiting, or diarrhea leading to volume depletion.
-Some of the reported events occurred in patients receiving one or more medications known to affect renal function or volume status.
-Altered renal function has been reversed in many of the reported cases with supportive treatment and discontinuation of potentially causative agents, including liraglutide.
-Use caution when initiating or escalating doses of SAXENDA in patients with renal impairment [see Use in Specific Populations (8.6)].
+There have been postmarketing reports of acute kidney injury, in some cases requiring hemodialysis, in patients treated with liraglutide [see Adverse Reactions (6.2)].
+The majority of the reported events occurred in patients who had experienced gastrointestinal reactions leading to dehydration such as nausea, vomiting, or diarrhea [see Adverse Reactions (6.1)].
+Monitor renal function in patients reporting adverse reactions to SAXENDA that could lead to volume depletion, especially during dosage initiation and escalation [see Use in Specific Populations (8.6)].
 
-## 5.7 Hypersensitivity Reactions
+## 5.7 Severe Gastrointestinal Adverse Reactions
 
-There have been reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with SAXENDA [see Contraindications (4) and Adverse Reactions (6.1, 6.2)].
+Use of GLP-1 receptor agonists, including liraglutide, has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
+In SAXENDA clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving SAXENDA (4.8%) than placebo
+
+(1.4%).
+SAXENDA is not recommended in patients with severe gastroparesis.
+
+## 5.8 Hypersensitivity Reactions
+
+There have been reports of serious hypersensitivity reactions (e.g., anaphylactic reactions and angioedema) in patients treated with SAXENDA [see Contraindications (4), Adverse Reactions (6.1, 6.2)].
 If a hypersensitivity reaction occurs, the patient should discontinue SAXENDA and other suspect medications and promptly seek medical advice.
 
 Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists.
 Use caution in a patient with a history of anaphylaxis or angioedema with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to these reactions with SAXENDA.
 
-## 5.8 Suicidal Behavior and Ideation
+## 5.9 Suicidal Behavior and Ideation
 
 In SAXENDA adult clinical trials, 9 (0.3%) of 3384 SAXENDA-treated patients and 2 (0.1%) of the 1941 placebo-treated patients reported suicidal ideation; one of these SAXENDA-treated patients attempted suicide.
 
@@ -97,7 +91,7 @@ Patients treated with SAXENDA should be monitored for the emergence or worsening
 Discontinue SAXENDA in patients who experience suicidal thoughts or behaviors.
 Avoid SAXENDA in patients with a history of suicidal attempts or active suicidal ideation.
 
-## 5.9 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+## 5.10 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 SAXENDA delays gastric emptying [see Clinical Pharmacology (12.2)].
 There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.

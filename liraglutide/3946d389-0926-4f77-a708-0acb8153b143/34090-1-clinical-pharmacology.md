@@ -2,9 +2,9 @@
 
 ## 12.1 Mechanism of Action
 
-Liraglutide is an acylated human glucagon-like peptide-1 (GLP-1) receptor agonist with 97% amino acid sequence homology to endogenous human GLP-1(7-37).
+Liraglutide is an acylated human GLP-1 receptor agonist with 97% amino acid sequence homology to endogenous human GLP-1(7-37).
 Like endogenous GLP-1, liraglutide binds to and activates the GLP-1 receptor, a cell-surface receptor coupled to adenylyl cyclase activation through the stimulatory G-protein, Gs.
-Endogenous GLP-1 has a half-life of 1.5-2 minutes due to degradation by the ubiquitous endogenous enzymes, dipeptidyl peptidase 4 (DPP-4) and neutral endopeptidases (NEP).
+Endogenous GLP-1 has a half-life of 1.5 to 2 minutes due to degradation by the ubiquitous endogenous enzymes, dipeptidyl peptidase 4 (DPP-4) and neutral endopeptidases (NEP).
 Unlike native GLP-1, liraglutide is stable against metabolic degradation by both peptidases and has a plasma half-life of 13 hours after subcutaneous administration.
 The pharmacokinetic profile of liraglutide, which makes it suitable for once-daily administration, is a result of self-association that delays absorption, plasma protein binding, and stability against metabolic degradation by DPP-4 and NEP.
 
@@ -39,7 +39,7 @@ The intra-subject coefficient of variation for liraglutide AUC was 11% following
 Liraglutide exposures were considered similar among three subcutaneous injection sites (upper arm, abdomen, and thigh).
 Absolute bioavailability of liraglutide following subcutaneous administration is approximately 55%.
 
-Distribution - The mean apparent volume of distribution after subcutaneous administration of liraglutide 3 mg is 20-25 L (for a person weighing approximately 100 kg).
+Distribution - The mean apparent volume of distribution after subcutaneous administration of liraglutide 3 mg is 20 to 25L (for a person weighing approximately 100 kg).
 The mean volume of distribution after intravenous administration of liraglutide is 0.07 L/kg.
 Liraglutide is extensively bound to plasma protein (greater than 98%).
 
@@ -48,8 +48,8 @@ Liraglutide is endogenously metabolized in a similar manner to large proteins wi
 
 Elimination - Following a [3H]-liraglutide dose, intact liraglutide was not detected in urine or feces.
 Only a minor part of the administered radioactivity was excreted as liraglutide-related metabolites in urine or feces (6% and 5%, respectively).
-The majority of urine and feces radioactivity was excreted during the first 6-8 days.
-The mean apparent clearance following subcutaneous administration of a single dose of liraglutide is approximately 0.9-1.4 L/h with an elimination half-life of approximately 13 hours, making liraglutide suitable for once daily administration.
+The majority of urine and feces radioactivity was excreted during the first 6 to 8 days.
+The mean apparent clearance following subcutaneous administration of a single dose of liraglutide is approximately 0.9 to 1.4 L/h with an elimination half-life of approximately 13 hours, making liraglutide suitable for once daily administration.
 
 Specific Populations
 
@@ -57,9 +57,9 @@ Elderly - Age had no effect on the pharmacokinetics of liraglutide based on a ph
 
 Gender - Based on the results of population pharmacokinetic analyses, females have 24% lower weight adjusted clearance of SAXENDA compared to males.
 
-Race and Ethnicity - Race and ethnicity had no effect on the pharmacokinetics of liraglutide based on the results of population pharmacokinetic analyses that included overweight and obese patients of Caucasian, Black, Asian and Hispanic/Non-Hispanic groups.
+Race and Ethnicity - Race and ethnicity had no effect on the pharmacokinetics of liraglutide based on the results of population pharmacokinetic analyses that included overweight and obese patients of White, Black or African American, Asian and Hispanic/Non-Hispanic Ethnic groups.
 
-Body Weight - Body weight significantly affects the pharmacokinetics of liraglutide based on results of population pharmacokinetic analyses conducted in patients with body weight range of 60-234 kg.
+Body Weight - Body weight significantly affects the pharmacokinetics of liraglutide based on results of population pharmacokinetic analyses conducted in patients with body weight range of 60 to 234 kg.
 The exposure of liraglutide decreases as baseline body weight increases.
 
 Pediatric - A population pharmacokinetic analysis was conducted for SAXENDA using data from 134 pediatric patients (12 to 17 years of age) with obesity.
@@ -70,7 +70,7 @@ Patients with mild (estimated creatinine clearance 50-80 mL/min) to severe (esti
 Compared to healthy subjects, liraglutide AUC in mild, moderate, and severe renal impairment and in end-stage renal disease was on average 35%, 19%, 29% and 30% lower, respectively [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment - The single-dose pharmacokinetics of liraglutide were evaluated in patients with varying degrees of hepatic impairment.
-Patients with mild (Child Pugh score 5-6) to severe (Child Pugh score greater than 9) hepatic impairment were included in the trial.
+Patients with mild (Child Pugh score 5 to 6) to severe (Child Pugh score greater than 9) hepatic impairment were included in the trial.
 Compared to healthy subjects, liraglutide AUC in subjects with mild, moderate and severe hepatic impairment was on average 11%, 14% and 42% lower, respectively [see Use in Specific Populations (8.7)].
 
 Drug Interactions
@@ -83,6 +83,7 @@ In vivo assessment of drug−drug interactions
 
 The drug-drug interaction studies were performed at steady state with liraglutide 1.8 mg/day.
 The effect on rate of gastric emptying was equivalent between liraglutide 1.8 mg and 3 mg (acetaminophen AUC0-300min).
+
 Administration of the interacting drugs was timed so that Cmax of liraglutide (8-12 h) would coincide with the absorption peak of the co-administered drugs.
 
 Oral Contraceptives
@@ -102,7 +103,7 @@ Digoxin median time to maximal concentration (Tmax) was delayed from 1 h to 1.5 
 Lisinopril
 
 A single dose of lisinopril 20 mg was administered 5 minutes after the dose of liraglutide at steady state.
-The co-administration with liraglutide resulted in a reduction of lisinopril AUC by 15%; Cmax decreased by 27%.
+The coadministration with liraglutide resulted in a reduction of lisinopril AUC by 15%; Cmax decreased by 27%.
 Lisinopril median Tmax was delayed from 6 h to 8 h with liraglutide.
 
 Atorvastatin
