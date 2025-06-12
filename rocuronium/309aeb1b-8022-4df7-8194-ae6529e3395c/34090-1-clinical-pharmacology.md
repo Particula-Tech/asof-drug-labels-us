@@ -17,9 +17,10 @@ Table 4: Percent of Excellent or Good Intubating Conditions and Median (Range) T
 
 | Rocuronium Bromide Dose (mg/kg) Administered over 5 sec | Percent of Patients With Excellent or Good Intubating Conditions | Time to Completion of Intubation (min) |
 | --- | --- | --- |
-| Adults* 18 to 64 yrs 0.45 (n=43) 0.6 (n=51) | 86%96% | 1.6 (1.0 to 7.0)1.6 (1.0 to 3.2) |
-| Infants** 3 mo to 1 yr 0.6 (n=18) Pediatric** 1 to 12 yrs 0.6 (n=12) | 100% 100% | 1.0 (1.0 to 1.5) 1.0 (0.5 to 2.3) |
-| * Excludes patients undergoing Cesarean section ** Pediatric patients were under halothane anesthesia Excellent intubating conditions = jaw relaxed, vocal cords apart and immobile, no diaphragmatic movement Good intubating conditions = same as excellent but with some diaphragmatic movement |  |  |
+| AdultsExcludes patients undergoing Cesarean section 18 to 64 yrs 0.45 (n=43) 0.6 (n=51) | 86%96% | 1.6 (1.0 to 7.0)1.6 (1.0 to 3.2) |
+| InfantsPediatric patients were under halothane anesthesia 3 mo to 1 yr 0.6 (n=18) Pediatric 1 to 12 yrs 0.6 (n=12) | 100% 100% | 1.0 (1.0 to 1.5) 1.0 (0.5 to 2.3) |
+| Excellent intubating conditions = jaw relaxed, vocal cords apart and immobile, no diaphragmatic movement |  |  |
+| Good intubating conditions = same as excellent but with some diaphragmatic movement |  |  |
 
 Table 5 presents the time to onset and clinical duration for the initial dose of rocuronium bromide injection under opioid/nitrous oxide/oxygen anesthesia in adults and geriatric patients, and under halothane anesthesia in pediatric patients.
 
@@ -129,10 +130,9 @@ Table 8: Mean (SD) Pharmacokinetic Parameters in Adults with Normal Renal and He
 
 | PK Parameters | Normal Renal and Hepatic Function | Renal Transplant Patients | Hepatic Dysfunction Patients |
 | --- | --- | --- | --- |
-| Clearance (L/kg/hr) | 0.16 (0.05)* | 0.13 (0.04) | 0.13 (0.06) |
+| Clearance (L/kg/hr) | 0.16 (0.05)Differences in the calculated t1/2 β and Cl between this study and the study in young adults vs. geriatrics (≥65 years) is related to the different sample populations and anesthetic techniques. | 0.13 (0.04) | 0.13 (0.06) |
 | Volume of Distribution at Steady State (L/kg) | 0.26 (0.03) | 0.34 (0.11) | 0.53 (0.14) |
-| t1/2 β Elimination (hr) | 2.4 (0.8)* | 2.4 (1.1) | 4.3 (2.6) |
-| * Differences in the calculated t1/2 β and Cl between this study and the study in young adults vs. geriatrics (≥65 years) is related to the different sample populations and anesthetic techniques. |  |  |  |
+| t1/2 β Elimination (hr) | 2.4 (0.8) | 2.4 (1.1) | 4.3 (2.6) |
 
 The net result of these findings is that subjects with renal failure have clinical durations that are similar to but somewhat more variable than the duration that one would expect in subjects with normal renal function.
 Hepatically impaired patients, due to the large increase in volume, may demonstrate clinical durations approaching 1.5 times that of subjects with normal hepatic function.

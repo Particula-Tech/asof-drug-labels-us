@@ -9,7 +9,7 @@ Doses of rocuronium bromide injection should be individualized and a peripheral 
 The dosage information which follows is derived from studies based upon units of drug per unit of body weight.
 It is intended to serve as an initial guide to clinicians familiar with other neuromuscular blocking agents to acquire experience with rocuronium bromide injection.
 
-In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [see Dosage and Administration (2.6), Warnings and Precautions (5.10, 5.13), Drug Interactions (7.2, 7.3, 7.4, 7.5, 7.6, 7.8, 7.10), and Use in Specific Populations (8.6)].
+In patients in whom potentiation of, or resistance to, neuromuscular block is anticipated, a dose adjustment should be considered [seeDosage and Administration (2.6), Warnings and Precautions (5.10, 5.13), Drug Interactions (7.2, 7.3, 7.4, 7.5, 7.6, 7.8, 7.10), andUse in Specific Populations (8.6)].
 
 Risk of Medication Errors
 
@@ -62,7 +62,7 @@ Unused portions of infusion solutions should be discarded.
 
 Infusion rates of rocuronium bromide injection can be individualized for each patient using the following tables for 3 different concentrations of rocuronium bromide injection solution as guidelines:
 
-Table 1: Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)*
+Table 1: Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)50 mg rocuronium bromide injection in 100 mL solution
 
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -79,9 +79,8 @@ Table 1: Infusion Rates Using Rocuronium Bromide Injection (0.5 mg/mL)*
 | 80 | 176 | 38.4 | 48 | 57.6 | 67.2 | 76.8 | 86.4 | 96 | 115.2 | 134.4 | 153.6 |
 | 90 | 198 | 43.2 | 54 | 64.8 | 75.6 | 86.4 | 97.2 | 108 | 129.6 | 151.2 | 172.8 |
 | 100 | 220 | 48 | 60 | 72 | 84 | 96 | 108 | 120 | 144 | 168 | 192 |
-| * 50 mg rocuronium bromide injection in 100 mL solution |  |  |  |  |  |  |  |  |  |  |  |
 
-Table 2: Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)**
+Table 2: Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)100 mg rocuronium bromide injection in 100 mL solution
 
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -98,9 +97,8 @@ Table 2: Infusion Rates Using Rocuronium Bromide Injection (1 mg/mL)**
 | 80 | 176 | 19.2 | 24 | 28.8 | 33.6 | 38.4 | 43.2 | 48 | 57.6 | 67.2 | 76.8 |
 | 90 | 198 | 21.6 | 27 | 32.4 | 37.8 | 43.2 | 48.6 | 54 | 64.8 | 75.6 | 86.4 |
 | 100 | 220 | 24 | 30 | 36 | 42 | 48 | 54 | 60 | 72 | 84 | 96 |
-| ** 100 mg rocuronium bromide injection in 100 mL solution |  |  |  |  |  |  |  |  |  |  |  |
 
-Table 3: Infusion Rates Using Rocuronium Bromide Injection (5 mg/mL)***
+Table 3: Infusion Rates Using Rocuronium Bromide Injection (5 mg/mL)500 mg rocuronium bromide injection in 100 mL solution
 
 | Patient Weight |  | Drug Delivery Rate (mcg/kg/min) |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -117,7 +115,6 @@ Table 3: Infusion Rates Using Rocuronium Bromide Injection (5 mg/mL)***
 | 80 | 176 | 3.8 | 4.8 | 5.8 | 6.7 | 7.7 | 8.6 | 9.6 | 11.5 | 13.4 | 15.4 |
 | 90 | 198 | 4.3 | 5.4 | 6.5 | 7.6 | 8.6 | 9.7 | 10.8 | 13 | 15.1 | 17.3 |
 | 100 | 220 | 4.8 | 6 | 7.2 | 8.4 | 9.6 | 10.8 | 12 | 14.4 | 16.8 | 19.2 |
-| *** 500 mg rocuronium bromide injection in 100 mL solution |  |  |  |  |  |  |  |  |  |  |  |
 
 ## 2.6 Dosage in Specific Populations
 
@@ -155,7 +152,7 @@ Patients with Renal or Hepatic Impairment
 
 No differences from patients with normal hepatic and kidney function were observed for onset time at a dose of 0.6 mg/kg rocuronium bromide injection.
 When compared to patients with normal renal and hepatic function, the mean clinical duration is similar in patients with end-stage renal disease undergoing renal transplant, and is about 1.5 times longer in patients with hepatic disease.
-Patients with renal failure may have a greater variation in duration of effect [see Use in Specific Populations (8.6, 8.7) and Clinical Pharmacology (12.3)].
+Patients with renal failure may have a greater variation in duration of effect [seeUse in Specific Populations (8.6, 8.7) and Clinical Pharmacology (12.3)].
 
 Obese Patients
 
