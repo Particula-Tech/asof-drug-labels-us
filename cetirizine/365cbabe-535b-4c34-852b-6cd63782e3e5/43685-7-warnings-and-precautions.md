@@ -3,6 +3,11 @@
 Activities Requiring Mental Alertness: In clinical trials, the occurrence of somnolence has been reported in some patients taking cetirizine hydrochloride; due caution should therefore be exercised when driving a car or operating potentially dangerous machinery.
 Concurrent use of cetirizine hydrochloride with alcohol or other CNS depressants should be avoided because additional reductions in alertness and additional impairment of CNS performance may occur.
 
+Risk of New Onset Pruritus After Discontinuation of Cetirizine: Cases of pruritus after discontinuation of cetirizine have been reported in the postmarketing setting in patients where pruritus was not present before initiation of cetirizine.
+Pruritus occurred within a few days of discontinuing cetirizine among patients who used cetirizine long-term (e.g., few months to years).
+Reported cases of pruritus were infrequent, but some were serious with patients experiencing widespread severe pruritus.
+If pruritus occurs after discontinuation of cetirizine, symptoms may improve with restarting or tapering cetirizine.
+
 Drug-Drug Interactions: No clinically significant drug interactions have been found with theophylline at a low dose, azithromycin, pseudoephedrine, ketoconazole, or erythromycin.
 There was a small decrease in the clearance of cetirizine caused by a 400-mg dose of theophylline; it is possible that larger theophylline doses could have a greater effect.
 
