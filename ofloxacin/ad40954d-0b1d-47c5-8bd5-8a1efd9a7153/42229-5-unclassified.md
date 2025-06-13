@@ -30,7 +30,7 @@ However, the systemic administration of some quinolones has been shown to elevat
 
 Long term studies to determine the carcinogenic potential of ofloxacin have not been conducted.
 
-Ofloxacin was not mutagenic in the Ames test, in vitro and in vivo cytogenic assay, sister chromatid exchange assay (Chinese hamster and human cell lines), unscheduled DNA synthesis (UDS) assay using human fibroblasts, the dominant lethal assay, or mouse micronucleus assay.
+Ofloxacin was not mutagenic in the Ames test, in vitroand in vivocytogenic assay, sister chromatid exchange assay (Chinese hamster and human cell lines), unscheduled DNA synthesis (UDS) assay using human fibroblasts, the dominant lethal assay, or mouse micronucleus assay.
 Ofloxacin was positive in the UDS test, using rat hepatocyte, and in the mouse lymphoma assay.
 
 In fertility studies in rats, ofloxacin did not affect male or female fertility or morphological or reproductive performance at oral dosing up to 360 mg/kg/day (equivalent to 4000 times the maximum recommended daily ophthalmic dose).

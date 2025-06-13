@@ -1,4 +1,4 @@
-NOTE: Store at 15°C to 25°C (59°F to 77°F).
+NOTE:Store at 15°C to 25°C (59°F to 77°F).
 
 KEEP OUT OF REACH OF CHILDREN.
 

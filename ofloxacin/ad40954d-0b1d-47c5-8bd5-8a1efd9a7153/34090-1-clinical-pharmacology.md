@@ -15,14 +15,14 @@ Ofloxacin was excreted in the urine primarily unmodified.
 
 ## Microbiology
 
-Ofloxacin has in vitro activity against a broad range of gram-positive and gram-negative aerobic and anaerobic bacteria.
+Ofloxacin has in vitroactivity against a broad range of gram-positive and gram-negative aerobic and anaerobic bacteria.
 Ofloxacin is bactericidal at concentrations equal to or slightly greater than inhibitory concentrations.
 Ofloxacin is thought to exert a bactericidal effect on susceptible bacterial cells by inhibiting DNA gyrase, an essential bacterial enzyme which is a critical catalyst in the duplication, transcription, and repair of bacterial DNA.
 
 Cross-resistance has been observed between ofloxacin and other fluoroquinolones.
 There is generally no cross-resistance between ofloxacin and other classes of antibacterial agents such as beta-lactams or aminoglycosides.
 
-Ofloxacin has been shown to be active against most strains of the following organisms both in vitro and clinically, in conjunctival and/or corneal ulcer infections (see INDICATIONS AND USAGE).
+Ofloxacin has been shown to be active against most strains of the following organisms both in vitroand clinically, in conjunctival and/or corneal ulcer infections (see INDICATIONS AND USAGE).
 
 AEROBES, GRAM-POSITIVE: Staphylococcus aureus Staphylococcus epidermidis Streptococcus pneumoniae
 
@@ -33,7 +33,7 @@ ANAEROBIC SPECIES: Propionibacterium acnes
 *Efficacy for this organism was studied in fewer than 10 infections.
 
 The safety and effectiveness of ofloxacin ophthalmic solution in treating ophthalmologic infections due to the following organisms have not been established in adequate and well-controlled clinical trials.
-Ofloxacin ophthalmic solution has been shown to be active in vitro against most strains of these organisms but the clinical significance in ophthalmologic infections is unknown.
+Ofloxacin ophthalmic solution has been shown to be active in vitroagainst most strains of these organisms but the clinical significance in ophthalmologic infections is unknown.
 
 AEROBES, GRAM-POSITIVE: Enterococcus faecalis Listeria monocytogenes Staphylococcus capitis Staphylococcus hominus Staphylococcus simulans Streptococcus pyogenes
 
