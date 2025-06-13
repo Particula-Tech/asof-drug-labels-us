@@ -19,7 +19,7 @@ The most common adverse reactions are listed in Table 6.
 
 Table 6 Most Common Adverse Reactions in Patients Receiving MEC a
 
-|  | Intravenous fosaprepitant, ondansetron, and dexamethasone b(N=504) | Ondansetron and dexamethasone c(N=497) |
+|  | Intravenous fosaprepitant, ondansetron, and dexamethasone b (N=504) | Ondansetron and dexamethasone c (N=497) |
 | --- | --- | --- |
 | fatigue | 15% | 13% |
 | diarrhea | 13% | 11% |
@@ -32,7 +32,7 @@ Table 6 Most Common Adverse Reactions in Patients Receiving MEC a
 | urinary tract infection | 2% | 1% |
 | pain in extremity | 2% | 1% |
 
-a Reported in ≥2% of patients treated with the intravenous fosaprepitant regimen and at a greater incidence than standard therapy b Intravenous fosaprepitant regimen c Standard therapy
+a Reported in ≥2% of patients treated with the intravenous fosaprepitant regimen and at a greater incidence than standard therapy (ondansetron and dexamethasone alone). b Intravenous fosaprepitant regimen c Standard therapy
 
 Infusion-site reactions were reported in 2.2% of patients treated with the intravenous fosaprepitant regimen compared to 0.6% of patients treated with standard therapy.
 The infusion-site reactions included: infusion-site pain (1.2%, 0.4%), injection-site irritation (0.2%, 0.0%), vessel puncture-site pain (0.2%, 0.0%), and infusion-site thrombophlebitis (0.6%, 0.0%), reported in the intravenous fosaprepitant regimen compared to standard therapy, respectively.

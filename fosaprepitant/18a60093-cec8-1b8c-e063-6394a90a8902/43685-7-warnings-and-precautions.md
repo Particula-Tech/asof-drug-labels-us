@@ -15,6 +15,7 @@ See Table 7 and Table 8 for a listing of potentially significant drug interactio
 
 Serious hypersensitivity reactions, including anaphylaxis and anaphylactic shock, during or soon after infusion of fosaprepitant have occurred.
 Symptoms including flushing, erythema, dyspnea, hypotension and syncope have been reported [see Adverse Reactions (6.2)].
+
 Monitor patients during and after infusion.
 If hypersensitivity reactions occur, discontinue the infusion and administer appropriate medical therapy.
 Do not reinitiate FOCINVEZ in patients who experience these symptoms with previous use [see Contraindications (4)].

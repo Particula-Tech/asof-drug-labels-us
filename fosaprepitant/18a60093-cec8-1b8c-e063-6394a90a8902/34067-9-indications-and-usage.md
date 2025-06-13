@@ -7,4 +7,4 @@ FOCINVEZ, in combination with other antiemetic agents, is indicated in adults an
 
 Limitations of Use
 
-- FOCINVEZ has not been studied for treatment of established nausea and vomiting.
+- FOCINVEZ has not been studied for the treatment of established nausea and vomiting.

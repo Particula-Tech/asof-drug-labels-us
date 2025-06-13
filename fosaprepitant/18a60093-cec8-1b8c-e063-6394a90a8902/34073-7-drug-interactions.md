@@ -25,7 +25,7 @@ Table 7 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Dru
 | Intervention | Monitor for benzodiazepine-related adverse reactions. |
 | Dexamethasone |  |
 | Clinical Impact | Increased dexamethasone exposure [see Clinical Pharmacology (12.3)]. |
-| Intervention | Reduce the dose of oral dexamethasone by approximately 50% [see Dosage and Administration(2.1)]. |
+| Intervention | Reduce the dose of oral dexamethasone by approximately 50% [see Dosage and Administration (2.1)]. |
 | Methylprednisolone |  |
 | Clinical Impact | Increased methylprednisolone exposure [see Clinical Pharmacology (12.3)]. |
 | Intervention | Reduce the dose of oral methylprednisolone by approximately 50% on Days 1 and 2 for patients receiving HEC and on Day 1 for patients receiving MEC. Reduce the dose of intravenous methylprednisolone by 25% on Days 1 and 2 for patients receiving HEC and on Day 1 for patients receiving MEC. |
@@ -41,8 +41,8 @@ Table 7 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Dru
 | Clinical Impact | Decreased warfarin exposure and decreased prothrombin time (INR) [see Warnings and Precautions (5.4) and Clinical Pharmacology (12.3)]. |
 | Intervention | In patients on chronic warfarin therapy, monitor the prothrombin time (INR) in the 2-week period, particularly at 7 to 10 days, following administration of FOCINVEZ with each chemotherapy cycle. |
 | Other |  |
-| 5-HT 3Antagonists |  |
-| Clinical Impact | No change in the exposure of the 5-HT3 antagonist [see Clinical Pharmacology (12.3)]. |
+| 5-HT 3 Antagonists |  |
+| Clinical Impact | No change in the exposure of the 5-HT 3antagonist [see Clinical Pharmacology (12.3)]. |
 | Intervention | No dosage adjustment needed |
 | Examples | ondansetron, granisetron, dolasetron |
 
@@ -55,9 +55,9 @@ Table 8 Effects of Other Drugs on Pharmacokinetics of Fosaprepitant / Aprepitant
 
 | Moderate to Strong CYP3A4 Inhibitors |  |
 | --- | --- |
-| Clinical Impact | Significantly increased exposure of aprepitant may increase the risk of adverse reactions associated with FOCINVEZ [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)]. |
+| Clinical Impact | Significantly increased exposure of aprepitant may increase the risk of adverse reactions associated with FOCINVEZ [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)]. |
 | Intervention | Avoid concomitant use of FOCINVEZ |
-| Examples | Moderate inhibitor:diltiazem Strong inhibitors:ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, nelfinavir |
+| Examples | Moderate inhibitor: diltiazem Strong inhibitors: ketoconazole, itraconazole, nefazodone, troleandomycin, clarithromycin, ritonavir, nelfinavir |
 | Strong CYP3A4 Inducers |  |
 | Clinical Impact | Substantially decreased exposure of aprepitant in patients chronically taking a strong CYP3A4 inducer may decrease the efficacy of FOCINVEZ [see Clinical Pharmacology (12.3)]. |
 | Intervention | Avoid concomitant use of FOCINVEZ |

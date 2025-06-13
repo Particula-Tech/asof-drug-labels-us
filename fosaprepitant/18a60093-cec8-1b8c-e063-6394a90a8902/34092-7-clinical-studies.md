@@ -1,7 +1,7 @@
 # 14 CLINICAL STUDIES
 
 The safety and efficacy of FOCINVEZ have been established based on adequate and well-controlled adult studies of another intravenous formulation of fosaprepitant for the prevention and of chemotherapy induced nausea and vomiting.
-Below is a description of the results of these adequate and well-controlled studies of fosaprepitant in these studies.
+Below is a description of the results of these adequate and well-controlled studies of fosaprepitant.
 
 ## 14.1 Prevention of Nausea and Vomiting Associated with HEC in Adults
 
@@ -37,16 +37,18 @@ The pre-specified non-inferiority margin for complete response in the overall ph
 The pre-specified non-inferiority margin for complete response in the delayed phase was 7.3%.
 The pre-specified non-inferiority margin for no vomiting in the overall phase was 8.2%.
 
-Table 12 Percent of Adult Patients Receiving HEC Responding by Treatment Group and Phase Cycle 1
+Table 12
 
-| ENDPOINTS | ﻿Intravenous fosaprepitant Regimen (N = 1106) a % | Oral aprepitant Regimen (N = 1134) a % | Difference b(95% CI) |
+Percent of Adult Patients Receiving HEC Responding by Treatment Group and Phase - Cycle 1
+
+| ENDPOINTS | ﻿Intravenous fosaprepitant Regimen (N = 1106) a % | Oral aprepitant Regimen (N = 1134) a % | Difference b (95% CI) |
 | --- | --- | --- | --- |
 | PRIMARY ENDPOINT |  |  |  |
-| Complete Responsec |  |  |  |
+| Complete Response c |  |  |  |
 | Overall d | 71.9 | 72.3 | -0.4 (-4.1, 3.3) |
 | SECONDARY ENDPOINTS |  |  |  |
 | Complete Response c |  |  |  |
-| Delayed phase e | 74.3 | �74.2 | 0.1 (-3.5, 3.7) |
+| Delayed phase e | 74.3 | 74.2 | 0.1 (-3.5, 3.7) |
 | No Vomiting |  |  |  |
 | Overall d | 72.9 | 74.6 | -1.7 (-5.3, 2.0) |
 
