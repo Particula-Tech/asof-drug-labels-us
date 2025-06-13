@@ -5,9 +5,9 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Angioedema [see Warnings and Precautions (5.1)]
 - Hypersensitivity [see Warnings and Precautions (5.2)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.3)]
-- Respiratory Depression [see Warnings and Precautions (5.4)]
-- Dizziness and Somnolence [see Warnings and Precautions (5.5)]
-- Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.6)]
+- Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.4)]
+- Respiratory Depression [see Warnings and Precautions (5.5)]
+- Dizziness and Somnolence [see Warnings and Precautions (5.6)]
 - Peripheral Edema [see Warnings and Precautions (5.7)]
 - Weight Gain [see Warnings and Precautions (5.8)]
 - Tumorigenic Potential [see Warnings and Precautions (5.9)]
@@ -20,33 +20,35 @@ The following serious adverse reactions are described elsewhere in the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In all controlled and uncontrolled trials across various patient populations during the premarketing development of pregabalin capsules, more than 10,000 patients have received pregabalin capsules.
+In all controlled and uncontrolled trials across various patient populations during the premarketing development of pregabalin, more than 10,000 patients have received pregabalin.
 Approximately 5,000 patients were treated for 6 months or more, over 3,100 patients were treated for 1 year or longer, and over 1,400 patients were treated for at least 2 years.
 
 Adverse Reactions Most Commonly Leading to Discontinuation in All Premarketing Controlled Clinical Studies
 
-In premarketing controlled trials of all adult populations combined, 14% of patients treated with pregabalin capsules and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
-In the pregabalin capsules treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (4%) and somnolence (4%).
+In premarketing controlled trials of all adult populations combined, 14% of patients treated with pregabalin and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
+In the pregabalin treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (4%) and somnolence (4%).
 In the placebo group, 1% of patients withdrew due to dizziness and less than 1% withdrew due to somnolence.
-Other adverse reactions that led to discontinuation from controlled trials more frequently in the pregabalin capsules group compared to the placebo group were ataxia, confusion, asthenia, thinking abnormal, blurred vision, incoordination, and peripheral edema (1% each).
+Other adverse reactions that led to discontinuation from controlled trials more frequently in the pregabalin group compared to the placebo group were ataxia, confusion, asthenia, thinking abnormal, blurred vision, incoordination, and peripheral edema (1% each).
 
 Most Common Adverse Reactions in All Controlled Clinical Studies in Adults
 
-In premarketing controlled trials of all adult patient populations combined (including DPN, PHN, and adult patients with partial-onset seizures), dizziness, somnolence, dry mouth, edema, blurred vision, weight gain, and "thinking abnormal" (primarily difficulty with concentration/attention) were more commonly reported by subjects treated with pregabalin capsules than by subjects treated with placebo (greater than or equal to 5% and twice the rate of that seen in placebo).
+In premarketing controlled trials of all adult patient populations combined (including DPN, PHN, and adult patients with partial-onset seizures), dizziness, somnolence, dry mouth, edema, blurred vision, weight gain, and "thinking abnormal" (primarily difficulty with concentration/attention) were more commonly reported by subjects treated with pregabalin than by subjects treated with placebo (greater than or equal to 5% and twice the rate of that seen in placebo).
 
 Controlled Studies with Neuropathic Pain Associated with Diabetic Peripheral Neuropathy
 
 Adverse Reactions Leading to Discontinuation
 
-In clinical trials in adults with neuropathic pain associated with diabetic peripheral neuropathy, 9% of patients treated with pregabalin capsules and 4% of patients treated with placebo discontinued prematurely due to adverse reactions.
-In the pregabalin capsules treatment group, the most common reasons for discontinuation due to adverse reactions were dizziness (3%) and somnolence (2%).
+In clinical trials in adults with neuropathic pain associated with diabetic peripheral neuropathy, 9% of patients treated with pregabalin and 4% of patients treated with placebo discontinued prematurely due to adverse reactions.
+In the pregabalin treatment group, the most common reasons for discontinuation due to adverse reactions were dizziness (3%) and somnolence (2%).
+
 In comparison, less than 1% of placebo patients withdrew due to dizziness and somnolence.
-Other reasons for discontinuation from the trials, occurring with greater frequency in the pregabalin capsules group than in the placebo group, were asthenia, confusion, and peripheral edema.
+
+Other reasons for discontinuation from the trials, occurring with greater frequency in the pregabalin group than in the placebo group, were asthenia, confusion, and peripheral edema.
 Each of these events led to withdrawal in approximately 1% of patients.
 
 Most Common Adverse Reactions
 
-Table 4 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 1% of patients with neuropathic pain associated with diabetic neuropathy in the combined pregabalin capsules group for which the incidence was greater in this combined pregabalin capsules group than in the placebo group.
+Table 4 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 1% of patients with neuropathic pain associated with diabetic neuropathy in the combined pregabalin group for which the incidence was greater in this combined pregabalin group than in the placebo group.
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate”.
 
 Table 4.
@@ -94,15 +96,15 @@ Controlled Studies in Postherpetic Neuralgia
 
 Adverse Reactions Leading to Discontinuation
 
-In clinical trials in adults with postherpetic neuralgia, 14% of patients treated with pregabalin capsules and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
-In the pregabalin capsules treatment group, the most common reasons for discontinuation due to adverse reactions were dizziness (4%) and somnolence (3%).
+In clinical trials in adults with postherpetic neuralgia, 14% of patients treated with pregabalin and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
+In the pregabalin treatment group, the most common reasons for discontinuation due to adverse reactions were dizziness (4%) and somnolence (3%).
 In comparison, less than 1% of placebo patients withdrew due to dizziness and somnolence.
-Other reasons for discontinuation from the trials, occurring in greater frequency in the pregabalin capsules group than in the placebo group, were confusion (2%), as well as peripheral edema, asthenia, ataxia, and abnormal gait (1% each).
+Other reasons for discontinuation from the trials, occurring in greater frequency in the pregabalin group than in the placebo group, were confusion (2%), as well as peripheral edema, asthenia, ataxia, and abnormal gait (1% each).
 
 Most Common Adverse Reactions
 
-Table 5 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 1% of patients with neuropathic pain associated with postherpetic neuralgia in the combined pregabalin capsules group for which the incidence was greater in this combined pregabalin capsules group than in the placebo group.
-In addition, an event is included, even if the incidence in the all pregabalin capsules group is not greater than in the placebo group, if the incidence of the event in the 600 mg/day group is more than twice that in the placebo group.
+Table 5 lists all adverse reactions, regardless of causality, occurring in greater than or equal to 1% of patients with neuropathic pain associated with postherpetic neuralgia in the combined pregabalin group for which the incidence was greater in this combined pregabalin group than in the placebo group.
+In addition, an event is included, even if the incidence in the all pregabalin group is not greater than in the placebo group, if the incidence of the event in the 600 mg/day group is more than twice that in the placebo group.
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate”.
 Overall, 12.4% of all pregabalin-treated patients and 9.0% of all placebo-treated patients had at least one severe event while 8% of pregabalin-treated patients and 4.3% of placebo-treated patients had at least one severe treatment-related adverse event.
 
@@ -153,16 +155,16 @@ Controlled Studies of Adjunctive Therapy for Partial-Onset Seizures in Adult Pat
 
 Adverse Reactions Leading to Discontinuation
 
-Approximately 15% of patients receiving pregabalin capsules and 6% of patients receiving placebo in trials of adjunctive therapy for partial-onset seizures discontinued prematurely due to adverse reactions.
-In the pregabalin capsules treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (6%), ataxia (4%), and somnolence (3%).
+Approximately 15% of patients receiving pregabalin and 6% of patients receiving placebo in trials of adjunctive therapy for partial-onset seizures discontinued prematurely due to adverse reactions.
+In the pregabalin treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (6%), ataxia (4%), and somnolence (3%).
 In comparison, less than 1% of patients in the placebo group withdrew due to each of these events.
-Other adverse reactions that led to discontinuation of at least 1% of patients in the pregabalin capsules group and at least twice as frequently compared to the placebo group were asthenia, diplopia, blurred vision, thinking abnormal, nausea, tremor, vertigo, headache, and confusion (which each led to withdrawal in 2% or less of patients).
+Other adverse reactions that led to discontinuation of at least 1% of patients in the pregabalin group and at least twice as frequently compared to the placebo group were asthenia, diplopia, blurred vision, thinking abnormal, nausea, tremor, vertigo, headache, and confusion (which each led to withdrawal in 2% or less of patients).
 
 Most Common Adverse Reactions
 
-Table 6 lists all dose-related adverse reactions occurring in at least 2% of all pregabalin capsules-treated patients.
+Table 6 lists all dose-related adverse reactions occurring in at least 2% of all pregabalin treated patients.
 Dose-relatedness was defined as the incidence of the adverse event in the 600 mg/day group was at least 2% greater than the rate in both the placebo and 150 mg/day groups.
-In these studies, 758 patients received pregabalin capsules and 294 patients received placebo for up to 12 weeks.
+In these studies, 758 patients received pregabalin and 294 patients received placebo for up to 12 weeks.
 A majority of pregabalin-treated patients in clinical studies had adverse reactions with a maximum intensity of "mild" or "moderate”.
 
 Table 6.
@@ -199,6 +201,60 @@ Dose-related Adverse Reaction Incidence in Controlled Trials of Adjunctive Thera
 | Blurred VisionInvestigator term; summary level term is amblyopia. | 5 | 8 | 12 | 10 | 4 |
 | Diplopia | 5 | 7 | 12 | 9 | 4 |
 | Abnormal Vision | 3 | 1 | 5 | 4 | 1 |
+
+Controlled Study of Adjunctive Therapy for Partial-Onset Seizures in Patients 4 to Less Than 17 Years of Age
+
+Adverse Reactions Leading to Discontinuation
+
+Approximately 2.5% of patients receiving pregabalin and no patients receiving placebo in trials of adjunctive therapy for partial-onset seizures discontinued prematurely due to adverse reactions.
+In the pregabalin treatment group, the adverse reactions leading to discontinuation were somnolence (3 patients), worsening of epilepsy (1 patient), and hallucination (1 patient).
+
+Most Common Adverse Reactions
+
+Table 7 lists all dose-related adverse reactions occurring in at least 2% of all pregabalin-treated patients.
+Dose-relatedness was defined as an incidence of the adverse event in the 10 mg/kg/day group that was at least 2% greater than the rate in both the placebo and 2.5 mg/kg/day groups.
+In this study, 201 patients received pregabalin and 94 patients received placebo for up to 12 weeks.
+A majority of pregabalin-treated patients in the clinical study had adverse reactions with a maximum intensity of "mild" or "moderate”.
+
+Table 7.
+Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Therapy for Partial-Onset Seizures in Patients 4 to Less Than 17 Years of Age
+
+| Body System Preferred Term | 2.5 mg/kg/daya [N=104] % | 10 mg/kg/dayb [N=97] % | All PGB [N=201] % | Placebo [N=94] % |
+| --- | --- | --- | --- | --- |
+| Gastrointestinal disorders |  |  |  |  |
+| Salivary hypersecretion | 1 | 4 | 2 | 0 |
+| Investigations |  |  |  |  |
+| Weight increased | 4 | 13 | 8 | 4 |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Increased appetite | 7 | 10 | 8 | 4 |
+| Nervous system disorders |  |  |  |  |
+| Somnolence | 17 | 26 | 21 | 14 |
+| Abbreviations: N=number of patients; PGB = pregabalin. |  |  |  |  |
+| a2.5 mg/kg/day: Maximum dose 150 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 3.5 mg/kg/day. |  |  |  |  |
+| b10 mg/kg/day: Maximum dose 600 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 14 mg/kg/day. |  |  |  |  |
+
+Controlled Study of Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month to Less Than 4 Years of Age
+
+Most Common Adverse Reactions
+
+Table 8 lists all dose-related adverse reactions occurring in at least 2% of all pregabalin -treated patients.
+Dose-relatedness was defined as an incidence of the adverse event in the 14 mg/kg/day group that was at least 2% greater than the rate in both the placebo and 7 mg/kg/day groups.
+In this study, 105 patients received pregabalin and 70 patients received placebo for up to 14 days.
+
+Table 8.
+Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month to Less Than 4 Years of Age
+
+| Body System Preferred Term | 7 mg/kg/day [N=71] % | 14 mg/kg/day [N=34] % | All PGB [N 105] % | Placebo [N=70] % |
+| --- | --- | --- | --- | --- |
+| Nervous system disorders |  |  |  |  |
+| Somnolence* | 13 | 21 | 15 | 9 |
+| Infections and infestations |  |  |  |  |
+| Pneumonia | 1 | 9 | 4 | 0 |
+| Viral infection | 3 | 6 | 4 | 3 |
+
+Abbreviations: N=number of patients; PGB=pregabalin.
+
+* includes related terms including lethargy, sluggishness, and hypersomnia.
 
 Controlled Studies with Fibromyalgia
 
@@ -332,9 +388,9 @@ Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated w
 | Hypertension | 2.2 | 1.1 |
 | Hypotension | 2.2 | 0 |
 
-Other Adverse Reactions Observed During the Clinical Studies of Pregabalin Capsules
+Other Adverse Reactions Observed During the Clinical Studies of Pregabalin
 
-Following is a list of treatment-emergent adverse reactions reported by patients treated with pregabalin capsules during all clinical trials.
+Following is a list of treatment-emergent adverse reactions reported by patients treated with pregabalin during all clinical trials.
 The listing does not include those events already listed in the previous tables or elsewhere in labeling, those events for which a drug cause was remote, those events which were so general as to be uninformative, and those events reported only once which did not have a substantial probability of being acutely life-threatening.
 
 Events are categorized by body system and listed in order of decreasing frequency according to the following definitions: frequent adverse reactions are those occurring on one or more occasions in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1,000 patients; rare reactions are those occurring in fewer than 1/1,000 patients.
@@ -367,12 +423,9 @@ Comparison of Gender and Race
 The overall adverse event profile of pregabalin was similar between women and men.
 There are insufficient data to support a statement regarding the distribution of adverse experience reports by race.
 
-Pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules and Oral Solution products.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of pregabalin capsules.
+The following adverse reactions have been identified during postapproval use of pregabalin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Nervous System Disorders – Headache
@@ -383,6 +436,9 @@ Reproductive System and Breast Disorders – Gynecomastia, Breast Enlargement
 
 Skin and subcutaneous tissue disorders – Bullous pemphigoid
 
-There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking Pregabalin Capsules with opioids or other CNS depressants, or in the setting of underlying respiratory impairment.
+There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking pregabalin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment.
 
-In addition, there are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when pregabalin capsules was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
+In addition, there are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
+
+There are postmarketing reports of withdrawal symptoms after discontinuation of pregabalin.
+Reported adverse reactions include, but are not limited to, seizures, depression, suicidal ideation and behavior, agitation, confusion, disorientation, psychotic symptoms, anxiety, insomnia, nausea, pain, sweating, tremor, headache, dizziness, malaise, and diarrhea.

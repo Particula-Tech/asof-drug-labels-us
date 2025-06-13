@@ -4,18 +4,19 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Angioedema
 
-Advise patients that pregabalin capsules may cause angioedema, with swelling of the face, mouth (lip, gum, tongue) and neck (larynx and pharynx) that can lead to life-threatening respiratory compromise.
-Instruct patients to discontinue pregabalin capsules and immediately seek medical care if they experience these symptoms [see Warnings and Precautions (5.1)].
+Advise patients that pregabalin may cause angioedema, with swelling of the face, mouth (lip, gum, tongue) and neck (larynx and pharynx) that can lead to life-threatening respiratory compromise.
+Instruct patients to discontinue pregabalin and immediately seek medical care if they experience these symptoms [see Warnings and Precautions (5.1)].
 
 Hypersensitivity
 
-Advise patients that pregabalin capsules has been associated with hypersensitivity reactions such as wheezing, dyspnea, rash, hives, and blisters.
-Instruct patients to discontinue pregabalin capsules and immediately seek medical care if they experience these symptoms [see Warnings and Precautions (5.2)].
+Advise patients that pregabalin has been associated with hypersensitivity reactions such as wheezing, dyspnea, rash, hives, and blisters.
+Instruct patients to discontinue pregabalin and immediately seek medical care if they experience these symptoms [see Warnings and Precautions (5.2)].
 
 Suicidal Thinking and Behavior
 
-Patients, their caregivers, and families should be counseled that AEDs, including pregabalin capsules, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.3)].
+Patients, their caregivers, and families should be counseled that AEDs, including pregabalin, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Instruct patients, caregivers, and families to report behaviors of concern immediately to healthcare providers.
+Also inform patients who plan to or have discontinued pregabalin that suicidal thoughts and behavior can appear even after the drug is stopped [see Warnings and Precautions (5.3)].
 
 Respiratory Depression
 
@@ -25,8 +26,8 @@ Teach patients how to recognize respiratory depression and advise them to seek m
 
 Dizziness and Somnolence
 
-Counsel patients that pregabalin capsules may cause dizziness, somnolence, blurred vision and other CNS signs and symptoms.
-Accordingly, advise patients not to drive, operate complex machinery, or engage in other hazardous activities until they have gained sufficient experience on pregabalin capsules to gauge whether or not it affects their mental, visual, and/or motor performance adversely.
+Counsel patients that pregabalin may cause dizziness, somnolence, blurred vision and other CNS signs and symptoms.
+Accordingly, advise patients not to drive, operate complex machinery, or engage in other hazardous activities until they have gained sufficient experience on pregabalin to gauge whether or not it affects their mental, visual, and/or motor performance adversely.
 [see Warnings and Precautions (5.5)].
 
 CNS Depressants
@@ -36,7 +37,7 @@ Advise patients to avoid consuming alcohol while taking Pregabalin, as Pregabali
 
 Adverse Reactions with Abrupt or Rapid Discontinuation
 
-Advise patients to take Pregabalin Capsules as prescribed.
+Advise patients to take pregabalin as prescribed.
 Abrupt or rapid discontinuation may result in increased seizure frequency in patients with seizure disorders, and insomnia, nausea, headache, anxiety, hyperhidrosis, or diarrhea [see Warnings and Precautions (5.6)].
 
 Missed Dose
@@ -47,14 +48,14 @@ Instruct patients not to take two doses at the same time.
 
 Weight Gain and Edema
 
-Counsel patients that pregabalin capsules may cause edema and weight gain.
-Advise patients that concomitant treatment with pregabalin capsules and a thiazolidinedione antidiabetic agent may lead to an additive effect on edema and weight gain.
+Counsel patients that pregabalin may cause edema and weight gain.
+Advise patients that concomitant treatment with pregabalin and a thiazolidinedione antidiabetic agent may lead to an additive effect on edema and weight gain.
 For patients with preexisting cardiac conditions, this may increase the risk of heart failure.
-[see Warnings and Precautions (5.7 and 5.8)].
+[see Warnings and Precautions (5.7, 5.8)].
 
 Ophthalmological Effects
 
-Counsel patients that pregabalin capsules may cause visual disturbances.
+Counsel patients that pregabalin may cause visual disturbances.
 Inform patients that if changes in vision occur, they should notify their physician [see Warnings and Precautions (5.10)].
 
 Creatine Kinase Elevations
@@ -62,23 +63,30 @@ Creatine Kinase Elevations
 Instruct patients to promptly report unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever.
 [see Warnings and Precautions (5.11)].
 
-Pregnancy
+Use in Pregnancy
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to pregabalin capsules during pregnancy [see Use in Specific Populations (8.1)].
+Instruct patients to inform their healthcare provider if they are pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.2)].
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
 Lactation
 
-Advise nursing mothers that breastfeeding is not recommended during treatment with pregabalin capsules [see Use in Specific Populations (8.2)].
+Advise nursing mothers that breastfeeding is not recommended during treatment with pregabalin [see Use in Specific Populations (8.2)].
 
 Male Fertility
 
-Inform men being treated with pregabalin capsules who plan to father a child of the potential risk of male- mediated teratogenicity.
+Inform men being treated with pregabalin who plan to father a child of the potential risk of male- mediated teratogenicity.
 In preclinical studies in rats, pregabalin was associated with an increased risk of male-mediated teratogenicity.
 The clinical significance of this finding is uncertain [see Nonclinical Toxicology (13.1) and Use in specific populations (8.3)].
 
 Dermatopathy
 
-Instruct diabetic patients to pay particular attention to skin integrity while being treated with pregabalin capsules and to inform their healthcare provider about any sores or skin problems.
-Some animals treated with pregabalin developed skin ulcerations, although no increased incidence of skin lesions associated with pregabalin capsules was observed in clinical trials [see Nonclinical Toxicology (13.2)].
+Instruct diabetic patients to pay particular attention to skin integrity while being treated with pregabalin and to inform their healthcare provider about any sores or skin problems.
+Some animals treated with pregabalin developed skin ulcerations, although no increased incidence of skin lesions associated with pregabalin was observed in clinical trials [see Nonclinical Toxicology (13.2)].
 
-Revision: 04/2020
+Revision: 05/2025
+
+Manufactured by: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Hauppauge, NY 11788
+
+Manufactured for: Exelan Pharmaceuticals, Inc. Boca Raton, FL 33432
