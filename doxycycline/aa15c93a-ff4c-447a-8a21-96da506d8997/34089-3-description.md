@@ -8,4 +8,4 @@ with an empirical formula of C22H24N2O8•H2O and a molecular weight of 462.46.
 The chemical designation for doxycycline is 2-Naphthacenecar-boxamide,4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,5,10,12,12a-pentahydroxy-6-methyl-1,11-dioxo-, [4S-(4α, 4aα, 5α, 5aα, 6α,12aα)]-, monohydrate.
 It is very slightly soluble in water.
 
-Inert ingredients in the formulation are: hard gelatin capsule, hypromellose, methacrylic acid copolymer, Opadry beige, sugar spheres, talc, and triethyl citrate.
+Inert ingredients in the formulation are: hypromellose, iron oxide red, iron oxide yellow, methacrylic acid copolymer, polyethylene glycol, Polysorbate 80, sugar spheres, talc, titanium dioxide, and triethyl citrate.
