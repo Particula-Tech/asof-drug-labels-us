@@ -73,4 +73,4 @@ Contact with skin or eyes can cause hypersensitive reactions resulting in rash, 
 If symptoms appear, seek medical attention.
 
 Manufactured by: Nova Laboratories Ltd, Leicester, LE18 4YL, United Kingdom Manufactured for: Rare Disease Therapeutics, Inc., 2550 Meridian Blvd.
-Suite 150, Franklin, TN 37067 Part Number: D001112/1 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration Revised: April 2020
+Suite 150, Franklin, TN 37067 Part Number: D001356/1 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration Revised: April 2025
