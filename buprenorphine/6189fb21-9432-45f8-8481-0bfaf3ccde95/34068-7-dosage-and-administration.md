@@ -42,15 +42,15 @@ Patients' symptoms should be stable or improving prior to release from the healt
 On induction day, up to an additional 8 mg of transmucosal buprenorphine could be administered to manage withdrawal symptoms.
 
 The recommended dose for the second injection is 300 mg.
-The second injection may be administered as early as 1 week and up to 1 month after the initial injection, based on patient need [see Table 1].
+The second injection may be administered as early as 1 week and up to 1 month after the initial injection, based on patient need [seeTable 1].
 
 Transition of patients already receiving transmucosal buprenorphine
 
 Patients who have been on 8 mg to 24 mg daily of transmucosal buprenorphine may be transitioned directly to the recommended starting dose of 300 mg of SUBLOCADE.
 The recommended dose for the second injection is 300 mg.
-The second injection may be administered as early as 1 week and up to 1 month after the initial injection, based on patient need [see Table 1].
+The second injection may be administered as early as 1 week and up to 1 month after the initial injection, based on patient need [seeTable 1].
 
-Patients established on long-term treatment and whose symptoms are controlled with 8 mg to 18 mg daily of transmucosal buprenorphine may receive 100 mg of SUBLOCADE as their second dose if symptoms remain controlled following the initial dose of 300 mg [see Table 1].
+Patients established on long-term treatment and whose symptoms are controlled with 8 mg to 18 mg daily of transmucosal buprenorphine may receive 100 mg of SUBLOCADE as their second dose if symptoms remain controlled following the initial dose of 300 mg [seeTable 1].
 
 Maintenance dosage
 
@@ -64,14 +64,14 @@ Table 1 Recommended Dosing Schedule
 | --- | --- | --- | --- | --- |
 | Initial Dose | Injection #1 | Injection #2a | Maintenance Doseb |  |
 | Initiation in patients not already receiving buprenorphine |  |  |  |  |
-| NA | 4 mgc | 300 mg | 300 mg | 100 mg |
+| NA | 4 mg c | 300 mg | 300 mg | 100 mg |
 | Transition of patients already receiving transmucosal buprenorphine |  |  |  |  |
-| 8 – 24 mg/day | NA | 300 mg | 300 mgd | 100 mg |
+| 8 – 24 mg/day | NA | 300 mg | 300 mg d | 100 mg |
 | TM BUP, transmucosal buprenorphine; NA, not applicable |  |  |  |  |
-| a The second injection may be administered as early as 1 week and up to 1 month after the initial injection based on patient need. |  |  |  |  |
-| b A monthly maintenance dosage of 300 mg may be considered in patients who tolerate SUBLOCADE, but do not demonstrate a satisfactory clinical response. |  |  |  |  |
-| c On induction day, additional transmucosal buprenorphine may be administered as needed to manage withdrawal symptoms. Monitor patients for 1 hour to confirm tolerability before administering the first injection of SUBLOCADE. |  |  |  |  |
-| d Patients established on long-term treatment and whose symptoms are controlled with 8 mg to 18 mg daily of transmucosal buprenorphine may receive 100 mg of SUBLOCADE as their second dose if symptoms remain controlled following the initial dose of 300 mg. |  |  |  |  |
+| aThe second injection may be administered as early as 1 week and up to 1 month after the initial injection based on patient need. |  |  |  |  |
+| bA monthly maintenance dosage of 300 mg may be considered in patients who tolerate SUBLOCADE, but do not demonstrate a satisfactory clinical response. |  |  |  |  |
+| cOn induction day, additional transmucosal buprenorphine may be administered as needed to manage withdrawal symptoms. Monitor patients for 1 hour to confirm tolerability before administering the first injection of SUBLOCADE. |  |  |  |  |
+| dPatients established on long-term treatment and whose symptoms are controlled with 8 mg to 18 mg daily of transmucosal buprenorphine may receive 100 mg of SUBLOCADE as their second dose if symptoms remain controlled following the initial dose of 300 mg. |  |  |  |  |
 
 Missed doses
 
@@ -185,8 +185,7 @@ Figure 6
 
 STEP 7: INJECT THE MEDICATION
 
-SUBLOCADE is for subcutaneous injection only.
-Do not inject intravenously, intramuscularly, or intradermally [see Warnings and Precautions (5.1, 5.6)].
+SUBLOCADE is for subcutaneous injection only.Do not inject intravenously, intramuscularly, or intradermally [see Warnings and Precautions (5.1, 5.6)].
 
 Insert needle fully into the subcutaneous tissue.
 Actual angle of injection will depend on the amount of subcutaneous tissue.

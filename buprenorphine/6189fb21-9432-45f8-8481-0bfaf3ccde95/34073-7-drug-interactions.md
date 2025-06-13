@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-Table 5 includes clinically significant drug interactions with SUBLOCADE.
+Table 5includes clinically significant drug interactions with SUBLOCADE.
 
 Table 5 Clinically Significant Drug Interactions
 

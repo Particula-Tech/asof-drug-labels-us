@@ -14,9 +14,9 @@ In a Positron Emission Tomography (PET) study with SUBLOCADE in 2 subjects (one 
 The opioid blockade study evaluated the blockade of subjective opioid effects, pharmacokinetics (PK) and safety of subcutaneous injections of SUBLOCADE.
 Stabilization doses of SL buprenorphine prior to injection of SUBLOCADE failed to provide full blockade of subjective effects of hydromorphone 18 mg IM.
 After SUBLOCADE injections at Weeks 0 and 4, on average, subjective effects of both 6 mg and 18 mg doses of hydromorphone were blocked; however, wide variability was seen across subjects.
-Complete blockade continued throughout the 8 weeks of observation that followed the 2 nd SUBLOCADE injection [see Clinical Studies (14.1)].
+Complete blockade continued throughout the 8 weeks of observation that followed the 2 ndSUBLOCADE injection [see Clinical Studies (14.1)].
 
-Figure 10 illustrates the relationship between buprenorphine plasma level and drug liking after 18 mg hydromorphone IM.
+Figure 10illustrates the relationship between buprenorphine plasma level and drug liking after 18 mg hydromorphone IM.
 
 Figure 10 Drug Liking VAS vs. Plasma Buprenorphine Concentration Following 18 mg Hydromorphone Challenges
 
@@ -36,14 +36,14 @@ Review of ECG and adverse event data provided no evidence for syncope, seizure, 
 Physiological Effects
 
 Buprenorphine in IV (2, 4, 8, 12 and 16 mg) and sublingual (12 mg) doses have been administered to opioid-experienced subjects who were not physically dependent to examine cardiovascular, respiratory, and subjective effects at doses comparable to those used for treatment of opioid dependence.
-Compared to placebo, there were no statistically significant differences among any of the treatment conditions for blood pressure, heart rate, respiratory rate, O 2 saturation, or skin temperature across time.
+Compared to placebo, there were no statistically significant differences among any of the treatment conditions for blood pressure, heart rate, respiratory rate, O 2saturation, or skin temperature across time.
 Systolic BP was higher in the 8 mg group than placebo (3 hour AUC values).
 Minimum and maximum effects were similar across all treatments.
 Subjects remained responsive to low voice and responded to computer prompts.
 Some subjects showed irritability, but no other changes were observed.
 The respiratory effects of sublingual buprenorphine were compared with the effects of methadone in a double-blind, parallel group, dose ranging comparison of single doses of buprenorphine sublingual solution (1, 2, 4, 8, 16, or 32 mg) and oral methadone (15, 30, 45, or 60 mg) in non-dependent, opioid-experienced volunteers.
 In this study, hypoventilation not requiring medical intervention was reported more frequently after buprenorphine doses of 4 mg and higher than after methadone.
-Both drugs decreased O 2 saturation to the same degree.
+Both drugs decreased O 2saturation to the same degree.
 
 In clinical studies conducted with SUBLOCADE at doses ranging from 50 to 300 mg, no incidences of temperature elevations, or clinically significant lowering of oxygen saturation were observed.
 
@@ -78,11 +78,11 @@ Absorption
 
 The pharmacokinetics (PK) of buprenorphine following subcutaneous injection of SUBLOCADE was evaluated in subjects with opioid use disorder after single doses (50 mg to 200 mg) and repeated doses (50 to 300 mg) separated by 28 days for up to 12 injections.
 
-After SUBLOCADE injection, an initial buprenorphine peak was observed and the median T max occurred at 24 hours after injection.
+After SUBLOCADE injection, an initial buprenorphine peak was observed and the median T maxoccurred at 24 hours after injection.
 After the initial buprenorphine peak, the plasma buprenorphine concentrations decreased slowly to a plateau.
 Steady-state was achieved at 4-6 months.
 
-Mean buprenorphine plasma concentrations levels for C avg, C max and C trough at steady-state are presented in Table 7 for SUBLOCADE in comparison to daily transmucosal buprenorphine.
+Mean buprenorphine plasma concentrations levels for C avg, C maxand C troughat steady-state are presented in Table 7for SUBLOCADE in comparison to daily transmucosal buprenorphine.
 
 Table 7 Comparison of Steady-state Buprenorphine Plasma Exposure Between Daily Transmucosal Buprenorphine and Once Monthly SUBLOCADE at Trough (C trough), Average (C avg) and Peak (C max) Levels (Geometric Mean (CV%))
 
