@@ -114,9 +114,3 @@ There is no therapeutic experience in patients with end-stage renal disease (eGF
 
 The effect of hepatic impairment on the pharmacokinetics of SOLIQUA 100/33 has not been studied.
 Frequent glucose monitoring and dose adjustment may be necessary for SOLIQUA 100/33 in patients with hepatic impairment [see Warnings and Precautions (5.6)].
-
-## 8.8 Patients with Gastroparesis
-
-Lixisenatide slows gastric emptying.
-Patients with preexisting gastroparesis were excluded from clinical trials of SOLIQUA 100/33.
-SOLIQUA 100/33 is not recommended in patients with severe gastroparesis.

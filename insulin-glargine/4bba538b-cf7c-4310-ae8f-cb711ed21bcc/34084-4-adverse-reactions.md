@@ -3,12 +3,13 @@
 The following adverse reactions are discussed elsewhere:
 
 - Anaphylaxis and Serious Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
-- Pancreatitis [see Warnings and Precautions (5.2)]
+- Acute Pancreatitis [see Warnings and Precautions (5.2)]
 - Hypoglycemia [see Warnings and Precautions (5.6)]
-- Acute Kidney Injury [see Warnings and Precautions (5.7)]
-- Hypokalemia [see Warnings and Precautions (5.9)]
-- Acute Gallbladder Disease [see Warnings and Precautions (5.11)]
-- Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.12)]
+- Acute Kidney Injury Due to Volume Depletion [see Warnings and Precautions (5.7)]
+- Severe Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.8)]
+- Hypokalemia [see Warnings and Precautions (5.10)]
+- Acute Gallbladder Disease [see Warnings and Precautions (5.12)]
+- Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -74,6 +75,12 @@ Insulin glargine
 
 Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock may occur with any insulin, including SOLIQUA 100/33, and may be life-threatening.
 
+Pancreatitis
+
+In clinical trials of lixisenatide there were 21 cases of pancreatitis among lixisenatide-treated patients and 14 cases in comparator-treated patients (incidence rate of 21 vs 17 per 10,000 patient-years).
+Lixisenatide cases were reported as acute pancreatitis (n=3), pancreatitis (n=12), chronic pancreatitis (n=5), and edematous pancreatitis (n=1).
+Some patients had risk factors for pancreatitis, such as a history of cholelithiasis or alcohol abuse.
+
 Acute Gallbladder Disease
 
 In a cardiovascular outcomes trial, cholelithiasis occurred in 0.4% of lixisenatide-treated patients versus 0.2% in placebo-treated patients and acute cholecystitis in 0.3% of lixisenatide-treated patients versus 0.2% in placebo-treated patients.
@@ -113,7 +120,7 @@ Lixisenatide
 
 In the pool of 9 placebo-controlled studies, 70% of patients exposed to lixisenatide tested positive for anti-lixisenatide antibodies during the trials.
 In the subset of patients (2.4%) with the highest antibody concentrations (>100 nmol/L), an attenuated glycemic response was observed.
-A higher incidence of allergic reactions and injection-site reactions occurred in antibody positive patients [see Warnings and Precautions (5.8)].
+A higher incidence of allergic reactions and injection-site reactions occurred in antibody positive patients [see Warnings and Precautions (5.9)].
 
 Anti-lixisenatide antibody characterization studies have demonstrated the potential for development of antibodies cross-reactive with endogenous GLP-1 and glucagon, but their incidence has not been fully determined and the clinical significance of these antibodies is not currently known.
 
@@ -124,15 +131,21 @@ No information regarding the presence of neutralizing antibodies is currently av
 The following additional adverse reactions have been identified during post approval use.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Renal: acute kidney injury
+Insulin glargine:
 
-Skin: Localized cutaneous amyloidosis at the injection site has occurred with insulins.
-Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.
+Localized cutaneous amyloidosis at the injection site has occurred with insulins.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site;
+
+Lixisenatide:
+
+Gastrointestinal: acute pancreatitis, hemorrhagic and necrotizing pancreatitis, ileus
 
 Hepatobiliary: cholecystitis, cholelithiasis requiring cholecystectomy
 
-Gastrointestinal: ileus
+Neurologic: dysgeusia, dysesthesia
 
-Nervous system: dysgeusia
+Pulmonary: pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.
 
-Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.
+Renal: acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis
+
+Skin and Subcutaneous Tissue: alopecia.

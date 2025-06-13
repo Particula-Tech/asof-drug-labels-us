@@ -10,17 +10,12 @@ Inform and closely monitor patients with a history of anaphylaxis or angioedema 
 SOLIQUA 100/33 is contraindicated in patients with known serious hypersensitivity to lixisenatide or insulin glargine [see Contraindications (4)].
 If a hypersensitivity reaction occurs, the patient should discontinue SOLIQUA 100/33 and promptly seek medical attention.
 
-## 5.2 Pancreatitis
+## 5.2 Acute Pancreatitis
 
-Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been reported postmarketing in patients treated with GLP-1 receptor agonists.
-In clinical trials of lixisenatide there were 21 cases of pancreatitis among lixisenatide-treated patients and 14 cases in comparator-treated patients (incidence rate of 21 vs 17 per 10,000 patient-years).
-Lixisenatide cases were reported as acute pancreatitis (n=3), pancreatitis (n=12), chronic pancreatitis (n=5), and edematous pancreatitis (n=1).
-Some patients had risk factors for pancreatitis, such as a history of cholelithiasis or alcohol abuse.
+Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists [see Adverse Reactions (6)].
 
 After initiation of SOLIQUA 100/33, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
-If pancreatitis is suspected, promptly discontinue SOLIQUA 100/33 and initiate appropriate management.
-If pancreatitis is confirmed, restarting SOLIQUA 100/33 is not recommended.
-Consider antidiabetic therapies other than SOLIQUA 100/33 in patients with a history of pancreatitis.
+If pancreatitis is suspected, discontinue SOLIQUA 100/33 and initiate appropriate management.
 
 ## 5.3 Never Share a SOLIQUA 100/33 Prefilled Pen Between Patients
 
@@ -41,7 +36,7 @@ When converting from basal insulin therapy or a GLP-1 receptor agonist to SOLIQU
 
 SOLIQUA 100/33 contains two drugs: insulin glargine and lixisenatide.
 Administration of more than 60 units of SOLIQUA 100/33 daily can result in overdose of the lixisenatide component.
-Do not exceed the 20-mcg maximum recommended dose of lixisenatide or use with other glucagon-like peptide-1 receptor agonists.
+Do not exceed the 20-mcg maximum recommended dose of lixisenatide or use with other GLP-1 receptor agonists.
 
 Accidental mix-ups between insulin products have been reported.
 To avoid medication errors between SOLIQUA 100/33 and other insulins, instruct patients to always check the insulin label before each injection.
@@ -73,17 +68,18 @@ In patients at higher risk for hypoglycemia and patients who have reduced sympto
 
 The long-acting effect of insulin glargine may delay recovery from hypoglycemia.
 
-## 5.7 Acute Kidney Injury
+## 5.7 Acute Kidney Injury Due to Volume Depletion
 
-Acute kidney injury and worsening of chronic renal failure, which may sometimes require hemodialysis, has been reported post marketing in patients treated with SOLIQUA 100/33.
-Some of these events were reported in patients without known underlying renal disease.
-A majority of the reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration.
+There have been postmarketing reports of acute kidney injury, in some cases requiring hemodialysis, in patients treated with GLP-1 receptor agonists [see Adverse Reactions (6.3)].
+The majority of the reported events occurred in patients who experienced gastrointestinal reactions leading to dehydration such as nausea, vomiting, or diarrhea [see Adverse Reactions (6.1)].
+Monitor renal function in patients reporting adverse reactions to SOLIQUA 100/33 that could lead to volume depletion, especially during dosage initiation and escalation of SOLIQUA 100/33.SOLIQUA 100/33 is not recommended in patients with end-stage renal disease [see Use in Specific Populations (8.6)].
 
-Monitor renal function when initiating or escalating doses of SOLIQUA 100/33 in patients with renal impairment and in patients reporting severe gastrointestinal reactions.
-Advise patients of the potential risk of dehydration due to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
-SOLIQUA 100/33 is not recommended in patients with end-stage renal disease [see Use in Specific Populations (8.6)].
+## 5.8 Severe Gastrointestinal Adverse Reactions
 
-## 5.8 Immunogenicity
+Use of GLP-1 receptor agonists, including SOLIQUA 100/33, has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6.)].
+SOLIQUA 100/33 is not recommended in patients with severe gastroparesis.
+
+## 5.9 Immunogenicity
 
 Patients may develop antibodies to insulin and lixisenatide following treatment.
 A pooled analysis of studies of lixisenatide-treated patients showed that 70% were antibody positive at Week 24.
@@ -92,26 +88,26 @@ A higher incidence of allergic reactions and injection-site reactions occurred i
 
 If there is worsening glycemic control or failure to achieve targeted glycemic control, significant injection-site reactions or allergic reactions, alternative antidiabetic therapy should be considered.
 
-## 5.9 Hypokalemia
+## 5.10 Hypokalemia
 
 All insulin-containing products, including SOLIQUA 100/33, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
 Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
 Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
 
-## 5.10 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
+## 5.11 Fluid Retention and Heart Failure with Concomitant Use of PPAR-gamma Agonists
 
-Thiazoidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin-containing products, including SOLIQUA 100/33.
+Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists, can cause dose-related fluid retention, particularly when used in combination with insulin-containing products, including SOLIQUA 100/33.
 Fluid retention may lead to or exacerbate heart failure.
 Patients treated with SOLIQUA 100/33 and a PPAR-gamma agonist should be observed for signs and symptoms of heart failure.
 If heart failure develops, it should be managed according to current standards of care, and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
 
-## 5.11 Acute Gallbladder Disease
+## 5.12 Acute Gallbladder Disease
 
 Acute events of gallbladder disease such as cholelithiasis or cholecystitis have been reported in GLP-1 receptor agonist trials and postmarketing.
 In a cardiovascular outcomes trial, cholelithiasis occurred in 0.4% of lixisenatide-treated patients versus 0.2% in placebo-treated patients and acute cholecystitis in 0.3% of lixisenatide-treated patients versus 0.2% in placebo-treated patients.
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
 
-## 5.12 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+## 5.13 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
 SOLIQUA 100/33 delays gastric emptying [see Clinical Pharmacology (12.1)].
 There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.

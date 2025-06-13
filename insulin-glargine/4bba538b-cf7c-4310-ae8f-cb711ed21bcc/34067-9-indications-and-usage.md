@@ -4,9 +4,7 @@ SOLIQUA 100/33 is a combination of insulin glargine and lixisenatide and is indi
 
 Limitations of Use:
 
-- SOLIQUA 100/33 has not been studied in patients with a history of pancreatitis [see Warnings and Precautions (5.2)].
-  Consider other antidiabetic therapies in patients with a history of pancreatitis.
-- SOLIQUA 100/33 is not recommended for use in combination with any other product containing a GLP-1 receptor agonist [see Warnings and Precautions (5.5)].
-- SOLIQUA 100/33 is not indicated for use in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis.
-- SOLIQUA 100/33 has not been studied in patients with gastroparesis and is not recommended in patients with gastroparesis.
+- SOLIQUA 100/33 contains lixisenatide.
+  Coadministration with any other product containing lixisenatide or another glucagon-like peptide-1 (GLP-1) receptor agonist is not recommended [see Warnings and Precautions (5.5)].
+- SOLIQUA 100/33 is not recommended for the treatment of diabetic ketoacidosis.
 - SOLIQUA 100/33 has not been studied in combination with prandial insulin.
