@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA218980"
+  ],
+  "inn": "hydrocortisone",
+  "labeler": "Eton Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "71863-116-16"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "hydrocortisone",
+      "name": "Khindivi"
+    }
+  ],
+  "setid": "1ef80500-8386-40ee-b608-516cd687b376",
+  "source": "dailymed"
+}
