@@ -14,13 +14,9 @@ Significantly elevated serum calcitonin values may indicate MTC and patients wit
 If serum calcitonin is measured and found to be elevated, the patient should be further evaluated.
 Patients with thyroid nodules noted on physical examination or neck imaging should also be further evaluated.
 
-## 5.2 Pancreatitis
+## 5.2 Acute Pancreatitis
 
-Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists.
-
-In clinical studies, 14 events of acute pancreatitis were confirmed by adjudication in 13 MOUNJARO-treated patients (0.23 patients per 100 years of exposure) versus 3 events in 3 comparator-treated patients (0.11 patients per 100 years of exposure).
-MOUNJARO has not been studied in patients with a prior history of pancreatitis.
-It is unknown if patients with a history of pancreatitis are at higher risk for development of pancreatitis on MOUNJARO.
+Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, or MOUNJARO [see Adverse Reactions (6.1)].
 
 After initiation of MOUNJARO, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
 If pancreatitis is suspected, discontinue MOUNJARO and initiate appropriate management.
@@ -41,22 +37,18 @@ Do not use in patients with a previous serious hypersensitivity reaction to tirz
 Anaphylaxis and angioedema have been reported with GLP-1 receptor agonists.
 Use caution in patients with a history of angioedema or anaphylaxis with a GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to these reactions with MOUNJARO.
 
-## 5.5 Acute Kidney Injury
+## 5.5 Acute Kidney Injury Due to Volume Depletion
 
-MOUNJARO has been associated with gastrointestinal adverse reactions, which include nausea, vomiting, and diarrhea [see Adverse Reactions (6.1)].
-These events may lead to dehydration, which if severe could cause acute kidney injury.
-
-In patients treated with GLP-1 receptor agonists, there have been postmarketing reports of acute kidney injury and worsening of chronic renal failure, which may sometimes require hemodialysis.
-Some of these events have been reported in patients without known underlying renal disease.
-A majority of the reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration.
-Monitor renal function when initiating or escalating doses of MOUNJARO in patients with renal impairment reporting severe gastrointestinal adverse reactions.
+There have been postmarketing reports of acute kidney injury, in some cases requiring hemodialysis, in patients treated with GLP-1 receptor agonists, or MOUNJARO [see Adverse Reactions (6.2)].
+The majority of the reported events occurred in patients who experienced gastrointestinal adverse reactions leading to dehydration such as nausea, vomiting, or diarrhea [see Adverse Reactions (6.1)].
+Monitor renal function in patients reporting adverse reactions to MOUNJARO that could lead to volume depletion, especially during dosage initiation and escalation of MOUNJARO.
 
 ## 5.6 Severe Gastrointestinal Adverse Reactions
 
-Use of MOUNJARO has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions 6.1].
+Use of MOUNJARO has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
 In the pool of placebo-controlled trials, severe gastrointestinal adverse reactions occurred more frequently among patients receiving MOUNJARO (5 mg 1.3%, 10 mg 0.4%, 15 mg 1.2%) than placebo (0.9%).
 
-MOUNJARO has not been studied in patients with severe gastrointestinal disease, including severe gastroparesis, and is therefore not recommended in these patients.
+MOUNJARO is not recommended in patients with severe gastroparesis.
 
 ## 5.7 Diabetic Retinopathy Complications in Patients with a History of Diabetic Retinopathy
 

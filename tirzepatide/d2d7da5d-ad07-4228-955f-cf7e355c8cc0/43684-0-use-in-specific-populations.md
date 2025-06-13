@@ -46,7 +46,7 @@ Contraception
 
 Use of MOUNJARO may reduce the efficacy of oral hormonal contraceptives due to delayed gastric emptying.
 This delay is largest after the first dose and diminishes over time.
-Advise patients using oral hormonal contraceptives to switch to a non-oral contraceptive method, or add a barrier method of contraception for 4 weeks after initiation and for 4 weeks after each dose escalation with MOUNJARO [see Drug Interactions (7.2) and Clinical Pharmacology (12.2, 12.3)].
+Advise patients using oral hormonal contraceptives to switch to a non-oral contraceptive method or add a barrier method of contraception for 4 weeks after initiation and for 4 weeks after each dose escalation with MOUNJARO [see Drug Interactions (7.2) and Clinical Pharmacology (12.2, 12.3)].
 
 ## 8.4 Pediatric Use
 

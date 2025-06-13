@@ -78,8 +78,7 @@ Table 4: Results at Week 40 in a Trial of MOUNJARO versus Semaglutide 1 mg in Ad
 | e Analyzed using logistic regression adjusted for baseline value and other stratification factors. |  |  |  |  |
 | f p<0.01 (two-sided) for superiority vs. semaglutide, adjusted for multiplicity. |  |  |  |  |
 
-Figure 2.
-Mean HbA1c (%) Over Time - Baseline to Week 40
+Figure 2: Mean HbA1c (%) Over Time - Baseline to Week 40
 
 | Number of patients |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -126,7 +125,7 @@ Table 5: Results at Week 52 in a Trial of MOUNJARO versus Insulin Degludec in Ad
 | c p<0.001 (two-sided) for superiority vs. insulin degludec, adjusted for multiplicity. |  |  |  |  |
 | d Analyzed using logistic regression adjusted for baseline value and other stratification factors. |  |  |  |  |
 
-Add-on to 1-3 oral anti-hyperglycemic agents (metformin, sulfonylurea or SGLT-2 inhibitor)
+Add-on to 1-3 oral anti-hyperglycemic agents (metformin, sulfonylurea, or SGLT-2 inhibitor)
 
 SURPASS-4 (NCT03730662) was a 104-week open-label trial (52-week primary endpoint) that randomized 2002 adult patients with type 2 diabetes mellitus with increased cardiovascular risk to MOUNJARO 5 mg, MOUNJARO 10 mg, MOUNJARO 15 mg once weekly, or insulin glargine 100 units/mL once daily (1:1:1:3 ratio) on a background of metformin (95%) and/or sulfonylureas (54%) and/or SGLT2 inhibitors (25%).
 

@@ -3,12 +3,12 @@
 The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
 - Risk of Thyroid C-cell Tumors [see Warnings and Precautions (5.1)]
-- Pancreatitis [see Warnings and Precautions (5.2)]
+- Acute Pancreatitis [see Warnings and Precautions (5.2)]
 - Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin [see Warnings and Precautions (5.3)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
-- Acute Kidney Injury [see Warnings and Precautions (5.5)]
+- Acute Kidney Injury Due to Volume Depletion [see Warnings and Precautions (5.5)]
 - Severe Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.6)]
-- Diabetic Retinopathy Complications [see Warnings and Precautions (5.7)]
+- Diabetic Retinopathy Complications in Patients with a History of Diabetic Retinopathy [see Warnings and Precautions (5.7)]
 - Acute Gallbladder Disease [see Warnings and Precautions (5.8)]
 - Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.9)]
 
@@ -88,6 +88,10 @@ Table 2: Hypoglycemia Adverse Reactions in Placebo-Controlled Trials in Adult Pa
 Hypoglycemia was more frequent when MOUNJARO was used in combination with a sulfonylurea [see Clinical Studies (14)].
 In a clinical trial up to 104 weeks of treatment, when administered with a sulfonylurea, hypoglycemia (glucose level <54 mg/dL) occurred in 13.8%, 9.9%, and 12.8%, and severe hypoglycemia occurred in 0.5%, 0%, and 0.6% of patients treated with MOUNJARO 5 mg, 10 mg, and 15 mg, respectively.
 
+Acute Pancreatitis
+
+In clinical studies, 14 events of acute pancreatitis were confirmed by adjudication in 13 MOUNJARO-treated patients (0.23 patients per 100 years of exposure) versus 3 events in 3 comparator-treated patients (0.11 patients per 100 years of exposure).
+
 Heart Rate Increase
 
 In the pool of placebo-controlled trials, treatment with MOUNJARO resulted in a mean increase in heart rate of 2 to 4 beats per minute compared to a mean increase of 1 beat per minute in placebo-treated patients.
@@ -135,6 +139,10 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Hypersensitivity: anaphylaxis, angioedema
 
-Gastrointestinal: ileus
+Gastrointestinal: acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death, ileus
 
-Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.
+Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation
+
+Renal: acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis
+
+Skin and Subcutaneous Tissue: alopecia

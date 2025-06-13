@@ -84,7 +84,7 @@ Potential for Tirzepatide to Influence the Pharmacokinetics of Other Drugs
 
 In vitro studies have shown low potential for tirzepatide to inhibit or induce CYP enzymes, and to inhibit drug transporters.
 
-MOUNJARO delays gastric emptying, and thereby has the potential to impact the absorption of concomitantly administered oral medications [see Drug Interactions (7.2)].
+MOUNJARO delays gastric emptying and thereby has the potential to impact the absorption of concomitantly administered oral medications [see Drug Interactions (7.2)].
 
 The impact of tirzepatide on gastric emptying was greatest after a single dose of 5 mg and diminished after subsequent doses.
 
