@@ -3,13 +3,14 @@
 The following serious adverse reactions are described below or elsewhere in the prescribing information:
 
 - •Risk of Thyroid C-cell Tumors [see Warnings and Precautions (5.1)]
-- •Pancreatitis [see Warnings and Precautions (5.2)]
+- •Acute Pancreatitis [see Warnings and Precautions (5.2)]
 - •Hypoglycemia [see Warnings and Precautions (5.6)]
-- •Acute Kidney Injury [see Warnings and Precautions (5.7)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
-- •Acute Gallbladder Disease [see Warnings and Precautions (5.9)]
-- •Hypokalemia [see Warnings and Precautions (5.10)]
-- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.12)]
+- •Acute Kidney Injury Due to Volume Depletion [see Warnings and Precautions (5.7)]
+- •Severe Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.8)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
+- •Acute Gallbladder Disease [see Warnings and Precautions (5.10)]
+- •Hypokalemia [see Warnings and Precautions (5.11)]
+- •Pulmonary Aspiration During General Anesthesia or Deep Sedation [see Warnings and Precautions (5.13)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -24,7 +25,8 @@ The mean duration of diabetes was 9 years and the mean HbA1c at baseline was 8.2
 A history of neuropathy, ophthalmopathy, nephropathy and cardiovascular disease at baseline was reported in 25%, 12%, 7% and 6% respectively.
 The mean estimated glomerular filtration rate (eGFR) at baseline was 88.3 mL/min/1.73 m2 and 6% of the patients had an eGFR less than 60 mL/min/1.73 m2.
 
-Table 3: Adverse Reactions Occurring in ≥5% of XULTOPHY 100/3.6-Treated Patients with Type 2 Diabetes Mellitus
+Table 3.
+Adverse Reactions Occurring in ≥5% of XULTOPHY 100/3.6-Treated Patients with Type 2 Diabetes Mellitus
 
 |  | XULTOPHY 100/3.6N = 1881% |
 | --- | --- |
@@ -45,7 +47,8 @@ In the phase 3 clinical program [see Clinical Studies (14)], events of severe hy
 Hypoglycemia episodes with a glucose level below 54 mg/dL associated with or without symptoms is shown in Table 4.
 No clinically important differences in risk of severe hypoglycemia between XULTOPHY 100/3.6 and comparators were observed in clinical trials.
 
-Table 4: Hypoglycemia Episodes Reported in XULTOPHY 100/3.6-Treated Patients with T2DM
+Table 4.
+Hypoglycemia Episodes Reported in XULTOPHY 100/3.6-Treated Patients with T2DM
 
 |  | Patients naïve to basal insulin or GLP-1 receptor agonist |  |  | Patients currently on GLP-1 receptor agonist | Patients currently on basal insulin |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -60,14 +63,22 @@ Table 4: Hypoglycemia Episodes Reported in XULTOPHY 100/3.6-Treated Patients wit
 Gastrointestinal Adverse Reactions
 
 Gastrointestinal adverse reactions including nausea, diarrhea, vomiting, constipation, dyspepsia, gastritis, abdominal pain, flatulence, eructation, gastroesophageal reflux disease, abdominal distension and decreased appetite have been reported in patients treated with XULTOPHY 100/3.6.
+In a XULTOPHY 100/3.6 clinical trial severe gastrointestinal adverse reactions were reported among patients receiving XULTOPHY 100/3.6 (0.8 %) and patients receiving the active comparators liraglutide (2.9%) and insulin degludec (0.2%) [see Clinical Studies (14.2)].
 Gastrointestinal adverse reactions may occur more frequently at the beginning of XULTOPHY 100/3.6 therapy and diminish within a few days or weeks on continued treatment.
 
-Papillary thyroid carcinoma
-
-Liraglutide
+Papillary thyroid carcinoma Liraglutide
 
 In glycemic control trials of liraglutide, there were 7 reported cases of papillary thyroid carcinoma in patients treated with liraglutide and 1 case in a comparator-treated patient (1.5 vs. 0.5 cases per 1000 patient years).
 Most of these papillary thyroid carcinomas were <1 cm in greatest diameter and were diagnosed in surgical pathology specimens after thyroidectomy prompted by findings on protocol-specified screening with serum calcitonin or thyroid ultrasound.
+
+Pancreatitis
+
+Liraglutide
+
+In glycemic control trials of liraglutide, there have been 13 cases of pancreatitis among liraglutide-treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1000 patient-years).
+Nine of the 13 cases with liraglutide were reported as acute pancreatitis and four were reported as chronic pancreatitis.
+In one case in a liraglutide-treated patient, pancreatitis, with necrosis, was observed and led to death; however clinical causality could not be established.
+Some patients had other risk factors for pancreatitis, such as a history of cholelithiasis or alcohol abuse.
 
 Cholelithiasis and cholecystitis
 
@@ -110,11 +121,7 @@ Hypersensitivity Reactions
 Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock have occurred with insulin, including XULTOPHY 100/3.6 and may be life threatening [see Warnings and Precautions (5.8)].
 Hypersensitivity (manifested with swelling of tongue and lips, diarrhea, nausea, tiredness, and itching) and urticaria were reported.
 
-Laboratory tests
-
-Bilirubin
-
-Liraglutide
+Laboratory tests Bilirubin Liraglutide
 
 In the five glycemic control trials of at least 26 weeks duration, mildly elevated serum bilirubin concentrations (elevations to no more than twice the upper limit of the reference range) occurred in 4.0% of liraglutide-treated patients, 2.1% of placebo-treated patients and 3.5% of active-comparator-treated patients.
 This finding was not accompanied by abnormalities in other liver tests.
@@ -165,13 +172,11 @@ insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia h
 
 Liraglutide
 
-- •Gastrointestinal: Acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death, ileus
-- •General Disorders and Administration Site Conditions: Allergic reactions: rash and pruritus
+- •Gastrointestinal: Acute pancreatitis; hemorrhagic and necrotizing pancreatitis sometimes resulting in death; ileus, and nausea, vomiting and diarrhea leading to dehydration
 - •Hepatobiliary: Elevations of liver enzymes, hyperbilirubinemia, cholestasis, cholecystitis, cholelithiasis requiring cholecystectomy, hepatitis
-- •Immune system: Angioedema and anaphylactic reactions
-- •Metabolism and nutrition: Dehydration resulting from nausea, vomiting and diarrhea
+- •Hypersensitivity: Angioedema, anaphylactic reactions, rash, pruritus
 - •Neoplasms: Medullary thyroid carcinoma
-- •Nervous system: Dysgeusia, dizziness
+- •Neurologic: Dysgeusia, dysesthesia, dizziness
 - •Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.
-- •Renal and urinary: Increased serum creatinine, acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis.
-- •Skin and subcutaneous tissue: Cutaneous amyloidosis
+- •Renal: Acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis; and increased serum creatinine
+- •Skin and subcutaneous tissue: Cutaneous amyloidosis, alopecia

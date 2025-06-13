@@ -11,4 +11,5 @@ Hypokalemia must be corrected appropriately.
 
 Overdoses have been reported in clinical trials and postmarketing use of liraglutide, one of the components of XULTOPHY 100/3.6.
 Effects have included severe nausea and severe vomiting.
-In the event of overdosage, appropriate supportive treatment should be initiated according to the patient’s clinical signs and symptoms.
+In the event of overdosage, consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdosage management recommendations.
+Initiate appropriate supportive treatment according to the patient’s clinical signs and symptoms.

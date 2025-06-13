@@ -90,7 +90,7 @@ XULTOPHY 100/3.6 has not been studied in patients with severe renal impairment [
 
 Insulin degludec
 
-Insulin degludec has been studied in a pharmacokinetic study in 32 subjects (n=6/group) with normal or impaired renal function/end-stage renal disease following administration of a single dose (0.4 U/kg) of insulin degludec.
+Insulin degludec has been studied in a pharmacokinetic study in 32 subjects (n=6/group) with normal or impaired renal function/end-stage renal disease following administration of a single dose (0.4U/kg) of insulin degludec.
 Renal function was defined using creatinine clearance (Clcr) as follows: >80 mL/min (normal), 50-80 mL/min (mild), 30-50 mL/min (moderate) and <30 mL/min (severe).
 Subjects requiring dialysis were classified as having end-stage renal disease (ESRD).
 Total exposure (AUCIDeg,0-120h,SD) of insulin degludec was similar in subjects with normal and impaired renal function.
@@ -204,5 +204,5 @@ Of the 11 liraglutide-treated patients who developed anti-liraglutide antibodies
 
 TRESIBA (insulin degludec)
 
-In a 52-week study of adult insulin-naïve type 2 diabetes mellitus patients, of the patients who received insulin degludec, 13/760 (2%) patients were positive at baseline for anti-insulin degludec antibodies and 46/744 (6%) patients developed anti-insulin degludec antibodies at least once during the study.
+In a 52-week study of adult insulin-naïve type 2 diabetes mellitus patients of the patients who received insulin degludec, 13/760 (2%) patients were positive at baseline for anti-insulin degludec antibodies and 46/744 (6%) patients developed anti-insulin degludec antibodies at least once during the study.
 The 58/60 (97%) patients who were positive for anti-insulin degludec antibodies were also positive for anti-human insulin antibodies.

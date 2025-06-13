@@ -9,7 +9,8 @@ Insulin degludec differs from human insulin in that the amino acid threonine in 
 Insulin degludec has a molecular formula of C274H411N65O81S6 and a molecular weight of 6.104 kDa.
 It has the following structure:
 
-Figure 1: Structural Formula of Insulin degludec
+Figure 1.
+Structural Formula of Insulin degludec
 
 Liraglutide
 
@@ -19,7 +20,8 @@ Liraglutide is made by attaching a C16 fatty acid (palmitic acid) with a glutami
 The molecular formula of liraglutide is C172H265N43O51 and the molecular weight is 3.751 kDa.
 It has the following structure:
 
-Figure 2: Structural Formula of Liraglutide
+Figure 2.
+Structural Formula of Liraglutide
 
 XULTOPHY 100/3.6 (insulin degludec and liraglutide) injection, for subcutaneous use, is a combination of a long-acting basal human insulin analog, insulin degludec, and a GLP-1 receptor agonist, liraglutide.
 

@@ -28,7 +28,8 @@ Patients continued on pre-trial treatment with metformin or metformin and piogli
 At the end of 26 weeks, treatment with XULTOPHY 100/3.6, insulin degludec, and liraglutide resulted in a reduction in HbA1c from baseline of 1.81%, 1.35% and 1.21%, respectively, (see Table 5).
 The end of trial dose of XULTOPHY 100/3.6 was 38 units (38 units insulin degludec/1.37 mg liraglutide).
 
-Table 5: Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Metformin Alone or in Combination with Pioglitazone
+Table 5.
+Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Metformin Alone or in Combination with Pioglitazone
 
 |  | XULTOPHY 100/3.6 + metformin ± pioglitazone | Insulin degludec + metformin ± pioglitazone | Liraglutide + metformin ± pioglitazone |
 | --- | --- | --- | --- |
@@ -37,20 +38,20 @@ Table 5: Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 
 | Baseline | 8.3 | 8.3 | 8.3 |
 | End of Trial (LS Mean)# | 6.5 | 6.9 | 7.1 |
 | Change from baseline (LS Mean)# | -1.81 | -1.35 | -1.21 |
-| Estimated treatment difference [95% CI]# | -- | -0.46% [-0.59; -0.34]A | -0.60% [-0.72; -0.47]A |
+| Estimated treatment difference [95% CI]# | -- | -0.46% [-0.59; -0.34] A | -0.60% [-0.72; -0.47]A |
 | Percentage of patients achieving HbA1c <7%## | 74.1% | 60.5% | 56.0% |
 | Fasting Plasma Glucose (FPG) (mg/dL) |  |  |  |
 | Baseline | 166 | 169 | 163 |
 | End of Trial (LS Mean)# | 104 | 107 | 133 |
 | Change from baseline (LS Mean)# | -61.8 | -59.2 | -32.4 |
 
-Ap<0.01.
+A p<0.01.
 Primary endpoint was tested for non-inferiority of XULTOPHY 100/3.6 to insulin degludec based on pre-specified non-inferiority margin of 0.3% and for superiority of XULTOPHY 100/3.6 to liraglutide.
 
-#Estimated using an ANCOVA with treatment, baseline HbA1c stratum, sub-study, concomitant diabetes treatment and country as factors and baseline response as covariate.
+# Estimated using an ANCOVA with treatment, baseline HbA1c stratum, sub-study, concomitant diabetes treatment and country as factors and baseline response as covariate.
 Multiple imputation modelled “return to baseline” of the treatment effect for subjects having missing week 26 data.
 
-##Patients with missing HbA1c value at week 26 data were considered non-responders.
+## Patients with missing HbA1c value at week 26 data were considered non-responders.
 
 There were 11.8% of subjects in the XULTOPHY 100/3.6 arm, 12.3% in the insulin degludec arm and 15.5% in the liraglutide arm for whom HbA1c data was missing at week 26.
 
@@ -67,7 +68,8 @@ Patients continued on pre-trial treatment with sulfonylurea, with or without met
 Treatment with XULTOPHY 100/3.6 for 26 weeks resulted in a statistically significant reduction in mean HbA1c compared to placebo (see Table 6).
 The end of trial dose of XULTOPHY 100/3.6 was 28 units (28 units insulin degludec/1.01 mg liraglutide).
 
-Table 6: Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Sulfonylurea Alone or in Combination with Metformin
+Table 6.
+Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Sulfonylurea Alone or in Combination with Metformin
 
 |  | XULTOPHY 100/3.6 + sulfonylurea### ± metformin | Placebo + sulfonylurea### ± metformin |
 | --- | --- | --- |
@@ -83,20 +85,20 @@ Table 6: Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 
 | End of Trial (LS Mean)# | 118 | 152 |
 | Change from baseline (LS Mean)# | -46.2 | -12.1 |
 
-Ap<0.01.
+A p<0.01.
 Primary endpoint was tested for superiority of XULTOPHY 100/3.6 to placebo.
 
-#Estimated using an ANCOVA with treatment, region and pre-trial medication as fixed factors and baseline response as covariate.
+# Estimated using an ANCOVA with treatment, region and pre-trial medication as fixed factors and baseline response as covariate.
 Multiple imputation modelled “jump-to-control” of the treatment effect for subjects having missing week 26 data.
 
-##Patients with missing HbA1c value at week 26 data were considered non-responders.
+## Patients with missing HbA1c value at week 26 data were considered non-responders.
 
 There were 12.8% of subjects in the XULTOPHY 100/3.6 arm and 24.7% in the placebo arm for whom HbA1c data was missing at week 26.
 
-###Dose of sulfonylurea was ≥ half of the maximum approved dose.
+### Dose of sulfonylurea was ≥ half of the maximum approved dose.
 
-NCT02773368: The efficacy and safety of XULTOPHY 100/3.6 compared to insulin glargine U-100, both administered once-daily, were studied in a 26-week randomized, open-label, two-arm parallel trial in 420 patients with type 2 diabetes mellitus inadequately controlled on a SGLT2i alone or in combination with other OADs (with or without metformin, pioglitazone, and/or dipeptidyl peptidase-4 [DPP4] inhibitor).
-At randomization, the DPP4 inhibitor was discontinued.
+NCT02773368: The efficacy and safety of XULTOPHY 100/3.6 compared to insulin glargine U-100, both administered once-daily, were studied in a 26-week randomized, open-label, two-arm parallel trial in 420 patients with type 2 diabetes mellitus inadequately controlled on a SGLT2i alone or in combination with other OADs [with or without metformin, pioglitazone, and/or dipeptidyl peptidase-4 (DPP-4) inhibitor].
+At randomization, the DPP-4 inhibitor was discontinued.
 
 The mean age of the trial population was 57 years and mean duration of diabetes was 10 years.
 59% were male.
@@ -114,7 +116,8 @@ At the end of 26 weeks, XULTOPHY 100/3.6 resulted in a reduction in HbA1c from b
 At the end of trial, the average dose of XULTOPHY 100/3.6 was 36 units (36 units insulin degludec/1.3 mg liraglutide) and the dose of insulin glargine was 54 units; it is unclear that these observed differences in insulin doses are clinically important.
 The difference in HbA1c effect observed at 26 weeks may not necessarily reflect the effect in the care setting where insulin glargine may be more rapidly titrated.
 
-Table 7: Results of a 26-Week Trial in Patients with Type 2 Diabetes Mellitus Inadequately
+Table 7.
+Results of a 26-Week Trial in Patients with Type 2 Diabetes Mellitus Inadequately
 
 Controlled on SGLT2i Alone or in Combination with Metformin, Pioglitazone and/or DPP4 Inhibitor
 
@@ -132,16 +135,16 @@ Controlled on SGLT2i Alone or in Combination with Metformin, Pioglitazone and/or
 | End of Trial (LS Mean)### | 108 | 112 |
 | Change from baseline (LS Mean)### | -63.8 | -59.9 |
 
-APrimary endpoint was tested for non-inferiority of XULTOPHY 100/3.6 to insulin glargine U-100 on a non-inferiority margin of 0.3%.
+A Primary endpoint was tested for non-inferiority of XULTOPHY 100/3.6 to insulin glargine U-100 on a non-inferiority margin of 0.3 %.
 
-#Estimated using an ANCOVA with treatment, pre-trial OAD group and region as factors and corresponding baseline value as covariate.
+# Estimated using an ANCOVA with treatment, pre-trial OAD group and region as factors and corresponding baseline value as covariate.
 For HbA1c (%), missing week 26 measurements from subjects who discontinued early were multiply-imputed using information from subjects who also discontinued early but still had a week 26 measurement (retrieved dropouts).
 
-##Patients with missing HbA1c value at week 26 data were considered non-responders.
+## Patients with missing HbA1c value at week 26 data were considered non-responders.
 
 There were 6.2% of subjects in the XULTOPHY 100/3.6 arm and 2.4% in the insulin glargine U-100 arm for whom HbA1c data was missing at week 26.
 
-###Missing week 26 FPG measurements from subjects who discontinued early were imputed using multiple imputation with a mean for each subject equal to their respective baseline value.
+### Missing week 26 FPG measurements from subjects who discontinued early were imputed using multiple imputation with a mean for each subject equal to their respective baseline value.
 
 ## 14.3 Patients currently on basal insulin or GLP-1 receptor agonist
 
@@ -163,7 +166,8 @@ The primary endpoint, change in HbA1c, was tested for superiority of XULTOPHY 10
 
 At the end of 26 weeks, there was a reduction in HbA1c from baseline of 1.31% for XULTOPHY 100/3.6 and 0.36% for liraglutide (see Table 8).
 
-Table 8: Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Liraglutide up to 1.8 mg Daily
+Table 8.
+Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Liraglutide up to 1.8 mg Daily
 
 |  | XULTOPHY 100/3.6 + metformin±pioglitazone±SU | liraglutide 1.8 mg+ metformin±pioglitazone±SU |
 | --- | --- | --- |
@@ -172,20 +176,21 @@ Table 8: Results of a 26-Week Trial with XULTOPHY 100/3.6 in Patients with Type 
 | Baseline | 7.8 | 7.8 |
 | End of Trial (LS Mean)# | 6.4 | 7.4 |
 | Change from baseline (LS Mean)# | -1.31 | -0.36 |
-| Estimated treatment difference [95% CI] | -0.95 [-1.15; -0.75]A |  |
+| Estimated treatment difference [95% CI] | -0.95 [-1.15; -0.75] A |  |
 | Percentage of patients achieving HbA1c <7%## | 74.6% | 30.2% |
 | FPG (mg/dL) |  |  |
 | Baseline | 161 | 169 |
 | End of Trial (LS Mean)# | 112 | 153 |
 | Change from baseline (LS Mean)# | -51.1 | -10.9 |
 
-1. ATest for superiority evaluated at 5.0% level for significance, (p<0.0001)
-2. #Estimated using an ANCOVA with treatment, pre-trial liraglutide and region as fixed factors and baseline response as covariate.
+1. A Test for superiority evaluated at 5.0% level for significance, (p<0.0001)
+2. # Estimated using an ANCOVA with treatment, pre-trial liraglutide and region as fixed factors and baseline response as covariate.
    Multiple imputation modelled “return to baseline” of the treatment effect for subjects having missing week 26 data.
-3. ##Patients with missing HbA1c data at week 26 were considered as non-responders.
+3. ## Patients with missing HbA1c data at week 26 were considered as non-responders.
 4. There were 5.2% of subjects in the XULTOPHY 100/3.6 arm and 19.0% in the liraglutide arm for whom HbA1c data was missing at week 26.
 
-Figure 3: Mean HbA1c (%) By Treatment Week in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Liraglutide
+Figure 3.
+Mean HbA1c (%) By Treatment Week in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Liraglutide
 
 IDegLira=XULTOPHY 100/3.6
 
@@ -213,7 +218,8 @@ At the end of the trial, the doses of insulin degludec were equivalent between t
 The mean final dose of XULTOPHY 100/3.6 and insulin degludec was 46 units (for XULTOPHY 100/3.6: 46 units insulin degludec/1.66 mg liraglutide).
 The difference in glucose lowering effect observed in the trial may not necessarily reflect the effect that will be observed in the care setting where insulin degludec dosage can be different than that used in the trial.
 
-Table 9: Results of a 26-Week Trial in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Basal Insulin
+Table 9.
+Results of a 26-Week Trial in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Basal Insulin
 
 |  | XULTOPHY 100/3.6 + metformin | Insulin degludec* + metformin |
 | --- | --- | --- |
@@ -235,9 +241,9 @@ At the end of the trial, the doses of insulin degludec were equivalent between t
 The mean final dose of XULTOPHY 100/3.6 and insulin degludec was 46 units (for XULTOPHY 100/3.6: 46 units insulin degludec/1.66 mg liraglutide).
 The difference in glucose lowering effect observed in the trial may not necessarily reflect the effect that will be observed in the care setting where alternative insulin degludec dosage can be used.
 
-*Maximum dose 50 units
+* Maximum dose 50 units
 
-1. #Estimated using an ANCOVA with treatment, country, and previous antidiabetic treatment as fixed factors and baseline response as covariate.
+1. # Estimated using an ANCOVA with treatment, country, and previous antidiabetic treatment as fixed factors and baseline response as covariate.
    Multiple imputation modelled “jump to control” of the treatment effect for subjects having missing week 26 data.
 2. ##Patients with missing HbA1c data at week 26 were considered non-responders.
 3. There were 11.1% of subjects in the XULTOPHY 100/3.6 arm and 13.1% in the insulin degludec arm for whom HbA1c data was
@@ -262,7 +268,8 @@ At the end of 26 weeks, treatment with XULTOPHY 100/3.6 resulted in a reduction 
 At the end of the trial, the average dose of XULTOPHY 100/3.6 was 41 units (41 units insulin degludec/1.48 mg liraglutide) and the dose of glargine was 66 units, it is unclear that these observed differences in insulin doses are clinically important.
 The difference in HbA1c effect observed at 26 weeks may not necessarily reflect the effect in the care setting where insulin glargine may be more rapidly titrated.
 
-Table 10: Results of a 26-Week Trial in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Insulin Glargine U-100
+Table 10.
+Results of a 26-Week Trial in Patients with Type 2 Diabetes Mellitus Inadequately Controlled on Insulin Glargine U-100
 
 |  | XULTOPHY 100/3.6 + metformin | Insulin glargine U-100 + metformin |
 | --- | --- | --- |
@@ -278,12 +285,12 @@ Table 10: Results of a 26-Week Trial in Patients with Type 2 Diabetes Mellitus I
 | End of Trial (LS Mean)# | 110 | 110 |
 | Change from baseline (LS Mean)# | -49.9 | -49.6 |
 
-1. Ap<0.01.
+1. A p<0.01.
    Primary endpoint was tested for noninferiority of XULTOPHY 100/3.6 to insulin glargine U-100.
    The difference in glucose lowering effect observed in the trial may not necessarily reflect the effect that will be observed in the care setting where alternative insulin glargine dosage can be used.
-2. #Estimated using an ANCOVA with treatment and region as fixed factors and baseline response as covariate.
+2. # Estimated using an ANCOVA with treatment and region as fixed factors and baseline response as covariate.
    Multiple imputation modelled “return to baseline” of the treatment effect for subjects having missing week 26 data.
-3. ##Patients with missing HbA1c value at week 26 data were considered non-responder.
+3. ## Patients with missing HbA1c value at week 26 data were considered non-responder.
 4. There were 10.1% of subjects in the XULTOPHY 100/3.6 arm and 4.7% in the insulin glargine U-100 arm for whom HbA1c data was missing at week 26.
 
 ## 14.4 Cardiovascular Outcomes Trials in Patients with Type 2 Diabetes Mellitus and Atherosclerotic Cardiovascular Disease Conducted with Liraglutide 1.8 mg and Insulin Degludec

@@ -110,7 +110,6 @@ In the liraglutide treatment arm of a cardiovascular outcomes trial (LEADER tria
 No overall differences in safety or efficacy were seen in these patients compared to patients with normal kidney function.
 
 There is limited experience with liraglutide in patients with end stage kidney disease.
-There have been postmarketing reports of acute kidney failure and worsening of chronic kidney failure, which may sometimes require hemodialysis [see Warnings and Precautions (5.7) and Adverse Reactions (6.3)].
 
 ## 8.7 Hepatic Impairment
 
@@ -125,8 +124,3 @@ No clinically relevant difference in the pharmacokinetics of insulin degludec, o
 Liraglutide
 
 There is limited experience in patients with mild, moderate or severe hepatic impairment with liraglutide, one of the components of XULTOPHY 100/3.6 [see Clinical Pharmacology (12.3)].
-
-## 8.8 Gastroparesis
-
-Liraglutide, one of the components of XULTOPHY 100/3.6, slows gastric emptying.
-XULTOPHY 100/3.6 has not been studied in patients with pre-existing gastroparesis.

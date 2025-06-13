@@ -1,15 +1,15 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
 XULTOPHY 100/3.6 (insulin degludec and liraglutide) injection is an injection supplied as a clear, colorless solution in a 3 mL pre-filled, disposable, single-patient use pen injector.
 The XULTOPHY 100/3.6 pen dials in one unit increments.
 
 | Dosage Unit/Strength | Package size | NDC # |
 | --- | --- | --- |
-| 3 mL single-patient-use XULTOPHY 100/3.6 pen(100 units/mL insulin degludec and 3.6 mg/mL liraglutide) | Package of 5 | 0169-2911-15 |
+| 3 mL single-patient-use XULTOPHY 100/3.6 pen (100 units/mL insulin degludec and 3.6 mg/mL liraglutide) | Package of 5 | 0169-2911-15 |
 
-## 16.2 Recommended Storage
+Recommended Storage
 
 Dispense in the original sealed carton with the enclosed Instructions for Use.
 
@@ -28,7 +28,8 @@ Always use a new needle for each injection to prevent contamination.
 
 The storage conditions are summarized in Table 11:
 
-Table 11: Storage Conditions for XULTOPHY 100/3.6 Pen
+Table 11.
+Storage Conditions for XULTOPHY 100/3.6 Pen
 
 | Prior to first use | After first use |  |
 | --- | --- | --- |

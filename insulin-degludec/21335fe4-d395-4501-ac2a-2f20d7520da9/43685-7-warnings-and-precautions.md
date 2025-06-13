@@ -17,20 +17,12 @@ Significantly elevated serum calcitonin may indicate MTC and patients with MTC u
 If serum calcitonin is measured and found to be elevated, the patient should be further evaluated.
 Patients with thyroid nodules noted on physical examination or neck imaging should also be further evaluated.
 
-## 5.2 Pancreatitis
+## 5.2 Acute Pancreatitis
 
-Based on spontaneous postmarketing reports, acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with liraglutide, one of the components of XULTOPHY 100/3.6.
-In glycemic control trials of liraglutide, there have been 13 cases of pancreatitis among liraglutide-treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1000 patient-years).
-Nine of the 13 cases with liraglutide were reported as acute pancreatitis and four were reported as chronic pancreatitis.
-In one case in a liraglutide-treated patient, pancreatitis, with necrosis, was observed and led to death; however clinical causality could not be established.
-Some patients had other risk factors for pancreatitis, such as a history of cholelithiasis or alcohol abuse.
+Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, including liraglutide, one of the components of XULTOPHY 100/3.6 [see Adverse Reactions (6)].
 
 After initiation of XULTOPHY 100/3.6, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
-If pancreatitis is suspected, XULTOPHY 100/3.6 should promptly be discontinued and appropriate management should be initiated.
-If pancreatitis is confirmed, restarting XULTOPHY 100/3.6 is not recommended.
-
-Liraglutide, one of the components of XULTOPHY 100/3.6, has been studied in a limited number of patients with a history of pancreatitis.
-It is unknown if patients with a history of pancreatitis are at higher risk for development of pancreatitis on liraglutide.
+If pancreatitis is suspected, discontinue XULTOPHY 100/3.6 and initiate appropriate management.
 
 ## 5.3 Never Share a XULTOPHY 100/3.6 Pen Between Patients
 
@@ -82,16 +74,19 @@ Patients and caregivers must be educated to recognize and manage hypoglycemia.
 Self-monitoring of blood glucose plays an essential role in the prevention and management of hypoglycemia.
 In patients at higher risk for hypoglycemia and patients who have reduced symptomatic awareness of hypoglycemia, increased frequency of blood glucose monitoring is recommended.
 
-## 5.7 Acute Kidney Injury
+## 5.7 Acute Kidney Injury Due to Volume Depletion
 
-There have been postmarketing reports of acute kidney injury and worsening of chronic kidney failure, which may sometimes require hemodialysis in patients treated with liraglutide, one of the components of XULTOPHY 100/3.6 [see Adverse Reactions (6.2)].
-Some of these events were reported in patients without known underlying kidney disease.
-A majority of the reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration.
-Some of the reported events occurred in patients receiving one or more medications known to affect renal function or hydration status.
-Altered kidney function has been reversed in many of the reported cases with supportive treatment and discontinuation of potentially causative agents, including liraglutide.
-Advise patients of the potential risk of dehydration due to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
+There have been postmarketing reports of acute kidney injury, in some cases requiring hemodialysis, in patients treated with liraglutide, one of the components of XULTOPHY 100/3.6 [see Adverse Reactions (6.2)].
+The majority of the reported events occurred in patients who experienced gastrointestinal reactions leading to dehydration such as nausea, vomiting, or diarrhea [see Adverse Reactions (6.1)].
+Monitor renal function in patients reporting adverse reactions to XULTOPHY 100/3.6 that could lead to volume depletion, especially during dosage initiation and escalation of XULTOPHY 100/3.6.
 
-## 5.8 Hypersensitivity Reactions
+## 5.8 Severe Gastrointestinal Adverse Reactions
+
+Use of GLP-1 receptor agonists, including liraglutide, one of the components of XULTOPHY 100/3.6, has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
+In a XULTOPHY 100/3.6 clinical trial severe gastrointestinal adverse reactions were reported among patients receiving XULTOPHY 100/3.6 (0.8 %) and patients receiving the active comparators liraglutide (2.9%) and insulin degludec (0.2%) [see Clinical Studies (14.2)].
+XULTOPHY 100/3.6 is not recommended in patients with severe gastroparesis.
+
+## 5.9 Hypersensitivity Reactions
 
 Severe, life-threatening, generalized allergy, including anaphylaxis, angioedema, bronchospasm, hypotension, and shock can occur with insulins, including XULTOPHY 100/3.6.
 Allergic reactions (manifested with signs and symptoms such as urticaria, rash, pruritus) have been reported with XULTOPHY 100/3.6.
@@ -102,28 +97,28 @@ Anaphylaxis and angioedema have been reported with other GLP-1 receptor agonists
 Use caution in a patient with a history of anaphylaxis or angioedema with another GLP-1 receptor agonist because it is unknown whether such patients will be predisposed to these reactions with XULTOPHY 100/3.6.
 XULTOPHY 100/3.6 is contraindicated in patients who have had hypersensitivity reactions to insulin degludec, liraglutide or one of the excipients of these products [see Contraindications (4)].
 
-## 5.9 Acute Gallbladder Disease
+## 5.10 Acute Gallbladder Disease
 
 Acute events of gallbladder disease such as cholelithiasis or cholecystitis have been reported in GLP-1 receptor agonist trials and postmarketing.
 In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], 3.1% of patients treated with liraglutide, one of the components of XULTOPHY 100/3.6, versus 1.9% of placebo treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis [see Adverse Reactions (6.1)].
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
 
-## 5.10 Hypokalemia
+## 5.11 Hypokalemia
 
 All insulin-containing products, including XULTOPHY 100/3.6, cause a shift in potassium from the extracellular to intracellular space, possibly leading to hypokalemia.
 Untreated hypokalemia may cause respiratory paralysis, ventricular arrhythmia, and death.
 Monitor potassium levels in patients at risk for hypokalemia if indicated (e.g., patients using potassium-lowering medications, patients taking medications sensitive to serum potassium concentrations).
 
-## 5.11 Fluid Retention and Congestive Heart Failure with Concomitant Use of a PPAR Gamma Agonist
+## 5.12 Fluid Retention and Congestive Heart Failure with Concomitant Use of a PPAR Gamma Agonist
 
 Thiazolidinediones (TZDs), which are peroxisome proliferator-activated receptor (PPAR)-gamma agonists can cause dose related fluid retention, when used in combination with insulin containing products, including XULTOPHY 100/3.6.
 Fluid retention may lead to or exacerbate congestive heart failure.
 Patients treated with insulin containing products, including XULTOPHY 100/3.6 and a PPAR-gamma agonist should be observed for signs and symptoms of congestive heart failure.
 If congestive heart failure develops, it should be managed according to current standards of care and discontinuation or dose reduction of the PPAR-gamma agonist must be considered.
 
-## 5.12 Pulmonary Aspiration During General Anesthesia or Deep Sedation
+## 5.13 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
-XULTOPHY 100/3.6 delays gastric emptying [seeClinical Pharmacology (12.1)].
+XULTOPHY 100/3.6 delays gastric emptying [seeClinicalPharmacology (12.1)].
 There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
 
 Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking XULTOPHY 100/3.6, including whether modifying preoperative fasting recommendations or temporarily discontinuing XULTOPHY 100/3.6 could reduce the incidence of retained gastric contents.
