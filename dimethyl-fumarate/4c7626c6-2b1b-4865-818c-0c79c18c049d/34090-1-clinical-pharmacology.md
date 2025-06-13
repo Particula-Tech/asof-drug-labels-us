@@ -27,7 +27,7 @@ The peak plasma concentration (Cmax) and overall exposure (AUC) increased approx
 Following administration of dimethyl fumarate delayed-release capsules 240 mg twice a day with food, the mean Cmax of MMF was 1.87 mg/L and AUC was 8.21 mg.hr/L in MS patients.
 
 A high-fat, high-calorie meal did not affect the AUC of MMF but decreased its Cmax by 40%.
-The Tmax was delayed from 2.0 hours to 5.5 hours.
+The Tmax was delayed from 2 hours to 5.5 hours.
 In this study, the incidence of flushing was reduced by approximately 25% in the fed state.
 
 Distribution

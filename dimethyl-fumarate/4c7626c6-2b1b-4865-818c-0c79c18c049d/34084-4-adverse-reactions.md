@@ -27,7 +27,7 @@ The most common adverse reactions (incidence ≥ 10% and ≥ 2% more than placeb
 
 Table 1: Adverse Reactions in Study 1 and 2 reported for Dimethyl Fumarate Delayed-Release Capsules 240 mg BID at ≥ 2% higher incidence than placebo
 
-|  | Dimethyl Fumarate Delayed-Release Capsules N=769 % | Placebo N=771 % |
+|  | Dimethyl Fumarate Delayed-Release Capsules N = 769 % | Placebo N = 771 % |
 | --- | --- | --- |
 | Flushing | 40 | 6 |
 | Abdominal pain | 18 | 10 |
