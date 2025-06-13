@@ -48,6 +48,6 @@ Helv. ………………………………………………………………�
 
 nitrogen………………………………………………………………………………………………………….qs
 
-which must be diluted further with 0.9% Sodium Chloride Injection or 5% Dextrose Injection before use.
+which must be diluted further with 0.9% Sodium Chloride Injection or 5% Dextrose Injection using appropriate aseptic technique before use.
 
 The chemical structure of cyclosporine (also known as cyclosporin A) is

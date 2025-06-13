@@ -188,7 +188,7 @@ Psoriasis patients receiving other immunosuppressive agents or radiation therapy
 Interactions Resulting in Decrease of Other Drug Levels
 
 Cyclosporine inhibits the enterohepatic circulation of mycophenolic acid (MPA).
-Concomitant administration of cyclosporine and mycophenolate mofetil or mycophenolate sodium in transplant patients may decrease the mean exposure of MPA by 20% - 50% when compared with other immunosuppressants, which could reduce efficacy of mycophenolate mofetil or mycophenolate sodium.
+Concomitant administration of cyclosporine and mycophenolate mofetil or mycophenolate sodium in transplant patients may decrease the mean exposure of MPA by 20% to 50% when compared with other immunosuppressants, which could reduce efficacy of mycophenolate mofetil or mycophenolate sodium.
 Monitor patients for alterations in efficacy of mycophenolate mofetil or mycophenolate sodium, when they are coadministered with cyclosporine.
 
 C. Effect of Cyclosporine on the Efficacy of Live Vaccines

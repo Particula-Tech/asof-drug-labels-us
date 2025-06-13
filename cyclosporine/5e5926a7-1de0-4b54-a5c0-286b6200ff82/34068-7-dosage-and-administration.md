@@ -65,9 +65,11 @@ In pediatric usage, the same dose and dosing regimen may be used, although highe
 
 Adjunct steroid therapy is to be used (See aforementioned).
 
-Immediately before use, the intravenous concentrate should be diluted 1 mL Sandimmune Injection (cyclosporine injection, USP) in 20 mL to 100 mL 0.9% Sodium Chloride Injection or 5% Dextrose Injection and given in a slow intravenous infusion over approximately 2 to 6 hours.
+Immediately before use, the intravenous concentrate should be diluted 1 mL Sandimmune Injection (cyclosporine injection, USP) in 20 mL to 100 mL 0.9% Sodium Chloride Injection or 5% Dextrose Injection using appropriate aseptic technique and given in a slow intravenous infusion over 2 to 6 hours.
 
-Diluted infusion solutions should be discarded after 24 hours.
+Based on the chemical and physical in-use stability data, the infusion should be completed within 6 hours at room temperature.
+Discard any unused diluted solution.
+If not administered immediately, the diluted solution can be stored at 2°C to 8°C (under refrigeration), provided that the total duration for both storage and infusion is less than 24 hours.
 
 The Cremophor® EL (polyoxyethylated castor oil) contained in the concentrate for intravenous infusion can cause phthalate stripping from PVC.
 
