@@ -36,7 +36,7 @@ Visually inspect parenteral drug products for particulate matter and discolorati
 
 ## 2.4 Method of Preparation
 
-Dilution of Single and Multiple Dose Vials
+Dilution of Single- and Multiple-Dose Vials
 
 Sulfamethoxazole and Trimethoprim Injection must be diluted.
 Each 5 mL should be added to 125 mL of 5% dextrose in water.
@@ -50,7 +50,7 @@ If upon visual inspection there is cloudiness or evidence of crystallization aft
 
 Do NOT mix Sulfamethoxazole and Trimethoprim Injection in 5% dextrose in water with drugs or solutions in the same container.
 
-Multiple dose Vials (Handling)
+Multiple-dose Vials (Handling)
 
 After initial entry into the vial, the remaining contents must be used within 48 hours.
 

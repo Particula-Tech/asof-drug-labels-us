@@ -31,4 +31,4 @@ Ltd. Kfar Saba, 4410202, Israel
 Novaplus is a registered trademark of Vizient, Inc.
 
 Rev.
-B 9/2022
+C 4/2025

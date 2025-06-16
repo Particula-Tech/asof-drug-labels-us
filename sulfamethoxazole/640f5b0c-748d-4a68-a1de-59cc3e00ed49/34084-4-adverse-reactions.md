@@ -4,14 +4,14 @@ The following serious adverse reactions are described elsewhere in the labeling:
 
 - Embryo-fetal Toxicity [see Warnings and Precautions (5.1)]
 - Hypersensitivity and Other Fatal Reactions [see Warnings and Precautions (5.2)]
-- Thrombocytopenia [see Warnings and Precautions (5.3)]
-- Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.5)]
-- Sulfite Sensitivity [see Warnings and Precautions (5.6)]
-- Risk Associated with Concurrent Use of Leucovorin for Pneumocystis jirovecii Pneumonia [see Warnings and Precautions (5.8)]
-- Propylene Glycol Toxicity [see Warnings and Precautions (5.9)]
-- Infusion Reactions [see Warnings and Precautions (5.12)]
-- Hypoglycemia [see Warnings and Precautions (5.13)]
-- Electrolyte Abnormalities [see Warnings and Precautions (5.17)]
+- Thrombocytopenia [see Warnings and Precautions (5.4)]
+- Clostridioides difficile-Associated Diarrhea [see Warnings and Precautions (5.6)]
+- Sulfite Sensitivity [see Warnings and Precautions (5.7)]
+- Risk Associated with Concurrent Use of Leucovorin for Pneumocystis jirovecii Pneumonia [see Warnings and Precautions (5.9)]
+- Propylene Glycol Toxicity [see Warnings and Precautions (5.10)]
+- Infusion Reactions [see Warnings and Precautions (5.13)]
+- Hypoglycemia [see Warnings and Precautions (5.14)]
+- Electrolyte Abnormalities [see Warnings and Precautions (5.18)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -29,10 +29,10 @@ Table 3: Adverse Reactions Reported with Sulfamethoxazole and Trimethoprim Injec
 | Body System | Adverse Reactions |
 | --- | --- |
 | Hematologic | Agranulocytosis, aplastic anemia, thrombocytopenia, leukopenia, neutropenia, hemolytic anemia, megaloblastic anemia, hypoprothrombinemia, methemoglobinemia, eosinophilia, thrombotic thrombocytopenic purpura, idiopathic thrombocytopenic purpura. |
-| Allergic Reactions | Stevens-Johnson syndrome, toxic epidermal necrolysis, anaphylaxis, allergic myocarditis, erythema multiforme, exfoliative dermatitis, angioedema, drug fever, chills, Henoch-Schoenlein purpura, serum sickness-like syndrome, generalized allergic reactions, generalized skin eruptions, photosensitivity, conjunctival and scleral injection, pruritus, urticaria, rash, periarteritis nodosa, systemic lupus erythematosus, drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized erythematous pustulosis (AGEP), and acute febrile neutrophilic dermatosis (AFND) [see Warnings and Precautions (5.2)]. |
+| Allergic/Immune Reactions | Stevens-Johnson syndrome, toxic epidermal necrolysis, anaphylaxis, allergic myocarditis, erythema multiforme, exfoliative dermatitis, angioedema, drug fever, chills, Henoch-Schoenlein purpura, serum sickness-like syndrome, generalized allergic reactions, generalized skin eruptions, photosensitivity, conjunctival and scleral injection, pruritus, urticaria, rash, periarteritis nodosa, hemophagocytic lymphohistiocytosis (HLH), systemic lupus erythematosus, drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized erythematous pustulosis (AGEP), and acute febrile neutrophilic dermatosis (AFND) [see Warnings and Precautions (5.2 and 5.3)]. |
 | Gastrointestinal | Hepatitis (including cholestatic jaundice and hepatic necrosis), elevation of serum transaminase and bilirubin, pseudomembranous enterocolitis, pancreatitis, stomatitis, glossitis, nausea, emesis, abdominal pain, diarrhea, anorexia. |
 | Genitourinary | Renal failure, interstitial nephritis, BUN and serum creatinine elevation, renal insufficiency, oliguria and anuria, crystalluria and nephrotoxicity in association with cyclosporine. |
-| Metabolic and Nutritional | Hyperkalemia, hyponatremia [see Warnings and Precautions (5.17)], metabolic acidosis. |
+| Metabolic and Nutritional | Hyperkalemia, hyponatremia [see Warnings and Precautions (5.18)], metabolic acidosis. |
 | Neurologic | Aseptic meningitis, convulsions, peripheral neuritis, ataxia, vertigo, tinnitus, headache. |
 | Psychiatric | Hallucinations, depression, apathy, nervousness. |
 | Endocrine | The sulfonamides bear certain chemical similarities to some goitrogens, diuretics (acetazolamide and the thiazides) and oral hypoglycemic agents. Cross-sensitivity may exist with these agents. Diuresis and hypoglycemia have occurred. |

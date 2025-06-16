@@ -62,14 +62,14 @@ Additional adverse reactions included gradual neurological deterioration, seizur
 Preterm, low-birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
 
 When prescribing Sulfamethoxazole and Trimethoprim Injection in pediatric patients consider the combined daily metabolic load of benzyl alcohol from all sources including Sulfamethoxazole and Trimethoprim Injection (Sulfamethoxazole and Trimethoprim Injection contains 10 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.
-The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Warnings and Precautions (5.7)].
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Warnings and Precautions (5.8)].
 
 ## 8.5 Geriatric Use
 
 Clinical studies of Sulfamethoxazole and Trimethoprim Injection did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 
 There may be an increased risk of severe adverse reactions in elderly patients, particularly when complicating conditions exist, e.g., impaired kidney and/or liver function, or concomitant use of other drugs.
-Severe skin reactions, generalized bone marrow suppression [see Warnings and Precautions (5.10), Adverse Reactions (6.1)], a specific decrease in platelets (with or without purpura), and hyperkalemia are the most frequently reported severe adverse reactions in elderly patients.
+Severe skin reactions, generalized bone marrow suppression [see Warnings and Precautions (5.11), Adverse Reactions (6.1)], a specific decrease in platelets (with or without purpura), and hyperkalemia are the most frequently reported severe adverse reactions in elderly patients.
 
 In those concurrently receiving certain diuretics, primarily thiazides, an increased incidence of thrombocytopenia with purpura has been reported.
 Increased digoxin blood levels can occur with concomitant Sulfamethoxazole and Trimethoprim Injection therapy, especially in elderly patients.
