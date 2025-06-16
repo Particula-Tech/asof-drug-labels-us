@@ -1835,6 +1835,12 @@ Table 97: Efficacy Results in KEYNOTE-868
 | Figure 37: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-868 (pMMR Population) |
 | --- |
 
+Lack of Effectiveness for Adjuvant Treatment of Patients with Endometrial Carcinoma
+
+The efficacy of KEYTRUDA in combination with carboplatin and paclitaxel, with or without radiation, was investigated in KEYNOTE‑B21 (NCT04634877), a randomized, multicenter, double-blind, placebo-controlled trial in 1,095 patients with newly-diagnosed, high‑risk endometrial cancer with no evidence of disease on imaging following curative intent surgery.
+High-risk disease was defined as any of the following (staging per FIGO 2009): Stage I/II with myometrial invasion and either non-endometrioid histology or aberrant p53 expression or p53 mutation, or Stage III/IVA.
+The trial did not meet the prespecified primary endpoint for investigator-assessed DFS, with a HR of 1.02 (95% CI: 0.79, 1.32).
+
 In Combination with Lenvatinib for the Treatment of Advanced Endometrial Carcinoma That Is pMMR or Not MSI-H
 
 The efficacy of KEYTRUDA in combination with lenvatinib was investigated in KEYNOTE-775 (NCT03517449), a multicenter, open-label, randomized, active-controlled trial that enrolled 827 patients with advanced endometrial carcinoma who had been previously treated with at least one prior platinum-based chemotherapy regimen in any setting, including in the neoadjuvant and adjuvant settings.
