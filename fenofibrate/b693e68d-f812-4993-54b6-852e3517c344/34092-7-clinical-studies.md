@@ -1,60 +1,74 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Primary Hypercholesterolemia (Heterozygous Familial and Nonfamilial) and Mixed Dyslipidemia
+## 14.1 Overview of Clinical Trials
 
-The effects of fenofibrate at a dose equivalent to 145 mg TRICOR (fenofibrate tablets) per day were assessed from four randomized, placebo-controlled, double-blind, parallel-group studies including patients with the following mean baseline lipid values: total-C 306.9 mg/dL; LDL-C 213.8 mg/dL; HDL-C 52.3 mg/dL; and triglycerides 191.0 mg/dL.
-TRICOR therapy lowered LDL-C, Total-C, and the LDL-C/HDL-C ratio.
-TRICOR therapy also lowered triglycerides and raised HDL-C (see Table 4).
+The effectiveness of TRICOR has been established in adults with hypertriglyceridemia or primary hyperlipidemia based on adequate and well-controlled trials of other formulations of fenofibrate, referenced below as “fenofibrate.”
+Dosages of fenofibrate used in these trials were comparable to TRICOR 145 mg per day [see Clinical Pharmacology (12.3)].
 
-Table 4.
+## 14.2 Clinical Trials in Adults with Hypertriglyceridemia
+
+The effects of fenofibrate on serum TG were studied in two randomized, double-blind, placebo-controlled clinical trials of 147 patients with hypertriglyceridemia.
+Patients were treated for 8 weeks under protocols that differed only in that one entered patients with baseline TG levels of 500 to 1,500 mg/dL, and the other TG levels of 350 to 499 mg/dL.
+In patients with hypertriglyceridemia and normal cholesterolemia with or without hyperchylomicronemia, treatment with fenofibrate decreased primarily very low density lipoprotein (VLDL) TG and VLDL cholesterol (VLDL-C).
+Treatment of patients with elevated TG often results in an increase of LDL-C (see Table 5).
+
+Table 5.
+Effects of TRICOR in Patients With Hypertriglyceridemia
+
+| Trial 1 | Placebo |  |  |  | TRICOR |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Baseline TG levels 350 to 499 mg/dL | N | Baseline Mean (mg/dL) | Endpoint Mean (mg/dL) | Mean % Change | N | Baseline Mean (mg/dL) | Endpoint Mean (mg/dL) | Mean % Change |
+| TG | 28 | 449 | 450 | -0.5 | 27 | 432 | 223 | -46.2* |
+| VLDL-TG | 19 | 367 | 350 | 2.7 | 19 | 350 | 178 | -44.1* |
+| Total-C | 28 | 255 | 261 | 2.8 | 27 | 252 | 227 | -9.1* |
+| HDL-C | 28 | 35 | 36 | 4 | 27 | 34 | 40 | 19.6* |
+| LDL-C | 28 | 120 | 129 | 12 | 27 | 128 | 137 | 14.5 |
+| VLDL-C | 27 | 99 | 99 | 5.8 | 27 | 92 | 46 | -44.7* |
+| Trial 2 | Placebo |  |  |  | TRICOR |  |  |  |
+| Baseline TG levels 500 to 1500 mg/dL | N | Baseline Mean (mg/dL) | Endpoint Mean (mg/dL) | Mean % Change | N | Baseline Mean (mg/dL) | Endpoint Mean (mg/dL) | Mean % Change |
+| TG | 44 | 710 | 750 | 7.2 | 48 | 726 | 308 | -54.5* |
+| VLDL-TG | 29 | 537 | 571 | 18.7 | 33 | 543 | 205 | -50.6* |
+| Total-C | 44 | 272 | 271 | 0.4 | 48 | 261 | 223 | -13.8* |
+| HDL-C | 44 | 27 | 28 | 5.0 | 48 | 30 | 36 | 22.9* |
+| LDL-C | 42 | 100 | 90 | -4.2 | 45 | 103 | 131 | 45.0* |
+| VLDL-C | 42 | 137 | 142 | 11.0 | 45 | 126 | 54 | -49.4* |
+| * =p < 0.05 vs. Placebo |  |  |  |  |  |  |  |  |
+
+## 14.3 Clinical Trials in Adults with Primary Hyperlipidemia
+
+The effects of fenofibrate were assessed in four randomized, placebo-controlled, double-blind, parallel-group trials in patients with hyperlipidemia and mixed dyslipidemia.
+TRICOR therapy reduced LDL-C, Total-C, and TG, and increased HDL-C (see Table 6).
+
+Table 6.
 Mean Percent Change in Lipid Parameters at End of Treatment†
 
 | Treatment Group | Total-C | LDL-C | HDL-C | TG |
 | --- | --- | --- | --- | --- |
-| Pooled Cohort |  |  |  |  |
 | Mean baseline lipid values (n=646) | 306.9 mg/dL | 213.8 mg/dL | 52.3 mg/dL | 191.0 mg/dL |
-| All FEN (n=361) | -18.7%* | -20.6%* | +11.0%* | -28.9%* |
+| All fenofibrate (n=361) | -18.7%* | -20.6%* | +11.0%* | -28.9%* |
 | Placebo (n=285) | -0.4% | -2.2% | +0.7% | +7.7% |
-| Baseline LDL-C > 160 mg/dL and TG < 150 mg/dL |  |  |  |  |
-| Mean baseline lipid values (n=334) | 307.7 mg/dL | 227.7 mg/dL | 58.1 mg/dL | 101.7 mg/dL |
-| All FEN (n=193) | -22.4%* | -31.4%* | +9.8%* | -23.5%* |
-| Placebo (n=141) | +0.2% | -2.2% | +2.6% | +11.7% |
-| Baseline LDL-C >160 mg/dL and TG ≥ 150 mg/dL |  |  |  |  |
-| Mean baseline lipid values (n=242) | 312.8 mg/dL | 219.8 mg/dL | 46.7 mg/dL | 231.9 mg/dL |
-| All FEN (n=126) | -16.8%* | -20.1%* | +14.6%* | -35.9%* |
-| Placebo (n=116) | -3.0% | -6.6% | +2.3% | +0.9% |
 | † Duration of study treatment was 3 to 6 months. * p = < 0.05 vs. Placebo |  |  |  |  |
 
-In a subset of the subjects, measurements of apo B were conducted.
-TRICOR treatment significantly reduced apo B from baseline to endpoint as compared with placebo (-25.1% vs. 2.4%, p < 0.0001, n=213 and 143 respectively).
+## 14.4 Lack of Efficacy in Cardiovascular Outcomes Trials
 
-## 14.2 Severe Hypertriglyceridemia
+Fenofibrate did not reduce cardiovascular disease morbidity or mortality in two large, randomized controlled trials of patients with type 2 diabetes mellitus.
 
-The effects of fenofibrate on serum triglycerides were studied in two randomized, double-blind, placebo-controlled clinical trials of 147 hypertriglyceridemic patients.
-Patients were treated for eight weeks under protocols that differed only in that one entered patients with baseline TG levels of 500 to 1500 mg/dL, and the other TG levels of 350 to 500 mg/dL.
-In patients with hypertriglyceridemia and normal cholesterolemia with or without hyperchylomicronemia, treatment with fenofibrate at dosages equivalent to TRICOR 145 mg per day decreased primarily very low density lipoprotein (VLDL) triglycerides and VLDL cholesterol.
-Treatment of patients with elevated triglycerides often results in an increase of LDL-C (see Table 5).
+The Action to Control Cardiovascular Risk in Diabetes Lipid (ACCORD Lipid) (NCT00000620) trial was a randomized placebo-controlled trial of 5,518 patients (2,765 assigned to receive fenofibrate) with type 2 diabetes mellitus on background statin therapy treated with fenofibrate.
+The mean age at baseline was 62 years and 31% were female.
+Overall, 68% were White, 15% were Black or African American; 7% identified as Hispanic or Latino ethnicity.
+The mean duration of follow-up was 4.7 years.
+The primary outcome of major adverse cardiovascular events (MACE), a composite of non-fatal myocardial infarction, non-fatal stroke, and cardiovascular disease death was a HR of 0.92 (95% CI, 0.79 to 1.08) for fenofibrate plus statin combination therapy as compared to statin monotherapy.
 
-Table 5.
-Effects of TRICOR in Patients With Severe Hypertriglyceridemia
+The Fenofibrate Intervention and Event Lowering in Diabetes (FIELD) trial was a 5-year randomized, placebo-controlled trial of 9,795 patients (4,895 assigned to receive fenofibrate) with type 2 diabetes mellitus treated with fenofibrate.
+The mean age at baseline was 62 years, 37% were female, and 93% were White.
+The primary outcome of coronary heart disease events was a HR of 0.89 (95% CI, 0.75 to 1.05) with fenofibrate compared to placebo.
+The HR for total and coronary heart disease mortality, respectively, was 1.11 (95% CI, 0.95 to 1.29) and 1.19 (95% CI, 0.90 to 1.57) with fenofibrate as compared to placebo.
 
-| Study 1 | Placebo |  |  |  | TRICOR |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Baseline TG levels 350 to 499 mg/dL | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) |
-| Triglycerides | 28 | 449 | 450 | -0.5 | 27 | 432 | 223 | -46.2* |
-| VLDL Triglycerides | 19 | 367 | 350 | 2.7 | 19 | 350 | 178 | -44.1* |
-| Total Cholesterol | 28 | 255 | 261 | 2.8 | 27 | 252 | 227 | -9.1* |
-| HDL Cholesterol | 28 | 35 | 36 | 4 | 27 | 34 | 40 | 19.6* |
-| LDL Cholesterol | 28 | 120 | 129 | 12 | 27 | 128 | 137 | 14.5 |
-| VLDL Cholesterol | 27 | 99 | 99 | 5.8 | 27 | 92 | 46 | -44.7* |
-| Study 2 | Placebo |  |  |  | TRICOR |  |  |  |
-| Baseline TG levels 500 to 1500 mg/dL | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) | N | Baseline (Mean) | Endpoint (Mean) | % Change (Mean) |
-| Triglycerides | 44 | 710 | 750 | 7.2 | 48 | 726 | 308 | -54.5* |
-| VLDL Triglycerides | 29 | 537 | 571 | 18.7 | 33 | 543 | 205 | -50.6* |
-| Total Cholesterol | 44 | 272 | 271 | 0.4 | 48 | 261 | 223 | -13.8* |
-| HDL Cholesterol | 44 | 27 | 28 | 5.0 | 48 | 30 | 36 | 22.9* |
-| LDL Cholesterol | 42 | 100 | 90 | -4.2 | 45 | 103 | 131 | 45.0* |
-| VLDL Cholesterol | 42 | 137 | 142 | 11.0 | 45 | 126 | 54 | -49.4* |
-| * =p < 0.05 vs. Placebo |  |  |  |  |  |  |  |  |
+Because of chemical, pharmacological, and clinical similarities between fenofibrate and pemafibrate, findings in a large randomized, placebo-controlled clinical trial with pemafibrate are relevant for TRICOR.
 
-The effect of TRICOR on cardiovascular morbidity and mortality has not been determined.
+Pemafibrate did not reduce cardiovascular disease morbidity or mortality in a large, randomized, placebo-controlled trial of patients with type 2 diabetes mellitus (TG levels of 200 to 499 mg per deciliter and HDL-C levels of 40 mg per deciliter or lower), on background statin therapy (NCT03071692).
+The trial was a randomized placebo-controlled trial of 10,497 patients (5,240 assigned to receive pemafibrate) with type 2 diabetes mellitus on background lipid-lowering therapy.
+The median age at baseline was 64 years and 28% were female.
+Overall, 86% were White, 5% were Asian, 3% were Black or African American; 19% identified as Hispanic or Latino ethnicity.
+The median duration of follow-up was 3.4 years.
+The primary outcome of major adverse cardiovascular events (MACE), a composite of non-fatal myocardial infarction, non-fatal ischemic stroke, coronary revascularization, and death from cardiovascular causes, was a HR of 1.03 (95% CI, 0.91 to 1.15) for pemafibrate plus statin combination therapy as compared to statin monotherapy.
