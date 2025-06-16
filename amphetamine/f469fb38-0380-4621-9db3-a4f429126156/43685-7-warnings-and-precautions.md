@@ -123,7 +123,7 @@ Advise patients that Evekeo, may cause slowing of growth including weight loss (
 
 ### Serotonin Syndrome
 
-Caution patients about the risk of serotonin syndrome with concomitant use of Evekeo and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders) and also others such as linezolid [see CONTRAINDICATIONS, WARNINGS, and DRUG INTERACTIONS].
+Caution patients about the risk of serotonin syndrome with concomitant use of Evekeo and other serotonergic drugs including SSRIs, SNRIs, triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, St. John's Wort, and with drugs that impair metabolism of serotonin (in particular MAOIs, both those intended to treat psychiatric disorders) and also others such as linezolid [seeCONTRAINDICATIONS, WARNINGS,and DRUG INTERACTIONS].
 Advise patients to contact their healthcare provider or report to the emergency room if they experience signs or symptoms of serotonin syndrome.
 
 ### Motor and Verbal Tics, and Worsening of Tourette's Syndrome
@@ -145,7 +145,7 @@ A variety of neurological toxic effects and malignant hyperpyrexia can occur, so
 
 The concomitant use of Evekeo and serotonergic drugs increases the risk of serotonin syndrome.
 Initiate with lower doses and monitor patients for signs and symptoms of serotonin syndrome, particularly during Evekeo initiation or dosage increase.
-If serotonin syndrome occurs, discontinue Evekeo and the concomitant serotonergic drug(s) (see WARNING and PRECAUTIONS).
+If serotonin syndrome occurs, discontinue Evekeo and the concomitant serotonergic drug(s) (see WARNINGand PRECAUTIONS).
 
 ### CYP2D6 Inhibitors
 
