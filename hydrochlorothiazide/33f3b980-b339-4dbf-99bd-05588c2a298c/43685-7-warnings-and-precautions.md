@@ -61,6 +61,10 @@ Thiazides should be discontinued before carrying out tests for parathyroid funct
 
 Increases in cholesterol and triglyceride levels may be associated with thiazide diuretic therapy.
 
+## Information for Patients
+
+Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
+
 ## Laboratory Tests
 
 Periodic determination of serum electrolytes to detect possible electrolyte imbalance should be done at appropriate intervals.
@@ -73,7 +77,7 @@ Alcohol, barbiturates, or narcotics
 
 Potentiation of orthostatic hypotension may occur.
 
-Antidiabetic drugs - (oral agents and insulin)
+Antidiabetic drugs (oral agents and insulin)
 
 Dosage adjustment of the antidiabetic drug may be required.
 
@@ -106,7 +110,8 @@ Refer to the package insert for lithium preparations before use of such preparat
 
 Non-steroidal Anti-inflammatory Drugs
 
-In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.Therefore, when hydrochlorothiazide and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
+In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics.
+Therefore, when hydrochlorothiazide and non-steroidal anti-inflammatory agents are used concomitantly, the patient should be observed closely to determine if the desired effect of the diuretic is obtained.
 
 ## Drug/Laboratory Test Interactions
 
@@ -114,11 +119,11 @@ Thiazides should be discontinued before carrying out tests for parathyroid funct
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Two-year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day).
+Two year feeding studies in mice and rats conducted under the auspices of the National Toxicology Program (NTP) uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in female mice (at doses of up to approximately 600 mg/kg/day) or in male and female rats (at doses of up to approximately 100 mg/kg/day).
 The NTP, however, found equivocal evidence for hepatocarcinogenicity in male mice.
 
 Hydrochlorothiazide was not genotoxic in vitro in the Ames mutagenicity assay of Salmonella typhimurium strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 and in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations, or in vivo in assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
-Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 µg/ml, and in the Aspergillus nidulans non-disjunction assay at an unspecified concentration.
+Positive test results were obtained only in the in vitro CHO Sister Chromatid Exchange (clastogenicity) and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide from 43 to 1300 mcg/mL, and in the Aspergillus nidulans non-disjunction assay at an unspecified concentration.
 
 Hydrochlorothiazide had no adverse effects on the fertility of mice and rats of either sex in studies wherein these species were exposed, via their diet, to doses of up to 100 and 4 mg/kg, respectively, prior to conception and throughout gestation.
 
@@ -143,10 +148,6 @@ Because of the potential for serious adverse reactions in nursing infants, a dec
 
 ## Pediatric Use
 
-There are no well-controlled clinical trials in pediatric patients.
+There are no well controlled clinical trials in pediatric patients.
 Information on dosing in this age group is supported by evidence from empiric use in pediatric patients and published literature regarding the treatment of hypertension in such patients.
-(See DOSAGE AND ADMINISTRATION, Infants and Children).
-
-## Information for Patients
-
-Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
+(See DOSAGE AND ADMINISTRATION: Infants and Children.)

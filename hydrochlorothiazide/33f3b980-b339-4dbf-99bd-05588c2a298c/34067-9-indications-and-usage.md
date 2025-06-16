@@ -12,7 +12,7 @@ Routine use of diuretics during normal pregnancy is inappropriate and exposes mo
 Diuretics do not prevent development of toxemia of pregnancy and there is no satisfactory evidence that they are useful in the treatment of toxemia.
 
 Edema during pregnancy may arise from pathologic causes or from the physiologic and mechanical consequences of pregnancy.
-Thiazides are indicated in pregnancy when edema is due to pathologic causes, just as they are in the absence of pregnancy (see PRECAUTIONS, Pregnancy).
+Thiazides are indicated in pregnancy when edema is due to pathologic causes, just as they are in the absence of pregnancy (see PRECAUTIONS: Pregnancy).
 Dependent edema in pregnancy, resulting from restriction of venous return by the gravid uterus, is properly treated through elevation of the lower extremities and use of support stockings.
 Use of diuretics to lower intravascular volume in this instance is illogical and unnecessary.
 During normal pregnancy there is hypervolemia which is not harmful to the fetus or the mother in the absence of cardiovascular disease.

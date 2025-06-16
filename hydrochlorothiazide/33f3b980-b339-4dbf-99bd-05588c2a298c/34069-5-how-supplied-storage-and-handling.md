@@ -1,5 +1,11 @@
 # HOW SUPPLIED
 
+Hydrochlorothiazide Tablets, USP are available as light orange, mottled, circular, flat, beveled, uncoated tablets, debossed with "H1" on one side and "U" on other side containing 12.5 mg of hydrochlorothiazide, USP.
+
+Bottles of 100: NDC 29300-485-01
+
+Bottles of 1,000: NDC 29300-485-10
+
 Hydrochlorothiazide Tablets, USP are available as light orange, circular, flat, beveled, uncoated tablets, with score line having "U" and "128" debossed across the score line on one side and plain on other side containing 25 mg of hydrochlorothiazide, USP.
 
 Bottles of 100: NDC 29300-128-01
@@ -23,9 +29,11 @@ Bottles of 5,000: NDC 29300-129-50
 PHARMACIST: Dispense in a well-closed container as defined in the USP.
 Use child-resistant closure (as required)
 
-Store at 20° to 25°C (68° to 77°F)
+Store at 20° to 25° C (68° to 77° F)
 
 [see USP Controlled Room Temperature].
+
+KEEP THIS AND ALL DRUGS OUT OF REACH OF CHILDREN.
 
 Please address medical inquiries to Unichem's toll free # 1-866-562-4616.
 
@@ -40,6 +48,6 @@ Manufactured for:
 
 East Brunswick, NJ 08816
 
-07-R-04/2020
+09-R-05/2025
 
-13012736
+13014161
