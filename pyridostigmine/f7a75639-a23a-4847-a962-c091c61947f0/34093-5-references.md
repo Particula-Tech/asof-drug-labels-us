@@ -25,11 +25,14 @@
    Pharmacodynamics and pharmacokinetics of anticholinesterase. ln:Ruegheimer E, Zindler M, ed.
    Anaesthesiology.
    (Hamburg, Germany: Congress; Sep 14-21, 1980; 222-223.)
-   (Int Con gr.
+   (Int Congr.
    No. 538), Amsterdam, Netherlands: Excerpta Medica; 1981.
 8. Breyer-Pfaff U, Maier U, Brinkmann AM.Schumm F. Pyridostigmine kinetics in healthy subjects and patients with myasthenia gravis.
    Clin Pharmacol Ther.
    1985;5:495-501.
 
-Manufactured by: Centaur Pharmaceuticals Private Limited, Plot No. 4, International Biotech Park, Phase II, Hinjewadi, Pune-411 057, INDIA Distributed By: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Rev.
-10/2018
+Manufactured by: Centaur Pharmaceuticals Private Limited, Plot No. 4, International Biotech Park, Phase II, Hinjewadi, Pune-411 057, INDIA Distributed by:
+
+Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663 Revised: 06/2020
+
+PIR22003-00

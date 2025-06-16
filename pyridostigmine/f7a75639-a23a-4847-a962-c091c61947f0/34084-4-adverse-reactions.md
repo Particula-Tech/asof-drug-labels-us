@@ -6,4 +6,4 @@ Nicotinic side effects are comprised chiefly of muscle cramps, fasciculation and
 Muscarinic side effects can usually be counteracted by atropine, but for reasons shown in the preceding section the expedient is not without danger.
 As with any compound containing the bromide radical, a skin rash may be seen in an occasional patient.
 Such reactions usually subside promptly upon discontinuance of the medication.
-To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharmaceuticals, Inc. at 1-866-562-4597 or FDA at 1-800-FDA-1088 or www.FDA.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharmaceuticals, Inc. at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.FDA.gov/medwatch.

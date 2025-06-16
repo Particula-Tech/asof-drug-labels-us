@@ -18,4 +18,4 @@ Therefore, use of Pyridostigmine bromide in women who may become pregnant requir
 # PRECAUTION
 
 Pyridostigmine is mainly excreted unchanged by the kidney.
-6, 7, 8 Therefore, lower doses may be required in patients with renal disease, and treatment should be based on titration of drug dosage to effect.6, 7 Pediatric Use Safety and effectiveness in pediatric patients have not been established.
+6, 7, 8 Therefore, lower doses may be required in patients with renal disease, and treatment should be based on titration of drug dosage to effect.6, 7 Pediatric UseSafety and effectiveness in pediatric patients have not been established.
