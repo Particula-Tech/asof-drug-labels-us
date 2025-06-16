@@ -1,0 +1,5 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 70954-978-10 Bottle of 30 tablets
+
+NDC 70954-978-20 Bottle of 100 tablets

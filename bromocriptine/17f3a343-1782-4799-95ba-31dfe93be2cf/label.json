@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA017962"
+  ],
+  "inn": "bromocriptine",
+  "labeler": "ANI Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70954-978-10",
+    "70954-978-20"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "bromocriptine mesylate",
+      "name": "Bromocriptine Mesylate"
+    }
+  ],
+  "setid": "17f3a343-1782-4799-95ba-31dfe93be2cf",
+  "source": "dailymed"
+}
