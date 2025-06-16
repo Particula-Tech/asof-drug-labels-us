@@ -12,7 +12,7 @@ Reduction in LDL-C was consistent across age, sex, and baseline LDL-C.
 
 TABLE 6: Response to Ezetimibe Tablet in Patients with Primary Hyperlipidemia (Mean % Change from Untreated Baseline*)
 
-|  | Treatment Group | N | Total-C | LDL-C | ApoB | Non-HDL-C |
+|  | Treatment Group | N | Total-C | LDL-C | Apo B | Non-HDL-C |
 | --- | --- | --- | --- | --- | --- | --- |
 | Trial 1† | Placebo | 205 | +1 | +1 | -1 | +1 |
 | Ezetimibe | 622 | -12 | -18 | -15 | -16 |  |

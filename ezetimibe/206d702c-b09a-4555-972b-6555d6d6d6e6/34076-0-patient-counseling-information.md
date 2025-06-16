@@ -28,16 +28,5 @@ For Patient Information, please visit:
 
 http://www.ascendlaboratories.com/pti/ezetimibetablets.pdf
 
-Manufactured by:
-
-Alkem Laboratories Ltd.,
-
-INDIA.
-
-Distributed by:
-
-Ascend Laboratories, LLC
-
-Parsippany, NJ 07054
-
-Revised: March, 2024
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921 Revised: January 2025

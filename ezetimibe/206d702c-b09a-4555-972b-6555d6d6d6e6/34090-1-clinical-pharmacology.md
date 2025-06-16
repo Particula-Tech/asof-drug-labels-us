@@ -90,18 +90,18 @@ TABLE 4: Effect of Coadministered Drugs on Total Ezetimibe
 | --- | --- | --- |
 |  | Change in AUC | Change in Cmax |
 | Cyclosporine-stable dose required (75-150 mg BID)†,‡ | ↑240% | ↑290% |
-| Fenofibrate,200mgQD,14days‡ | ↑48% | ↑64% |
-| Gemfibrozil,600mgBID,7days‡ | ↑64% | ↑91% |
-| Cholestyramine,4gBID, 14days‡ | ↓55% | ↓4% |
+| Fenofibrate, 200 mg QD,14 days‡ | ↑48% | ↑64% |
+| Gemfibrozil, 600 mg BID, 7 days‡ | ↑64% | ↑91% |
+| Cholestyramine, 4g BID, 14 days‡ | ↓55% | ↓4% |
 | Aluminum & magnesium hydroxide combination antacid, single dose§ | ↓4% | ↓30% |
-| Cimetidine,400mgBID,7days | ↑6% | ↑22% |
-| Glipizide,10mg, single dose | ↑4% | ↓8% |
+| Cimetidine, 400 mg BID, 7 days | ↑6% | ↑22% |
+| Glipizide,10 mg, single dose | ↑4% | ↓8% |
 | Statins |  |  |
-| Lovastatin20mgQD,7days | ↑9% | ↑3% |
-| Pravastatin20mgQD,14days | ↑7% | ↑23% |
-| Atorvastatin10mgQD,14days | ↓2% | ↑12% |
-| Rosuvastatin10mgQD,14days | ↑13% | ↑18% |
-| Fluvastatin20mgQD,14days | ↓19% | ↑7% |
+| Lovastatin 20 mg QD, 7 days | ↑9% | ↑3% |
+| Pravastatin 20 mg QD,14 days | ↑7% | ↑23% |
+| Atorvastatin 10 mg QD,14 days | ↓2% | ↑12% |
+| Rosuvastatin10 mg QD,14 days | ↑13% | ↑18% |
+| Fluvastatin 20 mg QD, 14 days | ↓19% | ↑7% |
 
 * Based on 10-mg dose of ezetimibe.
 
