@@ -1,0 +1,33 @@
+{
+  "application_numbers": [
+    "ANDA211835"
+  ],
+  "inn": "aprepitant",
+  "labeler": "Golden State Medical Supply, Inc.",
+  "package_ndcs": [
+    "51407-701-01",
+    "51407-701-05",
+    "51407-701-11",
+    "51407-702-02",
+    "51407-702-06",
+    "51407-702-11",
+    "51407-702-22",
+    "51407-703-06",
+    "51407-703-66",
+    "51407-704-03"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "aprepitant",
+      "name": "APREPITANT"
+    },
+    {
+      "form": "KIT",
+      "generic": "aprepitant",
+      "name": "APREPITANT"
+    }
+  ],
+  "setid": "377c3ecb-fdec-dde4-e063-6294a90a29bd",
+  "source": "dailymed"
+}
