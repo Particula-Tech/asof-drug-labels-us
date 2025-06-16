@@ -137,8 +137,8 @@ What are the ingredients in tamsulosin hydrochloride capsules?
 - •The capsule shell consists of FD&C Blue # 2, gelatin, iron oxide red, iron oxide yellow and titanium dioxide.
 - •The capsule is printed with black pharmaceutical ink which is made of iron oxide black, propylene glycol and shellac.
 
-Manufactured in Slovenia by Lek Pharmaceuticals d.d.
+Manufactured in Slovenia by Novartis d.o.o.,
 
 Distributed by Sandoz Inc., Princeton, NJ 08540
 
-Revised: February 2019
+Revised: September 2024

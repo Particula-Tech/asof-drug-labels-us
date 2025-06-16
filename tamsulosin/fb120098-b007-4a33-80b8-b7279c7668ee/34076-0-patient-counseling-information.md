@@ -31,8 +31,8 @@ FDA-approved Patient Labeling
 
 Patient labeling follows at the end of this prescribing information.
 
-Manufactured in Slovenia by Lek Pharmaceuticals d.d.
+Manufactured in Slovenia by Novartis d.o.o.,
 
 Distributed by Sandoz Inc., Princeton, NJ 08540
 
-Revised: February 2019
+Revised: September 2024
