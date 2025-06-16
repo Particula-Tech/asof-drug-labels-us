@@ -14,7 +14,7 @@ One hundred twenty-two (60%) linezolid-treated patients and 103 (53%) vancomycin
 The cure rates in clinically evaluable patients were 57% for linezolid-treated patients and 60% for vancomycin-treated patients.
 The cure rates in clinically evaluable patients with ventilator-associated pneumonia were 47% for linezolid-treated patients and 40% for vancomycin-treated patients.
 A modified intent-to-treat (MITT) analysis of 94 linezolid-treated patients and 83 vancomycin-treated patients included subjects who had a pathogen isolated before treatment.
-The cure rates in the MITT analysis were 57% in linezolid-treated patients and 46% in­ vancomycin­-treated patients.
+The cure rates in the MITT analysis were 57% in linezolid-treated patients and 46% in vancomycin-treated patients.
 The cure rates by pathogen for microbiologically evaluable patients are presented in Table 12.
 Table 12.
 Cure Rates at the Test-of-Cure Visit for Microbiologically Evaluable Adult Patients with Nosocomial Pneumonia
