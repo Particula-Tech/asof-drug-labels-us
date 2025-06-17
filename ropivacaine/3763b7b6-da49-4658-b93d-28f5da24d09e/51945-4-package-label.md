@@ -44,13 +44,15 @@ Not for Intravenous Administration.
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL-0.5% (5 mg/mL) - 30 mL Container-Carton (25 Vials)
 
-Rx only NDC 55150-198-30 Ropivacaine 0.5% Hydrochloride Injection, USP 150 mg/30 mL (5 mg/mL) For Infiltration, Nerve Block, and Epidural Administration Only.
+Rx only NDC 55150-198-30
+
+Ropivacaine 0.5% Hydrochloride Injection, USP 150 mg/30 mL (5 mg/mL) For Infiltration, Nerve Block, and Epidural Administration Only.
 Not for Intravenous Administration.
 Sterile 25 x 30 mL Nonpyrogenic Single-Dose Vials eugia
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL-0.75% (7.5 mg/mL) - 20 mL Container Label
 
-Rx only NDC 55150-199-20 Ropivacaine 0.75% Hydrochloride Injection, USP 150 mg/20 mL (7.5 mg/mL) For Nerve Block and Epidural Administration Only.
+Rx only NDC55150-199-20 Ropivacaine 0.75% Hydrochloride Injection, USP 150 mg/20 mL (7.5 mg/mL) For Nerve Block and Epidural Administration Only.
 Not for Intravenous Administration.
 20 mL Single-Dose Vial
 
@@ -64,7 +66,7 @@ Sterile 25 x 20 mL Nonpyrogenic Single-Dose Vials eugia
 
 Rx only NDC 55150-200-10 Ropivacaine 1% Hydrochloride Injection, USP 100 mg/10 mL (10 mg/mL) For Epidural Administration Only.
 Not for Intravenous Administration.
-10 mL Single-Dose Vial eugia
+Sterile 25 x 10 mL Nonpyrogenic Single-Dose Vials eugia
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL-1% (10 mg/mL) - 10 mL Container-Carton (25 Vials)
 
@@ -80,6 +82,6 @@ Not for Intravenous Administration.
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL-1% (10 mg/mL) - 20 mL Container-Carton (25 Vials)
 
-Rx only NDC 55150-201-20 Ropivacaine 1% Hydrochloride Injection, USP 200 mg/20 mL (10 mg/mL) For Epidural Administration Only.
+Rx only NDC55150-201-20 Ropivacaine 1% Hydrochloride Injection, USP 200 mg/20 mL (10 mg/mL) For Epidural Administration Only.
 Not for Intravenous Administration.
 Sterile 25 x 20 mL Nonpyrogenic Single-Dose Vials eugia
