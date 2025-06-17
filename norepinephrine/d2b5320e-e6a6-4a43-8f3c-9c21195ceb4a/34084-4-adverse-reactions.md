@@ -2,9 +2,9 @@
 
 The following adverse reactions are described in greater detail in other sections:
 
-- Tissue Ischemia [see Warnings and Precautions (5.1)]
-- Hypotension [see Warnings and Precautions (5.2)]
-- Cardiac Arrhythmias [see Warnings and Precautions (5.3)]
+- •Tissue Ischemia [see Warnings and Precautions (5.1)]
+- •Hypotension [see Warnings and Precautions (5.2)]
+- •Cardiac Arrhythmias [see Warnings and Precautions (5.3)]
 
 The most common adverse reactions are hypertension and bradycardia.
 
