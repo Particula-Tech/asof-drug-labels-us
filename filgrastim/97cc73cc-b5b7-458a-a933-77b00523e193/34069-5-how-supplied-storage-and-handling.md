@@ -5,22 +5,22 @@ NEUPOGEN injection is a clear, colorless, preservative-free solution supplied as
 Vials
 
 Single-dose vials containing 300 mcg/mL of filgrastim.
-Dispensing packs of 10 vials (NDC 55513-530-10).
+Dispensing packs of 10 vials (NDC 55513-530-10, NDC 55513-530-20).
 
 Single-dose vials containing 480 mcg/1.6 mL (300 mcg/mL) of filgrastim.
-Dispensing packs of 10 vials (NDC 55513-546-10).
+Dispensing packs of 10 vials (NDC 55513-546-10, NDC 55513-546-20).
 
 Prefilled Syringes (SingleJect®)
 
 Single-dose, prefilled syringe with 27 gauge, ½ inch needle with an UltraSafe® Needle Guard, containing 300 mcg/0.5 mL of filgrastim.
 
 - Pack of 1 prefilled syringe (NDC 55513-924-91).
-- Pack of 10 prefilled syringes (NDC 55513-924-10).
+- Pack of 10 prefilled syringes (NDC 55513-924-10, NDC 55513-924-20).
 
 Single-dose, prefilled syringe with 27 gauge, ½ inch needle with an UltraSafe® Needle Guard, containing 480 mcg/0.8 mL of filgrastim.
 
 - Pack of 1 prefilled syringe (NDC 55513-209-91).
-- Pack of 10 prefilled syringes (NDC 55513-209-10).
+- Pack of 10 prefilled syringes (NDC 55513-209-10, NDC 55513-209-20).
 
 The needle cap of the prefilled syringe contains dry natural rubber (a derivative of latex) [see Dosage and Administration (2.6)].
 

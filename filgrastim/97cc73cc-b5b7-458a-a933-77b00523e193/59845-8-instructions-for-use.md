@@ -207,10 +207,10 @@ Manufactured by:
 
 Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S. License No. 1080
 
-© 2016 All rights reserved.
-1xxxxxx Revised: 06/2016
+© 2016, 2025 All rights reserved.
+1xxxxxx Revised: 06/2025
 
-v1
+v2
 
 # Instructions for Use
 
@@ -364,10 +364,10 @@ T Examine the injection site.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-NEUPOGEN® (filgrastim) Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S.A. U.S. License No. 1080 Revised: 06/2016
+NEUPOGEN® (filgrastim) Manufactured by: Amgen Inc. One Amgen Center Drive Thousand Oaks, California 91320-1799 U.S.A. U.S. License No. 1080 Revised: 06/2025
 
 1xxxxxx
 
-© 1991-2016 Amgen Inc. All rights reserved.
+© 1991-2016, 2025 Amgen Inc. All rights reserved.
 
-v1
+v2
