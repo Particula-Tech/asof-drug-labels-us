@@ -335,9 +335,6 @@ Some patients with TSH increases needed replacement thyroid treatment.
 In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were1: decrease in free T4 (<0.8 LLN), 2.0% (357/17513); decrease in total T4 (<0.8LLN), 4.0% (75/1861); decrease in free T3 (<0.8LLN), 0.4% (53/13766); decrease in total T3 (<0.8LLN), 2.0% (26/1312), and increase in TSH (>5mIU/L), 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
-1 Based on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-Shifts in total T4, free T4, total T3 and free T3 are defined as <0.8 x LLN (pmol/L) and shift in TSH is > 5 mlU/L at any time.
-
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
 
 Table 8: Incidence of Shifts in Thyroid Hormone Levels and TSH in Short-Term Placebo-Controlled Clinical Trials1,2
