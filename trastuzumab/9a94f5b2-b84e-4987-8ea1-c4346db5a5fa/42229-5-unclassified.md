@@ -4,6 +4,6 @@ Marketed by Amgen Inc.
 
 AMGEN and KANJINTI® (trastuzumab-anns) are trademarks owned or licensed by Amgen Inc., its subsidiaries, or affiliates.
 
-© 2019, 2022, 2024 Amgen Inc. All rights reserved.
+© 2019, 2022, 2024-2025 Amgen Inc. All rights reserved.
 
-1xxxxxx v4
+1xxxxxx v5
