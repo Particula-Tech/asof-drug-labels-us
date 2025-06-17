@@ -3,25 +3,25 @@
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
 - Severe Neutropenia [see Warnings and Precautions (5.1)]
-- Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)]
-- Falls [see Warnings and Precautions (5.4)]
-- Seizures [see Warnings and Precautions (5.5)]
-- Myocarditis, Pericarditis, and Cardiomyopathy, and Mitral Valve Incompetence [see Warnings and Precautions (5.6)]
-- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.7)]
-- Gastrointestinal Hypomotility with Severe Complications [see Warnings and Precautions (5.8)]
-- Eosinophilia [see Warnings and Precautions (5.9)]
-- QT Interval Prolongation [see Warnings and Precautions (5.10)]
-- Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.11)]
-- Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.12)]
-- Hepatotoxicity [see Warnings and Precautions (5.13)]
-- Fever [see Warnings and Precautions (5.14)]
-- Pulmonary Embolism [see Warnings and Precautions (5.15)]
-- Anticholinergic Toxicity [see Warnings and Precautions (5.16)]
-- Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.17)]
-- Tardive Dyskinesia [see Warnings and Precautions (5.18)]
-- Patients with Phenylketonuria [see Warnings and Precautions (5.19)]
-- Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.20)]
-- Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.21)]
+- Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.2)]
+- Falls [see Warnings and Precautions (5.3)]
+- Seizures [see Warnings and Precautions (5.4)]
+- Myocarditis, Pericarditis, and Cardiomyopathy and Mitral Valve Incompetence [see Warnings and Precautions (5.5)]
+- Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.6)]
+- Gastrointestinal Hypomotility with Severe Complications [see Warnings and Precautions (5.7)]
+- Eosinophilia [see Warnings and Precautions (5.8)]
+- QT Interval Prolongation [see Warnings and Precautions (5.9)]
+- Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.10)]
+- Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.11)]
+- Hepatotoxicity [see Warnings and Precautions (5.12)]
+- Fever [see Warnings and Precautions (5.13)]
+- Pulmonary Embolism [see Warnings and Precautions (5.14)]
+- Anticholinergic Toxicity [see Warnings and Precautions (5.15)]
+- Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.16)]
+- Tardive Dyskinesia [see Warnings and Precautions (5.17)]
+- Patients with Phenylketonuria [see Warnings and Precautions (5.18)]
+- Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.19)]
+- Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.20)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -30,7 +30,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 The most commonly reported adverse reactions (≥5%) across clozapine clinical trials were: CNS reactions, including sedation, dizziness/vertigo, headache, and tremor; cardiovascular reactions, including tachycardia, hypotension, and syncope; autonomic nervous system reactions, including hypersalivation, sweating, dry mouth, and visual disturbances; gastrointestinal reactions, including constipation and nausea; and fever.
 Table 9 summarizes the most commonly reported adverse reactions (≥5%) in clozapine-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
 
-Table 9: Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-controlled Trial in Treatment-Resistant Schizophrenia
+Table 9: Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromazine-Controlled Trial in Treatment-Resistant Schizophrenia
 
 | Adverse Reaction | Clozapine (N=126) (%) | Chlorpromazine (N=142) (%) |
 | --- | --- | --- |
@@ -46,10 +46,10 @@ Table 9: Common Adverse Reactions (≥5%) in the 6-Week, Randomized, Chlorpromaz
 | Nausea/vomiting | 10 | 12 |
 | Dry mouth | 5 | 20 |
 
-Table 10 summarizes the adverse reactions reported in clozapine-treated patients at a frequency of 2% or greater across all clozapine studies (excluding the 2-year InterSePT™ Study).
+Table 10 summarizes the adverse reactions reported in clozapine-treated patients at a frequency of 2% or greater across all clozapine studies (excluding the 2 year InterSePT™ Study).
 These rates are not adjusted for duration of exposure.
 
-Table 10: Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=842) across all Clozapine Studies (excluding the 2-year InterSePT™ Study)
+Table 10: Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=842) Across all Clozapine Studies (excluding the 2 year InterSePT™ Study)
 
 | Body System Adverse Reaction | Clozapine N=842 Percentage of Patients |
 | --- | --- |
@@ -81,12 +81,12 @@ Table 10: Adverse Reactions (≥2%) Reported in Clozapine-treated Patients (N=84
 | Vomiting | 3 |
 | Diarrhea | 2 |
 | Urogenital |  |
-| Urinary Abnormalities | 2 |
+| Urinary abnormalities | 2 |
 | Autonomic Nervous System |  |
 | Salivation | 31 |
 | Sweating | 6 |
-| Dry Mouth | 6 |
-| Visual Disturbances | 5 |
+| Dry mouth | 6 |
+| Visual disturbances | 5 |
 | Skin |  |
 | Rash | 2 |
 | Hemic/Lymphatic |  |
@@ -167,7 +167,7 @@ Aspiration, pleural effusion, pneumonia, lower respiratory tract infection.
 
 Hemic and Lymphatic System
 
-Mild, moderate, or severe leukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
+Mild, moderate, or severe leukopenia, agranulocytosis, granulocytopenia, WBC decreased, deep-vein thrombosis, elevated hemoglobin/hematocrit, erythrocyte sedimentation rate (ESR) increased, sepsis, thrombocytosis, and thrombocytopenia.
 
 Vision Disorders
 

@@ -14,7 +14,7 @@ Patients must have had a Clinical Global Impressions – Severity Scale score of
 In the prospective, lead-in phase of the trial, all patients (N=305) initially received single-blind treatment with haloperidol (the mean dose was 61 mg per day) for 6 weeks.
 More than 80% of patients completed the 6-week trial.
 Patients with an inadequate response to haloperidol (n=268) were randomized to double-blind treatment with clozapine (N=126) or chlorpromazine (N=142).
-The maximum daily clozapine dose was 900 mg; the mean daily dose was >600 mg).
+The maximum daily clozapine dose was 900 mg; the mean daily dose was >600 mg.
 The maximum daily chlorpromazine dose was 1800 mg; the mean daily dose was >1200 mg.
 
 The primary endpoint was treatment response, predefined as a decrease in BPRS score of at least 20% and either (1) a CGI-S score of ≤3 (mildly ill), or (2) a BPRS score of ≤35, at the end of 6 weeks of treatment.
@@ -27,7 +27,7 @@ These changes in the clozapine group were statistically significantly greater th
 ## 14.2 Recurrent Suicidal Behavior in Schizophrenia or Schizoaffective Disorder
 
 The effectiveness of clozapine in reducing the risk of recurrent suicidal behavior was assessed in the International Suicide Prevention Trial (InterSePT™, a trademark of Novartis Pharmaceuticals Corporation).
-This was a prospective, randomized, open-label, active- controlled, multicenter, international, parallel-group comparison of clozapine (Clozaril®) versus olanzapine (Zyprexa®, a registered trademark of Eli Lilly and Company) in 956 patients with schizophrenia or schizoaffective disorder (DSM-IV) who were judged to be at risk for recurrent suicidal behavior.
+This was a prospective, randomized, open-label, active-controlled, multicenter, international, parallel-group comparison of clozapine (Clozaril®) versus olanzapine (Zyprexa®, a registered trademark of Eli Lilly and Company) in 956 patients with schizophrenia or schizoaffective disorder (DSM-IV) who were judged to be at risk for recurrent suicidal behavior.
 Only about one-fourth of these patients (27%) were considered resistant to standard antipsychotic drug treatment.
 To enter the trial, patients must have met one of the following criteria:
 
@@ -48,7 +48,7 @@ A total of 980 patients were randomized to the study and 956 received study medi
 Sixty-two percent of the patients were diagnosed with schizophrenia, and the remainder (38%) were diagnosed with schizoaffective disorder.
 Only about one-fourth of the total patient population (27%) was identified as “treatment-resistant” at baseline.
 There were more males than females in the study (61% of all patients were male).
-The mean age of patients entering the study was 37 years of age (range: 18 to 69).
+The mean age of patients entering the study was 37 years of age (range 18 to 69).
 Most patients were Caucasian (71%), 15% were Black, 1% were Asian, and 13% were classified as being of “other” races.
 
 Patients treated with clozapine had a statistically significant longer delay in the time to recurrent suicidal behavior in comparison with olanzapine.

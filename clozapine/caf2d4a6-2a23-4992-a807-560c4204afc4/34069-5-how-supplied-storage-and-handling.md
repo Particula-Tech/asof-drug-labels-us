@@ -11,14 +11,19 @@ Bottles of 100: 100 tablets in an HDPE bottle with child-resistant cap NDC 59651
 
 ## 16.2 Storage and Handling
 
-Store clozapine orally disintegrating tablets at 20°C to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store Clozapine Orally Disintegrating Tablets (referred to as Clozapine ODT) at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Protect from moisture.
 
-KEEP OUT OF REACH OF CHILDREN.
+Keep in a sealed blister until time of use.
+This unit-dose package is non child-resistant.
 
-Clozapine orally disintegrating tablets must remain in the original package until used by the patient.
+Keep Clozapine ODT in the original package until used by the patient.
 
-Drug dispensing should not ordinarily exceed a weekly supply.
-If a patient is eligible for ANC testing every 2 weeks, then a 2-week supply of clozapine orally disintegrating tablets can be dispensed.
-If a patient is eligible for ANC testing every 4 weeks, then a 4-week supply of clozapine orally disintegrating tablets can be dispensed.
-Dispensing should be contingent upon the ANC testing results.
+Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
+
+The quantity of Clozapine ODT depends on the ANC testing results [see Warnings and Precautions (5.1)].
+If a patient is eligible for ANC testing:
+
+- Every week, then a 1-week supply of Clozapine ODT can be dispensed.
+- Every 2 weeks, then a 2-week supply of Clozapine ODT can be dispensed.
+- Every 4 weeks, then a 4-week supply of Clozapine ODT can be dispensed.
