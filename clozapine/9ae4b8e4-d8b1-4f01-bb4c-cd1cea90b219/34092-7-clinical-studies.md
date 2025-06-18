@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Treatment-Resistant Schizophrenia
+## 14.1 Treatment-resistant Schizophrenia
 
 The efficacy of clozapine in treatment-resistant schizophrenia was established in a multicenter, randomized, double-blind, active-controlled (chlorpromazine) study in patients with a DSM-III diagnosis of schizophrenia who had inadequate responses to at least 3 different antipsychotics (from at least 2 different chemical classes) during the preceding 5 years.
 The antipsychotic trials must have been judged adequate; the antipsychotic dosages must have been equivalent to or greater than 1000 mg per day of chlorpromazine for a period of at least 6 weeks, each without significant reduction of symptoms.
@@ -37,7 +37,7 @@ To enter the trial, patients must have met one of the following criteria:
 - •They demonstrated moderate-to-severe suicidal ideation accompanied by command hallucinations to do self-harm within one week prior to their baseline evaluation.
 
 Dosing regimens for each treatment group were determined by individual investigators and were individualized by patient.
-Dosing was flexible, with a dose range of 200-900 mg/day for clozapine and 5-20 mg/day for olanzapine.
+Dosing was flexible, with a dose range of 200 to 900 mg/day for clozapine and 5 to 20 mg/day for olanzapine.
 For the 956 patients who received clozapine or olanzapine in this study, there was extensive use of concomitant psychotropics: 84% with antipsychotics, 65% with anxiolytics, 53% with antidepressants, and 28% with mood stabilizers.
 There was significantly greater use of concomitant psychotropic medications among the patients in the olanzapine group.
 
@@ -48,10 +48,12 @@ A total of 980 patients were randomized to the study and 956 received study medi
 Sixty-two percent of the patients were diagnosed with schizophrenia, and the remainder (38%) were diagnosed with schizoaffective disorder.
 Only about one-fourth of the total patient population (27%) was identified as “treatment-resistant” at baseline.
 There were more males than females in the study (61% of all patients were male).
-The mean age of patients entering the study was 37 years of age (range: 18–69).
+The mean age of patients entering the study was 37 years of age (range: 18 to 69).
 Most patients were Caucasian (71%), 15% were Black, 1% were Asian, and 13% were classified as being of “other” races.
 
 Patients treated with clozapine had a statistically significant longer delay in the time to recurrent suicidal behavior in comparison with olanzapine.
 This result should be interpreted only as evidence of the effectiveness of clozapine in delaying time to recurrent suicidal behavior and not a demonstration of the superior efficacy of clozapine over olanzapine.
 
 The probability of experiencing (1) a significant suicide attempt, including a completed suicide, or (2) hospitalization because of imminent suicide risk, including increased level of surveillance for suicidality for patients already hospitalized, was lower for clozapine patients than for olanzapine patients at Week 104: clozapine 24% versus olanzapine 32%; 95% CI of the difference: 2%, 14% (Figure 1).
+
+Figure 1: Cumulative Probability of a Significant Suicide Attempt or Hospitalization to Prevent Suicide in Patients with Schizophrenia or Schizoaffective Disorder at High Risk of Suicidality
