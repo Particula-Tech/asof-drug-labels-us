@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects: Pregnancy Category B. Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (3 and 6 times the 3 g human dose, based on body surface area).
+TeratogenicEffects: Pregnancy Category B. Reproduction studies have been performed in mice and rats at doses up to 2000 mg/kg (3 and 6 times the 3 g human dose, based on body surface area).
 There was no evidence of harm to the fetus due to amoxicillin.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, amoxicillin should be used during pregnancy only if clearly needed.
@@ -22,10 +22,10 @@ Caution should be exercised when amoxicillin is administered to a nursing woman.
 
 The safety and effectiveness of AMOXIL for the treatment of upper respiratory tract infections, and infections of the genitourinary tract, skin and skin structure and lower respiratory tract have been established in pediatric patients.
 
-The safety and effectiveness of AMOXIL for the treatment of H.Pylori infection have not been established in pediatric patients.
+The safety and effectiveness of AMOXIL for the treatment of H.Pyloriinfection have not been established in pediatric patients.
 
 Because of incompletely developed renal function in neonates and young infants, the elimination of amoxicillin may be delayed.
-Dosing of AMOXIL should be modified in pediatric patients 12 weeks or younger (3 months or younger) [see Dosage and Administration (2.3)].
+Dosing of AMOXIL should be modified in pediatric patients 12 weeks or younger (3 months or younger) [seeDosage and Administration (2.3)].
 
 ## 8.5 Geriatric Use
 

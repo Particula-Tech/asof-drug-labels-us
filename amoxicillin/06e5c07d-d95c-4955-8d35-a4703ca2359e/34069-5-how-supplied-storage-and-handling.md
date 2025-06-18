@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Amoxicillin tablets, USP: Each tablet contains 500 mg or 875 mg amoxicillin as the trihydrate.
+Amoxicillin tablets, USP:Each tablet contains 500 mg or 875 mg amoxicillin as the trihydrate.
 Each film-coated, capsule-shaped, pink tablet is debossed with AMOXIL centered over 500 or 875 on one side, respectively.
 The 875 mg tablet is scored on the reverse side.
 
@@ -39,16 +39,16 @@ NDC 81964-207-52 100-mL bottle
 
 Amoxicillin chewable tablets: USP:
 
-125 mg – Each 125 mg cherry-banana-peppermint flavored tablet contains 125 mg of amoxicillin as the trihydrate.
+125 mg– Each 125 mg cherry-banana-peppermint flavored tablet contains 125 mg of amoxicillin as the trihydrate.
 Each pale pink, oval tablet is imprinted with AMOXIL on one side and 125 on the other.
 
-200 mg – Each 200 mg cherry-banana-peppermint flavored tablet contains 200 mg of amoxicillin as the trihydrate.
+200 mg– Each 200 mg cherry-banana-peppermint flavored tablet contains 200 mg of amoxicillin as the trihydrate.
 Each pale pink, round convex tablet is imprinted with AMOXIL and 200 along the edge of 1 side.
 
-250 mg – Each 250 mg cherry-banana-peppermint flavored tablet contains 250 mg of amoxicillin as the trihydrate.
+250 mg– Each 250 mg cherry-banana-peppermint flavored tablet contains 250 mg of amoxicillin as the trihydrate.
 Each pale pink, oval tablet is imprinted with AMOXIL on one side and 250 on the other.
 
-400 mg – Each 400 mg cherry-banana-peppermint flavored tablet contains 400 mg of amoxicillin as the trihydrate.
+400 mg– Each 400 mg cherry-banana-peppermint flavored tablet contains 400 mg of amoxicillin as the trihydrate.
 Each pale pink, round convex tablet is imprinted with AMOXIL and 400 along the edge of 1 side.
 
 125 mg chewable tablets

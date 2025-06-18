@@ -11,7 +11,7 @@ The effect of food on the absorption of amoxicillin from the tablets and suspens
 
 Orally administered doses of 250 mg and 500 mg amoxicillin capsules result in average peak blood levels 1 to 2 hours after administration in the range of 3.5 mcg/mL to 5.0 mcg/mL and 5.5 mcg/mL to 7.5 mcg/mL, respectively.
 
-Mean amoxicillin pharmacokinetic parameters from an open, two-part, single-dose crossover bioequivalence study in 27 adults comparing 875 mg of AMOXICILLIN with 875 mg of AUGMENTIN ® (amoxicillian//clavulanate potassium) showed that the 875 mg tablet of AMOXIL produces an AUC0-∞ of 35.4 ± 8.1 mcg•hr/mL and a Cmax of 13.8 ± 4.1 mcg/mL.
+Mean amoxicillin pharmacokinetic parameters from an open, two-part, single-dose crossover bioequivalencestudy in 27 adults comparing 875 mg of AMOXICILLIN with 875 mg of AUGMENTIN ®(amoxicillian//clavulanate potassium) showed that the 875 mg tablet of AMOXIL produces an AUC 0-∞ of 35.4 ± 8.1 mcg•hr/mL and a C maxof 13.8 ± 4.1 mcg/mL.
 Dosing was at the start of a light meal following an overnight fast.
 
 Orally administered doses of amoxicillin suspension, 125 mg/5 mL and 250 mg/5 mL, result in average peak blood levels 1 to 2 hours after administration in the range of 1.5 mcg/mL to 3.0 mcg/mL and 3.5 mcg/mL to 5.0 mcg/mL, respectively.
@@ -20,12 +20,12 @@ Oral administration of single doses of 400 mg chewable tablets and 400 mg/5 mL s
 
 Table 4: Mean Pharmacokinetic Parameters of AMOXIL (400 mg chewable tablets and 400 mg/5 mL suspension) in Healthy Adults
 
-| Dose* | AUC0-∞(mcg·hr/mL) | Cmax(mcg/mL)† |
+| Dose* | AUC 0-∞(mcg·hr/mL) | C max(mcg/mL) † |
 | --- | --- | --- |
-| Amoxicillin | Amoxicillin (±S.D.) | Amoxicillin (±S.D.) |
+| Amoxicillin | Amoxicillin (±S.D.) | Amoxicillin (�S.D.) |
 | 400 mg (5 mL of suspension) | 17.1 (3.1) | 5.92 (1.62) |
 | 400 mg (1 chewable tablet) | 17.9 (2.4) | 5.18 (1.64) |
-| *Administered at the start of a light meal.†Mean values of 24 normal volunteers. Peak concentrations occurred approximately 1 hour after the dose. |  |  |
+| *Administered at the start of a light meal. †Mean values of 24 normal volunteers. Peak concentrations occurred approximately 1 hour after the dose. |  |  |
 
 Distribution: Amoxicillin diffuses readily into most body tissues and fluids, with the exception of brain and spinal fluid, except when meninges are inflamed.
 In blood serum, amoxicillin is approximately 20% protein-bound.
@@ -38,7 +38,7 @@ Since most of the amoxicillin is excreted unchanged in the urine, its excretion 
 
 ## 12.4 Microbiology
 
-Mechanism of Action
+Mechanismof Action
 
 Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication.
 It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria.
@@ -49,29 +49,29 @@ Resistance to amoxicillin is mediated primarily through enzymes called beta-lact
 
 Antimicrobial Activity
 
-Amoxicillin has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections [see Indications and Usage (1)].
+Amoxicillin has been shown to be active against most isolates of the following microorganisms, both in vitroand in clinical infections [see Indications and Usage (1)].
 
 Gram-Positive Bacteria
 
-Enterococcus faecalis
+Enterococcusfaecalis
 
-Staphylococcus spp.
+Staphylococcusspp.
 
-Streptococcus pneumoniae
+Streptococcuspneumoniae
 
-Streptococcus spp.
+Streptococcusspp.
 (alpha and beta-hemolytic)
 
 Gram-Negative Bacteria
 
-Escherichia coli
+Escherichiacoli
 
-Haemophilus influenzae
+Haemophilusinfluenzae
 
 Helicobacter pylori
 
 Proteus mirabilis
 
-SusceptibilityTest Methods:
+SusceptibilityTestMethods:
 
 For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.

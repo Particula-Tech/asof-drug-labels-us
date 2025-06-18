@@ -2,29 +2,29 @@
 
 Adults and Pediatric Patients
 
-- Upper Respiratory Tract Infections of the Ear, Nose, and Throat: Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) isolates of Streptococcus species.
-  (α-and ​​β-hemolytic isolates only), Streptococcus pneumoniae, Staphylococcus spp., or Haemophilus influenzae.
+- Upper Respiratory Tract Infectionsofthe Ear, Nose, and Throat:Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) isolates of Streptococcusspecies.
+  (α-and ​​β-hemolytic isolates only), Streptococcus pneumoniae, Staphylococcusspp., or Haemophilus influenzae.
 
-- Infections of the Genitourinary Tract: Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) isolates of Escherichia coli, Proteus mirabilis, or Enterococcus faecalis.
+- InfectionsoftheGenitourinaryTract: Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) isolates of Escherichia coli, Proteus mirabilis, or Enterococcus faecalis.
 
-- Infections of the Skin and Skin Structure: Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) isolates of Streptococcus spp.
-  (α-and ​β-hemolytic isolates only), Staphylococcus spp., or E. coli.
+- Infectionsofthe Skin and Skin Structure:Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) isolates of Streptococcusspp.
+  (α-and ​β-hemolytic isolates only), Staphylococcusspp., or E. coli.
 
-- Infections of the Lower Respiratory Tract: Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) isolates of Streptococcus spp.
-  (α-and β-hemolytic isolates only), S. pneumoniae, Staphylococcus spp., or H. influenzae.
+- Infectionsofthe Lower Respiratory Tract:Amoxicillin is indicated in the treatment of infections due to susceptible (ONLY β-lactamase–negative) isolates of Streptococcusspp.
+  (α-and β-hemolytic isolates only), S. pneumoniae, Staphylococcusspp., or H. influenzae.
 
 Adults Patients only
 
-- Helicobacter pylori Infection and Duodenal Ulcer Disease:
+- Helicobacter pyloriInfection and Duodenal Ulcer Disease:
 
-Triple therapy for Helicobacter pylori (H. pylori) with clarithromycin and lansoprazole:
+Triple therapy for Helicobacter pylori (H. pylori)with clarithromycin and lansoprazole:
 
-Amoxicillin, in combination with clarithromycin plus lansoprazole as triple therapy, is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or 1-year history of a duodenal ulcer) to eradicate H. pylori.
-Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
+Amoxicillin, in combination with clarithromycin plus lansoprazole as triple therapy, is indicated for the treatment of patients with H. pyloriinfection and duodenal ulcer disease (active or 1-year history of a duodenal ulcer) to eradicate H. pylori.
+Eradication of H. pylorihas been shown to reduce the risk of duodenal ulcer recurrence.
 
-Dual therapy for H. pylori with lansoprazole: Amoxicillin, in combination with lansoprazole delayed-release capsules as dual therapy, is indicated for the treatment of patients with H. pylori infection and duodenal ulcer disease (active or 1-year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected.
+Dual therapy for H. pyloriwith lansoprazole: Amoxicillin, in combination with lansoprazole delayed-release capsules as dual therapy, is indicated for the treatment of patients with H. pyloriinfection and duodenal ulcer disease (active or 1-year history of a duodenal ulcer) who are either allergic or intolerant to clarithromycin or in whom resistance to clarithromycin is known or suspected.
 (See the clarithromycin package insert, MICROBIOLOGY.)
-Eradication of H. pylori has been shown to reduce the risk of duodenal ulcer recurrence.
+Eradication of H. pylorihas been shown to reduce the risk of duodenal ulcer recurrence.
 
 Usage
 
