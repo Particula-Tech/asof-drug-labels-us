@@ -29,7 +29,7 @@ Table 6: Percent Reduction in Partial-Onset Seizure Frequency over Placebo (Stud
 | 100 mg/day (n=100) | 17.0 |
 | STUDY 2 |  |
 | Placebo (n=96) | ------- |
-| 50 mg/day (n=101) | 16.9Statistically significant based on testing procedure with alpha = 0.05 |
+| 50 mg/day (n=101) | 16.9 Statistically significant based on testing procedure with alpha = 0.05 |
 | STUDY 3Based upon 28-day seizure frequency |  |
 | Placebo (n=259) | ------ |
 | 100 mg/day (n=252) | 25.2 |

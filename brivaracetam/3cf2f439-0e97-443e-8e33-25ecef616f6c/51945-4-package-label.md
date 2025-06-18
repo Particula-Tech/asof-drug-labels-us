@@ -2,7 +2,7 @@
 
 NDC 50474-370-66 Rx only
 
-BRIVIACT® (brivaracetam) tablets
+BRIVIACT ® (brivaracetam) tablets
 
 CV
 
@@ -16,7 +16,7 @@ ATTENTION PHARMACIST: Dispense accompanying medication guide to each patient.
 
 NDC 50474-470-66 Rx only
 
-BRIVIACT® (brivaracetam) tablets
+BRIVIACT ® (brivaracetam) tablets
 
 CV
 
@@ -30,7 +30,7 @@ ATTENTION PHARMACIST: Dispense accompanying medication guide to each patient.
 
 NDC 50474-570-66 Rx only
 
-BRIVIACT® (brivaracetam) tablets
+BRIVIACT ® (brivaracetam) tablets
 
 CV
 
@@ -44,7 +44,7 @@ ATTENTION PHARMACIST: Dispense accompanying medication guide to each patient.
 
 NDC 50474-670-66 Rx only
 
-BRIVIACT® (brivaracetam) tablets
+BRIVIACT ® (brivaracetam) tablets
 
 CV
 
@@ -58,7 +58,7 @@ ATTENTION PHARMACIST: Dispense accompanying medication guide to each patient.
 
 NDC 50474-770-66 Rx only
 
-BRIVIACT® (brivaracetam) tablets
+BRIVIACT ® (brivaracetam) tablets
 
 CV
 
@@ -72,7 +72,7 @@ ATTENTION PHARMACIST: Dispense accompanying medication guide to each patient.
 
 NDC 50474-870-15 Rx only
 
-BRIVIACT® (brivaracetam) oral solution CV
+BRIVIACT ® (brivaracetam) oral solution CV
 
 10 mg/mL
 
@@ -84,7 +84,7 @@ ATTENTION PHARMACIST: Dispense accompanying medication guide to each patient
 
 NDC 50474-970-75 Rx only
 
-BRIVIACT® (brivaracetam) injection CV 50 mg/5 mL (10 mg/mL)
+BRIVIACT ® (brivaracetam) injection CV 50 mg/5 mL (10 mg/mL)
 
 For Intravenous Use Only
 

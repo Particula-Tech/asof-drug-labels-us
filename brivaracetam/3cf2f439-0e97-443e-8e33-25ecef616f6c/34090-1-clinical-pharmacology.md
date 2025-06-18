@@ -28,9 +28,9 @@ Absorption
 
 Brivaracetam is highly permeable and is rapidly and almost completely absorbed after oral administration.
 Pharmacokinetics is dose-proportional from 10 to 600 mg (a range that extends beyond the minimum and maximum single-administration dose levels described in Dosage and Administration [see Dosage and Administration (2.1)]).
-The median Tmax for tablets taken without food is 1 hour (range 0.25 to 3 hours).
+The median T maxfor tablets taken without food is 1 hour (range 0.25 to 3 hours).
 Co-administration with a high-fat meal slowed absorption, but the extent of absorption remained unchanged.
-Specifically, when a 50 mg tablet was administered with a high-fat meal, Cmax (maximum brivaracetam plasma concentration during a dose interval, an exposure metric) was decreased by 37% and Tmax was delayed by 3 hours, but AUC (area under the brivaracetam plasma concentration versus time curve, an exposure metric) was essentially unchanged (decreased by 5%).
+Specifically, when a 50 mg tablet was administered with a high-fat meal, C max(maximum brivaracetam plasma concentration during a dose interval, an exposure metric) was decreased by 37% and T maxwas delayed by 3 hours, but AUC (area under the brivaracetam plasma concentration versus time curve, an exposure metric) was essentially unchanged (decreased by 5%).
 
 Distribution
 
@@ -57,7 +57,7 @@ More than 95% of the dose, including metabolites, is excreted in the urine withi
 Fecal excretion accounts for less than 1% of the dose.
 Less than 10% of the dose is excreted unchanged in the urine.
 Thirty-four percent of the dose is excreted as the carboxylic acid metabolite in urine.
-The terminal plasma half-life (t1/2) is approximately 9 hours.
+The terminal plasma half-life (t 1/2) is approximately 9 hours.
 
 Specific Populations
 
@@ -71,7 +71,7 @@ A weight-based dosing regimen is necessary to achieve brivaracetam exposures in 
 The estimated plasma clearance was 1.09 L/h, 1.81 L/h, and 3.11 L/h for pediatric patients weighing 11 kg, 20 kg, and 50 kg, respectively.
 In comparison, plasma clearance was estimated at 3.58 L/h in adult patients (70 kg body weight).
 
-Geriatric Population: In a study in elderly subjects (65 to 79 years old; creatinine clearance 53 to 98 mL/min/1.73 m2) receiving BRIVIACT 200 mg twice daily (2 times the highest recommended dosage), the plasma half-life of brivaracetam was 7.9 hours and 9.3 hours in the 65 to 75 and >75 years groups, respectively.
+Geriatric Population: In a study in elderly subjects (65 to 79 years old; creatinine clearance 53 to 98 mL/min/1.73 m 2) receiving BRIVIACT 200 mg twice daily (2 times the highest recommended dosage), the plasma half-life of brivaracetam was 7.9 hours and 9.3 hours in the 65 to 75 and >75 years groups, respectively.
 The steady-state plasma clearance of brivaracetam was slightly lower (0.76 mL/min/kg) than in young healthy controls (0.83 mL/min/kg).
 
 Sex
@@ -84,14 +84,14 @@ A population pharmacokinetic analysis comparing Caucasian and non-Caucasian pati
 
 Renal Impairment
 
-A study in adult subjects with severe renal impairment (creatinine clearance <30 mL/min/1.73m2 and not requiring dialysis) revealed that the plasma AUC of brivaracetam was moderately increased (21%) relative to healthy controls, while the AUCs of the acid, hydroxy, and hydroxyacid metabolites were increased 3-fold, 4-fold, and 21-fold, respectively.
+A study in adult subjects with severe renal impairment (creatinine clearance <30 mL/min/1.73m 2and not requiring dialysis) revealed that the plasma AUC of brivaracetam was moderately increased (21%) relative to healthy controls, while the AUCs of the acid, hydroxy, and hydroxyacid metabolites were increased 3-fold, 4-fold, and 21-fold, respectively.
 The renal clearance of these inactive metabolites was decreased 10-fold.
 Brivaracetam has not been studied in patients undergoing hemodialysis [see Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 
 A pharmacokinetic study in adult subjects with hepatic cirrhosis, Child-Pugh grades A, B, and C, showed 50%, 57%, and 59% increases in brivaracetam exposure, respectively, compared to matched healthy controls.
-The effect of hepatic impairment on brivaracetam pharmacokinetics in pediatric patients is expected to be comparable to the effect observed in adults [see Dosage and Administration (2.5) and Use in Specific Populations (8.7)].
+The effect of hepatic impairment on brivaracetam pharmacokinetics in pediatric patients is expected to be comparable to the effect observed in adults [see Dosage and Administration (2.5)and Use in Specific Populations (8.7)].
 
 Drug Interaction Studies
 
@@ -101,7 +101,7 @@ Drug-Metabolizing Enzyme Inhibition
 
 Brivaracetam did not inhibit CYP1A2, 2A6, 2B6, 2C8, 2C9, 2D6, or 3A4.
 Brivaracetam weakly inhibited CYP2C19 and would not be expected to cause significant inhibition of CYP2C19 in humans.
-Brivaracetam was an inhibitor of epoxide hydrolase, (IC50 = 8.2 μM), suggesting that brivaracetam can inhibit the enzyme in vivo.
+Brivaracetam was an inhibitor of epoxide hydrolase, (IC 50= 8.2 μM), suggesting that brivaracetam can inhibit the enzyme in vivo.
 
 Drug-Metabolizing Enzyme Induction
 
@@ -119,7 +119,7 @@ Drug Interaction Studies with Antiepileptic Drugs (AEDs)
 
 Potential interactions between BRIVIACT (25 mg twice daily to 100 mg twice daily) and other AEDs were investigated in a pooled analysis of plasma drug concentrations from all Phase 2 and 3 studies and in a population exposure-response analysis of placebo-controlled, Phase 3 studies in adjunctive therapy in the treatment of partial-onset seizures.
 None of the interactions require changes in the dose of BRIVIACT.
-Interactions with carbamazepine and phenytoin can be clinically important [see Drug Interactions (7.2) and (7.3)].
+Interactions with carbamazepine and phenytoin can be clinically important [see Drug Interactions (7.2)and (7.3)].
 The interactions are summarized in Table 5.
 
 Table 5: Drug Interactions Between BRIVIACT and Concomitant Antiepileptic Drugs
@@ -127,13 +127,13 @@ Table 5: Drug Interactions Between BRIVIACT and Concomitant Antiepileptic Drugs
 | Concomitant AED | Influence of AED on BRIVIACT | Influence of BRIVIACT on AED |
 | --- | --- | --- |
 | Carbamazepine | 26% decrease in plasma concentration | None for carbamazepine |
-|  |  | Increase of carbamazepine-epoxide metaboliteBrivaracetam is a reversible inhibitor of epoxide hydrolase resulting in an increased concentration of carbamazepine epoxide, an active metabolite of carbamazepine. The carbamazepine epoxide plasma concentration increased up to 198% at a BRIVIACT dose of 100 mg twice daily. [see Drug Interactions (7.2)] |
+|  |  | Increase of carbamazepine-epoxide metabolite Brivaracetam is a reversible inhibitor of epoxide hydrolase resulting in an increased concentration of carbamazepine epoxide, an active metabolite of carbamazepine. The carbamazepine epoxide plasma concentration increased up to 198% at a BRIVIACT dose of 100 mg twice daily. [see Drug Interactions (7.2)] |
 | Lacosamide | No data | None |
 | Lamotrigine | None | None |
 | Levetiracetam | None | None |
 | Oxcarbazepine | None | None on the active monohydroxy metabolite derivative (MHD) |
 | Phenobarbital | 19% decrease in plasma concentration | None |
-| Phenytoin | 21% decrease in plasma concentration | Up to 20% increase in plasma concentration [see Drug Interactions (7.3)]At a supratherapeutic dose of 400 mg/day brivaracetam, there was a 20% increase in phenytoin plasma concentration. |
+| Phenytoin | 21% decrease in plasma concentration | Up to 20% increase in plasma concentration [see Drug Interactions (7.3)] At a supratherapeutic dose of 400 mg/day brivaracetam, there was a 20% increase in phenytoin plasma concentration. |
 | Pregabalin | No data | None |
 | Topiramate | None | None |
 | Valproic acid | None | None |
@@ -145,7 +145,7 @@ Effect of Other Drugs on BRIVIACT
 
 Co-administration with CYP inhibitors or transporter inhibitors is unlikely to significantly affect brivaracetam exposure.
 
-Co-administration with rifampin decreases brivaracetam plasma concentrations by 45%, an effect that is probably the result of CYP2C19 induction [see Dosage and Administration (2.6) and Drug Interactions (7.1)].
+Co-administration with rifampin decreases brivaracetam plasma concentrations by 45%, an effect that is probably the result of CYP2C19 induction [see Dosage and Administration (2.6)and Drug Interactions (7.1)].
 
 Oral Contraceptives
 

@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-The chemical name of BRIVIACT (brivaracetam) is (2S)-2-[(4R)-2-oxo-4-propyltetrahydro-1H-pyrrol-1-yl] butanamide.
-Its molecular formula is C11H20N2O2 and its molecular weight is 212.29.
+The chemical name of BRIVIACT (brivaracetam) is (2S)-2-[(4R)-2-oxo-4-propyltetrahydro-1 H-pyrrol-1-yl] butanamide.
+Its molecular formula is C 11H 20N 2O 2and its molecular weight is 212.29.
 The chemical structure is:
 
 Brivaracetam is a white to off-white crystalline powder.

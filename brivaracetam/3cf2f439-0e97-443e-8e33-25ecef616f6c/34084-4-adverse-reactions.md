@@ -14,7 +14,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 In all controlled and uncontrolled trials performed in adult epilepsy patients, BRIVIACT was administered as adjunctive therapy to 2437 patients.
 Of these patients, 1929 were treated for at least 6 months, 1500 for at least 12 months, 1056 for at least 24 months, and 758 for at least 36 months.
-A total of 1558 patients (1099 patients treated with BRIVIACT and 459 patients treated with placebo) constituted the safety population in the pooled analysis of Phase 3 placebo-controlled studies in patients with partial-onset seizures (Studies 1, 2, and 3) [see Clinical Studies (14)].
+A total of 1558 patients (1099 patients treated with BRIVIACT and 459 patients treated with placebo) constituted the safety population in the pooled analysis of Phase 3 placebo-controlled studies in patients with partial-onset seizures (Studies 1, 2, and 3) [seeClinical Studies (14)].
 The adverse reactions presented in Table 4 are based on this safety population; the median length of treatment in these studies was 12 weeks.
 Of the patients in those studies, approximately 51% were male, 74% were Caucasian, and the mean age was 38 years.
 
@@ -36,7 +36,7 @@ Table 4: Adverse Reactions in Pooled Placebo-Controlled Adjunctive Therapy Studi
 | Somnolence and sedation | 16 | 8 |
 | Dizziness | 12 | 7 |
 | Fatigue | 9 | 4 |
-| Cerebellar coordination and balance disturbancesCerebellar coordination and balance disturbances includes ataxia, balance disorder, coordination abnormal, and nystagmus. | 3 | 1 |
+| Cerebellar coordination and balance disturbances Cerebellar coordination and balance disturbances includes ataxia, balance disorder, coordination abnormal, and nystagmus. | 3 | 1 |
 | Psychiatric disorders |  |  |
 | Irritability | 3 | 1 |
 
@@ -52,7 +52,7 @@ Decreased appetite was also observed in these pediatric trials.
 Hematologic Abnormalities
 
 BRIVIACT can cause hematologic abnormalities.
-In the Phase 3 controlled adjunctive epilepsy studies, a total of 1.8% of BRIVIACT-treated patients and 1.1% of placebo-treated patients had at least one clinically significant decreased white blood cell count (<3.0 × 109/L), and 0.3% of BRIVIACT-treated patients and 0% of placebo-treated patients had at least one clinically significant decreased neutrophil count (<1.0 × 109/L).
+In the Phase 3 controlled adjunctive epilepsy studies, a total of 1.8% of BRIVIACT-treated patients and 1.1% of placebo-treated patients had at least one clinically significant decreased white blood cell count (<3.0 × 10 9/L), and 0.3% of BRIVIACT-treated patients and 0% of placebo-treated patients had at least one clinically significant decreased neutrophil count (<1.0 × 10 9/L).
 
 Adverse Reactions with BRIVIACT Injection
 

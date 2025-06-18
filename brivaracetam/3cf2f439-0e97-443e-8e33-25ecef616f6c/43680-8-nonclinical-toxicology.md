@@ -11,7 +11,7 @@ At the highest dose not associated with an increase in thymus tumors, plasma exp
 
 Mutagenesis
 
-Brivaracetam was negative for genotoxicity in in vitro (Ames, mouse lymphoma, and CHO chromosomal aberration) and in vivo (rat bone marrow micronucleus) assays.
+Brivaracetam was negative for genotoxicity in in vitro(Ames, mouse lymphoma, and CHO chromosomal aberration) and in vivo(rat bone marrow micronucleus) assays.
 
 Impairment of Fertility
 

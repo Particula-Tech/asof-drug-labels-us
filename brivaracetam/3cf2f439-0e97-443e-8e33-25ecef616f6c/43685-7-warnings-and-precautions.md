@@ -56,7 +56,7 @@ In the Phase 3 controlled adjunctive epilepsy trials, psychiatric adverse reacti
 Psychiatric events included both non-psychotic symptoms (irritability, anxiety, nervousness, aggression, belligerence, anger, agitation, restlessness, depression, depressed mood, tearfulness, apathy, altered mood, mood swings, affect lability, psychomotor hyperactivity, abnormal behavior, and adjustment disorder) and psychotic symptoms (psychotic disorder along with hallucination, paranoia, acute psychosis, and psychotic behavior).
 A total of 1.7% of adult patients treated with BRIVIACT discontinued treatment because of psychiatric reactions compared to 1.3% of patients who received placebo.
 
-Psychiatric adverse reactions were also observed in open-label pediatric trials and were generally similar to those observed in adults [see Adverse Reactions (6.1) and Use in Specific Populations (8.4)].
+Psychiatric adverse reactions were also observed in open-label pediatric trials and were generally similar to those observed in adults [see Adverse Reactions (6.1)and Use in Specific Populations (8.4)].
 
 ## 5.4 Hypersensitivity: Bronchospasm and Angioedema
 
@@ -67,5 +67,5 @@ BRIVIACT is contraindicated in patients with a prior hypersensitivity reaction t
 
 ## 5.5 Withdrawal of Antiepileptic Drugs
 
-As with most antiepileptic drugs, BRIVIACT should generally be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Dosage and Administration (2.4) and Clinical Studies (14)].
+As with most antiepileptic drugs, BRIVIACT should generally be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Dosage and Administration (2.4)and Clinical Studies (14)].
 But if withdrawal is needed because of a serious adverse event, rapid discontinuation can be considered.
