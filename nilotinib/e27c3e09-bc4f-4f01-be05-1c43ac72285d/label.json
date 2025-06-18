@@ -1,0 +1,28 @@
+{
+  "application_numbers": [
+    "NDA218922"
+  ],
+  "inn": "nilotinib",
+  "labeler": "Cipla USA Inc.",
+  "package_ndcs": [
+    "69097-030-08",
+    "69097-030-63",
+    "69097-031-56",
+    "69097-031-73",
+    "69097-031-74",
+    "69097-031-91",
+    "69097-032-56",
+    "69097-032-73",
+    "69097-032-74",
+    "69097-032-91"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nilotinib",
+      "name": "Nilotinib"
+    }
+  ],
+  "setid": "e27c3e09-bc4f-4f01-be05-1c43ac72285d",
+  "source": "dailymed"
+}

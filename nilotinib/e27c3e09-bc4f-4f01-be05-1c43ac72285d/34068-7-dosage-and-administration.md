@@ -1,0 +1,150 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+## 2.1 Recommended Dosage
+
+Dosage in Adult Patients with Newly Diagnosed Ph+ CML-CP
+
+The recommended dosage of Nilotinib Capsules is 300 mg orally twice daily.
+
+Dosage in Adult Patients with Resistant or Intolerant Ph+ CML-CP and CML-AP
+
+The recommended dosage of Nilotinib Capsules is 400 mg orally twice daily.
+
+Additional Administration Instructions
+
+Dose Nilotinib Capsules twice daily at approximately 12-hour intervals on an empty stomach.
+No food should be consumed for at least 2 hours before the dose is taken and for at least 1 hour after the dose is taken.
+Advise patients to swallow the capsules whole with water and not open the capsules [see Boxed Warning, Clinical Pharmacology (12.3)].
+If a dose of Nilotinib Capsules is missed, the patient should take the next scheduled dose at its regular time.
+The patient should not take two doses at the same time.
+
+Optional Concomitant Therapy
+
+Nilotinib Capsules may be given in combination with hematopoietic growth factors, such as erythropoietin or G-CSF if clinically indicated.
+Nilotinib Capsules may be given with hydroxyurea or anagrelide if clinically indicated.
+
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s Tasigna® (nilotinib) capsules.
+However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+## 2.2 Discontinuation of Treatment After a Sustained Molecular Response (MR4.5) on Nilotinib Capsules
+
+Patient Selection
+
+Eligibility for Discontinuation of Treatment
+
+Ph+ CML-CP patients with typical BCR-ABL transcripts, who have been taking Nilotinib Capsules for a minimum of 3 years and have achieved a sustained molecular response (MR4.5, corresponding to = BCR-ABL/ABL ≤ 0.0032% IS), may be eligible for treatment discontinuation [see Clinical Studies (14.3, 14.4)].
+Information on FDA authorized tests for the detection and quantitation of BCR-ABL transcripts to determine eligibility for treatment discontinuation is available at http://www.fda.gov/CompanionDiagnostics.
+
+Patients with typical BCR-ABL transcripts (e13a2/b2a2 or e14a2/b3a2), who achieve the sustained MR4.5 criteria, are eligible for discontinuation of Nilotinib Capsules.
+Patients must continue to be monitored for possible loss of molecular remission after treatment discontinuation.
+Use the same FDA-authorized test to consistently monitor molecular response levels while on and off treatment.
+
+Consider discontinuation in patients with newly diagnosed Ph+ CML-CP who have:
+
+- been treated with Nilotinib Capsules for at least 3 years
+- maintained a molecular response of at least MR4.0 (corresponding to = BCR-ABL/ABL ≤ 0.01% IS) for one year prior to discontinuation of therapy
+- achieved an MR4.5 for the last assessment taken immediately prior to discontinuation of therapy
+- been confirmed to express the typical BCR-ABL transcripts (e13a2/b2a2 or e14a2/b3a2)
+- no history of accelerated phase or blast crisis
+- no history of prior attempts of treatment-free remission discontinuation that resulted in relapse.
+
+Consider discontinuation in patients with Ph+ CML-CP that are resistant or intolerant to imatinib who have achieved a sustained molecular response (MR4.5) on Nilotinib Capsules who have:
+
+- been treated with Nilotinib Capsules for a minimum of 3 years
+- been treated with imatinib only prior to treatment with Nilotinib Capsules
+- achieved a molecular response of MR4.5 (corresponding to = BCR-ABL/ABL ≤ 0.0032% IS)
+- sustained an MR4.5 for a minimum of one year immediately prior to discontinuation of therapy
+- been confirmed to express the typical BCR-ABL transcripts (e13a2/b2a2 or e14a2/b3a2)
+- no history of accelerated phase or blast crisis
+- no history of prior attempts of treatment-free remission discontinuation that resulted in relapse.
+
+Monitor BCR-ABL transcript levels and complete blood count (CBC) with differential in patients who have discontinued Nilotinib Capsules therapy monthly for one year, then every 6 weeks for the second year, and every 12 weeks thereafter [see Warnings and Precautions (5.16)].
+
+Upon the loss of MR4.0 (corresponding to = BCR-ABL/ABL ≤ 0.01% IS) during the treatment-free phase, monitor BCR-ABL transcript levels every 2 weeks until BCR-ABL levels remain lower than major molecular response [(MMR), corresponding to MR3.0 or = BCR-ABL/ABL ≤ 0.1% IS] for 4 consecutive measurements.
+The patient can then proceed to the original monitoring schedule.
+
+## 2.3 Reinitiation of Treatment in Patients Who Lose Molecular Response After Discontinuation of Therapy With Nilotinib Capsules
+
+- Newly diagnosed patients who lose MMR must reinitiate treatment within 4 weeks at the dose level prior to discontinuation of therapy [see Warnings and Precautions (5.16)].
+  Patients who reinitiate Nilotinib Capsules therapy should have their BCR-ABL transcript levels monitored monthly until major molecular response is re-established and every 12 weeks thereafter.
+- Patients resistant or intolerant to prior treatment that included imatinib with confirmed loss of MR4.0 (2 consecutive measures separated by at least 4 weeks showing loss of MR4.0) or loss of MMR must reinitiate treatment within 4 weeks at the dose level prior to discontinuation of therapy [see Warnings and Precautions (5.16)].
+  Patients who reinitiate Nilotinib Capsules therapy should have their BCR-ABL transcript levels monitored monthly until previous major molecular response or MR4.0 is re-established and every 12 weeks thereafter.
+
+## 2.4 Dosage Modification for QT Interval Prolongation
+
+See Table 2 for dose adjustments for QT interval prolongation [see Warnings and Precautions (5.2), Clinical Pharmacology (12.2)].
+
+Table 2: Dosage Adjustments for Adult Patients With QT Prolongation
+
+| Degree of QTc prolongation | Dosage adjustment |
+| --- | --- |
+| ECGs with a QTc greater than 480 msec | Withhold Nilotinib Capsules, and perform an analysis of serum potassium and magnesium, and if below lower limit of normal, correct with supplements to within normal limits. Concomitant medication usage must be reviewed.Resume within 2 weeks at prior dose if QTcF returns to less than 450 msec and to within 20 msec of baseline.If QTcF is between 450 msec and 480 msec after 2 weeks, reduce the dose to 400 mg once daily in adults.Discontinue Nilotinib Capsules if, following dose-reduction to 400 mg once daily in adults, QTcF returns to greater than 480 msec.An ECG should be repeated approximately 7 days after any dose adjustment. |
+| Abbreviation: ECG, electrocardiogram. |  |
+
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s Tasigna® (nilotinib) capsules.
+However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+## 2.5 Dosage Modifications for Myelosuppression
+
+Withhold or reduce Nilotinib Capsules dosage for hematological toxicities (neutropenia, thrombocytopenia) that are not related to underlying leukemia (Table 3) [see Warnings and Precautions (5.1)].
+
+Table 3: Dosage Adjustments for Neutropenia and Thrombocytopenia
+
+| Diagnosis | Degree of myelosuppression | Dosage adjustment |
+| --- | --- | --- |
+| Adult patients with: Newly diagnosed Ph+ CML in chronic phase at 300 mg twice daily Resistant or intolerant Ph+ CML in chronic phase or accelerated phase at 400 mg twice daily | ANC less than 1 x 109/L and/or platelet counts less than 50 x 109/L | Stop Nilotinib Capsules, and monitor blood counts. Resume within 2 weeks at prior dose if ANC greater than 1 x 109/L and platelets greater than 50 x 109/L. If blood counts remain low for greater than 2 weeks, reduce the dose to 400 mg once daily. |
+| Abbreviations: ANC, absolute neutrophil count; Ph+ CML, Philadelphia chromosome positive chronic myeloid leukemia. |  |  |
+
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s Tasigna® (nilotinib) capsules.
+However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+## 2.6 Dosage Modifications for Selected Non-Hematologic Laboratory Abnormalities and Other Toxicities
+
+See Table 4 for dosage adjustments for elevations of lipase, amylase, bilirubin, and/or hepatic transaminases [see Warnings and Precautions (5.5, 5.6), Adverse Reactions (6.1)].
+
+Table 4: Dosage Adjustments for Selected Non-Hematologic Laboratory Abnormalities
+
+| Degree of non-hematologic laboratory abnormality | Dosage adjustment |
+| --- | --- |
+| Elevated serum | Adult patients: 1. Withhold Nilotinib Capsules and monitor serum lipase or amylase. 2. Resume treatment at 400 mg once daily if serum lipase or amylase returns to less than or equal to Grade 1. |
+| lipase or amylase greater than or |  |
+| equal to Grade 3 |  |
+| Elevated bilirubin | Adult patients: 1. Withhold Nilotinib Capsules and monitor bilirubin. 2. Resume treatment at 400 mg once daily if bilirubin returns to less than or equal to Grade 1. |
+| greater than or equal to Grade 3 |  |
+| in adult patients |  |
+| Elevated hepatic | Adult patients: 1. Withhold Nilotinib Capsules and monitor hepatic transaminases. 2. Resume treatment at 400 mg once daily if hepatic transaminases returns to less than or equal to Grade 1. |
+| transaminases |  |
+| greater than or equal to Grade 3 |  |
+
+If clinically significant moderate or severe non-hematologic toxicity develops (including medically severe fluid retention), see Table 5 for dosage adjustments [see Adverse Reactions (6.1)].
+
+Table 5: Dosage Adjustments for Other Non-Hematologic Toxicities
+
+| Degree of “other Non-hematologic toxicity” | Dosage adjustment |
+| --- | --- |
+| Other clinically moderate or severe non-hematologic toxicity | Adult patients: |
+| Withhold Nilotinib Capsules until toxicity has resolved. Resume treatment at 400 mg once daily if previous dose was 300 mg twice daily in adult patients newly diagnosed with CML-CP or 400 mg twice daily in adult patients with resistant or intolerant CML-CP and CML-AP. Discontinue treatment if the prior dose was 400 mg once daily in adult patients.If clinically appropriate, consider re-escalation of the dose to 300 mg (newly diagnosed Ph+ CML-CP) or 400 mg (resistant or intolerant Ph+ CML-CP and CML-AP) twice daily. |  |
+| Abbreviations: CML-AP, chronic myeloid leukemia-accelerated phase; CML-CP, chronic myeloid leukemia-chronic phase; Ph+, Philadelphia chromosome positive. |  |
+
+Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation’s Tasigna® (nilotinib) capsules.
+However, due to Novartis Pharmaceuticals Corporation’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+
+## 2.7 Recommended Nilotinib Capsules Dosage in Patients with Hepatic Impairment
+
+If possible, consider alternative therapies.
+If Nilotinib Capsules must be administered to patients with hepatic impairment, the recommended Nilotinib Capsules dosage is provided in Table 6 [see Use in Specific Populations (8.7)].
+
+Table 6: Dose Adjustments for Adult Patients With Hepatic Impairment
+
+| Diagnosis | Degree of hepatic impairment | Dosage adjustment |
+| --- | --- | --- |
+| Newly diagnosed Ph+ CML in chronic phase | Mild (Child-Pugh A), Moderate (Child-Pugh B), or Severe (Child-Pugh C) | Reduce Nilotinib Capsules dosage to 200 mg twice daily. Increase Nilotinib Capsules dosage to 300 mg twice daily based on tolerability. |
+| Resistant or intolerant Ph+ CML in chronic phase or accelerated phase | Mild or Moderate | Reduce Nilotinib Capsules dosage to 300 mg twice daily. Increase Nilotinib Capsules dosage to 400 mg twice daily based on tolerability. |
+| Severe | Reduce Nilotinib Capsules dosage to 200 mg twice daily. Increase Nilotinib Capsules dosage to 300 mg twice daily and then to 400 mg twice daily based on tolerability. |  |
+
+## 2.8 Dosage Modification for Strong CYP3A4 Inhibitors
+
+Avoid the concomitant use of strong CYP3A4 inhibitors.
+If concomitant use is required, reduce Nilotinib Capsules dosage to 300 mg once daily in patients with resistant or intolerant Ph+ CML or to 200 mg once daily in patients with newly diagnosed Ph+ CML-CP.
+If the strong inhibitor is discontinued, allow a washout period of 5 half-lives before adjusting Nilotinib Capsules dose upward to the indicated dose.
+For patients who cannot avoid use of strong CYP3A4 inhibitors, monitor closely for prolongation of the QT interval [see Boxed Warning, Warnings and Precautions (5.2), Drug Interactions (7.1, 7.2), Clinical Pharmacology (12.3)].
