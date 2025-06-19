@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA065436"
+  ],
+  "inn": "minocycline",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-887-90",
+    "62135-888-60",
+    "62135-889-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "minocycline hydrochloride",
+      "name": "Minocycline Hydrochloride"
+    }
+  ],
+  "setid": "43fbe7ff-4b67-474d-bf27-e5710d8d10ac",
+  "source": "dailymed"
+}
