@@ -18,4 +18,4 @@ Manufactured for: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 Made in Taiwan
 
 Rev.
-12-2024-08
+06-2025-09
