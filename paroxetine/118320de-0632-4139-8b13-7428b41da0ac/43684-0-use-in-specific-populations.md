@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants, including paroxetine, during pregnancy.
-Healthcare providers are encouraged to advise patients to register by calling the National Pregnancy Registry for Antidepressants 1-866- 961-2388 or visiting online at https://womensmentalhealth.org/clinical-and-researchprograms/pregnancyregistry/antidepressants/.
+Healthcare providers are encouraged to advise patients to register by calling the National Pregnancy Registry for Antidepressants 1-866-961-2388 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 
 Risk Summary
 

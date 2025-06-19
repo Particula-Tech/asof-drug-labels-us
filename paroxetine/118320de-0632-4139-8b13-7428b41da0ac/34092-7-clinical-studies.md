@@ -85,7 +85,6 @@ The effectiveness of paroxetine in the treatment of generalized anxiety disorder
 
 Study 1 was an 8-week study comparing fixed doses of paroxetine 20 mg or 40 mg daily with placebo.
 Doses of paroxetine 20 mg or 40 mg were both demonstrated to be statistically significantly superior to placebo on the Hamilton Rating Scale for Anxiety (HAM-A) total score.
-
 There was not sufficient evidence in this study to suggest a greater benefit for the paroxetine 40 mg daily dose compared to the 20 mg daily dose.
 
 Study 2 was a flexible-dose study comparing paroxetine 20 mg to 50 mg daily and placebo.

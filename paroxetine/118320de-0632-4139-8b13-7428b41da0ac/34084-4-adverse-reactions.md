@@ -91,7 +91,7 @@ Adverse Reactions (≥2% of Paroxetine-Treated Patients and Greater than Placebo
 | Body as a Whole Asthenia Abdominal Pain Chest Pain Back Pain Chills Trauma | 22 - 3 - 2 — | 14 - 2 - 1 — | 14 4 - 3 2 — | 5 3 - 2 1 — | 22 — - - — 3 | 14 — - - — 1 |
 | Cardiovascular Vasodilation Palpitation | 4 2 | 1 0 | — — | — — | — — | — — |
 | Dermatologic Sweating Rash | 9 3 | 3 2 | 14 — | 6 — | 9 — | 2 — |
-| Gastrointestinal Nausea Dry Mouth Constipation Diarrhea Decreased Appetite Dyspepsia Flatulence Increased Appetite Vomiting | 23 18 16 10 9 - - 4 - | 10 9 6 10 3 - - 3 - | 23 18 8 12 7 - - 2 - | 17 11 5 7 3 - - 1 - | 25 9 5 9 8 4 - 2 | 7 3 2 6 2 2 2 - 1 |
+| Gastrointestinal Nausea Dry Mouth Constipation Diarrhea Decreased Appetite Dyspepsia Flatulence Increased Appetite Vomiting | 23 18 16 10 9 - - 4 - | 10 9 6 10 3 - - 3 - | 23 18 8 12 7 - - 2 - | 17 11 5 7 3 - - 1 - | 25 9 5 9 8 4 4 - 2 | 7 3 2 6 2 2 2 - 1 |
 | Musculoskeletal Myalgia | — | — | — | — | 4 | 3 |
 | Nervous System Insomnia Somnolence Dizziness Tremor Nervousness Libido Decreased Agitation Anxiety Abnormal Dreams Concentration Impaired Depersonalization Myoclonus Amnesia | 24 24 12 11 9 7 — — 4 3 3 3 2 | 13 7 6 1 8 4 — — 1 2 0 0 1 | 18 19 14 9 — 9 5 5 — — — 3 - | 10 11 10 1 — 1 4 4 — — — 2 - | 21 22 11 9 8 12 3 5 — 4 — 2 - | 16 5 7 1 7 1 1 4 — 1 — 1 - |
 | Respiratory System Rhinitis Pharyngitis Yawn | - — - | - — - | 3 — - | 0 — - | - 4 5 | - 2 1 |

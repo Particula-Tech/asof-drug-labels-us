@@ -1,8 +1,7 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
-Sexual Dysfunction Advise patients that use of paroxetine may cause symptoms of sexual dysfunction in both male and female patients.
-Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.13)].
+
 Suicidal Thoughts and Behaviors
 
 Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down, and instruct them to report such symptoms to the healthcare provider [see Boxed Warning and Warnings and Precautions (5.1)].
@@ -29,6 +28,12 @@ Discontinuation Syndrome
 
 Advise patients not to abruptly discontinue paroxetine and to discuss any tapering regimen with their healthcare provider.
 Inform patients that adverse reactions can occur when paroxetine is discontinued [See Warnings and Precautions (5.7)].
+
+Sexual Dysfunction
+
+Advise patients that use of paroxetine may cause symptoms of sexual dysfunction in both male and female patients.
+Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.13)].
+
 Allergic Reactions
 
 Advise patients to notify their healthcare provider if they develop an allergic reaction such as rash, hives, swelling, or difficulty breathing [see Adverse Reactions (6.1, 6.2)].
@@ -50,4 +55,4 @@ Advise men that paroxetine may affect sperm quality, which may impair fertility;
 Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
 Manufactured for: Northstar Rx LLC Memphis, TN 38141.
 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 090, India.
-M.L.No.: 19/HD/AP/95/F/R Revised: 02/2025 Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
+M.L.No.: 19/HD/AP/95/F/R Revised: 05/2025 Medication Guides available at www.northstarrxllc.com/products or call 1-800-206-7821.
