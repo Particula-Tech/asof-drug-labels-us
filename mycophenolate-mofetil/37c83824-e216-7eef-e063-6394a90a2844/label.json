@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA216482"
+  ],
+  "inn": "mycophenolate-mofetil",
+  "labeler": "Praxis, LLC",
+  "package_ndcs": [
+    "59368-403-01"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "mycophenolate mofetil",
+      "name": "MYHIBBIN"
+    }
+  ],
+  "setid": "37c83824-e216-7eef-e063-6394a90a2844",
+  "source": "dailymed"
+}
