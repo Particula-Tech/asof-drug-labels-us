@@ -4,7 +4,7 @@ NDC 0078-0684-15
 
 Rx only
 
-Promacta® (eltrombopag) Tablets 12.5 mg*
+Promacta® (eltrombopag) Tablets 12.5 mg
 
 Swallow tablets whole.
 Do not split, chew, or crush tablets.
@@ -21,7 +21,7 @@ NDC 0078-0685-15
 
 Rx only
 
-Promacta® (eltrombopag) Tablets 25 mg*
+Promacta® (eltrombopag) Tablets 25 mg
 
 Swallow tablets whole.
 Do not split, chew, or crush tablets.
@@ -38,7 +38,7 @@ NDC 0078-0686-15
 
 Rx only
 
-Promacta® (eltrombopag) Tablets 50 mg*
+Promacta® (eltrombopag) Tablets 50 mg
 
 Swallow tablets whole.
 Do not split, chew, or crush tablets.
@@ -55,7 +55,7 @@ NDC 0078-0687-15
 
 Rx only
 
-Promacta® (eltrombopag) Tablets 75 mg*
+Promacta® (eltrombopag) Tablets 75 mg
 
 Swallow tablets whole.
 Do not split, chew, or crush tablets.

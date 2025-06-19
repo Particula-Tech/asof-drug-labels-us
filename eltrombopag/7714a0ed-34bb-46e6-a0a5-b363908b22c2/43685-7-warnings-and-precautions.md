@@ -15,7 +15,7 @@ Eleven patients (1%) with chronic hepatitis C treated with PROMACTA in clinical 
 
 Treatment of ITP, Chronic Hepatitis C-associated Thrombocytopenia, and Refractory Severe Aplastic Anemia
 
-Measure serum ALT, AST, and bilirubin prior to initiation of PROMACTA, every 2 weeks during the dose adjustment phase, and monthly following establishment of a stable dose.
+Measure serum ALT, AST, and bilirubin prior to initiation of PROMACTA, every 2 weeks during the dose adjustment phase, and monthly following establishment of a stable dose [see Drug Interactions (7.5)].
 PROMACTA inhibits UDP-glucuronosyltransferase (UGT)1A1 and organic anion-transporting polypeptide (OATP)1B1, which may lead to indirect hyperbilirubinemia.
 If bilirubin is elevated, perform fractionation.
 Evaluate abnormal serum liver tests with repeat testing within 3 to 5 days.
@@ -70,3 +70,11 @@ In the two controlled clinical trials in patients with chronic hepatitis C and t
 
 Cataracts were observed in toxicology studies of eltrombopag in rodents [see Nonclinical Toxicology (13.2)].
 Perform a baseline ocular examination prior to administration of PROMACTA and, during therapy with PROMACTA, regularly monitor patients for signs and symptoms of cataracts.
+
+## 5.6 Laboratory Test Interference
+
+Eltrombopag (PROMACTA) is highly colored and can cause patient sample discoloration, which can interfere with some clinical laboratory tests.
+Inaccurate test results that are inconsistent with clinical observations may occur for multiple clinical chemistry tests including bilirubin and creatinine.
+In addition, other lab tests may be impacted, including but not limited to total protein and albumin, and incorrect test results may be generated if there is eltrombopag in the patient’s specimen.
+Communicate to the lab conducting the testing if your patient is taking PROMACTA.
+Re-testing using other methods may also help in determining the validity of the test results [see Drug Interactions (7.5)].

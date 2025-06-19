@@ -9,15 +9,15 @@ In clinical trials, platelet counts generally increased within 1 to 2 weeks afte
 
 Initial Dose Regimen:
 
-Adult and Pediatric Patients 6 Years and Older with ITP: Initiate PROMACTA at a dose of 50 mg once daily, except in patients who are of East-/Southeast-Asian ancestry or who have mild to severe hepatic impairment (Child-Pugh class A, B, C).
+Adult and Pediatric Patients 6 Years and Older with ITP: Initiate PROMACTA at a dose of 50 mg orally once daily, except in patients who are of East-/Southeast-Asian ancestry or who have mild to severe hepatic impairment (Child-Pugh class A, B, C).
 
-For patients of East-/Southeast-Asian ancestry with ITP, initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+For patients of East-/Southeast-Asian ancestry with ITP, initiate PROMACTA at a reduced dose of 25 mg orally once daily [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
-For patients with ITP and mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, C), initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+For patients with ITP and mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, C), initiate PROMACTA at a reduced dose of 25 mg orally once daily [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-For patients of East-/Southeast-Asian ancestry with ITP and hepatic impairment (Child-Pugh class A, B, C), consider initiating PROMACTA at a reduced dose of 12.5 mg once daily [see Clinical Pharmacology (12.3)].
+For patients of East-/Southeast-Asian ancestry with ITP and hepatic impairment (Child-Pugh class A, B, C), consider initiating PROMACTA at a reduced dose of 12.5 mg orally once daily [see Clinical Pharmacology (12.3)].
 
-Pediatric Patients with ITP Aged 1 to 5 Years: Initiate PROMACTA at a dose of 25 mg once daily [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+Pediatric Patients with ITP Aged 1 to 5 Years: Initiate PROMACTA at a dose of 25 mg orally once daily [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 Monitoring and Dose Adjustment: After initiating PROMACTA, adjust the dose to achieve and maintain a platelet count greater than or equal to 50 x 109/L as necessary to reduce the risk for bleeding.
 Do not exceed a dose of 75 mg daily.
@@ -43,7 +43,7 @@ Modify the dosage regimen of concomitant ITP medications, as medically appropria
 Do not administer more than one dose of PROMACTA within any 24-hour period.
 
 Discontinuation: Discontinue PROMACTA if the platelet count does not increase to a level sufficient to avoid clinically important bleeding after 4 weeks of therapy with PROMACTA at the maximum daily dose of 75 mg.
-Excessive platelet count responses, as outlined in Table 1, or important liver test abnormalities also necessitate discontinuation of PROMACTA [see Warnings and Precautions (5.2)].
+Excessive platelet count responses, as outlined in Table 1, or important liver test abnormalities (e.g., transaminases and/or bilirubin) also necessitate discontinuation of PROMACTA [see Warnings and Precautions (5.2, 5.6) and Drug Interactions (7.5)].
 Obtain CBCs with differentials, including platelet counts, weekly for at least 4 weeks following discontinuation of PROMACTA.
 
 ## 2.2 Chronic Hepatitis C-Associated Thrombocytopenia
@@ -53,16 +53,16 @@ Dose adjustments are based upon the platelet count response.
 Do not use PROMACTA to normalize platelet counts [see Warnings and Precautions (5.4)].
 In clinical trials, platelet counts generally began to rise within the first week of treatment with PROMACTA [see Clinical Studies (14.2)].
 
-Initial Dose Regimen: Initiate PROMACTA at a dose of 25 mg once daily.
+Initial Dose Regimen: Initiate PROMACTA at a dose of 25 mg orally once daily.
 
-Monitoring and Dose Adjustment: Adjust the dose of PROMACTA in 25-mg increments every 2 weeks as necessary to achieve the target platelet count required to initiate antiviral therapy.
+Monitoring and Dose Adjustment: Adjust the dose of PROMACTA in 25 mg increments every 2 weeks as necessary to achieve the target platelet count required to initiate antiviral therapy.
 Monitor platelet counts every week prior to starting antiviral therapy.
 
 During antiviral therapy, adjust the dose of PROMACTA to avoid dose reductions of peginterferon.
 Monitor CBCs with differentials, including platelet counts, weekly during antiviral therapy until a stable platelet count is achieved.
 Monitor platelet counts monthly thereafter.
 Do not exceed a dose of 100 mg daily.
-Monitor clinical hematology and liver tests regularly throughout therapy with PROMACTA.
+Monitor clinical hematology and liver tests (e.g., transaminases and bilirubin) regularly throughout therapy with PROMACTA [see Drug Interactions (7.5)].
 
 For specific dosage instructions for peginterferon or ribavirin, refer to their respective prescribing information.
 
@@ -98,9 +98,9 @@ Recommended Initial PROMACTA Dose Regimen in the First-Line Treatment of Severe 
 
 | Age | Dose regimen |
 | --- | --- |
-| Patients 12 years and older | 150 mg once daily for 6 months |
-| Pediatric patients 6 to 11 years | 75 mg once daily for 6 months |
-| Pediatric patients 2 to 5 years | 2.5 mg/kg once daily for 6 months |
+| Patients 12 years and older | 150 mg orally once daily for 6 months |
+| Pediatric patients 6 to 11 years | 75 mg orally once daily for 6 months |
+| Pediatric patients 2 to 5 years | 2.5 mg/kg orally once daily for 6 months |
 
 For patients with severe aplastic anemia of East-/Southeast-Asian ancestry or those with mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, C), decrease the initial PROMACTA dose by 50% as listed in Table 4 [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
 
@@ -112,9 +112,9 @@ Recommended Initial PROMACTA Dose Regimen for Patients of East-/Southeast-Asian 
 
 | Age | Dose regimen |
 | --- | --- |
-| Patients 12 years and older | 75 mg once daily for 6 months |
-| Pediatric patients 6 to 11 years | 37.5 mg once daily for 6 months |
-| Pediatric patients 2 to 5 years | 1.25 mg/kg once daily for 6 months |
+| Patients 12 years and older | 75 mg orally once daily for 6 months |
+| Pediatric patients 6 to 11 years | 37.5 mg orally once daily for 6 months |
+| Pediatric patients 2 to 5 years | 1.25 mg/kg orally once daily for 6 months |
 
 Monitoring and Dose Adjustment for PROMACTA: Perform clinical hematology and liver tests regularly throughout therapy with PROMACTA [see Warnings and Precautions (5.2)].
 
@@ -147,11 +147,11 @@ Use the lowest dose of PROMACTA to achieve and maintain a hematologic response.
 Dose adjustments are based upon the platelet count.
 Hematologic response requires dose titration, generally up to 150 mg, and may take up to 16 weeks after starting PROMACTA [see Clinical Studies (14.3)].
 
-Initial Dose Regimen: Initiate PROMACTA at a dose of 50 mg once daily.
+Initial Dose Regimen: Initiate PROMACTA at a dose of 50 mg orally once daily.
 
-For patients with severe aplastic anemia of East-/Southeast-Asian ancestry or those with mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, C), initiate PROMACTA at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
+For patients with severe aplastic anemia of East-/Southeast-Asian ancestry or those with mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, C), initiate PROMACTA at a reduced dose of 25 mg orally once daily [see Use in Specific Populations (8.6, 8.7), Clinical Pharmacology (12.3)].
 
-Monitoring and Dose Adjustment: Adjust the dose of PROMACTA in 50-mg increments every 2 weeks as necessary to achieve the target platelet count greater than or equal to 50 x 109/L as necessary.
+Monitoring and Dose Adjustment: Adjust the dose of PROMACTA in 50 mg increments every 2 weeks as necessary to achieve the target platelet count greater than or equal to 50 x 109/L as necessary.
 Do not exceed a dose of 150 mg daily.
 Monitor clinical hematology and liver tests regularly throughout therapy with PROMACTA and modify the dosage regimen of PROMACTA based on platelet counts as outlined in Table 7.
 
@@ -188,4 +188,4 @@ Discard any suspension not administered within 30 minutes after preparation.
 Prepare the suspension with water only.
 NOTE: Do not use hot water to prepare the suspension.
 
-For details on preparation and administration of the suspension, including the recommended duration of use of each oral dosing syringe, [see Instructions for Use].
+For details on preparation and administration of the suspension, including the recommended duration of use of each oral dosing syringe [see Instructions for Use].

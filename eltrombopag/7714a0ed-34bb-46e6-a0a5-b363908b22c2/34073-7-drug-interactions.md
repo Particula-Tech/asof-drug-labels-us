@@ -23,3 +23,18 @@ Drug interactions with other hepatitis C virus (HCV) protease inhibitors have no
 ## 7.4 Peginterferon Alfa-2a/b Therapy
 
 No dose adjustments are recommended when PROMACTA is coadministered with peginterferon alfa-2a (PEGASYS®) or -2b (PEGINTRON®).
+
+## 7.5 Interference with Clinical Laboratory Tests
+
+Eltrombopag (PROMACTA) is highly colored and can cause patient sample discoloration, which is reported to interfere with some clinical laboratory tests, including, but not limited to bilirubin and creatinine.
+
+Bilirubin Testing: Eltrombopag can cause both positive and negative interference with bilirubin assays.
+If the laboratory results for bilirubin are inconsistent with clinical observations, further evaluation of liver function should be performed to clarify the clinical status of the patient.
+Evaluating contemporaneous aminotransferase values (AST, ALT) may help determine the validity of normal total bilirubin levels in the presence of clinical jaundice.
+
+Creatinine Testing: Eltrombopag can cause positive interference with creatinine measurements, leading to falsely elevated creatinine levels.
+In the event of an unexpected serum creatinine test result, further evaluation of renal function should be performed.
+Blood urea should be evaluated if serum creatinine is unexpectedly high.
+
+Communicate to the lab conducting testing if the patient is taking PROMACTA.
+Re-testing using other methods may also help in determining the validity of the test results.

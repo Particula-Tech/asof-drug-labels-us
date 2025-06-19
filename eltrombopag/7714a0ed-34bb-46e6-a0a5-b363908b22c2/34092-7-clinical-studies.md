@@ -174,7 +174,7 @@ ENABLE1 and ENABLE2: Sustained Virologic Response (SVR) in Adults With Chronic H
 | % Patients who achieved target platelet counts and initiated antiviral therapyc | 95% |  | 94% |  |
 | Antiviral treatment phase | PROMACTAn = 450% | Placebon = 232% | PROMACTAn = 506% | Placebon = 253% |
 | Overall SVRd | 23 | 14 | 19 | 13 |
-| HCV genotype 2,3 | 35 | 24 | 34 | 25 |
+| HCV genotype 2, 3 | 35 | 24 | 34 | 25 |
 | HCV genotype 1, 4, 6 | 18 | 10 | 13 | 7 |
 | Abbreviation: HCV, hepatitis C virus. aPROMACTA given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,200 mg daily in 2 divided doses orally). bPROMACTA given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,400 mg daily in 2 divided doses orally). cTarget platelet count was ≥ 90 x 109/L for ENABLE1 and ≥ 100 x 109/L for ENABLE2. dp-value < 0.05 for PROMACTA versus placebo. |  |  |  |  |
 
@@ -266,4 +266,4 @@ Study US28T: Hematologic Response in Patients With Refractory Severe Aplastic An
 
 In the 17 responders, the platelet transfusion-free period ranged from 8 to 1096 days with a median of 200 days, and the RBC transfusion-free period ranged from 15 to 1082 days with a median of 208 days.
 
-In the extension phase, 8 patients achieved a multi-lineage response; 4 of these patients subsequently tapered off treatment with PROMACTA and maintained the response (median follow up: 8.1 months, range, 7.2 to 10.6 months).
+In the extension phase, 8 patients achieved a multi-lineage response; 4 of these patients subsequently tapered off treatment with PROMACTA and maintained the response (median follow-up: 8.1 months, range, 7.2 to 10.6 months).
