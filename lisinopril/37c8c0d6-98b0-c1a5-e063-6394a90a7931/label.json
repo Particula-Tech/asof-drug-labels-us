@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA208401"
+  ],
+  "inn": "lisinopril",
+  "labeler": "Praxis, LLC",
+  "package_ndcs": [
+    "59368-406-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lisinopril",
+      "name": "Qbrelis"
+    }
+  ],
+  "setid": "37c8c0d6-98b0-c1a5-e063-6394a90a7931",
+  "source": "dailymed"
+}
