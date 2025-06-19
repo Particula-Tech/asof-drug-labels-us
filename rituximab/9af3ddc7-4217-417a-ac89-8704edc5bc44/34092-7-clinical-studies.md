@@ -23,14 +23,14 @@ NHL Study 3
 In a multicenter, single-arm study, 60 patients received 375 mg/m2 of rituximab weekly for 4 doses.
 All patients had relapsed or refractory, low-grade or follicular, B-cell NHL and had achieved an objective clinical response to rituximab administered 3.8–35.6 months (median 14.5 months) prior to retreatment with rituximab.
 Of these 60 patients, 5 received more than one additional course of rituximab.
-Results are summarized in Table 5.
+Results are summarized in Table 8.
 
 Bulky Disease
 
 In pooled data from studies 1 and 3, 39 patients with bulky (single lesion > 10 cm in diameter) and relapsed or refractory, low-grade NHL received rituximab 375 mg/m2 weekly for 4 doses.
-Results are summarized in Table 5.
+Results are summarized in Table 8.
 
-Table 5 Summary of Rituximab Efficacy Data in NHL by Schedule and Clinical Setting
+Table 8 Summary of Rituximab Efficacy Data in NHL by Schedule and Clinical Setting
 
 |  | NHL Study 1 Weekly × 4 N=166 | NHL Study 2 Weekly × 8 N=37 | NHL Study 1 and NHL Study 3 Bulky disease, Weekly × 4 N=39Six of these patients are included in the first column. Thus, data from 296 intent-to-treat patients are provided in this table. | NHL Study 3 Retreatment, Weekly × 4 N=60 |
 | --- | --- | --- | --- | --- |
@@ -49,11 +49,11 @@ A total of 322 patients with previously untreated follicular NHL were randomized
 The main outcome measure of the study was progression-free survival (PFS) defined as the time from randomization to the first of progression, relapse, or death.
 
 Twenty-six percent of the study population was >60 years of age, 99% had Stage III or IV disease, and 50% had an International Prognostic Index (IPI) score 2.
-The results for PFS as determined by a blinded, independent assessment of progression are presented in Table 6.
+The results for PFS as determined by a blinded, independent assessment of progression are presented in Table 9.
 The point estimates may be influenced by the presence of informative censoring.
 The PFS results based on investigator assessment of progression were similar to those obtained by the independent review assessment.
 
-Table 6 Efficacy Results in NHL Study 4
+Table 9 Efficacy Results in NHL Study 4
 
 |  | R-CVP N=162 | CVP N=160 |
 | --- | --- | --- |
@@ -72,7 +72,7 @@ Of the randomized patients, 40% were 60 years of age, 70% had Stage IV disease, 
 Prior to randomization to maintenance therapy, patients had received R-CHOP (75%), R-CVP (22%), or R-FCM (3%); 71% had a complete or unconfirmed complete response and 28% had a partial response.
 
 PFS was longer in patients randomized to rituximab as single agent maintenance therapy (HR: 0.54, 95% CI: 0.42, 0.70).
-The PFS results based on investigator assessment of progression were similar to those obtained by the independent review assessment
+The PFS results based on investigator assessment of progression were similar to those obtained by the independent review assessment.
 
 NHL Study 6
 
@@ -114,9 +114,9 @@ NHL Study 9
 A total of 823 patients with DLBCL, aged 18-60 years, were randomized in a 1:1 ratio to receive an anthracycline-containing chemotherapy regimen alone or in combination with rituximab.
 The main outcome measure of the study was time to treatment failure, defined as time from randomization to the earliest of progressive disease, failure to achieve a complete response, relapse, or death.
 Among all enrolled patients, 28% had Stage III-IV disease, 100% had IPI scores of 1, 99% had ECOG performance status of <2, 29% had elevated LDH levels, 49% had bulky disease, and 34% had extranodal involvement.
-Efficacy results are presented in Table 7.
+Efficacy results are presented in Table 10.
 
-Table 7 Efficacy Results in NHL Studies 7, 8, and 9
+Table 10 Efficacy Results in NHL Studies 7, 8, and 9
 
 | Main outcome | Progression-free survival (years) |  |  | Event-free survival (years) |  |  | Time to treatment failure (years) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -157,9 +157,9 @@ In CLL Study 2, 44% of patients were 65 years or older, 28% had B symptoms, 82% 
 
 The main outcome measure in both studies was progression-free survival (PFS), defined as the time from randomization to progression, relapse, or death, as determined by investigators (CLL Study 1) or an independent review committee (CLL Study 2).
 The investigator assessed results in CLL Study 2 were supportive of those obtained by the independent review committee.
-Efficacy results are presented in Table 8.
+Efficacy results are presented in Table 11.
 
-Table 8 Efficacy Results in CLL Studies 1 and 2
+Table 11 Efficacy Results in CLL Studies 1 and 2
 
 |  | R-FC N = 408 | FC N = 409 | R-FC N = 276 | FC N = 276 |
 | --- | --- | --- | --- | --- |
@@ -170,9 +170,9 @@ Table 8 Efficacy Results in CLL Studies 1 and 2
 | Response rate (95% CI) | 86% (82, 89) | 73% (68, 77) | 54% (48, 60) | 45% (37, 51) |
 
 Across both studies, 243 of 676 rituximab-treated patients (36%) were 65 years of age or older and 100 rituximab-treated patients (15%) were 70 years of age or older.
-The results of exploratory subset analyses in elderly patients are presented in Table 9.
+The results of exploratory subset analyses in elderly patients are presented in Table 12.
 
-Table 9 Efficacy Results in CLL Studies 1 and 2 in Subgroups Defined by AgeFrom exploratory analyses.
+Table 12 Efficacy Results in CLL Studies 1 and 2 in Subgroups Defined by AgeFrom exploratory analyses.
 
 | Age subgroup | Number of Patients | Hazard Ratio for PFS (95% CI) | Number of Patients | Hazard Ratio for PFS (95% CI) |
 | --- | --- | --- | --- | --- |
@@ -192,13 +192,13 @@ Patients were 18 years of age or older, diagnosed with active RA according to Am
 In RA Study 1 (NCT00468546), patients were randomized to receive either rituximab 2 x 1000 mg + MTX or placebo + MTX for 24 weeks.
 Further courses of rituximab 2 x 1000 mg + MTX were administered in an open label extension study at a frequency determined by clinical evaluation, but no sooner than 16 weeks after the preceding course of rituximab.
 In addition to the intravenous premedication, glucocorticoids were administered orally on a tapering schedule from baseline through Day 14.
-The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24 of the placebo-controlled period are shown in Table 10.
+The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24 of the placebo-controlled period are shown in Table 13.
 
 In RA Study 2 (NCT00266227), all patients received the first course of rituximab 2 x 1000 mg + MTX.
 Patients who experienced ongoing disease activity were randomized to receive a second course of either rituximab 2 x 1000 mg + MTX or placebo + MTX, the majority between Weeks 2428.
-The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24, before the re-treatment course, and at Week 48, after retreatment, are shown in Table 10.
+The proportions of patients achieving ACR 20, 50, and 70 responses at Week 24, before the re-treatment course, and at Week 48, after retreatment, are shown in Table 13.
 
-Table 10 ACR Responses in RA Study 1 and RA Study 2 (Percent of Patients) (Modified Intent-to-Treat Population)
+Table 13 ACR Responses in RA Study 1 and RA Study 2 (Percent of Patients) (Modified Intent-to-Treat Population)
 
 | Response | Placebo + MTX n = 201 | Rituximab+ MTX n = 298 | Treatment Difference (Rituximab Placebo)For RA Study 1, weighted difference stratified by region (US, rest of the world) and Rheumatoid Factor (RF) status (positive > 20 IU/mL, negative < 20 IU/mL) at baseline; For RA Study 2, weighted difference stratified by RF status at baseline and 20% improvement from baseline in both SJC and TJC at Week 24 (Yes/No). (95% CI) |  | Response | Placebo + MTX Retreatment n = 157 | Rituximab+ MTX Retreatment n = 318 | Treatment Difference (Rituximab Placebo)In RA Study 2, all patients received a first course of rituximab 2 x 1000 mg. Patients who experienced ongoing disease activity were randomized to receive a second course of either rituximab 2 x 1000 mg + MTX or placebo + MTX at or after Week 24.,Since all patients received a first course of rituximab, no comparison between Placebo + MTX and rituximab + MTX is made at Week 24.,(95% CI) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -214,9 +214,9 @@ Table 10 ACR Responses in RA Study 1 and RA Study 2 (Percent of Patients) (Modif
 | Week 24 | 1% | 12% | 11% (7%, 15%) |  | Week 24 | 11% | 8% | NA |
 |  |  |  |  |  | Week 48 | 13% | 14% | 1% (-5%, 8%) |
 
-Improvement was also noted for all components of ACR response following treatment with rituximab, as shown in Table 11.
+Improvement was also noted for all components of ACR response following treatment with rituximab, as shown in Table 14.
 
-Table 11 Components of ACR Response at Week 24 in RA Study 1 (Modified Intent-to-Treat Population)
+Table 14 Components of ACR Response at Week 24 in RA Study 1 (Modified Intent-to-Treat Population)
 
 | Baseline | Wk 24 | Baseline | Wk 24 |  |
 | --- | --- | --- | --- | --- |
@@ -238,9 +238,9 @@ Similar patterns were demonstrated for ACR 50 and 70 responses.
 Radiographic Response
 
 In RA Study 1, structural joint damage was assessed radiographically and expressed as changes in Genant-modified Total Sharp Score (TSS) and its components, the erosion score (ES) and the joint space narrowing (JSN) score.
-Rituximab + MTX slowed the progression of structural damage compared to placebo + MTX after 1 year as shown in Table 12.
+Rituximab + MTX slowed the progression of structural damage compared to placebo + MTX after 1 year as shown in Table 15.
 
-Table 12 Mean Radiographic Change From Baseline to 104 Weeks in RA Study 1
+Table 15 Mean Radiographic Change From Baseline to 104 Weeks in RA Study 1
 
 | Parameter | Rituximab 2 × 1000 mg + MTXPatients received up to 2 years of treatment with rituximab + MTX. | Placebo + MTXPatients receiving Placebo + MTX. Patients receiving Placebo + MTX could have received retreatment with rituximab + MTX from Week 16 onward. | Treatment Difference (Placebo Rituximab) | 95% CI |
 | --- | --- | --- | --- | --- |
@@ -254,10 +254,12 @@ Table 12 Mean Radiographic Change From Baseline to 104 Weeks in RA Study 1
 | ES | 0.28 | 0.62 |  |  |
 | JSN Score | 0.20 | 0.42 |  |  |
 
+In RA Study 1 and its open-label extension, 70% of patients initially randomized to rituximab + MTX and 72% of patients initially randomized to placebo + MTX were evaluated radiographically at Year 2.
+As shown in Table 15, progression of structural damage in rituximab + MTX patients was further reduced in the second year of treatment.
+
 Following 2 years of treatment with rituximab + MTX, 57% of patients had no progression of structural damage.
 During the first year, 60% of rituximab + MTX treated patients had no progression, defined as a change in TSS of zero or less compared to baseline, compared to 46% of placebo + MTX treated patients.
-In their second year of treatment with rituximab + MTX, more patients had no progression than in the first year (68% vs. 60%), and 87% of the rituximab + MTX treated patients who had no progression in the first year also had no progression in the second year.In RA Study 1 and its open-label extension, 70% of patients initially randomized to rituximab + MTX and 72% of patients initially randomized to placebo + MTX were evaluated radiographically at Year 2.
-As shown in Table 12, progression of structural damage in rituximab + MTX patients was further reduced in the second year of treatment.
+In their second year of treatment with rituximab + MTX, more patients had no progression than in the first year (68% vs. 60%), and 87% of the rituximab + MTX treated patients who had no progression in the first year also had no progression in the second year.
 
 Lesser Efficacy of 500 Vs. 1000 mg Treatment Courses for Radiographic Outcomes
 
@@ -274,11 +276,11 @@ RA Study 4 (NCT00299130) is a randomized, double-blind, placebo-controlled study
 Patients were randomized to receive an initial course of rituximab 500 mg, rituximab 1000 mg, or placebo in addition to background MTX.
 
 Physical function was assessed at Weeks 24 and 48 using the Health Assessment Questionnaire Disability Index (HAQ-DI).
-From baseline to Week 24, a greater proportion of rituximab-treated patients had an improvement in HAQ-DI of at least 0.22 (a minimal clinically important difference) and a greater mean HAQ-DI improvement compared to placebo, as shown in Table 13.
+From baseline to Week 24, a greater proportion of rituximab-treated patients had an improvement in HAQ-DI of at least 0.22 (a minimal clinically important difference) and a greater mean HAQ-DI improvement compared to placebo, as shown in Table 16.
 HAQ-DI results for the rituximab 500 mg treatment group were similar to the rituximab 1000 mg treatment group; however radiographic responses were not assessed (see Dosing Precaution in the Radiographic Responses section above).
 These improvements were maintained at 48 weeks.
 
-Table 13 Improvement from Baseline in Health Assessment Questionnaire Disability Index (HAQ-DI) at Week 24 in RA Study 4
+Table 16 Improvement from Baseline in Health Assessment Questionnaire Disability Index (HAQ-DI) at Week 24 in RA Study 4
 
 |  | Placebo + MTX n = 172 | Rituximab 2 × 1000 mg + MTX n = 170 | Treatment Difference (Rituximab Placebo)Adjusted difference stratified by region (US, rest of the world) and rheumatoid factor (RF) status (positive 20 IU/mL, negative < 20 IU/mL) at baseline. (95% CI) |
 | --- | --- | --- | --- |
@@ -302,9 +304,9 @@ Once remission was achieved or at the end of the 6 month remission induction per
 The rituximab group did not receive additional therapy to maintain remission.
 The main outcome measure for both GPA and MPA patients was achievement of complete remission at 6 months defined as a BVAS/GPA of 0, and off glucocorticoid therapy.
 The pre-specified non-inferiority margin was a treatment difference of 20%.
-As shown in Table 14, the study demonstrated non-inferiority of rituximab to cyclophosphamide for complete remission at 6 months.
+As shown in Table 17, the study demonstrated non-inferiority of rituximab to cyclophosphamide for complete remission at 6 months.
 
-Table 14 Percentage of Patients with GPA/MPA Who Achieved Complete Remission at 6 Months (Intent-to-Treat Population)
+Table 17 Percentage of Patients with GPA/MPA Who Achieved Complete Remission at 6 Months (Intent-to-Treat Population)
 
 |  | Rituximab (n = 99) | Cyclophosphamide (n = 98) | Treatment Difference (Rituximab Cyclophosphamide) |
 | --- | --- | --- | --- |
@@ -344,3 +346,67 @@ Figure 3 Cumulative Incidence Over Time of First Major Relapse in Patients with 
 
 | Patients were censored at the last follow-up dates if they had no event |
 | --- |
+
+## 14.8 Pemphigus Vulgaris (PV)
+
+PV Study 1 (NCT00784589)
+
+Non-U.S.-licensed rituximab in combination with short-term prednisone was compared to prednisone monotherapy as first-line treatment in 90 newly diagnosed adult patients with moderate to severe pemphigus (74 Pemphigus Vulgaris [PV] and 16 Pemphigus Foliaceus [PF]) in this randomized, open-label, controlled, multicenter study (PV Study 1).
+Patients were between 19 and 79 years of age and had not received prior therapies for pemphigus.
+In the PV population, 5 (13%) patients in the group treated with non-U.S.-licensed rituximab and 3 (8%) patients in the prednisone group had moderate disease and 33 (87%) patients in the group treated with non-U.S.-licensed rituximab and 33 (92%) patients in the prednisone group had severe disease according to disease severity defined by Harman’s criteria.
+
+Patients were stratified by baseline disease severity (moderate or severe) and randomized 1:1 to receive either the non-U.S.-licensed rituximab and short-term prednisone or long-term prednisone monotherapy.
+Patients were pre-medicated with antihistamine, acetaminophen and methylprednisolone prior to infusion of the non-U.S.-licensed rituximab.
+Patients randomized to the group treated with non-U.S.-licensed rituximab received an initial intravenous infusion of 1,000 mg non-U.S.-licensed rituximab on Study Day 1 in combination with a short-term regimen of 0.5 mg/kg/day oral prednisone tapered off over 3 months if they had moderate disease or 1 mg/kg/day oral prednisone tapered off over 6 months if they had severe disease.
+All patients received a second intravenous infusion of 1,000 mg non-U.S.-licensed rituximab on Study Day 15.
+Maintenance infusions of 500 mg non-U.S.-licensed rituximab were administered at Months 12 and 18.
+Patients randomized to the prednisone monotherapy group received an initial 1 mg/kg/day oral prednisone tapered off over 12 months if they had moderate disease or 1.5 mg/kg/day oral prednisone tapered off over 18 months if they had severe disease.
+Patients in the group treated with non-U.S.-licensed rituximab who relapsed could receive an additional infusion of 1,000 mg non-U.S.-licensed rituximab in combination with reintroduced or escalated prednisone dose.
+Maintenance and relapse infusions were administered no sooner than 16 weeks following the previous infusion.
+
+The primary endpoint for the study was complete remission (complete epithelialization and absence of new and/or established lesions) at Month 24 without the use of prednisone therapy for 2 months or more (CRoff for greater than or equal to 2 months).
+
+The results of the trial are presented in Table 18.
+
+Table 18 Percentage of Pemphigus Patients in Complete Remission Off Corticosteroid Therapy for Two Months or More (CRoff greater than or equal to 2 months) at Month 24, PV Study 1 (Intent-to-Treat Population)
+
+|  | Non-U.S. licensed rituximab + short-term prednisoneN=46 | PrednisoneN=44 |
+| --- | --- | --- |
+| Number of responders(response rate [%] | 41 (89%) | 15 (34%) |
+| PV Patients | 34/38 (90%) | 10/36 (28%) |
+| PF Patients | 7/8 (88%) | 5/8 (63%) |
+
+PV Study 2 (NCT02383589)
+
+In a randomized, double-blind, double-dummy, active-comparator, multicenter study, the efficacy and safety of rituximab compared to mycophenolate mofetil (MMF) were evaluated in patients with moderate-to-severe PV receiving 60 to 120 mg/day oral prednisone or equivalent (1.0 to 1.5 mg/kg/day) at study entry and tapered to reach a dose of 60 or 80 mg/day by Day 1.
+Patients had a confirmed diagnosis of PV within the previous 24 months and evidence of moderate-to-severe disease defined as a total Pemphigus Disease Area Index (PDAI) activity score of greater than or equal to 15.
+The study consisted of a screening period of up to 28 days, a 52-week double-blind treatment period, and a 48-week safety follow up period.
+
+One hundred and thirty-five patients were randomized to treatment with rituximab 1,000 mg administered on Day 1, Day 15, Week 24 and Week 26 or oral MMF 2 g/day (starting at 1 g/day on Day 1 and titrated to achieve a goal of 2 g/day by Week 2) for 52 weeks in combination with an initial dose of 60 or 80 mg oral prednisone with the aim of tapering to 0 mg/day by Week 24.
+Randomization was stratified by duration of PV (within the 1 year prior to screening or greater than 1 year) and geographical region.
+A dual-assessor approach was used during the study for efficacy and safety evaluations to prevent potential unblinding.
+
+One hundred and twenty-five patients (excluding exploratory data from ten telemedicine patients) were analyzed for efficacy (Modified Intent-to-Treat Population).
+The primary efficacy endpoint for this study was the proportion of subjects achieving sustained complete remission defined as achieving healing of lesions with no new active lesions (i.e., PDAI activity score of 0) while on 0 mg/day prednisone or equivalent, and maintaining this response for at least 16 consecutive weeks, during the 52-week treatment period.
+
+Secondary endpoints included cumulative oral corticosteroid dose and the total number of disease flares.
+
+The results of the trial are presented in Table 19
+
+Table 19 Percentage of PV Patients Who Achieved Sustained Complete Remission Off Corticosteroid Therapy for 16 Weeks or More at Week 52 (Modified Intent-to-Treat Population)
+
+|  | Rituximab(N= 62) | MMF(N = 63) | Difference (95% CI) |
+| --- | --- | --- | --- |
+| Numbers of responders(response rate [%] | 25 (40.3%) | 6 (9.5%) | 30.80% (14.70%, 45.15%) |
+| MMF = Mycophenolate mofetil. CI = Confidence Interval |  |  |  |
+
+Glucocorticoid exposure
+
+The median (min, max) cumulative oral prednisone dose at Week 52 was 2,775 mg (450, 22,180) in the rituximab group compared to 4,005 mg (900, 19,920) in the MMF group.
+Topical corticosteroid use and pre-infusion IV methylprednisolone were not included in this analysis.
+Prior to each infusion, the rituximab group received IV methylprednisolone 100 mg and the MMF group received IV saline solution.
+
+Disease flare
+
+Disease flare was defined as an appearance of 3 or more new lesions a month that do not heal spontaneously within 1 week or by the extension of established lesions in a patient who has achieved disease control.
+The total number of disease flares was lower in patients treated with rituximab compared to MMF (6 vs. 44).

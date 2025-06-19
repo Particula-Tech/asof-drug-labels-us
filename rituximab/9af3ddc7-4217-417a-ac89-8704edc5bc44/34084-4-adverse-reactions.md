@@ -14,9 +14,13 @@ The following clinically significant adverse reactions are discussed in greater 
 
 ## 6.1 Clinical Trials Experience in Lymphoid Malignancies
 
-Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.The data described below reflect exposure to rituximab in 2783 patients, with exposures ranging from a single infusion up to 2 years.
-Rituximab was studied in both single-arm and controlled trials (n=356 and n=2427).
-The population included 1180 patients with low grade or follicular lymphoma, 927 patients with DLBCL, and 676 patients with CLL.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
+
+B-Cell Malignancies
+
+The data described below reflect exposure to rituximab in 3,092 patients, with exposures ranging from a single infusion up to 2 years.
+Rituximab was studied in both single-arm and controlled trials (n=356 and n=2,427).
+The population included 1180 patients with low grade or follicular lymphoma, 927 patients with DLBCL, 676 patients with CLL, and 309 patients with another indication.
 Most NHL patients received rituximab as an infusion of 375 mg/m2 per infusion, given as a single agent weekly for up to 8 doses, in combination with chemotherapy for up to 8 doses, or following chemotherapy for up to 16 doses.
 CLL patients received rituximab 375 mg/m2 as an initial infusion followed by 500 mg/m2 for up to 5 doses, in combination with fludarabine and cyclophosphamide.
 Seventy-one percent of CLL patients received 6 cycles and 90% received at least 3 cycles of rituximab-based therapy.
@@ -145,7 +149,7 @@ Other Grade 3 or 4 adverse reactions occurring more frequently among patients re
 
 CLL
 
-The data below reflect exposure to rituximab in combination with fludarabine and cyclophosphamide in 676 patients with CLL in CLL Study 1 (NCT00281918) or CLL Study 2 (NCT00090051) [see Clinical Studies (14.5)].
+The data below reflect exposure to rituximab in combination with fludarabine and cyclophosphamide in 676 patients with CLL in CLL Study 1 (NCT00281918) or CLL Study 2 (NCT00090051) [) or CLL Study 2 (NCT00090051) [see Clinical Studies (14.5)].
 The age range was 30-83 years and 71% were men.
 Detailed safety data collection in CLL Study 1 was limited to Grade 3 and 4 adverse reactions and serious adverse reactions.
 
@@ -324,33 +328,130 @@ Long-term, Observational Study with Rituximab in Patients with GPA/MPA (GPA/MPA 
 Majority of patients received doses ranging from 500 mg to 1000 mg, approximately every 6 months.
 The safety profile was consistent with the safety profile for rituximab in RA and GPA and MPA.
 
-## 6.4 Immunogenicity
+## 6.4 Clinical Trials Experience in Pemphigus Vulgaris (PV)
 
-As with all therapeutic proteins, there is a potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies to rituximab in the studies described below with the incidence of antibodies in other studies or to other rituximab products may be misleading.
+PV Study 1
+
+PV Study 1 (NCT00784589), a randomized, controlled, multicenter open-label study, evaluated the efficacy and safety of non-U.S.-licensed rituximab in combination with short-term prednisone compared to prednisone monotherapy in 90 patients (74 Pemphigus Vulgaris [PV] patients and 16 Pemphigus Foliaceus [PF] patients) [see Clinical Studies (14.8)].
+Safety results for the PV patient population during the 24-month treatment period are described below.
+
+The safety profile of the non-U.S.-licensed rituximab in patients with PV was consistent with that observed in patients with rituximab-treated RA and GPA and MPA [see Adverse Reactions (6.1)].
+
+Adverse reactions from PV Study 1 are presented below in Table 4 and were adverse events which occurred at a rate greater than or equal to 5% among PV patients treated with non-U.S.-licensed rituximab and with at least 2% absolute difference in incidence between the group treated with non-U.S.-licensed rituximab and the prednisone monotherapy group up to Month 24.
+No patients in the group treated with non-U.S.-licensed rituximab withdrew due to adverse reactions.
+The clinical study did not include sufficient number of patients to allow for direct comparison of adverse reaction rates between treatment groups.
+
+Table 4 Incidence of All Adverse Reactions Occurring in greater than or equal to 5% Among PV Patients Treated with Non-U.S.-licensed rituximab and with at Least 2% Absolute Difference in Incidence Between the Group Treated with Non-U.S.-licensed rituximab with Short-term Prednisone and the Group Treated with Prednisone Monotherapy in PV Study 1 (Up to Month 24)
+
+| Adverse Reaction | Non-U.S.-licensed rituximab + short-term prednisoneN=38n (%) | PrednisoneN=36n (%) |
+| --- | --- | --- |
+| Infusion-related reactions* | 22 (58%) | N/A |
+| Depression | 7 (18%) | 4 (11%) |
+| Herpes simplex | 5 (13%) | 1 (3%) |
+| Alopecia | 5 (13%) | 0 (0%) |
+| Fatigue | 3 (8%) | 2 (6%) |
+| Abdominal pain upper | 2 (5%) | 1 (3%) |
+| Conjunctivitis | 2 (5%) | 0 (0%) |
+| Dizziness | 2 (5%) | 0 (0%) |
+| Headache | 2 (5%) | 1 (3%) |
+| Herpes zoster | 2 (5%) | 1 (3%) |
+| Irritability | 2 (5%) | 0 (0%) |
+| Musculoskeletal pain | 2 (5%) | 0 (0%) |
+| Pruritus | 2 (5%) | 0 (0%) |
+| Pyrexia | 2 (5%) | 0 (0%) |
+| Skin disorder | 2 (5%) | 0 (0%) |
+| Skin papilloma | 2 (5%) | 0 (0%) |
+| Tachycardia | 2 (5%) | 0 (0%) |
+| Urticaria | 2 (5%) | 0 (0%) |
+| N/A = not applicable |  |  |
+| * Infusion-related reactions included symptoms collected on the next scheduled visit after each infusion, and adverse reactions occurring on the day of or one day after the infusion. The most common infusion-related reactions included headaches, chills, high blood pressure, nausea, asthenia, and pain. |  |  |
+
+Infusion-Related Reactions
+
+Infusion-related reactions were the most commonly reported adverse drug reactions (58%, 22 patients).
+All infusion-related reactions were mild to moderate (Grade 1 or 2) except one Grade 3 serious infusion-related reaction (arthralgia) associated with the Month 12 maintenance infusion.
+The proportion of patients experiencing an infusion-related reaction was 29% (11 patients), 40% (15 patients), 13% (5 patients), and 10% (4 patients) following the first, second, third, and fourth infusions, respectively.
+No patients were withdrawn from treatment due to infusion-related reactions.
+Symptoms of infusion-related reactions were similar in type and severity to those seen in RA and GPA and MPA patients [see Adverse Reactions (6.1)].
+
+Infections
+
+Fourteen patients (37%) in the group treated with non-U.S.-licensed rituximab experienced treatment-related infections compared to 15 patients (42%) in the prednisone group.
+The most common infections in the group treated with non-U.S.-licensed rituximab were herpes simplex, herpes zoster, bronchitis, urinary tract infection, fungal infection, and conjunctivitis.
+Three patients (8%) in the group treated with non-U.S.-licensed rituximab experienced a total of 5 serious infections (Pneumocystis jirovecii pneumonia, infective thrombosis, intervertebral discitis, lung infection, Staphylococcal sepsis) and 1 patient (3%) in the prednisone group experienced 1 serious infection (Pneumocystis jirovecii pneumonia).
+
+PV Study 2
+
+In PV Study 2 (NCT02383589), a randomized, double-blind, double-dummy, active-comparator, multicenter study evaluating the efficacy and safety of rituximab compared to mycophenolate mofetil (MMF) in patients with moderate-to-severe PV requiring oral corticosteroids, 67 PV patients received treatment with rituximab (initial 1,000 mg IV on Study Day 1 and a second 1,000 mg IV on Study Day 15 repeated at Weeks 24 and 26) for up to 52 weeks [see Clinical Studies (14.8)].
+
+In PV Study 2, ADR defined as adverse events occurring in greater than or equal to 5% of patients in the rituximab arms and assessed as related are shown in Table 5.
+
+Table 5 Incidence of All Adverse Reactions Occurring in greater than or equal to 5% of rituximab-treated Pemphigus Vulgaris Patients (N=67) from PV Study 2 (up to Week 52)
+
+| Adverse Reactions | Rituximab(N=67) |
+| --- | --- |
+| Infusion-related reactions* | 15 (22%)* |
+| Upper respiratory tract infection/Nasopharyngitis | 11 (16%) |
+| Headache | 10 (15%) |
+| Asthenia/Fatigue | 9 (13%) |
+| Oral candidiasis | 6 (9%) |
+| Arthralgia | 6 (9%) |
+| Back pain | 6 (9%) |
+| Urinary tract infection | 5 (8%) |
+| Dizziness | 4 (6%) |
+| *The most common infusion-related reaction symptoms/Preferred Terms for PV Study 2 in the rituximab arm were dyspnoea, erythema, hyperhidrosis, flushing/hot flush, hypotension/low blood pressure and rash/rash pruritic |  |
+
+Infusion-Related Reactions
+
+In PV Study 2, IRRs occurred primarily at the first infusion and the frequency of IRRs decreased with subsequent infusions: 17.9%, 4.7%, 3.5% and 3.5% of patients experienced IRRs at the first, second, third, and fourth infusions, respectively.
+In 11/15 patients who experienced at least one IRR, the IRRs were Grade 1 or 2.
+In 4/15 patients, Grade greater than or equal to 3 IRRs were reported and led to discontinuation of rituximab treatment; three of the four patients experienced serious [life-threatening] IRRs.
+Serious IRRs occurred at the first (2 patients) or second (1 patient) infusion and resolved with symptomatic treatment.
+
+Infections
+
+In PV Study 2, 42/67 patients (62.7%) in the rituximab arm experienced infections.
+The most common infections in the rituximab arm were upper respiratory tract infection, nasopharyngitis, oral candidiasis and urinary tract infection.
+Six patients (9%) in the rituximab arm experienced serious infections.
+
+Laboratory Abnormalities
+
+In PV Study 2, in the rituximab arm, transient decreases in T-cell lymphocytes and phosphorus level were very commonly observed post-infusion.
+In some cases, treatment of hypophosphatemia was required.
+
+Hypogammaglobulinemia (IgG or IgM below the lower limit of normal), including prolonged hypogammaglobulinemia (defined as Ig levels below lower limit of normal for at least 4 months) was observed in PV Study 2.
+Based on levels less than LLN measured at Week 16, Week 24, Week 40, and Week 52, 16.4% (11/67) of patients with normal baseline immunoglobulins had prolonged hypogammaglobulinemia (10 patients – IgM, 1 patient – both IgG and IgM) after treatment with rituximab.
+
+## 6.5 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of rituximab or of other rituximab products.
 
 Using an ELISA assay, anti-rituximab antibody was detected in 4 of 356 (1.1%) patients with low-grade or follicular NHL receiving single-agent rituximab.
 Three of the four patients had an objective clinical response.
 
-A total of 273/2578 (11%) patients with RA tested positive for anti-rituximab antibodies at any time after receiving rituximab.
+A total of 273/2,578 (11%) patients with RA tested positive for anti-rituximab antibodies at any time after receiving rituximab.
 Anti-rituximab antibody positivity was not associated with increased rates of infusion-related reactions or other adverse events.
 Upon further treatment, the proportions of patients with infusion-related reactions were similar between anti-rituximab antibody positive and negative patients, and most reactions were mild to moderate.
 Four anti-rituximab antibody positive patients had serious infusion-related reactions, and the temporal relationship between anti-rituximab antibody positivity and infusion-related reaction was variable.
+
 A total of 23/99 (23%) rituximab-treated adult patients with GPA and MPA developed anti­rituximab antibodies by 18 months in GPA/MPA Study 1.
 The clinical relevance of anti-rituximab antibody formation in rituximab-treated adult patients is unclear.
 
-## 6.5 Postmarketing Experience
+Using a new ELISA assay, a total of 19/34 (56%) patients with PV, who were treated with non- U.S.-licensed rituximab, tested positive for anti-rituximab antibodies by 18 months in PV Study 1.
+In PV Study 2, a total of 20/63 (32%) rituximab-treated PV patients tested positive for ADA by week 52 (19 patients had treatment-inducted ADA and 1 patient had treatment-enhanced ADA).
+The clinical relevance of anti-rituximab antibody formation in rituximab-treated PV patients is unclear.
+
+## 6.6 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of rituximab.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Hematologic: prolonged pancytopenia, marrow hypoplasia, Grade 3-4 prolonged or late-onset neutropenia, hyperviscosity syndrome in Waldenstrom's macroglobulinemia, prolonged hypogammaglobulinemia [see Warnings and Precautions (5.6)].
+- Hematologic: prolonged pancytopenia, marrow hypoplasia, Grade 3-4 prolonged or late-onset neutropenia, hyperviscosity syndrome in Waldenstrom’s macroglobulinemia, prolonged hypogammaglobulinemia [see Warnings and Precautions (5.6)].
 - Cardiac: fatal cardiac failure.
 - Immune/Autoimmune Events: uveitis, optic neuritis, systemic vasculitis, pleuritis, lupus-like syndrome, serum sickness, polyarticular arthritis, and vasculitis with rash.
 - Infection: viral infections, including progressive multifocal leukoencephalopathy (PML), increase in fatal infections in HIV-associated lymphoma, and a reported increased incidence of Grade 3 and 4 infections [see Warnings and Precautions (5.6)].
-- Neoplasia: disease progression of Kaposi's sarcoma.
+- Neoplasia: disease progression of Kaposi’s sarcoma.
 - Skin: severe mucocutaneous reactions, pyoderma gangrenosum (including genital presentation).
 - Gastrointestinal: bowel obstruction and perforation.
 - Pulmonary: fatal bronchiolitis obliterans and fatal interstitial lung disease.

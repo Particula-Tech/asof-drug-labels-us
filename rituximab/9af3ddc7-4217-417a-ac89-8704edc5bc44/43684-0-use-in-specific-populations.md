@@ -61,7 +61,12 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of rituximab products have not been established in pediatric patients with NHL, CLL, or RA.
+The safety and effectiveness of TRUXIMA have not been established in pediatric patients with CLL.
+
+Rheumatoid Arthritis and Pemphigus Vulgaris
+
+The safety and effectivness of TRUXIMA have not been established in pediatric patients with PV or RA.
+
 Rituximab was not studied in pediatric patients with polyarticular juvenile idiopathic arthritis (PJIA) due to concerns regarding the potential for prolonged immunosuppression as a result of B-cell depletion in the developing juvenile immune system.
 
 ## 8.5 Geriatric Use
@@ -106,3 +111,8 @@ The clinical study did not include sufficient numbers of patients aged 65 and ov
 
 In GPA/MPA Study 2, 30 (26%) of the enrolled patients were at least 65 years old, of which 12 patients were exposed to non-U.S.-licensed rituximab and 18 were exposed to azathioprine.
 The clinical study did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger subjects.
+
+Pemphigus Vulgaris
+
+Of the 46 patients treated with non-U.S.-licensed rituximab, 15 (33%) patients were 65 years of age and older.
+The clinical study did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients.
