@@ -104,7 +104,7 @@ Withhold or permanently discontinue OPDIVO QVANTIG depending on severity [see Do
 Intravenous Nivolumab
 
 Hypophysitis occurred in 0.6% (12/1994) of patients treated with single agent intravenous nivolumab, including Grade 3 (0.2%) and Grade 2 (0.3%).
-Hypophysitis led to permanent discontinuation of intravenous nivolumab in 0.2% of patients.
+Hypophysitis led to permanent discontinuation of intravenous nivolumab in <0.1% and withholding of intravenous nivolumab in 0.2% of patients.
 Approximately 67% (8/12) of patients with hypophysitis received hormone replacement therapy, including systemic corticosteroids.
 Hypophysitis resolved in 42% of the 12 patients.
 Of the 3 patients in whom intravenous nivolumab was withheld for hypophysitis, 2 reinitiated intravenous nivolumab after symptom improvement; of these, none had recurrence of hypophysitis.

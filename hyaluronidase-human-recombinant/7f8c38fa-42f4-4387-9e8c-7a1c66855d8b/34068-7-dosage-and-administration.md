@@ -144,7 +144,7 @@ To avoid clogging of the hypodermic injection needle, attach a 23G-25G (3/8”-5
 Once withdrawn into the syringe, OPDIVO QVANTIG should be used immediately.
 If not used immediately, store the syringe:
 
-- •In the refrigerator at 2°C to 8°C (36°F to 46°F), protected from light for up to 48 hours; do not freeze, or
+- •In the refrigerator at 2°C to 8°C (36°F to 46°F), protected from light for up to 72 hours; do not freeze, or
 - •At room temperature 20°C to 25°C (68°F to 77°F) for up to 8 hours.
   Storage at room temperature for this duration does not require protection from light.
 - •Discard if storage time exceeds these limits.
