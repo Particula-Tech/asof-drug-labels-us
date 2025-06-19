@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214273"
+  ],
+  "inn": "zonisamide",
+  "labeler": "Praxis, LLC",
+  "package_ndcs": [
+    "59368-407-01"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "zonisamide",
+      "name": "ZONISADE"
+    }
+  ],
+  "setid": "37c8dec2-2d0b-f984-e063-6294a90a9555",
+  "source": "dailymed"
+}
