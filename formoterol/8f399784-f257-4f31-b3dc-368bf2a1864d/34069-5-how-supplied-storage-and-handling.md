@@ -6,7 +6,7 @@ DULERA is available in three strengths and supplied in the following package siz
 
 Table 8
 
-| Package | NDC | Strength Identifier (Color Band)Included on the outer carton, actuator, and canister labels |
+| Package | NDC | Strength Identifier (Color Band)Included on the outer carton, actuator, and canister labels. |
 | --- | --- | --- |
 | DULERA 50 mcg/5 mcg 120 inhalations | 78206-125-01 | Blue |
 | DULERA 100 mcg/5 mcg 120 inhalations | 78206-127-01 | Yellow |
@@ -35,8 +35,7 @@ Discard the inhaler when the labeled number of actuations has been used (the dos
 
 Store at controlled room temperature 20°C–25°C (68°F–77°F); excursions permitted to 15°C–30°C (59°F–86°F) [see USP Controlled Room Temperature].
 
-The 120-inhalation inhaler does not require specific storage orientation.
-For the 60-inhalation inhaler, after priming, store the inhaler with the mouthpiece down or in a horizontal position.
+After priming, store the inhaler with the mouthpiece down or in a horizontal position.
 
 For best results, keep the canister at room temperature before use.
 Shake well and remove the cap from the mouthpiece of the actuator before using.

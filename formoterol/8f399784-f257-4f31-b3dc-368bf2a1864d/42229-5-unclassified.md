@@ -6,9 +6,10 @@ For patent information: www.organon.com/our-solutions/patent/
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2021 Organon Global Inc. All rights reserved.
+© 2025 Organon group of companies.
+All rights reserved.
 
-uspi-og0887a-ao-2106r000
+uspi-og0887a-ao-2506r001
 
 Patient Instructions for Use
 
@@ -108,8 +109,7 @@ When to replace your DULERA:
 How should I store DULERA?
 
 - Store DULERA at room temperature between 68°F to 77°F (20°C to 25°C).
-- The 120-actuation inhaler can be stored in any position.
-  For the 60-actuation inhaler, after priming, store the inhaler with the mouthpiece down or sideways.
+- After priming, store the inhaler with the mouthpiece down or sideways.
 - The contents of your DULERA canister are under pressure.
   Do not puncture or throw the canister into a fire or incinerator.
   Do not use or store it near heat or open flame.
@@ -139,8 +139,9 @@ For patent information: www.organon.com/our-solutions/patent/
 
 The trademarks depicted herein are owned by their respective companies.
 
-Copyright © 2021 Organon Global Inc. All rights reserved.
+© 2025 Organon group of companies.
+All rights reserved.
 
-Revised: 6/2021
+Revised: 6/2025
 
-usppi-og0887a-ao-2106r000
+usppi-og0887a-ao-2506r001

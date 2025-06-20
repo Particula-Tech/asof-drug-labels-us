@@ -24,7 +24,7 @@ Patients receiving DULERA 100 mcg/5 mcg had significantly higher increases from 
 These differences were maintained through Week 26.
 Figure 1 shows the change from baseline post-dose serial FEV1 evaluations in Trial 1.
 
-| Figure 1 |
+| Figure 1: |
 | --- |
 | Trial 1 - DULERA 100 mcg/5 mcg - FEV1 Serial Evaluations for Observed Cases at Week 12 Change from Baseline by Treatment |
 
