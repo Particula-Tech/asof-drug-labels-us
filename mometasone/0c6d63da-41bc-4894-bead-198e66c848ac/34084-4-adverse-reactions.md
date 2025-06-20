@@ -37,7 +37,7 @@ TABLE 1: Trial 1: Treatment-Emergent Adverse Events Occurring at an Incidence of
 
 TABLE 2: Trial 2: Treatment-Emergent Adverse Events Occurring at an Incidence of ≥3% Over 12 Weeks
 
-|  | ASMANEX HFA 200 mcg N=240 n (%) | MF/FMF/F = mometasone furoate/formoterol fumarate 100/5 mcg N=233 n (%) | MF/F 200/5 mcg N=255 n (%) |
+|  | ASMANEX HFA 200 mcg N=240 n (%) | MF/FMF/F = mometasone furoate/formoterol fumarate. 100/5 mcg N=233 n (%) | MF/F 200/5 mcg N=255 n (%) |
 | --- | --- | --- | --- |
 | Nasopharyngitis | 13 (5) | 8 (3) | 12 (5) |
 | Headache | 8 (3) | 10 (4) | 5 (2) |
@@ -60,7 +60,7 @@ However, the postmarketing safety experience with mometasone furoate dry powder 
 The following adverse reactions have been reported during post-approval use of mometasone furoate dry powder inhaler.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Eye disorders: Vision blurred [see Warnings and Precautions (5.11)].
+Eye Disorders: Vision blurred [see Warnings and Precautions (5.11)].
 
 Immune System Disorders: Immediate and delayed hypersensitivity reactions including rash, pruritus, angioedema and anaphylactic reaction [see Contraindications (4.2) and Warnings and Precautions (5.8)].
 
