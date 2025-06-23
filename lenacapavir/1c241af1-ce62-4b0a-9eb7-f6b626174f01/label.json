@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "NDA220018",
+    "NDA220020"
+  ],
+  "inn": "lenacapavir",
+  "labeler": "Gilead Sciences, Inc.",
+  "package_ndcs": [
+    "61958-3401-1",
+    "61958-3402-1",
+    "61958-3403-1"
+  ],
+  "products": [
+    {
+      "form": "KIT",
+      "generic": "lenacapavir sodium",
+      "name": "Yeztugo"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "lenacapavir sodium",
+      "name": "Yeztugo"
+    }
+  ],
+  "setid": "1c241af1-ce62-4b0a-9eb7-f6b626174f01",
+  "source": "dailymed"
+}
