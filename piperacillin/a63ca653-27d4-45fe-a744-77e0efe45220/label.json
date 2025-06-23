@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA206056"
+  ],
+  "inn": "piperacillin",
+  "labeler": "B. Braun Medical Inc.",
+  "package_ndcs": [
+    "0264-3446-11",
+    "0264-3448-11",
+    "0264-3450-22"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "piperacillin and tazobactam and sodium chloride",
+      "name": "Piperacillin and Tazobactam and Sodium Chloride"
+    }
+  ],
+  "setid": "a63ca653-27d4-45fe-a744-77e0efe45220",
+  "source": "dailymed"
+}
