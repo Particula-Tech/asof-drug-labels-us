@@ -2,12 +2,12 @@
 
 ## 2.1 Important Dosing Information
 
-Administer only as an intravenous infusion [see Dosage and Administration (2.8)].
+Administer only as an intravenous infusion [see Dosage and Administration (2.9)].
 Do not administer as an intravenous push or bolus.
 
 RUXIENCE should only be administered by a healthcare professional with appropriate medical support to manage severe infusion-related reactions that can be fatal if they occur [see Warnings and Precautions (5.1)].
 
-Premedicate before each infusion [see Dosage and Administration (2.7)].
+Premedicate before each infusion [see Dosage and Administration (2.8)].
 
 Prior to First Infusion
 
@@ -21,7 +21,7 @@ During treatment with RUXIENCE and chemotherapy, obtain CBC with differential an
 In patients with RA, GPA or MPA, obtain CBC with differential and platelet counts at two to four month intervals during RUXIENCE therapy.
 Continue to monitor for cytopenias after final dose and until resolution.
 
-- •First InfusionStandard Infusion: Initiate infusion at a rate of 50 mg/hour.
+- •First Infusion Standard Infusion: Initiate infusion at a rate of 50 mg/hour.
   In the absence of infusion toxicity, increase infusion rate by 50 mg/hour increments every 30 minutes, to a maximum of 400 mg/hour.
 - •Subsequent Infusions Standard Infusion: Initiate infusion at a rate of 100 mg/hour.
   In the absence of infusion toxicity, increase rate by 100 mg/hour increments at 30-minute intervals, to a maximum of 400 mg/hour.
@@ -74,18 +74,28 @@ Follow up Treatment of Adult Patients with GPA/MPA who have Achieved Disease Con
 - •If induction treatment of active disease was with a rituximab product, initiate follow up treatment with RUXIENCE within 24 weeks after the last induction infusion with a rituximab product or based on clinical evaluation, but no sooner than 16 weeks after the last induction infusion with a rituximab product.
 - •If induction treatment of active disease was with other standard of care immunosuppressants, initiate RUXIENCE follow up treatment within the 4 week period that follows achievement of disease control.
 
-## 2.7 Recommended Dose for Premedication and Prophylactic Medications
+## 2.7 Recommended Dose for Pemphigus Vulgaris (PV)
+
+- •Administer RUXIENCE as two-1,000 mg intravenous infusions separated by 2 weeks in combination with a tapering course of glucocorticoids.
+- •Maintenance treatment Administer RUXIENCE as a 500 mg intravenous infusion at Month 12 and every 6 months thereafter or based on clinical evaluation.
+- •Treatment of relapse Administer RUXIENCE as a 1,000 mg intravenous infusion on relapse, and consider resuming or increasing the glucocorticoid dose based on clinical evaluation.
+
+Subsequent infusions of RUXIENCE may be administered no sooner than 16 weeks following the previous infusion.
+
+## 2.8 Recommended Dose for Premedication and Prophylactic Medications
 
 Premedicate with acetaminophen and an antihistamine before each infusion of RUXIENCE.
 For adult patients administered RUXIENCE according to the 90-minute infusion rate, the glucocorticoid component of their chemotherapy regimen should be administered prior to infusion [see Clinical Studies (14.4)].
 
-For RA, GPA and MPA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
+For RA, GPA and MPA, and PV patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 
 Provide prophylaxis treatment for Pneumocystis jirovecii pneumonia (PCP) and herpes virus infections for patients with CLL during treatment and for up to 12 months following treatment as appropriate [see Warnings and Precautions (5.6)].
 
 PCP prophylaxis is also recommended for patients with GPA and MPA during treatment and for at least 6 months following the last RUXIENCE infusion.
 
-## 2.8 Administration and Storage
+PCP prophylaxis should be considered for patients with PV during and following RUXIENCE treatment.
+
+## 2.9 Administration and Storage
 
 Use appropriate aseptic technique.
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration.

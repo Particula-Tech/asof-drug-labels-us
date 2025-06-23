@@ -67,24 +67,37 @@ Age, weight and gender had no effect on the pharmacokinetics of rituximab in RA 
 
 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis
 
-The pharmacokinetic parameters in adult patients with GPA/MPA receiving 375 mg/m2 intravenous rituximab or non-U.S.-licensed rituximab once weekly for four doses are summarized in Table 4.
+The pharmacokinetic parameters in adult patients with GPA/MPA receiving 375 mg/m2 intravenous rituximab or non-U.S.-licensed rituximab once weekly for four doses are summarized in Table 6.
 
-Table 4 Population PK in Adult Patients with GPA/MPA
+Table 6 Population PK in Adult Patients with GPA/MPA
 
 | Parameter | Statistic | GPA/MPA Study 1 |
 | --- | --- | --- |
 | N | Number of Patients | 97 |
-| Terminal Half-life | Median | 25 |
-| (days) | (Range) | (11 to 52) |
-| AUC0–180d | Median | 10302 |
-| (µg/mL*day) | (Range) | (3653 to 21874) |
-| Clearance | Median | 0.279 |
-| (L/day) | (Range) | (0.113 to 0.653) |
-| Volume of Distribution | Median | 3.12 |
-| (L) | (Range) | (2.42 to 3.91) |
+| Terminal Half-life(days) | Median(Range) | 25(11 to 52) |
+| AUC0–180d(µg/mL*day) | Median(Range) | 10302(3653 to 21874) |
+| Clearance(L/day) | Median(Range) | 0.279(0.113 to 0.653) |
+| Volume of Distribution(L) | Median(Range) | 3.12(2.42 to 3.91) |
 
 The population PK analysis in adults with GPA and MPA showed that male patients and patients with higher BSA or positive anti-rituximab antibody levels have higher clearance.
 However, further dose adjustment based on gender or anti-drug antibody status is not necessary.
+
+Pemphigus Vulgaris
+
+The pharmacokinetic parameters in adult PV patients receiving 1,000 mg IV infusion of rituximab at Days 1, 15, 168, and 182 are summarized in Table 7.
+
+Table 7 Population PK in Adult PV Patients from PV Study 2
+
+| Parameter | Infusion Cycle |  |
+| --- | --- | --- |
+|  | 1st cycle of 1,000 mgDay 1 and Day 15N=67 | 2nd cycle of 1,000 mgDay 168 and Day 182N=67 |
+| Terminal Half-life (days) Median (Range) | 21.1(9.3 to 36.2) | 26.2(16.4 to 42.8) |
+| Clearance (L/day) Median (Range) | 0.30(0.16 to 1.51) | 0.24(0.13 to 0.45) |
+| Central Volume of Distribution (L) Median (Range) | 3.49(2.48 to 5.22) | 3.49(2.48 to 5.22) |
+
+Following the first cycle of rituximab administration, the pharmacokinetic parameters of rituximab in patients with PV were similar to those in patients with RA and in patients with GPA/MPA.
+Following the second cycle of rituximab administration, rituximab clearance decreased by 22% assuming Pemphigus Disease Area Index (PDAI) activity score of 0 at the start of both cycles, while the central volume of distribution remained unchanged.
+The presence of anti-rituximab antibodies was associated with a higher clearance resulting in lower rituximab concentrations.
 
 Specific Populations
 

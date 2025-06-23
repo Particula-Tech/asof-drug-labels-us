@@ -14,20 +14,14 @@ The estimated background risk in the U.S. general population of major birth defe
 
 Clinical Considerations
 
-Fetal/Neonatal Adverse Reactions
-
-Observe newborns and infants for signs of infection and manage accordingly.
+Fetal/Neonatal Adverse Reactions Observe newborns and infants for signs of infection and manage accordingly.
 
 Data
 
-Human Data
-
-Postmarketing data indicate that B-cell lymphocytopenia generally lasting less than six months can occur in infants exposed to rituximab in-utero.
+Human Data Postmarketing data indicate that B-cell lymphocytopenia generally lasting less than six months can occur in infants exposed to rituximab in-utero.
 Rituximab was detected postnatally in the serum of infants exposed in-utero.
 
-Animal Data
-
-An embryo-fetal developmental toxicity study was performed on pregnant cynomolgus monkeys.
+Animal Data An embryo-fetal developmental toxicity study was performed on pregnant cynomolgus monkeys.
 Pregnant animals received rituximab via the intravenous route during early gestation (organogenesis period; post coitum Days 20 through 50).
 Rituximab was administered as loading doses on post coitum (PC) Days 20, 21, and 22, at 15, 37.5, or 75 mg/kg/day, and then weekly on PC Days 29, 36, 43, and 50, at 20, 50, or 100 mg/kg/week.
 The 100 mg/kg/week dose resulted in 80% of the exposure (based on AUC) of those achieved following a dose of 2 grams in humans.
@@ -57,13 +51,11 @@ Verify pregnancy status in females of reproductive potential prior to initiating
 
 Contraception
 
-Females
-
-Advise females of reproductive potential to use effective contraception during treatment with RUXIENCE and for 12 months after the last dose.
+Females Advise females of reproductive potential to use effective contraception during treatment with RUXIENCE and for 12 months after the last dose.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of RUXIENCE have not been established in pediatric patients with NHL, CLL or RA.
+The safety and effectiveness of RUXIENCE have not been established in pediatric patients with NHL, CLL, PV or RA.
 
 Rituximab was not studied in pediatric patients with polyarticular juvenile idiopathic arthritis (PJIA) due to concerns regarding the potential for prolonged immunosuppression as a result of B-cell depletion in the developing juvenile immune system.
 
@@ -109,3 +101,8 @@ The clinical study did not include sufficient numbers of patients aged 65 and ov
 
 In GPA/MPA Study 2, 30 (26%) of the enrolled patients were at least 65 years old, of which 12 patients were exposed to non-U.S.-licensed rituximab and 18 were exposed to azathioprine.
 The clinical study did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger subjects.
+
+Pemphigus Vulgaris
+
+Of the 46 patients treated with non-U.S.-licensed rituximab, 15 (33%) patients were 65 years of age and older.
+The clinical study did not include sufficient numbers of patients aged 65 and older to determine whether they respond differently from younger patients.
