@@ -30,6 +30,8 @@ KEYTRUDA, in combination with pemetrexed and platinum chemotherapy, is indicated
 
 ## 1.4 Head and Neck Squamous Cell Cancer
 
+KEYTRUDA is indicated for the treatment of adult patients with resectable locally advanced HNSCC whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-approved test [see Dosage and Administration (2.1)], as a single agent as neoadjuvant treatment, continued as adjuvant treatment in combination with radiotherapy (RT) with or without cisplatin and then as a single agent.
+
 KEYTRUDA, in combination with platinum and fluorouracil (FU), is indicated for the first-line treatment of patients with metastatic or with unresectable, recurrent head and neck squamous cell carcinoma (HNSCC).
 
 KEYTRUDA, as a single agent, is indicated for the first-line treatment of patients with metastatic or with unresectable, recurrent HNSCC whose tumors express PD-L1 [Combined Positive Score (CPS) ≥1] as determined by an FDA-approved test [see Dosage and Administration (2.1)].
