@@ -154,13 +154,13 @@ ADMELOG in an insulin pump
 
 Keep ADMELOG vials, syringes, needles and all medicines out of the reach of children.
 
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
+Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960 A SANOFI COMPANY U.S. License No. 1752
 
-ADMELOG is a registered trademark of sanofi-aventis U.S. LLC. ©2023 sanofi-aventis U.S. LLC.
+ADMELOG is a registered trademark of sanofi-aventis U.S. LLC. ©2025 sanofi-aventis U.S. LLC.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: August 2023
+Revised: May 2025
 
 # INSTRUCTIONS FOR USE
 
@@ -421,11 +421,11 @@ Throwing your pen and used needle pen away
   There may be state or local laws about how you should throw away used needles and syringes.
   For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA's website at: http://www.fda.gov/safesharpsdisposal.
 
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752
+Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960 A SANOFI COMPANY U.S. License No. 1752
 
-ADMELOG and SoloStar are registered trademarks of sanofi-aventis U.S. LLC. ©2023 sanofi-aventis U.S. LLC.
+ADMELOG and SoloStar are registered trademarks of sanofi-aventis U.S. LLC. ©2025 sanofi-aventis U.S. LLC.
 Other brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: August 2023
+Revised: May 2025
