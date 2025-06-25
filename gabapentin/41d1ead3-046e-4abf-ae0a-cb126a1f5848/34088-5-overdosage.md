@@ -7,5 +7,4 @@ Symptoms have included, double vision, tremor, slurred speech, drowsiness, alter
 Fatal respiratory depression has been reported with Gabapentin overdose, alone and in combination with other CNS depressants.
 
 Gabapentin can be removed by hemodialysis.
-
 If overexposure occurs, call your poison control center at 1-800-222-1222.

@@ -12,6 +12,7 @@ Gabapentin capsules can cause serious side effects including:
 1.
 Suicidal Thoughts.
 Like other antiepileptic drugs, gabapentin capsules may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+This can happen while you take gabapentin capsules as well as after stopping gabapentin capsules.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -68,7 +69,7 @@ A health care provider should examine you to decide if you should continue takin
 
 4.
 Serious breathing problems.
-Serious breathing problems can occur when Gabapentin Capsules are taken with other medicines that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
+Serious breathing problems can happen when Gabapentin Capsules are taken with other medicines (such as opioid pain medicines) that can cause severe sleepiness or decreased awareness, or when it is taken by someone who already has breathing problems.
 
 Call your healthcare provider or get medical help right away if you have any of the following symptoms:
 
@@ -134,6 +135,8 @@ How should I take gabapentin capsules?
 - Take gabapentin capsules exactly as prescribed.
   Your healthcare provider will tell you how much gabapentin capsules to take.
 - Do not change your dose of gabapentin capsules without talking to your healthcare provider.
+- Do not stop taking gabapentin capsules without talking to your healthcare provider first.
+  If you stop taking gabapentin capsules suddenly, you may develop side effects.
 - Gabapentin capsules can be taken with or without food.
 - Swallow gabapentin capsules with water.
 - If you take an antacid containing aluminum and magnesium, such as Maalox®, Mylanta®, Gelusil®, Gaviscon®, or Di-Gel®, you should wait at least 2 hours before taking your next dose of gabapentin capsules.
@@ -155,7 +158,7 @@ See “What is the most important information I should know about gabapentin cap
 
 - problems driving while using gabapentin capsules.
   See “What I should avoid while taking gabapentin capsules?”
-- sleepiness and dizziness, which could increase the occurrence of accidental injury, including falls
+- sleepiness and dizziness, which could increase your chance of having an accidental injury, including falls
 
 The most common side effects of gabapentin capsules include:
 
@@ -214,4 +217,4 @@ Manufactured by: InvaGen Pharmaceuticals, Inc. (a subsidiary of Cipla Ltd.) Haup
 
 Manufactured for: Exelan Pharmaceuticals, Inc. Boca Raton, FL 33432
 
-Revised: 08/2024
+Revised: 05/2025

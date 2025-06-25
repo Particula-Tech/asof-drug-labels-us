@@ -12,9 +12,8 @@ Patients 12 years of age and above
 
 The starting dose is 300 mg three times a day.
 The recommended maintenance dose of gabapentin Capsules is 300 mg to 600 mg three times a day.
-Dosages up to 2,400 mg/day have been well tolerated in long-term clinical studies.
-Doses of 3,600 mg/day have also been administered to a small number of patients for a relatively short duration, and have been well tolerated.
-Administer gabapentin capsules three times a day using 300 mg or 400 mg capsules.
+Dosages up to 2400 mg/day have been administered in long-term clinical studies.
+Doses of 3600 mg/day have also been administered to a small number of patients for a relatively short duration.Administer gabapentin capsules three times a day using 300 mg or 400 mg capsules.
 The maximum time between doses should not exceed 12 hours.
 
 Pediatric Patients Age 3 to 11 years
@@ -23,7 +22,7 @@ The starting dose range is 10 mg/kg/day to 15 mg/kg/day, given in three divided 
 The recommended maintenance dose of gabapentin in patients 3 to 4 years of age is 40 mg/kg/day, given in three divided doses.
 The recommended maintenance dose of gabapentin in patients 5 to 11 years of age is 25 mg/kg/day to 35 mg/kg/day, given in three divided doses.
 Gabapentin may be administered as the oral solution, capsule, or tablet, or using combinations of these formulations.
-Dosages up to 50 mg/kg/day have been well tolerated in a long-term clinical study.
+Dosages up to 50 mg/kg/day have been administered in a long-term clinical study.
 The maximum time interval between doses should not exceed 12 hours.
 
 ## 2.3 Dosage Adjustment in Patients with Renal Impairment

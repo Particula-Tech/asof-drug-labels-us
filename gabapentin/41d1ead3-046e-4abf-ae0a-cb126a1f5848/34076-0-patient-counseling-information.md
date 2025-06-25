@@ -15,14 +15,15 @@ Inform patients that it is not known how long this effect lasts [see Warnings an
 
 Suicidal Thinking and Behavior Counsel the patient, their caregivers, and families that AEDs, including gabapentin, may increase the risk of suicidal thoughts and behavior.
 Advise patients of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Instruct patients to report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.6)].
+Instruct patients to report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.5)].
+Also, inform patients who plan to or have discontinued NEURONTIN that suicidal thoughts and behavior can appear even after the drug is stopped.
 
 Respiratory Depression
 
 Inform patients about the risk of respiratory depression.
 Include information that the risk is greatest for those using concomitant CNS depressants (such as opioid analgesics) or those with underlying respiratory impairment.
 Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs.
-[see Warnings and Precautions (5.7)].
+[see Warnings and Precautions (5.8)].
 
 Use in Pregnancy
 
@@ -32,4 +33,4 @@ Encourage patients to enroll in the NAAED Pregnancy Registry if they become preg
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
 To enroll, patients can call the toll free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
-Revised: 08/2024
+Revised: 05/2025
