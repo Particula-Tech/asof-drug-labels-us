@@ -26,6 +26,12 @@ Disease-Associated Maternal and/or Embryo-fetal Risk
 In women with poorly or moderately controlled asthma, evidence demonstrates that there is an increased risk of preeclampsia in the mother and prematurity, low birth weight, and small for gestational age in the neonate.
 The level of asthma control should be closely monitored in pregnant women and treatment adjusted as necessary to maintain optimal control.
 
+Fetal/Neonatal Adverse Reactions
+
+Transport of endogenous IgG antibodies across the placenta increases as pregnancy progresses, and peaks during the third trimester.
+Therefore, DUPIXENT may be present in infants exposed in utero.
+The potential clinical impact of dupilumab exposure in infants exposed in utero should be considered.
+
 Data
 
 Animal Data
@@ -46,24 +52,24 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Atopic Dermatitis
 
-The safety and effectiveness of DUPIXENT have been established in pediatric patients 6 months of age and older with moderate-to-severe AD, whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable [see Clinical Studies (14.1)].
+The safety and effectiveness of DUPIXENT have been established in pediatric patients 6 months of age and older with moderate-to-severe AD, whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable.
 
 Use of DUPIXENT in this age group is supported by data from the following clinical trials:
 
-- AD-1526 which included 251 pediatric subjects 12 to 17 years of age with moderate-to-severe AD.
+- AD-1526 which included 251 pediatric subjects 12 years of age and older with moderate-to-severe AD.
   Of the 251 subjects, 82 were treated with DUPIXENT 200 mg Q2W (<60 kg) or 300 mg Q2W (≥60 kg) and 85 were treated with matching placebo
 - AD-1652 which included 367 pediatric subjects 6 to 11 years of age with severe AD.
   Of the 367 subjects, 120 were treated with DUPIXENT 300 mg Q4W + TCS (15 to <30 kg) or 200 mg Q2W + TCS (≥30 kg) and 123 were treated with matching placebo + TCS
 - AD-1539 which included 162 pediatric subjects 6 months to 5 years of age with moderate-to-severe AD.
   Of the 162 subjects, 83 were treated with DUPIXENT 200 mg Q4W + TCS (5 to <15 kg) or 300 mg Q4W + TCS (15 to <30 kg) and 79 subjects were assigned to be treated with matching placebo + TCS
-- AD-1434, an open-label extension study that enrolled 275 pediatric subjects 12 to 17 years of age treated with DUPIXENT ± TCS, 368 pediatric subjects 6 to 11 years of age treated with DUPIXENT ± TCS, and 180 pediatric subjects 6 months to 5 years of age treated with DUPIXENT ± TCS
-- Liberty-AD-HAFT which included 27 pediatric subjects 12 to 17 years of age with atopic dermatitis with moderate-to-severe hand and/or foot involvement treated with DUPIXENT (N=14) or matching placebo (N=13)
+- AD-1434, an open-label extension study that enrolled 275 pediatric subjects 12 years of age and older treated with DUPIXENT ± TCS, 368 pediatric subjects 6 to 11 years of age treated with DUPIXENT ± TCS, and 180 pediatric subjects 6 months to 5 years of age treated with DUPIXENT ± TCS
+- Liberty-AD-HAFT which included 27 pediatric subjects 12 years of age and older with atopic dermatitis with moderate-to-severe hand and/or foot involvement treated with DUPIXENT (N=14) or matching placebo (N=13)
 
-The safety and effectiveness were generally consistent between pediatric and adult patients [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
+The safety and effectiveness were generally consistent between pediatric and adult patients.
 In addition, hand-foot-and-mouth disease was reported in 9 (5%) pediatric subjects and skin papilloma was reported in 4 (2%) pediatric subjects 6 months to 5 years of age treated with DUPIXENT ± TCS in AD-1434.
-These cases did not lead to study drug discontinuation [see Adverse Reactions (6.1)].
+These cases did not lead to study drug discontinuation [see Adverse Reactions (6.1) and Clinical Studies (14.1)].
 
-Safety and effectiveness in pediatric patients younger than 6 months of age with AD have not been established.
+Safety and effectiveness of DUPIXENT have not been established in pediatric patients younger than 6 months of age with AD.
 
 Asthma
 
@@ -89,7 +95,7 @@ Subjects who completed the treatment period of the VOYAGE study could participat
 Eighteen subjects (≥15 to <30 kg) out of 365 subjects were exposed to 300 mg Q4W in this study, and the safety profile in these eighteen subjects was consistent with that seen in VOYAGE.
 Additional safety for DUPIXENT 300 mg Q4W is based upon available safety information from the pediatric AD indication [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
-Safety and effectiveness in pediatric patients younger than 6 years of age with asthma have not been established.
+Safety and effectiveness of DUPIXENT have not been established in pediatric patients younger than 6 years of age with asthma.
 
 CRSwNP
 
@@ -99,7 +105,7 @@ Use of DUPIXENT for this indication is supported by evidence from adequate and w
 - Pharmacokinetic (PK) data from adult and pediatric patients aged 12 years and older with moderate-to-severe asthma and adult patients with inadequately controlled CRSwNP
 - Safety data in pediatric patients aged 12 years and older with moderate-to-severe asthma [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.3)]
 
-Safety and effectiveness in pediatric patients younger than 12 years of age with CRSwNP have not been established.
+Safety and effectiveness of DUPIXENT have not been established in pediatric patients younger than 12 years of age with CRSwNP.
 
 EoE
 
@@ -107,15 +113,15 @@ The safety and effectiveness of DUPIXENT for the treatment of EoE have been esta
 Use of DUPIXENT in this population is supported by an adequate well-controlled study in adults and 72 pediatric subjects 12 to 17 years of age (Study EoE-1), a clinical study in 61 pediatric subjects 1 to 11 years of age (Study EoE-2), and pharmacokinetic data in adult and pediatric subjects 1 to 17 years of age.
 The safety of DUPIXENT in pediatric subjects 1 to 17 years of age was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.4)].
 
-Safety and effectiveness in pediatric patients younger than 1 year of age, or weighing less than 15 kg, with EoE have not been established.
+Safety and effectiveness of DUPIXENT have not been established in pediatric patients younger than 1 year of age, or weighing less than 15 kg, with EoE.
 
 Prurigo Nodularis
 
-Safety and effectiveness in pediatric patients younger than 18 years of age with PN have not been established.
+Safety and effectiveness of DUPIXENT have not been established in pediatric patients with PN.
 
 Chronic Obstructive Pulmonary Disease
 
-The safety and effectiveness in pediatric patients less than 18 years of age with COPD have not been established.
+The safety and effectiveness of DUPIXENT have not been established in pediatric patients with COPD.
 COPD is largely a disease of adult patients.
 
 Chronic Spontaneous Urticaria
@@ -123,12 +129,17 @@ Chronic Spontaneous Urticaria
 The safety and effectiveness of DUPIXENT for the treatment of CSU in patients who remain symptomatic despite H1 antihistamine treatment have been established in pediatric patients 12 years of age and older.
 The use of DUPIXENT in this indication is supported by evidence from two adequate and well-controlled studies in adults with additional pharmacokinetic data in 6 pediatric patients 12 years of age and older, and safety data in pediatric patients in other indications [see Dosage and Administration (2.9), Clinical Pharmacology (12.3), and Clinical Studies (14.7)].
 
-Safety and effectiveness in pediatric patients younger than 12 years of age, and/or weighing less than 30 kg, with CSU have not been established.
+Safety and effectiveness of DUPIXENT have not been established in pediatric patients younger than 12 years of age, and/or weighing less than 30 kg, with CSU.
+
+Bullous Pemphigoid
+
+The safety and effectiveness of DUPIXENT have not been established in pediatric patients with BP.
+BP is largely a disease of adult patients.
 
 ## 8.5 Geriatric Use
 
 Of the 1539 subjects with AD exposed to DUPIXENT in a dose-ranging study and placebo-controlled trials, 70 subjects were 65 years or older.
-Clinical trials of DUPIXENT in AD did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger subjects [see Clinical Pharmacology (12.3)].
+Clinical trials of DUPIXENT in AD did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently from younger subjects.
 
 Of the 1977 subjects with asthma exposed to DUPIXENT, a total of 240 subjects were 65 years or older.
 Efficacy and safety in this age group was similar to the overall study population.
@@ -136,7 +147,7 @@ Efficacy and safety in this age group was similar to the overall study populatio
 Of the 440 subjects with CRSwNP exposed to DUPIXENT, a total of 79 subjects were 65 years or older.
 Efficacy and safety in this age group were similar to the overall study population.
 
-Clinical studies of DUPIXENT in EoE did not include sufficient numbers of subjects aged 65 years and over to determine whether they respond differently from younger adult subjects.
+Clinical studies of DUPIXENT in EoE did not include sufficient numbers of subjects aged 65 years and older to determine whether they respond differently from younger adult subjects.
 
 Of the 152 subjects with PN exposed to DUPIXENT, a total of 37 were 65 years or older including 8 subjects 75 years or older.
 Clinical trials did not include a sufficient number of subjects 65 years of age and older to determine whether they respond differently from younger adult subjects.
@@ -146,3 +157,6 @@ No overall differences in safety or effectiveness of DUPIXENT have been observed
 
 Of the 198 subjects with CSU exposed to DUPIXENT, a total of 30 subjects were 65 years or older, including 7 subjects 75 years or older.
 Efficacy and safety in subjects 65 years or older were similar to the overall study population.
+
+Of the 53 subjects with BP exposed to DUPIXENT, a total of 40 were 65 years or older, including 22 subjects 75 years or older.
+Ten percent of subjects aged 65 years and older treated with DUPIXENT had an adverse reaction of vision blurred compared to zero in younger adult subjects.

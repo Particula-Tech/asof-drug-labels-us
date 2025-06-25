@@ -16,6 +16,8 @@ Hypersensitivity
 
 Advise patients to discontinue DUPIXENT and to seek immediate medical attention if they experience any symptoms of systemic hypersensitivity reactions [see Warnings and Precautions (5.1)].
 
+Advise patients to report signs and symptoms of AGEP to their healthcare provider [see Warnings and Precautions (5.1)].
+
 Conjunctivitis and Keratitis
 
 Advise patients to consult their healthcare provider if new onset or worsening eye symptoms develop [see Warnings and Precautions (5.2)].

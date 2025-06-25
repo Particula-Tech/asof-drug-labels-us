@@ -7,7 +7,7 @@ DUPIXENT can be used with or without topical corticosteroids.
 
 ## 1.2 Asthma
 
-DUPIXENT is indicated as an add-on maintenance treatment of adult and pediatric patients aged 6 years and older with moderate-to-severe asthma characterized by an eosinophilic phenotype or with oral corticosteroid dependent asthma [see Clinical Studies (14)].
+DUPIXENT is indicated as an add-on maintenance treatment of adult and pediatric patients aged 6 years and older with moderate-to-severe asthma characterized by an eosinophilic phenotype or with oral corticosteroid dependent asthma.
 
 Limitations of Use
 
@@ -40,3 +40,7 @@ DUPIXENT is indicated for the treatment of adult and pediatric patients aged 12 
 Limitations of Use:
 
 DUPIXENT is not indicated for treatment of other forms of urticaria.
+
+## 1.8 Bullous Pemphigoid
+
+DUPIXENT is indicated for the treatment of adult patients with bullous pemphigoid (BP).

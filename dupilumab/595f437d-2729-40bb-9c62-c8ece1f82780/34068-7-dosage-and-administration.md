@@ -14,14 +14,14 @@ The DUPIXENT pre-filled pen is for use in adult and pediatric patients aged 2 ye
 The DUPIXENT pre-filled syringe is for use in adult and pediatric patients aged 6 months and older.
 
 A caregiver or patient 12 years of age and older may inject DUPIXENT using the pre-filled syringe or pre-filled pen.
-In pediatric patients 12 to 17 years of age, administer DUPIXENT under the supervision of an adult.
+In pediatric patients 12 years of age and older, administer DUPIXENT under the supervision of an adult.
 In pediatric patients 6 months to less than 12 years of age, administer DUPIXENT by a caregiver.
 
 Administration Instructions
 
-For AD, asthma, PN, and CSU patients taking an initial 600 mg dose, administer each of the two DUPIXENT 300 mg injections at different injection sites.
+For patients with AD, asthma, PN, CSU, and BP taking an initial 600 mg dose, administer each of the two DUPIXENT 300 mg injections at different injection sites.
 
-For AD, asthma, and CSU patients taking an initial 400 mg dose, administer each of the two DUPIXENT 200 mg injections at different injection sites.
+For patients with AD, asthma, and CSU taking an initial 400 mg dose, administer each of the two DUPIXENT 200 mg injections at different injection sites.
 
 Administer subcutaneous injection into the thigh or abdomen, except for the 2 inches (5 cm) around the navel.
 The upper arm can also be used if a caregiver administers the injection.
@@ -52,11 +52,11 @@ Table 1: Dosage of DUPIXENT in Pediatric Patients 6 Months to 5 Years of Age wit
 | 5 to less than 15 kg | 200 mg (one 200 mg injection) every 4 weeks (Q4W) |
 | 15 to less than 30 kg | 300 mg (one 300 mg injection) every 4 weeks (Q4W) |
 
-Dosage in Pediatric Patients 6 Years to 17 Years of Age
+Dosage in Pediatric Patients 6 Years of Age and Older
 
-The recommended dosage of DUPIXENT for pediatric patients 6 years to 17 years of age is specified in Table 2.
+The recommended dosage of DUPIXENT for pediatric patients 6 years of age and older is specified in Table 2.
 
-Table 2: Dosage of DUPIXENT in Pediatric Patients 6 Years to 17 Years of Age with Atopic Dermatitis
+Table 2: Dosage of DUPIXENT in Pediatric Patients 6 Years of Age and Older with Atopic Dermatitis
 
 | Body Weight | Initial Loading Dose | Subsequent Dosage |
 | --- | --- | --- |
@@ -139,17 +139,27 @@ Table 6: Dosage of DUPIXENT in Pediatric Patients 12 to 17 Years of Age with CSU
 | 30 to less than 60 kg | 400 mg (two 200 mg injections) | 200 mg every 2 weeks (Q2W) |
 | 60 kg or more | 600 mg (two 300 mg injections) | 300 mg every 2 weeks (Q2W) |
 
-## 2.10 Missed Doses
+## 2.10 Recommended Dosage for Bullous Pemphigoid
+
+The recommended dosage of DUPIXENT for adult patients is an initial dose of 600 mg (two 300 mg injections) followed by 300 mg given every other week (Q2W).
+
+Concomitant Oral Corticosteroids:
+
+Use DUPIXENT in combination with a tapering course of oral corticosteroids.
+Once disease control has occurred, gradually taper corticosteroids after which continue DUPIXENT as monotherapy.
+In case of relapse, corticosteroids may be added if medically advisable.
+
+## 2.11 Missed Doses
 
 If a weekly dose is missed, administer the dose as soon as possible, and start a new weekly schedule from the date of the last administered dose.
 
 If an every 2 week dose is missed, administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
-If the missed dose is not administered within 7 days, wait until the next dose on the original schedule.
+If the missed dose is not administered within 7 days, administer the dose, starting a new schedule based on this date.
 
 If an every 4 week dose is missed, administer the injection within 7 days from the missed dose and then resume the patient's original schedule.
 If the missed dose is not administered within 7 days, administer the dose, starting a new schedule based on this date.
 
-## 2.11 Preparation for Use
+## 2.12 Preparation for Use
 
 Before injection, remove DUPIXENT from the refrigerator and allow DUPIXENT to reach room temperature (45 minutes for the 300 mg/2 mL pre-filled syringe or pre-filled pen, and 30 minutes for the 200 mg/1.14 mL pre-filled syringe or pre-filled pen) without removing the needle cap.
 After removal from the refrigerator, DUPIXENT must be used within 14 days or discarded.

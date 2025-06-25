@@ -12,10 +12,12 @@ The following clinically significant adverse reactions are described elsewhere i
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
+Atopic Dermatitis
+
 Adults with Atopic Dermatitis
 
-Three randomized, double-blind, placebo-controlled, multicenter trials (SOLO 1, SOLO 2, and CHRONOS) and one dose-ranging trial (AD-1021) evaluated the safety of DUPIXENT in subjects with moderate-to-severe AD.
-The safety population had a mean age of 38 years; 41% of subjects were female, 67% were White, 24% were Asian, and 6% were Black; in terms of co-morbid conditions, 48% of the subjects had asthma, 49% had allergic rhinitis, 37% had food allergy, and 27% had allergic conjunctivitis.
+Three randomized, double-blind, placebo-controlled, multicenter trials (SOLO 1, SOLO 2, and CHRONOS) and one dose-ranging trial (AD-1021) evaluated the safety of DUPIXENT in subjects with moderate-to-severe AD [see Clinical Studies (14)].
+In terms of co-morbid conditions, 48% of the subjects had asthma, 49% had allergic rhinitis, 37% had food allergy, and 27% had allergic conjunctivitis.
 In these 4 trials, 1472 subjects were treated with subcutaneous injections of DUPIXENT, with or without concomitant topical corticosteroids (TCS).
 
 A total of 739 subjects were treated with DUPIXENT for at least 1 year in the development program for moderate-to-severe AD.
@@ -57,36 +59,36 @@ Safety through 260 Weeks (AD-1225)
 
 The long-term safety profile observed in this trial through 260 weeks was generally consistent with the safety profile of DUPIXENT observed in controlled studies.
 
-Pediatric Subjects 12 to 17 Years of Age with Atopic Dermatitis
+Pediatric Subjects 12 Years of Age and Older with Atopic Dermatitis
 
-The safety of DUPIXENT was assessed in a trial of 250 pediatric subjects 12 to 17 years of age with moderate-to-severe AD (AD-1526).
+The safety of DUPIXENT was assessed in a trial of 250 pediatric subjects 12 years of age and older with moderate-to-severe AD (AD-1526).
 The safety profile of DUPIXENT in these subjects through Week 16 was similar to the safety profile seen in adults with AD.
 
-The long-term safety of DUPIXENT was assessed in an open-label extension study in pediatric subjects 12 to 17 years of age with moderate-to-severe AD (AD-1434).
+The long-term safety of DUPIXENT was assessed in an open-label extension study in pediatric subjects 12 years of age and older with moderate-to-severe AD (AD-1434).
 The safety profile of DUPIXENT in subjects followed through Week 52 was similar to the safety profile observed at Week 16 in AD-1526.
-The long-term safety profile of DUPIXENT observed in pediatric subjects 12 to 17 years of age was consistent with that seen in adults with AD.
+The long-term safety profile of DUPIXENT observed in pediatric subjects 12 years of age and older was consistent with that seen in adults with AD.
 
 Pediatric Subjects 6 to 11 Years of Age with Atopic Dermatitis
 
 The safety of DUPIXENT with concomitant TCS was assessed in a trial of 367 pediatric subjects 6 to 11 years of age with severe AD (AD-1652).
-The safety profile of DUPIXENT + TCS in these subjects through Week 16 was similar to the safety profile from trials in adult and pediatric subjects 12 to 17 years of age with AD.
+The safety profile of DUPIXENT + TCS in these subjects through Week 16 was similar to the safety profile from trials in adult and pediatric subjects 12 years of age and older with AD.
 
 The long-term safety of DUPIXENT ± TCS was assessed in an open-label extension study of 368 pediatric subjects 6 to 11 years of age with AD (AD-1434).
 Among subjects who entered this study, 110 (30%) had moderate and 72 (20%) had severe AD at the time of enrollment in AD-1434.
 The safety profile of DUPIXENT ± TCS in subjects followed through Week 52 was similar to the safety profile observed through Week 16 in AD-1652.
-The long-term safety profile of DUPIXENT ± TCS observed in pediatric subjects 6 to 11 years of age was consistent with that seen in adult and pediatric subjects 12 to 17 years of age with AD [see Use in Specific Populations (8.4)].
+The long-term safety profile of DUPIXENT ± TCS observed in pediatric subjects 6 to 11 years of age was consistent with that seen in adult and pediatric subjects 12 years of age and older with AD.
 
 Pediatric Subjects 6 Months to 5 Years of Age with Atopic Dermatitis
 
 The safety of DUPIXENT with concomitant TCS was assessed in a trial of 161 pediatric subjects 6 months to 5 years of age with moderate-to-severe AD (AD-1539).
-The safety profile of DUPIXENT + TCS in these subjects through Week 16 was similar to the safety profile from trials in adults and pediatric subjects 6 to 17 years of age with AD.
+The safety profile of DUPIXENT + TCS in these subjects through Week 16 was similar to the safety profile from trials in adults and pediatric subjects 6 years of age and older with AD.
 
 The long-term safety of DUPIXENT ± TCS was assessed in an open-label extension study of 180 pediatric subjects 6 months to 5 years of age with AD (AD-1434).
 The majority of subjects were treated with DUPIXENT 300 mg every 4 weeks.
 The safety profile of DUPIXENT ± TCS in subjects followed through Week 52 was similar to the safety profile observed through Week 16 in AD-1539.
-The long-term safety profile of DUPIXENT ± TCS observed in pediatric subjects 6 months to 5 years of age was consistent with that seen in adults and pediatric subjects 6 to 17 years old with AD.
+The long-term safety profile of DUPIXENT ± TCS observed in pediatric subjects 6 months to 5 years of age was consistent with that seen in adults and pediatric subjects 6 years of age and older with AD.
 In addition, hand-foot-and-mouth disease was reported in 9 (5%) pediatric subjects and skin papilloma was reported in 4 (2%) pediatric subjects treated with DUPIXENT ± TCS.
-These cases did not lead to study drug discontinuation [see Use in Specific Populations (8.4)].
+These cases did not lead to study drug discontinuation.
 
 Atopic Dermatitis with Hand and/or Foot Involvement
 
@@ -189,12 +191,11 @@ In Part B, a helminth infection was reported in one DUPIXENT-treated subject.
 
 Prurigo Nodularis
 
-A total of 309 adult subjects with prurigo nodularis (PN) were evaluated in two 24-week randomized, double-blind, placebo-controlled, multicenter trials (PRIME and PRIME2).
+A total of 309 adult subjects with prurigo nodularis (PN) were evaluated in two 24-week randomized, double-blind, placebo-controlled, multicenter trials (PRIME and PRIME2) [see Clinical Studies (14.5)].
 The safety pool included data from the 24-week treatment and 12-week follow-up periods from both trials.
 
 The proportion of subjects who discontinued treatment due to adverse events was 3% of the placebo group and 0% of the DUPIXENT 300 mg Q2W group.
 
-The safety population had a mean age of 49 years; 65% of subjects were female, 56% were White, 34% were Asian, and 6% were Black or African American.
 Subjects with co-morbid conditions included 43% of subjects with a history of atopy (defined as having a medical history of AD, allergic rhinitis/rhino conjunctivitis, asthma, or food allergy), 8% of subjects with a history of hypothyroidism and 9% of subjects with a history of diabetes mellitus type 2.
 
 Table 11 summarizes the adverse reactions that occurred at a rate of at least 2% in subjects treated with DUPIXENT and at a higher rate than in their respective comparator group in PRIME and PRIME2.
@@ -262,19 +263,41 @@ Table 13: Adverse Reactions That Occurred in ≥2% of Adult and Pediatric Subjec
 | DUPIXENT 200 mg Q2W or 300 mg Q2W | Placebo |  |
 | Injection site reactionsInjection site reactions cluster includes injection site dermatitis, injection site erythema, injection site hematoma, injection site induration, injection site pain, injection site pruritus, injection site reaction, injection site swelling | 20 (10.3) | 16 (8.1) |
 
-Specific Adverse Reactions for AD, Asthma, CRSwNP, EoE, PN, COPD, and CSU
+Bullous Pemphigoid
+
+The safety of DUPIXENT was evaluated in a 52-week, randomized, double-blind, parallel-group, multicenter, placebo-controlled trial (ADEPT) in a total of 106 adult subjects with moderate-to-severe bullous pemphigoid (BP) [see Clinical Studies (14.8)].
+Of the 106 randomized subjects, all received at least one dose of DUPIXENT or placebo with a course of oral corticosteroids (OCS) with a prespecified taper.
+At the time of analysis, 87 subjects had completed Week 36 and 65 subjects had completed Week 52.
+
+Table 14 summarizes the adverse reactions that occurred in at least 2% of subjects treated with DUPIXENT and at a higher rate than placebo in the ADEPT trial.
+
+Table 14: Adverse Reactions Occurring in ≥2% of Adult Subjects with BP Treated with DUPIXENT in ADEPT and Greater than PlaceboIn combination with a tapering course of oral corticosteroids
+
+| N=53 n (%) | N=53 n (%) |  |
+| --- | --- | --- |
+| Adverse Reaction | ADEPT |  |
+| DUPIXENT 300 mg Q2W + OCS | Placebo + OCS |  |
+| Arthralgia | 5 (9%) | 3 (6%) |
+| Conjunctivitis | 4 (8%) | 0% |
+| Vision blurred | 4 (8%) | 0% |
+| Herpes viral infectionsHerpes viral infections include herpes simplex and herpes zoster | 3 (6%) | 0% |
+| Keratitis | 2 (4%) | 0% |
+
+A case of AGEP was reported in 1 subject with BP treated with DUPIXENT compared with 0 subjects in the placebo group.
+
+Specific Adverse Reactions for AD, Asthma, CRSwNP, EoE, PN, COPD, CSU and BP
 
 Conjunctivitis and Keratitis
 
-In adult subjects with AD, conjunctivitis was reported in 10% (34 per 100 subject-years) in the 300 mg Q2W dose group and in 2% of the placebo group (8 per 100 subject-years) during the 16-week treatment period of the monotherapy trials (SOLO 1, SOLO 2, and AD-1021).
-During the 52-week treatment period of concomitant therapy AD trial (CHRONOS), conjunctivitis was reported in 16% of the DUPIXENT 300 mg Q2W + TCS group (20 per 100 subject-years) and in 9% of the placebo + TCS group (10 per 100 subject-years).
-During the long-term OLE trial with data through 260 weeks (AD-1225), conjunctivitis was reported in 21% of the DUPIXENT group (12 per 100 subject-years).
+In adult subjects with AD, conjunctivitis was reported in 10% (34 per 100 patient-years) in the 300 mg Q2W dose group and in 2% of the placebo group (8 per 100 patient-years) during the 16-week treatment period of the monotherapy trials (SOLO 1, SOLO 2, and AD-1021).
+During the 52-week treatment period of concomitant therapy AD trial (CHRONOS), conjunctivitis was reported in 16% of the DUPIXENT 300 mg Q2W + TCS group (20 per 100 patient-years) and in 9% of the placebo + TCS group (10 per 100 patient-years).
+During the long-term OLE trial with data through 260 weeks (AD-1225), conjunctivitis was reported in 21% of the DUPIXENT group (12 per 100 patient-years).
 
-In DUPIXENT AD monotherapy trials (SOLO 1, SOLO 2, and AD-1021) through Week 16, keratitis was reported in <1% of the DUPIXENT group (1 per 100 subject-years) and in 0% of the placebo group (0 per 100 subject-years).
-In the 52-week DUPIXENT + topical corticosteroids (TCS) AD trial (CHRONOS), keratitis was reported in 4% of the DUPIXENT + TCS group (4 per 100 subject-years) and in 2% of the placebo + TCS group (2 per 100 subject-years).
+In DUPIXENT AD monotherapy trials (SOLO 1, SOLO 2, and AD-1021) through Week 16, keratitis was reported in <1% of the DUPIXENT group (1 per 100 patient-years) and in 0% of the placebo group (0 per 100 patient-years).
+In the 52-week DUPIXENT + topical corticosteroids (TCS) AD trial (CHRONOS), keratitis was reported in 4% of the DUPIXENT + TCS group (4 per 100 patient-years) and in 2% of the placebo + TCS group (2 per 100 patient-years).
 Conjunctivitis and keratitis occurred more frequently in AD subjects who received DUPIXENT.
 Conjunctivitis was the most frequently reported eye disorder.
-During the long-term OLE trial with data through 260 weeks (AD-1225), keratitis was reported in 3% of the DUPIXENT group (1 per 100 subject-years).
+During the long-term OLE trial with data through 260 weeks (AD-1225), keratitis was reported in 3% of the DUPIXENT group (1 per 100 patient-years).
 Most subjects with conjunctivitis or keratitis recovered or were recovering during the treatment period.
 
 Among subjects with asthma, the frequency of conjunctivitis and keratitis was similar between DUPIXENT and placebo.
@@ -282,48 +305,52 @@ Among subjects with asthma, the frequency of conjunctivitis and keratitis was si
 In adult subjects with CRSwNP, the frequency of conjunctivitis was 2% in the DUPIXENT group compared to 1% in the placebo group in the 24-week safety pool; these subjects recovered.
 
 In the 52-week CRSwNP study (SINUS-52), the frequency of conjunctivitis was 3% in the DUPIXENT adult subjects and 1% in the placebo subjects; all of these subjects recovered.
-There were no cases of keratitis reported in the CRSwNP development program [see Warnings and Precautions (5.2)].
+There were no cases of keratitis reported in the CRSwNP development program.
 
-Among subjects with EoE, there were no reports of conjunctivitis and keratitis in the DUPIXENT group in placebo-controlled trials [see Warnings and Precautions (5.2)].
+Among subjects with EoE, there were no reports of conjunctivitis and keratitis in the DUPIXENT group in placebo-controlled trials.
 In the 36-week active treatment extension period of Study EoE-2 Part B, conjunctivitis was reported in 4% of DUPIXENT-treated pediatric subjects with EoE.
 
 Among subjects with PN, the frequency of conjunctivitis was 4% in the DUPIXENT group compared to 1% in the placebo group; all of these subjects recovered or were recovering during the treatment period.
-There were no cases of keratitis reported in the PN development program [see Warnings and Precautions (5.2)].
+There were no cases of keratitis reported in the PN development program.
 
-Among subjects with COPD, the frequency of conjunctivitis and keratitis was 1.4% and 0.1% in the DUPIXENT group and 1% and 0% in the placebo group, respectively [see Warnings and Precautions (5.2)].
+Among subjects with COPD, the frequency of conjunctivitis and keratitis was 1.4% and 0.1% in the DUPIXENT group and 1% and 0% in the placebo group, respectively.
 
 Among subjects with CSU in the pooled safety population, the frequency of conjunctivitis was similar between DUPIXENT and placebo.
-There were no cases of keratitis reported in the CSU development program [see Warnings and Precautions (5.2)].
+There were no cases of keratitis reported in the CSU development program.
+
+Among subjects with BP, the frequency of conjunctivitis and keratitis was 8% and 4% in the DUPIXENT group and 0% and 0% in the placebo group, respectively.
 
 Eczema Herpeticum and Herpes Zoster
 
 The rate of eczema herpeticum was similar in the placebo and DUPIXENT groups in the AD trials.
 The rates remained stable through 260 weeks in the long-term OLE trial (AD-1225).
 
-Herpes zoster was reported in <1% of the DUPIXENT groups (1 per 100 subject-years) and in <1% of the placebo group (1 per 100 subject-years) in the 16-week AD monotherapy trials.
-In the 52-week DUPIXENT + TCS AD trial, herpes zoster was reported in 1% of the DUPIXENT + TCS group (1 per 100 subject-years) and 2% of the placebo + TCS group (2 per 100 subject-years).
-During the long-term OLE trial with data through 260 weeks (AD-1225), 2.0% of DUPIXENT-treated subjects reported herpes zoster (0.94 per 100 subject-years of follow up).
+Herpes zoster was reported in <1% of the DUPIXENT groups (1 per 100 patient-years) and in <1% of the placebo group (1 per 100 patient-years) in the 16-week AD monotherapy trials.
+In the 52-week DUPIXENT + TCS AD trial, herpes zoster was reported in 1% of the DUPIXENT + TCS group (1 per 100 patient-years) and 2% of the placebo + TCS group (2 per 100 patient-years).
+During the long-term OLE trial with data through 260 weeks (AD-1225), 2.0% of DUPIXENT-treated subjects reported herpes zoster (0.94 per 100 patient-years of follow up).
 Among asthma subjects the frequency of herpes zoster was similar between DUPIXENT and placebo.
 Among subjects with CRSwNP or EoE there were no reported cases of herpes zoster or eczema herpeticum.
 
-Among subjects with PN, herpes zoster and ophthalmic herpes zoster were each reported in <1% of the DUPIXENT group (1 per 100 subject-years) and 0% of the placebo group.
+Among subjects with PN, herpes zoster and ophthalmic herpes zoster were each reported in <1% of the DUPIXENT group (1 per 100 patient-years) and 0% of the placebo group.
 
 Among subjects with COPD, herpes zoster was reported in 0.9% of the DUPIXENT group and 0.2% of the placebo group.
 Ophthalmic herpes zoster was reported in 0.1% of the DUPIXENT group and 0.2% of the placebo group.
 
-Among subjects with CSU in the pooled safety population, herpes zoster was reported in <1% of the DUPIXENT and placebo groups (1 per 100 subject-years).
+Among subjects with CSU in the pooled safety population, herpes zoster was reported in <1% of the DUPIXENT and placebo groups (1 per 100 patient-years).
 There were no cases of eczema herpeticum reported in the CSU development program.
+
+Among subjects with BP, herpes zoster was reported in 4% of the DUPIXENT group and 0% of the placebo group.
 
 Hypersensitivity Reactions
 
 Hypersensitivity reactions were reported in <1% of DUPIXENT-treated subjects.
-These included anaphylaxis, serum sickness or serum sickness-like reactions, generalized urticaria, rash, erythema nodosum, and erythema multiforme [see Contraindications (4), Warnings and Precautions (5.1), and Clinical Pharmacology (12.6)].
+These included anaphylaxis, AGEP, serum sickness or serum sickness-like reactions, generalized urticaria, rash, erythema nodosum, and erythema multiforme [see Contraindications (4), and Clinical Pharmacology (12.6)].
 
 Eosinophils
 
-DUPIXENT-treated subjects with AD, asthma, CRSwNP, and COPD had a greater initial increase from baseline in blood eosinophil count compared to subjects treated with placebo.
+DUPIXENT-treated subjects with AD, asthma, CRSwNP, and COPD had a greater initial increase from baseline in blood eosinophil count compared to subjects receiving placebo.
 In adult subjects with AD (SOLO 1, SOLO 2, and AD-1021), the mean and median increases in blood eosinophils from baseline to Week 4 were 100 and 0 cells/mcL, respectively.
-In pediatric subjects <6 years old with AD, the mean and median increases from baseline to week 4 were 478 and 90 cells/mcL, respectively.
+In pediatric subjects less than 6 years old with AD, the mean and median increases from baseline to week 4 were 478 and 90 cells/mcL, respectively.
 
 In adult and pediatric subjects 12 years of age and older with asthma (DRI12544 and QUEST), the mean and median increases in blood eosinophils from baseline to Week 4 were 130 and 10 cells/mcL, respectively.
 In subjects 6 to 11 years of age with asthma (VOYAGE), the mean and median increases in blood eosinophils from baseline to Week 12 were 124 and 0 cells/mcL, respectively.
@@ -339,14 +366,18 @@ In adult and pediatric subjects with CSU (CUPID Study A, Study B, and Study C) t
 
 In subjects with PN (PRIME and PRIME2), the mean and median decrease in blood eosinophils from baseline to Week 4 were 9 and 10 cells/mcL, respectively.
 
+In DUPIXENT-treated subjects with BP in ADEPT, all of whom received background oral corticosteroid (OCS) treatment, the mean and median decrease in blood eosinophils from baseline to Week 4 were 1022 and 485 cells/mcL, respectively.
+
 In the trials for the COPD indication, treatment-emergent eosinophilia (≥500 cells/mcL) was higher in DUPIXENT (41.7%) than in the placebo group (39.4%); none of the cases were associated with clinical symptoms, and treatment-emergent eosinophilia (≥1000 cells/mcL) was higher in DUPIXENT (13.6%) than in the placebo group (8.1%).
 
 Across the trials for AD, asthma, CRSwNP, and CSU indications, the incidence of treatment-emergent eosinophilia (≥500 cells/mcL) was similar in DUPIXENT and placebo groups.
 
 In the trials for the PN indication, the incidence of treatment-emergent eosinophilia (≥500 cells/mcL) was lower in DUPIXENT than in the placebo group.
 
-Treatment-emergent eosinophilia (≥5,000 cells/mcL) was observed in <3% of DUPIXENT-treated subjects and <0.5% in placebo-treated subjects (SOLO 1, SOLO 2, and AD-1021; DRI12544, QUEST, and VOYAGE; SINUS-24 and SINUS-52; PRIME and PRIME2; BOREAS and NOTUS; CUPID Study A, B, and C). Blood eosinophil counts declined to near baseline or remained below baseline levels (PRIME and PRIME2; BOREAS and NOTUS) during study treatment.
-In study AD-1539, treatment-emergent eosinophilia (≥5,000 cells/mcL) was reported in 8% of DUPIXENT-treated subjects and 0% in placebo-treated subjects [see Warnings and Precautions (5.3)].
+In the trial for the BP indication, the incidence of treatment-emergent eosinophilia (≥500 cells/mcL) was higher in DUPIXENT (21%) than in the placebo group (11%).
+
+Treatment-emergent eosinophilia (≥5,000 cells/mcL) was observed in <3% of DUPIXENT-treated subjects and <0.5% in subjects receiving placebo (SOLO 1, SOLO 2, and AD-1021; DRI12544, QUEST, and VOYAGE; SINUS-24 and SINUS-52; PRIME and PRIME2; BOREAS and NOTUS; CUPID Study A, B, and C). Blood eosinophil counts declined to near baseline or remained below baseline levels (PRIME and PRIME2; BOREAS and NOTUS; ADEPT) during treatment.
+In trial AD-1539, treatment-emergent eosinophilia (≥5,000 cells/mcL) was reported in 8% of DUPIXENT-treated subjects and 0% in subjects receiving placebo [see Warnings and Precautions (5.3)].
 
 Cardiovascular Thromboembolic Events
 

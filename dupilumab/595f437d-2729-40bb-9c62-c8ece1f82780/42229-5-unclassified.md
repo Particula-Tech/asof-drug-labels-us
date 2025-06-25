@@ -1,6 +1,6 @@
 Manufactured by: Regeneron Pharmaceuticals, Inc. Tarrytown, NY 10591 U.S. License No. 1760
 
-Marketed by: sanofi-aventis U.S. LLC (Bridgewater, NJ 08807) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591)
+Marketed by: sanofi-aventis U.S. LLC (Morristown, NJ 07960) and Regeneron Pharmaceuticals, Inc. (Tarrytown, NY 10591)
 
 For patent information: www.dupixent-patents.com
 

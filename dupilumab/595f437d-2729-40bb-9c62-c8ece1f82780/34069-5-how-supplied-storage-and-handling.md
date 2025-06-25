@@ -16,11 +16,11 @@ The pre-filled pen is designed to deliver:
 
 DUPIXENT is available in cartons containing 2 pre-filled syringes with needle shield or 2 pre-filled pens.
 
-| Pack Size | 300 mg/2 mL Pre-filled Syringe with Needle Shield | 200 mg/1.14 mL Pre-filled Syringe with Needle Shield |
+| Pack Size | 300 mg/2 mL (150 mg/mL) Pre-filled Syringe with Needle Shield | 200 mg/1.14 mL (175 mg/mL) Pre-filled Syringe with Needle Shield |
 | --- | --- | --- |
 | Pack of 2 syringes | NDC 0024-5914-01 | NDC 0024-5918-01 |
 
-| Pack Size | 300 mg/2 mL Pre-filled Pen | 200 mg/1.14 mL Pre-filled Pen |
+| Pack Size | 300 mg/2 mL (150 mg/mL) Pre-filled Pen | 200 mg/1.14 mL (175 mg/mL) Pre-filled Pen |
 | --- | --- | --- |
 | Pack of 2 pens | NDC 0024-5915-02 | NDC 0024-5919-02 |
 
