@@ -18,4 +18,4 @@ HBV reactivation can occur in patients treated with rituximab products, in some 
 Screen all patients for HBV infection before treatment initiation and monitor patients during and after treatment with RIABNI.
 Discontinue RIABNI and concomitant medications in the event of HBV reactivation [see Warnings and Precautions (5.3)].
 
-Progressive Multifocal Leukoencephalopathy (PML), including fatal PML, can occur in patients receiving rituximab products [see Warnings and Precautions (5.4), Adverse Reactions (6.3)].
+Progressive Multifocal Leukoencephalopathy (PML), including fatal PML, can occur in patients receiving rituximab products [see Warnings and Precautions (5.4) and Adverse Reactions (6.1)].

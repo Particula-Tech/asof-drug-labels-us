@@ -7,7 +7,7 @@ Severe reactions typically occurred during the first infusion with time to onset
 Rituximab product-induced infusion-related reactions and sequelae include urticaria, hypotension, angioedema, hypoxia, bronchospasm, pulmonary infiltrates, acute respiratory distress syndrome, myocardial infarction, ventricular fibrillation, cardiogenic shock, anaphylactoid events, or death.
 
 Premedicate patients with an antihistamine and acetaminophen prior to dosing.
-For RA, GPA and MPA patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
+For RA, GPA and MPA, and PV patients, methylprednisolone 100 mg intravenously or its equivalent is recommended 30 minutes prior to each infusion.
 Institute medical management (e.g., glucocorticoids, epinephrine, bronchodilators, or oxygen) for infusion-related reactions as needed.
 Depending on the severity of the infusion-related reaction and the required interventions, temporarily or permanently discontinue RIABNI.
 Resume infusion at a minimum 50% reduction in rate after symptoms have resolved.
@@ -109,11 +109,11 @@ Based on human data, rituximab products can cause fetal harm due to B-cell lymph
 Advise pregnant women of the potential risk to a fetus.
 Advise females of reproductive potential to use effective contraception while receiving RIABNI and for 12 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
 
-## 5.12 Concomitant Use with Other Biologic Agents and DMARDS other than Methotrexate in RA, GPA and MPA
+## 5.12 Concomitant Use with Other Biologic Agents and DMARDS other than Methotrexate in RA, GPA and MPA, PV
 
 Limited data are available on the safety of the use of biologic agents or disease modifying antirheumatic drugs (DMARDs) other than methotrexate in RA patients exhibiting peripheral B-cell depletion following treatment with rituximab.
 Observe patients closely for signs of infection if biologic agents and/or DMARDs are used concomitantly.
-Use of concomitant immunosuppressants other than corticosteroids has not been studied in GPA or MPA patients exhibiting peripheral B-cell depletion following treatment with rituximab products.
+Use of concomitant immunosuppressants other than corticosteroids has not been studied in GPA or MPA or PV patients exhibiting peripheral B-cell depletion following treatment with rituximab products.
 
 ## 5.13 Use in RA Patients Who Have Not Had Prior Inadequate Response to Tumor Necrosis Factor (TNF) Antagonists
 

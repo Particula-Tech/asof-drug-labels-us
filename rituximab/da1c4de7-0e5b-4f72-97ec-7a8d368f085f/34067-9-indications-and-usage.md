@@ -15,8 +15,12 @@ RIABNI, in combination with fludarabine and cyclophosphamide (FC), is indicated 
 
 ## 1.3 Rheumatoid Arthritis (RA)
 
-RIABNI, in combination with methotrexate, is indicated for the treatment of adult patients with moderately- to severely- active rheumatoid arthritis who have had an inadequate response to one or more TNF antagonist therapies.
+RIABNI, in combination with methotrexate, is indicated for the treatment of adult patients with moderately- to-severely- active rheumatoid arthritis who have had an inadequate response to one or more TNF antagonist therapies.
 
 ## 1.4 Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA)
 
 RIABNI, in combination with glucocorticoids, is indicated for the treatment of adult patients with Granulomatosis with Polyangiitis (GPA) (Wegener's Granulomatosis) and Microscopic Polyangiitis (MPA).
+
+## 1.5 Pemphigus Vulgaris (PV)
+
+RIABNI is indicated for the treatment of adult patients with moderate to severe pemphigus vulgaris.
