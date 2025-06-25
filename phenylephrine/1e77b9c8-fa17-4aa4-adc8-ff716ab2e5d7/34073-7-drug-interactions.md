@@ -1,18 +1,18 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Agonists
+## Agonists
 
 The pressor effect of phenylephrine hydrochloride is increased in patients receiving:
 
-- Monoamine oxidase inhibitors (MAOI), such as selegiline.
-- β-adrenergic blockers
-- α-2 adrenergic agonists, such as clonidine
-- Steroids
-- Tricyclic antidepressants
-- Norepinephrine transport inhibitors, such as atomoxetine
-- Ergot alkaloids, such as methylergonovine maleate
-- Centrally-acting sympatholytic agents, such as guanfacine or reserpine
-- Atropine sulfate
+- •Monoamine oxidase inhibitors (MAOI), such as selegiline.
+- •β-adrenergic blockers
+- •α-2 adrenergic agonists, such as clonidine
+- •Steroids
+- •Tricyclic antidepressants
+- •Norepinephrine transport inhibitors, such as atomoxetine
+- •Ergot alkaloids, such as methylergonovine maleate
+- •Centrally-acting sympatholytic agents, such as guanfacine or reserpine
+- • Atropine sulfate
 
 ## 7.2 Antagonists
 

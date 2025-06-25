@@ -2,7 +2,7 @@
 
 ## 2.1 General Administration Instructions
 
-- Phenylephrine Hydrochloride Injection 10 mg/mL MUST BE DILUTED before administration as an intravenous bolus or for continuous intravenous infusion.
+- •Phenylephrine Hydrochloride Injection 10 mg/mL MUST BE DILUTED before administration as an intravenous bolus or for continuous intravenous infusion.
   The diluted solution should not be held for more than 4 hours at room temperature or for more than 24 hours under refrigerated conditions (2°C – 8°C).
 
 Parenteral drug products should be inspected for particulate matter and discoloration prior to administration.
@@ -11,8 +11,8 @@ Discard any unused portion.
 
 During Phenylephrine Hydrochloride Injection 10 mg/mL administration:
 
-- Correct intravascular volume depletion.
-- Correct acidosis.
+- •Correct intravascular volume depletion.
+- •Correct acidosis.
   Acidosis may reduce the effectiveness of phenylephrine.
 
 ## 2.2 Preparation of Phenylephrine Hydrochloride Injection
@@ -31,12 +31,12 @@ Dosing for Perioperative Setting
 
 In adult patients undergoing surgical procedures with either neuraxial anesthesia or general anesthesia:
 
-- Phenylephrine Hydrochloride Injection 10 mg/mL (diluted to 20 mcg/mL): 0.5 mcg/kg/min to 1.4 mcg/kg/min by intravenous continuous infusion, titrated to blood pressure goal.
+- •Phenylephrine Hydrochloride Injection 10 mg/mL (diluted to 20 mcg/mL): 0.5 mcg/kg/min to 1.4 mcg/kg/min by intravenous continuous infusion, titrated to blood pressure goal.
 
 Dosing for Septic or Other Vasodilatory Shock
 
 In adult patients with septic or other vasodilatory shock:
 
-- No bolus.
-- 0.5 mcg/kg/min to 6 mcg/kg/min by intravenous continuous infusion, titrated to blood pressure goal.
+- •No bolus.
+- •0.5 mcg/kg/min to 6 mcg/kg/min by intravenous continuous infusion, titrated to blood pressure goal.
   Doses above 6 mcg/kg/min do not show significant incremental increase in blood pressure.
