@@ -59,9 +59,9 @@ Table 4: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Contr
 The overall adverse reaction rate was similar in male and female patients.
 Although there were few non-Caucasian patients, no differences in the incidences of adverse reactions compared to Caucasian patients were observed.
 
-Lacosamide Tablets in Pediatric Patients Safety of lacosamide was evaluated in clinical studies of pediatric patients 4 years to less than 17 years of age for the treatment of partial-onset seizures.
-Across studies in pediatric patients with partial-onset seizures, 328 patients 4 years to less than 17 years of age received lacosamide oral solution or tablet, of whom 148 received lacosamide for at least 1 year.
-Adverse reactions reported in clinical studies of pediatric patients 4 years to less than 17 years of age were similar to those seen in adult patients.
+Lacosamide Tablets in Pediatric Patients Safety of lacosamide was evaluated in clinical studies of pediatric patients 1 month to less than 17 years of age for the treatment of partial-onset seizures.
+Across studies in pediatric patients with partial-onset seizures, 847 patients 1 month to less than 17 years of age received lacosamide oral solution or tablet, of whom 596 received lacosamide for at least 1 year.
+Adverse reactions reported in clinical studies of pediatric patients 1 month to less than 17 years of age were similar to those seen in adult patients.
 Primary Generalized Tonic-Clonic Seizures in Patients (4 Years of Age and Older) Adjunctive Therapy Trial (Study 5) In the adjunctive therapy placebo-controlled trial for primary generalized tonic-clonic seizures, adverse reactions that occurred in the study were generally similar to those that occurred in partial-onset seizure placebo-controlled studies.
 The most common adverse reactions (≥ 10% on lacosamide) reported in patients treated with lacosamide were dizziness (23%), somnolence (17%), headache (14%), and nausea (10%), compared to 7%, 14%, 10%, and 6%, respectively, of patients who received placebo.
 Additionally, an adverse reaction not previously reported of myoclonic epilepsy was reported in 3% of patients treated with lacosamide compared to 1% of patients who received placebo.

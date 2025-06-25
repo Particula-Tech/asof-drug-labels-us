@@ -25,7 +25,7 @@ Table 3: Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar.
 Anyone considering prescribing lacosamide or any other AED must balance this risk with the risk of untreated illness.
 Epilepsy and many other illnesses for which antiepileptics are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
-Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of thesesymptomsin any given patient may be related to the illness being treated.
+Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
 ## 5.2 Dizziness and Ataxia
 

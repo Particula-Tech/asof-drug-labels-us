@@ -47,12 +47,9 @@ Patients with an increase in seizure frequency >100% are represented on the Y-ax
 
 Figure 2 – Proportion of Patients by Responder Rate for Lacosamide and Placebo Groups in Studies 2, 3 and 4
 
-Additional pediatric use information is approved for UCB, Inc.'s VIMPAT ®(lacosamide) tablets.
-However, due to UCB, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
-
 ## 14.3 Adjunctive Therapy in Patients with Primary Generalized Tonic-Clonic Seizures
 
-The efficacy of lacosamide as adjunctive therapy in patients 4 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic (PGTC) seizures was established in a 24-week doubleblind, randomized, placebo-controlled, parallel-group, multi-center study (Study 5).
+The efficacy of lacosamide as adjunctive therapy in patients 4 years of age and older with idiopathic generalized epilepsy experiencing primary generalized tonic-clonic (PGTC) seizures was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center study (Study 5).
 The study consisted of a 12- week historical baseline period, a 4-week prospective baseline period, and a 24-week treatment period (which included a 6-week titration period and an 18-week maintenance period).
 Eligible patients on a stable dose of 1 to 3 antiepileptic drugs experiencing at least 3 documented PGTC seizures during the 16-week combined baseline period were randomized 1:1 to receive lacosamide (n=121) or placebo (n=121).
 Patients were dosed on a fixed-dose regimen.
