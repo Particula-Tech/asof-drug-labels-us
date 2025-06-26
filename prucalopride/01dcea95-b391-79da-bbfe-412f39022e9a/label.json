@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA218977"
+  ],
+  "inn": "prucalopride",
+  "labeler": "Apotex Corp.",
+  "package_ndcs": [
+    "60505-4806-3",
+    "60505-4807-3"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "prucalopride",
+      "name": "Prucalopride"
+    }
+  ],
+  "setid": "01dcea95-b391-79da-bbfe-412f39022e9a",
+  "source": "dailymed"
+}
