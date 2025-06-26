@@ -22,7 +22,7 @@ The mean reductions in ADHD-RS-IV total scores at endpoint were statistically si
 Placebo-adjusted changes from baseline were statistically significant for each of the 2 mg, 3 mg, and 4 mg INTUNIV randomized treatment groups in both studies, as well as the 1 mg INTUNIV treatment group that was included only in Study 2 (see Table 16).
 
 Dose-responsive efficacy was evident, particularly when data were examined on a weight-adjusted (mg/kg) basis.
-When evaluated over the dose range of 0.01 to 0.17 mg/kg/day, clinically relevant improvements were observed beginning at doses in the range 0.05 to-0.08 mg/kg/day.
+When evaluated over the dose range of 0.01 to 0.17 mg/kg/day, clinically relevant improvements were observed beginning at doses in the range 0.05 to 0.08 mg/kg/day.
 Doses up to 0.12 mg/kg/day were shown to provide additional benefit.
 
 In the monotherapy trials (Studies 1 and 2), subgroup analyses were performed to identify any differences in response based on gender or age (6 to 12 vs. 13 to 17).
@@ -56,7 +56,7 @@ Study 3 (313 study) was a double-blind, randomized, placebo-controlled, dose-opt
 Patients were started at the 1 mg INTUNIV dose level and were titrated weekly over a 5-week dose-optimization period to an optimal INTUNIV dose not to exceed 4 mg/day based on tolerability and clinical response.
 The dose was then maintained for a 3-week dose maintenance period before entry to 1 week of dose tapering.
 Patients took INTUNIV either in the morning or the evening while maintaining their current dose of psychostimulant treatment given each morning.
-Allowable psychostimulants in the study were ADDERALL XR®, VYVANSE®, CONCERTA®, FOCALIN XR®, RITALIN LA®, METADATE CD®,or FDA-approved generic equivalents.
+Allowable psychostimulants in the study were ADDERALL XR®, VYVANSE®, CONCERTA®, FOCALIN XR®, RITALIN LA®, METADATE CD®, or FDA-approved generic equivalents.
 
 Symptoms of ADHD were evaluated on a weekly basis by clinicians using the ADHD Rating Scale (ADHD-RS-IV), which includes both hyperactive/impulsive and inattentive subscales.
 The primary efficacy outcome was the change from baseline to endpoint in ADHD-RS-IV total scores.

@@ -40,7 +40,7 @@ INTUNIV has significantly reduced Cmax (60% lower), bioavailability (43% lower),
 
 Pharmacological treatment of ADHD may be needed for extended periods.
 Healthcare providers should periodically re-evaluate the long-term use of INTUNIV, and adjust weight-based dosage as needed.
-The majority of children and adolescents reach optimal doses in the 0.050.12 mg/kg/day range.
+The majority of children and adolescents reach optimal doses in the 0.05 to 0.12 mg/kg/day range.
 Doses above 4 mg/day have not been evaluated in children (ages 6 to 12 years) and above 7 mg/day have not been evaluated in adolescents (ages 13 to 17 years) [see Clinical Studies (14)].
 
 ## 2.5 Discontinuation of Treatment
