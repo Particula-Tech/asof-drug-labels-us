@@ -21,7 +21,7 @@ There is no evidence for tachyphylaxis or tolerance to the pressor effect of vas
 
 ## 12.3 Pharmacokinetics
 
-Vasopressin plasma concentrations increase linearly with increasing infusion rates from 10 to 200 μU/kg/min.
+Vasopressin plasma concentrations increase linearly with increasing infusion rates from 10 micro-units/kg/min to 200 micro-units /kg/min.
 Steady state plasma concentrations are achieved after 30 minutes of continuous intravenous infusion.
 
 Distribution
@@ -31,7 +31,7 @@ The volume of distribution is 140 mL/kg.
 
 Elimination
 
-At infusion rates used in vasodilatory shock (0.01 to 0.1 units/minute), the clearance of vasopressin is 9 to 25 mL/min/kg in patients with vasodilatory shock.
+At infusion rates used in vasodilatory shock (0.01 units/minute to 0.1 units/minute), the clearance of vasopressin is 9 to 25 mL/min/kg in patients with vasodilatory shock.
 The apparent t1/2 of vasopressin at these levels is ≤10 minutes.
 
 Metabolism

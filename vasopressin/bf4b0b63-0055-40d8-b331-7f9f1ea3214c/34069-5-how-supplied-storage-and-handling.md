@@ -3,13 +3,13 @@
 Vasopressin in Sodium Chloride Injection is a clear, colorless solution for intravenous administration available as:
 
 NDC 81298-8552-3: A carton of 10 single dose vials.
-Each vial contains vasopressin 100 mL at 20 units/100 mL (0.2 units/mL).
+Each vial contains vasopressin 20 units/100 mL (0.2 units/mL).
 
 NDC 81298-8554-3: A carton of 10 single dose vials.
-Each vial contains vasopressin 100 mL at 40 units/100 mL (0.4 units/mL).
+Each vial contains vasopressin 40 units/100 mL (0.4 units/mL).
 
 NDC 81298-8550-3: A carton of 10 single dose vials.
-Each vial contains vasopressin 50 mL at 50 units/50 mL (1 unit/mL).
+Each vial contains vasopressin 50 units/50 mL (1 unit/mL).
 
 Store unopened vials refrigerated at 2°C to 8°C (36°F to 46°F).
 Do not freeze.
