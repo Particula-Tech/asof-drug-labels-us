@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA203312"
+  ],
+  "inn": "carbidopa",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "60846-661-01",
+    "60846-662-01",
+    "60846-663-01",
+    "60846-664-01"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "carbidopa and levodopa",
+      "name": "RYTARY"
+    }
+  ],
+  "setid": "4647e9b8-2861-4e4c-af5e-9d07979d7999",
+  "source": "dailymed"
+}
