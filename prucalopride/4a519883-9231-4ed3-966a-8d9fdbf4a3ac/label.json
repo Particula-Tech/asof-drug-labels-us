@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA219160"
+  ],
+  "inn": "prucalopride",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-391-30",
+    "31722-392-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "prucalopride",
+      "name": "PRUCALOPRIDE"
+    }
+  ],
+  "setid": "4a519883-9231-4ed3-966a-8d9fdbf4a3ac",
+  "source": "dailymed"
+}
