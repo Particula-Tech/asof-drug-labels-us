@@ -17,7 +17,7 @@ Etodolac extended-release tablets are available as:
 - in bottles of 60, NDC 16714-499-01
 - in bottles of 100, NDC 16714-499-02
 
-Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
+Store at 20° to 25°C (68° to 77°F)[See USP Controlled Room Temperature].
 
 Protect from excessive heat and humidity.
 
