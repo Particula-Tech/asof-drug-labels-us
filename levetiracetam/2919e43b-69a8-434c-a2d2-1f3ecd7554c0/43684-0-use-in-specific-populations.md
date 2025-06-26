@@ -10,7 +10,7 @@ Encourage women who are taking KEPPRA XR during pregnancy to enroll in the North
 Risk Summary
 
 Prolonged experience with KEPPRA in pregnant women has not identified a drug-associated risk of major birth defects or miscarriage, based on published literature, which includes data from pregnancy registries and reflects experience over two decades [see Human Data].
-In animal studies, levetiracetam produced developmental toxicity (increased embryofetal and offspring mortality, increased incidences of fetal structural abnormalities, decreased embryofetal and offspring growth, neurobehavioral alterations in offspring) at doses similar to human therapeutic doses [see Animal Data].
+In animal studies, levetiracetam produced developmental toxicity (increased embryofetal and offspring mortality, increased incidences of fetal structural abnormalities, decreased embryofetal and offspring growth, neurobehavioral alterations in offspring) at doses similar to human therapeutic doses [seeAnimal Data].
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -34,16 +34,16 @@ Animal Data
 
 When levetiracetam (0, 400, 1200, or 3600 mg/kg/day) was administered orally to pregnant rats during the period of organogenesis, reduced fetal weights and increased incidence of fetal skeletal variations were observed at the highest dose tested.
 There was no evidence of maternal toxicity.
-The no-effect dose for adverse effects on embryofetal developmental in rats (1200 mg/kg/day) is approximately 4 times the maximum recommended human dose (MRHD) of 3000 mg on a body surface area (mg/m2) basis.
+The no-effect dose for adverse effects on embryofetal developmental in rats (1200 mg/kg/day) is approximately 4 times the maximum recommended human dose (MRHD) of 3000 mg on a body surface area (mg/m 2) basis.
 
 Oral administration of levetiracetam (0, 200, 600, or 1800 mg/kg/day) to pregnant rabbits during the period of organogenesis resulted in increased embryofetal mortality and incidence of fetal skeletal variations at the mid and high dose and decreased fetal weights and increased incidence of fetal malformations at the high dose, which was associated with maternal toxicity.
-The no-effect dose for adverse effects on embryofetal development in rabbits (200 mg/kg/day) is approximately equivalent to the MRHD on a mg/m2 basis.
+The no-effect dose for adverse effects on embryofetal development in rabbits (200 mg/kg/day) is approximately equivalent to the MRHD on a mg/m 2basis.
 
 Oral administration of levetiracetam (0, 70, 350, or 1800 mg/kg/day) to female rats throughout pregnancy and lactation led to an increased incidence of fetal skeletal variations, reduced fetal body weight, and decreased growth in offspring at the mid and high doses and increased pup mortality and neurobehavioral alterations in offspring at the highest dose tested.
 There was no evidence of maternal toxicity.
-The no-effect dose for adverse effects on pre- and postnatal development in rats (70 mg/kg/day) is less than the MRHD on a mg/m2 basis.
+The no-effect dose for adverse effects on pre- and postnatal development in rats (70 mg/kg/day) is less than the MRHD on a mg/m 2basis.
 
-Oral administration of levetiracetam to rats during the latter part of gestation and throughout lactation produced no adverse developmental or maternal effects at doses of up to 1800 mg/kg/day (6 times the MRHD on a mg/m2 basis).
+Oral administration of levetiracetam to rats during the latter part of gestation and throughout lactation produced no adverse developmental or maternal effects at doses of up to 1800 mg/kg/day (6 times the MRHD on a mg/m 2basis).
 
 ## 8.2 Lactation
 
@@ -69,7 +69,7 @@ An analysis of the CBCL/6-18 indicated a worsening in aggressive behavior, one o
 
 Juvenile Animal Toxicity Data
 
-Studies of levetiracetam in juvenile rats (dosed on postnatal days 4 through 52) and dogs (dosed from postnatal weeks 3 through 7) at doses of up to 1800 mg/kg/day (approximately 7 and 24 times, respectively, the maximum recommended pediatric dose of 60 mg/kg/day on a mg/m2 basis) did not demonstrate adverse effects on postnatal development.
+Studies of levetiracetam in juvenile rats (dosed on postnatal days 4 through 52) and dogs (dosed from postnatal weeks 3 through 7) at doses of up to 1800 mg/kg/day (approximately 7 and 24 times, respectively, the maximum recommended pediatric dose of 60 mg/kg/day on a mg/m 2basis) did not demonstrate adverse effects on postnatal development.
 
 ## 8.5 Geriatric Use
 

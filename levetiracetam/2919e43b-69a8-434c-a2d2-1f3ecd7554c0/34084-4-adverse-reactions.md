@@ -17,7 +17,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 KEPPRA XR Tablets
 
-In the controlled clinical study in patients with partial-onset seizures [see Clinical Studies (14.1)], the most common adverse reactions in patients receiving KEPPRA XR in combination with other AEDs, for events with rates greater than placebo, were irritability and somnolence.
+In the controlled clinical study in patients with partial-onset seizures [seeClinical Studies (14.1)],the most common adverse reactions in patients receiving KEPPRA XR in combination with other AEDs, for events with rates greater than placebo, were irritability and somnolence.
 
 Table 3 lists adverse reactions that occurred in at least 5% of epilepsy patients receiving KEPPRA XR in the placebo-controlled study and were numerically more common than in patients treated with placebo.
 In this study, either KEPPRA XR or placebo was added to concurrent AED therapy.

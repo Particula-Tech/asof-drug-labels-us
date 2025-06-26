@@ -4,7 +4,7 @@ NDC 50474-598-66 60 tablets
 
 Once Daily Dosing
 
-KEPPRA XR®(levetiracetam) extended-release tablets
+KEPPRA XR ®(levetiracetam) extended-release tablets
 
 500 mg tablets
 
@@ -18,7 +18,7 @@ NDC 50474-599-66 60 tablets
 
 Once Daily Dosing
 
-KEPPRA XR®(levetiracetam) extended-release tablets
+KEPPRA XR ®(levetiracetam) extended-release tablets
 
 750 mg tablets
 
