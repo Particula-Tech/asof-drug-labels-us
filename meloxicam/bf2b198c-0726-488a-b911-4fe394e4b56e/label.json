@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA218395"
+  ],
+  "inn": "meloxicam",
+  "labeler": "Azurity Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "24338-153-01",
+    "24338-153-02"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "meloxicam",
+      "name": "XIFYRM"
+    }
+  ],
+  "setid": "bf2b198c-0726-488a-b911-4fe394e4b56e",
+  "source": "dailymed"
+}
