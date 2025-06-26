@@ -132,14 +132,14 @@ Maraviroc pharmacokinetic parameters in pediatric subjects aged 2 to less than 1
 Table 12.
 Maraviroc Pharmacokinetic Parameters in Treatment-Experienced Pediatric Patients Receiving SELZENTRY with Potent CYP3A Inhibitors (with or without a Potent CYP3A Inducer)
 
-| Weight | Dose of SELZENTRY | Maraviroc Pharmacokinetic ParameteraGeometric Mean |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AUC12 (ng.h/mL) | Cavg (ng/mL) | Cmax (ng/mL) | Cmin (ng/mL) |  |  |  |  |  |  |  |  |
-| 10 kg to <20 kg | 50 mg twice daily | 2,349 | 196 | 324 | 78 |  |  |  |  |  |  |
-| 20 kg to <30 kg | 75 mg twice daily | 3,020 | 252 | 394 | 118 |  |  |  |  |  |  |
-| 30 kg to <40 kg | 100 mg twice daily | 3,229 | 269 | 430 | 126 |  |  |  |  |  |  |
-| ≥40 kg | 150 mg twice daily | 4,044 | 337 | 563 | 152 |  |  |  |  |  |  |
-| a Model-predicted steady-state pharmacokinetic parameters are presented. |  |  |  |  |  |  |  |  |  |  |  |
+| Weight | Dose of SELZENTRY | Maraviroc Pharmacokinetic ParameteraGeometric Mean |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| AUC12 (ng.h/mL) | Cavg (ng/mL) | Cmax (ng/mL) | Cmin (ng/mL) |  |  |
+| 10 kg to <20 kg | 50 mg twice daily | 2,349 | 196 | 324 | 78 |
+| 20 kg to <30 kg | 75 mg twice daily | 3,020 | 252 | 394 | 118 |
+| 30 kg to <40 kg | 100 mg twice daily | 3,229 | 269 | 430 | 126 |
+| ≥40 kg | 150 mg twice daily | 4,044 | 337 | 563 | 152 |
+| a Model-predicted steady-state pharmacokinetic parameters are presented. |  |  |  |  |  |
 
 Aged from Birth to Less Than 6 Weeks: The pharmacokinetics of maraviroc were evaluated in 38 of 47 enrolled HIV-1–exposed neonates (born to HIV-1–infected mothers) aged from birth up to 6 weeks [see Adverse Reactions (6.1)].
 In the IMPAACT P2007 trial, 13 neonates received weight-based maraviroc dosing as single doses at birth and approximately 7 days, and 25 neonates received maraviroc twice daily up to 6 weeks of age without exposure to potent CYP3A inhibitors and/or inducers.
@@ -149,13 +149,13 @@ Exposure to maternal efavirenz both in utero (for a minimum of 2 weeks immediate
 Table 13.
 Maraviroc Pharmacokinetic Parameters in Full-Term Neonates (Birth Up to 6 Weeks of Age) Receiving SELZENTRY with Noninteracting Concomitant Medicationsa
 
-| Pharmacokinetic Sampling Time | n | Median Dose (range) | Maraviroc Pharmacokinetic ParameterGeometric Mean |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AUC12 (ng.h/mL) | Cavg (ng/mL) | Cmax (ng/mL) | Cmin (ng/mL) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Day 1 | 13 | 30 mg (20 to 40 mg) single dose | 3,510b | 292 | 380 | - |  |  |  |  |  |  |  |  |  |  |  |  |
-| Week 1 | 25 | 25 mg (20 to 30 mg)twice daily | 1,216 | 101 | 262 | 23 |  |  |  |  |  |  |  |  |  |  |  |  |
-| Week 4 | 25 | 30 mg (20 to 40 mg)twice daily | 1,385 | 115 | 295 | 43 |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Noninteracting concomitant medications include all medications that are not potent CYP3A inhibitors or inducers. b AUCinf calculated for single-dose pharmacokinetics. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Pharmacokinetic Sampling Time | n | Median Dose (range) | Maraviroc Pharmacokinetic ParameterGeometric Mean |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| AUC12 (ng.h/mL) | Cavg (ng/mL) | Cmax (ng/mL) | Cmin (ng/mL) |  |  |  |
+| Day 1 | 13 | 30 mg (20 to 40 mg) single dose | 3,510b | 292 | 380 | - |
+| Week 1 | 25 | 25 mg (20 to 30 mg)twice daily | 1,216 | 101 | 262 | 23 |
+| Week 4 | 25 | 30 mg (20 to 40 mg)twice daily | 1,385 | 115 | 295 | 43 |
+| a Noninteracting concomitant medications include all medications that are not potent CYP3A inhibitors or inducers. b AUCinf calculated for single-dose pharmacokinetics. |  |  |  |  |  |  |
 
 Clinical pharmacokinetic data with maraviroc in pediatric patients aged older than 6 weeks to less than 2 years are not available and clinical pharmacokinetic data in pediatric patients aged 2 to less than 18 years receiving noninteracting concomitant medications are limited.
 Based on population pharmacokinetic modeling and simulation, the recommended dosing regimen of SELZENTRY for this population is predicted to result in similar maraviroc exposures when compared with exposures achieved in adults receiving SELZENTRY 300 mg twice daily (with noninteracting concomitant medications) [see Dosage and Administration (2.4)].
@@ -179,35 +179,35 @@ Cotrimoxazole and tenofovir did not affect the pharmacokinetics of maraviroc.
 Table 14.
 Effect of Coadministered Agents on the Pharmacokinetics of Maraviroc
 
-| Coadministered Drugand Dose | n | Dose of SELZENTRY | Ratio (90% CI) of Maraviroc Pharmacokinetic Parameters with/without Coadministered Drug(No Effect = 1.00) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cmin | AUCtau | Cmax |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| CYP3A and/or P-gp Inhibitors |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Ketoconazole400 mg q.d. | 12 | 100 mg b.i.d. | 3.75(3.01, 4.69) | 5.00(3.98, 6.29) | 3.38(2.38, 4.78) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Ritonavir100 mg b.i.d. | 8 | 100 mg b.i.d. | 4.55(3.37, 6.13) | 2.61(1.92, 3.56) | 1.28(0.79, 2.09) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Saquinavir (soft gel capsules) /ritonavir1,000 mg/100 mg b.i.d. | 11 | 100 mg b.i.d. | 11.3(8.96, 14.1) | 9.77(7.87, 12.14) | 4.78(3.41, 6.71) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Lopinavir/ritonavir400 mg/100 mg b.i.d. | 11 | 300 mg b.i.d. | 9.24(7.98, 10.7) | 3.95(3.43, 4.56) | 1.97(1.66, 2.34) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Atazanavir400 mg q.d. | 12 | 300 mg b.i.d. | 4.19(3.65, 4.80) | 3.57(3.30, 3.87) | 2.09(1.72, 2.55) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Atazanavir/ritonavir300 mg/100 mg q.d. | 12 | 300 mg b.i.d. | 6.67(5.78, 7.70) | 4.88(4.40, 5.41) | 2.67(2.32, 3.08) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Darunavir/ritonavir600 mg/100 mg b.i.d. | 12 | 150 mg b.i.d. | 8.00(6.35, 10.1) | 4.05(2.94, 5.59) | 2.29(1.46, 3.59) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Elvitegravir/ritonavir 150 mg/100 mg q.d. | 11 | 150 mg b.i.d. | 4.23(3.47, 5.16) | 2.86(2.33, 3.51) | 2.15(1.71, 2.69) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| CYP3A and/or P-gp Inducers |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Efavirenz 600 mg q.d. | 12 | 100 mg b.i.d. | 0.55(0.43, 0.72) | 0.55(0.49, 0.62) | 0.49(0.38, 0.63) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Efavirenz600 mg q.d. | 12 | 200 mg b.i.d.(+ efavirenz):100 mg b.i.d. (alone) | 1.09(0.89, 1.35) | 1.15(0.98, 1.35) | 1.16(0.87, 1.55) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rifampicin600 mg q.d. | 12 | 100 mg b.i.d. | 0.22(0.17, 0.28) | 0.37(0.33, 0.41) | 0.34(0.26, 0.43) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rifampicin600 mg q.d. | 12 | 200 mg b.i.d.(+ rifampicin):100 mg b.i.d. (alone) | 0.66(0.54, 0.82) | 1.04(0.89, 1.22) | 0.97(0.72, 1.29) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Etravirine200 mg b.i.d. | 14 | 300 mg b.i.d. | 0.61(0.53, 0.71) | 0.47(0.38, 0.58) | 0.40(0.28, 0.57) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nevirapinea200 mg b.i.d. (+ lamivudine 150 mg b.i.d., tenofovir 300 mg q.d.) | 8 | 300 mgsingle dose | – | 1.01(0.65, 1.55) | 1.54(0.94, 2.51) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| CYP3A and/or P-gp Inhibitors and Inducers |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Lopinavir/ritonavir + efavirenz 400 mg/100 mg b.i.d. + 600 mg q.d. | 11 | 300 mg b.i.d. | 6.29(4.72, 8.39) | 2.53(2.24, 2.87) | 1.25(1.01, 1.55) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Saquinavir (soft gel capsules) /ritonavir + efavirenz 1,000 mg/100 mg b.i.d. + 600 mg q.d. | 11 | 100 mg b.i.d. | 8.42(6.46, 10.97) | 5.00(4.26, 5.87) | 2.26(1.64, 3.11) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Darunavir/ritonavir + etravirine 600 mg/100 mg b.i.d. + 200 mg b.i.d. | 10 | 150 mg b.i.d. | 5.27(4.51, 6.15) | 3.10(2.57, 3.74) | 1.77(1.20, 2.60) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fosamprenavir/ritonavir700 mg/100 mg b.i.d. | 14 | 300 mg b.i.d. | 4.74(4.03, 5.57) | 2.49(2.19, 2.82) | 1.52(1.27, 1.82) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fosamprenavir/ritonavir1,400 mg/100 mg q.d. | 14 | 300 mg q.d. | 1.80(1.53, 2.13) | 2.26(1.99, 2.58) | 1.45(1.20, 1.74) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Tipranavir/ritonavir500 mg/200 mg b.i.d. | 12 | 150 mg b.i.d. | 1.80(1.55, 2.09) | 1.02(0.85, 1.23) | 0.86(0.61, 1.21) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Other |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Raltegravir 400 mg b.i.d. | 17 | 300 mg b.i.d. | 0.90(0.85, 0.96) | 0.86(0.80, 0.92) | 0.79(0.67, 0.94) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Compared with historical data. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Coadministered Drugand Dose | n | Dose of SELZENTRY | Ratio (90% CI) of Maraviroc Pharmacokinetic Parameters with/without Coadministered Drug(No Effect = 1.00) |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Cmin | AUCtau | Cmax |  |  |  |
+| CYP3A and/or P-gp Inhibitors |  |  |  |  |  |
+| Ketoconazole400 mg q.d. | 12 | 100 mg b.i.d. | 3.75(3.01, 4.69) | 5.00(3.98, 6.29) | 3.38(2.38, 4.78) |
+| Ritonavir100 mg b.i.d. | 8 | 100 mg b.i.d. | 4.55(3.37, 6.13) | 2.61(1.92, 3.56) | 1.28(0.79, 2.09) |
+| Saquinavir (soft gel capsules) /ritonavir1,000 mg/100 mg b.i.d. | 11 | 100 mg b.i.d. | 11.3(8.96, 14.1) | 9.77(7.87, 12.14) | 4.78(3.41, 6.71) |
+| Lopinavir/ritonavir400 mg/100 mg b.i.d. | 11 | 300 mg b.i.d. | 9.24(7.98, 10.7) | 3.95(3.43, 4.56) | 1.97(1.66, 2.34) |
+| Atazanavir400 mg q.d. | 12 | 300 mg b.i.d. | 4.19(3.65, 4.80) | 3.57(3.30, 3.87) | 2.09(1.72, 2.55) |
+| Atazanavir/ritonavir300 mg/100 mg q.d. | 12 | 300 mg b.i.d. | 6.67(5.78, 7.70) | 4.88(4.40, 5.41) | 2.67(2.32, 3.08) |
+| Darunavir/ritonavir600 mg/100 mg b.i.d. | 12 | 150 mg b.i.d. | 8.00(6.35, 10.1) | 4.05(2.94, 5.59) | 2.29(1.46, 3.59) |
+| Elvitegravir/ritonavir 150 mg/100 mg q.d. | 11 | 150 mg b.i.d. | 4.23(3.47, 5.16) | 2.86(2.33, 3.51) | 2.15(1.71, 2.69) |
+| CYP3A and/or P-gp Inducers |  |  |  |  |  |
+| Efavirenz 600 mg q.d. | 12 | 100 mg b.i.d. | 0.55(0.43, 0.72) | 0.55(0.49, 0.62) | 0.49(0.38, 0.63) |
+| Efavirenz600 mg q.d. | 12 | 200 mg b.i.d.(+ efavirenz):100 mg b.i.d. (alone) | 1.09(0.89, 1.35) | 1.15(0.98, 1.35) | 1.16(0.87, 1.55) |
+| Rifampicin600 mg q.d. | 12 | 100 mg b.i.d. | 0.22(0.17, 0.28) | 0.37(0.33, 0.41) | 0.34(0.26, 0.43) |
+| Rifampicin600 mg q.d. | 12 | 200 mg b.i.d.(+ rifampicin):100 mg b.i.d. (alone) | 0.66(0.54, 0.82) | 1.04(0.89, 1.22) | 0.97(0.72, 1.29) |
+| Etravirine200 mg b.i.d. | 14 | 300 mg b.i.d. | 0.61(0.53, 0.71) | 0.47(0.38, 0.58) | 0.40(0.28, 0.57) |
+| Nevirapinea200 mg b.i.d. (+ lamivudine 150 mg b.i.d., tenofovir 300 mg q.d.) | 8 | 300 mgsingle dose | – | 1.01(0.65, 1.55) | 1.54(0.94, 2.51) |
+| CYP3A and/or P-gp Inhibitors and Inducers |  |  |  |  |  |
+| Lopinavir/ritonavir + efavirenz 400 mg/100 mg b.i.d. + 600 mg q.d. | 11 | 300 mg b.i.d. | 6.29(4.72, 8.39) | 2.53(2.24, 2.87) | 1.25(1.01, 1.55) |
+| Saquinavir (soft gel capsules) /ritonavir + efavirenz 1,000 mg/100 mg b.i.d. + 600 mg q.d. | 11 | 100 mg b.i.d. | 8.42(6.46, 10.97) | 5.00(4.26, 5.87) | 2.26(1.64, 3.11) |
+| Darunavir/ritonavir + etravirine 600 mg/100 mg b.i.d. + 200 mg b.i.d. | 10 | 150 mg b.i.d. | 5.27(4.51, 6.15) | 3.10(2.57, 3.74) | 1.77(1.20, 2.60) |
+| Fosamprenavir/ritonavir700 mg/100 mg b.i.d. | 14 | 300 mg b.i.d. | 4.74(4.03, 5.57) | 2.49(2.19, 2.82) | 1.52(1.27, 1.82) |
+| Fosamprenavir/ritonavir1,400 mg/100 mg q.d. | 14 | 300 mg q.d. | 1.80(1.53, 2.13) | 2.26(1.99, 2.58) | 1.45(1.20, 1.74) |
+| Tipranavir/ritonavir500 mg/200 mg b.i.d. | 12 | 150 mg b.i.d. | 1.80(1.55, 2.09) | 1.02(0.85, 1.23) | 0.86(0.61, 1.21) |
+| Other |  |  |  |  |  |
+| Raltegravir 400 mg b.i.d. | 17 | 300 mg b.i.d. | 0.90(0.85, 0.96) | 0.86(0.80, 0.92) | 0.79(0.67, 0.94) |
+| a Compared with historical data. |  |  |  |  |  |
 
 Effect of Maraviroc on the Pharmacokinetics of Concomitant Drugs: Maraviroc is unlikely to inhibit the metabolism of coadministered drugs metabolized by the following cytochrome P enzymes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, and CYP3A) or to inhibit the uptake of OATP1B1 or the export of MRP2 because maraviroc did not inhibit activity of those enzymes or transporters at clinically relevant concentrations in vitro.
 Maraviroc does not induce CYP1A2 in vitro.
