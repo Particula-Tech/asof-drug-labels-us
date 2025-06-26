@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Treatment-Resistant Schizophrenia
+## 14.1 Treatment-resistant Schizophrenia
 
 The efficacy of clozapine in treatment-resistant schizophrenia was established in a multicenter, randomized, double-blind, active-controlled (chlorpromazine) study in patients with a DSM-III diagnosis of schizophrenia who had inadequate responses to at least 3 different antipsychotics (from at least 2 different chemical classes) during the preceding 5 years.
 The antipsychotic trials must have been judged adequate; the antipsychotic dosages must have been equivalent to or greater than 1000 mg per day of chlorpromazine for a period of at least 6 weeks, each without significant reduction of symptoms.

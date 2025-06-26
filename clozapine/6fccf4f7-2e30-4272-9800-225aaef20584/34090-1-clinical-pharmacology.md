@@ -3,8 +3,8 @@
 ## 12.1 Mechanism of Action
 
 The mechanism of action of clozapine is unknown.
-However, it has been proposed that the therapeutic efficacy of clozapine in schizophrenia is mediated through antagonism of the dopamine type 2 (D2) and the serotonin type 2A (5-HT2A) receptors.
-Clozapine orally disintegrating tablets also act as an antagonist at adrenergic, cholinergic, histaminergic and other dopaminergic and serotonergic receptors.
+However, it has been proposed that the therapeutic efficacy of Clozapine ODT in schizophrenia is mediated through antagonism of the dopamine type 2 (D2) and the serotonin type 2A (5-HT2A) receptors.
+Clozapine also acts as an antagonist at adrenergic, cholinergic, histaminergic and other dopaminergic and serotonergic receptors.
 
 ## 12.2 Pharmacodynamics
 
@@ -23,35 +23,35 @@ In these patients, the onset of REM sleep occurred almost immediately after fall
 
 ### Absorption
 
-In man, clozapine tablets (25 mg and 100 mg) are equally bioavailable relative to a clozapine solution.
-Clozapine orally disintegrating tablets are bioequivalent to Clozaril® (clozapine) tablets, a registered trademark of Novartis Pharmaceuticals Corporation.
-Following a dosage of 100 mg b.i.d., the average steady-state peak plasma concentration was 413 ng/mL (range: 132 to 854 ng/mL), occurring at the average of 2.3 hours (range: 1 to 6 hours) after dosing.
+In humans Clozapine ODT (25 mg and 100 mg) is equally bioavailable relative to a clozapine oral solution.
+Clozapine ODT is bioequivalent to Clozaril® (clozapine) tablets, a registered trademark of Novartis Pharmaceuticals Corporation.
+Following a dosage of 100 mg twice daily, the average steady-state peak plasma concentration was 413 ng/mL (range: 132 to 854 ng/mL), occurring at the average of 2.3 hours (range: 1 to 6 hours) after dosing.
 The average minimum concentration at steady-state was 168 ng/mL (range: 45 to 574 ng/mL), after 100 mg b.i.d. dosing.
 
-A comparative bioequivalence/bioavailability study was conducted in 32 patients (with schizophrenia or schizoaffective disorder) comparing clozapine orally disintegrating 200 mg tablets to 2 × clozapine orally disintegrating 100 mg tablets (the approved reference product) under fasted conditions.
+A comparative bioequivalence/bioavailability study was conducted in 32 patients (with schizophrenia or schizoaffective disorder) comparing Clozapine ODT 200 mg to 2 × Clozapine ODT 100 mg (the approved reference product) under fasted conditions.
 The study also evaluated the effect of food and chewing on the pharmacokinetics of the 200 mg tablet.
-Under fasted conditions, the mean AUCss and Cmin,ss of clozapine for the 200 mg tablets were equivalent to those of the 2 x 100 mg tablets.
-The mean Cmax,ss of clozapine for clozapine orally disintegrating 200 mg tablets was 85% that for 2 x 100 mg clozapine orally disintegrating tablets.
-This decrease in Cmax,ss for clozapine orally disintegrating 200 mg tablets is not clinically significant.
+Under fasted conditions, the mean AUCss and Cmin,ss of clozapine for the 200 mg oral disintegrating tablets were equivalent to those of the 2 x 100 mg tablets.
+The mean Cmax,ss of clozapine for Clozapine ODT 200 mg was 85% that for 2 x 100 mg Clozapine ODT.
+This decrease in Cmax,ss for Clozapine ODT 200 mg is not clinically significant.
 
-For clozapine orally disintegrating 200 mg tablets, food significantly increased the Cmin,ss of clozapine by 21%.
+For Clozapine ODT 200 mg, food significantly increased the Cmin,ss of clozapine by 21%.
 However, this increase is not clinically significant.
 The mean AUCss and Cmax,ss of clozapine under fed conditions were equivalent to those under fasted conditions.
 Food delayed clozapine absorption by 1.5 hours, from a median Tmax of 2.5 hours under fasted conditions to 4 hours under fed conditions.
 
-The mean Cmax,ss of clozapine under chewed conditions for clozapine orally disintegrating 200 mg tablets was about 86% that for 2 x 100 mg clozapine orally disintegrating tablets under non-chewed conditions, while the AUCss and Cmin,ss values were similar between the chewed and non-chewed conditions.
+The mean Cmax,ss of clozapine under chewed conditions for Clozapine ODT 200 mg was about 86% that for 2 x 100 mg Clozapine ODT under non-chewed conditions, while the AUCss and Cmin,ss values were similar between the chewed and non-chewed conditions.
 
-In a food-effect study, a single dose of clozapine orally disintegrating tablets 12.5 mg was administered to healthy volunteers under fasting conditions and after a high-fat meal.
-When clozapine orally disintegrating tablets were administered after a high-fat meal, the Cmax of both clozapine and its active metabolite, desmethylclozapine, were decreased by approximately 20%, compared to administration under fasting conditions, while the AUC values were unchanged.
+In a food-effect study, a single dose of Clozapine ODT 12.5 mg was administered to healthy volunteers under fasting conditions and after a high-fat meal.
+When Clozapine ODT were administered after a high-fat meal, the Cmax of both clozapine and its active metabolite, desmethylclozapine, were decreased by approximately 20%, compared to administration under fasting conditions, while the AUC values were unchanged.
 This decrease in Cmax is not clinically significant.
-Therefore, clozapine orally disintegrating tablets can be taken without regard to meals.
+Therefore, Clozapine ODT can be taken without regard to meals.
 
-#### Distribution
+Distribution
 
 Clozapine is approximately 97% bound to serum proteins.
 The interaction between clozapine and other highly protein-bound drugs has not been fully evaluated but may be important [see Drug Interactions (7)].
 
-#### Metabolism and Excretion
+Metabolism and Excretion
 
 Clozapine is almost completely metabolized prior to excretion, and only trace amounts of unchanged drug are detected in the urine and feces.
 Clozapine is a substrate for many cytochrome P450 isozymes, in particular CYP1A2, CYP2D6, and CYP3A4.
@@ -60,34 +60,24 @@ The demethylated, hydroxylated, and N-oxide derivatives are components in both u
 Pharmacological testing has shown the desmethyl metabolite (norclozapine) to have only limited activity, while the hydroxylated and N-oxide derivatives were inactive.
 The mean elimination half-life of clozapine after a single 75 mg dose was 8 hours (range: 4 to 12 hours), compared to a mean elimination half-life of 12 hours (range: 4 to 66 hours), after achieving steady state with 100 mg twice daily dosing.
 
-A comparison of single-dose and multiple-dose administration of clozapine demonstrated that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration-dependent pharmacokinetics.
+A comparison of single-dose and multiple-dose administration of Clozapine ODT demonstrated that the elimination half-life increased significantly after multiple dosing relative to that after single-dose administration, suggesting the possibility of concentration-dependent pharmacokinetics.
 However, at steady state, approximately dose-proportional changes with respect to AUC (area under the curve), peak, and minimum clozapine plasma concentrations were observed after administration of 37.5, 75, and 150 mg twice daily.
 
 ### Drug-Drug Interaction Studies
 
-Fluvoxamine
-
-A pharmacokinetic study was conducted in 16 schizophrenic patients who received clozapine under steady-state conditions.
+Fluvoxamine: A pharmacokinetic study was conducted in 16 patients with schizophrenia who received clozapine under steady-state conditions.
 After coadministration of fluvoxamine for 14 days, mean trough concentrations of clozapine and its metabolites, N-desmethylclozapine and clozapine N-oxide, were elevated about three-fold compared to baseline steady state concentrations.
 
-Paroxetine, Fluoxetine, and Sertraline
-
-In a study of schizophrenic patients (n=14) who received clozapine under steady-state conditions, coadministration of paroxetine produced only minor changes in the levels of clozapine and its metabolites.
+Paroxetine, Fluoxetine, and Sertraline: In a study of patients with schizophrenia (n=14) who received clozapine under steady-state conditions, coadministration of paroxetine produced only minor changes in the levels of clozapine and its metabolites.
 However, other published reports describe modest elevations (less than two-fold) of clozapine and metabolite concentrations when clozapine was taken with paroxetine, fluoxetine, and sertraline.
 
 ### Specific Population Studies
 
-Renal or Hepatic Impairment
-
-No specific pharmacokinetic studies were conducted to investigate the effects of renal or hepatic impairment on the pharmacokinetics of clozapine.
+Renal or Hepatic Impairment: No specific pharmacokinetic studies were conducted to investigate the effects of renal or hepatic impairment on the pharmacokinetics of clozapine.
 Higher clozapine plasma concentrations are likely in patients with significant renal or hepatic impairment when given usual doses.
 
-CYP2D6 Poor Metabolizers
-
-A subset (3% to 10%) of the population has reduced activity of CYP2D6 (CYP2D6 poor metabolizers).
+CYP2D6 Poor Metabolizers: A subset (3% to 10%) of the population has reduced activity of CYP2D6 (CYP2D6 poor metabolizers).
 These individuals may develop higher than expected plasma concentrations of clozapine when given usual doses.
 
-Patients with Pneumonia and Other Inflammatory Conditions
-
-Published case reports describe examples where pneumonia or other inflammatory conditions may increase clozapine concentrations.
+Patients with Pneumonia and Other Inflammatory Conditions: Published case reports describe examples where pneumonia or other inflammatory conditions may increase clozapine concentrations.
 The clinical significance, the impact of treatments to modulate this inflammation, and mechanism of this potential increase in clozapine concentrations have not been fully characterized but may involve reduced cytochrome P450 1A2 activity.
