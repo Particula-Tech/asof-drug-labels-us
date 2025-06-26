@@ -56,11 +56,11 @@ To increase absorption, all doses should be taken with feeding or with food.
 Monitor the child's weight and review the dose regularly, especially for children below 12 kg.
 This is to ensure a therapeutic dose is maintained.
 
-All pediatric patients (except <2 years old with catheter-related thrombosis): Therapy with XARELTO should be continued for at least 3 months in children with thrombosis.
+All pediatric patients (except <2 years old with catheter-related thrombosis):Therapy with XARELTO should be continued for at least 3 months in children with thrombosis.
 Treatment can be extended up to 12 months when clinically necessary.
 The benefit of continued therapy beyond 3 months should be assessed on an individual basis taking into account the risk for recurrent thrombosis versus the potential risk of bleeding.
 
-Pediatric patients <2 years old with catheter-related thrombosis: Therapy with XARELTO should be continued for at least 1 month in children less than 2 years old with catheter-related thrombosis.
+Pediatric patients <2 years old with catheter-related thrombosis:Therapy with XARELTO should be continued for at least 1 month in children less than 2 years old with catheter-related thrombosis.
 Treatment can be extended up to 3 months when clinically necessary.
 The benefit of continued therapy beyond 1 month should be assessed on an individual basis taking into account the risk for recurrent thrombosis versus the potential risk of bleeding.
 
@@ -88,11 +88,11 @@ For the treatment of VTE in children, the dose should be taken with food to incr
 
 For thromboprophylaxis after Fontan procedure, the dose can be taken with or without food.
 
-Vomit or Spit up: If the patient vomits or spits up the dose within 30 minutes after receiving the dose, a new dose should be given.
+Vomit or Spit up:If the patient vomits or spits up the dose within 30 minutes after receiving the dose, a new dose should be given.
 However, if the patient vomits more than 30 minutes after the dose is taken, the dose should not be re-administered and the next dose should be taken as scheduled.
 If the patient vomits or spits up the dose repeatedly, the caregiver should contact the child's doctor right away.
 
-Tablets: XARELTO tablet must not be split in an attempt to provide a fraction of a tablet dose.
+Tablets:XARELTO tablet must not be split in an attempt to provide a fraction of a tablet dose.
 
 For children unable to swallow 10, 15, or 20 mg whole tablets, XARELTO oral suspension should be used.
 XARELTO 2.5 mg tablets are not recommended for use in pediatric patients [see Use in Specific Populations (8.4)].
@@ -115,11 +115,11 @@ If SCr is measured with routine methods that have not been recalibrated to be tr
 Patients Less than 1 Year of Age
 
 Determine renal function using serum creatinine.
-Avoid use of XARELTO in pediatric patients younger than 1 year with serum creatinine results above 97.5 th percentile, as no clinical data are available.
+Avoid use of XARELTO in pediatric patients younger than 1 year with serum creatinine results above 97.5 thpercentile, as no clinical data are available.
 
 Table 4: Reference Values of Serum Creatinine in Pediatric Patients <1 Year of Age
 
-| Age | 97.5 th Percentile of Creatinine (mg/dL) | 97.5 th Percentile of Creatinine (µmol/L) |
+| Age | 97.5 thPercentile of Creatinine (mg/dL) | 97.5 thPercentile of Creatinine (µmol/L) |
 | --- | --- | --- |
 | Week 2 | 0.52 | 46 |
 | Week 3 | 0.46 | 41 |
@@ -132,7 +132,7 @@ Table 4: Reference Values of Serum Creatinine in Pediatric Patients <1 Year of A
 
 ## 2.3 Switching to and from XARELTO
 
-Switching from Warfarin to XARELTO - When switching patients from warfarin to XARELTO, discontinue warfarin and start XARELTO as soon as the International Normalized Ratio (INR) is below 3.0 in adults and below 2.5 in pediatric patients to avoid periods of inadequate anticoagulation.
+Switching from Warfarin to XARELTO- When switching patients from warfarin to XARELTO, discontinue warfarin and start XARELTO as soon as the International Normalized Ratio (INR) is below 3.0 in adults and below 2.5 in pediatric patients to avoid periods of inadequate anticoagulation.
 
 Switching from XARELTO to Warfarin –
 
@@ -150,9 +150,9 @@ Co-administration of XARELTO and warfarin is advised to continue until the INR i
 
 Once XARELTO is discontinued, INR testing may be done reliably 24 hours after the last dose.
 
-Switching from XARELTO to Anticoagulants other than Warfarin - For adult and pediatric patients currently taking XARELTO and transitioning to an anticoagulant with rapid onset, discontinue XARELTO and give the first dose of the other anticoagulant (oral or parenteral) at the time that the next XARELTO dose would have been taken [see Drug Interactions (7.4)].
+Switching from XARELTO to Anticoagulants other than Warfarin- For adult and pediatric patients currently taking XARELTO and transitioning to an anticoagulant with rapid onset, discontinue XARELTO and give the first dose of the other anticoagulant (oral or parenteral) at the time that the next XARELTO dose would have been taken [see Drug Interactions (7.4)].
 
-Switching from Anticoagulants other than Warfarin to XARELTO - For adult and pediatric patients currently receiving an anticoagulant other than warfarin, start XARELTO 0 to 2 hours prior to the next scheduled administration of the drug (e.g., low molecular weight heparin or non-warfarin oral anticoagulant) and omit administration of the other anticoagulant.
+Switching from Anticoagulants other than Warfarin to XARELTO -For adult and pediatric patients currently receiving an anticoagulant other than warfarin, start XARELTO 0 to 2 hours prior to the next scheduled administration of the drug (e.g., low molecular weight heparin or non-warfarin oral anticoagulant) and omit administration of the other anticoagulant.
 For unfractionated heparin being administered by continuous infusion, stop the infusion and start XARELTO at the same time.
 
 ## 2.4 Discontinuation for Surgery and other Interventions
@@ -190,13 +190,13 @@ For adult patients who are unable to swallow whole tablets, XARELTO tablets (all
 After the administration of a crushed XARELTO 15 mg or 20 mg tablet, the dose should be immediately followed by food.
 Administration with food is not required for the 2.5 mg or 10 mg tablets [see Clinical Pharmacology (12.3)].
 
-Administration of XARELTO tablets via nasogastric (NG) tube or gastric feeding tube: After confirming gastric placement of the tube, XARELTO tablets (all strengths) may be crushed and suspended in 50 mL of water and administered via an NG tube or gastric feeding tube.
+Administrationof XARELTO tablets via nasogastric (NG) tube or gastric feeding tube:After confirming gastric placement of the tube, XARELTO tablets (all strengths) may be crushed and suspended in 50 mL of water and administered via an NG tube or gastric feeding tube.
 Since rivaroxaban absorption is dependent on the site of drug release, avoid administration of XARELTO distal to the stomach which can result in reduced absorption and thereby, reduced drug exposure.
 After the administration of a crushed XARELTO 15 mg or 20 mg tablet, the dose should then be immediately followed by enteral feeding.
 Enteral feeding is not required following administration of the 2.5 mg or 10 mg tablets [see Clinical Pharmacology (12.3)].
 
 Crushed XARELTO tablets (all strengths) are stable in water and in applesauce for up to 4 hours.
-An in vitro compatibility study indicated that there is no adsorption of rivaroxaban from a water suspension of a crushed XARELTO tablet to PVC or silicone nasogastric (NG) tubing.
+An in vitrocompatibility study indicated that there is no adsorption of rivaroxaban from a water suspension of a crushed XARELTO tablet to PVC or silicone nasogastric (NG) tubing.
 
 Administration of XARELTO suspension via NG tube or gastric feeding tube: XARELTO oral suspension may be given through NG or gastric feeding tube.
 After the administration, flush the feeding tube with water.
@@ -204,7 +204,7 @@ After the administration, flush the feeding tube with water.
 For the treatment or reduction in risk of recurrent VTE in pediatric patients, the dose should then be immediately followed by enteral feeding to increase absorption.
 For the thromboprophylaxis in pediatric patients with congenital heart disease who have undergone the Fontan procedure, the dose does not require to be followed by enteral feeding.
 
-An in vitro compatibility study indicated that XARELTO suspension can be used with PVC, polyurethane or silicone NG tubing.
+An in vitrocompatibility study indicated that XARELTO suspension can be used with PVC, polyurethane or silicone NG tubing.
 
 ## 2.7 Preparation Instructions for Pharmacy of XARELTO for Oral Suspension
 
@@ -225,7 +225,7 @@ Dispensing Instructions:
 - Dispense in the original bottle.
 - Dispense the bottle upright with the syringes provided in the original carton.
 
-Store reconstituted suspension at room temperature between 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C to 30°C (59°F to 86°F).
+Store reconstituted suspension at room temperature between 20 °C to 25 °C (68 °F to 77 °F); excursions permitted between 15 °C to 30 °C (59 °F to 86 °F).
 Do not freeze.
 
 It is recommended the pharmacist counsel the caregiver on proper use.
