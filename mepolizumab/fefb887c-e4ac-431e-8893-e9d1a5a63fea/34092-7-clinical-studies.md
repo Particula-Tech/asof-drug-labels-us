@@ -92,8 +92,8 @@ The exploratory analysis suggested that baseline blood eosinophil count of ≥15
 Exploratory analysis of MENSA data also suggested that baseline blood eosinophil count (obtained within 6 weeks of initiation of dosing) of ≥150 cells/mcL was a potential predictor of efficacy and showed a trend of greater exacerbation benefit with increasing blood eosinophil count.
 In MENSA, patients enrolled solely on the basis of the historical blood eosinophil count of ≥300 cells/mcL in the previous 12 months, but who had a baseline blood eosinophil count <150 cells/mcL, had virtually no exacerbation benefit following treatment with NUCALA 100 mg compared with placebo.
 
-The Asthma Control Questionnaire-5 (ACQ-5) was assessed in Trials DREAM and SIRIUS, and the St. George’s Respiratory Questionnaire (SGRQ) was assessed in Trial 2.
-In Trial 1, the ACQ-5 responder rate (defined as a decrease in score of 0.5 or more as threshold) for the 75-mg intravenous mepolizumab arm was 47% compared with 50% for placebo with an odds ratio (OR) of 1.1 (95% confidence interval [CI]: 0.7, 1.7).
+The Asthma Control Questionnaire-5 (ACQ-5) was assessed in Trials DREAM and MENSA, and the St. George’s Respiratory Questionnaire (SGRQ) was assessed in MENSA.
+In DREAM, the ACQ-5 responder rate (defined as a decrease in score of 0.5 or more as threshold) for the 75-mg intravenous mepolizumab arm was 47% compared with 50% for placebo with an odds ratio (OR) of 1.1 (95% confidence interval [CI]: 0.7, 1.7).
 In MENSA, the ACQ-5 responder rate for the treatment arm for NUCALA 100 mg was 57% compared with 45% for placebo with an OR of 1.8 (95% CI: 1.2, 2.8).
 In MENSA, the SGRQ responder rate (defined as a decrease in score of 4 or more as threshold) for the treatment arm for NUCALA 100 mg was 71% compared with 55% for placebo with an OR of 2.1 (95% CI: 1.3, 3.2).
 
@@ -106,7 +106,7 @@ Compared with placebo, patients receiving NUCALA 100 mg achieved greater reducti
 Sixteen (23%) patients in the group receiving NUCALA 100 mg versus 7 (11%) in the placebo group had a 90% to 100% reduction in their OCS dose.
 Twenty-five (36%) patients in the group receiving NUCALA 100 mg versus 37 (56%) in the placebo group were classified as having no improvement for OCS dose.
 Additionally, 54% of patients receiving NUCALA 100 mg achieved at least a 50% reduction in the daily prednisone dose compared with 33% of patients receiving placebo (95% CI for difference: 4%, 37%).
-An exploratory analysis was also performed on the subgroup of 29 patients in Trial 3 who had an average baseline and screening blood eosinophil count <150 cells/mcL.
+An exploratory analysis was also performed on the subgroup of 29 patients in SIRIUS who had an average baseline and screening blood eosinophil count <150 cells/mcL.
 Five (29%) patients in the group receiving NUCALA 100 mg versus 0 (0%) in the placebo group had a 90% to 100% reduction in their dose.
 Four (24%) patients in the group receiving NUCALA 100 mg versus 8 (67%) in the placebo group were classified as having no improvement for OCS dose.
 The ACQ and SGRQ were also assessed in SIRIUS and showed results similar to those in MENSA.
@@ -476,7 +476,7 @@ Frequency of Flares
 | Rate/year | 1.46 | 0.50 |
 | Rate ratiob |  | 0.34 |
 | 95% CI |  | (0.19, 0.63) |
-| CI = confidence interval.a Adjusted P values based on pre-specified hierarchy of endpoints. b A rate ratio <1 favors NUCALA. |  |  |
+| CI = confidence interval. a Adjusted P values based on pre-specified hierarchy of endpoints. b A rate ratio <1 favors NUCALA. |  |  |
 
 Brief Fatigue Inventory
 
