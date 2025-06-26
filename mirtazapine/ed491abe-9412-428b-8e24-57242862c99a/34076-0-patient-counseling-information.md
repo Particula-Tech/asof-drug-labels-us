@@ -69,7 +69,7 @@ Inform patients with phenylketonuria that mirtazapine orally disintegrating tabl
 
 Manufactured by:
 
-Square pharmaceuticals Ltd.
+Square pharmaceuticals PLC.
 
 Dhaka Unit, Kaliakoir, Gazipur-1750, Bangladesh
 
@@ -79,4 +79,4 @@ Viona Pharmaceuticals Inc.
 
 Cranford, NJ 07016
 
-Revised: 07/2022
+Revised: 07/2024
