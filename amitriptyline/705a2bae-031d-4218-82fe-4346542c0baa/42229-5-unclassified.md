@@ -15,7 +15,4 @@ Sandoz Private Ltd., for
 
 Sandoz Inc., Princeton, NJ 08540
 
-Rev.
-May 2022
-
-46309875
+Revised: 05/2025

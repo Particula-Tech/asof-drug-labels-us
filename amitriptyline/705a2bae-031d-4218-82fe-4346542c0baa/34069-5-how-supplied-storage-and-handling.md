@@ -32,7 +32,7 @@ NDC 0781-1490-01 bottles of 100
 
 NDC 0781-1491-01 bottles of 100
 
-Store at 20º to 25ºC (68º to 77ºF) [see USP Controlled Room Temperature].
+Store at 20ºC to 25ºC (68ºF to 77ºF) [see USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container.
 
