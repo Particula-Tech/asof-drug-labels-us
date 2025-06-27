@@ -5,9 +5,9 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Angioedema [see Warnings and Precautions (5.1)]
 - Hypersensitivity [see Warnings and Precautions (5.2)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.3)]
-- Respiratory Depression [see Warnings and Precautions (5.4)]
-- Dizziness and Somnolence [see Warnings and Precautions (5.5)]
-- Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.6)]
+- Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.4)]
+- Respiratory Depression [see Warnings and Precautions (5.5)]
+- Dizziness and Somnolence [see Warnings and Precautions (5.6)]
 - Peripheral Edema [see Warnings and Precautions (5.7)]
 - Weight Gain [see Warnings and Precautions (5.8)]
 - Tumorigenic Potential [see Warnings and Precautions (5.9)]
@@ -23,9 +23,9 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 In all controlled and uncontrolled trials across various patient populations during the premarketing development of pregabalin, more than 10,000 patients have received pregabalin.
 Approximately 5,000 patients were treated for 6 months or more, over 3,100 patients were treated for 1 year or longer, and over 1,400 patients were treated for at least 2 years.
 
-Adverse Reactions Most Commonly Leading to Discontinuation in All Premarketing Controlled Clinical Studies
+Adverse Reactions Most Commonly Leading to Discontinuation in All Pre-marketing Controlled Clinical Studies
 
-In premarketing controlled trials of all adult populations combined, 14% of patients treated with pregabalin and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
+In pre-marketing controlled trials of all adult populations combined, 14% of patients treated with pregabalin and 7% of patients treated with placebo discontinued prematurely due to adverse reactions.
 In the pregabalin treatment group, the adverse reactions most frequently leading to discontinuation were dizziness (4%) and somnolence (4%).
 In the placebo group, 1% of patients withdrew due to dizziness and less than 1% withdrew due to somnolence.
 Other adverse reactions that led to discontinuation from controlled trials more frequently in the pregabalin group compared to the placebo group were ataxia, confusion, asthenia, thinking abnormal, blurred vision, incoordination, and peripheral edema (1% each).
@@ -52,7 +52,7 @@ A majority of pregabalin-treated patients in clinical studies had adverse reacti
 Table 4.
 Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated with Diabetic Peripheral Neuropathy
 
-| Body system Preferred term | 75 mg/day [N=77] % | 150 mg/day [N=212] % | 300 mg/day [N=321] % | 600 mg/day [N=369] % | All PGB* [N=979] % | Placebo [N=459] % |
+| Body System Preferred term | 75 mg/day [N = 77] % | 150 mg/day [N = 212] % | 300 mg/day [N = 321] % | 600 mg/day [N = 369] % | All PGB* [N = 979] % | Placebo [N = 459] % |
 | --- | --- | --- | --- | --- | --- | --- |
 | Body as a whole |  |  |  |  |  |  |
 | Asthenia | 4 | 2 | 4 | 7 | 5 | 2 |
@@ -109,7 +109,7 @@ Overall, 12.4% of all pregabalin-treated patients and 9.0% of all placebo-treate
 Table 5.
 Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated with Postherpetic Neuralgia Body system Preferred term
 
-| Body system Preferred term | 75 mg/d [N=84] % | 150 mg/d [N=302] % | 300 mg/d [N=312] % | 600 mg/d [N=154] % | All PGB* [N=852] % | Placebo [N=398] % |
+| Body system Preferred term | 75 mg/d [N = 84] % | 150 mg/d [N = 302] % | 300 mg/d [N = 312] % | 600 mg/d [N = 154] % | All PGB* [N = 852] % | Placebo [N = 398] % |
 | --- | --- | --- | --- | --- | --- | --- |
 | Body as a whole |  |  |  |  |  |  |
 | Infection | 14 | 8 | 6 | 3 | 7 | 4 |
@@ -217,7 +217,7 @@ A majority of pregabalin-treated patients in the clinical study had adverse reac
 Table 7.
 Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Therapy for Partial-Onset Seizures in Patients 4 to Less Than 17 Years of Age
 
-| Body System Preferred Term | 2.5 mg/kg/daya [N=104] % | 10 mg/kg/dayb [N=97] % | All PGB [N = 201] % | Placebo [N = 94] % |
+| Body System Preferred Term | 2.5 mg/kg/daya [N = 104] % | 10 mg/kg/dayb [N = 97] % | All PGB [N = 201] % | Placebo [N = 94] % |
 | --- | --- | --- | --- | --- |
 | Gastrointestinal disorders |  |  |  |  |
 | Salivary hypersecretion | 1 | 4 | 2 | 0 |
@@ -227,7 +227,7 @@ Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Ther
 | Increased appetite | 7 | 10 | 8 | 4 |
 | Nervous system disorders |  |  |  |  |
 | Somnolence | 17 | 26 | 21 | 14 |
-| Abbreviations: N=number of patients; PGB = pregabalin.a 2.5 mg/kg/day: Maximum dose 150 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 3.5 mg/kg/day.b 10 mg/kg/day: Maximum dose 600 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 14 mg/kg/day. |  |  |  |  |
+| Abbreviations: N = number of patients; PGB = pregabalin.a 2.5 mg/kg/day: Maximum dose 150 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 3.5 mg/kg/day.b 10 mg/kg/day: Maximum dose 600 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 14 mg/kg/day. |  |  |  |  |
 
 Controlled Study of Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month to Less Than 4 Years of Age
 
@@ -240,20 +240,20 @@ In this study, 105 patients received pregabalin and 70 patients received placebo
 Table 8.
 Dose-related Adverse Reaction Incidence in a Controlled Trial in Adjunctive Therapy for Partial-Onset Seizures in Patients 1 Month to Less Than 4 Years of Age
 
-| Body System Preferred Term | 7 mg/kg/day [N=71] % | 14 mg/kg/day [N=34] % | All PGB [N = 105] % | Placebo [N = 70] % |
+| Body System Preferred Term | 7 mg/kg/day [N = 71] % | 14 mg/kg/day [N = 34] % | All PGB [N = 105] % | Placebo [N = 70] % |
 | --- | --- | --- | --- | --- |
 | Nervous system disorders |  |  |  |  |
 | Somnolence* | 13 | 21 | 15 | 9 |
 | Infections and infestations |  |  |  |  |
 | Pneumonia | 1 | 9 | 4 | 0 |
 | Viral infection | 3 | 6 | 4 | 3 |
-| Abbreviations: N=number of patients; PGB = pregabalin.* includes related terms including lethargy, sluggishness, and hypersomnia. |  |  |  |  |
+| Abbreviations: N = number of patients; PGB = pregabalin.* includes related terms including lethargy, sluggishness, and hypersomnia. |  |  |  |  |
 
 Controlled Studies with Fibromyalgia
 
 Adverse Reactions Leading to Discontinuation
 
-In clinical trials of patients with fibromyalgia, 19% of patients treated with pregabalin (150 to 600 mg/day) and 10% of patients treated with placebo discontinued prematurely due to adverse reactions.
+In clinical trials of patients with fibromyalgia, 19% of patients treated with pregabalin (150 mg/day to 600 mg/day) and 10% of patients treated with placebo discontinued prematurely due to adverse reactions.
 In the pregabalin treatment group, the most common reasons for discontinuation due to adverse reactions were dizziness (6%) and somnolence (3%).
 In comparison, less than 1% of placebo-treated patients withdrew due to dizziness and somnolence.
 Other reasons for discontinuation from the trials, occurring with greater frequency in the pregabalin treatment group than in the placebo treatment group, were fatigue, headache, balance disorder, and weight increased.
@@ -267,7 +267,7 @@ A majority of pregabalin-treated patients in clinical studies experienced advers
 Table 9.
 Adverse Reaction Incidence in Controlled Trials in Fibromyalgia
 
-| System Organ Class Preferred term | 150 mg/d [N=132] % | 300 mg/d [N=502] % | 450 mg/d [N=505] % | 600 mg/d [N=378] % | All PGB* [N=1517] % | Placebo [N=505] % |
+| System Organ Class Preferred term | 150 mg/d [N = 132] % | 300 mg/d [N = 502] % | 450 mg/d [N = 505] % | 600 mg/d [N = 378] % | All PGB* [N = 1517] % | Placebo [N = 505] % |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ear and Labyrinth Disorders |  |  |  |  |  |  |
 | Vertigo | 2 | 2 | 2 | 1 | 2 | 0 |
@@ -338,7 +338,7 @@ Adverse Reaction Incidence in Controlled Trials in Neuropathic Pain Associated w
 
 | % | % |  |
 | --- | --- | --- |
-| System Organ Class Preferred term | PGB* (N=182) | Placebo (N=174) |
+| System Organ Class Preferred term | PGB* (N = 182) | Placebo (N = 174) |
 | Ear and labyrinth disorders |  |  |
 | Vertigo | 2.7 | 1.1 |
 | Eye disorders |  |  |
@@ -419,7 +419,7 @@ There are insufficient data to support a statement regarding the distribution of
 
 ## 6.2 Post-marketing Experience
 
-The following adverse reactions have been identified during postapproval use of pregabalin.
+The following adverse reactions have been identified during post-approval use of pregabalin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Nervous System Disorders – Headache
@@ -433,3 +433,6 @@ Skin and subcutaneous tissue disorders – Bullous pemphigoid
 There are post-marketing reports of life-threatening or fatal respiratory depression in patients taking pregabalin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment.
 
 In addition, there are post-marketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
+
+There are post-marketing reports of withdrawal symptoms after discontinuation of pregabalin.
+Reported adverse reactions include, but are not limited to, seizures, depression, suicidal ideation and behavior, agitation, confusion, disorientation, psychotic symptoms, anxiety, insomnia, nausea, pain, sweating, tremor, headache, dizziness, malaise, and diarrhea.

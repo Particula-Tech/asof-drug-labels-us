@@ -14,29 +14,30 @@ Instruct patients to discontinue pregabalin and immediately seek medical care if
 
 Suicidal Thinking and Behavior
 
-Patients, their caregivers, and families should be counseled that AEDs, including pregabalin, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.3)].
+Counsel patients, their caregivers, and families that AEDs, including pregabalin, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Instruct patients, caregivers, and families to report behaviors of concern immediately to healthcare providers.
+Also inform patients who plan to or have discontinued pregabalin that suicidal thoughts and behavior can appear even after the drug is stopped [see Warnings and Precautions (5.3)].
 
 Respiratory Depression
 
 Inform patients about the risk of respiratory depression.
 Include information that the risk is greatest for those using concomitant central nervous system (CNS) depressants (such as opioid analgesics) or in those with underlying respiratory impairment.
-Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs [see Warnings and Precautions (5.4)].
+Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs [see Warnings and Precautions (5.5)].
 
 Dizziness and Somnolence
 
 Counsel patients that pregabalin may cause dizziness, somnolence, blurred vision and other CNS signs and symptoms.
-Accordingly, advise patients not to drive, operate complex machinery, or engage in other hazardous activities until they have gained sufficient experience on pregabalin to gauge whether or not it affects their mental, visual, and/or motor performance adversely [see Warnings and Precautions (5.5)].
+Accordingly, advise patients not to drive, operate complex machinery, or engage in other hazardous activities until they have gained sufficient experience on pregabalin to gauge whether or not it affects their mental, visual, and/or motor performance adversely [see Warnings and Precautions (5.6)].
 
 CNS Depressants
 
-Inform patients who require concomitant treatment with central nervous system depressants such as opiates or benzodiazepines that they may experience additive CNS side effects, such as respiratory depression, somnolence, and dizziness [see Warnings and Precautions (5.4, 5.5) and Drug Interactions (7)].
+Inform patients who require concomitant treatment with central nervous system depressants such as opiates or benzodiazepines that they may experience additive CNS side effects, such as respiratory depression, somnolence, and dizziness [see Warnings and Precautions (5.5, 5.6) and Drug Interactions (7)].
 Advise patients to avoid consuming alcohol while taking pregabalin, as pregabalin may potentiate the impairment of motor skills and sedating effects of alcohol.
 
 Adverse Reactions with Abrupt or Rapid Discontinuation
 
 Advise patients to take pregabalin as prescribed.
-Abrupt or rapid discontinuation may result in increased seizure frequency in patients with seizure disorders, and insomnia, nausea, headache, anxiety, hyperhidrosis, or diarrhea [see Warnings and Precautions (5.6)].
+Abrupt or rapid discontinuation may result in increased seizure frequency in patients with seizure disorders, and insomnia, nausea, headache, anxiety, hyperhidrosis, or diarrhea [see Warnings and Precautions (5.4)].
 
 Missed Dose
 
@@ -48,7 +49,7 @@ Weight Gain and Edema
 
 Counsel patients that pregabalin may cause edema and weight gain.
 Advise patients that concomitant treatment with pregabalin and a thiazolidinedione antidiabetic agent may lead to an additive effect on edema and weight gain.
-For patients with preexisting cardiac conditions, this may increase the risk of heart failure [see Warnings and Precautions (5.7, 5.8)].
+For patients with pre-existing cardiac conditions, this may increase the risk of heart failure [see Warnings and Precautions (5.7, 5.8)].
 
 Ophthalmological Effects
 
@@ -59,9 +60,13 @@ Creatine Kinase Elevations
 
 Instruct patients to promptly report unexplained muscle pain, tenderness, or weakness, particularly if accompanied by malaise or fever [see Warnings and Precautions (5.11)].
 
-Pregnancy
+Use in Pregnancy
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to pregabalin during pregnancy [see Use in Specific Populations (8.1)].
+Instruct patients to inform their healthcare provider if they are pregnant or intend to become pregnant during therapy, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.2)].
+
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
+This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
+To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)].
 
 Lactation
 
@@ -78,10 +83,7 @@ Dermatopathy
 Instruct diabetic patients to pay particular attention to skin integrity while being treated with pregabalin and to inform their healthcare provider about any sores or skin problems.
 Some animals treated with pregabalin developed skin ulcerations, although no increased incidence of skin lesions associated with pregabalin was observed in clinical trials [see Nonclinical Toxicology (13.2)].
 
-This product’s label may have been updated.
-For current full prescribing information, please visit www.amneal.com.
-
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-08-2024-03
+06-2025-04

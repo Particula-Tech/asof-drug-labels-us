@@ -39,10 +39,10 @@ Patients were permitted up to 4 grams of acetaminophen per day as needed for pai
 Patients recorded their pain daily in a diary.
 
 Study PHN 1: This 13-week study compared pregabalin 75 mg, 150 mg, and 300 mg twice daily with placebo.
-Patients with creatinine clearance (CLcr) between 30 to 60 mL/min were randomized to 75 mg, 150 mg, or placebo twice daily.
+Patients with creatinine clearance (CLcr) between 30 mL/min to 60 mL/min were randomized to 75 mg, 150 mg, or placebo twice daily.
 Patients with creatinine clearance greater than 60 mL/min were randomized to 75 mg, 150 mg, 300 mg or placebo twice daily.
 In patients with creatinine clearance greater than 60 mL/min treatment with all doses of pregabalin statistically significantly improved the endpoint mean pain score and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
-Despite differences in dosing based on renal function, patients with creatinine clearance between 30 to 60 mL/min tolerated pregabalin less well than patients with creatinine clearance greater than 60 mL/min as evidenced by higher rates of discontinuation due to adverse reactions.
+Despite differences in dosing based on renal function, patients with creatinine clearance between 30 mL/min to 60 mL/min tolerated pregabalin less well than patients with creatinine clearance greater than 60 mL/min as evidenced by higher rates of discontinuation due to adverse reactions.
 For various levels of improvement in pain intensity from baseline to study endpoint, Figure 3 shows the fraction of patients achieving that level of improvement.
 The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned 0% improvement.
@@ -51,7 +51,7 @@ Some patients experienced a decrease in pain as early as Week 1, which persisted
 Figure 3: Patients Achieving Various Levels of Improvement in Pain Intensity– Study PHN 1
 
 Study PHN 2: This 8-week study compared pregabalin 100 mg or 200 mg three times a day with placebo, with doses assigned based on creatinine clearance.
-Patients with creatinine clearance between 30 to 60 mL/min were treated with 100 mg three times a day, and patients with creatinine clearance greater than 60 mL/min were treated with 200 mg three times daily.
+Patients with creatinine clearance between 30 mL/min to 60 mL/min were treated with 100 mg three times a day, and patients with creatinine clearance greater than 60 mL/min were treated with 200 mg three times daily.
 Treatment with pregabalin statistically significantly improved the endpoint mean pain score and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
 For various levels of improvement in pain intensity from baseline to study endpoint, Figure 4 shows the fraction of patients achieving those levels of improvement.
 The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
@@ -62,7 +62,7 @@ Figure 4: Patients Achieving Various Levels of Improvement in Pain Intensity –
 
 Study PHN 3: This 8-week study compared pregabalin 50 mg or 100 mg three times a day with placebo with doses assigned regardless of creatinine clearance.
 Treatment with pregabalin 50 mg and 100 mg three times a day statistically significantly improved the endpoint mean pain score and increased the proportion of patients with at least a 50% reduction in pain score from baseline.
-Patients with creatinine clearance between 30 to 60 mL/min tolerated pregabalin less well than patients with creatinine clearance greater than 60 mL/min as evidenced by markedly higher rates of discontinuation due to adverse reactions.
+Patients with creatinine clearance between 30 mL/min to 60 mL/min tolerated pregabalin less well than patients with creatinine clearance greater than 60 mL/min as evidenced by markedly higher rates of discontinuation due to adverse reactions.
 For various levels of improvement in pain intensity from baseline to study endpoint, Figure 5 shows the fraction of patients achieving that level of improvement.
 The figure is cumulative, so that patients whose change from baseline is, for example, 50%, are also included at every level of improvement below 50%.
 Patients who did not complete the study were assigned 0% improvement.
@@ -104,7 +104,7 @@ Seizure Response in Controlled, Adjunctive Epilepsy Studies in Adults
 | 600 mg/day | BID | 103 | 9.5 | -36 | 0.0001 |
 | 600 mg/day | TID | 111 | 10 | -48 | 0.0001 |
 
-In the first study (E1), there was evidence of a dose-response relationship for total daily doses of pregabalin between 150 and 600 mg/day; a dose of 50 mg/day was not effective.
+In the first study (E1), there was evidence of a dose-response relationship for total daily doses of pregabalin between 150 mg/day and 600 mg/day; a dose of 50 mg/day was not effective.
 In the first study (E1), each daily dose was divided into two equal doses (twice a day dosing).
 In the second study (E2), each daily dose was divided into three equal doses (three times a day dosing).
 In the third study (E3), the same total daily dose was divided into two equal doses for one group (twice a day dosing) and three equal doses for another group (three times a day dosing).
@@ -141,7 +141,7 @@ Seizure Response in Controlled Adjunctive Partial-Onset Seizure Study in Pediatr
 | Placebo | 93 | 16.5 | -16.9 | Not applicable |  |
 | 2.5 mg/kg/day (BID)a | 104 | 23.8 | -27.3 | -10.5 | 0.2577 |
 | 10 mg/kg/day (BID)b | 97 | 17.5 | -37.1 | -21.0 | 0.0185 |
-| Abbreviations: BID=twice daily; N=number.a 2.5 mg/kg/day: Maximum dose 150 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 3.5 mg/kg/day.b 10 mg/kg/day: Maximum dose 600 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 14 mg/kg/day. |  |  |  |  |  |
+| Abbreviations: BID = twice daily; N = number.a 2.5 mg/kg/day: Maximum dose 150 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 3.5 mg/kg/day.b 10 mg/kg/day: Maximum dose 600 mg/day. Includes patients less than 30 kg for whom dose was adjusted to 14 mg/kg/day. |  |  |  |  |  |
 
 There was evidence of a dose-response relationship for total daily doses of pregabalin between 2.5 mg/kg/day and 10 mg/kg/day.
 A significant improvement in seizure rate was observed for pregabalin 10 mg/kg/day group compared with placebo.
@@ -175,12 +175,12 @@ Seizure Response in Controlled Adjunctive Partial-Onset Seizure Study in Pediatr
 | Placebo | 53 | 2.9 | 22.2 | Not applicable |  |
 | 7 mg/kg/day | 59 | 4.7 | 16.8 | 15.1 | 0.4606 |
 | 14 mg/kg/day | 28 | 5.4 | 70.0 | -43.9 | 0.0223 |
-| Abbreviations: N=number of patients. |  |  |  |  |  |
+| Abbreviations: N = number of patients. |  |  |  |  |  |
 
 A significant improvement in partial-onset seizure rate was observed for pregabalin 14 mg/kg/day group compared with placebo.
 Patients treated with pregabalin 7 mg/kg/day did not show improvement relative to placebo.
 
-Responder rates (≥50% or greater reduction in partial-onset seizure frequency) were a secondary efficacy parameter; patients treated with pregabalin 14 mg/kg/day showed numerical improvement compared with placebo, while patients treated with pregabalin 7 mg/kg/day did not show improvement relative to placebo: the responder rates were 53.6%, 30.5%, and 41.5% for pregabalin 14 mg/kg/day, pregabalin 7 mg/kg/day, and placebo, respectively.
+Responder rates (≥ 50% or greater reduction in partial-onset seizure frequency) were a secondary efficacy parameter; patients treated with pregabalin 14 mg/kg/day showed numerical improvement compared with placebo, while patients treated with pregabalin 7 mg/kg/day did not show improvement relative to placebo: the responder rates were 53.6%, 30.5%, and 41.5% for pregabalin 14 mg/kg/day, pregabalin 7 mg/kg/day, and placebo, respectively.
 
 ## 14.4 Management of Fibromyalgia
 
@@ -247,7 +247,7 @@ The baseline mean pain scores across the two studies ranged from 6.5 to 6.7.
 Patients were allowed to take opioids, non-opioid analgesics, antiepileptic drugs, muscle relaxants, and antidepressant drugs if the dose was stable for 30 days prior to screening.
 Patients were allowed to take acetaminophen and nonsteroidal anti-inflammatory drugs during the studies.
 
-Study SCI 1: This 12-week, randomized, double-blind, parallel-group, multicenter, flexible dose (150 to 600 mg/day) study compared pregabalin with placebo.
+Study SCI 1: This 12-week, randomized, double-blind, parallel-group, multicenter, flexible dose (150 mg/day to 600 mg/day) study compared pregabalin with placebo.
 The 12-week study consisted of a 3-week dose adjustment phase and a 9-week dose maintenance phase.
 Treatment with pregabalin 150 to 600 mg/day statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
 The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 12 is presented in Figure 11.
@@ -255,7 +255,7 @@ Some patients experienced a decrease in pain as early as week 1, which persisted
 
 Figure 11: Patients Achieving Various Levels of Improvement in Pain Intensity – Study SCI 1
 
-Study SCI 2: This 16-week, randomized, double-blind, placebo-controlled, parallel-group, multicenter, flexible dose (150 to 600 mg/day, in increments of 150 mg) study compared the efficacy, safety and tolerability of pregabalin with placebo.
+Study SCI 2: This 16-week, randomized, double-blind, placebo-controlled, parallel-group, multicenter, flexible dose (150 mg/day to 600 mg/day, in increments of 150 mg) study compared the efficacy, safety and tolerability of pregabalin with placebo.
 The 16-week study consisted of a 4-week dose adjustment phase and a 12-week dose maintenance phase.
 Treatment with pregabalin statistically significantly improved the endpoint weekly mean pain score, and increased the proportion of patients with at least a 30% and 50% reduction in pain score from baseline.
 The fraction of patients achieving various levels of improvement in pain intensity from baseline to Week 16 is presented in Figure 12.

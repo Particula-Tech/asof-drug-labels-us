@@ -4,7 +4,7 @@
 
 Pregabalin capsules are given orally with or without food.
 
-When discontinuing pregabalin capsules, taper gradually over a minimum of 1 week [see Warnings and Precautions (5.6)].
+When discontinuing pregabalin capsules, taper gradually over a minimum of 1 week [see Warnings and Precautions (5.4)].
 
 Because pregabalin is eliminated primarily by renal excretion, adjust the dose in adult patients with reduced renal function [see Dosage and Administration (2.7)].
 
@@ -51,7 +51,7 @@ Consequently, dosing recommendations for the use of pregabalin capsules with gab
 
 ## 2.5 Management of Fibromyalgia in Adults
 
-The recommended dose of pregabalin capsules for fibromyalgia is 300 to 450 mg/day.
+The recommended dose of pregabalin capsules for fibromyalgia is 300 mg/day to 450 mg/day.
 Begin dosing at 75 mg two times a day (150 mg/day).
 The dose may be increased to 150 mg two times a day (300 mg/day) within 1 week based on efficacy and tolerability.
 Patients who do not experience sufficient benefit with 300 mg/day may be further increased to 225 mg two times a day (450 mg/day).
@@ -60,7 +60,7 @@ In view of the dose-dependent adverse reactions, treatment with doses above 450 
 
 ## 2.6 Neuropathic Pain Associated with Spinal Cord Injury in Adults
 
-The recommended dose range of pregabalin capsules for the treatment of neuropathic pain associated with spinal cord injury is 150 to 600 mg/day.
+The recommended dose range of pregabalin capsules for the treatment of neuropathic pain associated with spinal cord injury is 150 mg/day to 600 mg/day.
 The recommended starting dose is 75 mg two times a day (150 mg/day).
 The dose may be increased to 150 mg two times a day (300 mg/day) within 1 week based on efficacy and tolerability.
 Patients who do not experience sufficient pain relief after 2 to 3 weeks of treatment with 150 mg two times a day and who tolerate pregabalin capsules may be treated with up to 300 mg two times a day [see Clinical Studies (14.5)].
@@ -94,4 +94,4 @@ Pregabalin Dosage Adjustment Based on Renal Function
 | Less than 15 | 25 | 25 to 50 | 50 to 75 | 75 | QD |
 | Supplementary dosage following hemodialysis (mg)† |  |  |  |  |  |
 | Patients on the 25 mg QD regimen: take one supplemental dose of 25 mg or 50 mgPatients on the 25 to 50 mg QD regimen: take one supplemental dose of 50 mg or 75 mg Patients on the 50 to 75 mg QD regimen: take one supplemental dose of 75 mg or 100 mg Patients on the 75 mg QD regimen: take one supplemental dose of 100 mg or 150 mg |  |  |  |  |  |
-| TID= Three divided doses; BID = Two divided doses; QD = Single daily dose.*Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose.†Supplementary dose is a single additional dose. |  |  |  |  |  |
+| TID = Three divided doses; BID = Two divided doses; QD = Single daily dose.*Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose.†Supplementary dose is a single additional dose. |  |  |  |  |  |

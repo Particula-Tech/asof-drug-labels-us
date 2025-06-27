@@ -20,7 +20,7 @@ Absorption and Distribution
 
 Following oral administration of pregabalin capsules under fasting conditions, peak plasma concentrations occur within 1.5 hours.
 Pregabalin oral bioavailability is greater than or equal to 90% and is independent of dose.
-Following single- (25 mg to 300 mg) and multiple-dose (75 to 900 mg/day) administration, maximum plasma concentrations (Cmax) and area under the plasma concentration-time curve (AUC) values increase linearly.
+Following single- (25 mg to 300 mg) and multiple-dose (75 mg/day to 900 mg/day) administration, maximum plasma concentrations (Cmax) and area under the plasma concentration-time curve (AUC) values increase linearly.
 Following repeated administration, steady-state is achieved within 24 to 48 hours.
 Multiple-dose pharmacokinetics can be predicted from single-dose data.
 
@@ -42,7 +42,7 @@ The N-methylated derivative of pregabalin, the major metabolite of pregabalin fo
 In preclinical studies, pregabalin (S-enantiomer) did not undergo racemization to the R-enantiomer in mice, rats, rabbits, or monkeys.
 
 Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug with a mean elimination half-life of 6.3 hours in subjects with normal renal function.
-Mean renal clearance was estimated to be 67.0 to 80.9 mL/min in young healthy subjects.
+Mean renal clearance was estimated to be 67 mL/min to 80.9 mL/min in young healthy subjects.
 Because pregabalin is not bound to plasma proteins this clearance rate indicates that renal tubular reabsorption is involved.
 Pregabalin elimination is nearly proportional to creatinine clearance (CLcr) [see Dosage and Administration (2.7)].
 
