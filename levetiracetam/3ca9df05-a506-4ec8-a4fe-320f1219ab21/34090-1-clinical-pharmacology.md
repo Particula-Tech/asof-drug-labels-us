@@ -25,7 +25,7 @@ Absorption and Distribution
 
 Absorption of levetiracetam is rapid, with peak plasma concentrations occurring in about an hour following oral administration in fasted subjects.
 The oral bioavailability of levetiracetam tablets is 100% and the tablets and oral solution are bioequivalent in rate and extent of absorption.
-Food does not affect the extent of absorption of levetiracetam but it decreases Cmax by 20% and delays Tmax by 1.5 hours.
+Food does not affect the extent of absorption of levetiracetam but it decreases C maxby 20% and delays T maxby 1.5 hours.
 The pharmacokinetics of levetiracetam are linear over the dose range of 500-5000 mg.
 Steady state is achieved after 2 days of multiple twice-daily dosing.
 Levetiracetam and its major metabolite are less than 10% bound to plasma proteins; clinically significant interactions with other drugs through competition for protein binding sites are therefore unlikely.
@@ -46,7 +46,7 @@ The total body clearance is 0.96 mL/min/kg and the renal clearance is 0.6 mL/min
 The mechanism of excretion is glomerular filtration with subsequent partial tubular reabsorption.
 The metabolite ucb L057 is excreted by glomerular filtration and active tubular secretion with a renal clearance of 4 mL/min/kg.
 Levetiracetam elimination is correlated to creatinine clearance.
-Levetiracetam clearance is reduced in patients with renal impairment [see Use in Specific Populations (8.6) and Dosage and Administration (2.5)].
+Levetiracetam clearance is reduced in patients with renal impairment [see Use in Specific Populations (8.6)and Dosage and Administration (2.5)].
 
 Specific Populations
 
@@ -62,7 +62,7 @@ Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6
 The body weight adjusted apparent clearance of levetiracetam was approximately 40% higher than in adults.
 
 A repeat dose pharmacokinetic study was conducted in pediatric patients (age 4-12 years) at doses of 20 mg/kg/day, 40 mg/kg/day, and 60 mg/kg/day.
-The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses with a Tmax of about 1 hour and a t1/2 of 5 hours across the three dosing levels.
+The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses with a T maxof about 1 hour and a t 1/2of 5 hours across the three dosing levels.
 The pharmacokinetics of levetiracetam in children was linear between 20 to 60 mg/kg/day.
 The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
 Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
@@ -79,19 +79,19 @@ A population PK analysis of levetiracetam was conducted in 164 obese and non-obe
 Obesity was defined as BMI ≥95th percentile for age and sex based on CDC 2000 growth chart recommendations.
 Simulations were conducted for obese and non-obese pediatric patients ages 4 to <16 years.
 
-- When the recommended tablet dose is administered to pediatric patients weighing < 40 kg, obese pediatric patients have 27% higher median Cmax,ss and 19% higher median Cmin,ss compared to non-obese patients.
-- When the recommended tablet dose is administered to pediatric patients weighing ≥ 40 kg, obese pediatric patients have 10-11% lower median Cmax,ss and 2% lower median Cmin,ss compared to non-obese patients.
-- When the recommended oral solution dose is administered to pediatric patients across the full weight range, obese pediatric patients have 25% higher median Cmax,ss and 41% higher median Cmin,ss compared to non-obese pediatric patients.
+- When the recommended tablet dose is administered to pediatric patients weighing < 40 kg, obese pediatric patients have 27% higher median C max,ssand 19% higher median C min,sscompared to non-obese patients.
+- When the recommended tablet dose is administered to pediatric patients weighing ≥ 40 kg, obese pediatric patients have 10-11% lower median C max,ssand 2% lower median C min,sscompared to non-obese patients.
+- When the recommended oral solution dose is administered to pediatric patients across the full weight range, obese pediatric patients have 25% higher median C max,ssand 41% higher median C min,sscompared to non-obese pediatric patients.
 
 However, differences in exposures between obese and non-obese pediatric patients are not expected to be clinically meaningful because the recommended dose titration at initiation of levetiracetam therapy would establish an appropriate dose for each individual patient.
 
 Pregnancy
 
-Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.11) and Use in Specific Populations (8.1)].
+Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.11)and Use in Specific Populations (8.1)].
 
 Gender
 
-Levetiracetam Cmax and AUC were 20% higher in women (N=11) compared to men (N=12).
+Levetiracetam C maxand AUC were 20% higher in women (N=11) compared to men (N=12).
 However, clearances adjusted for body weight were comparable.
 
 Race
@@ -117,9 +117,9 @@ No dose adjustment is needed for patients with hepatic impairment.
 
 Drug Interactions
 
-In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
-Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
-In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
+In vitrodata on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
+Levetiracetam and its major metabolite, at concentrations well above C maxlevels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
+In addition, levetiracetam does not affect the in vitroglucuronidation of valproic acid.
 
 Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening in the placebo-controlled clinical studies in epilepsy patients.
 
@@ -164,6 +164,6 @@ Coadministration of warfarin did not affect the pharmacokinetics of levetiraceta
 Probenecid
 
 Probenecid, a renal tubular secretion blocking agent, administered at a dose of 500 mg four times a day, did not change the pharmacokinetics of levetiracetam 1000 mg twice daily.
-Cssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
+C ssmaxof the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
 Renal clearance of ucb L057 in the presence of probenecid decreased 60%, probably related to competitive inhibition of tubular secretion of ucb L057.
 The effect of KEPPRA on probenecid was not studied.

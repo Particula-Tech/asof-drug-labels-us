@@ -196,7 +196,7 @@ Table 9: Adverse Reactions in a Placebo-Controlled, Adjunctive Study in Patients
 In the placebo-controlled study, 5% of patients receiving KEPPRA and 8% receiving placebo either discontinued or had a dose reduction during the treatment period as a result of an adverse reaction.
 
 This study was too small to adequately characterize the adverse reactions that could be expected to result in discontinuation of treatment in this population.
-It is expected that the adverse reactions that would lead to discontinuation in this population would be similar to those resulting in discontinuation in other epilepsy trials (see tables 4 and 8).
+It is expected that the adverse reactions that would lead to discontinuation in this population would be similar to those resulting in discontinuation in other epilepsy trials (see tables 4and 8).
 
 In addition, the following adverse reactions were seen in other controlled adult studies of KEPPRA: balance disorder, disturbance in attention, eczema, memory impairment, myalgia, and blurred vision.
 
