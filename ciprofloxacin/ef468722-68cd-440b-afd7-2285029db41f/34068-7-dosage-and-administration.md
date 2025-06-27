@@ -15,7 +15,7 @@ Generally ciprofloxacin should be continued for at least 2 days after the signs 
 2.
 Used in conjunction with metronidazole.
 3.
-Begin drug administration as soon as possible after suspected or confirmed exposure.
+Begin drug administration as soon as possible after suspected or confirmed exposure
 
 Conversion of IV to Oral Dosing in Adults Patients whose therapy is started with ciprofloxacin IV may be switched to ciprofloxacin tablets or oral suspension when clinically indicated at the discretion of the physician (Table 2) [see Clinical Pharmacology (12.3)].
 
