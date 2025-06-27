@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA219078"
+  ],
+  "inn": "prucalopride",
+  "labeler": "Somerset Therapeutics, LLC",
+  "package_ndcs": [
+    "70069-821-01",
+    "70069-822-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "prucalopride succinate",
+      "name": "Prucalopride succinate"
+    }
+  ],
+  "setid": "1750cd94-b443-49df-9c53-eb5b68f66092",
+  "source": "dailymed"
+}
