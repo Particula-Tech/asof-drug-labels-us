@@ -50,12 +50,12 @@ Drug-Drug Interaction Studies
 
 Fluvoxamine
 
-A pharmacokinetic study was conducted in 16 schizophrenic patients who received clozapine under steady-state conditions.
+A pharmacokinetic study was conducted in 16 patients with schizophrenia who received clozapine under steady-state conditions.
 After coadministration of fluvoxamine for 14 days, mean trough concentrations of clozapine and its metabolites, N-desmethylclozapine and clozapine N-oxide, were elevated about three-fold compared to baseline steady-state concentrations.
 
 Paroxetine, Fluoxetine, and Sertraline
 
-In a study of schizophrenic patients (n=14) who received clozapine under steady-state conditions, coadministration of paroxetine produced only minor changes in the levels of clozapine and its metabolites.
+In a study of patients with schizophrenia (n=14) who received clozapine under steady-state conditions, coadministration of paroxetine produced only minor changes in the levels of clozapine and its metabolites.
 However, other published reports describe modest elevations (less than two-fold) of clozapine and metabolite concentrations when clozapine was taken with paroxetine, fluoxetine, and sertraline.
 
 Specific Population Studies

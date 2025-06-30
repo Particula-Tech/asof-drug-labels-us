@@ -1,60 +1,100 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Required Laboratory Testing Prior to Initiation and During Therapy
+## 2.1 Absolute Neutrophil Count Testing Prior to CLOZARIL Initiation
 
-Prior to initiating treatment with CLOZARIL, a baseline ANC must be obtained.
-The baseline ANC must be at least 1500/µL for the general population, and at least 1000/µL for patients with documented Benign Ethnic Neutropenia (BEN).
-To continue treatment, the ANC must be monitored regularly [see Warnings and Precautions (5.1)].
+Prior to initiating CLOZARIL treatment, obtain a baseline absolute neutrophil count (ANC).
+CLOZARIL initiation is not recommended in patients with an ANC less than 1500/μL [see Warnings and Precautions (5.1)].
 
-## 2.2 Dosing Information
+For patients with documented Benign Ethnic Neutropenia (BEN) (also known as Duffy-null associated neutrophil count), obtain at least two baseline ANC levels.
+CLOZARIL initiation is not recommended in patients with BEN with an ANC less than 1000/μL [see Warnings and Precautions (5.1)].
 
-The starting dose is 12.5 mg once daily or twice daily.
-The total daily dose can be increased in increments of 25 mg to 50 mg per day, if well-tolerated, to achieve a target dose of 300 mg to 450 mg per day (administered in divided doses) by the end of 2 weeks.
-Subsequently, the dose can be increased once weekly or twice weekly, in increments of up to 100 mg.
-The maximum dose is 900 mg per day.
-To minimize the risk of orthostatic hypotension, bradycardia, and syncope, it is necessary to use this low starting dose, gradual titration schedule, and divided dosages [see Warnings and Precautions (5.3)].
+For dosage modifications based on ANC results, see Dosage and Administration (2.3, 2.4).
 
-CLOZARIL can be taken with or without food [see Pharmacokinetics (12.3)].
+## 2.2 Recommended Dosage and Administration
 
-## 2.3 Maintenance Treatment
+To reduce the risk of orthostatic hypotension, bradycardia, and syncope, the recommended starting dosage is much lower than the target dosage [see Warnings and Precautions (5.2)].
 
-Generally, patients responding to CLOZARIL should continue maintenance treatment on their effective dose beyond the acute episode.
+CLOZARIL can be taken with or without food [see Clinical Pharmacology (12.3)].
+The recommended starting oral dosage of CLOZARIL is 12.5 mg once or twice daily.
+If well-tolerated, increase the total daily dose in increments of 25 mg to 50 mg per day to achieve a target dosage of 150 mg to 225 mg twice per day by the end of two weeks.
+Subsequently, may increase the dosage in increments of up to 100 mg once weekly or twice weekly.
+The maximum recommended CLOZARIL oral dosage is 450 mg twice daily.
 
-## 2.4 Discontinuation of Treatment
+## 2.3 Dosage Modifications Based on ANC Results
 
-Method of treatment discontinuation will vary depending on the patient’s last ANC:
-
-- •See Tables 2 or 3 for appropriate ANC monitoring based on the level of neutropenia if abrupt treatment discontinuation is necessary because of moderate to severe neutropenia.
-- •Reduce the dose gradually over a period of 1 to 2 weeks if termination of CLOZARIL therapy is planned and there is no evidence of moderate to severe neutropenia.
-- •For abrupt clozapine discontinuation for a reason unrelated to neutropenia, continuation of the existing ANC monitoring is recommended for general population patients until their ANC is ≥1500/µL and for BEN patients until their ANC is ≥1000/µL or above their baseline.
-- •Additional ANC monitoring is required for any patient reporting onset of fever (temperature of 38.5°C or 101.3°F, or greater) during the 2 weeks after discontinuation [see Warnings and Precautions (5.1)].
-- •Monitor all patients carefully for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as profuse sweating, headache, nausea, vomiting, and diarrhea.
-
-## 2.5 Re-Initiation of Treatment
-
-When restarting CLOZARIL in patients who have had even a brief interruption in treatment with CLOZARIL dosage must be reduced.
-This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Warnings and Precautions (5.3)].
-If one day’s dosing has been missed, resume treatment at 40% to 50% of the established dose.
-If two days dosing have been missed, resume dose at approximately 25% of the established dosage.
-For longer interruptions, re‑initiate at a dosage of 12.5 mg once daily or twice daily.
-If these dosages are well-tolerated, the dosage may be increased to the previous dosage more quickly than recommended for initial treatment.
-
-## 2.6 Dosage Adjustments with Concomitant use of CYP1A2, CYP2D6, CYP3A4 Inhibitors or CYP1A2, CYP3A4 Inducers
-
-Dose adjustments may be necessary in patients with concomitant use of: strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin); moderate or weak CYP1A2 inhibitors (e.g., oral contraceptives, or caffeine); CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline); CYP3A4 inducers (e.g., phenytoin, carbamazepine, St. John’s wort, and rifampin); or CYP1A2 inducers (e.g., tobacco smoking) (Table 1) [see Drug Interactions (7)].
+Table 1 provides recommended CLOZARIL dosage modifications based on ANC results [see Warnings and Precautions (5.1)].
+For dosage modifications based on ANC results for patients with Benign Ethnic Neutropenia (BEN) (also known as Duffy-null associated neutrophil count), see Table 2 [see Dosage and Administration (2.4)].
 
 Table 1.
-Dose Adjustment in Patients Taking Concomitant Medications
+CLOZARIL Dosage Modifications Based on ANC Results and Frequency of ANC Testing
 
-| Co-medications | Scenarios |  |  |
-| --- | --- | --- | --- |
-|  | Initiating CLOZARIL while taking a co-medication | Adding a co-medication while taking CLOZARIL | Discontinuing a co-medication while continuing CLOZARIL |
-| Strong CYP1A2 Inhibitors | Use one-third of the CLOZARIL dose. |  | Increase CLOZARIL dose based on clinical response. |
-| Moderate or Weak CYP1A2 Inhibitors | Monitor for adverse reactions. Consider reducing the CLOZARIL dose if necessary. |  | Monitor for lack of effectiveness. Consider increasing CLOZARIL dose if necessary. |
-| CYP2D6 or CYP3A4 Inhibitors |  |  |  |
-| Strong CYP3A4 Inducers | Concomitant use is not recommended. However, if the inducer is necessary, it may be necessary to increase the CLOZARIL dose. Monitor for decreased effectiveness. |  | Reduce CLOZARIL dose based on clinical response. |
-| Moderate or weak CYP1A2 or CYP3A4 Inducers | Monitor for decreased effectiveness. Consider increasing the CLOZARIL dose if necessary. |  | Monitor for adverse reactions. Consider reducing the CLOZARIL dose if necessary. |
+| Recommended Dosage Modification | Recommended Frequency of ANC Testing During CLOZARIL Treatment |
+| --- | --- |
+| ANC Within Normal Range (≥ 1500/μL) |  |
+| No dosage modification; continue treatment | •Day 1 to Month 6: Weekly•Month 7 to Month 12: Every 2 weeks•Month 13 and thereafter: Every month |
+| If CLOZARIL treatment is reinitiated after a dosage interruption (e.g., patient had neutropenia which required dosage interruption and now has a normal ANC level) for: •< 30 days, continue the previous ANC testing frequency•≥ 30 days, obtain ANC tests according to the frequency for patients who initiate treatment |  |
+| Mild Neutropenia (ANC between 1000 to 1499/μL)Confirm all initial reports of ANC less than 1500/μL with a repeat ANC measurement within 24 hours. |  |
+| No dosage modification; continue treatment | •Three times weekly•Once ANC ≥ 1500/μL, recommend returning to the patient’s last Normal Range ANC testing frequency |
+| Moderate Neutropenia (ANC between 500 to 999/μL) |  |
+| •Interrupt treatment and recommend hematology consultation•Resume treatment once ANC ≥1000/μL | •Daily•Once ANC ≥ 1000/μL, three times weekly•Once ANC ≥ 1500/μL, test weekly for 4 weeks. If ANC ≥ 1500/μL after monitoring weekly for 4 weeks, return to the patient’s last Normal Range ANC testing frequency |
+| Severe Neutropenia (ANC less than 500/μL) |  |
+| Discontinue treatment and recommend hematology consultation | •Daily•Once ANC ≥ 1000/μL, three times weekly•Once ANC ≥ 1500/μL, if the benefits outweigh the risks of restarting treatment, resume treatment and obtain ANC tests according to the frequency for patients who initiate treatment |
 
-## 2.7 Renal or Hepatic Impairment or CYP2D6 Poor Metabolizers
+## 2.4 Dosage Modifications Based on ANC Results for Patients with Benign Ethnic Neutropenia
 
-It may be necessary to reduce the CLOZARIL dose in patients with significant renal or hepatic impairment, or in CYP2D6 poor metabolizers [see Use in Specific Populations (8.6, 8.7)].
+Table 2 provides recommended CLOZARIL dosage modifications based on ANC results for patients with Benign Ethnic Neutropenia (BEN) (also known as Duffy-null associated neutrophil count) [see Warnings and Precautions (5.1)].
+For dosage modifications based on ANC results for patients without BEN, see Table 1 [see Dosage and Administration (2.3)].
+
+Table 2.
+CLOZARIL Dosage Modifications Based on ANC Results and Frequency of ANC Testing in Patients with Benign Ethnic NeutropeniaBenign Ethnic Neutropenia (BEN) is also known as Duffy-null associated neutrophil count.
+
+| Recommended Dosage Modification | Recommended Frequency of ANC Testing During CLOZARIL Treatment in Patients with BEN |
+| --- | --- |
+| ANC Within the Normal Range for Patients with BEN (≥ 1000/μL) |  |
+| No dosage modification; continue treatment | •Day 1 to Month 6: Weekly•Month 7 to Month 12: Every 2 weeks•Month 13 and thereafter: Monthly |
+| If CLOZARIL treatment is reinitiated after a dosage interruption (e.g., patient had neutropenia which required dosage interruption and now their ANC (≥ 1000/μL and ≥ the patient’s ANC baseline prior to treatment) for: •< 30 days, continue previous ANC testing frequency•≥ 30 days, obtain ANC tests according to the frequency for patients with BEN who initiate treatment |  |
+| Neutropenia in Patients with BEN (ANC level between 500 to 999/μL)Confirm all initial reports of ANC less than 1500/μL with a repeat ANC measurement within 24 hours. |  |
+| •Recommend hematology consultation•No dosage modification; continue treatment | •Three times weekly•Once ANC ≥ 1000/μL and ≥ the patient’s ANC baseline, obtain ANC tests weekly for 4 weeks•If ANC ≥1000/μL and ≥ the patient’s baseline after monitoring for 4 weeks, return to the patient’s last Normal ANC Range testing frequency for patients with BEN |
+| Severe Neutropenia in Patients with BEN (ANC level less than 500/μL) |  |
+| Discontinue treatment and recommend hematology consultation | •Daily•Once ANC ≥ 500/μL, obtain ANC three times weekly•Once ANC ≥ 1000/μL and ≥ the patient’s baseline, if the benefits outweigh the risks of restarting treatment, resume treatment and obtain ANC tests according to the frequency for patients with BEN who initiate treatment |
+
+## 2.5 Discontinuation of CLOZARIL Treatment
+
+If discontinuing CLOZARIL in patients with:
+
+- •Moderate or severe neutropenia, see Table 1 [see Dosage and Administration (2.3)].
+- •Normal or mild neutropenia, reduce the dosage gradually over a period of 1 to 2 weeks, and continue monitoring ANC levels until their ANC is ≥1500/μL.
+
+If discontinuing CLOZARIL in patients with Benign Ethnic Neutropenia (BEN) (also known as Duffy-null associated neutrophil count) with:
+
+- •Neutropenia, see Table 2 [see Dosage and Administration (2.4)].
+- •ANC within their normal range of ANC reduce the dosage gradually over a period of 1 to 2 weeks.
+
+When discontinuing CLOZARIL, monitor patients for the symptoms related to psychotic recurrence and cholinergic rebound (e.g., profuse sweating, headache, nausea, vomiting, diarrhea).
+
+## 2.6 Restarting CLOZARIL Treatment After Interrupting CLOZARIL
+
+When restarting CLOZARIL in patients who have interrupted CLOZARIL treatment, use a lower dosage to minimize the risk of hypotension, bradycardia, and syncope [see Warnings and Precautions (5.2)].
+
+- •If one day’s dosage is missed, resume CLOZARIL treatment at 40% to 50% of the previous dosage.
+- •If two days of dosing is missed, resume CLOZARIL treatment at approximately 25% of the previous dosage.
+- •For longer interruptions, restart CLOZARIL treatment with a dosage of 12.5 mg once or twice daily.
+  If this dosage is well-tolerated, may increase the dosage to the previous dosage more quickly than recommended than for initial CLOZARIL treatment.
+
+## 2.7 Dosage Modifications for Drug Interactions
+
+See Table 3 for recommended dosage modifications to reduce the risk of CLOZARIL-associated adverse reactions or reduce the risk of lower effectiveness [see Drug Interactions (7)].
+
+Table 3.
+CLOZARIL Dosage Modifications for Drug Interactions
+
+| Strong CYP1A2 Inhibitors | Administer one third of the CLOZARIL dosage. |
+| --- | --- |
+| Moderate or Weak CYP1A2 Inhibitors | Consider reducing the CLOZARIL dosage if necessary. |
+| CYP2D6 or CYP3A4 Inhibitors |  |
+| Strong CYP3A4 Inducers | Concomitant use is not recommended. However, if concomitant use is necessary, it may be necessary to increase the CLOZARIL dosage. Monitor for decreased effectiveness. |
+| Moderate or weak CYP1A2 or CYP3A4 Inducers | Consider increasing the CLOZARIL dosage if necessary. |
+
+## 2.8 Dosage Recommendations in Patients with Renal or Hepatic Impairment, or CYP2D6 Poor Metabolizers
+
+It may be necessary to reduce the CLOZARIL dosage in patients with significant renal impairment or hepatic impairment, or in CYP2D6 poor metabolizers [see Use in Specific Populations (8.6, 8.7)].

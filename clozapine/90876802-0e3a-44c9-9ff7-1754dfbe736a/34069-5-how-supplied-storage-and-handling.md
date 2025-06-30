@@ -13,6 +13,4 @@
 
 ## 16.2 Storage and Handling
 
-Storage temperature should not exceed 30°C (86°F).
-
-Keep out of reach of children.
+Store CLOZARIL at room temperature between 20°C to 25°C (68°F to 77°F); excursion permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
