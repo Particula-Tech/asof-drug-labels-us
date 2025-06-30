@@ -2,7 +2,7 @@
 
 ## 1.1 Complicated Skin and Skin Structure Infections (Adult Patients and Pediatric Patients 3 Months of Age and Older Only)
 
-Meropenem for Injection is indicated for the treatment of complicated skin and skin structure infections (cSSSI) due to Staphylococcus aureus (methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (vancomycin-susceptible isolates only), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis,Bacteroides fragilis, and Peptostreptococcus species.
+Meropenem for Injection is indicated for the treatment of complicated skin and skin structure infections (cSSSI) due to Staphylococcus aureus (methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae, viridans group streptococci, Enterococcus faecalis (vancomycin-susceptible isolates only), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis, and Peptostreptococcus species.
 
 ## 1.2 Complicated Intra-abdominal Infections (Adult and Pediatric Patients)
 
@@ -10,7 +10,7 @@ Meropenem for Injection is indicated for the treatment of complicated appendicit
 
 ## 1.3 Bacterial Meningitis (Pediatric Patients 3 Months of Age and Older Only)
 
-Meropenem for Injection is indicated for the treatment of bacterial meningitis caused by Haemophilus influenzae,Neisseria meningitidis and penicillin-susceptible isolates of Streptococcus pneumoniae.
+Meropenem for Injection is indicated for the treatment of bacterial meningitis caused by Haemophilus influenzae, Neisseria meningitidis and penicillin-susceptible isolates of Streptococcus pneumoniae.
 Meropenem for Injection has been found to be effective in eliminating concurrent bacteremia in association with bacterial meningitis.
 
 ## 1.4 Usage

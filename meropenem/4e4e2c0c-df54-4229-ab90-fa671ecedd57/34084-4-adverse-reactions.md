@@ -4,7 +4,7 @@ The following are discussed in greater detail in other sections of labeling:
 
 • Hypersensitivity Reactions [see Warnings and Precautions (5.1)] • Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
 
-• Rhabdomyolysis [see Warnings and Precautions (5.3)] • Seizure Potential [see Warnings and Precautions (5.4)] • Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.5)] • Clostridioides difficile – associated Diarrhea [see Warnings and Precautions (5.6)] • Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.7)] • Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.8)] • Thrombocytopenia [see Warnings and Precautions (5.9)] • Potential for Neuromotor Impairment [see Warnings and Precautions (5.10)]
+• Rhabdomyolysis [see Warnings and Precautions (5.3)] • Seizure Potential [see Warnings and Precautions (5.4)] • Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid [see Warnings and Precautions (5.5)] • Clostridioides difficile-associated Diarrhea [see Warnings and Precautions (5.6)] • Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.7)] • Overgrowth of Nonsusceptible Organisms [see Warnings and Precautions (5.8)] • Thrombocytopenia [see Warnings and Precautions (5.9)] • Potential for Neuromotor Impairment [see Warnings and Precautions (5.10)]
 
 ## 6.1 Adverse Reactions from Clinical Trials
 
@@ -98,7 +98,7 @@ Rash 1.6%
 
 Nausea and Vomiting 0.8%
 
-Pediatric Patients with Bacterial Meningitis
+Pediatric Patients with Bacterial Meningitis:
 
 Meropenem for Injection was studied in 321 pediatric patients (3 months to less than 17 years of age) with meningitis at a dosage of 40 mg/kg every 8 hours.
 The types of systemic and local adverse events seen in these patients are similar to the adults, with the most common adverse reactions reported as possibly, probably, or definitely related to Meropenem for Injection and their rates of occurrence as follows:
@@ -124,7 +124,7 @@ The adverse reactions seen in these patients that were reported and their rates 
 
 Convulsion 5.0%
 
-Hyperbilirubinemia(conjugated) 4.5%
+Hyperbilirubinemia (conjugated) 4.5%
 
 Vomiting 2.5%
 
@@ -138,9 +138,7 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Worldwide post-marketing adverse reactions not otherwise listed in the Adverse Reactions from Clinical Trials section of this prescribing information and reported as possibly, probably, or definitely drug related are listed within each body system in order of decreasing severity.
 Blood and Lymphatic System Disorders: agranulocytosis, neutropenia, and leukopenia; a positive direct or indirect Coombs test, and hemolytic anemia.
-
 Immune System Disorders: angioedema.
-
 Skin and Subcutaneous Disorders: Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme and acute generalized exanthematous pustulosis.
-
 Musculoskeletal Disorders: rhabdomyolysis.
+Hepatic Disorders: drug-induced liver injury.

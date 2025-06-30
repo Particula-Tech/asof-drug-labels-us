@@ -23,7 +23,7 @@ Weight (kg) x (140 - age)
 
 Females: 0.85 x above value
 
-Table 1:Recommended Meropenem for Injection Dosage Schedule for Adult Patients with Renal Impairment
+Table 1: Recommended Meropenem for Injection Dosage Schedule for Adult Patients with Renal Impairment
 
 | Creatinine Clearance (mL/min) | Dose (dependent on type of infection) | Dosing Interval |
 | --- | --- | --- |

@@ -1,7 +1,5 @@
 # PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
 
-Meropenem for Injection, USP
-
 Container Label - 500 mg/vial
 
 NDC 68083-146-01 Rx Only

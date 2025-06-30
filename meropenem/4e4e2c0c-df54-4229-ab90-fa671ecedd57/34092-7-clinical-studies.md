@@ -41,7 +41,7 @@ Table 8: Clinical Efficacy Rates by Pathogen for Clinically Evaluable Population
 | Streptococcus pyogenes (Group A) | 26/29 (90) | 28/32 (88) |
 | Streptococcus agalactiae (Group B) | 12/17 (71) | 16/19 (84) |
 | Enterococcus faecalis | 9/12 (75) | 14/20 (70) |
-| Viridans groupstreptococci | 11/12 (92) | 5/6 (83) |
+| Viridans group streptococci | 11/12 (92) | 5/6 (83) |
 | Gram-negative aerobes |  |  |
 | Escherichia coli | 12/15 (80) | 15/21 (71) |
 | Pseudomonas aeruginosa | 11/15 (73) | 13/15 (87) |
@@ -103,8 +103,9 @@ Table 10: Efficacy rates by Pathogen in the Clinically Evaluable Population with
 | N. meningitidis | 30/35 (86) | 35/39 (90) |
 | Total (including others) | 102/131 (78) | 108/140 (77) |
 
-1. (+) β-lactamase-producing
-2. (-/NT) non-β-lactamase-producing or not tested
+1 (+) β-lactamase-producing
+
+2 (-/NT) non-β-lactamase-producing or not tested
 
 Sequelae were the most common reason patients were assessed as clinically not cured.
 

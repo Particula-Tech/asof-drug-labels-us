@@ -23,12 +23,10 @@ If signs or symptoms of rhabdomyolysis such as muscle pain, tenderness or weakne
 
 Seizures and other adverse CNS experiences have been reported during treatment with Meropenem for Injection.
 These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) or with bacterial meningitis and/or compromised renal function [see Adverse Reactions (6.1) and Drug Interactions (7.2)].
-
 During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections with the overall seizure rate being 0.7% (based on 20 patients with this adverse event).
 All meropenem-treated patients with seizures had pre-existing contributing factors.
 Among these are included prior history of seizures or CNS abnormality and concomitant medications with seizure potential.
 Dosage adjustment is recommended in patients with advanced age and/or adult patients with creatinine clearance of 50 mL/min or less [see Dosage and Administration (2.2)].
-
 Close adherence to the recommended dosage regimens is urged, especially in patients with known factors that predispose to convulsive activity.
 Continue anti-convulsant therapy in patients with known seizure disorders.
 If focal tremors, myoclonus, or seizures occur, evaluate neurologically, placed on anti-convulsant therapy if not already instituted, and re-examine the dosage of Meropenem for Injection to determine whether it should be decreased or discontinued.
@@ -42,7 +40,7 @@ Increasing the dose of valproic acid or divalproex sodium may not be sufficient 
 Consider administration of antibacterial drugs other than carbapenems to treat infections in patients whose seizures are well controlled on valproic acid or divalproex sodium.
 If administration of Meropenem for Injection is necessary, consider supplemental anti-convulsant therapy [see Drug Interactions (7.2)].
 
-## 5.6Clostridioides difficile-associated Diarrhea
+## 5.6 Clostridioides difficile-associated Diarrhea
 
 Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Meropenem for Injection, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
