@@ -7,11 +7,11 @@ PHARMACIST: Dispense in a well-closed container as defined in the USP with a chi
 
 Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-Manufactured For: Ingenus Pharmaceuticals, LLC Orlando, FL 32839-6408
+Manufactured For: Ingenus Pharmaceuticals, LLC Orlando, FL 32811
 
 Rx Only
 
-551701
+551702
 
 Rev.
-08/2019
+01/2025
