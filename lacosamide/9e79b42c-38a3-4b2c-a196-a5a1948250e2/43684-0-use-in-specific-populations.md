@@ -9,8 +9,7 @@ Encourage women who are taking VIMPAT during pregnancy to enroll in the North Am
 
 Risk Summary
 
-Available data from the North American Antiepileptic Drug (NAAED) pregnancy registry, a prospective cohort study, case reports, and a case series with VIMPAT use in pregnant women are insufficient to identify a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.
-Lacosamide produced developmental toxicity (increased embryofetal and perinatal mortality, growth deficit) in rats following administration during pregnancy.
+Available data from the North American Antiepileptic Drug (NAAED) pregnancy registry, a prospective cohort study, case reports, and a case series with VIMPAT use in pregnant women are insufficient to identify a drug-associated risk of major birth defects, miscarriage or other adverse maternal or fetal outcomes.Lacosamide produced developmental toxicity (increased embryofetal and perinatal mortality, growth deficit) in rats following administration during pregnancy.
 Developmental neurotoxicity was observed in rats following administration during a period of postnatal development corresponding to the third trimester of human pregnancy.
 These effects were observed at doses associated with clinically relevant plasma exposures (see Data).
 
@@ -35,7 +34,7 @@ The no-effect dose for developmental neurotoxicity in rats was associated with a
 
 In Vitro Data
 
-Lacosamide has been shown in vitro to interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
+Lacosamide has been shown in vitroto interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
 Potential adverse effects on CNS development related to this activity cannot be ruled out.
 
 ## 8.2 Lactation
@@ -63,13 +62,13 @@ Safety and effectiveness in pediatric patients below 1 month of age have not bee
 
 Primary Generalized Tonic-Clonic Seizures
 
-Safety and effectiveness of VIMPAT as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in pediatric patients with idiopathic generalized epilepsy 4 years of age and older was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center study (Study 5), which included 37 pediatric patients 4 years to less than 17 years of age [see Adverse Reactions (6.1) and Clinical Studies (14.3)].
+Safety and effectiveness of VIMPAT as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in pediatric patients with idiopathic generalized epilepsy 4 years of age and older was established in a 24-week double-blind, randomized, placebo-controlled, parallel-group, multi-center study (Study 5), which included 37 pediatric patients 4 years to less than 17 years of age [see Adverse Reactions (6.1)and Clinical Studies (14.3)].
 
 Safety and effectiveness in pediatric patients below the age of 4 years have not been established.
 
 Animal Data
 
-Lacosamide has been shown in vitro to interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
+Lacosamide has been shown in vitroto interfere with the activity of collapsin response mediator protein-2 (CRMP-2), a protein involved in neuronal differentiation and control of axonal outgrowth.
 Potential related adverse effects on CNS development cannot be ruled out.
 Administration of lacosamide to rats during the neonatal and juvenile periods of postnatal development (approximately equivalent to neonatal through adolescent development in humans) resulted in decreased brain weights and long-term neurobehavioral changes (altered open field performance, deficits in learning and memory).
 The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide exposure (AUC) less than that in humans at the maximum recommended human dose of 400 mg/day.
@@ -79,12 +78,12 @@ The no-effect dose for developmental neurotoxicity in rats was associated with a
 There were insufficient numbers of elderly patients enrolled in partial-onset seizure trials (n=18) to adequately determine whether they respond differently from younger patients.
 
 No VIMPAT dose adjustment based on age is necessary.
-In elderly patients, dose titration should be performed with caution, usually starting at the lower end of the dosing range, reflecting the greater frequency of decreased hepatic function, decreased renal function, increased cardiac conduction abnormalities, and polypharmacy [see Dosage and Administration (2.1, 2.4, 2.5) and Clinical Pharmacology (12.3)].
+In elderly patients, dose titration should be performed with caution, usually starting at the lower end of the dosing range, reflecting the greater frequency of decreased hepatic function, decreased renal function, increased cardiac conduction abnormalities, and polypharmacy [see Dosage and Administration (2.1, 2.4, 2.5)and Clinical Pharmacology (12.3)].
 
 ## 8.6 Renal Impairment
 
-No dose adjustment is necessary in patients with mild to moderate renal impairment (CLCR ≥30 mL/min).
-In patients with severe renal impairment (CLCR <30 mL/min as estimated by the Cockcroft-Gault equation for adults; CLCR <30 mL/min/1.73m2 as estimated by the Schwartz equation for pediatric patients) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
+No dose adjustment is necessary in patients with mild to moderate renal impairment (CL CR≥30 mL/min).
+In patients with severe renal impairment (CL CR<30 mL/min as estimated by the Cockcroft-Gault equation for adults; CL CR<30 mL/min/1.73m 2as estimated by the Schwartz equation for pediatric patients) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].
 
 In all patients with renal impairment, dose initiation and titration should be based on clinical response and tolerability.
 

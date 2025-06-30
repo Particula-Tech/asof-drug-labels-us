@@ -58,7 +58,7 @@ In all patients for whom a loading dose is clinically indicated, administer the 
 VIMPAT should be used with caution in patients with underlying proarrhythmic conditions such as known cardiac conduction problems (e.g., marked first-degree AV block, second-degree or higher AV block and sick sinus syndrome without pacemaker), severe cardiac disease (such as myocardial ischemia or heart failure, or structural heart disease), and cardiac sodium channelopathies (e.g., Brugada Syndrome).
 VIMPAT should also be used with caution in patients on concomitant medications that affect cardiac conduction, including sodium channel blockers, beta-blockers, calcium channel blockers, potassium channel blockers, and medications that prolong the PR interval [see Drug Interactions (7.2)].
 In such patients, obtaining an ECG before beginning VIMPAT, and after VIMPAT is titrated to steady-state maintenance dose, is recommended.
-In addition, these patients should be closely monitored if they are administered VIMPAT through the intravenous route [see Adverse Reactions (6.1) and Drug Interactions (7.2)].
+In addition, these patients should be closely monitored if they are administered VIMPAT through the intravenous route [see Adverse Reactions (6.1)and Drug Interactions (7.2)].
 
 Atrial Fibrillation and Atrial Flutter
 

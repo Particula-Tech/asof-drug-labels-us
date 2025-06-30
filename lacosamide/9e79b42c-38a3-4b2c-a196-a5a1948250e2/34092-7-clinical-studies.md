@@ -66,7 +66,7 @@ The key secondary efficacy endpoint was the percentage of patients not experienc
 The adjusted Kaplan-Meier estimates of 24-week freedom from PGTC seizures were 31.3% in VIMPAT group and 17.2% in placebo group.
 The adjusted difference between treatment groups was 14.1% (95% CI: 3.2, 25.1, p-value=0.011).
 
-Figure 3 – Kaplan-Meier Analysis of Time to 2nd PGTC Seizure (Study 5) Analysis Set: Modified Full Analysis Set
+Figure 3 – Kaplan-Meier Analysis of Time to 2 ndPGTC Seizure (Study 5) Analysis Set: Modified Full Analysis Set
 
 | The numbers at the bottom of the figure are for patients still at risk in the study at a given timepoint (i.e., the continuing patients in the study without an event or censoring prior to the timepoint). |
 | --- |

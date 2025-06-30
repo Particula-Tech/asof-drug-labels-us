@@ -2,7 +2,7 @@
 
 NDC 0131-2477-60 Rx only
 
-VIMPAT® (lacosamide) tablets CV
+VIMPAT ® (lacosamide) tablets CV
 
 50 mg
 
@@ -16,7 +16,7 @@ Manufactured for: UCB, Inc. Smyrna, GA 30080
 
 NDC 0131-2478-60 Rx only
 
-VIMPAT® (lacosamide) tablets CV
+VIMPAT ® (lacosamide) tablets CV
 
 100 mg
 
@@ -30,7 +30,7 @@ Manufactured for: UCB, Inc. Smyrna, GA 30080
 
 NDC 0131-2479-60 Rx only
 
-VIMPAT® (lacosamide) tablets CV
+VIMPAT ® (lacosamide) tablets CV
 
 150 mg
 
@@ -44,7 +44,7 @@ Manufactured for: UCB, Inc. Smyrna, GA 30080
 
 NDC 0131-2480-60 Rx only
 
-VIMPAT® (lacosamide) tablets CV
+VIMPAT ® (lacosamide) tablets CV
 
 200 mg
 
@@ -60,7 +60,7 @@ NDC 0131-1810-67 Rx Only
 
 Intravenous Use Only 10 single-dose vials
 
-VIMPAT® (lacosamide) injection CV
+VIMPAT ® (lacosamide) injection CV
 
 200 mg /20 mL (10 mg/mL)
 
@@ -70,7 +70,7 @@ Manufactured for: UCB, Inc. Smyrna, GA 30080
 
 NDC 0131-5410-72
 
-VIMPAT® (lacosamide) oral solution CV
+VIMPAT ® (lacosamide) oral solution CV
 
 10 mg / mL
 

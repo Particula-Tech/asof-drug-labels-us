@@ -40,7 +40,7 @@ Table 4 gives the incidence of adverse reactions that occurred in ≥2% of adult
 
 Table 4: Adverse Reactions Incidence in Adjunctive Therapy Pooled, Placebo-Controlled Trials in Adult Patients with Partial-Onset Seizures (Studies 2, 3, and 4)
 
-| Adverse Reaction | Placebo N=364 % | VIMPAT 200 mg/day N=270 % | VIMPAT 400 mg/day N=471 % | VIMPAT 600 mg/day600 mg dose is 1.5 times greater than the maximum recommended dose. N=203 % | VIMPAT Total N=944 % |
+| Adverse Reaction | Placebo N=364 % | VIMPAT 200 mg/day N=270 % | VIMPAT 400 mg/day N=471 % | VIMPAT 600 mg/day 600 mg dose is 1.5 times greater than the maximum recommended dose. N=203 % | VIMPAT Total N=944 % |
 | --- | --- | --- | --- | --- | --- |
 | Ear and labyrinth disorder |  |  |  |  |  |
 | Vertigo | 1 | 5 | 3 | 4 | 4 |

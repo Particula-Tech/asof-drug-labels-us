@@ -9,8 +9,8 @@ Mice and rats received lacosamide once daily by oral administration for 104 week
 
 Mutagenesis
 
-Lacosamide was negative in an in vitro Ames test and an in vivo mouse micronucleus assay.
-Lacosamide induced a positive response in the in vitro mouse lymphoma assay.
+Lacosamide was negative in an in vitroAmes test and an in vivomouse micronucleus assay.
+Lacosamide induced a positive response in the in vitromouse lymphoma assay.
 
 Fertility
 
