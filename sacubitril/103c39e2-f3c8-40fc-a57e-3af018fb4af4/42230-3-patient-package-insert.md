@@ -1,0 +1,70 @@
+# SPL PATIENT PACKAGE INSERT SECTION
+
+Patient Information Sacubitril and valsartan tablets (sakueʹ bi tril and valsarʹ tan) What is the most important information I should know about sacubitril and valsartan tablets?
+Sacubitril and valsartan tablets can harm or cause death to your unborn baby.
+Talk to your doctor about other ways to treat heart failure if you plan to become pregnant.
+Tell your doctor right away if you become pregnant during treatment with sacubitril and valsartan tablets.
+What is sacubitril and valsartan tablet?
+Sacubitril and valsartan tablet is a prescription medicine used to treat: • adults with long-lasting (chronic) heart failure to help reduce the risk of death and hospitalization.
+Sacubitril and valsartan tablets works better when the heart cannot pump a normal amount of blood to the body. • certain children 1 year of age and older who have symptomatic heart failure.
+It is not known if sacubitril and valsartan tablet is safe and effective in children under 1 year of age.
+Do not take sacubitril and valsartan tablets if you: • are allergic to any of the ingredients in sacubitril and valsartan tablets.
+See the end of this Patient Information leaflet for a complete list of ingredients in sacubitril and valsartan tablets. • have had an allergic reaction, including swelling of your face, lips, tongue, throat, or trouble breathing while taking a type of medicine called an angiotensin-converting enzyme (ACE) inhibitor or angiotensin II receptor blocker (ARB). • take an ACE inhibitor medicine.
+Do not take sacubitril and valsartan tablets for at least 36 hours before or after you take an ACE inhibitor medicine.
+Talk with your doctor or pharmacist before taking sacubitril and valsartan tablet sif you are not sure if you take an ACE inhibitor medicine. • have diabetes and take a medicine that contains aliskiren.
+Before taking sacubitril and valsartan tablets, tell your doctor about all of your medical conditions, including if you: • have a history of hereditary angioedema • have kidney or liver problems • have diabetes • are pregnant or plan to become pregnant.
+See “What is the most important information I should know about sacubitril and valsartan tablets?” • are breastfeeding or plan to breastfeed.
+It is not known if sacubitril and valsartan passes into your breast milk.
+You should not breastfeed during treatment with sacubitril and valsartan tablets.
+You and your doctor should decide if you will take sacubitril and valsartan tablets or breastfeed.
+
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
+Taking sacubitril and valsartan tablets with certain other medicines may affect each other.
+Taking sacubitril and valsartan tablets with other medicines can cause serious side effects.
+Especially tell your doctor if you take: • potassium supplements or a salt substitute • nonsteroidal anti-inflammatory drugs (NSAIDs) • lithium • other medicines for high blood pressure or heart problems, such as an ACE inhibitor, ARB, or aliskiren Keep a list of your medicines to show your doctor and pharmacist when you get a new medicine.
+How should I take sacubitril and valsartan tablets? • Take sacubitril and valsartan tablets exactly as your doctor tells you to take it. • Take sacubitril and valsartan tablets 2 times each day.
+Your doctor may change your dose of sacubitril and valsartan tablets during treatment. • If you or your child cannot swallow tablets, or if tablets are not available in the prescribed strength, you or your child may take sacubitril and valsartan tablets prepared as a liquid (oral) suspension. • If you or your child switches between taking sacubitril and valsartan tablets and the liquid suspension prepared from sacubitril and valsartan tablets, your doctor will adjust the dose as needed. • If you or your child are prescribed sacubitril and valsartan tablets to be prepared as a liquid suspension: o Your pharmacist will prepare sacubitril and valsartan tablets for you or your child to take as a liquid suspension. o Shake the bottle of suspension well before measuring the dose of medicine and before taking or giving the dose. • If you miss a dose, take it as soon as you remember.
+If it is close to your next dose, do not take the missed dose.
+Take the next dose at your regular time. • If you take too much sacubitril and valsartan tablets, call your doctor right away.
+What are the possible side effects of sacubitril and valsartan tablets?
+Sacubitril and valsartan tablets may cause serious side effects, including: • See “What is the most important information I should know about sacubitril and valsartan tablets?” • Serious allergic reactions causing swelling of your face, lips, tongue, and throat (angioedema) that may cause trouble breathing and death.
+Get emergency medical help right away if you have symptoms of angioedema or trouble breathing.
+Do not take sacubitril and valsartan tablets again if you have had angioedema during treatment with sacubitril and valsartan tablets.
+People who are Black and take sacubitril and valsartan tablets may have a higher risk of having angioedema than people who are not Black and take sacubitril and valsartan tablets.
+
+People who have had angioedema before taking sacubitril and valsartan tablets may have a higher risk of having angioedema than people who have not had angioedema before taking sacubitril and valsartan tablets.
+See “Who should not take sacubitril and valsartan tablets?” • Low blood pressure (hypotension).
+Low blood pressure is common during treatment with sacubitril and valsartan tablets.
+Your risk of low blood pressure is greater if you also take water pills (diuretics).
+Call your doctor if you become dizzy or lightheaded, or you develop extreme tiredness (fatigue). • Kidney problems.
+Kidney problems are common during treatment with sacubitril and valsartan tablets and can be serious and can lead to kidney failure.
+Your doctor will check your kidney function during your treatment with sacubitril and valsartan tablets. • Increased amount of potassium in your blood (hyperkalemia).
+Increased blood potassium levels are common during treatment with sacubitril and valsartan tablets Your doctor will check your potassium blood level during your treatment with sacubitril and valsartan tablets.
+The most common side effects of sacubitril and valsartan tablets also include cough and dizziness.
+Your doctor may need to lower your dose, temporarily stop treatment, or permanently stop treatment if you develop certain side effects or if you have changes in your kidney function or increased blood levels of potassium during treatment with sacubitril and valsartan tablets.
+These are not all the possible side effects of sacubitril and valsartan tablets.
+Call your doctor for medical advice about side effects.
+You may report side effects to FDA at 1-800-FDA-1088.
+How should I store sacubitril and valsartan tablets? • Store sacubitril and valsartan tablets at room temperature between 68°F to 77°F (20°C to 25°C). • Protect sacubitril and valsartan tablets from moisture. • Store bottles of sacubitril and valsartan tablets prepared as an oral suspension at room temperature less than 77°F (25°C) for up to 15 days.
+Do not refrigerate sacubitril and valsartan tablets prepared as an oral suspension.
+Keep sacubitril and valsartan tablets and all medicines out of the reach of children.
+General information about the safe and effective use of sacubitril and valsartan tablets.
+Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet.
+Do not use sacubitril and valsartan tablets for a condition for which it was not prescribed.
+Do not give sacubitril and valsartan tablets to other people, even if they have the same symptoms that you have.
+It may harm them.
+You can ask your pharmacist or doctor for information about sacubitril and valsartan tablets that is written for health professionals.
+What are the ingredients in sacubitril and valsartan tablets?
+Active ingredient: sacubitril and valsartan Sacubitril and valsartan tablets inactive ingredients: microcrystalline cellulose, low-substituted hydroxyl propylcellulose, colloidal silicon dioxide, Magnesium stearate, Crospovidone.
+Film-coat: polyvinyl alcohol-part hydrolysed, titanium dioxide, Macrogol/PEG 4000, talc.
+The film-coat for the 49 mg of sacubitril and 51 mg of valsartan tablet contains iron oxide yellow and iron oxide red.
+
+Prepared sacubitril and valsartan oral suspension also contains Ora-Sweet SF® and Ora-Plus®.
+
+Manufactured for: Macleods Pharma USA, Inc. Princeton, NJ 08540 Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh-174101 INDIA The brands listed are trademarks of their respective owners
+
+For more information, Macleods Pharma USA, Inc., at 1-888-943-3210 or 1-855-926-3384 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+
+This patient information has been approved by the U.S. Food and Drug Administration.
+
+Revised: 06/2025

@@ -1,0 +1,7 @@
+# 10 OVERDOSAGE
+
+Limited data are available with regard to overdosage in human subjects with sacubitril and valsartan tablets.
+In healthy volunteers, a single dose of sacubitril and valsartan tablets 583 mg sacubitril/617 mg valsartan, and multiple doses of 437 mg sacubitril/463 mg valsartan (14 days) have been studied and were well tolerated.
+Hypotension is the most likely result of overdosage due to the blood pressure lowering effects of sacubitril and valsartan tablets.
+Symptomatic treatment should be provided.
+Sacubitril and valsartan tablets is unlikely to be removed by hemodialysis because of high protein binding.

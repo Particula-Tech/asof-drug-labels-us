@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA213728"
+  ],
+  "inn": "sacubitril",
+  "labeler": "Macleods Pharmaceuticals Limited",
+  "package_ndcs": [
+    "33342-570-09",
+    "33342-570-57",
+    "33342-571-09",
+    "33342-571-57",
+    "33342-572-09",
+    "33342-572-57"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sacubitril and valsartan",
+      "name": "Sacubitril and Valsartan"
+    }
+  ],
+  "setid": "103c39e2-f3c8-40fc-a57e-3af018fb4af4",
+  "source": "dailymed"
+}
