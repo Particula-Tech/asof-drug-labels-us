@@ -9,17 +9,17 @@ CYP1A2 Inhibitors
 
 Concomitant use of VERSACLOZ and CYP1A2 inhibitors can increase plasma levels of clozapine, potentially resulting in adverse reactions.
 Reduce the VERSACLOZ dose to one third of the original dose when VERSACLOZ is coadministered with strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin).
-The VERSACLOZ dose should be increased to the original dose when coadministration of strong CYP1A2 inhibitors is discontinued [see Dosage and Administration (2.7), Clinical Pharmacology (12.3)].
+The VERSACLOZ dose should be increased to the original dose when coadministration of strong CYP1A2 inhibitors is discontinued [see Dosage and Administration (2.8), Clinical Pharmacology (12.3)].
 
 Moderate or weak CYP1A2 inhibitors include oral contraceptives and caffeine.
 Monitor patients closely when VERSACLOZ is coadministered with these inhibitors.
-Consider reducing the VERSACLOZ dosage if necessary [see Dosage and Administration (2.7)].
+Consider reducing the VERSACLOZ dosage if necessary [see Dosage and Administration (2.8)].
 
 CYP2D6 and CYP3A4 Inhibitors
 
 Concomitant treatment with VERSACLOZ and CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline) can increase clozapine levels and lead to adverse reactions [see Clinical Pharmacology (12.3)].
 Use caution and monitor patients closely when using such inhibitors.
-Consider reducing the VERSACLOZ dose [see Dosage and Administration (2.7)].
+Consider reducing the VERSACLOZ dose [see Dosage and Administration (2.8)].
 
 CYP1A2 and CYP3A4 Inducers
 
@@ -27,16 +27,16 @@ Concomitant treatment with drugs that induce CYP1A2 or CYP3A4 can decrease the p
 Tobacco smoke is a moderate inducer of CYP1A2.
 Strong CYP3A4 inducers include carbamazepine, phenytoin, St. John’s wort, and rifampin.
 It may be necessary to increase the VERSACLOZ dose if used concomitantly with inducers of these enzymes.
-However, concomitant use of VERSACLOZ and strong CYP3A4 inducers is not recommended [see Dosage and Administration (2.7)].
+However, concomitant use of VERSACLOZ and strong CYP3A4 inducers is not recommended [see Dosage and Administration (2.8)].
 
-Consider reducing the VERSACLOZ dosage when discontinuing coadministered enzyme inducers, because discontinuation of inducers can result in increased clozapine plasma levels and an increased risk of adverse reactions [seeDosage and Administration (2.7)].
+Consider reducing the VERSACLOZ dosage when discontinuing coadministered enzyme inducers, because discontinuation of inducers can result in increased clozapine plasma levels and an increased risk of adverse reactions [seeDosage and Administration (2.8)].
 Anticholinergic DrugsConcomitant treatment with clozapine and other drugs with anticholinergic activity (e.g., benztropine, cyclobenzaprine, diphenhydramine) can increase the risk for anticholinergic toxicity and severe gastrointestinal adverse reactions related to hypomotility.
-Avoid concomitant use of VERSACLOZ with anticholinergic drugs when possible [see Warnings and Precautions (5.8, 5.16)].
+Avoid concomitant use of VERSACLOZ with anticholinergic drugs when possible [see Warnings and Precautions (5.7, 5.15)].
 
 Drugs that Cause QT Interval Prolongation
 
 Use caution when administering concomitant medications that prolong the QT interval or inhibit the metabolism of VERSACLOZ.
-Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [seeWarnings and Precautions (5.10)].
+Drugs that cause QT prolongation include: specific antipsychotics (e.g., ziprasidone, iloperidone, chlorpromazine, thioridazine, mesoridazine, droperidol, and pimozide), specific antibiotics (e.g., erythromycin, gatifloxacin, moxifloxacin, sparfloxacin), Class 1A antiarrhythmics (e.g., quinidine, procainamide) or Class III antiarrhythmics (e.g., amiodarone, sotalol), and others (e.g., pentamidine, levomethadyl acetate, methadone, halofantrine, mefloquine, dolasetron mesylate, probucol or tacrolimus) [seeWarnings and Precautions (5.9)].
 
 ## 7.2 Potential for VERSACLOZ to Affect Other Drugs
 

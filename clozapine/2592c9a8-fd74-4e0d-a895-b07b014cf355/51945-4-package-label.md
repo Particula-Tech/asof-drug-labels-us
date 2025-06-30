@@ -7,3 +7,7 @@ Versacloz ®
 (clozapine) Oral Suspension
 
 50 mg/mL
+
+Cotainer Label
+
+Carton Label

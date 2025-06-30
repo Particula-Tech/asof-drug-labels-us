@@ -1,71 +1,119 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Required Laboratory Testing Prior to Initiation and During Therapy
+## 2.1 Absolute Neutrophil Count Testing Prior to VERSACLOZ Initiation
 
-Prior to initiating treatment with VERSACLOZ, a baseline ANC must be obtained.
-The baseline ANC must be at least 1500/µL for the general population, and at least 1000/µL for patients with documented Benign Ethnic Neutropenia (BEN).
-To continue treatment, the ANC must be monitored regularly [see Warnings and Precautions (5.1)].
+Prior to initiating VERSACLOZ treatment, obtain a baseline absolute neutrophil count (ANC).
+VERSACLOZ initiation is not recommended in patients with an ANC less than 1500/µL [see Warnings and Precautions (5.1)].
 
-## 2.2 Dosing Information
+For patients with documented Benign Ethnic Neutropenia (BEN) (also known as Duffy-null associated neutrophil count)), obtain at least two baseline ANC levels.
+VERSACLOZ initiation is not recommended in patients with BEN with an ANC less than 1000/µL [see Warnings and Precautions (5.1)].
 
-The starting dose is 12.5 mg once daily or twice daily.
-The total daily dose can be increased in increments of 25 mg to 50 mg per day, if well-tolerated, to achieve a target dose of 300 mg to 450 mg per day (administered in divided doses) by the end of 2 weeks.
-Subsequently, the dose can be increased once weekly or twice weekly, in increments of up to 100 mg.
-The maximum dose is 900 mg per day.
-To minimize the risk of orthostatic hypotension, bradycardia, and syncope, it is necessary to use this low starting dose, gradual titration schedule, and divided dosages [seeWarnings and Precautions (5.3)].
+For dosage modifications based on ANC results, see Dosage and Administration(2.4, 2.5).
+
+## 2.2 Recommended Dosage
+
+To reduce the risk of orthostatic hypotension, bradycardia, and syncope, the recommended starting dosage is much lower than the target dosage [see Warnings and Precautions (5.2)].
+
+The recommended starting oral dosage of VERSACLOZ is 12.5 mg once or twice daily.
+If well-tolerated, increase the total daily dose in increments of 25 mg to 50 mg per day to achieve a target dosage of 150 mg to 225 mg twice per day by the end of two weeks.
+Subsequently, may increase the dosage in increments of up to 100 mg once weekly or twice weekly.
+The maximum recommended VERSACLOZ oral dosage is 450 mg twice daily.
 
 ## 2.3 Important Administration Instructions
 
-VERSACLOZ Oral Suspension is administered to the mouth by the oral syringes provided (1 mL or 9 mL).
-After shaking the bottle for 10 seconds prior to each use, the syringe adaptor is pressed on top of the bottle.
-The oral syringe (1 mL or 9 mL) is filled with air, and inserted into the adaptor.
-The air is dispelled into the bottle and then the bottle is turned upside down.
-The prescribed amount of the suspension is drawn from the bottle and dispensed directly to the mouth.
-The prescribed dose should be administered immediately after it is prepared.
-Do not draw a dose and store it in the syringe for later use.
-After use, the oral syringe may be washed with warm water and dried for next use.
-The bottle may be closed with the same cap without removing the bottle adaptor.
-Educate patients and caregivers on the steps to administer VERSACLOZ as described in the Patient Instructions for Use.
+Educate patients and caregivers on how to administer VERSACLOZ (see the Instructions for Use).
 VERSACLOZ can be taken with or without food [see Clinical Pharmacology (12.3)].
 
-## 2.4 Maintenance Treatment
+The following are important administration instructions:
 
-Generally, patients responding to VERSACLOZ should continue maintenance treatment on their effective dose beyond the acute episode.
+- Administer VERSACLOZ orally using the provided oral syringes (1 mL or 9 mL).
+- After shaking the VERSACLOZ bottle for 10 seconds, press the syringe adaptor on top of the bottle.
+- Insert the oral syringe (1 mL or 9 mL) filled with air into the adapter, dispel the air into the bottle, and then turn the bottle upside down.
+- Draw the prescribed amount of the oral suspension from the bottle and immediately dispense directly to the mouth after preparation.
+  Do not store a dose in the syringe for later use.
 
-## 2.5 Discontinuation of Treatment
+After use, may wash the oral syringe with warm water and then dry the oral syringe for the next use.
+The bottle may be closed with the same cap without removing the bottle adapter.
 
-Method of treatment discontinuation will vary depending on the patient's last ANC:
+## 2.4 Dosage Modification Based on ANC Results
 
-- See Tables 2 or 3 for appropriate ANC monitoring based on the level of neutropenia if abrupt treatment discontinuation is necessary because of moderate to severe neutropenia.
-- Reduce the dose gradually over a period of 1 to 2 weeks if termination of VERSACLOZ therapy is planned and there is no evidence of moderate to severe neutropenia.
-- For abrupt clozapine discontinuation for a reason unrelated to neutropenia, continuation of the existing ANC monitoring is recommended for general population patients until their ANC is ≥1500/µL and for BEN patients until their ANC is ≥1000/µL or above their baseline.
-- Additional ANC monitoring is required for any patient reporting onset of fever (temperature of 38.5°C or 101.3°F, or greater) during the 2 weeks after discontinuation [see Warnings and Precautions (5.1)].
-- Monitor all patients carefully for the recurrence of psychotic symptoms and symptoms related to cholinergic rebound such as profuse sweating, headache, nausea, vomiting, and diarrhea.
+Table 1 provides recommended VERSACLOZ dosage modifications based on ANC results [see Warnings and Precautions (5.1)].
+For dosage modifications based on ANC results for patients with Benign Ethnic Neutropenia (BEN) (also known as Duffy-null associated neutrophil count), see Table 2 [see Dosage and Administration (2.5)].
 
-## 2.6 Re-Initiation of Treatment
+Table 1: VERSACLOZ Dosage Modifications Based on ANC Results and Frequency of ANC Testing
 
-When restarting VERSACLOZ in patients who have had even a brief interruption in treatment with VERSACLOZ, dosage must be reduced.
-This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Warnings and Precautions (5.3)].
-If one day’s dosing has been missed, resume treatment at 40% to 50% of the established dose.
-If two days dosing has been missed, resume dosage at approximately 25% of the established dosage.
-For longer interruptions, re-initiate with a dosage of 12.5 mg once daily or twice daily.
-If these dosages are well tolerated, the dosage may be increased to the previous dosage more quickly than recommended for initial treatment.
+| Recommended Dosage Modification | Recommended Frequency of ANC Teting During VERSACLOZ Treatment |
+| --- | --- |
+| ANC Within Normal Range (≥1500/µL) |  |
+| No dosage modification: continue treatment | Day 1 to Month 6: WeeklyMonth 7 to Month 12: Every 2 weeksMonth 13 and thereafter: Every month |
+| If VERSACLOZ treatment is reinitiated after a dosage interruption (e.g., patient had neutropenia which required dosage interruption and now has a normal ANC level) for: < 30 days, continue the previous ANC testing frequency≥ 30 days, obtain ANC tests according to the frequency for patients who initiate treatment |  |
+| Mild Neutropenia (ANC between 1000 to 1499/µL) 1 |  |
+| No dosage modification: continue treatment | Three times weeklyOnce ANC ≥ 1500/µL, recommend returning to the patient’s last Normal RangeANC testing frequency |
+| Moderate Neutropenia (ANC between 500 to 999/µL) 1 |  |
+| Interrupt treatment and recommend hematology consultationResume treatment once ANC ≥1000/µLDailyOnce ANC ≥ 1000/µL, three times weeklyOnce ANC ≥ 1500/µL, test weekly for 4 weeks. If ANC ≥ 1500/µL after monitoring weekly for 4 weeks, return to the patient’s last Normal RangeANC testing frequency |  |
+| Severe Neutropenia (ANC less than 500/µL) 1 |  |
+| Discontinue treatment and recommend hematology consultation | DailyOnce ANC ≥ 1000/µL, three times weeklyOnce ANC ≥ 1500/µL, if the benefits outweigh the risks of restarting treatment, resume treatment and obtain ANC tests according to the frequency for patients who initiate treatment |
 
-## 2.7 Dosage Adjustments with Concomitant use of CYP1A2, CYP2D6, CYP3A4 Inhibitors or CYP1A2, CYP3A4 Inducers
+1Confirm all initial reports of ANC less than 1500/μL with a repeat ANC measurement within 24 hours
 
-Dose adjustments may be necessary in patients with concomitant use of: strong CYP1A2 inhibitors (e.g., fluvoxamine, ciprofloxacin, or enoxacin); moderate or weak CYP1A2 inhibitors (e.g., oral contraceptives, or caffeine); CYP2D6 or CYP3A4 inhibitors (e.g., cimetidine, escitalopram, erythromycin, paroxetine, bupropion, fluoxetine, quinidine, duloxetine, terbinafine, or sertraline); CYP3A4 inducers (e.g., phenytoin, carbamazepine, St. John’s wort, and rifampin); or CYP1A2 inducers (e.g., tobacco smoking) (Table 1) [see Drug Interactions (7)].
+## 2.5 Dosage Modifications Based on ANC Results for Patients with Benign Ethnic Neutropenia
 
-Table 1: Dose Adjustment in Patients Taking Concomitant Medications
+Table 2 provides recommended VERSACLOZ dosage modifications based on ANC results for patients with Benign Ethnic Neutropenia (BEN) (also known as Duffy-null associated neutrophil count).
+[see Warnings and Precautions (5.1)].
+For dosage modifications based on ANC results for patients without BEN, see Table 1 [see Dosage and Administration (2.4)].
 
-| Co-medications | Scenarios |  |  |
-| --- | --- | --- | --- |
-|  | Initiating VERSACLOZ while taking a co-medication | Adding a co-medication while taking VERSACLOZ | Discontinuing a co-medication while continuing VERSACLOZ |
-| Strong CYP1A2 Inhibitors | Use one third of the VERSACLOZ dose. |  | Increase VERSACLOZ dose based on clinical response. |
-| Moderate or Weak CYP1A2 Inhibitors | Monitor for adverse reactions. Consider reducing the VERSACLOZ dose if necessary. |  | Monitor for lack of effectiveness. Consider increasing VERSACLOZ dose if necessary. |
-| CYP2D6 or CYP3A4 Inhibitors |  |  |  |
-| Strong CYP3A4 Inducers | Concomitant use is not recommended. However, if the inducer is necessary, it may be necessary to increase the VERSACLOZ dose. Monitor for decreased effectiveness. |  | Reduce VERSACLOZ dose based on clinical response. |
-| Moderate or weak CYP1A2 or CYP3A4 Inducers | Monitor for decreased effectiveness. Consider increasing the VERSACLOZ dose if necessary. |  | Monitor for adverse reactions. Consider reducing the VERSACLOZ dose if necessary. |
+Table 2: Dosage Modifications Based on ANC Results and Frequency of ANC Testing in Patients with Benign Ethnic Neutropenia 1
 
-## 2.8 Renal or Hepatic Impairment, or CYP2D6 Poor Metabolizers
+| Recommended Dosage Modification | Recommended Frequency of ANC Teting During VERSACLOZ Treatment in Patients with BEN 1 |
+| --- | --- |
+| ANC Within the Normal Range for Patients with BEN (≥ 1000/µL) |  |
+| No dosage modification: continue treatment | Day 1 to Month 6: WeeklyMonth 7 to Month 12: Every 2 weeksMonth 13 and thereafter: Monthly |
+| If VERSACLOZ treatment is reinitiated after a dosage interruption (e.g., patient had neutropenia which required dosage interruption and now their ANC (≥ 1000/µL and ≥ the patient’s ANC baseline prior to treatment) for: < 30 days, continue the previous ANC testing frequency≥ 30 days, obtain ANC tests according to the frequency for patients with BEN who initiate treatment |  |
+| Neutropenia in Patients with BEN (ANC level between 500 to 999/μL) 2 |  |
+| Recommend hematology consultationNo dosage modification: continue treatmentThree times weeklyOnce ANC ≥ 1000/μL and ≥ the patient’s ANC baseline, obtain ANC tests weekly for 4 weeksIf ANC ≥1000/μL and ≥ the patient’s baseline after monitoring for 4 weeks, return to the patient’s last Normal ANC Rangetesting frequency for patients with BEN. |  |
+| Severe Neutropenia in Patients with BEN (ANC level less than 500/μL) 2 |  |
+| Discontinue treatment and recommend hematology consultation | DailyOnce ANC ≥ 500/µL, obtain ANC three times weeklyOnce ANC ≥ 1000/µL and ≥ the patient’s baseline, if the benefits outweigh the risks of restarting treatment, resume treatment and obtain ANC tests according to the frequency for patients with BEN who initiate treatment |
 
-It may be necessary to reduce the VERSACLOZ dose in patients with significant renal or hepatic impairment, or in CYP2D6 poor metabolizers [see Use in Specific Populations (8.6, 8.7)].
+1Benign Ethnic Neutropenia (BEN) is also known as Duffy-null associated neutrophil count.
+
+2Confirm all initial reports of ANC less than 1500/μL with a repeat ANC measurement within 24 hours
+
+## 2.6 Discontinuation of VERSACLOZ Treatment
+
+If discontinuing VERSACLOZ in patients with:
+
+- Moderate or severe neutropenia, see Table 1 [see Dosage and Administration (2.4)].
+- Normal or mild neutropenia, reduce the dosage gradually over a period of 1 to 2 weeks, and continue monitoring ANC levels until their ANC is ≥1500/μL.
+
+If discontinuing VERSACLOZ in patients with Benign Ethnic Neutropenia (BEN) (also known as Duffy-null associated neutrophil count) with:
+
+- Neutropenia, see Table 2 [see Dosage and Administration (2.5)].
+- ANC within their normal range of ANC reduce the dosage gradually over a period of 1 to 2 weeks.
+
+When discontinuing VERSACLOZ, monitor patients for the symptoms related to psychotic recurrence and cholinergic rebound (e.g., profuse sweating, headache, nausea, vomiting, diarrhea).
+
+## 2.7 Restarting VERSACLOZ Treatment After Interrupting VERSACLOZ
+
+When restarting VERSACLOZ in patients who have interrupted VERSACLOZ treatment, use a lower dosage to minimize the risk of hypotension, bradycardia, and syncope [see Warnings and Precautions (5.2)].
+
+- If one day’s dosage is missed, resume VERSACLOZ treatment at 40% to 50% of the previous dosage.
+- If two days of dosing is missed, resume VERSACLOZ treatment at approximately 25% of the previous dosage.
+- For longer interruptions, restart VERSACLOZ treatment with a dosage of 12.5 mg once or twice daily.
+  If this dosage is well-tolerated, may increase the dosage to the previous dosage more quickly than recommended than for initial VERSACLOZ treatment.
+
+## 2.8 Dosage Modifications for Drug Interactions
+
+See Table 3 for recommended dosage modifications to reduce the risk of VERSACLOZ associated adverse reactions or reduce the risk of lower effectiveness [see Drug Interactions (7)].
+
+Table 3: VERSACLOZ Dosage Modifications for Drug Interactions
+
+| Strong CYP1A2 Inhibitors | Administer one third of the VERSACLOZ dosage. |
+| --- | --- |
+| Moderate or Weak CYP1A2 Inhibitors | Consider reducing the VERSACLOZ dosage if necessary. |
+| CYP2D6 or CYP3A4 Inhibitors |  |
+| Strong CYP3A4 Inducers | Concomitant use is not recommended. However, if concomitant use is necessary, it may be necessary to increase the VERSACLOZ dosage. Monitor for decreased effectiveness. |
+| Moderate or weak CYP1A2 or CYP3A4 Inducers | Consider increasing the VERSACLOZ dosage if necessary. |
+
+## 2.9 Dosage Recommendations in Patients with Renal or Hepatic Impairment, or CYP2D6 Poor Metabolizers
+
+It may be necessary to reduce the VERSACLOZ dosage in patients with significant renal impairment or hepatic impairment, or in CYP2D6 poor metabolizers [see Use in Specific Populations (8.6, 8.7)].
