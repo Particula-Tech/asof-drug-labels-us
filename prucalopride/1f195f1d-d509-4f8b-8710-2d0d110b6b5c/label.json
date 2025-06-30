@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA218177"
+  ],
+  "inn": "prucalopride",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-218-30",
+    "72205-219-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "prucalopride",
+      "name": "PRUCALOPRIDE"
+    }
+  ],
+  "setid": "1f195f1d-d509-4f8b-8710-2d0d110b6b5c",
+  "source": "dailymed"
+}
