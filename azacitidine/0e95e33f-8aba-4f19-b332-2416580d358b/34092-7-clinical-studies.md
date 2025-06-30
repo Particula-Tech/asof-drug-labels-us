@@ -66,13 +66,13 @@ The efficacy results are summarized in Table 5 and Figure 1.
 
 Table 5: Efficacy Results (ITT Population) in QUAZAR
 
-|  | ONUREG (N=238) | Placebo (N=234) |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Overall Survival |  |  |  |  |  |
-| OS Events, n (%) | 158 (66) | 171 (73) |  |  |  |
-| Median OS (95% CI) Months | 24.7 (18.7, 30.5) | 14.8 (11.7, 17.6) |  |  |  |
-| Hazard Ratio (95% CI)1 | 0.69 (0.55, 0.86) |  |  |  |  |
-| p value1 | 0.0009 |  |  |  |  |
-| 1 The hazard ratio is from a Cox proportional hazards model stratified by age (55 to 64 vs. ≥65 years), cytogenetic risk category at time of induction therapy (intermediate risk vs. poor risk), and received consolidation therapy (yes vs. no). The p-value is two-sided from a log-rank test stratified by the same factors. |  |  |  |  |  |
+|  | ONUREG (N=238) | Placebo (N=234) |
+| --- | --- | --- |
+| Overall Survival |  |  |
+| OS Events, n (%) | 158 (66) | 171 (73) |
+| Median OS (95% CI) Months | 24.7 (18.7, 30.5) | 14.8 (11.7, 17.6) |
+| Hazard Ratio (95% CI)1 | 0.69 (0.55, 0.86) |  |
+| p value1 | 0.0009 |  |
+| 1 The hazard ratio is from a Cox proportional hazards model stratified by age (55 to 64 vs. ≥65 years), cytogenetic risk category at time of induction therapy (intermediate risk vs. poor risk), and received consolidation therapy (yes vs. no). The p-value is two-sided from a log-rank test stratified by the same factors. |  |  |
 
 Figure 1: Kaplan-Meier Curve for Overall Survival (ITT Population) in QUAZAR
