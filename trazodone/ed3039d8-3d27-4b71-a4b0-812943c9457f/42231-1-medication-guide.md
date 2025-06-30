@@ -196,6 +196,6 @@ Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200,
 Manufactured By: Intas Pharmaceuticals Limited, Plot No.: 5 to 14, Pharmez, Nr.
 Village Matoda, Bavla Road, Ta.- Sanand, Dist.- Ahmedabad – 382 213, India.
 
-51 2487 2 733836
+51 2487 3 737629
 
-Issued February 2024
+Issued March 2025
