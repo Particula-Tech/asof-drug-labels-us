@@ -44,4 +44,4 @@ Distributed by: Fera Pharmaceuticals, LLC.
 Locust Valley, N.Y.
 11560
 
-PPI-005 Revised 10/18
+PPI-005
