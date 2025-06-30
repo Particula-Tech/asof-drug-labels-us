@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA203835"
+  ],
+  "inn": "losartan",
+  "labeler": "NorthStar RxLLC",
+  "package_ndcs": [
+    "72603-340-01",
+    "72603-340-02",
+    "72603-341-01",
+    "72603-341-02",
+    "72603-342-01",
+    "72603-342-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "losartan potassium",
+      "name": "Losartan Potassium"
+    }
+  ],
+  "setid": "394398e1-119e-4943-b414-27261f5d4842",
+  "source": "dailymed"
+}
