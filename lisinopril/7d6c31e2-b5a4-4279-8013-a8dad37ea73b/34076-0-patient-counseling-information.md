@@ -37,14 +37,16 @@ Leukopenia/Neutropenia
 
 Tell patients to report promptly any indication of infection (e.g., sore throat, fever), which may be a sign of leukopenia/neutropenia.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States.
 
 MADE IN INDIA
 
-Revised: May 2021 ID#: 267211
+Revised: June 2024 ID#: 276103
