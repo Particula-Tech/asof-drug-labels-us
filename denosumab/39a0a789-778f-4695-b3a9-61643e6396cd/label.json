@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761398"
+  ],
+  "inn": "denosumab",
+  "labeler": "Fresenius Kabi USA, LLC",
+  "package_ndcs": [
+    "65219-668-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "denosumab",
+      "name": "CONEXXENCE"
+    }
+  ],
+  "setid": "39a0a789-778f-4695-b3a9-61643e6396cd",
+  "source": "dailymed"
+}
