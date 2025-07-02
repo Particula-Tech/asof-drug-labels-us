@@ -10,8 +10,8 @@
 | How should I store ivermectin cream? Store ivermectin cream at room temperature between 68°F to 77°F (20°C to 25°C). Keep ivermectin cream and all medicines out of the reach of children. |
 | General information about the safe and effective use of ivermectin cream.Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use ivermectin cream for a condition for which it was not prescribed. Do not give ivermectin cream to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about ivermectin cream that is written for health professionals. |
 | What are the ingredients in ivermectin cream?Active ingredient: ivermectinInactive ingredients: benzyl alcohol, citric acid anhydrous, carbomer homopolymer type c, di-isopropyl adipate, edetate disodium, hexylene glycol, methylparaben, oleyl alcohol, polysorbate 80, propylparaben, purified water, sodium citrate, sodium hydroxide, and sorbitan tristearate |
-| Manufactured By: Teva Pharmaceuticals USA, Inc., Parsippany, NJ 07054 For more information, call Teva at 1-888-838-2872. |
+| Manufactured By: Teva Pharmaceuticals, Parsippany, NJ 07054 For more information, call Teva at 1-888-838-2872. |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 Rev.
-A 11/2022
+B 5/2025

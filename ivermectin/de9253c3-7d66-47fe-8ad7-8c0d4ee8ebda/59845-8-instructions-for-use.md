@@ -39,7 +39,7 @@ Keep ivermectin cream and all medicines out of the reach of children.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured By: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Manufactured By: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 11/2022
+C 5/2025

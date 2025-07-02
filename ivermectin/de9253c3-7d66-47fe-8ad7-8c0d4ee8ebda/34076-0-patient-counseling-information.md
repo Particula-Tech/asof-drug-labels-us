@@ -6,7 +6,7 @@ Patients using ivermectin cream should receive the following instruction:
 
 Keep out of reach of children.
 
-Manufactured By: Teva Pharmaceuticals USA, Inc. Parsippany, NJ 07054
+Manufactured By: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 11/2022
+C 5/2025
