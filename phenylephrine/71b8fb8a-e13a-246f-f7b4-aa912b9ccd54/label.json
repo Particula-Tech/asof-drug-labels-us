@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA216830"
+  ],
+  "inn": "phenylephrine",
+  "labeler": "Dr. Reddy's Laboratories Inc.",
+  "package_ndcs": [
+    "43598-182-05",
+    "43598-182-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "phenylephrine hydrochloride injection, solution",
+      "name": "phenylephrine hydrochloride injection, solution"
+    }
+  ],
+  "setid": "71b8fb8a-e13a-246f-f7b4-aa912b9ccd54",
+  "source": "dailymed"
+}
