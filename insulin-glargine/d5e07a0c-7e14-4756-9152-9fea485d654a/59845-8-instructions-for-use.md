@@ -132,9 +132,9 @@ After LANTUS vials have been opened (in-use)
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752 ©2022 sanofi-aventis U.S. LLC.
+Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960 A SANOFI COMPANY U.S. License No. 1752 ©2025 sanofi-aventis U.S. LLC.
 
-Revised: June 2023
+Revised: May 2025
 
 INSTRUCTIONS FOR USE LANTUS® SOLOSTAR® (LAN-tus) (insulin glargine) injection, for subcutaneous use 3 mL Single-Patient-Use PREFILLED PEN: 100 units/mL (U-100)
 
@@ -393,8 +393,8 @@ Throwing your pen away
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY U.S. License No. 1752 ©2023 sanofi-aventis U.S. LLC.
+Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960 A SANOFI COMPANY U.S. License No. 1752 ©2025 sanofi-aventis U.S. LLC.
 
 *Other brands listed are the registered trademarks of their respective owners and are not trademarks of sanofi-aventis U.S. LLC.
 
-Revised: June 2023
+Revised: May 2025

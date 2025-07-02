@@ -273,7 +273,7 @@ Table 15: Cancer Outcomes in ORIGIN – Time to First Event Analyses
 
 | n (Events per 100 PY) | n (Events per 100 PY) | Hazard Ratio (95% CI) |  |
 | --- | --- | --- | --- |
-|  | LANTUS N=6,264 | Standard Care N=6.273 | LANTUS vs Standard Care |
+|  | LANTUS N=6,264 | Standard Care N=6,273 | LANTUS vs Standard Care |
 | Cancer endpoints |  |  |  |
 | Any cancer event (new or recurrent) | 559 (1.56) | 561 (1.56) | 0.99 (0.88, 1.11) |
 | New cancer events | 524 (1.46) | 535 (1.49) | 0.96 (0.85, 1.09) |

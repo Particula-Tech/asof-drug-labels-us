@@ -2,7 +2,7 @@
 
 ## 2.1 Important Administration Instructions
 
-- Always check insulin labels before administration [see Warnings and Precautions (5.4)]
+- Always check insulin labels before administration [see Warnings and Precautions (5.4)].
 - Visually inspect LANTUS vials and SoloStar prefilled pens for particulate matter and discoloration prior to administration.
   Only use if the solution is clear and colorless with no visible particles.
 - Administer LANTUS subcutaneously into the abdominal area, thigh, or deltoid, and rotate injection sites within the same region from one injection to the next to reduce the risk of lipodystrophy and localized cutaneous amyloidosis.
@@ -11,8 +11,7 @@
 - Do not administer intravenously or via an insulin pump.
 - Do not dilute or mix LANTUS with any other insulin or solution.
 - The LANTUS SoloStar prefilled pen dials in 1-unit increments.
-
-Use LANTUS SoloStar prefilled pen with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
+- Use LANTUS SoloStar prefilled pen with caution in patients with visual impairment who may rely on audible clicks to dial their dose.
 
 ## 2.2 General Dosing Instructions
 
