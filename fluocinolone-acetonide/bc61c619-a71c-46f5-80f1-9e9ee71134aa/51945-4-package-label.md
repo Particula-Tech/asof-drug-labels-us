@@ -2,7 +2,7 @@
 
 ​PRINCIPAL DISPLAY PANEL - 118.28 mL Carton Label
 
-NDC 58791-101-04
+NDC 68791-101-04
 
 Rx only
 
