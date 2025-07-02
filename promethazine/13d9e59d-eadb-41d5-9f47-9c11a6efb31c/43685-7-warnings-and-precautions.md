@@ -7,7 +7,6 @@
 Promethazine hydrochloride injection should not be used in pediatric patients less than 2 years of age because of the potential for fatal respiratory depression.
 Postmarketing cases of respiratory depression, including fatalities, have been reported with use of promethazine in pediatric patients less than 2 years of age.
 A wide range of weight-based doses of promethazine hydrochloride injection have resulted in respiratory depression in these patients.
-
 Caution should be exercised when administering promethazine hydrochloride injection to pediatric patients 2 years of age and older.
 It is recommended that the lowest effective dose of promethazine hydrochloride injection be used in pediatric patients 2 years of age and older.
 Avoid concomitant administration of other drugs with respiratory depressant effects because of an association with respiratory depression, and sometimes death, in pediatric patients.
@@ -19,21 +18,21 @@ COPD, sleep apnea) should be avoided.
 
 ## Severe Tissue Injury, Including Gangrene
 
-Promethazine hydrochloride injection can cause severe chemical irritation and damage to tissues regardless of the route of administration.
-Irritation and damage can result from perivascular extravasation, unintentional intra-arterial injection, and intraneuronal or perineuronal infiltration.
-Adverse event reports include burning, pain, erythema, swelling, sensory loss, palsies, paralysis, severe spasm of distal vessels, thrombophlebitis, venous thrombosis, phlebitis, abscesses, tissue necrosis, and gangrene.
-In some cases, surgical intervention, including fasciotomy, skin graft, and/or amputation have been required.
+- Promethazine hydrochloride injection has been reported to cause severe chemical irritation and damage to tissues, including gangrene, regardless of the route of parenteral administration.
+  Intra-arterial and subcutaneous administration have resulted in more significant complications.
+  The use of promethazine hydrochloride injection by intravenous injection at concentrations greater than 1 mg/mL, intra- arterial injection, or subcutaneous injection is contraindicated (see CONTRAINDICATIONS).
 
-Because of the risks of intravenous injection, the preferred route of administration of promethazine hydrochloride injection is deep intramuscular injection (see DOSAGE AND ADMINISTRATION).
-Subcutaneous injection is contraindicated.
-Due to the close proximity of arteries and veins in the areas most commonly used for intravenous injection, extreme care should be exercised to avoid perivascular extravasation or unintentional intra-arterial injection as pain, severe chemical irritation, severe spasm of distal vessels, and resultant gangrene requiring amputation are likely under such circumstances.
-Aspiration of dark blood does not preclude intra-arterial needle placement because blood is discolored upon contact with promethazine hydrochloride injection.
-Use of syringes with rigid plungers or of small-bore needles might obscure typical arterial backflow if this is relied upon alone.
+- Irritation and damage can result from perivascular extravasation, intra- arterial injection, and intraneuronal or perineuronal infiltration.
+  Inadvertent intra-arterial injection can cause severe arteriospasm.
+  Other reported adverse reactions included burning, pain, erythema, swelling, sensory loss, palsies, paralysis, severe spasm of distal vessels, thrombophlebitis, venous thrombosis, phlebitis, abscesses, tissue necrosis, and gangrene.
+  In some cases, surgical intervention, including fasciotomy, skin graft, and/or amputation have been required.
 
-In the event that a patient complains of pain during intravenous injection of promethazine hydrochloride injection, the injection should be stopped immediately to evaluate for possible arterial injection or perivascular extravasation.
+- The preferred route of administration of promethazine hydrochloride injection is by deep intramuscular administration.
 
-There is no proven successful management of unintentional intra-arterial injection or perivascular extravasation after it occurs.
-Sympathetic block and heparinization have been employed during the acute management of unintentional intra-arterial injection, because of the results of animal experiments with other known arteriolar irritants.
+- Promethazine hydrochloride injection may be administered intravenously after dilution through an intravenous catheter inserted in a large vein.
+  Preferably through a central venous catheter (see DOSAGE AND ADMINISTRATION).
+
+- If pain occurs at the injection site during intravenous infusion, immediately discontinue the infusion, evaluate for possible arterial injection or perivascular extravasation, and initiate appropriate medical management.
 
 ## CNS Depression
 
@@ -53,6 +52,7 @@ Leukopenia and agranulocytosis have been reported, usually when promethazine hyd
 ## Neuroleptic Malignant Syndrome
 
 A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with promethazine hydrochloride alone or in combination with antipsychotic drugs.
+
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmias).
 
 The diagnostic evaluation of patients with this syndrome is complicated.
@@ -94,7 +94,9 @@ Patients should be advised of the risk of severe tissue injury, including gangre
 Patients should be advised to immediately report persistent or worsening pain or burning at the injection site.
 
 Promethazine hydrochloride injection may cause marked drowsiness or impair the mental or physical abilities required for the performance of potentially hazardous tasks, such as driving a vehicle or operating machinery.
+
 Pediatric patients should be supervised to avoid potential harm in bike riding or in other hazardous activities.
+
 The concomitant use of alcohol, sedative/hypnotics (including barbiturates), general anesthetics, narcotics, narcotic analgesics, tricyclic antidepressants, and tranquilizers may enhance impairment (see WARNINGS - CNS Depression and PRECAUTIONS - Drug Interactions).
 
 Patients should be advised to report any involuntary muscle movements (see ADVERSE REACTIONS - Paradoxical Reactions).
@@ -105,7 +107,7 @@ Patients should be advised to avoid prolonged exposure to the sun (see ADVERSE R
 
 ### CNS Depressants
 
-Promethazine hydrochloride injection may increase, prolong, or intensify the sedative action of central-nervous-system depressants, such as alcohol, sedative/hypnotics (including barbiturates), general anesthetics, narcotics, narcotic analgesics, tricyclic antidepressants, and tranquilizers; therefore, such agents should be avoided or administered in reduced dosage to patients receiving promethazine hydrochloride.
+Promethazine hydrochloride injection may increase, prolong, or intensify the sedative action of central-nervous system depressants, such as alcohol, sedative/hypnotics (including barbiturates), general anesthetics, narcotics, narcotic analgesics, tricyclic antidepressants, and tranquilizers; therefore, such agents should be avoided or administered in reduced dosage to patients receiving promethazine hydrochloride.
 When given concomitantly with promethazine hydrochloride injection, the dose of barbiturates should be reduced by at least one-half, and the dose of narcotics should be reduced by one-quarter to one-half.
 Dosage must be individualized.
 Excessive amounts of promethazine hydrochloride injection relative to a narcotic may lead to restlessness and motor hyperactivity in the patient with pain; these symptoms usually disappear with adequate control of the pain.
@@ -129,7 +131,7 @@ The following laboratory tests may be affected in patients who are receiving the
 
 ### Pregnancy Tests
 
-Diagnostic pregnancy tests based on immunological reactions between HCG and anti-HCG may result in false-negative or false-positive interpretations.
+Diagnostic pregnancy tests based on immunological reactions between HCG and anti-HCG may result in false negative or false-positive interpretations.
 
 ### Glucose Tolerance Test
 
@@ -148,6 +150,7 @@ Teratogenic effects have not been demonstrated in rat-feeding studies at doses o
 Daily doses of 25 mg/kg intraperitoneally have been found to produce fetal mortality in rats.
 
 There are no adequate and well-controlled studies of promethazine hydrochloride injection in pregnant women.
+
 Because animal reproduction studies are not always predictive of human response, promethazine hydrochloride injection should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Adequate studies to determine the action of the drug on parturition, lactation and development of the animal neonate have not been conducted.
@@ -174,8 +177,8 @@ Promethazine hydrochloride injection is contraindicated for use in pediatric pat
 Promethazine hydrochloride injection should be used with caution in pediatric patients 2 years of age and older (see WARNINGS - Respiratory Depression).
 
 Antiemetics are not recommended for treatment of uncomplicated vomiting in pediatric patients, and their use should be limited to prolonged vomiting of known etiology.
-The extrapyramidal symptoms which can occur secondary to promethazine hydrochloride injection administration may be confused with the CNS signs of undiagnosed primary disease, e.g. encephalopathy or Reye's syndrome.
-The use of promethazine hydrochloride injection should be avoided in pediatric patients whose signs and symptoms may suggest Reye's syndrome or other hepatic diseases.
+The extrapyramidal symptoms which can occur secondary to promethazine hydrochloride injection administration may be confused with the CNS signs of undiagnosed primary disease, e.g. encephalopathy or Reye’s syndrome.
+The use of promethazine hydrochloride injection should be avoided in pediatric patients whose signs and symptoms may suggest Reye’s syndrome or other hepatic diseases.
 
 Excessively large dosages of antihistamines, including promethazine hydrochloride injection, in pediatric patients may cause sudden death (see OVERDOSAGE).
 Hallucinations and convulsions have occurred with therapeutic doses and overdoses of promethazine hydrochloride injection in pediatric patients.

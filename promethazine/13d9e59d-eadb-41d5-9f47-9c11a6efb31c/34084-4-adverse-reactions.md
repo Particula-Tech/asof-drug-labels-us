@@ -7,10 +7,9 @@ Promethazine hydrochloride injection should be used with caution in pediatric pa
 
 ## Severe Tissue Injury, Including Gangrene
 
-Promethazine hydrochloride injection can cause severe chemical irritation and damage to tissues regardless of the route of administration.
-Irritation and damage can result from perivascular extravasation, unintentional intra-arterial injection and intraneuronal or perineuronal infiltration.
-Adverse reactions include burning, pain, erythema, swelling, sensory loss, palsies, paralysis, severe spasm of distal vessels, thrombophlebitis, venous thrombosis, phlebitis, abscesses, tissue necrosis, and gangrene.
-In some cases, surgical intervention, including fasciotomy, skin graft, and/or amputation have been required (see WARNINGS - Severe Tissue Injury, Including Gangrene; and DOSAGE AND ADMINISTRATION).
+Promethazine hydrochloride injection has been reported to cause severe chemical irritation and damage to tissues, including gangrene, regardless of the route of parenteral administration.
+Intra-arterial and subcutaneous injection have resulted in more significant complications (see CONTRAINDICATIONS).
+Reported adverse reactions included burning, pain, erythema, swelling, sensory loss, palsies, paralysis, severe spasm of distal vessels, thrombophlebitis, venous thrombosis, phlebitis, abscesses, tissue necrosis, and gangrene (see WARNINGS - Severe Tissue Injury, Including Gangrene).
 
 ## Central Nervous System
 

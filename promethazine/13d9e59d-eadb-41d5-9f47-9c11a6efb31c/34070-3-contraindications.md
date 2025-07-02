@@ -1,22 +1,15 @@
 # CONTRAINDICATIONS
 
-## Children Less Than 2 Years of Age
+The use of promethazine hydrochloride injection is contraindicated:
 
-Promethazine hydrochloride injection is contraindicated for use in pediatric patients less than two years of age due to the risk of respiratory depression (see WARNINGS - Respiratory Depression).
+• In pediatric patients less than 2 years of age due to the risk of respiratory depression (see WARNINGS – Respiratory Depression).
 
-## Comatose State
+• For use as an intravenous injection at concentrations greater than 1 mg/mL due to the risk of perivascular extravasation, unintentional intra-arterial injection, and intraneuronal or perineuronal infiltration (see WARNINGS - Severe Tissue Injury, Including Gangrene and DOSAGE AND ADMINISTRATION).
 
-Promethazine hydrochloride injection is contraindicated in comatose states.
+• For use as an intra-arterial injection due to the likelihood of severe arteriospasm and the possibility of resultant gangrene (see WARNINGS - Severe Tissue Injury, Including Gangrene).
 
-## Intra-Arterial Injection
+• For use as a subcutaneous injection because chemical irritation and necrotic lesions have been reported (see WARNINGS - Severe Tissue Injury, Including Gangrene).
 
-Under no circumstances should promethazine hydrochloride injection be given by intra-arterial injection due to the likelihood of severe arteriospasm and the possibility of resultant gangrene (see WARNINGS - Severe Tissue Injury, Including Gangrene).
+• In patients in a comatose state.
 
-## Subcutaneous Injection
-
-Promethazine hydrochloride injection should not be given by the subcutaneous route because evidence of chemical irritation has been noted, and necrotic lesions have resulted following subcutaneous injection.
-The preferred parenteral route of administration is by deep intramuscular injection.
-
-## Idiosyncratic Reaction or Hypersensitivity
-
-Promethazine hydrochloride injection is contraindicated in patients who have demonstrated an idiosyncratic reaction or hypersensitivity to promethazine or other phenothiazines.
+• In patients who have demonstrated an idiosyncratic reaction or hypersensitivity to promethazine hydrochloride or other phenothiazines.

@@ -1,23 +1,11 @@
 # DOSAGE AND ADMINISTRATION
 
-## Important Notes on Administration
+## Important Administration Information for Adult and Pediatric Patients 2 Years of Age and Older
 
-Promethazine hydrochloride injection can cause severe chemical irritation and damage to tissues regardless of the route of administration.
-Irritation and damage can result from perivascular extravasation, unintentional intra-arterial injection, and intraneuronal or perineuronal infiltration (see WARNINGS - Severe Tissue Injury, Including Gangrene).
+- The preferred route of administration of promethazine hydrochloride injection is by deep intramuscular administration (see WARNINGS - Severe Tissue Injury, Including Gangrene).
 
-- The preferred parenteral route of administration for promethazine hydrochloride injection is by deep intramuscular injection.
-- Under no circumstances should promethazine hydrochloride injection be given by intra-arterial injection due to the likelihood of severe arteriospasm and the possibility of resultant gangrene (see WARNINGS - Severe Tissue Injury, Including Gangrene).
-- Subcutaneous injection is contraindicated as it may result in tissue necrosis.
-- When administered intravenously, promethazine hydrochloride injection should be given in a concentration no greater than 25 mg per mL and at a rate not to exceed 25 mg per minute.
-  It is preferable to inject through the tubing of an intravenous infusion set that is known to be functioning satisfactorily.
-- In the event that a patient complains of pain during intravenous injection of promethazine hydrochloride injection, the injection should be stopped immediately to evaluate for possible arterial injection or perivascular extravasation.
-
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-
-Do not use promethazine hydrochloride injection if solution has developed color or contains precipitate.
-
-To avoid the possibility of physical and/or chemical incompatibility, consult specialized literature before diluting with any injectable solution or combining with any other medication.
-Do not use if there is a precipitate or any sign of incompatibility.
+- Promethazine hydrochloride injection may be administered intravenously after dilution as recommended below (see Preparation and Administration).
+  If pain occurs at the injection site during intravenous infusion, immediately discontinue the infusion, and evaluate for possible arterial injection or perivascular extravasation.
 
 ## Allergic Conditions
 
@@ -60,3 +48,74 @@ It is recommended that the lowest effective dose of promethazine hydrochloride b
 In pediatric patients 2 years of age and older, the dosage should not exceed half that of the suggested adult dose.
 As an adjunct to premedication, the suggested dose is 1.1 mg per kg of body weight in combination with an appropriately reduced dose of narcotic or barbiturate and the appropriate dose of an atropine-like drug (see PRECAUTIONS - Drug Interactions).
 Antiemetics should not be used in vomiting of unknown etiology in pediatric patients.
+
+## Preparation and Administration Instructions for Diluted Intravenous Infusion in Adults
+
+Inspect the solution for particulate matter and discoloration, before dilution, after dilution, and before administration.
+Discard the vial, ampule, or bag if particulates and/or discoloration are observed.
+
+1. Determine the recommended dose of promethazine hydrochloride injection.
+2. Aseptically withdraw the required volume from the vial or ampule and transfer it into an infusion bag.
+   - Use a filter needle when withdrawing promethazine hydrochloride injection from the ampule.
+3. Dilute with the recommended volume of 0.9% Sodium Chloride Injection, see Table 1.
+   Avoid mixing and/or diluting with any other drugs or solutions other than 0.9% Sodium Chloride Injection.
+4. Gently invert the infusion bag.
+5. Check patency of the access site before administration.
+6. Administer the diluted solution through an intravenous catheter, inserted in a large vein (preferably through a central venous catheter), over 20 to 40 minutes; for maximum infusion rates, see Table 1.
+   - Do NOT administer via an intravenous catheter in the hand or wrist.
+7. If pain occurs at the injection site during intravenous infusion, immediately discontinue the infusion and evaluate for possible arterial injection or perivascular extravasation.
+
+Table 1.
+Preparation and Infusion Information by Adult Dose of Promethazine Hydrochloride Injection
+
+| Dose of Promethazine Hydrochloride Injection | Volume of 0.9% Sodium Chloride Injection for Dilution | Maximum Concentration of the Diluted Promethazine Hydrochloride Injection Solution | Maximum Rate of Infusion |
+| --- | --- | --- | --- |
+| 12.5 mg | 50 mL | 1 mg/mL | 2.5 mL/minute |
+| 25 mg | 50 mL | 2.5 mL/minute |  |
+| 50 mg | 50 mL | 2.5 mL/minute |  |
+| 75 mg | 100 mL | 5 mL/minute |  |
+
+## Preparation and Administration Instructions for Diluted Intravenous Infusion to Pediatric Patients 2 Years of Age and Older.
+
+Inspect the solution for particulate matter and discoloration, before dilution, after dilution, and before administration.
+Discard the vial, ampule, syringe or bag if particulates and/or discoloration are observed.
+
+1.
+Determine the recommended dose of promethazine hydrochloride injection for pediatric patients 2 years of age and older.
+
+2.
+Aseptically withdraw the required volume from the vial or ampule and transfer it into an appropriately sized syringe or bag for use with an infusion pump.
+
+- Use a filter needle when withdrawing promethazine hydrochloride injection from the ampule.
+
+3.
+Dilute with the recommended volume of 0.9% Sodium Chloride Injection, see Table 2.
+Avoid mixing and/or diluting with any other drugs or solutions other than 0.9% Sodium Chloride Injection.
+
+4.
+Gently invert the syringe or bag.
+
+5.
+Check patency of the access site before administration.
+
+6.
+Administer the diluted solution through an intravenous catheter, inserted in a large vein (preferably through a central venous catheter) with a maximum infusion rate of 1.25 mL/minute.
+
+- Do NOT administer via an intravenous catheter in the hand or wrist.
+
+7.
+If pain occurs at the injection site during intravenous infusion, immediately discontinue the infusion and evaluate for possible arterial injection or perivascular extravasation.
+
+Table 2.
+Preparation and Infusion Information by Pediatric Dose of Promethazine Hydrochloride Injection
+
+| Dose of Promethazine Hydrochloride Injection | Volume of 0.9% Sodium Chloride Injection for Dilution | Maximum Concentration of the Diluted Promethazine Hydrochloride Injection Solution | Maximum Rate of Infusion |
+| --- | --- | --- | --- |
+| Up to 25 mg | 25 mL | 1 mg/mL | 1.25 mL/minute |
+| 25 mg to 50 mg | 50 mL |  |  |
+
+*Avoid mixing and/or diluting with any other drugs or solutions besides 0.9% Sodium Chloride Injection
+
+## Storage of Diluted Promethazine Hydrochloride Injection
+
+Diluted solution may be stored up to 4 hours at room temperature, 20°C to 25°C (68°F to 77°F), or refrigerated at 2°C to 8°C (36° to 46°F), up to 24 hours.

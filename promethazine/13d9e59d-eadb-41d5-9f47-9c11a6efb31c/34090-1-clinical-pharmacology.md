@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Promethazine hydrochloride is a phenothiazine derivative which possesses antihistaminic, sedative, antimotion-sickness, antiemetic, and anticholinergic effects.
+Promethazine hydrochloride is a phenothiazine derivative which possesses antihistaminic, sedative, antimotionsickness, antiemetic, and anticholinergic effects.
 Promethazine is a competitive H1 receptor antagonist, but does not block the release of histamine.
 Structural differences from the neuroleptic phenothiazines result in its relative lack (1/10 that of chlorpromazine) of dopamine antagonist properties.
 Clinical effects are generally apparent within 5 minutes of an intravenous injection and within 20 minutes of an intramuscular injection.

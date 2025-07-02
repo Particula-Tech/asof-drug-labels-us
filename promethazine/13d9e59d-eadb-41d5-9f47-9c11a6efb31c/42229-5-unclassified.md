@@ -9,8 +9,8 @@ Estrada do Rio da Mό, 8, 8A e 8B – Fervença –2705-906 Terrugem SNT, PORTU
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-Revised September 2020
+Revised December 2023
 
-462-638-02
+462-638-03
 
-PIN292-WES/3
+PIN292-WES/4
