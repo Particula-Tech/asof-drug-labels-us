@@ -1,8 +1,9 @@
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 U.S. License No. 1752
+Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960U.S.
+License No. 1752
 
-Manufactured for: Winthrop U.S., A business of sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
+Manufactured for: Winthrop U.S., A business of sanofi-aventis U.S. LLC Morristown, NJ 07960A SANOFI COMPANY
 
-©2024 Sanofi.
+©2025 Sanofi.
 All rights reserved.
 
 All trademarks mentioned in this documents such as Lantus®, Solostar® and Toujeo Max Solostar® are the property of the Sanofi group

@@ -280,11 +280,11 @@ Throwing your pen away
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 U.S. License No. 1752
+Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960 U.S. License No. 1752
 
-Manufactured for: Winthrop U.S., A business of sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
+Manufactured for: Winthrop U.S., A business of sanofi-aventis U.S. LLC Morristown, NJ 07960A SANOFI COMPANY
 
-©2024 Sanofi.
+©2025 Sanofi.
 All rights reserved
 
 All trademarks mentioned in this document are the property of the Sanofi group.
@@ -292,7 +292,7 @@ All trademarks mentioned in this document are the property of the Sanofi group.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: August 2024
+Revised: May 2025
 
 Instructions for Use Insulin Glargine, U-300 Max SoloStar® [IN-suh-lin GLAR-jeen] injection, for subcutaneous use 300 units/mL (U-300) 3 mL single-patient-use prefilled pen This product is TOUJEO® (insulin glargine).
 
@@ -576,11 +576,12 @@ Throwing your pen away
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
-Manufactured by: sanofi-aventis U.S. LLC Bridgewater, NJ 08807 U.S. License No. 1752
+Manufactured by: sanofi-aventis U.S. LLC Morristown, NJ 07960U.S.
+License No. 1752
 
-Manufactured for: Winthrop U.S., A business of sanofi-aventis U.S. LLC Bridgewater, NJ 08807 A SANOFI COMPANY
+Manufactured for: Winthrop U.S., A business of sanofi-aventis U.S. LLC Morristown, NJ 07960A SANOFI COMPANY
 
-©2024 Sanofi.
+©2025 Sanofi.
 All rights reserved.
 
 All trademarks mentioned in this document are the property of the Sanofi group.
@@ -588,4 +589,4 @@ All trademarks mentioned in this document are the property of the Sanofi group.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: August 2024
+Revised: May 2025
