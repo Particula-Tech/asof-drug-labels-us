@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA214047"
+  ],
+  "inn": "levothyroxine",
+  "labeler": "Oliva Therapeutics, LLC",
+  "package_ndcs": [
+    "82685-360-01",
+    "82685-360-02"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "levothyroxine sodium",
+      "name": "THYQUIDITY"
+    }
+  ],
+  "setid": "0c839877-50e4-455f-9b6c-462efb09cb96",
+  "source": "dailymed"
+}
