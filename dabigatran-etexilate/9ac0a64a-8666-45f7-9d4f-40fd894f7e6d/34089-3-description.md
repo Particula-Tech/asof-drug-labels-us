@@ -8,4 +8,4 @@ Dabigatran etexilate mesylate is a yellow-white to yellow powder.
 It is freely soluble in methanol, slightly soluble in ethanol, and sparingly soluble in isopropanol.
 A saturated solution in pure water has a solubility of 1.8 mg/mL.
 
-Each packet of PRADAXA Oral Pellets contains 20 mg, 30 mg, 40 mg, 50 mg, 110 mg, or 150 mg dabigatran etexilate (equivalent to 23.06 mg, 34.59 mg, 46.12 mg, 57.65 mg, 126.83 mg, or 172.95 mg dabigatran etexilate mesylate) along with the following inactive ingredients: acacia, dimethicone, hypromellose, hydroxypropyl cellulose, talc, and tartaric acid.
+Each packet of PRADAXA Oral Pellets contains 20 mg, 30 mg, 40 mg, 50 mg, 110 mg, or 150 mg dabigatran etexilate (equivalent to 23.06 mg, 34.59 mg, 46.12 mg, 57.65 mg, 126.83 mg, or 172.95 mg dabigatran etexilate mesylate) along with the following inactive ingredients: acacia, dimethicone, hydroxypropyl cellulose, hypromellose, talc, and tartaric acid.

@@ -70,7 +70,7 @@ Specific Populations
 Pediatric Patients
 
 The pharmacokinetics of dabigatran was characterized in two clinical studies (DIVERSITY and Study 2) following multiple doses in pediatric patients from birth to less than 18 years old.
-In pediatric patients taking age- and weight-adjusted dosages of PRADAXA pellets (less than 12 years of age), the observed geometric mean steady-state trough concentration was 54.7 ng/mL (25.9 to 88.3 ng/mL, 10th to 90th percentile) compared to the geometric mean steady-state trough concentration of 59.7 ng/mL (26.3 to 146 ng/mL, 10th to 90th percentile) observed in adult patients with DVT/PE taking PRADAXA Capsules.
+In pediatric patients taking age- and weight-adjusted dosages of PRADAXA Oral Pellets (less than 12 years of age), the observed geometric mean steady-state trough concentration was 54.7 ng/mL (25.9 to 88.3 ng/mL, 10th to 90th percentile) compared to the geometric mean steady-state trough concentration of 59.7 ng/mL (26.3 to 146 ng/mL, 10th to 90th percentile) observed in adult patients with DVT/PE taking PRADAXA Capsules.
 
 Renal Impairment
 
