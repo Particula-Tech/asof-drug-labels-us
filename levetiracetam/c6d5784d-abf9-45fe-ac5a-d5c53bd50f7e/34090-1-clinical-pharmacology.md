@@ -19,7 +19,7 @@ Therefore, there was no evidence of significant QTc prolongation in this study.
 
 ## 12.3 Pharmacokinetics
 
-Equivalent doses of intravenous (IV) levetiracetam and oral levetiracetam result in equivalent Cmax, Cmin, and total systemic exposure to levetiracetam when the IV levetiracetam is administered as a 15-minute infusion.
+Equivalent doses of intravenous (IV) levetiracetam and oral levetiracetam result in equivalent C max, C min, and total systemic exposure to levetiracetam when the IV levetiracetam is administered as a 15-minute infusion.
 
 Overview
 
@@ -40,10 +40,10 @@ Distribution
 
 The equivalence of levetiracetam injection and the oral formulation was demonstrated in a bioavailability study of 17 healthy volunteers.
 In this study, levetiracetam 1500 mg was diluted in 100 mL 0.9% sterile saline solution and was infused over 15 minutes.
-The selected infusion rate provided plasma concentrations of levetiracetam at the end of the infusion period similar to those achieved at Tmax after an equivalent oral dose.
+The selected infusion rate provided plasma concentrations of levetiracetam at the end of the infusion period similar to those achieved at T maxafter an equivalent oral dose.
 It is demonstrated that levetiracetam 1500 mg intravenous infusion is equivalent to levetiracetam 3 × 500 mg oral tablets.
 The time independent pharmacokinetic profile of levetiracetam was demonstrated following 1500 mg intravenous infusion for 4 days with BID dosing.
-The AUC(0-12) at steady-state was equivalent to AUCinf following an equivalent single dose.
+The AUC (0-12)at steady-state was equivalent to AUC inffollowing an equivalent single dose.
 
 Levetiracetam and its major metabolite are less than 10% bound to plasma proteins; clinically significant interactions with other drugs through competition for protein binding sites are therefore unlikely.
 
@@ -63,7 +63,7 @@ The total body clearance is 0.96 mL/min/kg and the renal clearance is 0.6 mL/min
 The mechanism of excretion is glomerular filtration with subsequent partial tubular reabsorption.
 The metabolite ucb L057 is excreted by glomerular filtration and active tubular secretion with a renal clearance of 4 mL/min/kg.
 Levetiracetam elimination is correlated to creatinine clearance.
-Levetiracetam clearance is reduced in patients with renal impairment [see Dosage and Administration (2.6) and Use in Specific Populations (8.6)].
+Levetiracetam clearance is reduced in patients with renal impairment [see Dosage and Administration (2.6)and Use in Specific Populations (8.6)].
 
 Specific Populations
 
@@ -81,20 +81,21 @@ Pediatric Patients
 
 - Oral Formulations Pharmacokinetics of levetiracetam were evaluated in 24 pediatric patients (age 6-12 years) after single oral dose (20 mg/kg) of the immediate release formulation of KEPPRA.
   The body weight adjusted apparent clearance of levetiracetam was approximately 40% higher than in adults.A repeat dose pharmacokinetic study was conducted in pediatric patients (age 4-12 years) at doses of 20 mg/kg/day, 40 mg/kg/day, and 60 mg/kg/day of the immediate release formulation of KEPPRA.
-  The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses, with a Tmax of about 1 hour and a t1/2 of 5 hours across all dosing levels.
+  The evaluation of the pharmacokinetic profile of levetiracetam and its metabolite (ucb L057) in 14 pediatric patients demonstrated rapid absorption of levetiracetam at all doses, with a T maxof about 1 hour and a t 1/2of 5 hours across all dosing levels.
   The pharmacokinetics of levetiracetam in pediatric patients was linear between 20 to 60 mg/kg/day.
   The potential interaction of levetiracetam with other AEDs was also evaluated in these patients.
   Levetiracetam had no significant effect on the plasma concentrations of carbamazepine, valproic acid, topiramate or lamotrigine.
-  However, there was about a 22% increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED (e.g., carbamazepine).Following single dose administration (20 mg/kg) of a 10% oral solution to pediatric patients with epilepsy (1 month to < 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
+  However, there was about a 22% increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED (e.g., carbamazepine).
+  Following single dose administration (20 mg/kg) of a 10% oral solution to pediatric patients with epilepsy (1 month to < 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
   Levetiracetam half-life in pediatric patients 1 month to < 4 years with epilepsy was shorter (5.3 h) than in adults (7.2 h), and apparent clearance (1.5 mL/min/kg) was faster than in adults (0.96 mL/min/kg).Population pharmacokinetic analysis showed that body weight was significantly correlated to the clearance of levetiracetam in pediatric patients; clearance increased with an increase in body weight.
 
 Pregnancy
 
-Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.10) and Use in Specific Populations (8.1)].
+Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.10)and Use in Specific Populations (8.1)].
 
 Gender
 
-Levetiracetam Cmax and AUC were 20% higher in women (N=11) compared to men (N=12).
+Levetiracetam C maxand AUC were 20% higher in women (N=11) compared to men (N=12).
 However, clearances adjusted for body weight were comparable.
 
 Race
@@ -120,9 +121,9 @@ No dose adjustment is needed for patients with hepatic impairment.
 
 Drug Interactions
 
-In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
-Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
-In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
+In vitrodata on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
+Levetiracetam and its major metabolite, at concentrations well above C maxlevels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase or UDP-glucuronidation enzymes.
+In addition, levetiracetam does not affect the in vitroglucuronidation of valproic acid.
 
 Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening in the placebo-controlled clinical studies in epilepsy patients.
 
@@ -167,6 +168,6 @@ Coadministration of warfarin did not affect the pharmacokinetics of levetiraceta
 Probenecid
 
 Probenecid, a renal tubular secretion blocking agent, administered at a dose of 500 mg four times a day, did not change the pharmacokinetics of levetiracetam 1000 mg twice daily.
-Cssmax of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
+C ssmaxof the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
 Renal clearance of ucb L057 in the presence of probenecid decreased 60%, probably related to competitive inhibition of tubular secretion of ucb L057.
 The effect of KEPPRA on probenecid was not studied.

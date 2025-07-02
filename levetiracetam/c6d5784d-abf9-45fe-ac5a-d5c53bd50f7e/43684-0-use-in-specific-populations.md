@@ -34,7 +34,7 @@ Animal Data
 
 When levetiracetam (0, 400, 1200, or 3600 mg/kg/day) was administered orally to pregnant rats during the period of organogenesis, reduced fetal weights and increased incidence of fetal skeletal variations were observed at the highest dose tested.
 There was no evidence of maternal toxicity.
-The no-effect dose for adverse effects on embryofetal developmental in rats (1200 mg/kg/day) is approximately 4 times the maximum recommended human dose (MRHD) of 3000 mg on a body surface area (mg/m2) basis.
+The no-effect dose for adverse effects on embryofetal developmental in rats (1200 mg/kg/day) is approximately 4 times the maximum recommended human dose (MRHD) of 3000 mg on a body surface area (mg/m 2) basis.
 
 Oral administration of levetiracetam (0, 200, 600, or 1800 mg/kg/day) to pregnant rabbits during the period of organogenesis resulted in increased embryofetal mortality and incidence of fetal skeletal variations at the mid and high dose and decreased fetal weights and increased incidence of fetal malformations at the high dose, which was associated with maternal toxicity.
 The no-effect dose for adverse effects on embryofetal development in rabbits (200 mg/kg/day) is approximately equivalent to the MRHD on a mg/m2 basis.
@@ -56,7 +56,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of KEPPRA for the treatment of partial-onset seizures in patients 1 month to 16 years of age have been established [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
+The safety and effectiveness of KEPPRA for the treatment of partial-onset seizures in patients 1 month to 16 years of age have been established [see Clinical Pharmacology (12.3)and Clinical Studies (14.1)].
 The dosing recommendation in these pediatric patients varies according to age group and is weight-based [see Dosage and Administration (2.6)].
 
 The safety and effectiveness of KEPPRA as adjunctive therapy for the treatment of myoclonic seizures in adolescents 12 years of age and older with juvenile myoclonic epilepsy have been established [see Clinical Studies (14.2)].
@@ -66,15 +66,14 @@ The safety and effectiveness of KEPPRA as adjunctive therapy for the treatment o
 Safety and effectiveness for the treatment of partial-onset seizures in pediatric patients below the age of 1 month; adjunctive therapy for the treatment of myoclonic seizures in pediatric patients below the age of 12 years; and adjunctive therapy for the treatment of primary generalized tonic-clonic seizures in pediatric patients below the age of 6 years have not been established.
 
 A 3-month, randomized, double-blind, placebo-controlled study was performed to assess the neurocognitive and behavioral effects of KEPPRA as adjunctive therapy in 98 (KEPPRA N=64, placebo N=34) pediatric patients, ages 4 years to 16 years, with partial seizures that were inadequately controlled.
-The target dose was 60 mg/kg/day.
-Neurocognitive effects were measured by the Leiter-R Attention and Memory (AM) Battery, which measures various aspects of a child's memory and attention.
+The target dose was 60 mg/kg/day.Neurocognitive effects were measured by the Leiter-R Attention and Memory (AM) Battery, which measures various aspects of a child's memory and attention.
 Although no substantive differences were observed between the placebo and drug treated groups in the median change from baseline in this battery, the study was not adequate to assess formal statistical non-inferiority of the drug and placebo.
 The Achenbach Child Behavior Checklist (CBCL/6-18), a standardized validated tool used to assess a child's competencies and behavioral/emotional problems, was also assessed in this study.
 An analysis of the CBCL/6-18 indicated, on average, a worsening in KEPPRA-treated patients in aggressive behavior, one of the eight syndrome scores [see Warnings and Precautions (5.1)].
 
 Juvenile Animal Toxicity Data
 
-Studies of levetiracetam in juvenile rats (dosed on postnatal days 4 through 52) and dogs (dosed from postnatal weeks 3 through 7) at doses of up to 1800 mg/kg/day (approximately 7 and 24 times, respectively, the maximum recommended pediatric dose of 60 mg/kg/day on a mg/m2 basis) did not demonstrate adverse effects on postnatal development.
+Studies of levetiracetam in juvenile rats (dosed on postnatal days 4 through 52) and dogs (dosed from postnatal weeks 3 through 7) at doses of up to 1800 mg/kg/day (approximately 7 and 24 times, respectively, the maximum recommended pediatric dose of 60 mg/kg/day on a mg/m 2basis) did not demonstrate adverse effects on postnatal development.
 
 ## 8.5 Geriatric Use
 

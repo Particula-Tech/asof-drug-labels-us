@@ -25,7 +25,7 @@ KEPPRA should be discontinued immediately if a serious hypersensitivity reaction
 Withdrawal of KEPPRA
 
 Advise patients and caregivers not to discontinue use of KEPPRA without consulting with their healthcare provider.
-KEPPRA should normally be gradually withdrawn to reduce the potential of increased seizure frequency and status epilepticus [see Warnings and Precautions (5.7)].
+KEPPRA should normally be gradually withdrawn to reduce the potential of increased seizure frequency and status epilepticus [seeWarnings and Precautions (5.7)].
 
 Pregnancy
 
