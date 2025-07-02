@@ -1,24 +1,27 @@
 # PRINCIPAL DISPLAY PANEL - 10 Single-dose vials Label
 
-NDC 51810-504-02 Rx only
+10 Single-Dose vials
 
-Ertapenem for Injection
+ERTAPENEM
 
-1 gram/vial
+for Injection
 
-FOR INTRAVENOUS OR INTRAMUSCULAR USE
+1 gram per vial
 
-10 Single-dose vials
+Rxonly
 
-NDC 51810-504-01
+For Intravenous or Intramuscular Use
 
-Ertapenem for Injection
+Rxonly
 
-1 gram/vial
+ERTAPENEM
 
-FOR INTRAVENOUS OR INTRAMUSCULAR USE
+for Injection
 
-Discard unused portion.
-1 Single-dose vial
+1 gram per vial
 
-Rx only
+For Intravenous or Intramuscular Use
+
+Single-Dose Vial
+
+Discard unused portion
