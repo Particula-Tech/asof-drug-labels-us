@@ -1,5 +1,14 @@
 # 6 ADVERSE REACTIONS
 
+The following adverse reactions are described elsewhere in the labeling:
+
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.1)]
+- Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.2)]
+- Respiratory Depression [see Warnings and Precautions (5.3)]
+- Tumorigenic Potential [see Warnings and Precautions (5.4)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.5)]
+- Laboratory Tests [see Warnings and Precautions (5.6)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
@@ -48,7 +57,7 @@ In addition to the adverse experiences reported during clinical testing of gabap
 These adverse experiences have not been listed above and data are insufficient to support an estimate of their incidence or to establish causation.
 The listing is alphabetized: angioedema, blood glucose fluctuation, breast enlargement, bullous pemphigoid, elevated creatine kinase, elevated liver function tests, erythema multiforme, fever, hyponatremia, jaundice, movement disorder, Stevens-Johnson syndrome.
 
-Adverse events following the abrupt discontinuation of gabapentin immediate release have also been reported.
-The most frequently reported events were anxiety, insomnia, nausea, pain and sweating.
+There are postmarketing reports of withdrawal symptoms after discontinuation of gabapentin.
+Reported adverse reactions include, but are not limited to, seizures, depression, suicidal ideationand behavior, agitation, confusion, disorientation, psychotic symptoms, anxiety, insomnia, nausea, pain, sweating, tremor, headache, dizziness, and malaise [see Warnings and Precautions(5.2)].
 
 There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking gabapentin with opioids or other central nervous system (CNS) depressants, or in the setting of underlying respiratory impairment.

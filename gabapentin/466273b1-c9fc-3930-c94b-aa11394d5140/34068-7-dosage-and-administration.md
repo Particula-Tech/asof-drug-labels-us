@@ -2,7 +2,7 @@
 
 ## 2.1 Postherpetic Neuralgia
 
-Do not use GRALISE interchangeably with other gabapentin products.
+Do not use GRALISE as a substitute for other gabapentin products.
 
 Titrate GRALISE to an 1,800 mg dose taken orally once daily with the evening meal.
 GRALISE tablets should be swallowed whole.

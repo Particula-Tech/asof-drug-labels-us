@@ -13,6 +13,7 @@ Do not stop taking GRALISE without first talking with your healthcare provider.
 Stopping GRALISE suddenly can cause serious problems.
 
 Like other antiepileptic drugs, gabapentin, the active ingredient in GRALISE, may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+This can happen while you take GRALISE or after stopping.
 However, it is not known if GRALISE is safe and effective in people with seizure problems (epilepsy).
 Therefore, GRALISE should not be used in place of other gabapentin products.
 
@@ -58,7 +59,7 @@ It is not known if GRALISE is safe and effective in people with seizure problems
 
 It is not known if GRALISE is safe and effective in children under 18 years of age with postherpetic pain.
 
-GRALISE is not interchangeable with other gabapentin products.
+GRALISE is not substitutable with other gabapentin products.
 
 Who should not take GRALISE?
 
@@ -77,9 +78,9 @@ Before taking GRALISE, tell your healthcare provider if you:
   It is not known if GRALISE can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking GRALISE.
   You and your healthcare provider will decide if you should take GRALISE while you are pregnant.
-  If you become pregnant while taking GRALISE, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-  The purpose of this registry is to collect information about the safety of antiepileptic drugs, including gabapentin, the active ingredient in GRALISE, during pregnancy.
-  You can enroll in this registry by calling 1-888-233-2334.
+  - If you become pregnant while taking GRALISE, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+    The purpose of this registry is to collect information about the safety of antiepileptic drugs, including gabapentin, the active ingredient in GRALISE, during pregnancy.
+    You can enroll in this registry by calling 1-888-233-2334.
 - are breastfeeding or plan to breastfeed.
   Gabapentin passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby during treatment with GRALISE.
@@ -174,6 +175,6 @@ Distributed by: Almatica Pharma LLC Morristown, NJ 07960 USA
 
 Brands listed are trademarks of their respective owners.
 
-PL803-01 Revised: 03/2023
+PL803-02 Revised: 05/2025
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

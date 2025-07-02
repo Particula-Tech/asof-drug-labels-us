@@ -2,7 +2,7 @@
 
 Advise patients of the availability of a Medication Guide, and instruct them to read the Medication Guide prior to taking GRALISE.
 
-- Advise patients that GRALISE is not interchangeable with other formulations of gabapentin.
+- Advise patients that GRALISE is not substitutable with other formulations of gabapentin.
 - Advise patients to take GRALISE only as prescribed.
   GRALISE may cause dizziness, somnolence, and other signs and symptoms of CNS depression.
 - Advise patients not to drive or operate other complex machinery until they have gained sufficient experience on GRALISE to gauge whether or not it adversely affects their mental and/or motor performance.
@@ -15,18 +15,19 @@ Advise patients of the availability of a Medication Guide, and instruct them to 
 
 Suicidal Thoughts and Behavior
 
-Advise patients, their caregivers, and families that AEDs, including gabapentin, the active ingredient in GRALISE, may increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
-Behaviors of concern should be reported immediately to healthcare providers [see Warnings and Precautions (5.1)].
+Counsel patients, their caregivers, and families that AEDs, including gabapentin, the active ingredient in GRALISE, may increase the risk of suicidal thoughts and behavior and of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
+Instruct patients, caregivers, and families to report behaviors of concern immediately to healthcare providers.
+Also inform patients who plan to or have discontinued GRALISE that suicidal thoughts and behavior can appear even after the drug is stopped [see Warnings and Precautions (5.1)].
 
 Respiratory Depression
 
 Inform patients about the risk of respiratory depression.
 Include information that the risk is greatest for those using concomitant central nervous system (CNS) depressants (such as opioid analgesics) or in those with underlying respiratory impairment.
-Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs [see Warnings and Precautions (5.2)].
+Teach patients how to recognize respiratory depression and advise them to seek medical attention immediately if it occurs [see Warnings and Precautions (5.3)].
 
 Dosing and Administration
 
-GRALISE is not interchangeable with other gabapentin products because of differing pharmacokinetic profiles that affect the frequency of administration.
+GRALISE is not substitutable with other gabapentin products because of differing pharmacokinetic profiles that affect the frequency of administration.
 
 The safety and effectiveness of GRALISE in patients with epilepsy has not been studied.
 
@@ -34,7 +35,10 @@ Advise patients that GRALISE should be taken orally once daily with the evening 
 GRALISE tablets should be swallowed whole.
 Do not split, crush, or chew the tablets [see Dosage and Administration (2.1)].
 
-Pregnancy
+Use in Pregnancy
 
-Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with GRALISE.
-Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to GRALISE during pregnancy [see Use in Specific Populations (8.1)].
+Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during treatment with GRALISE, and to notify their physician if they are breast feeding or intend to breast feed during therapy [see Use in Specific Populations (8.1) and (8.2)].
+
+Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) PregnancyRegistry if they become pregnant.
+This registry is collecting information about the safety ofantiepileptic drugs during pregnancy.
+To enroll, patients can call the toll-free number 1-888-233-2334 [see Use in Specific Populations (8.1)].

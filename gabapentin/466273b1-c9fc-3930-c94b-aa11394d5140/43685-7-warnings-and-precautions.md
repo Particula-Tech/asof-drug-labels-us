@@ -1,12 +1,13 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-GRALISE is not interchangeable with other gabapentin products because of differing pharmacokinetic profiles that affect the frequency of administration.
+GRALISE is not substitutable with other gabapentin products because of differing pharmacokinetic profiles that affect the frequency of administration.
 
 The safety and effectiveness of GRALISE in patients with epilepsy has not been studied.
 
 ## 5.1 Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including gabapentin, the active ingredient in GRALISE, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Suicidal behavior and ideation have also been reported in patients after discontinuation of gabapentin [see Warnings and Precautions (5.3)].
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
@@ -39,16 +40,17 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that GRALISE contains gabapentin which is also used to treat epilepsy and that AEDs increase the risk of suicidal thoughts and behavior and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.2 Respiratory Depression
+## 5.2 Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation
+
+After discontinuation of short-term and long-term treatment with gabapentin, withdrawal symptoms have been observed in some patients [see Adverse Reactions (6.2) and Drug Abuse and Dependence (9.3)].
+Suicidal behavior and ideation have also been reported in patients after discontinuation of gabapentin [see Warnings and Precautions (5.1)].
+If GRALISE is discontinued, this should be done gradually over a minimum of 1 week or longer (at the discretion of the prescriber).
+
+## 5.3 Respiratory Depression
 
 There is evidence from case reports, human studies, and animal studies associating gabapentin with serious, life-threatening, or fatal respiratory depression when co-administrated with central nervous system (CNS) depressants, including opioids, or in the setting of underlying respiratory impairment.
 When the decision is made to co-prescribe GRALISE with another CNS depressant, particularly an opioid, or to prescribe GRALISE to patients with underlying respiratory impairment, monitor patients for symptoms of respiratory depression and sedation, and consider initiating GRALISE at a low dose.
 The management of respiratory depression may include close observation, supportive measures, and reduction or withdrawal of CNS depressants (including GRALISE).
-
-## 5.3 Withdrawal of Gabapentin
-
-Gabapentin should be withdrawn gradually.
-If GRALISE is discontinued, this should be done gradually over a minimum of 1 week or longer (at the discretion of the prescriber).
 
 ## 5.4 Tumorigenic Potential
 

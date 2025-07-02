@@ -4,7 +4,7 @@ ONCE-DAILY Gralise® (gabapentin) tablets
 
 300 mg
 
-Do not use Gralise interchangeably with other gabapentin products.
+Do not use Gralise as a substitute for other gabapentin products.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -14,7 +14,7 @@ ONCE-DAILY Gralise® (gabapentin) tablets
 
 450 mg
 
-Do not use Gralise interchangeably with other gabapentin products.
+Do not use Gralise as a substitute for other gabapentin products.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -24,7 +24,7 @@ ONCE-DAILY Gralise® (gabapentin) tablets
 
 600 mg
 
-Do not use Gralise interchangeably with other gabapentin products.
+Do not use Gralise as a substitute for other gabapentin products.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -34,7 +34,7 @@ ONCE-DAILY Gralise® (gabapentin) tablets
 
 750 mg
 
-Do not use Gralise interchangeably with other gabapentin products.
+Do not use Gralise as a substitute for other gabapentin products.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
@@ -44,7 +44,7 @@ ONCE-DAILY Gralise® (gabapentin) tablets
 
 900 mg
 
-Do not use Gralise interchangeably with other gabapentin products.
+Do not use Gralise as a substitute for other gabapentin products.
 
 PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 

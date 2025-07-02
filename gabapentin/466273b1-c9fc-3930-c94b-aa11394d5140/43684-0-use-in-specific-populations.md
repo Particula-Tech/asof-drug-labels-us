@@ -13,9 +13,22 @@ Available data from published prospective and retrospective cohort studies, and 
 The available data are insufficient to evaluate a drug-associated risk of miscarriage and other maternal or fetal outcomes.
 In nonclinical studies in mice, rats, and rabbits, gabapentin was developmentally toxic (increased fetal skeletal and visceral abnormalities, and increased embryofetal mortality) when administered to pregnant animals at doses similar to those used clinically (see Data).
 
+Postmarketing data suggest that extended gabapentin use with opioids close to delivery mayincrease the risk of neonatal withdrawal versus opioids alone [see Clinical Considerations].
+Although there is at least one report of neonatal withdrawal syndrome in an infant exposed togabapentin alone during pregnancy, there are no comparative epidemiologic studies evaluatingthis association.
+Therefore, it is not known whether exposure to gabapentin alone late inpregnancy may cause withdrawal signs and symptoms.
+
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Neonatal withdrawal syndrome has been reported in newborns exposed to gabapentin in utero foran extended period of time when also exposed to opioids close to delivery.
+Neonatal withdrawal signs and symptoms reported have included tachypnea, vomiting, diarrhea, hypertonia, irritability, sneezing, poor feeding, hyperactivity, abnormal sleep pattern, and tremor.
+Reported signs and symptoms that may also be related to withdrawal include tongue thrusting, wandering eye movements while awake, back arching, and continuous extremity movements.
+Observe neonates exposed to GRALISE and opioids for signs and symptoms of neonatal withdrawal and manage accordingly.
 
 Data
 

@@ -53,7 +53,7 @@ Table 6: Mean ± SD Single-Dose Pharmacokinetic parameters for GRALISE 900 mg st
 | Tmax (hr)$ | 7 (4-12) | 4 (3-12) |
 | $Tmax is presented as median (range) |  |  |
 
-Do not use GRALISE interchangeably with other gabapentin products because of differing pharmacokinetic profiles that affect frequency of administration.
+Do not use GRALISE as a substitute for other gabapentin products because of differing pharmacokinetic profiles that affect frequency of administration.
 
 GRALISE should be taken with evening meals.
 If it is taken on an empty stomach, the bioavailability will be substantially lower.

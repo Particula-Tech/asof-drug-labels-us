@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 GRALISE contains gabapentin, a gamma-aminobutyric acid (GABA) analogue, as the active pharmaceutical ingredient.
-Gabapentin’s chemical name is 1-(aminomethyl)cyclohexaneacetic acid; with a molecular formula of C9H17NO2 and a molecular weight of 171.24 g/mol.
+Gabapentin's chemical name is 1-(aminomethyl)cyclohexaneacetic acid; with a molecular formula of C9H17NO2 and a molecular weight of 171.24 g/mol.
 
 Gabapentin chemical structural formula is:
 
