@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA218963"
+  ],
+  "inn": "prucalopride",
+  "labeler": "Sandoz Inc.",
+  "package_ndcs": [
+    "0781-8158-31",
+    "0781-8159-31"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "prucalopride",
+      "name": "PRUCALOPRIDE"
+    }
+  ],
+  "setid": "6325308c-4b0f-4926-bb85-b63db614533d",
+  "source": "dailymed"
+}
