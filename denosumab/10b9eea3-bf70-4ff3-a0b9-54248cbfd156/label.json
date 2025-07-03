@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761404"
+  ],
+  "inn": "denosumab",
+  "labeler": "CELLTRION USA, Inc.",
+  "package_ndcs": [
+    "72606-037-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "denosumab-bmwo",
+      "name": "Stoboclo"
+    }
+  ],
+  "setid": "10b9eea3-bf70-4ff3-a0b9-54248cbfd156",
+  "source": "dailymed"
+}
