@@ -129,11 +129,13 @@ Inactive ingredients in desloratadine tablets: anhydrous lactose, colloidal sili
 
 The brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
 
+LUPIN and theare registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
@@ -145,4 +147,4 @@ Goa 403 722
 
 INDIA
 
-Revised: December 2019 ID#: 263068
+Revised: October 2024 ID#: 277503

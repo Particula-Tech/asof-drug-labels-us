@@ -28,6 +28,18 @@ Rx Only
 
 5 mg
 
+NDC 68180-153-02
+
+BOTTLE LABEL
+
+500 TABLETS
+
+Desloratadine Tablets
+
+Rx Only
+
+5 mg
+
 NDC 68180-153-12
 
 CARTON LABEL
