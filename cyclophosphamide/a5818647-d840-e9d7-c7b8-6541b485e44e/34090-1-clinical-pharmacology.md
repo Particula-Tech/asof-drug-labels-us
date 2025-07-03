@@ -25,7 +25,7 @@ Elimination
 
 The elimination half-life (t½) of cyclophosphamide ranges from 3 to 12 hours, and clearance (CL) ranges from 4 to 5.6 L/h.
 
-When cyclophosphamide was administered at 4 g/m 2(approximately 2 times the approved recommended dosage) over a 90-minute infusion, concentration-time data demonstrate saturable elimination in parallel with first-order renal elimination.
+When cyclophosphamide was administered at 4 g/m2 (approximately 2 times the approved recommended dosage) over a 90-minute infusion, concentration-time data demonstrate saturable elimination in parallel with first-order renal elimination.
 
 Metabolism
 

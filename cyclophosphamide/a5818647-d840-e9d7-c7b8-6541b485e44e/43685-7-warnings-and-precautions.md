@@ -10,7 +10,7 @@ In case of neutropenic fever, antibiotic therapy is indicated.
 Antimycotics and/or antivirals may also be indicated.
 
 Monitoring of complete blood counts is essential during cyclophosphamide treatment so that the dose can be adjusted, if needed.
-Cyclophosphamide should not be administered to patients with neutrophils ≤1,500/mm 3 and platelets < 50,000/mm 3.
+Cyclophosphamide should not be administered to patients with neutrophils ≤1,500/mm3 and platelets < 50,000/mm3.
 Cyclophosphamide treatment may not be indicated, or should be interrupted, or the dose reduced, in patients who have or who develop a serious infection.
 G-CSF may be administered to reduce the risks of neutropenia complications associated with cyclophosphamide use.
 Primary and secondary prophylaxis with G-CSF should be considered in all patients considered to be at increased risk for neutropenia complications.
@@ -79,7 +79,7 @@ Other cyclophosphamide products may have a different amount of alcohol or no alc
 
 ## 5.8 Embryo-Fetal Toxicity
 
-Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)and Nonclinical Toxicology (13.1)].
+Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
 Exposure to cyclophosphamide during pregnancy may cause birth defects, miscarriage, fetal growth retardation, and fetotoxic effects in the newborn.
 Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys.
 
@@ -95,7 +95,7 @@ Cyclophosphamide interferes with oogenesis and spermatogenesis.
 It may cause sterility in both sexes.
 Development of sterility appears to depend on the dose of cyclophosphamide, duration of therapy, and the state of gonadal function at the time of treatment.
 Cyclophosphamide-induced sterility may be irreversible in some patients.
-Advise patients on the potential risks for infertility [see Use in Specific Populations (8.3and 8.4)].
+Advise patients on the potential risks for infertility [see Use in Specific Populations (8.3 and 8.4)].
 
 ## 5.10 Impairment of Wound Healing
 

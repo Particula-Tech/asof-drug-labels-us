@@ -36,7 +36,7 @@ Embryo-Fetal Toxicity
 
 - Inform female patients of the risk to a fetus and potential loss of the pregnancy.
   Advise females to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8)and Use in Specific Populations (8.1)].
-- Advice females of reproductive potential to use effective contraception during treatment and for up to 1 year after completion of therapy [see Warning and Precautions (5.8)and Use in Specific Population (8.1, 8.3)].
+- Advice females of reproductive potential to use effective contraception during treatment and for up to 1 year after completion of therapy [see Warning and Precautions (5.8) and Use in Specific Population (8.1, 8.3)].
   Advise male patients with female partners of reproductive potential to use effective contraception during treatment and for 4 months after completion of therapy [see Warnings and Precautions (5.8)and Use in Specific Populations (8.1, 8.3)].
 
 Lactation
@@ -45,12 +45,12 @@ Lactation
 
 Infertility
 
-- Cyclophosphamide Injection may impair fertility in males and females of reproductive potential [see Warnings and Precautions (5.9)and Use in Specific Populations (8.3, 8.4)].
+- Cyclophosphamide Injection may impair fertility in males and females of reproductive potential [see Warnings and Precautions (5.9) and Use in Specific Populations (8.3, 8.4)].
 
 Common Adverse Reactions
 
 - Explain to patients that side effects such as nausea, vomiting, stomatitis, impaired wound healing, amenorrhea, premature menopause, sterility and hair loss may be associated with cyclophosphamide administration.
-  Other undesirable effects (including, e.g., dizziness, blurred vision, visual impairment) could affect the ability to drive or use machines [see Adverse Reactions (6.1and 6.2)].
+  Other undesirable effects (including, e.g., dizziness, blurred vision, visual impairment) could affect the ability to drive or use machines [see Adverse Reactions (6.1 and 6.2)].
 
 Hydration and Important Administration Instructions
 
@@ -64,4 +64,4 @@ Princeton, NJ 08540
 
 Made in Switzerland
 
-Issued 09/24
+Issued 03/25
