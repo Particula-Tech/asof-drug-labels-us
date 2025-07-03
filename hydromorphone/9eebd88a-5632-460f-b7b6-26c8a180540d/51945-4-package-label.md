@@ -17,7 +17,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Dilaudid 0.5 mL Single-Dose Tip Cap Label Di
 
 0.5 mg per 0.5 mL For Subcutaneous, IM, or slow IV use.
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Dilaudid 0.5 mL Single-Dose Carton Panel Rx only 76045-009-06 Dilaudid® CII HYDROmorphone HCl Injection, USP
+PACKAGE LABEL - PRINCIPAL DISPLAY - Dilaudid 0.5 mL Single-Dose Carton Panel Rx only 771906 NDC 76045-009-06 Dilaudid® CII HYDROmorphone HCl Injection, USP
 
 0.5 mg per 0.5 mL For Subcutaneous, Intramuscular, or slow Intravenous use.
 Do NOT dilute for IV push.
@@ -53,7 +53,7 @@ For Subcutaneous, IM, or slow IV use.
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Dilaudid 1mL Single-Dose Carton Panel
 
-Rx only 76045-121-11
+Rx only 771311 NDC 76045-121-11
 
 Dilaudid® CII
 
@@ -69,7 +69,7 @@ Do NOT dilute for IV push.
 
 Do NOT place syringe on a Sterile Field.
 
-10 x 1mL single-dose prefilled syringes
+10 x 1 mL single-dose prefilled syringes
 
 Discard unused portion.
 
@@ -102,7 +102,7 @@ For Subcutaneous, IM, or slow IV use.
 
 PACKAGE LABEL - PRINCIPAL DISPLAY - Dilaudid 1mL Single-Dose Carton Panel
 
-Rx only 76045-009-11
+Rx only 771911 NDC 76045-009-11
 
 Dilaudid® CII
 
@@ -143,7 +143,7 @@ PACKAGE LABEL - PRINCIPAL DISPLAY - Dilaudid 1 mL Single-Dose Tip Cap Label Dila
 
 For Subcutaneous, IM, or slow IV use.
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Dilaudid 1mL Single-Dose Carton Panel Rx only 76045-010-11 Dilaudid® CII HYDROmorphone HCl Injection, USP
+PACKAGE LABEL - PRINCIPAL DISPLAY - Dilaudid 1mL Single-Dose Carton Panel Rx only 771011 NDC 76045-010-11 Dilaudid® CII HYDROmorphone HCl Injection, USP
 
 2 mg/mL For Subcutaneous, Intramuscular, or slow Intravenous use.
 Do NOT dilute for IV push.

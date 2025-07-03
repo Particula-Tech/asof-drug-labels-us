@@ -7,10 +7,10 @@ DILAUDID INJECTION contains no added preservative and is supplied as follows:
 
 | Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| 771906 | NDC 76045-009-06 Unit of 10 | 0.5 mg/0.5 mL | NDC 76045-009-96 0.5 mL single-dose prefilled syringe |
-| 771911 | NDC 76045-009-11 Unit of 10 | 1 mg/mL | NDC 76045-009-01 1 mL single-dose prefilled syringe |
-| 771011 | NDC 76045-010-11 Unit of 10 | 2 mg/mL | NDC 76045-010-01 1 mL single-dose prefilled syringe |
-| 771311 | NDC 76045-121-11 Unit of 10 | 0.2 mg/mL | NDC 76045-121-01 1 mL single-dose prefilled syringe |
+| 771906 | NDC 76045-009-06Unit of 10 | 0.5 mg/0.5 mL | NDC 76045-009-960.5 mL single-dose prefilled syringe |
+| 771911 | NDC 76045-009-11Unit of 10 | 1 mg/mL | NDC 76045-009-011 mL single-dose prefilled syringe |
+| 771011 | NDC 76045-010-11Unit of 10 | 2 mg/mL | NDC 76045-010-011 mL single-dose prefilled syringe |
+| 771311 | NDC 76045-121-11Unit of 10 | 0.2 mg/mL | NDC 76045-121-011 mL single-dose prefilled syringe |
 
 PROTECT FROM LIGHT.
 
@@ -22,4 +22,5 @@ Discard any unused portion.
 
 Access to drugs with a potential for abuse such as DILAUDID INJECTION presents an occupational hazard for addiction in the health care industry.
 Routine procedures for handling controlled substances developed to protect the public may not be adequate to protect health care workers.
+
 Implementation of more effective accounting procedures and measures to restrict access to drugs of this class (appropriate to the practice setting) may minimize the risk of self-administration by health care providers.
