@@ -9,9 +9,9 @@
 | What are the possible side effects of XYREM?XYREM can cause serious side effects, including: •See “What is the most important information I should know about XYREM?”•breathing problems, including: oslower breathingotrouble breathingoshort periods of not breathing while sleeping (sleep apnea). People who already have breathing or lung problems have a higher chance of having breathing problems when they take XYREM. •mental health problems, including: oconfusion oseeing or hearing things that are not real (hallucinations)ounusual or disturbing thoughts (abnormal thinking)ofeeling anxious or upsetodepressionothoughts of killing yourself or trying to kill yourselfoincreased tirednessofeelings of guilt or worthlessnessodifficulty concentrating Call your doctor right away if you have or your child has symptoms of mental health problems, or a change in weight or appetite. •sleepwalking. Sleepwalking can cause injuries. Call your doctor if you start or your child starts sleepwalking. Your doctor should check you or your child. The most common side effects of XYREM in adults include: •nausea•sleepiness•dizziness•vomiting•bedwetting•tremor The most common side effects of XYREM in children include: •nausea•bedwetting•vomiting•headache•weight decreased•decreased appetite•dizziness•sleepwalking Side effects may increase when taking higher doses of XYREM. These are not all the possible side effects of XYREM. For more information, ask your doctor or pharmacist. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
 | How should I store XYREM? •Store XYREM in the original bottle prior to mixing with water. After mixing with water, store XYREM in pharmacy containers with child-resistant caps provided by the pharmacy.•Store XYREM at room temperature between 68°F to 77°F (20°C to 25°C). •XYREM solution prepared after mixing with water should be taken within 24 hours.•When you have finished using a XYREM bottle: oempty any unused XYREM down the sink drainocross out the label on the XYREM bottle with a markeroplace the empty XYREM bottle in the trash XYREM comes in a child-resistant package. Keep XYREM and all medicines out of the reach of children and pets. |
 | General information about the safe and effective use of XYREM.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not use XYREM for a condition for which it was not prescribed. Do not give XYREM to other people, even if they have the same symptoms. It may harm them. You can ask your pharmacist or doctor for information about XYREM that is written for health professionals. |
-| What are the ingredients in XYREM? Active ingredients: sodium oxybate Inactive ingredients: purified water and malic acid Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304 For more information, go to www.XYWAVXYREMREMS.com or call the XYWAV and XYREM REMS at 1-866-997-3688. |
+| What are the ingredients in XYREM? Active ingredients: sodium oxybate Inactive ingredients: purified water and malic acid Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94306 For more information, go to www.XYWAVXYREMREMS.com or call the XYWAV and XYREM REMS at 1-866-997-3688. |
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration Issued: 9/2020
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: 7/2025
 
 Instructions for Use XYREM® (ZĪE-rem) (sodium oxybate) oral solution, CIII
 
@@ -152,7 +152,7 @@ Throwing away (disposing of) XYREM
   - oplace the empty XYREM bottle in the trash
 - •Keep XYREM and all medicines out of the reach of children and pets.
 
-Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94304
+Distributed By: Jazz Pharmaceuticals, Inc. Palo Alto, CA 94306
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised: 4/2023
+Revised: 7/2025
