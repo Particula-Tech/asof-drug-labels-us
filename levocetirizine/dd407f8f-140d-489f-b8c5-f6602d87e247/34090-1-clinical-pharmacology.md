@@ -26,12 +26,14 @@ In adults, peak plasma concentrations are achieved 0.9 hour after administration
 The accumulation ratio following daily oral administration is 1.12 with steady state achieved after 2 days.
 Peak concentrations are typically 270 ng/mL and 308 ng/mL following a single and a repeated 5 mg once daily dose, respectively.
 Food had no effect on the extent of exposure (AUC) of the levocetirizine tablet, but T maxwas delayed by about 1.25 hours and C maxwas decreased by about 36% after administration with a high fat meal; therefore, levocetirizine can be administered with or without food.
+A dose of 5 mg (10 mL) of levocetirizine dihydrochloride oral solution is bioequivalent to a 5 mg dose of levocetirizine dihydrochloride tablets.
+Following oral administration of a 5 mg dose of levocetirizine dihydrochloride oral solution to healthy adult subjects, the mean peak plasma concentrations were achieved approximately 0.5 hour post dose.
 Distribution The mean plasma protein binding of levocetirizine in vitroranged from 91 to 92%, independent of concentration in the range of 90 to 5,000 ng/mL, which includes the therapeutic plasma levels observed.
 Following oral dosing, the average apparent volume of distribution is approximately 0.4 L/kg, representative of distribution in total body water.
 Metabolism The extent of metabolism of levocetirizine in humans is less than 14% of the dose and therefore differences resulting from genetic polymorphism or concomitant intake of hepatic drug metabolizing enzyme inhibitors are expected to be negligible.
 Metabolic pathways include aromatic oxidation, N- and O-dealkylation, and taurine conjugation.
-Dealkylation pathways are primarily mediated by CYP 3A4 while aromatic oxidation involves multiple and/or unidentified CYP isoforms.
-Elimination The plasma half-life in adult healthy subjects was about 8 to 9 hours after administration of oral tablets, and the mean oral total body clearance for levocetirizine was approximately 0.63 mL/kg/min.
+Dealkylation pathways are primarily mediated by CYP3A4 while aromatic oxidation involves multiple and/or unidentified CYP isoforms.
+Elimination The plasma half-life in adult healthy subjects was about 8 to 9 hours after administration of oral tablets and oral solution, and the mean oral total body clearance for levocetirizine was approximately 0.63 mL/kg/min.
 The major route of excretion of levocetirizine and its metabolites is via urine, accounting for a mean of 85.4% of the dose.
 Excretion via feces accounts for only 12.9% of the dose.
 Levocetirizine is excreted both by glomerular filtration and active tubular secretion.

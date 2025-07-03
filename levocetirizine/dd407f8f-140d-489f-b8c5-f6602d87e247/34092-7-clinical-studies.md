@@ -7,7 +7,8 @@ The four clinical trials include two dose-ranging trials of 4 weeks duration and
 These trials included a total of 1,729 patients (752 males and 977 females) of whom 227 were adolescents 12 to 17 years of age.
 Efficacy was assessed using a total symptom score from patient recording of 4 symptoms (sneezing, rhinorrhea, nasal pruritus, and ocular pruritus) in three studies and 5 symptoms (sneezing, rhinorrhea, nasal pruritus, ocular pruritus, and nasal congestion) in one study.
 Patients recorded symptoms using a 0 to 3 categorical severity scale (0 = absent, 1 = mild, 2 = moderate, 3 = severe) once daily in the evening reflective of the 24 hour treatment period.
-The primary endpoint was the mean total symptom score averaged over the first week and over 4 weeks for perennial allergic rhinitis trials.The two dose-ranging trials were conducted to evaluate the efficacy of levocetirizine dihydrochloride 2.5, 5, and 10 mg once daily in the evening.
+The primary endpoint was the mean total symptom score averaged over the first week and over 4 weeks for perennial allergic rhinitis trials.
+The two dose-ranging trials were conducted to evaluate the efficacy of levocetirizine dihydrochloride 2.5, 5, and 10 mg once daily in the evening.
 These trials were 4 weeks in duration and included patients with perennial allergic rhinitis.
 In these trials, each of the three doses of levocetirizine dihydrochloride demonstrated greater decrease in the reflective total symptom score than placebo and the difference was statistically significant for all three doses in the two studies.
 Results for one of these trials are shown in Table 4.
@@ -60,7 +61,7 @@ The single dose level trial evaluated the efficacy of levocetirizine dihydrochlo
 Levocetirizine dihydrochloride 5 mg demonstrated a greater decrease from baseline in the reflective pruritus severity score than placebo and the difference from placebo was statistically significant.
 Duration of pruritus, number and size of wheals, and instantaneous pruritus severity score also showed significant improvement over placebo.
 The significant improvement in the instantaneous pruritus severity score over placebo confirmed end of dosing interval efficacy (see Table 6).
-Table 6 Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria Trials
+Table 6: Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria Trials
 
 | Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
