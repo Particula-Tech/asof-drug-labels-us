@@ -18,7 +18,7 @@ For information on systemic supplementation, see prescribing information for tho
 Pediatric patients may be more susceptible to systemic toxicity from equivalent doses due to their larger skin surface to body mass ratios (see PRECAUTIONS: Pediatric Use).
 
 If irritation develops, clobetasol propionate should be discontinued and appropriate therapy instituted.
-Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
+Allergic contact dermatitis with corticosteroids is usually diagnosed by observing failure to healrather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
 Such an observation should be corroborated with appropriate diagnostic patch testing.
 If concomitant skin infections are present or develop, an appropriate antifungal or antibacterial agent should be used.
 If a favorable response does not occur promptly, use of clobetasol propionate should be discontinued until the infection has been adequately controlled.
@@ -45,7 +45,7 @@ The following tests may be helpful in evaluating patients for HPA axis suppressi
 
 Long-term animal studies have not been performed to evaluate the carcinogenic potential of clobetasol propionate.
 Studies in the rat following subcutaneous administration at dosage levels up to 50 mcg/kg per day revealed that the females exhibited an increase in the number of resorbed embryos and a decrease in the number of living fetuses at the highest dose.
-Clobetasol propionate was non-mutagenic in three different test systems: the Ames test, the Saccharomyces cerevisiae gene conversion assay, and the E. coli B WP2 fluctuation test.
+Clobetasol propionate was non-mutagenic in three different test systems: the Ames test, the Saccharomyces cerevisiaegene conversion assay, and the E. coliB WP2 fluctuation test.
 
 ## Pregnancy
 

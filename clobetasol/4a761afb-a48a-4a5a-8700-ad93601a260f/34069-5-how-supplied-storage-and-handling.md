@@ -6,5 +6,5 @@ Clobetasol Propionate Cream USP, 0.05% is supplied in tamper-evident tubes: 15 g
 
 Clobetasol Propionate Ointment USP, 0.05% is supplied in tamper-evident tubes: 15 g (NDC 51672-1259-1), 30 g (NDC 51672-1259-2), 45 g (NDC 51672-1259-6), and 60 g (NDC 51672-1259-3).
 
-Store at 20°-25°C (68°-77°F) [see USP Controlled Room Temperature].
+Store at 20°-25°C (68°-77°F)[see USP Controlled Room Temperature].
 DO NOT REFRIGERATE
