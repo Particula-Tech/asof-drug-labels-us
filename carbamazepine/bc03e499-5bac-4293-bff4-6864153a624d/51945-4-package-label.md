@@ -2,13 +2,11 @@
 
 NDC 54092-171-12
 
-Carbatrol® (Carbamazepine) Extended-Release Capsules
+Carbatrol ® (Carbamazepine) Extended-Release Capsules
 
 120 Capsules
 
-Rx only
-
-Should not be used with other carbamazepine containing products.
+Rx only Should not be used with other carbamazepine containing products.
 
 100 mg
 
@@ -20,13 +18,11 @@ Dispense the accompanying Medication Guide to each patient.
 
 NDC 54092-172-12
 
-Carbatrol® (Carbamazepine) Extended-Release Capsules
+Carbatrol ® (Carbamazepine) Extended-Release Capsules
 
 120 Capsules
 
-Rx only
-
-Should not be used with other carbamazepine containing products.
+Rx only Should not be used with other carbamazepine containing products.
 
 200 mg
 
@@ -38,13 +34,11 @@ Dispense the accompanying Medication Guide to each patient.
 
 NDC 54092-173-12
 
-Carbatrol® (Carbamazepine) Extended-Release Capsules
+Carbatrol ® (Carbamazepine) Extended-Release Capsules
 
 120 Capsules
 
-Rx only
-
-Should not be used with other carbamazepine containing products.
+Rx only Should not be used with other carbamazepine containing products.
 
 300 mg
 

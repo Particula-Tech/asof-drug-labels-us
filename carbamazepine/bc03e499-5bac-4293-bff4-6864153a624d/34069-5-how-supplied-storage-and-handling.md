@@ -18,11 +18,12 @@ Supplied in bottles of 120............................NDC 54092-173-12
 Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP controlled room temperature].
 PROTECT FROM LIGHT AND MOISTURE.
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
-
 To report SUSPECTED ADVERSE REACTIONS, contact Takeda Pharmaceuticals at 1-800-828-2088 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch
 
-© 2023 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
-Rev 4/2023
+Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
-CARBATROL® is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc.
+CARBATROL is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc.
+
+© 2025 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+
+Rev 6/2025

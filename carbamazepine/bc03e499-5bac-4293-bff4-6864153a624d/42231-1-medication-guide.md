@@ -226,6 +226,10 @@ In addition:
 
 This Medication Guide has been approved by the US Food and Drug Administration.
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421
+Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142
 
-Issued 4/2023
+CARBATROL is a registered trademark of Takeda Pharmaceuticals U.S.A., Inc.
+
+© 2025 Takeda Pharmaceuticals U.S.A., Inc. All rights reserved.
+
+Issued 6/2025
