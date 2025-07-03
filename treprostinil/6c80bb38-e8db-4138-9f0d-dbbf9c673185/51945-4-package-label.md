@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 0.1 mg/mL Vial Carton
 
-REMODULIN® (treprostinil) Injection
+REMODULIN~QZ#174; (treprostinil) Injection
 
 2 mg/20 mL (0.1 mg/mL)
 
@@ -12,7 +12,7 @@ United Therapeutics CORPORATION
 
 # PRINCIPAL DISPLAY PANEL - 0.2 mg/mL Vial Carton
 
-REMODULIN® (treprostinil) Injection
+REMODULIN~QZ#174; (treprostinil) Injection
 
 4 mg/20 mL (0.2 mg/mL)
 
@@ -24,7 +24,7 @@ United Therapeutics CORPORATION
 
 # PRINCIPAL DISPLAY PANEL - 0.4 mg/mL Vial Carton
 
-REMODULIN® (treprostinil) Injection
+REMODULIN~QZ#174; (treprostinil) Injection
 
 8 mg/20 mL (0.4 mg/mL)
 
@@ -36,7 +36,7 @@ United Therapeutics CORPORATION
 
 # PRINCIPAL DISPLAY PANEL - 1 mg/mL Vial Carton
 
-REMODULIN® (treprostinil) Injection
+REMODULIN~QZ#174; (treprostinil) Injection
 
 20 mg/20 mL (1 mg/mL)
 
@@ -48,7 +48,7 @@ United Therapeutics CORPORATION
 
 # PRINCIPAL DISPLAY PANEL - 2.5 mg/mL Vial Carton
 
-REMODULIN® (treprostinil) Injection
+REMODULIN~QZ#174; (treprostinil) Injection
 
 50 mg/20 mL (2.5 mg/mL)
 
@@ -60,7 +60,7 @@ United Therapeutics CORPORATION
 
 # PRINCIPAL DISPLAY PANEL - 5 mg/mL Vial Carton
 
-REMODULIN® (treprostinil) Injection
+REMODULIN~QZ#174; (treprostinil) Injection
 
 100 mg/20 mL (5 mg/mL)
 
@@ -72,7 +72,7 @@ United Therapeutics CORPORATION
 
 # PRINCIPAL DISPLAY PANEL - 10 mg/mL Vial Carton
 
-REMODULIN® (treprostinil) Injection
+REMODULIN~QZ#174; (treprostinil) Injection
 
 200 mg/20 mL (10 mg/mL)
 
@@ -84,7 +84,7 @@ United Therapeutics CORPORATION
 
 # PRINCIPAL DISPLAY PANEL - 20 mg/mL Vial Carton
 
-REMODULIN® (treprostinil) Injection
+REMODULIN~QZ#174; (treprostinil) Injection
 
 400 mg/20 mL (20 mg/mL)
 
@@ -98,16 +98,16 @@ United Therapeutics CORPORATION
 
 NDC 66302-150-50
 
-STERILE DILUENT FOR REMODULIN®
+STERILE DILUENT FOR REMODULIN~QZ#174;
 
 1 x 50 mL VIAL
 
-Contains drug diluent for use only with Intravenous Infusion of REMODULIN® (treprostinil) Injection
+Contains drug diluent for use only with Intravenous Infusion of REMODULIN~QZ#174; (treprostinil) Injection
 
 Each vial contains 94 mg glycine, 73.3 mg sodium chloride, sodium hydroxide (added to adjust pH), and Water for Injection.
 
-For dilution information see package insert for REMODULIN® (treprostinil) Injection.
+For dilution information see package insert for REMODULIN~QZ#174; (treprostinil) Injection.
 
-Store at 20 - 25°C (68 - 77°F), excursions permitted to 15 - 30°C (59 - 86°F) [See USP Controlled Room Temperature].
+Store at 20 - 25~QZ#176;C (68 - 77~QZ#176;F), excursions permitted to 15 - 30~QZ#176;C (59 - 86~QZ#176;F) [See USP Controlled Room Temperature].
 
 DO NOT FREEZE

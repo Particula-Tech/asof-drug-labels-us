@@ -24,14 +24,14 @@ Table 5: Hemodynamics during Chronic Administration of Remodulin in Patients wit
 | Remodulin (N=204-231) | Placebo (N=215-235) | Remodulin (N=163-199) | Placebo (N=182-215) |  |
 | --- | --- | --- | --- | --- |
 | Hemodynamic Parameter | Baseline |  | Mean change from baseline at Week 12 |  |
-| CI (L/min/m2) | 2.4 ± 0.88 | 2.2 ± 0.74 | +0.12 ± 0.58Denotes statistically significant difference between Remodulin and placebo, p<0.05. | -0.06 ± 0.55 |
-| PAPm (mmHg) | 62 ± 17.6 | 60 ± 14.8 | -2.3 ± 7.3 | +0.7 ± 8.5 |
-| RAPm (mmHg) | 10 ± 5.7 | 10 ± 5.9 | -0.5 ± 5.0 | +1.4 ± 4.8 |
-| PVRI (mmHg/L/min/m2) | 26 ± 13 | 25 ± 13 | -3.5 ± 8.2 | +1.2 ± 7.9 |
-| SVRI (mmHg/L/min/m2) | 38 ± 15 | 39 ± 15 | -3.5 ± 12 | -0.80 ± 12 |
-| SvO2 (%) | 62 ± 100 | 60 ± 11 | +2.0 ± 10 | -1.4 ± 8.8 |
-| SAPm (mmHg) | 90 ± 14 | 91 ± 14 | -1.7 ± 12 | -1.0 ± 13 |
-| HR (bpm) | 82 ± 13 | 82 ± 15 | -0.5 ± 11 | -0.8 ± 11 |
+| CI (L/min/m2) | 2.4 ~QZ#177; 0.88 | 2.2 ~QZ#177; 0.74 | +0.12 ~QZ#177; 0.58Denotes statistically significant difference between Remodulin and placebo, p~QZlt;0.05. | -0.06 ~QZ#177; 0.55 |
+| PAPm (mmHg) | 62 ~QZ#177; 17.6 | 60 ~QZ#177; 14.8 | -2.3 ~QZ#177; 7.3 | +0.7 ~QZ#177; 8.5 |
+| RAPm (mmHg) | 10 ~QZ#177; 5.7 | 10 ~QZ#177; 5.9 | -0.5 ~QZ#177; 5.0 | +1.4 ~QZ#177; 4.8 |
+| PVRI (mmHg/L/min/m2) | 26 ~QZ#177; 13 | 25 ~QZ#177; 13 | -3.5 ~QZ#177; 8.2 | +1.2 ~QZ#177; 7.9 |
+| SVRI (mmHg/L/min/m2) | 38 ~QZ#177; 15 | 39 ~QZ#177; 15 | -3.5 ~QZ#177; 12 | -0.80 ~QZ#177; 12 |
+| SvO2 (%) | 62 ~QZ#177; 100 | 60 ~QZ#177; 11 | +2.0 ~QZ#177; 10 | -1.4 ~QZ#177; 8.8 |
+| SAPm (mmHg) | 90 ~QZ#177; 14 | 91 ~QZ#177; 14 | -1.7 ~QZ#177; 12 | -1.0 ~QZ#177; 13 |
+| HR (bpm) | 82 ~QZ#177; 13 | 82 ~QZ#177; 15 | -0.5 ~QZ#177; 11 | -0.8 ~QZ#177; 11 |
 | CI, cardiac index; PAPm, mean pulmonary arterial pressure; PVRI, pulmonary vascular resistance indexed; RAPm, mean right atrial pressure; SAPm, mean systemic arterial pressure; SVRI, systemic vascular resistance indexed; SvO2, mixed venous oxygen saturation; HR, heart rate |  |  |  |  |
 
 Clinical Effects

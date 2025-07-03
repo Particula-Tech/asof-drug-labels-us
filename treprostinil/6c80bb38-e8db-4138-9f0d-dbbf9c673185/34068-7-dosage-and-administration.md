@@ -11,9 +11,9 @@ Table 1: Selection of Diluent
 
 | Diluent | Storage Limits | Administration Limits |
 | --- | --- | --- |
-| None | See Section 16 | 16 weeks at 40°C |
-| Sterile Diluents for Remodulin, Flolan, or Epoprostenol | 14 days at room temperature | 48 hours at 40°C |
-| Sterile Water for Injection 0.9% Sodium Chloride for Injection | 4 hours at room temperature or 24 hours refrigerated | 48 hours at 40°C |
+| None | See Section 16 | 16 weeks at 40~QZ#176;C |
+| Sterile Diluents for Remodulin, Flolan, or Epoprostenol | 14 days at room temperature | 48 hours at 40~QZ#176;C |
+| Sterile Water for Injection 0.9% Sodium Chloride for Injection | 4 hours at room temperature or 24 hours refrigerated | 48 hours at 40~QZ#176;C |
 
 ## 2.2 Initial Dose for Patients New to Prostacyclin Infusion Therapy
 
@@ -48,11 +48,11 @@ If either particulate matter or discoloration is noted, do not use.
 
 Preparation
 
-Remodulin is administered by subcutaneous or intravenous infusion at a calculated rate based on a patient's dose (ng/kg/min), weight (kg), and the Remodulin concentration (mg/mL).
+Remodulin is administered by subcutaneous or intravenous infusion at a calculated rate based on a patient~QZapos;s dose (ng/kg/min), weight (kg), and the Remodulin concentration (mg/mL).
 
 For administration of Undiluted Remodulin the rate is calculated using the following formula:
 
-|  | Undiluted Infusion Rate (mL/hour) | = | Dose (ng/kg/min) | × | Weight (kg) | × | 0.00006Conversion factor of 0.00006 = 60 min/hour × 0.000001 mg/ng |
+|  | Undiluted Infusion Rate (mL/hour) | = | Dose (ng/kg/min) | ~QZ#215; | Weight (kg) | ~QZ#215; | 0.00006Conversion factor of 0.00006 = 60 min/hour ~QZ#215; 0.000001 mg/ng |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Remodulin Vial Strength (mg/mL) |  |  |  |  |  |  |
 
@@ -60,7 +60,7 @@ For administration of Diluted Remodulin, the concentration is calculated using t
 
 Step 1
 
-|  | Diluted Remodulin Concentration (mg/mL) |  | Dose (ng/kg/min) | × | Weight (kg) | × | 0.00006 |
+|  | Diluted Remodulin Concentration (mg/mL) |  | Dose (ng/kg/min) | ~QZ#215; | Weight (kg) | ~QZ#215; | 0.00006 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | = |  |  |  |  |  |  |
 |  | Infusion Rate (mL/hour) |  |  |  |  |  |  |
@@ -69,7 +69,7 @@ The volume of Remodulin Injection needed to make the required diluted Remodulin 
 
 Step 2
 
-| Volume of Remodulin Injection (mL) | = | Diluted Remodulin Concentration (mg/mL) | × | Total Volume of Diluted Remodulin Solution in Reservoir (mL) |
+| Volume of Remodulin Injection (mL) | = | Diluted Remodulin Concentration (mg/mL) | ~QZ#215; | Total Volume of Diluted Remodulin Solution in Reservoir (mL) |
 | --- | --- | --- | --- | --- |
 | Remodulin Vial Strength (mg/mL) |  |  |  |  |
 
@@ -78,7 +78,7 @@ The calculated volume of Remodulin Injection is then added to the reservoir alon
 Subcutaneous Infusion
 
 Remodulin is administered subcutaneously by continuous infusion, via a subcutaneous catheter, using an infusion pump designed for subcutaneous drug delivery.
-The infusion pump should: (1) be adjustable to approximately 0.002 mL/hour, (2) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (3) have delivery accuracy of ±6% or better, (4) be positive pressure-driven, and (5) have a reservoir made of polyvinyl chloride, polypropylene or glass.
+The infusion pump should: (1) be adjustable to approximately 0.002 mL/hour, (2) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (3) have delivery accuracy of ~QZ#177;6% or better, (4) be positive pressure-driven, and (5) have a reservoir made of polyvinyl chloride, polypropylene or glass.
 Alternatively, use an infusion pump cleared for use with Remodulin.
 To avoid potential interruptions in drug delivery, the patient must have immediate access to a backup infusion pump and subcutaneous infusion sets.
 
@@ -89,7 +89,7 @@ External Intravenous Infusion Pump:
 Remodulin is administered intravenously by continuous infusion via a surgically placed indwelling central venous catheter using an external infusion pump designed for intravenous drug delivery.
 If clinically necessary, a temporary peripheral intravenous cannula, preferably placed in a large vein, may be used for short term administration of Remodulin.
 Use of a peripheral intravenous infusion for more than a few hours increases the risk of thrombophlebitis.
-The infusion pump used to administer Remodulin should: (1) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (2) have delivery accuracy of ±6% or better, (3) be positive pressure driven, and (4) have a reservoir made of polyvinyl chloride, polypropylene or glass.
+The infusion pump used to administer Remodulin should: (1) have occlusion/no delivery, low battery, programming error and motor malfunction alarms, (2) have delivery accuracy of ~QZ#177;6% or better, (3) be positive pressure driven, and (4) have a reservoir made of polyvinyl chloride, polypropylene or glass.
 Alternatively, use an infusion pump cleared for use with Remodulin.
 To avoid potential interruptions in drug delivery, the patient must have immediate access to a backup infusion pump and infusion sets.
 
@@ -97,8 +97,8 @@ Infusion sets with an in-line 0.22- or 0.2-micron pore size filter should be use
 
 Implantable Intravenous Infusion Pump:
 
-Use an implantable intravenous infusion pump approved for use with Remodulin, such as the Implantable System for Remodulin® (ISR).
-Refer to the pump manufacturer's manual for specific instructions regarding preparation, programing, implantation, and refilling.
+Use an implantable intravenous infusion pump approved for use with Remodulin, such as the Implantable System for Remodulin~QZ#174; (ISR).
+Refer to the pump manufacturer~QZapos;s manual for specific instructions regarding preparation, programing, implantation, and refilling.
 
 ## 2.7 Patients Requiring Transition from Epoprostenol
 
@@ -107,7 +107,7 @@ The transition to Remodulin should take place in a hospital with constant observ
 Initiate Remodulin at a recommended dose of 10% of the current epoprostenol dose, and then escalate as the epoprostenol dose is decreased (see Table 2 for recommended dose titrations).
 
 Patients are individually titrated to a dose that allows transition from epoprostenol therapy to Remodulin while balancing prostacyclin-limiting adverse events.
-Treat increases in the patient's symptoms of PAH first with increases in the dose of Remodulin.
+Treat increases in the patient~QZapos;s symptoms of PAH first with increases in the dose of Remodulin.
 Treat side effects normally associated with prostacyclin and prostacyclin analogs first by decreasing the dose of epoprostenol.
 
 Table 2: Recommended Transition Dose Changes
