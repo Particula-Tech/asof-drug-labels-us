@@ -4,12 +4,12 @@
 
 ### Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), including levetiracetam tablets, during pregnancy.
-Encourage women who are taking levetiracetam tablets during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), including levetiracetam, during pregnancy.
+Encourage women who are taking levetiracetam during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
 
 ### Risk Summary
 
-Prolonged experience with levetiracetam tablets in pregnant women has not identified a drug-associated risk of major birth defects or miscarriage, based on published literature, which includes data from pregnancy registries and reflects experience over two decades [see Human Data].
+Prolonged experience with levetiracetam in pregnant women has not identified a drug-associated risk of major birth defects or miscarriage, based on published literature, which includes data from pregnancy registries and reflects experience over two decades [see Human Data].
 In animal studies, levetiracetam produced developmental toxicity (increased embryofetal and offspring mortality, increased incidences of fetal structural abnormalities, decreased embryofetal and offspring growth, neurobehavioral alterations in offspring) at doses similar to human therapeutic doses [see Animal Data].
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
@@ -17,7 +17,7 @@ The background risk of major birth defects and miscarriage for the indicated pop
 
 ### Clinical Considerations
 
-Levetiracetam blood levels may decrease during pregnancy [see Warnings and Precautions (5.10)].
+Levetiracetam blood levels may decrease during pregnancy [see Warnings and Precautions (5.11)].
 
 Physiological changes during pregnancy may affect levetiracetam concentration.
 Decrease in levetiracetam plasma concentrations has been observed during pregnancy.
@@ -50,27 +50,27 @@ Oral administration of levetiracetam to rats during the latter part of gestation
 ### Risk Summary
 
 Levetiracetam is excreted in human milk.
-There are no data on the effects of levetiracetam tablets on the breastfed infant, or the effects on milk production.
+There are no data on the effects of levetiracetam on the breastfed infant, or the effects on milk production.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for levetiracetam tablets and any potential adverse effects on the breastfed infant from levetiracetam tablets or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for levetiracetam and any potential adverse effects on the breastfed infant from levetiracetam or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of levetiracetam tablets for the treatment of partial-onset seizures in patients 1 month to 16 years of age have been established [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
+The safety and effectiveness of levetiracetam for the treatment of partial-onset seizures in patients 1 month to 16 years of age have been established [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
 The dosing recommendation in these pediatric patients varies according to age group and is weight-based [see Dosage and Administration (2.2)].
 
-The safety and effectiveness of levetiracetam tablets as adjunctive therapy for the treatment of myoclonic seizures in adolescents 12 years of age and older with juvenile myoclonic epilepsy have been established [see Clinical Studies (14.2)].
+The safety and effectiveness of levetiracetam as adjunctive therapy for the treatment of myoclonic seizures in adolescents 12 years of age and older with juvenile myoclonic epilepsy have been established [see Clinical Studies (14.2)].
 
-The safety and effectiveness of levetiracetam tablets as adjunctive therapy for the treatment of primary generalized tonic-clonic seizures in pediatric patients 6 years of age and older with idiopathic generalized epilepsy have been established [see Clinical Studies (14.3)].
+The safety and effectiveness of levetiracetam as adjunctive therapy for the treatment of primary generalized tonic-clonic seizures in pediatric patients 6 years of age and older with idiopathic generalized epilepsy have been established [see Clinical Studies (14.3)].
 
 Safety and effectiveness for the treatment of partial-onset seizures in pediatric patients below the age of 1 month; adjunctive therapy for the treatment of myoclonic seizures in pediatric patients below the age of 12 years; and adjunctive therapy for the treatment of primary generalized tonic-clonic seizures in pediatric patients below the age of 6 years have not been established.
 
-A 3-month, randomized, double-blind, placebo-controlled study was performed to assess the neurocognitive and behavioral effects of levetiracetam tablets as adjunctive therapy in 98 (levetiracetam tablets N = 64, placebo N = 34) pediatric patients, ages 4 to 16 years old, with partial seizures that were inadequately controlled.
+A 3-month, randomized, double-blind, placebo-controlled study was performed to assess the neurocognitive and behavioral effects of levetiracetam as adjunctive therapy in 98 (levetiracetam N = 64, placebo N = 34) pediatric patients, ages 4 to 16 years old, with partial seizures that were inadequately controlled.
 The target dose was 60 mg/kg/day.
 Neurocognitive effects were measured by the Leiter-R Attention and Memory (AM) Battery, which measures various aspects of a child's memory and attention.
 Although no substantive differences were observed between the placebo and drug treated groups in the median change from baseline in this battery, the study was not adequate to assess formal statistical non-inferiority of the drug and placebo.
 The Achenbach Child Behavior Checklist (CBCL/6-18), a standardized validated tool used to assess a child’s competencies and behavioral/emotional problems, was also assessed in this study.
-An analysis of the CBCL/6-18 indicated on average a worsening in levetiracetam tablets-treated patients in aggressive behavior, one of the eight syndrome scores [see Warnings and Precautions (5.1)].
+An analysis of the CBCL/6-18 indicated on average a worsening in levetiracetam-treated patients in aggressive behavior, one of the eight syndrome scores [see Warnings and Precautions (5.1)].
 
 ### Juvenile Animal Toxicity Data
 
@@ -78,9 +78,9 @@ Studies of levetiracetam in juvenile rats (dosed on postnatal days 4 through 52)
 
 ## 8.5 Geriatric Use
 
-There were 347 subjects in clinical studies of levetiracetam tablets that were 65 and over.
+There were 347 subjects in clinical studies of levetiracetam that were 65 and over.
 No overall differences in safety were observed between these subjects and younger subjects.
-There were insufficient numbers of elderly subjects in controlled trials of epilepsy to adequately assess the effectiveness of levetiracetam tablets in these patients.
+There were insufficient numbers of elderly subjects in controlled trials of epilepsy to adequately assess the effectiveness of levetiracetam in these patients.
 
 Levetiracetam is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Clinical Pharmacology (12.3)].
