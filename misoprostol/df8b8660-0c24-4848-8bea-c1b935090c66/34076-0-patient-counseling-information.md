@@ -54,9 +54,9 @@ Inform patients not to use low-dose aspirin concomitantly with diclofenac sodium
 
 Manufactured By:
 
-Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals
 
 Parsippany, NJ 07054
 
 Rev.
-H 12/2024
+I 5/2025
