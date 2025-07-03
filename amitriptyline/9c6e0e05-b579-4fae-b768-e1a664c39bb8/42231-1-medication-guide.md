@@ -83,7 +83,7 @@ Stopping an antidepressant medicine suddenly can cause other symptoms.
   Keep a list of all medicines to show the healthcare provider.
   Do not start new medicines without first checking with your healthcare provider.
 - Not all antidepressant medicines prescribed for children are FDA approved for use in children.Talk to your child's healthcare provider for more information.
-- Tell your healthcare provider if have low sodium levels in your blood during treatment with Amitriptyline hydrochloride.
+- Tell your healthcare provider if you have low sodium levels in your blood during treatment with Amitriptyline hydrochloride tablets.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1- 800-FDA-1088.
@@ -103,6 +103,6 @@ Manufactured for:
 
 East Brunswick, NJ 08816
 
-03-R-03/2025
+04-R-06/2025
 
 13016326

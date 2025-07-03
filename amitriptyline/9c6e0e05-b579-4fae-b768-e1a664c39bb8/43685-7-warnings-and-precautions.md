@@ -89,13 +89,13 @@ Delirium has been reported with concurrent administration of amitriptyline and d
 
 ## Hyponatremia
 
-Hyponatremia has occurred as a result of treatment with Amitriptyline hydrochloride.
+Hyponatremia has occurred as a result of treatment with Amitriptyline hydrochloride tablets.
 In many cases, hyponatremia appears to be the result of the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 Signs and symptoms of hyponatremia include headache, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which may lead to falls.
 Signs and symptoms associated with more severe and/or acute cases have included syncope, seizure, coma, respiratory arrest, and death.
 
-In patients with symptomatic hyponatremia, discontinue Amitriptyline hydrochloride and institute appropriate medical intervention.
-Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia with Amitriptyline hydrochloride.
+In patients with symptomatic hyponatremia, discontinue Amitriptyline hydrochloride tablets and institute appropriate medical intervention.
+Elderly patients, patients taking diuretics, and those who are volume-depleted may be at greater risk of developing hyponatremia with Amitriptyline hydrochloride tablets.
 
 ## Angle-Closure Glaucoma
 
