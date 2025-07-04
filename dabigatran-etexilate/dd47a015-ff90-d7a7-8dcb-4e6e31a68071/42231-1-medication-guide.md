@@ -29,9 +29,9 @@ DABIGATRAN ETEXILATE CAPSULES
 
 For more information about dabigatran etexilate capsules, including current prescribing information and Medication Guide, go to www.apotex.com or call Apotex Corp at 1-800-706-5575.
 
-Revised: December 2023
+Revised: June 2025
 
 Rev.
-8
+9
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
