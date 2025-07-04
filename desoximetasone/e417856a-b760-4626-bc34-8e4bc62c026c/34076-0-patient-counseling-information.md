@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Patient Information and Instructions for Use)
+See FDA-approved patient labeling (Patient Informationand Instructions for Use)
 
 Inform patients of the following:
 
@@ -16,7 +16,7 @@ Inform patients of the following:
 - Advise patients that Topicort Topical Spray may require periodic evaluation for HPA axis suppression.
   Topical corticosteroids may have other endocrine effects [see Warnings and Precautions (5.1)].
 - Advise women to use Topicort Topical Spray on the smallest area of skin and for the shortest duration possible while pregnant or breastfeeding.
-  Advise breastfeeding women not to apply Topicort Topical Spray directly to the nipple and areola to avoid direct infant exposure [see Use in Specific Populations (8.1 and 8.2)].
+  Advise breastfeeding women not to apply Topicort Topical Spray directly to the nipple and areola to avoid direct infant exposure [see Use in Specific Populations (8.1and 8.2)].
 - Report any signs of local or systemic adverse reactions including any visual symptoms to the physician.
 - This medication is flammable; avoid heat, flame, or smoking when applying this product.
 - Discard this product 30 days after dispensed by pharmacist.

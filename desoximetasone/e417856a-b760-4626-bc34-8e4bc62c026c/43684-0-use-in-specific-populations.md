@@ -32,7 +32,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 Clinical Considerations
 
 To minimize potential exposure to the breastfed infant via breast milk, use Topicort Topical Spray on the smallest area of skin and for the shortest duration possible while breastfeeding.
-Advise breastfeeding women not to apply Topicort Topical Spray directly to the nipple and areola to avoid direct infant exposure [see Warnings and Precautions (5.1) and Use in Specific Populations (8.4)].
+Advise breastfeeding women not to apply Topicort Topical Spray directly to the nipple and areola to avoid direct infant exposure [see Warnings and Precautions (5.1)and Use in Specific Populations (8.4)].
 
 ## 8.4 Pediatric Use
 

@@ -1,6 +1,6 @@
-Instructions for Use TOPICORT® (Top-i-cort) (desoximetasone) topical spray
+Instructions for Use TOPICORT ®(Top-i-cort) (desoximetasone) topical spray
 
-| Important information: Topicort Topical Spray is for use on skin (topical) only. Do not get Topicort Topical Spray near or in your mouth, eyes or vagina. |
+| Important information: Topicort Topical Spray is for use on skin (topical) only.Do not get Topicort Topical Spray near or in your mouth, eyes or vagina. |
 | --- |
 
 Read the Instructions for Use before you start using Topicort Topical Spray and each time you get a refill.
@@ -13,16 +13,16 @@ Figure A
 
 How to apply Topicort Topical Spray:
 
-Step 1: Remove the cap from the pump top.
+Step 1:Remove the cap from the pump top.
 
-Step 2: Hold the bottle in an upright position while pointing the opening of the pump top in the direction of the affected area.
+Step 2:Hold the bottle in an upright position while pointing the opening of the pump top in the direction of the affected area.
 To spray, push down on the pump top.
 Apply Topicort Topical Spray to the affected area as instructed by your doctor.
 (See Figure B).
 
 Figure B
 
-Step 3: Spray only enough Topicort Topical Spray to cover the affected area, for example, the elbow (See Figure C). Rub in Topicort Topical Spray gently to the affected area.
+Step 3:Spray only enough Topicort Topical Spray to cover the affected area, for example, the elbow (See Figure C). Rub in Topicort Topical Spray gently to the affected area.
 
 Figure C
 
@@ -45,6 +45,6 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Mfd by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: TaroPharma a division of Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532
 
-Topicort® and TaroPharma® are registered trademarks of Taro Pharmaceuticals U.S.A., Inc. and/or its affiliates.
+Topicort ®and TaroPharma ®are registered trademarks of Taro Pharmaceuticals U.S.A., Inc. and/or its affiliates.
 
 Revised: September 2021 PK-7265-0 110

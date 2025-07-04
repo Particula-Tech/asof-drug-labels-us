@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied/Storage
 
-Topicort® (desoximetasone) Topical Spray, 0.25% is a clear colorless liquid supplied in white, opaque bottles with white, opaque screw caps in the following sizes:
+Topicort ®(desoximetasone) Topical Spray, 0.25% is a clear colorless liquid supplied in white, opaque bottles with white, opaque screw caps in the following sizes:
 
 - 30 mL (NDC 51672-5281-3)
 - 50 mL (NDC 51672-5281-4)

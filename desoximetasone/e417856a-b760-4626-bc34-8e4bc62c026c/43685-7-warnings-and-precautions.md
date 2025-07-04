@@ -23,7 +23,7 @@ Cushing's syndrome, hyperglycemia, and unmasking of latent diabetes mellitus can
 Use of more than one corticosteroid-containing product at the same time may increase the total systemic corticosteroid exposure.
 
 Pediatric patients may be more susceptible to systemic toxicity from use of topical corticosteroids.
-Use in patients under 18 years of age is not recommended due to numerically high rates of HPA axis suppression (the safety and effectiveness of Topicort Topical Spray have not been established in pediatric patients) [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.2)].
+Use in patients under 18 years of age is not recommended due to numerically high rates of HPA axis suppression (the safety and effectiveness of Topicort Topical Spray have not been established in pediatric patients) [see Use in Specific Populations (8.4)and Clinical Pharmacology (12.2)].
 
 ## 5.2 Local Adverse Reactions with Topical Corticosteroids
 
