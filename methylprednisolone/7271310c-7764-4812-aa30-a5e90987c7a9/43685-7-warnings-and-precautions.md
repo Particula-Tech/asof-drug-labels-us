@@ -268,7 +268,7 @@ Steroids may increase or decrease motility and number of spermatozoa in some pat
 
 Corticosteroids have been shown to impair fertility in male rats.
 
-## Pregnancy
+## Pregnancy:
 
 ### Teratogenic Effects
 
