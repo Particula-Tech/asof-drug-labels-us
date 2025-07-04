@@ -1,4 +1,4 @@
-| Medication Guide KHINDIVI® (kɪn-dɪv-i) (hydrocortisone) oral solution |  |  |  |  |  |  |  |  |
+| Medication Guide KHINDIVI™ (kɪn-dɪv-i) (hydrocortisone) oral solution |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Read this Medication Guide before you start giving KHINDIVI to your child, and each time your child gets a refill. There may be new information. This information does not take the place of talking to your healthcare provider about your child's medical condition or treatment. |  |  |  |  |  |  |  |  |
 | What is the most important information I should know about KHINDIVI? |  |  |  |  |  |  |  |  |
@@ -34,7 +34,7 @@
 | What are the ingredients in KHINDIVI? |  |  |  |  |  |  |  |  |
 | Active ingredient: hydrocortisone |  |  |  |  |  |  |  |  |
 | Inactive ingredients: berry flavor, butylated hydroxyanisole, ethyl maltol, glycerin, methylparaben, propylparaben, polyethylene glycol, propylene glycol, and sucralose. |  |  |  |  |  |  |  |  |
-| KHINDIVI is manufactured for Eton Pharmaceuticals, Inc. by Tulex Pharmaceuticals, Inc., 5 Cedarbrook Dr., Cranbury, NJ 08512, USA. KHINDIVI® is a registered trademark of Eton Pharmaceuticals, Inc. KHINDIVI is covered by the following US patent: 11,904,046. For more information, go to www.KHINDIVI.com or call 1-833-343-2500. |  |  |  |  |  |  |  |  |
+| KHINDIVI is manufactured for Eton Pharmaceuticals, Inc. by Tulex Pharmaceuticals, Inc., 5 Cedarbrook Dr., Cranbury, NJ 08512, USA. KHINDIVI is covered by the following US patent: 11,904,046. For more information, go to www.KHINDIVI.com or call 1-833-343-2500. |  |  |  |  |  |  |  |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |  |  |  |  | Issued: 06/2025 |  |  |
 
-PL-2-1.0
+PL-2-2.0
