@@ -24,7 +24,7 @@ A more severe clinical presentation may require treatment with methylene blue, e
 ## General
 
 The safety and effectiveness of lidocaine depend on proper dosage, correct technique, adequate precautions and readiness for emergencies.
-(See WARNINGS and ADVERSE REACTIONS.)
+(See WARNINGSand ADVERSE REACTIONS.)
 
 The lowest dosage that results in effective anesthesia should be used to avoid high plasma levels and serious adverse effects.
 
