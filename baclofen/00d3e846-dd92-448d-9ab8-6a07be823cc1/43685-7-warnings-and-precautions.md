@@ -21,7 +21,7 @@ Procedures should also be put in place while refilling implantable intrathecal p
 
 5.3 Prescriber, Caregiver and Patient Training and Screening Procedure/Post-Implantation Environment
 
-GABLOFEN is for use in single bolus intrathecal injections (via a catheter placed in the lumbar intrathecal space or injection by lumbar puncture) and in the implantable Medtronic SynchroMed® Programmable Pump or other pumps labeled for intrathecal administration of GABLOFEN.
+GABLOFEN is for use in single bolus intrathecal injections (via a catheter placed in the lumbar intrathecal space or injection by lumbar puncture) and in the implantable Medtronic SynchroMed ® Programmable Pump or other pumps labeled for intrathecal administration of GABLOFEN.
 Because of the possibility of potentially life-threatening CNS depression, cardiovascular collapse, and/or respiratory failure, physicians must be adequately trained and educated in chronic intrathecal infusion therapy.
 
 The pump system should not be implanted until the patient's response to bolus GABLOFEN injection is adequately evaluated.
@@ -43,7 +43,7 @@ Signs of overdose may appear suddenly or insidiously.
 Acute massive overdose may present as coma.
 Less sudden and/or less severe forms of overdose may present with signs of drowsiness, lightheadedness, dizziness, somnolence, respiratory depression, seizures, rostral progression of hypotonia and loss of consciousness progressing to coma.
 Should overdose appear likely, the patient should be taken immediately to a hospital for assessment and emptying of the pump reservoir.
-In cases reported to date, overdose has generally been related to pump malfunction or dosing error [see Overdosage (10)]
+In cases reported to date, overdose has generally been related to pump malfunction or dosing error [seeOverdosage (10)]
 
 Extreme caution must be used when filling the implantable pump.
 
