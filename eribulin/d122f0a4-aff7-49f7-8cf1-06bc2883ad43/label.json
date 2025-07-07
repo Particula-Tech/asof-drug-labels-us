@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA214310"
+  ],
+  "inn": "eribulin",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "0781-3391-94"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "eribulin mesylate",
+      "name": "Eribulin Mesylate"
+    }
+  ],
+  "setid": "d122f0a4-aff7-49f7-8cf1-06bc2883ad43",
+  "source": "dailymed"
+}
