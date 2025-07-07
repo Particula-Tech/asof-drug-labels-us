@@ -10,7 +10,7 @@ Methotrexate Injection is indicated for the prophylaxis and treatment of meninge
 
 ## 1.3 Non-Hodgkin Lymphoma
 
-Methotrexate Injection is indicated for the treatment of adults and pediatric patients with Non-Hodgkin lymphoma.
+Methotrexate Injection is indicated for the treatment of adults and pediatric patients with non-Hodgkin lymphoma.
 
 ## 1.4 Osteosarcoma
 
@@ -22,7 +22,7 @@ Methotrexate Injection is indicated for the treatment of adults with breast canc
 
 ## 1.6 Squamous Cell Carcinoma of the Head and Neck
 
-Methotrexate Injection is indicated for the treatment of adults with squamous cell carcinoma of the head and neck as a single-agent.
+Methotrexate Injection is indicated for the treatment of adults with squamous cell carcinoma of the head and neck as a single agent.
 
 ## 1.7 Gestational Trophoblastic Neoplasia
 

@@ -5,7 +5,7 @@
   Advise females and males of reproductive potential to use effective contraception [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.1, 8.3)].
 - •Methotrexate Injection is contraindicated in patients with a history of severe hypersensitivity reactions to methotrexate, including anaphylaxis [see Contraindications (4) and Warnings and Precautions (5.2)].
 - •Formulations with benzyl alcohol can cause severe central nervous toxicity or metabolic acidosis.
-  Use only preservative-free Methotrexate Injection for treatment of neonates or low-birth weight infants and for intrathecal use.
+  Use only preservative-free Methotrexate Injection for treatment of neonates or low birth weight infants and for intrathecal use.
   Do not use benzyl alcohol-containing formulations for high-dose regimens unless immediate treatment is required and preservative-free formulations are not available [see Dosage and Administration (2.1) and Warnings and Precautions (5.3)].
 - •Other serious adverse reactions, including death, have been reported with methotrexate.
   Closely monitor for infections and adverse reactions of the bone marrow, kidneys, liver, nervous system, gastrointestinal tract, lungs, and skin.

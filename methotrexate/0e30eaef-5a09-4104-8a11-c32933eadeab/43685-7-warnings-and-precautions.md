@@ -8,8 +8,8 @@ Methotrexate Injection is contraindicated for use in pregnant women with non-neo
 Advise pregnant women with neoplastic diseases of the potential risk to a fetus.
 The preservative benzyl alcohol can cross the placenta; when possible, use the preservative-free formulation when Methotrexate Injection is needed during pregnancy to treat a neoplastic disease [see Warnings and Precautions (5.3)].
 
-Advise females of reproductive potential to use effective contraception during Methotrexate Injection treatment and for 6 months after the final dose.
-Advise males with female partners of reproductive potential to use effective contraception during Methotrexate Injection treatment and for 3 months after the final dose [see Contraindications (4) and Use in Specific Populations (8.1, 8.3, 8.4)].
+Advise females of reproductive potential to use effective contraception during Methotrexate Injection treatment and for 6 months after the last dose.
+Advise males with female partners of reproductive potential to use effective contraception during Methotrexate Injection treatment and for 3 months after the last dose [see Contraindications (4) and Use in Specific Populations (8.1, 8.3, 8.4)].
 
 ## 5.2 Hypersensitivity Reactions
 
@@ -18,17 +18,17 @@ If signs or symptoms of anaphylaxis or any other serious hypersensitivity reacti
 
 ## 5.3 Risks of Serious Adverse Reactions due to Benzyl Alcohol-Preservative
 
-Formulations with benzyl alcohol can cause severe central nervous toxicity or metabolic acidosis, if used in neonates or low-birth weight infants, intrathecally, or in high-dose regimens.
-Use only preservative-free Methotrexate Injection for treatment of neonates or low-birth weight infants and for intrathecal use.
+Formulations with benzyl alcohol can cause severe central nervous toxicity or metabolic acidosis, if used in neonates or low birth weight infants, intrathecally, or in high-dose regimens.
+Use only preservative-free Methotrexate Injection for treatment of neonates or low birth weight infants and for intrathecal use.
 Do not use benzyl alcohol-containing formulations for high-dose regimens unless immediate treatment is required, and preservative-free formulations are not available.
 The preservative benzyl alcohol can cross the placenta; when possible, use the preservative-free formulation when Methotrexate Injection is needed during pregnancy to treat a neoplastic disease [see Use in Specific Populations (8.1)].
 
-Serious and Fatal Adverse Reactions Including Gasping Syndrome in Neonates and Low-Birth Weight Infants
+Serious and Fatal Adverse Reactions Including Gasping Syndrome in Neonates and Low Birth Weight Infants
 
 Serious and fatal adverse reactions including "gasping syndrome" can occur in neonates and low birth weight infants treated with drugs containing benzyl alcohol, including Methotrexate Injection with preservative.
 The "gasping syndrome" is characterized by central nervous system (CNS) depression, metabolic acidosis, and gasping respirations.
 
-When prescribing in infants (non-neonate, non-low-birth weight), if a preservative-free formulation of Methotrexate Injection is not available and use of a benzyl alcohol-containing formulation is necessary, consider the combined daily metabolic load of benzyl alcohol from all sources including Methotrexate Injection (Methotrexate Injection contains 9.4 mg of benzyl alcohol/per mL) and other drugs containing benzyl alcohol.
+When prescribing in infants (non-neonate, non-low birth weight), if a preservative-free formulation of Methotrexate Injection is not available and use of a benzyl alcohol-containing formulation is necessary, consider the combined daily metabolic load of benzyl alcohol from all sources including Methotrexate Injection (Methotrexate Injection contains 9.4 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.
 The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Use in Specific Populations (8.4)].
 
 Neurotoxicity Due to Intrathecal Administration
@@ -57,7 +57,7 @@ Withhold or discontinue Methotrexate Injection in patients who develop serious i
 ## 5.6 Renal Toxicity
 
 Methotrexate can cause renal toxicity including irreversible acute renal failure.
-Monitor renal function and withhold or discontinue methotrexate as needed for severe renal toxicity.
+Monitor renal function and withhold or discontinue Methotrexate Injection as needed for severe renal toxicity.
 
 For patients receiving high-dose regimens, follow recommendations to decrease the risk of renal injury and mitigate renal toxicity [see Dosage and Administration (2.2)].
 
@@ -123,10 +123,11 @@ Severe, including fatal, dermatologic reactions, such as toxic epidermal necroly
 
 Psoriasis may be aggravated by concomitant exposure to ultraviolet radiation.
 
-Methotrexate can also cause radiation recall dermatitis and photodermatitis (sunburn) reactivation.
+Methotrexate can cause radiation recall, photodermatitis (sunburn) reactivation, photosensitivity, and severe sunburn reactions.
+Advise patients to limit sun exposure while taking Methotrexate Injection.
+Advise patients when outdoors to wear a hat and protective clothing and use a broad-spectrum Ultraviolet A (UVA)/Ultraviolet B (UVB) sunscreen and lip balm (SPF ≥30) to help protect against sunburn.
 
 Monitor patients for signs of dermatologic toxicity and withhold or permanently discontinue Methotrexate Injection for severe dermatologic adverse reactions.
-Counsel patients to avoid excessive sun exposure and use sun protection measures.
 
 ## 5.12 Folic Acid Supplementation
 
@@ -167,9 +168,9 @@ Based on published reports, methotrexate can cause impairment of fertility, olig
 It is not known if the infertility may be reversible in affected patients.
 Discuss the risk of effects on reproduction with female and male patients of reproductive potential [see Use in Specific Populations (8.3)].
 
-## 5.17 Increased Risk of Adverse Reactions Due to Third Space Accumulation
+## 5.17 Increased Risk of Adverse Reactions Due to Third-Space Accumulation
 
-Methotrexate can exit slowly from third space accumulations resulting in prolonged terminal plasma half-life and toxicity.
+Methotrexate can exit slowly from third-space accumulations resulting in prolonged terminal plasma half-life and toxicity.
 Evacuate significant third-space accumulations prior to Methotrexate Injection administration [see Clinical Pharmacology (12.3)].
 
 ## 5.18 Increased Risk of Soft Tissue and Bone Toxicity with Concomitant Radiotherapy

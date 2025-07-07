@@ -13,7 +13,7 @@ The following adverse reactions are described, or described in greater detail, i
 - •Dermatologic Reactions [see Warnings and Precautions (5.11)]
 - •Secondary Malignancies [see Warnings and Precautions (5.13)]
 - •Tumor Lysis Syndrome [see Warnings and Precautions (5.14)]
-- •Increased Risk of Adverse Reactions due to Third Space Accumulation [see Warnings and Precautions (5.17)]
+- •Increased Risk of Adverse Reactions due to Third-Space Accumulation [see Warnings and Precautions (5.17)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -24,7 +24,7 @@ Other frequently reported adverse reactions are infection, malaise, fatigue, chi
 
 Rheumatoid Arthritis
 
-The approximate incidences of methotrexate-attributed (i.e., placebo rate subtracted) adverse reactions in 12- to 18-week double-blind studies in patients (n=128) with RA treated with low-dose oral (7.5 mg per week to 15 mg per week) pulse methotrexate are listed below.
+The approximate incidences of methotrexate-attributed (i.e., placebo rate subtracted) adverse reactions in 12- to 18-week double-blind studies in patients (n = 128) with RA treated with low-dose oral (7.5 mg per week to 15 mg per week) pulse methotrexate are listed below.
 Most patients were on concomitant NSAIDs and some received corticosteroids.
 Hepatic histology was not examined in these short-term studies.
 
@@ -34,7 +34,7 @@ Incidence 3% to <10%: Stomatitis, thrombocytopenia (platelet count less than 100
 
 Incidence 1% to <3%: Rash/pruritus/dermatitis, diarrhea, alopecia, leukopenia (white blood cell count less than 3000/mm3), pancytopenia, dizziness.
 
-Two other controlled trials of patients (n=680) with RA on 7.5 mg per week to 15 mg per week oral doses showed the following adverse reactions:
+Two other controlled trials of patients (n = 680) with RA on 7.5 mg per week to 15 mg per week oral doses showed the following adverse reactions:
 
 Incidence 1%: Interstitial pneumonitis.
 
@@ -46,12 +46,12 @@ The approximate incidences of adverse reactions reported in patients 2 to 18 yea
 
 Psoriasis
 
-In two published series of adult psoriasis patients (n=204, 248) treated with methotrexate doses up to 25 mg per week for up to 4 years, adverse reaction rates were similar to those in patients with RA, except for alopecia, photosensitivity, and "burning of skin lesions" (each 3% to 10%).
+In two published series of adult psoriasis patients (n = 204, 248) treated with methotrexate doses up to 25 mg per week for up to 4 years, adverse reaction rates were similar to those in patients with RA, except for alopecia, photosensitivity, and "burning of skin lesions" (each 3% to 10%).
 Painful plaque erosions have been reported.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of methotrexate.
+The following adverse reactions have been identified during post-approval use of methotrexate.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and lymphatic system disorders: Aplastic anemia, lymphadenopathy, hypogammaglobulinemia
