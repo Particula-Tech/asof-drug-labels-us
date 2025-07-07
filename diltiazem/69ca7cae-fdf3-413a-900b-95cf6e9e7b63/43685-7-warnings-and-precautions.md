@@ -39,10 +39,8 @@ Due to the potential for additive effects, caution and careful titration are war
 
 Pharmacologic studies indicate that there may be additive effects in prolonging AV conduction when using beta-blockers or digitalis concomitantly with diltiazem (see WARNINGS).
 
-As with all drugs, care should be exercised when treating patients with multiple medications.
-Diltiazem is both a substrate and an inhibitor of the cytochrome P450 3A4 enzyme system.
-Other drugs that are specific substrates, inhibitors, or inducers of this enzyme system may have a significant impact on the efficacy and side effect profile of diltiazem.
-Patients taking other drugs that are substrates of CYP450 3A4, especially patients with renal and/or hepatic impairment, may require dosage adjustment when starting or stopping concomitantly administered diltiazem in order to maintain optimum therapeutic blood levels.
+Diltiazem is both a substrate and an inhibitor of the Pg-p and cytochrome P450 3A4 enzyme system which may affect exposure to diltiazem and concomitant drugs metabolized by those pathways.
+Patients with renal and/or hepatic impairment may be particularly at risk of exposure changes.
 
 Anesthetics: The depression of cardiac contractility, conductivity, and automaticity, as well as the vascular dilation associated with anesthetics, may be potentiated by calcium channel blockers.
 When used concomitantly, anesthetics and calcium blockers should be titrated carefully.
@@ -61,7 +59,7 @@ If combination therapy is initiated or withdrawn in conjunction with propranolol
 Buspirone: In nine healthy subjects, diltiazem significantly increased the mean buspirone AUC 5.5-fold and Cmax 4.1-fold compared to placebo.
 The T1/2 and Tmax of buspirone were not significantly affected by diltiazem.
 Enhanced effects and increased toxicity of buspirone may be possible during concomitant administration with diltiazem.
-Subsequent dose adjustments may be necessary during coadministration, and should be based on clinical assessment.
+Subsequent dose adjustments may be necessary during coadministration and should be based on clinical assessment.
 
 Carbamazepine: Concomitant administration of diltiazem with carbamazepine has been reported to result in elevated serum levels of carbamazepine (40% to 72% increase) resulting in toxicity in some cases.
 Patients receiving these drugs concurrently should be monitored for a potential drug interaction.

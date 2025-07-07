@@ -12,5 +12,6 @@ If the drug must be used in such patients, titration should be carried out with 
 - Prophylactic Nitrate Therapy.
   Diltiazem hydrochloride tablets may be safely coadministered with short- and long-acting nitrates, but there have been no controlled studies to evaluate the antianginal effectiveness of this combination.
 - Beta-blockers.
-  (See WARNINGS and PRECAUTIONS.)30 mg – Diltiazem tablets may be swallowed whole, crushed, or chewed.
+  (see WARNINGS and PRECAUTIONS.)
+  30 mg – Diltiazem tablets may be swallowed whole, crushed, or chewed.
   Do not split diltiazem tablets.60 mg, 90 mg, and 120 mg – Diltiazem tablets may be swallowed whole, crushed, or chewed.

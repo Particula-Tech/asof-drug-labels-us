@@ -25,4 +25,4 @@ In addition, events such as myocardial infarction have been observed, which are 
 A definitive cause and effect relationship between these events and diltiazem therapy cannot yet be established.
 Exfoliative dermatitis (proven by rechallenge) has also been reported.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Teva Pharmaceuticals USA, Inc. at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

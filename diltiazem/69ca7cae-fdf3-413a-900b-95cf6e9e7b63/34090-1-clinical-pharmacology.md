@@ -49,5 +49,5 @@ A single study in nine patients with severely impaired renal functions showed no
 
 Diltiazem Tablets: Diltiazem is absorbed from the tablet formulation to about 98% of a reference solution.
 Single oral doses of 30 to 120 mg of diltiazem tablets result in detectable plasma levels within 30 to 60 minutes and peak plasma levels 2 to 4 hours after drug administration.
-As the dose of diltiazem tablets is increased from a daily dose of 120 mg (30 mg qid) to 240 mg (60 mg qid) daily, there is an increase in area-under-the-curve of 2.3 times.
+As the dose of diltiazem tablets is increased from a daily dose of 120 mg (30 mg QID) to 240 mg (60 mg QID) daily, there is an increase in area-under-the-curve of 2.3 times.
 When the dose is increased from 240 mg to 360 mg daily, there is an increase in area-under-the-curve of 1.8 times.
