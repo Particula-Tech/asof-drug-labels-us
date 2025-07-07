@@ -12,4 +12,4 @@
 | Manufactured for: Avyxa Pharma, LLC New Jersey 07054, USA Made in India |  |
 | For more information, call 1-888-520-0954. |  |
 | This Patient Information has been approved by the U.S. Food and Drug Administration. |  |
-| Issued: December 2024 |  |
+| Issued: June 2025 |  |
