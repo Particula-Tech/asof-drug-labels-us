@@ -7,7 +7,7 @@ Pregnancy Category C.
 There are no adequate and well-controlled studies in pregnant women treated with clindamycin phosphate and benzoyl peroxide gel.
 Clindamycin phosphate and benzoyl peroxide gel should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Developmental toxicity studies performed in rats and mice using oral doses of clindamycin up to 600 mg per kg per day (240 and 120 times the amount of clindamycin in the highest recommended adult human dose based on mg per m2, respectively) or subcutaneous doses of clindamycin up to 250 mg per kg per day (100 and 50 times the amount of clindamycin in the highest recommended adult human dose based on mg per m2, respectively) revealed no evidence of teratogenicity.
+Developmental toxicity studies performed in rats and mice using oral doses of clindamycin up to 600 mg per kg per day (240 and 120 times the amount of clindamycin in the highest recommended adult human dose based on mg per m 2, respectively) or subcutaneous doses of clindamycin up to 250 mg per kg per day (100 and 50 times the amount of clindamycin in the highest recommended adult human dose based on mg per m 2, respectively) revealed no evidence of teratogenicity.
 
 ## 8.3 Nursing Mothers
 

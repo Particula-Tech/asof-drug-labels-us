@@ -36,7 +36,7 @@ Before using Clindamycin Phosphate and Benzoyl Peroxide Gel, tell your healthcar
   Clindamycin when taken by mouth or by injection has been reported to appear in breast milk.
   You and your healthcare provider should decide if you will use clindamycin phosphate and benzoyl peroxide gel while breastfeeding.
 
-Tell your healthcare provider about all the medicines you take, including prescription or over-the-counter medicines, vitamins, herbal supplements, and skin products you use.
+Tell your healthcare provider about all the medicines you take,including prescription or over-the-counter medicines, vitamins, herbal supplements, and skin products you use.
 Using other topical acne products may increase the irritation of your skin when used with clindamycin phosphate and benzoyl peroxide gel.
 
 - Especially tell your healthcare provider if you take a medicine that contains erythromycin.
@@ -65,15 +65,13 @@ What are the possible side effects with Clindamycin Phosphate and Benzoyl Peroxi
 
 Clindamycin Phosphate and Benzoyl Peroxide Gel may cause serious side effects, including:
 
-- Inflammation of the colon (colitis).
-  Stop using clindamycin phosphate and benzoyl peroxide gel and call your healthcare provider right away if you have severe watery diarrhea, or bloody diarrhea.
-- Allergic reactions.
-  Stop using clindamycin phosphate and benzoyl peroxide gel and call your healthcare provider or get help right away if you have any of the following symptoms:
+- Inflammation of the colon (colitis).Stop using clindamycin phosphate and benzoyl peroxide gel and call your healthcare provider right away if you have severe watery diarrhea, or bloody diarrhea.
+- Allergic reactions.Stop using clindamycin phosphate and benzoyl peroxide gel and call your healthcare provider or get help right away if you have any of the following symptoms:
   - severe itching
   - swelling of your face, eyes, lips, tongue, or throat
   - trouble breathing
 
-The most common side effects with Clindamycin Phosphate and Benzoyl Peroxide Gel are skin reactions and may include redness, peeling, dryness, and burning.
+The most common side effects with Clindamycin Phosphate and Benzoyl Peroxide Gelare skin reactions and may include redness, peeling, dryness, and burning.
 These are not all the possible side effects with clindamycin phosphate and benzoyl peroxide gel.
 
 Call your doctor for medical advice about side effects.
@@ -103,9 +101,9 @@ For more information, call 1-866-923-4914.
 
 What are the ingredients in Clindamycin Phosphate and Benzoyl Peroxide Gel?
 
-Active ingredients: clindamycin phosphate 1.2% and benzoyl peroxide 5%
+Active ingredients:clindamycin phosphate 1.2% and benzoyl peroxide 5%
 
-Inactive ingredients: carbomer homopolymer (type C), dimethicone, disodium lauryl sulfosuccinate, edetate disodium, glycerin, methylparaben, poloxamer 182, purified water, silicon dioxide, and sodium hydroxide.
+Inactive ingredients:carbomer homopolymer (type C), dimethicone, disodium lauryl sulfosuccinate, edetate disodium, glycerin, methylparaben, poloxamer 182, purified water, silicon dioxide, and sodium hydroxide.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 

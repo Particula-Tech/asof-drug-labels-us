@@ -3,8 +3,8 @@
 ## 7.1 Erythromycin
 
 Avoid using clindamycin phosphate and benzoyl peroxide gel in combination with erythromycin-containing products due to its clindamycin component.
-In vitro studies have shown antagonism between erythromycin and clindamycin.
-The clinical significance of this in vitro antagonism is not known.
+In vitrostudies have shown antagonism between erythromycin and clindamycin.
+The clinical significance of this in vitroantagonism is not known.
 
 ## 7.2 Concomitant Topical Medications
 

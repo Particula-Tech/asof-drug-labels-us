@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 45 g Tube Carton
 
-NDC 51672-1366-6
+NDC 51672- 1366-6
 
 Clindamycin Phosphate and Benzoyl Peroxide Gel 1.2%/5%
 

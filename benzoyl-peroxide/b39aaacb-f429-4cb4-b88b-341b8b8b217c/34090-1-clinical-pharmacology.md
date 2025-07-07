@@ -21,15 +21,15 @@ Less than 2% of the dose enters systemic circulation as benzoic acid.
 
 Clindamycin binds to the 50S ribosomal subunits of susceptible bacteria and prevents elongation of peptide chains by interfering with peptidyl transfer, thereby suppressing protein synthesis.
 
-In Vivo Activity
+In VivoActivity
 
 No microbiology studies were conducted in the clinical trials with this product.
 
-In Vitro Activity
+In VitroActivity
 
-The clindamycin and benzoyl peroxide components individually have been shown to have in vitro activity against Propionibacterium acnes, an organism which has been associated with acne vulgaris; however, the clinical significance of this in vitro activity is not known.
+The clindamycin and benzoyl peroxide components individually have been shown to have in vitroactivity against Propionibacterium acnes, an organism which has been associated with acne vulgaris; however, the clinical significance of this in vitroactivity is not known.
 
 Drug Resistance
 
-There are reports of an increase of P. acnes resistance to clindamycin in the treatment of acne.
-In patients with P. acnes resistant to clindamycin, the clindamycin component may provide no additional benefit beyond benzoyl peroxide alone.
+There are reports of an increase of P. acnesresistance to clindamycin in the treatment of acne.
+In patients with P. acnesresistant to clindamycin, the clindamycin component may provide no additional benefit beyond benzoyl peroxide alone.

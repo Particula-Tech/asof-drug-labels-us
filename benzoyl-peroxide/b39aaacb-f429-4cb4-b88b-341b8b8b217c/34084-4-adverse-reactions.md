@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reaction is described in more detail in the Warnings and Precautions section of the label:
+The following adverse reaction is described in more detail in the Warnings and Precautionssection of the label:
 
 - Colitis [see Warnings and Precautions (5.1)].
 
