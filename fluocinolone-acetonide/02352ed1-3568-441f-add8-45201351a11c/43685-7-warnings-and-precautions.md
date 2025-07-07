@@ -25,18 +25,13 @@ If a favorable response does not occur promptly, the corticosteroid should be di
 
 Patients using topical corticosteroids should receive the following information and instructions:
 
-- 1.
-  This medication is to be used as directed by the physician.
+- This medication is to be used as directed by the physician.
   It is for external use only.
   Avoid contact with the eyes.
-- 2.
-  Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
-- 3.
-  The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
-- 4.
-  Patients should report any signs of local adverse reactions, especially under occlusive dressing.
-- 5.
-  Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
+- Patients should be advised not to use this medication for any disorder other than that for which it was prescribed.
+- The treated skin area should not be bandaged or otherwise covered or wrapped as to be occlusive unless directed by the physician.
+- Patients should report any signs of local adverse reactions, especially under occlusive dressing.
+- Parents of pediatric patients should be advised not to use tight-fitting diapers or plastic pants on a child being treated in the diaper area, as these garments may constitute occlusive dressings.
 
 ## Laboratory Tests
 
@@ -62,7 +57,7 @@ Drugs of this class should not be used extensively on pregnant patients, in larg
 ## Nursing Mothers
 
 It is not known whether topical administration of corticosteroids could result in sufficient systemic absorption to produce detectable quantities in breast milk.
-Systemically administered corticosteroids are secreted into breast milk in quantities not likely to have a deleterious effect on the infant.
+Systemically administered corticosteroids are secreted into breast milk in quantities notlikely to have a deleterious effect on the infant.
 Nevertheless, caution should be exercised when topical corticosteroids are administered to a nursing woman.
 
 ## Pediatric Use
