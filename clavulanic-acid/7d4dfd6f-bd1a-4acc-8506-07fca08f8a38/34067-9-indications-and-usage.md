@@ -2,15 +2,15 @@
 
 Amoxicillin and Clavulanate Potassium is indicated for the treatment of pediatric patients with
 
-- Recurrent or persistent acute otitis media due to S. pneumoniae (penicillin MICs less than or equal to 2 mcg/mL), H. influenzae (including β-lactamase-producing strains), or M. catarrhalis (including β-lactamase-producing strains) characterized by the following risk factors:
+- Recurrent or persistent acute otitis media due to S. pneumoniae(penicillin MICs less than or equal to 2 mcg/mL), H. influenzae(including β-lactamase-producing strains), or M. catarrhalis(including β-lactamase-producing strains) characterized by the following risk factors:
 
 - Antibacterial drug exposure for acute otitis media within the preceding 3 months, and either of the following: 1) age 2 years, or younger or 2) daycare attendance [see Microbiology (12.4)]
 
 Limitations of Use
 
-Acute otitis media due to S. pneumoniae alone can be treated with amoxicillin.
-Amoxicillin and Clavulanate Potassium for oral suspension is not indicated for the treatment of acute otitis media due to S. pneumoniae with penicillin MIC greater than or equal to 4 mcg/mL.
-Therapy may be instituted prior to obtaining the results from bacteriological studies when there is reason to believe the infection may involve both S. pneumoniae (penicillin MIC less than or equal to 2 mcg/mL) and the β-lactamase-producing organisms listed above.
+Acute otitis media due to S. pneumoniaealone can be treated with amoxicillin.
+Amoxicillin and Clavulanate Potassium for oral suspension is not indicated for the treatment of acute otitis media due to S. pneumoniaewith penicillin MIC greater than or equal to 4 mcg/mL.
+Therapy may be instituted prior to obtaining the results from bacteriological studies when there is reason to believe the infection may involve both S. pneumoniae(penicillin MIC less than or equal to 2 mcg/mL) and the β-lactamase-producing organisms listed above.
 
 Usage
 

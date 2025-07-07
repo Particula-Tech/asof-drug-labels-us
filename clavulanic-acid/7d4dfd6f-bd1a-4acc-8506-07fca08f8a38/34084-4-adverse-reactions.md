@@ -29,14 +29,14 @@ In addition to adverse reactions reported from clinical trials, the following ha
 Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
 These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to Amoxicillin and Clavulanate Potassium.
 
-Gastrointestinal: Drug-induced enterocolitis syndrome (DIES), diarrhea, nausea, vomiting, indigestion, gastritis, stomatitis, glossitis, black “hairy” tongue, mucocutaneous candidiasis, enterocolitis, and hemorrhagic/pseudomembranous colitis.
+Gastrointestinal:Drug-induced enterocolitis syndrome (DIES), diarrhea, nausea, vomiting, indigestion, gastritis, stomatitis, glossitis, black “hairy” tongue, mucocutaneous candidiasis, enterocolitis, and hemorrhagic/pseudomembranous colitis.
 Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5)].
 
-Immune: Hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), angioedema, serum sickness-like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), hypersensitivity vasculitis[see Warnings and Precautions (5.1)].
+Immune:Hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), angioedema, serum sickness-like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), hypersensitivity vasculitis [see Warnings and Precautions (5.1)].
 
-Skin and Appendages: Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis, and linear IgA bullous dermatosis.
+Skin and Appendages:Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis, and linear IgA bullous dermatosis.
 
-Liver: A moderate rise in AST (SGOT) and/or ALT (SGPT) has been noted in patients treated with ampicillin-class antibacterials.
+Liver:A moderate rise in AST (SGOT) and/or ALT (SGPT) has been noted in patients treated with ampicillin-class antibacterials.
 Hepatic dysfunction, including increases in serum transaminases (AST and/or ALT), serum bilirubin, and/or alkaline phosphatase, has been infrequently reported with Amoxicillin and Clavulanate Potassium or Amoxicillin and Clavulanate Potassium for oral suspension.
 It has been reported more commonly in the elderly, in males, or in patients on prolonged treatment.
 The histologic findings on liver biopsy have consisted of cholestatic, hepatocellular, or mixed cholestatic-hepatocellular changes.
@@ -44,15 +44,15 @@ The onset of signs/symptoms of hepatic dysfunction may occur during or several w
 The hepatic dysfunction, which may be severe, is usually reversible.
 Deaths have been reported [see Contraindications (4.2) and Warnings and Precautions (5.4)].
 
-Renal: Interstitial nephritis and hematuria have been reported.
+Renal:Interstitial nephritis and hematuria have been reported.
 Crystalluria has also been reported [see Overdosage (10)].
 
-Hemic and Lymphatic Systems: Anemia, including hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis have been reported during therapy with penicillins.
+Hemic and Lymphatic Systems:Anemia, including hemolytic anemia, thrombocytopenia, thrombocytopenic purpura, eosinophilia, leukopenia, and agranulocytosis have been reported during therapy with penicillins.
 These reactions are usually reversible on discontinuation of therapy and are believed to be hypersensitivity phenomena.
 There have been reports of increased prothrombin time in patients receiving Amoxicillin and Clavulanate Potassium and anticoagulant therapy concomitantly.
 
-Central Nervous System: Agitation, anxiety, behavioral changes, aseptic meningitis, confusion, convulsions, dizziness, insomnia, and reversible hyperactivity have been reported.
+Central Nervous System:Agitation, anxiety, behavioral changes, aseptic meningitis, confusion, convulsions, dizziness, insomnia, and reversible hyperactivity have been reported.
 
-Miscellaneous: Tooth discoloration (brown, yellow, or gray staining) has been reported.
+Miscellaneous:Tooth discoloration (brown, yellow, or gray staining) has been reported.
 Most reports occurred in pediatric patients.
 Discoloration was reduced or eliminated with brushing or dental cleaning in most cases.

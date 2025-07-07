@@ -4,7 +4,7 @@ How Supplied
 
 Amoxicillin and Clavulanate Potassium for oral suspension USP:
 
-600 mg/42.9 mg per 5 mL: Strawberry cream-flavored powder for oral suspension.
+600 mg/42.9 mg per 5 mL:Strawberry cream-flavored powder for oral suspension.
 Following constitution, each 5 mL of oral suspension contains 600 mg of amoxicillin as the trihydrate and 42.9 mg of clavulanic acid as the potassium salt (equivalent to 51.1 mg of clavulanate potassium).
 
 | NDC 81964-203-51 | 75 mL bottle |

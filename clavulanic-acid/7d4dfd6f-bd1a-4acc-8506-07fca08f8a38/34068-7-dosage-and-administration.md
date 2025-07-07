@@ -7,10 +7,10 @@ Absorption of clavulanate potassium may be enhanced when Amoxicillin and Clavula
 
 ## 2.2 Dosage in Pediatric Patients
 
-Pediatric patients 3 months and older: Based on the amoxicillin component (600 mg/5 mL), the recommended dose of Amoxicillin and Clavulanate Potassium for oral suspension is 90 mg/kg/day divided every 12 hours, administered for 10 days (see chart below).
+Pediatric patients 3 months and older:Based on the amoxicillin component (600 mg/5 mL), the recommended dose of Amoxicillin and Clavulanate Potassium for oral suspension is 90 mg/kg/day divided every 12 hours, administered for 10 days (see chart below).
 This dose provides 6.4 mg/kg/day of the clavulanic acid component.
 
-| Body Weight (kg) | Volume of Amoxicillin and Clavulanate Potassium for oral suspension providing 90 mg/kg/day |
+| Body Weight (kg) | Volume of Amoxicillin and Clavulanate Potassium for oral suspensionproviding 90 mg/kg/day |
 | --- | --- |
 | 8 | 3 mL twice daily |
 | 12 | 4.5 mL twice daily |
@@ -21,7 +21,7 @@ This dose provides 6.4 mg/kg/day of the clavulanic acid component.
 | 32 | 12 mL twice daily |
 | 36 | 13.5 mL twice daily |
 
-Pediatric patients weighing 40 kg and more: Experience with Amoxicillin and Clavulanate Potassium for oral suspension in this group is not available.
+Pediatric patients weighing 40 kg and more:Experience with Amoxicillin and Clavulanate Potassium for oral suspension in this group is not available.
 
 ## 2.3 Dosage in Adult Patients
 
@@ -33,7 +33,7 @@ Hepatically impaired patients should be dosed with caution and hepatic function 
 
 ## 2.5 Preparation of the Oral Suspension
 
-Directions for Mixing Oral Suspension: Prepare a suspension at time of dispensing as follows: Tap bottle until all powder flows freely.
+Directions for Mixing Oral Suspension:Prepare a suspension at time of dispensing as follows: Tap bottle until all powder flows freely.
 Measure the total amount of water (see chart below) to be added in two parts.
 Add approximately 2/3 of the total amount of water for reconstitution, replace cap and shake vigorously to suspend powder.
 Add remainder of the water (that had been measured), replace cap and again shake vigorously.
@@ -52,7 +52,7 @@ Suspension must be refrigerated.
 Discard after 10 days.
 Suspension is off-white at time of reconstitution; some color change is normal during the dosing period.
 
-Flavoring Information: For patients who wish to alter the taste of Amoxicillin and Clavulanate Potassium for oral suspension, immediately after reconstitution 1 drop of FLAVORx™ (apple, banana cream, bubble gum, cherry, or watermelon flavor) may be added for every 5 mL of Amoxicillin and Clavulanate Potassium for oral suspension.
+Flavoring Information:For patients who wish to alter the taste of Amoxicillin and Clavulanate Potassium for oral suspension, immediately after reconstitution 1 drop of FLAVORx™ (apple, banana cream, bubble gum, cherry, or watermelon flavor) may be added for every 5 mL of Amoxicillin and Clavulanate Potassium for oral suspension.
 The resulting suspension is stable for 10 days under refrigeration.
 Stability of the drug product when mixed with other flavors distributed by FLAVORx has not been evaluated for flavors other than the 5 flavors listed above.
 

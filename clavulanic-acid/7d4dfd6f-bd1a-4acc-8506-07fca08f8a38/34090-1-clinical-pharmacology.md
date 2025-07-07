@@ -14,12 +14,12 @@ Mean (±SD) Plasma Amoxicillin and Clavulanate Pharmacokinetic Parameter Values 
 
 | PARAMETER | AMOXICILLIN | CLAVULANATE |
 | --- | --- | --- |
-| Cmax (mcg/mL) | 15.7 ± 7.7 | 1.7 ± 0.9 |
-| Tmax (hr) | 2.0 (1.0 to 4.0) | 1.1 (1.0 to 4.0) |
-| AUC0-T (mcg*hr/mL) | 59.8 ± 20.0 | 4.0 ± 1.9 |
+| C max(mcg/mL) | 15.7 ± 7.7 | 1.7 ± 0.9 |
+| T max(hr) | 2.0 (1.0 to 4.0) | 1.1 (1.0 to 4.0) |
+| AUC 0-T(mcg*hr/mL) | 59.8 ± 20.0 | 4.0 ± 1.9 |
 | T½ (hr) | 1.4 ± 0.3 | 1.1 ± 0.3 |
 | CL/F (L/hr/kg) | 0.9 ± 0.4 | 1.1 ± 1.1 |
-| * Arithmetic mean ± standard deviation, except Tmax values which are medians (ranges). |  |  |
+| * Arithmetic mean ± standard deviation, except T maxvalues which are medians (ranges). |  |  |
 
 The effect of food on the oral absorption of Amoxicillin and Clavulanate Potassium for oral suspension has not been studied.
 
@@ -59,13 +59,13 @@ Amoxicillin/clavulanic acid has been shown to be active against most isolates of
 
 Gram-Positive bacteria:
 
-Streptococcus pneumoniae (including isolates with penicillin MICs less than or equal to 2 mcg/mL)
+Streptococcus pneumoniae(including isolates with penicillin MICs less than or equal to 2 mcg/mL)
 
 Gram-Negative bacteria:
 
-Haemophilus influenzae (including β-lactamase-producing isolates)
+Haemophilus influenzae(including β-lactamase-producing isolates)
 
-Moraxella catarrhalis (including β-lactamase-producing isolates)
+Moraxella catarrhalis(including β-lactamase-producing isolates)
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90% of the following microorganisms exhibit in vitro minimum inhibitory concentrations (MICs) less than or equal to the susceptible breakpoint for amoxicillin/clavulanic acid.
@@ -73,13 +73,13 @@ However, the safety and efficacy of amoxicillin/clavulanic acid in treating infe
 
 Gram-Positive bacteria:
 
-Staphylococcus aureus (including β-lactamase-producing isolates)
+Staphylococcus aureus(including β-lactamase-producing isolates)
 
 Staphylococci which are resistant to methicillin/oxacillin must be considered resistant to amoxicillin/clavulanic acid.
 
 Streptococcus pyogenes
 
-S. pyogenes do not produce β-lactamase, and therefore, are susceptible to amoxicillin alone.
+S. pyogenesdo not produce β-lactamase, and therefore, are susceptible to amoxicillin alone.
 Adequate and well-controlled clinical trials have established the effectiveness of amoxicillin alone in treating certain clinical infections due to S. pyogenes.
 
 Susceptibility Test Methods:
