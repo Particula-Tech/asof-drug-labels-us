@@ -6,10 +6,10 @@ Belimumab is produced by recombinant DNA technology in a murine cell (NS0) expre
 
 Intravenous Infusion
 
-- •BENLYSTA (belimumab) for injection is a sterile, white to off-white, preservative‑free, lyophilized powder in a single-dose vial for reconstitution and dilution prior to intravenous infusion.
-  BENLYSTA for injection is supplied as 120 mg per vial and 400 mg per vial and requires reconstitution with Sterile Water for Injection, USP (1.5 mL and 4.8 mL, respectively) to obtain a concentration of 80 mg/mL [see Dosage and Administration (2.2)].
-  After reconstitution, each vial allows for withdrawal of 1.5 mL (120 mg) or 5 mL (400 mg).
-  Each mL delivers 80 mg belimumab, citric acid (0.16 mg), polysorbate 80 (0.4 mg), sodium citrate (2.7 mg), and sucrose (80 mg), with a pH of 6.5.
+BENLYSTA (belimumab) for injection is a sterile, white to off-white, preservative‑free, lyophilized powder in a single-dose vial for reconstitution and dilution prior to intravenous infusion.
+BENLYSTA for injection is supplied as 120 mg per vial and 400 mg per vial and requires reconstitution with Sterile Water for Injection, USP (1.5 mL and 4.8 mL, respectively) to obtain a concentration of 80 mg/mL [see Dosage and Administration (2.2)].
+After reconstitution, each vial allows for withdrawal of 1.5 mL (120 mg) or 5 mL (400 mg).
+Each mL delivers 80 mg belimumab, citric acid (0.16 mg), polysorbate 80 (0.4 mg), sodium citrate (2.7 mg), and sucrose (80 mg), with a pH of 6.5.
 
 The vial stoppers are not made with natural rubber latex.
 

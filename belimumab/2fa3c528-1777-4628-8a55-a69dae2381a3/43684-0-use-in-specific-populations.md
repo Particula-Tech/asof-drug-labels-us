@@ -59,26 +59,27 @@ Following an assessment of benefit versus risk, if prevention of pregnancy is wa
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of BENLYSTA have been established for the treatment of SLE and lupus nephritis in pediatric patients 5 to less than 18 years of age.
+The safety and effectiveness of BENLYSTA have been established for the treatment of active SLE and active lupus nephritis in pediatric patients 5 years of age and older who are receiving standard therapy.
+
+The safety and effectiveness of BENLYSTA have not been established in pediatric patients less than 5 years of age.
 
 Intravenous Use
 
-Use of BENLYSTA intravenously in pediatric patients with SLE is supported by evidence from pharmacokinetic (PK) and efficacy results from a pediatric study (Trial 6), as well as PK exposure and extrapolation of the established efficacy of BENYLSTA plus standard therapy from the Phase 3 intravenous studies in adults with SLE.
-A randomized, double‑blind, placebo‑controlled, PK, efficacy, and safety study (Trial 6) to evaluate intravenously administered BENLYSTA 10 mg/kg plus standard therapy compared with placebo plus standard therapy over 52 weeks was conducted in 93 pediatric patients with SLE.
-The proportion of pediatric patients achieving an SRI-4 response was higher in patients receiving BENLYSTA plus standard therapy compared with placebo plus standard therapy.
-Pediatric patients receiving BENLYSTA plus standard therapy also had a lower risk of experiencing a severe flare compared with placebo plus standard therapy [see Clinical Studies (14.3)].
-Pharmacokinetics were evaluated in a total of 53 pediatric patients with SLE and were consistent with the adult population with SLE [see Clinical Pharmacology (12.3)].
+Use of BENLYSTA intravenously in pediatric patients 5 years of age and older with active SLE is supported by evidence from pharmacokinetic (PK), safety, and efficacy results from a pediatric trial (Trial 6), as well as PK exposure and extrapolation of the established efficacy of BENLYSTA plus standard therapy from the Phase 3 intravenous studies in adults with active SLE (Trials 2 and 3).
+In Trial 6, the proportion of pediatric subjects achieving an SRI‑4 response was higher in subjects receiving BENLYSTA plus standard therapy compared with placebo plus standard therapy.
+Pediatric subjects receiving BENLYSTA plus standard therapy also had a lower risk of experiencing a severe flare compared with placebo plus standard therapy [see Clinical Studies (14.4)].
+Pharmacokinetics were evaluated in a total of 53 pediatric subjects (Trial 6) and were consistent with the adult population with active SLE [see Clinical Pharmacology (12.3)].
 
-Use of intravenous administration of BENLYSTA in pediatric patients with active lupus nephritis is based on the extrapolation of efficacy from the intravenous study in adults (n = 224) with active lupus nephritis, and supported by pharmacokinetic data from intravenous studies in adults (n = 224) with active lupus nephritis and from pediatric patients (n = 53) with SLE.
+Use of BENLYSTA intravenously in pediatric patients 5 years of age and older with active lupus nephritis is based on the extrapolation of efficacy from the intravenous trial (Trial 5) in adults (n = 224) with active lupus nephritis, and supported by pharmacokinetic data from intravenous studies in adults (n = 224) with active lupus nephritis and from pediatric subjects (n = 53) with active SLE (Trial 6).
 Estimated belimumab exposures for pediatric patients were comparable to adults with active lupus nephritis [see Clinical Pharmacology (12.3)].
 
 Subcutaneous Use
 
-Use of BENLYSTA, administered subcutaneously in pediatric patients (5 to less than 18 years of age and weighing at least 15 kg) with SLE, is supported by evidence from an open-label pharmacokinetic trial (subcutaneous administration of BENLYSTA in pediatric patients with SLE) and Trial 6 (a pharmacokinetic, efficacy, and safety study of intravenous dosing in pediatric patients with SLE).
-The pharmacokinetics of belimumab, following subcutaneous administration in pediatric patients, are estimated to be similar to adults who receive BENLYSTA subcutaneously and pediatric patients who receive BENLYSTA intravenously [see Clinical Pharmacology (12.3)].
+Use of BENLYSTA, administered subcutaneously in pediatric patients 5 years of age and older who weigh at least 15 kg with active SLE, is supported by evidence from an open‑label pharmacokinetic trial (subcutaneous administration of BENLYSTA in pediatric subjects with active SLE) and Trial 6 (a pharmacokinetic, efficacy, and safety trial of intravenous dosing in pediatric subjects with active SLE).
+The pharmacokinetics of belimumab, following subcutaneous administration in pediatric patients, are estimated to be comparable to adults who receive BENLYSTA subcutaneously and pediatric patients who receive BENLYSTA intravenously [see Clinical Pharmacology (12.3)].
 
-The safety and effectiveness of the subcutaneous administration of BENLYSTA, in pediatric patients less than 18 years of age with active lupus nephritis, have not been established.
-The safety and effectiveness of BENLYSTA have not been established in pediatric patients less than 5 years of age.
+Use of BENLYSTA, administered subcutaneously in pediatric patients 5 years of age and older who weigh at least 15 kg with active lupus nephritis, is based on the extrapolation of efficacy from the intravenous trial in adults (n = 224) with active lupus nephritis (Trial 5), and is supported by pharmacokinetic data derived from the same adult trial (Trial 5), a pharmacokinetic, efficacy, and safety intravenous trial in pediatric subjects with active SLE (n = 53) (Trial 6), and an open‑label subcutaneous trial in pediatric subjects with active SLE (n = 25).
+Belimumab exposures for pediatric patients with active lupus nephritis following subcutaneous administration are estimated to be comparable to adults with active lupus nephritis who receive BENLYSTA intravenously [see Clinical Pharmacology (12.3)].
 
 ## 8.5 Geriatric Use
 
@@ -87,7 +88,7 @@ Use with caution in geriatric patients.
 
 ## 8.6 Renal Impairment
 
-The safety and efficacy of BENLYSTA were evaluated in studies that included patients with SLE who had mild (creatinine clearance [CrCl] ≥60 and <90 mL/min), moderate (CrCl ≥30 and <60 mL/min), or severe (CrCl ≥15 and <30 mL/min) renal impairment.
+The safety and efficacy of BENLYSTA were evaluated in studies that included subjects with SLE who had mild (creatinine clearance [CrCl] ≥60 and <90 mL/min), moderate (CrCl ≥30 and <60 mL/min), or severe (CrCl ≥15 and <30 mL/min) renal impairment.
 No dosage adjustment is recommended in patients with renal impairment.
 
 ## 8.7 Hepatic Impairment
@@ -97,11 +98,11 @@ No dosage adjustment is recommended in patients with hepatic impairment.
 
 ## 8.8 Racial Groups
 
-In Trial 2 and Trial 3 (intravenous dosing), SLE Responder Index-4 (SRI-4) response rates were lower for Black patients receiving BENLYSTA plus standard therapy relative to Black patients receiving placebo plus standard therapy [see Clinical Studies (14.1)].
+In Trial 2 and Trial 3 (intravenous dosing), SLE Responder Index‑4 (SRI‑4) response rates were lower for Black subjects receiving BENLYSTA plus standard therapy relative to Black subjects receiving placebo plus standard therapy [see Clinical Studies (14.2)].
 
-In Trial 4 (intravenous dosing), a 2:1 randomized, placebo-controlled trial in Black patients, SLE Responder Index (SRI-S2K) response rates were higher for Black patients receiving BENLYSTA plus standard therapy (49%) relative to Black patients receiving placebo plus standard therapy (42%).
-However, the treatment difference was not statistically significant [see Clinical Studies (14.1)].
+In Trial 4 (intravenous dosing), a 2:1 randomized, placebo‑controlled trial in Black subjects, SLE Responder Index (SRI‑S2K) response rates were higher for Black subjects receiving BENLYSTA plus standard therapy (49%) relative to Black subjects receiving placebo plus standard therapy (42%).
+However, the treatment difference was not statistically significant [see Clinical Studies (14.2)].
 
-In Trial 7 (subcutaneous dosing), SRI-4 response was 45% (26/58) in Black patients receiving BENLYSTA plus standard therapy compared with 39% (13/33) in Black patients receiving placebo plus standard therapy [see Clinical Studies (14.4)].
+In Trial 7 (subcutaneous dosing), SRI‑4 response was 45% (26/58) in Black subjects receiving BENLYSTA plus standard therapy compared with 39% (13/33) in Black subjects receiving placebo plus standard therapy [see Clinical Studies (14.5)].
 
-The safety profile of BENLYSTA in Black patients was consistent with the known safety profile of BENLYSTA administered in the overall population [see Adverse Reactions (6.1)].
+The safety profile of BENLYSTA in Black subjects was consistent with the known safety profile of BENLYSTA administered in the overall population [see Adverse Reactions (6.1)].
