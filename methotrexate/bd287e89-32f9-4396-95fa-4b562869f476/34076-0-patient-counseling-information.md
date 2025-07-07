@@ -5,8 +5,8 @@ Advise the patient to read the FDA-approved patient labeling (Patient Informatio
 Embryo-Fetal Toxicity
 
 - •Advise females of reproductive potential of the potential risk to a fetus and to inform their healthcare provider of a known or suspected pregnancy [see Contraindications (4), Warnings and Precautions (5.1), and Use in Specific Populations (8.1)].
-- •Advise females of reproductive potential to use effective contraception during methotrexate therapy and for 6 months after the final dose [see Use in Specific Populations (8.3)].
-- •Advise males of reproductive potential to use effective contraception during methotrexate therapy and for 3 months after the final dose [see Use in Specific Populations (8.3)].
+- •Advise females of reproductive potential to use effective contraception during Methotrexate Injection therapy and for 6 months after the last dose [see Use in Specific Populations (8.3)].
+- •Advise males of reproductive potential to use effective contraception during Methotrexate Injection therapy and for 3 months after the last dose [see Use in Specific Populations (8.3)].
 
 Hypersensitivity Reactions
 
@@ -50,11 +50,11 @@ Advise patients on the risk of second primary malignancies during treatment with
 
 Lactation
 
-Advise women not to breastfeed during treatment with methotrexate and for 1 week after the final dose [see Use in Specific Populations (8.2)].
+Advise women not to breastfeed during treatment with Methotrexate Injection and for 1 week after the last dose [see Use in Specific Populations (8.2)].
 
 Infertility
 
-Advise females and males of reproductive potential that methotrexate may cause impairment of fertility [see Use in Specific Populations (8.3)].
+Advise females and males of reproductive potential that Methotrexate Injection may cause impairment of fertility [see Use in Specific Populations (8.3)].
 
 Drug Interactions
 

@@ -21,7 +21,7 @@ Methotrexate exposure during the first trimester of pregnancy is associated with
 Adverse outcomes associated with exposure during second and third trimesters of pregnancy include intrauterine growth restriction and functional abnormalities.
 Because methotrexate is widely distributed and persists in the body for a prolonged period, there is a potential risk to the fetus from preconception methotrexate exposure.
 
-A prospective multicenter study evaluated pregnancy outcomes in women taking methotrexate less than or equal to 30 mg/week after conception.
+A prospective multicenter study evaluated pregnancy outcomes in women taking methotrexate less than or equal to 30 mg per week after conception.
 The rate of spontaneous abortion/miscarriage in pregnant women exposed to methotrexate was 42.5% (95% confidence interval [95% CI] 29.2–58.7), which was higher than in unexposed patients with autoimmune disease (22.5%, 95% CI 16.8–29.7) and unexposed patients with non-autoimmune disease (17.3%, 95% CI 13–22.8).
 Of the live births, the rate of major birth defects in pregnant women exposed to methotrexate after conception was higher than in unexposed patients with autoimmune disease (adjusted odds ratio (OR) 1.8 [95% CI 0.6–5.7]) and unexposed patients with non-autoimmune disease (adjusted OR 3.1 [95% CI 1.03–9.5]) (2.9%).
 Major birth defects associated with pregnancies exposed to methotrexate after conception were not always consistent with methotrexate-associated adverse developmental outcomes.
@@ -32,7 +32,7 @@ Risk Summary
 
 Limited published literature reports the presence of methotrexate in human milk in low amounts, with the highest breast milk to plasma concentration ration reported to be 0.08:1.
 No information is available on the effects of methotrexate on a breastfed infant or on milk production.
-Because of the potential for serious adverse reactions from methotrexate in breastfed infants, advise women not to breastfeed during treatment with Methotrexate Injection and for 1 week after the final dose.
+Because of the potential for serious adverse reactions from methotrexate in breastfed infants, advise women not to breastfeed during treatment with Methotrexate Injection and for 1 week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -46,12 +46,12 @@ Contraception
 
 Females
 
-Advise females of reproductive potential to use effective contraception during and for 6 months after the final dose of Methotrexate Injection therapy.
+Advise females of reproductive potential to use effective contraception during and for 6 months after the last dose of Methotrexate Injection therapy.
 
 Males
 
 Methotrexate can cause chromosomal damage to sperm cells.
-Advise males with female partners of reproductive potential to use effective contraception during and for 3 months after the final dose of Methotrexate Injection therapy.
+Advise males with female partners of reproductive potential to use effective contraception during and for 3 months after the last dose of Methotrexate Injection therapy.
 
 Infertility
 
@@ -74,15 +74,15 @@ Additional risk information is described below.
 
 Risks of Serious Adverse Reactions due to Benzyl Alcohol-Preservative
 
-Due to the risk of serious adverse reactions and fatal gasping syndrome following administration of intravenous solutions containing the preservative benzyl alcohol in neonates, use only preservative-free Methotrexate Injection in neonates and low-birth weight infants.
+Due to the risk of serious adverse reactions and fatal gasping syndrome following administration of intravenous solutions containing the preservative benzyl alcohol in neonates, use only preservative-free Methotrexate Injection in neonates and low birth weight infants.
 The "gasping syndrome" is characterized by CNS depression, metabolic acidosis, and gasping respirations.
 
-Serious adverse reactions including fatal reactions and the "gasping syndrome" occurred in premature neonates and low-birth weight infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
+Serious adverse reactions including fatal reactions and the "gasping syndrome" occurred in premature neonates and low birth weight infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
 In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
 Additional adverse reactions include gradual neurological deterioration, seizures, intracranial hemorrhage, hematological abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
-Preterm, low-birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
+Preterm, low birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
 
-When prescribing in infants (non-neonate, non-low-birth weight), if a preservative-free formulation of Methotrexate Injection is not available and use of a benzyl alcohol-containing formulation is necessary, consider the combined daily metabolic load of benzyl alcohol from all sources including Methotrexate Injection (Methotrexate Injection contains 9.4 mg of benzyl alcohol/per mL) and other drugs containing benzyl alcohol.
+When prescribing in infants (non-neonate, non-low birth weight), if a preservative-free formulation of Methotrexate Injection is not available and use of a benzyl alcohol-containing formulation is necessary, consider the combined daily metabolic load of benzyl alcohol from all sources including Methotrexate Injection (Methotrexate Injection contains 9.4 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.
 The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known.
 
 Do not administer methotrexate formulations containing benzyl alcohol intrathecally due to the risk of severe neurotoxicity [see Warnings and Precautions (5.3)].
@@ -105,5 +105,6 @@ Consider reducing the dose or discontinuing Methotrexate Injection in patients w
 
 ## 8.7 Hepatic Impairment
 
-The pharmacokinetics and safety of methotrexate in patients with hepatic impairment is unknown Patients with hepatic impairment may be at increased risk for methotrexate adverse reaction based on elimination characteristics of methotrexate [see Clinical Pharmacology (12.3)].
+The pharmacokinetics and safety of methotrexate in patients with hepatic impairment is unknown.
+Patients with hepatic impairment may be at increased risk for methotrexate adverse reaction based on elimination characteristics of methotrexate [see Clinical Pharmacology (12.3)].
 Consider reducing the dose or discontinuing Methotrexate Injection in patients with hepatic impairment as appropriate [see Warnings and Precautions (5.7)].
