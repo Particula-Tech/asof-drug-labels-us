@@ -5,7 +5,7 @@ This adverse reaction is more common during long-term use of the drugs, but it h
 Enamel hypoplasia has also been reported.
 Use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies.
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including doxycycline, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including doxycycline, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -18,7 +18,8 @@ If CDAD is suspected or confirmed, ongoing use of antibacterial drugs not direct
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 Severe skin reactions, such as exfoliative dermatitis, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, and drug reaction with eosinophilia and systemic symptoms (DRESS) have been reported in patients receiving doxycycline.
-Fixed drug eruptions have occurred with doxycycline and have been associated with worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption (See ADVERSE REACTIONS.)
+Fixed drug eruptions have occurred with doxycycline and have been associated with worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption.
+(See ADVERSE REACTIONS.)
 If severe skin reactions occur, discontinue doxycycline immediately and institute appropriate therapy.
 
 Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including doxycycline.
@@ -103,15 +104,13 @@ Absorption of tetracyclines is impaired by bismuth subsalicylate.
 
 Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.
 
-The concurrent use of tetracycline and Penthrane® (methoxyflurane) has been reported to result in fatal renal toxicity.
-
 Concurrent use of tetracycline may render oral contraceptives less effective.
 
 ## Drug/Laboratory Test Interactions
 
 False elevations of urinary catecholamine levels may occur due to interference with the fluorescence test.
 
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
+## Carcinogenesis, Mutagenesis, Impairment Of Fertility
 
 Long-term studies in animals to evaluate carcinogenic potential of doxycycline have not been conducted.
 However, there has been evidence of oncogenic activity in rats in studies with the related antibacterial drugs, oxytetracycline (adrenal and pituitary tumors), and minocycline (thyroid tumors).

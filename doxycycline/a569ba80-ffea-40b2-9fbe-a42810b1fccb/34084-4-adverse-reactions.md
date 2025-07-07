@@ -21,11 +21,11 @@ Photosensitivity is discussed above.
 Renal toxicity: Rise in BUN has been reported and is apparently dose related.
 (See WARNINGS.)
 
-Immune: Hypersensitivity reactions including urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, exacerbation of systemic lupus erythematosus, and drug reaction with eosinophilia and systemic symptoms (DRESS), and Jarisch-Herxheimer reaction has been reported in the setting of spirochete infections treated with doxycycline.
+Immune: Hypersensitivity reactions including urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, exacerbation of systemic lupus erythematosus, drug reaction with eosinophilia and systemic symptoms (DRESS), and Jarisch-Herxheimer reaction has been reported in the setting of spirochete infections treated with doxycycline.
 
 Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia have been reported.
 
-Psychiatric: Depression, anxiety, suicidal ideation, insomnia, abnormal dreams, hallucination
+Psychiatric: Depression, anxiety, suicidal ideation, insomnia, abnormal dreams, hallucination.
 
 Other: Bulging fontanels in infants and intracranial hypertension in adults.
 (See WARNINGS.)
@@ -33,4 +33,4 @@ Other: Bulging fontanels in infants and intracranial hypertension in adults.
 When given over prolonged periods, tetracyclines have been reported to produce brown-black microscopic discoloration of the thyroid gland.
 No abnormalities of thyroid function studies are known to occur.
 
-To report SUSPECTED ADVERSE EVENTS, contact Actavis at 1-888-838-2872 or FDA at 1-800-FDA-1088 or http://www.fda.gov/ for voluntary reporting of adverse reactions.
+To report SUSPECTED ADVERSE REACTIONS, contact Teva at 1-888-838-2872 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

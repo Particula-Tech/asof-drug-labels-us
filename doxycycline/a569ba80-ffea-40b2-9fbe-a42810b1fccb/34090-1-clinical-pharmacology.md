@@ -1,7 +1,7 @@
 # CLINICAL PHARMACOLOGY
 
 Tetracyclines are readily absorbed and are bound to plasma proteins in varying degree.
-They are concentrated by the liver in the bile and excreted in the urine and feces at high concentrations and in a biologically active form.
+They are concentrated by the liver in the bile, and excreted in the urine and feces at high concentrations and in a biologically active form.
 Doxycycline is virtually completely absorbed after oral administration.
 
 Following a 200 mg dose, normal adult volunteers averaged peak serum levels of 2.6 mcg/mL of doxycycline at 2 hours, decreasing to 1.45 mcg/mL at 24 hours.
@@ -25,7 +25,7 @@ Doxycycline has bacteriostatic activity against a broad range of Gram-positive a
 
 Resistance Cross resistance with other tetracyclines is common.
 
-Antimicrobial Activity Doxycycline has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert.
+Antimicrobial Activity Doxycycline has been shown to be active against most isolates of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section of the package insert for doxycycline hyclate.
 
 ## Gram-Negative Bacteria
 
