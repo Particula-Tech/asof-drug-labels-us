@@ -26,7 +26,7 @@ If there is lack of response to clotrimazole, appropriate microbiological studie
 
 ## Drug Interactions
 
-Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or flucytosine against strains of C. albicans has not been reported.
+Synergism or antagonism between clotrimazole and nystatin, or amphotericin B, or flucytosine against strains of C. albicanshas not been reported.
 
 ## Carcinogenesis, Mutagenesis, and Impairment of Fertility
 
