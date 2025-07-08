@@ -39,8 +39,6 @@ Females and Males of Reproductive Potential
 
 Advise patients who can become pregnant to discuss pregnancy planning with their physician [see Use in Specific Populations (8.3)].
 
-Dispense with Medication Guide available at https://www.apotex.com/products/us/mg.asp
-
 APOTEX INC
 
 RIVAROXABAN TABLETS
@@ -51,4 +49,4 @@ RIVAROXABAN TABLETS
 | --- | --- |
 
 Rev.
-4
+5

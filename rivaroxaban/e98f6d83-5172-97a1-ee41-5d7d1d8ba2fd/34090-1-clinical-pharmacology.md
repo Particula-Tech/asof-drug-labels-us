@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Rivaroxaban tablets is a selective inhibitor of FXa.
+Rivaroxaban tablets are a selective inhibitor of FXa.
 It does not require a cofactor (such as Anti-thrombin III) for activity.
 Rivaroxaban inhibits free FXa and prothrombinase activity.
 Rivaroxaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin.

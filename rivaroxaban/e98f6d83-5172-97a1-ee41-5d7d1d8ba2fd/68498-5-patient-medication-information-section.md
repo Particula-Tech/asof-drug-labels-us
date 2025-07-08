@@ -2,47 +2,53 @@
 
 Rivaroxaban (riv'' a rox' a ban)Tablets, USP
 
-Medication Guide available at https://www.apotex.com/products/us/mg.asp
-
 What is the most important information I should know about rivaroxaban tablets?
+
 Rivaroxaban tablets may cause serious side effects, including:
 
 - Increased risk of blood clots if you stop taking rivaroxaban tablets.
   People with atrial fibrillation (a type of irregular heart beat) that is not caused by a heart valve problem (non-valvular) are at an increased risk of forming a blood clot in the heart, which can travel to the brain, causing a stroke, or to other parts of the body.
   Rivaroxaban tablets lowers your chance of having a stroke by helping to prevent clots from forming.
   If you stop taking rivaroxaban tablets, you may have increased risk of forming a clot in your blood.
-  Do not stop taking rivaroxaban tablets without talking to the doctor who prescribes it for you.
-  Stopping rivaroxaban tablets increases your risk of having a stroke.
-  If you have to stop taking rivaroxaban tablets, your doctor may prescribe another blood thinner medicine to prevent a blood clot from forming.
+
+Do not stop taking rivaroxaban tablets without talking to the doctor who prescribes it for you.
+Stopping rivaroxaban tablets increases your risk of having a stroke.
+If you have to stop taking rivaroxaban tablets, your doctor may prescribe another blood thinner medicine to prevent a blood clot from forming.
+
 - Increased risk of bleeding.
   Rivaroxaban tablets can cause bleeding which can be serious and may lead to death.
-  This is because rivaroxaban tablets is a blood thinner medicine (anticoagulant) that lowers blood clotting.
+  This is because rivaroxaban tablets are a blood thinner medicine (anticoagulant) that lowers blood clotting.
   During treatment with rivaroxaban tablets you are likely to bruise more easily, and it may take longer for bleeding to stop.
-  You may have a higher risk of bleeding if you take rivaroxaban tablets and have certain other medical problems.You may have a higher risk of bleeding if you take rivaroxaban tablets and take other medicines that increase your risk of bleeding, including:
-  - aspirin or aspirin containing products
-  - long-term (chronic) use of non-steroidal anti-inflammatory drugs (NSAIDs)
-  - warfarin sodium (Coumadin®, Jantoven®)
-  - any medicine that contains heparin
-  - clopidogrel (Plavix®)
-  - selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs)
-  - other medicines to prevent or treat blood clots
+  You may have a higher risk of bleeding if you take rivaroxaban tablets and have certain other medical problems.
+
+You may have a higher risk of bleeding if you take rivaroxaban tablets and take other medicines that increase your risk of bleeding, including:
+
+- aspirin or aspirin containing products
+- long-term (chronic) use of nonsteroidal anti-inflammatory drugs (NSAIDs)
+- warfarin sodium (Coumadin®, Jantoven®)
+- any medicine that contain heparin
+- clopidogrel (Plavix®)
+- selective serotonin reuptake inibitors (SSRIs) or seretonin norepinephrine reuptake inhibitors (SNRIs)
+- other medicines to prevent or treat blood clots
 
 Tell your doctor if you take any of these medicines.
 Ask your doctor or pharmacist if you are not sure if your medicine is one listed above.
 
 Call your doctor or get medical help right away if you or your child develop any of these signs or symptoms of bleeding:
 
-- unexpected bleeding or bleeding that lasts a long time, such as:
-  - nose bleeds that happen often
-  - unusual bleeding from the gums
-  - menstrual bleeding that is heavier than normal or vaginal bleeding
-- bleeding that is severe or you cannot control
-- red, pink or brown urine
-- bright red or black stools (looks like tar)
-- cough up blood or blood clots
-- vomit blood or your vomit looks like “coffee grounds”
-- headaches, feeling dizzy or weak
-- pain, swelling, or new drainage at wound sites
+- 
+  - unexpected bleeding or bleeding that lasts a long time, such as:
+    - nose bleeds that happen often
+    - unusual bleeding from the gums
+    - menstrual bleeding that is heavier than normal or vaginal bleeding
+    - bleeding that is severe or you cannot control
+  - red, pink or brown urine
+  - bright red or black stools (looks like tar)
+  - cough up blood or blood clots
+  - vomit blood or your vomit looks like “coffee grounds”
+  - headaches, feeling dizzy or weak
+  - pain, swelling, or new drainage at wound sites
+  - left upper belly (abdominal) pain, pain below the left rib cage or at the tip of your left shoulder or diffuse abdominal discomfort (these may be symptoms of rupture of the spleen)
 - Spinal or epidural blood clots (hematoma).
   People who take a blood thinner medicine (anticoagulant) like rivaroxaban tablets, and have medicine injected into their spinal and epidural area, or have a spinal puncture have a risk of forming a blood clot that can cause long-term or permanent loss of the ability to move (paralysis).
   Your risk of developing a spinal or epidural blood clot is higher if:
@@ -197,9 +203,9 @@ RIVAROXABAN TABLETS
 | Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida USA 33326 |
 | --- | --- |
 
-Revised: December 2023
+Revised: July 2025
 
 Rev.
-4
+5
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

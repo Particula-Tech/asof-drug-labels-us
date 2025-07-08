@@ -20,10 +20,13 @@ Switching from Warfarin to Rivaroxaban Tablets - When switching patients from wa
 
 Switching from Rivaroxaban Tablets to Warfarin –
 
-- Adults:No clinical trial data are available to guide converting patients from rivaroxaban tablets to warfarin.
-  Rivaroxaban tablets affects INR, so INR measurements made during coadministration with warfarin may not be useful for determining the appropriate dose of warfarin.
-  One approach is to discontinue rivaroxaban tablets and begin both a parenteral anticoagulant and warfarin at the time the next dose of rivaroxaban tablets would have been taken.
-  Once rivaroxaban tablets is discontinued, INR testing may be done reliably 24 hours after the last dose.
+- Adults:
+
+No clinical trial data are available to guide converting patients from rivaroxaban tablets to warfarin.
+Rivaroxaban tablets affects INR, so INR measurements made during coadministration with warfarin may not be useful for determining the appropriate dose of warfarin.
+One approach is to discontinue rivaroxaban tablets and begin both a parenteral anticoagulant and warfarin at the time the next dose of rivaroxaban tablets would have been taken.
+
+Once rivaroxaban tablets are discontinued, INR testing may be done reliably 24 hours after the last dose.
 
 Switching from Rivaroxaban Tablets to Anticoagulants other than Warfarin - For adult patients currently taking rivaroxaban tablets and transitioning to an anticoagulant with rapid onset, discontinue rivaroxaban tablets and give the first dose of the other anticoagulant (oral or parenteral) at the time that the next rivaroxaban tablets dose would have been taken [see Drug Interactions (7.4)].
 

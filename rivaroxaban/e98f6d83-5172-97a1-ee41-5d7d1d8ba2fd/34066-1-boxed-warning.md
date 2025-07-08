@@ -1,3 +1,5 @@
+# WARNING
+
 WARNING: (A) PREMATURE DISCONTINUATION OF RIVAROXABAN TABLETS INCREASES THE RISK OF THROMBOTIC EVENTS, (B) SPINAL/EPIDURAL HEMATOMA
 
 A. Premature discontinuation of rivaroxaban tablets increases the risk of thrombotic events Premature discontinuation of any oral anticoagulant, including rivaroxaban tablets, increases the risk of thrombotic events.

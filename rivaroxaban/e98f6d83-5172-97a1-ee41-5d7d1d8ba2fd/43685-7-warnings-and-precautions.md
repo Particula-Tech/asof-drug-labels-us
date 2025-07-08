@@ -8,7 +8,7 @@ If rivaroxaban tablets are discontinued for a reason other than pathological ble
 
 ## 5.2 Risk of Bleeding
 
-Rivaroxaban tablets increases the risk of bleeding and can cause serious or fatal bleeding.
+Rivaroxaban tablets increase the risk of bleeding, including in any organ, and can cause serious or fatal bleeding.
 In deciding whether to prescribe rivaroxaban tablets to patients at increased risk of bleeding, the risk of thrombotic events should be weighed against the risk of bleeding.
 
 Promptly evaluate any signs or symptoms of blood loss and consider the need for blood replacement.
@@ -22,7 +22,7 @@ Concomitant use of drugs that are known combined P-gp and strong CYP3A inhibitor
 
 Risk of Hemorrhage in Acutely Ill Medical Patients at High Risk of Bleeding
 
-Acutely ill medical patients with the following conditions are at increased risk of bleeding with the use of rivaroxaban tablets for another indication: history of bronchiectasis, pulmonary cavitation, or pulmonary hemorrhage, active cancer (i.e., undergoing acute, in-hospital cancer treatment), active gastroduodenal ulcer in the three months prior to treatment, history of bleeding in the three months prior to treatment, or dual antiplatelet therapy.
+Acutely ill medical patients with the following conditions are at increased risk of bleeding with the use of rivaroxaban tablets for second another indication: history of bronchiectasis, pulmonary cavitation, or pulmonary hemorrhage, active cancer (i.e., undergoing acute, in-hospital cancer treatment), active gastroduodenal ulcer in the three months prior to treatment, history of bleeding in the three months prior to treatment, or dual antiplatelet therapy.
 Rivaroxaban tablets are not for use for second another indication in these hospitalized, acutely ill medical patients at high risk of bleeding.
 
 Reversal of Anticoagulant Effect
