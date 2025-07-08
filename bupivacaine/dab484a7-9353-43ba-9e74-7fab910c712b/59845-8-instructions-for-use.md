@@ -33,17 +33,17 @@ ZYNRELEF kit should be stored at 20°C to 25°C (68°F to 77°F) with excursions
 For Operating Room Preparation
 
 It is recommended that a 2-person team prepare this product: one sterile person and one non-sterile person.
-If product is prepared in advance of surgery, syringe tip caps ➍ may be used to cap the syringe until ready for application.
-Before administration, remove the syringe tip cap and attach the Luer lock applicator ➌.
+If product is prepared in advance of surgery, blue syringe tip caps ➍ may be used to cap the syringe until ready for application.
+Before administration, remove the blue syringe tip cap and attach the Luer lock applicator ➌.
 
 The ZYNRELEF Kit Contents
 
 Use only the components listed below supplied for use with ZYNRELEF.
 
-- ➊Vented Vial Spike (Part #011-CS-75) (sterile)
-- ➋12 mL Luer Lock Syringe (Part #4100-X00V0) (sterile) (2×)
-- ➌Luer Lock Applicator (Part #709689) (sterile) (2×)
-- ➍Tip Caps (Part #305819) (sterile) (2×) (preparation in advance)
+- ➊Vented Vial Spike (sterile)
+- ➋12 mL Luer Lock Syringe (sterile) (2×)
+- ➌Luer Lock Applicator (sterile) (2×)
+- ➍Blue Tip Caps (sterile) (2×) (preparation in advance)
 - ➎14 mL ZYNRELEF Vial (contents sterile, exterior not sterile)
 
 | Preparation |  |  |  |  |
@@ -151,17 +151,17 @@ ZYNRELEF kit should be stored at 20°C to 25°C (68°F to 77°F) with excursions
 For Operating Room Preparation
 
 It is recommended that a 2-person team prepare this product: one sterile person and one non-sterile person.
-If product is prepared in advance of surgery, a syringe tip cap ➍ may be used to cap the syringe until ready for application.
-Before administration, remove the syringe tip cap and attach the Luer lock applicator ➌.
+If product is prepared in advance of surgery, a blue syringe tip cap ➍ may be used to cap the syringe until ready for application.
+Before administration, remove the blue syringe tip cap and attach the Luer lock applicator ➌.
 
 The ZYNRELEF Kit Contents
 
 Use only the components listed below supplied for use with ZYNRELEF.
 
-- ➊Vented Vial Spike (Part #011-CS-75) (sterile)
-- ➋12 mL Luer Lock Syringe (Part #4100-X00V0) (sterile)
-- ➌Luer Lock Applicator (Part #709689) (sterile)
-- ➍Tip Cap (Part #305819) (sterile) (preparation in advance)
+- ➊Vented Vial Spike (sterile)
+- ➋12 mL Luer Lock Syringe (sterile)
+- ➌Luer Lock Applicator (sterile)
+- ➍Blue Tip Cap (sterile) (preparation in advance)
 - ➎10.5 mL ZYNRELEF Vial (contents sterile, exterior not sterile)
 
 | Preparation |  |  |  |  |
@@ -269,17 +269,17 @@ ZYNRELEF kit should be stored at 20°C to 25°C (68°F to 77°F) with excursions
 For Operating Room Preparation
 
 It is recommended that a 2-person team prepare this product: one sterile person and one non-sterile person.
-If product is prepared in advance of surgery, a syringe tip cap ➍ may be used to cap the syringe until ready for application.
-Before administration, remove the syringe tip cap and attach the Luer lock applicator ➌.
+If product is prepared in advance of surgery, a blue syringe tip cap ➍ may be used to cap the syringe until ready for application.
+Before administration, remove the blue syringe tip cap and attach the Luer lock applicator ➌.
 
 The ZYNRELEF Kit Contents
 
 Use only the components listed below supplied for use with ZYNRELEF.
 
-- ➊Vented Vial Spike (Part #011-CS-75) (sterile)
-- ➋12 mL Luer Lock Syringe (Part #4100-X00V0) (sterile)
-- ➌Luer Lock Applicator (Part #709689) (sterile)
-- ➍Tip Cap (Part #305819) (sterile) (preparation in advance)
+- ➊Vented Vial Spike (sterile)
+- ➋12 mL Luer Lock Syringe (sterile)
+- ➌Luer Lock Applicator (sterile)
+- ➍Blue Tip Cap (sterile) (preparation in advance)
 - ➎7 mL ZYNRELEF Vial (contents sterile, exterior not sterile)
 
 | Preparation |  |  |  |  |
@@ -387,17 +387,17 @@ ZYNRELEF kit should be stored at 20°C to 25°C (68°F to 77°F) with excursions
 For Operating Room Preparation
 
 It is recommended that a 2-person team prepare this product: one sterile person and one non-sterile person.
-If product is prepared in advance of surgery, a syringe tip cap ➍ may be used to cap the syringe until ready for application.
-Before administration, remove the syringe tip cap and attach the Luer lock applicator ➌.
+If product is prepared in advance of surgery, a blue syringe tip cap ➍ may be used to cap the syringe until ready for application.
+Before administration, remove the blue syringe tip cap and attach the Luer lock applicator ➌.
 
 The ZYNRELEF Kit Contents
 
 Use only the components listed below supplied for use with ZYNRELEF.
 
-- ➊Vented Vial Spike (Part #011-CS-75) (sterile)
-- ➋3 mL Luer Lock Syringe (Part #4020-X00V0) (sterile)
-- ➌Luer Lock Applicator (Part #709689) (sterile)
-- ➍Tip Cap (Part #305819) (sterile) (preparation in advance)
+- ➊Vented Vial Spike (sterile)
+- ➋3 mL Luer Lock Syringe (sterile)
+- ➌Luer Lock Applicator (sterile)
+- ➍Blue Tip Cap (sterile) (preparation in advance)
 - ➎2.3 mL ZYNRELEF Vial (contents sterile, exterior not sterile)
 
 | Preparation |  |  |  |  |
@@ -512,10 +512,10 @@ The ZYNRELEF Kit Contents
 
 Use only the components listed below supplied for use with ZYNRELEF.
 
-- ➊20 mL Vial Access Needle (VAN) (Part #12027-325-31) (sterile)
-- ➋12 mL Luer Lock Syringe (Part #4100-X00V0) (sterile) (2×)
-- ➌Luer Lock Applicator (Part #709689) (sterile) (2×)
-- ➍Blue Tip Caps (Part #305819) (sterile) (2×) (preparation in advance)
+- ➊20 mL Vial Access Needle (VAN) (sterile)
+- ➋12 mL Luer Lock Syringe (sterile) (2×)
+- ➌Luer Lock Applicator (sterile) (2×)
+- ➍Blue Tip Caps (sterile) (2×) (preparation in advance)
 - ➎14 mL ZYNRELEF Vial (contents sterile, exterior not sterile)
 
 | Preparation |  |  |  |  |
@@ -623,10 +623,10 @@ The ZYNRELEF Kit Contents
 
 Use only the components listed below supplied for use with ZYNRELEF.
 
-- ➊20 mL Vial Access Needle (VAN) (Part #12027-325-31) (sterile)
-- ➋12 mL Luer Lock Syringe (Part #4100-X00V0) (sterile)
-- ➌Luer Lock Applicator (Part #709689) (sterile)
-- ➍Blue Tip Cap (Part #305819) (sterile) (preparation in advance)
+- ➊20 mL Vial Access Needle (VAN) (sterile)
+- ➋12 mL Luer Lock Syringe (sterile)
+- ➌Luer Lock Applicator (sterile)
+- ➍Blue Tip Cap (sterile) (preparation in advance)
 - ➎10.5 mL ZYNRELEF Vial (contents sterile, exterior not sterile)
 
 | Preparation |  |  |  |  |
@@ -734,10 +734,10 @@ The ZYNRELEF Kit Contents
 
 Use only the components listed below supplied for use with ZYNRELEF.
 
-- ➊10 mL Vial Access Needle (VAN) (Part #12027-325-32) (sterile)
-- ➋12 mL Luer Lock Syringe (Part #4100-X00V0) (sterile)
-- ➌Luer Lock Applicator (Part #709689) (sterile)
-- ➍Blue Tip Cap (Part #305819) (sterile) (preparation in advance)
+- ➊10 mL Vial Access Needle (VAN) (sterile)
+- ➋12 mL Luer Lock Syringe (sterile)
+- ➌Luer Lock Applicator (sterile)
+- ➍Blue Tip Cap (sterile) (preparation in advance)
 - ➎7 mL ZYNRELEF Vial (contents sterile, exterior not sterile)
 
 | Preparation |  |  |  |  |
@@ -845,10 +845,10 @@ The ZYNRELEF Kit Contents
 
 Use only the components listed below supplied for use with ZYNRELEF.
 
-- ➊10 mL Vial Access Needle (VAN) (Part #12027-325-32) (sterile)
-- ➋3 mL Luer Lock Syringe (Part #4020-X00V0) (sterile)
-- ➌Luer Lock Applicator (Part #709689) (sterile)
-- ➍Blue Tip Cap (Part #305819) (sterile) (preparation in advance)
+- ➊10 mL Vial Access Needle (VAN) (sterile)
+- ➋3 mL Luer Lock Syringe (sterile)
+- ➌Luer Lock Applicator (sterile)
+- ➍Blue Tip Cap (sterile) (preparation in advance)
 - ➎2.3 mL ZYNRELEF Vial (contents sterile, exterior not sterile)
 
 | Preparation |  |  |  |  |
