@@ -9,8 +9,7 @@ If involvement of the tongue, hypopharynx, or larynx occurs, oxybutynin should b
 
 ## Central Nervous System Effects
 
-Oxybutynin is associated with anticholinergic central nervous system (CNS) effects [see ADVERSE REACTIONS].
-A variety of CNS anticholinergic effects have been reported, including hallucinations, agitation, confusion and somnolence.
+Oxybutynin is associated with anticholinergic central nervous system (CNS) effects [seeADVERSE REACTIONS].A variety of CNS anticholinergic effects have been reported, including hallucinations, agitation, confusion and somnolence.
 Patients should be monitored for signs of anticholinergic CNS effects, particularly in the first few months after beginning treatment or increasing the dose.
 If a patient experiences anticholinergic CNS effects, dose reduction or drug discontinuation should be considered.
 
@@ -26,13 +25,13 @@ Oxybutynin chloride may aggravate the symptoms of hyperthyroidism, coronary hear
 
 ## Urinary Retention
 
-Oxybutynin chloride should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention [see CONTRAINDICATIONS].
+Oxybutynin chloride should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention [seeCONTRAINDICATIONS].
 
 ## Gastrointestinal Disorders
 
 Oxybutynin chloride should be used with caution in patients with autonomic neuropathy due to the risk of aggravation of symptoms of decreased gastrointestinal motility.
 
-Oxybutynin chloride should be administered with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention [see CONTRAINDICATIONS].
+Oxybutynin chloride should be administered with caution to patients with gastrointestinal obstructive disorders because of the risk of gastric retention [seeCONTRAINDICATIONS].
 
 Administration of oxybutynin chloride to patients with ulcerative colitis may suppress intestinal motility to the point of producing a paralytic ileus and precipitate or aggravate toxic megacolon, a serious complication of the disease.
 
@@ -61,7 +60,7 @@ Anticholinergic agents may also antagonize the effects of prokinetic agents, suc
 
 Mean oxybutynin chloride plasma concentrations were approximately 3 to 4 fold higher when oxybutynin chloride was administered with ketoconazole, a potent CYP3A4 inhibitor.
 
-Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter oxybutynin mean pharmacokinetic parameters (i.e., Cmax and AUC).
+Other inhibitors of the cytochrome P450 3A4 enzyme system, such as antimycotic agents (e.g., itraconazole and miconazole) or macrolide antibiotics (e.g., erythromycin and clarithromycin), may alter oxybutynin mean pharmacokinetic parameters (i.e., C maxand AUC).
 The clinical relevance of such potential interactions is not known.
 Caution should be used when such drugs are coadministered.
 
@@ -70,7 +69,7 @@ Caution should be used when such drugs are coadministered.
 A 24-month study in rats at dosages of oxybutynin chloride of 20, 80, and 160 mg/kg/day showed no evidence of carcinogenicity.
 These doses are approximately 6, 25, and 50 times the maximum human exposure, based on surface area.
 
-Oxybutynin chloride showed no increase of mutagenic activity when tested in Schizosaccharomyces pompholiciformis, Saccharomyces cerevisiae and Salmonella typhimurium test systems.
+Oxybutynin chloride showed no increase of mutagenic activity when tested in Schizosaccharomyces pompholiciformis, Saccharomyces cerevisiaeand Salmonella typhimuriumtest systems.
 
 Reproduction studies using oxybutynin chloride in the hamster, rabbit, rat, and mouse have shown no definite evidence of impaired fertility.
 
@@ -87,7 +86,7 @@ Because many drugs are excreted in human milk, caution should be exercised when 
 
 ## Pediatric Use
 
-The safety and efficacy of oxybutynin chloride administration have been demonstrated for pediatric patients 5 years of age and older [see DOSAGE AND ADMINISTRATION].
+The safety and efficacy of oxybutynin chloride administration have been demonstrated for pediatric patients 5 years of age and older [seeDOSAGE AND ADMINISTRATION].
 
 The safety and efficacy of oxybutynin chloride tablets were studied in 30 children in a 24-week, open-label trial.
 Patients were aged 5 to 15 years, all had symptoms of detrusor overactivity in association with a neurological condition (e.g., spina bifida), all used clean intermittent catheterization, and all were current users of oxybutynin chloride.
@@ -95,11 +94,12 @@ Study results demonstrated that the administration of oxybutynin chloride was as
 
 At total daily doses ranging from 5 mg to 15 mg, treatment with oxybutynin chloride tablets was associated with an increase from baseline in mean urine volume per catheterization from 122 mL to 145 mL, an increase from baseline in mean urine volume after morning awakening from 148 mL to 168 mL, and an increase from baseline in the mean percentage of catheterizations without a leaking episode from 43% to 61%.
 Urodynamic results in these patients were consistent with the clinical results.
-Treatment with oxybutynin chloride tablets was associated with an increase from baseline in maximum cystometric capacity from 230 mL to 279 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 36 cm H2O to 33 cm H2O, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H2O) from 39% to 20%.
+Treatment with oxybutynin chloride tablets was associated with an increase from baseline in maximum cystometric capacity from 230 mL to 279 mL, a decrease from baseline in mean detrusor pressure at maximum cystometric capacity from 36 cm H 2O to 33 cm H 2O, and a reduction in the percentage of patients demonstrating uninhibited detrusor contractions (of at least 15 cm H 2O) from 39% to 20%.
 
 As there is insufficient clinical data for pediatric populations under age 5, oxybutynin chloride is not recommended for this age group.
 
 ## Geriatric Use
 
 Clinical studies of oxybutynin chloride did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger patients.
-Other reported clinical experience has not identified differences in responses between healthy elderly and younger patients; however, a lower initial starting dose of 2.5 mg given 2 or 3 times a day has been recommended for the frail elderly due to a prolongation of the elimination half-life from 2 to 3 hours to 5 hours.2,3,4 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
+Other reported clinical experience has not identified differences in responses between healthy elderly and younger patients; however, a lower initial starting dose of 2.5 mg given 2 or 3 times a day has been recommended for the frail elderly due to a prolongation of the elimination half-life from 2 to 3 hours to 5 hours.
+2,3,4In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.

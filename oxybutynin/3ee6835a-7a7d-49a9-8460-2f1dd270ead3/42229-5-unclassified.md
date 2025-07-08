@@ -1,5 +1,5 @@
 Rx only
 
-Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
+Distributed by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Revised: 6/2020
+Revised: 1/2025

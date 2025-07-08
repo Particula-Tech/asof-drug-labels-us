@@ -27,33 +27,33 @@ The incidence of dry mouth was dose-related.
 
 In addition, the following adverse events were reported by 1% to <5% of patients using oxybutynin chloride (5 to 20 mg/day) in all studies.
 
-Infections and Infestations: nasopharyngitis, upper respiratory tract infection, bronchitis, cystitis, fungal infection
+Infections and Infestations:nasopharyngitis, upper respiratory tract infection, bronchitis, cystitis, fungal infection
 
-Metabolism and Nutrition Disorders: fluid retention
+Metabolism and Nutrition Disorders:fluid retention
 
-Psychiatric Disorders: confusional state
+Psychiatric Disorders:confusional state
 
-Nervous System Disorders: dysgeusia, sinus headache
+Nervous System Disorders:dysgeusia, sinus headache
 
-Eye Disorders: keratoconjunctivitis sicca, eye irritation
+Eye Disorders:keratoconjunctivitis sicca, eye irritation
 
-Cardiac Disorders: palpitations, sinus arrhythmia
+Cardiac Disorders:palpitations, sinus arrhythmia
 
-Vascular Disorders: flushing
+Vascular Disorders:flushing
 
-Respiratory, Thoracic and Mediastinal Disorders: nasal dryness, cough, pharyngolaryngeal pain, dry throat, sinus congestion, hoarseness, asthma, nasal congestion
+Respiratory, Thoracic and Mediastinal Disorders:nasal dryness, cough, pharyngolaryngeal pain, dry throat, sinus congestion, hoarseness, asthma, nasal congestion
 
-Gastrointestinal Disorders: diarrhea, abdominal pain, loose stools, flatulence, vomiting, abdominal pain upper, dysphagia, aptyalism, eructation, tongue coated
+Gastrointestinal Disorders:diarrhea, abdominal pain, loose stools, flatulence, vomiting, abdominal pain upper, dysphagia, aptyalism, eructation, tongue coated
 
-Skin and Subcutaneous Tissue Disorders: dry skin, pruritis
+Skin and Subcutaneous Tissue Disorders:dry skin, pruritis
 
-Musculoskeletal and Connective Tissue Disorders: back pain, arthralgia, pain in extremity, flank pain
+Musculoskeletal and Connective Tissue Disorders:back pain, arthralgia, pain in extremity, flank pain
 
-Renal and Urinary Disorders: dysuria, pollakiuria
+Renal and Urinary Disorders:dysuria, pollakiuria
 
-General Disorders and Administration Site Conditions: fatigue, edema peripheral, asthenia, pain, thirst, edema
+General Disorders and Administration Site Conditions:fatigue, edema peripheral, asthenia, pain, thirst, edema
 
-Investigations: blood pressure increased, blood glucose increased, blood pressure decreased
+Investigations:blood pressure increased, blood glucose increased, blood pressure decreased
 
 Injury, Poisoning, and Procedural Complications: fall
 
@@ -63,24 +63,24 @@ Because postmarketing adverse events are reported voluntarily from a population 
 
 The following additional adverse events have been reported from worldwide postmarketing experience with oxybutynin chloride:
 
-Psychiatric Disorders: psychotic disorder, agitation, hallucination, memory impairment
+Psychiatric Disorders:psychotic disorder, agitation, hallucination, memory impairment
 
-Nervous System Disorders: convulsions
+Nervous System Disorders:convulsions
 
-Eye Disorders: cycloplegia, mydriasis, glaucoma
+Eye Disorders:cycloplegia, mydriasis, glaucoma
 
-Cardiac Disorders: tachycardia, QT interval prolongation, chest discomfort
+Cardiac Disorders:tachycardia, QT interval prolongation, chest discomfort
 
-Gastrointestinal Disorders: decreased gastrointestinal motility, frequent bowel movement
+Gastrointestinal Disorders:decreased gastrointestinal motility, frequent bowel movement
 
-Skin and Subcutaneous Tissue Disorders: rash, decreased sweating
+Skin and Subcutaneous Tissue Disorders:rash, decreased sweating
 
-Renal and Urinary Disorders: impotence
+Renal and Urinary Disorders:impotence
 
-Reproductive System and Breast Disorders: suppression of lactation
+Reproductive System and Breast Disorders:suppression of lactation
 
-General Disorders and Administration Site Conditions: hypersensitivity reactions, including angioedema with airway obstruction, urticaria, and face edema; rare anaphylactic reactions requiring hospitalization for emergency treatment
+General Disorders and Administration Site Conditions:hypersensitivity reactions, including angioedema with airway obstruction, urticaria, and face edema; rare anaphylactic reactions requiring hospitalization for emergency treatment
 
-Metabolism and Nutrition Disorders: anorexia
+Metabolism and Nutrition Disorders:anorexia
 
-Respiratory, Thoracic and Mediastinal Disorders: dysphonia
+Respiratory, Thoracic and Mediastinal Disorders:dysphonia
