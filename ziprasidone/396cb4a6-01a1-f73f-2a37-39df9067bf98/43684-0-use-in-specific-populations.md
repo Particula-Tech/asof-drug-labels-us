@@ -22,13 +22,13 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease-associated maternal and/or embryo/fetal risk
+Disease-associated Maternal and/or Embryo/Fetal Risk
 
 There is risk to the mother from untreated schizophrenia or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
 Schizophrenia and bipolar I disorder are associated with increased adverse perinatal outcomes, including preterm birth.
 It is not known if this is a direct result of the illness or other comorbid factors.
 
-Fetal/neonatal adverse reactions
+Fetal/Neonatal Adverse Reactions
 
 Extrapyramidal and/or withdrawal symptoms, including agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, and feeding disorder have been reported in neonates who were exposed to antipsychotic drugs, including ziprasidone capsules, during the third trimester of pregnancy.
 These symptoms have varied in severity.
@@ -80,8 +80,9 @@ Based on the pharmacologic action of ziprasidone (D2 antagonism), treatment with
 
 The safety and effectiveness of ziprasidone have not been established in pediatric patients.
 
-Pediatric information is approved for Viatris Specialty LLC’s Geodon (ziprasidone HCl) capsules.
-However, due to Viatris Specialty LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
+Ziprasidone was studied in one 4-week, placebo-controlled trial in patients 10 to 17 years of age with bipolar I disorder.
+However, the data were insufficient to fully assess the safety of ziprasidone in pediatric patients.
+Therefore, a safe and effective dose for use could not be established.
 
 ## 8.5 Geriatric Use
 

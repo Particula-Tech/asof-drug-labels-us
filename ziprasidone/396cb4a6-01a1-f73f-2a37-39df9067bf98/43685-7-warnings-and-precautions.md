@@ -1,6 +1,6 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Increased Mortality in Elderly Patients With Dementia-Related Psychosis
+## 5.1 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
@@ -9,7 +9,7 @@ Over the course of a typical 10-week controlled trial, the rate of death in drug
 Although the causes of death were varied, most of the deaths appeared to be either cardiovascular (e.g., heart failure, sudden death) or infectious (e.g., pneumonia) in nature.
 Ziprasidone is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning, Warnings and Precautions (5.2)]
 
-## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients With Dementia-Related Psychosis
+## 5.2 Cerebrovascular Adverse Reactions, Including Stroke, in Elderly Patients with Dementia-Related Psychosis
 
 In placebo-controlled trials in elderly subjects with dementia, patients randomized to risperidone, aripiprazole, and olanzapine had a higher incidence of stroke and transient ischemic attack, including fatal stroke.
 Ziprasidone is not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)].
@@ -58,7 +58,22 @@ Ziprasidone should be discontinued in patients who are found to have persistent 
 
 For patients taking ziprasidone who experience symptoms that could indicate the occurrence of torsade de pointes, e.g., dizziness, palpitations, or syncope, the prescriber should initiate further evaluation, e.g., Holter monitoring may be useful.
 
-## 5.4 Neuroleptic Malignant Syndrome (NMS)
+## 5.4 Serotonin Syndrome
+
+Ziprasidone can precipitate serotonin syndrome, a potentially life-threatening condition.
+The risk is increased with concomitant use of other serotonergic drugs (including selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, tramadol, meperidine, methadone, lithium, tryptophan, buspirone, amphetamines, and St. John’s Wort) and with drugs that impair metabolism of serotonin, i.e., monoamine oxidase inhibitors (MAOIs) [see Contraindications (4.3), Adverse Reactions (6.2), Drug Interactions (7.3)].
+
+Serotonin syndrome signs and symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
+
+The concomitant use of ziprasidone with MAOIs is contraindicated.
+In addition, do not initiate ziprasidone in a patient being treated with MAOIs such as linezolid or intravenous methylene blue.
+If it is necessary to initiate treatment with an MAOI such as linezolid or intravenous methylene blue in a patient taking ziprasidone, discontinue ziprasidone before initiating treatment with the MAOI [see Contraindications (4.3), Drug Interactions (7.3)].
+
+Monitor all patients taking ziprasidone for the emergence of serotonin syndrome.
+Discontinue treatment with ziprasidone and any concomitant serotonergic agents immediately if the above symptoms occur, and initiate supportive symptomatic treatment.
+If concomitant use of ziprasidone with other serotonergic drugs is clinically warranted, inform patients of the increased risk of serotonin syndrome and monitor for symptoms.
+
+## 5.5 Neuroleptic Malignant Syndrome (NMS)
 
 A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with administration of antipsychotic drugs.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
@@ -74,7 +89,7 @@ There is no general agreement about specific pharmacological treatment regimens 
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
 The patient should be carefully monitored, since recurrences of NMS have been reported.
 
-## 5.5 Severe Cutaneous Adverse Reactions
+## 5.6 Severe Cutaneous Adverse Reactions
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
@@ -89,7 +104,7 @@ Other severe cutaneous adverse reactions, such as Stevens-Johnson syndrome, have
 Severe cutaneous adverse reactions are sometimes fatal.
 Discontinue ziprasidone if severe cutaneous adverse reactions are suspected.
 
-## 5.6 Tardive Dyskinesia
+## 5.7 Tardive Dyskinesia
 
 A syndrome of potentially irreversible, involuntary, dyskinetic movements may develop in patients undergoing treatment with antipsychotic drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of antipsychotic treatment, which patients are likely to develop the syndrome.
@@ -110,7 +125,7 @@ The need for continued treatment should be reassessed periodically.
 If signs and symptoms of tardive dyskinesia appear in a patient on ziprasidone, drug discontinuation should be considered.
 However, some patients may require treatment with ziprasidone despite the presence of the syndrome.
 
-## 5.7 Metabolic Changes
+## 5.8 Metabolic Changes
 
 Atypical antipsychotic drugs have been associated with metabolic changes that may increase cardiovascular/cerebrovascular risk.
 These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
@@ -135,7 +150,7 @@ Pooled data from short-term, placebo-controlled studies in schizophrenia and bip
 Note that for the flexible dose studies in both schizophrenia and bipolar disorder, each subject is categorized as having received either low (20 to 40 mg BID) or high (60 to 80 mg BID) dose based on the subject’s modal daily dose.
 In the tables showing categorical changes, the percentages (% column) are calculated as 100x (n/N).
 
-Table 1: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients With Schizophrenia
+Table 1: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Schizophrenia
 
 | Mean Random Glucose Change from Baseline mg/dL (N) |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -145,20 +160,20 @@ Table 1: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Place
 
 *‟Random” glucose measurements—fasting/non-fasting status unknown
 
-Table 2: Glucose* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients With Schizophrenia
+Table 2: Glucose* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Schizophrenia
 
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
 | Random Glucose | Normal to High (<100 mg/dL to ≥126 mg/dL) | Ziprasidone | 438 | 77 (17.6%) |
 |  |  | Placebo | 169 | 26 (15.4%) |
-|  | Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Ziprasidone | 159 | 54 (34%) |
+|  | Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Ziprasidone | 159 | 54 (34.0%) |
 |  |  | Placebo | 66 | 22 (33.3%) |
 
 *‟Random” glucose measurements – fasting/non-fasting status unknown
 
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random glucose for ziprasidone 20 to 40 mg BID was -3.4 mg/dL (N=122); for ziprasidone 60 to 80 mg BID was +1.3 mg/dL (N=10); and for placebo was +0.3 mg/dL (N=71).
 
-Table 3: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients With Bipolar Disorder
+Table 3: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Bipolar Disorder
 
 | Mean Fasting Glucose Change from Baseline mg/dL (N) |  |  |
 | --- | --- | --- |
@@ -168,12 +183,12 @@ Table 3: Glucose* Mean Change from Baseline in Short-Term (up to 6 weeks), Place
 
 *Fasting
 
-Table 4: Glucose* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients With Bipolar Disorder
+Table 4: Glucose* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Bipolar Disorder
 
-| Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | n(%) |
+| Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
 | Fasting Glucose | Normal to High (<100 mg/dL to ≥126 mg/dL) | Ziprasidone | 272 | 5 (1.8%) |
-|  |  | Placebo | 210 | 2 (1%) |
+|  |  | Placebo | 210 | 2 (1.0%) |
 |  | Borderline to High (≥100 mg/dL and <126 mg/dL to ≥126 mg/dL) | Ziprasidone | 79 | 12 (15.2%) |
 |  |  | Placebo | 71 | 7 (9.9%) |
 
@@ -184,18 +199,18 @@ Dyslipidemia
 Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
 Pooled data from short-term, placebo-controlled studies in schizophrenia and bipolar disorder are presented in Tables 5-8.
 
-Table 5: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Schizophrenia
+Table 5: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Schizophrenia
 
 | Mean Lipid Change from Baseline mg/dL (N) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Laboratory Analyte |  |  | Ziprasidone |  |  |  | Placebo |
 |  | 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |
-| Triglycerides | -12.9 (N=45) | -9.6 (N=181) | -17.3 (N=146) | -0.05 (N=120) | -16 (N=104) | +0.8 (N=85) | -18.6 (N=260) |
-| Total Cholesterol | -3.6 (N=45) | -4.4 (N=181) | -8.2 (N=147) | -3.6 (N=120) | -10 (N=104) | -3.6 (N=85) | -4.7 (N=261) |
+| Triglycerides | -12.9 (N=45) | -9.6 (N=181) | -17.3 (N=146) | -0.05 (N=120) | -16.0 (N=104) | +0.8 (N=85) | -18.6 (N=260) |
+| Total Cholesterol | -3.6 (N=45) | -4.4 (N=181) | -8.2 (N=147) | -3.6 (N=120) | -10.0 (N=104) | -3.6 (N=85) | -4.7 (N=261) |
 
 *‟Random” lipid measurements, fasting/non-fasting status unknown
 
-Table 6: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Schizophrenia
+Table 6: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Schizophrenia
 
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
@@ -208,7 +223,7 @@ Table 6: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Contr
 | Total Cholesterol | Increase by ≥40 mg/dL | Ziprasidone | 682 | 76 (11.1%) |
 |  |  | Placebo | 261 | 26 (10%) |
 |  | Normal to High (<200 mg/dL to ≥240 mg/dL) | Ziprasidone | 380 | 15 (3.9%) |
-|  |  | Placebo | 145 | 0 (0%) |
+|  |  | Placebo | 145 | 0 (0.0%) |
 |  | Borderline to High (≥200 mg/dL and <240 mg/dL to ≥240 mg/dL) | Ziprasidone | 207 | 56 (27.1%) |
 |  |  | Placebo | 82 | 22 (26.8%) |
 
@@ -217,7 +232,7 @@ Table 6: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Contr
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random triglycerides for ziprasidone 20 to 40 mg BID was +26.3 mg/dL (N=15); for ziprasidone 60 to 80 mg BID was -39.3 mg/dL (N=10); and for placebo was +12.9 mg/dL (N=9).
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline in random total cholesterol for ziprasidone 20 to 40 mg BID was +2.5 mg/dL (N=14); for ziprasidone 60 to 80 mg BID was -19.7 mg/dL (N=10); and for placebo was -28 mg/dL (N=9).
 
-Table 7: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Bipolar Disorder
+Table 7: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Bipolar Disorder
 
 | Laboratory Analyte | Mean Change from Baseline mg/dL (N) |  |  |
 | --- | --- | --- | --- |
@@ -225,12 +240,12 @@ Table 7: Lipid* Mean Change from Baseline in Short-Term (up to 6 weeks), Placebo
 |  | Low Dose:20 to 40 mg BID | High Dose:60 to 80 mg BID |  |
 | Fasting Triglycerides | +0.95 (N=206) | -3.5 (N=165) | +8.6 (N=286) |
 | Fasting Total Cholesterol | -2.8 (N=206) | -3.4 (N=165) | -1.6 (N=286) |
-| Fasting LDL Cholesterol | -3 (N=201) | -3.1 (N=158) | -1.97 (N=270) |
+| Fasting LDL Cholesterol | -3.0 (N=201) | -3.1 (N=158) | -1.97 (N=270) |
 | Fasting HDL cholesterol | -0.09 (N=206) | +0.3 (N=165) | -0.9 (N=286) |
 
 * Fasting
 
-Table 8: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Bipolar Disorder
+Table 8: Lipid* Categorical Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients with Bipolar Disorder
 
 | Laboratory Analyte | Category Change (at least once) from Baseline | Treatment Arm | N | n (%) |
 | --- | --- | --- | --- | --- |
@@ -263,29 +278,29 @@ Weight gain has been observed with atypical antipsychotic use.
 Monitoring of weight is recommended.
 Pooled data from short-term, placebo-controlled studies in schizophrenia and bipolar disorder are presented in Tables 9-10
 
-Table 9: Weight Mean Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Schizophrenia
+Table 9: Weight Mean Changes in Short-Term (up to 6 weeks), Placebo-Controlled, Fixed-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Schizophrenia
 
 |  |  |  | Ziprasidone |  |  | Placebo |
 | --- | --- | --- | --- | --- | --- | --- |
 | 5 mg BID | 20 mg BID | 40 mg BID | 60 mg BID | 80 mg BID | 100 mg BID |  |
 | Mean Weight (kg) Changes from Baseline (N) |  |  |  |  |  |  |
-| +0.3 (N=40) | +1 (N=167) | +1(N=135) | +0.7 (N=109) | +1.1 (N=97) | +0.9 (N=74) | -0.4 (227) |
-| Proportion of Patients With ≥7% Increase in Weight from Baseline (N) |  |  |  |  |  |  |
-| 0% (N=40) | 9% (N=167) | 10.4% (N=135) | 7.3% (N=109) | 15.5% (N=97) | 10.8% (N=74) | 4% (N=227) |
+| +0.3 (N=40) | +1.0 (N=167) | +1.0 (N=135) | +0.7 (N=109) | +1.1 (N=97) | +0.9 (N=74) | -0.4 (227) |
+| Proportion of Patients with ≥7% Increase in Weight from Baseline (N) |  |  |  |  |  |  |
+| 0.0% (N=40) | 9.0% (N=167) | 10.4% (N=135) | 7.3% (N=109) | 15.5% (N=97) | 10.8% (N=74) | 4.0% (N=227) |
 
 In long-term (at least 1 year), placebo-controlled, flexible-dose studies in schizophrenia, the mean change from baseline weight for ziprasidone 20 to 40 mg BID was -2.3 kg (N=124); for ziprasidone 60 to 80 mg BID was +2.5 kg (N=10); and for placebo was -2.9 kg (N=72).
 In the same long-term studies, the proportion of subjects with ≥ 7% increase in weight from baseline for ziprasidone 20 to 40 mg BID was 5.6% (N=124); for ziprasidone 60-80 mg BID was 20% (N=10), and for placebo was 5.6% (N=72).
 In a long-term (at least 1 year), placebo-controlled, fixed-dose study in schizophrenia, the mean change from baseline weight for ziprasidone 20 mg BID was -2.6 kg (N=72); for ziprasidone 40 mg BID was -3.3 kg (N=69); for ziprasidone 80 mg BID was -2.8 kg (N=70) and for placebo was -3.8 kg (N=70).
 In the same long-term fixed-dose schizophrenia study, the proportion of subjects with ≥ 7% increase in weight from baseline for ziprasidone 20 mg BID was 5.6% (N=72); for ziprasidone 40 mg BID was 2.9% (N=69); for ziprasidone 80 mg BID was 5.7% (N=70) and for placebo was 2.9% (N=70).
 
-Table 10: Summary of Weight Change in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone Monotherapy Trials in Adult Patients With Bipolar Disorder:
+Table 10: Summary of Weight Change in Short-Term (up to 6 weeks), Placebo-Controlled, Flexible-Dose, Oral Ziprasidone, Monotherapy Trials in Adult Patients with Bipolar Disorder:
 
 | Ziprasidone |  | Placebo |
 | --- | --- | --- |
 | Low Dose:20 to 40 mg BID | High Dose*:60 to 80 mg BID |  |
 |  | Mean Weight (kg) Changes from Baseline (N) |  |
 | +0.4 (N=295) | +0.4 (N=388) | +0.1 (N=451) |
-|  | Proportion of Patients With ≥ 7% Increase in Weight from Baseline (N) |  |
+|  | Proportion of Patients with ≥ 7% Increase in Weight from Baseline (N) |  |
 | 2.4% (N=295) | 4.4% (N=388) | 1.8% (N=451) |
 
 * Note that in the High Dose group, there were 2 subjects with modal 200 mg total daily dose and 1 subject with modal 100 mg total daily dose.
@@ -299,7 +314,7 @@ There was a mean weight gain of 1.4 kg for those patients with a “low” basel
 Bipolar Disorder – During a 6 month placebo-controlled bipolar maintenance study in adults with ziprasidone as an adjunct to lithium or valproate, the incidence of clinically significant weight gain (≥ 7% of body weight) during the double-blind period was 5.6% for both ziprasidone and placebo treatment groups who completed the 6 months of observation for relapse.
 Interpretation of these findings should take into consideration that only patients who adequately tolerated ziprasidone entered the double-blind phase of the study, and there were substantial dropouts during the open label phase.
 
-## 5.8 Rash
+## 5.9 Rash
 
 In premarketing trials with ziprasidone, about 5% of patients developed rash and/or urticaria, with discontinuation of treatment in about one-sixth of these cases.
 The occurrence of rash was related to dose of ziprasidone, although the finding might also be explained by the longer exposure time in the higher dose patients.
@@ -307,19 +322,19 @@ Several patients with rash had signs and symptoms of associated systemic illness
 Most patients improved promptly with adjunctive treatment with antihistamines or steroids and/or upon discontinuation of ziprasidone, and all patients experiencing these reactions were reported to recover completely.
 Upon appearance of rash for which an alternative etiology cannot be identified, ziprasidone should be discontinued.
 
-## 5.9 Orthostatic Hypotension
+## 5.10 Orthostatic Hypotension
 
 Ziprasidone may induce orthostatic hypotension associated with dizziness, tachycardia, and, in some patients, syncope, especially during the initial dose-titration period, probably reflecting its α1-adrenergic antagonist properties.
 Syncope was reported in 0.6% of the patients treated with ziprasidone.
 
 Ziprasidone should be used with particular caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure or conduction abnormalities), cerebrovascular disease, or conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications).
 
-## 5.10 Falls
+## 5.11 Falls
 
 Antipsychotic drugs (which include ziprasidone) may cause somnolence, postural hypotension, and motor and sensory instability, which could lead to falls and, consequently, fractures or other injuries.
 For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
-## 5.11 Leukopenia, Neutropenia, and Agranulocytosis
+## 5.12 Leukopenia, Neutropenia, and Agranulocytosis
 
 In clinical trial and postmarketing experience, events of leukopenia/neutropenia have been reported temporally related to antipsychotic agents.
 Agranulocytosis (including fatal cases) has also been reported.
@@ -330,30 +345,30 @@ Patients with a pre-existing low WBC or a history of drug induced leukopenia/neu
 Patients with neutropenia should be carefully monitored for fever or other symptoms or signs of infection and treated promptly if such symptoms or signs occur.
 Patients with severe neutropenia (absolute neutrophil count <1000/mm3) should discontinue ziprasidone and have their WBC followed until recovery.
 
-## 5.12 Seizures
+## 5.13 Seizures
 
 During clinical trials, seizures occurred in 0.4% of patients treated with ziprasidone.
 There were confounding factors that may have contributed to the occurrence of seizures in many of these cases.
 As with other antipsychotic drugs, ziprasidone should be used cautiously in patients with a history of seizures or with conditions that potentially lower the seizure threshold, e.g., Alzheimer’s dementia.
 Conditions that lower the seizure threshold may be more prevalent in a population of 65 years or older.
 
-## 5.13 Dysphagia
+## 5.14 Dysphagia
 
 Esophageal dysmotility and aspiration have been associated with antipsychotic drug use.
 Aspiration pneumonia is a common cause of morbidity and mortality in elderly patients, in particular those with advanced Alzheimer’s dementia.
 Ziprasidone and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia [see Boxed Warning].
 
-## 5.14 Hyperprolactinemia
+## 5.15 Hyperprolactinemia
 
 As with other drugs that antagonize dopamine D2 receptors, ziprasidone elevates prolactin levels in humans.
 Increased prolactin levels were also observed in animal studies with this compound, and were associated with an increase in mammary gland neoplasia in mice; a similar effect was not observed in rats [see Nonclinical Toxicology (13.1)].
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 Although disturbances such as galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating compounds, the clinical significance of elevated serum prolactin levels is unknown for most patients.
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density.
 
-## 5.15 Potential for Cognitive and Motor Impairment
+## 5.16 Potential for Cognitive and Motor Impairment
 
 Somnolence was a commonly reported adverse reaction in patients treated with ziprasidone.
 In the 4- and 6-week placebo-controlled trials in adults, somnolence was reported in 14% of patients on ziprasidone compared to 7% of placebo patients.
@@ -361,31 +376,31 @@ Somnolence led to discontinuation in 0.3% of the patients in short-term clinical
 
 Since ziprasidone has the potential to impair judgment, thinking, or motor skills, patients should be cautioned about performing activities requiring mental alertness, such as operating a motor vehicle (including automobiles) or operating hazardous machinery until they are reasonably certain that ziprasidone therapy does not affect them adversely.
 
-## 5.16 Priapism
+## 5.17 Priapism
 
 One case of priapism was reported in the premarketing database.
 While the relationship of the reaction to ziprasidone use has not been established, other drugs with alpha-adrenergic blocking effects have been reported to induce priapism, and it is possible that ziprasidone may share this capacity.
 Severe priapism may require surgical intervention.
 
-## 5.17 Body Temperature Regulation
+## 5.18 Body Temperature Regulation
 
 Although not reported with ziprasidone in premarketing trials, disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic agents.
 Appropriate care is advised when prescribing ziprasidone for patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
 
-## 5.18 Suicide
+## 5.19 Suicide
 
 The possibility of a suicide attempt is inherent in psychotic illness or bipolar disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for ziprasidone should be written for the smallest quantity of capsules consistent with good patient management in order to reduce the risk of overdose.
 
-## 5.19 Patients With Concomitant Illnesses
+## 5.20 Patients with Concomitant Illnesses
 
 Clinical experience with ziprasidone in patients with certain concomitant systemic illnesses is limited [see Usein Specific Populations (8.6),(8.7)]
 
 Ziprasidone has not been evaluated or used to any appreciable extent in patients with a recent history of myocardial infarction or unstable heart disease.
 Patients with these diagnoses were excluded from premarketing clinical studies.
-Because of the risk of QTc prolongation and orthostatic hypotension with ziprasidone, caution should be observed in cardiac patients [see Warnings and Precautions (5.3), (5.9)].
+Because of the risk of QTc prolongation and orthostatic hypotension with ziprasidone, caution should be observed in cardiac patients [see Warnings and Precautions (5.3), (5.10)].
 
-## 5.20 Laboratory Tests
+## 5.21 Laboratory Tests
 
 Patients being considered for ziprasidone treatment that are at risk of significant electrolyte disturbances should have baseline serum potassium and magnesium measurements.
 Low serum potassium and magnesium should be replaced before proceeding with treatment.
