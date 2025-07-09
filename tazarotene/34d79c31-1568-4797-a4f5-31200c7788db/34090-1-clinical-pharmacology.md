@@ -15,9 +15,9 @@ Tazarotene and tazarotenic acid were metabolized to sulfoxides, sulfones, and ot
 The half-life of tazarotenic acid was approximately 18 hours.
 
 Tazarotene cream 0.1% was topically applied once daily over four weeks to either the face (6 females and 2 males) or to 15% of body surface area (8 females and 8 males) in subjects with fine wrinkling and mottled hyperpigmentation.
-In the "face-only" dosing group, the maximum average Cmax and AUC0-24hr values of tazarotenic acid occurred on Day 15 with mean ± SD values of Cmax and AUC0-24hr of tazarotenic acid being 0.236 ± 0.255 ng/mL (N=8) and 2.44 ± 1.38 ng∙hr/mL (N=8), respectively.
-The mean Cmax and AUC0-24hr values of tazarotenic acid from subjects in the 15% body surface area dosing group were approximately 10 times higher than those from subjects in the face-only dosing group.
-The single highest Cmax throughout the trial period was 3.43 ng/mL on day 29 from subjects in the 15% body surface area dosing group.
+In the "face-only" dosing group, the maximum average C maxand AUC 0-24hrvalues of tazarotenic acid occurred on Day 15 with mean ± SD values of C maxand AUC 0-24hrof tazarotenic acid being 0.236 ± 0.255 ng/mL (N=8) and 2.44 ± 1.38 ng∙hr/mL (N=8), respectively.
+The mean C maxand AUC 0-24hrvalues of tazarotenic acid from subjects in the 15% body surface area dosing group were approximately 10 times higher than those from subjects in the face-only dosing group.
+The single highest C maxthroughout the trial period was 3.43 ng/mL on day 29 from subjects in the 15% body surface area dosing group.
 Gender had no influence on the systemic bioavailability of tazarotenic acid.
 
 Blood samples were collected from one of the two phase 3 trials to evaluate the systemic exposure following application of tazarotene cream 0.1% once daily for 24 weeks (double-blind period) followed by 28 weeks (open-label) under clinical conditions.

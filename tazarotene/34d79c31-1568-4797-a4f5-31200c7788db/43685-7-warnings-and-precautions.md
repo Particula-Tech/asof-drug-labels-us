@@ -2,8 +2,7 @@
 
 ## 5.1 Embryofetal Toxicity
 
-Based on data from animal reproduction studies, retinoid pharmacology and the potential for systemic absorption, tazarotene cream may cause fetal harm when administered to a pregnant female and is contraindicated during pregnancy.
-Safety in pregnant females has not been established.
+Based on data from animal reproduction studies, retinoid pharmacology and the potential for systemic absorption, tazarotene cream may cause fetal harm when administered to a pregnant female and is contraindicated during pregnancy.Safety in pregnant females has not been established.
 The potential risk to the fetus outweighs the potential benefit to the mother from tazarotene cream use during pregnancy; therefore, discontinue tazarotene cream as soon as pregnancy is recognized.
 Tazarotene elicits malformations and developmental effects associated with retinoids after topical and oral administration to pregnant rats and rabbits during organogenesis.
 However, limited case reports of pregnancy in females enrolled in clinical trials for tazarotene cream have not reported a clear association with tazarotene and major birth defects or miscarriage risk [see Contraindications (4), Use in Specific Populations (8.1)].

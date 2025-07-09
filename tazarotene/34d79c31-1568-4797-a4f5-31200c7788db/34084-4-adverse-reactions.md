@@ -41,4 +41,4 @@ The majority of these conditions were mild.
 The following adverse reactions have been identified during postapproval use of tazarotene.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Skin and subcutaneous tissue disorders: blister, dermatitis, urticaria, skin exfoliation, skin discoloration (including skin hyperpigmentation or skin hypopigmentation), swelling at or near application sites, and pain.
+Skin and subcutaneous tissue disorders:blister, dermatitis, urticaria, skin exfoliation, skin discoloration (including skin hyperpigmentation or skin hypopigmentation), swelling at or near application sites, and pain.

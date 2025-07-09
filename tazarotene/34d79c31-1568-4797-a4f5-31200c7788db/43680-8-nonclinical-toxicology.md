@@ -9,7 +9,7 @@ A long-term topical application study of up to 0.1% tazarotene in a gel formulat
 Systemic exposure at the highest dose represented 8 times the maximum systemic exposure in subjects treated with the MRHD of tazarotene cream 0.1%.
 
 Tazarotene was non-mutagenic in the Ames assay and did not produce structural chromosomal aberrations in a human lymphocyte assay.
-Tazarotene was also non-mutagenic in the CHO/HGPRT mammalian cell forward gene mutation assay and was non-clastogenic in the in vivo mouse micronucleus test.
+Tazarotene was also non-mutagenic in the CHO/HGPRT mammalian cell forward gene mutation assay and was non-clastogenic in the in vivomouse micronucleus test.
 
 No impairment of fertility occurred in rats when male animals were treated for 70 days prior to mating and female animals were treated for 14 days prior to mating and continuing through gestation and lactation with topical doses of tazarotene gel up to 0.125 mg/kg/day.
 Based on data from another study, the systemic drug exposure in the rat would be equivalent to the maximum systemic exposure in subjects treated with the MRHD of tazarotene cream 0.1%.

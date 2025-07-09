@@ -6,7 +6,7 @@ Embryofetal Toxicity
 
 Inform females of reproductive potential of the potential risk to a fetus.
 Advise these patients to use effective contraception during treatment with tazarotene cream.
-Advise patients to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1, 8.3)].
+Advise patients to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.1)and Use in Specific Populations (8.1, 8.3)].
 
 Photosensitivity and Risk of Sunburn
 
