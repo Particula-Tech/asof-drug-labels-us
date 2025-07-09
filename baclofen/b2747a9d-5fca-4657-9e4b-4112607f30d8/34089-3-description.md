@@ -4,7 +4,7 @@ Baclofen, USP is a muscle relaxant and antispastic.
 Its chemical name is 4-amino-3-(4-chlorophenyl)-butanoic acid.
 The structural formula is:
 
-C10H12ClNO2 M.W.
+C 10H 12ClNO 2 M.W.
 213.66
 
 Baclofen, USP is a white to off-white, odorless or practically odorless crystalline powder.
