@@ -2,13 +2,13 @@
 
 ## General
 
-Oralone® may cause local adverse reactions.
-If irritation develops, Oralone® should be discontinued and appropriate therapy instituted.
+Oralone ®may cause local adverse reactions.
+If irritation develops, Oralone ®should be discontinued and appropriate therapy instituted.
 Allergic contact sensitization with corticosteroids is usually diagnosed by observing failure to heal rather than noting a clinical exacerbation as with most topical products not containing corticosteroids.
 Such an observation should be corroborated with appropriate diagnostic patch testing.
 
 If concomitant mucosal infections are present or develop, an appropriate antifungal or antibacterial agent should be used.
-If a favorable response does not occur promptly, use of Oralone® should be discontinued until the infection has been adequately controlled.
+If a favorable response does not occur promptly, use of Oralone ®should be discontinued until the infection has been adequately controlled.
 If significant regeneration or repair of oral tissues has not occurred in seven days, additional investigation into the etiology of the oral lesion is advised.
 
 Systemic absorption of topical corticosteroids has produced reversible hypothalamic-pituitary-adrenal (HPA) axis suppression, manifestations of Cushing's syndrome, hyperglycemia, glucosuria, and other adverse effects known to occur with parenterally-administered steroid preparations; therefore, it may be advisable to periodically evaluate patients on prolonged therapy with corticosteroid-containing dental pastes for evidence of HPA axis suppression (see PRECAUTIONS, Laboratory Tests).
@@ -39,11 +39,11 @@ Animal studies have not been performed to evaluate triamcinolone acetonide for p
 ### Teratogenic effects
 
 Triamcinolone acetonide has been shown to induce teratogenic effects in several species.
-In mice and rabbits, triamcinolone acetonide induced an increased incidence of cleft palate at dosages of approximately 120 µg/kg/day and 24 µg/kg/day, respectively (approximately 12 times and 10 times the amount in a typical daily human dose of Oralone® when compared following normalization of the data on the basis of body surface area estimates, respectively).
-In monkeys, triamcinolone acetonide induced cranial skeletal malformations at the lowest dosage studied (500 µg/kg/day), which was approximately 200 times the amount in a typical daily human dose of Oralone® when compared following normalization of the data on the basis of body surface area estimates.
+In mice and rabbits, triamcinolone acetonide induced an increased incidence of cleft palate at dosages of approximately 120 µg/kg/day and 24 µg/kg/day, respectively (approximately 12 times and 10 times the amount in a typical daily human dose of Oralone ®when compared following normalization of the data on the basis of body surface area estimates, respectively).
+In monkeys, triamcinolone acetonide induced cranial skeletal malformations at the lowest dosage studied (500 µg/kg/day), which was approximately 200 times the amount in a typical daily human dose of Oralone ®when compared following normalization of the data on the basis of body surface area estimates.
 There are no adequate and well-controlled studies in pregnant women.
-However, a retrospective analysis of birth defects among children born to mothers that used drugs of the same class as Oralone® (corticosteroids) during pregnancy found an approximately 3 times increased incidence of cleft palate.
-Oralone® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+However, a retrospective analysis of birth defects among children born to mothers that used drugs of the same class as Oralone ®(corticosteroids) during pregnancy found an approximately 3 times increased incidence of cleft palate.
+Oralone ®should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing Mothers
 
@@ -52,12 +52,12 @@ Caution should be exercised when corticosteroid-containing dental pastes are pre
 
 ## Pediatric Use
 
-The safety and efficacy of Oralone® in children is unknown.
+The safety and efficacy of Oralone ®in children is unknown.
 Pediatric patients may demonstrate greater susceptibility to topical corticosteroid-induced HPA axis suppression and Cushing's Syndrome than mature patients because of a larger skin surface area to body weight ratio.
 Administration of corticosteroid-containing dental pastes to children should be limited to the least amount compatible with an effective therapeutic regimen.
 Chronic corticosteroid therapy may interfere with the growth and development of children.
 
 ## Geriatric Use
 
-Clinical studies of Oralone® did not include sufficient numbers of subjects age 65 and older to determine whether they respond differently from younger subjects.
+Clinical studies of Oralone ®did not include sufficient numbers of subjects age 65 and older to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.
