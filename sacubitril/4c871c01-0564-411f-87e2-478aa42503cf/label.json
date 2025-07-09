@@ -1,0 +1,30 @@
+{
+  "application_numbers": [
+    "ANDA213719"
+  ],
+  "inn": "sacubitril",
+  "labeler": "Zydus Lifesciences Limited",
+  "package_ndcs": [
+    "70771-1921-2",
+    "70771-1921-4",
+    "70771-1921-6",
+    "70771-1921-8",
+    "70771-1922-2",
+    "70771-1922-4",
+    "70771-1922-6",
+    "70771-1922-8",
+    "70771-1923-2",
+    "70771-1923-4",
+    "70771-1923-6",
+    "70771-1923-8"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "sacubitril and valsartan",
+      "name": "sacubitril and valsartan"
+    }
+  ],
+  "setid": "4c871c01-0564-411f-87e2-478aa42503cf",
+  "source": "dailymed"
+}
