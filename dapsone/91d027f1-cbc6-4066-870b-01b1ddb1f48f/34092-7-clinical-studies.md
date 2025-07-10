@@ -7,11 +7,11 @@ Efficacy was evaluated in terms of success on the Global Acne Assessment Score (
 
 The Global Acne Assessment Score was a 5-point scale as follows:
 
-- 0None: no evidence of facial acne vulgaris
-- 1Minimal: few non-inflammatory lesions (comedones) are present; a few inflammatory lesions (papules/pustules) may be present
-- 2Mild: several to many non-inflammatory lesions (comedones) are present; a few inflammatory lesions (papules/pustules) are present
-- 3Moderate: many non-inflammatory (comedones) and inflammatory lesions (papules/pustules) are present; no nodulo-cystic lesions are allowed
-- 4Severe: significant degree of inflammatory disease; papules/pustules are a predominant feature; a few nodulo-cystic lesions may be present; comedones may be present.
+- None: no evidence of facial acne vulgaris
+- Minimal: few non-inflammatory lesions (comedones) are present; a few inflammatory lesions (papules/pustules) may be present
+- Mild: several to many non-inflammatory lesions (comedones) are present; a few inflammatory lesions (papules/pustules) are present
+- Moderate: many non-inflammatory (comedones) and inflammatory lesions (papules/pustules) are present; no nodulo-cystic lesions are allowed
+- Severe: significant degree of inflammatory disease; papules/pustules are a predominant feature; a few nodulo-cystic lesions may be present; comedones may be present.
 
 The success rates on the Global Acne Assessment Score (no or minimal acne) at Week 12 are presented in Table 4.
 
@@ -19,7 +19,7 @@ Table 4 - Success (No or Minimal Acne) on the Global Acne Assessment Score at We
 
 |  | Dapsone Gel, 5% N=699 | Vehicle N=687 | Dapsone Gel, 5% N=729 | Vehicle N=738 |
 | --- | --- | --- | --- | --- |
-|  | Study 1Analysis excludes subjects classified with minimal acne at baseline |  | Study 2 |  |
+|  | Study 1 Analysis excludes subjects classified with minimal acne at baseline |  | Study 2 |  |
 | Subjects with No or Minimal Acne | 291 (42%) | 223 (32%) | 253 (35%) | 206 (28%) |
 
 Table 5 presents the mean percent reduction in inflammatory, non-inflammatory, and total lesions from baseline to Week 12.
