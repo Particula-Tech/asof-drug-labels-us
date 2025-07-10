@@ -56,6 +56,8 @@ Call your doctor or get medical help right away if you or your child develop any
 
 ο pain, swelling, or new drainage at wound sites
 
+ο left upper belly (abdominal) pain, pain below the left rib cage or at the tip of your left shoulder or diffuse abdominal discomfort (these may be symptoms of rupture of the spleen)
+
 - Spinal or epidural blood clots (hematoma).People who take a blood thinner medicine (anticoagulant) like rivaroxaban, and have medicine injected into their spinal and epidural area, or have a spinal puncture have a risk of forming a blood clot that can cause long-term or permanent loss of the ability to move (paralysis).
   Your risk of developing a spinal or epidural blood clot is higher if:
 
@@ -111,7 +113,7 @@ Before taking rivaroxaban tablets, tell your doctor about all of your medical co
   - Females who are able to become pregnant: Talk with your doctor about pregnancy planning during treatment with rivaroxaban tablets.
     Talk with your doctor about your risk for severe uterine bleeding if you are treated with blood thinner medicines, including rivaroxaban tablets.
   - If you take rivaroxaban tablets during pregnancy tell your doctor right away if you have any signs or symptoms of bleeding or blood loss.
-    See "What is the most important information I should know about rivaroxaban tablets?" for signs and symptoms of bleeding.
+    See"What is the most important information I should know about rivaroxaban tablets?" for signs and symptoms of bleeding.
 - are breastfeeding or plan to breastfeed.
   Rivaroxaban can pass into your breast milk.
   Talk to your doctor about the best way to feed your baby during treatment with rivaroxaban tablets.
@@ -220,4 +222,4 @@ United States
 
 MADE IN INDIA
 
-December 2024
+July 2025

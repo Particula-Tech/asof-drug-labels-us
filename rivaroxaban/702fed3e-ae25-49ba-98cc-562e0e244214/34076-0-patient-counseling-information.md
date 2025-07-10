@@ -53,6 +53,6 @@ United States
 
 MADE IN INDIA
 
-December 2024
+July 2025
 
 Dispense with Medication Guide available at: www.lupin.com/rivaroxabantab-mg.pdf

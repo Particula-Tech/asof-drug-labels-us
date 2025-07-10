@@ -136,3 +136,5 @@ Renal Disorders: Anticoagulant-related nephropathy
 Respiratory, Thoracic and Mediastinal Disorders: Eosinophilic pneumonia
 
 Skin and Subcutaneous Tissue Disorders: Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS)
+
+Injury, poisoning and procedural complications: Atraumatic splenic rupture

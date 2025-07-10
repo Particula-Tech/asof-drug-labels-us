@@ -8,7 +8,7 @@ If rivaroxaban tablets are discontinued for a reason other than pathological ble
 
 ## 5.2 Risk of Bleeding
 
-Rivaroxaban tablets increase the risk of bleeding and can cause serious or fatal bleeding.
+Rivaroxaban tablets increase the risk of bleeding, including in any organ, and can cause serious or fatal bleeding.
 In deciding whether to prescribe rivaroxaban tablets to patients at increased risk of bleeding, the risk of thrombotic events should be weighed against the risk of bleeding.
 
 Promptly evaluate any signs or symptoms of blood loss and consider the need for blood replacement.
@@ -52,6 +52,8 @@ Discontinue rivaroxaban tablets in patients who develop acute renal failure whil
 No clinical data are available for adult patients with severe hepatic impairment.
 
 Avoid use of rivaroxaban tablets in patients with moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment or with any hepatic disease associated with coagulopathy since drug exposure and bleeding risk may be increased [see Use in Specific Populations (8.7)].
+
+No clinical data are available in pediatric patients with hepatic impairment.
 
 ## 5.6 Use with P-gp and Strong CYP3A Inhibitors or Inducers
 
