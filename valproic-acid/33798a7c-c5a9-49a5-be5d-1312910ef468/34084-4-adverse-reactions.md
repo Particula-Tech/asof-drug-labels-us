@@ -2,16 +2,18 @@
 
 The following serious adverse reactions are described below and elsewhere in the labeling:
 
-- Hepatic failure [see Warnings and Precautions (5.1)]
-- Birth defects [see Warnings and Precautions (5.2)]
-- Decreased IQ following in utero exposure [see Warnings and Precautions (5.3)]
+- Hepatic Failure [see Warnings and Precautions (5.1)]
+- Birth Defects [see Warnings and Precautions (5.2)]
+- Decreased IQ Following in Utero Exposure [see Warnings and Precautions (5.3)]
 - Pancreatitis [see Warnings and Precautions (5.5)]
-- Hyperammonemic encephalopathy [see Warnings and Precautions (5.6, 5.9,5.10)]
-- Suicidal behavior and ideation [see Warnings and Precautions (5.7)]
-- Bleeding and other hematopoietic disorders [see Warnings and Precautions (5.8)]
+- Hyperammonemic Encephalopathy [see Warnings and Precautions (5.6, 5.9, 5.10)]
+- Suicidal Behavior and Ideation [see Warnings and Precautions (5.7)]
+- Bleeding and Other Hematopoietic Disorders [see Warnings and Precautions (5.8)]
 - Hypothermia [see Warnings and Precautions (5.11)]
-- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan hypersensitivity reactions [see Warnings and Precautions (5.12)]
-- Somnolence in the elderly [see Warnings and Precautions (5.14)]
+- Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions [see Warnings and Precautions (5.12)]
+- Serious Dermatologic Reactions [see Warnings and Precautions (5.13)]
+- Angioedema [see Warnings and Precautions (5.14)]
+- Somnolence in the Elderly [see Warnings and Precautions (5.16)]
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -306,7 +308,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Dermatologic
 
-Hair texture changes, hair color changes, photosensitivity, erythema multiforme, toxic epidermal necrolysis, nail and nail bed disorders, Stevens-Johnson syndrome, and hyperpigmentation.
+Hair texture changes, hair color changes, photosensitivity, erythema multiforme, toxic epidermal necrolysis, nail and nail bed disorders, Stevens-Johnson syndrome, hyperpigmentation, and acute generalized exanthematous pustulosis [see Warnings and Precautions (5.13)].
 
 Psychiatric
 
@@ -353,4 +355,4 @@ Hearing loss.
 
 Other
 
-Allergic reaction, anaphylaxis, developmental delay, bone pain, bradycardia, and cutaneous vasculitis.
+Allergic reaction, anaphylaxis, developmental delay, bone pain, bradycardia, cutaneous vasculitis and angioedema [see Warnings and Precautions (5.14)].

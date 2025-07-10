@@ -14,8 +14,7 @@ When divalproex sodium delayed-release tablets are used in this patient group, i
 The benefits of therapy should be weighed against the risks.
 The incidence of fatal hepatotoxicity decreases considerably in progressively older patient groups.
 
-Patients with Mitochondrial Disease: There is an increased risk of valproate-induced acute liver failure and resultant deaths in patients with hereditary neurometabolic syndromes caused by DNA mutations of the mitochondrial DNA Polymerase γ (POLG) gene (e.g.
-Alpers Huttenlocher Syndrome).
+Patients with Mitochondrial Disease: There is an increased risk of valproate-induced acute liver failure and resultant deaths in patients with hereditary neurometabolic syndromes caused by DNA mutations of the mitochondrial DNA Polymerase γ (POLG) gene (e.g., Alpers Huttenlocher Syndrome).
 Divalproex sodium is contraindicated in patients known to have mitochondrial disorders caused by POLG mutations and children under two years of age who are clinically suspected of having a mitochondrial disorder [see Contraindications (4)].
 In patients over two years of age who are clinically suspected of having a hereditary mitochondrial disease, divalproex sodium should only be used after other anticonvulsants have failed.
 This older group of patients should be closely monitored during treatment with divalproex sodium for the development of acute liver injury with regular clinical assessments and serum liver testing.

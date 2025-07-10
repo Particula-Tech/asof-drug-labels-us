@@ -180,15 +180,28 @@ Eosinophilia is often present.
 Because this disorder is variable in its expression, other organ systems not noted here may be involved.
 It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
 If such signs or symptoms are present, the patient should be evaluated immediately.
-Valproate should be discontinued and not be resumed if an alternative etiology for the signs or symptoms cannot be established.
+Valproate should be discontinued if an alternative etiology for the signs or symptoms cannot be established.
 
-## 5.13 Interaction with Carbapenem Antibiotics
+## 5.13 Serious Dermatologic Reactions
+
+Serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN), Stevens Johnson syndrome (SJS), acute generalized exanthematous pustulosis (AGEP), and erythema multiforme (EM) have been reported with valproate treatment.
+Valproate should be discontinued at the first sign of a rash, unless the rash is clearly not drug related.
+If a rash occurs, the patient should be evaluated for signs and symptoms of Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.12)].
+If signs or symptoms suggest TEN/SJS/AGEP/EM, use of this drug should not be resumed, and alternative therapy should be considered.
+
+## 5.14 Angioedema
+
+Angioedema has been reported in patients treated with valproate in the postmarketing setting.
+Valproate should be discontinued immediately if symptoms of angioedema such as facial, perioral, or upper airway swelling occur.
+Valproate should be discontinued permanently if a clear alternative etiology for the reaction cannot be established [see Contraindications (4)].
+
+## 5.15 Interaction with Carbapenem Antibiotics
 
 Carbapenem antibiotics (for example, ertapenem, imipenem, meropenem; this is not a complete list) may reduce serum valproate concentrations to subtherapeutic levels, resulting in loss of seizure control.
 Serum valproate concentrations should be monitored frequently after initiating carbapenem therapy.
 Alternative antibacterial or anticonvulsant therapy should be considered if serum valproate concentrations drop significantly or seizure control deteriorates [see Drug Interactions (7.1)].
 
-## 5.14 Somnolence in the Elderly
+## 5.16 Somnolence in the Elderly
 
 In a double-blind, multicenter trial of valproate in elderly patients with dementia (mean age = 83 years), doses were increased by 125 mg/day to a target dose of 20 mg/kg/day.
 A significantly higher proportion of valproate patients had somnolence compared to placebo, and although not statistically significant, there was a higher proportion of patients with dehydration.
@@ -198,25 +211,25 @@ There was a trend for the patients who experienced these events to have a lower 
 In elderly patients, dosage should be increased more slowly and with regular monitoring for fluid and nutritional intake, dehydration, somnolence, and other adverse reactions.
 Dose reductions or discontinuation of valproate should be considered in patients with decreased food or fluid intake and in patients with excessive somnolence [see Dosage and Administration (2.4)].
 
-## 5.15 Monitoring: Drug Plasma Concentration
+## 5.17 Monitoring: Drug Plasma Concentration
 
 Since valproate may interact with concurrently administered drugs which are capable of enzyme induction, periodic plasma concentration determinations of valproate and concomitant drugs are recommended during the early course of therapy [see Drug Interactions (7)].
 
-## 5.16 Effect on Ketone and Thyroid Function Tests
+## 5.18 Effect on Ketone and Thyroid Function Tests
 
 Valproate is partially eliminated in the urine as a keto-metabolite which may lead to a false interpretation of the urine ketone test.
 
 There have been reports of altered thyroid function tests associated with valproate.
 The clinical significance of these is unknown.
 
-## 5.17 Effect on HIV and CMV Viruses Replication
+## 5.19 Effect on HIV and CMV Viruses Replication
 
 There are in vitro studies that suggest valproate stimulates the replication of the HIV and CMV viruses under certain experimental conditions.
 The clinical consequence, if any, is not known.
 Additionally, the relevance of these in vitro findings is uncertain for patients receiving maximally suppressive antiretroviral therapy.
 Nevertheless, these data should be borne in mind when interpreting the results from regular monitoring of the viral load in HIV infected patients receiving valproate or when following CMV infected patients clinically.
 
-## 5.18 Medication Residue in the Stool
+## 5.20 Medication Residue in the Stool
 
 There have been rare reports of medication residue in the stool.
 Some patients have had anatomic (including ileostomy or colostomy) or functional gastrointestinal disorders with shortened GI transit times.

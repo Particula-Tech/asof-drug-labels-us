@@ -71,7 +71,7 @@ Like other antiepileptic drugs, divalproex sodium delayed-release tablets may ca
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 - thoughts about suicide or dying
-- attempts to commit suicide
+- suicide attempts
 - new or worse depression
 - new or worse anxiety
 - feeling agitated or restless
@@ -99,13 +99,13 @@ Divalproex sodium delayed-release tablets are prescription medicines used:
 
 • alone or with other medicines to treat:
 
-• complex partial seizures in adults and children 10 years of age and older
+o complex partial seizures in adults and children 10 years of age and older
 
-• simple and complex absence seizures
+o simple and complex absence seizures
 
 • with other medicines to treat:
 
-• patients with multiple seizure types that include absence seizures
+o patients with multiple seizure types that include absence seizures
 
 Divalproex Sodium Delayed-Release Tablets are also used to prevent migraine headaches.
 
@@ -164,19 +164,20 @@ How should I take divalproex sodium delayed-release tablets?
 - Your healthcare provider may change your dose, if needed.
 - Do not change your dose of divalproex sodium delayed-release tablets without talking to your healthcare provider.
 - Do not stop taking divalproex sodium delayed-release tablets without first talking to your healthcare provider.
-  Stopping divalproex sodium delayed-release tablets suddenly can cause serious problems.
+  Stopping Depakote suddenly can cause serious problems.
+  See"What is the most important information I should know about divalproex sodium delayed-release tablets?"
 - Swallow divalproex sodium delayed-release tablets whole.
   Do notcrush or chew them.
   Tell your healthcare provider if you cannot swallow divalproex sodium delayed-release tablets whole.
   You may need a different medicine.
 - If you miss a dose of divalproex sodium delayed-release tablets take it as soon as you remember unless it's almost time for your next dose.
   Take the next dose at your regular time.
-  Do nottake 2 doses at the same time
+  Do nottake 2 doses at the same time.
 - If you take too much divalproex sodium delayed-release tablets, call your healthcare provider or poison control center right away.
 
 What should I avoid while taking divalproex sodium delayed-release tablets?
 
-- Do notdrink alcohol while taking divalproex sodium delayed-release tablets.
+- Do not drink alcohol while taking divalproex sodium delayed-release tablets.
   Divalproex sodium delayed-release tablets and alcohol can affect each other causing side effects such as sleepiness and dizziness.
 - Do not drive a car, operate dangerous machinery, or do dangerous activities until you know how divalproex sodium delayed-release tablets affect you.
   Divalproex sodium delayed-release tablets can slow your thinking and motor skills and may affect your vision.
@@ -209,15 +210,15 @@ Divalproex sodium delayed-release tablets can cause serious side effects includi
 | o confusion | o coma |
 | o memory loss | o shivering |
 
-- severe multiorgan reactions.
-  Treatment with divalproex sodium delayed-release tablets may cause severe multiorgan reactions that can be life-threatening or may lead to death.
-  Stop taking divalproex sodium delayed-release tablets, and contact your healthcare provider or get medical help right away if you develop any of these symptoms of a severe skin reaction:
+- severe multiorgan or skin reactions.
+  Treatment with divalproex sodium delayed-release tablets may cause serious or life-threatening allergic reactions that may affect your skin or other parts of your body.
+  Stop taking divalproex sodium delayed-release tablets, and contact your healthcare provider or get medical help right away, if you develop any of these symptoms:
 
-| o fever | o blistering and peeling of your skin |
-| --- | --- |
 | o skin rash | o swelling of your lymph nodes |
+| --- | --- |
 | o hives | o swelling of your face, eyes, lips, tongue, or throat |
-| o sores in your mouth, | o trouble swallowing or breathing |
+| o blistering and peeling of your skin | o trouble swallowing or breathing |
+| o sores in your mouth |  |
 
 - drowsiness or sleepiness in the elderly.
   This extreme drowsiness may cause you to eat or drink less than you normally would.
@@ -228,19 +229,15 @@ Divalproex sodium delayed-release tablets can cause serious side effects includi
 
 The common side effects of divalproex sodium delayed-release tablets include:
 
-| • headache | • loss of appetite |
+| • headache | • low blood platelet count |
 | --- | --- |
-| • weakness | • weight loss |
-| • sleepiness | • increased appetite |
-| • dizziness | • weight gain |
-| • tremors | • nausea / vomiting |
-| • difficulty walking or problems with coordination | • stomach pain |
-| • ringing in your ears | • diarrhea |
-| • blurred vision | • constipation |
-| • double vision | • bronchitis |
-| • unusual eye movement | • flu-like symptoms |
-| • hair loss (alopecia) | • infection |
-| • swelling of your arms or legs |  |
+| • weakness | • stomach burning, fullness, or bloating after eating |
+| • sleepiness | • nausea |
+| • dizziness | • vomiting |
+| • tremors | • stomach pain |
+| • difficulty falling or staying asleep | • diarrhea |
+| • double vision | • infection |
+| • hair loss (alopecia) |  |
 
 These are not all of the possible side effects of divalproex sodium delayed-release tablets.
 
@@ -276,13 +273,15 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 ®The brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
-United States.
+United States
 
 Manufactured by:
 
@@ -292,4 +291,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: April 2023 ID#: 273197
+Revised: July 2025 ID#: 280880

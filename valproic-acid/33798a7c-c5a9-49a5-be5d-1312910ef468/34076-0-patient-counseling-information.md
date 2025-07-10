@@ -39,25 +39,33 @@ CNS Depression
 
 Since valproate products may produce CNS depression, especially when combined with another CNS depressant (e.g., alcohol), advise patients not to engage in hazardous activities, such as driving an automobile or operating dangerous machinery, until it is known that they do not become drowsy from the drug.
 
-Multiorgan Hypersensitivity Reactions
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity Reactions
 
-Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related and should be reported to the physician immediately [see Warnings and Precautions (5.12)].
+Instruct patients that a fever associated with other organ system involvement (rash, lymphadenopathy, etc.) may be drug-related Advise patients to report such reactions to a healthcare provider immediately[see Warnings and Precautions (5.12)].
+
+Serious Dermatologic Reactions
+
+Advise patients of the early signs and symptoms of severe cutaneous adverse reactions and to report any occurrence immediately to a healthcare provider [see Warnings and Precautions (5.13)].
+
+Angioedema
+
+Advise patients to discontinue divalproex sodium delayed-release tablets and seek immediate medical care if they develop signs or symptoms of angioedema, such as facial, perioral, or upper airway swelling [see Warnings and Precautions (5.14)].
 
 Medication Residue in the Stool
 
-Instruct patients to notify their healthcare provider if they notice a medication residue in the stool
-
-[see Warnings and Precautions (5.18)].
+Instruct patients to notify their healthcare provider if they notice a medication residue in the stool [see Warnings and Precautions (5.20)].
 
 *Brands listed are the trademarks of their respective owners.
+
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
 
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
-United States.
+United States
 
 Manufactured by:
 
@@ -67,4 +75,4 @@ Goa 403 722
 
 INDIA.
 
-Revised: March 2025 ID#: 276462
+Revised: July 2025 ID#: 280585
