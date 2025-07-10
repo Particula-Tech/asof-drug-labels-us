@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Ativan® (lorazepam) Tablets are available in the following dosage strengths:
+Ativan ®(lorazepam) Tablets are available in the following dosage strengths:
 
 0.5 mg, white, five-sided (shield shape) tablet with a raised "A" on one side and "BPI" and "63" impressed on reverse side.
 

@@ -24,7 +24,7 @@ If a substance use disorder is suspected, evaluate the patient and institute (or
 
 ### Dependence and Withdrawal Reactions
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Ativan or reduce the dosage (a patient-specific plan should be used to taper the dose) (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of Ativan).
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Ativan or reduce the dosage (a patient-specific plan should be used to taper the dose)(see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of Ativan).
 
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages, and those who have had longer durations of use.
 
@@ -46,7 +46,7 @@ As with all patients on CNS-depressant drugs, patients receiving lorazepam shoul
 
 ## Neonatal Sedation and Withdrawal Syndrome
 
-Use of Ativan late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (seePRECAUTIONS: Pregnancy).
+Use of Ativan late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in the neonate (see PRECAUTIONS: Pregnancy).
 Monitor neonates exposed to Ativan during pregnancy or labor for signs of sedation and monitor neonates exposed to Ativan during pregnancy for signs of withdrawal; manage these neonates accordingly.
 
 # PRECAUTIONS
@@ -83,22 +83,22 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Risks from Concomitant Use with Opioids
 
 Advise both patients and caregivers about the risks of potentially fatal respiratory depression and sedation when Ativan is used with opioids and not to use such drugs concomitantly unless supervised by a healthcare provider.
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS: Risks from Concomitant Use of Opioids and PRECAUTIONS: Drug Interactions).
+Advise patients not to drive or operate heavy machinery until the effects of concomitant use with the opioid have been determined (see WARNINGS: Risks from Concomitant Use of Opioidsand PRECAUTIONS: Drug Interactions).
 
 Abuse, Misuse, and Addiction
 
 Inform patients that the use of Ativan even at recommended doses, exposes users to risks of abuse, misuse, and addiction, which can lead to overdose and death, especially when used in combination with other medications (e.g., opioid analgesics), alcohol, and/or illicit substances.
-Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse Misuse, and Addiction and DRUG ABUSE AND DEPENDENCE).
+Inform patients about the signs and symptoms of benzodiazepine abuse, misuse, and addiction; to seek medical help if they develop these signs and/or symptoms; and on the proper disposal of unused drug (see WARNINGS: Abuse Misuse, and Addictionand DRUG ABUSE AND DEPENDENCE).
 
 Withdrawal Reactions
 
 Inform patients that the continued use of Ativan may lead to clinically significant physical dependence and that abrupt discontinuation or rapid dosage reduction of Ativan may precipitate acute withdrawal reactions, which can be life-threatening.
 Inform patients that in some cases, patients taking benzodiazepines have developed a protracted withdrawal syndrome with withdrawal symptoms lasting weeks to more than 12 months.
-Instruct patients that discontinuation or dosage reduction of Ativan may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactions and DRUG ABUSE AND DEPENDENCE).
+Instruct patients that discontinuation or dosage reduction of Ativan may require a slow taper (see WARNINGS: Dependence and Withdrawal Reactionsand DRUG ABUSE AND DEPENDENCE).
 
 Pregnancy
 
-Advise pregnant females that use of Ativan late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal SyndromeandPRECAUTIONS: Pregnancy).
+Advise pregnant females that use of Ativan late in pregnancy can result in sedation (respiratory depression, lethargy, hypotonia) and/or withdrawal symptoms (hyperreflexia, irritability, restlessness, tremors, inconsolable crying, and feeding difficulties) in newborns (see WARNINGS: Neonatal Sedation and Withdrawal Syndromeand PRECAUTIONS: Pregnancy).
 Instruct patients to inform their healthcare provider if they are pregnant.
 
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to Ativan during pregnancy (see PRECAUTIONS: Pregnancy).
@@ -116,7 +116,7 @@ As with other benzodiazepines, periodic blood counts and liver function tests ar
 ## Drug Interactions
 
 The concomitant use of benzodiazepines and opioids increases the risk of respiratory depression because of actions at different receptor sites in the CNS that control respiration.
-Benzodiazepines interact at GABAA sites and opioids interact primarily at mu receptors.
+Benzodiazepines interact at GABA Asites and opioids interact primarily at mu receptors.
 When benzodiazepines and opioids are combined, the potential for benzodiazepines to significantly worsen opioid-related respiratory depression exists.
 Limit dosage and duration of concomitant use of benzodiazepines and opioids, and monitor patients closely for respiratory depression and sedation.
 
@@ -148,7 +148,7 @@ Healthcare providers are encouraged to register patients by calling the National
 
 Risk Summary
 
-Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndrome and Clinical Considerations).
+Neonates born to mothers using benzodiazepines late in pregnancy have been reported to experience symptoms of sedation and/or neonatal withdrawal (see WARNINGS: Neonatal Sedation and Withdrawal Syndromeand Clinical Considerations).
 Available data from published observational studies of pregnant women exposed to benzodiazepines do not report a clear association with benzodiazepines and major birth defects (see Data).
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
