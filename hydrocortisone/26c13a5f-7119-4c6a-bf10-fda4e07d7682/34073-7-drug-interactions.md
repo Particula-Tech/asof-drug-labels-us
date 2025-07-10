@@ -6,11 +6,11 @@ Table 2 Drug Interactions with ALKINDI SPRINKLE
 | --- | --- |
 | Clinical Impact: | Hydrocortisone is metabolized by cytochrome P450 3A4 (CYP3A4). Concomitant administration of inhibitors of CYP3A4 may lead to increases in serum concentrations of ALKINDI SPRINKLE and increase the risk of adverse reactions associated with the use of excessive doses. |
 | Intervention: | Concomitant use of CYP3A4 inhibitors may require a decrease in the ALKINDI SPRINKLE dose. |
-| Examples: | Anti-fungals:itraconazole, posaconazole, voriconazole Antibiotics:erythromycin and clarithromycin Antiretrovirals:ritonavir Grapefruit juice |
+| Examples: | Anti-fungals: itraconazole, posaconazole, voriconazole Antibiotics: erythromycin and clarithromycin Antiretrovirals: ritonavir Grapefruit juice |
 | CYP3A4 Inducers |  |
 | Clinical Impact: | Hydrocortisone is metabolized by cytochrome P450 3A4 (CYP3A4). Concomitant administration of inducers of CYP3A4 may lead to decreases in serum concentrations of ALKINDI SPRINKLE and increase the risk of adverse reactions, including adrenal crisis. |
 | Intervention: | Concomitant use of CYP3A4 inducers may require an increase in the ALKINDI SPRINKLE dose. |
-| Examples: | Anticonvulsants:phenytoin, carbamazepine and oxcarbazepine Antibiotics:rifampicin and rifabutin Barbiturates:phenobarbital and primidone Antiretrovirals:efavirenz and nevirapine |
+| Examples: | Anticonvulsants: phenytoin, carbamazepine and oxcarbazepine Antibiotics: rifampicin and rifabutin Barbiturates: phenobarbital and primidone Antiretrovirals: efavirenz and nevirapine |
 | Estrogen and Estrogen Containing Products |  |
 | Clinical Impact: | Oral estrogen and estrogen-containing oral contraceptives may interact with hydrocortisone by increasing serum cortisol-binding globulin (CBG) concentration. Concomitant use may reduce the efficacy of ALKINDI SPRINKLE by binding and delaying or preventing absorption. |
 | Intervention: | Concomitant use of estrogen/estrogen containing products may require an increase in the ALKINDI SPRINKLE dose. |

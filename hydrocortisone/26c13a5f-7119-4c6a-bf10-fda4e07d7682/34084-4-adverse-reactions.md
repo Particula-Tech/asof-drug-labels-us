@@ -51,26 +51,26 @@ Because some of these reactions are reported voluntarily from a population of un
 
 Common adverse reactions for corticosteroids include fluid retention, alteration in glucose tolerance, elevation in blood pressure, behavioral and mood changes, increased appetite and weight gain.
 
-Allergic Reactions:Anaphylaxis, angioedema
+Allergic Reactions: Anaphylaxis, angioedema
 
-Cardiovascular:Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction, pulmonary edema, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis
+Cardiovascular: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction, pulmonary edema, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis
 
-Dermatologic:Acne, allergic dermatitis, cutaneous and subcutaneous atrophy, dry scalp, edema, facial erythema, hyper or hypo-pigmentation, impaired wound healing, increased sweating, petechiae and ecchymoses, rash, sterile abscess, striae, suppressed reactions to skin tests, thin fragile skin, thinning scalp hair, urticaria
+Dermatologic: Acne, allergic dermatitis, cutaneous and subcutaneous atrophy, dry scalp, edema, facial erythema, hyper or hypo-pigmentation, impaired wound healing, increased sweating, petechiae and ecchymoses, rash, sterile abscess, striae, suppressed reactions to skin tests, thin fragile skin, thinning scalp hair, urticaria
 
-Endocrine:Abnormal fat deposits, decreased carbohydrate tolerance, development of Cushingoid state, hirsutism, manifestations of latent diabetes mellitus and increased requirements for insulin or oral hypoglycemic agents in diabetics, menstrual irregularities, moon faces, secondary adrenocortical and pituitary unresponsiveness (particularly in times of stress, as in trauma, surgery or illness), suppression of growth in pediatric patients
+Endocrine: Abnormal fat deposits, decreased carbohydrate tolerance, development of Cushingoid state, hirsutism, manifestations of latent diabetes mellitus and increased requirements for insulin or oral hypoglycemic agents in diabetics, menstrual irregularities, moon faces, secondary adrenocortical and pituitary unresponsiveness (particularly in times of stress, as in trauma, surgery or illness), suppression of growth in pediatric patients
 
-Fluid and Electrolyte Disturbances:Fluid retention, potassium loss, hypertension, hypokalemic alkalosis, sodium retention
+Fluid and Electrolyte Disturbances: Fluid retention, potassium loss, hypertension, hypokalemic alkalosis, sodium retention
 
-Gastrointestinal:Abdominal distention, elevation in serum liver enzymes levels (usually reversible upon discontinuation), hepatomegaly, hiccups, malaise, nausea, pancreatitis, peptic ulcer with possible perforation and hemorrhage, ulcerative esophagitis
+Gastrointestinal: Abdominal distention, elevation in serum liver enzymes levels (usually reversible upon discontinuation), hepatomegaly, hiccups, malaise, nausea, pancreatitis, peptic ulcer with possible perforation and hemorrhage, ulcerative esophagitis
 
-General:Increased appetite and weight gain
+General: Increased appetite and weight gain
 
-Metabolic:Negative nitrogen balance due to protein catabolism
+Metabolic: Negative nitrogen balance due to protein catabolism
 
-Musculoskeletal:Osteonecrosis of femoral and humeral heads, Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, steroid myopathy, tendon rupture, vertebral compression fractures
+Musculoskeletal: Osteonecrosis of femoral and humeral heads, Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, steroid myopathy, tendon rupture, vertebral compression fractures
 
-Neurological:Arachnoiditis, convulsions, depression, emotional instability, euphoria, headache, increased intracranial pressure with papilledema (pseudo-tumor cerebri) usually following discontinuation of treatment, insomnia, meningitis, mood swings, neuritis, neuropathy, paraparesis/paraplegia, paresthesia, personality changes, sensory disturbances, vertigo
+Neurological: Arachnoiditis, convulsions, depression, emotional instability, euphoria, headache, increased intracranial pressure with papilledema (pseudo-tumor cerebri) usually following discontinuation of treatment, insomnia, meningitis, mood swings, neuritis, neuropathy, paraparesis/paraplegia, paresthesia, personality changes, sensory disturbances, vertigo
 
-Ophthalmic:Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, and central serous chorioretinopathy
+Ophthalmic: Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, and central serous chorioretinopathy
 
-Reproductive:Alteration in motility and number of spermatozoa
+Reproductive: Alteration in motility and number of spermatozoa
