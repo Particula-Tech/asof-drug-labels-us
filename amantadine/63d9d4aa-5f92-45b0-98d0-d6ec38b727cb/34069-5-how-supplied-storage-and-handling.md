@@ -12,6 +12,6 @@ They are supplied as follows:
 Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
 Protect from light and moisture.
 
-Dispense in a tight, light-resistant container as defined in the USP, with child-resistant closure (as required).
+Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
 Keep out of reach of children.

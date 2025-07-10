@@ -2,7 +2,7 @@
 
 Amantadine hydrochloride, USP is designated generically as amantadine hydrochloride, USP and chemically as 1-adamantanamine hydrochloride.
 
-C10H17N∙HCl
+C 10H 17N∙HCl
 
 Amantadine hydrochloride, USP is a stable white or nearly white crystalline powder, freely soluble in water and soluble in alcohol and in chloroform.
 

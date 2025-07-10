@@ -1,7 +1,9 @@
 Rx only
 
-All trademarks are property of their respective owners.
+Distributed by
 
-Manufactured by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
+UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Revised: 11/2022
+Made in Canada
+
+Revised: 6/2025

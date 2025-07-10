@@ -15,15 +15,15 @@ It does not appear to interfere with the immunogenicity of inactivated influenza
 
 Amantadine inhibits the replication of influenza A virus isolates from each of the subtypes, i.e., H1N1, H2N2 and H3N2.
 It has very little or no activity against influenza B virus isolates.
-A quantitative relationship between the in vitro susceptibility of influenza A virus to amantadine and the clinical response to therapy has not been established in man.
-Sensitivity test results, expressed as the concentration of amantadine required to inhibit by 50% the growth of virus (ED50) in tissue culture vary greatly (from 0.1 mcg/mL to 25 mcg/mL) depending upon the assay protocol used, size of virus inoculum, isolates of influenza A virus strains tested, and the cell type used.
+A quantitative relationship between the in vitrosusceptibility of influenza A virus to amantadine and the clinical response to therapy has not been established in man.
+Sensitivity test results, expressed as the concentration of amantadine required to inhibit by 50% the growth of virus (ED 50) in tissue culture vary greatly (from 0.1 mcg/mL to 25 mcg/mL) depending upon the assay protocol used, size of virus inoculum, isolates of influenza A virus strains tested, and the cell type used.
 Host cells in tissue culture readily tolerated amantadine up to a concentration of 100 mcg/mL.
 
 ### Drug Resistance
 
-Influenza A variants with reduced in vitro sensitivity to amantadine have been isolated from epidemic strains in areas where adamantane derivatives are being used.
-Influenza viruses with reduced in vitro sensitivity have been shown to be transmissible and to cause typical influenza illness.
-The quantitative relationship between the in vitro sensitivity of influenza A variants to amantadine and the clinical response to therapy has not been established.
+Influenza A variants with reduced in vitrosensitivity to amantadine have been isolated from epidemic strains in areas where adamantane derivatives are being used.
+Influenza viruses with reduced in vitrosensitivity have been shown to be transmissible and to cause typical influenza illness.
+The quantitative relationship between the in vitrosensitivity of influenza A variants to amantadine and the clinical response to therapy has not been established.
 
 ### Mechanism of Action
 
@@ -31,7 +31,7 @@ The quantitative relationship between the in vitro sensitivity of influenza A va
 
 The mechanism of action of amantadine hydrochloride in the treatment of Parkinson's disease and drug-induced extrapyramidal reactions is not known.
 Data from earlier animal studies suggest that amantadine hydrochloride may have direct and indirect effects on dopamine neurons.
-More recent studies have demonstrated that amantadine is a weak, non-competitive NMDA receptor antagonist (Ki = 10µM).
+More recent studies have demonstrated that amantadine is a weak, non-competitive NMDA receptor antagonist (K i= 10µM).
 Although amantadine has not been shown to possess direct anticholinergic activity in animal studies, clinically, it exhibits anticholinergic-like side effects such as dry mouth, urinary retention, and constipation.
 
 ## Pharmacokinetics
@@ -56,10 +56,10 @@ The apparent oral clearance was 0.28 ± 0.11 L/hr/kg (range: 0.14 to 0.62 L/hr/k
 The half-life was 17 ± 4 hours (range: 10 to 25 hours).
 Across other studies, amantadine plasma half-life has averaged 16 ± 6 hours (range: 9 to 31 hours) in 19 healthy volunteers.
 
-After oral administration of a single dose of 100 mg amantadine syrup to five healthy volunteers, the mean ± SD maximum plasma concentration Cmax was 0.24 ± 0.04 mcg/mL and ranged from 0.18 to 0.28 mcg/mL.
-After 15 days of amantadine 100 mg b.i.d., the Cmax was 0.47 ± 0.11 mcg/mL in four of the five volunteers.
-The administration of amantadine tablets as a 200 mg single dose to 6 healthy subjects resulted in a Cmax of 0.51 ± 0.14 mcg/mL.
-Across studies, the time to Cmax (Tmax) averaged about 2 to 4 hours.
+After oral administration of a single dose of 100 mg amantadine syrup to five healthy volunteers, the mean ± SD maximum plasma concentration C maxwas 0.24 ± 0.04 mcg/mL and ranged from 0.18 to 0.28 mcg/mL.
+After 15 days of amantadine 100 mg b.i.d., the C maxwas 0.47 ± 0.11 mcg/mL in four of the five volunteers.
+The administration of amantadine tablets as a 200 mg single dose to 6 healthy subjects resulted in a C maxof 0.51 ± 0.14 mcg/mL.
+Across studies, the time to C max(T max) averaged about 2 to 4 hours.
 
 Plasma amantadine clearance ranged from 0.2 to 0.3 L/hr/kg after the administration of 5 mg to 25 mg intravenous doses of amantadine to 15 healthy volunteers.
 
@@ -78,7 +78,7 @@ Whether these changes are due to decline in renal function or other age-related 
 In a study of young healthy subjects (n=20), mean renal clearance of amantadine, normalized for body mass index, was 1.5-fold higher in males compared to females (p<0.032).
 
 Compared with otherwise healthy adult individuals, the clearance of amantadine is significantly reduced in adult patients with renal insufficiency.
-The elimination half-life increases two to three-fold or greater when creatinine clearance is less than 40 mL/min/1.73 m2 and averages eight days in patients on chronic maintenance hemodialysis.
+The elimination half-life increases two to three-fold or greater when creatinine clearance is less than 40 mL/min/1.73 m 2and averages eight days in patients on chronic maintenance hemodialysis.
 Amantadine is removed in negligible amounts by hemodialysis.
 
 The pH of the urine has been reported to influence the excretion rate of amantadine hydrochloride.

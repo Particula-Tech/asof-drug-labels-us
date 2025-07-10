@@ -8,7 +8,7 @@ Acute toxicity may be attributable to the anticholinergic effects of amantadine.
 Drug overdose has resulted in cardiac, respiratory, renal or central nervous system toxicity.
 Cardiac dysfunction includes arrhythmia, tachycardia and hypertension (see OVERDOSAGE).
 
-Deaths due to drug accumulation (overdosage) have been reported in patients with renal impairment, who were prescribed higher than recommended doses of amantadine hydrochloride for their level of renal function (see DOSAGE AND ADMINISTRATION: Dosage for Impaired Renal Function and OVERDOSAGE).
+Deaths due to drug accumulation (overdosage) have been reported in patients with renal impairment, who were prescribed higher than recommended doses of amantadine hydrochloride for their level of renal function (see DOSAGE AND ADMINISTRATION: Dosage for Impaired Renal Functionand OVERDOSAGE).
 
 ## Suicide Attempts
 
@@ -32,6 +32,18 @@ Patients with a history of congestive heart failure or peripheral edema should b
 Patients with Parkinson's disease improving on amantadine hydrochloride tablets should resume normal activities gradually and cautiously, consistent with other medical considerations, such as the presence of osteoporosis or phlebothrombosis.
 
 Because amantadine hydrochloride tablets have anticholinergic effects and may cause mydriasis, it should not be given to patients with untreated angle closure glaucoma.
+
+## Corneal Edema
+
+Corneal edema has been reported in patients taking amantadine.
+Symptoms include sudden onset of blurry vision, or progressive vision loss, with or without eye pain.
+Corneal involvement is usually bilateral.
+Onset can occur from a few weeks to several years after starting amantadine.
+Resolution of symptoms typically begins within weeks after amantadine cessation.
+However, corneal grafts have been required in some patients when the conditionis not recognized.
+Permanent damage can occur if amantadine continued.
+Ask patients if their vision has changed and obtain ophthalmologic examination to rule out corneal edema should vision changes occur after initiation of therapy with amantadine.
+If corneal edema occurs, taper and discontinue amantadine [see Dosage and Administration].
 
 # PRECAUTIONS
 
@@ -66,7 +78,7 @@ Rare instances of reversible elevation of liver enzymes have been reported in pa
 
 ## Impulse Control/Compulsive Behaviors
 
-Postmarketing reports suggest that patients treated with anti-Parkinson medications can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, and other intense urges.
+Post-marketing reports suggest that patients treated with antiParkinson medications can experience intense urges to gamble, increased sexual urges, intense urges to spend money uncontrollably, and other intense urges.
 Patients may be unable to control these urges while taking one or more of the medications that are generally used for the treatment of Parkinson's disease and that increase central dopaminergic tone, including amantadine hydrochloride.
 In some cases, although not all, these urges were reported to have stopped when the dose was reduced, or the medication was discontinued.
 Because patients may not recognize these behaviors as abnormal it is important for prescribers to specifically ask patients or their caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending, or other urges while being treated with amantadine hydrochloride.
@@ -77,7 +89,7 @@ Physicians should consider dose reduction or stopping the medication if a patien
 Epidemiological studies have shown that patients with Parkinson's disease have a higher risk (2- to approximately 6-fold higher) of developing melanoma than the general population.
 Whether the increased risk observed was due to Parkinson's disease or other factors, such as drugs used to treat Parkinson's disease, is unclear.
 
-For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using amantadine hydrochloride tablets for any indication.
+For the reasons stated above, patients and providers are advised to monitor for melanomas frequently and on a regular basis when using amantadine hydrochloride tablets for anyindication.
 Ideally, periodic skin examinations should be performed by appropriately qualified individuals (e.g., dermatologists).
 
 ## Other
@@ -92,7 +104,7 @@ Amantadine hydrochloride has not been shown to prevent such complications.
 
 Patients should be advised of the following information:
 
-Blurry vision and/or impaired mental acuity may occur.
+Blurry vision, eye pain, loss of vision and/or impaired mental acuity may occur.
 
 Gradually increase physical activity as the symptoms of Parkinson's disease improve.
 
@@ -117,7 +129,8 @@ Careful observation is required when amantadine hydrochloride is administered co
 Agents with anticholinergic properties may potentiate the anticholinergic-like side effects of amantadine.
 
 Coadministration of thioridazine has been reported to worsen the tremor in elderly patients with Parkinson's disease, however, it is not known if other phenothiazines produce a similar response.
-Coadministration of Dyazide (triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine concentration in a 61-year-old man receiving amantadine hydrochloride 100 mg TID for Parkinson's disease.1 It is not known which of the components of Dyazide contributed to the observation or if related drugs produce a similar response.
+Coadministration of Dyazide (triamterene/hydrochlorothiazide) resulted in a higher plasma amantadine concentration in a 61-year-old man receiving amantadine hydrochloride 100 mg TID for Parkinson's disease.
+1It is not known which of the components of Dyazide contributed to the observation or if related drugs produce a similar response.
 
 Coadministration of quinine or quinidine with amantadine was shown to reduce the renal clearance of amantadine by about 30%.
 
@@ -128,30 +141,30 @@ Trivalent inactivated influenza vaccine can be administered at any time relative
 
 ## Carcinogenesis and Mutagenesis
 
-Long-term in vivo animal studies designed to evaluate the carcinogenic potential of amantadine hydrochloride have not been performed.
-In several in vitro assays for gene mutation, amantadine hydrochloride did not increase the number of spontaneously observed mutations in four strains of Salmonella typhimurium (Ames Test) or in a mammalian cell line (Chinese Hamster Ovary cells) when incubations were performed either with or without a liver metabolic activation extract.
-Further, there was no evidence of chromosome damage observed in an in vitro test using freshly derived and stimulated human peripheral blood lymphocytes (with and without metabolic activation) or in an in vivo mouse bone marrow micronucleus test (140 to 550 mg/kg; estimated human equivalent doses of 11.7 to 45.8 mg/kg based on body surface area conversion).
+Long-term in vivoanimal studies designed to evaluate the carcinogenic potential of amantadine hydrochloride have not been performed.
+In several in vitroassays for gene mutation, amantadine hydrochloride did not increase the number of spontaneously observed mutations in four strains of Salmonella typhimurium(Ames Test) or in a mammalian cell line (Chinese Hamster Ovary cells) when incubations were performed either with or without a liver metabolic activation extract.
+Further, there was no evidence of chromosome damage observed in an in vitrotest using freshly derived and stimulated human peripheral blood lymphocytes (with and without metabolic activation) or in an in vivomouse bone marrow micronucleus test (140 to 550 mg/kg; estimated human equivalent doses of 11.7 to 45.8 mg/kg based on body surface area conversion).
 
 ## Impairment of Fertility
 
 The effect of amantadine on fertility has not been adequately tested, that is, in a study conducted under Good Laboratory Practice (GLP) and according to current recommended methodology.
-In a three litter, non-GLP, reproduction study in rats, amantadine hydrochloride at a dose of 32 mg/kg/day (equal to the maximum recommended human dose on a mg/m2 basis) administered to both males and females slightly impaired fertility.
-There were no effects on fertility at a dose level of 10 mg/kg/day (or 0.3 times the maximum recommended human dose on a mg/m2 basis); intermediate doses were not tested.
+In a three litter, non-GLP, reproduction study in rats, amantadine hydrochloride at a dose of 32 mg/kg/day (equal to the maximum recommended human dose on a mg/m 2basis) administered to both males and females slightly impaired fertility.
+There were no effects on fertility at a dose level of 10 mg/kg/day (or 0.3 times the maximum recommended human dose on a mg/m 2basis); intermediate doses were not tested.
 
-Failed fertility has been reported during human in vitro fertilization (IVF) when the sperm donor ingested amantadine 2 weeks prior to, and during the IVF cycle.
+Failed fertility has been reported during human in vitrofertilization (IVF) when the sperm donor ingested amantadine 2 weeks prior to, and during the IVF cycle.
 
 ## Pregnancy
 
 ### Teratogenic Effects
 
 The effect of amantadine on embryofetal and peri-postnatal development has not been adequately tested, that is, in studies conducted under Good Laboratory Practice (GLP) and according to current recommended methodology.
-However, in two non-GLP studies in rats in which females were dosed from 5 days prior to mating to Day 6 of gestation or on Days 7 to 14 of gestation, amantadine hydrochloride produced increases in embryonic death at an oral dose of 100 mg/kg (or 3 times the maximum recommended human dose on a mg/m2 basis).
-In the non-GLP rat study in which females were dosed on Days 7 to 14 of gestation, there was a marked increase in severe visceral and skeletal malformations at oral doses of 50 and 100 mg/kg (or 1.5 and 3 times, respectively, the maximum recommended human dose on a mg/m2 basis).
-The no-effect dose for teratogenicity was 37 mg/kg (equal to the maximum recommended human dose on a mg/m2 basis).
+However, in two non-GLP studies in rats in which females were dosed from 5 days prior to mating to Day 6 of gestation or on Days 7 to 14 of gestation, amantadine hydrochloride produced increases in embryonic death at an oral dose of 100 mg/kg (or 3 times the maximum recommended human dose on a mg/m 2basis).
+In the non-GLP rat study in which females were dosed on Days 7 to 14 of gestation, there was a marked increase in severe visceral and skeletal malformations at oral doses of 50 and 100 mg/kg (or 1.5 and 3 times, respectively, the maximum recommended human dose on a mg/m 2basis).
+The no-effect dose for teratogenicity was 37 mg/kg (equal to the maximum recommended human dose on a mg/m 2basis).
 The safety margins reported may not accurately reflect the risk considering the questionable quality of the study on which they are based.
 There are no adequate and well-controlled studies in pregnant women.
 Human data regarding teratogenicity after maternal use of amantadine is scarce.
-Tetralogy of Fallot and tibial hemimelia (normal karyotype) occurred in an infant exposed to amantadine during the first trimester of pregnancy (100 mg P.O. for 7 days during the 6th and 7th week of gestation).
+Tetralogy of Fallot and tibial hemimelia (normal karyotype) occurred in an infant exposed to amantadine during the first trimester of pregnancy (100 mg P.O. for 7 days during the 6 thand 7 thweek of gestation).
 Cardiovascular maldevelopment (single ventricle with pulmonary atresia) was associated with maternal exposure to amantadine (100 mg/d) administered during the first 2 weeks of pregnancy.
 Amantadine hydrochloride should be used during pregnancy only if the potential benefit justifies the potential risk to the embryo or fetus.
 
