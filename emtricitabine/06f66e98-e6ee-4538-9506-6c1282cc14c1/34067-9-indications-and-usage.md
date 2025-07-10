@@ -2,9 +2,9 @@
 
 ## 1.1 Treatment of HIV-1 Infection
 
-DESCOVY is indicated, in combination with other antiretroviral agents, for the treatment of HIV-1 infection in adults and pediatric patients weighing at least 35 kg.
+DESCOVY is indicated in combination with other antiretroviral agents for the treatment of HIV-1 infection in adults and adolescent patients weighing at least 35 kg.
 
-DESCOVY is indicated, in combination with other antiretroviral agents other than protease inhibitors that require a CYP3A inhibitor, for the treatment of HIV-1 infection in pediatric patients weighing at least 14 kg and less than 35 kg.
+DESCOVY is indicated for the treatment of HIV-1 infection in pediatric patients weighing at least 14 kg to less than 35 kg in combination with other antiretroviral agents, including darunavir and cobicistat but not other protease inhibitors that require a CYP3A inhibitor.
 
 ## 1.2 HIV-1 Pre-Exposure Prophylaxis (PrEP)
 

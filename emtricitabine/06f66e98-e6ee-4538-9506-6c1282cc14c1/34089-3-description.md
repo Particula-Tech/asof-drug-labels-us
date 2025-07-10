@@ -23,6 +23,6 @@ FTC is a white to off-white powder with a solubility of approximately 112 mg per
 
 Tenofovir Alafenamide: The chemical name of tenofovir alafenamide fumarate drug substance is L-alanine, N-[(S)-[[(1R)-2-(6-amino-9H-purin-9-yl)-1-methylethoxy]methyl]phenoxyphosphinyl]-, 1-methylethyl ester, (2E)-2-butenedioate (2:1).
 
-Tenofovir alafenamide fumarate has an empirical formula of C21H29O5N6P∙½(C4H4O4) and a formula weight of 534.50 and has the following structural formula:
+Tenofovir alafenamide fumarate has an empirical formula of C21H29O5N6P•½(C4H4O4) and a formula weight of 534.50 and has the following structural formula:
 
 Tenofovir alafenamide fumarate is a white to off-white or tan powder with a solubility of 4.7 mg per mL in water at 20 °C.

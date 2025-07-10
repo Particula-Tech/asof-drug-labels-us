@@ -3,7 +3,7 @@
 ## 7.1 Potential for Other Drugs to Affect One or More Components of DESCOVY
 
 TAF, a component of DESCOVY, is a substrate of P-gp, BCRP, OATP1B1, and OATP1B3.
-Drugs that strongly affect P-gp and BCRP activity may lead to changes in TAF absorption (see Table 5).
+Drugs that strongly affect P-gp and BCRP activity may lead to changes in TAF absorption (see Table 6).
 Drugs that induce P-gp activity are expected to decrease the absorption of TAF, resulting in decreased plasma concentration of TAF, which may lead to loss of therapeutic effect of DESCOVY and development of resistance.
 Coadministration of DESCOVY with other drugs that inhibit P-gp and BCRP may increase the absorption and plasma concentration of TAF.
 TAF is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or UGT1A1.
@@ -28,12 +28,15 @@ Drug Interactions
 | --- | --- | --- |
 | Antiretroviral Agents: Protease Inhibitors (PI) |  |  |
 | tipranavir/ritonavir | ↓ TAF | Coadministration with DESCOVY is not recommended. |
+| atazanavir/cobicistat | ↑ TAF | Coadministration with DESCOVY in pediatric patients weighing 14 to < 35 kg is not recommended [see Use in Specific Populations (8.4)]. |
 | Other Agents |  |  |
 | Anticonvulsants: carbamazepine oxcarbazepine phenobarbital phenytoin | ↓ TAF | Consider alternative anticonvulsant. |
 | Antimycobacterials: rifabutin rifampin rifapentine | ↓ TAF | Coadministration of DESCOVY with rifabutin, rifampin, or rifapentine is not recommended. |
-| Herbal Products: St. John's wort (Hypericum perforatum) | ↓ TAF | Coadministration of DESCOVY with St. John's wort is not recommended. |
+| Herbal Products: St. John’s wort (Hypericum perforatum) | ↓ TAF | Coadministration of DESCOVY with St. John’s wort is not recommended. |
+| ↑= Increase |  |  |
 
 ## 7.4 Drugs without Clinically Significant Interactions with DESCOVY
 
-Based on drug interaction studies conducted with the components of DESCOVY, no clinically significant drug interactions have been either observed or are expected when DESCOVY is combined with the following antiretroviral agents: atazanavir with ritonavir or cobicistat, darunavir with ritonavir or cobicistat, dolutegravir, efavirenz, ledipasvir, lopinavir/ritonavir, maraviroc, nevirapine, raltegravir, rilpivirine, and sofosbuvir.
+Based on drug interaction studies conducted with the components of DESCOVY, no clinically significant drug interactions have been either observed or are expected when DESCOVY is combined with the following antiretroviral agents: atazanavir with ritonavir, atazanavir with cobicistat (in those weighing ≥35 kg), darunavir with ritonavir or cobicistat, dolutegravir, efavirenz, ledipasvir, lopinavir/ritonavir, maraviroc, nevirapine, raltegravir, rilpivirine, and sofosbuvir.
+
 No clinically significant drug interactions have been either observed or are expected when DESCOVY is combined with the following drugs: buprenorphine, itraconazole, ketoconazole, lorazepam, methadone, midazolam, naloxone, norbuprenorphine, norgestimate/ethinyl estradiol, and sertraline.

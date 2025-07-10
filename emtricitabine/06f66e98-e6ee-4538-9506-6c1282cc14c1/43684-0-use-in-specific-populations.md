@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in individuals exposed to DESCOVY during pregnancy.
-Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
+Healthcare providers are encouraged to register individuals by calling the Antiretroviral Pregnancy Registry (APR) at 1-800-258-4263.
 
 Risk Summary
 
@@ -25,13 +25,13 @@ Prospective reports from the APR of overall major birth defects in pregnancies e
 Methodological limitations of the APR include the use of MACDP as the external comparator group.
 The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at less than 20 weeks gestation.
 
-Emtricitabine (FTC)
+Emtricitabine (FTC):
 
-Based on prospective reports to the APR of over 5,400 exposures to FTC-containing regimens during pregnancy resulting in live births (including over 3,900 exposed in the first trimester and over 1,500 exposed in the second/third trimester), the prevalence of birth defects in live births was 2.6% (95% CI: 2.2% to 3.2%) and 2.7% (95% CI: 1.9% to 3.7%) following first and second/third trimester exposure, respectively, to FTC-containing regimens.
+Based on prospective reports to the APR of over 7300 exposures to FTC-containing regimens during pregnancy resulting in live births (including over 5400 exposed in the first trimester and over 1800 exposed in the second/third trimester), the prevalence of birth defects in live births was 3.0% (95% CI: 2.5% to 3.5%) and 2.7% (95% CI: 2.0% to 3.6%) following first and second/third trimester exposure, respectively, to FTC-containing regimens.
 
-Tenofovir Alafenamide (TAF)
+Tenofovir Alafenamide (TAF):
 
-Based on prospective reports to the APR of over 660 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 520 exposed in the first trimester and over 130 exposed in the second/third trimester), the prevalence of birth defects in live births was 4.2 % (95% CI: 2.6 % to 6.3 %) and 3.0% (95% CI: 0.8% to 7.5 %) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
+Based on prospective reports to the APR of over 1600 exposures to TAF-containing regimens during pregnancy resulting in live births (including over 1300 exposed in the first trimester and over 300 exposed in the second/third trimester), the prevalence of birth defects in live births was 3.9% (95% CI: 2.9% to 5.2%) and 4.7% (95% CI: 2.6% to 7.7%) following first and second/third trimester exposure, respectively, to TAF-containing regimens.
 
 Animal Data
 
@@ -49,55 +49,68 @@ Doses up to 600 mg/kg/day were administered through lactation; no adverse effect
 
 Risk Summary
 
-The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants, to avoid risking postnatal transmission of HIV-1.
+Data from the published literature report the presence of FTC, TAF, and tenofovir in human milk.
+Data from the published literature have not reported adverse effects of FTC or TAF on a breastfed child.
+There are no data on the effects of FTC or TAF on milk production.
 
-Based on limited data, FTC has been shown to be present in human breast milk; it is not known if TAF is present in human breast milk.
-Tenofovir has been shown to be present in the milk of lactating rats and rhesus monkeys after administration of TDF (see Data).
-It is not known if TAF is present in animal milk.
-
-It is not known if DESCOVY affects milk production or has effects on the breastfed child.
-
-Because of the potential for: 1) HIV transmission (in HIV-negative infants); 2) developing viral resistance (in HIV-positive infants); and 3) adverse reactions in a breastfed infant similar to those seen in adults, instruct mothers not to breastfeed if they are taking DESCOVY for the treatment of HIV-1 (see Data).
-
-Data
-
-Animal Data
-
-Tenofovir Alafenamide: Studies in rats and monkeys have demonstrated that tenofovir is secreted in milk.
-Tenofovir was excreted into the milk of lactating rats following oral administration of TDF (up to 600 mg/kg/day) at up to approximately 24% of the median plasma concentration in the highest dosed animals at lactation day 11.
-Tenofovir was excreted into the milk of lactating monkeys following a single subcutaneous (30 mg/kg) dose of tenofovir at concentrations up to approximately 4% of plasma concentration, resulting in exposure (AUC) of approximately 20% of plasma exposure.
+Potential risks of breastfeeding include: 1) HIV transmission to infants without HIV-1; 2) developing viral resistance in infants with HIV-1; and 3) adverse reactions in a breastfed infant similar to those seen in adults.
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of DESCOVY for the treatment of HIV-1 infection have been established in pediatric patients weighing at least 14 kg [see Indications and Usage (1.1) and Dosage and Administration (2.2)].
+
 Treatment of HIV-1 Infection
 
-The safety and effectiveness of DESCOVY, in combination with other antiretroviral agents, for the treatment of HIV-1 infection was established in pediatric patients with body weight greater than or equal to 14 kg [see Indication and Usage (1.1) and Dosage and Administration (2.3, 2.4)].
+Adolescent Patients Weighing at Least 35 kg:
 
-Use of DESCOVY in pediatric patients between 6 to less than 18 years of age and weighing at least 25 kg is supported by adequate and well controlled studies of FTC+TAF with EVG+COBI in adults and by an open-label trial in antiretroviral treatment-naïve HIV-1 infected pediatric subjects aged 12 to less than 18 years and weighing at least 35 kg through Week 48 (N=50; cohort 1) and in virologically-suppressed pediatric subjects aged 6 to less than 12 years and weighing at least 25 kg through Week 48 (N=52; cohort 2).
-The safety and efficacy of FTC+TAF with EVG+COBI in adolescent subjects was similar to that in adults on this regimen.
-The safety and efficacy of FTC+TAF with EVG+COBI in subjects 6 to 12 years of age weighing at least 25 kg was similar to that in antiretroviral treatment-naïve adults and adolescents on this regimen, with the exception of a decrease from baseline in CD4+ cell count [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+The safety and effectiveness of DESCOVY in combination with other antiretroviral agents for the treatment of HIV-1 infection was established in adolescent patients weighing at least 35 kg.
 
-Use of DESCOVY in pediatric patients between 2 to less than 6 years of age and weighing at least 14 to less than 25 kg is supported by adequate and well controlled studies of FTC+TAF with EVG+COBI in adults and by a separate open-label trial of FTC+TAF with bictegravir in virologically-suppressed pediatric patients at least 2 years of age and weighing at least 14 to less than 25 kg through Week 24 (N=22; cohort 3).
-The safety and efficacy of FTC+TAF in these pediatric subjects were similar to that observed in adults who received FTC+TAF with bictegravir [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+Use of DESCOVY in adolescent patients is supported by adequate and well controlled trials of FTC+TAF with EVG+COBI in adults and by an open-label trial in antiretroviral treatment-naïve pediatric participants with HIV-1 aged 12 to less than 18 years and weighing at least 35 kg through Week 48 (N=50; Study 106 [cohort 1]) administered FTC+TAF with EVG+COBI.
+The safety and effectiveness of FTC+TAF with EVG+COBI in adolescent participants was similar to that in adults on this regimen [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
 
-Safety and effectiveness of DESCOVY coadministered with an HIV-1 protease inhibitor that is administered with either ritonavir or cobicistat have not been established in pediatric patients weighing less than 35 kg [see Dosage and Administration (2.4)].
+Pediatric Patients Weighing at least 14 kg and Less than 35 kg:
+
+The safety and effectiveness of DESCOVY in combination with other antiretroviral agents, including darunavir and cobicistat (DRV+COBI) but not including other protease inhibitors that require a CYP3A inhibitor, for the treatment of HIV-1 infection was established in pediatric patients weighing at least 14 kg to less than 35 kg [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
+
+Use of DESCOVY in pediatric patients weighing at least 14 kg to less than 35 kg is supported by:
+
+- adequate and well controlled trials of FTC+TAF with EVG+COBI in adults;
+- an open-label trial in virologically-suppressed pediatric participants aged 6 to less than 12 years and weighing at least 25 kg (N=52; Study 106 [cohort 2]) administered FTC+TAF with EVG+COBI through Week 48;
+- an open-label trial of DESCOVY administered in combination with DRV+COBI in virologically-suppressed pediatric participants at least 2 years of age and weighing at least 14 kg to less than 40 kg (n=20; Study 128 [cohort 2 and 3]) through Week 48;
+- an open-label trial of FTC+TAF with bictegravir in virologically-suppressed pediatric participants at least 2 years of age and weighing at least 14 to less than 25 kg through Week 24 (N=22; Study 1474 [cohort 3]).
+  Overall, the safety and effectiveness of FTC+TAF in pediatric participants in these trials were similar to that observed in adults.
+  Specifically, the safety and efficacy of FTC+TAF with EVG+COBI in participants 6 to 12 years of age and weighing at least 25 kg were similar to that in antiretroviral treatment-naïve adults and adolescents receiving this regimen, with the exception of a decrease from baseline in CD4+ cell count.
+  The safety and effectiveness of DESCOVY when administered with DRV+COBI in pediatric participants weighing at least 14 kg to less than 40 kg were similar to that in adults.
+
+Use of DESCOVY with Other Protease Inhibitors that Require CYP3A Inhibition in Pediatric Patients Weighing at least 14 kg to Less than 35 kg:
+
+The use of DESCOVY with atazanavir and cobicistat (ATV+COBI) is not recommended in pediatric patients weighing at least 14 kg to less than 35 kg.
+
+The use of DESCOVY with ATV+COBI was studied in pediatric patients weighing at least 14 kg to less than 35 kg.
+In Study 128, participants who received ATV+COBI in cohort 2 (25 kg to <40 kg, n=14) and cohort 3 (14 kg to <25 kg, n=15) showed TAF exposures (Cmax and AUC) that exceeded adult exposures by 4–5-fold in cohort 2, and 2–3-fold in cohort 3.
+Limited safety data were available to support the increased TAF exposures.
+Therefore, the use of DESCOVY with ATV+COBI is not recommended in pediatric patients weighing at least 14 kg to less than 35 kg.
+
+Safety and effectiveness of DESCOVY in combination with protease inhibitors that require ritonavir in pediatric patients weighing at least 14 kg to less than 35 kg have not been established.
+
+Pediatric Patients Weighing less than 14 kg:
 
 Safety and effectiveness of DESCOVY for treatment of HIV-1 infection in pediatric patients weighing less than 14 kg have not been established.
 
 HIV-1 PrEP
 
-Safety and effectiveness of DESCOVY for HIV-1 PrEP in at-risk adolescents weighing at least 35 kg, excluding individuals at risk from receptive vaginal sex, is supported by data from an adequate and well-controlled trial of DESCOVY for HIV-1 PrEP in adults with additional data from safety and pharmacokinetic studies in previously conducted trials with the individual drug products, FTC and TAF, with EVG+COBI, in HIV-1 infected adults and pediatric subjects [see Dosage and Administration (2.5), Adverse Reactions (6.1), Clinical Pharmacology (12.3 and 12.4), and Clinical Studies (14)].
+Safety and effectiveness of DESCOVY for HIV-1 PrEP in at-risk adolescents weighing at least 35 kg, excluding individuals at risk from receptive vaginal sex, is supported by data from an adequate and well-controlled trial of DESCOVY for HIV-1 PrEP in adults with additional data from safety and pharmacokinetic studies in previously conducted trials with the individual drug products, FTC and TAF, with EVG+COBI, in adults and pediatric participants with HIV-1 [see Dosage and Administration (2.5), Adverse Reactions (6.1), Clinical Pharmacology (12.3 and 12.4), and Clinical Studies (14)].
 
 While using DESCOVY for HIV-1 PrEP, HIV-1 testing should be repeated at least every 3 months, and upon diagnosis of any other STIs.
 Previous studies in at-risk adolescents indicated waning adherence to a daily oral PrEP regimen once visits were switched from monthly to quarterly visits.
 Adolescents may therefore benefit from more frequent visits and counseling [see Warnings and Precautions (5.2)].
 
-Safety and effectiveness of DESCOVY for HIV-1 PrEP in pediatric patients weighing less than 35 kg have not been established.
+Safety and effectiveness of DESCOVY for HIV-1 PrEP in pediatric individuals weighing less than 35 kg have not been established.
 
 ## 8.5 Geriatric Use
 
-In clinical trials of an FTC+TAF-containing regimen for treatment of HIV-1, 80 of the 97 subjects enrolled aged 65 years and over received FTC+TAF and EVG+COBI.
-No differences in safety or efficacy have been observed between elderly subjects and adults between 18 and less than 65 years of age.
+In clinical trials of an FTC+TAF-containing regimen for treatment of HIV-1, 80 of the 97 participants enrolled aged 65 years and over received FTC+TAF and EVG+COBI.
+No differences in safety or efficacy have been observed between elderly participants and adults between 18 and less than 65 years of age.
 
 ## 8.6 Renal Impairment
 

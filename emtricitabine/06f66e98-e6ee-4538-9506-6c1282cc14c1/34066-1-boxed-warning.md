@@ -1,8 +1,8 @@
 # WARNING: POST-TREATMENT ACUTE EXACERBATION OF HEPATITIS B and RISK OF DRUG RESISTANCE WITH USE OF DESCOVY FOR HIV-1 PRE-EXPOSURE PROPHYLAXIS (PrEP) IN UNDIAGNOSED EARLY HIV-1 INFECTION
 
-Severe acute exacerbations of hepatitis B (HBV) have been reported in HBV-infected individuals who have discontinued products containing emtricitabine (FTC) and/or tenofovir disoproxil fumarate (TDF) and may occur with discontinuation of DESCOVY.
+Severe acute exacerbations of hepatitis B (HBV) have been reported in individuals with HBV who have discontinued products containing emtricitabine (FTC) and/or tenofovir disoproxil fumarate (TDF) and may occur with discontinuation of DESCOVY.
 
-Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in individuals who are infected with HBV and discontinue DESCOVY.
+Hepatic function should be monitored closely with both clinical and laboratory follow-up for at least several months in individuals with HBV who discontinue DESCOVY.
 If appropriate, anti-hepatitis B therapy may be warranted [see Warnings and Precautions (5.1)].
 
 DESCOVY used for HIV-1 PrEP must only be prescribed to individuals confirmed to be HIV-negative immediately prior to initiating and at least every 3 months during use.

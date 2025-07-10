@@ -29,26 +29,24 @@ For specific dosing recommendations for coadministered antiretroviral drugs, ref
 
 ## 2.4 Recommended Dosage for Treatment of HIV-1 Infection in Pediatric Patients Weighing at Least 14 kg to Less than 35 kg
 
-The recommended dosage of DESCOVY in pediatric patients weighing at least 14 kg to 35 kg is based on body weight and provided in Table 1.
-This dosing information is applicable to pediatric patients with estimated creatinine clearance greater than or equal to 30 mL per minute [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)] who are not receiving an HIV protease inhibitor that is administered with either ritonavir or cobicistat.
+The recommended dosage of DESCOVY for treatment of HIV-1 in pediatric patients is based on body weight and is provided in Table 1.
+This dosing information is applicable to pediatric patients with estimated creatinine clearance greater than or equal to 30 mL per minute [see Use in Specific Populations (8.6) and Clinical Pharmacology (12.3)] who are receiving DESCOVY with other antiretroviral agents, including darunavir (DRV) and cobicistat (COBI) but not including other HIV-1 protease inhibitors that are administered with either ritonavir or cobicistat.
 
 Table 1 Dosing for Treatment of HIV-1 Infection in Pediatric Patients Weighing 14 to Less than 35 kg
 
-| Body Weight (kg) | DESCOVY Dose |
+| Body Weight (kg) | DESCOVY Dosage |
 | --- | --- |
-| 25 kg to less than 35 kg | One tablet containing 200 mg FTC and 25 mg of TAF taken orally once daily |
-| 14 kg to less than 25 kg | One tablet containing 120 mg FTC and 15 mg TAF taken orally once daily |
-
-The safety and effectiveness of DESCOVY coadministered with an HIV-1 protease inhibitor that is administered with either ritonavir or cobicistat have not been established in pediatric subjects weighing less than 35 kg.
+| 25 kg to less than 35 kg | One tablet containing 200 mg of FTC and 25 mg of TAF taken orally once daily |
+| 14 kg to less than 25 kg | One tablet containing 120 mg of FTC and 15 mg of TAF taken orally once daily |
 
 For specific dosing recommendations for coadministered antiretroviral drugs, refer to their respective prescribing information [see Drug Interactions (7)].
 
 ## 2.5 Recommended Dosage for HIV-1 PrEP in Adults and Adolescents Weighing at Least 35 kg
 
-The dosage of DESCOVY for HIV-1 PrEP is one tablet (containing 200 mg of FTC and 25 mg of TAF) once daily taken orally with or without food in HIV-1 uninfected:
+The dosage of DESCOVY for HIV-1 PrEP is one tablet (containing 200 mg of FTC and 25 mg of TAF) once daily taken orally with or without food in:
 
-- adults and adolescents weighing at least 35 kg and with a creatinine clearance greater than or equal to 30 mL per minute; or
-- adults with creatinine clearance below 15 mL per minute who are receiving chronic hemodialysis.
+- adults and adolescents without HIV-1 weighing at least 35 kg and with a creatinine clearance greater than or equal to 30 mL per minute; or
+- adults without HIV-1 and with creatinine clearance below 15 mL per minute who are receiving chronic hemodialysis.
   On days of hemodialysis, administer the daily dose of DESCOVY after completion of hemodialysis treatment [see Indications and Usage (1.2) and Clinical Pharmacology (12.3)].
 
 ## 2.6 Not Recommended in Individuals with Severe Renal Impairment for Treatment of HIV-1 Infection or for HIV-1 PrEP

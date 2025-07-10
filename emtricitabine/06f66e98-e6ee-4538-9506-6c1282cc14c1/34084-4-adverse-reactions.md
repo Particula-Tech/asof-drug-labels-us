@@ -11,74 +11,74 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug (or a drug given in various combinations with other concomitant therapy) cannot be directly compared to rates in the clinical trials of another drug (or drug given in the same or different combination therapy) and may not reflect the rates observed in practice.
 
-Adverse Reactions in Clinical Trials of FTC+TAF with Elvitegravir (EVG) plus Cobicistat (COBI) in Treatment-Naïve Adults with HIV-1 Infection
+Adverse Reactions in Clinical Trials of FTC+TAF with Elvitegravir (EVG) plus Cobicistat (COBI) in Treatment-Naïve Adults with HIV-1
 
-In pooled 48-week trials of antiretroviral treatment-naïve HIV-1 infected adult subjects, the most common adverse reaction in subjects treated with FTC+TAF with EVG+COBI (N=866) (incidence greater than or equal to 10%, all grades) was nausea (10%).
-In this treatment group, 0.9% of subjects discontinued FTC+TAF with EVG+COBI due to adverse events during the 48-week treatment period [see Clinical Studies (14.2)].
-The safety profile was similar in virologically-suppressed adults with HIV-1 infection who were switched to FTC+TAF with EVG+COBI (N=799).
-Antiretroviral treatment-naïve adult subjects treated with FTC+TAF with EVG+COBI experienced mean increases of 30 mg/dL of total cholesterol, 15 mg/dL of LDL cholesterol, 7 mg/dL of HDL cholesterol, and 29 mg/dL of triglycerides after 48 weeks of use.
+In pooled 48-week trials of antiretroviral treatment-naïve adult participants with HIV-1, the most common adverse reaction in participants treated with FTC+TAF with EVG+COBI (N=866) (incidence greater than or equal to 10%, all grades) was nausea (10%).
+In this treatment group, 0.9% of participants discontinued FTC+TAF with EVG+COBI due to adverse events during the 48-week treatment period [see Clinical Studies (14.2)].
+The safety profile was similar in virologically-suppressed adults with HIV-1 who were switched to FTC+TAF with EVG+COBI (N=799).
+Antiretroviral treatment-naïve adult participants with HIV-1 treated with FTC+TAF with EVG+COBI experienced mean increases of 30 mg/dL of total cholesterol, 15 mg/dL of LDL cholesterol, 7 mg/dL of HDL cholesterol, and 29 mg/dL of triglycerides after 48 weeks of use.
 
 Renal Laboratory Tests
 
-In two 48-week trials in antiretroviral treatment-naïve HIV-1 infected adults treated with FTC+TAF with EVG+COBI (N=866) with a median baseline eGFR of 115 mL per minute, mean serum creatinine increased by 0.1 mg per dL from baseline to Week 48.
+In two 48-week trials in antiretroviral treatment-naïve adults with HIV-1 treated with FTC+TAF with EVG+COBI (N=866) with a median baseline eGFR of 115 mL per minute, mean serum creatinine increased by 0.1 mg per dL from baseline to Week 48.
 Median urine protein-to-creatinine ratio (UPCR) was 44 mg per gram at baseline and at Week 48.
-In a 48-week trial in virologically-suppressed TDF-treated adults who switched to FTC+TAF with EVG+COBI (N=959) with a mean baseline eGFR of 112 mL per minute, mean serum creatinine was similar to baseline at Week 48; median UPCR was 61 mg per gram at baseline and 46 mg per gram at Week 48.
+In a 48-week trial in virologically-suppressed TDF-treated adults with HIV-1 who switched to FTC+TAF with EVG+COBI (N=959) with a mean baseline eGFR of 112 mL per minute, mean serum creatinine was similar to baseline at Week 48; median UPCR was 61 mg per gram at baseline and 46 mg per gram at Week 48.
 Across these trials, renal serious adverse events or discontinuations due to renal adverse reactions were encountered in less than 1% of participants treated with FTC+TAF with EVG+COBI.
 
-In a 24-week trial in adults with renal impairment (baseline eGFR 30 to 69 mL per minute) who received FTC+TAF with EVG+COBI (N=248), mean serum creatinine was 1.5 mg per dL at both baseline and Week 24.
+In a 24-week trial in adults with HIV-1 and renal impairment (baseline eGFR 30 to 69 mL per minute) who received FTC+TAF with EVG+COBI (N=248), mean serum creatinine was 1.5 mg per dL at both baseline and Week 24.
 Median UPCR was 161 mg per gram at baseline and 93 mg per gram at Week 24.
-FTC+TAF with EVG+COBI was permanently discontinued due to worsening renal function in two of 80 (3%) subjects.
+FTC+TAF with EVG+COBI was permanently discontinued due to worsening renal function in two of 80 (3%) participants.
 
 Bone Mineral Density Effects
 
-In the pooled analysis of two 48-week trials of antiretroviral treatment-naïve HIV-1 infected adult subjects, bone mineral density (BMD) from baseline to Week 48 was assessed by dual-energy X-ray absorptiometry (DXA).
+In the pooled analysis of two 48-week trials of antiretroviral treatment-naïve adult participants with HIV-1, bone mineral density (BMD) from baseline to Week 48 was assessed by dual-energy X-ray absorptiometry (DXA).
 Mean BMD decreased from baseline to Week 48 −1.30% with FTC+TAF with EVG+COBI at the lumbar spine and −0.66% at the total hip.
-BMD declines of 5% or greater at the lumbar spine were experienced by 10% of FTC+TAF with EVG+COBI subjects.
-BMD declines of 7% or greater at the femoral neck were experienced by 7% of FTC+TAF with EVG+COBI subjects.
+BMD declines of 5% or greater at the lumbar spine were experienced by 10% of FTC+TAF with EVG+COBI participants.
+BMD declines of 7% or greater at the femoral neck were experienced by 7% of FTC+TAF with EVG+COBI participants.
 The long-term clinical significance of these BMD changes is not known.
 
-In 799 virologically-suppressed TDF-treated adult subjects that switched to FTC+TAF with EVG+COBI, at Week 48 mean BMD increased (1.86% lumbar spine, 1.95% total hip).
-BMD declines of 5% or greater at the lumbar spine were experienced by 1% of FTC+TAF with EVG+COBI subjects.
-BMD declines of 7% or greater at the femoral neck were experienced by 1% of FTC+TAF with EVG+COBI subjects.
+In 799 virologically-suppressed TDF-treated adult participants with HIV-1 that switched to FTC+TAF with EVG+COBI, at Week 48 mean BMD increased (1.86% lumbar spine, 1.95% total hip).
+BMD declines of 5% or greater at the lumbar spine were experienced by 1% of FTC+TAF with EVG+COBI participants.
+BMD declines of 7% or greater at the femoral neck were experienced by 1% of FTC+TAF with EVG+COBI participants.
 
-Adverse Reactions in a Clinical Trial of FTC+TAF with EVG+COBI in Virologically-Suppressed Adults with End Stage Renal Disease (ESRD) Receiving Chronic Hemodialysis
+Adverse Reactions in a Clinical Trial of FTC+TAF with EVG+COBI in Virologically-Suppressed Adults with HIV-1 and End Stage Renal Disease (ESRD) Receiving Chronic Hemodialysis
 
-In a 48-week trial of virologically-suppressed HIV-1 infected adult subjects with end stage renal disease (ESRD) (estimated creatinine clearance of less than 15 mL/min) on chronic hemodialysis treated with FTC+TAF with EVG+COBI (N=55), the most commonly reported adverse reaction (adverse event assessed as causally related by investigator and all grades) was nausea (7%).
-Serious adverse events were reported in 53% of subjects and the most common serious adverse events were pneumonia (13%), fluid overload (7%), hyperkalemia (7%) and osteomyelitis (7%).
-Overall 5% of subjects permanently discontinued treatment due to an adverse event.
+In a 48-week trial of virologically-suppressed adult participants with HIV-1 and end stage renal disease (ESRD) (estimated creatinine clearance of less than 15 mL/min) on chronic hemodialysis treated with FTC+TAF with EVG+COBI (N=55), the most commonly reported adverse reaction (adverse event assessed as causally related by investigator and all grades) was nausea (7%).
+Serious adverse events were reported in 53% of participants and the most common serious adverse events were pneumonia (13%), fluid overload (7%), hyperkalemia (7%) and osteomyelitis (7%).
+Overall 5% of participants permanently discontinued treatment due to an adverse event.
 
-Adverse Reactions in Clinical Trials in Pediatric Subjects with HIV-1 Infection
+Adverse Reactions in Clinical Trials in Pediatric Participants with HIV-1
 
-Pediatric Subjects Weighing at Least 25 kg:
+Study 106: Adverse Reactions in a Clinical Trial of FTC+TAF with EVG+COBI in Pediatric Participants Weighing at Least 25 kg
 
-The safety profile of FTC+TAF in pediatric subjects weighing at least 25 kg is informed by an open-label trial of antiretroviral treatment-naïve HIV-1 infected pediatric subjects between the ages of 12 to less than 18 years weighing at least 35 kg through 48 weeks (N=50; Cohort 1) and virologically-suppressed subjects between the ages of 6 to less than 12 years weighing at least 25 kg (N=52; Cohort 2).
-Subjects received FTC+TAF with EVG+COBI through 48 weeks.
+The safety profile of FTC+TAF in pediatric participants weighing at least 25 kg is informed by an open-label trial of antiretroviral treatment-naïve pediatric participants with HIV-1 between the ages of 12 to less than 18 years weighing at least 35 kg through 48 weeks (N=50; cohort 1) and virologically-suppressed participants with HIV-1 between the ages of 6 to less than 12 years weighing at least 25 kg (N=52; cohort 2).
+Participants received FTC+TAF with EVG+COBI through 48 weeks.
 With the exception of a decrease in the mean CD4+ cell count observed in cohort 2, the safety of this combination was similar to that in adults.
 
 Bone Mineral Density Effects
 
 Cohort 1: Treatment-naïve adolescents (12 to less than 18 years; at least 35 kg)
 
-Among the subjects in cohort 1 receiving FTC+TAF with EVG+COBI, mean BMD increased from baseline to Week 48, +4.2% at the lumbar spine and +1.3% for the total body less head (TBLH).
+Among the participants in cohort 1 receiving FTC+TAF with EVG+COBI, mean BMD increased from baseline to Week 48, +4.2% at the lumbar spine and +1.3% for the total body less head (TBLH).
 Mean changes from baseline BMD Z-scores were −0.07 for lumbar spine and −0.20 for TBLH at Week 48.
-One subject had significant (at least 4%) lumbar spine BMD loss at Week 48.
+One participant had significant (at least 4%) lumbar spine BMD loss at Week 48.
 
 Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 25 kg)
 
-Among the subjects in cohort 2 receiving FTC+TAF with EVG+COBI, mean BMD increased from baseline to Week 48, +3.9% at the lumbar spine and +4.2% for TBLH.
+Among the participants in cohort 2 receiving FTC+TAF with EVG+COBI, mean BMD increased from baseline to Week 48, +3.9% at the lumbar spine and +4.2% for TBLH.
 Mean changes from baseline BMD Z-scores were -0.24 for lumbar spine and -0.19 for TBLH at Week 48.
-Six subjects had significant (at least 4%) lumbar spine BMD loss at Week 48 and 2 subjects also had at least 4% TBLH BMD loss at Week 48.
+Six participants had significant (at least 4%) lumbar spine BMD loss at Week 48 and 2 participants also had at least 4% TBLH BMD loss at Week 48.
 
 Change from Baseline in CD4+ cell counts
 
 Cohort 2: Virologically-suppressed children (6 to less than 12 years; at least 25 kg)
 
-Cohort 2 evaluated pediatric subjects (N=52) who were virologically-suppressed and who switched from their antiretroviral regimen to FTC+TAF with EVG+COBI.
-Although all subjects had HIV-1 RNA < 50 copies/mL, there was a decrease from baseline in CD4+ cell count at Weeks 24 and 48.
+Cohort 2 evaluated pediatric participants (N=52) who were virologically-suppressed and who switched from their antiretroviral regimen to FTC+TAF with EVG+COBI.
+Although all participants had HIV-1 RNA < 50 copies/mL, there was a decrease from baseline in CD4+ cell count at Weeks 24 and 48.
 The mean baseline and mean change from baseline in CD4+ cell count and in CD4% from Week 2 to Week 48 are presented in Table 2.
-All subjects maintained their CD4+ cell counts above 400 cells/mm3 [see Use in Specific Populations (8.4)].
+All participants maintained their CD4+ cell counts above 400 cells/mm3 [see Use in Specific Populations (8.4)].
 
-Table 2 Mean Change in CD4+ Count and CD4 Percentage from Baseline to Week 48 in Virologically-Suppressed Pediatric Patients from 6 to <12 Years Who Switched to FTC+TAF with EVG+COBI
+Table 2 Mean Change in CD4+ Count and CD4 Percentage from Baseline to Week 48 in Virologically-Suppressed Pediatric Participants from 6 to <12 Years Who Switched to FTC+TAF with EVG+COBI
 
 |  | Baseline | Week 2 | Week 4 | Week 12 | Week 24 | Week 32 | Week 48 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -86,20 +86,35 @@ Table 2 Mean Change in CD4+ Count and CD4 Percentage from Baseline to Week 48 in
 | CD4+ Cell Count (cells/mm3) | 961 (275.5)Mean (SD) | -117 | -114 | -112 | -118 | -62 | -66 |
 | CD4% | 38 (6.4) | +0.3% | -0.1% | -0.8% | -0.8% | -1.0% | -0.6% |
 
-Pediatric Subjects Weighing at Least 14 to Less Than 25 kg:
+Study 1474: Adverse Reactions in a Clinical Trial of FTC+TAF with Bictegravir in Pediatric Participants Weighing at Least 14 to Less Than 25 kg
 
-In a separate open-label trial of virologically-suppressed subjects at least 2 years of age and weighing at least 14 to less than 25 kg (N=22; Cohort 3) who received FTC+TAF with bictegravir through 24 weeks, no new adverse reactions or laboratory abnormalities were identified compared to those observed in adults.
+In a separate open-label trial of virologically-suppressed participants at least 2 years of age and weighing at least 14 to less than 25 kg (N=22; cohort 3) who received FTC+TAF with bictegravir through 24 weeks, no new adverse reactions or laboratory abnormalities were identified compared to those observed in adults.
 In this trial, the mean (SD) change from baseline to Week 24 in CD4+ cell count was −126 (264) cells per mm3 and the mean (SD) change in CD4% from baseline to Week 24 was 0.2% (4.4%).
 
-Adverse Reactions from Clinical Trial Experience in HIV-1 Uninfected Individuals Taking DESCOVY for HIV-1 PrEP
+Study 128: Adverse Reactions in a Clinical Trial of DESCOVY in combination with Darunavir+Cobicistat (DRV+COBI) in Pediatric Participants Weighing at Least 14 kg
 
-The safety profile of DESCOVY for HIV-1 PrEP was comparable to that observed in clinical trials of HIV-infected subjects based on a double-blind, randomized, active-controlled trial (DISCOVER) in which a total of 5,387 HIV-1 uninfected adult men and transgender women who have sex with men received DESCOVY (N=2,694) or TRUVADA (N=2,693) once daily for HIV-1 PrEP [see Clinical Studies (14.3)].
+The safety profile of DESCOVY is also informed by a separate open-label trial of virologically-suppressed pediatric participants between the ages of 6 to less than 12 years and weighing at least 25 to less than 40 kg (N=9; cohort 2), and virologically-suppressed pediatric participants at least 2 years of age and weighing at least 14 to less than 25 kg (N=11; cohort 3) who received DESCOVY in combination with DRV+COBI through Week 48.
+In this study, the safety profile of DESCOVY was similar to that in adults.
+
+Bone Mineral Density Effects
+
+Cohort 2: Pediatric Participants Weighing at Least 25 to Less Than 40 kg
+
+Among the participants in cohort 2 who had both baseline and Week 48 measurements (n=8 and 9 for lumbar spine and TBLH, respectively), mean BMD increased from baseline to Week 48, +6.1% at lumbar spine and +4.4% for TBLH.
+
+Cohort 3: Pediatric Participants Weighing at Least 15 to less Than 25 kg
+
+Among the participants in cohort 3 who had both baseline and Week 48 measurements (n=7 and 10 for lumbar spine and TBLH, respectively), mean BMD increased from baseline to Week 48, +8.7% at lumbar spine and +6.9% for TBLH.
+
+Adverse Reactions from Clinical Trial Experience in Individuals without HIV-1 Taking DESCOVY for HIV-1 PrEP
+
+The safety profile of DESCOVY for HIV-1 PrEP was comparable to that observed in clinical trials of participants with HIV based on a double-blind, randomized, active-controlled trial (DISCOVER) in which a total of 5,387 adult men and transgender women without HIV-1 who have sex with men received DESCOVY (N=2,694) or TRUVADA (N=2,693) once daily for HIV-1 PrEP [see Clinical Studies (14.3)].
 Median duration of exposure was 86 and 87 weeks, respectively.
 The most common adverse reaction in participants who received DESCOVY (incidence greater than or equal to 5%, all grades) was diarrhea (5%).
 Table 3 provides a list of the most common adverse reactions that occurred in 2% or more of participants in either treatment group.
 The proportion of participants who discontinued treatment with DESCOVY or TRUVADA due to adverse events, regardless of severity, was 1.3% and 1.8%, respectively.
 
-Table 3 Adverse Reactions (All Grades) Reported in ≥2% in Either Arm in the DISCOVER Trial of HIV-1 Uninfected Participants
+Table 3 Adverse Reactions (All Grades) Reported in ≥2% in Either Arm in the DISCOVER Trial of Participants without HIV-1
 
 |  | DESCOVY (N=2,694) | TRUVADA (N=2,693) |
 | --- | --- | --- |
@@ -114,7 +129,7 @@ Renal Laboratory Tests
 Changes from baseline to Week 48 in renal laboratory data are presented in Table 4.
 The long-term clinical significance of these renal laboratory changes on adverse reaction frequencies between DESCOVY and TRUVADA is not known.
 
-Table 4 Laboratory Assessments of Renal Function Reported in HIV-1 Uninfected Participants Receiving DESCOVY or TRUVADA in the DISCOVER Trial
+Table 4 Laboratory Assessments of Renal Function Reported in Participants without HIV-1 Receiving DESCOVY or TRUVADA in the DISCOVER Trial
 
 |  | DESCOVY (N=2,694) | TRUVADA (N=2,693) |
 | --- | --- | --- |
@@ -136,9 +151,9 @@ Serum Lipids
 
 Changes from baseline to Week 48 in total cholesterol, HDL-cholesterol, LDL-cholesterol, triglycerides, and total cholesterol to HDL ratio are presented in Table 5.
 
-Table 5 Fasting Lipid Values, Mean Change from Baseline, Reported in HIV-1 Uninfected Participants Receiving DESCOVY or TRUVADA in the DISCOVER TrialExcludes subjects who received lipid lowering agents during the treatment period.
+Table 5 Fasting Lipid Values, Mean Change from Baseline, Reported in Participants without HIV-1 Receiving DESCOVY or TRUVADA in the DISCOVER TrialExcludes participants who received lipid lowering agents during the treatment period.
 
-|  | mg/dL | ChangeThe baseline and change from baseline are for subjects with both baseline and Week 48 values. | mg/dL | Change |
+|  | mg/dL | ChangeThe baseline and change from baseline are for participants with both baseline and Week 48 values. | mg/dL | Change |
 | --- | --- | --- | --- | --- |
 |  | DESCOVY (N=2,694) |  | TRUVADA (N=2,693) |  |
 |  | Baseline | Week 48 | Baseline | Week 48 |
@@ -153,10 +168,6 @@ Table 5 Fasting Lipid Values, Mean Change from Baseline, Reported in HIV-1 Uninf
 The following adverse reactions have been identified during post-approval use of products containing TAF.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Skin and Subcutaneous Tissue Disorders
+Skin and Subcutaneous Tissue Disorders Angioedema, urticaria, and rash
 
-Angioedema, urticaria, and rash
-
-Renal and Urinary Disorders
-
-Acute renal failure, acute tubular necrosis, proximal renal tubulopathy, and Fanconi syndrome
+Renal and Urinary Disorders Acute renal failure, acute tubular necrosis, proximal renal tubulopathy, and Fanconi syndrome
