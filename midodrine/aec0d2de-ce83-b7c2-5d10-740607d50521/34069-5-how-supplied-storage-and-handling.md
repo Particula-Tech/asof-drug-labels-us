@@ -22,6 +22,11 @@ APOTEX INC. MIDODRINE HYDROCHLORIDE TABLETS, USP 2.5 mg, 5 mg and 10 mg
 
 | Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida 33326 |
 | --- | --- |
+| Manufactured by |  |
+| Piramal Pharma Limited, |  |
+| Plot No: 67-70 Sector-2 Pithampur 454775 |  |
+| Dist. Dhar, Madhya Pradesh, INDIA |  |
+| Mfg Lic. No.: 25/10/92 |  |
 
 Revised: February 2017
 
