@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA219417"
+  ],
+  "inn": "deflazacort",
+  "labeler": "Aucta Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "73289-0089-1"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "deflazacort",
+      "name": "PYQUVI"
+    }
+  ],
+  "setid": "39854f19-d8be-6438-e063-6394a90a9422",
+  "source": "dailymed"
+}
