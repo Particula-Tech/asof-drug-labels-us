@@ -9,10 +9,10 @@ Long-term studies in animals to evaluate the carcinogenic potential of morphine 
 Mutagenesis
 
 No formal studies to assess the mutagenic potential of morphine have been conducted.
-In the published literature, morphine was found to be mutagenic in vitro increasing DNA fragmentation in human T-cells.
-Morphine was reported to be mutagenic in the in vivo mouse micronucleus assay and positive for the induction of chromosomal aberrations in mouse spermatids and murine lymphocytes.
-Mechanistic studies suggest that the in vivo clastogenic effects reported with morphine in mice may be related to increases in glucocorticoid levels produced by morphine in this species.
-In contrast to the above positive findings, in vitro studies in the literature have also shown that morphine did not induce chromosomal aberrations in human leukocytes or translocations or lethal mutations in Drosophila.
+In the published literature, morphine was found to be mutagenic in vitroincreasing DNA fragmentation in human T-cells.
+Morphine was reported to be mutagenic in the in vivomouse micronucleus assay and positive for the induction of chromosomal aberrations in mouse spermatids and murine lymphocytes.
+Mechanistic studies suggest that the in vivoclastogenic effects reported with morphine in mice may be related to increases in glucocorticoid levels produced by morphine in this species.
+In contrast to the above positive findings, in vitrostudies in the literature have also shown that morphine did not induce chromosomal aberrations in human leukocytes or translocations or lethal mutations in Drosophila.
 
 Impairment of Fertility
 

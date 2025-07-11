@@ -2,33 +2,33 @@
 
 Addiction, Abuse, and Misuse
 
-Because the use of morphine sulfate extended-release capsules exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient's risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
+Because the use of morphine sulfate extended-release capsules exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient's risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions[see Warnings and Precautions (5.1)].
 
 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of morphine sulfate extended-release capsules, especially during initiation or following a dosage increase.
 Instruct patients to swallow morphine sulfate extended-release capsules whole or to sprinkle the contents of the capsule on applesauce and swallow immediately without chewing.
 Crushing, chewing, or dissolving the pellets in morphine sulfate extended-release capsules can cause rapid release and absorption of a potentially fatal dose of morphine.
-To reduce the risk of respiratory depression, proper dosing and titration of morphine sulfate extended-release capsules are essential [see Warnings and Precautions (5.2)].
+To reduce the risk of respiratory depression, proper dosing and titration of morphine sulfate extended-release capsules are essential[see Warnings and Precautions (5.2)].
 
 Accidental Ingestion
 
-Accidental ingestion of even one dose of morphine sulfate extended-release capsules, especially by children, can result in a fatal overdose of morphine [see Warnings and Precautions (5.2)].
+Accidental ingestion of even one dose of morphine sulfate extended-release capsules, especially by children, can result in a fatal overdose of morphine[see Warnings and Precautions (5.2)].
 
 Interaction with Alcohol
 
 Instruct patients not to consume alcoholic beverages or use prescription or non-prescription products that contain alcohol while taking morphine sulfate extended-release capsules.
-The co-ingestion of alcohol with morphine sulfate extended-release capsules may result in increased plasma levels and a potentially fatal overdose of morphine [see Warnings and Precautions (5.3)].
+The co-ingestion of alcohol with morphine sulfate extended-release capsules may result in increased plasma levels and a potentially fatal overdose of morphine[see Warnings and Precautions (5.3)].
 
 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
-Reserve concomitant prescribing of morphine sulfate extended-release capsules and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see Warnings and Precautions (5.3), Drug Interactions (7)].
+Reserve concomitant prescribing of morphine sulfate extended-release capsules and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate[see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
 If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
-Ensure that management by neonatology experts will be available at delivery [see Warnings and Precautions (5.4)].
+Ensure that management by neonatology experts will be available at delivery[see Warnings and Precautions (5.4)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 

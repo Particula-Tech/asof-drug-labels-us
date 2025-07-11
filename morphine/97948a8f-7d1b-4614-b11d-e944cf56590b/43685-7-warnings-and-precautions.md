@@ -27,7 +27,7 @@ Contact local state professional licensing board or state-controlled substances 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
-Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
+Carbon dioxide (CO 2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of morphine sulfate, the risk is greatest during the initiation of therapy or following a dosage increase.
 
 To reduce the risk of respiratory depression, proper dosing and titration of morphine sulfate extended-release capsules are essential [see Dosage and Administration (2)].
@@ -86,9 +86,9 @@ To ensure that the benefits of opioid analgesics outweigh the risks of addiction
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to do all of the following:
 
-- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Healthcare Providers Involved in the Management or Support of Patients with Pain.
+- Complete a REMS-compliant education programoffered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Healthcare Providers Involved in the Management or Support of Patients with Pain.
 - Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
-  The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
+  The Patient Counseling Guide (PCG)can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG.
 - Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
 - Consider using other tools to improve patient, household, and community safety, such as patient-prescriber agreements that reinforce patient-prescriber responsibilities.
 
@@ -143,7 +143,7 @@ Avoid the use of morphine sulfate extended-release capsules in patients with cir
 
 ## 5.11 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-In patients who may be susceptible to the intracranial effects of CO2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), morphine sulfate extended-release capsules may reduce respiratory drive, and the resultant CO2 retention can further increase intracranial pressure.
+In patients who may be susceptible to the intracranial effects of CO 2retention (e.g., those with evidence of increased intracranial pressure or brain tumors), morphine sulfate extended-release capsules may reduce respiratory drive, and the resultant CO 2retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with morphine sulfate extended-release capsules.
 
 Opioids may also obscure the clinical course in a patient with a head injury.

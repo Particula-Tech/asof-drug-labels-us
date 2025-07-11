@@ -121,5 +121,4 @@ It is not known whether these effects on fertility are reversible [see Adverse R
 
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store morphine sulfate extended-release capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
-Inform patients that leaving morphine sulfate extended-release capsules unsecured can pose a deadly risk to others in the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store morphine sulfate extended-release capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.Inform patients that leaving morphine sulfate extended-release capsules unsecured can pose a deadly risk to others in the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
