@@ -74,12 +74,12 @@ Acyclovir pharmacokinetic parameter estimates following a 20‑mg/kg dose are pr
 Table 4.
 Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First-Dose Administration of 20 mg/kg Valacyclovir Oral Suspension to Pediatric Subjects vs. 1-Gram Single Dose of VALTREX to Adults
 
-| Parameter | Pediatric Subjects(20 mg/kg Oral Suspension) |  |  | Adults1‑gram Solid Dose of VALTREXa(n = 15) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 -<2 year(n = 6) | 2 -<6 year(n = 12) | 6 -<12 year(n = 8) |  |  |  |  |  |  |  |
-| AUC (mcg•h/mL) | 14.4 (±6.26) | 10.1 (±3.35) | 13.1 (±3.43) | 17.2 (±3.10) |  |  |  |  |  |
-| Cmax (mcg/mL) | 4.03 (±1.37) | 3.75 (±1.14) | 4.71 (±1.20) | 4.72 (±1.37) |  |  |  |  |  |
-| a Historical estimates using pediatric pharmacokinetic sampling schedule. |  |  |  |  |  |  |  |  |  |
+| Parameter | Pediatric Subjects(20 mg/kg Oral Suspension) |  |  | Adults1‑gram Solid Dose of VALTREXa(n = 15) |
+| --- | --- | --- | --- | --- |
+| 1 -<2 year(n = 6) | 2 -<6 year(n = 12) | 6 -<12 year(n = 8) |  |  |
+| AUC (mcg•h/mL) | 14.4 (±6.26) | 10.1 (±3.35) | 13.1 (±3.43) | 17.2 (±3.10) |
+| Cmax (mcg/mL) | 4.03 (±1.37) | 3.75 (±1.14) | 4.71 (±1.20) | 4.72 (±1.37) |
+| a Historical estimates using pediatric pharmacokinetic sampling schedule. |  |  |  |  |
 
 Drug Interaction Studies
 
@@ -145,13 +145,13 @@ The possibility of viral resistance to acyclovir should be considered in patient
 Table 6.
 Summary of Acyclovir Resistance-Associated Amino Acid Substitutions Observed in Treated Patients
 
-| Virus | Gene | Substitution |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| HSV-1 | TK | G6C, R32H, R41H, R51W, Y53C/D/H, Y53stop, D55N, G56D/E/S, P57H, G58N/R, G59R, G61A/E/W, K62N, T63I, Q67stop, S74stop, Y80N, E83K, P84L, Y87H, E95stop, T103P, Q104H, Q104stop, H105P, M121K/L/R, Q125N, M128L, G129D, I143V, A156V, D162A/H/N, R163G/H, L170P, Y172C, P173L/R, A174P, A175V, R176Q/W, R176stop, L178R, S181N, A186P, V187M, A189V, V192A, G200C/D/S, T201P, T202A, V204G, A207P, L208F/H, R216C/H, R220C/H, R221C/H, R222C/H, E226K, D229H, L242P, T245M/P, L249P, Q250stop, C251G, E257K, Q261R, A265T, R281stop, T287M, L288stop, L291R, L297S, L315S, L327R, C336Y, C336stop, Q342stop, T354P, L364P, A365T |  |  |  |
-| HSV-2 | TK | G25A, R34C, G39E, R51W, Y53N/D, G59P, G61A/E/W, S66P, A72S, D78N, P85S, R86P, A94V, L98stop, N100H, I101S, Q103stop, Q105P, A125T, T131P, Y133F, D137stop, F140L, L158P, S169P, R177W, S182N, M183Istop, V192M, G201D, R217H, R221C/H, Q222stop, R223H, D229stop, Y239stop, D231N, L263stop, R271V, P272S, D273R, T287M, C337Y |  |  |  |
-| HSV-1 | POL | K532T, S559L, Q570R, L583V, A605V, V621S, A657T, D672N, V715G, A719T/V, S724N, F733C, E771Q, S775N, L778M, E798K, V813M, N815S, G841S, R842S, I890M, V958L, H1228D |  |  |  |
-| HSV-2 | POL | E250Q, D307N, K533E, A606V, C625R, R628C, E678G, A724V, S725G, S729N, I731F, Q732R, D785N, M789K/T, V818A, N820S, Y823C, Q829R, T843A, M910T, D912N/V, A915V, F923L, T934A, R964H |  |  |  |
-| Note: Many additional pathways to acyclovir resistance likely exist. |  |  |  |  |  |
+| Virus | Gene | Substitution |
+| --- | --- | --- |
+| HSV-1 | TK | G6C, R32H, R41H, R51W, Y53C/D/H, Y53stop, D55N, G56D/E/S, P57H, G58N/R, G59R, G61A/E/W, K62N, T63I, Q67stop, S74stop, Y80N, E83K, P84L, Y87H, E95stop, T103P, Q104H, Q104stop, H105P, M121K/L/R, Q125N, M128L, G129D, I143V, A156V, D162A/H/N, R163G/H, L170P, Y172C, P173L/R, A174P, A175V, R176Q/W, R176stop, L178R, S181N, A186P, V187M, A189V, V192A, G200C/D/S, T201P, T202A, V204G, A207P, L208F/H, R216C/H, R220C/H, R221C/H, R222C/H, E226K, D229H, L242P, T245M/P, L249P, Q250stop, C251G, E257K, Q261R, A265T, R281stop, T287M, L288stop, L291R, L297S, L315S, L327R, C336Y, C336stop, Q342stop, T354P, L364P, A365T |
+| HSV-2 | TK | G25A, R34C, G39E, R51W, Y53N/D, G59P, G61A/E/W, S66P, A72S, D78N, P85S, R86P, A94V, L98stop, N100H, I101S, Q103stop, Q105P, A125T, T131P, Y133F, D137stop, F140L, L158P, S169P, R177W, S182N, M183Istop, V192M, G201D, R217H, R221C/H, Q222stop, R223H, D229stop, Y239stop, D231N, L263stop, R271V, P272S, D273R, T287M, C337Y |
+| HSV-1 | POL | K532T, S559L, Q570R, L583V, A605V, V621S, A657T, D672N, V715G, A719T/V, S724N, F733C, E771Q, S775N, L778M, E798K, V813M, N815S, G841S, R842S, I890M, V958L, H1228D |
+| HSV-2 | POL | E250Q, D307N, K533E, A606V, C625R, R628C, E678G, A724V, S725G, S729N, I731F, Q732R, D785N, M789K/T, V818A, N820S, Y823C, Q829R, T843A, M910T, D912N/V, A915V, F923L, T934A, R964H |
+| Note: Many additional pathways to acyclovir resistance likely exist. |  |  |
 
 Cross-Resistance
 

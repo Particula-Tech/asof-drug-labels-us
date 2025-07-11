@@ -62,12 +62,12 @@ Outcomes for the overall trial population are shown in Table 9.
 Table 9.
 Recurrence Rates in HIV-1–Infected Adults at 6 Months
 
-| Outcome | VALTREX500 mg Twice Daily(n = 194) | Placebo(n = 99) |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Recurrence free | 65% | 26% |  |  |  |  |  |  |  |
-| Recurrences | 17% | 57% |  |  |  |  |  |  |  |
-| Unknowna | 18% | 17% |  |  |  |  |  |  |  |
-| a Includes lost to follow-up, discontinuations due to adverse events, and consent withdrawn. |  |  |  |  |  |  |  |  |  |
+| Outcome | VALTREX500 mg Twice Daily(n = 194) | Placebo(n = 99) |
+| --- | --- | --- |
+| Recurrence free | 65% | 26% |
+| Recurrences | 17% | 57% |
+| Unknowna | 18% | 17% |
+| a Includes lost to follow-up, discontinuations due to adverse events, and consent withdrawn. |  |  |
 
 Reduction of Transmission of Genital Herpes
 
@@ -83,12 +83,12 @@ The efficacy results are summarized in Table 10.
 Table 10.
 Percentage of Susceptible Partners Who Acquired HSV-2 Defined by the Primary and Selected Secondary Endpoints
 
-| Endpoint | VALTREXa(n = 743) | Placebo(n = 741) |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Symptomatic HSV‑2 acquisition | 4 (0.5%) | 16 (2.2%) |  |  |  |  |  |  |  |  |  |  |
-| HSV‑2 seroconversion | 12 (1.6%) | 24 (3.2%) |  |  |  |  |  |  |  |  |  |  |
-| Overall HSV‑2 acquisition | 14 (1.9%) | 27 (3.6%) |  |  |  |  |  |  |  |  |  |  |
-| a Results show reductions in risk of 75% (symptomatic HSV‑2 acquisition), 50% (HSV‑2 seroconversion), and 48% (overall HSV‑2 acquisition) with VALTREX versus placebo. Individual results may vary based on consistency of safer sex practices. |  |  |  |  |  |  |  |  |  |  |  |  |
+| Endpoint | VALTREXa(n = 743) | Placebo(n = 741) |
+| --- | --- | --- |
+| Symptomatic HSV‑2 acquisition | 4 (0.5%) | 16 (2.2%) |
+| HSV‑2 seroconversion | 12 (1.6%) | 24 (3.2%) |
+| Overall HSV‑2 acquisition | 14 (1.9%) | 27 (3.6%) |
+| a Results show reductions in risk of 75% (symptomatic HSV‑2 acquisition), 50% (HSV‑2 seroconversion), and 48% (overall HSV‑2 acquisition) with VALTREX versus placebo. Individual results may vary based on consistency of safer sex practices. |  |  |
 
 ## 14.3 Herpes Zoster
 
