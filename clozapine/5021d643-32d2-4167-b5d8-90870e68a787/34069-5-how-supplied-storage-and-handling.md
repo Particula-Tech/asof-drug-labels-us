@@ -20,5 +20,6 @@ Bottles of 100 NDC 65862-847-01 Bottles of 500 NDC 65862-847-05 10 x 10 Unit-dos
 
 ## 16.2 Storage and Handling
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
+Store clozapine tablets, USP at room temperature between 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (59° to 86°F) [See USP Controlled Room Temperature].
+
 Keep out of reach of children.
