@@ -3,7 +3,7 @@
 Memantine hydrochloride, USP is an orally active NMDA receptor antagonist.
 The chemical name for memantine hydrochloride, USP is 1-amino-3,5-dimethyladamantane hydrochloride with the following structural formula:
 
-The molecular formula is C12H21N∙HCl and the molecular weight is 215.76.
+The molecular formula is C 12H 21N∙HCl and the molecular weight is 215.76.
 Memantine hydrochloride, USP occurs as a fine white to off-white powder and is soluble in water.
 
 Memantine hydrochloride tablets, USP are available for oral administration as capsule-shaped, film-coated tablets containing 5 mg and 10 mg of memantine hydrochloride.

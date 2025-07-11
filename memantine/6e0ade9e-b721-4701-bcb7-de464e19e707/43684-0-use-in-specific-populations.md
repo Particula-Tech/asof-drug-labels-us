@@ -17,17 +17,17 @@ Data
 Animal Data
 
 Oral administration of memantine (0, 2, 6, or 18 mg/kg/day) to rats during the period of organogenesis resulted in decreased skeletal ossification in fetuses at the highest dose tested.
-The higher no-effect dose for adverse developmental effects (6 mg/kg) is 3 times the maximum recommended human daily dose (MRHD) of memantine (20 mg) on a body surface area (mg/m2) basis.
+The higher no-effect dose for adverse developmental effects (6 mg/kg) is 3 times the maximum recommended human daily dose (MRHD) of memantine (20 mg) on a body surface area (mg/m 2) basis.
 
 Oral administration of memantine to rabbits (0, 3, 10, or 30 mg/kg/day) during the period of organogenesis resulted in no adverse developmental effects.
-The highest dose tested is approximately 30 times the MRHD of memantine on a mg/m2 basis.
+The highest dose tested is approximately 30 times the MRHD of memantine on a mg/m 2basis.
 
 In rats, memantine (0, 2, 6, or 18 mg/kg/day) was administered orally prior to and throughout mating and, in females, through the period of organogenesis or continuing throughout lactation to weaning.
 Decreased skeletal ossification in fetuses and decreased body weight in pups were observed at the highest dose tested.
-The higher no-effect dose for adverse developmental effects (6 mg/kg/day) is 3 times the MRHD of memantine on a mg/m2 basis.
+The higher no-effect dose for adverse developmental effects (6 mg/kg/day) is 3 times the MRHD of memantine on a mg/m 2basis.
 
 Oral administration of memantine (0, 2, 6, or 18 mg/kg/day) to rats from late gestation throughout lactation to weaning, resulted in decreased pup weights at the highest dose tested.
-The higher no-effect dose (6 mg/kg/day) is approximately 3 times the MRHD of memantine on a mg/m2 basis.
+The higher no-effect dose (6 mg/kg/day) is approximately 3 times the MRHD of memantine on a mg/m 2basis.
 
 ## 8.2 Lactation
 
@@ -61,7 +61,7 @@ Table 2: Study A Commonly Reported Adverse Reactions with a Frequency ≥ 5% and
 | Influenza | 7.1% | 3.4% |
 | Rhinorrhea | 5.4% | 0% |
 | Agitation | 5.4% | 1.7% |
-| Discontinuations due to adverse reactionsReported adverse reactions leading to discontinuation in more than one patient in either treatment group. |  |  |
+| Discontinuations due to adverse reactions Reported adverse reactions leading to discontinuation in more than one patient in either treatment group. |  |  |
 | Aggression | 3.6% | 1.7% |
 | Irritability | 1.8% | 3.4% |
 
@@ -75,7 +75,7 @@ Table 3: 12 to 48 Week Open Label Lead-In study to Study B Commonly Reported Adv
 | Nasopharyngitis | 6.3% |
 | Pyrexia | 5.8% |
 | Irritability | 5.4% |
-| Discontinuations due to adverse reactionsAt least 1% incidence of adverse reactions leading to premature discontinuation. |  |
+| Discontinuations due to adverse reactions At least 1% incidence of adverse reactions leading to premature discontinuation. |  |
 | Irritability | 1.2% |
 | Aggression | 1.0% |
 
@@ -106,9 +106,9 @@ There were no clinically meaningful differences in most adverse events reported 
 ## 8.6 Renal Impairment
 
 No dosage adjustment is needed in patients with mild or moderate renal impairment.
-A dosage reduction is recommended in patients with severe renal impairment [see Dosage and Administration (2) and Clinical Pharmacology (12.3)].
+A dosage reduction is recommended in patients with severe renal impairment [see Dosage and Administration (2)and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
 No dosage adjustment is needed in patients with mild or moderate hepatic impairment.
-Memantine hydrochloride tablets should be administered with caution to patients with severe hepatic impairment [see Dosage and Administration (2) and Clinical Pharmacology (12.3)].
+Memantine hydrochloride tablets should be administered with caution to patients with severe hepatic impairment [see Dosage and Administration (2)and Clinical Pharmacology (12.3)].

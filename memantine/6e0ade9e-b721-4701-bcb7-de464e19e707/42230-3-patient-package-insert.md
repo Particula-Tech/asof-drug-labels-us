@@ -15,7 +15,7 @@ It is not known if memantine hydrochloride tablets are safe and effective in chi
 
 Who should not take memantine hydrochloride tablets?
 
-Do not take memantine hydrochloride tablets if you are allergic to memantine or any of the ingredients in memantine hydrochloride tablets.
+Do not take memantine hydrochloride tablets if youare allergic to memantine or any of the ingredients in memantine hydrochloride tablets.
 See the end of this leaflet for a complete list of ingredients in memantine hydrochloride tablets.
 
 What should I tell my doctor before taking memantine hydrochloride tablets?

@@ -8,10 +8,10 @@ There is no evidence that memantine prevents or slows neurodegeneration in patie
 
 ## 12.2 Pharmacodynamics
 
-Memantine showed low to negligible affinity for GABA, benzodiazepine, dopamine, adrenergic, histamine and glycine receptors and for voltage dependent Ca2+, Na+ or K+ channels.
-Memantine also showed antagonistic effects at the 5HT3 receptor with a potency similar to that for the NMDA receptor and blocked nicotinic acetylcholine receptors with one-sixth to one-tenth the potency.
+Memantine showed low to negligible affinity for GABA, benzodiazepine, dopamine, adrenergic, histamine and glycine receptors and for voltage dependent Ca 2+, Na +or K +channels.
+Memantine also showed antagonistic effects at the 5HT 3receptor with a potency similar to that for the NMDA receptor and blocked nicotinic acetylcholine receptors with one-sixth to one-tenth the potency.
 
-In vitro studies have shown that memantine does not affect the reversible inhibition of acetylcholinesterase by donepezil, galantamine, or tacrine.
+In vitrostudies have shown that memantine does not affect the reversible inhibition of acetylcholinesterase by donepezil, galantamine, or tacrine.
 
 ## 12.3 Pharmacokinetics
 
@@ -51,7 +51,7 @@ The pharmacokinetics of memantine hydrochloride tablets in young and elderly sub
 Renal Impairment
 
 Memantine pharmacokinetics were evaluated following single oral administration of 20 mg memantine hydrochloride in 8 subjects with mild renal impairment (creatinine clearance, CLcr, >50 to 80 mL/min), 8 subjects with moderate renal impairment (CLcr 30 to 49 mL/min), 7 subjects with severe renal impairment (CLcr 5 to 29 mL/min) and 8 healthy subjects (CLcr > 80 mL/min) matched as closely as possible by age, weight and gender to the subjects with renal impairment.
-Mean AUC0-∞ increased by 4%, 60%, and 115% in subjects with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects.
+Mean AUC 0-∞increased by 4%, 60%, and 115% in subjects with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects.
 The terminal elimination half-life increased by 18%, 41%, and 95% in subjects with mild, moderate, and severe renal impairment, respectively, compared to healthy subjects.
 
 No dosage adjustment is recommended for patients with mild and moderate renal impairment.
@@ -60,7 +60,7 @@ Dosage should be reduced in patients with severe renal impairment [see Dosage an
 Hepatic Impairment
 
 Memantine pharmacokinetics were evaluated following the administration of single oral doses of 20 mg in 8 subjects with moderate hepatic impairment (Child-Pugh Class B, score 7 to 9) and 8 subjects who were age-, gender-, and weight-matched to the hepatically-impaired subjects.
-There was no change in memantine exposure (based on Cmax and AUC) in subjects with moderate hepatic impairment as compared with healthy subjects.
+There was no change in memantine exposure (based on C maxand AUC) in subjects with moderate hepatic impairment as compared with healthy subjects.
 However, terminal elimination half-life increased by about 16% in subjects with moderate hepatic impairment as compared with healthy subjects.
 No dose adjustment is recommended for patients with mild and moderate hepatic impairment.
 Memantine should be administered with caution to patients with severe hepatic impairment as the pharmacokinetics of memantine have not been evaluated in that population.
@@ -75,8 +75,8 @@ In a 24-week controlled clinical study in patients with moderate to severe Alzhe
 
 Effect of Memantine on the Metabolism of Other Drugs
 
-In vitro studies conducted with marker substrates of CYP450 enzymes (CYP1A2, -2A6, -2C9, -2D6, -2E1, -3A4) showed minimal inhibition of these enzymes by memantine.
-In addition, in vitro studies indicate that at concentrations exceeding those associated with efficacy, memantine does not induce the cytochrome P450 isozymes CYP1A2, -2C9, -2E1 and -3A4/5.
+In vitrostudies conducted with marker substrates of CYP450 enzymes (CYP1A2, -2A6, -2C9, -2D6, -2E1, -3A4) showed minimal inhibition of these enzymes by memantine.
+In addition, in vitrostudies indicate that at concentrations exceeding those associated with efficacy, memantine does not induce the cytochrome P450 isozymes CYP1A2, -2C9, -2E1 and -3A4/5.
 No pharmacokinetic interactions with drugs metabolized by these enzymes are expected.
 
 Pharmacokinetic studies evaluated the potential of memantine for interaction with warfarin, and buproprion.
@@ -91,8 +91,8 @@ Drugs Eliminated via Renal Mechanisms
 
 Because memantine is eliminated in part by tubular secretion, coadministration of drugs that use the same renal cationic system, including hydrochlorothiazide (HCTZ), triamterene (TA), metformin, cimetidine, ranitidine, quinidine, and nicotine, could potentially result in altered plasma levels of both agents.
 However, coadministration of memantine and HCTZ/TA did not affect the bioavailability of either memantine or TA, and the bioavailability of HCTZ decreased by 20%.
-In addition, coadministration of memantine with the antihyperglycemic drug Glucovance® (glyburide and metformin hydrochloride) did not affect the pharmacokinetics of memantine, metformin and glyburide.
-Furthermore, memantine did not modify the serum glucose lowering effect of Glucovance®, indicating the absence of a pharmacodynamic interaction.
+In addition, coadministration of memantine with the antihyperglycemic drug Glucovance ®(glyburide and metformin hydrochloride) did not affect the pharmacokinetics of memantine, metformin and glyburide.
+Furthermore, memantine did not modify the serum glucose lowering effect of Glucovance ®, indicating the absence of a pharmacodynamic interaction.
 
 Drugs Highly Bound to Plasma Proteins
 
