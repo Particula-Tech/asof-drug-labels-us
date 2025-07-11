@@ -1,10 +1,10 @@
 # DESCRIPTION
 
 Amantadine hydrochloride, USP is designated chemically as 1 adamantanamine hydrochloride.
-Its molecular weight is 187.71 with a molecular formula C10H18NCl.
+Its molecular weight is 187.71 with a molecular formula C 10H 18NCl.
 It has the following structural formula.
 
-|  | C10H18NCl |
+|  | C 10H 18NCl |
 | --- | --- |
 
 Amantadine hydrochloride, USP is a stable white or nearly white crystalline powder, freely soluble in water and soluble in alcohol and in chloroform.

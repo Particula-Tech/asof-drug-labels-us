@@ -5,13 +5,12 @@ Wilson and A.H.
 Rajput, Amantadine-Dyazide Interaction, Can.
 Med.
 Assoc.
-J. 129:974-975, 1983.
+J.129:974-975, 1983.
 
 2.
 D.F.
 Casey, N. Engl.
-J. Med.
-298:516, 1978.
+J. Med.298:516, 1978.
 
 3.
 C.D.

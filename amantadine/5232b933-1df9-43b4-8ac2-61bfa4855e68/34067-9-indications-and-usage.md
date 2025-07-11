@@ -3,11 +3,11 @@
 Amantadine hydrochloride capsules are indicated for the prophylaxis and treatment of signs and symptoms of infection caused by various strains of influenza A virus.
 Amantadine hydrochloride capsules are also indicated in the treatment of parkinsonism and drug-induced extrapyramidal reactions.
 
-Influenza A Prophylaxis: Amantadine hydrochloride capsules are indicated for chemoprophylaxis against signs and symptoms of influenza A virus infection.
+Influenza A Prophylaxis:Amantadine hydrochloride capsules are indicated for chemoprophylaxis against signs and symptoms of influenza A virus infection.
 Because amantadine hydrochloride capsules do not completely prevent the host immune response to influenza A infection, individuals who take this drug may still develop immune responses to natural disease or vaccination and may be protected when later exposed to antigenically related viruses.
 Following vaccination during an influenza A outbreak, amantadine hydrochloride capsules prophylaxis should be considered for the 2- to 4-week time period required to develop an antibody response.
 
-Influenza A Treatment: Amantadine hydrochloride capsules are also indicated in the treatment of uncomplicated respiratory tract illness caused by influenza A virus strains especially when administered early in the course of illness.
+Influenza A Treatment:Amantadine hydrochloride capsules are also indicated in the treatment of uncomplicated respiratory tract illness caused by influenza A virus strains especially when administered early in the course of illness.
 There are no well-controlled clinical studies demonstrating that treatment with amantadine hydrochloride capsules will avoid the development of influenza A virus pneumonitis or other complications in high risk patients.
 
 There is no clinical evidence indicating that amantadine hydrochloride capsules are effective in the prophylaxis or treatment of viral respiratory tract illnesses other than those caused by influenza A virus strains.
@@ -20,9 +20,9 @@ The following points should be considered before initiating treatment or prophyl
   Other factors (for example, changes in viral virulence) might also diminish clinical benefit of antiviral drugs.
   Prescribers should consider available information on influenza drug susceptibility patterns and treatment effects when deciding whether to use amantadine hydrochloride capsules.
 
-Parkinson's Disease/Syndrome: Amantadine hydrochloride capsules are indicated in the treatment of idiopathic Parkinson's disease (Paralysis Agitans), postencephalitic parkinsonism and symptomatic parkinsonism which may follow injury to the nervous system by carbon monoxide intoxication.
+Parkinson's Disease/Syndrome:Amantadine hydrochloride capsules are indicated in the treatment of idiopathic Parkinson's disease (Paralysis Agitans), postencephalitic parkinsonism and symptomatic parkinsonism which may follow injury to the nervous system by carbon monoxide intoxication.
 It is indicated in those elderly patients believed to develop parkinsonism in association with cerebral arteriosclerosis.
 In the treatment of Parkinson's disease, amantadine hydrochloride capsules are less effective than levodopa, (-)-3-(3,4-dihydroxyphenyl)-L-alanine, and its efficacy in comparison with the anticholinergic antiparkinson drugs has not yet been established.
 
-Drug-Induced Extrapyramidal Reactions: Amantadine hydrochloride capsules are indicated in the treatment of drug-induced extrapyramidal reactions.
+Drug-Induced Extrapyramidal Reactions:Amantadine hydrochloride capsules are indicated in the treatment of drug-induced extrapyramidal reactions.
 Although anticholinergic-type side effects have been noted with amantadine hydrochloride capsules when used in patients with drug-induced extrapyramidal reactions, there is a lower incidence of these side effects than that observed with the anticholinergic antiparkinson drugs.
