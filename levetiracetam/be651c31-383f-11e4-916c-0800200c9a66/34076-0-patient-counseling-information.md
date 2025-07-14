@@ -40,31 +40,34 @@ Advise patients to notify their healthcare provider if they become pregnant or i
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) pregnancy registry if they become pregnant.
 [see Use in Specific Populations (8.1)].
 
-Administration Information
+Preparation and Administration Information
 
-Advise patients that SPRITAM (levetiracetam) tablet(s) for oral suspension is intended to disintegrate in the mouth when taken with a sip of liquid.
-As a primary method of administration, place tablet on the tongue with a dry hand, follow with a sip of liquid and swallow only after the tablet disintegrates.
-Advise patients not to swallow SPRITAM intact.
-Partial tablets should not be administered [see Dosage and Administration (2.1)].
-
-Alternately, add whole SPRITAM tablet(s) to a small volume of liquid in a cup (one tablespoon or enough to cover the medicine).
-Allow the tablet(s) to disperse prior to consuming the entire contents immediately.
-After administration of the suspension, re-suspend any residue by adding an additional small volume of liquid, and swallow the full amount.
-
-No attempts should be made to administer partial quantities of the dispersed tablet(s) [see Dosage and Administration (2.1)].
-
+Instruct patients to administer SPRITAM with or without food, and not to administer partial tablets [see Dosage and Administration (2.1)].
 Instruct patients to peel the foil from the blister by bending up and lifting the peel tab around the blister seal.
+Instruct patients on the appropriate method of administration:
 
-Manufactured by Aprecia Pharmaceuticals, LLC, Blue Ash, OH 45242 USA
+1.
+Place tablet on the tongue with a dry hand, follow with a sip of liquid and swallow only after the tablet disintegrates.
+Advise patients not to swallow SPRITAM intact; or
+
+2.
+Alternately, add whole SPRITAM tablet(s) to a small volume of liquid in a cup (one tablespoon or enough to cover the medicine).
+Advise patients to allow the tablet(s) to fully disperse, and then immediately consume the entire contents by mouth using the cup or oral syringe.
+After administration of the suspension, re-suspend any residue by adding an additional small volume of liquid, and swallow the full amount; or
+
+3.
+SPRITAM can be administered using a nasogastric tube (NG tube) or gastrostomy tube (G tube) [see Dosage and Administration (2.1)].
+
+Manufactured by Aprecia Pharmaceuticals, LLC, Mason, OH 45040 USA
 
 Distributed by Prasco, LLC, Mason, OH 45040 USA
 
 SPRITAM® is a registered trademark of Aprecia Pharmaceuticals, LLC.
 
-© 2024 Aprecia Pharmaceuticals, LLC all rights reserved.
+© 2025 Aprecia Pharmaceuticals, LLC all rights reserved.
 
 Printed in the USA
 
 Patent(s): www.aprecia.com/patents
 
-LB-PI-0001.T
+LB-PI-0001.U

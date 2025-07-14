@@ -49,7 +49,7 @@ The total body clearance is 0.96 mL/min/kg and the renal clearance is 0.6 mL/min
 The mechanism of excretion is glomerular filtration with subsequent partial tubular reabsorption.
 The metabolite ucb L057 is excreted by glomerular filtration and active tubular secretion with a renal clearance of 4 mL/min/kg.
 Levetiracetam elimination is correlated to creatinine clearance.
-Levetiracetam clearance is reduced in patients with renal impairment [see Dosage and Administration (2.5), Use in Specific Populations (8.6)].
+Levetiracetam clearance is reduced in patients with renal impairment [see Dosage and Administration (2.3), Use in Specific Populations (8.6)].
 
 Specific Populations
 
@@ -107,7 +107,7 @@ Total body clearance of levetiracetam is reduced in patients with impaired renal
 Clearance of levetiracetam is correlated with creatinine clearance.
 
 In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr > 80 mL/min).
-Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4-hour hemodialysis procedure [see Dosage and Administration (2.5)].
+Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4-hour hemodialysis procedure [see Dosage and Administration (2.3)].
 
 Hepatic Impairment
 

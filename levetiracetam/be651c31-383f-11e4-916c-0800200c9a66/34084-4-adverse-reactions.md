@@ -23,10 +23,10 @@ Adults
 In controlled clinical studies in adults with partial-onset seizures [see Clinical Studies (14.1)], the most common adverse reactions in patients receiving levetiracetam in combination with other AEDs, for events with rates greater than placebo, were somnolence, asthenia, infection, and dizziness.
 Of the most common adverse reactions in adults experiencing partial-onset seizures, asthenia, somnolence, and dizziness occurred predominantly during the first 4 weeks of treatment with levetiracetam.
 
-Table 3 lists adverse reactions that occurred in at least 1% of adult epilepsy patients receiving levetiracetam in placebo-controlled studies and were numerically more common than in patients treated with placebo.
+Table 4 lists adverse reactions that occurred in at least 1% of adult epilepsy patients receiving levetiracetam in placebo-controlled studies and were numerically more common than in patients treated with placebo.
 In these studies, either levetiracetam or placebo was added to concurrent AED therapy.
 
-Table 3: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Studies in Adults with Partial-Onset Seizures
+Table 4: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Studies in Adults with Partial-Onset Seizures
 
 | Adverse Reaction | Levetiracetam (N=769) % | Placebo (N=439) % |
 | --- | --- | --- |
@@ -53,9 +53,9 @@ Table 3: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Studies in A
 | Sinusitis | 2 | 1 |
 
 In controlled adult clinical studies, 15% of patients receiving levetiracetam and 12% receiving placebo either discontinued or had a dose reduction as a result of an adverse reaction.
-Table 4 lists the most common (> 1%) adverse reactions that resulted in discontinuation or dose reduction and that occurred more frequently in levetiracetam-treated patients than in placebo-treated patients.
+Table 5 lists the most common (> 1%) adverse reactions that resulted in discontinuation or dose reduction and that occurred more frequently in levetiracetam-treated patients than in placebo-treated patients.
 
-Table 4: Adverse Reactions that Resulted in Discontinuation or Dose Reduction in Pooled Placebo-Controlled Studies in Adults with Partial-Onset Seizures
+Table 5: Adverse Reactions that Resulted in Discontinuation or Dose Reduction in Pooled Placebo-Controlled Studies in Adults with Partial-Onset Seizures
 
 | Adverse Reaction | Levetiracetam (N=769) % | Placebo (N=439) % |
 | --- | --- | --- |
@@ -67,10 +67,10 @@ Pediatric Patients 4 Years to Less Than 16 Years of Age
 The adverse reaction data presented below was obtained from a pooled analysis of two controlled clinical studies in pediatric patients 4 to less than 16 years of age with partial-onset seizures.
 The most common adverse reactions in pediatric patients 4 to less than 16 years of age receiving levetiracetam in combination with other AEDs, for events with rates greater than placebo, were fatigue, aggression, nasal congestion, decreased appetite, and irritability.
 
-Table 5 lists adverse reactions from the pooled pediatric controlled studies (4 to less than 16 years of age) that occurred in at least 2% of pediatric levetiracetam-treated patients and were numerically more common than in pediatric patients treated with placebo.
+Table 6 lists adverse reactions from the pooled pediatric controlled studies (4 to less than 16 years of age) that occurred in at least 2% of pediatric levetiracetam-treated patients and were numerically more common than in pediatric patients treated with placebo.
 In these studies, either levetiracetam or placebo was added to concurrent AED therapy.
 
-Table 5: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Studies in Pediatric Patients 4 to 16 Years of Age with Partial-Onset Seizures
+Table 6: Adverse Reactions in Pooled Placebo-Controlled, Adjunctive Studies in Pediatric Patients 4 to 16 Years of Age with Partial-Onset Seizures
 
 | Adverse Reaction | Levetiracetam (N=165) % | Placebo (N=131) % |
 | --- | --- | --- |
@@ -122,10 +122,10 @@ The adverse reaction pattern for patients with JME is expected to be essentially
 
 In the controlled clinical study in patients 12 years of age and older with myoclonic seizures, [see Clinical Studies (14.2)], the most common adverse reactions in patients receiving levetiracetam in combination with other AEDs, for events with rates greater than placebo, were somnolence, neck pain, and pharyngitis.
 
-Table 6 lists adverse reactions that occurred in at least 5% of juvenile myoclonic epilepsy patients experiencing myoclonic seizures treated with levetiracetam and were numerically more common than in patients treated with placebo.
+Table 7 lists adverse reactions that occurred in at least 5% of juvenile myoclonic epilepsy patients experiencing myoclonic seizures treated with levetiracetam and were numerically more common than in patients treated with placebo.
 In this study, either levetiracetam or placebo was added to concurrent AED therapy.
 
-Table 6: Adverse Reactions in a Placebo-Controlled, Adjunctive Study in Patients 12 Years of Age and Older with Myoclonic Seizures
+Table 7: Adverse Reactions in a Placebo-Controlled, Adjunctive Study in Patients 12 Years of Age and Older with Myoclonic Seizures
 
 | Adverse Reaction | Levetiracetam (N=60) % | Placebo (N=60) % |
 | --- | --- | --- |
@@ -137,9 +137,9 @@ Table 6: Adverse Reactions in a Placebo-Controlled, Adjunctive Study in Patients
 | Vertigo | 5 | 3 |
 
 In the placebo-controlled study, 8% of patients receiving levetiracetam and 2% receiving placebo either discontinued or had a dose reduction as a result of an adverse reaction.
-The adverse reactions that led to discontinuation or dose reduction and that occurred more frequently in levetiracetam-treated patients than in placebo-treated patients are presented in Table 7.
+The adverse reactions that led to discontinuation or dose reduction and that occurred more frequently in levetiracetam-treated patients than in placebo-treated patients are presented in Table 8.
 
-Table 7: Adverse Reactions that Resulted in Discontinuation or Dose Reduction in a Placebo-Controlled Study in Patients with Juvenile Myoclonic Epilepsy
+Table 8: Adverse Reactions that Resulted in Discontinuation or Dose Reduction in a Placebo-Controlled Study in Patients with Juvenile Myoclonic Epilepsy
 
 | Adverse Reaction | Levetiracetam (N=60) % | Placebo (N=60) % |
 | --- | --- | --- |
@@ -160,10 +160,10 @@ The adverse reaction pattern for patients with primary generalized tonic-clonic 
 
 In the controlled clinical trial in patients with PGTC seizures [see Clinical Studies (14.3)], the most common adverse reaction in patients receiving levetiracetam in combination with other AEDs, for events with rates greater than placebo, was nasopharyngitis.
 
-Table 8 lists adverse reactions that occurred in at least 5% of idiopathic generalized epilepsy patients experiencing PGTC seizures treated with levetiracetam and were numerically more common than in patients treated with placebo.
+Table 9 lists adverse reactions that occurred in at least 5% of idiopathic generalized epilepsy patients experiencing PGTC seizures treated with levetiracetam and were numerically more common than in patients treated with placebo.
 In this study, either levetiracetam or placebo was added to concurrent AED therapy.
 
-Table 8: Adverse Reactions in a Placebo-Controlled, Adjunctive Study in Patients 4 Years of Age and Older with PGTC Seizures
+Table 9: Adverse Reactions in a Placebo-Controlled, Adjunctive Study in Patients 4 Years of Age and Older with PGTC Seizures
 
 | Adverse Reaction | Levetiracetam (N=79) % | Placebo (N=84) % |
 | --- | --- | --- |
@@ -176,7 +176,7 @@ Table 8: Adverse Reactions in a Placebo-Controlled, Adjunctive Study in Patients
 In the placebo-controlled study, 5% of patients receiving levetiracetam and 8% receiving placebo either discontinued or had a dose reduction during the treatment period as a result of an adverse reaction.
 
 This study was too small to adequately characterize the adverse reactions that could be expected to result in discontinuation of treatment in this population.
-It is expected that the adverse reactions that would lead to discontinuation in this population would be similar to those resulting in discontinuation in other epilepsy trials (see Table 4 and Table 7).
+It is expected that the adverse reactions that would lead to discontinuation in this population would be similar to those resulting in discontinuation in other epilepsy trials (see Table 5 and Table 8).
 
 In addition, the following adverse reactions were seen in other controlled adult studies of levetiracetam: balance disorder, disturbance in attention, eczema, memory impairment, myalgia, and blurred vision.
 
