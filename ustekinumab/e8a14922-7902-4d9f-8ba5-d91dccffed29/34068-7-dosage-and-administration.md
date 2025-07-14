@@ -132,7 +132,7 @@ The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 w
 - Prior to administration, visually inspect PYZCHIVA for particulate matter and discoloration.
   PYZCHIVA is a clear, colorless to light yellow, sterile and preservative-free solution.
   Do not use PYZCHIVA if it is discolored or cloudy, or if other particulate matter is present.
-  PYZCHIVA does not contain preservatives; therefore, discard any unused product remaining in the vial and/or syringe.
+  PYZCHIVA does not contain preservatives; therefore, discard any unused product remaining in the vial, syringe and/or PYZCHIVA AUTOINJECTOR.
 
 ## 2.5 Instructions for Administration of PYZCHIVA Prefilled Syringes Equipped with Needle Safety Guard
 
@@ -150,7 +150,14 @@ Refer to the diagram below for the provided instructions.
 
 - Used syringes should be placed in a puncture-resistant container.
 
-## 2.6 Preparation and Administration of PYZCHIVA 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn's Disease and Ulcerative Colitis)
+## 2.6 Instructions for Administration of PYZCHIVA AUTOINJECTOR
+
+The PYZCHIVA AUTOINJECTOR “Instructions for Use” insert contains detailed instructions on preparation, injection site selection, administration, and disposal.
+
+| Before Use | After Use |
+| --- | --- |
+
+## 2.7 Preparation and Administration of PYZCHIVA 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn's Disease and Ulcerative Colitis)
 
 PYZCHIVA solution for intravenous infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
 

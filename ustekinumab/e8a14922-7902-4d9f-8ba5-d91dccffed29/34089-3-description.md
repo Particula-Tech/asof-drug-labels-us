@@ -12,9 +12,11 @@ PYZCHIVA for Subcutaneous Use
 Available as 45 mg of ustekinumab-ttwe in 0.5 mL and 90 mg of ustekinumab-ttwe in 1 mL, supplied as a sterile solution in a single-dose prefilled syringe with a 29 gauge fixed ½ inch needle and as 45 mg of ustekinumab-ttwe in 0.5 mL in a single-dose Type I glass vial with a coated stopper.
 The syringe is fitted with a passive needle guard and a needle cover.
 
-Each 0.5 mL prefilled syringe or vial delivers 45 mg ustekinumab-ttwe, histidine (0.095 mg), histidine hydrochloride monohydrate (0.405 mg), polysorbate 80 (0.02 mg), and sucrose (42.5 mg).
+Available as 45 mg of ustekinumab-ttwe in 0.5 mL and 90 mg of ustekinumab-ttwe in 1 mL, supplied as a sterile solution in a single-dose prefilled autoinjector.
 
-Each 1 mL prefilled syringe delivers 90 mg ustekinumab-ttwe, histidine (0.19 mg), histidine hydrochloride monohydrate (0.81 mg), polysorbate 80 (0.04 mg), and sucrose (85 mg).
+Each 0.5 mL prefilled syringe, prefilled PYZCHIVA AUTOINJECTOR or vial delivers 45 mg ustekinumab-ttwe, histidine (0.095 mg), histidine hydrochloride monohydrate (0.405 mg), polysorbate 80 (0.02 mg), and sucrose (42.5 mg).
+
+Each 1 mL prefilled syringe or prefilled PYZCHIVA AUTOINJECTOR delivers 90 mg ustekinumab-ttwe, histidine (0.19 mg), histidine hydrochloride monohydrate (0.81 mg), polysorbate 80 (0.04 mg), and sucrose (85 mg).
 
 PYZCHIVA for Intravenous Infusion
 

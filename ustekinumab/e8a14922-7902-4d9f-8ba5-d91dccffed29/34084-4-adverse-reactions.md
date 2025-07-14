@@ -42,16 +42,16 @@ One case of PRES occurred during adult plaque psoriasis clinical trials [see War
 
 Infections
 
-In the placebo-controlled period of clinical trials of subjects with plaque psoriasis (average follow-up of 12.6 weeks for placebo-treated subjects and 13.4 weeks for ustekinumab-treated subjects), 27% of ustekinumab-treated subjects reported infections (1.39 per subject-year of follow-up) compared with 24% of placebo-treated subjects (1.21 per subject-year of follow-up).
-Serious infections occurred in 0.3% of ustekinumab-treated subjects (0.01 per subject-year of follow-up) and in 0.4% of placebo-treated subjects (0.02 per subject-year of follow-up) [see Warnings and Precautions (5.1)].
+In the placebo-controlled period of clinical trials of subjects with plaque psoriasis (average follow-up of 12.6 weeks for placebo-treated subjects and 13.4 weeks for ustekinumab-treated subjects), 27% of ustekinumab-treated subjects reported infections (1.39 per patient-years of follow-up) compared with 24% of placebo-treated subjects (1.21 per patient-years of follow-up).
+Serious infections occurred in 0.3% of ustekinumab-treated subjects (0.01 per patient-years of follow-up) and in 0.4% of placebo-treated subjects (0.02 per patient-years of follow-up) [see Warnings and Precautions (5.1)].
 
-In the controlled and non-controlled portions of plaque psoriasis clinical trials (median follow-up of 3.2 years), representing 8998 subject-years of exposure, 72.3% of ustekinumab-treated subjects reported infections (0.87 per subject-years of follow-up).
-Serious infections were reported in 2.8% of subjects (0.01 per subject-years of follow-up).
+In the controlled and non-controlled portions of plaque psoriasis clinical trials (median follow-up of 3.2 years), representing 8998 patient-years of exposure, 72.3% of ustekinumab-treated subjects reported infections (0.87 per patient-years of follow-up).
+Serious infections were reported in 2.8% of subjects (0.01 per patient-years of follow-up).
 
 Malignancies
 
-In the controlled and non-controlled portions of plaque psoriasis clinical trials (median follow-up of 3.2 years, representing 8998 subject-years of exposure), 1.7% of ustekinumab-treated subjects reported malignancies excluding non-melanoma skin cancers (0.60 per hundred subject-years of follow-up).
-Non-melanoma skin cancer was reported in 1.5% of ustekinumab-treated subjects (0.52 per hundred subject-years of follow-up) [see Warnings and Precautions (5.4)].
+In the controlled and non-controlled portions of plaque psoriasis clinical trials (median follow-up of 3.2 years, representing 8998 patient-years of exposure), 1.7% of ustekinumab-treated subjects reported malignancies excluding non-melanoma skin cancers (0.60 per hundred patient-years of follow-up).
+Non-melanoma skin cancer was reported in 1.5% of ustekinumab-treated subjects (0.52 per hundred patient-years of follow-up) [see Warnings and Precautions (5.4)].
 The most frequently observed malignancies other than non-melanoma skin cancer during the clinical trials were: prostate, melanoma, colorectal and breast.
 Malignancies other than non-melanoma skin cancer in ustekinumab-treated subjects during the controlled and uncontrolled portions of trials were similar in type and number to what would be expected in the general U.S. population according to the SEER database (adjusted for age, gender and race).1
 

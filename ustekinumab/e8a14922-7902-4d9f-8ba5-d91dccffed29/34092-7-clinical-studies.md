@@ -121,10 +121,10 @@ Table 11: ACR 20, ACR 50, ACR 70 and PASI 75 responses in PsA STUDY 1 and PsA ST
 | ACR 20 response, N (%) | 47 (23%) | 87 (42%) | 101 (50%) | 21 (20%) | 45 (44%) | 46 (44%) |
 | ACR 50 response, N (%) | 18 (9%) | 51 (25%) | 57 (28%) | 7 (7%) | 18 (17%) | 24 (23%) |
 | ACR 70 response, N (%) | 5 (2%) | 25 (12%) | 29 (14%) | 3 (3%) | 7 (7%) | 9 (9%) |
-| Number of subjects with ≥3% BSA* | 146 | 145 | 149 | 80 | 80 | 81 |
+| Number of subjects with ≥ 3% BSA* | 146 | 145 | 149 | 80 | 80 | 81 |
 | PASI 75 response, N (%) | 16 (11%) | 83 (57%) | 93 (62%) | 4 (5%) | 41 (51%) | 45 (56%) |
 
-*Number of subjects with ≥3% BSA psoriasis skin involvement at baseline
+*Number of subjects with ≥ 3% BSA psoriasis skin involvement at baseline
 
 The percent of subjects achieving ACR 20 responses by visit is shown in Figure 1.
 
@@ -209,7 +209,7 @@ Clinical remission is defined as CDAI score < 150; Clinical response is defined 
 
 Trial CD-3
 
-The maintenance trial (CD-3), evaluated 388 subjects who achieved clinical response (≥100 point reduction in CDAI score) at Week 8 with either induction dose of ustekinumab in trials CD-1 or CD-2.
+The maintenance trial (CD-3), evaluated 388 subjects who achieved clinical response (≥ 100 point reduction in CDAI score) at Week 8 with either induction dose of ustekinumab in trials CD-1 or CD-2.
 Subjects were randomized to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks or placebo for 44 weeks (see Table 14).
 
 Table 14: Clinical Response and Remission in CD-3 (Week 44; 52 weeks from initiation of the induction dose)
@@ -243,7 +243,7 @@ The 8-week intravenous induction trial (UC-1) was followed by the 44-week subcut
 Disease assessment was based on the Mayo score, which ranged from 0 to 12 and has four subscores that were each scored from 0 (normal) to 3 (most severe): stool frequency, rectal bleeding, findings on centrally-reviewed endoscopy, and physician global assessment.
 Moderately to severely active ulcerative colitis was defined at baseline (Week 0) as Mayo score of 6 to 12, including a Mayo endoscopy subscore ≥2.
 An endoscopy score of 2 was defined by marked erythema, absent vascular pattern, friability, erosions; and a score of 3 was defined by spontaneous bleeding, ulceration.
-At baseline, subjects had a median Mayo score of 9, with 84% of subjects having moderate disease (Mayo score 6-10) and 15% having severe disease (Mayo score 11-12).
+At baseline, subjects had a median Mayo score of 9, with 84% of subjects having moderate disease (Mayo score 6–10) and 15% having severe disease (Mayo score 11–12).
 
 Subjects in these trials may have received other concomitant therapies including aminosalicylates, immunomodulatory agents (AZA, 6-MP, or MTX), and oral corticosteroids (prednisone).
 
@@ -259,7 +259,7 @@ The primary endpoint was clinical remission at Week 8.
 Clinical remission with a definition of: Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0 (no rectal bleeding), and Mayo endoscopy subscore of 0 or 1 (Mayo endoscopy subscore of 0 defined as normal or inactive disease and Mayo subscore of 1 defined as presence of erythema, decreased vascular pattern and no friability) is provided in Table 15.
 
 The secondary endpoints were clinical response, endoscopic improvement, and histologic-endoscopic mucosal improvement.
-Clinical response with a definition of (≥2 points and ≥30% decrease in modified Mayo score, defined as 3-component Mayo score without the Physician's Global Assessment, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1), endoscopic improvement with a definition of Mayo endoscopy subscore of 0 or 1, and histologic- endoscopic mucosal improvement with a definition of combined endoscopic improvement and histologic improvement of the colon tissue [neutrophil infiltration in <5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue]) are provided in Table 15.
+Clinical response with a definition of (≥ 2 points and ≥ 30% decrease in modified Mayo score, defined as 3-component Mayo score without the Physician's Global Assessment, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1), endoscopic improvement with a definition of Mayo endoscopy subscore of 0 or 1, and histologic- endoscopic mucosal improvement with a definition of combined endoscopic improvement and histologic improvement of the colon tissue [neutrophil infiltration in <5% of crypts, no crypt destruction, and no erosions, ulcerations, or granulation tissue]) are provided in Table 15.
 
 In UC-1, a significantly greater proportion of subjects treated with ustekinumab (at the recommended dose of approximately 6 mg/kg dose) were in clinical remission and response and achieved endoscopic improvement and histologic-endoscopic mucosal improvement compared to placebo (see Table 15).
 
@@ -320,7 +320,7 @@ Table 16: Efficacy Endpoints of Maintenance at Week 44 in UC-2 (52 Weeks from In
 | Bio-naïve⸸ | 12/27 | 44% | 14/20 | 70% |  |
 | Prior biologic failure | 6/23 | 26% | 12/18 | 67% |  |
 
-⸸ An additional 3 subjects on placebo and 6 subjects on ustekinumab had been exposed to, but had not failed, biologics. * The placebo group consisted of subjects who were in response to ustekinumab and were randomized to receive placebo at the start of maintenance therapy. ** Clinical remission was defined as Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0, and Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). ‡ Clinical response was defined as a decrease from baseline in the modified Mayo score by ≥30% and ≥2 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1. § Endoscopic improvement was defined as Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). ‡ Corticosteroid-free clinical remission was defined as subjects in clinical remission and not receiving corticosteroids at Week 44. a p =<0.001 b p=0.004
+⸸ An additional 3 subjects on placebo and 6 subjects on ustekinumab had been exposed to, but had not failed, biologics. * The placebo group consisted of subjects who were in response to ustekinumab and were randomized to receive placebo at the start of maintenance therapy. ** Clinical remission was defined as Mayo stool frequency subscore of 0 or 1, Mayo rectal bleeding subscore of 0, and Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). † Clinical response was defined as a decrease from baseline in the modified Mayo score by ≥30% and ≥2 points, with either a decrease from baseline in the rectal bleeding subscore ≥1 or a rectal bleeding subscore of 0 or 1. § Endoscopic improvement was defined as Mayo endoscopy subscore of 0 or 1 (modified so that 1 does not include friability). ‡ Corticosteroid-free clinical remission was defined as subjects in clinical remission and not receiving corticosteroids at Week 44. a p =<0.001 b p=0.004
 
 Other Endpoints
 

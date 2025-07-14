@@ -5,6 +5,7 @@ PYZCHIVA (ustekinumab-ttwe) is a clear, colorless to light yellow, sterile and p
 Subcutaneous Injection
 
 - Injection: 45 mg/0.5 mL or 90 mg/mL solution in a single-dose prefilled syringe
+- Injection: 45 mg/0.5 mL or 90 mg/mL solution in a single-dose prefilled autoinjector (PYZCHIVA AUTOINJECTOR)
 - Injection: 45 mg/0.5 mL solution in a single-dose vial
 
 Intravenous Infusion
