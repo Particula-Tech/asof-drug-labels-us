@@ -11,4 +11,4 @@ Limitations of Use:
 
 - Safety and efficacy of testosterone gel in men with "age-related hypogonadism" (also referred to as "late-onset hypogonadism") have not been established.
 - Safety and efficacy of testosterone gel in males less than 18 years old have not been established [see Use in Specific Populations (8.4)].
-- Topical testosterone products may have different doses, strengths, or application instructions that may result in different systemic exposure [see Dosage and Administration (2) and Clinical Pharmacology (12.3)].
+- Topical testosterone products may have different doses, strengths, or application instructions that may result in different systemic exposure [see Dosage and Administration (2)and Clinical Pharmacology (12.3)].

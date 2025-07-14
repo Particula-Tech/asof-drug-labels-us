@@ -9,7 +9,7 @@ Applying Testosterone gel:
 Testosterone gel comes in tubes, packets, or in a pump.
 
 - Before applying testosterone gel, make sure that your shoulders and upper arms are clean, dry, and there is no broken skin.
-- The application sites for testosterone gel are the shoulders and the upper arms that will be covered by a short sleeve t-shirt (See Figure A). Do not apply testosterone gel to any other parts of your body such as your penis, scrotum, or stomach area (abdomen).
+- The application sites for testosterone gel are the shoulders and the upper arms that will be covered by a short sleeve t-shirt (See Figure A). Do notapply testosterone gel to any other parts of your body such as your penis, scrotum, or stomach area (abdomen).
 
 If you are using testosterone gel tubes:
 
@@ -34,7 +34,7 @@ If you are using testosterone gel packets:
   Apply testosterone gel to the application site.
   Rub the gel onto your skin for several seconds.
 - Let the application site dry for a few minutes before putting on a t-shirt.
-- Wash your hands with soap and water right away after applying testosterone gel.
+- Wash your hands with soap and water right awayafter applying testosterone gel.
 
 If you are using the testosterone gel pump:
 

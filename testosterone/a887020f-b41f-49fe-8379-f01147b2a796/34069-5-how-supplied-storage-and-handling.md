@@ -27,5 +27,5 @@ Store at 20° to 25°C (68° to 77°F); excursions permitted to 15° to 30°C (5
 
 ## 16.3 Handling and Disposal
 
-Used testosterone gel tubes, packets or pumps should be discarded in household trash in a manner that prevents accidental exposure of women, children, or pets [see Boxed Warning and Warnings and Precautions (5.2)].
+Used testosterone gel tubes, packets or pumps should be discarded in household trash in a manner that prevents accidental exposure of women, children, or pets [see Boxed Warningand Warnings and Precautions (5.2)].
 Contents are flammable [see Warnings and Precautions (5.16)].

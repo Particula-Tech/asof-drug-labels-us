@@ -5,7 +5,7 @@
 Risk Summary
 
 Testosterone gel is contraindicated in pregnant women.
-Testosterone is teratogenic and may cause fetal harm when administered to a pregnant woman based on data from animal studies and its mechanism of action [see Contraindications (4) and Clinical Pharmacology (12.1)].
+Testosterone is teratogenic and may cause fetal harm when administered to a pregnant woman based on data from animal studies and its mechanism of action [see Contraindications (4)and Clinical Pharmacology (12.1)].
 Exposure of a female fetus to androgens may result in varying degrees of virilization.
 In animal developmental studies, exposure to testosterone in utero resulted in hormonal and behavioral changes in offspring and structural impairments of reproductive tissues in female and male offspring.
 These studies did not meet current standards for nonclinical development toxicity studies.
