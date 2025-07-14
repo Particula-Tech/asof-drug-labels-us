@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020985"
+  ],
+  "inn": "fluorouracil",
+  "labeler": "Dr. Reddy's Laboratories Inc.",
+  "package_ndcs": [
+    "75907-169-11"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "fluorouracil cream, 0.5%",
+      "name": "FLUOROURACIL"
+    }
+  ],
+  "setid": "37dcfb83-0e7d-d23d-9cd5-afa5bdc30628",
+  "source": "dailymed"
+}
