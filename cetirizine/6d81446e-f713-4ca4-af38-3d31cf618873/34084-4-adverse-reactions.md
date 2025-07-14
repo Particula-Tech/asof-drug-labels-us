@@ -74,6 +74,8 @@ Body as a Whole:accidental injury, asthenia, back pain, chest pain, enlarged abd
 Occasional instances of transient, reversible hepatic transaminase elevations have occurred during cetirizine therapy.
 Hepatitis with significant transaminase elevation and elevated bilirubin in association with the use of cetirizine hydrochloride has been reported.
 
+To report SUSPECTED ADVERSE REACTIONS, contact Sun Pharmaceutical Industries, Inc., at 1-866-923-4914 or FDA at 1-800- FDA-1088 or www.fda.gov/medwatch.
+
 ## Post-Marketing Experience
 
-In the post-marketing period, the following additional rare, but potentially severe adverse events have been reported: aggressive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide, thrombocytopenia, acute generalized exanthematous postulosis (AGEP) and rebound pruritus-pruritus within a few days after discontinuation of cetirizine, usually after long-term use (e.g., months to years) of cetirizine.
+In the post-marketing period, the following additional rare, but potentially severe adverse events have been reported: aggressive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide, thrombocytopenia, acute generalized exanthematous pustulosis (AGEP), and new onset pruritus within a few days after discontinuation of cetirizine, usually after long-term use (e.g., few months to years) of cetirizine.
