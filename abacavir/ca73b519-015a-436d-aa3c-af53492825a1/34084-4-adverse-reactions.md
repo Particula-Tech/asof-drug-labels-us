@@ -84,34 +84,34 @@ Laboratory Abnormalities: Laboratory abnormalities (Grades 3-4) in therapy-naive
 Table 4.
 Laboratory Abnormalities (Grades 3-4) in Therapy-Naive Adults (CNA30024) through 48 Weeks of Treatment
 
-| Grade 3/4Laboratory Abnormalities | ZIAGEN plusLamivudine plus Efavirenz(n = 324) | Zidovudine plusLamivudine plus Efavirenz (n = 325) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Elevated CPK (>4 X ULN) | 8% | 8% |  |  |  |  |  |  |
-| Elevated ALT (>5 X ULN) | 6% | 6% |  |  |  |  |  |  |
-| Elevated AST (>5 X ULN) | 6% | 5% |  |  |  |  |  |  |
-| Hypertriglyceridemia (>750 mg/dL) | 6% | 5% |  |  |  |  |  |  |
-| Hyperamylasemia (>2 X ULN) | 4% | 5% |  |  |  |  |  |  |
-| Neutropenia (ANC <750/mm3) | 2% | 4% |  |  |  |  |  |  |
-| Anemia (Hgb ≤6.9 gm/dL) | <1% | 2% |  |  |  |  |  |  |
-| Thrombocytopenia (Platelets <50,000/mm3) | 1% | <1% |  |  |  |  |  |  |
-| Leukopenia (WBC ≤1,500/mm3) | <1% | 2% |  |  |  |  |  |  |
-| ULN = Upper limit of normal. n = Number of subjects assessed. |  |  |  |  |  |  |  |  |
+| Grade 3/4Laboratory Abnormalities | ZIAGEN plusLamivudine plus Efavirenz(n = 324) | Zidovudine plusLamivudine plus Efavirenz (n = 325) |
+| --- | --- | --- |
+| Elevated CPK (>4 X ULN) | 8% | 8% |
+| Elevated ALT (>5 X ULN) | 6% | 6% |
+| Elevated AST (>5 X ULN) | 6% | 5% |
+| Hypertriglyceridemia (>750 mg/dL) | 6% | 5% |
+| Hyperamylasemia (>2 X ULN) | 4% | 5% |
+| Neutropenia (ANC <750/mm3) | 2% | 4% |
+| Anemia (Hgb ≤6.9 gm/dL) | <1% | 2% |
+| Thrombocytopenia (Platelets <50,000/mm3) | 1% | <1% |
+| Leukopenia (WBC ≤1,500/mm3) | <1% | 2% |
+| ULN = Upper limit of normal. n = Number of subjects assessed. |  |  |
 
 Laboratory abnormalities in CNA3005 are listed in Table 5.
 
 Table 5.
 Treatment-Emergent Laboratory Abnormalities (Grades 3-4) in CNA3005
 
-| Grade 3/4Laboratory Abnormalities | ZIAGEN plus Lamivudine/Zidovudine(n = 262) | Indinavir plus Lamivudine/Zidovudine(n = 264) |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Elevated CPK (>4 x ULN) | 18 (7%) | 18 (7%) |  |  |  |  |  |  |  |  |  |
-| ALT (>5.0 x ULN) | 16 (6%) | 16 (6%) |  |  |  |  |  |  |  |  |  |
-| Neutropenia (<750/mm3) | 13 (5%) | 13 (5%) |  |  |  |  |  |  |  |  |  |
-| Hypertriglyceridemia (>750 mg/dL) | 5 (2%) | 3 (1%) |  |  |  |  |  |  |  |  |  |
-| Hyperamylasemia (>2.0 x ULN) | 5 (2%) | 1 (<1%) |  |  |  |  |  |  |  |  |  |
-| Hyperglycemia (>13.9 mmol/L) | 2 (<1%) | 2 (<1%) |  |  |  |  |  |  |  |  |  |
-| Anemia (Hgb ≤6.9 g/dL) | 0 (0%) | 3 (1%) |  |  |  |  |  |  |  |  |  |
-| ULN = Upper limit of normal. n = Number of subjects assessed. |  |  |  |  |  |  |  |  |  |  |  |
+| Grade 3/4Laboratory Abnormalities | ZIAGEN plus Lamivudine/Zidovudine(n = 262) | Indinavir plus Lamivudine/Zidovudine(n = 264) |
+| --- | --- | --- |
+| Elevated CPK (>4 x ULN) | 18 (7%) | 18 (7%) |
+| ALT (>5.0 x ULN) | 16 (6%) | 16 (6%) |
+| Neutropenia (<750/mm3) | 13 (5%) | 13 (5%) |
+| Hypertriglyceridemia (>750 mg/dL) | 5 (2%) | 3 (1%) |
+| Hyperamylasemia (>2.0 x ULN) | 5 (2%) | 1 (<1%) |
+| Hyperglycemia (>13.9 mmol/L) | 2 (<1%) | 2 (<1%) |
+| Anemia (Hgb ≤6.9 g/dL) | 0 (0%) | 3 (1%) |
+| ULN = Upper limit of normal. n = Number of subjects assessed. |  |  |
 
 The frequencies of treatment-emergent laboratory abnormalities were comparable between treatment groups in CNA30021.
 

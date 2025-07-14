@@ -33,13 +33,13 @@ Proportions of subjects with plasma HIV-1 RNA less than 400 copies per mL (using
 Table 8.
 Outcomes of Randomized Treatment through Week 48 (CNA3005)
 
-| Outcome | ZIAGEN plus Lamivudine/Zidovudine(n = 262) | Indinavir plus Lamivudine/Zidovudine(n = 265) |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Respondera | 49% | 50% |  |  |  |
-| Virologic failureb | 31% | 28% |  |  |  |
-| Discontinued due to adverse reactions | 10% | 12% |  |  |  |
-| Discontinued due to other reasonsc | 11% | 10% |  |  |  |
-| a Subjects achieved and maintained confirmed HIV-1 RNA less than 400 copies per mL. b Includes viral rebound and failure to achieve confirmed less than 400 copies per mL by Week 48. c Includes consent withdrawn, lost to follow up, protocol violations, those with missing data, clinical progression, and other. |  |  |  |  |  |
+| Outcome | ZIAGEN plus Lamivudine/Zidovudine(n = 262) | Indinavir plus Lamivudine/Zidovudine(n = 265) |
+| --- | --- | --- |
+| Respondera | 49% | 50% |
+| Virologic failureb | 31% | 28% |
+| Discontinued due to adverse reactions | 10% | 12% |
+| Discontinued due to other reasonsc | 11% | 10% |
+| a Subjects achieved and maintained confirmed HIV-1 RNA less than 400 copies per mL. b Includes viral rebound and failure to achieve confirmed less than 400 copies per mL by Week 48. c Includes consent withdrawn, lost to follow up, protocol violations, those with missing data, clinical progression, and other. |  |  |
 
 Treatment response by plasma HIV-1 RNA strata is shown in Table 9.
 
@@ -67,13 +67,13 @@ The outcomes of randomized treatment are provided in Table 10.
 Table 10.
 Outcomes of Randomized Treatment through Week 48 (CNA30021)
 
-| Outcome | ZIAGEN 600 mg q.d. plus EPIVIR plus Efavirenz(n = 384) | ZIAGEN 300 mg b.i.d. plus EPIVIR plus Efavirenz(n = 386) |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Respondera | 64% (71%) | 65% (72%) |  |  |  |  |  |  |  |  |  |  |  |
-| Virologic failureb | 11% (5%) | 11% (5%) |  |  |  |  |  |  |  |  |  |  |  |
-| Discontinued due to adverse reactions | 13% | 11% |  |  |  |  |  |  |  |  |  |  |  |
-| Discontinued due to other reasonsc | 11% | 13% |  |  |  |  |  |  |  |  |  |  |  |
-| a Subjects achieved and maintained confirmed HIV-1 RNA less than 50 copies per mL (less than 400 copies per mL) through Week 48 (Roche AMPLICOR Ultrasensitive HIV-1 MONITOR standard test version 1.0). b Includes viral rebound, failure to achieve confirmed less than 50 copies per mL (less than 400 copies per mL) by Week 48, and insufficient viral load response. c Includes consent withdrawn, lost to follow up, protocol violations, clinical progression, and other. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Outcome | ZIAGEN 600 mg q.d. plus EPIVIR plus Efavirenz(n = 384) | ZIAGEN 300 mg b.i.d. plus EPIVIR plus Efavirenz(n = 386) |
+| --- | --- | --- |
+| Respondera | 64% (71%) | 65% (72%) |
+| Virologic failureb | 11% (5%) | 11% (5%) |
+| Discontinued due to adverse reactions | 13% | 11% |
+| Discontinued due to other reasonsc | 11% | 13% |
+| a Subjects achieved and maintained confirmed HIV-1 RNA less than 50 copies per mL (less than 400 copies per mL) through Week 48 (Roche AMPLICOR Ultrasensitive HIV-1 MONITOR standard test version 1.0). b Includes viral rebound, failure to achieve confirmed less than 50 copies per mL (less than 400 copies per mL) by Week 48, and insufficient viral load response. c Includes consent withdrawn, lost to follow up, protocol violations, clinical progression, and other. |  |  |
 
 After 48 weeks of therapy, the median CD4+ cell count increases from baseline were 188 cells per mm3 in the group receiving abacavir 600 mg once daily and 200 cells per mm3 in the group receiving abacavir 300 mg twice daily.
 Through Week 48, 6 subjects (2%) in the group receiving ZIAGEN 600 mg once daily (4 CDC classification C events and 2 deaths) and 10 subjects (3%) in the group receiving ZIAGEN 300 mg twice daily (7 CDC classification C events and 3 deaths) experienced clinical disease progression.
