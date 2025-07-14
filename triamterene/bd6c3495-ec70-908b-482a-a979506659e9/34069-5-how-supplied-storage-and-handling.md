@@ -35,6 +35,11 @@ TRIAMTERENE HYDROCHLOROTHIAZIDE TABLETS, USP
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
+| Manufactured by |  |
+| Piramal Pharma Limited, |  |
+| Plot No: 67-70 Sector-2 Pithampur 454775 |  |
+| Dist. Dhar, Madhya Pradesh, INDIA |  |
+| Mfg Lic. No.: 25/10/92 |  |
 
 Revised September 2020
 
