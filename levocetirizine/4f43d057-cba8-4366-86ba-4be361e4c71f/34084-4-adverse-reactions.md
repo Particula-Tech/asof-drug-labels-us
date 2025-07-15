@@ -1,6 +1,10 @@
 # 6 ADVERSE REACTIONS
 
-Use of levocetirizine dihydrochloride has been associated with somnolence, fatigue, asthenia, and urinary retention [see Warnings and Precautions (5)].
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Somnolence [see Warnings and Precautions (5.1)]
+- Urinary Retention [see Warnings and Precautions (5.2)]
+- Risk of New Onset Pruritus After Discontinuation of Levocetirizine Dihydrochloride [see Warnings and Precautions (5.3)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -111,7 +115,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Psychiatric disorders: aggression and agitation, depression, hallucinations, insomnia, nightmare, suicidal ideation
 - Renal and urinary disorders: dysuria, urinary retention
 - Respiratory, thoracic, and mediastinal disorders: dyspnea
-- Skin and subcutaneous tissue disorders: angioedema, fixed drug eruption, pruritus, rash and urticaria
+- Skin and subcutaneous tissue disorders: angioedema, fixed drug eruption, pruritus, rash, urticaria, and new onset pruritus within a few days after discontinuation of levocetirizine dihydrochloride, usually after long-term use (e.g., few months to years) of levocetirizine dihydrochloride.
 
 Besides these reactions reported under treatment with levocetirizine dihydrochloride, other potentially severe adverse events have been reported from the postmarketing experience with cetirizine.
 Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with levocetirizine dihydrochloride.
@@ -121,4 +125,4 @@ Since levocetirizine is the principal pharmacologically active component of ceti
 - Nervous system disorders: extrapyramidal symptoms, myoclonus, orofacial dyskinesia, tic
 - Pregnancy, puerperium and perinatal conditions: stillbirth
 - Renal and urinary disorders: glomerulonephritis
-- Skin and subcutaneous tissue disorders: acute generalized exanthematous pustulosis (AGEP); rebound pruritus - pruritus within a few days after discontinuation of cetirizine, usually after long-term use (e.g. months to years) of cetirizine.
+- Skin and subcutaneous tissue disorders: acute generalized exanthematous pustulosis (AGEP)

@@ -15,8 +15,14 @@ In children 6 to 11 years of age the recommended dose is 2.5 mg once daily in th
 In children 6 months to 5 years of age, the recommended dose is 1.25 mg once daily in the evening.
 Advise patients to not ingest more than the recommended dose of levocetirizine dihydrochloride tablets because of the increased risk of somnolence at higher doses.
 
+Risk of New Onset Pruritus After Discontinuation of Levocetirizine Dihydrochloride Tablets
+
+Inform patients pruritus has occurred within a few days of discontinuing levocetirizine dihydrochloride among patients who used levocetirizine dihydrochloride long-term (e.g., few months to years).
+Pruritus may improve with restarting or tapering levocetirizine dihydrochloride [see Warnings and Precautions (5.3)].
+Advise patients to seek medical advice if pruritus occurs.
+
 Manufactured In Croatia By: Pliva Hrvatska d.o.o.
 Zagreb, Croatia Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-S 4/2019
+T 5/2025
