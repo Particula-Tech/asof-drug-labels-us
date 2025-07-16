@@ -16,12 +16,12 @@ One patient diagnosed as acute abdominal symptom complex was found to have a "pa
 
 Other events (not necessarily drug related) reported in patients taking cholestyramine resin include:
 
-- Gastrointestinal: GI-rectal bleeding, black stools, hemorrhoidal bleeding, bleeding from known duodenal ulcer, dysphagia, hiccups, ulcer attack, sour taste, pancreatitis, rectal pain, diverticulitis.
-- Laboratory Test Changes: Liver function abnormalities.
+- Gastrointestinal:GI-rectal bleeding, black stools, hemorrhoidal bleeding, bleeding from known duodenal ulcer, dysphagia, hiccups, ulcer attack, sour taste, pancreatitis, rectal pain, diverticulitis.
+- Laboratory Test Changes:Liver function abnormalities.
 - Hematologic: Prolonged prothrombin time, ecchymosis, anemia.
 - Hypersensitivity: Urticaria, asthma, wheezing, shortness of breath.
-- Musculoskeletal: Backache, muscle and joint pains, arthritis.
-- Neurologic: Headache, anxiety, vertigo, dizziness, fatigue, tinnitus, syncope, drowsiness, femoral nerve pain, paresthesia.
-- Eye: Uveitis.
-- Renal: Hematuria, dysuria, burnt odor to urine, diuresis.
-- Miscellaneous: Weight loss, weight gain, increased libido, swollen glands, edema, dental bleeding, dental caries, erosion of tooth enamel, tooth discoloration.
+- Musculoskeletal:Backache, muscle and joint pains, arthritis.
+- Neurologic:Headache, anxiety, vertigo, dizziness, fatigue, tinnitus, syncope, drowsiness, femoral nerve pain, paresthesia.
+- Eye:Uveitis.
+- Renal:Hematuria, dysuria, burnt odor to urine, diuresis.
+- Miscellaneous:Weight loss, weight gain, increased libido, swollen glands, edema, dental bleeding, dental caries, erosion of tooth enamel, tooth discoloration.

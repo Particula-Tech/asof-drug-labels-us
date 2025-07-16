@@ -1,7 +1,7 @@
 # INDICATIONS AND USAGE
 
-1) Prevalite® (cholestyramine for oral suspension, USP) powder is indicated as adjunctive therapy to diet for the reduction of elevated serum cholesterol in patients with primary hypercholesterolemia (elevated low density lipoprotein [LDL] cholesterol) who do not respond adequately to diet.
-Prevalite® (cholestyramine for oral suspension, USP) powder may be useful to lower LDL cholesterol in patients who also have hypertriglyceridemia, but it is not indicated where hypertriglyceridemia is the abnormality of most concern.
+1) Prevalite ®(cholestyramine for oral suspension, USP) powder is indicated as adjunctive therapy to diet for the reduction of elevated serum cholesterol in patients with primary hypercholesterolemia (elevated low density lipoprotein [LDL] cholesterol) who do not respond adequately to diet.
+Prevalite ®(cholestyramine for oral suspension, USP) powder may be useful to lower LDL cholesterol in patients who also have hypertriglyceridemia, but it is not indicated where hypertriglyceridemia is the abnormality of most concern.
 
 Therapy with lipid-altering agents should be a component of multiple risk factor intervention in those individuals at significantly increased risk for atherosclerotic vascular disease due to hypercholesterolemia.
 Treatment should begin and continue with dietary therapy specific for the type of hyperlipoproteinemia determined prior to initiation of drug therapy.
@@ -21,20 +21,20 @@ A favorable trend in cholesterol reduction should occur during the first month o
 The therapy should be continued to sustain cholesterol reduction.
 If adequate cholesterol reduction is not attained, increasing the dosage of cholestyramine resin or adding other lipid-lowering agents in combination with cholestyramine resin should be considered.
 
-Since the goal of treatment is to lower LDL-C, the NCEP4 recommends that LDL-C levels be used to initiate and assess treatment response.
+Since the goal of treatment is to lower LDL-C, the NCEP 4recommends that LDL-C levels be used to initiate and assess treatment response.
 If LDL-C levels are not available then Total-C alone may be used to monitor long-term therapy.
 A lipoprotein analysis (including LDL-C determination) should be carried out once a year.
 The NCEP treatment guidelines are summarized below.
 
-| Definite Atherosclerotic DiseaseCoronary heart disease or peripheral vascular disease (including symptomatic carotid artery disease) | Two or More Other Risk FactorsOther risk factors for coronary heart disease (CHD) include: age (males ≥45 years; females: ≥55 years or premature menopause without estrogen replacement therapy); family history of premature CHD; current cigarette smoking; hypertension; confirmed HDL-C <35 mg/dL (<0.91 mmol/L); and diabetes mellitus. Subtract one risk factor if HDL-C is ≥60 mg/dL (≥1.6 mmol/L). | Initiation Level | Goal |
+| Definite Atherosclerotic Disease Coronary heart disease or peripheral vascular disease (including symptomatic carotid artery disease) | Two or More Other Risk Factors Other risk factors for coronary heart disease (CHD) include: age (males ≥45 years; females: ≥55 years or premature menopause without estrogen replacement therapy); family history of premature CHD; current cigarette smoking; hypertension; confirmed HDL-C <35 mg/dL (<0.91 mmol/L); and diabetes mellitus. Subtract one risk factor if HDL-C is ≥60 mg/dL (≥1.6 mmol/L). | Initiation Level | Goal |
 | --- | --- | --- | --- |
 |  |  | LDL-Cholesterol mg/dL (mmol/L) |  |
 | No | No | ≥190 (≥4.9) | <160 (<4.1) |
 | No | Yes | ≥160 (≥4.1) | <130 (<3.4) |
 | Yes | Yes or No | ≥130 (≥3.4) | ≤100 (≤2.6) |
 
-Cholestyramine resin monotherapy has been demonstrated to retard the rate of progression2,3 and increase the rate of regression3 of coronary atherosclerosis.
+Cholestyramine resin monotherapy has been demonstrated to retard the rate of progression 2,3and increase the rate of regression 3of coronary atherosclerosis.
 
-2) Prevalite® (cholestyramine for oral suspension, USP) powder is indicated for the relief of pruritus associated with partial biliary obstruction.
+2) Prevalite ®(cholestyramine for oral suspension, USP) powder is indicated for the relief of pruritus associated with partial biliary obstruction.
 Cholestyramine resin has been shown to have a variable effect on serum cholesterol in these patients.
 Patients with primary biliary cirrhosis may exhibit an elevated cholesterol as part of their disease.

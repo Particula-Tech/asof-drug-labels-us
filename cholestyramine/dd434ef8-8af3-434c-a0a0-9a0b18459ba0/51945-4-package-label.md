@@ -2,9 +2,9 @@
 
 NDC 0245-0036-23
 
-Prevalite® Powder (Cholestyramine for Oral Suspension, USP) Orange Flavor
+Prevalite ® Powder (Cholestyramine for Oral Suspension, USP) Orange Flavor
 
-4 grams cholestyramine resin USP, per scoopful†
+4 grams cholestyramine resin USP, per scoopful †
 
 Contains 231 g (168 g anhydrous cholestyramine resin)
 

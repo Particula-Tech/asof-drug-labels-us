@@ -1,13 +1,13 @@
 # WARNING
 
-PHENYLKETONURICS: PREVALITE® CONTAINS 14.1 mg PHENYLALANINE PER 5.5 GRAM DOSE.
+PHENYLKETONURICS: PREVALITE ®CONTAINS 14.1 mg PHENYLALANINE PER 5.5 GRAM DOSE.
 
 # PRECAUTIONS
 
 ## General
 
 Chronic use of cholestyramine resin may be associated with increased bleeding tendency due to hypoprothrombinemia associated with Vitamin K deficiency.
-This will usually respond promptly to parenteral Vitamin K1 and recurrences can be prevented by oral administration of Vitamin K1.
+This will usually respond promptly to parenteral Vitamin K 1and recurrences can be prevented by oral administration of Vitamin K 1.
 Reduction of serum or red cell folate has been reported over long term administration of cholestyramine resin.
 Supplementation with folic acid should be considered in these cases.
 
@@ -27,7 +27,7 @@ Constipation associated with cholestyramine resin may aggravate hemorrhoids.
 ## Information for Patients
 
 Inform your physician if you are pregnant or plan to become pregnant or are breast-feeding.
-Drink plenty of fluids and mix each 5.5 gram dose of Prevalite® (cholestyramine for oral suspension, USP) powder in at least 2 to 3 ounces of fluid before taking.
+Drink plenty of fluids and mix each 5.5 gram dose of Prevalite ®(cholestyramine for oral suspension, USP) powder in at least 2 to 3 ounces of fluid before taking.
 Sipping or holding the resin suspension in the mouth for prolonged periods may lead to changes in the surface of the teeth resulting in discoloration, erosion of enamel or decay; good oral hygiene should be maintained.
 
 ## Laboratory Tests
@@ -47,7 +47,7 @@ The discontinuance of cholestyramine resin could pose a hazard to health if a po
 
 Because cholestyramine binds bile acids, cholestyramine resin may interfere with normal fat digestion and absorption and thus may prevent absorption of fat soluble vitamins such as A, D, E and K. When cholestyramine resin is given for long periods of time, concomitant supplementation with water-miscible (or parenteral) forms of fat-soluble vitamins should be considered.
 
-SINCE CHOLESTYRAMINE RESIN MAY BIND OTHER DRUGS GIVEN CONCURRENTLY, IT IS RECOMMENDED THAT PATIENTS TAKE OTHER DRUGS AT LEAST 1 HOUR BEFORE OR 4 TO 6 HOURS AFTER CHOLESTYRAMINE RESIN (OR AT AS GREAT AN INTERVAL AS POSSIBLE) TO AVOID IMPEDING THEIR ABSORPTION.
+SINCE CHOLESTYRAMINE RESIN MAY BIND OTHER DRUGS GIVEN CONCURRENTLY, IT IS RECOMMENDED THAT PATIENTS TAKE OTHER DRUGS AT LEAST 1 HOUR BEFOREOR 4 TO 6 HOURS AFTERCHOLESTYRAMINE RESIN (OR AT AS GREAT AN INTERVAL AS POSSIBLE) TO AVOID IMPEDING THEIR ABSORPTION.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -57,7 +57,7 @@ The relevance of this laboratory observation from studies in rats to the clinica
 In the LRC-CPPT study referred to above, the total incidence of fatal and nonfatal neoplasms was similar in both treatment groups.
 When the many different categories of tumors are examined, various alimentary system cancers were somewhat more prevalent in the cholestyramine group.
 The small numbers and the multiple categories prevent conclusions from being drawn.
-However, in view of the fact that cholestyramine resin is confined to the GI tract and not absorbed and in light of the animal experiments referred to above, a six-year post-trial follow-up of the LRC-CPPT5 patient population has been completed (a total of 13.4 years of in-trial plus post-trial follow-up) and revealed no significant difference in the incidence of cause-specific mortality or cancer morbidity between cholestyramine and placebo treated patients.
+However, in view of the fact that cholestyramine resin is confined to the GI tract and not absorbed and in light of the animal experiments referred to above, a six-year post-trial follow-up of the LRC-CPPT 5patient population has been completed (a total of 13.4 years of in-trial plus post-trial follow-up) and revealed no significant difference in the incidence of cause-specific mortality or cancer morbidity between cholestyramine and placebo treated patients.
 
 ## Pregnancy
 
@@ -72,9 +72,9 @@ The possible lack of proper vitamin absorption described in the "Pregnancy" sect
 
 ## Pediatric Use
 
-Although an optimal dosage schedule has not been established, standard texts(6,7) list a usual pediatric dose of 240 mg/kg/day of anhydrous cholestyramine resin in two to three divided doses, normally not to exceed 8 g/day with dose titration based on response and tolerance.
+Although an optimal dosage schedule has not been established, standard texts (6,7)list a usual pediatric dose of 240 mg/kg/day of anhydrous cholestyramine resin in two to three divided doses, normally not to exceed 8 g/day with dose titration based on response and tolerance.
 
-In calculating pediatric dosages, 80 mg of anhydrous cholestyramine resin are contained in 110 mg of Prevalite®.
+In calculating pediatric dosages, 80 mg of anhydrous cholestyramine resin are contained in 110 mg of Prevalite ®.
 
 The effects of long-term drug administration, as well as its effect in maintaining lowered cholesterol levels in pediatric patients, are unknown.
 Also see ADVERSE REACTIONS.
