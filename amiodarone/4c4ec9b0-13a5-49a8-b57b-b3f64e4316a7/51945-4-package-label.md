@@ -2,7 +2,7 @@
 
 NDC 0245-0144-30
 
-Pacerone® (Amiodarone Hydrochloride Tablets, USP)
+Pacerone ® (Amiodarone Hydrochloride Tablets, USP)
 
 100 mg
 
@@ -18,7 +18,7 @@ UPSHER-SMITH
 
 NDC 0245-0147-60
 
-Pacerone® (Amiodarone Hydrochloride Tablets, USP)
+Pacerone ® (Amiodarone Hydrochloride Tablets, USP)
 
 200 mg
 
@@ -34,7 +34,7 @@ UPSHER-SMITH
 
 NDC 0245-1645-30
 
-Pacerone® (Amiodarone Hydrochloride Tablets, USP)
+Pacerone ® (Amiodarone Hydrochloride Tablets, USP)
 
 400 mg
 

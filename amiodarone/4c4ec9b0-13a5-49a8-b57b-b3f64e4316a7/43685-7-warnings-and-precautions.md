@@ -50,7 +50,7 @@ Asymptomatic microdeposits alone are not a reason to reduce dose or discontinue 
 
 ## 5.6 Thyroid Abnormalities
 
-Amiodarone hydrochloride inhibits peripheral conversion of thyroxine (T4) to triiodothyronine (T3) and may cause increased thyroxine levels, decreased T3 levels, and increased levels of inactive reverse T3 (rT3) in clinically euthyroid patients.
+Amiodarone hydrochloride inhibits peripheral conversion of thyroxine (T 4) to triiodothyronine (T 3) and may cause increased thyroxine levels, decreased T 3levels, and increased levels of inactive reverse T 3(rT 3) in clinically euthyroid patients.
 Amiodarone hydrochloride can cause either hypothyroidism (reported in up to 10% of patients) or hyperthyroidism (occurring in about 2% of patients).
 Monitor thyroid function prior to treatment and periodically thereafter, particularly in elderly patients, and in any patient with a history of thyroid nodules, goiter, or other thyroid dysfunction.
 

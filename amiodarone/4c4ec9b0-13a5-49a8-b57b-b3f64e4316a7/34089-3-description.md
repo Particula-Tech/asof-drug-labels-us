@@ -9,9 +9,9 @@ Amiodarone hydrochloride, USP is a benzofuran derivative: 2-butyl-3-benzofuranyl
 
 The structural formula is as follows:
 
-C25H29I2NO3 ∙ HCl Molecular Weight: 681.8
+C 25H 29I 2NO 3∙ HCl Molecular Weight: 681.8
 
-C25H29I2NO3 ∙ HCl Molecular Weight: 681.8
+C 25H 29I 2NO 3∙ HCl Molecular Weight: 681.8
 
 Amiodarone hydrochloride, USP is a white to cream-colored crystalline powder.
 It is slightly soluble in water, soluble in alcohol, and freely soluble in chloroform.
