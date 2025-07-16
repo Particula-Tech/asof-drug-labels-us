@@ -1,12 +1,21 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-SINEQUAN is available as capsules containing doxepin HCl equivalent to:
+How Supplied
 
-10 mg–100's (NDC 0049-5340-66) 25 mg–100's (NDC 0049-5350-66) 50 mg–100's (NDC 0049-5360-66) 75 mg–100's (NDC 0049-5390-66) 100 mg–100's (NDC 0049-5380-66) 150 mg–50's (NDC 0049-5370-50)
+See Table 3 for strengths and package configurations for SINEQUAN (doxepin hydrochloride) capsules.
 
-SINEQUAN Oral Concentrate is available in 120 mL bottles (NDC 0049-5100-47) with an accompanying dropper calibrated at 5 mg, 10 mg, 15 mg, 20 mg, and 25 mg.
-Each mL contains doxepin HCl equivalent to 10 mg doxepin.
-Just prior to administration, SINEQUAN Oral Concentrate should be diluted with approximately 120 mL of water, whole or skimmed milk, or orange, grapefruit, tomato, prune or pineapple juice.
-SINEQUAN Oral Concentrate is not physically compatible with a number of carbonated beverages.
-For those patients requiring antidepressant therapy who are on methadone maintenance, SINEQUAN Oral Concentrate and methadone syrup can be mixed together with Gatorade®, lemonade, orange juice, sugar water, Tang®, or water; but not with grape juice.
-Preparation and storage of bulk dilutions is not recommended.
+Table 3: SINEQUAN Capsule Strengths and Package Configurations
+
+| StrengthStrength of doxepin | Capsule Top and Body Color | Capsule Imprinting in Black | Bottle Count | NDC |
+| --- | --- | --- | --- | --- |
+| 10 mg | Scarlet opaque top/pink opaque body | “Roerig 534” and “SINEQUAN” | 100 | NDC 0049‑5340‑66 |
+| 25 mg | Blue opaque top/pink opaque body | “Roerig 535” and “SINEQUAN” | 100 | NDC 0049-5350-66 |
+| 50 mg | Pink opaque top/flesh opaque body | “Roerig 536” and “SINEQUAN” | 100 | NDC 0049-5360-66 |
+| 75 mg | Flesh opaque top/flesh opaque body | “Roerig 539” and “SINEQUAN” | 100 | NDC 0049-5390-66 |
+| 100 mg | Blue opaque top/flesh opaque body | “Roerig 538” and “SINEQUAN” | 100 | NDC 0049-5380-66 |
+| 150 mg | Blue opaque top/blue opaque body | “Roerig 537” and “SINEQUAN” | 50 | NDC 0049-5370-50 |
+
+SINEQUAN (doxepin hydrochloride) oral solution.
+Each mL of oral solution contains 10 mg of doxepin as a clear, colorless solution and is supplied in 120 mL bottles (NDC 0049-5100-47) with an accompanying dropper calibrated at 5 mg, 10 mg, 15 mg, 20 mg, and 25 mg.
+
+Store SINEQUAN at controlled room temperature between 20°C to 25°C (68°F to 77°F).

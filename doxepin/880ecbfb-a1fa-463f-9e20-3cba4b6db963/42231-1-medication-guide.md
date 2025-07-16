@@ -1,58 +1,21 @@
-# Medication Guide Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
-
-Read the Medication Guide that comes with you or your family member's antidepressant medicine.
-This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
-
-Talk to your, or your family member's, healthcare provider about:
-
-- •all risks and benefits of treatment with antidepressant medicines
-- •all treatment choices for depression or other serious mental illness
-
-What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
-
-1.
-Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-
-2.
-Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-Some people may have a particularly high risk of having suicidal thoughts or actions.
-These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-
-3.
-How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-
-- •Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-  This is very important when an antidepressant medicine is started or when the dose is changed.
-- •Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-- •Keep all follow-up visits with the healthcare provider as scheduled.
-  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
-
-Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
-
-| •thoughts about suicide or dying•attempts to commit suicide•new or worse depression•new or worse anxiety•feeling very agitated or restless•panic attacks•trouble sleeping (insomnia)•new or worse irritability•acting aggressive, being angry, or violent•acting on dangerous impulses•an extreme increase in activity and talking (mania)other unusual changes in behavior or mood | •Visual problems •eye pain•changes in vision•swelling or redness in or around the eye Only some people are at risk for these problems. You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are. |
-| --- | --- |
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-
-What else do I need to know about antidepressant medicines?
-
-- •Never stop an antidepressant medicine without first talking to a healthcare provider.
-  Stopping an antidepressant medicine suddenly can cause other symptoms.
-- •Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression and also the risks of not treating it.
-  Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-- •Antidepressant medicines have other side effects.
-  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
-- •Antidepressant medicines can interact with other medicines.
-  Know all of the medicines that you or your family member takes.
-  Keep a list of all medicines to show the healthcare provider.
-  Do not start new medicines without first checking with your healthcare provider.
-- •Not all antidepressant medicines prescribed for children are FDA approved for use in children.
-  Talk to your child's healthcare provider for more information.
-
-This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
-
-LAB-0749-1.0
-
-Revised March 2023
+| MEDICATION GUIDESINEQUAN® (SIN’ eh-kwon)(doxepin hydrochloride) capsulesfor oral useSINEQUAN® (SIN’ eh-kwon)(doxepin hydrochloride) oral solution |  |  |
+| --- | --- | --- |
+| What is the most important information I should know about SINEQUAN?SINEQUAN can cause serious side effects, including:Increased risk of suicidal thoughts and actions. SINEQUAN and other antidepressant medicines may increase the risk of suicidal thoughts and actions in people 24 years of age and younger, especially within the first few months of treatment or when the dose is changed. SINEQUAN is not for use in children.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member? •Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts, or feelings, or if you develop suicidal thoughts or actions. This is very important when an antidepressant medicine is started or when the dose is changed.•Call your health care provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings or if you develop suicidal thoughts or actions.•Keep all follow-up visits with your health care provider as scheduled. Call your health care provider between visits as needed, especially if you have concerns about symptoms. Call your health care provider or get emergency help right away if you or a family member have any of the following symptoms, especially if they are new, worse, or worry you: |  |  |
+| osuicide attemptsoacting aggressive, being angry, or violentonew or worse depression opanic attacksonew or worse irritabilityoan extreme increase in activity or talking (mania) |  | othoughts about suicide or dyingoacting on dangerous impulsesonew or worse anxiety ofeeling very agitated or restlessotrouble sleeping oother unusual changes in behavior or mood |
+| See “What are the possible side effects of SINEQUAN?” for more information about side effects. |  |  |
+| What is SINEQUAN?SINEQUAN is a prescription medicine used to treat adults with a certain type of depression called major depressive disorder (MDD).It is not known if SINEQUAN is safe and effective for use in children. |  |  |
+| Do not take SINEQUAN if you: •are allergic to doxepin, or any of the ingredients in SINEQUAN. See the end of this Medication Guide for a complete list of ingredients in SINEQUAN•have glaucoma•have or have had trouble urinating•are taking, or have stopped taking within the last 14 days, a medicine called a Monoamine Oxidase Inhibitor (MAOI), including the antibiotic linezolid or intravenous methylene blueoAsk your health care provider or pharmacist if you are not sure if you are taking an MAOI, including the antibiotic linezolid or intravenous methylene blueoDo not start taking an MAOI for at least 14 days after you stop treatment with SINEQUAN |  |  |
+| Before taking SINEQUAN, tell your health care provider about all your medical conditions, including if you: •have, or have a family history of bipolar disorder, mania, or hypomania•have or had depression, suicidal thoughts or behavior•have kidney or liver problems•have or had seizures or convulsions•are pregnant or plan to become pregnant. Taking SINEQUAN during your third trimester of pregnancy may harm your unborn baby. Tell your health care provider if you become pregnant or think you may be pregnant during treatment with SINEQUANoBabies born to mothers who take certain medicines, including SINEQUAN, during the third trimester of pregnancy may have symptoms of sedation, such as breathing problems, sluggishness, low muscle tone, feeding problems, and withdrawal symptoms. Talk to your health care provider about the risks to your unborn or newborn baby if you take SINEQUAN during pregnancyoThere is a pregnancy registry for women who are exposed to SINEQUAN during pregnancy. The purpose of this registry is to collect information about the health of women exposed to SINEQUAN and their babies. If you become pregnant during treatment with SINEQUAN, talk to your health care provider about registering with the National Pregnancy Registry for Antidepressants. You can register by calling 1-866-961-2388 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/•are breastfeeding or plan to breastfeed. SINEQUAN can pass into your breast milk and harm your baby. Do not breastfeed during treatment with SINEQUAN. Talk to your health care provider about the best way to feed your baby during treatment with SINEQUAN Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. SINEQUAN and other medicines may affect each other causing possible serious side effects. SINEQUAN may affect the way other medicines work and other medicines may affect the way SINEQUAN works. Especially tell your health care provider if you take: •medicines used to treat mood, anxiety, psychotic, or thought disorders, including selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs)•medicines to treat migraine headaches known as triptans•other tricyclic antidepressants•tetracyclic antidepressants•opioids•lithium•tryptophan•buspirone•St. John’s Wort•carbamazepine•cimetidine•tolazamide•medicines that can cause drowsiness Ask your health care provider if you are not sure if you are taking any of these medicines. Your health care provider can tell you if it is safe to take SINEQUAN with your other medicines.Do not start or stop any other medicines during treatment with SINEQUAN without first talking to your healthcare provider.Know the medicines you take. Keep a list of them to show to your healthcare providers when you start to take a new medicine. |  |  |
+| How should I take SINEQUAN? •Take SINEQUAN exactly as your health care provider tells you to take it. Do not change your dose or stop taking SINEQUAN without first talking to your healthcare provider.•Your health care provider may need to change the dose of SINEQUAN until it is the right dose for you.•For people taking SINEQUAN oral solution: oUse the calibrated dropper that comes with SINEQUAN oral solution to measure the prescribed dose. The calibrated dropper has markings at 5 mg, 10 mg, 15 mg, 20 mg, and 25 mg.oMix your prescribed dose with 120 mL (4 ounces) of water, whole or skimmed milk, or orange, grapefruit, tomato, prune, or pineapple juice. Do not mix with other liquids.oTake the dose right away after mixing. •If you miss a dose of SINEQUAN, take the missed dose as soon as you remember. If it is almost time for the next dose, do not take the missed dose and take your next dose at the regular time. Do not take two doses of SINEQUAN at the same time.•If you take too much SINEQUAN, call your healthcare provider or Poison Help Line at 1‑800‑222‑1222 or go to the nearest hospital emergency room right away. |  |  |
+| What should I avoid while taking SINEQUAN? •Do not drive a car or another motor vehicle, operate heavy machinery, or do dangerous activities while taking SINEQUAN. SINEQUAN can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.•Do not drink alcohol during treatment with SINEQUAN. Drinking alcohol during treatment with SINEQUAN can increase your risk of having serious side effects. |  |  |
+| What are the possible side effects of SINEQUAN?SINEQUAN can cause serious side effects, including: •See “What is the most important information I should know about SINEQUAN?”•Serotonin syndrome. Taking SINEQUAN can cause a potentially life-threatening problem called serotonin syndrome. The risk of developing serotonin syndrome is increased when SINEQUAN is taken with certain other medicines. See “Do not take SINEQUAN if you:” Stop taking SINEQUAN and call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome: |  |  |
+|  | oagitationoconfusionofast heartbeatodizzinessoflushingoshaking (tremors), stiff muscles, or muscle twitchingoseizures | oseeing or hearing things that are not real (hallucinations)ocomaochanges in blood pressureosweatingohigh body temperature (hyperthermia)oloss of coordinationonausea, vomiting, diarrhea |
+| •Eye problems (angle-closure glaucoma). SINEQUAN may cause a type of eye problem called angle-closure glaucoma in people with certain eye problems. You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are. Call your healthcare provider if you have eye pain, changes in your vision, or swelling or redness in or around the eye. •Manic episodes. Manic episodes may happen in people with bipolar disorder who take SINEQUAN. Symptoms may include: |  |  |
+|  | ogreatly increased energyoracing thoughtsounusually grand ideasotalking more or faster than usual | osevere trouble sleepingoreckless behavioroexcessive happiness or irritability |
+| •Seizures (convulsions) The most common side effects of SINEQUAN include: |  |  |
+| •feeling overly sleepy•dry mouth•dizziness |  | •constipation•tiredness |
+| These are not all the possible side effects of SINEQUAN.Call your health care provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |  |  |
+| How should I store SINEQUAN? •Store SINEQUAN at controlled room temperature between 20°C to 25°C (68°F to 77°F).•Keep SINEQUAN and all medicines out of the reach of children. |  |  |
+| General Information about the safe and effective use of SINEQUAN.Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not take SINEQUAN for a condition for which it was not prescribed. Do not give SINEQUAN to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about SINEQUAN that is written for health professionals. |  |  |
+| What are the ingredients in SINEQUAN?Active ingredient: doxepin hydrochlorideInactive Ingredients for SINEQUAN Capsules: hard gelatin capsules (which may contain Blue 1, Red 3, Red 40, Yellow 10, and other inert ingredients); magnesium stearate; sodium lauryl sulfate; starch.Inactive Ingredients for SINEQUAN Oral Solution: glycerin; methylparaben; peppermint oil; propylparaben; water.LAB-0749-2.0For optional information about SINEQUAN call 1-800-438-1985 or go to www.pfizer.com. |  |  |
+| This Medication Guide has been approved by the U.S. Food and Drug Administration. Revised July 2025 |  |  |
