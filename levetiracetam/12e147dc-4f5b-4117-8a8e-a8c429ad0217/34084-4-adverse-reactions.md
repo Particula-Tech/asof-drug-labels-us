@@ -1,16 +1,16 @@
-# 6 ADVERSE REACTIONS
+# 6ADVERSE REACTIONS
 
 The following serious adverse reactions are discussed in more detail in other sections of labeling:
 
-- Behavioral Abnormalities and Psychotic Symptoms [see Warnings and Precautions (5.1)]
-- Suicidal Behavior and Ideation [see Warnings and Precautions (5.2)]
-- Somnolence and Fatigue [see Warnings and Precautions (5.3)]
-- Anaphylaxis and Angioedema [see Warnings and Precautions (5.4)]
-- Serious Dermatological Reactions [see Warnings and Precautions (5.5)]
-- Coordination Difficulties [see Warnings and Precautions (5.6)]
-- Hematologic Abnormalities [see Warnings and Precautions (5.8)]
+- Behavioral Abnormalities and Psychotic Symptoms [seeWarnings and Precautions (5.1)]
+- Suicidal Behavior and Ideation [seeWarnings and Precautions (5.2)]
+- Somnolence and Fatigue [seeWarnings and Precautions (5.3)]
+- Anaphylaxis and Angioedema [seeWarnings and Precautions (5.4)]
+- Serious Dermatological Reactions [seeWarnings and Precautions (5.5)]
+- Coordination Difficulties [seeWarnings and Precautions (5.6)]
+- Hematologic Abnormalities [seeWarnings and Precautions (5.8)]
 
-## 6.1 Clinical Trials Experience
+## 6.1Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
@@ -124,7 +124,7 @@ In addition, the following adverse reactions were seen in other controlled studi
 
 Comparison of Gender, Age and Race There are insufficient data for levetiracetam extended-release tablets to support a statement regarding the distribution of adverse reactions by gender, age, and race.
 
-## 6.2 Postmarketing Experience
+## 6.2Postmarketing Experience
 
 The following adverse reactions have been identified during postapproval use of immediate-release levetiracetam tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

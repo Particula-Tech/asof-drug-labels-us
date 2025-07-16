@@ -1,6 +1,6 @@
-# 12 CLINICAL PHARMACOLOGY
+# 12CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1Mechanism of Action
 
 The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown.
 
@@ -9,7 +9,7 @@ Experimental data indicate that this binding site is the synaptic vesicle protei
 Although the molecular significance of levetiracetam binding to synaptic vesicle protein SV2A is not understood, levetiracetam and related analogs showed a rank order of affinity for SV2A which correlated with the potency of their antiseizure activity in audiogenic seizure-prone mice.
 These findings suggest that the interaction of levetiracetam with the SV2A protein may contribute to the antiepileptic mechanism of action of the drug.
 
-## 12.2 Pharmacodynamics
+## 12.2Pharmacodynamics
 
 Effects on QTc Interval
 
@@ -18,10 +18,10 @@ The effect of immediate-release levetiracetam tablets on QTc prolongation was ev
 The upper bound of the 90% confidence interval for the largest placebo-adjusted, baseline-corrected QTc was below 10 milliseconds.
 Therefore, there was no evidence of significant QTc prolongation in this study.
 
-## 12.3 Pharmacokinetics
+## 12.3Pharmacokinetics
 
 Overview Bioavailability of levetiracetam extended-release tablets is similar to that of the immediate-release levetiracetam tablets.
-The pharmacokinetics (AUC and Cmax) were shown to be dose proportional after single dose administration of 1000 mg, 2000 mg, and 3000 mg extended-release levetiracetam.
+The pharmacokinetics (AUC and C max) were shown to be dose proportional after single dose administration of 1000 mg, 2000 mg, and 3000 mg extended-release levetiracetam.
 Plasma half-life of extended-release levetiracetam is approximately 7 hours.
 ELEPSIA XR 1500 mg tablets are bioequivalent to Keppra XR (levetiracetam) extended release tablets (2 tablets of 750 mg) in both fasted and fed states.
 
@@ -37,10 +37,10 @@ The half-life is increased in the elderly (primarily due to impaired renal clear
 
 Absorption and Distribution Extended-release levetiracetam peak plasma concentrations occur in about 4 hours.
 The time to peak plasma concentrations is about 3 hours longer with extended-release levetiracetam than with immediate-release tablets.
-After multiple dose levetiracetam extended-release tablets intake, extent of exposure (AUC0-24) was similar to extent of exposure after multiple dose immediate-release tablets intake.
-Cmax and Cmin were lower by 17% and 26% after multiple dose levetiracetam extended-release tablets intake in comparison to multiple dose immediate-release tablets intake.
+After multiple dose levetiracetam extended-release tablets intake, extent of exposure (AUC 0-24) was similar to extent of exposure after multiple dose immediate-release tablets intake.
+C maxand C minwere lower by 17% and 26% after multiple dose levetiracetam extended-release tablets intake in comparison to multiple dose immediate-release tablets intake.
 Intake of a high fat, high calorie breakfast before the administration of levetiracetam extended-release tablets resulted in a longer median time to peak.
-The median time to peak (Tmax) was 3 to 4.5 hours longer in the fed state.
+The median time to peak (T max) was 3 to 4.5 hours longer in the fed state.
 There was no effect on peak plasma concentration however; the extent of exposure (AUC) was 21 to 25% higher.
 
 Metabolism Levetiracetam is not extensively metabolized in humans.
@@ -55,7 +55,7 @@ The total body clearance is 0.96 mL/min/kg and the renal clearance is 0.6 mL/min
 The mechanism of excretion is glomerular filtration with subsequent partial tubular reabsorption.
 The metabolite ucb L057 is excreted by glomerular filtration and active tubular secretion with a renal clearance of 4 mL/min/kg.
 Levetiracetam elimination is correlated to creatinine clearance.
-Levetiracetam clearance is reduced in patients with impaired renal function [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+Levetiracetam clearance is reduced in patients with impaired renal function [seeDosage and Administration (2.2)andUse in Specific Populations (8.6)].
 
 Specific Populations Elderly There are insufficient pharmacokinetic data to specifically address the use of extended-release levetiracetam in the elderly population.
 
@@ -65,11 +65,11 @@ This is most likely due to the decrease in renal function in these subjects.
 
 Pediatric Patients An open label, multicenter, parallel-group, two-arm study was conducted to evaluate the pharmacokinetics of extended-release levetiracetam in pediatric patients (13 to 16 years old) and in adults (18 to 55 years old) with epilepsy.
 Levetiracetam extended-release tablets (1000 mg to 3000 mg) were administered once daily with a minimum of 4 days and a maximum of 7 days of treatment to 12 pediatric patients and 13 adults in the study.
-Dose-normalized steady-state exposure parameters, Cmax and AUC, were comparable between pediatric and adult patients.
+Dose-normalized steady-state exposure parameters, C maxand AUC, were comparable between pediatric and adult patients.
 
-Pregnancy Levetiracetam levels may decrease during pregnancy [see Warnings and Precautions (5.9) and Use in Specific Populations (8.1)].
+Pregnancy Levetiracetam levels may decrease during pregnancy [seeWarnings and Precautions (5.9)andUse in Specific Populations (8.1)].
 
-Gender When given in a single dose, extended-release levetiracetam Cmax was 21 to 30% higher and AUC was 8 to 18% higher in women (N=12) compared to men (N=12).
+Gender When given in a single dose, extended-release levetiracetam C maxwas 21 to 30% higher and AUC was 8 to 18% higher in women (N=12) compared to men (N=12).
 However, clearances adjusted for body weight were comparable.
 Similar results were observed in a multiple dose study.
 
@@ -81,19 +81,19 @@ Renal Impairment The effect of levetiracetam extended-release tablets on renally
 However, it is expected that the effect on ELEPSIA XR-treated patients would be similar to that seen in controlled studies of immediate-release levetiracetam tablets.
 
 The disposition of immediate-release levetiracetam was studied in adult subjects with varying degrees of renal function.
-Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CLcr = 50 to 80 mL/min), 50% in the moderate group (CLcr = 30 to 50 mL/min), and 60% in the severe renal impairment group (CLcr <30 mL/min) [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
+Total body clearance of levetiracetam is reduced in patients with impaired renal function by 40% in the mild group (CL cr= 50 to 80 mL/min), 50% in the moderate group (CL cr= 30 to 50 mL/min), and 60% in the severe renal impairment group (CL cr<30 mL/min) [seeDosage and Administration (2.2)andUse in Specific Populations (8.6)].
 Clearance of levetiracetam is correlated with creatinine clearance.
 
-In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CLcr >80 mL/min).
+In anuric (end stage renal disease) patients, the total body clearance decreased 70% compared to normal subjects (CL cr>80 mL/min).
 Approximately 50% of the pool of levetiracetam in the body is removed during a standard 4- hour hemodialysis procedure.
 
 Hepatic Impairment In subjects with mild (Child-Pugh A) to moderate (Child-Pugh B) hepatic impairment, the pharmacokinetics of levetiracetam were unchanged.
 In patients with severe hepatic impairment (Child-Pugh C), total body clearance was 50% that of normal subjects, but decreased renal clearance accounted for most of the decrease.
 No dose adjustment is needed for patients with hepatic impairment.
 
-Drug Interactions In vitro data on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
-Levetiracetam and its major metabolite, at concentrations well above Cmax levels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase, or UDP-glucuronidation enzymes.
-In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
+Drug Interactions In vitrodata on metabolic interactions indicate that levetiracetam is unlikely to produce, or be subject to, pharmacokinetic interactions.
+Levetiracetam and its major metabolite, at concentrations well above C maxlevels achieved within the therapeutic dose range, are neither inhibitors of, nor high affinity substrates for, human liver cytochrome P450 isoforms, epoxide hydrolase, or UDP-glucuronidation enzymes.
+In addition, levetiracetam does not affect the in vitroglucuronidation of valproic acid.
 
 Potential pharmacokinetic interactions of or with levetiracetam were assessed in clinical pharmacokinetic studies (phenytoin, valproate, warfarin, digoxin, oral contraceptive, probenecid) and through pharmacokinetic screening with immediate-release levetiracetam tablets in the placebo-controlled clinical studies in epilepsy patients.
 The potential for drug interactions for ELEPSIA XR is expected to be essentially the same as that with immediate-release levetiracetam tablets.
@@ -119,6 +119,6 @@ Prothrombin time was not affected by levetiracetam.
 Coadministration of warfarin did not affect the pharmacokinetics of levetiracetam.
 
 Probenecid Probenecid, a renal tubular secretion blocking agent, administered at a dose of 500 mg four times a day, did not change the pharmacokinetics of levetiracetam 1000 mg twice daily.
-Css max of the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
+C ss maxof the metabolite, ucb L057, was approximately doubled in the presence of probenecid while the fraction of drug excreted unchanged in the urine remained the same.
 Renal clearance of ucb L057 in the presence of probenecid decreased 60%, probably related to competitive inhibition of tubular secretion of ucb L057.
 The effect of immediate-release levetiracetam tablets on probenecid was not studied.

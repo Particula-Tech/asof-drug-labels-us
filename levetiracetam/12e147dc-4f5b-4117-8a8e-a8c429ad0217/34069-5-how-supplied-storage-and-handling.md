@@ -1,6 +1,6 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+## 16.1How Supplied
 
 ELEPSIA XR tablets, 1000 mg are oval biconvex, coated, blue and white to off-white, bilayer tablet with drilled portal on the blue layer; imprinted with "574" with black ink on one side and plain on the other side.
 They are supplied as follows: Bottles of 30 with child resistant cap…...................
@@ -20,7 +20,7 @@ NDC 47133-575-88
 Bottles of 500 with non-child resistant cap……….
 NDC 47133-575-13
 
-## 16.2 Storage and Handling
+## 16.2Storage and Handling
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F) [see USP Controlled Room Temperature].
 Dispense in tight, light-resistant container.

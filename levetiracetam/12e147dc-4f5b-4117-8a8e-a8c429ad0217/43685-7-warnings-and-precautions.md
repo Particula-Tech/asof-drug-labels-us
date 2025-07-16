@@ -1,6 +1,6 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
-## 5.1 Behavioral Abnormalities and Psychotic Symptoms
+## 5.1Behavioral Abnormalities and Psychotic Symptoms
 
 ELEPSIA XR may cause behavioral abnormalities and psychotic symptoms.
 Patients treated with ELEPSIA XR should be monitored for psychiatric signs and symptoms.
@@ -18,7 +18,7 @@ Therefore, certain adverse reactions observed in the immediate-release levetirac
 
 Immediate-Release Levetiracetam Tablets A total of 13% of adult patients and 38% of pediatric patients (4 to 16 years of age) treated with immediate-release levetiracetam tablets experienced non-psychotic behavioral symptoms (reported as aggression, agitation, anger, anxiety, apathy, depersonalization, depression, emotional lability, hostility, hyperkinesias, irritability, nervousness, neurosis, and personality disorder), compared to 6% and 19% of adult and pediatric patients on placebo.
 A randomized, double-blind, placebo-controlled study was performed to assess the neurocognitive and behavioral effects of immediate-release levetiracetam tablets as adjunctive therapy in pediatric patients (4 to 16 years of age).
-An exploratory analysis suggested a worsening in aggressive behavior in patients treated with immediate-release levetiracetam tablets in that study [see Use in Specific Populations (8.4)].
+An exploratory analysis suggested a worsening in aggressive behavior in patients treated with immediate-release levetiracetam tablets in that study [seeUse in Specific Populations (8.4)].
 
 A total of 1.7% of adult patients treated with immediate-release levetiracetam tablets discontinued treatment due to behavioral adverse reactions, compared to 0.2% of placebo-treated patients.
 The treatment dose was reduced in 0.8% of adult patients treated with immediate-release levetiracetam tablets, compared to 0.5% of placebo-treated patients.
@@ -26,7 +26,7 @@ Overall, 11% of pediatric patients treated with immediate-release levetiracetam 
 
 One percent of adult patients and 2% of pediatric patients (4 to 16 years of age) treated with immediate-release levetiracetam tablets experienced psychotic symptoms, compared to 0.2% and 2%, respectively, in adult and pediatric placebo-treated patients.
 In the controlled study that assessed the neurocognitive and behavioral effects of immediate-release levetiracetam tablets in pediatric patients 4 to 16 years of age, 1.6% levetiracetam -treated patients experienced paranoia, compared to no placebo-treated patients.
-There were 3.1% patients treated with immediate-release levetiracetam tablets who experienced confusional state, compared to no placebo-treated patients [see Use in Specific Populations (8.4)].
+There were 3.1% patients treated with immediate-release levetiracetam tablets who experienced confusional state, compared to no placebo-treated patients [seeUse in Specific Populations (8.4)].
 
 Psychotic Symptoms
 
@@ -36,7 +36,7 @@ Two (0.3%) immediate-release levetiracetam tablets-treated adult patients were h
 Both events, reported as psychosis, developed within the first week of treatment and resolved within 1 to 2 weeks following treatment discontinuation.
 There was no difference between drug and placebo-treated patients in the incidence of pediatric patients who discontinued treatment due to psychotic and non-psychotic adverse reactions.
 
-## 5.2 Suicidal Behavior and Ideation
+## 5.2Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including ELEPSIA XR, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -68,7 +68,7 @@ Anyone considering prescribing ELEPSIA XR or any other AED must balance the risk
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-## 5.3 Somnolence and Fatigue
+## 5.3Somnolence and Fatigue
 
 ELEPSIA XR may cause somnolence and fatigue.
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on ELEPSIA XR to gauge whether it adversely affects their ability to drive or operate machinery.
@@ -97,15 +97,15 @@ In 0.5% of immediate-release levetiracetam tablets-treated patients and in 0.2% 
 
 Somnolence and asthenia occurred most frequently within the first 4 weeks of treatment.
 
-## 5.4 Anaphylaxis and Angioedema
+## 5.4Anaphylaxis and Angioedema
 
 ELEPSIA XR can cause anaphylaxis or angioedema after the first dose or at any time during treatment.
 Signs and symptoms in cases reported in the postmarketing setting in patients treated with levetiracetam have included hypotension, hives, rash, respiratory distress, and swelling of the face, lip, mouth, eye, tongue, throat, and feet.
 In some reported cases, reactions were life-threatening and required emergency treatment.
 If a patient develops signs or symptoms of anaphylaxis or angioedema, ELEPSIA XR should be discontinued and the patient should seek immediate medical attention.
-ELEPSIA XR should be discontinued permanently if a clear alternative etiology for the reaction cannot be established [see Contraindications (4)].
+ELEPSIA XR should be discontinued permanently if a clear alternative etiology for the reaction cannot be established [seeContraindications (4)].
 
-## 5.5 Serious Dermatological Reactions
+## 5.5Serious Dermatological Reactions
 
 Serious dermatological reactions, including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), have been reported in patients treated with levetiracetam.
 The median time of onset is reported to be 14 to 17 days, but cases have been reported at least four months after initiation of treatment.
@@ -113,7 +113,7 @@ Recurrence of the serious skin reactions following rechallenge with levetiraceta
 ELEPSIA XR should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
 If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
 
-## 5.6 Coordination Difficulties
+## 5.6Coordination Difficulties
 
 Coordination difficulties were not observed in the extended-release levetiracetam controlled trials, however, the number of patients exposed to levetiracetam extended-release tablets was considerably smaller than the number of patients exposed to immediate-release levetiracetam tablets in controlled trials.
 However, adverse reactions observed in the immediate-release levetiracetam controlled trials may also occur in patients receiving ELEPSIA XR.
@@ -125,35 +125,35 @@ These events occurred most frequently within the first 4 weeks of treatment.
 
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on ELEPSIA XR to gauge whether it could adversely affect their ability to drive or operate machinery.
 
-## 5.7 Withdrawal Seizures
+## 5.7Withdrawal Seizures
 
-As with most antiepileptic drugs, ELEPSIA XR should be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [see Dosage and Administration (2.3)].
+As with most antiepileptic drugs, ELEPSIA XR should be withdrawn gradually because of the risk of increased seizure frequency and status epilepticus [seeDosage and Administration (2.3)].
 But if withdrawal is needed because of an adverse event, rapid discontinuation can be considered.
 
-## 5.8 Hematologic Abnormalities
+## 5.8Hematologic Abnormalities
 
 ELEPSIA XR can cause hematologic abnormalities.
 Hematologic abnormalities occurred in clinical trials of immediate-release levetiracetam and included decreases in white blood cells (WBC), neutrophil, and red blood cell (RBC) counts; decreases in hemoglobin and hematocrit; and increases in eosinophil counts.
 Cases of agranulocytosis, pancytopenia, and thrombocytopenia have also been reported in the postmarketing setting.
 A complete blood count is recommended in patients experiencing significant weakness, pyrexia, recurrent infections, or coagulation disorders.
 
-Immediate-Release Levetiracetam Tablets In controlled trials of immediate-release levetiracetam tablets in patients experiencing partial-onset seizures, minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 x 106/mm3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in immediate-release levetiracetam tablets-treated patients.
+Immediate-Release Levetiracetam Tablets In controlled trials of immediate-release levetiracetam tablets in patients experiencing partial-onset seizures, minor, but statistically significant, decreases compared to placebo in total mean RBC count (0.03 x 10 6/mm 3), mean hemoglobin (0.09 g/dL), and mean hematocrit (0.38%), were seen in immediate-release levetiracetam tablets-treated patients.
 
-A total of 3.2% of immediate-release levetiracetam tablets-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 x 109/L) decreased WBC, and 2.4% of immediate-release levetiracetam tablets-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 x 109/L) decreased neutrophil count.
+A total of 3.2% of immediate-release levetiracetam tablets-treated and 1.8% of placebo-treated patients had at least one possibly significant (≤2.8 x 10 9/L) decreased WBC, and 2.4% of immediate-release levetiracetam tablets-treated and 1.4% of placebo-treated patients had at least one possibly significant (≤1.0 x 10 9/L) decreased neutrophil count.
 Of the immediate-release levetiracetam tablets-treated patients with a low neutrophil count, all but one rose towards or to baseline with continued treatment.
 No patient was discontinued secondary to low neutrophil counts.
 
 In pediatric patients (4 to <16 years of age), statistically significant decreases in WBC and neutrophil counts were seen in patients treated with immediate-release levetiracetam tablets, as compared to placebo.
-The mean decreases from baseline in the immediate-release levetiracetam tablets group were -0.4 × 109/L and -0.3 × 109/L, respectively, whereas there were small increases in the placebo group.
+The mean decreases from baseline in the immediate-release levetiracetam tablets group were -0.4 × 10 9/L and -0.3 × 10 9/L, respectively, whereas there were small increases in the placebo group.
 A significant increase in mean relative lymphocyte counts was observed in 1.7% of patients treated with immediate-release levetiracetam tablets compared to a decrease of 4% in patients on placebo.
 
 In the controlled pediatric trial, a possibly clinically significant abnormal low WBC value was observed in 3% of patients treated with immediate-release levetiracetam tablets, compared to no patients on placebo.
 However, there was no apparent difference between treatment groups with respect to neutrophil count.
 No patient was discontinued secondary to low WBC or neutrophil counts.
 
-In the controlled pediatric cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the immediate-release levetiracetam tablets-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7X109/L).
+In the controlled pediatric cognitive and neuropsychological safety study, two subjects (6.1%) in the placebo group and 5 subjects (8.6%) in the immediate-release levetiracetam tablets-treated group had high eosinophil count values that were possibly clinically significant (≥10% or ≥0.7X10 9/L).
 
-## 5.9 Seizure Control During Pregnancy
+## 5.9Seizure Control During Pregnancy
 
 Physiological changes may gradually decrease plasma levels of levetiracetam throughout pregnancy.
 This decrease is more pronounced during the third trimester.

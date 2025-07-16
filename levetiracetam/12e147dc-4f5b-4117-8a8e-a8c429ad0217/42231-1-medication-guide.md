@@ -79,11 +79,11 @@ Take ELEPSIA XR exactly as your healthcare provider tells you take it.
 - Your healthcare provider will tell you how much ELEPSIA XR to take and when to take it.
   ELEPSIA XR is usually taken 1 time per day.
 - Your healthcare provider may change your dose.
-  Do not change your dose without talking to your healthcare provider.
+  Do notchange your dose without talking to your healthcare provider.
 - Swallow the tablets whole.
-  Do not chew, cut, break, split or crush tablets.
+  Do notchew, cut, break, split or crush tablets.
 - Each coated tablet has 2 layers, a blue layer and a white to off-white layer.
-  If you do not see the blue or white off-white layer, do not take the tablet and talk to your pharmacist.
+  If you do notsee the blue or white off-white layer, do nottake the tablet and talk to your pharmacist.
 - The inactive part of ELEPSIA XR tablets may not dissolve after all the medicine has been released in your body.
   You may sometimes notice something in your bowel movement that looks like pieces of coating or swollen pieces of the original tablet.
   This is normal.

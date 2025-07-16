@@ -1,13 +1,13 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
-The efficacy of ELEPSIA XR is based upon bioavailability studies comparing levetiracetam extended-release tablets to ELEPSIA XR extended-release tablets [see Clinical Pharmacology (12.3)] and the clinical studies described below using immediate-release and extended-release levetiracetam tablets.
+The efficacy of ELEPSIA XR is based upon bioavailability studies comparing levetiracetam extended-release tablets to ELEPSIA XR extended-release tablets [seeClinical Pharmacology (12.3)]and the clinical studies described below using immediate-release and extended-release levetiracetam tablets.
 
 The effectiveness of levetiracetam extended-release tablets as adjunctive therapy in partial-onset seizures in adults was established in one multicenter, randomized, double-blind, placebo-controlled clinical study in patients who had refractory partial-onset seizures with or without secondary generalization.
-This was supported by the demonstration of efficacy of immediate-release levetiracetam tablets (see below) in partial seizures in three multicenter, randomized, double-blind, placebo-controlled clinical studies in adults, as well as a demonstration of comparable bioavailability between the extended-release and immediate-release formulations [see Clinical Pharmacology (12.3)] in adults.
-The effectiveness for levetiracetam extended-release tablets as adjunctive therapy in partial-onset seizures in pediatric patients, 12 years of age and older, was based upon a single pharmacokinetic study showing comparable pharmacokinetics of levetiracetam extended-release tablets in adults and adolescents [see Clinical Pharmacology (12.3)].
+This was supported by the demonstration of efficacy of immediate-release levetiracetam tablets (see below) in partial seizures in three multicenter, randomized, double-blind, placebo-controlled clinical studies in adults, as well as a demonstration of comparable bioavailability between the extended-release and immediate-release formulations [seeClinical Pharmacology (12.3)]in adults.
+The effectiveness for levetiracetam extended-release tablets as adjunctive therapy in partial-onset seizures in pediatric patients, 12 years of age and older, was based upon a single pharmacokinetic study showing comparable pharmacokinetics of levetiracetam extended-release tablets in adults and adolescents [seeClinical Pharmacology (12.3)].
 All studies are described below.
 
-## 14.1 Levetiracetam Extended-Release Tablets in Adults
+## 14.1Levetiracetam Extended-Release Tablets in Adults
 
 The effectiveness of levetiracetam extended-release tablets as adjunctive therapy (added to other antiepileptic drugs) was established in one multicenter, randomized, double-blind, placebo-controlled clinical study across 7 countries in patients who had refractory partial-onset seizures with or without secondary generalization (Study 1).
 
@@ -21,7 +21,7 @@ The estimated percent reduction over placebo in weekly partial-onset seizure fre
 
 The relationship between the effectiveness of the same daily dose of levetiracetam extended-release tablets and immediate-release levetiracetam tablets has not been studied and is unknown.
 
-## 14.2 Immediate-Release Levetiracetam Tablets in Adults
+## 14.2Immediate-Release Levetiracetam Tablets in Adults
 
 The effectiveness of immediate-release levetiracetam as adjunctive therapy (added to other antiepileptic drugs) in adults was established in three multicenter, randomized, double-blind, placebo-controlled clinical studies in patients who had refractory partial-onset seizures with or without secondary generalization (Studies 2, 3, and 4).
 The tablet formulation was used in all three studies.
@@ -42,7 +42,7 @@ Table 6: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Sei
 
 |  | Placebo (N=95) | Immediate-release Levetiracetam 1,000 mg/day (N=97) | Immediate-release Levetiracetam 3,000 mg/day (N=101) |
 | --- | --- | --- | --- |
-| Percent reduction in partial seizure frequency over placebo | – | 26.1%1 | 30.1%1 |
+| Percent reduction in partial seizure frequency over placebo | – | 26.1% 1 | 30.1% 1 |
 | statistically significant versus placebo |  |  |  |
 
 The percentage of patients (y-axis) who achieved ≥50% reduction from baseline in weekly partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) in Study 2 is presented in Figure 1.
@@ -60,7 +60,7 @@ Table 7: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Sei
 
 |  | Placebo (N=111) | Immediate-release Levetiracetam 1000 mg/day (N=106) | Immediate-release Levetiracetam 2000 mg/day (N=105) |
 | --- | --- | --- | --- |
-| Percent reduction in partial seizure frequency over placebo | – | 17.1%1 | 21.4%1 |
+| Percent reduction in partial seizure frequency over placebo | – | 17.1% 1 | 21.4% 1 |
 | statistically significant versus placebo |  |  |  |
 
 The percentage of patients (y-axis) who achieved ≥50% reduction from baseline in weekly partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the three treatment groups (x-axis) in Study 3 is presented in Figure 2.
@@ -80,12 +80,12 @@ Table 8: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Sei
 
 |  | Placebo (N=104) | Immediate-release Levetiracetam 3000 mg/day (N=180) |
 | --- | --- | --- |
-| Percent reduction in partial seizure frequency over placebo | – | 23%1 |
+| Percent reduction in partial seizure frequency over placebo | – | 23% 1 |
 | statistically significant versus placebo |  |  |
 
 The percentage of patients (y-axis) who achieved ≥50% reduction from baseline in weekly partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) in Study 4 is presented in Figure 3.
 
-## 14.3 Immediate-Release Levetiracetam in Pediatric Patients 4 Years to 16 Years
+## 14.3Immediate-Release Levetiracetam in Pediatric Patients 4 Years to 16 Years
 
 The use of levetiracetam extended-release tablets in pediatric patients 12 years of age and older is supported by Study 5, which was conducted using immediate-release levetiracetam.
 ELEPSIA XR is not indicated in pediatric patients below 12 years of age.
@@ -104,7 +104,7 @@ Table 9: Reduction in Mean Over Placebo in Weekly Frequency of Partial-Onset Sei
 
 |  | Placebo (N=97) | Immediate-release Levetiracetam (N=101) |
 | --- | --- | --- |
-| Percent reduction in partial seizure frequency over placebo | - | 26.8%1 |
+| Percent reduction in partial seizure frequency over placebo | - | 26.8% 1 |
 | statistically significant versus placebo |  |  |
 
 The percentage of patients (y-axis) who achieved ≥ 50% reduction in weekly partial-onset seizure frequency over the entire randomized treatment period (titration + evaluation period) within the two treatment groups (x-axis) in Study 5 is presented in Figure 4.

@@ -1,4 +1,4 @@
-# 4 CONTRAINDICATIONS
+# 4CONTRAINDICATIONS
 
 ELEPSIA XR is contraindicated in patients with a hypersensitivity to levetiracetam.
-Reactions have included anaphylaxis and angioedema [see Warnings and Precautions (5.4)].
+Reactions have included anaphylaxis and angioedema [seeWarnings and Precautions (5.4)].
