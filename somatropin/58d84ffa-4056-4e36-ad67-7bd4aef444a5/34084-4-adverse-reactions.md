@@ -107,6 +107,7 @@ Other adverse events that have been reported include generalized edema and hypoe
 
 ## 6.2 Postmarketing Experience
 
+The following adverse reactions have been identified during post approval use of somatropin or OMNITROPE.
 Because these adverse events are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 The adverse events reported during postmarketing surveillance do not differ from those listed/discussed above in Sections 6.1 and 6.2 in children and adults.
 
@@ -117,6 +118,6 @@ It is uncertain whether these cases of leukemia are related to GH therapy, the p
 On the basis of current evidence, experts have not been able to conclude that GH therapy per se was responsible for these cases of leukemia.
 The risk for children with GHD, if any, remains to be established [see Contraindications (4) and Warnings and Precautions (5.3)].
 
-The following additional adverse reactions have been observed during the use of somatropin: headaches (children and adults), gynecomastia (children), and pancreatitis (children and adults) [see Warnings and Precautions (5.16)].
+The following additional adverse reactions have been observed during the use of somatropin: headaches (children and adults), gynecomastia (children), osteonecrosis (children), and pancreatitis (children and adults) [see Warnings and Precautions (5.16)].
 
 New-onset type 2 diabetes mellitus has been reported.

@@ -17,7 +17,7 @@ Treatment with OMNITROPE for short stature should be discontinued when the epiph
 
 ### Pediatric Growth Hormone Deficiency (GHD)
 
-Generally, a dosage of 0.16 to 0.24 mg/kg body weight /week is recommended.
+Generally, a dosage of 0.16 to 0.24 mg/kg body weight/week is recommended.
 The weekly dose should be divided over 6 or 7 days of subcutaneous injections.
 
 ### Prader-Willi Syndrome (PWS)

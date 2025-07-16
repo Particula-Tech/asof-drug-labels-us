@@ -71,7 +71,9 @@ Therefore, patients treated with somatropin should have periodic thyroid functio
 ## 5.10 Slipped Capital Femoral Epiphysis in Pediatric Patients
 
 Slipped capital femoral epiphysis may occur more frequently in patients with endocrine disorders (including GHD and Turner Syndrome) or in patients undergoing rapid growth.
-Any pediatric patient with the onset of a limp or complaints of hip or knee pain during somatropin therapy should be carefully evaluated.
+Slipped capital femoral epiphysis may lead to osteonecrosis.
+Cases of slipped capital femoral epiphysis with or without osteonecrosis have been reported in pediatric patients with short stature receiving somatropin.
+Any pediatric patient with the onset of a limp or complaints of hip or knee pain during OMNITROPE therapy should be evaluated for slipped capital femoral epiphysis and osteonecrosis and managed accordingly.
 
 ## 5.11 Progression of Preexisting Scoliosis in Pediatric Patients
 
