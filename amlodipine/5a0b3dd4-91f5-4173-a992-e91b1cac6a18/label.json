@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA076719"
+  ],
+  "inn": "amlodipine",
+  "labeler": "PD-Rx Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "72789-514-95",
+    "72789-515-95",
+    "72789-516-95"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "amlodipine besylate",
+      "name": "Amlodipine Besylate"
+    }
+  ],
+  "setid": "5a0b3dd4-91f5-4173-a992-e91b1cac6a18",
+  "source": "dailymed"
+}
