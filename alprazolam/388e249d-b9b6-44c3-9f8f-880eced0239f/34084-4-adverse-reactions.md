@@ -71,39 +71,39 @@ In a larger database comprised of both controlled and uncontrolled studies in wh
 
 Table 3: Discontinuation-Emergent Symptom Incidence Reported in ≥5% of XANAX-treated Patients and > Placebo-treated Patients
 
-|  | XANAX-treated Patients n=641 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Nervous system disorders |  |  |  |  |  |  |  |
-| Insomnia | 29.5% |  |  |  |  |  |  |
-| Light-headedness | 19.3% |  |  |  |  |  |  |
-| Abnormal involuntary movement | 17.3% |  |  |  |  |  |  |
-| Headache | 17.0% |  |  |  |  |  |  |
-| Muscular twitching | 6.9% |  |  |  |  |  |  |
-| Impaired coordination | 6.6% |  |  |  |  |  |  |
-| Muscle tone disorders | 5.9% |  |  |  |  |  |  |
-| Weakness | 5.8% |  |  |  |  |  |  |
-| Psychiatric disorders |  |  |  |  |  |  |  |
-| Anxiety | 19.2% |  |  |  |  |  |  |
-| Fatigue and Tiredness | 18.4% |  |  |  |  |  |  |
-| Irritability | 10.5% |  |  |  |  |  |  |
-| Cognitive disorder | 10.3% |  |  |  |  |  |  |
-| Memory impairment | 5.5% |  |  |  |  |  |  |
-| Depression | 5.1% |  |  |  |  |  |  |
-| Confusional state | 5.0% |  |  |  |  |  |  |
-| Gastrointestinal disorders |  |  |  |  |  |  |  |
-| Nausea/Vomiting | 16.5% |  |  |  |  |  |  |
-| Diarrhea | 13.6% |  |  |  |  |  |  |
-| Decreased salivation | 10.6% |  |  |  |  |  |  |
-| Metabolism and nutrition disorders |  |  |  |  |  |  |  |
-| Weight loss | 13.3% |  |  |  |  |  |  |
-| Decreased appetite | 12.8% |  |  |  |  |  |  |
-| Dermatological disorders |  |  |  |  |  |  |  |
-| Sweating | 14.4% |  |  |  |  |  |  |
-| Cardiovascular disorders |  |  |  |  |  |  |  |
-| Tachycardia | 12.2% |  |  |  |  |  |  |
-| Special Senses |  |  |  |  |  |  |  |
-| Blurred vision | 10.0% |  |  |  |  |  |  |
-| n=number of patients. |  |  |  |  |  |  |  |
+|  | XANAX-treated Patients n=641 |
+| --- | --- |
+| Nervous system disorders |  |
+| Insomnia | 29.5% |
+| Light-headedness | 19.3% |
+| Abnormal involuntary movement | 17.3% |
+| Headache | 17.0% |
+| Muscular twitching | 6.9% |
+| Impaired coordination | 6.6% |
+| Muscle tone disorders | 5.9% |
+| Weakness | 5.8% |
+| Psychiatric disorders |  |
+| Anxiety | 19.2% |
+| Fatigue and Tiredness | 18.4% |
+| Irritability | 10.5% |
+| Cognitive disorder | 10.3% |
+| Memory impairment | 5.5% |
+| Depression | 5.1% |
+| Confusional state | 5.0% |
+| Gastrointestinal disorders |  |
+| Nausea/Vomiting | 16.5% |
+| Diarrhea | 13.6% |
+| Decreased salivation | 10.6% |
+| Metabolism and nutrition disorders |  |
+| Weight loss | 13.3% |
+| Decreased appetite | 12.8% |
+| Dermatological disorders |  |
+| Sweating | 14.4% |
+| Cardiovascular disorders |  |
+| Tachycardia | 12.2% |
+| Special Senses |  |
+| Blurred vision | 10.0% |
+| n=number of patients. |  |
 
 There have also been reports of withdrawal seizures upon rapid decrease or abrupt discontinuation of XANAX [see Warning and Precautions (5.2) and Drug Abuse and Dependence (9.3)].
 
