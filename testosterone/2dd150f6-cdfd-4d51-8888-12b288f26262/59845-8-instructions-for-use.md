@@ -1,4 +1,4 @@
-INSTRUCTIONS FOR USE VOGELXO® (voh-JELKS-oh), CIII (testosterone) gel, for topical use
+INSTRUCTIONS FOR USE VOGELXO ®(voh-JELKS-oh), CIII (testosterone) gel, for topical use
 
 Read this Instructions for Use for Vogelxo before you start using it and each time you get a refill.
 There may be new information.
@@ -7,7 +7,7 @@ This leaflet does not take the place of talking to your healthcare provider abou
 Applying Vogelxo: Vogelxo comes in tubes, packets, or in a pump.
 
 - Before applying Vogelxo, make sure that your shoulders and upper arms are clean, dry, and there is no broken skin.
-- The application sites for Vogelxo are the shoulders and the upper arms that will be covered by a short sleeve t-shirt (See Figure A). Do not apply Vogelxo to any other parts of your body such as your penis, scrotum, or stomach area (abdomen).
+- The application sites for Vogelxo are the shoulders and the upper arms that will be covered by a short sleeve t-shirt (See Figure A). Do notapply Vogelxo to any other parts of your body such as your penis, scrotum, or stomach area (abdomen).
 
 | (Figure A) |
 | --- |
@@ -35,7 +35,7 @@ If you are using Vogelxo packets:
   Apply Vogelxo to the application site.
   Rub the gel onto your skin for several seconds.
 - Let the application site dry for a few minutes before putting on a t-shirt.
-- Wash your hands with soap and water right away after applying Vogelxo.
+- Wash your hands with soap and water right awayafter applying Vogelxo.
 
 If you are using the Vogelxo pump:
 

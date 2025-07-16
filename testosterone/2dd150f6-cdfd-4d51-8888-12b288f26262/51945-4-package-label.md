@@ -2,7 +2,7 @@
 
 NDC 0245-0871-05
 
-Vogelxo® (testosterone) gel 50 mg testosterone per tube
+Vogelxo ® (testosterone) gel 50 mg testosterone per tube
 
 Each unit-dose tube contains 5 grams of gel.
 
@@ -24,7 +24,7 @@ UPSHER-SMITH
 
 NDC 0245-0872-42
 
-Vogelxo® (testosterone) gel 12.5 mg of testosterone per pump actuation*
+Vogelxo ® (testosterone) gel 12.5 mg of testosterone per pump actuation*
 
 *Each actuation delivers 1.25 grams of gel.
 Multi-dose pump capable of dispensing 60 metered pump actuations.

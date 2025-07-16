@@ -14,7 +14,7 @@ Signs and symptoms have included enlargement of the penis or clitoris, developme
 In most cases, these signs and symptoms regressed with removal of the exposure to testosterone gel.
 In a few cases, however, enlarged genitalia did not fully return to age-appropriate normal size, and bone age remained modestly greater than chronological age.
 The risk of transfer was increased in some of these cases by not adhering to precautions for the appropriate use of the topical testosterone product.
-Children and women should avoid contact with unwashed or unclothed application sites in men using Vogelxo [see Dosage and Administration (2.2), Use in Specific Populations (8.1) and Clinical Pharmacology (12.3)].
+Children and women should avoid contact with unwashed or unclothed application sites in men using Vogelxo [see Dosage and Administration (2.2), Use in Specific Populations (8.1)and Clinical Pharmacology (12.3)].
 
 Inappropriate changes in genital size or development of pubic hair or libido in children, or changes in body hair distribution, significant increase in acne, or other signs of virilization in adult women should be brought to the attention of a physician and the possibility of secondary exposure to testosterone gel should also be brought to the attention of a physician.
 Testosterone gel should be promptly discontinued until the cause of virilization has been identified.
@@ -52,7 +52,7 @@ Conversely, consider the possibility of testosterone and anabolic androgenic ste
 
 ## 5.7 Use in Women
 
-Due to lack of controlled evaluations in women and potential virilizing effects, Vogelxo is not indicated for use in women [see Contraindications (4) and Use in Specific Populations (8.1, 8.2)].
+Due to lack of controlled evaluations in women and potential virilizing effects, Vogelxo is not indicated for use in women [see Contraindications (4)and Use in Specific Populations (8.1, 8.2)].
 
 ## 5.8 Potential for Adverse Effects on Spermatogenesis
 

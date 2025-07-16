@@ -16,6 +16,6 @@ Table 4: Mean (± SD) Steady-State Serum Testosterone Concentrations on Day 30
 |  | n=94 | n=95 | n=93 |
 | --- | --- | --- | --- |
 |  | Testosterone gel 50 mg | Testosterone gel 100 mg | Placebo gel |
-| Cavg (ng/dL) | 365 ± 187 | 612 ± 286 | 216 ± 79 |
-| Cmax (ng/dL) | 538 ± 371 | 897 ± 565 | 271 ± 110 |
-| Cmin (ng/dL) | 223 ± 126 | 394 ±189 | 164 ± 64 |
+| C avg(ng/dL) | 365 ± 187 | 612 ± 286 | 216 ± 79 |
+| C max(ng/dL) | 538 ± 371 | 897 ± 565 | 271 ± 110 |
+| C min(ng/dL) | 223 ± 126 | 394 ±189 | 164 ± 64 |

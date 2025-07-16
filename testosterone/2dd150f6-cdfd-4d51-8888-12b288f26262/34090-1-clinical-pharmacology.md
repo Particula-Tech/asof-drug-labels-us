@@ -14,7 +14,7 @@ No specific pharmacodynamic studies were conducted using Vogelxo.
 
 ## 12.3 Pharmacokinetics
 
-In a single-dose, replicate crossover clinical study evaluating 58 hypogonadal males, the serum testosterone exposures (AUC0-24 and AUC0-t) and maximum testosterone concentration (Cmax) following a topical administration of 100 mg testosterone administration as a 2 × 5 g Vogelxo tubes (applied to the shoulders/upper arms) were bioequivalent to those following a topical administration of an approved testosterone gel product.
+In a single-dose, replicate crossover clinical study evaluating 58 hypogonadal males, the serum testosterone exposures (AUC 0-24and AUC 0-t) and maximum testosterone concentration (C max) following a topical administration of 100 mg testosterone administration as a 2 × 5 g Vogelxo tubes (applied to the shoulders/upper arms) were bioequivalent to those following a topical administration of an approved testosterone gel product.
 
 Absorption
 
@@ -26,7 +26,7 @@ Approximately 10% of the testosterone applied on the skin surface is absorbed in
 Single Dose
 
 In a single dose, replicate crossover study, when Vogelxo 100 mg was applied, absorption of testosterone into the blood continued for the entire 24 hour dosing period.
-The average (± SD) AUC0-24 and AUC0-t and Cmax were 6625 (±3671) ng∙hr/dL, 10425 (±5521) ng∙hr/dL, and 573 (±284) ng/dL, respectively.
+The average (± SD) AUC 0-24and AUC 0-tand C maxwere 6625 (±3671) ng∙hr/dL, 10425 (±5521) ng∙hr/dL, and 573 (±284) ng/dL, respectively.
 
 Multiple Dose
 
@@ -67,8 +67,8 @@ Potential for Transfer from Male Patients to Female Partners
 The potential for dermal testosterone transfer following Vogelxo use was evaluated in a clinical study between males dosed with Vogelxo and their untreated female partners.
 Two (2) hours after application of 50 mg of testosterone from 5 g of Vogelxo to upper arm and shoulder of one side by the male subjects, the couples (N = 48 couples) engaged in a 15 minute session of skin-to-skin contact.
 Serum concentrations of testosterone were monitored in the female subjects for 24 hours after the transfer procedure.
-Under these study conditions, unprotected female partners had a mean testosterone AUC0-24 and Cmax that were 2.8 and 4 times greater than their mean baseline values, respectively.
-When a shirt covered the application site or the application site was washed, study results showed less than 10% increase in testosterone AUC0-24 and Cmax, compared to baseline in these females.
+Under these study conditions, unprotected female partners had a mean testosterone AUC 0-24and C maxthat were 2.8 and 4 times greater than their mean baseline values, respectively.
+When a shirt covered the application site or the application site was washed, study results showed less than 10% increase in testosterone AUC 0-24and C max, compared to baseline in these females.
 
 Effect of Hand Washing
 

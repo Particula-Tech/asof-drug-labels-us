@@ -5,7 +5,7 @@
 Risk Summary
 
 Vogelxo is contraindicated in pregnant women.
-Testosterone is teratogenic and may cause fetal harm when administered to a pregnant woman based on data from animal studies and its mechanism of action [see Contraindications (4) and Clinical Pharmacology (12.1)].
+Testosterone is teratogenic and may cause fetal harm when administered to a pregnant woman based on data from animal studies and its mechanism of action [see Contraindications (4)and Clinical Pharmacology (12.1)].
 Exposure of a female fetus to androgens may result in varying degrees of virilization.
 In animal developmental studies, exposure to testosterone in utero resulted in hormonal and behavioral changes in offspring and structural impairments of reproductive tissues in female and male offspring.
 These studies did not meet current standards for nonclinical development toxicity studies.
@@ -20,7 +20,7 @@ Structural impairments observed in females included increased ano-genital distan
 Structural impairments seen in male offspring included increased or decreased testicular weight, larger seminal tubular lumen diameter, and higher frequency of occluded tubule lumen.
 Increased pituitary weight was seen in both sexes.
 
-Testosterone exposure in utero also resulted in hormonal and behavioral changes in offspring.
+Testosterone exposure in uteroalso resulted in hormonal and behavioral changes in offspring.
 Hypertension was observed in pregnant female rats and their offspring exposed to doses approximately twice those used for testosterone replacement therapy.
 
 ## 8.2 Lactation

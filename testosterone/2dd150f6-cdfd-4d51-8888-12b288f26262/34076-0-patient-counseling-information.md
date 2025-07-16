@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Men with Known or Suspected Carcinoma of the Breast or Prostate
 
-Men with known or suspected prostate or breast cancer should not use Vogelxo [see Contraindications (4) and Warnings and Precautions (5.1)].
+Men with known or suspected prostate or breast cancer should not use Vogelxo [see Contraindications (4)and Warnings and Precautions (5.1)].
 
 Potential for Secondary Exposure to Testosterone and Steps to Prevent Secondary Exposure
 
@@ -22,10 +22,10 @@ Strict adherence to the following precautions is advised to minimize the potenti
 
 - Children and women should avoid contact with unwashed or unclothed application site(s) of men using Vogelxo
 - Patients using Vogelxo should apply the product as directed and strictly adhere to the following:
-  - Wash hands with soap and water immediately after application
-  - Cover the application site(s) with clothing after the gel has dried
-  - Wash the application site(s) thoroughly with soap and water prior to any situation where skin-to-skin contact of the application site with another person is anticipated
-- In the event that unwashed or unclothed skin to which Vogelxo has been applied comes in contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible [see Dosage and Administration (2.2), Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+  - Wash handswith soap and water immediately after application
+  - Cover the application site(s)with clothing after the gel has dried
+  - Wash the application site(s) thoroughlywith soap and water prior to any situation where skin-to-skin contact of the application site with another person is anticipated
+- In the event that unwashed or unclothed skin to which Vogelxo has been applied comes in contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible [see Dosage and Administration (2.2), Warnings and Precautions (5.2)and Clinical Pharmacology (12.3)].
 
 Potential Adverse Reactions with Androgens
 
