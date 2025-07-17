@@ -47,6 +47,8 @@ Refer the patient to the Medication Guide that provides description of the lamot
 
 Rx Only
 
-Manufactured by:
+Made in USA
 
-Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA Rev. # 04/2021
+Marketed by:
+
+Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067, USA Rev. # 07/2025

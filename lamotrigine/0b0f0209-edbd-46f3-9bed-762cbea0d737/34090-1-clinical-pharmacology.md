@@ -64,8 +64,7 @@ Mean Pharmacokinetic Parametersa in Healthy Volunteers and Adult Subjects with E
 | Subjects with epilepsy taking carbamazepine, phenytoin, phenobarbital, or primidone:b |  |  |  |  |
 | Single-dose Lamotrigine | 24 | 2.3 (0.5-5.0) | 14.4 (6.4-30.4) | 1.10 (0.51-2.22) |
 | Multiple-dose Lamotrigine | 17 | 2.0 (0.75-5.93) | 12.6 (7.5-23.1) | 1.21 (0.66-1.82) |
-| a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for Tmax. The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study. The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies. |  |  |  |  |
-| b Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives and other drugs, such as rifampin and protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir, that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. |  |  |  |  |
+| a The majority of parameter means determined in each study had coefficients of variation between 20% and 40% for half-life and CL/F and between 30% and 70% for Tmax. The overall mean values were calculated from individual study means that were weighted based on the number of volunteers/subjects in each study. The numbers in parentheses below each parameter mean represent the range of individual volunteer/subject values across studies. b Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives and other drugs, such as rifampin and protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir, that induce lamotrigine glucuronidation have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. |  |  |  |  |
 
 Absorption Lamotrigine is rapidly and completely absorbed after oral administration with negligible first-pass metabolism (absolute bioavailability is 98%).
 The bioavailability is not affected by food.
@@ -77,17 +76,22 @@ In 2 small studies (n = 7 and 8) of patients with epilepsy who were maintained o
 Distribution Estimates of the mean apparent volume of distribution (Vd/F) of lamotrigine following oral administration ranged from 0.9 to 1.3 L/kg.
 Vd/F is independent of dose and is similar following single and multiple doses in both patients with epilepsy and in healthy volunteers.
 
-Protein Binding Data from in vitro studies indicate that lamotrigine is approximately 55% bound to human plasma proteins at plasma lamotrigine concentrations from 1 to 10 mcg/mL (10 mcg/mL is 4 to 6 times the trough plasma concentration observed in the controlled efficacy trials).
+Protein Binding
+
+Data from in vitro studies indicate that lamotrigine is approximately 55% bound to human plasma proteins at plasma lamotrigine concentrations from 1 to 10 mcg/mL (10 mcg/mL is 4 to 6 times the trough plasma concentration observed in the controlled efficacy trials).
 Because lamotrigine is not highly bound to plasma proteins, clinically significant interactions with other drugs through competition for protein binding sites are unlikely.
 The binding of lamotrigine to plasma proteins did not change in the presence of therapeutic concentrations of phenytoin, phenobarbital, or valproate.
 Lamotrigine did not displace other AEDs (carbamazepine, phenytoin, phenobarbital) from protein-binding sites.
 
-Metabolism Lamotrigine is metabolized predominantly by glucuronic acid conjugation; the major metabolite is an inactive 2-N-glucuronide conjugate.
+Metabolism
+
+Lamotrigine is metabolized predominantly by glucuronic acid conjugation; the major metabolite is an inactive 2-N-glucuronide conjugate.
 After oral administration of 240 mg of 14C-lamotrigine (15 μCi) to 6 healthy volunteers, 94% was recovered in the urine and 2% was recovered in the feces.
 The radioactivity in the urine consisted of unchanged lamotrigine (10%), the 2-N-glucuronide (76%), a 5-N-glucuronide (10%), a 2-N-methyl metabolite (0.14%), and other unidentified minor metabolites (4%).
 
-Enzyme Induction The effects of lamotrigine on the induction of specific families of mixed-function oxidase isozymes have not been systematically evaluated.
+Enzyme Induction
 
+The effects of lamotrigine on the induction of specific families of mixed-function oxidase isozymes have not been systematically evaluated.
 Following multiple administrations (150 mg twice daily) to normal volunteers taking no other medications, lamotrigine induced its own metabolism, resulting in a 25% decrease in t½ and a 37% increase in CL/F at steady state compared with values obtained in the same volunteers following a single dose.
 Evidence gathered from other sources suggests that self-induction by lamotrigine may not occur when lamotrigine is given as adjunctive therapy in patients receiving enzyme-inducing drugs such as carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7)].
 
@@ -129,18 +133,7 @@ Summary of Drug Interactions with Lamotrigine
 | Valproate | ↓ | ↑ |
 | Valproate + phenytoin and/or carbamazepine | Not assessed | ↔ |
 | Zonisamide | Not assessed | ↔ |
-| a From adjunctive clinical trials and volunteer trials. |  |  |
-| b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials. |  |  |
-| c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations. |  |  |
-| d Modest decrease in levonorgestrel. |  |  |
-| e Slight decrease, not expected to be clinically meaningful. |  |  |
-| f Compared with historical controls. |  |  |
-| g Not administered, but an active metabolite of carbamazepine. |  |  |
-| h Not administered, but an active metabolite of oxcarbazepine. |  |  |
-| i Not administered, but an active metabolite of risperidone. |  |  |
-| j Slight increase, not expected to be clinically meaningful. |  |  |
-| ↔ = No significant effect. |  |  |
-| ? = Conflicting data. |  |  |
+| a From adjunctive clinical trials and volunteer trials. b Net effects were estimated by comparing the mean clearance values obtained in adjunctive clinical trials and volunteer trials. c The effect of other hormonal contraceptive preparations or hormone replacement therapy on the pharmacokinetics of lamotrigine has not been systematically evaluated in clinical trials, although the effect may be similar to that seen with the ethinylestradiol/levonorgestrel combinations. d Modest decrease in levonorgestrel. e Slight decrease, not expected to be clinically meaningful. f Compared with historical controls. g Not administered, but an active metabolite of carbamazepine. h Not administered, but an active metabolite of oxcarbazepine. i Not administered, but an active metabolite of risperidone. j Slight increase, not expected to be clinically meaningful. ↔ = No significant effect. ? = Conflicting data. |  |  |
 
 Estrogen-Containing Oral Contraceptives In 16 female volunteers, an oral contraceptive preparation containing 30 mcg ethinylestradiol and 150 mcg levonorgestrel increased the apparent clearance of lamotrigine (300 mg/day) by approximately 2-fold with mean decreases in AUC of 52% and in Cmax of 39%.
 In this study, trough serum lamotrigine concentrations gradually increased and were approximately 2-fold higher on average at the end of the week of the inactive hormone preparation compared with trough lamotrigine concentrations at the end of the active hormone cycle.
@@ -283,9 +276,7 @@ Mean Pharmacokinetic Parameters in Pediatric Subjects with Epilepsy
 | Subjects taking carbamazepine, phenytoin, phenobarbital, or primidonea | 11 | ___c | ___c | 1.3 |
 | Subjects taking carbamazepine, phenytoina, phenobarbital, or primidone plus valproate | 8 | ___c | ___c | 0.5 |
 | Subjects taking valproate only | 4 | ___c | ___c | 0.3 |
-| a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)]. |  |  |  |  |
-| b Two subjects were included in the calculation for mean Tmax. |  |  |  |  |
-| c Parameter not estimated. |  |  |  |  |
+| a Carbamazepine, phenytoin, phenobarbital, and primidone have been shown to increase the apparent clearance of lamotrigine. Estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir have also been shown to increase the apparent clearance of lamotrigine [see Drug Interactions (7)].b Two subjects were included in the calculation for mean Tmax. c Parameter not estimated. |  |  |  |  |
 
 Geriatric Patients: The pharmacokinetics of lamotrigine following a single 150-mg dose of lamotrigine were evaluated in 12 elderly volunteers between the ages of 65 and 76 years (mean creatinine clearance = 61 mL/min, range: 33 to 108 mL/min).
 The mean half-life of lamotrigine in these subjects was 31.2 hours (range: 24.5 to 43.4 hours), and the mean clearance was 0.40 mL/min/kg (range: 0.26 to 0.48 mL/min/kg).

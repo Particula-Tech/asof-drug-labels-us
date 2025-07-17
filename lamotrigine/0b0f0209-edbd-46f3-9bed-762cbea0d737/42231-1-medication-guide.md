@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+# SPL MEDGUIDE SECTION
 
 Lamotrigine tablets, USP (la-MOE-tri-jeen)
 
@@ -256,4 +256,8 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Rx Only
 
-Manufactured by: Jubilant Cadista Pharmaceuticals Inc. Salisbury, MD 21801, USA 0245/MG Rev. # 10/2020
+Made in USA
+
+Marketed by:
+
+Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067, USA Rev. # 07/2025
