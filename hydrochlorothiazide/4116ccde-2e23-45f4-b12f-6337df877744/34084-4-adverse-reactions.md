@@ -73,7 +73,7 @@ Digestive: Hepatitis has been reported rarely in patients treated with losartan.
 
 Hematologic: Thrombocytopenia.
 
-Hypersensitivity: Angioedema, including swelling of the larynx and glottis, causing airway obstruction and/or swelling of the face, lips, pharynx, and/or tongue.
+Hypersensitivity: Angioedema, including swelling of the larynx and glottis, causing airway obstruction and/or swelling of the face, lips, pharynx, tongue, and/or swelling of the intestine.
 Vasculitis, including Henoch-Schönlein purpura; anaphylactic reactions which can present as respiratory distress (including pneumonitis and pulmonary edema).
 
 Musculoskeletal: Rhabdomyolysis.
