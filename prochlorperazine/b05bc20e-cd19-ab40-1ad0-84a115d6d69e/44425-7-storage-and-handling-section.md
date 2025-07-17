@@ -8,4 +8,4 @@ Dispense in a tight, light-resistant container.
 
 Marketed by: Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19607, USA
 
-Revised: 11/2024
+Revised: 07/2025
