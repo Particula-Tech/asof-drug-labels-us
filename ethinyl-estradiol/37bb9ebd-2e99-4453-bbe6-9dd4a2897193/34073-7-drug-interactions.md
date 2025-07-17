@@ -14,8 +14,8 @@ Table 3: Significant Drug Interactions Involving Substances That Decrease System
 
 | Metabolic Enzyme Inducers |  |
 | --- | --- |
-| Clinical effect | Concomitant use of CHCs with metabolic enzyme inducers may decrease the systemic concentrations of the estrogen and/or progestin component of CHCs [see Clinical Pharmacology (12.3)]. Decreased exposure of the estrogen and/or progestin component of CHCs may potentially diminish the effectiveness of CHCs and may lead to contraceptive failure or an increase in breakthrough bleeding. |
-| Prevention or management | Counsel females to use an alternative method of contraception or a back-up method when enzyme inducers are used with CHCs. Continue back-up contraception for 28 days after discontinuing the enzyme inducer to maintain contraceptive reliability. |
+| Clinical effect | Concomitant use of CHCs with metabolic enzyme inducers may decrease the systemic concentrations of the estrogen and/or progestin component of CHCs [see Clinical Pharmacology (12.3)].Decreased exposure of the estrogen and/or progestin component of CHCs may potentially diminish the effectiveness of CHCs and may lead to contraceptive failure or an increase in breakthrough bleeding. |
+| Prevention or management | Counsel females to use an alternative method of contraception or a back-up method when enzyme inducers are used with CHCs.Continue back-up contraception for 28 days after discontinuing the enzyme inducer to maintain contraceptive reliability. |
 | Examples | Aprepitant, barbiturates, bosentan, carbamazepine, efavirenz, felbamate, griseofulvin, oxcarbazepine, phenytoin, rifampin, rifabutin, rufinamide, topiramate, products containing St. John's worta, and certain protease inhibitors (see separate section on protease inhibitors below). |
 | a Induction potency of St. John's wort may vary widely based on preparation. |  |
 

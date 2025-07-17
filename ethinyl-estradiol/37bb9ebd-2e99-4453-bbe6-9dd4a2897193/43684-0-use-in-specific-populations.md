@@ -56,5 +56,5 @@ No studies were conducted in subjects with renal impairment; ANNOVERA is not rec
 
 ## 8.8 Body Mass Index (BMI)/Body Weight
 
-The safety and efficacy of ANNOVERA in females with a BMI >29 kg/m2 have not been adequately evaluated because this subpopulation was excluded from the clinical trials after 2 VTEs occurred in females with a BMI > 29 kg/m2 [see Adverse Reactions (6.1) and Clinical Studies (14)].
+The safety and efficacy of ANNOVERA in females with a BMI >29 kg/m2 have not been adequately evaluated because this subpopulation was excluded from the clinical trials after 2 VTEs occurred in females with a BMI > 29 kg/m2[see Adverse Reactions (6.1) and Clinical Studies (14)].
 Higher body weight is associated with lower systemic exposure of SA and EE [see Clinical Pharmacology (12.3)].

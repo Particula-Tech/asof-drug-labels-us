@@ -54,14 +54,14 @@ How do I use ANNOVERA?
 | --- | --- |
 |  | Step 2. Prepare to insert ANNOVERA. Hold ANNOVERA between your thumb and first (index) finger.Press the sides of ANNOVERA together to make it narrow (See Figure, Step 2). |
 |  | Step 3. Choose a position for insertion of ANNOVERA. Choose the position that is comfortable for you. For example, lying down, squatting, or standing with 1 leg up (See Figures, Steps 3-A, 3-B, 3-C). |
-|  | Step 4. Insert ANNOVERA into your vagina. Gently insert the folded ANNOVERA into your vagina (See Figure, Step 4-A).Push ANNOVERA further up into your vagina using your index finger.Push it in as far as you can. It sometimes helps to push down with the muscles in your vagina while you are inserting ANNOVERA.When you insert ANNOVERA, it may be in different positions in your vagina, but ANNOVERA does not have to be in an exact position for it to work.Mark your vaginal system “in day” on your calendar. |
+|  | Step 4. Insert ANNOVERA into your vagina. Gently insert the folded ANNOVERA into your vagina (See Figure, Step 4-A).Push ANNOVERA further up into your vagina using your index finger.Push it in as far as you can. It sometimes helps to push down with the muscles in your vagina while you are inserting ANNOVERA.When you insert ANNOVERA, it may be in different positions in your vagina, but ANNOVERA does not have to be in an exact position for it to work.Mark your vaginal system "in day" on your calendar. |
 |  | Note: If you feel the ANNOVERA in your vagina or if it feels uncomfortable, you may not have pushed the ANNOVERA into your vagina far enough. Use your index finger to gently push ANNOVERA as far as you can into your vagina (See Figure, Step 4-B). There is no danger of ANNOVERA being pushed too far up in the vagina or getting lost. You should not feel ANNOVERA after you have placed it into your vagina. Some women and their partners may be aware of ANNOVERA in the vagina during sexual intercourse. |
-|  | Step 5. How do I remove ANNOVERA? Wash and dry your hands.Choose the position that is most comfortable for you (See Step 3).Put your index finger into your vagina and hook it through ANNOVERA. Gently pull downward and forward to remove ANNOVERA and pull it out (See Figure, Step 5). It sometimes helps to push down with the muscles in your vagina while you are removing ANNOVERA.Wash the ANNOVERA vaginal system with mild soap and lukewarm water, pat it dry, and store in the case provided.Mark your vaginal system “out day” on your calendar. |
+|  | Step 5. How do I remove ANNOVERA? Wash and dry your hands.Choose the position that is most comfortable for you (See Step 3).Put your index finger into your vagina and hook it through ANNOVERA. Gently pull downward and forward to remove ANNOVERA and pull it out (See Figure, Step 5). It sometimes helps to push down with the muscles in your vagina while you are removing ANNOVERA.Wash the ANNOVERA vaginal system with mild soap and lukewarm water, pat it dry, and store in the case provided.Mark your vaginal system "out day" on your calendar. |
 
 What else should I know about ANNOVERA?
 
-- The day of the week when you first insert ANNOVERA (called “Day 1”) is your vaginal system change day.
-  This is described further in the Patient Information section entitled “How should I use ANNOVERA?”
+- The day of the week when you first insert ANNOVERA (called "Day 1") is your vaginal system change day.
+  This is described further in the Patient Information section entitled "How should I use ANNOVERA?"
 - For each cycle, you put the vaginal system into your vagina and let it stay there 3 weeks (21 full days).
   Remember to keep the vaginal system in for the whole 3 weeks (21 full days).
 - You take the vaginal system out on your vaginal system change day (Day 22) and let it stay out for 1 week (7 full days).
@@ -76,7 +76,7 @@ What else should I know about ANNOVERA?
 - Repeat the 4-week cycle for all 13 cycles of the use of the vaginal system.
 - Do not use the vaginal system for more than 13 cycles (1 year).
   When you take the vaginal system out of your vagina at the end of the 13 cycles, dispose of it.
-  See “How should I dispose of (throw away) ANNOVERA?” below.
+  See "How should I dispose of (throw away) ANNOVERA?" below.
 - If you want to continue using ANNOVERA after 13 cycles, you will need to get a new prescription from your healthcare provider to obtain a new vaginal system.
 - Do not to use any vaginal products such as oil-based suppositories, oil-based creams, or oil-based gels while the vaginal system is in your vagina.
   Do not use any vaginal lubricants that have silicone or oil in them.
@@ -129,9 +129,9 @@ What should I do if ANNOVERA comes out of my vagina?
 ANNOVERA can slip or accidentally come out of your vagina (expelled), for example, during sexual intercourse, bowel movements, or use of tampons.
 
 - If ANNOVERA slips out of your vagina, wash ANNOVERA with mild soap and warm water, rinse and pat dry with a clean cloth towel or paper towel and put it back in your vagina right away or within 2 hours.
-  See “Can I take ANNOVERA out during the first 3 weeks of my cycle?” in the section above.
+  See "Can I take ANNOVERA out during the first 3 weeks of my cycle?" in the section above.
 - ANNOVERA can move around and become visible at the opening of your vagina.
-  If this happens follow “Step 4” above for directions on how to push ANNOVERA back to its right position.
+  If this happens follow "Step 4" above for directions on how to push ANNOVERA back to its right position.
 
 What if I lose ANNOVERA?
 

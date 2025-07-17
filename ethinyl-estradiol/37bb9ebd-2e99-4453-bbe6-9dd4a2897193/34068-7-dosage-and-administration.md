@@ -43,7 +43,7 @@ In all of these cases, the woman should use an additional barrier method during 
 Use after Abortion or Miscarriage:
 
 If a woman has no contraindications to the use of EE, ANNOVERA may be initiated for contraception within the first 5 days following a complete first trimester abortion or miscarriage without additional back-up contraception.
-If more than 5 days have elapsed from the first trimester abortion or miscarriage, then follow the instructions for “No Hormonal Contraceptive Use in the Preceding Cycle” and a barrier method should be used from the time of the first trimester abortion or miscarriage to the initiation of ANNOVERA.
+If more than 5 days have elapsed from the first trimester abortion or miscarriage, then follow the instructions for "No Hormonal Contraceptive Use in the Preceding Cycle" and a barrier method should be used from the time of the first trimester abortion or miscarriage to the initiation of ANNOVERA.
 
 ANNOVERA should not be started earlier than 4 weeks after a second trimester abortion or miscarriage due to the increased risk of thromboembolism [see Contraindications (4) and Warnings and Precautions (5.1)].
 

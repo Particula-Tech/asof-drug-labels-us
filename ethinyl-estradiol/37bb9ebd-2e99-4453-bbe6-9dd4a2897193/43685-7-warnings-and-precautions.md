@@ -119,8 +119,8 @@ Consider discontinuation of ANNOVERA in the case of increased frequency or sever
 
 ## 5.9 Bleeding Irregularities and Amenorrhea
 
-Bleeding and/or spotting that occurs at any time while the vaginal system is inserted is considered “unscheduled” bleeding/spotting.
-Bleeding/spotting that occurs during the dose-free week when the vaginal system is out is considered “scheduled” bleeding.
+Bleeding and/or spotting that occurs at any time while the vaginal system is inserted is considered "unscheduled" bleeding/spotting.
+Bleeding/spotting that occurs during the dose-free week when the vaginal system is out is considered "scheduled" bleeding.
 
 Unscheduled and Scheduled Bleeding and Spotting
 

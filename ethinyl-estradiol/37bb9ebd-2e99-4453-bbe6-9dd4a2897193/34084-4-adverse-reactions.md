@@ -70,4 +70,4 @@ Both of these studies found an increased risk of breast cancer with current use 
 Figure 2: Relevant Studies of Risk of Breast Cancer with Combined Oral Contraceptives
 
 RR = relative risk; OR = odds ratio; HR = hazard ratio.
-“ever COC” are females with current or past COC use; “never COC use” are females who never used COCs.
+"ever COC" are females with current or past COC use; "never COC use" are females who never used COCs.
