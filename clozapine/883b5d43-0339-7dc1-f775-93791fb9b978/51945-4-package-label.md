@@ -4,18 +4,17 @@ NDC 0378-0825-01
 
 Clozapine Tablets, USP 25 mg
 
-Dispensing should be contingent upon ANC results and should not exceed limits as specified in the full product labeling.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Rx only 100 Tablets
 
 Each tablet contains: Clozapine, USP 25 mg
 
-Usual Adult Dosage: See accompanying prescribing information.
+Recommended Dosage: See Prescribing Information.
 
 Keep this and all medication out of the reach of children.
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+Store at room temperature between 20°C to 25°C (68°F to 77°F); excursion permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
@@ -23,7 +22,7 @@ Made in India
 
 Mylan.com
 
-RMXA0825A1
+RMXA0825AX
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -37,18 +36,17 @@ NDC 0378-0972-01
 
 Clozapine Tablets, USP 50 mg
 
-Dispensing should be contingent upon ANC results and should not exceed limits as specified in the full product labeling.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Rx only 100 Tablets
 
 Each tablet contains: Clozapine, USP 50 mg
 
-Usual Adult Dosage: See accompanying prescribing information.
+Recommended Dosage: See Prescribing Information.
 
 Keep this and all medication out of the reach of children.
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+Store at room temperature between 20°C to 25°C (68°F to 77°F); excursion permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
@@ -56,7 +54,7 @@ Made in India
 
 Mylan.com
 
-RMXA0972A1
+RMXA0972AX
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -70,18 +68,17 @@ NDC 0378-0860-01
 
 Clozapine Tablets, USP 100 mg
 
-Dispensing should be contingent upon ANC results and should not exceed limits as specified in the full product labeling.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Rx only 100 Tablets
 
 Each tablet contains: Clozapine, USP 100 mg
 
-Usual Adult Dosage: See accompanying prescribing information.
+Recommended Dosage: See Prescribing Information.
 
 Keep this and all medication out of the reach of children.
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+Store at room temperature between 20°C to 25°C (68°F to 77°F); excursion permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
@@ -89,7 +86,7 @@ Made in India
 
 Mylan.com
 
-RMXA0860A1
+RMXA0860BX
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -103,18 +100,17 @@ NDC 0378-0973-01
 
 Clozapine Tablets, USP 200 mg
 
-Dispensing should be contingent upon ANC results and should not exceed limits as specified in the full product labeling.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 Rx only 100 Tablets
 
 Each tablet contains: Clozapine, USP 200 mg
 
-Usual Adult Dosage: See accompanying prescribing information.
+Recommended Dosage: See Prescribing Information.
 
 Keep this and all medication out of the reach of children.
 
-Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
+Store at room temperature between 20°C to 25°C (68°F to 77°F); excursion permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
@@ -122,7 +118,7 @@ Made in India
 
 Mylan.com
 
-RMXA0973A1
+RMXA0973AX
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

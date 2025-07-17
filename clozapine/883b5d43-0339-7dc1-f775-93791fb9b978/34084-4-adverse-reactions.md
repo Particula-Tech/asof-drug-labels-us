@@ -3,24 +3,24 @@
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
 - •Severe Neutropenia [see Warnings and Precautions (5.1)]
-- •Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.3)]
-- •Falls [see Warnings and Precautions (5.4)]
-- •Seizures [see Warnings and Precautions (5.5)]
-- •Myocarditis, Pericarditis, Cardiomyopathy, and Mitral Valve Incompetence [see Warnings and Precautions (5.6)]
-- •Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.7)]
-- •Gastrointestinal Hypomotility with Severe Complications [see Warnings and Precautions (5.8)]
-- •Eosinophilia [see Warnings and Precautions (5.9)]
-- •QT Interval Prolongation [see Warnings and Precautions (5.10)]
-- •Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.11)]
-- •Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.12)]
-- •Hepatotoxicity [see Warnings and Precautions (5.13)]
-- •Fever [see Warnings and Precautions (5.14)]
-- •Pulmonary Embolism [see Warnings and Precautions (5.15)]
-- •Anticholinergic Toxicity [see Warnings and Precautions (5.16)]
-- •Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.17)]
-- •Tardive Dyskinesia [see Warnings and Precautions (5.18)]
-- •Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.19)]
-- •Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.20)]
+- •Orthostatic Hypotension, Bradycardia, and Syncope [see Warnings and Precautions (5.2)]
+- •Falls [see Warnings and Precautions (5.3)]
+- •Seizures [see Warnings and Precautions (5.4)]
+- •Myocarditis, Pericarditis, Cardiomyopathy, and Mitral Valve Incompetence [see Warnings and Precautions (5.5)]
+- •Increased Mortality in Elderly Patients with Dementia-Related Psychosis [see Warnings and Precautions (5.6)]
+- •Gastrointestinal Hypomotility with Severe Complications [see Warnings and Precautions (5.7)]
+- •Eosinophilia [see Warnings and Precautions (5.8)]
+- •QT Interval Prolongation [see Warnings and Precautions (5.9)]
+- •Metabolic Changes (Hyperglycemia and Diabetes Mellitus, Dyslipidemia, and Weight Gain) [see Warnings and Precautions (5.10)]
+- •Neuroleptic Malignant Syndrome [see Warnings and Precautions (5.11)]
+- •Hepatotoxicity [see Warnings and Precautions (5.12)]
+- •Fever [see Warnings and Precautions (5.13)]
+- •Pulmonary Embolism [see Warnings and Precautions (5.14)]
+- •Anticholinergic Toxicity [see Warnings and Precautions (5.15)]
+- •Interference with Cognitive and Motor Performance [see Warnings and Precautions (5.16)]
+- •Tardive Dyskinesia [see Warnings and Precautions (5.17)]
+- •Cerebrovascular Adverse Reactions [see Warnings and Precautions (5.18)]
+- •Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation [see Warnings and Precautions (5.19)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -30,7 +30,7 @@ The most commonly reported adverse reactions (≥ 5%) across clozapine tablets c
 Table 9 summarizes the most commonly reported adverse reactions (≥ 5%) in clozapine tablets-treated patients (compared to chlorpromazine-treated patients) in the pivotal, 6-week, controlled trial in treatment-resistant schizophrenia.
 
 Table 9.
-Common Adverse Reactions (≥ 5%) in the 6-Week, Randomized, Chlorpromazine-Controlled Trial in Treatment-Resistant Schizophrenia
+Common Adverse Reactions (≥ 5%) in the 6-Week, Randomized, Chlorpromazine-controlled Trial in Treatment-Resistant Schizophrenia
 
 | Adverse Reaction | Clozapine Tablets (N = 126) (%) | Chlorpromazine (N = 142) (%) |
 | --- | --- | --- |
@@ -50,7 +50,7 @@ Table 10 summarizes the adverse reactions reported in clozapine tablets-treated 
 These rates are not adjusted for duration of exposure.
 
 Table 10.
-Adverse Reactions (≥ 2%) Reported in Clozapine Tablets-Treated Patients (N = 842) Across all Clozapine Tablets Studies (excluding the 2-year InterSePT™ Study)
+Adverse Reactions (≥ 2%) Reported in Clozapine Tablets-treated Patients (N = 842) Across all Clozapine Tablets Studies (excluding the 2-year InterSePT™ Study)
 
 | Body System Adverse ReactionRate based on population of approximately 1700 exposed during premarket clinical evaluation of clozapine tablets. | Clozapine Tablets N = 842 Percentage of Patients |
 | --- | --- |
@@ -101,7 +101,7 @@ This was an adequate and well-controlled, two-year study evaluating the efficacy
 The rates are not adjusted for duration of exposure.
 
 Table 11.
-Incidence of Adverse Reactions in Patients Treated with Clozapine Tablets or Olanzapine in the InterSePT™ Study (≥ 10% in the Clozapine Tablets or Olanzapine Group)
+Incidence of Adverse Reactions in Patients Treated with Clozapine Tablets or Olanzapine in the InterSePT™ Study (≥ 10% in the Clozapine Tablets or olanzapine group)
 
 | Adverse Reactions | Clozapine Tablets N = 479 % Reporting | Olanzapine N = 477 % Reporting |
 | --- | --- | --- |

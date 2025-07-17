@@ -2,99 +2,50 @@
 
 ## 5.1 Severe Neutropenia
 
-### Background
+Clozapine tablets have caused severe neutropenia (absolute neutrophil count (ANC) less than 500/μL) [see Adverse Reactions (6.1, 6.2)] and is associated with an increased risk of serious and potentially fatal infections.
+Severe neutropenia occurred in a small percentage of clozapine tablets-treated patients.
+The risk of severe neutropenia appears greatest during the first 18 weeks of clozapine tablets treatment.
+The mechanism by which clozapine tablets cause neutropenia is unknown.
+Neutropenia is not dose dependent.
 
-Clozapine tablets can cause neutropenia (a low absolute neutrophil count (ANC)), defined as a reduction below pre-treatment normal levels of blood neutrophils.
-The ANC is usually available as a component of the complete blood count (CBC), including differential, and is more relevant to drug-induced neutropenia than is the white blood cell (WBC) count.
-The ANC may also be calculated using the following formula: ANC equals the Total WBC count multiplied by the total percentage of neutrophils obtained from the differential (neutrophil “segs” plus neutrophil “bands”).
-Other granulocytes (basophils and eosinophils) contribute minimally to neutropenia and their measurement is not necessary [see Adverse Reactions (6.2)].
-Neutropenia may be mild, moderate, or severe (see Tables 2 and 3).
-To improve and standardize understanding, “severe neutropenia” replaces the previous terms severe leukopenia, severe granulocytopenia, or agranulocytosis.
+Consider a hematology consultation before initiating clozapine tablets treatment or during treatment.
 
-Severe neutropenia, ANC less than (<) 500/μL, occurs in a small percentage of patients taking clozapine tablets and is associated with an increase in the risk of serious and potentially fatal infections.
-Risk of neutropenia appears greatest during the first 18 weeks on treatment and then declines.
-The mechanism by which clozapine tablets cause neutropenia is unknown and is not dose-dependent.
+### ANC Monitoring and Dosage Modifications
 
-Two separate management algorithms are provided below, the first for patients in the general population, and the second for patients identified to have baseline neutropenia.
+Prior to initiating clozapine tablets treatment, obtain a baseline ANC.
+Clozapine tablets initiation is not recommended in patients with a baseline ANC less than 1500/μL.
+Throughout clozapine tablets treatment, regularly monitor ANC.
+Table 1 provides recommendations for dosage modifications (dosage interruption and treatment discontinuation), based on ANC levels, during clozapine tablets treatment and frequency of ANC monitoring [see Dosage and Administration (2.3)].
 
-### Clozapine Tablets Treatment and Monitoring in the General Patient Population (see Table 2)
+### ANC Monitoring and Dosage Modification in Patients with Benign Ethnic Neutropenia
 
-Obtain a CBC, including the ANC value, prior to initiating treatment with clozapine tablets to ensure the presence of a normal baseline neutrophil count (equal to or greater than 1500/μL) and to permit later comparisons.
-Patients in the general population with an ANC equal to or greater than (≥) 1500/μL are considered within normal range (Table 2) and are eligible to initiate treatment.
-Weekly ANC monitoring is required for all patients during the first 6 months of treatment.
-If a patient’s ANC remains equal to or greater than 1500/μL for the first 6 months of treatment, monitoring frequency may be reduced to every 2 weeks for the next 6 months.
-If the ANC remains equal to or greater than 1500/μL for the second 6 months of continuous therapy, ANC monitoring frequency may be reduced to once every 4 weeks thereafter.
+Patients with Benign Ethnic Neutropenia (BEN) (also known as Duffy-null associated neutrophil count) generally have lower baseline neutrophil counts but they are not at higher risk for developing infections, and they are not at increased risk for developing clozapine tablets-induced neutropenia.
 
-Table 2.
-Clozapine Tablets Treatment Recommendations Based on Absolute Neutrophil Count (ANC) Monitoring for the General Patient Population
+For patients with documented BEN, obtain at least two baseline ANC levels prior to clozapine tablets initiation.
+Clozapine tablets initiation is not recommended in patients with BEN with an ANC less than 1000/μL.
+There are different ANC dosage modification recommendations in clozapine tablets-treated patients with BEN due to their lower baseline ANC levels.
+Table 2 provides recommendations on dosage modifications (dosage interruption and treatment discontinuation), based on ANC monitoring, during clozapine tablets treatment in patients with BEN and recommended frequency of ANC testing [see Dosage and Administration (2.4)].
 
-| ANC Level | Clozapine Tablets Treatment Recommendations | ANC Monitoring |
-| --- | --- | --- |
-| Normal range (≥ 1500/μL) | •Initiate treatment•If treatment interrupted: -< 30 days, continue monitoring as before-≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
-| •Discontinuation for reasons other than neutropenia | •See Section 2.4 |  |
-| Mild Neutropenia (1000 to 1499/μL)Confirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours | •Continue treatment | •Three times weekly until ANC ≥ 1500/μL•Once ANC ≥ 1500/μL, return to patient’s last “Normal Range” ANC monitoring intervalIf clinically appropriate |
-| Moderate Neutropenia (500 to 999/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine induced neutropenia•Resume treatment once ANC ≥ 1000/µL | •Daily until ANC ≥ 1000/µL, then•Three times weekly until ANC ≥ 1500/µL•Once ANC ≥ 1500/µL, check ANC weekly for 4 weeks, then return to patient’s last “Normal Range” ANC monitoring interval |
-| Severe Neutropenia (less than 500/µL) | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥ 1000/µL, then •Three times weekly until ANC ≥ 1500/µL•If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥ 1500/µL |
+### Management of Clozapine Tablets-Treated Patients Who Develop a Fever
 
-### Clozapine Tablets Treatment and Monitoring in Patients with Benign Ethnic Neutropenia (see Table 3)
+For patients who develop a fever during clozapine tablets treatment:
 
-Benign ethnic neutropenia (BEN) is a condition observed in certain ethnic groups whose average ANC values are lower than “standard” laboratory ranges for neutrophils.
-It is most commonly observed in individuals of African descent (approximate prevalence of 25-50%), some Middle Eastern ethnic groups, and in other non-Caucasian ethnic groups with darker skin.
-BEN is more common in men.
-Patients with BEN have normal hematopoietic stem-cell number and myeloid maturation, are healthy, and do not suffer from repeated or severe infections.
-They are not at increased risk for developing clozapine tablets-induced neutropenia.
-Additional evaluation may be needed to determine if baseline neutropenia is due to BEN.
-Consider hematology consultation before initiating or during clozapine tablets treatment as necessary.
+- •Interrupt clozapine tablets in those who develop a temperature of 101.3 °F (38.5 °C) or greater and obtain an ANC level.
+- •If the ANC is less than 1000/µL in patients without BEN, initiate appropriate workup and treatment for infection.
+  Refer to Table 1 or Table 2 for dosage modifications based on ANC monitoring [see Dosage and Administration (2.3, 2.4)].
 
-Patients with BEN require a different ANC algorithm for clozapine tablets management due to their lower baseline ANC levels.
-Table 3 provides guidelines for managing clozapine tablets treatment and ANC monitoring in patients with BEN.
+In patients with fever and a normal neutrophil count, see Warnings and Precautions (5.11) for neuroleptic malignant syndrome and Warnings and Precautions (5.13) for fever.
 
-Table 3.
-Patients with Benign Ethnic Neutropenia (BEN); Clozapine Tablets Treatment Recommendations Based on Absolute Neutrophil Count (ANC) Monitoring
+### Restarting Clozapine Tablets in Patients Who Recovered from Severe Neutropenia
 
-| ANC Level | Treatment Recommendations | ANC Monitoring |
-| --- | --- | --- |
-| Normal BEN Range (Established ANC baseline ≥ 1000/µL) | •Obtain at least two baseline ANC levels before initiating treatment•If treatment interrupted -< 30 days, continue monitoring as before-≥ 30 days, monitor as if new patient | •Weekly from initiation to 6 months•Every 2 weeks from 6 to 12 months•Monthly after 12 months |
-| •Discontinuation of treatment for reasons other than neutropenia | •See Section 2.4 |  |
-| BEN Neutropenia 500 to 999/µLConfirm all initial reports of ANC less than 1500/µL with a repeat ANC measurement within 24 hours | •Recommend hematology consultation•Continue treatment | •Three times weekly until ANC ≥ 1000/µL or ≥ patient’s known baseline•Once ANC ≥ 1000/µL or at patient’s known baseline, check ANC weekly for 4 weeks, then return to patient’s last “Normal BEN Range” ANC monitoring interval.If clinically appropriate |
-| BEN Severe Neutropenia less than 500/µL | •Recommend hematology consultation•Interrupt treatment for suspected clozapine-induced neutropenia•Do not rechallenge unless prescriber determines benefits outweigh risks | •Daily until ANC ≥ 500/µL, then•Three times weekly until ANC ≥ patient’s baseline •If patient rechallenged, resume treatment as a new patient under “Normal Range” monitoring once ANC ≥ 1000/µL or at patient’s baseline |
+Generally, do not rechallenge patients with clozapine tablets in those who experienced severe neutropenia.
+However, for some patients who had resolution of their clozapine tablets-related severe neutropenia after stopping clozapine tablets, the risk of schizophrenia exacerbation from not restarting clozapine tablets treatment may be greater than the risk of neutropenia reoccurrence from restarting clozapine tablets (e.g., patients who have no treatment options other than clozapine tablets).
 
-### General Guidelines for Management of All Patients with Fever or with Neutropenia
+### Concomitant Use of Clozapine Tablets with Other Drugs Known to Cause Neutropenia
 
-- •Fever: Interrupt clozapine tablets as a precautionary measure in any patient who develops fever, defined as a temperature of 38.5°C [101.3°F] or greater, and obtain an ANC level.
-  Fever is often the first sign of neutropenic infection.
-- •ANC less than 1000/µL: If fever occurs in any patient with an ANC less than 1000/µL, initiate appropriate workup and treatment for infection and refer to Tables 2 or 3 for management.
-- •Consider hematology consultation.
-- •See Neuroleptic Malignant Syndrome [NMS] and Fever under WARNINGS and PRECAUTIONS (5) and Instructions for Patients, under PATIENT COUNSELING INFORMATION (17).
+If clozapine tablets are used concomitantly with another drug known to cause neutropenia, consider more frequently ANC monitoring than the recommendations provided in Table 1 and Table 2.
 
-### Rechallenge After an ANC Less Than 500/µL (Severe Neutropenia)
-
-For some patients who experience severe clozapine tablets-related neutropenia, the risk of serious psychiatric illness from discontinuing clozapine tablets treatment may be greater than the risk of rechallenge (e.g., patients with severe schizophrenic illness who have no treatment options other than clozapine tablets).
-A hematology consultation may be useful in deciding to rechallenge a patient.
-In general, however, do not rechallenge patients who develop severe neutropenia with clozapine tablets or a clozapine product.
-
-If a patient will be rechallenged, the clinician should consider thresholds provided in Tables 2 and 3, the patient’s medical and psychiatric history, a discussion with the patient and his/her caregiver about the benefits and risks of clozapine tablets rechallenge, and the severity and characteristics of the neutropenic episode.
-
-### Using Clozapine Tablets with Other Drugs Associated with Neutropenia
-
-It is unclear if concurrent use of other drugs known to cause neutropenia increases the risk or severity of clozapine tablets-induced neutropenia.
-There is no strong scientific rationale to avoid clozapine tablets treatment in patients concurrently treated with these drugs.
-If clozapine tablets are used concurrently with an agent known to cause neutropenia (e.g., some chemotherapeutic agents), consider monitoring patients more closely than the treatment guidelines provided in Tables 2 and 3.
-Consult with the treating oncologist in patients receiving concomitant chemotherapy.
-
-## 5.2 Clozapine REMS Program
-
-Clozapine tablets are only available through a restricted program under a REMS called the Clozapine REMS Program because of the risk of severe neutropenia.
-
-Notable requirements of the Clozapine REMS Program include:
-
-- •Healthcare professionals who prescribe clozapine tablets must be certified with the program by enrolling and completing training
-- •Patients who receive clozapine tablets must be enrolled in the program and comply with the ANC testing and monitoring requirements
-- •Pharmacies dispensing clozapine tablets must be certified with the program by enrolling and completing training and must only dispense to patients who are eligible to receive clozapine tablets
-
-Further information is available at www.clozapineREMS.com or 1-888-586-0758.
-
-## 5.3 Orthostatic Hypotension, Bradycardia, and Syncope
+## 5.2 Orthostatic Hypotension, Bradycardia, and Syncope
 
 Hypotension, bradycardia, syncope, and cardiac arrest have occurred with clozapine treatment.
 The risk is highest during the initial titration period, particularly with rapid dose-escalation.
@@ -109,16 +60,16 @@ The maximum dose is 900 mg per day.
 Use cautious titration and a divided dosage schedule to minimize the risk of serious cardiovascular reactions [see Dosage and Administration (2.2)].
 Consider reducing the dose if hypotension occurs.
 When restarting clozapine tablets in patients who have had even a brief interruption in treatment with clozapine tablets, the dosage must be reduced.
-This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Dosage and Administration (2.5)].
+This is necessary to minimize the risk of hypotension, bradycardia, and syncope [see Dosage and Administration (2.6)].
 
 Use clozapine tablets cautiously in patients with cardiovascular disease (history of myocardial infarction or ischemia, heart failure, or conduction abnormalities), cerebrovascular disease, and conditions which would predispose patients to hypotension (e.g., concomitant use of antihypertensives, dehydration and hypovolemia).
 
-## 5.4 Falls
+## 5.3 Falls
 
 Clozapine tablets may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
 For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
-## 5.5 Seizures
+## 5.4 Seizures
 
 Seizure has been estimated to occur in association with clozapine use at a cumulative incidence at one year of approximately 5%, based on the occurrence of one or more seizures in 61 of 1743 patients exposed to clozapine during its clinical testing prior to domestic marketing (i.e., a crude rate of 3.5%).
 The risk of seizure is dose-related.
@@ -127,20 +78,20 @@ Initiate treatment with a low dose (12.5 mg), titrate slowly, and use divided do
 Use caution when administering clozapine tablets to patients with a history of seizures or other predisposing risk factors for seizure (e.g., head trauma or other CNS pathology, use of medications that lower the seizure threshold, or alcohol abuse).
 Because of the substantial risk of seizure associated with clozapine tablets use, caution patients about engaging in any activity where sudden loss of consciousness could cause serious risk to themselves or others (e.g., driving an automobile, operating complex machinery, swimming, climbing).
 
-## 5.6 Myocarditis, Pericarditis, Cardiomyopathy and Mitral Valve Incompetence
+## 5.5 Myocarditis, Pericarditis, Cardiomyopathy and Mitral Valve Incompetence
 
 Myocarditis, pericarditis, and cardiomyopathy have occurred with the use of clozapine tablets.
 These reactions can be fatal.
-Discontinue clozapine tablets and obtain a cardiac evaluation upon suspicion of myocarditis or cardiomyopathy.
+Discontinue clozapine tablets and obtain a cardiac evaluation upon suspicion of myocarditis, pericarditis, or cardiomyopathy.
 Generally, patients with a history of clozapine-associated myocarditis or cardiomyopathy should not be rechallenged with clozapine tablets.
 However, if the benefit of clozapine tablets treatment is judged to outweigh the potential risks of recurrence, the clinician may consider rechallenge with clozapine tablets in consultation with a cardiologist.
 
 Myocarditis and pericarditis most frequently present within the first 2 months of clozapine treatment.
-Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis and usually after 8 weeks of treatment.
+Symptoms of cardiomyopathy generally occur later than clozapine-associated myocarditis or pericarditis and usually after 8 weeks of treatment.
 However, myocarditis, pericarditis, and cardiomyopathy can occur at any period during treatment with clozapine tablets.
-In patients who are diagnosed with cardiomyopathy while taking clozapine tablets, mitral valve incompetence has been reported.
+In patients who are diagnosed with cardiomyopathy while taking clozapine tablets mitral valve incompetence has been reported.
 
-## 5.7 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+## 5.6 Increased Mortality in Elderly Patients with Dementia-Related Psychosis
 
 Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Analyses of 17 placebo-controlled trials (modal duration of 10 weeks), largely in patients taking atypical antipsychotic drugs, revealed a risk of death in drug-treated patients of between 1.6 to 1.7 times the risk of death in placebo-treated patients.
@@ -150,13 +101,13 @@ Observational studies suggest that, similar to atypical antipsychotic drugs, tre
 The extent to which the findings of increased mortality in observational studies may be attributed to the antipsychotic drug as opposed to some characteristic(s) of the patients is not clear.
 Clozapine tablets are not approved for the treatment of patients with dementia-related psychosis [see Boxed Warning].
 
-## 5.8 Gastrointestinal Hypomotility with Severe Complications
+## 5.7 Gastrointestinal Hypomotility with Severe Complications
 
 Severe gastrointestinal adverse reactions have occurred with the use of clozapine tablets, primarily due to their potent anticholinergic effects and resulting gastrointestinal hypomotility.
 In post marketing experience, reported effects range from constipation to paralytic ileus.
-Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon and intestinal obstruction, ischemia, infarction, perforation, ulceration, or necrosis [see Adverse Reaction (6.2)].
+Increased frequency of constipation and delayed diagnosis and treatment increased the risk of severe complications of gastrointestinal hypomotility, which can result in fecal impaction, megacolon, and intestinal obstruction, ischemia, infarction, perforation, ulceration, or necrosis [see Adverse Reaction (6.2)].
 These reactions have resulted in hospitalization, surgery, and death.
-The risk of severe adverse reactions is further increased with anticholinergic medications (and other medications that decrease gastrointestinal peristalsis); therefore, concomitant use should be avoided when possible [see Warnings and Precautions (5.16), Drug Interactions (7.1)].
+The risk of severe adverse reactions is further increased with anticholinergic medications (and other medications that decrease gastrointestinal peristalsis); therefore, concomitant use should be avoided when possible [see Warnings and Precautions (5.15), Drug Interactions (7.1)].
 
 Prior to initiating clozapine tablets, screen for constipation and treat as necessary.
 Subjective symptoms of constipation may not accurately reflect the degree of gastrointestinal hypomotility in clozapine tablets treated patients.
@@ -164,7 +115,7 @@ Therefore, reassess bowel function frequently with careful attention to any chan
 If constipation or gastrointestinal hypomotility are identified, monitor closely and treat promptly with appropriate laxatives, as necessary, to prevent severe complications.
 Consider prophylactic laxatives in high risk patients.
 
-## 5.9 Eosinophilia
+## 5.8 Eosinophilia
 
 Eosinophilia, defined as a blood eosinophil count of greater than 700/μL, has occurred with clozapine tablets treatment.
 In clinical trials, approximately 1% of patients developed eosinophilia.
@@ -181,7 +132,7 @@ There are reports of successful rechallenge after discontinuation of clozapine, 
 In the absence of organ involvement, continue clozapine tablets under careful monitoring.
 If the total eosinophil count continues to increase over several weeks in the absence of systemic disease, the decision to interrupt clozapine tablets therapy and rechallenge after the eosinophil count decreases should be based on the overall clinical assessment, in consultation with an internist or hematologist.
 
-## 5.10 QT Interval Prolongation
+## 5.9 QT Interval Prolongation
 
 QT prolongation, Torsades de Pointes and other life-threatening ventricular arrhythmias, cardiac arrest, and sudden death have occurred with clozapine tablets treatment.
 When prescribing clozapine tablets, consider the presence of additional risk factors for QT prolongation and serious cardiovascular reactions.
@@ -204,9 +155,9 @@ Use caution when treating patients at risk for significant electrolyte disturban
 Obtain baseline measurements of serum potassium and magnesium levels, and periodically monitor electrolytes.
 Correct electrolyte abnormalities before initiating treatment with clozapine tablets.
 
-## 5.11 Metabolic Changes
+## 5.10 Metabolic Changes
 
-Atypical antipsychotic drugs, including clozapine tablets, have been associated with metabolic changes that can increase cardiovascular and cerebrovascular risk.
+Atypical antipsychotic drugs, including clozapine tablets have been associated with metabolic changes that can increase cardiovascular and cerebrovascular risk.
 These metabolic changes include hyperglycemia, dyslipidemia, and body weight gain.
 While atypical antipsychotic drugs may produce some metabolic changes, each drug in the class has its own specific risk profile.
 
@@ -237,7 +188,7 @@ Categorical Changes in Fasting Glucose Level in Studies in Adult Subjects with S
 | --- | --- | --- | --- | --- |
 | Fasting Glucose | Normal (< 100 mg/dL) to High (≥ 126 mg/dL) | Clozapine Tablets | 198 | 53 (27) |
 | Chlorpromazine | 135 | 14 (10) |  |  |
-| Borderline (100 mg/dL to 125 mg/dL) to High (≥ 126 mg/dL) | Clozapine Tablets | 57 | 24 (42) |  |
+| Borderline (100 to 125 mg/dL) to High (≥ 126 mg/dL) | Clozapine Tablets | 57 | 24 (42) |  |
 | Chlorpromazine | 43 | 12 (28) |  |  |
 
 ### Dyslipidemia
@@ -315,7 +266,7 @@ Proportion of Adult Subjects in Schizophrenia Studies with Weight Gain ≥ 7% Re
 | N | 669 | 442 | 155 |
 | ≥ 7% (inclusive) | 236 (35%) | 203 (46%) | 13 (8%) |
 
-## 5.12 Neuroleptic Malignant Syndrome
+## 5.11 Neuroleptic Malignant Syndrome
 
 Antipsychotic drugs including clozapine tablets can cause a potentially fatal symptom complex referred to as Neuroleptic Malignant Syndrome (NMS).
 Clinical manifestations of NMS include hyperpyrexia, muscle rigidity, altered mental status, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).
@@ -333,13 +284,13 @@ Monitor closely if restarting treatment with antipsychotics.
 
 NMS has occurred with clozapine tablets monotherapy and with concomitant CNS-active medications, including lithium.
 
-## 5.13 Hepatotoxicity
+## 5.12 Hepatotoxicity
 
 Severe, life threatening, and in some cases fatal hepatotoxicity including hepatic failure, hepatic necrosis, and hepatitis have been reported in post marketing studies in patients treated with clozapine [see Adverse Reactions (6.2)].
 Monitor for the appearance of signs and symptoms of hepatotoxicity such as fatigue, malaise, anorexia, nausea, jaundice, bilirubinemia, coagulopathy, and hepatic encephalopathy.
 Perform serum tests for liver injury and consider permanently discontinuing treatment if hepatitis or transaminase elevations combined with other systemic symptoms are due to clozapine.
 
-## 5.14 Fever
+## 5.13 Fever
 
 During clozapine therapy, patients have experienced transient, clozapine-related fever.
 The peak incidence is within the first 3 weeks of treatment.
@@ -348,27 +299,27 @@ The fever can be associated with an increase or decrease in WBC count.
 Carefully evaluate patients with fever to rule out severe neutropenia or infection.
 Consider the possibility of NMS [see Warnings and Precautions (5.11)].
 
-## 5.15 Pulmonary Embolism
+## 5.14 Pulmonary Embolism
 
 Pulmonary embolism and deep-vein thrombosis have occurred in patients treated with clozapine tablets.
 Consider the possibility of pulmonary embolism in patients who present with deep-vein thrombosis, acute dyspnea, chest pain, or with other respiratory signs and symptoms.
 Whether pulmonary embolus and deep-vein thrombosis can be attributed to clozapine or some characteristic(s) of patients is not clear.
 
-## 5.16 Anticholinergic Toxicity
+## 5.15 Anticholinergic Toxicity
 
 Clozapine tablets have potent anticholinergic effects.
 Treatment with clozapine tablets can result in CNS and peripheral anticholinergic toxicity, especially at higher dosages, or in overdose situations [see Overdosage (10)].
 Use with caution in patients with a current diagnosis or prior history of constipation, urinary retention, clinically significant prostatic hypertrophy, or other conditions in which anticholinergic effects can lead to significant adverse reactions.
-When possible, avoid concomitant use, with other anticholinergic medications because the risk for anticholinergic toxicity or severe gastrointestinal adverse reactions is increased [see Warnings and Precautions (5.8), Drug Interactions (7.1)].
+When possible, avoid concomitant use, with other anticholinergic medications because the risk for anticholinergic toxicity or severe gastrointestinal adverse reactions is increased [see Warnings and Precautions (5.7), Drug Interactions (7.1)].
 
-## 5.17 Interference with Cognitive and Motor Performance
+## 5.16 Interference with Cognitive and Motor Performance
 
 Clozapine tablets can cause sedation and impairment of cognitive and motor performance.
 Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain that clozapine tablets do not affect them adversely.
 These reactions may be dose-related.
 Consider reducing the dose if they occur.
 
-## 5.18 Tardive Dyskinesia
+## 5.17 Tardive Dyskinesia
 
 Tardive dyskinesia (TD) has occurred in patients treated with antipsychotic drugs, including clozapine tablets.
 The syndrome consists of potentially irreversible, involuntary, dyskinetic movements.
@@ -380,18 +331,17 @@ Periodically assess the need for continued treatment.
 Consider discontinuing treatment if TD occurs.
 However, some patients may require treatment with clozapine tablets despite the presence of the syndrome.
 
-There is no known treatment for TD.
-However, the syndrome may remit partially or completely if treatment is discontinued.
+TD may remit partially or completely if treatment is discontinued.
 Antipsychotic treatment, itself, may suppress (or partially suppress) the signs and symptoms, and it has the potential to mask the underlying process.
 The effect of symptom suppression on the long-term course of TD is unknown.
 
-## 5.19 Cerebrovascular Adverse Reactions
+## 5.18 Cerebrovascular Adverse Reactions
 
 In controlled trials, elderly patients with dementia-related psychosis treated with some atypical antipsychotics had an increased risk (compared to placebo) of cerebrovascular adverse reactions (e.g., stroke, transient ischemic attack), including fatalities.
 The mechanism for this increased risk is not known.
 An increased risk cannot be excluded for clozapine tablets or other antipsychotics or other patient populations.
 Clozapine tablets should be used with caution in patients with risk factors for cerebrovascular adverse reactions.
 
-## 5.20 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of Clozapine Tablets
+## 5.19 Recurrence of Psychosis and Cholinergic Rebound after Abrupt Discontinuation of Clozapine Tablets
 
-If abrupt discontinuation of clozapine tablets is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.4), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting and diarrhea.
+If abrupt discontinuation of clozapine tablets is necessary (because of severe neutropenia or another medical condition, for example) [see Dosage and Administration (2.5), Warnings and Precautions (5.1)], monitor carefully for the recurrence of psychotic symptoms and adverse reactions related to cholinergic rebound, such as profuse sweating, headache, nausea, vomiting and diarrhea.
