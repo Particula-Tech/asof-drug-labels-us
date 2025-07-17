@@ -2,9 +2,9 @@
 
 ## 5.1 Fatal Medication Errors
 
-Do not use Heparin Sodium Injection as a "catheter lock flush" product.
+Do not use Heparin Sodium Injection as a “catheter lock flush” product.
 Heparin Sodium Injection is supplied in vials containing various strengths of heparin, including vials that contain a highly concentrated solution of 10,000 units in 1 mL.
-Fatal hemorrhages have occurred in pediatric patients due to medication errors in which 1 mL Heparin Sodium Injection vials were confused with 1 mL "catheter lock flush" vials.
+Fatal hemorrhages have occurred in pediatric patients due to medication errors in which 1 mL Heparin Sodium Injection vials were confused with 1 mL “catheter lock flush” vials.
 Carefully examine all Heparin Sodium Injection vials to confirm the correct vial choice prior to administration of the drug.
 
 ## 5.2 Hemorrhage
@@ -41,10 +41,10 @@ Patients presenting with thrombocytopenia or thrombosis after discontinuation of
 
 ## 5.4 Risk of Serious Adverse Reactions in Infants Due to Benzyl Alcohol Preservative
 
-Serious and fatal adverse reactions including "gasping syndrome" can occur in neonates and infants treated with benzyl alcohol-preserved drugs, including Heparin Sodium Injection multiple-dose vials.
-The "gasping syndrome" is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
+Serious and fatal adverse reactions including “gasping syndrome” can occur in neonates and infants treated with benzyl alcohol-preserved drugs, including Heparin Sodium Injection single-dose and multiple-dose vials.
+The “gasping syndrome” is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
 
-When prescribing Heparin Sodium Injection multiple-dose vials in infants consider the combined daily metabolic load of benzyl alcohol from all sources including Heparin Sodium Injection multiple-dose vials (contains 10.42 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.
+When prescribing Heparin Sodium Injection single-dose and multiple-dose vials in infants consider the combined daily metabolic load of benzyl alcohol from all sources including Heparin Sodium Injection single-dose and multiple-dose vials (contain 10.5 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.
 The minimum amount of benzyl alcohol at which toxicity may occur is not known [see Use in Specific Populations (8.4)].
 
 ## 5.5 Thrombocytopenia
@@ -72,3 +72,10 @@ Adjustment of heparin doses based on anti-Factor Xa levels may be warranted.
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations.
 
 Because Heparin Sodium Injection is derived from animal tissue, it should be used with caution in patients with a history of allergy.
+
+## 5.9 Hyperkalemia
+
+Heparin can suppress adrenal secretion of aldosterone leading to hyperkalemia, particularly in patients with diabetes mellitus, chronic renal failure, pre-existing metabolic acidosis, a raised plasma potassium, or taking potassium sparing drugs.
+The risk of hyperkalemia appears to increase with duration of therapy but is usually reversible upon discontinuation of heparin.
+
+Measure blood potassium in patients at risk of hyperkalemia before starting heparin therapy and periodically in all patients treated for more than 5 days or earlier as deemed fit by the clinician.

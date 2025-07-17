@@ -44,13 +44,13 @@ There are no adequate and well controlled studies on heparin use in pediatric pa
 Pediatric dosing recommendations are based on clinical experience [see Dosage and Administration (2.4)].
 
 Carefully examine all Heparin Sodium Injection vials to confirm choice of the correct strength prior to administration of the drug.
-Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection, USP vials have been confused with "catheter lock flush" vials [see Warnings and Precautions (5.1)].
+Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with “catheter lock flush” vials [see Warnings and Precautions (5.1)].
 
 Benzyl Alcohol Toxicity
 
 Use preservative-free Heparin Sodium Injection in neonates and infants.
 
-Serious adverse reactions including fatal reactions and the "gasping syndrome" occurred in premature neonates and infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
+Serious adverse reactions including fatal reactions and the “gasping syndrome” occurred in premature neonates and infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
 In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
 Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 Preterm, low-birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
