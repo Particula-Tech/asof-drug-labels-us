@@ -3,7 +3,7 @@
 ## 2.1 Preparation for Administration
 
 Confirm the choice of the correct Heparin Sodium Injection vial or cartridge prior to administration of the drug to a patient [see Warnings and Precautions (5.1)].
-Heparin Sodium Injection, products must not be confused with "catheter lock flush" products.
+Heparin Sodium Injection products must not be confused with “catheter lock flush” products.
 To lessen this risk for a cartridge, a red cautionary statement has been added to the cartridge and box/bin.
 Read the cautionary statement and confirm that you have selected the correct medication and strength.
 
@@ -18,7 +18,7 @@ Do not administer Heparin Sodium Injection by intramuscular injection because of
 
 ## 2.2 Laboratory Monitoring for Efficacy and Safety
 
-Adjust the dosage of Heparin Sodium Injection according to the patient's coagulation test results.
+Adjust the dosage of Heparin Sodium Injection according to the patient’s coagulation test results.
 Dosage is considered adequate when the activated partial thromboplastin time (aPTT) is 1.5 to 2 times normal or when the whole blood clotting time is elevated approximately 2.5 to 3 times the control value.
 When initiating treatment with Heparin Sodium Injection by continuous intravenous infusion, determine the coagulation status (aPTT, INR, platelet count) at baseline and continue to follow aPTT approximately every 4 hours and then at appropriate intervals thereafter.
 When the drug is administered intermittently by intravenous injection, perform coagulation tests before each injection during the initiation of treatment and at appropriate intervals thereafter.
@@ -26,7 +26,7 @@ After deep subcutaneous (intrafat) injections, tests for adequacy of dosage are 
 
 Periodic platelet counts, and hematocrits are recommended during the entire course of heparin therapy, regardless of the route of administration.
 
-## 2.3 Therapeutic Anticoagulant Effect With Full-Dose Heparin
+## 2.3 Therapeutic Anticoagulant Effect with Full-Dose Heparin
 
 The dosing recommendations in Table 1 are based on clinical experience.
 Although dosages must be adjusted for the individual patient according to the results of suitable laboratory tests, the following dosage schedules may be used as guidelines:
@@ -45,6 +45,7 @@ Table 1: Recommended Adult Full-Dose Heparin Regimens for Therapeutic Anticoagul
 
 ## 2.4 Pediatric Use
 
+Do not use benzyl alcohol-preserved drugs in neonates and infants.
 Use preservative-free Heparin Sodium Injection in neonates and infants [see Warnings and Precautions (5.4)].
 
 There are no adequate and well controlled studies on heparin use in pediatric patients.
@@ -54,10 +55,10 @@ In general, the following dosage schedule may be used as a guideline in pediatri
 | Initial Dose | 75 to 100 units/kg (Intravenous bolus over 10 minutes) |
 | --- | --- |
 | Maintenance Dose | Infants: 25 to 30 units/kg/hour; |
-|  | Infants <2 months have the highest requirements (average 28 units/kg/hour) |
-|  | Children >1 year of age: 18 to 20 units/kg/hour; |
+|  | Infants < 2 months have the highest requirements (average 28 units/kg/hour) |
+|  | Children > 1 year of age: 18 to 20 units/kg/hour; |
 |  | Older children may require less heparin, similar to weight-adjusted adult dosage |
-| Monitoring | Adjust heparin to maintain APTT of 60 to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70 |
+| Monitoring | Adjust heparin to maintain aPTT of 60 to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70 |
 
 ## 2.5 Cardiovascular Surgery
 
@@ -67,11 +68,11 @@ Frequently, a dose of 300 units per kilogram is used for procedures estimated to
 ## 2.6 Low-Dose Prophylaxis of Postoperative Thromboembolism
 
 The most widely used dosage has been 5,000 units 2 hours before surgery and 5,000 units every 8 to 12 hours thereafter for 7 days or until the patient is fully ambulatory, whichever is longer.
-Administer the heparin by deep subcutaneous injection (intrafat, i.e., above the iliac crest or abdominal fat layer, arm, or thigh) with a fine (25 to 26-gauge) needle to minimize tissue trauma.
+Administer the heparin by deep subcutaneous injection (intrafat, i.e., above the iliac crest or abdominal fat layer, arm, or thigh) with a fine (25- to 26-gauge) needle to minimize tissue trauma.
 
 ## 2.7 Blood Transfusion
 
-Add 450 to 600 USP units of Heparin Sodium per 100 mL of whole blood to prevent coagulation.
+Add 450 USP units to 600 USP units of heparin sodium per 100 mL of whole blood to prevent coagulation.
 Usually, 7,500 USP units of heparin sodium are added to 100 mL of 0.9% Sodium Chloride Injection, USP (or 75,000 USP units per 1,000 mL of 0.9% Sodium Chloride Injection, USP) and mixed; from this sterile solution, 6 mL to 8 mL are added per 100 mL of whole blood.
 
 ## 2.8 Converting to Warfarin
@@ -81,9 +82,9 @@ Heparin therapy may then be discontinued without tapering [see Drug Interactions
 
 ## 2.9 Converting to Oral Anticoagulants other than Warfarin
 
-For patients currently receiving intravenous heparin, stop intravenous infusion of Heparin Sodium immediately after administering the first dose of oral anticoagulant; or for intermittent intravenous administration of heparin sodium, start oral anticoagulant 0 to 2 hours before the time that the next dose of heparin was to have been administered.
+For patients currently receiving intravenous heparin, stop intravenous infusion of heparin sodium immediately after administering the first dose of oral anticoagulant; or for intermittent intravenous administration of heparin sodium, start oral anticoagulant 0 to 2 hours before the time that the next dose of heparin was to have been administered.
 
 ## 2.10 Extracorporeal Dialysis
 
-Follow equipment manufacturers' operating directions carefully.
-A dose of 25 to 30 units/kg followed by an infusion rate of 1,500 to 2,000 units/hour is suggested based on pharmacodynamic data if specific manufacturer's recommendations are not available.
+Follow equipment manufacturers’ operating directions carefully.
+A dose of 25 units/kg to 30 units/kg followed by an infusion rate of 1,500 units/hour to 2,000 units/hour is suggested based on pharmacodynamic data if specific manufacturer’s recommendations are not available.

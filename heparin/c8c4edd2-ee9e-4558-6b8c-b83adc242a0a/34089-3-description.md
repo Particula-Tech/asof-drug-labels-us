@@ -1,12 +1,12 @@
 # 11 DESCRIPTION
 
-Heparin is a heterogenous group of straight-chain anionic mucopolysaccharides, called glycosaminoglycans, having anticoagulant properties.
+Heparin is a heterogeneous group of straight-chain anionic mucopolysaccharides, called glycosaminoglycans, having anticoagulant properties.
 Although others may be present, the main sugars occurring in heparin are: (1) α-L-iduronic acid 2-sulfate, (2) 2-deoxy-2-sulfamino-α-D-glucose 6-sulfate, (3) β-D-glucuronic acid, (4) 2-acetamido-2-deoxy-α-D-glucose, and (5) α-L-iduronic acid.
-These sugars are present in decreasing amounts, usually in the order (2)> (1)> (4)> (3)> (5), and are joined by glycosidic linkages, forming polymers of varying sizes.
+These sugars are present in decreasing amounts, usually in the order (2)>(1)>(4)>(3)>(5), and are joined by glycosidic linkages, forming polymers of varying sizes.
 Heparin is strongly acidic because of its content of covalently linked sulfate and carboxylic acid groups.
 In heparin sodium, the acidic protons of the sulfate units are partially replaced by sodium ions.
 
-Structural formula of Heparin Sodium (representative subunits):
+Structural formula of heparin sodium (representative subunits):
 
 Heparin Sodium Injection, USP is a sterile solution of heparin sodium derived from porcine intestinal mucosa, standardized for anticoagulant activity.
 It is to be administered by intravenous or deep subcutaneous routes.
@@ -14,8 +14,12 @@ The potency is determined by a biological assay using a USP reference standard b
 
 Carpuject™ sterile cartridge unit contain a sterile solution of Heparin Sodium Injection, USP.
 
-Each mL contains 5,000 USP Units of heparin sodium and benzyl alcohol 1% as a preservative, in Water for Injection.
+Heparin Sodium Injection 5,000 USP units/1 mL, single-dose cartridge, preserved with benzyl alcohol
+
+Each mL contains 5,000 USP units of heparin sodium and benzyl alcohol 1% as a preservative, in Water for Injection.
 The pH is adjusted between 5.0 to 7.5 with hydrochloric acid or sodium hydroxide.
 
-Each 0.5 mL of Preservative-Free Heparin Sodium Injection contains 5,000 USP Units in Water for Injection.
+Heparin Sodium Injection 5,000 USP units/0.5 mL, single-dose cartridge, preservative-free
+
+Each 0.5 mL of preservative-free Heparin Sodium Injection contains 5,000 USP units in Water for Injection.
 The pH is adjusted between 5.0 to 7.5 with hydrochloric acid or sodium hydroxide as required.

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Heparin interacts with the naturally occurring plasma protein, Antithrombin III, to induce a conformational change, which markedly enhances the serine protease activity of Antithrombin III, thereby inhibiting the activated coagulation factors involved in the clotting sequence, particularly Xa and IIa.
+Heparin interacts with the naturally occurring plasma protein, antithrombin III, to induce a conformational change, which markedly enhances the serine protease activity of antithrombin III, thereby inhibiting the activated coagulation factors involved in the clotting sequence, particularly Xa and IIa.
 Small amounts of heparin inhibit Factor Xa, and larger amounts inhibit thrombin (Factor IIa).
 Heparin also prevents the formation of a stable fibrin clot by inhibiting the activation of the fibrin stabilizing factor.
 Heparin does not have fibrinolytic activity; therefore, it will not lyse existing clots.
@@ -40,4 +40,4 @@ Specific Populations
 
 Geriatric patients
 
-Patients over 60 years of age, following similar doses of heparin, may have higher plasma levels of heparin and longer activated partial thromboplastin times (APTTs) compared with patients under 60 years of age [see Use in Specific Populations (8.5)].
+Patients over 60 years of age, following similar doses of heparin, may have higher plasma levels of heparin and longer activated partial thromboplastin times (aPTTs) compared with patients under 60 years of age [see Use in Specific Populations (8.5)].

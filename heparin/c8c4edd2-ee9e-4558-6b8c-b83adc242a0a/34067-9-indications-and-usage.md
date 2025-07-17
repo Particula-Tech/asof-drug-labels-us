@@ -2,8 +2,8 @@
 
 Heparin Sodium Injection is indicated for:
 
-- •Prophylaxis and treatment of venous thrombosis and, pulmonary embolism;
-- •Prevention of postoperative deep venous thrombosis and pulmonary embolism in patients undergoing major abdomino-thoracic surgery or who, for other reasons, are at risk of developing thromboembolic disease;
+- •Prophylaxis and treatment of venous thrombosis and pulmonary embolism;
+- •Prevention of postoperative deep venous thrombosis and pulmonary embolism in patients undergoing major abdominothoracic surgery or who, for other reasons, are at risk of developing thromboembolic disease;
 - •Atrial fibrillation with embolization;
 - •Treatment of acute and chronic consumptive coagulopathies (disseminated intravascular coagulation);
 - •Prevention of clotting in arterial and cardiac surgery;

@@ -6,7 +6,7 @@ Risk Summary
 
 There are no available data on Heparin Sodium Injection use in pregnant women to inform a drug-associated risk of major birth defects and miscarriage.
 In published reports, heparin exposure during pregnancy did not show evidence of an increased risk of adverse maternal or fetal outcomes in humans.
-No teratogenicity, but early embryo-fetal death was observed in animal reproduction studies with administration of Heparin Sodium to pregnant rats and rabbits during organogenesis at doses approximately 10 times the maximum recommended human dose (MRHD) of 45,000 units/day [see Data].
+No teratogenicity, but early embryo-fetal death was observed in animal reproduction studies with administration of heparin sodium to pregnant rats and rabbits during organogenesis at doses approximately 10 times the maximum recommended human dose (MRHD) of 45,000 units/day [see Data].
 Consider the benefits and risks of Heparin Sodium Injection for the mother and possible risks to the fetus when prescribing Heparin Sodium Injection to a pregnant woman.
 
 If available, preservative-free Heparin Sodium Injection is recommended when heparin therapy is needed during pregnancy.
@@ -43,14 +43,14 @@ The developmental and health benefits of breastfeeding should be considered alon
 There are no adequate and well controlled studies on heparin use in pediatric patients.
 Pediatric dosing recommendations are based on clinical experience [see Dosage and Administration (2.4)].
 
-Carefully examine all Heparin Sodium Injection vials to confirm choice of the correct strength prior to administration of the drug.
-Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with "catheter lock flush" vials [see Warnings and Precautions (5.1)].
+Carefully examine all Heparin Sodium Injection vials and cartridges to confirm choice of the correct strength prior to administration of the drug.
+Pediatric patients, including neonates, have died as a result of medication errors in which Heparin Sodium Injection vials have been confused with “catheter lock flush” vials [see Warnings and Precautions (5.1)].
 
 Benzyl Alcohol Toxicity
 
 Use preservative-free Heparin Sodium Injection in neonates and infants.
 
-Serious adverse reactions including fatal reactions and the "gasping syndrome" occurred in premature neonates and infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
+Serious adverse reactions including fatal reactions and the “gasping syndrome” occurred in premature neonates and infants in the neonatal intensive care unit who received drugs containing benzyl alcohol as a preservative.
 In these cases, benzyl alcohol dosages of 99 to 234 mg/kg/day produced high levels of benzyl alcohol and its metabolites in the blood and urine (blood levels of benzyl alcohol were 0.61 to 1.378 mmol/L).
 Additional adverse reactions included gradual neurological deterioration, seizures, intracranial hemorrhage, hematologic abnormalities, skin breakdown, hepatic and renal failure, hypotension, bradycardia, and cardiovascular collapse.
 Preterm, low-birth weight infants may be more likely to develop these reactions because they may be less able to metabolize benzyl alcohol.
@@ -60,4 +60,4 @@ Preterm, low-birth weight infants may be more likely to develop these reactions 
 There are limited adequate and well-controlled studies in patients 65 years and older, however, a higher incidence of bleeding has been reported in patients, particularly women, over 60 years of age [see Warnings and Precautions (5.2)].
 Patients over 60 years of age may require lower doses of heparin.
 
-Lower doses of heparin may be indicated in these patients [see Clinical Pharmacology (12.3].
+Lower doses of heparin may be indicated in these patients [see Clinical Pharmacology (12.3)].
