@@ -8,4 +8,8 @@ Glycopyrrolate protects against the peripheral muscarinic effects (e.g., bradyca
 
 ## In Peptic Ulcer
 
-For use in adults as adjunctive therapy for the treatment of peptic ulcer when rapid anticholinergic effect is desired or when oral medication is not tolerated.
+For use in adults to reduce symptoms of a peptic ulcer and as an adjunct to treatment of peptic ulcer when rapid anticholinergic effect is desired or when oral medication is not tolerated.
+
+- Limitations of Use
+
+Robinul Injection is not indicated as monotherapy for the treatment of peptic ulcer because effectiveness in peptic ulcer healing has not been established.
