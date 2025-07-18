@@ -2,8 +2,6 @@ Distributed by:
 
 Harrow Eye, LLC™
 
-Nashville, TN 37205 USA
+Nashville, TN, USA
 
 HARROW ®
-
-Harrow Eye, LLC™

@@ -4,7 +4,7 @@
 
 Risk Summary
 
-There are no adequate and well-controlled studies with VIGAMOX ® in pregnant women to inform any drug-associated risks.
+There are no adequate and well-controlled studies with VIGAMOX ®in pregnant women to inform any drug-associated risks.
 
 Oral administration of moxifloxacin to pregnant rats and monkeys and intravenously to pregnant rabbits during the period of organogenesis did not produce adverse maternal or fetal effects at clinically relevant doses.
 Oral administration of moxifloxacin to pregnant rats during late gestation through lactation did not produce adverse maternal, fetal or neonatal effects at clinically relevant doses (see Data).
@@ -35,7 +35,7 @@ The NOAEL for pre- and postnatal development was 100 mg/kg/day (estimated 30 tim
 
 Risk Summary
 
-There is no data regarding the presence of VIGAMOX ® in human milk, the effects on the breastfed infants, or the effects on milk production/excretion to inform risk of VIGAMOX ® to an infant during lactation.
+There is no data regarding the presence of VIGAMOX ®in human milk, the effects on the breastfed infants, or the effects on milk production/excretion to inform risk of VIGAMOX ®to an infant during lactation.
 
 A study in lactating rats has shown transfer of moxifloxacin into milk following oral administration.
 

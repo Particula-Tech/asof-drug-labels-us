@@ -9,7 +9,7 @@ The chemical structure is presented below:
 Moxifloxacin hydrochloride is a slightly yellow to yellow crystalline powder.
 
 Each mL of VIGAMOX solution contains 5.45 mg moxifloxacin hydrochloride, equivalent to 5 mg moxifloxacin base.
-VIGAMOX contains Active: Moxifloxacin 0.5% (5 mg/mL); Inactives: Boric acid, purified water, and sodium chloride.
+VIGAMOX contains Active:Moxifloxacin 0.5% (5 mg/mL); Inactives:Boric acid, purified water, and sodium chloride.
 May also contain hydrochloric acid/sodium hydroxide to adjust pH to approximately 6.8.
 
-VIGAMOX ® is an isotonic solution with an osmolality of approximately 290 mOsm/kg.
+VIGAMOX ®is an isotonic solution with an osmolality of approximately 290 mOsm/kg.

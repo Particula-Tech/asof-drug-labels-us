@@ -9,12 +9,12 @@ However, in an accelerated study with initiators and promoters, moxifloxacin was
 
 Mutagenesis
 
-Moxifloxacin was not mutagenic in four bacterial strains used in the Ames Salmonella reversion assay.
+Moxifloxacin was not mutagenic in four bacterial strains used in the Ames Salmonellareversion assay.
 As with other quinolones, the positive response observed with moxifloxacin in strain TA 102 using the same assay may be due to the inhibition of DNA gyrase.
 Moxifloxacin was not mutagenic in the CHO/HGPRT mammalian cell gene mutation assay.
 An equivocal result was obtained in the same assay when V79 cells were used.
 Moxifloxacin was clastogenic in the V79 chromosome aberration assay, but it did not induce unscheduled DNA synthesis in cultured rat hepatocytes.
-There was no evidence of genotoxicity in vivo in a micronucleus test or a dominant lethal test in mice.
+There was no evidence of genotoxicity in vivoin a micronucleus test or a dominant lethal test in mice.
 
 Impairment of Fertility
 
