@@ -18,27 +18,21 @@ In a randomized, double-blind, positive-controlled, thorough QTc study, a single
 
 ## 12.3 Pharmacokinetics
 
-Aprepitant after Fosaprepitant Administration
+### Aprepitant after Fosaprepitant Administration
 
-Following a single intravenous 115 mg dose of fosaprepitant administered as a 15-minute infusion to healthy volunteers the mean AUC0-∞ of aprepitant was 31.7 (±14.3) mcg•hr/mL and the mean maximal aprepitant concentration (Cmax) was 3.27 (±1.16) mcg/mL.
-The mean aprepitant plasma concentration at 24 hours postdose was similar between the 125 mg oral aprepitant dose and the 115 mg intravenous fosaprepitant dose.
-(See Figure 1.)
-
-Aprepitant after Fosaprepitant Administration
-
-Following administration of a single intravenous 150 mg dose of fosaprepitant, a prodrug of aprepitant administered as a 20-minute infusion to healthy subjects, the mean AUC0-∞ of aprepitant was 37.4 (±14.8) mcg•hr/mL and the mean maximal aprepitant concentration (Cmax) was 4.2 (±1.2) mcg/mL.
+Following administration of a single intravenous 150 mg dose of fosaprepitant, a prodrug of aprepitant administered as a 20-minute infusion to healthy subjects, the mean AUC0-∞ of aprepitant was 37.4 (± 14.8) mcg•hr/mL and the mean maximal aprepitant concentration (Cmax) was 4.2 (± 1.2) mcg/mL.
 Plasma concentrations of fosaprepitant are below the limits of quantification (10 ng/mL) within 30 minutes of the completion of infusion.
 
-Distribution
+### Distribution
 
 Aprepitant is greater than 95% bound to plasma proteins.
 The mean apparent volume of distribution at steady state (Vdss) was approximately 70 L in humans.
 
 Aprepitant crosses the blood brain barrier in humans [see Clinical Pharmacology (12.1)].
 
-Elimination
+### Elimination
 
-Metabolism
+#### Metabolism
 
 Fosaprepitant is converted to aprepitant in in vitro incubations with human liver preparations and in S9 preparations from multiple other human tissues including kidney, lung and ileum.
 Thus, it appears that the conversion of fosaprepitant to aprepitant can occur in multiple extrahepatic tissues in addition to the liver.
@@ -51,35 +45,35 @@ No metabolism by CYP2D6, CYP2C9, or CYP2E1 was detected.
 In healthy young adults, aprepitant accounts for approximately 24% of the radioactivity in plasma over 72 hours following a single oral 300 mg dose of [14C]-aprepitant, indicating a substantial presence of metabolites in the plasma.
 Seven metabolites of aprepitant, which are only weakly active, have been identified in human plasma.
 
-Excretion
+#### Excretion
 
 Following administration of a single intravenous 100 mg dose of [14C]-fosaprepitant to healthy subjects, 57% of the radioactivity was recovered in urine and 45% in feces.
 
 Aprepitant is eliminated primarily by metabolism; aprepitant is not renally excreted.
 The apparent terminal half-life ranged from approximately 9 to 13 hours.
 
-Specific Populations
+### Specific Populations
 
-Age: Geriatric Population
+#### Age: Geriatric Population
 
 Following oral administration of a single 125 mg dose of aprepitant on Day 1 and 80 mg once daily on Days 2 through 5, the AUC0-24hr of aprepitant was 21% higher on Day 1 and 36% higher on Day 5 in elderly (65 years and older) relative to younger adults.
 The Cmax was 10% higher on Day 1 and 24% higher on Day 5 in elderly relative to younger adults.
 These differences are not considered clinically meaningful [see Use in Specific Populations (8.5)].
 
-Sex
+#### Sex
 
 Following oral administration of a single dose of aprepitant, ranging from 40 mg to 375 mg, the AUC0-24hr and Cmax are 9% and 17% higher in females as compared with males.
 The half-life of aprepitant is approximately 25% lower in females as compared with males and Tmax occurs at approximately the same time.
 These differences are not considered clinically meaningful.
 
-Race/Ethnicity
+#### Race/Ethnicity
 
 Following oral administration of a single dose of aprepitant, ranging from 40 mg to 375 mg, the AUC0-24hr and Cmax are approximately 27% and 19% higher in Hispanics as compared with Caucasians.
 The AUC0-24hr and Cmax were 74% and 47% higher in Asians as compared to Caucasians.
 There was no difference in AUC0-24hr or Cmax between Caucasians and Blacks.
 These differences are not considered clinically meaningful.
 
-Renal Impairment
+#### Renal Impairment
 
 A single 240 mg oral dose of aprepitant was administered to patients with severe renal impairment (creatinine clearance less than 30 mL/min/1.73 m2 as measured by 24-hour urinary creatinine clearance) and to patients with end stage renal disease (ESRD) requiring hemodialysis.
 
@@ -88,7 +82,7 @@ In patients with ESRD undergoing hemodialysis, the AUC0-∞ of total aprepitant 
 Due to modest decreases in protein binding of aprepitant in patients with renal disease, the AUC of pharmacologically active unbound drug was not significantly affected in patients with renal impairment compared with healthy subjects.
 Hemodialysis conducted 4 or 48 hours after dosing had no significant effect on the pharmacokinetics of aprepitant; less than 0.2% of the dose was recovered in the dialysate.
 
-Hepatic Impairment
+#### Hepatic Impairment
 
 Fosaprepitant is metabolized in various extrahepatic tissues; therefore hepatic impairment is not expected to alter the conversion of fosaprepitant to aprepitant.
 
@@ -97,16 +91,13 @@ In patients with moderate hepatic impairment (Child-Pugh score 7 to 9), the AUC0
 These differences in AUC0-24hr are not considered clinically meaningful.
 There are no clinical or pharmacokinetic data in patients with severe hepatic impairment (Child-Pugh score greater than 9) [see Use in Specific Populations (8.6)].
 
-Body Mass Index (BMI)
+#### Body Mass Index (BMI)
 
 For every 5 kg/m2 increase in BMI, AUC0-24hr and Cmax of aprepitant decrease by 9% and 10%.
 BMI of subjects in the analysis ranged from 18 kg/m2 to 36 kg/m2.
 This change is not considered clinically meaningful.
 
-Pediatric use information is approved for Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s Emend (fosaprepitant) for injection.
-However, due to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
-Drug Interactions Studies
+### Drug Interactions Studies
 
 Fosaprepitant, given as a single 150 mg dose, is a weak inhibitor of CYP3A4, with no evidence of inhibition or induction of CYP3A4 observed on Day 4.
 The weak inhibition of CYP3A4 continues for 2 days after single dose administration of fosaprepitant.
@@ -115,7 +106,7 @@ Aprepitant is also an inducer of CYP2C9.
 
 Fosaprepitant or aprepitant is unlikely to interact with drugs that are substrates for the P-glycoprotein transporter.
 
-Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
+### Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
 
 CYP3A4 Substrates
 
@@ -149,13 +140,11 @@ P-glycoprotein substrates: Aprepitant is unlikely to interact with drugs that ar
 
 5-HT3 antagonists: In clinical drug interaction studies, aprepitant did not have clinically important effects on the pharmacokinetics of ondansetron, granisetron, or hydrodolasetron (the active metabolite of dolasetron).
 
-Effect of Other Drugs on the Pharmacokinetics of Fosaprepitant/Aprepitant
+### Effect of Other Drugs on the Pharmacokinetics of Fosaprepitant/Aprepitant
 
 Rifampin: When a single 375 mg dose of oral aprepitant was administered on Day 9 of a 14-day regimen of 600 mg/day of rifampin, a strong CYP3A4 inducer, the AUC of aprepitant decreased approximately 11-fold and the mean terminal half-life decreased approximately 3-fold [see Drug Interactions (7.2)].
 
-Ketoconazole: When a single 125 mg dose of oral aprepitant was administered on Day 5 of a
-
-10-day regimen of 400 mg/day of ketoconazole, a strong CYP3A4 inhibitor, the AUC of aprepitant increased approximately 5-fold and the mean terminal half-life of aprepitant increased approximately 3-fold [see Drug Interactions (7.2)].
+Ketoconazole: When a single 125 mg dose of oral aprepitant was administered on Day 5 of a 10-day regimen of 400 mg/day of ketoconazole, a strong CYP3A4 inhibitor, the AUC of aprepitant increased approximately 5-fold and the mean terminal half-life of aprepitant increased approximately 3-fold [see Drug Interactions (7.2)].
 
 Diltiazem: In a study in 10 patients with mild to moderate hypertension, administration of 100 mg of fosaprepitant as an intravenous infusion with 120 mg of diltiazem, a moderate CYP3A4 inhibitor administered three times daily, resulted in a 1.5-fold increase in the aprepitant AUC and a 1.4-fold increase in the diltiazem AUC.
 

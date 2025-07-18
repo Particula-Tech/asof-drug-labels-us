@@ -5,7 +5,7 @@
 Fosaprepitant, a prodrug of aprepitant, is a weak inhibitor of CYP3A4, and aprepitant is a substrate, inhibitor, and inducer of CYP3A4.
 
 - •Use of fosaprepitant for injection with other drugs that are CYP3A4 substrates, may result in increased plasma concentration of the concomitant drug.
-  - oUse of pimozide with fosaprepitant for inejection is contraindicated due to the risk of significantly increased plasma concentrations of pimozide, potentially resulting in prolongation of the QT interval, a known adverse reaction of pimozide [see Contraindications (4)].
+  - oUse of pimozide with fosaprepitant for injection is contraindicated due to the risk of significantly increased plasma concentrations of pimozide, potentially resulting in prolongation of the QT interval, a known adverse reaction of pimozide [see Contraindications (4)].
 - •Use of fosaprepitant for injection with strong or moderate CYP3A4 inhibitors (e.g., ketoconazole, diltiazem) may increase plasma concentrations of aprepitant and result in an increased risk of adverse reactions related to fosaprepitant.
 - •Use of fosaprepitant for injection with strong CYP3A4 inducers (e.g., rifampin) may result in a reduction in aprepitant plasma concentrations and decreased efficacy of fosaprepitant.
 
@@ -22,10 +22,10 @@ Do not reinitiate fosaprepitant for injection in patients who experience these s
 
 ## 5.3 Infusion Site Reactions
 
-Infusion site reactions (ISRs) have been reported with the use of fosaprepitantfor injection [see Adverse Reactions (6.1)].
+Infusion site reactions (ISRs) have been reported with the use of fosaprepitant for injection [see Adverse Reactions (6.1)].
 The majority of severe ISRs, including thrombophlebitis and vasculitis, were reported with concomitant vesicant (anthracycline-based) chemotherapy administration, particularly when associated with extravasation.
 Necrosis was also reported in some patients with concomitant vesicant chemotherapy.
-Most ISRs occurred with the first, second or third exposure to single doses of fosaprepitantfor injection and in some cases, reactions persisted for two weeks or longer.
+Most ISRs occurred with the first, second or third exposure to single doses of fosaprepitant for injection and in some cases, reactions persisted for two weeks or longer.
 Treatment of severe ISRs consisted of medical, and in some cases surgical, intervention.
 
 Avoid infusion of fosaprepitant for injection into small veins or through a butterfly catheter.

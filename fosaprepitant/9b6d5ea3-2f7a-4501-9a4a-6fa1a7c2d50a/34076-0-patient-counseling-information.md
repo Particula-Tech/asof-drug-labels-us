@@ -20,14 +20,12 @@ Warfarin: Instruct patients on chronic warfarin therapy to follow instructions f
 Hormonal Contraceptives: Advise patients that administration of fosaprepitant for injection may reduce the efficacy of hormonal contraceptives.
 Instruct patients to use effective alternative or back-up methods of contraception (such as condoms and spermicides) during treatment with fosaprepitant for injection and for 1 month following administration of fosaprepitant for injection [see Warnings and Precautions (5.5), Use in Specific Populations (8.3)].
 
-Manufactured for:
+Brands listed are the trademarks of their respective owners.
 
-Mylan Institutional LLC
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
-Rockford, IL 61103 U.S.A.
+Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-Manufactured by:
+JULY 2025
 
-Mylan Laboratories Limited
-
-Bangalore, India
+50105417

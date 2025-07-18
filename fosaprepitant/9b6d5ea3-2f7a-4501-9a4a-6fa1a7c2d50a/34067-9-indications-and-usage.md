@@ -8,6 +8,3 @@ Fosaprepitant for injection, in combination with other antiemetic agents, is ind
 Limitations of Use
 
 - •Fosaprepitant for injection has not been studied for the treatment of established nausea and vomiting.
-
-Pediatric use information is approved for Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s Emend (fosaprepitant) for injection.
-However, due to Merck Sharp & Dohme Corp., a subsidiary of Merck & Co., Inc.’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.

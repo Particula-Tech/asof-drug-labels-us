@@ -13,15 +13,13 @@ Aprepitant is also an inducer of CYP2C9 [see Clinical Pharmacology (12.3)].
 Some substrates of CYP3A4 are contraindicated with fosaprepitant [see Contraindications (4)].
 Dosage adjustment of some CYP3A4 and CYP2C9 substrates may be warranted, as shown in Table 7.
 
-Table 7
-
-Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
+Table 7 Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
 
 | CYP3A4 Substrates |  |
 | --- | --- |
 | Pimozide |  |
 | Clinical Impact | Increased pimozide exposure |
-| Intervention | Fosaprepitant for Injection is contraindicated [see Contraindications (4)]. |
+| Intervention | Fosaprepitant for injection is contraindicated [see Contraindications (4)]. |
 | Benzodiazepines |  |
 | Clinical Impact | Increased exposure to midazolam or other benzodiazepines metabolized via CYP3A4 (alprazolam, triazolam) may increase the risk of adverse reactions [see Clinical Pharmacology (12.3)]. |
 | Intervention | Monitor for benzodiazepine-related adverse reactions. |
@@ -33,9 +31,9 @@ Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
 | Intervention | Reduce the dose of oral methylprednisolone by approximately 50% on Days 1 and 2 for patients receiving HEC and on Day 1 for patients receiving MEC. Reduce the dose of intravenous methylprednisolone by 25% on Days 1 and 2 for patients receiving HEC and on Day 1 for patients receiving MEC. |
 | Chemotherapeutic agents that are metabolized by CYP3A4 |  |
 | Clinical Impact | Increased exposure of the chemotherapeutic agent may increase the risk of adverse reactions [see Clinical Pharmacology (12.3)]. |
-| Intervention | Vinblastine, vincristine, or ifosfamide or other chemotherapeutic agents • Monitor for chemotherapeutic-related adverse reactions. Etoposide, vinorelbine, paclitaxel, and docetaxel • No dosage adjustment needed. |
+| Intervention | Vinblastine, vincristine, or ifosfamide or other chemotherapeutic agents •Monitor for chemotherapeutic-related adverse reactions. Etoposide, vinorelbine, paclitaxel, and docetaxel •No dosage adjustment needed. |
 | Hormonal Contraceptives |  |
-| Clinical Impact | Decreased hormonal exposure during administration of and for 28 days after administration of the last dose of fosaprepitant for injection [see Warnings and Precautions (5.5), Use in Specific Populations (8.3), and Clinical Pharmacology (12.3)]. |
+| Clinical Impact | Decreased hormonal exposure during administration of and for 28 days after administration of the last dose of fosaprepitant for injection [see Warnings and Precautions (5.5), Use in Specific Populations (8.3), andClinical Pharmacology (12.3)]. |
 | Intervention | Effective alternative or back-up methods of contraception (such as condoms and spermicides) should be used during treatment with fosaprepitant for injection and for 1 month following administration of fosaprepitant for injection. |
 | Examples | birth control pills, skin patches, implants, and certain IUDs |
 | CYP2C9 Substrates |  |
@@ -53,8 +51,7 @@ Effects of Fosaprepitant/Aprepitant on the Pharmacokinetics of Other Drugs
 Aprepitant is a CYP3A4 substrate [see Clinical Pharmacology (12.3)].
 Co-administration of fosaprepitant for injection with drugs that are inhibitors or inducers of CYP3A4 may result in increased or decreased plasma concentrations of aprepitant, respectively, as shown in Table 8.
 
-- Table 8
-- Effects of Other Drugs on Pharmacokinetics of Fosaprepitant/Aprepitant
+Table 8 Effects of Other Drugs on Pharmacokinetics of Fosaprepitant/Aprepitant
 
 | Moderate to Strong CYP3A4 Inhibitors |  |
 | --- | --- |
