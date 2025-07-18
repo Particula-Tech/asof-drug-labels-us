@@ -9,24 +9,34 @@ Consult the prescribing information for atazanavir or darunavir.
 
 Table 1 Recommended Dosing Regimens in Treatment-Naïve or Treatment-Experienced Adults
 
-| TYBOST Dosage | Coadministered Agent Dosage | Patient Populations |
+| Patient Populations | Coadministered Agent Dosage | TYBOST Dosage |
 | --- | --- | --- |
-| 150 mg orally once daily | atazanavir 300 mg orally once daily | Treatment-naïve or treatment-experienced |
-| darunavir 800 mg orally once daily | Treatment-naïve or treatment-experienced with no darunavir resistance-associated substitutions |  |
+| Treatment-naïve or treatment-experienced | atazanavir 300 mg orally once daily | 150 mg orally once daily |
+| Treatment-naïve or treatment-experienced with no darunavir resistance-associated substitutions | darunavir 800 mg orally once daily |  |
 
 ## 2.2 Recommended Dosage in Pediatric Patients
 
 Administer TYBOST in conjunction with atazanavir or darunavir and other antiretroviral agents in the treatment of pediatric patients with HIV-1 infection.
-The recommended dosages of TYBOST and atazanavir or darunavir given with food are based on weight and presented in Table 2.
+The recommended dosages of TYBOST and atazanavir or darunavir given with food are based on weight and presented in Table 2 and Table 3, respectively.
 TYBOST must be coadministered at the same time as atazanavir or darunavir [see Drug Interactions (7)].
 Consult the prescribing information for atazanavir or darunavir.
 
-Table 2 Recommended Dosing Regimens in Treatment-Naïve or Treatment-Experienced Pediatric Patients
+Table 2 Recommended Dosing Regimen in Treatment-Naïve or Treatment-Experienced Pediatric Patients in Combination with Atazanavir
 
-| TYBOST Dosage | Coadministered Agent Dosage | Patient Populations and Weight |
+| Body Weight | Atazanavir Dosage | TYBOST Dosage |
 | --- | --- | --- |
-| 150 mg orally once daily | atazanavir 300 mg orally once daily | Treatment-naïve or treatment-experienced weighing at least 35 kg |
-| darunavir 800 mg orally once daily | Treatment-naïve or treatment-experienced with no darunavir resistance-associated substitutions weighing at least 40 kg |  |
+| Weighing at least 14 kg to less than 25 kg | 200 mg orally once daily | 90 mg orally once daily |
+| Weighing at least 25 kg to less than 35 kg | 200 mg orally once daily | 150 mg orally once daily |
+| Weighing at least 35 kg | 300 mg orally once daily |  |
+
+Table 3 Recommended Dosing Regimen in Treatment-Naïve or Treatment-Experienced Pediatric Patients with no Darunavir Resistance-Associated Substitutions in Combination with Darunavir
+
+| Body Weight | Darunavir Dosage | TYBOST Dosage |
+| --- | --- | --- |
+| Weighing at least 15 kg to less than 25 kg | 600 mg orally once daily | 90 mg orally once daily |
+| Weighing at least 25 kg to less than 30 kg | 600 mg orally once daily | 150 mg orally once daily |
+| Weighing at least 30 kg to less than 40 kg | 675 mg orally once daily |  |
+| Weighing at least 40 kg | 800 mg orally once daily |  |
 
 ## 2.3 Testing Prior to Initiation of TYBOST
 

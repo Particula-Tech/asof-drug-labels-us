@@ -33,10 +33,10 @@ One out of 6 individuals who completed the study experienced virologic failure w
 Five individuals had sustained virologic response (HIV-1 RNA <50 copies/mL) throughout the study period.
 There are no clinical data on the virologic response when darunavir/cobicistat is initiated during pregnancy.
 
-There were no new clinically relevant safety findings compared with the known safety profile of darunavir/cobicistat in HIV-1-infected adults.
+There were no new clinically relevant safety findings compared with the known safety profile of darunavir/cobicistat in adult participants with HIV-1.
 
-The APR has received prospective reports of live births following exposure to cobicistat-containing regimens during pregnancy, including over 400 exposures in the first trimester and over 80 exposures in the second/third trimester.
-The prevalence of birth defects in live births was 3.9% (95% CI: 2.2% to 6.3%) and 1.2% (95% CI: 0.0% to 6.5%) following first trimester and second/third trimester exposure, respectively, to cobicistat-containing regimens.
+The APR has received prospective reports of live births following exposure to cobicistat-containing regimens during pregnancy, including over 600 exposures in the first trimester and over 90 exposures in the second/third trimester.
+The prevalence of birth defects in live births was 3.5% (95% CI: 2.2% to 5.3%) and 3.2% (95% CI: 0.7% to 9.1%) following first trimester and second/third trimester exposure, respectively, to cobicistat-containing regimens.
 Methodological limitations of the APR include the use of MACDP as the external comparator group.
 The MACDP population is not disease-specific, evaluates women and infants from a limited geographic area, and does not include outcomes for births that occurred at <20 weeks gestation.
 
@@ -60,7 +60,13 @@ Systemic exposures (AUC) at this dose were slightly lower than (0.9-fold) the MR
 Risk Summary
 
 There is no information regarding the presence of cobicistat in human milk, the effects on the breastfed infant, or the effects on milk production.
-The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
+Cobicistat is present in rat milk (see Data).
+
+Potential risks of breastfeeding include: (1) HIV-1 transmission to HIV-1–negative infants; (2) developing viral resistance in HIV-1–positive infants; and (3) adverse reactions in a breastfed infant similar to those seen in adults.
+
+Animal Data
+
+During the prenatal and postnatal development toxicology study at doses up to 75 mg/kg/day, mean cobicistat milk to plasma ratio of up to 1.9 was measured 2 hours after administration to rats on lactation Day 10.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -70,25 +76,58 @@ TYBOST interacts with certain oral contraceptives [see Drug Interactions (7.3)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of TYBOST coadministered with atazanavir or darunavir and two nucleoside reverse transcriptase inhibitors for the treatment of HIV-1 infection have been established in virologically suppressed pediatric patients [see Indications and Usage (1.1) and Dosage and Administration (2.2)]:
+The safety and effectiveness of TYBOST coadministered with atazanavir or darunavir and two nucleoside reverse transcriptase inhibitors for the treatment of HIV-1 infection have been established in pediatric patients weighing at least 14 kg [see Indications and Usage (1.1) and Dosage and Administration (2.2)].
 
-- weighing at least 35 kg for TYBOST coadministered with atazanavir or
-- weighing at least 40 kg for TYBOST coadministered with darunavir.
+Use of TYBOST and Darunavir
 
-Use of TYBOST for this indication is supported by evidence from adequate and well-controlled studies in adults, and by pharmacokinetic, safety, and virologic data from an open-label trial (Trial 128) in virologically suppressed, HIV-1 infected pediatric subjects aged 12 years and older.
-The safety in these subjects through 48 weeks was similar to that in antiretroviral treatment-naïve adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
+Adolescent Patients Weighing at Least 40 kg
 
-Safety and effectiveness of TYBOST in combination with atazanavir in pediatric patients weighing less than 35 kg have not been established.
-Safety and effectiveness of TYBOST in combination with darunavir in pediatric patients weighing less than 40 kg have not been established.
+Use of TYBOST and darunavir for this indication is supported by evidence from adequate and well-controlled studies in adults, and by pharmacokinetic, safety, and virologic data from an open-label trial (Trial 128; cohort 1 [Part A]) in virologically suppressed pediatric participants with HIV-1 aged 12 years and older (n=7).
+The safety, pharmacokinetics, and effectiveness in these participants were similar to that in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
+
+Pediatric Patients Weighing at Least 15 kg to Less than 40 kg:
+
+Use of TYBOST and darunavir in combination with other ARVs is supported by evidence from adequate and well-controlled studies in adults, and by pharmacokinetic, safety, and efficacy data from an open-label trial (Trial 128; cohorts 2 and 3) in pediatric participants with HIV-1 at least 2 years of age and weighing at least 15 kg to less than 40 kg (n=20, all of whom were virologically suppressed at baseline).
+
+The safety, pharmacokinetics, and effectiveness of TYBOST when administered with darunavir in pediatric patients weighing at least 15 kg to less than 40 kg were similar to that in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
+
+Pediatric Patients Weighing Less than 15 kg:
+
+Safety, pharmacokinetics, and effectiveness of TYBOST in combination with darunavir in pediatric patients weighing less than 15 kg have not been established.
+
+Use of TYBOST and Atazanavir
+
+Adolescent Patients Weighing at Least 35 kg:
+
+Use of TYBOST and atazanavir is supported by evidence from adequate and well-controlled studies in adults, and by safety, pharmacokinetic, and efficacy data from an open-label trial (Trial 128; cohort 1 [Part A]) in pediatric participants with HIV-1 at least 12 years of age (n=14).
+The safety, pharmacokinetics, and effectiveness in these participants were similar to that in adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.2)].
+
+Pediatric Patients Weighing at Least 14 kg to Less than 35 kg:
+
+- Use of TYBOST and Atazanavir with Tenofovir Alafenamide (TAF)
+
+The use of TYBOST in combination with atazanavir and TAF in pediatric patients weighing less than 35 kg is not recommended.
+
+- The use of TYBOST with atazanavir and emtricitabine/tenofovir alafenamide (FTC/TAF) was studied in pediatric participants weighing at least 14 kg to less than 35 kg.
+  In Trial 128, patients who received ATV +cobicistat in cohort 2 (25 kg to <40 kg, n=14) and cohort 3 (14 kg to <25 kg, n=15) showed TAF exposures (Cmax and AUC) that exceeded adult exposures by 4-5-fold in cohort 2 and 2-3-fold in cohort 3.
+  Limited safety data were available to support the increased TAF exposures.
+  Therefore, the use of TYBOST with atazanavir and TAF is not recommended in pediatric participants weighing at least 14 kg to less than 35 kg [see Drug Interactions (7.3)].
+- •Use of TYBOST and Atazanavir with other antiretrovirals other than TAF
+- Use of TYBOST and atazanavir is supported by evidence from adequate and well-controlled studies in adults, and by pharmacokinetic data from Trial 128 in pediatric participants weighing at least 14 kg to less than 35 kg.
+  In this population, the pharmacokinetics of atazanavir and cobicistat were similar to adults [see Clinical Pharmacology (12.3)].
+
+Pediatric Patients Weighing Less than 14 kg:
+
+Safety, pharmacokinetics, and effectiveness of TYBOST in combination with atazanavir in pediatric participants weighing less than 14 kg have not been established.
 
 ## 8.5 Geriatric Use
 
-Clinical trials of TYBOST did not include sufficient numbers of subjects aged 65 and older to determine whether they respond differently from younger subjects.
+Clinical trials of TYBOST did not include sufficient numbers of participants aged 65 years and older to determine whether they respond differently from younger participants.
 
 ## 8.6 Renal Impairment
 
 No dosage adjustment of TYBOST is required in patients with renal impairment, including those with severe renal impairment.
-No clinically relevant differences in cobicistat pharmacokinetics were observed between subjects with severe renal impairment and healthy subjects.
+No clinically relevant differences in cobicistat pharmacokinetics were observed between participants with severe renal impairment and healthy participants.
 TYBOST is coadministered with atazanavir or darunavir; therefore, refer to the prescribing information for atazanavir or darunavir for information regarding dosing recommendations of these drugs in patients with renal impairment [see Clinical Pharmacology (12.3)].
 
 TYBOST has been shown to decrease estimated creatinine clearance without affecting actual renal glomerular function.

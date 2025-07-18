@@ -11,3 +11,17 @@ Rx only
 Note to pharmacist: Do not cover ALERT box with pharmacy label.
 
 ALERT: Find out about medicines that should NOT be taken with Tybost
+
+# PRINCIPAL DISPLAY PANEL - 90 mg Tablet Bottle Label
+
+NDC 61958-1402-1 30 tablets
+
+Tybost® (cobicistat) tablets
+
+90 mg
+
+Note to pharmacist: Do not cover ALERT box with pharmacy label.
+
+ALERT: Find out about medicines that should NOT be taken with Tybost
+
+Rx only
