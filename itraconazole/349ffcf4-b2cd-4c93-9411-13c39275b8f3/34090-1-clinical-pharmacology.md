@@ -26,7 +26,7 @@ When itraconazole capsules were administered as a single 200-mg dose under faste
 (See PRECAUTIONS: Drug Interactions.)
 
 Itraconazole exposure is lower with the Capsule formulation than with the Oral Solution when the same dose of drug is given.
-(See WARNINGS)
+(See WARNINGS.)
 
 Distribution
 
@@ -81,7 +81,7 @@ Decreased Cardiac Contractility:
 When itraconazole was administered intravenously to anesthetized dogs, a dose-related negative inotropic effect was documented.
 In a healthy volunteer study of itraconazole intravenous infusion, transient, asymptomatic decreases in left ventricular ejection fraction were observed using gated SPECT imaging; these resolved before the next infusion, 12 hours later.
 If signs or symptoms of congestive heart failure appear during administration of itraconazole capsules, itraconazole capsules should be discontinued.
-(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Post-marketing Experience for more information.)
+(See BOXED WARNING, CONTRAINDICATIONS, WARNINGS, PRECAUTIONS: Drug Interactions and ADVERSE REACTIONS: Postmarketing Experience for more information.)
 
 ## MICROBIOLOGY
 

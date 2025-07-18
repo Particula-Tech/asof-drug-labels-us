@@ -107,6 +107,8 @@ What are the possible side effects of itraconazole capsules?
 Itraconazole capsules may cause serious side effects, including:
 
 - See “What is the most important information I should know about itraconazole capsules?”
+- New or worsening high blood pressure and low potassium levels in your blood (pseudoaldosteronism).
+  Your healthcare provider should check your blood pressure and potassium levels.
 - Nerve problems (neuropathy).
   Call your healthcare provider right away if you have tingling or numbness in your hands or feet.
   Your healthcare provider may stop your treatment with itraconazole capsules if you have nerve problems.
@@ -116,7 +118,7 @@ Itraconazole capsules may cause serious side effects, including:
 
 The most common side effects of itraconazole capsules include: headache, rash, digestive system problems (such as nausea and vomiting), and edema.
 
-Additional possible side effects include upset stomach, constipation, fever, inflammation of the pancreas, menstrual disorder, erectile dysfunction, dizziness, muscle pain, painful joints, unpleasant taste, or hair loss.
+Additional possible side effects include upset stomach, constipation, fever, inflammation of the pancreas, increase in blood pressure, menstrual disorder, erectile dysfunction, dizziness, muscle pain, painful joints, unpleasant taste, or hair loss.
 
 These are not all the possible side effects of itraconazole capsules.
 
@@ -152,18 +154,18 @@ Manufactured by:
 
 Alkem Laboratories Ltd.,
 
-INDIA.
+Mumbai - 400 013, INDIA.
 
 Distributed by:
 
 Ascend Laboratories, LLC
 
-Parsippany, NJ 07054
+Bedminster, NJ 07921
 
 For more information call 1-877-272-7901.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: April 2024
+Revised: February 2025
 
-PT2268-09
+PT2268-11

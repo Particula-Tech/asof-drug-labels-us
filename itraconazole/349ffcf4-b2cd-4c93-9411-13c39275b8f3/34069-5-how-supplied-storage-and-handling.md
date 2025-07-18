@@ -9,12 +9,6 @@ Keep out of reach of children.
 
 Manufactured by:
 
-Alkem Laboratories Ltd.,
+Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
 
-INDIA.
-
-Distributed by:
-
-Ascend Laboratories, LLC
-
-Parsippany, NJ 07054 Revised: April 2024
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921 Revised: March 2025
