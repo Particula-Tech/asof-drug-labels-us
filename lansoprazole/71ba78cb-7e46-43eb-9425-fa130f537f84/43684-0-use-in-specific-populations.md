@@ -88,7 +88,7 @@ At baseline, 85% of patients had mild to moderate overall GERD symptoms (assesse
 
 After eight to 12 weeks of PREVACID treatment, the intent-to-treat analysis demonstrated an approximate 50% reduction in frequency and severity of GERD symptoms.
 
-Twenty -one of 27 erosive esophagitis patients were healed at eight weeks and 100% of patients were healed at 12 weeks by endoscopy (Table 4).
+Twenty-one of 27 erosive esophagitis patients were healed at eight weeks and 100% of patients were healed at 12 weeks by endoscopy (Table 4).
 
 Table 4.
 GERD Symptom Improvement and Erosive Esophagitis Healing Rates in Pediatric Patients Age 1 Year to 11 Years of Age
@@ -117,7 +117,7 @@ The non-erosive GERD patients received PREVACID 15 mg daily for eight weeks and 
 At baseline, 89% of these patients had mild to moderate overall GERD symptoms (assessed by investigator interviews).
 During eight weeks of PREVACID treatment, adolescent patients experienced a 63% reduction in frequency and a 69% reduction in severity of GERD symptoms based on diary results.
 
-Twenty -one of 22 (95.5%) adolescent erosive esophagitis patients were healed after eight weeks of PREVACID treatment.
+Twenty-one of 22 (95.5%) adolescent erosive esophagitis patients were healed after eight weeks of PREVACID treatment.
 One patient remained unhealed after 12 weeks of treatment (Table 5).
 
 Table 5.
@@ -158,7 +158,7 @@ Bone Changes
 In an eight-week oral toxicity study in juvenile rats with dosing initiated on postnatal Day 7, doses equal to or greater than 100 mg/kg/day (2.5 times the daily pediatric dose of 15 mg in children age one to 11 years weighing 30 kg or less, based on AUC) produced delayed growth, with impairment of weight gain observed as early as postnatal Day 10 (age equivalent to neonatal humans).
 At the end of treatment, the signs of impaired growth at 100 mg/kg/day and higher included reductions in body weight (14 to 44% compared to controls), absolute weight of multiple organs, femur weight, femur length, and crown-rump length.
 Femoral growth plate thickness was reduced only in males and only at the 500 mg/kg/day dose.
-The effects related to delayed growth persisted through the end of the four -week recovery period.
+The effects related to delayed growth persisted through the end of the four-week recovery period.
 Longer term data were not collected.
 
 ## 8.5 Geriatric Use

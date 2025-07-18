@@ -16,7 +16,7 @@ Rx only
 
 NDC 64764-543-11
 
-PREVACID® SoluTab™ LANSOPRAZOLE Delayed-Release Orally Disintegrating Tablets
+PREVACID® SoluTabTM LANSOPRAZOLE Delayed-Release Orally Disintegrating Tablets
 
 15 mg
 
@@ -32,7 +32,7 @@ Dispense the enclosed Medication Guide to each patient.
 
 NDC 64764-544-11
 
-PREVACID® SoluTab™ LANSOPRAZOLE Delayed-Release Orally Disintegrating Tablets
+PREVACID® SoluTabTM LANSOPRAZOLE Delayed-Release Orally Disintegrating Tablets
 
 30 mg
 

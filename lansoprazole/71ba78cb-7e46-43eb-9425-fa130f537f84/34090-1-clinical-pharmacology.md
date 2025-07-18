@@ -217,7 +217,7 @@ Helicobacter pylori Pretreatment Resistance
 Clarithromycin pretreatment resistance (≥2.0 mcg/mL) was 9.5% (91/960) by E-test and 11.3% (12/106) by agar dilution in the dual and triple therapy clinical trials (M93-125, M93-130, M93-131, M95-392, and M95-399).
 
 Amoxicillin pretreatment susceptible isolates (≤0.25 mcg/mL) occurred in 97.8% (936/957) and 98.0% (98/100) of the patients in the dual and triple therapy clinical trials by E-test and agar dilution, respectively.
-Twenty -one of 957 patients (2.2%) by E-test, and two of 100 patients (2.0%) by agar dilution, had amoxicillin pretreatment MICs of greater than 0.25 mcg/mL.
+Twenty-one of 957 patients (2.2%) by E-test, and two of 100 patients (2.0%) by agar dilution, had amoxicillin pretreatment MICs of greater than 0.25 mcg/mL.
 One patient on the 14 day triple therapy regimen had an unconfirmed pretreatment amoxicillin minimum inhibitory concentration (MIC) of greater than 256 mcg/mL by E-test and the patient was eradicated of H. pylori (Table 8).
 
 Table 8.

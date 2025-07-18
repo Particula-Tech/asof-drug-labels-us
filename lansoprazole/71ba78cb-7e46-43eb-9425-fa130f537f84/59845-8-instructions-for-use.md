@@ -78,12 +78,12 @@ Keep PREVACID and PREVACID SoluTab and all medicines out of the reach of childre
 
 This Instruction for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by: Takeda Pharmaceuticals America, Inc. Lexington, MA 02421 Revised: October 2017
+Distributed by: Takeda Pharmaceuticals America, Inc. Cambridge, MA 02142 Revised: March 2025
 
 PREVACID is a trademark registered in the U.S. Patent and Trademark Office and SoluTab is a trademark of Takeda Pharmaceuticals U.S.A., Inc. and used under license by Takeda Pharmaceuticals America, Inc.
 
 All other trademark names are the property of their respective owners.
 
-©1995 – 2023 Takeda Pharmaceuticals America, Inc.
+©2025 Takeda Pharmaceuticals America, Inc. All rights reserved.
 
-PRV012 R56
+PRV012 R57
