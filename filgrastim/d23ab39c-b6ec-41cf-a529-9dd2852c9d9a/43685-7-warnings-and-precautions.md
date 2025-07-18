@@ -116,7 +116,7 @@ This should be considered when interpreting bone-imaging results.
 
 ## 5.15 Aortitis
 
-Aortitis has been reported in patients receiving filgrastim products.
+Aortitis has been reported in patients receiving Filgrastim products.
 It may occur as early as the first week after start of therapy.
 Manifestations may include generalized signs and symptoms such as fever, abdominal pain, malaise, back pain, and increased inflammatory markers (e.g., c-reactive protein and white blood cell count).
 Consider aortitis in patients who develop these signs and symptoms without known etiology.
