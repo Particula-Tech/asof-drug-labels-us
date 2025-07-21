@@ -12,7 +12,7 @@ Severe colitis may result in death.
 
 Studies indicate toxin(s) produced by Clostridia is one primary cause of antibiotic-associated colitis.
 The colitis is usually characterized by severe persistent diarrhea and severe abdominal cramps and may be associated with the passage of blood and mucus.
-Stool cultures for Clostridium difficile and stool assay for C. difficile toxin may be helpful diagnostically.
+Stool cultures for Clostridium difficileand stool assay for C. difficiletoxin may be helpful diagnostically.
 
 ## 5.2 Ultraviolet Light and Environmental Exposure
 

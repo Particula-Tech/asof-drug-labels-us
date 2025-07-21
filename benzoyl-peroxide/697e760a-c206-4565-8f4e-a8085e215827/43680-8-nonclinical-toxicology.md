@@ -14,7 +14,7 @@ However, topical treatment with a different gel formulation containing 1% clinda
 In an oral (gavage) carcinogenicity study in rats, treatment with the gel formulation at doses of 300, 900, and 3000 mg/kg/day (1.2, 3.6, and 12 times the MRHD for clindamycin and 1.6, 4.8, and 16 times the MRHD for benzoyl peroxide, respectively, based on BSA comparisons) for up to 97 weeks did not cause any increase in tumors.
 
 Clindamycin phosphate was not genotoxic in the human lymphocyte chromosome aberration assay.
-Benzoyl peroxide has been found to cause DNA strand breaks in a variety of mammalian cell types, to be mutagenic in S. typhimurium tests by some but not all investigators, and to cause sister chromatid exchanges in Chinese hamster ovary cells.
+Benzoyl peroxide has been found to cause DNA strand breaks in a variety of mammalian cell types, to be mutagenic in S. typhimuriumtests by some but not all investigators, and to cause sister chromatid exchanges in Chinese hamster ovary cells.
 
 Fertility studies have not been performed with ONEXTON Gel or benzoyl peroxide, but fertility and mating ability have been studied with clindamycin.
 Fertility studies in rats treated orally with up to 300 mg/kg/day of clindamycin (approximately 120 times the MRHD for clindamycin based on BSA comparisons) revealed no effects on fertility or mating ability.

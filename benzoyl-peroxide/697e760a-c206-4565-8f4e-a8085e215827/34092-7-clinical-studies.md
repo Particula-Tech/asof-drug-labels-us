@@ -6,9 +6,14 @@ This trial evaluated ONEXTON Gel compared to vehicle gel.
 The co-primary efficacy variables for this trial were:
 
 - (1) Mean absolute change from baseline at Week 12 in:
-- • Inflammatory lesion counts
-- • Non-inflammatory lesion counts
-- (2) Percent of subjects who had a 2-grade reduction from baseline on an Evaluator's Global Severity (EGS) score.
+  - Inflammatory lesion counts
+  - Non-inflammatory lesion counts (2) Percent of subjects who had a 2-grade reduction from baseline on an Evaluator’s Global Severity (EGS) score.
+- Inflammatory lesion counts
+- Non-inflammatory lesion counts (2) Percent of subjects who had a 2-grade reduction from baseline on an Evaluator’s Global Severity (EGS) score.
+- (2) Percent of subjects who had a 2-grade reduction from baseline on an Evaluator’s Global Severity (EGS) score.
+
+- Inflammatory lesion counts
+- Non-inflammatory lesion counts (2) Percent of subjects who had a 2-grade reduction from baseline on an Evaluator’s Global Severity (EGS) score.
 
 The EGS scoring scale used in the clinical trial for ONEXTON Gel is as follows:
 
@@ -29,7 +34,7 @@ Table 3: Results of Phase 3 Trial at Week 12
 
 |  | ONEXTON Gel N = 253 | Vehicle Gel N = 245 |
 | --- | --- | --- |
-| EGSS: Clear or Almost Clear | 29% | 15% |
+| EGSS: Clear or Almost Clear Clear or Almost Clear | 29% | 15% |
 | 2-grade reduction from baseline | 35% | 17% |
 | Inflammatory Lesions: |  |  |
 | Mean absolute reduction | 16.3 | 8.2 |
