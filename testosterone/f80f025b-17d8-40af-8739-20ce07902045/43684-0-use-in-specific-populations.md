@@ -49,7 +49,7 @@ There have not been sufficient numbers of geriatric patients in controlled clini
 Of the 153 patients enrolled in the pivotal clinical study utilizing AVEED, 26 (17.0%) were over 65 years of age.
 Additionally, there are insufficient long-term safety data in geriatric patients to assess the potentially increased risk of cardiovascular disease and prostate cancer.
 
-Geriatric patients treated with androgens may also be at risk for worsening of signs and symptoms of BPH [see Warnings and Precautions (5.3)].
+Geriatric patients treated with androgens may also be at risk for worsening of signs and symptoms of BPH [see Warnings and Precautions (5.5)].
 
 ## 8.6 Renal Impairment
 

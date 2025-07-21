@@ -81,6 +81,7 @@ Before receiving AVEED, tell your doctor if you:
 - have breast cancer
 - have or might have prostate cancer
 - have urinary problems due to an enlarged prostate
+- have high blood pressure or are being treated for high blood pressure
 - have heart problems
 - have liver or kidney problems
 - have problems breathing while you sleep (sleep apnea)
@@ -123,7 +124,12 @@ o increased urination at night o trouble starting your urine stream o having to 
 - blood clots in the legs or lungs.
   Signs and symptoms of a blood clot in your leg can include leg pain, swelling or redness.
   Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
-- possible increased risk of heart attack or stroke.
+- Increased blood pressure.
+  AVEED can increase your blood pressure, which can increase your risk of having a heart attack or stroke over time.
+  Your risk may be greater if you have already had a heart attack or stroke or if you have other risk factors for heart attack or stroke.
+  You may need to start new medicines or have medicines changed for high blood pressure while on AVEED.
+  If your blood pressure cannot be controlled, AVEED may need to be stopped.
+  Your healthcare provider should check your blood pressure while you use AVEED.
 - in large doses AVEED may lower your sperm count.
 - liver problems.
   Symptoms of liver problems may include:
@@ -176,6 +182,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured for: Endo USA Malvern, PA 19355
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2025 Endo, Inc. or one of its affiliates.
 
-Revised: 03/2024
+Revised: 07/2025

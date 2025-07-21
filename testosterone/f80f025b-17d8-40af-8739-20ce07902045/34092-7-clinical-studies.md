@@ -30,4 +30,4 @@ Table 2: Mean (SD) Serum Total Testosterone Concentrations at Steady State
 Cavg = average concentration; Cmax = maximum concentration; Cmin = minimum concentration
 
 The percentage of patients with Cmax >1500 ng/dL was 7.7%.
-No patient had a Cmax >1800 ng/dL.
+No patient had a Cmax > 1800 ng/dL.

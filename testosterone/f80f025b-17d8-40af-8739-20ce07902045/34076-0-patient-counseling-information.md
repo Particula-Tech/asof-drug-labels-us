@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-Approved Medication Guide.
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Advise patients of the following:
 
@@ -25,15 +25,19 @@ Patients should be informed that treatment with androgens may lead to adverse re
 - Breathing disturbances, including those associated with sleep or excessive daytime sleepiness
 - Too frequent or persistent erections of the penis
 - Nausea, vomiting, changes in skin color, or ankle swelling
+- Venous thromboembolism, the signs and symptoms of which may include lower limb pain, edema, or erythema; dyspnea; or chest pain.
+- Increased blood pressure that can increase cardiovascular risk over time
 
 ## 17.4 Patients Should Be Advised of the Following Instructions for Use
 
 - Read the Medication Guide before starting AVEED therapy and reread the Guide before each injection.
 - Adhere to all recommended monitoring.
-- Report any changes in their state of health, such as changes in urinary habits, breathing, sleep, and mood.
+- Report any changes in their state of health, such as signs and symptoms of venous thromboembolism, changes in urinary habits, breathing, sleep, and mood.
+- Be aware of the importance of monitoring BP periodically while on AVEED.
+  If BP increases while on AVEED, antihypertensive medications may need to be started, added, or adjusted, or AVEED may need to be discontinued.
 
 Manufactured for: Endo USA Malvern, PA 19355
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2025 Endo, Inc. or one of its affiliates.
 
-Revised: 03/2024
+Revised: 07/2025

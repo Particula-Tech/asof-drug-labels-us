@@ -54,6 +54,43 @@ In another clinical trial of intramuscular testosterone undecanoate (1000 mg), a
 
 During a review that involved adjudication of all cases meeting specific criteria, 9 POME events in 8 patients and 2 events of anaphylaxis among 3,556 patients treated with intramuscular testosterone undecanoate in 18 clinical trials were judged to have occurred.
 
+Blood Pressure Increases
+
+In a 4-month clinical study, 24-hour ambulatory blood pressure monitoring (ABPM) was conducted on 222 patients.
+ABPM was conducted at baseline and at Week 16 of AVEED therapy.
+A total of 139 patients had acceptable ABPM recordings at both baseline and Week 16 and were at least 85% compliant with study drug.
+In that group, the mean change in 24-hour systolic blood pressure (BP) and diastolic BP from baseline to end-of-treatment at Week 16 (n=139) was 3.1 mm Hg (95% CI 1.2, 4.9) and 2.0 mm Hg (95% CI 0.9, 3.1), respectively.
+In patients with a history of hypertension who were receiving antihypertensive therapy, the mean ABPM systolic and diastolic BP increased by 2.1 mm Hg [95% CI -0.7, 5.0] and 1.5 mm Hg [95% CI -0.1, 3.2], respectively [n=73]).
+In patients with no history of hypertension, the mean systolic and diastolic blood pressure increased by 3.3 mm Hg [95% CI 0.8, 5.8] and 2.5 mm Hg [95% CI 1.0, 4.0], respectively [n=65].
+
+2 patients (1.4%) on AVEED, both of whom were receiving antihypertensive medications at baseline, either started new antihypertensive medications (n=2) or had their antihypertensive medication regimen adjusted (n=0) during the ABPM study.
+
+Of the 222 patients in the ABPM study who used AVEED, 8 patients (3.6%) were reported to have either an adverse reaction of hypertension (7 patients, 3.2%) or increased blood pressure (1 patient, 0.4%).
+
+Cardiovascular Outcomes
+
+TRAVERSE was a randomized, double-blind, cardiovascular outcomes study to assess the cardiovascular (CV) safety of topical testosterone gel compared to placebo in 5198 hypogonadal men aged 45 to 80 years with a history of CV disease or with multiple CV risk factors.
+The primary outcome was the incidence of the composite endpoint of major adverse cardiovascular events (MACE), consisting of CV death, non-fatal myocardial infarction (MI), and non-fatal stroke.
+
+The mean duration of therapy was approximately 22 months.
+The mean duration of follow-up was 33 months.
+Approximately 61% of all patients discontinued topical testosterone gel or placebo therapy.
+
+The mean patient age (±SD) was 63.3 (7.9) years, with 2452 patients aged 65 years or more (47%); 2847 (about 55%) patients had pre-existing cardiovascular disease, whereas 2357 patients (about 45%) had an elevated cardiovascular risk at baseline, and mean BMI was 35 kg/m2.
+Approximately 80% of patients were White, 17% were Black, and 3% were of other races or ethnic groups.
+Approximately 69%, 84%, and 93% had diabetes mellitus, hyperlipidemia, and hypertension, respectively.
+
+The mean serum testosterone concentration at baseline in patients receiving topical testosterone gel was 220.4 ng/dL (n=2596).
+The mean serum testosterone concentrations at 12 months, 24 months, 36 months, and 48 months in patients receiving topical testosterone gel were 440.5 ng/dL (n=1683), 420.9 ng/dl (n=1125), 428.7 ng/dL (n=731), and 365.2 ng/dL (n=220), respectively.
+
+For patients treated with topical testosterone gel, the incidence of MACE was 7.0% (n=182 events) and for those receiving placebo, the incidence of MACE was 7.3% (n=190 events).
+The study demonstrated non-inferiority of topical testosterone gel versus placebo because the upper bound of 95% CI was less than the pre-specified risk margin, of 1.5 for MACE (Hazard Ratio 0.96 [95% CI: 0.78, 1.17]).
+
+Additional Adverse Reactions Reported in TRAVERSE
+
+Additional adverse reactions reported in TRAVERSE at an incidence rate >2% in either treatment group and greater in topical testosterone gel versus placebo included: nonfatal arrythmias warranting intervention (5.2% vs 3.3%), atrial fibrillation (3.5% vs 2.4%), acute kidney injury (2.3% vs 1.5%) and bone fracture (3.5% vs 2.5%).
+For the adverse reaction of bone fracture, each event was adjudicated by clinical review.
+
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post-approval use of AVEED.

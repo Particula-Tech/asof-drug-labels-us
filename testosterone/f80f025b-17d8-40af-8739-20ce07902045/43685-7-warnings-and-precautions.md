@@ -25,15 +25,7 @@ Notable requirements of the AVEED REMS Program include the following:
 
 Further information is available at www.aveedrems.com or call 1-855-755-0494.
 
-## 5.3 Worsening of Benign Prostatic Hyperplasia (BPH) and Potential Risk of Prostate Cancer
-
-Patients with BPH treated with androgens are at an increased risk of worsening of signs and symptoms of BPH.
-Monitor patients with BPH for worsening signs and symptoms.
-
-Patients treated with androgens may be at an increased risk for prostate cancer.
-Evaluate patients for prostate cancer prior to initiating and during treatment with androgens [see Contraindications (4)].
-
-## 5.4 Polycythemia
+## 5.3 Polycythemia
 
 Increases in hematocrit, reflective of increases in red blood cell mass, may require discontinuation of testosterone.
 
@@ -42,18 +34,36 @@ It would be appropriate to re-evaluate the hematocrit 3 to 6 months after starti
 If hematocrit becomes elevated, stop therapy until hematocrit decreases to an acceptable level.
 An increase in red blood cell mass may increase the risk of thromboembolic events.
 
-## 5.5 Venous Thromboembolism (VTE)
+## 5.4 Venous Thromboembolism (VTE)
 
 There have been postmarketing reports of venous thromboembolic events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), in patients using testosterone products, such as AVEED.
+
+In the Testosterone Replacement therapy for Assessment of long-term Vascular Events and efficacy ResponSE in hypogonadal men (TRAVERSE) Study, a randomized, double-blind, placebo-controlled, cardiovascular (CV) outcomes study, compared to placebo, topical testosterone gel was associated with a numerically higher incidence of VTE (1.7% vs 1.2%) which included DVT (0.6% vs 0.5%) and PE events (0.9% vs 0.5%) [see Adverse Reactions (6.1)].
+
 Evaluate patients who report symptoms of pain, edema, warmth and erythema in the lower extremity for DVT and those who present with acute shortness of breath for PE.
 If a venous thromboembolic event is suspected, discontinue treatment with AVEED and initiate appropriate workup and management.
 
-## 5.6 Cardiovascular Risk
+## 5.5 Worsening of Benign Prostatic Hyperplasia (BPH) and Potential Risk of Prostate Cancer
 
-Long-term clinical safety trials have not been conducted to assess the cardiovascular outcomes of testosterone replacement therapy in men.
-To date, epidemiologic studies and randomized controlled trials have been inconclusive for determining the risk of major adverse cardiovascular events (MACE), such as non-fatal myocardial infarction, non-fatal stroke, and cardiovascular death, with the use of testosterone compared to non-use.
-Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
-Patients should be informed of this possible risk when deciding whether to use or to continue to use AVEED.
+Patients with BPH treated with androgens are at an increased risk of worsening of signs and symptoms of BPH.
+Monitor patients with BPH for worsening signs and symptoms.
+
+Patients treated with androgens may be at an increased risk for prostate cancer.
+Evaluate patients for prostate cancer prior to initiating and during treatment with androgens [see Contraindications (4)].
+
+## 5.6 Blood Pressure Increases
+
+AVEED can increase blood pressure.
+In an ambulatory blood pressure monitoring (ABPM) study, AVEED increased the mean systolic/diastolic blood pressure by 3.1/2.0 mm Hg from baseline after 16 weeks of treatment.
+In patients with hypertension on antihypertensive therapy, AVEED increased the mean systolic/diastolic BP by 2.1/1.5 mm Hg from baseline.
+Blood pressure increases can increase cardiovascular (CV) risk over time.
+
+The CV risk associated with topical testosterone gel was evaluated in TRAVERSE, a randomized, double-blind, placebo-controlled, CV outcomes study in men with a history of CV disease or multiple CV risk factors.
+In TRAVERSE, topical testosterone gel increased mean systolic blood pressure by 1.0 mm Hg from baseline to 36 months, whereas a mean decrease from baseline of 0.5 mm Hg was observed in the placebo group at this timepoint, for a mean between-group difference of 1.5 mm Hg.
+However, the incidences of major adverse cardiovascular events (MACE), including cardiovascular death, non-fatal myocardial infarction [MI] and non-fatal stroke, were similar between treatment groups (7% for topical testosterone gel vs 7.3% for placebo) [See Adverse Reactions (6.1)].
+
+Monitor blood pressure periodically in men using AVEED, especially men with hypertension.
+AVEED is not recommended for use in patients with uncontrolled hypertension.
 
 ## 5.7 Abuse of Testosterone and Monitoring of Serum Testosterone Concentrations
 
@@ -65,7 +75,7 @@ However, testosterone levels may be in the normal or subnormal range in men abus
 Counsel patients concerning the serious adverse reactions associated with abuse of testosterone and anabolic androgenic steroids.
 Conversely, consider the possibility of testosterone and anabolic androgenic steroid abuse in suspected patients who present with serious cardiovascular or psychiatric adverse events.
 
-## 5.8 Use in Women
+## 5.8 Not for Use in Women
 
 Due to lack of controlled evaluations in women and potential virilizing effects, AVEED is not indicated for use in women [see Contraindications (4) and Use in Specific Populations (8.1, 8.2)].
 
@@ -96,9 +106,10 @@ Gynecomastia occasionally develops and occasionally persists in patients being t
 
 The treatment of hypogonadal men with testosterone products may potentiate sleep apnea in some patients, especially those with risk factors such as obesity or chronic lung diseases.
 
-## 5.14 Lipids
+## 5.14 Lipid Changes
 
-Changes in serum lipid profile may require dose adjustment of lipid lowering drugs or discontinuation of testosterone therapy.
+Changes in serum lipid profile may require dose adjustment of lipid lowering drugs or discontinuation of testosterone therapy, such as AVEED.
+Monitor the lipid profile periodically, particularly after starting testosterone therapy.
 
 ## 5.15 Hypercalcemia
 
