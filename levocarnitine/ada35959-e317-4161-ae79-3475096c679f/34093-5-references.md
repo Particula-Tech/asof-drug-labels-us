@@ -51,13 +51,24 @@
     Quantitative estimation of absorption and degradation of a carnitine supplement by human adults.
     Metabolism 40:1305-1310.
 
-Distributed by: Rising Pharmaceuticals, Inc. East Brunswick, NJ 08816
+Manufactured for: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
 
 Manufactured by: Lyne Laboratories, Inc. Brockton, MA 02301
 
-R9-01/23 Active ingredient: L-carnitine 1 g/10mL Usual Dosage: See package insert.
+Revised: 07/2025
+
+PIR50312-00 Active ingredient: L-carnitine 1 g/10mL
+
+Inactive Ingredients: Artificial Cherry Flavor, D, L-Malic Acid, Methylparaben NF, Propylparaben NF, Purified Water, Sucrose Syrup
+
+Usual Dosage: See package insert.
 Avoid excess heat.
 Protect from freezing.
 Store at 20°- 25°C (68°-77°F) excursion permitted to 15°-30°C (59°- 86°F).
 [See USP Controlled Room Temperature].
-Distributed by: Rising Pharmaceuticals, Inc. East Brunswick, NJ 08816 Manufactured by: Lyne Laboratories, Inc. Brockton, MA 02301 R9-01/23
+
+Manufactured for: Rising Pharma Holdings, Inc. East Brunswick, NJ 08816 Manufactured by: Lyne Laboratories, Inc. Brockton, MA 02301
+
+Revised: 07/2025
+
+LR50312-00

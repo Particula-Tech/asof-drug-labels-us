@@ -29,8 +29,6 @@ No long-term animal studies have been performed to evaluate the carcinogenic pot
 
 ## Pregnancy
 
-### Pregnancy Category B.
-
 Reproductive studies have been performed in rats and rabbits at doses up to 3.8 times the human dose on the basis of surface area and have revealed no evidence of impaired fertility or harm to the fetus due to Levocarnitine Oral Solution USP.
 There are, however, no adequate and well controlled studies in pregnant women.
 

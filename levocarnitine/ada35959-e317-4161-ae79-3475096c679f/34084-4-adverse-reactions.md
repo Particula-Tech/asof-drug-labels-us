@@ -9,9 +9,12 @@ Decreasing the dosage often diminishes or eliminates drug-related patient body o
 Tolerance should be monitored very closely during the first week of administration, and after any dosage increases.
 
 Musculoskeletal Reactions: Mild myasthenia has been described only in uremic patients receiving D,L-carnitine.
+
 Neurologic Reactions: Seizures have been reported to occur in patients with or without pre-existing seizure activity receiving either oral or intravenous levocarnitine.
 In patients with pre-existing seizure activity, an increase in seizure frequency and/or severity has been reported.
 
-Hypersensitivity Reactions: Rash, urticaria, and facial edema have been reported with Levocarnitine Oral Solution USP (see WARNINGS).
+Hypersensitivity Reactions: Rash, urticaria, and facial edema have been reported with Levocarnitine Oral Solution USP
 
-To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharmaceuticals, Inc. at 1-866-562- 4597 or FDA at 1-800-FDA-1088 or www.FDA.gov/medwatch.
+(see WARNINGS).
+
+To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc. at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.FDA.gov/medwatch.
