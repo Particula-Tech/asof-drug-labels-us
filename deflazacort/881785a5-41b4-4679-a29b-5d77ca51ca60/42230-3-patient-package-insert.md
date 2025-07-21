@@ -10,7 +10,8 @@ Important information before you use deflazacort oral suspension:
 
 - Only use the oral dispenser (see Figure A below) that comes in your deflazacort oral suspension carton when using this medicine.
 - Deflazacort oral suspension can be taken with or without food.
-- Take your dose of deflazacort oral suspension with juice or milk.Do not take deflazacort oral suspension with grapefruit juice.
+- Take your dose of deflazacort oral suspension with juice or milk.
+  Do not take deflazacort oral suspension with grapefruit juice.
 - Throw away (discard) any unused deflazacort oral suspension after 1 month of first opening the bottle.
 - Do not stop taking deflazacort oral suspension without talking to your healthcare provider first.
 
@@ -141,14 +142,13 @@ Active ingredient: deflazacort
 
 Inactive ingredients: Benzyl Alcohol, Glacial Acetic Acid, Magnesium Aluminum Silicate, Polysorbate 80, Purified Water, Sodium Carboxymethyl cellulose, Sorbitol Solution.
 
-Manufactured by:
+Manufactured by: Tris Pharma, Inc., Monmouth Junction, NJ 08852
 
-Tris Pharma, Inc.
+For: Cranbury Pharmaceuticals, LLC, Monmouth Junction, NJ 08852
 
-Monmouth Junction, NJ 08852
-
-LB8697
+LB8697 Rev.
+01
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued: 05/2023
+Issued: 05/2025
