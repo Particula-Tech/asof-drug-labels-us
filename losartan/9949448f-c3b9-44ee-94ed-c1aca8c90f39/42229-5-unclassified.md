@@ -4,10 +4,10 @@ For patent information: www.organon.com/our-solutions/patent/
 
 The trademarks depicted herein are owned by their respective companies.
 
-© 2021 Organon group of companies.
+© 2025 Organon group of companies.
 All rights reserved.
 
-uspi-og0954-t-2110r001
+uspi-og0954-t-2506r002
 
 Manufactured for: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
 
