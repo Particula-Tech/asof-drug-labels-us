@@ -40,7 +40,7 @@ The absolute oral bioavailability is >90%.
 
 Effect of Food
 
-Concomitant intake with a high-fat meal (1000 kcal total, 500 kcal from fat) does not influence the oral bioavailability of prucalopride [see Dosage and Administration (2)].
+Concomitant intake with a high-fat meal (1,000 kcal total, 500 kcal from fat) does not influence the oral bioavailability of prucalopride [see Dosage and Administration (2)].
 
 Distribution
 
@@ -69,7 +69,7 @@ Renal elimination of prucalopride involves both passive filtration and active se
 
 Use in Specific Populations
 
-Population pharmacokinetic analysis of a combined study population of 1343 subjects indicated that there were no clinically significant differences in the pharmacokinetics of prucalopride based on age (17-95 years), sex, race (89% white, 7% black, 4% other), or body weight (37-161 kg), after accounting for the effect of renal function.
+Population pharmacokinetic analysis of a combined study population of 1,343 subjects indicated that there were no clinically significant differences in the pharmacokinetics of prucalopride based on age (17-95 years), sex, race (89% white, 7% black, 4% other), or body weight (37-161 kg), after accounting for the effect of renal function.
 
 Geriatric Patients
 
@@ -95,13 +95,13 @@ Effect of Prucalopride on Other Drugs
 
 Erythromycin
 
-Co-administration of oral erythromycin (500 mg four times daily) with prucalopride increased the erythromycin mean Cmax by 40% and mean AUC0-24h by 28%.
+Coadministration of oral erythromycin (500 mg four times daily) with prucalopride increased the erythromycin mean Cmax by 40% and mean AUC0-24h by 28%.
 The mechanism for this interaction is not clear.
 The increased exposure to erythromycin is unlikely to be clinically significant.
 
 Other Drugs
 
-No clinically significant differences in the pharmacokinetics (no more than a 10% change in AUC) of the following drugs were observed when co-administered with prucalopride: warfarin, digoxin, paroxetine, or oral contraceptives (ethinyl estradiol and norethisterone).
+No clinically significant differences in the pharmacokinetics (no more than a 10% change in AUC) of the following drugs were observed when coadministered with prucalopride: warfarin, digoxin, paroxetine, or oral contraceptives (ethinyl estradiol and norethisterone).
 
 Effect of Other Drugs on Prucalopride
 
@@ -112,7 +112,7 @@ This effect is unlikely to be clinically significant.
 
 Other Drugs
 
-No clinically significant differences in prucalopride pharmacokinetics (no more than a 10% change in AUC) were observed when co-administered with erythromycin, probenecid, cimetidine, or paroxetine.
+No clinically significant differences in prucalopride pharmacokinetics (no more than a 10% change in AUC) were observed when coadministered with erythromycin, probenecid, cimetidine, or paroxetine.
 
 In Vitro Studies
 
