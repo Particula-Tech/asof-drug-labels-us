@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA213605"
+  ],
+  "inn": "sacubitril",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "69238-2731-1",
+    "69238-2731-2",
+    "69238-2732-1",
+    "69238-2732-2",
+    "69238-2733-1",
+    "69238-2733-2"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "sacubitril and valsartan",
+      "name": "Sacubitril and Valsartan"
+    }
+  ],
+  "setid": "e4011f11-2035-4f32-8df6-b1580c2a6e2a",
+  "source": "dailymed"
+}
