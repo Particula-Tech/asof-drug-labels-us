@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "BLA761364"
+  ],
+  "inn": "ustekinumab",
+  "labeler": "Accord BioPharma Inc.",
+  "package_ndcs": [
+    "69448-017-63",
+    "69448-018-63",
+    "69448-019-26"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "ustekinumab-srlf",
+      "name": "IMULDOSA"
+    }
+  ],
+  "setid": "2539a6cf-0fe5-1565-e063-6294a90a3618",
+  "source": "dailymed"
+}
