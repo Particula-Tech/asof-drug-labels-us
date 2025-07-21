@@ -12,10 +12,10 @@ Instruct patients to tell their healthcare provider right away if they perceive 
 
 Drug Interactions:
 
-- •Instruct the patient to report the use of all medications, especially apomorphine, to their healthcare provider.
-  Concomitant use of apomorphine and ondansetron may cause a significant drop in blood pressure and loss of consciousness.
-- •Advise patients of the possibility of serotonin syndrome with concomitant use of ondansetron and another serotonergic agent, such as medications to treat depression and migraines.
-  Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms with or without gastrointestinal symptoms [see Warnings and Precautions (5.3)].
+1. 1.Instruct the patient to report the use of all medications, especially apomorphine, to their healthcare provider.
+   Concomitant use of apomorphine and ondansetron may cause a significant drop in blood pressure and loss of consciousness.
+2. 2.Advise patients of the possibility of serotonin syndrome with concomitant use of ondansetron and another serotonergic agent, such as medications to treat depression and migraines.
+   Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms with or without gastrointestinal symptoms [see Warnings and Precautions (5.3)].
 
 Myocardial Ischemia:
 
@@ -29,6 +29,6 @@ Instruct patients to immediately report any signs or symptoms consistent with a 
 
 Distributed by: Hikma Pharmaceuticals USA Inc.
 
-Berkeley Heights, NJ 07922 C50000671/01
+Berkeley Heights, NJ 07922 C50000671/02
 
-Revised October 2021
+Revised June 2025

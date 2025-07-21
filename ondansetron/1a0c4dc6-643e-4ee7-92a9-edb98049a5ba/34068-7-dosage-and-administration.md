@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage
+## 2.1 Recommended Dosage
 
 The recommended dosage regimens for adult and pediatric patients are described in Table 1 and Table 2, respectively.
 

@@ -60,14 +60,14 @@ More detailed pharmacokinetic information is contained in Tables 5 and 6.
 
 Table 5: Pharmacokinetics in Male and Female Healthy Subjects After a Single Dose of an Ondansetron 8-mg Tablet
 
-| Age-group (years) Sex (M/F) |  |  | Mean Weight (kg) | N | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) | Systemic Plasma Clearance L/h/kg | Absolute Bioavailability |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 18 to 40 | M |  | 69.0 | 6 | 26.2 | 2.0 | 3.1 | 0.403 | 0.483 |
-| F |  | 62.7 | 5 | 42.7 | 1.7 | 3.5 | 0.354 | 0.663 |  |
-| 61 to 74 | M |  | 77.5 | 6 | 24.1 | 2.1 | 4.1 | 0.384 | 0.585 |
-| F |  | 60.2 | 6 | 52.4 | 1.9 | 4.9 | 0.255 | 0.643 |  |
-| ≥ 75 |  | M | 78.0 | 5 | 37.0 | 2.2 | 4.5 | 0.277 | 0.619 |
-| F | 67.6 | 6 | 46.1 | 2.1 | 6.2 | 0.249 | 0.747 |  |  |
+| Age-group (years) Sex (M/F) |  | Mean Weight (kg) | N | Peak Plasma Concentration (ng/mL) | Time of Peak Plasma Concentration (h) | Mean Elimination Half-life (h) | Systemic Plasma Clearance L/h/kg | Absolute Bioavailability |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 18 to 40 | M | 69.0 | 6 | 26.2 | 2.0 | 3.1 | 0.403 | 0.483 |
+| F | 62.7 | 5 | 42.7 | 1.7 | 3.5 | 0.354 | 0.663 |  |
+| 61 to 74 | M | 77.5 | 6 | 24.1 | 2.1 | 4.1 | 0.384 | 0.585 |
+| F | 60.2 | 6 | 52.4 | 1.9 | 4.9 | 0.255 | 0.643 |  |
+| ≥ 75 | M | 78.0 | 5 | 37.0 | 2.2 | 4.5 | 0.277 | 0.619 |
+| F | 67.6 | 6 | 46.1 | 2.1 | 6.2 | 0.249 | 0.747 |  |
 
 Table 6: Pharmacokinetics in Male and Female Healthy Subjects After a Single Dose of an Ondansetron 24-mg Tablet
 
