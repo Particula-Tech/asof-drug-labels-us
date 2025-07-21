@@ -4,13 +4,13 @@
 
 Pregnancy Exposure Registry
 
-There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, including lamotrigine, during pregnancy.
-Encourage women who are taking lamotrigine during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, including lamotrigine tablets, during pregnancy.
+Encourage women who are taking lamotrigine tablets during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
 
 Risk Summary
 
 Data from several prospective pregnancy exposure registries and epidemiological studies of pregnant women have not detected an increased frequency of major congenital malformations or a consistent pattern of malformations among women exposed to lamotrigine compared with the general population (see Data).
-The majority of lamotrigine pregnancy exposure data are from women with epilepsy.
+The majority of lamotrigine tablets pregnancy exposure data are from women with epilepsy.
 In animal studies, administration of lamotrigine during pregnancy resulted in developmental toxicity (increased mortality, decreased body weight, increased structural variation, neurobehavioral abnormalities) at doses lower than those administered clinically.
 
 Lamotrigine decreased fetal folate concentrations in rats, an effect known to be associated with adverse pregnancy outcomes in animals and humans (see Data).
@@ -50,10 +50,10 @@ The lowest effect dose for developmental neurotoxicity in rats is less than the 
 Maternal toxicity was observed at the higher dose tested.
 
 When pregnant rats were administered lamotrigine (oral doses of 0, 5, 10, or 20 mg/kg) during the latter part of gestation and throughout lactation, increased offspring mortality (including stillbirths) was seen at all doses.
-The lowest effect dose for pre- and post-natal developmental toxicity in rats is less than the human dose of 400 mg/day on a mg/m 2 basis.
+The lowest effect dose for pre- and post-natal developmental toxicity in rats is less than the human dose of 400 mg/day on a mg/m2 basis.
 Maternal toxicity was observed at the 2 highest doses tested.
 
-When administered to pregnant rats, lamotrigine decreased fetal folate concentrations at doses greater than or equal to 5 mg/kg/day, which is less than the human dose of 400 mg/day on a mg/m 2 basis.
+When administered to pregnant rats, lamotrigine decreased fetal folate concentrations at doses greater than or equal to 5 mg/kg/day, which is less than the human dose of 400 mg/day on a mg/m2 basis.
 
 ## 8.2 Lactation
 
@@ -66,7 +66,7 @@ Glucuronidation capacity is immature in the infant and this may also contribute 
 Events including rash, apnea, drowsiness, poor sucking, and poor weight gain (requiring hospitalization in some cases) have been reported in infants who have been human milk-fed by mothers using lamotrigine; whether or not these events were caused by lamotrigine is unknown.
 No data are available on the effects of the drug on milk production.
 
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for lamotrigine and any potential adverse effects on the breastfed infant from lamotrigine or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for lamotrigine tablets and any potential adverse effects on the breastfed infant from lamotrigine tablets or from the underlying maternal condition.
 
 Clinical Considerations
 
@@ -82,26 +82,26 @@ Data from multiple small studies indicate that lamotrigine plasma levels in nurs
 
 Epilepsy
 
-Lamotrigine is indicated as adjunctive therapy in patients aged 2 years and older for partial-onset seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
+Lamotrigine tablets are indicated as adjunctive therapy in patients aged 2 years and older for partial-onset seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
 
-Safety and efficacy of lamotrigine used as adjunctive treatment for partial-onset seizures were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal trial in very young pediatric patients (aged 1 to 24 months).
-Lamotrigine was associated with an increased risk for infectious adverse reactions (Lamotrigine 37%, placebo 5%), and respiratory adverse reactions (Lamotrigine 26%, Placebo 5%).
+Safety and efficacy of lamotrigine tablets used as adjunctive treatment for partial-onset seizures were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal trial in very young pediatric patients (aged 1 to 24 months).
+Lamotrigine tablets were associated with an increased risk for infectious adverse reactions (lamotrigine tablets 37%, placebo 5%), and respiratory adverse reactions (lamotrigine tablets 26%, placebo 5%).
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
 Bipolar Disorder
 
-Safety and efficacy of lamotrigine for the maintenance treatment of bipolar disorder were not established in a double-blind, randomized withdrawal, placebo-controlled trial that evaluated 301 pediatric patients aged 10 to 17 years with a current manic/hypomanic, depressed, or mixed mood episode as defined by DSM-IV-TR.
-In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking lamotrigine (n=87) and were twice as common compared with patients taking placebo (n=86) were influenza (lamotrigine 8%, placebo 2%), oropharyngeal pain (lamotrigine 8%, placebo 2%), vomiting (lamotrigine 6%, placebo 2%), contact dermatitis (lamotrigine 5%, placebo 2%), upper abdominal pain (lamotrigine 5%, placebo 1%), and suicidal ideation (lamotrigine 5%, placebo 0%).
+Safety and efficacy of lamotrigine tablets for the maintenance treatment of bipolar disorder were not established in a double-blind, randomized withdrawal, placebo-controlled trial that evaluated 301 pediatric patients aged 10 to 17 years with a current manic/hypomanic, depressed, or mixed mood episode as defined by DSM-IV-TR.
+In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking lamotrigine tablets (n = 87) and were twice as common compared with patients taking placebo (n = 86) were influenza (lamotrigine tablets 8%, placebo 2%), oropharyngeal pain (lamotrigine tablets 8%, placebo 2%), vomiting (lamotrigine tablets 6%, placebo 2%), contact dermatitis (lamotrigine tablets 5%, placebo 2%), upper abdominal pain (lamotrigine tablets 5%, placebo 1%), and suicidal ideation (lamotrigine tablets 5%, placebo 0%).
 
 Juvenile Animal Data
 
-In a juvenile animal study in which lamotrigine (oral doses of 0, 5, 15, or 30 mg/kg) was administered to young rats from postnatal days 7 to 62, decreased viability and growth were seen at the highest dose tested and long-term neurobehavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
-The no-effect dose for adverse developmental effects in juvenile animals is less than the human dose of 400 mg/day on a mg/m 2 basis.
+In a juvenile animal study in which lamotrigine (oral doses of 0, 5, 15, or 30 mg/kg) was administered to young rats from postnatal day 7 to 62, decreased viability and growth were seen at the highest dose tested and long-term neurobehavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
+The no-effect dose for adverse developmental effects in juvenile animals is less than the human dose of 400 mg/day on a mg/m2 basis.
 
 ## 8.5 Geriatric Use
 
-Clinical trials of lamotrigine for epilepsy and bipolar disorder did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients or exhibit a different safety profile than that of younger patients.
+Clinical trials of lamotrigine tablets for epilepsy and bipolar disorder did not include sufficient numbers of patients aged 65 years and older to determine whether they respond differently from younger patients or exhibit a different safety profile than that of younger patients.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 ## 8.6 Hepatic Impairment
@@ -117,6 +117,6 @@ Escalation and maintenance doses may be adjusted according to clinical response 
 Lamotrigine is metabolized mainly by glucuronic acid conjugation, with the majority of the metabolites being recovered in the urine.
 In a small study comparing a single dose of lamotrigine in subjects with varying degrees of renal impairment with healthy volunteers, the plasma half-life of lamotrigine was approximately twice as long in the subjects with chronic renal failure [see Clinical Pharmacology (12.3)].
 
-Initial doses of lamotrigine should be based on patients' AED regimens; reduced maintenance doses may be effective for patients with significant renal impairment.
+Initial doses of lamotrigine tablets should be based on patients' AED regimens; reduced maintenance doses may be effective for patients with significant renal impairment.
 Few patients with severe renal impairment have been evaluated during chronic treatment with lamotrigine.
-Because there is inadequate experience in this population, lamotrigine should be used with caution in these patients [see Dosage and Administration (2.1)].
+Because there is inadequate experience in this population, lamotrigine tablets should be used with caution in these patients [see Dosage and Administration (2.1)].

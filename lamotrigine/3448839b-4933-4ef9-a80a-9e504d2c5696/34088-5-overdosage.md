@@ -14,4 +14,4 @@ If indicated, emesis should be induced; usual precautions should be taken to pro
 It should be kept in mind that immediate-release lamotrigine is rapidly absorbed [see Clinical Pharmacology (12.3)].
 It is uncertain whether hemodialysis is an effective means of removing lamotrigine from the blood.
 In 6 renal failure patients, about 20% of the amount of lamotrigine in the body was removed by hemodialysis during a 4-hour session.
-A Poison Control Center should be contacted for information on the management of overdosage of lamotrigine.
+A Poison Control Center should be contacted for information on the management of overdosage of lamotrigine tablets.
