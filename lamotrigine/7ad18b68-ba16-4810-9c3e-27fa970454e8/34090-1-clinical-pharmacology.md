@@ -57,7 +57,7 @@ The pharmacokinetics of lamotrigine have been studied in subjects with epilepsy,
 Lamotrigine pharmacokinetic parameters for adult and pediatric subjects and healthy normal volunteers are summarized in Tables 14 and 16.
 
 Table 14.
-Mean Pharmacokinetic Parameters ain Healthy Volunteers and Adult Subjects with Epilepsy
+Mean Pharmacokinetic Parameters a in Healthy Volunteers and Adult Subjects with Epilepsy
 
 | Adult Study Population | Number of Subjects | T max: Time of Maximum Plasma Concentration (h) | t 1/2: Elimination Half-life (h) | CL/F: Apparent Plasma Clearance (mL/min/kg) |
 | --- | --- | --- | --- | --- |
@@ -110,12 +110,12 @@ Evidence gathered from other sources suggests that self-induction by lamotrigine
 
 Elimination
 
-The elimination half-life and apparent clearance of SUBVENITE following oral administration of lamotrigine to adult subjects with epilepsy and healthy volunteers is summarized in Table 14.
+The elimination half-life and apparent clearance of lamotrigine following oral administration of SUBVENITE to adult subjects with epilepsy and healthy volunteers is summarized in Table 14.
 Half-life and apparent oral clearance vary depending on concomitant AEDs.
 
 Drug Interactions
 
-The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.13), Drug Interactions (7)].
+The apparent clearance of lamotrigine is affected by the coadministration of certain medications [see Warnings and Precautions (5.9, 5.12), Drug Interactions (7)].
 
 The net effects of drug interactions with lamotrigine are summarized in Tables 13 and 15, followed by details of the drug interaction studies below.
 
@@ -178,12 +178,13 @@ There were mean decreases in the AUC and C maxof the levonorgestrel component of
 Measurement of serum progesterone indicated that there was no hormonal evidence of ovulation in any of the 16 volunteers, although measurement of serum FSH, LH, and estradiol indicated that there was some loss of suppression of the hypothalamic-pituitary-ovarian axis.
 
 The effects of doses of lamotrigine other than 300 mg/day have not been systematically evaluated in controlled clinical trials.
+Studies with other female hormonal preparations (including progesterone/progesterone-containing HRT) have not been conducted.
 
 The clinical significance of the observed hormonal changes on ovulatory activity is unknown.
 However, the possibility of decreased contraceptive efficacy in some patients cannot be excluded.
 Therefore, patients should be instructed to promptly report changes in their menstrual pattern (e.g., break-through bleeding).
 
-Dosage adjustments may be necessary for women receiving estrogen-containing oral contraceptive preparations [see Dosage and Administration (2.1)].
+Dosage adjustments may be necessary for women receiving estrogen-containing products, including oral contraceptive preparations [see Dosage and Administration (2.1)].
 
 Other Hormonal Contraceptives or Hormone Replacement Therapy
 
@@ -263,7 +264,7 @@ Limited clinical data suggest a higher incidence of headache, dizziness, nausea,
 
 Perampanel
 
-In a pooled analysis of data from 3 placebo-controlled clinical trials investigating adjunctive perampanel in patients with partial-onset and primary generalized tonic-clonic seizures, the highest perampanel dose evaluated (12 mg/day) increased lamotrigine clearance by <10%.
+In a pooled analysis of data from 3 placebo-controlled clinical trials investigating adjunctive perampanel in patients with partial-onset and PGTC seizures, the highest perampanel dose evaluated (12 mg/day) increased lamotrigine clearance by <10%.
 An effect of this magnitude is not considered to be clinically relevant.
 
 Phenobarbital, Primidone
@@ -296,7 +297,7 @@ Administration of lamotrigine resulted in a 15% increase in topiramate concentra
 
 Valproate
 
-When lamotrigine was administered to healthy volunteers (n = 18) receiving valproate, the trough steady-state valproate plasma concentrations decreased by an average of 25% over a 3-week period, and then stabilized.
+When lamotrigine was administered to healthy volunteers (n=18) receiving valproate, the trough steady-state valproate plasma concentrations decreased by an average of 25% over a 3-week period, and then stabilized.
 However, adding lamotrigine to the existing therapy did not cause a change in valproate plasma concentrations in either adult or pediatric patients in controlled clinical trials.
 
 The addition of valproate increased lamotrigine steady-state concentrations in normal volunteers by slightly more than 2-fold.
@@ -337,7 +338,7 @@ Lamotrigine pharmacokinetic parameters for pediatric patients are summarized in 
 Population pharmacokinetic analyses involving subjects aged 2 to 18 years demonstrated that lamotrigine clearance was influenced predominantly by total body weight and concurrent AED therapy.
 The oral clearance of lamotrigine was higher, on a body weight basis, in pediatric patients than in adults.
 Weight-normalized lamotrigine clearance was higher in those subjects weighing <30 kg compared with those weighing >30 kg.
-Accordingly, patients weighing <30 kg may need an increase of as much as 50% in maintenance doses, based on clinical response, as compared with subjects weighing more than 30 kg being administered the same AEDs [see Dosage and Administration (2.2)].
+Accordingly, patients weighing <30 kg may need an increase of as much as 50% in maintenance doses, based on clinical response, as compared with subjects weighing >30 kg being administered the same AEDs [see Dosage and Administration (2.2)].
 These analyses also revealed that, after accounting for body weight, lamotrigine clearance was not significantly influenced by age.
 Thus, the same weight-adjusted doses should be administered to children irrespective of differences in age.
 Concomitant AEDs which influence lamotrigine clearance in adults were found to have similar effects in children.

@@ -1,4 +1,4 @@
-WARNING: SERIOUS SKIN RASHES
+# WARNING: SERIOUS SKIN RASHES
 
 SUBVENITE can cause serious rashes requiring hospitalization and discontinuation of treatment.
 The incidence of these rashes, which have included Stevens-Johnson syndrome, is approximately 0.3% to 0.8% in pediatric patients (aged 2 to 17 years) and 0.08% to 0.3% in adults receiving SUBVENITE.

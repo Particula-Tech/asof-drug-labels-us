@@ -42,18 +42,18 @@ No patterns of specific malformation types were observed.
 The same meta-analyses evaluated the risk of additional maternal and infant outcomes including fetal death, stillbirth, preterm birth, small for gestational age, and neurodevelopmental delay.
 Although there are no data suggesting an increased risk of these outcomes with lamotrigine monotherapy exposure, differences in outcome definition, ascertainment methods, and comparator groups limit the conclusions that can be drawn.
 
-Animal Data:When lamotrigine was administered to pregnant mice, rats, or rabbits during the period of organogenesis (oral doses of up to 125, 25, and 30 mg/kg, respectively), reduced fetal body weight and increased incidences of fetal skeletal variations were seen in mice and rats at doses that were also maternally toxic.
+Animal Data: When lamotrigine was administered to pregnant mice, rats, or rabbits during the period of organogenesis (oral doses of up to 125, 25, and 30 mg/kg, respectively), reduced fetal body weight and increased incidences of fetal skeletal variations were seen in mice and rats at doses that were also maternally toxic.
 The no-effect doses for embryofetal developmental toxicity in mice, rats, and rabbits (75, 6.25, and 30 mg/kg, respectively) are similar to (mice and rabbits) or less than (rats) the human dose of 400 mg/day on a body surface area (mg/m 2) basis.
 
 In a study in which pregnant rats were administered lamotrigine (oral doses of 0, 5, or 25 mg/kg) during the period of organogenesis and offspring were evaluated postnatally, neurobehavioral abnormalities were observed in exposed offspring at both doses.
-The lowest effect dose for developmental neurotoxicity in rats is less than the human dose of 400 mg/day on a mg/m 2basis.
+The lowest effect dose for developmental neurotoxicity in rats is less than the human dose of 400 mg/day on a mg/m 2 basis.
 Maternal toxicity was observed at the higher dose tested.
 
 When pregnant rats were administered lamotrigine (oral doses of 0, 5, 10, or 20 mg/kg) during the latter part of gestation and throughout lactation, increased offspring mortality (including stillbirths) was seen at all doses.
-The lowest effect dose for pre- and post-natal developmental toxicity in rats is less than the human dose of 400 mg/day on a mg/m 2basis.
+The lowest effect dose for pre- and post-natal developmental toxicity in rats is less than the human dose of 400 mg/day on a mg/m 2 basis.
 Maternal toxicity was observed at the 2 highest doses tested.
 
-When administered to pregnant rats, lamotrigine decreased fetal folate concentrations at doses greater than or equal to 5 mg/kg/day, which is less than the human dose of 400 mg/day on a mg/m 2basis.
+When administered to pregnant rats, lamotrigine decreased fetal folate concentrations at doses greater than or equal to 5 mg/kg/day, which is less than the human dose of 400 mg/day on a mg/m 2 basis.
 
 ## 8.2 Lactation
 
@@ -63,7 +63,7 @@ Lamotrigine is present in milk from lactating women taking SUBVENITE (see Data).
 Neonates and young infants are at risk for high serum levels because maternal serum and milk levels can rise to high levels postpartum if lamotrigine dosage has been increased during pregnancy but is not reduced after delivery to the pre-pregnancy dosage.
 Glucuronidation is required for drug clearance.
 Glucuronidation capacity is immature in the infant and this may also contribute to the level of lamotrigine exposure.
-Events including rash, apnea, drowsiness, poor sucking, and poor weight gain (requiring hospitalization in some cases) have been reported in infants who have been milk-fed by mothers using lamotrigine; whether or not these events caused by lamotrigine is unknown.
+Events including rash, apnea, drowsiness, poor sucking, and poor weight gain (requiring hospitalization in some cases) have been reported in infants who have been human milk-fed by mothers using lamotrigine; whether or not these events were caused by lamotrigine is unknown.
 No data are available on the effects of the drug on milk production.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for SUBVENITE and any potential adverse effects on the breastfed infant from SUBVENITE or from the underlying maternal condition.
@@ -85,14 +85,14 @@ Data from multiple small studies indicate that lamotrigine plasma levels in nurs
 SUBVENITE is indicated as adjunctive therapy in patients aged 2 years and older for partial-onset seizures, the generalized seizures of Lennox-Gastaut syndrome, and PGTC seizures.
 
 Safety and efficacy of SUBVENITE used as adjunctive treatment for partial-onset seizures were not demonstrated in a small, randomized, double-blind, placebo-controlled withdrawal trial in very young pediatric patients (aged 1 to 24 months).
-SUBVENITE was associated with an increased risk for infectious adverse reactions (SUBVENITE 37%, Placebo 5%), and respiratory adverse reactions (SUBVENITE 26%, Placebo 5%).
+SUBVENITE was associated with an increased risk for infectious adverse reactions (SUBVENITE 37%, placebo 5%), and respiratory adverse reactions (SUBVENITE 26%, placebo 5%).
 Infectious adverse reactions included bronchiolitis, bronchitis, ear infection, eye infection, otitis externa, pharyngitis, urinary tract infection, and viral infection.
 Respiratory adverse reactions included nasal congestion, cough, and apnea.
 
 ﻿Bipolar Disorder
 
 Safety and efficacy of SUBVENITE for the maintenance treatment of bipolar disorder were not established in a double-blind, randomized withdrawal, placebo-controlled trial that evaluated 301 pediatric patients aged 10 to 17 years with a current manic/hypomanic, depressed, or mixed mood episode as defined by DSM-IV-TR.
-In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking placebo (n = 86) were influenza (SUBVENITE 8%, placebo 2%), oropharyngeal pain (SUBVENITE 8%, placebo 2%), vomiting (SUBVENITE 6%, placebo 2%), upper abdominal pain (SUBVENITE 5%, placebo 1%), and suicidal ideation (SUBVENITE 5%, placebo 0%).
+In the randomized phase of the trial, adverse reactions that occurred in at least 5% of patients taking SUBVENITE (n = 87) and were twice as common compared with patients taking placebo (n = 86) were influenza (SUBVENITE 8%, placebo 2%), oropharyngeal pain (SUBVENITE 8%, placebo 2%), vomiting (SUBVENITE 6%, placebo 2%), contact dermatitis (SUBVENITE 5%, placebo 2%), upper abdominal pain (SUBVENITE 5%, placebo 1%), and suicidal ideation (SUBVENITE 5%, placebo 0%).
 
 ﻿Juvenile Animal Data
 
