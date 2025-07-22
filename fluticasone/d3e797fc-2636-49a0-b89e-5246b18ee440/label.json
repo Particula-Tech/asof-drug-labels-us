@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA205625"
+  ],
+  "inn": "fluticasone",
+  "labeler": "Prasco Laboratories",
+  "package_ndcs": [
+    "66993-166-97",
+    "66993-167-97",
+    "66993-168-97"
+  ],
+  "products": [
+    {
+      "form": "POWDER",
+      "generic": "fluticasone furoate",
+      "name": "Fluticasone Furoate Ellipta"
+    }
+  ],
+  "setid": "d3e797fc-2636-49a0-b89e-5246b18ee440",
+  "source": "dailymed"
+}
