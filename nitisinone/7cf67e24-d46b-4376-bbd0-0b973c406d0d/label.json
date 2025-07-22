@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA209449"
+  ],
+  "inn": "nitisinone",
+  "labeler": "Cycle Pharmaceuticals Ltd.",
+  "package_ndcs": [
+    "70709-112-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "nitisinone",
+      "name": "HARLIKU"
+    }
+  ],
+  "setid": "7cf67e24-d46b-4376-bbd0-0b973c406d0d",
+  "source": "dailymed"
+}
