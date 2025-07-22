@@ -46,7 +46,7 @@ The positive control drug, triazolam, consistently showed a dose-response effect
 
 Residual Pharmacological Effect in Insomnia Trials
 
-In order to evaluate potential next-day residual effects, the following scales were used: a Memory Recall Test, a Word List Memory Test, a Visual Analog Mood and Feeling Scale, the Digit-Symbol Substitution Test, and a post-sleep questionnaire to assess alertness and ability to concentrate.
+In order to evaluate potential next-day residual effects, the following scales were used: a Memory Recall Test, a Word List Memory Test, a Visual Analog Mood and Feeling Scale, the Digit-Symbol Substitution Test, and a post sleep questionnaire to assess alertness and ability to concentrate.
 There was no evidence of next-day residual effect seen after two nights of ramelteon use during the crossover studies.
 
 In a 35 night, double-blind, placebo-controlled, parallel-group study in adults with chronic insomnia, measures of residual effects were performed at three time points.
