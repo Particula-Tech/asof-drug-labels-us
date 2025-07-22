@@ -52,7 +52,7 @@ The safety and efficacy of abiraterone acetate have not been established in fema
 Based on animal reproductive studies and mechanism of action, abiraterone acetate can cause fetal harm and loss of pregnancy when administered to a pregnant female.
 In animal reproduction studies, oral administration of abiraterone acetate to pregnant rats during organogenesis caused adverse developmental effects at maternal exposures approximately ≥ 0.03 times the human exposure (AUC) at the recommended dose.
 Advise males with female partners of reproductive potential to use effective contraception during treatment with abiraterone acetate and for 3 weeks after the last dose of abiraterone acetate [see Use in Specific Populations (8.1, 8.3)].
-Abiraterone acetate should not be handled by females who are or may become pregnant [see How Supplied/Storage and Handling (16)].
+Abiraterone acetate should not be handled by females who are or may become pregnant [see How Supplied/Storage and Handling (16)]
 
 ## 5.6 Hypoglycemia
 

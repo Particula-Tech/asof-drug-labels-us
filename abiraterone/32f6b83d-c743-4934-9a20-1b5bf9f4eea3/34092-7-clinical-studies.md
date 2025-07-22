@@ -15,6 +15,7 @@ Seventy percent of patients had previously received one cytotoxic chemotherapy r
 The protocol pre-specified interim analysis was conducted after 552 deaths and showed a statistically significant improvement in overall survival (OS) in patients treated with abiraterone acetate with prednisone compared to patients in the placebo with prednisone arm (Table 9 and Figure 1).
 An updated survival analysis was conducted when 775 deaths (97% of the planned number of deaths for final analysis) were observed.
 Results from this analysis were consistent with those from the interim analysis (Table 7).
+
 Table 7: Overall Survival of Patients Treated with Either Abiraterone acetate or Placebo in Combination with Prednisone in COU-AA-301 (Intent-to-Treat Analysis)
 
 |  | Abiraterone acetate with Prednisone (N=797) | Placebo with Prednisone (N=398) |
@@ -29,9 +30,10 @@ Table 7: Overall Survival of Patients Treated with Either Abiraterone acetate or
 | Median survival (months) (95% CI) | 15.8 (14.8, 17.0) | 11.2 (10.4, 13.1) |
 | Hazard ratio (95% CI) 2 | 0.740 (0.638, 0.859) |  |
 
-1 p-value is derived from a log-rank test stratified by ECOG performance status score (0-1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic).
-2 Hazard Ratio is derived from a stratified proportional hazards model.
+1p-value is derived from a log-rank test stratified by ECOG performance status score (0-1 vs. 2), pain score (absent vs. present), number of prior chemotherapy regimens (1 vs. 2), and type of disease progression (PSA only vs. radiographic).
+2Hazard Ratio is derived from a stratified proportional hazards model.
 Hazard ratio <1 favors abiraterone acetate with prednisone.
+
 Figure 1: Kaplan-Meier Overall Survival Curves in COU-AA-301 (Intent-to-Treat Analysis)
 
 COU-AA-302: Patients with metastatic CRPC who had not received prior cytotoxic chemotherapy In COU-AA-302 (NCT00887198), 1088 patients were randomized 1:1 to receive either abiraterone acetate orally at a dose of 1,000 mg once daily (N=546) or Placebo once daily (N=542).
@@ -50,6 +52,7 @@ Analysis of rPFS utilized centrally-reviewed radiographic assessment of progress
 The planned final analysis for OS, conducted after 741 deaths (median follow up of 49 months) demonstrated a statistically significant OS improvement in patients treated with abiraterone acetate with prednisone compared to those treated with placebo with prednisone (Table 8 and Figure 2).
 Sixty-five percent of patients on the abiraterone acetate arm and 78% of patients on the placebo arm used subsequent therapies that may prolong OS in metastatic CRPC.
 Abiraterone acetate was used as a subsequent therapy in 13% of patients on the abiraterone acetate arm and 44% of patients on the placebo arm.
+
 Table 8: Overall Survival of Patients Treated with Either Abiraterone acetate or Placebo in Combination with Prednisone in COU-AA-302 (Intent-to-Treat Analysis)
 
 | Overall Survival | Abiraterone acetate with Prednisone (N=546) | Placebo with prednisone (N=542) |
@@ -113,8 +116,8 @@ Table 10: Overall Survival of Patients Treated with Either Abiraterone acetate i
 | Hazard ratio (95% CI) 3 | 0.66 (0.56, 0.78) |  |
 
 NE=Not estimable.
-1 This is based on the pre-specified interim analysis 2 p value is from log-rank test stratified by ECOG PS score (0/1 or 2) and visceral (absent or present).
-3 Hazard Ratio is derived from a stratified proportional hazards model.
+1This is based on the pre-specified interim analysis 2p value is from log-rank test stratified by ECOG PS score (0/1 or 2) and visceral (absent or present).
+3Hazard Ratio is derived from a stratified proportional hazards model.
 Hazard ratio <1 favors abiraterone acetate with prednisone.
 Figure 4: Kaplan-Meier Plot of Overall Survival; Intent-to-treat Population in LATITUDE Updated Analysis
 

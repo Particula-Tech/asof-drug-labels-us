@@ -19,6 +19,7 @@ There is no information available on the presence of abiraterone in human milk, 
 ## 8.3 Females and Males of Reproductive Potential
 
 Contraception Males Based on findings in animal reproduction studies and its mechanism of action, advise males with female partners of reproductive potential to use effective contraception during treatment and for 3 weeks after the final dose of abiraterone acetate [see Use in Specific Populations (8.1)].
+
 Infertility Based on animal studies, abiraterone acetate may impair reproductive function and fertility in males of reproductive potential [see Nonclinical Toxicology (13.1)].
 
 ## 8.4 Pediatric Use
@@ -39,7 +40,7 @@ In another trial, the pharmacokinetics of abiraterone were examined in subjects 
 The systemic exposure (AUC) of abiraterone increased by approximately 7-fold and the fraction of free drug increased 2-fold in subjects with severe baseline hepatic impairment compared to subjects with normal hepatic function.
 No dosage adjustment is necessary for patients with baseline mild hepatic impairment.
 In patients with baseline moderate hepatic impairment (Child-Pugh Class B), reduce the recommended dose of abiraterone acetate to 250 mg once daily.
-Do not use abiraterone acetate in patients with baseline severe hepatic impairment (Child-Pugh Class C). If elevations in ALT or AST >5X ULN or total bilirubin >3X ULN occur in patients with baseline moderate hepatic impairment, discontinue abiraterone acetate treatment [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].
+Do not use abiraterone acetate in patients with baseline severe hepatic impairment (Child-Pugh Class C). If elevations in ALT or AST >5X ULN or total bilirubin >3X ULN occur in patients with baseline moderate hepatic impairment, discontinue abiraterone acetate treatment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 For patients who develop hepatotoxicity during treatment, interruption of treatment and dosage adjustment may be required [see Dosage and Administration (2.4), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Patients with Renal Impairment

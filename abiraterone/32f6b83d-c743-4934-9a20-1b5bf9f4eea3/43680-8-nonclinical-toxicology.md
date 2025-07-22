@@ -8,7 +8,7 @@ This finding is considered to be related to the pharmacological activity of abir
 Rats are regarded as more sensitive than humans to developing interstitial cell tumors in the testes.
 Abiraterone acetate was not carcinogenic in female rats at exposure levels up to 0.8 times the human clinical exposure based on AUC.
 Abiraterone acetate was not carcinogenic in a 6-month study in the transgenic (Tg. rasH2) mouse.
-Abiraterone acetate and abiraterone was not mutagenic in an in vitro microbial mutagenesis (Ames) assay or clastogenic in an in vitro cytogenetic assay using primary human lymphocytes or an in vivo rat micronucleus assay.
+Abiraterone acetate and abiraterone was not mutagenic in an in vitromicrobial mutagenesis (Ames) assay or clastogenic in an in vitrocytogenetic assay using primary human lymphocytes or an in vivorat micronucleus assay.
 In repeat-dose toxicity studies in male rats (13- and 26-weeks) and monkeys (39-weeks), atrophy, aspermia/hypospermia, and hyperplasia in the reproductive system were observed at ≥50 mg/kg/day in rats and ≥250 mg/kg/day in monkeys and were consistent with the antiandrogenic pharmacological activity of abiraterone.
 These effects were observed in rats at systemic exposures similar to humans and in monkeys at exposures approximately 0.6 times the AUC in humans.
 

@@ -1,17 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following are discussed in more detail in other sections of the labeling: • Hypokalemia, Fluid Retention and Cardiovascular Adverse Reactions due to Mineralocorticoid Excess [see Warnings and Precautions (5.1)]. • Adrenocortical Insufficiency [see Warnings and Precautions (5.2)]. • Hepatotoxicity [see Warnings and Precautions (5.3)]. • Increased Fractures and Mortality in Combination with Radium Ra 223 Dichloride [see Warnings and Precautions (5.4)].
-
-## 6.2 Postmarketing Experience
-
-The following additional adverse reactions have been identified during post approval use of abiraterone acetate with prednisone.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Respiratory, Thoracic and Mediastinal Disorders: non-infectious pneumonitis.
-Musculoskeletal and Connective Tissue Disorders: myopathy, including rhabdomyolysis.
-Hepatobiliary Disorders: fulminant hepatitis, including acute hepatic failure and death.
-Cardiac Disorders: QT prolongation and Torsades de Pointes (observed in patients who developed hypokalemia or had underlying cardiovascular conditions).
-
-Immune System Disorders – Hypersensitivity: anaphylactic reactions (severe allergic reactions that include, but are not limited to difficulty swallowing or breathing, swollen face, lips, tongue or throat, or an itchy rash (urticaria)).
+The following are discussed in more detail in other sections of the labeling: • Hypokalemia, Fluid Retention and Cardiovascular Adverse Reactions due to Mineralocorticoid Excess [see Warnings and Precautions (5.1)] • Adrenocortical Insufficiency [see Warnings and Precautions (5.2)]. • Hepatotoxicity [see Warnings and Precautions (5.3)]. • Increased Fractures and Mortality in Combination with Radium Ra 223 Dichloride [see Warnings and Precautions (5.4)].
 
 ## 6.1 Clinical Trial Experience
 
@@ -41,9 +30,9 @@ The median duration of treatment with abiraterone acetate with prednisone was 8 
 
 Table 1: Adverse Reactions due to Abiraterone acetate in COU-AA-301
 
-| System/Organ Class Adverse reaction | Abiraterone acetate with Prednisone (N=791) |  | Placebo with Prednisone (N=394) |  |  |
+| System/Organ Class Adverse reaction | Abiraterone acetate with Prednisone(N=791) |  | Placebo with Prednisone (N=394) |  |  |
 | --- | --- | --- | --- | --- | --- |
-| All Grades 1 % | Grade 3-4 % | All Grades % |  | Grade 3-4 % |  |
+| All Grades 1% | Grade 3-4% | All Grades% |  | Grade 3-4% |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |  |  |
 | Joint swelling/discomfort 2 | 30 | 4.2 | 23 | 4.1 |  |
 | Muscle discomfort 3 | 26 | 3.0 | 23 | 2.3 |  |
@@ -75,7 +64,8 @@ Table 1: Adverse Reactions due to Abiraterone acetate in COU-AA-301
 3 Includes terms Muscle spasms, Musculoskeletal pain, Myalgia, Musculoskeletal discomfort, and Musculoskeletal stiffness.
 4 Includes terms Edema, Edema peripheral, Pitting edema, and Generalized edema.
 5 Includes all fractures with the exception of pathological fracture.
-6 Includes terms Arrhythmia, Tachycardia, Atrial fibrillation, Supraventricular tachycardia, Atrial tachycardia, Ventricular tachycardia, Atrial flutter, Bradycardia, Atrioventricular block complete, Conduction disorder, and Bradyarrhythmia.
+6 Includes terms Arrhythmia, Tachycardia, Atrial fibrillation, Supraventricular tachycardia, Atrial tachycardia,Ventricular tachycardia, Atrial flutter, Bradycardia, Atrioventricular block complete, Conduction disorder, and Bradyarrhythmia.
+
 7 Includes terms Angina pectoris, Chest pain, and Angina unstable.
 Myocardial infarction or ischemia occurred more commonly in the placebo arm than in the abiraterone acetate arm (1.3% vs. 1.1% respectively).
 8 Includes terms Cardiac failure, Cardiac failure congestive, Left ventricular dysfunction, Cardiogenic shock, Cardiomegaly, Cardiomyopathy, and Ejection fraction decreased.
@@ -86,7 +76,7 @@ Table 2: Laboratory Abnormalities of Interest in COU-AA-301
 
 | Laboratory Abnormality | Abiraterone acetate with Prednisone (N=791) |  | Placebo with Prednisone (N=394) |  |
 | --- | --- | --- | --- | --- |
-| All Grades (%) | Grade 3- 4 (%) | �All Grades (%) | Grade 3- 4 (%) |  |
+| All Grades (%) | Grade 3- 4 (%) | All Grades (%) | Grade 3- 4 (%) |  |
 | Hypertriglyceridemia | 63 | 0.4 | 53 | 0 |
 | High AST | 31 | 2.1 | 36 | 1.5 |
 | Hypokalemia | 28 | 5.3 | 20 | 1.0 |
@@ -160,6 +150,7 @@ Patients were ineligible if AST and/or ALT ≥2.5X ULN or if they had liver meta
 All the patients received GnRH analogs or had prior bilateral orchiectomy during the trial.
 The median duration of treatment with abiraterone acetate and prednisone was 24 months.
 Table 5 shows adverse reactions on the abiraterone acetate arm that occurred in ≥5% of patients with a ≥2% absolute increase in frequency compared to those on the placebos arm.
+
 Table 5: Adverse Reactions in ≥5% of Patients on the Abiraterone acetate Arm in LATITUDE 1
 
 | System/Organ Class Adverse reaction | Abiraterone acetate with Prednisone (N=597) |  |  | Placebos (N=602) |  |
@@ -181,8 +172,8 @@ Table 5: Adverse Reactions in ≥5% of Patients on the Abiraterone acetate Arm i
 | Respiratory, Thoracic and Mediastinal Disorders |  |  |  |  |  |
 | Cough 4 | 6.5 | 0.0 |  | 3.2 | 0 |
 
-1 All patients were receiving an GnRH agonist or had undergone orchiectomy.
-2 Adverse events graded according to CTCAE version 4.0 3 Reported as an adverse event or reaction 4 Including cough, productive cough, upper airway cough syndrome
+1All patients were receiving an GnRH agonist or had undergone orchiectomy.
+2Adverse events graded according to CTCAE version 4.0 3Reported as an adverse event or reaction 4Including cough, productive cough, upper airway cough syndrome
 
 Table 6: Laboratory Abnormalities in >15% of Patients in the Abiraterone acetate Arm of LATITUDE
 
@@ -204,3 +195,14 @@ In the same combined data, the majority of arrhythmias were grade 1 or 2.
 There was one death associated with arrhythmia and three patients with sudden death in the abiraterone acetate arms and five deaths in the placebo arms.
 There were 7 (0.3%) deaths due to cardiorespiratory arrest in the abiraterone acetate arms and 2 (0.1%) deaths in the placebo arms.
 Myocardial ischemia or myocardial infarction led to death in 3 patients in the placebo arms and 3 deaths in the abiraterone acetate arms.
+
+## 6.2 Postmarketing Experience
+
+The following additional adverse reactions have been identified during post approval use of abiraterone acetate with prednisone.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Respiratory, Thoracic and Mediastinal Disorders:non-infectious pneumonitis.
+Musculoskeletal and Connective Tissue Disorders:myopathy, including rhabdomyolysis.
+Hepatobiliary Disorders:fulminant hepatitis, including acute hepatic failure and death.
+Cardiac Disorders:QT prolongation and Torsades de Pointes (observed in patients who developed hypokalemia or had underlying cardiovascular conditions).
+
+Immune System Disorders – Hypersensitivity:anaphylactic reactions (severe allergic reactions that include, but are not limited to difficulty swallowing or breathing, swollen face, lips, tongue or throat, or an itchy rash (urticaria)).
