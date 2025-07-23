@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA219920"
+  ],
+  "inn": "gemcitabine",
+  "labeler": "Avyxa Pharma, LLC",
+  "package_ndcs": [
+    "83831-122-01",
+    "83831-123-01",
+    "83831-124-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "gemcitabine",
+      "name": "AVGEMSI"
+    }
+  ],
+  "setid": "e11eeff7-bcaf-4bf1-8da8-88138e01af84",
+  "source": "dailymed"
+}
