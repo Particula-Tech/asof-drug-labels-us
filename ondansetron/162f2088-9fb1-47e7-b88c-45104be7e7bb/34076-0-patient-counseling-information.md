@@ -12,10 +12,13 @@ Instruct patients to tell their healthcare provider right away if they perceive 
 
 Drug Interactions
 
-- Instruct the patient to report the use of all medications, especially apomorphine, to their healthcare provider.
-  Concomitant use of apomorphine and ondansetron tablets may cause a significant drop in blood pressure and loss of consciousness.
-- Advise patients of the possibility of serotonin syndrome with concomitant use of ondansetron tablets and another serotonergic agent, such as medications to treat depression and migraines.
-  Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms with or without gastrointestinal symptoms [see Warnings and Precautions (5.3)].
+1.
+Instruct the patient to report the use of all medications, especially apomorphine, to their healthcare provider.
+Concomitant use of apomorphine and ondansetron tablets may cause a significant drop in blood pressure and loss of consciousness.
+
+2.
+Advise patients of the possibility of serotonin syndrome with concomitant use of ondansetron tablets and another serotonergic agent, such as medications to treat depression and migraines.
+Advise patients to seek immediate medical attention if the following symptoms occur: changes in mental status, autonomic instability, neuromuscular symptoms with or without gastrointestinal symptoms [see Warnings and Precautions (5.3)].
 
 Myocardial Ischemia
 
@@ -35,4 +38,4 @@ Dr. Reddy’s Laboratories Limited
 
 Bachupally - 500 090 INDIA
 
-Revised: 1121
+Revised: 06/2025

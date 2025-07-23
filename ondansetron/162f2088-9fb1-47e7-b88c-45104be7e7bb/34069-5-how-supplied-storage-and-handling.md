@@ -45,5 +45,5 @@ Unit Dose Packages of 100 (10 x 10) NDC 55111-156-78
 Unit Dose Packages of 1 (1 x 1) NDC 55111-156-11
 
 Store at 20°-25°C (68°-77°F) (See USP Controlled Room Temperature).
-Dispense in tight container as defined in the USP.
-Store blisters in cartons.
+Protect from light.
+Dispense in tight, light-resistant container as defined in the USP.

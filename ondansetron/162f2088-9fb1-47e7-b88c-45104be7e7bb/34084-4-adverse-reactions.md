@@ -21,7 +21,7 @@ The most common adverse reactions reported in greater than or equal to 4% of 300
 
 The most common adverse reactions reported in 4 trials in adults for the prevention of nausea and vomiting associated with moderately emetogenic chemotherapy (primarily cyclophosphamide-based regimens) are shown in Table 3.
 
-Table 3: Most Common Adverse Reactions in Adultsa for the Prevention of Nausea and Vomiting Associated With Moderately Emetogenic Chemotherapy [Primarily Cyclophosphamide-based Regimens]
+Table 3: Most Common Adverse Reactions in Adults1 for the Prevention of Nausea and Vomiting Associated With Moderately Emetogenic Chemotherapy [Primarily Cyclophosphamide-based Regimens]
 
 | Adverse Reaction | Ondansetron 8 mg Twice Daily (n = 242) | Placebo (n = 262) |
 | --- | --- | --- |
@@ -30,7 +30,7 @@ Table 3: Most Common Adverse Reactions in Adultsa for the Prevention of Nausea a
 | Constipation | 22 (9%) | 1 (<1%) |
 | Diarrhea | 15 (6%) | 10 (4%) |
 
-a Reported in greater than or equal to 5% of patients treated with ondansetron and at a rate that exceeded placebo.
+1 Reported in greater than or equal to 5% of patients treated with ondansetron and at a rate that exceeded placebo.
 
 Less Common Adverse Reactions
 
@@ -55,7 +55,7 @@ The most common adverse reactions (greater than or equal to 2%) reported in pati
 Prevention of Postoperative Nausea and/or Vomiting The most common adverse reactions reported in adults in trial(s), of prevention of postoperative nausea and vomiting are shown in Table 4.
 In these trial(s) patients were receiving multiple concomitant perioperative and postoperative medications in both treatment groups.
 
-Table 4: Most Common Adverse Reactions in Adultsa for the Prevention of Postoperative Nausea and Vomiting
+Table 4: Most Common Adverse Reactions in Adults1 for the Prevention of Postoperative Nausea and Vomiting
 
 | Adverse Reaction | Ondansetron 16 mg as a Single Dose (n = 550) | Placebo (n = 531) |
 | --- | --- | --- |
@@ -68,7 +68,7 @@ Table 4: Most Common Adverse Reactions in Adultsa for the Prevention of Postoper
 | Urinary retention | 28 (5%) | 18 (3%) |
 | Pruritus | 27 (5%) | 20 (4%) |
 
-a Reported in greater than or equal to 5% of patients treated with ondansetron and at a rate that exceeded placebo.
+1 Reported in greater than or equal to 5% of patients treated with ondansetron and at a rate that exceeded placebo.
 
 ## 6.2 Postmarketing Experience
 
