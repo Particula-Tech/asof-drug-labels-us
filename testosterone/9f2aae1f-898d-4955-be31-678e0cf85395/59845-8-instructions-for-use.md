@@ -40,6 +40,6 @@ How should I store Testim?
 
 Keep TESTIM and all medicines out of the reach of children.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Revised: 08/2021

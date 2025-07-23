@@ -14,7 +14,7 @@ If the serum testosterone concentration is below the normal range (300 ng/dL to 
 
 The maximum recommended dose of TESTIM is 100 mg once daily.
 
-The application site and dose of TESTIM are not interchangeable with other topical testosterone products.
+The application site and dose of TESTIM are not substitutable with other topical testosterone products.
 
 ## 2.2 Administration Instructions
 
@@ -23,10 +23,10 @@ Do not apply TESTIM to the genitals or to the abdomen.
 
 Application sites should be allowed to dry for a few minutes prior to dressing.
 Hands should be washed thoroughly with soap and water after TESTIM has been applied.
-Avoid fire, flame or smoking during the application of TESTIM until the TESTIM has dried [see Warnings and Precautions (5.2, 5.16)].
+Avoid fire, flame or smoking during the application of TESTIM until the TESTIM has dried [see Warnings and Precautions (5.1, 5.16)].
 
 In order to prevent transfer to another person, wear clothing to cover the application sites.
-If direct skin-to-skin contact with another person is anticipated, the application sites must be washed thoroughly with soap and water [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.3)].
+If direct skin-to-skin contact with another person is anticipated, the application sites must be washed thoroughly with soap and water [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3)].
 
 The patient should avoid swimming or showering or washing the administration site for a minimum of 2 hours after application [see Clinical Pharmacology (12.3)].
 

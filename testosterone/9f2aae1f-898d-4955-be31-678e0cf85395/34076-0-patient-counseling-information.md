@@ -1,12 +1,12 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Advise patients of the following:
 
 ## 17.1 Men with Known or Suspected Carcinoma of the Breast or Prostate
 
-Men with known or suspected prostate or breast cancer should not use TESTIM [see Contraindications (4) and Warnings and Precautions (5.1)].
+Men with known or suspected prostate or breast cancer should not use TESTIM [see Contraindications (4) and Warnings and Precautions (5.4)].
 
 ## 17.2 Potential for Secondary Exposure to Testosterone and Steps to Prevent Secondary Exposure
 
@@ -31,7 +31,7 @@ Strict adherence to the following precautions is advised to minimize the potenti
 
 - Wash the application site(s) thoroughly with soap and water prior to any situation where skin-to-skin contact of the application site with another person is anticipated.
 
-- In the event that unwashed or unclothed skin to which TESTIM has been applied comes in contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible [see Dosage and Administration (2.2), Warnings and Precautions (5.2), and Clinical Pharmacology (12.3)].
+- In the event that unwashed or unclothed skin to which TESTIM has been applied comes in contact with the skin of another person, the general area of contact on the other person should be washed with soap and water as soon as possible [see Dosage and Administration (2.2), Warnings and Precautions (5.1), and Clinical Pharmacology (12.3)].
 
 ## 17.3 Potential Adverse Reactions with Androgens
 
@@ -41,6 +41,8 @@ Patients should be informed that treatment with androgens may lead to adverse re
 - Breathing disturbances, including those associated with sleep or excessive daytime sleepiness
 - Too frequent or persistent erections of the penis
 - Nausea, vomiting, changes in skin color, or ankle swelling
+- Venous thromboembolism, the signs and symptoms of which may include lower limb pain, edema, or erythema; dyspnea; or chest pain.
+- Increased blood pressure that can increase cardiovascular risk over time.
 
 ## 17.4 Patients Should Be Advised of the Following Instructions for Use
 
@@ -67,6 +69,6 @@ Contract Pharmaceuticals Limited Mississauga, ON, Canada L5N 6R8
 
 US Patent Nos. 7,320,968; 7,608,605; 7,608,606; 7,608,607; 7,608,608; 7,608,609; 7,608,610; 7,935,690; 8,063,029; 8,178,518
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2025 Endo, Inc. or one of its affiliates.
 
-Revised: 07/2024
+Revised: 07/2025

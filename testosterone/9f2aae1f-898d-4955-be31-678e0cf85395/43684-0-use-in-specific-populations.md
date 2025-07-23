@@ -45,7 +45,7 @@ Improper use may result in acceleration of bone age and premature closure of epi
 
 ## 8.5 Geriatric Use
 
-There is insufficient long-term safety data in geriatric patients to assess the potentially increased risks of cardiovascular disease and prostate cancer [see Warnings and Precautions (5.1)].
+There is insufficient long-term safety data in geriatric patients to assess the potentially increased risks of cardiovascular disease and prostate cancer [see Warnings and Precautions (5.4)].
 
 ## 8.6 Renal Impairment
 

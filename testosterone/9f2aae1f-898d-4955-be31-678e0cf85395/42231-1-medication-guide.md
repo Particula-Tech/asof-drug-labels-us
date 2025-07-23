@@ -74,6 +74,7 @@ Before using Testim, tell your healthcare provider about all of your medical con
 - have breast cancer.
 - have or might have prostate cancer.
 - have urinary problems due to an enlarged prostate.
+- have high blood pressure or are being treated for high blood pressure
 - have heart problems.
 - have liver or kidney problems.
 - have problems breathing while you sleep (sleep apnea).
@@ -102,19 +103,21 @@ Testim can cause serious side effects including:
 See “What is the most important information I should know about Testim?”
 
 - If you already have enlargement of your prostate gland your signs and symptoms can get worse while using Testim.
-  This can include:
-  - increased urination at night.
-  - trouble starting your urine stream.
-  - having to pass urine many times during the day.
-  - having an urge to go to the bathroom right away.
-  - having a urine accident.
-  - being unable to pass urine or weak urine flow.
+  This can include: - increased urination at night.- trouble starting your urine stream. - having to pass urine many times during the day. - having an urge to go to the bathroom right away. - having a urine accident.
+
+- being unable to pass urine or weak urine flow.
+
 - Possible increased risk of prostate cancer.
   Your healthcare provider should check you for prostate cancer or any other prostate problems before you start and while you use Testim.
 - Blood clots in the legs or lungs.
   Signs and symptoms of a blood clot in your leg can include leg pain, swelling or redness.
   Signs and symptoms of a blood clot in your lungs can include difficulty breathing or chest pain.
-- Possible increased risk of heart attack or stroke.
+- Increased blood pressure.
+  TESTIM can increase your blood pressure, which can increase your risk of having a heart attack or stroke over time.
+  Your risk may be greater if you have already had a heart attack or stroke or if you have other risk factors for heart attack or stroke.
+  You may need to start new medicines or have medicines changed for high blood pressure while on TESTIM.
+  If your blood pressure cannot be controlled, TESTIM may need to be stopped.
+  Your healthcare provider should check your blood pressure while you use TESTIM.
 - In large doses Testim may lower your sperm count.
 - Swelling of your ankles, feet, or body, with or without heart failure.
   This may cause serious problems for people who have heart, kidney or liver disease.
@@ -167,10 +170,10 @@ Inactive ingredients: purified water, pentadecalactone, carbopol, acrylates, pro
 | --- | --- |
 | orContract Pharmaceuticals LimitedMississauga, ONCanada L5N 6R8 |  |
 
-© 2024 Endo, Inc. or one of its affiliates.
+© 2025 Endo, Inc. or one of its affiliates.
 
 For more information, go to www.TESTIM.com or call 1-800-462-3636.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 07/2024
+Revised: 07/2025
