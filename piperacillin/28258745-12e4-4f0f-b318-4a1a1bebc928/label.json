@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA065458"
+  ],
+  "inn": "piperacillin",
+  "labeler": "ONESOURCE SPECIALTY PHARMA LIMITED",
+  "package_ndcs": [
+    "83270-301-10",
+    "83270-302-10",
+    "83270-303-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "piperacillin and tazobactam",
+      "name": "piperacillin and tazobactam"
+    }
+  ],
+  "setid": "28258745-12e4-4f0f-b318-4a1a1bebc928",
+  "source": "dailymed"
+}
