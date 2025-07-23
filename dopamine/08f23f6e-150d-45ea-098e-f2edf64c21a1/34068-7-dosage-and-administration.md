@@ -36,11 +36,11 @@ Infusion rates may be calculated using the following formula:
 
 Example calculations for infusion rates are as follows:
 
-Example 1: for a 60 kg person at the recommended initial dose of 2 mcg/kg/minute using an 800 mcg/mL concentration, the infusion rate would be as follows:
+Example 1: for a 60 kg person at the recommended initial dose of 2 mcg/kg/minute using a 1600 mcg/mL concentration, the infusion rate would be as follows:
 
-| Infusion Rate (mL/hour) = | [2 (mcg/kg/minute) × 60 (kg) × 60 (minutes/hour)] | = 9 (mL/hour) |
+| Infusion Rate (mL/hour) = | [2 (mcg/kg/minute) × 60 (kg) × 60 (minutes/hour)] | = 4.5 (mL/hour) |
 | --- | --- | --- |
-|  | 800 (mcg/mL) |  |
+|  | 1600 (mcg/mL) |  |
 
 Example 2: for a 70 kg person at a dose of 5 mcg/kg/minute using a 3,200 mcg/mL concentration, the infusion rate would be as follows:
 
