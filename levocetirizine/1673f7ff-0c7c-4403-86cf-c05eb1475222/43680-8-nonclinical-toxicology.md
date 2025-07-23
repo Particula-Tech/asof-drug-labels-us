@@ -1,0 +1,14 @@
+# 13NONCLINICAL TOXICOLOGY
+
+## 13.1Carcinogenesis, Mutagenesis, Impairment of Fertility
+
+No carcinogenicity studies have been performed with levocetirizine.
+However, evaluation of cetirizine carcinogenicity studies is relevant for determination of the carcinogenic potential of levocetirizine.
+In a 2-year carcinogenicity study, in rats, cetirizine was not carcinogenic at dietary doses up to 20 mg/kg (approximately 40, 40, 25, and 10 times the MRHDs in adults, children 6 to 11 years of age, children 2-5 years, and children 6 months to 2 years of age, respectively, on a mg/m2 basis).
+In a 2-year carcinogenicity study in mice, cetirizine caused an increased incidence of benign hepatic tumors in males at a dietary dose of 16 mg/kg (approximately 15, 15, 9, and 5 times the MRHDs in adults, children 6 to 11 years of age, children 2-5 years, and children 6 months to 2 years of age, respectively, on a mg/m2 basis).
+No increased incidence of benign tumors was observed at a dietary dose of 4 mg/kg (approximately 4, 4, 2, and 1 times the MRHDs in adults, children 6 to 11 years of age, children 2-5 years, and children 6 months to 2 years of age, respectively on a mg/m2 basis).
+The clinical significance of these findings during long-term use of XYZAL is not known.
+
+Levocetirizine was not mutagenic in the Ames test, and not clastogenic in the human lymphocyte assay, the mouse lymphoma assay, and in vivo micronucleus test in mice.
+
+Fertility and reproductive performance were unaffected in male and female mice and rats that received cetirizine at oral doses up to 64 and 200 mg/kg/day, respectively (approximately 60 and 390 times the MRHD in adults on a mg/m2 basis).

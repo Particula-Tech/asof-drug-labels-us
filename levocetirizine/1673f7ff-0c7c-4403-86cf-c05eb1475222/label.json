@@ -1,0 +1,25 @@
+{
+  "application_numbers": [
+    "NDA022064"
+  ],
+  "inn": "levocetirizine",
+  "labeler": "Chattem, Inc.",
+  "package_ndcs": [
+    "41167-5803-9",
+    "41167-5804-5"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "levocetirizine dihydrochloride",
+      "name": "Xyzal"
+    },
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "levocetirizine dihydrochloride",
+      "name": "Xyzal"
+    }
+  ],
+  "setid": "1673f7ff-0c7c-4403-86cf-c05eb1475222",
+  "source": "dailymed"
+}
