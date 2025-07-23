@@ -148,7 +148,8 @@ The combined storage time (reconstituted solution in vial and diluted solution i
 ## 2.8 Compatible Intravenous Solution for Reconstitution and Dilution
 
 Daptomycin for injection is compatible with 0.9% sodium chloride injection for reconstitution.
-Reconstituted Daptomycin injection can only be diluted with 0.9% sodium chloride injection
+
+Reconstituted Daptomycin injection can only be diluted with 0.9% sodium chloride injection.
 
 ## 2.9 Incompatibilities
 
