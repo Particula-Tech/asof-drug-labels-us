@@ -103,15 +103,11 @@ Note: Do not exceed the maximum dose﻿ [see Dosage and Administration (2.2)]
 - * The recommended dose of FOCINVEZ is based on the patient’s age and weight.
   The concentration of FOCINVEZ is 3 mg/mL.
 
-- Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration whenever solution and container permit.
-  Do not use if solution is cloudy, contains precipitates, or if the red flip top cap is not intact.
-
-- Vial may be inverted for use with a medical infusion set.
-  The vial hanger can be separated from the vial label and hanged from an IV pole.
-
+- FOCINVEZ is compatible with 0.9% Sodium Chloride Injection.
+- Parenteral drug products should be inspected visually for particulate matter and discolorationpriortoadministrationwheneversolutionandcontainerpermit.Donotuseif solution is cloudy, contains precipitates, or if the red flip top cap is not intact.
 - Allow FOCINVEZ to come to room temperature before use if the injection is NOT stored at room temperature.
-
+- Use a vented infusion set when FOCINVEZ is infused from the bottle.
+- Thevialhangercanbeseparated from the vial label.
+- Gently invert the bottle and hang the bottle using the attached hanger and start infusion.
 - Caution: Do not mix FOCINVEZ with solutions for which physical and chemical compatibility have not been established.
   FOCINVEZ is incompatible with any solutions containing divalent cations (e.g., Ca2+, Mg2+), including Lactated Ringer’s Solution and Hartmann's Solution.
-
-FOCINVEZ is compatible with 0.9% Sodium Chloride Injection.
