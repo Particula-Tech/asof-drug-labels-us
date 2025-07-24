@@ -1,9 +1,7 @@
-Manufactured By Padagis
+Manufactured by Padagis®
 
 Yeruham, Israel
 
-Distributed By Padagis Allegan, MI 49010
-
 www.padagis.com
 
-Rev 09-22
+Rev 05-25 4T828 RC F7

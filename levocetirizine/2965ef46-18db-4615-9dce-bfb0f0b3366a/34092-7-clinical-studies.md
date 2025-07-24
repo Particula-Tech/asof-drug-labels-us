@@ -21,7 +21,7 @@ Table 4: Mean Reflective Total Symptom Score* in Allergic Rhinitis Dose-Ranging 
 
 | Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Estimate | 95%Cl | p-value |  |  |  |  |
+| Estimate | 95%CI | p-value |  |  |  |  |
 | Perennial Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
 | Levocetirizine dihydrochloride 2.5 mg | 133 | 7.14 | 4.12 | 1.17 | (0.71, 1.63) | <0.001 |
 | Levocetirizine dihydrochloride 5 mg | 127 | 7.18 | 4.07 | 1.22 | (0.76, 1.69) | <0.001 |
@@ -39,7 +39,7 @@ Table 5: Mean Reflective Total Symptom Score* in Allergic Rhinitis Trials
 
 | Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Estimate | 95%Cl | p-value |  |  |  |  |
+| Estimate | 95%CI | p-value |  |  |  |  |
 | Perennial Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
 | Levocetirizine dihydrochloride 5 mg | 150 | 7.69 | 3.93 | 1.17 | (0.70, 1.64) | <0.001 |
 | Placebo | 142 | 7.44 | 5.10 |  |  |  |
@@ -82,7 +82,7 @@ Table 6: Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria
 
 | Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Estimate | 95%Cl | p-value |  |  |  |  |
+| Estimate | 95%CI | p-value |  |  |  |  |
 | Dose-Ranging Trial – Reflective pruritus severity score |  |  |  |  |  |  |
 | Levocetirizine dihydrochloride 2.5 mg | 69 | 2.08 | 1.02 | 0.82 | (0.58, 1.06) | <0.001 |
 | Levocetirizine dihydrochloride 5 mg | 62 | 2.07 | 0.92 | 0.91 | (0.66, 1.16) | <0.001 |
