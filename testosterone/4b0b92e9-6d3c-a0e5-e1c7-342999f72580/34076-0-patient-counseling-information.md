@@ -2,21 +2,27 @@
 
 Advise the patients to read the FDA-approved patient labeling (Medication Guide).
 
-Increase in Blood Pressure and Cardiovascular Risk Advise patients that TLANDO can increase blood pressure (BP) which can result in an increase in the risk of major adverse cardiovascular events (MACE), including myocardial infarction, stroke, and cardiovascular death.
-This risk is greater in patients with established cardiovascular disease or risk factors for cardiovascular disease.
-Advise patients about the importance of monitoring BP periodically while on TLANDO.
-Advise patients to report to their healthcare provider the use of concomitant prescription or nonprescription medication, including cough and cold medications which can also increase BP [see Warnings and Precautions (5.1 and 5.3)].
-
 Polycythemia
 
 Advise patients that TLANDO can cause an increase in hematocrit levels that may increase the risk of thromboembolic events.
-Advise patients about the importance of completing laboratory testing as instructed by their health care provider while on TLANDO.
-[see Warnings and Precautions (5.2)].
+Advise patients about the importance of completing laboratory testing as instructed by their health care provider while on TLANDO [see Warnings and Precautions (5.1)].
+
+Venous Thromboembolism
+
+Advise patients that TLANDO can cause venous thromboembolism.
+Advise patients of the signs and symptoms of venous thromboembolism, which may include the following: lower limb pain, edema, or erythema; and dyspnea or chest pain.
+Advise patients to promptly report the signs and symptoms of venous thromboembolism, discontinue use of TLANDO and seek urgent medical care [see Warnings and Precautions (5.2)].
+
+Blood Pressure Increases
+
+Advise patients that TLANDO can increase blood pressure (BP) which can increase cardiovascular risk over time.
+Advise patients about the importance of monitoring BP periodically while on TLANDO.
+If BP increases while on TLANDO, antihypertensive medications may need to be started, added, or adjusted to control BP, or TLANDO may need to be discontinued [see Warnings and Precautions (5.4)].
 
 Worsening of Benign Prostatic Hyperplasia (BPH) and Potential Risk of Prostate Cancer
 
 Advise patients that TLANDO can cause increased symptoms of BPH and can increase the risk for prostate cancer.
-Advise patients to contact their health care provider if they have any prostate-related symptoms [see Warnings and Precautions (5.4)].
+Advise patients to contact their health care provider if they have any prostate-related symptoms [see Warnings and Precautions (5.3)].
 
 Edema
 

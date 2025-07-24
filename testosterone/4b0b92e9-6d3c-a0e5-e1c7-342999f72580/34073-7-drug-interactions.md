@@ -17,4 +17,4 @@ The concurrent use of testosterone with corticosteroids may result in increased 
 ## 7.4 Drugs that May Also Increase Blood Pressure
 
 Some prescription drugs and nonprescription analgesic and cold medications can increase blood pressure.
-Concomitant administration of these medications with TLANDO may lead to additional increases in blood pressure [see Warnings and Precautions (5.1)].
+Concomitant administration of these medications with TLANDO may lead to additional increases in blood pressure [see Warnings and Precautions (5.4)].

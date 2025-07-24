@@ -2,19 +2,18 @@
 
 The following clinically significant adverse reactions are discussed elsewhere in the labeling:
 
-- Increase in Blood Pressure [see Warnings and Precautions (5.1)]
-- Polycythemia [see Warnings and Precautions (5.2)]
-- Cardiovascular Risk [see Warnings and Precautions (5.3)]
-- Worsening of Benign Prostatic Hyperplasia (BPH) and Potential Risk of Prostate Cancer [see Warnings and Precautions ((5.4)]
-- Venous Thromboembolism [see Warnings and Precautions (5.5)]
-- Hepatic Adverse Effects [see Warnings and Precautions (5.9)]
-- Edema [see Warnings and Precautions (5.10)]
-- Sleep Apnea [see Warnings and Precautions (5.11)]
-- Gynecomastia [see Warnings and Precautions (5.12)]
-- Lipid Changes [see Warnings and Precautions (5.13)]
-- Hypercalcemia [see Warnings and Precautions (5.14)]
-- Decreased Thyroxine-binding Globulin [see Warnings and Precautions (5.15)]
-- Increases in Prolactin [see Warnings and Precautions (5.16)]
+- Polycythemia [see Warnings and Precautions (5.1)]
+- Venous Thromboembolism [see Warnings and Precautions (5.2)]
+- Worsening of Benign Prostatic Hyperplasia (BPH) and Potential Risk of Prostate Cancer [see Warnings and Precautions (5.3)]
+- Blood Pressure Increases [see Warnings and Precautions (5.4)]
+- Hepatic Adverse Effects [see Warnings and Precautions (5.8)]
+- Edema [see Warnings and Precautions (5.9)]
+- Sleep Apnea [see Warnings and Precautions (5.10)]
+- Gynecomastia [see Warnings and Precautions (5.11)]
+- Lipid Changes [see Warnings and Precautions (5.12)]
+- Hypercalcemia [see Warnings and Precautions (5.13)]
+- Decreased Thyroxine-binding Globulin [see Warnings and Precautions (5.14)]
+- Increases in Prolactin [see Warnings and Precautions (5.15)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -64,9 +63,36 @@ In Study 18-001 24-hour ambulatory blood pressure monitoring (ABPM) was conducte
 ABPM was conducted at 2 distinct 24-hour time periods: at baseline and following approximately 16 weeks of treatment with TLANDO.
 A total of 123 patients had acceptable 24-hour ABPM recordings at both time periods.
 In that group, the mean change in systolic BP from Baseline to End of Study was + 4.3 mmHg (95% CI 2.1, 6.5) and the mean change in diastolic BP was 1.4 mmHg (95% CI 0.5, 2.3).
+In patients with a history of hypertension at baseline, the mean ABPM systolic and diastolic blood pressure increased by 4.8 mmHg (95% CI 1.0, 8.5) and 1.6 mmHg (95% CI 0.1, 3.0), respectively (n=60).
+In patients with no history of hypertension at baseline systolic and diastolic blood pressure increased by 3.9 mmHg (95% CI 0.9, 6.8) and 1.2 mmHg (95% CI -0.1, 2.5), respectively (n =63).
 
-The ABPM systolic and diastolic blood pressure increased in patients with a history of hypertension at baseline [4.8 mmHg (95% CI 1.0, 8.5) and 1.6 mmHg (95% CI 0.1, 3.0), respectively (n=60)].
-In patients with no history of hypertension at baseline systolic and diastolic blood pressure increased [3.9 mmHg (95% CI 0.9, 6.8) and 1.2 mmHg (95% CI -0.1, 2.5), respectively (n =63)].
+2 patients (1.4 %) in the TLANDO safety set (n=138) either started new antihypertensive medications (n=2) or had their antihypertensive medication regimen adjusted (n=0) during Study 18-001.
+
+Of the 138 patients in Study 18-001 who used TLANDO, 7 patients (5.1%) were reported to have either an adverse reaction of hypertension (7 patients, 5.1%) or increased blood pressure (0 patients, 0.0%).
+
+Cardiovascular Outcomes
+
+TRAVERSE was a randomized, double-blind, cardiovascular outcomes study to assess the cardiovascular (CV) safety of topical testosterone gel compared to placebo in 5198 hypogonadal men aged 45 to 80 years with a history of CV disease or with multiple CV risk factors.
+The primary outcome was the incidence of the composite endpoint of major adverse cardiovascular events (MACE), consisting of CV death, non-fatal myocardial infarction (MI), and non-fatal stroke.
+
+The mean duration of therapy was approximately 22 months.
+The mean duration of follow-up was 33 months.
+Approximately 61% of all patients discontinued topical testosterone gel or placebo therapy.
+
+The mean patient age (±SD) was 63.3 (7.9) years, with 2452 patients aged 65 years or more (47%), 2847 (about 55%) patients had pre-existing cardiovascular disease, whereas 2357 patients (about 45%) had an elevated cardiovascular risk at baseline, and mean BMI was 35 kg/m2.
+Approximately 80% of patients were White, 17% were Black, and 3% were of other races or ethnic groups.
+Approximately 69%, 84%, and 93% had diabetes mellitus, hyperlipidemia, and hypertension, respectively.
+
+The mean serum testosterone concentration at baseline in patients receiving topical testosterone gel was 220.4 ng/dL (n=2596).
+The mean serum testosterone concentrations at 12 months, 24 months, 36 months, and 48 months in patients receiving topical testosterone gel were 440.5 ng/dL (n=1683), 420.9 ng/dl (n=1125), 428.7 ng/dL (n=731), and 365.2 ng/dL (n=220), respectively.
+
+For patients treated with topical testosterone gel, the incidence of MACE was 7.0% (n=182 events) and for those receiving placebo, the incidence of MACE was 7.3% (n=190 events).
+The study demonstrated non-inferiority of topical testosterone gel versus placebo because the upper bound of 95% CI was less than the pre-specified risk margin, of 1.5 for MACE (Hazard Ratio 0.96 [95% CI: 0.78, 1.17]).
+
+Additional Adverse Reactions Reported in TRAVERSE
+
+Additional adverse reactions reported in TRAVERSE at an incidence rate >2% in either treatment group and greater in topical testosterone gel versus placebo included: nonfatal arrythmias warranting intervention (5.2% vs 3.3%), atrial fibrillation (3.5% vs 2.4%), acute kidney injury (2.3% vs 1.5%) and bone fracture (3.5% vs 2.5%).
+For the adverse reaction of bone fracture, each event was adjudicated by clinical review.
 
 Increases in Hematocrit
 

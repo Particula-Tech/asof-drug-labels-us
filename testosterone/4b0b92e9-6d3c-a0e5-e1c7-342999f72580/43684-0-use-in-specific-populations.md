@@ -51,4 +51,4 @@ There have not been sufficient numbers of geriatric patients in controlled clini
 Of the 95 patients enrolled in Study 16-002, the 24-day major safety and effectiveness study utilizing TLANDO, 16 (16.8%) were over 65 years of age.
 Additionally, there is insufficient long-term safety data in geriatric patients utilizing TLANDO to assess the potentially increased risk of cardiovascular disease and prostate cancer.
 
-Geriatric patients treated with androgens may also be at risk for worsening of signs and symptoms of BPH and hypertension [see Warnings and Precautions (5.1 and 5.4)].
+Geriatric patients treated with androgens may also be at risk for worsening of signs and symptoms of BPH and hypertension [see Warnings and Precautions (5.3 and 5.4)].

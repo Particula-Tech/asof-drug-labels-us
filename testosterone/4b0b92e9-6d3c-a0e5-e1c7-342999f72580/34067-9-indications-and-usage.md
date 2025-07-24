@@ -9,4 +9,5 @@ TLANDO is indicated for testosterone replacement therapy in adult males for cond
 
 Limitations of Use
 
-Safety and efficacy of TLANDO in males less than 18 years old have not been established [see Use in Specific Populations (8.4)].
+- Safety and efficacy of TLANDO in males less than 18 years old have not been established [see Use in Specific Populations (8.4)].
+- Safety and efficacy of TLANDO in men with “age-related hypogonadism” (also referred to as “late-onset hypogonadism”) have not been established [see Use in Specific Populations (8.5)].
