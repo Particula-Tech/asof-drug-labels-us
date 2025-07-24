@@ -74,6 +74,6 @@ Advise males of childbearing potential not to donate semen during therapy and fo
 Advise patients that mycophenolate mofetil can affect the ability to drive or operate machines.
 Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil [see Warnings and Precautions (5.14)].
 
-Manufactured in India by Sandoz Private Ltd.
+Manufactured by Sandoz Private Limited, India for
 
-for Sandoz Inc., Princeton, NJ 08540
+Sandoz Inc., Princeton, NJ 08540
