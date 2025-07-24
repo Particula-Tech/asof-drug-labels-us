@@ -9,7 +9,7 @@ A decrease in the dose of phenytoin may be required.
 ## 7.2 Effect of Other Drugs on Oxcarbazepine Oral Suspension
 
 Strong inducers of cytochrome P450 enzymes and/or inducers of UGT (e.g., rifampin, carbamazepine, phenytoin and phenobarbital) have been shown to decrease the plasma/serum levels of MHD, the active metabolite of oxcarbazepine oral suspension (25% to 49%) [see Clinical Pharmacology (12.3)].
-If oxcarbazepine oral suspension and strong CYP3A4 inducers or UGT inducers are administered concurrently, it is recommended that the plasma levels of MHD be monitored during the period of oxcarbazepine oral suspension titration.
+If oxcarbazepine oral suspension and strong CYP3A4 inducers, or UGT inducers are administered concurrently, it is recommended that the plasma levels of MHD be monitored during the period of oxcarbazepine oral suspension titration.
 Dose adjustment of oxcarbazepine oral suspension may be required after initiation, dosage modification, or discontinuation of such inducers.
 
 ## 7.3 Hormonal Contraceptives

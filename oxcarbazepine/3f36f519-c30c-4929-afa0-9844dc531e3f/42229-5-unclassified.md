@@ -1,4 +1,4 @@
-# INSTRUCTIONS FOR USE
+# Instructions for Use
 
 Oxcarbazepine Oral Suspension, USP 300 mg/5 mL Each 5 mL contains 300 mg oxcarbazepine, USP
 
@@ -21,22 +21,24 @@ Preparing the Bottle
 1.
 Shake the bottle of medicine for at least 10 seconds.
 2.
-Remove the child-resistant cap by pushing it firmly down and turning it counter clockwise – to the left (as shown on the top of the cap).
-Note: Save the cap so you can close the bottle after each use 3.
-Hold the open bottle upright on a table and push the plastic adapter firmly into the neck of the bottle as far as you can
+Remove the child-resistant cap by pushing it firmly down and turning it counterclockwise – to the left (as shown on the top of the cap).
+Note: Save the cap so you can close the bottle after each use.
+3.
+Hold the open bottle upright on a table and push the plastic adapter firmly into the neck of the bottle as far as you can.
 
 4.
 Replace the cap to be sure that the adapter has been fully forced into the neck of the bottle.
 Note: You may not be able to push the adapter fully down, but it will be forced into the bottle when you screw the cap back on.
 Now the bottle is ready to use with the syringe.
 The adapter must always stay in the bottle.
-The child resistant cap should seal the bottle in between use.
+The child-resistant cap should seal the bottle in between use.
 
 Taking the Medicine
 
 1.
 Shake the bottle well.
-Prepare the dose right away 2.
+Prepare the dose right away.
+2.
 Push and turn the child-resistant cap to open the bottle.
 Note: Always replace the cap after use.
 
@@ -49,11 +51,12 @@ Keep the bottle upright and push the syringe firmly into the plastic adapter.
 Hold the syringe in place and carefully turn the bottle upside down.
 6.
 Slowly pull the plunger out so that the syringe fills with some medicine.
-Push the plunger back in just far enough to completely push out any large air bubbles that may be trapped in the syringe
+Push the plunger back in just far enough to completely push out any large air bubbles that may be trapped in the syringe.
 
 7.
 Slowly pull the plunger out until the top edge of the plunger is exactly level with the marker on the syringe barrel for the prescribed dose.
-Note: If the prescribed dose is more than 10 mL, you will need to refill the syringe to make up the full dose 8.
+Note: If the prescribed dose is more than 10 mL, you will need to refill the syringe to make up the full dose.
+8.
 Carefully turn the bottle upright.
 Take out the syringe by gently twisting it out of the plastic adapter.
 The plastic adapter should stay in the bottle.
@@ -65,10 +68,7 @@ Push the plunger slowly to let the patient swallow the medicine.
 10.
 Replace the child-resistant cap after use.
 Cleaning: After use, rinse the syringe with warm water and allow it to dry thoroughly.
-Manufactured by: Alkem Laboratories Ltd., INDIA.
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
 
-Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
-
-Revised: 11/2021
-
-PT3400
+Revised: 01/2025

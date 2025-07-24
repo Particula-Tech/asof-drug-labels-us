@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Suspension 300 mg/5 mL (60 mg/mL) Oral Suspension: Off white to brown suspension.
+Suspension 300 mg/5 mL (60 mg/mL) Oral Suspension: off-white to brown suspension.
 Available in amber glass bottles containing 250 mL of oral suspension.
 Supplied with a 10 mL dosing syringe and press-in bottle adapter.
 

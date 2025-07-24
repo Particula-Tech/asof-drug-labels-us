@@ -2,21 +2,34 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Exposure Registry There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, such as oxcarbazepine oral suspension, during pregnancy.
+Pregnancy Exposure Registry
+
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to AEDs, such as oxcarbazepine oral suspension, during pregnancy.
 Encourage women who are taking oxcarbazepine oral suspension during pregnancy to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling 1-888-233-2334 or visiting http://www.aedpregnancyregistry.org/.
 
-Risk Summary There are no adequate data on the developmental risks associated with the use of oxcarbazepine oral suspension in pregnant women; however, oxcarbazepine oral suspension is closely related structurally to carbamazepine, which is considered to be teratogenic in humans.
-Data on a limited number of pregnancies from pregnancy registries suggest that oxcarbazepine oral suspension monotherapy use is associated with congenital malformations (e.g., craniofacial defects such as oral clefts, and cardiac malformations such as ventricular septal defects).
+Risk Summary
+
+There are no adequate data on the developmental risks associated with the use of oxcarbazepine oral suspension in pregnant women; however, oxcarbazepine oral suspension is closely related structurally to carbamazepine, which is considered to be teratogenic in humans.
+Data on a limited number of pregnancies from pregnancy registries suggest that oxcarbazepine oral suspension monotherapy use is associated with congenital malformations (e.g., craniofacial defects, such as oral clefts, and cardiac malformations, such as ventricular septal defects).
 Increased incidences of fetal structural abnormalities and other manifestations of developmental toxicity (embryolethality, growth retardation) were observed in the offspring of animals treated with either oxcarbazepine or its active 10-hydroxy metabolite (MHD) during pregnancy at doses similar to the maximum recommended human dose (MRHD).
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
-Clinical Considerations An increase in seizure frequency may occur during pregnancy because of altered levels of the active metabolite of oxcarbazepine.
+Clinical Considerations
+
+An increase in seizure frequency may occur during pregnancy because of altered levels of the active metabolite of oxcarbazepine.
 Monitor patients carefully during pregnancy and through the postpartum period [see Warnings and Precautions (5.10)].
 
-Data Human Data Data from published registries have reported craniofacial defects such as oral clefts and cardiac malformations such as ventricular septal defects in children with prenatal oxcarbazepine exposure.
+Data
 
-Animal Data When pregnant rats were given oxcarbazepine (0, 30, 300, or 1000 mg/kg/day) orally throughout the period of organogenesis, increased incidences of fetal malformations (craniofacial, cardiovascular, and skeletal) and variations were observed at the intermediate and high doses (approximately 1.2 and 4 times, respectively, the MRHD on a mg/m2 basis).
+Human Data
+
+Data from published registries have reported craniofacial defects, such as oral clefts and cardiac malformations, such as ventricular septal defects in children with prenatal oxcarbazepine exposure.
+
+Animal Data
+
+When pregnant rats were given oxcarbazepine (0, 30, 300, or 1000 mg/kg/day) orally throughout the period of organogenesis, increased incidences of fetal malformations (craniofacial, cardiovascular, and skeletal) and variations were observed at the intermediate and high doses (approximately 1.2 and 4 times, respectively, the MRHD on a mg/m2 basis).
 Increased embryofetal death and decreased fetal body weights were seen at the high dose.
 Doses ≥300 mg/kg/day were also maternally toxic (decreased body weight gain, clinical signs), but there is no evidence to suggest that teratogenicity was secondary to the maternal effects.
 
@@ -28,14 +41,18 @@ Oral administration of MHD (0, 25, 75, or 250 mg/kg/day) to rats during gestatio
 
 ## 8.2 Lactation
 
-Risk Summary Oxcarbazepine and its active metabolite (MHD) are present in human milk after oxcarbazepine oral suspension administration.
+Risk Summary
+
+Oxcarbazepine and its active metabolite (MHD) are present in human milk after oxcarbazepine oral suspension administration.
 The effects of oxcarbazepine and its active metabolite (MHD) on the breastfed infant or on milk production are unknown.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for oxcarbazepine oral suspension and any potential adverse effects on the breastfed infant from oxcarbazepine oral suspension or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Contraception Use of oxcarbazepine oral suspension with hormonal contraceptives containing ethinylestradiol or levonorgestrel is associated with decreased plasma concentrations of these hormones and may result in a failure of the therapeutic effect of the oral contraceptive drug.
-Advise women of reproductive potential taking oxcarbazepine oral suspension who are using a contraceptive containing ethinylestradiol or levonorgestrel to use additional or alternative non-hormonal birth control [see Drug interactions (7.3) and Clinical Pharmacology (12.3)].
+Contraception
+
+Use of oxcarbazepine oral suspension with hormonal contraceptives containing ethinylestradiol or levonorgestrel is associated with decreased plasma concentrations of these hormones and may result in a failure of the therapeutic effect of the oral contraceptive drug.
+Advise women of reproductive potential taking oxcarbazepine oral suspension who are using a contraceptive containing ethinylestradiol or levonorgestrel to use additional or alternative non-hormonal birth control [see Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
 
 ## 8.4 Pediatric Use
 
@@ -52,10 +69,11 @@ Oxcarbazepine oral suspension has been given to 898 patients between the ages of
 ## 8.5 Geriatric Use
 
 There were 52 patients over age 65 in controlled clinical trials and 565 patients over the age of 65 in other trials.
-Following administration of single (300 mg) and multiple (600 mg/day) doses of oxcarbazepine oral suspension in elderly volunteers (60 to 82 years of age), the maximum plasma concentrations and AUC values of MHD were 30% to 60% higher than in younger volunteers (18 to 32 years of age).
+
+Following administration of single (300 mg) and multiple (600 mg/day) doses of oxcarbazepine oral suspension in elderly volunteers (60 to 82 years of age), the maximum plasma concentrations and area under the curve (AUC) values of MHD were 30% to 60% higher than in younger volunteers (18 to 32 years of age).
 Comparisons of creatinine clearance in young and elderly volunteers indicate that the difference was due to age-related reductions in creatinine clearance.
 Close monitoring of sodium levels is required in elderly patients at risk for hyponatremia [see Warnings and Precautions (5.1)].
 
 ## 8.6 Renal Impairment
 
-Dose adjustment is recommended for renally impaired patients (CLcr <30 mL/min) [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
+Dose adjustment is recommended for renally impaired patients (creatinine clearance <30 mL/min) [see Dosage and Administration (2.7) and Clinical Pharmacology (12.3)].
