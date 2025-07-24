@@ -1,0 +1,22 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+
+- Serious Infections
+
+Inform patients that TOFIDENCE may lower their resistance to infections [see Warnings and Precautions (5.1)].
+Instruct the patient of the importance of contacting their doctor immediately when symptoms suggesting infection appear in order to assure rapid evaluation and appropriate treatment.
+
+- Gastrointestinal Perforation
+
+Inform patients that some patients who have been treated with TOFIDENCE have had serious side effects in the stomach and intestines [see Warnings and Precautions (5.2)].
+Instruct the patient of the importance of contacting their doctor immediately when symptoms of fever, severe, persistent abdominal pain, and change in bowel habits appear to assure rapid evaluation and appropriate treatment.
+
+- Hypersensitivity and Serious Allergic Reactions
+
+Inform patients that some patients who have been treated with TOFIDENCE have developed serious allergic reactions, including anaphylaxis, as well as serious skin reactions [see Warnings and Precautions (5.6)].
+Advise patients to stop taking TOFIDENCE and seek immediate medical attention if they experience any symptom of serious allergic reactions (including rash, hives, and swelling of the face, lips, tongue, and throat that may cause difficulty in breathing or swallowing).
+
+Pregnancy
+
+Inform female patients of reproductive potential that TOFIDENCE may cause fetal harm and to inform their prescriber of a known or suspected pregnancy [see Use in Specific Populations (8.1)].

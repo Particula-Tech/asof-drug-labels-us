@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "BLA761354"
+  ],
+  "inn": "tocilizumab",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-200-01",
+    "78206-201-01",
+    "78206-202-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "tocilizumab",
+      "name": "TOFIDENCE"
+    }
+  ],
+  "setid": "1ab3207a-ebfe-4565-9ce5-3a1538815c83",
+  "source": "dailymed"
+}
