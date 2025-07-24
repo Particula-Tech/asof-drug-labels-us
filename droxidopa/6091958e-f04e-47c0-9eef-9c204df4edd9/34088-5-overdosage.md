@@ -10,4 +10,5 @@ Another patient treated with a total daily dose of 2,700 mg of droxidopa capsule
 
 There is no known antidote for droxidopa capsules overdosage.
 In case of an overdose that may result in an excessively high blood pressure, discontinue droxidopa capsules and treat with appropriate symptomatic and supportive therapy.
+
 Counsel patients to remain in a standing or seated position until their blood pressure drops below an acceptable limit.

@@ -19,12 +19,12 @@ Manufactured by:
 
 Alkem Laboratories Ltd.,
 
-INDIA.
+Mumbai - 400 013, INDIA.
 
 Distributed by:
 
 Ascend Laboratories, LLC
 
-Parsippany, NJ 07054
+Bedminster, NJ 07921
 
-PT3446-01
+PT3446-02
