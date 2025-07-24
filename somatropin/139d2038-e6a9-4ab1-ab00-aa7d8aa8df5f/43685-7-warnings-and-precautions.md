@@ -71,7 +71,9 @@ Therefore, patients treated with somatropin should have periodic thyroid functio
 ## 5.10 Slipped Capital Femoral Epiphysis (SCFE) in Pediatric Patients
 
 SCFE may occur more frequently in patients with endocrine disorders (including GHD and TS) or in patients undergoing rapid growth.
-Any pediatric patient with the onset of a limp or complaints of hip or knee pain during somatropin therapy should be carefully evaluated.
+SCFE may lead to osteonecrosis.
+Cases of SCFE with or without osteonecrosis have been reported in pediatric patients with short stature receiving somatropin, including NUTROPIN AQ.
+Any pediatric patient with the onset of a limp or complaints of hip or knee pain during NUTROPIN AQ therapy should be evaluated for SCFE and osteonecrosis and managed accordingly.
 
 ## 5.11 Progression of Preexisting Scoliosis in Pediatric Patients
 

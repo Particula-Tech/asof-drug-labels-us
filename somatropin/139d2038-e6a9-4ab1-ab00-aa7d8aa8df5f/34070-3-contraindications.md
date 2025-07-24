@@ -2,15 +2,13 @@
 
 - Acute Critical Illness
 
-Treatment with pharmacologic amounts of somatropin is contraindicated in patients with acute critical illness due to complications following open heart surgery, abdominal surgery or multiple accidental trauma, or those with acute respiratory failure.
-[see Warnings and Precautions (5.1)].
+Treatment with pharmacologic amounts of somatropin is contraindicated in patients with acute critical illness due to complications following open heart surgery, abdominal surgery or multiple accidental trauma, or those with acute respiratory failure [see Warnings and Precautions (5.1)].
 
 - Prader-Willi Syndrome (PWS) in Children
 
 Somatropin is contraindicated in patients with PWS who are severely obese, have a history of upper airway obstruction or sleep apnea, or have severe respiratory impairment.
 There have been reports of sudden death when somatropin was used in such patients.
-Nutropin AQ is not indicated for the treatment of pediatric patients who have growth failure due to genetically confirmed PWS.
-[see Warnings and Precautions (5.2)].
+Nutropin AQ is not indicated for the treatment of pediatric patients who have growth failure due to genetically confirmed PWS [see Warnings and Precautions (5.2)].
 
 - Active Malignancy
 
@@ -23,7 +21,7 @@ Somatropin should not be used in patients with any evidence of progression or re
 - Hypersensitivity
 
 Nutropin AQ is contraindicated in patients with a known hypersensitivity to somatropin or any of its excipients.
-Systemic hypersensitivity reactions have been reported with postmarketing use of somatropin products [(see Warnings and Precautions (5.6)].
+Systemic hypersensitivity reactions have been reported with postmarketing use of somatropin products [see Warnings and Precautions (5.6)].
 
 - Diabetic Retinopathy
 

@@ -20,8 +20,7 @@ A lower starting dose and smaller dose increments should be considered for older
 
 ## 8.6 Hepatic Impairment
 
-No studies have been conducted for Nutropin AQ in patients with hepatic impairment.
-[see Clinical Pharmacology (12.3)].
+No studies have been conducted for Nutropin AQ in patients with hepatic impairment [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
