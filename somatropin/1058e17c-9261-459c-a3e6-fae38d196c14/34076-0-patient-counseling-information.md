@@ -1,7 +1,5 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling.
-
 Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 - •Neoplasms – Advise childhood cancer survivors/caregivers that individuals treated with brain/head radiation are at increased risk of secondary neoplasms and as a precaution need to be monitored for recurrence.

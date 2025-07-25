@@ -101,6 +101,7 @@ Deficient Patients Treated with NORDITROPIN During a Six Month Placebo-Controlle
 
 ## 6.2 Postmarketing Experience
 
+The following adverse reactions have been identified during post-approval use of somatropin or NORDITROPIN.
 Because these adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Immune system disorders — Serious systemic hypersensitivity reactions including anaphylactic reactions and angioedema
@@ -111,7 +112,8 @@ Endocrine disorders — Hypothyroidism - Gynecomastia
 
 Metabolism and nutrition disorders — Hyperglycemia
 
-Musculoskeletal and connective tissue disorders —Slipped capital femoral epiphysis— Legg-Calvé-Perthes disease
+Musculoskeletal and connective tissue disorders — Slipped capital femoral epiphysis and osteonecrosis (including Legg-Calvé-Perthes disease) have been reported in pediatric patients treated with growth hormone [see Warnings and Precautions (5.10)].
+Cases have been reported with NORDITROPIN.
 
 Investigations — Increase in blood alkaline phosphatase level — Decrease in serum thyroxin (T4) levels
 

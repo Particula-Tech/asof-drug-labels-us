@@ -27,7 +27,7 @@ Table 4 – Efficacy of NORDITROPIN in Pediatric GH Deficiency
 | Baseline to Month 12 | 37 | 1.3 | 0.9 | 38 | 1.7 | 0.8 | 34 | 1.6 | 0.8 |
 | Month 12 to Month 24 | 37 | 0.6 | 2.5 | 38 | 1.4 | 2.7 | 34 | 1.6* | 0.8 |
 
-1. *Significant (p <0.05) change from baseline compared to the 0.025 mg/kg/group
+- *Significant (p <0.05) change from baseline compared to the 0.025 mg/kg/group
 
 **Significant (p <0.05) change from baseline compared to both other groups
 

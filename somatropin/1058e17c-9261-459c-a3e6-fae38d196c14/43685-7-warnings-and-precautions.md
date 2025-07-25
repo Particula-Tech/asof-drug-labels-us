@@ -83,7 +83,9 @@ Therefore, patients should have periodic thyroid function tests and thyroid horm
 ## 5.10 Slipped Capital Femoral Epiphysis in Pediatric Patients
 
 Slipped capital femoral epiphysis may occur more frequently in patients with endocrine disorders (including GH deficiency and Turner syndrome) or in patients undergoing rapid growth.
-Evaluate pediatric patients with the onset of a limp or complaints of hip or knee pain.
+Slipped capital femoral epiphysis may lead to osteonecrosis.
+Cases of slipped capital femoral epiphysis with or without osteonecrosis have been reported in pediatric patients with short stature receiving somatropin, including NORDITROPIN.
+Evaluate pediatric patients receiving NORDITROPIN with the onset of a limp or complaints of hip or knee pain for slipped capital femoral epiphysis and osteonecrosis and manage accordingly.
 
 ## 5.11 Progression of Preexisting Scoliosis in Pediatric Patients
 
