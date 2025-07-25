@@ -1,6 +1,6 @@
 # INSTRUCTIONS FOR USE
 
-ONEXTON®(ON-EX-TUN) (clindamycin phosphate and benzoyl peroxide) gel, 1.2%/3.75%
+ONEXTON® (ON-EX-TUN) (clindamycin phosphate and benzoyl peroxide) gel, 1.2%/3.75%
 
 Important Information: ONEXTON Gel is for use on skin only (topical use).
 ONEXTON Gel is not for use in your mouth, eyes or vagina.

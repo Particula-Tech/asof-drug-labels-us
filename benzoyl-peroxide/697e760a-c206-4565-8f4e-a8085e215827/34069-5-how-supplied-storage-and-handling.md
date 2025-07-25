@@ -20,5 +20,4 @@ Storage and Handling
 - Protect from freezing.
 - Store pump upright.
 - Keep out of the reach of children
-
-Keep container tightly closed.
+- Keep container tightly closed.

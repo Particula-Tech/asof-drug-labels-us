@@ -15,7 +15,7 @@ The structural formula for benzoyl peroxide is represented below:
 
 Benzoyl peroxide:
 
-Molecular Formula: C 14H 10O 4 Molecular Weight: 242.23
+Molecular Formula: C 14H 10O 4Molecular Weight: 242.23
 
 ONEXTON Gel contains the following inactive ingredients: carbomer 980, potassium hydroxide, propylene glycol, and purified water.
 Each gram of ONEXTON Gel contains 12 mg (1.2%) clindamycin phosphate, equivalent to 10 mg (1%) clindamycin, and 37.5 mg (3.75%) benzoyl peroxide.
