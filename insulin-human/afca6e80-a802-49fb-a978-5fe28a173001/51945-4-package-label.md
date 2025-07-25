@@ -6,7 +6,7 @@ NDC 0338-0126-12 Rx only
 
 MYXREDLIN Insulin Human in 0.9% Sodium Chloride Injection 100 units per 100 mL (1 unit / mL)
 
-100 mL Single-Dose GALAXY container (REGULAR) Insulin Human Discard unused portion Sterile Nonpyrogenic
+100 mL Single-Dose Galaxy container (REGULAR) Insulin Human Discard unused portion Sterile Nonpyrogenic
 
 For Intravenous Infusion Only
 
@@ -27,13 +27,11 @@ Discard after 30 days if stored at room temperature.
 
 Baxter logo Code 2G3322
 
-Baxter, Galaxy and Myxredlin are registered trademarks of Baxter International Inc. Baxter Healthcare Corporation Deerfield, IL 60015 USA U.S. License no. 0140
+Baxter, Galaxy and Myxredlin are trademarks of Baxter International Inc. or its subsidiaries Baxter Healthcare Corporation Deerfield, IL 60015 USA U.S. License no. 0140
 
 Product of USA 07-34-00-2341
 
 CONTAINS INSULIN
-
-BAR CODE POSITION ONLY UPC-A
 
 303380126125
 
@@ -53,7 +51,7 @@ MYXREDLIN Insulin Human in 0.9% Sodium Chloride Injection 100 units per 100 mL (
 
 UNVARNISHED AREA FOR ON-LINE PRINTING OF LOT AND EXP
 
-UPC-A Bar Code Placement
+303380126125
 
 Sterile, Nonpyrogenic
 
@@ -82,7 +80,7 @@ Discard After:
 
 (to be completed by dispensing pharmacist)
 
-Baxter, Galaxy and Myxredlin are registered trademarks of Baxter International Inc.
+Baxter, Galaxy and Myxredlin are trademarks of Baxter International Inc. or its subsidiaries.
 
 Baxter Healthcare Corporation
 
@@ -90,7 +88,7 @@ Deerfield, IL 60015 USA
 
 U.S. License no. 0140
 
-Product of USA 07-01-00-0676
+Product of USA 07-01-00-1676
 
 MYXREDLIN
 
