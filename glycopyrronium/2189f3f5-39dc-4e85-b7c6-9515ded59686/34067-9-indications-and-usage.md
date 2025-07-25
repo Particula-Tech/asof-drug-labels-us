@@ -10,4 +10,5 @@ in anesthesia (all ages)
 
 in peptic ulcer (adults)
 
-- •as adjunctive therapy for the treatment of peptic ulcer when rapid anticholinergic effect is desired or when oral medication is not tolerated.
+- •To reduce symptoms of a peptic ulcer as an adjunct to treatment of peptic ulcer when rapid anticholinergic effect is desired or when oral medication is not tolerated.
+- •Limitations of UseGLYRX-PF is not indicated as monotherapy for the treatment of peptic ulcer because effectiveness in peptic ulcer healing has not been established.
