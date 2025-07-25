@@ -26,10 +26,10 @@ BP Increases
 In the 4-month clinical study, 24-hour ABPM was conducted on 166 patients.
 ABPM was conducted at baseline and at Day 139 of JATENZO therapy.
 A total of 135 patients had acceptable ABPM recordings at both time periods and were at least 85% compliant with study drug.
-In that group, the mean change in 24-hour systolic BP and diastolic BP from baseline to final on-treatment visit on Day 139 (n=135) was +4.9 mmHg (95% CI 3.5, 6.4) and +2.5 mmHg (95% CI 1.5, 3.6), respectively.
+In that group, the mean change in 24-hour systolic BP and diastolic BP from baseline to final on-treatment visit on Day 139 (n=135) was +4.9 mm Hg (95% CI 3.5, 6.4) and +2.5 mm Hg (95% CI 1.5, 3.6), respectively.
 
-In patients with a history of hypertension who were receiving antihypertensive therapy, the mean ABPM systolic and diastolic BP increased by 5.4 mmHg [95% CI 3.3, 7.6] and 3.2 mmHg [95% CI 1.7, 4.7], respectively [n=67].
-In patients with no history of hypertension, the mean ABPM systolic and diastolic blood pressure increased by 4.4 mmHg [95% CI 2.3, 6.4] and 1.8 mmHg [95% CI 0.2, 3.3], respectively [n=63].
+In patients with a history of hypertension who were receiving antihypertensive therapy, the mean ABPM systolic and diastolic BP increased by 5.4 mm Hg [95% CI 3.3, 7.6] and 3.2 mm Hg [95% CI 1.7, 4.7], respectively [n=67].
+In patients with no history of hypertension, the mean ABPM systolic and diastolic blood pressure increased by 4.4 mm Hg [95% CI 2.3, 6.4] and 1.8 mm Hg [95% CI 0.2, 3.3], respectively [n=63].
 
 Twelve (7.2%) patients on JATENZO either started antihypertensive medications or had their antihypertensive regimen increased during the study.
 
@@ -70,12 +70,11 @@ The mean duration of therapy was approximately 22 months.
 The mean duration of follow-up was 33 months.
 Approximately 61% of all patients discontinued topical testosterone gel or placebo therapy.
 
-The mean patient age (±SD) was 63.3 (7.9) years.
+The mean patient age (±SD) was 63.3 (7.9) years, with 2452 patients aged 65 years or more (47%); 2847 (about 55%) patients had pre-existing cardiovascular disease, whereas 2357 patients (about 45%) had an elevated cardiovascular risk at baseline, and mean BMI was 35kg/m2.
 Approximately 80% of patients were White, 17% were Black, and 3% were of other races or ethnic groups.
 Approximately 69%, 84%, and 93% had diabetes mellitus, hyperlipidemia, and hypertension, respectively.
-Approximately 55% had preexisting cardiovascular disease.
 
-The mean serum testosterone concentration at baseline in patients receiving topical testosterone gel was 220.4 ng/dL (n=2129).
+The mean serum testosterone concentration at baseline in patients receiving topical testosterone gel was 220.4 ng/dL (n=2596).
 The mean serum testosterone concentrations at 12 months, 24 months, 36 months, and 48 months in patients receiving topical testosterone gel were 440.5 ng/dL (n=1683), 420.9 ng/dl (n=1125), 428.7 ng/dL (n=731), and 365.2 ng/dL (n=220), respectively.
 
 For patients treated with topical testosterone gel, the incidence of MACE was 7.0% (n=182 events) and for those receiving placebo, the incidence of MACE was 7.3% (n=190 events).

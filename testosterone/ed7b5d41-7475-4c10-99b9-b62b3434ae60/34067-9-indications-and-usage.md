@@ -4,7 +4,7 @@ JATENZO (testosterone undecanoate) is an androgen indicated for testosterone rep
 
 - Primary hypogonadism (congenital or acquired): testicular failure due to conditions such as cryptorchidism, bilateral torsion, orchitis, vanishing testis syndrome, orchiectomy, Klinefelter syndrome, chemotherapy, or toxic damage from alcohol or heavy metals.
   These men usually have low serum testosterone concentrations and gonadotropins (follicle-stimulating hormone [FSH], luteinizing hormone [LH]) above the normal range.
-- Hypogonadotropic hypogonadism (congenital or acquired): gonadotropin or luteinizing hormone-releasing hormone (LHRH) deficiency or pituitary-hypothalamic injury from causes such as tumors, trauma, or radiation.
+- Hypogonadotropic hypogonadism (congenital or acquired): gonadotropin or luteinizing hormone-releasing hormone (LHRH) deficiency or pituitary-hypothalamic injury from tumors, trauma, or radiation.
   These men have low testosterone serum concentrations but have gonadotropins in the normal or low range.
 
 Limitations of use:
