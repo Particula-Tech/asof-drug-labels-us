@@ -42,6 +42,9 @@ Also, azacitidine and its metabolites are primarily excreted by the kidney.
 Therefore, monitor these patients closely for toxicity [see Dosage and Administration (2.6, 2.7)].
 Patients with MDS and renal impairment were excluded from the clinical studies.
 
+Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
+However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 5.5 Tumor Lysis Syndrome
 
 Azacitidine may cause fatal or serious tumor lysis syndrome, including in patients with MDS.

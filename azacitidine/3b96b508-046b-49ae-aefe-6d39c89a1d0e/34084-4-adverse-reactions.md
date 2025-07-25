@@ -175,11 +175,11 @@ There did not appear to be any adverse reactions that increased in frequency ove
 Overall, adverse reactions were qualitatively similar between the intravenous and subcutaneous studies.
 Adverse reactions that appeared to be specifically associated with the intravenous route of administration included infusion site reactions (e.g. erythema or pain) and catheter site reactions (e.g. infection, erythema, or hemorrhage).
 
-In clinical studies of either subcutaneous or intravenous azacitidine, the following serious adverse reactions occurring at a rate of <5% (and not described in Tables 3 or 4) were reported:
+In clinical studies of either subcutaneous or intravenous azacitidine, the following serious adverse reactions occurring at a rate of <5% (and not described in Tables 2 or 3) were reported:
 
 Blood and lymphatic system disorders: agranulocytosis, bone marrow failure, pancytopenia splenomegaly.
 
-Cardiac disorders: atrial fibrillation, cardiac failure, cardiac failure congestive, cardio-respiratory arrest, congestive cardiomyopathy.
+Cardiac disorders: atrial fibrillation, cardiac failure, cardiac failure congestive, cardiorespiratory arrest, congestive cardiomyopathy.
 
 Eye disorders: eye hemorrhage
 
@@ -219,4 +219,4 @@ However, due to Celgene Corporation's marketing exclusivity rights, this drug pr
 The following adverse reactions have been identified during postmarketing use of azacitidine.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Interstitial lung disease - Tumor lysis syndrome - Injection site necrosis - Sweet’s syndrome (acute febrile neutrophilic dermatosis) - Necrotizing fasciitis (including fatal cases) - Differentiation syndrome - Pericardial effusion - Pericarditis
+- Interstitial lung disease - Tumor lysis syndrome - Injection site necrosis - Sweet’s syndrome (acute febrile neutrophilic dermatosis) - Necrotizing fasciitis (including fatal cases) - Differentiation syndrome - Pericardial effusion - Pericarditis - Cutaneous vasculitis

@@ -22,12 +22,16 @@ Advise patients to avoid breastfeeding while receiving azacitidine and for 1 wee
 
 Infertility Advise males and females that azacitidine may impair fertility [see Use in Specific Populations (8.3) and Nonclinical Toxicology (13.1)].
 
-Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA)©2022 Meitheal Pharmaceuticals Inc.
+Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA)
+
+©2025 Meitheal Pharmaceuticals Inc.
 
 Mfd. by Kindos Pharmaceuticals Co., Ltd. Chengdu, China 611731
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-Revised: November 2022
+Revised: May 2025
 
 novaplus+
+
+LB-408-V4

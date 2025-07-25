@@ -115,7 +115,7 @@ Kaplan-Meier Curve of Time to Death from Any Cause: (Intent-to-Treat Population)
 
 Key: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval; HR = Hazard Ratio
 
-Azacitidine treatment led to a reduced need for red blood cell transfusions (see Table 9).
+Azacitidine treatment led to a reduced need for red blood cell transfusions (see Table 8).
 In patients treated with azacitidine who were RBC transfusion dependent at baseline and became transfusion independent, the median duration of RBC transfusion independence was 13.0 months.
 
 Table 9.
@@ -128,5 +128,3 @@ Effect of Azacitidine on RBC Transfusions in Patients with MDS
 
 Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
 However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
-
-## 14.2

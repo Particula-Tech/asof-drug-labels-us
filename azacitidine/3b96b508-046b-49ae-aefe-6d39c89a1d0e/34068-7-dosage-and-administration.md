@@ -25,8 +25,6 @@ Monitor patients for hematologic response and renal toxicities [see Warnings and
 Pediatric use information is approved for Celgene Corporation's Vidaza (azacitidine for injection).
 However, due to Celgene Corporation's marketing exclusivity rights, this drug product is not labeled with that information.
 
-## 2.4
-
 ## 2.5 Dosage Adjustment Based on Hematology Laboratory Values
 
 - For adult patients with baseline (start of treatment) WBC greater than or equal to 3 x109/L, ANC greater than or equal to 1.5 x109/L, and platelets greater than or equal to 75 x109/L, adjust the dose as follows, based on nadir counts for any given cycle:

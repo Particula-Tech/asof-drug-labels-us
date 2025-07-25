@@ -6,7 +6,7 @@ Azacitidine for Injection is a white to off-white lyophilized powder or lyophili
 
 | NDC | Azacitidine for Injection (100 mg per vial) | Package Factor |
 | --- | --- | --- |
-| 71288-153-95 | 100 mg of Azacitidine and 100 mg Mannitol in a 30mL Single-Dose Vial | 1 vial per carton |
+| 71288-153-95 | 100 mg of Azacitidine and 100 mg Mannitol in a 30mLSingle-Dose Vial | 1 vial per carton |
 
 Storage
 
