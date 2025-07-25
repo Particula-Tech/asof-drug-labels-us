@@ -4,7 +4,7 @@
 
 Losartan potassium was not carcinogenic when administered at maximally tolerated dosages to rats and mice for 105 and 92 weeks, respectively.
 Female rats given the highest dose (270 mg/kg/day) had a slightly higher incidence of pancreatic acinar adenoma.
-The maximally tolerated dosages (270 mg/kg/day in rats, 200 mg/kg/day in mice) provided systemic exposures for losartan and its pharmacologically active metabolite that were approximately 160 and 90 times (rats)and 30 and 15 times (mice) the exposure of a 50 kg human given 100 mg per day.
+The maximally tolerated dosages (270 mg/kg/day in rats, 200 mg/kg/day in mice) provided systemic exposures for losartan and its pharmacologically active metabolite that were approximately 160 and 90 times (rats) and 30 and 15 times (mice) the exposure of a 50 kg human given 100 mg per day.
 
 Losartan potassium was negative in the microbial mutagenesis and V-79 mammalian cell mutagenesis assays and in the in vitro alkaline elution and in vitro and in vivo chromosomal aberration assays.
 In addition, the active metabolite showed no evidence of genotoxicity in the microbial mutagenesis, in vitro alkaline elution, and in vitro chromosomal aberration assays.

@@ -2,7 +2,7 @@
 
 ## 14.1 Hypertension
 
-Adult Hypertension The antihypertensive effects of Losartan potassium were demonstrated principally in 4 placebo-controlled, 6- to 12­ week trials of dosages from 10 to 150 mg per day in patients with baseline diastolic blood pressures of 95-115.
+Adult Hypertension The antihypertensive effects of losartan potassium were demonstrated principally in 4 placebo-controlled, 6- to 12- week trials of dosages from 10 to 150 mg per day in patients with baseline diastolic blood pressures of 95-115.
 The studies allowed comparisons of two doses (50-100 mg/day) as once-daily or twice-daily regimens, comparisons of peak and trough effects, and comparisons of response by gender, age, and race.
 Three additional studies examined the antihypertensive effects of losartan and hydrochlorothiazide in combination.
 
@@ -32,10 +32,10 @@ While blood pressure was reduced in all racial subgroups examined, too few non-W
 
 ## 14.2 Hypertensive Patients with Left Ventricular Hypertrophy
 
-The LIFE study was a multinational, double-blind study comparing Losartan potassium and atenolol in 9193 hypertensive patients with ECG-documented left ventricular hypertrophy.
+The LIFE study was a multinational, double-blind study comparing losartan potassium and atenolol in 9193 hypertensive patients with ECG-documented left ventricular hypertrophy.
 Patients with myocardial infarction or stroke within six months prior to randomization were excluded.
-Patients were randomized to receive once daily Losartan potassium 50 mg or atenolol 50 mg.
-If goal blood pressure (<140/90 mmHg) was not reached, hydrochlorothiazide (12.5 mg) was added first and, if needed, the dose of Losartan potassium or atenolol was then increased to 100 mg once daily.
+Patients were randomized to receive once daily losartan potassium 50 mg or atenolol 50 mg.
+If goal blood pressure (<140/90 mmHg) was not reached, hydrochlorothiazide (12.5 mg) was added first and, if needed, the dose of losartan potassium or atenolol was then increased to 100 mg once daily.
 If necessary, other antihypertensive treatments (e.g., increase in dose of hydrochlorothiazide therapy to 25 mg or addition of other diuretic therapy, calcium-channel blockers, alpha-blockers, or centrally acting agents, but not ACE inhibitors, angiotensin II antagonists, or beta-blockers) were added to the treatment regimen to reach the goal blood pressure.
 
 Of the randomized patients, 4963 (54%) were female and 533 (6%) were Black.
@@ -43,18 +43,20 @@ The mean age was 67 with 5704 (62%) age ≥65.
 At baseline, 1195 (13%) had diabetes, 1326 (14%) had isolated systolic hypertension, 1469 (16%) had coronary heart disease, and 728 (8%) had cerebrovascular disease.
 Baseline mean blood pressure was 174/98 mmHg in both treatment groups.
 The mean length of follow-up was 4.8 years.
-At the end of study or at the last visit before a primary endpoint, 77% of the group treated with Losartan potassium and 73% of the group treated with atenolol were still taking study medication.
-Of the patients still taking study medication, the mean doses of Losartan potassium and atenolol were both about 80 mg/day, and 15% were taking atenolol or losartan as monotherapy, while 77% were also receiving hydrochlorothiazide (at a mean dose of 20 mg/day in each group).Blood pressure reduction measured at trough was similar for both treatment groups but blood pressure was not measured at any other time of the day.
-At the end of study or at the last visit before a primary endpoint, the mean blood pressures were 144.1/81.3 mmHg for the group treated with Losartan potassium and 145.4/80.9 mmHg for the group treated with atenolol; the difference in systolic blood pressure (SBP) of 1.3 mmHg was significant (p<0.001), while the difference of 0.4 mmHg in diastolic blood pressure (DBP) was not significant (p=0.098).
+At the end of study or at the last visit before a primary endpoint, 77% of the group treated with losartan potassium and 73% of the group treated with atenolol were still taking study medication.
+Of the patients still taking study medication, the mean doses of losartan potassium and atenolol were both about 80 mg/day, and 15% were taking atenolol or losartan as monotherapy, while 77% were also receiving hydrochlorothiazide (at a mean dose of 20 mg/day in each group).
+Blood pressure reduction measured at trough was similar for both treatment groups but blood pressure was not measured at any other time of the day.
+At the end of study or at the last visit before a primary endpoint, the mean blood pressures were 144.1/81.3 mmHg for the group treated with losartan potassium and 145.4/80.9 mmHg for the group treated with atenolol; the difference in systolic blood pressure (SBP) of 1.3 mmHg was significant (p<0.001), while the difference of 0.4 mmHg in diastolic blood pressure (DBP) was not significant (p=0.098).
 
 The primary endpoint was the first occurrence of cardiovascular death, nonfatal stroke, or nonfatal myocardial infarction.
-Patients with nonfatal events remained in the trial, so that there was also an examination of the first event of each type even if it was not the first event (e.g., a stroke following an initial myocardial infarction would be counted in the analysis of stroke).Treatment with Losartan potassium resulted in a 13% reduction (p=0.021) in risk of the primary endpoint compared to the atenolol group (see Figure 1 and Table 3); this difference was primarily the result of an effect on fatal and nonfatal stroke.
-Treatment with Losartan potassium reduced the risk of stroke by 25% relative to atenolol (p=0.001) (see Figure 2 and Table 3).
+Patients with nonfatal events remained in the trial, so that there was also an examination of the first event of each type even if it was not the first event (e.g., a stroke following an initial myocardial infarction would be counted in the analysis of stroke).
+Treatment with losartan potassium resulted in a 13% reduction (p=0.021) in risk of the primary endpoint compared to the atenolol group (see Figure 1 and Table 3); this difference was primarily the result of an effect on fatal and nonfatal stroke.
+Treatment with losartan potassium reduced the risk of stroke by 25% relative to atenolol (p=0.001) (see Figure 2 and Table 3).
 
-Figure 1: Kaplan-Meier estimates of the primary endpoint of time to cardiovascular death, nonfatal stroke, or nonfatal myocardial infarction in the groups treated with Losartan potassium and atenolol.
+Figure 1: Kaplan-Meier estimates of the primary endpoint of time to cardiovascular death, nonfatal stroke, or nonfatal myocardial infarction in the groups treated with losartan potassium and atenolol.
 The Risk Reduction is adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy.
 
-Figure 2: Kaplan-Meier estimates of the time to fatal/nonfatal stroke in the groups treated with Losartan potassium and atenolol.
+Figure 2: Kaplan-Meier estimates of the time to fatal/nonfatal stroke in the groups treated with losartan potassium and atenolol.
 The Risk Reduction is adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy.
 
 Table 3 shows the results for the primary composite endpoint and the individual endpoints.
@@ -64,9 +66,9 @@ The Components of Primary Endpoint (as a first event) counts only the events tha
 
 Table 3: Incidence of Primary Endpoint Events
 
-|  | Losartan potassium |  | Atenolol |  | Risk ReductionAdjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy | 95% CI | p-Value |
+|  | Losartan potassium |  | Atenolol |  | Risk Reduction† | 95% CI | p-Value |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | N (%) | RateRate per 1000 patient-years of follow-up | N (%) | Rate |  |  |  |
+|  | N (%) | Rate* | N (%) | Rate* |  |  |  |
 | Primary Composite Endpoint | 508 (11) | 23.8 | 588 (13) | 27.9 | 13% | 2% to 23% | 0.021 |
 | Components of Primary Composite Endpoint (as a first event) |  |  |  |  |  |  |  |
 | Stroke (nonfatal) | 209 (5) |  | 286 (6) |  |  |  |  |
@@ -78,22 +80,24 @@ Table 3: Incidence of Primary Endpoint Events
 | Cardiovascular mortality | 204 (4) | 9.2 | 234 (5) | 10.6 | 11% | -7% to 27% | 0.206 |
 | Due to CHD | 125 (3) | 5.6 | 124 (3) | 5.6 | -3% | -32% to 20% | 0.839 |
 | Due to Stroke | 40 (1) | 1.8 | 62 (1) | 2.8 | 35% | 4% to 67% | 0.032 |
-| OtherDeath due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease | 39 (1) | 1.8 | 48 (1) | 2.2 | 16% | -28% to 45% | 0.411 |
+| Other‡ | 39 (1) | 1.8 | 48 (1) | 2.2 | 16% | -28% to 45% | 0.411 |
 
-Although the LIFE study favored Losartan potassium over atenolol with respect to the primary endpoint (p=0.021), this result is from a single study and, therefore, is less compelling than the difference between Losartan potassium and placebo.
-Although not measured directly, the difference between Losartan potassium and placebo is compelling because there is evidence that atenolol is itself effective (vs. placebo) in reducing cardiovascular events, including stroke, in hypertensive patients.
+* Rate per 1000 patient-years of follow-up † Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy ‡ Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease
+
+Although the LIFE study favored losartan potassium over atenolol with respect to the primary endpoint (p=0.021), this result is from a single study and, therefore, is less compelling than the difference between losartan potassium and placebo.
+Although not measured directly, the difference between losartan potassium and placebo is compelling because there is evidence that atenolol is itself effective (vs. placebo) in reducing cardiovascular events, including stroke, in hypertensive patients.
 
 Other clinical endpoints of the LIFE study were: total mortality, hospitalization for heart failure or angina pectoris, coronary or peripheral revascularization procedures, and resuscitated cardiac arrest.
-There were no significant differences in the rates of these endpoints between the Losartan potassium and atenolol groups.
+There were no significant differences in the rates of these endpoints between the losartan potassium and atenolol groups.
 
-For the primary endpoint and stroke, the effects of Losartan potassium in patient subgroups defined by age, gender, race and presence or absence of isolated systolic hypertension (ISH), diabetes, and history of cardiovascular disease (CVD) are shown in Figure 3 below.
+For the primary endpoint and stroke, the effects of losartan potassium in patient subgroups defined by age, gender, race and presence or absence of isolated systolic hypertension (ISH), diabetes, and history of cardiovascular disease (CVD) are shown in Figure 3 below.
 Subgroup analyses can be difficult to interpret and it is not known whether these represent true differences or chance effects.
 
 ## 14.3 Nephropathy in Type 2 Diabetic Patients
 
 The RENAAL study was a randomized, placebo-controlled, double-blind, multicenter study conducted worldwide in 1513 patients with type 2 diabetes with nephropathy (defined as serum creatinine 1.3 to 3.0 mg/dL in females or males ≤60 kg and 1.5 to 3.0 mg/dL in males >60 kg and proteinuria [urinary albumin to creatinine ratio ≥300 mg/g]).
 
-Patients were randomized to receive Losartan potassium 50 mg once daily or placebo on a background of conventional antihypertensive therapy excluding ACE inhibitors and angiotensin II antagonists.
+Patients were randomized to receive losartan potassium 50 mg once daily or placebo on a background of conventional antihypertensive therapy excluding ACE inhibitors and angiotensin II antagonists.
 After one month, investigators were instructed to titrate study drug to 100 mg once daily if the trough blood pressure goal (140/90 mmHg) was not achieved.
 Overall, 72% of patients received the 100-mg daily dose more than 50% of the time they were on study drug.
 Because the study was designed to achieve equal blood pressure control in both groups, other antihypertensive agents (diuretics, calcium-channel blockers, alpha- or beta-blockers, and centrally acting agents) could be added as needed in both groups.
@@ -104,11 +108,11 @@ Overall, 63.2% of the patients were men, and 66.4% were under the age of 65 year
 Almost all of the patients (96.6%) had a history of hypertension, and the patients entered the trial with a mean serum creatinine of 1.9 mg/dL and mean proteinuria (urinary albumin/creatinine) of 1808 mg/g at baseline.
 
 The primary endpoint of the study was the time to first occurrence of any one of the following events: doubling of serum creatinine, end-stage renal disease (ESRD) (need for dialysis or transplantation), or death.
-Treatment with Losartan potassium resulted in a 16% risk reduction in this endpoint (see Figure 4 and Table 4).
-Treatment with Losartan potassium also reduced the occurrence of sustained doubling of serum creatinine by 25% and ESRD by 29% as separate endpoints, but had no effect on overall mortality (see Table 4).
+Treatment with losartan potassium resulted in a 16% risk reduction in this endpoint (see Figure 4 and Table 4).
+Treatment with losartan potassium also reduced the occurrence of sustained doubling of serum creatinine by 25% and ESRD by 29% as separate endpoints, but had no effect on overall mortality (see Table 4).
 
-The mean baseline blood pressures were 152/82 mmHg for Losartan potassium plus conventional antihypertensive therapy and 153/82 mmHg for placebo plus conventional antihypertensive therapy.
-At the end of the study, the mean blood pressures were 143/76 mmHg for the group treated with Losartan potassium and 146/77 mmHg for the group treated with placebo.
+The mean baseline blood pressures were 152/82 mmHg for losartan potassium plus conventional antihypertensive therapy and 153/82 mmHg for placebo plus conventional antihypertensive therapy.
+At the end of the study, the mean blood pressures were 143/76 mmHg for the group treated with losartan potassium and 146/77 mmHg for the group treated with placebo.
 
 Figure 4: Kaplan-Meier curve for the primary composite endpoint of doubling of serum creatinine, end stage renal disease (need for dialysis or transplantation) or death.
 
@@ -127,12 +131,13 @@ Table 4: Incidence of Primary Endpoint Events
 | ESRD | 19.6% | 25.5% | 28.6% | 11.5% to 42.4% | 0.002 |
 | Death | 21.0% | 20.3% | -1.7% | -26.9% to 18.6% | 0.884 |
 
-The secondary endpoints of the study were change in proteinuria, change in the rate of progression of renal disease, and the composite of morbidity and mortality from cardiovascular causes (hospitalization for heart failure, myocardial infarction, revascularization, stroke, hospitalization for unstable angina, or cardiovascular death).Compared with placebo, Losartan potassium significantly reduced proteinuria by an average of 34%, an effect that was evident within 3 months of starting therapy, and significantly reduced the rate of decline in glomerular filtration rate during the study by 13%, as measured by the reciprocal of the serum creatinine concentration.
+The secondary endpoints of the study were change in proteinuria, change in the rate of progression of renal disease, and the composite of morbidity and mortality from cardiovascular causes (hospitalization for heart failure, myocardial infarction, revascularization, stroke, hospitalization for unstable angina, or cardiovascular death).
+Compared with placebo, losartan potassium significantly reduced proteinuria by an average of 34%, an effect that was evident within 3 months of starting therapy, and significantly reduced the rate of decline in glomerular filtration rate during the study by 13%, as measured by the reciprocal of the serum creatinine concentration.
 There was no significant difference in the incidence of the composite endpoint of cardiovascular morbidity and mortality.
 
-The favorable effects of Losartan potassium were seen in patients also taking other anti-hypertensive medications (angiotensin II receptor antagonists and angiotensin converting enzyme inhibitors were not allowed), oral hypoglycemic agents and lipid-lowering agents.
+The favorable effects of losartan potassium were seen in patients also taking other anti-hypertensive medications (angiotensin II receptor antagonists and angiotensin converting enzyme inhibitors were not allowed), oral hypoglycemic agents and lipid-lowering agents.
 
-For the primary endpoint and ESRD, the effects of Losartan potassium in patient subgroups defined by age, gender and race are shown in Table 5 below.
+For the primary endpoint and ESRD, the effects of losartan potassium in patient subgroups defined by age, gender and race are shown in Table 5 below.
 Subgroup analyses can be difficult to interpret and it is not known whether these represent true differences or chance effects.
 
 Table 5: Efficacy Outcomes within Demographic Subgroups

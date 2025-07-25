@@ -54,7 +54,7 @@ Following oral 14C-labeled losartan, about 35% of radioactivity is recovered in 
 Following an intravenous dose of 14C-labeled losartan, about 45% of radioactivity is recovered in the urine and 50% in the feces.
 Neither losartan nor its metabolite accumulates in plasma upon repeated once-daily dosing.
 
-Special Populations Pediatric: Pharmacokinetic parameters after multiple doses of losartan (average dose 0.7 mg/kg, range 0.36 to 0.97 mg/kg) as a tablet to 25 hypertensive patients aged 6 to 16 years are shown in Table 4 below.
+Specific Populations Pediatric: Pharmacokinetic parameters after multiple doses of losartan (average dose 0.7 mg/kg, range 0.36 to 0.97 mg/kg) as a tablet to 25 hypertensive patients aged 6 to 16 years are shown in Table 4 below.
 Pharmacokinetics of losartan and its active metabolite were generally similar across the studied age groups and similar to historical pharmacokinetic data in adults.
 The principal pharmacokinetic parameters in adults and children are shown in the table below.
 
@@ -63,11 +63,17 @@ Table 2: Pharmacokinetic Parameters in Hypertensive Adults and Children Age 6-16
 |  | Adults given 50 mg once daily for 7 days N=12 |  | Age 6-16 given 0.7 mg/kg once daily for 7 days N=25 |  |
 | --- | --- | --- | --- | --- |
 |  | Parent | Active Metabolite | Parent | Active Metabolite |
-| AUC0-24 (ng•hr/mL)Mean ± standard deviation | 442 ± 173 | 1685 ± 452 | 368 ± 169 | 1866 ± 1076 |
-| CMAX (ng/mL) | 224 ± 82 | 212 ± 73 | 141 ± 88 | 222 ± 127 |
-| T1/2 (h)Harmonic mean and standard deviation | 2.1 ± 0.70 | 7.4 ± 2.4 | 2.3 ± 0.8 | 5.6 ± 1.2 |
-| TPEAK (h)Median | 0.9 | 3.5 | 2.0 | 4.1 |
-| CLREN (mL/min) | 56 ± 23 | 20 ± 3 | 53 ± 33 | 17 ± 8 |
+| AUC0-24 (ng•hr/mL)* | 442 ± 173 | 1685 ± 452 | 368 ± 169 | 1866 ± 1076 |
+| CMAX (ng/mL) * | 224 ± 82 | 212 ± 73 | 141 ± 88 | 222 ± 127 |
+| T1/2 (h)† | 2.1 ± 0.70 | 7.4 ± 2.4 | 2.3 ± 0.8 | 5.6 ± 1.2 |
+| TPEAK (h)‡ | 0.9 | 3.5 | 2.0 | 4.1 |
+| CLREN (mL/min)* | 56 ± 23 | 20 ± 3 | 53 ± 33 | 17 ± 8 |
+
+* Mean ± standard deviation
+
+† Harmonic mean and standard deviation
+
+‡ Median
 
 The bioavailability of the suspension formulation was compared with losartan tablets in healthy adults.
 The suspension and tablet are similar in their bioavailability with respect to both losartan and the active metabolite [see Dosage and Administration (2.5)].

@@ -9,6 +9,6 @@ Losartan potassium, USP is a white to off-white free-flowing crystalline powder 
 It is freely soluble in water, soluble in alcohols, and slightly soluble in common organic solvents, such as acetonitrile and methyl ethyl ketone.
 Oxidation of the 5-hydroxymethyl group on the imidazole ring results in the active metabolite of losartan.
 
-Losartan potassium is available as tablets for oral administration containing either 25 mg, 50 mg or 100 mg of losartan potassium, USP and the following inactive ingredients: microcrystalline cellulose, lactose monohydrate, pregelatinized starch, magnesium stearate, polyvinyl alcohol, ployethylene glycol/macrogol, talc, titanium dioxide, D&C yellow No. 10 aluminum lake and FD&C blue No. 2/indigo carmine aluminum lake
+Losartan potassium is available as tablets for oral administration containing either 25 mg, 50 mg or 100 mg of losartan potassium, USP and the following inactive ingredients: microcrystalline cellulose, lactose monohydrate, polyvinyl alcohol, polyethylene glycol/macrogol, pregelatinized starch, magnesium stearate, talc, titanium dioxide, D&C yellow No. 10 aluminum lake and FD&C blue No. 2 indigo carmine aluminum lake.
 
 Losartan potassium tablets 25 mg, 50 mg and 100 mg contain potassium in the following amounts: 2.12 mg (0.054 mEq), 4.24 mg (0.108 mEq) and 8.48 mg (0.216 mEq), respectively.
