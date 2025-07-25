@@ -4,7 +4,8 @@ Not for Injection
 
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
+For medical information about CLEOCIN PEDIATRIC, please visit www.pfizermedinfo.com or call 1-800-438-1985.
 
-LAB-0041-25.0
+LAB-0041-27.0
 
-Revised: 7/2023
+Revised: July 2025

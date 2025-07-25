@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Clindamycin palmitate hydrochloride is a water soluble hydrochloride salt of the ester of clindamycin and palmitic acid.
-Clindamycin is a semisynthetic antibiotic produced by a 7(S)-chloro-substitution of the 7(R)-hydroxyl group of the parent compound lincomycin.
+Clindamycin is a semisynthetic antibacterial drug produced by a 7(S)-chloro-substitution of the 7(R)-hydroxyl group of the parent compound lincomycin.
 
 The structural formula is represented below:
 

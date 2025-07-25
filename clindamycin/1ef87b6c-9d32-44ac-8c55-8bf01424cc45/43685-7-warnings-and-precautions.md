@@ -4,16 +4,16 @@ See BOXED WARNING.
 
 ## Clostridioides difficile-Associated Diarrhea
 
-Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN PEDIATRIC (Clindamycin Palmitate HCL), and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including CLEOCIN PEDIATRIC (Clindamycin Palmitate HCl), and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
-CDAD must be considered in all patients who present with diarrhea following antibiotic use.
+CDAD must be considered in all patients who present with diarrhea following antibacterial drug use.
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 
-If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
-Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
+If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation, antibacterial drug treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 ## Anaphylactic and Severe Hypersensitivity Reactions
 
@@ -44,7 +44,7 @@ CLEOCIN PEDIATRIC (clindamycin palmitate HCl) should be prescribed with caution 
 
 CLEOCIN PEDIATRIC should be prescribed with caution in atopic individuals.
 
-Indicated surgical procedures should be performed in conjunction with antibiotic therapy.
+Indicated surgical procedures should be performed in conjunction with antibacterial drug therapy.
 
 The use of CLEOCIN PEDIATRIC occasionally results in overgrowth of nonsusceptible organisms-particularly yeasts.
 Should superinfections occur, appropriate measures should be taken as indicated by the clinical situation.
@@ -64,8 +64,8 @@ They do not treat viral infections (e.g., the common cold).
 When CLEOCIN PEDIATRIC is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
 Skipping doses or not completing the full course of therapy may (1) decrease the effectiveness of the immediate treatment and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by CLEOCIN PEDIATRIC or other antibacterial drugs in the future.
 
-Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
-Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
+Diarrhea is a common problem caused by antibacterial drugs which usually ends when the antibacterial drug is discontinued.
+Sometimes after starting treatment with antibacterial drugs, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibacterial drug.
 If this occurs, patients should contact their physician as soon as possible.
 
 ## Laboratory Tests
@@ -106,7 +106,7 @@ Reproduction studies performed in rats and mice using oral doses of clindamycin 
 Limited published data based on breast milk sampling reports that clindamycin appears in human breast milk in the range of less than 0.5 to 3.8 mcg/mL.
 Clindamycin has the potential to cause adverse effects on the breast-fed infant's gastrointestinal flora.
 If oral or intravenous clindamycin is required by a nursing mother, it is not a reason to discontinue breastfeeding, but an alternate drug may be preferred.
-Monitor the breast-fed infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibiotic-associated colitis.
+Monitor the breast-fed infant for possible adverse effects on the gastrointestinal flora, such as diarrhea, candidiasis (thrush, diaper rash) or rarely, blood in the stool indicating possible antibacterial drug-associated colitis.
 
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for clindamycin and any potential adverse effects on the breast-fed child from clindamycin or from the underlying maternal condition.
 
@@ -117,7 +117,7 @@ When CLEOCIN PEDIATRIC is administered to the pediatric population (birth to 16 
 ## Geriatric Use
 
 Clinical studies of clindamycin did not include sufficient numbers of patients age 65 and over to determine whether they respond differently from younger patients.
-However, other reported clinical experience indicates that antibiotic-associated colitis and diarrhea (due to Clostridioides difficile) seen in association with most antibiotics occur more frequently in the elderly (>60 years) and may be more severe.
+However, other reported clinical experience indicates that antibacterial drug-associated colitis and diarrhea (due to Clostridioides difficile) seen in association with most antibacterial drugs occur more frequently in the elderly (>60 years) and may be more severe.
 These patients should be carefully monitored for the development of diarrhea.
 
 Pharmacokinetic studies with clindamycin have shown no clinically important differences between young subjects (18–39 years) and elderly subjects (61–79 years) with normal hepatic function and normal (age-adjusted) renal function after oral or intravenous administration.

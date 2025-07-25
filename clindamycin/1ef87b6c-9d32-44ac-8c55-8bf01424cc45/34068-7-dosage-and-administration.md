@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-If significant diarrhea occurs during therapy, this antibiotic should be discontinued (see BOXED WARNING).
+If significant diarrhea occurs during therapy, this antibacterial drug should be discontinued (see BOXED WARNING).
 
 Concomitant administration of food does not adversely affect the absorption of clindamycin palmitate HCl contained in CLEOCIN PEDIATRIC Flavored Granules.
 
@@ -16,7 +16,7 @@ Clindamycin should be dosed based on total body weight regardless of obesity.
 Serious infections due to anaerobic bacteria are usually treated with CLEOCIN PHOSPHATE® Sterile Solution.
 However, in clinically appropriate circumstances, the physician may elect to initiate treatment or continue treatment with CLEOCIN PEDIATRIC.
 
-NOTE: In cases of β-hemolytic streptococcal infections, treatment should be continued for at least 10 days.
+NOTE: In cases of ß-hemolytic streptococcal infections, treatment should be continued for at least 10 days.
 
 Reconstitution Instructions: When reconstituted with water as follows, each 5 mL (teaspoon) of solution contains clindamycin palmitate HCl equivalent to 75 mg clindamycin.
 
