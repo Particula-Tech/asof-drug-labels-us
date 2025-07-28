@@ -2,7 +2,9 @@
 
 200 MG/ML - VIAL LABEL
 
-NDC 24338-056-01 1 mL Single-Dose Vial AZMIRO (testosterone cypionate) injection, USP CIII For intramuscular use only Rx only
+NDC 24338-056-01 1 mL Single-Dose Vial AZMIRO (testosterone cypionate) injection, USP CIII
+
+For intramuscular use only Rx only
 
 Principal Display Panel - 200 MG/ML - VIAL CARTON NDC 24338-056-01 1 mL Single-Dose Vial AZMIRO (testosterone cypionate) injection, USP CIII For intramuscular use only Rx only
 

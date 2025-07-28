@@ -7,14 +7,14 @@ Check that hematocrit is not elevated prior to initiating AZMIRO.
 Periodically monitor hematocrit levels during treatment.
 If hematocrit becomes elevated, stop AZMIRO until hematocrit decreases to an acceptable concentration.
 If AZMIRO is restarted and again causes hematocrit to become elevated, stop AZMIRO permanently.
-An increase in red blood cell mass may increase the risk of thromboembolic events [see Warnings and Precautions (5.4)].
+An increase in red blood cell mass may increase the risk of thromboembolic events [see Warnings and Precautions (5.2)].
 
-## 5.2 Cardiovascular Risk
+## 5.2 Venous Thromboembolism (VTE)
 
-Long term clinical safety trials have not been conducted to assess the cardiovascular outcomes of testosterone replacement therapy in men.
-To date, epidemiologic studies and randomized controlled trials have been inconclusive for determining the risk of major adverse cardiovascular events (MACE), such as non-fatal myocardial infarction, non- fatal stroke, and cardiovascular death, with the use of testosterone compared to non-use.
-Some studies, but not all, have reported an increased risk of MACE in association with use of testosterone replacement therapy in men.
-Inform patients of this possible risk when deciding whether to use or to continue AZMIRO.
+There have been postmarketing reports of venous thromboembolic events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), in patients using testosterone replacement products, such as AZMIRO.
+In the Testosterone Replacement therapy for Assessment of long-term Vascular Events and efficacy ResponSE in hypogonadal men (TRAVERSE) Study, a randomized, double-blind, placebo controlled, cardiovascular (CV) outcomes study, compared to placebo, topical testosterone gel was associated with a numerically higher incidence of VTE (1.7% vs 1.2%) which included DVT (0.6% vs 0.5%) and PE events (0.9% vs 0.5%) [see Adverse Reactions (6.1)].
+Evaluate patients who report symptoms of pain, edema, warmth and erythema in the lower extremity for DVT and those who present with acute shortness of breath for PE.
+If a venous thromboembolic event is suspected, discontinue treatment with AZMIRO and initiate appropriate workup and management [see Adverse Reactions (6.2)].
 
 ## 5.3 Worsening of Benign Prostatic Hyperplasia (BPH) and Potential Risk of Prostate Cancer
 
@@ -22,11 +22,15 @@ Inform patients of this possible risk when deciding whether to use or to continu
 Monitor patients with BPH for worsening signs and symptoms. • Patients treated with androgens may be at increased risk for prostate cancer.
 Evaluate patients for prostate cancer prior to initiating and during treatment with androgens [see Contraindications (4)].
 
-## 5.4 Venous Thromboembolism (VTE)
+## 5.4 Blood Pressure Increases
 
-There have been postmarketing reports of venous thromboembolic events, including deep vein thrombosis (DVT) and pulmonary embolism (PE), in patients using testosterone replacement products, such as AZMIRO.
-Evaluate patients who report symptoms of pain, edema, warmth and erythema in the lower extremity for DVT and those who present with acute shortness of breath for PE.
-If a venous thromboembolic event is suspected, discontinue treatment with AZMIRO and initiate appropriate workup and management [see Adverse Reactions (6.2)].
+Testosterone products, such as AZMIRO, can increase blood pressure.
+Blood pressure increases can increase cardiovascular (CV) risk over time.
+The CV risk associated with topical testosterone gel was evaluated in TRAVERSE, randomized, double-blind, placebo-controlled, CV outcomes study in men with a history of CV disease or multiple CV risk factors.
+In TRAVERSE, topical testosterone gel increased mean systolic blood pressure by 1.0 mm Hg from baseline to 36 months, whereas a mean decrease from baseline of 0.5 mm Hg was observed in the placebo group at this timepoint, for a mean between-group difference of 1.5 mm Hg.
+However, the incidences of major adverse cardiovascular events (MACE), including cardiovascular death, non-fatal myocardial infarction [MI] and non-fatal stroke, were similar between treatment groups (7% for topical testosterone gel vs 7.3% for placebo) [See Adverse Reactions (6.1)].
+Monitor blood pressure periodically in men using AZMIRO, especially men with hypertension.
+AZMIRO is not recommended for use in patients with uncontrolled hypertension.
 
 ## 5.5 Abuse of Testosterone and Monitoring of Serum Testosterone Concentrations
 
