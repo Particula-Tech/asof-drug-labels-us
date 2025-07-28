@@ -126,7 +126,7 @@ Adverse Reactions in Pooled, Adjunctive Trials in Adults withRefractory Complex 
 | Skin and Subcutaneous Tissue Disorders |  |  |  |
 | Rash | 4 | 5 | 4 |
 
-Pediatrics3 to 16 years of age
+Pediatrics2 to 16 years of age
 
 Table 6 lists adverse reactions from controlled clinical studies of pediatric patients receiving vigabatrin or placebo as adjunctive therapy for refractory complex partial seizures.
 Adverse reactions that are listed occurred in at least 2% of vigabatrin-treated patients and more frequently than placebo.
@@ -155,8 +155,8 @@ Adverse Reactions in Pooled, Adjunctive Trials in Pediatric Patients 3 to 16 Yea
 | Weight gain | 15 | 2 |
 | Nervous System Disorders |  |  |
 | Somnolence | 6 | 5 |
-| Tremor | 4 | 2 |
 | Nystagmus | 4 | 3 |
+| Tremor | 4 | 2 |
 | Status epilepticus | 2 | 1 |
 | Psychiatric Disorders |  |  |
 | Abnormal behavior | 7 | 6 |
@@ -216,7 +216,7 @@ Adverse Reactions in a Placebo-Controlled Trial in Patients with Infantile Spasm
 | Skin and Subcutaneous Tissue Disorders |  |  |
 | Rash | 8 | 11 |
 
-## 6.2 Post-Marketing Experience
+## 6.2 Post Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of vigabatrin.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.

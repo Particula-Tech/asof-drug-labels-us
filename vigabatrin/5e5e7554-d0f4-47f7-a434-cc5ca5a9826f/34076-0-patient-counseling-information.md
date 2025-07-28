@@ -1,8 +1,8 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Advise patients and caregivers to read the FDA-approved patient labeling (Medication Guideand Instructions for Use).
 
-Administration Instructions forVIGADRONEPowderfor Oral Solution
+Administration Instructions forVIGADRONEfor Oral Solution
 
 Physicians should confirm that caregiver(s) understand how to mix VIGADRONE for Oral Solution and to administer the correct dose to their infants and pediatric patients [see Dosage and Administration (2.5)].
 

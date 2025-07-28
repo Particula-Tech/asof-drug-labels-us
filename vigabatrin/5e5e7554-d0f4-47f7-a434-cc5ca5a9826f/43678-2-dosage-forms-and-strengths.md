@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-500 mg packets of a white to off-white granular powder.
+For oral solution 500 mg packets containing a white to off-white granular powder.

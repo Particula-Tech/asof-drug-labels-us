@@ -4,7 +4,7 @@ VIGADRONE®(vi-ga-drōne)
 
 (vigabatrin)
 
-Powderfororalsolution
+for oral solution
 
 Read this Instructions for Use before your child starts taking VIGADRONE and each time you get a refill.
 There may be new information.

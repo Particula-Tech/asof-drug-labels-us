@@ -6,7 +6,7 @@ Dosing
 
 Use the lowest dosage and shortest exposure to VIGADRONE consistent with clinical objectives [see Warnings and Precautions (5.1)].
 
-The VIGADRONE dosing regimen depends on the indication, age group, weight, and dosage form (tablets or powder for oral solution) [see Dosage and Administration (2.2,2.3)].Patients with impaired renal function require dose adjustment [see Dosage and Administration (2.4)].
+The VIGADRONE dosing regimen depends on the indication, age group, weight, and dosage form (tablets or for oral solution) [see Dosage and Administration (2.2,2.3)].Patients with impaired renal function require dose adjustment [see Dosage and Administration (2.4)].
 
 Monitoring of VIGADRONE plasma concentrations to optimize therapy is not helpful.
 
@@ -14,7 +14,7 @@ Administration
 
 VIGADRONE is given orally with or without food.
 
-VIGADRONE powder for oral solution should be mixed with water prior to administration [see Dosage and Administration (2.5)].
+VIGADRONE for oral solution should be mixed with water prior to administration [see Dosage and Administration (2.5)].
 A calibrated measuring device is recommended to measure and deliver the prescribed dose accurately.
 A household teaspoon or tablespoon is not an adequate measuring device.
 
@@ -116,9 +116,9 @@ K (proportionality constant): Female Child (<12 years): K=0.55; Male Child (<12 
 
 The effect of dialysis on VIGADRONE clearance has not been adequately studied [see Clinical Pharmacology (12.3) and Use in Specific Populations (8.6)].
 
-## 2.5Preparation and Administration Instructions forVIGADRONE Powderfor Oral Solution
+## 2.5Preparation and Administration Instructions for VIGADRONE for Oral Solution
 
-If using VIGADRONE powder for oral solution, physicians should review and discuss the Medication Guide and instructions for mixing and giving VIGADRONE with the patient or caregiver(s).
+If using VIGADRONE for oral solution, physicians should review and discuss the Medication Guide and instructions for mixing and giving VIGADRONE with the patient or caregiver(s).
 Physicians should confirm that patients or caregiver(s) understand how to mix VIGADRONE powder with water and administer the correct daily dose.
 
 Empty the entire contents of each 500 mg packet into a clean cup, and dissolve in 10 mL of cold or room temperature water per packet.

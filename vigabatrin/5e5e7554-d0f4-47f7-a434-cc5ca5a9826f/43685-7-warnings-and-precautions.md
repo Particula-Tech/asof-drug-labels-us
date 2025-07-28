@@ -78,7 +78,7 @@ In the post-marketing setting, MRI changes have also been reported in patients 6
 
 For adults treated with VIGADRONE, routine MRI surveillance is unnecessary as there is no evidence that vigabatrin causes MRI changes in this population.
 
-## 5.4 Neurotoxicity
+## 5.4Neurotoxicity
 
 Intramyelinic Edema (IME) has been reported in postmortem examination of infants being treated for infantile spasms with vigabatrin.
 
