@@ -1,14 +1,14 @@
 # DOSAGE AND ADMINISTRATION
 
-If diarrhea occurs during therapy, this antibiotic should be discontinued (see WARNING box).
+If diarrhea occurs during therapy, this antibacterial drug should be discontinued (see WARNING box).
 
 Clindamycin phosphate IM administration should be used undiluted.
 
 Clindamycin phosphate IV administration should be diluted (see Dilution for IV use and IV infusion rates below).
 
-## Adults
+## Adults:
 
-### Parenteral (IM or IV Administration)
+### Parenteral (IM or IV Administration):
 
 Serious infections due to aerobic gram-positive cocci and the more susceptible anaerobes (NOT generally including Bacteroides fragilis, Peptococcus species and Clostridium species other than Clostridium perfringens):
 
@@ -35,9 +35,9 @@ Table 2: Serum Clindamycin Levels Maintained, Rapid Infusion Rate and Maintenanc
 | Above 5 mcg/mL | 15 mg/min for 30 min | 1.00 mg/min |
 | Above 6 mcg/mL | 20 mg/min for 30 min | 1.25 mg/min |
 
-## Pediatric Patients 1 month of age to 16 years
+## Pediatric Patients 1 month of age to 16 years:
 
-### Parenteral (IM or IV) Administration
+### Parenteral (IM or IV) Administration:
 
 20 to 40 mg/kg/day in 3 or 4 equal doses.
 The higher doses would be used for more severe infections.
@@ -48,7 +48,7 @@ Parenteral therapy may be changed to oral CLEOCIN PEDIATRIC® Flavored Granules 
 
 In cases of β-hemolytic streptococcal infections, treatment should be continued for at least 10 days.
 
-## Pediatric Patients less than 1 month
+## Pediatric Patients less than 1 month:
 
 The recommended dosage is 15 to 20 mg/kg/day in 3 to 4 equal doses.
 See Table 3 regarding the dosing regimen for pediatric patients with post-menstrual age (PMA) less than or equal to 32 weeks, or greater than 32 weeks to less than or equal to 40 weeks.
@@ -61,7 +61,7 @@ Table 3: Dosing Regimens for Pediatric Patients with PMA less than or equal to 3
 | Greater than or equal to 32 to less than or equal to 40 | 7 | 8 |
 | PMA: Post-Menstrual age |  |  |
 
-## Dilution for IV use and IV Infusion Rates
+## Dilution for IV use and IV Infusion Rates:
 
 The concentration of clindamycin in diluent for infusion should not exceed 18 mg per mL.
 Infusion rates should not exceed 30 mg per minute.
@@ -78,10 +78,10 @@ Administration of more than 1200 mg in a single 1-hour infusion is not recommend
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-## Dilution and Compatibility
+## Dilution and Compatibility:
 
 Physical and biological compatibility studies monitored for 24 hours at room temperature have demonstrated no inactivation or incompatibility with the use of CLEOCIN PHOSPHATE Sterile Solution (clindamycin phosphate) in IV solutions containing sodium chloride, glucose, calcium or potassium, and solutions containing vitamin B complex in concentrations usually used clinically.
-No incompatibility has been demonstrated with the antibiotics cephalothin, kanamycin, gentamicin, penicillin or carbenicillin.
+No incompatibility has been demonstrated with the antibacterial drugs cephalothin, kanamycin, gentamicin, penicillin or carbenicillin.
 
 The following drugs are physically incompatible with clindamycin phosphate: ampicillin sodium, phenytoin sodium, barbiturates, aminophylline, calcium gluconate, and magnesium sulfate.
 
@@ -89,19 +89,19 @@ The compatibility and duration of stability of drug admixtures will vary dependi
 
 ## Physico-Chemical Stability of Diluted Solutions of CLEOCIN PHOSPHATE
 
-### Room Temperature
+### Room Temperature:
 
 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or Mini-Bag containers, demonstrated physical and chemical stability for at least 16 days at 25°C.
 Also, 18 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, in Mini-Bag containers, demonstrated physical and chemical stability for at least 16 days at 25°C.
 
-### Refrigeration
+### Refrigeration:
 
 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in glass bottles or Mini-Bag containers, demonstrated physical and chemical stability for at least 32 days at 4°C.
 
 IMPORTANT: This chemical stability information in no way indicates that it would be acceptable practice to use this product well after the preparation time.
 Good professional practice suggests that compounded admixtures should be administered as soon after preparation as is feasible.
 
-### Frozen
+### Frozen:
 
 6, 9 and 12 mg/mL (equivalent to clindamycin base) in dextrose injection 5%, sodium chloride injection 0.9%, or Lactated Ringers Injection in Mini-Bag containers demonstrated physical and chemical stability for at least eight weeks at -10°C.
 

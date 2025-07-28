@@ -4,7 +4,7 @@ The following reactions have been reported with the use of clindamycin.
 
 Infections and Infestations: Clostridioides difficile colitis
 
-Gastrointestinal: Antibiotic-associated colitis (see WARNINGS), pseudomembranous colitis, abdominal pain, nausea, and vomiting.
+Gastrointestinal: Antibacterial drug-associated colitis (see WARNINGS), pseudomembranous colitis, abdominal pain, nausea, and vomiting.
 The onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment (see WARNINGS).
 An unpleasant or metallic taste has been reported after intravenous administration of the higher doses of clindamycin phosphate.
 
@@ -13,7 +13,8 @@ Generalized mild to moderate morbilliform-like skin rashes are the most frequent
 
 Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported (see WARNINGS).
 Cases of Acute Generalized Exanthematous Pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, have been associated with clindamycin.
-Anaphylactic shock, anaphylactic reaction and hypersensitivity have also been reported (see WARNINGS).
+Anaphylactic shock, anaphylactic reaction, hypersensitivity have also been reported (see WARNINGS).
+Cutaneous vasculitis and symmetrical drug-related intertriginous and flexural exanthema have also been reported.
 
 Skin and Mucous Membranes: Pruritus, vaginitis, angioedema and rare instances of exfoliative dermatitis have been reported (see Hypersensitivity Reactions).
 
