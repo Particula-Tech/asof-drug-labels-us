@@ -86,4 +86,4 @@ Marketed by: Acerus Pharmaceuticals Corporation, Toronto, ON M4W 3E2, Canada
 Manufactured by: Haupt Pharma Amareg GmbH, Donaustaufer Str.
 378, Regensburg, Bavaria D-93055, Germany
 
-Revised: 03/2025
+Revised: 12/2021

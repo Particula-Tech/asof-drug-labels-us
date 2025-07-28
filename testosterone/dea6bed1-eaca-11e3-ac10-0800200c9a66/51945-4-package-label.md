@@ -14,11 +14,11 @@ Multi-dose pump capable of dispensing 60 metered pump actuations.
 For intranasal use only.
 
 Warning: This package is not child resistant.
-Keep out of reach of children
+Keep out of reach of children.
 
 Total Contents: 11 g / dispenser.
 
-Marketed by: Acerus Pharmaceuticals Corporation Mississauga, ON, L5N 0E8, Canada
+Marketed by: Acerus Pharmaceuticals Corporation Toronto, Ontario, M4W 3E2, Canada
 
 ACERUS PHARMA
 
