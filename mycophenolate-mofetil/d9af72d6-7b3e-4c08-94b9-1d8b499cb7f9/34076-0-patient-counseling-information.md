@@ -47,27 +47,32 @@ Inform patients that acute inflammatory reactions have been reported in some pat
 Some reactions were severe, requiring hospitalization.
 Advise patients to contact their physician if they develop fever, joint stiffness, joint pain or muscle pains [see Warnings and Precautions (5.7)].
 
-## 17.7 Immunizations
+## 17.7 Hypersensitivity Reactions
+
+Inform patients of the potential risk of hypersensitivity reactions.
+Advise patients to stop taking MYHIBBIN and seek immediate medical attention if signs or symptoms of a hypersensitivity reaction occur (such as swelling of face, lips, tongue, or throat; difficulty breathing or swallowing) [see Warnings and Precautions (5.8)].
+
+## 17.8 Immunizations
 
 Inform patients that MYHIBBIN can interfere with the usual response to immunizations.
-Before seeking vaccines on their own, advise patients to discuss first with their physician [see Warnings and Precautions (5.8)].
+Before seeking vaccines on their own, advise patients to discuss first with their physician [see Warnings and Precautions (5.9)].
 
-## 17.8 Administration Instructions
+## 17.9 Administration Instructions
 
 - Advise patients to avoid contact of the skin or mucous membranes with MYHIBBIN.
   If such contact occurs, they must wash the area of contact thoroughly with soap and water.
   In case of ocular contact, rinse eyes with plain water.
 - Advise patients to take a missed dose as soon as they remember, except if it is closer than 2 hours to the next scheduled dose; in this case they should continue to take MYHIBBIN at the usual times.
 
-## 17.9 Blood Donation
+## 17.10 Blood Donation
 
-Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of MYHIBBIN [see Warnings and Precautions (5.9)].
+Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of MYHIBBIN [see Warnings and Precautions (5.10)].
 
-## 17.10 Semen Donation
+## 17.11 Semen Donation
 
-Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of MYHIBBIN [see Warnings and Precautions (5.10)].
+Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of MYHIBBIN [see Warnings and Precautions (5.11)].
 
-## 17.11 Potential to Impair Driving and Use of Machinery
+## 17.12 Potential to Impair Driving and Use of Machinery
 
 Advise patients that MYHIBBIN can affect the ability to drive or operate machines.
-Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with MYHIBBIN [see Warnings and Precautions (5.12)].
+Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with MYHIBBIN [see Warnings and Precautions (5.13)].

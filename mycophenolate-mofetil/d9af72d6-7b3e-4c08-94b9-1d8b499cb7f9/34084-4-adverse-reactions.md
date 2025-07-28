@@ -8,6 +8,7 @@ The following adverse reactions are discussed in greater detail in other section
 - Blood Dyscrasias: Neutropenia, Pure Red Cell Aplasia [see Warnings and Precautions (5.4)]
 - Gastrointestinal Complications [see Warnings and Precautions (5.5)]
 - Acute Inflammatory Syndrome Associated with Mycophenolate Products [see Warnings and Precautions (5.7)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -17,18 +18,18 @@ An estimated total of 1557 adult patients received mycophenolate mofetil during 
 Of these, 991 were included in the three renal studies, 277 were included in one hepatic study, and 289 were included in one cardiac study.
 Patients in all study arms also received cyclosporine and corticosteroids.
 
-The data described below primarily derive from five randomized, active-controlled double-blind 12-month trials of mycophenolate mofetil in de novokidney (3) heart (1) and liver (1) transplant patients [see Clinical Studies (14.1, 14.2, and 14.3)].
+The data described below primarily derive from five randomized, active-controlled double-blind 12-month trials of mycophenolate mofetil in de novo kidney (3) heart (1) and liver (1) transplant patients [see Clinical Studies (14.1, 14.2, and 14.3)].
 
 Oral Mycophenolate Mofetil
 
 The incidence of adverse reactions for mycophenolate mofetil was determined in five randomized, comparative, double- blind trials in the prevention of rejection in kidney, heart and liver transplant patients (two active- and one placebo- controlled trials, one active-controlled trial, and one active-controlled trial, respectively) [see Clinical Studies (14.1, 14.2and 14.3)].
 
-The three de novokidney studies with 12-month duration compared two dose levels of oral mycophenolate mofetil (1 g twice daily and 1.5 g twice daily) with azathioprine (2 studies) or placebo (1 study) when administered in combination with cyclosporine (Sandimmune ®) and corticosteroids to prevent acute rejection episodes.
+The three de novo kidney studies with 12-month duration compared two dose levels of oral mycophenolate mofetil (1 g twice daily and 1.5 g twice daily) with azathioprine (2 studies) or placebo (1 study) when administered in combination with cyclosporine (Sandimmune ®) and corticosteroids to prevent acute rejection episodes.
 One study also included anti-thymocyte globulin (ATGAM ®) induction therapy.
 
-In the de novoheart transplantation study with 12-month duration, patients received mycophenolate mofetil 1.5 g twice daily (n=289) or azathioprine 1.5 to 3 mg/kg/day (n=289), in combination with cyclosporine (Sandimmune ®or Neoral ®) and corticosteroids as maintenance immunosuppressive therapy.
+In the de novo heart transplantation study with 12-month duration, patients received mycophenolate mofetil 1.5 g twice daily (n=289) or azathioprine 1.5 to 3 mg/kg/day (n=289), in combination with cyclosporine (Sandimmune ®or Neoral ®) and corticosteroids as maintenance immunosuppressive therapy.
 
-In the de novoliver transplantation study with 12-month duration, patients received mycophenolate mofetil 1.5 g twice daily orally or azathioprine 1 to 2 mg/kg/day orally, in combination with cyclosporine (Neoral ®) and corticosteroids as maintenance immunosuppressive therapy.
+In the de novo liver transplantation study with 12-month duration, patients received mycophenolate mofetil 1.5 g twice daily orally or azathioprine 1 to 2 mg/kg/day orally, in combination with cyclosporine (Neoral ®) and corticosteroids as maintenance immunosuppressive therapy.
 The total number of patients enrolled was 565.
 
 Approximately 53% of the kidney transplant patients, 65% of the heart transplant patients, and 48% of the liver transplant patients were treated for more than 1 year.
@@ -98,7 +99,7 @@ Table 1 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Live
 
 a:“-” Indicates that the incidence was below the cutoff value of 20% for inclusion in the table. b:“Edema” includes peripheral edema, facial edema, scrotal edema. c:“Pain” includes musculoskeletal pain (myalgia, neck pain, back pain).
 
-In the three de novokidney studies, patients receiving 2 g/day of mycophenolate mofetil had an overall better safety profile than did patients receiving 3 g/day of mycophenolate mofetil.
+In the three de novo kidney studies, patients receiving 2 g/day of mycophenolate mofetil had an overall better safety profile than did patients receiving 3 g/day of mycophenolate mofetil.
 
 Post-transplant lymphoproliferative disease (PTLD, pseudolymphoma) developed in 0.4% to 1% of patients receiving mycophenolate mofetil (2 g or 3 g daily) with other immunosuppressive agents in controlled clinical trials of kidney, heart and liver transplant patients followed for at least 1 year [see Warnings and Precautions (5.2)].
 Non- melanoma skin carcinomas occurred in 1.6% to 4.2% of patients, other types of malignancy in 0.7% to 2.1% of patients.
@@ -166,7 +167,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 - Digestive: Colitis, pancreatitis
 - Hematologic and Lymphatic: Bone marrow failure, cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents [see Warnings and Precautions (5.4)].
-- Immune: Hypersensitivity, hypogammaglobinemia.
+- Immune: Hypersensitivity reactions, including anaphylaxis and angioedema [see Warnings and Precautions (5.8)], hypogammaglobinemia.
 - Infections: Meningitis, infectious endocarditis, tuberculosis, atypical mycobacterial infection, progressive multifocal leukoencephalopathy, BK virus infection, viral reactivation of hepatitis B and hepatitis C, protozoal infections [see Warnings and Precautions (5.3)].
 - Respiratory: Bronchiectasis, interstitial lung disease, fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in post-transplant patients receiving mycophenolate mofetil.
-- Vascular:Lymphocele
+- Vascular: Lymphocele

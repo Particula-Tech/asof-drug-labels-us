@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Mycophenolate mofetil (MMF) is absorbed following oral administration and hydrolyzed to mycophenolic acid (MPA), the active metabolite.
-MPA is a selective uncompetitive inhibitor of the two isoforms (type I and type II) of inosine monophosphate dehydrogenase (IMPDH) leading to inhibition of the de novopathway of guanosine nucleotide synthesis and blocks DNA synthesis.
+MPA is a selective uncompetitive inhibitor of the two isoforms (type I and type II) of inosine monophosphate dehydrogenase (IMPDH) leading to inhibition of the de novo pathway of guanosine nucleotide synthesis and blocks DNA synthesis.
 The mechanism of action of MPA is multifaceted and includes effects on cellular checkpoints responsible for metabolic programming of lymphocytes.
 MPA shifts transcriptional activities in lymphocytes from a proliferative state to catabolic processes.
 In vitro studies suggest that MPA modulates transcriptional activities in human CD4+ T-lymphocytes by suppressing the Akt/mTOR and STAT5 pathways that are relevant to metabolism and survival, leading to an anergic state of T-cells whereby the cells become less responsive to antigenic stimulation.
@@ -65,7 +65,7 @@ At clinically relevant concentrations, MPA is 97% bound to plasma albumin.
 The phenolic glucuronide metabolite of MPA (MPAG) is 82% bound to plasma albumin at MPAG concentration ranges that are normally seen in stable kidney transplant patients; however, at higher MPAG concentrations (observed in patients with kidney impairment or delayed kidney graft function), the binding of MPA may be reduced as a result of competition between MPAG and MPA for protein binding.
 Mean blood to plasma ratio of radioactivity concentrations was approximately 0.6 indicating that MPA and MPAG do not extensively distribute into the cellular fractions of blood.
 
-In vitrostudies to evaluate the effect of other agents on the binding of MPA to human serum albumin (HSA) or plasma proteins showed that salicylate (at 25 mg/dL with human serum albumin) and MPAG (at ≥ 460 mcg/mL with plasma proteins) increased the free fraction of MPA.
+In vitro studies to evaluate the effect of other agents on the binding of MPA to human serum albumin (HSA) or plasma proteins showed that salicylate (at 25 mg/dL with human serum albumin) and MPAG (at ≥ 460 mcg/mL with plasma proteins) increased the free fraction of MPA.
 MPA at concentrations as high as 100 mcg/mL had little effect on the binding of warfarin, digoxin or propranolol, but decreased the binding of theophylline from 53% to 45% and phenytoin from 90% to 87%.
 
 Elimination

@@ -4,7 +4,7 @@
 
 MYHIBBIN should not be used without the supervision of a physician with experience in immunosuppressive therapy.
 
-MYHIBBIN should not be used interchangeably with mycophenolic acid delayed-release tablets without supervision of a physician with experience in immunosuppressive therapybecause the rates of absorption following the administration of MYHIBBIN and mycophenolic acid delayed-release tablets are not equivalent.
+MYHIBBIN should not be used interchangeably with mycophenolic acid delayed-release tablets without supervision of a physician with experience in immunosuppressive therapy because the rates of absorption following the administration of MYHIBBIN and mycophenolic acid delayed-release tablets are not equivalent.
 
 Patients should avoid contact of the skin or mucous membranes with MYHIBBIN.
 If such contact occurs, they must wash the area of contact thoroughly with soap and water.
