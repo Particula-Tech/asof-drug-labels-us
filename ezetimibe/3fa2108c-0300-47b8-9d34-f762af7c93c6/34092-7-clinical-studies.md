@@ -3,7 +3,6 @@
 ## 14.1 Primary Hyperlipidemia Trials in Adults
 
 The efficacy of NEXLIZET was investigated in a single, multi-center, randomized, double-blind, placebo-controlled, parallel group trial that enrolled 301 patients with HeFH, established CVD, or multiple risk factors for CVD on maximally tolerated statin therapy.
-The efficacy of NEXLIZET in patients with multiple risk factors for cardiovascular disease has not been established.
 
 Trial 1 (NCT03337308) was a 4-arm, 12-week trial that assessed the efficacy of NEXLIZET in 301 patients randomized 2:2:2:1 to receive either oral NEXLIZET (180 mg of bempedoic acid and 10 mg of ezetimibe) (n = 86), bempedoic acid 180 mg (n = 88), ezetimibe 10 mg (n = 86), or placebo (n = 41) once daily as add-on to maximally tolerated statin therapy.
 Patients were stratified by cardiovascular risk and baseline statin intensity.

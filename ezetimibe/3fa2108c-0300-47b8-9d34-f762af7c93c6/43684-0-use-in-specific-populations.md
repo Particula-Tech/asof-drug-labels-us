@@ -58,21 +58,23 @@ Bempedoic acid in combination with ezetimibe did not alter the effects on embryo
 
 Risk Summary
 
-There is no information regarding the presence of bempedoic acid in human or animal milk, the effects of the drug on the breastfed infant, or the effects of the drug on milk production.
-There is no information about the presence of ezetimibe in human milk.
-Ezetimibe is present in rat milk (see Data).
-When a drug is present in animal milk, it is likely that the drug will be present in human milk.
-There is no information about the effects of ezetimibe on the breastfed infant or the effects of ezetimibe on milk production.
+Bempedoic acid and ezetimibe have been detected in breast milk of lactating women who received six consecutive daily doses of 180 mg bempedoic acid plus 10 mg of ezetimibe administered as a single tablet.
+The mean daily infant dose through breastmilk was approximately 0.03 mg/day (95% CI: 0.01; 0.06) for bempedoic acid and 0.0002 mg/day (95% CI: 0.0001; 0.0003) for ezetimibe.
+A mean calculated daily infant oral dosage was 0.0109 mg/kg/day for bempedoic acid and 0.0001 mg/kg/day for ezetimibe, based on a standard infant milk intake of 150 mL/kg/day.
+The mean (SD) relative infant dose (RID) was approximately 0.5(0.29)% for bempedoic acid and 0.04 (0.01)% for ezetimibe of the corresponding maternal weight-adjusted dosages (see Data).
+Concentrations of ESP15228, the active metabolite of bempedoic acid, in breast milk were below the limit of quantitation (20 ng/mL) in 7 of 8 subjects studied.
+Mean amounts of 0.0010 mg ezetimibe-glucuronide, the active metabolite of ezetimibe, were recovered in breast milk during the 24 hours following the final 180 mg/10 mg maternal dose.
+There is no information regarding the effects of NEXLIZET on the breastfed infant, or the effects on milk production.
 
 NEXLIZET decreases cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol and may cause harm to the breastfed infant.
-Because of the potential for serious adverse reactions in a breastfed infant, based on the mechanism of action, advise patients that breastfeeding is not recommended during treatment with NEXLIZET [see Use in Specific Populations (8.1), Clinical Pharmacology (12.1)].
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for NEXLIZET and any potential adverse effects on the breastfed infant from NEXLIZET or from the underlying maternal condition [see Clinical Pharmacology (12.1)].
 
 Data
 
-Animal Data
-
-Ezetimibe was present in the milk of lactating rats.
-The pup to maternal plasma ratio for total ezetimibe was 0.5 on lactation day 12.
+A lactation study in 8 healthy lactating women evaluated the concentrations of bempedoic acid and ezetimibe in mature breast milk.
+NEXLIZET 180 mg/10 mg oral tablet was given once daily for six consecutive days.
+The geometric mean estimates of bempedoic acid and ezetimibe Cmax in breast milk were 107.5 ng/mL (range: 56 to 234 ng/mL) and 0.630 ng/mL (range: 0.300 to 1.1 ng/mL), respectively.
+Maximum bempedoic acid and ezetimibe excretion occurred within 3 hours after dosing.
 
 ## 8.4 Pediatric Use
 
@@ -82,11 +84,6 @@ The safety and effectiveness of NEXLIZET have not been established in pediatric 
 
 Of the 301 patients in the clinical trial of NEXLIZET, 149 (50%) were 65 years of age and older, while 49 (16%) were 75 years of age and over.
 No overall differences in safety or effectiveness of NEXLIZET have been observed between patients 65 years of age and older and younger adult patients.
-
-## 8.6 Renal Impairment
-
-No dosage adjustment is necessary in patients with mild or moderate renal impairment.
-There is limited experience with bempedoic acid in patients with severe renal impairment (eGFR < 30mL/min/1.73 m2), and bempedoic acid has not been studied in patients with end-stage renal disease (ESRD) receiving dialysis [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 

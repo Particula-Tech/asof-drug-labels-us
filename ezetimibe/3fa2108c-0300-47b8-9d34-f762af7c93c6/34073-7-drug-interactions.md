@@ -20,5 +20,5 @@ Clinically Important Drug Interactions with NEXLIZET
 | Clinical Impact: | Both fenofibrate and ezetimibe may increase cholesterol excretion into the bile, leading to cholelithiasis. Coadministration of NEXLIZET with fibrates other than fenofibrate is not recommended [see Adverse Reactions (6.1)]. |
 | Intervention: | If cholelithiasis is suspected in a patient receiving NEXLIZET and fenofibrate, gallbladder studies are indicated and alternative lipid-lowering therapy should be considered. |
 | Cholestyramine |  |
-| Clinical Impact: | Concomitant use of NEXLIZET and cholestyramine decreases ezetimibe concentration. This may result in a reduction of efficacy. [see Clinical Pharmacology (12.3)] |
+| Clinical Impact: | Concomitant use of NEXLIZET and cholestyramine decreases ezetimibe concentration. This may result in a reduction of efficacy [see Clinical Pharmacology (12.3)]. |
 | Intervention: | Administer NEXLIZET either at least 2 hours before or at least 4 hours after bile acid sequestrants [see Dosage and Administration (2.2)]. |

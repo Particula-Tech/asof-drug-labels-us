@@ -129,20 +129,11 @@ Patients with Renal Impairment
 
 Bempedoic acid
 
-Pharmacokinetics of bempedoic acid was evaluated in a single-dose pharmacokinetic study in subjects with varying degrees of renal function.
-The mean bempedoic acid AUC in subjects with mild renal impairment (n = 8) were 1.5-fold higher compared to those with normal renal function (n = 6).
-Relative to those with normal renal function, mean bempedoic acid AUCs were higher in patients with moderate (n = 5) or severe (n = 5) renal impairment by 2.3-fold and 2.4-fold, respectively.
-
-A population pharmacokinetic analysis was performed on pooled data from all clinical trials (n = 2,261) to further evaluate the effects of renal function on the steady-state AUC of bempedoic acid.
-Compared to patients with normal renal function, the mean bempedoic acid exposures were higher in patients with mild or moderate renal impairment by 1.4-fold (90% CI: 1.3, 1.4) and 1.9-fold (90% CI: 1.7, 2.0), respectively.
-These differences were not clinically significant.
-Clinical studies of bempedoic acid did not include patients with severe renal impairment (eGFR <30 mL/min/1.73 m2) or patients with ESRD on dialysis [see Use in Specific Populations (8.6)].
+No clinically significant differences in the pharmacokinetics of bempedoic acid were observed in subjects with renal impairment (mild, moderate, and severe renal impairment or renal failure) compared to those with normal renal function.
 
 Ezetimibe
 
-After a single 10 mg dose of ezetimibe in patients with severe renal disease (n = 8; mean CrCl ≤ 30 mL/min/1.73 m2), the mean AUC for total ezetimibe, ezetimibe-glucuronide, and ezetimibe increased approximately 1.5-fold, compared to healthy subjects (n = 9).
-No dosage adjustment is necessary for the ezetimibe component.
-However, there is limited experience with bempedoic acid in patients with severe renal impairment [see Use in Specific Populations (8.6)].
+No clinically significant differences in the pharmacokinetics of ezetimibe were observed in subjects with severe renal impairment compared to those with normal renal function.
 
 Patients with Hepatic Impairment
 
@@ -150,12 +141,8 @@ NEXLIZET is not recommended in patients with moderate or severe hepatic impairme
 
 Bempedoic acid
 
-The pharmacokinetics of bempedoic acid and its metabolite (ESP15228) was studied in patients with normal hepatic function or mild or moderate hepatic impairment (Child-Pugh A or B) following a single dose (n = 8/group).
-Compared to patients with normal hepatic function, the bempedoic acid mean Cmax and AUC were decreased by 11% and 22%, respectively, in patients with mild hepatic impairment and by 14% and 16%, respectively, in patients with moderate hepatic impairment.
-Compared to patients with normal hepatic function, the ESP15228 mean Cmax and AUC were decreased by 13% and 23%, respectively, in patients with mild hepatic impairment and by 24% and 36%, respectively, in patients with moderate hepatic impairment.
-This is not expected to result in lower efficacy.
-
-Bempedoic acid was not studied in patients with severe hepatic impairment (Child-Pugh C).
+No clinically significant differences in the pharmacokinetics of bempedoic acid and its metabolite (ESP15228) were observed in subjects with mild or moderate hepatic impairment (Child-Pugh A or B) compared to those with normal hepatic function.
+The effect of severe hepatic impairment (Child-Pugh C) on bempedoic acid pharmacokinetics is unknown.
 
 Ezetimibe
 
