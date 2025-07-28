@@ -77,8 +77,13 @@ Before taking PAXIL, tell your healthcare provider about all your medical condit
 - have kidney or liver problems
 - are pregnant or plan to become pregnant.
   PAXIL may harm your unborn baby.
-  Talk to your healthcare provider about the risks to your unborn baby if you take PAXIL during pregnancy.
-  Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with PAXIL.
+  - Taking PAXIL during your first trimester of pregnancy may cause your baby to be at an increased risk of having a heart problem (cardiac malformations) at birth.
+  - Taking PAXIL during your third trimester of pregnancy may cause your baby to have breathing, temperature, and feeding problems, low muscle tone, and irritability after birth and may cause your baby to be at an increased risk of a serious lung problem at birth.
+    Talk to your healthcare provider about the risk to your unborn baby if you take PAXIL during pregnancy.
+  - Tell your healthcare provider right away if you become pregnant or think you are pregnant during treatment with PAXIL.
+  - There is a pregnancy registry for females who are exposed to PAXIL during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to PAXIL and their baby.
+    If you become pregnant during treatment with PAXIL talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants at 1-866-961-2388 or visit online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/.
 - are breastfeeding or plan to breastfeed.
   PAXIL passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby during treatment with PAXIL.
@@ -279,4 +284,4 @@ For more information about PAXIL call 1-800-706-5575.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 12/2023
+Revised: 11/2024

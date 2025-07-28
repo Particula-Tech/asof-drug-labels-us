@@ -49,13 +49,10 @@ If concomitant use of PAXIL with other serotonergic drugs is clinically warrante
 The CYP2D6 inhibitory properties of paroxetine can elevate plasma levels of thioridazine and pimozide.
 Since thioridazine and pimozide given alone produce prolongation of the QTc interval and increase the risk of serious ventricular arrhythmias, the use of PAXIL is contraindicated in combination with thioridazine and pimozide [see Contraindications (4), Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-## 5.4 Embryofetal and Neonatal Toxicity
+## 5.4 Embryofetal Toxicity
 
-PAXIL can cause fetal harm when administered to a pregnant woman.
-Epidemiological studies have shown that infants exposed to paroxetine in the first trimester of pregnancy have an increased risk of cardiovascular malformations.
-Exposure to paroxetine in late pregnancy may lead to an increased risk for persistent pulmonary hypertension of the newborn (PPNH) and/or neonatal complications requiring prolonged hospitalization, respiratory support, and tube feeding.
-
-If PAXIL is used during pregnancy, or if the patient becomes pregnant while taking PAXIL, the patient should be apprised of the potential hazard to the fetus [see Use in Specific Populations (8.1)].
+Based on meta-analyses of epidemiological studies, exposure to paroxetine in the first trimester of pregnancy is associated with a less than 2-fold increase in the rate of cardiovascular malformations among infants.
+For women who intend to become pregnant or who are in their first trimester of pregnancy, PAXIL, should be initiated only after consideration of the other available treatment options [see Use in Specific Populations (8.1)].
 
 ## 5.5 Increased Risk of Bleeding
 

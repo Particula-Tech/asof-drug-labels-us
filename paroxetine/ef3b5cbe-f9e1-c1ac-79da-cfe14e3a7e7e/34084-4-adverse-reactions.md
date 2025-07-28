@@ -5,7 +5,7 @@ The following adverse reactions are included in more detail in other sections of
 - Hypersensitivity reactions to paroxetine [see Contraindications (4)]
 - Suicidal Thoughts and Behaviors [see Warnings and Precautions (5.1)]
 - Serotonin Syndrome [see Warnings and Precautions (5.2)]
-- Embryofetal and Neonatal Toxicity [see Warnings and Precautions (5.4)]
+- Embryofetal Toxicity [see Warnings and Precautions (5.4)]
 - Increased Risk of Bleeding [see Warnings and Precautions (5.5)]
 - Activation of Mania/Hypomania [see Warnings and Precautions (5.6)]
 - Discontinuation Syndrome [see Warnings and Precautions (5.7)]
@@ -221,7 +221,7 @@ Adverse Reactions (≥2% of PAXIL-Treated Patients and Greater than Placebo) in 
 | PAXIL (n = 735) % | Placebo (n = 529) % | PAXIL (n = 576) % | Placebo (n = 504) % |  |
 | Body as a Whole |  |  |  |  |
 | Asthenia | 14 | 6 | 12 | 4 |
-| Headache | 7 | 14 | --- | --- |
+| Headache | 17 | 14 | --- | --- |
 | Infection | 6 | 3 | 5 | 4 |
 | Abdominal Pain |  |  | 4 | 3 |
 | Trauma |  |  | 6 | 5 |
@@ -241,7 +241,7 @@ Adverse Reactions (≥2% of PAXIL-Treated Patients and Greater than Placebo) in 
 | Insomnia | 11 | 8 | 12 | 11 |
 | Somnolence | 15 | 5 | 16 | 5 |
 | Dizziness | 6 | 5 | 6 | 5 |
-| Tremor | 5 | 5 | 1 | 4 |
+| Tremor | 5 | 1 | 4 | 1 |
 | Nervousness | 4 | 3 | --- | --- |
 | Libido Decreased | 9 | 2 | 5 | 2 |
 | Abnormal Dreams |  |  | 3 |  |

@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of PAXIL in the treatment of MDD, SAD, OCD\, PD, GAD, and PTSD is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5‑hydroxy‑tryptamine, 5‑HT).
+The mechanism of action of PAXIL in the treatment of MDD, SAD, OCD, PD, GAD, and PTSD is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5‑hydroxy‑tryptamine, 5‑HT).
 
 ## 12.2 Pharmacodynamics
 
@@ -78,7 +78,7 @@ While this interaction has not been formally studied, it is recommended that the
 Drugs Metabolized by Cytochrome CYP3A4
 
 An in vivo interaction study involving the coadministration under steady-state conditions of paroxetine and terfenadine, a substrate for CYP3A4, revealed no effect of paroxetine on terfenadine pharmacokinetics.
-In addition, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for this enzyme, including terfenadine, astemizole, cisapride, triazolam, and cyclosporine.
+In addition, in vitro studies have shown ketoconazole, a potent inhibitor of CYP3A4 activity, to be at least 100 times more potent than paroxetine as an inhibitor of the metabolism of several substrates for this enzyme, including terfenadine, triazolam, and cyclosporine.
 Paroxetine’s extent of inhibition of CYP3A4 activity is not expected to be of clinical significance.
 
 Specific Populations
