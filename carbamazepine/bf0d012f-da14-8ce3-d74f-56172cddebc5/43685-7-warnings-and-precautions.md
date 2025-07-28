@@ -237,7 +237,7 @@ Interference with some pregnancy tests has been reported.
 ## Drug Interactions
 
 There has been a report of a patient who passed an orange rubbery precipitate in his stool the day after ingesting tegretol suspension immediately followed by Thorazine®* solution.
-Subsequent testing has shown that mixing tegretol suspension and tegretol solution (both generic and brand name) as well as carbamazepine suspension and liquid Mellaril®, resulted in the occurrence of this precipitate.
+Subsequent testing has shown that mixing tegretol suspension and chlorpromazine solution (both generic and brand name) as well as carbamazepine suspension and liquid Mellaril®, resulted in the occurrence of this precipitate.
 Because the extent to which this occurs with other liquid medications is not known, tegretol suspension should not be administered simultaneously with other liquid medicinal agents or diluents (see DOSAGE AND ADMINISTRATION).
 
 Clinically meaningful drug interactions have occurred with concomitant medications and include (but are not limited to) the following:

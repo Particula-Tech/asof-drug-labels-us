@@ -18,6 +18,3 @@ All registered trademarks in this document are the property of their respective 
 APOTEX INC. CARBAMAZEPINE TABLETS, USP 200 mg
 
 Manufactured by Manufactured for Apotex Inc. Apotex Corp. Toronto, Ontario Weston, Florida Canada M9L 1T9 USA, 33326
-
-Rev.
-17
