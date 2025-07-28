@@ -1,4 +1,4 @@
-~QZ#169;Copyright 2023 United Therapeutics Corp. All rights reserved.
+©Copyright 2023 United Therapeutics Corp. All rights reserved.
 
 REMODULIN manufactured for:
 

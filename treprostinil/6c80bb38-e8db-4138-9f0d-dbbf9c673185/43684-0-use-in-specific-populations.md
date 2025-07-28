@@ -41,7 +41,7 @@ There are no data on the presence of treprostinil in human milk, the effects on 
 ## 8.4 Pediatric Use
 
 Safety and effectiveness in pediatric patients have not been established.
-Clinical studies of Remodulin did not include sufficient numbers of patients aged ~QZ#8804;16 years to determine whether they respond differently from older patients.
+Clinical studies of Remodulin did not include sufficient numbers of patients aged ≤16 years to determine whether they respond differently from older patients.
 
 ## 8.5 Geriatric Use
 
