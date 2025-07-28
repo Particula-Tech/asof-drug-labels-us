@@ -5,4 +5,4 @@ Rx only
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0040-28.0 Revised: 8/2024
+LAB-0040-29.0 Revised: 6/2025

@@ -14,7 +14,7 @@ Hypersensitivity Reactions: Generalized mild to moderate morbilliform-like (macu
 Vesiculobullous rashes, as well as urticaria, have been observed during drug therapy.
 
 Severe skin reactions such as Toxic Epidermal Necrolysis, some with fatal outcome, have been reported (See WARNINGS).
-Cases of Acute Generalized Exanthematous Pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, anaphylactic shock, anaphylactic reaction and hypersensitivity have also been reported.
+Cases of Acute Generalized Exanthematous Pustulosis (AGEP), erythema multiforme, some resembling Stevens-Johnson syndrome, anaphylactic shock, anaphylactic reaction, cutaneous vasculitis, symmetrical drug-related intertriginous and flexural exanthema, and hypersensitivity have also been reported.
 
 Skin and Mucous Membranes: Pruritus, vaginitis, angioedema and rare instances of exfoliative dermatitis have been reported (See Hypersensitivity Reactions).
 
