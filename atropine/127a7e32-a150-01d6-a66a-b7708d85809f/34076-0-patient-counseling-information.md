@@ -10,7 +10,7 @@ Advise patients that drops will sting upon instillation and advise patients that
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA 33326 |
 
-Revised: August 2021
+Revised: July 2025
 
 Rev.
 3
