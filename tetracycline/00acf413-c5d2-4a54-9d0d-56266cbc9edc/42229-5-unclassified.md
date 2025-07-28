@@ -10,4 +10,4 @@ Manufactured by: Cohance Lifesciences Limited Plot No. A-19/C, A-23A & A-23B, Ro
 
 Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922
 
-Revised: 02/24
+Revised: 06/25

@@ -9,7 +9,7 @@ Most of the patients were reported to have taken medication immediately before g
 Teeth: permanent discoloration of teeth may be caused during tooth development.
 Enamel hypoplasia has been reported (see WARNINGS).
 
-Skin: maculopapular and erythrematous rashes.
+Skin: fixed drug eruption, maculopapular and erythematous rashes.
 Exfoliative dermatitis has been reported.
 Onycholysis and discoloration of the nails have been reported.
 Photosensitivity is discussed in WARNINGS.

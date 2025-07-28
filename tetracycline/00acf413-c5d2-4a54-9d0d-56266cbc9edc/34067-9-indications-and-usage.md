@@ -8,7 +8,7 @@ Tetracycline is indicated in the treatment of infections caused by susceptible s
 
 - Upper respiratory tract infections caused by Streptococcus pyogenes, Streptococcus pneumoniae and Hemophilus influenzae.
   Note: Tetracycline should not be used for streptococcal disease unless the organism has been demonstrated to be susceptible.
-- Lower respiratory tract infections caused by Streptococcus pyogenes, Streptococcus pneumoniae, Mycoplasma pneumoniae (Eaton agent, and Klebsiella sp.)
+- Lower respiratory tract infections caused by Streptococcus pyogenes, Streptococcus pneumoniae, Mycoplasma pneumoniae (Eaton agent, and Klebsiella sp.).
 - Skin and soft tissue infections caused by Streptococcus pyogenes, Staphylococcus aureaus.
   (Tetracyclines are not the drugs of choice in the treatment of any type of staphylococcal infections.)
 - Infections caused by rickettsia including Rocky Mountain spotted fever, typhus group infections, Q fever, rickettsialpox.

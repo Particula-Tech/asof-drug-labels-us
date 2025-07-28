@@ -26,13 +26,18 @@ Photosensitivity manifested by an exaggerated sunburn reaction has been observed
 Advise patients apt to be exposed to direct sunlight or ultraviolet lights that this reaction can occur with tetracycline drugs.
 Discontinue treatment at the first evidence of skin erythema.
 
+## Fixed Drug Eruption
+
+Fixed drug eruptions have occurred with tetracycline and have been associated with worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption (see ADVERSE REACTIONS).
+If severe skin reactions occur, discontinue tetracycline hydrochloride capsules immediately and institute appropriate therapy.
+
 ## Intracranial Hypertension
 
 Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including Achromycin V. Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
 Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline associated IH.
 Concomitant use of isotretinoin and tetracycline should be avoided because isotretinoin, a systemic retinoid, is also known to cause pseudotumor cerebri.
 
-Although IH typically resolve after discontinuation of treatment, the possibility for permanent visual loss exists.
+Although IH typically resolves after discontinuation of treatment, the possibility for permanent visual loss exists.
 If visual disturbance occurs during treatment, prompt ophthalmologic evaluation is warranted.
 Since intracranial pressure can remain elevated for weeks after drug cessation patients should be monitored until they stabilize.
 
@@ -87,8 +92,6 @@ In sexually transmitted infections, when coexistent syphilis is suspected, perfo
 Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracycline in conjunction with penicillin or other bactericidal antibacterials.
 
 Because the tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage.
-
-The concurrent use of tetracycline and methoxyflurane has been reported to result in fatal renal toxicity.
 
 Absorption of tetracyclines is impaired by antacids containing aluminum, calcium or magnesium and preparations containing iron, zinc, or sodium bicarbonate.
 
