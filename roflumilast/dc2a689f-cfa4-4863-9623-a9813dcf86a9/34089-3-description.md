@@ -3,7 +3,7 @@
 The active ingredient in roflumilast tablets is roflumilast.
 Roflumilast and its active metabolite (roflumilast N-oxide) are selective phosphodiesterase 4 (PDE4) inhibitors.
 The chemical name of roflumilast is N-(3,5-dichloropyridin-4-yl)-3-cyclopropylmethoxy-4-difluoromethoxy-benzamide.
-Its molecular formula is C 17H 14Cl 2F 2N 2O 3 and the molecular weight is 403.22.
+Its molecular formula is C 17H 14Cl 2F 2N 2O 3and the molecular weight is 403.22.
 
 The chemical structure is:
 

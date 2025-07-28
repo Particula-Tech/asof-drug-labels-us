@@ -8,12 +8,10 @@ This information does not take the place of talking with your healthcare provide
 
 What is the most important information I should know about roflumilast tablets?
 
-Roflumilast tablets can cause serious side effects.
-Tell your healthcare provider right away if you have any of the symptoms listed below while taking roflumilast tablets.
+Roflumilast tablets can cause serious side effects.Tell your healthcare provider right away if you have any of the symptoms listed below while taking roflumilast tablets.
 
 1.
-Roflumilast tablets may cause mental health problems including suicidal thoughts and behavior.
-Some people taking roflumilast tablets may develop mood or behavior problems including:
+Roflumilast tablets may cause mental health problems including suicidal thoughts and behavior.Some people taking roflumilast tablets may develop mood or behavior problems including:
 
 - thoughts of suicide or dying
 - attempt to commit suicide
@@ -24,22 +22,19 @@ Some people taking roflumilast tablets may develop mood or behavior problems inc
 - other unusual changes in your behavior or mood
 
 2.
-Weight loss.
-Roflumilast tablets can cause weight loss.
+Weight loss.Roflumilast tablets can cause weight loss.
 You should check your weight on a regular basis.
 You will also need to see your healthcare provider regularly to have your weight checked.
 If you notice that you are losing weight, call your healthcare provider.
 Your healthcare provider may ask you to stop taking roflumilast tablets if you lose too much weight.
 
-Roflumilast tablets may affect the way other medicines work, and other medicines may affect how roflumilast tablets works.
-Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
+Roflumilast tablets may affect the way other medicines work, and other medicines may affect how roflumilast tablets works.Tell your healthcare provider about all the medicines you take, including prescription and non-prescription medicines, vitamins, and herbal supplements.
 
 What are roflumilast tablets?
 
 Roflumilast tablets are a prescription medicine used in adults with severe Chronic Obstructive Pulmonary Disease (COPD) to decrease the number of flare-ups or the worsening of COPD symptoms (exacerbations).
 
-Roflumilast tablets are not a bronchodilator and should not be used for treating sudden breathing problems.
-Your healthcare provider may give you other medicine to use for sudden breathing problems.
+Roflumilast tablets are not a bronchodilator and should not be used for treating sudden breathing problems.Your healthcare provider may give you other medicine to use for sudden breathing problems.
 
 It is not known if roflumilast tablets are safe and effective in children.
 
@@ -117,9 +112,9 @@ For more information about roflumilast tablets call 1-855-839-8195.
 
 What are the ingredients in roflumilast tablets?
 
-Active ingredient: roflumilast
+Active ingredient:roflumilast
 
-Inactive ingredients: hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, and maize starch.
+Inactive ingredients:hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, and maize starch.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 

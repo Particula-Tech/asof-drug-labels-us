@@ -18,8 +18,8 @@ Absorption
 
 The absolute bioavailability of roflumilast following a 500 mcg oral dose is approximately 80%.
 Maximum plasma concentrations (C max) of roflumilast typically occur approximately one hour after dosing (ranging from 0.5 to 2 hours) in the fasted state while plateau-like maximum concentrations of the N-oxide metabolite are reached in approximately eight hours (ranging from 4 to 13 hours).
-Food has no effect on total drug absorption, but delays time to maximum concentration (T max) of roflumilast by one hour and reduces C max by approximately 40%, however, C max and T max of roflumilast N-oxide are unaffected.
-An in vitro study showed that roflumilast and roflumilast N-oxide did not inhibit P-gp transporter.
+Food has no effect on total drug absorption, but delays time to maximum concentration (T max) of roflumilast by one hour and reduces C maxby approximately 40%, however, C maxand T maxof roflumilast N-oxide are unaffected.
+An in vitrostudy showed that roflumilast and roflumilast N-oxide did not inhibit P-gp transporter.
 
 Distribution
 
@@ -37,10 +37,10 @@ Other conjugated metabolites such as roflumilast N-oxide glucuronide and 4-amino
 
 While roflumilast is three times more potent than roflumilast N-oxide at inhibition of the PDE4 enzyme in vitro, the plasma AUC of roflumilast N-oxide on average is about 10-fold greater than the plasma AUC of roflumilast.
 
-In vitro studies and clinical drug-drug interaction studies suggest that the biotransformation of roflumilast to its N-oxide metabolite is mediated by CYP1A2 and 3A4.
-Based on further in vitro results in human liver microsomes, therapeutic plasma concentrations of roflumilast and roflumilast N-oxide do not inhibit CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4/5, or 4A9/11.
+In vitrostudies and clinical drug-drug interaction studies suggest that the biotransformation of roflumilast to its N-oxide metabolite is mediated by CYP1A2 and 3A4.
+Based on further in vitroresults in human liver microsomes, therapeutic plasma concentrations of roflumilast and roflumilast N-oxide do not inhibit CYP1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, 3A4/5, or 4A9/11.
 Therefore, there is a low probability of relevant interactions with substances metabolized by these P450 enzymes.
-In addition, in vitro studies demonstrated no induction of the CYP 1A2, 2A6, 2C9, 2C19, or 3A4/5 and only a weak induction of CYP2B6 by roflumilast.
+In addition, in vitrostudies demonstrated no induction of the CYP 1A2, 2A6, 2C9, 2C19, or 3A4/5 and only a weak induction of CYP2B6 by roflumilast.
 
 Elimination
 
@@ -55,19 +55,19 @@ Hepatic Impairment
 
 Roflumilast 250 mcg once daily for 14 days was studied in subjects with mild-to-moderate hepatic impairment classified as Child-Pugh A and B (8 subjects in each group).
 The AUC of roflumilast and roflumilast N-oxide were increased by 51% and 24%, respectively in Child-Pugh A subjects and by 92% and 41%, respectively, in Child-Pugh B subjects, as compared to age-, weight-, and gender-matched healthy subjects.
-The C max of roflumilast and roflumilast N-oxide were increased by 3% and 26%, respectively, in Child-Pugh A subjects and by 26% and 40%, respectively in Child-Pugh B subjects, as compared to healthy subjects.
+The C maxof roflumilast and roflumilast N-oxide were increased by 3% and 26%, respectively, in Child-Pugh A subjects and by 26% and 40%, respectively in Child-Pugh B subjects, as compared to healthy subjects.
 Roflumilast 500 mcg has not been studied in hepatically impaired patients.
 Clinicians should consider the risk-benefit of administering roflumilast to patients who have mild liver impairment (Child-Pugh A). Roflumilast is not recommended for use in patients with moderate or severe liver impairment (Child-Pugh B or C) [see Contraindications (4) and Use in Specific Populations (8.6)].
 
 Renal Impairment
 
-In twelve subjects with severe renal impairment administered a single dose of 500 mcg roflumilast, roflumilast and roflumilast N-oxide AUCs were decreased by 21% and 7%, respectively and C max were reduced by 16% and 12%, respectively.
+In twelve subjects with severe renal impairment administered a single dose of 500 mcg roflumilast, roflumilast and roflumilast N-oxide AUCs were decreased by 21% and 7%, respectively and C maxwere reduced by 16% and 12%, respectively.
 No dosage adjustment is necessary for patients with renal impairment [see Use in Specific Populations (8.7)].
 
 Age
 
 Roflumilast 500 mcg once daily for 15 days was studied in young, middle aged, and elderly healthy subjects.
-The exposure in elderly (> 65 years of age) were 27% higher in AUC and 16% higher in C max for roflumilast and 19% higher in AUC and 13% higher in C max for roflumilast-N-oxide than that in young volunteers (18 to 45 years old).
+The exposure in elderly (> 65 years of age) were 27% higher in AUC and 16% higher in C maxfor roflumilast and 19% higher in AUC and 13% higher in C maxfor roflumilast-N-oxide than that in young volunteers (18 to 45 years old).
 No dosage adjustment is necessary for elderly patients [see Use in Specific Populations (8.5)].
 
 Gender
@@ -78,7 +78,7 @@ No dosage adjustment is necessary based on gender.
 Smoking
 
 The pharmacokinetics of roflumilast and roflumilast N-oxide were comparable in smokers as compared to non-smokers.
-There was no difference in C max between smokers and non-smokers when roflumilast 500 mcg was administered as a single dose to 12 smokers and 12 non- smokers.
+There was no difference in C maxbetween smokers and non-smokers when roflumilast 500 mcg was administered as a single dose to 12 smokers and 12 non- smokers.
 The AUC of roflumilast in smokers was 13% less than that in non-smokers while the AUC of roflumilast N-oxide in smokers was 17% more than that in non-smokers.
 
 Race
@@ -96,29 +96,29 @@ The effect of concomitant drugs on the exposure of roflumilast and roflumilast N
 
 Figure 1.
 Effect of concomitant drugs on the exposure of roflumilast and roflumilast N-oxide.
-Note that the dashed lines indicate the lower and higher bounds (0.8 to 1.25) of the 90% confidence interval of the geometric mean ratio of C max or AUC for roflumilast or roflumilast N-oxide for Treatment (Roflumilast+Coadministered Drug) vs. Reference (roflumilast).
+Note that the dashed lines indicate the lower and higher bounds (0.8 to 1.25) of the 90% confidence interval of the geometric mean ratio of C maxor AUC for roflumilast or roflumilast N-oxide for Treatment (Roflumilast+Coadministered Drug) vs. Reference (roflumilast).
 The dosing regimens of coadministered drugs was: Midazolam: 2 mg po SD; Erythromycin: 500 mg po TID; Ketoconazole: 200 mg po BID; Rifampicin: 600 mg po QD; Fluvoxamine: 50 mg po QD; Digoxin: 250 mcg po SD; Maalox: 30 mL po SD; Salbutamol: 0.2 mg po TID; Cimetidine: 400 mg po BID; Formoterol: 40 mcg po BID; Budesonide: 400 mcg po BID; Theophylline: 375 mg po BID; Warfarin: 250 mg po SD; Enoxacin: 400 mg po BID; Sildenafil: 100 mg SD; Minulet (combination oral contraceptive): 0.075 mg gestodene/0.03 mg ethinylestradiol po QD; Montelukast: 10 mg po QD.
 
 Drug interactions considered to be significant are described in more detail below [see Warnings and Precautions (5.4) and Drug Interactions (7)].
 
 Inhibitors of CYP3A4 and CYP1A2:
 
-Erythromycin: In an open-label crossover study in 16 healthy volunteers, the coadministration of CYP3A4 inhibitor erythromycin (500 mg three times daily for 13 days) with a single oral dose of 500 mcg roflumilast resulted in 40% and 70% increase in C max and AUC for roflumilast, respectively, and a 34% decrease and a 4% increase in C max and AUC for roflumilast N-oxide, respectively.
+Erythromycin: In an open-label crossover study in 16 healthy volunteers, the coadministration of CYP3A4 inhibitor erythromycin (500 mg three times daily for 13 days) with a single oral dose of 500 mcg roflumilast resulted in 40% and 70% increase in C maxand AUC for roflumilast, respectively, and a 34% decrease and a 4% increase in C maxand AUC for roflumilast N-oxide, respectively.
 
-Ketoconazole: In an open-label crossover study in 16 healthy volunteers, the coadministration of a strong CYP3A4 inhibitor ketoconazole (200 mg twice daily for 13 days) with a single oral dose of 500 mcg roflumilast resulted in 23% and 99% increase in C max and AUC for roflumilast, respectively, and a 38% reduction and 3% increase in C max and AUC for roflumilast N-oxide, respectively.
+Ketoconazole: In an open-label crossover study in 16 healthy volunteers, the coadministration of a strong CYP3A4 inhibitor ketoconazole (200 mg twice daily for 13 days) with a single oral dose of 500 mcg roflumilast resulted in 23% and 99% increase in C maxand AUC for roflumilast, respectively, and a 38% reduction and 3% increase in C maxand AUC for roflumilast N-oxide, respectively.
 
-Fluvoxamine: In an open-label crossover study in 16 healthy volunteers, the coadministration of dual CYP 3A4/1A2 inhibitor fluvoxamine (50 mg daily for 14 days) with a single oral dose of 500 mcg roflumilast showed a 12% and 156% increase in roflumilast C max and AUC along with a 210% decrease and 52% increase in roflumilast N-oxide C max and AUC, respectively.
+Fluvoxamine: In an open-label crossover study in 16 healthy volunteers, the coadministration of dual CYP 3A4/1A2 inhibitor fluvoxamine (50 mg daily for 14 days) with a single oral dose of 500 mcg roflumilast showed a 12% and 156% increase in roflumilast C maxand AUC along with a 210% decrease and 52% increase in roflumilast N-oxide C maxand AUC, respectively.
 
-Enoxacin: In an open-label crossover study in 16 healthy volunteers, the coadministration of dual CYP 3A4/1A2 inhibitor enoxacin (400 mg twice daily for 12 days) with a single oral dose of 500 mcg roflumilast resulted in an increased C max and AUC of roflumilast by 20% and 56%, respectively.
-Roflumilast N-oxide C max was decreased by 14% while roflumilast N-oxide AUC was increased by 23%.
+Enoxacin: In an open-label crossover study in 16 healthy volunteers, the coadministration of dual CYP 3A4/1A2 inhibitor enoxacin (400 mg twice daily for 12 days) with a single oral dose of 500 mcg roflumilast resulted in an increased C maxand AUC of roflumilast by 20% and 56%, respectively.
+Roflumilast N-oxide C maxwas decreased by 14% while roflumilast N-oxide AUC was increased by 23%.
 
-Cimetidine: In an open-label crossover study in 16 healthy volunteers, the coadministration of a dual CYP 3A4/1A2 inhibitor cimetidine (400 mg twice daily for 7 days) with a single dose of 500 mcg oral roflumilast resulted in a 46% and 85% increase in roflumilast C max and AUC; and a 4% decrease in C max and 27% increase in AUC for roflumilast N-oxide, respectively.
+Cimetidine: In an open-label crossover study in 16 healthy volunteers, the coadministration of a dual CYP 3A4/1A2 inhibitor cimetidine (400 mg twice daily for 7 days) with a single dose of 500 mcg oral roflumilast resulted in a 46% and 85% increase in roflumilast C maxand AUC; and a 4% decrease in C maxand 27% increase in AUC for roflumilast N-oxide, respectively.
 
 Oral Contraceptives containing Gestodene and Ethinyl Estradiol:
 
-In an open-label crossover study in 20 healthy adult volunteers, coadministration of a single oral dose of 500 mcg roflumilast with repeated doses of a fixed combination oral contraceptive containing 0.075 mg gestodene and 0.03 mg ethinyl estradiol to steady state caused a 38% increase and 12 % decrease in C max of roflumilast and roflumilast N-oxide, respectively.
+In an open-label crossover study in 20 healthy adult volunteers, coadministration of a single oral dose of 500 mcg roflumilast with repeated doses of a fixed combination oral contraceptive containing 0.075 mg gestodene and 0.03 mg ethinyl estradiol to steady state caused a 38% increase and 12 % decrease in C maxof roflumilast and roflumilast N-oxide, respectively.
 Roflumilast and roflumilast N-oxide AUCs were increased by 51% and 14%, respectively.
 
 Inducers of CYP enzymes:
 
-Rifampicin: In an open-label, three-period, fixed-sequence study in 15 healthy volunteers, coadministration of the strong CYP3A4 inducer rifampicin (600 mg once daily for 11 days) with a single oral dose of 500 mcg roflumilast resulted in reduction of roflumilast C max and AUC by 68% and 79%, respectively; and an increase of roflumilast N-oxide C max by 30% and reduced roflumilast N-oxide AUC by 56%.
+Rifampicin: In an open-label, three-period, fixed-sequence study in 15 healthy volunteers, coadministration of the strong CYP3A4 inducer rifampicin (600 mg once daily for 11 days) with a single oral dose of 500 mcg roflumilast resulted in reduction of roflumilast C maxand AUC by 68% and 79%, respectively; and an increase of roflumilast N-oxide C maxby 30% and reduced roflumilast N-oxide AUC by 56%.

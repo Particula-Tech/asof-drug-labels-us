@@ -26,20 +26,20 @@ Data
 Animal data
 
 In an embryo-fetal development study, pregnant rats were dosed orally during the period of organogenesis with up to 1.8 mg/kg/day roflumilast (approximately 30 times the MRHD on an AUC basis).
-No evidence of structural abnormalities or effects on survival rates were observed. roflumilast did not affect embryo-fetal development at approximately 3 times the MRHD (on a mg/m 2 basis at a maternal oral dose of 0.2 mg/kg/day).
+No evidence of structural abnormalities or effects on survival rates were observed. roflumilast did not affect embryo-fetal development at approximately 3 times the MRHD (on a mg/m 2basis at a maternal oral dose of 0.2 mg/kg/day).
 
 In a fertility and embryo-fetal development study, male rats were dosed orally with up to 1.8 mg/kg/day roflumilast for 10 weeks and females for two weeks prior to pairing and throughout the organogenesis period.
-Roflumilast induced pre- and post-implantation loss at doses greater than or equal to approximately 10 times the MRHD (on a mg/m 2 basis at maternal oral doses greater than or equal to 0.6 mg/kg/day).
+Roflumilast induced pre- and post-implantation loss at doses greater than or equal to approximately 10 times the MRHD (on a mg/m 2basis at maternal oral doses greater than or equal to 0.6 mg/kg/day).
 Roflumilast did not cause fetal structural abnormalities at exposures up to approximately 29 times the MRHD (on an AUC basis at maternal oral doses up to 1.8 mg/kg/day).
 
 In an embryo-fetal development study in rabbits, pregnant does were dosed orally with 0.8 mg/kg/day roflumilast during the period of organogenesis.
-Roflumilast did not cause fetal structural abnormalities at exposures approximately 26 times the MRHD (on a mg/m 2 basis at maternal oral doses of 0.8 mg/kg/day).
+Roflumilast did not cause fetal structural abnormalities at exposures approximately 26 times the MRHD (on a mg/m 2basis at maternal oral doses of 0.8 mg/kg/day).
 
 In pre- and post-natal developmental studies in mice, dams were dosed orally with up to 12 mg/kg/day roflumilast during the period of organogenesis and lactation.
-Roflumilast induced stillbirth and decreased pup viability at doses corresponding to approximately 16 and 49 times, respectively, the MRHD (on a mg/m 2 basis at maternal doses >2 mg/kg/day and 6 mg/kg/day, respectively).
-Roflumilast induced delivery retardation in pregnant mice at doses greater or equal to approximately 16 times the MRHD (on a mg/m 2 basis at maternal doses >2 mg/kg/day).
-Roflumilast decreased pup rearing frequencies at approximately 49 times the MRHD (on a mg/m 2 basis at a maternal dose of 6 mg/kg/day) during pregnancy and lactation.
-Roflumilast also decreased survival and forelimb grip reflex and delayed pinna detachment in mouse pups at approximately 97 times the MRHD (on a mg/m 2 basis at a maternal dose of 12 mg/kg/day).
+Roflumilast induced stillbirth and decreased pup viability at doses corresponding to approximately 16 and 49 times, respectively, the MRHD (on a mg/m 2basis at maternal doses >2 mg/kg/day and 6 mg/kg/day, respectively).
+Roflumilast induced delivery retardation in pregnant mice at doses greater or equal to approximately 16 times the MRHD (on a mg/m 2basis at maternal doses >2 mg/kg/day).
+Roflumilast decreased pup rearing frequencies at approximately 49 times the MRHD (on a mg/m 2basis at a maternal dose of 6 mg/kg/day) during pregnancy and lactation.
+Roflumilast also decreased survival and forelimb grip reflex and delayed pinna detachment in mouse pups at approximately 97 times the MRHD (on a mg/m 2basis at a maternal dose of 12 mg/kg/day).
 
 ## 8.2 Lactation
 
@@ -72,11 +72,11 @@ Based on available data for roflumilast, no adjustment of dosage in geriatric pa
 
 Roflumilast 250 mcg once daily for 14 days was studied in subjects with mild-to-moderate hepatic impairment classified as Child-Pugh A and B (8 subjects in each group).
 The AUCs of roflumilast and roflumilast N-oxide were increased by 51% and 24%, respectively, in Child-Pugh A subjects and by 92% and 41%, respectively, in Child-Pugh B subjects, as compared to age-, weight-, and gender-matched healthy subjects.
-The C max of roflumilast and roflumilast N-oxide were increased by 3% and 26%, respectively in Child-Pugh A subjects and by 26% and 40%, respectively in Child-Pugh B subjects, as compared to healthy subjects.
+The C maxof roflumilast and roflumilast N-oxide were increased by 3% and 26%, respectively in Child-Pugh A subjects and by 26% and 40%, respectively in Child-Pugh B subjects, as compared to healthy subjects.
 Roflumilast 500 mcg has not been studied in hepatically impaired patients.
 Clinicians should consider the risk-benefit of administering roflumilast to patients who have mild liver impairment (Child-Pugh A). Roflumilast is not recommended for use in patients with moderate or severe liver impairment (Child-Pugh B or C) [see Contraindications (4) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
-In twelve subjects with severe renal impairment administered a single dose of 500 mcg roflumilast, the AUCs of roflumilast and roflumilast N-oxide were decreased by 21% and 7%, respectively and C max were reduced by 16% and 12%, respectively.
+In twelve subjects with severe renal impairment administered a single dose of 500 mcg roflumilast, the AUCs of roflumilast and roflumilast N-oxide were decreased by 21% and 7%, respectively and C maxwere reduced by 16% and 12%, respectively.
 No dosage adjustment is necessary for patients with renal impairment [see Clinical Pharmacology (12.3)].

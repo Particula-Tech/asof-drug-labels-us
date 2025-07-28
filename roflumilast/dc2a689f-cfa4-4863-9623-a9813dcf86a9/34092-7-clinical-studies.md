@@ -4,11 +4,11 @@
 
 The efficacy and safety of roflumilast in COPD was evaluated in 8 randomized, double-blind, controlled, parallel-group clinical trials in 9394 adult patients (4425 receiving roflumilast 500 mcg) 40 years of age and older with COPD.
 Of the 8 trials, two were placebo-controlled dose selection trials (Trials 1 and 2) of 6 months’ duration that evaluated the efficacy of roflumilast 250 mcg and 500 mcg once daily, four were placebo-controlled 1-year trials (Trials 3, 4, 5, and 6) primarily designed to evaluate the efficacy of roflumilast on COPD exacerbations, and two were 6-month efficacy trials (Trials 7 and 8) which assessed the effect of roflumilast as add-on therapy to a long-acting beta agonist or long-acting anti-muscarinic.
-The 8 trials enrolled patients with nonreversible obstructive lung disease (FEV 1/FVC ≤ 70% and ≤ 12% or 200 mL improvement in FEV 1 in response to 4 puffs of albuterol/salbutamol) but the severity of airflow obstruction at baseline was different among the trials.
-Patients enrolled in the dose selection trials had the full range of COPD severity (FEV 1 30 to 80% predicted); median age of 63 years, 73% male, and 99% Caucasian.
-Patients enrolled in the four exacerbation trials had severe COPD (FEV 1 ≤ 50% predicted); median age of 64 years, 74% male, and 90% Caucasian.
+The 8 trials enrolled patients with nonreversible obstructive lung disease (FEV 1/FVC ≤ 70% and ≤ 12% or 200 mL improvement in FEV 1in response to 4 puffs of albuterol/salbutamol) but the severity of airflow obstruction at baseline was different among the trials.
+Patients enrolled in the dose selection trials had the full range of COPD severity (FEV 130 to 80% predicted); median age of 63 years, 73% male, and 99% Caucasian.
+Patients enrolled in the four exacerbation trials had severe COPD (FEV 1≤ 50% predicted); median age of 64 years, 74% male, and 90% Caucasian.
 
-Patients enrolled in the two 6-month efficacy trials had moderate to severe COPD (FEV 1 40 to 70% predicted); median age of 65 years, 68% male, and 97% Caucasian.
+Patients enrolled in the two 6-month efficacy trials had moderate to severe COPD (FEV 140 to 70% predicted); median age of 65 years, 68% male, and 97% Caucasian.
 COPD exacerbations and lung function (FEV 1) were co-primary efficacy outcome measures in the four 1-year trials.
 In the two 6-month supportive efficacy trials, lung function (FEV 1) alone was the primary efficacy outcome measure.
 
@@ -26,7 +26,7 @@ Effect on Exacerbations
 
 The effect of roflumilast 500 mcg once daily on COPD exacerbations was evaluated in five 1-year trials (Trials 3, 4, 5, 6 and 9).
 
-Two of the trials (Trials 3 and 4) conducted initially enrolled a population of patients with severe COPD (FEV 1 ≤ 50% of predicted) inclusive of those with chronic bronchitis and/or emphysema who had a history of smoking of at least 10 pack years.
+Two of the trials (Trials 3 and 4) conducted initially enrolled a population of patients with severe COPD (FEV 1≤ 50% of predicted) inclusive of those with chronic bronchitis and/or emphysema who had a history of smoking of at least 10 pack years.
 Inhaled corticosteroids were allowed as concomitant medications and used in 61% of both roflumilast and placebo-treated patients and short-acting beta agonists were allowed as rescue therapy.
 The use of long-acting beta agonists, long-acting anti-muscarinics, and theophylline were prohibited.
 The rate of moderate or severe COPD exacerbations was a co-primary endpoint in both trials.
@@ -50,7 +50,7 @@ Effect of Roflumilast on Rate of Moderate or Severe Exacerbations
 
 | Study | Exacerbations Per Patient-Year |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Roflumilast | Placebo | Absolute Reduction 1 | RR 2 | 95% CI | Percent Reduction 3. |
+|  | Roflumilast | Placebo | AbsoluteReduction 1 | RR 2 | 95% CI | Percent Reduction 3. |
 | Trial 5 | 1.1 | 1.3 | 0.2 | 0.85 | 0.74, 0.98 | 15 |
 | Trial 6 | 1.2 | 1.5 | 0.3 | 0.82 | 0.71, 0.94 | 18 |
 
@@ -69,14 +69,14 @@ In Trial 9, when added to background therapy of FDC ICS/LABA, the rate ratio for
 
 Effect on Lung Function
 
-While roflumilast is not a bronchodilator, all 1-year trials (Trials 3, 4, 5, and 6) evaluated the effect of roflumilast on lung function as determined by the difference in FEV 1 between roflumilast and placebo-treated patients (pre-bronchodilator FEV 1 measured prior to study drug administration in three of the trials and post-bronchodilator FEV 1 measured 30 minutes after administration of 4 puffs of albuterol/salbutamol in one trial) as a co-primary endpoint.
-In each of these trials roflumilast 500 mcg once daily demonstrated a statistically significant improvement in FEV 1 which averaged approximately 50 mL across the four trials.
-Table 3 shows FEV 1 results from Trials 5 and 6 which had demonstrated a significant reduction in COPD exacerbations.
+While roflumilast is not a bronchodilator, all 1-year trials (Trials 3, 4, 5, and 6) evaluated the effect of roflumilast on lung function as determined by the difference in FEV 1between roflumilast and placebo-treated patients (pre-bronchodilator FEV 1measured prior to study drug administration in three of the trials and post-bronchodilator FEV 1measured 30 minutes after administration of 4 puffs of albuterol/salbutamol in one trial) as a co-primary endpoint.
+In each of these trials roflumilast 500 mcg once daily demonstrated a statistically significant improvement in FEV 1which averaged approximately 50 mL across the four trials.
+Table 3 shows FEV 1results from Trials 5 and 6 which had demonstrated a significant reduction in COPD exacerbations.
 
 Table 3.
 Effect of Roflumilast on FEV 1
 
-| Study | Change in FEV 1 from Baseline, mL |  |  |  |
+| Study | Change in FEV 1from Baseline, mL |  |  |  |
 | --- | --- | --- | --- | --- |
 | Trial 5 | Roflumilast | Placebo | Effect 1 | 95% CI |
 | 46 | 8 | 39 | 18, 60 |  |
@@ -85,7 +85,7 @@ Effect of Roflumilast on FEV 1
 1Effect measured as difference between roflumilast and placebo treated patients.
 
 Lung function was also evaluated in two 6-month trials (Trials 7 and 8) to assess the effect of roflumilast when administered as add-on therapy to treatment with a long-acting beta agonist or a long-acting anti-muscarinic.
-These trials were conducted in a different population of COPD patients [moderate to severe COPD (FEV 1 40 to 70% of predicted) without a requirement for chronic bronchitis or frequent history of exacerbations] from that for which efficacy in reduction of exacerbations has been demonstrated and provide safety support to the roflumilast COPD program.
+These trials were conducted in a different population of COPD patients [moderate to severe COPD (FEV 140 to 70% of predicted) without a requirement for chronic bronchitis or frequent history of exacerbations] from that for which efficacy in reduction of exacerbations has been demonstrated and provide safety support to the roflumilast COPD program.
 
 Starting dose titration trial
 

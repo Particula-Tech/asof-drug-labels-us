@@ -2,7 +2,9 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-- Bronchospasm Roflumilast is not a bronchodilator and should not be used for immediate relief of breathing problems (i.e., as a rescue medication).
+- Bronchospasm
+
+Roflumilast is not a bronchodilator and should not be used for immediate relief of breathing problems (i.e., as a rescue medication).
 
 - Psychiatric Events including Suicidality Treatment with roflumilast is associated with an increase in psychiatric adverse reactions.
   Cases of suicidal ideation and behavior, including completed suicide, have been observed in the post-marketing setting in patients with or without a history of depression.
