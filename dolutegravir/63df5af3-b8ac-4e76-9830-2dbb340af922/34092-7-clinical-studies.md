@@ -95,31 +95,31 @@ Week 48 outcomes for SAILING are shown in Table 17.
 Table 17.
 Virologic Outcomes of Randomized Treatment in SAILING at 48 Weeks (Snapshot Algorithm)
 
-|  | TIVICAY 50 mg Once Daily + BRa(n = 354) | Raltegravir 400 mg Twice Daily + BRa(n = 361) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| HIV-1 RNA <50 copies/mL | 71% | 64% |  |  |  |  |  |
-| Adjustedb treatment difference | 7.4% (95% CI: 0.7%, 14.2%) |  |  |  |  |  |  |
-| Virologic nonresponse | 20% | 28% |  |  |  |  |  |
-| No virologic data | 9% | 9% |  |  |  |  |  |
-| Reasons |  |  |  |  |  |  |  |
-| Discontinued study/study drug due to adverse event or death | 3% | 4% |  |  |  |  |  |
-| Discontinued study/study drug for other reasonsc | 5% | 4% |  |  |  |  |  |
-| Missing data during window but on study | 2% | 1% |  |  |  |  |  |
-| Proportion (%) with HIV-1 RNA <50 copies/mL by Baseline Category |  |  |  |  |  |  |  |
-| Plasma viral load (copies/mL) |  |  |  |  |  |  |  |
-| ≤50,000 copies/mL | 75% | 71% |  |  |  |  |  |
-| >50,000 copies/mL | 62% | 47% |  |  |  |  |  |
-| Background regimen |  |  |  |  |  |  |  |
-| No darunavir use | 67% | 60% |  |  |  |  |  |
-| Darunavir use with primary PI substitutions | 85% | 67% |  |  |  |  |  |
-| Darunavir use without primary PI substitutions | 69% | 70% |  |  |  |  |  |
-| Gender |  |  |  |  |  |  |  |
-| Male | 70% | 66% |  |  |  |  |  |
-| Female | 74% | 60% |  |  |  |  |  |
-| Race |  |  |  |  |  |  |  |
-| White | 75% | 71% |  |  |  |  |  |
-| African-American/African Heritage/Other | 67% | 57% |  |  |  |  |  |
-| a BR = Background regimen. Background regimen was restricted to less than or equal to 2 antiretroviral treatments with at least 1 fully active agent. b Adjusted for pre-specified stratification factors. c Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation. |  |  |  |  |  |  |  |
+|  | TIVICAY 50 mg Once Daily + BRa(n = 354) | Raltegravir 400 mg Twice Daily + BRa(n = 361) |
+| --- | --- | --- |
+| HIV-1 RNA <50 copies/mL | 71% | 64% |
+| Adjustedb treatment difference | 7.4% (95% CI: 0.7%, 14.2%) |  |
+| Virologic nonresponse | 20% | 28% |
+| No virologic data | 9% | 9% |
+| Reasons |  |  |
+| Discontinued study/study drug due to adverse event or death | 3% | 4% |
+| Discontinued study/study drug for other reasonsc | 5% | 4% |
+| Missing data during window but on study | 2% | 1% |
+| Proportion (%) with HIV-1 RNA <50 copies/mL by Baseline Category |  |  |
+| Plasma viral load (copies/mL) |  |  |
+| ≤50,000 copies/mL | 75% | 71% |
+| >50,000 copies/mL | 62% | 47% |
+| Background regimen |  |  |
+| No darunavir use | 67% | 60% |
+| Darunavir use with primary PI substitutions | 85% | 67% |
+| Darunavir use without primary PI substitutions | 69% | 70% |
+| Gender |  |  |
+| Male | 70% | 66% |
+| Female | 74% | 60% |
+| Race |  |  |
+| White | 75% | 71% |
+| African-American/African Heritage/Other | 67% | 57% |
+| a BR = Background regimen. Background regimen was restricted to less than or equal to 2 antiretroviral treatments with at least 1 fully active agent. b Adjusted for pre-specified stratification factors. c Other includes reasons such as withdrew consent, loss to follow-up, moved, and protocol deviation. |  |  |
 
 Treatment differences were maintained across the baseline characteristics including CD4+ cell count and age.
 
@@ -143,20 +143,20 @@ Week 48 virologic outcomes for VIKING-3 are shown in Table 18.
 Table 18.
 Virologic Outcomes of Treatment of VIKING-3 at 48 Weeks (Snapshot Algorithm)
 
-|  | TIVICAY 50 mg Twice Daily + OBT(n = 183) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| HIV-1 RNA <50 copies/mL | 63% |  |  |  |  |  |  |  |  |
-| Virologic nonresponse | 32% |  |  |  |  |  |  |  |  |
-| No virologic dataReasons |  |  |  |  |  |  |  |  |  |
-| Discontinued study/study drug due to adverse event or death | 3% |  |  |  |  |  |  |  |  |
-| Proportion (%) with HIV-1 RNA <50 copies/mL by Baseline Category |  |  |  |  |  |  |  |  |  |
-| Gender |  |  |  |  |  |  |  |  |  |
-| Male | 63% |  |  |  |  |  |  |  |  |
-| Female | 64% |  |  |  |  |  |  |  |  |
-| Race |  |  |  |  |  |  |  |  |  |
-| White | 63% |  |  |  |  |  |  |  |  |
-| African-American/African Heritage/Other | 64% |  |  |  |  |  |  |  |  |
-| OBT = Optimized Background Therapy. |  |  |  |  |  |  |  |  |  |
+|  | TIVICAY 50 mg Twice Daily + OBT(n = 183) |
+| --- | --- |
+| HIV-1 RNA <50 copies/mL | 63% |
+| Virologic nonresponse | 32% |
+| No virologic dataReasons |  |
+| Discontinued study/study drug due to adverse event or death | 3% |
+| Proportion (%) with HIV-1 RNA <50 copies/mL by Baseline Category |  |
+| Gender |  |
+| Male | 63% |
+| Female | 64% |
+| Race |  |
+| White | 63% |
+| African-American/African Heritage/Other | 64% |
+| OBT = Optimized Background Therapy. |  |
 
 Subjects harboring virus with Q148 and with additional Q148-associated secondary substitutions also had a reduced response at Week 48 in a stepwise fashion [see Microbiology (12.4)].
 

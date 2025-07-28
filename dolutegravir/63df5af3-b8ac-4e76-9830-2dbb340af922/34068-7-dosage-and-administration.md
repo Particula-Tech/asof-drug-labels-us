@@ -60,12 +60,12 @@ Recommended Dosage of TIVICAY PD Tablets for Oral Suspension in Pediatric Patien
 Table 4.
 Recommended Dosage of TIVICAY Tablets in Pediatric Patients Weighing 14 kg or Greater
 
-| Body Weight | TIVICAY Tablets |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Daily Dosea | Number of Tablets |  |  |  |  |
-| 14 kg to less than 20 kg | 40 mg once daily | 4 x 10-mg |  |  |  |
-| 20 kg and greater | 50 mg once daily | 1 x 50-mg |  |  |  |
-| a If certain UGT1A or CYP3A inducers are coadministered, then administer TIVICAY twice daily [see Drug Interactions (7.2, 7.3)]. |  |  |  |  |  |
+| Body Weight | TIVICAY Tablets |  |
+| --- | --- | --- |
+| Daily Dosea | Number of Tablets |  |
+| 14 kg to less than 20 kg | 40 mg once daily | 4 x 10-mg |
+| 20 kg and greater | 50 mg once daily | 1 x 50-mg |
+| a If certain UGT1A or CYP3A inducers are coadministered, then administer TIVICAY twice daily [see Drug Interactions (7.2, 7.3)]. |  |  |
 
 ## 2.5 Additional Administration Instructions
 

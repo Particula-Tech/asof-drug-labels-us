@@ -98,44 +98,44 @@ Side-by-side tabulation is to simplify presentation; direct comparisons across t
 Table 6.
 Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects in SPRING-2 (Week 96 Analysis) and SINGLE Trials (Week 144 Analysis)
 
-| Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TIVICAY 50 mg Once Daily + 2 NRTIs(n = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY 50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |  |  |  |
-| ALT |  |  |  |  |  |  |  |  |  |
-| Grade 2 (>2.5-5.0 x ULN) | 4% | 4% | 3% | 5% |  |  |  |  |  |
-| Grade 3 to 4 (>5.0 x ULN) | 2% | 2% | 1% | <1% |  |  |  |  |  |
-| AST |  |  |  |  |  |  |  |  |  |
-| Grade 2 (>2.5-5.0 x ULN) | 5% | 3% | 3% | 4% |  |  |  |  |  |
-| Grade 3 to 4 (>5.0 x ULN) | 3% | 2% | 1% | 3% |  |  |  |  |  |
-| Total Bilirubin |  |  |  |  |  |  |  |  |  |
-| Grade 2 (1.6-2.5 x ULN) | 3% | 2% | <1% | <1% |  |  |  |  |  |
-| Grade 3 to 4 (>2.5 x ULN) | <1% | <1% | <1% | <1% |  |  |  |  |  |
-| Creatine kinase |  |  |  |  |  |  |  |  |  |
-| Grade 2 (6.0-9.9 x ULN) | 2% | 5% | 5% | 3% |  |  |  |  |  |
-| Grade 3 to 4 (≥10.0 x ULN) | 7% | 4% | 7% | 8% |  |  |  |  |  |
-| Hyperglycemia |  |  |  |  |  |  |  |  |  |
-| Grade 2 (126-250 mg/dL) | 6% | 6% | 9% | 6% |  |  |  |  |  |
-| Grade 3 (>250 mg/dL) | <1% | 2% | 2% | <1% |  |  |  |  |  |
-| Lipase |  |  |  |  |  |  |  |  |  |
-| Grade 2 (>1.5-3.0 x ULN) | 7% | 7% | 11% | 11% |  |  |  |  |  |
-| Grade 3 to 4 (>3.0 x ULN) | 2% | 5% | 5% | 4% |  |  |  |  |  |
-| Total neutrophils |  |  |  |  |  |  |  |  |  |
-| Grade 2 (0.75-0.99 x 109) | 4% | 3% | 4% | 5% |  |  |  |  |  |
-| Grade 3 to 4 (<0.75 x 109) | 2% | 2% | 3% | 3% |  |  |  |  |  |
-| ALT = Alanine aminotransferase; AST = Aspartate aminotransferase; NRTI = Nucleoside Reverse Transcriptase Inhibitor; ULN = Upper limit of normal. |  |  |  |  |  |  |  |  |  |
+| Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |
+| --- | --- | --- | --- | --- |
+| TIVICAY 50 mg Once Daily + 2 NRTIs(n = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY 50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |
+| ALT |  |  |  |  |
+| Grade 2 (>2.5-5.0 x ULN) | 4% | 4% | 3% | 5% |
+| Grade 3 to 4 (>5.0 x ULN) | 2% | 2% | 1% | <1% |
+| AST |  |  |  |  |
+| Grade 2 (>2.5-5.0 x ULN) | 5% | 3% | 3% | 4% |
+| Grade 3 to 4 (>5.0 x ULN) | 3% | 2% | 1% | 3% |
+| Total Bilirubin |  |  |  |  |
+| Grade 2 (1.6-2.5 x ULN) | 3% | 2% | <1% | <1% |
+| Grade 3 to 4 (>2.5 x ULN) | <1% | <1% | <1% | <1% |
+| Creatine kinase |  |  |  |  |
+| Grade 2 (6.0-9.9 x ULN) | 2% | 5% | 5% | 3% |
+| Grade 3 to 4 (≥10.0 x ULN) | 7% | 4% | 7% | 8% |
+| Hyperglycemia |  |  |  |  |
+| Grade 2 (126-250 mg/dL) | 6% | 6% | 9% | 6% |
+| Grade 3 (>250 mg/dL) | <1% | 2% | 2% | <1% |
+| Lipase |  |  |  |  |
+| Grade 2 (>1.5-3.0 x ULN) | 7% | 7% | 11% | 11% |
+| Grade 3 to 4 (>3.0 x ULN) | 2% | 5% | 5% | 4% |
+| Total neutrophils |  |  |  |  |
+| Grade 2 (0.75-0.99 x 109) | 4% | 3% | 4% | 5% |
+| Grade 3 to 4 (<0.75 x 109) | 2% | 2% | 3% | 3% |
+| ALT = Alanine aminotransferase; AST = Aspartate aminotransferase; NRTI = Nucleoside Reverse Transcriptase Inhibitor; ULN = Upper limit of normal. |  |  |  |  |
 
 Table 7.
 Mean Change from Baseline in Fasted Lipid Values in Treatment-Naïve Subjects in SPRING-2 (Week 96 Analysisa) and SINGLE Trials (Week 144 Analysisa)
 
-| Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TIVICAY50 mg Once Daily + 2 NRTIs(n = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |  |  |  |  |  |  |  |  |
-| Cholesterol (mg/dL) | 8.1 | 10.1 | 24.0 | 26.7 |  |  |  |  |  |  |  |  |  |  |
-| HDL cholesterol (mg/dL) | 2.0 | 2.3 | 5.4 | 7.2 |  |  |  |  |  |  |  |  |  |  |
-| LDL cholesterol (mg/dL) | 5.1 | 6.1 | 16.0 | 14.6 |  |  |  |  |  |  |  |  |  |  |
-| Triglycerides (mg/dL) | 6.7 | 6.6 | 13.6 | 31.9 |  |  |  |  |  |  |  |  |  |  |
-| HDL = High density lipoprotein; LDL = Low density lipoprotein; NRTI = Nucleoside Reverse Transcriptase Inhibitor. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Subjects on lipid-lowering agents at baseline were excluded from these analyses (19 subjects in each arm in SPRING-2, and in SINGLE: TIVICAY + EPZICOM n = 30 and ATRIPLA n = 27). Ninety-four subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless of whether they discontinued the agent (SPRING-2: TIVICAY n = 9, raltegravir n = 13; SINGLE: TIVICAY + EPZICOM n = 36, ATRIPLA n = 36). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Laboratory ParameterPreferred Term | SPRING-2 |  | SINGLE |  |
+| --- | --- | --- | --- | --- |
+| TIVICAY50 mg Once Daily + 2 NRTIs(n = 403) | Raltegravir400 mg Twice Daily + 2 NRTIs(n = 405) | TIVICAY50 mg + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |
+| Cholesterol (mg/dL) | 8.1 | 10.1 | 24.0 | 26.7 |
+| HDL cholesterol (mg/dL) | 2.0 | 2.3 | 5.4 | 7.2 |
+| LDL cholesterol (mg/dL) | 5.1 | 6.1 | 16.0 | 14.6 |
+| Triglycerides (mg/dL) | 6.7 | 6.6 | 13.6 | 31.9 |
+| HDL = High density lipoprotein; LDL = Low density lipoprotein; NRTI = Nucleoside Reverse Transcriptase Inhibitor. |  |  |  |  |
+| a Subjects on lipid-lowering agents at baseline were excluded from these analyses (19 subjects in each arm in SPRING-2, and in SINGLE: TIVICAY + EPZICOM n = 30 and ATRIPLA n = 27). Ninety-four subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless of whether they discontinued the agent (SPRING-2: TIVICAY n = 9, raltegravir n = 13; SINGLE: TIVICAY + EPZICOM n = 36, ATRIPLA n = 36). |  |  |  |  |
 
 Laboratory abnormalities observed in the FLAMINGO trial were generally consistent with observations in SPRING-2 and SINGLE.
 
