@@ -33,9 +33,8 @@ Durham, NC 27701
 
 Made in India
 
-1. A001306 (30000000001306) Rev.
-   2/24
-2. 
+- A001306 (30000000001306) Rev.
+  2/24
 
 PRINCIPAL DISPLAY PANEL
 
@@ -66,6 +65,5 @@ GSK
 
 ©2024 GSK group of companies or its licensor.
 
-1. A001308 (30000000001308) Rev.
-   2/24
-2. 
+- A001308 (30000000001308) Rev.
+  2/24
