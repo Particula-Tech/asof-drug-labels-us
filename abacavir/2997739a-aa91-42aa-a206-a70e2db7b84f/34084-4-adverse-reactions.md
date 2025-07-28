@@ -95,39 +95,39 @@ The mean change from baseline observed for selected lipid values is presented in
 Table 4.
 Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naive Subjects in SINGLE (Week 144 Analysis)
 
-| Laboratory Abnormality | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| ALT |  |  |  |  |  |
-| Grade 2 (>2.5-5.0 x ULN) | 3% | 5% |  |  |  |
-| Grade 3 to 4 (>5.0 x ULN) | 1% | <1% |  |  |  |
-| AST |  |  |  |  |  |
-| Grade 2 (>2.5-5.0 x ULN) | 3% | 4% |  |  |  |
-| Grade 3 to 4 (>5.0 x ULN) | 1% | 3% |  |  |  |
-| Creatine kinase |  |  |  |  |  |
-| Grade 2 (6.0-9.9 x ULN) | 5% | 3% |  |  |  |
-| Grade 3 to 4 (≥10.0 x ULN) | 7% | 8% |  |  |  |
-| Hyperglycemia |  |  |  |  |  |
-| Grade 2 (126-250 mg/dL) | 9% | 6% |  |  |  |
-| Grade 3 (>250 mg/dL) | 2% | <1% |  |  |  |
-| Lipase |  |  |  |  |  |
-| Grade 2 (>1.5-3.0 x ULN) | 11% | 11% |  |  |  |
-| Grade 3 to 4 (>3.0 ULN) | 5% | 4% |  |  |  |
-| Total neutrophils |  |  |  |  |  |
-| Grade 2 (0.75-0.99 x 109) | 4% | 5% |  |  |  |
-| Grade 3 to 4 (<0.75 x 109) | 3% | 3% |  |  |  |
-| ALT = Alanine aminotransferase, AST = Aspartate aminotransferase, ULN = upper limit of normal. |  |  |  |  |  |
+| Laboratory Abnormality | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
+| --- | --- | --- |
+| ALT |  |  |
+| Grade 2 (>2.5-5.0 x ULN) | 3% | 5% |
+| Grade 3 to 4 (>5.0 x ULN) | 1% | <1% |
+| AST |  |  |
+| Grade 2 (>2.5-5.0 x ULN) | 3% | 4% |
+| Grade 3 to 4 (>5.0 x ULN) | 1% | 3% |
+| Creatine kinase |  |  |
+| Grade 2 (6.0-9.9 x ULN) | 5% | 3% |
+| Grade 3 to 4 (≥10.0 x ULN) | 7% | 8% |
+| Hyperglycemia |  |  |
+| Grade 2 (126-250 mg/dL) | 9% | 6% |
+| Grade 3 (>250 mg/dL) | 2% | <1% |
+| Lipase |  |  |
+| Grade 2 (>1.5-3.0 x ULN) | 11% | 11% |
+| Grade 3 to 4 (>3.0 ULN) | 5% | 4% |
+| Total neutrophils |  |  |
+| Grade 2 (0.75-0.99 x 109) | 4% | 5% |
+| Grade 3 to 4 (<0.75 x 109) | 3% | 3% |
+| ALT = Alanine aminotransferase, AST = Aspartate aminotransferase, ULN = upper limit of normal. |  |  |
 
 Table 5.
 Mean Change from Baseline in Fasted Lipid Values in Treatment-Naive Subjects in SINGLE (Week 144 Analysisa)
 
-| Lipid | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Cholesterol (mg/dL) | 24.0 | 26.7 |  |  |  |  |  |  |
-| HDL cholesterol (mg/dL) | 5.4 | 7.2 |  |  |  |  |  |  |
-| LDL cholesterol (mg/dL) | 16.0 | 14.6 |  |  |  |  |  |  |
-| Triglycerides (mg/dL) | 13.6 | 31.9 |  |  |  |  |  |  |
-| HDL = High-density lipoprotein, LDL = Low-density lipoprotein. |  |  |  |  |  |  |  |  |
-| a Subjects on lipid-lowering agents at baseline were excluded from these analyses (TIVICAY + EPZICOM: n = 30 and ATRIPLA: n = 27). Seventy-two subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless of whether they discontinued the agent (TIVICAY + EPZICOM: n = 36 and ATRIPLA: n = 36). |  |  |  |  |  |  |  |  |
+| Lipid | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
+| --- | --- | --- |
+| Cholesterol (mg/dL) | 24.0 | 26.7 |
+| HDL cholesterol (mg/dL) | 5.4 | 7.2 |
+| LDL cholesterol (mg/dL) | 16.0 | 14.6 |
+| Triglycerides (mg/dL) | 13.6 | 31.9 |
+| HDL = High-density lipoprotein, LDL = Low-density lipoprotein. |  |  |
+| a Subjects on lipid-lowering agents at baseline were excluded from these analyses (TIVICAY + EPZICOM: n = 30 and ATRIPLA: n = 27). Seventy-two subjects initiated a lipid-lowering agent post-baseline; their last fasted on-treatment values (prior to starting the agent) were used regardless of whether they discontinued the agent (TIVICAY + EPZICOM: n = 36 and ATRIPLA: n = 36). |  |  |
 
 Treatment-Experienced Subjects: Laboratory abnormalities observed in SAILING were generally similar compared with observations seen in the treatment-naive trials.
 

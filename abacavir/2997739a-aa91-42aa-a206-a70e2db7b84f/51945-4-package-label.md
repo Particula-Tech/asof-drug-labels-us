@@ -85,5 +85,5 @@ ViiV Healthcare
 
 Made in UK
 
-1. 62000000084619 Rev.
-   12/22
+- 62000000084619 Rev.
+  12/22

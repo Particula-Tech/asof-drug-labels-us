@@ -13,7 +13,7 @@ At baseline, the median age of subjects was 35 years, 16% female, 32% non-white,
 
 Week 144 (open-label-phase analysis which followed the Week 96 double-blind phase) outcomes for SINGLE are provided in Table 12.
 
-Table 12.
+Table 11.
 Virologic Outcomes of Randomized Treatment in SINGLE at 144 Weeks (Snapshot Algorithm)
 
 |  | TIVICAY + EPZICOM Once Daily(n = 414) | ATRIPLAOnce Daily(n = 419) |
