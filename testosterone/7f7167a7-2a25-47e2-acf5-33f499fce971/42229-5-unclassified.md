@@ -1,4 +1,5 @@
-Manufactured for: Marius Pharmaceuticals LLC Raleigh, NC 27615
+Marketed by: Marius Pharmaceuticals LLC 2301 Suger Bush Road, Suite 510
 
-Issued 07/2022 200026767 Rev.
-07/22
+Raleigh, NC 27612
+
+27612Issued 07/2025

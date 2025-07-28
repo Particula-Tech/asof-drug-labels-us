@@ -1,5 +1,7 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
+-
+
 ## 8.1 Pregnancy
 
 Risk Summary
@@ -31,11 +33,13 @@ KYZATREX™ is not indicated for use in females.
 
 ## 8.3 Females and Males of Reproductive Potential
 
+-
+
 Infertility
 
 Males
 
-During treatment with large doses of exogenous androgens, including KYZATREX™, spermatogenesis may be suppressed through feedback inhibition of the hypothalamicpituitary-testicular axis [see Warnings and Precautions (5.8) and Impairment of Fertility (13.1)], possibly leading to adverse effects on semen parameters including sperm count.
+During treatment with large doses of exogenous androgens, including KYZATREX™, spermatogenesis may be suppressed through feedback inhibition of the hypothalamicpituitary-testicular axis [see[See Warnings and Precautions (5.7) and Impairment of Fertility (13.1)], possibly leading to adverse effects on semen parameters including sperm count.
 Reduced fertility has been observed in some men taking testosterone replacement therapy.
 Testicular atrophy, subfertility, and infertility have also been reported in men who abuse anabolic androgenic steroids [see Drug Abuse and Dependence (9.2)].
 With either type of use, the impact on fertility may be irreversible.
@@ -51,4 +55,4 @@ Clinical studies of KYZATREX™ did not include any patients 65 years of age and
 Therefore, it cannot be determined whether these patients respond differently from younger adult patients.
 Additionally, there are insufficient long-term safety data in geriatric patients to assess the potentially increased risk of cardiovascular disease and prostate cancer.
 
-Geriatric patients treated with androgens including KYZATREX™ may be at risk for worsening of signs and symptoms of BPH [see Warnings and Precautions (5.4)].
+Geriatric patients treated with androgens including KYZATREX™ may be at risk for worsening of signs and symptoms of BPH [see (see Warnings and Precautions (5.3)].

@@ -1,8 +1,10 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+-
+
 ## 2.1 Important Dosage Information
 
-KYZATREX™ is not substitutable with other oral testosterone undecanoate products.
+KYZATREX is not substitutable with other oral testosterone undecanoate products.
 
 ## 2.2 Confirmation of Hypogonadism Before Initiation of KYZATREX™
 

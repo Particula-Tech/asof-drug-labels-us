@@ -1,5 +1,7 @@
 # 7 DRUG INTERACTIONS
 
+-
+
 ## 7.1 Insulin
 
 Changes in insulin sensitivity or glycemic control may occur in patients treated with androgens.
@@ -16,4 +18,4 @@ The concurrent use of testosterone with corticosteroids may result in increased 
 ## 7.4 Medications that May Also Increase Blood Pressure
 
 Some prescription medications and nonprescription analgesic and cold medications contain drugs known to increase blood pressure.
-Concomitant administration of these medications with KYZATREX™ may lead to additional increases in blood pressure [see Warnings and Precautions (5.1)].
+Concomitant administration of these medications with KYZATREX™ may lead to additional increases in blood pressure [see Warnings and Precautions (5.4)].

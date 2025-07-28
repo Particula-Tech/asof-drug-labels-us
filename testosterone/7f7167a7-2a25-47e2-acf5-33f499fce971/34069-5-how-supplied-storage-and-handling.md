@@ -1,7 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-KYZATREX™ capsules are available in three strengths of 100 mg, 150 mg, and 200 mg.
-It is packaged in wide-mouth, round, white HDPE bottles with white, polypropylene, child resistant caps and induction-sealed liner.
+KYZATREX™ capsules are available in three strengths of 100 mg, 150 mg, and 200 mg packaged as 60, 90 and 120 units in wide-mouth, round, white HDPE bottles with white, polypropylene, child resistant caps and induction-sealed liner
 
 100 mg: Oval, opaque, white capsules imprinted with "MP100" in red ink supplied in bottles; NDC 80603-101-11 for 90 capsules and NDC 80603-101-22 for 120 capsules.
 

@@ -2,18 +2,17 @@
 
 The following clinically significant adverse reactions are discussed elsewhere in the labeling:
 
-- Increase in Blood Pressure [see Warnings and Precautions (5.1)]
-- Polycythemia [see Warnings and Precautions (5.2)]
-- Cardiovascular Risk [see Warnings and Precautions (5.3)]
-- Worsening of Benign Prostatic Hyperplasia (BPH) and Potential Risk of Prostate Cancer [see Warnings and Precautions (5.4)]
-- Venous Thromboembolism [see Warnings and Precautions (5.5)]
-- Hepatic Adverse Effects [see Warnings and Precautions (5.9)]
-- Edema [see Warnings and Precautions (5.10)]
-- Sleep Apnea [see Warnings and Precautions (5.11)]
-- Gynecomastia [see Warnings and Precautions (5.12)]
-- Lipid Changes [see Warnings and Precautions (5.13)]
-- Hypercalcemia [see Warnings and Precautions (5.14)]
-- Decreased Thyroxine-binding Globulin [see Warnings and Precautions (5.15)]
+- Polycythemia [see Warnings and Precautions (5.1)]
+- Venous Thromboembolism [see Warnings and Precautions (5.2)]
+- Worsening of Benign Prostatic Hyperplasia (BPH) and Potential Risk of Prostate Cancer [see Warnings and Precautions (5.3)]
+- Blood Pressure Increases [see Warnings and Precautions (5.4)]
+- Hepatic Adverse Effects [see Warnings and Precautions(5.8)]
+- Edema [see Warnings and Precautions (5.9)]
+- Sleep Apnea [see Warnings and Precautions (5.10)]
+- Gynecomastia [see Warnings and Precautions (5.11)]
+- Lipid Changes [see Warnings and Precautions (5.12)]
+- Hypercalcemia [see Warnings and Precautions (5.13)]
+- Decreased Thyroxine-binding Globulin [see Warnings and Precautions (5.14)]
 
 ## 6.1 Clinical Trial Experience
 
@@ -40,8 +39,16 @@ In a 12-month, open-label study in hypogonadal adult males (N=212) who received 
 
 Blood Pressure Increases
 
-Ambulatory (24-hour) and in-clinic (cuff) blood pressure Changes from Baseline for study MRS-TU-2019EXT are presented in Table 3 with 95% confidence intervals.
-No significant difference was observed between the 4-month and 6-month Changes from Baseline.
+In Study MRS-TU-2019EXT, 24-hour ambulatory blood pressure monitoring (ABPM) was conducted in 155 male patients, 135 of whom completed the study.
+ABPM was conducted at 3 distinct 24-hour time periods: at baseline and following approximately 4 months and 6 months of treatment with KYZATREX.
+A total of 151 patients had acceptable 24-hour ABPM recordings at both time periods.
+In that group, the mean change in systolic BP from Baseline to 4 months and 6 months was + 1.7 mm Hg (95% CI 0.3, 3.1) and 1.8 mm Hg (95% CI 0.3, 3.2), respectively.
+In that group, the mean change in diastolic BP from Baseline to 4 months and 6 months was 0.6 mm Hg (95% CI -0.3, 1.6) and 0.6 mm Hg (95% CI -0.4, 1.6), respectively.
+In patients with a history of hypertension on antihypertensive therapy at baseline, the mean ABPM systolic blood pressure increased from Baseline to 4 months and 6 months by 3.4 mm Hg (95% CI 1.0, 5.9) and 3.1 mm Hg (95% CI 0.6, 5.6), respectively (n=49).
+
+In patients with no history of hypertension at baseline, the mean systolic blood pressure from Baseline increased by 0.7 mm Hg (95% CI -1.0, 2.4) at 4 months and 1.0 mm Hg (95% CI -0.7, 2.8), at six months respectively (n =90).
+Ambulatory (24-hour) blood pressure Changes from Baseline for study MRS- TU-2019EXT are presented in Table 3 with 95% confidence intervals.
+No significant difference was observed between the 4-month and 6-month Changes from Baseline
 
 Table 3: Blood Pressure Increases
 
@@ -51,33 +58,39 @@ Table 3: Blood Pressure Increases
 | 24-Hour Ambulatory |  |  |
 | 4 Month | 1.7 (0.3 to 3.1) | 0.6 (-0.3 to 1.6) |
 | 6 Month | 1.8 (0.3 to 3.2) | 0.6 (-0.4 to 1.6) |
-| In-clinic (blood pressure cuff) |  |  |
-| 4 Month | 2.7 (0.9 to 4.5) | 1.5 (0.3 to 2.6) |
-| 6 Month | 2.4 (0.6 to 4.2) | 1.7 (0.5 to 2.9) |
-
-A total of 5 of 155 patients (3.2%) in Study MRS-TU-2019EXT began taking new antihypertensive medications after study start.
-No patient had a dose increase in their antihypertensive medication by the end of treatment.
 
 A history of antihypertensive treatment and diabetes mellitus at baseline were significant factors related to ambulatory SBP increases.
 
-Table 4 presents the Least Squares Mean estimates of Change from Baseline, with 95% CI's, for sub-populations of subjects at study start either with or without hypertensive treatment or with or without diabetes mellitus.
+Table 4 presents the Least Squares Mean estimates of Change from Baseline, with 95% CI’s, for sub-populations of subjects at study start either with or without hypertensive treatment or with or without diabetes mellitus.
 
-Table 4: Ambulatory Blood Pressure Increases by Subject Sub-group
+A total of 5 of 155 patients (3.2%) on KYZATREX in Study MRS-TU-2019EXT began taking new antihypertensive medications after study start.
+No patient had a dose increase in their antihypertensive medication by the end of treatment.
 
-| With hypertensive treatment at baseline (n=49) |  |
-| --- | --- |
-| Subgroups | Ambulatory Systolic Blood Pressure Change from Baseline (95% CI), mm Hg |
-| 4 Month | 3.4 (1.0 to 5.9) |
-| 6 Month | 3.1 (0.6 to 5.6) |
-| Without hypertensive treatment at baseline (n=90) |  |
-| 4 Month | 0.7 (-1.0 to 2.4) |
-| 6 Month | 1.0 (-0.7 to 2.8) |
-| With diabetes at baseline (n=29) |  |
-| 4 Month | 3.0 (-0.2 to 6.2) |
-| 6 Month | 3.4 (0.2 to 6.7) |
-| Without diabetes at baseline (n=110) |  |
-| 4 Month | 1.3 (-0.2 to 2.9) |
-| 6 Month | 1.3 (-0.3 to 2.9) |
+Of the 155 patients in Study MRS-TU-2019EXT who used KYZATREX, 4 patients (2.6%) were reported to have an adverse reaction of hypertension.
+
+Cardiovascular Outcomes
+
+TRAVERSE was a randomized, double-blind, cardiovascular outcomes study to assess the cardiovascular (CV) safety of topical testosterone gel compared to placebo in 5198 hypogonadal men aged 45 to 80 years with a history of CV disease or with multiple CV risk factors.
+The primary outcome was the incidence of the composite endpoint of major adverse cardiovascular events (MACE), consisting of CV death, non-fatal myocardial infarction (MI), and non-fatal stroke.
+
+The mean duration of therapy was approximately 22 months.
+The mean duration of follow-up was 33 months.
+Approximately 61% of all patients discontinued topical testosterone gel or placebo therapy.
+
+The mean patient age (±SD) was 63.3 (7.9) years, with 2452 patients ages 65 years or more (47%); 2847 (about 55%) patients had pre-existing cardiovascular disease, whereas 2357 patients (about 45%) had an elevated cardiovascular risk at baseline, and mean BMI was 35kg/m 2.
+Approximately 80% of patients were White, 17% were Black, and 3% were of other races or ethnic groups.
+Approximately 69%, 84%, and 93% had diabetes mellitus, hyperlipidemia, and hypertension, respectively.
+
+The mean serum testosterone concentration at baseline in patients receiving topical testosterone gel was 220.4 ng/dL (n=2596).
+The mean serum testosterone concentrations at 12 months, 24 months, 36 months, and 48 months in patients receiving topical testosterone gel were 440.5 ng/dL (n=1683), 420.9 ng/dl (n=1125), 428.7 ng/dL (n=731), and 365.2 ng/dL (n=220), respectively.
+
+For patients treated with topical testosterone gel, the incidence of MACE was 7.0% (n=182 events) and for those receiving placebo, the incidence of MACE was 7.3% (n=190 events).
+The study demonstrated non-inferiority of topical testosterone gel versus placebo because the upper bound of 95% CI was less than the pre-specified risk margin, of 1.5 for MACE (Hazard Ratio 0.96 [95% CI: 0.78, 1.17]).
+
+Additional Adverse Reproted in TRAVERSE
+
+Additional adverse reactions reported in TRAVERSE at an incidence rate >2% in either treatment group and greater in topical testosterone gel versus placebo included: nonfatal arrythmias warranting intervention (5.2% vs 3.3%), atrial fibrillation (3.5% vs 2.4%), acute kidney injury (2.3% vs 1.5%) and bone fracture (3.5% vs 2.5%).
+For the adverse reaction of bone fracture, each event was adjudicated by clinical review
 
 Heart Rate Increases
 
