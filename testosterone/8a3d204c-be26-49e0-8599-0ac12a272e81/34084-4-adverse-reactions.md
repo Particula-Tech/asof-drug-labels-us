@@ -57,14 +57,14 @@ Number (%) of Patients with Adverse Reactions ≥2% in a 6-Month Study with XYOS
 | Nausea | 3 (2.3) |
 | Note: Includes events that started on or after the first dosing, or existed prior to the first dose and worsened in severity or relatedness after dosing. Percentage was calculated using the number of patients in the column heading as the denominator. |  |
 
-BP Increases
+BP Increases in the 6-Month Clinical Study
 
 In the 6-month clinical study, 24-hour ambulatory blood pressure monitoring (ABPM) was conducted in 133 patients, 113 of whom completed the study.
 ABPM was conducted at 3 distinct 24-hour time periods: at Baseline and following 6 and 12 weeks of XYOSTED therapy.
 A total of 62 patients had acceptable ABPM recordings at baseline and Week 12.
-In that group, the mean change in systolic and diastolic BP from baseline to Week 12 was + 3.9 mmHg (95% CI 1.4-6.4) and + 1.5 mmHg (95% CI 0.4-2.6), respectively.
-In patients with a history of hypertension who were receiving antihypertensive therapy, the mean ABPM systolic and diastolic BP increased by +3.9 mmHg [95% CI 0.19-7.7] and +1.3 mmHg [95% CI -0.37-3.0], respectively [n=33]).
-In patients with no history of hypertension, the mean ABPM systolic and diastolic blood pressure increased by +4.1 mmHg [95% CI 0.43-7.8] and +1.9 mmHg [95% CI 0.055-3.7], respectively [n=28]).
+In that group, the mean change in systolic and diastolic BP from baseline to Week 12 was + 3.9 mm Hg (95% CI 1.4-6.4) and + 1.5 mm Hg (95% CI 0.4-2.6), respectively.
+In patients with a history of hypertension who were receiving antihypertensive therapy, the mean ABPM systolic and diastolic BP increased by +3.9 mm Hg [95% CI 0.19-7.7] and +1.3 mm Hg [95% CI -0.37-3.0], respectively [n=33]).
+In patients with no history of hypertension, the mean ABPM systolic and diastolic blood pressure increased by +4.1 mm Hg [95% CI 0.43-7.8] and +1.9 mm Hg [95% CI 0.055-3.7], respectively [n=28]).
 
 10% of XYOSTED-treated patients were either started on antihypertensive medications or required changes to their antihypertensive medication regimen during the 1-year study.
 
@@ -98,12 +98,11 @@ The mean duration of therapy was approximately 22 months.
 The mean duration of follow-up was 33 months.
 Approximately 61% of all patients discontinued topical testosterone gel or placebo therapy.
 
-The mean patient age (±SD) was 63.3 (7.9) years.
+The mean patient age (±SD) was 63.3 (7.9) years, with 2452 patients aged 65 years or more (47%); 2847 (about 55%) patients had pre-existing cardiovascular disease, whereas 2357 patients (about 45%) had an elevated cardiovascular risk at baseline, and mean BMI was 35 kg/m2.
 Approximately 80% of patients were White, 17% were Black, and 3% were of other races or ethnic groups.
 Approximately 69%, 84%, and 93% had diabetes mellitus, hyperlipidemia, and hypertension, respectively.
-Approximately 55% had preexisting cardiovascular disease.
 
-The mean serum testosterone concentration at baseline in patients receiving topical testosterone gel was 220.4 ng/dL (n=2129).
+The mean serum testosterone concentration at baseline in patients receiving topical testosterone gel was 220.4 ng/dL (n=2596).
 The mean serum testosterone concentrations at 12 months, 24 months, 36 months, and 48 months in patients receiving topical testosterone gel were 440.5 ng/dL (n=1683), 420.9 ng/dl (n=1125), 428.7 ng/dL (n=731), and 365.2 ng/dL (n=220), respectively.
 
 For patients treated with topical testosterone gel, the incidence of MACE was 7.0% (n=182 events) and for those receiving placebo, the incidence of MACE was 7.3% (n=190 events).

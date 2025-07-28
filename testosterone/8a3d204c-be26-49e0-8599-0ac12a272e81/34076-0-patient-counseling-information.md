@@ -8,7 +8,7 @@ Venous Thromboembolism
   Advise patients of the signs and symptoms of venous thromboembolism, which may include the following: lower limb pain, edema, or erythema; and dyspnea or chest pain.
   Advise patients to promptly report the signs and symptoms of venous thromboembolism, discontinue use of XYOSTED, and seek urgent medical care.
 
-Increased Blood Pressure
+Increased Blood Pressure and Risk for Major Adverse Cardiovascular Events (MACE)
 
 - Inform patients that XYOSTED can increase BP which can increase cardiovascular risk over time.
 - Instruct patients about the importance of monitoring BP periodically while on XYOSTED.
@@ -29,6 +29,6 @@ For more information call: 1-844-XYOSTED (1-844-996-7833) or visit www.XYOSTED.c
 
 Manufactured For: Antares Pharma, Inc. Ewing, NJ 08628
 
-XYOSTED is a trademark of Antares Pharma, Inc.
+XYOSTED and the XYOSTED logo are trademarks of Antares Pharma, Inc. All rights reserved.
 
-©2022 Antares Pharma, Inc. All rights reserved
+©2025 Antares Pharma, Inc. All rights reserved

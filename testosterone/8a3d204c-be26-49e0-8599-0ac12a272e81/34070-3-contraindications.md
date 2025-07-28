@@ -2,7 +2,7 @@
 
 XYOSTED is contraindicated in:
 
-- Men with carcinoma of the breast or known or suspected carcinoma of the prostate [see Warnings and Precautions (5.3)].
+- Men with carcinoma of the breast or known or suspected carcinoma of the prostate [see Warnings and Precautions (5.4)].
 - Women who are pregnant.
   Testosterone can cause virilization of the female fetus when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 - Men with known hypersensitivity to XYOSTED or any of its ingredients (testosterone enanthate and sesame oil).
