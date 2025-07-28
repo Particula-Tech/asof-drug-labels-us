@@ -1,4 +1,4 @@
-Instructions for Use
+INSTRUCTIONS FOR USE
 
 BENLYSTA (ben-LIST-ah) (belimumab) injection, for subcutaneous use Prefilled Syringe
 
@@ -55,7 +55,7 @@ Gather supplies
 - •Remove 1 sealed tray containing a prefilled syringe from the refrigerator.
 - •Place any remaining prefilled syringes back into the refrigerator.
 - •Find a comfortable, well-lit, and clean surface and place the following supplies within reach:
-  - ○BENLYSTA Prefilled Syringe
+- ○BENLYSTA Prefilled Syringe
 - ○Alcohol swab (not included)
 - ○Gauze pad or cotton ball (not included)
 - ○Sharps container (not included)
@@ -83,9 +83,9 @@ Allow to come to room temperature
 - •Allow the prefilled syringe to sit at room temperature for 30 minutes.
   See Figure D.
 
-1. ○Do not warm the prefilled syringe in any other way.
-   For example, do not warm in a microwave oven, hot water, or in direct sunlight.
-2. ○Do not remove the Needle Cap during this step.
+- ○Do not warm the prefilled syringe in any other way.
+  For example, do not warm in a microwave oven, hot water, or in direct sunlight.
+- ○Do not remove the Needle Cap during this step.
 
 Inspect BENLYSTA solution
 
@@ -114,7 +114,7 @@ Clean the injection site
   See Figure G.
 
 - •Do not touch this area again before giving the injection.
-  - Step 4 Prepare for the injection
+- Step 4 Prepare for the injection
 - Remove the Needle Cap
 - •Do not remove the Needle Cap until right before you give the injection.
 - •Hold the prefilled syringe by the body and with the Needle facing away from you.
@@ -163,7 +163,7 @@ See Figure L.
 - •Put your used syringe and sharps in an FDA-cleared sharps disposal container right away after use.
   Do not throw away (dispose of) loose needles and syringes in your household trash.
 - •If you do not have an FDA-cleared sharps disposal container, you may use a household container that:
-  - ○is made of a heavy-duty plastic,
+- ○is made of a heavy-duty plastic,
 - ○can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
 - ○is upright and stable during use,
 - ○is leak-resistant, and
@@ -188,14 +188,14 @@ Distributed by GlaxoSmithKline
 
 Durham, NC 27701
 
-©2024 GSK group of companies or its licensor.
+©2025 GSK group of companies or its licensor.
 
-BNL:7IFU-S
+BNL:8IFU-S
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised June 2024
+Revised July 2025
 
-Instructions for Use
+INSTRUCTIONS FOR USE
 
 BENLYSTA (ben-LIST-ah) (belimumab) injection, for subcutaneous use Prefilled Autoinjector
 
@@ -221,8 +221,8 @@ Important Warnings
 
 - •The autoinjector should be used only 1 time and then thrown away.
   See below, “Step 6 – Throw away (dispose of) used autoinjector.”
-  - ○Do not share your BENLYSTA Autoinjector with other people.
-    You may give other people a serious infection or get a serious infection from them.
+- ○Do not share your BENLYSTA Autoinjector with other people.
+  You may give other people a serious infection or get a serious infection from them.
 - ○Do not shake the autoinjector.
 - ○Do not use if dropped onto a hard surface.
 - ○Do not remove the Ring Cap until right before the injection.
@@ -275,9 +275,9 @@ Allow to come to room temperature
 - •Allow the autoinjector to sit at room temperature for 30 minutes.
   See Figure D.
 
-1. ○Do not warm the autoinjector in any other way.
-   For example, do not warm in a microwave oven, hot water, or in direct sunlight.
-2. ○Do not remove the Ring Cap during this step.
+- ○Do not warm the autoinjector in any other way.
+  For example, do not warm in a microwave oven, hot water, or in direct sunlight.
+- ○Do not remove the Ring Cap during this step.
 
 Inspect BENLYSTA solution
 
@@ -323,7 +323,7 @@ Position the autoinjector
 - •Hold the autoinjector comfortably so that you can see the Inspection Window.
   It is important that you can look at the Inspection Window while giving the injection.
   You will look at the Inspection Window to:
-  - ○see that the purple indicator is moving while you are injecting.
+- ○see that the purple indicator is moving while you are injecting.
 - ○see that the purple indicator has stopped to make sure that the dose is complete.
   See Figure I.
 
@@ -390,9 +390,9 @@ Distributed by GlaxoSmithKline
 
 Durham, NC 27701
 
-©2024 GSK group of companies or its licensor.
+©2025 GSK group of companies or its licensor.
 
-BNL:6IFU-A
+BNL:7IFU-A
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Revised May 2024
+Revised July 2025
