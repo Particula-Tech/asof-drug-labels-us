@@ -88,15 +88,15 @@ The pharmacokinetics of atovaquone, proguanil, and cycloguanil after administrat
 Table 5.
 Point Estimates (90% CI) for Proguanil and Cycloguanil Parameters in Subjects with Mild and Moderate Hepatic Impairment Compared with Healthy Volunteers
 
-| Parameter | Comparison | Proguanil | Cycloguanil |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AUC(0-inf)a | mild:healthy | 1.96 (1.51, 2.54) | 0.32 (0.22, 0.45) |  |  |  |  |  |
-| Cmaxa | mild:healthy | 1.41 (1.16, 1.71) | 0.35 (0.24, 0.50) |  |  |  |  |  |
-| t1/2b | mild:healthy | 1.21 (0.92, 1.60) | 0.86 (0.49, 1.48) |  |  |  |  |  |
-| AUC(0-inf)a | moderate:healthy | 1.64 (1.14, 2.34) | ND |  |  |  |  |  |
-| Cmaxa | moderate:healthy | 0.97 (0.69, 1.36) | ND |  |  |  |  |  |
-| t1/2b | moderate:healthy | 1.46 (1.05, 2.05) | ND |  |  |  |  |  |
-| ND = Not determined due to lack of quantifiable data. a Ratio of geometric means. b Mean difference. |  |  |  |  |  |  |  |  |
+| Parameter | Comparison | Proguanil | Cycloguanil |
+| --- | --- | --- | --- |
+| AUC(0-inf)a | mild:healthy | 1.96 (1.51, 2.54) | 0.32 (0.22, 0.45) |
+| Cmaxa | mild:healthy | 1.41 (1.16, 1.71) | 0.35 (0.24, 0.50) |
+| t1/2b | mild:healthy | 1.21 (0.92, 1.60) | 0.86 (0.49, 1.48) |
+| AUC(0-inf)a | moderate:healthy | 1.64 (1.14, 2.34) | ND |
+| Cmaxa | moderate:healthy | 0.97 (0.69, 1.36) | ND |
+| t1/2b | moderate:healthy | 1.46 (1.05, 2.05) | ND |
+| ND = Not determined due to lack of quantifiable data. a Ratio of geometric means. b Mean difference. |  |  |  |
 
 Drug Interaction Studies
 

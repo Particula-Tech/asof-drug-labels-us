@@ -10,7 +10,7 @@ Of a total of 669 randomized patients (including 264 pediatric patients aged 5 t
 The results are listed in Table 6.
 
 Table 6.
-Prevention of Parasitemiaa in Placebo‑Controlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria in Residents of Malaria‑Endemic Areas
+Prevention of Parasitemiaa in PlaceboControlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria in Residents of MalariaEndemic Areas
 
 |  | MALARONE | Placebo |
 | --- | --- | --- |
@@ -36,14 +36,14 @@ In addition, the true exposure rate to P. falciparum malaria in both trials is u
 The results are listed in Table 7.
 
 Table 7.
-Prevention of Parasitemiaa in Active‑Controlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria in Non-Immune Travelers
+Prevention of Parasitemiaa in ActiveControlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria in Non-Immune Travelers
 
-|  | MALARONE | Mefloquine | Chloroquine plus Proguanil |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Total number of randomized patients who received study drug | 1,004 | 483 | 511 |  |  |  |
-| Failed to complete study | 14 | 6 | 4 |  |  |  |
-| Developed parasitemia (P. falciparum) | 0 | 0 | 3 |  |  |  |
-| a Free of parasitemia during the period of prophylactic therapy. |  |  |  |  |  |  |
+|  | MALARONE | Mefloquine | Chloroquine plus Proguanil |
+| --- | --- | --- | --- |
+| Total number of randomized patients who received study drug | 1,004 | 483 | 511 |
+| Failed to complete study | 14 | 6 | 4 |
+| Developed parasitemia (P. falciparum) | 0 | 0 | 3 |
+| a Free of parasitemia during the period of prophylactic therapy. |  |  |  |
 
 A third randomized, open‑label study was conducted which included 221 otherwise healthy pediatric patients (weighing ≥11 kg and aged 2 to 17 years) who were at risk of contracting malaria by traveling to an endemic area.
 The mean duration of travel was 15 days (range: 1 to 30 days).

@@ -30,7 +30,7 @@ Compared with active comparator drugs, subjects receiving MALARONE had fewer adv
 Prophylaxis with MALARONE was discontinued prematurely due to a treatment‑related adverse experience in 7 of 1,004 travelers.
 
 Table 3.
-Adverse Experiences in Active‑Controlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria
+Adverse Experiences in ActiveControlled Clinical Trials of MALARONE for Prophylaxis of P. falciparum Malaria
 
 | Adverse Experience | Percent of Subjects with Adverse Experiencesa(Percent of Subjects with Adverse Experiences Attributable to Therapy) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
