@@ -14,7 +14,9 @@ Do not exceed the recommended daily dose in adults and adolescents 12 years of a
 In children 6 to 11 years of age the recommended dose is 2.5 mg once daily in the evening.
 Advise patients to not ingest more than the recommended dose of levocetirizine dihydrochloride because of the increased risk of somnolence at higher doses.
 
-Risk of New Onset Pruritus After Discontinuation of levocetirizine dihydrochloride Inform patients pruritus has occurred within a few days of discontinuing levocetirizine dihydrochloride among patients who used levocetirizine dihydrochloride longterm (e.g., few months to years).
+Risk of New Onset Pruritus After Discontinuation of Levocetirizine Dihydrochloride Tablets
+
+Inform patients pruritus has occurred within a few days of discontinuing levocetirizine dihydrochloride among patients who used levocetirizine dihydrochloride longterm (e.g., few months to years).
 Pruritus may improve with restarting or tapering levocetirizine dihydrochloride [see Warnings and Precautions (5.3)].
 Advise patients to seek medical advice if pruritus occurs.
 
@@ -25,4 +27,4 @@ Manufactured by: Micro Labs Limited Goa-403 722, INDIA.
 Manufactured for: Micro Labs USA, Inc. Somerset, NJ 08873
 
 Rev.
-05/2025
+07/2025
