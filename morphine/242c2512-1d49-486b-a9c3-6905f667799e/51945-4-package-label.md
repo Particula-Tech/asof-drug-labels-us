@@ -43,4 +43,4 @@ Rx only
 
 Mallinckrodt™
 
-P/N: L10M12 Rev 02/2025
+P/N: L10M12 Rev 06/2025
