@@ -118,10 +118,6 @@ Active Ingredient: colchicine.
 Inactive Ingredients: FD&C Blue #2, FD&C Red #40, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polydextrose, polyethylene glycol, pregelatinized starch, sodium starch glycolate, titanium dioxide and triacetin.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Manufactured by: Alkem Laboratories Ltd., INDIA.
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
 
-Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054.
-
-Revised: January, 2022
-
-PT 9063-02
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921 Revised: February 2025 PT2919-04

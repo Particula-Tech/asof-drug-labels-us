@@ -23,11 +23,9 @@ FMF
 The recommended dosage of colchicine tablets for FMF in pediatric patients 4 years of age and older is based on age.
 The following daily doses may be given as a single or divided dose twice daily:
 
-· Children 4 to 6 years: 0.3 mg to 1.8 mg daily
-
-· Children 6 to 12 years: 0.9 mg to 1.8 mg daily
-
-· Adolescents older than 12 years: 1.2 mg to 2.4 mg daily
+- Children 4 to 6 years: 0.3 mg to 1.8 mg daily
+- Children 6 to 12 years: 0.9 mg to 1.8 mg daily
+- Adolescents older than 12 years: 1.2 mg to 2.4 mg daily
 
 ## 2.4 Dose Modification for Coadministration of Interacting Drugs
 
@@ -59,7 +57,7 @@ Colchicine tablets Dose Adjustment for Coadministration with Interacting Drugs i
 Table 2.
 Colchicine tablets Dose Adjustment for Coadministration with Protease Inhibitors
 
-| Protease Inhibitor | Clinical Comment | w/Colchicine ­Treatment of FMF |
+| Protease Inhibitor | Clinical Comment | w/Colchicine-Treatment of FMF |
 | --- | --- | --- |
 | Atazanavir sulfate (Reyataz) | Patients with renal or hepatic impairment should not be given colchicine with Reyataz. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
 | Darunavir (Prezista) | Patients with renal or hepatic impairment should not be given colchicine with Prezista/ ritonavir. | Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day) |
