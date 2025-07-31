@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.2 Tizanidine Tablets
+## 16.1 How Supplied
 
 Tizanidine Tablets USP, 2 mg are white to off white, oval, flat, beveled edged tablets debossed with “R179” on one side and “bisecting score” on other side.
 The tablets are available in bottles of 30, 150, 300 and 1000.
@@ -24,5 +24,7 @@ Bottles of 300 NDC 55111-180-03
 
 Bottles of 1000 NDC 55111-180-10
 
-Store at 25°C (77°F); excursions permitted to 15-30°C (59-86°F) [see USP Controlled Room Temperature].
+## 16.2 Storage and Handling
+
+Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Dispense in containers with child resistant closure.

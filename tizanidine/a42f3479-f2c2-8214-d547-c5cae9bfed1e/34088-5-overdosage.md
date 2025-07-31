@@ -7,9 +7,8 @@ In the majority of cases a decrease in sensorium was observed including lethargy
 Depressed cardiac function is also observed including most often bradycardia and hypotension.
 Respiratory depression is another common feature of tizanidine overdose.
 
-Should overdose occur, basic steps to ensure the adequacy of an airway and the monitoring of cardiovascular and respiratory systems should be undertaken.
-Tizanidine is a lipid-soluble drug, which is only slightly soluble in water and methanol.
-Therefore, dialysis is not likely to be an efficient method of removing drug from the body.
+Should overdose occur ensure the adequacy of an airway and monitorcardiovascular and respiratory function.
+Dialysis is not likely to be an efficient method of removing tizanidine from the body [see Description (11)].
 In general, symptoms resolve within one to three days following discontinuation of tizanidine and administration of appropriate therapy.
-Due to the similar mechanism of action, symptoms and management of tizanidine overdose are similar to that following clonidine overdose.
+Because of the similar mechanism of action, symptoms and management of tizanidine overdose are similar to that following clonidine overdose.
 For the most recent information concerning the management of overdose, contact a poison control center.

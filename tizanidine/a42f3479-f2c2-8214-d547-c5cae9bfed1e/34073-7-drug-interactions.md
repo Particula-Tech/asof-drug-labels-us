@@ -1,44 +1,34 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Fluvoxamine
+## 7.1 Strong CYP1A2 Inhibitors
 
-Concomitant use of fluvoxamine and tizanidine hydrochloride is contraindicated.
-Changes in pharmacokinetics of tizanidine when administered with fluvoxamine resulted in significantly decreased blood pressure, increased drowsiness, and increased psychomotor impairment.
-[see Contraindications (4) and Clinical Pharmacology (12.3)]
+Concomitant use of tizanidine hydrochloride with strong cytochrome P450 1A2 (CYP1A2) inhibitors (e.g., fluvoxamine, ciprofloxacin) is contraindicated.
+Changes in pharmacokinetics of tizanidine when administered with a strong CYP1A2 inhibitor resulted in significantly decreased blood pressure, increased drowsiness, and increased psychomotor impairment[see Contraindications (4) and Clinical Pharmacology (12.3)].
 
-## 7.2 Ciprofloxacin
+## 7.2 Moderate or Weak CYP1A2 Inhibitors
 
-Concomitant use of ciprofoxacin and tizanidine hydrochloride is contraindicated.
-Changes in pharmacokinetics of tizanidine when administered with ciprofloxacin resulted in significantly decreased blood pressure, increased drowsiness, and increased psychomotor impairment [See Contraindications (4) and Clinical Pharmacology (12.3)]
+Concomitant use of tizanidine hydrochloride with moderate or weak CYP1A2 inhibitors (e.g., zileuton, antiarrhythmics [amiodarone, mexiletine, propafenone, and verapamil], cimetidine, famotidine, oral contraceptives, acyclovir, and ticlopidine) should be avoided.
+If concomitant use is clinically necessary, and adverse reactions such as hypotension, bradycardia, or excessive drowsiness occur, reduce tizanidine hydrochloride dosage or discontinue tizanidine hydrochloride therapy.
+[see Clinical Pharmacology (12.3)].
 
-## 7.3 CYP1A2 Inhibitors other than Fluvoxamine and Ciprofloxacin
-
-Because of potential drug interactions, concomitant use of tizanidine hydrochloride with other CYP1A2 inhibitors, such as zileuton, fluoroquinolones other than strong CYP1A2 inhibitors (which are contraindicated), antiarrythmics (amiodarone, mexiletine, propafenone, and verapamil), cimetidine, famotidine, oral contraceptives, acyclovir, and ticlopidine) should be avoided.
-If their use is clinically necessary, therapy should be initiated with 2 mg dose and increased in 2 to 4 mg steps daily based on patient response to therapy.
-If adverse reactions such as hypotension, bradycardia, or excessive drowsiness occur, reduce or discontinue tizanidine hydrochloride therapy.
-[see Warnings and Precautions (5.5) and Clinical Pharmacology (12.3)]
-
-## 7.4 Oral Contraceptives
+## 7.3 Oral Contraceptives
 
 Concomitant use of tizanidine hydrochloride with oral contraceptives is not recommended.
-However, if concomitant use is clinically necessary, initiate tizanidine hydrochloride with a single 2 mg dose and increase in 2 to 4 mg steps daily based on patient response to therapy.
-If adverse reactions such as hypotension, bradycardia, or excessive drowsiness occur, reduce or discontinue tizanidine hydrochloride therapy.
-[see Clinical Pharmacology (12.3)]
+However, if concomitant use is clinically necessary and adverse reactions such as hypotension, bradycardia, or excessive drowsiness occur, reduce or discontinue tizanidine hydrochloride therapy [see Clinical Pharmacology (12.3)].
 
-## 7.5 Alcohol
+## 7.4 Alcohol and Other CNS Depressants
 
-Alcohol increases the overall amount of drug in the bloodstream after a dose of tizanidine hydrochloride.
+Alcohol increases the exposure of tizanidine after administration of tizanidine hydrochloride.
 This was associated with an increase in adverse reactions of tizanidine hydrochloride.
-The CNS depressant effects of tizanidine hydrochloride and alcohol are additive.
-[see Clinical Pharmacology (12.3)]
 
-## 7.6 Other CNS Depressants
+Concomitant use of tizanidine hydrochloride with CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may cause additive CNS depressant effects, including sedation.
+Monitor patients who take tizanidine hydrochloride with another CNS depressant for symptoms of excess sedation [see Clinical Pharmacology (12.3)].
 
-The sedative effects of tizanidine hydrochloride with CNS depressants (e.g., benzodiazepines, opioids, tricyclic antidepressants) may be additive.
-Monitor patients who take tizanidine hydrochloride with another CNS depressant for symptoms of excess sedation.
-[see Clinical Pharmacology (12.3)]
+## 7.5 α2-Adrenergic Agonists
 
-## 7.7 α2-adrenergic agonists
+Concomitant use of Tizanidine with other α2-adrenergic agonists is not recommended because hypotensive effects may be cumulative [see Warnings and Precautions (5.1)].
 
-Because hypotensive effects may be cumulative, it is not recommended that tizanidine hydrochloride be used with other α2-adrenergic agonists.
-[see Warnings and Precautions (5.1)]
+## 7.6 Antihypertensive Medications
+
+Concomitant use of Tizanidine with antihypertensive medications may cause additive hypotensive effects [see Warnings and Precautions (5.1)].
+Monitor patients who take Tizanidine with antihypertensive medications for hypotension.
