@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 200 mg/125 mg tablet Box
+# PRINCIPAL DISPLAY PANEL - 200 mg/125 mg Tablet Blister Pack Carton Box
 
 Rx only NDC 51167-809-01
 
@@ -6,7 +6,7 @@ ORKAMBI® (Lumacaftor/Ivacaftor) tablets 200 mg/125 mg per tablet
 
 112 tablets
 
-# PRINCIPAL DISPLAY PANEL - 100 mg/125 mg tablet Box
+# PRINCIPAL DISPLAY PANEL - 100 mg/125 mg Tablet Blister Pack Carton Box
 
 Rx only NDC 51167-700-02
 
@@ -14,7 +14,7 @@ ORKAMBI® (Lumacaftor/Ivacaftor) tablets 100 mg/125 mg per tablet
 
 112 tablets
 
-# PRINCIPAL DISPLAY PANEL - 100 mg/125 mg packet Carton
+# PRINCIPAL DISPLAY PANEL - 100 mg/125 mg Granule Packet Carton
 
 Rx only NDC 51167-900-01
 
@@ -28,7 +28,7 @@ Oral Granules 100 mg/125 mg per packet
 
 Lift here to open
 
-# PRINCIPAL DISPLAY PANEL - 150 mg/188 mg packet Carton
+# PRINCIPAL DISPLAY PANEL - 150 mg/188 mg Granule Packet Carton
 
 Rx only
 
@@ -44,7 +44,7 @@ Oral Granules 150 mg/188 mg per packet
 
 Lift here to open
 
-# PRINCIPAL DISPLAY PANEL - 75 mg/94 mg packet Carton
+# PRINCIPAL DISPLAY PANEL - 75 mg/94 mg Granule Packet Carton
 
 Rx only
 
