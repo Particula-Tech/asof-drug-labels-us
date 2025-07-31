@@ -5,6 +5,8 @@ The recommended dosage regimen is once every 24 hours as needed for treatment of
 Administer QUZYTTIR as an intravenous push over a period of 1 to 2 minutes.
 QUZYTTIR is not recommended in pediatric patients less than 6 years of age with impaired renal or hepatic function [see Pediatric Use (8.4)].
 
+If using as an antihistamine prior to infusion product administration, refer to infusion product prescribing information for instructions.
+
 ## 2.1 Adults and adolescents 12 years of age and older
 
 The recommended dosage is 10 mg administered by intravenous injection.

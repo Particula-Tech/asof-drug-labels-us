@@ -34,19 +34,19 @@ The developmental and health benefits of breastfeeding should be considered alon
 Data
 
 Animal Data: Cetirizine hydrochloride was detected in the milk of mice.
-No adverse developmental effects on pups were seen when cetirizine hydrochloride was administered orally to dams during lactation at a dose that was approximately 10 times the MRHD in adults [See Use in Specific Populations (8.1)].
+No adverse developmental effects on pups were seen when cetirizine hydrochloride was administered orally to dams during lactation at a dose that was approximately 10 times the MRHD in adults [see Use in Specific Populations (8.1)].
 Studies in beagle dogs indicated that approximately 3% of the dose of cetirizine hydrochloride was excreted in milk.
 The concentration of drug in animal milk does not necessarily predict the concentration of drug in human milk.
 
 ## 8.4 Pediatric Use
 
 The safety and efficacy of QUZYTTIR have been established in patients 6 months to 17 years of age.
-The efficacy of QUZYTTIR for the treatment of acute urticaria down to 6 months of age is based on extrapolation of the efficacy of QUZYTTIR in adults with acute urticaria [See Clinical Studies (14)] and supported by pharmacokinetic data with oral cetirizine hydrochloride (the active ingredient in QUZYTTIR) in patients 6 months to 17 years of age.
+The efficacy of QUZYTTIR for the treatment of acute urticaria down to 6 months of age is based on extrapolation of the efficacy of QUZYTTIR in adults with acute urticaria [see Clinical Studies (14)] and supported by pharmacokinetic data with oral cetirizine hydrochloride (the active ingredient in QUZYTTIR) in patients 6 months to 17 years of age.
 Based upon the known PK profile of oral cetirizine hydrochloride, the exposure of IV cetirizine hydrochloride in pediatric patients (6 months to 17 years of age) is expected to be similar to the exposure of IV cetirizine hydrochloride in adults at the labeled doses.
 Extrapolation of efficacy is based on the likelihood that the disease course, pathophysiology and the drug's effect are similar between these two populations.
 
 The safety of QUZYTTIR in children 6 months to 17 years of age is supported by safety information from placebo-controlled clinical trials with oral cetirizine hydrochloride in patients 6 months of age and older [see Adverse Reactions (6)].
-QUZYTTIR demonstrates a higher Cmax compared to oral cetirizine hydrochloride in adults [See Clinical Pharmacology (12.3)].
+QUZYTTIR demonstrates a higher Cmax compared to oral cetirizine hydrochloride in adults [see Clinical Pharmacology (12.3)].
 As QUZYTTIR is indicated for an acute condition administered in a medically supervised setting, the safety for higher Cmax in children 6 months to less than 18 years of age is supported by the safety data from the clinical trial with IV cetirizine hydrochloride in adults [see Adverse Reactions (6)] and available safety information from pediatric overdose cases.
 
 Because of the absence of pharmacokinetic and safety information for cetirizine hydrochloride in children below 6 years of age with impaired renal or hepatic function, the use of QUZYTTIR in this impaired patient population is not recommended [see Dosage And Administration (2)].
@@ -65,7 +65,7 @@ With regard to efficacy, the clinical trials with cetirizine hydrochloride oral 
 ## 8.6 Hepatic Impairment
 
 No dosage adjustment is required in patients with hepatic impairment.
-Monitor for antihistaminic side effects in this patient population [See Clinical Pharmacology (12.3)].
+Monitor for antihistaminic side effects in this patient population [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
