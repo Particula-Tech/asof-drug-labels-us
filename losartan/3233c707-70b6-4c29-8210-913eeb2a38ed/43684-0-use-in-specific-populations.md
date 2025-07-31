@@ -31,7 +31,7 @@ Fetal testing may be appropriate, based on the week of gestation.
 If oligohydramnios is observed, discontinue losartan potassium, unless it is considered lifesaving for the mother.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 
-Closely observe infants with histories of in utero exposure to losartan potassium for hypotension, oliguria, and hyperkalemia.
+Closely observe neonates with histories of in utero exposure to losartan potassium for hypotension, oliguria, and hyperkalemia.
 In neonates with a history of in utero exposure to losartan potassium, if oliguria or hypotension occurs, support blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and replacing renal function.
 

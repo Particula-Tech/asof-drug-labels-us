@@ -62,7 +62,7 @@ Following oral 14C-labeled losartan, about 35% of radioactivity is recovered in 
 Following an intravenous dose of 14C-labeled losartan, about 45% of radioactivity is recovered in the urine and 50% in the feces.
 Neither losartan nor its metabolite accumulates in plasma upon repeated once-daily dosing.
 
-Special Populations
+Specific Populations
 
 Pediatric
 
