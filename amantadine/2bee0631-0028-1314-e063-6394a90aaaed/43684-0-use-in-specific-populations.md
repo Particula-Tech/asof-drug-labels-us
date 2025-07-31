@@ -60,7 +60,7 @@ No dose adjustment is recommended on the basis of age.
 GOCOVRI is known to be substantially excreted by the kidney, and the risk of adverse reactions may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.3)].
 
-## 8.6. Renal Impairment
+## 8.6 Renal Impairment
 
 GOCOVRI is contraindicated for use in patients with end-stage renal disease (creatinine clearance values lower than 15 mL/min/1.73 m 2).
 
