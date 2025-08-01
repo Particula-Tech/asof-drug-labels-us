@@ -10,17 +10,17 @@ An increased incidence of stillbirths was noted at diltiazem doses approximately
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of major birth defects, loss, and other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2- 4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
 Data
 
 Animal Data
 
 Embryofetal development studies have been conducted with diltiazem in rats and rabbits.
-Daily oral administration of diltiazem at 0, 17.5, 35 or 70 mg/kg to pregnant rabbits during organogenesis (gestational day 6 to 18) resulted in embryo-fetal lethality at 35 mg/kg/day (approximately 1 time the MRHD of CARDIZEM LA, on a mg/m 2basis) and higher, concurrent with maternal toxicity (reduced body weight gain).
-Daily oral administration of diltiazem at 0, 100, 200 and 400 mg/kg to pregnant rats during organogenesis (gestation day 9 to 14) resulted in embryo-fetal lethality at 200 mg/kg/day (approximately 4 times the MRHD of CARDIZEM LA, on a mg/m 2basis) and higher.
+Daily oral administration of diltiazem at 0, 17.5, 35 or 70 mg/kg to pregnant rabbits during organogenesis (gestational day 6 to 18) resulted in embryo-fetal lethality at 35 mg/kg/day (approximately 1 time the MRHD of CARDIZEM LA, on a mg/m2 basis) and higher, concurrent with maternal toxicity (reduced body weight gain).
+Daily oral administration of diltiazem at 0, 100, 200 and 400 mg/kg to pregnant rats during organogenesis (gestation day 9 to 14) resulted in embryo-fetal lethality at 200 mg/kg/day (approximately 4 times the MRHD of CARDIZEM LA, on a mg/m2 basis) and higher.
 These doses, in some studies, were reported to cause increased incidence of skeletal malformations (e.g. malformations of vertebral column) or variations.
-In an oral perinatal/postnatal study in rats with diltiazem at 0, 50, 100, 200 and 400 mg/kg/day from gestation day 15 to lactation/post-partum day 20, there was an increased incidence of stillbirths at 100 mg/kg/day, approximately 2 times (on a mg/m 2basis) the MRHD of CARDIZEM LA.
+In an oral perinatal/postnatal study in rats with diltiazem at 0, 50, 100, 200 and 400 mg/kg/day from gestation day 15 to lactation/post-partum day 20, there was an increased incidence of stillbirths at 100 mg/kg/day, approximately 2 times (on a mg/m2 basis) the MRHD of CARDIZEM LA.
 
 ## 8.2 Lactation
 

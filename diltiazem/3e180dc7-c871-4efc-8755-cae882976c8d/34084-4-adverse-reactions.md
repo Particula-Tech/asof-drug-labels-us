@@ -2,10 +2,10 @@
 
 The following adverse reactions are described in greater detail, in other sections:
 
-- Bradycardia and AV block [see Warnings and Precautions (5.1)]
-- Heart failure [see Warnings and Precautions (5.2)]
-- Acute hepatic injury [see Warnings and Precautions (5.3)]
-- Severe skin reactions [see Warnings and Precautions (5.4)]
+- •Bradycardia and AV block [see Warnings and Precautions (5.1)]
+- •Heart failure [see Warnings and Precautions (5.2)]
+- •Acute hepatic injury [see Warnings and Precautions (5.3)]
+- •Severe skin reactions [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -25,22 +25,22 @@ The most frequent adverse effects experienced by CARDIZEM LA-treated patients we
 
 In addition, the following events have been reported infrequently (less than 1%) in angina or hypertension trials:
 
-Cardiovascular:Angina, bundle branch block, palpitations, syncope, tachycardia, ventricular extrasystoles [see Warnings and Precautions (5.1, 5.2)].
+Cardiovascular: Angina, bundle branch block, palpitations, syncope, tachycardia, ventricular extrasystoles [see Warnings and Precautions (5.1, 5.2)].
 
-Nervous System:Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tinnitus, tremor.
+Nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tinnitus, tremor.
 
-Gastrointestinal:Anorexia, constipation, diarrhea, dry mouth, dysgeusia, dyspepsia, thirst, vomiting, weight increase.
+Gastrointestinal: Anorexia, constipation, diarrhea, dry mouth, dysgeusia, dyspepsia, thirst, vomiting, weight increase.
 
-Dermatological:Petechiae, photosensitivity, pruritus, urticaria [see Warnings and Precautions (5.4)].
+Dermatological: Petechiae, photosensitivity, pruritus, urticaria [see Warnings and Precautions (5.4)].
 
-Other:Amblyopia, CPK increase, dyspnea, epistaxis, eye irritation, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, nocturia, osteoarticular pain, polyuria, sexual difficulties.
+Other: Amblyopia, CPK increase, dyspnea, epistaxis, eye irritation, hyperglycemia, hyperuricemia, impotence, muscle cramps, nasal congestion, nocturia, osteoarticular pain, polyuria, sexual difficulties.
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post -approval use of diltiazem.
+The following adverse reactions have been identified during post-approval use of diltiazem.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or establish a causal relationship to drug exposure.
 
-The following post -marketing reactions have been reported infrequently in patients receiving diltiazem: acute generalized exanthematous pustulosis, allergic reactions, alopecia, angioedema (including facial or periorbital edema), erythema multiforme, extrapyramidal symptoms, gingival hyperplasia, hemolytic anemia, increased bleeding time, leukopenia, photosensitivity (including lichenoid keratosis and hyperpigmentation at sun-exposed skin areas), purpura, retinopathy, myopathy, and thrombocytopenia.
+The following post-marketing reactions have been reported infrequently in patients receiving diltiazem: acute generalized exanthematous pustulosis, allergic reactions, alopecia, angioedema (including facial or periorbital edema), erythema multiforme, extrapyramidal symptoms, gingival hyperplasia, hemolytic anemia, increased bleeding time, leukopenia, photosensitivity (including lichenoid keratosis and hyperpigmentation at sun-exposed skin areas), purpura, retinopathy, myopathy, and thrombocytopenia.
 
 In addition, events such as myocardial infarction have been observed which are not readily distinguishable from the natural history of the disease in these patients.
 

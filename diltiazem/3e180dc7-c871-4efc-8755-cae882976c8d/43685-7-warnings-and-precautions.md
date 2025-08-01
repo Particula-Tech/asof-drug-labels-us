@@ -5,7 +5,7 @@
 CARDIZEM LA may cause abnormally slow heart rates or second- or third-degree AV block.
 Patients with sick sinus syndrome are at increased risk of bradycardia.
 Concomitant use of diltiazem with beta-blockers or digitalis may result in additive effects on cardiac conduction.
-A patient with Prinzmetal's angina developed periods of asystole (2 to 5 seconds) after a single dose of 60 mg of diltiazem [see Adverse Reactions (6)].
+A patient with Prinzmetal’s angina developed periods of asystole (2 to 5 seconds) after a single dose of 60 mg of diltiazem [see Adverse Reactions (6)].
 Monitor for effects on heart rate and cardiac conduction.
 
 ## 5.2 Heart Failure

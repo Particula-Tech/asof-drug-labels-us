@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-CARDIZEM ®LA is supplied as capsule shaped, white film-coated tablets, debossed with “B” on one side and the diltiazem content (mg) on the other.
+CARDIZEM® LA is supplied as capsule shaped, white film-coated tablets, debossed with “B” on one side and the diltiazem content (mg) on the other.
 
 | Strength | NDC # Bottles of 30 | NDC # Bottles of 90 |
 | --- | --- | --- |

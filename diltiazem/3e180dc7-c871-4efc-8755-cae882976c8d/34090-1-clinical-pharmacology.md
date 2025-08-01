@@ -4,10 +4,10 @@
 
 The therapeutic effects of diltiazem are believed to be related to its ability to inhibit the cellular influx of calcium ions during membrane depolarization of cardiac and vascular smooth muscle.
 
-Hypertension:Diltiazem produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
+Hypertension: Diltiazem produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
 The magnitude of blood pressure reduction is related to the degree of hypertension; thus hypertensive individuals experience an antihypertensive effect, whereas there is only a modest fall in blood pressure in normotensives.
 
-Angina:Diltiazem has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
+Angina: Diltiazem has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
 This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal workloads.
 Diltiazem has been shown to be a potent dilator of coronary arteries, both epicardial and subendocardial.
 Spontaneous and ergonovine-induced coronary artery spasms are inhibited by diltiazem.
@@ -52,8 +52,8 @@ Drugs that induce or inhibit hepatic microsomal enzymes may alter diltiazem disp
 
 Total radioactivity measurement following short IV administration in healthy volunteers suggests the presence of other unidentified metabolites, which attain higher concentrations than those of diltiazem and are more slowly eliminated; half-life of total radioactivity is about 20 hours compared to 2 to 5 hours for diltiazem.
 
-In vitrobinding studies show diltiazem is 70% to 80% bound to plasma proteins.
-Competitive in vitroligand binding studies have also shown diltiazem hydrochloride binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
+In vitro binding studies show diltiazem is 70% to 80% bound to plasma proteins.
+Competitive in vitro ligand binding studies have also shown diltiazem hydrochloride binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
 The plasma elimination half-life following single or multiple drug administration is approximately 3.0 to 4.5 hours.
 Desacetyl diltiazem is also present in the plasma at levels of 10% to 20% of the parent drug and is 25% to 50% as potent as a coronary vasodilator as diltiazem.
 Minimum therapeutic plasma diltiazem concentrations appear to be in the range of 50 to 200 ng/mL.
@@ -61,7 +61,7 @@ There is a departure from linearity when dose strengths are increased; the half-
 A study that compared patients with normal hepatic function to patients with cirrhosis found an increase in half-life and a 69% increase in bioavailability in the hepatically impaired patients.
 A single study in nine patients with severely impaired renal function showed no difference in the pharmacokinetic profile of diltiazem compared to patients with normal renal function.
 
-CARDIZEM LA Tablets:A single 360 mg dose of CARDIZEM LA results in detectable plasma levels within 3 to 4 hours and peak plasma levels between 11 and 18 hours; absorption occurs throughout the dosing interval.
+CARDIZEM LA Tablets: A single 360 mg dose of CARDIZEM LA results in detectable plasma levels within 3 to 4 hours and peak plasma levels between 11 and 18 hours; absorption occurs throughout the dosing interval.
 The apparent elimination half-life for CARDIZEM LA Tablets after single or multiple dosing is 6 to 9 hours.
 When CARDIZEM LA Tablets were coadministered with a high fat content breakfast, diltiazem peak and systemic exposures were not affected indicating that the tablet can be administered without regard to food.
 As the dose of CARDIZEM LA Tablets is increased from 120 to 240 mg, area-under-the-curve (AUC) increases 2.5-fold.
@@ -70,42 +70,42 @@ Drug Interactions
 
 Impact of Diltiazem on Other Coadministered Drugs
 
-Anesthetics:The depression of cardiac contractility, conductivity, and automaticity as well as the vascular dilation associated with anesthetics may be potentiated by calcium channel blockers.
+Anesthetics: The depression of cardiac contractility, conductivity, and automaticity as well as the vascular dilation associated with anesthetics may be potentiated by calcium channel blockers.
 When used concomitantly, anesthetics and calcium blockers should be titrated carefully.
 
-Benzodiazepines:Studies showed that diltiazem increased the AUC of midazolam and triazolam by 3- to 4-fold and the C maxby 2-fold, compared to placebo.
+Benzodiazepines: Studies showed that diltiazem increased the AUC of midazolam and triazolam by 3- to 4-fold and the Cmax by 2-fold, compared to placebo.
 The elimination half-life of midazolam and triazolam also increased (1.5- to 2.5-fold) during coadministration with diltiazem.
 These pharmacokinetic effects seen during diltiazem coadministration can result in increased clinical effects (e.g., prolonged sedation) of both midazolam and triazolam.
 
-Beta-blockers:Controlled and uncontrolled domestic studies suggest that concomitant use of diltiazem and beta-blockers is usually well tolerated, but available data are not sufficient to predict the effects of concomitant treatment in patients with left ventricular dysfunction or cardiac conduction abnormalities.
+Beta-blockers: Controlled and uncontrolled domestic studies suggest that concomitant use of diltiazem and beta-blockers is usually well tolerated, but available data are not sufficient to predict the effects of concomitant treatment in patients with left ventricular dysfunction or cardiac conduction abnormalities.
 
 Administration of diltiazem concomitantly with propranolol in five normal volunteers resulted in increased propranolol levels in all subjects and bioavailability of propranolol was increased approximately 50%.
 In vitro, propranolol appears to be displaced from its binding sites by diltiazem.
 If combination therapy is initiated or withdrawn in conjunction with propranolol, an adjustment in the propranolol dose may be warranted [see Warnings and Precautions (5.1, 5.2)].
 
-Buspirone:In nine healthy subjects, diltiazem significantly increased the mean buspirone AUC 5.5-fold and C max4.1-fold compared to placebo.
-The elimination half-life and T maxof buspirone were not significantly affected by diltiazem.
+Buspirone: In nine healthy subjects, diltiazem significantly increased the mean buspirone AUC 5.5-fold and Cmax 4.1-fold compared to placebo.
+The elimination half-life and Tmax of buspirone were not significantly affected by diltiazem.
 Enhanced effects and increased toxicity of buspirone may be possible during concomitant administration with diltiazem.
 Subsequent dose adjustments may be necessary during coadministration, and should be based on clinical assessment.
 
-Carbamazepine:Concomitant administration of diltiazem with carbamazepine has been reported to result in elevated serum levels of carbamazepine (40% to 72% increase), resulting in toxicity in some cases.
+Carbamazepine: Concomitant administration of diltiazem with carbamazepine has been reported to result in elevated serum levels of carbamazepine (40% to 72% increase), resulting in toxicity in some cases.
 
-Clonidine:Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with diltiazem.
+Clonidine: Sinus bradycardia resulting in hospitalization and pacemaker insertion has been reported in association with the use of clonidine concurrently with diltiazem.
 Monitor heart rate in patients receiving concomitant diltiazem and clonidine.
 
-Cyclosporine:A pharmacokinetic interaction between diltiazem and cyclosporine has been observed during studies involving renal and cardiac transplant patients.
+Cyclosporine: A pharmacokinetic interaction between diltiazem and cyclosporine has been observed during studies involving renal and cardiac transplant patients.
 In renal and cardiac transplant recipients, a reduction of cyclosporine dose ranging from 15% to 48% was necessary to maintain cyclosporine trough concentrations similar to those seen prior to the addition of diltiazem.
 If these agents are to be administered concurrently, cyclosporine concentrations should be monitored, especially when diltiazem therapy is initiated, adjusted, or discontinued.
 The effect of cyclosporine on diltiazem plasma concentrations has not been evaluated.
 
-Digitalis:Administration of diltiazem with digoxin in 24 healthy male subjects increased plasma digoxin concentrations approximately 20%.
+Digitalis: Administration of diltiazem with digoxin in 24 healthy male subjects increased plasma digoxin concentrations approximately 20%.
 Another investigator found no increase in digoxin levels in 12 patients with coronary artery disease.
 Monitor digoxin levels when initiating, adjusting, and discontinuing diltiazem therapy to avoid possible over- or under-digitalization [see Warnings and Precautions (5.1)].
 
-Quinidine:Diltiazem increases the AUC (0→∞)of quinidine by 51%, elimination half-life by 36%, and decreases its oral clearance by 33%.
+Quinidine: Diltiazem increases the AUC (0→∞) of quinidine by 51%, elimination half-life by 36%, and decreases its oral clearance by 33%.
 Monitor for quinidine adverse effects and adjust the dose adjusted.
 
-Statins:Diltiazem has been shown to increase significantly the AUC of some statins.
+Statins: Diltiazem has been shown to increase significantly the AUC of some statins.
 The risk of myopathy and rhabdomyolysis with statins metabolized by CYP3A4 may be increased with concomitant use of diltiazem.
 When possible, use a non-CYP3A4-metabolized statin together with diltiazem; otherwise, dose adjustments for both diltiazem and the statin should be considered along with close monitoring for signs and symptoms of any statin-related adverse events.
 
@@ -114,8 +114,8 @@ Subjects with increased average steady-state exposures of diltiazem showed a gre
 Computer-based simulations showed that at a daily dose of 480 mg of diltiazem, an 8- to 9-fold mean increase in simvastatin AUC can be expected.
 If coadministration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
 
-In a 10-subject randomized, open label, 4-way cross-over study, coadministration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and C maxversus lovastatin alone.
-In the same study, there was no significant change in 20 mg single dose pravastatin AUC and C maxduring diltiazem coadministration.
+In a 10-subject randomized, open label, 4-way cross-over study, coadministration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
+In the same study, there was no significant change in 20 mg single dose pravastatin AUC and Cmax during diltiazem coadministration.
 Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
 
 Impact of Other Coadministered Drugs on Diltiazem Include, but Not Limited to:
@@ -124,7 +124,7 @@ Rifampin: Coadministration of rifampin with diltiazem lowered the diltiazem plas
 Coadministration of diltiazem with rifampin or any known CYP3A4 inducer should be avoided when possible, and alternative therapy considered.
 
 Cimetidine and Ranitidine: A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and AUC (53%) after a 1-week course of cimetidine at 1200 mg per day and a single dose of diltiazem 60 mg.
-Ranitidine produced smaller, non -significant increases.
+Ranitidine produced smaller, non-significant increases.
 The effect may be mediated by cimetidine's known inhibition of hepatic cytochrome P450, the enzyme system responsible for the first-pass metabolism of diltiazem.
 Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine.
 An adjustment in the diltiazem dose may be warranted.
