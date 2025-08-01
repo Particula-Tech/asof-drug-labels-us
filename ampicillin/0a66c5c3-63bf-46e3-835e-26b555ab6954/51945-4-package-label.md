@@ -1,12 +1,12 @@
-# 250 mg Label
+# 500 mg Label
 
-NDC 0781-2144-01
+NDC 0781-2145-01
 
 Ampicillin
 
 Capsules, USP
 
-250 mg
+500 mg
 
 Rx only
 

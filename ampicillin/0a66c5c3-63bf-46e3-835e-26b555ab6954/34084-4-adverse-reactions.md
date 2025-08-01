@@ -5,10 +5,19 @@ They are more likely to occur in individuals who have previously demonstrated hy
 
 The following adverse reactions have been reported as associated with the use of ampicillin:
 
+Infections and Infestations:Clostridioides difficile-associated diarrhea (see WARNINGS section).
+
 Gastrointestinal: glossitis, stomatitis, nausea, vomiting, enterocolitis, pseudomembranous colitis, and diarrhea.
 These reactions are usually associated with oral dosage forms of the drugs.
 
-Hypersensitivity Reactions: An erythematous, mildly pruritic, maculopapular skin rash has been reported fairly frequently.
+Hypersensitivity Reactions: Severe cutaneous adverse reactions, including Stevens-Johnson syndrome
+
+(SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms
+
+(DRESS), angioedema, and acute generalized exanthematous pustulosis (AGEP) have been reported in
+
+beta-lactam antibiotics (see WARNINGS).
+An erythematous, mildly pruritic, maculopapular skin rash has been reported fairly frequently.
 The rash, which usually does not develop within the first week of therapy, may cover the entire body including the soles, palms, and oral mucosa.
 The eruption usually disappears in three to seven days.
 Other hypersensitivity reactions that have been reported are: skin rash, pruritus, urticaria, erythema multiforme, and an occasional case of exfoliative dermatitis.

@@ -11,19 +11,74 @@ IF AN ALLERGIC REACTION OCCURS, APPROPRIATE THERAPY SHOULD BE CONSIDERED.
 SERIOUS ANAPHYLACTIC REACTIONS REQUIRE IMMEDIATE EMERGENCY TREATMENT WITH EPINEPHRINE.
 OXYGEN, INTRAVENOUS STEROIDS, AND AIRWAY MANAGEMENT, INCLUDING INTUBATION, SHOULD ALSO BE ADMINISTERED AS INDICATED.
 
-Pseudomembranous colitis has been reported with nearly all antibacterial agents, including ampicillin, and may range in severity from mild to life-threatening.
-Therefore, it is important to consider this diagnosis in patients who present with diarrhea subsequent to the administration of antibacterial agents.
+Severe Cutaneous Adverse Reactions
 
-Treatment with antibacterial agents alters the normal flora of the colon and may permit overgrowth of clostridia.
-Studies indicate that a toxin produced by Clostridium difficile is a primary cause of “antibiotic-associated colitis”.
+Ampicillin may cause severe cutaneous adverse reactions (SCARs), such as toxic epidermal necrolysis
 
-After the diagnosis of pseudomembranous colitis has been established, therapeutic measures should be initiated.
-Mild cases of pseudomembranous colitis usually respond to discontinuation of the drug alone.
-In moderate to severe cases, consideration should be given to management with fluids and electrolytes, protein supplementation and treatment with an antibacterial drug clinically effective against C. difficile colitis.
+(TEN), Stevens-Johnson syndrome (SJS), drug reaction with eosinophilia and systemic symptoms
+
+(DRESS), exfoliative dermatitis, erythema multiforme, and acute generalized exanthematous pustulosis
+
+(AGEP).
+If patients develop a skin rash, they should be monitored closely, and ampicillin discontinued if
+
+lesions progress.
+
+Hepatotoxicity
+
+Hepatic dysfunction, including hepatitis and cholestatic jaundice has been associated with the use of
+
+ampicillin.
+Hepatic toxicity is usually reversible; however, deaths have been reported.
+Hepatic function
+
+should be monitored at regular intervals in patients with hepatic impairment.
+
+Clostridioides difficile-Associated Diarrhea
+
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial
+
+agents, including ampicillin, and may range in severity from mild diarrhea to fatal colitis.
+Treatment with
+
+antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
+
+C. difficile produces toxins A and B which contribute to the development of CDAD.
+Hypertoxin
+
+producing strains of C. difficile cause increased morbidity and mortality, as these infections can be
+
+refractory to antimicrobial therapy and may require colectomy.
+CDAD must be considered in all patients
+
+who present with diarrhea following antibacterial drug use.
+Careful medical history is necessary since
+
+CDAD has been reported to occur over two months after the administration of antibacterial agents.
+
+If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may
+
+need to be discontinued.
+Appropriate fluid and electrolyte management, protein supplementation,
+
+antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
 # PRECAUTIONS
 
 ## General
+
+A high percentage of patients with mononucleosis who receive ampicillin develop a skin rash.
+Thus,
+
+ampicillin class antibacterial should not be administered to patients with mononucleosis.
+In patients
+
+treated with ampicillin the possibility of superinfections with mycotic or bacterial pathogens should be
+
+kept in mind during therapy.
+If superinfections occur (usually involving Pseudomonas or Candida), the
+
+drug should be discontinued and/or appropriate therapy instituted.
 
 Prescribing ampicillin in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
@@ -37,13 +92,23 @@ Treatment with ampicillin does not preclude the need for surgical procedures, pa
 ## Information for the Patient
 
 1. 1.The patient should inform the physician of any history of sensitivity to allergens, including previous hypersensitivity reactions to penicillins and cephalosporins (see WARNINGS).
-2. 2.The patient should discontinue ampicillin and contact the physician immediately if any side effect occurs (see WARNINGS).
-3. 3.Ampicillin should be taken with a full glass (8 oz) of water, one-half hour before or two hours after meals.
-4. 4.Diabetic patients should consult with the physician before changing diet or dosage of diabetes medication (see PRECAUTIONS–Drug/Laboratory Test Interactions).
-5. 5.Patients should be counseled that antibacterial drugs including ampicillin should only be used to treat bacterial infections.
-   They do not treat viral infections (e.g., the common cold).
-   When ampicillin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
-   Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ampicillin or other antibacterial drugs in the future.
+2. 2.Advise patients about the signs and symptoms of serious skin manifestations.
+   Instruct patients to stop
+3. taking ampicillin immediately and promptly report the first signs or symptoms of skin rash, mucosal
+4. lesions, or any other sign of hypersensitivity [see WARNINGS].
+5. 3.Diarrhea is a common problem caused by antibacterials which usually ends when the antibacterial is
+6. discontinued.
+   Sometimes after starting treatment with antibacterials, patients can develop watery and
+7. bloody stools (with or without stomach cramps and fever) even as late as two or more months after
+8. having taken the last dose of the antibacterial.
+   If this occurs, patients should contact their physician
+9. as soon as possible.
+10. 4.Ampicillin should be taken with a full glass (8 oz) of water, one-half hour before or two hours after meals.
+11. 5.Diabetic patients should consult with the physician before changing diet or dosage of diabetes medication (see PRECAUTIONS–Drug/Laboratory Test Interactions).
+12. 6.Patients should be counseled that antibacterial drugs including ampicillin should only be used to treat bacterial infections.
+    They do not treat viral infections (e.g., the common cold).
+    When ampicillin is prescribed to treat a bacterial infection, patients should be told that although it is common to feel better early in the course of therapy, the medication should be taken exactly as directed.
+    Skipping doses or not completing the full course of therapy may: (1) decrease the effectiveness of the immediate treatment, and (2) increase the likelihood that bacteria will develop resistance and will not be treatable by ampicillin or other antibacterial drugs in the future.
 
 ## Laboratory Tests
 
@@ -59,7 +124,12 @@ Patients who do not have suspected lesions of syphilis and are treated with ampi
 
 When administered concurrently, the following drugs may interact with ampicillin.
 
-Allopurinol: Increased possibility of skin rash, particularly in hyperuricemic patients may occur.
+Allopurinol: Substantially increased incidence of skin rashes in patients receiving both drugs as compared
+
+to patients receiving ampicillin alone.
+It is not known whether this potentiation of ampicillin rashes is due
+
+to allopurinol or the hyperuricemia present in these patients.
 
 Bacteriostatic Antibiotics: Chloramphenicol, erythromycins, sulfonamides, or tetracyclines may interfere with the bactericidal effect of penicillins.
 This has been demonstrated in vitro; however, the clinical significance of this interaction is not well-documented.
@@ -71,6 +141,11 @@ Probenecid: May decrease renal tubular secretion of ampicillin resulting in incr
 ## Drug/Laboratory Test Interactions
 
 After treatment with ampicillin, a false-positive reaction for glucose in the urine may occur with copper sulfate tests (Benedict’s solution, Fehling’s solution, or Clinitest® tablets) but not with enzyme based tests such as Clinistix® and Tes-Tape®.
+Following administration of ampicillin to pregnant women, a transient
+
+decrease in plasma concentration of total conjugated estriol, estriol-glucuronide, conjugated estrone and
+
+estradiol has been noted.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
@@ -83,6 +158,7 @@ Teratogenic Effects
 Reproduction studies in animals have revealed no evidence of impaired fertility or harm to the fetus due to penicillin.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, penicillin should be used during pregnancy only if clearly needed.
+(See PRECAUTIONS-Drug/Laboratory Test Interactions.)
 
 ## Labor and Delivery
 
@@ -93,7 +169,7 @@ However, it is not known whether use of these drugs in humans during labor or de
 ## Nursing Mothers
 
 Ampicillin-class antibiotics are excreted in milk.
-Ampicillin used by nursing mothers may lead to sensitization of infants; therefore, a decision should be made whether to discontinue nursing or to discontinue ampicillin, taking into account the importance of the drug to the mother.
+Ampicillin used by nursing mothers may lead to sensitization of infants; therefore, caution should be exercised when ampicillin is administered to a nursing woman.
 
 ## Pediatric Use
 
