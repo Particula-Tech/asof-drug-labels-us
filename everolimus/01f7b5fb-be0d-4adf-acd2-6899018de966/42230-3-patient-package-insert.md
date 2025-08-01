@@ -68,4 +68,4 @@
 | Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922 |  |
 | The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Breckenridge Pharmaceutical, Inc. |  |
 | This Patient Information has been approved by the U.S. Food and Drug Administration. |  |
-| Revised: 12/2024 |  |
+| Revised: 02/2025 |  |

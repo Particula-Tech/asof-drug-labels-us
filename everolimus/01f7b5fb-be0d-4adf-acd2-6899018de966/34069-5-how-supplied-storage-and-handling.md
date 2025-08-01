@@ -48,6 +48,7 @@ Everolimus Tablets for Oral Suspension
 
 | Blisters of 28 tablets | NDC 51991-990-28 |
 | --- | --- |
+| Bottles of 28 tablets | NDC 51991-990-77 |
 
 Each carton contains 4 blister cards of 7 tablets each
 
@@ -55,6 +56,7 @@ Each carton contains 4 blister cards of 7 tablets each
 
 | Blisters of 28 tablets | NDC 51991-991-28 |
 | --- | --- |
+| Bottles of 28 tablets | NDC 51991-991-77 |
 
 Each carton contains 4 blister cards of 7 tablets each
 
@@ -62,6 +64,7 @@ Each carton contains 4 blister cards of 7 tablets each
 
 | Blisters of 28 tablets | NDC 51991-992-28 |
 | --- | --- |
+| Bottles of 28 tablets | NDC 51991-992-77 |
 
 Each carton contains 4 blister cards of 7 tablets each
 

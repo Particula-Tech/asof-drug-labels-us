@@ -46,6 +46,21 @@ Rx Only 30 Tablets
 
 breckenridge A Towa Company
 
+# PRINCIPAL DISPLAY PANEL - 2 mg Tablet Bottle Label
+
+NDC 51991-990-77
+
+Everolimus Tablets for Oral Suspension
+
+2 mg per tablet
+
+TABLETS MUST BE DISPERSED IN WATER.
+TABLETS MUST NOT BE SWALLOWED WHOLE, CHEWED OR CRUSHED
+
+Rx Only 28 Tablets for Oral Suspension
+
+breckenridge A Towa Company
+
 # PRINCIPAL DISPLAY PANEL - 2 mg Tablet Blister Card Carton
 
 NDC 51991-990-28 Rx Only
@@ -61,6 +76,21 @@ breckenridge A Towa Company
 
 28 Tablets for Oral Suspension (Carton contains 4 individual blister cards of 7 tablets)
 
+# PRINCIPAL DISPLAY PANEL - 3 mg Tablet Bottle Label
+
+NDC 51991-991-77
+
+Everolimus Tablets for Oral Suspension
+
+3 mg per tablet
+
+TABLETS MUST BE DISPERSED IN WATER.
+TABLETS MUST NOT BE SWALLOWED WHOLE, CHEWED OR CRUSHED
+
+Rx Only 28 Tablets for Oral Suspension
+
+breckenridge A Towa Company
+
 # PRINCIPAL DISPLAY PANEL - 3 mg Tablet Blister Card Carton
 
 NDC 51991-991-28 Rx Only
@@ -75,6 +105,21 @@ TABLETS MUST NOT BE SWALLOWED WHOLE, CHEWED OR CRUSHED.
 breckenridge A Towa Company
 
 28 Tablets for Oral Suspension (Carton contains 4 individual blister cards of 7 tablets)
+
+# PRINCIPAL DISPLAY PANEL - 5 mg Tablet Bottle Label
+
+NDC 51991-992-77
+
+Everolimus Tablets for Oral Suspension
+
+5 mg per tablet
+
+TABLETS MUST BE DISPERSED IN WATER.
+TABLETS MUST NOT BE SWALLOWED WHOLE, CHEWED OR CRUSHED
+
+Rx Only 28 Tablets for Oral Suspension
+
+breckenridge A Towa Company
 
 # PRINCIPAL DISPLAY PANEL - 5 mg Tablet Blister Card Carton
 

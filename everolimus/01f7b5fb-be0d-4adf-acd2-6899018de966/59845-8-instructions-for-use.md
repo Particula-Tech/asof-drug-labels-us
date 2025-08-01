@@ -248,4 +248,4 @@ Manufactured by: Natco Pharma Limited Visakhapatnam – 531019, India
 
 Distributed by: Breckenridge Pharmaceutical, Inc. Berkeley Heights, NJ 07922
 
-Revised: 01/2024
+Revised: 02/2025
