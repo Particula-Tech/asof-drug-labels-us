@@ -85,6 +85,6 @@ Manufactured for: Macleods Pharma USA, Inc.
 
 Princeton, NJ 08540
 
-Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh, INDIA
+Manufactured by: Macleods Pharmaceuticals Ltd. Baddi, Himachal Pradesh-174101 INDIA
 
-Revised:November 2022
+Revised: July 2025
