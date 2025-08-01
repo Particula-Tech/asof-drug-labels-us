@@ -3,10 +3,12 @@
     "BLA761140"
   ],
   "inn": "rituximab",
-  "labeler": "Amgen Inc",
+  "labeler": "Amgen, Inc",
   "package_ndcs": [
     "55513-224-01",
-    "55513-326-01"
+    "55513-224-21",
+    "55513-326-01",
+    "55513-326-21"
   ],
   "products": [
     {
