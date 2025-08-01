@@ -2,7 +2,8 @@
 
 ONEXTON® (ON-EX-TUN) (clindamycin phosphate and benzoyl peroxide) gel, 1.2%/3.75%
 
-Important information: ONEXTON Gel is for use on skin only (topical use).Do not use ONEXTON Gel in your mouth, eyes, or vagina.
+Important information: ONEXTON Gel is for use on skin only (topical use).
+Do not use ONEXTON Gel in your mouth, eyes, or vagina.
 
 What is ONEXTON Gel?
 
@@ -14,64 +15,64 @@ It is not known if ONEXTON Gel is safe and effective in children under 12 years 
 
 Do not use ONEXTON Gel if you have:
 
-- had an allergic reaction to clindamycin, benzoyl peroxide, lincomycin, or any of the ingredients in ONEXTON Gel.
+- •had an allergic reaction to clindamycin, benzoyl peroxide, lincomycin, or any of the ingredients in ONEXTON Gel.
   See the end of this leaflet for a complete list of ingredients in ONEXTON Gel.
-- Crohn’s disease or ulcerative colitis.
-- had inflammation of the colon (colitis) or severe diarrhea with past antibiotic use.
+- •Crohn’s disease or ulcerative colitis.
+- •had inflammation of the colon (colitis) or severe diarrhea with past antibiotic use.
 
 Talk with your doctor if you are not sure if you have any of the conditions listed above.
 
 Before using ONEXTON Gel, tell your doctor about all of your medical conditions, including if you:
 
-- 
-  - plan to have surgery.
-    ONEXTON Gel may affect how certain medicines work that may be given during surgery.
-  - are pregnant or plan to become pregnant.
-    It is not known if ONEXTON Gel will harm your unborn baby.
-  - are breastfeeding or plan to breastfeed.
-    It is not known if ONEXTON Gel passes into your breast milk.
-    Clindamycin when taken by mouth or by injection has been reported to appear in breast milk.
-    Talk to your doctor about the best way to feed your baby during treatment with ONEXTON Gel.
+- •plan to have surgery.
+  ONEXTON Gel may affect how certain medicines work that may be given during surgery.
+- •are pregnant or plan to become pregnant.
+  It is not known if ONEXTON Gel will harm your unborn baby.
+- •are breastfeeding or plan to breastfeed.
+  It is not known if ONEXTON Gel passes into your breast milk.
+  Clindamycin when taken by mouth or by injection has been reported to appear in breast milk.
+  Talk to your doctor about the best way to feed your baby during treatment with ONEXTON Gel.
 
-Tell your doctor about all the medicines you take,including prescription and over-the-counter medicines, vitamins and herbal supplements.
+Tell your doctor about all the medicines you take, including prescription and over-the-counter medicines, vitamins and herbal supplements.
 ONEXTON Gel may affect the way other medicines work and other medicines may affect how ONEXTON Gel works.
 
-- 
-  - Especially tell your doctor if you take medicine by mouth that contains erythromycin or use products on your skin that contain erythromycin.
-    ONEXTON Gel should not be used with products that contain erythromycin.
-  - Tell your doctor about any skin products you use.
-    Other skin and topical acne products may increase the irritation of your skin when used with ONEXTON Gel.
+- •Especially tell your doctor if you take medicine by mouth that contains erythromycin or use products on your skin that contain erythromycin.
+  ONEXTON Gel should not be used with products that contain erythromycin.
+- •Tell your doctor about any skin products you use.
+  Other skin and topical acne products may increase the irritation of your skin when used with ONEXTON Gel.
 
 Know the medicines you take.
 Keep a list of them and show it to your doctor and pharmacist when you get a new medicine.
 
 How should I use ONEXTON Gel?
 
-- Use ONEXTON Gel exactly as your doctor tells you to use it.
-  See the detailed “Instructions for Use”for directions about how to apply ONEXTON Gel.
-- Your doctor will tell you how long to use ONEXTON Gel.
-- Apply ONEXTON Gel to your face 1 time each day.
+- •Use ONEXTON Gel exactly as your doctor tells you to use it.
+  See the detailed “Instructions for Use” for directions about how to apply ONEXTON Gel.
+- •Your doctor will tell you how long to use ONEXTON Gel.
+- •Apply ONEXTON Gel to your face 1 time each day.
 - Before you apply ONEXTON Gel, wash your face gently with a mild soap, rinse with warm water, and pat your skin dry.
 
 What should I avoid while using ONEXTON Gel?
 
-- Limit your time in sunlight.
+- •Limit your time in sunlight.
   You should avoid using tanning beds or sun lamps during treatment with ONEXTON Gel.
   If you have to be in sunlight, wear a wide-brimmed hat or other protective clothing, and use sunscreen to cover the treated areas.
-- Avoid getting ONEXTON Gel in your hair or on colored fabric.
+- •Avoid getting ONEXTON Gel in your hair or on colored fabric.
   ONEXTON Gel may bleach hair or colored fabric.
 
 What are possible side effects of ONEXTON Gel?
 
 ONEXTON Gel can cause serious side effects including:
 
-- Inflammation of the colon (colitis).Stop using ONEXTON Gel and call your doctor right away if you have severe stomach (abdominal) cramps watery diarrhea, or bloody diarrhea during treatment, and within several weeks after treatment with ONEXTON Gel.
-- Allergic reactions.Stop using ONEXTON Gel, call your doctor and get help right away if you have any of the following symptoms during treatment with ONEXTON Gel:
-- severe itching
-- swelling of your face, eyes, lips, tongue or throat
-- trouble breathing
+- •Inflammation of the colon (colitis).
+  Stop using ONEXTON Gel and call your doctor right away if you have severe stomach (abdominal) cramps watery diarrhea, or bloody diarrhea during treatment, and within several weeks after treatment with ONEXTON Gel.
+- •Allergic reactions.
+  Stop using ONEXTON Gel, call your doctor and get help right away if you have any of the following symptoms during treatment with ONEXTON Gel:
+- osevere itching
+- oswelling of your face, eyes, lips, tongue or throat
+- otrouble breathing
 
-The most common side effects of ONEXTON Gel includeburning sensation, skin redness or swelling, itching and rash.
+The most common side effects of ONEXTON Gel include burning sensation, skin redness or swelling, itching and rash.
 Stop using ONEXTON Gel and call your doctor if you have a skin rash or your skin becomes very red, itchy or swollen.
 Talk to your doctor about any side effect that bothers you or that does not go away.
 
@@ -82,11 +83,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store ONEXTON Gel?
 
-- Store ONEXTON Gel at room temperature at or below 77°F (25°C).
-- Do not freeze ONEXTON Gel.
-- Throw away (discard) ONEXTON Gel 8 weeks after date of dispensing.
-- Store pump upright.
-- Keep the container tightly closed.
+- •Store ONEXTON Gel at room temperature at or below 77°F (25°C).
+- •Do not freeze ONEXTON Gel.
+- •Throw away (discard) ONEXTON Gel 8 weeks after date of dispensing.
+- •Store pump upright.
+- •Keep the container tightly closed.
 
 Keep ONEXTON Gel and all medicines out of the reach of children.
 
@@ -100,11 +101,13 @@ You can also ask your doctor or pharmacist for information about ONEXTON Gel tha
 
 What are the ingredients in ONEXTON Gel?
 
-Active Ingredients:clindamycin phosphate and benzoyl peroxide
+Active Ingredients: clindamycin phosphate and benzoyl peroxide
 
-Inactive Ingredients:carbomer 980, potassium hydroxide, propylene glycol, and purified water.
+Inactive Ingredients: carbomer 980, potassium hydroxide, propylene glycol, and purified water.
 
-Manufactured by:Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada Distributed by:Bausch Health US, LLC, Bridgewater, NJ 08807 USA
+Manufactured by: Bausch Health Companies Inc., Laval, Quebec H7L 4A8, Canada
+
+Distributed by: Bausch Health US, LLC, Bridgewater, NJ 08807 USA
 
 Patented.
 See https://patents.ortho-dermatologics.com for US patent information.
@@ -116,6 +119,4 @@ ONEXTON is a trademark of Bausch Health Companies Inc. or its affiliates.
 For more information about ONEXTON Gel, call 1-800-321-4576.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 07/2025
-
-1. 9432706
+Revised: 07/2025 9432706

@@ -8,14 +8,14 @@ The structural formula for clindamycin phosphate is represented below:
 
 Clindamycin phosphate:
 
-Molecular Formula: C 18H 34ClN 2O 8PS Molecular Weight: 504.97
+Molecular Formula: C18H34ClN2O8PS Molecular Weight: 504.97
 
 Benzoyl peroxide is an antibacterial and keratolytic agent.
 The structural formula for benzoyl peroxide is represented below:
 
 Benzoyl peroxide:
 
-Molecular Formula: C 14H 10O 4Molecular Weight: 242.23
+Molecular Formula: C14H10O4 Molecular Weight: 242.23
 
 ONEXTON Gel contains the following inactive ingredients: carbomer 980, potassium hydroxide, propylene glycol, and purified water.
 Each gram of ONEXTON Gel contains 12 mg (1.2%) clindamycin phosphate, equivalent to 10 mg (1%) clindamycin, and 37.5 mg (3.75%) benzoyl peroxide.

@@ -1,8 +1,8 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reaction is described in more detail in the Warnings andPrecautions section of the label:
+The following adverse reaction is described in more detail in the Warnings and Precautions section of the label:
 
-- Colitis [see Warnings and Precautions (5.1)].
+- •Colitis [see Warnings and Precautions (5.1)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -17,14 +17,14 @@ The percentage of subjects that had symptoms present before treatment (at baseli
 Table 1: Percent of Subjects with Local Skin Reactions.
 Results from the Phase 3 Trial (N = 243)
 
-|  | Mild | Mod. * | Severe | Mild | Mod.* | Severe | Mild | Mod. * | Severe |
+|  | Mild | Mod.* | Severe | Mild | Mod.* | Severe | Mild | Mod.* | Severe |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Before Treatment (Baseline) |  |  | During Treatment |  |  | End of Treatment (Week 12) |  |  |
 | Erythema | 20 | 6 | 0 | 28 | 5 | <1 | 15 | 2 | 0 |
-| Scaling | 10 | 1 | 0 | 19 | 3 | 0 | 10 | ˂1 | 0 |
-| Itching | 14 | 3 | ˂1 | 15 | 3 | 0 | 7 | 2 | 0 |
-| Burning | 5 | <1 | ˂1 | 7 | 1 | ˂1 | 3 | <1 | 0 |
-| Stinging | 5 | <1 | 0 | 7 | 0 | ˂1 | 3 | 0 | ˂1 |
+| Scaling | 10 | 1 | 0 | 19 | 3 | 0 | 10 | <1 | 0 |
+| Itching | 14 | 3 | <1 | 15 | 3 | 0 | 7 | 2 | 0 |
+| Burning | 5 | <1 | <1 | 7 | 1 | <1 | 3 | <1 | 0 |
+| Stinging | 5 | <1 | 0 | 7 | 0 | <1 | 3 | 0 | <1 |
 
 *Mod. = Moderate
 

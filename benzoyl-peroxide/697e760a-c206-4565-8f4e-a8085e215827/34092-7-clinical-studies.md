@@ -7,8 +7,8 @@ The co-primary efficacy variables for this trial were:
 
 (1) Mean absolute change from baseline at Week 12 in:
 
-- Inflammatory lesion counts
-- Non-inflammatory lesion counts
+- •Inflammatory lesion counts
+- •Non-inflammatory lesion counts
 
 (2) Percent of subjects who had a 2-grade reduction from baseline on an Evaluator’s Global Severity (EGS) score.
 

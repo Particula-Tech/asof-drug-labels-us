@@ -1,6 +1,6 @@
 PRINCIPAL DISPLAY PANEL - 50 gram Carton
 
-NDC0187-3050-50
+NDC 0187-3050-50
 
 Rx only
 
@@ -14,4 +14,4 @@ KEEP OUT OF REACH OF CHILDREN
 
 One premixed 50-gram pump dispenser
 
-OrthoDermatologics
+Ortho Dermatologics
