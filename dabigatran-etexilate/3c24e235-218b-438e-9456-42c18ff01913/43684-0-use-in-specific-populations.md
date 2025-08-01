@@ -31,7 +31,10 @@ Death of offspring and mother rats during labor in association with uterine blee
 
 ## 8.2 Lactation
 
-Risk Summary There are no data on the presence of dabigatran in human milk, the effects on the breastfed child, or on milk production.
+Risk Summary
+
+There are insufficient data to assess the presence of dabigatran in human milk.
+There are no data on the effects of dabigatran on the breastfed child or on milk production.
 Dabigatran and/or its metabolites were present in rat milk.
 Breastfeeding is not recommended during treatment with dabigatran etexilate capsules.
 

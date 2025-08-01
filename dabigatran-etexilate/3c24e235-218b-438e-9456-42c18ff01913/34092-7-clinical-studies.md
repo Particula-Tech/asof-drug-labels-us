@@ -198,7 +198,7 @@ Table 18: Efficacy Results [ITT population] DIVERSITY Study
 | Freedom from recurrent VTE | 170 (96.0) | 83 (92.2) |
 | Freedom from mortality related to VTE | 177 (100.0) | 89 (98.9) |
 | Composite endpoint met | 81 (45.8) | 38 (42.2) |
-| Difference in rate (95% CI)1 | -0.038 (-0.161, 0.086) |  |
+| Difference in rate (95% CI) 1 | -0.038 (-0.161, 0.086) |  |
 | p-value for non-inferiority | < 0.0001 |  |
 | p-value for superiority | 0.2739 |  |
 
