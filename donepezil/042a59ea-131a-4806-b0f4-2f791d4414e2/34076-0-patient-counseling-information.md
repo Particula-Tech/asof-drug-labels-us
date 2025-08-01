@@ -10,8 +10,6 @@ Advise patients and caregivers that donepezil hydrochloride may cause nausea, di
 
 Advise patients to notify their healthcare provider if they are pregnant or plan to become pregnant.
 
-Dispense with Patient Information available at: www.solcohealthcare.com/druglabeling/donepezil-tablets.pdf
-
 Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd. Xunqiao, Linhai, Zhejiang, 317024, China
 
 Zhejiang Huahai Pharmaceutical Technology Co., Ltd.
@@ -20,13 +18,11 @@ Jiangnan, Linhai, Zhejiang 317000, China
 
 Distributed by: Solco Healthcare US, LLC Somerset, NJ 08873, USA
 
-Revised: 08/2023
+Revised: 06/2025
 
-200145-03 (Huahai Xunqiao)
+200145-04 (Huahai Xunqiao)
 
-20090-01 (Huahai Tech)
-
-Dispense with Patient Information available at: www.solcohealthcare.com/druglabeling/donepezil-tablets.pdf
+20090-02 (Huahai Tech)
 
 DONEPEZIL HYDROCHLORIDE PATIENT PACKAGE INSERT
 
@@ -178,9 +174,9 @@ Active ingredient: donepezil hydrochloride
 
 Inactive ingredients:
 
-Donepezil Hydrochloride 5 mg and 10 mg film-coated tablets: lactose monohydrate, hydroxypropyl cellulose, magnesium stearate, microcrystalline cellulose, corn starch, croscarmellose sodium.
-The film of 5 mg tablets coating contains hydroxypropyl methyl cellulose, titanium dioxide, polyethylene glycol, and FD&C blue.
-The film of 10 mg tablets coating contains hydroxypropyl methyl cellulose, titanium dioxide, polyethylene glycol, iron oxide yellow and iron oxide red.
+Donepezil Hydrochloride 5 mg and 10 mg film-coated tablets: corn starch, croscarmellose sodium, hydroxypropyl cellulose, lactose monohydrate, magnesium stearate, microcrystalline cellulose.
+The film of 5 mg tablets coating contains FD&C BLUE #2/INDIGO CARMINE ALUMINUM LAKE, hypromellose, polyethylene glycol, and titanium dioxide.
+The film of 10 mg tablets coating contains hypromellose, iron oxide red, iron oxide yellow, polyethylene glycol, and titanium dioxide.
 
 Rx Only
 
@@ -192,6 +188,6 @@ Jiangnan, Linhai, Zhejiang 317000, China
 
 Distributed by: Solco Healthcare US, LLC Somerset, NJ 08873, USA
 
-Revised: 08/2023
+Revised: 06/2025
 
 Rx Only

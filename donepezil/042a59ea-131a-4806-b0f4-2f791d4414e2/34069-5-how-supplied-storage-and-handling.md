@@ -8,13 +8,13 @@ The 5 mg tablets are blue, round, film-coated tablets, debossed with ‘HH205' o
 
 - •Bottles of 30 (NDC# 43547-275-03)
 - •Bottles of 90 (NDC# 43547-275-09)
-- •Bottles of 1000 (NDC# 43547-275-11)
+- •Bottles of 1,000 (NDC# 43547-275-11)
 
 The 10 mg tablets are light yellow, round, film-coated tablets, debossed with ‘HH210' on one side.
 
 - •Bottles of 30 (NDC# 43547-276-03)
 - •Bottles of 90 (NDC# 43547-276-09)
-- •Bottles of 1000 (NDC# 43547-276-11)
+- •Bottles of 1,000 (NDC# 43547-276-11)
 
 Storage
 

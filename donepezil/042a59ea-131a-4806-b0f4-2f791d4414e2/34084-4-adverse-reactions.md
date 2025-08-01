@@ -14,7 +14,7 @@ The following serious adverse reactions are described below and elsewhere in the
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
 Donepezil hydrochloride has been administered to over 1,700 individuals during clinical trials worldwide.
-Approximately 1200 of these patients have been treated for at least 3 months and more than 1,000 patients have been treated for at least 6 months.
+Approximately 1,200 of these patients have been treated for at least 3 months and more than 1,000 patients have been treated for at least 6 months.
 Controlled and uncontrolled trials in the United States included approximately 900 patients.
 In regards to the highest dose of 10 mg/day, this population includes 650 patients treated for 3 months, 475 patients treated for 6 months, and 116 patients treated for over 1 year.
 The range of patient exposure is from 1 to 1,214 days.
