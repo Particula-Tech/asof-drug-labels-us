@@ -8,6 +8,8 @@ The following clinically significant adverse reactions are described elsewhere i
 
 ## 6.1 Clinical Trials Experience
 
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
 The safety data described below reflect exposure to levocetirizine dihydrochloride in 2708 patients with allergic rhinitis or chronic idiopathic urticaria in 14 controlled clinical trials of 1 week to 6 months duration.
 
 The short-term (exposure up to 6 weeks) safety data for adults and adolescents are based upon eight clinical trials in which 1896 patients (825 males and 1071 females aged 12 years and older) were treated with levocetirizine dihydrochloride 2.5, 5, or 10 mg once daily in the evening.
@@ -30,7 +32,7 @@ Somnolence with levocetirizine dihydrochloride showed dose ordering between test
 
 Table 1 lists adverse reactions that were reported in greater than or equal to 2% of subjects aged 12 years and older exposed to levocetirizine dihydrochloride 2.5 mg or 5 mg in eight placebo-controlled clinical trials and that were more common with levocetirizine dihydrochloride than placebo.
 
-Table 1: Adverse Reactions Reported in ≥ 2%* of Subjects Aged 12 Years and Older Exposed to Levocetirizine Dihydrochloride 2.5 mg or 5 mg Once Daily in Placebo-Controlled Clinical Trials 1 to 6 Weeks in Duration
+Table 1: Adverse Reactions Reported in ≥2%* of Subjects Aged 12 Years and Older Exposed to Levocetirizine Dihydrochloride 2.5 mg or 5 mg Once Daily in Placebo-Controlled Clinical Trials 1 to 6 Weeks in Duration
 
 | Adverse Reactions | Levocetirizine Dihydrochloride 2.5 mg (n = 421) | Levocetirizine Dihydrochloride 5 mg (n = 1070) | Placebo (n = 912) |
 | --- | --- | --- | --- |
@@ -82,7 +84,7 @@ Pediatric Patients 6 to 11 Months of Age
 
 A total of 45 pediatric patients 6 to 11 months of age received levocetirizine dihydrochloride 1.25 mg once daily in a two week placebo-controlled double-blind safety trial.
 The mean age of the patients was 9 months, 51% were Caucasian and 31% were Black.
-Adverse reactions that were reported in more than 1 subject (i.e., greater than or equal to 3% of subjects) aged 6 to 11 months exposed to levocetirizine dihydrochloride 1.25 mg once daily in the placebo-controlled safety trial and that were more common with levocetirizine dihydrochloride than placebo included diarrhea and constipation which were reported in 6 (13%) and 1 (4%) and 3 (7%) and 1 (4%) children in the levocetirizine dihydrochloride and placebo-treated groups, respectively.
+Adverse reactions that were reported in more than 1 subject (i.e. greater than or equal to 3% of subjects) aged 6 to 11 months exposed to levocetirizine dihydrochloride 1.25 mg once daily in the placebo-controlled safety trial and that were more common with levocetirizine dihydrochloride than placebo included diarrhea and constipation which were reported in 6 (13%) and 1 (4%) and 3 (7%) and 1 (4%) children in the levocetirizine dihydrochloride and placebo-treated groups, respectively.
 
 Long-Term Clinical Trials Experience
 
@@ -111,14 +113,14 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Immune system disorders:anaphylaxis and hypersensitivity
 - Metabolism and nutrition disorders:increased appetite
 - Musculoskeletal, connective tissues, and bone disorders:arthralgia, myalgia
-- Nervous system disorders:dizziness, dysgeusia, febrile seizure, movement disorders (including dystonia and oculogyric crisis), paraesthesia, seizure (reported in subjects with and without a known seizure disorder), tremor
+- Nervous system disorders:dizziness, dysgeusia, febrile seizure, movement disorders (including dystonia and oculogyric crisis), paresthesia, seizure (reported in subjects with and without a known seizure disorder), tremor
 - Psychiatric disorders:aggression and agitation, depression, hallucinations, insomnia, nightmare, suicidal ideation
 - Renal and urinary disorders:dysuria, urinary retention
 - Respiratory, thoracic, and mediastinal disorders:dyspnea
 - Skin and subcutaneous tissue disorders:angioedema, fixed drug eruption, pruritus, rash, urticaria, and new onset pruritus within a few days after discontinuation of levocetirizine dihydrochloride, usually after long-term use (e.g., few months to years) of levocetirizine dihydrochloride.
 
-Besides these reactions reported under treatment with levocetirizine dihydrochloride, other potentially severe adverse events have been reported from the postmarketing experience with cetirizine.
-Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with levocetirizine dihydrochloride.
+Besides these reactions reported under treatment with levocetirizine dihydrochloride, other potentially severe adverse reactions have been reported from the postmarketing experience with cetirizine.
+Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse reactions could also potentially occur under treatment with levocetirizine dihydrochloride.
 
 - Cardiac disorders:severe hypotension
 - Gastrointestinal disorders:cholestasis

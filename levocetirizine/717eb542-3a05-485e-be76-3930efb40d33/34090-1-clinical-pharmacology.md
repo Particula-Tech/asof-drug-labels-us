@@ -4,7 +4,7 @@
 
 Levocetirizine, the active enantiomer of cetirizine, is an antihistamine; its principal effects are mediated via selective inhibition of H 1receptors.
 The antihistaminic activity of levocetirizine has been documented in a variety of animal and human models.
-In vitrobinding studies revealed that levocetirizine has an affinity for the human H 1-receptor 2-fold higher than that of cetirizine (Ki = 3 nmol/L vs.6 nmol/L, respectively).
+In vitrobinding studies revealed that levocetirizine has an affinity for the human H 1-receptor 2-fold higher than that of cetirizine (Ki = 3 nmol/L vs. 6 nmol/L, respectively).
 The clinical relevance of this finding is unknown.
 
 ## 12.2 Pharmacodynamics
@@ -42,7 +42,7 @@ Metabolism
 
 The extent of metabolism of levocetirizine in humans is less than 14% of the dose and therefore differences resulting from genetic polymorphism or concomitant intake of hepatic drug metabolizing enzyme inhibitors are expected to be negligible.
 Metabolic pathways include aromatic oxidation, N- and O-dealkylation, and taurine conjugation.
-Dealkylation pathways are primarily mediated by CYP 3A4 while aromatic oxidation involves multiple and/or unidentified CYP isoforms.
+Dealkylation pathways are primarily mediated by CYP3A4 while aromatic oxidation involves multiple and/or unidentified CYP isoforms.
 
 Elimination
 

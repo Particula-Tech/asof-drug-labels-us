@@ -9,7 +9,7 @@ Concurrent use of levocetirizine dihydrochloride with alcohol or other central n
 ## 5.2 Urinary Retention
 
 Urinary retention has been reported post marketing with levocetirizine dihydrochloride.
-Levocetirizine dihydrochloride should be used with caution in patients with predisposing factors of urinary retention (e.g., spinal cord lesion, prostatic hyperplasia) as levocetirizine dihydrochloride may increase the risk of urinary retention.
+Levocetirizine dihydrochloride should be used with caution in patients with predisposing factors of urinary retention (e.g. spinal cord lesion, prostatic hyperplasia) as levocetirizine dihydrochloride may increase the risk of urinary retention.
 Discontinue levocetirizine dihydrochloride if urinary retention occurs.
 
 ## 5.3 Risk of New Onset Pruritus After Discontinuation of Levocetirizine Dihydrochloride

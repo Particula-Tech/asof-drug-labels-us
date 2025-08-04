@@ -21,8 +21,8 @@ In adults and children 12 years of age and older with:
 
 - Mild renal impairment (creatinine clearance [CL CR] = 50 to 80 mL/min): a dose of 2.5 mg once daily is recommended;
 - Moderate renal impairment (CL CR = 30 to 50 mL/min): a dose of 2.5 mg once every other day is recommended;
-- Severe renal impairment (CL CR = x10 to 30 mL/min): a dose of 2.5 mg twice weekly (administered once every 3 to 4 days) is recommended;
-- End-stage renal disease patients (CL CR < 10 mL/min) and patients undergoing hemodialysis should not receive levocetirizine dihydrochloride tablets.
+- Severe renal impairment (CL CR = 10 to 30 mL/min): a dose of 2.5 mg twice weekly (administered once every 3 to 4 days) is recommended;
+- End-stage renal disease patients (CL CR <10 mL/min) and patients undergoing hemodialysis should not receive levocetirizine dihydrochloride tablets.
 
 No dose adjustment is needed in patients with solely hepatic impairment.
 In patients with both hepatic impairment and renal impairment, adjustment of the dose is recommended.
