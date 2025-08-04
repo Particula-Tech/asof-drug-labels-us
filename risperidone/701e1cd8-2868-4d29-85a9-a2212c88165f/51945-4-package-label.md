@@ -80,13 +80,17 @@ Rx only
 
 PRINCIPAL DISPLAY PANEL - 30 mL Oral Solution Carton
 
-NDC50458-596-01 30 mL
+NDC50458-596-01
 
 risperiDONE Oral Solution
 
 1 mg/mL
 
-Each 1mL contains: 1 mg of risperidone in an aqueous solution.
+Each 1mL contains 1 mg of risperidone in an aqueous solution.
+
+Rx only
+
+30 mL
 
 PATRIOT PHARMACEUTICALS LLC
 
