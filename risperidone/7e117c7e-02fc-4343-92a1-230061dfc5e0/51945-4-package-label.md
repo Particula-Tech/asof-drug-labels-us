@@ -162,12 +162,16 @@ janssen
 
 PRINCIPAL DISPLAY PANEL - 30 mL Bottle Carton
 
-NDC50458-305-03 30 mL
+NDC50458-305-03 RISPERDAL®
 
-RISPERDAL® (risperiDONE) ORAL SOLUTION
+(risperiDONE) ORAL SOLUTION
 
 1 mg/mL
 
-Each 1 mL contains: 1 mg of risperidone in an aqueous solution.
+Each 1 mL contains 1 mg of risperidone in an aqueous solution.
 
-janssen
+Rx only
+
+30 mL
+
+Johnson&Johnson
