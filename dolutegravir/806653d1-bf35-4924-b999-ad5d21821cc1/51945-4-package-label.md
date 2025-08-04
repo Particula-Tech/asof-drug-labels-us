@@ -43,11 +43,11 @@ GlaxoSmithKline, Durham NC 27701
 
 Trademarks owned or licensed by ViiV Healthcare.
 
-©2022 ViiV Healthcare or licensor.
+©2024 ViiV Healthcare or licensor.
 
-Made in UK
+Made in Spain
 
 Rev.
-12/22
+12/24
 
-A084480 (62000000084480)
+A094954 (62000000094954)
