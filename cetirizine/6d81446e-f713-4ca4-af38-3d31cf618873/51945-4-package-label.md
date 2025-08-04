@@ -8,4 +8,4 @@ Cetirizine Hydrochloride Oral Solution USP, 1 mg/mL*
 
 FOR ORAL USE ONLY
 
-Rx only TARO
+Rx only
