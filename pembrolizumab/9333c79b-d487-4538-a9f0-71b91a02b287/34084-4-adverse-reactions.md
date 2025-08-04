@@ -1211,10 +1211,10 @@ Adverse reactions resulting in permanent discontinuation of KEYTRUDA in ≥1% of
 
 Adverse reactions leading to interruption of KEYTRUDA occurred in 71% of patients; the most common adverse reactions or laboratory abnormalities leading to interruption of KEYTRUDA (≥2%) were neutropenia (21%), thrombocytopenia (13%), diarrhea (7%), pneumonia (5%), anemia (4.9%), COVID-19 (3.1%), hypokalemia (3.1%), fatigue/asthenia (4.9%), decreased appetite (4%), increased AST (3.7%), increased blood bilirubin (4.6%), increased ALT (2.9%), vomiting (2.6%), pneumonitis (2.3%), pyrexia (2.3%), increased blood creatinine (2%), and colitis (2%).
 
-In the KEYTRUDA arm versus placebo, there was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for diarrhea (53% vs 47%), rash (35% vs. 28%), hypothyroidism (11% vs. 5%), and pneumonia (11% vs. 5%).
+In the KEYTRUDA arm versus placebo, there was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for diarrhea (53% vs. 47%), rash (35% vs. 28%), hypothyroidism (11% vs. 5%), and pneumonia (11% vs. 5%).
 There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
 
-There was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for decreased leukocytes (60% vs. 54%), decreased calcium (56% vs. 46%), decreased lymphocytes (59% vs. 51%), decreased potassium (41% vs. 36%), increased bilirubin (33% vs. 25%), increased creatinine (28% vs 18%), and decreased glucose (17% vs. 11%).
+There was a difference of ≥5% incidence between patients treated with KEYTRUDA versus standard of care for decreased leukocytes (60% vs. 54%), decreased calcium (56% vs. 46%), decreased lymphocytes (59% vs. 51%), decreased potassium (41% vs. 36%), increased bilirubin (33% vs. 25%), increased creatinine (28% vs. 18%), and decreased glucose (17% vs. 11%).
 There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
 
 First-line Treatment of Locally Advanced Unresectable or Metastatic HER2-Negative Gastric or Gastroesophageal Junction Adenocarcinoma
@@ -1630,10 +1630,10 @@ The most common adverse reaction resulting in permanent discontinuation of KEYTR
 Adverse reactions leading to the interruption of KEYTRUDA occurred in 55% of patients.
 The most common adverse reactions or laboratory abnormalities leading to interruption of KEYTRUDA (≥2%) were decreased neutrophil count (18%), decreased platelet count (10%), anemia (6%), decreased white blood count (4%), pyrexia (3.8%), fatigue (3.0%), cholangitis (2.8%), increased ALT (2.6%), increased AST (2.5%), and biliary obstruction (2.3%).
 
-In the KEYTRUDA plus chemotherapy versus placebo plus chemotherapy arms, there was a difference of ≥5% incidence in adverse reactions between patients treated with KEYTRUDA versus placebo for pyrexia (26% vs 20%), rash (21% vs 13%), pruritus (15% vs 10%), and hypothyroidism (9% vs. 2.6%).
+In the KEYTRUDA plus chemotherapy versus placebo plus chemotherapy arms, there was a difference of ≥5% incidence in adverse reactions between patients treated with KEYTRUDA versus placebo for pyrexia (26% vs. 20%), rash (21% vs. 13%), pruritus (15% vs. 10%), and hypothyroidism (9% vs. 2.6%).
 There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
 
-There was a difference of ≥5% incidence in laboratory abnormalities between patients treated with KEYTRUDA plus chemotherapy versus placebo plus chemotherapy for decreased lymphocytes (69% vs 61%).
+There was a difference of ≥5% incidence in laboratory abnormalities between patients treated with KEYTRUDA plus chemotherapy versus placebo plus chemotherapy for decreased lymphocytes (69% vs. 61%).
 There were no clinically meaningful differences in incidence of Grade 3-4 toxicity between arms.
 
 MCC

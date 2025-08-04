@@ -136,9 +136,3 @@ KEYTRUDA is indicated for the treatment of patients with recurrent or metastatic
 KEYTRUDA is indicated for the treatment of patients with high-risk early-stage triple-negative breast cancer (TNBC) in combination with chemotherapy as neoadjuvant treatment, and then continued as a single agent as adjuvant treatment after surgery.
 
 KEYTRUDA, in combination with chemotherapy, is indicated for the treatment of patients with locally recurrent unresectable or metastatic TNBC whose tumors express PD-L1 (CPS ≥10) as determined by an FDA-approved test [see Dosage and Administration (2.1)].
-
-## 1.21 Adult Classical Hodgkin Lymphoma and Adult Primary Mediastinal Large B-Cell Lymphoma: Additional Dosing Regimen of 400 mg Every 6 Weeks
-
-KEYTRUDA is indicated for use at an additional recommended dosage of 400 mg every 6 weeks for classical Hodgkin lymphoma and primary mediastinal large B-cell lymphoma in adults [see Indications and Usage (1.5, 1.6), Dosage and Administration (2.2)].
-This indication is approved under accelerated approval based on pharmacokinetic data, the relationship of exposure to efficacy, and the relationship of exposure to safety [see Clinical Pharmacology (12.2), Clinical Studies (14.21)].
-Continued approval for this dosage may be contingent upon verification and description of clinical benefit in the confirmatory trials.

@@ -11,9 +11,7 @@ In syngeneic mouse tumor models, combination treatment of a PD-1 blocking antibo
 
 ## 12.2 Pharmacodynamics
 
-There are no clinically significant exposure-response relationships for efficacy or safety at pembrolizumab dosages of 200 mg or 2 mg/kg every 3 weeks regardless of cancer type.
-There are no clinically significant exposure-response relationships for efficacy or safety at pembrolizumab dosages of 200 mg or 2 mg/kg every 3 weeks and 400 mg every 6 weeks in patients with solid tumors based on observed data in adult patients with melanoma.
-The exposure-response relationships for efficacy or safety at pembrolizumab dosages of 400 mg every 6 weeks in patients with classical Hodgkin lymphoma or mediastinal large B-cell lymphoma have not been fully characterized.
+There are no clinically significant exposure-response relationships for efficacy or safety at pembrolizumab dosages of 200 mg or 2 mg/kg every 3 weeks and 400 mg every 6 weeks regardless of cancer type based on observed data in adult patients with melanoma, cHL, and PMBCL.
 
 ## 12.3 Pharmacokinetics
 

@@ -1899,7 +1899,7 @@ Table 100: Efficacy Results in KEYNOTE-868
 
 Lack of Effectiveness for Adjuvant Treatment of Patients with Endometrial Carcinoma
 
-The efficacy of KEYTRUDA in combination with carboplatin and paclitaxel, with or without radiation, was investigated in KEYNOTE‑B21 (NCT04634877), a randomized, multicenter, double-blind, placebo-controlled trial in 1,095 patients with newly-diagnosed, high‑risk endometrial cancer with no evidence of disease on imaging following curative intent surgery.
+The efficacy of KEYTRUDA in combination with carboplatin and paclitaxel, with or without radiation, was investigated in KEYNOTE‑B21 (NCT04634877), a randomized, multicenter, double-blind, placebo-controlled trial in 1,095 patients with newly diagnosed, high‑risk endometrial cancer with no evidence of disease on imaging following curative intent surgery.
 High-risk disease was defined as any of the following (staging per FIGO 2009): Stage I/II with myometrial invasion and either non-endometrioid histology or aberrant p53 expression or p53 mutation, or Stage III/IVA.
 The trial did not meet the prespecified primary endpoint for investigator-assessed DFS, with a HR of 1.02 (95% CI: 0.79, 1.32).
 
@@ -2185,7 +2185,3 @@ Table 107: Efficacy Results in KEYNOTE-355 (CPS ≥10)
 
 | Figure 44: Kaplan-Meier Curve for Progression-Free Survival in KEYNOTE-355 (CPS ≥10) |
 | --- |
-
-## 14.21 Adult Classical Hodgkin Lymphoma and Adult Primary Mediastinal Large B-Cell Lymphoma: Additional Dosing Regimen of 400 mg Every 6 Weeks
-
-The efficacy and safety of KEYTRUDA using a dosage of 400 mg every 6 weeks for the classical Hodgkin lymphoma and primary mediastinal large B-cell lymphoma indications for adults was primarily based on the dose/exposure efficacy and safety relationships and observed pharmacokinetic data in patients with melanoma [see Clinical Pharmacology (12.2)].
