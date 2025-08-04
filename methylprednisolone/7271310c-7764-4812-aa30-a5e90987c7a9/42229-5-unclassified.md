@@ -5,8 +5,8 @@ For Intravenous or Intramuscular Administration
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc New York, NY 10001
+Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10001
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-LAB-1161-7.0 Revised June 2025
+LAB-1161-8.0 Revised July 2025
