@@ -52,4 +52,4 @@ NEURONTIN is a registered trademark of UPJOHN US 1 LLC, a Viatris Company.
 
 The brands listed are trademarks of their respective owners.
 
-UPJ:NRTNCTOS:RX4
+UPJ:NRTNCTOS:R2
