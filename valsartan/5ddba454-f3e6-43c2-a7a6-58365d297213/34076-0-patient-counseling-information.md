@@ -16,4 +16,4 @@ Hyperkalemia: Advise patients not to use salt substitutes without consulting the
 
 Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07936 © Novartis
 
-T2021-30
+T2025-42

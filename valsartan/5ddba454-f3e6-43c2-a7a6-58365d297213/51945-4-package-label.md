@@ -28,6 +28,20 @@ NOVARTIS
 
 # PRINCIPAL DISPLAY PANEL
 
+NDC 0078-1245-34
+
+Diovan® valsartan
+
+80 mg
+
+90 Tablets
+
+Rx only
+
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
 NDC 0078-0359-34
 
 Diovan® valsartan
@@ -42,7 +56,35 @@ NOVARTIS
 
 # PRINCIPAL DISPLAY PANEL
 
+NDC 0078-1252-34
+
+Diovan® valsartan
+
+160 mg
+
+90 Tablets
+
+Rx only
+
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
 NDC 0078-0360-34
+
+Diovan® valsartan
+
+320 mg
+
+90 Tablets
+
+Rx only
+
+NOVARTIS
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 0078-1259-34
 
 Diovan® valsartan
 

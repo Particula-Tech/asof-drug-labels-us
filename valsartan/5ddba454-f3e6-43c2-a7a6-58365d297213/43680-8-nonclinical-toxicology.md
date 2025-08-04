@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-There was no evidence of carcinogenicity when valsartan was administered in the diet to mice and rats for up to 2 years at doses up to 160 and 200 mg/kg/day, respectively.
+There was no evidence of carcinogenicity when valsartan was administered in the diet to mice and rats for up to 2 years at doses up to 160 mg/kg/day and 200 mg/kg/day, respectively.
 These doses in mice and rats are about 2.6 and 6 times, respectively, the MRHD on a mg/m2 basis (Calculations assume an oral dose of 320 mg/day and a 60-kg patient).
 
 Mutagenicity assays did not reveal any valsartan-related effects at either the gene or chromosome level.
