@@ -5,7 +5,8 @@
 Risk Summary
 
 Limited data with GLUMETZA in pregnant women are not sufficient to determine a drug-associated risk for major birth defects or miscarriage.
-Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk [see Data].There are risks to the mother and fetus associated with poorly controlled diabetes mellitus in pregnancy [see Clinical Considerations].
+Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk [see Data].
+There are risks to the mother and fetus associated with poorly controlled diabetes mellitus in pregnancy [see Clinical Considerations].
 
 No adverse developmental effects were observed when metformin was administered to pregnant Sprague Dawley rats and rabbits during the period of organogenesis at doses up to 3 and 1 times, respectively, a 2,000 mg clinical dose, based on body surface area [see Data].
 
@@ -31,7 +32,8 @@ Metformin HCl was not teratogenic or embyrolethal when administered to rats prio
 
 Risk Summary
 
-Limited published studies report that metformin is present in human milk [see Data].However, there is insufficient information to determine the effects of metformin on the breastfed infant and no available information on the effects of metformin on milk production.
+Limited published studies report that metformin is present in human milk [see Data].
+However, there is insufficient information to determine the effects of metformin on the breastfed infant and no available information on the effects of metformin on milk production.
 Therefore, the developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for GLUMETZA and any potential adverse effects on the breastfed child from GLUMETZA or from the underlying maternal condition.
 
 Data

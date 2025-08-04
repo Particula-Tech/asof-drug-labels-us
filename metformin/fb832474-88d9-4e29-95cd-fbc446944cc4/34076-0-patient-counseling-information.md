@@ -29,5 +29,5 @@ Distributed by: Salix Pharmaceuticals, a division of Bausch Health US, LLC Bridg
 Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 
 Patented.
-See https://patents.salix.comfor US patent information.
+See https://patents.salix.com for US patent information.
 Glumetza is a trademark of Salix Pharmaceuticals, Inc. or its affiliates. © 2024 Salix Pharmaceuticals, Inc. or its affiliates 9618905 20005381

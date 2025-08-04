@@ -8,11 +8,11 @@ Patients randomized to immediate-release metformin initiated 500 mg twice daily 
 The 3-week treatment period was followed by an additional 21-week period at the randomized dose.
 The results are presented in Table 5.
 
-Table 5: Mean Changes from Baseline in HbA1c and Fasting Plasma Glucose at Week 24 Comparing GLUMETZA versus Metformin HCl Tablets1 in Patients with Type 2 Diabetes Mellitus
+Table 5: Mean Changes from Baseline in HbA1c and Fasting Plasma Glucose at Week 24 Comparing GLUMETZA versus Metformin HCl TabletsImmediate-release metformin HCl tablets in Patients with Type 2 Diabetes Mellitus
 
 | 1,500 mg Once Daily (n=178) | 1,500 mg in Divided Doses (n=182) | 2,000 mg Once Daily (n=172) |  |  |
 | --- | --- | --- | --- | --- |
-|  | GLUMETZA |  |  | Metformin HCl TabletsImmediate-release metformin HCl tablets 1,500 mg in Divided Doses (n=174) |
+|  | GLUMETZA |  |  | Metformin HCl Tablets 1,500 mg in Divided Doses (n=174) |
 | HbA1c (%), N | 169 | 175 | 159 | 170 |
 | Baseline | 8.2 | 8.5 | 8.3 | 8.7 |
 | Mean Change at Final Visit | -0.7 | -0.7 | -1.1 | -0.7 |
@@ -31,7 +31,7 @@ A 3-week GLUMETZA titration period was followed by a 21-week maintenance treatme
 Use of insulin and oral hypoglycemic agents other than the study drugs were prohibited.
 The results are presented in Table 6.
 
-Table 6: Mean Changes from Baseline in HbA1c and Fasting Plasma Glucose at Week 24 for the GLUMETZA + Glyburide Groups and Placebo+ Glyburide Group in Patients with Type 2 Diabetes Mellitus
+Table 6: Mean Changes from Baseline in HbA1c and Fasting Plasma Glucose at Week 24 for the GLUMETZA + Glyburide Groups and Placebo+ Glyburide Treatment Group in Patients with Type 2 Diabetes Mellitus
 
 | 1,500 mg Once Daily (n=144) | 1,000 mg Twice Daily (n=141) | 2,000 mg Once Daily (n=146) |  |  |
 | --- | --- | --- | --- | --- |
@@ -39,7 +39,7 @@ Table 6: Mean Changes from Baseline in HbA1c and Fasting Plasma Glucose at Week 
 | HbA1c (%), N | 136 | 136 | 144 | 141 |
 | Baseline | 7.9 | 7.8 | 7.7 | 8.1 |
 | Mean Change at Final Visit | -0.7 | -0.8 | -0.7 | -0.1 |
-| Mean Difference from Glyburide Alone (95% CI) | -0.8 p-value for pairwise comparison <0.001 (-1.0, -0.6) | -0.9 (-1.1, -0.7) | -0.8 (-1.0, -0.6) | N/A |
+| Mean Difference from Glyburide Alone (95% CI) | -0.8p-value for pairwise comparison <0.001 (-1.0, -0.6) | -0.9 (-1.1, -0.7) | -0.8 (-1.0, -0.6) | N/A |
 | Fasting Plasma Glucose (mg/dL), N | 143 | 141 | 145 | 144 |
 | Baseline | 163 | 163 | 159 | 164 |
 | Mean Change at Final Visit | -14 | -16 | -9 | 16 |
