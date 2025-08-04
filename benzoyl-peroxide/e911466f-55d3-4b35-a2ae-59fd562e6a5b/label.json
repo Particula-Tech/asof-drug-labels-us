@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214510"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Mayne Pharma Commercial LLC",
+  "package_ndcs": [
+    "68308-772-30"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "benzoyl peroxide",
+      "name": "Epsolay"
+    }
+  ],
+  "setid": "e911466f-55d3-4b35-a2ae-59fd562e6a5b",
+  "source": "dailymed"
+}
