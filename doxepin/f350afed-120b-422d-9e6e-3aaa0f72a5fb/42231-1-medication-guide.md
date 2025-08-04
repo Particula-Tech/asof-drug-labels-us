@@ -1,82 +1,21 @@
-# Medication Guide
+# MEDICATION GUIDE
 
-Antidepressant Medicines, Depression and other Serious Mental Illnesses, and Suicidal Thoughts or Actions
+| Doxepin Hydrochloride (dox’ e pin hye”droe klor’ ide) Oral Solution USP (Concentrate) |
+| --- |
+| What is the most important information I should know about doxepin hydrochloride? Doxepin hydrochloride can cause serious side effects, including:Increased risk of suicidal thoughts and actions. Doxepin hydrochloride and other antidepressant medicines may increase the risk of suicidal thoughts and actions in people 24 years of age and younger, especially within the first few months of treatment or when the dose is changed. Doxepin hydrochloride is not for use in children.How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member? Pay close attention to any changes, especially sudden changes in mood, behavior, thoughts, or feelings, or if you develop suicidal thoughts or actions. This is very important when an antidepressant medicine is started or when the dose is changed.Call your healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings or if you develop suicidal thoughts or actions.Keep all follow-up visits with your healthcare provider as scheduled. Call your healthcare provider between visits as needed, especially if you have concerns about symptoms. Call your healthcare provider or get emergency help right away if you or a family member have any of the following symptoms, especially if they are new, worse, or worry you: suicide attemptsacting aggressive, being angry, or violentnew or worse depressionpanic attacksnew or worse irritabilityan extreme increase in activity or talking (mania)thoughts about suicide or dyingacting on dangerous impulsesnew or worse anxietyfeeling very agitated or restlesstrouble sleepingother unusual changes in behavior or mood See “What are the possible side effects of doxepin hydrochloride?” for more information about side effects. |
+| What is doxepin hydrochloride?Doxepin hydrochloride is a prescription medicine used to treat adults with a certain type of depression called major depressive disorder (MDD). It is not known if doxepin hydrochloride is safe and effective for use in children. |
+| Do not take doxepin hydrochloride if you: are allergic to doxepin, or any of the ingredients in doxepin hydrochloride. See the end of this Medication Guide for a complete list of ingredients in doxepin hydrochloridehave glaucomahave or have had trouble urinatingare taking, or have stopped taking within the last 14 days, a medicine called a Monoamine Oxidase Inhibitor (MAOI), including the antibiotic linezolid or intravenous methylene blue Ask your healthcare provider or pharmacist if you are not sure if you are taking an MAOI, including the antibiotic linezolid or intravenous methylene blue Do not start taking an MAOI for at least 14 days after you stop treatment with doxepin hydrochloride |
+| Before taking doxepin hydrochloride, tell your healthcare provider about all your medical conditions, including if you: have, or have a family history of bipolar disorder, mania, or hypomaniahave or had depression, suicidal thoughts or behaviorhave kidney or liver problemshave or had seizures or convulsionsare pregnant or plan to become pregnant. Taking doxepin hydrochloride during your third trimester of pregnancy may harm your unborn baby. Tell your healthcare provider if you become pregnant or think you may be pregnant during treatment with doxepin hydrochloride Babies born to mothers who take certain medicines, including doxepin hydrochloride, during the third trimester of pregnancy may have symptoms of sedation, such as breathing problems, sluggishness, low muscle tone, feeding problems, and withdrawal symptoms. Talk to your healthcare provider about the risks to your unborn or newborn baby if you take doxepin hydrochloride during pregnancyThere is a pregnancy registry for women who are exposed to doxepin hydrochloride during pregnancy. The purpose of this registry is to collect information about the health of women exposed to doxepin hydrochloride and their babies. If you become pregnant during treatment with doxepin hydrochloride, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants. You can register by calling 1-866-961-2388 or visiting online at https://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/antidepressants/ are breastfeeding or plan to breastfeed. Doxepin hydrochloride can pass into your breast milk and harm your baby. Do not breastfeed during treatment with doxepin hydrochloride. Talk to your healthcare provider about the best way to feed your baby during treatment with doxepin hydrochloride Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements. Doxepin hydrochloride and other medicines may affect each other causing possible serious side effects. Doxepin hydrochloride may affect the way other medicines work and other medicines may affect the way doxepin hydrochloride works.Especially tell your healthcare provider if you take: medicines used to treat mood, anxiety, psychotic, or thought disorders, including selective serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs)medicines to treat migraine headaches known as triptansother tricyclic antidepressantstetracyclic antidepressantsopioidslithiumtryptophanbuspironeSt. John’s Wortcarbamazepinecimetidinetolazamidemedicines that can cause drowsiness Ask your healthcare provider if you are not sure if you are taking any of these medicines. Your healthcare provider can tell you if it is safe to take doxepin hydrochloride with your other medicines.Do not start or stop any other medicines during treatment with doxepin hydrochloride without first talking to your healthcare provider. Know the medicines you take. Keep a list of them to show to your healthcare providers when you start to take a new medicine. |
+| How should I take doxepin hydrochloride? Take doxepin hydrochloride exactly as your healthcare provider tells you to take it. Do not change your dose or stop taking doxepin hydrochloride without first talking to your healthcare provider.Your healthcare provider may need to change the dose of doxepin hydrochloride until it is the right dose for you.For people taking doxepin hydrochloride oral solution: Use the calibrated dropper that comes with doxepin hydrochloride oral solution to measure the prescribed dose. The calibrated dropper has markings at 5 mg, 10 mg, 15 mg, 20 mg, and 25 mg.Mix your prescribed dose with 120 mL (4 ounces) of water, whole or skimmed milk, or orange, grapefruit, tomato, prune, or pineapple juice. Do not mix with other liquids.Take the dose right away after mixing. If you miss a dose of doxepin hydrochloride, take the missed dose as soon as you remember. If it is almost time for the next dose, do not take the missed dose and take your next dose at the regular time. Do not take two doses of doxepin hydrochloride at the same time. If you take too much doxepin hydrochloride, call your healthcare provider or Poison Help Line at 1-800-222-1222 or go to the nearest hospital emergency room right away. |
+| What should I avoid while taking doxepin hydrochloride? Do not drive a car or another motor vehicle, operate heavy machinery, or do dangerous activities while taking doxepin hydrochloride. Doxepin hydrochloride can cause sleepiness or may affect your ability to make decisions, think clearly, or react quickly.Do not drink alcohol during treatment with doxepin hydrochloride. Drinking alcohol during treatment with doxepin hydrochloride can increase your risk of having serious side effects. |
+| What are the possible side effects of doxepin hydrochloride? Doxepin hydrochloride can cause serious side effects, including: See “What is the most important information I should know about doxepin hydrochloride?”Serotonin syndrome. Taking doxepin hydrochloride can cause a potentially life-threatening problem called serotonin syndrome. The risk of developing serotonin syndrome is increased when doxepin hydrochloride is taken with certain other medicines. See “Do not take doxepin hydrochloride if you:” Stop taking doxepin hydrochloride and call your healthcare provider or go to the nearest hospital emergency room right away if you have any of the following signs and symptoms of serotonin syndrome: agitation confusion fast heartbeat dizzinessflushingshaking (tremors), stiff muscles, or muscle twitchingseizuresseeing or hearing things that are not real (hallucinations)comachanges in blood pressuresweatinghigh body temperature (hyperthermia)loss of coordinationnausea, vomiting, diarrhea Eye problems (angle-closure glaucoma). Doxepin hydrochloride may cause a type of eye problem called angle-closure glaucoma in people with certain eye problems. You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are. Call your healthcare provider if you have eye pain, changes in your vision, or swelling or redness in or around the eye.Manic episodes. Manic episodes may happen in people with bipolar disorder who take doxepin hydrochloride. Symptoms may include: greatly increased energy racing thoughts unusually grand ideas talking more or faster than usualsevere trouble sleepingreckless behaviorexcessive happiness or irritability Seizures (convulsions) The most common side effects of doxepin hydrochloride include: feeling overly sleepy dry mouth dizzinessconstipationtiredness These are not all the possible side effects of doxepin hydrochloride. Call your healthcare provider for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
+| How should I store doxepin hydrochloride? Store doxepin hydrochloride at controlled room temperature between 20°C to 25°C (68°F to 77°F).Keep doxepin hydrochloride and all medicines out of the reach of children. |
+| General Information about the safe and effective use of doxepin hydrochloride. Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide. Do not take doxepin hydrochloride for a condition for which it was not prescribed. Do not give doxepin hydrochloride to other people, even if they have the same symptoms that you have. It may harm them. You can ask your pharmacist or healthcare provider for information about doxepin hydrochloride that is written for health professionals. |
+| What are the ingredients in doxepin hydrochloride?Active ingredient: doxepin hydrochlorideInactive Ingredients for Doxepin Hydrochloride Oral Solution: glycerin; methylparaben; peppermint flavor; propylparaben; water. May contain hydrochloric acid and/or sodium hydroxide.Distributed by: Lannett Company, Inc. Philadelphia, PA 19136 For optional information about doxepin hydrochloride call 1-844-834-0530 or go to www.lannett.com. |
 
-Read the Medication Guide that comes with you or your family member's antidepressant medicine.
-This Medication Guide is only about the risk of suicidal thoughts and actions with antidepressant medicines.
-Talk to your, or your family member's, healthcare provider about:
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-- all risks and benefits of treatment with antidepressant medicines
-- all treatment choices for depression or other serious mental illness
-
-What is the most important information I should know about antidepressant medicines, depression and other serious mental illnesses, and suicidal thoughts or actions?
-
-1.
-Antidepressant medicines may increase suicidal thoughts or actions in some children, teenagers, and young adults within the first few months of treatment.
-
-2.
-Depression and other serious mental illnesses are the most important causes of suicidal thoughts and actions.
-Some people may have a particularly high risk of having suicidal thoughts or actions.
-These include people who have (or have a family history of) bipolar illness (also called manic-depressive illness) or suicidal thoughts or actions.
-
-3.
-How can I watch for and try to prevent suicidal thoughts and actions in myself or a family member?
-
-- Pay close attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings.
-  This is very important when an antidepressant medicine is started or when the dose is changed.
-- Call the healthcare provider right away to report new or sudden changes in mood, behavior, thoughts, or feelings.
-- Keep all follow-up visits with the healthcare provider as scheduled.
-  Call the healthcare provider between visits as needed, especially if you have concerns about symptoms.
-
-Call a healthcare provider right away if you or your family member has any of the following symptoms, especially if they are new, worse, or worry you:
-
-- thoughts about suicide or dying • attempts to commit suicide
-- new or worse depression
-- new or worse anxiety
-- feeling very agitated or restless
-- panic attacks
-- trouble sleeping (insomnia)
-- new or worse irritability
-- acting aggressive, being angry, or violent
-- acting on dangerous impulses
-- an extreme increase in activity and talking (mania)
-- other unusual changes in behavior or mood
-- Visual problems
-
-- eye pain
-- changes in vision
-- swelling or redness in or around the eye
-
-Only some people are at risk for these problems.
-You may want to undergo an eye examination to see if you are at risk and receive preventative treatment if you are.
-
-What else do I need to know about antidepressant medicines?
-
-- Never stop an antidepressant medicine without first talking to a healthcare provider.
-  Stopping an antidepressant medicine suddenly can cause other symptoms.
-- Antidepressants are medicines used to treat depression and other illnesses.
-  It is important to discuss all the risks of treating depression and also the risks of not treating it.
-  Patients and their families or other caregivers should discuss all treatment choices with the healthcare provider, not just the use of antidepressants.
-- Antidepressant medicines have other side effects.
-  Talk to the healthcare provider about the side effects of the medicine prescribed for you or your family member.
-- Antidepressant medicines can interact with other medicines.
-  Know all of the medicines that you or your family member takes.
-  Keep a list of all medicines to show the healthcare provider.
-  Do not start new medicines without first checking with your healthcare provider.
-- Not all antidepressant medicines prescribed for children are FDA approved for use in children.
-  Talk to your child's healthcare provider for more information.
-
-Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
-This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
-
-Distributed by:
-
-Lannett Company, Inc.
-
-Philadelphia, PA 19136
-
-10-1188
+CIB72248A
 
 Rev.
-03/20
+07/2025

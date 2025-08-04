@@ -1,14 +1,15 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
-Doxepin hydrochloride is one of a class of psychotherapeutic agents known as dibenzoxepin tricyclic compounds.
-The molecular formula of the compound is C19H21NO•HCl having a molecular weight of 315.84.
-It is a white crystalline solid readily soluble in water, lower alcohols and chloroform.
+Doxepin is a tricyclic antidepressant.
 
-Doxepin hydrochloride oral solution is available as a concentrate for oral administration containing doxepin hydrochloride equivalent to 10 mg of doxepin per mL.
-It also contains the following inactive ingredients: glycerin; methylparaben; peppermint flavor; propylparaben; water.
-May contain hydrochloric acid and/or sodium hydroxide.
-
-Doxepin hydrochloride is a dibenzoxepin derivative and is the first of a family of tricyclic psychotherapeutic agents.
+The molecular formula of doxepin hydrochloride is C19H21NO·HCl with a molecular weight of 315.84.
+It is a white crystalline solid soluble in water, lower alcohols and chloroform.
+Doxepin is a dibenzoxepin derivative.
 Specifically, it is an isomeric mixture of:
 
 1-Propanamine, 3-dibenz[b,e]oxepin-11(6H)ylidene-N,N-dimethyl-, hydrochloride.
+The structural formula of doxepin is shown below.
+
+Doxepin Hydrochloride Oral Solution USP is available as a concentrate for oral administration containing doxepin hydrochloride equivalent to 10 mg of doxepin per mL.
+It also contains the following inactive ingredients: glycerin; methylparaben; peppermint flavor; propylparaben; water.
+May contain hydrochloric acid and/or sodium hydroxide.
