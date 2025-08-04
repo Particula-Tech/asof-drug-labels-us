@@ -2,7 +2,7 @@
 
 ## 5.1 Falling Asleep During Activities of Daily Living and Somnolence
 
-Patients treated for Parkinson’s disease have reported falling asleep while engaged in activities of daily living, including the operation of motor vehicles, which sometimes has resulted in accidents.
+Patients treated for Parkinson's disease have reported falling asleep while engaged in activities of daily living, including the operation of motor vehicles, which sometimes has resulted in accidents.
 Patients may not perceive warning signs, such as excessive drowsiness, or they may report feeling alert immediately prior to the event.
 In controlled clinical trials, somnolence and fatigue were reported as adverse reactions in 4% of patients treated with GOCOVRI 274 mg and 1% for placebo.
 
@@ -42,10 +42,22 @@ Concomitant use of alcohol when using GOCOVRI is not recommended [see Drug Inter
 
 A symptom complex resembling neuroleptic malignant syndrome (characterized by elevated temperature, muscular rigidity, altered consciousness, and autonomic instability), with no other obvious etiology, has been reported in association with rapid dose reduction, withdrawal of, or changes in drugs that increase central dopaminergic tone.
 
-Abrupt discontinuation of GOCOVRI may cause an increase in the symptoms of Parkinson’s disease or cause delirium, agitation, delusions, hallucinations, paranoid reaction, stupor, anxiety, depression, or slurred speech.
+Abrupt discontinuation of GOCOVRI may cause an increase in the symptoms of Parkinson's disease or cause delirium, agitation, delusions, hallucinations, paranoid reaction, stupor, anxiety, depression, or slurred speech.
 It is recommended to avoid sudden discontinuation of GOCOVRI [see Dosing Information (2.4)].
 
-## 5.6 Impulse Control/Compulsive Behaviors
+## 5.6 Corneal Edema
+
+Corneal edema has been reported in patients taking amantadine.
+Symptoms include sudden onset of blurry vision, or progressive vision loss, with or without eye pain.
+Corneal involvement is usually bilateral.
+Onset can occur from a few weeks to several years after starting amantadine.
+Resolution of symptoms typically begins within weeks of amantadine cessation.
+However, corneal grafts have been required in some patients when the condition is not recognized.
+Permanent damage can occur if amantadine is continued.
+Ask patients if their vision has changed and obtain ophthalmologic examinations to rule out corneal edema should vision changes occur after initiation of therapy with GOCOVRI.
+If corneal edema occurs, taper and discontinue GOCOVRI [see Dosage and Administration (2.4)].
+
+## 5.7 Impulse Control/Compulsive Behaviors
 
 Patients can experience intense urges to gamble, increased sexual urges, intense urges to spend money, binge eating, and/or other intense urges, and the inability to control these urges while taking one or more of the medications, including GOCOVRI, that increase central dopaminergic tone.
 In some cases, these urges were reported to have stopped when the dose was reduced or the medication was discontinued.

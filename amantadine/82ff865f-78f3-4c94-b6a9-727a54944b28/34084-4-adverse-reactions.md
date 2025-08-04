@@ -7,7 +7,8 @@ The following serious adverse reactions are described in more detail elsewhere i
 - Hallucinations/Psychotic Behavior [see Warnings and Precautions (5.3)]
 - Dizziness and Orthostatic Hypotension [see Warnings and Precautions (5.4)]
 - Withdrawal-Emergent Hyperpyrexia and Confusion [see Warnings and Precautions (5.5)]
-- Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.6)]
+- Corneal Edema [see Warnings and Precautions (5.6)]
+- Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.7)]
 
 ## 6.1. Clinical Trial Experience
 
@@ -95,4 +96,6 @@ Orthostatic hypotension was reported in 8% of patients age 65 and over, compared
 The following adverse reactions have been identified during postapproval use of GOCOVRI.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Nervous System Disorders: Seizure.
+Nervous System Disorders: Seizure
+
+Vision: Corneal edema

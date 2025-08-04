@@ -2,22 +2,22 @@
 
 Overview of Studies
 
-The efficacy of GOCOVRI for the treatment of dyskinesia in patients with Parkinson’s disease and for the adjunctive treatment to levodopa/carbidopa in patients with Parkinsons’s disease experiencing “off” episodes was assessed in two randomized, double-blind, placebo-controlled efficacy trials: Study 1 and Study 2.
+The efficacy of GOCOVRI for the treatment of dyskinesia in patients with Parkinson's disease and for the adjunctive treatment to levodopa/carbidopa in patients with Parkinsons's disease experiencing "off" episodes was assessed in two randomized, double-blind, placebo-controlled efficacy trials: Study 1 and Study 2.
 Key inclusion criteria in both studies included at least 1 hour of troublesome dyskinesia time during the day and at least mild functional impact because of dyskinesia.
 
-Study 1 was conducted in 121 (modified Intention to Treat (mITT) population) Parkinson’s disease patients with dyskinesia in the United States (US) and Canada.
+Study 1 was conducted in 121 (modified Intention to Treat (mITT) population) Parkinson's disease patients with dyskinesia in the United States (US) and Canada.
 The duration of treatment in Study 1 was up to 25 weeks.
 Study 2 was conducted in 75 (mITT population) patients with dyskinesia in the US, Germany, France, Spain, and Austria.
 The duration of treatment was 13 weeks.
 
 In both studies, the primary efficacy endpoint was the change in total score of the Unified Dyskinesia Rating Scale (UDysRS) between baseline and Week 12.
-Key secondary endpoints derived from a Parkinson’s disease home diary included changes from baseline to Week 12 in ON time without troublesome dyskinesia and OFF time.
+Key secondary endpoints derived from a Parkinson's disease home diary included changes from baseline to Week 12 in ON time without troublesome dyskinesia and OFF time.
 
 Study Population
 
-In Study 1 and Study 2, the mean age of patients at the time of Parkinson’s disease diagnosis was 55 years (range: 29-75 years).
+In Study 1 and Study 2, the mean age of patients at the time of Parkinson's disease diagnosis was 55 years (range: 29-75 years).
 
-At baseline, patients had a mean UDysRS total score of 40.1 (range: 8-76), a mean duration of ON time without troublesome dyskinesia (Parkinson’s disease home diary) of 8.4 hours (range: 0-15.3), and a mean duration of OFF time of 2.8 hours (range: 0-9.5).
+At baseline, patients had a mean UDysRS total score of 40.1 (range: 8-76), a mean duration of ON time without troublesome dyskinesia (Parkinson's disease home diary) of 8.4 hours (range: 0-15.3), and a mean duration of OFF time of 2.8 hours (range: 0-9.5).
 
 Patients in Study 1 and Study 2 were treated with a stable dose of levodopa, with 32% of patients on levodopa monotherapy.
 Patients were also treated with concomitant dopamine agonists (54%) and/or MAO-B inhibitors (44%).

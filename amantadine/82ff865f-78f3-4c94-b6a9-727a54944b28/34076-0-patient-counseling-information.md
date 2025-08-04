@@ -10,8 +10,8 @@ Advise patients to speak to their healthcare provider before discontinuation of 
 
 Falling Asleep During Activities of Daily Living
 
-Advise patients that sleepiness and fatigue that have been reported with GOCOVRI and patients treated with Parkinson’s disease medications have reported falling asleep while engaged in activities of daily living.
-These adverse reactions may affect some patients’ ability to drive and operate machinery safely [see Warnings and Precautions (5.1)].
+Advise patients that sleepiness and fatigue that have been reported with GOCOVRI and patients treated with Parkinson's disease medications have reported falling asleep while engaged in activities of daily living.
+These adverse reactions may affect some patients' ability to drive and operate machinery safely [see Warnings and Precautions (5.1)].
 
 Suicidality and Depression
 
@@ -32,9 +32,14 @@ Withdrawal-Emergent Hyperpyrexia and Confusion
 Advise patients to contact their healthcare provider before stopping GOCOVRI.
 Tell patients to inform their healthcare provider if they develop withdrawal symptoms such as fever, confusion, or severe muscle stiffness [see Warnings and Precautions (5.5)].
 
+Corneal Edema
+
+Inform patients about the potential for visual changes including vision loss with administration of GOCOVRI.
+Advise patients to inform their healthcare provider if they develop visual symptoms such as blurred vision, with or without eye pain, or vision loss [see Warnings and Precautions (5.6)].
+
 Impulse Control/Compulsive Disorders
 
-Inform patients of the potential for experiencing intense urges to gamble, increased sexual urges, intense urges to spend money, binge eating, and other intense urges and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone, that are generally used for the treatment of Parkinson’s disease [see Warnings and Precautions (5.6)].
+Inform patients of the potential for experiencing intense urges to gamble, increased sexual urges, intense urges to spend money, binge eating, and other intense urges and the inability to control these urges while taking one or more of the medications that increase central dopaminergic tone, that are generally used for the treatment of Parkinson's disease [see Warnings and Precautions (5.7)].
 
 Drug Interactions
 

@@ -9,7 +9,7 @@ Animal studies suggest a potential risk for fetal harm with amantadine.
 In mice and rats, adverse developmental effects (embryolethality, increased incidence of malformations, and reduced fetal body weight) were observed when amantadine was administered to pregnant animals at clinically relevant doses [see Data].
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
-The background risk for major birth defects and miscarriage in patients with Parkinson’s disease is unknown.
+The background risk for major birth defects and miscarriage in patients with Parkinson's disease is unknown.
 
 Data
 
@@ -37,7 +37,7 @@ There is no information on the risk to a breastfed infant.
 
 Amantadine may alter breast milk production or excretion [see Data].
 
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for GOCOVRI and any potential adverse effects on the breastfed infant from GOCOVRI or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for GOCOVRI and any potential adverse effects on the breastfed infant from GOCOVRI or from the underlying maternal condition.
 
 Data
 
@@ -50,7 +50,7 @@ The safety and effectiveness of GOCOVRI in pediatric patients have not been esta
 
 ## 8.5 Geriatric Use
 
-The majority of people with Parkinson’s disease are 65 years and older.
+The majority of people with Parkinson's disease are 65 years and older.
 In Phase 3 clinical trials, the mean age of patients at study entry was 65 years.
 Of the total number of patients in clinical studies of GOCOVRI, 46% were less than 65 years of age, 39% were 65-74 years of age, and 15% were 75 years of age or older.
 

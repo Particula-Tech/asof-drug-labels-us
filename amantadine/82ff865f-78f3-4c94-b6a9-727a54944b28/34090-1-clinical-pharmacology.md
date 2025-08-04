@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism by which amantadine exerts efficacy in the treatment of dyskinesia in patients with Parkinson’s disease or as adjunctive treatment to levodopa/carbidopa in patients with Parkinson’s disease experiencing “off” episodes is unknown.
+The mechanism by which amantadine exerts efficacy in the treatment of dyskinesia in patients with Parkinson's disease or as adjunctive treatment to levodopa/carbidopa in patients with Parkinson's disease experiencing "off" episodes is unknown.
 Amantadine is a weak uncompetitive antagonist of the NMDA receptor.
 Amantadine has not been shown to possess direct anticholinergic activity in animal studies; however, it exhibits anticholinergic-like side effects such as dry mouth, urinary retention, and constipation in humans.
 Amantadine may have direct and indirect effects on dopamine neurons; it exerts dopaminergic-like side effects such as hallucinations and dizziness in humans.
@@ -74,7 +74,7 @@ Drug Interaction Studies
 
 The in-vitro dissolution-release profiles showed 52% drug release after 45 minutes, and up to 95% after 2 hours, at concentrations of 40% alcohol/0.1N HCl.
 
-In vitro studies indicate that amantadine has negligible or no inhibitory activity against cellular transporters (P-gp, BCRP, MATE2-K, OAT1, OAT3, OATP1B1, and OATP1B3) at plasma concentrations observed in patients with Parkinson’s disease on a GOCOVRI 274 mg dose.
+In vitro studies indicate that amantadine has negligible or no inhibitory activity against cellular transporters (P-gp, BCRP, MATE2-K, OAT1, OAT3, OATP1B1, and OATP1B3) at plasma concentrations observed in patients with Parkinson's disease on a GOCOVRI 274 mg dose.
 
 In vitro studies in MDCK-II cells demonstrated that amantadine is not a substrate of the anionic transporters OAT1 or OAT3, or the cationic transporter MATE2-K.
 Amantadine was a poor substrate of the cationic transporters OCT2 and MATE1.
