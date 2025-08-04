@@ -19,7 +19,7 @@ After a single intravenous dose of Meropenem for Injection, the highest mean con
 
 Table 5: Meropenem Concentrations in Selected Tissues (Highest Concentrations Reported)
 
-| Tissue | Intravenous Dose (gram) | Number of Samples | Mean [mcg/mL or mcg/(gram)]1 | Range [mcg/mL or mcg/(gram)] |
+| Tissue | Intravenous. Dose (gram) | Number of Samples | Mean [mcg/mL or mcg/(gram)]1 | Range [mcg/mL or mcg/(gram)] |
 | --- | --- | --- | --- | --- |
 | Endometrium | 0.5 | 7 | 4.2 | 1.7 to 10.2 |
 | Myometrium | 0.5 | 15 | 3.8 | 0.4 to 8.1 |

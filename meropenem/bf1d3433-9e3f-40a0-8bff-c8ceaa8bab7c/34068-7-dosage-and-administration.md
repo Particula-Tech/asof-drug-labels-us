@@ -53,7 +53,6 @@ Table 2: Recommended Meropenem for Injection Dosage Schedule for Pediatric Patie
 | Meningitis | 40 | 2 grams | Every 8 hours |
 
 There is no experience in pediatric patients with renal impairment.
-
 When treating cSSSI caused by P. aeruginosa, a dose of 20 mg/kg (or 1 gram for pediatric patients weighing over 50 kg) every 8 hours is recommended.
 
 Pediatric Patients Less Than 3 Months of Age
