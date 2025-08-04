@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-PEMRYDI RTU is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication.
+Pemetrexed is a folate analog metabolic inhibitor that disrupts folate-dependent metabolic processes essential for cell replication.
 In vitro studies show that pemetrexed inhibits thymidylate synthase (TS), dihydrofolate reductase, and glycinamide ribonucleotide formyltransferase (GARFT), which are folate-dependent enzymes involved in the de novo biosynthesis of thymidine and purine nucleotides.
 Pemetrexed is taken into cells by membrane carriers such as the reduced folate carrier and membrane folate binding protein transport systems.
 Once in the cell, pemetrexed is converted to polyglutamate forms by the enzyme folylpolyglutamate synthetase.
@@ -19,7 +19,7 @@ There is no cumulative effect of pemetrexed exposure on ANC nadir over multiple 
 
 Absorption
 
-The pharmacokinetics of pemetrexed when PEMRYDI RTU was administered as a single agent in doses ranging from 0.2 to 838 mg/m2 infused over a 10-minute period have been evaluated in 426 cancer patients with a variety of solid tumors.
+The pharmacokinetics of pemetrexed when pemetrexed injection was administered as a single agent in doses ranging from 0.2 to 838 mg/m2 infused over a 10-minute period have been evaluated in 426 cancer patients with a variety of solid tumors.
 Pemetrexed total systemic exposure (AUC) and maximum plasma concentration (Cmax) increased proportionally with increase of dose.
 The pharmacokinetics of pemetrexed did not change over multiple treatment cycles.
 

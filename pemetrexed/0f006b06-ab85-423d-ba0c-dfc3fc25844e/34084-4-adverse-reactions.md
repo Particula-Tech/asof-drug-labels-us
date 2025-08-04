@@ -12,32 +12,32 @@ The following adverse reactions are discussed in greater detail in other section
 
 Because clinical trials are conducted under widely varying conditions, adverse reactions rates cannot be directly compared to rates in other clinical trials and may not reflect the rates observed in clinical practice.
 
-In clinical trials, the most common adverse reactions (incidence ≥ 20%) of PEMRYDI RTU, when administered as a single agent, are fatigue, nausea, and anorexia.
-The most common adverse reactions (incidence ≥ 20 %) of PEMRYDI RTU, when administered in combination with cisplatin are vomiting, neutropenia, anemia, stomatitis/pharyngitis, thrombocytopenia, and constipation.
-The most common adverse reactions (incidence ≥ 20%) of PEMRYDI RTU, when administered in combination with pembrolizumab and platinum chemotherapy, are fatigue/asthenia, nausea, constipation, diarrhea, decreased appetite, rash, vomiting, cough, dyspnea, and pyrexia.
+In clinical trials, the most common adverse reactions (incidence ≥ 20%) of pemetrexed, when administered as a single agent, are fatigue, nausea, and anorexia.
+The most common adverse reactions (incidence ≥ 20 %) of pemetrexed, when administered in combination with cisplatin are vomiting, neutropenia, anemia, stomatitis/pharyngitis, thrombocytopenia, and constipation.
+The most common adverse reactions (incidence ≥ 20%) of pemetrexed, when administered in combination with pembrolizumab and platinum chemotherapy, are fatigue/asthenia, nausea, constipation, diarrhea, decreased appetite, rash, vomiting, cough, dyspnea, and pyrexia.
 
 Non-Squamous NSCLC
 
 First-line Treatment of Metastatic Non-squamous NSCLC with Pembrolizumab and Platinum Chemotherapy
 
-The safety of PEMRYDI RTU, in combination with pembrolizumab and investigator’s choice of platinum (either carboplatin or cisplatin), was investigated in Study KEYNOTE-189, a multicenter, double-blind, randomized (2:1), active-controlled trial in patients with previously untreated, metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations.
-A total of 607 patients received PEMRYDI RTU, pembrolizumab, and platinum every 3 weeks for 4 cycles followed by PEMRYDI RTU and pembrolizumab (n=405), or placebo, PEMRYDI RTU, and platinum every 3 weeks for 4 cycles followed by placebo and PEMRYDI RTU (n=202).
+The safety of pemetrexed, in combination with pembrolizumab and investigator’s choice of platinum (either carboplatin or cisplatin), was investigated in Study KEYNOTE-189, a multicenter, double-blind, randomized (2:1), active-controlled trial in patients with previously untreated, metastatic non-squamous NSCLC with no EGFR or ALK genomic tumor aberrations.
+A total of 607 patients received pemetrexed, pembrolizumab, and platinum every 3 weeks for 4 cycles followed by pemetrexed and pembrolizumab (n=405), or placebo, pemetrexed, and platinum every 3 weeks for 4 cycles followed by placebo and pemetrexed (n=202).
 Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible [see Clinical Studies (14.1)].
 
-The median duration of exposure to PEMRYDI RTU was 7.2 months (range: 1 day to 1.7 years).
+The median duration of exposure to pemetrexed was 7.2 months (range: 1 day to 1.7 years).
 Seventy-two percent of patients received carboplatin.
 The study population characteristics were: median age of 64 years (range: 34 to 84), 49% age 65 years or older, 59% male, 94% White and 3% Asian, and 18% with history of brain metastases at baseline.
 
-PEMRYDI RTU was discontinued for adverse reactions in 23% of patients in the PEMRYDI RTU, pembrolizumab, and platinum arm.
-The most common adverse reactions resulting in discontinuation of PEMRYDI RTU in this arm were acute kidney injury (3%) and pneumonitis (2%).
-Adverse reactions leading to interruption of PEMRYDI RTU occurred in 49% of patients in the PEMRYDI RTU, pembrolizumab, and platinum arm.
-The most common adverse reactions or laboratory abnormalities leading to interruption of PEMRYDI RTU in this arm (≥ 2%) were neutropenia (12%), anemia (7%), asthenia (4%), pneumonia (4%), thrombocytopenia (4%), increased blood creatinine (3%), diarrhea (3%), and fatigue (3%).
+Pemetrexed was discontinued for adverse reactions in 23% of patients in the pemetrexed, pembrolizumab, and platinum arm.
+The most common adverse reactions resulting in discontinuation of pemetrexed in this arm were acute kidney injury (3%) and pneumonitis (2%).
+Adverse reactions leading to interruption of pemetrexed occurred in 49% of patients in the pemetrexed, pembrolizumab, and platinum arm.
+The most common adverse reactions or laboratory abnormalities leading to interruption of pemetrexed in this arm (≥ 2%) were neutropenia (12%), anemia (7%), asthenia (4%), pneumonia (4%), thrombocytopenia (4%), increased blood creatinine (3%), diarrhea (3%), and fatigue (3%).
 
-Table 2 summarizes the adverse reactions that occurred in ≥ 20% of patients treated with PEMRYDI RTU, pembrolizumab, and platinum.
+Table 2 summarizes the adverse reactions that occurred in ≥ 20% of patients treated with pemetrexed, pembrolizumab, and platinum.
 
 Table 2: Adverse Reactions Occurring in ≥ 20% of Patients in KEYNOTE-189
 
-|  | PEMRYDI RTUPembrolizumab Platinum Chemotherapy n=405 |  | Placebo PEMRYDI RTUPlatinum Chemotherapy n=202 |  |
+|  | PemetrexedPembrolizumab Platinum Chemotherapy n=405 |  | Placebo PemetrexedPlatinum Chemotherapy n=202 |  |
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | All Gradesa(%) | Grade 3-4 (%) | All Grades(%) | Grade 3-4 (%) |
 | Gastrointestinal Disorders |  |  |  |  |
@@ -57,11 +57,11 @@ Table 2: Adverse Reactions Occurring in ≥ 20% of Patients in KEYNOTE-189
 | Dyspnea | 21 | 3.7 | 26 | 5 |
 | a Graded per NCI CTCAE version 4.03.b Includes asthenia and fatigue.c Includes genital rash, rash, rash generalized, rash macular, rash maculo-papular, rash papular, rash pruritic, and rash pustular. |  |  |  |  |
 
-Table 3 summarizes the laboratory abnormalities that worsened from baseline in at least 20% of patients treated with PEMRYDI RTU, pembrolizumab, and platinum.
+Table 3 summarizes the laboratory abnormalities that worsened from baseline in at least 20% of patients treated with pemetrexed, pembrolizumab, and platinum.
 
 Table 3: Laboratory Abnormalities Worsened from Baseline in ≥ 20% of Patients in KEYNOTE-189
 
-|  | PEMRYDI RTU Pembrolizumab Platinum Chemotherapy |  | Placebo PEMRYDI RTU Platinum Chemotherapy |  |
+|  | Pemetrexed Pembrolizumab Platinum Chemotherapy |  | Placebo Pemetrexed Platinum Chemotherapy |  |
 | --- | --- | --- | --- | --- |
 | Laboratory Testa | All Gradesb % | Grades 3-4 % | All Grades % | Grades 3-4 % |
 | Chemistry |  |  |  |  |
@@ -81,27 +81,27 @@ Table 3: Laboratory Abnormalities Worsened from Baseline in ≥ 20% of Patients 
 | Lymphopenia | 64 | 22 | 64 | 25 |
 | Neutropenia | 48 | 20 | 41 | 19 |
 | Thrombocytopenia | 30 | 12 | 29 | 8 |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: PEMRYDI RTU/pembrolizumab/platinum chemotherapy (range: 381 to 401 patients) and placebo/PEMRYDI RTU/platinum chemotherapy (range: 184 to 197 patients). b Graded per NCI CTCAE version 4.03. |  |  |  |  |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: pemetrexed/pembrolizumab/platinum chemotherapy (range: 381 to 401 patients) and placebo/pemetrexed/platinum chemotherapy (range: 184 to 197 patients). b Graded per NCI CTCAE version 4.03. |  |  |  |  |
 
 Initial Treatment in Combination with Cisplatin
 
-The safety of PEMRYDI RTU was evaluated in Study JMDB, a randomized (1:1), open-label, multicenter trial conducted in chemotherapy-naive patients with locally advanced or metastatic NSCLC.
-Patients received either PEMRYDI RTU 500 mg/m2 intravenously and cisplatin 75 mg/m2 intravenously on Day 1 of each 21-day cycle (n=839) or gemcitabine 1,250 mg/m2 intravenously on Days 1 and 8 and cisplatin 75 mg/m2 intravenously on Day 1 of each 21-day cycle (n=830).
+The safety of pemetrexed was evaluated in Study JMDB, a randomized (1:1), open-label, multicenter trial conducted in chemotherapy-naive patients with locally advanced or metastatic NSCLC.
+Patients received either pemetrexed 500 mg/m2 intravenously and cisplatin 75 mg/m2 intravenously on Day 1 of each 21-day cycle (n=839) or gemcitabine 1,250 mg/m2 intravenously on Days 1 and 8 and cisplatin 75 mg/m2 intravenously on Day 1 of each 21-day cycle (n=830).
 All patients were fully supplemented with folic acid and vitamin B12.
 
 Study JMDB excluded patients with an Eastern Cooperative Oncology Group Performance Status (ECOG PS of 2 or greater), uncontrolled third-space fluid retention, inadequate bone marrow reserve and organ function, or a calculated creatinine clearance less than 45 mL/min.
 Patients unable to stop using aspirin or other non-steroidal anti-inflammatory drugs or unable to take folic acid, vitamin B12 or corticosteroids were also excluded from the study.
 
-The data described below reflect exposure to PEMRYDI RTU plus cisplatin in 839 patients in Study JMDB.
+The data described below reflect exposure to pemetrexed plus cisplatin in 839 patients in Study JMDB.
 Median age was 61 years (range 26-83 years); 70% of patients were men; 78% were White, 16% were Asian, 2.9% were Hispanic or Latino, 2.1% were Black or African American, and <1% were other ethnicities; 36% had an ECOG PS 0.
-Patients received a median of 5 cycles of PEMRYDI RTU.
+Patients received a median of 5 cycles of pemetrexed.
 
-Table 4 provides the frequency and severity of adverse reactions that occurred in ≥ 5% of 839 patients receiving PEMRYDI RTU in combination with cisplatin in Study JMDB.
-Study JMDB was not designed to demonstrate a statistically significant reduction in adverse reaction rates for PEMRYDI RTU, as compared to the control arm, for any specified adverse reaction listed in Table 4.
+Table 4 provides the frequency and severity of adverse reactions that occurred in ≥ 5% of 839 patients receiving pemetrexed in combination with cisplatin in Study JMDB.
+Study JMDB was not designed to demonstrate a statistically significant reduction in adverse reaction rates for pemetrexed, as compared to the control arm, for any specified adverse reaction listed in Table 4.
 
-Table 4: Adverse Reactions Occurring in ≥ 5% of Fully Vitamin-Supplemented Patients Receiving PEMRYDI RTU in Combination with Cisplatin Chemotherapy in Study JMDB
+Table 4: Adverse Reactions Occurring in ≥ 5% of Fully Vitamin-Supplemented Patients Receiving Pemetrexed in Combination with Cisplatin Chemotherapy in Study JMDB
 
-| Adverse Reactiona | PEMRYDI RTU/Cisplatin (N=839) |  | Gemcitabine/Cisplatin (N=830) |  |
+| Adverse Reactiona | Pemetrexed/Cisplatin (N=839) |  | Gemcitabine/Cisplatin (N=830) |  |
 | --- | --- | --- | --- | --- |
 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
 | All adverse reactions | 90 | 37 | 91 | 53 |
@@ -131,7 +131,7 @@ Table 4: Adverse Reactions Occurring in ≥ 5% of Fully Vitamin-Supplemented Pat
 | Taste disturbance | 8 | 0 | 9 | 0 |
 | a NCI CTCAE version 2.0. |  |  |  |  |
 
-The following additional adverse reactions were observed in patients assigned to receive PEMRYDI RTU.
+The following additional adverse reactions were observed in patients assigned to receive pemetrexed.
 
 Incidence 1% to < 5%
 
@@ -155,25 +155,25 @@ Metabolism and Nutrition — increased GGT
 
 Neurology — motor neuropathy
 
-Maintenance Treatment Following First-line Non-PEMRYDI RTU Containing Platinum-Based Chemotherapy
+Maintenance Treatment Following First-line Non-Pemetrexed Containing Platinum-Based Chemotherapy
 
-In Study JMEN, the safety of PEMRYDI RTU was evaluated in a randomized (2:1), placebo-controlled, multicenter trial conducted in patients with non-progressive locally advanced or metastatic NSCLC following four cycles of a first-line, platinum-based chemotherapy regimen.
-Patients received either PEMRYDI RTU 500 mg/m2 or matching placebo intravenously every 21 days until disease progression or unacceptable toxicity.
+In Study JMEN, the safety of pemetrexed was evaluated in a randomized (2:1), placebo-controlled, multicenter trial conducted in patients with non-progressive locally advanced or metastatic NSCLC following four cycles of a first-line, platinum-based chemotherapy regimen.
+Patients received either pemetrexed 500 mg/m2 or matching placebo intravenously every 21 days until disease progression or unacceptable toxicity.
 Patients in both study arms were fully supplemented with folic acid and vitamin B12.
 
 Study JMEN excluded patients with an ECOG PS of 2 or greater, uncontrolled third-space fluid retention, inadequate bone marrow reserve and organ function, or a calculated creatinine clearance less than 45 mL/min.
 Patients unable to stop using aspirin or other non-steroidal anti-inflammatory drugs or unable to take folic acid, vitamin B12 or corticosteroids were also excluded from the study.
 
-The data described below reflect exposure to PEMRYDI RTU in 438 patients in Study JMEN.
+The data described below reflect exposure to pemetrexed in 438 patients in Study JMEN.
 Median age was 61 years (range 26-83 years), 73% of patients were men; 65% were White, 31% were Asian, 2.9% were Hispanic or Latino, and < 2% were other ethnicities; 39% had an ECOG PS 0.
-Patients received a median of 5 cycles of PEMRYDI RTU and a relative dose intensity of PEMRYDI RTU of 96%.
-Approximately half the patients (48%) completed at least six, 21-day cycles and 23% completed ten or more 21-day cycles of PEMRYDI RTU.
+Patients received a median of 5 cycles of pemetrexed and a relative dose intensity of pemetrexed of 96%.
+Approximately half the patients (48%) completed at least six, 21-day cycles and 23% completed ten or more 21-day cycles of pemetrexed.
 
-Table 5 provides the frequency and severity of adverse reactions reported in ≥ 5% of the 438 PEMRYDI RTU-treated patients in Study JMEN.
+Table 5 provides the frequency and severity of adverse reactions reported in ≥ 5% of the 438 pemetrexed-treated patients in Study JMEN.
 
-Table 5: Adverse Reactions Occurring in ≥ 5% of Patients Receiving PEMRYDI RTU in Study JMEN
+Table 5: Adverse Reactions Occurring in ≥ 5% of Patients Receiving Pemetrexed in Study JMEN
 
-| Adverse Reactiona | PEMRYDI RTU (N=438) |  | Placebo (N=218) |  |
+| Adverse Reactiona | Pemetrexed (N=438) |  | Placebo (N=218) |  |
 | --- | --- | --- | --- | --- |
 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
 | All adverse reactions | 66 | 16 | 37 | 4 |
@@ -200,9 +200,9 @@ Table 5: Adverse Reactions Occurring in ≥ 5% of Patients Receiving PEMRYDI RTU
 | Infection | 5 | 2 | 2 | 0 |
 | a NCI CTCAE version 3.0. |  |  |  |  |
 
-The requirement for transfusions (9.5% versus 3.2%), primarily red blood cell transfusions, and for erythropoiesis stimulating agents (5.9% versus 1.8%) were higher in the PEMRYDI RTU arm compared to the placebo arm.
+The requirement for transfusions (9.5% versus 3.2%), primarily red blood cell transfusions, and for erythropoiesis stimulating agents (5.9% versus 1.8%) were higher in the pemetrexed arm compared to the placebo arm.
 
-The following additional adverse reactions were observed in patients who received PEMRYDI RTU.
+The following additional adverse reactions were observed in patients who received pemetrexed.
 
 Incidence 1% to <5%
 
@@ -228,26 +228,26 @@ Neurology — motor neuropathy
 
 Renal — renal failure
 
-Maintenance Treatment Following First-line PEMRYDI RTU Plus Platinum Chemotherapy
+Maintenance Treatment Following First-line Pemetrexed Plus Platinum Chemotherapy
 
-The safety of PEMRYDI RTU was evaluated in PARAMOUNT, a randomized (2:1), placebo-controlled study conducted in patients with non-squamous NSCLC with non-progressive (stable or responding disease) locally advanced or metastatic NSCLC following four cycles of PEMRYDI RTU in combination with cisplatin as first-line therapy for NSCLC.
-Patients were randomized to receive PEMRYDI RTU 500 mg/m2 or matching placebo intravenously on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
+The safety of pemetrexed was evaluated in PARAMOUNT, a randomized (2:1), placebo-controlled study conducted in patients with non-squamous NSCLC with non-progressive (stable or responding disease) locally advanced or metastatic NSCLC following four cycles of pemetrexed in combination with cisplatin as first-line therapy for NSCLC.
+Patients were randomized to receive pemetrexed 500 mg/m2 or matching placebo intravenously on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
 Patients in both study arms received folic acid and vitamin B12 supplementation.
 
 PARAMOUNT excluded patients with an ECOG PS of 2 or greater, uncontrolled third-space fluid retention, inadequate bone marrow reserve and organ function, or a calculated creatinine clearance less than 45 mL/min.
 Patients unable to stop using aspirin or other non-steroidal anti-inflammatory drugs or unable to take folic acid, vitamin B12 or corticosteroids were also excluded from the study.
 
-The data described below reflect exposure to PEMRYDI RTU in 333 patients in PARAMOUNT.
+The data described below reflect exposure to pemetrexed in 333 patients in PARAMOUNT.
 Median age was 61 years (range 32 to 83 years); 58% of patients were men; 94% were White, 4.8% were Asian, and < 1% were Black or African American; 36% had an ECOG PS 0.
-The median number of maintenance cycles was 4 for PEMRYDI RTU and placebo arms.
-Dose reductions for adverse reactions occurred in 3.3% of patients in the PEMRYDI RTU arm and 0.6% in the placebo arm.
-Dose delays for adverse reactions occurred in 22% of patients in the PEMRYDI RTU arm and 16% in the placebo arm.
+The median number of maintenance cycles was 4 for pemetrexed and placebo arms.
+Dose reductions for adverse reactions occurred in 3.3% of patients in the pemetrexed arm and 0.6% in the placebo arm.
+Dose delays for adverse reactions occurred in 22% of patients in the pemetrexed arm and 16% in the placebo arm.
 
-Table 6 provides the frequency and severity of adverse reactions reported in ≥ 5% of the 333 PEMRYDI RTU-treated patients in PARAMOUNT.
+Table 6 provides the frequency and severity of adverse reactions reported in ≥ 5% of the 333 pemetrexed-treated patients in PARAMOUNT.
 
-Table 6: Adverse Reactions Occurring in ≥ 5% of Patients Receiving PEMRYDI RTU in PARAMOUNT
+Table 6: Adverse Reactions Occurring in ≥ 5% of Patients Receiving Pemetrexed in PARAMOUNT
 
-| Adverse Reactiona | PEMRYDI RTU (N=333) |  | Placebo (N=167) |  |
+| Adverse Reactiona | Pemetrexed (N=333) |  | Placebo (N=167) |  |
 | --- | --- | --- | --- | --- |
 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
 | All adverse reactions | 53 | 17 | 34 | 4.8 |
@@ -266,9 +266,9 @@ Table 6: Adverse Reactions Occurring in ≥ 5% of Patients Receiving PEMRYDI RTU
 | Edema | 5 | 0 | 3.6 | 0 |
 | a NCI CTCAE version 3.0. |  |  |  |  |
 
-The requirement for red blood cell (13% versus 4.8%) and platelet (1.5% versus 0.6%) transfusions, erythropoiesis stimulating agents (12% versus 7%), and granulocyte colony stimulating factors (6% versus 0%) were higher in the PEMRYDI RTU arm compared to the placebo arm.
+The requirement for red blood cell (13% versus 4.8%) and platelet (1.5% versus 0.6%) transfusions, erythropoiesis stimulating agents (12% versus 7%), and granulocyte colony stimulating factors (6% versus 0%) were higher in the pemetrexed arm compared to the placebo arm.
 
-The following additional Grade 3 or 4 adverse reactions were observed more frequently in the PEMRYDI RTU arm.
+The following additional Grade 3 or 4 adverse reactions were observed more frequently in the pemetrexed arm.
 
 Incidence 1% to <5%
 
@@ -292,22 +292,22 @@ Vascular — pulmonary embolism
 
 Treatment of Recurrent Disease After Prior Chemotherapy
 
-The safety of PEMRYDI RTU was evaluated in Study JMEI, a randomized (1:1), open-label, active-controlled trial conducted in patients who had progressed following platinum-based chemotherapy.
-Patients received PEMRYDI RTU 500 mg/m2 intravenously or docetaxel 75 mg/m2 intravenously on Day 1 of each 21-day cycle.
-All patients on the PEMRYDI RTU arm received folic acid and vitamin B12 supplementation.
+The safety of pemetrexed was evaluated in Study JMEI, a randomized (1:1), open-label, active-controlled trial conducted in patients who had progressed following platinum-based chemotherapy.
+Patients received pemetrexed 500 mg/m2 intravenously or docetaxel 75 mg/m2 intravenously on Day 1 of each 21-day cycle.
+All patients on the pemetrexed arm received folic acid and vitamin B12 supplementation.
 
 Study JMEI excluded patients with an ECOG PS of 3 or greater, uncontrolled third-space fluid retention, inadequate bone marrow reserve and organ function, or a calculated creatinine clearance less than 45 mL/min.
 Patients unable to discontinue aspirin or other non-steroidal anti-inflammatory drugs or unable to take folic acid, vitamin B12 or corticosteroids were also excluded from the study.
 
-The data described below reflect exposure to PEMRYDI RTU in 265 patients in Study JMEI.
+The data described below reflect exposure to pemetrexed in 265 patients in Study JMEI.
 Median age was 58 years (range 22 to 87 years); 73% of patients were men; 70% were White, 24% were Asian, 2.6% were Black or African American, 1.8% were Hispanic or Latino, and < 2% were other ethnicities; 19% had an ECOG PS 0.
 
-Table 7 provides the frequency and severity of adverse reactions reported in ≥ 5% of the 265 PEMRYDI RTU-treated patients in Study JMEI.
-Study JMEI is not designed to demonstrate a statistically significant reduction in adverse reaction rates for PEMRYDI RTU, as compared to the control arm, for any specified adverse reaction listed in the Table 7 below.
+Table 7 provides the frequency and severity of adverse reactions reported in ≥ 5% of the 265 pemetrexed-treated patients in Study JMEI.
+Study JMEI is not designed to demonstrate a statistically significant reduction in adverse reaction rates for pemetrexed, as compared to the control arm, for any specified adverse reaction listed in the Table 7 below.
 
-Table 7: Adverse Reactions Occurring in ≥ 5% of Fully Supplemented Patients Receiving PEMRYDI RTU in Study JMEI
+Table 7: Adverse Reactions Occurring in ≥ 5% of Fully Supplemented Patients Receiving Pemetrexed in Study JMEI
 
-| Adverse Reactiona | PEMRYDI RTU (N=265) |  | Docetaxel (N=276) |  |
+| Adverse Reactiona | Pemetrexed (N=265) |  | Docetaxel (N=276) |  |
 | --- | --- | --- | --- | --- |
 | All Grades (%) | Grades 3-4 (%) | All Grade (%) | Grades 3-4 (%) |  |
 | Laboratory |  |  |  |  |
@@ -335,7 +335,7 @@ Table 7: Adverse Reactions Occurring in ≥ 5% of Fully Supplemented Patients Re
 | Alopecia | 6 | 1 | 38 | 2 |
 | a NCI CTCAE version 2.0. |  |  |  |  |
 
-The following additional adverse reactions were observed in patients assigned to receive PEMRYDI RTU.
+The following additional adverse reactions were observed in patients assigned to receive pemetrexed.
 
 Incidence 1% to <5%
 
@@ -353,26 +353,26 @@ Renal — renal failure
 
 Mesothelioma
 
-The safety of PEMRYDI RTU was evaluated in Study JMCH, a randomized (1:1), single-blind study conducted in patients with MPM who had received no prior chemotherapy for MPM.
-Patients received PEMRYDI RTU 500 mg/m2 intravenously in combination with cisplatin 75 mg/m2 intravenously on Day 1 of each 21-day cycle or cisplatin 75 mg/m2 intravenously on Day 1 of each 21-day cycle administered until disease progression or unacceptable toxicity.
-Safety was assessed in 226 patients who received at least one dose of PEMRYDI RTU in combination with cisplatin and 222 patients who received at least one dose of cisplatin alone.
-Among 226 patients who received PEMRYDI RTU in combination with cisplatin, 74% (n=168) received full supplementation with folic acid and vitamin B12 during study therapy, 14% (n=32) were never supplemented, and 12% (n=26) were partially supplemented.
+The safety of pemetrexed was evaluated in Study JMCH, a randomized (1:1), single-blind study conducted in patients with MPM who had received no prior chemotherapy for MPM.
+Patients received pemetrexed 500 mg/m2 intravenously in combination with cisplatin 75 mg/m2 intravenously on Day 1 of each 21-day cycle or cisplatin 75 mg/m2 intravenously on Day 1 of each 21-day cycle administered until disease progression or unacceptable toxicity.
+Safety was assessed in 226 patients who received at least one dose of pemetrexed in combination with cisplatin and 222 patients who received at least one dose of cisplatin alone.
+Among 226 patients who received pemetrexed in combination with cisplatin, 74% (n=168) received full supplementation with folic acid and vitamin B12 during study therapy, 14% (n=32) were never supplemented, and 12% (n=26) were partially supplemented.
 
 Study JMCH excluded patients with Karnofsky Performance Scale (KPS) of less than 70, inadequate bone marrow reserve and organ function, or a calculated creatinine clearance less than 45 mL/min.
 Patients unable to stop using aspirin or other non-steroidal anti-inflammatory drugs were also excluded from the study.
 
-The data described below reflect exposure to PEMRYDI RTU in 168 patients that were fully supplemented with folic acid and vitamin B12.
+The data described below reflect exposure to pemetrexed in 168 patients that were fully supplemented with folic acid and vitamin B12.
 Median age was 60 years (range 19 to 85 years); 82% were men; 92% were White, 5% were Hispanic or Latino, 3.0% were Asian, and <1% were other ethnicities; 54% had KPS of 90-100.
-The median number of treatment cycles administered was 6 in the PEMRYDI RTU/cisplatin fully supplemented group and 2 in the PEMRYDI RTU/cisplatin never supplemented group.
-Patients receiving PEMRYDI RTU in the fully supplemented group had a relative dose intensity of 93% of the protocol-specified PEMRYDI RTU dose intensity.
+The median number of treatment cycles administered was 6 in the pemetrexed/cisplatin fully supplemented group and 2 in the pemetrexed/cisplatin never supplemented group.
+Patients receiving pemetrexed in the fully supplemented group had a relative dose intensity of 93% of the protocol-specified pemetrexed dose intensity.
 The most common adverse reaction resulting in dose delay was neutropenia.
 
-Table 8 provides the frequency and severity of adverse reactions ≥ 5% in the subgroup of PEMRYDI RTU-treated patients who were fully vitamin supplemented in Study JMCH.
-Study JMCH was not designed to demonstrate a statistically significant reduction in adverse reaction rates for PEMRYDI RTU, as compared to the control arm, for any specified adverse reaction listed in the table below.
+Table 8 provides the frequency and severity of adverse reactions ≥ 5% in the subgroup of pemetrexed-treated patients who were fully vitamin supplemented in Study JMCH.
+Study JMCH was not designed to demonstrate a statistically significant reduction in adverse reaction rates for pemetrexed, as compared to the control arm, for any specified adverse reaction listed in the table below.
 
-Table 8: Adverse Reactions Occurring in ≥ 5% of Fully Supplemented Subgroup of Patients Receiving PEMRYDI RTU/Cisplatin in Study JMCHa
+Table 8: Adverse Reactions Occurring in ≥ 5% of Fully Supplemented Subgroup of Patients Receiving Pemetrexed/Cisplatin in Study JMCHa
 
-| Adverse Reactionb | PEMRYDI RTU/cisplatin (N=168) |  | Cisplatin (N=163) |  |
+| Adverse Reactionb | Pemetrexed/cisplatin (N=168) |  | Cisplatin (N=163) |  |
 | --- | --- | --- | --- | --- |
 | All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
 | Laboratory |  |  |  |  |
@@ -404,9 +404,9 @@ Table 8: Adverse Reactions Occurring in ≥ 5% of Fully Supplemented Subgroup of
 | Dehydration | 7 | 4 | 1 | 1 |
 | Eye Disorder |  |  |  |  |
 | Conjunctivitis | 5 | 0 | 1 | 0 |
-| a In Study JMCH, 226 patients received at least one dose of PEMRYDI RTU in combination with cisplatin and 222 patients received at least one dose of cisplatin. Table 8 provides the ADRs for subgroup of patients treated with PEMRYDI RTU in combination with cisplatin (168 patients) or cisplatin alone (163 patients) who received full supplementation with folic acid and vitamin B12 during study therapy. b NCI CTCAE version 2.0. |  |  |  |  |
+| a In Study JMCH, 226 patients received at least one dose of pemetrexed in combination with cisplatin and 222 patients received at least one dose of cisplatin. Table 8 provides the ADRs for subgroup of patients treated with pemetrexed in combination with cisplatin (168 patients) or cisplatin alone (163 patients) who received full supplementation with folic acid and vitamin B12 during study therapy. b NCI CTCAE version 2.0. |  |  |  |  |
 
-The following additional adverse reactions were observed in patients receiving PEMRYDI RTU plus cisplatin:
+The following additional adverse reactions were observed in patients receiving pemetrexed plus cisplatin:
 
 Incidence 1% to <5%
 
@@ -428,9 +428,9 @@ Neurology — motor neuropathy
 
 Exploratory Subgroup Analyses based on Vitamin Supplementation
 
-Table 9 provides the results of exploratory analyses of the frequency and severity of NCI CTCAE Grade 3 or 4 adverse reactions reported in more PEMRYDI RTU-treated patients who did not receive vitamin supplementation (never supplemented) as compared with those who received vitamin supplementation with daily folic acid and vitamin B12 from the time of enrollment in Study JMCH (fully-supplemented).
+Table 9 provides the results of exploratory analyses of the frequency and severity of NCI CTCAE Grade 3 or 4 adverse reactions reported in more pemetrexed-treated patients who did not receive vitamin supplementation (never supplemented) as compared with those who received vitamin supplementation with daily folic acid and vitamin B12 from the time of enrollment in Study JMCH (fully-supplemented).
 
-Table 9: Exploratory Subgroup Analysis of Selected Grade 3/4 Adverse Reactions Occurring in Patients Receiving PEMRYDI RTU in Combination with Cisplatin with or without Full Vitamin Supplementation in Study JMCHa
+Table 9: Exploratory Subgroup Analysis of Selected Grade 3/4 Adverse Reactions Occurring in Patients Receiving Pemetrexed in Combination with Cisplatin with or without Full Vitamin Supplementation in Study JMCHa
 
 | Grade 3-4 Adverse Reactions | Fully Supplemented Patients N=168 (%) | Never Supplemented Patients N=32 (%) |
 | --- | --- | --- |
@@ -456,7 +456,7 @@ Severe esophagitis, resulting in hospitalization: <1%
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of PEMRYDI RTU.
+The following adverse reactions have been identified during post-approval use of pemetrexed.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and Lymphatic System — immune-mediated hemolytic anemia

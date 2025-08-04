@@ -28,9 +28,11 @@ Advise males with female partners of reproductive potential to use effective con
 
 Lactation: Advise women not to breastfeed during treatment with PEMRYDI RTU and for 1 week after the last dose [see Use in Specific Populations (8.2)].
 
+PEMRYDI RTU® is a registered trademark of Amneal Pharmaceuticals LLC.
+
 Manufactured by:
 
-Zydus Lifesciences Limited,
+Zydus Lifesciences Limited
 
 Ahmedabad, India.
 
@@ -41,4 +43,4 @@ Amneal Pharmaceuticals LLC
 Bridgewater, NJ 08807
 
 Rev.
-11-2024-02
+07-2025-03
