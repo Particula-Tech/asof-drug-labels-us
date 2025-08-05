@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA021379",
+    "NDA021731"
+  ],
+  "inn": "leuprolide",
+  "labeler": "URONOVA PHARMACEUTICALS, INC.",
+  "package_ndcs": [
+    "85043-025-02",
+    "85043-045-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SUSPENSION, EXTENDED RELEASE",
+      "generic": "leuprolide acetate",
+      "name": "Vabrinty"
+    }
+  ],
+  "setid": "008776cc-83f1-4f8c-819b-6471425da15f",
+  "source": "dailymed"
+}
