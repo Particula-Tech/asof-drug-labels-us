@@ -54,7 +54,7 @@ Table 4 Clinical Response at Weeks 24 and 52 in Active and Placebo Controlled Tr
 | ACR 70 |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 24 | 15% | 28% (0.07, 0.22) | 2% | 11% (0.03, 0.13) | 13% (0.05, 0.15) | 2% | 12% (0.04, 0.18) | 22% (0.12, 0.27) | 3% | 21% (0.13, 0.21) | 1% | 5% (-0.06, 0.14) | 12% (0.03, 0.22) |
 | Week 52 | N/A | N/A | 4% | 16% (0.08, 0.17) | 20% (0.12, 0.21) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
-| Major Clinical Responses Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week period |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Major Clinical Responses Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week periodHealth Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activitiesThe same patients may not have responded at each timepoint.sThe same patients may not have responded at each timepoint.Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week periodHealth Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activitiesThe same patients may not have responded at each timepoint. |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Week 52 | N/A | N/A | 1% | 4% (0.01, 0.06) | 7% (0.03, 0.09) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
 In study II, a greater proportion of patients treated with 4 mg per kg and 8 mg per kg tocilizumab + MTX achieved a low level of disease activity as measured by a DAS 28-ESR less than 2.6 compared with placebo +MTX treated patients at week 52.
@@ -88,13 +88,13 @@ Table 6 Components of ACR Response at Week 24 in Trials of Intravenous Tocilizum
 | Pain Visual analog scale: 0 = best, 100 = worst | 61 | 33 -11.0 (-17.0, -5.0) | 60 | 30 -15.8 (-21.7, -9.9) | 57 | 43 | 63.5 | 43 -12.4 (-22.1, -2.1) | 65 | 33 -23.9 (-33.7, -14.1) | 64 | 48 |
 | Patient global assessment | 66 | 34 -10.9 (-17.1, -4.8) | 65 | 31 -14.9 (-20.9, -8.9) | 64 | 45 | 70 | 46 -10.0 (-20.3, 0.3) | 70 | 36 -17.4 (-27.8, -7.0) | 71 | 51 |
 | Physician global assessment | 64 | 26 -5.6 (-10.5, -0.8) | 64 | 23 -9.0 (-13.8, -4.2) | 64 | 32 | 66.5 | 39 -10.5 (-18.6, -2.5) | 66 | 28 -18.2 (-26.3, -10.0) | 67.5 | 43 |
-| Disability index (HAQ) Health Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activities | 1.64 | 1.01 -0.18 (-0.34, -0.02) | 1.55 | 0.96 -0.21 (-0.37, -0.05) | 1.55 | 1.21 | 1.67 | 1.39 -0.25 (-0.42, -0.09) | 1.75 | 1.34 -0.34 (-0.51, -0.17) | 1.70 | 1.58 |
+| Disability index (HAQ) Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week periodHealth Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activitiesThe same patients may not have responded at each timepoint.sThe same patients may not have responded at each timepoint.Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week periodHealth Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activitiesThe same patients may not have responded at each timepoint. | 1.64 | 1.01 -0.18 (-0.34, -0.02) | 1.55 | 0.96 -0.21 (-0.37, -0.05) | 1.55 | 1.21 | 1.67 | 1.39 -0.25 (-0.42, -0.09) | 1.75 | 1.34 -0.34 (-0.51, -0.17) | 1.70 | 1.58 |
 | CRP (mg per dL) | 2.79 | 1.17 -1.30 (-2.0, -0.59) | 2.61 | 0.25 -2.156 (-2.86, -1.46) | 2.36 | 1.89 | 3.11 | 1.77 -1.34 (-2.5, -0.15) | 2.80 | 0.28 -2.52 (-3.72, -1.32) | 3.705 | 3.06 |
 
 The percent of ACR 20 responders by visit for Study III is shown in Figure 1.
 Similar response curves were observed in studies I, II, IV, and V.
 
-| Figure 1 Percent of ACR 20 Responders by Visit for Study III (Inadequate Response to MTX) The same patients may not have responded at each timepoint. |
+| Figure 1 Percent of ACR 20 Responders by Visit for Study III (Inadequate Response to MTX) Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week periodHealth Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activitiesThe same patients may not have responded at each timepoint.sThe same patients may not have responded at each timepoint.Major clinical response is defined as achieving an ACR 70 response for a continuous 24 week periodHealth Assessment Questionnaire: 0 = best, 3 = worst; 20 questions; 8 categories: dressing and grooming, arising, eating, walking, hygiene, reach, grip, and activitiesThe same patients may not have responded at each timepoint. |
 | --- |
 
 Radiographic Response
@@ -347,7 +347,18 @@ Of these 51 patients, 26 (51%) were naive to subcutaneous tocilizumab and 25 (49
 
 The efficacy of subcutaneous tocilizumab in children 2 to 17 years of age is based on pharmacokinetic exposure and extrapolation of the established efficacy of intravenous tocilizumab in systemic JIA patients [see Clinical Pharmacology (12.3) and Clinical Studies (14.7)].
 
-## 14.9 COVID-19 – Intravenous Administration
+## 14.9 Cytokine Release Syndrome - Intravenous Administration
+
+The efficacy of tocilizumab for the treatment of CRS was assessed in a retrospective analysis of pooled outcome data from clinical trials of CAR T-cell therapies for hematological malignancies.
+Evaluable patients had been treated with tocilizumab 8 mg/kg (12 mg/kg for patients < 30 kg) with or without additional high-dose corticosteroids for severe or life-threatening CRS; only the first episode of CRS was included in the analysis.
+The study population included 24 males and 21 females (total 45 patients) of median age 12 years (range, 3–23 years); 82% were Caucasian.
+The median time from start of CRS to first dose of tocilizumab was 4 days (range, 0-18 days).
+Resolution of CRS was defined as lack of fever and off vasopressors for at least 24 hours.
+Patients were considered responders if CRS resolved within 14 days of the first dose of tocilizumab, if no more than 2 doses of tocilizumab were needed, and if no drugs other than tocilizumab and corticosteroids were used for treatment.
+Thirty-one patients (69%; 95% CI: 53%–82%) achieved a response.
+Achievement of resolution of CRS within 14 days was confirmed in a second study using an independent cohort that included 15 patients (range: 9–75 years old) with CAR T cell-induced CRS.
+
+## 14.10 COVID-19 – Intravenous Administration
 
 The efficacy of tocilizumab for the treatment of COVID-19 was based on RECOVERY (NCT04381936), a randomized, controlled, open-label, platform study, and supported by the results from EMPACTA (NCT04372186), a randomized, double-blind, placebo-controlled study.
 Results of two other randomized, double-blind, placebo-controlled studies, COVACTA (NCT04320615) and REMDACTA (NCT04409262) which evaluated the efficacy of tocilizumab for the treatment of COVID-19 are also summarized.

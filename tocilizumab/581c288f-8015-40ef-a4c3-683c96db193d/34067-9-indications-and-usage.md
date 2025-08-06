@@ -16,6 +16,10 @@ AVTOZMA® (tocilizumab-anoh) is indicated for the treatment of active polyarticu
 
 AVTOZMA® (tocilizumab-anoh) is indicated for the treatment of active systemic juvenile idiopathic arthritis in patients 2 years of age and older.
 
-## 1.5 Coronavirus Disease 2019 (COVID-19)
+## 1.5 Cytokine Release Syndrome (CRS)
+
+AVTOZMA® (tocilizumab-anoh) is indicated for the treatment of chimeric antigen receptor (CAR) T cell-induced severe or life-threatening cytokine release syndrome in adults and pediatric patients 2 years of age and older.
+
+## 1.6 Coronavirus Disease 2019 (COVID-19)
 
 AVTOZMA® (tocilizumab-anoh) is indicated for the treatment of coronavirus disease 2019 (COVID-19) in hospitalized adult patients who are receiving systemic corticosteroids and require supplemental oxygen, non- invasive or invasive mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).

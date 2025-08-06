@@ -17,7 +17,7 @@ The risks and benefits of treatment should be considered prior to initiating AVT
 - who have resided or traveled in areas of endemic tuberculosis or endemic mycoses; or
 - with underlying conditions that may predispose them to infection.
 
-Closely monitor patients for the development of signs and symptoms of infection during and after treatment with AVTOZMA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.6), Adverse Reactions (6.1), and Patient Counseling Information (17)].
+Closely monitor patients for the development of signs and symptoms of infection during and after treatment with AVTOZMA, as signs and symptoms of acute inflammation may be lessened due to suppression of the acute phase reactants [see Dosage and Administration (2.7), Adverse Reactions (6.1), and Patient Counseling Information (17)].
 
 Hold AVTOZMA if a patient develops a serious infection, an opportunistic infection, or sepsis.
 A patient who develops a new infection during treatment with AVTOZMA should undergo a prompt and complete diagnostic workup appropriate for an immunocompromised patient, initiate appropriate antimicrobial therapy, and closely monitor the patient.
@@ -65,7 +65,8 @@ Increased frequency and magnitude of these elevations was observed when potentia
 For RA and GCA patients, obtain a liver test panel (serum alanine aminotransferase [ALT], aspartate aminotransferase [AST], alkaline phosphatase, and total bilirubin) before initiating AVTOZMA, every 4 to 8 weeks after start of therapy for the first 6 months of treatment and every 3 months thereafter.
 It is not recommended to initiate AVTOZMA treatment in RA or GCA patients with elevated transaminases ALT or AST greater than 1.5× ULN.
 In patients who develop elevated ALT or AST greater than 5× ULN, discontinue AVTOZMA.
-For recommended modifications based upon increase in transaminases see Dosage and Administration (2.9).
+For recommended modifications based upon increase in transaminases see Dosage and Administration.
+(2.10)
 
 Patients hospitalized with COVID-19 may have elevated ALT or AST levels.
 Multi-organ failure with involvement of the liver is recognized as a complication of severe COVID-19.
@@ -89,42 +90,39 @@ Neutropenia
 Treatment with tocilizumab products was associated with a higher incidence of neutropenia.
 Infections have been uncommonly reported in association with treatment-related neutropenia in long-term extension studies and postmarketing clinical experience.
 
-- –It is not recommended to initiate AVTOZMA treatment in RA and GCA patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
-  In patients who develop an absolute neutrophil count less than 500 per mm3 treatment is not recommended.
-- –Monitor neutrophils 4 to 8 weeks after start of therapy and every 3 months thereafter [see Clinical Pharmacology (12.2)].
-  For recommended modifications based on ANC results see Dosage and Administration (2.9).
-- –It is not recommended to initiate AVTOZMA treatment in COVID-19 patients with an ANC less than 1000 per mm3.
-  Neutrophils should be monitored.
+–It is not recommended to initiate AVTOZMA treatment in RA and GCA patients with a low neutrophil count, i.e., absolute neutrophil count (ANC) less than 2000 per mm3.
+In patients who develop an absolute neutrophil count less than 500 per mm3 treatment is not recommended.–Monitor neutrophils 4 to 8 weeks after start of therapy and every 3 months thereafter [see Clinical Pharmacology (12.2)].
+For recommended modifications based on ANC results see Dosage and Administration (2.10).
+
+–It is not recommended to initiate AVTOZMA treatment in COVID-19 patients with an ANC less than 1000 per mm3.
+Neutrophils should be monitored.
 
 Thrombocytopenia
 
 Treatment with tocilizumab products was associated with a reduction in platelet counts.
 Treatment-related reduction in platelets was not associated with serious bleeding events in clinical trials [see Adverse Reactions (6.1, 6.2)].
 
-- –It is not recommended to initiate AVTOZMA treatment in RA and GCA patients with a platelet count below 100,000 per mm3.
-  In patients who develop a platelet count less than 50,000 per mm3 treatment is not recommended.
-- –Monitor platelets 4 to 8 weeks after start of therapy and every 3 months thereafter.
-  For recommended modifications based on platelet counts see Dosage and Administration (2.9).
-- –In COVID-19 patients with a platelet count less than 50,000 per mm3, treatment is not recommended.
-  Platelets should be monitored.
+–It is not recommended to initiate AVTOZMA treatment in RA and GCA patients with a platelet count below 100,000 per mm3.
+In patients who develop a platelet count less than 50,000 per mm3 treatment is not recommended.–Monitor platelets 4 to 8 weeks after start of therapy and every 3 months thereafter.
+For recommended modifications based on platelet counts see Dosage and Administration (2.10).–In COVID-19 patients with a platelet count less than 50,000 per mm3, treatment is not recommended.
+Platelets should be monitored.
 
 Elevated Liver Enzymes
 
 Refer to 5.3 Hepatotoxicity.
-For recommended modifications [see Dosage and Administration (2.9)]
+For recommended modifications [see Dosage and Administration (2.10)]
 
 Lipid Abnormalities
 
 Treatment with tocilizumab products was associated with increases in lipid parameters such as total cholesterol, triglycerides, LDL cholesterol, and/or HDL cholesterol [see Adverse Reactions (6.1, 6.2)].
 
-- – Assess lipid parameters approximately 4 to 8 weeks following initiation of AVTOZMA therapy.
-- – Subsequently, manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
+-Assess lipid parameters approximately 4 to 8 weeks following initiation of AVTOZMA therapy.–Subsequently, manage patients according to clinical guidelines [e.g., National Cholesterol Educational Program (NCEP)] for the management of hyperlipidemia.
 
 Patients with Polyarticular and Systemic Juvenile Idiopathic Arthritis
 
 A similar pattern of liver enzyme elevation, low neutrophil count, low platelet count and lipid elevations is noted with tocilizumab products treatment in the PJIA and SJIA populations.
 Monitor neutrophils, platelets, ALT and AST at the time of the second administration and thereafter every 4 to 8 weeks for PJIA and every 2 to 4 weeks for SJIA.
-Monitor lipids as above for approved adult indications [see Dosage and Administration (2.9)].
+Monitor lipids as above for approved adult indications [see Dosage and Administration (2.10)].
 
 ## 5.5 Immunosuppression
 

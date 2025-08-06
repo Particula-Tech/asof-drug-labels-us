@@ -118,7 +118,7 @@ Trough and mean concentrations in patients after SC dosing were similar to those
 
 COVID-19 -Intravenous Administration
 
-The pharmacokinetics of tocilizumab in COVID-19 patients was characterized by a population pharmacokinetic analysis of a dataset composed of 380 adult patients treated with tocilizumab 8mg/kg intravenously (IV) in the COVACTA study [see Clinical Studies (14.9)] and another clinical study.
+The pharmacokinetics of tocilizumab in COVID-19 patients was characterized by a population pharmacokinetic analysis of a dataset composed of 380 adult patients treated with tocilizumab 8mg/kg intravenously (IV) in the COVACTA study [see Clinical Studies (14.10)] and another clinical study.
 
 For one dose of 8 mg/kg tocilizumab IV, the estimated median (range) Cmax and Cday28 of tocilizumab were 151 (77.5-319) mcg/mL and 0.229 (0.00119-19.4) mcg/mL, respectively.
 For two doses of 8 mg/kg tocilizumab IV separated by at least 8 hours, the estimated median (range) Cmax and Cday28 of tocilizumab was 290 (152-604) mcg/mL and 7.04 (0.00474-54.8) mcg/mL, respectively.

@@ -56,14 +56,15 @@ AVTOZMA by intravenous use is indicated for the treatment of pediatric patients 
 
 - Active systemic juvenile idiopathic arthritis in patients 2 years of age and older
 - Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
+- Severe or life-threatening CAR T cell-induced cytokine release syndrome (CRS) in patients with 2 years of age and older.
 
 AVTOZMA by subcutaneous use is indicated for the treatment of pediatric patients with:
 
 - Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
 - Active systemic juvenile idiopathic arthritis in patients 2 years of age and older
 
-The safety and effectiveness of AVTOZMA in pediatric patients with conditions other than PJIA or SJIA have not been established.
-The safety and effectiveness in pediatric patients below the age of 2 have not been established in PJIA or SJIA.
+The safety and effectiveness of AVTOZMA in pediatric patients with conditions other than PJIA, SJIA or CRS have not been established.
+The safety and effectiveness in pediatric patients below the age of 2 have not been established in PJIA, SJIA or CRS.
 
 Systemic Juvenile Idiopathic Arthritis – Intravenous Use
 
@@ -79,8 +80,13 @@ SAEs, AEs leading to discontinuation, and infectious AEs were reported by 27.3%,
 Six patients (54.5%) experienced hypersensitivity reactions, defined as all adverse events occurring during or within 24 hours after an infusion considered related to tocilizumab.
 Three of these patients experienced serious hypersensitivity reactions and were withdrawn from the study.
 Three patients with hypersensitivity reactions (two with serious hypersensitivity reactions) developed treatment induced anti- tocilizumab antibodies after the event.
-There were no cases of MAS based on the protocol-specified criteria, but 2 cases of suspected MAS based on Ravelli criteriaRavelli A, Minoia F, Davì S on behalf of the Paediatric Rheumatology International Trials Organisation, the Childhood Arthritis and Rheumatology Research Alliance, the Pediatric Rheumatology Collaborative Study Group, and the Histiocyte Society, et al. 2016 Classification Criteria for Macrophage Activation Syndrome Complicating Systemic Juvenile Idiopathic Arthritis.
+There were no cases of MAS based on the protocol-specified criteria, but 2 cases of suspected MAS based on Ravelli criteria Ravelli A, Minoia F, Davì S on behalf of the Paediatric Rheumatology International Trials Organisation, the Childhood Arthritis and Rheumatology Research Alliance, the Pediatric Rheumatology Collaborative Study Group, and the Histiocyte Society, et al. 2016 Classification Criteria for Macrophage Activation Syndrome Complicating Systemic Juvenile Idiopathic Arthritis.
 Annals of the Rheumatic Diseases 2016;75:481-489..
+
+Cytokine Release Syndrome - Intravenous Use
+
+In the retrospective analysis of pooled outcome data for patients treated with AVTOZMA for CAR T cell-induced CRS, 25 patients were children (2 years up to 12 years of age), and 17 patients were adolescents (12 years up to 18 years of age).
+There were no differences between the pediatric patients and the adults for safety or efficacy.
 
 ## 8.5 Geriatric Use
 
@@ -89,15 +95,17 @@ Of the 1069 patients who received tocilizumab-SC in studies SC-I and SC-II there
 The frequency of serious infection among tocilizumab treated subjects 65 years of age and older was higher than those under the age of 65.
 As there is a higher incidence of infections in the elderly population in general, caution should be used when treating the elderly.
 
+Clinical studies that included AVTOZMA for CRS did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently from younger patients.
+
 In the EMPACTA, COVACTA, and REMDACTA studies, of the 974 COVID-19 patients in the tocilizumab arm, 375 (39%) were 65 years of age or older.
-No overall differences in safety or effectiveness of tocilizumab were observed between patients 65 years of age and older and those under the age of 65 years of age in these studies [see Adverse Reactions (6.1) and Clinical Studies (14.9)].
+No overall differences in safety or effectiveness of tocilizumab were observed between patients 65 years of age and older and those under the age of 65 years of age in these studies [see Adverse Reactions (6.1) and Clinical Studies (14.10)].
 
 In the RECOVERY study, of the 2022 COVID-19 patients in the tocilizumab arm, 930 (46%) were 65 years of age or older.
-No overall differences in effectiveness of tocilizumab were observed between patients 65 years of age and older and those under the age 65 years of age in this study [see Clinical Studies (14.9)].
+No overall differences in effectiveness of tocilizumab were observed between patients 65 years of age and older and those under the age 65 years of age in this study [see Clinical Studies (14.10)].
 
 ## 8.6 Hepatic Impairment
 
-The safety and efficacy of tocilizumab products have not been studied in patients with hepatic impairment, including patients with positive HBV and HCV serology [see Warnings and Precautions 5.8)].
+The safety and efficacy of tocilizumab products have not been studied in patients with hepatic impairment, including patients with positive HBV and HCV serology [see Warnings and Precautions (5.8)].
 
 ## 8.7 Renal Impairment
 
