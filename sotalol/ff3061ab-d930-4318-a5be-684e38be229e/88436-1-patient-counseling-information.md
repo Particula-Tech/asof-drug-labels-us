@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Risk of hypoglycemia
+## 17.1 Risk of hypoglycemia
 
 Inform parents or caregivers that there is a risk of hypoglycemia when sotalol is given to patients who are fasting or who are vomiting.
 Inform patients to notify their healthcare provider if they experience symptoms of hypoglycemia.

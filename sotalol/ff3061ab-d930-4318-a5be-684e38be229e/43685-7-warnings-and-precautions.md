@@ -2,27 +2,28 @@
 
 ## 5.1 Proarrhythmia
 
-Sotalol can cause serious ventricular arrhythmias, primarily Torsade de Pointes (TdP) type ventricular tachycardia, a polymorphic ventricular tachycardia associated with QTc prolongation.
+Sotalol can cause serious and potentially fatal ventricular arrhythmias, primarily Torsade de Pointes (TdP), a polymorphic ventricular tachycardia associated with QTc prolongation.
 QTc prolongation is directly related to the concentration of sotalol.
-Factors such as reduced creatinine clearance, gender (female) and higher dose, bradycardia, history of sustained VT/VF, atrial fibrillation with sinus node dysfunction, heart failure increase the risk of TdP.
-The risk of TdP can be reduced by adjustment of the sotalol dose according to creatinine clearance and by monitoring the ECG for excessive increases in QTc.
+Factors such as reduced renal function, female sex, higher dose, bradycardia, history of sustained ventricular tachycardia (VT) or ventricular fibrillation (VF), atrial fibrillation with sinus node dysfunction, and heart failure increase the risk of TdP.
+The risk of TdP can be reduced by adjustment of the sotalol dose according to renal function and by monitoring the ECG for excessive increases in QTc.
 
-Correct hypokalemia or hypomagnesemia prior to initiating sotalol hydrochloride, as these conditions can exaggerate the degree of QT prolongation and increase the potential for TdP.
+Correct hypokalemia or hypomagnesemia prior to initiating sotalol hydrochloride, as these conditions can increase the degree of QTc prolongation and potential for TdP.
 Special attention should be given to electrolyte and acid-base balance in patients experiencing severe or prolonged diarrhea or patients receiving concomitant diuretic drugs.
 
-Avoid sotalol with other drugs known to cause QT prolongation [see Drug Interactions (7.1)].
+Proarrhythmic events should be anticipated upon initiating therapy and with every up-titration of sotalol.
 
-## 5.2 Bradycardia/Heart Block
+Avoid sotalol with other drugs known to cause QTc prolongation [see Dosage and Administration (2.1) and Drug Interactions (7.1)].
+
+## 5.2 Bradycardia/Atrioventricular (AV) Block
 
 Sotalol can cause bradycardia, sinus pauses or sinus arrest.
-Sotalol-induced bradycardia increases the risk of Torsade de Pointe, particularly following cardioversion.
-Monitor the ECG in patients receiving concomitant negative chronotropes [see Drug Interactions (7.1, 7.2, 7.3)].
+Sotalol-induced bradycardia increases the risk of Torsade de Pointes, particularly following cardioversion.
+Monitor the ECG in patients receiving concomitant negative chronotropes [see Drug Interactions (7.2, 7.3, 7.4)].
 
 ## 5.3 Sick Sinus Syndrome
 
-In general, sotalol is not recommended in patients with sick sinus syndrome associated with symptomatic arrhythmias, because it may cause sinus bradycardia, sinus pauses, or sinus arrest.
+Sotalol is contraindicated in patients with sick sinus syndrome, because it may cause sinus bradycardia, sinus pauses, or sinus arrest.
 Sotalol augments bradycardia and QTc prolongation following cardioversion.
-Patients with AFIB/AFL associated with the sick sinus syndrome may be treated with sotalol if they have an implanted pacemaker for control of bradycardia symptoms.
 
 ## 5.4 Hypotension
 
@@ -41,7 +42,7 @@ If sotalol is required, use the smallest effective dose.
 
 ## 5.7 Hypoglycemia
 
-Beta-blockade may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or children and patients who are fasting (i.e., surgery, not eating regularly, or and vomiting).
+Beta-blockade may prevent early warning signs of hypoglycemia, such as tachycardia, and increase the risk for severe or prolonged hypoglycemia at any time during treatment, especially in patients with diabetes mellitus or pediatric patients who are fasting (i.e., surgery, not eating regularly, or vomiting).
 Monitor blood glucose as appropriate.
 
 ## 5.8 Thyroid Abnormalities

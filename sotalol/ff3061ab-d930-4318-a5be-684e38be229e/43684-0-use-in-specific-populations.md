@@ -70,5 +70,23 @@ Based on the published literature, beta blockers (including sotalol) may cause e
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of sotalol in children has not been established.
-However, the Class III electrophysiologic and beta-blocking effects, the pharmacokinetics, and the relationship between the effects (QTc interval and resting heart rate) and drug concentrations have been evaluated in children aged between 3 days and 12 years old [see Clinical Pharmacology (12.3)].
+Sotalol is indicated for:
+
+- The treatment of documented, life-threatening VT in pediatric patients.
+- The maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in pediatric patients with highly symptomatic AFIB/AFL who are currently in sinus rhythm.
+
+The Class III electrophysiologic and beta-blocking effects, the pharmacokinetics, and the relationship between the effects (QTc interval and resting heart rate) and drug concentrations have been evaluated in pediatric patients between 3 days and 12 years of age [see Clinical Pharmacology (12.3)].
+
+Side effects from use of other sotalol-containing drug products in pediatric patients are those typical of a beta blocking agent, and led to discontinuation of the drug in 3 to 6% of patients.
+As in adults, the Class III antiarrhythmic action of sotalol in pediatric patients is associated with a significant proarrhythmic potential.
+In pediatric patients, the incidence of proarrhythmic side effects of sotalol varies from 0 to 22%; and the smallest pediatric patients tended to exhibit greater QTc-prolongation [see Clinical Pharmacology (12.2)]].
+
+Proarrhythmic effects of sotalol in pediatric patients included increased ventricular ectopy and exacerbation of bradycardia, the latter predominantly in patients with sinus node dysfunction following surgery for congenital cardiac defects.
+Bradycardia may require emergency pacemaker implantation.
+Close inpatient monitoring is recommended until steady state drug levels are achieved [see Dosage and Administration (2.1, 2.3)].
+
+## 8.6 Renal Impairment
+
+Sotalol is eliminated predominantly via the kidney [see Clinical Pharmacology (12.3)].
+Sotalol exposure increases with decrease in renal function.
+Sotalol dose should be reduced and interval between doses should be increased based on the patient’s renal function [see Dosage and Administration (2.2, 2.3)].
