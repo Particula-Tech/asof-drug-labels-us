@@ -9,7 +9,6 @@ In this trial, six CYCLOSET-treated patients (0.3%) reported orthostatic hypoten
 All six patients were taking antihypertensive medications.
 Hypotension can result in syncope.
 In this trial, syncope due to any cause was reported in 1.6% of CYCLOSET-treated patients and 0.7% of placebo-treated patients[seeAdverse Reactions (6.1)].
-As a precaution, assessment of orthostatic vital signs is recommended prior to initiation of CYCLOSET and periodically thereafter.
 Advise patients during early treatment with CYCLOSET to make slow postural changes and to avoid situations that could lead to serious injury if syncope was to occur.
 Use caution in patients taking antihypertensive medications.
 
@@ -48,6 +47,6 @@ Concomitant use is not recommended.
 ## 5.7 Risks in Postpartum Patients
 
 CYCLOSET is contraindicated in postpartum patients.
-Serious and life-threatening adverse reactions including hypertension, myocardial infarction, seizures, stroke and psychosis have been reported postmarketing in postpartum women who were administered bromocriptine for inhibition of lactation[seeAdverse Reactions (6.2)].
+Serious and life-threatening adverse reactions including hypertension, myocardial infarction, seizures, stroke and psychosis have been reported postmarketing in postpartum women who were administered bromocriptine for inhibition of lactation[see Adverse Reactions (6.2)].
 These risks may be higher in postpartum patients with cardiovascular disease.
 The indication for use of bromocriptine for inhibition of postpartum lactation was withdrawn from bromocriptine-containing products and is not approved for CYCLOSET.

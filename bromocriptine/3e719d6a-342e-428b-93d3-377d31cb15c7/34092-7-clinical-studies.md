@@ -64,7 +64,7 @@ Table 3: Changes in Glycemic Parameters for CYCLOSET Versus Placebo in Two Add-o
 
 CYCLOSET Add-on to Various Oral Antidiabetic Agents
 
-Patients with type 2 diabetes receiving various antidiabetic therapies (mean baseline HbA1c 8.3%) participated in a 52-week randomized, double-blind, placebo-controlled safety trial[seeAdverse Reactions (6.1)].
+Patients with type 2 diabetes receiving various antidiabetic therapies (mean baseline HbA1c 8.3%) participated in a 52-week randomized, double-blind, placebo-controlled safety trial[see Adverse Reactions (6.1)].
 The daily CYCLOSET dose was initiated at 0.8 mg and increased by 0.8 mg each week for 6 weeks if no intolerance occurred or until the maximum tolerated dose ≥1.6 mg/day was reached.
 Approximately 70% of patients assigned to treatment with CYCLOSET reached the maximum daily dose of 4.8 mg.
 Physicians were instructed to adjust the dosage of concomitant diabetes therapies to avert hypoglycemia or uncontrolled hyperglycemia.
@@ -100,4 +100,4 @@ Table 4: Changes in HbA1c from Baseline to Week 24 in the CYCLOSET Safety Trial 
 CYCLOSET does not have an unfavorable effect on fasting plasma lipids.
 
 CYCLOSET has not demonstrated an unfavorable hypertensive effect on blood pressure.
-Hypotension has been reported with use of CYCLOSET in clinical trials[seeWarnings and Precautions (5.1)].
+Hypotension has been reported with use of CYCLOSET in clinical trials[see Warnings and Precautions (5.1)].

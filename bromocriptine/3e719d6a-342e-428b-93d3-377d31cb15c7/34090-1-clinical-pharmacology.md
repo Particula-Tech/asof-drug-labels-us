@@ -79,11 +79,11 @@ Drug Interactions
 
 In Vitro Assessment
 
-Although bromocriptine is a competitive inhibitor of CYP3A4, in vivo drug interaction potential is low because the inhibitory potency for CYP3A4 is approximately 10,000-fold higher than the maximum plasma levels reached in vivo (Cmaxof approximately 80-125 pg/mL) following a 4.8 mg oral dose of CYCLOSET.
+Although bromocriptine is a competitive inhibitor of CYP3A4, in vivo drug interaction potential is low because the inhibitory potency for CYP3A4 is approximately 10,000-fold higher than the maximum plasma levels reached in vivo (Cmax of approximately 80-125 pg/mL) following a 4.8 mg oral dose of CYCLOSET.
 
 Agents inducing CYP3A4 activity such as rifampin or dexamethasone would be expected to decrease CYCLOSET plasma levels.
 There was no significant in vitro inhibition of other major CYP450 enzymes (1A2, 2C9/19, 2D6) by bromocriptine.
 
 In Vivo Assessment
 
-The concomitant use of macrolide antibiotics such as erythromycin (250 mg four times a day), a known inhibitor of CYP3A4, along with bromocriptine (5 mg) was shown to increase the AUC (2.8-fold) and Cmax(4.6-fold) of bromocriptine[seeDosage and Administration (2.3),Drug Interactions (7)].
+The concomitant use of macrolide antibiotics such as erythromycin (250 mg four times a day), a known inhibitor of CYP3A4, along with bromocriptine (5 mg) was shown to increase the AUC (2.8-fold) and Cmax (4.6-fold) of bromocriptine[see Dosage and Administration (2.3),Drug Interactions (7)].

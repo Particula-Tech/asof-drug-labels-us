@@ -2,10 +2,10 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Hypotension[seeWarnings and Precautions (5.1)]
-- Psychotic Disorders[seeWarnings and Precautions (5.2)]
-- Somnolence[seeWarnings and Precautions (5.4)]
-- Risks in Postpartum Women[seeWarnings and Precautions (5.7)]
+- •Hypotension [see Warnings and Precautions (5.1)]
+- •Psychotic Disorders [see Warnings and Precautions (5.2)]
+- •Somnolence [see Warnings and Precautions (5.4)]
+- •Risks in Postpartum Women [see Warnings and Precautions (5.7)]
 
 ## 6.1 Clinical Trials Experience
 

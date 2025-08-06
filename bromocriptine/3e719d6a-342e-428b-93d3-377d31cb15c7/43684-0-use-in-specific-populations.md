@@ -7,8 +7,8 @@ Risk Summary
 There are no available data on CYCLOSET use in pregnant women with type 2 diabetes.
 However, prolonged experience with bromocriptine use in pregnant women for other indications over several decades, based on data from published clinical trials, case reports, and epidemiological studies, have not established a drug-associated risk for major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 Furthermore, only a trace amount of bromocriptine was shown to be transported across the placentain vitroin a publishedex vivohuman placental perfusion model.
-There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy(seeClinical Considerations).In animal reproduction studies in which bromocriptine mesylate was administered orally during the period of organogenesis, increased prenatal mortality occurred in rats and rabbits at maternally toxic dosages that were more than 24-times the human dose of 4.8 mg/day based on body surface area.
-No adverse developmental outcomes were observed in monkeys administered bromocriptine mesylate orally during various periods of gestation at doses up to 10-times a human dose of 4.8 mg daily(seeData).
+There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy(see Clinical Considerations).In animal reproduction studies in which bromocriptine mesylate was administered orally during the period of organogenesis, increased prenatal mortality occurred in rats and rabbits at maternally toxic dosages that were more than 24-times the human dose of 4.8 mg/day based on body surface area.
+No adverse developmental outcomes were observed in monkeys administered bromocriptine mesylate orally during various periods of gestation at doses up to 10-times a human dose of 4.8 mg daily(see Data).
 
 The estimated background risk of major birth defects is 6-10% in women with pre-gestational diabetes with an HbA1c >7 and has been reported to be as high as 20-25% in women with an HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
@@ -50,7 +50,7 @@ Risk Summary
 
 CYCLOSET is contraindicated in lactating patients because its active ingredient, bromocriptine, inhibits lactation.
 In addition, serious and life-threatening adverse reactions including hypertension, myocardial infarction, seizures, stroke, and psychosis have been reported postmarketing in postpartum women who were administered bromocriptine for inhibition of lactation.
-The indication for use of bromocriptine for inhibition of lactation was withdrawn from bromocriptine-containing products and is not approved for CYCLOSET[seeWarnings and Precautions (5.7),Adverse Reactions (6.2)].
+The indication for use of bromocriptine for inhibition of lactation was withdrawn from bromocriptine-containing products and is not approved for CYCLOSET[see Warnings and Precautions (5.7),Adverse Reactions (6.2)].
 
 ## 8.4 Pediatric Use
 
@@ -60,4 +60,4 @@ The safety and effectiveness of CYCLOSET in pediatric patients have not been est
 
 In the two clinical trials of CYCLOSET add-on to sulfonylurea therapy and in the monotherapy trial, a total of 54 patients randomized to CYCLOSET were ≥65 years old.
 In the 52-week safety trial, 601 of the 2,054 CYCLOSET-treated patients (29%) were ≥65 years old.
-No overall differences in safety or effectiveness were observed between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out[SeeClinical Studies (14)].
+No overall differences in safety or effectiveness were observed between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out[See Clinical Studies (14)].
