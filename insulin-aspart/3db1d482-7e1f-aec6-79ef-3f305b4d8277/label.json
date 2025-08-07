@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "BLA761188"
+  ],
+  "inn": "insulin-aspart",
+  "labeler": "Biocon Biologics Inc.",
+  "package_ndcs": [
+    "83257-006-11",
+    "83257-007-11",
+    "83257-008-31",
+    "83257-008-32"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "water",
+      "name": "INSULIN DILUTING MEDIUM FOR Kirsty"
+    },
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin aspart-xjhz",
+      "name": "KIRSTY"
+    }
+  ],
+  "setid": "3db1d482-7e1f-aec6-79ef-3f305b4d8277",
+  "source": "dailymed"
+}
