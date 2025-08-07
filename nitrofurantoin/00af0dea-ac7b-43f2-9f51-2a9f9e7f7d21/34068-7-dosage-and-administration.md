@@ -15,6 +15,7 @@ Table 1 lists individual dosage volumes for two different strengths of FURADANTI
 Table 1: FURADANTIN Pediatric Dosing Table for Pediatric Patients 1 month of Age and Older
 
 To measure the correct pediatric doses, it is important to administer FURADANTIN with an appropriate size oral dosing syringe with graduations that align with the volume prescribed in Table 1 above.
+
 Continue therapy for one week or for at least 3 days after sterility of the urine is obtained.
 Continued infection indicates the need for reevaluation.
 For long-term suppressive therapy in pediatric patients, doses as low as 1 mg/kg per 24 hours, given in a single dose or in two divided doses, may be adequate [see Warnings and Precautions (5.2, 5.4, 5.6)].
