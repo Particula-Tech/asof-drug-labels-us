@@ -13,14 +13,14 @@ All pharmacological actions following gabapentin administration are due to the a
 
 Oral Bioavailability
 
-Gabapentin bioavailability is not dose proportional; i.e. as dose is increased, bioavailability decreases.
+Gabapentin bioavailability is not dose proportional; i.e., as dose is increased, bioavailability decreases.
 Bioavailability of gabapentin is approximately 60%, 47%, 34%, 33%, and 27% following 900 mg/day, 1,200 mg/day, 2,400 mg/day, 3,600 mg/day, and 4,800 mg/day given in 3 divided doses, respectively.
 Food has only a slight effect on the rate and extent of absorption of gabapentin (14% increase in AUC and Cmax).
 
 Distribution
 
 Less than 3% of gabapentin circulates bound to plasma protein.
-The apparent volume of distribution of gabapentin after 150 mg intravenous administration is 58±6 L (mean ±SD).
+The apparent volume of distribution of gabapentin after 150 mg intravenous administration is 58 ± 6 L (mean ± SD).
 In patients with epilepsy, steady-state predose (Cmin) concentrations of gabapentin in cerebrospinal fluid were approximately 20% of the corresponding plasma concentrations.
 
 Elimination
@@ -71,14 +71,14 @@ These pharmacokinetic data indicate that the effective daily dose in pediatric p
 
 Adult Patients with Renal Impairment
 
-Subjects (N=60) with renal impairment (mean creatinine clearance ranging from 13 mL/min to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
+Subjects (N = 60) with renal impairment (mean creatinine clearance ranging from 13 mL/min to 114 mL/min) were administered single 400 mg oral doses of gabapentin.
 The mean gabapentin half-life ranged from about 6.5 hours (patients with creatinine clearance > 60 mL/min) to 52 hours (creatinine clearance < 30 mL/min) and gabapentin renal clearance from about 90 mL/min (> 60 mL/min group) to about 10 mL/min (< 30 mL/min).
 Mean plasma clearance (CL/F) decreased from approximately 190 mL/min to 20 mL/min [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 Pediatric patients with renal insufficiency have not been studied.
 
 Hemodialysis
 
-In a study in anuric adult subjects (N=11), the apparent elimination half-life of gabapentin on nondialysis days was about 132 hours; during dialysis the apparent half-life of gabapentin was reduced to 3.8 hours.
+In a study in anuric adult subjects (N = 11), the apparent elimination half-life of gabapentin on nondialysis days was about 132 hours; during dialysis the apparent half-life of gabapentin was reduced to 3.8 hours.
 Hemodialysis thus has a significant effect on gabapentin elimination in anuric subjects [see Dosage and Administration (2.3) and Use in Specific Populations (8.6)].
 
 Hepatic Disease
@@ -99,56 +99,56 @@ The drug interaction data described in this section were obtained from studies i
 
 Phenytoin
 
-In a single (400 mg) and multiple dose (400 mg three times a day) study of gabapentin in epileptic patients (N=8) maintained on phenytoin monotherapy for at least 2 months, gabapentin had no effect on the steady-state trough plasma concentrations of phenytoin and phenytoin had no effect on gabapentin pharmacokinetics.
+In a single (400 mg) and multiple dose (400 mg three times a day) study of gabapentin in epileptic patients (N = 8) maintained on phenytoin monotherapy for at least 2 months, gabapentin had no effect on the steady-state trough plasma concentrations of phenytoin and phenytoin had no effect on gabapentin pharmacokinetics.
 
 Carbamazepine
 
-Steady-state trough plasma carbamazepine and carbamazepine 10, 11 epoxide concentrations were not affected by concomitant gabapentin (400 mg three times a day; N=12) administration.
+Steady-state trough plasma carbamazepine and carbamazepine 10, 11 epoxide concentrations were not affected by concomitant gabapentin (400 mg three times a day; N = 12) administration.
 Likewise, gabapentin pharmacokinetics were unaltered by carbamazepine administration.
 
 Valproic Acid
 
-The mean steady-state trough serum valproic acid concentrations prior to and during concomitant gabapentin administration (400 mg three times a day; N=17) were not different and neither were gabapentin pharmacokinetic parameters affected by valproic acid.
+The mean steady-state trough serum valproic acid concentrations prior to and during concomitant gabapentin administration (400 mg three times a day; N = 17) were not different and neither were gabapentin pharmacokinetic parameters affected by valproic acid.
 
 Phenobarbital
 
-Estimates of steady-state pharmacokinetic parameters for phenobarbital or gabapentin (300 mg three times a day; N=12) are identical whether the drugs are administered alone or together.
+Estimates of steady-state pharmacokinetic parameters for phenobarbital or gabapentin (300 mg three times a day; N = 12) are identical whether the drugs are administered alone or together.
 
 Naproxen
 
-Co-administration (N=18) of naproxen sodium capsules (250 mg) with gabapentin (125 mg) appears to increase the amount of gabapentin absorbed by 12% to 15%.
+Co-administration (N = 18) of naproxen sodium capsules (250 mg) with gabapentin (125 mg) appears to increase the amount of gabapentin absorbed by 12% to 15%.
 Gabapentin had no effect on naproxen pharmacokinetic parameters.
 These doses are lower than the therapeutic doses for both drugs.
 The magnitude of interaction within the recommended dose ranges of either drug is not known.
 
 Hydrocodone
 
-Co-administration of gabapentin (125 mg to 500 mg; N=48) decreases hydrocodone (10 mg; N=50) Cmax and AUC values in a dose-dependent manner relative to administration of hydrocodone alone; Cmax and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin and 21% to 22% lower, respectively, after administration of 500 mg gabapentin.
+Co-administration of gabapentin (125 mg to 500 mg; N = 48) decreases hydrocodone (10 mg; N = 50) Cmax and AUC values in a dose-dependent manner relative to administration of hydrocodone alone; Cmax and AUC values are 3% to 4% lower, respectively, after administration of 125 mg gabapentin and 21% to 22% lower, respectively, after administration of 500 mg gabapentin.
 The mechanism for this interaction is unknown.
 Hydrocodone increases gabapentin AUC values by 14%.
 The magnitude of interaction at other doses is not known.
 
 Morphine
 
-A literature article reported that when a 60 mg controlled-release morphine capsule was administered 2 hours prior to a 600 mg gabapentin capsule (N=12), mean gabapentin AUC increased by 44% compared to gabapentin administered without morphine.
+A literature article reported that when a 60 mg controlled-release morphine capsule was administered 2 hours prior to a 600 mg gabapentin capsule (N = 12), mean gabapentin AUC increased by 44% compared to gabapentin administered without morphine.
 Morphine pharmacokinetic parameter values were not affected by administration of gabapentin 2 hours after morphine.
 The magnitude of interaction at other doses is not known.
 
 Cimetidine
 
-In the presence of cimetidine at 300 mg four times a day (N=12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
+In the presence of cimetidine at 300 mg four times a day (N = 12), the mean apparent oral clearance of gabapentin fell by 14% and creatinine clearance fell by 10%.
 Thus, cimetidine appeared to alter the renal excretion of both gabapentin and creatinine, an endogenous marker of renal function.
 This decrease in excretion of gabapentin by cimetidine is not expected to be of clinical importance.
 The effect of gabapentin on cimetidine was not evaluated.
 
 Oral Contraceptive
 
-Based on AUC and half-life, multiple-dose pharmacokinetic profiles of norethindrone and ethinyl estradiol following administration of tablets containing 2.5 mg of norethindrone acetate and 50 mcg of ethinyl estradiol were similar with and without co-administration of gabapentin (400 mg three times a day; N=13).
+Based on AUC and half-life, multiple-dose pharmacokinetic profiles of norethindrone and ethinyl estradiol following administration of tablets containing 2.5 mg of norethindrone acetate and 50 mcg of ethinyl estradiol were similar with and without co-administration of gabapentin (400 mg three times a day; N = 13).
 The Cmax of norethindrone was 13% higher when it was co-administered with gabapentin; this interaction is not expected to be of clinical importance.
 
 Antacid (Maalox®) (aluminum hydroxide, magnesium hydroxide)
 
-Antacid (Maalox®) containing magnesium and aluminum hydroxides reduced the mean bioavailability of gabapentin (N=16) by about 20%.
+Antacid (Maalox®) containing magnesium and aluminum hydroxides reduced the mean bioavailability of gabapentin (N = 16) by about 20%.
 This decrease in bioavailability was about 10% when gabapentin was administered 2 hours after Maalox.
 
 Probenecid

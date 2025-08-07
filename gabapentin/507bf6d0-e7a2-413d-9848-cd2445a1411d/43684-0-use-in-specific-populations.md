@@ -13,27 +13,42 @@ The totality of available data from published prospective and retrospective coho
 There are important methodological limitations hindering interpretation of these studies [see Data].
 In nonclinical studies in mice, rats, and rabbits, gabapentin was developmentally toxic (increased fetal skeletal and visceral abnormalities, and increased embryofetal mortality) when administered to pregnant animals at doses similar to or lower than those used clinically [see Data].
 
+Post-marketing data suggest that extended gabapentin use with opioids close to delivery may increase the risk of neonatal withdrawal versus opioids alone [see Clinical Considerations].
+Although there is at least one report of neonatal withdrawal syndrome in an infant exposed to gabapentin alone during pregnancy, there are no comparative epidemiologic studies evaluating this association.
+Therefore, whether exposure to gabapentin alone late in pregnancy may cause withdrawal signs and symptoms is not known.
+
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 % to 4% and 15% to 20%, respectively.
+
+Clinical Considerations
+
+Fetal/Neonatal Adverse Reactions
+
+Neonatal withdrawal syndrome has been reported in newborns exposed to gabapentin in utero for an extended period of time when also exposed to opioids close to delivery.
+Neonatal withdrawal signs and symptoms reported have included tachypnea, vomiting, diarrhea, hypertonia, irritability, sneezing, poor feeding, hyperactivity, abnormal sleep pattern, and tremor.
+Reported signs and symptoms that may also be related to withdrawal include tongue thrusting, wandering eye movements while awake, back arching, and continuous extremity movements.
+Observe neonates exposed to gabapentin and opioids for signs and symptoms of neonatal withdrawal and manage accordingly.
 
 Data
 
 Human Data
 
-An observational study based on routinely collected data from administrative and medical registers in Denmark, Finland, Norway, and Sweden, compared the prevalence of major congenital malformations in approximately 1,500 pregnancies exposed to gabapentin monotherapy in the first trimester to pregnancies unexposed to antiepileptics (n=2,995,816) and pregnancies exposed to lamotrigine monotherapy in the first trimester (n=7,582).
+An observational study based on routinely collected data from administrative and medical registers in Denmark, Finland, Norway, and Sweden, compared the prevalence of major congenital malformations in approximately 1,500 pregnancies exposed to gabapentin monotherapy in the first trimester to pregnancies unexposed to antiepileptics (n = 2,995,816) and pregnancies exposed to lamotrigine monotherapy in the first trimester (n = 7,582).
 The adjusted prevalence ratios in a pooled analysis were 1.00 (95% CI: 0.80-1.24) compared to pregnancies unexposed to antiepileptics and 1.29 (95% CI: 1.00-1.67) compared to pregnancies exposed to lamotrigine monotherapy in the first trimester.
 
-Data from another observational study in the US based on Medicaid data, which compared the risk for major congenital malformations in more than 4,600 pregnancies exposed to gabapentin during the first trimester to unexposed pregnancies (n=1,753,865), estimated an adjusted relative risk of 1.07 (95% CI: 0.94-1.21).
+Data from another observational study in the US based on Medicaid data, which compared the risk for major congenital malformations in more than 4,600 pregnancies exposed to gabapentin during the first trimester to unexposed pregnancies (n = 1,753,865), estimated an adjusted relative risk of 1.07 (95% CI: 0.94-1.21).
+
+Data from a cohort study of over 200,000 Medicaid-eligible pregnancies with prescription opioid exposure in the last 45 days of pregnancy found that the risk of neonatal drug withdrawal was greater in pregnancies with combined exposure to gabapentin and opioids compared to pregnancies with exposure to opioids alone.
 
 The data from these observational studies should be interpreted with caution due to the potential for exposure misclassification, outcome misclassification, and residual confounding, including by underlying disease.
 
-Animal data
+Animal Data
 
-When pregnant mice received oral doses of gabapentin (500 mg, 1,000 mg, or 3,000 mg/kg/day) during the period of organogenesis, embryofetal toxicity (increased incidences of skeletal variations) was observed at the two highest doses.
+When pregnant mice received oral doses of gabapentin (500 mg/kg/day, 1,000 mg/kg/day, or 3,000 mg/kg/day) during the period of organogenesis, embryofetal toxicity (increased incidences of skeletal variations) was observed at the two highest doses.
 The no-effect dose for embryofetal developmental toxicity in mice (500 mg/kg/day) is less than the maximum recommended human dose (MRHD) of 3,600 mg on a body surface area (mg/m2) basis.
 
-In studies in which rats received oral doses of gabapentin (500 mg to 2,000 mg/kg/day) during pregnancy, adverse effect on offspring development (increased incidences of hydroureter and/or hydronephrosis) were observed at all doses.
+In studies in which rats received oral doses of gabapentin (500 mg/kg/day to 2,000 mg/kg/day) during pregnancy, adverse effect on offspring development (increased incidences of hydroureter and/or hydronephrosis) were observed at all doses.
 The lowest dose tested is similar to the MRHD on a mg/m2 basis.
 
 When pregnant rabbits were treated with gabapentin during the period of organogenesis, an increase in embryo-fetal mortality was observed at all doses tested (60 mg/kg, 300 mg/kg, or 1,500 mg/kg).
