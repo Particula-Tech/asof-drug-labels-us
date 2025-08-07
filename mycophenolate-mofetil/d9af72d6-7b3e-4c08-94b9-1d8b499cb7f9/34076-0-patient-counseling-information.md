@@ -14,7 +14,8 @@ Pregnancy loss and malformation
 Contraception
 
 - Discuss pregnancy testing, pregnancy prevention and planning with females of reproductive potential [see Use in Specific Populations (8.3)].
-- Females of reproductive potential must use an acceptable form of birth control during the entire MYHIBBIN therapy and for 6 weeks after stopping MYHIBBIN, unless the patient chooses abstinence.MYHIBBIN may reduce effectiveness of oral contraceptives.
+- Females of reproductive potential must use an acceptable form of birth control during the entire MYHIBBIN therapy and for 6 weeks after stopping MYHIBBIN, unless the patient chooses abstinence.
+  MYHIBBIN may reduce effectiveness of oral contraceptives.
   Use of additional barrier contraceptive methods is recommended [see Use in Specific Populations (8.3)].
 - For patients who are considering pregnancy, discuss appropriate alternative immunosuppressants with less potential for embryofetal toxicity.
   Risks and benefits of MYHIBBIN should be discussed with the patient.
@@ -50,7 +51,7 @@ Advise patients to contact their physician if they develop fever, joint stiffnes
 ## 17.7 Hypersensitivity Reactions
 
 Inform patients of the potential risk of hypersensitivity reactions.
-Advise patients to stop taking MYHIBBIN and seek immediate medical attention if signs or symptoms of a hypersensitivity reaction occur (such as swelling of face, lips, tongue, or throat; difficulty breathing or swallowing) [see Warnings and Precautions (5.8)].
+Advise patients to stop taking MYHIBBIN and seek immediate medical attention if signs or symptoms of a hypersensitivity reaction occur (such as swelling of face, lips, tongue, or throat; difficulty breathing or swallowing) [see Warning and Precautions (5.8)].
 
 ## 17.8 Immunizations
 
@@ -76,3 +77,5 @@ Advise males of childbearing potential not to donate semen during therapy and fo
 
 Advise patients that MYHIBBIN can affect the ability to drive or operate machines.
 Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with MYHIBBIN [see Warnings and Precautions (5.13)].
+Distributed by: Azurity Pharmaceuticals, Inc. Woburn, MA 01801 USA MYH-PI-02 Rev.
+04/2025

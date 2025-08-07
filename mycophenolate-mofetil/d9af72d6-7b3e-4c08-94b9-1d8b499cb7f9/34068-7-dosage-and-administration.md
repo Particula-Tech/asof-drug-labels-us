@@ -37,8 +37,8 @@ The recommended dosage for adult heart transplant patients is 1.5 g orally admin
 
 Pediatric Patients 3 months and older
 
-The recommended starting dosage for pediatric heart transplant patients 3 months and older is 600 mg/m 2, administered twice daily.
-If well tolerated, the dose can be increased to a maintenance dosage of 900 mg/m 2administered twice daily (maximum total daily dose of 3 g or 15 mL of the oral suspension).
+The recommended starting dosage for pediatric heart transplant patients 3 months and older is 600 mg/m2, administered twice daily.
+If well tolerated, the dose can be increased to a maintenance dosage of 900 mg/m2 administered twice daily (maximum total daily dose of 3 g or 15 mL of the oral suspension).
 The dose may be individualized based on clinical assessment.
 
 ## 2.4 Recommended Dosage for Liver Transplant Patients
@@ -49,13 +49,15 @@ The recommended dosage for adult liver transplant patients is 1.5 g administered
 
 Pediatrics Patients 3 months and older
 
-The recommended starting dosage for pediatric liver transplant patients 3 months and older is 600 mg/m 2, administered twice daily.
-If well tolerated, the dose can be increased to a maintenance dosage of 900 mg/m 2administered twice daily (maximum total daily dose of 3 g or 15 mL of the oral suspension).
+The recommended starting dosage for pediatric liver transplant patients 3 months and older is 600 mg/m2, administered twice daily.
+If well tolerated, the dose can be increased to a maintenance dosage of 900 mg/m2 administered twice daily (maximum total daily dose of 3 g or 15 mL of the oral suspension).
 The dose may be individualized based on clinical assessment.
 
 ## 2.5 Dosage Modifications: Patients with Renal Impairment, Neutropenia
 
-Renal Impairment No dosage modifications are needed in kidney transplant patients with delayed graft function postoperatively [see Clinical Pharmacology (12.3)].
+Renal Impairment
+
+No dosage modifications are needed in kidney transplant patients with delayed graft function postoperatively [see Clinical Pharmacology (12.3)].
 In kidney transplant patients with severe chronic impairment of the graft (GFR <25 mL/min/1.73 m 2), do not administer doses of MYHIBBIN greater than 1 g twice a day.
 These patients should be carefully monitored [see Clinical Pharmacology (12.3)].
 

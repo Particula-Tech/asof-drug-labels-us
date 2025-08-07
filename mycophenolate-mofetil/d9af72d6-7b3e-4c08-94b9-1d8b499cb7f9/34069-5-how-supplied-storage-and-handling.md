@@ -2,9 +2,9 @@
 
 Handling and Disposal
 
-Mycophenolate mofetil has demonstrated teratogenic effects in humans [see Warnings and Precautions (5.1)and Use in Specific Populations (8.1)].
+Mycophenolate mofetil has demonstrated teratogenic effects in humans [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 Wearing disposable gloves is recommended when wiping the outer surface of the bottle and or bottle cap.
-Avoid direct contact of MYHIBBIN with skin or mucous membranes [see Dosage and Administration (2.6)].
+Avoid direct contact of MYHIBBIN with skin or mucous membranes [see Dosage and Administration(2.1)].
 Follow applicable special handling and disposal procedures 1.
 Do not use after 60 days of first opening the bottle.
 

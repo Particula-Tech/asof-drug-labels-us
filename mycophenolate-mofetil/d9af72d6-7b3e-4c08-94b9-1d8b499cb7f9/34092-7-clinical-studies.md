@@ -35,7 +35,8 @@ Table 9 Treatment Failure in De Novo Kidney Transplantation Studies
 | All treatment failures | 30.3% | 38.8% | 56.0% |
 | Early termination without prior acute rejection | 11.5% | 22.5% | 7.2% |
 | Biopsy-proven rejection episode on treatment | 17.0% | 13.8% | 46.4% |
-| *Does not include death and graft loss as reason for early termination. |  |  |  |
+
+*Does not include death and graft loss as reason for early termination.
 
 No advantage of mycophenolate mofetil at 12 months with respect to graft loss or patient death (combined) was established (Table 10).
 Numerically, patients receiving mycophenolate mofetil 2 g/day and 3 g/day experienced a better outcome than controls in all three studies; patients receiving mycophenolate mofetil 2 g/day experienced a better outcome than mycophenolate mofetil 3 g/day in two of the three studies.
@@ -70,9 +71,9 @@ The analyses of the endpoints showed:
 
 Table 11 De Novo Heart Transplantation Study Rejection at 6 Months/Death or Re-transplantation at 1 Year
 
-|  | AZA N = 323 | MYCOPHENOLATE MOFETIL N = 327 | AZA N = 289 | MYCOPHENOLATE MOFETIL N = 289 |
-| --- | --- | --- | --- | --- |
 |  | All Patients (ITT) |  | Treated Patients |  |
+| --- | --- | --- | --- | --- |
+|  | AZA N = 323 | MYCOPHENOLATE MOFETIL N = 327 | AZA N = 289 | MYCOPHENOLATE MOFETIL N = 289 |
 | Biopsy-proven rejection with hemodynamic compromise at 6 months a | 121 (38%) | 120 (37%) | 100 (35%) | 92 (32%) |
 | Death or re-transplantation at 1 year | 49 (15.2%) | 42 (12.8%) | 33 (11.4%) | 18 (6.2%) |
 

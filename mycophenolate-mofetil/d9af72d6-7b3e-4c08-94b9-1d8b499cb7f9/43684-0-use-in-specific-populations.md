@@ -7,7 +7,9 @@ Pregnancy Exposure Registry
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to mycophenolate during pregnancy and those becoming pregnant within 6 weeks of discontinuing MYHIBBIN treatment.
 To report a pregnancy or obtain information about the registry, visit the Mycophenolate Pregnancy Registry at www.mycophenolateREMS.com or call 1-800-617­-8191.
 
-Risk Summary Use of mycophenolate mofetil (MMF) during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of multiple congenital malformations in multiple organ systems (see Human Data).
+Risk Summary
+
+Use of mycophenolate mofetil (MMF) during pregnancy is associated with an increased risk of first trimester pregnancy loss and an increased risk of multiple congenital malformations in multiple organ systems (see Human Data).
 Oral administration of mycophenolate to rats and rabbits during the period of organogenesis produced congenital malformations and pregnancy loss at doses less than the recommended clinical dose (0.01 to 0.05 times the recommended clinical doses in kidney and heart transplant patients) (see Animal Data).
 Consider alternative immunosuppressants with less potential for embryofetal toxicity.
 Risks and benefits of MYHIBBIN should be discussed with the pregnant woman.
@@ -31,13 +33,17 @@ Oral administration of MMF to pregnant rabbits from Gestational Day 7 to Day 19 
 
 ## 8.2 Lactation
 
-Risk Summary There are no data on the presence of mycophenolate in human milk, or the effects on milk production.
+Risk Summary
+
+There are no data on the presence of mycophenolate in human milk, or the effects on milk production.
 There are limited data in the National Transplantation Pregnancy Registry on the effects of mycophenolate on a breastfed child (see Data).
 Studies in rats treated with MMF have shown mycophenolic acid (MPA) to be present in milk.
 Because available data are limited, it is not possible to exclude potential risks to a breastfeeding infant.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for MYHIBBIN and any potential adverse effects on the breastfed infant from MYHIBBIN or from the underlying maternal condition.
 
-Data Limited information is available from the National Transplantation Pregnancy Registry.
+Data
+
+Limited information is available from the National Transplantation Pregnancy Registry.
 Of seven infants reported by the National Transplantation Pregnancy Registry to have been breastfed while the mother was taking mycophenolate, all were born at 34-40 weeks gestation, and breastfed for up to 14 months.
 No adverse events were reported.
 
@@ -62,7 +68,7 @@ Contraception
 
 Female Patients
 
-Females of reproductive potential taking MYHIBBIN must receive contraceptive counseling and use acceptable contraception (see Table 5for acceptable contraception methods).
+Females of reproductive potential taking MYHIBBIN must receive contraceptive counseling and use acceptable contraception (see Table 5 for acceptable contraception methods).
 Patients must use acceptable birth control during the entire MYHIBBIN therapy, and for 6 weeks after stopping MYHIBBIN, unless the patient chooses abstinence.
 
 Patients should be aware that MYHIBBIN reduces blood levels of the hormones from the oral contraceptive pill and could theoretically reduce its effectiveness [see Drug Interactions (7.2)].
@@ -109,8 +115,10 @@ In general, dose selection for a geriatric patient should take into consideratio
 
 ## 8.6 Patients with Renal Impairment
 
-Patients with Kidney Transplant No dosage adjustments are needed in kidney transplant patients experiencing delayed graft function postoperatively, but patients should be carefully monitored [see Clinical Pharmacology (12.3)].
-In kidney transplant patients with severe chronic impairment of the graft (GFR <25 mL/min/1.73 m 2), no dose adjustments are necessary; however, doses greater than 1 g administered twice a day should be avoided.
+Patients with Kidney Transplant
+
+No dosage adjustments are needed in kidney transplant patients experiencing delayed graft function postoperatively, but patients should be carefully monitored [see Clinical Pharmacology (12.3)].
+In kidney transplant patients with severe chronic impairment of the graft (GFR <25 mL/min/1.73 m2), no dose adjustments are necessary; however, doses greater than 1 g administered twice a day should be avoided.
 
 Patients with Heart and Liver Transplant
 
@@ -119,9 +127,6 @@ MYHIBBIN may be used for heart or liver transplant patients with severe chronic 
 
 ## 8.7 Patients with Hepatic Impairment
 
-Patients with Kidney Transplant
-
-No dosage adjustments are recommended for kidney transplant patients with severe hepatic parenchymal disease.
+Patients with Kidney Transplant No dosage adjustments are recommended for kidney transplant patients with severe hepatic parenchymal disease.
 However, it is not known whether dosage adjustments are needed for hepatic disease with other etiologies [see Clinical Pharmacology (12.3)].
-
 Patients with Heart Transplant No data are available for heart transplant patients with severe hepatic parenchymal disease.

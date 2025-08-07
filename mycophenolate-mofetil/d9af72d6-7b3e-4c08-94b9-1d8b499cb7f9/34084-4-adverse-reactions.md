@@ -1,14 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in other sections of the label:
-
-- Embryofetal Toxicity [see Warnings and Precautions (5.1)]
-- Lymphomas and Other Malignancies [see Warnings and Precautions 5.2)]
-- Serious Infections [see Warnings and Precautions (5.3)]
-- Blood Dyscrasias: Neutropenia, Pure Red Cell Aplasia [see Warnings and Precautions (5.4)]
-- Gastrointestinal Complications [see Warnings and Precautions (5.5)]
-- Acute Inflammatory Syndrome Associated with Mycophenolate Products [see Warnings and Precautions (5.7)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
+The following adverse reactions are discussed in greater detail in other sections of the label: • Embryofetal Toxicity [see Warnings and Precautions (5.1)] • Lymphomas and Other Malignancies [see Warnings and Precautions (5.2)] • Serious Infections [see Warnings and Precautions (5.3)] • Blood Dyscrasias: Neutropenia, Pure Red Cell Aplasia [see Warnings and Precautions (5.4)] • Gastrointestinal Complications [see Warnings and Precautions (5.5)] • Acute Inflammatory Syndrome Associated with Mycophenolate Products [see Warnings and Precautions (5.7)] • Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -24,12 +16,12 @@ Oral Mycophenolate Mofetil
 
 The incidence of adverse reactions for mycophenolate mofetil was determined in five randomized, comparative, double- blind trials in the prevention of rejection in kidney, heart and liver transplant patients (two active- and one placebo- controlled trials, one active-controlled trial, and one active-controlled trial, respectively) [see Clinical Studies (14.1, 14.2and 14.3)].
 
-The three de novo kidney studies with 12-month duration compared two dose levels of oral mycophenolate mofetil (1 g twice daily and 1.5 g twice daily) with azathioprine (2 studies) or placebo (1 study) when administered in combination with cyclosporine (Sandimmune ®) and corticosteroids to prevent acute rejection episodes.
-One study also included anti-thymocyte globulin (ATGAM ®) induction therapy.
+The three de novo kidney studies with 12-month duration compared two dose levels of oral mycophenolate mofetil (1 g twice daily and 1.5 g twice daily) with azathioprine (2 studies) or placebo (1 study) when administered in combination with cyclosporine (Sandimmune®) and corticosteroids to prevent acute rejection episodes.
+One study also included anti-thymocyte globulin (ATGAM®) induction therapy.
 
-In the de novo heart transplantation study with 12-month duration, patients received mycophenolate mofetil 1.5 g twice daily (n=289) or azathioprine 1.5 to 3 mg/kg/day (n=289), in combination with cyclosporine (Sandimmune ®or Neoral ®) and corticosteroids as maintenance immunosuppressive therapy.
+In the de novo heart transplantation study with 12-month duration, patients received mycophenolate mofetil 1.5 g twice daily (n=289) or azathioprine 1.5 to 3 mg/kg/day (n=289), in combination with cyclosporine (Sandimmune® or Neoral®) and corticosteroids as maintenance immunosuppressive therapy.
 
-In the de novo liver transplantation study with 12-month duration, patients received mycophenolate mofetil 1.5 g twice daily orally or azathioprine 1 to 2 mg/kg/day orally, in combination with cyclosporine (Neoral ®) and corticosteroids as maintenance immunosuppressive therapy.
+In the de novo liver transplantation study with 12-month duration, patients received mycophenolate mofetil 1.5 g twice daily orally or azathioprine 1 to 2 mg/kg/day orally, in combination with cyclosporine (Neoral®) and corticosteroids as maintenance immunosuppressive therapy.
 The total number of patients enrolled was 565.
 
 Approximately 53% of the kidney transplant patients, 65% of the heart transplant patients, and 48% of the liver transplant patients were treated for more than 1 year.
@@ -38,11 +30,11 @@ The safety data of three kidney transplantation studies are pooled together.
 
 Table 1 Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the Mycophenolate Mofetil (MMF) Group
 
-|  | % | % | % | % | % | % | % |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | System Organ Class | Kidney Studies |  |  | Heart Study |  | Liver Study |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | MMF 2g/day (n=501) or 3g/day (n=490) | AZA 1 to 2 mg/kg/day or 100 to 150 mg/day | Placebo | MMF 3g/day | AZA 1.5 to 3 mg/kg/day | MMF 3g/day | AZA 1 to 2 mg/kg/day |  |
 | Adverse Drug Reaction | (n=991) | (n=326) | (n=166) | (n=289) | (n=289) | (n=277) | (n=287) |
+|  | % | % | % | % | % | % | % |
 | Infections and infestations |  |  |  |  |  |  |  |
 | Bacterial infections | 39.9 | 33.7 | 37.3 | - | - | 27.4 | 26.5 |
 | Viral infections | - a | - | - | 31.1 | 24.9 | - | - |
