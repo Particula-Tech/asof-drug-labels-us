@@ -10,6 +10,8 @@ TABLETS
 
 25 mg
 
+GSK
+
 Rx only
 
 Each tablet contains 35 mg sumatriptan succinate equivalent to 25 mg of sumatriptan.
@@ -18,12 +20,12 @@ Each tablet contains 35 mg sumatriptan succinate equivalent to 25 mg of sumatrip
 
 Do not use if package is torn or broken or if you receive fewer tablets than your doctor prescribed.
 
-Made in Canada
+Made in India
 
-©2020 the GSK group of companies.
+©2024 GSK group of companies or its licensor.
 
-1. 546544-02 Rev.
-   07/20
+- 546544-03 Rev.
+  11/24
 
 PRINCIPAL DISPLAY PANEL
 
@@ -37,6 +39,8 @@ TABLETS
 
 50 mg
 
+GSK
+
 Rx only
 
 Each tablet contains 70 mg sumatriptan succinate equivalent to 50 mg of sumatriptan.
@@ -45,12 +49,11 @@ Each tablet contains 70 mg sumatriptan succinate equivalent to 50 mg of sumatrip
 
 Do not use if package is torn or broken or if you receive fewer tablets than your doctor prescribed.
 
-Made in Canada
+Made in India
 
-©2020 the GSK group of companies.
+©2024 GSK group of companies or its licensor.
 
-1. 546545-02 Rev.
-   7/20
+- 546545-03 Rev.11/24
 
 PRINCIPAL DISPLAY PANEL
 
@@ -64,6 +67,8 @@ TABLETS
 
 100 mg
 
+GSK
+
 Rx only
 
 Each tablet contains 140 mg sumatriptan succinate equivalent to 100 mg of sumatriptan.
@@ -72,9 +77,9 @@ Each tablet contains 140 mg sumatriptan succinate equivalent to 100 mg of sumatr
 
 Do not use if package is torn or broken or if you receive fewer tablets than your doctor prescribed.
 
-Made in Canada
+Made in India
 
-©2020 the GSK group of companies.
+©2024 GSK group of companies or its licensor.
 
-1. 546546-02 Rev.
-   07/20
+- 546546-03 Rev.
+  11/24
