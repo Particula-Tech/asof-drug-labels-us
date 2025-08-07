@@ -16,8 +16,8 @@
 | What are the ingredients in IMITREX injection?Active ingredient: sumatriptan succinateInactive ingredients: sodium chloride, water for injection |  |
 | IMITREX and AMERGE are trademarks owned by or licensed to the GSK group of companies. The other brands listed are trademarks owned by or licensed to their respective owners and are not owned by or licensed to the GSK group of companies. The makers of these brands are not affiliated with and do not endorse the GSK group of companies or its products.GlaxoSmithKlineDurham, NC 27701©2023 GSK group of companies or its licensor.IMJ:9PPI |  |
 
-1. This Patient Information has been approved by the U.S. Food and Drug Administration.
-   Revised February 2023
+- This Patient Information has been approved by the U.S. Food and Drug Administration.
+  Revised February 2023
 
 | Instructions for UseIMITREX (IM-i-trex) STATdose System(sumatriptan)Injection |  |
 | --- | --- |

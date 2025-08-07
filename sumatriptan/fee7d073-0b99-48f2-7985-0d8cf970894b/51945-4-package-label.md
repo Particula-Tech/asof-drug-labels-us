@@ -18,9 +18,8 @@ For subcutaneous injection only.
 
 Rx only
 
-1. 62000000090054 Rev.
-   10/23
-2. 
+- 62000000090054 Rev.
+  10/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -42,9 +41,8 @@ Rx only
 
 2 Single-Dose Syringe Cartridges
 
-1. 62000000090057 Rev.
-   10/23
-2. 
+- 62000000090057 Rev.
+  10/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -79,6 +77,5 @@ Made in India
 
 ©2023 the GSK group of companies or its licensor
 
-1. 62000000090058 Rev.
-   10/23
-2. 
+- 62000000090058 Rev.
+  10/23
