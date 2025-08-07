@@ -39,8 +39,6 @@ Pregnancy
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with trazodone hydrochloride tablets.
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to trazodone hydrochloride tablets during pregnancy [see Use in Special Populations (8.1)].
 
-Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
-
 Manufactured by:
 
 Torrent Pharmaceuticals LTD., India.
@@ -49,4 +47,4 @@ Manufactured for:
 
 Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8100507 Revised: March 2025
+8101637 Revised: July 2025
