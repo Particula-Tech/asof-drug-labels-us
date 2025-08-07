@@ -31,7 +31,11 @@ Disclaimer: Other brands listed are the registered trademarks of their respectiv
 
 Manufactured by:
 
-Cipla Ltd., Verna Goa, India
+Cipla Limited,
+
+Verna-403722,
+
+Goa, India
 
 Manufactured for:
 
@@ -41,4 +45,4 @@ Cipla USA, Inc.
 
 Warren, NJ 07059
 
-Revised: 3/2023
+Revised: 09/2023

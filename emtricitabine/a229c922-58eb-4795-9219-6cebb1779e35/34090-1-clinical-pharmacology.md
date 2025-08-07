@@ -116,8 +116,11 @@ Tables 8 and 9 summarize the pharmacokinetic effects of coadministered drug on F
 Table 8.
 Drug Interactions: Change in Pharmacokinetic Parameters for FTC in the Presence of the Coadministered Druga
 
-| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of FTC Pharmacokinetic Parametersb (90% CI) |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of FTC Pharmacokinetic Parametersb (90% CI) |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |
 | Cmax | AUC | Cmin |  |  |  |  |
 | Famciclovir | 500 x 1 | 200 x 1 | 12 | ⇔ | ⇔ | NA |
 | Indinavir | 800 x 1 | 200 x 1 | 12 | ⇔ | ⇔ | NA |
@@ -130,8 +133,11 @@ Drug Interactions: Change in Pharmacokinetic Parameters for FTC in the Presence 
 Table 9.
 Drug Interactions: Change in Pharmacokinetic Parameters for Coadministered Drug in the Presence of FTCa
 
-| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parametersb (90% CI) |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
+| Coadministered Drug | Dose of Coadministered Drug (mg) | FTC Dose (mg) | N | % Change of Coadministered Drug Pharmacokinetic Parametersb (90% CI) |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |
+| Cmax | AUC | Cmin |  |  |  |  |
 | Cmax | AUC | Cmin |  |  |  |  |
 | Famciclovir | 500 x 1 | 200 x 1 | 12 | ⇔ | ⇔ | NA |
 | Indinavir | 800 x 1 | 200 x 1 | 12 | ⇔ | ⇔ | NA |

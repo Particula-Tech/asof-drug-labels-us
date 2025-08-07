@@ -2,11 +2,13 @@
 
 ## 2.1 Testing Prior to Initiation of Treatment with Emtricitabine
 
-Prior to or when initiating emtricitabine, test patients for hepatitis B virus infection [see Warnings and Precautions (5.1)].
+Prior to or when initiating emtricitabine, test patients for hepatitis B virus infection [see
+
+Warnings and Precautions (5.1)].
 
 ## 2.2 Recommended Dosage
 
-Emtricitabine is taken by mouth once daily and may be taken without regard to food [see Clinical Pharmacology (12.3)].
+Emtricitabine is taken by mouth once daily and may be taken without regard to food [seeClinical Pharmacology (12.3)].
 
 ## 2.3 Recommended Dosage in Adult Patients (18 years of age and older)
 

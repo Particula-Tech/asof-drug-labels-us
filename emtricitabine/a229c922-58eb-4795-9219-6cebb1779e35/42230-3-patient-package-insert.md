@@ -74,7 +74,7 @@ What are the possible side effects of emtricitabine?
 Emtricitabine may cause serious side effects, including:
 
 - See "What is the most important information I should know about emtricitabine capsules?"
-- Changes in your immune system (Immune Reconstitution Syndrome) can happen whenan HIV-infected person starts taking antiretroviral medicines.
+- Changes in your immune system (Immune Reconstitution Syndrome) can happen when an HIV-infected person starts taking antiretroviral medicines.
   Your immune system may get stronger and begin to fight infections that have been hidden in your body for a long time.
   Tell your healthcare provider right away if you start having any new symptoms after starting emtricitabine capsules.
 - Too much lactic acid in your blood (lactic acidosis).
@@ -145,7 +145,7 @@ You can ask your healthcare provider or pharmacist for information about emtrici
 
 What are the ingredients of Emtricitabine capsules?
 
-Active Ingredient: emtricitabine
+Active Ingredient: emtricitabine USP
 
 Inactive Ingredients for Emtricitabine capsules: mannitol, hypromellose, and magnesium stearate.
 The capsules are printed with ink containing black iron oxide.
@@ -154,7 +154,11 @@ Disclaimer: Other brands listed are the registered trademarks of their respectiv
 
 Manufactured by:
 
-Cipla Ltd., Verna Goa, India
+Cipla Limited,
+
+Verna-403722,
+
+Goa, India
 
 Manufactured for:
 
@@ -162,6 +166,6 @@ Cipla USA, Inc.
 
 10 Independence Boulevard, Suite 300
 
-Warren, NJ 07059
+Warren, NJ - 07059
 
-Revised: 3/2023
+Revised: 09/2023
