@@ -14,6 +14,6 @@
 | Figure J | Step 5. Close the inhaler. See Figure J. •You can clean the mouthpiece if needed, using a dry tissue, before you close the cover. Routine cleaning is not required.•Slide the cover up and over the mouthpiece as far as it will go. |
 | Important Note: When should you get a refill? |  |
 | Figure K | •When you have fewer than 10 doses remaining in your inhaler, the left half of the counter shows red as a reminder to get a refill. See Figure K.•After you have inhaled the last dose, the counter will show “0” and will be empty.•Throw the empty inhaler away in your household trash out of reach of children and pets. |
-| For more information about Umeclidinium and Vilanterol ELLIPTA, call 1-866-525-0688.ELLIPTA is a registered trademark of the GSK group of companies. Manufactured for:Prasco LaboratoriesMason, OH 45040 USA Manufactured by:GlaxoSmithKlineDurham, NC 27701 ANR-PS: 1IFU |  |
+| For more information about Umeclidinium and Vilanterol ELLIPTA, call 1-866-525-0688.ELLIPTA is a registered trademark of the GSK group of companies. Manufactured for:Prasco LaboratoriesMason, OH 45040 USA Manufactured by:GlaxoSmithKlineDurham, NC 27701 ANR-PS:1IFU |  |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: November 2024
