@@ -141,16 +141,12 @@ Table 17: Clinical and Mycological Outcome by Baseline Pathogen in Patients with
 
 In pooled analyses of patients, voriconazole was shown to be effective against the following additional fungal pathogens:
 
-### Scedosporium apiospermum
-
-Successful response to voriconazole therapy was seen in 15 of 24 patients (63%).
+Scedosporium apiospermum -: Successful response to voriconazole therapy was seen in 15 of 24 patients (63%).
 Three of these patients relapsed within 4 weeks, including 1 patient with pulmonary, skin and eye infections, 1 patient with cerebral disease, and 1 patient with skin infection.
 Ten patients had evidence of cerebral disease and 6 of these had a successful outcome (1 relapse).
 In addition, a successful response was seen in 1 of 3 patients with mixed organism infections.
 
-### Fusarium spp.
-
-Nine of 21 (43%) patients were successfully treated with voriconazole.
+Fusarium spp. - Nine of 21 (43%) patients were successfully treated with voriconazole.
 Of these 9 patients, 3 had eye infections, 1 had an eye and blood infection, 1 had a skin infection, 1 had a blood infection alone, 2 had sinus infections, and 1 had disseminated infection (pulmonary, skin, hepatosplenic).
 Three of these patients (1 with disseminated disease, 1 with an eye infection and 1 with a blood infection) had Fusarium solani and were complete successes.
 Two of these patients relapsed, 1 with a sinus infection and profound neutropenia and 1 post surgical patient with blood and eye infections.

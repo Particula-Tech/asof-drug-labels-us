@@ -78,7 +78,7 @@ Possibly Related to Therapy or Causality UnknownStudy 307/602: IA; Study 608: ca
 | Kidney function abnormal | 10 (0.6) | 6 (1.3) | 40 (21.6) | 9 (6.9) | 1 (0.5) | 1 (0.5) |
 | Acute kidney failure | 7 (0.4) | 2 (0.4) | 11 (5.9) | 7 (5.3) | 0 | 0 |
 
-##### Visual Disturbances
+Visual Disturbances
 
 Voriconazole treatment-related visual disturbances are common.
 In therapeutic trials, approximately 21% of patients experienced abnormal vision, color vision change and/or photophobia.
@@ -90,7 +90,7 @@ The ERG measures electrical currents in the retina.
 These effects were noted early in administration of voriconazole and continued through the course of study drug treatment.
 Fourteen days after the end of dosing, ERG, visual fields and color perception returned to normal [see Warnings and Precautions (5.4)].
 
-##### Dermatological Reactions
+Dermatological Reactions
 
 Dermatological reactions were common in patients treated with voriconazole.
 The mechanism underlying these dermatologic adverse reactions remains unknown.
@@ -100,7 +100,7 @@ Erythema multiforme has also been reported during treatment with voriconazole [s
 
 Voriconazole has also been associated with additional photosensitivity related skin reactions such as pseudoporphyria, cheilitis, and cutaneous lupus erythematosus [see Warnings and Precautions (5.6) and Adverse Reactions (6.2)].
 
-##### Less Common Adverse Reactions
+Less Common Adverse Reactions
 
 The following adverse reactions occurred in < 2% of all voriconazole-treated patients in all therapeutic studies (N = 1655).
 This listing includes events where a causal relationship to voriconazole cannot be ruled out or those which may help the physician in managing the risks to the patients.
@@ -130,7 +130,7 @@ Special Senses: abnormality of accommodation, blepharitis, color blindness, conj
 
 Urogenital: anuria, blighted ovum, creatinine clearance decreased, dysmenorrhea, dysuria, epididymitis, glycosuria, hemorrhagic cystitis, hematuria, hydronephrosis, impotence, kidney pain, kidney tubular necrosis, metrorrhagia, nephritis, nephrosis, oliguria, scrotal edema, urinary incontinence, urinary retention, urinary tract infection, uterine hemorrhage, vaginal hemorrhage.
 
-### Clinical Laboratory Values in Adults
+Clinical Laboratory Values in Adults
 
 The overall incidence of transaminase increases ˃ 3x upper limit of normal (not necessarily comprising an adverse reaction) was 17.7% (268/1514) in adult subjects treated with voriconazole for therapeutic use in pooled clinical trials.
 Increased incidence of liver function test abnormalities may be associated with higher plasma concentrations and/or doses.
@@ -195,13 +195,14 @@ Table 7: Protocol 608 - Treatment of Candidemia Clinically Significant Laborator
 
 The safety of voriconazole was investigated in 105 pediatric patients aged 2 to less than 18 years, including 52 pediatric patients less than 18 years of age who were enrolled in the adult therapeutic studies.
 
-#### Serious Adverse Reactions and Adverse Reactions Leading to Discontinuation
+Serious Adverse Reactions and Adverse Reactions Leading to Discontinuation
 
 In clinical studies, serious adverse reactions occurred in 46% (48/105) of voriconazole treated pediatric patients.
 Treatment discontinuations due to adverse reactions occurred in 12/105 (11%) of all patients.
-Hepatic adverse reactions (i.e., ALT increased; liver function test abnormal; jaundice) 6% (6/105) accounted for the majority of voriconazole treatment discontinuations.
+Hepatic adverse reactions (i.e.
+ALT increased; liver function test abnormal; jaundice) 6% (6/105) accounted for the majority of voriconazole treatment discontinuations.
 
-#### Most Common Adverse Reactions
+Most Common Adverse Reactions
 
 The most common adverse reactions occurring in ≥ 5% of pediatric patients receiving voriconazole in the pooled pediatric clinical trials are displayed by body system, in Table 8.
 
@@ -280,12 +281,12 @@ Skin and Subcutaneous Tissue Disorders: alopecia, dermatitis (allergic, contact,
 
 Vascular Disorders: flushing, phlebitis
 
-#### Hepatic-Related Adverse Reactions in Pediatric Patients
+Hepatic-Related Adverse Reactions in Pediatric Patients
 
 The frequency of hepatic-related adverse reactions in pediatric patients exposed to voriconazole in therapeutic studies was numerically higher than that of adults (28.6% compared to 24.1%, respectively).
 The higher frequency of hepatic adverse reactions in the pediatric population was mainly due to an increased frequency of liver enzyme elevations (21.9% in pediatric patients compared to 16.1% in adults), including transaminase elevations (ALT and AST combined) 7.6% in the pediatric patients compared to 5.1% in adults.
 
-#### Clinical Laboratory Values in Pediatric Patients
+Clinical Laboratory Values in Pediatric Patients
 
 The overall incidence of transaminase increases > 3x upper limit of normal was 27.2% (28/103) in pediatric and 17.7% (268/1514) in adult patients treated with voriconazole in pooled clinical trials.
 The majority of abnormal liver function tests either resolved on treatment with or without dose adjustment or after voriconazole discontinuation.
