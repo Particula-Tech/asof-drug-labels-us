@@ -15,16 +15,16 @@ Data
 
 Animal Data
 
-Embryo-fetal studies were conducted in pregnant rats administered 0, 2, 6, or 18 mg/kg/day brinzolamide by oral gavage on gestation days 6 to 17, to target the period of organogenesis.
-Decreased fetal body weight with reduced skeletal ossification were observed at 18 mg/kg/day (375 times the RHOD based on mg/kg).
-The no-observed-adverse-effect-level (NOAEL) for fetal toxicity was 6 mg/kg/day (125 times the RHOD).
-Decreased maternal weight gain was observed at 18 mg/kg/day.
-The NOAEL for maternal toxicity was 6 mg/kg/day (125 times the RHOD).
-Embryo-fetal studies were conducted in pregnant rabbits administered 0, 1, 3, or 6 mg/kg/day of brinzolamide by oral gavage on gestation days 6 to 18, to target the period of organogenesis.
-No treatment-related fetal effects were observed at any dose.
-The NOAEL for fetal toxicity was 6 mg/kg/day (125 times the RHOD based on mg/kg).
-Maternal weight loss during pregnancy was observed at 3 mg/kg/day (63 times the RHOD) and above.
-The NOAEL for maternal toxicity was 1 mg/kg/day (21 times the RHOD).
+1. Embryo-fetal studies were conducted in pregnant rats administered 0, 2, 6, or 18 mg/kg/day brinzolamide by oral gavage on gestation days 6 to 17, to target the period of organogenesis.
+   Decreased fetal body weight with reduced skeletal ossification were observed at 18 mg/kg/day (375 times the RHOD based on mg/kg).
+   The no-observed-adverse-effect-level (NOAEL) for fetal toxicity was 6 mg/kg/day (125 times the RHOD).
+   Decreased maternal weight gain was observed at 18 mg/kg/day.
+   The NOAEL for maternal toxicity was 6 mg/kg/day (125 times the RHOD).
+   Embryo-fetal studies were conducted in pregnant rabbits administered 0, 1, 3, or 6 mg/kg/day of brinzolamide by oral gavage on gestation days 6 to 18, to target the period of organogenesis.
+   No treatment-related fetal effects were observed at any dose.
+   The NOAEL for fetal toxicity was 6 mg/kg/day (125 times the RHOD based on mg/kg).
+   Maternal weight loss during pregnancy was observed at 3 mg/kg/day (63 times the RHOD) and above.
+   The NOAEL for maternal toxicity was 1 mg/kg/day (21 times the RHOD).
 
 A peri-/postnatal study was conducted in rats administered brinzolamide by oral gavage from gestation day 16 through lactation day 20.
 Decreased pup body weight was observed at 15 mg/kg/day (313 times the RHOD based on mg/kg).
