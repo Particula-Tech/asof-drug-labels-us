@@ -64,7 +64,7 @@ At least 72 hours should elapse between consecutive doses of BORUZU.
 
 Table 3: Dosage Regimen for Patients with Previously Untreated Mantle Cell Lymphoma
 
-| Twice Weekly BORUZU(6, Three Week Cycles)* |  |  |  |  |  |  |  |  |
+| Twice Weekly BORUZU (6, Three Week Cycles)* |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Week | 1 |  |  |  |  | 2 |  | 3 |
 | BORUZU (1.3 mg/m2) | Day 1 | -­ | -­ | Day 4 | -­ | Day 8 | Day 11 | rest period |
@@ -95,14 +95,14 @@ For information concerning rituximab, cyclophosphamide, doxorubicin and predniso
 
 ## 2.6 Dosage and Dose Modifications for Relapsed Multiple Myeloma and Relapsed Mantle Cell Lymphoma
 
-BORUZU (1.3 mg/m2/dose) is administered twice weekly for two weeks (Days 1, 4, 8, and 11) followed by a ten day rest period (Days 12 to 21).
-For extended therapy of more than eight cycles, BORUZU may be administered on the standard schedule or, for relapsed multiple myeloma, on a maintenance schedule of once weekly for four weeks (Days 1, 8, 15, and 22) followed by a 13 day rest period (Days 23 to 35) [see Clinical Studies (14)].
-At least 72 hours should elapse between consecutive doses of BORUZU.
+Bortezomib (1.3 mg/m2/dose) is administered twice weekly for two weeks (Days 1, 4, 8, and 11) followed by a ten day rest period (Days 12 to 21).
+For extended therapy of more than eight cycles, bortezomib may be administered on the standard schedule or, for relapsed multiple myeloma, on a maintenance schedule of once weekly for four weeks (Days 1, 8, 15, and 22) followed by a 13 day rest period (Days 23 to 35) [see Clinical Studies (14)].
+At least 72 hours should elapse between consecutive doses of bortezomib.
 
-Patients with multiple myeloma who have previously responded to treatment with BORUZU (either alone or in combination) and who have relapsed at least six months after their prior BORUZU therapy may be started on BORUZU at the last tolerated dose.
-Retreated patients are administered BORUZU twice weekly (Days 1, 4, 8, and 11) every three weeks for a maximum of eight cycles.
-At least 72 hours should elapse between consecutive doses of BORUZU.
-BORUZU may be administered either as a single agent or in combination with dexamethasone [see Clinical Studies (14.1)].
+Patients with multiple myeloma who have previously responded to treatment with bortezomib (either alone or in combination) and who have relapsed at least six months after their prior bortezomib therapy may be started on bortezomib at the last tolerated dose.
+Retreated patients are administered bortezomib twice weekly (Days 1, 4, 8, and 11) every three weeks for a maximum of eight cycles.
+At least 72 hours should elapse between consecutive doses of bortezomib.
+Bortezomib may be administered either as a single agent or in combination with dexamethasone [see Clinical Studies (14.1)].
 
 BORUZU therapy should be withheld at the onset of any Grade 3 nonhematological or Grade 4 hematological toxicities excluding neuropathy as discussed below [see Warnings and Precautions (5)].
 Once the symptoms of the toxicity have resolved, BORUZU therapy may be reinitiated at a 25% reduced dose (1.3 mg/m2/dose reduced to 1 mg/m2/dose; 1 mg/m2/dose reduced to 0.7 mg/m2/dose).
@@ -132,7 +132,7 @@ Table 5: Recommended Dosage Modification for BORUZU-Related Neuropathic Pain and
 
 Do not adjust the starting dose for patients with mild hepatic impairment.
 
-Start patients with moderate or severe hepatic impairment at a reduced dose of 0.7 mg/m2 per injection during the first cycle, and consider subsequent dose escalation to 1 mg/m2 or further dose reduction to 0.5 mg/m2 based on patient tolerance (see Table 6)[see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+Start patients with moderate or severe hepatic impairment at a reduced dose of 0.7 mg/m2 per injection during the first cycle, and consider subsequent dose escalation to 1 mg/m2 or further dose reduction to 0.5 mg/m2 based on patient tolerance (see Table 6) [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 
 Table 6: Recommended Starting Dose Modification for BORUZU in Patients with Hepatic Impairment
 

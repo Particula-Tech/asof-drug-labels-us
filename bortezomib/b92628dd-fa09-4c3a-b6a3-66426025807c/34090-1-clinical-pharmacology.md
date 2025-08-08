@@ -45,7 +45,7 @@ The pathways of elimination of bortezomib have not been characterized in humans.
 
 Specific Populations
 
-No clinically significant differences in the pharmacokinetics of bortezomib were observed based on age, sex, or renal impairment (including patients administered BORUZU after dialysis).
+No clinically significant differences in the pharmacokinetics of bortezomib were observed based on age, sex, or renal impairment (including patients administered bortezomib after dialysis).
 The effect of race on bortezomib pharmacokinetics is unknown.
 
 Patients with Hepatic Impairment

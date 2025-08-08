@@ -19,13 +19,13 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Summary of Clinical Trial in Patients with Previously Untreated Multiple Myeloma
 
-Table 9 describes safety data from 340 patients with previously untreated multiple myeloma who received BORUZU (1.3 mg/m2) administered intravenously in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective randomized study.
+Table 9 describes safety data from 340 patients with previously untreated multiple myeloma who received bortezomib (1.3 mg/m2) administered intravenously in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective randomized study.
 
-The safety profile of BORUZU in combination with melphalan/prednisone is consistent with the known safety profiles of both BORUZU and melphalan/prednisone.
+The safety profile of bortezomib in combination with melphalan/prednisone is consistent with the known safety profiles of both bortezomib and melphalan/prednisone.
 
-Table 9: Most Commonly Reported Adverse Reactions (≥ 10% in the BORUZU, Melphalan and Prednisone Arm) with Grades 3 and ≥ 4 Intensity in the Previously Untreated Multiple Myeloma Study
+Table 9: Most Commonly Reported Adverse Reactions (≥ 10% in the Bortezomib, Melphalan and Prednisone Arm) with Grades 3 and ≥ 4 Intensity in the Previously Untreated Multiple Myeloma Study
 
-|  | BORUZU, Melphalan and Prednisone (n=340) |  |  | Melphalan and Prednisone(n=337) |  |  |
+|  | Bortezomib, Melphalan and Prednisone (n=340) |  |  | Melphalan and Prednisone(n=337) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Body System | Total | Toxicity Grade,n (%) |  | Total | Toxicity Grade,n (%) |  |
 | Adverse Reaction | n (%) | 3 | ≥ 4 | n (%) | 3 | ≥ 4 |
@@ -59,10 +59,10 @@ Table 9: Most Commonly Reported Adverse Reactions (≥ 10% in the BORUZU, Melpha
 | Insomnia | 35 (10) | 1 (< 1) | 0 | 21 (6) | 0 | 0 |
 | * Represents High Level Term Peripheral Neuropathies NEC |  |  |  |  |  |  |
 
-Relapsed Multiple Myeloma Randomized Study of BORUZU vs Dexamethasone
+Relapsed Multiple Myeloma Randomized Study of Bortezomib vs Dexamethasone
 
-The safety data described below and in Table 10 reflect exposure to either BORUZU (n=331) or dexamethasone (n=332) in a study of patients with relapsed multiple myeloma.
-BORUZU was administered intravenously at doses of 1.3 mg/m2 twice weekly for two out of three weeks (21 day cycle).
+The safety data described below and in Table 10 reflect exposure to either bortezomib (n=331) or dexamethasone (n=332) in a study of patients with relapsed multiple myeloma.
+Bortezomib was administered intravenously at doses of 1.3 mg/m2 twice weekly for two out of three weeks (21 day cycle).
 After eight, 21 day cycles patients continued therapy for three, 35 day cycles on a weekly schedule.
 Duration of treatment was up to 11 cycles (nine months) with a median duration of six cycles (4.1 months).
 For inclusion in the trial, patients must have had measurable disease and one to three prior therapies.
@@ -71,13 +71,13 @@ Creatinine clearance could be as low as 20 mL/min and bilirubin levels as high a
 The overall frequency of adverse reactions was similar in men and women, and in patients < 65 and ≥ 65 years of age.
 Most patients were Caucasian [see Clinical Studies (14.1)].
 
-Among the 331 BORUZU-treated patients, the most commonly reported (> 20%) adverse reactions overall were nausea (52%), diarrhea (52%), fatigue (39%), peripheral neuropathies (35%), thrombocytopenia (33%), constipation (30%), vomiting (29%), and anorexia (21%).
+Among the 331 bortezomib-treated patients, the most commonly reported (> 20%) adverse reactions overall were nausea (52%), diarrhea (52%), fatigue (39%), peripheral neuropathies (35%), thrombocytopenia (33%), constipation (30%), vomiting (29%), and anorexia (21%).
 The most commonly reported (> 20%) adverse reaction reported among the 332 patients in the dexamethasone group was fatigue (25%).
 Eight percent (8%) of patients in the bortezomib-treated arm experienced a Grade 4 adverse reaction; the most common reactions were thrombocytopenia (4%) and neutropenia (2%).
 Nine percent (9%) of dexamethasone-treated patients experienced a Grade 4 adverse reaction.
 All individual dexamethasone-related Grade 4 adverse reactions were less than 1%.
 
-Serious Adverse Reactions and Adverse Reactions Leading to Treatment Discontinuation in the Relapsed Multiple Myeloma Study of BORUZU vs Dexamethasone
+Serious Adverse Reactions and Adverse Reactions Leading to Treatment Discontinuation in the Relapsed Multiple Myeloma Study of Bortezomib vs Dexamethasone
 
 Serious adverse reactions are defined as any reaction that results in death, is life-threatening, requires hospitalization or prolongs a current hospitalization, results in a significant disability, or is deemed to be an important medical event.
 A total of 80 (24%) patients from the bortezomib treatment arm experienced a serious adverse reaction during the study, as did 83 (25%) dexamethasone-treated patients.
@@ -85,22 +85,22 @@ The most commonly reported serious adverse reactions in the bortezomib treatment
 In the dexamethasone treatment group, the most commonly reported serious adverse reactions were pneumonia (4%), hyperglycemia (3%), pyrexia, and psychotic disorder (2% each).
 
 A total of 145 patients, including 84 (25%) of 331 patients in the bortezomib treatment group and 61 (18%) of 332 patients in the dexamethasone treatment group were discontinued from treatment due to adverse reactions.
-Among the 331 BORUZU-treated patients, the most commonly reported adverse reaction leading to discontinuation was peripheral neuropathy (8%).
+Among the 331 bortezomib-treated patients, the most commonly reported adverse reaction leading to discontinuation was peripheral neuropathy (8%).
 Among the 332 patients in the dexamethasone group, the most commonly reported adverse reactions leading to treatment discontinuation were psychotic disorder and hyperglycemia (2% each).
 
-Four deaths were considered to be BORUZU-related in this relapsed multiple myeloma study: one case each of cardiogenic shock, respiratory insufficiency, congestive heart failure and cardiac arrest.
+Four deaths were considered to be bortezomib-related in this relapsed multiple myeloma study: one case each of cardiogenic shock, respiratory insufficiency, congestive heart failure and cardiac arrest.
 Four deaths were considered dexamethasone-related: two cases of sepsis, one case of bacterial meningitis, and one case of sudden death at home.
 
-Most Commonly Reported Adverse Reactions in the Relapsed Multiple Myeloma Study of BORUZU vs Dexamethasone
+Most Commonly Reported Adverse Reactions in the Relapsed Multiple Myeloma Study of Bortezomib vs Dexamethasone
 
 The most common adverse reactions from the relapsed multiple myeloma study are shown in Table 10.
-All adverse reactions with incidence ≥ 10% in the BORUZU arm are included.
+All adverse reactions with incidence ≥ 10% in the bortezomib arm are included.
 
-Table 10: Most Commonly Reported Adverse Reactions (≥ 10% in BORUZU Arm), with Grades 3 and 4 Intensity in the Relapsed Multiple Myeloma Study of BORUZU vs Dexamethasone (N=663)
+Table 10: Most Commonly Reported Adverse Reactions (≥ 10% in Bortezomib Arm), with Grades 3 and 4 Intensity in the Relapsed Multiple Myeloma Study of Bortezomib vs Dexamethasone (N=663)
 
-| Adverse Reactions | BORUZU (N=331) |  |  | Dexamethasone(N=332) |  |  |
+| Adverse Reactions | Bortezomib (N=331) |  |  | Dexamethasone(N=332) |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| All | Grade3 | Grade4 | All | Grade3 | Grade4 |  |
+| All | Grade 3 | Grade 4 | All | Grade 3 | Grade 4 |  |
 | Any Adverse Reactions | 324 (98) | 193 (58) | 28 (8) | 297 (89) | 110 (33) | 29 (9) |
 | Nausea | 172 (52) | 8 (2) | 0 | 31 (9) | 0 | 0 |
 | Diarrhea NOS | 171 (52) | 22 (7) | 0 | 36 (11) | 2 (< 1) | 0 |
@@ -124,16 +124,16 @@ Table 10: Most Commonly Reported Adverse Reactions (≥ 10% in BORUZU Arm), with
 
 Safety Experience from the Phase 2 Open-Label Extension Study in Relapsed Multiple Myeloma
 
-In the Phase 2 extension study of 63 patients, no new cumulative or new long-term toxicities were observed with prolonged BORUZU treatment.
-These patients were treated for a total of 5.3 to 23 months, including time on BORUZU in the prior BORUZU study [see Clinical Studies (14.1)].
+In the Phase 2 extension study of 63 patients, no new cumulative or new long-term toxicities were observed with prolonged bortezomib treatment.
+These patients were treated for a total of 5.3 to 23 months, including time on bortezomib in the prior bortezomib study [see Clinical Studies (14.1)].
 
-Safety Experience from the Phase 3 Open-Label Study of BORUZU Subcutaneous vs Intravenous in Relapsed Multiple Myeloma
+Safety Experience from the Phase 3 Open-Label Study of Bortezomib Subcutaneous vs Intravenous in Relapsed Multiple Myeloma
 
-The safety and efficacy of BORUZU administered subcutaneously were evaluated in one Phase 3 study at the recommended dose of 1.3 mg/m2.
-This was a randomized, comparative study of BORUZU subcutaneous vs intravenous in 222 patients with relapsed multiple myeloma.
-The safety data described below and in Table 11 reflect exposure to either BORUZU subcutaneous (N=147) or BORUZU intravenous (N=74) [see Clinical Studies (14.1)].
+The safety and efficacy of bortezomib administered subcutaneously were evaluated in one Phase 3 study at the recommended dose of 1.3 mg/m2.
+This was a randomized, comparative study of bortezomib subcutaneous vs intravenous in 222 patients with relapsed multiple myeloma.
+The safety data described below and in Table 11 reflect exposure to either bortezomib subcutaneous (N=147) or bortezomib intravenous (N=74) [see Clinical Studies (14.1)].
 
-Table 11: Most Commonly Reported Adverse Reactions (≥ 10%), with Grade 3and ≥ 4 Intensity in the Relapsed Multiple Myeloma Study (N=221) of BORUZU Subcutaneous vs Intravenous
+Table 11: Most Commonly Reported Adverse Reactions (≥ 10%), with Grade 3 and ≥ 4 Intensity in the Relapsed Multiple Myeloma Study (N=221) of Bortezomib Subcutaneous vs Intravenous
 
 |  | Subcutaneous |  |  | Intravenous |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -170,7 +170,7 @@ Local reactions resolved in a median of six days.
 Dose reductions occurred due to adverse reactions in 31% of patients in the subcutaneous treatment group compared with 43% of the intravenously-treated patients.
 The most common adverse reactions leading to a dose reduction included peripheral sensory neuropathy (17% in the subcutaneous treatment group compared with 31% in the intravenous treatment group); and neuralgia (11% in the subcutaneous treatment group compared with 19% in the intravenous treatment group).
 
-Serious Adverse Reactions and Adverse Reactions Leading to Treatment Discontinuation in the Relapsed Multiple Myeloma Study of BORUZU Subcutaneous vs Intravenous
+Serious Adverse Reactions and Adverse Reactions Leading to Treatment Discontinuation in the Relapsed Multiple Myeloma Study of Bortezomib Subcutaneous vs Intravenous
 
 The incidence of serious adverse reactions was similar for the subcutaneous treatment group (20%) and the intravenous treatment group (19%).
 The most commonly reported serious adverse reactions in the subcutaneous treatment arm were pneumonia and pyrexia (2% each).
@@ -190,11 +190,11 @@ Table 12 describes safety data from 240 patients with previously untreated mantl
 
 Infections were reported for 31% of patients in the BR-CAP arm and 23% of the patients in the comparator (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone [R-CHOP]) arm, including the predominant preferred term of pneumonia (BR-CAP 8% vs R-CHOP 5%).
 
-Table 12: Most Commonly Reported Adverse Reactions (≥ 5%) with Grades 3 and≥ 4 Intensity in the Previously Untreated Mantle Cell Lymphoma Study
+Table 12: Most Commonly Reported Adverse Reactions (≥ 5%) with Grades 3 and ≥ 4 Intensity in the Previously Untreated Mantle Cell Lymphoma Study
 
-| Body System Adverse Reactions | All n (%) | Toxicity Grade 3 n (%) | Toxicity Grade≥ 4n (%) | All n (%) | Toxicity Grade 3n (%) | Toxicity Grade ≥ 4n (%) |
+| Body System Adverse Reactions | All n (%) | Toxicity Grade 3 n (%) | Toxicity Grade ≥ 4n (%) | All n (%) | Toxicity Grade 3n (%) | Toxicity Grade ≥ 4n (%) |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | BR-CAP(n=240) |  |  | R-CHOP(n=242) |  |  |
+|  | BR-CAP (n=240) |  |  | R-CHOP (n=242) |  |  |
 | Blood and Lymphatic System Disorders |  |  |  |  |  |  |
 | Neutropenia | 209 (87) | 32 (13) | 168 (70) | 172 (71) | 31 (13) | 125 (52) |
 | Leukopenia | 116 (48) | 34 (14) | 69 (29) | 87 (36) | 39 (16) | 27 (11) |
@@ -244,14 +244,14 @@ The most commonly reported adverse reaction leading to discontinuation in the R-
 
 Integrated Summary of Safety (Relapsed Multiple Myeloma and Relapsed Mantle Cell Lymphoma)
 
-Safety data from Phase 2 and 3 studies of single agent BORUZU 1.3 mg/m2/dose twice weekly for two weeks followed by a ten day rest period in 1163 patients with previously-treated multiple myeloma (N=1008) and previously-treated mantle cell lymphoma (N=155) were integrated and tabulated.
-This analysis does not include data from the Phase 3 open-label study of BORUZU subcutaneous vs intravenous in relapsed multiple myeloma.
-In the integrated studies, the safety profile of BORUZU was similar in patients with multiple myeloma and mantle cell lymphoma.
+Safety data from Phase 2 and 3 studies of single agent bortezomib 1.3 mg/m2/dose twice weekly for two weeks followed by a ten day rest period in 1163 patients with previously-treated multiple myeloma (N=1008) and previously-treated mantle cell lymphoma (N=155) were integrated and tabulated.
+This analysis does not include data from the Phase 3 open-label study of bortezomib subcutaneous vs intravenous in relapsed multiple myeloma.
+In the integrated studies, the safety profile of bortezomib was similar in patients with multiple myeloma and mantle cell lymphoma.
 
 In the integrated analysis, the most commonly reported (> 20%) adverse reactions were nausea (49%), diarrhea (46%), asthenic conditions including fatigue (41%) and weakness (11%), peripheral neuropathies (38%), thrombocytopenia (32%), vomiting (28%), constipation (25%), and pyrexia (21%).
 Eleven percent (11%) of patients experienced at least one episode of ≥ Grade 4 toxicity, most commonly thrombocytopenia (4%) and neutropenia (2%).
 
-In the Phase 2 relapsed multiple myeloma clinical trials of BORUZU administered intravenously, local skin irritation was reported in 5% of patients, but extravasation of BORUZU was not associated with tissue damage.
+In the Phase 2 relapsed multiple myeloma clinical trials of bortezomib administered intravenously, local skin irritation was reported in 5% of patients, but extravasation of bortezomib was not associated with tissue damage.
 
 Serious Adverse Reactions and Adverse Reactions Leading to Treatment Discontinuation in the Integrated Summary of Safety
 
@@ -307,9 +307,9 @@ Nausea was reported more often in patients with multiple myeloma (51%) compared 
 
 Thrombocytopenia
 
-Across the studies, BORUZU-associated thrombocytopenia was characterized by a decrease in platelet count during the dosing period (Days 1 to 11) and a return toward baseline during the ten day rest period during each treatment cycle.
+Across the studies, bortezomib-associated thrombocytopenia was characterized by a decrease in platelet count during the dosing period (Days 1 to 11) and a return toward baseline during the ten day rest period during each treatment cycle.
 Overall, thrombocytopenia was reported in 32% of patients.
-Thrombocytopenia was Grade 3 in 22%, ≥ Grade 4 in 4%, and serious in 2% of patients, and the reaction resulted in BORUZU discontinuation in 2% of patients [see Warnings and Precautions (5.7)].
+Thrombocytopenia was Grade 3 in 22%, ≥ Grade 4 in 4%, and serious in 2% of patients, and the reaction resulted in bortezomib discontinuation in 2% of patients [see Warnings and Precautions (5.7)].
 Thrombocytopenia was reported more often in patients with multiple myeloma (34%) compared to patients with mantle cell lymphoma (16%).
 The incidence of ≥ Grade 3 thrombocytopenia also was higher in patients with multiple myeloma (28%) compared to patients with mantle cell lymphoma (8%).
 
@@ -317,16 +317,16 @@ Peripheral Neuropathy
 
 Overall, peripheral neuropathies occurred in 38% of patients.
 Peripheral neuropathy was Grade 3 for 11% of patients and ≥ Grade 4 for < 1% of patients.
-Eight percent (8%) of patients discontinued BORUZU due to peripheral neuropathy.
+Eight percent (8%) of patients discontinued bortezomib due to peripheral neuropathy.
 The incidence of peripheral neuropathy was higher among patients with mantle cell lymphoma (54%) compared to patients with multiple myeloma (36%).
 
-In the BORUZU vs dexamethasone Phase 3 relapsed multiple myeloma study, among the 62 BORUZU-treated patients who experienced ≥ Grade 2 peripheral neuropathy and had dose adjustments, 48% had improved or resolved with a median of 3.8 months from first onset.
+In the bortezomib vs dexamethasone Phase 3 relapsed multiple myeloma study, among the 62 bortezomib-treated patients who experienced ≥ Grade 2 peripheral neuropathy and had dose adjustments, 48% had improved or resolved with a median of 3.8 months from first onset.
 
-In the Phase 2 relapsed multiple myeloma studies, among the 30 patients who experienced Grade 2 peripheral neuropathy resulting in discontinuation or who experienced ≥ Grade 3 peripheral neuropathy, 73% reported improvement or resolution with a median time of 47 days to improvement of one grade or more from the last dose of BORUZU.
+In the Phase 2 relapsed multiple myeloma studies, among the 30 patients who experienced Grade 2 peripheral neuropathy resulting in discontinuation or who experienced ≥ Grade 3 peripheral neuropathy, 73% reported improvement or resolution with a median time of 47 days to improvement of one grade or more from the last dose of bortezomib.
 
 Hypotension
 
-The incidence of hypotension (postural, orthostatic and hypotension NOS) was 8% in patients treated with BORUZU.
+The incidence of hypotension (postural, orthostatic and hypotension NOS) was 8% in patients treated with bortezomib.
 Hypotension was Grade 1 or 2 in the majority of patients and Grade 3 in 2% and ≥ Grade 4 in < 1%.
 Two percent (2%) of patients had hypotension reported as a serious adverse reaction, and 1% discontinued due to hypotension.
 The incidence of hypotension was similar in patients with multiple myeloma (8%) and those with mantle cell lymphoma (9%).
@@ -334,7 +334,7 @@ In addition, < 1% of patients experienced hypotension associated with a syncopal
 
 Neutropenia
 
-Neutrophil counts decreased during the BORUZU dosing period (Days 1 to 11) and returned toward baseline during the ten day rest period during each treatment cycle.
+Neutrophil counts decreased during the bortezomib dosing period (Days 1 to 11) and returned toward baseline during the ten day rest period during each treatment cycle.
 Overall, neutropenia occurred in 15% of patients and was Grade 3 in 8% of patients and ≥ Grade 4 in 2%.
 Neutropenia was reported as a serious adverse reaction in < 1% of patients and < 1% of patients discontinued due to neutropenia.
 The incidence of neutropenia was higher in patients with multiple myeloma (16%) compared to patients with mantle cell lymphoma (5%).
@@ -352,21 +352,21 @@ Pyrexia
 
 Pyrexia (> 38○C) was reported as an adverse reaction for 21% of patients.
 The reaction was Grade 3 in 1% and ≥ Grade 4 in < 1%.
-Pyrexia was reported as a serious adverse reaction in 3% of patients and led to BORUZU discontinuation in < 1% of patients.
+Pyrexia was reported as a serious adverse reaction in 3% of patients and led to bortezomib discontinuation in < 1% of patients.
 The incidence of pyrexia was higher among patients with multiple myeloma (23%) compared to patients with mantle cell lymphoma (10%).
 The incidence of ≥ Grade 3 pyrexia was 1% in patients with multiple myeloma and < 1% in patients with mantle cell lymphoma.
 
 Herpes Virus Infection
 
-Consider using antiviral prophylaxis in subjects being treated with BORUZU.
-In the randomized studies in previously untreated and relapsed multiple myeloma, herpes zoster reactivation was more common in subjects treated with BORUZU (ranging between 6 to 11%) than in the control groups (3 to 4%).
-Herpes simplex was seen in 1 to 3% in subjects treated with BORUZU and 1 to 3% in the control groups.
-In the previously untreated multiple myeloma study, herpes zoster virus reactivation in the BORUZU, melphalan and prednisone arm was less common in subjects receiving prophylactic antiviral therapy (3%) than in subjects who did not receive prophylactic antiviral therapy (17%).
+Consider using antiviral prophylaxis in subjects being treated with bortezomib.
+In the randomized studies in previously untreated and relapsed multiple myeloma, herpes zoster reactivation was more common in subjects treated with bortezomib (ranging between 6 to 11%) than in the control groups (3 to 4%).
+Herpes simplex was seen in 1 to 3% in subjects treated with bortezomib and 1 to 3% in the control groups.
+In the previously untreated multiple myeloma study, herpes zoster virus reactivation in the bortezomib, melphalan and prednisone arm was less common in subjects receiving prophylactic antiviral therapy (3%) than in subjects who did not receive prophylactic antiviral therapy (17%).
 
 Retreatment in Relapsed Multiple Myeloma
 
-A single-arm trial was conducted in 130 patients with relapsed multiple myeloma to determine the efficacy and safety of retreatment with intravenous BORUZU.
-The safety profile of patients in this trial is consistent with the known safety profile of BORUZU-treated patients with relapsed multiple myeloma as demonstrated in Tables 10, 11, and 13; no cumulative toxicities were observed upon retreatment.
+A single-arm trial was conducted in 130 patients with relapsed multiple myeloma to determine the efficacy and safety of retreatment with intravenous bortezomib.
+The safety profile of patients in this trial is consistent with the known safety profile of bortezomib-treated patients with relapsed multiple myeloma as demonstrated in Tables 10, 11, and 13; no cumulative toxicities were observed upon retreatment.
 The most common adverse drug reaction was thrombocytopenia which occurred in 52% of the patients.
 The incidence of ≥ Grade 3 thrombocytopenia was 24%.
 Peripheral neuropathy occurred in 28% of patients, with the incidence of ≥ Grade 3 peripheral neuropathy reported at 6%.
@@ -376,11 +376,11 @@ The most commonly reported serious adverse reactions were thrombocytopenia (3.8%
 Adverse reactions leading to discontinuation occurred in 13% of patients.
 The reasons for discontinuation included peripheral neuropathy (5%) and diarrhea (3%).
 
-Two deaths considered to be BORUZU-related occurred within 30 days of the last BORUZU dose; one in a patient with cerebrovascular accident and one in a patient with sepsis.
+Two deaths considered to be bortezomib-related occurred within 30 days of the last bortezomib dose; one in a patient with cerebrovascular accident and one in a patient with sepsis.
 
 Additional Adverse Reactions from Clinical Studies
 
-The following clinically important serious adverse reactions that are not described above have been reported in clinical trials in patients treated with BORUZU administered as monotherapy or in combination with other chemotherapeutics.
+The following clinically important serious adverse reactions that are not described above have been reported in clinical trials in patients treated with bortezomib administered as monotherapy or in combination with other chemotherapeutics.
 These studies were conducted in patients with hematological malignancies and in solid tumors.
 
 Blood and Lymphatic System Disorders: Anemia, disseminated intravascular coagulation, febrile neutropenia, lymphopenia, leukopenia
@@ -423,7 +423,7 @@ Vascular Disorders: Cerebrovascular accident, cerebral hemorrhage, deep venous t
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified from the worldwide postmarketing experience with BORUZU.
+The following adverse reactions have been identified from the worldwide postmarketing experience with bortezomib.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure:
 
 Cardiac Disorders: Cardiac tamponade
