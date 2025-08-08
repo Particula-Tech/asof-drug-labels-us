@@ -2,10 +2,8 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category C:
-
-There are no adequate and well-controlled studies of Edluar in pregnant women.
-Edluar should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+- Pregnancy Category C: There are no adequate and well-controlled studies of Edluar in pregnant women.
+  Edluar should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 Studies to assess the effects on children whose mothers took zolpidem during pregnancy have not been conducted.
 There is a published case report documenting the presence of zolpidem in human umbilical cord blood.
@@ -26,7 +24,7 @@ Edluar has no established use in labor and delivery [see Pregnancy (8.1)].
 ## 8.3 Nursing mothers
 
 Zolpidem is excreted into human milk.
-Studies in lactating mothers indicate that the t1/2 of zolpidem is similar to that in non-lactating women (2.6 ± 0.3 hours).
+Studies in lactating mothers indicate that the T1/2 of zolpidem is similar to that in non-lactating women (2.6 ± 0.3 hours).
 The effect of zolpidem on the nursing infant is not known.
 Caution should be exercised when Edluar is administered to a nursing mother.
 
@@ -55,4 +53,4 @@ Of these 28 patients, 23 (82%) were receiving zolpidem doses >10 mg.
 A total of 24/1,959 (1.2%) non-U.S. patients receiving zolpidem reported confusion, including 18/24 (75%) who were ≥70 years of age.
 Of these 18 patients, 14 (78%) were receiving zolpidem doses >10 mg.
 
-The dose of Edluar in elderly patients is 5 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative/hypnotic drugs [see Dosage and Administration (2), Warnings and Precautions (5), Clinical Pharmacology (12) and Clinical Studies (14)].
+The dose of Edluar in elderly patients is 5 mg to minimize adverse effects related to impaired motor and/or cognitive performance and unusual sensitivity to sedative/hypnotic drugs [see Dosage and Administration (2), Warnings and Precautions (5) Clinical Pharmacology (12) and Clinical Studies (14)].

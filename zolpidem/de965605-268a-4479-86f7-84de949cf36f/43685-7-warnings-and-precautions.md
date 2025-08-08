@@ -23,12 +23,12 @@ Visual and auditory hallucinations have been reported as well as behavioral chan
 In controlled trials, <1% of adults with insomnia who received zolpidem tartrate reported hallucinations.
 In a clinical trial, 7.4% of pediatric patients with insomnia associated with attention-deficit/hyperactivity disorder (ADHD), who received zolpidem reported hallucinations [see Use in Specific Populations (8.4)].
 
-Complex behaviors such as "sleep-driving" (i.e., driving while not fully awake after ingestion of a sedative-hypnotic, with amnesia for the event) have been reported with sedative-hypnotics, including zolpidem tartrate.
+Complex behaviors such as “sleep-driving” (i.e., driving while not fully awake after ingestion of a sedative-hypnotic, with amnesia for the event) have been reported with sedative-hypnotics, including zolpidem tartrate.
 These events can occur in sedative-hypnotic-naive as well as in sedative-hypnotic-experienced persons.
-Although behaviors such as "sleep-driving" may occur with Edluar alone at therapeutic doses, the use of alcohol and other CNS depressants with Edluar appears to increase the risk of such behaviors, as does the use of Edluar at doses exceeding the maximum recommended dose.
-Due to the risk to the patient and the community, discontinuation of Edluar should be strongly considered for patients who report a "sleep-driving" episode.
+Although behaviors such as “sleep-driving” may occur with Edluar alone at therapeutic doses, the use of alcohol and other CNS depressants with Edluar appears to increase the risk of such behaviors, as does the use of Edluar at doses exceeding the maximum recommended dose.
+Due to the risk to the patient and the community, discontinuation of Edluar should be strongly considered for patients who report a “sleep-driving” episode.
 Other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex) have been reported in patients who are not fully awake after taking a sedative-hypnotic.
-As with "sleep-driving", patients usually do not remember these events.
+As with “sleep-driving”, patients usually do not remember these events.
 Amnesia, anxiety and other neuro-psychiatric symptoms may occur unpredictably.
 
 In primarily depressed patients, worsening of depression, including suicidal thoughts and actions (including completed suicides), has been reported in association with the use of sedative/hypnotics.
@@ -49,37 +49,27 @@ Zolpidem tartrate showed additive effects when combined with alcohol and should 
 Patients should also be cautioned about possible combined effects with other CNS-depressant drugs.
 Dosage adjustments of Edluar may be necessary when Edluar is administered with such agents because of the potentially additive effects.
 
-## 5.6 Special populations
+## 5.6 Special Populations
 
-Use in the elderly and/or debilitated patients:
-
-Impaired motor and/or cognitive performance after repeated exposure or unusual sensitivity to sedative/hypnotic drugs is a concern in the treatment of elderly and/or debilitated patients.
-Therefore, the recommended Edluar dosage is 5 mg in the elderly and/or debilitated patients [see Dosage and Administration (2.2) and Geriatric Use (8.5)] to decrease the possibility of side effects.
-These patients should be closely monitored.
-
-Use in patients with concomitant illness:
-
-Clinical experience with zolpidem tartrate in patients with concomitant systemic illness is limited.
-Caution is advisable in using Edluar in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
-Although studies did not reveal respiratory depressant effects at hypnotic doses of zolpidem tartrate in normal subjects or in patients with mild to moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index together with a reduction in lowest oxygen saturation and increase in the times of oxygen desaturation below 80% and 90% was observed in patients with mild-to-moderate sleep apnea when treated with zolpidem tartrate (10 mg) when compared to placebo.
-Since sedative/hypnotics have the capacity to depress respiratory drive, precautions should be taken if Edluar is prescribed to patients with compromised respiratory function.
-Edluar should be used with caution in patients with sleep apnea syndrome or myasthenia gravis.
-Post-marketing reports of respiratory insufficiency following treatment with zolpidem tartrate, most of which involved patients with pre-existing respiratory impairment, have been received.
+- Use in the elderly and/or debilitated patients: Impaired motor and/or cognitive performance after repeated exposure or unusual sensitivity to sedative/hypnotic drugs is a concern in the treatment of elderly and/or debilitated patients.
+  Therefore, the recommended Edluar dosage is 5 mg in the elderly and/or debilitated patients [see Dosage and Administration (2.2) and Geriatric Use (8.5)] to decrease the possibility of side effects.
+  These patients should be closely monitored.
+- Use in patients with concomitant illness: Clinical experience with zolpidem tartrate in patients with concomitant systemic illness is limited.
+  Caution is advisable in using Edluar in patients with diseases or conditions that could affect metabolism or hemodynamic responses.
+  Although studies did not reveal respiratory depressant effects at hypnotic doses of zolpidem tartrate in normal subjects or in patients with mild to moderate chronic obstructive pulmonary disease (COPD), a reduction in the Total Arousal Index together with a reduction in lowest oxygen saturation and increase in the times of oxygen desaturation below 80% and 90% was observed in patients with mild-to-moderate sleep apnea when treated with zolpidem tartrate (10 mg) when compared to placebo.
+  Since sedative/hypnotics have the capacity to depress respiratory drive, precautions should be taken if Edluar is prescribed to patients with compromised respiratory function.
+  Edluar should be used with caution in patients with sleep apnea syndrome or myasthenia gravis.
+  Post-marketing reports of respiratory insufficiency following treatment with zolpidem tartrate, most of which involved patients with pre-existing respiratory impairment, have been received.
 
 Data in end-stage renal failure patients repeatedly treated with zolpidem tartrate did not demonstrate drug accumulation or alterations in pharmacokinetic parameters.
 No dosage adjustment of Edluar in renally impaired patients is required; however, these patients should be closely monitored [see Clinical Pharmacology (12.3)].
 
 A study in subjects with hepatic impairment treated with zolpidem tartrate did reveal prolonged elimination in this group; therefore, treatment with Edluar should be initiated with 5 mg in patients with hepatic compromise, and they should be closely monitored [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
 
-Use in patients with depression:
-
-As with other sedative/hypnotic drugs, Edluar should be administered with caution to patients exhibiting signs or symptoms of depression.
-Suicidal tendencies may be present in such patients and protective measures may be required.
-Intentional over-dosage is more common in this group of patients; therefore, the least amount of drug that is feasible should be prescribed for the patient at any one time.
-
-Pediatric patients:
-
-Edluar is not recommended for use in children.
-Safety and effectiveness of Edluar have not been established in pediatric patients below the age of 18.
-In an 8-week study in pediatric patients (aged 6-17 years) with insomnia associated with ADHD, an oral solution of zolpidem did not decrease sleep latency compared to placebo.
-Hallucinations were reported in 7.4% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [see Use in Specific Populations (8.4)].
+- Use in patients with depression: As with other sedative/hypnotic drugs, Edluar should be administered with caution to patients exhibiting signs or symptoms of depression.
+  Suicidal tendencies may be present in such patients and protective measures may be required.
+  Intentional over-dosage is more common in this group of patients; therefore, the least amount of drug that is feasible should be prescribed for the patient at any one time.
+- Pediatric patients: Edluar is not recommended for use in children.
+  Safety and effectiveness of Edluar have not been established in pediatric patients below the age of 18.
+  In an 8-week study in pediatric patients (aged 6-17 years) with insomnia associated with ADHD, an oral solution of zolpidem did not decrease sleep latency compared to placebo.
+  Hallucinations were reported in 7.4% of the pediatric patients who received zolpidem; none of the pediatric patients who received placebo reported hallucinations [see Use in Specific Populations (8.4)].

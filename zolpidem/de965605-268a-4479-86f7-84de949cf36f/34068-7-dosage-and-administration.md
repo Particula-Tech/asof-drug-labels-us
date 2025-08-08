@@ -7,7 +7,7 @@ The dose of Edluar should be individualized.
 The recommended dose for Edluar for adults is 10 mg once daily immediately before bedtime.
 The total Edluar daily dose should not exceed 10 mg.
 
-## 2.2 Special populations
+## 2.2 Special Populations
 
 Elderly or debilitated patients may be especially sensitive to the effects of zolpidem tartrate.
 Patients with hepatic insufficiency do not clear the drug as rapidly as normal subjects.

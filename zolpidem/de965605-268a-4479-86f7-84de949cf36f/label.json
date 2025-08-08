@@ -1,7 +1,9 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA021997"
+  ],
   "inn": "zolpidem",
-  "labeler": "Meda Pharmaceuticals",
+  "labeler": "Orexo AB",
   "package_ndcs": [
     "42447-112-01",
     "42447-112-03",
@@ -10,7 +12,13 @@
     "42447-122-03",
     "42447-122-10"
   ],
-  "products": [],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "zolpidem tartrate",
+      "name": "Edluar"
+    }
+  ],
   "setid": "de965605-268a-4479-86f7-84de949cf36f",
   "source": "dailymed"
 }

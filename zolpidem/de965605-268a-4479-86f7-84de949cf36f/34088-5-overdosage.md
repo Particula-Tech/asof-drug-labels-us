@@ -8,7 +8,7 @@ In postmarketing experience of overdose with zolpidem tartrate alone, or in comb
 
 Based on data obtained for zolpidem tartrate, general symptomatic and supportive measures for overdose with Edluar should be used along with immediate gastric lavage where appropriate.
 Intravenous fluids should be administered as needed.
-Zolpidem's sedative hypnotic effect was shown to be reduced by flumazenil and therefore may be useful; however, flumazenil administration may contribute to the appearance of neurological symptoms (convulsions).
+Zolpidem’s sedative/hypnotic effect was shown to be reduced by flumazenil and therefore may be useful; however, flumazenil administration may contribute to the appearance of neurological symptoms (convulsions).
 As in all cases of drug overdose, respiration, pulse, blood pressure, and other appropriate signs should be monitored and general supportive measures employed.
 Hypotension and CNS depression should be monitored and treated by appropriate medical intervention.
 Sedating drugs should be withheld following zolpidem overdosage, even if excitation occurs.
