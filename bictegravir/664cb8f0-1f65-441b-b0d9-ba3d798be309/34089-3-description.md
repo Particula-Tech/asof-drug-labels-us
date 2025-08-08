@@ -14,7 +14,7 @@ BIKTARVY tablets are available in two dose strengths:
 Both dose strengths of BIKTARVY tablets include the following inactive ingredients: croscarmellose sodium, magnesium stearate, and microcrystalline cellulose.
 The tablets for both dose strengths are film-coated with a coating material containing iron oxide black, iron oxide red, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide.
 
-Bictegravir: The chemical name of bictegravir sodium is 2,5-Methanopyrido[1',2':4,5]pyrazino[2,1-b][1,3]oxazepine-10-carboxamide, 2,3,4,5,7,9,13,13a-octahydro-8-hydroxy-7,9-dioxo-N-[(2,4,6-trifluorophenyl)methyl]-, sodium salt (1:1), (2R,5S,13aR)-.
+Bictegravir: The chemical name of bictegravir sodium is 2,5-Methanopyrido[1’,2’:4,5]pyrazino[2,1-b][1,3]oxazepine-10-carboxamide, 2,3,4,5,7,9,13,13a-octahydro-8-hydroxy-7,9-dioxo-N-[(2,4,6-trifluorophenyl)methyl]-, sodium salt (1:1), (2R,5S,13aR)-.
 
 Bictegravir sodium has a molecular formula of C21H17F3N3NaO5 and a molecular weight of 471.4 and has the following structural formula:
 
@@ -29,6 +29,6 @@ FTC is a white to off-white powder with a solubility of approximately 112 mg per
 
 Tenofovir alafenamide: The chemical name of tenofovir alafenamide fumarate drug substance is L-alanine, N-[(S)-[[(1R)-2-(6-amino-9H-purin-9-yl)-1-methylethoxy]methyl]phenoxyphosphinyl]-, 1-methylethyl ester, (2E)-2-butenedioate (2:1).
 
-Tenofovir alafenamide fumarate has an empirical formula of C21H29O5N6P∙½(C4H4O4) and a formula weight of 534.5 and has the following structural formula:
+Tenofovir alafenamide fumarate has an empirical formula of C21H29O5N6P•½(C4H4O4) and a formula weight of 534.5 and has the following structural formula:
 
 Tenofovir alafenamide fumarate is a white to off-white or tan powder with a solubility of 4.7 mg per mL in water at 20 °C.

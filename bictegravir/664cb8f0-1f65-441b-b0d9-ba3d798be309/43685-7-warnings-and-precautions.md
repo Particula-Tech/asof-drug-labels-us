@@ -1,11 +1,11 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Severe Acute Exacerbation of Hepatitis B in Patients Coinfected with HIV-1 and HBV
+## 5.1 Severe Acute Exacerbation of Hepatitis B in Patients with HIV-1 and HBV
 
-Patients with HIV-1 should be tested for the presence of chronic hepatitis B virus (HBV) infection before or when initiating antiretroviral therapy [see Dosage and Administration (2.1)].
+Patients with HIV-1 should be tested for the presence of chronic hepatitis B virus (HBV) before or when initiating antiretroviral therapy [see Dosage and Administration (2.1)].
 
-Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver failure) have been reported in patients who are coinfected with HIV-1 and HBV and have discontinued products containing FTC and/or tenofovir disoproxil fumarate (TDF), and may occur with discontinuation of BIKTARVY.
-Patients coinfected with HIV-1 and HBV who discontinue BIKTARVY should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
+Severe acute exacerbations of hepatitis B (e.g., liver decompensation and liver failure) have been reported in patients with HIV-1 and HBV who have discontinued products containing FTC and/or tenofovir disoproxil fumarate (TDF), and may occur with discontinuation of BIKTARVY.
+Patients with HIV-1 and HBV who discontinue BIKTARVY should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment.
 If appropriate, anti-hepatitis B therapy may be warranted, especially in patients with advanced liver disease or cirrhosis, since post-treatment exacerbation of hepatitis may lead to hepatic decompensation and liver failure.
 
 ## 5.2 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions
@@ -23,7 +23,7 @@ Consider the potential for drug interactions prior to and during BIKTARVY therap
 Immune reconstitution syndrome has been reported in patients treated with combination antiretroviral therapy.
 During the initial phase of combination antiretroviral treatment, patients whose immune system responds may develop an inflammatory response to indolent or residual opportunistic infections [such as Mycobacterium avium infection, cytomegalovirus, Pneumocystis jirovecii pneumonia (PCP), or tuberculosis], which may necessitate further evaluation and treatment.
 
-Autoimmune disorders (such as Graves' disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
+Autoimmune disorders (such as Graves’ disease, polymyositis, Guillain-Barré syndrome, and autoimmune hepatitis) have also been reported to occur in the setting of immune reconstitution; however, the time to onset is more variable, and can occur many months after initiation of treatment.
 
 ## 5.4 New Onset or Worsening Renal Impairment
 

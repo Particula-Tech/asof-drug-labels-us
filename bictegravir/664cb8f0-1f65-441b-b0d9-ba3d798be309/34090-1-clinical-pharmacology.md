@@ -8,13 +8,13 @@ BIKTARVY is a fixed dose combination of antiretroviral drugs bictegravir (BIC), 
 
 Cardiac Electrophysiology
 
-In a thorough QT/QTc trial in 48 healthy subjects, BIC at doses 1.5 and 6 times the recommended dose did not affect the QT/QTc interval and did not prolong the PR interval.
-In a thorough QT/QTc trial in 48 healthy subjects, TAF at the recommended dose or at a dose 5 times the recommended dose, did not affect the QT/QTc interval and did not prolong the PR interval.
+In a thorough QT/QTc trial in 48 healthy participants, BIC at doses 1.5 and 6 times the recommended dose did not affect the QT/QTc interval and did not prolong the PR interval.
+In a thorough QT/QTc trial in 48 healthy participants, TAF at the recommended dose or at a dose 5 times the recommended dose, did not affect the QT/QTc interval and did not prolong the PR interval.
 The effect of FTC on the QT interval is not known.
 
 Effects on Serum Creatinine
 
-Mean change from baseline in serum creatinine in healthy subjects who received BIC 75 mg (1.5 times the approved recommended dosage) once daily with food for 14 days was 0.1 mg per dL on Days 7 and 14 compared to placebo.
+Mean change from baseline in serum creatinine in healthy participants who received BIC 75 mg (1.5 times the approved recommended dosage) once daily with food for 14 days was 0.1 mg per dL on Days 7 and 14 compared to placebo.
 BIC did not have a significant effect on the estimated creatinine clearance or on the actual glomerular filtration rate (determined by the clearance of probe drug, iohexol).
 
 ## 12.3 Pharmacokinetics
@@ -34,7 +34,7 @@ Table 4 Pharmacokinetic Properties of the Components of BIKTARVY
 | % bound to human plasma proteins |  | >99 | <4 | ~80 |
 | Blood-to-plasma ratio |  | 0.64 | 0.6 | 1.0 |
 | Elimination |  |  |  |  |
-| t1/2 (h)t1/2 values refer to median (Q1, Q3) terminal plasma half-life. Note that the active metabolite of TAF, tenofovir diphosphate, has a half-life of 150–180 hours within PBMCs. |  | 17.3 (14.8, 20.7) | 10.4 (9.0, 12.0) | 0.51 (0.45, 0.62) |
+| t1/2 (h)t1/2 values refer to median (Q1, Q3) terminal plasma half-life. Note that the active metabolite of TAF, tenofovir diphosphate, has a half-life of 150-180 hours within PBMCs. |  | 17.3 (14.8, 20.7) | 10.4 (9.0, 12.0) | 0.51 (0.45, 0.62) |
 | Metabolism |  |  |  |  |
 | Metabolic pathway(s) |  | CYP3A UGT1A1 | Not significantly metabolized | Cathepsin AIn vivo, TAF is hydrolyzed within cells to form tenofovir (major metabolite), which is phosphorylated to the active metabolite, tenofovir diphosphate. In vitro studies have shown that TAF is metabolized to tenofovir by cathepsin A in PBMCs and macrophages; and by CES1 in hepatocytes. (PBMCs) CES1 (hepatocytes) |
 | Excretion |  |  |  |  |
@@ -48,7 +48,7 @@ Table 5 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administ
 | Parameter Mean (CV%) | Bictegravir | Emtricitabine | Tenofovir Alafenamide |
 | --- | --- | --- | --- |
 | Cmax (microgram per mL) | 6.15 (22.9) | 2.13 (34.7) | 0.121 (15.4) |
-| AUCtau (microgram∙h per mL) | 102 (26.9) | 12.3 (29.2) | 0.142 (17.3) |
+| AUCtau (microgram•h per mL) | 102 (26.9) | 12.3 (29.2) | 0.142 (17.3) |
 | Ctrough (microgram per mL) | 2.61 (35.2) | 0.096 (37.4) | NA |
 | CV=Coefficient of Variation; NA=Not Applicable |  |  |  |
 
@@ -56,61 +56,61 @@ Specific Populations
 
 Patients with Renal Impairment
 
-No clinically relevant differences in the pharmacokinetics of BIC, TAF, or its metabolite tenofovir were observed between subjects with severe renal impairment (estimated creatinine clearance of 15 to less than 30 mL/min, by Cockcroft-Gault method) and healthy subjects in Phase 1 studies.
-In a separate Phase 1 study of FTC alone, FTC exposures were increased in subjects with severe renal impairment.
+No clinically relevant differences in the pharmacokinetics of BIC, TAF, or its metabolite tenofovir were observed between participants with severe renal impairment (estimated creatinine clearance of 15 to less than 30 mL/min, by Cockcroft-Gault method) and healthy participants in Phase 1 studies.
+In a separate Phase 1 study of FTC alone, FTC exposures were increased in participants with severe renal impairment.
 
-The pharmacokinetics of BIC, FTC and TAF were evaluated in a subset of HIV-1 infected virologically-suppressed subjects with ESRD (estimated creatinine clearance less than 15 mL/min, by Cockcroft-Gault method) receiving chronic hemodialysis in Trial 1825.
-The pharmacokinetics of TAF were similar between healthy subjects and subjects with ESRD receiving chronic hemodialysis; increases in FTC and tenofovir exposures in subjects with ESRD were not considered clinically relevant.
-Median (minimum, maximum) BIC Ctrough values in subjects (n=7) with ESRD who received BIKTARVY were 846 ng/mL (288, 1810) compared to 2540 ng/mL (757, 6499) in subjects (N=584) with normal renal function.
+The pharmacokinetics of BIC, FTC and TAF were evaluated in a subset of HIV-1 infected virologically-suppressed participants with ESRD (estimated creatinine clearance less than 15 mL/min, by Cockcroft-Gault method) receiving chronic hemodialysis in Trial 1825.
+The pharmacokinetics of TAF were similar between healthy participants and participants with ESRD receiving chronic hemodialysis; increases in FTC and tenofovir exposures in participants with ESRD were not considered clinically relevant.
+Median (minimum, maximum) BIC Ctrough values in participants (n=7) with ESRD who received BIKTARVY were 846 ng/mL (288, 1810) compared to 2540 ng/mL (757, 6499) in participants (N=584) with normal renal function.
 Despite significantly lower BIC Ctrough values in the virologically-suppressed ESRD population, virologic suppression was maintained [see Use in Specific Populations (8.6), and Clinical Studies (14.3)].
 
 Patients with Hepatic Impairment
 
-Bictegravir: Clinically relevant changes in the pharmacokinetics of BIC were not observed in subjects with moderate (Child-Pugh Class B) hepatic impairment.
+Bictegravir: Clinically relevant changes in the pharmacokinetics of BIC were not observed in participants with moderate (Child-Pugh Class B) hepatic impairment.
 
-Emtricitabine: The pharmacokinetics of FTC has not been studied in subjects with hepatic impairment; however, FTC is not significantly metabolized by liver enzymes, so the impact of hepatic impairment should be limited.
+Emtricitabine: The pharmacokinetics of FTC has not been studied in participants with hepatic impairment; however, FTC is not significantly metabolized by liver enzymes, so the impact of hepatic impairment should be limited.
 
-Tenofovir Alafenamide: Clinically relevant changes in the pharmacokinetics of TAF or its metabolite tenofovir were not observed in subjects with mild or moderate (Child-Pugh Class A and B) hepatic impairment [see Use in Specific Populations (8.7)].
+Tenofovir Alafenamide: Clinically relevant changes in the pharmacokinetics of TAF or its metabolite tenofovir were not observed in participants with mild or moderate (Child-Pugh Class A and B) hepatic impairment [see Use in Specific Populations (8.7)].
 
 Hepatitis B and/or Hepatitis C Virus Coinfection
 
-The pharmacokinetics of BIC, FTC, and TAF have not been evaluated in subjects coinfected with hepatitis B and/or C virus.
+The pharmacokinetics of BIC, FTC, and TAF have not been evaluated in participants with hepatitis B and/or C virus.
 
 Geriatric Patients
 
 The pharmacokinetics of BIC, FTC, and TAF have not been fully evaluated in the elderly (65 years of age and older).
-Population pharmacokinetics analysis of HIV-infected subjects in Phase 3 trials of BIKTARVY showed that age did not have a clinically relevant effect on exposures of BIC and TAF up to 74 years of age [see Use in Specific Populations (8.5)].
+Population pharmacokinetics analysis of HIV-infected participants in Phase 3 trials of BIKTARVY showed that age did not have a clinically relevant effect on exposures of BIC and TAF up to 74 years of age [see Use in Specific Populations (8.5)].
 
 Pediatric Patients
 
 Mean BIC Ctrough was lower in 50 pediatric patients aged 12 to less than 18 years and weighing at least 35 kg who received BIKTARVY in Trial 1474 relative to adults following administration of BIKTARVY, but was not considered clinically significant based on exposure-response relationships; exposures of FTC and TAF in these pediatric patients were similar to those in adults (Table 6).
 
-Table 6 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in HIV-Infected Pediatric Subjects Aged 12 to less than 18 years
+Table 6 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in Pediatric Participants with HIV-1 Aged 12 to less than 18 years
 
 | Parameter Mean (CV%) | BictegravirFrom Population PK analysis of cohort 1 of Trial 1474 (n=50 for BIC; n=49 for TAF). | EmtricitabineFrom Intensive PK analysis of cohort 1 of Trial 1474 (n=24). | Tenofovir Alafenamide |
 | --- | --- | --- | --- |
 | Cmax (microgram per mL) | 6.24 (27.1) | 2.69 (34.0) | 0.133 (70.2) |
-| AUCtau (microgram∙h per mL) | 89.1 (31.0) | 13.6 (21.7) | 0.196 (50.3) |
+| AUCtau (microgram•h per mL) | 89.1 (31.0) | 13.6 (21.7) | 0.196 (50.3) |
 | Ctrough (microgram per mL) | 1.78 (44.4) | 0.064 (25.0) | NA |
 | CV=Coefficient of Variation; NA=Not Applicable |  |  |  |
 
 Mean BIC Cmax, and exposures of FTC and TAF (AUCtau and Cmax) achieved in 50 pediatric patients between the ages of 6 to less than 12 years and weighing at least 25 kg, and in 22 pediatric patients at least 2 years of age and weighing at least 14 to less than 25 kg who received BIKTARVY in Trial 1474 were higher than exposures in adults; however, the increases were not considered clinically significant as the safety profiles were similar in adult and pediatric patients (Tables 7 and 8) [see Use in Specific Populations (8.4)].
 
-Table 7 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in HIV-Infected Pediatric Subjects Aged 6 to less than 12 years
+Table 7 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in Pediatric Participants with HIV-1 Aged 6 to less than 12 years
 
 | Parameter Mean (CV%) | BictegravirFrom Population PK analysis of cohort 2 of Trial 1474 (n=50 for BIC; n=47 for TAF). | EmtricitabineFrom Intensive PK analysis of cohort 2 of Trial 1474 (n=25 except n=24 for Ctrough). | Tenofovir Alafenamide |
 | --- | --- | --- | --- |
 | Cmax (microgram per mL) | 9.46 (24.3) | 3.89 (31.0) | 0.205 (44.6) |
-| AUCtau (microgram∙h per mL) | 128 (27.8) | 17.6 (36.9) | 0.278 (40.3) |
+| AUCtau (microgram•h per mL) | 128 (27.8) | 17.6 (36.9) | 0.278 (40.3) |
 | Ctrough (microgram per mL) | 2.36 (39.0) | 0.227 (323) | NA |
 | CV=Coefficient of Variation; NA=Not Applicable |  |  |  |
 
-Table 8 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in HIV-Infected Pediatric Subjects at Least 2 Years of AgeCohort 3 of Trial 1474 enrolled pediatric subjects from 3 to 9 years of age. and Weighing at Least 14 to Less than 25 kg
+Table 8 Multiple Dose PK Parameters of BIC, FTC, and TAF Following Oral Administration of BIKTARVY in Pediatric Participants with HIV-1 at Least 2 Years of AgeCohort 3 of Trial 1474 enrolled pediatric participants from 3 to 9 years of age. and Weighing at Least 14 to Less than 25 kg
 
 | Parameter Mean (CV%) | Bictegravir From Population PK analysis of cohort 3 of Trial 1474 (n=22). | EmtricitabineFrom Intensive PK analysis of cohort 3 of Trial 1474 (n=12 except n=11 for Ctrough for FTC). | Tenofovir Alafenamide |
 | --- | --- | --- | --- |
 | Cmax (microgram per mL) | 9.15 (44.8) | 3.85 (34.7) | 0.414 (31.0) |
-| AUCtau (microgram∙h per mL) | 126 (42.4) | 15.0 (21.9) | 0.305 (42.6) |
+| AUCtau (microgram•h per mL) | 126 (42.4) | 15.0 (21.9) | 0.305 (42.6) |
 | Ctrough (microgram per mL) | 2.43 (40.1) | 0.210 (243) | NA |
 | CV=Coefficient of Variation; NA=Not Applicable |  |  |  |
 
@@ -129,17 +129,17 @@ Table 9 Steady-state PK Parameters of BIC, FTC, and TAF Following Oral Administr
 | --- | --- | --- | --- |
 | Bictegravir |  |  |  |
 | Cmax (microgram per mL) | 5.82 (30.1) | 5.37 (25.9) | 11.03 (24.9) |
-| AUCtau (microgram∙h per mL) | 62.8 (32.2) | 60.2 (29.1) | 148.3 (28.5) |
-| Unbound AUCtauCalculated by correcting the individual AUCtau estimates by the % unbound fraction. (microgram∙h per mL) | 0.224 (42.0) | 0.219 (33.9) | 0.374 (32.2) |
+| AUCtau (microgram•h per mL) | 62.8 (32.2) | 60.2 (29.1) | 148.3 (28.5) |
+| Unbound AUCtauCalculated by correcting the individual AUCtau estimates by the % unbound fraction. (microgram•h per mL) | 0.224 (42.0) | 0.219 (33.9) | 0.374 (32.2) |
 | Ctrough (microgram per mL) | 1.05 (45.2) | 1.07 (41.7) | 3.64 (34.1) |
 | Emtricitabine |  |  |  |
 | Cmax (microgram per mL) | 2.64 (36.6) | 2.59 (26.5) | 3.36 (26.9) |
-| AUCtau (microgram∙h per mL) | 10.3 (20.0) | 10.4 (20.3) | 15.3 (21.9) |
+| AUCtau (microgram•h per mL) | 10.3 (20.0) | 10.4 (20.3) | 15.3 (21.9) |
 | Ctrough (microgram per mL) | 0.06 (103.9) | 0.05 (27.2) | 0.08 (33.7) |
 | Tenofovir Alafenamide |  |  |  |
 | Cmax (microgram per mL) | 0.33 (52.1) | 0.27 (42.1) | 0.49 (52.5) |
-| AUCtau (microgram∙h per mL) | 0.24 (45.6) | 0.21 (45.0) | 0.30 (31.8) |
-| Unbound AUCtau (microgram∙h per mL) | 0.015 (28.2) | 0.016 (28.4) | 0.017 (23.4) |
+| AUCtau (microgram•h per mL) | 0.24 (45.6) | 0.21 (45.0) | 0.30 (31.8) |
+| Unbound AUCtau (microgram•h per mL) | 0.015 (28.2) | 0.016 (28.4) | 0.017 (23.4) |
 | CV = Coefficient of Variation; NA = Not Available |  |  |  |
 
 Drug Interaction Studies
@@ -258,7 +258,7 @@ M50I, R263K, and M50I+R263K substitutions, when introduced into a wild-type viru
 In a second selection, emergence of amino acid substitutions T66I and S153F was detected, and 0.4-, 1.9-, and 0.5-fold reductions in BIC susceptibility were observed with T66I, S153F, and T66I+S153F, respectively.
 In addition, S24G and E157K substitutions emerged during the selection process.
 
-Emtricitabine: HIV-1 isolates with reduced susceptibility to FTC were selected in cell culture and in subjects treated with FTC.
+Emtricitabine: HIV-1 isolates with reduced susceptibility to FTC were selected in cell culture and in participants treated with FTC.
 Reduced susceptibility to FTC was associated with M184V or I substitutions in HIV-1 RT.
 
 Tenofovir Alafenamide: HIV-1 isolates with reduced susceptibility to TAF were selected in cell culture.
@@ -266,17 +266,17 @@ HIV-1 isolates selected by TAF expressed a K65R substitution in HIV-1 RT, someti
 
 In Clinical Trials
 
-In Subjects with No Antiretroviral Treatment History: Pooled results of genotypic resistance analyses were performed on paired baseline and on-treatment HIV-1 isolates from subjects receiving BIKTARVY in Trials 1489 and 1490 through Week 144 of the double-blind phase (N=634) or Week 96 of the extension phase (n=1025) [see Clinical Studies (14.2)] who had HIV-1 RNA greater than or equal to 200 copies/mL at the time of confirmed virologic failure or early study drug discontinuation.
-In the final resistance analysis population, no specific amino acid substitutions emerged consistently in the 11 treatment failure subjects with evaluable genotypic resistance data and failed to establish an association with genotypic BIC resistance.
+In Participants with No Antiretroviral Treatment History: Pooled results of genotypic resistance analyses were performed on paired baseline and on-treatment HIV-1 isolates from participants receiving BIKTARVY in Trials 1489 and 1490 through Week 144 of the double-blind phase (N=634) or Week 96 of the extension phase (n=1025) [see Clinical Studies (14.2)] who had HIV-1 RNA greater than or equal to 200 copies/mL at the time of confirmed virologic failure or early study drug discontinuation.
+In the final resistance analysis population, no specific amino acid substitutions emerged consistently in the 11 participants with treatment failure and with evaluable genotypic resistance data and failed to establish an association with genotypic BIC resistance.
 There were no treatment-emergent NRTI resistance-associated substitutions detected in the 11 evaluated treatment failure isolates.
 Phenotypic resistance analyses of failure isolates found fold-changes in drug susceptibility below the biological or clinical cutoffs for BIC, FTC, and TFV, compared to wild-type reference HIV-1.
 
-In Virologically Suppressed Adult Subjects: In 2 of the switch trials, Trials 1844 and 1878, of virologically suppressed HIV-1 infected subjects (n=572), only one subject with virologic rebound in the resistance analysis population had IN genotypic and phenotypic data, and 2 rebounders had RT genotypic and phenotypic data.
-No subjects had HIV-1 with treatment-emergent genotypic or phenotypic resistance to BIC, FTC, or TAF.
-In Trial 4030, no subjects receiving BIKTARVY had treatment-emergent phenotypic resistance to BIC, FTC, or TAF.
+In Virologically-Suppressed Adult participants: In 2 of the switch trials, Trials 1844 and 1878, of virologically suppressed HIV-1 infected participants (n=572), only one participants with virologic rebound in the resistance analysis population had IN genotypic and phenotypic data, and 2 rebounders had RT genotypic and phenotypic data.
+No participants had HIV-1 with treatment-emergent genotypic or phenotypic resistance to BIC, FTC, or TAF.
+In Trial 4030, no participants receiving BIKTARVY had treatment-emergent phenotypic resistance to BIC, FTC, or TAF.
 
-In Virologically Suppressed Pediatric Subjects: In Trial 1474 [see Clinical Studies (14.4)], two of 50 subjects in cohort 1 were evaluated for the development of resistance through Week 48; no amino acid substitutions known to be associated with resistance to BIC, FTC, or TFV were detected.
-No subjects in cohort 2 or 3 met the criteria for resistance analyses through Week 24.
+In Virologically-Suppressed Pediatric Participants: In Trial 1474 [see Clinical Studies (14.4)], two of 50 participants in cohort 1 were evaluated for the development of resistance through Week 48; no amino acid substitutions known to be associated with resistance to BIC, FTC, or TFV were detected.
+No participants in cohort 2 or 3 met the criteria for resistance analyses through Week 24.
 
 Cross-Resistance
 
