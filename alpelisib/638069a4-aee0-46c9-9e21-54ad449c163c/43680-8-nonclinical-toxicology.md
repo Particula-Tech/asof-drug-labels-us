@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Carcinogenicity studies have not been conducted with alpelisib.
+Alpelisib was not carcinogenic in a 2-year carcinogenicity study conducted in rats when administered by daily oral gavage at doses up to 4 mg/kg (approximately 0.5 to 0.2 times the initial recommended doses of 50 mg and 250 mg in pediatric and adult patients, respectively, based on BSA).
 
 Alpelisib was not mutagenic in an in vitro bacterial reverse mutation (Ames) assay, or aneugenic or clastogenic in human cell micronucleus and chromosome aberration tests.
 Alpelisib was not genotoxic in an in vivo rat micronucleus test.

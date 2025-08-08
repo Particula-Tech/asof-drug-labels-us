@@ -16,12 +16,3 @@ If unable to use alternative drugs, when VIJOICE is used in combination with BCR
 
 Alpelisib is transported by BCRP.
 Concomitant use of VIJOICE with a BCRP inhibitor may increase alpelisib exposure [see Clinical Pharmacology (12.3)], which may increase the risk of adverse reactions.
-
-## 7.2 Effect of VIJOICE on Other Drugs
-
-CYP2C9 Substrates
-
-Closely monitor CYP2C9 substrates where minimal concentration changes of the CYP2C9 substrate may reduce activity when used concomitantly with VIJOICE.
-
-Alpelisib induces CYP2C9.
-Concomitant use of VIJOICE with CYP2C9 substrates may reduce exposure of these drugs, which may reduce activity [see Clinical Pharmacology (12.3)].

@@ -85,6 +85,10 @@ Table 11: Laboratory Abnormalities Worsening from Baseline in ≥ 10% of Patient
 | Decreased platelets | 14 | 2b |
 | Grading according to CTCAE Version 4.03. Abbreviation: N/A, not available. aThe denominator used to calculate the rate varied from 9 to 50 based on the number of patients with a baseline value and at least one post-treatment value. bNo Grade 4 laboratory abnormalities were reported. cGlucose increase is an expected laboratory abnormality of PI3K inhibition. dNo CTCAE grade available. For HbA1c, baseline values increasing post-treatment to a value above the upper limit of the normal range (≥ 5.7%) are considered increased. |  |  |
 
+Other Clinical Trials Experience
+
+The following additional adverse reactions and laboratory abnormality have been identified following administration of VIJOICE: hypersensitivity, lipase increased, dermatitis, and abdominal pain.
+
 ## 6.2 Postmarketing Experience and Other Spontaneous Adverse Reaction Reports
 
 The following adverse reactions have been identified with VIJOICE use in patients with PROS in an expanded access program for compassionate use.

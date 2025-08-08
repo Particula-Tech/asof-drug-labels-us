@@ -2,7 +2,7 @@
 
 ## 5.1 Severe Hypersensitivity
 
-Severe hypersensitivity reactions, including anaphylaxis, anaphylactic shock, and angioedema, have occurred in adult patients treated with alpelisib in the oncology setting and may occur in patients treated with VIJOICE.
+Severe hypersensitivity reactions, including anaphylaxis, anaphylactic shock, and angioedema, have occurred in adult patients treated with alpelisib in the oncology setting and in patients treated with VIJOICE [see Adverse Reactions (6.1)].
 VIJOICE is not approved for use in the oncology setting.
 
 Permanently discontinue VIJOICE in the event of severe hypersensitivity [see Contraindications (4)].
@@ -17,7 +17,7 @@ Consultation with a dermatologist is recommended.
 
 If a SCAR is confirmed, permanently discontinue VIJOICE.
 
-If a SCAR is not confirmed, VIJOICE may require dose modifications, topical corticosteroids, or oral antihistamine treatment, as described in Table 4 [see Dosage and Administration (2.5)].
+If a SCAR is not confirmed, VIJOICE may require dose modifications, topical or systemic corticosteroids, or oral antihistamine treatment as described in Table 4 [see Dosage and Administration (2.5)].
 
 ## 5.3 Hyperglycemia
 

@@ -53,41 +53,78 @@ If the patient vomits after taking the dose, advise the patient not to take an a
 
 VIJOICE Tablets
 
+Swallow VIJOICE tablets whole, or prepare as a suspension to administer orally, or via feeding tubes.
+
 VIJOICE Tablets, Whole
 
 - Swallow VIJOICE tablets whole and take with food.
   Do not chew, divide, or crush.
 - Do not use broken, cracked, or damaged tablets.
 
-VIJOICE Tablets Prepared as an Oral Suspension
+VIJOICE Tablets Prepared as a Suspension for Oral use, or Feeding Tubes (Nasogastric or Gastric Tube) Administration
 
-- For patients who are not able to swallow tablets, prepare and administer VIJOICE as an oral suspension and take with food [see Clinical Pharmacology (12.3)].
-  - Place VIJOICE tablets in a cup containing 2 to 4 ounces of water and let it stand for approximately 5 minutes.
+- For patients who are not able to swallow tablets, or who are using a feeding tube, prepare and administer VIJOICE as a suspension and take with food [see Clinical Pharmacology (12.3)].
+  Oral AdministrationFeeding Tubes Administration
+  - To prepare VIJOICE tablets as a suspension for oral use, place VIJOICE tablets in a cup containing 2 to 4 ounces of water.
+    To prepare VIJOICE tablets as a suspension for feeding tubes administration, place VIJOICE tablets in a cup containing 1 to 2 ounces of water.
     Make the suspension with water only.
-  - Crush the tablets with a spoon and stir until an oral suspension is obtained.
-  - Administer the oral suspension immediately after preparation.
-    Discard the oral suspension if it is not administered within 60 minutes after preparation.
-  - After administration of the oral suspension, add approximately 1 to 2 ounces of water to the same cup.
-    Stir with the same spoon to re-suspend any remaining particles and administer the entire contents of the cup.
+  - Let tablets stand in water for approximately 5 minutes.
+  - Crush the tablets with a spoon and stir until a suspension is obtained.
+  - Immediately after preparation, administer the suspension as directed below.
+    If not administered immediately after preparation, stir the suspension with the same spoon to re-suspend any particles before administration.
+  - Discard the suspension if it is not administered within 60 minutes after preparation.
+  - Administer the suspension from the cup.
+    After administration of the suspension, add approximately 1 to 2 ounces of water to the same cup.
+    Stir with the same spoon to re-suspend any remaining particles and administer the entire contents of the cup orally.
+    Repeat if particles remain.
+  - Administer VIJOICE tablets prepared as a suspension via French size 5 to 12 diameter silicone or polyurethane nasogastric tubes, or via French size 12 to 24 diameter silicone gastric tubes.
+  - Withdraw VIJOICE suspension from the cup into an enteral syringe and administer it via the nasogastric or gastric tube.
+  - After administration, add approximately 1 to 2 ounces (approximately 30 to 60 mL) of water to the same cup.
+    Stir with the same spoon to re-suspend any remaining particles.
+    Withdraw the contents of the cup into the same enteral syringe and administer it via the nasogastric or gastric tube.
     Repeat if particles remain.
 
 VIJOICE Oral Granules
 
-Each packet is for single use only.
+Administer VIJOICE oral granules directly onto the tongue with water, or prepare as a suspension or a mixture for oral use.
+To administer via feeding tubes prepare the suspension with water only.
 
-No packet should be used if the packet seal is broken.
-
-Do not attempt to use partial quantities of oral granules from 50 mg granules packets to prepare a dose.
-Do not combine VIJOICE tablets and VIJOICE oral granules to achieve the prescribed dose of 125 mg or 250 mg.
-
+- Each packet is for single use only.
+- No packet should be used if the packet seal is broken.
+- Do not attempt to use partial quantities of oral granules from 50 mg granules packets to prepare a dose.
+  Do not combine VIJOICE tablets and VIJOICE oral granules to achieve the prescribed dose of 125 mg or 250 mg.
 - For patients for whom a daily dose of 50 mg is prescribed, administer VIJOICE oral granules [see Clinical Pharmacology (12.3)] in one of the following ways:
-  - Pour the contents of one VIJOICE oral granules packet directly onto the tongue and swallow with approximately 2 to 4 ounces of water.
-    If needed, rinse the mouth with additional water and swallow to ensure no particles remain in the mouth.
-  - Pour the contents of one VIJOICE oral granules packet into a cup.
-    Add 1 to 3 teaspoons (about 0.5 ounces) of a beverage (water, milk, or apple juice) or soft food (applesauce or yogurt) and administer the mixture immediately.
-    Rinse the cup with up to 2 ounces of a beverage (water, milk or apple juice) and administer the mixture immediately to ensure the entire dose is administered.
-    If particles remain, repeat until the full dose is administered.
-    Discard the oral granules mixed with water, milk, apple juice, applesauce, or yogurt if they are not administered within 2 hours after preparation.
+
+VIJOICE Oral Granules for Direct Oral Administration
+
+- Pour the contents of one VIJOICE oral granules packet directly onto the tongue and swallow with approximately 2 to 4 ounces of water.
+  If needed, rinse the mouth with additional water and swallow to ensure no particles remain in the mouth.
+
+VIJOICE Oral Granules as a Suspension or a Mixture for Oral administration
+
+- Pour the contents of one VIJOICE oral granules packet into a cup.
+- Add 1 to 3 teaspoons (about 0.5 ounces) of a beverage (water, milk, or apple juice) or soft food (applesauce or yogurt) and stir with a spoon, then administer the suspension or the mixture immediately.
+- Rinse the cup with up to 2 ounces of a beverage (water, milk or apple juice) and administer the rinse immediately to ensure the entire dose is administered.
+  If particles remain, repeat until the full dose is administered.
+- If not administered immediately after preparation, stir the suspension or the mixture with the same spoon to re-suspend any particles before administration.
+- Discard the oral granules mixed with water, milk, apple juice, applesauce, or yogurt if they are not administered within 60 minutes after preparation.
+
+VIJOICE Oral Granules Suspension for Feeding Tubes Administration
+
+For patients who are not able to swallow VIJOICE orally, administer VIJOICE via feeding tubes.
+
+Administer VIJOICE granules via French size 8 to 12 diameter silicone or polyurethane nasogastric tubes or via French size 12 to 24 diameter silicone gastric tubes.
+
+- Pour the contents of one VIJOICE granules packet into a cup.
+- Add 4 teaspoons (about 0.7 ounces or 20 mL) of water and stir gently with a spoon until a suspension is obtained.
+  Make the suspension with water only.
+- Immediately after preparation, withdraw the suspension from the cup into an enteral syringe and administer it via the nasogastric or gastric tube.
+- After administration, add 4 teaspoons (about 0.7 ounces or 20 mL) of water to the same cup.
+  Stir with the same spoon to re-suspend any remaining particles.
+  Withdraw the contents of the cup into the same enteral syringe and administer it via the nasogastric or gastric tube.
+  Repeat if particles remain.
+- If not administered immediately after preparation, stir the suspension with the same spoon to re-suspend any particles before withdrawing into an enteral syringe for administration.
+- Discard the suspension if it is not administered within 60 minutes after preparation.
 
 ## 2.5 Dosage Modifications for Adverse Reactions
 
@@ -190,7 +227,7 @@ Table 9: Dosage Modification and Management for Other Adverse Reactions (Excludi
 
 | Gradea | Recommendation for adult and pediatric patients |
 | --- | --- |
-| Grade 1 or 2b,c | No VIJOICE dosage modification is required. Initiate appropriate medical therapy and monitor as clinically indicatedb,c. |
+| Grade 1 or 2b,c,d | No VIJOICE dosage modification is required. Initiate appropriate medical therapy and monitor as clinically indicatedb,c,d. |
 | Grade 3 | Interrupt VIJOICE dose until improvement to Grade ≤ 1. Initiate or intensify appropriate medical therapy and monitor as clinically indicated. Adult Patients: Once improved to Grade ≤ 1, then resume VIJOICE at the next lower dose level. Pediatric Patients: Once improved to Grade ≤ 1, either resume VIJOICE at 50 mg or permanently discontinue VIJOICE.If adverse reaction recurs at Grade ≥ 3, consider permanent discontinuation of VIJOICE.Consider consultation with a qualified physician with specific expertise in the field of the concerned adverse reaction. |
 | Grade 4 | Permanently discontinue VIJOICE. |
-| aGrading according to CTCAE Version 5.0. bFor Grade 2 total bilirubin elevation in adult patients, interrupt VIJOICE dose until improvement to Grade ≤ 1. If improvement occurs in ≤ 14 days, resume at the same dose level. If improvement occurs in > 14 days, resume VIJOICE at the next lower dose level. cFor Grade 2 total bilirubin elevation in pediatric patients, interrupt VIJOICE dose until improvement to Grade ≤ 1. If improvement occurs in ≤ 14 days, resume at the same dose level. If improvement occurs in > 14 days, resume VIJOICE at 50 mg. |  |
+| aGrading according to CTCAE Version 5.0. bFor Grade 2 total bilirubin elevation in adult patients, interrupt VIJOICE dose until improvement to Grade ≤ 1. If improvement occurs in ≤ 14 days, resume at the same dose level. If improvement occurs in > 14 days, resume VIJOICE at the next lower dose level. cFor Grade 2 total bilirubin elevation in pediatric patients, interrupt VIJOICE dose until improvement to Grade ≤ 1. If improvement occurs in ≤ 14 days, resume at the same dose level. If improvement occurs in > 14 days, resume VIJOICE at 50 mg. dIf alopecia becomes a concern, consider consulting a dermatologist. |  |

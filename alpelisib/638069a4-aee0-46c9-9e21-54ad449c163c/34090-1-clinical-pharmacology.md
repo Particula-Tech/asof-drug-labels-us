@@ -62,10 +62,6 @@ Specific Populations
 
 No clinically significant differences in the pharmacokinetics of alpelisib were predicted based on age (21 to 87 years), sex, race/ethnicity (Japanese or Caucasian), body weight (37 to 181 kg), mild to moderate renal impairment (CLcr 30 to < 90 mL/min based on the Cockcroft-Gault formula), or mild to severe hepatic impairment (Child-Pugh Class A, B, and C). The effect of severe renal impairment (CLcr < 30 mL/min) on the pharmacokinetics of alpelisib is unknown.
 
-Pediatric Patients
-
-The pharmacokinetics of VIJOICE in pediatric patients have not been evaluated.
-
 Drug Interaction Studies
 
 Clinical Studies and Model-Informed Approaches
@@ -75,7 +71,9 @@ Acid Reducing Agents: No clinically significant differences in the pharmacokinet
 Concomitant use of ranitidine decreased alpelisib AUC approximately 30% and Cmax by 51% with a single 300 mg oral dose (1.2 times the highest approved recommended dosage) of alpelisib under the fasted state.
 In the presence of a low-fat low-calorie meal, AUC was decreased by 21% and Cmax by 36% with ranitidine.
 
-CYP3A4 Substrates: No clinically significant differences in pharmacokinetics of everolimus (a substrate of CYP3A4 and P-gp) were observed when used concurrently with alpelisib.
+CYP3A4, CYP2C8, CYP2C9, CYP2C19 and CYP2B6 Substrates: Coadministration of repeated doses of alpelisib 300 mg with a single-dose of sensitive substrates of CYP3A4 (midazolam), CYP2C8 (repaglinide), CYP2C9 (warfarin), CYP2C19 (omeprazole) and CYP2B6 (bupropion), administered as a cocktail did not show clinically significant pharmacokinetic interactions.
+
+No clinically significant differences in pharmacokinetics of everolimus (a substrate of CYP3A4 and P-gp) were observed when used concurrently with alpelisib.
 
 Effect of CYP3A4 Inducers on Alpelisib: Coadministration of repeat doses of rifampin (a strong CYP3A4 inducer) with a single 300 mg dose of alpelisib decreased alpelisib Cmax by 38% and AUC by 57%, respectively.
 Coadministration of rifampin with repeat doses of 300 mg alpelisib decreased alpelisib Cmax by 59% and AUC by 74%, respectively.
@@ -87,8 +85,6 @@ Coadministration of repeat doses of ketoconazole (a strong CYP3A4 inhibitor) wit
 Coadministration of repeat doses of efavirenz (a moderate CYP3A4 inducer) with a single 300 mg dose of alpelisib is expected to decrease alpelisib AUC by 30% or less.
 
 In Vitro Studies
-
-Effect of Alpelisib on CYP Enzymes: Alpelisib inhibits CYP3A4 in a time-dependent manner and induces CYP2B6, CYP2C9 and CYP3A4.
 
 Effect of Transporter on Alpelisib: Alpelisib is a substrate of BCRP.
 

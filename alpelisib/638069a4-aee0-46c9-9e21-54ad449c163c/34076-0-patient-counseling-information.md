@@ -30,6 +30,7 @@ Advise patients and their caregivers that VIJOICE may cause colitis and to notif
 Alopecia
 
 Advise patients and caregivers that VIJOICE may cause alopecia [see Adverse Reactions (6.1)].
+Advise patients and caregivers to contact a dermatologist if alopecia becomes a concern [see Dosage and Administration (2.5)].
 
 Embryo-Fetal Toxicity
 
@@ -48,7 +49,7 @@ Advise males and females of reproductive potential that VIJOICE may impair ferti
 
 Drug Interactions
 
-Advise patients and their caregivers to inform their healthcare providers of all concomitant medications, herbal and dietary supplements [see Drug Interactions (7.1, 7.2)].
+Advise patients and their caregivers to inform their healthcare providers of all concomitant medications, herbal and dietary supplements [see Drug Interactions (7.1)].
 
 Dosing
 
@@ -67,4 +68,4 @@ Distributed by Novartis Pharmaceuticals Corporation East Hanover, New Jersey 079
 
 © Novartis
 
-T2024-20
+T2025-38
