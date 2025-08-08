@@ -51,7 +51,7 @@ NDC 0264-9872-10
 
 HEPARIN SODIUM in 0.9% Sodium Chloride Injection 1,000 USP units per 500 mL (2 USP units per mL)
 
-LD-312-7 Y94-003-483
+LD-312-8 Y94-003-513
 
 For Intravenous Use Only
 
