@@ -12,7 +12,7 @@ Amantadine Hydrochloride 50 mg
 
 Rx Only 16 fl oz (473 mL)
 
-Pharmaceutical Associates, Inc.
+PAI Pharma
 
 Greenville, SC 29605
 
@@ -26,7 +26,7 @@ KEEP TIGHTLY CLOSED
 
 USUAL DOSAGE: See Package Insert
 
-X0646160222 R02/22
+X0646160725 R07/25
 
 # PRINCIPAL DISPLAY PANEL - 10 mL Cup Label
 
@@ -44,6 +44,6 @@ Package Not Child-Resistant
 
 Rx ONLY
 
-PHARMACEUTICAL ASSOCIATES, INC. GREENVILLE, SC 29605
+PAI Pharma GREENVILLE, SC 29605
 
-A0646101021
+F0646100725

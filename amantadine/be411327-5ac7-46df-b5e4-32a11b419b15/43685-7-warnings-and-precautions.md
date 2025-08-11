@@ -32,6 +32,18 @@ Patients with Parkinson's disease improving on amantadine hydrochloride should r
 
 Because amantadine hydrochloride has anticholinergic effects and may cause mydriasis, it should not be given to patients with untreated angle closure glaucoma.
 
+## Corneal Edema
+
+Corneal edema has been reported in patients taking amantadine.
+Symptoms include sudden onset of blurry vision, or progressive vision loss, with or without eye pain.
+Corneal involvement is usually bilateral.
+Onset can occur from a few weeks to several years after starting amantadine.
+Resolution of symptoms typically begins within weeks of amantadine cessation.
+However, corneal grafts have been required in some patients when the condition is not recognized.
+Permanent damage can occur if amantadine is continued.
+Ask patients if their vision has changed and obtain ophthalmologic examinations to rule out corneal edema should vision changes occur after initiation of therapy with Amantadine Hydrochloride Oral Solution USP 50 mg/5 mL.
+If corneal edema occurs, taper and discontinue Amantadine Hydrochloride Oral Solution USP 50 mg/5 mL [see Dosage and Administration].
+
 # PRECAUTIONS
 
 Amantadine hydrochloride should not be discontinued abruptly in patients with Parkinson's disease since a few patients have experienced a parkinsonian crisis, i.e., a sudden marked clinical deterioration, when this medication was suddenly stopped.
@@ -91,7 +103,7 @@ Amantadine hydrochloride has not been shown to prevent such complications.
 
 Patients should be advised of the following information:
 
-Blurry vision and/or impaired mental acuity may occur.
+Blurry vision, eye pain, loss of vision, and/or impaired mental acuity may occur.
 
 Gradually increase physical activity as the symptoms of Parkinson's disease improve.
 
