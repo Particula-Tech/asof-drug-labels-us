@@ -29,8 +29,8 @@ Metabolism
 
 Cyclophosphamide is metabolized by cytochrome P450s including CYP2A6, 2B6, 3A, 2C9, and 2C19.
 Cyclophosphamide is activated to form 4-hydroxycyclophosphamide, which is in equilibrium with its ring-open tautomer aldophosphamide.
-4-hydroxycyclophosphamide and aldophosphamide can undergo oxidation by aldehyde dehydrogenases to form the inactive metabolites 4--ketocyclophosphamide and carboxyphosphamide, respectively.
-Aldophosphamide can undergo β-elimination to form inactive metabolites phosphoramide mustard and acrolein.
+4-hydroxycyclophosphamide and aldophosphamide can undergo oxidation by aldehyde dehydrogenases to form the inactive metabolites 4-ketocyclophosphamide and carboxyphosphamide, respectively.
+Aldophosphamide can undergo β-elimination to form active metabolites phosphoramide mustard and acrolein.
 This spontaneous conversion can be catalyzed by albumin and other proteins.
 At high doses, the fraction of parent compound cleared by 4-hydroxylation is reduced resulting in non-linear elimination of cyclophosphamide.
 Cyclophosphamide appears to induce its own metabolism.
@@ -47,7 +47,7 @@ Specific Populations
 
 Renal Impairment
 
-Following one-hour intravenous infusion, cyclophosphamide AUC increased by 38% in patients with CLcr of 25 to 50 mL/min, by 77% in patients with CLcr of 10 to 24 mL/min and by 23% in the hemodialysis group (CLcr of< 10 mL/min) compared to the control group (CLcr≥ 80 mL/min).
+Following one-hour intravenous infusion, cyclophosphamide AUC increased by 38% in patients with CLcr of 25 to 50 mL/min, by 77% in patients with CLcr of 10 to 24 mL/min and by 23% in the hemodialysis group (CLcr of < 10 mL/min) compared to the control group (CLcr ≥ 80 mL/min).
 Cyclophosphamide is dialyzable.
 Dialysis clearance averaged 104 mL/min, which is similar to the metabolic clearance of 95 mL/min for cyclophosphamide.
 A mean of 37% of the administered dose of cyclophosphamide was removed during a 4-hour hemodialysis period.

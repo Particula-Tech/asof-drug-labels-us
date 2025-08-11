@@ -2,7 +2,7 @@
 
 ## 1.1 Malignant Diseases
 
-Cyclophosphamide is indicated for the treatment of adult and pediatric patients with:
+Cyclophosphamide Injection is indicated for the treatment of adult and pediatric patients with:
 
 - malignant lymphomas (Stages III and IV of the Ann Arbor staging system), Hodgkin's disease, lymphocytic lymphoma (nodular or diffuse), mixed-cell type lymphoma, histiocytic lymphoma, Burkitt's lymphoma
 - multiple myeloma

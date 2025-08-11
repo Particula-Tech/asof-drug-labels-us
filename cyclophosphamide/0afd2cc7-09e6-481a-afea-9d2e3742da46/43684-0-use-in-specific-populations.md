@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide Injection can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1) and Nonclinical Toxicology (13.1)].
+Based on its mechanism of action and published reports of effects in pregnant patients or animals, Cyclophosphamide Injection can cause fetal harm when administered to a pregnant woman [seeClinical Pharmacology(12.1)andNonclinical Toxicology(13.1)].
 Exposure to cyclophosphamide during pregnancy may cause fetal malformations, miscarriage, fetal growth retardation, and toxic effects in the newborn [seeData].
 Cyclophosphamide is teratogenic and embryo-fetal toxic in mice, rats, rabbits and monkeys [seeData].
 Advise pregnant women and females of reproductive potential of the potential risk to the fetus.
@@ -33,21 +33,21 @@ Because of the potential for serious adverse reactions in a breastfed child from
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Cyclophosphamide Injection can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Cyclophosphamide Injection can cause fetal harm when administered to a pregnant woman [seeUse in Specific Populations(8.1)].
 
 Pregnancy Testing
 
-Verify the pregnancy status of females of reproductive potential prior to the initiation of Cyclophosphamide Injection [see Use in Specific Populations (8.1)].
+Verify the pregnancy status of females of reproductive potential prior to the initiation of Cyclophosphamide Injection [seeUse in Specific Populations(8.1)].
 
 Contraception
 
 Females
 
-Advise females of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for up to 1 year after completion of therapy [see Use in Specific Populations (8.1)].
+Advise females of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for up to 1 year after completion of therapy [seeUse in Specific Populations(8.1)].
 
 Males
 
-Based on findings in genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for 4 months after completion of therapy [see Use in Specific Populations (8.1) and Nonclinical Toxicology (13.1)].
+Based on findings in genetic toxicity and animal reproduction studies, advise male patients with female partners of reproductive potential to use effective contraception during treatment with Cyclophosphamide Injection and for 4 months after completion of therapy [seeUse in Specific Populations(8.1) andNonclinical Toxicology(13.1)].
 
 Infertility
 
@@ -59,7 +59,7 @@ The risk of premature menopause with cyclophosphamide increases with age.
 Oligomenorrhea has also been reported in association with cyclophosphamide treatment.
 
 Animal data suggest an increased risk of failed pregnancy and malformations may persist after discontinuation of cyclophosphamide as long as oocytes/follicles exist that were exposed to cyclophosphamide during any of their maturation phases.
-The exact duration of follicular development in humans is not known but may be longer than 12 months [see Nonclinical Toxicology (13.1)].
+The exact duration of follicular development in humans is not known but may be longer than 12 months [seeNonclinical Toxicology(13.1)].
 
 Males
 
@@ -69,7 +69,7 @@ Men treated with cyclophosphamide may develop oligospermia or azoospermia which 
 
 The safety and effectiveness of cyclophosphamide have been established in pediatric patients and information on this use is discussed throughout the labeling.
 
-Pre-pubescent females treated with cyclophosphamide generally develop secondary sexual characteristics normally and have regular menses.
+Pre-pubescent females who receive cyclophosphamide generally develop secondary sexual characteristics normally and have regular menses.
 Ovarian fibrosis with apparently complete loss of germ cells after prolonged administration of cyclophosphamide in late pre-pubescence has been reported.
 Females who received cyclophosphamide who have retained ovarian function after completing treatment are at increased risk of developing premature menopause.
 
@@ -84,15 +84,13 @@ In general, dose selection for an elderly patient should be cautious, usually st
 
 ## 8.6 Renal Impairment
 
-In patients with severe renal impairment, decreased renal excretion may result in increased plasma levels of cyclophosphamide and its metabolites, which may increase toxicity [see Clinical Pharmacology (12.3)].
-Monitor patients with severe renal impairment (creatinine clearance (CLcr) = 10 mL/min to 24 mL/min) for signs and symptoms of toxicity.
+In patients with severe renal impairment, decreased renal excretion may result in increased plasma levels of cyclophosphamide and its metabolites, which may increase toxicity [seeClinical Pharmacology(12.3)].Monitor patients with severe renal impairment (creatinine clearance (CLcr) = 10 mL/min to 24 mL/min) for signs and symptoms of toxicity.
 
 Cyclophosphamide and its metabolites are dialyzable although there are probably quantitative differences depending upon the dialysis system.
 In patients requiring dialysis, consider using a consistent interval between cyclophosphamide administration and dialysis should be considered.
 
 ## 8.7 Hepatic Impairment
 
-Patients with severe hepatic impairment have reduced conversion of cyclophosphamide to the active 4-hydroxyl metabolite, potentially reducing efficacy [see Clinical Pharmacology (12.3)].
-Monitor patients with severe hepatic impairment (total bilirubin > 3 x ULN and any aspartate aminotransferase (AST)) for reduced effectiveness of cyclophosphamide.
+Patients with severe hepatic impairment have reduced conversion of cyclophosphamide to the active 4-hydroxyl metabolite, potentially reducing efficacy [seeClinical Pharmacology(12.3)].Monitor patients with severe hepatic impairment (total bilirubin > 3 x ULN and any aspartate aminotransferase (AST)) for reduced effectiveness of cyclophosphamide.
 
-The alcohol content of Cyclophosphamide Injection should be taken into account when given to patients with hepatic impairment [see Warnings and Precautions (5.7)].
+The alcohol content of Cyclophosphamide Injection should be taken into account when given to patients with hepatic impairment [seeWarnings and Precautions(5.7)].

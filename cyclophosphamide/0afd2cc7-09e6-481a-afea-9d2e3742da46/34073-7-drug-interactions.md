@@ -12,17 +12,17 @@ Monitor for increased toxicities in patients receiving protease inhibitors.
 Radiation therapy or drugs with similar toxicities to Cyclophosphamide Injection can potentiate toxicities for cyclophosphamide.
 Monitor for increased toxicities in patients receiving radiation therapy or drugs known to cause:
 
-• Myelosuppression and/or immunosuppression [see Warnings and Precautions (5.1)]
+• Myelosuppression and/or immunosuppression [seeWarnings and Precautions(5.1)]
 
-• Nephrotoxicity including hemorrhagic cystitis [see Warnings and Precautions (5.2)]
+• Nephrotoxicity including hemorrhagic cystitis [seeWarnings and Precautions(5.2)]
 
-• Cardiotoxicity [see Warnings and Precautions (5.3)]
+• Cardiotoxicity [seeWarnings and Precautions(5.3)]
 
-• Pulmonary toxicity [see Warnings and Precautions (5.4)]
+• Pulmonary toxicity [seeWarnings and Precautions(5.4)]
 
-• Secondary malignancies [see Warnings and Precautions (5.5]
+• Secondary malignancies [seeWarnings and Precautions(5.5)]
 
-• Hepatotoxicity including liver necrosis and VOD [see Warnings and Precautions (5.6)]
+• Hepatotoxicity including liver necrosis and VOD [seeWarnings and Precautions(5.6)]
 
 ## 7.3 Effect of Cyclophosphamide on Other Drugs
 

@@ -2,8 +2,8 @@
 
 ## 2.1 Important Administration Instructions
 
-During or immediately after the administration of Cyclophosphamide injection, adequate amounts of fluid should be ingested or infused to force diuresis in order to reduce the risk of urinary tract toxicity.
-Therefore, cyclophosphamide injection should be administered in the morning.
+During or immediately after the administration of Cyclophosphamide Injection, adequate amounts of fluid should be ingested or infused to force diuresis in order to reduce the risk of urinary tract toxicity.
+Therefore, Cyclophosphamide Injection should be administered in the morning.
 
 ## 2.2 Recommended Dosage for Malignant Diseases
 
@@ -11,11 +11,11 @@ Adults and Pediatric Patients
 
 Intravenous Use
 
-When used as the only oncolytic drug therapy, the recommended dosage for the initial course of cyclophosphamide for patients with no hematologic deficiency is 40 mg per kg to 50 mg per kg given intravenously in divided doses over a period of 2 to 5 days.
+When used as the only oncolytic drug therapy, the recommended dosage for the initial course of Cyclophosphamide Injection for patients with no hematologic deficiency is 40 mg per kg to 50 mg per kg given intravenously in divided doses over a period of 2 to 5 days.
 Other intravenous regimens include 10mg per kg to 15 mg per kg given every 7 to 10 days or 3 mg per kg to 5 mg per kg twice weekly.
-Adjust the dosage of Cyclophosphamide Injection based on the specific regimen administered, response to treatment, myelosuppression or other adverse reactions, and patient risk factors [see Warnings and Precautions (5].
+Adjust the dosage of Cyclophosphamide Injection based on the specific regimen administered, response to treatment, myelosuppression or other adverse reactions, and patient risk factors [seeWarnings and Precautions(5)].
 
-## 2.4 Preparation, Handling and Administration
+## 2.3 Preparation, Handling and Administration
 
 Cyclophosphamide Injection is a hazardous drug.
 Follow applicable special handling and disposal procedures 1.
@@ -35,11 +35,9 @@ For Direct Intravenous Injection Aseptically withdraw the prescribed dose from t
 Dilute the prescribed dose of Cyclophosphamide Injection to a concentration of 20 mg per mL by using any of the following diluents:
 
 - 0.9% Sodium Chloride Injection, USP
-- 0.45%Sodium Chloride Injection, USP
+- 0.45% Sodium Chloride Injection, USP
 - 5% Dextrose Injection, USP
 - 5% Dextrose and 0.9% Sodium Chloride Injection, USP
-
-Do not use Sterile Water for Injection, USP because it results in a hypotonic solution and should not be injected directly.
 
 For Intravenous Infusion Aseptically withdraw the prescribed dose from the vial.
 Dilute the prescribed dose of Cyclophosphamide Injection to a concentration of 2 mg per mL by using any of the following diluents:
@@ -49,7 +47,7 @@ Dilute the prescribed dose of Cyclophosphamide Injection to a concentration of 2
 - 5% Dextrose Injection, USP
 - 5% Dextrose and 0.9% Sodium Chloride Injection, USP
 
-To reduce the likelihood of adverse reactions that appear to be administration rate-dependent (e.g., facial swelling, headache, nasal congestion, scalp burning), cyclophosphamide should be injected or infused very slowly.
+To reduce the likelihood of adverse reactions that appear to be administration rate-dependent (e.g., facial swelling, headache, nasal congestion, scalp burning), Cyclophosphamide Injection should be injected or infused very slowly.
 Duration of the infusion also should be appropriate for the volume and type of carrier fluid to be infused.
 
 Storage of Diluted Cyclophosphamide Solution:
