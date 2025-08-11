@@ -262,7 +262,7 @@ Active ingredient: sertraline hydrochloride
 
 Inactive ingredients:
 
-D&C Yellow #10 (in 25 mg tablet), dibasic calcium phosphate anhydrous, FD&C Blue #1 (in 25 mg tablet), FD&C Blue #2 (in 50 mg tablet), FD&C Red #40 (in 25 mg tablet), hydroxypropyl cellulose, hypromellose, iron oxide yellow (in 100 mg tablet), magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium starch glycolate and titanium dioxide and vanillin.
+Ascorbic acid (in 25 mg, 50 mg and 100 mg tablets), D&C Yellow #10 (in 25 mg tablet), dibasic calcium phosphate anhydrous, FD&C Blue #1 (in 25 mg tablet), FD&C Blue #2 (in 50 mg tablet), FD&C Red #40 (in 25 mg tablet), hydroxypropyl cellulose, hypromellose, iron oxide yellow (in 100 mg tablet), magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, sodium starch glycolate and titanium dioxide and vanillin.
 
 Sertraline hydrochloride tablets USP are coated with vanillin flavored film coating material.
 Vanillin is a flavoring agent that possess vanilla like fragrance.
@@ -283,4 +283,4 @@ United States
 
 MADE IN INDIA
 
-Revised: January 2025 ID#: 278954
+Revised: September 2024 ID#: 276277

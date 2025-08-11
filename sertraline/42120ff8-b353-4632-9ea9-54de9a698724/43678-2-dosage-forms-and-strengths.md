@@ -10,4 +10,4 @@ Blue colored, capsule shaped, biconvex, film-coated tablets, debossed with 'L' a
 
 100 mg Tablets
 
-Yellow colored, capsule shaped, biconvex, film-coated tablets, debossed with 'L'and 'U' on either side of the breakline on one side and 'D03' on the other side.
+Yellow colored, capsule shaped, biconvex, film-coated tablets, debossed with 'L' and 'U' on either side of the breakline on one side and 'D03' on the other side.
