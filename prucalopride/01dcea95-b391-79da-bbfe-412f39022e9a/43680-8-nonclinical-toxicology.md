@@ -16,7 +16,7 @@ The increases in neoplastic changes occurred primarily at the high dose of 80 mg
 There was no significant increase in tumor incidence at doses up to 20 mg/kg/day in male rats and up to 10 mg/kg/day in female rats (exposure ratios of 63 and 40 times the human dosage of 2 mg per day in male and female rats, respectively, based on AUC).
 
 In a 12-month carcinogenicity study in neonatal mice, prucalopride was administered by oral gavage at total dosages of 75, 150, and 300 mg/kg given across 2 doses on day 8 of age (one-third of total dosage) and day 15 of age (two-thirds of total dosage).
-Prucalopride was not tumorigenic at doses up to 300 mg/kg (>1600 times the human exposure at 2 mg per day, based on AUC).
+Prucalopride was not tumorigenic at doses up to 300 mg/kg (>1,600 times the human exposure at 2 mg per day, based on AUC).
 
 Mechanistic studies demonstrated that the increase in tumor incidence in rodents related to stimulation of prolactin in endocrine tissues was associated with dopamine D2 antagonist activity.
 The hepatic and thyroid tumors were due to induction of enzymes in liver and subsequent disruption of thyroid homeostasis.

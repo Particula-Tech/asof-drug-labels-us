@@ -4,7 +4,7 @@
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The data described below represent 2,530 patients (1,251 received prucalopride tablets 2 mg once daily and 1279 received placebo) with CIC from 6 double-blind, placebo-controlled clinical trials of 12 weeks to 24 weeks in duration.
+The data described below represent 2,530 patients (1,251 received prucalopride tablets 2 mg once daily and 1,279 received placebo) with CIC from 6 double-blind, placebo-controlled clinical trials of 12 weeks to 24 weeks in duration.
 In these trials overall, patients were primarily female (76%) and white (76%).
 The mean age was 47 years (range 17 to 95 years) [see Clinical Studies (14)].
 
@@ -14,7 +14,7 @@ Table 2 below summarizes the incidence (%) of common adverse reactions occurring
 
 Table 2: Common Adverse Reactions* in Double-Blind Placebo-Controlled Trials of CIC of at least 12 Weeks Duration
 
-| Adverse Reaction | Prucalopride 2 mg Once Daily N=1251† % | Placebo N=1279 % |
+| Adverse Reaction | Prucalopride 2 mg Once Daily N=1,251† % | Placebo N=1,279 % |
 | --- | --- | --- |
 | Headache | 19 | 9 |
 | Abdominal pain‡ | 16 | 11 |
@@ -36,11 +36,13 @@ Less Common Adverse Reactions
 
 Less common adverse reactions occurring in <2% of patients receiving prucalopride tablets 2 mg once daily include:
 
-Gastrointestinal disorders: abnormal gastrointestinal sounds
+Gastrointestinal disorders: Abnormal gastrointestinal sounds
 
-Metabolism and nutrition disorders: decreased appetite
+Metabolism and nutrition disorders: Decreased appetite
 
-Nervous system disorders: migraine Renal and urinary disorders: pollakiuria
+Nervous system disorders: Migraine
+
+Renal and urinary disorders: Pollakiuria
 
 Diarrhea
 
@@ -63,9 +65,11 @@ Adverse Reactions of Special Interest
 Adverse reactions of special interest were evaluated in a pool of 28 completed clinical trials (19 double-blind and 9 open-label) for prucalopride tablets at doses including 0.5 mg, 1 mg, 2 mg, or 4 mg per day in adult patients with CIC (the recommended dosage of prucalopride tablets for CIC is 2 mg once daily).
 The total exposure in the double-blind trials was 565 patient-years in the prucalopride group, 384 patient-years in the placebo group, and 2,769 patient-years in the double-blind and open-label clinical trials.
 
+Cardiovascular Safety Analysis
+
 In an evaluation by an independent adjudication committee of all potential major adverse cardiovascular events (MACE), defined as cardiovascular death, nonfatal myocardial infarction, and nonfatal stroke, the standardized incidence rate (IR) per 1,000 patient-years for MACE for prucalopride was compared with the IR for placebo.
 
-In the double-blind trials, the IR for MACE was 3.5 (2 patients out of 3,366; 1 patient on 2 mg and 1 patient on 4 mg) in the prucalopride tablets group and 5.2 (2 patients out of 2019) in the placebo group.
+In the double-blind trials, the IR for MACE was 3.5 (2 patients out of 3,366; 1 patient on 2 mg and 1 patient on 4 mg) in the prucalopride tablets group and 5.2 (2 patients out of 2,019) in the placebo group.
 When combining the double-blind and open-label trials, the IR for MACE was 3.3 (9 patients out of 4,472, doses ranging between 0.5 to 4 mg) for prucalopride tablets.
 
 Suicidal Ideation and Behavior
@@ -77,14 +81,14 @@ Completed suicide was reported in two patients, previously treated with prucalop
 Observational Cardiovascular Cohort Study
 
 The overall cardiovascular safety of prucalopride tablets was assessed using European healthcare databases in a population-based, retrospective, observational, cohort study of adults with constipation.
-New users of prucalopride tablets (N=5,715) were matched to new users of polyethylene glycol 3,350 (PEG) (N=29,372) to estimate the standardized incidence rate ratio (SIRR) for MACE, pooled across four data sources.
+New users of prucalopride tablets (N=5,715) were matched to new users of polyethylene glycol 3350 (PEG) (N=29,372) to estimate the standardized incidence rate ratio (SIRR) for MACE, pooled across four data sources.
 The 95% confidence interval for the pooled estimate of the SIRR did not demonstrate an increased MACE risk and excluded a pre-specified safety margin of a three-fold risk of MACE during prucalopride use relative to PEG use.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post-approval use of prucalopride.
+The following adverse reactions have been identified during post-approval use of prucalopride tablets.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Hypersensitivity reactions: dyspnea, rash, pruritus, urticaria, and facial edema [see Contraindications (4)].
+Hypersensitivity reactions: Dyspnea, rash, pruritus, urticaria, and facial edema [see Contraindications (4)].
 
 Psychiatric disorders: Suicide, suicide attempts, suicidal ideation, self-injurious ideation, depression, anxiety, insomnia, nightmares, and visual hallucinations [see Warnings and Precautions (5.1)].

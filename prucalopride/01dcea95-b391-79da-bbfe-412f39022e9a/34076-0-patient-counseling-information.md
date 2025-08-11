@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information)
+Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
 - Suicidal Ideation and Behavior: Inform patients, their caregivers, and family members that suicidal ideation and behavior, self-injurious ideation as well as new onset or worsening depression have been reported in patients treated with prucalopride tablets.
   Advise them to be aware of any unusual changes in mood or behavior, new onset or worsening of depression, or the emergence of suicidal thoughts or behavior.
@@ -24,7 +24,7 @@ PRUCALOPRIDE TABLETS
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
-| Canada M9L 1T9 | USA 33326 |
+| Canada M9L 1T9 | 33326 |
 
 Rev.
-1
+2

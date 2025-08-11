@@ -74,7 +74,7 @@ Active ingredient: prucalopride
 
 Inactive ingredients: hydroxypropyl cellulose, magnesium stearate, and microcrystalline cellulose.
 The coating contains hydroxypropyl cellulose, hydroxypropyl methylcellulose, titanium dioxide, and triethyl citrate.
-The 2 mg tablet also contains iron oxide red and iron oxide yellow.
+The 2-mg tablet also contains iron oxide red and iron oxide yellow.
 
 For more information, call Apotex Corp. at 1-800-706-5575, or go to www.apotex.com.
 
@@ -90,11 +90,11 @@ PRUCALOPRIDE TABLETS
 | --- | --- |
 | Apotex Inc. | Apotex Corp. |
 | Toronto, Ontario | Weston, Florida |
-| Canada M9L 1T9 | USA 33326 |
+| Canada M9L 1T9 | 33326 |
 
 Rev.
-1
+2
 
-Revised: December 2023
+Revised: August 2025
 
 This Patient Information has been approved by the U.S. Food and Drug Administration

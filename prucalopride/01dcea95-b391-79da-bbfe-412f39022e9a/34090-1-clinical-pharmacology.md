@@ -4,7 +4,7 @@
 
 Prucalopride, a selective serotonin type 4 (5-HT4) receptor agonist, is a gastrointestinal (GI) prokinetic agent that stimulates colonic peristalsis (high-amplitude propagating contractions [HAPCs]), which increases bowel motility.
 
-Prucalopride was devoid of effects mediated via 5-HT2A, 5-HT2B, 5-HT3, motilin or CCK-A receptors in vitro at concentrations exceeding 5-HT4 receptor affinity by 150 fold or greater.
+Prucalopride was devoid of effects mediated via 5-HT2A, 5-HT2B, 5-HT3, motilin or CCK-A receptors in vitro at concentrations exceeding 5-HT4 receptor affinity by 150-fold or greater.
 In isolated GI tissues from various animal species, prucalopride facilitated acetylcholine release to enhance the amplitude of contractions and stimulate peristalsis.
 In rats and dogs, prucalopride stimulated gastrointestinal motility with contractions starting from the proximal colon to the anal sphincter.
 
@@ -21,7 +21,7 @@ An integrated analysis of 3 randomized, placebo-controlled, dose-finding studies
 
 Cardiac Electrophysiology
 
-At a dose 5 times the maximum approved recommended dose, prucalopride tablets do not prolong the QT interval to any clinically relevant extent.
+At a dose 5 times the maximum approved recommended dose, prucalopride tablets does not prolong the QT interval to any clinically relevant extent.
 
 ## 12.3 Pharmacokinetics
 
@@ -95,13 +95,13 @@ Effect of Prucalopride on Other Drugs
 
 Erythromycin
 
-Co-administration of oral erythromycin (500 mg four times daily) with prucalopride increased the erythromycin mean Cmax by 40% and mean AUC0-24h by 28%.
+Coadministration of oral erythromycin (500 mg four times daily) with prucalopride increased the erythromycin mean Cmax by 40% and mean AUC0-24h by 28%.
 The mechanism for this interaction is not clear.
 The increased exposure to erythromycin is unlikely to be clinically significant.
 
 Other Drugs
 
-No clinically significant differences in the pharmacokinetics (no more than a 10% change in AUC) of the following drugs were observed when co-administered with prucalopride: warfarin, digoxin, paroxetine, or oral contraceptives (ethinyl estradiol and norethisterone).
+No clinically significant differences in the pharmacokinetics (no more than a 10% change in AUC) of the following drugs were observed when coadministered with prucalopride: warfarin, digoxin, paroxetine, or oral contraceptives (ethinyl estradiol and norethisterone).
 
 Effect of Other Drugs on Prucalopride
 
@@ -112,7 +112,7 @@ This effect is unlikely to be clinically significant.
 
 Other Drugs
 
-No clinically significant differences in prucalopride pharmacokinetics (no more than a 10% change in AUC) were observed when co-administered with erythromycin, probenecid, cimetidine, or paroxetine.
+No clinically significant differences in prucalopride pharmacokinetics (no more than a 10% change in AUC) were observed when coadministered with erythromycin, probenecid, cimetidine, or paroxetine.
 
 In Vitro Studies
 

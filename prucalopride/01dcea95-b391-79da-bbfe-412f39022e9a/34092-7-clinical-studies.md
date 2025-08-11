@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of prucalopride for the treatment of CIC was evaluated in six double-blind, placebo-controlled, randomized, multicenter clinical trials in 2484 adult patients (Studies 1 to 6; see Table 3).
+The efficacy of prucalopride for the treatment of CIC was evaluated in six double-blind, placebo-controlled, randomized, multicenter clinical trials in 2,484 adult patients (Studies 1 to 6; see Table 3).
 Studies 1 through 5 were 12-week treatment duration and Study 6 included 24 weeks of treatment.
 Patients less than 65 years were dosed with prucalopride tablets 2 mg once daily.
 In Studies 2 and 6, the geriatric patients started on prucalopride tablets 1 mg once daily and, if necessary, the dose was increased to 2 mg after 2 or 4 weeks of treatment in the event of insufficient response at 1 mg; of these patients 81% increased to 2 mg.
