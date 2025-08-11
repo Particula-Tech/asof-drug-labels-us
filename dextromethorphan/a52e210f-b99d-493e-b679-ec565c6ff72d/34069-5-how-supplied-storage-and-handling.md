@@ -19,4 +19,4 @@ Dispense in tight, light-resistant container (USP/NF) with a child-resistant clo
 
 Distributed by ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-Issued: 01/2024 LB4688-01
+Issued: 04/2025 LB4688-02
