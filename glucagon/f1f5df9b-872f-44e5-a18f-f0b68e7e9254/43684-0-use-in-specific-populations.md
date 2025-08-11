@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Available data from case reports and a small number of observational studies with glucagon use in pregnant women over decades of use have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
+Available data from case reports and a small number of observational studies with glucagon use in pregnant women over decades of use have not identified a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
 Multiple small studies have demonstrated a lack of transfer of pancreatic glucagon across the human placental barrier during early gestation.
 In a rat reproduction study, no embryofetal toxicity was observed with glucagon administered by injection during the period of organogenesis at doses representing up to 40 times the human dose, based on body surface area (mg/m2) (see Data).
 
@@ -26,13 +26,11 @@ However, glucagon is a peptide and would be expected to be broken down to its co
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of BAQSIMI for the treatment of severe hypoglycemia in patients with diabetes have been established in pediatric patients ages 4 years and above.
-Use of BAQSIMI for this indication is supported by evidence from a study in 48 pediatric patients from 4 to <17 years of age with type 1 diabetes mellitus.
-[see Clinical Studies (14.2)].
+The safety and effectiveness of BAQSIMI for the treatment of severe hypoglycemia in patients with diabetes have been established in pediatric patients aged 1 year and older.
+Use of BAQSIMI for this indication is supported by evidence from an adequate and well-controlled study in adults with type 1 diabetes mellitus [see Clinical Studies (14.1)], a study in 48 pediatric patients aged 4 to less than 17 years with type 1 diabetes mellitus [see Clinical Studies (14.2)], and additional pharmacokinetic and safety data from a study of seven pediatric patients aged 1 to less than 4 years﻿ with type 1 diabetes mellitus [see Adverse Reactions (6.1),Clinical Pharmacology (12.2, 12.3), and Clinical Studies (14.2)].
 
-The safety and effectiveness of BAQSIMI have not been established in pediatric patients younger than 4 years of age.
+The safety and effectiveness of BAQSIMI have not been established in pediatric patients younger than 1 year of age.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of BAQSIMI did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
-Limited clinical trial experience has not identified differences in responses between the elderly and younger patients.
+Clinical studies of BAQSIMI did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger adult patients.

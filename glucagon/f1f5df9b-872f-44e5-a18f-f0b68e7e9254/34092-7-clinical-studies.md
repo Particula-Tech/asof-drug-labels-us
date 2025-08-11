@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Adult Patients
+## 14.1 Adult Patients with Type 1 or Type 2 Diabetes Mellitus
 
 Study 1 (NCT03339453) was a randomized, multicenter, open-label, 2-period, crossover study in adult patients with type 1 diabetes.
 The efficacy of a single 3 mg dose of BAQSIMI was compared to a 1 mg dose of intra-muscular glucagon (IMG).
@@ -57,9 +57,9 @@ Table 6: Adult Patients with Type 1 and Type 2 Diabetes Meeting Treatment Succes
 | c 2-sided 95% confidence interval (CI) of paired differences using a Wald-Min correction; non-inferiority margin = -10%. |  |  |
 | d Percentage based on number of patients. |  |  |
 
-## 14.2 Pediatric Patients
+## 14.2 Pediatric Patients Aged 1 to less than 17 Years with Type 1 Diabetes Mellitus
 
-Study 3 (NCT01997411) was a randomized, multicenter, clinical study that assessed BAQSIMI compared to intra-muscular glucagon (IMG) in pediatric patients aged 4 years and older with type 1 diabetes.
+Study 3 (NCT01997411) was a randomized, multicenter, clinical study that assessed BAQSIMI compared to intra-muscular glucagon (IMG) in pediatric patients aged 4 to less than 17 years with type 1 diabetes.
 Insulin was used to reduce blood glucose levels, and glucagon was administered after glucose reached <80 mg/dL.
 Efficacy was assessed based on percentage of patients with a glucose increase of ≥20 mg/dL from glucose nadir within 30 minutes following BAQSIMI administration.
 
@@ -79,3 +79,13 @@ Table 7: Mean Time to Reach Glucose Increase of ≥20 mg/dL from Nadir in Pediat
 | Young Children (4 to <8 years old) |  | Children (8 to <12 years old) |  | Adolescents (12 to <17 years old) |  |  |
 | ≥20 mg/dL | 10.8 | 10.8 | 12.5 | 11.3 | 12.5 | 14.2 |
 | a 0.5 mg or 1 mg of IMG (based upon body weight) |  |  |  |  |  |  |
+
+Study 4 (NCT04992312) was a phase 1, open-label, multi-center study with a primary objective of assessing the safety and tolerability of a single 3 mg dose of BAQSIMI in pediatric participants aged 1 to less than 4 years with type 1 diabetes mellitus.
+Patients were recommended to fast overnight before the dosing visit on Day 1, to achieve the target range glucose of 70 to 140 mg/dL (3.9 to 7.8 mmol/L) at baseline.
+Efficacy was assessed based on the percentage of patients with a glucose increase of ≥20 mg/dL from baseline within 30 minutes following BAQSIMI administration.
+
+Seven patients were enrolled in the study, all received the planned 3 mg dose of BAQSIMI and completed the study.
+The mean age of the patients enrolled in the study was 2.98 years, with ages ranging from 1.8 to 4 years old.
+There were 4 males and 3 females enrolled in the study, all who were white.
+
+All (100%) patients achieved an increase in glucose ≥20 mg/dL from baseline within 30 minutes of BAQSIMI administration.

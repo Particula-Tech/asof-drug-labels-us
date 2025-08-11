@@ -12,9 +12,9 @@ For Treatment of Severe Low Blood Sugar
 
 For Nasal Use Only
 
-Contains 1 nasal devices.
+Contains 1 nasal device.
 
-Keep tubes sealed until ready to use.
+Keep tube sealed until ready to use.
 
 Rx only
 
@@ -44,8 +44,8 @@ Keep tubes sealed until ready to use.
 
 Rx only
 
-BAQSIMI two Pack®
+BAQSIMI Two Pack®
 
 www.baqsimi.com
 
-528351AMA/5-23
+528352AMA/5-23

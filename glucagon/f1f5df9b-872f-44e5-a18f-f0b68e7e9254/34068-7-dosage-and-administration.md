@@ -16,11 +16,13 @@ Emphasize the following instructions to the patient or caregiver:
 - Administer the dose by inserting the tip into one nostril and pressing the device plunger all the way in until the green line is no longer showing.
   The dose does not need to be inhaled.
 - Call for emergency assistance immediately after administering the dose.
+- If there has been no response after 15 minutes, an additional dose of BAQSIMI may be administered while waiting for emergency assistance.
 - When the patient responds to treatment, give oral carbohydrates to restore the liver glycogen and prevent recurrence of hypoglycemia.
 - Do not attempt to reuse BAQSIMI.
   Each BAQSIMI device contains one dose of glucagon and cannot be reused.
+  Discard any unused portion.
 
-## 2.2 Dosage in Adults and Pediatric Patients Aged 4 Years and Above
+## 2.2 Dosage in Adults and Pediatric Patients Aged 1 Year and Older
 
 The recommended dose of BAQSIMI is 3 mg administered as one actuation of the intranasal device into one nostril.
 

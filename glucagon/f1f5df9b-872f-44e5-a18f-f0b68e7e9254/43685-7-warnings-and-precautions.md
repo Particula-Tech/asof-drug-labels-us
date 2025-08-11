@@ -11,13 +11,14 @@ In patients with insulinoma, administration of glucagon may produce an initial i
 BAQSIMI is contraindicated in patients with insulinoma [see Contraindications (4)].
 If a patient develops symptoms of hypoglycemia after a dose of BAQSIMI, give glucose orally or intravenously.
 
-## 5.3 Hypersensitivity and Allergic Reactions
+## 5.3 Serious Hypersensitivity Reactions
 
-Allergic reactions have been reported with glucagon, these include generalized rash, and in some cases anaphylactic shock with breathing difficulties and hypotension.
+Serious hypersensitivity reactions have been reported with glucagon products, including generalized rash, and in some cases anaphylactic shock with breathing difficulties and hypotension.
+Discontinue BAQSIMI if symptoms of serious hypersensitivity reactions occur.
+Advise patients and/or caregivers to seek immediate medical attention if the patient experiences any symptoms of serious hypersensitivity reactions.
 BAQSIMI is contraindicated in patients with a prior hypersensitivity reaction [see Contraindications (4)].
 
 ## 5.4 Lack of Efficacy in Patients with Decreased Hepatic Glycogen
 
-BAQSIMI is effective in treating hypoglycemia only if sufficient hepatic glycogen is present.
-Patients in states of starvation, with adrenal insufficiency or chronic hypoglycemia may not have adequate levels of hepatic glycogen for BAQSIMI administration to be effective.
-Patients with these conditions should be treated with glucose.
+Patients with insufficient hepatic stores of glycogen may not respond to BAQSIMI for the treatment of severe hypoglycemia [see Clinical Pharmacology (12.2)].
+Insufficient hepatic stores of glycogen may be present in conditions such as states of starvation or in patients with adrenal insufficiency or chronic hypoglycemia.
