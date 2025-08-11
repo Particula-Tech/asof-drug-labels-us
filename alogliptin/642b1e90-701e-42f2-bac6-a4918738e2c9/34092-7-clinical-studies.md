@@ -137,7 +137,7 @@ The mean age of the population was 61 years.
 Most patients were male (68%), White (73%), and were recruited from outside of the U.S. (86%).
 Asian and Black or African American patients contributed 20% and 4% of the total population, respectively.
 At the time of randomization patients had a diagnosis of type 2 diabetes mellitus for approximately 9 years, 87% had a prior myocardial infarction and 14% were current smokers.
-Hypertension (83%) and renal impairment (27% with an eGFR ≤60 ml/min/1.73 m2) were prevalent co-morbid conditions.
+Hypertension (83%) and renal impairment (27% with an eGFR ≤60 mL/min/1.73 m2) were prevalent co-morbid conditions.
 Use of medications to treat diabetes (e.g., metformin 73%, sulfonylurea 54%, insulin 41%), and ASCVD (e.g., statin 94%, aspirin 93%, renin-angiotensin system blocker 88%, beta-blocker 87%) was similar between patients randomized to alogliptin and placebo at baseline.
 During the trial, medications to treat diabetes and ASCVD could be adjusted to ensure care for these conditions adhered to standard of care recommendations set by local practice guidelines.
 

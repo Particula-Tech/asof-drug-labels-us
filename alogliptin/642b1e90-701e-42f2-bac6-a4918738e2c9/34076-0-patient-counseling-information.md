@@ -30,6 +30,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Manufactured for Padagis® Minneapolis, MN 55427 www.padagis.com
 
-All trademarks are the property of their respective owners ALS333 R7
+and PADAGIS are registered trademarks of Padagis US LLC.
+ALS333 R8
 
-1B000 RC PH2 Rev 06-24
+1B000 RC PH3 Rev 6-25
