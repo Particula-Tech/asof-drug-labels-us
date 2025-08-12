@@ -7,7 +7,7 @@ The mean reductions in lesion counts from baseline after treatment for 12 weeks 
 
 Table 1: Mean Percent Reduction in Lesion Counts Retin-A Micro (tretinoin) Gel microsphere, 0.1%
 
-|  | Study #1 72 pts | Study #2 71 pts | Study #1 72 pts | Study #2 67 pts |
+|  | Study #1 72 pts | Study #2 71 pts | Study#1 72 pts | Study #2 67 pts |
 | --- | --- | --- | --- | --- |
 |  | Retin-A Micro (tretinoin) Gel microsphere, 0.1% |  | Vehicle Gel |  |
 | Non-inflammatory lesion counts | 49% | 32% | 22% | 3% |

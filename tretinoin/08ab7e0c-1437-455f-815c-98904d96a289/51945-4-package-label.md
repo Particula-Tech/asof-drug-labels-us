@@ -1,8 +1,8 @@
 # PRINCIPAL DISPLAY PANEL - 0.08% 50 g Carton
 
-NDC0187-5148-50
+NDC 0187-5148-50
 
-RETIN-A MICRO ® (tretinoin) Gel microsphere 0.08%
+RETIN-A MICRO® (tretinoin) Gel microsphere 0.08%
 
 PUMP
 
@@ -13,13 +13,13 @@ Ortho Dermatologics
 NET WT.
 50 g
 
-9440607 20000365H
+9440608 20000365J
 
 # PRINCIPAL DISPLAY PANEL - 0.06% 50 g Carton
 
-NDC0187-5146-50
+NDC 0187-5146-50
 
-RETIN-A MICRO ® (tretinoin) Gel microsphere 0.06%
+RETIN-A MICRO® (tretinoin) Gel microsphere 0.06%
 
 PUMP
 
@@ -30,13 +30,13 @@ Ortho Dermatologics
 NET WT.
 50 g
 
-9581503 20001795D
+9581504 20001795E
 
 # PRINCIPAL DISPLAY PANEL - 0.04% 50 g Carton
 
-NDC0187-5144-50
+NDC 0187-5144-50
 
-RETIN-A MICRO ® (tretinoin gel) microsphere 0.04%
+RETIN-A MICRO® (tretinoin gel) microsphere 0.04%
 
 PUMP
 
@@ -47,13 +47,13 @@ Ortho Dermatologics
 Net Wt.
 50g
 
-9450906 50104776F
+9450907
 
 # PRINCIPAL DISPLAY PANEL - 0.1% 50 g Carton
 
-NDC0187-5140-50
+NDC 0187-5140-50
 
-RETIN-A MICRO ® (tretinoin gel) microsphere 0.1%
+RETIN-A MICRO® (tretinoin gel) microsphere 0.1%
 
 PUMP
 
@@ -64,4 +64,4 @@ Ortho Dermatologics
 Net Wt.
 50g
 
-9450706 50104801E
+9450707
