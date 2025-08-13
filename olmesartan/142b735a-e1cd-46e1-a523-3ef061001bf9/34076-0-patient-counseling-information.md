@@ -12,16 +12,16 @@ Manufactured by:
 
 Alkem Laboratories Ltd.,
 
-INDIA.
+Mumbai - 400 013, INDIA.
 
 Distributed by:
 
 Ascend Laboratories, LLC
 
-Parsippany, NJ 07054
+Bedminster, NJ 07921
 
-Revised: February, 2022
+Revised: March 2025
 
 Rx Only
 
-PT 2245-03
+PT 2245-04

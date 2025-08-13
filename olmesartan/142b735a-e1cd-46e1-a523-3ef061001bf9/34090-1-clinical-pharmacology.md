@@ -20,7 +20,7 @@ Blockade of the angiotensin II receptor inhibits the negative regulatory feedbac
 ## 12.2 Pharmacodynamics
 
 Olmesartan medoxomil tablets doses of 2.5 mg to 40 mg inhibit the pressor effects of angiotensin I infusion.
-The duration of the inhibitory effect was related to dose, with doses of olmesartan medoxomil tablets >40 mg giving >90% inhibition at 24 hours.
+The duration of the inhibitory effect was related to dose, with doses of Olmesartan Medoxomil Tablets >40 mg giving >90% inhibition at 24 hours.
 
 Plasma concentrations of angiotensin I and angiotensin II and plasma renin activity (PRA) increase after single and repeated administration of olmesartan medoxomil tablets to healthy subjects and hypertensive patients.
 Repeated administration of up to 80 mg olmesartan medoxomil tablets had minimal influence on aldosterone levels and no effect on serum potassium.
