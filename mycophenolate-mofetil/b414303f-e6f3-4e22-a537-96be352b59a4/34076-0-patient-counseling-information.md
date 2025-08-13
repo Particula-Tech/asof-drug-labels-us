@@ -49,12 +49,17 @@ Inform patients that acute inflammatory reactions have been reported in some pat
 Some reactions were severe, requiring hospitalization.
 Advise patients to contact their physician if they develop fever, joint stiffness, joint pain or muscle pains [see Warnings and Precautions (5.7)].
 
-## 17.7 Immunizations
+## 17.7 Hypersensitivity Reactions
+
+Inform patients of the potential risk of hypersensitivity reactions.
+Advise patients to stop taking mycophenolate mofetil capsules and seek immediate medical attention if signs or symptoms of hypersensitivity reaction occur (such as swelling of face, lips, tongue, or throat; difficulty breathing or swallowing) [see Warnings and Precautions (5.8)].
+
+## 17.8 Immunizations
 
 Inform patients that mycophenolate mofetil capsules can interfere with the usual response to immunizations.
-Before seeking vaccines on their own, advise patients to discuss first with their physician [see Warnings and Precautions (5.8)].
+Before seeking vaccines on their own, advise patients to discuss first with their physician [see Warnings and Precautions (5.9)].
 
-## 17.8 Administration Instructions
+## 17.9 Administration Instructions
 
 - Advise patients not to open mycophenolate mofetil capsules.
 
@@ -64,22 +69,20 @@ Before seeking vaccines on their own, advise patients to discuss first with thei
 
 - Advise patients to take a missed dose as soon as they remember, except if it is closer than 2 hours to the next scheduled dose; in this case they should continue to take mycophenolate mofetil capsules at the usual times.
 
-## 17.9 Blood Donation
+## 17.10 Blood Donation
 
-Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of mycophenolate mofetil capsules [see Warnings and Precautions (5.11)].
+Advise patients not to donate blood during therapy and for at least 6 weeks following discontinuation of mycophenolate mofetil capsules [see Warnings and Precautions (5.12)].
 
-## 17.10 Semen Donation
+## 17.11 Semen Donation
 
-Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil capsules [see Warnings and Precautions (5.12)].
+Advise males of childbearing potential not to donate semen during therapy and for 90 days following discontinuation of mycophenolate mofetil capsules [see Warnings and Precautions (5.13)].
 
-## 17.11 Potential to Impair Driving and Use of Machinery
+## 17.12 Potential to Impair Driving and Use of Machinery
 
 Advise patients that mycophenolate mofetil capsules can affect the ability to drive or operate machines.
-Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil capsules [see Warnings and Precautions (5.14)].
+Patients should avoid driving or operating machines if they experience somnolence, confusion, dizziness, tremor or hypotension during treatment with mycophenolate mofetil capsules [see Warnings and Precautions (5.15)].
 
 Brands listed are the trademarks of their respective owners.
-
-Dispense with Medication Guide available at: www.tevausa.com/medguides
 
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
@@ -87,4 +90,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-S 7/2023
+T 7/2025
