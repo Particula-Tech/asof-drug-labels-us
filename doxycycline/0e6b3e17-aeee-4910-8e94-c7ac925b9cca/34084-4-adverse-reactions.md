@@ -48,7 +48,10 @@ Photosensitivity is discussed above [see Warnings and Precautions (5.5)].
 Hypersensitivity reactions: urticaria, angioneurotic edema, anaphylaxis, anaphylactoid purpura, serum sickness, pericarditis, and exacerbation of systemic lupus erythematosus.
 Blood: Hemolytic anemia, thrombocytopenia, neutropenia, and eosinophilia.
 
-## 6.2 Postmarketing Experience
+## 6.2 Postmarketing Adverse Reactions
 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-The following adverse reactions have been identified during post approval use of Doxycycline: Nervous system: Pseudotumor cerebri (benign intracranial hypertension), headache.
+The following adverse reactions have been identified during post approval use of Doxycycline.
+
+Nervous system: Pseudotumor cerebri (benign intracranial hypertension), headache.
+Skin: fixed drug eruption Psychiatric: depression, anxiety, suicidal ideation, insomnia, abnormal dreams, hallucination

@@ -129,10 +129,10 @@ If you would like more information, talk with your doctor.
 You can also ask your doctor or pharmacist for information that is written for health professionals.
 
 What are the ingredients in Doxycycline?
-Active ingredient: doxycycline Inactive ingredients: hard gelatin capsule, hypromellose, methacrylic acid copolymer, Opadry beige, sugar spheres, talc, and triethyl citrate.
+Active ingredient: doxycycline Inactive ingredients: hypromellose, iron oxide red, iron oxide yellow, methacrylic acid copolymer, polyethylene glycol, Polysorbate 80, sugar spheres, talc, titanium dioxide, and triethyl citrate.
 
 Distributed by: Mayne Pharma Raleigh, NC 27609 All trademarks are the property of their respective owners.
-20104-1022
+P57489-1
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: October 2022
+Revised: Apr 2025

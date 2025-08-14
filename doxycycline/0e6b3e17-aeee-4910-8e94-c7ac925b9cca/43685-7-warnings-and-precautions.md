@@ -77,3 +77,8 @@ Doxycycline should be used with caution in patients with a history of or predisp
 
 Periodic laboratory evaluations of organ systems, including hematopoietic, renal and hepatic studies should be performed.
 Appropriate tests for autoimmune syndromes should be performed as indicated.
+
+## 5.12 Fixed Drug Eruptions
+
+Fixed drug eruptions have occurred with doxycycline and have been associated with worsening severity upon subsequent administrations, including generalized bullousfixed drug eruption [see Adverse Reactions (6.2)].
+If severe skin reactions occur, discontinue ORACEA immediately and initiate appropriate therapy.

@@ -11,4 +11,4 @@ RX ONLY 30 Capsules
 maynepharma
 
 Distributed by: Mayne Pharma, Raleigh, NC 27609 All trademarks are the property of their respective owners.
-31650-1022
+P57488-1
