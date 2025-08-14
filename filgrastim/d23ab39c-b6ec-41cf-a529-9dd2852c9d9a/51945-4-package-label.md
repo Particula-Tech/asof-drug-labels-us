@@ -34,7 +34,7 @@ NDC 0069-0294-01 Rx Only
 
 Nivestym™ (filgrastim-aafi) Injection
 
-480 mcg/1.6 mL
+480 mcg/1.6 mL (300 mcg/mL)
 
 1.6 mL Single-Dose Vial
 
@@ -48,7 +48,7 @@ NDC 0069-0294-10 Rx Only
 
 Nivestym™ (filgrastim-aafi) Injection
 
-480 mcg/1.6 mL
+480 mcg/1.6 mL (300 mcg/mL)
 
 A recombinant Granulocyte Colony Stimulating Factor (rG-CSF) derived from E. coli
 
