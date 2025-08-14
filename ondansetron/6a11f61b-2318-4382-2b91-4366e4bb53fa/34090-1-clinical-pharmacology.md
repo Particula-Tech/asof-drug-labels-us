@@ -67,7 +67,7 @@ Specific Populations
 Geriatric Patients: A reduction in clearance and increase in elimination half-life are seen in patients older than 75 years of age [see Use in Specific Populations (8.5)].
 
 Pediatric Patients: Pharmacokinetic samples were collected from 74 cancer patients aged 6 to 48 months, who received a dose of 0.15 mg/kg of intravenous ondansetron every 4 hours for 3 doses during a safety and efficacy trial.
-These data were combined with sequential pharmacokinetics data from 41 surgery patients aged 1 month to 24 months, who received a single dose of 0.1 mg/kg of intravenous ondansetron prior to surgery with general anesthesia, and a population pharmacokinetic analysis was performed on the combined data set.
+These data were combined with sequential pharmacokinetics data from 41 surgery patients aged 1 month to 24 months, who received a single-dose of 0.1 mg/kg of intravenous ondansetron prior to surgery with general anesthesia, and a population pharmacokinetic analysis was performed on the combined data set.
 The results of this analysis are included in Table 5 and are compared with the pharmacokinetic results in cancer patients aged 4 to 18 years.
 
 Table 5.

@@ -38,7 +38,7 @@ The recommended dose and administration instructions for adult and pediatric pat
 Table 1.
 Recommended Dose and Administration of Ondansetron Injection for Prevention of Postoperative Nausea and/or Vomiting
 
-| Population | Recommended Single Dose | Administration Instructions | Timing of Administration |
+| Population | Recommended Single-Dose | Administration Instructions | Timing of Administration |
 | --- | --- | --- | --- |
 | Adults and pediatric patients older than 12 years of age | 4 mgFew patients above 80 kg have been studied. | May be administered intravenously or intramuscularly: •Intravenously: infuse undiluted syringe contents (4 mg) over at least 30 seconds and preferably longer (over 2 to 5 minutes).•Intramuscularly: inject undiluted syringe contents (4 mg) | Administer immediately before induction of anesthesia, or postoperatively if the patient did not receive prophylactic antiemetics and experiences nausea and/or vomiting occurring within 2 hours after surgeryAdministration of a second intravenous dose of 4 mg ondansetron postoperatively in adult patients who received a 4 mg prophylactic dose does not provide additional control of nausea and vomiting [see Clinical Studies (14.3)].,For pediatric patients (1 month to 12 years) prevention of nausea and vomiting was only studied in patients who had not received prophylactic ondansetron. |
 | Pediatric patients 1 month to 12 years and more than 40 kg | 4 mg | Infuse intravenously over at least 30 seconds and preferably longer (over 2 to 5 minutes). |  |
