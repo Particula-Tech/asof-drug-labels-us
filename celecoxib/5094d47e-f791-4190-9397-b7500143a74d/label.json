@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA211759"
+  ],
+  "inn": "celecoxib",
+  "labeler": "Carwin Pharmaceutical Associates, LLC",
+  "package_ndcs": [
+    "15370-501-16"
+  ],
+  "products": [
+    {
+      "form": "Suspension",
+      "generic": "celecoxib",
+      "name": "VYSCOXA"
+    }
+  ],
+  "setid": "5094d47e-f791-4190-9397-b7500143a74d",
+  "source": "dailymed"
+}
