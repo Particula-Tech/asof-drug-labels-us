@@ -41,6 +41,8 @@ For Intravenous Infusion
 
 Withdraw the prescribed dose of FRINDOVYX from the vial with a syringe and dilute FRINDOVYX to a concentration of 2 mg/mL with any of the following diluents:
 
+- 0.9% Sodium Chloride Injection, USP
+
 - 0.45% Sodium Chloride Injection, USP
 - 5% Dextrose Injection, USP
 - 5% Dextrose and 0.9% Sodium Chloride Injection, USP
@@ -60,6 +62,7 @@ Table 1: Storage of Cyclophosphamide Solutions
 | Diluted Solution (20 mg/mL) for Direct Intravenous Injection |  |  |
 | 0.9% Sodium Chloride Injection, USP | up to 24 hours | up to 6 days |
 | Diluted Solutions (2 mg/mL) for Intravenous Infusion |  |  |
+| 0.9% Sodium Chloride Injection, USP | up to 24 hours | up to 6 days |
 | 0.45% Sodium Chloride Injection, USP | up to 24 hours | up to 6 days |
 | 5% Dextrose Injection, USP | up to 24 hours | up to 36 hours |
 | 5% Dextrose and 0.9% Sodium Chloride Injection, USP | up to 24 hours | up to 36 hours |
