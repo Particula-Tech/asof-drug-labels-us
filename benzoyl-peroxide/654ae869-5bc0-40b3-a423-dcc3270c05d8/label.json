@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA214902"
+  ],
+  "inn": "benzoyl-peroxide",
+  "labeler": "Mayne Pharma Commercial LLC",
+  "package_ndcs": [
+    "51862-771-30"
+  ],
+  "products": [
+    {
+      "form": "CREAM",
+      "generic": "benzoyl peroxide and tretinoin",
+      "name": "Twyneo"
+    }
+  ],
+  "setid": "654ae869-5bc0-40b3-a423-dcc3270c05d8",
+  "source": "dailymed"
+}
