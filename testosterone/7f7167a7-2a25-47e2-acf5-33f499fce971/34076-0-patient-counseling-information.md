@@ -21,7 +21,7 @@ Advise patients to contact their health care provider if they have any prostate-
 Blood Pressure Increases
 
 Inform patients that KYZATREX can increase blood pressure (BP) which can increase cardiovascular risk over time Instruct patients about the importance of monitoring BP periodically while on KYZATREX.
-If BP increases while on KYZATREX, antihypertensive medications may need to be started, added, or adjusted to control BP, or KYZTREX may need to be discontinued [see Warnings and Precautions (5.4)]
+If BP increases while on KYZATREX, antihypertensive medications may need to be started, added, or adjusted to control BP, or KYZATREX may need to be discontinued [see Warnings and Precautions (5.4)]
 
 Edema
 
