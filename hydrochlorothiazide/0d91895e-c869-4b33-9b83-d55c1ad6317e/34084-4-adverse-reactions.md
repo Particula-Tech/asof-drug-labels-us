@@ -113,13 +113,35 @@ The following adverse reactions have been identified during postapproval use of 
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to AVALIDE.
 
-The following has been rarely reported with irbesartan monotherapy: intestinal angioedema [see Warnings and Precautions (5.9)].
+Irbesartan and hydrochlorothiazide
 
-The following have been very rarely reported with irbesartan and hydrochlorothiazide monotherapies: urticaria, jaundice, hepatitis, thrombocytopenia, and impaired renal function including renal failure.
+Blood and lymphatic system: Thrombocytopenia
 
-The following have been reported with irbesartan monotherapy: tinnitus, hyperkalemia, angioedema (involving swelling of the face, lips, pharynx, and/or tongue), anaphylactic reaction including anaphylactic shock, increased CPK, anemia, and hypoglycemia in diabetic patients.
+Hepatobiliary: Hepatitis, Jaundice
 
-The following have been reported with hydrochlorothiazide monotherapy: acute angle-closure glaucoma, acute myopia, and choroidal effusion.
+Renal and urinary: Impaired renal function including renal failure
+
+Skin and subcutaneous tissue: Urticaria
+
+Irbesartan
+
+Blood and lymphatic system: Anemia
+
+Ear and labyrinth: Tinnitus
+
+Gastrointestinal: Intestinal angioedema
+
+Skin and subcutaneous tissue: Angioedema (involving swelling of the face, lips, pharynx, and/or tongue)
+
+Immune system: Anaphylactic reaction including anaphylactic shock
+
+Investigations: Increased CPK (Creatine Phosphokinase)
+
+Metabolism and nutrition: Hyperkalemia, Hypoglycemia in diabetic patients
+
+Hydrochlorothiazide
+
+Eye: Acute angle-closure glaucoma, Acute myopia, and Choroidal effusion
 
 Non-melanoma Skin Cancer
 
