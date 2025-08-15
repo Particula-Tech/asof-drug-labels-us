@@ -2,12 +2,10 @@
 
 NDC 0591-4171-01
 
-Penicillamine Capsules USP
+Penicillamine Capsules, USP
 
 250 mg
 
 Rx only
 
-100 CAPSULES
-
-TEVA
+100 Capsules

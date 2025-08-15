@@ -17,7 +17,7 @@ C5H11NO2S M.W.
 
 It reacts readily with formaldehyde or acetone to form a thiazolidine-carboxylic acid.
 
-Penicillamine capsules USP for oral administration contain 250 mg of penicillamine, USP.
+Penicillamine capsules, USP for oral administration contain 250 mg of penicillamine, USP.
 Each capsule contains the following inactive ingredients: magnesium stearate and mannitol.
 Each capsule shell contains: gelatin, sodium lauryl sulfate and titanium dioxide.
 The imprinting ink contains: black iron oxide, potassium hydroxide, propylene glycol and shellac.
