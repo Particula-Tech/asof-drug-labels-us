@@ -28,4 +28,4 @@ The pH of these solutions is adjusted to between 3.3 and 5.5 with sodium hydroxi
 
 For the multiple-dose vials, each mL also contains 1 mg methylparaben as preservative.
 
-The specific gravity of Bupivacaine Hydrochloride and Epinephrine Injection [0.5% (5 mg/mL) of bupivacaine] at 25 °C is 1.007.
+The specific gravity of Bupivacaine Hydrochloride and Epinephrine Injection [0.5% (5 mg/mL) of bupivacaine] at 25°C is 1.007.

@@ -1,15 +1,12 @@
 {
   "application_numbers": [
-    "ANDA070583",
-    "ANDA070584"
+    "ANDA070583"
   ],
   "inn": "bupivacaine",
   "labeler": "Hospira, Inc.",
   "package_ndcs": [
     "0409-1159-09",
-    "0409-1159-10",
-    "0409-1162-09",
-    "0409-1162-10"
+    "0409-1159-10"
   ],
   "products": [
     {

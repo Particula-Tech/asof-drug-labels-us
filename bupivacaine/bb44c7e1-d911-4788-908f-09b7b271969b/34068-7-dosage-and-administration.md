@@ -12,7 +12,7 @@
 
 Administration Precautions
 
-- •Bupivacaine Hydrochloride Injection Injection/Bupivacaine Hydrochloride and Epinephrine Injection are to be administered in carefully adjusted dosages by or under the supervision of experienced clinicians who are well versed in the diagnosis and management of dose-related toxicity and other acute emergencies which might arise from the block to be employed.
+- •Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection are to be administered in carefully adjusted dosages by or under the supervision of experienced clinicians who are well versed in the diagnosis and management of dose-related toxicity and other acute emergencies which might arise from the block to be employed.
 - •Use Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection only if the following are immediately available: oxygen, cardiopulmonary resuscitative equipment and drugs, and the personnel resources needed for proper management of toxic reactions and related emergencies [see Warnings and Precautions (5.2), Adverse Reactions (6), Overdosage (10)].
 - •The toxic effects of local anesthetics are additive.
   Monitor for neurologic and cardiovascular effects related to local anesthetic systemic toxicity when additional local anesthetics are administered with Bupivacaine Hydrochloride Injection/Bupivacaine Hydrochloride and Epinephrine Injection [see Warnings and Precautions (5.2), Drug Interactions (7.1), Overdosage (10)].
@@ -41,7 +41,7 @@ Types of Block and Recommended Bupivacaine Hydrochloride Injection/Bupivacaine H
 | Peripheral nerve block | ✓ | ✓ |  | ✓ | ✓ |
 | Retrobulbar block |  |  | ✓ |  |  |
 | Sympathetic block | ✓ |  |  |  |  |
-| Caudal blockAvoid use of multiple-dose vials of Bupivacaine Hydrochloride Injection and Bupivacaine Hydrochloride and Epinephrine Injection for caudal or epidural anesthesia [see Warnings and Precautions (5.4)]. | ✓ | ✓ |  | ✓ | ✓ |
+| Caudal blockAvoid use of multiple-dose vials of Bupivacaine Hydrochloride Injection and Bupivacaine Hydrochloride and Epinephrine Injection for caudal or epidural anesthesia [see Warnings and Precautions (5.4)].t | ✓ | ✓ |  | ✓ | ✓ |
 | Lumbar epidural block | ✓ | ✓ | ✓(not for obstetrical anesthesia) | ✓ | ✓ |
 | Epidural test dose |  |  |  |  | ✓ |
 | Dental block |  |  |  |  | ✓ |
