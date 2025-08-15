@@ -149,7 +149,7 @@ Table 12 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time
 |  |  | Late (Month 3) |  |  |  |  |  |  |
 | 1 to less than 2 yr 1 to less than 6 yr 6 to less than 12 yr 12 to 18 yr | (4)(15)(14)(17) |  | 0.7250.9891.210.978 | (0.276)(0.511)(0.532)(0.484) | 23.822.727.817.9 | (13.4)(10.1)(14.3)(9.57) | 47.449.761.953.6 | (14.7)(18.2)(19.6)(20.3)n=16 |
 |  |  | Late (Month 9) |  |  |  |  |  |  |
-| 1 to less than 2 yr 1 to less than 6 yr 6 to less than 12 yr 12 to 18 yr | (4)(12)(11)(14) |  | 0.6040.8691.121.09 | (0.208)(0.479)(0.462)(0.518) | 25.630.429.218.1 | (4.25)(9.16)(12.6)(7.29) | 55.861.066.856.7 | (11.6)(10.7)(21.2)(14.0) |
+| 1 to less than 2 yr1 to less than 6 yr 6 to less than 12 yr 12 to 18 yr | (4)(12)(11)(14) |  | 0.6040.8691.121.09 | (0.208)(0.479)(0.462)(0.518) | 25.630.429.218.1 | (4.25)(9.16)(12.6)(7.29) | 55.861.066.856.7 | (11.6)(10.7)(21.2)(14.0) |
 
 The mycophenolate mofetil oral suspension dose of 600 mg/m2 twice daily (up to a maximum of 1 g twice daily) achieved mean MPA AUC values in pediatric patients similar to those seen in adult kidney transplant patients receiving mycophenolate mofetil capsules at a dose of 1 g twice daily in the early post-transplant period.
 There was wide variability in the data.
