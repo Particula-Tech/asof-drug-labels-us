@@ -9,3 +9,5 @@ Less frequent adverse reactions were stinging, cracking, erythema, folliculitis,
 Cushing's syndrome has been reported in infants and adults as a result of prolonged use of topical clobetasol propionate formulations.
 The following additional local adverse reactions have been reported with topical corticosteroids, and they may occur more frequently with the use of occlusive dressings and higher potency corticosteroids.
 These reactions are listed in an approximately decreasing order of occurrence: dryness, acneiform eruptions, hypopigmentation, perioral dermatitis, allergic contact dermatitis, secondary infection, irritation, striae, and miliaria.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sun Pharmaceutical Industries, Inc. at 1-866-923-4914 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
