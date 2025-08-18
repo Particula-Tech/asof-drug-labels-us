@@ -77,7 +77,7 @@ However, the LIFE study provides no evidence that the benefits of losartan potas
 ## 8.7 Renal Impairment
 
 Patients with renal insufficiency have elevated plasma concentrations of losartan and its active metabolite compared to subjects with normal renal function.
-No dose adjustment is necessary in patients with renal impairment unless a patient with renal impairment is also volume depleted [see Dosage and Administration (2.3), Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+No dose adjustment is necessary in patients with renal impairment unless a patient with renal impairment is also volume depleted [see Dosage and Administration (2.3), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
 
 ## 8.8 Hepatic Impairment
 
