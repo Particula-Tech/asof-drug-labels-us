@@ -20,15 +20,11 @@ Instruct patients or caregivers how to monitor for signs of hypoglycemia [see Wa
 
 Manufactured by:
 
-Alkem Laboratories Ltd.,
-
-Mumbai - 400 013, INDIA.
+Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
 
 Distributed by:
 
-Ascend Laboratories, LLC
-
-Parsippany, NJ 07054
+Ascend Laboratories, LLC Bedminster, NJ 07921
 
 Trademarks are the property of their respective owners.
 

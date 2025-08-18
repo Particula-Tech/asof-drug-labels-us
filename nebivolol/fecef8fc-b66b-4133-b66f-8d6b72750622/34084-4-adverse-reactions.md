@@ -16,11 +16,9 @@ The most common adverse reactions that led to discontinuation of nebivolol were 
 
 Table 1 lists treatment-emergent adverse reactions that were reported in three 12-week, placebo-controlled monotherapy trials involving 1597 hypertensive patients treated with either 5 mg, 10 mg, or 20 to 40 mg of nebivolol and 205 patients given placebo and for which the rate of occurrence was at least 1% of patients treated with nebivolol and greater than the rate for those treated with placebo in at least one dose group.
 
-Table 1.
-Treatment-Emergent Adverse Reactions with an Incidence (over 6 weeks) ≥ 1% in Nebivolol-Treated Patients and at a Higher Frequency than Placebo-Treated Patients
-
-| System Organ Class –Preferred Term | Placebo (n=205) (%) | Nebivolol 5 mg (n = 459) (%) | Nebivolol 10 mg (n = 461) (%) | Nebivolol 20 to 40 mg (n=677) (%) |
+| Table 1. Treatment-Emergent Adverse Reactions with an Incidence (over 6 weeks) ≥1% in Nebivolol-Treated Patients and at a Higher Frequency than Placebo-Treated Patients |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| System Organ Class –Preferred Term | Placebo (n=205) (%) | Nebivolol 5 mg (n = 459) (%) | Nebivolol 10 mg (n = 461) (%) | Nebivolol 20 to 40 mg (n=677) (%) |
 | Cardiac Disorders |  |  |  |  |
 | Bradycardia | 0 | 0 | 0 | 1 |
 | Gastrointestinal Disorders |  |  |  |  |
@@ -42,8 +40,14 @@ Treatment-Emergent Adverse Reactions with an Incidence (over 6 weeks) ≥ 1% in 
 
 Listed below are other reported adverse reactions with an incidence of at least 1% in the more than 4,300 patients treated with nebivolol in controlled or open-label trials except for those already appearing in Table 1, terms too general to be informative, minor symptoms, or adverse reactions unlikely to be attributable to drug because they are common in the population.
 These adverse reactions were in most cases observed at a similar frequency in placebo-treated patients in the controlled studies.
+
 Body as a Whole: asthenia.
-Gastrointestinal System Disorders: abdominal pain Metabolic and Nutritional Disorders: hypercholesterolemia Nervous System Disorders: paraesthesia
+
+Gastrointestinal System Disorders: abdominal pain
+
+Metabolic and Nutritional Disorders: hypercholesterolemia
+
+Nervous System Disorders: paraesthesia
 
 ## 6.2 Laboratory Abnormalities
 

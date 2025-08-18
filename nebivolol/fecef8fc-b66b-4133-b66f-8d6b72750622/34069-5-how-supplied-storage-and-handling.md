@@ -7,21 +7,21 @@ Nebivolol tablets are supplied in the following strengths and package configurat
 
 | Nebivolol Tablets |  |  |  |
 | --- | --- | --- | --- |
-| Tablet Strength | Package Configuration | NDC # | Tablet Color |
-| 2.5 mg | Bottle of 30 | 67877-393-30 | Light Blue |
+| Tablet Strength | PackageConfiguration | NDC# | TabletColor |
+| 2.5mg | Bottleof30 | 67877-393-30 | LightBlue |
 | Bottle of 100 | 67877-393-01 |  |  |
 | Bottle of 90 | 67877-393-90 |  |  |
 | Carton of 10 (1 x 10) Unit-dose Tablets | 67877-393-33 |  |  |
-| 5 mg | Bottle of 30 | 67877-392-30 | Beige |
-| Bottle of 100 | 67877-392-01 |  |  |
+| 5mg | Bottleof30 | 67877-392-30 | Beige |
+| Bottleof100 | 67877-392-01 |  |  |
 | Bottle of 90 | 67877-392-90 |  |  |
 | Carton of 10 (1 x 10) Unit-dose Tablets | 67877-392-33 |  |  |
-| 10 mg | Bottle of 30 | 67877-391-30 | Pinkish-Purple |
-| Bottle of 100 | 67877-391-01 |  |  |
+| 10mg | Bottleof30 | 67877-391-30 | Pinkish-Purple |
+| Bottleof100 | 67877-391-01 |  |  |
 | Bottle of 90 | 67877-391-90 |  |  |
 | Carton of 10 (1 x 10) Unit-dose Tablets | 67877-391-33 |  |  |
-| 20 mg | Bottle of 30 | 67877-390-30 | Light Blue |
-| Bottle of 100 | 67877-390-01 |  |  |
+| 20mg | Bottleof30 | 67877-390-30 | LightBlue |
+| Bottleof100 | 67877-390-01 |  |  |
 | Bottle of 90 | 67877-390-90 |  |  |
 | Carton of 10 (1 x 10) Unit-dose Tablets | 67877-390-33 |  |  |
 

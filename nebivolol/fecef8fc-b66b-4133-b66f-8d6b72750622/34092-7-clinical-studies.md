@@ -16,9 +16,9 @@ Most studies showed increasing response to doses above 5 mg.
 Table 2.
 Placebo-Subtracted Least-Square Mean Reductions in Trough Sitting Systolic/Diastolic Blood Pressure (SiSBP/SiDBP mmHg) by Dose in Studies with Once Daily Nebivolol
 
-| 1.25 | 2.5 | 5.0 | 10 | 20 | 30 to 40 |  |
-| --- | --- | --- | --- | --- | --- | --- |
 |  | Nebivolol dose (mg) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1.25 | 2.5 | 5.0 | 10 | 20 | 30 to 40 |  |
 | Study 1 | -6.6*/-5.1* | -8.5*/-5.6* | -8.1*/-5.5* | -9.2*/-6.3* | -8.7*/-6.9* | -11.7*/-8.3* |
 | Study 2 |  |  | -3.8/-3.2* | -3.1/-3.9* | -6.3*/-4.5* |  |
 | Study 3¶ |  | -1.5/-2.9 | -2.6/-4.9* | -6.0*/-6.1* | -7.2*/-6.1* | -6.8*/-5.5* |
