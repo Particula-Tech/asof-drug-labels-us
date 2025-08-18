@@ -1,8 +1,6 @@
-Manufactured by: Viokace, LLC 1007 US Highway 202/206, Bridgewater, NJ 08807, USA
+Manufactured by: Viokace LLC 1007 US Highway 202/206, Bridgewater, NJ 08807, USA US License No. 2196
 
-US License No. 2196
+Manufactured for: Aimmune Therapeutics, Inc. 1007 US Highway 202/206, Bridgewater, NJ 08807, USA
 
-Manufactured for: Aimmune Therapeutics, Inc. Bridgewater, NJ 08807, USA
-
-©2024 Nestlé.
+©2025 Nestlé.
 All trademarks are owned by Société des Produits Nestlé S.A., Vevey, Switzerland or used with permission.

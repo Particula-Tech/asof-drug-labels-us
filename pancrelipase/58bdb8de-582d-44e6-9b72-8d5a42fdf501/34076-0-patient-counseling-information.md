@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17. PATIENT COUNSELING INFORMATION
 
 Advise the patient or caregiver to read the FDA-approved patient labeling (Medication Guide).
 
@@ -17,22 +17,22 @@ Seek medical attention if signs or symptoms of a hypersensitivity reaction devel
 
 Dosage
 
-Advise the patient to increase take VIOKACE as prescribed, and to contact the healthcare provider if signs and symptoms of malabsorption persist [see Dosage and Administration (2.1)].
+Advise the patient to take VIOKACE as prescribed, and to contact the healthcare provider if signs and symptoms of malabsorption persist [see Dosage and Administration (2.1)].
 
 Administration
 
 Instruct the patient to:
 
-- •Take VIOKACE with meals or snacks.
-- •Swallow tablets whole.
+- Take VIOKACE with meals or snacks.
+- Swallow tablets whole.
   Do not crush or chew VIOKACE tablets.
-- •Consume sufficient liquids (water) to ensure complete swallowing of VIOKACE tablets.
+- Consume sufficient liquids (water) to ensure complete swallowing of VIOKACE tablets.
 
 Storage
 
 Instruct the patient or caregiver as follows:
 
-- •Keep VIOKACE in a dry place and protect from moisture and heat.
-- •After opening, keep the container tightly closed between uses to protect from moisture.
-- •Keep VIOKACE in the original bottle.
-- •The desiccant packet should not be eaten or thrown away.
+- Keep VIOKACE in a dry place and protect from moisture and heat.
+- After opening, keep the container tightly closed between uses to protect from moisture.
+- Keep VIOKACE in the original bottle.
+- The desiccant packet should not be eaten or thrown away.
