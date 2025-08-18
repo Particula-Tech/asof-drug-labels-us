@@ -12,6 +12,7 @@ Administration of fluorouracil to rats and mice during selected periods of organ
 Malformations included cleft palate and skeletal defects.
 In monkeys, maternal doses of fluorouracil higher than an approximate human dose of 12 mg/kg resulted in abortion.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, apprise the patient of the potential hazard to a fetus [see Clinical Pharmacology (12.1)].
+
 Animal Data
 
 Malformations including cleft palate, skeletal defects and deformed appendages (paws and tails) were observed when fluorouracil was administered by intraperitoneal injection to mice at doses at or above 10 mg/kg (approximately 0.06 times a human dose of 12 mg/kg on a mg/m2 basis) for 4 days during the period of organogenesis.
