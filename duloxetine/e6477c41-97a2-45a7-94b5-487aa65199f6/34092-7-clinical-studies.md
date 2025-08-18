@@ -179,7 +179,7 @@ Duloxetine was studied in 184 pediatric patients aged 13 to 17 years with juveni
 In Study FM-4, 149 (81%) patients completed the trial.
 Duloxetine (N=91) was initiated at a dosage of 30 mg once daily for one week and titrated to 60 mg once daily for 12 weeks, as tolerated.
 The mean dosage for patients completing the 12-week treatment phase was 49 mg/day.
-Duloxetine showed improvement over placebo on the primary endpoint [change from baseline to end-of-treatment on the Brief Pain Inventory (BPI) – Modified Short Form: Adolescent Version 24-hour average pain severity rating] with a p-value of 0.052 from the pre­specified primary analysis, and p-values ranging from 0.011-0.020 from sensitivity analyses which assigned baseline values to missing assessments of some patients who did not complete the trial for various reasons.
+Duloxetine showed improvement over placebo on the primary endpoint [change from baseline to end-of-treatment on the Brief Pain Inventory (BPI) – Modified Short Form: Adolescent Version 24-hour average pain severity rating] with a p-value of 0.052 from the pre-specified primary analysis, and p-values ranging from 0.011-0.020 from sensitivity analyses which assigned baseline values to missing assessments of some patients who did not complete the trial for various reasons.
 The patients had a baseline BPI of 5.7.
 For various degrees of improvement in pain from baseline to study endpoint, Figure 7 shows the fraction of patients achieving that degree of improvement in Study FM-4.
 

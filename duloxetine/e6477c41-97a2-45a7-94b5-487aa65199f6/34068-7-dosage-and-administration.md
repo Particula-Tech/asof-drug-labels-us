@@ -10,7 +10,8 @@ Do not take two doses of duloxetine delayed-release capsules at the same time.
 
 ## 2.2 Dosage for Treatment of Major Depressive Disorder in Adults
 
-The recommended starting dosage in adults with MDD is 40 mg/day (given as 20 mg twice daily) to 60 mg/day (given either once daily or as 30 mg twice daily).For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to duloxetine before increasing to 60 mg once daily.
+The recommended starting dosage in adults with MDD is 40 mg/day (given as 20 mg twice daily) to 60 mg/day (given either once daily or as 30 mg twice daily).
+For some patients, it may be desirable to start at 30 mg once daily for 1 week, to allow patients to adjust to duloxetine before increasing to 60 mg once daily.
 While a 120 mg/day dose was shown to be effective, there is no evidence that doses greater than 60 mg/day confer any additional benefits.
 Periodically reassess to determine the need for maintenance treatment and the appropriate dosage for such treatment.
 

@@ -67,7 +67,8 @@ Because it is possible that duloxetine and alcohol may interact to cause liver i
 
 ## 5.3 Orthostatic Hypotension, Falls and Syncope
 
-Orthostatic hypotension, falls, and syncope have been reported in patients treated with the recommended duloxetine dosages.Syncope and orthostatic hypotension tend to occur within the first week of therapy but can occur at any time during duloxetine treatment, particularly after dose increases.
+Orthostatic hypotension, falls, and syncope have been reported in patients treated with the recommended duloxetine dosages.
+Syncope and orthostatic hypotension tend to occur within the first week of therapy but can occur at any time during duloxetine treatment, particularly after dose increases.
 The risk of falling appears to be related to the degree of orthostatic decrease in blood pressure (BP) as well as other factors that may increase the underlying risk of falls.
 
 In an analysis of patients from all placebo-controlled trials, patients treated with duloxetine reported a higher rate of falls compared to patients treated with placebo.

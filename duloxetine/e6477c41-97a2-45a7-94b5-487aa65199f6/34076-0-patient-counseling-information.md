@@ -43,16 +43,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
   - Interference with Psychomotor Performance — Duloxetine may be associated with sedation and dizziness.
     Therefore, caution patients about operating hazardous machinery including automobiles, until they are reasonably certain that duloxetine therapy does not affect their ability to engage in such activities.
 
-Manufactured by:
+Manufactured by: Alkem Laboratories Ltd., Mumbai-400 013, INDIA.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
 
-Alkem Laboratories Ltd.,
-
-Mumbai-400 013, INDIA.
-
-Distributed by:
-
-Ascend Laboratories, LLC
-
-Parsippany, NJ 07054.
-
-PT1663-07
+For Medication Guide, please visit: www.ascendlaboratories.com/mg/duloxetinedrcaps.pdf

@@ -197,7 +197,7 @@ j Includes ejaculation failure.
 
 k Includes hot flush.
 
-l Includes increased diastolic blood pressure, increased systolic blood pressure, diastolic hypertension, essential hypertension, hypertension,hypertensive crisis, labile hypertension, orthostatic hypertension, secondary hypertension, and systolic hypertension.
+l Includes increased diastolic blood pressure, increased systolic blood pressure, diastolic hypertension, essential hypertension, hypertension, hypertensive crisis, labile hypertension, orthostatic hypertension, secondary hypertension, and systolic hypertension.
 
 Effects on Male and Female Sexual Function in Adults with MDD
 
@@ -250,39 +250,23 @@ The following listing is not intended to include reactions (1) already listed in
 
 Reactions are categorized by body system according to the following definitions: frequent adverse reactions are those occurring in at least 1/100 patients; infrequent adverse reactions are those occurring in 1/100 to 1/1000 patients; rare reactions are those occurring in fewer than 1/1000 patients.
 
-· Cardiac Disorders — Frequent: palpitations; Infrequent: myocardial infarction, tachycardia, and Takotsubo cardiomyopathy.
-
-· Ear and Labyrinth Disorders — Frequent: vertigo; Infrequent: ear pain and tinnitus.
-
-· Endocrine Disorders — Infrequent: hypothyroidism.
-
-· Eye Disorders — Frequent: vision blurred; Infrequent: diplopia, dry eye, and visual impairment.
-
-· Gastrointestinal Disorders — Frequent: flatulence; Infrequent: dysphagia, eructation, gastritis, gastrointestinal hemorrhage, halitosis, and stomatitis; Rare: gastric ulcer.
-
-· General Disorders and Administration Site Conditions — Frequent: chills/rigors; Infrequent: falls, feeling abnormal, feeling hot and/or cold, malaise, and thirst; Rare: gait disturbance.
-
-· Infections and Infestations — Infrequent: gastroenteritis and laryngitis.
-
-· Investigations — Frequent: weight increased, weight decreased; Infrequent: blood cholesterol increased.
-
-· Metabolism and Nutrition Disorders — Infrequent: dehydration and hyperlipidemia; Rare: dyslipidemia.
-
-· Musculoskeletal and Connective Tissue Disorders — Frequent: musculoskeletal pain; Infrequent: muscle tightness and muscle twitching.
-
-· Nervous System Disorders — Frequent: dysgeusia, lethargy, and paraesthesia/hypoesthesia; Infrequent: disturbance in attention, dyskinesia, myoclonus, and poor quality sleep; Rare: dysarthria.
-
-· Psychiatric Disorders — Frequent: abnormal dreams and sleep disorder; Infrequent: apathy, bruxism, disorientation/confusional state, irritability, mood swings, and suicide attempt; Rare: completed suicide.
-
-· Renal and Urinary Disorders — Frequent: urinary frequency; Infrequent: dysuria, micturition urgency, nocturia, polyuria, and urine odor abnormal.
-
-· Reproductive System and Breast Disorders — Frequent: anorgasmia/orgasm abnormal; Infrequent: menopausal symptoms, sexual dysfunction, and testicular pain; Rare: menstrual disorder.
-
-· Respiratory, Thoracic and Mediastinal Disorders — Frequent: yawning, oropharyngeal pain; Infrequent: throat tightness.
-
-· Skin and Subcutaneous Tissue Disorders — Frequent: pruritus; Infrequent: cold sweat, dermatitis contact, erythema, increased tendency to bruise, night sweats, and photosensitivity reaction; Rare: ecchymosis.
-
-· Vascular Disorders — Frequent: hot flush; Infrequent: flushing, orthostatic hypotension, and peripheral coldness.
+- Cardiac Disorders — Frequent: palpitations; Infrequent: myocardial infarction, tachycardia, and Takotsubo cardiomyopathy.
+- Ear and Labyrinth Disorders — Frequent: vertigo; Infrequent: ear pain and tinnitus.
+- Endocrine Disorders — Infrequent: hypothyroidism.
+- Eye Disorders — Frequent: vision blurred; Infrequent: diplopia, dry eye, and visual impairment.
+- Gastrointestinal Disorders — Frequent: flatulence; Infrequent: dysphagia, eructation, gastritis, gastrointestinal hemorrhage, halitosis, and stomatitis; Rare: gastric ulcer.
+- General Disorders and Administration Site Conditions — Frequent: chills/rigors; Infrequent: falls, feeling abnormal, feeling hot and/or cold, malaise, and thirst; Rare: gait disturbance.
+- Infections and Infestations — Infrequent: gastroenteritis and laryngitis.
+- Investigations — Frequent: weight increased, weight decreased; Infrequent: blood cholesterol increased.
+- Metabolism and Nutrition Disorders — Infrequent: dehydration and hyperlipidemia; Rare: dyslipidemia.
+- Musculoskeletal and Connective Tissue Disorders — Frequent: musculoskeletal pain; Infrequent: muscle tightness and muscle twitching.
+- Nervous System Disorders — Frequent: dysgeusia, lethargy, and paraesthesia/hypoesthesia; Infrequent: disturbance in attention, dyskinesia, myoclonus, and poor quality sleep; Rare: dysarthria.
+- Psychiatric Disorders — Frequent: abnormal dreams and sleep disorder; Infrequent: apathy, bruxism, disorientation/confusional state, irritability, mood swings, and suicide attempt; Rare: completed suicide.
+- Renal and Urinary Disorders — Frequent: urinary frequency; Infrequent: dysuria, micturition urgency, nocturia, polyuria, and urine odor abnormal.
+- Reproductive System and Breast Disorders — Frequent: anorgasmia/orgasm abnormal; Infrequent: menopausal symptoms, sexual dysfunction, and testicular pain; Rare: menstrual disorder.
+- Respiratory, Thoracic and Mediastinal Disorders — Frequent: yawning, oropharyngeal pain; Infrequent: throat tightness.
+- Skin and Subcutaneous Tissue Disorders — Frequent: pruritus; Infrequent: cold sweat, dermatitis contact, erythema, increased tendency to bruise, night sweats, and photosensitivity reaction; Rare: ecchymosis.
+- Vascular Disorders — Frequent: hot flush; Infrequent: flushing, orthostatic hypotension, and peripheral coldness.
 
 Adverse Reactions Observed in Placebo-Controlled Clinical Trials in Pediatric Patients
 
@@ -319,7 +303,8 @@ Table 6: Adverse Reactions: Incidence of 2% or More and Greater than Placebo in 
 | Psychiatric Disorders Insomniaf | 7 | 4 |
 | Respiratory, Thoracic, and Mediastinal Disorders Oropharyngeal Pain Cough | 4 3 | 2 1 |
 
-a Duloxetine is not approved for the treatment of pediatric MDD [see Use in Specific Populations (8.4)].The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.
+a Duloxetine is not approved for the treatment of pediatric MDD [see Use in Specific Populations (8.4)].
+The inclusion of an event in the table is determined based on the percentages before rounding; however, the percentages displayed in the table are rounded to the nearest integer.
 
 b Also includes abdominal pain upper, abdominal pain lower, abdominal tenderness, abdominal discomfort, and gastrointestinal pain.
 
@@ -348,7 +333,7 @@ Weight and height should be monitored regularly in pediatric patients treated wi
 
 Adverse Reactions in Pediatric Patients Aged 13 to 17 Years Old with Fibromyalgia
 
-Table 7 provides the incidence of adverse reactions in a fibromyalgia pediatric placebo-controlled trial (Study FM-4) that occurred in greater than 5% of patients treated with duloxetineand with an incidence greater than patients treated with placebo [see Clinical Studies (14.5)].
+Table 7 provides the incidence of adverse reactions in a fibromyalgia pediatric placebo-controlled trial (Study FM-4) that occurred in greater than 5% of patients treated with duloxetine and with an incidence greater than patients treated with placebo [see Clinical Studies (14.5)].
 
 Table 7: Adverse Reactions: Incidence of 5% or More and Greater than Placebo in a 13-week Placebo-Controlled Trial in Pediatric Patients 13 to 17 Years Old with Fibromyalgia (Study FM-4)a
 
