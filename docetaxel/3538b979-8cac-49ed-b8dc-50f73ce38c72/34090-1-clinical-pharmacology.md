@@ -17,6 +17,7 @@ Absorption
 
 The pharmacokinetics of docetaxel has been evaluated in cancer patients after administration of 20 mg/m 2to 115 mg/m 2in phase 1 studies.
 The area under the curve (AUC) was dose proportional following doses of 70 mg/m 2to 115 mg/m 2with infusion times of 1 to 2 hours.
+
 Docetaxel’s pharmacokinetic profile is consistent with a three-compartment pharmacokinetic model, with initial rapid distribution phase and the late (terminal) phase.
 
 Distribution
@@ -29,9 +30,7 @@ Elimination
 
 With extended plasma sampling up to 8 to 22 days post infusion, the estimated mean total body clearance was 18 L/h/m 2(range of means: 14 to 23) and mean terminal elimination half-life was 116 hours (range of means: 92 to 135).
 
-Metabolism
-
-Docetaxel is metabolized by the CYP3A4 isoenzyme in vitro [see Drug Interactions (7)].
+Metabolism Docetaxel is metabolized by the CYP3A4 isoenzyme in vitro [see Drug Interactions (7)].
 
 Excretion In three cancer patients urinary and fecal excretion accounted for approximately 6% and 75% of the administered radioactivity, respectively, within 7 days.
 About 80% of the radioactivity recovered in feces was excreted during the first 48 hours as 1 major and 3 minor metabolites with less than 8% as unchanged drug.

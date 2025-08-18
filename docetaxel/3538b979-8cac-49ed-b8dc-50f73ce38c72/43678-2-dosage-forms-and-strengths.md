@@ -1,6 +1,17 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-BEIZRAY is supplied as a kit consisting of the following:
+BEIZRAY (docetaxel) injection is a clear, colorless liquid supplied as follows:
 
-- Two single dose vials of docetaxel injection: 80 mg/4 mL each; a clear, colorless liquid
-- One single dose vial of IV Solution Stabilizer: 50 mL of 25% Human Albumin solution for infusion; a clear and slightly viscous solution.
+BEIZRAY 80 mg kit consisting of the following:
+
+- One single-dose vial of BEIZRAY: 80 mg/4 mL
+- One single-dose vial of IV Solution Stabilizer: 50 mL of 25% Albumin Human USP solution for infusion; a clear and slightly viscous solution
+
+BEIZRAY 160 mg kit consisting of the following:
+
+- Two single-dose vials of BEIZRAY: 80 mg/4 mL each
+- One single-dose vial of IV Solution Stabilizer: 50 mL of 25% Albumin Human USP solution for infusion; a clear and slightly viscous solution
+
+BEIZRAY carton containing one single-dose vial:
+
+- 80 mg/4 mL

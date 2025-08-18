@@ -2,6 +2,7 @@
 
 Docetaxel is a CYP3A4 substrate.
 In vitro studies have shown that the metabolism of docetaxel may be modified by the concomitant administration of compounds that induce, inhibit, or are metabolized by cytochrome P450 3A4.
+
 In vivostudies showed that the exposure of docetaxel increased 2.2-fold when it was coadministered with ketoconazole, a potent inhibitor of CYP3A4.
 Protease inhibitors, particularly ritonavir, may increase the exposure of docetaxel.
 Concomitant use of BEIZRAY and drugs that inhibit CYP3A4 may increase exposure to docetaxel and should be avoided.

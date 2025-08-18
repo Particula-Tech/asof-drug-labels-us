@@ -7,14 +7,10 @@ Docetaxel has the following structural formula:
 Docetaxel is a white to almost-white powder with an empirical formula of C 43H 53NO 14, and a molecular weight of 807.89.
 It is highly lipophilic and practically insoluble in water.
 
-BEIZRAY Injection for intravenous use is a sterile, non-pyrogenic, clear colorless liquid, and is available in single-dose vials containing 80 mg (4 mL) docetaxel (anhydrous).
+BEIZRAY Injection for intravenous use is a sterile, non-pyrogenic, clear colorless liquid at 20 mg/mL concentration.
 Each mL contains 20 mg docetaxel (anhydrous) in 0.770 grams dehydrated alcohol (100% v/v) solution, with citric acid for pH adjustment.
 
-The BEIZRAY kit also contains a single dose vial of IV Solution Stabilizer, 50 mL of 25% Human Albumin solution from Octapharma.
+The BEIZRAY kit also contains a single dose vial of IV Solution Stabilizer, 50 mL of 25% Albumin Human USP solution.
 
-25% Human Albumin solution is a clear, slightly viscous liquid; it is almost colorless or slightly yellow or green.
-The composition of 25% Human Albumin solution is as follows:
-
-| Component | Quantity/1000 mL |
-| --- | --- |
-| Protein, of which greater than or equal to 96% is human albumin Sodium Potassium N-acetyl-DL-tryptophan Caprylic acid Water for Injection | 250 g 130 - 160 mmol less than or equal to 2 mmol 0.064 - 0.096 mmol/g protein 0.064 - 0.096 mmol/g protein ad. 1000 mL |
+25% Albumin Human USP is a clear, slightly viscous liquid; it is almost colorless or slightly yellow or green.
+The product contains 0.25 g Albumin Human USP per mL and is stabilized with 0.08 mmol sodium acetyltryptophanate and 0.08 mmol sodium caprylate per gram of albumin.

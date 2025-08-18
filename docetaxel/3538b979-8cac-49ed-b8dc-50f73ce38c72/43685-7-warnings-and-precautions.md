@@ -32,6 +32,7 @@ A 25% reduction in the dose of BEIZRAY is recommended during subsequent cycles f
 Neutropenia (<2000 neutrophils/mm 3) occurs in virtually all patients given 60 mg/m 2to 100 mg/m 2of BEIZRAY and grade 4 neutropenia (<500 cells/mm 3) occurs in 85% of patients given 100 mg/m 2and 75% of patients given 60 mg/m 2.
 Frequent monitoring of blood counts is, therefore, essential so that dose can be adjusted.
 BEIZRAY should not be administered to patients with neutrophils <1500 cells/mm 3.
+
 Febrile neutropenia occurred in about 12% of patients given 100 mg/m 2but was very uncommon in patients given 60 mg/m 2.
 Hematologic responses, febrile reactions and infections, and rates of septic death for different regimens are dose related [see Adverse Reactions (6.1), Clinical Studies (14)].
 
@@ -114,10 +115,8 @@ Alternative non-taxane cancer treatment should be considered.
 
 ## 5.11 Asthenia
 
-Cystoid macular edema (CME) has been reported in patients treated with docetaxel.
-Patients with impaired vision should undergo a prompt and comprehensive ophthalmologic examination.
-If CME is diagnosed, BEIZRAY treatment should be discontinued and appropriate treatment initiated.
-Alternative non-taxane cancer treatment should be considered.
+Severe asthenia has been reported in 14.9% (144/965) of metastatic breast cancer patients but has led to treatment discontinuation in only 1.8%.
+Symptoms of fatigue and weakness may last a few days up to several weeks and may be associated with deterioration of performance status in patients with progressive disease.
 
 ## 5.12 Embryo-Fetal Toxicity
 
@@ -147,8 +146,7 @@ Correction of dehydration and treatment of high uric acid levels are recommended
 
 ## 5.15 Transmissible Infectious Agents
 
-BEIZRAY final infusion solution contains human albumin, a derivative of human blood.
+BEIZRAY final infusion solution contains Albumin Human USP, a derivative of human blood.
 Based on effective donor screening and product manufacturing processes, it carries a remote risk for transmission of viral diseases.
 A theoretical risk for transmission of Creutzfeldt-Jakob Disease (CJD) also is considered extremely remote.
-
 No cases of transmission of viral diseases or CJD have ever been identified for albumin.

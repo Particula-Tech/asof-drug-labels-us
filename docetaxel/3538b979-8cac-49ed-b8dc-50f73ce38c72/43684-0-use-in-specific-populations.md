@@ -101,6 +101,7 @@ There were 128 patients (32%) in the vinorelbine+cisplatin group 65 years of age
 In the docetaxel+cisplatin group, patients less than 65 years of age had a median survival of 10.3 months (95% CI: 9.1 months, 11.8 months) and patients 65 years or older had a median survival of 12.1 months (95% CI: 9.3 months, 14 months).
 In patients 65 years of age or greater treated with docetaxel+cisplatin, diarrhea (55%), peripheral edema (39%) and stomatitis (28%) were observed more frequently than in the vinorelbine+cisplatin group (diarrhea 24%, peripheral edema 20%, stomatitis 20%).
 Patients treated with docetaxel+cisplatin who were 65 years of age or greater were more likely to experience diarrhea (55%), infections (42%), peripheral edema (39%) and stomatitis (28%) compared to patients less than the age of 65 administered the same treatment (43%, 31%, 31% and 21%, respectively).
+
 When docetaxel was combined with carboplatin for the treatment of chemotherapy-naive, advanced non-small cell lung carcinoma, patients 65 years of age or greater (28%) experienced higher frequency of infection compared to similar patients treated with docetaxel+cisplatin, and a higher frequency of diarrhea, infection and peripheral edema than elderly patients treated with vinorelbine+cisplatin.
 
 Prostate Cancer
