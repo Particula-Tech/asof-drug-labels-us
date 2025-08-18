@@ -14,7 +14,7 @@ Table 2 Adverse Events Occurring in ≥5% of the Patients in any Treated Group
 
 | Adverse Event | Number (%) | Number (%) | Number (%) | Number (%) |
 | --- | --- | --- | --- | --- |
-|  | ENTOCORT EC9 mgn=520 | Placebon=107 | Prednisolone40 mgn=145 | Comparatorn=88 |
+|  | ENTOCORT EC 9 mg n=520 | Placebo n=107 | Prednisolone 40 mg n=145 | ComparatorThis drug is not approved for the treatment of Crohn's disease in the United States n=88 |
 | Headache | 107 (21) | 19 (18) | 31 (21) | 11 (13) |
 | Respiratory Infection | 55 (11) | 7 (7) | 20 (14) | 5 (6) |
 | Nausea | 57 (11) | 10 (9) | 18 (12) | 7 (8) |
@@ -44,11 +44,11 @@ For the 145 patients treated with ENTOCORT EC 6 mg (total daily dose) in long-te
 
 Table 3 displays the frequency and incidence of signs/symptoms of hypercorticism by active questioning of patients in short-term clinical trials.
 
-Table 3 Summary and Incidence of Signs/Symptoms of Hypercorticism in Short-Term Studies
+Table 3Summary and Incidence of Signs/Symptoms of Hypercorticism in Short-Term Studies
 
 | Signs/Symptom | Number (%) | Number (%) | Number (%) |
 | --- | --- | --- | --- |
-|  | ENTOCORT EC 9 mgn=427 | Placebon=107 | Prednisolone Taper 40 mgn=145 |
+|  | ENTOCORT EC 9 mg n=427 | Placebo n=107 | Prednisolone Taper 40 mg n=145 |
 | Acne | 63 (15) | 14 (13) | 33 (23)Statistically significantly different from ENTOCORT EC 9 mg |
 | Bruising Easily | 63 (15) | 12 (11) | 13 (9) |
 | Moon Face | 46 (11) | 4 (4) | 53 (37) |

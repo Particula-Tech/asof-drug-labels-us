@@ -4,7 +4,7 @@ ENTOCORT EC 3 mg capsules are hard gelatin capsules with an opaque light grey bo
 
 They are supplied as follows:
 
-NDC 65483-702-10 Bottles of 100
+1. NDC 65483-702-10Bottles of 100
 
 ## STORAGE AND HANDLING SECTION
 

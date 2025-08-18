@@ -1,6 +1,6 @@
 # PATIENT PACKAGE INSERT
 
-ENTOCORT ® EC (budesonide) Capsules
+ENTOCORT®EC (budesonide) Capsules
 
 Read this information carefully before you begin treatment.
 Read the information you get whenever you get more medicine.
@@ -23,32 +23,24 @@ Who should not take ENTOCORT EC?
 
 Do not take ENTOCORT EC if:
 
-· you have had an allergic reaction to ENTOCORT EC or any of its ingredients
+1. · you have had an allergic reaction to ENTOCORT EC or any of its ingredients
 
 To help your provider decide if ENTOCORT EC is right for you, tell your provider:
 
-· if you had an allergic reaction to any medicine in the past
-
-· the names of all the prescription and nonprescription medicines you now take.
-Be sure to tell your provider if you take ketoconazole, which can affect processing of ENTOCORT EC by the liver, steroids such as prednisone, or any other drug that suppresses your immune system
-
-· if you are pregnant, think you may be pregnant, or plan to get pregnant.
-Your provider will talk about whether ENTOCORT EC is right for you
-
-· if you are breast feeding talk with your provider because ENTOCORT EC is carried in human milk and it may harm the baby.
-Your provider should tell you whether you should stop breast feeding to take ENTOCORT EC or should use another treatment.
-
-· if you ever had liver problems.
-Liver problems affect the amount of ENTOCORT EC that stays in your system, and dosage may need to be changed
-
-· if you are about to have surgery for any reason.
-Your dosage may need to be changed
-
-· if you have chicken pox or measles, or any other condition that suppresses the immune system
-
-· if you or anyone in your family has had diabetes or glaucoma
-
-· if you ever had tuberculosis, high blood pressure, osteoporosis, ulcers, or cataracts.
+1. · if you had an allergic reaction to any medicine in the past
+2. · the names of all the prescription and nonprescription medicines you now take.
+   Be sure to tell your provider if you take ketoconazole, which can affect processing of ENTOCORT EC by the liver, steroids such as prednisone, or any other drug that suppresses your immune system
+3. · if you are pregnant, think you may be pregnant, or plan to get pregnant.
+   Your provider will talk about whether ENTOCORT EC is right for you
+4. · if you are breast feeding talk with your provider because ENTOCORT EC is carried in human milk and it may harm the baby.
+   Your provider should tell you whether you should stop breast feeding to take ENTOCORT EC or should use another treatment.
+5. · if you ever had liver problems.
+   Liver problems affect the amount of ENTOCORT EC that stays in your system, and dosage may need to be changed
+6. · if you are about to have surgery for any reason.
+   Your dosage may need to be changed
+7. · if you have chicken pox or measles, or any other condition that suppresses the immune system
+8. · if you or anyone in your family has had diabetes or glaucoma
+9. · if you ever had tuberculosis, high blood pressure, osteoporosis, ulcers, or cataracts.
 
 How should I take ENTOCORT EC?
 
@@ -83,9 +75,8 @@ These allergies may include eczema (a skin disease) or rhinitis (inflammation in
 
 Call your provider if:
 
-· your Crohn’s disease symptoms worsen during treatment
-
-· you notice any side effects or any other symptoms that concern you
+1. · your Crohn’s disease symptoms worsen during treatment
+2. · you notice any side effects or any other symptoms that concern you
 
 These are not all the possible side effects of ENTOCORT EC.
 Ask your provider or pharmacist for a complete listing of all possible side effects of ENTOCORT EC.
