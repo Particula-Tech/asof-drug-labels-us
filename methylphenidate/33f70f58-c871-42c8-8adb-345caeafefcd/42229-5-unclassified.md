@@ -1,5 +1,5 @@
 Manufactured for Neos Therapeutics Brands, LLC.
-Grand Prairie, TX 75050.
+Denver, CO 80237.
 Made in USA.
 
 For more information, call 1-(888)-319-1789
