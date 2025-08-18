@@ -22,9 +22,8 @@ Made in Singapore
 
 ©2023 GSK group of companies or its licensor.
 
-1. 62000000087776 Rev.
-   4/23
-2. 
+- 62000000087776 Rev.
+  4/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -50,9 +49,8 @@ Made in Singapore
 
 ©2023 the GSK group of companies or its licensor.
 
-1. 62000000087842 Rev.
-   4/23
-2. 
+- 62000000087842 Rev.
+  4/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -78,6 +76,5 @@ Made in Singapore
 
 ©2023 the GSK group of companies
 
-1. 62000000087779 Rev.
-   4/23
-2. 
+- 62000000087779 Rev.
+  4/23

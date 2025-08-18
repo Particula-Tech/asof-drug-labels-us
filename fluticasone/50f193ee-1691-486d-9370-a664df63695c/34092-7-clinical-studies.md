@@ -124,13 +124,13 @@ Lung function improvements based on the primary endpoint of mean change from bas
 Table 4.
 Least Squares Mean Change from Baseline in Pre-Dose AM PEF over the 12-Week Treatment Period (Intent-to-Treat Population)
 
-| Primary Endpoint | Placebo(n = 119) | Fluticasone Furoate25 mcg(n = 118) | Fluticasone Furoate50 mcg(n = 120) | Fluticasone Furoate100 mcg(n = 118) | Fluticasone Propionate100 mcg(n = 118) |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| AM PEF (L/min)a | n = 119 | n = 117 | n = 118 | n = 118 | n = 117 |  |  |  |  |
-| LS mean change (SE) | 3.3 (2.63) | 21.9 (2.66) | 22.8 (2.65) | 15.8 (2.64) | 17.3 (2.64) |  |  |  |  |
-| Difference vs placebo |  | 18.6 | 19.5 | 12.5 | 14.0 |  |  |  |  |
-| (95% CI) |  | (11.3, 26.0) | (12.1, 26.9) | (5.1, 19.8) | (6.7, 21.4) |  |  |  |  |
-| AM PEF = Morning Peak Expiratory Flow, LS = Least squares, SE = standard error. a Average over Weeks 1 to 12. |  |  |  |  |  |  |  |  |  |
+| Primary Endpoint | Placebo(n = 119) | Fluticasone Furoate25 mcg(n = 118) | Fluticasone Furoate50 mcg(n = 120) | Fluticasone Furoate100 mcg(n = 118) | Fluticasone Propionate100 mcg(n = 118) |
+| --- | --- | --- | --- | --- | --- |
+| AM PEF (L/min)a | n = 119 | n = 117 | n = 118 | n = 118 | n = 117 |
+| LS mean change (SE) | 3.3 (2.63) | 21.9 (2.66) | 22.8 (2.65) | 15.8 (2.64) | 17.3 (2.64) |
+| Difference vs placebo |  | 18.6 | 19.5 | 12.5 | 14.0 |
+| (95% CI) |  | (11.3, 26.0) | (12.1, 26.9) | (5.1, 19.8) | (6.7, 21.4) |
+| AM PEF = Morning Peak Expiratory Flow, LS = Least squares, SE = standard error. a Average over Weeks 1 to 12. |  |  |  |  |  |
 
 Pediatric subjects receiving ARNUITY ELLIPTA 50 mcg had a greater improvement from baseline in percentage of 24-hour periods without need of beta2-agonist rescue medication use than subjects receiving placebo.
 
