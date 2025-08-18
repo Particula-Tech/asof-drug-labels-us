@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-CIMERLI (ranibizumab-eqrn) injection, 0.5 mg is a colorless to pale yellow solution supplied in:
+CIMERLI (ranibizumab-eqrn) injection is a colorless to pale yellow solution supplied in:
 
 - •Each CIMERLI 0.5 mg carton (NDC 61314-625-94) contains a single-dose, 2-mL glass vial with a BLUE CAP designed to deliver 0.05 mL of 10 mg/mL ranibizumab-eqrn solution.
 - •Each CIMERLI 0.3 mg carton (NDC 61314-624-94) contains a single-dose, 2-mL glass vial with a WHITE CAP designed to deliver 0.05 mL of 6 mg/mL ranibizumab-eqrn solution.
