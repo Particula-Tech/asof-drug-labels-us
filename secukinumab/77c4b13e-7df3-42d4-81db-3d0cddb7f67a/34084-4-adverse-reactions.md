@@ -152,8 +152,8 @@ The safety of intravenous COSENTYX is based on the pharmacokinetic exposure and 
 The following adverse reactions have been reported during post-approval use of COSENTYX.
 Because they are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: anaphylaxis, angioedema
+Immune system disorders: anaphylaxis, angioedema, systemic vasculitis
 
-Skin and subcutaneous tissue disorders: Eczematous eruptions (atopic dermatitis-like eruptions, dyshidrotic eczema, and erythroderma), and pyoderma gangrenosum
+Skin and subcutaneous tissue disorders: eczematous eruptions (atopic dermatitis-like eruptions, dyshidrotic eczema, and erythroderma), cutaneous vasculitis, pyoderma gangrenosum
 
 Infections: bacterial, viral, and fungal opportunistic infections, including esophageal candidiasis, tracheobronchial candidiasis, cutaneous aspergillosis, cytomegalovirus gastroenteritis/colitis, herpes simplex encephalitis, herpes simplex keratitis, Pneumocystis jiroveci pneumonia, Hepatitis B virus reactivation, histoplasmosis, toxoplasmosis
