@@ -10,7 +10,6 @@ Composition, osmolarity, and pH are shown in Table 1.
 | --- | --- | --- | --- | --- |
 | (mL) | Mannitol, USP (g/L) | (mOsmol/L) (calc) |  |  |
 | 10% OSMITROL | 500 | 100 | 549 | 5.0 (4.5 TO 7.0) |
-| 15% OSMITROL | 500 | 150 | 823 | 5.0 (4.5 TO 7.0) |
 | 20% OSMITROL | 250 | 200 | 1098 | 5.0 (4.5 TO 7.0) |
 | 500 |  |  |  |  |
 
