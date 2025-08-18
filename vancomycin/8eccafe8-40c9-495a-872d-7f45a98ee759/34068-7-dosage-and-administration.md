@@ -70,7 +70,10 @@ Reconstitution of the Spray-dried Powder:At the time of use, reconstitute the vi
 | Vancomycin Strength per Vial | Volume of Diluent |
 | --- | --- |
 | 500 mg | 10 mL |
+| 750 mg | 15 mL |
 | 1 g | 20 mL |
+| 1.25 g | 25 mL |
+| 1.5 g | 30 mL |
 
 After reconstitution, the vials may be stored at 2°C to 8°C (36°F to 46°F) for 96 hours without significant loss of potency.
 
@@ -78,7 +81,10 @@ Dilution
 
 Reconstituted solutions of vancomycin (50 mg/mL) must be further diluted.
 A dose of 500 mg (10 mL) must be diluted with at least 100 mL of a suitable infusion solution.
+For doses of 750 mg (15 mL), at least 150 mL of solution must be used.
 For doses of 1 gram (20 mL), at least 200 mL of solution must be used.
+For doses of 1.25 gram (25 mL), at least 250 mL of solution must be used.
+For doses of 1.5 gram (30 mL), at least 300 mL of solution must be used.
 The desired dose diluted in this manner should be administered by intermittent IV infusion over a period of at least 60 minutes.
 
 Parenteral drug products should be visually inspected for particulate matter and discoloration prior to administration, whenever solution and container permit.
@@ -110,7 +116,7 @@ It is also recommended to dilute solutions of vancomycin to 5 mg/mL or less.
 
 Preparation of the Single-Dose Vial for Oral Use
 
-1. Reconstitute Vancomycin Hydrochloride for Injection to 100 mg/mL by adding the appropriate amount of sterile water for injection: Table 1: Reconstitution-Volume of Sterile Water for Injection to be Added Vancomycin Hydrochloride for Injection Strength per VialVolume of Sterile Water for Injection to be added to achieve 100 mg/mL Vancomycin Hydrochloride Solution500 mg5 mL1 g10 mL
+1. Reconstitute Vancomycin Hydrochloride for Injection to 100 mg/mL by adding the appropriate amount of sterile water for injection: Table 1: Reconstitution-Volume of Sterile Water for Injection to be Added Vancomycin Hydrochloride for Injection Strength per VialVolume of Sterile Water for Injection to be added to achieve 100 mg/mL Vancomycin Hydrochloride Solution500 mg5 mL750 mg7.5 mL1 g10 mL1.25 g12.5 mL1.5 g15 mL
 2. Sweeteners may be added to the solution to improve the taste for oral administration following the steps outlined in Instructions for How to Prepare and Add Sweeteners below.
 
 Instructions for How to Prepare and Add Sweeteners

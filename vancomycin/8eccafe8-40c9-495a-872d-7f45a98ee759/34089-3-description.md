@@ -5,9 +5,12 @@ The chemical name for vancomycin hydrochloride is (Sa)-(3S,6R,7R,22R,23S,26S,36R
 The molecular formula is C66H75Cl2N9O24 • HCl and the molecular weight is 1,485.71.
 Vancomycin hydrochloride has the following structural formula:
 
-Vancomycin Hydrochloride for Injection is a sterile, preservative-free, white, almost white to tan to brown, spray-dried powder, for preparing intravenous (IV) infusions, in single-dose vials each containing the equivalent of 500 mg or 1 g vancomycin base.
+Vancomycin Hydrochloride for Injection is a sterile, preservative-free, white, almost white to tan to brown, spray-dried powder, for preparing intravenous (IV) infusions, in single-dose vials each containing the equivalent of 500 mg, 750 mg, 1 g, 1.25 g or 1.5 g vancomycin base.
 Each 500 mg vial contains 500 mg vancomycin (equivalent to 513 mg vancomycin hydrochloride), 125 mg trehalose, 0.05 mg polysorbate 80, and hydrochloric acid used to adjust the pH.
+Each 750 mg vial contains 750 mg vancomycin (equivalent to 769 mg vancomycin hydrochloride), 187.5 mg trehalose, 0.075 mg polysorbate 80, and hydrochloric acid used to adjust the pH.
 Each 1 g vial contains 1 g vancomycin (equivalent to 1.025 g vancomycin hydrochloride), 250 mg trehalose, 0.1 mg polysorbate 80, and hydrochloric acid used to adjust the pH.
+Each 1.25 g vial contains 1.25 g vancomycin (equivalent to 1.28 g vancomycin hydrochloride), 312.5 mg trehalose, 0.125 mg polysorbate 80, and hydrochloric acid used to adjust the pH.
+Each 1.5 g vial contains 1.5 g vancomycin (equivalent to 1.54 g vancomycin hydrochloride), 375 mg trehalose, 0.15 mg polysorbate 80, and hydrochloric acid used to adjust the pH.
 
 The spray-dried powder is reconstituted with Sterile Water for Injection which forms a clear solution and subsequently diluted prior to intravenous or oral administration [see Dosage and Administration (2.5, 2.8)].
 Vancomycin Hydrochloride for Injection may also be diluted with a sweetening agent for oral administration [see Dosage and Administration (2.8)].
