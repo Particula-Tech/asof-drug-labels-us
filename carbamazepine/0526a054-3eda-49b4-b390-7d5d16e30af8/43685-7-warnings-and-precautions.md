@@ -20,9 +20,10 @@ HLA-B*1502 is present in less than 1% of the population in Japan and Korea.
 
 HLA-B*1502 is largely absent in individuals not of Asian origin (e.g., Caucasians, African-Americans, Hispanics, and Native Americans).
 
-Prior to initiating carbamazepine therapy, testing for HLA-B*1502 should be performed in patients with ancestry in populations in which HLA-B*1502 may be present.In deciding which patients to screen, the rates provided above for the prevalence of HLA-B*1502 may offer a rough guide, keeping in mind the limitations of these figures due to wide variability in rates even within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry.
+Prior to initiating carbamazepine therapy, testing for HLA-B*1502 should be performed in patients with ancestry in populations in which HLA-B*1502 may be present.
+In deciding which patients to screen, the rates provided above for the prevalence of HLA-B*1502 may offer a rough guide, keeping in mind the limitations of these figures due to wide variability in rates even within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry.
 Carbamazepine should not be used in patients positive for HLA-B*1502 unless the benefits clearly outweigh the risks.
-Tested patients who are found to be negative for the allele are thought to have a low risk of SJS/TEN (see BOXED WARNINGand PRECAUTIONS, Laboratory Tests).
+Tested patients who are found to be negative for the allele are thought to have a low risk of SJS/TEN (see BOXED WARNING and PRECAUTIONS, Laboratory Tests).
 
 Over 90% of carbamazepine treated patients who will experience SJS/TEN have this reaction within the first few months of treatment.
 This information may be taken into consideration in determining the need for screening of genetically at-risk patients currently on carbamazepine.
@@ -35,7 +36,7 @@ Consideration should be given to avoiding use of other drugs associated with SJS
 ## Hypersensitivity Reactions and HLA-A*3101 Allele
 
 Retrospective case-control studies in patients of European, Korean, and Japanese ancestry have found a moderate association between the risk of developing hypersensitivity reactions and the presence of HLA-A*3101, an inherited allelic variant of the HLA-A gene, in patients using carbamazepine.
-These hypersensitivity reactions include SJS/TEN, maculopapular eruptions, and Drug Reaction with Eosinophilia and Systemic Symptoms (see DRESS/Multiorgan hypersensitivitybelow).
+These hypersensitivity reactions include SJS/TEN, maculopapular eruptions, and Drug Reaction with Eosinophilia and Systemic Symptoms (see DRESS/Multiorgan hypersensitivity below).
 
 HLA-A*3101 is expected to be carried by more than 15% of patients of Japanese, Native American, Southern Indian (for example, Tamil Nadu) and some Arabic ancestry; up to about 10% in patients of Han Chinese, Korean, European, Latin American, and other Indian ancestry; and up to about 5% in African-Americans and patients of Thai, Taiwanese, and Chinese (Hong Kong) ancestry.
 
@@ -153,7 +154,7 @@ There have been a few cases of neonatal seizures and/or respiratory depression a
 A few cases of neonatal vomiting, diarrhea, and/or decreased feeding have also been reported in association with maternal carbamazepine use.
 These symptoms may represent a neonatal withdrawal syndrome.
 
-To provide information regarding the effects of in uteroexposure to carbamazepine, physicians are advised to recommend that pregnant patients taking carbamazepine enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
+To provide information regarding the effects of in utero exposure to carbamazepine, physicians are advised to recommend that pregnant patients taking carbamazepine enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
 
@@ -219,7 +220,7 @@ Complete pretreatment blood counts, including platelets and possibly reticulocyt
 If a patient in the course of treatment exhibits low or decreased white blood cell or platelet counts, the patient should be monitored closely.
 Discontinuation of the drug should be considered if any evidence of significant bone marrow depression develops.
 
-Baseline and periodic evaluations of liver function, particularly in patients with a history of liver disease, must be performed during treatment with this drug since liver damage may occur (see PRECAUTIONS, Generaland ADVERSE REACTIONS).
+Baseline and periodic evaluations of liver function, particularly in patients with a history of liver disease, must be performed during treatment with this drug since liver damage may occur (see PRECAUTIONS, General and ADVERSE REACTIONS).
 Carbamazepine should be discontinued, based on clinical judgment, if indicated by newly occurring or worsening clinical or laboratory evidence of liver dysfunction or hepatic damage, or in the case of active liver disease.
 
 Baseline and periodic eye examinations, including slit-lamp, funduscopy, and tonometry, are recommended since many phenothiazines and related drugs have been shown to cause eye changes.
@@ -323,7 +324,7 @@ Because of the potential for serious adverse reactions in nursing infants from c
 
 ## Pediatric Use
 
-Substantial evidence of carbamazepine's effectiveness for use in the management of children with epilepsy (see INDICATIONS AND USAGEfor specific seizure types) is derived from clinical investigations performed in adults and from studies in several in vitrosystems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure propagation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children.
+Substantial evidence of carbamazepine's effectiveness for use in the management of children with epilepsy (see INDICATIONS AND USAGE for specific seizure types) is derived from clinical investigations performed in adults and from studies in several in vitro systems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure propagation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children.
 Taken as a whole, this information supports a conclusion that the generally accepted therapeutic range of total carbamazepine in plasma (i.e., 4 to 12 mcg/mL) is the same in children and adults.
 
 The evidence assembled was primarily obtained from short-term use of carbamazepine.

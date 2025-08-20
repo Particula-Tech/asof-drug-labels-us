@@ -196,14 +196,14 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store carbamazepine?
 
-- Store Carbamazepine Tabletsat 20° to 25°C (68° to 77°F).
+- Store Carbamazepine Tablets at 20° to 25°C (68° to 77°F).
   - Keep Carbamazepine Tablets dry.
-- Store Carbamazepine Tablets (Chewable)at 20° to 25°C (68° to 77°F).
+- Store Carbamazepine Tablets (Chewable) at 20° to 25°C (68° to 77°F).
   - Keep Carbamazepine Tablets (Chewable) out of the light.
   - Keep Carbamazepine Tablets (Chewable) dry.
-- Store Carbamazepine Extended-Release Tabletsat 20° to 25°C (68° to 77°F).
+- Store Carbamazepine Extended-Release Tablets at 20° to 25°C (68° to 77°F).
   - Keep Carbamazepine Extended-Release Tablets dry.
-- Store Carbamazepine Oral Suspensionat 20° to 25°C (68° to 77°F).
+- Store Carbamazepine Oral Suspension at 20° to 25°C (68° to 77°F).
   - Shake well before using.
   - Keep Carbamazepine Oral Suspension in a tight, light-resistant container.
 
@@ -237,6 +237,6 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Distributed by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532 Made in Israel
 
-Revised: February 2024
+Revised: October 2024
 
-5201175-0224-12
+5254044-1024-00

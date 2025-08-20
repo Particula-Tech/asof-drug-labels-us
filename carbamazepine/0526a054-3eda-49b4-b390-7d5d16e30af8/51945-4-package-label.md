@@ -87,34 +87,8 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 450 mL Bottle Label
 
-IMPORTANT SHAKE WELL BEFORE USING
-
-NDC 51672-4047-9 450 mL
-
 Carbamazepine
 
 Oral Suspension
 
 USP, 100 mg/5 mL
-
-IMPORTANT: Shake well before using.
-Each 5 mL contains 100 mg carbamazepine USP.
-
-Dispense the accompanying medication guide to each patient.
-
-Dispense in tight, light-resistant container (USP).
-
-Keep this and all medications out of the reach of children.
-
-Dosage:See package insert for full prescribing information.
-
-Store at 20° to 25°C (68° to 77°F)[see USP Controlled Room Temperature].
-Protect from freezing and from excessive heat.
-
-Mfd. by: Taro Pharmaceutical Industries Ltd. Haifa Bay, Israel 2624761
-
-Dist. by: Taro Pharmaceuticals U.S.A., Inc. Hawthorne, NY 10532 70065-1216-4
-
-Rx only
-
-TARO

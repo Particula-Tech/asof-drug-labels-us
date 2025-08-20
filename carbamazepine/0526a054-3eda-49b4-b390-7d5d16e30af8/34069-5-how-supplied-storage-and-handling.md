@@ -62,8 +62,9 @@ Dispense in tight container (USP).
 
 Carbamazepine Oral Suspension USP, 100 mg/5 mL (teaspoonful):Orange colored and orange flavored suspension.
 
-| Bottles of 450 mL | NDC 51672-4047-9 |
+| Bottles of 450 mL | NDC 51672-4047-4 |
 | --- | --- |
+| 1 Bottle in Carton | NDC 51672-4047-4 |
 
 Shake well before using.
 
