@@ -54,4 +54,4 @@ Females and Males of Reproductive Potential
 
 Advise patients who can become pregnant to discuss pregnancy planning with their physician [see Use in Specific Populations (8.3)].
 
-Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Issued: February 2025 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2025

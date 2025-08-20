@@ -295,3 +295,5 @@ Table 17: Other Adverse Reactions* Reported by ≥5% of Rivaroxaban-Treated Pati
 The following adverse reactions have been identified during post-approval use of rivaroxaban.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Blood and lymphatic system disorders: agranulocytosis, thrombocytopenia Hepatobiliary disorders: jaundice, cholestasis, hepatitis (including hepatocellular injury) Immune system disorders: hypersensitivity, anaphylactic reaction, anaphylactic shock, angioedema Nervous system disorders: hemiparesis Renal disorders: Anticoagulant-related nephropathy Respiratory, thoracic and mediastinal disorders: Eosinophilic pneumonia Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS)
+
+Injury, poisoning and procedural complications: Atraumatic splenic rupture

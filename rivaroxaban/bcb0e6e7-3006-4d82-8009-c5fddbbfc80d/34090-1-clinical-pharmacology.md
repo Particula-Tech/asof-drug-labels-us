@@ -11,7 +11,7 @@ By inhibiting FXa, rivaroxaban decreases thrombin generation.
 ## 12.2 Pharmacodynamics
 
 Rivaroxaban produces dose-dependent inhibition of FXa activity.
-Clotting tests, such as prothrombin time (PT), activated partial thromboplastin time (aPTT) and HepTest®,are also prolonged dose-dependently.
+Clotting tests, such as prothrombin time (PT), activated partial thromboplastin time (aPTT) and HepTest®, are also prolonged dose-dependently.
 In children treated with rivaroxaban, the correlation between anti-factor Xa to plasma concentrations is linear with a slope close to 1.
 
 Monitoring for anticoagulation effect of rivaroxaban using anti-FXa activity or a clotting test is not recommended.
@@ -85,7 +85,7 @@ Specific Populations
 
 The effects of level of renal impairment, age, body weight, and level of hepatic impairment on the pharmacokinetics of rivaroxaban are summarized in Figure 2.
 
-Figure 2: Effect of Specific Adult Populations on the Pharmacokinetics of Rivaroxaban [See Dosage and Administration (2.1)] Gender
+Figure 2: Effect of Specific Adult Populations on the Pharmacokinetics of Rivaroxaban [see Dosage and Administration (2.1)] Gender
 
 Gender did not influence the pharmacokinetics or pharmacodynamics of rivaroxaban.
 
