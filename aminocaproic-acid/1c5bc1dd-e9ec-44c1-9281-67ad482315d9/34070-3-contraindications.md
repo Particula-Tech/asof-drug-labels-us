@@ -6,9 +6,9 @@ When there is uncertainty as to whether the cause of bleeding is primary fibrino
 
 The following tests can be applied to differentiate the two conditions:
 
-1. Platelet count is usually decreased in DIC but normal in primary fibrinolysis.
-2. Protamine paracoagulation test is positive in DIC; a precipitate forms when protamine sulfate is dropped into citrated plasma.
-   The test is negative in the presence of primary fibrinolysis.
-3. The euglobulin clot lysis test is abnormal in primary fibrinolysis but normal in DIC.
+- •Platelet count is usually decreased in DIC but normal in primary fibrinolysis.
+- •Protamine paracoagulation test is positive in DIC; a precipitate forms when protamine sulfate is dropped into citrated plasma.
+  The test is negative in the presence of primary fibrinolysis.
+- •The euglobulin clot lysis test is abnormal in primary fibrinolysis but normal in DIC.
 
 Aminocaproic Acid Injection must not be used in the presence of DIC without concomitant heparin.
