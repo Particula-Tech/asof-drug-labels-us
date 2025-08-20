@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Levocetirizine Dihydrochloride Tablets USP are available as follows:
+Levocetirizine dihydrochloride tablets, USP are available as follows:
 
 5 mg - white to off-white, film-coated, oval-shaped, scored tablets.
 One side of the tablet is scored in half and debossed with the number "9" on one side of the score and "3" on the other.
@@ -13,4 +13,4 @@ Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all medications out of the reach of children.

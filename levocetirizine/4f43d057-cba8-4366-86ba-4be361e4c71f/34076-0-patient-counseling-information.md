@@ -2,11 +2,17 @@
 
 Somnolence
 
-Caution patients against engaging in hazardous occupations requiring complete mental alertness, and motor coordination such as operating machinery or driving a motor vehicle after ingestion of levocetirizine dihydrochloride tablets.
+Caution patients against engaging in hazardous occupations requiring complete mental alertness, and motor coordination such as operating machinery or driving a motor vehicle after ingestion of levocetirizine dihydrochloride tablets [see Warnings and Precautions (5.1)].
 
 Concomitant Use of Alcohol and other Central Nervous System Depressants
 
-Instruct patients to avoid concurrent use of levocetirizine dihydrochloride tablets with alcohol or other central nervous system depressants because additional reduction in mental alertness may occur.
+Instruct patients to avoid concurrent use of levocetirizine dihydrochloride tablets with alcohol or other central nervous system depressants because additional reduction in mental alertness may occur [see Warnings and Precautions (5.1)].
+
+Risk of New Onset Pruritus After Discontinuation of Levocetirizine Dihydrochloride Tablets
+
+Inform patients pruritus has occurred within a few days of discontinuing levocetirizine dihydrochloride among patients who used levocetirizine dihydrochloride long-term (e.g., few months to years).
+Pruritus may improve with restarting or tapering levocetirizine dihydrochloride [see Warnings and Precautions (5.3)].
+Advise patients to seek medical advice if pruritus occurs.
 
 Dosing of Levocetirizine Dihydrochloride Tablets
 
@@ -15,14 +21,8 @@ In children 6 to 11 years of age the recommended dose is 2.5 mg once daily in th
 In children 6 months to 5 years of age, the recommended dose is 1.25 mg once daily in the evening.
 Advise patients to not ingest more than the recommended dose of levocetirizine dihydrochloride tablets because of the increased risk of somnolence at higher doses.
 
-Risk of New Onset Pruritus After Discontinuation of Levocetirizine Dihydrochloride Tablets
-
-Inform patients pruritus has occurred within a few days of discontinuing levocetirizine dihydrochloride among patients who used levocetirizine dihydrochloride long-term (e.g., few months to years).
-Pruritus may improve with restarting or tapering levocetirizine dihydrochloride [see Warnings and Precautions (5.3)].
-Advise patients to seek medical advice if pruritus occurs.
-
 Manufactured In Croatia By: Pliva Hrvatska d.o.o.
 Zagreb, Croatia Manufactured For: Teva Pharmaceuticals USA, Inc. North Wales, PA 19454
 
 Rev.
-T 5/2025
+U 8/2025

@@ -8,6 +8,8 @@ The following clinically significant adverse reactions are described elsewhere i
 
 ## 6.1 Clinical Trials Experience
 
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
+
 The safety data described below reflect exposure to levocetirizine dihydrochloride in 2708 patients with allergic rhinitis or chronic idiopathic urticaria in 14 controlled clinical trials of 1 week to 6 months duration.
 
 The short-term (exposure up to 6 weeks) safety data for adults and adolescents are based upon eight clinical trials in which 1896 patients (825 males and 1071 females aged 12 years and older) were treated with levocetirizine dihydrochloride 2.5, 5, or 10 mg once daily in the evening.
@@ -117,8 +119,8 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Respiratory, thoracic, and mediastinal disorders: dyspnea
 - Skin and subcutaneous tissue disorders: angioedema, fixed drug eruption, pruritus, rash, urticaria, and new onset pruritus within a few days after discontinuation of levocetirizine dihydrochloride, usually after long-term use (e.g., few months to years) of levocetirizine dihydrochloride.
 
-Besides these reactions reported under treatment with levocetirizine dihydrochloride, other potentially severe adverse events have been reported from the postmarketing experience with cetirizine.
-Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse events could also potentially occur under treatment with levocetirizine dihydrochloride.
+Besides these reactions reported under treatment with levocetirizine dihydrochloride, other potentially severe adverse reactions have been reported from the postmarketing experience with cetirizine.
+Since levocetirizine is the principal pharmacologically active component of cetirizine, one should take into account the fact that the following adverse reactions could also potentially occur under treatment with levocetirizine dihydrochloride.
 
 - Cardiac disorders: severe hypotension
 - Gastrointestinal disorders: cholestasis

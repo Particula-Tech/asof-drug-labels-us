@@ -19,7 +19,7 @@ Results for one of these trials are shown in Table 4.
 
 Table 4: Mean Reflective Total Symptom ScoreTotal symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0 to 3 categorical severity scale. in Allergic Rhinitis Dose-Ranging Trials
 
-| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference From Placebo |  |  |
+| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Estimate | 95% CI | p-value |  |  |  |  |
 | Perennial Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
@@ -35,7 +35,7 @@ Results of the former are shown in Table 5.
 
 Table 5: Mean Reflective Total Symptom ScoreTotal symptom score is the sum of individual symptoms of sneezing, rhinorrhea, nasal pruritus, and ocular pruritus as assessed by patients on a 0 to 3 categorical severity scale. in Allergic Rhinitis Trials
 
-| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference From Placebo |  |  |
+| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Estimate | 95% CI | p-value |  |  |  |  |
 | Perennial Allergic Rhinitis Trial – Reflective total symptom score |  |  |  |  |  |  |
@@ -76,10 +76,10 @@ The significant improvement in the instantaneous pruritus severity score over pl
 
 Table 6: Mean Reflective Pruritus Severity Score in Chronic Idiopathic Urticaria Trials
 
-| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference From Placebo |  |  |  |
+| Treatment | N | Baseline | On Treatment Adjusted Mean | Difference from Placebo |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Estimate | 95% CI |  | p-value |  |  |  |  |
-| Dose Ranging Trial – Reflective pruritus severity score |  |  |  |  |  |  |  |
+| Dose-Ranging Trial – Reflective pruritus severity score |  |  |  |  |  |  |  |
 | Levocetirizine Dihydrochloride 2.5 mg | 69 | 2.08 | 1.02 | 0.82 | (0.58, 1.06) | <0.001 |  |
 | Levocetirizine Dihydrochloride 5 mg | 62 | 2.07 | 0.92 | 0.91 | (0.66, 1.16) | <0.001 |  |
 | Levocetirizine Dihydrochloride 10 mg | 55 | 2.04 | 0.73 | 1.11 | (0.85, 1.37) | <0.001 |  |
