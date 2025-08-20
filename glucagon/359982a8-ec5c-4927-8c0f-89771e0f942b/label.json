@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA212097"
+  ],
+  "inn": "glucagon",
+  "labeler": "American Regent, Inc.",
+  "package_ndcs": [
+    "0517-2901-01",
+    "0517-2901-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "glucagon injection",
+      "name": "Gvoke VialDx"
+    }
+  ],
+  "setid": "359982a8-ec5c-4927-8c0f-89771e0f942b",
+  "source": "dailymed"
+}
