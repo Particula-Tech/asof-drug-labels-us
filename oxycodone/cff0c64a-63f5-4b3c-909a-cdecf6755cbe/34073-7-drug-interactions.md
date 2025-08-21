@@ -14,8 +14,8 @@ Table 1 includes clinically significant drug interactions with OXAYDO.
 | Examples | Rifampin, carbamazepine, phenytoin |
 | Benzodiazepines and other Central Nervous System (CNS) Depressants |  |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants including alcohol, increases the risk of respiratory depression, profound sedation, coma, and death ﻿[see Warnings and Precautions (5.3)]. |
-| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Inform patients and caregivers of this potential interaction and educate them on the for signs and symptoms of respiratory depression (including sedation). If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.2, 5.3)]. |
-| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Inform patients and caregivers of this potential interaction and educate them on the for signs and symptoms of respiratory depression (including sedation). If concomitant use is warranted, consider prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2), Warnings and Precautions (5.1, 5.2, 5.3)]. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids, other opioids, alcohol. |
 | Serotonergic Drugs |  |
 | Clinical Impact: | The concomitant use of opioids with other drugs that affect the serotonergic neurotransmitter system has resulted in serotonin syndrome. |
 | Intervention: | If concomitant use is warranted, frequently evaluate the patient, particularly during treatment initiation and dose adjustment. Discontinue OXAYDO if serotonin syndrome is suspected. |
@@ -30,7 +30,7 @@ Table 1 includes clinically significant drug interactions with OXAYDO.
 | Examples: | Butorphanol, nalbuphine, pentazocine, buprenorphine |
 | Muscle Relaxants |  |
 | Clinical Impact: | Oxycodone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
-| Intervention: | Because respiratory depression may be greater than otherwise expected, decrease the dosage of OXAYDO and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose [see Dosage and Administration (2.2),Warnings and Precautions (5.2, 5.3)] |
+| Intervention: | Because respiratory depression may be greater than otherwise expected, decrease the dosage of OXAYDO and/or the muscle relaxant as necessary. Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing an opioid overdose reversal agent [see Dosage and Administration (2.2),Warnings and Precautions (5.2, 5.3)] |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
 | Intervention: | Evaluate patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
