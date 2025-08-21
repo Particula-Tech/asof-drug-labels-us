@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA083923"
+  ],
+  "inn": "phentermine",
+  "labeler": "Chartwell RX, LLC",
+  "package_ndcs": [
+    "62135-959-90"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "phentermine hydrochloride",
+      "name": "Phentermine Hydrochloride"
+    }
+  ],
+  "setid": "d70f0be3-fcc7-4a1d-9a82-bb1bb21a1528",
+  "source": "dailymed"
+}
