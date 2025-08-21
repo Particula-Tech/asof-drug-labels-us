@@ -1,8 +1,8 @@
-# 8 USE IN SPECIFIC POPULATIONS
+# 8USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
-Pregnancy Exposure Registry
+PregnancyExposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antiepileptic drugs (AEDs), such as EQUETRO, during pregnancy.
 Healthcare providers are encouraged to recommend that pregnant patients taking EQUETRO enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry by calling 1-888-233-2334 or online at http://www.aedpregnancyregistry.org/.
@@ -11,9 +11,7 @@ Risk Summary
 
 EQUETRO can cause fetal harm when administered to a pregnantfemale [see Warnings and Precautions (5.5)].
 Pregnancy registry and epidemiological data suggest a potential association between the use of carbamazepine during pregnancy and major congenital malformations, including neural tube defects and malformations involving other body systems (e.g., craniofacial defects and cardiovascular malformations).
-The available data are insufficient to identify an association with carbamazepine use and miscarriage (see Data).
-There are risks to the mother and fetus associated with untreated bipolar I disorder or epilepsy and with exposure to carbamazepine during pregnancy (see Clinical Considerations).
-In animal studies, administration of carbamazepine at clinically relevant doses during pregnancy resulted in developmental toxicity, including increased incidences of fetal malformation.
+The available data are insufficient to identify an association with carbamazepine use and miscarriage (see Data).There are risks to the mother and fetus associated with untreated bipolar I disorder or epilepsy and with exposure to carbamazepine during pregnancy (see Clinical Considerations).In animal studies, administration of carbamazepine at clinically relevant doses during pregnancy resulted in developmental toxicity, including increased incidences of fetal malformation.
 Advise pregnant females of the potential risk of major congenital malformations with use of EQUETRO during pregnancy.
 Assess the risk and benefits of EQUETRO and discuss with the patient to determine if an alternative treatment should be considered during pregnancy.
 
@@ -59,14 +57,14 @@ Animal Data
 
 In studies in which pregnant rats were administered carbamazepine orally during organogenesis, dose-related increases in the rates of fetal structural abnormalities (craniofacial, skeletal, cardiac, and urogenital defects), intrauterine growth retardation, and embryofetal death occurred at clinically relevant doses.
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Carbamazepine and its epoxide metabolite are present in human milk.
 Most infants with reported exposure to carbamazepine through human milk have not had adverse reactions; however, there are a few reported cases of hepatitis, regurgitations, poor weight gain, and vomiting in breastfed infants of females taking carbamazepine.
 There are no data on the effects of carbamazepine on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for EQUETRO and any potential adverse effects on the breastfed child from EQUETRO or from the underlying maternal condition.
 
-## 8.3 Females and Males of Reproductive Potential
+## 8.3Females and Males of Reproductive Potential
 
 In females currently on EQUETRO who may become pregnant, assess the risks and benefits of continuing on EQUETRO and discuss with the patient if an alternative treatment should be considered.
 Dietary folic acid supplementation both prior to conception and during pregnancy should be recommended for patients using carbamazepine [see Warnings and Precautions (5.5), Use in Specific Populations (8.1)].
@@ -82,13 +80,13 @@ Infertility
 Based on human and animal findings, EQUETRO may impair male fertility.
 Published clinical studies have reported a reduction in semen quality in males of reproductive potential with epilepsy that were treated with carbamazepine [see Nonclinical Toxicology (13.1)].
 
-## 8.4 Pediatric Use
+## 8.4Pediatric Use
 
 Bipolar Disorder and Pain of Trigeminal Neuralgia
 
 The safety and effectiveness of EQUETRO have not been established in pediatric patients.
 
-## 8.5 Geriatric Use
+## 8.5Geriatric Use
 
 Clinical studies of EQUETRO did not include sufficient numbers of subjects age 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger patients.

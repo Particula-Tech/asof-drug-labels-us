@@ -1,6 +1,6 @@
-# 14 CLINICAL STUDIES
+# 14CLINICAL STUDIES
 
-## 14.1 Bipolar I Disorder (Acute Manic or Mixed Episodes)
+## 14.1Bipolar I Disorder (Acute Manic or Mixed Episodes)
 
 The efficacy of EQUETRO in the acute treatment of manic or mixed symptoms associated with bipolar I disorder was established in two 3-week, multicenter, randomized, double-blind, placebo-controlled, flexible-dose studies (Studies 1 and 2) in adult patients who met the DSM-IV criteria for bipolar I disorder, manic or mixed episode.
 In both studies, patients must have had a history of at least one previous manic or mixed episode.
@@ -44,7 +44,7 @@ Efficacy Results in the 2 Trials in Patients with Bipolar I Disorder – Change 
 
 * Least squares mean for the difference defined as the change from baseline at Week 3 in the EQUETRO group minus that in the placebo group.
 
-## 14.2 Epilepsy
+## 14.2Epilepsy
 
 Evidence supporting efficacy of carbamazepine as an anticonvulsant was derived from active drug-controlled studies that enrolled patients with the following seizure types:
 

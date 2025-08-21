@@ -1,4 +1,4 @@
-# 17 PATIENT COUNSELING INFORMATION
+# 17PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
@@ -11,18 +11,18 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 - Suicidal Ideation and Behavior Counsel patients, their caregivers, and families that AEDs, including EQUETRO, may increase the risk of suicidal thinking and behavior and advise them of the need to be alert for the emergence or worsening of symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
   Instruct patients, caregivers and families to report behaviors of concern immediately to healthcare providers [see Warnings and Precautions (5.4)].
 - Abrupt Discontinuation and Risk of Seizure Inform patients that abrupt discontinuation of EQUETRO can cause seizures or an increase in seizure frequency.
-  Advise patients that the drug should be tapered when discontinued [see Warnings and Precautions (5.6)].
+  Advise patients that the drug should be tapered when discontinued [seeWarningsand Precautions (5.6)].
 - Hyponatremia Advise patients that EQUETRO may reduce serum sodium concentrations especially if they are taking other medications that can lower sodium.
-  Advise patients to report symptoms of low sodium like nausea, tiredness, lack of energy, confusion, seizures, or more frequent or more severe seizures [see Warnings and Precautions (5.7)].
+  Advise patients to report symptoms of low sodium like nausea, tiredness, lack of energy, confusion, seizures, or more frequent or more severe seizures [see Warnings and Precautions(5.7)].
 - Potential for Cognitive and Motor Impairment Advise patients not to drive or operate machinery until they have gained sufficient experience on EQUETRO to gauge whether it adversely affects their ability to drive or operate machinery.
   Advise patients to exercise caution if alcohol is taken in combination with EQUETRO therapy, due to a possible additive sedative effect [see Warnings and Precautions (5.8)].
 - Concomitant Use with other Carbamazepine Products Inform patients that EQUETRO contains carbamazepine and should not be used in combination with any other medications containing carbamazepine.
 - Embryofetal Toxicity EQUETRO may cause fetal harm.
   Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy.
   [see Warning and Precautions (5.5) and Use in Specific Populations (8.1)].
-- Pregnancy Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to EQUETRO during pregnancy [see Use in Specific Populations (8.1)].
-- Decreased Effectiveness of Hormonal Contraceptives Inform patients that EQUETRO can significantly decrease the effectiveness of hormonal contraceptives, such as oral contraceptives and subdermal implants.
-  This can cause contraceptive failure or breakthrough bleeding [see Drug Interactions (7.2) and Use in Specific Populations (8.3)].
+- Pregnancy Advise patients that there is a pregnancy registry that monitors pregnancy outcomes in women exposed to EQUETRO during pregnancy [seeUse in Specific Populations (8.1)].
+- Decreased Effectiveness ofHormonalContraceptives Inform patients that EQUETRO can significantly decrease the effectiveness of hormonal contraceptives, such as oral contraceptives and subdermal implants.
+  This can cause contraceptive failure or breakthrough bleeding [see Drug Interactions (7.2) andUse in Specific Populations (8.3)].
 - Infertility Advise males of reproductive potential that EQUETRO may impair fertility [see Use in Specific Populations (8.3)].
 
 Manufactured for and Distributed by: Validus Pharmaceuticals LLC Parsippany, NJ 07054 info@validuspharma.com http://www.equetro.com 1-866-982-5438

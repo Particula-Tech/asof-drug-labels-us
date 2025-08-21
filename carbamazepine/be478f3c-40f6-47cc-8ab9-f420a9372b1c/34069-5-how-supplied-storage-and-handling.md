@@ -1,6 +1,6 @@
-# 16 HOW SUPPLIED/STORAGE AND HANDLING
+# 16HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+## 16.1How Supplied
 
 EQUETRO (carbamazepine) extended-release capsules are supplied in three dosage strengths.
 
@@ -10,7 +10,7 @@ EQUETRO (carbamazepine) extended-release capsules are supplied in three dosage s
 
 - 300 mg — Two-piece hard gelatin capsule yellow opaque cap with blue body printed with SPD417 on one end and SPD417 and 300 mg on the other in white ink: Supplied in bottles of 120 NDC 30698-423-12
 
-## 16.2 Storage
+## 16.2Storage
 
 Store at 25° C (77° F); excursions permitted to 15° –30° C (59° –86° F) [see USP controlled room temperature].
 

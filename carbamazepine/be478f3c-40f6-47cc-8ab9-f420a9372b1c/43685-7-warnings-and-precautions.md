@@ -1,6 +1,6 @@
-# 5 WARNINGS AND PRECAUTIONS
+# 5WARNINGS AND PRECAUTIONS
 
-## 5.1 Serious Dermatologic Reactions
+## 5.1Serious Dermatologic Reactions
 
 Serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS), have been reported with carbamazepine treatment.
 These syndromes may be accompanied by mucous membrane ulcers, fever, or painful rash.
@@ -22,7 +22,7 @@ The prevalence of the HLA-B*1502 allele may be higher in Asian populations: Hong
 HLA-B*1502 is largely absent in individuals not of Asian origin (e.g., Caucasians, African-Americans, Hispanics, and Native Americans).
 The accuracy of estimated rates of the HLA-B*1502 allele in these populations may be limited by wide variability in rates within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry.
 
-The HLA-B*1502 allele has not been found to predict risk of less severe adverse cutaneous reactions from carbamazepine, such as maculopapular eruption (MPE) or to predict Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [see Warnings and Precautions (5.3)].
+The HLA-B*1502 allele has not been found to predict risk of less severe adverse cutaneous reactions from carbamazepine, such as maculopapular eruption (MPE) or to predict Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) [seeWarnings and Precautions (5.3)].
 
 Limited evidence suggests that HLA-B*1502 may be a risk factor for the development of SJS/TEN in patients of Chinese ancestry taking other anti-epileptic drugs associated with SJS/TEN, including phenytoin.
 Consideration should be given to avoiding use of other drugs associated with SJS/TEN in HLA-B*1502 positive patients, when alternative therapies are otherwise equally acceptable [see Dosage and Administration (2.1)].
@@ -36,13 +36,13 @@ HLA-A*3101 is expected to be present in the following frequencies: greater than 
 
 The risks and benefits of EQUETRO therapy should be weighed before considering EQUETRO in patients known to be positive for HLA-A*3101.
 
-Hypersensitivity and Limitations of HLA Genotyping
+Hypersensitivity and Limitations ofHLA Genotyping
 
 Application of HLA genotyping as a screening tool has important limitations and must never substitute for appropriate clinical vigilance and patient management.
 Many HLA-B*1502-positive and HLA-A*3101- positive patients treated with EQUETRO will not develop SJS/TEN or other hypersensitivity reactions, and these reactions can still occur infrequently in HLA-B*1502-negative and HLA-A*3101-negative patients of any ethnicity.
 The role of other possible factors in the development of, and morbidity from, SJS/TEN and other hypersensitivity reactions, such as AED dose, compliance, concomitant medications, co-morbidities, and the level of dermatologic monitoring have not been studied.
 
-## 5.2 Aplastic Anemia and Agranulocytosis
+## 5.2Aplastic Anemia and Agranulocytosis
 
 Aplastic anemia and agranulocytosis have occurred in patients treated with carbamazepine.
 Data from a population-based case-control study suggest that the risk of developing these reactions is 5-8 times greater than in the general population.
@@ -57,7 +57,7 @@ If a patient in the course of treatment exhibits low or decreased white blood ce
 Consider discontinuing EQUETRO if any evidence of significant bone marrow depression develops.
 Clinical features can include fever, dyspnea on exertion, fatigue, easy bruising, petechiae, epistaxis, gingival bleeding, and heavy menses.
 
-## 5.3 Drug Reaction with Eosinophilia and Systemic Symptoms/Multiorgan Hypersensitivity
+## 5.3Drug Reaction with Eosinophilia and Systemic Symptoms/Multiorgan Hypersensitivity
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as Multiorgan Hypersensitivity, have occurred with carbamazepine.
 Some of these events have been fatal or life-threatening.
@@ -75,7 +75,7 @@ If such history is present, benefits and risks should be carefully considered, a
 
 In patients who have exhibited hypersensitivity reactions to carbamazepine, approximately 25 to 30% may experience hypersensitivity reactions with oxcarbazepine.
 
-## 5.4 Suicidal Behavior and Ideation
+## 5.4Suicidal Behavior and Ideation
 
 Antiepileptic drugs (AEDs), including EQUETRO, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
@@ -109,7 +109,7 @@ Should suicidal thoughts and behavior emerge during treatment, the prescriber ne
 Patients, their caregivers, and families should be informed that AEDs increase the risk of suicidal thoughts and behaviors and should be advised of the need to be alert for the emergence or worsening of the signs and symptoms of depression, any unusual changes in mood or behavior, or the emergence of suicidal thoughts, behavior, or thoughts about self-harm.
 Behaviors of concern should be reported immediately to healthcare providers.
 
-## 5.5 Embryofetal Toxicity
+## 5.5Embryofetal Toxicity
 
 EQUETRO can cause fetal harm when administered to a pregnantfemale.
 [see Use in Specific Populations (8.1)].
@@ -121,15 +121,15 @@ In animal studies, administration of carbamazepine at clinically relevant doses 
 Inform females who may become pregnant about the potential increased risk of major congenital malformations with EQUETRO use during pregnancy.
 Assess the risks and benefits of EQUETRO and discuss with the patient to determine if an alternative treatment should be considered.
 EQUETRO can reduce the effectiveness of hormonal contraceptives.
-Females of reproductive potential should be counseled on the consistent use of effective nonhormonal contraception or barrier methods during treatment with EQUETRO [see Drug Interactions (7.2) and Use in Specific Populations (8.1, 8.3)].
+Females of reproductive potential should be counseled on the consistent use of effective nonhormonal contraception or barrier methods during treatment with EQUETRO [see Drug Interactions (7.2) and Use in Specific Populations (8.1,8.3)].
 
-## 5.6 Abrupt Discontinuation and Risk of Seizure
+## 5.6Abrupt Discontinuation and Risk of Seizure
 
 Do not discontinue EQUETRO abruptly, because of the risk of seizure and other withdrawal signs/symptoms.
 Patients with seizure disorder are at increased risk of developing seizure and status epilepticus with attendant hypoxia and threat to life.
 However, in the event of an allergic or hypersensitivity reaction, more rapid substitution of alternative therapy may be necessary.
 
-## 5.7 Hyponatremia
+## 5.7Hyponatremia
 
 Hyponatremia can occur as a result of treatment with EQUETRO.
 In many cases, the hyponatremia appears to be caused by the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
@@ -138,41 +138,40 @@ Elderly patients and patients treated with diuretics are at greater risk of deve
 Signs and symptoms of hyponatremia include headache, new or increased seizure frequency, difficulty concentrating, memory impairment, confusion, weakness, and unsteadiness, which can lead to falls.
 Consider discontinuing EQUETRO in patients with symptomatic hyponatremia.
 
-## 5.8 Potential for Cognitive and Motor Impairment
+## 5.8Potential for Cognitive and Motor Impairment
 
 EQUETRO has the potential to cause impairment in judgment, cognition, and motor function.
-Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain the EQUETRO does not affect them adversely.
-Adverse reactions in the clinical trials in bipolar disorder included (EQUETRO, N= 251 and Placebo, N= 248): somnolence (32% vs. 13%), ataxia (15% vs. 0.4%), dizziness (44% vs. 12%), vertigo (2% vs. 1%), thinking abnormal (2% vs. 0.4%), tremor (3% vs. 1%), and blurred vision (6% vs. 2%) [see Adverse Reactions (6.1)].
+Caution patients about operating hazardous machinery, including automobiles, until they are reasonably certain the EQUETRO does not affect them adversely.Adverse reactions in the clinical trials in bipolar disorder included (EQUETRO, N= 251 and Placebo, N= 248): somnolence (32% vs. 13%), ataxia (15% vs. 0.4%), dizziness (44% vs. 12%), vertigo (2% vs. 1%), thinking abnormal (2% vs. 0.4%), tremor (3% vs. 1%), and blurred vision (6% vs. 2%) [see Adverse Reactions (6.1)].
 
-## 5.9 Potential for Loss of Virologic Response to Non-nucleoside Reverse Transcriptase Inhibitors that are substrates for CYP3A4 with Concomitant Use of EQUETRO
+## 5.9Potential for Loss of Virologic Response toNon-nucleosideReverseTranscriptaseInhibitorsthat are substrates for CYP3A4with ConcomitantUse ofEQUETRO
 
 Coadministration of EQUETRO with non-nucleoside reverse transcriptase inhibitors, including delavirdine, is contraindicated because it may lead to loss of virologic response and possible resistance.
 Through induction of CYP3A4, EQUETRO can markedly decrease the concentrations of these drugs.
-Coadministration of delavirdine, an NNRTI and a substrate of CYP3A4, and EQUETRO can decrease delavirdine concentrations by 90% [see Contraindications (4), Drug Interactions (7.2)].
+Coadministration of delavirdine, an NNRTI and a substrate of CYP3A4, and EQUETRO can decrease delavirdine concentrations by 90% [seeContraindications (4),Drug Interactions (7.2)].
 
-## 5.10 Liver Damage
+## 5.10Liver Damage
 
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported.
 In some cases, hepatic effects may progress despite discontinuation of the drug.
 In addition rare instances of vanishing bile duct syndrome have been reported.
 This syndrome consists of a cholestatic process with a variable clinical course ranging from fulminant to indolent, involving the destruction and disappearance of the intrahepatic bile ducts.
-Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes such as serious dermatologic reactions and Drug Reaction with Eosinophilia and Systemic Symptoms/Multiorgan Hypersensitivity [see Warnings and Precautions (5.1, 5.2)].
+Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes such as serious dermatologic reactions and Drug Reaction with Eosinophilia and Systemic Symptoms/Multiorgan Hypersensitivity [see Warnings and Precautions (5.1,5.2)].
 
 Baseline and periodic evaluations of liver function, particularly in patients with a history of liver disease, must be performed during treatment with this drug since liver damage may occur.
 The drug should be discontinued immediately in cases of aggravated liver dysfunction or active liver disease.
 
-## 5.11 AV Heart Block
+## 5.11AV Heart Block
 
 AV heart block, including second and third degree block, have been reported following carbamazepine treatment.
 This occurred generally, but not solely, in patients with underlying EKG abnormalities or risk factors for conduction disturbances.
 
-## 5.12 Hepatic Porphyria
+## 5.12Hepatic Porphyria
 
 The use of EQUETRO should be avoided in patients with a history of hepatic porphyria (e.g., acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda).
 Acute attacks have been reported in such patients receiving carbamazepine therapy.
 EQUETRO administration has also been demonstrated to increase porphyrin precursors in rodents, a presumed mechanism for the induction of acute attacks of porphyria.
 
-## 5.13 Increased Intraocular Pressure
+## 5.13Increased Intraocular Pressure
 
 Carbamazepine has mild anticholinergic activity.
 In patients with a history of increased intraocular pressure, consider assessing intraocular pressure before initiating treatment and periodically during therapy.

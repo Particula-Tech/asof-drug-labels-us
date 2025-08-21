@@ -20,8 +20,7 @@ If you have any of the problems listed below call your healthcare provider right
 
 EQUETRO can cause serious side effects, including:
 
-1.
-EQUETRO may cause rare but serious rashes that may lead to death.
+1.EQUETRO may cause rare but serious rashes that may lead to death.
 These serious skin reactions are more likely to happen within the first four months after you start taking EQUETRO, but may occur at later times.
 These reactions can happen to anyone, but are more likely in people of Asian descent.
 If you are of Asian descent, you may need a genetic blood test before you take EQUETRO to see if you are at higher risk for serious skin reactions with this medicine.
@@ -32,8 +31,7 @@ Symptoms may include:
 - sores in your mouth
 - blistering or peeling of the skin
 
-2.
-EQUETRO may cause rare but serious blood problems.
+2.EQUETRO may cause rare but serious blood problems.
 Symptoms may include:
 
 - fever
@@ -44,8 +42,7 @@ Symptoms may include:
 - unusual bleeding such as bleeding gums, nose bleeds, or heavy menstrual bleeding
 - swollen glands and sore throat
 
-3.
-EQUETRO may cause a serious or life-threatening allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
+3.EQUETRO may cause a serious or life-threatening allergic reaction that may affect your skin or other parts of your body such as your liver or blood cells.
 You may or may not have rash with these types of reactions.
 Call a healthcare provider right away if you have any of the following symptoms:
 
@@ -63,8 +60,7 @@ Call a healthcare provider right away if you have any of the following symptoms:
 These symptoms may be the first signs of a serious reaction.
 A healthcare provider should examine you to decide if you should continue taking EQUETRO.
 
-4.
-EQUETRO may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+4.EQUETRO may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -186,15 +182,12 @@ See “What is the most important information I should know about EQUETRO?”
 
 EQUETRO may cause other serious side effects, including:
 
-- Seizure risk.
-  Stopping EQUTERO suddenly may cause you to have a seizure.
+- Seizure risk.Stopping EQUTERO suddenly may cause you to have a seizure.
   The risk of seizures may be higher in people who already have seizures.
   Do not stop taking EQUETRO without first talking with your healthcare provider.
-- Low level of sodium in your blood (hyponatremia).
-  Symptoms of hyponatremia may include: ○ headache ○ new seizures or an increased number of seizures ○ difficulty concentrating ○ memory problems ○ confusion ○ weakness ○ balance problems
+- Low level of sodium in your blood (hyponatremia).Symptoms of hyponatremia may include: ○ headache ○ new seizures or an increased number of seizures ○ difficulty concentrating ○ memory problems ○ confusion ○ weakness ○ balance problems
 - Problems with judgment, thinking, and movement.
-- Liver problems.
-  Symptoms of liver problems may include: ○ yellowing of your skin or the whites of your eyes ○ dark urine ○ pain on the right side of your stomach area (abdominal pain) ○ easy bruising ○ loss of appetite ○ nausea or vomiting
+- Liver problems.Symptoms of liver problems may include: ○ yellowing of your skin or the whites of your eyes ○ dark urine ○ pain on the right side of your stomach area (abdominal pain) ○ easy bruising ○ loss of appetite ○ nausea or vomiting
 
 Get medical help right away if you have any of the symptoms listed above or listed in “What is the most important information I should know about EQUETRO?”
 
@@ -221,11 +214,11 @@ For more information, ask your healthcare provider or pharmacist.
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-982-5438 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-982-5438 or FDA at 1-800-FDA-1088 orwww.fda.gov/medwatch.
 
 How should I store EQUETRO?
 
-- Store EQUETRO between 680F to 770F (200C to 250C).
+- Store EQUETRO between 68 0F to 77 0F (20 0C to 25 0C).
 - Keep EQUETRO capsules out of the light.
 - Keep EQUETRO capsules dry.
 
@@ -246,13 +239,13 @@ For more information, go to www.EQUETRO.com or call 1-866-982-5438.
 
 What are the ingredients in EQUETRO?
 
-Active ingredient: carbamazepine
+Active ingredient:carbamazepine
 
-Inactive ingredients: citric acid, colloidal silicon dioxide, lactose monohydrate, microcrystalline cellulose, polyethylene glycol, povidone, sodium lauryl sulfate, talc, triethyl citrate, and other ingredients.
+Inactive ingredients:citric acid, colloidal silicon dioxide, lactose monohydrate, microcrystalline cellulose, polyethylene glycol, povidone, sodium lauryl sulfate, talc, triethyl citrate, and other ingredients.
 
-- 100mg capsule shell contains: gelatin-NF, FD&C Blue #2, Yellow Iron Oxide, and Titanium Dioxide, and are imprinted with white ink.
-- 200mg capsule shell contains: gelatin-NF, Yellow Iron Oxide, FD&C Blue #2, and Titanium Dioxide, and are imprinted with white ink.
-- 300mg capsule shell contains: gelatin-NF, FD&C Blue #2, Yellow Iron Oxide, and Titanium Dioxide, and are imprinted with white ink.
+- 100mg capsule shell contains:gelatin-NF, FD&C Blue #2, Yellow Iron Oxide, and Titanium Dioxide, and are imprinted with white ink.
+- 200mg capsule shell contains:gelatin-NF, Yellow Iron Oxide, FD&C Blue #2, and Titanium Dioxide, and are imprinted with white ink.
+- 300mg capsule shell contains:gelatin-NF, FD&C Blue #2, Yellow Iron Oxide, and Titanium Dioxide, and are imprinted with white ink.
 
 This Medication Guide has been approved by the U. S. Food and Drug Administration.
 

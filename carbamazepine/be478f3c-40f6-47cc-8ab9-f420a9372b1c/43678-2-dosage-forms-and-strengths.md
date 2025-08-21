@@ -1,4 +1,4 @@
-# 3 DOSAGE FORMS AND STRENGTHS
+# 3DOSAGE FORMS AND STRENGTHS
 
 EQUETRO (carbamazepine) extended-release capsules for oral administration is supplied in three dosage strengths:
 
