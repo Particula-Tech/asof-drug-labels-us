@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA050786"
+  ],
+  "inn": "tetracycline",
+  "labeler": "H2-Pharma, LLC",
+  "package_ndcs": [
+    "61269-381-12"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "bismuth subcitrate potassium, metronidazole, and tetracycline hydrochloride",
+      "name": "PYLERA"
+    }
+  ],
+  "setid": "c50626a2-5969-490b-a88a-a4ee45e79615",
+  "source": "dailymed"
+}

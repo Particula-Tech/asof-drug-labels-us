@@ -1,0 +1,20 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+Administer three PYLERA capsules 4 times a day (after meals and at bedtime) for 10 days.
+One omeprazole 20 mg capsule should be taken twice a day with PYLERA after the morning and evening meal for 10 days (Table 1).
+
+Table 1: Daily Dosing Schedule for PYLERA
+
+| Time of dose | Number of capsules of PYLERA | Number of capsules of omeprazole 20 mg |
+| --- | --- | --- |
+| After morning meal | 3 | 1 |
+| After lunch | 3 | 0 |
+| After evening meal | 3 | 1 |
+| At bedtime | 3 | 0 |
+
+Instruct patients to swallow the PYLERA capsules whole with a full glass of water (8 ounces).
+Ingestion of adequate amounts of fluid, particularly with the bedtime dose, is recommended to reduce the risk of esophageal irritation and ulceration by tetracycline hydrochloride.
+
+If a dose is missed, patients should continue the normal dosing schedule until medication is gone.
+Patients should not take double doses.
+If more than 4 doses are missed, the prescriber should be contacted.
