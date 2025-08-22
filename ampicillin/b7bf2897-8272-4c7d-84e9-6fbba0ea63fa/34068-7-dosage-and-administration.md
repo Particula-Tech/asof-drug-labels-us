@@ -28,9 +28,9 @@ Table 1: Dosage in Neonates (less than or equal to 28 days of postnatal age) for
 
 | Gestational age (weeks) | Postnatal age (days) | Dosage |
 | --- | --- | --- |
-| less than or equal to 34 | less than or equal to 7 | 100 mg/kg/day in equally divided doses every 12 hours |
-| less than or equal to 34 | greater than or equal to 8 and less than 28 | 150 mg/kg/day in equally divided doses every 12 hours |
-| greater than 34 | less than or equal to 28 | 150 mg/kg/day in equally divided doses every 8 hours |
+| lessthan or equal to 34 | lessthan or equal to 7 | 100 mg/kg/day in equally divideddoses every 12 hours |
+| lessthan or equal to 34 | greater than or equal to 8 andlessthan 28 | 150 mg/kg/day in equally divideddoses every 12 hours |
+| greater than 34 | lessthan or equal to 28 | 150 mg/kg/day in equally divideddoses every 8 hours |
 
 Septicemia Adults and children - 150 to 200 mg/kg/day.
 Start with intravenous administration for at least three days and continue with the intramuscular route every 3 to 4 hours.
