@@ -89,11 +89,11 @@ Voriconazole tablets may cause serious side effects including:
 - •allergic reactions.
   Symptoms of an allergic reaction may include:
 
-| ofever | osweating | ofeels like your heart is beating fast (tachycardia) |
+| •fever | •sweating | •feels like your heart is beating fast (tachycardia) |
 | --- | --- | --- |
-| ochest tightness | otrouble breathing | ofeel faint |
-| onausea | oitching | oskin rash |
-| oflushing |  |  |
+| •chest tightness | •trouble breathing | •feel faint |
+| •nausea | •itching | •skin rash |
+| •flushing |  |  |
 
 - •vision changes.
   Symptoms of vision changes may include:
@@ -101,10 +101,10 @@ Voriconazole tablets may cause serious side effects including:
 - •changes in the way you see colors
 - •serious skin reactions.
   Symptoms of serious skin reactions may include:
-- orash or hives
-- omouth sores
-- oblistering or peeling of your skin
-- otrouble swallowing or breathing
+- •rash or hives
+- •mouth sores
+- •blistering or peeling of your skin
+- •trouble swallowing or breathing
 - •sensitivity to light or sun (photosensitivity).
   Voriconazole tablets can cause serious photosensitivity.
   There is an increased chance of skin toxicity while taking voriconazole tablets.
