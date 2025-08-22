@@ -114,7 +114,7 @@ Preservative-Free Rx only
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Single Dose Vial Carton
 
-NDC 0069-0043-01 Contains 25 of NDC 0069-0043-02 Rx only
+NDC 0069-0043-01 Contains 25 of NDC 0069-0043-02
 
 Twenty-five—2 mL Single Dose Vials
 
@@ -126,11 +126,13 @@ Derived from porcine intestinal tissue
 
 For subcutaneous or intravenous use
 
-Pfizer Injectables
+Pfizer
 
 Preservative-Free
 
 NOT for Lock Flush
+
+Rx only
 
 # PRINCIPAL DISPLAY PANEL - 30 mL Multidose Vial Label
 
