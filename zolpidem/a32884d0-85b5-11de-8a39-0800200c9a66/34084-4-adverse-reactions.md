@@ -55,37 +55,37 @@ The table includes only adverse events occurring at an incidence of at least 1% 
 
 TABLE 2: Incidence of Treatment-Emergent Adverse Experiences in Placebo-Controlled Clinical Trials with zolpidem tartrate lasting up to 35 nights (Percentage of patients reporting)
 
-| Body System/ Adverse Event* | Zolpidem tartrate (≤ 10 mg) (N=152) | Placebo (N=161) |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Autonomic Nervous System | 3 | 1 |  |  |  |
-| Dry mouth |  |  |  |  |  |
-| Body as a Whole |  |  |  |  |  |
-| Allergy | 4 | 1 |  |  |  |
-| Back Pain | 3 | 2 |  |  |  |
-| Influenza-like symptoms | 2 | - |  |  |  |
-| Chest pain | 1 | - |  |  |  |
-| Cardiovascular System |  |  |  |  |  |
-| Palpitation | 2 | - |  |  |  |
-| Central and Peripheral Nervous System |  |  |  |  |  |
-| Drowsiness | 8 | 5 |  |  |  |
-| Dizziness | 5 | 1 |  |  |  |
-| Lethargy | 3 | 1 |  |  |  |
-| Drugged feeling | 3 | - |  |  |  |
-| Lightheadedness | 2 | 1 |  |  |  |
-| Depression | 2 | 1 |  |  |  |
-| Abnormal dreams | 1 | - |  |  |  |
-| Amnesia | 1 | - |  |  |  |
-| Sleep disorder | 1 | - |  |  |  |
-| Gastrointestinal System |  |  |  |  |  |
-| Diarrhea | 3 | 2 |  |  |  |
-| Abdominal pain | 2 | 2 |  |  |  |
-| Constipation | 2 | 1 |  |  |  |
-| Respiratory System |  |  |  |  |  |
-| Sinusitis | 4 | 2 |  |  |  |
-| Pharyngitis | 3 | 1 |  |  |  |
-| Skin and Appendages |  |  |  |  |  |
-| Rash | 2 | 1 |  |  |  |
-| *Reactions reported by at least 1% of patients treated with oral zolpidem and at a greater frequency than placebo. |  |  |  |  |  |
+| Body System/ Adverse Event* | Zolpidem tartrate (≤ 10 mg) (N=152) | Placebo (N=161) |
+| --- | --- | --- |
+| Autonomic Nervous System | 3 | 1 |
+| Dry mouth |  |  |
+| Body as a Whole |  |  |
+| Allergy | 4 | 1 |
+| Back Pain | 3 | 2 |
+| Influenza-like symptoms | 2 | - |
+| Chest pain | 1 | - |
+| Cardiovascular System |  |  |
+| Palpitation | 2 | - |
+| Central and Peripheral Nervous System |  |  |
+| Drowsiness | 8 | 5 |
+| Dizziness | 5 | 1 |
+| Lethargy | 3 | 1 |
+| Drugged feeling | 3 | - |
+| Lightheadedness | 2 | 1 |
+| Depression | 2 | 1 |
+| Abnormal dreams | 1 | - |
+| Amnesia | 1 | - |
+| Sleep disorder | 1 | - |
+| Gastrointestinal System |  |  |
+| Diarrhea | 3 | 2 |
+| Abdominal pain | 2 | 2 |
+| Constipation | 2 | 1 |
+| Respiratory System |  |  |
+| Sinusitis | 4 | 2 |
+| Pharyngitis | 3 | 1 |
+| Skin and Appendages |  |  |
+| Rash | 2 | 1 |
+| *Reactions reported by at least 1% of patients treated with oral zolpidem and at a greater frequency than placebo. |  |  |
 
 ### Dose relationship for adverse reactions associated with oral zolpidem:
 
