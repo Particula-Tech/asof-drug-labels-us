@@ -67,7 +67,7 @@ Table 12: Adverse Reactions Reported in ≥ 10% of Patients with RCC and at a Hi
 | Nervous System |  |  |  |  |  |
 | Headache |  | 19 | 1 | 9 | <1 |
 | Dysgeusia |  | 10 | 0 | 2 | 0 |
-| Musculoskeletal and connective tissue |  |  |  |  |  |
+| Musculoskeletal and Connective Tissue |  |  |  |  |  |
 | Pain in extremity |  | 10 | 1 | 7 | 0 |
 | Grading according to NCI CTCAE Version 3.0. |  |  |  |  |  |
 
@@ -142,11 +142,11 @@ Table 14: Adverse Reactions Reported in ≥ 10% of Everolimus-Treated Patients w
 | Peripheral edema | 13 | 0 | 8 | 0 |
 | Infections |  |  |  |  |
 | Upper respiratory tract infection | 11 | 0 | 5 | 0 |
-| Musculoskeletal and connective tissue |  |  |  |  |
+| Musculoskeletal and Connective Tissue |  |  |  |  |
 | Arthralgia | 13 | 0 | 5 | 0 |
-| Respiratory, thoracic and mediastinal |  |  |  |  |
+| Respiratory, Thoracic and Mediastinal |  |  |  |  |
 | Cough | 20 | 0 | 13 | 0 |
-| Skin and subcutaneous tissue |  |  |  |  |
+| Skin and Subcutaneous Tissue |  |  |  |  |
 | Acne | 22 | 0 | 5 | 0 |
 | Grading according to NCI CTCAE Version 3.0 |  |  |  |  |
 
@@ -155,7 +155,7 @@ Other adverse reactions involving the female reproductive system were menorrhagi
 
 The following additional adverse reactions occurred in less than 10% of Everolimus-treated patients: epistaxis (9%), decreased appetite (6%), otitis media (6%), depression (5%), abnormal taste (5%), increased blood luteinizing hormone (LH) levels (4%), increased blood follicle stimulating hormone (FSH) levels (3%), hypersensitivity (3%), ovarian cyst (3%), pneumonitis (1%), and angioedema (1%).
 
-Table 15: Selected Laboratory Abnormalities Reported in Everolimus -Treated Patients with TSC-Associated Renal Angiomyolipoma in EXIST-2
+Table 15: Selected Laboratory Abnormalities Reported in Everolimus-Treated Patients with TSC-Associated Renal Angiomyolipoma in EXIST-2
 
 |  | EverolimusN = 79 |  | PlaceboN = 39 |  |
 | --- | --- | --- | --- | --- |

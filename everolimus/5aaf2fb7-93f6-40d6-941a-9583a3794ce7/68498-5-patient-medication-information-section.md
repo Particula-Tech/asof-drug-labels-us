@@ -225,19 +225,21 @@ You can ask your healthcare provider or pharmacist for information written for h
 
 What are the ingredients in Everolimus Tablets?
 
-Active ingredient: everolimus.
+Active ingredient: everolimus, USP.
 Inactive ingredients: anhydrous lactose, butylated hydroxytoluene, crospovidone, hypromellose, and magnesium stearate.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
 The brands listed are the trademarks or register marks of their respective owners and are not trademarks or register marks of Hikma Pharmaceuticals USA Inc.
 
-For more information call 1-800-962-8364.
+For more information, call 1-800-962-8364.
 
-Distributed by: Hikma Pharmaceuticals USA Inc.
+Distributed by: Hikma
+
+Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50001080/02
+C50001080
 
-Revised May 2022
+Revised April 2024

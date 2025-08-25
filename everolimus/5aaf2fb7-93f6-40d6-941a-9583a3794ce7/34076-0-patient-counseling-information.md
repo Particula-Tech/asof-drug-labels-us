@@ -63,10 +63,12 @@ Infertility
 
 Advise males and females of reproductive potential of the potential risk for impaired fertility [seeUse in Specific Populations (8.3)].
 
-Distributed by: Hikma Pharmaceuticals USA Inc.
+Distributed by: Hikma
+
+Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50001080/02
+C50001080
 
-Revised May 2022
+Revised April 2024
