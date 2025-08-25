@@ -4,12 +4,12 @@ Cetirizine hydrochloride oral solution USP, 1 mg/mL is a clear, colorless to sli
 Each teaspoon (5 mL) contains 5 mg cetirizine hydrochloride.
 Cetirizine hydrochloride oral solution USP, 1 mg/mL is supplied as follows:
 
-120 mL amber PET modern round bottle NDC 0121-0874-04
+NDC 0121-0874-04: 120 mL amber PET modern round bottle
 
-480 mL amber PET modern round bottle NDC 0121-0874-16
+NDC 0121-0874-16: 480 mL amber PET modern round bottle
 
 STORAGE: Store at 20° to 25°C (68° to 77°F); [see USP Controlled Room Temperature].
 
-Manufactured by: PAI Pharma Greenville, SC 29605
+Distributed by: PAI Pharma Greenville, SC 29605 www.paipharma.com
 
-R08/23
+R07/25

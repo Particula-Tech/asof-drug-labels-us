@@ -76,6 +76,6 @@ Hepatitis with significant transaminase elevation and elevated bilirubin in asso
 
 ## Post-Marketing Experience
 
-In the post-marketing period, the following additional rare, but potentially severe adverse events have been reported: acute generalized exanthematous pustulosis (AGEP), aggressive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide and thrombocytopenia.
+In the post-marketing period, the following additional rare, but potentially severe adverse events have been reported: aggressive reaction, anaphylaxis, cholestasis, convulsions, glomerulonephritis, hallucinations, hemolytic anemia, hepatitis, orofacial dyskinesia, severe hypotension, stillbirth, suicidal ideation, suicide thrombocytopenia, acute generalized exanthematous pustulosis (AGEP) and new onset pruritus within a few days after discontinuation of cetirizine, usually after long-term use (e.g., few months to years) of cetirizine.
 
 To report SUSPECTED ADVERSE REACTIONS, contact PAI Pharma at 1-800-845-8210 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
