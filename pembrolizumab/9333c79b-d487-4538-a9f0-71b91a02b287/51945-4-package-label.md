@@ -4,7 +4,7 @@ NDC 0006-3029-02
 
 Keytruda® (pembrolizumab) for Injection
 
-50 mg / vial
+50 mg /vial
 
 For Intravenous Infusion Only
 
@@ -24,7 +24,7 @@ NDC 0006-3026-02
 
 Keytruda® (pembrolizumab) Injection
 
-100 mg/4 mL (25 mg/mL)
+100 mg /4 mL (25 mg/mL)
 
 For Intravenous Infusion Only
 
