@@ -1,52 +1,31 @@
 # WARNINGS
 
-## Tooth Development
-
-Minocycline, like other tetracycline-class antibiotics, can cause fetal harm when administered to a pregnant woman.
+Tooth Development Minocycline, like other tetracycline-class antibiotics, can cause fetal harm when administered to a pregnant woman.
 If any tetracycline is used during pregnancy or if the patient becomes pregnant while taking these drugs, the patient should be apprised of the potential hazard to the fetus.
 The use of drugs of the tetracycline class during tooth development (last half of pregnancy, infancy, and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown).
+
 This adverse reaction is more common during long-term use of the drug but has been observed following repeated short-term courses.
 Enamel hypoplasia has also been reported.
 Tetracycline drugs, therefore, should not be used during tooth development unless other drugs are not likely to be effective or are contraindicated.
-
-## Skeletal Development
-
-All tetracyclines form a stable calcium complex in any bone-forming tissue.
+Skeletal Development All tetracyclines form a stable calcium complex in any bone-forming tissue.
 A decrease in the fibula growth rate has been observed in premature human infants given oral tetracycline in doses of 25 mg/kg every six hours.
 This reaction was shown to be reversible when the drug was discontinued.
-
-## Use in Pregnancy
-
-Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues, and can have toxic effects on the developing fetus (often related to retardation of skeletal development).
+Use in Pregnancy Results of animal studies indicate that tetracyclines cross the placenta, are found in fetal tissues, and can have toxic effects on the developing fetus (often related to retardation of skeletal development).
 Evidence of embryotoxicity has been noted in animals treated early in pregnancy.
 The safety of minocycline for use during pregnancy has not been established.
-
-## Dermatologic Reaction
-
-Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) including fatal cases has been reported with minocycline use.
+Dermatologic Reaction Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) including fatal cases has been reported with minocycline use.
 If this syndrome is recognized, the drug should be discontinued immediately.
 
-## Antianabolic Action
-
-The antianabolic action of the tetracyclines may cause an increase in blood urea nitrogen (BUN).
+Antianabolic Action The antianabolic action of the tetracyclines may cause an increase in blood urea nitrogen (BUN).
 While this is not a problem in those with normal renal function, in patients with significantly impaired function, higher serum levels of tetracycline may lead to azotemia, hyperphosphatemia, and acidosis.
 Under such conditions, monitoring of creatinine and BUN is recommended, and the total daily dosage should not exceed 200 mg in 24 hours (see DOSAGE AND ADMINISTRATION).
 If renal impairment exists, even usual oral or parenteral doses may lead to systemic accumulation of the drug and possible liver toxicity.
-
-## Photosensitivity
-
-Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines.
+Photosensitivity Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines.
 This has been reported with minocycline.
-
-## Central Nervous System
-
-Central nervous system side effects including lightheadedness, dizziness, or vertigo have been reported with minocycline therapy.
+Central Nervous System Central nervous system side effects including lightheadedness, dizziness, or vertigo have been reported with minocycline therapy.
 Patients who experience these symptoms should be cautioned about driving vehicles or using hazardous machinery while on minocycline therapy.
 These symptoms may disappear during therapy and usually disappear rapidly when the drug is discontinued.
-
-## Clostridium difficile-Associated Diarrhea
-
-Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including minocycline, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile-Associated Diarrhea Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including minocycline, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 C. difficile produces toxins A and B which contribute to the development of CDAD.
 Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, as these infections can be refractory to antimicrobial therapy and may require colectomy.
@@ -54,10 +33,7 @@ CDAD must be considered in all patients who present with diarrhea following anti
 Careful medical history is necessary since CDAD has been reported to occur over two months after the administration of antibacterial agents.
 If CDAD is suspected or confirmed, ongoing antibiotic use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibiotic treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
-
-## Intracranial Hypertension
-
-Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including minocycline.
+Intracranial Hypertension Intracranial hypertension (IH, pseudotumor cerebri) has been associated with the use of tetracyclines including minocycline.
 Clinical manifestations of IH include headache, blurred vision, diplopia, and vision loss; papilledema can be found on fundoscopy.
 Women of childbearing age who are overweight or have a history of IH are at greater risk for developing tetracycline-associated IH.
 Concomitant use of isotretinoin and minocycline should be avoided because isotretinoin is also known to cause pseudotumor cerebri.
@@ -67,20 +43,14 @@ Since intracranial pressure can remain elevated for weeks after drug cessation, 
 
 # PRECAUTIONS
 
-## General
-
-As with other antibiotic preparations, use of this drug may result in overgrowth of non-susceptible organisms, including fungi.
+General As with other antibiotic preparations, use of this drug may result in overgrowth of non-susceptible organisms, including fungi.
 If superinfection occurs, the antibiotic should be discontinued, and appropriate therapy instituted.
-
 Hepatotoxicity has been reported with minocycline; therefore, minocycline should be used with caution in patients with hepatic dysfunction and in conjunction with other hepatotoxic drugs.
 
 Incision and drainage or other surgical procedures should be performed in conjunction with antibiotic therapy when indicated.
 
 Prescribing minocycline hydrochloride capsules in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
-
-## Information for Patients
-
-Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
+Information for Patients Diarrhea is a common problem caused by antibiotics which usually ends when the antibiotic is discontinued.
 Sometimes after starting treatment with antibiotics, patients can develop watery and bloody stools (with or without stomach cramps and fever) even as late as two or more months after having taken the last dose of the antibiotic.
 If this occurs, patients should contact their physician as soon as possible.
 
@@ -90,7 +60,7 @@ This reaction has been reported with use of minocycline.
 
 Patients who experience central nervous system symptoms should be cautioned about driving vehicles or using hazardous machinery while on minocycline therapy (see WARNINGS).
 
-Concurrent use of tetracycline with oral contraceptives may render oral contraceptives less effective (see PRECAUTIONS-Drug Interactions).
+Concurrent use of tetracycline with oral contraceptives may render oral contraceptives less effective (see PRECAUTIONS - Drug Interactions).
 
 Patients should be counseled that antibacterial drugs including minocycline hydrochloride capsules should only be used to treat bacterial infections.
 They do not treat viral infections (e.g., the common cold).
@@ -99,20 +69,15 @@ Skipping doses or not completing the full course of therapy may (1) decrease the
 
 Unused supplies of tetracycline antibiotics should be discarded by the expiration date.
 
-## Laboratory Tests
-
-In venereal disease when coexistent syphilis is suspected, a dark-field examination should be done before treatment is started and the blood serology repeated monthly for at least four months.
+Laboratory Tests In venereal disease when coexistent syphilis is suspected, a dark-field examination should be done before treatment is started and the blood serology repeated monthly for at least four months.
 
 Periodic laboratory evaluations of organ systems, including hematopoietic, renal, and hepatic, should be performed.
 
-## Drug Interactions
-
-Because tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage.
+Drug Interactions Because tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage.
 
 Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracycline-class drugs in conjunction with penicillin.
 
 Absorption of tetracyclines is impaired by antacids containing aluminum, calcium, or magnesium, and iron-containing preparations.
-
 The concurrent use of tetracycline and methoxyflurane has been reported to result in fatal renal toxicity.
 
 Concurrent use of tetracyclines with oral contraceptives may render oral contraceptives less effective.
@@ -122,44 +87,25 @@ Each drug alone has been associated with pseudotumor cerebri (see WARNINGS).
 
 Increased risk of ergotism when ergot alkaloids or their derivatives are given with tetracyclines.
 
-## Drug/Laboratory Test Interactions
+Drug/Laboratory Test Interactions False elevations of urinary catecholamine levels may occur due to interference with the fluorescence test.
 
-False elevations of urinary catecholamine levels may occur due to interference with the fluorescence test.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Dietary administration of minocycline in long-term tumorigenicity studies in rats resulted in evidence of thyroid tumor production.
+Carcinogenesis, Mutagenesis, Impairment of Fertility Dietary administration of minocycline in long-term tumorigenicity studies in rats resulted in evidence of thyroid tumor production.
 Minocycline has also been found to produce thyroid hyperplasia in rats and dogs.
 In addition, there has been evidence of oncogenic activity in rats in studies with a related antibiotic, oxytetracycline (i.e., adrenal and pituitary tumors).
 Likewise, although mutagenicity studies of minocycline have not been conducted, positive results in in vitro mammalian cell assays (i.e., mouse lymphoma and Chinese hamster lung cells) have been reported for related antibiotics (tetracycline hydrochloride and oxytetracycline).
 Segment I (fertility and general reproduction) studies have provided evidence that minocycline impairs fertility in male rats.
 
-## Pregnancy
-
-Risk Summary All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
+Pregnancy Risk Summary All pregnancies have a background risk of birth defects, loss, or other adverse outcome regardless of drug exposure.
 There are no adequate and well-controlled studies on the use of minocycline in pregnant women.
 Minocycline, like other tetracycline-class antibiotics, crosses the placenta and may cause fetal harm when administered to a pregnant woman.
 Rare spontaneous reports of congenital anomalies including limb reduction have been reported in post marketing experience.
 Only limited information is available regarding these reports; therefore, no conclusion on causal association can be established.
 If minocycline is used during pregnancy or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
-
 Nonteratogenic Effects: (see WARNINGS.)
-
-## Labor and Delivery
-
-The effect of tetracyclines on labor and delivery is unknown.
-
-## Nursing Mothers
-
-Tetracyclines are excreted in human milk.
+Labor and Delivery The effect of tetracyclines on labor and delivery is unknown.
+Nursing Mothers Tetracyclines are excreted in human milk.
 Because of the potential for serious adverse reactions in nursing infants from the tetracyclines, a decision should be made whether to discontinue nursing or discontinue the drug, taking into account the importance of the drug to the mother (see WARNINGS).
-
-## Pediatric Use
-
-Minocycline is not recommended for the use in children below 8 years of age unless the expected benefits of therapy outweigh the risks (see WARNINGS).
-
-## Geriatric Use
-
-Clinical studies of oral minocycline did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
+Pediatric Use Minocycline is not recommended for the use in children below 8 years of age unless the expected benefits of therapy outweigh the risks (see WARNINGS).
+Geriatric Use Clinical studies of oral minocycline did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see WARNINGS and DOSAGE AND ADMINISTRATION).
 Minocycline hydrochloride capsules (50 mg, 75 mg, and 100 mg) do not contain sodium.
