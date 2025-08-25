@@ -108,7 +108,7 @@ Thrombocytopenia.
 
 Hypersensitivity
 
-Angioedema, including swelling of the larynx and glottis, causing airway obstruction and/or swelling of the face, lips, pharynx, and/or tongue has been reported rarely in patients treated with losartan; some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
+Angioedema, including swelling of the larynx and glottis, causing airway obstruction and/or swelling of the face, lips, pharynx, tongue and/or swelling of the intestine has been reported; some of these patients previously experienced angioedema with other drugs including ACE inhibitors.
 Vasculitis, including Henoch-Schönlein purpura, has been reported.
 Anaphylactic reactions have been reported.
 

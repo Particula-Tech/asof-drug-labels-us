@@ -12,16 +12,18 @@ Potassium Supplements
 
 Advise patients receiving losartan potassium tablets not to use potassium supplements or salt substitutes containing potassium without consulting their healthcare provider [see DRUG INTERACTIONS (7.1)].
 
+LUPIN and theare registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
 MADE IN INDIA.
 
-Revised: April 2022 ID#: 269721
+Revised: August 2025
 
 The trademarks depicted herein are owned by their respective companies.

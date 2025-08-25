@@ -142,14 +142,16 @@ Inactive ingredients:
 anhydrous lactose, colloidal silicon dioxide, magnesium stearate, microcrystalline cellulose, pregelatinized starch and opadry white.
 The opadry white contains hydroxypropyl cellulose, hypromellose and titanium dioxide.
 
+LUPIN and theare registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
 MADE IN INDIA
 
-Revised: April 2022 ID#: 269721
+Revised: August 2025 ID#: 280990
