@@ -92,7 +92,7 @@ The effects of level of renal impairment, age, body weight, and level of hepatic
 
 Figure 2: Effect of Specific Adult Populations on the Pharmacokinetics of Rivaroxaban
 
-[See Dosage and Administration (2.1)].
+[see Dosage and Administration (2.1)].
 
 Gender
 

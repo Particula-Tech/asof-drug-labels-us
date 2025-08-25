@@ -8,7 +8,7 @@ If rivaroxaban tablets are discontinued for a reason other than pathological ble
 
 ## 5.2 Risk of Bleeding
 
-Rivaroxaban increases the risk of bleeding and can cause serious or fatal bleeding.
+Rivaroxaban increases the risk of bleeding, including in any organ, and can cause serious or fatal bleeding.
 In deciding whether to prescribe rivaroxaban tablets to patients at increased risk of bleeding, the risk of thrombotic events should be weighed against the risk of bleeding.
 
 Promptly evaluate any signs or symptoms of blood loss and consider the need for blood replacement.
