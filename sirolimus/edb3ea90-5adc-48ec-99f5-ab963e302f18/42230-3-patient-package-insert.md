@@ -1,4 +1,4 @@
-| PATIENT INFORMATION HYFTOR™ (hyfe tore) (sirolimus topical gel) |  |  |  |  |
+| PATIENT INFORMATION HYFTOR ®(hyfe tore) (sirolimus topical gel) |  |  |  |  |
 | --- | --- | --- | --- | --- |
 | Important: HYFTOR is for use on the skin only (topical use).Do not use HYFTOR in your mouth, eyes, or vagina. |  |  |  |  |
 | What is HYFTOR? HYFTOR is a prescription medicine that is used on the skin (topical) to treat adults and children 6 years of age and older with a type of noncancerous tumor called angiofibroma on your face caused by the genetic condition tuberous sclerosis. It is not known if HYFTOR is safe and effective in children under 6 years of age. |  |  |  |  |
@@ -12,4 +12,4 @@
 | How should I store HYFTOR ? Store HYFTOR in the refrigerator between at 36°F to 46°F (2°C to 8°C).Keep HYFTOR out of light. Keep HYFTOR and all medicines out of the reach of children. |  |  |  |  |
 | General information about the safe and effective use of HYFTOR. Medicines are sometimes prescribed for purposes other than those listed in a Patient Information leaflet. Do not use HYFTOR for a condition for which it was not prescribed. Do not give HYFTOR to other people, even if they have the same symptoms you have. It may harm them. You can ask your pharmacist or healthcare provider for information about HYFTOR that is written for health professionals. |  |  |  |  |
 | What are the ingredients in HYFTOR? Active ingredient: sirolimus Inactive ingredients:alcohol 51%, Carbomer 940, purified water, and trolamine. Distributed by: Nobelpharma America, LLC 4520 East-West Highway, Suite 400, Bethesda, MD 20814 For more information, go to www.Hyftor.com or call 887-375-0825. |  |  |  |  |
-| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  | Issued: 2/2022 |
+| This Patient Information has been approved by the U.S. Food and Drug Administration. |  |  |  | 101-104-02 Issued: 5/2025 |
