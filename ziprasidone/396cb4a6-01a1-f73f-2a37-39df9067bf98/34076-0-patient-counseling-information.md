@@ -9,9 +9,6 @@ Do not open, crush, or chew the capsules.
 Instruct patients to take ziprasidone capsules with food for optimal absorption.
 The absorption of ziprasidone is increased up to two-fold in the presence of food [see Dosage and Administration (2.1), Drug Interactions (7.10), and Clinical Pharmacology (12.3)].
 
-Instruct patients to take ziprasidone capsules with food for optimal absorption.
-The absorption of ziprasidone is increased up to two-fold in the presence of food [see Drug Interactions (7.10) and Clinical Pharmacology (12.3)].
-
 QTc Prolongation
 
 Advise patients to inform their health care providers of the following: History of QT prolongation; recent acute myocardial infarction; uncompensated heart failure; prescription of other drugs that have demonstrated QT prolongation; risk for significant electrolyte abnormalities; and history of cardiac arrhythmia [see Contraindications (4.1) and Warnings and Precautions (5.3)].

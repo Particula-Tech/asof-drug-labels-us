@@ -14,7 +14,7 @@ The following adverse reactions are described in more detail in other sections o
 - Orthostatic Hypotension [see Warnings and Precautions (5.10)]
 - Falls [see Warnings and Precautions (5.11)]
 - Leukopenia, Neutropenia, and Agranulocytosis [see Warnings and Precautions (5.12)
-- ]Seizures [see Warnings and Precautions (5.13)]
+- Seizures [see Warnings and Precautions (5.13)]
 - Dysphagia [see Warnings and Precautions (5.14)]
 - Hyperprolactinemia [see Warnings and Precautions (5.15)]
 - Potential for Cognitive and Motor Impairment [see Warnings and Precautions (5.16)]
