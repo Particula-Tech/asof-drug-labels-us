@@ -44,7 +44,7 @@ Single-dose
 
 Rx only
 
-Pfizer Injectables
+Pfizer Hospital
 
 # PRINCIPAL DISPLAY PANEL - 200 mg/mL Vial Carton
 
@@ -60,4 +60,4 @@ For intramuscular use only
 
 Rx only
 
-Pfizer Injectables
+Pfizer Hospital
