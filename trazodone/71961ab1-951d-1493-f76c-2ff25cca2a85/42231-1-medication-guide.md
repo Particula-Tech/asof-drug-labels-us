@@ -4,8 +4,6 @@ Trazodone hydrochloride tablets, USP, for oral use
 
 (traz' oh done hye'' droe klor' ide)
 
-Medication Guide available at https://www.apotex.com/products/us/mg.asp
-
 What is the most important information I should know about trazodone hydrochloride tablets?
 
 Antidepressant medicines, depression or other serious mental illnesses, and suicidal thoughts or actions: Talk to your healthcare provider about:
@@ -83,8 +81,8 @@ Before you take trazodone hydrochloride tablets tell your healthcare provider ab
 - are pregnant or plan to become pregnant.
   It is not known if trazodone hydrochloride tablets harm your unborn baby.
   Talk to your healthcare provider about the risk to your unborn baby if you take trazodone hydrochloride tablets.
-- If you become pregnant during treatment with trazodone hydrochloride tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
-  You can register by calling 1-844-405-6185.
+  - If you become pregnant during treatment with trazodone hydrochloride tablets, talk to your healthcare provider about registering with the National Pregnancy Registry for Antidepressants.
+    You can register by calling 1-844-405-6185.
 - are breastfeeding or plan to breastfeed.
   Trazodone hydrochloride passes into your breast milk.
   Talk to your healthcare provider about the best way to feed your baby if you take trazodone hydrochloride tablets.
@@ -204,7 +202,7 @@ APOTEX INC. TRAZODONE HYDROCHLORIDE TABLETS, USP 50 mg, 100 mg, 150 mg and 300 m
 | Toronto, Ontario | Weston Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: March 2025
+Revised: August 2025
 
 Rev.
-9
+10

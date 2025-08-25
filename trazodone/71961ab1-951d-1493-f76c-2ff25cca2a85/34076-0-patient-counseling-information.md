@@ -4,7 +4,7 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Suicidal Thoughts and Behaviors
 
-Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down and instruct them to report such symptoms to the healthcare provider [see Box Warning and Warnings and Precautions (5.1)].
+Advisepatients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down and instruct them to report such symptoms to the healthcare provider [see Box Warning and Warnings and Precautions (5.1)].
 
 Dosage and Administration
 
@@ -39,8 +39,6 @@ Pregnancy
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during therapy with trazodone hydrochloride tablets.
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to trazodone hydrochloride tablets during pregnancy [see Use in Special Populations (8.1)].
 
-Dispense with Medication Guide available at https://www.apotex.com/products/us/mg.asp
-
 APOTEX INC. TRAZODONE HYDROCHLORIDE TABLETS, USP 50 mg, 100 mg, 150 mg and 300 mg
 
 | Manufactured by | Manufactured For |
@@ -50,4 +48,4 @@ APOTEX INC. TRAZODONE HYDROCHLORIDE TABLETS, USP 50 mg, 100 mg, 150 mg and 300 m
 | Canada M9L 1T9 | 33326 |
 
 Rev.
-9
+10
