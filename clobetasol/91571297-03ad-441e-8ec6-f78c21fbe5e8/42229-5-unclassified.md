@@ -1,1 +1,5 @@
-Mfd. by: Taro Pharmaceuticals Inc. Brampton, Ontario, Canada L6T 1C1 Dist. by: Taro Pharmaceuticals U.S.A., Inc., Hawthorne, NY 10532 Revised: September 2019 PK-3030-3
+Mfd. by: Sun Pharma Canada Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: Sun Pharmaceutical Industries, Inc., Cranbury, NJ 08512
+
+Revised: August 2025
+
+5264283 0825 64

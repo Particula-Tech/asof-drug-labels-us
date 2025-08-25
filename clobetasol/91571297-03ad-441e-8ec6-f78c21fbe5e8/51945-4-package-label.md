@@ -12,5 +12,3 @@ NOT FOR OPHTHALMIC USE.
 Rx only
 
 Keep this and all medications out of the reach of children.
-
-TARO
