@@ -411,7 +411,7 @@ Achievement of resolution of CRS within 14 days was confirmed in a second study 
 
 ## 14.11 COVID-19 – Intravenous Administration
 
-The efficacy of ACTEMRA for the treatment of COVID-19 was based on RECOVERY (NCT04381936), a randomized, controlled, open-label, platform study, and supported by the results from EMPACTA (NCT04372186), a randomized, double-blind, placebo-controlled study.
+The efficacy of ACTEMRA for the treatment of COVID-19 in adults was based on RECOVERY (NCT04381936), a randomized, controlled, open-label, platform study, and supported by the results from EMPACTA (NCT04372186), a randomized, double-blind, placebo-controlled study.
 Results of two other randomized, double-blind, placebo-controlled studies, COVACTA (NCT04320615) and REMDACTA (NCT04409262), which evaluated the efficacy of ACTEMRA for the treatment of COVID-19 are also summarized.
 
 RECOVERY (Randomised Evaluation of COVID-19 Therapy) Collaborative Group Study in Hospitalized Adults Diagnosed with COVID-19
@@ -463,7 +463,7 @@ Mortality at Day 28 was 19.7% in the ACTEMRA arm versus 19.4% in the placebo arm
 
 REMDACTA
 
-REMDACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous ACTEMRA 8 mg/kg in combination with intravenous remdesivir (RDV) 200 mg on Day 1 followed by 100 mg once daily for a total of 10 days in hospitalized patients with severe COVID-19 pneumonia.
+REMDACTA was a randomized, double-blind, placebo-controlled, multicenter study to evaluate intravenous ACTEMRA 8 mg/kg in combination with intravenous remdesivir (RDV) 200 mg on Day 1 followed by 100 mg once daily for a total of 10 days in hospitalized adult patients with severe COVID-19 pneumonia.
 The study randomized 649 adult patients with SARS-CoV-2 infection confirmed by a positive polymerase chain reaction (PCR) result, pneumonia confirmed by radiography, and who required supplemental oxygen > 6 L/min to maintain SpO2 >93%.
 At baseline, 7% of patients were on low flow oxygen, 80% were on non-invasive ventilation or high flow oxygen, 14% were on invasive mechanical ventilation, and 84% were on corticosteroids.
 

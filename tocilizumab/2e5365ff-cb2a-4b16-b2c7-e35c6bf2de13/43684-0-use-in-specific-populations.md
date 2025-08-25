@@ -57,14 +57,15 @@ ACTEMRA by intravenous use is indicated for the treatment of pediatric patients 
 - Active systemic juvenile idiopathic arthritis in patients 2 years of age and older
 - Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
 - Severe or life-threatening CAR T cell-induced cytokine release syndrome (CRS) in patients 2 years of age and older.
+- Hospitalized Coronavirus disease 2019 (COVID-19) patients 2 years of age and older who are receiving systemic corticosteroids and require supplemental oxygen, non-invasive or invasive mechanical ventilation, or extracorporeal membrane oxygenation (ECMO).
 
 ACTEMRA by subcutaneous use is indicated for the treatment of pediatric patients with:
 
 - Active polyarticular juvenile idiopathic arthritis in patients 2 years of age and older
 - Active systemic juvenile idiopathic arthritis in patients 2 years of age and older
 
-The safety and effectiveness of ACTEMRA in pediatric patients with conditions other than PJIA, SJIA or CRS have not been established.
-The safety and effectiveness in pediatric patients below the age of 2 have not been established in PJIA, SJIA, or CRS.
+The safety and effectiveness of ACTEMRA in pediatric patients with conditions other than PJIA, SJIA, CRS or COVID-19 have not been established.
+The safety and effectiveness in pediatric patients below the age of 2 have not been established in PJIA, SJIA, CRS or COVID-19.
 
 Systemic Juvenile Idiopathic Arthritis – Intravenous Use
 
@@ -87,6 +88,13 @@ Cytokine Release Syndrome – Intravenous Use
 
 In the retrospective analysis of pooled outcome data for patients treated with ACTEMRA for CAR T cell-induced CRS, 25 patients were children (2 years up to 12 years of age), and 17 patients were adolescents (12 years up to 18 years of age).
 There were no differences between the pediatric patients and the adults for safety or efficacy.
+
+COVID-19 – Intravenous Use
+
+The safety and effectiveness of ACTEMRA have been established for the treatment of pediatric patients aged 2 years and older with COVID-19.
+Use of ACTEMRA in these age groups is supported by evidence from adequate and well-controlled studies of ACTEMRA in adults with COVID-19 [See Adverse Reactions (6.11) and Clinical Studies (14.11)], predicted pharmacokinetic data modeling and simulation for pediatric patients aged 2 years and older with COVID-19 [See Clinical Pharmacology (12.3)], safety data from a randomized, double-blind, placebo-controlled study of ACTEMRA in pediatric patients aged 2 years and older with systemic juvenile idiopathic arthritis, and additional uncontrolled pharmacovigilance data in pediatric patients aged 2 years and older with COVID-19 who received ACTEMRA under Emergency Use Authorization.
+
+The safety and effectiveness of ACTEMRA has not been established in pediatric COVID-19 patients younger than 2 years of age.
 
 ## 8.5 Geriatric Use
 
