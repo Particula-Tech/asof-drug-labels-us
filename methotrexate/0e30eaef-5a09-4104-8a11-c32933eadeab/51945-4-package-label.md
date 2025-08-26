@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Label
 
-NDC 61703-350-09 2 mL Sterile
+Sterile NDC 61703-350-09 2 mL Multiple-dose Vial
 
 Methotrexate Injection, USP Rx only
 
@@ -8,7 +8,7 @@ Methotrexate Injection, USP Rx only
 
 Isotonic Liquid
 
-Contains preservative Cytotoxic Agent
+Contains preservative Hazardous Drug
 
 # PRINCIPAL DISPLAY PANEL - 2 mL Vial Carton
 
