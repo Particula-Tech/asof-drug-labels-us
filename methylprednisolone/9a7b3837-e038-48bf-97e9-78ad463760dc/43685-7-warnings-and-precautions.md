@@ -126,7 +126,7 @@ Corticosteroids should not be used in active ocular herpes simplex.
 ## Kaposi’s Sarcoma
 
 Kaposi’s sarcoma has been reported to occur in patients receiving corticosteroid therapy, most often for chronic conditions.
-Discontinuation of corticosteroids may result in clinical improvement.
+Discontinuation of corticosteroids may result in clinical improvement of Kaposi’s sarcoma.
 
 # PRECAUTIONS
 
@@ -261,7 +261,7 @@ Steroids may increase or decrease motility and number of spermatozoa in some pat
 
 Corticosteroids have been shown to impair fertility in male rats.
 
-## Pregnancy
+## Pregnancy:
 
 ### Teratogenic Effects
 
