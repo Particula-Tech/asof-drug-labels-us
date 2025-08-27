@@ -6,7 +6,9 @@ Everolimus Tablets
 
 2.5 mg
 
-Rx Only 30 Tablets
+Rx Only
+
+30 Tablets
 
 breckenridge A Towa Company
 
@@ -18,7 +20,9 @@ Everolimus Tablets
 
 5 mg
 
-Rx Only 30 Tablets
+Rx Only
+
+30 Tablets
 
 breckenridge A Towa Company
 
@@ -30,7 +34,9 @@ Everolimus Tablets
 
 7.5 mg
 
-Rx Only 30 Tablets
+Rx Only
+
+30 Tablets
 
 breckenridge A Towa Company
 
@@ -42,7 +48,9 @@ Everolimus Tablets
 
 10 mg
 
-Rx Only 30 Tablets
+Rx Only
+
+30 Tablets
 
 breckenridge A Towa Company
 
