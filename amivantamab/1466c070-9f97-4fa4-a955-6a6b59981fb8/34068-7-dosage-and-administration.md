@@ -44,7 +44,7 @@ Table 3: Order of Administration and Regimen for RYBREVANT in Combination with C
 | --- | --- | --- |
 | RYBREVANT in Combination with Carboplatin and Pemetrexed |  |  |
 | Administer the regimen in the following order: pemetrexed first, carboplatin second, and RYBREVANT last. |  |  |
-| Pemetrexed | Pemetrexed 500 mg/m 2 intravenously Refer to the pemetrexed Full Prescribing Information for complete information. | Every 3 weeks, continue until disease progression or unacceptable toxicity. |
+| Pemetrexed | Pemetrexed 500 mg/m 2intravenously Refer to the pemetrexed Full Prescribing Information for complete information. | Every 3 weeks, continue until disease progression or unacceptable toxicity. |
 | Carboplatin | Carboplatin AUC 5 intravenously Refer to the carboplatin Full Prescribing Information for complete information. | Every 3 weeks for up to 12 weeks. |
 | RYBREVANT | RYBREVANT intravenously See Table 2. | Every 3 weeks, continue until disease progression or unacceptable toxicity. |
 
@@ -84,7 +84,8 @@ Refer to the lazertinib prescribing information for information about concomitan
 
 Prior to the initial infusion of RYBREVANT (Week 1, Day 1 and 2), administer premedications as described in Table 5 to reduce the risk of infusion-related reactions [see Warnings and Precautions (5.1)].
 
-Glucocorticoid administration is required for Week 1, Day 1 and 2 dose only and upon re-initiation after prolonged dose interruptions, then as necessary for subsequent infusions (see Table 5).Administer both antihistamine and antipyretic prior to all infusions.
+Glucocorticoid administration is required for Week 1, Day 1 and 2 dose only and upon re-initiation after prolonged dose interruptions, then as necessary for subsequent infusions (see Table 5).
+Administer both antihistamine and antipyretic prior to all infusions.
 
 Table 5: Premedications
 
@@ -116,8 +117,8 @@ Table 7: Recommended Dosage Modifications and Management for Adverse Reactions f
 
 | Adverse Reaction | Severity | Dosage Modifications |
 | --- | --- | --- |
-| Infusion-related reactions (IRR) [see Warnings and Precautions (5.1)] | Grade 1 to 2 | Interrupt RYBREVANT infusion if IRR is suspected and monitor patient until reaction symptoms resolve.Resume the infusion at 50% of the infusion rate at which the reaction occurred.If there are no additional symptoms after 30 minutes, the infusion rate may be escalated (see Tables 8 and 9). Include corticosteroid with premedications for subsequent dose (see Table 5). |
-| Grade 3 | Interrupt RYBREVANT infusion and administer supportive care medications. Continuously monitor patient until reaction symptoms resolve.Resume the infusion at 50% of the infusion rate at which the reaction occurred.If there are no additional symptoms after 30 minutes, the infusion rate may be escalated (see Tables 8 and 9). Include corticosteroid with premedications for subsequent dose (see Table 5). For recurrent Grade 3, permanently discontinue RYBREVANT. |  |
+| Infusion-related reactions (IRR) [see Warnings and Precautions (5.1)] | Grade 1 to 2 | Interrupt RYBREVANT infusion if IRR is suspected and monitor patient until reaction symptoms resolve.Resume the infusion at 50% of the infusion rate at which the reaction occurred.If there are no additional symptoms after 30 minutes, the infusion rate may be escalated (see Tables 8and 9). Include corticosteroid with premedications for subsequent dose (see Table 5). |
+| Grade 3 | Interrupt RYBREVANT infusion and administer supportive care medications. Continuously monitor patient until reaction symptoms resolve.Resume the infusion at 50% of the infusion rate at which the reaction occurred.If there are no additional symptoms after 30 minutes, the infusion rate may be escalated (see Tables 8and 9). Include corticosteroid with premedications for subsequent dose (see Table 5). For recurrent Grade 3, permanently discontinue RYBREVANT. |  |
 | Grade 4 or any Grade anaphylaxis / anaphylactic reactions | Permanently discontinue RYBREVANT. |  |
 | Interstitial Lung Disease (ILD)/pneumonitis [see Warnings and Precautions (5.2)] | Any Grade | Withhold RYBREVANT if ILD/pneumonitis is suspected.Permanently discontinue RYBREVANT if ILD/pneumonitis is confirmed. |
 | Venous Thromboembolic (VTE) Events [Applies to the combination with lazertinib, see Warnings and Precautions (5.3)] | Grade 2 or 3 | Withhold RYBREVANT and lazertinib.Administer anticoagulant treatment as clinically indicated.Once anticoagulant treatment has been initiated, resume RYBREVANT and lazertinib at the same dose level, at the discretion of the healthcare provider. |
@@ -125,7 +126,7 @@ Table 7: Recommended Dosage Modifications and Management for Adverse Reactions f
 | Dermatologic Adverse Reactions (including dermatitis acneiform, pruritus, dry skin) [see Warnings and Precautions (5.4)] | Grade 1 or Grade 2 | Initiate supportive care management.Reassess after 2 weeks; if rash does not improve, consider dose reduction. |
 | Grade 3 | Withhold RYBREVANT and initiate supportive care management.Upon recovery to ≤ Grade 2, resume RYBREVANT at reduced dose.If no improvement within 2 weeks, permanently discontinue treatment. |  |
 | Grade 4 | Permanently discontinue RYBREVANT. |  |
-| Severe bullous, blistering or exfoliating skin conditions (including toxic epidermal necrolysis (TEN) | Permanently discontinue RYBREVANT. |  |
+| Severe bullous, blistering or exfoliating skin conditions (including toxic epidermal necrolysis (TEN)) | Permanently discontinue RYBREVANT. |  |
 | Other Adverse Reactions [see Adverse Reactions (6.1)] | Grade 3 | Withhold RYBREVANT until recovery to ≤ Grade 1 or baseline.Resume at the same dose if recovery occurs within 1 week.Resume at reduced dose if recovery occurs after 1 week but within 4 weeks.Permanently discontinue if recovery does not occur within 4 weeks. |
 | Grade 4 | Withhold RYBREVANT until recovery to ≤ Grade 1 or baseline.Resume at reduced dose if recovery occurs within 4 weeks.Permanently discontinue if recovery does not occur within 4 weeks.Permanently discontinue for recurrent Grade 4 reactions. |  |
 
@@ -163,7 +164,7 @@ Dilute and prepare RYBREVANT for intravenous infusion before administration.
 
 - Administer the diluted RYBREVANT solution [see Dosage and Administration (2.7)] by intravenous infusion using an infusion set fitted with a flow regulator and with an in-line, sterile, non-pyrogenic, low protein-binding polyethersulfone (PES) filter (pore size 0.2 micrometer).
 - Administration sets must be made of either polyurethane (PU), polybutadiene (PBD), PVC, PP, or PE.
-- The administration set with filter, mustbe primed with either 5% Dextrose Injection or 0.9% Sodium Chloride Injection prior to the initiation of each RYBREVANT infusion.
+- The administration set with filter, must be primed with either 5% Dextrose Injection or 0.9% Sodium Chloride Injection prior to the initiation of each RYBREVANT infusion.
 - Do not infuse RYBREVANT concomitantly in the same intravenous line with other agents.
 
 RYBREVANT in Combination with Carboplatin and Pemetrexed

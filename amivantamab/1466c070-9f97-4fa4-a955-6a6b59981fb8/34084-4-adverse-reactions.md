@@ -27,7 +27,7 @@ The pooled safety population described in the WARNINGS AND PRECAUTIONS also refl
 - MARIPOSA-2 [see Clinical Studies (14.2)] in 130 patients with previously treated locally advanced or metastatic NSCLC with EGFR exon 19 deletions or exon 21 L858R substitution mutations whose disease has progressed on or after treatment with osimertinib.
 - PAPILLON [see Clinical Studies (14.3)] in 151 patients with previously untreated, locally advanced or metastatic NSCLC with EGFR exon 20 insertion mutations.
 
-Patients received RYBREVANT intravenously at 1,400 mg (for patients < 80 kg) or 1,750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1,750 mg (for patients < 80 kg) or 2,100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity, in combination with carboplatin at area under the curve AUC 5 once every 3 weeks, for up to 12 weeks, and pemetrexed at 500 mg/m2 once every 3 weeks until disease progression or unacceptable toxicity.
+Patients received RYBREVANT intravenously at 1,400 mg (for patients < 80 kg) or 1,750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1,750 mg (for patients < 80 kg) or 2,100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity, in combination with carboplatin at area under the curve AUC 5 once every 3 weeks, for up to 12 weeks, and pemetrexed at 500 mg/m 2once every 3 weeks until disease progression or unacceptable toxicity.
 Among 281 patients who received RYBREVANT in combination with carboplatin and pemetrexed, 65% were exposed for 6 months or longer and 24% were exposed for greater than one year.
 In the safety population, the most common (≥ 20%) adverse reactions were rash, nail toxicity, infusion-related reaction, fatigue, nausea, stomatitis, constipation, edema, decreased appetite, musculoskeletal pain, vomiting, and COVID-19.
 The most common Grade 3 to 4 laboratory abnormalities (≥ 2%) were decreased neutrophils, decreased leukocytes, decreased platelets, decreased hemoglobin, decreased potassium, decreased sodium, increased alanine aminotransferase, increased gamma-glutamyl transferase, and decreased albumin.
@@ -118,9 +118,9 @@ Table 11 summarizes the laboratory abnormalities in MARIPOSA.
 
 Table 11: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients with NSCLC with EGFR Exon 19 Deletion or Exon 21 L858R Substitution Mutations in MARIPOSA The denominator used to calculate the rate is the number of patients with a baseline value and at least one post-treatment value for the specific lab test.
 
-|  | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
+| Laboratory Abnormality | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- | --- | --- |
-| Laboratory Abnormality | RYBREVANT in combination with lazertinib (N=421) |  | Osimertinib (N=428) |  |
+|  | RYBREVANT in combination with lazertinib (N=421) |  | Osimertinib (N=428) |  |
 | Chemistry |  |  |  |  |
 | Decreased albumin | 89 | 8 | 22 | 0.2 |
 | Increased ALT | 65 | 7 | 29 | 2.6 |
@@ -142,7 +142,8 @@ Table 11: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline 
 Previously Treated Non-Small Cell Lung Cancer (NSCLC) with EGFR Exon 19 Deletions or Exon 21 L858R Substitution Mutations
 
 The safety data described below reflect exposure to RYBREVANT in combination with carboplatin and pemetrexed was evaluated in MARIPOSA-2 [see Clinical Studies (14.2)].
-Eligible patients had locally advanced or metastatic NSCLC with EGFR exon 19 deletions or exon 21 L858R substitution mutations with progressive disease on or after treatment with osimertinib.Patients with asymptomatic or previously treated and stable intracranial metastases were eligible.
+Eligible patients had locally advanced or metastatic NSCLC with EGFR exon 19 deletions or exon 21 L858R substitution mutations with progressive disease on or after treatment with osimertinib.
+Patients with asymptomatic or previously treated and stable intracranial metastases were eligible.
 Patients received RYBREVANT intravenously at 1,400 mg (for patients < 80 kg) or 1,750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1,750 mg (for patients < 80 kg) or 2,100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity, in combination with carboplatin at area under the curve AUC 5 once every 3 weeks, for up to 12 weeks, and pemetrexed at 500 mg/m 2once every 3 weeks until disease progression or unacceptable toxicity.
 Among patients who received RYBREVANT (n=130), 52% were exposed for 6 months or longer and 7% were exposed for greater than one year.
 The median treatment duration was 6.3 months (range: 0 to 14.7 months).
@@ -259,9 +260,9 @@ Table 14 summarizes the adverse reactions in PAPILLON.
 
 Table 14: Adverse Reactions (≥ 10%) in Patients with Metastatic NSCLC with Exon 20 Insertion Mutations Who Received RYBREVANT in Combination with Carboplatin and Pemetrexed in PAPILLON
 
-|  | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
+| Adverse Reaction Adverse reactions were graded using CTCAE version 5.0 | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- | --- | --- |
-| Adverse Reaction Adverse reactions were graded using CTCAE version 5.0 | RYBREVANT in Combination with Carboplatin and Pemetrexed (n=151) |  | Carboplatin and Pemetrexed (n=155) |  |
+|  | RYBREVANT in Combination with Carboplatin and Pemetrexed (n=151) |  | Carboplatin and Pemetrexed (n=155) |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
 | Rash Grouped Term | 90 | 19 | 19 | 0 |
 | Nail toxicity | 62 | 7 | 3 | 0 |
@@ -302,9 +303,9 @@ Table 15 summarizes the laboratory abnormalities in PAPILLON.
 
 Table 15: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline in Patients with Metastatic NSCLC with EGFR Exon 20 Insertion Mutations Who Received RYBREVANT in Combination with Carboplatin and Pemetrexed in PAPILLON
 
-| All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |  |
+| Laboratory Abnormality Adverse reactions were graded using CTCAE version 5.0 | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- | --- | --- |
-| Laboratory Abnormality Adverse reactions were graded using CTCAE version 5.0 | RYBREVANT in Combination with Carboplatin and Pemetrexed The denominator used to calculate the rate varied from 113 to 150 based on the number of patients with a baseline value and at least one post-treatment value. |  | Carboplatin in Combination with Pemetrexed The denominator used to calculate the rate varied from 119 to 154 based on the number of patients with a baseline value and at least one post-treatment value. |  |
+|  | RYBREVANT in Combination with Carboplatin and Pemetrexed The denominator used to calculate the rate varied from 113 to 150 based on the number of patients with a baseline value and at least one post-treatment value. |  | Carboplatin in Combination with Pemetrexed The denominator used to calculate the rate varied from 119 to 154 based on the number of patients with a baseline value and at least one post-treatment value. |  |
 | Hematology |  |  |  |  |
 | Decreased white blood cells | 89 | 17 | 76 | 10 |
 | Decreased hemoglobin | 79 | 11 | 85 | 13 |
@@ -415,4 +416,4 @@ Table 17: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline 
 The following adverse reactions associated with the use of RYBREVANT were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune System disorders:Infusion-related reactions, including anaphylaxis/anaphylactic reactions
+Immune System disorders: Infusion-related reactions, including anaphylaxis/anaphylactic reactions

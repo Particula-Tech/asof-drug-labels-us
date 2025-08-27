@@ -26,7 +26,7 @@ Among the 858 patients with EGFR exon 19 deletion or L858R substitution mutation
 Of the 544 patients with evaluable results, 527 (97%) patients were positive for EGFR exon 19 deletion or L858R substitution mutations, while 17 (3%) patients were negative.
 Available plasma samples from patients were retrospectively tested using an FDA-approved test to confirm the biomarker status.
 
-The trial demonstrated a statistically significant improvement in PFS by BICR assessment for RYBREVANT in combination with lazertinib compared to osimertinib.
+The trial demonstrated a statistically significant improvement in PFS by BICR assessment and OS for RYBREVANT in combination with lazertinib compared to osimertinib (see Table 18and Figures 1and 2).
 
 Efficacy results for RYBREVANT in combination with lazertinib are provided in Table 18.
 
@@ -38,6 +38,10 @@ Table 18: Efficacy Results in MARIPOSA by BICR Assessment
 | Number of events (%) | 192 (45) | 252 (59) |
 | Median, months (95% CI) | 23.7 (19.1, 27.7) | 16.6 (14.8, 18.5) |
 | HR Stratified by mutation type (Exon 19del or Exon 21 L858R), prior brain metastases (yes or no), and Asian race (yes or no).,Stratified Cox proportional hazards regression.(95% CI); p-value,Stratified log-rank test. | 0.70 (0.58, 0.85); p=0.0002 |  |
+| Overall survival (OS) |  |  |
+| Number of events (%) | 173 (40) | 217 (51) |
+| Median, months (95% CI) | NR (42.9, NE) | 36.7 (33.4, 41.0) |
+| HR,(95% CI); p-value, | 0.75 (0.61, 0.92); p=0.0048 |  |
 | Overall response rate (ORR)Confirmed responses based on the ITT population. |  |  |
 | ORR, % (95% CI) | 78 (74, 82) | 73 (69, 78) |
 | Complete response, % | 5.4 | 3.5 |
@@ -46,26 +50,26 @@ Table 18: Efficacy Results in MARIPOSA by BICR Assessment
 | Median (95% CI), months | 25.8 (20.1, NE) | 16.7 (14.8, 18.5) |
 | Patients with DOR ≥ 6 months Based on observed rates., % | 86 | 85 |
 | Patients with DOR ≥ 12 months, % | 68 | 57 |
-| CI = confidence interval; NE = not estimable |  |  |
+| CI = confidence interval; NR = not reached; NE = not estimable |  |  |
 
-Figure 1: Kaplan-Meier curve of PFS in previously untreated NSCLC patients by BICR assessment
+Figure 1: Kaplan-Meier Curves of PFS by BICR Assessment in Patients with Previously Untreated NSCLC
 
-While OS results were immature at the current analysis, with 55% of pre-specified deaths for the final analysis reported, no trend towards a detriment was observed.
+Figure 2: Kaplan-Meier Curves of OS in Patients with Previously Untreated NSCLC
 
 Out of all randomized patients (n=858), 367 (43%) had baseline intracranial lesions assessed by BICR using modified RECIST.
 Results of pre-specified analyses of intracranial ORR and DOR by BICR in the subset of patients with intracranial lesions at baseline for the RYBREVANT in combination with lazertinib arm and the osimertinib arm are summarized in Table 19.
 
-Table 19: Exploratory Analysis of Intracranial ORR and DOR by BICR assessment in subjects with intracranial lesions at baseline
+Table 19: Exploratory Analysis of Intracranial ORR and DOR by BICR Assessment in Subjects with Intracranial Lesions at Baseline
 
 |  | RYBREVANT in combination with lazertinib (N=180) | Osimertinib (N=187) |
 | --- | --- | --- |
-| Intracranial Tumor Response Assessment |  |  |
+| Intracranial tumor response assessment |  |  |
 | Intracranial ORR Confirmed responses, % (95% CI) | 68 (60, 75) | 69 (62, 76) |
 | Complete response % | 55 | 52 |
 | Intracranial DORIn confirmed responders |  |  |
 | Number of responders | 122 | 129 |
-| Patients with DOR ≥12 months Based on observed rates, % | 66 | 59 |
-| Patients with DOR ≥18 months, % | 35 | 23 |
+| Patients with DOR ≥ 12 months Based on observed rates, % | 66 | 59 |
+| Patients with DOR ≥ 18 months, % | 35 | 23 |
 | CI = confidence interval |  |  |
 
 ## 14.2 Previously Treated NSCLC Patients with EGFR Exon 19 Deletions or Exon 21 L858R Substitution Mutations - MARIPOSA-2
@@ -80,7 +84,7 @@ The evaluation of efficacy for metastatic NSCLC relied upon comparison between:
   RYBREVANT was administered intravenously at 1,400 mg (for patients < 80 kg) or 1,750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1,750 mg (for patients < 80 kg) or 2,100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
 - Platinum-based chemotherapy with carboplatin and pemetrexed.
 
-For both arms, carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks and pemetrexed was administered intravenously at 500 mg/m 2 once every 3 weeks until disease progression or unacceptable toxicity.
+For both arms, carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks and pemetrexed was administered intravenously at 500 mg/m 2once every 3 weeks until disease progression or unacceptable toxicity.
 
 Randomization was stratified by osimertinib line of therapy (first-line or second-line), prior brain metastases (yes or no), and Asian race (yes or no). Tumor assessments were performed every 6 weeks for the first 12 months and every 12 weeks thereafter.
 
@@ -97,7 +101,7 @@ Efficacy results are summarized in Table 20.
 
 Table 20: Efficacy results in MARIPOSA-2
 
-|  | RYBREVANT + carboplatin + pemetrexed (N=131) | carboplatin + pemetrexed (N=263) |
+|  | RYBREVANT + carboplatin+ pemetrexed (N=131) | carboplatin+ pemetrexed (N=263) |
 | --- | --- | --- |
 | Progression-free survival (PFS)Blinded Independent Central Review by RECIST v1.1 |  |  |
 | Number of events | 74 (56%) | 171 (65%) |
@@ -112,7 +116,7 @@ Table 20: Efficacy results in MARIPOSA-2
 | Median (95% CI), months | 6.9 (5.5, NE) | 5.6 (4.2, 9.6) |
 | CI = confidence interval NE = not estimatable |  |  |
 
-Figure 2: Kaplan-Meier curve of PFS in Previously Treated NSCLC Patients by BICR assessment- MARIPOSA-2
+Figure 3: Kaplan-Meier curve of PFS in Previously Treated NSCLC Patients by BICR assessment- MARIPOSA-2
 
 At the prespecified second interim analysis of OS, with 85% of the deaths needed for the final analysis, there was no statistically significant difference in OS.
 The median OS was 17.7 months (95% CI: 16.0, 22.4) in the ACP arm and 15.3 months (95% CI: 13.7, 16.8) in the CP arm, with a hazard ratio of 0.73 (95% CI: 0.54, 0.99).
@@ -147,7 +151,7 @@ Baseline ECOG performance status was 0 (35%) or 1 (65%); 58% were never smokers;
 
 PAPILLON demonstrated a statistically significant improvement in progression free survival for patients randomized to RYBREVANT in combination with carboplatin and pemetrexed compared with carboplatin and pemetrexed.
 
-Efficacy results are summarized in Table 21 and Figure 3.
+Efficacy results are summarized in Table 21 and Figure 4.
 
 Table 21: Efficacy Results in PAPILLON
 
@@ -166,7 +170,7 @@ Table 21: Efficacy Results in PAPILLON
 | Median (95% CI), months | 10.1 (8.5, 13.9) | 5.6 (4.4, 6.9) |
 | CI = confidence interval |  |  |
 
-Figure 3: Kaplan-Meier Curve of PFS in Previously Untreated NSCLC Patients by BICR Assessment – Papillon Study
+Figure 4: Kaplan-Meier Curve of PFS in Previously Untreated NSCLC Patients by BICR Assessment – PAPILLON Study
 
 While OS results were immature at the current analysis, with 44% of pre-specified deaths for the final analysis reported, no trend towards a detriment was observed.
 Seventy-five (48%) of the treated patients crossed over from the carboplatin and pemetrexed arm after confirmation of disease progression to receive RYBREVANT as a single agent.
