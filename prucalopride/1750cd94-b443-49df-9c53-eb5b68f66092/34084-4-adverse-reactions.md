@@ -14,7 +14,7 @@ Table 2 below summarizes the incidence (%) of common adverse reactions occurring
 
 Table 2: Common Adverse Reactions* in Double-Blind Placebo-Controlled Trials of CIC of at least 12 Weeks Duration
 
-| Adverse Reaction | PRUCALOPRIDE TABLETS 2 mg Once Daily N=1251† % | Placebo N=1279 % |
+| Adverse Reaction | PRUCALOPRIDE TABLET 2 mg Once Daily N=1251† % | Placebo N=1279 % |
 | --- | --- | --- |
 | Headache | 19 | 9 |
 | Abdominal pain‡ | 16 | 11 |
@@ -26,15 +26,15 @@ Table 2: Common Adverse Reactions* in Double-Blind Placebo-Controlled Trials of 
 | Flatulence | 3 | 2 |
 | Fatigue | 2 | 1 |
 
-*Reported in ≥2% of patients receiving prucalopride tablets and a rate higher than patients receiving placebo.
+*Reported in ≥2% of patients receiving prucalopride tablet and a rate higher than patients receiving placebo.
 
-†Includes 93 patients who started on prucalopride tablets 1 mg and increased to prucalopride tablets 2 mg.
+†Includes 93 patients who started on prucalopride tablet 1 mg and increased to prucalopride tablet 2 mg.
 
 ǂIncludes abdominal pain, upper abdominal pain, lower abdominal pain, abdominal tenderness, abdominal discomfort, and epigastric discomfort.
 
 Less Common Adverse Reactions
 
-Less common adverse reactions occurring in <2% of patients receiving prucalopride tablets 2 mg once daily include:
+Less common adverse reactions occurring in <2% of patients receiving prucalopride tablet 2 mg once daily include:
 
 Gastrointestinal disorders: abnormal gastrointestinal sounds
 
@@ -67,20 +67,20 @@ The total exposure in the double-blind trials was 565 patient-years in the pruca
 
 Cardiovascular Safety Analysis
 
-In an evaluation by an independent adjudication committee of all potential major adverse cardiovascular events (MACE), defined as cardiovascular death, nonfatal myocardial infarction, and nonfatal stroke, the standardized incidence rate (IR) per 1000 patient-years for MACE for prucalopride tablets was compared with the IR for placebo.
+In an evaluation by an independent adjudication committee of all potential major adverse cardiovascular events (MACE), defined as cardiovascular death, nonfatal myocardial infarction, and nonfatal stroke, the standardized incidence rate (IR) per 1000 patient-years for MACE for prucalopride tablet was compared with the IR for placebo.
 
 In the double-blind trials, the IR for MACE was 3.5 (2 patients out of 3366; 1 patient on 2 mg and 1 patient on 4 mg) in the prucalopride tablets group and 5.2 (2 patients out of 2019) in the placebo group.
 When combining the double-blind and open-label trials, the IR for MACE was 3.3 (9 patients out of 4472, doses ranging between 0.5 to 4 mg) for prucalopride tablets.
 
 Suicidal Ideation and Behavior
 
-In the double-blind trials, one patient reported a suicide attempt 7 days after the end of treatment with prucalopride tablets 2 mg once daily; none were reported in patients on placebo.
+In the double-blind trials, one patient reported a suicide attempt 7 days after the end of treatment with prucalopride tablet 2 mg once daily; none were reported in patients on placebo.
 In the open-label trials, two patients reported a suicide attempt and another patient reported suicidal ideation.
-Completed suicide was reported in two patients, previously treated with prucalopride tablets 2 mg or 4 mg; both discontinued prucalopride tablets for at least one month prior to the event.
+Completed suicide was reported in two patients, previously treated with prucalopride tablet 2 mg or 4 mg; both discontinued prucalopride tablet for at least one month prior to the event.
 
 Observational Cardiovascular Cohort Study
 
-The overall cardiovascular safety of prucalopride tablets was assessed using European healthcare databases in a population-based, retrospective, observational, cohort study of adults with constipation.
+The overall cardiovascular safety of prucalopride tablet was assessed using European healthcare databases in a population-based, retrospective, observational, cohort study of adults with constipation.
 New users of prucalopride tablets (N=5715) were matched to new users of polyethylene glycol 3350 (PEG) (N=29,372) to estimate the standardized incidence rate ratio (SIRR) for MACE, pooled across four data sources.
 The 95% confidence interval for the pooled estimate of the SIRR did not demonstrate an increased MACE risk and excluded a pre-specified safety margin of a three-fold risk of MACE during prucalopride use relative to PEG use.
 

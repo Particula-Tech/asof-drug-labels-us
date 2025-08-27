@@ -3,7 +3,7 @@
 ## 5.1 Suicidal Ideation and Behavior
 
 In clinical trials, suicides, suicide attempts, and suicidal ideation have been reported.
-Postmarketing cases of suicidal ideation and behavior as well as self-injurious ideation and new onset or worsening of depression have been reported within the first few weeks of starting Prucalopride Tablets [see Adverse Reactions (6.1, 6.2)].
+Postmarketing cases of suicidal ideation and behavior as well as self-injurious ideation and new onset or worsening of depression have been reported within the first few weeks of starting prucalopride tablets [see Adverse Reactions (6.1, 6.2)].
 
 A causal association between treatment with prucalopride tablets and an increased risk of suicidal ideation and behavior has not been established.
 
