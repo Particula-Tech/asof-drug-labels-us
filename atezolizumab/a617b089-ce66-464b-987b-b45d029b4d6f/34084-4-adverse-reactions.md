@@ -96,7 +96,7 @@ Fatal adverse reactions occurred in 1.8% of patients receiving intravenous atezo
 Serious adverse reactions occurred in 18% of patients receiving intravenous atezolizumab.
 The most frequent serious adverse reactions (> 1%) were pneumonia (1.8%), pneumonitis (1.6%), and pyrexia (1.2%).
 
-Intravenous atezolizumab was discontinued due to adverse reactions in 18% of patients; the most common adverse reactions (≥ 1%) leading to intravenous atezolizumab discontinuation were pneumonitis (2.2%), hypothyroidism (1.6%), increased aspartate aminotranferase (1.4%), arthralgia (1.0%), and increased alanine aminotransferase (1.0%).
+Intravenous atezolizumab was discontinued due to adverse reactions in 18% of patients; the most common adverse reactions (≥ 1%) leading to intravenous atezolizumab discontinuation were pneumonitis (2.2%), hypothyroidism (1.6%), increased aspartate aminotransferase (1.4%), arthralgia (1.0%), and increased alanine aminotransferase (1.0%).
 
 Adverse reactions leading to interruption of intravenous atezolizumab occurred in 29% of patients; the most common (> 1%) were rash (3.0%), hyperthyroidism (2.8%), hypothyroidism (1.6%), increased AST (1.6%), pyrexia (1.6%), increased ALT (1.4%), upper respiratory tract infection (1.4%), headache (1.2%), peripheral neuropathy (1.2%), and pneumonia (1.2%).
 
@@ -562,7 +562,7 @@ Metastatic Melanoma
 IMspire150
 
 The safety of intravenous atezolizumab, administered with cobimetinib and vemurafenib, was evaluated in IMspire150, a double-blind, randomized (1:1), placebo-controlled study conducted in patients with previously untreated BRAF V600 mutation-positive metastatic or unresectable melanoma [see Clinical Studies (14.4)].
-Patients received intravenous atezolizuamb with cobimetinib and vemurafenib (n = 230) or placebo with cobimetinib and vemurafenib (n = 281).
+Patients received intravenous atezolizumab with cobimetinib and vemurafenib (n = 230) or placebo with cobimetinib and vemurafenib (n = 281).
 
 Among the 230 patients who received intravenous atezolizumab administered with cobimetinib and vemurafenib, the median duration of exposure to intravenous atezolizumab was 9.2 months (range: 0–30 months), to cobimetinib was 10.0 months (range: 1–31 months) and to vemurafenib was 9.8 months (range: 1–31 months).
 
@@ -576,11 +576,11 @@ Adverse reactions leading to discontinuation of intravenous atezolizumab occurre
 The most frequent (≥ 2%) adverse reactions leading to intravenous atezolizumab discontinuation were increased ALT (2.2%) and pneumonitis (2.6%).
 
 Adverse reactions leading to interruption of intravenous atezolizumab occurred in 68% of patients in the intravenous atezolizumab plus cobimetinib and vemurafenib arm.
-The most frequent (≥ 2%) adverse reactions leading to intravenous atezolizuamb interruption were pyrexia (14%), increased ALT (13%), hyperthyroidism (10%), increased AST (10%), increased lipase (9%), increased amylase (7%), pneumonitis (5%), increased CPK (4.3%), diarrhea (3.5%), pneumonia (3.5%), asthenia (3%), rash (3%), influenza (3%), arthralgia (2.6%), fatigue (2.2%), dyspnea (2.2%), cough (2.2%), peripheral edema (2.2%), uveitis (2.2%), bronchitis (2.2%), hypothyroidism (2.2%), and respiratory tract infection (2.2%).
+The most frequent (≥ 2%) adverse reactions leading to intravenous atezolizumab interruption were pyrexia (14%), increased ALT (13%), hyperthyroidism (10%), increased AST (10%), increased lipase (9%), increased amylase (7%), pneumonitis (5%), increased CPK (4.3%), diarrhea (3.5%), pneumonia (3.5%), asthenia (3%), rash (3%), influenza (3%), arthralgia (2.6%), fatigue (2.2%), dyspnea (2.2%), cough (2.2%), peripheral edema (2.2%), uveitis (2.2%), bronchitis (2.2%), hypothyroidism (2.2%), and respiratory tract infection (2.2%).
 
 Tables 19 and 20 summarize the incidence of adverse reactions and laboratory abnormalities in IMspire150.
 
-Table 19: Adverse Reactions Occurring in ≥ 10% of Patients on the Intravenous Atezolizumab plus Cobimetinib and Vemurafenib Arm or the Placebo plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4 Intravenous Atezolizumb in IMspire150)
+Table 19: Adverse Reactions Occurring in ≥ 10% of Patients on the Intravenous Atezolizumab plus Cobimetinib and Vemurafenib Arm or the Placebo plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4 Intravenous Atezolizumab in IMspire150)
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |

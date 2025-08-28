@@ -159,7 +159,7 @@ Immune-Mediated Nephritis with Renal Dysfunction
 
 TECENTRIQ HYBREZA can cause immune-mediated nephritis, including Grade 3 adverse reactions.
 
-Intravenous Atezoliuzmab in Combination with Cobimetinib and Vemurafenib:
+Intravenous Atezolizumab in Combination with Cobimetinib and Vemurafenib:
 
 Immune-mediated nephritis with renal dysfunction occurred in 1.3% (3/230) of patients receiving intravenous atezolizumab in combination with cobimetinib and vemurafenib in the IMspire150 trial [see Adverse Reactions (6.1)], including Grade 2 (1.3%) adverse reactions.
 Nephritis led to permanent discontinuation of intravenous atezolizumab in 0.4% and withholding of intravenous atezolizumab in 0.9% of patients.
@@ -195,7 +195,7 @@ Severe or fatal cases have been reported for some of these adverse reactions.
 
 ## 5.2 Infusion-Related Reactions
 
-TECENTRIQ HYBREZA can cause severe or life-threatening infusion-related reactions, including Grade 3 adverse reactions.
+TECENTRIQ HYBREZA can cause severe or life-threatening infusion-related reactions, including Grade 3 adverse reactions and anaphylaxis.
 Monitor for signs and symptoms of infusion-related reactions.
 Pause, slow the rate of, or permanently discontinue TECENTRIQ HYBREZA based on the severity [see Dosage and Administration (2.3)].
 For Grade 1 or 2 infusion-related reactions, consider using pre-medications with subsequent doses.

@@ -231,7 +231,7 @@ Efficacy results for the ITT-WT population are presented in Table 26 and Figure 
 
 Table 26: Efficacy Results from IMpower130
 
-|  | Intravenous Atezolizumb with Paclitaxel Protein-Bound and Carboplatin | Paclitaxel Protein-Bound and Carboplatin |
+|  | Intravenous Atezolizumab with Paclitaxel Protein-Bound and Carboplatin | Paclitaxel Protein-Bound and Carboplatin |
 | --- | --- | --- |
 | Overall SurvivalBased on OS interim analysis | n = 453 | n = 228 |
 | Deaths (%) | 228 (50%) | 131 (57%) |
@@ -320,7 +320,7 @@ In an exploratory efficacy subgroup analysis of OS based on PD-L1 expression, th
 
 Exploratory analyses showed that the subset of patients who were ADA positive by week 4 (21%) appeared to have less efficacy (effect on overall survival) as compared to patients who tested negative for treatment-emergent ADA by week 4 (79%) [see Clinical Pharmacology (12.6)].
 ADA positive patients by week 4 appeared to have similar OS compared to docetaxel-treated patients.
-In an exploratory analysis, propensity score matching was conducted to compare ADA positive patients in the atezolizumab arm with a matched population in the docetaxel arm and ADA negative patients in the atezolizumab arm with a matched population in the docetaxel arm.
+In an exploratory analysis, propensity score matching was conducted to compare ADA positive patients in the intravenous atezolizumab arm with a matched population in the docetaxel arm and ADA negative patients in the intravenous atezolizumab arm with a matched population in the docetaxel arm.
 Propensity score matching factors were: baseline sum of longest tumor size (BSLD), baseline ECOG, histology (squamous vs. non-squamous), baseline albumin, baseline LDH, gender, tobacco history, metastases status (advanced or local), metastatic site, TC level, and IC level.
 The hazard ratio comparing the ADA positive subgroup with its matched control was 0.89 (95% CI: 0.61, 1.3).
 The hazard ratio comparing the ADA negative subgroup with its matched control was 0.68 (95% CI: 0.55, 0.83).
@@ -328,7 +328,7 @@ The hazard ratio comparing the ADA negative subgroup with its matched control wa
 ## 14.2 Small Cell Lung Cancer
 
 The efficacy of TECENTRIQ HYBREZA in combination with carboplatin and etoposide for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC) has been established in adequate and well-controlled studies of intravenous atezolizumab in combination with carboplatin and etoposide for ES-SCLC.
-Below is a description of adverse reactions of intravenous atezolizumab in combination with carboplatin and etoposide in this adequate and well-controlled ES-SCLC trial.
+Below is a description of the efficacy results of intravenous atezolizumab in combination with carboplatin and etoposide in this adequate and well-controlled ES-SCLC trial.
 
 Small Cell Lung Cancer (SCLC)
 
@@ -387,7 +387,7 @@ Figure 6: Kaplan-Meier Plot of Overall Survival in IMpower133
 ## 14.3 Hepatocellular Carcinoma
 
 The efficacy of TECENTRIQ HYBREZA in combination with bevacizumab for the treatment of adult patients with unresectable or metastatic hepatocellular carcinoma (HCC) who have not received prior systemic therapy has been established in adequate and well-controlled studies of intravenous atezolizumab in combination with bevacizumab for HCC.
-Below is a description of efficacy reactions of intravenous atezolizumab in combination with bevacizumab in this adequate and well-controlled HCC trial.
+Below is a description of efficacy results of intravenous atezolizumab in combination with bevacizumab in this adequate and well-controlled HCC trial.
 
 Hepatocellular Carcinoma
 
@@ -468,7 +468,7 @@ The OS hazard ratio comparing the ADA-negative subgroup to sorafenib was 0.39 (9
 ## 14.4 Melanoma
 
 The efficacy of TECENTRIQ HYBREZA in combination with cobimetinib and vemurafenib for the treatment of adult patients with BRAF V600 mutation-positive unresectable or metastatic melanoma has been established in adequate and well-controlled studies of intravenous atezolizumab in combination with bevacizumab for BRAF V600 mutation-positive unresectable or metastatic melanoma.
-Below is a description of the efficacy of intravenous atezolizumab in combination with cobimetinib and vemurafenib in this adequate and well-controlled melanoma trial.
+Below is a description of the efficacy results of intravenous atezolizumab in combination with cobimetinib and vemurafenib in this adequate and well-controlled melanoma trial.
 
 Metastatic Melanoma
 
@@ -524,7 +524,7 @@ The hazard ratio for OS was 0.85 (95% CI: 0.64, 1.11) and the p-value was 0.2310
 
 The efficacy of TECENTRIQ HYBREZA as monotherapy for the treatment of adult patients with unresectable or metastatic alveolar soft part sarcoma (ASPS) has been established in adequate and well-controlled studies of intravenous atezolizumab for ASPS.
 TECENTRIQ HYBREZA is not indicated for the treatment of pediatric patients.
-Below is a description of the efficacy of intravenous atezolizumab in this adequate and well-controlled ASPS trial.
+Below is a description of the efficacy results of intravenous atezolizumab in this adequate and well-controlled ASPS trial.
 
 The efficacy of intravenous atezolizumab was evaluated in study ML39345 (NCT03141684), an open-label, single-arm study, in 49 adult and pediatric patients aged 2 years and older with unresectable or metastatic ASPS.
 Although this study enrolled pediatric patients, TECENTRIC HYBREZA is not indicated for use in pediatric patients.
@@ -557,7 +557,7 @@ Table 31: Efficacy Results from Study ML39345
 | Durability of response |  |
 | ≥ 6 months, n (%) | 8 (67%) |
 | ≥ 12 months, n (%) | 5 (42%) |
-| CI:confidence interval; N: number of patients; +: Censored |  |
+| CI: confidence interval; N: number of patients; +: Censored |  |
 
 ## 14.6 Patient Experience
 
