@@ -82,10 +82,12 @@ See Figure K
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by: National Pharmaceutical Industries Oman
-
 Distributed by: Bionpharma Inc. Princeton, NJ 08540
 
 March 2023
 
 FDA-05
+
+For India manufacturing site:
+
+Distributed by: Bionpharma Inc. Princeton, NJ 08540 MADE IN INDIA September 2024 FDA-06

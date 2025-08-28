@@ -12,7 +12,7 @@ What is the most important information I should know about rufinamide oral suspe
 
 Do not stop taking rufinamide oral suspension without first talking to your healthcare provider.
 
-Stopping rufinamide oral suspension suddenly can cause serious problems.
+Stopping rufinamide oral suspensionsuddenly can cause serious problems.
 
 Rufinamide oral suspension can cause serious side effects, including:
 
@@ -41,13 +41,12 @@ How can I watch for early symptoms of suicidal thoughts and actions?
 
 Call your healthcare provider between visits as needed, especially if you are worried about symptoms.
 
-Do not stop rufinamide oral suspension without first talking to a healthcare provider.
+Do not stop rufinamide oral suspensionwithout first talking to a healthcare provider.
 
 - Stopping rufinamide oral suspension suddenly can cause serious problems.
   Stopping a seizure medicine suddenly in a patient who has epilepsy can cause seizures that will not stop (status epilepticus).
 
-2.
-Rufinamide oral suspension may cause you to feel sleepy, tired, weak, dizzy, or have problems with coordination and walking.
+2.Rufinamide oral suspension may cause you to feel sleepy, tired, weak, dizzy, or have problems with coordination and walking.
 
 What is rufinamide oral suspension?
 
@@ -178,12 +177,17 @@ Active ingredient: rufinamide, USP
 
 Inactive ingredients: anhydrous citric acid powder, hydrochloric acid, hydroxyethylcellulose, methylparaben, microcrystalline cellulose & carboxymethylcellulose sodium, natural and artificial orange flavor, poloxamer 188, potassium sorbate, propylene glycol, propylparaben, purified water, simethicone emulsion 30%, sodium hydroxide and sorbitol solution 70%.
 
-Manufactured by: National Pharmaceutical Industries Oman
+Distributed by:
 
-Distributed by: Bionpharma Inc. Princeton, NJ 08540
+Bionpharma Inc. Princeton, NJ 08540
 
 Revised: March 2024
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 FDA-07
+
+For India manufacturing site:
+
+Distributed by: Bionpharma Inc. Princeton, NJ 08540 MADE IN INDIA Revised: September 2024 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+FDA-08

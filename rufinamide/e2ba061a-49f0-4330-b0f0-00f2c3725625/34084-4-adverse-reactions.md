@@ -103,7 +103,7 @@ Table 5: Most Common Adverse Reactions Leading to Discontinuation in Adult Patie
 | Nausea | 1 | 0 |
 | Ataxia | 1 | 0 |
 
-PediatricPatientsages1 toless than 4 years
+PediatricPatientsages1toless than 4 years
 
 In a multi-center, parallel group, open-label study comparing rufinamide (45 mg/kg per day) adjunctive treatment (n=25) to the adjunctive treatment with an AED of the investigator’s choice (n=11) in pediatric patients (1 year to less than 4 years of age) with inadequately controlled Lennox-Gastaut Syndrome, the adverse reaction profile was generally similar to that observed in adults and pediatric patients 4 years of age and older treated with rufinamide.
 Adverse reactions that occurred in at least 2 (8 %) rufinamide-treated patients and with a higher frequency than in the AED comparator group were: vomiting (24%), somnolence (16%), bronchitis (12%), constipation (12%), cough (12%), decreased appetite (12%), rash (12%), otitis media (8%), pneumonia (8%), decreased weight (8%), gastroenteritis (8%), nasal congestion (8%), and pneumonia aspiration (8%).
@@ -120,14 +120,14 @@ Because the reports include events observed in open-label, uncontrolled observat
 
 Events are classified by body system and listed in order of decreasing frequency as follows: frequent adverse events—those occurring in at least 1/100 patients; infrequent adverse events—those occurring in 1/100 to 1/1,000 patients; rare—those occurring in fewer than 1/1,000 patients.
 
-Blood and Lymphatic System Disorders: Frequent: anemia.
+Blood and Lymphatic System Disorders:Frequent: anemia.
 Infrequent: lymphadenopathy, leukopenia, neutropenia, iron deficiency anemia, thrombocytopenia.
 
-Cardiac Disorders: Infrequent:bundle branch block right, atrioventricular block first degree.
+Cardiac Disorders:Infrequent:bundle branch block right, atrioventricular block first degree.
 
 Metabolic and Nutritional Disorders: Frequent:decreased appetite, increased appetite.
 
-Renal and Urinary Disorders: Frequent:pollakiuria.
+Renal and Urinary Disorders:Frequent:pollakiuria.
 Infrequent:urinary incontinence, dysuria, hematuria, nephrolithiasis, polyuria, enuresis, nocturia, incontinence.
 
 ## 6.2 Postmarketing Experience

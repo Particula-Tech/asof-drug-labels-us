@@ -36,10 +36,14 @@ Breast-feeding
 
 Advise patients to notify their physician if they are breast-feeding or intend to breast-feed [see Use in Specific Populations (8.2)].
 
-Manufactured by: National Pharmaceutical Industries Oman
-
 Distributed by: Bionpharma Inc. Princeton, NJ 08540
 
 Revised: March 2024 FDA-07
 
-NCAL003 R00
+For India Manufacturing site:
+
+Distributed by: Bionpharma Inc. Princeton, NJ 08540
+
+Revised: September 2024 FDA-08
+
+948026851
