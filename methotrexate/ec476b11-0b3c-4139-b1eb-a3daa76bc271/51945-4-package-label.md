@@ -1,4 +1,6 @@
-PACKAGE LABEL- PRINCIPAL DISPLAY- Methotrexate for Injection 1 g Vial Label
+# PACKAGE LABEL- PRINCIPAL DISPLAY- Methotrexate for Injection 1 g Vial Label
+
+NDC 63323-122-50 102250
 
 Methotrexate for Injection, USP
 
@@ -6,13 +8,17 @@ Methotrexate for Injection, USP
 
 Preservative free.
 
-Cytotoxic agent.
+Hazardous Drug
 
-Rx only
+For Intravenous, Intramuscular, Subcutaneous and Intrathecal Use Only
 
-Single Dose Vial
+One Single Dose Vial
 
-PACKAGE LABEL- PRINCIPAL DISPLAY- Methotrexate for Injection 1 g Vial Carton Panel
+Rx Only
+
+# PACKAGE LABEL- PRINCIPAL DISPLAY- Methotrexate for Injection 1 g Vial Carton Panel
+
+NDC 63323-122-50 102250
 
 Methotrexate for Injection, USP
 
@@ -20,10 +26,10 @@ Methotrexate for Injection, USP
 
 Preservative free.
 
-Cytotoxic agent.
+Hazardous Drug
 
-See package insert for routes of administration.
+For Intravenous, Intramuscular, Subcutaneous and Intrathecal Use Only
 
 Rx only
 
-Single Dose Vial
+One Single Dose Vial

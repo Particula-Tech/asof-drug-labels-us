@@ -1,19 +1,10 @@
-# DESCRIPTION:
+# 11 DESCRIPTION
 
-Methotrexate (formerly Amethopterin) is an antimetabolite used in the treatment of certain neoplastic diseases, severe psoriasis, and adult rheumatoid arthritis.
+Methotrexate is a folate analog metabolic inhibitor with the chemical name of N-[4-[[(2,4-diamino-6-pteridinyl) methyl]methylamino]benzoyl]-L-glutamic acid and a molecular weight of 454.44.
+The molecular formula is C20H22N8O5, and the structural formula is shown below:
 
-Chemically, methotrexate is N-[4-[[(2,4-diamino-6-pteridinyl)-methyl]methylamino]benzoyl]-L-glutamic acid.
+Preservative-free Methotrexate for Injection, lyophilized, is supplied in sterile single dose only vials for intravenous, intramuscular, subcutaneous or intrathecal use.
 
-The structural formula is:
-
-C 20H 22N 8O 5 M.W.
-454.45
-
-Methotrexate for Injection, USP, is sterile and non-pyrogenic and may be given by the intramuscular, intravenous, intra-arterial or intrathecal route (see DOSAGE AND ADMINISTRATION).
-
-Methotrexate for Injection, USP, Lyophilized, Preservative Free, for single use only, is available in 1 gram vials.
-
-Each vial of lyophilized powder contains methotrexate sodium equivalent to 1 g methotrexate.
-Contains no preservative.
-Sodium hydroxide and/or hydrochloric acid may be added to adjust the pH during manufacture to 8.5 to 8.7.
-The 1 g vial contains approximately 7 mEq sodium.
+- •Each vial of lyophilized powder contains 1,000 mg methotrexate equivalent to 1096.7 mg of methotrexate sodium.
+  May contain sodium hydroxide and/or hydrochloric acid to adjust the pH to 8.5 to 8.7.
+  The 1 g vial contains approximately 7 mEq sodium.
