@@ -38,7 +38,7 @@ Fatal adverse reactions occurred in 1.8% of patients receiving TECENTRIQ; these 
 Serious adverse reactions occurred in 18% of patients receiving TECENTRIQ.
 The most frequent serious adverse reactions (>1%) were pneumonia (1.8%), pneumonitis (1.6%), and pyrexia (1.2%).
 
-TECENTRIQ was discontinued due to adverse reactions in 18% of patients; the most common adverse reactions (≥1%) leading to TECENTRIQ discontinuation were pneumonitis (2.2%), hypothyroidism (1.6%), increased aspartate aminotranferase (1.4%), arthralgia (1.0%), and increased alanine aminotransferase (1.0%).
+TECENTRIQ was discontinued due to adverse reactions in 18% of patients; the most common adverse reactions (≥1%) leading to TECENTRIQ discontinuation were pneumonitis (2.2%), hypothyroidism (1.6%), increased aspartate aminotransferase (1.4%), arthralgia (1.0%), and increased alanine aminotransferase (1.0%).
 
 Adverse reactions leading to interruption of TECENTRIQ occurred in 29% of patients; the most common (>1%) were rash (3.0%), hyperthyroidism (2.8%), hypothyroidism (1.6%), increased AST (1.6%), pyrexia (1.6%), increased ALT (1.4%), upper respiratory tract infection (1.4%), headache (1.2%), peripheral neuropathy (1.2%), and pneumonia (1.2%).
 
@@ -69,7 +69,7 @@ Table 5: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
-| Laboratory AbnormalityGraded per NCI CTCAE v4.0, except for increased creatinine which only includes patients with creatinine increase based on upper limit of normal definition for Grade 1 events (NCI CTCAE v5.0). | TECENTRIQThe denominators used to calculate the rate varied from 78-480 for BSC arm and 483 for atezolizumab are for all tests of interest based on the number of patients with a baseline value and at least one post-treatment value. |  | Best Supportive Care |  |
+| Laboratory AbnormalityGraded per NCI CTCAE v4.0, except for increased creatinine which only includes patients with creatinine increase based on upper limit of normal definition for Grade 1 events (NCI CTCAE v5.0). | TECENTRIQThe denominators used to calculate the rate varied from 78-480 for BSC arm and 483 for TECENTRIQ are for all tests of interest based on the number of patients with a baseline value and at least one post-treatment value. |  | Best Supportive Care |  |
 | Chemistry |  |  |  |  |
 | Increased aspartate aminotransferase | 34 | 2.5 | 18 | 0 |
 | Increased alanine aminotransferase | 30 | 3.3 | 19 | 0.4 |
@@ -632,7 +632,7 @@ Table 20: Adverse Reactions Occurring in ≥15% of Patients with ASPS Receiving 
 | Anxiety | 25 | 0 |
 | Cardiac Disorders |  |  |
 | ArrhythmiaIncludes atrial fibrillation, sinus bradycardia, ventricular tachycardia, and sinus tachycardia | 22 | 2 |
-| Endocrine disoders |  |  |
+| Endocrine disorders |  |  |
 | HypothyroidismIncludes hypothyroidism and blood thyroid stimulating hormone increased | 25 | 0 |
 | Investigations |  |  |
 | Weight decreased | 18 | 0 |

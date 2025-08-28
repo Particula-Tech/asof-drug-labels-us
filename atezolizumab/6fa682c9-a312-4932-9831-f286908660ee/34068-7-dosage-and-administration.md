@@ -13,23 +13,25 @@ Information on FDA-approved tests for the detection of BRAF V600 mutations in me
 
 ## 2.2 Recommended Dosage
 
-The recommended dosages of TECENTRIQ administered intravenously as a single agent are presented in Table 1.
+The recommended dosages of TECENTRIQ are presented in Table 1.
+Administer TECENTRIQ as an intravenous infusion over 60 minutes.
+If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes.
 
 Table 1: Recommended Dosage of TECENTRIQ as a Single Agent
 
-| Metastatic NSCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Until disease progression or unacceptable toxicity |
+| Indication | Recommended Dosage of TECENTRIQ | Duration of Therapy |
 | --- | --- | --- |
+| Metastatic NSCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Until disease progression or unacceptable toxicity |
 | Adjuvant Treatment of NSCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Up to one year, unless there is disease recurrence or unacceptable toxicity |
 | ASPS (adult) | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks | Until disease progression or unacceptable toxicity |
 | ASPS (pediatric, 2 years of age and older) | 15 mg/kg (up to a maximum 1200 mg) every 3 weeks |  |
-| * 60-minute intravenous infusion. If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes. |  |  |
 
 The recommended intravenous dosages of TECENTRIQ in combination with other therapeutic agents are presented in Table 2.
 Refer to the respective Prescribing Information for each therapeutic agent administered in combination with TECENTRIQ for the recommended dosage information, as appropriate.
 
 Table 2: Recommended Dosage of TECENTRIQ in Combination with Other Therapeutic Agents
 
-| Indication | Recommended Dosage of TECENTRIQ60-minute intravenous infusion. If the first infusion is tolerated, all subsequent infusions may be delivered over 30 minutes. | Duration of Therapy |
+| Indication | Recommended Dosage of TECENTRIQ | Duration of Therapy |
 | --- | --- | --- |
 | NSCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to chemotherapy and bevacizumab when given on the same day. | Until disease progression or unacceptable toxicity |
 | SCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to chemotherapy when given on the same day. |  |

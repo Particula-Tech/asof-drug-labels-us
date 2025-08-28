@@ -285,7 +285,7 @@ In an exploratory efficacy subgroup analysis of OS based on PD-L1 expression, th
 
 Exploratory analyses showed that the subset of patients who were ADA positive by week 4 (21%) appeared to have less efficacy (effect on overall survival) as compared to patients who tested negative for treatment-emergent ADA by week 4 (79%) [see Clinical Pharmacology (12.6)].
 ADA positive patients by week 4 appeared to have similar OS compared to docetaxel-treated patients.
-In an exploratory analysis, propensity score matching was conducted to compare ADA positive patients in the atezolizumab arm with a matched population in the docetaxel arm and ADA negative patients in the atezolizumab arm with a matched population in the docetaxel arm.
+In an exploratory analysis, propensity score matching was conducted to compare ADA positive patients in the TECENTRIQ arm with a matched population in the docetaxel arm and ADA negative patients in the TECENTRIQ arm with a matched population in the docetaxel arm.
 Propensity score matching factors were: baseline sum of longest tumor size (BSLD), baseline ECOG, histology (squamous vs. non-squamous), baseline albumin, baseline LDH, gender, tobacco history, metastases status (advanced or local), metastatic site, TC level, and IC level.
 The hazard ratio comparing the ADA positive subgroup with its matched control was 0.89 (95% CI: 0.61, 1.3).
 The hazard ratio comparing the ADA negative subgroup with its matched control was 0.68 (95% CI: 0.55, 0.83).

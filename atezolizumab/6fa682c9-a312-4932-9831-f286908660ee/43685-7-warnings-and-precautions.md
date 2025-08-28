@@ -280,7 +280,7 @@ Other (Hematologic/Immune): Hemolytic anemia, aplastic anemia, hemophagocytic ly
 
 ## 5.2 Infusion-Related Reactions
 
-TECENTRIQ can cause severe or life-threatening infusion-related reactions.
+TECENTRIQ can cause severe or life-threatening infusion-related reactions, including anaphylaxis.
 Monitor for signs and symptoms of infusion-related reactions.
 Interrupt, slow the rate of, or permanently discontinue TECENTRIQ based on the severity [see Dosage and Administration (2.3)].
 For Grade 1 or 2 infusion-related reactions, consider using pre-medications with subsequent doses.
