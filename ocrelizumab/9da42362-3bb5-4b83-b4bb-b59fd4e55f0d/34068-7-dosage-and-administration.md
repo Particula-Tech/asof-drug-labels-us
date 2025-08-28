@@ -15,6 +15,10 @@ Vaccinations
 
 Because vaccination with live-attenuated or live vaccines is not recommended during treatment and after discontinuation until B-cell repletion, administer all immunizations according to immunization guidelines at least 4 weeks prior to initiation of OCREVUS for live or live-attenuated vaccines and, whenever possible, at least 2 weeks prior to initiation of OCREVUS for non-live vaccines [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
 
+Liver Function Tests
+
+Prior to initiating OCREVUS, obtain serum aminotransferases (alanine aminotransferase [ALT] and aspartate aminotransferase [AST]), alkaline phosphatase, and bilirubin levels [see Warnings and Precautions (5.7)].
+
 ## 2.2 Preparation Before Every Infusion
 
 Infection Assessment

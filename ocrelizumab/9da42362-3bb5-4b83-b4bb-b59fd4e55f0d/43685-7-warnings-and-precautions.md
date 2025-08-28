@@ -122,3 +122,14 @@ Some cases of colitis were serious, requiring hospitalization, with a few patien
 Systemic corticosteroids were required in many of these patients.
 The time from treatment initiation to onset of symptoms in these cases ranged from a few weeks to years.
 Monitor patients for immune-mediated colitis during OCREVUS treatment, and evaluate promptly if signs and symptoms that may indicate immune-mediated colitis, such as new or persistent diarrhea or other gastrointestinal signs and symptoms, occur.
+
+## 5.7 Liver Injury
+
+Clinically significant liver injury, without findings of viral hepatitis, has been reported in the postmarketing setting in patients treated with anti-CD20 B-cell depleting therapies approved for the treatment of MS, including OCREVUS.
+Signs of liver injury, including markedly elevated serum hepatic enzymes with elevated total bilirubin, have occurred from weeks to months after administration.
+
+Patients treated with OCREVUS found to have an alanine aminotransferase (ALT) or aspartate aminotransferase (AST) greater than 3× the upper limit of normal (ULN) with serum total bilirubin greater than 2× ULN are potentially at risk for severe drug-induced liver injury.
+
+Obtain liver function tests prior to initiating treatment with OCREVUS [see Dosage and Administration (2.1)], and monitor for signs and symptoms of any hepatic injury during treatment.
+Measure serum aminotransferases, alkaline phosphatase, and bilirubin levels promptly in patients who report symptoms that may indicate liver injury, including new or worsening fatigue, anorexia, nausea, vomiting, right upper abdominal discomfort, dark urine, or jaundice.
+If liver injury is present and an alternative etiology is not identified, discontinue OCREVUS.

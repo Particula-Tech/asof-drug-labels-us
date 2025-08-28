@@ -38,6 +38,12 @@ Immune-Mediated Colitis
 
 Advise patients to promptly contact their healthcare provider if they experience any signs and symptoms of colitis, including diarrhea, abdominal pain, and blood in stool [see Warnings and Precautions (5.6)].
 
+Liver Injury
+
+Inform patients that liver injury has been reported with anti-CD20 B-cell depleting therapies, including OCREVUS.
+Instruct patients treated with OCREVUS to promptly report any symptoms that may indicate liver injury, including fatigue, anorexia, nausea, vomiting, right upper abdominal discomfort, dark urine, or jaundice.
+A blood test should be obtained before patients start therapy, and during treatment as clinically indicated [see Warnings and Precautions (5.7)].
+
 Contraception
 
 Females of childbearing potential should use effective contraception while receiving OCREVUS and for 6 months after the last infusion of OCREVUS [see Clinical Pharmacology (12.3)].
