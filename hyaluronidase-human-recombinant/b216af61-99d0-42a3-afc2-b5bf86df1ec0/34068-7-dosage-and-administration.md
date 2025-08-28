@@ -25,6 +25,10 @@ Vaccinations
 
 Because vaccination with live-attenuated or live vaccines is not recommended during treatment and after discontinuation until B-cell repletion, administer all immunizations according to immunization guidelines at least 4 weeks prior to initiation of ocrelizumab treatment for live or live-attenuated vaccines and, whenever possible, at least 2 weeks prior to initiation of ocrelizumab treatment for non-live vaccines [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
 
+Liver Function Tests
+
+Prior to initiating OCREVUS ZUNOVO, obtain serum aminotransferases (alanine aminotransferase [ALT] and aspartate aminotransferase [AST]), alkaline phosphatase, and bilirubin levels [see Warnings and Precautions (5.7)].
+
 ## 2.3 Assessments and Premedication Prior to Every Dose
 
 Infection Assessment
