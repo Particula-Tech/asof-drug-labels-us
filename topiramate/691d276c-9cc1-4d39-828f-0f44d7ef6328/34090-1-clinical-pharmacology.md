@@ -1,9 +1,9 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+12.1 Mechanism of Action
 
-The precise mechanisms by which topiramate exerts its anticonvulsant and preventive migraine effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and the preventive treatment of migraine.
-Electrophysiological and biochemical evidence suggests that topiramate, at pharmacologically relevant concentrations, blocks voltage-dependent sodium channels, augments the activity of the neurotransmitter gamma-aminobutyrate at some subtypes of the GABA-A receptor, antagonizes the AMPA/kainate subtype of the glutamate receptor, and inhibits the carbonic anhydrase enzyme, particularly isozymes II and IV.
+The precise mechanisms by which topiramate exerts its anticonvulsant and preventive migraine effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate’s efficacy for epilepsy and the preventive treatment of migraine.
+Electrophysiological and biochemical evidence suggests that topiramate, at pharmacologically relevant concentrations, blocks voltage-dependent sodium channels, augments the activity of the neurotransmitter gamma-aminobutyrate at some subtypes of the GABA‑A receptor, antagonizes the AMPA/kainate subtype of the glutamate receptor, and inhibits the carbonic anhydrase enzyme, particularly isozymes II and IV.
 
 ## 12.2 Pharmacodynamics
 
@@ -26,13 +26,13 @@ At 25 mg, the pharmacokinetics of topiramate extended-release are nonlinear, pos
 
 Topiramate extended-release capsules sprinkled on a spoonful of soft food is bioequivalent to the intact capsule formulation.
 
-Following a single 200 mg oral dose of topiramate extended-release, peak plasma concentrations (T max) occurred approximately 20 hours after dosing.
-Steady-state was reached in about 5 days following daily dosing of topiramate extended-release in subjects with normal renal function, with a T maxof approximately 6 hours.
+Following a single 200 mg oral dose of topiramate extended-release, peak plasma concentrations (Tmax) occurred approximately 20 hours after dosing.
+Steady-state was reached in about 5 days following daily dosing of topiramate extended-release in subjects with normal renal function, with a Tmax of approximately 6 hours.
 
-At steady-state, the plasma exposure (AUC 0–24hr, C max, and C min) of topiramate from topiramate extended-release administered once daily and the immediate-release topiramate tablets administered twice-daily were shown to be bioequivalent.
+At steady-state, the plasma exposure (AUC0–24hr, Cmax, and Cmin) of topiramate from topiramate extended-release administered once daily and the immediate-release topiramate tablets administered twice‑daily were shown to be bioequivalent.
 Fluctuation of topiramate plasma concentrations at steady-state for topiramate extended-release administered once daily was approximately 40% in healthy subjects, compared to approximately 53% for immediate-release topiramate [see Clinical Pharmacology (12.6)].
 
-Compared to the fasted state, high-fat meal had no effect on bioavailability (AUC and C max) but delayed the T maxby approximately 4 hours following a single dose of topiramate extended-release.
+Compared to the fasted state, high-fat meal had no effect on bioavailability (AUC and Cmax) but delayed the Tmax by approximately 4 hours following a single dose of topiramate extended-release.
 Topiramate extended-release capsules can be taken without regard to meals.
 
 Topiramate is 15% to 41% bound to human plasma proteins over the blood concentration range of 0.5 mcg/mL to 250 mcg/mL.
@@ -95,6 +95,13 @@ Consequently, the plasma drug concentration for the same mg/kg/day dose would be
 Clearance was independent of dose.
 
 As in adults, hepatic enzyme-inducing antiepileptic drugs decrease the steady state plasma concentrations of topiramate.
+
+Pediatric Patients with Obesity
+
+A population PK analysis of topiramate was conducted in 129 children <21 years of age with or without obesity to evaluate the potential impact of obesity on plasma topiramate exposures.
+Obesity was defined as BMI ≥ 95th percentile for age and sex based on CDC-recommended BMI-for-age growth charts for males and females.
+Using the currently recommended dosing regimens, children with obesity are likely to have median values of average concentration at steady-state, and trough concentration at steady-state up to 20% lower and 19% lower, respectively, compared to children without obesity.
+Dosage adjustment according to obesity status is not necessary.
 
 Drug Interactions
 
