@@ -6,8 +6,10 @@ Because the use of Morphine Sulfate Extended-Release Capsules exposes patients a
 
 Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal respiratory depression may occur with use of Morphine Sulfate Extended-Release Capsules, especially during initiation or following a dose increase.
-To reduce the risk of respiratory depression, proper dosing and titration of Morphine Sulfate Extended-Release Capsules is essential [see Warnings and Precautions (5.2)].
+Serious, life-threatening, or fatal respiratory depression may occur with use of Morphine Sulfate Extended-Release Capsules, especially during initiation or following a dosage increase.
+To reduce the risk of respiratory depression, proper dosing and titration of Morphine Sulfate Extended-Release Capsules is essential.
+Instruct patients to swallow Morphine Sulfate Extended-Release Capsules whole or to sprinkle the contents of the capsule on applesauce and swallow immediately without chewing.
+Crushing, chewing, or dissolving the pellets in Morphine Sulfate Extended-Release Capsules can cause rapid release and absorption of a potentially fatal dose of morphine [see Warnings and Precautions (5.2)].
 
 Accidental Ingestion
 
@@ -21,11 +23,11 @@ The co-ingestion of alcohol with Morphine Sulfate Extended-Release Capsules may 
 Risks from Concomitant Use with Benzodiazepines Or Other CNS Depressants
 
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
-Reserve concomitant prescribing of Morphine Sulfate Extended-Release Capsules and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see Warnings and Precautions (5.3), Drug Interactions (7)].
+Reserve concomitant prescribing of Morphine Sulfate Extended-Release Capsules and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see Warnings and Precautions (5.3) and Drug Interactions (7)].
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
+Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
 Ensure that management by neonatology experts will be available at delivery [see Warnings and Precautions (5.4)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)

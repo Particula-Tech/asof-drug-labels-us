@@ -30,7 +30,8 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Morphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -53,7 +54,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration-Efficacy Relationships
 
-The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with extended-release agonist opioids.
+The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
 The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 
 Concentration-Adverse Reaction Relationships
@@ -69,17 +70,17 @@ Morphine Sulfate Extended-Release Capsules contain polymer coated extended-relea
 Following the administration of oral morphine solution, approximately 50% of the morphine absorbed reaches the systemic circulation within 30 minutes compared to 8 hours with an equal amount of Morphine Sulfate Extended-Release Capsules.
 Because of pre-systemic elimination, only about 20 to 40% of the administered dose reaches the systemic circulation.
 
-Both dose-normalized C max and dose-normalized AUC 0-48hr values of morphine after a single dose administration of Morphine Sulfate Extended-Release Capsules in healthy volunteers are less than those for morphine oral solution or an extended-release tablet formulation (Table 2).
+Both dose-normalized Cmax and dose-normalized AUC0-48hr values of morphine after a single dose administration of Morphine Sulfate Extended-Release Capsules in healthy volunteers are less than those for morphine oral solution or an extended-release tablet formulation (Table 2).
 
 When Morphine Sulfate Extended-Release Capsules were given twice daily to 24 patients with chronic pain due to malignancy, steady-state was achieved in about two days.
-At steady-state, Morphine Sulfate Extended-Release Capsules have a significantly lower C max and a higher C min than equivalent doses of oral morphine solution given every 4 hours and an extended-release tablet given twice daily.
-When given once daily to 24 patients with malignancy, Morphine Sulfate Extended-Release Capsules had a similar C max and higher C min at steady-state when compared to an extended-release morphine tablets, given twice daily at an equivalent total daily dosage (see Table 2).
+At steady-state, Morphine Sulfate Extended-Release Capsules have a significantly lower Cmax and a higher Cmin than equivalent doses of oral morphine solution given every 4 hours and an extended-release tablet given twice daily.
+When given once daily to 24 patients with malignancy, Morphine Sulfate Extended-Release Capsules had a similar Cmax and higher Cmin at steady-state when compared to an extended-release morphine tablets, given twice daily at an equivalent total daily dosage (see Table 2).
 
 The single-dose pharmacokinetics of Morphine Sulfate Extended-Release Capsules are linear over the dosage range of 30 to 100 mg.
 
 Table 2: Mean Pharmacokinetic Parameters (% Coefficient Variation) Resulting from a Fasting Single-Dose Study in Normal Volunteers and a Multiple-Dose Study in Patients with Cancer Pain
 
-| Regimen/Dosage Form | AUC For single dose AUC = AUC0-48h, for multiple dose AUC = AUC0-24h at steady-state,For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours (ng∙h/mL) | C max(ng/mL) | T max(h) | C min(ng/mL) | Fluctuation Steady-state fluctuation in plasma concentrations = Cmax-Cmin/Cmin |
+| Regimen/Dosage Form | AUCFor single dose AUC = AUC0-48h, for multiple dose AUC = AUC0-24h at steady-state,For single dose parameter normalized to 100 mg, for multiple dose parameter normalized to 100 mg per 24 hours (ng∙h/mL) | Cmax (ng/mL) | Tmax (h) | Cmin (ng/mL) | FluctuationSteady-state fluctuation in plasma concentrations = Cmax-Cmin/Cmin |
 | --- | --- | --- | --- | --- | --- |
 | Single Dose (n=24) |  |  |  |  |  |
 | Morphine Sulfate Extended-Release Capsules | 271.0 (19.4) | 15.6 (24.4) | 8.6 (41.1) | N/A | N/A |

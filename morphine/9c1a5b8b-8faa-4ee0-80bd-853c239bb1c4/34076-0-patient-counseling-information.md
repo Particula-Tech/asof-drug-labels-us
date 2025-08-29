@@ -4,8 +4,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Morphine Sulfate Extended-Release Capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1, 5.2, 5.5), Drug Abuse and Dependence (9.2)].
-Inform patients that leaving Morphine Sulfate Extended-Release Capsules unsecured can pose a deadly risk to others in the home.
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store Morphine Sulfate Extended-Release Capsules securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
+Inform patients that leaving Morphine Sulfate Extended-Release Capsules unsecured can pose a deadly risk to others in the home [see Warnings and Precautions (5.1, 5.2, 5.5) and Drug Abuse and Dependence (9.2)].
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused Morphine Sulfate Extended-Release Capsules should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
@@ -29,27 +29,29 @@ Inform patients that accidental ingestion, especially by children, may result in
 Interactions with Alcohol
 
 Instruct patients not to consume alcoholic beverages, or prescription and non-prescription products that contain alcohol, during treatment with Morphine Sulfate Extended-Release Capsules.
-The co-ingestion of alcohol with Morphine Sulfate Extended-Release Capsules may result in increased plasma levels and a potentially fatal overdose of morphine [see Warnings and Precautions (5.3), see Drug Interactions (7)].
+The co-ingestion of alcohol with Morphine Sulfate Extended-Release Capsules may result in increased plasma levels and a potentially fatal overdose of morphine [see Warnings and Precautions (5.3) and Drug Interactions (7)].
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
 Instruct patients not to consume alcoholic beverages, as well as prescription and over-the counter products that contain alcohol, during treatment with Morphine Sulfate Extended-Release Capsules.
 The co-ingestion of alcohol with Morphine Sulfate Extended-Release Capsules may result in increased plasma levels and a potentially fatal overdose of (active opioid) [see Warnings and Precautions (5.3)].
 
-Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Morphine Sulfate Extended-Release Capsules.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+
+Discuss with the patient the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Dosage and Administration (2.2) and Warnings and Precautions (5.2)].
 
 Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
 
-Explain to patients and caregivers that naloxone's effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+Explain to patients and caregivers that effects of opioid overdose reversal agents like naloxone and nalmefene are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if an opioid overdose reversal agent is administered [see Overdosage (10)].
 
-If naloxone is prescribed, also advise patients and caregivers:
+Advise patients and caregivers:
 
-- How to treat with naloxone in the event of an opioid overdose
-- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
-- To read the Patient Information (or other educational material) that will come with their naloxone.
+- how to treat with the overdose reversal agent in the event of an opioid overdose
+- to tell family and friends about the opioid overdose reversal agent, and to keep it in a place where family and friends can access it in an emergency
+- to read the Patient Information (or other educational material) that will come with their opioid overdose reversal agent.
   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Hyperalgesia and Allodynia
@@ -66,7 +68,7 @@ Instruct patients to inform their physicians if they are taking, or plan to take
 MAOI Interaction
 
 Inform patients not to take Morphine Sulfate Extended-Release Capsules while using any drugs that inhibit monoamine oxidase.
-Patients should not start MAOIs while taking Morphine Sulfate Extended-Release Capsules [see Warnings and Precautions (5.8), Drug Interactions (7)].
+Patients should not start MAOIs while taking Morphine Sulfate Extended-Release Capsules [see Warnings and Precautions (5.8) and Drug Interactions (7)].
 
 Important Administration Instructions
 
@@ -87,7 +89,7 @@ Advise patients not to perform such tasks until they know how they will react to
 
 Constipation
 
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
+Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6) and Clinical Pharmacology (12.2)].
 
 Adrenal Insufficiency
 
@@ -103,13 +105,13 @@ Instruct patients how to recognize symptoms of low blood pressure and how to red
 Anaphylaxis
 
 Inform patients that anaphylaxis has been reported with Morphine Sulfate Extended-Release Capsules.
-Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4), Adverse Reactions (6)].
+Advise patients how to recognize such a reaction and when to seek medical attention [see Contraindications (4) and Adverse Reactions (6)].
 
 Pregnancy
 
 Neonatal Opioid Withdrawal Syndrome
 
-Inform female patients of reproductive potential that use of Morphine Sulfate Extended-Release Capsules for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that use of Morphine Sulfate Extended-Release Capsules for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life threatening if not recognized and treated [see Warnings and Precautions (5.4) and Use in Specific Populations (8.1)].
 
 Embryo-Fetal Toxicity
 
@@ -122,4 +124,4 @@ Advise patients that breastfeeding is not recommended during treatment with Morp
 Infertility
 
 Inform patients that use of opioids for an extended period of time may cause reduced fertility.
-It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), see Use in Specific Populations (8.3)].
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2) and Use in Specific Populations (8.3)].

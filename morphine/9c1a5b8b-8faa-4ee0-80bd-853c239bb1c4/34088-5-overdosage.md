@@ -3,7 +3,8 @@
 Clinical Presentation
 
 Acute overdosage with Morphine Sulfate Extended-Release Capsules can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, hypoglycemia, partial or complete airway obstruction, atypical snoring, and death.
-Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations.
+Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [see Clinical Pharmacology (12.2].
+Toxic leukoencephalopathy has been reported after opioid overdose and can present hours, days, or weeks after apparent recovery from the initial intoxication.
 
 Treatment of Overdose
 
@@ -11,8 +12,7 @@ In cases of overdose, priorities are the re-establishment of a patent and protec
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life-support measures.
 
-Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
-For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid antagonist.
+For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid overdose reversal agent, such as naloxone or nalmefene.
 
 Because the duration of reversal would be expected to be less than the duration of action of morphine in Morphine Sulfate Extended-Release Capsules, carefully monitor the patient until spontaneous respiration is reliably reestablished.
 Morphine Sulfate Extended-Release Capsules will continue to release morphine add to the morphine load for 24 to 48 hours or longer following ingestion, necessitating prolonged monitoring.

@@ -1,6 +1,4 @@
-# Instructions for Use
-
-Morphine Sulfate (mor' feen sul' fate) Extended-Release Capsules, CII
+# Instructions for Use Morphine Sulfate (mor' feen sul' fate) Extended-Release Capsules, CII
 
 If you cannot swallow Morphine Sulfate Extended-Release Capsules, tell your healthcare provider.
 There may be another way to take Morphine Sulfate Extended-Release Capsules that may be right for you.

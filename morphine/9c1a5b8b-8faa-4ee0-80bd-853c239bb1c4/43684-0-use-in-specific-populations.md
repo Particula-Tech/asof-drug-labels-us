@@ -27,7 +27,7 @@ Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage 
 Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Morphine Sulfate Extended-Release Capsules are not recommended for use in pregnant women during or immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including Morphine Sulfate Extended-Release Capsules, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -92,7 +92,7 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 Infertility
 
 Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2)].
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2) and Clinical Pharmacology (12.2)].
 
 In published animal studies, morphine administration adversely effected fertility and reproductive endpoints in male rats and prolonged estrus cycle in female rats [see Nonclinical Toxicology (13)].
 
@@ -111,14 +111,14 @@ Respiratory depression is the chief risk for elderly patients treated with opioi
 Titrate the dosage of Morphine Sulfate Extended-Release Capsules slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.7)].
 
 Morphine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 
 Morphine pharmacokinetics have been reported to be significantly altered in patients with cirrhosis.
-Start these patients with a lower than usual dosage of Morphine Sulfate Extended-Release Capsules and titrate slowly while monitoring for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
+Start these patients with a lower than usual dosage of Morphine Sulfate Extended-Release Capsules and titrate slowly while regularly evaluating for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
 
 ## 8.7 Renal Impairment
 
 Morphine pharmacokinetics are altered in patients with renal failure.
-Start these patients with a lower than usual dosage of Morphine Sulfate Extended-Release Capsules and titrate slowly while monitoring for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
+Start these patients with a lower than usual dosage of Morphine Sulfate Extended-Release Capsules and titrate slowly while regularly evaluating for signs of respiratory depression, sedation, and hypotension [see Clinical Pharmacology (12.3)].
