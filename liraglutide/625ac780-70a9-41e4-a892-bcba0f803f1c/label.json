@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA214568"
+  ],
+  "inn": "liraglutide",
+  "labeler": "Teva Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "0480-7250-46"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "liraglutide",
+      "name": "Liraglutide"
+    }
+  ],
+  "setid": "625ac780-70a9-41e4-a892-bcba0f803f1c",
+  "source": "dailymed"
+}
