@@ -9,7 +9,7 @@ Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck,
 
 Acute Pancreatitis
 
-Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting.
+Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that sometimes radiates to the back, and which may or may not be accompanied by nausea or vomiting.
 Instruct patients to discontinue WEGOVY promptly and contact their physician if pancreatitis is suspected [see Warnings and Precautions (5.2)].
 
 Acute Gallbladder Disease
@@ -23,10 +23,11 @@ Hypoglycemia
 Inform patients of the risk of hypoglycemia and educate patients on the signs and symptoms of hypoglycemia.
 Advise patients with diabetes mellitus on glycemic lowering therapy that they may have an increased risk of hypoglycemia when using WEGOVY and to report signs and/or symptoms of hypoglycemia to their healthcare provider [see Warnings and Precautions (5.4)].
 
-Dehydration and Renal Impairment
+Acute Kidney Injury Due to Volume Depletion
 
-Advise patients treated with WEGOVY of the potential risk of dehydration due to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
-Inform patients of the potential risk for worsening renal function and explain the associated signs and symptoms of renal impairment, as well as the possibility of dialysis as a medical intervention if renal failure occurs [see Warnings and Precautions (5.5)].
+Inform patients of the potential risk of acute kidney injury due to dehydration associated with gastrointestinal adverse reactions.
+Advise patients to take precautions to avoid fluid depletion.
+Inform patients of the signs and symptoms of acute kidney injury and instruct them to promptly report any of these signs or symptoms or persistent (or extended) nausea, vomiting, and diarrhea to their healthcare provider [see Warnings and Precautions (5.5)].
 
 Severe Gastrointestinal Adverse Reactions
 
@@ -62,6 +63,12 @@ WEGOVY may cause fetal harm.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
 Advise patients who are exposed to WEGOVY during pregnancy to contact Novo Nordisk at 1-877-390-2760 or www.wegovypregnancyregistry.com [see Use in Specific Populations (8.1)].
 
+Missed Doses
+
+Inform patients if a dose is missed and the next scheduled dose is more than 2 days away (48 hours), administer WEGOVY as soon as possible.
+If one dose is missed and the next scheduled dose is less than 2 days away (48 hours), do not administer the dose.
+Inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.4)].
+
 Manufactured by:
 
 Novo Nordisk A/S
@@ -80,10 +87,8 @@ Plainsboro, NJ 08536
 
 1-833-934-6891
 
-Version: 6
-
 WEGOVY® is a registered trademark of Novo Nordisk A/S.
 
 PATENT INFORMATION: http://www.novonordisk-us.com/products/product-patents.html
 
-© 2024 Novo Nordisk
+© 2025 Novo Nordisk

@@ -13,7 +13,7 @@ It is supplied in cartons containing 4 pen-injectors in the following packaging 
 | 1.7 mg/0.75 mL | 0169-4517-14 |
 | 2.4 mg/0.75 mL | 0169-4524-14 |
 
-Recommended Storage
+Storage and Handling
 
 Store the WEGOVY single-dose pen in the refrigerator from 2°C to 8°C (36°F to 46°F).
 If needed, prior to cap removal, the pen can be kept from 8°C to 30°C (46°F to 86°F) up to 28 days.

@@ -8,7 +8,11 @@ Semaglutide acts as a GLP-1 receptor agonist that selectively binds to and activ
 GLP-1 is a physiological regulator of appetite and caloric intake, and the GLP-1 receptor is present in several areas of the brain involved in appetite regulation.
 Animal studies show that semaglutide distributed to and activated neurons in brain regions involved in regulation of food intake.
 
-The exact mechanism of cardiovascular risk reduction has not been established.
+The exact mechanism of CV risk reduction has not been established.
+
+For treatment of MASH in humans, the precise mechanism of action of semaglutide is not fully understood and may involve multiple pathways mediated by weight loss and other factors.
+In a mouse model of diet-induced MASH, treatment with semaglutide resulted in histological improvements in steatosis, inflammation, and fibrosis in liver compared to baseline, which was associated with body weight loss, intermittent periods of reduced food intake, and improvements in relevant biomarkers.
+The relationship between the pathophysiology of MASH in animal models and humans has not been fully established.
 
 ## 12.2 Pharmacodynamics
 
@@ -27,6 +31,11 @@ Cardiac Electrophysiology (QTc)
 
 The effect of semaglutide on cardiac repolarization was tested in a thorough QTc trial.
 Semaglutide did not prolong QTc intervals at doses up to 1.5 mg at steady state.
+
+Noninvasive Liver Disease Markers
+
+Semaglutide decreases liver fat content measured by Magnetic Resonance Imaging Proton Density Fat Fraction (MRI-PDFF), liver stiffness assessed by transient elastography (TE), Enhanced Liver Fibrosis (ELF) score, and the levels of the pro-peptide of type III collagen biomarker (Pro-C3).
+The clinical relevance of these changes is yet to be confirmed.
 
 ## 12.3 Pharmacokinetics
 
@@ -61,12 +70,15 @@ Approximately 3% of the dose is excreted in the urine as intact semaglutide.
 Specific Populations
 
 The effects of intrinsic factors on the pharmacokinetics of semaglutide are shown in Figure 2.
+Fibrosis stage (F2 or F3) did not impact semaglutide exposure in patients with MASH.
 
 1. Figure 2.
    Impact of intrinsic factors on semaglutide exposure
 
 Data are steady-state dose-normalized average semaglutide exposures relative to a reference subject profile (non-Hispanic or Latino ethnicity, white female aged 18 to less than 65 years, with a body weight of 110 kg and normal renal function, who injected in the abdomen).
 Body weight categories (74 and 143 kg) represent the 5% and 95% percentiles in the dataset.
+
+There is no difference observed in the exposure of semaglutide following subcutaneous administration of WEGOVY between patients with MASH and patients with overweight or obesity.
 
 Patients with Renal Impairment
 
@@ -104,5 +116,6 @@ Differences in assay methods preclude meaningful comparisons of the incidence of
 
 During the 68-week treatment periods in Studies 2 and 3 [see Clinical Studies (14.2)], 50/1709 (3%) of WEGOVY-treated patients developed anti-semaglutide antibodies.
 Of these 50 WEGOVY-treated patients, 28 patients (2% of the total WEGOVY-treated study population) developed antibodies that cross-reacted with native GLP-1.
+In the patients with MASH treated with WEGOVY for 72 weeks in Study 8 [see Clinical Studies (14.4)], 3/763 (0.4%) of patients developed anti-semaglutide antibodies which were also cross-reactive to native GLP-1.
 No identified clinically significant effect of anti-semaglutide antibodies on pharmacokinetics for WEGOVY was observed.
-There is insufficient evidence to characterize the effects of anti-semaglutide antibodies on pharmacodynamics or effectiveness of semaglutide.
+There is insufficient evidence to characterize the effects of anti-semaglutide antibodies on pharmacodynamics, safety, or effectiveness of semaglutide products.
