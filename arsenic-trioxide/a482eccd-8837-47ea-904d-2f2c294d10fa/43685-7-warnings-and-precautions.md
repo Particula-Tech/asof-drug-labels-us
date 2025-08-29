@@ -3,7 +3,7 @@
 ## 5.1 Differentiation Syndrome
 
 Differentiation syndrome, which may be life-threatening or fatal, has been observed in patients with acute promyelocytic leukemia (APL) treated with Arsenic Trioxide Injection.
-In clinical trials, 23% of patients treated with Arsenic Trioxide Injection for APL developed differentiation syndrome.
+In clinical trials, 16-23% of patients treated with Arsenic Trioxide Injection for APL developed differentiation syndrome.
 Signs and symptoms include unexplained fever, dyspnea, hypoxia, acute respiratory distress, pulmonary infiltrates, pleural or pericardial effusion, weight gain, peripheral edema, hypotension, renal insufficiency, hepatopathy and multi-organ dysfunction.
 Differentiation syndrome has been observed with and without concomitant leukocytosis, and it has occurred as early as day 1 of induction to as late as the second month induction therapy.
 

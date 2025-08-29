@@ -2,11 +2,11 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Differentiation Syndrome [see Warnings and Precautions (5.1)]
-- Cardiac Conduction Abnormalities [see Warnings and Precautions (5.2)]
-- Encephalopathy [see Warnings and Precautions (5.3)]
-- Hepatotoxicity [see Warnings and Precautions (5.4)]
-- Carcinogenesis [see Warnings and Precautions (5.5)]
+- •Differentiation Syndrome [see Warnings and Precautions (5.1)]
+- •Cardiac Conduction Abnormalities [see Warnings and Precautions (5.2)]
+- •Encephalopathy [see Warnings and Precautions (5.3)]
+- •Hepatotoxicity [see Warnings and Precautions (5.4)]
+- •Carcinogenesis [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -22,10 +22,10 @@ Serious adverse reactions observed in the 40 patients with refractory or relapse
 
 The most common adverse reactions (> 30%) were nausea, cough, fatigue, pyrexia, headache, abdominal pain, vomiting, tachycardia, diarrhea, dyspnea, hypokalemia, leukocytosis, hyperglycemia, hypomagnesemia, insomnia, dermatitis, edema, QTc prolongation, rigors, sore throat, arthralgia, paresthesia, and pruritus.
 
-Table 5 describes the adverse reactions in patients aged 5 to 73 years with APL who received Arsenic Trioxide Injection at the recommended dose.
+Table 4 describes the adverse reactions in patients aged 5 to 73 years with APL who received Arsenic Trioxide Injection at the recommended dose.
 Similar adverse reactions profiles were seen in the other patient populations who received Arsenic Trioxide Injection.
 
-Table 5: Adverse Reactions (≥ 5%) in Patients with Relapsed or Refractory APL Who Received Arsenic Trioxide Injection in Study PLRXAS01
+Table 4: Adverse Reactions (≥ 5%) in Patients with Relapsed or Refractory APL Who Received Arsenic Trioxide Injection in Study PLRXAS01
 
 | Body System Adverse reaction | Any Grade Adverse Reactions |  | Grade ≥3 Adverse Reactions |  |
 | --- | --- | --- | --- | --- |
@@ -179,7 +179,7 @@ Leukocytosis
 
 Arsenic Trioxide Injection can induce proliferation of leukemic promyelocytes resulting in a rapid increased in white blood cell count.
 Leukocytosis greater than 10 Gi/L developed during induction therapy in 50% of patients receiving Arsenic Trioxide Injection monotherapy for relapsed/refractory APL.
-A relationship did not exist between baseline WBC counts and development of hyperleukocytosis nor baseline WBC counts and peak WBC counts.
+In the relapsed/refractory setting, a relationship did not exist between baseline WBC counts and development of hyperleukocytosis nor baseline WBC counts and peak WBC counts.
 
 ## 6.2 Postmarketing Experience
 

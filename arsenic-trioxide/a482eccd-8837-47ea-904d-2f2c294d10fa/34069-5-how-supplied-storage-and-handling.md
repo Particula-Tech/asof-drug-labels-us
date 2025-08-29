@@ -6,7 +6,7 @@ Arsenic Trioxide Injection is supplied as a sterile, clear, colorless solution i
 
 | Product Code | Unit of Sale | Strength | Each |
 | --- | --- | --- | --- |
-| 637110 | NDC 63323-637-10 Unit of 10 | 10 mg per 10 mL (1 mg per mL) | NDC 63323-637-03 10 mL Single Dose Vial |
+| 637110 | NDC 63323-637-10 Unit of 10 | 10 mg per 10 mL (1 mg per mL) | NDC 63323-637-03 10 mL Single-Dose Vial |
 
 Storage and Handling
 
@@ -15,3 +15,5 @@ Do not freeze.
 
 Arsenic Trioxide Injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.1
+
+The container closure is not made with natural rubber latex.
