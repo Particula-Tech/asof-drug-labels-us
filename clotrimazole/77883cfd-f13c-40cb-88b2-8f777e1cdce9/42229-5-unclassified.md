@@ -3,8 +3,8 @@ Not for ophthalmic use.
 
 Rx only
 
-Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: Taro Pharmaceuticals U.S.A., Inc.,Hawthorne, NY 10532
+Mfd. by: Sun Pharma Canada Inc., Brampton, Ontario, Canada L6T 1C1 Dist. by: Sun Pharmaceutical Industries Inc., Cranbury, NJ 08512
 
-Revised: November, 2014
+Revised: August 2025
 
-PK-0739-6 359 1114-6
+5264349-0825-01 359
