@@ -140,7 +140,7 @@ Patients had to have absolute neutrophil count (ANC) greater than or equal to 1.
 Patients may have received adjuvant treatment for resected Stage II or III disease without recurrence within 12 months.
 Randomization was stratified by ECOG performance status (0, 1 vs 2), prior adjuvant chemotherapy (yes vs no), prior immunotherapy (yes vs no), and age (less than 65 vs greater than or equal to 65 years).
 Although no post study treatment was specified in the protocol, 65% to 72% of patients received additional post study chemotherapy after study treatment discontinuation on all arms.
-Fifty-eight percent of patients on the oxaliplatin with fluorouracil/leucovorin arm received an irinotecan-containing regimen and 23% of patients on the irinotecan with fluorouracil/leucovorin arm received an oxaliplatin- containing regimen.
+Fifty-eight percent of patients on the oxaliplatin with fluorouracil/leucovorin arm received an irinotecan-containing regimen and 23% of patients on the irinotecan with fluorouracil/leucovorin arm received an oxaliplatin-containing regimen.
 
 The main efficacy outcome measure was 3-year disease-free survival (DFS) and additional efficacy outcome measures were overall survival (OS).
 
@@ -221,7 +221,7 @@ Table 22: Dosing Regimens in Refractory and Relapsed Colorectal Cancer Trial
 
 | Treatment Arm | Dose | Regimen |
 | --- | --- | --- |
-| Oxaliplatin + FU/LV N=152) | Day 1: Oxaliplatin: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
+| Oxaliplatin + FU/LV (N=152) | Day 1: Oxaliplatin: 85 mg/m2 (2-hour infusion) + LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
 | FU/LV (N=151) | Day 1: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) Day 2: LV 200 mg/m2 (2-hour infusion), followed by FU: 400 mg/m2 (bolus), 600 mg/m2 (22-hour infusion) | every 2 weeks |
 | Oxaliplatin (N=156) | Day 1: Oxaliplatin 85 mg/m2 (2-hour infusion) | every 2 weeks |
 
@@ -237,7 +237,7 @@ Table 23: Baseline Characteristics in Refractory and Relapsed Colorectal Cancer 
 | Sex: Male (%) | 57.2 | 60.9 | 54.3 |
 | Female (%) | 42.8 | 39.1 | 45.7 |
 | Median age (years) | 59.0 | 61.0 | 60.0 |
-| Range | 22 to 88 | 27 to 79 | 21 to 80 |
+| Range | 22-88 | 27-79 | 21-80 |
 | Race (%) |  |  |  |
 | Caucasian | 88.8 | 84.6 | 87.4 |
 | Black | 5.9 | 7.1 | 7.9 |

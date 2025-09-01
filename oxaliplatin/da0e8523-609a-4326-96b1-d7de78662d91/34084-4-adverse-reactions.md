@@ -164,7 +164,7 @@ Table 8: Adverse Reactions Reported in Patients in the Previously Untreated Adva
 
 Table 9: Adverse Reactions Reported in Patients in the Previously Untreated Advanced Colorectal Cancer Clinical Trial (greater than or equal to 5% of all patients but with less than 1% grade 3 to 4)
 
-| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + 5-FU/LV N=259 | Irinotecan + 5-FU/LV N=256 | Oxaliplatin + Irinotecan N=258 |
+| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=259 | Irinotecan + FU/LV N=256 | Oxaliplatin + Irinotecan N=258 |
 | --- | --- | --- | --- |
 | All Grades (%) | All Grades(%) | All Grades(%) |  |
 | Dermatology/Skin |  |  |  |
@@ -272,7 +272,7 @@ Table 11: Adverse Reactions Reported in Patients in the Previously Treated Advan
 
 Table 12: Adverse Reactions Reported in Patients in the Previously Treated Advanced Colorectal Cancer Clinical Trial (greater than or equal to 5% of all patients but with less than 1% grade 3 to 4)
 
-| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=150 | Oxaliplatin N=153 | 5-FU/LV N=142 |
+| Adverse ReactionEvent coded in WHO-ART dictionary | Oxaliplatin + FU/LV N=150 | Oxaliplatin N=153 | FU/LV N=142 |
 | --- | --- | --- | --- |
 | All Grades (%) | All Grades (%) | All Grades (%) |  |
 | Gastrointestinal |  |  |  |

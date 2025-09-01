@@ -5,7 +5,7 @@
 QT interval prolongation and ventricular arrhythmias can occur with oxaliplatin [see Warnings and Precautions (5.7)].
 Avoid coadministration of oxaliplatin with medicinal products with a known potential to prolong the QT interval.
 
-## 7.2 Use with Nephrotoxic Drugs
+## 7.2 Use with Nephrotoxic Products
 
 Because platinum-containing species are eliminated primarily through the kidney, clearance of these products may be decreased by coadministration of potentially nephrotoxic compounds [see Clinical Pharmacology (12.3)].
 Avoid coadministration of oxaliplatin with medicinal products known to cause nephrotoxicity.

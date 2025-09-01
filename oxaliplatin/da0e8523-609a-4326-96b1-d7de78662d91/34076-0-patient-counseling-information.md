@@ -68,6 +68,4 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-1033190
-
-DECEMBER 2023
+50106063 JULY 2025

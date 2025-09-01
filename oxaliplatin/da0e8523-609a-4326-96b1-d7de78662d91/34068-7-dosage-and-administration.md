@@ -20,7 +20,7 @@ Refer to the prescribing information for fluorouracil and leucovorin for additio
 
 ## 2.2 Dose Modifications for Adverse Reactions
 
-Prolongation of infusion time for oxaliplatin injection from 2 hours to 6 hours may mitigate acute toxicities, such as non-life threatening infusion-related reactions.
+Prolongation of infusion time for oxaliplatin injection from 2 hours to 6 hours may mitigate acute toxicities, such as non-life-threatening infusion-related reactions.
 
 Permanently discontinue oxaliplatin injection for any of the following:
 
@@ -42,7 +42,7 @@ Table 1: Dosage Modifications for Adjuvant Treatment in Patients with Stage III 
 | Peripheral Sensory Neuropathy [see Warnings and Precautions (5.2)] | Persistent Grade 2 | Consider reducing oxaliplatin injection dose to 75 mg/m2. |
 | Persistent Grade 3 | Consider discontinuing oxaliplatin injection. |  |
 | Grade 4 | Discontinue oxaliplatin injection. |  |
-| Myelosuppression [see Warnings and Precautions (5.3), Adverse Reactions (6.1)] | Grade 4 neutropeniaor febrile neutropenia | Delay the next dose until neutrophils greater than or equal to 1.5 × 109/L and platelets greater than or equal to 75 × 109/L.Reduce oxaliplatin injection dose to 75 mg/m2. |
+| Myelosuppression [see Warnings and Precautions (5.3), Adverse Reactions (6.1)] | Grade 4 neutropeniaor febrile neutropenia | Delay the next dose until neutrophils greater than or equal to 1.5 × 109/L and platelets greater than or equal to 75 × 109/L. Reduce oxaliplatin injection dose to 75 mg/m2. |
 | Grade 3 to 4 thrombocytopenia |  |  |
 | Gastrointestinal Adverse Reactions [see Adverse Reactions (6.1)] | Grade 3 to 4 | After recovery, reduce oxaliplatin injection dose to 75 mg/m2 along with a dose reduction of fluorouracil to 300 mg/m2 as an intravenous bolus and 500 mg/m2 as a 22-hour continuous infusion. |
 
@@ -57,7 +57,7 @@ Table 2: Dosage Modifications for Advanced Colorectal Cancer
 | Neuropathy [see Warnings and Precautions (5.2)] | Persistent Grade 2 | Consider reducing oxaliplatin injection dose to 65 mg/m2. |
 | Persistent Grade 3 | Consider discontinuing oxaliplatin injection. |  |
 | Grade 4 | Discontinue oxaliplatin injection. |  |
-| Myelosuppression [see Warnings and Precautions (5.3), Adverse Reactions (6.1)] | Grade 4 neutropenia or febrile neutropenia | Delay the next dose until neutrophils greater than or equal to 1.5 × 109/L and platelets greater than or equal to 75 × 109/L.Reduce oxaliplatin injection dose to 65 mg/m2. |
+| Myelosuppression [see Warnings and Precautions (5.3), Adverse Reactions (6.1)] | Grade 4 neutropenia or febrile neutropenia | Delay the next dose until neutrophils greater than or equal to 1.5 × 109/L and platelets greater than or equal to 75 × 109/L. Reduce oxaliplatin injection dose to 65 mg/m2. |
 | Grade 3 to 4 thrombocytopenia |  |  |
 | Gastrointestinal Adverse Reactions [see Adverse Reactions (6.1)] | Grade 3 to 4 | After recovery, reduce oxaliplatin injection dose to 65 mg/ m2 along with a dose reduction of fluorouracil to 300 mg/m2 as an intravenous bolus and 500 mg/m2 as a 22-hour continuous infusion. |
 
