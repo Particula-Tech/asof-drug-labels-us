@@ -34,7 +34,7 @@ Time to CR plus CR* ranged from 2.9 to 11.7 weeks.
 ## 14.2 Pediatric Clinical Trial in Relapsed or Refractory T-ALL and T-LBL
 
 The safety and efficacy of Nelarabine Injection in pediatric patients were studied in a clinical trial which included patients age 21 years and younger, who had relapsed or refractory T-ALL or T LBL.
-Eighty-four (84) patients, 39 of whom had received two or more prior induction regimens, were treated with 650 mg/m2/day of Nelarabine Injection administered intravenously over 1 hour daily for 5 consecutive days repeated every 21 days (see Table 6).
+Eighty-four (84) patients, 39 of whom had received two or more prior induction regimens, were treated with 650 mg/m2/day of Nelarabine Injection administered by intravenous infusion over 1 hour daily for 5 consecutive days repeated every 21 days (see Table 6).
 Patients who experienced signs or symptoms of Grade 2 or greater neurologic toxicity on therapy were to be discontinued from further therapy with Nelarabine Injection.
 
 Table 6.

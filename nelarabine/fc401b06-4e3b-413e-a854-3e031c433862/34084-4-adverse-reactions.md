@@ -206,7 +206,7 @@ The other neurologic adverse reactions reported as Grade 1, 2, or unknown in ped
 Nelarabine Injection in Combination with Multi-Agent Chemotherapy in T-ALL and T-LBL
 
 Nelarabine Injection was studied in combination with multi-agent chemotherapy in a randomized clinical trial [NCT00408005].
-The safety population in this trial included 804 patients with newly diagnosed T-ALL (85%) or T-LBL (15%) treated with (n = 411) or without (n = 393) Nelarabine Injection in combination with the augmented Berlin-Frankfurt-Münster chemotherapy regimen (aBFM) after initial induction therapy.
+The safety population in this trial included 804 patients with newly-diagnosed T-ALL (85%) or T-LBL (15%) treated with (n = 411) or without (n = 393) Nelarabine Injection in combination with the augmented Berlin-Frankfurt-Münster chemotherapy regimen (aBFM) after initial induction therapy.
 Patients assigned to Nelarabine Injection received 650 mg/m2 intravenously over 1 hour daily for 5 consecutive days, during consolidation Days 1 to 5 and 43 to 47, delayed intensification Days 29 to 33, and during the initial 3 courses of maintenance Days 29 to 33.
 The median age on enrollment was 9.5 years (range: 1-29), the majority of patients were male (73%) and White (69%).
 Sixty-five percent of patients assigned to the Nelarabine Injection arms received at least 85% of the planned dose through the third course of maintenance therapy compared to 79% of patients on the control arms who received 3 courses of maintenance therapy.

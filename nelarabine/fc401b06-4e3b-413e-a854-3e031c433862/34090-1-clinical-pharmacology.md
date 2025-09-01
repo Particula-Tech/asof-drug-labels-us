@@ -65,7 +65,7 @@ Gender has no effect on nelarabine or ara-G pharmacokinetics.
 
 Effect of Race:
 
-In general, nelarabine mean clearance and volume of distribution values tend to be higher in Whites (n = 63) than in Blacks(by about 10%) (n = 15).
+In general, nelarabine mean clearance and volume of distribution values tend to be higher in Whites (n = 63) than in Blacks (by about 10%) (n = 15).
 The opposite is true for ara-G; mean apparent clearance and volume of distribution values tend to be lower in Whites than in Blacks (by about 15% to 20%).
 No differences in safety or effectiveness were observed between these groups.
 
