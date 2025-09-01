@@ -1,9 +1,7 @@
-# Medication Guide
-
-| Methadone Hydrochloride (meth’ a done hye” droe klor’ ide) Oral Solution USP, CII Rx only |  |
+| MEDICATION GUIDEMethadone Hydrochloride (meth’ a done hye” droe klor’ ide) Oral Solution USP, CIIRx only |  |
 | --- | --- |
 | Methadone Hydrochloride Oral Solution is: •A strong prescription pain medicine that contains an opioid (narcotic) that is used to manage severe and persistent pain that requires an extended treatment period with a daily opioid pain medicine, when other pain treatments such as non-opioid pain medicines or immediate-release opioid medicines do not treat your pain well enough or you cannot tolerate them. •A long-acting opioid pain medicine that can put you at risk for overdose and death. Even if you take your dose correctly as prescribed you are at risk for opioid addiction, abuse, and misuse than can lead to death. •Not to be taken on an “as needed” basis. •Also used to manage drug addiction. |  |
-| Important information about Methadone Hydrochloride Oral Solution: •Get emergency help or call 911 right away if you take too much Methadone Hydrochloride Oral Solution (overdose). When you first start taking Methadone Hydrochloride Oral Solution, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur. Talk to your healthcare provider about naloxone, a medicine for the emergency treatment of an opioid overdose.•Taking Methadone Hydrochloride Oral Solution with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death. •Never give anyone else your Methadone Hydrochloride Oral Solution. They could die from taking it. Selling or giving away Methadone Hydrochloride Oral Solution is against the law.•Store Methadone Hydrochloride Oral Solution securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home. |  |
+| Important information about Methadone Hydrochloride Oral Solution: •Get emergency help or call 911 right away if you take too much Methadone Hydrochloride Oral Solution (overdose). When you first start taking Methadone Hydrochloride Oral Solution, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur. Ask your healthcare provider about medicines like naloxone or nalmefene that can be used in an emergency to reverse an opioid overdose.•Taking Methadone Hydrochloride Oral Solution with other opioid medicines, benzodiazepines, gabapentinoids (gabapentin or pregabalin), alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death. •Never give anyone else your Methadone Hydrochloride Oral Solution. They could die from taking it. Selling or giving away Methadone Hydrochloride Oral Solution is against the law.•Store Methadone Hydrochloride Oral Solution securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home. |  |
 | Do not take Methadone Hydrochloride Oral Solution if you have: •severe asthma, trouble breathing, or other lung problems. •a bowel blockage or have narrowing of the stomach or intestines. |  |
 | Before taking Methadone Hydrochloride Oral Solution, tell your healthcare provider if you have a history of: |  |
 | •head injury, seizures•pancreas or gallbladder problems•liver, kidney, thyroid problems •abuse of street or prescription drugs, alcohol addiction, opioid overdose, or mental health problems | •problems urinating •heart rhythm problems (Long QT syndrome) |
@@ -14,6 +12,6 @@
 | Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922 For more information, please call 1-800-962-8364. |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. |  |
 
-C50000749/05
+C50000749/06
 
-Revised January 2024
+Revised August 2025

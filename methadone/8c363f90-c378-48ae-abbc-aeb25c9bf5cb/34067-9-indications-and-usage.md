@@ -2,11 +2,9 @@
 
 Methadone Hydrochloride Oral Solution is indicated for the:
 
-- •Management of severe and persistent pain that requires an extended treatment period with a daily opioid analgesic and for which alternative treatment options are inadequate.
+- •Management of severe and persistent pain that requires an opioid analgesic and that cannot be adequately treated with alternative options, including immediate-release opioids.
 - Limitations of Use:
-  1. •Because of the risks of addiction, abuse, and misuse with opioids, which can occur at any dosage or duration [see Warnings and Precautions (5.2)], reserve Methadone Hydrochloride Oral Solution for use in patients for whom alternative analgesic treatment options (e.g., non-opioid analgesics or opioid combination products):
-     - oHave not been tolerated or are not expected to be tolerated,
-     - oHave not provided adequate analgesia or are not expected to provide adequate analgesia.
+  1. •Because of the risks of addiction, abuse, misuse, overdose, and death, which can occur at any dosage or duration [see Warnings and Precautions (5.1)] and persist over the course of therapy, reserve opioid analgesics, including Methadone Hydrochloride Oral Solution, for use in patients for whom alternative treatment options are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
   2. •Methadone Hydrochloride Oral Solution is not indicated as an as-needed (prn) analgesic.
 - •Detoxification treatment of opioid addiction (heroin or other morphine-like drugs).
 - •Maintenance treatment of opioid addiction (heroin or other morphine-like drugs), in conjunction with appropriate social and medical services.
