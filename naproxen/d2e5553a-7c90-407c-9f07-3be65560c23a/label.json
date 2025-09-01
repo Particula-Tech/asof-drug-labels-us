@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA020067"
+  ],
+  "inn": "naproxen",
+  "labeler": "Zameer Pharmaceuticals LLC",
+  "package_ndcs": [
+    "90096-161-01"
+  ],
+  "products": [
+    {
+      "form": "TABLET, DELAYED RELEASE",
+      "generic": "naproxen",
+      "name": "Naproxen"
+    }
+  ],
+  "setid": "d2e5553a-7c90-407c-9f07-3be65560c23a",
+  "source": "dailymed"
+}

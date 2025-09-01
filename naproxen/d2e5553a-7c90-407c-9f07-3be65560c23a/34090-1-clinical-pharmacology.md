@@ -1,0 +1,121 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Naproxen has analgesic, anti-inflammatory, and antipyretic properties.
+NAPROXEN SODIUM (naproxen sodium) has been developed as a more rapidly absorbed formulation of naproxen for use as an analgesic.
+The mechanism of action of naproxen, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
+Naproxen is a potent inhibitor of prostaglandin synthesis in vitro.
+Naproxen concentrations reached during therapy have produced in vivo effects.
+Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
+Prostaglandins are mediators of inflammation.
+Because naproxen is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
+
+## 12.2 Pharmacodynamics
+
+In a healthy volunteer study, 10 days of concomitant administration of naproxen 220 mg once-daily with low-dose immediate-release aspirin (81 mg) showed an interaction with the antiplatelet activity of aspirin as measured by % serum thromboxane B2 inhibition at 24 hours following the day 10 dose [98.7% (aspirin alone) vs 93.1% (naproxen and aspirin)].
+The interaction was observed even following discontinuation of naproxen on day 11 (while aspirin dose was continued) but normalized by day 13.
+In the same study, the interaction was greater when naproxen was administered 30 minutes prior to aspirin [98.7% vs 87.7%] and minimal when aspirin was administered 30 minutes prior to naproxen [98.7% vs 95.4%].
+Following administration of naproxen 220 mg twice-daily with low-dose immediate-release aspirin (first naproxen dose given 30 minutes prior to aspirin), the interaction was minimal at 24 h following day 10 dose [98.7% vs 95.7%].
+However, the interaction was more prominent after discontinuation of naproxen (washout) on day 11 [98.7% vs 84.3%] and did not normalize completely by day 13 [98.5% vs 90.7%].
+[see Drug Interactions (7)].
+
+## 12.3 Pharmacokinetic
+
+Naproxen and naproxen sodium are rapidly and completely absorbed from the gastrointestinal tract with an in vivo bioavailability of 95%.
+The different dosage forms of NAPROXEN are bioequivalent in terms of extent of absorption (AUC) and peak concentration (Cmax); however, the products do differ in their pattern of absorption.
+These differences between naproxen products are related to both the chemical form of naproxen used and its formulation.
+Even with the observed differences in pattern of absorption, the elimination half-life of naproxen is unchanged across products ranging from 12 to 17 hours.
+Steady-state levels of naproxen are reached in 4 to 5 days, and the degree of naproxen accumulation is consistent with this half-life.
+This suggests that the differences in pattern of release play only a negligible role in the attainment of steady-state plasma levels.
+
+Absorption
+
+NAPROXEN Tablets/NAPROXEN SODIUM:
+
+After administration of NAPROXEN Tablets, peak plasma levels are attained in 2 to 4 hours.
+After oral administration of NAPROXEN SODIUM, peak plasma levels are attained in 1 to 2 hours.
+The difference in rates between the two products is due to the increased aqueous solubility of the sodium salt of naproxen used in NAPROXEN SODIUM.
+
+Naproxen Delayed-Release Tablets:
+
+Naproxen Delayed-Release Tablets is designed with a pH-sensitive coating to provide a barrier to disintegration in the acidic environment of the stomach and to lose integrity in the more neutral environment of the small intestine.
+The enteric polymer coating selected for Naproxen Delayed-Release Tablets dissolves above pH 6.
+When Naproxen Delayed-Release Tablets was given to fasted subjects, peak plasma levels were attained about 4 to 6 hours following the first dose (range: 2 to 12 hours).
+An in vivo study in man using radiolabeled Naproxen Delayed- Release Tablets demonstrated that Naproxen Delayed-Release Tablets dissolves primarily in the small intestine rather than in the stomach, so the absorption of the drug is delayed until the stomach is emptied.
+
+When Naproxen Delayed-Release Tablets and NAPROXEN were given to fasted subjects (n=24) in a crossover study following 1 week of dosing, differences in time to peak plasma levels (Tmax) were observed, but there were no differences in total absorption as measured by Cmax and AUC:
+
+|  | Naproxen Delayed-Release Tablets* 500 mg bid | Naproxen Delayed-Release Tablets* 500 mg bid |
+| --- | --- | --- |
+| Cmax (µg/mL) | 94.9 (18%) | 97.4 (13%) |
+| Tmax (hours) | 4 (39%) | 1.9 (61%) |
+| AUC0–12 hr (µg·hr/mL) | 845 (20%) | 767 (15%) |
+
+*Mean value (coefficient of variation)
+
+AntacidEffects
+
+When Naproxen Delayed-Release Tablets was given as a single dose with antacid (54 mEq buffering capacity), the peak plasma levels of naproxen were unchanged, but the time to peak was reduced (mean Tmax fasted 5.6 hours, mean Tmax with antacid 5 hours), although not significantly [see Drug Interactions (7)].
+
+Food Effects
+
+When Naproxen Delayed-Release Tablets was given as a single dose with food, peak plasma levels in most subjects were achieved in about 12 hours (range: 4 to 24 hours).
+Residence time in the small intestine until disintegration was independent of food intake.
+The presence of food prolonged the time the tablets remained in the stomach, time to first detectable serum naproxen levels, and time to maximal naproxen levels (Tmax), but did not affect peak naproxen levels (Cmax).
+
+Distribution
+
+Naproxen has a volume of distribution of 0.16 L/kg.
+At therapeutic levels naproxen is greater than 99% albumin-bound.
+At doses of naproxen greater than 500 mg/day there is less than proportional increase in plasma levels due to an increase in clearance caused by saturation of plasma protein binding at higher doses (average trough Css 36.5, 49.2 and 56.4 mg/L with 500, 1000 and 1500 mg daily doses of naproxen, respectively).
+
+The naproxen anion has been found in the milk of lactating women at a concentration equivalent to approximately 1% of maximum naproxen concentration in plasma [see Use in Specific Populations (8.2)].
+
+Elimination
+
+Metabolism
+
+Naproxen is extensively metabolized in the liver to 6-0-desmethyl naproxen, and both parent and metabolites do not induce metabolizing enzymes.
+Both naproxen and 6-0-desmethyl naproxen are further metabolized to their respective acylglucuronide conjugated metabolites.
+
+Excretion
+
+The clearance of naproxen is 0.13 mL/min/kg.
+Approximately 95% of the naproxen from any dose is excreted in the urine, primarily as naproxen (<1%), 6-0-desmethyl naproxen (<1%) or their conjugates (66% to 92%).
+The plasma half-life of the naproxen anion in humans ranges from 12 to 17 hours.
+The corresponding half-lives of both naproxen’s metabolites and conjugates are shorter than 12 hours, and their rates of excretion have been found to coincide closely with the rate of naproxen clearance from the plasma.
+Smallamounts, 3% or less of the administered dose, are excreted in the feces.
+In patients with renal failure metabolites may accumulate [see Warnings and Precautions (5.6)].
+
+Specific Populations
+
+Pediatric:
+
+In pediatric patients aged 5 to 16 years with arthritis, plasma naproxen levels following a 5 mg/kg single dose of naproxen suspension [see Dosage and Administration (2)] were found to be similar to those found in normal adults following a 500 mg dose.
+The terminal half-life appears to be similar in pediatric and adult patients.
+Pharmacokinetic studies of naproxen were not performed in pediatric patients younger than 5 years of age.
+Pharmacokinetic parameters appear to be similar following administration of naproxen suspension or tablets in pediatric patients.
+
+Geriatric:
+
+Studies indicate that although total plasma concentration of naproxen is unchanged, the unbound plasma fraction of naproxen is increased in the elderly, although the unbound fraction is <1% of the total naproxen concentration.
+Unbound trough naproxen concentrations in elderly subjects have been reported to range from 0.12% to 0.19% of total naproxen concentration, compared with 0.05% to 0.075% in younger subjects.
+
+HepaticImpairment:
+
+Naproxen pharmacokinetics has not been determined in subjects with hepatic insufficiency.
+
+Chronic alcoholic liver disease and probably other diseases with decreased or abnormal plasma proteins (albumin) reduce the total plasma concentration of naproxen, but the plasma concentration of unbound naproxen is increased.
+
+RenalImpairment:
+
+Naproxen pharmacokinetics has not been determined in subjects with renal insufficiency.
+Given that naproxen, its metabolites and conjugates are primarily excreted by the kidney, the potential exists for naproxen metabolites to accumulate in the presence of renal insufficiency.
+Elimination of naproxen is decreased in patients with severe renal impairment.
+
+Drug Interaction Studies
+
+Aspirin: When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
+The clinical significance of this interaction is not known.
+See Table 1 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
