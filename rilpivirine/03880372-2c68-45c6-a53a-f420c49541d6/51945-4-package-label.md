@@ -16,7 +16,7 @@ Rx only
 
 NDC 59676-280-90 Rx only
 
-EDURANT ®PED
+EDURANT ® PED
 
 (rilpivirine) tablets for oral suspension
 
