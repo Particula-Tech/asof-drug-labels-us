@@ -194,6 +194,7 @@ Table 12: Most Commonly Reported Adverse Reactions (≥5%) with Grades 3 and ≥
 | Body System Adverse Reactions | All n (%) | Toxicity Grade 3 n (%) | Toxicity Grade ≥4 n (%) | All n (%) | Toxicity Grade 3 n (%) | Toxicity Grade ≥4 n (%) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | VcR-CAP (n=240) |  |  | R-CHOP (n=242) |  |  |
+| Key: R-CHOP = rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; VcR-CAP = VELCADE, rituximab, cyclophosphamide, doxorubicin, and prednisone. |  |  |  |  |  |  |
 | Blood and Lymphatic System Disorders |  |  |  |  |  |  |
 | Neutropenia | 209 (87) | 32 (13) | 168 (70) | 172 (71) | 31 (13) | 125 (52) |
 | Leukopenia | 116 (48) | 34 (14) | 69 (29) | 87 (36) | 39 (16) | 27 (11) |
@@ -229,7 +230,6 @@ Table 12: Most Commonly Reported Adverse Reactions (≥5%) with Grades 3 and ≥
 | Hypertension | 15 (6) | 1 (<1) | 0 | 3 (1) | 0 | 0 |
 | Psychiatric Disorders |  |  |  |  |  |  |
 | Insomnia | 16 (7) | 1 (<1) | 0 | 8 (3) | 0 | 0 |
-| Key: R-CHOP = rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone; VcR-CAP = VELCADE, rituximab, cyclophosphamide, doxorubicin, and prednisone. |  |  |  |  |  |  |
 
 The incidence of herpes zoster reactivation was 4.6% in the VcR-CAP arm and 0.8% in the R-CHOP arm.
 Antiviral prophylaxis was mandated by protocol amendment.
