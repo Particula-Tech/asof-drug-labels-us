@@ -4,7 +4,7 @@
 
 FOR OPHTHALMIC INTRAVITREAL INJECTION.
 
-Vials: A 5-micron sterile filter needle (19-gauge × 1-1/2 inch), a 1-mL Luer lock syringe and a 30- gauge × ½ inch sterile injection needle are needed but not included.
+Vials: A 5-micron sterile filter needle (18-gauge × 1-1/2 inch or 19-gauge × 1-1/2 inch), a 1-mL Luer lock syringe and a 30- gauge × ½ inch sterile injection needle are needed but not included.
 
 ## 2.2 Neovascular (Wet) Age-Related Macular Degeneration (AMD)
 
@@ -42,11 +42,11 @@ The filter needle should be replaced with a sterile 30-gauge × ½ inch needle f
 Use aseptic technique to carry out the following preparation steps:
 
 1. Prepare for intravitreal injection with the following medical devices for single use (not included):
-   - a 5-micron sterile filter needle (19-gauge × 1-1/2 inch)
+   - a 5-micron sterile filter needle (18-gauge × 1-1/2 inch or 19-gauge × 1-1/2 inch)
    - a 1 mL sterile Luer lock syringe (with marking to measure 0.05 mL)
    - a sterile injection needle (30-gauge × 1/2-inch)
 2. Before withdrawal, disinfect the outer part of the rubber stopper of the vial.
-3. Place a 5-micron filter needle (19-gauge × 1-1/2 inch) onto a 1 mL Luer lock syringe using aseptic technique.
+3. Place a 5-micron filter needle (18-gauge × 1-1/2 inch or 19-gauge × 1-1/2 inch) onto a 1 mL Luer lock syringe using aseptic technique.
 4. Push the filter needle into the center of the vial stopper until the needle touches the bottom edge of the vial.
 5. Withdraw all the liquid from the vial, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
 6. Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.

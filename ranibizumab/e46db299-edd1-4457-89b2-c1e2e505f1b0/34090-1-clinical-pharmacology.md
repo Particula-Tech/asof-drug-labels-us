@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Ranibizumab products bind to the receptor binding site of active forms of VEGF-A, including the biologically active, cleaved form of this molecule, VEGF 110.
+Ranibizumab products bind to the receptor binding site of active forms of VEGF-A, including the biologically active, cleaved form of this molecule, VEGF110.
 VEGF-A has been shown to cause neovascularization and leakage in models of ocular angiogenesis and vascular occlusion and is thought to contribute to pathophysiology of neovascular AMD, mCNV, and macular edema following RVO.
 The binding of ranibizumab products to VEGF-A prevents the interaction of VEGF-A with its receptors (VEGFR1 and VEGFR2) on the surface of endothelial cells, reducing endothelial cell proliferation, vascular leakage, and new blood vessel formation.
 

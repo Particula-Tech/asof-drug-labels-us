@@ -4,4 +4,4 @@ Manufactured by: Samsung Bioepis Co., Ltd. 76, Songdogyoyuk-ro, Yeonsu-gu, Inche
 
 Manufactured for: Biogen Inc. 225 Binney Street, Cambridge MA, 02142 United States
 
-BYOOVIZ is a trademark of Biogen Inc.
+BYOOVIZ is a trademark of Biogen MA Inc.

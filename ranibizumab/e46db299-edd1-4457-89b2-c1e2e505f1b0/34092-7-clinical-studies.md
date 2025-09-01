@@ -19,14 +19,14 @@ Data are available through Month 24.
 Patients treated with ranibizumab in Study AMD-2 received a mean of 21 total treatments out of a possible 24 from Day 0 through Month 24.
 
 In both studies, the primary efficacy endpoint was the proportion of patients who maintained vision, defined as losing fewer than 15 letters of visual acuity at 12 months compared with baseline.
-Almost all ranibizumab-treated patients (approximately 95%) maintained their visual acuity.
-Among ranibizumab-treated patients, 31% to 37% experienced a clinically significant improvement in vision, defined as gaining 15 or more letters at 12 months.
+Almost all ranibizumab--treated patients (approximately 95%) maintained their visual acuity.
+Among ranibizumab--treated patients, 31% to 37% experienced a clinically significant improvement in vision, defined as gaining 15 or more letters at 12 months.
 The size of the lesion did not significantly affect the results.
 Detailed results are shown in Table 3, Table 4, and Figure 1 below.
 
 Table 3 Visual Acuity Outcomes at Month 12 and Month 24 in Study AMD-1
 
-| Outcome Measure | Month | Sham n=229 | Ranibizumab 0.5 mg n=230 | Estimated Difference (95% CI) Adjusted estimate based on the stratified model; p < 0.01 |
+| Outcome Measure | Month | Sham n=229 | Ranibizumab 0.5 mg n=230 | Estimated Difference (95% CI)Adjusted estimate based on the stratified model; p < 0.01 |
 | --- | --- | --- | --- | --- |
 | Loss of <15 letters in visual acuity (%) | 12 | 60% | 91% | 30% (23%, 37%) |
 | 24 | 56% | 89% | 33% (26%, 41%) |  |
@@ -37,7 +37,7 @@ Table 3 Visual Acuity Outcomes at Month 12 and Month 24 in Study AMD-1
 
 Table 4 Visual Acuity Outcomes at Month 12 and Month 24 in Study AMD-2
 
-| Outcome Measure | Month | PDT n=141 | Ranibizumab 0.5 mg n=139 | Estimated Difference (95% CI) Adjusted estimate based on the stratified model; p < 0.01 |
+| Outcome Measure | Month | PDT n=141 | Ranibizumab 0.5 mg n=139 | Estimated Difference (95% CI)Adjusted estimate based on the stratified model; p < 0.01 |
 | --- | --- | --- | --- | --- |
 | Loss of <15 letters in visual acuity (%) | 12 | 66% | 98% | 32% (24%, 40%) |
 | 24 | 65% | 93% | 28% (19%, 37%) |  |
@@ -46,7 +46,7 @@ Table 4 Visual Acuity Outcomes at Month 12 and Month 24 in Study AMD-2
 | Mean change in visual acuity (letters) (SD) | 12 | -8.5 (17.8) | +11.0 (15.8) | 19.8 (15.9, 23.7) |
 | 24 | -9.1 (18.7) | +10.9 (17.3) | 20 (16.0, 24.4) |  |
 
-| Figure 1 Mean Change in Visual Acuity Visual acuity was measured at a distance of 2 metersfrom Baseline to Month 24 in Study AMD-1 and Study AMD-2 |  |  |  |
+| Figure 1 Mean Change in Visual AcuityVisual acuity was measured at a distance of 2 meters from Baseline to Month 24 in Study AMD-1 and Study AMD-2 |  |  |  |
 | --- | --- | --- | --- |
 | AMD-1 |  | AMD-2 |  |
 |  | Ranibizumab 0.5 mg (n=240) |  | Ranibizumab 0.5 mg (n=139) |
@@ -140,7 +140,7 @@ Efficacy was comparable between Group I and Group II.
 
 Table 6 Mean Change in Visual Acuity and Proportion of Patients who Gained ≥15 letters from Baseline at Month 3
 
-| Mean (SD) | Estimated Difference (95% CI) Adjusted estimates based on stratified models; p < 0.01 | Percent | Estimated Difference (95% CI) |  |
+| Mean (SD) | Estimated Difference (95% CI)Adjusted estimates based on stratified models; p < 0.01 | Percent | Estimated Difference (95% CI) |  |
 | --- | --- | --- | --- | --- |
 | Study Arms | Mean change in BCVA from baseline (Letters) |  | Proportion of patients who gained ≥15 letters from baseline |  |
 | Group I | 12.1 (10.2) | 10.9 (7.6, 14.3) | 37.1 | 22.6 (9.5, 35.7) |
