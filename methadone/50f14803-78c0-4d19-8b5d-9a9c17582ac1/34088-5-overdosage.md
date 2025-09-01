@@ -8,7 +8,7 @@ In severe overdosage, particularly by the intravenous route, apnea, circulatory 
 
 Methadone overdosage is associated with rhabdomyolysis.
 Seek medical attention, especially if abuse/misuse results in prolonged immobilization.
-Acute toxic leukoencephalopathy has been reported after methadone overdose, often weeks after apparent recovery from the initial intoxication.
+Toxic leukoencephalopathy has been reported after opioid overdose, and can present hours, days, or weeks after apparent recovery from the initial intoxication.
 Hearing loss has been reported after methadone overdose, in some cases permanent.
 
 Treatment of Overdose
@@ -17,8 +17,7 @@ In case of overdose, priorities are the reestablishment of a patent and protecte
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life-support measures.
 
-Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
-For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid antagonist.
+For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid overdose reversal agent such as naloxone or nalmefene.
 
 Because the duration of reversal would be expected to be less than the duration of action of methadone in Methadone Hydrochloride Tablets, carefully monitor the patient until spontaneous respiration is reliably reestablished.
 If the response to opioid antagonists is suboptimal or not sustained, administer additional antagonist as directed in the product’s prescribing information.

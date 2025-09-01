@@ -21,24 +21,26 @@ Regulatory Exceptions to the General Requirement for Certification to Provide Op
 - •With repeated dosing, methadone is retained in the liver and then slowly released, prolonging the duration of potential toxicity.
 - •Methadone has a narrow therapeutic index, especially when combined with other drugs.
 
-## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.3 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Methadone Hydrochloride Tablets [see Warnings and Precautions (5.3), Overdosage (10)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent [see Warnings and Precautions (5.3), Overdosage (10)].
 
 For Patients Being Treated for Pain
 
-1. Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-   The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
+1. Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+   The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
 
 For Patients Being Treated for Opioid Addiction
 
-1. Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose.
-   Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with Methadone Hydrochloride Tablets itself.
+1. Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing or recommending an overdose reversal agent for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Methadone Hydrochloride Tablets.
+   Advise patients and caregivers that an opioid overdose reversal agent, such as naloxone or nalmefene may also be administered for a known or suspected overdose with Methadone Hydrochloride Tablets itself [see Overdosage (10)].
 
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone [see Warnings and Precautions (5.2), Patient Counseling Information (17)].
+For patients being treated with methadone (regardless of indication), also consider prescribing or recommending such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
 
-Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.3)].
+
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
 ## 2.4 Methadone Hydrochloride Tablets for Management of Pain
 
@@ -61,9 +63,6 @@ Initiate the dosing regimen for each patient individually, taking into account t
 
 Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Methadone Hydrochloride Tablets.
 Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)].
-
-Use of Methadone Hydrochloride Tablets as the First Opioid Analgesic: Initiate treatment with Methadone Hydrochloride Tablets with 2.5 mg orally every 8 to 12 hours as needed for pain, and at the lowest dose necessary to achieve adequate analgesia.
-Titrate the dose based upon the individual patient’s response to their initial dose of Methadone Hydrochloride Tablets.
 
 Conversion from Other Oral Opioids to Methadone Hydrochloride Tablets: When Methadone Hydrochloride Tablets therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
 
@@ -145,7 +144,7 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 ## 2.6 Safe Reduction or Discontinuation of Methadone Hydrochloride Tablets for Pain
 
-Do not abruptly discontinue Methadone Hydrochloride Tablets in patients who may be physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue Methadone Hydrochloride Tablets in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.

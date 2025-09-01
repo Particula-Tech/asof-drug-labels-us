@@ -20,8 +20,10 @@ prescribing of Methadone Hydrochloride Tablets and benzodiazepines or other CNS 
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
-Ensure that management by neonatology experts will be available at delivery [see Warnings and Precautions (5.5)].
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of use of Methadone Hydrochloride Tablets during pregnancy.
+NOWS may be life-threatening if not recognized and treated in the neonate.
+The balance between the risks of NOWS and the benefits of maternal Methadone Hydrochloride Tablets use may differ based on the risks associated with the mother’s underlying condition, pain, or addiction.
+Advise the patient of the risk of NOWS so that appropriate planning for management of the neonate can occur [see Warnings and Precautions (5.5)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
