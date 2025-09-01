@@ -9,4 +9,4 @@ The compound has the following structural formula:
 
 Hydromorphone hydrochloride extended-release tablets also contain the following inactive ingredients: ammonio methacrylate copolymer, colloidal silicon dioxide, ethylcellulose, magnesium stearate, mannitol, microcrystalline cellulose, povidone, talc and triethyl citrate.
 
-The color coating of the tablets contains FD&C Blue No. 1, ferric oxide red (8, 16, and 32 mg only), ferric oxide yellow (8 and 16 mg only), hypromellose, polyethylene glycol, polysorbate 80 (12 mg only), propylene glycol, and titanium dioxide.
+The color coating of the tablets contains ferric oxide black, ferric oxide red (8, 16, and 32 mg only), ferric oxide yellow (8 and 16 mg only), hypromellose, polyethylene glycol, polysorbate 80 (12 mg only), propylene glycol, shellac, and titanium dioxide.

@@ -21,16 +21,16 @@ Patients who are opioid-tolerant are those receiving, for one week or longer, at
 Instruct patients to swallow hydromorphone hydrochloride extended-release tablets whole [see Patient Counseling Information (17)].
 Crushing, chewing, or dissolving hydromorphone hydrochloride extended-release tablets will result in uncontrolled delivery of hydromorphone and can lead to overdose or death [see Warnings and Precautions (5.1)].
 
-## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with hydromorphone hydrochloride extended-release tablets [see Warnings and Precautions (5.2), Patient Counseling Information (17)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
 
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.2)].
 
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
-
-Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
 ## 2.3 Initial Dosage
 
@@ -52,12 +52,10 @@ Calculate the estimated daily hydromorphone requirement using Table 1.
 
 Consider the following when using the information in Table 1:
 
-• This is not a table of equianalgesic doses.
-
-• The conversion factors in this table are only for the conversion from one of the listed oral opioid analgesics to hydromorphone hydrochloride extended-release tablets.
-
-• The table cannot be used to convert from hydromorphone hydrochloride extended-release tablets to another opioid.
-Doing so will result in an overestimation of the dose of the new opioid and may result in fatal overdose.
+- •This is not a table of equianalgesic doses.
+- •The conversion factors in this table are only for the conversion from one of the listed oral opioid analgesics to hydromorphone hydrochloride extended-release tablets.
+- •The table cannot be used to convert from hydromorphone hydrochloride extended-release tablets to another opioid.
+  Doing so will result in an overestimation of the dose of the new opioid and may result in fatal overdose.
 
 | Table 1.Conversion Factors to Hydromorphone Hydrochloride Extended-Release Tablets |  |
 | --- | --- |
@@ -83,10 +81,14 @@ Example conversion from a single opioid to hydromorphone hydrochloride extended-
 Step 1: Sum the total daily dose of the opioid
 
 - •30 mg of oxycodone 2 times daily = 60 mg total daily dose of oxycodone
-- Step 2: Calculate the approximate equivalent dose of oral hydromorphone based on the total daily dose of the current opioid using Table 1
+
+Step 2: Calculate the approximate equivalent dose of oral hydromorphone based on the total daily dose of the current opioid using Table 1
+
 - •60 mg total daily dose of oxycodone x Conversion Factor of 0.4 = 24 mg of oral hydromorphone daily
-- Step 3: Calculate the approximate starting dose of hydromorphone hydrochloride extended-release tablets to be given every 24 hours, which is 50% of the calculated oral hydromorphone dose.
-  Round down, if necessary, to the appropriate hydromorphone hydrochloride extended-release tablet strengths available.
+
+Step 3: Calculate the approximate starting dose of hydromorphone hydrochloride extended-release tablets to be given every 24 hours, which is 50% of the calculated oral hydromorphone dose.
+Round down, if necessary, to the appropriate hydromorphone hydrochloride extended-release tablet strengths available.
+
 - •50% of 24 mg results in an initial dose of 12 mg of hydromorphone hydrochloride extended-release tablets once daily
 - •Adjust individually for each patient
 
@@ -101,14 +103,19 @@ Then reduce the hydromorphone hydrochloride extended-release tablets dose by 50%
 
 For example:
 
-1. Step 1: Identify the dose of transdermal fentanyl.
-2. •75 mg of transdermal fentanyl
-3. Step 2: Use the conversion factor of 25 mcg/hr fentanyl transdermal patch to 12 mg of hydromorphone hydrochloride extended-release tablets.
-4. •75 mg of transdermal fentanyl: 36 mg total daily dose of hydromorphone hydrochloride extended-release tablets
-5. Step 3: Calculate the approximate starting dose of hydromorphone hydrochloride extended-release tablets to be given every 24 hours, which is 50% of the converted dose.
-   Round down, if necessary, to the appropriate hydromorphone hydrochloride extended-release tablet strengths available.
-6. •50% of 36 mg results in an initial dose of 18 mg, which would be rounded down to 16 mg of hydromorphone hydrochloride extended-release tablets once daily
-7. •Adjust individually for each patient
+Step 1: Identify the dose of transdermal fentanyl.
+
+- •75 mg of transdermal fentanyl
+
+Step 2: Use the conversion factor of 25 mcg/hr fentanyl transdermal patch to 12 mg of hydromorphone hydrochloride extended-release tablets.
+
+- •75 mg of transdermal fentanyl: 36 mg total daily dose of hydromorphone hydrochloride extended-release tablets
+
+Step 3: Calculate the approximate starting dose of hydromorphone hydrochloride extended-release tablets to be given every 24 hours, which is 50% of the converted dose.
+Round down, if necessary, to the appropriate hydromorphone hydrochloride extended-release tablet strengths available.
+
+- •50% of 36 mg results in an initial dose of 18 mg, which would be rounded down to 16 mg of hydromorphone hydrochloride extended-release tablets once daily
+- •Adjust individually for each patient
 
 Conversion from Methadone to Hydromorphone Hydrochloride Extended-Release Tablets
 
@@ -134,7 +141,7 @@ Adjust the dose to obtain an appropriate balance between management of pain and 
 
 ## 2.5 Safe Reduction or Discontinuation of Hydromorphone Hydrochloride Extended-Release Tablets
 
-Do not abruptly discontinue hydromorphone hydrochloride extended-release tablets in patients who may be physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue hydromorphone hydrochloride extended-release tablets in patients who may be physically dependent on opioids.
 Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.

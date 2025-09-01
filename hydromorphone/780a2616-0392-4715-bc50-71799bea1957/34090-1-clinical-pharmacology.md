@@ -31,7 +31,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Hydromorphone causes a reduction in motility associated with an increase in tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -86,11 +86,11 @@ Mean (±SD) Hydromorphone Hydrochloride Extended-Release Tablets Pharmacokinetic
 
 | Regimen | Dosage | Tmax* (hrs) | Cmax (ng/mL) | AUC (ng●hr/mL) | T1/2 (hr) |
 | --- | --- | --- | --- | --- | --- |
-| Single Dose (N=31) | 8 mg | 12 (4-30) | 0.93 (1.01) | 18.1 (5.8) | 10.6 (4.3) |
+| Single Dose (N = 31) | 8 mg | 12 (4-30) | 0.93 (1.01) | 18.1 (5.8) | 10.6 (4.3) |
 | 16 mg | 16 (6-30) | 1.69 (0.78) | 36.5 (11.3) | 10.3 (2.4) |  |
 | 32 mg | 16 (4-24) | 3.25 (1.37) | 72.2 (24.3) | 11.0 (3.2) |  |
 | 64 mg | 16 (6-30) | 6.61 (1.75) | 156.0 (30.6) | 10.9 (3.8) |  |
-| Multiple Dose† (N=29) | 16 mg q24h | 12 (6-24) | 3.54 (0.96)‡ | 57.6 (16.3) | NA |
+| Multiple Dose†(N = 29) | 16 mg q24h | 12 (6-24) | 3.54 (0.96)‡ | 57.6 (16.3) | NA |
 | IR 4 mg q6h | 0.75 (0.5-2) | 5.28 (1.37)§ | 54.8 (14.8) | NA |  |
 
 NA = not applicable

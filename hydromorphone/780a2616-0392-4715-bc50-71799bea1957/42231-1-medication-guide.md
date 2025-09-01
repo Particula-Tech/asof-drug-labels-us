@@ -17,10 +17,10 @@ Hydromorphone hydrochloride extended-release tablets are:
 Important information about hydromorphone hydrochloride extended-release tablets:
 
 - 
-  - •Get emergency help or call 911 right away if you take too many hydromorphone hydrochloride extended-release tablets (overdose).
+  - •Get emergency help or call 911 right away if you take too much hydromorphone hydrochloride extended-release tablets (overdose).
     When you first start taking hydromorphone hydrochloride extended-release tablets, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur.
-    Talk to your healthcare provider about naloxone, a medicine for the emergency treatment of an opioid overdose.
-  - •Taking hydromorphone hydrochloride extended-release tablets with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
+    Ask your healthcare provider about medicines like naloxone or nalmefene that can be used in an emergency to reverse an opioid overdose.
+  - •Taking hydromorphone hydrochloride extended-release tablets with other opioid medicines, benzodiazepines, gabapentinoids (gabapentin or pregabalin), alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
   - •Never give anyone else your hydromorphone hydrochloride extended-release tablets.
     They could die from taking it.
     Selling or giving away hydromorphone hydrochloride extended-release tablets is against the law.
@@ -94,12 +94,10 @@ Call your healthcare provider for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov
 
-Manufactured by Padagis, Minneapolis, MN 55427
-
-1B500 RC MG8
+Manufactured by Padagis®, Minneapolis, MN 55427
 
 www.padagis.com or call 1-866-634-9120
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised September 2023
+Revised August 2025
