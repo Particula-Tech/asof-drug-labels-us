@@ -58,6 +58,8 @@ In HIV-uninfected women, the benefits and risks of emtricitabine and tenofovir d
 ATRIPLA, COMPLERA, EMTRIVA, EPCLUSA, HARVONI, SOVALDI, STRIBILD, and VIREAD are trademarks of Gilead Sciences, Inc., or its related companies.
 All other trademarks referenced herein are the property of their respective owners.
 
+Dispense with Medication Guide available at: https://www.laurusgenerics.us/med-guide/emt-tdf.pdf
+
 Manufactured for: Laurus Generics Inc. 400 Connell Drive Suite 5200 Berkeley Heights, NJ 07922
 
 Manufactured by: Laurus Labs Limited Anakapalli-531011 India

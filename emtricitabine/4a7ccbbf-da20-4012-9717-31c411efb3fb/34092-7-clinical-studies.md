@@ -26,7 +26,7 @@ Table 14 Virologic Outcomes of Randomized Treatment at Weeks 48 and 144 (Study 9
 
 | Outcomes | At Week 48 |  | At Week 144 |  |
 | --- | --- | --- | --- | --- |
-| FTC+TDF +EFV (N=244) | AZT/3TC +EFV (N=243) | FTC+TDF +EFV (N=227)a | AZT/3TC +EFV (N=229)a |  |
+| FTC+TDF+EFV (N=244) | AZT/3TC+EFV (N=243) | FTC+TDF+EFV (N=227)a | AZT/3TC+EFV (N=229)a |  |
 | Responderb | 84% | 73% | 71% | 58% |
 | Virologic failurec | 2% | 4% | 3% | 6% |
 | Rebound | 1% | 3% | 2% | 5% |

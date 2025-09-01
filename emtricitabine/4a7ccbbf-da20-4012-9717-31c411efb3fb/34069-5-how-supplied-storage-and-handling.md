@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Emtricitabine and Tenofovir Disoproxil Fumarate Tablets are white to off white, capsule shaped, film-coated biconvex tablets, debossed with ‘LA49’ on one side and plain on the other side and supplied as follows:
+Each tablet contains 200 mg of FTC and 300 mg of TDF (equivalent to 245 mg of tenofovir disoproxil) and are white to off white, capsule shaped, film-coated biconvex tablets, debossed with ‘LA49’ on one side and plain on the other side and supplied as follows:
 
 Bottle of 30 NDC 42385-953-30
 
