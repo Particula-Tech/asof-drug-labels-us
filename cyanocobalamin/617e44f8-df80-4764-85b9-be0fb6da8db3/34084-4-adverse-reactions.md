@@ -10,4 +10,4 @@ Gastrointestinal: Mild transient diarrhea
 
 Dermatological: Itching; transitory exanthema
 
-Miscellaneous: Feeling of swelling of entire body
+Feeling of swelling of entire body

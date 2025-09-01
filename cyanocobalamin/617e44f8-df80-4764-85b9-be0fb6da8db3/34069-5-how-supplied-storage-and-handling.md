@@ -7,7 +7,7 @@ Cyanocobalamin Injection, USP 1000 mcg/mL
 | 70069- 171 -05 | 1,000 | 30 mL |
 | 70069- 171 -10 |  |  |
 
-30 mL vials are multiple dose vial, packaged as;
+30 mL vials are Multiple Dose Vials, packaged as;
 
 - 5 vials per tray and
 
@@ -19,16 +19,18 @@ PROTECT THE PRODUCT FROM LIGHT.
 
 For Product Inquiry call 1-800-417-9175.
 
-Issued: October, 2019
+Revised: April, 2025
 
 Manufactured for:
 
 Somerset Therapeutics, LLC
 
-Hollywood, FL 33024
+Somerset, NJ 08873
 
 Made in India
 
 Code No.:KR/DRUGS/KTK/28/289/97
 
-ST-CYC13/P/01
+ST-CYC13/P/02
+
+1201237
