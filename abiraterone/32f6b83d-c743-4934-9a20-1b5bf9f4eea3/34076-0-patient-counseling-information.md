@@ -29,4 +29,4 @@ Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA
 
 For BluePoint Laboratories
 
-Rev: 10/2021
+Rev: 06/2025

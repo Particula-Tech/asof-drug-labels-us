@@ -10,7 +10,7 @@ Placebo plus prednisone 5 mg twice daily was given to patients on the control ar
 A third randomized placebo-controlled, multicenter clinical trial (LATITUDE) enrolled patients who had metastatic high-risk CSPC in which abiraterone acetate was administered at a dose of 1,000 mg daily in combination with prednisone 5 mg once daily.
 Placebos were administered to patients in the control arm.
 Additionally, two other randomized, placebo-controlled trials were conducted in patients with metastatic CRPC.
-The safety data pooled from 2230 patients in randomized controlled trials constitute the basis for the data presented in the Warnings and Precautions, Grade 1-4 adverse reactions, and Grade 1-4 laboratory abnormalities.
+The safety data pooled from 2230 patients in the 5 randomized controlled trials constitute the basis for the data presented in the Warnings and Precautions, Grade 1-4 adverse reactions, and Grade 1-4 laboratory abnormalities.
 In all trials, a gonadotropin-releasing hormone (GnRH) analog or prior orchiectomy was required in both arms.
 In the pooled data, median treatment duration was 11 months (0.1, 43) for abiraterone acetate-treated patients and 7.2 months (0.1, 43) for placebo-treated patients.
 The most common adverse reactions (≥10%) that occurred more commonly (>2%) in the abiraterone acetate arm were fatigue, arthralgia, hypertension, nausea, edema, hypokalemia, hot flush, diarrhea, vomiting, upper respiratory infection, cough, and headache.

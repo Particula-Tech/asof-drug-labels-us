@@ -14,7 +14,7 @@ Abiraterone acetate tablet can cause harm to your unborn baby and loss of pregna
 Females who are or may become pregnant should not handle abiraterone acetate uncoated tablets or other abiraterone acetate tablets if broken, crushed, or damaged without protection, such as gloves. • have a partner who is pregnant or may become pregnant. o Males who have female partners who are able to become pregnant should use effective birth control (contraception) during treatment with abiraterone acetate tablets and for 3 weeks after the last dose of abiraterone acetate tablets. • are breastfeeding or plan to breastfeed.
 It is not known if abiraterone acetate passes into your breastmilk.
 
-Tell your healthcare provider about all the medicines you take or treatments you receive,including prescription and over-the‑ counter medicines, vitamins, and herbal supplements.
+Tell your healthcare provider about all the medicines you take or treatments you receive,including prescription and over-the‑counter medicines, vitamins, and herbal supplements.
 Abiraterone acetate tablets can interact with many other medicines.
 You should not start or stop any medicine before you talk with the healthcare provider that prescribed abiraterone acetate tablets.
 Know the medicines you take.
@@ -88,6 +88,10 @@ It may harm them.
 You can ask your healthcare provider or pharmacist for information about abiraterone acetate tablets that is written for health professionals.
 For more information, go to www.novadozpharma.com or call 1-855-668-2369.
 What are the ingredients of abiraterone acetate tablets?
-Active ingredient: abiraterone acetate Inactive ingredients: 250 mg uncoated tablets: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.
+Active ingredient: abiraterone acetate Inactive ingredients:
+
+500 mg film-coated tablets: colloidal silicon dioxide, croscarmellose sodium, hydroxypropyl methylcellulose, lactose monohydrate, magnesium stearate, microcrystalline cellulose and sodium lauryl sulfate.
+The film-coating contains iron oxide black, iron oxide red, polyethylene glycol, polyvinyl alcohol, talc, and titanium dioxide.
+250 mg uncoated tablets: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate, microcrystalline cellulose, povidone, and sodium lauryl sulfate.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA For BluePoint Laboratories Rev:10/2021
+Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA For BluePoint Laboratories Rev:06/2025
