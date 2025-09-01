@@ -28,7 +28,7 @@ Following administration of 40 mg of lurasidone hydrochloride, the mean (%CV) ap
 In a food effect study, lurasidone hydrochloride mean Cmax and AUC were about 3-times and 2-times, respectively, when administered with food compared to the levels observed under fasting conditions.
 Lurasidone hydrochloride exposure was not affected as meal size was increased from 350 to 1,000 calories and was independent of meal fat content [see Dosage and Administration (2.3)].
 In clinical studies, establishing the safety and efficacy of lurasidone hydrochloride, patients were instructed to take their daily dose with food [see Dosage and Administration (2.3)].
-Metabolism and Elimination Lurasidone hydrochloride is metabolized mainly via CYP3A4.
+Metabolism and Elimination: Lurasidone hydrochloride is metabolized mainly via CYP3A4.
 The major biotransformation pathways are oxidative N-dealkylation, hydroxylation of norbornane ring, and S-oxidation.
 Lurasidone hydrochloride is metabolized into two active metabolites (ID-14283 and ID-14326) and two major non-active metabolites (ID-20219 and ID-20220).
 Based on in vitro studies, lurasidone hydrochloride is not a substrate of CYP1A1, CYP1A2, CYP2A6, CYP4A11, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP2E1 enzymes.

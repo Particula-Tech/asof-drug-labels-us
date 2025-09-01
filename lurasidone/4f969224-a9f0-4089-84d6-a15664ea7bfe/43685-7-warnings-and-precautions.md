@@ -301,7 +301,7 @@ Table 13: Mean Change in Weight (kg) from Baseline in the Bipolar Depression Stu
 
 Pediatric Patients (6 to 17 years)
 
-In a long-term, open-label study that enrolled pediatric patients with schizophrenia, bipolar depression, or autistic disorder, from three short-term, placebo-controlled trials, 54% (378/701) received lurasidone for 104 weeks.
+In a long-term, open-label study that enrolled pediatric patients with schizophrenia, bipolar depression, or autistic disorder from three short-term, placebo-controlled trials, 54% (378/701) received lurasidone for 104 weeks.
 The mean increase in weight from open-label baseline to Week 104 was 5.85 kg.
 To adjust for normal growth, z-scores were derived (measured in standard deviations [SD]), which normalize for the natural growth of children and adolescents by comparisons to age- and sex-matched population standards.
 A z-score change <0.5 SD is considered not clinically significant.
@@ -318,7 +318,7 @@ Long-standing hyperprolactinemia, when associated with hypogonadism, may lead to
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in a carcinogenicity study conducted with lurasidone in rats and mice [see Nonclinical Toxicology (13)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 Schizophrenia Adults In short-term, placebo-controlled schizophrenia studies, the median change from baseline to endpoint in prolactin levels for lurasidone hydrochloride-treated patients was +0.4 ng/mL and was -1.9 ng/mL in the placebo-treated patients.
 The median change from baseline to endpoint for males was +0.5 ng/mL and for females was -0.2 ng/mL.
@@ -454,7 +454,7 @@ Bipolar Depression Adults Monotherapy
 In the adult short-term, flexible-dose, placebo-controlled monotherapy bipolar depression study, there were no reported adverse events of orthostatic hypotension and syncope.
 Orthostatic hypotension, as assessed by vital signs, occurred with a frequency of 0.6% with lurasidone hydrochloride tablets 20 to 60 mg and 0.6% with lurasidone hydrochloride tablets 80 to 120 mg compared to 0% with placebo.
 Adjunctive Therapy with Lithium or Valproate In the adult short-term, flexible-dose, placebo-controlled adjunctive therapy bipolar depression therapy studies, there were no reported adverse events of orthostatic hypotension and syncope.
-Orthostatic hypotension, as assessed by vital signs, occurred with a frequency of 1.1% with lurasidone hydrochloride tablets 20 mg to 120 mg compared to 0.9% with placebo.
+Orthostatic hypotension, as assessed by vital signs, occurred with a frequency of 1.1% with lurasidone hydrochloride tablets 20 to 120 mg compared to 0.9% with placebo.
 
 Pediatric Patients (10 to 17 years) In the 6-week, placebo-controlled bipolar depression study in pediatric patients 10 to 17 years, there were no reported adverse events of orthostatic hypotension or syncope.
 Orthostatic hypotension, as assessed by vital signs, occurred with a frequency of 1.1% with lurasidone hydrochloride 20 to 80 mg/day, compared to 0.6% with placebo.

@@ -3,7 +3,7 @@
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Suicidal Thoughts and Behavior Advise patients and caregivers to look for the emergence of suicidality, especially early during treatment and when the dosage is adjusted up or down and instruct them to report such symptoms to the healthcare provider [see Boxed Warning, Warnings and Precautions (5.2)].
 Neuroleptic Malignant Syndrome Counsel patients about a potentially fatal adverse reaction referred to as Neuroleptic Malignant Syndrome (NMS).
-Advise patients, family members, or caregivers to contact healthcare provider or to report to the emergency room if they experience signs and symptoms of NMS [see Warnings and Precautions (5.4)].
+Advise patients, family members, or caregivers to contact the healthcare provider or to report to the emergency room if they experience signs and symptoms of NMS [see Warnings and Precautions (5.4)].
 Tardive Dyskinesia Counsel patients on the signs and symptoms of tardive dyskinesia and to contact their healthcare provider if these abnormal movements occur [see Warnings and Precautions (5.5)].
 Metabolic Changes Educate patients about the risk of metabolic changes, how to recognize symptoms of hyperglycemia and diabetes mellitus, and the need for specific monitoring, including blood glucose, lipids, and weight [see Warnings and Precautions (5.6)].
 Hyperprolactinemia Counsel patients on signs and symptoms of hyperprolactinemia that may be associated with chronic use of lurasidone hydrochloride.
@@ -18,4 +18,4 @@ Pregnancy Advise patients that lurasidone hydrochloride tablets may cause extrap
 Advise patients to notify their healthcare provider with a known or suspected pregnancy [see Use in Specific Populations (8.1)].
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to lurasidone hydrochloride tablets during pregnancy [see Use in Specific Populations (8.1)].
 
-Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA Distributed by: Novadoz Pharmaceuticals LLC Piscataway, NJ 08854-3714 Issued on: January 2023
+Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA Distributed by: Novadoz Pharmaceuticals LLC Piscataway, NJ 08854-3714 Revised: 08/2025

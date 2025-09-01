@@ -392,7 +392,7 @@ No subject discontinued the clinical study due to dystonic events.
 
 Adjunctive Therapy with Lithium or Valproate
 
-In the adult short-term, flexible-dose, placebo-controlled adjunctive therapy bipolar depression studies, dystonia occurred in 1.1% of lurasidone hydrochloride-treated subjects (20 mg to 120 mg) compared to 0.6% of subjects receiving placebo.
+In the adult short-term, flexible-dose, placebo-controlled adjunctive therapy bipolar depression studies, dystonia occurred in 1.1% of lurasidone hydrochloride-treated subjects (20 to 120 mg) compared to 0.6% of subjects receiving placebo.
 No subject discontinued the clinical study due to dystonic events.
 
 Pediatric Patients (10 to 17 years)
