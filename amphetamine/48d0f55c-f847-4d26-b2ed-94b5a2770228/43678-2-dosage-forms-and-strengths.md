@@ -1,0 +1,13 @@
+# 3 DOSAGE FORMS AND STRENGTHS
+
+Amphetamine extended-release orally disintegrating tablets 3.1 mg: round, orange to light orange mottled (debossed A1 on one side)
+
+Amphetamine extended-release orally disintegrating tablets 6.3 mg: round, orange to light orange mottled (debossed A2 on one side)
+
+Amphetamine extended-release orally disintegrating tablets 9.4 mg: round, orange to light orange mottled (debossed A3 on one side)
+
+Amphetamine extended-release orally disintegrating tablets 12.5 mg: round, orange to light orange mottled (debossed A4 on one side)
+
+Amphetamine extended-release orally disintegrating tablets 15.7 mg: round, orange to light orange mottled (debossed A5 on one side)
+
+Amphetamine extended-release orally disintegrating tablets 18.8 mg: round, orange to light orange mottled (debossed A6 on one side)

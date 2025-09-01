@@ -1,0 +1,12 @@
+# 11 DESCRIPTION
+
+Amphetamine extended-release orally disintegrating tablets contains a 3 to 1 ratio of d- to l-amphetamine, a central nervous system stimulant.
+
+The labeled strengths reflect the amount of amphetamine base in amphetamine extended-release orally disintegrating tablets whereas the strengths of the (mixed salts of a single-entity amphetamine) products are in terms of the amount of amphetamine salts.
+Table 1 in Section 2.5 details the equivalent amounts of active ingredient in these products.
+
+Structural Formula:
+
+Amphetamine extended-release orally disintegrating tablets is an extended-release orally disintegrating tablet containing 50% immediate-release and 50% delayed-release amphetamine for once daily dosing.
+
+Amphetamine extended-release orally disintegrating tablets also contains the following inactive ingredients: Mannitol, Crospovidone, Microcrystalline Cellulose, Methacrylic Acid, Sodium Polystyrene Sulfonate, Citric Acid, Fructose, Orange Flavor, Colloidal Silicon Dioxide, Triethyl Citrate, Sucralose, Lake Blend Orange, Magnesium Stearate, and Polyethylene Glycol 3350.
