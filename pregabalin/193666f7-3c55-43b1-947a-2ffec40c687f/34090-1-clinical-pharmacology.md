@@ -46,8 +46,16 @@ For patients on hemodialysis, dosing must be modified [see Dosage and Administra
 Elderly Pregabalin oral clearance tended to decrease with increasing age.
 This decrease in pregabalin oral clearance is consistent with age-related decreases in CLcr.
 Reduction of pregabalin dose may be required in patients who have age-related compromised renal function [see Dosage and Administration (2.7)].
-Pediatric Pharmacokinetics Pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules and Oral Solution products.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+Pediatric Pharmacokinetics Pediatric Patients (3 months to less than 17 years of age)
+
+Pregabalin pharmacokinetics were evaluated in 358 pediatric patients 3 months to less than 17 years of age with partial-onset seizures at dose levels of 2.5, 5, 10, and 15 mg/kg/day after single and multiple oral administration of pregabalin.
+Following oral administration, pregabalin reaches peak plasma concentration at 0.5 hours to 2 hours in the fasted state.
+Both apparent clearance (CL/F) and apparent volume of distribution increase as body weight increases.
+A weight-based dosing regimen is necessary to achieve pregabalin exposures in pediatric patients 1 month to less than 17 years of age similar to those observed in adults treated for partial-onset seizures at effective doses [see Dosage and Administration (2.4)].
+The mean t½ is 3 to 4 hours in pediatric subjects up to 6 years of age, and 4 to 6 hours in those 7 years of age and older.
+Pregabalin CL/F is nearly proportional to CLcr (mL/min).
+The relationship is similar in pediatric and adult subjects.
+When normalized per body weight, CL/F (mL/min/kg) in pediatric subjects weighing less than 30 kg is approximately 40% higher in comparison to subjects weighing greater than or equal to 30 kg [see Dosage and Administration (2.4)].
 Drug Interactions In Vitro Studies Pregabalin, at concentrations that were, in general, 10-times those attained in clinical trials, does not inhibit human CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A4 enzyme systems.
 In vitro drug interaction studies demonstrate that pregabalin does not induce CYP1A2 or CYP3A4 activity.
 Therefore, an increase in the metabolism of coadministered CYP1A2 substrates (e.g. theophylline, caffeine) or CYP 3A4 substrates (e.g., midazolam, testosterone) is not anticipated.
@@ -55,7 +63,7 @@ In Vivo Studies The drug interaction studies described in this section were cond
 Gabapentin The pharmacokinetic interactions of pregabalin and gabapentin were investigated in 12 healthy subjects following concomitant single-dose administration of 100-mg pregabalin and 300-mg gabapentin and in 18 healthy subjects following concomitant multiple-dose administration of 200-mg pregabalin every 8 hours and 400-mg gabapentin every 8 hours.
 Gabapentin pharmacokinetics following single-and multiple-dose administration were unaltered by pregabalin coadministration.
 The extent of pregabalin absorption was unaffected by gabapentin coadministration, although there was a small reduction in rate of absorption.
-Oral Contraceptive Pregabalin coadministration (200 mg three times a day) had no effect on the steady-state pharmacokinetics of norethindrone and ethinyl estradiol (1 mg/35 μg, respectively) in healthy subjects.
+Oral Contraceptive Pregabalin coadministration (200 mg three times a day) had no effect on the steady-state pharmacokinetics of norethindrone and ethinyl estradiol (1 mg/35 mcg, respectively) in healthy subjects.
 Lorazepam Multiple-dose administration of pregabalin (300 mg twice a day) in healthy subjects had no effect on the rate and extent of lorazepam single-dose pharmacokinetics and single-dose administration of lorazepam (1 mg) had no effect on the steady-state pharmacokinetics of pregabalin.
 Oxycodone Multiple-dose administration of pregabalin (300 mg twice a day) in healthy subjects had no effect on the rate and extent of oxycodone single-dose pharmacokinetics.
 Single-dose administration of oxycodone (10 mg) had no effect on the steady-state pharmacokinetics of pregabalin.

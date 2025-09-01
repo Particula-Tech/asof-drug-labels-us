@@ -20,7 +20,7 @@ Bottles of 1000: NDC 72205-012-99
 
 Unit-Dose Blister Packages of 100: NDC 72205-012-06
 
-75 mg capsules
+75 mg capsules:
 
 White to off White color granular powder filled in Size "4" hard gelatin capsules with White Opaque body imprinted "PGBN" and light blue Opaque cap imprinted "75" with black ink available in:
 

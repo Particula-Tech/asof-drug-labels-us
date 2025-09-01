@@ -18,7 +18,8 @@ Discontinue pregabalin immediately in patients with these symptoms.
 
 ## 5.3 Suicidal Behavior and Ideation
 
-Antiepileptic drugs (AEDs), including pregabalin, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Antiepileptic drugs (AEDs), including pregabalin, the active ingredient in pregabalin, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Suicidal behavior and ideation have also been reported in patients after discontinuation of pregabalin [see Warnings and Precautions (5.4)].
 Monitor patients treated with any AED for any indication for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono-and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
@@ -43,34 +44,34 @@ Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 | Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
-Anyone considering prescribing pregabalin capsules or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
+Anyone considering prescribing pregabalin or any other AED must balance the risk of suicidal thoughts or behavior with the risk of untreated illness.
 Epilepsy and many other illnesses for which AEDs are prescribed are themselves associated with morbidity and mortality and an increased risk of suicidal thoughts and behavior.
 Should suicidal thoughts and behavior emerge during treatment, the prescriber needs to consider whether the emergence of these symptoms in any given patient may be related to the illness being treated.
 
-## 5.4 Respiratory Depression
+## 5.4 Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation
+
+As with all antiepileptic drugs (AEDs), withdraw pregabalin gradually to minimize the potential of increased seizure frequency in patients with seizure disorders.
+Following abrupt or rapid discontinuation of pregabalin, some patients reported symptoms including insomnia, nausea, headache, anxiety, hyperhidrosis, and diarrhea [see Adverse Reactions (6.2), Drug Abuse and Dependence (9.3)].
+Suicidal behavior and ideation have also been reported in patients after discontinuation of pregabalin [see Warnings and Precautions (5.3)].
+If pregabalin is discontinued, taper the drug gradually over a minimum of 1 week rather than discontinue the drug abruptly.
+
+## 5.5 Respiratory Depression
 
 There is evidence from case reports, human studies, and animal studies associating pregabalin with serious, life-threatening, or fatal respiratory depression when co-administered with central nervous system (CNS) depressants, including opioids, or in the setting of underlying respiratory impairment.
 When the decision is made to co-prescribe pregabalin with another CNS depressant, particularly an opioid, or to prescribe pregabalin to patients with underlying respiratory impairment, monitor patients for symptoms of respiratory depression and sedation, and consider initiating pregabalin at a low dose.
 The management of respiratory depression may include close observation, supportive measures, and reduction or withdrawal of CNS depressants (including pregabalin).
 There is more limited evidence from case reports, animal studies, and human studies associating pregabalin with serious respiratory depression, without co-administered CNS depressants or without underlying respiratory impairment.
 
-## 5.5 Dizziness and Somnolence
+## 5.6 Dizziness and Somnolence
 
 Pregabalin may cause dizziness and somnolence.
 Inform patients that pregabalin-related dizziness and somnolence may impair their ability to perform tasks such as driving or operating machinery [see Patient Counseling Information (17)].
-
 In the pregabalin controlled trials in adult patients, dizziness was experienced by 30% of pregabalin-treated patients compared to 8% of placebo-treated patients; somnolence was experienced by 23% of pregabalin-treated patients compared to 8% of placebo-treated patients.
 Dizziness and somnolence generally began shortly after the initiation of pregabalin therapy and occurred more frequently at higher doses.
 Dizziness and somnolence were the adverse reactions most frequently leading to withdrawal (4% each) from controlled studies.
 In pregabalin-treated patients reporting these adverse reactions in short-term, controlled studies, dizziness persisted until the last dose in 30% and somnolence persisted until the last dose in 42% of patients [see Drug Interactions (7)].
-Pediatric use information is approved for Pfizer’s LYRICA (pregabalin) Capsules and Oral Solution products.
-However, due to Pfizer’s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
-
-## 5.6 Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation
-
-As with all antiepileptic drugs (AEDs), withdraw pregabalin gradually to minimize the potential of increased seizure frequency in patients with seizure disorders.
-Following abrupt or rapid discontinuation of pregabalin, some patients reported symptoms including insomnia, nausea, headache, anxiety, hyperhidrosis, and diarrhea.
-If pregabalin is discontinued, taper the drug gradually over a minimum of 1 week rather than discontinue the drug abruptly.
+In the pregabalin controlled trials in pediatric patients 4 to less than 17 years of age and 1 month to less than 4 years of age for the treatment of partial-onset seizures, somnolence was reported in 21% and 15% of pregabalin-treated patients compared to 14% and 9% of placebo-treated patients, respectively, and occurred more frequently at higher doses.
+For patients 1 month to less than 4 years of age, somnolence includes related terms lethargy, sluggishness, and hypersomnia.
 
 ## 5.7 Peripheral Edema
 
@@ -91,12 +92,12 @@ Because there are limited data on congestive heart failure patients with New Yor
 Pregabalin treatment may cause weight gain.
 In pregabalin controlled clinical trials in adult patients of up to 14 weeks, a gain of 7% or more over baseline weight was observed in 9% of pregabalin-treated patients and 2% of placebo-treated patients.
 Few patients treated with pregabalin (0.3%) withdrew from controlled trials due to weight gain.
-Pregabalin associated weight gain was related to dose and duration of exposure, but did not appear to be associated with baseline BMI, gender, or age.
+Pregabalin associated weight gain was related to dose and duration of exposure but did not appear to be associated with baseline BMI, gender, or age.
 Weight gain was not limited to patients with edema [see Warnings and Precautions (5.7)].
 Although weight gain was not associated with clinically important changes in blood pressure in short-term controlled studies, the long-term cardiovascular effects of pregabalin-associated weight gain are unknown.
 Among diabetic patients, pregabalin-treated patients gained an average of 1.6 kg (range: -16 to 16 kg), compared to an average 0.3 kg (range: -10 to 9 kg) weight gain in placebo patients.
-In a cohort of 333 diabetic patients who received Pregabalin for at least 2 years, the average weight gain was 5.2 kg.
-While the effects of pregabalin-associated weight gain on glycemic control have not been systematically assessed, in controlled and longer-term open label clinical trials with diabetic patients, Pregabalin treatment did not appear to be associated with loss of glycemic control (as measured by HbA1C).
+In a cohort of 333 diabetic patients who received pregabalin for at least 2 years, the average weight gain was 5.2 kg.
+While the effects of pregabalin-associated weight gain on glycemic control have not been systematically assessed, in controlled and longer-term open label clinical trials with diabetic patients, pregabalin treatment did not appear to be associated with loss of glycemic control (as measured by HbA1C).
 
 ## 5.9 Tumorigenic Potential
 
@@ -135,14 +136,14 @@ Discontinue treatment with pregabalin if myopathy is diagnosed or suspected or i
 
 Pregabalin treatment was associated with a decrease in platelet count.
 Pregabalin-treated subjects experienced a mean maximal decrease in platelet count of 20 × 103/μL, compared to 11 × 103/μL in placebo patients.
-In the overall database of controlled trials in adult patients, 2% of placebo patients and 3% of Pregabalin patients experienced a potentially clinically significant decrease in platelets, defined as 20% below baseline value and less than 150 × 103/μL.
-A single Pregabalin-treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/ μL.
-In randomized controlled trials, Pregabalin was not associated with an increase in bleeding-related adverse reactions.
+In the overall database of controlled trials in adult patients, 2% of placebo patients and 3% of pregabalin patients experienced a potentially clinically significant decrease in platelets, defined as 20% below baseline value and less than 150 × 103/μL.
+A single pregabalin-treated subject developed severe thrombocytopenia with a platelet count less than 20 × 103/ μL.
+In randomized controlled trials, pregabalin was not associated with an increase in bleeding-related adverse reactions.
 
 ## 5.13 PR Interval Prolongation
 
 Pregabalin treatment was associated with PR interval prolongation.
-In analyses of clinical trial ECG data in adult patients, the mean PR interval increase was 3-6 msec at pregabalin doses greater than or equal to 300 mg/day.
+In analyses of clinical trial ECG data in adult patients, the mean PR interval increase was 3 to 6 msec at pregabalin doses greater than or equal to 300 mg/day.
 This mean change difference was not associated with an increased risk of PR increase greater than or equal to 25% from baseline, an increased percentage of subjects with on-treatment PR greater than 200 msec, or an increased risk of adverse reactions of second or third degree AV block.
 
 Subgroup analyses did not identify an increased risk of PR prolongation in patients with baseline PR prolongation or in patients taking other PR prolonging medications.
