@@ -78,6 +78,12 @@ Cipla
 
 NDC 69097-168-53 Rx Only
 
+Arformoterol Tartrate
+
+Inhalation Solution
+
+15mcg*/2mL
+
 *Potency expressed as arformoterol
 
 15 mcg* / 2 mL

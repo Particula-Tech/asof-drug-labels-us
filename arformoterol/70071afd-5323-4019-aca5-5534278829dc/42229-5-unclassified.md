@@ -53,9 +53,9 @@ Manufactured by:
 
 Cipla Limited,
 
-Indore SEZ,
+Indore SEZ-454775,
 
-Pithampur, INDIA
+MP, India
 
 Manufactured for:
 
@@ -65,4 +65,4 @@ Cipla USA, Inc.
 
 Suite 300, Warren, NJ 07059
 
-Revised: 1/2021
+Revised: 1/2024

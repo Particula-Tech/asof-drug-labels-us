@@ -153,9 +153,9 @@ Manufactured by:
 
 Cipla Limited,
 
-Indore SEZ,
+Indore SEZ-454775,
 
-Pithampur, INDIA
+MP, India
 
 Manufactured for:
 
@@ -169,4 +169,4 @@ To report side effects, call 1-866-604-3268
 
 This Patient Information has been approved by the Food and Drug Administration.
 
-Revised: 09/2021
+Revised: 1/2024
