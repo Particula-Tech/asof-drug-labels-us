@@ -1,22 +1,24 @@
 # PRINCIPAL DISPLAY PANEL - 75 mg Tablet Bottle Label
 
-480 Tablets Rx only
-
-NDC 59676-563-01
+NDC 59676- 563-01
 
 PREZISTA ® (darunavir) tablets
 
 75 mg
 
-ALERT Find out about medicines that should NOT be taken with PREZISTA.
+ALERT Find out about medicines that should NOT be taken with PREZISTA
 
-janssen
+Rx only
+
+480 Tablets
+
+Johnson
+
+&Johnson
 
 # PRINCIPAL DISPLAY PANEL - 150 mg Tablet Bottle Label
 
-240 Tablets Rx only
-
-NDC 59676-564-01
+NDC 59676- 564-01
 
 PREZISTA ® (darunavir) tablets
 
@@ -24,13 +26,17 @@ PREZISTA ® (darunavir) tablets
 
 ALERT Find out about medicines that should NOT be taken with PREZISTA.
 
-janssen
+Rx only
+
+240 Tablets
+
+Johnson
+
+&Johnson
 
 # PRINCIPAL DISPLAY PANEL - 600 mg Tablet Bottle Label
 
-60 Tablets Rx only
-
-NDC 59676-562-01
+NDC 59676- 562-01
 
 PREZISTA ® (darunavir) tablets
 
@@ -38,13 +44,17 @@ PREZISTA ® (darunavir) tablets
 
 ALERT Find out about medicines that should NOT be taken with PREZISTA.
 
-janssen
+Rx only
+
+60 Tablets
+
+Johnson
+
+&Johnson
 
 # PRINCIPAL DISPLAY PANEL - 800 mg Tablet Bottle Label
 
-30 Tablets Rx only
-
-NDC 59676-566-30
+NDC 59676- 566-30
 
 PREZISTA ® (darunavir) tablets
 
@@ -52,30 +62,40 @@ PREZISTA ® (darunavir) tablets
 
 ALERT Find out about medicines that should NOT be taken with PREZISTA.
 
-janssen
+Rx only
+
+30 Tablets
+
+Johnson
+
+&Johnson
 
 # PRINCIPAL DISPLAY PANEL - 200 mL Bottle Carton
 
-200 mL NDC 59676-565-01
+NDC 59676- 565-01
 
 PREZISTA ® (darunavir) Oral Suspension
 
 100 mg per mL
 
-Store at 25°C (77°F); with excursions permitted to 15°-30°C (59°-86°F).
+DISPENSING:For information concerning
 
-Do not refrigerate or freeze.
+proper usage of the oral dosing syringe, see accompanying PATIENT INFORMATION
 
-Shake well before each usage.
+and INSTRUCTIONS FOR USE.
 
-RECOMMENDED DOSAGE:See Prescribing Information
+ALERT
 
-Dispensing:For information concerning proper usage of the oral dosing syringe, see accompanying patient instructions.
+Find out about medicines
 
-Keep out of reach of children.
+that should NOT be taken
 
-ALERT Find out about medicines that should NOT be taken with PREZISTA.
+with PREZISTA.
 
 Rx only
 
-janssen
+200 mL
+
+Johnson
+
+&Johnson
