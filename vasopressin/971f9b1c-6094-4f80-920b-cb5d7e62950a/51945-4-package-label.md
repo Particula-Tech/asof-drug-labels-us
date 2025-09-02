@@ -27,3 +27,31 @@ Vasopressin Injection, USP
 20 Units per mL For Intravenous Infusion Must be diluted prior to use Store between 2°C and 8°C (36°F and 46°F).
 Do not store above 25°C (77°F).
 1 mL Single Dose Vial
+
+Carton Label:
+
+NDC 68083-663-10
+
+Vasopressin in 5% Dextrose Injection
+
+40 Units per 100 mL (0.4 Units per mL)
+
+For Intravenous Infusion
+
+Ready To Use
+
+100 mL x 10 Single-Dose Vials
+
+Container Label:
+
+NDC 68083-663-01
+
+Vasopressin in 5% Dextrose Injection
+
+40 Units per 100 mL (0.4 Units per mL)
+
+For Intravenous Infusion
+
+Ready To Use
+
+100 mL Single-Dose Vial

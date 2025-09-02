@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment Of Fertility
+## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 No formal carcinogenicity or fertility studies with vasopressin have been conducted in animals.
 Vasopressin was found to be negative in the in vitro bacterial mutagenicity (Ames) test and the in vitro Chinese hamster ovary (CHO) cell chromosome aberration test.

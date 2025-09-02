@@ -23,6 +23,7 @@ There is no evidence for tachyphylaxis or tolerance to the pressor effect of vas
 
 Vasopressin plasma concentrations increase linearly with increasing infusion rates from 10 to 200 μU/kg/min.
 Steady state plasma concentrations are achieved after 30 minutes of continuous intravenous infusion.
+
 Distribution
 
 Vasopressin does not appear to bind plasma protein.
@@ -43,9 +44,7 @@ During the first trimester of pregnancy, the clearance is only slightly increase
 However, by the third trimester the clearance of vasopressin is increased about 4-fold and at term up to 5-fold.
 After delivery, the clearance of vasopressin returns to preconception baseline within two weeks.
 
-Drug Interactions
-
-Indomethacin more than doubles the time to offset for vasopressin’s effect on peripheral vascular resistance and cardiac output in healthy subjects [see Drug Interactions (7.2)].
+Drug Interactions Indomethacin more than doubles the time to offset for vasopressin’s effect on peripheral vascular resistance and cardiac output in healthy subjects [see Drug Interactions (7.2)].
 
 The ganglionic blocking agent tetra-ethylammonium increases the pressor effect of vasopressin by 20% in healthy subjects [see Drug Interactions (7.3)].
 

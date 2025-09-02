@@ -12,9 +12,8 @@ Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed 
 
 ## 7.3 Ganglionic Blocking Agents
 
-Use with ganglionic blocking agents may increase the effect of vasopressin injection on mean arterial blood pressure.
-Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed.
-[see Clinical Pharmacology (12.3)].
+Use with ganglionic blocking agents may increase the effect of vasopressin injection, on mean arterial blood pressure.
+Hemodynamic monitoring is recommended; adjust the dose of vasopressin as needed [see Clinical Pharmacology (12.3)].
 
 ## 7.4 Drugs Suspected of Causing SIADH
 

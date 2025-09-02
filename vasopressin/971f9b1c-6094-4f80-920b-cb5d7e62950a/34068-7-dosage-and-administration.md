@@ -17,6 +17,8 @@ Table 1 Preparation of diluted solutions
 | No | 0.1 units/mL | 2.5 mL (50 units) | 500 mL |
 | Yes | 1 unit/mL | 5 mL (100 units) | 100 mL |
 
+Vasopressin Injection Premixed Solution, 40 units/100 mL (0.4 units/mL) This product does not require further dilution prior to administration.
+
 ## 2.2 Administration
 
 In general, titrate to the lowest dose compatible with a clinically acceptable response.
