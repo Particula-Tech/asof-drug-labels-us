@@ -3,8 +3,9 @@
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Storage and Disposal
 
-Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store tramadol hydrochloride extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home [see Warnings and Precautions (5.1), Drug Abuse And Dependence (9.3)].
+Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store tramadol hydrochloride extended-release tablets securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
 Inform patients that leaving tramadol hydrochloride extended-release tablets unsecured can pose a deadly risk to others in the home.
+[see Warnings and Precautions (5.1), Drug Abuse And Dependence (9.2)]
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Inform patients that medicine take-back options are the preferred way to safely dispose of most types of unneeded medicines.
@@ -22,31 +23,29 @@ Instruct patients not to share tramadol hydrochloride extended-release tablets w
 Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting tramadol hydrochloride extended-release tablets or when the dosage is increased, and that it can occur even at recommended dosages.
 Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.2)].
 
-Accidental Ingestion Inform patients that accidental ingestion, especially by children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
-
 Interactions with Benzodiazepines and Other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if tramadol hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
-Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with tramadol hydrochloride extended-release tablets.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration ((2.2), Warnings and Precautions (5.2)].
-Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
-Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
-If naloxone is prescribed, also advise patients and caregivers:
+Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
 
-- How to treat with naloxone in the event of an opioid overdose
-- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
-- To read the Patient Information (or other educational material) that will come with their naloxone.
-  Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
+Discuss with the patient the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
+
+Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+
+Explain to patients and caregivers that effects of opioid overdose reversal agents like naloxone and nalmefene are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if an opioid overdose reversal agent is administered [see Overdosage (10)].
+
+Advise patients and caregivers: • how to treat with the overdose reversal agent in the event of an opioid overdose • to tell family and friends about the opioid overdose reversal agent, and to keep it in a place where family and friends can access it in an emergency • to read the Patient Information (or other educational material) that will come with their opioid overdose reversal agent.
+Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children Advise caregivers that tramadol hydrochloride extended-release tablets are contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
 Advise caregivers of children 12 to 18 years of age receiving tramadol hydrochloride extended-release tablets to monitor for signs of respiratory depression [see Warnings and Precautions (5.6)].
 
 Hyperalgesia and Allodynia
 
-Inform patients and caregivers not to increase opioid dosage without first consulting a clinician.
-Advise patients to seek medical attention if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.8); Adverse Reactions (6.2)].
+Advise patients to inform their healthcare professional if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.8); Adverse Reactions (6.2)].
 
 Serotonin Syndrome Inform patients that tramadol could cause a rare but potentially life-threatening condition, particularly during concomitant use with serotonergic drugs.
-Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
+Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop after discharge from the hospital.
 Instruct patients to inform their healthcare provider if they are taking, or plan to take serotonergic medications [see Warnings and Precautions (5.9), Drug Interactions (7)].
 Seizures Inform patients that tramadol hydrochloride extended-release tablets may cause seizures with concomitant use of serotonergic agents (including SSRIs, SNRIs, and triptans) or drugs that significantly reduce the metabolic clearance of tramadol [see Warnings and Precautions (5.10)].
 MAOI Interaction Inform patients not to take tramadol hydrochloride extended-release tablets while using any drugs that inhibit monoamine oxidase.
@@ -68,7 +67,7 @@ Advise patients not to perform such tasks until they know how they will react to
 
 Constipation
 
-Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.1)].
+Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
 
 Adrenal Insufficiency
 

@@ -29,7 +29,7 @@ Neonatal seizures, neonatal withdrawal syndrome, fetal death and stillbirth have
 Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Tramadol hydrochloride extended-release tablets are not recommended for use in pregnant women during or immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including tramadol hydrochloride extended-release tablets, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -64,7 +64,7 @@ Tramadol hydrochloride extended-release tablets are not recommended for obstetri
 
 Tramadol and its metabolite, O-desmethyl tramadol (M1), are present in human milk.
 There is no information on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
-The M1 metabolite is more potent than tramadol in mu opioid receptor binding [seeClinical Pharmacology (12.1)].
+The M1 metabolite is more potent than tramadol in mu opioid receptor binding [see Clinical Pharmacology (12.1)].
 Published studies have reported tramadol and M1 in colostrum with administration of tramadol to nursing mothers in the early post-partum period.
 Women who are ultra-rapid metabolizers of tramadol may have higher than expected serum levels of M1, potentially leading to higher levels of M1 in breast milk that can be dangerous in their breastfed infants.
 In women with normal tramadol metabolism, the amount of tramadol secreted into human milk is low and dose-dependent.
@@ -107,10 +107,10 @@ Of those subjects, 156 were 75 years of age and older.
 In general, higher incidence rates of adverse events were observed for patients older than 65 years of age compared with patients 65 years and younger, particularly for the following adverse events: constipation, fatigue, weakness, postural hypotension and dyspepsia.
 For this reason, tramadol hydrochloride extended-release tablets should be used with caution in patients over 65 years of age, and with even greater caution in patients older than 75 years of age [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
-Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioidtolerant or when opioids were co-administered with other agents that depress respiration.
+Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid tolerant or when opioids were co-administered with other agents that depress respiration.
 Titrate the dosage of tramadol hydrochloride extended-release tablets slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.12)].
 Tramadol is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
 
 ## 8.6 Hepatic Impairment
 

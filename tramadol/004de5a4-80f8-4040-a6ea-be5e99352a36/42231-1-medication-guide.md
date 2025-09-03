@@ -15,8 +15,8 @@ Important information about tramadol hydrochloride extended-release tablets:
 
 - Get emergency help or call 911 right away if you take too much tramadol hydrochloride extended-release tablets (overdose).
   When you first start taking tramadol hydrochloride extended-release tablets, when your dose is changed, or if you take too much (overdose), serious or life-threatening breathing problems that can lead to death may occur.
-  Talk to your healthcare provider about naloxone, a medicine for the emergency treatment of an opioid overdose.
-- Taking tramadol hydrochloride extended-release tablets with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
+  Ask your healthcare provider about medicines like naloxone or nalmefene that can be used in an emergency to reverse an opioid overdose.
+- Taking tramadol hydrochloride extended-release tablets with other opioid medicines, benzodiazepines, gabapentinoids (gabapentin or pregabalin), alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
 - Never give anyone else your tramadol hydrochloride extended-release tablets.
   They could die from taking them.
   Selling or giving away tramadol hydrochloride extended-release tablets is against the law.
@@ -57,7 +57,7 @@ When taking tramadol hydrochloride extended-release tablets:
 - Do not change your dose.
   Take tramadol hydrochloride extended-release tablets exactly as prescribed by your healthcare provider.
   Use the lowest dose possible for the shortest time needed.
-- Take your prescribed dose once a day at the same time every day.
+- Take your prescribed dose once a day at the same time every day as needed for pain.
   Do not take more than your prescribed dose.
   If you miss a dose, take your next dose at your usual time.
 - Swallow tramadol hydrochloride extended-release tablet whole.
@@ -107,6 +107,4 @@ Halol-Baroda Highway,
 
 Halol-389 350, Gujarat, India.
 
-ISS: 11/2023
-
-5238818
+Revised: 08/2025

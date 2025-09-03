@@ -29,7 +29,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Tramadol causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 Effects on the Cardiovascular System
 
 Tramadol produces peripheral vasodilation, which may result in orthostatic hypotension or syncope.
@@ -60,6 +60,7 @@ In opioid-tolerant patients, the situation may be altered by the development of 
 
 The analgesic activity of tramadol is due to both parent drug and the M1 metabolite.
 Tramadol hydrochloride extended-release tablet is administered as a racemate and both the [-] and [+] forms of both tramadol and M1 are detected in the circulation.
+
 The pharmacokinetics of tramadol hydrochloride extended-release tablets are approximately dose-proportional over a 100 to 400 mg dose range in healthy subjects.
 The observed tramadol AUC values for the 400 mg dose were 26% higher than predicted based on the AUC values for the 200 mg dose.
 The clinical significance of this finding has not been studied and is not known.
@@ -83,7 +84,7 @@ Mean (%CV) Steady-State Pharmacokinetic Parameter Values (n=32)
 | Tmax (h) | 12 (27) | 1.5 (42) | 15 (27) | 1.9 (57) |
 | % Fluctuation | 61 (57) | 59 (35) | 34 (72) | 26 (47) |
 
-AUC0-24: Area Under the Curve in a 24-hour dosing interval; Cmax: Peak Concentration in a 24- hour dosing interval; Cmin: Trough Concentration in a 24-hour dosing interval; Tmax: Time to Peak Concentration Figure 1: Mean Steady-State Tramadol (a) and M1 (b) Plasma Concentrations on Day 8 Post Dose after Administration of 200 mg Tramadol Hydrochloride Extended-Release Tablets Once-Daily and 50 mg Tramadol IR Tablets Every 6 Hours.
+AUC0-24: Area Under the Curve in a 24-hour dosing interval; Cmax: Peak Concentration in a 24- hour dosing interval; Cmin: Trough Concentration in a 24-hour dosing interval; Tmax: Time to Peak Concentration Figure 1: Mean Steady-State Tramadol (a) and M1 (b) Plasma Concentrations on Day 8 Post Dose after Administration of 200 mg Tramadol Hydrochloride Extended-Release Tablets Once-Daily and 50 mg Tramadol IR Tablets Every 6 Hours
 
 Food Effects
 
