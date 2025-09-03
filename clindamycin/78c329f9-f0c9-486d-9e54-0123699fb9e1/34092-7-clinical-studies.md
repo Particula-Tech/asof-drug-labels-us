@@ -38,7 +38,7 @@ Table 3: Efficacy Results at Week 12 in Studies 1 and 2
 | Total Lesion Count (% reduction from baseline) |  |  |  |  |
 | Mean | 41% | 34% | 34% | 20% |
 
-In Study 3, ZIANA Gel was compared to clindamycin gel in a total of 2010 patients with moderate or severe acne vulgaris (see Table 3).
+In Study 3, ZIANA Gel was compared to clindamycin gel in a total of 2010 patients with moderate or severe acne vulgaris (see TABLE 3).
 As with Studies 1 and 2, the co-primary endpoints were mean percent reduction in lesion counts (inflammatory, non-inflammatory and total) and the EGS score.
 In Study 3, success on the EGS score was assessed by the percentage of subjects who had at least 2 grades of improvement from Baseline to Week 12.
 

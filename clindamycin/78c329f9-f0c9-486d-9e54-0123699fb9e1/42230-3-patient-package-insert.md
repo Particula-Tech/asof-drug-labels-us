@@ -25,8 +25,8 @@ Tell your doctor:
 - •if you are breastfeeding.
   ZIANA Gel may pass through your milk and may harm your baby.
 - •about all the medicines and skin products you use:
-  - •ZIANA Gel should not be used with erythromycin-containing products.
-  - •Avoid medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and skin products that contain alcohol, astringents, spices or lime.
+  - oZIANA Gel should not be used with erythromycin-containing products.
+  - oAvoid medicated or abrasive soaps and cleansers, soaps and cosmetics that have a strong drying effect, and skin products that contain alcohol, astringents, spices or lime.
     These products may cause increased skin irritation if used with ZIANA Gel.
 
 How should I use ZIANA Gel?
