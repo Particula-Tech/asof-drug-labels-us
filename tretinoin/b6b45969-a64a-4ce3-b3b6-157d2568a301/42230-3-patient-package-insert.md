@@ -107,5 +107,5 @@ All other product/brand names and/or logos are trademarks of the respective owne
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-1. Rev.
-   02/2024 9549701
+- Rev.
+  02/2024 9549701
