@@ -1,6 +1,6 @@
 # CLINICAL STUDIES
 
-In one 12-week multicenter, randomized, evaluator-blind, vehicle-controlled, parallel comparison clinical trial in which patients used CLINDAGEL(clindamycin phosphate topical gel, 1%) once daily or the vehicle gel once daily, in the treatment of acne vulgaris of mild to moderate severity, CLINDAGEL applied once daily was more effective than the vehicle applied once daily.
+In one 12-week multicenter, randomized, evaluator-blind, vehicle-controlled, parallel comparison clinical trial in which patients used CLINDAGEL (clindamycin phosphate topical gel, 1%) once daily or the vehicle gel once daily, in the treatment of acne vulgaris of mild to moderate severity, CLINDAGEL applied once daily was more effective than the vehicle applied once daily.
 The mean percent reductions in lesion counts at the end of treatment in this study are shown in the following table:
 
 | Lesions | CLINDAGEL QD N=162 | Vehicle Gel QD N=82 |
