@@ -4,10 +4,10 @@ Orally and parenterally administered clindamycin has been associated with severe
 Use of the topical formulation of clindamycin results in absorption of the antibiotic from the skin surface.
 Diarrhea, bloody diarrhea, and colitis (including pseudomembranous colitis) have been reported with the use of topical and systemic clindamycin.
 
-Studies indicate a toxin(s) produced by Clostridiais one primary cause of antibiotic-associated colitis.
+Studies indicate a toxin(s) produced by Clostridia is one primary cause of antibiotic-associated colitis.
 The colitis is usually characterized by severe persistent diarrhea and severe abdominal cramps and may be associated with the passage of blood and mucus.
 Endoscopic examination may reveal pseudomembranous colitis.
-Stool culture for Clostridium difficileand stool assay for C. difficiletoxin may be helpful diagnostically.
+Stool culture for Clostridium difficile and stool assay for C. difficile toxin may be helpful diagnostically.
 
 When significant diarrhea occurs, the drug should be discontinued.
 Large bowel endoscopy should be considered to establish a definitive diagnosis in cases of severe diarrhea.
@@ -45,7 +45,7 @@ Reproduction studies in rats using oral doses of clindamycin hydrochloride and c
 Reproduction studies have been performed in rats and mice using subcutaneous and oral doses of clindamycin phosphate, clindamycin hydrochloride, and clindamycin palmitate hydrochloride.
 These studies revealed no evidence of fetal harm.
 The highest dose used in the rat and mouse teratogenicity studies was equivalent to a clindamycin phosphate dose of 432 mg/kg.
-For a rat, this dose is 84-fold higher and for a mouse, 42-fold higher than the anticipated human dose of clindamycin phosphate from Clindamycin Phosphate Topical Gel based on a mg/m 2comparison.
+For a rat, this dose is 84-fold higher and for a mouse, 42-fold higher than the anticipated human dose of clindamycin phosphate from Clindamycin Phosphate Topical Gel based on a mg/m2 comparison.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 

@@ -6,15 +6,15 @@ In the one well-controlled clinical study comparing Clindamycin Phosphate Topica
 | --- | --- | --- |
 |  | Number (%) of Patients |  |
 | Skin and Appendages Disorders |  |  |
-| Dermatitis | 0 (0.0) | 1 (1.2) |
-| Dermatitis contact | 0 (0.0) | 1 (1.2) |
-| Dermatitis fungal | 0 (0.0) | 1 (1.2) |
-| Folliculitis | 0 (0.0) | 1 (1.2) |
-| Photosensitivity reaction | 0 (0.0) | 1 (1.2) |
-| Pruritus | 1 (0.6) | 1 (1.2) |
-| Rash erythematous | 0 (0.0) | 0 (0.0) |
-| Skin dry | 0 (0.0) | 0 (0.0) |
-| Peeling | 1 (0.6) | 0 (0.0) |
+| •Dermatitis | 0 (0.0) | 1 (1.2) |
+| •Dermatitis contact | 0 (0.0) | 1 (1.2) |
+| •Dermatitis fungal | 0 (0.0) | 1 (1.2) |
+| •Folliculitis | 0 (0.0) | 1 (1.2) |
+| •Photosensitivity reaction | 0 (0.0) | 1 (1.2) |
+| •Pruritus | 1 (0.6) | 1 (1.2) |
+| •Rash erythematous | 0 (0.0) | 0 (0.0) |
+| •Skin dry | 0 (0.0) | 0 (0.0) |
+| •Peeling | 1 (0.6) | 0 (0.0) |
 
 Orally and parenterally administered clindamycin has been associated with severe colitis, which may end fatally.
 
