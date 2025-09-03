@@ -4,12 +4,12 @@
 
 Serious postpartum hypertension has been described in patients who received both a vasopressor (i.e., methoxamine, phenylephrine, ephedrine) and an oxytocic (i.e., methylergonovine, ergonovine) [see Drug Interactions (7)].
 Some of these patients experienced a stroke.
-Carefully monitor the blood pressure of individuals who have received both REZIPRES® and an oxytocic.
+Carefully monitor the blood pressure of individuals who have received both REZIPRES ®and an oxytocic.
 
 ## 5.2 Tolerance and Tachyphylaxis
 
 Data indicate that repeated administration of ephedrine can result in tachyphylaxis.
-Clinicians treating anesthesia-induced hypotension with REZIPRES® should be aware of the possibility of tachyphylaxis and should be prepared with an alternative pressor to mitigate unacceptable responsiveness.
+Clinicians treating anesthesia-induced hypotension with REZIPRES ® should be aware of the possibility of tachyphylaxis and should be prepared with an alternative pressor to mitigate unacceptable responsiveness.
 
 ## 5.3 Risk of Hypertension When Used Prophylactically
 

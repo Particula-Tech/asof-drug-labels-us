@@ -2,7 +2,7 @@
 
 NDC 43598-181-11
 
-REZIPRES®: Ephedrine Hydrochloride Injection 10mL single dose vial
+REZIPRES ®:Ephedrine Hydrochloride Injection 10mL single dose vial
 
 Dr. Reddy's Laboratories Inc.
 

@@ -49,7 +49,7 @@ Risk Summary
 
 A single published case report indicates that ephedrine is present in human milk.
 However, no information is available on the effects of the drug on the breastfed infant or the effects of the drug on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for REZIPRES® and any potential adverse effects on the breastfed child from REZIPRES® or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for REZIPRES ®and any potential adverse effects on the breastfed child from REZIPRES ®or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
