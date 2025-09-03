@@ -56,3 +56,5 @@ Skin and Subcutaneous Tissue Disorders:acute generalized exanthematous pustulosi
 Musculoskeletal and Connective Tissue Disorders:arthralgia
 
 Reproductive System and Breast Disorders:erectile dysfunction; with doses higher than the recommended therapeutic dose of 200 or 400 mg daily, azoospermia.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Sun Pharmaceutical Industries, Inc., at 1-866-923-4914 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
