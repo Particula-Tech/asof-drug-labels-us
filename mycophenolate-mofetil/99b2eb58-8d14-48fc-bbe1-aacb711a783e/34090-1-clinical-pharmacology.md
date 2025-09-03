@@ -9,7 +9,7 @@ MPA shifts transcriptional activities in lymphocytes from a proliferative state 
 In vitro studies suggest that MPA modulates transcriptional activities in human CD4+ T-lymphocytes by suppressing the Akt/mTOR and STAT5 pathways that are relevant to metabolism and survival, leading to an anergic state of T-cells whereby the cells become less responsive to antigenic stimulation.
 Additionally, MPA enhanced the expression of negative co-stimulators such as CD70, PD-1, CTLA-4, and transcription factor FoxP3 as well as decreased the expression of positive co-stimulators CD27 and CD28.
 
-MPA decreases proliferative responses of T- and B-lymphocytes to both mitogenic and allo-antigenic stimulation, anitbody responses, as well as the production of cytokines from lymphocytes and monocytes such as GM-CSF, IFN-Ɣ, IL-17, and TNF-α.
+MPA decreases proliferative responses of T- and B-lymphocytes to both mitogenic and allo-antigenic stimulation, antibody responses, as well as the production of cytokines from lymphocytes and monocytes such as GM-CSF, IFN-Ɣ, IL-17, and TNF-α.
 Additionally, MPA prevents the glycosylation of lymphocyte and monocyte glycoproteins that are involved in intercellular adhesion to endothelial cells and may inhibit recruitment of leukocytes into sites of inflammation and graft rejection.
 
 Overall, the effect of MPA is cytostatic and reversible.
@@ -27,7 +27,7 @@ In 12 healthy volunteers, the mean absolute bioavailability of oral MMF relative
 Two 500 mg mycophenolate mofetil tablets have been shown to be bioequivalent to four 250 mg mycophenolate mofetil capsules.
 Five mL of the 200 mg/mL constituted mycophenolate mofetil oral suspension have been shown to be bioequivalent to four 250 mg capsules.
 
-The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table 10.
+The mean (±SD) pharmacokinetic parameters estimates for MPA following the administration of MMF given as single doses to healthy volunteers, and multiple doses to kidney, heart, and liver transplant patients, are shown in Table.
 The area under the plasma-concentration time curve (AUC) for MPA appears to increase in a dose-proportional fashion in kidney transplant patients receiving multiple oral doses of MMF up to a daily dose of 3 g (1.5g twice daily) (see Table 10).
 
 1. Table 10.
@@ -268,7 +268,7 @@ Information concerning antibiotics is as follows:
   The mean (±SD) AUC and Cmax of MPA after concomitant administration were 75.2 (±19.8) mcg•h/mL and 34.0 (±6.6) mcg/mL, respectively, compared to 79.2 (±27.9) mcg•h/mL and 34.2 (±10.7) mcg/mL, respectively, after administration of MMF alone.
 - •Norfloxacin and Metronidazole: Following single-dose administration of MMF (1 g) to 11 healthy volunteers on day 4 of a 5-day course of a combination of norfloxacin and metronidazole, the mean MPA AUC(0-48h) was significantly reduced by 33% compared to the administration of MMF alone (p<0.05).
   The mean (±SD) MPA AUC(0-48h) after coadministration of MMF with norfloxacin or metronidazole separately was 48.3 (±24) mcg·h/mL and 42.7 (±23) mcg·h/mL, respectively, compared with 56.2 (±24) mcg·h/mL after administration of MMF alone.
-- •Ciprofloxacin and Amoxicillin Plus Clavulanic Acid: A total of 64 mycophenolate-treated kidney transplant recipients received either oral ciprofloxacin 500 mg twice daily or amoxicillin plus clavulanic acid 375 mg three times daily for 7 or at least 14 days, respectively.
+- •Ciprofloxacin and Amoxicillin Plus Clavulanic Acid: A total of 64 mycophenolate mofetil -treated kidney transplant recipients received either oral ciprofloxacin 500 mg twice daily or amoxicillin plus clavulanic acid 375 mg three times daily for 7 or at least 14 days, respectively.
   Approximately 50% reductions in median trough MPA concentrations (pre-dose) from baseline (mycophenolate mofetil alone) were observed in 3 days following commencement of oral ciprofloxacin or amoxicillin plus clavulanic acid.
   These reductions in trough MPA concentrations tended to diminish within 14 days of antimicrobial therapy and ceased within 3 days of discontinuation of antibiotics.
 - •Rifampin: In a single heart-lung transplant patient, after correction for dose, a 67% decrease in MPA exposure (AUC(0-12h)) has been observed with concomitant administration of MMF and rifampin.

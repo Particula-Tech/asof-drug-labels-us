@@ -28,11 +28,7 @@ The recommended dosage for adult kidney transplant patients is 1 g orally or int
 Pediatrics (3 months and older)
 
 Pediatric dosing is based on body surface area (BSA).
-The recommended dosage of mycophenolate mofetil oral
-
-suspension for pediatric kidney transplant patients 3 months and older is 600 mg/m2, administered twice daily
-
-(maximum total daily dose of 2 g or 10 mL of the oral suspension).
+The recommended dosage of mycophenolate mofetil oral suspension for pediatric kidney transplant patients 3 months and older is 600 mg/m2, administered twice daily (maximum total daily dose of 2 g or 10 mL of the oral suspension).
 Pediatric patients with BSA ≥1.25 m2 may be dosed with capsules or tablets as follows:
 
 Table 1.

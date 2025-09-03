@@ -8,6 +8,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •Blood Dyscrasias: Neutropenia, Pure Red Cell Aplasia [see Warnings and Precautions (5.4)]
 - •Gastrointestinal Complications [see Warnings and Precautions (5.5)]
 - •Acute Inflammatory Syndrome Associated with Mycophenolate Products [see Warnings and Precautions (5.7)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -38,64 +39,64 @@ The safety data of three kidney transplantation studies are pooled together.
 1. Table 5.
    Adverse Reactions in Controlled Studies of De Novo Kidney, Heart or Liver Transplantation Reported in ≥20% of Patients in the Mycophenolate Mofetil Group
 
-| Adverse DrugReactionSystem Organ Class | Kidney Studies |  |  |  | Heart Study |  |  | Liver Study |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Mycophenolate mofetil 2 g/day (n=501) or 3g/day(n=490) | AZA1 to 2 mg/kg/day or 100 to 150 mg/day | Placebo | Mycophenolate mofetil 3 g/day |  | AZA 1.5 to 3 mg/kg/day | Mycophenolate mofetil 3 g/day |  | AZA 1 to 2 mg/kg/day |  |
-| (n=991) | (n=326) | (n=166) | (n=289) |  | (n=289) | (n=277) |  | (n=287) |  |
-| % | % | % | % |  | % | % |  | % |  |
-| Infections and infestations |  |  |  |  |  |  |  |  |  |
-| Bacterial infections | 39.9 | 33.7 | 37.3 | - |  | - | 27.4 |  | 26.5 |
-| Viral infections | –* | – | – | 31.1 |  | 24.9 | - |  | - |
-| Blood and lymphatic system disorders |  |  |  |  |  |  |  |  |  |
-| Anemia | 20 | 23.6 | 2.4 | 45 |  | 47.1 | 43 |  | 53 |
-| Ecchymosis | - | - | - | 20.1 |  | 9.7 | - |  | - |
-| Leukocytosis | – | – | – | 42.6 |  | 37.4 | 22.4 |  | 21.3 |
-| Leukopenia | 28.6 | 24.8 | 4.2 | 34.3 |  | 43.3 | 45.8 |  | 39 |
-| Thrombocytopenia | - | - | - | 24.2 |  | 28 | 38.3 |  | 42.2 |
-| Metabolism and nutrition disorders |  |  |  |  |  |  |  |  |  |
-| Hypercholesterolemia | - | - | - | 46 |  | 43.9 | – |  | – |
-| Hyperglycemia | - | - | - | 48.4 |  | 53.3 | 43.7 |  | 48.8 |
-| Hyperkalemia | - | - | - | - |  | - | 22 |  | 23.7 |
-| Hypocalcemia | - | - | - | - |  | - | 30 |  | 30 |
-| Hypokalemia | - | - | - | 32.5 |  | 26.3 | 37.2 |  | 41.1 |
-| Hypomagnesemia | - | - | - | 20.1 |  | 14.2 | 39 |  | 37.6 |
-| Psychiatric disorders |  |  |  |  |  |  |  |  |  |
-| Depression | - | - | - | 20.1 |  | 15.2 | - |  | - |
-| Insomnia | – | – | – | 43.3 |  | 39.8 | 52.3 |  | 47 |
-| Nervous system disorders |  |  |  |  |  |  |  |  |  |
-| Dizziness | - | - | - | 34.3 |  | 33.9 | - |  | - |
-| Headache | – | – | – | 58.5 |  | 55.4 | 53.8 |  | 49.1 |
-| Tremor | – | – | – | 26.3 |  | 25.6 | 33.9 |  | 35.5 |
-| Cardiac disorders |  |  |  |  |  |  |  |  |  |
-| Tachycardia | – | – | – | 22.8 |  | 21.8 | 22 |  | 15.7 |
-| Vascular disorders |  |  |  |  |  |  |  |  |  |
-| Hypertension | 27.5 | 32.2 | 19.3 | 78.9 |  | 74 | 62.1 |  | 59.6 |
-| Hypotension | - | - | - | 34.3 |  | 40.1 | - |  | - |
-| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |  |  |  |
-| Cough | - | - | - | 40.5 |  | 32.2 | - |  | - |
-| Dyspnea | - | - | - | 44.3 |  | 44.3 | 31 |  | 30.3 |
-| Pleural effusion | - | - | - | - |  | - | 34.3 |  | 35.9 |
-| Gastrointestinal disorders |  |  |  |  |  |  |  |  |  |
-| Abdominal pain | 22.4 | 23 | 11.4 | 41.9 |  | 39.4 | 62.5 |  | 51.2 |
-| Constipation | – | – | – | 43.6 |  | 38.8 | 37.9 |  | 38.3 |
-| Decreased appetite | - | - | - | - |  | - | 25.3 |  | 17.1 |
-| Diarrhea | 30.4 | 20.9 | 13.9 | 52.6 |  | 39.4 | 51.3 |  | 49.8 |
-| Dyspepsia | - | - | - | 22.1 |  | 22.1 | 22.4 |  | 20.9 |
-| Nausea | - | - | - | 56.1 |  | 60.2 | 54.5 |  | 51.2 |
-| Vomiting | - | - | - | 39.1 |  | 34.6 | 32.9 |  | 33.4 |
-| Hepatobiliary disorders |  |  |  |  |  |  |  |  |  |
-| Blood lactatedehydrogenaseincreased | – | – | – | 23.5 |  | 18.3 | – |  | – |
-| Hepatic enzymeincreased | - | - | - | - |  | - | 24.9 |  | 19.2 |
-| Skin and subcutaneous tissues disorders |  |  |  |  |  |  |  |  |  |
-| Rash | – | – | – | 26 |  | 20.8 | - |  | - |
-| Renal and urinary disorders |  |  |  |  |  |  |  |  |  |
-| Blood creatinineincreased | – | – | – | 42.2 |  | 39.8 | – |  | – |
-| Blood urea increased | – | – | – | 36.7 |  | 34.3 | – |  | – |
-| General disorders and administration site conditions |  |  |  |  |  |  |  |  |  |
-| Asthenia | - | - | - | 49.1 |  | 41.2 | 35.4 |  | 33.8 |
-| Edema† | 21 | 28.2 | 8.4 | 67.5 |  | 55.7 | 48.4 |  | 47.7 |
-| Pain‡ | 24.8 | 32.2 | 9.6 | 79.2 |  | 77.5 | 74 |  | 77.5 |
-| Pyrexia | - | - | - | 56.4 |  | 53.6 | 52.3 |  | 56.1 |
+| Adverse DrugReactionSystem Organ Class | Kidney Studies |  |  | Heart Study |  | Liver Study |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Mycophenolate mofetil 2 g/day (n=501) or 3g/day(n=490) | AZA1 to 2 mg/kg/day or 100 to 150 mg/day | Placebo | Mycophenolate mofetil 3 g/day | AZA 1.5 to 3 mg/kg/day | Mycophenolate mofetil 3 g/day | AZA 1 to 2 mg/kg/day |  |
+| (n=991) | (n=326) | (n=166) | (n=289) | (n=289) | (n=277) | (n=287) |  |
+| % | % | % | % | % | % | % |  |
+| Infections and infestations |  |  |  |  |  |  |  |
+| Bacterial infections | 39.9 | 33.7 | 37.3 | - | - | 27.4 | 26.5 |
+| Viral infections | –* | – | – | 31.1 | 24.9 | - | - |
+| Blood and lymphatic system disorders |  |  |  |  |  |  |  |
+| Anemia | 20 | 23.6 | 2.4 | 45 | 47.1 | 43 | 53 |
+| Ecchymosis | - | - | - | 20.1 | 9.7 | - | - |
+| Leukocytosis | – | – | – | 42.6 | 37.4 | 22.4 | 21.3 |
+| Leukopenia | 28.6 | 24.8 | 4.2 | 34.3 | 43.3 | 45.8 | 39 |
+| Thrombocytopenia | - | - | - | 24.2 | 28 | 38.3 | 42.2 |
+| Metabolism and nutrition disorders |  |  |  |  |  |  |  |
+| Hypercholesterolemia | - | - | - | 46 | 43.9 | – | – |
+| Hyperglycemia | - | - | - | 48.4 | 53.3 | 43.7 | 48.8 |
+| Hyperkalemia | - | - | - | - | - | 22 | 23.7 |
+| Hypocalcemia | - | - | - | - | - | 30 | 30 |
+| Hypokalemia | - | - | - | 32.5 | 26.3 | 37.2 | 41.1 |
+| Hypomagnesemia | - | - | - | 20.1 | 14.2 | 39 | 37.6 |
+| Psychiatric disorders |  |  |  |  |  |  |  |
+| Depression | - | - | - | 20.1 | 15.2 | - | - |
+| Insomnia | – | – | – | 43.3 | 39.8 | 52.3 | 47 |
+| Nervous system disorders |  |  |  |  |  |  |  |
+| Dizziness | - | - | - | 34.3 | 33.9 | - | - |
+| Headache | – | – | – | 58.5 | 55.4 | 53.8 | 49.1 |
+| Tremor | – | – | – | 26.3 | 25.6 | 33.9 | 35.5 |
+| Cardiac disorders |  |  |  |  |  |  |  |
+| Tachycardia | – | – | – | 22.8 | 21.8 | 22 | 15.7 |
+| Vascular disorders |  |  |  |  |  |  |  |
+| Hypertension | 27.5 | 32.2 | 19.3 | 78.9 | 74 | 62.1 | 59.6 |
+| Hypotension | - | - | - | 34.3 | 40.1 | - | - |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |  |  |  |
+| Cough | - | - | - | 40.5 | 32.2 | - | - |
+| Dyspnea | - | - | - | 44.3 | 44.3 | 31 | 30.3 |
+| Pleural effusion | - | - | - | - | - | 34.3 | 35.9 |
+| Gastrointestinal disorders |  |  |  |  |  |  |  |
+| Abdominal pain | 22.4 | 23 | 11.4 | 41.9 | 39.4 | 62.5 | 51.2 |
+| Constipation | – | – | – | 43.6 | 38.8 | 37.9 | 38.3 |
+| Decreased appetite | - | - | - | - | - | 25.3 | 17.1 |
+| Diarrhea | 30.4 | 20.9 | 13.9 | 52.6 | 39.4 | 51.3 | 49.8 |
+| Dyspepsia | - | - | - | 22.1 | 22.1 | 22.4 | 20.9 |
+| Nausea | - | - | - | 56.1 | 60.2 | 54.5 | 51.2 |
+| Vomiting | - | - | - | 39.1 | 34.6 | 32.9 | 33.4 |
+| Hepatobiliary disorders |  |  |  |  |  |  |  |
+| Blood lactatedehydrogenaseincreased | – | – | – | 23.5 | 18.3 | – | – |
+| Hepatic enzymeincreased | - | - | - | - | - | 24.9 | 19.2 |
+| Skin and subcutaneous tissues disorders |  |  |  |  |  |  |  |
+| Rash | – | – | – | 26 | 20.8 | - | - |
+| Renal and urinary disorders |  |  |  |  |  |  |  |
+| Blood creatinineincreased | – | – | – | 42.2 | 39.8 | – | – |
+| Blood urea increased | – | – | – | 36.7 | 34.3 | – | – |
+| General disorders and administration site conditions |  |  |  |  |  |  |  |
+| Asthenia | - | - | - | 49.1 | 41.2 | 35.4 | 33.8 |
+| Edema† | 21 | 28.2 | 8.4 | 67.5 | 55.7 | 48.4 | 47.7 |
+| Pain‡ | 24.8 | 32.2 | 9.6 | 79.2 | 77.5 | 74 | 77.5 |
+| Pyrexia | - | - | - | 56.4 | 53.6 | 52.3 | 56.1 |
 
 * “-“Indicates that the incidence was below the cutoff value of 20% for inclusion in the table.
 
@@ -166,7 +167,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - -Nervous system malformations: such as spina bifida.
 - •Digestive: Colitis, pancreatitis
 - •Hematologic and Lymphatic: Bone marrow failure, cases of pure red cell aplasia (PRCA) and hypogammaglobulinemia have been reported in patients treated with mycophenolate mofetil in combination with other immunosuppressive agents [see Warnings and Precautions (5.4)].
-- •Immune: Hypersensitivity, hypogammaglobinemia.
+- •Immune: Hypersensitivity reactions, including anaphylaxis and angioedema [see Warnings and Precautions (5.8)], hypogammaglobinemia.
 - •Infections: Meningitis, infectious endocarditis, tuberculosis, atypical mycobacterial infection, progressive multifocal leukoencephalopathy, BK virus infection, viral reactivation of hepatitis B and hepatitis C, protozoal infections [see Warnings and Precautions (5.3)].
 - •Respiratory: Bronchiectasis, interstitial lung disease, fatal pulmonary fibrosis, have been reported rarely and should be considered in the differential diagnosis of pulmonary symptoms ranging from dyspnea to respiratory failure in post-transplant patients receiving mycophenolate mofetil.
 - •Vascular: Lymphocele.
