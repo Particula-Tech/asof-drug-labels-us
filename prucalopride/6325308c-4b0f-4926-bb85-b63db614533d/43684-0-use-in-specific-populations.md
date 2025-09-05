@@ -37,7 +37,11 @@ The prucalopride concentration detected in breast milk during weaning may not re
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of prucalopride tablets have not been established in pediatric patients.
+The safety and effectiveness of prucalopride tablet have not been established in pediatric patients.
+Prucalopride tablet was evaluated in a 12-week randomized, double-blind, placebo controlled study, followed by a 36-week double-blind extension study in patients 6 months to 17 years with functional constipation.
+The interim analysis of the primary endpoint showed that the number of spontaneous bowel movements per week over 12 weeks was similar between the prucalopride tablet and placebo groups, indicating that the study was unlikely to demonstrate effectiveness.
+Therefore, the study was terminated early for futility.
+Adverse reactions reported in pediatric patients in this study were similar to those reported in adults.
 
 ## 8.5 Geriatric Use
 
