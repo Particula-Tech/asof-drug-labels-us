@@ -5,11 +5,11 @@
 Risk Summary
 
 Trastuzumab products can cause fetal harm when administered to a pregnant woman.
-In post-marketing reports, use of trastuzumab during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death (see Data).
+In post-marketing reports and published literature, use of trastuzumab products during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting as pulmonary hypoplasia, skeletal abnormalities, and neonatal death (see Data).
 Apprise the patient of the potential risks to a fetus.
 There are clinical considerations if a trastuzumab product is used in a pregnant woman or if a patient becomes pregnant within 7 months following the last dose of a trastuzumab product (see Clinical Considerations).
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
+The background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
@@ -17,16 +17,17 @@ Clinical Considerations
 Fetal/Neonatal Adverse Reactions
 
 Monitor women who received TRAZIMERA during pregnancy or within 7 months prior to conception for oligohydramnios.
-If oligohydramnios occurs, perform fetal testing that is appropriate for gestational age and consistent with community standards of care.
+If oligohydramnios occurs, perform fetal/neonatal testing that is appropriate for gestational age and consistent with community standards of care.
 
 Data
 
 Human Data
 
-In post-marketing reports, use of trastuzumab during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence, manifesting in the fetus as pulmonary hypoplasia, skeletal abnormalities and neonatal death.
+In post-marketing reports and published literature, use of trastuzumab products during pregnancy resulted in cases of oligohydramnios and of oligohydramnios sequence.
+Fetal manifestations included pulmonary hypoplasia, skeletal abnormalities and neonatal death.
 These case reports described oligohydramnios in pregnant women who received trastuzumab either alone or in combination with chemotherapy.
-In some case reports, amniotic fluid index increased after trastuzumab was stopped.
-In one case, trastuzumab therapy resumed after amniotic index improved, and oligohydramnios recurred.
+In most reported cases, amniotic fluid index increased after trastuzumab was stopped.
+In reported cases where trastuzumab therapy was resumed after amniotic index improved, oligohydramnios recurred.
 
 Animal Data
 
@@ -63,14 +64,14 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of trastuzumab products in pediatric patients have not been established.
+The safety and effectiveness of TRAZIMERA in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
 Trastuzumab has been administered to 386 patients who were 65 years of age or over (253 in the adjuvant treatment and 133 in metastatic breast cancer treatment settings).
-The risk of cardiac dysfunction was increased in geriatric patients as compared to younger patients in both those receiving treatment for metastatic disease in Studies 5 and 6, or adjuvant therapy in Studies 1 and 2.
+The risk of cardiac dysfunction was increased in geriatric patients as compared to younger patients in both those receiving treatment for metastatic disease in H0648g and H0649g, or adjuvant therapy in NSABP B31 and NCCTG N9831.
 Limitations in data collection and differences in study design of the 4 studies of trastuzumab in adjuvant treatment of breast cancer preclude a determination of whether the toxicity profile of trastuzumab in older patients is different from younger patients.
-The reported clinical experience is not adequate to determine whether the efficacy improvements (ORR, TTP, OS, DFS) of trastuzumab treatment in older patients is different from that observed in patients <65 years of age for metastatic disease and adjuvant treatment.
+The reported clinical experience is not adequate to determine whether the efficacy improvements (ORR, TTP, OS, DFS) of trastuzumab treatment in older patients is different from that observed in patients < 65 years of age for metastatic disease and adjuvant treatment.
 
-In Study 7 (metastatic gastric cancer), of the 294 patients treated with trastuzumab, 108 (37%) were 65 years of age or older, while 13 (4.4%) were 75 and over.
+In ToGA (metastatic gastric cancer), of the 294 patients treated with trastuzumab, 108 (37%) were 65 years of age or older, while 13 (4.4%) were 75 and over.
 No overall differences in safety or effectiveness were observed.

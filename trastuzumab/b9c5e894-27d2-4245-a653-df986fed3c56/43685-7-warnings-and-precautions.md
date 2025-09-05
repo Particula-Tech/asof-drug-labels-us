@@ -8,10 +8,10 @@ Trastuzumab products can also cause asymptomatic decline in left ventricular eje
 There is a 4 to 6 fold increase in the incidence of symptomatic myocardial dysfunction among patients receiving trastuzumab products as a single agent or in combination therapy compared with those not receiving trastuzumab products.
 The highest absolute incidence occurs when a trastuzumab product is administered with an anthracycline.
 
-Withhold TRAZIMERA for ≥ 16% absolute decrease in LVEF from pre-treatment values or an LVEF value below institutional limits of normal and ≥ 10% absolute decrease in LVEF from pretreatment values [see Dosage and Administration (2.3)].
-The safety of continuation or resumption of TRAZIMERA in patients with trastuzumab product-induced left ventricular cardiac dysfunction has not been studied.
+Withhold TRAZIMERA for ≥ 16% absolute decrease in LVEF from pre-treatment values or an LVEF value below institutional limits of normal and ≥ 10% absolute decrease in LVEF from pretreatment values [see Dosage and Administration (2.5)].
+The safety of continuation or resumption of trastuzumab products in patients with trastuzumab product-induced left ventricular cardiac dysfunction has not been studied.
 
-Patients who receive anthracycline after stopping TRAZIMERA may also be at increased risk of cardiac dysfunction [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
+Patients who receive anthracycline after stopping trastuzumab products may also be at increased risk of cardiac dysfunction [see Drug Interactions (7) and Clinical Pharmacology (12.3)].
 
 Cardiac Monitoring
 
@@ -20,41 +20,41 @@ The following schedule is recommended:
 
 - •Baseline LVEF measurement immediately prior to initiation of TRAZIMERA
 - •LVEF measurements every 3 months during and upon completion of TRAZIMERA
-- •Repeat LVEF measurement at 4 week intervals if TRAZIMERA is withheld for significant left ventricular cardiac dysfunction [see Dosage and Administration (2.3)]
+- •Repeat LVEF measurement at 4 week intervals if TRAZIMERA is withheld for significant left ventricular cardiac dysfunction [see Dosage and Administration (2.5)]
 - •LVEF measurements every 6 months for at least 2 years following completion of TRAZIMERA as a component of adjuvant therapy.
 
-In Study 1, 15% (158/1031) of patients discontinued trastuzumab due to clinical evidence of myocardial dysfunction or significant decline in LVEF after a median follow-up duration of 8.7 years in the AC-TH (anthracycline, cyclophosphamide, paclitaxel, and trastuzumab) arm.
-In Study 3 (one-year trastuzumab treatment), the number of patients who discontinued trastuzumab due to cardiac toxicity at 12.6 months median duration of follow-up was 2.6% (44/1678).
-In Study 4, a total of 2.9% (31/1056) of patients in the TCH (docetaxel, carboplatin, trastuzumab) arm (1.5% during the chemotherapy phase and 1.4% during the monotherapy phase) and 5.7% (61/1068) of patients in the AC-TH arm (1.5% during the chemotherapy phase and 4.2% during the monotherapy phase) discontinued trastuzumab due to cardiac toxicity.
+In NSABP B31, 15% (158/1031) of patients discontinued trastuzumab due to clinical evidence of myocardial dysfunction or significant decline in LVEF after a median follow-up duration of 8.7 years in the AC-TH (anthracycline, cyclophosphamide, paclitaxel, and trastuzumab) arm.
+In HERA (one-year trastuzumab treatment), the number of patients who discontinued trastuzumab due to cardiac toxicity at 12.6 months median duration of follow-up was 2.6% (44/1678).
+In BCIRG006, a total of 2.9% (31/1056) of patients in the TCH (docetaxel, carboplatin, trastuzumab) arm (1.5% during the chemotherapy phase and 1.4% during the monotherapy phase) and 5.7% (61/1068) of patients in the AC-TH arm (1.5% during the chemotherapy phase and 4.2% during the monotherapy phase) discontinued trastuzumab due to cardiac toxicity.
 
-Among 64 patients receiving adjuvant chemotherapy (Studies 1 and 2) who developed congestive heart failure (CHF), one patient died of cardiomyopathy, one patient died suddenly without documented etiology, and 33 patients were receiving cardiac medication at last follow-up.
-Approximately 24% of the surviving patients had recovery to a normal LVEF (defined as ≥50%) and no symptoms on continuing medical management at the time of last follow-up.
+Among 64 patients receiving adjuvant chemotherapy (NSABP B31 and NCCTG N9831) who developed congestive heart failure (CHF), one patient died of cardiomyopathy, one patient died suddenly without documented etiology, and 33 patients were receiving cardiac medication at last follow-up.
+Approximately 24% of the surviving patients had recovery to a normal LVEF (defined as ≥ 50%) and no symptoms on continuing medical management at the time of last follow-up.
 Incidence of congestive heart failure is presented in Table 1.
-The safety of continuation or resumption of TRAZIMERA in patients with trastuzumab product-induced left ventricular cardiac dysfunction has not been studied.
+The safety of continuation or resumption of trastuzumab products in patients with trastuzumab product-induced left ventricular cardiac dysfunction has not been studied.
 
-Table 1 Incidence of Congestive Heart Failure in Adjuvant Breast Cancer Studies
+Table 1: Incidence of Congestive Heart Failure in Adjuvant Breast Cancer Studies
 
-| Study | Regimen | Trastuzumab | Control |
+|  |  | Incidence of Congestive Heart Failure % (n) |  |
 | --- | --- | --- | --- |
-|  |  | Incidence of CHF |  |
-| 1 & 2Median follow-up duration for Studies 1 and 2 combined was 8.3 years in the AC→TH arm. | ACAnthracycline (doxorubicin) and cyclophosphamide. →Paclitaxel+Trastuzumab | 3.2% (64/2000)Includes 1 patient with fatal cardiomyopathy and 1 patient with sudden death without documented etiology. | 1.3% (21/1655) |
-| 3Includes NYHA II–IV and cardiac death at 12.6 months median duration of follow-up in the one-year trastuzumab arm. | Chemo → Trastuzumab | 2% (30/1678) | 0.3% (5/1708) |
-| 4 | AC → Docetaxel+Trastuzumab | 2% (20/1068) | 0.3% (3/1050) |
-| 4 | Docetaxel+Carbo+Trastuzumab | 0.4% (4/1056) | 0.3% (3/1050) |
+| Study | Regimen | Trastuzumab | Control |
+| NSABP B31 &NCCTG N9831Median follow-up duration for NSABP B31 & NCCTG N9831 combined was 8.3 years in the AC→paclitaxel+trastuzumab arm. | ACAnthracycline (doxorubicin) and cyclophosphamide. → Paclitaxel+Trastuzumab | 3.2% (64/2000)Includes 1 patient with fatal cardiomyopathy and 1 patient with sudden death without documented etiology. | 1.3% (21/1655) |
+| HERAIncludes NYHA II-IV and cardiac death at 12.6 months median duration of follow-up in the one-year trastuzumab arm. | Chemotherapy → Trastuzumab | 2% (30/1678) | 0.3% (5/1708) |
+| BCIRG006 | AC → Docetaxel+Trastuzumab | 2% (20/1068) | 0.3% (3/1050) |
+| BCIRG006 | Docetaxel+Carboplatin+Trastuzumab | 0.4% (4/1056) | 0.3% (3/1050) |
 
-In Study 3 (one-year trastuzumab treatment), at a median follow-up duration of 8 years, the incidence of severe CHF (NYHA III & IV) was 0.8%, and the rate of mild symptomatic and asymptomatic left ventricular dysfunction was 4.6%.
+In HERA (one-year trastuzumab treatment), at a median follow-up duration of 8 years, the incidence of severe CHF (NYHA III & IV) was 0.8%, and the rate of mild symptomatic and asymptomatic left ventricular dysfunction was 4.6%.
 
-Table 2 Incidence of Cardiac DysfunctionCongestive heart failure or significant asymptomatic decrease in LVEF. in Metastatic Breast Cancer Studies
+Table 2: Incidence of Cardiac DysfunctionCongestive heart failure or significant asymptomatic decrease in LVEF. in Metastatic Breast Cancer Studies
 
-| Study | Event | Trastuzumab | Control | Trastuzumab | Control |
-| --- | --- | --- | --- | --- | --- |
 |  |  | Incidence |  |  |  |
+| --- | --- | --- | --- | --- | --- |
 |  |  | NYHA I–IV |  | NYHA III–IV |  |
-| 5 (AC)Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. | Cardiac Dysfunction | 28% | 7% | 19% | 3% |
-| 5 (paclitaxel) | Cardiac Dysfunction | 11% | 1% | 4% | 1% |
-| 6 | Cardiac DysfunctionIncludes 1 patient with fatal cardiomyopathy. | 7% | N/A | 5% | N/A |
+| Study | Event | Trastuzumab | Control | Trastuzumab | Control |
+| H0648g (AC)Anthracycline (doxorubicin or epirubicin) and cyclophosphamide. | Cardiac Dysfunction | 28% | 7% | 19% | 3% |
+| H0648g (paclitaxel) | Cardiac Dysfunction | 11% | 1% | 4% | 1% |
+| H0649g | Cardiac DysfunctionIncludes 1 patient with fatal cardiomyopathy. | 7% | N/A | 5% | N/A |
 
-In Study 4, the incidence of NCI-CTC Grade 3/4 cardiac ischemia/infarction was higher in the trastuzumab containing regimens (AC-TH: 0.3% (3/1068) and TCH: 0.2% (2/1056)) as compared to none in AC-T.
+In BCIRG006, the incidence of NCI-CTC Grade 3/4 cardiac ischemia/infarction was higher in the trastuzumab containing regimens (AC-TH: 0.3% (3/1068) and TCH: 0.2% (2/1056)) as compared to none in AC-T.
 
 ## 5.2 Infusion Reactions
 
