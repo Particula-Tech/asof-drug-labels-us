@@ -158,8 +158,4 @@ The brand names mentioned are registered trademarks of their respective manufact
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2023
 
-Marketed by:
-
-GSMS, Inc.
-
-Camarillo, CA 93012 USA
+Marketed by: GSMS, Inc. Camarillo, CA 93012 USA

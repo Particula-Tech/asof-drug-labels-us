@@ -15,8 +15,4 @@ Patients with Phenylketonuria Inform phenylketonuric patients that rizatriptan b
 Each 5 mg orally disintegrating tablet contains 1.05 mg phenylalanine, and each 10 mg orally disintegrating tablet contains 2.1 mg phenylalanine [see Use in Specific Populations (8.6)].
 Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2023
 
-Marketed by:
-
-GSMS, Inc.
-
-Camarillo, CA 93012 USA
+Marketed by: GSMS, Inc. Camarillo, CA 93012 USA
