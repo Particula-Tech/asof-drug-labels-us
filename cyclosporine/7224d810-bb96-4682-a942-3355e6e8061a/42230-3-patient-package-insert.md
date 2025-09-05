@@ -31,7 +31,8 @@ GIVING YOUR DOSE:
 
 How do I store RESTASIS MULTIDOSE?
 
-- Store RESTASIS MULTIDOSE between 15-25 °C (59-77 °F).
+- Store RESTASIS MULTIDOSE between 15°C to 25°C (59°F to 77°F).
+- After opening, RESTASIS MULTIDOSE can be used until the expiration date (EXP) on the bottle.
 
 Keep RESTASIS MULTIDOSE and all medicines out of the reach of children.
 
@@ -39,8 +40,8 @@ This Instructions for Use has been approved by the Food and Drug Administration.
 
 Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-© 2024 AbbVie.
+© 2025 AbbVie.
 All rights reserved.
 RESTASIS MULTIDOSE and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-Approved: 9/2024 v1.0IFU5301
+Approved: 8/2025 v2.0IFU5301

@@ -1,5 +1,7 @@
 # 17PATIENT COUNSELING INFORMATION
 
+Advise the patient to read the FDA-approved patient labeling (Instructions for Use).
+
 Handling the Container
 
 Advise patients to not allow the tip of the bottle to touch the eye or any surface, as this may contaminate the emulsion.
@@ -18,8 +20,8 @@ Advise patients to read the “Instructions for Use” for detailed first-time u
 
 Distributed by: AbbVie Inc. North Chicago, IL 60064
 
-© 2024 AbbVie.
+© 2025 AbbVie.
 All rights reserved.
 RESTASIS MULTIDOSE and its design are trademarks of Allergan, Inc., an AbbVie company.
 
-v1.0USPI5301
+v2.0USPI5301

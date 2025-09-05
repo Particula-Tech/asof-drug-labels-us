@@ -13,3 +13,4 @@ RESTASIS MULTIDOSE appears as a white opaque to slightly translucent homogeneous
 It has an osmolality of 230 to 320 mOsmol/kg and a pH of 6.5-8.0.
 Each mL of RESTASIS MULTIDOSE ophthalmic emulsion contains: Active: cyclosporine 0.05%.
 Inactives: glycerin; castor oil; polysorbate 80; carbomer copolymer type A; purified water; and sodium hydroxide to adjust pH.
+RESTASIS MULTIDOSE contains no preservatives.
