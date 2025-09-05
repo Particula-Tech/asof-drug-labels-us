@@ -31,7 +31,7 @@ Because of the potential for serious adverse reactions in breastfed infants, adv
 
 Data
 
-Following intravenous administration of topotecan to lactating rats at a dose of 4.72 mg/m2 (about twice the 1.5 mg/m2 clinical intravenous dose based on BSA), topotecan was excreted into milk at concentrations up to 48-fold higher than those in plasma.
+1. Following intravenous administration of topotecan to lactating rats at a dose of 4.72 mg/m2 (about twice the 1.5 mg/m2 clinical intravenous dose based on BSA), topotecan was excreted into milk at concentrations up to 48-fold higher than those in plasma.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -56,7 +56,7 @@ Infertility
 
 Females
 
-HYCAMTIN can have both acute and long-term effects on fertility [see Nonclinical Toxicology (13.1)].
+1. HYCAMTIN can have both acute and long-term effects on fertility [see Nonclinical Toxicology (13.1)].
 
 Males
 

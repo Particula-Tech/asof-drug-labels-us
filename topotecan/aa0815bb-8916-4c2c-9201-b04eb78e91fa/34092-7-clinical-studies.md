@@ -29,7 +29,8 @@ Efficacy Results in Small Cell Lung Cancer in Study 478
 | Median Overall Survival (months) (95% CI) | 6.0 (4.2, 7.3) | 3.2 (2.6, 4.3) |
 | Hazard ratio (95% CI) | 0.64 (0.45, 0.90) |  |
 | Log-rank P-value | 0.0104 |  |
-| Abbreviations: BSC, Best Supportive Care; N, Total number of patients randomized; CI, Confidence Interval. |  |  |
+
+1. Abbreviations: BSC, Best Supportive Care; N, Total number of patients randomized; CI, Confidence Interval.
 
 Figure 1.
 Kaplan-Meier Curves for Overall Survival in Small Cell Lung Cancer in Study 478

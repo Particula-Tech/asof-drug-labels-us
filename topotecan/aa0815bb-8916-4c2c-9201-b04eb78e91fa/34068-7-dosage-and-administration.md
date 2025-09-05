@@ -24,13 +24,12 @@ Do not administer subsequent cycles of HYCAMTIN capsules until neutrophils recov
 
 Reduce dose by 0.4 mg/m2/day for:
 
-- neutrophil counts of less than 500/mm3 associated with fever or infection or lasting for 7 days or more;
-- neutrophil counts of 500 to 1,000/mm3 lasting beyond day 21 of the treatment course; or
-- platelet counts less than 25,000/mm3.
+- •neutrophil counts of less than 500/mm3 associated with fever or infection or lasting for 7 days or more;
+- •neutrophil counts of 500 to 1,000/mm3 lasting beyond day 21 of the treatment course; or
+- •platelet counts less than 25,000/mm3.
 
 ## 2.3 Dosage Modifications for Renal Impairment
 
-Reduce the dose of HYCAMTIN capsules in patients with the following creatinine clearance (CLcr), calculated with the Cockcroft-Gault method using ideal body weight.
-
-- CLcr 30 to 49 mL/min: Administer 1.5 mg/m2/day.
-- CLcr less than 30 mL/min: Administer 0.6 mg/m2/day.
+1. Reduce the dose of HYCAMTIN capsules in patients with the following creatinine clearance (CLcr), calculated with the Cockcroft-Gault method using ideal body weight.
+2. •CLcr 30 to 49 mL/min: Administer 1.5 mg/m2/day.
+3. •CLcr less than 30 mL/min: Administer 0.6 mg/m2/day.

@@ -30,9 +30,9 @@ The mean terminal half-life (t½) of topotecan is 3 to 6 hours following oral ad
 
 Metabolism
 
-Topotecan undergoes a reversible pH-dependent hydrolysis of a pharmacologically active lactone moiety.
-At pH less than or equal to 4, the lactone is exclusively present, whereas the ring-opened hydroxy-acid form predominates at physiologic pH.
-The mean metabolite: parent AUC ratio was less than 10% for total topotecan and topotecan lactone.
+1. Topotecan undergoes a reversible pH-dependent hydrolysis of a pharmacologically active lactone moiety.
+   At pH less than or equal to 4, the lactone is exclusively present, whereas the ring-opened hydroxy-acid form predominates at physiologic pH.
+   The mean metabolite: parent AUC ratio was less than 10% for total topotecan and topotecan lactone.
 
 Excretion
 
@@ -47,12 +47,12 @@ No clinically significant differences in the pharmacokinetics of topotecan were 
 
 Racial and Ethnic Groups
 
-In patients with creatinine clearance (CLcr) greater than 80 mL/min, the dose-normalized AUCinf to topotecan lactone and total topotecan each were approximately 30% higher in Asians compared to Whites
+1. In patients with creatinine clearance (CLcr) greater than 80 mL/min, the dose-normalized AUCinf to topotecan lactone and total topotecan each were approximately 30% higher in Asians compared to Whites
 
 Patients with Renal Impairment
 
-The mean dose-normalized for total topotecan and topotecan lactone AUCinf increased in advanced cancer patients with renal impairment compared to patients with CLcr greater than 80 mL/min as presented in Table 2 [see Dosage and Administration (2.3)].
-Prior platinum-based chemotherapy had no effect on the systemic exposure to both total topotecan and topotecan lactone in patients with CLcr greater than 80 mL/min.
+1. The mean dose-normalized for total topotecan and topotecan lactone AUCinf increased in advanced cancer patients with renal impairment compared to patients with CLcr greater than 80 mL/min as presented in Table 2 [see Dosage and Administration (2.3)].
+   Prior platinum-based chemotherapy had no effect on the systemic exposure to both total topotecan and topotecan lactone in patients with CLcr greater than 80 mL/min.
 
 Table 2.
 AUCinf Increases Compared to Normal Renal Function
