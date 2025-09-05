@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following clinically significant adverse reactions associated with eltrombopag are described in other sections. • Hepatic Decompensation in Patients with Chronic Hepatitis C [see Warnings and Precautions (5.1) • Hepatotoxicity [see Warnings and Precautions (5.2)] • Increased Risk of Death and Progression of Myelodysplastic Syndromes to Acute Myeloid Leukemia [see Warnings and Precautions (5.3)] • Thrombotic/Thromboembolic Complications [see Warnings and Precautions (5.4)] • Cataracts [see Warnings and Precautions (5.5)]
+The following clinically significant adverse reactions associated with eltrombopag are described in other sections. • Hepatic Decompensation in Patients with Chronic Hepatitis C [see Warnings and Precautions (5.1)] • Hepatotoxicity [see Warnings and Precautions (5.2)] • Increased Risk of Death and Progression of Myelodysplastic Syndromes to Acute Myeloid Leukemia [see Warnings and Precautions (5.3)] • Thrombotic/Thromboembolic Complications [see Warnings and Precautions (5.4)] • Cataracts [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 

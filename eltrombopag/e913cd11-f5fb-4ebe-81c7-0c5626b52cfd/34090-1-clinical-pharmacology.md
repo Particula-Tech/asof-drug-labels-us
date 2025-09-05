@@ -30,7 +30,7 @@ In vitrostudies suggest that CYP1A2 and CYP2C8 are responsible for the oxidative
 UGT1A1 and UGT1A3 are responsible for the glucuronidation of eltrombopag.
 Excretion:The predominant route of eltrombopag excretion is via feces (59%), and 31% of the dose is found in the urine.
 Unchanged eltrombopag in feces accounts for approximately 20% of the dose; unchanged eltrombopag is not detectable in urine.
-Specific Populations Ethnicity Eltrombopag concentrations in East-/Southeast-Asian ancestry patients with ITP or chronic hepatitis C, were 50% to 55% higher compared with non-Asian subjects [see Dosage and Administration (2.1,2.3)].
+Specific Populations Ethnicity Eltrombopag concentrations in East-/Southeast-Asian ancestry patients with ITP or chronic hepatitis C were 50% to 55% higher compared with non-Asian subjects [see Dosage and Administration (2.1,2.3)].
 Eltrombopag exposure in healthy African-American subjects was approximately 40% higher than that observed in Caucasian subjects in one clinical pharmacology trial and similar in three other clinical pharmacology trials.
 The effect of African-American ethnicity on exposure and related safety and efficacy of eltrombopag has not been established.
 Hepatic Impairment Following a single dose of eltrombopag (50 mg), plasma eltrombopag AUC 0-INFwas 41% higher in patients with mild hepatic impairment (Child-Pugh class A) compared with subjects with normal hepatic function.

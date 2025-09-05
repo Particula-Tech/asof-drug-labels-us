@@ -93,7 +93,8 @@ Approximately 51% of patients had a baseline platelet count less than or equal t
 The percentage of patients with at least 2 prior ITP therapies (predominantly corticosteroids and immunoglobulins) was 84% in the group treated with eltrombopag and 86% in the group treated with placebo.
 Five patients in the group treated with eltrombopag had undergone splenectomy.
 The efficacy of eltrombopag in this trial was evaluated by the proportion of patients achieving platelet counts greater than or equal to 50 x 10 9/L (in absence of rescue therapy) at least once between Weeks 1 and 6 of the randomized, double-blind period (Table 19).
-Platelet response to eltrombopag was consistent across the age cohorts Table 19.
+Platelet response to eltrombopag was consistent across the age cohorts.
+Table 19.
 PETIT: Platelet Count Response (≥ 50 x 10 9/L Without Rescue) Rates in Pediatric Patients 1 Year and Older With Persistent or Chronic Immune Thrombocytopenia
 
 | Age cohort | Eltrombopag | Placebo |
@@ -142,7 +143,7 @@ ENABLE1 and ENABLE2: Sustained Virologic Response (SVR) in Adults With Chronic H
 | n = 715 |  | n = 805 |  |  |
 | % Patients who achieved target platelet counts and initiated antiviral therapy c | 95% |  | 94% |  |
 | Antiviral treatment phase | Eltrombopag n = 450 % | Placebo n = 232 % | Eltrombopag n = 506 % | Placebo n = 253 % |
-| Overall SVR d HCV genotype 2,3 HCV genotype 1, 4, 6 | 23 35 18 | 14 24 10 | 19 34 13 | 13 25 7 |
+| Overall SVR d HCV genotype 2, 3 HCV genotype 1, 4, 6 | 23 35 18 | 14 24 10 | 19 34 13 | 13 25 7 |
 
 Abbreviation: HCV, hepatitis C virus. aEltrombopag given in combination with peginterferon alfa-2a (180 mcg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,200 mg daily in 2 divided doses orally). bEltrombopag given in combination with peginterferon alfa-2b (1.5 mcg/kg once weekly for 48 weeks for genotypes 1/4/6; 24 weeks for genotype 2 or 3) plus ribavirin (800 to 1,400 mg daily in 2 divided doses orally). cTarget platelet count was ≥ 90 x 10 9/L for ENABLE1 and ≥ 100 x 10 9/L for ENABLE2. d p-value < 0.05 for eltrombopag versus placebo.
 
@@ -173,6 +174,6 @@ Study US28T: Hematologic Response in Patients With Refractory Severe Aplastic An
 
 aIncludes single-and multi-lineage. bNR = not reached due to few events (relapsed).
 In the 17 responders, the platelet transfusion-free period ranged from 8 to 1096 days with a median of 200 days, and the RBC transfusion-free period ranged from 15 to 1082 days with a median of 208 days.
-In the extension phase, 8 patients achieved a multi-lineage response; 4 of these patients subsequently tapered off treatment with eltrombopag and maintained the response (median follow up: 8.1 months, range, 7.2 to 10.6 months).
+In the extension phase, 8 patients achieved a multi-lineage response; 4 of these patients subsequently tapered off treatment with eltrombopag and maintained the response (median follow-up: 8.1 months, range, 7.2 to 10.6 months).
 Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's PROMACTA ®(eltrombopag) tablets.
 However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.

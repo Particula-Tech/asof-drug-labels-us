@@ -12,7 +12,7 @@ Discontinue eltrombopag if antiviral therapy is discontinued.
 Eltrombopag may increase the risk of severe and potentially life-threatening hepatotoxicity [see Adverse Reactions (6.1)].
 One patient (< 1%) with ITP treated with eltrombopag in clinical trials experienced drug-induced liver injury.
 Eleven patients (1%) with chronic hepatitis C treated with eltrombopag in clinical trials experienced drug-induced liver injury.
-Treatment of ITP, Chronic Hepatitis C-associated Thrombocytopenia, and Refractory Severe Aplastic Anemia Measure serum ALT, AST, and bilirubin prior to initiation of eltrombopag, every 2 weeks during the dose adjustment phase, and monthly following establishment of a stable dose.
+Treatment of ITP, Chronic Hepatitis C-associated Thrombocytopenia, and Refractory Severe Aplastic Anemia Measure serum ALT, AST, and bilirubin prior to initiation of eltrombopag, every 2 weeks during the dose adjustment phase, and monthly following establishment of a stable dose [see Drug Interactions (7.5)].
 Eltrombopag inhibits UDP-glucuronosyltransferase (UGT)1A1 and organic anion-transporting polypeptide (OATP)1B1, which may lead to indirect hyperbilirubinemia.
 If bilirubin is elevated, perform fractionation.
 Evaluate abnormal serum liver tests with repeat testing within 3 to 5 days.
@@ -52,5 +52,13 @@ In the extension trial, cataracts developed or worsened in 11% of patients who u
 In the two controlled clinical trials in patients with chronic hepatitis C and thrombocytopenia, cataracts developed or worsened in 8% of patients treated with eltrombopag and 5% of patients treated with placebo.
 Cataracts were observed in toxicology studies of eltrombopag in rodents [see Nonclinical Toxicology (13.2)].
 Perform a baseline ocular examination prior to administration of eltrombopag and, during therapy with eltrombopag, regularly monitor patients for signs and symptoms of cataracts.
+
+## 5.6 Laboratory Test Interference
+
+Eltrombopagis highly colored and can cause patient sample discoloration, which can interfere with some clinical laboratory tests.
+Inaccurate test results that are inconsistent with clinical observations may occur for multiple clinical chemistry tests including bilirubin and creatinine.
+In addition, other lab tests may be impacted, including but not limited to total protein and albumin, and incorrect test results may be generated if there is eltrombopag in the patient’s specimen.
+Communicate to the lab conducting the testing if your patient is taking eltrombopag.
+Re-testing using other methods may also help in determining the validity of the test results [see Drug Interactions (7.5)].
 Additional pediatric use information is approved for Novartis Pharmaceuticals Corporation's PROMACTA ®(eltrombopag) tablets.
 However, due to Novartis Pharmaceuticals Corporation's marketing exclusivity rights, this drug product is not labeled with that information.

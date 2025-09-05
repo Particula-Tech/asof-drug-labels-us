@@ -6,10 +6,10 @@ Use the lowest dose of eltrombopag tablets to achieve and maintain a platelet co
 Dose adjustments are based upon the platelet count response.
 Do not use eltrombopag tablets to normalize platelet counts [see Warnings and Precautions (5.4)].
 In clinical trials, platelet counts generally increased within 1 to 2 weeks after starting eltrombopag tablets and decreased within 1 to 2 weeks after discontinuing eltrombopag tablets [see Clinical Studies (14.1)].
-Initial Dose Regimen: Adult and Pediatric Patients 6 Years and Older with ITP:Initiate eltrombopag tablets at a dose of 50 mg once daily, except in patients who are of East-/Southeast-Asian ancestry or who have mild to severe hepatic impairment (Child-Pugh class A, B, C). For patients of East-/Southeast-Asian ancestry with ITP, initiate eltrombopag tablets at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
-For patients with ITP and mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, C), initiate eltrombopag tablets at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
-For patients of East-/Southeast-Asian ancestry with ITP and hepatic impairment (Child-Pugh class A, B, C), consider initiating eltrombopag tablets at a reduced dose of 12.5 mg once daily [see Clinical Pharmacology (12.3)].
-Pediatric Patients with ITP Aged 1 to 5 Years:Initiate eltrombopag tablets at a dose of 25 mg once daily [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+Initial Dose Regimen: Adult and Pediatric Patients 6 Years and Older with ITP:Initiate eltrombopag tablets at a dose of 50 mg orally once daily, except in patients who are of East-/Southeast-Asian ancestry or who have mild to severe hepatic impairment (Child-Pugh class A, B, C). For patients of East-/Southeast-Asian ancestry with ITP, initiate eltrombopag tablets at a reduced dose of 25 mg orally once daily [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
+For patients with ITP and mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, C), initiate eltrombopag tablets at a reduced dose of 25 mg orally once daily [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+For patients of East-/Southeast-Asian ancestry with ITP and hepatic impairment (Child-Pugh class A, B, C), consider initiating eltrombopag tablets at a reduced dose of 12.5 mg orally once daily [see Clinical Pharmacology (12.3)].
+Pediatric Patients with ITP Aged 1 to 5 Years:Initiate eltrombopag tablets at a dose of 25 mg orally once daily [see Use in Specific Populations (8.7), Clinical Pharmacology (12.3)].
 Monitoring and Dose Adjustment:After initiating eltrombopag tablets, adjust the dose to achieve and maintain a platelet count greater than or equal to 50 x 10 9/L as necessary to reduce the risk for bleeding.
 Do not exceed a dose of 75 mg daily.
 Monitor clinical hematology and liver tests regularly throughout therapy with eltrombopag tablets and modify the dosage regimen of eltrombopag tablets based on platelet counts as outlined in Table 1.
@@ -30,7 +30,8 @@ In patients with ITP and hepatic impairment (Child-Pugh class A, B, C), after in
 Modify the dosage regimen of concomitant ITP medications, as medically appropriate, to avoid excessive increases in platelet counts during therapy with eltrombopag tablets.
 Do not administer more than one dose of eltrombopag tablets within any 24-hour period.
 Discontinuation:Discontinue eltrombopag tablets if the platelet count does not increase to a level sufficient to avoid clinically important bleeding after 4 weeks of therapy with eltrombopag tablets at the maximum daily dose of 75 mg.
-Excessive platelet count responses, as outlined in Table 1, or important liver test abnormalities also necessitate discontinuation of eltrombopag tablets [see Warnings and Precautions (5.2)].Obtain CBCs with differentials, including platelet counts, weekly for at least 4 weeks following discontinuation of eltrombopag tablets.
+Excessive platelet count responses, as outlined in Table 1, or important liver test abnormalities (e.g., transaminases and/or bilirubin) also necessitate discontinuation of eltrombopag tablets [see Warnings and Precautions (5.2, 5.6) and Drug Interactions (7.5)].
+Obtain CBCs with differentials, including platelet counts, weekly for at least 4 weeks following discontinuation of eltrombopag tablets.
 
 ## 2.2 Chronic Hepatitis C-Associated Thrombocytopenia
 
@@ -38,14 +39,14 @@ Use the lowest dose of eltrombopag tablets to achieve and maintain a platelet co
 Dose adjustments are based upon the platelet count response.
 Do not use eltrombopag tablets to normalize platelet counts [see Warnings and Precautions (5.4)].
 In clinical trials, platelet counts generally began to rise within the first week of treatment with eltrombopag tablets [see Clinical Studies (14.2)].
-Initial Dose Regimen:Initiate eltrombopag tablets at a dose of 25 mg once daily.
+Initial Dose Regimen:Initiate eltrombopag tablets at a dose of 25 mg orally once daily.
 Monitoring and Dose Adjustment:Adjust the dose of eltrombopag tablets in 25 mg increments every 2 weeks as necessary to achieve the target platelet count required to initiate antiviral therapy.
 Monitor platelet counts every week prior to starting antiviral therapy.
 During antiviral therapy, adjust the dose of eltrombopag tablets to avoid dose reductions of peginterferon.
 Monitor CBCs with differentials, including platelet counts, weekly during antiviral therapy until a stable platelet count is achieved.
 Monitor platelet counts monthly thereafter.
 Do not exceed a dose of 100 mg daily.
-Monitor clinical hematology and liver tests regularly throughout therapy with eltrombopag tablets.
+Monitor clinical hematology and liver tests (e.g., transaminases and bilirubin) regularly throughout therapy with eltrombopag tablets [see Drug Interactions (7.5)].
 For specific dosage instructions for peginterferon or ribavirin, refer to their respective prescribing information.
 Table 2.
 Dose Adjustments of Eltrombopag Tablets in Adults With Thrombocytopenia Due to Chronic Hepatitis C
@@ -67,8 +68,8 @@ Excessive platelet count responses, as outlined in Table 2, or important liver t
 Refractory Severe Aplastic Anemia Use the lowest dose of eltrombopag tablets to achieve and maintain a hematologic response.
 Dose adjustments are based upon the platelet count.
 Hematologic response requires dose titration, generally up to 150 mg, and may take up to 16 weeks after starting eltrombopag tablets [see Clinical Studies (14.3)].
-Initial Dose Regimen:Initiate eltrombopag tablets at a dose of 50 mg once daily.
-For patients with severe aplastic anemia of East-/Southeast-Asian ancestry or those with mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, C), initiate eltrombopag tablets at a reduced dose of 25 mg once daily [see Use in Specific Populations (8.6,8.7), Clinical Pharmacology (12.3)].
+Initial Dose Regimen:Initiate eltrombopag tablets at a dose of 50 mg orally once daily.
+For patients with severe aplastic anemia of East-/Southeast-Asian ancestry or those with mild, moderate, or severe hepatic impairment (Child-Pugh class A, B, C), initiate eltrombopag tablets at a reduced dose of 25 mg orally once daily [see Use in Specific Populations (8.6,8.7), Clinical Pharmacology (12.3)].
 Monitoring and Dose Adjustment:Adjust the dose of eltrombopag tablets in 50 mg increments every 2 weeks as necessary to achieve the target platelet count greater than or equal to 50 x 10 9/L as necessary.
 Do not exceed a dose of 150 mg daily.
 Monitor clinical hematology and liver tests regularly throughout therapy with eltrombopag tablets and modify the dosage regimen of eltrombopag tablets based on platelet counts as outlined in Table 7.
@@ -79,7 +80,7 @@ Dose Adjustments of Eltrombopag Tablets in Patients With Refractory Severe Aplas
 | --- | --- |
 | < 50 x 10 9/L following at least 2 weeks of eltrombopag tablets | Increase daily dose by 50 mg to a maximum of 150 mg/day. For patients taking 25 mg once daily, increase the dose to 50 mg daily before increasing the dose amount by 50 mg. |
 | ≥ 200 x 10 9/L to ≤ 400 x 10 9/L at any time | Decrease the daily dose by 50 mg. Wait 2 weeks to assess the effects of this and any subsequent dose adjustments. |
-| > 400 x 10 9/L | Stop eltrombopagtabletsfor 1 week. Once the platelet count is < 150 x 10 9/L, reinitiate therapy at a dose reduced by 50 mg. |
+| > 400 x 10 9/L | Stop eltrombopag tablets for 1 week. Once the platelet count is < 150 x 10 9/L, reinitiate therapy at a dose reduced by 50 mg. |
 | > 400 x 10 9/L after 2 weeks of therapy at lowest dose of eltrombopag tablets | Discontinue eltrombopag tablets. |
 
 For patients who achieve tri-lineage response, including transfusion independence, lasting at least 8 weeks: the dose of eltrombopag tablets may be reduced by 50% [see Clinical Studies (14.3)].
