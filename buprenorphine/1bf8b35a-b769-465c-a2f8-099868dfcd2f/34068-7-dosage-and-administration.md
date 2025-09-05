@@ -11,16 +11,19 @@ The use of Buprenorphine Sublingual Tablets for unsupervised administration shou
 Medication should be prescribed in consideration of the frequency of visits.
 Provision of multiple refills is not advised early in treatment or without appropriate patient follow-up visits.
 
-## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
-Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Buprenorphine Sublingual Tablets.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.2)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing or recommending an overdose reversal agent for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Buprenorphine Sublingual Tablets.
+Also consider prescribing or recommending such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.2)].
 
-Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with Buprenorphine Sublingual Tablets itself.
-Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of Buprenorphine Sublingual Tablets and its affinity for the mu-opioid receptor [see Overdosage (10)].
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.2)].
 
-Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
+
+Advise patients and caregivers that opioid overdose reversal agents, such as naloxone or nalmefene, may also be administered for a known or suspected overdose with buprenorphine itself.
+Higher than normal doses and repeated administration of an opioid overdose reversal agent may be necessary due to the long duration of action of buprenorphine and its affinity for the mu receptor [see Overdosage (10)].
 
 ## 2.3 Induction
 

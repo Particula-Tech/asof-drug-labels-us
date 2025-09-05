@@ -3,6 +3,7 @@
 Clinical Presentation:
 
 The manifestations of acute overdose include pinpoint pupils, sedation, hypotension, hypoglycemia, respiratory depression, and death.
+Toxic leukoencephalopathy has been reported after opioid overdose and can present hours, days, or weeks after apparent recovery from the initial intoxication.
 
 Treatment of Overdose:
 
@@ -11,7 +12,7 @@ When respiratory or cardiac functions are depressed, primary attention should be
 Oxygen, IV fluids, vasopressors, and other supportive measures should be employed as indicated.
 
 In the case of overdose, the primary management should be the re-establishment of adequate ventilation with mechanical assistance of respiration, if required.
-Naloxone may be of value for the management of buprenorphine overdose.
+An opioid overdose reversal agent may be of value for the management of buprenorphine overdose.
 Higher than normal doses and repeated administration may be necessary.
 The long duration of action of Buprenorphine Sublingual Tablets should be taken into consideration when determining the length of treatment and medical surveillance needed to reverse the effects of an overdose.
 Insufficient duration of monitoring may put patients at risk.
