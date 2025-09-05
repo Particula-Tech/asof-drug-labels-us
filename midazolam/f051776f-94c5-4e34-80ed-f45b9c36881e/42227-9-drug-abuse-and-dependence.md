@@ -37,8 +37,6 @@ Protracted Withdrawal Syndrome
 Protracted withdrawal syndrome is characterized by anxiety, cognitive impairment, depression, insomnia, formication, motor symptoms (e.g., weakness, tremor, muscle twitches), paresthesia, and tinnitus that persists beyond 4 to 6 weeks after initial benzodiazepine withdrawal.
 Protracted withdrawal symptoms may last weeks to more than 12 months.
 
-1. 
-
 Tolerance
 
 Midazolam may produce tolerance after long-term use.
