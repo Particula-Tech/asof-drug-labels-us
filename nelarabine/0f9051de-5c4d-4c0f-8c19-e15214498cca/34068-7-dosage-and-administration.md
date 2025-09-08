@@ -15,8 +15,8 @@ In clinical trials, treatment was generally continued until there was evidence o
 
 ## 2.2 Dosage Modification
 
-1. Discontinue ARRANON if the patient develops a neurologic adverse reaction of NCI CTCAE Grade 2 or greater.
-   Dosage may be delayed for other toxicity, including hematologic toxicity [see Boxed Warning, Warnings and Precautions (5.1, 5.2)].
+Discontinue ARRANON if the patient develops a neurologic adverse reaction of NCI CTCAE Grade 2 or greater.
+Dosage may be delayed for other toxicity, including hematologic toxicity [see Boxed Warning, Warnings and Precautions (5.1, 5.2)].
 
 ## 2.3 Dosage in Special Populations
 
