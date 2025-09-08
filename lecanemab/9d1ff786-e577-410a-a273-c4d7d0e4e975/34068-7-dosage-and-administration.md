@@ -20,7 +20,8 @@ LEQEMBI can cause amyloid related imaging abnormalities -edema (ARIA-E) and -hem
 Monitoring for ARIA
 
 Obtain a recent baseline brain magnetic resonance imaging (MRI) prior to initiating treatment with LEQEMBI.
-Obtain an MRI prior to the 5th, 7th, and 14th infusions.
+Obtain an MRI prior to the 3rd, 5th, 7th, and 14th infusions.
+In general, the MRI should be performed within approximately one week before the scheduled infusion of LEQEMBI and reviewed prior to proceeding with the infusion.
 If a patient experiences symptoms suggestive of ARIA, clinical evaluation should be performed, including an MRI if indicated.
 
 Recommendations for Dosing Interruptions in Patients with ARIA
