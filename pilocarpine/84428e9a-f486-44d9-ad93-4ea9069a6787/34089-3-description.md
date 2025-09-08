@@ -13,4 +13,4 @@ Each mL of pilocarpine hydrochloride ophthalmic solution contains: Active: piloc
 Preservative: benzalkonium chloride 0.01%.
 
 Inactives: hypromellose 2910, boric acid, sodium citrate, sodium chloride (present in 1% only); hydrochloric acid and/or sodium hydroxide (to adjust pH); water for injection.
-Pilocarpine hydrochloride ophthalmic solution has a pH of 3.5 to 5.5 and an osmolality of 290 to 350 mOsm/kg (1% and 2% products) and 550 to 600 mOsm/kg (4% product).
+Pilocarpine hydrochloride ophthalmic solution has a pH of 3.5 to 5.5 and an osmolality of 290 to 350 mOsm/kg (1% and 2% products) and 500 to 600 mOsm/kg (4% product).

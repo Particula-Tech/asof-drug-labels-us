@@ -2,7 +2,7 @@
 
 Pilocarpine hydrochloride ophthalmic solution, is indicated for the:
 
-## 1.1 Reduction of Elevated Intraocular Pressuare (IOP) in Patients with Open-Angle Glaucoma or Ocular Hypertension
+## 1.1 Reduction of Elevated Intraocular Pressure (IOP) in Patients with Open-Angle Glaucoma or Ocular Hypertension
 
 ## 1.2 Management of Acute Angle-Closure Glaucoma
 
