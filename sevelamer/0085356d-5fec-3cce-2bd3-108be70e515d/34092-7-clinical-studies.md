@@ -1,11 +1,10 @@
 # 14 CLINICAL STUDIES
 
 The ability of sevelamer to control serum phosphorus in CKD patients on dialysis was predominantly determined from the effects of the hydrochloride salt to bind phosphate.
-Six clinical trials used sevelamer hydrochloride and three clinical trials used sevelamer carbonate.
-The sevelamer hydrochloride studies include one double-blind, placebo-controlled 2-week study (sevelamer N=24); two open-label, uncontrolled, 8-week studies (sevelamer N=220) and three active-controlled open-label studies with treatment durations of 8 to 52 weeks (sevelamer N=256).
-
-The sevelamer carbonate studies include one double-blind, active-controlled, cross-over study with two 8-week treatment periods using sevelamer carbonate tablets (N=79), one open-label, active-controlled, cross-over study with two 4-week treatment periods using sevelamer carbonate powder (N=31) and one randomized, parallel, open-label study using sevelamer carbonate powder (N=144) dosed once daily or sevelamer hydrochloride tablets (N=73) dosed three times daily for 24 weeks.
-Six of the active-controlled studies are described here (three sevelamer carbonate and three sevelamer hydrochloride studies).
+Six clinical trials used sevelamer hydrochloride and two clinical trials used sevelamer carbonate.
+Thesevelamer hydrochloride studies include one double-blind, placebo controlled 2-week study (sevelamer N=24); two open-label, uncontrolled, 8-week studies (sevelamer N=220) and three active controlled open-label studies with treatment durations of 8 to 52 weeks (sevelamer N=256).
+The sevelamer carbonate studies include one double-blind, active-controlled, crossover study with two 8-week treatment periods using sevelamer carbonate tablets (N=79); and onerandomized, parallel, open-label study using sevelamer carbonate powder (N=144) dosed once daily or sevelamer hydrochloride tablets (N=73) dosed three times daily for 24 weeks.
+Five of the active-controlled studies are described here (two sevelamer carbonate and three sevelamer hydrochloride studies).
 
 ## 14.1 Cross-Over Study of Sevelamer Carbonate 800 mg and Sevelamer Hydrochloride 800 mg
 
@@ -14,13 +13,6 @@ Study dose during the cross-over period was determined based on the sevelamer hy
 The phosphorus levels at the end of each of the two cross-over periods were similar.
 Average actual daily dose was 6 grams/day divided among meals for both treatments.
 Thirty-nine of those completing the cross-over portion of the study were entered into a two-week washout period during which patients were instructed not to take any phosphate binders; this confirmed the activity of sevelamer in this study.
-
-## 14.2 Cross-Over Study of Sevelamer Carbonate Powder and Sevelamer Hydrochloride Tablets
-
-Stage 5 CKD patients on hemodialysis were entered into a four-week sevelamer hydrochloride run-in period and 31 patients received, in random order, sevelamer carbonate powder and sevelamer hydrochloride tablets for four weeks each with no intervening washout.
-Study dose during the cross-over period was determined based on the sevelamer hydrochloride dose during the run-in period on a gram-per-gram basis.
-The phosphorus levels at the end of each of the two cross-over periods were similar.
-Average actual daily dose was 6.0 g/day divided among meals for sevelamer carbonate powder and 6.4 g/day divided among meals for sevelamer hydrochloride tablets.
 
 ## 14.3 Clinical Study of Sevelamer Carbonate Powder and Tablets in Pediatric Patients
 
