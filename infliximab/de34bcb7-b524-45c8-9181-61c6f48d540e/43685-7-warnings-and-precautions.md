@@ -120,7 +120,7 @@ Therefore, prescribers should exercise caution when considering resumption of TN
 
 Severe hepatic reactions, including acute liver failure, jaundice, hepatitis and cholestasis, have been reported in postmarketing data in patients receiving infliximab products.
 Autoimmune hepatitis has been diagnosed in some of these cases.
-Severe hepatic reactions occurred between 2 weeks to more than 1 year after initiation of infliximab products; elevations in hepatic aminotransferase levels were not noted prior to discovery of the liver injury in many of these cases.
+Severe hepatic reactions occurred between 2 weeks to more than 1-year after initiation of infliximab products; elevations in hepatic aminotransferase levels were not noted prior to discovery of the liver injury in many of these cases.
 Some of these cases were fatal or necessitated liver transplantation.
 Patients with symptoms or signs of liver dysfunction should be evaluated for evidence of liver injury.
 If jaundice and/or marked liver enzyme elevations (e.g., ≥5 times the upper limit of normal) develop, AVSOLA should be discontinued, and a thorough investigation of the abnormality should be undertaken.

@@ -86,7 +86,7 @@ The safety and efficacy of infliximab were assessed in a randomized, open-label 
 The median age was 13 years and the median Pediatric Crohn's Disease Activity Index (PCDAI) was 40 (on a scale of 0 to 100).
 All patients were required to be on a stable dose of 6-MP, AZA, or MTX; 35% were also receiving corticosteroids at baseline.
 
-All patients received induction dosing of 5 mg/kg infliximab at Weeks 0, 2, and 6.
+All patients received induction dosing of 5 mg/kg infliximab at Weeks 0, 2 and 6.
 At Week 10, 103 patients were randomized to a maintenance regimen of 5 mg/kg of infliximab given either every 8 weeks or every 12 weeks.
 
 At Week 10, 88% of patients were in clinical response (defined as a decrease from baseline in the PCDAI score of ≥15 points and total PCDAI score of ≤30 points), and 59% were in clinical remission (defined as PCDAI score of ≤10 points).
@@ -165,7 +165,7 @@ The improvement with infliximab was consistent across all Mayo subscores through
 
 Table 6: Proportion of Adult UC Patients in Study UC I with Mayo Subscores Indicating Inactive or Mild Disease through Week 54
 
-| (n=121) | (n=121) | (n=122) |  |
+| (n = 121) | (n = 121) | (n = 122) |  |
 | --- | --- | --- | --- |
 |  | Study UC I |  |  |
 |  | Infliximab |  |  |
@@ -198,7 +198,7 @@ Additional safety and pharmacokinetic data were collected in an open-label pedia
 At baseline, the median Mayo score was 8, 53% of patients were receiving immunomodulator therapy (6-MP/AZA/MTX), and 62% of patients were receiving corticosteroids (median dose 0.5 mg/kg/day in prednisone equivalents).
 Discontinuation of immunomodulators and corticosteroid taper were permitted after Week 0.
 
-All patients received induction dosing of 5 mg/kg infliximab at Weeks 0, 2, and 6.
+All patients received induction dosing of 5 mg/kg infliximab at Weeks 0, 2 and 6.
 Patients who did not respond to infliximab at Week 8 received no further infliximab and returned for safety follow-up.
 At Week 8, 45 patients were randomized to a maintenance regimen of 5 mg/kg infliximab given either every 8 weeks through Week 46 or every 12 weeks through Week 42.
 Patients were allowed to change to a higher dose and/or more frequent administration schedule if they experienced loss of response.
@@ -232,7 +232,7 @@ Patients received either placebo + MTX or one of 4 doses/schedules of infliximab
 
 Study RA II was a placebo-controlled study of 3 active treatment arms in 1004 MTX naive patients of 3 or fewer years duration active RA.
 Patients enrolled had a median age of 51 years with a median disease duration of 0.6 years, median swollen and tender joint count of 19 and 31, respectively, and >80% of patients had baseline joint erosions.
-At randomization, all patients received MTX (optimized to 20 mg/wk by Week 8) and either placebo, 3 mg/kg or 6 mg/kg infliximab at Weeks 0, 2, and 6 and every 8 weeks thereafter.
+At randomization, all patients received MTX (optimized to 20 mg/wk by Week 8) and either placebo, 3 mg/kg or 6 mg/kg infliximab at Weeks 0, 2 and 6 and every 8 weeks thereafter.
 
 Data on use of infliximab products without concurrent MTX are limited [see Adverse Reactions (6.1)].
 
@@ -247,7 +247,7 @@ More patients treated with infliximab reached a major clinical response than pla
 
 Table 7: ACR Response (percent of patients) in Adult RA Patients (Studies RA I and RA II)
 
-|  | (n=88) | (n=86) | (n=86) | (n=87) | (n=81) | (n=274) | (n=351) | (n=355) |
+|  | (n = 88) | (n = 86) | (n = 86) | (n = 87) | (n = 81) | (n = 274) | (n = 351) | (n = 355) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Study RA I |  |  |  |  | Study RA II |  |  |
 |  | Infliximab + MTX |  |  |  |  | Infliximab + MTX |  |  |
@@ -269,7 +269,7 @@ Table 8: Components of ACR 20 at baseline and 54 weeks (Study RA I)
 |  | Baseline | Week 54 | Baseline | Week 54 |
 | --- | --- | --- | --- | --- |
 |  | Placebo + MTX |  | Infliximab + MTXAll doses/schedules of infliximab + MTX |  |
-| Parameter (medians) | (n=88) |  | (n=340) |  |
+| Parameter (medians) | (n = 88) |  | (n = 340) |  |
 | No. of Tender Joints | 24 | 16 | 32 | 8 |
 | No. of Swollen Joints | 19 | 13 | 20 | 7 |
 | PainVisual Analog Scale (0=best, 10=worst) | 6.7 | 6.1 | 6.8 | 3.3 |
@@ -289,12 +289,12 @@ In Study RA II, >90% of patients had at least 2 evaluable X-rays.
 Inhibition of progression of structural damage was observed at Weeks 30 and 54 (Table 9) in the infliximab + MTX groups compared to MTX alone.
 Patients treated with infliximab + MTX demonstrated less progression of structural damage compared to MTX alone, whether baseline acute phase reactants (ESR and CRP) were normal or elevated: patients with elevated baseline acute phase reactants treated with MTX alone demonstrated a mean progression in vdH-S score of 4.2 units compared to patients treated with infliximab + MTX who demonstrated 0.5 units of progression; patients with normal baseline acute phase reactants treated with MTX alone demonstrated a mean progression in vdH-S score of 1.8 units compared to infliximab + MTX who demonstrated 0.2 units of progression.
 Of patients receiving infliximab + MTX, 59% had no progression (vdH-S score ≤0 unit) of structural damage compared to 45% of patients receiving MTX alone.
-In a subset of patients who began the study without erosions, infliximab + MTX maintained an erosion-free state at 1 year in a greater proportion of patients than MTX alone, 79% (77/98) vs. 58% (23/40), respectively (P<0.01).
+In a subset of patients who began the study without erosions, infliximab + MTX maintained an erosion-free state at 1-year in a greater proportion of patients than MTX alone, 79% (77/98) vs. 58% (23/40), respectively (P < 0.01).
 Fewer patients in the infliximab + MTX groups (47%) developed erosions in uninvolved joints compared to MTX alone (59%).
 
 Table 9: Radiographic Change from Baseline to Week 54 in Adult RA Patients (Studies RA I and RA II)
 
-| (n=64) | (n=71) | (n=77) | (n=282) | (n=359) | (n=363) |  |
+| (n = 64) | (n = 71) | (n = 77) | (n = 282) | (n = 359) | (n = 363) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Study RA I |  |  | Study RA II |  |  |
 |  | Infliximab + MTX |  |  | Infliximab + MTX |  |  |
@@ -327,11 +327,11 @@ Physical Function Response
 Physical function and disability were assessed using the Health Assessment Questionnaire (HAQ-DI) and the general health-related quality of life questionnaire SF-36.
 
 In Study RA I, all doses/schedules of infliximab + MTX showed significantly greater improvement from baseline in HAQ-DI and SF-36 physical component summary score averaged over time through Week 54 compared to placebo + MTX, and no worsening in the SF-36 mental component summary score.
-The median (interquartile range) improvement from baseline to Week 54 in HAQ-DI was 0.1 (-0.1, 0.5) for the placebo + MTX group and 0.4 (0.1, 0.9) for infliximab + MTX (p<0.001).
+The median (interquartile range) improvement from baseline to Week 54 in HAQ-DI was 0.1 (-0.1, 0.5) for the placebo + MTX group and 0.4 (0.1, 0.9) for infliximab + MTX (p < 0.001).
 Both HAQ-DI and SF-36 effects were maintained through Week 102.
 Approximately 80% of patients in all doses/schedules of infliximab + MTX remained in the trial through 102 weeks.
 
-In Study RA II, both infliximab treatment groups showed greater improvement in HAQ-DI from baseline averaged over time through Week 54 compared to MTX alone; 0.7 for infliximab + MTX vs. 0.6 for MTX alone (P≤0.001).
+In Study RA II, both infliximab treatment groups showed greater improvement in HAQ-DI from baseline averaged over time through Week 54 compared to MTX alone; 0.7 for infliximab + MTX vs. 0.6 for MTX alone (P ≤ 0.001).
 No worsening in the SF-36 mental component summary score was observed.
 
 ## 14.6 Ankylosing Spondylitis
@@ -342,19 +342,19 @@ Patients were to have had active disease as evidenced by both a Bath Ankylosing 
 Patients with complete ankylosis of the spine were excluded from study participation, and the use of Disease-Modifying Anti-Rheumatic Drugs (DMARDs) and systemic corticosteroids were prohibited.
 Doses of 5 mg/kg of infliximab or placebo were administered intravenously at Weeks 0, 2, 6, 12 and 18.
 
-At 24 weeks, improvement in the signs and symptoms of AS, as measured by the proportion of patients achieving a 20% improvement in ASAS response criteria (ASAS 20), was seen in 60% of patients in the infliximab-treated group vs. 18% of patients in the placebo group (p<0.001).
+At 24 weeks, improvement in the signs and symptoms of AS, as measured by the proportion of patients achieving a 20% improvement in ASAS response criteria (ASAS 20), was seen in 60% of patients in the infliximab-treated group vs. 18% of patients in the placebo group (p < 0.001).
 Improvement was observed at Week 2 and maintained through Week 24 (Figure 3 and Table 10).
 
 Figure 3: Proportion of Adult AS Patients Who Achieved a ASAS 20 Response
 
-At 24 weeks, the proportions of patients achieving a 50% and a 70% improvement in the signs and symptoms of AS, as measured by ASAS response criteria (ASAS 50 and ASAS 70, respectively), were 44% and 28%, respectively, for patients receiving infliximab, compared to 9% and 4%, respectively, for patients receiving placebo (P<0.001, infliximab vs. placebo).
-A low level of disease activity (defined as a value <20 [on a scale of 0-100 mm] in each of the 4 ASAS response parameters) was achieved in 22% of infliximab-treated patients vs. 1% in placebo-treated patients (P<0.001).
+At 24 weeks, the proportions of patients achieving a 50% and a 70% improvement in the signs and symptoms of AS, as measured by ASAS response criteria (ASAS 50 and ASAS 70, respectively), were 44% and 28%, respectively, for patients receiving infliximab, compared to 9% and 4%, respectively, for patients receiving placebo (P < 0.001, infliximab vs. placebo).
+A low level of disease activity (defined as a value <20 [on a scale of 0-100 mm] in each of the 4 ASAS response parameters) was achieved in 22% of infliximab-treated patients vs. 1% in placebo-treated patients (P < 0.001).
 
 Table 10: Components of AS Disease Activity
 
 | Baseline | 24 Weeks | Baseline | 24 Weeks | P-value |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Placebo (n=78) |  | Infliximab 5 mg/kg (n=201) |  |  |
+|  | Placebo (n = 78) |  | Infliximab 5 mg/kg (n = 201) |  |  |
 | ASAS 20 response |  |  |  |  |  |
 | Criteria (Mean) |  |  |  |  |  |
 | Patient Global AssessmentMeasured on a VAS with 0= "none" and 10= "severe" | 6.6 | 6.0 | 6.8 | 3.8 | <0.001 |
@@ -369,14 +369,14 @@ Table 10: Components of AS Disease Activity
 | Tragus to wall | 17.3 | 17.4 | 16.9 | 15.7 | 0.02 |
 | Lateral spinal flexion | 10.6 | 11.0 | 11.4 | 12.9 | 0.03 |
 
-The median improvement from baseline in the general health-related quality-of-life questionnaire SF-36 physical component summary score at Week 24 was 10.2 for the infliximab group vs. 0.8 for the placebo group (P<0.001).
+The median improvement from baseline in the general health-related quality-of-life questionnaire SF-36 physical component summary score at Week 24 was 10.2 for the infliximab group vs. 0.8 for the placebo group (P < 0.001).
 There was no change in the SF-36 mental component summary score in either the infliximab group or the placebo group.
 
 Results of this study were similar to those seen in a multicenter double-blind, placebo-controlled study of 70 patients with AS.
 
 ## 14.7 Psoriatic Arthritis
 
-Safety and efficacy of infliximab were assessed in a multicenter, double-blind, placebo-controlled study in 200 adult patients with active PsA despite DMARD or NSAID therapy (≥5 swollen joints and ≥5 tender joints) with 1 or more of the following subtypes: arthritis involving DIP joints (n=49), arthritis mutilans (n=3), asymmetric peripheral arthritis (n=40), polyarticular arthritis (n=100), and spondylitis with peripheral arthritis (n=8).
+Safety and efficacy of infliximab were assessed in a multicenter, double-blind, placebo-controlled study in 200 adult patients with active PsA despite DMARD or NSAID therapy (≥5 swollen joints and ≥5 tender joints) with 1 or more of the following subtypes: arthritis involving DIP joints (n = 49), arthritis mutilans (n = 3), asymmetric peripheral arthritis (n = 40), polyarticular arthritis (n = 100), and spondylitis with peripheral arthritis (n = 8).
 Patients also had Ps with a qualifying target lesion ≥2 cm in diameter.
 Forty-six percent of patients continued on stable doses of methotrexate (≤25 mg/week).
 During the 24-week double-blind phase, patients received either 5 mg/kg infliximab or placebo at Weeks 0, 2, 6, 14, and 22 (100 patients in each group).
@@ -386,7 +386,7 @@ Dosing continued for all patients through Week 46.
 
 Clinical Response
 
-Treatment with infliximab resulted in improvement in signs and symptoms, as assessed by the ACR criteria, with 58% of infliximab-treated patients achieving ACR 20 at Week 14, compared with 11% of placebo-treated patients (P<0.001).
+Treatment with infliximab resulted in improvement in signs and symptoms, as assessed by the ACR criteria, with 58% of infliximab-treated patients achieving ACR 20 at Week 14, compared with 11% of placebo-treated patients (P < 0.001).
 The response was similar regardless of concomitant use of methotrexate.
 Improvement was observed as early as Week 2.
 At 6 months, the ACR 20/50/70 responses were achieved by 54%, 41%, and 27%, respectively, of patients receiving infliximab compared to 16%, 4%, and 2%, respectively, of patients receiving placebo.
@@ -401,7 +401,7 @@ Table 11: Components of ACR 20 and Percentage of Adult PsA Patients with 1 or Mo
 |  | Baseline | Week 24 | Baseline | Week 24 |
 | --- | --- | --- | --- | --- |
 |  | Placebo |  | Infliximab 5 mg/kgP<0.001 for percent change from baseline in all components of ACR 20 at Week 24, P<0.05 for % of patients with dactylitis, and P=0.004 for % of patients with enthesopathy at Week 24 |  |
-| Patients Randomized | (n=100) |  | (n=100) |  |
+| Patients Randomized | (n = 100) |  | (n = 100) |  |
 | Parameter (medians) |  |  |  |  |
 | No. of Tender JointsScale 0-68 | 24 | 20 | 20 | 6 |
 | No. of Swollen JointsScale 0-66 | 12 | 9 | 12 | 3 |
@@ -413,7 +413,7 @@ Table 11: Components of ACR 20 and Percentage of Adult PsA Patients with 1 or Mo
 | % Patients with 1 or more digits with dactylitis | 41 | 33 | 40 | 15 |
 | % Patients with enthesopathy | 35 | 36 | 42 | 22 |
 
-Improvement in Psoriasis Area and Severity Index (PASI) in PsA patients with baseline body surface area (BSA) ≥3% (n=87 placebo, n=83 infliximab) was achieved at Week 14, regardless of concomitant methotrexate use, with 64% of infliximab-treated patients achieving at least 75% improvement from baseline vs. 2% of placebo-treated patients; improvement was observed in some patients as early as Week 2.
+Improvement in Psoriasis Area and Severity Index (PASI) in PsA patients with baseline body surface area (BSA) ≥3% (n = 87 placebo, n = 83 infliximab) was achieved at Week 14, regardless of concomitant methotrexate use, with 64% of infliximab-treated patients achieving at least 75% improvement from baseline vs. 2% of placebo-treated patients; improvement was observed in some patients as early as Week 2.
 At 6 months, the PASI 75 and PASI 90 responses were achieved by 60% and 39%, respectively, of patients receiving infliximab compared to 1% and 0%, respectively, of patients receiving placebo.
 The PASI response was generally maintained through Week 54.
 [see Clinical Studies (14.8)].
@@ -422,7 +422,7 @@ Radiographic Response
 
 Structural damage in both hands and feet was assessed radiographically by the change from baseline in the van der Heijde-Sharp (vdH-S) score, modified by the addition of hand DIP joints.
 The total modified vdH-S score is a composite score of structural damage that measures the number and size of joint erosions and the degree of joint space narrowing (JSN) in the hands and feet.
-At Week 24, infliximab-treated patients had less radiographic progression than placebo-treated patients (mean change of −0.70 vs. 0.82, P<0.001).
+At Week 24, infliximab-treated patients had less radiographic progression than placebo-treated patients (mean change of −0.70 vs. 0.82, P < 0.001).
 Infliximab-treated patients also had less progression in their erosion scores (−0.56 vs 0.51) and JSN scores (−0.14 vs 0.31).
 The patients in the infliximab group demonstrated continued inhibition of structural damage at Week 54.
 Most patients showed little or no change in the vdH-S score during this 12-month study (median change of 0 in both patients who initially received infliximab or placebo).
@@ -474,7 +474,7 @@ Overall lesions were graded with consideration to the percent of body involvemen
 Treatment success, defined as "clear" or "excellent," consisted of some residual pinkness or pigmentation to marked improvement (nearly normal skin texture; some erythema may be present).
 The results of these studies are presented in Table 12.
 
-Table 12: Adult Psoriasis Studies I, II, and III, Week 10 Percentage of Patients Who Achieved PASI 75 and Percentage Who Achieved Treatment "Success" with Physician's Global Assessment at Week 10
+Table 12: Adult Psoriasis Studies I, II, and III, Percentage of Patients Who Achieved PASI 75 and Percentage Who Achieved Treatment "Success" with Physician's Global Assessment at Week 10
 
 |  | 3 mg/kg | 5 mg/kg |  |
 | --- | --- | --- | --- |

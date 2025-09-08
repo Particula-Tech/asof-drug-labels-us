@@ -6,7 +6,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Adverse Reactions in Adults
 
-The data described herein reflect exposure to infliximab in 4779 adult patients (1304 patients with RA, 1106 patients with CD, 202 with AS, 293 with PsA, 484 with UC, 1373 with Ps, and 17 patients with other conditions), including 2625 patients exposed beyond 30 weeks and 374 exposed beyond 1 year.
+The data described herein reflect exposure to infliximab in 4779 adult patients (1304 patients with RA, 1106 patients with CD, 202 with AS, 293 with PsA, 484 with UC, 1373 with Ps, and 17 patients with other conditions), including 2625 patients exposed beyond 30 weeks and 374 exposed beyond 1-year.
 [For information on adverse reactions in pediatric patients, see Adverse Reactions (6.1)].
 One of the most common reasons for discontinuation of treatment was infusion-related reactions (e.g., dyspnea, flushing, headache and rash).
 
@@ -23,7 +23,7 @@ Among all infliximab infusions, 3% were accompanied by nonspecific symptoms such
 Serious infusion reactions occurred in <1% of patients and included anaphylaxis, convulsions, erythematous rash and hypotension.
 Approximately 3% of patients discontinued infliximab treatment because of infusion reactions, and all patients recovered with treatment and/or discontinuation of the infusion.
 Infliximab infusions beyond the initial infusion were not associated with a higher incidence of reactions.
-The infusion reaction rates remained stable in Ps through 1 year in Ps Study I. In Ps Study II, the rates were variable over time and somewhat higher following the final infusion than after the initial infusion.
+The infusion reaction rates remained stable in Ps through 1-year in Ps Study I. In Ps Study II, the rates were variable over time and somewhat higher following the final infusion than after the initial infusion.
 Across the 3 Ps studies, the percent of total infusions resulting in infusion reactions (i.e., an adverse event occurring within 1 hour) was 7% in the 3 mg/kg group, 4% in the 5 mg/kg group, and 1% in the placebo group.
 
 Patients who became positive for antibodies to infliximab were more likely (approximately two- to three-fold) to have an infusion reaction than were those who were negative.
@@ -110,12 +110,12 @@ Adverse Reactions in Psoriasis Studies
 
 During the placebo-controlled portion across the 3 clinical trials up to Week 16, the proportion of patients who experienced at least 1 serious adverse reaction (SAE; defined as resulting in death, life threatening, requires hospitalization, or persistent or significant disability/incapacity) was 0.5% in the 3 mg/kg infliximab group, 1.9% in the placebo group, and 1.6% in the 5 mg/kg infliximab group.
 
-Among patients in the 2 Phase 3 studies, 12.4% of patients receiving infliximab 5 mg/kg every 8 weeks through 1 year of maintenance treatment experienced at least 1 SAE in Study I. In Study II, 4.1% and 4.7% of patients receiving infliximab 3 mg/kg and 5 mg/kg every 8 weeks, respectively, through 1 year of maintenance treatment experienced at least 1 SAE.
+Among patients in the 2 Phase 3 studies, 12.4% of patients receiving infliximab 5 mg/kg every 8 weeks through 1-year of maintenance treatment experienced at least 1 SAE in Study I. In Study II, 4.1% and 4.7% of patients receiving infliximab 3 mg/kg and 5 mg/kg every 8 weeks, respectively, through 1-year of maintenance treatment experienced at least 1 SAE.
 
 One death due to bacterial sepsis occurred 25 days after the second infusion of 5 mg/kg infliximab.
 Serious infections included sepsis, and abscesses.
-In Study I, 2.7% of patients receiving infliximab 5 mg/kg every 8 weeks through 1 year of maintenance treatment experienced at least 1 serious infection.
-In Study II, 1.0% and 1.3% of patients receiving infliximab 3 mg/kg and 5 mg/kg, respectively, through 1 year of treatment experienced at least 1 serious infection.
+In Study I, 2.7% of patients receiving infliximab 5 mg/kg every 8 weeks through 1-year of maintenance treatment experienced at least 1 serious infection.
+In Study II, 1.0% and 1.3% of patients receiving infliximab 3 mg/kg and 5 mg/kg, respectively, through 1-year of treatment experienced at least 1 serious infection.
 The most common serious infection (requiring hospitalization) was abscess (skin, throat, and peri-rectal) reported by 5 (0.7%) patients in the 5 mg/kg infliximab group.
 Two active cases of tuberculosis were reported: 6 weeks and 34 weeks after starting infliximab.
 
@@ -129,7 +129,7 @@ Other Adverse Reactions in Adults
 Safety data are available from 4779 infliximab-treated adult patients, including 1304 with RA, 1106 with CD, 484 with UC, 202 with AS, 293 with PsA, 1373 with Ps and 17 with other conditions.
 [For information on other adverse reactions in pediatric patients, see Adverse Reactions (6.1)].
 Adverse reactions reported in ≥5% of all patients with RA receiving 4 or more infusions are in Table 2.
-The types and frequencies of adverse reactions observed were similar in RA, AS, PsA, Ps and CD patients treated with infliximab except for abdominal pain, which occurred in 26% of patients with CD.
+The types and frequencies of adverse reactions observed were similar in RA, AS, PsA, Ps and CD patients treated with infliximab except for abdominal pain, which occurred in 26% of infliximab-treated patients with CD.
 In the CD studies, there were insufficient numbers and duration of follow-up for patients who never received infliximab to provide meaningful comparisons.
 
 Table 2: Adverse Reactions that Occurred in ≥ 5% of Patients who Received ≥4 Infliximab Infusions for RA
@@ -209,7 +209,7 @@ The overall incidence of infections in the pediatric UC trial was 13/22 (59%) in
 Upper respiratory tract infection (7/60 [12%]) and pharyngitis (5/60 [8%]) were the most frequently reported respiratory system infections.
 Serious infections were reported in 12% (7/60) of all treated patients.
 
-Elevations of ALT up to 3 times the upper limit of normal (ULN) were seen in 17% (10/60) of pediatric patients in the pediatric UC trial; 7% (4/60) had ALT elevations ≥3 × ULN, and 2% (1/60) had elevations ≥5 × ULN (Median follow-up was 49 weeks).
+Elevations of ALT up to 3 times the upper limit of normal (ULN) were seen in 17% (10/60) of pediatric patients in the pediatric UC trial; 7% (4/60) had ALT elevations ≥3 × ULN, and 2% (1/60) had elevations ≥5 × ULN (median follow-up was 49 weeks).
 
 Overall, 8 of 60 (13%) treated patients experienced one or more infusion reactions, including 4 of 22 (18%) patients in the every 8-week treatment maintenance group.
 No serious infusion reactions were reported.
@@ -222,10 +222,8 @@ Overall proportions of adverse reactions, including infusion reactions, were sim
 
 ## 6.2 Immunogenicity
 
-As with all therapeutic proteins, there is potential for immunogenicity.
-The detection of antibody formation is highly dependent on the sensitivity and specificity of the assay.
-Additionally, the observed incidence of antibody (including neutralizing antibody) positivity in an assay may be influenced by several factors, including assay methodology, sample handling, timing of sample collection, concomitant medications, and underlying disease.
-For these reasons, comparison of the incidence of antibodies in the studies described below with the incidence of antibodies in other studies or to other infliximab products may be misleading.
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of infliximab or of other infliximab products.
 
 Treatment with infliximab products can be associated with the development of antibodies to infliximab products.
 An enzyme immunoassay (EIA) method was originally used to measure anti-infliximab antibodies in clinical studies of infliximab.
@@ -247,7 +245,7 @@ Patients who were antibody-positive were more likely to have higher rates of cle
 In the Ps Study II, which included both the 5 mg/kg and 3 mg/kg doses, antibodies were observed in 36% of patients treated with 5 mg/kg every 8 weeks for 1 year, and in 51% of patients treated with 3 mg/kg every 8 weeks for 1 year.
 
 In the Ps Study III, which also included both the 5 mg/kg and 3 mg/kg doses, antibodies were observed in 20% of patients treated with 5 mg/kg induction (Weeks 0, 2 and 6), and in 27% of patients treated with 3 mg/kg induction.
-Despite the increase in antibody formation, the infusion reaction rates in Studies I and II in patients treated with 5 mg/kg induction followed by every 8-week maintenance for 1 year and in Study III in patients treated with 5 mg/kg induction (14.1%-23.0%) and serious infusion reaction rates (<1%) were similar to those observed in other study populations.
+Despite the increase in antibody formation, the infusion reaction rates in Studies I and II in patients treated with 5 mg/kg induction followed by every 8-week maintenance for 1-year and in Study III in patients treated with 5 mg/kg induction (14.1%-23.0%) and serious infusion reaction rates (<1%) were similar to those observed in other study populations.
 The clinical significance of apparent increased immunogenicity on efficacy and infusion reactions in Ps patients as compared to patients with other diseases treated with infliximab products over the long-term is not known.
 
 Immunogenicity in Pediatric Patients with Crohn's Disease
@@ -273,7 +271,7 @@ Postmarketing Adverse Reactions in Adults and Pediatric Patients
 - Neutropenia [see Warnings and Precautions (5.6)], agranulocytosis (including infants exposed in utero to infliximab products), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura.
 - Interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and rapidly progressive disease).
 - Pericardial effusion, systemic and cutaneous vasculitis.
-- Erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, linear IgA bullous dermatosis (LABD), acute generalized exanthematous pustulosis (AGEP), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), lichenoid reactions.
+- Erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, linear IgA bullous dermatosis (LABD), acute generalized exanthematous pustulosis (AGEP), worsening psoriasis (all subtypes including pustular, primarily palmoplantar), lichenoid reactions.
 - Peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy) transverse myelitis, and neuropathies (additional neurologic reactions have also been observed) [see Warnings and Precautions (5.9)].
 - Acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)].
 - Serious infections [see Warnings and Precautions (5.1)] and vaccine breakthrough infection including bovine tuberculosis (disseminated BCG infection) following vaccination in an infant exposed in utero to infliximab products [see Warnings and Precautions (5.13)].
@@ -281,6 +279,7 @@ Postmarketing Adverse Reactions in Adults and Pediatric Patients
 - Anaphylactic reactions, including anaphylactic shock, laryngeal/pharyngeal edema and severe bronchospasm, and seizure have been associated with administration of infliximab products.
 - Transient visual loss have been reported in association with infliximab products during or within 2 hours of infusion.
   Cerebrovascular accidents, myocardial ischemia/infarction (some fatal), and arrhythmia occurring within 24 hours of initiation of infusion have also been reported [see Warnings and Precautions (5.8)].
+- New onset immune disorders (e.g., psoriasis, rheumatoid arthritis, inflammatory bowel disease).
 
 Postmarketing Serious Adverse Reactions in Pediatric Patients
 
