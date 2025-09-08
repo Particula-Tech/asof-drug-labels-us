@@ -1,10 +1,8 @@
-# Patient Information
+# Dispense with Patient Information available at: Patient Information
 
 Entecavir Tablets, USP
 
 (en-TEK-a-vir)
-
-Dispense with Patient Information available at: www.solcohealthcare.com/medguide/entecavir-tablets.pdf
 
 Read this Patient Information before you start taking entecavir tablets and each time you get a refill.
 There may be new information.
@@ -183,4 +181,4 @@ Manufactured by: Zhejiang Huahai Pharmaceutical Co., Ltd.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: 01/2022
+Revised: 11/2024

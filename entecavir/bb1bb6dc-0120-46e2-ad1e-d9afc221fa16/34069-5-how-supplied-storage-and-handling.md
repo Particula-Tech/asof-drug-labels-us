@@ -4,12 +4,8 @@ Entecavir tablets, USP, are available in the following strengths:
 
 | Product Strength and Dosage Form | Description | Quantity | NDC Number |
 | --- | --- | --- | --- |
-| 0.5 mg film-coated | White to off-white, triangular-shaped | 30 tablets | 43547-436-03 |
-| tablet | tablet, debossed with “S” on one side | 90 tablets | 43547-436-09 |
-|  | and “064” on the other side. | 500 tablets | 43547-436-50 |
-| 1 mg film-coated | Pink, triangular-shaped tablet, | 30 tablets | 43547-437-03 |
-| tablet | debossed with “S” on one side | 90 tablets | 43547-437-09 |
-|  | and “065” on the other side. | 500 tablets | 43547-437-50 |
+| 0.5 mg film-coated tablet | White to off-white, triangular-shaped tablet, debossed with “S” on one side and “064” on the other side. | 30 tablets90 tablets500 tablets | 43547-436-0343547-436-0943547-436-50 |
+| 1 mg film-coated tablet | Pink, triangular-shaped tablet, debossed with “S” on one side and “065” on the other side. | 30 tablets90 tablets500 tablets | 43547-437-0343547-437-0943547-437-50 |
 
 Storage
 

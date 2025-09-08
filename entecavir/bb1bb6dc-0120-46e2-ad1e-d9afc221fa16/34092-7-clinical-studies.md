@@ -25,41 +25,34 @@ In Studies AI463022 and AI463027, entecavir was superior to lamivudine on the pr
 Histologic Improvement and change in Ishak Fibrosis Score are shown in Table 9.
 Selected virologic, biochemical, and serologic outcome measures are shown in Table 10.
 
-Table 9: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027
-
-| n=314a | n=314a | n=296a | n=287a |  |
-| --- | --- | --- | --- | --- |
-|  | Study AI463022 (HBeAg-Positive) |  | Study AI463027 (HBeAg-Negative) |  |
-| Entecavir | Lamivudine | Entecavir | Lamivudine |  |
-| 0.5 mg | 100 mg | 0.5 mg | 100 mg |  |
-| Histologic Improvement |  |  |  |  |
-| (Knodell Scores) |  |  |  |  |
-| Improvementb | 72% | 62% | 70% | 61% |
-| No improvement | 21% | 24% | 19% | 26% |
-| Ishak Fibrosis Score |  |  |  |  |
-| Improvementc | 39% | 35% | 36% | 38% |
-| No change | 46% | 40% | 41% | 34% |
-| Worseningc | 8% | 10% | 12% | 15% |
-| Missing Week 48 biopsy | 7% | 14% | 10% | 13% |
-| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). |  |  |  |  |
-| b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |  |  |
-| c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |  |  |
-
-Table 10: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027
-
-| n=354 | n=355 | n=325 | n=313 |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Study AI463022 |  | Study AI463027 |  |  |  |  |  |  |
-| (HBeAg-Positive) |  | (HBeAg-Negative) |  |  |  |  |  |  |  |
-| Entecavir | Lamivudine | Entecavir | Lamivudine |  |  |  |  |  |  |
-| 0.5 mg | 100 mg | 0.5 mg | 100 mg |  |  |  |  |  |  |
-| HBV DNAa |  |  |  |  |  |  |  |  |  |
-| Proportion undetectable (<300 copies/mL) | 67% | 36% | 90% | 72% |  |  |  |  |  |
-| Mean change from baseline | −6.86 | −5.39 | −5.04 | −4.53 |  |  |  |  |  |
-| (log10 copies/mL) |  |  |  |  |  |  |  |  |  |
-| ALT normalization (≤1 × ULN) | 68% | 60% | 78% | 71% |  |  |  |  |  |
-| HBeAg seroconversion | 21% | 18% | NA | NA |  |  |  |  |  |
-| a Roche COBAS Amplicor PCR assay [lower limit of quantification (LLOQ) = 300 copies/mL]. |  |  |  |  |  |  |  |  |  |
+| Table 9: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027 |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Study AI463022 (HBeAg-Positive) |  |  |  | Study AI463027 (HBeAg-Negative) |  |  |  |
+| Entecavir |  | Lamivudine |  | Entecavir |  | Lamivudine |  |  |
+| 0.5 mg |  | 100 mg |  | 0.5 mg |  | 100 mg |  |  |
+| n=314a |  | n=314a |  | n=296a |  | n=287a |  |  |
+| Histologic Improvement (Knodell Scores) |  |  |  |  |  |  |  |  |
+| Improvementb | 72% |  | 62% |  | 70% |  | 61% |  |
+| No improvement | 21% |  | 24% |  | 19% |  | 26% |  |
+| Ishak Fibrosis Score |  |  |  |  |  |  |  |  |
+| Improvementc | 39% |  | 35% |  | 36% |  | 38% |  |
+| No change | 46% |  | 40% |  | 41% |  | 34% |  |
+| Worseningc | 8% |  | 10% |  | 12% |  | 15% |  |
+| Missing Week 48 biopsy | 7% |  | 14% |  | 10% |  | 13% |  |
+| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). |  |  |  |  |  |  |  |  |
+| b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |  |  |  |  |  |  |
+| c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |  |  |  |  |  |  |
+| Table 10: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027 |  |  |  |  |  |  |  |  |
+|  |  | Study AI463022 (HBeAg-Positive) |  |  |  | Study AI463027 (HBeAg-Negative) |  |  |
+| Entecavir |  | Lamivudine |  | Entecavir |  | Lamivudine |  |  |
+| 0.5 mg |  | 100 mg |  | 0.5 mg |  | 100 mg |  |  |
+| n=354 |  | n=355 |  | n=325 |  | n=313 |  |  |
+| HBV DNAa |  |  |  |  |  |  |  |  |
+| Proportion undetectable (<300 copies/mL) |  | 67% |  | 36% |  | 90% |  | 72% |
+| Mean change from baseline (log10 copies/mL) |  | −6.86 |  | −5.39 |  | −5.04 |  | −4.53 |
+| ALT normalization (≤1 × ULN) |  | 68% |  | 60% |  | 78% |  | 71% |
+| HBeAg seroconversion |  | 21% |  | 18% |  | NA |  | NA |
+| a Roche COBAS Amplicor PCR assay [lower limit of quantification (LLOQ) = 300 copies/mL]. |  |  |  |  |  |  |  |  |
 
 Histologic Improvement was independent of baseline levels of HBV DNA or ALT.
 
@@ -76,36 +69,32 @@ Entecavir was superior to lamivudine on a primary endpoint of Histologic Improve
 These results and change in Ishak Fibrosis Score are shown in Table 11.
 Table 12 shows selected virologic, biochemical, and serologic endpoints.
 
-Table 11: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Lamivudine-Refractory Subjects in Study AI463026
-
-| n=124a | n=116a |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Entecavir | Lamivudine |  |  |  |  |  |  |  |  |  |  |
-| 1 mg | 100 mg |  |  |  |  |  |  |  |  |  |  |  |
-| Histologic Improvement (Knodell Scores) |  |  |  |  |  |  |  |  |  |  |  |  |
-| Improvementb | 55% | 28% |  |  |  |  |  |  |  |  |  |  |
-| No improvement | 34% | 57% |  |  |  |  |  |  |  |  |  |  |
-| Ishak Fibrosis Score |  |  |  |  |  |  |  |  |  |  |  |  |
-| Improvementc | 34% | 16% |  |  |  |  |  |  |  |  |  |  |
-| No change | 44% | 42% |  |  |  |  |  |  |  |  |  |  |
-| Worseningc | 11% | 26% |  |  |  |  |  |  |  |  |  |  |
-| Missing Week 48 biopsy | 11% | 16% |  |  |  |  |  |  |  |  |  |  |
-| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). |  |  |  |  |  |  |  |  |  |  |  |  |
-| b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |  |  |  |  |  |  |  |  |  |  |
-| c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |  |  |  |  |  |  |  |  |  |  |
-
-Table 12: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Lamivudine-Refractory Subjects in Study AI463026
-
-| n=141 | n=145 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Entecavir | Lamivudine |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1 mg | 100 mg |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| HBV DNAa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Proportion undetectable (<300 copies/mL) | 19% | 1% |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Mean change from baseline (log10 copies/mL) | −5.11 | −0.48 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ALT normalization (≤1 × ULN) | 61% | 15% |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| HBeAg seroconversion | 8% | 3% |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| n=124a |  | n=116a |  |
+| --- | --- | --- | --- |
+| Table 11: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Lamivudine-Refractory Subjects in Study AI463026 |  |  |  |
+|  | Entecavir |  | Lamivudine |
+| 1 mg |  | 100 mg |  |
+| Histologic Improvement (Knodell Scores) |  |  |  |
+| Improvementb | 55% |  | 28% |
+| No improvement | 34% |  | 57% |
+| Ishak Fibrosis Score |  |  |  |
+| Improvementc | 34% |  | 16% |
+| No change | 44% |  | 42% |
+| Worseningc | 11% |  | 26% |
+| Missing Week 48 biopsy | 11% |  | 16% |
+| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). |  |  |  |
+| b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |  |
+| c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |  |
+| Table 12: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Lamivudine-Refractory Subjects in Study AI463026 |  |  |  |
+|  |  | Entecavir | Lamivudine |
+| 1 mg | 100 mg |  |  |
+| n=141 | n=145 |  |  |
+| HBV DNAa |  |  |  |
+| Proportion undetectable (<300 copies/mL) |  | 19% | 1% |
+| Mean change from baseline (log10 copies/mL) |  | −5.11 | −0.48 |
+| ALT normalization (≤1 × ULN) |  | 61% | 15% |
+| HBeAg seroconversion |  | 8% | 3% |
+| a Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |  |
 
 Histologic Improvement was independent of baseline levels of HBV DNA or ALT.
 
@@ -121,22 +110,21 @@ At baseline, subjects had a mean serum HBV DNA by PCR of 7.83 log10 copies/mL an
 The baseline mean CTP score was 8.6.
 Results for selected study endpoints at Week 48 are shown in Table 13.
 
-Table 13: Selected Endpoints at Week 48, Subjects with Decompensated Liver Disease, Study AI463048
-
-| n=100a | n=91a |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Entecavir | Adefovir Dipivoxil |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 1 mg | 10 mg |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| HBV DNAb |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Proportion undetectable (<300 copies/mL) | 57% | 20% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Stable or improved CTP scorec | 61% | 67% |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| HBsAg loss | 5% | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Normalization of ALT (≤1 × ULN)d | 49/78 (63%) | 33/71 (46%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a Endpoints were analyzed using intention-to-treat (ITT) method, treated subjects as randomized. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| c Defined as decrease or no change from baseline in CTP score. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| d Denominator is subjects with abnormal values at baseline. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ULN=upper limit of normal. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Table 13: Selected Endpoints at Week 48, Subjects with Decompensated Liver Disease, Study AI463048 |  |  |
+| --- | --- | --- |
+|  | Entecavir | Adefovir Dipivoxil |
+| 1 mg | 10 mg |  |
+| n=100a | n=91a |  |
+| HBV DNAb |  |  |
+| Proportion undetectable (<300 copies/mL) | 57% | 20% |
+| Stable or improved CTP scorec | 61% | 67% |
+| HBsAg loss | 5% | 0 |
+| Normalization of ALT (≤1 × ULN)d | 49/78 (63%) | 33/71 (46%) |
+| a Endpoints were analyzed using intention-to-treat (ITT) method, treated subjects as randomized. |  |  |
+| b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
+| c Defined as decrease or no change from baseline in CTP score. |  |  |
+| d Denominator is subjects with abnormal values at baseline. |  |  |
+| ULN=upper limit of normal. |  |  |
 
 Subjects Co-infected with HIV and HBV
 
@@ -149,18 +137,17 @@ Virologic and biochemical endpoints at Week 24 are shown in Table 14.
 There are no data in patients with HIV/HBV co-infection who have not received prior lamivudine therapy.
 Entecavir has not been evaluated in HIV/HBV co-infected patients who were not simultaneously receiving effective HIV treatment [see Warnings and Precautions (5.2)].
 
-Table 14: Virologic and Biochemical Endpoints at Week 24, Study AI463038
-
-| n=51 | n=17 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Entecavir 1 mga | Placeboa |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| HBV DNAb |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Proportion undetectable (<300 copies/mL) | 6% | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Mean change from baseline (log10 copies/mL) | −3.65 | +0.11 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| ALT normalization (≤1 × ULN) | 34%c | 8%c |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| a All subjects also received a lamivudine-containing HAART regimen. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| c Percentage of subjects with abnormal ALT (>1 × ULN) at baseline who achieved ALT normalization (n=35 for entecavir and n=12 for placebo). |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| n=51 | n=17 |  |
+| --- | --- | --- |
+| Table 14: Virologic and Biochemical Endpoints at Week 24, Study AI463038 |  |  |
+|  | Entecavir 1 mga | Placeboa |
+| HBV DNAb |  |  |
+| Proportion undetectable (<300 copies/mL) | 6% | 0 |
+| Mean change from baseline (log10 copies/mL) | −3.65 | +0.11 |
+| ALT normalization (≤1 × ULN) | 34%c | 8%c |
+| a All subjects also received a lamivudine-containing HAART regimen. |  |  |
+| b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
+| c Percentage of subjects with abnormal ALT (>1 × ULN) at baseline who achieved ALT normalization (n=35 for entecavir and n=12 for placebo). |  |  |
 
 For subjects originally assigned to entecavir, at the end of the open-label phase (Week 48), 8% of subjects had HBV DNA <300 copies/mL by PCR, the mean change from baseline HBV DNA by PCR was −4.20 log10 copies/mL, and 37% of subjects with abnormal ALT at baseline had ALT normalization (≤1 × ULN).
 

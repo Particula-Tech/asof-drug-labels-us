@@ -43,11 +43,9 @@ In adult subjects with renal impairment, the apparent oral clearance of entecavi
 Dosage adjustment is recommended for patients with creatinine clearance less than 50 mL/min, including patients on hemodialysis or continuous ambulatory peritoneal dialysis (CAPD), as shown in Table 2.
 The once-daily dosing regimens are preferred.
 
-Table 2: Recommended Dosage of Entecavir in Adult Patients with Renal Impairment
-
-| (mL/min) | Decompensated Liver Disease (1 mg) |  |
+| Table 2: Recommended Dosage of Entecavir in Adult Patients with Renal Impairment |  |  |
 | --- | --- | --- |
-| Creatinine Clearance | Usual Dose (0.5 mg) | Lamivudine-Refractory or |
+| Creatinine Clearance(mL/min) | Usual Dose (0.5 mg) | Lamivudine-Refractory or Decompensated Liver Disease (1 mg) |
 | 50 or greater | 0.5 mg once daily | 1 mg once daily |
 | 30 to less than 50 | 0.25 mg once dailya | 0.5 mg once daily |
 | OR | OR |  |
@@ -55,9 +53,9 @@ Table 2: Recommended Dosage of Entecavir in Adult Patients with Renal Impairment
 | 10 to less than 30 | 0.15 mg once dailya | 0.3 mg once dailya |
 | OR | OR |  |
 | 0.5 mg every 72 hours | 1 mg every 72 hours |  |
-| Less than 10 | 0.05 mg once dailya | 0.1 mg once dailya |
-| Hemodialysisb or CAPD | OR | OR |
-|  | 0.5 mg every 7 days | 1 mg every 7 days |
+| Less than 10Hemodialysisb or CAPD | 0.05 mg once dailya | 0.1 mg once dailya |
+| OR | OR |  |
+| 0.5 mg every 7 days | 1 mg every 7 days |  |
 | a For doses less than 0.5 mg, Entecavir Oral Solution is recommended. |  |  |
 | b If administered on a hemodialysis day, administer entecavir tablets after the hemodialysis session. |  |  |
 

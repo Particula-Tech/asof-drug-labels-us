@@ -18,6 +18,10 @@ Store in a tightly closed container at 20°- 25°C (68°- 77°F); excursions per
 
 Protect from light.
 
+Print Patient Information at:
+
+www.solcohealthcare.com/druglabeling/entecavir-tablets.pdf
+
 Manufactured by:
 
 Zhejiang Huahai Pharmaceutical Co., Ltd.
@@ -30,9 +34,9 @@ Solco Healthcare US, LLC
 
 Somerset, NJ 08873, USA
 
-Rev.:01/2022
+Rev.:11/2024
 
-201459-02
+201459-03
 
 # Package/Label Display Panel
 
@@ -54,6 +58,10 @@ Store in a tightly closed container at 20°- 25°C (68°- 77°F); excursions per
 
 Protect from light.
 
+Print Patient Information at:
+
+www.solcohealthcare.com/druglabeling/entecavir-tablets.pdf
+
 Manufactured by:
 
 Zhejiang Huahai Pharmaceutical Co., Ltd.
@@ -66,6 +74,6 @@ Solco Healthcare US, LLC
 
 Somerset, NJ 08873, USA
 
-Rev.:01/2022
+Rev.:11/2024
 
-201461-02
+201461-03
