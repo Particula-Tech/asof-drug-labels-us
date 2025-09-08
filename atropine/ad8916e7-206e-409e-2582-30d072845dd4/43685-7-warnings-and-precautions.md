@@ -2,7 +2,7 @@
 
 ## 5.1 Tachycardia
 
-When the recurrent use of atropine is essential in patients with coronary artery disease, the total dose should be restricted to 2 to 3 mg (maximum 0.03 to 0.04 mg/kg) to avoid the detrimental effects of atropine-induced tachycardia on myocardial oxygen demand.
+When the recurrent use of atropine is essential in patients with coronary artery disease, the total dose should be restricted to 2 to 3 mg (maximum 0.03 to 0.04 mg/kg) to avoid the detrimental effects of atropine‑induced tachycardia on myocardial oxygen demand.
 
 ## 5.2 Acute Glaucoma
 
