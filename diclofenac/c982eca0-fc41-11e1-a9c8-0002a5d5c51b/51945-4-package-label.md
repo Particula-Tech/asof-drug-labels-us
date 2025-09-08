@@ -7,7 +7,3 @@ Rx Only
 ZIPSOR® (diclofenac potassium)
 
 120 Liquid Filled Capsules
-
-25 mg
-
-Marketed by: Depomed®
