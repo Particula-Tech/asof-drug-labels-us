@@ -136,7 +136,7 @@ The most common side effects of dasatinib tablets in children receiving dasatini
 - nausea
 - vomiting
 - muscle pain
-- stomach (abdominal) pain
+- stomach area (abdominal) pain
 - cough
 - headache
 - rash
@@ -191,7 +191,7 @@ The tablet coating consists of hydroxypropyl cellulose, hypromellose, titanium d
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-APOTEX INC. DASATINIB TABLETS 20 mg, 50 mg, 70 mg and 100 mg
+APOTEX INC. DASATINIB TABLETS 20 mg, 50 mg, 70 mg, 80 mg, 100 mg and 140 mg
 
 | Manufactured by | Manufactured for |
 | --- | --- |
@@ -199,4 +199,4 @@ APOTEX INC. DASATINIB TABLETS 20 mg, 50 mg, 70 mg and 100 mg
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | USA, 33326 |
 
-Revised: September 2024 Revision 15
+Revised: September 2025 Revision 02

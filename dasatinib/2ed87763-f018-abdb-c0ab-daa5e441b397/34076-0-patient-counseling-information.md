@@ -83,9 +83,9 @@ APOTEX INC.
 
 DASATINIB TABLETS
 
-20 mg, 50 mg, 70 mg and 100 mg
+20 mg, 50 mg, 70 mg, 80 mg, 100 mg and 140 mg
 
 | Manufactured by Apotex Inc. Toronto, Ontario Canada M9L 1T9 | Manufactured for Apotex Corp. Weston, Florida USA, 33326 |
 | --- | --- |
 
-Revision 15
+Revision 02

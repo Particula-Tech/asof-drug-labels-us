@@ -4,7 +4,7 @@ How Supplied
 
 Dasatinib tablets are available as described below:
 
-Dasatinib 20 mg tablets are white to off-white round, biconvex film-coated tablet.
+Dasatinib 20 mg tablets are white to off-white, round biconvex film-coated tablet.
 Engraved “APO” on one side, “DA” over “20” on the other side.
 They are supplied as follows:
 
@@ -22,11 +22,23 @@ They are supplied as follows:
 
 - Bottles of 60s NDC 60505-3630-6
 
+Dasatinib 80 mg tablets are white to off-white, round biconvex film-coated tablet.
+Engraved “APO” on one side, “DAS” over “80” on the other side.
+They are supplied as follows:
+
+- Bottles of 30s NDC 60505-3816-3
+
 Dasatinib 100 mg tablets are white to off-white, oval biconvex bevel-edged film-coated tablet.
 Engraved “APO” on one side, ”DAS100” on the other side.
 They are supplied as follows:
 
 - Bottles of 30s NDC 60505-3631-3
+
+Dasatinib 140 mg tablets are white to off-white, round biconvex film-coated tablet.
+Engraved “APO” on one side, “DAS” over “140” on the other side.
+They are supplied as follows:
+
+- Bottles of 30s NDC 60505-3817-3
 
 Storage
 

@@ -308,7 +308,7 @@ Eight (10%) patients experienced adverse reactions leading to treatment disconti
 
 The most common serious adverse reactions (incidence ≥10%) were pyrexia, febrile neutropenia, mucositis, diarrhea, sepsis, hypotension, infections (bacterial, viral and fungal), hypersensitivity, vomiting, renal insufficiency, abdominal pain, and musculoskeletal pain.
 
-The incidence of common adverse reactions (incidence >20%) on study are shown in Table 14:
+The incidence of common adverse reactions (incidence ≥20%) on study are shown in Table 14:
 
 Table 14: Adverse Reactions Reported in ≥20% of Pediatric Patients with Ph+ ALL Treated with dasatinib tablets in Combination with Chemotherapy CA180372 (N=81)
 

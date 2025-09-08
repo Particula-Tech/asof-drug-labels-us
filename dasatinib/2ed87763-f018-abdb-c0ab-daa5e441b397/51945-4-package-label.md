@@ -40,6 +40,20 @@ Rx only
 
 60 Tablets
 
+# PRINCIPAL DISPLAY PANEL 80 mg
+
+APOTEX CORP. NDC 60505-3816-3
+
+Dasatinib Tablets
+
+Each film coated tablet contains dasatinib equivalent to 80 mg.
+
+80 mg
+
+Rx only
+
+30 Tablets
+
 # PRINCIPAL DISPLAY PANEL 100 mg
 
 PACKAGE LABEL - PRINCIPAL DISPLAY PANEL - 100 MG LABEL
@@ -51,6 +65,18 @@ Dasatinib Tablets
 Each film coated tablet contains dasatinib equivalent to 100 mg.
 
 100 mg
+
+Rx only
+
+30 Tablets
+
+# PRINCIPAL DISPLAY PANEL 140 mg
+
+APOTEX CORP. NDC 60505-3817-3
+
+Dasatinib TabletsEach film coated tablet contains dasatinib equivalent to 140 mg.
+
+140 mg
 
 Rx only
 

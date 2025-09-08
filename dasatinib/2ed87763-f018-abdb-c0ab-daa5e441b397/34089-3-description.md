@@ -7,7 +7,7 @@ The anhydrous free base has a molecular weight of 488.01.
 Dasatinib has the following chemical structure:
 
 Dasatinib is a white to off-white powder.
-The drug substance is insoluble in water and slightly soluble in ethanol and methanol, polyethylene glycol 400 and propylene glycol; very slightly soluble in acetone and acetonitrile; and practically insoluble in corn oil.
+The drug substance is insoluble in water and slightly soluble in ethanol, methanol, polyethylene glycol 400 and propylene glycol; very slightly soluble in acetone and acetonitrile; and practically insoluble in corn oil.
 
 Dasatinib tablets are white to off-white, biconvex, film-coated tablets containing dasatinib, with the following inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, lactose monohydrate, magnesium stearate and microcrystalline cellulose.
 The tablet coating consists of hydroxypropyl cellulose, hypromellose, titanium dioxide and triethyl citrate.
