@@ -46,4 +46,6 @@ Capsules
 WARNING: Gengraf®Capsules (cyclosporine capsules, USP [MODIFIED]) is NOT BIOEQUIVALENT to Sandimmune® Soft Gelatin Capsules (cyclosporine capsules, USP).
 Do NOT use interchangeably without a physician’s supervision.
 
-abbvie Rx only
+abbvie
+
+Rx only
