@@ -14,7 +14,9 @@ Use in Pregnancy Results of animal studies indicate that tetracyclines cross the
 Evidence of embryotoxicity has been noted in animals treated early in pregnancy.
 The safety of minocycline for use during pregnancy has not been established.
 Dermatologic Reaction Drug Rash with Eosinophilia and Systemic Symptoms (DRESS) including fatal cases has been reported with minocycline use.
-If this syndrome is recognized, the drug should be discontinued immediately.
+Fixed drug eruptions have occurred with minocycline and other tetracyclines.
+Worsening severity upon subsequent administrations, including generalized bullous fixed drug eruption, has been observed with other tetracyclines (see ADVERSE REACTIONS).
+If severe skin reactions occur, discontinue minocycline immediately and institute appropriate therapy.
 
 Antianabolic Action The antianabolic action of the tetracyclines may cause an increase in blood urea nitrogen (BUN).
 While this is not a problem in those with normal renal function, in patients with significantly impaired function, higher serum levels of tetracycline may lead to azotemia, hyperphosphatemia, and acidosis.
@@ -78,8 +80,6 @@ Drug Interactions Because tetracyclines have been shown to depress plasma prothr
 Since bacteriostatic drugs may interfere with the bactericidal action of penicillin, it is advisable to avoid giving tetracycline-class drugs in conjunction with penicillin.
 
 Absorption of tetracyclines is impaired by antacids containing aluminum, calcium, or magnesium, and iron-containing preparations.
-The concurrent use of tetracycline and methoxyflurane has been reported to result in fatal renal toxicity.
-
 Concurrent use of tetracyclines with oral contraceptives may render oral contraceptives less effective.
 
 Administration of isotretinoin should be avoided shortly before, during, and shortly after minocycline therapy.
