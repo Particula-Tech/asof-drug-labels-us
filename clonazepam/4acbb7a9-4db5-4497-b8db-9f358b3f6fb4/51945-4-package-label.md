@@ -23,9 +23,9 @@ Distributed by: Solco Healthcare US, LLC Somerset, NJ 08873, USA
 
 Manufactured by: Prinston Laboratories Charlotte, NC 28206, USA
 
-Rev: JUL2022
+Rev: JAN2024
 
-9040403-03
+9040403-04
 
 # PRINCIPAL DISPLAY PANEL - 1 mg
 
@@ -52,9 +52,9 @@ Distributed by: Solco Healthcare US, LLC Somerset, NJ 08873, USA
 
 Manufactured by: Prinston Laboratories Charlotte, NC 28206, USA
 
-Rev: JUL2022
+Rev: JAN2024
 
-9040408-03
+9040408-04
 
 # PRINCIPAL DISPLAY PANEL - 2 mg
 
@@ -81,6 +81,6 @@ Distributed by: Solco Healthcare US, LLC Somerset, NJ 08873, USA
 
 Manufactured by: Prinston Laboratories Charlotte, NC 28206, USA
 
-Rev: JUL2022
+Rev: JAN2024
 
-9040411-03
+9040411-04

@@ -22,8 +22,7 @@ There is no evidence that clonazepam induces its own metabolism or that of other
 
 Controlled studies examining the influence of gender and age on clonazepam pharmacokinetics have not been conducted, nor have the effects of renal or liver disease on clonazepam pharmacokinetics been studied.
 Because clonazepam undergoes hepatic metabolism, it is possible that liver disease will impair clonazepam elimination.
-Thus, caution should be exercised when administering clonazepam to these patients.
-(see CONTRAINDICATIONS).
+Thus, caution should be exercised when administering clonazepam to these patients (see CONTRAINDICATIONS).
 
 In children, clearance values of 0.42 ± 0.32 mL/min/kg (ages 2 – 18 years) and 0.88 ± 0.4 mL/min/kg (ages 7 – 12 years) were reported; these values decreased with increasing body weight.
 Ketogenic diet in children does not affect clonazepam concentrations.

@@ -71,11 +71,11 @@ Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Contr
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Event by Body System | <1mg n=96 % | 1-<2mg n=129 % | 2-<3mg n=113 % | ≥3mg n=235 % | All Clonazepam Groups N=574 % | Placebo N=294 % |
 | Central & Peripheral Nervous System |  |  |  |  |  |  |
-| Somnolence† Indicates that the p-value for the dose-trend test (Cochran-Mantel-Haenszel) for adverse event incidence was ≤0.10. | 26 | 35 | 50 | 36 | 37 | 10 |
+| Somnolence† | 26 | 35 | 50 | 36 | 37 | 10 |
 | Dizziness | 5 | 5 | 12 | 8 | 8 | 4 |
-| Coordination Abnormal | 1 | 2 | 7 | 9 | 6 | 0 |
-| Ataxia | 2 | 1 | 8 | 8 | 5 | 0 |
-| Dysarthria | 0 | 0 | 4 | 3 | 2 | 0 |
+| Coordination Abnormal† | 1 | 2 | 7 | 9 | 6 | 0 |
+| Ataxia† | 2 | 1 | 8 | 8 | 5 | 0 |
+| Dysarthria† | 0 | 0 | 4 | 3 | 2 | 0 |
 | Psychiatric |  |  |  |  |  |  |
 | Depression | 7 | 6 | 8 | 8 | 7 | 1 |
 | Memory Disturbance | 2 | 5 | 2 | 5 | 4 | 2 |
@@ -85,16 +85,16 @@ Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Contr
 | Libido Decreased | 0 | 1 | 3 | 1 | 1 | 0 |
 | Confusion | 0 | 2 | 2 | 1 | 1 | 0 |
 | Respiratory System |  |  |  |  |  |  |
-| Upper Respiratory Tract Infection | 10 | 10 | 7 | 6 | 8 | 4 |
+| Upper Respiratory Tract Infection† | 10 | 10 | 7 | 6 | 8 | 4 |
 | Sinusitis | 4 | 2 | 8 | 4 | 4 | 3 |
 | Rhinitis | 3 | 2 | 4 | 2 | 2 | 1 |
 | Coughing | 2 | 2 | 4 | 0 | 2 | 0 |
 | Pharyngitis | 1 | 1 | 3 | 2 | 2 | 1 |
 | Bronchitis | 1 | 0 | 2 | 2 | 1 | 1 |
 | Gastrointestinal System |  |  |  |  |  |  |
-| Constipation | 0 | 1 | 5 | 3 | 2 | 2 |
+| Constipation† | 0 | 1 | 5 | 3 | 2 | 2 |
 | Appetite Decreased | 1 | 1 | 0 | 3 | 1 | 1 |
-| Abdominal Pain | 2 | 2 | 2 | 0 | 1 | 1 |
+| Abdominal Pain† | 2 | 2 | 2 | 0 | 1 | 1 |
 | Body as a Whole |  |  |  |  |  |  |
 | Fatigue | 9 | 6 | 7 | 7 | 7 | 4 |
 | Allergic Reaction | 3 | 1 | 4 | 2 | 2 | 1 |
@@ -104,10 +104,10 @@ Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Contr
 | Influenza | 3 | 2 | 5 | 5 | 4 | 3 |
 | Urinary System |  |  |  |  |  |  |
 | Micturition Frequency | 1 | 2 | 2 | 1 | 1 | 0 |
-| Urinary Tract Infection | 0 | 0 | 2 | 2 | 1 | 0 |
+| Urinary Tract Infection† | 0 | 0 | 2 | 2 | 1 | 0 |
 | Vision Disorders |  |  |  |  |  |  |
 | Blurred Vision | 1 | 2 | 3 | 0 | 1 | 1 |
-| Reproductive Disorders‡ Denominators for events in gender-specific systems are: n=240 (clonazepam), 102 (placebo) for male, and 334 (clonazepam), 192 (placebo) for female. |  |  |  |  |  |  |
+| Reproductive Disorders† |  |  |  |  |  |  |
 | Female |  |  |  |  |  |  |
 | Dysmenorrhea | 0 | 6 | 5 | 2 | 3 | 2 |
 | Colpitis | 4 | 0 | 2 | 1 | 1 | 1 |
@@ -117,7 +117,7 @@ Table 3 Treatment-Emergent Adverse Event Incidence in 6- to 9-Week Placebo-Contr
 
 Commonly Observed Adverse Events:
 
-Table 4 Incidence of Most Commonly Observed Adverse EventsTreatment-emergent events for which the incidence in the clonazepam patients was ≥5% and at least twice that in the placebo patients.in Acute Therapy in Pool of 6- to 9-Week Trials
+Table 4 Incidence of Most Commonly Observed Adverse Events* in Acute Therapy in Pool of 6- to 9-Week Trials
 
 | Adverse Event | Clonazepam (N=574) | Placebo (N=294) |
 | --- | --- | --- |
@@ -171,7 +171,7 @@ Respiratory System Disorders: sneezing excessive, asthmatic attack, dyspnea, nos
 
 Skin and Appendages Disorders: acne flare, alopecia, xeroderma, dermatitis contact, flushing, pruritus, pustular reaction, skin burns, skin disorder
 
-Special Senses, Other, Disorders: taste loss
+Special Senses Other, Disorders: taste loss
 
 Urinary System Disorders: dysuria, cystitis, polyuria, urinary incontinence, bladder dysfunction, urinary retention, urinary tract bleeding, urine discoloration
 

@@ -1,12 +1,8 @@
 # MEDICATION GUIDE
 
-Dispense with Medication Guide available at:
+Clonazepam Tablets, USP
 
-www.solcohealthcare.com/medguide/clonazepam-tablets.pdf
-
-Clonazepam Tablets
-
-for oral use
+for oral use,
 
 What is the most important information I should know about clonazepam tablets?
 
@@ -167,4 +163,4 @@ Distributed by: Solco Healthcare US, LLC Somerset, NJ 08873, USA
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 04/2023
+Revised: 08/2025

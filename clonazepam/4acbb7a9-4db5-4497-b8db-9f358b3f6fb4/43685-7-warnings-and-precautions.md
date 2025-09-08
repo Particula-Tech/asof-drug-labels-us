@@ -44,7 +44,7 @@ They should also be warned about the concomitant use of alcohol or other CNS-dep
 Antiepileptic drugs (AEDs), including clonazepam, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% Cl:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43% compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were four suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
@@ -158,7 +158,7 @@ This registry is collecting information about the safety of antiepileptic drugs 
 
 ### Nursing:
 
-Instruct patients to inform their healthcare provider if they are breastfeeding or intend to breastfeed during therapy.
+Instruct patients to inform their healthcare provider if they are breastfeeding or intend to breastfeed.
 Instruct breastfeeding patients who take clonazepam to monitor their infants for excessive sedation, poor feeding and poor weight gain, and to seek medical attention if they notice these signs (see PRECAUTIONS: Nursing Mothers).
 
 ### Concomitant Medication:
@@ -192,7 +192,7 @@ Literature reports suggest that ranitidine, an agent that decreases stomach acid
 In a study in which the 2 mg clonazepam orally disintegrating tablet was administered with and without propantheline (an anticholinergic agent with multiple effects on the GI tract) to healthy volunteers, the AUC of clonazepam was 10% lower and the Cmax of clonazepam was 20% lower when the orally disintegrating tablet was given with propantheline compared to when it was given alone.
 
 The selective serotonin reuptake inhibitors sertraline (weak CYP3A4 inducer) and fluoxetine (CYP2D6 inhibitor), and the anti-epileptic drug felbamate (CYP2C19 inhibitor and CYP3A4 inducer) do not affect the pharmacokinetics of clonazepam.
-Cytochrome P 450 inducers, such as phenytoin, carbamazepine, lamotrigine, and phenobarbital induce clonazepam metabolism, causing an approximately 38% decrease in plasma clonazepam levels.
+Cytochrome P-450 inducers, such as phenytoin, carbamazepine, lamotrigine, and phenobarbital induce clonazepam metabolism, causing an approximately 38% decrease in plasma clonazepam levels.
 Although clinical studies have not been performed, based on the involvement of the cytochrome P-450 3A family in clonazepam metabolism, inhibitors of this enzyme system, notably oral antifungal agents (e.g., fluconazole), should be used cautiously in patients receiving clonazepam because they may impair the metabolism of clonazepam leading to exaggerated concentrations and effects.
 
 ### Pharmacodynamic Interactions:
