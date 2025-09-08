@@ -34,11 +34,7 @@ Depo-Provera® Contraceptive Injection
 
 medroxyprogesterone acetate injectable suspension, USP
 
-Intramuscular use only 1 mL Single Dose Syringe Shake vigorously before use Pfizer Inc, NY, NY 10017 819 361 101
-
-LOT/EXP:
-
-8Q2671
+Intramuscular use only 1 mL Single Dose Syringe Shake vigorously before use Pfizer Inc, New York, NY 10001 LOT/EXP PAA234178
 
 # PRINCIPAL DISPLAY PANEL - 1 mL Syringe Carton - NDC 0009-7376-11
 
@@ -48,6 +44,6 @@ Pfizer Depo-Provera® Contraceptive Injection (medroxyprogesterone acetate) inje
 
 150 mg per mL
 
-Intramuscular use only Single Use Syringe Rx only
+Intramuscular use only Rx only Single Use Syringe
 
 1 mL Prefilled Syringe
