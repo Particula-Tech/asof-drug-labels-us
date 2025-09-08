@@ -74,4 +74,4 @@ The effects on fertility are reversible [see Use in Specific Populations (8.3)].
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-02-2025-03
+09-2025-04
