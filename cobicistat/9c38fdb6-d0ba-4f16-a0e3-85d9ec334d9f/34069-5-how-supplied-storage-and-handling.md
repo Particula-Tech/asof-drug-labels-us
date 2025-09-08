@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-PREZCOBIX ®(darunavir and cobicistat) tablets, 800/150 mg, are supplied as pink, oval-shaped, film-coated tablets debossed with "800" on one side and "TG" on the other side.
+PREZCOBIX ® (darunavir and cobicistat) tablets, 800/150 mg, are supplied as pink, oval-shaped, film-coated tablets debossed with "800" on one side and "TG" on the other side.
 Bottle of 30 tablets (NDC 59676-575-30).
 
 PREZCOBIX ®(darunavir and cobicistat) tablets, 675/150 mg, are supplied as green to dark green, oval-shaped, scored film-coated tablet debossed with “675” on one side and “TG” on the other side.

@@ -23,7 +23,7 @@ Effects on Serum Creatinine
 
 Cobicistat: The effect of cobicistat on serum creatinine was investigated in a trial in participants with normal renal function (eGFR ≥80 mL/min, N=12) and mild-to-moderate renal impairment (eGFR 50–79 mL/min, N=18).
 A statistically significant decrease in the estimated glomerular filtration rate, calculated by Cockcroft-Gault method (eGFR CG) from baseline, was observed after 7 days of treatment with cobicistat 150 mg among participants with normal renal function (-9.9 ± 13.1 mL/min) and mild-to-moderate renal impairment (-11.9 ± 7.0 mL/min).
-No statistically significant changes in eGFR CGwere observed compared to baseline for participants with normal renal function or mild-to-moderate renal impairment 7 days after cobicistat was discontinued.
+No statistically significant changes in eGFR CG were observed compared to baseline for participants with normal renal function or mild-to-moderate renal impairment 7 days after cobicistat was discontinued.
 The actual glomerular filtration rate, as determined by the clearance of probe drug iohexol, was not altered from baseline following treatment of cobicistat among participants with normal renal function and mild-to-moderate renal impairment, indicating that cobicistat inhibits tubular secretion of creatinine, reflected as a reduction in eGFR CG, without affecting the actual glomerular filtration rate.
 
 ## 12.3 Pharmacokinetics
@@ -198,9 +198,9 @@ Inhibition of CYP3A-mediated metabolism by cobicistat enhances the systemic expo
 
 Antiviral Activity
 
-Darunavir: Darunavir exhibits activity against laboratory strains and clinical isolates of HIV-1 and laboratory strains of HIV-2 in acutely infected T-cell lines, human peripheral blood mononuclear cells, and human monocytes/macrophages with median EC 50values ranging from 1.2 to 8.5 nM (0.7 to 5.0 ng/mL).
-Darunavir demonstrates antiviral activity in cell culture against a broad panel of HIV-1 group M (A, B, C, D, E, F, G), and group O primary isolates with EC 50values ranging from less than 0.1 to 4.3 nM.
-The EC 50value of darunavir increases by a median factor of 5.4 in the presence of human serum.
+Darunavir: Darunavir exhibits activity against laboratory strains and clinical isolates of HIV-1 and laboratory strains of HIV-2 in acutely infected T-cell lines, human peripheral blood mononuclear cells, and human monocytes/macrophages with median EC 50 values ranging from 1.2 to 8.5 nM (0.7 to 5.0 ng/mL).
+Darunavir demonstrates antiviral activity in cell culture against a broad panel of HIV-1 group M (A, B, C, D, E, F, G), and group O primary isolates with EC 50 values ranging from less than 0.1 to 4.3 nM.
+The EC 50 value of darunavir increases by a median factor of 5.4 in the presence of human serum.
 Darunavir did not show antagonism when studied in combination with the HIV protease inhibitors (PIs) amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir, or tipranavir, the N(t)RTIs abacavir, didanosine, emtricitabine, lamivudine, stavudine, tenofovir, zalcitabine, or zidovudine, the NNRTIs delavirdine, efavirenz, etravirine, rilpivirine, or nevirapine, and the fusion inhibitor enfuvirtide.
 
 Cobicistat: Cobicistat does not inhibit recombinant HIV-1 protease in a biochemical assay and has no detectable antiviral activity in cell culture against HIV-1.

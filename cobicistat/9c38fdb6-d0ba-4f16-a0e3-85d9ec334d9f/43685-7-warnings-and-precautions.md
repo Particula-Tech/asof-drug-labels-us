@@ -30,7 +30,7 @@ Cobicistat decreases estimated creatinine clearance due to inhibition of tubular
 This effect should be considered when interpreting changes in estimated creatinine clearance in patients initiating PREZCOBIX, particularly in patients with medical conditions or receiving drugs needing monitoring with estimated creatinine clearance.
 
 Prior to initiating therapy with PREZCOBIX, assess estimated creatinine clearance [see Dosage and Administration (2.2)].
-Dosage recommendations are not available for drugs that require dosage adjustments in PREZCOBIX-treated patients with renal impairment [see Drug Interactions (7.3)and Clinical Pharmacology (12.2)].
+Dosage recommendations are not available for drugs that require dosage adjustments in PREZCOBIX-treated patients with renal impairment [see Drug Interactions (7.3) and Clinical Pharmacology (12.2)].
 Consider alternative medications that do not require dosage adjustments in patients with renal impairment.
 
 Although cobicistat may cause modest increases in serum creatinine and modest declines in estimated creatinine clearance without affecting renal glomerular function, patients who experience a confirmed increase in serum creatinine of greater than 0.4 mg/dL from baseline should be closely monitored for renal safety.

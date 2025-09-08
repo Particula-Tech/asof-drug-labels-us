@@ -1,16 +1,24 @@
 # PRINCIPAL DISPLAY PANEL - 800 mg/150 mg Tablet Bottle Label
 
-NDC59676-575-30
+NDC 59676-575-30
 
 PREZCOBIX ® (darunavir and cobicistat) Tablets
 
 800 mg/150 mg
 
-Each tablet contains darunavir ethanolate (equivalent to 800 mg of darunavir) and 150 mg cobicistat.
+ALERT: Find out about medicines
 
-Keep out of reach of children
+that should NOT be taken with PREZCOBIX ®
 
-Rx only 30 Tablets
+from your healthcare provider.
+
+Rx only
+
+30 Tablets
+
+Johnson
+
+&Johnson
 
 # PRINCIPAL DISPLAY PANEL - 675 mg/150 mg Tablet Bottle Carton
 
