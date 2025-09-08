@@ -1,6 +1,14 @@
 # 5 WARNINGS AND PRECAUTIONS
 
-## 5.1 Thromboembolic Risk
+## 5.1 Risk of Medication Errors Due to Incorrect Route of Administration
+
+CYKLOKAPRON is for intravenous use only.
+Serious, including fatal, adverse reactions including seizures and cardiac arrythmias have occurred when CYKLOKAPRON was inadvertently administered via the neuraxial route.
+
+Confirm the correct route of administration for CYKLOKAPRON and avoid confusion with other injectable solutions that might be administered at the same time as CYKLOKAPRON.
+Clearly label syringes containing CYKLOKAPRON with the intravenous route of administration.
+
+## 5.2 Thromboembolic Risk
 
 CYKLOKAPRON is contraindicated in patients with active intravascular clotting.
 
@@ -9,19 +17,11 @@ Venous and arterial thrombosis or thromboembolism has been reported in patients 
 Avoid concomitant use of CYKLOKAPRON and medical products that are pro-thrombotic, as the risk of thrombosis may be increased.
 These medications include but are not limited to, Factor IX Complex concentrates, Anti-inhibitor Coagulant concentrates, and hormonal contraceptives [see Drug Interactions (7.1), Use in Specific Populations (8.3)].
 
-## 5.2 Risk of Medication Errors Due to Incorrect Route of Administration
-
-CYKLOKAPRON is for intravenous use only.
-Serious adverse reactions including seizures and cardiac arrythmias have occurred when CYKLOKAPRON was inadvertently administered intrathecally instead of intravenously.
-
-Confirm the correct route of administration for CYKLOKAPRON and avoid confusion with other injectable solutions that might be administered at the same time as CYKLOKAPRON.
-Syringes containing CYKLOKAPRON should be clearly labeled with the intravenous route of administration.
-
 ## 5.3 Seizures
 
 CYKLOKAPRON may cause seizures, including focal and generalized seizures.
-The most common setting for tranexamic acid-induced seizures has been during cardiovascular surgery (a setting in which CYKLOKAPRON is not FDA-approved and which uses doses of up to 10-fold higher than the recommended human dose and in patients inadvertently given tranexamic acid into the neuraxial system).
-CYKLOKAPRON is not approved and not recommended for neuraxial administration.
+The most common setting for tranexamic acid-induced seizures has been during cardiovascular surgery (a setting in which CYKLOKAPRON is not FDA‑approved and which uses doses of up to 10‑fold higher than the recommended human dose and in patients inadvertently given tranexamic acid via the neuraxial route).
+CYKLOKAPRON is contraindicated for neuraxial administration (i.e., epidural, intrathecal).
 Consider dose reduction during surgery and dose adjustments for patients with clinical conditions such as renal dysfunction.
 Closely monitor the patient during surgery.
 Consider electroencephalogram (EEG) monitoring for patients with history of seizures or who experience myoclonic movements, twitching, or show evidence of focal seizures.

@@ -2,7 +2,8 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- •Thromboembolic Risk [see Warnings and Precautions (5.1)]
+- •Risk of Medication Errors Due to Incorrect Route of Administration [see Warnings and Precautions (5.1)]
+- •Thromboembolic Risk [see Warnings and Precautions (5.2)]
 - •Seizures [see Warnings and Precautions (5.3)]
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.4)]
 - •Visual Disturbances [see Warnings and Precautions (5.5)]

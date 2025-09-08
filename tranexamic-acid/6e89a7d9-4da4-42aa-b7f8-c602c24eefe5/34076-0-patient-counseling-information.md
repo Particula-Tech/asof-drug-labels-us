@@ -4,7 +4,7 @@ Thromboembolic Risk
 
 Inform patients that CYKLOKAPRON may increase the risk of venous and arterial thrombosis or thromboembolism and to contact their healthcare provider for any signs or symptoms suggestive of thromboembolism.
 
-Advise patients using hormonal contraception that combined use with CYKLOKAPRON may increase the risk for thromboembolic adverse reactions and to use effective alternative (nonhormonal) contraception during therapy with CYKLOKAPRON [see Warnings and Precautions (5.1), Drug Interactions (7.1), Use in Specific Populations (8.3)].
+Advise patients using hormonal contraception that combined use with CYKLOKAPRON may increase the risk for thromboembolic adverse reactions and to use effective alternative (nonhormonal) contraception during therapy with CYKLOKAPRON [see Warnings and Precautions (5.2), Drug Interactions (7.1), Use in Specific Populations (8.3)].
 
 Seizures
 

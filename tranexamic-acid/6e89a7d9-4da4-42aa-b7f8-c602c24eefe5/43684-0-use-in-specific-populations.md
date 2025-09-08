@@ -29,7 +29,7 @@ There were 13 clinical studies that described fetal and/or neonatal functional i
 
 Animal Data
 
-In embryo-fetal development studies, tranexamic acid was administered to pregnant mice from Gestation day (GD) 6 through GD 12 and rats from GD 9 through GD 14 at daily doses of 0.3 or 1.5 g/kg.
+In embryo-fetal development studies, tranexamic acid was administered to pregnant mice from Gestation Day (GD) 6 through GD 12 and rats from GD 9 through GD 14 at daily doses of 0.3 or 1.5 g/kg.
 There was no evidence of adverse developmental outcomes in mice and rats at multiple of 3 and 6 times the maximum recommended human dose based on body surface area in the mouse and rat, respectively.
 
 In rabbits, tranexamic acid was administered intravenously at doses of 50, 100, or 200 mg/kg/day or orally at doses of 100, 200, or 400 mg/kg/day from GD 6 through GD 18.
@@ -49,7 +49,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 Contraception
 
 Concomitant use of CYKLOKAPRON, which is an antifibrinolytic, with hormonal contraceptives may increase the risk for thromboembolic adverse reactions.
-Advise patients to use an effective alternative (nonhormonal) contraceptive method [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
+Advise patients to use an effective alternative (nonhormonal) contraceptive method [see Warnings and Precautions (5.2), Drug Interactions (7.1)].
 
 ## 8.4 Pediatric Use
 
