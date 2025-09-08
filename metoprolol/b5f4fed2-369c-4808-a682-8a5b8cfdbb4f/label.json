@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA218698"
+  ],
+  "inn": "metoprolol",
+  "labeler": "VALIDUS PHARMACEUTICALS LLC",
+  "package_ndcs": [
+    "30698-460-03",
+    "30698-460-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "metoprolol tartrate",
+      "name": "LOPRESSOR"
+    }
+  ],
+  "setid": "b5f4fed2-369c-4808-a682-8a5b8cfdbb4f",
+  "source": "dailymed"
+}
