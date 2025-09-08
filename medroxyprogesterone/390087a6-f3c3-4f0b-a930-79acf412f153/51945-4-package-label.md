@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 0.65 mL Syringe Label
 
-PAA142059
+PAA229214
 
 depo-subQ provera 104® (medroxyprogesterone acetate) injectable suspension (104 mg/0.65 mL for subcutaneous use)
 
@@ -10,7 +10,7 @@ depo-subQ provera 104® (medroxyprogesterone acetate) injectable suspension (104
 Do not refrigerate.
 Shake vigorously before use.
 
-Pharmacia & Upjohn Co
+Pharmacia & Upjohn Company LLC
 
 LOT/EXP:
 
@@ -26,6 +26,6 @@ depo-subQ provera 104® (medroxyprogesterone acetate) injectable suspension (104
 
 Pfizer
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Distributed by Pharmacia & Upjohn Company LLC A Subsidiary of Pfizer Inc. New York, NY 10011
 
 Rx only
