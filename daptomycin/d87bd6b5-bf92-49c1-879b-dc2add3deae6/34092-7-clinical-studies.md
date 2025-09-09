@@ -67,7 +67,7 @@ The clinical success rates determined at 7 to 14 days after last dose of therapy
 ## 14.2 S. aureus Bacteremia/Endocarditis
 
 Adults with S. aureus Bacteremia/Endocarditis The efficacy of daptomycin for injection in the treatment of adult patients with S. aureus bacteremia was demonstrated in a randomized, controlled, multinational, multicenter, open-label trial.
-In this trial, adult patients with at least one positive blood culture for S. aureus obtained within 2 calendar days prior to the first dose of study drug and irrespective of source were enrolled and randomized to either daptomycin injection (6 mg/kg IV every 24h) or standard of care [an anti-staphylococcal semi-synthetic penicillin 2 g IV q4h (nafcillin, oxacillin, cloxacillin, or flucloxacillin) or vancomycin 1 g IV q12h, each with initial gentamicin 1 mg/kg IV every 8 hours for first 4 days].
+In this trial, adult patients with at least one positive blood culture for S. aureus obtained within 2 calendar days prior to the first dose of study drug and irrespective of source were enrolled and randomized to either daptomycin for injection (6 mg/kg IV every 24h) or standard of care [an anti-staphylococcal semi-synthetic penicillin 2 g IV q4h (nafcillin, oxacillin, cloxacillin, or flucloxacillin) or vancomycin 1 g IV q12h, each with initial gentamicin 1 mg/kg IV every 8 hours for first 4 days].
 Of the patients in the comparator group, 93% received initial gentamicin for a median of 4 days, compared with 1 patient (<1%) in the daptomycin for injection group.
 Patients with prosthetic heart valves, intravascular foreign material that was not planned for removal within 4 days after the first dose of study medication, severe neutropenia, known osteomyelitis, polymicrobial bloodstream infections, creatinine clearance <30 mL/min, and pneumonia were excluded.
 
@@ -85,7 +85,7 @@ Of the 235 ITT patients, there were 141 (60%) males and 156 (66%) Caucasians acr
 In addition, 176 (75%) of the ITT population had systemic inflammatory response syndrome (SIRS) at baseline and 85 (36%) had surgical procedures within 30 days prior to onset of the S. aureus bacteremia.
 Eighty-nine patients (38%) had bacteremia caused by methicillin-resistant S. aureus (MRSA).
 Entry diagnosis was based on the modified Duke criteria and comprised 37 (16%) Definite, 144 (61%) Possible, and 54 (23%) Not Endocarditis.
-Of the 37 patients with an entry diagnosis of Definite Endocarditis, a l (100%) had a final diagnosis of infective endocarditis, and of the 144 patients with an entry diagnosis of Possible Endocarditis, 15 (10%) had a final diagnosis of infective endocarditis as assessed by the Adjudication Committee.
+Of the 37 patients with an entry diagnosis of Definite Endocarditis, all (100%) had a final diagnosis of infective endocarditis, and of the 144 patients with an entry diagnosis of Possible Endocarditis, 15 (10%) had a final diagnosis of infective endocarditis as assessed by the Adjudication Committee.
 Of the 54 patients with an entry diagnosis of Not Endocarditis, 1 (2%) had a final diagnosis of infective endocarditis as assessed by the Adjudication Committee.
 
 In the ITT population, there were 182 patients with bacteremia and 53 patients with infective endocarditis as assessed by the Adjudication Committee, including 35 with right-sided endocarditis and 18 with left-sided endocarditis.
