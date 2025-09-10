@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA205919"
+  ],
+  "inn": "mercaptopurine",
+  "labeler": "Nova Laboratories, Ltd",
+  "package_ndcs": [
+    "62484-1020-3",
+    "62484-1020-4"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "mercaptopurine",
+      "name": "MERCAPTOPURINE"
+    }
+  ],
+  "setid": "9c6fc66b-522f-499d-961a-cde6ca0ec2e5",
+  "source": "dailymed"
+}
