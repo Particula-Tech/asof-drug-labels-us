@@ -54,7 +54,7 @@ Liquidia™
 
 NDC 72964-012-01 Rx Only
 
-26.5 mcg per capsule
+53 mcg per capsule
 
 Yutrepia™ (treprostinil) inhalation powder
 
@@ -70,9 +70,7 @@ Liquidia™
 
 # PRINCIPAL DISPLAY PANEL – 79.5 mcg Carton
 
-NDC 72964-013-01
-
-Rx Only
+NDC 72964-013-01 Rx Only
 
 79.5 mcg per capsule
 
