@@ -10,8 +10,10 @@ Potassium Supplements
 
 Advise patients receiving irbesartan tablets not to use potassium supplements or salt substitutes containing potassium without consulting their healthcare provider [see Drug Interactions (7.1)].
 
-Manufactured for: Macleods Pharma USA, Inc. Plainsboro, NJ 08536
+Manufactured for: Macleods Pharma USA, Inc.
 
-Manufactured by: Macleods Pharmaceuticals Ltd. Daman (U.T.), INDIA
+Princeton, NJ 08540
 
-Packaged by: Legacy Pharmaceutical Packaging LLC, Earth City, MO 63045 OR Macleods Pharmaceuticals Ltd. Daman (U.T.), INDIA
+Manufactured by: Macleods Pharmaceuticals Limited, INDIA
+
+Revision: September 2025
