@@ -82,21 +82,36 @@ Refer to the lazertinib prescribing information for information about concomitan
 
 ## 2.5 Recommended Premedications
 
-Prior to the initial infusion of RYBREVANT (Week 1, Day 1 and 2), administer premedications as described in Table 5 to reduce the risk of infusion-related reactions [see Warnings and Precautions (5.1)].
+Administer premedications as described in Table 5.
 
-Glucocorticoid administration is required for Week 1, Day 1 and 2 dose only and upon re-initiation after prolonged dose interruptions, then as necessary for subsequent infusions (see Table 5).
-Administer both antihistamine and antipyretic prior to all infusions.
+After prolonged dose interruptions, restart the following Week 1 Day 1 premedications upon re-initiation: intravenous dexamethasone, diphenhydramine, and acetaminophen.
 
 Table 5: Premedications
 
-| Medication | Dose | Route of Administration | Dosing Window Prior to RYBREVANT Administration |
+| Premedication Schedule | Medication and Frequency | Route of Administration | Dosing Window Prior to RYBREVANT Administration |
 | --- | --- | --- | --- |
-| Antihistamine Required at all doses. | Diphenhydramine (25 to 50 mg) or equivalent | Intravenous | 15 to 30 minutes |
-| Oral | 30 to 60 minutes |  |  |
-| Antipyretic | Acetaminophen (650 to 1,000 mg) | Intravenous | 15 to 30 minutes |
-| Oral | 30 to 60 minutes |  |  |
-| Glucocorticoid Required at initial dose (Week 1 Day 1). | Dexamethasone (20 mg) or equivalent | Intravenous | 45 to 60 minutes |
-| Glucocorticoid Required at second dose (Week 1 Day 2); optional for subsequent doses. | Dexamethasone (10 mg) or equivalent | Intravenous | 45 to 60 minutes |
+| Initial dose as a split infusion | Dexamethasone 8 mg (or equivalent) | Oral | 48 hours |
+| Week 1 Day -2 | twice daily |  |  |
+| Initial dose as a split infusion | Dexamethasone 8 mg (or equivalent) | Oral | 24 hours |
+| Week 1 Day -1 | twice daily |  |  |
+| Initial dose as a split infusion | Dexamethasone 8 mg (or equivalent) | Oral | One hour |
+| Week 1 Day 1 | one dose |  |  |
+|  | Dexamethasone 20 mg (or equivalent) one dose | Intravenous | 45 to 60 minutes |
+|  | Diphenhydramine 25 mg to 50 mg (or equivalent) one dose | Oral | 30 to 60 minutes |
+|  | Intravenous | 15 to 30 minutes |  |
+|  | Acetaminophen 650 mg to 1,000 mg one dose | Oral | 30 to 60 minutes |
+|  | Intravenous | 15 to 30 minutes |  |
+| Initial dose as a split infusion | Dexamethasone 10 mg (or equivalent) | Intravenous | 45 to 60 minutes |
+| Week 1 Day 2 | one dose |  |  |
+|  | Diphenhydramine 25 mg to 50 mg (or equivalent) one dose | Oral | 30 to 60 minutes |
+|  | Intravenous | 15 to 30 minutes |  |
+|  | Acetaminophen 650 mg to 1,000 mg one dose | Oral | 30 to 60 minutes |
+|  | Intravenous | 15 to 30 minutes |  |
+| All subsequent infusions | Diphenhydramine 25 mg to 50 mg (or equivalent) one dose | Oral | 30 to 60 minutes |
+| Intravenous | 15 to 30 minutes |  |  |
+| Acetaminophen 650 mg to 1,000 mg one dose | Oral | 30 to 60 minutes |  |
+| Intravenous | 15 to 30 minutes |  |  |
+| Optional: Dexamethasone 10 mg (or equivalent) one dose | Intravenous | 45 to 60 minutes |  |
 
 ## 2.6 Dosage Modifications for Adverse Reactions
 
@@ -104,7 +119,7 @@ The recommended dose reductions for adverse reactions for RYBREVANT are listed i
 
 Table 6: Dose Reductions for Adverse Reactions for RYBREVANT
 
-| Dose at which the adverse reaction occurred | 1 st Dose Reduction | 2 nd Dose Reduction | 3 rd Dose Reduction |
+| Dose at which the adverse reaction occurred | 1 stDose Reduction | 2 ndDose Reduction | 3 rdDose Reduction |
 | --- | --- | --- | --- |
 | 1,050 mg | 700 mg | 350 mg | Discontinue RYBREVANT |
 | 1,400 mg | 1,050 mg | 700 mg |  |
@@ -164,7 +179,7 @@ Dilute and prepare RYBREVANT for intravenous infusion before administration.
 
 - Administer the diluted RYBREVANT solution [see Dosage and Administration (2.7)] by intravenous infusion using an infusion set fitted with a flow regulator and with an in-line, sterile, non-pyrogenic, low protein-binding polyethersulfone (PES) filter (pore size 0.2 micrometer).
 - Administration sets must be made of either polyurethane (PU), polybutadiene (PBD), PVC, PP, or PE.
-- The administration set with filter, must be primed with either 5% Dextrose Injection or 0.9% Sodium Chloride Injection prior to the initiation of each RYBREVANT infusion.
+- The administration set with filter, mustbe primed with either 5% Dextrose Injection or 0.9% Sodium Chloride Injection prior to the initiation of each RYBREVANT infusion.
 - Do not infuse RYBREVANT concomitantly in the same intravenous line with other agents.
 
 RYBREVANT in Combination with Carboplatin and Pemetrexed

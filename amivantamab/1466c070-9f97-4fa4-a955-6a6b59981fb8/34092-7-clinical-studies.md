@@ -114,7 +114,7 @@ Table 20: Efficacy results in MARIPOSA-2
 | Partial response | 52% | 29% |
 | Duration of response,(DOR) |  |  |
 | Median (95% CI), months | 6.9 (5.5, NE) | 5.6 (4.2, 9.6) |
-| CI = confidence interval NE = not estimatable |  |  |
+| CI = confidence interval; NE = not estimable |  |  |
 
 Figure 3: Kaplan-Meier curve of PFS in Previously Treated NSCLC Patients by BICR assessment- MARIPOSA-2
 
@@ -157,12 +157,12 @@ Table 21: Efficacy Results in PAPILLON
 
 |  | RYBREVANT+ carboplatin+ pemetrexed (N=153) | carboplatin+ pemetrexed (N=155) |
 | --- | --- | --- |
-| Progression-Free Survival (PFS) |  |  |
+| Progression-free survival (PFS) |  |  |
 | Number of events (%) | 84 (55) | 132 (85) |
 | Median, months (95% CI) | 11.4 (9.8, 13.7) | 6.7 (5.6, 7.3) |
 | HR (95% CI) | 0.40 (0.30, 0.53) |  |
 | p-value | p<0.0001 |  |
-| Overall Response Rate (ORR)Confirmed responses. |  |  |
+| Overall response rate (ORR)Confirmed responses. |  |  |
 | ORR, % (95% CI) | 67 (59, 75) | 36 (29, 44) |
 | Complete response, % | 4 | 1 |
 | Partial response, % | 63 | 36 |
@@ -199,10 +199,10 @@ Table 22: Efficacy Results for CHRYSALIS
 
 |  | Prior Platinum-based Chemotherapy Treated (N=81) |
 | --- | --- |
-| Overall Response Rate(95% CI) | 40% (29%, 51%) |
+| Overall response rate(95% CI) | 40% (29%, 51%) |
 | Complete response (CR) | 3.7% |
 | Partial response (PR) | 36% |
-| Duration of Response (DOR) |  |
+| Duration of response (DOR) |  |
 | Median, months (95% CI), months | 11.1 (6.9, NE) |
 | Patients with DOR ≥ 6 months | 63% |
-| Based on Kaplan-Meier estimates. NE=Not Estimable, CI=confidence interval. |  |
+| Based on Kaplan-Meier estimates. NE=Not Estimable; CI=confidence interval. |  |

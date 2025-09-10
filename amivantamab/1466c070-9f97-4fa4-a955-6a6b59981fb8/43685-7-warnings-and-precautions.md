@@ -49,7 +49,7 @@ Based on the pooled safety population [see Adverse Reactions (6.1)], ILD/pneumon
 
 RYBREVANT as a Single Agent
 
-In CHRYSALIS, [see Adverse Reactions (6.1)], ILD/pneumonitis occurred in 3.3% of patients treated with RYBREVANT as a single agent, with 0.7 % of patients experiencing Grade 3 ILD/pneumonitis.
+In CHRYSALIS, [see Adverse Reactions (6.1)], ILD/pneumonitis occurred in 3.3% of patients treated with RYBREVANT as a single agent, with 0.7% of patients experiencing Grade 3 ILD/pneumonitis.
 Three patients (1%) permanently discontinued RYBREVANT due to ILD/pneumonitis.
 
 Monitor patients for new or worsening symptoms indicative of ILD/pneumonitis (e.g., dyspnea, cough, fever).

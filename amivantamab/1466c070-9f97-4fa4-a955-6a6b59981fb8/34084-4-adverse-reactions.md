@@ -104,7 +104,7 @@ Table 10: Adverse Reactions (≥ 10%) in Patients with NSCLC with Exon 19 Deleti
 | Conjunctivitis | 11 | 0.2 | 1.6 | 0 |
 | Metabolism and nutrition disorders |  |  |  |  |
 | Decreased appetite | 24 | 1 | 18 | 1.4 |
-| Respiratory, thoracic, and mediastinal disorders |  |  |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
 | Cough | 19 | 0 | 23 | 0 |
 | Dyspnea | 14 | 1.7 | 17 | 3.5 |
 | Eye disorders |  |  |  |  |
@@ -142,8 +142,7 @@ Table 11: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline 
 Previously Treated Non-Small Cell Lung Cancer (NSCLC) with EGFR Exon 19 Deletions or Exon 21 L858R Substitution Mutations
 
 The safety data described below reflect exposure to RYBREVANT in combination with carboplatin and pemetrexed was evaluated in MARIPOSA-2 [see Clinical Studies (14.2)].
-Eligible patients had locally advanced or metastatic NSCLC with EGFR exon 19 deletions or exon 21 L858R substitution mutations with progressive disease on or after treatment with osimertinib.
-Patients with asymptomatic or previously treated and stable intracranial metastases were eligible.
+Eligible patients had locally advanced or metastatic NSCLC with EGFR exon 19 deletions or exon 21 L858R substitution mutations with progressive disease on or after treatment with osimertinib.Patients with asymptomatic or previously treated and stable intracranial metastases were eligible.
 Patients received RYBREVANT intravenously at 1,400 mg (for patients < 80 kg) or 1,750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1,750 mg (for patients < 80 kg) or 2,100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity, in combination with carboplatin at area under the curve AUC 5 once every 3 weeks, for up to 12 weeks, and pemetrexed at 500 mg/m 2once every 3 weeks until disease progression or unacceptable toxicity.
 Among patients who received RYBREVANT (n=130), 52% were exposed for 6 months or longer and 7% were exposed for greater than one year.
 The median treatment duration was 6.3 months (range: 0 to 14.7 months).
@@ -201,7 +200,7 @@ Table 12: Adverse Reactions (≥ 10%) in Previously Treated Patients with NSCLC 
 | Vascular disorders |  |  |  |  |
 | Hemorrhage | 14 | 0.8 | 4.9 | 0 |
 | Venous Thromboembolism (VTE) | 10 | 2.3 | 4.5 | 2.9 |
-| Respiratory, thoracic, and mediastinal disorders |  |  |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
 | Cough | 14 | 0 | 16 | 0.4 |
 | Dyspnea | 13 | 1.5 | 8 | 1.2 |
 
@@ -260,7 +259,7 @@ Table 14 summarizes the adverse reactions in PAPILLON.
 
 Table 14: Adverse Reactions (≥ 10%) in Patients with Metastatic NSCLC with Exon 20 Insertion Mutations Who Received RYBREVANT in Combination with Carboplatin and Pemetrexed in PAPILLON
 
-| Adverse Reaction Adverse reactions were graded using CTCAE version 5.0 | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
+| Adverse Reaction Adverse reactions were graded using CTCAE version 5.0. | All Grades (%) | Grade 3 or 4 (%) | All Grades (%) | Grade 3 or 4 (%) |
 | --- | --- | --- | --- | --- |
 |  | RYBREVANT in Combination with Carboplatin and Pemetrexed (n=151) |  | Carboplatin and Pemetrexed (n=155) |  |
 | Skin and subcutaneous tissue disorders |  |  |  |  |
@@ -416,4 +415,4 @@ Table 17: Select Laboratory Abnormalities (≥ 20%) That Worsened from Baseline 
 The following adverse reactions associated with the use of RYBREVANT were identified in clinical studies or postmarketing reports.
 Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune System disorders: Infusion-related reactions, including anaphylaxis/anaphylactic reactions
+Immune system disorders:Infusion-related reactions, including anaphylaxis/anaphylactic reactions
