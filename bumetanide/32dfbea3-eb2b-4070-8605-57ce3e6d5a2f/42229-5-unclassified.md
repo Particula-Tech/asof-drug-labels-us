@@ -1,4 +1,4 @@
-BUMEX® Brand of bumetanide TABLETS
+BUMEX ® Brand of bumetanide TABLETS
 
 For oral use
 

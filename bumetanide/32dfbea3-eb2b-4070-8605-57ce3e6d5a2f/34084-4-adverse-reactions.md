@@ -19,4 +19,4 @@ There have been rare spontaneous reports of thrombocytopenia from postmarketing 
 Diuresis induced by Bumex may also rarely be accompanied by changes in LDH (1.0%), total serum bilirubin (0.8%), serum proteins (0.7%), SGOT (0.6%), SGPT (0.5%), alkaline phosphatase (0.4%), cholesterol (0.4%) and creatinine clearance (0.3%).
 Increases in urinary glucose (0.7%) and urinary protein (0.3%) have also been seen.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-982-5438 (1-866-9VALIDUS) or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-982-5438 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

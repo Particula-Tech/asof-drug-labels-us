@@ -5,7 +5,7 @@ Pharmacological and clinical studies have shown that 1 mg Bumex has a diuretic p
 The major site of Bumex action is the ascending limb of the loop of Henle.
 
 The mode of action has been determined through various clearance studies in both humans and experimental animals.
-Bumex inhibits sodium reabsorption in the ascending limb of the loop of Henle, as shown by marked reduction of free-water clearance (CH2O) during hydration and tubular free-water reabsorption (TCH2O) during hydropenia.
+Bumex inhibits sodium reabsorption in the ascending limb of the loop of Henle, as shown by marked reduction of free-water clearance (CH 2O) during hydration and tubular free-water reabsorption (T CH 2O) during hydropenia.
 Reabsorption of chloride in the ascending limb is also blocked by Bumex, and Bumex is somewhat more chloruretic than natriuretic.
 
 Potassium excretion is also increased by Bumex, in a dose-related fashion.

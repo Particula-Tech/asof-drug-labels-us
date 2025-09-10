@@ -91,7 +91,7 @@ Interaction studies in humans have shown Bumex to have no effect on warfarin met
 
 ## Carcinogenesis, Mutagenesis and Impairment of Fertility
 
-Bumex was devoid of mutagenic activity in various strains of Salmonella typhimurium when tested in the presence or absence of an in vitro metabolic activation system.
+Bumex was devoid of mutagenic activity in various strains of Salmonella typhimurium when tested in the presence or absence of an in vitrometabolic activation system.
 An 18-month study showed an increase in mammary adenomas of questionable significance in female rats receiving oral doses of 60 mg/kg/day (2000 times a 2-mg human dose).
 A repeat study at the same doses failed to duplicate this finding.
 
@@ -130,7 +130,7 @@ As a general rule, nursing should not be undertaken while the patient is on Bume
 
 Safety and effectiveness in pediatric patients below the age of 18 have not been established.
 
-In vitro studies using pooled sera from critically ill neonates have shown bumetanide to be a potent displacer of bilirubin (see CLINICAL PHARMACOLOGY: Pediatric Pharmacology).
+In vitrostudies using pooled sera from critically ill neonates have shown bumetanide to be a potent displacer of bilirubin (see CLINICAL PHARMACOLOGY: Pediatric Pharmacology).
 The administration of bumetanide could present a particular concern if given to critically ill or jaundiced neonates at risk for kernicterus.
 
 ## Geriatric Use
