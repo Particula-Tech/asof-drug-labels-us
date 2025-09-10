@@ -2,7 +2,7 @@
 
 The following clinically significant adverse reactions are described elsewhere in the labeling:
 
-- Embryo-Fetal Toxicity [see Warnings and Precautions (5.1)and Use in Specific Populations (8.1, 8.6)]
+- Embryo-Fetal Toxicity [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1, 8.6)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.2)]
 - Risk of Ophthalmologic Adverse Reactions [see Warnings and Precautions (5.3)]
 - Mood and Sleep Disorders [see Warnings and Precautions (5.4)]

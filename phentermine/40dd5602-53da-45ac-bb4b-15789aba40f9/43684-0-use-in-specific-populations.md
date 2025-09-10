@@ -48,7 +48,7 @@ The FORTRESS study found an excess risk of 1.5 (95% CI = -1.1 to 4.1) oral cleft
 
 Small for Gestational Age
 
-Data from the NAAED Pregnancy Registry and population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10 thpercentile).
+Data from the NAAED Pregnancy Registry and population-based birth registry cohort indicate that exposure to topiramate in utero is associated with an increased risk of SGA newborns (birth weight <10 th percentile).
 In the NAAED Pregnancy Registry, 19.7% of topiramate-exposed newborns were SGA compared to 7.9% of newborns exposed to a reference AED and 5.4% of newborns of mothers without epilepsy and without AED exposure.
 In the medical Birth Registry of Norway, a population-based pregnancy registry, 25% of newborns in the topiramate monotherapy exposure group were SGA compared to 9% in the comparison group unexposed to AEDs.
 The long-term consequences of the SGA findings are not known.
@@ -78,7 +78,7 @@ Topiramate
 Topiramate causes developmental toxicity, including teratogenicity, at clinically relevant doses in multiple animal species.
 
 Developmental toxicity, including teratogenicity, occurred at clinically relevant doses in multiple animal species in which topiramate was administered during the period of organogenesis (GD 6 – 15 in rodents, GD 6 – 18 in rabbits.
-In these studies, fetal malformations (primarily craniofacial defects such as cleft palate), limb malformations (ectrodactyly, micromelia, and amelia), rib/vertebral column anomalies, and/or reduced fetal weights were observed at dosages ≥ 20 mg/kg in mice (approximately 2 times the MRHD of topiramate in QSYMIA 15 mg/92 mg on a mg/m 2basis), 20 mg/kg in rats (2 times the MRHD of QSYMIA based on estimated AUC), and 35 mg/kg in rabbits (2 times the MRHD based on estimated AUC).
+In these studies, fetal malformations (primarily craniofacial defects such as cleft palate), limb malformations (ectrodactyly, micromelia, and amelia), rib/vertebral column anomalies, and/or reduced fetal weights were observed at dosages ≥ 20 mg/kg in mice (approximately 2 times the MRHD of topiramate in QSYMIA 15 mg/92 mg on a mg/m 2 basis), 20 mg/kg in rats (2 times the MRHD of QSYMIA based on estimated AUC), and 35 mg/kg in rabbits (2 times the MRHD based on estimated AUC).
 When rats were administered topiramate from GD 15 through lactation day 20, reductions in pre- and/or post-weaning weights occurred at dosages ≥ 2 mg/kg (2 times the MRHD of QSYMIA based on estimated AUC).
 
 ## 8.2 Lactation
@@ -95,7 +95,7 @@ Because of the potential for serious adverse reactions, including changes in sle
 
 Pregnancy Testing
 
-Pregnancy testing is recommended in patients who can become pregnant before initiating QSYMIA and monthly during QSYMIA therapy [see Warnings and Precautions (5.1)and Use in Specific Populations (8.1)].
+Pregnancy testing is recommended in patients who can become pregnant before initiating QSYMIA and monthly during QSYMIA therapy [see Warnings and Precautions (5.1) and Use in Specific Populations (8.1)].
 
 Contraception
 
@@ -112,7 +112,7 @@ Advise patients not to discontinue taking their COC and to contact their health 
 The safety and effectiveness of QSYMIA as an adjunct to a reduced-calorie diet and increased physical activity for weight reduction and long-term maintenance of body weight have been established in pediatric patients aged 12 years and older with obesity.
 Use of QSYMIA for this indication is supported by a 56-week, double-blind, placebo-controlled study in 223 pediatric patients aged 12 years and above, a pharmacokinetic study in pediatric patients, and studies in adults with obesity [see Clinical Pharmacology (12.3)and Clinical Studies (14)].
 
-In a pediatric clinical trial, there was one episode of serious suicidal ideation in a QSYMIA-treated patient requiring hospitalization and pharmacologic treatment [see Warnings and Precautions (5.2)] more patients treated with QSYMIA versus placebo reported adverse reactions related to mood (e.g., depression, anxiety) and sleep disorders (e.g., insomnia) [see Warnings and Precautions (5.4).
+In a pediatric clinical trial, there was one episode of serious suicidal ideation in a QSYMIA-treated patient requiring hospitalization and pharmacologic treatment [see Warnings and Precautions (5.2)] more patients treated with QSYMIA versus placebo reported adverse reactions related to mood (e.g., depression, anxiety) and sleep disorders (e.g., insomnia) [see Warnings and Precautions (5.4)].
 Increases in bone mineral density and linear growth were attenuated in QSYMIA- versus placebo-treated patients [see Warnings and Precautions (5.6)].
 Serious adverse reactions seen in pediatric patients using topiramate include acute angle glaucoma, oligohidrosis and hyperthermia, metabolic acidosis, cognitive and neuropsychiatric reactions, hyperammonemia and encephalopathy, and kidney stones.
 
@@ -134,7 +134,7 @@ The recommended dosage of QSYMIA in patients with mild renal impairment (CrCl gr
 In patients with moderate (CrCl greater than or equal to 30 to less than 50 mL/min) and severe (CrCl less than 30 mL/min) renal impairment, the maximum recommended dosage is QSYMIA 7.5 mg/46 mg once daily.
 
 QSYMIA has not been studied in patients with end-stage renal disease on dialysis.
-Avoid QSYMIA in this patient population [see Dosage and Administration (2.4)and Clinical Pharmacology (12.3)].
+Avoid QSYMIA in this patient population [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
@@ -146,4 +146,4 @@ The recommended dosage of QSYMIA in patients with mild hepatic impairment (Child
 In patients with moderate hepatic impairment, the maximum recommended dosage is QSYMIA 7.5 mg/46 mg once daily.
 
 QSYMIA has not been studied in patients with severe hepatic impairment (Child-Pugh score 10 - 15).
-Avoid QSYMIA in this patient population [see Dosage and Administration (2.5)and Clinical Pharmacology (12.3)].
+Avoid QSYMIA in this patient population [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].

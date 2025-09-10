@@ -51,13 +51,13 @@ Advise patients to tell their health care provider(s) about any factors that can
 Risk of Seizures with Abrupt Withdrawal of QSYMIA
 
 Inform patients that abrupt withdrawal of topiramate has been associated with seizures in individuals without a history of seizures or epilepsy.
-Advise patients not to abruptly stop QSYMIA without first talking to their health care provider(s) [see Dosage and Administration (2.3)and Warnings and Precautions (5.9)].
+Advise patients not to abruptly stop QSYMIA without first talking to their health care provider(s) [see Dosage and Administration (2.3) and Warnings and Precautions (5.9)].
 
 Kidney Stones
 
 Inform patients that use of QSYMIA has been associated with kidney stone formation.
 Advise patients to increase fluid intake to increase urinary output which can decrease the concentration of substances involved in kidney stone formation.
-Advise patients to report symptoms of severe side or back pain, and/or blood in their urine to their health care provider(s) [see Warnings and Precautions (5.10)and Adverse Reactions (6.1)].
+Advise patients to report symptoms of severe side or back pain, and/or blood in their urine to their health care provider(s) [see Warnings and Precautions (5.10) and Adverse Reactions (6.1)].
 
 Oligohidrosis and Hyperthermia
 
@@ -67,7 +67,7 @@ Advise patients to monitor for decreased sweating and increased body temperature
 Serious Skin Reactions
 
 Inform patients that serious skin reactions have been reported with use of topiramate.
-Inform patients of the signs of serious skin reactions and advise patients to report signs of a skin reaction to their health care provider(s) [see Warning and Precautions (5.13)].
+Inform patients of the signs of serious skin reactions and advise patients to report signs of a skin reaction to their health care provider(s) [see Warnings and Precautions (5.13)].
 
 Lactation
 

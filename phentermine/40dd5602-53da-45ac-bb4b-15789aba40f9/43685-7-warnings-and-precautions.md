@@ -108,7 +108,7 @@ If persistent elevations in creatinine occur, reduce the dosage or discontinue Q
 
 Abrupt withdrawal of topiramate has been associated with seizures in individuals without a history of seizures or epilepsy.
 In situations where immediate termination of QSYMIA is medically required, appropriate monitoring is recommended.
-Patients discontinuing QSYMIA 15 mg/92 mg should be gradually tapered to reduce the possibility of precipitating a seizure [see Dosage and Administration (2.3)and Drug Abuse and Dependence (9.3)].
+Patients discontinuing QSYMIA 15 mg/92 mg should be gradually tapered to reduce the possibility of precipitating a seizure [see Dosage and Administration (2.3) and Drug Abuse and Dependence (9.3)].
 
 ## 5.10 Kidney Stones
 

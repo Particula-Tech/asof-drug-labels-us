@@ -24,7 +24,7 @@ The recommended dosage, titration, and administration of QSYMIA are as follows:
 
 ## 2.3 Discontinuation of QSYMIA 15 mg/92 mg
 
-Discontinue QSYMIA 15 mg/92 mg gradually by taking QSYMIA 15 mg/92 mg orally once daily every other day for at least 1 week prior to stopping treatment altogether, due to the possibility of precipitating a seizure [see Warnings and Precautions (5.9)and Drug Abuse and Dependence (9.3)].
+Discontinue QSYMIA 15 mg/92 mg gradually by taking QSYMIA 15 mg/92 mg orally once daily every other day for at least 1 week prior to stopping treatment altogether, due to the possibility of precipitating a seizure [see Warnings and Precautions (5.9) and Drug Abuse and Dependence (9.3)].
 
 ## 2.4 Recommended Dosage in Patients with Renal Impairment
 
@@ -34,6 +34,6 @@ Discontinue QSYMIA 15 mg/92 mg gradually by taking QSYMIA 15 mg/92 mg orally onc
 
 ## 2.5 Recommended Dosage in Patients with Hepatic Impairment
 
-- The recommended dosage of QSYMIA in patients with mild hepatic impairment (Child-Pugh 5 - 6) is the same as the recommended dosage in patients with normal hepatic function [see Use in Specific Populations (8.7)and Clinical Pharmacology (12.3)].
+- The recommended dosage of QSYMIA in patients with mild hepatic impairment (Child-Pugh 5 - 6) is the same as the recommended dosage in patients with normal hepatic function [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 - In patients with moderate hepatic impairment (Child-Pugh score 7 - 9), the maximum recommended dosage is QSYMIA 7.5 mg/46 mg orally once daily.
 - Avoid use of QSYMIA in patients with severe hepatic impairment (Child-Pugh score 10 - 15).
