@@ -1,20 +1,18 @@
 # PRINCIPAL DISPLAY PANEL - 100 mg Vial Label
 
-NDC 0009-0825-01
+NDC 0009-0825-01 Single-Dose Vial
 
 Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
 100 mg/vial
 
-For IM or IV use Preservative-Free
+For intramuscular or intravenous use Preservative-Free
 
 Rx only
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Vial Carton
 
-NDC 0009-0825-01
-
-1 Vial
+NDC 0009-0825-01 Single-Dose Vial
 
 Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
@@ -26,17 +24,17 @@ Preservative-Free
 
 Rx only
 
-Pfizer Injectables
+Pfizer Hospital
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Single-Dose Vial Label
 
-2 mL Act-O-Vial® NDC 0009-0011-03
+Single-Dose Vial 2 mL Act-O-Vial® NDC 0009-0011-03
 
 Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
-100 mg/vial
+100 mg/vial Rx only
 
-For IM or IV use Preservative-Free Rx only
+For intramuscular or intravenous use
 
 # PRINCIPAL DISPLAY PANEL - 100 mg Single-Dose Vial Carton
 
@@ -50,9 +48,9 @@ Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
 For intramuscular or intravenous use
 
-Preservative-Free
+Preservative-Free Rx only
 
-Pfizer Injectables Rx only
+Pfizer Hospital
 
 # PRINCIPAL DISPLAY PANEL - 250 mg Single-Dose Vial Label
 
@@ -62,7 +60,7 @@ Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
 250 mg/vial
 
-For IM or IV use Preservative-Free Rx only
+For intramuscular or intravenous use Preservative-Free Rx only
 
 # PRINCIPAL DISPLAY PANEL - 250 mg Single-Dose Vial Carton
 
@@ -80,7 +78,7 @@ Preservative-Free
 
 Rx only
 
-Pfizer Injectables
+Pfizer Hospital
 
 # PRINCIPAL DISPLAY PANEL - 500 mg Single-Dose Vial Label
 
@@ -110,7 +108,7 @@ Preservative-Free
 
 Rx only
 
-Pfizer Injectables
+Pfizer Hospital
 
 # PRINCIPAL DISPLAY PANEL - 1000 mg Single-Dose Vial Label
 
@@ -118,9 +116,9 @@ Single-Dose Vial 8 mL Act-O-Vial® NDC 0009-0005-01
 
 Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
-1000 mg/vial
+1,000 mg/vial
 
-For IM or IV use Preservative-Free Rx only
+For intramuscular or intravenous use Preservative-Free Rx only
 
 # PRINCIPAL DISPLAY PANEL - 1000 mg Single-Dose Vial Carton
 
@@ -130,7 +128,7 @@ Single-Dose Vial 8 mL Act-O-Vial®
 
 Solu-Cortef® (hydrocortisone sodium succinate for injection, USP)
 
-1000 mg/vial
+1,000 mg/vial
 
 For intramuscular or intravenous use
 
@@ -138,4 +136,4 @@ Preservative-Free
 
 Rx only
 
-Pfizer Injectables
+Pfizer Hospital
