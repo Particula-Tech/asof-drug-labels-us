@@ -81,7 +81,7 @@ Potential risks of breastfeeding include: (1) HIV-1 transmission (in infants wit
 
 ## 8.4 Pediatric Use
 
-Atazanavir capsule is indicated in combination with other antiretroviral agents for the treatment of pediatric patients with HIV-1, 6 years of age and older weighing at least 15 kg.
+Atazanavir capsule is indicated in combination with other antiretroviral agents for the treatment of pediatric patients with HIV-1, at least 6 years of age and older and weighing at least 15 kg.
 Atazanavir is not recommended for use in pediatric patients below the age of 3 months due to the risk of kernicterus [see Indications and Usage (1)].
 All atazanavir contraindications, warnings, and precautions apply to pediatric patients [see Contraindications (4) and Warnings and Precautions (5)].
 The safety, pharmacokinetic profile, and virologic response of atazanavir in pediatric patients at least 6 years of age and older weighing at least 15 kg were established in an open-label, multicenter clinical trial: PACTG 1020A [see Clinical Pharmacology (12.3) and Clinical Studies (14.3)].

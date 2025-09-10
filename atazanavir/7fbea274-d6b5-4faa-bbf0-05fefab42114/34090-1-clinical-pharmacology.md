@@ -9,7 +9,7 @@ Atazanavir is an HIV-1 antiretroviral drug [see Microbiology (12.4)].
 Cardiac Electrophysiology
 
 Concentration- and dose-dependent prolongation of the PR interval in the electrocardiogram has been observed in healthy participants receiving atazanavir.
-In placebo-controlled Study AI424-076, the mean (±SD) maximum change in PR interval from the predose value was 24 (±15) msec following oral dosing with 400 mg of atazanavir (n=65) compared to 13 (±11) msec following dosing with placebo (n=67).
+In placebo-controlled Study AI424-076, the mean (±SD) maximum change in PR interval from the predose value was 24 (±15) msec following oral dosing with 400 mg of atazanavir(n=65) compared to 13 (±11) msec following dosing with placebo (n=67).
 The PR interval prolongations in this study were asymptomatic.
 There is limited information on the potential for a pharmacodynamic interaction in humans between atazanavir and other drugs that prolong the PR interval of the electrocardiogram [see Warnings and Precautions (5.1)].
 
@@ -231,7 +231,7 @@ Table 22: Drug Interactions: Pharmacokinetic Parameters for Coadministered Drugs
 Mechanism of Action
 
 Atazanavir (ATV) is an azapeptide HIV-1 protease inhibitor (PI).
-The compound selectively inhibits the virus-specific processing of viral Gag and Gag-Pol polyproteins in HIV-1 infected cells, thus preventing formation of mature virions.
+The compound selectively inhibits the virus-specific processing of viral Gag and Gag-Pol polyproteins in HIV-1-infected cells, thus preventing formation of mature virions.
 
 Antiviral Activity in Cell Culture
 
@@ -249,7 +249,7 @@ Changes were also observed at the protease cleavage sites following drug selecti
 Recombinant viruses containing the I50L substitution without other major PI substitutions were growth impaired and displayed increased susceptibility in cell culture to other PIs (amprenavir, indinavir, lopinavir, nelfinavir, ritonavir, and saquinavir).
 The I50L and I50V substitutions yielded selective resistance to atazanavir and amprenavir, respectively, and did not appear to be cross-resistant.
 
-Clinical Studies of Treatment-Naive Participants: Comparison of Ritonavir-Boosted Atazanavir vs. Unboosted Atazanavir: Study AI424-089 compared atazanavir 300 mg once daily with ritonavir 100 mg vs. Atazanavir 400 mg once daily when administered with lamivudine and extended- release stavudine in treatment-naive participants with HIV-1.
+Clinical Studies of Treatment-Naive Participants: Comparison of Ritonavir-Boosted Atazanavir vs.Unboosted Atazanavir: Study AI424-089 compared atazanavir 300 mg once daily with ritonavir 100 mg vs. Atazanavir 400 mg once daily when administered with lamivudine and extended- release stavudine in treatment-naive participants with HIV-1.
 A summary of the number of virologic failures and virologic failure isolates with atazanavir resistance in each arm is shown in Table 23.
 
 Table 23: Summary of Virologic Failuresa at Week 96 in Study AI424-089: Comparison of Ritonavir Boosted Atazanavir vs. Unboosted Atazanavir: Randomized Participants

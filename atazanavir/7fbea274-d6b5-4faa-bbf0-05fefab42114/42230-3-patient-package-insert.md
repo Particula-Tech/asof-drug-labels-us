@@ -11,4 +11,4 @@
 | What are the ingredients in atazanavir capsules? Active ingredient: atazanavir sulfate Inactive ingredients: crospovidone, lactose monohydrate, and magnesium stearate. The capsule shells contain the following inactive ingredients: FD&C blue 2, gelatin, iron oxide black, iron oxide red, iron oxide yellow, and titanium dioxide. The capsules are printed with ink containing black iron oxide, potassium hydroxide, propylene glycol, shellac, and titanium dioxide. Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited. |
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 01/2025
+Revised: 07/2025

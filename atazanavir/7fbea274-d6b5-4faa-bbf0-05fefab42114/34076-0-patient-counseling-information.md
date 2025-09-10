@@ -44,4 +44,4 @@ Pregnancy
 Inform pregnant patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in pregnant patients exposed to atazanavir during pregnancy.
 Healthcare providers are encouraged to register patients by calling the Antiretroviral Pregnancy Registry [see Use in Specific Populations (8.1)].
 Lactation Instruct patients with HIV-1 that the potential risks of breastfeeding include: (1) HIV-1 transmission to infants without HIV-1, (2) developing viral resistance in infants with HIV-1, and (3) adverse reactions in a breastfed infant similar to those seen in adults [see Use in Specific Populations (8.2)].
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 01/2025
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 07/2025

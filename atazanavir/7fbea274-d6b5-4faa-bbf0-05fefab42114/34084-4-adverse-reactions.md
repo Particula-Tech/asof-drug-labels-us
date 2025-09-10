@@ -31,7 +31,7 @@ Table 7: Selected Adverse Reactionsa of Moderate or Severe Intensity Reported in
 | Diarrhea | 2% | 12% |
 | Skin and Appendages |  |  |
 | Rash | 3% | 2% |
-| * None reported in this treatment arm. a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Based on the regimen containing atazanavir. c Median time on therapy. d Administered as a fixed-dose e As a fixed-dose product: 300 mg tenofovir DF, 200 mg emtricitabine once daily. |  |  |
+| * None reported in this treatment arm. a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Based on the regimen containing atazanavir. c Median time on therapy. d Administered as a fixed-dose. e As a fixed-dose product: 300 mg tenofovir DF, 200 mg emtricitabine once daily. |  |  |
 
 Table 8: Selected Adverse Reactionsa of Moderate or Severe Intensity Reported in ≥2% of Adult Treatment-Naive Participants with HIV-1,b Studies AI424-034, AI424-007, and AI424-008
 
