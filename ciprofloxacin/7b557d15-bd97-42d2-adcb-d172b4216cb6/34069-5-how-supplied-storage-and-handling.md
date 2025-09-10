@@ -4,4 +4,4 @@
 
 3.5 g NDC 0078-0841-01
 
-1. Storage: Store at 2°C to 25°C (36°F-77°F).
+Storage: Store at 2°C to 25°C (36°F-77°F).
