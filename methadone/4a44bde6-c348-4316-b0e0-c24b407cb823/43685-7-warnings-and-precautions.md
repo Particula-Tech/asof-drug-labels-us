@@ -54,13 +54,15 @@ For Patients Being Treated for Pain
 Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
 The presence of risk factors for overdose should not prevent the proper management of pain in any given patient.
 
+Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+If naloxone is prescribed, educate patients and caregivers on how to treat with naloxone.
+[see DOSAGE AND ADMINISTRATION (2.3), WARNINGS AND PRECAUTIONS (5.1, 5.3), OVERDOSAGE (10)].
+
 For Patients Being Treated for Opioid Addiction
 
 Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose.
 
 Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with methadone hydrochloride tablets itself [see OVERDOSAGE (10)].
-
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
 
 Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
 Educate patients and caregivers on how to recognize respiratory depression and, if naloxone is prescribed, how to treat with naloxone.

@@ -124,8 +124,8 @@ Hypoglycemia
 Inform patients that methadone may cause hypoglycemia.
 Instruct patients how to recognize the symptoms of low blood glucose and to contact their health care provider if these symptoms occur [see WARNINGS AND PRECAUTIONS (5.18)].
 
-Manufactured for:
+Distributed by:
 
 VistaPharm, LLC Parsippany, NJ 07054, USA
 
-VP2002R3 05/2024
+VP2002R4 03/2025

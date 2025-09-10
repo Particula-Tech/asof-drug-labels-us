@@ -68,7 +68,7 @@ Consider this risk when selecting an initial dose and when making dose adjustmen
 
 Use of Methadone Hydrochloride Tablets as the First Opioid Analgesic: Initiate treatment with methadone hydrochloride tablets with 2.5 mg orally every 8 to 12 hours.
 
-Conversion from Other Oral Opioids to Methadone Hydrochloride Tablets: When methadone hydrochloride therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
+Conversion from Other Oral Opioids to Methadone Hydrochloride Tablets: When methadone hydrochloride tablets therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
 Deaths have occurred in opioid-tolerant patients during conversion to methadone.
 
 The potency of methadone relative to other opioid analgesics is nonlinear and increases with increasing dose.
