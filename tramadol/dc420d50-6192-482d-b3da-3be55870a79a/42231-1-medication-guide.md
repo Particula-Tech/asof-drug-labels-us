@@ -15,8 +15,8 @@ Important information about tramadol hydrochloride extended-release tablets:
 
 - Get emergency help or call 911 right away if you take too many tramadol hydrochloride extended-release tablets (overdose).
   When you first start taking tramadol hydrochloride extended-release tablets, when your dose is changed, or if you take too many (overdose), serious or life-threatening breathing problems that can lead to death may occur.
-  Talk to your healthcare provider about naloxone, a medicine for the emergency treatment of an opioid overdose.
-- Taking tramadol hydrochloride extended-release tablets with other opioid medicines, benzodiazepines, alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
+  Ask your healthcare provider about medicines like naloxone or nalmefene that can be used in an emergency to reverse an opioid overdose.
+- Taking tramadol hydrochloride extended-release tablets with other opioid medicines, benzodiazepines, gabapentinoids (gabapentin or pregabalin), alcohol, or other central nervous system depressants (including street drugs) can cause severe drowsiness, decreased awareness, breathing problems, coma, and death.
 - Never give anyone else your tramadol hydrochloride extended-release tablets.
   They could die from taking them.
   Selling or giving away tramadol hydrochloride extended-release tablets is against the law.
@@ -108,5 +108,5 @@ Halol-Baroda Highway,
 
 Halol-389 350, Gujarat, India.
 
-ISS.
-12/2023
+Revised.
+09/2025

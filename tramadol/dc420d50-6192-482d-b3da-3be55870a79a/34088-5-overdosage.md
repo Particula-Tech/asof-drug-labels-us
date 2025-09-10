@@ -4,6 +4,7 @@ Clinical Presentation
 
 Acute overdosage with tramadol hydrochloride extended-release tablets can be manifested by respiratory depression, somnolence progressing to stupor or coma, skeletal muscle flaccidity, cold and clammy skin, constricted pupils, and, in some cases, pulmonary edema, bradycardia, hypotension, partial or complete airway obstruction, atypical snoring, and death.
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [see CLINICAL PHARMACOLOGY].
+Toxic leukoencephalopathy has been reported after opioid overdose and can present hours, days, or weeks after apparent recovery from the initial intoxication.
 
 Treatment of Overdose
 
@@ -11,8 +12,7 @@ In case of overdose, priorities are the reestablishment of a patent and protecte
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
 Cardiac arrest or arrhythmias will require advanced life-support measures.
 
-Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
-For clinically significant respiratory or circulatory depression secondary to tramadol overdose, administer an opioid antagonist.
+For clinically significant respiratory or circulatory depression secondary to tramadol overdose, administer an opioid overdose reversal agent such as naloxone or nalmefene.
 
 While naloxone will reverse some (but not all) symptoms caused by overdosage with tramadol, the risk of seizures is also increased with naloxone administration.
 In animals, convulsions following the administration of toxic doses of tramadol hydrochloride extended-release tablets could be suppressed with barbiturates or benzodiazepines but were increased with naloxone.
