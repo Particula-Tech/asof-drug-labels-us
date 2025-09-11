@@ -35,7 +35,7 @@ During monitored anesthesia care (MAC) sedation, attention must be given to the 
 Hypotension, oxyhemoglobin desaturation, apnea, and airway obstruction can occur, especially following a rapid bolus of propofol injectable emulsion.
 During initiation of MAC sedation, slow infusion or slow injection techniques are preferable over rapid bolus administration.
 During maintenance of MAC sedation, a variable rate infusion is preferable over intermittent bolus administration in order to minimize undesirable cardiorespiratory effects.
-In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus dose administration should not be used for MAC sedation [see Warnings and Precautions (5.11)].
+In the elderly, debilitated, or ASA-PS III or IV patients, rapid (single or repeated) bolus dose administration should not be used for MAC sedation [see Warnings and Precautions (5.12)].
 
 Clinical and preclinical studies suggest that propofol injectable emulsion is rarely associated with elevation of plasma histamine levels.
 

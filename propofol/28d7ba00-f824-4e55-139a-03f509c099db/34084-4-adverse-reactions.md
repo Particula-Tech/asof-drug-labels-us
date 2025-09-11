@@ -58,6 +58,6 @@ Treatment Emergent Adverse Events Observed from Clinical Trials
 
 Postmarketing Experience
 
-During the post-marketing period, there have been rare reports of local pain, swelling, blisters, and/or tissue necrosis following accidental extravasation of propofol injectable emulsion [see Warnings and Precautions (5.13)].
+During the post-marketing period, there have been rare reports of local pain, swelling, blisters, and/or tissue necrosis following accidental extravasation of propofol injectable emulsion [see Warnings and Precautions (5.14)].
 
 Venous sequelae, i.e., phlebitis or thrombosis, have been reported rarely (<1%).

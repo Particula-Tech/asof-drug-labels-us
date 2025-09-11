@@ -9,7 +9,7 @@ Clinical features of anaphylaxis, including angioedema, bronchospasm, erythema, 
 ## 5.2 Risks of Microbial Contamination
 
 Strict aseptic technique must always be maintained during handling.
-Propofol injectable emulsion is a single access parenteral product (single patient infusion vial) which contains benzyl alcohol 1.5 mg/mL and sodium benzoate 0.7 mg/mL to inhibit the rate of growth of microorganisms, for up to 12 hours, in the event of accidental extrinsic contamination.
+Propofol injectable emulsion is a single-dose parenteral product (single patient infusion vial) which contains benzyl alcohol 1.5 mg/mL and sodium benzoate 0.7 mg/mL to inhibit the rate of growth of microorganisms, for up to 12 hours, in the event of accidental extrinsic contamination.
 However, propofol injectable emulsion can still support the growth of microorganisms, as it is not an antimicrobially preserved product under USP standards.
 Do not use if contamination is suspected.
 Discard unused drug product as directed within the required time limits.
@@ -97,13 +97,21 @@ Patients at risk of hyperlipidemia should be monitored for increases in serum tr
 Administration of propofol injectable emulsion should be adjusted if fat is being inadequately cleared from the body.
 A reduction in the quantity of concurrently administered lipids is indicated to compensate for the amount of lipid infused as part of the propofol injectable emulsion formulation; 1 mL of propofol injectable emulsion contains approximately 0.1 g of fat (1.1 kcal).
 
-## 5.11 Use in the Elderly, Debilitated, or ASA-PS III or IV Patients
+## 5.11 Risk of Serious Adverse Reactions in Neonates and Infants due to Benzyl Alcohol Preservative
+
+Serious and fatal adverse reactions including “gasping syndrome” can occur in neonates and infants treated with benzyl alcohol-preserved drugs, including propofol injectable emulsion.
+The “gasping syndrome” is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
+
+When prescribing propofol injectable emulsion in infants consider the combined daily metabolic load of benzyl alcohol from all sources including propofol injectable emulsion (contains 1.5 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known[seeUse in Specific Populations (8.4)].
+
+## 5.12 Use in the Elderly, Debilitated, or ASA-PS III or IV Patients
 
 A lower induction dose and a slower maintenance rate of administration should be used in elderly, debilitated, or ASA-PS III or IV patients [see Dosage and Administration (2)].
 Patients should be continuously monitored for early signs of hypotension and/or bradycardia.
 Apnea requiring ventilatory support often occurs during induction and may persist for more than 60 seconds.
 
-## 5.12 Risk of Transient Local Pain
+## 5.13 Risk of Transient Local Pain
 
 Attention should be paid to minimize pain on administration of propofol injectable emulsion.
 Transient local pain can be minimized if the larger veins of the forearm or antecubital fossa are used.
@@ -114,34 +122,34 @@ With lidocaine pretreatment or when antecubital veins were utilized, pain was mi
 There have been reports in the literature indicating that the addition of lidocaine to propofol injectable emulsion in quantities greater than 20 mg lidocaine/200 mg propofol injectable emulsion results in instability of the emulsion which is associated with increases in globule sizes over time and (in rat studies) a reduction in anesthetic potency.
 Therefore, it is recommended that lidocaine be administered prior to propofol injectable emulsion administration or that it be added to propofol injectable emulsion immediately before administration and in quantities not exceeding 20 mg lidocaine/200 mg propofol injectable emulsion.
 
-## 5.13 Risks of Local Reactions
+## 5.14 Risks of Local Reactions
 
 Phlebitis or venous thrombosis has been reported.
 In two clinical studies using dedicated intravenous catheters, no instances of venous sequelae were observed up to 14 days following induction.
 
 Accidental intra-arterial injection has been reported in patients, and, other than pain, there were no major sequelae.
 
-## 5.14 Risks of Aggregation if Administered through the Same Intravenous Catheter with Blood or Plasma
+## 5.15 Risks of Aggregation if Administered through the Same Intravenous Catheter with Blood or Plasma
 
 Propofol injectable emulsion should not be coadministered through the same intravenous catheter with blood or plasma because compatibility has not been established.
 In vitro tests have shown that aggregates of the globular component of the emulsion vehicle have occurred with blood/plasma/serum from humans and animals.
 The clinical significance of these findings is not known.
 
-## 5.15 Risk of Postoperative Unconsciousness
+## 5.16 Risk of Postoperative Unconsciousness
 
 Very rarely the use of propofol injectable emulsion may be associated with the development of a period of postoperative unconsciousness which may be accompanied by an increase in muscle tone.
 This may or may not be preceded by a brief period of wakefulness.
 Recovery is spontaneous.
 
-## 5.16 Risks of Perioperative Myoclonia
+## 5.17 Risks of Perioperative Myoclonia
 
 Perioperative myoclonia, rarely including convulsions and opisthotonos, has occurred in association with propofol injectable emulsion administration.
 
-## 5.17 Risks of Pulmonary Edema
+## 5.18 Risks of Pulmonary Edema
 
 There have been rare reports of pulmonary edema in temporal relationship to the administration of propofol injectable emulsion, although a causal relationship is unknown.
 
-## 5.18 Risks of Unexplained Postoperative Pancreatitis
+## 5.19 Risks of Unexplained Postoperative Pancreatitis
 
 Rarely, cases of unexplained postoperative pancreatitis (requiring hospital admission) have been reported after anesthesia in which propofol injectable emulsion was one of the induction agents used.
 Due to a variety of confounding factors in these cases, including concomitant medications, a causal relationship to propofol injectable emulsion is unclear.
