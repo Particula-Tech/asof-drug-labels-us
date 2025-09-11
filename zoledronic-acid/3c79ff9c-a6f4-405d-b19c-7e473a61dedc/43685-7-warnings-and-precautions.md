@@ -59,9 +59,9 @@ Atypical femur fractures most commonly occur with minimal or no trauma to the af
 They may be bilateral and many patients report prodromal pain in the affected area, usually presenting as dull, aching thigh pain, weeks to months before a complete fracture occurs.
 A number of reports note that patients were also receiving treatment with glucocorticoids (e.g., prednisone) at the time of fracture.
 
-Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
-Patients presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
-Interruption of bisphosphonate therapy should be considered, pending a risk/benefit assessment, on an individual basis.
+1. Any patient with a history of bisphosphonate exposure who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
+   Patients presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
+   Interruption of bisphosphonate therapy should be considered, pending a risk/benefit assessment, on an individual basis.
 
 ## 5.6 Musculoskeletal Pain
 
