@@ -6,8 +6,8 @@ Atorvastatin Calcium Tablets, USP are supplied as follows:
 | --- | --- | --- | --- |
 | 10 mg of atorvastatin | bottles of 90 | 50228-451-90 | Yellow, oval shape, biconvex, film coated tablets, debossed with SG on one side and 152 on other side |
 | bottles of 1,000 | 50228-451-10 |  |  |
-| 20 mg of atorvastatin | bottles of 90 | 5022-452-90 | Yellow, oval shape, biconvex, film coated tablets, debossed with SG on one side and 153 on other side |
-| bottles of 500 | 5022-452-05 |  |  |
+| 20 mg of atorvastatin | bottles of 90 | 50228-452-90 | Yellow, oval shape, biconvex, film coated tablets, debossed with SG on one side and 153 on other side |
+| bottles of 500 | 50228-452-05 |  |  |
 | 40 mg of atorvastatin | bottles of 90 | 50228-453-90 | Yellow, oval shape, biconvex, film coated tablets, debossed with SG on one side and 154 on other side |
 | bottles of 1,000 | 50228-453-10 |  |  |
 | 80 mg of atorvastatin | bottles of 90 | 50228-454-90 | Yellow, oval shape, biconvex, film coated tablets, debossed with SG on one side and 155 on other side |
