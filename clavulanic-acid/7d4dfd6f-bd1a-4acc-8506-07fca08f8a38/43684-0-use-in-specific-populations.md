@@ -2,30 +2,49 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy Category B.
+Risk Summary
 
-There are no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
+Available data from published epidemiologic studies and pharmacovigilance case reports over several decades of use with amoxicillin and clavulanate during pregnancy have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal outcomes.
+A study in women with preterm prelabor rupture of membranes (PPROM) reported that prophylactic treatment with amoxicillin and clavulanate may be associated with an increased risk of necrotizing enterocolitis in neonates (see Data).
+Reproduction studies performed in pregnant rodents, given up to approximately 2 times the amount of amoxicillin and 15 times the amount of clavulanate in the Maximum Human Recommended Dose (MHRD) of Amoxicillin and Clavulanate Potassium (600 mg/42.9 mg) for Oral Suspension, revealed no evidence of harm to the fetus (see Data).
 
-Reproduction studies performed in pregnant rats and mice given Amoxicillin and Clavulanate Potassium (2:1 ratio formulation of amoxicillin:clavulanate) at oral dosages up to 1200 mg/kg/day revealed no evidence of harm to the fetus due to Amoxicillin and Clavulanate Potassium.
-The amoxicillin doses in rodents (based on body surface area and assuming a 20 kg child) were approximately 2 times (rats) or equal to (mice) the recommended clinical Amoxicillin and Clavulanate Potassium for oral suspension dose of 90/6.4 mg/kg/day.
-For clavulanate, these dose multiples were approximately 15 times and 7.5 times the recommended daily dose of Amoxicillin and Clavulanate Potassium for oral suspension.
+The background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
-## 8.2 Labor and Delivery
+Data
 
-Oral ampicillin-class antibacterial drugs are generally poorly absorbed during labor.
-Studies in guinea pigs have shown that intravenous administration of ampicillin decreased the uterine tone, frequency of contractions, height of contractions, and duration of contractions.
-However, it is not known whether the use of Amoxicillin and Clavulanate Potassium in humans during labor or delivery has immediate or delayed adverse effects on the fetus, prolongs the duration of labor, or increases the likelihood that forceps delivery or other obstetrical intervention or resuscitation of the newborn will be necessary.
-In a single study in women with premature rupture of fetal membranes, it was reported that prophylactic treatment with Amoxicillin and Clavulanate Potassium may be associated with an increased risk of necrotizing enterocolitis in neonates.
+Human Data
 
-## 8.3 Nursing Mothers
+One randomized, controlled trial included 4,826 pregnant women with premature rupture of fetal membranes who were randomly assigned to 250 mg erythromycin (n=1,197), 250 mg amoxicillin and 125 mg clavulanic acid (amoxicillin and clavulanate, n=1,212), amoxicillin and clavulanate and erythromycin (n=1,192), or placebo (n=1,225) four times daily for 10 days or until delivery.
+Amoxicillin and clavulanate was associated with a significantly increased rate of proven neonatal necrotizing enterocolitis: 1.9% (n = 24) in the amoxicillin and clavulanate only group versus 0.5% (n = 6) in the placebo group (p = 0.001), and 1.8% (n = 44) in the any amoxicillin and clavulanate group versus 0.7% (n =17) in the no amoxicillin and clavulanate group (p = 0.0005).
 
-Ampicillin-class antibacterial drugs are excreted in human milk; therefore, caution should be exercised when Amoxicillin and Clavulanate Potassium is administered to a nursing woman.
+Animal Data
+
+Reproduction studies performed in pregnant rats and mice given amoxicillin and clavulanate (2:1 ratio formulation of amoxicillin:clavulanate) at oral doses up to 1,200 mg/kg/day revealed no evidence of harm to the fetus due to amoxicillin and clavulanate.
+The amoxicillin doses in rodents (based on body surface area and assuming a 20 kg child) were approximately 2 times (rats) or equal to (mice) the recommended clinical Amoxicillin and Clavulanate Potassium (600 mg/42.9 mg) for Oral Suspension dose of 90/6.4 mg/kg/day.
+For clavulanate, these dose multiples were approximately 15 times and 7.5 times the recommended daily dose of Amoxicillin and Clavulanate Potassium (600 mg/42.9 mg) for Oral Suspension.
+
+## 8.2 Lactation
+
+Risk Summary
+
+Data from a published clinical lactation study report that amoxicillin is present in human milk.
+There are reports of diarrhea, irritability, and rash in infants exposed to amoxicillin and clavulanate through breast milk; therefore, infants exposed to Amoxicillin and Clavulanate Potassium should be monitored for these symptoms.
+There are no data on the effects of amoxicillin and clavulanate on milk production.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Amoxicillin and Clavulanate Potassium and any potential adverse effects on the breastfed child from Amoxicillin and Clavulanate Potassium or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy of Amoxicillin and Clavulanate Potassium for oral suspension in infants younger than 3 months have not been established.
-Safety and efficacy of Amoxicillin and Clavulanate Potassium for oral suspension have been demonstrated for treatment of acute otitis media in infants and children 3 months to 12 years [see Clinical Studies (14)].
+Acute Otitis Media
 
-The safety and effectiveness of Amoxicillin and Clavulanate Potassium for oral suspension have been established for the treatment of pediatric patients (3 months to 12 years) with acute bacterial sinusitis.
-This use is supported by evidence from adequate and well-controlled studies of Amoxicillin and Clavulanate Potassium Extended Release Tablets in adults with acute bacterial sinusitis, studies of Amoxicillin and Clavulanate Potassium for oral suspension in pediatric patients with acute otitis media, and by similar pharmacokinetics of amoxicillin and clavulanate in pediatric patients taking Amoxicillin and Clavulanate Potassium for oral suspension [see Clinical Pharmacology (12)] and adults taking Amoxicillin and Clavulanate Potassium Extended Release Tablets.
+The safety and effectiveness of Amoxicillin and Clavulanate Potassium (600 mg/42.9 mg) for Oral Suspension have been established in pediatric patients aged 3 months to 12 years weighing less than or equal to 40 kg, for the treatment of acute otitis media, and the information on this use is discussed throughout the labeling.
+
+The safety and effectiveness of Amoxicillin and Clavulanate Potassium (600 mg/42.9 mg) for Oral Suspension in pediatric patients younger than 3 months of age have not been established.
+
+The safety and effectiveness of Amoxicillin and Clavulanate Potassium (600 mg/42.9 mg) for Oral Suspension have not been established in pediatric patients aged 3 months to 12 years weighing more than 40 kg.
+
+Acute Bacterial Sinusitis
+
+The safety and effectiveness of Amoxicillin and Clavulanate Potassium (600 mg/42.9 mg) for Oral Suspension have been established for the treatment of pediatric patients (3 months to 12 years of age) with acute bacterial sinusitis.
+This use is supported by evidence from adequate and well-controlled studies of AUGMENTIN XR TM Extended Release Tablets in adults with acute bacterial sinusitis, studies of AUGMENTIN ES-600® in pediatric patients with acute otitis media, and by similar pharmacokinetics of amoxicillin and clavulanate in pediatric patients taking AUGMENTIN ES-600 [see Clinical Pharmacology (12)] and adults taking AUGMENTIN XR.

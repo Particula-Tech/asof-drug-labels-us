@@ -1,43 +1,44 @@
 # 6 ADVERSE REACTIONS
 
-The following are discussed in more detail in other sections of the labeling [see Warnings and Precautions (5)]:
+The following clinically significant adverse reactions are described elsewhere in the labeling:
 
 - Anaphylactic reactions [see Warnings and Precautions (5.1)]
 - Severe Cutaneous Adverse Reactions (SCAR) [see Warnings and Precautions (5.2)]
 - Drug-Induced Enterocolitis Syndrome (DIES) [see Warnings and Precautions (5.3)]
 - Hepatic Dysfunction [see Warnings and Precautions (5.4)]
 - Clostridioides difficile-Associated Diarrhea (CDAD) [see Warnings and Precautions (5.5)]
+- Skin Rash in Patients with Mononucleosis [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trial Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Two clinical trials evaluated the safety of a 10-day treatment course of Amoxicillin and Clavulanate Potassium for oral suspension 90/6.4 mg/kg/day, divided every 12 hours, in pediatric patients with acute otitis media [see Clinical Studies (14)].
+Two clinical trials evaluated the safety of a 10-day treatment course of Amoxicillin and Clavulanate Potassium 90/6.4 mg/kg/day, divided every 12 hours, in pediatric patients with acute otitis media [see Clinical Studies (14)].
+
 The first trial involved 521 pediatric patients (3 months to 50 months) and the second trial involved 450 pediatric patients (3 months to 12 years).
 In the intent-to-treat population of the first trial of 521 patients, the most frequently reported adverse events were vomiting (7%), fever (6%), contact dermatitis (i.e., diaper rash) (6%), upper respiratory tract infection (4%), and diarrhea (4%).
 Protocol-defined diarrhea (i.e., 3 or more watery stools in one day or 2 watery stools per day for 2 consecutive days as recorded on diary cards) occurred in 13% of patients.
 
-The primary objective of the second study was to compare the safety of Amoxicillin and Clavulanate Potassium for oral suspension (90/6.4 mg/kg/day, divided every 12 hours) to Amoxicillin and Clavulanate Potassium (45/6.4 mg/kg/day, divided every 12 hours) for ten days.
+The primary objective of the second study was to compare the safety of Amoxicillin and Clavulanate Potassium 90/6.4 mg/kg/day, divided every 12 hours, to Amoxicillin and Clavulanate Potassium 45/6.4 mg/kg/day, divided every 12 hours, for ten days.
 There was no statistically significant difference between treatments in the proportion of patients with 1 or more adverse events.
-The most frequently reported adverse reactions for Amoxicillin and Clavulanate Potassium for oral suspension and the comparator of Amoxicillin and Clavulanate Potassium were coughing (12% versus 7%), vomiting (7% versus 8%), contact dermatitis (i.e., diaper rash, 6% versus 5%), fever (6% versus 4%), and upper respiratory infection (3% versus 9%), respectively.
-The frequencies of protocol-defined diarrhea with Amoxicillin and Clavulanate Potassium for oral suspension (11%) and Amoxicillin and Clavulanate Potassium (9%) were not statistically different.
-Two patients in the group treated with Amoxicillin and Clavulanate Potassium for oral suspension and one patient in the group treated with Amoxicillin and Clavulanate Potassium were withdrawn due to diarrhea.
+The most frequently reported adverse reactions for Amoxicillin and Clavulanate Potassium 90/6.4 mg/kg/day and Amoxicillin and Clavulanate Potassium 45/6.4 mg/kg/day were coughing (12% versus 7%), vomiting (7% versus 8%), contact dermatitis (i.e., diaper rash, 6% versus 5%), fever (6% versus 4%), and upper respiratory infection (3% versus 9%), respectively.
+The frequencies of protocol-defined diarrhea with Amoxicillin and Clavulanate Potassium 90/6.4 mg/kg/day (11%) and Amoxicillin and Clavulanate Potassium 45/6.4 mg/kg/day (9%) were not statistically different.
+Two patients in the group treated with Amoxicillin and Clavulanate Potassium 90 mg/6.4 mg/kg/day and one patient in the group treated with Amoxicillin and Clavulanate Potassium 45/6.4 mg/kg/day were withdrawn due to diarrhea.
 
 ## 6.2 Postmarketing Experience
 
-In addition to adverse reactions reported from clinical trials, the following have been identified during postmarketing use of Amoxicillin and Clavulanate Potassium products, including Amoxicillin and Clavulanate Potassium for oral suspension.
-Because they are reported voluntarily from a population of unknown size, estimates of frequency cannot be made.
-These events have been chosen for inclusion due to a combination of their seriousness, frequency of reporting, or potential causal connection to Amoxicillin and Clavulanate Potassium.
+The following adverse reactions have been identified during postmarketing use of Amoxicillin and Clavulanate Potassium products.
+Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Gastrointestinal:Drug-induced enterocolitis syndrome (DIES), diarrhea, nausea, vomiting, indigestion, gastritis, stomatitis, glossitis, black “hairy” tongue, mucocutaneous candidiasis, enterocolitis, and hemorrhagic/pseudomembranous colitis.
-Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5)].
+Onset of pseudomembranous colitis symptoms may occur during or after antibacterial treatment [see Warnings and Precautions (5.3, 5.5)].
 
 Immune:Hypersensitivity reactions, anaphylactic/anaphylactoid reactions (including shock), angioedema, serum sickness-like reactions (urticaria or skin rash accompanied by arthritis, arthralgia, myalgia, and frequently fever), hypersensitivity vasculitis [see Warnings and Precautions (5.1)].
 
-Skin and Appendages:Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis, and linear IgA bullous dermatosis.
+Skin and Appendages:Rashes, pruritus, urticaria, erythema multiforme, SJS, TEN, DRESS, AGEP, exfoliative dermatitis, and linear IgA bullous dermatosis [see Warnings and Precautions (5.1, 5.2, 5.6)]
 
 Liver:A moderate rise in AST (SGOT) and/or ALT (SGPT) has been noted in patients treated with ampicillin-class antibacterials.
-Hepatic dysfunction, including increases in serum transaminases (AST and/or ALT), serum bilirubin, and/or alkaline phosphatase, has been infrequently reported with Amoxicillin and Clavulanate Potassium or Amoxicillin and Clavulanate Potassium for oral suspension.
+Hepatic dysfunction, including increases in serum transaminases (AST and/or ALT), serum bilirubin, and/or alkaline phosphatase, has been infrequently reported with Amoxicillin and Clavulanate Potassium.
 It has been reported more commonly in the elderly, in males, or in patients on prolonged treatment.
 The histologic findings on liver biopsy have consisted of cholestatic, hepatocellular, or mixed cholestatic-hepatocellular changes.
 The onset of signs/symptoms of hepatic dysfunction may occur during or several weeks after therapy has been discontinued.
