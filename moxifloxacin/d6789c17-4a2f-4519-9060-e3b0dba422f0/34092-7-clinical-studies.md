@@ -84,8 +84,8 @@ Table 13: Clinical Success Rates and Microbiological Eradication Rates for Resis
 
 | S. pneumoniae with MDRSP | Clinical Success | Bacteriological Eradication Rate |
 | --- | --- | --- |
-| Resistant to 2 antimicrobials | 12/13 (92.3%) | 12/13 (92.3%) |
-| Resistant to 3 antimicrobials | 10/11 (90.9%)a | 10/11 (90.9%)a |
+| Resistant to 2 antimicrobials | 12/13 (92. 3%) | 12/13 (92. 3%) |
+| Resistant to 3 antimicrobials | 10/11 (90. 9%)a | 10/11 (90. 9%)a |
 | Resistant to 4 antimicrobials | 6/6 (100%) | 6/6 (100%) |
 | Resistant to 5 antimicrobials | 7/7 (100%)a | 7/7 (100%)a |
 | Bacteremia with MDRSP | 9/9 (100%) | 9/9 (100%) |
