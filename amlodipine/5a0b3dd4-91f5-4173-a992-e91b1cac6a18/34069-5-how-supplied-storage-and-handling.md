@@ -19,6 +19,8 @@ Bottles of 1,000 (NDC 72789-515-95)
 Amlodipine besylate tablets, USP 10 mg (amlodipine besylate equivalent to 10 mg of amlodipine per tablet) are available for oral administration as white to off-white, round unscored tablets, debossed with “C47” on one side and plain on other side.
 They are supplied as follows:
 
+Bottles of 30 (NDC 72789-516-30)
+
 Bottles of 1,000 (NDC 72789-516-95)
 
 Storage
