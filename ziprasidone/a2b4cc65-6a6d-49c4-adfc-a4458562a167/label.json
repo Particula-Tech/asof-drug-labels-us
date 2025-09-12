@@ -1,0 +1,29 @@
+{
+  "application_numbers": [
+    "NDA020825",
+    "NDA020919"
+  ],
+  "inn": "ziprasidone",
+  "labeler": "Viatris Specialty LLC",
+  "package_ndcs": [
+    "58151-131-91",
+    "58151-132-91",
+    "58151-133-91",
+    "58151-134-91",
+    "58151-137-81"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "ziprasidone",
+      "name": "Geodon"
+    },
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "ziprasidone mesylate",
+      "name": "Geodon"
+    }
+  ],
+  "setid": "a2b4cc65-6a6d-49c4-adfc-a4458562a167",
+  "source": "dailymed"
+}
