@@ -1,6 +1,6 @@
 # Package/Label Display Panel
 
-NDC 0172-3444-80
+NDC 0172-3444-60
 
 Hydrochlorothiazide Tablets, USP
 
@@ -8,7 +8,7 @@ Hydrochlorothiazide Tablets, USP
 
 Rx only
 
-1,000 Tablets
+100 Tablets
 
 # Package/Label Display Panel
 
