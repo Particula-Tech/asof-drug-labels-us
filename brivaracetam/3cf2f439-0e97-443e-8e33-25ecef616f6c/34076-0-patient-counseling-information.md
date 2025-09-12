@@ -24,10 +24,14 @@ Hypersensitivity: Bronchospasm and Angioedema
 Advise patients that symptoms of hypersensitivity including bronchospasm and angioedema can occur with BRIVIACT.
 Instruct them to seek immediate medical care should they experience signs and symptoms of hypersensitivity [see Warnings and Precautions (5.4)].
 
+Serious Dermatologic Reactions
+
+Advise patients of the early signs and symptoms of serious dermatologic adverse reactions and to report any occurrence immediately to a healthcare provider [see Warnings and Precautions (5.5)].
+
 Withdrawal of Antiepileptic Drugs
 
 Advise patients not to discontinue use of BRIVIACT without consulting with their healthcare provider.
-BRIVIACT should normally be gradually withdrawn to reduce the potential for increased seizure frequency and status epilepticus [see Warnings and Precautions (5.5)].
+BRIVIACT should normally be gradually withdrawn to reduce the potential for increased seizure frequency and status epilepticus [see Warnings and Precautions (5.6)].
 
 Pregnancy
 

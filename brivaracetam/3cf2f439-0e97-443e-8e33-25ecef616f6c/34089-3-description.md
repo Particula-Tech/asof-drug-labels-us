@@ -13,13 +13,7 @@ Tablets
 
 BRIVIACT tablets are for oral administration and contain the following inactive ingredients: croscarmellose sodium, lactose monohydrate, betadex (β-cyclodextrin), anhydrous lactose, magnesium stearate, and film coating agents specified below:
 
-10 mg tablets: polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide
-
-25 mg and 100 mg tablets: polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide, yellow iron oxide, black iron oxide
-
-50 mg tablets: polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide, yellow iron oxide, red iron oxide
-
-75 mg tablets: polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide, yellow iron oxide, red iron oxide, black iron oxide
+10 mg tablets: polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide 25 mg and 100 mg tablets: polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide, yellow iron oxide, black iron oxide 50 mg tablets: polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide, yellow iron oxide, red iron oxide 75 mg tablets: polyvinyl alcohol, talc, polyethylene glycol 3350, titanium dioxide, yellow iron oxide, red iron oxide, black iron oxide
 
 Oral Solution
 

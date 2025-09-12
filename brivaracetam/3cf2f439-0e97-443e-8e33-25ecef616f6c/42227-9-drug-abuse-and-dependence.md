@@ -11,4 +11,4 @@ BRIVIACT at the recommended single dose (50 mg) caused fewer sedative and euphor
 
 ## 9.3 Dependence
 
-There was no evidence of physical dependence potential or a withdrawal syndrome with BRIVIACT in a pooled review of placebo-controlled adjunctive therapy studies [see Warnings and Precautions (5.5)].
+There was no evidence of physical dependence potential or a withdrawal syndrome with BRIVIACT in a pooled review of placebo-controlled adjunctive therapy studies [see Warnings and Precautions (5.6)].
