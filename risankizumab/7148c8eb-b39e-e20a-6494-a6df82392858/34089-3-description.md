@@ -15,6 +15,12 @@ Each SKYRIZI prefilled pen or prefilled syringe contains a sterile, preservative
 Each syringe and pen delivers 150 mg of risankizumab-rzaa and the inactive ingredients glacial acetic acid (0.054 mg), polysorbate 20 (0.2 mg), sodium acetate (0.75 mg), trehalose (63.33 mg), and Water for Injection, USP.
 The pH is 5.7.
 
+SKYRIZI (risankizumab-rzaa) injection 180 mg/1.2 mL prefilled syringe for subcutaneous use
+
+Each SKYRIZI prefilled syringe contains a sterile, preservative-free, colorless to yellow, and clear to slightly opalescent solution.
+Each syringe delivers 180 mg of risankizumab-rzaa, and inactive ingredients glacial acetic acid (0.065 mg), polysorbate 20 (0.24 mg), sodium acetate (0.898 mg), trehalose (76.0 mg), and Water for Injection, USP.
+The pH is 5.7.
+
 SKYRIZI (risankizumab-rzaa) injection 180 mg/1.2mL (150 mg/mL) prefilled cartridge for use with supplied on-body-injector for subcutaneous use
 
 Each SKYRIZI prefilled cartridge contains a sterile, preservative-free, colorless to yellow, and clear to slightly opalescent solution.

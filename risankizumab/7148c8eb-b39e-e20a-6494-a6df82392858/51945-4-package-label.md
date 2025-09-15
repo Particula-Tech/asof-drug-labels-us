@@ -365,3 +365,15 @@ www.Skyrizi.com
 Rx only
 
 abbvie
+
+NDC 0074-8300-01
+
+Skyrizi Prefilled Syringe, 180 mg/1.2 mL (150 mg/mL) single-dose
+
+Carton of One (1)
+
+NDC 0074-8350-01
+
+Skyrizi Prefilled Syringe, 180 mg/1.2 mL (150 mg/mL) single-dose
+
+Carton of Two (2)

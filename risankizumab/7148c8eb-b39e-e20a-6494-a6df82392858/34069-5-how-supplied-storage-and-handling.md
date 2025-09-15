@@ -10,6 +10,8 @@ SKYRIZI (risankizumab-rzaa) injection is supplied in the following strengths:
 | 150 mg/mL single-dose pen | Carton of 1 | 0074-2100-01 |
 | 90 mg/mL single-dose prefilled syringe | Carton of 2 | 0074-7040-02 |
 |  | Carton of 4 | 0074-7042-04 |
+| 180 mg/1.2 mL (150 mg/mL) single-dose prefilled syringe | Carton of 1 | 0074-8300-01 |
+|  | Carton of 2 | 0074-8350-01 |
 | 150 mg/mL single-dose prefilled syringe | Carton of 1 | 0074-1050-01 |
 | 180 mg/1.2 mL (150 mg/mL) single-dose prefilled cartridge with on-body injector | Kit | 0074-1065-01 |
 | 360 mg/2.4 mL (150 mg/mL) single-dose prefilled cartridge with on-body injector | Kit | 0074-1070-01 |
@@ -21,8 +23,11 @@ Subcutaneous Injection
 SKYRIZI 150 mg/mL prefilled syringe or prefilled pen contains a sterile, preservative-free, colorless to yellow, and clear to slightly opalescent solution.
 Each prefilled syringe or prefilled pen consists of a 1 mL glass syringe with a fixed 27-gauge ½ inch needle with needle guard.
 
-SKYRIZI 90 mg/mL prefilled syringe is a sterile, preservative-free, colorless to slightly yellow and clear to slightly opalescent solution.
+SKYRIZI 90 mg/mL prefilled syringe contains a sterile, preservative-free, colorless to slightly yellow and clear to slightly opalescent solution.
 Each prefilled syringe consists of a 1 mL glass syringe with a fixed 29-gauge ½ inch needle with needle guard.
+
+SKYRIZI 180 mg/1.2 mL (150 mg/mL) prefilled syringe contains a sterile, preservative-free, colorless to yellow, and clear to slightly opalescent solution.
+Each prefilled syringe consists of a 2.25 mL glass syringe with a fixed 27-gauge ½ inch needle with needle guard.
 
 SKYRIZI 180 mg/1.2 mL (150 mg/mL) cyclic olefin polymer prefilled cartridge with a septum and cap contains a sterile, preservative-free, colorless to yellow, and clear to slightly opalescent solution for use with supplied on-body injector administration device.
 
