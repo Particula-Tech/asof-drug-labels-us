@@ -17,7 +17,7 @@ Place a 3-month expiration date on the label.
 
 Note: Prior to reconstitution, store at room temperature between 15˚ and 30˚C (59˚-86˚F).
 
-After reconstitution, store under refrigeration between 2˚ and 8˚C (36˚-46˚F).
+After reconstitution, store under refrigeration between 2˚and 8˚C (36˚-46˚F).
 
 Do not freeze.
 Keep tightly closed.
@@ -25,6 +25,8 @@ Keep out of the reach of children.
 
 Rx only
 
-Manufactured by: Lyne Laboratories, Inc., Brockton, MA 02301 Distributed by: Rising Pharma Holdings, Inc., East Brunswick, NJ 08816
+Manufactured by: Lyne Laboratories, Inc., Brockton, MA 02301 Manufactured for: Rising Pharma Holdings, Inc., East Brunswick, NJ 08816
 
-R3-05/24
+Revised: 08/2025
+
+PIR32846-00
