@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA203631"
+  ],
+  "inn": "sodium-oxybate",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "65162-065-87"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "sodium oxybate",
+      "name": "Sodium Oxybate"
+    }
+  ],
+  "setid": "5a9e9045-f04d-46eb-8396-2495c6090a31",
+  "source": "dailymed"
+}

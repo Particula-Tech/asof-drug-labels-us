@@ -1,0 +1,12 @@
+# 7 DRUG INTERACTIONS
+
+## 7.1 Alcohol, Sedative Hypnotics, and CNS Depressants
+
+Sodium oxybate is contraindicated for use in combination with alcohol or sedative hypnotics.
+Use of other CNS depressants may potentiate the CNS-depressant effects of sodium oxybate [see Warnings and Precautions (5.1)].
+
+## 7.2 Divalproex Sodium
+
+Concomitant use of sodium oxybate with divalproex sodium results in an increase in systemic exposure to GHB, which was shown to cause a greater impairment on some tests of attention and working memory in a clinical study [see Clinical Pharmacology (12.3)].
+An initial dose reduction of sodium oxybate oral solution is recommended when used concomitantly with divalproex sodium [see Dosage and Administration (2.5)].
+Prescribers are advised to monitor patient response closely and adjust dose accordingly if concomitant use of sodium oxybate oral solution and divalproex sodium is warranted.
