@@ -66,15 +66,15 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of infliximab products have been established in pediatric patients 6 to 17 years of age for induction and maintenance treatment of CD and UC.
+The safety and effectiveness of INFLECTRA have been established in pediatric patients 6 to 17 years of age for induction and maintenance treatment of CD and UC.
 [see Dosage and Administration (2.2, 2.4) and Adverse Reactions (6.1)].
-However, the safety and effectiveness of infliximab products in pediatric patients <6 years of age with CD or UC have not been established.
-The safety and effectiveness of infliximab products in the treatment of pediatric patients with Ps and juvenile rheumatoid arthritis (JRA) have not been established.
+However, the safety and effectiveness of INFLECTRA in pediatric patients <6 years of age with CD or UC have not been established.
+The safety and effectiveness of INFLECTRA in the treatment of pediatric patients with Ps and juvenile rheumatoid arthritis (JRA) have not been established.
 
 Pediatric Crohn's Disease
 
-The safety and effectiveness of infliximab products have been established for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients 6 years of age and older with moderately to severely active CD who have had an inadequate response to conventional therapy.
-The use of infliximab for this indication is supported by evidence from a randomized, open-label pediatric CD study in 112 pediatric patients aged 6 years and older [see Clinical Studies (14.2)].
+The safety and effectiveness of INFLECTRA have been established for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients 6 years of age and older with moderately to severely active CD who have had an inadequate response to conventional therapy.
+The use of INFLECTRA for this indication is supported by evidence from a randomized, open-label pediatric CD study of infliximab in 112 pediatric patients aged 6 years and older [see Clinical Studies (14.2)].
 
 Infliximab has been studied only in combination with conventional immunosuppressive therapy in pediatric CD.
 The longer term (greater than 1 year) safety and effectiveness of infliximab products in pediatric CD patients have not been established in clinical trials.
@@ -84,8 +84,8 @@ Due to the risk of HSTCL, a careful risk-benefit assessment should be made when 
 
 Pediatric Ulcerative Colitis
 
-The safety and effectiveness of infliximab products for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients aged 6 years and older with moderately to severely active UC who have had an inadequate response to conventional therapy have been established.
-The use of infliximab for this indication is supported by evidence from adequate and well-controlled studies of infliximab in adults with additional safety and pharmacokinetic data from an open-label pediatric UC Study in 60 pediatric patients aged 6 years and older [see Dosage and Administration (2.4), Adverse Reactions (6.1), and Clinical Studies (14.4)].
+The safety and effectiveness of INFLECTRA for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients aged 6 years and older with moderately to severely active UC who have had an inadequate response to conventional therapy have been established.
+The use of INFLECTRA for this indication is supported by evidence from adequate and well-controlled studies of infliximab in adults with additional safety and pharmacokinetic data from an open-label pediatric UC Study in 60 pediatric patients aged 6 years and older [see Dosage and Administration (2.4), Adverse Reactions (6.1), and Clinical Studies (14.4)].
 The effectiveness of infliximab in inducing and maintaining mucosal healing in pediatric UC was not established.
 Although 41 patients had a Mayo endoscopy subscore of 0 or 1 at the Week 8 endoscopy, the induction phase was open-label and lacked a control group.
 Only 9 patients had an optional endoscopy at Week 54.
@@ -97,9 +97,9 @@ The longer term (greater than 1 year) safety and effectiveness of infliximab pro
 
 Juvenile Rheumatoid Arthritis (JRA)
 
-The safety and effectiveness of infliximab products in the treatment of pediatric patients with juvenile rheumatoid arthritis (JRA) have not been established.
+The safety and effectiveness of INFLECTRA in the treatment of pediatric patients with juvenile rheumatoid arthritis (JRA) have not been established.
 
-The safety and efficacy of infliximab in patients with JRA were evaluated in a multicenter, randomized, placebo-controlled, double-blind study for 14 weeks, followed by a double-blind, all-active treatment extension, for a maximum of 44 weeks.
+The safety and efficacy of INFLECTRA in patients with JRA is based on the evaluation of infliximab in a multicenter, randomized, placebo-controlled, double-blind study for 14 weeks, followed by a double-blind, all-active treatment extension, for a maximum of 44 weeks.
 Patients with active JRA between the ages of 4 and 17 years who had been treated with MTX for at least 3 months were enrolled.
 Concurrent use of folic acid, oral corticosteroids (≤0.2 mg/kg/day of prednisone or equivalent), NSAIDs, and/or disease modifying antirheumatic drugs (DMARDs) was permitted.
 

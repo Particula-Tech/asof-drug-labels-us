@@ -60,7 +60,7 @@ The infusion solution should be prepared and administered by a trained medical p
 
 1. 1.Calculate the dose, total volume of reconstituted INFLECTRA solution required and the number of INFLECTRA vials needed.
    More than one vial may be needed for a full dose.
-2. 2.Reconstitute each 100 mg INFLECTRA vial with 10 mL of Sterile Water for Injection, USP, to obtain a concentration of 10 mg/ml, using a syringe equipped with a 21-gauge or smaller needle as follows:
+2. 2.Reconstitute each 100 mg INFLECTRA vial with 10 mL of Sterile Water for Injection, USP, to obtain a concentration of 10 mg/mL, using a syringe equipped with a 21-gauge or smaller needle as follows:
    1. •Remove the flip-top from the vial and wipe the top with an alcohol swab.
    2. •Insert the syringe needle into the vial through the center of the rubber stopper and direct the stream of Sterile Water for Injection, USP, to the glass wall of the vial.
       Gently swirl the solution by rotating the vial to dissolve the lyophilized powder, which has a cake-like appearance.

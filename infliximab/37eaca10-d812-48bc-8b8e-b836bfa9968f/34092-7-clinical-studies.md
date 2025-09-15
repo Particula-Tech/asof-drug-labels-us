@@ -247,11 +247,11 @@ More patients treated with infliximab reached a major clinical response than pla
 
 Table 7 ACR Response (percent of patients) in Adult RA Patients (Studies RA I and RA II)
 
-| Response | Placebo +MTX (n=88) | q8 wks (n=86) | q4 wks (n=86) | q8 wks (n=87) | q4 wks (n=81) |  | Placebo +MTX (n=274) | q8 wks (n=351) | q8 wks (n=355) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Study RA I |  |  |  |  |  | Study RA II |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Infliximab+MTX |  |  |  |  |  | Infliximab+MTX |  |
 |  |  | 3 mg/kg |  | 10 mg/kg |  |  |  | 3 mg/kg | 6 mg/kg |
+| Response | Placebo +MTX (n=88) | q8 wks (n=86) | q4 wks (n=86) | q8 wks (n=87) | q4 wks (n=81) |  | Placebo +MTX (n=274) | q8 wks (n=351) | q8 wks (n=355) |
 | ACR 20 |  |  |  |  |  |  |  |  |  |
 | Week 30 | 20% | 50%P≤0.001 | 50% | 52% | 58% |  | N/A | N/A | N/A |
 | Week 54 | 17% | 42% | 48% | 59% | 59% |  | 54% | 62% P<0.05 | 66% |

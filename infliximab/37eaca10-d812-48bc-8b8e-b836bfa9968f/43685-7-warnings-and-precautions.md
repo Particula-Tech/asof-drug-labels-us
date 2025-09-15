@@ -170,7 +170,7 @@ Further management of reactions should be dictated by signs and symptoms [see Ad
 
 ## 5.9 Neurologic Reactions
 
-Agents that inhibit TNF have been associated with CNS manifestation of systemic vasculitis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis and optic neuritis, and peripheral demyelinating disorders, including Guillain-Barré syndrome.
+Infliximab products and agents that inhibit TNF have been associated with CNS manifestation of systemic vasculitis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis and optic neuritis, and peripheral demyelinating disorders, including Guillain-Barré syndrome.
 Prescribers should exercise caution in considering the use of INFLECTRA in patients with these neurologic disorders and should consider discontinuation of INFLECTRA if these disorders develop.
 
 ## 5.10 Concurrent Administration with Other Biological Products
