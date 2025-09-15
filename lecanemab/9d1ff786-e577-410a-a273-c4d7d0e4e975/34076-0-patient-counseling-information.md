@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient and/or caregiver to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient and/or caregiver to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Amyloid Related Imaging Abnormalities
 
@@ -8,7 +8,8 @@ Inform patients that LEQEMBI may cause Amyloid Related Imaging Abnormalities or 
 ARIA most commonly presents as a temporary swelling in areas of the brain that usually resolves over time.
 Some people may also have small spots of bleeding in or on the surface of the brain.
 Inform patients that most people with swelling in areas of the brain do not experience symptoms; however, some people may experience symptoms such as headache, confusion, dizziness, vision changes, nausea, aphasia, weakness, or seizure.
-Instruct patients to notify their healthcare provider if these symptoms occur.
+Instruct patients to notify their healthcare provider immediately if these symptoms occur.
+Clinical evaluation should be performed, and an MRI may be considered.
 Inform patients that serious symptoms of ARIA may occur and that ARIA can be fatal.
 Inform patients that events of intracerebral hemorrhage greater than 1 cm in diameter have been reported infrequently in patients taking LEQEMBI, and that the use of antithrombotic or thrombolytic medications while taking LEQEMBI may increase the risk of bleeding in the brain.
 Notify patients that their healthcare provider will perform MRI scans to monitor for ARIA [see Warnings and Precautions (5.1)].
@@ -32,10 +33,17 @@ Advise patients to seek immediate medical attention if they experience any sympt
 
 Infusion-Related Reactions
 
-Advise patients of the potential risk of infusion-related reactions, which can include flu-like symptoms, nausea, vomiting, and changes in blood pressure, the majority of which occur with the first infusion [see Warnings and Precautions (5.3)].
+For patients receiving LEQEMBI via intravenous infusion, advise them of the potential risk of infusion-related reactions, which can include flu-like symptoms, nausea, vomiting, and changes in blood pressure.
+Advise patients that most infusion-related reactions occur with the first infusion but may occur with any of the infusions during treatment.
+Advise patients that symptoms can occur during infusion or after they leave the infusion center and to contact their healthcare provider if infusion-related reactions occur [see Warnings and Precautions (5.3)].
 
-Manufactured by: Eisai Inc. Nutley, NJ 07110 U.S. License No. 1862
+Injection-Related Reactions
 
-LEQEMBI® is a registered trademark of Eisai R&D Management Co., Ltd.
+For patients receiving LEQEMBI IQLIK via subcutaneous injection, advise them of the potential risks of injection reactions, which may present as erythema, induration, swelling, heat, rash, pain, itching, ecchymosis and hematoma at the injection site, but may also present with symptoms such as headache, fever and fatigue.
+Instruct patients to contact their healthcare provider if injection-related reactions occur [see Adverse Reactions (6.1)].
+
+Manufactured by Eisai Inc. Nutley, NJ 07110 U.S. License No. 1862
+
+LEQEMBI® is a registered trademark of Eisai R&D Management Co., Ltd. LEQEMBI IQLIK™ is a trademark of Eisai R&D Management Co., Ltd.
 
 © 2025 Eisai Inc. and Biogen

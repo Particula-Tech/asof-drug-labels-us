@@ -1,6 +1,6 @@
-# 5WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
-## 5.1Amyloid Related Imaging Abnormalities
+## 5.1 Amyloid Related Imaging Abnormalities
 
 Monoclonal antibodies directed against aggregated forms of beta amyloid, including LEQEMBI, can cause amyloid related imaging abnormalities (ARIA), characterized as ARIA with edema (ARIA-E), which can be observed on MRI as brain edema or sulcal effusions, and ARIA with hemosiderin deposition (ARIA-H), which includes microhemorrhage and superficial siderosis.
 ARIA can occur spontaneously in patients with Alzheimer’s disease, particularly in patients with MRI findings suggestive of cerebral amyloid angiopathy, such as pretreatment microhemorrhage or superficial siderosis.
@@ -45,10 +45,10 @@ In Study 2, 16% (141/898) of patients in the LEQEMBI arm were ApoE ε4 homozygot
 The incidence of ARIA was higher in ApoE ε4 homozygotes (45% on LEQEMBI vs. 22% on placebo) than in heterozygotes (19% on LEQEMBI vs 9% on placebo) and noncarriers (13% on LEQEMBI vs 4% on placebo).
 Among patients treated with LEQEMBI, symptomatic ARIA-E occurred in 9% of ApoE ε4 homozygotes compared to 2% of heterozygotes and 1% noncarriers.
 Serious events of ARIA occurred in 3% of ApoE ε4 homozygotes, and approximately 1% of heterozygotes and noncarriers.
-The recommendations on management of ARIA do not differ between ApoE ε4 carriers and noncarriers [see Dosage and Administration (2.3)].
+The recommendations on management of ARIA do not differ between ApoE ε4 carriers and noncarriers [see Dosage and Administration (2.4)].
 Testing for ApoE ε4 status should be performed prior to initiation of treatment to inform the risk of developing ARIA.
 Prior to testing, prescribers should discuss with patients the risk of ARIA across genotypes and the implications of genetic testing results.
-Prescribers should inform patients that if genotype testing is not performed, they can still be treated with LEQEMBI; however, it cannot be determined if they are ApoE ε4 homozygotes and at higher risk for ARIA.
+Prescribers should inform patients that if genotype testing is not performed they can still be treated with LEQEMBI; however, it cannot be determined if they are ApoE ε4 homozygotes and at higher risk for ARIA.
 An FDA-authorized test for the detection of ApoE ε4 alleles to identify patients at risk of ARIA if treated with LEQEMBI is not currently available.
 Currently available tests used to identify ApoE ε4 alleles may vary in accuracy and design.
 
@@ -78,9 +78,9 @@ Caution should be exercised when considering the use of LEQEMBI in patients with
 
 Radiographic Severity
 
-The radiographic severity of ARIA associated with LEQEMBI was classified by the criteria shown in Table 3.
+The radiographic severity of ARIA associated with LEQEMBI was classified by the criteria shown in Table 4.
 
-Table 3: ARIA MRI Classification Criteria
+Table 4: ARIA MRI Classification Criteria
 
 | ARIA Type | Radiographic Severity |  |  |
 | --- | --- | --- | --- |
@@ -98,11 +98,11 @@ Among patients treated with LEQEMBI, the rate of severe radiographic ARIA-H was 
 
 Monitoring and Dose Management Guidelines
 
-Recommendations for dosing in patients with ARIA-E depend on clinical symptoms and radiographic severity [see Dosage and Administration (2.3)].
-Recommendations for dosing in patients with ARIA-H depend on the type of ARIA-H and radiographic severity [see Dosage and Administration (2.3)].
+Recommendations for dosing in patients with ARIA-E depend on clinical symptoms and radiographic severity [see Dosage and Administration (2.4)].
+Recommendations for dosing in patients with ARIA-H depend on the type of ARIA-H and radiographic severity [see Dosage and Administration (2.4)].
 Use clinical judgment in considering whether to continue dosing in patients with recurrent ARIA-E.
 
-Baseline brain MRI and periodic monitoring with MRI are recommended [see Dosage and Administration (2.3)].
+Baseline brain MRI and periodic monitoring with MRI are recommended [see Dosage and Administration (2.4)].
 Enhanced clinical vigilance for ARIA is recommended during the first 14 weeks of treatment with LEQEMBI.
 If a patient experiences symptoms suggestive of ARIA, clinical evaluation should be performed, including MRI if indicated.
 If ARIA is observed on MRI, careful clinical evaluation should be performed prior to continuing treatment.
@@ -110,6 +110,7 @@ If ARIA is observed on MRI, careful clinical evaluation should be performed prio
 There is no experience in patients who continued dosing through symptomatic ARIA-E, or through asymptomatic but radiographically severe ARIA-E.
 There is limited experience in patients who continued dosing through asymptomatic but radiographically mild to moderate ARIA-E.
 There are limited data in dosing patients who experienced recurrent ARIA-E.
+While experience is limited in these situations, dose management guidelines are provided [see Dosage and Administration (2.4)].
 
 Providers should encourage patients to participate in real world data collection (e.g., registries) to help further the understanding of Alzheimer’s disease and the impact of Alzheimer’s disease treatments.
 Providers and patients can contact Eisai at 888-274-2378 for a list of currently enrolling programs.
@@ -117,8 +118,8 @@ Providers and patients can contact Eisai at 888-274-2378 for a list of currently
 ## 5.2 Hypersensitivity Reactions
 
 Hypersensitivity reactions, including angioedema, bronchospasm, and anaphylaxis, have occurred in patients who were treated with LEQEMBI.
-Promptly discontinue the infusion upon the first observation of any signs or symptoms consistent with a hypersensitivity reaction, and initiate appropriate therapy.
-LEQEMBI is contraindicated in patients with a history of serious hypersensitivity to lecanemab-irmb or to any of the excipients of LEQEMBI.
+If LEQEMBI is being administered intravenously, promptly discontinue the infusion upon the first observation of any signs or symptoms consistent with a hypersensitivity reaction, and initiate appropriate therapy.
+LEQEMBI is contraindicated in patients with a history of serious hypersensitivity to lecanemab-irmb or to any of the excipients of LEQEMBI or LEQEMBI IQLIK.
 
 ## 5.3 Infusion-Related Reactions
 
@@ -130,5 +131,6 @@ Symptoms of infusion-related reactions include fever and flu-like symptoms (chil
 After the first infusion in Study 1, 38% of patients treated with LEQEMBI had transient decreased lymphocyte counts to less than 0.9 x109/L, compared to 2% in patients on placebo, and 22% of patients treated with LEQEMBI had transient increased neutrophil counts to greater than 7.9 x109/L, compared to 1% of patients on placebo.
 Lymphocyte and neutrophil counts were not obtained after the first infusion in Study 2.
 
-In the event of an infusion-related reaction, the infusion rate may be reduced, or the infusion may be discontinued, and appropriate therapy initiated as clinically indicated.
-Prophylactic treatment with antihistamines, acetaminophen, nonsteroidal anti-inflammatory drugs, or corticosteroids prior to future infusions may be considered.
+Infusion-related reactions can occur during the infusion or after completion of the infusion.
+In the event of an infusion-related reaction during the infusion, the infusion rate may be reduced, or the infusion may be discontinued, and appropriate therapy initiated as clinically indicated.
+Consider prophylactic treatment with antihistamines, acetaminophen, nonsteroidal anti-inflammatory drugs, or corticosteroids prior to future infusions.

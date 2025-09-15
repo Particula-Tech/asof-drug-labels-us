@@ -1,14 +1,22 @@
 {
   "application_numbers": [
-    "BLA761269"
+    "BLA761269",
+    "BLA761375"
   ],
   "inn": "lecanemab",
   "labeler": "Eisai Inc.",
   "package_ndcs": [
     "62856-212-01",
-    "62856-215-01"
+    "62856-215-01",
+    "62856-220-01",
+    "62856-220-10"
   ],
   "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "lecanemab-irmb",
+      "name": "LECANEMAB AUTOINJECTOR"
+    },
     {
       "form": "INJECTION, SOLUTION",
       "generic": "lecanemab",
