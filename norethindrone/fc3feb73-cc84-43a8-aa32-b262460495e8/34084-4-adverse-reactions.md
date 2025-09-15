@@ -105,9 +105,7 @@ Two women in Study L3, both treated with relugolix monotherapy for 12 weeks prio
 Depression, Mood Disorders, and Suicidal Ideation
 
 In Studies L1 and L2, MYFEMBREE was associated with adverse mood changes.
-A greater proportion of women treated with MYFEMBREE compared to placebo reported depression
-
-(including depression, mood swings, and depressed mood) (2.4% vs. 0.8%), irritability (2.4% vs. 0%), and anxiety (1.2% vs. 0.8%).
+A greater proportion of women treated with MYFEMBREE compared to placebo reported depression (including depression, mood swings, and depressed mood) (2.4% vs. 0.8%), irritability (2.4% vs. 0%), and anxiety (1.2% vs. 0.8%).
 
 Resumption of Menstruation after Discontinuation
 

@@ -46,20 +46,17 @@ A NOAEL for maternal toxicity was 100 mg/kg/day (34 times the MRHD).
 
 Risk Summary
 
-There are no data on the presence of relugolix or its metabolites in human milk, the effects on the breastfed child, or the effects on milk production.
-Relugolix was detected in milk in lactating rats [see Data].
-When a drug is present in animal milk, it is likely that the drug will be present in human milk.
-
 Detectable amounts of estrogen and progestin have been identified in the breast milk of women receiving estrogen plus progestin therapy and can reduce milk production in breast-feeding women.
 This reduction can occur at any time but is less likely to occur once breast-feeding is well established.
 
+Relugolix was detected in human breast milk.
+In a single dose milk-only lactation study in 8 healthy adult lactating women, the mean total amount of relugolix recovered in human breast milk over the first 24 hours was 0.0031 mg and over 120 hours (5 days) was 0.0042 mg following a single, oral, maternal dose of 40 mg.
+The mean calculated daily infant dose was 0.0006 mg/kg/day using 0.0031mg (the amount recovered in human breast milk over the first 24 hours).
+The relative infant dose was 0.105% of the maternal weight-adjusted dose of 40 mg.
+
+There are no data on the effects of relugolix or its metabolites on the breastfed child, or the effects on milk production.
+
 The developmental and health benefits of breast-feeding should be considered along with the mother's clinical need for MYFEMBREE and any potential adverse effects on the breastfed child from MYFEMBREE or from the underlying maternal condition.
-
-Data
-
-Animal Data
-
-In lactating rats administered a single oral dose of 30 mg/kg radiolabeled relugolix on post-partum day 14, relugolix and/or its metabolites were present in milk at concentrations up to 10-fold higher than in plasma at 2 hours post-dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
