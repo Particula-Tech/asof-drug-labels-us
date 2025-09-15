@@ -23,9 +23,8 @@ Rx only
 
 Made in Singapore
 
-1. 62000000066370 Rev.
-   7/21
-2. 
+- 62000000066370 Rev.
+  7/21
 
 PRINCIPAL DISPLAY PANEL
 
@@ -52,9 +51,8 @@ Rx only
 
 Made in Singapore
 
-1. 62000000066372 Rev.
-   7/21
-2. 
+- 62000000066372 Rev.
+  7/21
 
 PRINCIPAL DISPLAY PANEL
 
@@ -81,6 +79,5 @@ Rx only
 
 Made in Singapore
 
-1. 62000000066371 Rev.
-   7/21
-2. 
+- 62000000066371 Rev.
+  7/21
