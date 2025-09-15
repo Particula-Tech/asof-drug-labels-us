@@ -92,6 +92,21 @@ Bexarotene capsules can cause serious side effects, including:
   - otake certain medicines that can increase the amount of triglycerides in your blood
   - otake medicines that can harm your pancreas
 - Tell your healthcare provider right away if you develop signs or symptoms of pancreatitis during treatment with bexarotene capsules, including:
+  1. onausea that will not go away
+  2. ovomiting
+  3. ostomach-area (abdominal) or back pain
+- 
+- •Liver problems, including liver failure.
+  Bexarotene can cause increased liver function blood test results, or liver problems that can lead to death.
+- •Thyroid problems (hypothyroidism) are common with bexarotene.
+  Your healthcare provider may prescribe thyroid hormone treatment for you if needed.
+- •Low white blood cell count is common with bexarotene, but may sometimes be severe.
+- •New or worse cataracts.
+  Tell your healthcare provider about any changes in your vision during treatment with bexarotene.
+  You may need to have any eye examination.
+- •Risk of low blood sugar in people who have diabetes.
+  Bexarotene can interact with certain medicines used to treat diabetes, such as insulin, sulfonylurea medicines, and thiazolinedione medicines.
+  If you have diabetes, talk to your healthcare provider about your diabetes medicines and your risk for low blood sugar if you take bexarotene capsules.
 
 The most common side effects of bexarotene include:
 
@@ -132,8 +147,8 @@ Inactive ingredients: gelatin, nitrogen, butylated hydroxyanisole, glycerin, hyd
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-For more information, call 1-800-308-6755.
+For more information, call 1-855-204-1431.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-026597 Rev 09/20
+026597 Rev 01/25

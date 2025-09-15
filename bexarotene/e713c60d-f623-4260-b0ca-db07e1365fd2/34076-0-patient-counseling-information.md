@@ -58,4 +58,4 @@ Advise patients to take bexarotene capsules with a meal [see Dosage and Administ
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-026597 Rev 09/20
+026597 Rev 01/25
