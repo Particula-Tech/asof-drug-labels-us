@@ -1,0 +1,52 @@
+# 17 PATIENT COUNSELING INFORMATION
+
+Drug Products with Same Active Ingredient
+
+Advise patients that if they receive Bilprevda, they should not receive other denosumab products concomitantly [see Warnings and Precautions (5.1)].
+
+Hypersensitivity
+
+Advise patients to seek prompt medical attention if signs or symptoms of hypersensitivity reactions occur.
+Advise patients who have had signs or symptoms of systemic hypersensitivity reactions that they should not receive denosumab products [see Warnings and Precautions (5.2) and Contraindications (4.2)].
+
+Hypocalcemia
+
+Adequately supplement patients with calcium and vitamin D and instruct them on the importance of maintaining serum calcium levels while receiving Bilprevda [see Warnings and Precautions (5.3) and Use in Specific Populations (8.6)].
+Advise patients to seek prompt medical attention if they develop signs or symptoms of hypocalcemia.
+
+Osteonecrosis of the Jaw
+
+Advise patients to maintain good oral hygiene during treatment with Bilprevda and to inform their dentist prior to dental procedures that they are receiving Bilprevda.
+Patients should avoid invasive dental procedures during treatment with Bilprevda and inform their healthcare provider or dentist if they experience persistent pain and/or slow healing of the mouth or jaw after dental surgery [see Warnings and Precautions (5.4)].
+
+Atypical Subtrochanteric and Diaphyseal Femoral Fracture
+
+Advise patients to report new or unusual thigh, hip, or groin pain [see Warnings and Precautions (5.5)].
+
+Hypercalcemia Following Treatment Discontinuation in Patients with Giant Cell Tumor of Bone and in Patients with Growing Skeletons
+
+Advise patients to report nausea, vomiting, headache, and decreased alertness following treatment discontinuation [see Warnings and Precautions (5.6) and Use in Specific Populations (8.4)].
+
+Multiple Vertebral Fractures (MVF) Following Treatment Discontinuation
+
+Advise patients that after treatment with Bilprevda is stopped there may be an increased risk of having broken bones in the spine especially in patients who have had a fracture or who have had osteoporosis.
+
+Advise patients not to interrupt Bilprevda therapy without their physician's advice [see Warnings and Precautions (5.7)].
+
+Embryo-Fetal Toxicity
+
+Advise females of reproductive potential that Bilprevda can cause harm to a fetus and to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.8) and Use in Specific Populations (8.1, 8.3)].
+
+Advise females of reproductive potential to use effective contraception during treatment and for at least 5 months after the last dose of Bilprevda [see Use in Specific Populations (8.3)].
+
+Bilprevda (denosumab-nxxp)
+
+Manufactured by:
+
+Shanghai Henlius Biotech, Inc. Room 901, 9th Floor, Building 1, No. 367 Shengrong Road, China (Shanghai) Pilot Free Trade Zone.
+
+U.S. License No. 2354
+
+Manufactured for: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA.
+
+XGEVA ®is a registered trademark of Amgen Inc.

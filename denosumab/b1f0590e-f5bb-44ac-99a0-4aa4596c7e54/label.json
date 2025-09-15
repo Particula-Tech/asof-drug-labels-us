@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761444"
+  ],
+  "inn": "denosumab",
+  "labeler": "Organon LLC",
+  "package_ndcs": [
+    "78206-195-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "denosumab",
+      "name": "Bilprevda"
+    }
+  ],
+  "setid": "b1f0590e-f5bb-44ac-99a0-4aa4596c7e54",
+  "source": "dailymed"
+}
