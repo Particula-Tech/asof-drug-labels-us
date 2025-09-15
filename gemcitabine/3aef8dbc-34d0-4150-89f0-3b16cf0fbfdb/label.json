@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA219683"
+  ],
+  "inn": "gemcitabine",
+  "labeler": "Janssen Biotech, Inc",
+  "package_ndcs": [
+    "57894-225-01",
+    "57894-225-99"
+  ],
+  "products": [
+    {
+      "form": "SYSTEM",
+      "generic": "gemcitabine intravesical",
+      "name": "INLEXZO"
+    }
+  ],
+  "setid": "3aef8dbc-34d0-4150-89f0-3b16cf0fbfdb",
+  "source": "dailymed"
+}
