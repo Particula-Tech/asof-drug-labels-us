@@ -1,6 +1,6 @@
 # 10 OVERDOSAGE
 
-In case of overdose with tretinoin, reversible signs of hypervitaminosis A (headache, nausea, vomiting, mucocutaneous symptoms) can appear.
+In case of overdose with tretinoin capsule, reversible signs of hypervitaminosis A (headache, nausea, vomiting, mucocutaneous symptoms) can appear.
 Overdosage with other retinoids has been associated with transient headache, facial flushing, cheilosis, abdominal pain, dizziness and ataxia.
 These symptoms have quickly resolved without apparent residual effects.
 

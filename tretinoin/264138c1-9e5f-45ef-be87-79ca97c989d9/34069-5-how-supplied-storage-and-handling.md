@@ -7,7 +7,7 @@ Tretinoin Capsules are available as:
 
 NDC 68462-792-01 Bottle of 100 capsules with child-resistant closure
 
-Store at 20°C to 25°C (68° F to 77°F); excursions permitted to 15° C to 30°C (59° F to 86°F) [see USP Controlled Room Temperature].
+Store at 20°C to 25°C (68° F to 77°F); excursions permitted to 15°C to 30°C (59° F to 86°F) [see USP Controlled Room Temperature].
 
 Keep bottle tightly closed.
 Protect from light.

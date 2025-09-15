@@ -6,7 +6,8 @@ Click here to enter Use in Specific Populations
 
 Risk Summary
 
-Based on findings in animals and its mechanism of action [see Clinical Pharmacology (12.1)], tretinoin can cause embryo-fetal loss and malformations when administered to a pregnant woman. tretinoin is a retinoid and there is an increased risk of major congenital malformations, spontaneous abortions and premature births following exposure to retinoids during pregnancy in humans.
+Based on findings in animals and its mechanism of action [see Clinical Pharmacology (12.1)], tretinoin capsules can cause embryo-fetal loss and malformations when administered to a pregnant woman.
+Tretinoin capsules are a retinoid and there is an increased risk of major congenital malformations, spontaneous abortions and premature births following exposure to retinoids during pregnancy in humans.
 Tretinoin was teratogenic and embryotoxic in mice, rats, hamsters, rabbits and pigtail monkeys at doses less than the human dose on a mg/m2 basis (see Data).
 Advise pregnant women of the potential risk to a fetus.
 
@@ -18,7 +19,7 @@ Data
 
 Human Data
 
-Tretinoin is a retinoid and increased spontaneous abortions and major fetal abnormalities related to the use of retinoids have been documented in humans.
+Tretinoin capsules are a retinoid and increased spontaneous abortions and major fetal abnormalities related to the use of retinoids have been documented in humans.
 Reported malformations include abnormalities of the central nervous system, musculoskeletal system, external ear, eye, thymus and great vessels; and facial dysmorphia, cleft palate, and parathyroid hormone deficiency.
 Some of these abnormalities were fatal.
 
@@ -36,36 +37,36 @@ Because of the potential for serious adverse reactions from tretinoin in breastf
 
 ## 8.3 Use in Females and Males of Reproductive Potential
 
-Tretinoin can cause embryo-fetal loss and malformations when administered to a pregnant woman [see Use in Specific Populations (8.1)].
+Tretinoin capsule can cause embryo-fetal loss and malformations when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 
 Pregnancy Testing
 
-Verify pregnancy status in females of reproductive potential prior to initiating tretinoin.
-Females of reproductive potential must have a negative pregnancy test within 1 week prior to initiating tretinoin with a sensitivity of at least 50 mIU/mL.
+Verify pregnancy status in females of reproductive potential prior to initiating tretinoin capsule.
+Females of reproductive potential must have a negative pregnancy test within 1 week prior to initiating tretinoin capsule with a sensitivity of at least 50 mIU/mL.
 
 Contraception
 
 Females
 
 Advise females of reproductive potential to abstain continuously from sexual intercourse or to use two effective methods of contraception.
-Counsel patients to use two effective methods of contraception during treatment with tretinoin and for 1 month after the last dose.
+Counsel patients to use two effective methods of contraception during treatment with tretinoin capsule and for 1 month after the last dose.
 Two methods of effective contraception is indicated even where there has been a history of infertility, unless due to hysterectomy.
 Refer females of reproductive potential to a qualified provider of contraceptive methods, if needed.
 
 Males
 
-Advise males with female partners of reproductive potential to use effective contraception during and after treatment with tretinoin and for 1 week after the last dose.
+Advise males with female partners of reproductive potential to use effective contraception during and after treatment with tretinoin capsule and for 1 week after the last dose.
 
 Infertility
 
 Males
 
-Based on testicular toxicities observed in dogs, tretinoin may impair male fertility [see Nonclinical Toxicology (13.1)].
+Based on testicular toxicities observed in dogs, tretinoin capsule may impair male fertility [see Nonclinical Toxicology (13.1)].
 The reversibility of effect on fertility is unknown.
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of tretinoin has been established in pediatric patients 1 year of age and older and the information on this use is discussed throughout the labeling.
+Safety and effectiveness of tretinoin capsule has been established in pediatric patients 1 year of age and older and the information on this use is discussed throughout the labeling.
 The maximum tolerated dose is lower in pediatric patients compared to adults.
 Some pediatric patients experience severe headache and intracranial hypertension, which required management with an analgesic and a lumbar puncture.
 Dose reduction may be considered for pediatric patients experiencing serious and/or intolerable adverse reactions.
@@ -74,5 +75,5 @@ Safety and effectiveness in pediatric patients less than 1 year of age have not 
 
 ## 8.5 Geriatric Use
 
-Across clinical studies of tretinoin, 21% were 60 years and older.
+Across clinical studies of tretinoin capsule, 21% were 60 years and older.
 No overall differences in safety or effectiveness were observed between these patients and younger patients.

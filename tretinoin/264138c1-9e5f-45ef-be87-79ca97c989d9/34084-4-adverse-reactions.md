@@ -15,18 +15,18 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Acute Promyelocytic Leukemia
 
-The safety of tretinoin was evaluated in patients with APL who received tretinoin at a dose of 22.5 mg/m2 orally twice daily [see Clinical Studies (14)].
+The safety of tretinoin capsules was evaluated in patients with APL who received tretinoin capsules at a dose of 22.5 mg/m2 orally twice daily [see Clinical Studies (14)].
 
 The most common adverse reactions (≥30%) were headache, fever, skin/mucous membrane dryness, bone pain, malaise, shivering, upper respiratory tract disorders, dyspnea, hemorrhage, infections, nausea/vomiting, rash, peripheral edema, leukocytosis, pain, gastrointestinal hemorrhage, chest discomfort, abdominal pain.
 
 Table 1 summarizes the adverse reactions for patients with APL.
 
 Table 1.
-Adverse Reactions (≥ 10%) Occurring in Patients with APL Who Received Tretinoin
+Adverse Reactions (≥ 10%) Occurring in Patients with APL Who Received Tretinoin Capsules
 
 | All Grades (%) |  |
 | --- | --- |
-| Adverse Reaction | Tretinoin |
+| Adverse Reaction | Tretinoin capsules |
 | Nervous system disorders |  |
 | Headache | 86 |
 | Dizziness | 20 |
@@ -98,7 +98,7 @@ Adverse Reactions (≥ 10%) Occurring in Patients with APL Who Received Tretinoi
 
 1Differentiation syndrome can be associated with other commonly reported events such as fever, leukocytosis, dyspnea, pneumonia, pleural effusion, pericardial effusion, hypotension, edema, weight gain, and renal failure.
 
-Adverse reactions that occurred in <10% of patients who received tretinoin include:
+Adverse reactions that occurred in <10% of patients who received tretinoin capsules include:
 
 - •Hepatobiliary disorders: Hepatosplenomegaly (9%), hepatitis (3%), unspecified liver disorder (3%).
 - •Musculoskeletal and connective tissue disorders: Flank pain (9%), bone inflammation (3%).

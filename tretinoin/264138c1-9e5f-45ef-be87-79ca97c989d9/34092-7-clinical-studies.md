@@ -1,13 +1,13 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of tretinoin has been evaluated in 114 previously treated patients and in 67 previously untreated (“de novo”) patients with APL in one open-label, uncontrolled single investigator clinical study (Memorial Sloan-Kettering Cancer Center [MSKCC]) and in two cohorts of compassionate cases treated by multiple investigators under the auspices of the National Cancer Institute (NCI).
-Patients received tretinoin 22.5 mg/m2 orally twice daily for up to 90 days following the first dose or 30 days following achievement of complete remission.
+The efficacy of tretinoin capsule has been evaluated in 114 previously treated patients and in 67 previously untreated (“de novo”) patients with APL in one open-label, uncontrolled single investigator clinical study (Memorial Sloan-Kettering Cancer Center [MSKCC]) and in two cohorts of compassionate cases treated by multiple investigators under the auspices of the National Cancer Institute (NCI).
+Patients received tretinoin capsule 22.5 mg/m2 orally twice daily for up to 90 days following the first dose or 30 days following achievement of complete remission.
 Efficacy results are shown Table 2.
 
 Table 2.
 Efficacy Results in a Controlled Clinical Trial (MSKCC) and Compassionate Use
 
-| Relapsed n=20 | De Novo n=15 | Relapsed* n=48 | De Novo n=14 | Relapsed n=46 | De Novo † n=38 |  |
+| Relapsed n=20 | De Novo n=15 | Relapsed* n=48 | De Novo n=14 | Relapsed n=46 | De Novo† n=38 |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | MSKCC |  | NCI Cohort 1 |  | NCI Cohort 2 |  |
 | Complete Remission | 16 (80%) | 11 (73%) | 24 (50%) | 5 (36%) | 24 (52%) | 26 (68%) |
