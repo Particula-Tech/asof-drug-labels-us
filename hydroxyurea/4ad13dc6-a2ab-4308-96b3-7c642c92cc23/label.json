@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA016295"
+  ],
+  "inn": "hydroxyurea",
+  "labeler": "Waylis Therapeutics LLC",
+  "package_ndcs": [
+    "80725-820-60",
+    "80725-830-60",
+    "80725-840-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyurea",
+      "name": "DROXIA"
+    }
+  ],
+  "setid": "4ad13dc6-a2ab-4308-96b3-7c642c92cc23",
+  "source": "dailymed"
+}
