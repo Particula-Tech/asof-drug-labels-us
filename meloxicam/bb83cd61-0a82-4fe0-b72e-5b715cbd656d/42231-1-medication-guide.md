@@ -122,17 +122,11 @@ You can ask your pharmacist or healthcare provider for information about NSAIDs 
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Manufactured by:
+Manufactured by: Cipla Ltd., Kurkumbh-413802, Maharashtra, India
 
-Cipla Ltd,
+Manufactured for: Cipla USA, Inc.
 
-Kurkumbh, India
-
-Manufactured for:
-
-Cipla USA, Inc.
-
-10 Independence Boulevard, Suite 300,
+10 Independence Boulevard, Suite 300
 
 Warren, NJ 07059
 

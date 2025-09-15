@@ -49,18 +49,12 @@ Use of NSAIDs and Low-Dose Aspirin
 
 Inform patients not to use low-dose aspirin concomitantly with meloxicam until they talk to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured by:
+Manufactured by: Cipla Ltd., Kurkumbh-413802, Maharashtra, India
 
-Cipla, Ltd.,
+Manufactured for: Cipla USA, Inc.
 
-Kurkumbh, India
-
-Manufactured for:
-
-Cipla USA, Inc.
-
-10 Independence Boulevard, Suite 300,
+10 Independence Boulevard, Suite 300
 
 Warren, NJ 07059
 
-Revised: 08/2024
+Revised: 8/2024
