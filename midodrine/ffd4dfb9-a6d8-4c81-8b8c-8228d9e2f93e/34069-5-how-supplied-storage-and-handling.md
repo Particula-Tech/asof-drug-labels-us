@@ -15,6 +15,10 @@ Store at 25°C (77°F) Excursions permitted to 15-30˚C (59-86˚F) [see USP Cont
 
 Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.), Mumbai 400 030, India.
 
-Distributed by: Rising Pharmaceuticals, Inc. Saddle Brook, NJ 07663
+Distributed by:
 
-May 2018
+Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
+
+141694
+
+May 2025
