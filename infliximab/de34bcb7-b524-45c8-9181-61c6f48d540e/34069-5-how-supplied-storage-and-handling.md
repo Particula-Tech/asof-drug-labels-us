@@ -2,7 +2,7 @@
 
 How Supplied
 
-AVSOLA (infliximab-axxq) for injection is supplied as one single-dose vial individually packaged in a carton (NDC 55513-670-01).
+AVSOLA (infliximab-axxq) for injection is supplied as one single-dose vial individually packaged in a carton (NDC 55513-670-01, 55513-670-21).
 Each single-dose vial contains 100 mg of infliximab-axxq as a sterile, preservative-free, white to slightly yellow lyophilized powder for reconstitution and dilution (more than one vial may be needed for a full dose) [see Dosage and Administration (2.11)].
 
 Storage and Handling

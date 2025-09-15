@@ -5,7 +5,8 @@
   "inn": "infliximab",
   "labeler": "Amgen, Inc",
   "package_ndcs": [
-    "55513-670-01"
+    "55513-670-01",
+    "55513-670-21"
   ],
   "products": [
     {
