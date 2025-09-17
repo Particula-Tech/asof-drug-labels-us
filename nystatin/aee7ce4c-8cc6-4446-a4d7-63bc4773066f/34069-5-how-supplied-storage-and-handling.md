@@ -9,6 +9,12 @@ Nystatin ointment, USP 100,000 units/g is available as follows:
 Store at controlled room temperature 15° to 30°C (59° to 86°F).
 Do not freeze.
 
+Manufactured In Croatia By:
+
+Pliva Hrvatska d.o.o.
+
+Zagreb, Croatia
+
 Manufactured For:
 
 Teva Pharmaceuticals
@@ -16,4 +22,4 @@ Teva Pharmaceuticals
 Parsippany, NJ 07054
 
 Rev.
-B 6/2023
+A 10/2023
