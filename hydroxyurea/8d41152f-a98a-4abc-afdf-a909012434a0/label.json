@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA016295"
+  ],
+  "inn": "hydroxyurea",
+  "labeler": "Waylis Therapeutics LLC",
+  "package_ndcs": [
+    "80725-810-10"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "hydroxyurea",
+      "name": "HYDREA"
+    }
+  ],
+  "setid": "8d41152f-a98a-4abc-afdf-a909012434a0",
+  "source": "dailymed"
+}
