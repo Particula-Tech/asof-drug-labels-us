@@ -6,7 +6,7 @@ BEIZRAY (docetaxel) Injection
 
 For Intravenous Infusion Only
 
-Must be diluted before use in a prepared Albumin (Human) in 0.9% Sodium Chloride Injection solution
+Must be diluted in a prepared solution containing Albumin Human USP and 0.9% Sodium Chloride Injection
 
 Do not substitude BEIZRAY for other docetaxel products
 
@@ -22,7 +22,7 @@ Each kit Contains:
 
 -One 4 mL Single-dose vials of Beizray (docetaxel) Injection
 
--One 50 mL Single-dose vial of IV Solution Stabilizer (Human Albumin 25%)
+-One 50 mL Single-dose vial of IV Solution Stabilizer (25% Albumin Human USP)
 
 BEIZRAY (docetaxel) Injection, 160 mg Kit -Carton Label
 
@@ -30,7 +30,7 @@ Each kit Contains:
 
 -Two 4 mL Single-dose vials of Beizray (docetaxel) Injection
 
--One 50 mL Single-dose vial of IV Solution Stabilizer (Human Albumin 25%)
+-One 50 mL Single-dose vial of IV Solution Stabilizer (25% Albumin Human USP）
 
 BEIZRAY (docetaxel) Injection, 80 mg single-dose vial -Carton Label
 

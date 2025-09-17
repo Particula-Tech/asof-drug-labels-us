@@ -93,7 +93,12 @@ Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and non-prescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-Manufactured by: Ningbo Shuangcheng Pharmaceutical Co., Ltd. Ningbo, Zhejiang, 315336, China
+Distributed by:
 
-Distributed by: Zhuhai Beihai Biotech Co.,Ltd.
+Zhuhai Beihai Biotech Co.,Ltd.
+
 Zhuhai, Guangdong, 519090, China
+
+Made in China
+
+Rx Only
