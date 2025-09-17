@@ -33,4 +33,4 @@ Keep JATENZO out of the reach of children.
 Distributed by: Tolmar, Inc. Fort Collins, CO 80526
 
 133462 Rev.
-0 07/2025
+1 09/2025

@@ -56,6 +56,14 @@ Undecanoic acid is metabolized like all fatty acids via the beta-oxidation pathw
 Testosterone is metabolized to various 17-keto steroids through two different pathways.
 The major active metabolites of testosterone are dihydrotestosterone (DHT) and estradiol.
 
+Drug Interaction Studies
+
+Clinical Pharmacology Studies
+
+Concomitant administration of JATENZO at 237 mg dose with midazolam (CYP3A4 substrate), digoxin (P-gp substrate), and rosuvastatin (BCRP substrate) had no clinically meaningful effect on the concentration of these substrates.
+
+The potential for JATENZO doses higher than 237 mg to inhibit CYP3A4, P-gp and BCRP is unknown.
+
 Excretion
 
 About 90% of a dose of testosterone given intramuscularly is excreted in the urine as glucuronic and sulfuric acid conjugates of testosterone and its metabolites.

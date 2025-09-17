@@ -17,4 +17,4 @@ The 198 mg strength is an opaque white capsule that contains 198 mg of testoster
 The 237 mg strength is an opaque orange capsule that contains 237 mg of testosterone undecanoate and is imprinted with “237” in white ink.
 All capsule strengths also contain oleic acid, polyoxyl 40 hydrogenated castor oil (Cremophor RH 40), borage seed oil, peppermint oil, and butylated hydroxytoluene as inactive ingredients.
 
-Gelatin capsule shells are composed of the following inactive ingredients: Gelatin, sorbitol, glycerin, purified water, iron oxide red, FD&C Yellow #6, and titanium dioxide.
+Gelatin capsule shells are composed of the following inactive ingredients: Gelatin, sorbitol, glycerin, and purified water in all strengths, iron oxide red in 158 mg, FD&C Yellow #6 in 158 and 237 mg, and titanium dioxide in 198 and 237 mg capsules.
