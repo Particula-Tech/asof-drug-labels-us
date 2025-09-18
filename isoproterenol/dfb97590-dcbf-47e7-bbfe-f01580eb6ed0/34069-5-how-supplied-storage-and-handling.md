@@ -16,8 +16,8 @@ Discard unused portion.
 
 The container closure is not made with natural rubber latex.
 
-Manufactured in Germany for: Nexus Pharmaceuticals, Inc. Lincolnshire, IL 60069, USA
+Manufactured in the USA for: Nexus Pharmaceuticals, Inc. Lincolnshire, IL 60069, USA
 
-ISPPI01DER03 Revised: 03/2023
+ISPPI01R03 Revised: 03/2023
 
 NEXUS PHARMACEUTICALS
