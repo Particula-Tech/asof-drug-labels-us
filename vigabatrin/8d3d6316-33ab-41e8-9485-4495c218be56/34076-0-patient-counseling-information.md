@@ -9,9 +9,14 @@ Advise patients to stop using other products that contain vigabatrin.
 Administration Instructions for VIGAFYDE Oral Solution
 
 Physicians should confirm that caregiver(s) understand how to measure and administer the correct dose of VIGAFYDE oral solution to their infants.
-Instruct caregivers that VIGAFYDE should not be diluted prior to dosing.
 Advise caregivers to measure VIGAFYDE with the syringe provided by the pharmacy.
 A household teaspoon is not an accurate measuring device.
+
+Instruct caregivers that VIGAFYDE should not be diluted prior to dosing.
+
+Advise the caregiver that VIGAFYDE may be given orally or via gastrostomy (G) tube.
+Doses administered via gastrojejunal (GJ) tubes must be administered through the G-port.
+If VIGAFYDE will be administered via G-tube, provide instructions to the caregiver(s) as to how to flush the tube after administration.
 
 Advise the caregiver to discard any remaining VIGAFYDE 90 days after first opening.
 
@@ -19,13 +24,13 @@ Permanent Vision Loss
 
 Inform caregivers of the risk of permanent vision loss, particularly loss of peripheral vision, from VIGAFYDE, and the need for monitoring vision [see Warnings and Precautions (5.1)].
 
-Monitoring of vision, including assessment of visual fields and visual acuity, is recommended at baseline (no later than 4 weeks after starting VIGAFYDE), at least every 3 months while on therapy, and about 3-6 months after discontinuation of therapy.
+Monitoring of vision, including assessment of visual fields and visual acuity, is recommended at baseline (no later than 4 weeks after starting VIGAFYDE), at least every 3 months while on therapy, and about 3 to 6 months after discontinuation of therapy.
 In patients for whom vision testing is not possible, treatment may continue without recommended testing according to clinical judgment with appropriate caregiver counseling.
 Caregivers should be informed that if baseline or subsequent vision is not normal, VIGAFYDE should only be used if the benefits of VIGAFYDE treatment clearly outweigh the risks of additional vision loss.
 
 Advise caregivers that vision testing may be insensitive and may not detect vision loss before it is severe.
-Also advise patients and caregivers that if vision loss is documented, such loss is irreversible.
-Ensure that both of these points are understood by patients and caregivers.
+Also advise caregivers that if vision loss is documented, such loss is irreversible.
+Ensure that both of these points are understood by caregivers.
 
 Caregivers should be informed that if changes in vision are suspected, they should notify their physician immediately.
 
@@ -53,4 +58,4 @@ Distributed by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
 VIGAFYDE is a registered trademark of Pyros Pharmaceuticals, Inc.
 
-PLFT0363-2-359
+PLFT0376-3-370

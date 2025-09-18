@@ -17,7 +17,7 @@ However, based on animal data, VIGAFYDE use in pregnant women may result in feta
 When administered to pregnant animals, vigabatrin produced developmental toxicity, including an increase in fetal malformations and offspring neurobehavioral and neurohistopathological effects, at clinically relevant doses.
 In addition, developmental neurotoxicity was observed in rats treated with vigabatrin during a period of postnatal development corresponding to the third trimester of human pregnancy (see Data).
 
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Data
@@ -34,7 +34,7 @@ A no-effect dose for developmental neurotoxicity in rats was not established; th
 In a published study, vigabatrin (300 or 450 mg/kg) was administered by intraperitoneal injection to a mutant mouse strain on a single day during organogenesis (day 7, 8, 9, 10, 11, or 12).
 An increase in fetal malformations (including cleft palate) was observed at both doses.
 
-Oral administration of vigabatrin (5, 15, or 50 mg/kg/day) to young rats during the neonatal and juvenile periods of development (postnatal days 4-65) produced neurobehavioral (convulsions, neuromotor impairment, learning deficits) and neurohistopathological (brain vacuolation, decreased myelination, and retinal dysplasia) abnormalities in treated animals.
+Oral administration of vigabatrin (5, 15, or 50 mg/kg/day) to young rats during the neonatal and juvenile periods of development (postnatal days 4 to 65) produced neurobehavioral (convulsions, neuromotor impairment, learning deficits) and neurohistopathological (brain vacuolation, decreased myelination, and retinal dysplasia) abnormalities in treated animals.
 The early postnatal period in rats is generally thought to correspond to late pregnancy in humans in terms of brain development.
 The no-effect dose for developmental neurotoxicity in juvenile rats (5 mg/kg/day) was associated with plasma vigabatrin exposures (AUC) less than 1/30 of those measured in pediatric patients receiving an oral dose of 50 mg/kg.
 
@@ -62,9 +62,9 @@ Abnormal MRI signal changes and Intramyelinic Edema (IME) in infants and young c
 
 Juvenile Animal Toxicity Data
 
-Oral administration of vigabatrin (5, 15, or 50 mg/kg/day) to young rats during the neonatal and juvenile periods of development (postnatal days 4-65) produced neurobehavioral (convulsions, neuromotor impairment, learning deficits) and neurohistopathological (brain gray matter vacuolation, decreased myelination, and retinal dysplasia) abnormalities.
+Oral administration of vigabatrin (5, 15, or 50 mg/kg/day) to young rats during the neonatal and juvenile periods of development (postnatal days 4 to 65) produced neurobehavioral (convulsions, neuromotor impairment, learning deficits) and neurohistopathological (brain gray matter vacuolation, decreased myelination, and retinal dysplasia) abnormalities.
 The no-effect dose for developmental neurotoxicity in juvenile rats (the lowest dose tested) was associated with plasma vigabatrin exposures (AUC) substantially less than those measured in pediatric patients at recommended doses.
-In dogs, oral administration of vigabatrin (30 or 100 mg/kg/day) during selected periods of juvenile development (postnatal days 22-112) produced neurohistopathological abnormalities (brain gray matter vacuolation).
+In dogs, oral administration of vigabatrin (30 or 100 mg/kg/day) during selected periods of juvenile development (postnatal days 22 to 112) produced neurohistopathological abnormalities (brain gray matter vacuolation).
 Neurobehavioral effects of vigabatrin were not assessed in the juvenile dog.
 A no-effect dose for neurohistopathology was not established in juvenile dogs; the lowest effect dose (30 mg/kg/day) was associated with plasma vigabatrin exposures lower than those measured in pediatric patients at recommended doses [see Warnings and Precautions (5.4)].
 

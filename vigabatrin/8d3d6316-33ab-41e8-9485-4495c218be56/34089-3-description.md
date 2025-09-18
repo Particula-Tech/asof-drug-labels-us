@@ -2,7 +2,7 @@
 
 VIGAFYDE (vigabatrin) oral solution is an antiepileptic drug.
 
-The chemical name of vigabatrin, is (±) 4-amino-5-hexenoic acid, a racemic mixture of R and S isomers.
+The chemical name of vigabatrin is (±) 4-amino-5-hexenoic acid, a racemic mixture of R and S isomers.
 The molecular formula is C6H11NO2 and the molecular weight is 129.16.
 It has the following structural formula:
 

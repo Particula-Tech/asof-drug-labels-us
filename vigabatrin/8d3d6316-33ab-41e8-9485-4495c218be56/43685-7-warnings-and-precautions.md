@@ -33,7 +33,7 @@ Monitoring of Vision
 
 Monitoring of vision by an ophthalmic professional with expertise in visual field interpretation and the ability to perform dilated indirect ophthalmoscopy of the retina is recommended [see Warnings and Precautions (5.2)].
 Because vision testing in infants is difficult, vision loss may not be detected until it is severe.
-For patients receiving VIGAFYDE, vision assessment is recommended at baseline (no later than 4 weeks after starting VIGAFYDE), at least every 3 months while on therapy, and about 3-6 months after the discontinuation of therapy.
+For patients receiving VIGAFYDE, vision assessment is recommended at baseline (no later than 4 weeks after starting VIGAFYDE), at least every 3 months while on therapy, and about 3 to 6 months after the discontinuation of therapy.
 The diagnostic approach should be individualized for the patient and clinical situation.
 
 In cooperative pediatric patients, perimetry is recommended, preferably by automated threshold visual field testing.
@@ -54,10 +54,8 @@ VIGAFYDE is available only through a restricted distribution program called the 
 
 Notable requirements of the Vigabatrin REMS include the following:
 
-- Prescribers must be certified by enrolling in the program, agreeing to counsel caregivers on the risk of vision loss and the need for periodic monitoring of vision, and reporting any event suggestive of vision loss to www.vigabatrinREMS.com.
-
+- Prescribers must be certified by enrolling in the program, agreeing to counsel caregivers on the risk of vision loss and the need for periodic monitoring of vision, and reporting any event suggestive of vision loss to the REMS program.
 - Patients must enroll in the program.
-
 - Pharmacies must be certified and must only dispense to patients authorized to receive VIGAFYDE.
 
 Further information is available at www.vigabatrinREMS.com or by calling 1-866-244-8175.
@@ -106,7 +104,7 @@ Caregivers should be told not to suddenly discontinue VIGAFYDE therapy.
 
 Across U.S. controlled trials, there were mean decreases in hemoglobin of about 3% and 0% in vigabatrin and placebo-treated patients, respectively, and a mean decrease in hematocrit of about 1% in vigabatrin-treated patients compared to a mean gain of about 1% in patients treated with placebo.
 
-In controlled and open-label epilepsy trials in adults and pediatric patients, 3 vigabatrin patients (0.06%, 3/4855) discontinued for anemia and 2 vigabatrin patients experienced unexplained declines in hemoglobin to below 8 g/dL and/or hematocrit below 24%.
+In controlled and open-label epilepsy trials in adults and pediatric patients, 3 vigabatrin patients (0.06%, 3/4,855) discontinued for anemia and 2 vigabatrin patients experienced unexplained declines in hemoglobin to below 8 g/dL and/or hematocrit below 24%.
 
 ## 5.7 Somnolence and Fatigue
 
@@ -140,7 +138,7 @@ VIGAFYDE causes weight gain in pediatric patients.
 
 Data pooled from randomized controlled trials in pediatric patients with a different indication found that 47% (77/163) of vigabatrin patients versus 19% (19/102) of placebo patients gained ≥7% of baseline body weight.
 
-In all epilepsy trials, 0.6% (31/4855) of VIGAFYDE patients discontinued for weight gain.
+In all epilepsy trials, 0.6% (31/4,855) of VIGAFYDE patients discontinued for weight gain.
 The long-term effects of vigabatrin related weight gain are not known.
 Weight gain was not related to the occurrence of edema.
 

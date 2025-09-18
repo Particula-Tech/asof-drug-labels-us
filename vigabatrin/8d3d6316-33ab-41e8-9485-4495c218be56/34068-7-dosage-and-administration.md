@@ -4,7 +4,7 @@
 
 Dosing
 
-VIGAFYDE is a solution of 100 mg/mL of vigabatrin intended for oral use only.
+VIGAFYDE is a solution of 100 mg/mL of vigabatrin.
 VIGAFYDE is a concentrated solution as compared to other vigabatrin products.
 Verify strength and the dose of the product prior to prescribing, dispensing, and administering [see Dosage and Administration (2.3)].
 VIGAFYDE does not require additional reconstitution or dilution prior to administration.
@@ -17,12 +17,16 @@ Monitoring of VIGAFYDE plasma concentrations to optimize therapy is not helpful.
 
 Administration
 
-VIGAFYDE is given orally with or without food.
+Administer VIGAFYDE orally or via gastrostomy (G) tube.
+Doses administered via gastrojejunal (GJ) tubes must be administered through the G-port.
+After G-tube administration, flush with water.
+
+VIGAFYDE can be given with or without food.
 
 A calibrated measuring device is recommended to measure and deliver the prescribed dose accurately.
 A household teaspoon or tablespoon is not an adequate measuring device.
 
-If a decision is made to discontinue VIGAFYDE, the dose should be gradually reduced [see Dosage and Administration (2.2) and Warnings and Precautions (5.5)].
+If a decision is made to discontinue VIGAFYDE, the dose should be gradually reduced [see Dosage and Administration (2.4) and Warnings and Precautions (5.5)].
 
 ## 2.2 Recommended Dosage for Infantile Spasms
 
@@ -46,9 +50,9 @@ Dosing of VIGAFYDE for Infantile Spasms
 | 11 | 275 mg (2.75 mL) twice daily | 825 mg (8.25 mL) twice daily |
 | 12 | 300 mg (3 mL) twice daily | 900 mg (9 mL) twice daily |
 | 13 | 325 mg (3.25 mL) twice daily | 975 mg (9.75 mL) twice daily |
-| 14 | 350 mg (3.5 mL) twice daily | 1050 mg (10.5 mL) twice daily |
-| 15 | 375 mg (3.75 mL) twice daily | 1125 mg (11.25 mL) twice daily |
-| 16 | 400 mg (4 mL) twice daily | 1200 mg (12 mL) twice daily |
+| 14 | 350 mg (3.5 mL) twice daily | 1,050 mg (10.5 mL) twice daily |
+| 15 | 375 mg (3.75 mL) twice daily | 1,125 mg (11.25 mL) twice daily |
+| 16 | 400 mg (4 mL) twice daily | 1,200 mg (12 mL) twice daily |
 
 In patients with infantile spasms, VIGAFYDE should be withdrawn if a substantial clinical benefit is not observed within 2 to 4 weeks.
 If, in the clinical judgment of the prescriber, evidence of treatment failure becomes obvious earlier than 2 to 4 weeks, treatment should be discontinued at that time [see Warnings and Precautions (5.1)].
@@ -61,4 +65,4 @@ As compared to other vigabatrin products, VIGAFYDE is a concentrated solution th
 ## 2.4 Discontinuation of VIGAFYDE
 
 Avoid abrupt withdrawal [see Warnings and Precautions (5.5)].
-In a controlled clinical study in patients with infantile spasms, vigabatrin was tapered by decreasing the daily dosage at a rate of 25-50 mg/kg every 3-4 days.
+In a controlled clinical study in patients with infantile spasms, vigabatrin was tapered by decreasing the daily dosage at a rate of 25 to 50 mg/kg every 3 to 4 days.

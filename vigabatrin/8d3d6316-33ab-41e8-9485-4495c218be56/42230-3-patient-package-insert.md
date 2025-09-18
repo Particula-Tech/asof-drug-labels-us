@@ -1,8 +1,8 @@
 INSTRUCTIONS FOR USE
 
-VIGAFYDE™(VIG-uh-fide)
+VIGAFYDE®(VIG-uh-fide)
 
-(vigabatrin) Oral Solution
+(vigabatrin) oral solution
 
 Read this Instructions for Use before your baby starts taking VIGAFYDE and each time you get a refill.
 There may be new information.
@@ -29,7 +29,10 @@ The pharmacy will provide (see Figure B) an:
 - Bottle Adapter
 
 - Your baby's healthcare provider will tell you how many milliliters (mL) of VIGAFYDE you will need for each dose.
-- Use the oral syringe provided by the pharmacy to measure and give the prescribed dose.
+- VIGAFYDE may be given by mouth or given through a gastrostomy (G) tube.
+  If VIGAFYDE is given through a gastrojejunal (GJ) tube, the G-port must be used.
+  Give the medicine as directed by your baby’s healthcare provider and flush the tube after administration with the amount of water recommended by your healthcare provider.
+- If giving VIGAFYDE by mouth, use the oral syringe provided by the pharmacy to measure and give the prescribed dose.
   Do not use a household teaspoon or tablespoon.
 - Stop using other products that contain vigabatrin.
   Check with your healthcare provider.
@@ -60,7 +63,7 @@ How to prepare a dose of VIGAFYDE oral solution:
 
 Step 6: Open the bottle of VIGAFYDE by pressing down on the cap and turning it counterclockwise (to the left) (See Figure D).
 
-Step 7: Use the oral syringe to draw up the total number of mLs of medicine that your baby’s healthcare provider tells you to give.
+Step 7: Use the oral syringe provided by the pharmacy to draw up the total number of mLs of medicine that your baby’s healthcare provider tells you to give.
 
 Push the plunger of the oral syringe all the way up towards the tip of the oral syringe to remove air in the oral syringe (see Figure H).
 
@@ -91,8 +94,14 @@ Push the plunger all the way down so that VIGAFYDE flows back into the bottle an
 
 How to give a dose of VIGAFYDE oral solution:
 
-Step 12: Sit your baby upright when giving a dose of VIGAFYDE.
-Place the tip of the oral syringe into your baby’s mouth and point the oral syringe towards either cheek (see Figure M). Push on the plunger slowly, a small amount at a time, until all the medicine in the oral syringe is given.
+Step 12:
+
+- Giving the dose by mouth: Sit your baby upright when giving a dose of VIGAFYDE.
+  Place the tip of the oral syringe into your baby’s mouth and point the oral syringe towards either cheek (see Figure M). Push on the plunger slowly, a small amount at a time, until all the medicine in the oral syringe is given.
+
+- Giving the dose by gastrostomy (G) tube: If VIGAFYDE is given through a gastrojejunal (GJ) tube, the G-port must be used.
+  Give the medicine as directed by your baby's healthcare provider.
+  Then flush the tube after giving the medicine with the amount of water recommended by your baby's healthcare provider.
 
 If the dose you are giving your baby is more medicine than will fit into the syringe provided by the pharmacy, repeat steps 8 to 12 until you give the total dose of medicine prescribed by your healthcare provider.
 
@@ -110,11 +119,9 @@ After the oral syringe barrel and plunger are dry, put the plunger back into the
 How should I store VIGAFYDE?
 
 - Store unopened bottles at room temperature between 68°F to 77°F (20°C to 25°C).
-  Once opened, store bottle in a refrigerator or at room temperature between 36°F to 86°F (2°C to 30°C).
+  After opening, store bottle in a refrigerator or at room temperature between 36°F to 86°F (2°C to 30°C).
 - Throw away (discard) any opened bottle of VIGAFYDE 90 days after first opening, even if there is still medicine in the bottle.
 - Keep VIGAFYDE and all medicines out of the reach of children.
-
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Made in the United Kingdom
 
@@ -124,6 +131,8 @@ UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
 VIGAFYDE is a registered trademark of Pyros Pharmaceuticals, Inc.
 
-PLFT0363-2-359
+This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised 2/2025
+PLFT0376-3-370
+
+Revised: 9/2025

@@ -23,7 +23,7 @@ In a randomized, placebo-controlled study in patients with infantile spasms (IS)
 
 In patients with IS, the adverse reactions most commonly associated with vigabatrin treatment discontinuation in ≥1% of patients were infections, status epilepticus, developmental coordination disorder, dystonia, hypotonia, hypertonia, weight gain, and insomnia.
 
-In a dose response study of low-dose (18-36 mg/kg/day), which is below the recommended starting dose for IS of 50 mg/kg/day), versus high-dose (100-148 mg/kg/day) vigabatrin, no clear correlation between dose and incidence of adverse reactions was observed.
+In a dose response study of low-dose (18 to 36 mg/kg/day, which is below the recommended starting dose for IS of 50 mg/kg/day) versus high-dose (100 to 148 mg/kg/day) vigabatrin, no clear correlation between dose and incidence of adverse reactions was observed.
 The adverse reactions (≥5% in either dose group) are summarized in Table 2.
 
 Table 2.
@@ -52,7 +52,7 @@ Adverse Reactions in a Placebo-Controlled Trial in Patients with Infantile Spasm
 | Urinary tract infection | 5 | 6 |
 | Influenza | 5 | 3 |
 | Croup infectious | 5 | 1 |
-| Metabolism and Nutrition Disorders |  |  |
+| Metabolism & Nutrition Disorders |  |  |
 | Decreased appetite | 9 | 7 |
 | Nervous System Disorders |  |  |
 | Sedation | 19 | 17 |
