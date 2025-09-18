@@ -28,9 +28,7 @@ BaxterLogo Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
 Product of USA 07-34-00-2342
 
-BAR CODE POSITION ONLY UPCA-A
-
-303389640127
+BAR CODE 303389640127
 
 NDC 0338-9647-12
 
@@ -60,70 +58,122 @@ Baxter Logo Baxter Healthcare Corporation, Deerfield, IL 60015 USA
 
 Product of USA 07-34-00-2343
 
-BAR CODE POSITION ONLY UPCA-A
+BAR CODE 303389647126
 
-303389647126
+Vasopressin in 0.9% Sodium Chloride Injection
 
-Store refrigerated (2°C to 8°C [36°F to 46°F]).
+20 units per 100 mL (0.2 units/mL)
 
-If needed, product may be stored at room temperature up to 25°C (77°F) for up to 6 months.
-Discard after 6 months if stored at room temperature.
+Vasopressin in 0.9% Sodium Chloride Injection
 
-The drug product must be stored in its light protective carton during storage.
-Protect from freezing.
+20 units per 100 mL (0.2 units/mL)
 
+NDC 0338-9640-12
+
+Vasopressin in 0.9% Sodium Chloride Injection 20 units per 100 mL (0.2 units/mL)
+
+UNVARNISHED AREA FOR ON-LINE PRINTING OF LOT & EXP
+
+Bar Code 303389640127
+
+For Intravenous Infusion only Each mL of the 0.2 units/mL strength also contains 9 mg sodium chloride, 0.336 mg sodium DL-lactate, and water for injection. pH may have been adjusted with sodium hydroxide or hydrochloric acid.
+Dosage: See prescribing information.
 Do not add supplemental medication or additives.
-
-Vasopressin in 0.9% Sodium Chloride Injection 20 units per 100 mL(0.2 units/mL)
-
-Contains: 6 x 100 mL Single-Dose bags.
-Each bag contains 100 mL.
-
-BaxterLogo
 
 Rx only
 
-NDC 0338-9640-12 Code 2G3498
-
-*FOR BAR CODE POSITION ONLY
-
-(01) 20303389640121
-
-For Intravenous Infusion only Each mL of the 0.2 units/mL strength also contains 9 mg sodium chloride, 0.336 mg sodium DL-lactate, and water for injection. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
-Dosage: See prescribing information.
-
-Baxter Healthcare Corporation,Deerfield, IL 60015 USA
-
-07-04-00-1385
-
 Store refrigerated (2°C to 8°C [36°F to 46°F]).
-
 If needed, product may be stored at room temperature up to 25°C (77°F) for up to 6 months.
 Discard after 6 months if stored at room temperature.
+The drug product must be stored in its light protective carton during storage.
+Protect from freezing.
+
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
+
+07-01-00-1916
+
+Vasopressin in 0.9% Sodium Chloride Injection
+
+20 units per 100 mL (0.2 units/mL)
+
+Vasopressin in 0.9% Sodium Chloride Injection
+
+20 units per 100 mL (0.2 units/mL)
+
+NDC 0338-9640-12
+
+Vasopressin in 0.9% Sodium Chloride Injection
+
+20 units per 100 mL (0.2 units/mL)
+
+For Intravenous Infusion Only
 
 The drug product must be stored in its light protective carton during storage.
 Protect from freezing.
 
-Do not add supplemental medication or additives.
+Code 2G3498
+
+Rx only
+
+1 Single-Dose bag Discard unused portion
+
+Baxter logo
+
+Vasopressin in 0.9% Sodium Chloride Injection
+
+40 units per 100 mL (0.4 units/mL)
+
+Vasopressin in 0.9% Sodium Chloride Injection
+
+40 units per 100 mL (0.4 units/mL)
+
+NDC 0338-9647-12
 
 Vasopressin in 0.9% Sodium Chloride Injection 40 units per 100 mL (0.4 units/mL)
 
-Contains: 6 x 100 mL Single-Dose bags.
-Each bag contains 100 mL.
+UNVARNISHED AREA FOR ON-LINE PRINTING OF LOT & EXP
 
-BaxterLogo
+Bar Code 303389647126
+
+For Intravenous Infusion only Each mL of the 0.4 units/mL strength also contains 9 mg sodium chloride, 0.336 mg sodium DL-lactate, and water for injection. pH may have been adjusted with sodium hydroxide or hydrochloric acid.
+Dosage: See prescribing information.
+Do not add supplemental medication or additives.
 
 Rx only
 
-NDC 0338-9647-12 Code 2G3499
+Store refrigerated (2°C to 8°C [36°F to 46°F]).
+If needed, product may be stored at room temperature up to 25°C (77°F) for up to 6 months.
+Discard after 6 months if stored at room temperature.
+The drug product must be stored in its light protective carton during storage.
+Protect from freezing.
 
-*FOR BAR CODE POSITION ONLY
+Baxter Healthcare Corporation Deerfield, IL 60015 USA
 
-(01) 20303389647120
+07-01-00-1917
 
-For Intravenous Infusion only Each mL of the 0.4 units/mL strength also contains 9 mg sodium chloride, 0.336 mg sodium DL-lactate, and water for injection. pH may have been adjusted with sodium hydroxide and/or hydrochloric acid.
-Dosage: See prescribing information.
+Vasopressin in 0.9% Sodium Chloride Injection
 
-Baxter Healthcare Corporation,Deerfield, IL 60015 USA
+40 units per 100 mL (0.4 units/mL)
 
-07-04-00-1401
+Vasopressin in 0.9% Sodium Chloride Injection
+
+40 units per 100 mL (0.4 units/mL)
+
+NDC 0338-9647-12
+
+Vasopressin in 0.9% Sodium Chloride Injection
+
+40 units per 100 mL (0.4 units/mL)
+
+For Intravenous Infusion Only
+
+The drug product must be stored in its light protective carton during storage.
+Protect from freezing.
+
+Code 2G3499
+
+Rx only
+
+1 Single-Dose bag Discard unused portion
+
+Baxter logo
