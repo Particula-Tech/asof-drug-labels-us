@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-Retin-A Micro® is a retinoid indicated for topical application in the treatment of acne vulgaris.
+RETIN-A MICRO® is indicated for the topical treatment of acne vulgaris in adults and pediatric patients 12 years of age and older.
