@@ -9,7 +9,7 @@ Daptomycin did not affect the fertility or reproductive performance of male and 
 
 ## 13.2 Animal Toxicology and/or Pharmacology
 
-Adult Animals
+### Adult Animals
 
 In animals, daptomycin administration has been associated with effects on skeletal muscle.
 However, there were no changes in cardiac or smooth muscle.
@@ -27,7 +27,7 @@ However, recovery of peripheral nerve function was evident.
 
 Tissue distribution studies in rats showed that daptomycin is retained in the kidney but appears to penetrate the blood-brain barrier only minimally following single and multiple doses.
 
-Juvenile Animals
+### Juvenile Animals
 
 Target organs of daptomycin-related effects in 7-week-old juvenile dogs were skeletal muscle and nerve, the same target organs as in adult dogs.
 In juvenile dogs, nerve effects were noted at lower daptomycin blood concentrations than in adult dogs following 28 days of dosing.
@@ -40,15 +40,15 @@ Following a 28-day recovery phase, microscopic examination revealed recovery of 
 
 Following once-daily administration of daptomycin to juvenile dogs for 28 days, microscopic effects in nerve tissue were noted at a Cmax value of 417 mcg/mL, which is approximately 3-fold less than the Cmax value associated with nerve effects in adult dogs treated once daily with daptomycin for 28 days (1308 mcg/mL).
 
-Neonatal Animals
+### Neonatal Animals
 
 Neonatal dogs (4 to 31 days old) were more sensitive to daptomycin-related adverse nervous system and/or muscular system effects than either juvenile or adult dogs.
 In neonatal dogs, adverse nervous system and/or muscular system effects were associated with a Cmax value approximately 3-fold less than the Cmax in juvenile dogs, and 9-fold less than the Cmax in adult dogs following 28 days of dosing.
 At a dose of 25 mg/kg/day with associated Cmax and AUCinf values of 147 mcg/mL and 717 mcg•h/mL, respectively (1.6 and 1.0-fold the adult human Cmax and AUC, respectively, at the 6 mg/kg/day dose), mild clinical signs of twitching and one incidence of muscle rigidity were observed with no corresponding effect on body weight.
 These effects were found to be reversible within 28 days after treatment had stopped.
 
-At higher dose levels of 50 and 75 mg/kg/day with associated Cmax and AUCinf values of ≥321 mcg/mL and ≥1470 mcg•h/mL, respectively, marked clinical signs of twitching, muscle rigidity in the limbs, and impaired use of limbs were observed.
-Resulting decreases in body weights and overall body condition at doses ≥50 mg/kg/day necessitated early discontinuation by postnatal day (PND) 19.
+At higher dose levels of 50 and 75 mg/kg/day with associated Cmax and AUCinf values of ≥ 321 mcg/mL and ≥ 1470 mcg•h/mL, respectively, marked clinical signs of twitching, muscle rigidity in the limbs, and impaired use of limbs were observed.
+Resulting decreases in body weights and overall body condition at doses ≥ 50 mg/kg/day necessitated early discontinuation by postnatal day (PND) 19.
 
 Histopathological assessment did not reveal any daptomycin-related changes in the peripheral and central nervous system tissue, as well as in the skeletal muscle or other tissues assessed, at any dose level.
 

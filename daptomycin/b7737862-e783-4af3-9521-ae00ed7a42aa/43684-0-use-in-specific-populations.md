@@ -2,19 +2,19 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
+### Risk Summary
 
 Limited published data on use of daptomycin in pregnant women are insufficient to inform a drug-associated risk for major birth defects and miscarriage.
-In animal reproduction studies performed in rats and rabbits daptomycin was administered intravenously during organogenesis at doses 2 and 4–times, respectively, the recommended 6 mg/kg human dose (on a body surface area basis).
+In animal reproduction studies performed in rats and rabbits daptomycin was administered intravenously during organogenesis at doses 2 and 4-times, respectively, the recommended 6 mg/kg human dose (on a body surface area basis).
 No evidence of adverse developmental outcomes was observed.
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
 
-Data
+### Data
 
-Animal Data
+#### Animal Data
 
 In pregnant rats, daptomycin was administered intravenously at doses of 5, 20, or 75 mg/kg/day during the gestation days 6 to 18.
 Maternal body weight gain was decreased at 75 mg/kg/day.
@@ -29,9 +29,9 @@ No effects on pre/postnatal development were observed up to the highest dose of 
 
 ## 8.2 Lactation
 
-Risk Summary
+### Risk Summary
 
-Limited published data report that daptomycin is present in human milk at infant doses of 0.1% of the maternal dose [see Data]2,3,4.
+Limited published data report that daptomycin is present in human milk at infant doses of 0.1% of the maternal dose (see Data)2,3,4.
 There is no information on the effects of daptomycin on the breastfed infant or the effects of daptomycin on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for daptomycin and any potential adverse effects on the breastfed infant from daptomycin or from the underlying maternal condition.
 
@@ -51,15 +51,15 @@ Daptomycin has not been studied in pediatric patients with other bacterial infec
 
 Of the 534 adult patients treated with daptomycin in Phase 3 controlled clinical trials of complicated skin and skin structure infections (cSSSI), 27% were 65 years of age or older and 12% were 75 years of age or older.
 Of the 120 adult patients treated with daptomycin in the Phase 3 controlled clinical trial of S. aureus bacteremia/endocarditis, 25% were 65 years of age or older and 16% were 75 years of age or older.
-In Phase 3 adult clinical trials of cSSSI and S. aureus bacteremia/endocarditis, clinical success rates were lower in patients ≥65 years of age than in patients <65 years of age.
-In addition, treatment-emergent adverse events were more common in patients ≥65 years of age than in patients <65 years of age.
+In Phase 3 adult clinical trials of cSSSI and S. aureus bacteremia/endocarditis, clinical success rates were lower in patients ≥ 65 years of age than in patients < 65 years of age.
+In addition, treatment-emergent adverse events were more common in patients ≥ 65 years of age than in patients < 65 years of age.
 
 The exposure of daptomycin was higher in healthy elderly subjects than in healthy young adult subjects.
-However, no adjustment of daptomycin dosage is warranted for elderly patients with creatinine clearance (CLCR) ≥30 mL/min [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
+However, no adjustment of daptomycin dosage is warranted for elderly patients with creatinine clearance (CLCR) ≥ 30 mL/min [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3)].
 
 ## 8.6 Patients with Renal Impairment
 
-Daptomycin is eliminated primarily by the kidneys; therefore, a modification of daptomycin dosage interval is recommended for adult patients with CLCR <30 mL/min, including patients receiving hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
-In adult patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.6), Warnings and Precautions (5.2, 5.8), and Clinical Pharmacology (12.3)].
+Daptomycin is eliminated primarily by the kidneys; therefore, a modification of daptomycin dosage interval is recommended for adult patients with CLCR < 30 mL/min, including patients receiving hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
+In adult patients with renal impairment, both renal function and creatine phosphokinase (CPK) should be monitored more frequently than once weekly [see Dosage and Administration (2.6), Warnings and Precautions (5.2, 5.10), and Clinical Pharmacology (12.3)].
 
 The dosage regimen for daptomycin in pediatric patients with renal impairment has not been established.

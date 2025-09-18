@@ -14,7 +14,7 @@ The following adverse reactions are described, or described in greater detail, i
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared with rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical Trial Experience in Adult Patients
+### Clinical Trial Experience in Adult Patients
 
 Clinical trials enrolled 1,864 adult patients treated with daptomycin and 1,416 treated with comparator.
 
@@ -24,11 +24,11 @@ In Phase 3 complicated skin and skin structure infection (cSSSI) trials in adult
 
 The rates of the most common adverse reactions, organized by body system, observed in adult patients with cSSSI (receiving 4 mg/kg daptomycin) are displayed in Table 6.
 
-Table 6: Incidence of Adverse Reactions that Occurred in ≥2% of Adult Patients in the Daptomycin Treatment Group and ≥ the Comparator Treatment Group in Phase 3 cSSSI Trials
+Table 6: Incidence of Adverse Reactions that Occurred in ≥ 2% of Adult Patients in the Daptomycin Treatment Group and ≥ the Comparator Treatment Group in Phase 3 cSSSI Trials
 
 | Adverse Reaction | Adult Patients (%) |  |
 | --- | --- | --- |
-| Daptomycin 4 mg/kg(N=534) | Comparator*(N=558) |  |
+| Daptomycin 4 mg/kg(N = 534) | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).(N = 558) |  |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 5.2 | 4.3 |
 | Nervous system disorders |  |  |
@@ -46,9 +46,7 @@ Table 6: Incidence of Adverse Reactions that Occurred in ≥2% of Adult Patients
 | Respiratory disorders |  |  |
 | Dyspnea | 2.1 | 1.6 |
 
-*Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).
-
-Drug-related adverse reactions (possibly or probably drug-related) that occurred in <1% of adult patients receiving daptomycin in the cSSSI trials are as follows:
+Drug-related adverse reactions (possibly or probably drug-related) that occurred in < 1% of adult patients receiving daptomycin in the cSSSI trials are as follows:
 
 Body as a Whole: fatigue, weakness, rigors, flushing, hypersensitivity
 
@@ -79,11 +77,11 @@ Gram-negative infections included cholangitis, alcoholic pancreatitis, sternal o
 
 The rates of the most common adverse reactions, organized by System Organ Class (SOC), observed in adult patients with S. aureus bacteremia/endocarditis (receiving 6 mg/kg daptomycin) are displayed in Table 7.
 
-Table 7: Incidence of Adverse Reactions that Occurred in ≥5% of Adult Patients in the Daptomycin Treatment Group and ≥ the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
+Table 7: Incidence of Adverse Reactions that Occurred in ≥ 5% of Adult Patients in the Daptomycin Treatment Group and ≥ the Comparator Treatment Group in the S. aureus Bacteremia/Endocarditis Trial
 
-| Adverse Reaction* | Adult Patientsn (%) |  |
+| Adverse ReactionNOS, not otherwise specified. | Adult Patientsn (%) |  |
 | --- | --- | --- |
-| Daptomycin 6 mg/kg(N=120) | Comparator†(N=116) |  |
+| Daptomycin 6 mg/kg(N = 120) | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin.(N = 116) |  |
 | Infections and infestations |  |  |
 | Sepsis NOS | 6 (5%) | 3 (3%) |
 | Bacteremia | 6 (5%) | 0 (0%) |
@@ -103,10 +101,6 @@ Table 7: Incidence of Adverse Reactions that Occurred in ≥5% of Adult Patients
 | Blood creatine phosphokinase increased | 8 (7%) | 1 (1%) |
 | Vascular disorders |  |  |
 | Hypertension NOS | 7 (6%) | 3 (3%) |
-
-*NOS, not otherwise specified.
-
-†Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 2 g IV q4h), each with initial low-dose gentamicin.
 
 The following reactions, not included above, were reported as possibly or probably drug-related in the daptomycin-treated group:
 
@@ -152,30 +146,25 @@ Table 8 summarizes the CPK shifts from Baseline through End of Therapy in the cS
 
 Table 8: Incidence of CPK Elevations from Baseline during Therapy in Either the Daptomycin Treatment Group or the Comparator Treatment Group in Phase 3 cSSSI Adult Trials
 
-| Change in CPK | All Adult Patients |  |  |  | Adult Patients withNormal CPK at Baseline |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Daptomycin4 mg/kg(N=430) |  | Comparator*(N=459) |  | Daptomycin4 mg/kg(N=374) |  | Comparator*(N=392) |  |  |
-| % | n | % | n | % | n | % | n |  |
-| No Increase | 90.7 | 390 | 91.1 | 418 | 91.2 | 341 | 91.1 | 357 |
-| Maximum Value >1× ULN† | 9.3 | 40 | 8.9 | 41 | 8.8 | 33 | 8.9 | 35 |
-| >2× ULN | 4.9 | 21 | 4.8 | 22 | 3.7 | 14 | 3.1 | 12 |
-| >4× ULN | 1.4 | 6 | 1.5 | 7 | 1.1 | 4 | 1.0 | 4 |
-| >5× ULN | 1.4 | 6 | 0.4 | 2 | 1.1 | 4 | 0.0 | 0 |
-| >10× ULN | 0.5 | 2 | 0.2 | 1 | 0.2 | 1 | 0.0 | 0 |
-
-Note: Elevations in CPK observed in adult patients treated with daptomycin or comparator were not clinically or statistically significantly different.
-
-*Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).
-
-†ULN (Upper Limit of Normal) is defined as 200 U/L.
+| Change in CPK |  | All Adult Patients |  |  |  | Adult Patients withNormal CPK at Baseline |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Daptomycin4 mg/kg(N = 430) |  | ComparatorComparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses).(N = 459) |  | Daptomycin 4 mg/kg(N = 374) |  | Comparator(N = 392) |  |  |  |
+| % | n | % | n | % | n | % | n |  |  |
+| No Increase |  | 90.7 | 390 | 91.1 | 418 | 91.2 | 341 | 91.1 | 357 |
+| Maximum Value | > 1× ULNULN (Upper Limit of Normal) is defined as 200 U/L. | 9.3 | 40 | 8.9 | 41 | 8.8 | 33 | 8.9 | 35 |
+|  | > 2× ULN | 4.9 | 21 | 4.8 | 22 | 3.7 | 14 | 3.1 | 12 |
+|  | > 4× ULN | 1.4 | 6 | 1.5 | 7 | 1.1 | 4 | 1.0 | 4 |
+|  | > 5× ULN | 1.4 | 6 | 0.4 | 2 | 1.1 | 4 | 0.0 | 0 |
+|  | > 10× ULN | 0.5 | 2 | 0.2 | 1 | 0.2 | 1 | 0.0 | 0 |
+| Note: Elevations in CPK observed in adult patients treated with daptomycin or comparator were not clinically or statistically significantly different. |  |  |  |  |  |  |  |  |  |
 
 S. aureus Bacteremia/Endocarditis Trial in Adults
 
-In the S. aureus bacteremia/endocarditis trial in adult patients, at a dose of 6 mg/kg, 11/120 (9.2%) daptomycin-treated patients, including two patients with baseline CPK levels >500 U/L, had CPK elevations to levels >500 U/L, compared with 1/116 (0.9%) comparator-treated patients.
+In the S. aureus bacteremia/endocarditis trial in adult patients, at a dose of 6 mg/kg, 11/120 (9.2%) daptomycin-treated patients, including two patients with baseline CPK levels > 500 U/L, had CPK elevations to levels > 500 U/L, compared with 1/116 (0.9%) comparator-treated patients.
 Of the 11 daptomycin-treated patients, 4 had prior or concomitant treatment with an HMG-CoA reductase inhibitor.
 Three of these 11 daptomycin-treated patients discontinued therapy due to CPK elevation, while the one comparator-treated patient did not discontinue therapy [see Warnings and Precautions (5.2)].
 
-Clinical Trial Experience in Pediatric Patients
+### Clinical Trial Experience in Pediatric Patients
 
 Complicated Skin and Skin Structure Infection Trial in Pediatric Patients
 
@@ -192,9 +181,9 @@ Most Common Adverse Reactions
 
 The rates of the most common adverse reactions, organized by body system, observed in these pediatric patients with cSSSI are displayed in Table 9.
 
-Table 9: Adverse Reactions that Occurred in ≥2% of Pediatric Patients in the Daptomycin Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the cSSSI Pediatric Trial
+Table 9: Adverse Reactions that Occurred in ≥ 2% of Pediatric Patients in the Daptomycin Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the cSSSI Pediatric Trial
 
-| Adverse Reaction | Daptomycin (N = 256) | Comparator*(N = 133) |
+| Adverse Reaction | Daptomycin(N = 256) | ComparatorComparators included intravenous therapy with either vancomycin, clindamycin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin)(N = 133) |
 | --- | --- | --- |
 | n (%) | n (%) |  |
 | Gastrointestinal disorders |  |  |
@@ -210,17 +199,15 @@ Table 9: Adverse Reactions that Occurred in ≥2% of Pediatric Patients in the D
 | Nervous system disorders |  |  |
 | Headache | 7 (2.7) | 3 (2.3) |
 
-*Comparators included intravenous therapy with either vancomycin, clindamycin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin)
-
 The safety profile in the clinical trial of cSSSI pediatric patients was similar to that observed in the cSSSI adult patients.
 
 S. aureus Bacteremia Trial in Pediatric Patients
 
 The safety of daptomycin was evaluated in one clinical trial (in S. aureus bacteremia), which treated 55 pediatric patients with intravenous daptomycin and 26 patients with comparator agents.
 Patients were given age-dependent doses once daily for a treatment period of up to 42 days (mean duration of IV treatment was 12 days).
-The doses by age group were as follows: 12 mg/kg for 1 to <6 years, 9 mg/kg for 7 to 11 years and 7 mg/kg for 12 to 17 years of age [see Clinical Studies (14)].
+The doses by age group were as follows: 12 mg/kg for 1 to < 6 years, 9 mg/kg for 7 to 11 years and 7 mg/kg for 12 to 17 years of age [see Clinical Studies (14)].
 Patients treated with daptomycin were (69%) male and (31%) female.
-No patients 1 to <2 years of age were enrolled.
+No patients 1 to < 2 years of age were enrolled.
 
 Adverse Reactions Leading to Discontinuation
 
@@ -230,17 +217,15 @@ Most Common Adverse Reactions
 
 The rates of the most common adverse reactions, organized by body system, observed in these pediatric patients with bacteremia are displayed in Table 10.
 
-Table 10: Incidence of Adverse Reactions that Occurred in ≥5% of Pediatric Patients in the Daptomycin Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the Pediatric Bacteremia Trial
+Table 10: Incidence of Adverse Reactions that Occurred in ≥ 5% of Pediatric Patients in the Daptomycin Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the Pediatric Bacteremia Trial
 
-| Adverse Reaction | Daptomycin(N = 55) | Comparator(N = 26) |
+| Adverse Reaction | Daptomycin(N = 55) | ComparatorComparators included intravenous therapy with either vancomycin, cefazolin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin)(N = 26) |
 | --- | --- | --- |
 | n (%) | n (%) |  |
 | Gastrointestinal disorders |  |  |
 | Vomiting | 6 (10.9) | 2 (7.7) |
 | Investigations |  |  |
 | Blood CPK increased | 4 (7.3) | 0 |
-
-1. *Comparators included intravenous therapy with either vancomycin, cefazolin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin)
 
 ## 6.2 Post-Marketing Experience
 
@@ -266,6 +251,8 @@ Nervous System Disorders: peripheral neuropathy [see Warnings and Precautions (5
 Skin and Subcutaneous Tissue Disorders: serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), vesiculobullous rash (with or without mucous membrane involvement, including Stevens-Johnson syndrome [SJS] and toxic epidermal necrolysis [TEN]), and acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)]
 
 Gastrointestinal Disorders: nausea, vomiting
+
+Metabolic and Nutritional Disorders: hyperkalemia
 
 Renal and urinary disorders: acute kidney injury, renal insufficiency, renal failure, and tubulointerstitial nephritis (TIN) [see Warnings and Precautions (5.5)]
 

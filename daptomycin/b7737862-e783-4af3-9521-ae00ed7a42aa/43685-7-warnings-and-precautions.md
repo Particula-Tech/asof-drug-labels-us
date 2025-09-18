@@ -18,7 +18,7 @@ In adult patients with renal impairment, both renal function and CPK should be m
 In Phase 1 studies and Phase 2 clinical trials in adults, CPK elevations appeared to be more frequent when daptomycin was dosed more than once daily.
 Therefore, daptomycin should not be dosed more frequently than once a day.
 
-Daptomycin should be discontinued in patients with unexplained signs and symptoms of myopathy in conjunction with CPK elevations to levels >1,000 U/L (~5× ULN), and in patients without reported symptoms who have marked elevations in CPK, with levels >2,000 U/L (≥10 × ULN).
+Daptomycin should be discontinued in patients with unexplained signs and symptoms of myopathy in conjunction with CPK elevations to levels > 1,000 U/L (~5× ULN), and in patients without reported symptoms who have marked elevations in CPK, with levels > 2,000 U/L (≥ 10×ULN).
 
 In addition, consideration should be given to suspending agents associated with rhabdomyolysis, such as HMG-CoA reductase inhibitors, temporarily in patients receiving daptomycin [see Drug Interactions (7.1)].
 
@@ -76,7 +76,7 @@ Failure of treatment due to persisting or relapsing S. aureus bacteremia/endocar
 
 ## 5.10 Decreased Efficacy in Patients with Moderate Baseline Renal Impairment
 
-Limited data are available from the two Phase 3 complicated skin and skin structure infection (cSSSI) trials regarding clinical efficacy of daptomycin treatment in adult patients with creatinine clearance (CLCR) <50 mL/min; only 31/534 (6%) patients treated with daptomycin in the intent-to-treat (ITT) population had a baseline CLCR <50 mL/min.
+Limited data are available from the two Phase 3 complicated skin and skin structure infection (cSSSI) trials regarding clinical efficacy of daptomycin treatment in adult patients with creatinine clearance (CLCR) < 50 mL/min; only 31/534 (6%) patients treated with daptomycin in the intent-to-treat (ITT) population had a baseline CLCR < 50 mL/min.
 Table 4 shows the number of adult patients by renal function and treatment group who were clinical successes in the Phase 3 cSSSI trials.
 
 Table 4: Clinical Success Rates by Renal Function and Treatment Group in Phase 3 cSSSI Trials in Adult Patients (Population: ITT)
@@ -85,9 +85,9 @@ Table 4: Clinical Success Rates by Renal Function and Treatment Group in Phase 3
 | --- | --- | --- |
 | Daptomycin4 mg/kg every 24h | Comparator |  |
 | 50 to 70 mL/min | 25/38 (66%) | 30/48 (63%) |
-| 30 to <50 mL/min | 7/15 (47%) | 20/35 (57%) |
+| 30 to < 50 mL/min | 7/15 (47%) | 20/35 (57%) |
 
-In a subgroup analysis of the ITT population in the Phase 3 S. aureus bacteremia/endocarditis trial, clinical success rates, as determined by a treatment-blinded Adjudication Committee [see Clinical Studies (14.2)], in the daptomycin-treated adult patients were lower in patients with baseline CLCR <50 mL/min (see Table 5).
+In a subgroup analysis of the ITT population in the Phase 3 S. aureus bacteremia/endocarditis trial, clinical success rates, as determined by a treatment-blinded Adjudication Committee [see Clinical Studies (14.2)], in the daptomycin-treated adult patients were lower in patients with baseline CLCR < 50 mL/min (see Table 5).
 A decrease of the magnitude shown in Table 5 was not observed in comparator-treated patients.
 
 Table 5: Adjudication Committee Clinical Success Rates at Test of Cure by Baseline Creatinine Clearance and Treatment Subgroup in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
@@ -96,9 +96,9 @@ Table 5: Adjudication Committee Clinical Success Rates at Test of Cure by Baseli
 | --- | --- | --- | --- | --- |
 | Daptomycin6 mg/kg every 24h |  | Comparator |  |  |
 | Bacteremia | Right-Sided Infective Endocarditis | Bacteremia | Right-Sided Infective Endocarditis |  |
-| >80 mL/min | 30/50 (60%) | 7/14 (50%) | 19/42 (45%) | 5/11 (46%) |
+| > 80 mL/min | 30/50 (60%) | 7/14 (50%) | 19/42 (45%) | 5/11 (46%) |
 | 50 to 80 mL/min | 12/26 (46%) | 1/4 (25%) | 13/31 (42%) | 1/2 (50%) |
-| 30 to <50 mL/min | 2/14 (14%) | 0/1 (0%) | 7/17 (41%) | 1/1 (100%) |
+| 30 to < 50 mL/min | 2/14 (14%) | 0/1 (0%) | 7/17 (41%) | 1/1 (100%) |
 
 Consider these data when selecting antibacterial therapy for use in adult patients with baseline moderate to severe renal impairment.
 
