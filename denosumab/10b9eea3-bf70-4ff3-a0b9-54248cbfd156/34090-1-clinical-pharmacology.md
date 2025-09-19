@@ -14,12 +14,12 @@ At the end of each dosing interval, CTX reductions were partially attenuated fro
 These effects were sustained with continued treatment.
 Upon reinitiation, the degree of inhibition of CTX by denosumab was similar to that observed in patients initiating denosumab treatment.
 
-Consistent with the physiological coupling of bone formation and resorption in skeletal remodeling, subsequent reductions in bone formation markers (i.e. osteocalcin and procollagen type 1 N-terminal peptide [P1NP]) were observed starting 1 month after the first dose of denosumab.
+Consistent with the physiological coupling of bone formation and resorption in skeletal remodeling, subsequent reductions in bone formation markers (i.e., osteocalcin and procollagen type 1 N-terminal peptide [P1NP]) were observed starting 1 month after the first dose of denosumab.
 After discontinuation of denosumab therapy, markers of bone resorption increased to levels 40% to 60% above pretreatment values but returned to baseline levels within 12 months.
 
 ## 12.3 Pharmacokinetics
 
-In a study conducted in healthy male and female volunteers (n = 73, age range: 18 to 64 years) following a single subcutaneously administered denosumab dose of 60 mg, the mean area-under-the-concentration-time curve up to 16 weeks (AUC0-16 weeks) of denosumab was 316 mcg∙day/mL (standard deviation [SD] = 101 mcg∙day/mL).
+In a study conducted in healthy male and female volunteers (n = 73, age range: 18 to 64 years) following a single subcutaneously administered denosumab dose of 60 mg, the mean area-under-the-concentration-time curve up to 16 weeks (AUC0-16 weeks) of denosumab was 316 mcg∙day/mL (SD = 101 mcg∙day/mL).
 The mean maximum denosumab concentration (Cmax) was 6.75 mcg/mL (SD = 1.89 mcg/mL).
 No accumulation or change in denosumab pharmacokinetics with time is observed with multiple dosing of 60 mg subcutaneously administered once every 6 months.
 

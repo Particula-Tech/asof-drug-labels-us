@@ -3,11 +3,12 @@
 The following serious adverse reactions are discussed below and also elsewhere in the labeling:
 
 - Severe Hypocalcemia and Mineral Metabolism Changes [see Warnings and Precautions (5.1)]
-- Serious Infections [see Warnings and Precautions (5.7)]
-- Dermatologic Adverse Reactions [see Warnings and Precautions (5.8)]
+- Hypersensitivity [see Warnings and Precautions (5.3)]
 - Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
 - Atypical Subtrochanteric and Diaphyseal Femoral Fractures [see Warnings and Precautions (5.5)]
 - Multiple Vertebral Fractures (MVF) Following Treatment Discontinuation [see Warnings and Precautions (5.6)]
+- Serious Infections [see Warnings and Precautions (5.7)]
+- Dermatologic Adverse Reactions [see Warnings and Precautions (5.8)]
 
 The most common adverse reactions reported with denosumab products in patients with postmenopausal osteoporosis are back pain, pain in extremity, musculoskeletal pain, hypercholesterolemia, and cystitis.
 
@@ -84,7 +85,7 @@ Therefore, a RANKL inhibitor such as denosumab products may increase the risk of
 
 In the clinical study of 7808 postmenopausal women with osteoporosis, the incidence of infections resulting in death was 0.2% in both placebo and denosumab treatment groups.
 However, the incidence of nonfatal serious infections was 3.3% in the placebo and 4.0% in the denosumab groups.
-Hospitalizations due to serious infections in the abdomen (0.7% placebo vs. 0.9% denosumab), urinary tract (0.5% placebo vs.0.7% denosumab), and ear (0.0% placebo vs. 0.1% denosumab) were reported.
+Hospitalizations due to serious infections in the abdomen (0.7% placebo vs. 0.9% denosumab), urinary tract (0.5% placebo vs. 0.7% denosumab), and ear (0.0% placebo vs. 0.1% denosumab) were reported.
 Endocarditis was reported in no placebo patients and 3 patients receiving denosumab.
 
 Skin infections, including erysipelas and cellulitis, leading to hospitalization were reported more frequently in patients treated with denosumab (< 0.1% placebo vs. 0.4% denosumab).
@@ -237,7 +238,7 @@ The following adverse reactions have been identified during post-approval use of
 - Musculoskeletal pain, including severe cases
 - Parathyroid hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis
 - Multiple vertebral fractures following treatment discontinuation
-- Cutaneous and mucosal lichenoid drug eruptions (e.g. lichen planus-like reactions)
+- Cutaneous and mucosal lichenoid drug eruptions (e.g., lichen planus-like reactions)
 - Alopecia
 - Vasculitis (e.g.
   ANCA positive vasculitis, leukocytoclastic vasculitis)

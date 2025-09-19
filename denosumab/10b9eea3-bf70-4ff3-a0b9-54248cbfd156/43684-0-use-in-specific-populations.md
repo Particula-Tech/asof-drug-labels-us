@@ -62,11 +62,13 @@ Therefore, male condom use would not be necessary as it is unlikely that a femal
 
 The safety and effectiveness of Stoboclo have not been established in pediatric patients.
 
-In one multicenter, open-label study with denosumab conducted in 153 pediatric patients with osteogenesis imperfecta, aged 2 to 17 years, evaluating fracture risk reduction, efficacy was not established.
+In one multicenter, open-label study with denosumab conducted in 153 pediatric patients with osteogenesis imperfecta, aged 2 to 17 years, evaluating fracture risk reduction, efficacy was not demonstrated.
 
 Hypercalcemia has been reported in pediatric patients with osteogenesis imperfecta treated with denosumab products.
 Some cases required hospitalization and were complicated by acute renal injury [see Warnings and Precautions (5.11)].
 Clinical studies in pediatric patients with osteogenesis imperfecta were terminated early due to the occurrence of life-threatening events and hospitalizations due to hypercalcemia.
+
+Safety and effectiveness were not demonstrated for the treatment of glucocorticoid-induced osteoporosis in one multicenter, randomized, double-blind, placebo-controlled, parallel-group study conducted in 24 pediatric patients with glucocorticoid-induced osteoporosis, aged 5 to 17 years, evaluating change from baseline in lumbar spine BMD Z-score.
 
 Based on results from animal studies, denosumab may negatively affect long-bone growth and dentition in pediatric patients below the age of 4 years.
 
@@ -77,7 +79,7 @@ In neonatal rats, inhibition of RANKL (the target of denosumab therapy) with a c
 Adolescent primates treated with denosumab at doses 10 and 50 times (10 and 50 mg/kg dose) higher than the recommended human dose of 60 mg administered every 6 months, based on body weight (mg/kg), had abnormal growth plates, considered to be consistent with the pharmacological activity of denosumab [see Nonclinical Toxicology (13.2)].
 
 Cynomolgus monkeys exposed in utero to denosumab exhibited bone abnormalities, an absence of axillary, inguinal, mandibular, and mesenteric lymph nodes, reduced hematopoiesis, tooth malalignment, and decreased neonatal growth.
-Some bone abnormalities recovered once exposure was ceased following birth; however, axillary and inguinal lymph nodes remained absent 6 months post-birth [see Use in Specific Populations (8.1)].
+Some bone abnormalities recovered once exposure was ceased following birth; however, axillary, and inguinal lymph nodes remained absent 6 months post-birth [see Use in Specific Populations (8.1)].
 
 ## 8.5 Geriatric Use
 

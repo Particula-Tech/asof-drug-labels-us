@@ -35,7 +35,7 @@ Denosumab was effective in reducing the risk for new morphometric vertebral frac
 Effect on Hip Fractures
 
 The incidence of hip fracture was 1.2% for placebo-treated women compared to 0.7% for denosumab-treated women at year 3.
-The age-adjusted absolute risk reduction of hip fractures was 0.3% with a relative risk reduction of 40% at 3 years (p = 0.04) (Figure 1).
+The age-adjusted absolute risk reduction of hip fractures was 0.3% with a relative risk reduction of 40% at 3 years (p = 0.04) (see Figure 1).
 
 Figure 1.
 Cumulative Incidence of Hip Fractures Over 3 Years
@@ -45,7 +45,7 @@ Cumulative Incidence of Hip Fractures Over 3 Years
 
 Effect on Nonvertebral Fractures
 
-Treatment with denosumab resulted in a significant reduction in the incidence of nonvertebral fractures (Table 4).
+Treatment with denosumab resulted in a significant reduction in the incidence of nonvertebral fractures (see Table 4).
 
 Table 4.
 The Effect of Denosumab on the Incidence of Nonvertebral Fractures at Year 3
