@@ -2,7 +2,7 @@
 
 NDC 50111-560-01
 
-TraZODONE Hydrochloride Tablets, USP
+traZODone Hydrochloride Tablets, USP
 
 50 mg
 
@@ -16,7 +16,7 @@ Rx only
 
 NDC 50111-561-01
 
-TraZODONE Hydrochloride Tablets, USP
+traZODone Hydrochloride Tablets, USP
 
 100 mg
 
@@ -30,7 +30,7 @@ Rx only
 
 NDC 50111-450-01
 
-TraZODONE Hydrochloride Tablets, USP
+traZODone Hydrochloride Tablets, USP
 
 150 mg
 
