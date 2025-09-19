@@ -43,5 +43,3 @@ PRESERVATIVE FREE
 For Intravenous and Subcutaneous Use Only
 
 Ten x 1 mL Single-Dose Ampules Discard unused portion.
-
-A
