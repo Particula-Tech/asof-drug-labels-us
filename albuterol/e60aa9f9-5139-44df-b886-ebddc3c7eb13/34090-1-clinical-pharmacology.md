@@ -58,7 +58,7 @@ AIRSUPRA, like other inhaled corticosteroid products, may impact the HPA axis, e
 
 The effects of AIRSUPRA on hypothalamic-pituitary-adrenal (HPA) axis were not studied in dedicated clinical trials.
 
-The effects of inhaled AIRSUPRA 180 mcg/160 mcg and AS-BD MDI 180 mcg/80 mcg administered as 2 inhalations of 90 mcg/80 mcg or 90 mcg/40 mcg as needed in response to symptoms were studied on morning serum cortisol in 1254 patients in MANDALA with moderate to severe asthma between the ages of 4 and 84 years.
+The effects of inhaled AIRSUPRA 180 mcg/160 mcg and AS-BD MDI 180 mcg/80 mcg administered as 2 inhalations of 90 mcg/80 mcg or 90 mcg/40 mcg as needed in response to symptoms were studied on morning serum cortisol in 1254 patients with asthma between the ages of 4 and 84 years in MANDALA.
 Morning serum cortisol was collected at baseline, Week 24, end of study, or time of discontinuation.
 Morning cortisol concentration changes over time varied across treatment groups with mean changes from baseline to the Week 24 visit of ‑1.52 nmol/L, +5.43 nmol/L, and +15.42 nmol/L in the AIRSUPRA 180 mcg/160 mcg, AS-BD MDI 180 mcg/80 mcg, and AS MDI 180 mcg treatment groups, respectively.
 
@@ -74,7 +74,7 @@ Absorption
 Albuterol Healthy Subjects: Following inhaled administration of AIRSUPRA 180 mcg/160 mcg (administered as 2 inhalations of 90 mcg/80 mcg), the median tmax of albuterol was 1.00 hour (individual values ranged from 0.08 to 6.05 hours).
 Geometric mean Cmax was 472.2 pg/mL (individual values ranged from 38.4 to 971 pg/mL).
 
-Asthma Patients: Following increasing cumulative doses (a total dose of 1440 mcg) of albuterol (AS MDI) and an active albuterol aerosol inhaler comparator in patients with mild to moderate asthma, mean albuterol plasma concentrations (at 15 minutes after dose) increased from predose levels (44.2 and 51.4 pg/mL) to 3278.0 pg/mL and 5241.7 pg/mL with AS MDI and the comparator, respectively.
+Asthma Patients: Following increasing cumulative doses (a total dose of 1440 mcg) of albuterol (AS MDI) and an active albuterol aerosol inhaler comparator in patients with asthma, mean albuterol plasma concentrations (at 15 minutes after dose) increased from predose levels (44.2 and 51.4 pg/mL) to 3278.0 pg/mL and 5241.7 pg/mL with AS MDI and the comparator, respectively.
 Results from this study indicate the total systemic exposure of albuterol was 21% (for AUC) and 27% (for Cmax) lower for AS MDI than for the comparator.
 
 Budesonide Healthy Subjects: Following inhaled administration in healthy subjects of AIRSUPRA 180 mcg/160 mcg (administered as 2 inhalations of 90 mcg/80 mcg), the median tmax of budesonide was 0.33 hours (individual values ranged from 0.08 to 4.00 hours).

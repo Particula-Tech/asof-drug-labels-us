@@ -16,7 +16,7 @@ Instruct patients concerning the recommended dosage of AIRSUPRA and not to excee
 
 Hypersensitivity Reactions, Including Anaphylaxis
 
-Advise patients to contact their healthcare provider and discontinue AIRSUPRA if hypersensitivity reactions (e.g., anaphylaxis, rash, urticaria, angioedema, and bronchospasm) occur with AIRSUPRA use [Warnings and Precautions (5.5)].
+Advise patients to contact their healthcare provider and discontinue AIRSUPRA if hypersensitivity reactions (e.g., anaphylaxis, rash, urticaria, angioedema, and bronchospasm) occur with AIRSUPRA use [see Warnings and Precautions (5.5)].
 
 Priming and Cleaning Inhaler
 
@@ -52,8 +52,8 @@ Inform patients that long-term use of AIRSUPRA may increase the risk of increase
 
 Pregnancy
 
-Advise pregnant women that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to asthma medications during pregnancy and to contact the MotherToBaby Pregnancy Studies at 1-877-311-8972 or visit https://mothertobaby.org/ongoing-study/asthma/.
+Advise pregnant women that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to asthma medications during pregnancy and to contact the MotherToBaby Pregnancy Studies at 1-877-311-8972 or visit http://mothertobaby.org/pregnancy-studies/.
 
 Manufactured for: AstraZeneca Pharmaceuticals LP, Wilmington, DE 19850 Manufactured by: AstraZeneca Dunkerque Production (AZDP), Dunkerque, France
 
-AIRSUPRA is a registered trademark of the AstraZeneca group of companies. ©AstraZeneca 2024
+AIRSUPRA is a registered trademark of the AstraZeneca group of companies. ©AstraZeneca 2025

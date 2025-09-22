@@ -5,7 +5,7 @@
 ### Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to asthma medications during pregnancy.
-For more information, contact the MotherToBaby Pregnancy Studies conducted by the Organization of Teratology Information Specialists at 1-877-311-8972 or visit https://mothertobaby.org/ongoing-study/asthma/.
+For more information, contact the MotherToBaby Pregnancy Studies conducted by the Organization of Teratology Information Specialists at 1-877-311-8972 or visit http://mothertobaby.org/pregnancy-studies/.
 
 ### Risk Summary
 
@@ -89,10 +89,13 @@ Budesonide levels in plasma samples obtained from five infants at about 90 minut
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of AIRSUPRA have not been established in pediatric patients.
-A limited number of pediatric patients (4 to 17 years of age) were enrolled in the efficacy trial (MANDALA) to evaluate AIRSUPRA to reduce the risk of severe asthma exacerbations.
+A limited number of pediatric patients were enrolled in the efficacy trials MANDALA (4 to 17 years of age) and BATURA (12 to 17 years of age) to evaluate AIRSUPRA to reduce the risk of severe asthma exacerbations.
 The primary efficacy endpoint was time to first severe asthma exacerbation.
-Results showed there were 9 patients with severe exacerbation events in 34 patients 12 to 17 years of age treated with AIRSUPRA 180 mcg/160 mcg and 7 patients with severe exacerbation events in 34 patients treated with albuterol (AS MDI) [HR 1.44 (0.54, 3.87)].
+MANDALA enrolled patients with asthma who were receiving medium to high dose ICS or low to high dose ICS/LABA, with or without another controller medicine as maintenance therapy.
+In MANDALA, there were 9 patients with severe exacerbation events in 34 patients 12 to 17 years of age treated with AIRSUPRA 180 mcg/160 mcg and 7 patients with severe exacerbation events in 34 patients treated with albuterol (AS MDI) [HR 1.44 (0.54, 3.87)].
 There were 11 patients with severe exacerbation events in 41 patients 4 to 11 years of age treated with albuterol/budesonide (AS-BD MDI) 180 mcg/80 mcg and 10 in the 42 patients 4 to 11 years of age treated with AS MDI [HR: 1.09 (0.46, 2.56)].
+BATURA enrolled patients with asthma who were previously treated with as-needed SABA alone, or as-needed SABA plus background maintenance of either low-dose ICS or LTRA.
+In the BATURA trial, 1 patient had a severe exacerbation event in 29 patients treated with AIRSUPRA 180 mcg/160 mcg and 1 patient with severe exacerbation events in 39 patients treated with AS MDI.
 These data are inadequate to make a determination regarding the safety or effectiveness of AIRSUPRA or AS-BD 180 mcg/80 mcg in pediatric patients 4 to 17 years of age [see Clinical Studies (14)].
 
 Controlled clinical studies have shown that ICS agents, including budesonide, one of the components of AIRSUPRA, may cause a reduction in growth velocity in pediatric patients.
@@ -100,8 +103,8 @@ The effects of long-term treatment of pediatric patients with ICS on final adult
 
 ## 8.5 Geriatric Use
 
-There were 741 patients 65 years of age and older in the clinical studies for asthma [see Clinical Studies (14)].
-Of the total number of AIRSUPRA-treated patients in these studies, 231 (19%) were 65 years of age and older, while 41 (3%) were 75 years of age and older.
+There were 921 patients 65 years of age and older in the clinical studies for asthma [see Clinical Studies (14)].
+Of the total number of AIRSUPRA-treated patients in these studies, 311 (13%) were 65 years of age and older, while 52 (2%) were 75 years of age and older.
 In general, no differences in safety or effectiveness were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 As with other products containing beta2-agonists, special caution should be observed when using AIRSUPRA in geriatric patients who have concomitant cardiovascular disease that could be adversely affected by this class of drug.

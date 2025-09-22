@@ -5,9 +5,9 @@ Each canister is packaged in a foil overwrap pouch with a desiccant sachet and p
 Each carton contains one canister and a Patient Information leaflet.
 Each 120-inhalation canister has a net fill weight of 10.7 grams.
 
-AIRSUPRA is available in the following package size as presented in Table 3:
+AIRSUPRA is available in the following package size as presented in Table 4:
 
-Table 3 Package Information for AIRSUPRA
+Table 4 Package Information for AIRSUPRA
 
 | Package Size | Strength albuterol/budesonide | Number of Inhalations per Canister | NDC |
 | --- | --- | --- | --- |

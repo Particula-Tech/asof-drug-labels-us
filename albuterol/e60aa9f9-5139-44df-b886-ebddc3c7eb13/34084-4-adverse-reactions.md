@@ -18,14 +18,15 @@ The following clinically significant adverse reactions are described elsewhere i
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-The safety of AIRSUPRA is based on data from 2 trials: MANDALA and DENALI [see Clinical Studies (14)].
+The safety of AIRSUPRA is based on data from 3 trials: MANDALA, DENALI and BATURA [see Clinical Studies (14)].
 All reported safety data is based on patients who received AIRSUPRA 180 mcg/160 mcg.
+While patients 12 to 17 years of age were included in these trials, AIRSUPRA is not approved in this age group [see Use in Specific Populations (8.4)].
 
-In MANDALA, in which patients with moderate to severe asthma were administered AIRSUPRA as needed, a total of 1015 patients 12 to 84 years of age (mean 51 years) received at least one dose of AIRSUPRA and participated in the study for a mean duration of 310 days.
+In MANDALA, AIRSUPRA 180 mcg/160 mcg was administered as needed in patients with asthma who were receiving medium to high dose ICS or low to high dose ICS/LABA, with or without another controller medicine as maintenance therapy.
+A total of 1015 patients 12 to 84 years of age (mean age: 51 years) received at least one dose of AIRSUPRA and participated in the study for a mean duration of 310 days.
 Of these, 905 patients were exposed for at least 24 weeks and 323 patients had exposure for at least 1 year.
 The mean daily use was 2.6 actuations.
 On the majority of study days, patients used 2 or less actuations; more than 8 actuations were used on less than 2% of study days.
-AIRSUPRA is not approved for patients 12 to 17 years of age.
 
 The incidence of common adverse reactions in MANDALA is described in Table 1.
 
@@ -38,15 +39,23 @@ Table 1 Summary of Adverse Reactions with AIRSUPRA Reported in ≥ 1% of Patient
 | Cough | 10 (1.0) | 11 (1.1) |
 | 1 Albuterol Metered Dose Inhaler = AS MDI 2 Oral candidiasis also includes those reactions reported under the preferred term oropharyngeal candidiasis. |  |  |
 
-The safety profile of AIRSUPRA in MANDALA was similar across the 2 treatment groups irrespective of background ICS dose.
+The safety profile of AIRSUPRA in MANDALA was similar to that observed with AS MDI, irrespective of background ICS dose.
 
-In DENALI, AIRSUPRA 180 mcg/160 mcg was administered 4 times a day for 12 weeks.
-A total of 197 patients 13 to 81 years of age (mean 50 years) with mild to moderate asthma received at least 1 dose of AIRSUPRA.
+In DENALI, AIRSUPRA 180 mcg/160 mcg was administered 4 times a day for 12 weeks in patients with asthma who were previously treated with as-needed short-acting beta2-agonists (SABA) alone or with low-dose ICS maintenance therapy plus as-needed SABA.
+A total of 197 patients 13 to 81 years of age (mean age: 50 years) received at least one dose of AIRSUPRA.
 The adverse reactions profile was similar to MANDALA except for the following adverse reactions for AIRSUPRA with an incidence ≥ 1.0% that exceeded the incidence in MANDALA: headache (5.1%), dysphonia (2.0%), and oral/oropharyngeal candidiasis (1.5%), compared to headache (7.1%), dysphonia (0%), and oral/oropharyngeal candidiasis (0%) in the placebo arm.
+
+In BATURA, AIRSUPRA 180 mcg/160 mcg was administered as needed for 12 to 52 weeks in patients with asthma who were previously treated with as-needed SABA alone, or as-needed SABA plus background maintenance of either low-dose ICS or leukotriene receptor antagonist (LTRA).
+The 26% of patients on background ICS or LTRA were instructed to continue these treatments throughout the study period.
+A total of 1209 patients 12 to 95 years of age (mean age: 43 years) received at least one dose of AIRSUPRA and participated in the study for a mean duration of 259 days.
+Of them, 1109 patients were exposed for at least 12 weeks and 258 patients were exposed for at least 1 year.
+The mean daily use was 1.5 actuations for AIRSUPRA and 1.8 actuations for AS MDI 180 mcg.
+On the majority of study days, patients used 2 or less actuations of AIRSUPRA or AS MDI 180 mcg; more than 8 actuations were used on 2% of study days for patients on AIRSUPRA and 4% of study days for patients on AS MDI 180 mcg.
+The safety profile of AIRSUPRA in BATURA was similar to that in MANDALA.
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of budesonide or albuterol.
+The following adverse reactions have been identified during post-approval use of budesonide or albuterol.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Cardiovascular disorders: myocardial ischemia, tremor, tachycardia, palpitations, extrasystoles, arrhythmias (including atrial fibrillation, supraventricular tachycardia), syncope, hypertension, peripheral vasodilatation

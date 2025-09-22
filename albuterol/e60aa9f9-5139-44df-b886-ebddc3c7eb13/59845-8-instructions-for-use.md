@@ -11,7 +11,7 @@ Important information
 - •For oral inhalation use only.
 - •Use AIRSUPRA exactly as your healthcare provider tells you to.
 - •Before you use AIRSUPRA for the first time, you will need to prime it.
-- •Rinse the white actuator 1-time each week.
+- •Rinse the white actuator 1-time each week so that the medicine does not build up and block the spray through the mouthpiece.
 - •2 puffs of medicine is 1-dose.
   Do not use more than 6 doses (12 puffs) in a 24-hour period.
 - •Rinse your mouth with water, if available, after using AIRSUPRA to decrease the chance of getting a fungal infection (thrush) in your mouth and throat.
@@ -28,22 +28,20 @@ Before using your AIRSUPRA inhaler
 
 | 1. Write the Use by date |  |
 | --- | --- |
-| Write the Use By Date (12 months after you open the foil pouch) on the actuator label using permanent ink. |  |
+| Write the Use By Date (the date 12 months after you open the foil pouch) on the actuator label using permanent ink. For example, if you open the foil pouch on March 1, you will write March 1 on the actuator label. |  |
 |  | Write the Use By Date on the actuator label. |
 
 | 2. Prime your AIRSUPRA inhaler before first use |  |  |
 | --- | --- | --- |
 | Take the cover off the mouthpiece by squeezing both sides of the cover while pulling it down. | Shake the inhaler well. Hold your AIRSUPRA inhaler facing away from you and press down firmly on the top of the puff indicator to spray 1 test-puff into the air. Repeat the priming steps for a total of 4 test-puffs. Shake your AIRSUPRA inhaler before each test-puff. |  |
-|  | Shake before each test-puff. Repeat 4 times. |  |
 | Extra puffs are provided for priming. Do not skip priming. |  |  |
 
 | When and how to re-prime your AIRSUPRA inhaler |  |  |
 | --- | --- | --- |
 | Re-prime your inhaler: •if it is not used for more than 7 days.•if it is dropped•after rinsing white actuator | To re-prime your inhaler:Take the cover off the mouthpiece and spray 2 test-puffs into the air. Shake your AIRSUPRA inhaler before each test-puff. |  |
-|  | Shake before each test-puff. Repeat 2 times. |  |
 | Extra puffs are provided for priming. Do not skip priming. |  |  |
 
-How to use your inhaler - Inhaling your medicine
+Inhaling your medicine
 
 | 1. Check |  |
 | --- | --- |
@@ -59,15 +57,11 @@ How to use your inhaler - Inhaling your medicine
 | Immediately repeat the shake and inhale step to take a second puff. | Place the mouthpiece cover back on the mouthpiece. | Rinse your mouth with water, if available (Do not swallow the water). |
 | 2 puffs equals 1 dose. |  |  |
 
-Weekly rinse - Rinsing your actuator 1 time each week
+Rinsing your actuator 1 time each week
 
-- •Rinse the white actuator 1-time each week so that the medicine does not build up and block the spray through the mouthpiece.
-- •Do not allow the canister to get wet.
-- •Re-prime your AIRSUPRA inhaler after rinsing.
-
-| 1. Remove canister. |
+| 1. Remove canister |
 | --- |
-| Remove the canister and set it aside. Take the cover off the mouthpiece. |
+| Remove the canister and set it aside. Take the cover off the mouthpiece. Do not allow the canister to get wet. |
 
 | 2. Rinse through both ends |  |
 | --- | --- |
@@ -85,7 +79,7 @@ Weekly rinse - Rinsing your actuator 1 time each week
 
 | Emergency inhaler use when wet |
 | --- |
-| If you need to use the inhaler before it is dry: •shake off as much excess water as you can•insert the canister into the actuator•shake and spray 2-test puffs into the air away from your face•take the prescribed dose•rinse the actuator again following the Weekly Rinse steps. |
+| If you need to use the inhaler before it is dry: •shake off as much excess water as you can•insert the canister into the actuator•shake and spray 2-test puffs into the air away from your face•take the prescribed dose•rinse the actuator again following the Weekly Rinse steps |
 
 Storing your inhaler
 
@@ -106,9 +100,9 @@ Ordering a new AIRSUPRA inhaler
 
 - •Order a new AIRSUPRA inhaler when the pointer on the puff indicator is in the yellow zone.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration
 
-Issued: March 2024
+Revised: September 2025
 
 # Instructions for Use
 
@@ -123,7 +117,7 @@ Important information
 - •For oral inhalation use only.
 - •Use AIRSUPRA exactly as your healthcare provider tells you to.
 - •Before you use AIRSUPRA for the first time, you will need to prime it.
-- •Rinse the white actuator 1-time each week.
+- •Rinse the white actuator 1-time each week so that the medicine does not build up and block the spray through the mouthpiece.
 - •2 puffs of medicine is 1-dose.
   Do not use more than 6 doses (12 puffs) in a 24-hour period.
 - •Rinse your mouth with water, if available, after using AIRSUPRA to decrease the chance of getting a fungal infection (thrush) in your mouth and throat.
@@ -140,22 +134,20 @@ Before using your AIRSUPRA inhaler
 
 | 1. Write the Use by date |  |
 | --- | --- |
-| Write the Use By Date (6 months after you open the foil pouch) on the actuator label using permanent ink. |  |
+| Write the Use By Date (the date 6 months after you open the foil pouch) on the actuator label using permanent ink. For example, if you open the foil pouch on March 1, you will write September 1 on the actuator label. |  |
 |  | Write the Use By Date on the actuator label. |
 
 | 2. Prime your AIRSUPRA inhaler before first use |  |  |
 | --- | --- | --- |
 | Take the cover off the mouthpiece by squeezing both sides of the cover while pulling it down. | Shake the inhaler well. Hold your AIRSUPRA inhaler facing away from you and press down firmly on the top of the puff indicator to spray 1 test-puff into the air. Repeat the priming steps for a total of 4 test-puffs. Shake your AIRSUPRA inhaler before each test-puff. |  |
-|  | Shake before each test-puff. Repeat 4 times. |  |
 | Extra puffs are provided for priming. Do not skip priming. |  |  |
 
 | When and how to re-prime your AIRSUPRA inhaler |  |  |
 | --- | --- | --- |
 | Re-prime your inhaler: •if it is not used for more than 7 days.•if it is dropped•after rinsing white actuator | To re-prime your inhaler:Take the cover off the mouthpiece and spray 2 test-puffs into the air. Shake your AIRSUPRA inhaler before each test-puff. |  |
-|  | Shake before each test-puff. Repeat 2 times. |  |
 | Extra puffs are provided for priming. Do not skip priming. |  |  |
 
-How to use your inhaler - Inhaling your medicine
+Inhaling your medicine
 
 | 1. Check |  |
 | --- | --- |
@@ -171,15 +163,11 @@ How to use your inhaler - Inhaling your medicine
 | Immediately repeat the shake and inhale step to take a second puff. | Place the mouthpiece cover back on the mouthpiece. | Rinse your mouth with water, if available (Do not swallow the water). |
 | 2 puffs equals 1 dose. |  |  |
 
-Weekly rinse - Rinsing your actuator 1 time each week
-
-- •Rinse the white actuator 1-time each week so that the medicine does not build up and block the spray through the mouthpiece.
-- •Do not allow the canister to get wet.
-- •Re-prime your AIRSUPRA inhaler after rinsing.
+Rinsing your actuator 1 time each week
 
 | 1. Remove canister |
 | --- |
-| Remove the canister and set it aside. Take the cover off the mouthpiece. |
+| •Remove the canister and set it aside. Take the cover off the mouthpiece. Do not allow the canister to get wet. |
 
 | 2. Rinse through both ends |  |
 | --- | --- |
@@ -197,7 +185,7 @@ Weekly rinse - Rinsing your actuator 1 time each week
 
 | Emergency inhaler use when wet |
 | --- |
-| If you need to use the inhaler before it is dry: •shake off as much excess water as you can•insert the canister into the actuator•shake and spray 2-test puffs into the air away from your face•take the prescribed dose•rinse the actuator again following the Weekly Rinse steps. |
+| If you need to use the inhaler before it is dry: •shake off as much excess water as you can•insert the canister into the actuator•shake and spray 2-test puffs into the air away from your face•take the prescribed dose•rinse the actuator again following the Weekly Rinse steps |
 
 Storing your inhaler
 
@@ -218,6 +206,6 @@ Ordering a new AIRSUPRA inhaler
 
 - •Order a new AIRSUPRA inhaler when the pointer on the puff indicator is in the yellow zone.
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration.
+This Instructions for Use has been approved by the U.S. Food and Drug Administration
 
-Issued: March 2024
+Revised: September 2025
