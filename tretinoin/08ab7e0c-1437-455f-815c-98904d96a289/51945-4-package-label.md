@@ -19,7 +19,7 @@ NET WT.
 
 NDC 0187-5146-50
 
-RETIN-A MICRO® (tretinoin) Gel microsphere 0.06%
+RETIN-A MICRO® tretinoin Gel (microsphere) 0.06%
 
 PUMP
 
@@ -36,7 +36,7 @@ NET WT.
 
 NDC 0187-5144-50
 
-RETIN-A MICRO® (tretinoin gel) microsphere 0.04%
+RETIN-A MICRO® tretinoin gel (microsphere) 0.04%
 
 PUMP
 
@@ -53,7 +53,7 @@ Net Wt.
 
 NDC 0187-5140-50
 
-RETIN-A MICRO® (tretinoin gel) microsphere 0.1%
+RETIN-A MICRO® tretinoin gel (microsphere) 0.1%
 
 PUMP
 
