@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA215133"
+  ],
+  "inn": "sertraline",
+  "labeler": "Alvogen, Inc.",
+  "package_ndcs": [
+    "47781-951-30",
+    "47781-962-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "sertraline hydrochloride",
+      "name": "sertraline hydrochloride"
+    }
+  ],
+  "setid": "e0e1f35e-114d-bb39-34f1-70208b94ac9e",
+  "source": "dailymed"
+}
