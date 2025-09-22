@@ -1,4 +1,6 @@
-PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 10 mL Vial Label NDC 63323-269-06
+# PACKAGE LABEL – PRINCIPAL DISPLAY – Diprivan® 10 mL Vial Label
+
+NDC 63323-269-06
 
 NP260910
 
@@ -6,29 +8,45 @@ DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
 
 100 mg per 10 mL (10 mg per mL)
 
-FOR INTRAVENOUS ADMINISTRATION 10 mL - For Single Patient Use Only
+FOR INTRAVENOUS ADMINISTRATION
+
+10 mL Single-Dose Vial
 
 SHAKE WELL BEFORE USING
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 10 mL Vial Carton Panel NDC 63323-269-16
+# PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 10 mL Vial Carton Panel
+
+NDC 63323-269-16
 
 NP260910
 
 DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
 
-100 mg per 10 mL (10 mg per mL) FOR INTRAVENOUS ADMINISTRATION Ten 10 mL vials For Single Patient Use Only SHAKE WELL BEFORE USING Use strict aseptic technique Contains EDTA, which inhibits microbial growth up to 12 hours, discard within 12 hours of opening Rx only
+100 mg per 10 mL (10 mg per mL)
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 20 mL Vial Label
+FOR INTRAVENOUS ADMINISTRATION
+
+Ten 10 mL Vials
+
+Single-Dose Vials
+
+SHAKE WELL BEFORE USING
+
+Rx only
+
+# PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 20 mL Vial Label
 
 DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
 
 200 mg per 20 mL (10 mg per mL)
 
-FOR INTRAVENOUS ADMINISTRATION 20 mL Single-Dose Vial
+FOR INTRAVENOUS ADMINISTRATION
+
+20 mL Single-Dose Vial
 
 SHAKE WELL BEFORE USING
 
-PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 20 mL Vial Carton Panel
+# PACKAGE LABEL - PRINCIPAL DISPLAY - Diprivan® 20 mL Vial Carton Panel
 
 NDC 63323-269-37
 
@@ -36,4 +54,78 @@ NP260929
 
 DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
 
-200 mg per 20 mL (10 mg per mL) FOR INTRAVENOUS ADMINISTRATION SHAKE WELL BEFORE USING Ten 20 mL vials Single-Dose Vials Sterile, nonpyrogenic
+200 mg per 20 mL (10 mg per mL)
+
+FOR INTRAVENOUS ADMINISTRATION
+
+SHAKE WELL BEFORE USING
+
+Ten 20 mL vials
+
+Single-Dose Vials
+
+Sterile, nonpyrogenic
+
+# PACKAGE LABEL – PRINCIPAL DISPLAY – Diprivan® 50 mL Vial Label
+
+NDC 63323-269-23 NP260957
+
+DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
+
+500 mg per 50 mL (10 mg per mL)
+
+FOR INTRAVENOUS ADMINISTRATION
+
+50 mL Single-Dose Vial
+
+# PACKAGE LABEL – PRINCIPAL DISPLAY – Diprivan® 50 mL Vial Carton Panel
+
+NDC 63323-269-57 NP260957
+
+DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
+
+500 mg per 50 mL (10 mg per mL)
+
+FOR INTRAVENOUS ADMINISTRATION
+
+SHAKE WELL BEFORE USING
+
+Twenty 50 mL Vials
+
+Single-Dose Vials
+
+Rx only
+
+# PACKAGE LABEL – PRINCIPAL DISPLAY – Diprivan® 100 mL Vial Label
+
+NDC 63323-269-21 NP260967
+
+DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
+
+1000 mg per 100 mL (10 mg per mL)
+
+FOR INTRAVENOUS ADMINISTRATION
+
+100 mL Single-Dose Vial
+
+SHAKE WELL BEFORE USING
+
+Rx only
+
+# PACKAGE LABEL – PRINCIPAL DISPLAY – Diprivan® 100 mL Vial Carton Panel
+
+NDC 63323-269-67 NP260967
+
+DIPRIVAN® (Propofol) INJECTABLE EMULSION, USP
+
+1000 mg per 100 mL (10 mg per mL)
+
+FOR INTRAVENOUS ADMINISTRATION
+
+SHAKE WELL BEFORE USING
+
+Ten 100 mL Vials
+
+Single-Dose Vials
+
+Rx only
