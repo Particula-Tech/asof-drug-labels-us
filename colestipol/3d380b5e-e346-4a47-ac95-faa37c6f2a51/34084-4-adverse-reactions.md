@@ -41,3 +41,5 @@ Other infrequently reported complaints include dizziness, light-headedness, and 
 ## Miscellaneous
 
 Anorexia, fatigue, weakness, shortness of breath, and swelling of the hands or feet, have been infrequently reported.
+
+To report SUSPECTED ADVERSE REACTIONS, contact ANI Pharmaceuticals, Inc. at 1-855-204-1431 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
