@@ -17,17 +17,17 @@ In the U.S. general population, the estimated background risk of major birth def
 
 ### Clinical Considerations
 
-#### Disease-Associated Maternal and/or Embryo/Fetal Risk
+#### Disease-associated maternal and/or embryo/fetal risk
 
 Pregnancy confers an increased risk for thromboembolism that is higher for women with underlying thromboembolic disease and certain high-risk pregnancy conditions.
 Published data describe that women with a previous history of venous thrombosis are at high risk for recurrence during pregnancy.
 
-#### Fetal/Neonatal Adverse Reaction
+#### Fetal/Neonatal adverse reaction
 
 Use of anticoagulants, including dabigatran etexilate capsules, may increase the risk of bleeding in the fetus and neonate.
 Monitor neonates for bleeding [see Warnings and Precautions (5.2)].
 
-#### Labor or Delivery
+#### Labor or delivery
 
 All patients receiving anticoagulants, including pregnant women, are at risk for bleeding.
 Dabigatran etexilate capsules use during labor or delivery in women who are receiving neuraxial anesthesia may result in epidural or spinal hematomas.
@@ -47,7 +47,8 @@ Death of offspring and mother rats during labor in association with uterine blee
 
 ### Risk Summary
 
-There are no data on the presence of dabigatran in human milk, the effects on the breastfed child, or on milk production.
+There are insufficient data to assess the presence of dabigatran in human milk.
+There are no data on the effects of dabigatran on the breastfed child or on milk production.
 Dabigatran and/or its metabolites were present in rat milk.
 Breastfeeding is not recommended during treatment with dabigatran etexilate capsules.
 
@@ -96,7 +97,9 @@ Dosing recommendations for patients with CrCl < 30 mL/min or on dialysis cannot 
 
 Avoid use of dabigatran etexilate capsules with concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.3) and Clinical Pharmacology (12.2, 12.3)].
 
-Treatment and Reduction in the Risk of Recurrence of VTE in Pediatric Patients dabigatran etexilate has not been studied in pediatric patients with eGFR < 50 mL/min/1.73 m2.
+### Treatment and Reduction in the Risk of Recurrence of VTE in Pediatric Patients
+
+Dabigatran etexilate has not been studied in pediatric patients with eGFR < 50 mL/min/1.73 m2.
 Reduced renal function could increase exposure.
 Dosing recommendations cannot be provided for treatment of these patients.
 Avoid use of dabigatran etexilate capsules in these patients [see Dosage and Administration (2.4)].

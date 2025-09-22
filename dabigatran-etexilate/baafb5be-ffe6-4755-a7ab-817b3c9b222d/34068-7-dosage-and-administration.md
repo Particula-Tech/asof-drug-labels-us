@@ -80,24 +80,33 @@ Discontinue dabigatran etexilate capsules in patients who develop acute renal fa
 Generally, in adult patients, the extent of anticoagulation does not need to be assessed.
 When necessary, use aPTT or ECT, and not INR, to assess for anticoagulant activity in adult patients on dabigatran etexilate capsules [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
 
-### Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation
+Assess renal function prior to initiation of treatment with dabigatran etexilate capsules.
+Periodically assess renal function as clinically indicated (i.e., more frequently in clinical situations that may be associated with a decline in renal function) and adjust therapy accordingly.
+Discontinue dabigatran etexilate capsules in patients who develop acute renal failure while on dabigatran etexilate capsules and consider alternative anticoagulant therapy.
+
+Generally, in adult patients, the extent of anticoagulation does not need to be assessed.
+When necessary, use aPTT or ECT, and not INR, to assess for anticoagulant activity in adult patients on dabigatran etexilate capsules [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
+
+#### Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation
 
 In patients with moderate renal impairment (CrCl 30-50 mL/min), concomitant use of the P-gp inhibitor dronedarone or systemic ketoconazole can be expected to produce dabigatran exposure similar to that observed in severe renal impairment.
 Reduce the dosage of dabigatran etexilate capsules to 75 mg twice daily [see Warnings and Precautions (5.5), Drug Interactions (7.1) and Clinical Pharmacology (12.3)].
 
-### Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
+#### Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
 
 Dosing recommendations for patients with CrCl ≤ 30 mL/min cannot be provided.
 Avoid use of concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Warnings and Precautions (5.5), Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
-### Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
+#### Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
 
 Dosing recommendations for patients with CrCl ≤ 30 mL/min or on dialysis cannot be provided.
 Avoid use of concomitant P-gp inhibitors in patients with CrCl < 50 mL/min [see Dosage and Administration (2.5), Warnings and Precautions (5.5), Drug Interactions (7.3) and Clinical Pharmacology (12.2, 12.3)].
 
 ### Pediatric Patients with Renal Impairment
 
-Treatment and Reduction in Risk of Recurrence of VTE in Pediatric Patients: Due to lack of data in pediatric patients with eGFR < 50 mL/min/1.73 m2 and the risk of increased exposure, avoid use of dabigatran etexilate capsules in these patients.
+#### Treatment and Reduction in Risk of Recurrence of VTE in Pediatric Patients
+
+Due to lack of data in pediatric patients with eGFR < 50 mL/min/1.73 m2 and the risk of increased exposure, avoid use of dabigatran etexilate capsules in these patients.
 Prior to the initiation of treatment with dabigatran etexilate capsules, estimate the glomerular filtration rate (eGFR) using the Schwartz formula: eGFR (Schwartz) = (0.413 x height in cm) / serum creatinine in mg/dL.
 
 Treat patients with an eGFR > 50 mL/min/1.73 m2 with the dosage according to Table 1 [see Dosage and Administration (2.3)].
@@ -119,14 +128,14 @@ When converting patients from warfarin therapy to dabigatran etexilate capsules,
 
 When converting from dabigatran etexilate capsules to warfarin, adjust the starting time of warfarin as follows:
 
-Adults:
+Adults
 
 - •For CrCl ≥ 50 mL/min, start warfarin 3 days before discontinuing dabigatran etexilate capsules.
 - •For CrCl 30-50 mL/min, start warfarin 2 days before discontinuing dabigatran etexilate capsules.
 - •For CrCl 15-30 mL/min, start warfarin 1 day before discontinuing dabigatran etexilate capsules.
 - •For CrCl < 15 mL/min, no recommendations can be made.
 
-Pediatrics:
+Pediatrics
 
 - •For eGFR ≥ 50 mL/min/1.73 m2, start warfarin 3 days before discontinuing dabigatran etexilate capsules.
 - •Pediatric patients with an eGFR < 50 mL/min/1.73 m2 have not been studied.

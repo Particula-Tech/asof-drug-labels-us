@@ -34,7 +34,7 @@ As in adults, there is a correlation between plasma dabigatran concentrations an
 The parameters dTT and ECT increased in direct linear proportion to the plasma concentration of dabigatran, whereas aPTT prolongation increases in a nonlinear fashion with dabigatran plasma concentrations.
 
 Similar PK/PD relationships for aPTT, ECT, and dTT were observed across age groups of pediatric patients (ages 26 days to < 18 years) and between pediatric and adult patients with venous thromboembolism.
-This similarity in PK/PD relationship suggests that similar exposure response relationship is expected for dabigatran etexilate treatment across the pediatric age groups and adult patients.
+This similarity in PK/PD relationship suggests that similar exposure-response relationship is expected for dabigatran etexilate treatment across the pediatric age groups and adult patients.
 
 ### Cardiac Electrophysiology
 
@@ -124,6 +124,6 @@ In the orthopedic hip surgery patients, limited clinical data with P-gp inhibito
 In RE-LY, dabigatran plasma samples were also collected.
 The concomitant use of proton pump inhibitors, H2 antagonists, and digoxin did not appreciably change the trough concentration of dabigatran.
 
-### Impact of Dabigatran on Other Drugs
+#### Impact of Dabigatran on Other Drugs
 
 In clinical studies exploring CYP3A4, CYP2C9, P-gp and other pathways, dabigatran did not meaningfully alter the pharmacokinetics of amiodarone, atorvastatin, clarithromycin, diclofenac, clopidogrel, digoxin, pantoprazole, or ranitidine.

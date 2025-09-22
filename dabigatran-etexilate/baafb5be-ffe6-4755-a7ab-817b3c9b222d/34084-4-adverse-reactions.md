@@ -34,10 +34,12 @@ Summary of Treatment Exposure in RE-LY
 | Mean exposure (months) | 20.5 | 20.3 | 21.3 |
 | Total patient-years | 10,242 | 10,261 | 10,659 |
 
-Drug Discontinuation in RE-LY: The rates of adverse reactions leading to treatment discontinuation were 21% for dabigatran etexilate capsules 150 mg and 16% for warfarin.
+Drug Discontinuation in RE-LY
+
+The rates of adverse reactions leading to treatment discontinuation were 21% for dabigatran etexilate capsules 150 mg and 16% for warfarin.
 The most frequent adverse reactions leading to discontinuation of dabigatran etexilate capsules were bleeding and gastrointestinal events (i.e., dyspepsia, nausea, upper abdominal pain, gastrointestinal hemorrhage, and diarrhea).
 
-Bleeding:[see Warnings and Precautions (5.2)]
+Bleeding [see Warnings and Precautions (5.2)]
 
 Table 3 shows the number of adjudicated major bleeding events during the treatment period in the RE-LY study, with the bleeding rate per 100 subject-years (%).
 Major bleeding is defined as bleeding accompanied by one or more of the following: a decrease in hemoglobin of ≥ 2 g/dL, a transfusion of ≥ 2 units of packed red blood cells, bleeding at a critical site or with a fatal outcome.
@@ -66,22 +68,14 @@ Note: The figure above presents effects in various subgroups all of which are ba
 The 95% confidence limits that are shown do not take into account how many comparisons were made, nor do they reflect the effect of a particular factor after adjustment for all other factors.
 Apparent homogeneity or heterogeneity among groups should not be over-interpreted.
 
-Gastrointestinal Adverse Reactions: Patients on dabigatran etexilate capsules 150 mg had an increased incidence of gastrointestinal adverse reactions (35% vs 24% on warfarin).
+Gastrointestinal Adverse Reactions
+
+Patients on dabigatran etexilate capsules 150 mg had an increased incidence of gastrointestinal adverse reactions (35% vs 24% on warfarin).
 These were commonly dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) and gastritis-like symptoms (including GERD, esophagitis, erosive gastritis, gastric hemorrhage, hemorrhagic gastritis, hemorrhagic erosive gastritis, and gastrointestinal ulcer).
 
-Hypersensitivity Reactions: In the RE-LY study, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in < 0.1% of patients receiving dabigatran etexilate capsules.
+Hypersensitivity Reactions
 
-Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism: Dabigatran etexilate capsules were studied in 4,387 patients in 4 pivotal, parallel, randomized, double-blind trials.
-Three of these trials were active-controlled (warfarin) (RE-COVER, RE-COVER II, and RE-MEDY), and one study (RE-SONATE) was placebo-controlled.
-The demographic characteristics were similar among the 4 pivotal studies and between the treatment groups within these studies.
-Approximately 60% of the treated patients were male, with a mean age of 55.1 years.
-The majority of the patients were white (87.7%), 10.3% were Asian, and 1.9% were black with a mean CrCl of 105.6 mL/min.
-
-Bleeding events for the 4 pivotal studies were classified as major bleeding events if at least one of the following criteria applied: fatal bleeding, symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or intramuscular with compartment syndrome, retroperitoneal bleeding, intra-articular bleeding, or pericardial bleeding), bleeding causing a fall in hemoglobin level of 2.0 g/dL (1.24 mmol/L or more, or leading to transfusion of 2 or more units of whole blood or red cells).
-
-RE-COVER and RE-COVER II studies compared dabigatran etexilate capsules 150 mg twice daily and warfarin for the treatment of deep vein thrombosis and pulmonary embolism.
-Patients received 5-10 days of an approved parenteral anticoagulant therapy followed by 6 months, with mean exposure of 164 days, of oral only treatment; warfarin was overlapped with parenteral therapy.
-Table 4 shows the number of patients experiencing bleeding events in the pooled analysis of RE-COVER and RE-COVER II studies during the full treatment including parenteral and oral only treatment periods after randomization.
+In the RE-LY study, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in < 0.1% of patients receiving dabigatran etexilate capsules.
 
 #### Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism
 
@@ -172,13 +166,19 @@ Bleeding Events in RE-SONATE Treated Patients
 
 In the RE-SONATE study, the rate of any gastrointestinal bleeds in patients receiving dabigatran etexilate capsules 150 mg was 0.7% (0.3% on placebo).
 
-Clinical Myocardial Infarction Events: In the active-controlled VTE studies, a higher rate of clinical myocardial infarction was reported in patients who received dabigatran etexilate capsules [20 (0.66 per 100 patient-years)] than in those who received warfarin [5 (0.17 per 100 patient-years)].
+Clinical Myocardial Infarction Events
+
+In the active-controlled VTE studies, a higher rate of clinical myocardial infarction was reported in patients who received dabigatran etexilate capsules [20 (0.66 per 100 patient-years)] than in those who received warfarin [5 (0.17 per 100 patient-years)].
 In the placebo-controlled study, a similar rate of nonfatal and fatal clinical myocardial infarction was reported in patients who received dabigatran etexilate capsules [1 (0.32 per 100 patient-years)] and in those who received placebo [1 (0.34 per 100 patient-years)].
 
-Gastrointestinal Adverse Reactions: In the four pivotal studies, patients on dabigatran etexilate capsules 150 mg had a similar incidence of gastrointestinal adverse reactions (24.7% vs 22.7% on warfarin).
+Gastrointestinal Adverse Reactions
+
+In the four pivotal studies, patients on dabigatran etexilate capsules 150 mg had a similar incidence of gastrointestinal adverse reactions (24.7% vs 22.7% on warfarin).
 Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules in 7.5% vs 5.5% on warfarin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 3.0% vs 1.7%, respectively.
 
-Hypersensitivity Reactions: In the 4 pivotal studies, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in 0.1% of patients receiving dabigatran etexilate capsules.
+Hypersensitivity Reactions
+
+In the 4 pivotal studies, drug hypersensitivity (including urticaria, rash, and pruritus), allergic edema, anaphylactic reaction, and anaphylactic shock were reported in 0.1% of patients receiving dabigatran etexilate capsules.
 
 #### Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism Following Hip Replacement Surgery
 
@@ -216,12 +216,18 @@ Bleeding Events in RE-NOVATE II Treated Patients
 
 In the two studies, the rate of major gastrointestinal bleeds in patients receiving dabigatran etexilate capsules and enoxaparin was the same (0.1%) and for any gastrointestinal bleeds was 1.4% for dabigatran etexilate capsules 220 mg and 0.9% for enoxaparin.
 
-Gastrointestinal Adverse Reactions: In the two studies, the incidence of gastrointestinal adverse reactions for patients on dabigatran etexilate capsules 220 mg and enoxaparin was 39.5% and 39.5%, respectively.
+Gastrointestinal Adverse Reactions
+
+In the two studies, the incidence of gastrointestinal adverse reactions for patients on dabigatran etexilate capsules 220 mg and enoxaparin was 39.5% and 39.5%, respectively.
 Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules 220 mg in 4.1% vs. 3.8% on enoxaparin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 0.6% vs 1.0%, respectively.
 
-Hypersensitivity Reactions: In the two studies, drug hypersensitivity (such as urticaria, rash, and pruritus) was reported in 0.3% of patients receiving dabigatran etexilate capsules 220 mg.
+Hypersensitivity Reactions
 
-Clinical Myocardial Infarction Events: In the two studies, clinical myocardial infarction was reported in 2 (0.1%) of patients who received dabigatran etexilate capsules 220 mg and 6 (0.3%) of patients who received enoxaparin.
+In the two studies, drug hypersensitivity (such as urticaria, rash, and pruritus) was reported in 0.3% of patients receiving dabigatran etexilate capsules 220 mg.
+
+Clinical Myocardial Infarction Events
+
+In the two studies, clinical myocardial infarction was reported in 2 (0.1%) of patients who received dabigatran etexilate capsules 220 mg and 6 (0.3%) of patients who received enoxaparin.
 
 ### Pediatric Trials
 
@@ -236,7 +242,9 @@ Patients had a median age of 14 years (range: 0-17 years), 92% were white, and h
 Following at least 5 days of parenteral anticoagulant therapy, the median duration of treatment with dabigatran etexilate was 85 days (range: 1-105).
 Patients with estimated glomerular filtration rate (eGFR) < 50 mL/min/1.73m2 were excluded from the trial.
 
-Bleeding: Data on adjudicated major bleeding, clinically relevant non-major (CRNM) bleeding and minor bleeding events, for the dabigatran etexilate group and the SOC group in the DIVERSITY study, are reported in Table 9.
+Bleeding
+
+Data on adjudicated major bleeding, clinically relevant non-major (CRNM) bleeding and minor bleeding events, for the dabigatran etexilate group and the SOC group in the DIVERSITY study, are reported in Table 9.
 There was no statistically significant difference in the time to first major bleeding event.
 
 Table 9.
@@ -254,7 +262,9 @@ Summary of All Adjudicated Bleeding Events During On-Treatment Period in DIVERSI
 
 Site-specific bleeding rates were comparable between the two arms, with the exception of the rate of any gastrointestinal bleeds (5.7% in dabigatran etexilate arm vs 1.8% in SOC arm).
 
-Gastrointestinal Adverse Reactions: The incidence of gastrointestinal adverse reactions for patients on dabigatran etexilate and SOC was 32% and 12%, respectively, with the following occurring in ≥ 5% of patients taking dabigatran etexilate: dyspepsia (including term gastro-esophageal reflux disease, gastric pH decreased and esophagitis) in 9% (vs 2%), upper abdominal pain in 5% (vs 1%), vomiting in 8% (vs 2%), nausea 5% (vs 4%), and diarrhea 5% (vs 1%).
+Gastrointestinal Adverse Reactions
+
+The incidence of gastrointestinal adverse reactions for patients on dabigatran etexilate and SOC was 32% and 12%, respectively, with the following occurring in ≥ 5% of patients taking dabigatran etexilate: dyspepsia (including term gastro-esophageal reflux disease, gastric pH decreased and esophagitis) in 9% (vs 2%), upper abdominal pain in 5% (vs 1%), vomiting in 8% (vs 2%), nausea 5% (vs 4%), and diarrhea 5% (vs 1%).
 
 #### Reduction in Risk of Recurrence of VTE in Pediatric Patients
 

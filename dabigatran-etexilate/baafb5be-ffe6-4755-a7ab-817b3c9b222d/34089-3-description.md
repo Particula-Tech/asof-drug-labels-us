@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 The chemical name for dabigatran etexilate mesylate, a direct thrombin inhibitor, is Ethyl 3-{[(2-{[(4-{[(hexyloxy)carbonyl]carbamimidoyl}phenyl)amino]methyl}-1-methyl-1H-benzimidazol-5-yl)carbonyl](pyridin-2-yl)amino}propanoate, monomethanesulfonate.
-The molecular formula is C34H41N7O5•CH4O3S and the molecular weight is 723.86 (mesylate salt), 627.75 (free base).
+The empirical formula is C34H41N7O5•CH4O3S and the molecular weight is 723.86 (mesylate salt), 627.75 (free base).
 The structural formula is:
 
 Dabigatran etexilate mesylate is a white to yellow powder.

@@ -1,9 +1,13 @@
 # WARNING: (A) PREMATURE DISCONTINUATION OF DABIGATRAN ETEXILATE CAPSULES INCREASES THE RISK OF THROMBOTIC EVENTS, and (B) SPINAL/EPIDURAL HEMATOMA
 
-(A) PREMATURE DISCONTINUATION OF DABIGATRAN ETEXILATE CAPSULES INCREASES THE RISK OF THROMBOTIC EVENTS: Premature discontinuation of any oral anticoagulant, including dabigatran etexilate capsules, increases the risk of thrombotic events.
+(A) PREMATURE DISCONTINUATION OF DABIGATRAN ETEXILATE CAPSULES INCREASES THE RISK OF THROMBOTIC EVENTS
+
+Premature discontinuation of any oral anticoagulant, including dabigatran etexilate capsules, increases the risk of thrombotic events.
 If anticoagulation with dabigatran etexilate capsules is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.6, 2.7, 2.8) and Warnings and Precautions (5.1)].
 
-(B) SPINAL/EPIDURAL HEMATOMA: Epidural or spinal hematomas may occur in patients treated with dabigatran etexilate capsules who are receiving neuraxial anesthesia or undergoing spinal puncture.
+(B) SPINAL/EPIDURAL HEMATOMA
+
+Epidural or spinal hematomas may occur in patients treated with dabigatran etexilate capsules who are receiving neuraxial anesthesia or undergoing spinal puncture.
 These hematomas may result in long-term or permanent paralysis.
 Consider these risks when scheduling patients for spinal procedures.
 Factors that can increase the risk of developing epidural or spinal hematomas in these patients include:
