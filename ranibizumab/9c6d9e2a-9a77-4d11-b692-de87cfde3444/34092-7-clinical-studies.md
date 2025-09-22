@@ -28,7 +28,7 @@ Consistent results were observed across patient subgroup analyses for mean chang
 
 ## 14.2 Diabetic Macular Edema (DME)
 
-The clinical efficacy and safety of SUSVIMO were assessed in a randomized, visual assessor-masked, active treatment-controlled study [Pagoda (GR40550) NCT04108156] in patients with DME.
+The clinical efficacy and safety of SUSVIMO were assessed in a randomized, visual assessor-masked, active treatment-controlled study (Pagoda-NCT04108156) in patients with DME.
 A total of 634 patients (381 in the SUSVIMO arm and 253 in the intravitreal ranibizumab 0.5 mg arm) were enrolled and treated in this study.
 Patients were randomized in a 3:2 ratio to receive continuous delivery of SUSVIMO via the implant every 24 weeks or 0.5 mg intravitreal ranibizumab injections every 4 weeks.
 
@@ -42,9 +42,9 @@ Detailed efficacy results are shown in Table 4 and Figure 30 below.
 
 Table 4 Key efficacy outcomes at Week 60 and Week 64 in the Pagoda (GR40550) Study
 
-| Outcome Measure | SUSVIMO 100 mg/mL n=381 | Intravitreal ranibizumab 0.5 mg (10 mg/mL) n=253 | Difference (95% CI)All estimates are adjusted estimates based on a mixed-effect model with repeated measures. 95% is a rounding of 95.05% CI; The type 1 error was adjusted for interim safety monitoring. |
+| Outcome MeasureBCVA measured using the Early Treatment Diabetic Retinopathy Study (ETDRS) visual acuity chart at a starting distance of 4 meters. | SUSVIMO 100 mg/mL n=381 | Intravitreal ranibizumab 0.5 mg (10 mg/mL) n=253 | Difference (95% CI)All estimates are adjusted estimates based on a mixed-effect model with repeated measures. 95% is a rounding of 95.05% CI; The type 1 error was adjusted for interim safety monitoring. |
 | --- | --- | --- | --- |
-| Change in BCVABCVA measured using the Early Treatment Diabetic Retinopathy Study (ETDRS) visual acuity chart at a starting distance of 4 meters. scores from baseline averaged over Week 60 and Week 64 Adjusted Mean | 9.6 | 9.4 | 0.2 (-1.2, 1.6) |
+| Change in BCVA scores from baseline averaged over Week 60 and Week 64 Adjusted Mean | 9.6 | 9.4 | 0.2 (-1.2, 1.6) |
 | BCVA = Best corrected visual acuity |  |  |  |
 
 Figure 30 Adjusted Mean change from Baseline in Best Corrected Visual Acuity in study eye through Week 64 in the Pagoda (GR40550) study
@@ -53,13 +53,12 @@ Consistent results were observed across patient subgroup analyses for mean chang
 
 ## 14.3 Diabetic Retinopathy (DR)
 
-The clinical efficacy and safety of SUSVIMO were assessed in a randomized, visual assessor and reading center-masked study [Pavilion (GR 41675)- NCT04503551] in patients with moderately-severe to severe non-proliferative diabetic retinopathy (NPDR) [Early Treatment Diabetic Retinopathy Study Diabetic Retinopathy Severity Scale (ETDRS-DRSS) of 47 or 53], without center-involved DME (CI-DME), and who had not received prior treatment in the study eye for DR. A total of 174 patients (106 in the SUSVIMO arm and 68 in the observational comparator arm) were enrolled in this study.
+The clinical efficacy and safety of SUSVIMO were assessed in a randomized, visual assessor and reading center-masked study (Pavilion-NCT04503551) in patients with moderately-severe to severe non-proliferative diabetic retinopathy (NPDR) [Early Treatment Diabetic Retinopathy Study Diabetic Retinopathy Severity Scale (ETDRS-DRSS) of 47 or 53], without center-involved DME (CI-DME), and who had not received prior treatment in the study eye for DR. A total of 174 patients (106 in the SUSVIMO arm and 68 in the observational comparator arm) were enrolled in this study.
 
 Patients who had not received prior treatment in the study eye for DR were randomized in a 5:3 ratio to continuous delivery of SUSVIMO via the implant every 36 weeks or to clinical observation.
 Prior to the implant procedure, two loading doses of intravitreal ranibizumab 0.5 mg were administered in the study eye.
 The observational comparator arm did not receive loading doses of intravitreal ranibizumab.
 For patients who developed CI-DME or proliferative diabetic retinopathy/anterior segment neovascularization in either arm, supplemental treatment with intravitreal injections of 0.5 mg ranibizumab was available per investigator's clinical judgment at any non-refill-exchange study visit.
-
 Patient ages ranged from 24 to 83 years with a mean of 53.9 years.
 At baseline, the overall mean visual acuity was 82.4 letters (range: 69 to 97 letters).
 

@@ -20,7 +20,7 @@ The data below (Table 2) reflect exposure of 248 patients with AMD in the Archwa
 In clinical trials of SUSVIMO in AMD patients, the most common (≥ 10%) adverse reactions up to Week 40 were conjunctival hemorrhage (72%), conjunctival hyperemia (26%), iritis (23%), and eye pain (10%).
 Septum dislodgement was reported in 0.4% of the AMD patient population.
 
-In clinical trials of SUSVIMO in DME patients, the most common (≥ 10%) adverse reactions up to Week 64 were conjunctival hemorrhage (62%), conjunctival hyperemia (15%), iritis (14%), eye pain (13%), cataract (11%), conjunctival disorder (10%), vitreous hemorrhage (10%) and cataract (10%).
+In clinical trials of SUSVIMO in DME patients, patient population the most common (≥ 10%) adverse reactions up to Week 64 were conjunctival hemorrhage (62%), conjunctival hyperemia (15%), iritis (14%), eye pain (13%), cataract (11%), conjunctival disorder (10%) and vitreous hemorrhage (10%).
 
 In clinical trials of SUSVIMO in DR patients, the most common (≥ 10%) adverse reactions up to Week 52 were conjunctival hemorrhage (73%), conjunctival disorder (14%), iritis (12%) and conjunctival hyperemia (11%).
 

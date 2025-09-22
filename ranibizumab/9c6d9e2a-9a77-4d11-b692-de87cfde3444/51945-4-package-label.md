@@ -25,11 +25,11 @@ Genentech
 
 10233586
 
-# PRINCIPAL DISPLAY PANEL - 10 mg/0.1 mL Vial Carton
+# PRINCIPAL DISPLAY PANEL - 100 mg/mL Vial Carton
 
 NDC 50242-078-12
 
-Susvimo™ (ranibizumab injection)
+Susvimo® (ranibizumab injection)
 
 100 mg/mL
 
@@ -45,4 +45,4 @@ Rx only
 
 Genentech
 
-10233583
+11032207

@@ -1,4 +1,4 @@
-Susvimo™ (ranibizumab injection) For Susvimo ocular implant use Instructions for Use
+Susvimo® (ranibizumab injection) For Susvimo ocular implant use Instructions for Use
 
 | Initial Fill and Implant Procedure |
 | --- |
@@ -33,7 +33,6 @@ Instructions for Use
 | 25 | Implant Insertion |
 | 35 | Disposal and Post-insertion Procedures |
 | 36 | Explanation of symbols on product or package labeling |
-| 37 | Susvimo™ Implant Card |
 
 Introduction
 
@@ -176,14 +175,18 @@ Susvimo ocular implant and insertion tool assembly
 - The sealed tray has been sterilized with ethylene oxide gas.
 - Store the Susvimo implant and insertion tool assembly at room temperature 15°C to 25°C (59°F to 77°F).
 
-Susvimo (ranibizumab injection) and initial fill needle kit
+Susvimo (ranibizumab injection)
 
-- Susvimo initial fill kit should be stored at 2°C to 8°C (36°F to 46°F).
+- Susvimo should be stored at 2°C to 8°C (36°F to 46°F).
   Do not freeze.
   Protect from light.
   Do not shake.
   Prior to use, the unopened vial may be kept at 9°C to 30°C (48°F to 86°F) for up to 24 hours.
-- Susvimo initial fill needle has been sterilized with electron beam processing.
+
+Initial fill needle
+
+- Susvimo initial fill needle should be stored at 2°C to 25°C (36°F to 77°F).
+  Susvimo initial fill needle has been sterilized with electron beam processing.
 
 See Susvimo (ranibizumab injection) prescribing information for additional information.
 
@@ -233,7 +236,7 @@ Preparatory Procedures
 
 | 1. Inspect packaging and components Prior to use in the operating room, inspect the packaging of the components for damage.Check the expiration date printed on the label.Remove the vial from the carton. NOTE: the outside of the vial is not sterile.Open sterile packaging and using aseptic technique, remove the components from their tray.Inspect components and place onto sterile field (Figure 8). Warning Do not use if the sterility has been compromised or the contents have been dropped, damaged, or tampered with. | Figure 8 Susvimo components on sterile field |
 | --- | --- |
-| 2. Inspect Susvimo (ranibizumab injection) Visually inspect the contents of the ranibizumab vial for particulate matter and discoloration.The drug solution should be colorless to pale brown. Caution Do not use if particulate, cloudiness or discoloration are visible. |  |
+| 2. Inspect Susvimo (ranibizumab injection) Visually inspect the contents of the ranibizumab vial for particulate matter and discoloration.The drug solution should be colorless to slightly brownish. Caution Do not use if particulate, cloudiness or discoloration are visible. |  |
 | 3. Patient Preparation Dilate the pupil of the eye.Place the patient in a supine position on the operating table.Implant insertion is a surgical procedure and therefore requires sterile controls (i.e. use of broad-spectrum microbicide solution on eye including lids and lashes and draping) be in place to minimize the risk of ocular infection.Perform the procedure under local anesthesia using either peribulbar, retrobulbar, or sub-Tenon's technique.Place lid speculum. |  |
 
 Infusion Line Placement Procedure
@@ -365,7 +368,7 @@ Provide the patient with the following post-operative instructions:
 - Monitor for symptoms that may require immediate medical attention while the implant is in place.
 - MR Conditional information:
   - –The surgeon should inform the patient that the implant is MR Conditional (as noted on their Susvimo implant card) and if patient needs to undergo an MRI, they should let their doctor know they have Susvimo implanted in their eye.
-  - –After implant insertion, the surgeon should give the patient the implant card (enclosed in this IFU on the last page) with the appropriate information filled in, and should advise the patient to keep the card in a safe place, e.g. his or her wallet, for future reference.
+  - –After implant insertion, the surgeon should give the patient the implant card with the appropriate information filled in, and should advise the patient to keep the card in a safe place, e.g. his or her wallet, for future reference.
     The surgeon should advise the patient that this implant card contains important information related to the Susvimo implant and that the card should be shown to their current and future health care providers.
 
 Explanation of symbols on product or package labeling
@@ -386,17 +389,14 @@ Table 6 Symbols on blister tray and carton
 |  | Lot/Batch number |
 |  | MR Conditional |
 
-| Note - The Implant LOT number can be found on the carton and blister tray of the Susvimo™ Insertion Tool Assembly |
-| --- |
-
 Manufactured by:
 
 Genentech, Inc. A Member of the Roche Group 1 DNA Way South San Francisco, CA 94080-4990 U.S. License No.: 1048
 
-SUSVIMO is a trademark of Genentech, Inc. ©2021 Genentech, Inc. All rights reserved.
+SUSVIMO is a registered trademark of Genentech, Inc. ©2025 Genentech, Inc. All rights reserved.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Approved: 4/2022
+Approved: 9/2025
 
 Susvimo™ (ranibizumab injection) For Susvimo ocular implant use Instructions for Use
 

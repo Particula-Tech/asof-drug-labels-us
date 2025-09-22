@@ -9,6 +9,8 @@ Each SUSVIMO initial fill needle kit (NDC 50242-078-55) contains:
 
 Each SUSVIMO (ranibizumab injection) carton (NDC 50242-078-12) contains one SUSVIMO (ranibizumab injection) 100 mg/mL that is clear to slightly opalescent, colorless to slightly brownish solution in a single-dose glass vial.
 
+Each SUSVIMO initial fill needle carton contains a SUSVIMO initial fill needle (34-gauge needle with a 5 μm integrated filter) with a blue cap.
+
 Each SUSVIMO refill needle carton contains a SUSVIMO refill needle (34-gauge vented needle with a 5 μm integrated filter) with a clear cap.
 
 | Device and Materials Description |  |
@@ -57,7 +59,10 @@ Prior to use, the unopened vial may be kept at 9°C to 30°C (48°F to 86°F) fo
 
 Store the SUSVIMO implant and insertion tool assembly, refill needle and explant tool at room temperature 15°C to 25°C (59°F to 77°F).
 The SUSVIMO implant and insertion tool assembly has been sterilized with ethylene oxide gas.
-The SUSVIMO refill needle and explant tool have been sterilized with electron beam processing.
+The SUSVIMO refill needle and explant tool has been sterilized with electron beam processing.
+
+Store the SUSVIMO initial fill needle at 2°C to 25°C (36°F to 77°F).
+The SUSVIMO initial fill needle has been sterilized with electron beam processing.
 
 ## 16.3 Handling
 
