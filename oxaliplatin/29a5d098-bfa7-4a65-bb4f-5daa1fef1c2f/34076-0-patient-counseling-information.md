@@ -66,12 +66,10 @@ Drug Interactions
 
 Inform patients about the risk of drug interactions and the importance of providing a list of prescription and nonprescription drugs to their healthcare provider [see Drug Interactions (7)].
 
-SAGENT®
+sagent®
 
-Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) By Jiangsu Hengrui Pharmaceuticals Co., Ltd. Lianyungang, Jiangsu 222047, China
+Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60173 (USA) Made in China
 
-©2023 Sagent Pharmaceuticals
+©2025 Sagent Pharmaceuticals
 
-Revised: August 2023
-
-SAGENT Pharmaceuticals®
+Revised: May 2025
