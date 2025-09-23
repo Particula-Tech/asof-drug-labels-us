@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA216099"
+  ],
+  "inn": "dasatinib",
+  "labeler": "Cycle Pharmaceuticals Ltd",
+  "package_ndcs": [
+    "70709-151-20",
+    "70709-152-50",
+    "70709-153-70",
+    "70709-154-80",
+    "70709-155-10",
+    "70709-156-14"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "dasatinib",
+      "name": "PHYRAGO"
+    }
+  ],
+  "setid": "60976d1e-c415-417f-8168-4e07999a7281",
+  "source": "dailymed"
+}
