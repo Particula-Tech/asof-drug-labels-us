@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA209184"
+  ],
+  "inn": "levodopa",
+  "labeler": "Merz Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "0259-6142-01",
+    "0259-6142-16",
+    "0259-6142-32",
+    "0259-6142-60"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "levodopa",
+      "name": "Inbrija"
+    }
+  ],
+  "setid": "077c0f39-a3a2-4b2b-a184-09131889dcfb",
+  "source": "dailymed"
+}
