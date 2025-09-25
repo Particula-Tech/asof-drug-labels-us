@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA761467"
+  ],
+  "inn": "pembrolizumab",
+  "labeler": "Merck Sharp & Dohme LLC",
+  "package_ndcs": [
+    "0006-3083-01",
+    "0006-3083-99",
+    "0006-5083-01",
+    "0006-5083-99"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "pembrolizumab and berahyaluronidase alfa-pmph",
+      "name": "KEYTRUDA QLEX"
+    }
+  ],
+  "setid": "097d166f-b73b-41d3-9b37-7653cd2a0c41",
+  "source": "dailymed"
+}
