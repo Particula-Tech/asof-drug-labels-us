@@ -10,8 +10,8 @@ Dextromethorphan in toxic doses will cause drowsiness, ataxia, nystagmus, opisth
 Toxic Doses
 
 Data suggest that individuals may respond in an unexpected manner to apparently small amounts of a particular drug.
-A 2½-year-old child survived the ingestion of 21 mg/kg of dextromethorphan exhibiting only ataxia, drowsiness, and fever, but seizures have been reported in 2 children following the ingestion of 13 mg/kg to 17 mg/kg.
-Another 2½-year-old child survived a dose of 300 mg to 900 mg of brompheniramine.
+A 2½-year-old child survived the ingestion of 21 mg/kg of dextromethorphan exhibiting only ataxia, drowsiness, and fever, but seizures have been reported in 2 children following the ingestion of 13-17 mg/kg.
+Another 2½-year-old child survived a dose of 300-900 mg of brompheniramine.
 The toxic dose of pseudoephedrine should be less than that of ephedrine, which is estimated to be 50 mg/kg.
 
 Treatment

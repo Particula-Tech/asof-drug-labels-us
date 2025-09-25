@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide Syrup is a clear, light pink syrup with a butterscotch flavor.
+Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide Oral Syrup is a clear, light pink syrup with a butterscotch flavor.
 
 Each 5 mL (1 teaspoonful) contains:
 

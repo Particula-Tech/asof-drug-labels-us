@@ -1,6 +1,6 @@
 # ADVERSE REACTIONS
 
-The most frequent adverse reactions to Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide Syrup are: sedation; dryness of mouth, nose and throat; thickening of bronchial secretions; dizziness.
+The most frequent adverse reactions to Brompheniramine Maleate, Pseudoephedrine Hydrochloride and Dextromethorphan Hydrobromide Oral Syrup are: sedation; dryness of mouth, nose and throat; thickening of bronchial secretions; dizziness.
 
 Other adverse reactions may include:
 
