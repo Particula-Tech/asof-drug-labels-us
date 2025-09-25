@@ -61,12 +61,12 @@ Treatment with TRELEGY ELLIPTA statistically significantly reduced the on-treatm
 Table 5.
 Moderate and Severe Chronic Obstructive Pulmonary Disease Exacerbations (Trial 3)a
 
-| Treatment | n | Mean Annual Rate(exacerbations/y) | Rate Ratio vs. Comparator(95% CI) | % Reduction in Exacerbation Rate(95% CI) | P Value |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| TRELEGY ELLIPTA | 4,145 | 0.91 |  |  |  |  |  |  |  |
-| FF/VI | 4,133 | 1.07 | 0.85(0.80, 0.90) | 15(10, 20) | P<0.001 |  |  |  |  |
-| UMEC/VI | 2,069 | 1.21 | 0.75(0.70, 0.81) | 25(19, 30) | P<0.001 |  |  |  |  |
-| FF/VI = Fluticasone furoate/vilanterol 100/25 mcg, UMEC/VI = Umeclidinium/vilanterol 62.5/25 mcg. a On-treatment analyses excluded exacerbation data collected after discontinuation of study treatment. |  |  |  |  |  |  |  |  |  |
+| Treatment | n | Mean Annual Rate(exacerbations/y) | Rate Ratio vs. Comparator(95% CI) | % Reduction in Exacerbation Rate(95% CI) | P Value |
+| --- | --- | --- | --- | --- | --- |
+| TRELEGY ELLIPTA | 4,145 | 0.91 |  |  |  |
+| FF/VI | 4,133 | 1.07 | 0.85(0.80, 0.90) | 15(10, 20) | P<0.001 |
+| UMEC/VI | 2,069 | 1.21 | 0.75(0.70, 0.81) | 25(19, 30) | P<0.001 |
+| FF/VI = Fluticasone furoate/vilanterol 100/25 mcg, UMEC/VI = Umeclidinium/vilanterol 62.5/25 mcg. a On-treatment analyses excluded exacerbation data collected after discontinuation of study treatment. |  |  |  |  |  |
 
 Treatment with TRELEGY ELLIPTA statistically significantly decreased the risk of a moderate/severe COPD exacerbation as measured by time to first exacerbation when compared with fluticasone furoate/vilanterol (14.8%; 95% CI: 9.3, 19.9; P<0.001) and umeclidinium/vilanterol (16.0%; 95% CI: 9.4, 22.1; P<0.001).
 

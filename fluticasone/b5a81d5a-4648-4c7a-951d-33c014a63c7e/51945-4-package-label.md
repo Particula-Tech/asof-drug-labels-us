@@ -22,11 +22,10 @@ GSK
 
 Made in UK
 
-©2023 GSK group of companies or its licensor.
+©2025 GSK group of companies or its licensor.
 
-1. 62000000086001 Rev.
-   2/23
-2. 
+- 62000000099742 Rev.
+  4/25
 
 PRINCIPAL DISPLAY PANEL
 
@@ -52,8 +51,7 @@ GSK
 
 Made in UK
 
-©2023 GSK group of companies or its licensor.
+©2025 GSK group of companies or its licensor.
 
-1. 62000000085952 Rev.
-   2/23
-2. 
+- 62000000099735 Rev.
+  4/25
