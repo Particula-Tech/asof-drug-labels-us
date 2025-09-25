@@ -28,4 +28,6 @@ Microsponge is a registered trademark of AMCOL International Corporation.
 
 All other product/brand names and/or logos are trademarks of the respective owners.
 
-© 2023 Bausch Health Companies Inc. or its affiliates 9515304
+© 2025 Bausch Health Companies Inc. or its affiliates
+
+9515305

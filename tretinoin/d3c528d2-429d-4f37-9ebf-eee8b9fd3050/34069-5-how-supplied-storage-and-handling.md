@@ -1,8 +1,8 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-## 16.1 How Supplied
+How Supplied
 
-Tretinoin Gel Microsphere is opaque and white to very pale yellow in color.
+Tretinoin Gel Microsphereis opaque and white to very pale yellow in color.
 
 Tretinoin Gel Microsphere, 0.1%, is supplied in
 
@@ -24,7 +24,7 @@ Tretinoin Gel Microsphere, 0.04%, is supplied in
 
 50 gram pump (NDC 68682-514-95).
 
-## 16.2 Storage Conditions
+Storage Conditions
 
 Store at 20° to 25°C (68° to 77°F); excursions permitted from 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
 

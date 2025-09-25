@@ -1,7 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
 Tretinoin Gel Microsphere is a white to very pale yellow opaque gel.
-Tretinoin Gel Microsphereis available in three strengths: 0.1%, 0.08% and 0.04%.
+Tretinoin Gel Microsphere is available in three strengths: 0.1%, 0.08% and 0.04%.
 
 Each gram of Tretinoin Gel Microsphere, 0.1%, contains 1 mg of tretinoin.
 
