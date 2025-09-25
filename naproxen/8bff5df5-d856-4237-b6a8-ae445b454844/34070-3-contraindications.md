@@ -1,8 +1,8 @@
-# 4 CONTRAINDICATIONS
+# CONTRAINDICATIONS
 
-NAPROSYN Tablets, EC-NAPROSYN, and ANAPROX DS are contraindicated in the following patients:
+NAPROSYN, EC-NAPROSYN, ANAPROX, ANAPROX DS and NAPROSYN Suspension are contraindicated in patients with known hypersensitivity to naproxen and naproxen sodium.
 
-- Known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to naproxen or any components of the drug product [see Warnings and Precautions (5.7, 5.9)]
-- History of asthma, urticaria, or other allergic-type reactions after taking aspirin or other NSAIDs.
-  Severe, sometimes fatal, anaphylactic reactions to NSAIDs have been reported in such patients [see Warnings and Precautions (5.7, 5.8)]
-- In the setting of coronary artery bypass graft (CABG) surgery [see Warnings and Precautions (5.1)]
+NAPROSYN, EC-NAPROSYN, ANAPROX, ANAPROX DS and NAPROSYN Suspension should not be given to patients who have experienced asthma, urticaria, or allergic-type reactions after taking aspirin or other NSAIDs.
+Severe, rarely fatal, anaphylactic-like reactions to NSAIDs have been reported in such patients (see WARNINGS: Anaphylactoid Reactions and PRECAUTIONS: Preexisting Asthma).
+
+NAPROSYN, EC-NAPROSYN, ANAPROX, ANAPROX DS and NAPROSYN Suspension are contraindicated for the treatment of peri-operative pain in the setting of coronary artery bypass graft (CABG) surgery (see WARNINGS).

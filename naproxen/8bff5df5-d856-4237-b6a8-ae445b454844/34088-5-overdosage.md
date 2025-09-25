@@ -1,15 +1,20 @@
-# 10 OVERDOSAGE
+# OVERDOSAGE
 
-Symptoms following acute NSAID overdosages have been typically limited to lethargy, drowsiness, nausea, vomiting, and epigastric pain, which have been generally reversible with supportive care.
-Gastrointestinal bleeding has occurred.
-Hypertension, acute renal failure, respiratory depression, and coma have occurred, but were rare [see Warnings and Precautions (5.1, 5.2)].Because naproxen sodium may be rapidly absorbed, high and early blood levels should be anticipated.
+## Symptoms and Signs
 
+Significant naproxen overdosage may be characterized by lethargy, dizziness, drowsiness, epigastric pain, abdominal discomfort, heartburn, indigestion, nausea, transient alterations in liver function, hypoprothrombinemia, renal dysfunction, metabolic acidosis, apnea, disorientation or vomiting.
+Gastrointestinal bleeding can occur.
+Hypertension, acute renal failure, respiratory depression, and coma may occur, but are rare.
+Anaphylactoid reactions have been reported with therapeutic ingestion of NSAIDs, and may occur following an overdose.
+Because naproxen sodium may be rapidly absorbed, high and early blood levels should be anticipated.
 A few patients have experienced convulsions, but it is not clear whether or not these were drug-related.
-It is not known what dose of the drug would be life threatening [see Warnings and Precautions (5.1, 5.2, 5.4, 5.6)].
+It is not known what dose of the drug would be life threatening.
+The oral LD 50 of the drug is 543 mg/kg in rats, 1234 mg/kg in mice, 4110 mg/kg in hamsters, and greater than 1000 mg/kg in dogs.
 
-Manage patients with symptomatic and supportive care following an NSAID overdosage.
+## Treatment
+
+Patients should be managed by symptomatic and supportive care following a NSAID overdose.
 There are no specific antidotes.
-Consider emesis and/or activated charcoal (60 to 100 grams in adults, 1 to 2 grams per kg of body weight in pediatric patients) and/or osmotic cathartic in symptomatic patients seen within four hours of ingestion or in patients with a large overdosage (5 to 10 times the recommended dosage).
-Forced diuresis, alkalinization of urine, hemodialysis, or hemoperfusion may not be useful due to high protein binding.
-
-For additional information about overdosage treatment contact a poison control center (1-800-222-1222).
+Hemodialysis does not decrease the plasma concentration of naproxen because of the high degree of its protein binding.
+Emesis and/or activated charcoal (60 to 100 g in adults, 1 to 2 g/kg in children) and/or osmotic cathartic may be indicated in patients seen within 4 hours of ingestion with symptoms or following a large overdose.
+Forced diuresis, alkalinization of urine or hemoperfusion may not be useful due to high protein binding.

@@ -1,20 +1,10 @@
-# PRINCIPAL DISPLAY PANEL - 500 mg Tablet Bottle Carton
+# PRINCIPAL DISPLAY PANEL
 
-NDC 69437-316-01
+NDC 69437-316-01 Naprosyn (naproxen tablets) 500 mg 100 Tablets Rx Only
 
-Naprosyn ® (naproxen tablets)
+# PRINCIPAL DISPLAY PANEL
 
-500 mg
-
-Each tablet contains 500 mg naproxen.
-
-Rx only
-
-PHARMACIST: DISPENSE THE ACCOMPANYING MEDICATION GUIDE TO EACH PATIENT.
-
-100 tablets
-
-CANTON LABORATORIES, LLC.
+NDC 69437-028-28 Naprosyn (naproxen oral suspension) 125 mg/ 5 mL Rx Only
 
 # PRINCIPAL DISPLAY PANEL
 
