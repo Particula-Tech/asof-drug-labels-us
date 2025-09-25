@@ -1,9 +1,9 @@
 # DESCRIPTION
 
-Doxycycline Hyclate Capsules, USP are an antibacterial drug synthetically derived from oxytetracycline.
+Doxycycline Hyclate Capsules, USP is an antibacterial drug synthetically derived from oxytetracycline.
 The structural formula of doxycycline hyclate is:
 
-with a molecular formula of (C22H24N2O8•HCL)2•C2H6O•H2Oand a molecular weight of 1025.88.
+with a molecular formula of (C22H24N2O8•HCL)2•C2H6O•H2O and a molecular weight of 1025.88.
 
 The chemical designation for doxycycline is 2-Naphthacenecarboxamide, 4-(dimethylamino)-1, 4, 4a, 5, 5a, 6, -11, 12a-octahydro-3,5,10, 12, 12a-pentahydroxy-6-methyl-1, 11-dioxo-monohydrochloride, compound with ethanol(2:1), monohydrate, [4s-(4α, 4aα, 5α, 5aα, 6α, 12aα)].
 

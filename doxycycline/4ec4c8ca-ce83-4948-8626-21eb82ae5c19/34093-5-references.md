@@ -18,4 +18,4 @@ Box 182400 Amman, 11118 - Jordan
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-2INDOXY-E Revised April 2025
+2INDOXY-E Revised August 2025

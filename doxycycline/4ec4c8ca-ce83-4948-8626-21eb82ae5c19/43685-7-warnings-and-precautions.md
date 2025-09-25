@@ -116,7 +116,7 @@ Absorption of tetracyclines is impaired by antacids containing aluminum, calcium
 
 Absorption of tetracyclines is impaired by bismuth subsalicylate.
 
-Barbiturates, carbamazepine, and phenytoin decrease the half-life of doxycycline.
+Barbiturates, carbamazepine, phenytoin, and rifampin shorten the half-life of doxycycline, thereby lowering doxycycline concentration in the body.
 
 Concurrent use of tetracycline may render oral contraceptives less effective.
 
@@ -148,7 +148,7 @@ This association was not seen when the analysis was confined to maternal treatme
 A small prospective study of 81 pregnancies describes 43 pregnant women treated for 10 days with doxycycline during early first trimester.
 All mothers reported their exposed infants were normal at 1 year of age.3
 
-## Nonteratogenic Effects
+Nonteratogenic Effects
 
 (See WARNINGS.)
 
@@ -163,4 +163,4 @@ Short-term use by lactating women is not necessarily contraindicated; however, t
 
 ## Pediatric Use
 
-Because of the effects of drugs of the tetracycline-class on tooth development and growth, use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies (See WARNINGS and DOSAGE AND ADMINISTRATION).
+Because of the effects of drugs of the tetracycline class on tooth development and growth, use doxycycline in pediatric patients 8 years of age or less only when the potential benefits are expected to outweigh the risks in severe or life-threatening conditions (e.g., anthrax, Rocky Mountain spotted fever), particularly when there are no alternative therapies (See WARNINGS and DOSAGE AND ADMINISTRATION).
