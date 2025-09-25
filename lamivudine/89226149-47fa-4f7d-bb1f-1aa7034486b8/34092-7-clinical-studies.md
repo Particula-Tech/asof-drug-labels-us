@@ -39,14 +39,14 @@ a Roche AMPLICOR HIV-1 MONITOR. b Responders at each visit are subjects who had 
 Table 10.
 Outcomes of Randomized Treatment through 48 Weeks (Intent-to-Treat)
 
-| Outcome | EPIVIR 300 mg Once Dailyplus RETROVIR plus Efavirenz(n = 278) | EPIVIR 150 mg Twice Dailyplus RETROVIR plus Efavirenz(n = 276) |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Respondera | 67% | 65% |  |  |  |  |
-| Virologic failureb | 8% | 8% |  |  |  |  |
-| Discontinued due to clinical progression | <1% | 0% |  |  |  |  |
-| Discontinued due to adverse events | 6% | 12% |  |  |  |  |
-| Discontinued due to other reasonsc | 18% | 14% |  |  |  |  |
-| a Achieved confirmed plasma HIV-1 RNA less than 400 copies per mL and maintained through 48 weeks. b Achieved suppression but rebounded by Week 48, discontinued due to virologic failure, insufficient viral response according to the investigator, or never suppressed through Week 48. c Includes consent withdrawn, lost to follow-up, protocol violation, data outside the trial-defined schedule, and randomized but never initiated treatment. |  |  |  |  |  |  |
+| Outcome | EPIVIR 300 mg Once Dailyplus RETROVIR plus Efavirenz(n = 278) | EPIVIR 150 mg Twice Dailyplus RETROVIR plus Efavirenz(n = 276) |
+| --- | --- | --- |
+| Respondera | 67% | 65% |
+| Virologic failureb | 8% | 8% |
+| Discontinued due to clinical progression | <1% | 0% |
+| Discontinued due to adverse events | 6% | 12% |
+| Discontinued due to other reasonsc | 18% | 14% |
+| a Achieved confirmed plasma HIV-1 RNA less than 400 copies per mL and maintained through 48 weeks. b Achieved suppression but rebounded by Week 48, discontinued due to virologic failure, insufficient viral response according to the investigator, or never suppressed through Week 48. c Includes consent withdrawn, lost to follow-up, protocol violation, data outside the trial-defined schedule, and randomized but never initiated treatment. |  |  |
 
 The proportions of subjects with HIV-1 RNA less than 50 copies per mL (via Roche Ultrasensitive assay) through Week 48 were 61% for subjects receiving EPIVIR 300 mg once daily and 63% for subjects receiving EPIVIR 150 mg twice daily.
 Median increases in CD4+ cell counts were 144 cells per mm3 at Week 48 in subjects receiving EPIVIR 300 mg once daily and 146 cells per mm3 for subjects receiving EPIVIR 150 mg twice daily.
@@ -92,15 +92,15 @@ The differences between virologic responses in the two treatment arms were compa
 Table 12.
 Virologic Outcome of Randomized Treatment at Week 96a (ARROW Randomization 3)
 
-| Outcome | EPIVIR plus Abacavir Twice-Daily Dosing(n = 333) | EPIVIR plus Abacavir Once-Daily Dosing(n = 336) |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| HIV-1 RNA <80 copies/mLb | 70% | 67% |  |  |  |
-| HIV-1 RNA ≥80 copies/mLc | 28% | 31% |  |  |  |
-| No virologic data |  |  |  |  |  |
-| Discontinued due to adverse event or death | 1% | <1% |  |  |  |
-| Discontinued study for other reasonsd | 0% | <1% |  |  |  |
-| Missing data during window but on study | 1% | 1% |  |  |  |
-| a Analyses were based on the last observed viral load data within the Week 96 window. b Predicted difference (95% CI) of response rate is -4.5% (-11% to 2%) at Week 96. c Includes subjects who discontinued due to lack or loss of efficacy or for reasons other than an adverse event or death and had a viral load value of greater than or equal to 80 copies per mL, or subjects who had a switch in background regimen that was not permitted by the protocol. d Other includes reasons such as withdrew consent, loss to follow-up, etc. and the last available HIV-1 RNA less than 80 copies per mL (or missing). |  |  |  |  |  |
+| Outcome | EPIVIR plus Abacavir Twice-Daily Dosing(n = 333) | EPIVIR plus Abacavir Once-Daily Dosing(n = 336) |
+| --- | --- | --- |
+| HIV-1 RNA <80 copies/mLb | 70% | 67% |
+| HIV-1 RNA ≥80 copies/mLc | 28% | 31% |
+| No virologic data |  |  |
+| Discontinued due to adverse event or death | 1% | <1% |
+| Discontinued study for other reasonsd | 0% | <1% |
+| Missing data during window but on study | 1% | 1% |
+| a Analyses were based on the last observed viral load data within the Week 96 window. b Predicted difference (95% CI) of response rate is -4.5% (-11% to 2%) at Week 96. c Includes subjects who discontinued due to lack or loss of efficacy or for reasons other than an adverse event or death and had a viral load value of greater than or equal to 80 copies per mL, or subjects who had a switch in background regimen that was not permitted by the protocol. d Other includes reasons such as withdrew consent, loss to follow-up, etc. and the last available HIV-1 RNA less than 80 copies per mL (or missing). |  |  |
 
 Analyses by formulation demonstrated the proportion of subjects with HIV-1 RNA of less than 80 copies per mL at randomization and Week 96 was higher in subjects who had received tablet formulations of EPIVIR and abacavir (75% [458/610] and 72% [434/601]) than in those who had received solution formulation(s) (with EPIVIR solution given at weight band-based doses approximating 8 mg per kg per day) at any time (52% [29/56] and 54% [30/56]), respectively [see Warnings and Precautions (5.5)].
 These differences were observed in each different age group evaluated.

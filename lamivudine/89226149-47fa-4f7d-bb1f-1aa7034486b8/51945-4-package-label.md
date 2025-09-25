@@ -34,9 +34,8 @@ Trademarks are owned by or licensed to the ViiV Healthcare group of companies.
 
 ©2024 ViiV Healthcare group of companies or its licensor.
 
-1. A095896 (62000000095896) Rev.
-   09/24
-2. 
+- A095896 (62000000095896) Rev.
+  09/24
 
 PRINCIPAL DISPLAY PANEL
 
@@ -74,9 +73,8 @@ Trademarks are owned by or licensed to the ViiV Healthcare group of companies.
 
 ©2024 ViiV Healthcare group of companies or its licensor.
 
-1. A095897 (62000000095897) Rev.
-   09/24
-2. 
+- A095897 (62000000095897) Rev.
+  09/24
 
 PRINCIPAL DISPLAY PANEL
 
@@ -103,7 +101,5 @@ Made in India and Singapore
 Do not accept if security seal is missing or broken.
 
 - ©2024 ViiV Healthcare group of companies or its licensor.
-
-1. 30000000001587 Rev.
-   9/24
-2. 
+- 30000000001587 Rev.
+  9/24

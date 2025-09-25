@@ -99,15 +99,15 @@ The mean Cmax was approximately 80% to 90% higher with lamivudine once-daily dos
 Table 8.
 Pharmacokinetic Parameters (Geometric Mean [95% CI]) after Repeat Dosing of Lamivudine in 3 Pediatric Trials
 
-|  | Trial(Number of Subjects) |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | ARROW PK(n = 35) |  | PENTA-13(n = 19) |  | PENTA-15(n = 17)a |  |  |  |  |  |
-| Age Range | 3-12 years |  | 2-12 years |  | 3-36 months |  |  |  |  |  |
-| Formulation | Tablet |  | Solutionb and Tabletc |  | Solutionb |  |  |  |  |  |
-| Parameter | Once Daily | Twice Daily | Once Daily | Twice Daily | Once Daily | Twice Daily |  |  |  |  |
-| Cmax(mcg/mL) | 3.17 (2.76, 3.64) | 1.80 (1.59, 2.04) | 2.09 (1.80, 2.42) | 1.11 (0.96, 1.29) | 1.87 (1.65, 2.13) | 1.05 (0.88, 1.26) |  |  |  |  |
-| AUC(0-24)(mcg•h/mL) | 13.0 (11.4, 14.9) | 12.0 (10.7, 13.4) | 9.80 (8.64, 11.1) | 8.88 (7.67, 10.3) | 8.66 (7.46, 10.1) | 9.48 (7.89, 11.4) |  |  |  |  |
-| a n = 16 for PENTA-15 Cmax. b Solution was dosed at 8 mg per kg per day. c Five subjects in PENTA-13 received lamivudine tablets. |  |  |  |  |  |  |  |  |  |  |
+|  | Trial(Number of Subjects) |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | ARROW PK(n = 35) |  | PENTA-13(n = 19) |  | PENTA-15(n = 17)a |  |
+| Age Range | 3-12 years |  | 2-12 years |  | 3-36 months |  |
+| Formulation | Tablet |  | Solutionb and Tabletc |  | Solutionb |  |
+| Parameter | Once Daily | Twice Daily | Once Daily | Twice Daily | Once Daily | Twice Daily |
+| Cmax(mcg/mL) | 3.17 (2.76, 3.64) | 1.80 (1.59, 2.04) | 2.09 (1.80, 2.42) | 1.11 (0.96, 1.29) | 1.87 (1.65, 2.13) | 1.05 (0.88, 1.26) |
+| AUC(0-24)(mcg•h/mL) | 13.0 (11.4, 14.9) | 12.0 (10.7, 13.4) | 9.80 (8.64, 11.1) | 8.88 (7.67, 10.3) | 8.66 (7.46, 10.1) | 9.48 (7.89, 11.4) |
+| a n = 16 for PENTA-15 Cmax. b Solution was dosed at 8 mg per kg per day. c Five subjects in PENTA-13 received lamivudine tablets. |  |  |  |  |  |  |
 
 Distribution of lamivudine into cerebrospinal fluid (CSF) was assessed in 38 pediatric subjects after multiple oral dosing with lamivudine.
 CSF samples were collected between 2 and 4 hours postdose.
