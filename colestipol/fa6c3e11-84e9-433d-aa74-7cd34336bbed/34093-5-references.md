@@ -54,34 +54,18 @@ J. Med.
 Kane JP, et al. Regression of Coronary Atherosclerosis During Treatment of Familial Hypercholesterolemia with Combined Drug Regimens.
 JAMA 1990; 264:3007-3012.
 
-Made by:
+Made by: Amneal Pharmaceuticals Pvt.
+Ltd. Ahmedabad 382220, INDIA
 
-Amneal Pharmaceuticals Pvt.
-Ltd.
-
-Ahmedabad 382220, INDIA
-
-Coated and Packed by:
-
-Amneal Pharmaceuticals Pvt.
-Ltd.
-
-Ahmedabad 382220, INDIA
+Coated and Packed by: Amneal Pharmaceuticals Pvt.
+Ltd. Ahmedabad 382220, INDIA
 
 or
 
 Amneal Pharmaceuticals Pvt.
-Ltd.
+Ltd. Oral Solid Dosage Unit Ahmedabad 382213, INDIA
 
-Oral Solid Dosage Unit
-
-Ahmedabad 382213, INDIA
-
-Distributed by:
-
-Amneal Pharmaceuticals LLC
-
-Bridgewater, NJ 08807
+Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-12-2024-03
+08-2025-04
