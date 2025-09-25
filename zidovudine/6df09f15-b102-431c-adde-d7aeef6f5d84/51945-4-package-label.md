@@ -72,8 +72,8 @@ Trademarks are owned by or licensed to the ViiV Healthcare group of companies.
 
 ©2023 ViiV Healthcare group of companies or its licensor.
 
-1. 30000000001038 Rev.
-   7/23
+- 30000000001038 Rev.
+  7/23
 
 PRINCIPAL DISPLAY PANEL
 
@@ -87,13 +87,11 @@ INJECTION
 
 200 mg/20 mL (10 mg/mL)
 
-5 Single-Use Vials
-
-20 mL each
-
-10 mg/mL
-
 MUST BE DILUTED PRIOR TO INTRAVENOUS INFUSION.
+
+Five x 20 mL Single-Dose Vials
+
+Discard Unused Portion
 
 Rx only
 
@@ -101,9 +99,9 @@ Sterile
 
 Made in India
 
-©2023 ViiV Healthcare group of companies or its licensor.
+©2025 ViiV Healthcare group of companies or its licensor.
 
 Trademark is owned by or licensed to the ViiV Healthcare group of companies.
 
-1. 62000000089608 Rev.
-   8/23
+- 62000000099203 Rev.
+  03/25

@@ -41,14 +41,14 @@ Selected laboratory abnormalities observed during a clinical trial of monotherap
 Table 4.
 Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Subjects with Asymptomatic HIV-1 Infection (ACTG 019)
 
-| Test(Abnormal Level) | RETROVIR 500 mg/day(n = 453) | Placebo(n = 428) |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Anemia (Hgb <8 g/dL) | 1% | <1% |  |  |  |
-| Granulocytopenia (<750 cells/mm3) | 2% | 2% |  |  |  |
-| Thrombocytopenia (platelets <50,000/mm3) | 0% | <1% |  |  |  |
-| ALT (>5 x ULN) | 3% | 3% |  |  |  |
-| AST (>5 x ULN) | 1% | 2% |  |  |  |
-| ULN = Upper limit of normal. |  |  |  |  |  |
+| Test(Abnormal Level) | RETROVIR 500 mg/day(n = 453) | Placebo(n = 428) |
+| --- | --- | --- |
+| Anemia (Hgb <8 g/dL) | 1% | <1% |
+| Granulocytopenia (<750 cells/mm3) | 2% | 2% |
+| Thrombocytopenia (platelets <50,000/mm3) | 0% | <1% |
+| ALT (>5 x ULN) | 3% | 3% |
+| AST (>5 x ULN) | 1% | 2% |
+| ULN = Upper limit of normal. |  |  |
 
 The adverse reactions reported during IV administration of RETROVIR injection are similar to those reported with oral administration; neutropenia and anemia were reported most frequently.
 Long-term IV administration beyond 2 to 4 weeks has not been studied in adults and may enhance hematologic adverse reactions.
@@ -63,42 +63,42 @@ Trial ACTG 300: Selected clinical adverse reactions and physical findings with a
 Table 5.
 Selected Clinical Adverse Reactions and Physical Findings (Greater than or Equal to 5% Frequency) in Pediatric Subjects in Trial ACTG 300
 
-| Adverse Reaction | EPIVIR plus RETROVIR(n = 236) | Didanosine(n = 235) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Body as a whole |  |  |  |  |  |  |  |  |
-| Fever | 25% | 32% |  |  |  |  |  |  |
-| Digestive |  |  |  |  |  |  |  |  |
-| Hepatomegaly | 11% | 11% |  |  |  |  |  |  |
-| Nausea & vomiting | 8% | 7% |  |  |  |  |  |  |
-| Diarrhea | 8% | 6% |  |  |  |  |  |  |
-| Stomatitis | 6% | 12% |  |  |  |  |  |  |
-| Splenomegaly | 5% | 8% |  |  |  |  |  |  |
-| Respiratory |  |  |  |  |  |  |  |  |
-| Cough | 15% | 18% |  |  |  |  |  |  |
-| Abnormal breath sounds/wheezing | 7% | 9% |  |  |  |  |  |  |
-| Ear, Nose, and Throat |  |  |  |  |  |  |  |  |
-| Signs or symptoms of earsa | 7% | 6% |  |  |  |  |  |  |
-| Nasal discharge or congestion | 8% | 11% |  |  |  |  |  |  |
-| Other |  |  |  |  |  |  |  |  |
-| Skin rashes | 12% | 14% |  |  |  |  |  |  |
-| Lymphadenopathy | 9% | 11% |  |  |  |  |  |  |
-| a Includes pain, discharge, erythema, or swelling of an ear. |  |  |  |  |  |  |  |  |
+| Adverse Reaction | EPIVIR plus RETROVIR(n = 236) | Didanosine(n = 235) |
+| --- | --- | --- |
+| Body as a whole |  |  |
+| Fever | 25% | 32% |
+| Digestive |  |  |
+| Hepatomegaly | 11% | 11% |
+| Nausea & vomiting | 8% | 7% |
+| Diarrhea | 8% | 6% |
+| Stomatitis | 6% | 12% |
+| Splenomegaly | 5% | 8% |
+| Respiratory |  |  |
+| Cough | 15% | 18% |
+| Abnormal breath sounds/wheezing | 7% | 9% |
+| Ear, Nose, and Throat |  |  |
+| Signs or symptoms of earsa | 7% | 6% |
+| Nasal discharge or congestion | 8% | 11% |
+| Other |  |  |
+| Skin rashes | 12% | 14% |
+| Lymphadenopathy | 9% | 11% |
+| a Includes pain, discharge, erythema, or swelling of an ear. |  |  |
 
 Selected laboratory abnormalities experienced by therapy-naive (less than or equal to 56 days of antiretroviral therapy) pediatric subjects are listed in Table 6.
 
 Table 6.
 Frequencies of Selected (Grade 3/4) Laboratory Abnormalities in Pediatric Subjects in Trial ACTG 300
 
-| Test(Abnormal Level) | EPIVIR plus RETROVIR | Didanosine |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Neutropenia (ANC <400 cells/mm3) | 8% | 3% |  |  |  |  |  |  |  |  |  |
-| Anemia (Hgb <7.0 g/dL) | 4% | 2% |  |  |  |  |  |  |  |  |  |
-| Thrombocytopenia (platelets <50,000/mm3) | 1% | 3% |  |  |  |  |  |  |  |  |  |
-| ALT (>10 x ULN) | 1% | 3% |  |  |  |  |  |  |  |  |  |
-| AST (>10 x ULN) | 2% | 4% |  |  |  |  |  |  |  |  |  |
-| Lipase (>2.5 x ULN) | 3% | 3% |  |  |  |  |  |  |  |  |  |
-| Total amylase (>2.5 x ULN) | 3% | 3% |  |  |  |  |  |  |  |  |  |
-| ULN = Upper limit of normal. ANC = Absolute neutrophil count. |  |  |  |  |  |  |  |  |  |  |  |
+| Test(Abnormal Level) | EPIVIR plus RETROVIR | Didanosine |
+| --- | --- | --- |
+| Neutropenia (ANC <400 cells/mm3) | 8% | 3% |
+| Anemia (Hgb <7.0 g/dL) | 4% | 2% |
+| Thrombocytopenia (platelets <50,000/mm3) | 1% | 3% |
+| ALT (>10 x ULN) | 1% | 3% |
+| AST (>10 x ULN) | 2% | 4% |
+| Lipase (>2.5 x ULN) | 3% | 3% |
+| Total amylase (>2.5 x ULN) | 3% | 3% |
+| ULN = Upper limit of normal. ANC = Absolute neutrophil count. |  |  |
 
 Macrocytosis was reported in the majority of pediatric subjects receiving RETROVIR 180 mg per m2 every 6 hours in open-label trials.
 Additionally, adverse reactions reported at an incidence of less than 6% in these trials were congestive heart failure, decreased reflexes, ECG abnormality, edema, hematuria, left ventricular dilation, nervousness/irritability, and weight loss.

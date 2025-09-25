@@ -56,12 +56,12 @@ No dose adjustment is recommended for patients with CrCl greater than or equal t
 Table 8.
 Zidovudine Pharmacokinetic Parameters in Subjects with Severe Renal Impairmenta
 
-| Parameter | Control Subjects(Normal Renal Function)(n = 6) | Subjects with Renal Impairment(n = 14) |  |  |
-| --- | --- | --- | --- | --- |
-| CrCl (mL/min) | 120 ± 8 | 18 ± 2 |  |  |
-| Zidovudine AUC (ng•h/mL) | 1,400 ± 200 | 3,100 ± 300 |  |  |
-| Zidovudine half-life (h) | 1.0 ± 0.2 | 1.4 ± 0.1 |  |  |
-| a Data are expressed as mean ± standard deviation. |  |  |  |  |
+| Parameter | Control Subjects(Normal Renal Function)(n = 6) | Subjects with Renal Impairment(n = 14) |
+| --- | --- | --- |
+| CrCl (mL/min) | 120 ± 8 | 18 ± 2 |
+| Zidovudine AUC (ng•h/mL) | 1,400 ± 200 | 3,100 ± 300 |
+| Zidovudine half-life (h) | 1.0 ± 0.2 | 1.4 ± 0.1 |
+| a Data are expressed as mean ± standard deviation. |  |  |
 
 Hemodialysis and Peritoneal Dialysis: The pharmacokinetics and tolerance of zidovudine were evaluated in a multiple-dose trial in subjects undergoing hemodialysis (n = 5) or peritoneal dialysis (n = 6) receiving escalating oral doses up to 200 mg 5 times daily for 8 weeks.
 Daily doses of 500 mg or less were well tolerated despite significantly elevated GZDV plasma concentrations.
@@ -90,13 +90,13 @@ For dose recommendations for neonates [see Dosage and Administration (2.3)].
 Table 9.
 Zidovudine Pharmacokinetic Parameters in Pediatric Subjectsa
 
-| Parameter | Birth to 14 Days | Aged 14 Days to 3 Months | Aged 3 Months to 12 Years |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Oral bioavailability (%) | 89 ± 19(n = 15) | 61 ± 19(n = 17) | 65 ± 24(n = 18) |  |  |  |  |  |
-| CSF:plasma ratio | no data | no data | 0.68 [0.03 to 3.25]b(n = 38) |  |  |  |  |  |
-| CL (L/h/kg) | 0.65 ± 0.29(n = 18) | 1.14 ± 0.24(n = 16) | 1.85 ± 0.47(n = 20) |  |  |  |  |  |
-| Elimination half-life (h) | 3.1 ± 1.2(n = 21) | 1.9 ± 0.7(n = 18) | 1.5 ± 0.7(n = 21) |  |  |  |  |  |
-| a Data presented as mean ± standard deviation except where noted. b Median [range]. |  |  |  |  |  |  |  |  |
+| Parameter | Birth to 14 Days | Aged 14 Days to 3 Months | Aged 3 Months to 12 Years |
+| --- | --- | --- | --- |
+| Oral bioavailability (%) | 89 ± 19(n = 15) | 61 ± 19(n = 17) | 65 ± 24(n = 18) |
+| CSF:plasma ratio | no data | no data | 0.68 [0.03 to 3.25]b(n = 38) |
+| CL (L/h/kg) | 0.65 ± 0.29(n = 18) | 1.14 ± 0.24(n = 16) | 1.85 ± 0.47(n = 20) |
+| Elimination half-life (h) | 3.1 ± 1.2(n = 21) | 1.9 ± 0.7(n = 18) | 1.5 ± 0.7(n = 21) |
+| a Data presented as mean ± standard deviation except where noted. b Median [range]. |  |  |  |
 
 Pregnant Women: Zidovudine pharmacokinetics have been studied in a Phase I trial of 8 women during the last trimester of pregnancy.
 Zidovudine pharmacokinetics were similar to those of nonpregnant adults.
@@ -115,21 +115,21 @@ Drug Interaction Studies
 Table 10.
 Effect of Coadministered Drugs on Zidovudine AUCa
 
-| Note: ROUTINE DOSE MODIFICATION OF ZIDOVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Coadministered Drug and Dose | Zidovudine Oral Dose | n | Zidovudine Concentrations |  | Concentration of Coadministered Drug |  |  |  |  |  |  |  |  |  |
-| AUC | Variability |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Atovaquone750 mg every 12 h with food | 200 mg every 8 h | 14 | ↑31% | Range:23% to 78%b | ↔ |  |  |  |  |  |  |  |  |  |
-| Clarithromycin 500 mg twice daily | 100 mg every 4 h x 7 days | 4 | ↓12% | Range: ↓34% to ↑14%b | Not Reported |  |  |  |  |  |  |  |  |  |
-| Fluconazole 400 mg daily | 200 mg every 8 h | 12 | ↑74% | 95% CI: 54% to 98% | Not Reported |  |  |  |  |  |  |  |  |  |
-| Lamivudine300 mg every 12 h | single 200 mg | 12 | ↑13% | 90% CI: 2% to 27% | ↔ |  |  |  |  |  |  |  |  |  |
-| Methadone 30 to 90 mg daily | 200 mg every 4 h | 9 | ↑43% | Range:16% to 64%b | ↔ |  |  |  |  |  |  |  |  |  |
-| Nelfinavir750 mg every 8 h x 7 to 10 days | single 200 mg | 11 | ↓35% | Range:28% to 41%b | ↔ |  |  |  |  |  |  |  |  |  |
-| Probenecid 500 mg every 6 h x 2 days | 2 mg/kg every 8 h x 3 days | 3 | ↑106% | Range:100% to 170%b | Not Assessed |  |  |  |  |  |  |  |  |  |
-| Rifampin600 mg daily x 14 days | 200 mg every 8 h x 14 days | 8 | ↓47% | 90% CI: 41% to 53% | Not Assessed |  |  |  |  |  |  |  |  |  |
-| Ritonavir300 mg every 6 h x 4 days | 200 mg every 8 h x 4 days | 9 | ↓25% | 95% CI: 15% to 34% | ↔ |  |  |  |  |  |  |  |  |  |
-| Valproic acid 250 mg or 500 mg every 8 h x 4 days | 100 mg every 8 h x 4 days | 6 | ↑80% | Range:64% to 130%b | Not Assessed |  |  |  |  |  |  |  |  |  |
-| ↑ = Increase; ↓ = Decrease; ↔ = No significant change; AUC = Area under the concentration versus time curve; CI = Confidence interval. a This table is not all inclusive. b Estimated range of percent difference. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Note: ROUTINE DOSE MODIFICATION OF ZIDOVUDINE IS NOT WARRANTED WITH COADMINISTRATION OF THE FOLLOWING DRUGS. |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Coadministered Drug and Dose | Zidovudine Oral Dose | n | Zidovudine Concentrations |  | Concentration of Coadministered Drug |
+| AUC | Variability |  |  |  |  |
+| Atovaquone750 mg every 12 h with food | 200 mg every 8 h | 14 | ↑31% | Range:23% to 78%b | ↔ |
+| Clarithromycin 500 mg twice daily | 100 mg every 4 h x 7 days | 4 | ↓12% | Range: ↓34% to ↑14%b | Not Reported |
+| Fluconazole 400 mg daily | 200 mg every 8 h | 12 | ↑74% | 95% CI: 54% to 98% | Not Reported |
+| Lamivudine300 mg every 12 h | single 200 mg | 12 | ↑13% | 90% CI: 2% to 27% | ↔ |
+| Methadone 30 to 90 mg daily | 200 mg every 4 h | 9 | ↑43% | Range:16% to 64%b | ↔ |
+| Nelfinavir750 mg every 8 h x 7 to 10 days | single 200 mg | 11 | ↓35% | Range:28% to 41%b | ↔ |
+| Probenecid 500 mg every 6 h x 2 days | 2 mg/kg every 8 h x 3 days | 3 | ↑106% | Range:100% to 170%b | Not Assessed |
+| Rifampin600 mg daily x 14 days | 200 mg every 8 h x 14 days | 8 | ↓47% | 90% CI: 41% to 53% | Not Assessed |
+| Ritonavir300 mg every 6 h x 4 days | 200 mg every 8 h x 4 days | 9 | ↓25% | 95% CI: 15% to 34% | ↔ |
+| Valproic acid 250 mg or 500 mg every 8 h x 4 days | 100 mg every 8 h x 4 days | 6 | ↑80% | Range:64% to 130%b | Not Assessed |
+| ↑ = Increase; ↓ = Decrease; ↔ = No significant change; AUC = Area under the concentration versus time curve; CI = Confidence interval. a This table is not all inclusive. b Estimated range of percent difference. |  |  |  |  |  |
 
 Phenytoin: Phenytoin plasma levels have been reported to be low in some patients receiving RETROVIR, while in one case a high level was documented.
 However, in a pharmacokinetic interaction trial in which 12 HIV-1-positive volunteers received a single 300-mg phenytoin dose alone and during steady-state zidovudine conditions (200 mg every 4 hours), no change in phenytoin kinetics was observed.
