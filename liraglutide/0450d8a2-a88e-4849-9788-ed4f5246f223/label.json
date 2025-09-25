@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA215421"
+  ],
+  "inn": "liraglutide",
+  "labeler": "Lupin Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "70748-346-02",
+    "70748-346-03"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "liraglutide",
+      "name": "Liraglutide"
+    }
+  ],
+  "setid": "0450d8a2-a88e-4849-9788-ed4f5246f223",
+  "source": "dailymed"
+}
