@@ -1,4 +1,4 @@
-I05770920 R09/20
+I05770918 R09/18
 
 Rx ONLY
 
@@ -6,4 +6,4 @@ Rx ONLY
 
 pai Pharmaceutical Associates, Inc. Greenville, SC 29605
 
-R02/19
+R09/18

@@ -1,9 +1,9 @@
 # WARNINGS
 
 A theoretical hazard may exist for patients being treated with lactulose solution who may be required to undergo electrocautery procedures during proctoscopy or colonoscopy.
-Accumulation of H 2 gas in significant concentration in the presence of an electrical spark may result in an explosive reaction.
+Accumulation of H2 gas in significant concentration in the presence of an electrical spark may result in an explosive reaction.
 Although this complication has not been reported with lactulose, patients on lactulose therapy undergoing such procedures should have a thorough bowel cleansing with a non-fermentable solution.
-Insufflation of CO 2 as an additional safeguard may be pursued but is considered to be a redundant measure.
+Insufflation of CO2 as an additional safeguard may be pursued but is considered to be a redundant measure.
 
 # PRECAUTIONS
 
@@ -34,13 +34,9 @@ Administration of lactulose solution in the diet of mice for 18 months in concen
 
 In studies in mice, rats, and rabbits, doses of lactulose solution up to 6 or 12 mL/kg/day produced no deleterious effects in breeding, conception, or parturition.
 
-## Pregnancy
+## Pregnancy:Teratogenic Effects.
 
-### Teratogenic Effects
-
-#### Pregnancy Category B
-
-Reproduction studies have been performed in mice, rats, and rabbits at doses up to 3 or 6 times the usual human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to lactulose.
+Pregnancy Category B: Reproduction studies have been performed in mice, rats, and rabbits at doses up to 3 or 6 times the usual human oral dose and have revealed no evidence of impaired fertility or harm to the fetus due to lactulose.
 There are, however, no adequate and well-controlled studies in pregnant women.
 Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
