@@ -91,4 +91,4 @@ This Medication Guide has been approved by the U.S. Food and Drug Administration
 
 Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
 
-Revised: 09/2019
+Revised: 01/2025
