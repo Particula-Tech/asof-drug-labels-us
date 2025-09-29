@@ -31,7 +31,7 @@ Priapism
 Advise patients, caregivers, and family members of the possibility of painful or prolonged penile erections (priapism).
 Instruct the patient to seek immediate medical attention in the event of priapism [see Warnings and Precautions (5.5)].
 
-Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, including Raynaud’s Phenomenon] (see Warnings and Precautions (5.6)].
+Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, including Raynaud’s Phenomenon] [see Warnings and Precautions (5.6)].
 
 - Instruct patients beginning treatment with methylphenidate hydrochloride extended-release tablets about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 - Instruct patients to report to their healthcare provider any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.
@@ -65,7 +65,7 @@ Alpharetta, GA 30005
 
 www.trigenlab.com
 
-200320-3
+200320-4
 
 Patent numbers:
 

@@ -30,8 +30,7 @@ Table 1: Dosage Recommendations for methylphenidate hydrochloride extended-relea
 
 The recommended starting dosage of methylphenidate hydrochloride extended-release tablets for patients who are currently taking methylphenidate twice daily or three times daily at doses of 10 mg to 60 mg daily is provided in Table 2.
 
-Table 2.
-Recommended Starting Dosage when Converting from Methylphenidate Regimens to methylphenidate hydrochloride extended-release tablets
+Table 2: Recommended Starting Dosage when Converting from Methylphenidate Regimens to methylphenidate hydrochloride extended-release tablets
 
 | Current Methylphenidate Daily Dosage | Recommended Starting Dosage of Methylphenidate hydrochloride extended-release tablets |
 | --- | --- |
