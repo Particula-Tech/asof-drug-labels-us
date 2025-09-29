@@ -25,6 +25,8 @@ Exposure-Response Relationship
 
 In patients with TSC-associated subependymal giant cell astrocytoma (SEGA), the magnitude of the reduction in SEGA volume was correlated with the everolimus trough concentration.
 
+In patients with TSC-associated partial-onset seizures, the magnitude of the reduction in absolute seizure frequency was correlated with the everolimus trough concentration.
+
 Cardiac Electrophysiology
 
 In a randomized, placebo-controlled, cross-over study, 59 healthy subjects were administered a single oral dose of everolimus tablets (20 mg and 50 mg) and placebo.
@@ -77,10 +79,10 @@ Patients with Renal Impairment: No significant influence of creatinine clearance
 Patients with Hepatic Impairment: Compared to normal subjects, there was a 1.8-fold, 3.2-fold, and 3.6-fold increase in AUC for subjects with mild (Child-Pugh class A), moderate (Child-Pugh class B), and severe (Child-Pugh class C) hepatic impairment, respectively.
 In another study, the average AUC of everolimus in subjects with moderate hepatic impairment (Child-Pugh class B) was twice that found in subjects with normal hepatic function [see Dosage and Administration (2.10), Use in Specific Populations (8.6)].
 
-Pediatric Patients: In patients with TSC-associated SEGA, the mean Cmin values normalized to mg/m2 dose in pediatric patients (< 18 years of age) were lower than those observed in adults, suggesting that everolimus clearance adjusted to BSA was higher in pediatric patients as compared to adults.
+Pediatric Patients: In patients with TSC-associated SEGA or TSC-associated partial-onset seizures, the mean Cmin values normalized to mg/m2 dose in pediatric patients (< 18 years of age) were lower than those observed in adults, suggesting that everolimus clearance adjusted to BSA was higher in pediatric patients as compared to adults.
 
 Race or Ethnicity: Based on a cross-study comparison, Japanese patients had on average exposures that were higher than non-Japanese patients receiving the same dose.
-Oral clearance (CL/F) is on average 20% higher in black patients than in white patients.
+Oral clearance (CL/F) is on average 20% higher in Black patients than in White patients.
 
 Drug Interaction Studies
 

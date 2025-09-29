@@ -27,7 +27,11 @@ The recommended dosage of everolimus tablets is 10 mg orally once daily until di
 
 The recommended starting dosage of everolimus tablets/everolimus tablets for oral suspension is 4.5 mg/m2 orally once daily until disease progression or unacceptable toxicity [see Dosage and Administration (2.8)].
 
-## 2.8 Therapeutic Drug Monitoring (TDM) and Dose Titration for Tuberous Sclerosis Complex (TSC) Associated Subependymal Giant Cell Astrocytoma (SEGA)
+## 2.7 Recommended Dosage for Tuberous Sclerosis Complex (TSC)-Associated Partial-Onset Seizures
+
+The recommended starting dosage of everolimus tablets for oral suspension is 5 mg/m2 orally once daily until disease progression or unacceptable toxicity [see Dosage and Administration (2.8)].
+
+## 2.8 Therapeutic Drug Monitoring (TDM) and Dose Titration for Tuberous Sclerosis Complex (TSC)-Associated Subependymal Giant Cell Astrocytoma (SEGA) and TSC-Associated Partial-Onset Seizures
 
 - Monitor everolimus whole blood trough concentrations at time points recommended in Table 1.
 - Titrate the dose to attain trough concentrations of 5 ng/mL to 15 ng/mL.
@@ -87,7 +91,7 @@ Table 3: Recommended Dosage Modifications for Patients With Hepatic Impairment
 | Indication | Dose Modification for Everolimus Tablets/Everolimus Tablets for Oral Suspension |
 | --- | --- |
 | Breast Cancer, NET, RCC, and TSC- Associated Renal Angiomyolipoma | Mild hepatic impairment (Child-Pugh class A) – 7.5 mg orally once daily; decrease the dose to 5 mg orally once daily if a dose of 7.5 mg once daily is not tolerated.Moderate hepatic impairment (Child-Pugh class B) – 5 mg orally once daily; decrease the dose to 2.5 mg orally once daily if a dose of 5 mg once daily is not tolerated.Severe hepatic impairment (Child-Pugh class C) – 2.5 mg orally once daily if the desired benefit outweighs the risk; do not exceed a dose of 2.5 mg once daily. |
-| TSC-Associated SEGA | Severe hepatic impairment (Child-Pugh class C) – 2.5 mg/m2 orally once daily.Adjust dose based on everolimus trough concentrations as recommended [see Dosage and Administration (2.8)]. |
+| TSC-Associated SEGA and TSC-Associated Partial-Onset Seizures | Severe hepatic impairment (Child-Pugh class C) – 2.5 mg/m2 orally once daily.Adjust dose based on everolimus trough concentrations as recommended [see Dosage and Administration (2.8)]. |
 | Abbreviations: NET, Neuroendocrine Tumors; RCC, Renal Cell Carcinoma; SEGA, Subependymal Giant Cell Astrocytoma; TSC, Tuberous Sclerosis Complex. |  |
 
 ## 2.11 Dosage Modifications for P-gp and CYP3A4 Inhibitors
@@ -101,7 +105,7 @@ Table 4: Recommended Dosage Modifications for Concurrent Use of Everolimus Table
 | Indication | Dose Modification for Everolimus Tablets/Everolimus Tablets for Oral Suspension |
 | --- | --- |
 | Breast Cancer, NET, RCC, and TSC-Associated Renal Angiomyolipoma | Reduce dose to 2.5 mg once daily.May increase dose to 5 mg once daily if tolerated.Resume dose administered prior to inhibitor initiation, once the inhibitor is discontinued for 3 days. |
-| TSC-Associated SEGA | Reduce the daily dose by 50%.Change to every other day dosing if the reduced dose is lower than the lowest available strength.Resume dose administered prior to inhibitor initiation, once the inhibitor is discontinued for 3 days.Assess trough concentrations when initiating and discontinuing the inhibitor [see Dosage and Administration (2.8)]. |
+| TSC-Associated SEGA and TSC-Associated Partial-Onset Seizures | Reduce the daily dose by 50%.Change to every other day dosing if the reduced dose is lower than the lowest available strength.Resume dose administered prior to inhibitor initiation, once the inhibitor is discontinued for 3 days.Assess trough concentrations when initiating and discontinuing the inhibitor [see Dosage and Administration (2.8)]. |
 
 ## 2.12 Dosage Modifications for P-gp and CYP3A4 Inducers
 
@@ -113,7 +117,7 @@ Table 5: Recommended Dosage Modifications for Concurrent Use of Everolimus Table
 | Indication | Dose Modification for Everolimus Tablets/Everolimus Tablets for Oral Suspension |
 | --- | --- |
 | Breast Cancer, NET, RCC, and TSC-Associated Renal Angiomyolipoma | Avoid coadministration where alternatives exist.If coadministration cannot be avoided, double the daily dose using increments of 5 mg or less. Multiple increments may be required.Resume the dose administered prior to inducer initiation, once an inducer is discontinued for 5 days. |
-| TSC-Associated SEGA | Double the daily dose using increments of 5 mg or less. Multiple increments may be required.Addition of another strong CYP3A4 inducer in a patient already receiving treatment with a strong CYP3A4 inducer may not require additional dosage modification.Assess trough concentrations when initiating and discontinuing the inducer [see Dosage and Administration (2.8)].Resume the dose administered before starting any inducer, once all inducers are discontinued for 5 days. |
+| TSC-Associated SEGA and TSC-Associated Partial-Onset Seizures | Double the daily dose using increments of 5 mg or less. Multiple increments may be required.Addition of another strong CYP3A4 inducer in a patient already receiving treatment with a strong CYP3A4 inducer may not require additional dosage modification.Assess trough concentrations when initiating and discontinuing the inducer [see Dosage and Administration (2.8)].Resume the dose administered before starting any inducer, once all inducers are discontinued for 5 days. |
 
 ## 2.13 Administration and Preparation
 

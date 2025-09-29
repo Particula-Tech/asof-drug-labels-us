@@ -18,7 +18,7 @@ Animal Data
 In animal reproductive studies, oral administration of everolimus to female rats before mating and through organogenesis induced embryo-fetal toxicities, including increased resorption, pre-implantation and post-implantation loss, decreased numbers of live fetuses, malformation (e.g., sternal cleft), and retarded skeletal development.
 These effects occurred in the absence of maternal toxicities.
 Embryo-fetal toxicities in rats occurred at doses ≥ 0.1 mg/kg (0.6 mg/m2) with resulting exposures of approximately 4% of the human exposure at the recommended dose of everolimus tablets 10 mg orally once daily based on area under the curve (AUC).
-In rabbits, embryo-toxicity evident as an increase in resorptions occurred at an oral dose of 0.8 mg/kg (9.6 mg/m2), approximately 1.6 times the recommended dose of everolimus tablets 10 mg orally once daily or the median dose administered to patients with tuberous sclerosis complex (TSC)-associated subependymal giant cell astrocytoma (SEGA).
+In rabbits, embryo-toxicity evident as an increase in resorptions occurred at an oral dose of 0.8 mg/kg (9.6 mg/m2), approximately 1.6 times the recommended dose of everolimus tablets 10 mg orally once daily or the median dose administered to patients with tuberous sclerosis complex (TSC)-associated subependymal giant cell astrocytoma (SEGA), and 1.3 times the median dose administered to patients with TSC-associated partial-onset seizures based on BSA.
 The effect in rabbits occurred in the presence of maternal toxicities.
 
 In a pre- and post-natal development study in rats, animals were dosed from implantation through lactation.
@@ -70,6 +70,17 @@ Thirty-five percent of 23 everolimus tablets-treated patients < 6 years of age h
 
 Although a conclusive determination cannot be made due to the limited number of patients and lack of a comparator arm in the open label follow-up periods of EXIST-1 and Study 2485, everolimus tablets did not appear to adversely impact growth and pubertal development in the 115 pediatric patients treated with everolimus tablets for a median duration of 4.1 years.
 
+TSC-Associated Partial-Onset Seizures
+
+The safety and effectiveness of everolimus tablets for oral suspension has been established for the adjunctive treatment of pediatric patients aged 2 years and older with TSC-associated partial-onset seizures.
+Use of everolimus tablets for oral suspension for this indication is supported by evidence from a randomized, double-blind, placebo-controlled trial in adult and pediatric patients (EXIST-3) with additional pharmacokinetic data in pediatric patients [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.6)].
+The safety and effectiveness of everolimus tablets for oral suspension and everolimus tablets have not been established for the adjunctive treatment of pediatric patients less than 2 years of age with TSC-associated partial-onset seizures.
+
+The incidence of infections and serious infections were reported at a higher frequency in patients < 6 years of age compared to patients ≥ 6 years old.
+Seventy-seven percent of 70 everolimus tablets for oral suspension-treated patients < 6 years had at least one infection, compared to 53% of 177 everolimus tablets for oral suspension-treated patients ≥ 6 years.
+Sixteen percent of 70 everolimus tablets for oral suspension-treated patients < 6 years of age had at least 1 serious infection, compared to 4% of 177 everolimus tablets for oral suspension-treated patients ≥ 6 years of age.
+Two fatal cases due to infections were reported in pediatric patients.
+
 Other Indications
 
 The safety and effectiveness of everolimus tablets/everolimus tablets for oral suspension in pediatric patients have not been established in:
@@ -96,4 +107,4 @@ Everolimus tablets/everolimus tablets for oral suspension exposure may increase 
 
 For patients with breast cancer, NET, RCC, and TSC-associated renal angiomyolipoma who have hepatic impairment, reduce the everolimus tablets dose as recommended [see Dosage and Administration (2.10)].
 
-For patients with TSC-associated SEGA who have severe hepatic impairment (Child-Pugh class C), reduce the starting dose of everolimus tablets/everolimus tablets for oral suspension as recommended and adjust the dose based on everolimus trough concentrations [see Dosage and Administration (2.8, 2.10)].
+For patients with TSC-associated SEGA and TSC-associated partial-onset seizures who have severe hepatic impairment (Child-Pugh class C), reduce the starting dose of everolimus tablets/everolimus tablets for oral suspension as recommended and adjust the dose based on everolimus trough concentrations [see Dosage and Administration (2.8, 2.10)].

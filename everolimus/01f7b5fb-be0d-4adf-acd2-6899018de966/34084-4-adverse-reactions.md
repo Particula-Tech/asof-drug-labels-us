@@ -522,9 +522,74 @@ Table 17: Selected Laboratory Abnormalities Reported in Everolimus Tablets-Treat
 
 Updated safety information from 111 patients treated with everolimus tablets for a median duration of 47 months identified the following additional notable adverse reactions and selected laboratory abnormalities: decreased appetite (14%), hyperglycemia (13%), hypertension (11%), urinary tract infection (9%), decreased fibrinogen (8%), cellulitis (6%), abdominal pain (5%), decreased weight (5%), elevated creatinine (5%), and azoospermia (1%).
 
+TSC-Associated Partial-Onset Seizures
+
+The data described below are based on the 18-week Core phase of a randomized, double-blind, multicenter, three-arm trial (EXIST-3) comparing two everolimus trough levels (3-7 ng/mL and 9-15 ng/mL) to placebo as adjunctive antiepileptic therapy in patients with TSC-associated partial-onset seizures.
+A total of 366 patients were randomized to everolimus tablets for oral suspension low trough (LT) (n = 117), everolimus tablets for oral suspension high trough (HT) (n = 130), or placebo (n = 119).
+The median age of patients was 10 years (2.2 to 56 years; 28% were < 6 years, 31% were 6 to < 12 years, 22% were 12 to < 18 years, and 18% were ≥ 18 years), 65% were white, and 52% were male.
+Patients received between one and three concomitant antiepileptic drugs.
+
+The most common adverse reaction reported for everolimus tablets for oral suspension in both arms (incidence ≥ 30%) was stomatitis.
+The most common Grade 3-4 adverse reactions (incidence ≥ 2%) were stomatitis, pneumonia, and irregular menstruation.
+The most common laboratory abnormality (incidence ≥ 50%) was hypercholesterolemia.
+The most common Grade 3-4 laboratory abnormality (incidence ≥ 2%) was neutropenia.
+
+Adverse reactions leading to study drug discontinuation occurred in 5% and 3% of patients in the LT and HT arms, respectively.
+The most common adverse reaction (incidence ≥ 1%) leading to discontinuation was stomatitis.
+Dose adjustments (interruptions or reductions) due to adverse reactions occurred in 24% and 35% of patients in the LT and HT arms, respectively.
+The most common adverse reactions (incidence ≥ 3%) leading to dose adjustments in the everolimus tablets for oral suspension arms were stomatitis, pneumonia, and pyrexia.
+
+Adverse reactions reported with an incidence of ≥ 10% for patients receiving everolimus tablets for oral suspension are presented in Table 18.
+Laboratory abnormalities are presented in Table 19.
+
+Table 18: Adverse Reactions Reported in ≥ 10% of Everolimus Tablets For Oral Suspension -Treated Patients With TSC-Associated Partial-Onset Seizures in EXIST-3
+
+| All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Everolimus tablets for oral suspension |  |  |  | Placebo |  |
+| Target of 3-7 ng/mL N = 117 |  | Target of 9-15 ng/mL N = 130 |  | N = 119 |  |  |
+| Gastrointestinal |  |  |  |  |  |  |
+| StomatitisIncludes stomatitis, mouth ulceration, aphthous ulcer, lip ulceration, tongue ulceration, mucosal inflammation, gingival pain. | 55 | 3No Grade 4 adverse reactions were reported. | 64 | 4 | 9 | 0 |
+| Diarrhea | 17 | 0 | 22 | 0 | 5 | 0 |
+| Vomiting | 12 | 0 | 10 | 2 | 9 | 0 |
+| Infections |  |  |  |  |  |  |
+| Nasopharyngitis | 14 | 0 | 16 | 0 | 16 | 0 |
+| Upper respiratory tract infection | 13 | 0 | 15 | 0 | 13 | 0.8 |
+| General |  |  |  |  |  |  |
+| Pyrexia | 20 | 0 | 14 | 0.8 | 5 | 0 |
+| Respiratory, thoracic and mediastinal |  |  |  |  |  |  |
+| Cough | 11 | 0 | 10 | 0 | 3 | 0 |
+| Skin and subcutaneous tissue |  |  |  |  |  |  |
+| Rash | 6 | 0 | 10 | 0 | 3 | 0 |
+| Grading according to NCI CTCAE Version 4.03. |  |  |  |  |  |  |
+
+The following additional adverse reactions occurred in < 10% of everolimus tablets for oral suspension treated patients (% everolimus tablets for oral suspension LT, % everolimus tablets for oral suspension HT): decreased appetite (9%, 7%), pneumonia (2%, 4%), aggression (2%, 0.8%), proteinuria (0%, 2%), menorrhagia (0.9%, 0.8%), and pneumonitis (0%, 0.8%).
+
+Table 19: Selected Laboratory Abnormalities Reported in ≥ 10% Everolimus Tablets For Oral Suspension -Treated Patients With TSC-Associated Partial-Onset Seizures
+
+| All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % | All Grades % | Grade 3-4 % |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Everolimus tablets for oral suspension |  |  |  | Placebo |  |
+| Target of 3-7 ng/mL N = 117 |  | Target of 9-15 ng/mL N = 130 |  | N = 119 |  |  |
+| Hematology |  |  |  |  |  |  |
+| Neutropenia | 25 | 4No Grade 4 laboratory abnormalities were reported. | 37 | 6 | 23 | 7 |
+| Anemia | 27 | 0.9 | 30 | 0 | 21 | 0.8 |
+| Thrombocytopenia | 12 | 0 | 15 | 0 | 6 | 0 |
+| Chemistry |  |  |  |  |  |  |
+| Hypercholesterolemia | 86 | 0 | 85 | 0.8 | 58 | 0 |
+| Hypertriglyceridemia | 43 | 2 | 39 | 2 | 22 | 0 |
+| Increased ALT | 17 | 0 | 22 | 0 | 6 | 0 |
+| Increased AST | 13 | 0 | 19 | 0 | 4 | 0 |
+| Hyperglycemia | 19 | 0 | 18 | 0 | 17 | 0 |
+| Increased alkaline phosphatase | 24 | 0 | 16 | 0 | 29 | 0 |
+| Hypophosphatemia | 9 | 0.9 | 16 | 2 | 3 | 0 |
+| Grading according to NCI CTCAE version 4.03. |  |  |  |  |  |  |
+
+Updated safety information from 357 patients treated with everolimus tablets for oral suspension for a median duration of 48 weeks identified the following additional notable adverse reactions: hypersensitivity (0.6%), angioedema (0.3%), and ovarian cyst (0.3%).
+
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during post approval use of everolimus tablets/everolimus tablets for oral suspension.
+The following adverse reactions have been identified during postapproval use of everolimus tablets/everolimus tablets for oral suspension.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure:
 
 - Blood and lymphatic disorders: Thrombotic microangiopathy

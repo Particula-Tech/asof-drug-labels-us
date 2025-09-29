@@ -22,7 +22,7 @@ The development of pneumonitis has been reported even at a reduced dose.
 ## 5.2 Infections
 
 Everolimus tablets/everolimus tablets for oral suspension have immunosuppressive properties and may predispose patients to bacterial, fungal, viral, or protozoal infections, including infections with opportunistic pathogens [see Adverse Reactions (6.1)].
-Localized and systemic infections, including pneumonia, mycobacterial infections, other bacterial infections, invasive fungal infections (e.g., aspergillosis, candidiasis, or PJP) and viral infections (e.g., reactivation of hepatitis B virus) have occurred.
+Localized and systemic infections, including pneumonia, mycobacterial infections, other bacterial infections, invasive fungal infections (e.g., aspergillosis, candidiasis, or PJP), and viral infections (e.g., reactivation of hepatitis B virus) have occurred.
 Some of these infections have been severe (e.g., sepsis, septic shock, or resulting in multisystem organ failure) or fatal.
 The incidence of Grade 3 and 4 infections was up to 10% and up to 3%, respectively.
 The incidence of serious infections was reported at a higher frequency in patients < 6 years of age [see Use in Specific Populations (8.4)].
