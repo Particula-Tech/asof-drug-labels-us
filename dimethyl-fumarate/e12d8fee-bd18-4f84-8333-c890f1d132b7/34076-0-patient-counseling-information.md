@@ -36,7 +36,9 @@ Inform patients that GI events (abdominal pain, diarrhea, and nausea) are some o
 Some patients may experience more severe GI events.
 Advise patients to immediately contact their healthcare provider and discontinue dimethyl fumarate delayed-release capsules if they experience gastrointestinal bleeding (e.g., rectal bleeding, bloody diarrhea, hematemesis) or other serious gastrointestinal adverse events (e.g., severe abdominal pain, severe vomiting and/or diarrhea) [see Warnings and Precautions (5.7)].
 
-Manufactured by: Alkem Laboratories Ltd., INDIA.
-Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
+For Patient Information, please visit: http://www.ascendlaboratories.com/pti/dmfcaps.pdf
 
-Revised: March, 2024
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
+
+Revised: February, 2025

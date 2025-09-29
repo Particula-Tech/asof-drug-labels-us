@@ -81,10 +81,16 @@ What are the ingredients in dimethyl fumarate delayed-release capsules?
 Active ingredient: dimethyl fumarate Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, magnesium stearate, methacrylic acid and ethyl acrylate copolymer dispersion, methacrylic acid and methyl methacrylate copolymer, polysorbate 80, silicified microcrystalline cellulose, sodium lauryl sulphate, talc, triethyl citrate.
 Capsule Shell: gelatin, titanium dioxide, FD&C blue 2 and iron oxide yellow.
 The imprinting ink contains following ingredients: shellac, propylene glycol, strong ammonia solution, black iron oxide, potassium hydroxide, purified water.
-Manufactured by: Alkem Laboratories Ltd., INDIA.
-Distributed by: Ascend Laboratories, LLC, Parsippany, NJ 07054 For more information, call 1-877-272-7901.
+
+For Patient Information, please visit: http://www.ascendlaboratories.com/pti/dmfcaps.pdf
+
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
+
+For more information, call 1-877-272-7901.
+
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Revised: March, 2024
+Revised: February, 2025
 
-PT2832-05
+PT2832-06
