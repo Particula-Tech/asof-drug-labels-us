@@ -108,11 +108,11 @@ Disposing of your Needles and Syringes
 - Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
   Do not recycle your used sharps disposal container.
 
-Manufactured by: EMD Serono, Inc. Rockland, MA 02370 U.S. License 1773
+Manufactured by: EMD Serono, Inc. Boston, MA 02210 U.S. License 1773
 
-Marketed by: EMD Serono, Inc. Rockland, MA 02370
+Marketed by: EMD Serono, Inc. Boston, MA 02210
 
-Revised 11/2021
+Revised 02/2025
 
 Rebif® Rebidose®
 
