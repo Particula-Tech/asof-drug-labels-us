@@ -17,4 +17,4 @@ RX ONLY
 GALDERMA
 
 Marketed by: Galderma Laboratories, L.P.
-Dallas, TX 75201 USA All trademarks are the property of their respective owners. oracea.com P56801-1
+Dallas, TX 75201 USA All trademarks are the property of their respective owners. oracea.com P55303-1
