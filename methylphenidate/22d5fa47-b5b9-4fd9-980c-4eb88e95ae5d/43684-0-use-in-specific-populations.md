@@ -49,11 +49,12 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, anorexia
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of RELEXXII have not been established in pediatric patients below the age of 6 years.
+
+In studies evaluating extended-release methylphenidate products, patients 4 to <6 years of age had higher systemic methylphenidate exposures than those observed in older pediatric patients at the same dosage.
+Pediatric patients 4 to <6 years of age also had a higher incidence of adverse reactions, including weight loss.
+
 The safety and effectiveness of RELEXXII for the treatment of ADHD have been established in pediatric patients 6 to 17 years.
-
-The safety and effectiveness of RELEXXII in pediatric patients less than 6 years have not been established.
-
-The long-term efficacy of methylphenidate in pediatric patients have not been established.
 
 Long Term Suppression of Growth
 

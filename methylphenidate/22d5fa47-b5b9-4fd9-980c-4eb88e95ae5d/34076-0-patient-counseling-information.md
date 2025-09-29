@@ -4,7 +4,8 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
 Abuse, Misuse, and Addiction
 
-Educate patients and their families about the risks of abuse, misuse, and addiction of RELEXXII, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), and Overdosage (10)].Advise patients to store RELEXXII in a safe place, preferably locked, and instruct patients to not give RELEXXII to anyone else.
+Educate patients and their families about the risks of abuse, misuse, and addiction of RELEXXII, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), and Overdosage (10)].
+Advise patients to store RELEXXII in a safe place, preferably locked, and instruct patients to not give RELEXXII to anyone else.
 
 Administration Instructions
 
@@ -54,7 +55,7 @@ Pregnancy Registry
 
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to RELEXXII during pregnancy [see Use in Specific Populations (8.1)].
 
-Distributed by:
+Manufactured for:
 
 Vertical Pharmaceuticals, LLC
 
@@ -64,7 +65,7 @@ Alpharetta, GA 30005
 
 www.verticalpharma.com
 
-200438-7
+200438-8
 
 Patent numbers:
 

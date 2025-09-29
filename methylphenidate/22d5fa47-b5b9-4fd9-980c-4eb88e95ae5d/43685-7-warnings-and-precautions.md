@@ -32,7 +32,7 @@ CNS stimulants may exacerbate symptoms of behavior disturbance and thought disor
 Induction of a Manic Episode in Patients with Bipolar Disorder
 
 CNS stimulants may induce a manic or mixed episode in patients.
-Prior to initiating RELEXXII treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms a family history of suicide, bipolar disorder, and depression).
+Prior to initiating RELEXXII treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms, a family history of suicide, bipolar disorder, and depression).
 
 New Psychotic or Manic Symptoms
 
@@ -59,6 +59,8 @@ Careful observation for digital changes is necessary during RELEXXII treatment.
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for RELEXXII-treated patients who develop signs or symptoms of peripheral vasculopathy.
 
 ## 5.7 Long-Term Suppression of Growth in Pediatric Patients
+
+RELEXXII is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 

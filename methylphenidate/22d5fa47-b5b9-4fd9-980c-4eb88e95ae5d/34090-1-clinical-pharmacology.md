@@ -37,7 +37,7 @@ Table 7: Methylphenidate Pharmacokinetic Parameters (Mean ± SD) After Single Do
 | Cmax (ng/mL) | 3.7 ± 1.0 | 4.2 ± 1.0 |
 | Tmax (h) | 6.8 ± 1.8 | 6.5 ± 1.8 |
 | AUCinf (ng∙h/mL) | 41.8 ± 13.9 | 38.0 ± 11.0 |
-| t&frac12; (h) | 3.5 ± 0.4 | 3.0 ± 0.5 |
+| t1/2 (h) | 3.5 ± 0.4 | 3.0 ± 0.5 |
 
 The pharmacokinetics of methylphenidate hydrochloride extended-release tablets were evaluated in healthy adults following single- and multiple-dose administration (steady state) of doses up to 144 mg per day (2 times the maximum recommended daily dosage of methylphenidate hydrochloride extended-release tablets).
 The mean half-life was about 3.6 hours.

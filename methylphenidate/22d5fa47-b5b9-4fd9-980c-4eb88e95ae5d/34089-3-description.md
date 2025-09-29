@@ -23,7 +23,7 @@ RELEXXII also contains the following color additives:
 
 54 mg: FD&C Yellow #6 Aluminum Lake, FD&C Red #40 Aluminum Lake, FD&C Blue #2 Aluminum Lake
 
-63 mg: iron oxide red, iron oxide yellow
+18 and 63 mg: iron oxide red, iron oxide yellow
 
 72 mg: FD&C Blue #1 Aluminum Lake
 
