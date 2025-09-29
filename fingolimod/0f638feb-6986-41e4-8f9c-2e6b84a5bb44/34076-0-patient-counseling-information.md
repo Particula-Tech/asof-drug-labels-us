@@ -26,8 +26,9 @@ Inform the patient that typical symptoms associated with PML are diverse, progre
 
 Macular Edema
 
-Advise patients that fingolimod may cause macular edema, and that they should contact their physician if they experience any changes in their vision.
+Advise patients that fingolimod may cause macular edema, and that they should obtain an eye exam near the start of treatment with fingolimod, have their eyes monitored periodically by an eye care professional while receiving therapy, and contact their healthcare provider if they experience any changes in their vision while taking fingolimod.
 Inform patients with diabetes mellitus or a history of uveitis that their risk of macular edema is increased [see Warnings and Precautions (5.4)].
+
 Hepatic Effects
 
 Inform patients that fingolimod may cause liver injury.
@@ -53,7 +54,7 @@ Advise patients to contact their physician if they develop worsening symptoms of
 
 Malignancies
 
-Advise patients that basal cell carcinoma and melanoma are associated with use of fingolimod.
+Advise patients that the risk of basal cell carcinoma and melanoma is increased with use of fingolimod and that cases of squamous cell carcinoma, Merkel cell carcinoma, and Kaposi’s sarcoma have been reported.
 Advise patients that any suspicious skin lesions should be promptly evaluated.
 Advise patients to limit exposure to sunlight and ultraviolet light by wearing protective clothing and using a sunscreen with a high protection factor.
 Inform patients that lymphoma has also occurred in patients receiving fingolimod [see Warnings and Precautions (5.12)].
@@ -71,4 +72,5 @@ Pregnancy
 
 Instruct patients that if they are pregnant or plan to become pregnant while taking fingolimod they should inform their physician.
 
-Revised: February 2024
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921

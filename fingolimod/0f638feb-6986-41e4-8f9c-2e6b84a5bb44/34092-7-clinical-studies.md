@@ -67,7 +67,7 @@ Abbreviation: CI, confidence interval.
 
 All analyses of clinical endpoints were intent-to–treat.
 MRI analysis used evaluable dataset. ‡ Hazard ratio is an estimate of the relative risk of having the event of disability progression on fingolimod as compared to control.
-Pooled results of study 1 and study 2 showed a consistent and statistically significant reduction of annualized relapse rate compared to comparator in subgroups defined by gender, age, prior MS therapy, and disease activity.
+Pooled results of Study 1 and Study 2 showed a consistent and statistically significant reduction of annualized relapse rate compared to comparator in subgroups defined by gender, age, prior MS therapy, and disease activity.
 
 ## 14.2 Pediatric Patients (10 to less than 18 Years of Age)
 

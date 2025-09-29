@@ -1,8 +1,8 @@
 # MEDICATION GUIDE
 
-Fingolimod (fin gol' i mod)
+Fingolimod [fin gol' i mod]
 
-Capsules
+capsules, for oral use
 
 Read this Medication Guide before you start taking fingolimod and each time you get a refill.
 There may be new information.
@@ -98,11 +98,11 @@ Call your doctor right away if you have any new or worsening symptoms of PML, th
 A problem with your vision called macular edema.
 Macular edema can cause some of the same vision symptoms as a multiple sclerosis (MS) attack (optic neuritis).
 You may not notice any symptoms with macular edema.
-If macular edema happens, it usually starts in the first 3 to 4 months after you start taking fingolimod.
-Your doctor should test your vision before you start taking fingolimod and 3 to 4 months after you start taking fingolimod, or any time you notice vision changes during treatment with fingolimod.
+If macular edema happens, it usually starts in the first 3 to 4 months after you start taking fingolimod but can happen at any time.
+Your doctor should test your vision around the time you start taking fingolimod, 3 to 4 months after you start taking fingolimod, periodically while you continue taking fingolimod, and any time you notice vision changes during treatment with fingolimod.
 Your risk of macular edema is higher if you have diabetes or have had an inflammation of your eye called uveitis.
 
-Call your doctor right away if you have any of the following:
+Call your doctor right away if you have any of the following symptoms:
 
 - blurriness or shadows in the center of your vision
 - a blind spot in the center of your vision
@@ -119,7 +119,7 @@ Who should not take fingolimod?
 
 Do not take fingolimod if you:
 
-- have had a heart attack, unstable angina, stroke or mini-stroke (transient ischemic attack or TIA) or certain types of heart failure in the last 6 months.
+- have had a heart attack, unstable angina, stroke, or mini stroke (transient ischemic attack or TIA) or certain types of heart failure in the last 6 months.
 - have certain types of irregular or abnormal heartbeat (arrhythmia), including patients in whom a heart finding called prolonged QT is seen on ECG before starting fingolimod.
 - have a heart rhythm problem that needs treatment with certain medicines.
 - are allergic to fingolimod or any of the ingredients in fingolimod capsules.
@@ -133,7 +133,7 @@ What should I tell my doctor before taking fingolimod?
 Before you take fingolimod, tell your doctor about all your medical conditions, including if you had or now have:
 
 - an irregular or abnormal heartbeat (arrhythmia).
-- a history of stroke or mini-stroke.
+- a history of stroke or mini stroke.
 - heart problems, including heart attack or angina.
 - a history of repeated fainting (syncope).
 - a fever or infection, or you are unable to fight infections due to a disease or take or have taken medicines that lower your immune system.
@@ -148,7 +148,7 @@ Before you take fingolimod, tell your doctor about all your medical conditions, 
 - breathing problems, including during your sleep.
 - liver problems.
 - high blood pressure.
-- types of skin cancer called basal cell carcinoma (BCC) or melanoma.
+- any type of skin cancer, including basal cell carcinoma (BCC), melanoma, or squamous cell carcinoma (SCC).
 - are pregnant or plan to become pregnant.
   Fingolimod may harm your unborn baby.
   Talk to your doctor if you are pregnant or are planning to become pregnant.
@@ -222,14 +222,14 @@ Fingolimod can cause serious side effects, including:
   Call your doctor right away if you have new or worsening breathing problems.
 - severe worsening of multiple sclerosis after stopping fingolimod.When fingolimod is stopped, symptoms of MS can return and become worse compared to before or during treatment.
   Many people who have worsening of MS symptoms after stopping fingolimod do not return to the level of function that they had before stopping fingolimod.
-  This worsening happens most often within 12 weeks after stopping fingolimod, but can happen later.
+  This worsening happens most often within 12 weeks after stopping fingolimod but can happen later.
   Always talk to your doctor before you stop taking fingolimod for any reason.
   Tell your doctor if you have worsening symptoms of MS after stopping fingolimod.
 - increased blood pressure.
   Your doctor should check your blood pressure during treatment with fingolimod.
-- types of skin cancer called basal cell carcinoma (BCC) and melanoma.
+- types of skin cancer, including basal cell carcinoma, melanoma, and squamous cell carcinoma.
   Tell your doctor if you have any changes in the appearance of your skin, including changes in a mole, a new darkened area on your skin, a sore that does not heal, or growths on your skin, such as a bump that may be shiny, pearly white, skin-colored, or pink.
-  Your doctor should check your skin for any changes during treatment with fingolimod.
+  Your doctor should check your skin for any changes at the start of and during treatment with fingolimod.
   Limit the amount of time you spend in sunlight and ultraviolet (UV) light.
   Wear protective clothing and use a sunscreen with a high sun protection factor.
 - allergic reactions.
@@ -281,18 +281,11 @@ Inactive ingredients: dibasic calcium phosphate, gelatin, magnesium stearate, ti
 
 Imprinting ink: propylene glycol, shellac and in addition, the black ink contains black iron oxide, and potassium hydroxide and yellow ink contains yellow iron oxide.
 
-Manufactured by:
-
-Alkem Laboratories Ltd.,
-
-INDIA.
-
-Distributed by: Ascend Laboratories, LLC
-
-Parsippany, NJ 07054
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: February 2024
+Revised: July 2025
 
-PT 2379-01
+PT 2379-03
