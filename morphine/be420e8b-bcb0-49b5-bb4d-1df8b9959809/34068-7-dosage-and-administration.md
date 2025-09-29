@@ -8,12 +8,14 @@
   Avoid dosing errors that may result from confusion between mg and mL and confusion with morphine injections of different concentrations when prescribing, dispensing, and administering Morphine Sulfate Injection.
   Ensure that the dose is communicated and dispensed accurately.
 - •Morphine Sulfate Injection should be prescribed only by healthcare ‎professionals who are knowledgeable about the use of opioids and how ‎to mitigate the associated risks.
-- •Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)].Because the risk of overdose increases as opioid doses ‎increase, reserve titration to higher doses of Morphine Sulfate Injection for ‎patients in whom lower doses are insufficiently effective and in whom the ‎expected benefits of using a higher dose opioid clearly outweigh the ‎substantial risks.‎
+- •Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+  Because the risk of overdose increases as opioid doses ‎increase, reserve titration to higher doses of Morphine Sulfate Injection for ‎patients in whom lower doses are insufficiently effective and in whom the ‎expected benefits of using a higher dose opioid clearly outweigh the ‎substantial risks.‎
 - •Many acute pain conditions (e.g., the pain that occurs with a number ‎of surgical procedures or acute musculoskeletal injuries) require no ‎more than a few days of an opioid analgesic.
   Clinical guidelines on ‎opioid prescribing for some acute pain conditions are available.‎
 - •There is variability in the opioid analgesic dose and duration needed to ‎adequately manage pain due both to the cause of pain and to ‎individual patient factors.
   Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- •Respiratory depression, especially within the first 24–72 hours of initiating therapy and following dosage increases with Morphine Sulfate Injection and adjust the dosage accordingly [see Warnings and Precautions (5.2)].
+- •Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Morphine Sulfate Injection.
+  Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5.2)].
 - •Morphine must be injected slowly; rapid intravenous administration may result in chest wall rigidity.
 - •Inspect Morphine Sulfate Injection for particulate matter and discoloration prior to administration.
   Do not use if color is darker than pale yellow, if it is discolored in any other way, or if it contains a precipitate.

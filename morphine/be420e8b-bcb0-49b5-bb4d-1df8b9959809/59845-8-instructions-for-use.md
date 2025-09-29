@@ -1,7 +1,5 @@
 # INSTRUCTIONS FOR USE
 
-Instructions for use - Carpuject™ Single-dose Cartridge
-
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not use if color is darker than pale yellow, if it is discolored in any other way, or if it contains a precipitate.
 
@@ -18,5 +16,8 @@ NOTE: To prevent needlestick injuries, do not recap, purposely bend, or break by
 Do not recap, purposely bend, or break by hand blunt Cannulas.
 
 Instructions for use - NexJect™ Single-dose Prefilled Syringe
+
+NOTE: To prevent needlestick injuries, do not recap, purposely bend, or break by hand used ‎needles.
+Do not recap, purposely bend, or break by hand blunt cannulas.
 
 LAB-0921-4.0 Revised: 12/2023

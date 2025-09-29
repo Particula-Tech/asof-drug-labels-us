@@ -7,7 +7,7 @@ Because the use of Morphine Sulfate Injection exposes patients and other users t
 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of Morphine Sulfate Injection, especially during initiation or following a dosage increase.
-To reduce the risk of respiratory depression, proper dosing and titration of ‎Morphine Sulfate Injection are essential‎[see Warnings and Precautions (5.2)].
+To reduce the risk of respiratory depression, proper dosing and titration of ‎Morphine Sulfate Injection are essential‎ [see Warnings and Precautions (5.2)].
 
 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 

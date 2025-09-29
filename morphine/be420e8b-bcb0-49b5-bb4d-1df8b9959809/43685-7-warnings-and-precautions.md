@@ -11,7 +11,7 @@ Addiction can occur at recommended dosages and if the drug is misused or abused.
 Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing Morphine Sulfate Injection, and monitor all patients receiving morphine sulfate for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
-Patients at increased risk may be prescribed opioids such as Morphine Sulfate Injection, but use in such patients necessitates intensive counseling about the risks and proper use of Morphine Sulfate Injection along with intensive monitoring for signs of addiction, abuse, and misuse.
+Patients at increased risk may be prescribed opioids such as Morphine Sulfate Injection but use in such patients necessitates intensive counseling about the risks and proper use of Morphine Sulfate Injection along with intensive monitoring for signs of addiction, abuse, and misuse.
 
 Opioids are sought for nonmedical use and are subject to diversion from ‎legitimate prescribed use.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity.
@@ -57,7 +57,7 @@ Screen patients for risk of substance use disorders, including opioid abuse and 
 Use of Morphine Sulfate Injection for an extended period of time during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
-Advise pregnant women using opioids for an extended period of time the risk of neonatal opioid withdrawal syndrome and ensure that management by neonatology experts will be available at delivery [see Use in Specific Populations (8.1)].
+Advise pregnant women using opioids for an extended period of time of the risk of neonatal opioid withdrawal syndrome and ensure that management by neonatology experts will be available at delivery [see Use in Specific Populations (8.1)].
 
 ## 5.5 Cardiovascular Instability
 
@@ -128,7 +128,7 @@ Monitor patients with biliary tract disease, including acute pancreatitis, for w
 
 ## 5.13 Increased Risk of Seizures in Patients with Seizure Disorders
 
-The morphine in Morphine Sulfate Injection may increase the frequency of seizures in patients with seizure disorders, and may increase the risk of seizures occurring in other clinical settings associated with seizures.
+The morphine in Morphine Sulfate Injection may increase the frequency of seizures in patients with seizure disorders and may increase the risk of seizures occurring in other clinical settings associated with seizures.
 Monitor patients with a history of seizure disorders for worsened seizure control during Morphine Sulfate Injection therapy.
 
 ## 5.14 Withdrawal
