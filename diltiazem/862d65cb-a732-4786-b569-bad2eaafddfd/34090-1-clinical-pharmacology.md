@@ -86,7 +86,7 @@ Competitive in vitro ligand binding studies have also shown diltiazem hydrochlor
 A study that compared patients with normal hepatic function to patients with cirrhosis who received immediate-release diltiazem found an increase in diltiazem elimination half-life and a 69% increase in bioavailability in the hepatically impaired patients.
 Patients with severely impaired renal function (creatinine clearance <50 mL/min) who received immediate-release diltiazem had modestly increased diltiazem concentrations compared to patients with normal renal function.
 
-Diltiazem Hydrochloride Extended-Release Capsules: When compared to a regimen of immediate-release tablets at steady-state, approximately 93% of drug is absorbed from the diltiazem hydrochloride extended-release capsules formulation.
+Diltiazem hydrochloride extended-release capsules: When compared to a regimen of immediate-release tablets at steady-state, approximately 93% of drug is absorbed from the diltiazem hydrochloride extended-release capsules formulation.
 When diltiazem hydrochloride extended-release capsules were coadministered with a high fat content breakfast, the extent of diltiazem absorption was not affected; Tmax, however, occurred slightly earlier.
 The apparent elimination half-life after single or multiple dosing is 4 to 9.5 hours (mean 6.5 hours).
 

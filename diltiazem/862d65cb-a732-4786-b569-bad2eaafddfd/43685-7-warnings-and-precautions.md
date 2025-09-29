@@ -4,7 +4,7 @@
 Cardiac Conduction: Diltiazem hydrochloride prolongs AV node refractory periods without significantly prolonging sinus node recovery time, except in patients with sick sinus syndrome.
 This effect may rarely result in abnormally slow heart rates (particularly in patients with sick sinus syndrome) or second- or third-degree AV block (13 of 3007 patients or 0.43%).
 Concomitant use of diltiazem with beta-blockers or digitalis may result in additive effects on cardiac conduction.
-A patient with Prinzmetal's angina developed periods of asystole (2 to 5 seconds) after a single dose of 60 mg of diltiazem.
+A patient with Prinzmetal’s angina developed periods of asystole (2 to 5 seconds) after a single dose of 60 mg of diltiazem.
 
 2.
 Congestive Heart Failure: Although diltiazem has a negative inotropic effect in isolated animal tissue preparations, hemodynamic studies in humans with normal ventricular function have not shown a reduction in cardiac index nor consistent negative effects on contractility (dP/dt).
@@ -42,10 +42,9 @@ Drug Interactions
 
 Due to the potential for additive effects, caution and careful titration are warranted in patients receiving diltiazem hydrochloride concomitantly with other agents known to affect cardiac contractility and/or conduction (see WARNINGS).
 Pharmacologic studies indicate that there may be additive effects in prolonging AV conduction when using beta-blockers or digitalis concomitantly with diltiazem hydrochloride extended-release capsules (see WARNINGS).
-As with all drugs, care should be exercised when treating patients with multiple medications.
-Diltiazem is both a substrate and an inhibitor of the cytochrome P450 3A4 enzyme system.
-Other drugs that are specific substrates, inhibitors, or inducers of the enzyme system may have a significant impact on the efficacy and side effect profile of diltiazem.
-Patients taking other drugs that are substrates of CYP450 3A4, especially patients with renal and/or hepatic impairment, may require dosage adjustment when starting or stopping concomitantly administered diltiazem in order to maintain optimum therapeutic blood levels.
+
+Diltiazem is both a substrate and an inhibitor of the Pg-p and cytochrome P450 3A4 enzyme system which may affect exposure to diltiazem and concomitant drugs metabolized by those pathways.
+Patients with renal and/or hepatic impairment may be particularly at risk of exposure changes.
 
 Anesthetics: The depression of cardiac contractility, conductivity, and automaticity as well as the vascular dilation associated with anesthetics may be potentiated by calcium channel blockers.
 When used concomitantly, anesthetics and calcium channel blockers should be titrated carefully.
@@ -69,7 +68,7 @@ Patients receiving these drugs concurrently should be monitored for a potential 
 
 Cimetidine: A study in six healthy volunteers has shown a significant increase in peak diltiazem plasma levels (58%) and AUC (53%) after a 1-week course of cimetidine 1200 mg/day and a single dose of diltiazem 60 mg.
 Ranitidine produced smaller, nonsignificant increases.
-The effect may be mediated by cimetidine's known inhibition of hepatic cytochrome P450, the enzyme system responsible for the first-pass metabolism of diltiazem.
+The effect may be mediated by cimetidine’s known inhibition of hepatic cytochrome P450, the enzyme system responsible for the first-pass metabolism of diltiazem.
 Patients currently receiving diltiazem therapy should be carefully monitored for a change in pharmacological effect when initiating and discontinuing therapy with cimetidine.
 An adjustment in the diltiazem dose may be warranted.
 

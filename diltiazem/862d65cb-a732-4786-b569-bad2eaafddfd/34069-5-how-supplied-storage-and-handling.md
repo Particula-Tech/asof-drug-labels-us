@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Diltiazem Hydrochloride Extended-Release Capsules, USP
+Diltiazem hydrochloride extended-release capsules, USP
 
 | Strength | Description | Quantity | NDC# |
 | --- | --- | --- | --- |
