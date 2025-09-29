@@ -17,7 +17,7 @@ Lannett Company, Inc.
 
 Philadelphia, PA 19136
 
-CIB71976A
+CIB71976B
 
 Rev.
-02/20
+09/25

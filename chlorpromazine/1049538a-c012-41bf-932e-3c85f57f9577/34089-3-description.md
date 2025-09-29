@@ -8,4 +8,4 @@ Chlorpromazine hydrochloride occurs as white or slightly creamy white, odorless,
 
 Each tablet for oral administration contains 10 mg, 25 mg, 50 mg, 100 mg, or 200 mg of chlorpromazine hydrochloride, USP.
 
-Inactive ingredients: D&C Yellow No. 10, FD&C Blue No. 2, FD&C Yellow No. 6, glyceryl monocaprylocaprate, lactose monohydrate, magnesium stearate, pregelatinized starch, polyvinyl alcohol, sodium lauryl sulfate, talc, and titanium dioxide.
+Inactive ingredients: D&C Yellow No. 10, FD&C Blue No. 2, FD&C Yellow No. 6, glyceryl mono and dicaprylocaprate, lactose monohydrate, magnesium stearate, pregelatinized starch, polyvinyl alcohol, sodium lauryl sulfate, talc, and titanium dioxide.
