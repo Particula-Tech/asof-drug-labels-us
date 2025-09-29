@@ -19,12 +19,17 @@ Convulsions
 Inform patients and caregivers that reports of convulsions have been observed in patients receiving GnRH agonists, including leuprolide acetate.
 Patients with a history of seizures, epilepsy, cerebrovascular disorders, central nervous system anomalies or tumors, and patients on concomitant medications that have been associated with convulsions may be at increased risk [see Warnings and Precautions (5.3)].
 
+Severe Cutaneous Adverse Reactions
+
+Inform patients and/or caregivers that severe cutaneous adverse reactions (SCARs) may occur during treatment with FENSOLVI.
+Advise patients and/or caregivers to stop FENSOLVI and immediately contact their healthcare provider if they experience signs and symptoms of SCARs [see Warnings and Precautions (5.4)].
+
 Pseudotumor Cerebri (Idiopathic Intracranial Hypertension)
 
 Inform patients and caregivers that reports of pseudotumor cerebri (idiopathic intracranial hypertension) have been observed in pediatric patients receiving GnRH agonists, including leuprolide acetate.
 Advise patients and caregivers to monitor for headache, and vision issues such as blurred vision, double vision, loss of vision, pain behind the eye or pain with eye movement, ringing in the ears, dizziness, and nausea.
 Advise patients and caregivers to contact their healthcare provider if the patient develops any these symptoms.
-[see Warnings and Precautions (5.4)].
+[see Warnings and Precautions (5.5)].
 
 Injection Site Reactions
 
@@ -40,15 +45,11 @@ Compliance with the Dosing Schedule
 
 Inform caregivers about the importance of adherence to the FENSOLVI dosing schedule of one injection every 24 weeks [see Dosage and Administration (2.1, 2.2)].
 
-Rx only
-
-Revised 10/2024
-
 Manufactured by: Tolmar, Fort Collins, CO 80526
 
-©2024 Tolmar.
+©2025 Tolmar.
 All rights reserved.
 Tolmar, FENSOLVI, and associated logos, are trademarks of the Tolmar group.
 
 04006226 Rev.
-2 10/2024
+3 09/2025

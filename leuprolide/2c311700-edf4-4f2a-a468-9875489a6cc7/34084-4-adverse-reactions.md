@@ -2,10 +2,11 @@
 
 The following serious adverse reactions are described here and elsewhere in the label:
 
-- Initial rise in gonadotropin and sex steroid levels [see Warnings and Precautions (5.1)].
-- Psychiatric Events [see Warnings and Precautions (5.2)].
-- Convulsions [see Warnings and Precautions (5.3)].
-- Pseudotumor Cerebri (Idiopathic Intracranial Hypertension) [see Warnings and Precautions (5.4)]
+- Initial rise in gonadotropin and sex steroid levels [see Warnings and Precautions (5.1)]
+- Psychiatric Events [see Warnings and Precautions (5.2)]
+- Convulsions [see Warnings and Precautions (5.3)]
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.4)]
+- Pseudotumor Cerebri (Idiopathic Intracranial Hypertension) [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -43,7 +44,7 @@ Emotional disorder (2%) and irritability (2%)
 
 ## 6.2 Postmarketing Experience
 
-The following adverse reactions have been identified during postapproval use of leuprolide acetate or FENSOLVI.
+The following adverse reactions have been identified during post-approval use of FENSOLVI or GnRH agonists.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Allergic Reactions: anaphylactic, rash, urticaria, and photosensitivity reactions.
@@ -61,7 +62,7 @@ Neurologic: neuropathy peripheral, convulsion, paralysis, insomnia, pseudotumor 
 Psychiatric: emotional lability, such as crying, irritability, impatience, anger and aggression, depression, including rare reports of suicidal ideation and attempt.
 Many, but not all, of these patients had a history of psychiatric illness or other comorbidities with an increased risk of depression.
 
-Skin and Subcutaneous Tissue: injection site reactions including induration and abscess, flushing, hyperhidrosis.
+Skin and Subcutaneous Tissue: injection site reactions including induration and abscess, flushing, hyperhidrosis, erythema multiforme, bullous dermatitis, dermatitis exfoliative, drug reaction with eosinophilia and systemic symptoms, Stevens-Johnson syndrome and toxic epidermal necrolysis, and acute generalized exanthematous pustulosis.
 
 Reproductive System: vaginal bleeding, breast enlargement.
 
