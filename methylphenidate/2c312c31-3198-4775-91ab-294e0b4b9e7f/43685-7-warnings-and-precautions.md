@@ -74,6 +74,8 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 
 ## 5.8 Long-Term Suppression of Growth in Pediatric Patients
 
+DAYTRANA is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
+
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
 Careful follow-up of weight and height in children ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated children over 36 months (to the ages of 10 to 13 years), suggests that pediatric patients who received methylphenidate for 7 days per week throughout the year had a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this development period.

@@ -69,7 +69,7 @@ Important Preparation and Administration Instructions [see Dosage and Administra
 - In the event that a DAYTRANA does not fully adhere to the skin upon application, or is partially or fully detached during wear time, the transdermal system should be discarded according to the directions provided in this label, and a new transdermal system should be applied [see Dosage and Administration (2.3)].
   If a transdermal system is replaced, the total recommended wear time for that day should remain 9 hours, regardless of the number of transdermal systems used.
 - DAYTRANA should not be applied or re-applied with dressings, tape, or other common adhesives.
-- Exposure to water during bathing, swimming, or showering can affect transdermal system adherence.
+- Exposure to water during bathing, swimming, or showering can affect DAYTRANA adherence.
 - Do not cut transdermal systems.
   Only intact transdermal systems should be applied.
 - If there is an unacceptable duration of appetite loss or insomnia in the evening, taking the transdermal system off earlier may be attempted before decreasing the transdermal system dose.

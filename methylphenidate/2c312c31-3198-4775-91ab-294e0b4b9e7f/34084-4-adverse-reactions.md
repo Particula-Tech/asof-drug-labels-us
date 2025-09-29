@@ -31,7 +31,7 @@ The most common (≥ 2% of subjects) adverse reaction associated with discontinu
 
 The overall DAYTRANA development program included exposure to DAYTRANA in a total of 2,152 participants in clinical trials, including 1,529 children aged 6-12, 223 adolescents aged 13-17, and 400 adults.
 The 1,752 child and adolescent subjects aged 6-17 years were evaluated in 10 controlled clinical studies, 7 open-label clinical studies, and 5 clinical pharmacology studies.
-In a combined studies pool of children using DAYTRANA with a wear time of 9 hours, 212 subjects were exposed for ≥ 6 months and 115 were exposed for ≥ 1 year; 85 adolescents have been exposed for ≥ 6 months.
+In a combined studies pool of children using DAYTRANA with a wear time of 9 hours, 212 subjects were exposed for ≥ 6 months and 115 were exposed for ≥ 1 year; 85 adolescents were exposed for ≥ 6 months.
 Most patients studied were exposed to DAYTRANA transdermal system sizes of 12.5 cm2, 18.75 cm2, 25 cm2 or 37.5 cm2, with a wear time of 9 hours.
 
 In the data presented below, the adverse reactions reported during exposure were obtained primarily by general inquiry at each visit, and were recorded by the clinical investigators using terminology of their own choosing.
@@ -50,7 +50,7 @@ Commonly Observed Adverse Reactions in Double-Blind, Placebo-Controlled Trials
 Skin Irritation and Application Site Reactions
 
 DAYTRANA is a dermal irritant.
-In addition to the most commonly reported adverse reactions presented in Table 2, the majority of subjects in those studies had minimal to definite skin erythema at the transdermal system application site.
+In addition to the most commonly reported adverse reactions presented in Table 2, the majority of subjects in those studies had minimal to definite skin erythema at the DAYTRANA application site.
 This erythema generally caused no or minimal discomfort and did not usually interfere with therapy or result in discontinuation from treatment.
 Erythema is not by itself a manifestation of contact sensitization.
 However, contact sensitization should be suspected if erythema is accompanied by evidence of a more intense local reaction (edema, papules, vesicles) that does not significantly improve within 48 hours or spreads beyond the transdermal system site [see Warnings and Precautions (5.10)].
@@ -85,7 +85,7 @@ Overall, in these studies, 75.5% of children and 78.6% of adolescents experience
 | Tic | 0 (0) | 0 (0) | 0 (0) | 7 (7.1) |
 | * Six subjects had affect lability, all judged as mild and described as increased emotionally sensitive, emotionality, emotional instability, emotional lability, and intermittent emotional |  |  |  |  |
 
-Adverse Reactions in Clinical Studies with the Long-Term Use of DAYTRANA
+Adverse Reactions in Studies with the Long-Term Use of DAYTRANA
 
 In a long-term open-label study of up to 12 months duration in 326 children wearing DAYTRANA 9 hours daily, the most common (≥ 10%) adverse reactions were decreased appetite, headache, and weight decreased.
 A total of 30 subjects (9.2%) were withdrawn from the study due to adverse events and 22 additional subjects (6.7%) discontinued treatment as the result of an application site reaction.

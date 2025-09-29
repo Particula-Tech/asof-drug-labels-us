@@ -6,7 +6,7 @@ DAYTRANA wear time was 9 hours in all three (3) studies.
 In Study 1, conducted in a classroom setting, symptoms of ADHD were evaluated by school teachers and observers using the Deportment Subscale from the Swanson, Kotkin, Agler, M-Flynn, and Pelham (SKAMP) rating scale which assesses behavior symptoms in the classroom setting.
 DAYTRANA was applied for 9 hours before removal.
 There was a 5-week open-label DAYTRANA dose optimization phase using dosages of 10, 15, 20, and 30 mg / 9 hours, followed by a 2-week randomized, double-blind, placebo-controlled crossover treatment phase using the optimal transdermal system dose for each patient or placebo.
-The mean differences between DAYTRANA and placebo in change from baseline in SKAMP Deportment Scores were statistically significant in favor of DAYTRANA beginning at 2 hours and remained statistically significant at all subsequent measured time points through 12 hours after application of DAYTRANA.
+The mean differences between DAYTRANA and placebo in change from baseline in SKAMP Deportment Scores were statistically significant in favor of DAYTRANA beginning at 2 hours and remained statistically significant at all subsequent measured time points through 12 hours after application of the DAYTRANA.
 
 In Study 2, conducted in the outpatient setting, DAYTRANA or placebo was blindly administered in a flexible-dose design using doses of 10, 15, 20, and 30 mg / 9 hours to achieve an optimal regimen over 5 weeks, followed by a 2-week maintenance period using the optimal transdermal system dose for each patient.
 Symptoms of ADHD were evaluated by the ADHD-Rating Scale (RS)-IV.

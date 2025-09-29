@@ -33,7 +33,7 @@ Animal Data
 
 Animal reproduction toxicity studies with transdermal methylphenidate have not been performed.
 In embryo-fetal development studies conducted in rats and rabbits, methylphenidate was administered orally to pregnant animals during the period of organogenesis, at doses up to 100 and 200 mg/kg/day, respectively.
-No evidence of morphological development effects was found either of the species; however, increased incidences of fetal skeletal variations were observed in rats at 60 mg/kg or greater and an increase in fetal visceral variations was seen in rabbits at the highest dose.
+No evidence of morphological development effects was found in either of the species; however, increased incidences of fetal skeletal variations were observed in rats at 60 mg/kg or greater and an increase in fetal visceral variations was seen in rabbits at the highest dose.
 In a previous study, methylphenidate was shown to have malformations (increased incidence of fetal spina bifida) in rabbits when given oral doses of 200 mg/kg/day.
 When methylphenidate was administered orally to rats throughout pregnancy and lactation at doses of up to 60 mg/kg/day, offspring growth and survival were decreased at maternally toxic doses.
 
@@ -54,8 +54,10 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of DAYTRANA in pediatric patients less than 6 years have not been established.
-Long-term effects of methylphenidate in children have not been well established.
+The safety and effectiveness of DAYTRANA have not been established in pediatric patients below the age of 6 years.
+
+In studies evaluating extended-release methylphenidate products, patients 4 to <6 years of age had higher systemic methylphenidate exposures than those observed in older pediatric patients at the same dosage.
+Pediatric patients 4 to <6 years of age also had a higher incidence of adverse reactions, including weight loss.
 
 The safety and effectiveness of DAYTRANA for the treatment of ADHD have been established in pediatric patients 6 to 17 years.
 
