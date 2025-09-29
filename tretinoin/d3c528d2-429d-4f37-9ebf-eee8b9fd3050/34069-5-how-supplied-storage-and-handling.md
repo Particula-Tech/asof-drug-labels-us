@@ -2,7 +2,7 @@
 
 How Supplied
 
-Tretinoin Gel Microsphereis opaque and white to very pale yellow in color.
+Tretinoin Gel Microsphere is opaque and white to very pale yellow in color.
 
 Tretinoin Gel Microsphere, 0.1%, is supplied in
 
