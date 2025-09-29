@@ -33,6 +33,6 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Made in India
 
-Code No.: AP/DRUGS/103/97
+Code No.: KR/DRUGS/KTK/28/384/2009
 
-MI:22805:10C:R7
+MI/SFF:22805:10C:R1

@@ -8,8 +8,8 @@ Since allergic cross-reactivity has been reported in this class, request informa
 
 Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Gland Pharma Ltd Hyderabad 500 043 India
+Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-Code No.: AP/DRUGS/103/97
+Code No.: KR/DRUGS/KTK/28/384/2009
 
-Revised: 7/2021 PSLEA-019979-03 MI:ROCUIJ:R11
+Revised: 8/2025 50105971 MI/SFF:ROCUIJ:R1
