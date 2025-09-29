@@ -14,6 +14,6 @@ Overdose of CNS stimulants is characterized by the following sympathomimetic eff
 Overdose Management
 
 Consider the possibility of multiple drug ingestion.
-The prolonged release of amphetamine from DEXEDRINE should be considered when treating patients with overdose.
+The pharmacokinetic profile of DEXEDRINE should be considered when treating patients with overdose.
 D-amphetamine is not dialyzable.
 Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.

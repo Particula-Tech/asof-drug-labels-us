@@ -3,7 +3,7 @@
 Amphetamines should be administered at the lowest effective dosage and dosage should be individually adjusted.
 Late evening doses should be avoided because of the resulting insomnia.
 
-Prior to treating patients with DEXEDRINE assess:
+Prior to treating patients with DEXEDRINE, assess:
 
 - for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings].
 - the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome [see Warnings].

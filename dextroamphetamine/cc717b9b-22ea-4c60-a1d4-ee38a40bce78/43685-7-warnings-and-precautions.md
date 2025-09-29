@@ -43,8 +43,10 @@ If such symptoms occur, consideration discontinuing DEXEDRINE.
 
 Long-Term Suppression of Growth in Pediatric Patients
 
+DEXEDRINE is not approved for use and is not recommended in pediatric patients below 6 years of age [see Precautions, Pediatric Use].
+
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients, including DEXEDRINE.
-Closely monitor growth (weight and height) in DEXEDRINE -treated pediatric patients treated with CNS stimulants.
+Closely monitor growth (weight and height) in DEXEDRINE-treated pediatric patients treated with CNS stimulants.
 
 Pediatric patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted [see Precautions, Pediatric Use].
 
@@ -237,11 +239,11 @@ This increase is greatest in the evening.
 
 Amphetamines may interfere with urinary steroid determinations.
 
-Carcinogenesis/Mutagenesis
+## Carcinogenesis/Mutagenesis
 
 Mutagenicity studies and long-term studies in animals to determine the carcinogenic potential of DEXEDRINE have not been performed.
 
-Pregnancy
+## Pregnancy
 
 Teratogenic Effects
 
@@ -255,16 +257,17 @@ Nonteratogenic Effects
 Infants born to mothers dependent on amphetamines have an increased risk of premature delivery and low birth weight.
 Also, these infants may experience symptoms of withdrawal as demonstrated by dysphoria, including agitation, and significant lassitude.
 
-Nursing Mothers
+## Nursing Mothers
 
 Amphetamines are excreted in human milk.
 Mothers taking amphetamines should be advised to refrain from nursing.
 
-Pediatric Use
+## Pediatric Use
 
-Long-term effects of amphetamines in pediatric patients have not been well established.
+The safety and effectiveness of DEXEDRINE have not been established in pediatric patients below the age of 6 years.
 
-DEXEDRINE is not recommended for use in pediatric patients younger than 6 years of age with Attention Deficit Disorder with Hyperactivity described under INDICATIONS AND USAGE.
+In studies evaluating extended-release amphetamine products, patients 4 to <6 years of age had higher systemic amphetamine exposures than those observed in older pediatric patients at the same dosage.
+Pediatric patients 4 to <6 years of age also had a higher incidence of adverse reactions, including weight loss.
 
 Clinical experience suggests that in psychotic children, administration of amphetamines may exacerbate symptoms of behavior disturbance and thought disorder.
 
