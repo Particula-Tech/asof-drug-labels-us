@@ -9,4 +9,4 @@ The following have been reported with fluoxetine overdosage:
 
 Gastrointestinal decontamination with activated charcoal should be considered in patients who present early after a fluoxetine overdose.
 
-Consider contacting a Poison Center (1-800-221-2222) or a medical toxicologist for additional overdosage management recommendations.
+Consider contacting a Poison Center (1-800-222-2222) or a medical toxicologist for additional overdosage management recommendations.

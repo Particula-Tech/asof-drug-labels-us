@@ -67,7 +67,7 @@ Table 3: Most Common Treatment-Emergent Adverse Reactions: Incidence in Major De
 | Urogenital System |  |  |  |  |  |  |  |  |
 | Impotence3 | 2 | -- | -- | -- | 7 | -- | 1 | -- |
 | Abnormal ejaculation3 | -- | -- | 7 | -- | 7 | -- | 2 | 1 |
-| 1 Incidence less than 1%.2 Includes US data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-US data for Panic Disorder clinical trials.3 Denominator used was for males only (N=690 fluoxetine Major Depressive Disorder; N=410 placebo Major Depressive Disorder; N=116 fluoxetine OCD; N=43 placebo OCD; N=14 fluoxetine bulimia; N=1 placebo bulimia; N=162 fluoxetine panic; N=121 placebo panic). |  |  |  |  |  |  |  |  |
+| 1 Incidence less than 1%. 2 Includes US data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-US data for Panic Disorder clinical trials.3 Denominator used was for males only (N=690 fluoxetine Major Depressive Disorder; N=410 placebo Major Depressive Disorder; N=116 fluoxetine OCD; N=43 placebo OCD; N=14 fluoxetine bulimia; N=1 placebo bulimia; N=162 fluoxetine panic; N=121 placebo panic). |  |  |  |  |  |  |  |  |
 
 Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Disorder, OCD, Bulimia, and Panic Disorder Placebo-Controlled Clinical Trials1,2
 
@@ -110,7 +110,7 @@ Table 4: Treatment-Emergent Adverse Reactions: Incidence in Major Depressive Dis
 | Pruritus | 3 | 2 |
 | Special Senses |  |  |
 | Abnormal vision | 2 | 1 |
-| 1 Incidence less than 1%.2 Includes US data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-US data for Panic Disorder clinical trials. |  |  |
+| 1 Incidence less than 1%. 2 Includes US data for Major Depressive Disorder, OCD, Bulimia, and Panic Disorder clinical trials, plus non-US data for Panic Disorder clinical trials. |  |  |
 
 Associated with discontinuation in Major Depressive Disorder, OCD, bulimia, and Panic Disorder placebo-controlled clinical trials (excluding data from extensions of trials) — Table 5 lists the adverse reactions associated with discontinuation of fluoxetine treatment (incidence at least twice that for placebo and at least 1% for fluoxetine in clinical trials collecting only a primary reaction associated with discontinuation) in Major Depressive Disorder, OCD, bulimia, and Panic Disorder clinical trials, plus non-US Panic Disorder clinical trials.
 

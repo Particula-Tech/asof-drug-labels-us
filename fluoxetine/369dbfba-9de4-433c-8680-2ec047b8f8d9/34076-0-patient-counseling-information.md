@@ -99,12 +99,12 @@ Pediatric Use of Fluoxetine and olanzapine in combination — Safety and efficac
 
 Brands listed are the trademarks of their respective owners.
 
-Dispense with Medication Guide available at: www.tevausa.com/medguides
+Manufactured In Czech Republic By:
 
-Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
+Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-AN 9/2023
+AO 9/2025

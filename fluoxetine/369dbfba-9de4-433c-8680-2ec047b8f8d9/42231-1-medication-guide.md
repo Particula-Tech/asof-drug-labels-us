@@ -1,7 +1,5 @@
 # MEDICATION GUIDE
 
-Dispense with Medication Guide available at: www.tevausa.com/medguides
-
 Fluoxetine (floo ox' e teen) Capsules for oral use
 
 Read the Medication Guide that comes with fluoxetine capsules before you start taking them and each time you get a refill.
@@ -315,4 +313,4 @@ Opava-Komarov, Czech Republic
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-N 9/2023
+O 9/2025

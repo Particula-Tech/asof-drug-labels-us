@@ -15,4 +15,4 @@ Protect from light.
 
 Dispense in a tight, light-resistant container as defined in the USP, with a child-resistant closure (as required).
 
-KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
+Keep this and all medications out of the reach of children.
