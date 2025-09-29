@@ -54,8 +54,10 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, insomnia
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of Methylphenidate Transdermal System in pediatric patients less than 6 years have not been established.
-Long-term effects of methylphenidate in children have not been well established.
+The safety and effectiveness of Methylphenidate Transdermal System have not been established in pediatric patients below the age of 6 years.
+
+In studies evaluating extended-release methylphenidate products, patients 4 to <6 years of age had higher systemic methylphenidate exposures than those observed in older pediatric patients at the same dosage.
+Pediatric patients 4 to <6 years of age also had a higher incidence of adverse reactions, including weight loss.
 
 The safety and effectiveness of Methylphenidate Transdermal System for the treatment of ADHD have been established in pediatric patients 6 to 17 years.
 
