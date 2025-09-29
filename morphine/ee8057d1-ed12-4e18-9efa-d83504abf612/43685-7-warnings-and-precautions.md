@@ -11,23 +11,23 @@ Addiction can occur at recommended dosages and if the drug is misused or abused.
 Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing Morphine Sulfate Injection, and monitor all patients receiving morphine sulfate for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
-Patients at increased risk may be prescribed opioids such as Morphine Sulfate Injection, but use in such patients necessitates intensive counseling about the risks and proper use of Morphine Sulfate Injection along with intensive monitoring for signs of addiction, abuse, and misuse.
+Patients at increased risk may be prescribed opioids such as Morphine Sulfate Injection but use in such patients necessitates intensive counseling about the risks and proper use of Morphine Sulfate Injection along with intensive monitoring for signs of addiction, abuse, and misuse.
 
 Opioids are sought for nonmedical use and are subject to diversion from ‎legitimate prescribed use.
 Consider these risks when prescribing or dispensing Morphine Sulfate Injection.
 Strategies to reduce these risks include prescribing the drug in the smallest appropriate quantity.
-Contact local state professional licensing board or state controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
+Contact local state professional licensing board or state-controlled substances authority for information on how to prevent and detect abuse or diversion of this product.
 
 ## 5.2 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
 Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status [see Overdosage (10)].
+Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Morphine Sulfate Injection, the risk is greatest during the initiation of therapy or following a dosage increase.
 Because of a delay in the maximum CNS effect with intravenously administered Morphine Sulfate Injection (30 min), rapid administration may result in overdosing.
 The respiratory depression may be severe and could require intervention [see Overdosage (10)].
-Monitor patients closely for respiratory depression, especially within the first 24–72 hours of initiating therapy with and following dosage increases of Morphine Sulfate Injection.
 
 To reduce the risk of respiratory depression, proper dosing and titration of Morphine Sulfate Injection are essential [see Dosage and Administration (2.3)].
 Overestimating the Morphine Sulfate Injection dosage when converting patients from another opioid product can result in a fatal overdose with the first dose.
@@ -58,7 +58,7 @@ Screen patients for risk of substance use disorders, including opioid abuse and 
 Use of Morphine Sulfate Injection for an extended period of time during pregnancy can result in withdrawal in the neonate.
 Neonatal opioid withdrawal syndrome, unlike opioid withdrawal syndrome in adults, may be life-threatening if not recognized and treated, and requires management according to protocols developed by neonatology experts.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
-Advise pregnant women using opioids for an extended period of the risk of neonatal opioid withdrawal syndrome and ensure that management by neonatology experts will be available at delivery [see Use in Specific Populations (8.1)].
+Advise pregnant women using opioids for an extended period of time of the risk of neonatal opioid withdrawal syndrome and ensure that management by neonatology experts will be available at delivery [see Use in Specific Populations (8.1)].
 
 ## 5.5 Cardiovascular Instability
 

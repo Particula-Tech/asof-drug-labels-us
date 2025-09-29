@@ -40,7 +40,7 @@ Pediatric patients
 
 Patients 1 to less than 17 years old:
 
-Initiate intravenous infusion in patients 1 to less than 17 years old is as follows:
+Initiate intravenous infusion in patients 1 to less than 17 years old as follows:
 
 - •Less than 50 kg body weight: 20 mcg/kg/hour to 30 mcg/kg/hour (0.02 mg/kg/hour to 0.03 mg/kg/hour)
 - •Greater than or equal to 50 kg body weight: 1,500 mcg/hour (1.5 mg/hour)

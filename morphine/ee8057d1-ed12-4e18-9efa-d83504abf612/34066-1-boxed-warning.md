@@ -6,7 +6,7 @@ Because the use of Morphine Sulfate Injection exposes patients and other users t
 
 Life-Threatening Respiratory Depression
 
-Serious, life-threatening, or fatal respiratory depression may occur with use of Morphine Sulfate Injection, especially during initiation or following a dosageincrease.
+Serious, life-threatening, or fatal respiratory depression may occur with use of Morphine Sulfate Injection, especially during initiation or following a dosage increase.
 To reduce the risk of respiratory depression, proper dosing and titration of ‎Morphine Sulfate ‎Injection are essential [see Warnings and Precautions (5.2)].
 
 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
@@ -16,5 +16,5 @@ Reserve concomitant prescribing of Morphine Sulfate Injection and benzodiazepine
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of timein a pregnant woman, advise the patient of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
+If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
 Ensure that management by neonatology expert will be available at delivery [see Warnings and Precautions (5.4)].

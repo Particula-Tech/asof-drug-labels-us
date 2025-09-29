@@ -85,7 +85,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Clinical Considerations
 
-Monitor infants exposed to Morphine Sulfate Injection, through breast milk for excess sedation and respiratory depression.
+Monitor infants exposed to Morphine Sulfate Injection through breast milk for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of morphine is stopped, or when breastfeeding is stopped.
 
 ## 8.3 Females and Males of Reproductive Potential
