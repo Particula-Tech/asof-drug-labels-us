@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA218698"
+  ],
+  "inn": "metoprolol",
+  "labeler": "Advagen Pharma Limited",
+  "package_ndcs": [
+    "72888-197-02",
+    "72888-197-30"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "metoprolol tartrate",
+      "name": "Metoprolol Tartrate"
+    }
+  ],
+  "setid": "d62a972a-bc45-4582-9701-bed27a1a9e4d",
+  "source": "dailymed"
+}
