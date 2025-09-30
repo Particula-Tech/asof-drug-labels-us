@@ -9,9 +9,11 @@ Use of these concomitant therapies did not appear to influence the overall safet
 
 ## 7.2 CYP450 Substrates
 
-The formation of CYP450 enzymes can be altered by increased levels of certain cytokines (e.g., IL-1, IL-6, IL-10, TNFα, IFN) during chronic inflammation.
-Thus, ustekinumab products, antagonists of IL-12 and IL-23, could normalize the formation of CYP450 enzymes.
-Upon initiation of OTULFI in patients who are receiving concomitant CYP450 substrates, particularly those with a narrow therapeutic index, consider monitoring for therapeutic effect (e.g., for warfarin) or drug concentration (e.g., for cyclosporine) and adjust the individual dose of the drug as needed [see Clinical Pharmacology (12.3)].
+The formation of CYP450 enzymes can be suppressed by increased levels of certain cytokines (e.g., IL-1, IL-6, TNFα, IFN) during chronic inflammation.
+Thus, use of ustekinumab products, antagonists of IL-12 and IL-23, could normalize the formation of CYP450 enzymes.
+Upon initiation or discontinuation of OTULFI in patients who are receiving concomitant CYP450 substrates, particularly those with a narrow therapeutic index, consider monitoring for therapeutic effect or drug concentration and adjust the individual dosage of the CYP substrateas needed See the prescribing information of specific CYP substrates.
+
+A CYP-mediated drug interaction effect was not observed in subjects with Crohn’s disease [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Allergen Immunotherapy
 

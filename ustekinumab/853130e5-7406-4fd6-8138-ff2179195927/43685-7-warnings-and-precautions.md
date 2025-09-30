@@ -7,10 +7,10 @@ Serious bacterial, mycobacterial, fungal, and viral infections were observed in 
 
 Serious infections requiring hospitalization, or otherwise clinically significant infections, reported in clinical trials included the following:
 
-- Plaque Psoriasis: diverticulitis, cellulitis, pneumonia, appendicitis, cholecystitis, sepsis, osteomyelitis, viral infections, gastroenteritis and urinary tract infections.
-- Psoriatic arthritis: cholecystitis.
-- Crohn's disease: anal abscess, gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeria meningitis.
-- Ulcerative colitis: gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeriosis.
+- •Plaque Psoriasis: diverticulitis, cellulitis, pneumonia, appendicitis, cholecystitis, sepsis, osteomyelitis, viral infections, gastroenteritis and urinary tract infections.
+- •Psoriatic arthritis: cholecystitis.
+- •Crohn's disease: anal abscess, gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeria meningitis.
+- •Ulcerative colitis: gastroenteritis, ophthalmic herpes zoster, pneumonia, and listeriosis.
 
 Avoid initiating treatment with OTULFI in patients with any clinically important active infection until the infection resolves or is adequately treated.
 Consider the risks and benefits of treatment prior to initiating use of OTULFI in patients with a chronic infection or a history of recurrent infection.

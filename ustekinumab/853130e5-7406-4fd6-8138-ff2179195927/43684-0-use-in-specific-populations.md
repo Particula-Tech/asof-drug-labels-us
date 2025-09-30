@@ -12,7 +12,7 @@ The background risk of major birth defects and miscarriage for the indicated pop
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage of clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-Clinical Considerations
+## Clinical Considerations
 
 Fetal/Neonatal Adverse Reactions
 
@@ -59,8 +59,8 @@ Psoriatic Arthritis
 
 The safety and effectiveness of OTULFI have been established for treatment of psoriatic arthritis in pediatric patients 6 to 17 years old.
 
-Use of OTULFI in these age groups is supported by evidence from adequate and well controlled trials of ustekinumab in adults with psoriasis and PsA, pharmacokinetic data from adult patients with psoriasis, adult patients with PsA and pediatric patients with psoriasis, and safety data of ustekinumab from two clinical trials in 44 pediatric patients 6 to 11 years old with psoriasis and 110 pediatric patients 12 to 17 years old with psoriasis.
-The observed pre-dose (trough) concentrations are generally comparable between adult patients with psoriasis, adult patients with PsA and pediatric patients with psoriasis, and the PK exposure is expected to be comparable between adult and pediatric patients with PsA [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1, 14.2, 14.3)].
+Use of OTULFI in these age groups is supported by evidence from adequate and well controlled trials of ustekinumab in adults with psoriasis and PsA, pharmacokinetic data from adult subjects with psoriasis, adult subjects with PsA and pediatric subjects with psoriasis, and safety data of ustekinumab from two clinical trials in 44 pediatric subjects 6 to 11 years old with psoriasis and 110 pediatric subjects 12 to 17 years old with psoriasis.
+The observed pre-dose (trough) concentrations are generally comparable between adult subjects with psoriasis, adult subjects with PsA and pediatric subjects with psoriasis, and the PK exposure is expected to be comparable between adult and pediatric subjects with PsA [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1, 14.2, 14.3)].
 
 The safety and effectiveness of OTULFI have not been established in pediatric patients less than 6 years old with psoriatic arthritis.
 
@@ -70,5 +70,5 @@ The safety and effectiveness of OTULFI have not been established in pediatric pa
 
 ## 8.5 Geriatric Use
 
-Of the 6709 patients exposed to ustekinumab, a total of 340 were 65 years of age or older (183 patients with plaque psoriasis, 65 patients with psoriatic arthritis, 58 patients with Crohn's disease and 34 patients with ulcerative colitis), and 40 patients were 75 years of age or older.
-Clinical trials of ustekinumab did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger adult patients.
+Of the 6709 subjects exposed to ustekinumab, a total of 340 were 65 years of age or older (183 subjects with plaque psoriasis, 65 subjects with psoriatic arthritis, 58 subjects with Crohn’s disease and 34 subjects with ulcerative colitis), and 40 subjects were 75 years of age or older.
+Clinical trials of ustekinumab did not include sufficient numbers of subjects 65 years of age and older to determine whether they respond differently from younger adult subjects.

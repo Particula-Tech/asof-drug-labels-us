@@ -7,16 +7,20 @@ For Subcutaneous Use
 
 Prefilled Syringes
 
-- 45 mg/0.5 mL (NDC 65219-824-01)
-- 90 mg/mL (NDC 65219-826-26)
+- •45 mg/0.5 mL (NDC 65219-824-01)
+- •90 mg/mL (NDC 65219-826-26)
 
 Each prefilled syringe is equipped with a 29 gauge fixed ½ inch needle, a needle safety guard, and a needle cover that is not made with natural rubber
+
+Single-dose Vial
+
+- •45 mg/0.5 mL (NDC 65219-822-05)
 
 For Intravenous Infusion
 
 Single-dose Vial
 
-- 130 mg/26 mL (5 mg/mL) (NDC 65219-828-05)
+- •130 mg/26 mL (5 mg/mL) (NDC 65219-828-05)
 
 Storage and Stability
 

@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Ustekinumab-aauz, a human IgG1ϰ monoclonal antibody, is a human interleukin-12 and -23 antagonist.
+Ustekinumab-aauz, a human IgG1κ monoclonal antibody, is a human interleukin-12 and -23 antagonist.
 Using DNA recombinant technology, ustekinumab-aauz is produced in a Chinese hamster ovary (CHO) cell line.
 The manufacturing process contains steps for the clearance of viruses.
 Ustekinumab-aauz is comprised of 1326 amino acids and has an estimated molecular mass that ranges from 148,079 to 149,690 Daltons.
@@ -9,10 +9,10 @@ OTULFI (ustekinumab-aauz) injection is a sterile, preservative-free, clear to sl
 
 OTULFI for Subcutaneous Use
 
-Available as 45 mg of ustekinumab-aauz in 0.5 mL and 90 mg of ustekinumab-aauz in 1 mL, supplied as a sterile solution in a single-dose prefilled syringe with a 29 gauge fixed ½ inch needle.
+Available as 45 mg of ustekinumab-aauz in 0.5 mL and 90 mg of ustekinumab-aauz in 1 mL, supplied as a sterile solution in a single-dose prefilled syringe with a 29 gauge fixed ½ inch needle and as 45 mg of ustekinumab in 0.5 mL in a single-dose 3 mL Type I glass with a coated stopper.
 The syringe is fitted with a passive needle guard and a needle cover that is not made with natural rubber (latex).
 
-Each 0.5 mL prefilled syringe delivers 45 mg ustekinumab-aauz, histidine (0.512 mg), Polysorbate 80 (0.02 mg), sucrose (38 mg) and hydrochloric acid (to adjust pH).
+Each 0.5 mL prefilled syringe or vial delivers 45 mg ustekinumab-aauz, histidine (0.512 mg), Polysorbate 80 (0.02 mg), sucrose (38 mg) and hydrochloric acid (to adjust pH).
 
 Each 1 mL prefilled syringe delivers 90 mg ustekinumab-aauz, histidine (1.024 mg), Polysorbate 80 (0.04 mg), sucrose (76 mg) and hydrochloric acid (to adjust pH).
 
