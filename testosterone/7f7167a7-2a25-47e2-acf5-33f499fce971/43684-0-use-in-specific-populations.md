@@ -4,9 +4,11 @@
 
 ## 8.1 Pregnancy
 
+-
+
 Risk Summary
 
-KYZATREX™ is contraindicated in pregnant women and not indicated for use in females [see Contraindications (4)].
+KYZATREX® is contraindicated in pregnant women and not indicated for use in females [see Contraindications (4)].
 Testosterone is teratogenic and may cause fetal harm when administered to a pregnant woman based on data from animal studies (see Data) and its mechanism of action [see Clinical Pharmacology (12.1)].
 Exposure of a female fetus to androgens may result in varying degrees of virilization.
 In animal developmental studies, exposure to testosterone in utero resulted in hormonal and behavioral changes in offspring and structural impairments of reproductive tissues in female and male offspring.
@@ -27,9 +29,11 @@ Hypertension was observed in pregnant female rats and their offspring exposed to
 
 ## 8.2 Lactation
 
+-
+
 Risk Summary
 
-KYZATREX™ is not indicated for use in females.
+KYZATREX® is not indicated for use in females.
 
 ## 8.3 Females and Males of Reproductive Potential
 
@@ -39,20 +43,20 @@ Infertility
 
 Males
 
-During treatment with large doses of exogenous androgens, including KYZATREX™, spermatogenesis may be suppressed through feedback inhibition of the hypothalamicpituitary-testicular axis [see[See Warnings and Precautions (5.7) and Impairment of Fertility (13.1)], possibly leading to adverse effects on semen parameters including sperm count.
+During treatment with large doses of exogenous androgens, including KYZATREX®, spermatogenesis may be suppressed through feedback inhibition of the hypothalamicpituitary-testicular axis [see[See Warnings and Precautions (5.7) and Impairment of Fertility (13.1)], possibly leading to adverse effects on semen parameters including sperm count.
 Reduced fertility has been observed in some men taking testosterone replacement therapy.
 Testicular atrophy, subfertility, and infertility have also been reported in men who abuse anabolic androgenic steroids [see Drug Abuse and Dependence (9.2)].
 With either type of use, the impact on fertility may be irreversible.
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of KYZATREX™ in pediatric patients less than 18 years old have not been established.
-KYZATREX™ is not recommended for use in patients less than 18 years of age because of the potential for acceleration of bone age and premature closure of epiphyses.
+The safety and efficacy of KYZATREX® in pediatric patients less than 18 years old have not been established.
+KYZATREX® is not recommended for use in patients less than 18 years of age because of the potential for acceleration of bone age and premature closure of epiphyses.
 
 ## 8.5 Geriatric Use
 
-Clinical studies of KYZATREX™ did not include any patients 65 years of age and older.
+Clinical studies of KYZATREX® did not include any patients 65 years of age and older.
 Therefore, it cannot be determined whether these patients respond differently from younger adult patients.
 Additionally, there are insufficient long-term safety data in geriatric patients to assess the potentially increased risk of cardiovascular disease and prostate cancer.
 
-Geriatric patients treated with androgens including KYZATREX™ may be at risk for worsening of signs and symptoms of BPH [see (see Warnings and Precautions (5.3)].
+Geriatric patients treated with androgens including KYZATREX® may be at risk for worsening of signs and symptoms of BPH [see (see Warnings and Precautions (5.3)].

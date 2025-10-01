@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-KYZATREX™ capsules are available in three strengths of 100 mg, 150 mg, and 200 mg packaged as 60, 90 and 120 units in wide-mouth, round, white HDPE bottles with white, polypropylene, child resistant caps and induction-sealed liner
+KYZATREX® capsules are available in three strengths of 100 mg, 150 mg, and 200 mg packaged as 60, 90 and 120 units in wide-mouth, round, white HDPE bottles with white, polypropylene, child resistant caps and induction-sealed liner
 
 100 mg: Oval, opaque, white capsules imprinted with "MP100" in red ink supplied in bottles; NDC 80603-101-11 for 90 capsules and NDC 80603-101-22 for 120 capsules.
 
@@ -11,5 +11,5 @@ KYZATREX™ capsules are available in three strengths of 100 mg, 150 mg, and 200
 Store at 20°C to 25°C (68°F to 77°F), with excursions permitted between 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 Store the capsules in a dry place avoiding exposure to excessive moisture and humid conditions.
 
-Dispose of unused KYZATREX™ via a take-back option.
+Dispose of unused KYZATREX® via a take-back option.
 If a take-back option is unavailable, follow FDA instructions at www.fda.gov/drugdisposal.

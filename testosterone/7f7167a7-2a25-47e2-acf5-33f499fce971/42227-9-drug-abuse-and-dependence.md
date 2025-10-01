@@ -1,8 +1,10 @@
 # 9 DRUG ABUSE AND DEPENDENCE
 
+-
+
 ## 9.1 Controlled Substance
 
-KYZATREX™ contains testosterone undecanoate, a Schedule III controlled substance
+KYZATREX® contains testosterone undecanoate, a Schedule III controlled substance
 
 ## 9.2 Abuse
 

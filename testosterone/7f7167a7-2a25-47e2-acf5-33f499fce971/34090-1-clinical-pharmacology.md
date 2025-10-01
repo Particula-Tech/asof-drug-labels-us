@@ -1,5 +1,7 @@
 # 12 CLINICAL PHARMACOLOGY
 
+-
+
 ## 12.1 Mechanism of Action
 
 Endogenous androgens, including testosterone and dihydrotestosterone (DHT), are responsible for the normal growth and development of the male sex organs and for maintenance of secondary sex characteristics.
@@ -14,16 +16,18 @@ There is insufficient data to characterize an exposure-response relationship or 
 
 ## 12.3 Pharmacokinetics
 
+-
+
 Absorption
 
-KYZATREX™ was taken orally at a starting dose of 200 mg twice per day with meals in a multicenter, open-label trial in hypogonadal males.
+KYZATREX® was taken orally at a starting dose of 200 mg twice per day with meals in a multicenter, open-label trial in hypogonadal males.
 The dose was adjusted, as needed, on Days 28 and 56 from a minimum dose of 100 mg (morning-only) to a maximum dose of 400 mg twice per day based on the plasma testosterone concentration obtained by a single blood draw collected 3 to 5 hours after the morning dose.
 The average daily NaF/EDTA plasma testosterone concentration was 393.3 (±113.6) ng/dL after 90 days of treatment (normal eugonadal range in NaF/EDTA plasma: 222-800 ng/dL.
 Note that the titration scheme for use in clinical practice is based on serum total testosterone [see Dosage and Administration (2.2)].
 
-KYZATREX™ is expected to produce testosterone concentrations that approximate normal concentrations seen in healthy men.
+KYZATREX® is expected to produce testosterone concentrations that approximate normal concentrations seen in healthy men.
 
-Table 5 summarizes the pharmacokinetic (PK) parameters for plasma total testosterone in patients completing at least 90 days of KYZATREX™ treatment administered daily.
+Table 5 summarizes the pharmacokinetic (PK) parameters for plasma total testosterone in patients completing at least 90 days of KYZATREX® treatment administered daily.
 
 Table 5: NaF-EDTA Plasma Testosterone C avg and C max at Day 90 Visit
 
@@ -39,15 +43,15 @@ Table 5: NaF-EDTA Plasma Testosterone C avg and C max at Day 90 Visit
 
 Figure 2 summarizes the mean plasma total testosterone profile at the final PK visit.
 
-Figure 2: Mean (±SEM) Concentration-Time Profile for NaF-EDTA Plasma Total Testosterone in KYZATREX™-Treated Patients at Day 90 Visit
+Figure 2: Mean (±SEM) Concentration-Time Profile for NaF-EDTA Plasma Total Testosterone in KYZATREX®-Treated Patients at Day 90 Visit
 
 | SEM = standard error of the mean Testosterone normal ranges: plasma = 222-800 ng/dL |
 | --- |
 
-When KYZATREX™ was given with breakfast containing 16%, 33%, and 45% fat, the exposure (AUC 0-24 hr) of testosterone was increased by 37%, 87%, and 94%, respectively, compared to when given under fasted conditions.
+When KYZATREX® was given with breakfast containing 16%, 33%, and 45% fat, the exposure (AUC 0-24 hr) of testosterone was increased by 37%, 87%, and 94%, respectively, compared to when given under fasted conditions.
 The primary efficacy and safety study was conducted under fed conditions regardless of the type of meals and the primary efficacy endpoint of achieving testosterone C avg in normal testosterone range was met.
 
-There was no effect on testosterone PK when KYZATREX™ was administered with 20% alcohol along with a high-fat meal versus a high-fat meal alone.
+There was no effect on testosterone PK when KYZATREX® was administered with 20% alcohol along with a high-fat meal versus a high-fat meal alone.
 
 Distribution
 
