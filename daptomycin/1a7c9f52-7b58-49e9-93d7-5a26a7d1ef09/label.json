@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA206005"
+  ],
+  "inn": "daptomycin",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9444-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION",
+      "generic": "daptomycin",
+      "name": "Daptomycin"
+    }
+  ],
+  "setid": "1a7c9f52-7b58-49e9-93d7-5a26a7d1ef09",
+  "source": "dailymed"
+}
