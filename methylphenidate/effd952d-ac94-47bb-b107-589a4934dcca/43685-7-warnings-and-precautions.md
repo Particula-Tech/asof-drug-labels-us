@@ -61,6 +61,8 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 
 ## 5.7 Long-Term Suppression of Growth in Pediatric Patients
 
+Ritalin LA is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
+
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
 Careful follow-up of weight and height in pediatric patients ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly
