@@ -6,4 +6,8 @@ Photophobia and blurred vision due to pupil unresponsiveness and cycloplegia may
 
 ## 5.2 Elevation of Blood Pressure
 
-Elevation in blood pressure from systemic absorption has been reported following conjunctival instillation of recommended doses of atropine sulfate ophthalmic solution, 1%.
+Elevations in blood pressure from systemic absorption has been reported following conjunctival instillation of recommended doses of atropine sulfate ophthalmic solution, 1%.
+
+## 5.3 Risk of Contamination
+
+Do not touch the dropper tip to the eye, eyelids, or any other surface as this may contaminate the solution.

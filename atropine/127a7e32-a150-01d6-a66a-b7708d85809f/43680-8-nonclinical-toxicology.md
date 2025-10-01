@@ -2,5 +2,14 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-Atropine sulfate was negative in the Salmonella/microsome mutagenicity test.
-Studies to evaluate carcinogenicity and impairment of fertility have not been conducted.
+Carcinogenesis
+
+Long term studies in animals have not been performed to evaluate the carcinogenic potential of atropine sulfate.
+
+Mutagenesis
+
+Atropine sulfate was negative in the salmonella/microsome mutagenicity test.
+
+Impairment of Fertility
+
+Studies to evaluate impairment of fertility have not been conducted.

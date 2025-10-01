@@ -14,7 +14,7 @@ Cycloplegia results in loss of the ability to accommodate such that the eye cann
 
 ## 12.2 Pharmacodynamics
 
-The onset of action after administration of atropine sulfate ophthalmic solution, USP 1%, is usually within 40 minutes with maximal effect being reached in about 2 hours.
+The onset of action after administration of atropine sulfate ophthalmic solution 1%, is usually within 40 minutes with maximal effect being reached in about 2 hours.
 The effect can last for up to 2 weeks in a normal eye.
 
 ## 12.3 Pharmacokinetics
@@ -31,8 +31,7 @@ Terminal half-life of l-hyoscamine was not affected by route of administration a
 In another placebo-controlled study, the systemic exposure to l-hyoscyamine, and the anti-cholinergic effects of atropine were investigated in eight ocular surgery patients 56 to 66 years of age, following single topical ocular 0.4 mg atropine dose (given as 40 microliters of atropine sulfate ophthalmic solution, 1%).
 The mean (± standard deviation (SD)) Cmax of l-hyoscyamine in these patients was 860 ± 402 pg/mL, achieved within 8 minutes of eyedrop instillation.
 
-Following intravenous administration, the mean (± SD) elimination half-life (t1/2) of atropine was reported to be longer in pediatric subjects under 2 years (6.9 ± 3.3 hours) and in geriatric patients 65 to 75 years (10 ± 7.3 hours), compared to in children over 2 years (2.5 ± 1.2 hours) and in adults 16 to 58 years (3 ± 0.9 hours).
-(see 8.4 Pediatric Use).
+Following intravenous administration, the mean (± SD) elimination half-life (t1/2) of atropine was reported to be longer in pediatric subjects under 2 years (6.9 ± 3.3 hours) and in geriatric patients 65 to 75 years (10 ± 7.3 hours), compared to in children over 2 years (2.5 ± 1.2 hours) and in adults 16 to 58 years (3 ± 0.9 hours) [see Use in Specific Populations (8.4)].
 
 Atropine is destroyed by enzymatic hydrolysis, particularly in the liver; from 13 to 50% is excreted unchanged in the urine.
 Traces are found in various secretions, including milk.

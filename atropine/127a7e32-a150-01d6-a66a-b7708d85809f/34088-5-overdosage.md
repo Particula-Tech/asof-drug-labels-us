@@ -1,6 +1,6 @@
 # 10. OVERDOSAGE
 
-In the event of accidental ingestion or toxic overdosage with atropine sulfate ophthalmic solution supportive care may include a short acting barbiturate or diazepam as needed to control marked excitement and convulsions.
+In the event of accidental ingestion or toxic overdosage with atropine sulfate ophthalmic solution, supportive care may include a short acting barbiturate or diazepam as needed to control marked excitement and convulsions.
 Large doses for sedation should be avoided because central depressant action may coincide with the depression occurring late in atropine poisoning.
 Central stimulants are not recommended.
 
@@ -11,4 +11,4 @@ Artificial respiration with oxygen may be necessary.
 Cooling measures may be needed to help to reduce fever, especially in pediatric populations.
 
 The fatal adult dose of atropine is not known.
-In pediatric populations, 10 mg or less may be fatal.
+In pediatric patients, 10 mg or less may be fatal.

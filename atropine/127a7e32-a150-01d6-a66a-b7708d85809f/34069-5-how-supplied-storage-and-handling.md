@@ -13,3 +13,4 @@ NDC 60505-6226-2 15 mL bottle
 
 Storage: Store at 20°C to 25°C (68°F to 77°F) [see USP Controlled Room Temperature].
 Keep tightly closed.
+After opening, atropine sulfate ophthalmic solution can be used until the expiration date on the bottle.
