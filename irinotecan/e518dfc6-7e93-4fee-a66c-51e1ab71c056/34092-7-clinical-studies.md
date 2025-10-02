@@ -70,7 +70,8 @@ The initial dose in Study 5 was 125 mg/m2 but was reduced to 100 mg/m2 because t
 All patients in these studies had metastatic colorectal cancer, and the majority had disease that recurred or progressed following a 5-FU-based regimen administered for metastatic disease.
 The results of the individual studies are shown in Table 11.
 
-Table 11.Weekly Dosage Schedule: Study Results
+Table 11.
+Weekly Dosage Schedule: Study Results
 
 | 3 | 4 | 5 |  |  |
 | --- | --- | --- | --- | --- |
@@ -164,11 +165,12 @@ Because of the inclusion of patients with non-measurable disease, intent-to-trea
 | Figure 4. Survival Second-Line Irinotecan vs Infusion 5-FU Study 8 |
 | --- |
 
-Table 12.Once-Every-3-Week Dosage Schedule: Study Results
+Table 12.
+Once-Every-3-Week Dosage Schedule: Study Results
 
-| Irinotecan | BSCBSC = best supportive care | Irinotecan | 5-FU |  |
-| --- | --- | --- | --- | --- |
 |  | Study 7 |  | Study 8 |  |
+| --- | --- | --- | --- | --- |
+| Irinotecan | BSCBSC = best supportive care | Irinotecan | 5-FU |  |
 | Number of patients | 189 | 90 | 127 | 129 |
 | Demographics and treatment administration |  |  |  |  |
 | Female/Male (%) | 32/68 | 42/58 | 43/57 | 35/65 |
@@ -200,7 +202,8 @@ Patients receiving irinotecan reported significantly better results for the glob
 As expected, patients receiving irinotecan noted significantly more diarrhea than those receiving best supportive care.
 In Study 8, the multivariate analysis on all 15 subscales did not indicate a statistically significant difference between irinotecan and infusional 5-FU.
 
-Table 13.EORTC QLQ-C30: Mean Worst Post-Baseline ScoreFor the five functional subscales and global health status subscale, higher scores imply better functioning, whereas, on the nine symptom subscales, higher scores imply more severe symptoms.
+Table 13.
+EORTC QLQ-C30: Mean Worst Post-Baseline ScoreFor the five functional subscales and global health status subscale, higher scores imply better functioning, whereas, on the nine symptom subscales, higher scores imply more severe symptoms.
 The subscale scores of each patient were collected at each visit until the patient dropped out of the study.
 
 | Irinotecan | BSC | p-value | Irinotecan | 5-FU | p-value |  |

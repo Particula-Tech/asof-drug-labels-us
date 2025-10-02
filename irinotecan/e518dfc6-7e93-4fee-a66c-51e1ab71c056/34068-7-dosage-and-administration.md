@@ -40,9 +40,9 @@ All dose modifications should be based on the worst preceding toxicity.
 Table 2.
 Recommended Dose Modifications for CAMPTOSAR/5-Fluorouracil (5-FU)/Leucovorin (LV) Combination Schedules
 
-| Toxicity NCI CTC GradeNational Cancer Institute Common Toxicity Criteria (version 1.0) (Value) | During a Cycle of Therapy | At the Start of Subsequent Cycles of TherapyRelative to the starting dose used in the previous cycle |
-| --- | --- | --- |
 | Patients should return to pre-treatment bowel function without requiring antidiarrhea medications for at least 24 hours before the next chemotherapy administration. A new cycle of therapy should not begin until the granulocyte count has recovered to ≥1500/mm3, and the platelet count has recovered to ≥100,000/mm3, and treatment-related diarrhea is fully resolved. Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities. If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing therapy. |  |  |
+| --- | --- | --- |
+| Toxicity NCI CTC GradeNational Cancer Institute Common Toxicity Criteria (version 1.0) (Value) | During a Cycle of Therapy | At the Start of Subsequent Cycles of TherapyRelative to the starting dose used in the previous cycle |
 | No toxicity | Maintain dose level | Maintain dose level |
 | Neutropenia |  |  |
 | 1 (1500 to 1999/mm3) | Maintain dose level | Maintain dose level |
@@ -92,10 +92,10 @@ All dose modifications should be based on the worst preceding toxicity.
 Table 4.
 Recommended Dose Modifications For Single-Agent SchedulesAll dose modifications should be based on the worst preceding toxicity
 
-|  | Weekly | Weekly | Once Every 3 Weeks |
-| --- | --- | --- | --- |
 | A new cycle of therapy should not begin until the granulocyte count has recovered to ≥1500/mm3, and the platelet count has recovered to ≥100,000/mm3, and treatment-related diarrhea is fully resolved. Treatment should be delayed 1 to 2 weeks to allow for recovery from treatment-related toxicities. If the patient has not recovered after a 2-week delay, consideration should be given to discontinuing CAMPTOSAR. |  |  |  |
+| --- | --- | --- | --- |
 | Worst Toxicity NCI GradeNational Cancer Institute Common Toxicity Criteria (version 1.0) (Value) | During a Cycle of Therapy | At the Start of the Next Cycles of Therapy (After Adequate Recovery), Compared with the Starting Dose in the Previous Cycle |  |
+|  | Weekly | Weekly | Once Every 3 Weeks |
 | No toxicity | Maintain dose level | ↑ 25 mg/m2 up to a maximum dose of 150 mg/m2 | Maintain dose level |
 | Neutropenia |  |  |  |
 | 1 (1500 to 1999/mm3) | Maintain dose level | Maintain dose level | Maintain dose level |
