@@ -1,16 +1,15 @@
 # Patient Information
 
-ZOLMITRIPTAN (ZOLE-mi-TRIP-tan)
-
-ORALLY DISINTEGRATING TABLETS, USP
+ZOLMITRIPTAN (ZOLE-mi-TRIP-tan) ORALLY DISINTEGRATING TABLETS, USP
 
 Please read this information before you start taking zolmitriptan orally disintegrating tablets and each time you renew your prescription just in case anything has changed.
 Remember, this summary does not take the place of discussions with your doctor.
 You and your doctor should discuss zolmitriptan orally disintegrating tablets when you start taking your medication and at regular checkups.
 
-What is zolmitriptan orally disintegrating tablets ?
-Zolmitriptan orally disintegrating tablets are a prescription medication used to treat migraine headaches in adults.
-Zolmitriptan orally disintegrating tablets are not for other types of headaches.The safety and efficacy of zolmitriptan orally disintegrating tablets in patients under 18 have not been established.
+What are zolmitriptan orally disintegrating tablets?
+Zolmitriptan orally disintegrating tablets are prescription medication used to treat migraine headaches in adults.
+Zolmitriptan orally disintegrating tablets are not for other types of headaches.
+The safety and efficacy of zolmitriptan orally disintegrating tablets in patients under 18 have not been established.
 What is a Migraine Headache?
 Migraine is an intense, throbbing headache.
 You may have pain on one or both sides of your head.
@@ -18,12 +17,12 @@ You may have nausea and vomiting, and be sensitive to light and noise.
 The pain and symptoms of a migraine headache can be worse than a common headache.
 Some women get migraines around the time of their menstrual period.
 Some people have visual symptoms before the headache, such as flashing lights or wavy lines, called an aura.
-How does zolmitriptan orally disintegrating tablets work ?
+How does zolmitriptan orally disintegrating tablets work?
 Treatment with zolmitriptan orally disintegrating tablets reduces swelling of blood vessels surrounding the brain.
 This swelling is associated with the headache pain of a migraine attack.
 Zolmitriptan orally disintegrating tablets blocks the release of substances from nerve endings that cause more pain and other symptoms like nausea, and sensitivity to light and sound.
 It is thought that these actions contribute to relief of your symptoms by zolmitriptan orally disintegrating tablets.
-Who should not take zolmitriptan orally disintegrating tablets ?
+Who should not take zolmitriptan orally disintegrating tablets?
 Do not take zolmitriptan orally disintegrating tablets if you:
 
 - Have heart disease or a history of heart disease
@@ -49,7 +48,7 @@ Tell your doctor if you know that you have any of the following: risk factors fo
 Tell your doctor if you are pregnant or plan to become pregnant.
 It is not known if zolmitriptan will harm your unborn baby.
 
-Tell your doctor if you are breastfeeding or plan to breastfeed.
+Tell your doctor if you are breast feeding or plan to breast feed.
 It is not known if zolmitriptan passes into your breast milk.
 Talk to your doctor about the best way to feed your baby while using zolmitriptan orally disintegrating tablets.
 How should I take zolmitriptan orally disintegrating tablets?
@@ -61,18 +60,18 @@ How should I take zolmitriptan orally disintegrating tablets?
 - Take zolmitriptan orally disintegrating tablets whole.
 - Place zolmitriptan orally disintegrating tablets on your tongue, where it will dissolve.
 - Safely throw away any unused tablets or pieces of tablets that have been removed from the blister packaging.
-- If your headache comes back after your first dose, you may take a second dose anytime after 2 hours of taking the first dose.
+- If your headache comes back after your first dose, you may take a second dose any time after 2 hours of taking the first dose.
   For any attack where the first dose did not work, do not take a second dose without talking with your doctor.
   Do not take more than a total of 10 mg of zolmitriptan (tablets or spray combined) in any 24 hour period.
   If you take too much medicine, contact your doctor, hospital emergency department, or poison control center right away.
 
-What are the possible side effects of zolmitriptan orally disintegrating tablets ?
+What are the possible side effects of zolmitriptan orally disintegrating tablets?
 Zolmitriptan orally disintegrating tablets are generally well tolerated.
 As with any medicine, people taking zolmitriptan orally disintegrating tablets may have side effects.
 The side effects are usually mild and do not last long.
 The most common side effects of zolmitriptan orally disintegrating tablets are:
 
-- Pain, pressure or tightness in the neck, throat or jaw
+- pain, pressure or tightness in the neck, throat or jaw
 - dizziness
 - tingling or other abnormal sensations
 - tiredness
@@ -110,10 +109,12 @@ If you would like more information about zolmitriptan orally disintegrating tabl
 You can ask your doctor or pharmacist for information on zolmitriptan orally disintegrating tablets that is written for healthcare professionals.
 For more information, contact Jubilant Cadista Pharmaceuticals Inc. at 1-800-313-4623.
 
-What are the Ingredients in Zolmitriptan Orally Disintegrating Tablets ?
-Active ingredient: zolmitriptan,USP Inactive ingredients: acesulfame potassium, aminomethacrylate copolymer, colloidal silicon dioxide, crospovidone, low-substituted hydroxypropyl cellulose, magnesium aluminometasilicate, magnesium stearate, mannitol, peppermint flavor, sodium lauryl sulfate and talc.
+What are the ingredients in zolmitriptan orally disintegrating tablets?
+Active ingredient: Zolmitriptan, USP Inactive ingredients: magnesium aluminometasilicate, colloidal silicon dioxide, sodium lauryl sulfate, low-substituted hydroxypropyl cellulose, aminomethacrylate copolymer, talc, mannitol, crospovidone, acesulfame potassium, magnesium stearate and peppermint flavor.
 Store zolmitriptan orally disintegrating tablets at 20°C-25°C (68°F-77°F), excursions permitted to 15°C-30°C (59°F-86°F) [See USP Controlled Room Temperature] and away from children.
 Protect from light and moisture.
 Discard when expired.
 All brands mentioned are trademarks of their respective owners and are not trademarks of Jubilant Generics Limited.
-Rx Only Manufactured by: Jubilant Generics Limited Roorkee - 247661, India Marketed by: Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067, USA Revised: 12/2024
+Rx Only
+
+Made in India Marketed by: Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067, USA Revised: 09/2025

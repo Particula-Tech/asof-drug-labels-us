@@ -3,12 +3,12 @@
 ## 7.1 Ergot-containing Drugs
 
 Ergot-containing drugs have been reported to cause prolonged vasospastic reactions.
-Because these effects may be additive, use of ergotamine-containing or ergot-type medications (like dihydroergotamine or methysergide) and zolmitriptan within 24 hours of each other is contraindicated [see Contraindications (4)].
+Because these effects may be additive, use of ergotamine containing or ergot-type medications (like dihydroergotamine or methysergide) and zolmitriptan within 24 hours of each other is contraindicated [see Contraindications (4)].
 
 ## 7.2 MAO-A Inhibitors
 
 MAO-A inhibitors increase the systemic exposure of zolmitriptan and its active N-desmethyl metabolite.
-Therefore, the use of zolmitriptan in patients receiving MAO-A inhibitors is contraindicated [see Contraindications (4)and Clinical Pharmacology (12.3)].
+Therefore, the use of zolmitriptan in patients receiving MAO-A inhibitors is contraindicated [see Contraindications (4), Clinical Pharmacology (12.3)].
 
 ## 7.3 5-HT1B/1D agonists
 
@@ -21,4 +21,4 @@ Cases of life-threatening serotonin syndrome have been reported during co-admini
 ## 7.5 Cimetidine
 
 Following administration of cimetidine, the half-life and blood levels of zolmitriptan and its active N-desmethyl metabolite were approximately doubled [see Clinical Pharmacology (12.3)].
-If cimetidine and zolmitriptan are used concomitantly, limit the maximum single dose of zolmitriptan to 2.5 mg, not to exceed 5 mg in any 24-hour period [see Dosage and Administration, (2.4)and Clinical Pharmacology (12.3)].
+If cimetidine and zolmitriptan are used concomitantly, limit the maximum single dose of zolmitriptan to 2.5 mg, not to exceed 5 mg in any 24-hour period [see Dosage and Administration (2.4), Clinical Pharmacology (12.3)].

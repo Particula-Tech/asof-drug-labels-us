@@ -26,7 +26,7 @@ The no-effect dose for adverse effects on embryofetal development was associated
 When female rats were given zolmitriptan during gestation, parturition, and lactation at oral doses of 25, 100, and 400 mg/kg/day (plasma AUCs ≈70, 280, and 1100 times that in human at the MRHD), an increased incidence of hydronephrosis was found in the offspring.
 The no-effect dose was associated with a plasma AUC ≈280 times that in humans at the MRHD.
 
-## 8.2 Lactaton
+## 8.2 Lactation
 
 Risk Summary
 
@@ -56,4 +56,4 @@ The pharmacokinetics of zolmitriptan were similar in geriatric patients (aged > 
 ## 8.6 Patients with Hepatic Impairment
 
 After oral zolmitriptan administration, zolmitriptan blood levels were increased in patients with moderate to severe hepatic impairment, and significant elevation in blood pressure was observed in some of these patients [see Warnings and Precautions (5.8)].
-Therefore, adjust the zolmitriptan dose and administer with caution in patients with moderate or severe hepatic impairment [seeDosage and Administration (2.3)and Clinical Pharmacology (12)].
+Therefore, adjust the zolmitriptan dose and administer with caution in patients with moderate or severe hepatic impairment [see Dosage and Administration (2.3), Clinical Pharmacology (12)].

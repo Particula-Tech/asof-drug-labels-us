@@ -16,11 +16,11 @@ The following adverse reactions are described elsewhere in other sections of the
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 In a long-term, open-label study where patients were allowed to treat multiple migraine attacks for up to 1 year, 8% (167 out of 2,058) withdrew from the trial because of adverse reaction.
 The most common adverse reactions (≥ 5% and > placebo) in these trials were neck/throat/jaw pain, dizziness, paresthesia, asthenia, somnolence, warm/cold sensation, nausea, heaviness sensation, and dry mouth.
-Table 1 lists the adverse reactions that occurred in ≥ 2% of the 2,074 patients in any one of the zolmitriptan 1 mg, 2.5 mg, or 5 mg dose groups in the controlled clinical trials of zolmitriptan in patients with migraines (Studies 1, 2, 3, 4, and 5) [seeClinical Studies (14)].
+Table 1 lists the adverse reactions that occurred in ≥ 2% of the 2,074 patients in any one of the zolmitriptan 1 mg, 2.5 mg, or 5 mg dose groups in the controlled clinical trials of zolmitriptan in patients with migraines (Studies 1, 2, 3, 4, and 5) [see Clinical Studies (14)].
 Only adverse reactions that were at least 2% more frequent in a zolmitriptan group compared to the placebo group are included.
 Several of the adverse reactions appear dose related, notably paresthesia, sensation of heaviness or tightness in chest, neck, jaw, and throat, dizziness, somnolence and possibly asthenia and nausea.
 
-Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine Clinical Trials1
+Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine Clinical Trials*
 
 |  | Placebo (n=401) | Zolmitriptan 1 mg (n=163) | Zolmitriptan 2.5 mg (n=498) | Zolmitriptan 5 mg (n=1012) |
 | --- | --- | --- | --- | --- |
@@ -31,7 +31,7 @@ Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine C
 | Chest - pain/tightness/pressure and/or heaviness | 1% | 2% | 3% | 4% |
 | Neck/throat/jaw - pain/tightness/pressure | 3% | 4% | 7% | 10% |
 | Heaviness other than chest or neck | 1% | 1% | 2% | 5% |
-| Other- Pressure/tightness/heaviness | 0 | 2% | 2% | 2% |
+| Other- Pressure/tightness/heaviness | 0% | 2% | 2% | 2% |
 | DIGESTIVE | 8% | 11% | 16% | 14% |
 | Dry mouth | 2% | 5% | 3% | 3% |
 | Dyspepsia | 1% | 3% | 2% | 1% |
@@ -45,7 +45,7 @@ Table 1: Adverse Reaction Incidence in Five Pooled Placebo-Controlled Migraine C
 | Asthenia | 3% | 5% | 3% | 9% |
 | Sweating | 1% | 0% | 2% | 3% |
 
-1 Only adverse reactions that were at least 2% more frequent in a zolmitriptan group compared to the placebo group are included.
+* Only adverse reactions that were at least 2% more frequent in a zolmitriptan group compared to the placebo group are included.
 
 There were no differences in the incidence of adverse reactions in controlled clinical trials in the following subgroups: gender, weight, age, use of prophylactic medications, or presence of aura.
 There were insufficient data to assess the impact of race on the incidence of adverse reactions.

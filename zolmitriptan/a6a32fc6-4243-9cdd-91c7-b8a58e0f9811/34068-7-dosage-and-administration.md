@@ -22,10 +22,10 @@ Subsequently, instruct patients to peel the blister pack open, and to place the 
 
 ## 2.3 Dosing in Patients with Hepatic Impairment
 
-The recommended dose of zolmitriptan in patients with moderate to severe hepatic impairment is 1.25 mg (one-half of one 2.5 mg zolmitriptan tablet) because of increased zolmitriptan blood levels in these patients and elevation of blood pressure in some of these patients.
+The recommended dose of zolmitriptan orally disintegrating tablets in patients with moderate to severe hepatic impairment is 1.25 mg (one-half of one 2.5 mg zolmitriptan tablet) because of increased zolmitriptan blood levels in these patients and elevation of blood pressure in some of these patients.
 Limit the total daily dose in patients with severe hepatic impairment to no more than 5 mg per day.
-The use of zolmitriptan orally disintegrating tablets is not recommended in patients with moderate or severe hepatic impairment because these orally disintegrating tablets should not be broken in half [see Use in Specific Populations (8.6),and Clinical Pharmacology (12.3)].
+The use of zolmitriptan orally disintegrating tablets is not recommended in patients with moderate or severe hepatic impairment because these orally disintegrating tablets should not be broken in half [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 ## 2.4 Dosing in Patients taking Cimetidine
 
-If zolmitriptanorally disintegrating tablets are co-administered with cimetidine, limit the maximum single dose of zolmitriptan orally disintegrating tablets to 2.5 mg, not to exceed 5 mg in any 24-hour period [see Drug Interactions (7.5),Clinical Pharmacology (12.3)].
+If zolmitriptan orally disintegrating tablets are co-administered with cimetidine, limit the maximum single dose of zolmitriptan orally disintegrating tablets to 2.5 mg, not to exceed 5 mg in any 24-hour period [see Drug Interactions (7.5), Clinical Pharmacology (12.3)].
