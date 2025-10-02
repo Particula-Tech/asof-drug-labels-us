@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA021959"
+  ],
+  "inn": "prednisolone",
+  "labeler": "Ingenus Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "50742-383-06",
+    "50742-383-12",
+    "50742-384-06",
+    "50742-384-12",
+    "50742-385-06",
+    "50742-385-12"
+  ],
+  "products": [
+    {
+      "form": "TABLET, ORALLY DISINTEGRATING",
+      "generic": "prednisolone sodium phosphate",
+      "name": "prednisolone sodium phosphate"
+    }
+  ],
+  "setid": "ebbc1751-9381-4db1-89ff-ae5a2963fb2c",
+  "source": "dailymed"
+}
