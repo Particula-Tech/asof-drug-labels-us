@@ -50,7 +50,7 @@ Monitor breastfeeding infants for adverse reactions, such as agitation, anorexia
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of APTENSIO XR in pediatric patients under 6 years have not been established.
+The safety and effectiveness of APTENSIO XR have not been established in pediatric patients below the age of 6 years.
 
 Safety and efficacy of APTENSIO XR were evaluated in a multicenter, placebo-controlled, double-blind, parallel group study in 119 children 4 to <6 years of age with ADHD followed by a 12-month open-label extension in 44 of these children.
 In these studies, patients experienced high rates of adverse reactions, most notably weight loss.
@@ -59,7 +59,6 @@ In addition, systemic drug exposures in patients 4 to <6 years of age were highe
 Therefore, the benefits of APTENSIO XR do not outweigh the risks in pediatric patients 4 to <6 years of age.
 
 The safety and effectiveness of APTENSIO XR have been established in pediatric patients ages 6 to 17 years in two adequate and well-controlled clinical trials [see Clinical Studies (14)].
-The long-term efficacy of methylphenidate in pediatric patients has not been established.
 
 Long Term Suppression of Growth
 
