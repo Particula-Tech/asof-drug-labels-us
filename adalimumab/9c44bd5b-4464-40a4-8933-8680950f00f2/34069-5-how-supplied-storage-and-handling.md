@@ -3,6 +3,7 @@
 AMJEVITA® (adalimumab-atto) injection is supplied as a preservative-free, sterile, clear, colorless to slightly yellow solution for subcutaneous administration.
 AMJEVITA is supplied in a single-dose prefilled syringe (PFS) or single-dose prefilled SureClick autoinjector (AI).
 The AMJEVITA prefilled syringe and prefilled SureClick autoinjector are not made with natural rubber latex.
+
 The following packaging configurations are available.
 
 | Presentation | Number of Units/Pack | NDC number |
@@ -19,9 +20,9 @@ The following packaging configurations are available.
 | 80 mg/0.8 mL prefilled syringe with a fixed 29 gauge needle | 1 | 55513-480-01 |
 | 2 | 55513-480-02 |  |
 | 40 mg/0.4 mL Prefilled SureClick Autoinjector | 1 | 55513-482-01 72511-482-01 |
-|  | 2 | 55513-482-02 72511-482-02 |
+| 2 | 55513-482-02 72511-482-02 |  |
 | 40 mg/0.8 mL Prefilled SureClick Autoinjector | 1 | 55513-400-01 72511-400-01 |
-|  | 2 | 55513-400-02 72511-400-02 |
+| 2 | 55513-400-02 72511-400-02 |  |
 | 80 mg/0.8 mL Prefilled SureClick Autoinjector | 1 | 55513-481-01 |
 | 2 | 55513-481-02 |  |
 | 72511-481-02 |  |  |
