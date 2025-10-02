@@ -15,7 +15,7 @@ For decisions regarding the use of tranexamic acid during pregnancy, the potenti
 Data Human Data Tranexamic acid passes through the placenta.
 The concentration in cord blood after an intravenous injection of 10 mg/kg to pregnant women is about 30 mg/L, as high as in the maternal blood.
 There were 13 clinical studies that described fetal and/or neonatal functional issues such as low Apgar score, neonatal sepsis, cephalohematoma and 9 clinical studies that discussed alterations to growth including low birth weight and preterm birth at 22 to 36 weeks of gestation in fetuses and infants exposed to tranexamic acid in-utero.
-Animal Data In embryo-fetal development studies, tranexamic acid was administered to pregnant mice from Gestation day (GD) 6 through GD 12 and rats from GD 9 through GD 14 at daily doses of 0.3 or 1.5 g/kg.
+Animal Data In embryo-fetal development studies, tranexamic acid was administered to pregnant mice from Gestation Day (GD) 6 through GD 12 and rats from GD 9 through GD 14 at daily doses of 0.3 or 1.5 g/kg.
 There was no evidence of adverse developmental outcomes in mice and rats at multiple of 3 and 6 times the maximum recommended human dose based on body surface area in the mouse and rat, respectively.
 In rabbits, tranexamic acid was administered intravenously at doses of 50, 100, or 200 mg/kg/day or orally at doses of 100, 200, or 400 mg/kg/day from GD 6 through GD 18.
 There was no evidence of adverse developmental outcomes at dose multiples of 2 or 3 times, respectively, the maximum recommended human dose based on body surface area.
@@ -30,7 +30,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.3 Females and Males of Reproductive Potential
 
 Contraception Concomitant use of tranexamic acid, which is an antifibrinolytic, with hormonal contraceptives may increase the risk for thromboembolic adverse reactions.
-Advise patients to use an effective alternative (nonhormonal) contraceptive method [see Warnings and Precautions (5.1), Drug Interactions (7.1)].
+Advise patients to use an effective alternative (nonhormonal) contraceptive method [see Warnings and Precautions (5.2), Drug Interactions (7.1)].
 
 ## 8.4 Pediatric Use
 
