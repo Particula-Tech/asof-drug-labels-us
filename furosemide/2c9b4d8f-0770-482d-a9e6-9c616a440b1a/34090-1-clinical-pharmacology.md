@@ -27,4 +27,4 @@ There are no significant differences between the two oral formulations in the am
 Furosemide binding to albumin may be reduced in elderly patients.
 Furosemide is predominantly excreted unchanged in the urine.
 The renal clearance of furosemide after intravenous administration in older healthy male subjects (60 to 70 years of age) is statistically significantly smaller than in younger healthy male subjects (20 to 35 years of age).
-The initial diuretic effect of furosemide in older subjects is decreased relative to younger subjects (see PRECAUTIONS: Geriatric Use).
+The initial diuretic effect of furosemide in older subjects is decreased relative to younger subjects (seePRECAUTIONS: Geriatric Use).

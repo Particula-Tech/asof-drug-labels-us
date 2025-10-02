@@ -1,7 +1,7 @@
 # WARNING
 
-LASIX® (furosemide) is a potent diuretic which, if given in excessive amounts, can lead to a profound diuresis with water and electrolyte depletion.
-Therefore, careful medical supervision is required and dose and dose schedule must be adjusted to the individual patient’s needs (see DOSAGE AND ADMINISTRATION).
+LASIX®(furosemide) is a potent diuretic which, if given in excessive amounts, can lead to a profound diuresis with water and electrolyte depletion.
+Therefore, careful medical supervision is required and dose and dose schedule must be adjusted to the individual patient’s needs(seeDOSAGE AND ADMINISTRATION).
 
 # WARNINGS
 
@@ -14,7 +14,7 @@ If increasing azotemia and oliguria occur during treatment of severe progressive
 
 Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported.
 Reports usually indicate that LASIX ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
-If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4mg LASIX per minute has been used) (see PRECAUTIONS: Drug Interactions).
+If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4mg LASIX per minute has been used) (seePRECAUTIONS: Drug Interactions).
 
 # PRECAUTIONS
 
@@ -55,7 +55,7 @@ Hypertensive patients should avoid medications that may increase blood pressure,
 
 ## Laboratory Tests
 
-Serum electrolytes (particularly potassium), CO2, creatinine and BUN should be determined frequently during the first few months of LASIX therapy and periodically thereafter.
+Serum electrolytes (particularly potassium), CO 2, creatinine and BUN should be determined frequently during the first few months of LASIX therapy and periodically thereafter.
 Serum and urine electrolyte determinations are particularly important when the patient is vomiting profusely or receiving parenteral fluids.
 Abnormalities should be corrected or the drug temporarily withdrawn.
 Other medications may also influence serum electrolytes.
@@ -67,7 +67,7 @@ Urine and blood glucose should be checked periodically in diabetics receiving LA
 LASIX may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium.
 Accordingly, serum levels of these electrolytes should be determined periodically.
 
-In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed (see PRECAUTIONS: Pediatric Use).
+In premature infants LASIX may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed (seePRECAUTIONS: Pediatric Use).
 
 ## Drug Interactions
 
@@ -125,8 +125,8 @@ Furosemide was tested for carcinogenicity by oral administration in one strain o
 A small but significantly increased incidence of mammary gland carcinomas occurred in female mice at a dose 17.5 times the maximum human dose of 600mg.
 There were marginal increases in uncommon tumors in male rats at a dose of 15 mg/kg (slightly greater than the maximum human dose) but not at 30 mg/kg.
 
-Furosemide was devoid of mutagenic activity in various strains of Salmonella typhimurium when tested in the presence or absence of an in vitro metabolic activation system, and questionably positive for gene mutation in mouse lymphoma cells in the presence of rat liver S9 at the highest dose tested.
-Furosemide did not induce sister chromatid exchange in human cells in vitro, but other studies on chromosomal aberrations in human cells in vitro gave conflicting results.
+Furosemide was devoid of mutagenic activity in various strains of Salmonella typhimuriumwhen tested in the presence or absence of an in vitrometabolic activation system, and questionably positive for gene mutation in mouse lymphoma cells in the presence of rat liver S9 at the highest dose tested.
+Furosemide did not induce sister chromatid exchange in human cells in vitro, but other studies on chromosomal aberrations in human cells in vitrogave conflicting results.
 In Chinese hamster cells it induced chromosomal damage but was questionably positive for sister chromatid exchange.
 Studies on the induction by furosemide of chromosomal aberrations in mice were inconclusive.
 The urine of rats treated with this drug did not induce gene conversion in Saccharomyces cerevisiae.
@@ -171,4 +171,4 @@ Other reported clinical experience has not identified differences in responses b
 In general, dose selection for the elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
 This drug is known to be substantially excreted by the kidney, and the risk of toxic reactions to this drug may be greater in patients with impaired renal function.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function (see PRECAUTIONS: General and DOSAGE AND ADMINISTRATION).
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection and it may be useful to monitor renal function (seePRECAUTIONS: GeneralandDOSAGE AND ADMINISTRATION).
