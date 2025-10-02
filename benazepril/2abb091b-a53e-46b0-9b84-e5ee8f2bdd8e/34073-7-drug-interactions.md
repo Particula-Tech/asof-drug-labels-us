@@ -1,11 +1,11 @@
-# 7. DRUG INTERACTIONS
+# 7.DRUG INTERACTIONS
 
-## 7.1 Diuretics
+## 7.1Diuretics
 
 Hypotension
 
 Patients on diuretics, especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with Lotensin.
-The possibility of hypotensive effects with Lotensin can be minimized by either discontinuing or decreasing the dose of diuretic prior to initiation of treatment with Lotensin [see Dosage and Administration (2.1)].
+The possibility of hypotensive effects with Lotensin can be minimized by either discontinuing or decreasing the dose of diuretic prior to initiation of treatment with Lotensin [seeDosage and Administration (2.1)].
 
 Hyperkalemia
 
@@ -13,11 +13,11 @@ Potassium-sparing diuretics (spironolactone, amiloride, triamterene, and others)
 Therefore, if concomitant use of such agents is indicated, monitor the patient’s serum potassium frequently.
 Lotensin attenuates potassium loss caused by thiazide-type diuretics.
 
-## 7.2 Antidiabetics
+## 7.2Antidiabetics
 
 Concomitant administration of Lotensin and antidiabetic medicines (insulins, oral hypoglycemic agents) may increase the risk of hypoglycemia.
 
-## 7.3 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
+## 7.3Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors)
 
 In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including benazepril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
@@ -25,7 +25,7 @@ Monitor renal function periodically in patients receiving benazepril and NSAID t
 
 The antihypertensive effect of ACE inhibitors, including benazepril, may be attenuated by NSAIDs.
 
-## 7.4 Dual Blockade of the Renin-Angiotensin System (RAS)
+## 7.4Dual Blockade of the Renin-Angiotensin System (RAS)
 
 Dual Blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
@@ -35,21 +35,21 @@ Closely monitor blood pressure, renal function and electrolytes in patients on L
 Do not coadminister aliskiren with Lotensin in patients with diabetes.
 Avoid use of aliskiren with Lotensin in patients with renal impairment (GFR < 60 mL/min).
 
-## 7.5 Mammalian Target of Rapamycin (mTOR) Inhibitors
+## 7.5Mammalian Target of Rapamycin (mTOR) Inhibitors
 
 Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema.
-Monitor for signs of angioedema [see Warnings and Precautions (5.2)].
+Monitor for signs of angioedema [seeWarnings and Precautions (5.2)].
 
-## 7.6 Lithium
+## 7.6Lithium
 
 Lithium toxicity has been reported in patients receiving lithium concomitantly with Lotensin.
 Lithium toxicity was usually reversible upon discontinuation of lithium or Lotensin.
 Monitor serum lithium levels during concurrent use.
 
-## 7.7 Neprilysin Inhibitor
+## 7.7Neprilysin Inhibitor
 
-Patients taking concomitant neprilysin inhibitors may be at increased risk for angioedema [see Warnings and Precautions].
+Patients taking concomitant neprilysin inhibitors may be at increased risk for angioedema [seeWarnings and Precautions].
 
-## 7.8 Gold
+## 7.8Gold
 
 Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy.

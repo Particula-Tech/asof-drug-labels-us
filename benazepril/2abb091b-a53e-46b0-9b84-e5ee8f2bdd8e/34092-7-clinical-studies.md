@@ -1,8 +1,8 @@
-# 14. CLINICAL STUDIES
+# 14.CLINICAL STUDIES
 
 Hypertension
 
-Adult Patients
+AdultPatients
 
 In single-dose studies, Lotensin lowered blood pressure within 1 hour, with peak reductions achieved between 2 and 4 hours after dosing.
 The antihypertensive effect of a single dose persisted for 24 hours.
@@ -20,7 +20,7 @@ In normal human volunteers, single doses of benazepril caused an increase in ren
 Use of Lotensin in combination with thiazide diuretics gives a blood-pressure-lowering effect greater than that seen with either agent alone.
 By blocking the renin-angiotensin-aldosterone axis, administration of Lotensin tends to reduce the potassium loss associated with the diuretic.
 
-Pediatric Patients
+PediatricPatients
 
 In a clinical study of 107 pediatric patients, 7 to 16 years of age, with either systolic or diastolic pressure above the 95th percentile, patients were given 0.1 or 0.2 mg/kg then titrated up to 0.3 or 0.6 mg/kg with a maximum dose of 40 mg once daily.
 After four weeks of treatment, the 85 patients whose blood pressure was reduced on therapy were then randomized to either placebo or benazepril and were followed up for an additional two weeks.

@@ -1,4 +1,4 @@
-# 6. ADVERSE REACTIONS
+# 6.ADVERSE REACTIONS
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
@@ -14,16 +14,16 @@ Adverse reactions seen in at least 1% greater frequency in patients treated with
 
 Adverse reactions reported in controlled clinical trials (less than 1% more on benazepril than on placebo), and rarer events seen in post-marketing experience, include the following (in some, a causal relationship to drug use is uncertain):
 
-Dermatologic: Stevens-Johnson syndrome, pemphigus, apparent hypersensitivity reactions (manifested by dermatitis, pruritus, or rash), photosensitivity, and flushing.
+Dermatologic:Stevens-Johnson syndrome, pemphigus, apparent hypersensitivity reactions (manifested by dermatitis, pruritus, or rash), photosensitivity, and flushing.
 
-Gastrointestinal: Nausea, pancreatitis, constipation, gastritis, vomiting, and melena.
+Gastrointestinal:Nausea, pancreatitis, constipation, gastritis, vomiting, and melena.
 
-Hematologic: Thrombocytopenia and hemolytic anemia.
+Hematologic:Thrombocytopenia and hemolytic anemia.
 
-Neurologic/Psychiatric: Anxiety, decreased libido, hypertonia, insomnia, nervousness, and paresthesia.
+Neurologic/Psychiatric:Anxiety, decreased libido, hypertonia, insomnia, nervousness, and paresthesia.
 
-Other: Fatigue, asthma, bronchitis, dyspnea, sinusitis, urinary tract infection, frequent urination, infection, arthritis, impotence, alopecia, arthralgia, myalgia, asthenia, sweating.
+Other:Fatigue, asthma, bronchitis, dyspnea, sinusitis, urinary tract infection, frequent urination, infection, arthritis, impotence, alopecia, arthralgia, myalgia, asthenia, sweating.
 
 Laboratory Abnormalities:
 
-Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes [see Warnings and Precautions (5)] have been reported, as have incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.
+Elevations of uric acid, blood glucose, serum bilirubin, and liver enzymes [seeWarnings and Precautions (5)]have been reported, as have incidents of hyponatremia, electrocardiographic changes, eosinophilia, and proteinuria.

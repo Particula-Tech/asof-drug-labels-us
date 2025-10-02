@@ -1,4 +1,4 @@
-# 4. CONTRAINDICATIONS
+# 4.CONTRAINDICATIONS
 
 Lotensin is contraindicated in patients:
 
@@ -6,6 +6,6 @@ Lotensin is contraindicated in patients:
 - with a history of angioedema with or without previous ACE inhibitor treatment
 
 Lotensin is contraindicated in combination with a neprilysin inhibitor (e.g., sacubitril).
-Do not administer Lotensin within 36 hours of switching to or from sacubitril/valsartan, a neprilysin inhibitor [see Warnings and Precautions (5.2)].
+Do not administer Lotensin within 36 hours of switching to or from sacubitril/valsartan, a neprilysin inhibitor [seeWarnings and Precautions (5.2)].
 
-Do not coadminister aliskiren with angiotensin receptor blockers, ACE inhibitors, including Lotensin in patients with diabetes [see Drug Interactions (7.4)].
+Do not coadminister aliskiren with angiotensin receptor blockers, ACE inhibitors, including Lotensin in patients with diabetes [seeDrug Interactions (7.4)].

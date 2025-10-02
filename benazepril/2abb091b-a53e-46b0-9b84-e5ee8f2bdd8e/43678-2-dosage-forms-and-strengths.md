@@ -1,4 +1,4 @@
-# 3. DOSAGE FORMS AND STRENGTHS
+# 3.DOSAGE FORMS AND STRENGTHS
 
 Tablets: 10 mg, 20 mg, and 40 mg
 

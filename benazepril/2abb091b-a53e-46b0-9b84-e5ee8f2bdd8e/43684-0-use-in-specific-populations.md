@@ -1,6 +1,6 @@
-# 8. USE IN SPECIFIC POPULATIONS
+# 8.USE IN SPECIFIC POPULATIONS
 
-## 8.1 Pregnancy
+## 8.1Pregnancy
 
 Risk Summary
 
@@ -31,36 +31,36 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
 Closely observe infants with histories of in utero exposure to Lotensin for hypotension, oliguria, and hyperkalemia.
-If oliguria or hypotension occur in neonates with a history of in utero exposure to Lotensin, support blood pressure and renal perfusion.
+If oliguria or hypotension occur in neonates with a history of in uteroexposure to Lotensin, support blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and substituting for disordered renal function.
 
-## 8.2 Lactation
+## 8.2Lactation
 
 Minimal amounts of unchanged benazepril and of benazeprilat are excreted into the breast milk of lactating women treated with benazepril.
 A newborn child ingesting entirely breast milk would receive less than 0.1% of the mg/kg maternal dose of benazepril and benazeprilat.
 
-## 8.3 Pediatric Use
+## 8.3Pediatric Use
 
-The antihypertensive effects of Lotensin have been evaluated in a double-blind study in pediatric patients 7 to 16 years of age [see Clinical Pharmacology (12.3)].
-The pharmacokinetics of Lotensin have been evaluated in pediatric patients 6 to 16 years of age [see Clinical Pharmacology (12.3)].
+The antihypertensive effects of Lotensin have been evaluated in a double-blind study in pediatric patients 7 to 16 years of age [seeClinical Pharmacology (12.3)].
+The pharmacokinetics of Lotensin have been evaluated in pediatric patients 6 to 16 years of age [seeClinical Pharmacology (12.3)].
 
 Infants below the age of 1 year should not be given Lotensin because of the risk of effects on kidney development.
 
-Safety and effectiveness of Lotensin have not been established in pediatric patients less than 6 years of age or in children with glomerular filtration rate < 30 mL/min/1.73m² [see Dosage and Administration (2.1) and Clinical Pharmacology 12.3)].
+Safety and effectiveness of Lotensin have not been established in pediatric patients less than 6 years of age or in children with glomerular filtration rate < 30 mL/min/1.73m² [seeDosage and Administration (2.1)andClinical Pharmacology 12.3)].
 
-## 8.4 Geriatric Use
+## 8.4Geriatric Use
 
 Of the total number of patients who received benazepril in U.S. clinical studies of Lotensin, 18% were 65 or older while 2% were 75 or older.
 No overall differences in effectiveness or safety were observed between these patients and younger patients, and other reported clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some older individuals cannot be ruled out.
 
 Benazepril and benazeprilat are substantially excreted by the kidney.
-Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [see Dosage and Administration (2.2)].
+Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function [seeDosage and Administration (2.2)].
 
-## 8.5 Race
+## 8.5Race
 
 ACE inhibitors, including Lotensin, as monotherapy, have an effect on blood pressure that is less in Black patients than in non-Blacks.
 
-## 8.6 Renal Impairment
+## 8.6Renal Impairment
 
 Dose adjustment of Lotensin is required in patients undergoing hemodialysis or whose creatinine clearance is ≤ 30 mL/min.
-No dose adjustment of Lotensin is required in patients with creatinine clearance > 30 mL/min [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+No dose adjustment of Lotensin is required in patients with creatinine clearance > 30 mL/min [seeDosage and Administration (2.2)andClinical Pharmacology (12.3)].
