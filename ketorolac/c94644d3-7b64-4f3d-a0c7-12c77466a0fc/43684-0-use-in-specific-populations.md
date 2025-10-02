@@ -2,25 +2,28 @@
 
 ## 8.1 Pregnancy
 
-Teratogenic Effects.
-Pregnancy Category C
+Risk Summary
 
-Ketorolac tromethamine, administered during organogenesis, was not teratogenic in rabbits and rats at oral doses of 3.6 mg/kg/day and 10 mg/kg/day, respectively.
-These doses are approximately 100 times and 250 times higher respectively than the maximum recommended human topical ophthalmic daily dose of 2 mg (5 mg/mL x 0.05 mL/drop, x 4 drops x 2 eyes) to affected eyes on a mg/kg basis.
-Additionally, when administered to rats after Day 17 of gestation at oral doses up to 1.5 mg/kg/day (approximately 40 times the typical human topical ophthalmic daily dose), ketorolac tromethamine resulted in dystocia and increased pup mortality.
-There are no adequate and well-controlled studies in pregnant women.
-ACULAR® solution should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+There are no adequate and well-controlled studies with ACULAR in pregnant women.
+No evidence of teratogenicity has been observed in rats or rabbits with ACULAR at clinically relevant doses.
 
-Nonteratogenic Effects: Because of the known effects of prostaglandin-inhibiting drugs on the fetal cardiovascular system (closure of the ductus arteriosus), the use of ACULAR® solution during late pregnancy should be avoided.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
-## 8.3 Nursing Mothers
+Clinical Considerations
 
-Because many drugs are excreted in human milk, caution should be exercised when ACULAR® is administered to a nursing woman.
+Because of the known effects of prostaglandin-inhibiting drugs on the fetal cardiovascular system (closure of the ductus arteriosus), the use of ACULAR during late pregnancy should be avoided.
+
+## 8.2 Lactation
+
+Risk Summary
+
+It is not known whether ketorolac when given topically is present in human milk.
+Because many drugs are excreted in human milk, caution should be exercised when ACULAR is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy in pediatric patients below the age of 2 have not been established.
+The safety and effectiveness of ACULAR have not been established in pediatric patients younger than 2 years old.
 
 ## 8.5 Geriatric Use
 
-No overall clinical differences in safety or effectiveness have been observed between elderly and other adult patients.
+No overall differences in safety or effectiveness have been observed between elderly and other adult patients.
