@@ -6,6 +6,6 @@ U.S. License Number 1080
 
 AMGEN and AMJEVITA® (adalimumab-atto) are trademarks owned or licensed by Amgen Inc., its subsidiaries, or affiliates.
 
-© 2022-2024 Amgen Inc. All rights reserved.
+© 2022-2025 Amgen Inc. All rights reserved.
 
-1xxxxxx-v13
+1xxxxxx-v14
