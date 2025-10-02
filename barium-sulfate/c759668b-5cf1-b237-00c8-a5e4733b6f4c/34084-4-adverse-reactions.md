@@ -1,5 +1,17 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Adverse reactions, such as nausea, vomiting, diarrhea and abdominal cramping accompanying the use of barium sulfate suspensions are infrequent, usually mild, and generally do not occur with this product.
-Procedural complications are rare, but may include aspiration pneumonitis, granuloma formation, intravasation, embolization and peritonitis following intestinal perforation, vasovagal and syncopal episodes, and fatalities.
-It is of the utmost importance to be completely prepared to treat any such occurrence.
+The following clinically significant adverse reactions are described elsewhere in the labeling:
+
+- Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- Intra-abdominal Barium Leakage [see Warnings and Precautions (5.2)]
+- Baroliths and Bowel Obstruction [see Warnings and Precautions (5.3)]
+- Aspiration Pneumonitis [see Warnings and Precautions (5.4)]
+
+The following adverse reactions associated with the use of E-Z-DISK or other barium sulfate products were identified in postmarketing reports or published clinical studies.
+Because some of these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to drug exposure:
+
+Cardiovascular disorders: Vasovagal and syncopal episodes Gastrointestinal disorders: Barium sulfate impaction, nausea, vomiting, diarrhea, abdominal cramping Respiratory disorders: Aspiration pneumonitis
+
+Adverse Reactions in Pediatric Patients
+
+No additional safety signals have been reported in pediatric patients aged 12 years and older.

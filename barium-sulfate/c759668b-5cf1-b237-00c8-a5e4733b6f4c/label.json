@@ -1,5 +1,7 @@
 {
-  "application_numbers": [],
+  "application_numbers": [
+    "NDA219840"
+  ],
   "inn": "barium-sulfate",
   "labeler": "E-Z-EM, INC.",
   "package_ndcs": [

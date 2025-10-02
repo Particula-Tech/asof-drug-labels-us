@@ -1,1 +1,1 @@
-E-Z-Disk Tablets NDC: 10361-778-31
+E-Z-Disk Tablets NDC: 10361-778-3

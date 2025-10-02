@@ -1,9 +1,10 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-E-Z-DISK™ is a white tablet with EZEM on one side and 778 on the other side and is supplied in the following manner: Bottles of 100 ½-inch diameter, flat-sided tablets; Cat.
-No. 778, NDC 10361-778-31
+How Supplied
 
-## Storage
+E-Z-DISK (barium sulfate) tablets, 700 mg, are white to lightly colored, between 11.5 mm and 13.5 mm (0.45 inch and 0.53 inch) in diameter, flat-sided disks with EZEM inscribed on one side and 778 on the other side supplied in a glass bottle containing 100 tablets (NDC 10361-778-31).
 
-Store product at USP Controlled Room Temperature, 20 to 25°C (68 to 77°F).
-Protect from moisture.
+Storage and Handling
+
+Store at 20°C to 25°C (68°F to 77° F) [see USP controlled room temperature].
+Store in original container and protect from moisture.

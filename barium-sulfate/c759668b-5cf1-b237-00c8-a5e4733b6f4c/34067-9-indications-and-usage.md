@@ -1,3 +1,3 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-E-Z-DISK is indicated for use in radiography of the esophagus, for detection of esophageal strictures.
+E-Z-DISK is indicated for the evaluation of esophageal patency in adults and pediatric patients aged 12 years and older.

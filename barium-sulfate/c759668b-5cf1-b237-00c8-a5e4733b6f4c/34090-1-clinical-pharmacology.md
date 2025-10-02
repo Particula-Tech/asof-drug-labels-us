@@ -1,10 +1,14 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-Barium sulfate, due to its high molecular density is opaque to x-rays and therefore acts as a positive contrast agent for radiographic studies.
-Barium sulfate is biologically inert and therefore is not absorbed or metabolized by the body, and is eliminated unchanged from the body.
+## 12.1 Mechanism of Action
 
-## Absorption and Metabolism
+E-Z-DISK is formulated to pass through the esophagus into the stomach when the esophageal lumen is greater than 11.5 mm to 13.5 mm (0.45 inch to 0.53 inch) in diameter.
+Due to its high atomic number, barium is opaque to X-rays and therefore acts as a positive contrast agent for radiographic studies.
 
-E-Z-DISK tablets disintegrate within 30 minutes after ingestion, and the fragments are eliminated with the feces without absorption of the barium sulfate.
-A brief delay in transit may sometimes be seen in elderly patients, particularly above the hiatus, or at the level of the aortic arch.
-In such instances, a sip of water is sufficient to carry the tablet down the esophagus.
+## 12.2 Pharmacodynamics
+
+Barium sulfate has no pharmacological effects.
+
+## 12.3 Pharmacokinetics
+
+Orally administered barium sulfate passes through the gastrointestinal tract in an unchanged form and is absorbed only in insignificant amounts.
