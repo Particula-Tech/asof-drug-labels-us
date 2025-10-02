@@ -5,7 +5,7 @@ Lotensin HCT has been evaluated for safety in over 2500 patients with hypertensi
 The reported side effects were generally mild and transient, and there was no relationship between side effects and age, sex, race, or duration of therapy.
 Discontinuation of therapy due to side effects was required in approximately 7% of U.S. patients treated with Lotensin HCT and in 4% of patients treated with placebo.
 
-The most common reasons for discontinuation of therapy with Lotensin HCT in U.S. studies were cough (1.0%; see PRECAUTIONS), “dizziness” (1.0%), headache (0.6%), and fatigue (0.6%).
+The most common reasons for discontinuation of therapy with Lotensin HCT in U.S. studies were cough (1.0%; seePRECAUTIONS), “dizziness” (1.0%), headache (0.6%), and fatigue (0.6%).
 
 The side effects considered possibly or probably related to study drug that occurred in U.S. placebo-controlled trials in more than 1% of patients treated with Lotensin HCT are shown in the table below.
 
@@ -26,64 +26,64 @@ The side effects considered possibly or probably related to study drug that occu
 
 Other side effects considered possibly or probably related to study drug that occurred in U.S. placebo-controlled trials in 0.3% to 1.0% of patients treated with Lotensin HCT were the following:
 
-Cardiovascular: Palpitations, flushing.
+Cardiovascular:Palpitations, flushing.
 
-Gastrointestinal: Vomiting, diarrhea, dyspepsia, anorexia, and constipation.
+Gastrointestinal:Vomiting, diarrhea, dyspepsia, anorexia, and constipation.
 
-Neurologic and Psychiatric: Insomnia, nervousness, paresthesia, libido decrease, dry mouth, taste perversion, and tinnitus.
+Neurologic and Psychiatric:Insomnia, nervousness, paresthesia, libido decrease, dry mouth, taste perversion, and tinnitus.
 
-Dermatologic: Rash and sweating.
+Dermatologic:Rash and sweating.
 
-Other: Urinary frequency, arthralgia, myalgia, asthenia, and pain (including chest pain and abdominal pain).
+Other:Urinary frequency, arthralgia, myalgia, asthenia, and pain (including chest pain and abdominal pain).
 
 Other adverse experiences reported in 0.3% or more of Lotensin HCT patients in U.S. controlled clinical trials, and rarer events seen in post-marketing experience, were the following; asterisked entries occurred in more than 1% of patients (in some, a causal relationship to Lotensin HCT is uncertain):
 
-Cardiovascular: Syncope, peripheral vascular disorder, and tachycardia.
+Cardiovascular:Syncope, peripheral vascular disorder, and tachycardia.
 
-Body as a Whole: Infection, back pain*, flu syndrome*, fever, chills, and neck pain.
+Body as a Whole:Infection, back pain*, flu syndrome*, fever, chills, and neck pain.
 
-Dermatologic: Photosensitivity and pruritus.
+Dermatologic:Photosensitivity and pruritus.
 
-Gastrointestinal: Gastroenteritis, flatulence, and tooth disorder.
+Gastrointestinal:Gastroenteritis, flatulence, and tooth disorder.
 
-Neurologic and Psychiatric: Hypesthesia, abnormal vision, abnormal dreams, and retinal disorder.
+Neurologic and Psychiatric:Hypesthesia, abnormal vision, abnormal dreams, and retinal disorder.
 
-Respiratory: Upper respiratory infection*, epistaxis, bronchitis, rhinitis*, sinusitis*, and voice alteration.
+Respiratory:Upper respiratory infection*, epistaxis, bronchitis, rhinitis*, sinusitis*, and voice alteration.
 
-Other: Conjunctivitis, arthritis, urinary tract infection, alopecia, and urinary frequency*.
+Other:Conjunctivitis, arthritis, urinary tract infection, alopecia, and urinary frequency*.
 
 Post-Marketing Experience
 
 The following adverse reactions have been identified during post-approval use of either benazepril or hydrochlorothiazide.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency or establish a causal relationship to drug exposure:
 
-Non-melanoma Skin Cancer: Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer.
+Non-melanoma Skin Cancer:Hydrochlorothiazide is associated with an increased risk of non-melanoma skin cancer.
 In a study conducted in the Sentinel System, increased risk was predominantly for squamous cell carcinoma (SCC) and in white patients taking large cumulative doses.
 The increased risk for SCC in the overall population was approximately 1 additional case per 16,000 patients per year, and for white patients taking a cumulative dose of ≥50,000mg the risk increase was approximately 1 additional SCC case for every 6,700 patients per year.
 
-Benazepril Stevens-Johnson syndrome, pancreatitis, hemolytic anemia, pemphigus, and thrombocytopenia, eosinophilic pneumonitis
+BenazeprilStevens-Johnson syndrome, pancreatitis, hemolytic anemia, pemphigus, and thrombocytopenia, eosinophilic pneumonitis
 
 Hydrochlorothiazide
 
-Digestive: Pancreatitis, small bowel angioedema, jaundice (intrahepatic cholestatic), sialadenitis, vomiting, diarrhea, cramping, nausea, gastric irritation, constipation, and anorexia.
+Digestive:Pancreatitis, small bowel angioedema, jaundice (intrahepatic cholestatic), sialadenitis, vomiting, diarrhea, cramping, nausea, gastric irritation, constipation, and anorexia.
 
-Neurologic: Vertigo, lightheadedness, transient blurred vision, headache, paresthesia, xanthopsia, weakness, and restlessness.
+Neurologic:Vertigo, lightheadedness, transient blurred vision, headache, paresthesia, xanthopsia, weakness, and restlessness.
 
-Musculoskeletal: Muscle spasm.
+Musculoskeletal:Muscle spasm.
 
-Hematologic: Aplastic anemia, agranulocytosis, leukopenia, neutropenia and thrombocytopenia.
+Hematologic:Aplastic anemia, agranulocytosis, leukopenia, neutropenia and thrombocytopenia.
 
-Metabolic: Hyperglycemia, glycosuria, and hyperuricemia, pyrexia, asthenia, parathyroid gland changes with hypercalcemia and hypophosphatemia.
+Metabolic:Hyperglycemia, glycosuria, and hyperuricemia, pyrexia, asthenia, parathyroid gland changes with hypercalcemia and hypophosphatemia.
 
-Hypersensitivity: Anaphylactoid reactions, necrotizing angiitis, respiratory distress (including pneumonitis and pulmonary edema), purpura, urticaria, rash, and photosensitivity.
+Hypersensitivity:Anaphylactoid reactions, necrotizing angiitis, respiratory distress (including pneumonitis and pulmonary edema), purpura, urticaria, rash, and photosensitivity.
 
 Skin: Erythema multiforme including Stevens-Johnson syndrome, and exfoliative dermatitis including toxic epidermal necrolysis.
 
 ## Clinical Laboratory Test Findings
 
-Serum Electrolytes: see PRECAUTIONS.
+Serum Electrolytes:seePRECAUTIONS.
 
-Creatinine and BUN: Minor reversible increases in serum creatinine and BUN were observed in patients with essential hypertension treated with Lotensin HCT.
-Such increases occurred most frequently in patients with renal artery stenosis (see PRECAUTIONS).
+Creatinine and BUN:Minor reversible increases in serum creatinine and BUN were observed in patients with essential hypertension treated with Lotensin HCT.
+Such increases occurred most frequently in patients with renal artery stenosis (seePRECAUTIONS).
 
 To report SUSPECTED ADVERSE REACTIONS, contact Validus Pharmaceuticals LLC at 1-866-982-5438 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

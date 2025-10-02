@@ -4,25 +4,25 @@
 
 Presumably because angiotensin-converting enzyme inhibitors affect the metabolism of eicosanoids and polypeptides, including endogenous bradykinin, patients receiving ACE inhibitors (including benazepril) may be subject to a variety of adverse reactions, some of them serious.
 
-Head and Neck Angioedema: Angioedema of the face, extremities, lips, tongue, glottis, and larynx has been reported in patients treated with angiotensin-converting enzyme inhibitors.
+Head and Neck Angioedema:Angioedema of the face, extremities, lips, tongue, glottis, and larynx has been reported in patients treated with angiotensin-converting enzyme inhibitors.
 In U.S. clinical trials, symptoms consistent with angioedema were seen in none of the subjects who received placebo and in about 0.5% of the subjects who received benazepril.
 Angioedema associated with laryngeal edema can be fatal.
 If laryngeal stridor or angioedema of the face, tongue, or glottis occurs, treatment with Lotensin HCT should be discontinued and appropriate therapy instituted immediately.
-When involvement of the tongue, glottis, or larynx appears likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine injection 1:1000 (0.3 - 0.5 mL) should be promptly administered (see PRECAUTIONS and ADVERSE REACTIONS).
+When involvement of the tongue, glottis, or larynx appears likely to cause airway obstruction, appropriate therapy, e.g., subcutaneous epinephrine injection 1:1000 (0.3- 0.5 mL) should be promptlyadministered(seePRECAUTIONSandADVERSE REACTIONS).
 
 Black patients receiving ACE inhibitors have been reported to have a higher incidence of angioedema compared to nonblacks.
 
-Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., tesmsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema (see PRECAUTIONS).
+Patients receiving coadministration of ACE inhibitor and mTOR (mammalian target of rapamycin) inhibitor (e.g., tesmsirolimus, sirolimus, everolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema (seePRECAUTIONS).
 
-Intestinal Angioedema: Intestinal angioedema has been reported in patients treated with ACE inhibitors.
+Intestinal Angioedema:Intestinal angioedema has been reported in patients treated with ACE inhibitors.
 These patients presented with abdominal pain (with or without nausea or vomiting); in some cases there was no prior history of facial angioedema and C-1 esterase levels were normal.
 The angioedema was diagnosed by procedures including abdominal CT scan or ultrasound, or at surgery, and symptoms resolved after stopping the ACE inhibitor.
 Intestinal angioedema should be included in the differential diagnosis of patients on ACE inhibitors presenting with abdominal pain.
 
-Anaphylactoid Reactions During Desensitization: Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
+Anaphylactoid Reactions During Desensitization:Two patients undergoing desensitizing treatment with hymenoptera venom while receiving ACE inhibitors sustained life-threatening anaphylactoid reactions.
 In the same patients, these reactions were avoided when ACE inhibitors were temporarily withheld, but they reappeared upon inadvertent rechallenge.
 
-Anaphylactoid Reactions During Membrane Exposure: Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor.
+Anaphylactoid Reactions During Membrane Exposure:Anaphylactoid reactions have been reported in patients dialyzed with high-flux membranes and treated concomitantly with an ACE inhibitor.
 Anaphylactoid reactions have also been reported in patients undergoing low-density lipoprotein apheresis with dextran sulfate absorption.
 
 Hypersensitivity reactions to hydrochlorothiazide are more likely in patients with allergy and asthma.
@@ -77,10 +77,10 @@ Perform serial ultrasound examinations to assess the intra-amniotic environment.
 If oligohydramnios is observed, discontinue Lotensin HCT, unless it is considered lifesaving for the mother.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to Lotensin HCT for hypotension, oliguria, and hyperkalemia (see PRECAUTIONS, Pediatric Use).
+Closely observe infants with histories of in uteroexposure to Lotensin HCT for hypotension, oliguria, and hyperkalemia (seePRECAUTIONS,Pediatric Use).
 
 No teratogenic effects of Lotensin were seen in studies of pregnant rats, mice, and rabbits.
-On a mg/m2 basis, the doses used in these studies were 60 times (in rats), 9 times (in mice), and more than 0.8 times (in rabbits) the maximum recommended human dose (assuming a 50-kg woman).
+On a mg/m 2basis, the doses used in these studies were 60 times (in rats), 9 times (in mice), and more than 0.8 times (in rabbits) the maximum recommended human dose (assuming a 50-kg woman).
 On a mg/kg basis these these multiples are 300 times (in rats), 90 times (in mice), and more than 3 times (in rabbits) the maximum recommended human dose.
 When hydrochlorothiazide was orally administered without benazepril to pregnant mice and rats during their respective periods of major organogenesis, at doses up to 3000 and 1000 mg/kg/day respectively, there was no evidence of harm to the fetus.
 Similarly, no teratogenic effects of benazepril were seen in studies of pregnant rats, mice, and rabbits; on a mg/kg basis, the doses used in these studies were 300 times (in rats), 90 times (in mice), and more than 3 times (in rabbits) the maximum recommended human dose.
@@ -134,31 +134,31 @@ Hydrochlorothiazide may raise the serum uric acid level due to reduced clearance
 Thiazides decrease urinary calcium excretion and may cause mild elevation of serum calcium.
 Avoid using Lotensin HCT in patients with hypercalcemia.
 
-Cough: Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy.
+Cough:Presumably due to the inhibition of the degradation of endogenous bradykinin, persistent nonproductive cough has been reported with all ACE inhibitors, always resolving after discontinuation of therapy.
 ACE inhibitor-induced cough should be considered in the differential diagnosis of cough.
 
-Surgery/Anesthesia: In patients undergoing surgery or during anesthesia with agents that produce hypotension, benazepril will block the angiotensin II formation that could otherwise occur secondary to compensatory renin release.
+Surgery/Anesthesia:In patients undergoing surgery or during anesthesia with agents that produce hypotension, benazepril will block the angiotensin II formation that could otherwise occur secondary to compensatory renin release.
 Hypotension that occurs as a result of this mechanism can be corrected by volume expansion.
 
 ## Information for Patients
 
-Angioedema: Angioedema, including laryngeal edema, can occur at any time with treatment with ACE inhibitors.
+Angioedema:Angioedema, including laryngeal edema, can occur at any time with treatment with ACE inhibitors.
 A patient receiving Lotensin HCT should be told to report immediately any signs or symptoms suggesting angioedema (swelling of face, eyes, lips, or tongue, or difficulty in breathing) and to take no more drugs until after consulting with the prescribing physician.
 
-Pregnancy: Female patients of childbearing age should be told about the consequences of exposure to Lotensin HCT during pregnancy.
+Pregnancy:Female patients of childbearing age should be told about the consequences of exposure to Lotensin HCT during pregnancy.
 Discuss treatment options with women planning to become pregnant.
 Patients should be asked to report pregnancies to their physicians as soon as possible.
 
-Symptomatic Hypotension: A patient receiving Lotensin HCT should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
+Symptomatic Hypotension:A patient receiving Lotensin HCT should be cautioned that lightheadedness can occur, especially during the first days of therapy, and that it should be reported to the prescribing physician.
 The patient should be told that if syncope occurs, Lotensin HCT should be discontinued until the physician has been consulted.
 
 All patients should be cautioned that inadequate fluid intake, excessive perspiration, diarrhea, or vomiting can lead to an excessive fall in blood pressure, with the same consequences of lightheadedness and possible syncope.
 
-Hyperkalemia: A patient receiving Lotensin HCT should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
+Hyperkalemia:A patient receiving Lotensin HCT should be told not to use potassium supplements or salt substitutes containing potassium without consulting the prescribing physician.
 
-Neutropenia: Patients should be told to promptly report any indication of infection (e.g., sore throat, fever), which could be a sign of neutropenia.
+Neutropenia:Patients should be told to promptly report any indication of infection (e.g., sore throat, fever), which could be a sign of neutropenia.
 
-Non-melanoma Skin Cancer: Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
+Non-melanoma Skin Cancer:Instruct patients taking hydrochlorothiazide to protect skin from the sun and undergo regular skin cancer screening.
 
 ## Laboratory Tests
 
@@ -174,16 +174,16 @@ Patients taking concomitant neprilysin inhibitors may be at increased risk for a
 
 Interactions Common for Both Benazepril and Hydrochlorothiazide
 
-Potassium Supplements and Potassium-Sparing Diuretics: Concomitant use with Lotensin HCT may effect potassium levels.
+Potassium Supplements and Potassium-Sparing Diuretics:Concomitant use with Lotensin HCT may effect potassium levels.
 Monitor potassium periodically.
 
-mTOR (mammalian target of rapamycin) inhibitors: Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (see WARNINGS).
+mTOR (mammalian target of rapamycin) inhibitors:Patients receiving coadministration of ACE inhibitor and mTOR inhibitor (e.g., temsirolimus, sirolimus, everolimus) therapy may be at increased risk for angioedema (seeWARNINGS).
 
-Lithium: Renal clearance of lithium is reduced by thiazides and increase the risk of lithium toxicity.
+Lithium:Renal clearance of lithium is reduced by thiazides and increase the risk of lithium toxicity.
 Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium.
 Monitor lithium levels when used concomitantly with Lotensin HCT.
 
-Dual Blockade of the Renin-Angiotensin System (RAS): Dual Blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypertension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
+Dual Blockade of the Renin-Angiotensin System (RAS):Dual Blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypertension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy.
 Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy.
 In general, avoid combined use of RAS inhibitors.
 Closely monitor blood pressure, renal function and electrolytes in patients on Lotensin HCT and other agents that affect the RAS.
@@ -191,7 +191,7 @@ Closely monitor blood pressure, renal function and electrolytes in patients on L
 Do not coadminister aliskiren with Lotensin HCT in patients with diabetes.
 Avoid use of aliskiren with Lotensin HCT in patients with renal impairment (GFR < 60 mL/min).
 
-NSAIDs and Cox-2 selective agents: In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including benazepril, may result in deterioration of renal function, including possible acute renal failure.
+NSAIDs and Cox-2 selective agents:In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including benazepril, may result in deterioration of renal function, including possible acute renal failure.
 These effects are usually reversible.
 Monitor renal function periodically in patients receiving benazepril and NSAID therapy.
 
@@ -210,46 +210,46 @@ have been reported rarely in patients on therapy with injectable gold (sodium au
 
 Hydrochlorothiazide
 
-Ion exchange resins: Stagger the dosage of hydrochlorothiazide and ion exchange resins such that hydrochlorothiazide is administered at least 4 hours before or 4 to 6 hours after the administration of resins.
+Ion exchange resins:Stagger the dosage of hydrochlorothiazide and ion exchange resins such that hydrochlorothiazide is administered at least 4 hours before or 4 to 6 hours after the administration of resins.
 Single doses of either cholestyramine or colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85% and 43%, respectively.
 
-Digitalis glycosides: Thiazide-induced hypokalemia or hypomagnesemia may predispose the patients to digoxin toxicity
+Digitalis glycosides:Thiazide-induced hypokalemia or hypomagnesemia may predispose the patients to digoxin toxicity
 
-Skeletal muscle relaxants: Possible increased responsiveness to muscle relaxants such as curare derivatives.
+Skeletal muscle relaxants:Possible increased responsiveness to muscle relaxants such as curare derivatives.
 
 Antidiabetic agents: Dosage adjustment of antidiabetic drug may be required.
 
-Antineoplastic agents (e.g., cyclophosphamide, methotrexate): Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.
+Antineoplastic agents(e.g., cyclophosphamide, methotrexate):Concomitant use of thiazide diuretics may reduce renal excretion of cytotoxic agents and enhance their myelosuppressive effects.
 
-Drugs that alter gastrointestinal motility: The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g., atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
+Drugs that alter gastrointestinal motility:The bioavailability of thiazide-type diuretics may be increased by anticholinergic agents (e.g., atropine, biperiden), apparently due to a decrease in gastrointestinal motility and the stomach emptying rate.
 Conversely, pro-kinetic drugs may decrease the bioavailability of thiazide diuretics.
 
-Cyclosporin: Concomitant treatment with diuretics may increase the risk of hyperuricaemia and gout-type complications.
+Cyclosporin:Concomitant treatment with diuretics may increase the risk of hyperuricaemia and gout-type complications.
 
-Alcohol, barbiturates or narcotics: Concomitant administration of thiazide diuretics with alcohol, barbiturates, or narcotics may potentiate orthostatic hypotension.
+Alcohol, barbiturates or narcotics:Concomitant administration of thiazide diuretics with alcohol, barbiturates, or narcotics may potentiate orthostatic hypotension.
 
-Pressor amines: Hydrochlorothiazide may reduce the response to pressor amines such as noradrenaline but the clinical significance of this effect is not sufficient to preclude their use.
+Pressor amines:Hydrochlorothiazide may reduce the response to pressor amines such as noradrenaline but the clinical significance of this effect is not sufficient to preclude their use.
 
 Non-clinical safety data
 
 ### Carcinogenesis, Mutagenicity, Fertility
 
-No evidence of carcinogenicity was found when benazepril was given to rats and mice for 104 weeks at doses up to 150 mg/kg/day.
+No evidence of carcinogenicity was found when benazeprilwas given to rats and mice for 104 weeks at doses up to 150 mg/kg/day.
 On a body-surface-area basis, this dose is 18 times (rats) and 9 times (mice) the maximum recommended human dose.
-No mutagenic activity was detected in the Ames test in bacteria (with or without metabolic activation), in an in vitro test for forward mutations in cultured mammalian cells, or in a nucleus anomaly test.
+No mutagenic activity was detected in the Ames test in bacteria (with or without metabolic activation), in an in vitrotest for forward mutations in cultured mammalian cells, or in a nucleus anomaly test.
 At doses of 50-500 mg/kg/day (6 to 61 times the maximum recommended dose on a body-surface-area basis), benazepril had no adverse effect on the reproductive performance of male and female rats.
 
-Under the auspices of the National Toxicology Program, rats and mice received hydrochlorothiazide in their feed for 2 years, at doses up to 600 mg/kg/day in mice and up to 100 mg/kg/day in rats.
+Under the auspices of the National Toxicology Program, rats and mice received hydrochlorothiazidein their feed for 2 years, at doses up to 600 mg/kg/day in mice and up to 100 mg/kg/day in rats.
 These studies uncovered no evidence of a carcinogenic potential of hydrochlorothiazide in rats or female mice, but there was equivocal evidence of hepatocarcinogenicity in male mice.
 
-Hydrochlorothiazide was not genotoxic in in vitro assays using strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 of Salmonella typhimurium (the Ames test); in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations; or in in vivo assays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophila sex-linked recessive lethal trait gene.
-Positive test results were obtained in the in vitro CHO Sister Chromatid Exchange (clastogenicity) test and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide of 43 to 1300 µg/mL.
-Positive test results were also obtained in the Aspergillus nidulans nondisjunction assay, using an unspecified concentration of hydrochlorothiazide.
+Hydrochlorothiazide was not genotoxic in in vitroassays using strains TA 98, TA 100, TA 1535, TA 1537, and TA 1538 of Salmonella typhimurium(the Ames test); in the Chinese Hamster Ovary (CHO) test for chromosomal aberrations; or in in vivoassays using mouse germinal cell chromosomes, Chinese hamster bone marrow chromosomes, and the Drosophilasex-linked recessive lethal trait gene.
+Positive test results were obtained in the in vitroCHO Sister Chromatid Exchange (clastogenicity) test and in the Mouse Lymphoma Cell (mutagenicity) assays, using concentrations of hydrochlorothiazide of 43 to 1300 µg/mL.
+Positive test results were also obtained in the Aspergillusnidulansnondisjunction assay, using an unspecified concentration of hydrochlorothiazide.
 
 ## Fertility
 
 There are no human fertility data for hydrochlorothiazide.
-In animal studies, benazepril and hydrochlorothiazide alone or in combination had no effect on fertility and conception (see PRECAUTIONS, Non-Clinical Safety Data).
+In animal studies, benazepril and hydrochlorothiazide alone or in combination had no effect on fertility and conception (seePRECAUTIONS,Non-Clinical Safety Data).
 
 Use in Specific Populations
 
@@ -268,7 +268,7 @@ A limited amount of data suggests that the systemic clearance of hydrochlorothia
 
 ## Pediatric Use
 
-Neonates with a history of in utero exposure to Lotensin HCT:
+Neonates with a history ofin uteroexposure to Lotensin HCT:
 
 If oliguria or hypotension occurs, direct attention toward support of blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and/or substituting for disordered renal function.
@@ -283,7 +283,7 @@ No dose adjustment is required in patients with mild (CrCL 60 to 90 mL/min) or m
 
 ## Hepatic Impairment
 
-No adjustment of the initial dose is required for patients with mild to moderate hepatic impairment (see CLINICAL PHARMACOLOGY).
+No adjustment of the initial dose is required for patients with mild to moderate hepatic impairment (seeCLINICAL PHARMACOLOGY).
 
 Hydrochlorothiazide
 

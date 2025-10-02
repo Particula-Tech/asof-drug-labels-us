@@ -20,11 +20,11 @@ The National Drug Codes for the various packages are:
 
 Tablets are oblong and scored, with “LOTENSIN HCT” on one side and appropriate number imprinted on the other side.
 
-Storage: Do not store above 86°F (30°C).
+Storage:Do not store above 86°F (30°C).
 Protect from moisture and light.
-Dispense in a tight, light-resistant container (USP).
+Dispense inatight, light-resistant container (USP).
 
-Manufactured for and Distributed by: Validus Pharmaceuticals LLC Parsippany, NJ 07054 info@validuspharma.com www.validuspharma.com 1-866-982-5438
+Manufactured for andDistributed by: Validus Pharmaceuticals LLC Parsippany, NJ 07054 info@validuspharma.com www.validuspharma.com 1-866-982-5438
 
 © 2023 Validus Pharmaceuticals LLC
 

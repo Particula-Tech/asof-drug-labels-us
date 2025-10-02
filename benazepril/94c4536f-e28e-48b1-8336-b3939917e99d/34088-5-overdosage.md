@@ -15,7 +15,7 @@ If digitalis has also been administered, hypokalemia may accentuate cardiac arrh
 Laboratory determinations of serum levels of benazepril and its metabolites are not widely available, and such determinations have, in any event, no established role in the management of benazepril overdose.
 
 No data are available to suggest physiological maneuvers (e.g., maneuvers to change the pH of the urine) that might accelerate elimination of benazepril and its metabolites.
-Benazeprilat is only slightly dialyzable, but dialysis might be considered in overdosed patients with severely impaired renal function (see WARNINGS).
+Benazeprilat is only slightly dialyzable, but dialysis might be considered in overdosed patients with severely impaired renal function (seeWARNINGS).
 
 Angiotensin II could presumably serve as a specific antagonist-antidote in the setting of benazepril overdose, but angiotensin II is essentially unavailable outside of scattered research facilities.
 Because the hypotensive effect of benazepril is achieved through vasodilation and effective hypovolemia, it is reasonable to treat benazepril overdose by infusion of normal saline solution.
