@@ -34,7 +34,7 @@ CNS stimulants may induce a manic or mixed episode in patients.
 Prior to initiating amphetamine sulfate tablets, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, or depression).
 
 New Psychotic or Manic Symptoms CNS stimulants, at recommended doses, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
-In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS-treated patients, compared with 0% of placebo-treated patients.
+In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared with 0% of placebo-treated patients.
 If such symptoms occur, consider discontinuing amphetamine sulfate tablets.
 
 Long-Term Suppression of Growth in Pediatric Patients
@@ -74,7 +74,7 @@ If concomitant use of amphetamine sulfate with other serotonergic drugs or CYP2D
 
 Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
 
-CNS stimulants, including amphetamine sulfate have been associated with the onset or exacerbation of motor and verbal tics.
+CNS stimulants, including amphetamine sulfate, have been associated with the onset or exacerbation of motor and verbal tics.
 Worsening of Tourette’s syndrome has also been reported.
 Assess the family history and clinically evaluate patients for tics or Tourette’s syndrome before initiating amphetamine sulfate tablets.
 Regularly monitor patients for the emergence or worsening of tics or Tourette’s syndrome with amphetamine sulfate tablets, and discontinue treatment if clinically appropriate.
