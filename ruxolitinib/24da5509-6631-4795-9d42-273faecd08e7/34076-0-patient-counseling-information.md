@@ -27,16 +27,23 @@ Thrombosis
 Advise patients that events of DVT and PE have been reported in clinical studies with Janus kinase inhibitors used to treat inflammatory conditions.
 Instruct patients to tell their healthcare provider if they develop any signs or symptoms of a DVT or PE [see Warnings and Precautions (5.5)].
 
-Thrombocytopenia, Anemia, and Neutropenia
+Cytopenias
 
-Advise patients of the risk of thrombocytopenia, anemia, and neutropenia with OPZELURA.
-Instruct patients to tell their healthcare provider if they develop any signs or symptoms of thrombocytopenia, anemia, or neutropenia [see Warnings and Precautions (5.6)].
+Advise patients of the risk of thrombocytopenia, anemia, neutropenia, lymphopenia, and leukopenia with OPZELURA.
+Instruct patients to tell their healthcare provider if they develop any signs or symptoms of thrombocytopenia, anemia, neutropenia, lymphopenia, or leukopenia [see Warnings and Precautions (5.6)].
 
 Administration Instructions
 
-Advise patients or caregivers that OPZELURA is for topical use only [see Dosage and Administration (2.1)].
+Advise patients or caregivers that OPZELURA is for topical use only [see Dosage and Administration (2.1,2.2)].
 
-Advise patients to limit treatment to one 60 gram tube per week or one 100 gram tube per 2 weeks [see Dosage and Administration (2.1)].
+Atopic Dermatitis
+
+- Adult and Pediatric Patients 12 Years of Age and Older: Advise patients or caregivers to limit treatment to one 60 gram tube of OPZELURA per week or one 100 gram tube per 2 weeks [see Dosage and Administration (2.1)].
+- Pediatric Patients 2 to 11 Years of Age: Advise patients or caregivers to limit treatment to one 60 gram tube of OPZELURA per 2 weeks [see Dosage and Administration (2.1)].
+
+Nonsegmental Vitiligo
+
+- Advise patients or caregivers to limit treatment to one 60 gram tube of OPZELURA per week or one 100 gram tube per 2 weeks [see Dosage and Administration (2.2)].
 
 Pregnancy Registry
 
@@ -50,5 +57,5 @@ Manufactured for: Incyte Corporation 1801 Augustine Cut-off Wilmington, DE 19803
 
 OPZELURA is a registered trademark of Incyte.
 All rights reserved.
-Patent Information: www.incyte.com/patents © 2021-2024 Incyte Corporation.
+Patent Information: www.incyte.com/patents © 2021-2025 Incyte Corporation.
 All rights reserved.

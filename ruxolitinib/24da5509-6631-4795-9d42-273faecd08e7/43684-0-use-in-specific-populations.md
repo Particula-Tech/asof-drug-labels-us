@@ -37,7 +37,7 @@ Risk Summary
 There are no data on the presence of ruxolitinib in human milk, the effects on the breastfed child, or the effects on milk production.
 Ruxolitinib was present in the milk of lactating rats (see Data).
 When a drug is present in animal milk, it is likely that the drug will be present in human milk.
-Because of the serious adverse findings in adults, including risks of serious infections, thrombocytopenia, anemia, and neutropenia, advise women not to breastfeed during treatment with OPZELURA and for approximately four weeks after the last dose (approximately 5-6 elimination half-lives).
+Because of the serious adverse findings in adults, including risks of serious infections, thrombocytopenia, anemia, and neutropenia, advise women not to breastfeed during treatment with OPZELURA and for approximately four weeks after the last dose (approximately 5‑6 elimination half-lives).
 
 Data
 
@@ -49,19 +49,19 @@ Additional analysis showed the presence of ruxolitinib and several of its metabo
 
 Atopic Dermatitis
 
-The safety and effectiveness of OPZELURA for the topical treatment of mild-to-moderate atopic dermatitis have been established in pediatric patients aged 12 to 17 years of age.
-Use of OPZELURA in this age group is supported by evidence from TRuE-AD1 and TRuE-AD2, which included 92 pediatric subjects aged 12 to 17 years with mild-to-moderate atopic dermatitis [see Clinical Pharmacology (12.3) and Clinical Studies (14.1)].
-No clinically meaningful differences in safety or effectiveness were observed between adult and pediatric subjects.
+The safety and effectiveness of OPZELURA for the topical short-term and non-continuous chronic treatment of mild to moderate atopic dermatitis have been established in non-immunocompromised pediatric patients ages 2 years and older whose disease is not adequately controlled with topical prescription therapies or when those therapies are not advisable.
+Use of OPZELURA in this age group is supported by evidence from adequate and well-controlled trials in adults and pediatric subjects ages 2 years and older with mild to moderate atopic dermatitis [see Clinical Studies (14.1)].
+Trials included 92 subjects 12 to 17 years of age and 130 subjects 2 to 11 years of age treated with OPZELURA.
 
-The safety and effectiveness of OPZELURA in pediatric patients younger than 12 years of age with atopic dermatitis have not been established.
+Application site reactions, pyrexia, and decreased white blood cell were reported more frequently in pediatric subjects ages 2 to ll years compared to adults and pediatric subjects ages 12 years and older [see Adverse Reactions (6.1)].
+The safety and effectiveness of OPZELURA have not been established in pediatric patients younger than 2 years of age with atopic dermatitis.
 
 Nonsegmental Vitiligo
 
-The safety and effectiveness of OPZELURA for the topical treatment of nonsegmental vitiligo have been established in pediatric patients aged 12 to 17 years of age.
-Use of OPZELURA in this age group is supported by evidence from TRuE-V1 and TRuE-V2, which included 55 pediatric subjects aged 12 to 17 years with nonsegmental vitiligo [see Clinical Studies (14.2)].
-No clinically meaningful differences in safety or effectiveness were observed between adult and pediatric subjects.
+The safety and effectiveness of OPZELURA for the topical treatment of nonsegmental vitiligo have been established in pediatric patients ages 12 years and older.
+Use of OPZELURA in this age group is supported by evidence from TRuE-V1 and TRuE-V2, which included 55 subjects ages 12 to 17 years with nonsegmental vitiligo [see Clinical Studies (14.2)].
 
-The safety and effectiveness of OPZELURA in pediatric patients younger than 12 years of age with nonsegmental vitiligo have not been established.
+The safety and effectiveness of OPZELURA have not been established in pediatric patients younger than 12 years of age with nonsegmental vitiligo.
 
 Juvenile Animal Toxicity Data
 
@@ -69,7 +69,7 @@ Oral administration of ruxolitinib to juvenile rats resulted in effects on growt
 When administered starting at postnatal day 7 (the equivalent of a human newborn) at doses of 1.5 to 75 mg/kg/day, evidence of fractures occurred at doses ≥ 30 mg/kg/day, and effects on body weight and other bone measures [e.g., bone mineral content, peripheral quantitative computed tomography, and x-ray analysis] occurred at doses ≥ 5 mg/kg/day.
 When administered starting at postnatal day 21 (the equivalent of a human 2-3 years of age) at doses of 5 to 60 mg/kg/day, effects on body weight and bone occurred at doses ≥ 15 mg/kg/day, which were considered adverse at 60 mg/kg/day.
 Males were more severely affected than females in all age groups, and effects were generally more severe when administration was initiated earlier in the postnatal period.
-These findings were observed at systemic exposures that are at least 40% the MRHD clinical systemic exposure.
+These findings were observed at systemic exposures that are at least 45% the MRHD in pediatric subjects 2 to 11 years of age (the clinical systemic exposure from ruxolitinib cream, 1.5% applied twice daily to 35-50% atopic dermatitis-affected body surface area in pediatric subjects 2 to 11 years of age is used for the calculation of multiples of human exposure in this subsection).
 
 ## 8.5 Geriatric Use
 

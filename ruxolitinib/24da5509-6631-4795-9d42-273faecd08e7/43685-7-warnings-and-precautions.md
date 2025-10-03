@@ -2,7 +2,7 @@
 
 ## 5.1 Serious Infections
 
-Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in patients receiving oral Janus kinase inhibitors.
+Serious and sometimes fatal infections due to bacterial, mycobacterial, invasive fungal, viral, or other opportunistic pathogens have been reported in patients receiving oral JAK inhibitors.
 
 Serious lower respiratory tract infections were reported in the clinical development program with topical ruxolitinib.
 
@@ -22,19 +22,19 @@ Do not resume OPZELURA until the infection is controlled.
 Tuberculosis
 
 No cases of active tuberculosis (TB) were reported in clinical trials with OPZELURA.
-Cases of active TB were reported in clinical trials of oral Janus kinase inhibitors used to treat inflammatory conditions.
+Cases of active TB were reported in clinical trials of oral JAK inhibitors used to treat inflammatory conditions.
 Consider evaluating patients for latent and active TB infection prior to administration of OPZELURA.
 
 During OPZELURA use, monitor patients for the development of signs and symptoms of TB.
 
 Viral Reactivation
 
-Viral reactivation, including cases of herpes virus reactivation (e.g., herpes zoster), were reported in clinical trials with Janus kinase inhibitors used to treat inflammatory conditions including OPZELURA.
+Viral reactivation, including cases of herpes virus reactivation (e.g., herpes zoster), were reported in clinical trials with JAK inhibitors used to treat inflammatory conditions including OPZELURA.
 If a patient develops herpes zoster, consider interrupting OPZELURA treatment until the episode resolves.
 
 Hepatitis B and C
 
-The impact of Janus kinase inhibitors used to treat inflammatory conditions including OPZELURA on chronic viral hepatitis reactivation is unknown.
+The impact of JAK inhibitors used to treat inflammatory conditions including OPZELURA on chronic viral hepatitis reactivation is unknown.
 Patients with a history of hepatitis B or C infection were excluded from clinical trials.
 
 Hepatitis B viral load (HBV-DNA titer) increases, with or without associated elevations in alanine aminotransferase and aspartate aminotransferase, have been reported in patients with chronic HBV infections taking oral ruxolitinib.
@@ -87,12 +87,12 @@ In a large, randomized, postmarketing safety study of an oral JAK inhibitor in R
 Avoid OPZELURA in patients who may be at increased risk of thrombosis.
 If symptoms of thrombosis occur, discontinue OPZELURA and evaluate and treat patients appropriately.
 
-## 5.6 Thrombocytopenia, Anemia, and Neutropenia
+## 5.6 Cytopenias
 
-Thrombocytopenia, anemia, and neutropenia were reported in the clinical trials with OPZELURA.
+Thrombocytopenia, anemia, neutropenia, lymphopenia, and leukopenia were reported in the clinical trials with OPZELURA.
 Consider the benefits and risks for individual patients who have a known history of these events prior to initiating therapy with OPZELURA.
 Perform CBC monitoring as clinically indicated.
-If signs and/or symptoms of clinically significant thrombocytopenia, anemia, and neutropenia occur, patients should discontinue OPZELURA.
+Discontinue OPZELURA if signs and/or symptoms associated with clinically significant decreases in laboratory values occur.
 
 ## 5.7 Lipid Elevations
 
