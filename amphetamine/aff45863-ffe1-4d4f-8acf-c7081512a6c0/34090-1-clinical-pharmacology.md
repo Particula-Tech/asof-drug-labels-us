@@ -24,7 +24,7 @@ A single dose of ADDERALL XR 20 mg extended-release capsules provided comparable
 
 The mean elimination half-life for d-amphetamine is 10 hours in adults; 11 hours in adolescents aged 13 to 17 years and weighing less than or equal to 75 kg/165 lbs; and 9 hours in children aged 6 to 12 years.
 For the l-amphetamine, the mean elimination half-life in adults is 13 hours; 13 to 14 hours in adolescents; and 11 hours in children aged 6 to 12 years.
-On a mg/kg body weight basis, children have a higher clearance than adolescents or adults (see Special Populations below).
+On a mg/kg body weight basis, children have a higher clearance than adolescents or adults (see Special Populations).
 
 ADDERALL XR demonstrates linear pharmacokinetics over the dose range of 20 to 60 mg in adults and adolescents weighing greater than 75 kg/165 lbs, over the dose range of 10 to 40 mg in adolescents weighing less than or equal to 75 kg/165 lbs, and 5 to 30 mg in children aged 6 to 12 years.
 There is no unexpected accumulation at steady state in children.

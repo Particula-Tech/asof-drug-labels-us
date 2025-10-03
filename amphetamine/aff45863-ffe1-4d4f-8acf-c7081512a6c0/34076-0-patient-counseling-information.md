@@ -22,7 +22,7 @@ Prior to initiating treatment with ADDERALL XR, adequately screen patients with 
 Such screening should include a detailed psychiatric history, including a family history of suicide, bipolar disorder, and/or depression.
 Additionally, ADDERALL XR therapy at usual doses may cause treatment-emergent psychotic or manic symptoms in patients without prior history of psychotic symptoms or mania [see Warnings and Precautions (5.4)].
 
-Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, Including Raynaud’s Phenomenon]
+Circulation Problems in Fingers and Toes [Peripheral Vasculopathy, including Raynaud’s Phenomenon]
 
 Instruct patients beginning treatment with ADDERALL XR about the risk of peripheral vasculopathy, including Raynaud’s phenomenon, and in associated signs and symptoms: fingers or toes may feel numb, cool, painful, and/or may change color from pale, to blue, to red.
 Instruct patients to report to their physician any new numbness, pain, skin color change, or sensitivity to temperature in fingers or toes.

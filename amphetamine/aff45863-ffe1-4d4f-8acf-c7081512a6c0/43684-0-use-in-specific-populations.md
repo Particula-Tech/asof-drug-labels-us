@@ -63,10 +63,12 @@ Because of the potential for serious adverse reactions in nursing infants, advis
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of ADDERALL XR have not been established in pediatric patients less than 6 years of age.
+
 The safety and effectiveness of ADDERALL XR have been established in pediatric patients with ADHD 6 years of age and older.
 
-The safety and efficacy of ADDERALL XR in pediatric patients less than 6 years of age have not been established.
-Long-term effects of amphetamines in pediatric patients has not been well established.
+In studies evaluating extended-release amphetamine products, patients 4 to <6 years of age had higher systemic amphetamine exposures than those observed in older pediatric patients at the same dosage.
+Pediatric patients 4 to <6 years of age also had a higher incidence of adverse reactions, including weight loss.
 
 Long-Term Growth Suppression
 

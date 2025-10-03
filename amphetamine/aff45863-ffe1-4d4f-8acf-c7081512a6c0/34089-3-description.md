@@ -23,5 +23,5 @@ Inactive Ingredients and Colors
 
 The inactive ingredients in ADDERALL XR extended-release capsules include: gelatin capsules, hydroxypropyl methylcellulose, methacrylic acid copolymer, Opadry® beige, sugar spheres, talc, and triethyl citrate.
 Gelatin capsules contain edible inks, kosher gelatin, and titanium dioxide.
-The 5, 10, and 15 mg capsules also contain FD&C Blue #2.
+The 5 mg, 10 mg, and 15 mg capsules also contain FD&C Blue #2.
 The 20 mg, 25 mg, and 30 mg capsules also contain red iron oxide and yellow iron oxide.

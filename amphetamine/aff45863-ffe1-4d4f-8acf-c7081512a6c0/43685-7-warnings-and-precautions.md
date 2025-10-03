@@ -42,10 +42,12 @@ If such symptoms occur, consider discontinuing ADDERALL XR.
 
 ## 5.5 Long-Term Suppression of Growth in Pediatric Patients
 
+ADDERALL XR is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
+
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 Closely monitor growth (weight and height) in ADDERALL XR-treated pediatric patients treated with CNS stimulants.
 
-In a controlled trial of ADDERALL XR in adolescents, mean weight change from baseline within the initial 4 weeks of therapy was -1.1 lbs. and -2.8 lbs., respectively, for patients receiving 10 and 20 mg ADDERALL XR.
+In a controlled trial of ADDERALL XR in adolescents, mean weight change from baseline within the initial 4 weeks of therapy was -1.1 lbs. and -2.8 lbs., respectively, for patients receiving 10 mg and 20 mg ADDERALL XR.
 Higher doses were associated with greater weight loss within the initial 4 weeks of treatment.
 Chronic use of amphetamines can be expected to cause a similar suppression of growth [see Adverse Reactions (6.1)].
 
@@ -56,11 +58,11 @@ Pediatric patients who are not growing or gaining weight as expected may need to
 There is some clinical evidence that stimulants may lower the convulsive threshold in patients with prior history of seizures, in patients with prior EEG abnormalities in the absence of seizures, and very rarely, in patients without a history of seizures and no prior EEG evidence of seizures.
 In the presence of seizures, ADDERALL XR should be discontinued.
 
-## 5.7 Peripheral Vasculopathy, Including Raynaud’s Phenomenon
+## 5.7 Peripheral Vasculopathy, including Raynaud’s Phenomenon
 
 CNS stimulants, including ADDERALL XR, used to treat ADHD are associated with peripheral vasculopathy, including Raynaud’s phenomenon.
 Signs and symptoms are usually intermittent and mild; however, sequelae have included digital ulceration and/or soft tissue breakdown.
-Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports and at the therapeutic dosage of CNS stimulants in all age groups throughout the course of treatment.
+Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in postmarketing reports and at the therapeutic dosage of CNS stimulants in all age groups throughout the course of treatment.
 Signs and symptoms generally improved after dosage reduction or discontinuation of the CNS stimulant.
 
 Careful observation for digital changes is necessary during ADDERALL XR treatment.

@@ -50,7 +50,7 @@ In pediatric patients (6 to 17 years of age) with severe renal impairment, the r
 The maximum dose for children 6 to 12 years of age with severe renal impairment is 20 mg once daily.
 ADDERALL XR is not recommended in patients with end stage renal disease (ESRD) (GFR <15 mL/min/1.73 m2) [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
-## 2.7 Dosage Modification Due to Drug Interactions
+## 2.7 Dosage Modification due to Drug Interactions
 
 Agents that alter urinary pH can impact excretion and alter blood levels of amphetamines.
 Acidifying agents (e.g., ascorbic acid) decrease blood levels; adjust ADDERALL XR dosage based on clinical response [see Drug Interactions (7)].

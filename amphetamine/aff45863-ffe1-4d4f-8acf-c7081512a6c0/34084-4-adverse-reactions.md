@@ -44,7 +44,7 @@ Adverse Reactions Occurring in Controlled Trials
 
 Adverse reactions reported in a 3 week clinical trial of children and a 4 week clinical trial in adolescents and adults, respectively, treated with ADDERALL XR or placebo are presented in the tables below.
 
-Table 1: Adverse Reactions Reported by 2% or More of Children (6 to 12 Years Old) Receiving ADDERALL XR with Higher Incidence Than on Placebo in a 584 Patient Clinical Study
+Table 1: Adverse Reactions Reported by 2% or More of Children (6 to 12 Years Old) Receiving ADDERALL XR with Higher Incidence than on Placebo in a 584 Patient Clinical Study
 
 | Body System | Preferred Term | ADDERALL XR (n=374) | Placebo (n=210) |
 | --- | --- | --- | --- |
@@ -53,7 +53,7 @@ Table 1: Adverse Reactions Reported by 2% or More of Children (6 to 12 Years Old
 | Nervous System | Insomnia Emotional Lability Nervousness Dizziness | 17% 9% 6% 2% | 2% 2% 2% 0% |
 | Metabolic/Nutritional | Weight Loss | 4% | 0% |
 
-Table 2: Adverse Reactions Reported by 5% or More of Adolescents (13 to 17 Years Old) Weighing ≤75 kg/165 lbs Receiving ADDERALL XR with Higher Incidence Than Placebo in a 287 Patient Clinical Forced Weekly-Dose Titration StudyIncluded doses up to 40 mg.
+Table 2: Adverse Reactions Reported by 5% or More of Adolescents (13 to 17 Years Old) Weighing ≤75 kg/165 lbs Receiving ADDERALL XR with Higher Incidence than Placebo in a 287 Patient Clinical Forced Weekly-Dose Titration StudyIncluded doses up to 40 mg.
 
 | Body System | Preferred Term | ADDERALL XR (n=233) | Placebo (n=54) |
 | --- | --- | --- | --- |
@@ -64,7 +64,7 @@ Table 2: Adverse Reactions Reported by 5% or More of Adolescents (13 to 17 Years
 | Metabolic/Nutritional | Weight Loss | 9% | 0% |
 | Note: The following reactions did not meet the criterion for inclusion in Table 2 but were reported by 2 to 4% of adolescent patients receiving ADDERALL XR with a higher incidence than patients receiving placebo in this study: accidental injury, asthenia (fatigue), dry mouth, dyspepsia, emotional lability, nausea, somnolence, and vomiting. |  |  |  |
 
-Table 3: Adverse Reactions Reported by 5% or More of Adults Receiving ADDERALL XR with Higher Incidence Than on Placebo in a 255 Patient Clinical Forced Weekly-Dose Titration StudyIncluded doses up to 60 mg.
+Table 3: Adverse Reactions Reported by 5% or More of Adults Receiving ADDERALL XR with Higher Incidence than on Placebo in a 255 Patient Clinical Forced Weekly-Dose Titration StudyIncluded doses up to 60 mg.
 
 | Body System | Preferred Term | ADDERALL XR (n=191) | Placebo (n=64) |
 | --- | --- | --- | --- |
