@@ -13,9 +13,9 @@ Pseudoephedrine Hydrochloride, USP.....
 Dextromethorphan Hydrobromide, USP...
 10 mg
 
-Inactive Ingredients: citric acid anhydrous, FD&C Red #40, glycerin, melon flavoring, methylparaben, propylene glycol, purified water, sodium benzoate, sodium citrate dihydrate, and sucralose.
+Inactive Ingredients: citric acid anhydrous, FD&C Red No. 40, glycerin, melon flavoring, methylparaben, propylene glycol, purified water, sodium benzoate, sodium citrate dihydrate, and sucralose.
 
-C 16H 19BrN 2•C 4H 4O 4 M.W.
+C 16H 19BrN 2•C 4H 4O 4M.W.
 435.31 Brompheniramine Maleate, USP (±)-2- p-Bromo-α-2-(dimethylamino)ethylbenzylpyridine maleate (1:1)
 
 C 10H 15NO•HCl M.W.
