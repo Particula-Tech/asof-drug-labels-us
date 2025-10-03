@@ -34,12 +34,23 @@ Consider periodic monitoring of electrocardiograms and electrolytes.
 Convulsions have been reported in patients receiving GnRH agonists, like CAMCEVI [see Adverse Reactions (6.2)].
 Manage patients receiving a GnRH agonist who experience convulsions according to current clinical practice.
 
-## 5.6 Laboratory Tests
+## 5.6 Severe Cutaneous Adverse Reactions
+
+CAMCEVI can cause severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP).
+SCARs, including SJS/TEN, DRESS, and AGEP, occurred in patients receiving CAMCEVI or other GnRH agonists; including cases with visceral involvement and/or requiring skin grafts [see Adverse Reactions (6.2)].
+
+Monitor patients for the development of SCARs.
+
+If a SCAR is suspected, interrupt CAMCEVI until the etiology of the reaction has been determined.
+Consultation with a dermatologist is recommended.
+If a SCAR is confirmed, or for other grade 4 skin reactions, permanently discontinue CAMCEVI.
+
+## 5.7 Laboratory Tests
 
 Monitor serum levels of testosterone following injection of CAMCEVI.
 In the majority of patients treated with CAMCEVI, testosterone levels increased above baseline during the first week, and then declined thereafter to castration levels (<50 ng/dL) within 4 weeks [see Clinical Studies (14) and Adverse Reactions (6)].
 
-## 5.7 Embryo-Fetal Toxicity
+## 5.8 Embryo-Fetal Toxicity
 
 Based on findings in animal studies and mechanism of action, CAMCEVI can cause fetal harm when administered to a pregnant woman.
 In animal developmental and reproductive toxicology studies, administration of a monthly formulation of leuprolide on day 6 of pregnancy (sustained exposure was expected throughout the period of organogenesis) caused adverse embryo-fetal toxicity in animals at doses less than the human dose based on body surface area using an estimated daily dose.

@@ -30,6 +30,11 @@ Convulsions
 - Inform patients that there is an increased risk of convulsions with CAMCEVI treatment.
   Advise patients to immediately contact their healthcare provider if they experience convulsions [see Warnings and Precautions (5.5)].
 
+Severe Cutaneous Adverse Reactions
+
+- Inform patients that severe cutaneous adverse reactions (SCARs), including Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), and acute generalized exanthematous pustulosis (AGEP), which may be life threatening or fatal, may occur during treatment with CAMCEVI.
+  Advise patients to contact their healthcare provider or seek medical attention right away if they experience signs or symptoms of SCARs, e.g., a prodrome of fever, flu-like symptoms, mucosal lesions, progressive skin rash, or lymphadenopathy [see Warnings and Precautions (5.6)].
+
 Injection Site Reactions
 
 - Inform patients that injection site related adverse reactions may occur such as transient burning/stinging, pain, bruising, and redness.

@@ -76,6 +76,6 @@ Respiratory, thoracic and mediastinal disorder:interstitial lung disease
 
 Musculoskeletal System:decreased bone density, tenosynovitis-like symptoms, fibromyalgia
 
-Skin and Subcutaneous:injection site induration or swelling
+Skin and Subcutaneous:injection site induration or swelling, SJS/TEN, DRESS, AGEP, dermatitis exfoliative, bullous dermatitis, and erythema multiforme
 
 Urogenital System:prostate pain
