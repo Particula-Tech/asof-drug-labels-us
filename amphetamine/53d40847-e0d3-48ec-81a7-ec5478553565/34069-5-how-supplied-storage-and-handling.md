@@ -18,4 +18,4 @@ Dispense in a well-closed container, as defined in the USP.
 Manufactured by: Amneal Pharmaceuticals of New York, LLC Brookhaven, NY 11719
 
 Rev.
-05-2025-07
+10-2025-08

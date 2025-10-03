@@ -27,7 +27,7 @@ Monitor all patients for potential tachycardia and hypertension.
 
 Psychiatric Adverse Reactions
 
-Exacerbation Pre-Existing Psychosis
+Exacerbation of Pre-Existing Psychosis
 
 CNS stimulants may exacerbate symptoms of behavior disturbance and thought disorder in patients with a pre-existing psychotic disorder.
 
@@ -39,7 +39,7 @@ Prior to initiating amphetamine sulfate tablets, screen patients for risk factor
 New Psychotic or Manic Symptoms
 
 CNS stimulants, at recommended doses, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
-In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic episodes occurred in approximately 0.1% of CNS stimulant-treated patients, compared with 0% of placebo-treated patients.
+In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients, compared with 0% of placebo-treated patients.
 If such symptoms occur, consider discontinuing amphetamine sulfate tablets.
 
 Long-Term Suppression of Growth in Pediatric Patients
@@ -67,7 +67,7 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 Serotonin Syndrome
 
 Serotonin syndrome, a potentially life-threatening reaction, may occur when amphetamines are used in combination with other drugs that affect the serotonergic neurotransmitter systems such as monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), triptans, tricyclic antidepressants, fentanyl, lithium, tramadol, tryptophan, buspirone, and St. John's Wort (see DRUG INTERACTIONS).
-The co-administration with cytochrome P450 CYP2D6 inhibitors may also increase the risk with increased exposure to amphetamine sulfate tablets.
+The co-administration with cytochrome P450 (CYP2D6) inhibitors may also increase the risk with increased exposure to amphetamine sulfate tablets.
 In these situations, consider an alternative non-serotonergic drug or an alternative drug that does not inhibit CYP2D6 (see DRUG INTERACTIONS).
 
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, delirium, and coma), autonomic instability (e.g., tachycardia, labile blood pressure, dizziness, diaphoresis, flushing, hyperthermia), neuromuscular symptoms (e.g., tremor, rigidity, myoclonus, hyperreflexia, incoordination), seizures, and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhea).
@@ -82,7 +82,7 @@ Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
 CNS stimulants, including amphetamine sulfate, have been associated with the onset or exacerbation of motor and verbal tics.
 Worsening of Tourette’s syndrome has also been reported.
 Assess the family history and clinically evaluate patients for tics or Tourette’s syndrome before initiating amphetamine sulfate tablets.
-Regularly monitor patients for the emergence or worsening of tic or Tourette’s syndrome with amphetamine sulfate tablets, and discontinue.
+Regularly monitor patients for the emergence or worsening of tic or Tourette’s syndrome with amphetamine sulfate tablets, and discontinue treatment if clinically appropriate.
 
 # PRECAUTIONS
 
@@ -131,7 +131,7 @@ Advise patients to contact their healthcare provider or report to the emergency 
 Motor and Verbal Tics, and Worsening of Tourette’s Syndrome
 
 Advise patients that motor and verbal tics and worsening of Tourette’s syndrome may occur during treatment with amphetamine sulfate tablets.
-Instruct the patients to notify their healthcare provider of emergence or worsening of tics or Tourette’s syndrome occurs (see WARNINGS).
+Instruct the patients to notify their healthcare provider if emergence or worsening of tics or Tourette’s syndrome occurs (see WARNINGS).
 
 Amphetamines may impair the ability of the patient to engage in potentially hazardous activities such as operating machinery or vehicle; the patient should therefore be cautioned accordingly.
 
