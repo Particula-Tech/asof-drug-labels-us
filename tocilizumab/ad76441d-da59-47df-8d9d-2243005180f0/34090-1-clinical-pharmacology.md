@@ -62,7 +62,7 @@ Due to the flat dosing employed for SC administration of tocilizumab, no modific
 
 Giant Cell Arteritis – Subcutaneous and Intravenous Administration
 
-The pharmacokinetics of tocilizumab SC in GCA patients was determined using a population pharmacokinetic analysis on a dataset composed of 149 GCA patients treated with 162 mg subcutaneously every week or with 162 mg subcutaneously every other week.
+The pharmacokinetics of tocilizumab S C in GCA patients was determined using a population pharmacokinetic analysis on a dataset composed of 149 GCA patients treated with 162 mg subcutaneously every week or with 162 mg subcutaneously every other week.
 
 For the 162 mg every week dose, the estimated median (range) steady-state Cmax, Ctrough and Cmean of tocilizumab SC were 72.1 (12.2–151) mcg/mL, 67.2 (10.7–145) mcg/mL, and 70.6 (11.7–149) mcg/mL, respectively.
 The accumulation ratios for Cmean or AUCtau, Ctrough, and Cmax were 10.9, 9.6, and 8.9, respectively.
@@ -115,6 +115,14 @@ Following subcutaneous dosing, steady state was reached by 12 weeks for both bod
 All patients treated with tocilizumab SC had steady-state Cmax lower than that achieved with tocilizumab IV across the spectrum of body weights.
 Trough and mean concentrations in patients after SC dosing were similar to those achieved with tocilizumab IV across body weights.
 
+COVID-19 -Intravenous Administration
+
+The pharmacokinetics of tocilizumab in COVID-19 patients was characterized by a population pharmacokinetic analysis of a dataset composed of 380 adult patients treated with tocilizumab 8 mg/kg intravenously (IV) in the COVACTA study [see Clinical Studies (14.10)] and another clinical study.
+
+For one dose of 8 mg/kg tocilizumab IV, the estimated median (range) Cmax and Cday28 of tocilizumab were 151 (77.5-319) mcg/mL and 0.229 (0.00119-19.4) mcg/mL, respectively.
+For two doses of 8 mg/kg tocilizumab IV separated by at least 8 hours, the estimated median (range) Cmax and Cday28 of tocilizumab was 290 (152-604) mcg/mL and 7.04 (0.00474-54.8) mcg/mL, respectively.
+The weight-tiered dosing used in RECOVERY study, 800 mg for patients >90 kg, 600 mg for patients >65 and ≤90 kg, 400 mg for patients >40 and ≤65 kg, and 8mg/kg for patients ≤40 kg, is comparable to 8 mg/kg dosing and is expected to have similar exposure.
+
 Absorption
 
 Following subcutaneous dosing, the absorption half-life was around 4 days in RA and GCA patients.
@@ -139,6 +147,8 @@ In pediatric patients with PJIA, the central volume of distribution was 1.98 L, 
 
 In pediatric patients with SJIA, the central volume of distribution was 1.87 L, the peripheral volume of distribution was 2.14 L resulting in a volume of distribution at steady state of 4.01 L.
 
+In COVID-19 patients treated with one or two infusions of tocilizumab 8 mg/kg intravenously separated by 8 hours, the estimated central volume of distribution was 4.52 L, and the estimated peripheral volume of distribution was 4.23 L, resulting in a volume of distribution of 8.75 L.
+
 Elimination
 
 Tocilizumab is eliminated by a combination of linear clearance and nonlinear elimination.
@@ -150,6 +160,8 @@ The pharmacokinetic parameters of tocilizumab do not change with time.
 Population pharmacokinetic analyses in any patient population tested so far indicate no relationship between apparent clearance and the presence of anti-drug antibodies.
 
 The linear clearance in the population pharmacokinetic analysis was estimated to be 12.5 mL per h in RA patients, 6.7 mL per h in GCA patients, 5.8 mL per h in pediatric patients with PJIA, and 5.7 mL per h in pediatric patients with SJIA.
+In COVID-19 patients, serum concentrations were below the limit of quantification after 35 days on average following one infusion of tocilizumab 8 mg/kg intravenously.
+The average linear clearance in the population pharmacokinetic analysis was estimated to be 17.6 mL per hour in patients with baseline ordinal scale category 3 (OS 3, patients requiring supplemental oxygen), 22.5 mL per hour in patients with baseline OS 4 (patients requiring high-flow oxygen or non-invasive ventilation), 29 mL per hour in patients with baseline OS 5 (patients requiring mechanical ventilation), and 35.4 mL per hour in patients with baseline OS 6 (patients requiring extracorporeal membrane oxygenation (ECMO) or mechanical ventilation and additional organ support).
 
 Due to the dependence of total clearance on tocilizumab serum concentrations, the half-life of tocilizumab is also concentration-dependent and varies depending on the serum concentration level.
 
@@ -176,6 +188,11 @@ In GCA patients treated with tocilizumab-SC, higher exposure was observed in pat
 For the 162 mg every week subcutaneous dosing regimen, the steady-state Cmean was 51% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.
 For the 162 mg every other week subcutaneous regimen, the steady-state Cmean was 129% higher in patients with body weight less than 60 kg compared to patients weighing between 60 to 100 kg.
 There is limited data for patients above 100 kg (n=7).
+
+In COVID-19 patients, exposure following body-weight-based intravenous dosing (8 mg per kg tocilizumab up to 100 kg body weight with a maximum dose of 800 mg) was dependent on body weight and disease severity assessed by an ordinal scale (OS).
+Within an OS category, compared to patients with a mean body weight of 80 kg, exposure was 20% lower in patients weighing less than 60 kg.
+Exposure in patients weighing more than 100 kg was in the same range as exposure in patients with a mean body weight of 80 kg.
+For an 80 kg patient, exposure decreases as OS category increases; for each category increase, exposure decreases by 13%.
 
 Patients with Hepatic Impairment
 

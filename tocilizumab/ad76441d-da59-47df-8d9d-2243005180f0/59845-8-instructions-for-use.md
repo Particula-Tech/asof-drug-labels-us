@@ -141,7 +141,7 @@ Always keep the sharps disposal container out of reach of children.
 
 Manufactured by: Fresenius Kabi USA, LLC Lake Zurich, Illinois 60047 U.S. License No. 2146
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: May 2024
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 02/2025
 
 Read and follow the Instructions for Use that come with your TYENNE prefilled syringe before you start using it and each time you get a refill.
 There may be new information.
@@ -344,4 +344,4 @@ Manufactured by: Fresenius Kabi USA, LLC Lake Zurich, Illinois 60047
 
 U.S. License No. 2146
 
-This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: May 2024
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 02/2025

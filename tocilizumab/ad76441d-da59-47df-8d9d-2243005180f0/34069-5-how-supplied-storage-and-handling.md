@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+How Supplied:
+
 TYENNE (tocilizumab-aazg) injection is a preservative-free, sterile clear and colorless to pale yellow solution.
 The following packaging configurations are available:
 
@@ -30,3 +32,4 @@ TYENNE must be refrigerated at 36°F to 46°F (2ºC to 8ºC).
 Do not freeze.
 A single prefilled syringe (or autoinjector) may be stored at room temperature at or below 77°F (25°C) for a single period of up to 14 days.
 Protect the vials, syringes and autoinjectors from light by storage in the original package until time of use, and keep syringes and autoinjectors dry.
+Do not shake.

@@ -8,7 +8,7 @@ If a serious infection develops, interrupt TYENNE until the infection is control
 Reported infections include:
 
 - •Active tuberculosis, which may present with pulmonary or extrapulmonary disease.
-  Patients should be tested for latent tuberculosis before TYENNE use and during therapy.
+  Patients, except those with COVID-19, should be tested for latent tuberculosis before TYENNE use and during therapy.
   Treatment for latent infection should be initiated prior to TYENNE use.
 - •Invasive fungal infections, including candidiasis, aspergillosis, and pneumocystis.
   Patients with invasive fungal infections may present with disseminated, rather than localized, disease.
