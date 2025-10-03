@@ -3,7 +3,7 @@
 ## 5.1 Abuse, Misuse, and Addiction
 
 Methylphenidate hydrochloride extended-release capsules have a high potential for abuse and misuse.
-The use of methylphenidate hydrochloride extended-release capsules expose individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
+The use of methylphenidate hydrochloride extended-release capsules exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
 Methylphenidate hydrochloride extended-release capsules can be diverted for non-medical use into illicit channels or distribution [see Drug Abuse and Dependence (9.2)].
 Misuse and abuse of CNS stimulants, including methylphenidate hydrochloride extended-release capsules, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
@@ -62,13 +62,14 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 
 ## 5.7 Long-Term Suppression of Growth in Pediatric Patients
 
+Methylphenidate hydrochloride extended-release capsules are not approved for use and are not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
+
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
 Careful follow-up of weight and height in pediatric patients ages 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated pediatric patients over 36 months (to the ages of 10 to 13 years), suggests that pediatric patients who received methylphenidate for 7 days per week throughout the year had a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this development period.
 
 Closely monitor growth (weight and height) in methylphenidate hydrochloride extended-release capsules-treated pediatric patients.
 Pediatric patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
-Methylphenidate hydrochloride extended-release capsules are not approved for use in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
 
 ## 5.8 Acute Angle Closure Glaucoma
 

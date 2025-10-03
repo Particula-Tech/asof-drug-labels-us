@@ -48,7 +48,7 @@ In the clinical trials of methylphenidate hydrochloride extended-release capsule
 
 Alcohol Effect
 
-At an alcohol concentration up to 40%, there was 96% release of methylphenidate from methylphenidate hydrochloride extended-release capsules 80 mg within two hours.
+At an alcohol concentration up to 40%, there was 96% release of methylphenidate from methylphenidate hydrochloride extended-release capsules 80 mg capsule within two hours.
 The results with the 80 mg capsule are considered to be representative of the other available capsules strengths.
 
 Studies in Specific Populations
