@@ -5,10 +5,10 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Hemorrhage [see Warnings and Precautions (5.2)]
 - •Heparin-Induced Thrombocytopenia and Heparin-Induced Thrombocytopenia and Thrombosis [see Warnings and Precautions (5.3)]
 - •Risk of Serious Adverse Reactions in Infants due to Benzyl Alcohol Preservative [see Warnings and Precautions (5.4)]
-- •Thrombocytopenia [see Warnings and Precautions (5.5)]
-- •Heparin Resistance [see Warnings and Precautions (5.7)]
-- •Hypersensitivity [see Warnings and Precautions (5.8)]
-- •Hyperkalemia [see Warnings and Precautions (5.9)]
+- •Thrombocytopenia [see Warnings and Precautions (5.6)]
+- •Heparin Resistance [see Warnings and Precautions (5.8)]
+- •Hypersensitivity [see Warnings and Precautions (5.9)]
+- •Hyperkalemia [see Warnings and Precautions (5.10)]
 
 ## 6.1 Postmarketing Experience
 

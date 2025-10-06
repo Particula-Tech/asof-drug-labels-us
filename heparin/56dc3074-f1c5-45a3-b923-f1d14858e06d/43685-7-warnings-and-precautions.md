@@ -49,7 +49,13 @@ The "gasping syndrome" is characterized by central nervous system depression, me
 When prescribing HEPARIN SODIUM INJECTION in infants consider the combined daily metabolic load of benzyl alcohol from all sources including HEPARIN SODIUM INJECTION (HEPARIN SODIUM INJECTION contains 9.45 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.
 The minimum amount of benzyl alcohol at which toxicity may occur is not known [see Use in Specific Populations (8.4)].
 
-## 5.5 Thrombocytopenia
+## 5.5 Unresponsiveness to Heparin with Concomitant Use with Andexanet Alfa
+
+Unresponsiveness to unfractionated heparin leading to non-prolongation of activated clotting times and serious thrombotic events has occurred when unfractionated heparin was administered after use of andexanet alfa for the reversal of direct Factor Xa inhibitors (apixaban and rivaroxaban).
+Avoid use of heparin after use of andexanet alfa.
+Use an alternative anticoagulant to heparin [see Drug Interactions (7.3)].
+
+## 5.6 Thrombocytopenia
 
 Thrombocytopenia in patients receiving heparin has been reported at frequencies up to 30%.
 It can occur 2 to 20 days (average 5 to 9) following the onset of heparin therapy.
@@ -57,25 +63,25 @@ Obtain platelet counts before and periodically during heparin therapy.
 Monitor thrombocytopenia of any degree closely.
 If the count falls below 100,000/mm3 or if recurrent thrombosis develops, promptly discontinue heparin, evaluate for HIT and HITT, and, if necessary, administer an alternative anticoagulant [see Warnings and Precautions (5.3)].
 
-## 5.6 Coagulation Testing and Monitoring
+## 5.7 Coagulation Testing and Monitoring
 
 When using a full dose heparin regimen, adjust the heparin dose based on frequent blood coagulation tests.
 If the coagulation test is unduly prolonged or if hemorrhage occurs, discontinue heparin promptly [see Overdosage (10)].
 Periodically monitor platelet counts, hematocrit, and occult blood in stool during the entire course of heparin therapy, regardless of the route of administration [see Dosage and Administration (2.2)].
 
-## 5.7 Heparin Resistance
+## 5.8 Heparin Resistance
 
 Resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer, in postsurgical patients, and patients with antithrombin III deficiency.
 Close monitoring of coagulation tests is recommended in these cases.
 Adjustment of heparin doses based on anti-Factor Xa levels may be warranted.
 
-## 5.8 Hypersensitivity
+## 5.9 Hypersensitivity
 
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations.
 
 Because HEPARIN SODIUM INJECTION is derived from animal tissue, it should be used with caution in patients with a history of allergy.
 
-## 5.9 Hyperkalemia
+## 5.10 Hyperkalemia
 
 Heparin can suppress adrenal secretion of aldosterone leading to hyperkalemia, particularly in patients with diabetes mellitus, chronic renal failure, pre-existing metabolic acidosis, a raised plasma potassium, or taking potassium sparing drugs.
 The risk of hyperkalemia appears to increase with duration of therapy but is usually reversible upon discontinuation of heparin.

@@ -11,3 +11,5 @@ The amount of protamine required decreases over time as heparin is metabolized.
 Although the metabolism of heparin is complex, it may, for the purpose of choosing a protamine dose, be assumed to have a half-life of about 30 minutes after intravenous injection.
 Because fatal reactions often resembling anaphylaxis have been reported with protamine, it should be given only when resuscitation techniques and treatment of anaphylactoid shock are readily available.
 For additional information, consult the prescribing information for protamine sulfate injection.
+
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.

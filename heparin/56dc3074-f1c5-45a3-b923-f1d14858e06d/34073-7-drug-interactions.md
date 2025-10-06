@@ -9,7 +9,15 @@ Therefore, when heparin sodium is given with dicumarol or warfarin sodium, a per
 
 Drugs such as NSAIDs (including salicylic acid, ibuprofen, indomethacin, and celecoxib), dextran, phenylbutazone, thienopyridines, dipyridamole, hydroxychloroquine, glycoprotein IIb/IIIa antagonists (including abciximab, eptifibatide, and tirofiban), and others that interfere with platelet-aggregation reactions (the main hemostatic defense of heparinized patients) may induce bleeding and should be used with caution in patients receiving heparin sodium.
 
-## 7.3 Other Interactions
+## 7.3 Unresponsiveness to Heparin with Concomitant Use with Andexanet Alfa
+
+Andexanet binds to heparin-bound antithrombin III (ATIII) and may reduce the anticoagulant effect of heparin.
+Unresponsiveness to unfractionated heparin may lead to serious and life-threatening thrombotic events.
+Use of andexanet alfa as an antidote for heparin has not been established.
+Avoid use of heparin after use of andexanet alfa for the reversal of direct Factor Xa inhibitors (apixaban and rivaroxaban).
+If anticoagulation is needed, use an alternative anticoagulant to heparin [see Warnings and Precautions (5.5)].
+
+## 7.4 Other Interactions
 
 Digitalis, tetracyclines, nicotine, or antihistamines, or intravenous (IV) nitroglycerin may partially counteract the anticoagulant action of heparin sodium.
 

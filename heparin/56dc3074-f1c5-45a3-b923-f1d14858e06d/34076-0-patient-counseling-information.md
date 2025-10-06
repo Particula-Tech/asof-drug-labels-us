@@ -19,8 +19,13 @@ HIT and HITT can occur up to several weeks after the discontinuation of heparin 
 Hypersensitivity
 
 Inform patients that generalized hypersensitivity reactions have been reported.
-Necrosis of the skin has been reported at the site of subcutaneous injection of heparin [see Warnings and Precautions (5.8), Adverse Reactions (6.1)].
+Necrosis of the skin has been reported at the site of subcutaneous injection of heparin [see Warnings and Precautions (5.9), Adverse Reactions (6.1)].
 
 Other Medications
 
 Because of the risk of hemorrhage, advise patients to inform their physicians and dentists of all medications they are taking, including non-prescription medications, and before starting any new medication [see Drug Interactions (7.1)].
+
+This product’s labeling may have been updated.
+For the most recent prescribing information, please visit www.pfizer.com.
+
+For medical information about HEPARIN SODIUM INJECTION, please visit www.pfizermedinfo.com or call 1-800-438-1985.
