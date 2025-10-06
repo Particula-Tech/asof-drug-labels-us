@@ -53,7 +53,7 @@ Cardiovascular: Angina, arrhythmia, AV block (second- or third-degree), bundle b
 
 Nervous System: Abnormal dreams, amnesia, depression, gait abnormality, hallucinations, insomnia, nervousness, paresthesia, personality change, somnolence, tinnitus, tremor.
 
-Gastrointestinal: Anorexia, constipation, diarrhea, dry mouth, dysgeusia, mild elevations of SGOT, SGPT, LDH, and alkaline phosphatase (see WARNINGS, Acute Hepatic Injury), nausea, thirst, vomiting, weight increase.
+Gastrointestinal: Anorexia, constipation, diarrhea, dry mouth, dysgeusia, mild elevations of SGOT, SGPT, LDH, and alkaline phosphatase (see WARNINGS,Acute Hepatic Injury), nausea, thirst, vomiting, weight increase.
 
 Dermatological: Petechiae, photosensitivity, pruritus.
 

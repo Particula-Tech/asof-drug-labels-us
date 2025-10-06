@@ -7,4 +7,6 @@ Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 Rev.
 04/2025
 
-9405704 20005753
+9405704
+
+20005753
