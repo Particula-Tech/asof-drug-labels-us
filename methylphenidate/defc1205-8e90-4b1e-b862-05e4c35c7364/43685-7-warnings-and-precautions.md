@@ -7,7 +7,9 @@ The use of QuilliChew ER exposes individuals to the risks of abuse and misuse, w
 QuilliChew ER can be diverted for non-medical use into illicit channels or distribution [see Drug Abuse and Dependence (9.2)].
 Misuse and abuse of CNS stimulants, including QuilliChew ER, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
-Before prescribing QuilliChew ER, assess each patient’s risk for abuse, misuse, and addiction.Educate patients and their families about these risks and proper disposal of any unused drug.
+Before prescribing QuilliChew ER, assess each patient’s risk for abuse, misuse, and addiction.
+
+Educate patients and their families about these risks and proper disposal of any unused drug.
 Advise patients to store QuilliChew ER in a safe place, preferably locked, and instruct patients to not give QuilliChew ER to anyone else.
 Throughout QuilliChew ER treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
 
@@ -60,6 +62,8 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 
 ## 5.7 Long-Term Suppression of Growth in Pediatric Patients
 
+QuilliChew ER is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
+
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
 Careful follow-up of weight and height in pediatric patients ages 7 to 10 years who were randomized to either methylphenidate or nonmedication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and nonmedication-treated pediatric patients over 36 months (to the ages of 10 to 13 years), suggests that pediatric patients who received methylphenidate for 7 days per week throughout the year had a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this development period.
@@ -91,5 +95,6 @@ Closely monitor QuilliChew ER -treated patients with a history of abnormally inc
 
 CNS stimulants, including methylphenidate, have been associated with the onset or exacerbation of motor and verbal tics.
 Worsening of Tourette’s syndrome has also been reported [see Adverse Reactions (6.2)].
+
 Before initiating QuilliChew ER, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome.
 Regularly monitor QuilliChew ER-treated patients for the emergence or worsening of tics or Tourette’s syndrome, and discontinue treatment if clinically appropriate.

@@ -2,7 +2,7 @@
 
 Advise patients to read the FDA-approved patient labeling (Medication Guide).
 
-Abuse, Misuse, and Addiction Educate patients and their families about the risks of abuse, misuse, and addiction of QuilliChew ER, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
+Abuse, Misuse and Addiction Educate patients and their families about the risks of abuse, misuse, and addiction of QuilliChew ER, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
 Advise patients to store QuilliChew ER in a safe place, preferably locked, and instruct patients to not give QuilliChew ER to anyone else.
 
 Dosage and Administration Instructions Advise patients that QuilliChew ER should be taken by mouth once daily in the morning with or without food.
@@ -51,4 +51,4 @@ Monmouth Junction, NJ 08852
 LB8533
 
 Rev.
-02
+03
