@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA022083"
+  ],
+  "inn": "rivastigmine",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "66758-142-31",
+    "66758-142-58",
+    "66758-143-31",
+    "66758-143-58",
+    "66758-144-31",
+    "66758-144-58"
+  ],
+  "products": [
+    {
+      "form": "PATCH, EXTENDED RELEASE",
+      "generic": "rivastigmine",
+      "name": "Exelon"
+    }
+  ],
+  "setid": "b6ed6d15-116d-4596-92ce-3414574d7ba0",
+  "source": "dailymed"
+}
