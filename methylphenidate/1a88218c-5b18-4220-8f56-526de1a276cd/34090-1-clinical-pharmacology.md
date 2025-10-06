@@ -43,14 +43,14 @@ The AUC and t 1/2following repeated once-daily dosing are similar to those follo
 
 Dose Proportionality
 
-Following administration of CONCERTA in single doses of 18, 36, and 54 mg/day to healthy adults, C maxand AUC (0–inf)of d-methylphenidate were proportional to dose, whereas l-methylphenidate C maxand AUC (0–inf)increased disproportionately with respect to dose.
+Following administration of CONCERTA in single doses of 18, 36, and 54 mg/day to healthy adults, C max and AUC (0–inf)of d-methylphenidate were proportional to dose, whereas l-methylphenidate C max and AUC (0–inf) increased disproportionately with respect to dose.
 Following administration of CONCERTA, plasma concentrations of the l-isomer were approximately 1/40 the plasma concentrations of the d-isomer.
 
-In healthy adults, single and multiple dosing of once-daily CONCERTA doses from 54 to 144 mg/day resulted in linear and dose-proportional increases in C maxand AUC inffor total methylphenidate (MPH) and its major metabolite, α-phenyl-piperidine acetic acid (PPAA).
+In healthy adults, single and multiple dosing of once-daily CONCERTA doses from 54 to 144 mg/day resulted in linear and dose-proportional increases in C max and AUC inf for total methylphenidate (MPH) and its major metabolite, α-phenyl-piperidine acetic acid (PPAA).
 There was no time dependency in the pharmacokinetics of methylphenidate.
 The ratio of metabolite (PPAA) to parent drug (MPH) was constant across doses from 54 to 144 mg/day, both after single dose and upon multiple dosing.
 
-In a multiple-dose study in adolescent ADHD patients aged 13 to 16 administered their prescribed dose (18 to 72 mg/day) of CONCERTA, mean C maxand AUC TAUof d- and total methylphenidate increased proportionally with respect to dose.
+In a multiple-dose study in adolescent ADHD patients aged 13 to 16 administered their prescribed dose (18 to 72 mg/day) of CONCERTA, mean C max and AUC TAU of d- and total methylphenidate increased proportionally with respect to dose.
 
 Distribution
 
@@ -73,7 +73,7 @@ There is no evidence of dose dumping in the presence or absence of food.
 
 Alcohol Effect
 
-An in vitrostudy was conducted to explore the effect of alcohol on the release characteristics of methylphenidate from the CONCERTA 18 mg tablet dosage form.
+An in vitro study was conducted to explore the effect of alcohol on the release characteristics of methylphenidate from the CONCERTA 18 mg tablet dosage form.
 At an alcohol concentration up to 40% there was no increased release of methylphenidate in the first hour.
 The results with the 18 mg tablet strength are considered representative of the other available tablet strengths.
 

@@ -17,9 +17,9 @@ Male and female mice were fed diets containing the same concentration of methylp
 
 Mutagenesis
 
-Methylphenidate was not mutagenic in the in vitroAmes reverse mutation assay or the in vitromouse lymphoma cell forward mutation assay.
-Sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response, in an in vitroassay in cultured Chinese Hamster Ovary cells.
-Methylphenidate was negative in vivoin males and females in the mouse bone marrow micronucleus assay.
+Methylphenidate was not mutagenic in the in vitro Ames reverse mutation assay or the in vitro mouse lymphoma cell forward mutation assay.
+Sister chromatid exchanges and chromosome aberrations were increased, indicative of a weak clastogenic response, in an in vitro assay in cultured Chinese Hamster Ovary cells.
+Methylphenidate was negative in vivo in males and females in the mouse bone marrow micronucleus assay.
 
 Impairment of Fertility
 
