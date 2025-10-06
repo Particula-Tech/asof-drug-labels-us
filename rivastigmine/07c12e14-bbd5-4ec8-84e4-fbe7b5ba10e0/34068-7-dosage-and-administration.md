@@ -8,11 +8,11 @@ Initiate treatment with one 4.6 mg/24 hours EXELON PATCH applied to the skin onc
 
 Dose Titration
 
-1. Increase the dose only after a minimum of 4 weeks at the previous dose, and only if the previous dose has been tolerated.
-   For mild-to-moderate AD and PDD patients, continue the effective dose of 9.5 mg/24 hours for as long as therapeutic benefit persists.
-   Patients can then be increased to the maximum effective dose of 13.3 mg/24 hours dose.
-   For patients with severe AD, 13.3 mg/24 hours is the effective dose.
-   Doses higher than 13.3 mg/24 hours confer no appreciable additional benefit, and are associated with an increase in the incidence of adverse reactions [see Warnings and Precautions (5.2), Adverse Reactions (6.1)].
+Increase the dose only after a minimum of 4 weeks at the previous dose, and only if the previous dose has been tolerated.
+For mild-to-moderate AD and PDD patients, continue the effective dose of 9.5 mg/24 hours for as long as therapeutic benefit persists.
+Patients can then be increased to the maximum effective dose of 13.3 mg/24 hours dose.
+For patients with severe AD, 13.3 mg/24 hours is the effective dose.
+Doses higher than 13.3 mg/24 hours confer no appreciable additional benefit, and are associated with an increase in the incidence of adverse reactions [see Warnings and Precautions (5.2), Adverse Reactions (6.1)].
 
 Mild-to-Moderate Alzheimer’s Disease and Mild-to-Moderate Parkinson’s Disease Dementia
 
@@ -31,7 +31,7 @@ If dosing is interrupted for more than 3 days, restart treatment with the 4.6 mg
 
 Dosing Modifications in Patients with Hepatic Impairment
 
-1. Consider using the 4.6 mg/24 hours EXELON PATCH as both the initial and maintenance dose in patients with mild (Child-Pugh score 5 to 6) to moderate (Child-Pugh score 7 to 9) hepatic impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
+Consider using the 4.6 mg/24 hours EXELON PATCH as both the initial and maintenance dose in patients with mild (Child-Pugh score 5 to 6) to moderate (Child-Pugh score 7 to 9) hepatic impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 
 Dosing Modifications in Patients with Low Body Weight
 
@@ -71,7 +71,7 @@ Do not apply a new patch to the same location for at least 14 days.
 (f) May wear the patch during bathing and in hot weather.
 Avoid long exposure to external heat sources (excessive sunlight, saunas, solariums).
 
-1. (g) Place used patches in the previously saved pouch and discard in the trash, away from pets or children.
+(g) Place used patches in the previously saved pouch and discard in the trash, away from pets or children.
 
 (h) Wash hands with soap and water after removing the patch.
 In case of contact with eyes or if the eyes become red after handling the patch, rinse immediately with plenty of water, and seek medical advice if symptoms do not resolve.
