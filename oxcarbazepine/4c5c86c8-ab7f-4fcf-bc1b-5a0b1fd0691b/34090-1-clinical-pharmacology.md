@@ -77,7 +77,7 @@ Pediatric Patients With Obesity
 A population PK analysis of oxcarbazepine was conducted that included n = 92 obese and non-obese pediatric patients < 18 years of age to evaluate the potential impact of obesity on plasma oxcarbazepine exposures.
 Obesity was defined as BMI ≥ 95th percentile for age and sex based on CDC 2000 growth chart recommendations.
 Simulated results from this analysis suggested that the target maintenance doses for oxcarbazepine, applied in pediatric patients ≥ 2 years of age, produced equivalent steady-state exposure of MHD between pediatric patients with and without obesity.
-This finding is consistent when using total body weight, or when using fat-free mass in patients ≥ 3 years and total body weight in patients < 3 yearsin the simulations.
+This finding is consistent when using total body weight, or when using fat-free mass in patients ≥ 3 years and total body weight in patients < 3 years in the simulations.
 Dosage adjustment according to obesity status is not necessary.
 
 Gender

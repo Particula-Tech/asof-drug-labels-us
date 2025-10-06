@@ -19,7 +19,7 @@ Patients should be observed closely during this transition phase.
 ## 2.3 Initiation of Monotherapy for Adults
 
 Patients not currently being treated with AEDs may have monotherapy initiated with TRILEPTAL.
-In these patients, initiate TRILEPTAL at a dose of 600 mg/day (given a twice a day); the dose should be increased by 300 mg/day every third day to a dose of 1200 mg/day.
+In these patients, initiate TRILEPTAL at a dose of 600 mg/day (given twice a day); the dose should be increased by 300 mg/day every third day to a dose of 1200 mg/day.
 Controlled trials in these patients examined the effectiveness of a 1200 mg/day dose; a dose of 2400 mg/day has been shown to be effective in patients converted from other AEDs to TRILEPTAL monotherapy (see above).
 
 ## 2.4 Adjunctive Therapy for Pediatric Patients (Aged 2-16 Years)
@@ -84,7 +84,8 @@ TRILEPTAL can be taken with or without food [see Clinical Pharmacology (12.3)].
 
 Before using TRILEPTAL oral suspension, shake the bottle well and prepare the dose immediately afterwards.
 The prescribed amount of oral suspension should be withdrawn from the bottle using the oral dosing syringe supplied.
+A household teaspoon or tablespoon is not an adequate measuring device and should not be used.
 TRILEPTAL oral suspension can be mixed in a small glass of water just prior to administration, or alternatively, may be swallowed directly from the syringe.
 After each use, close the bottle and rinse the syringe with warm water, and allow it to dry thoroughly.
 
-TRILEPTAL oral suspension and TRILEPTAL film-coated tablets may be interchanged at equal doses.
+TRILEPTAL oral suspension and TRILEPTAL film-coated tablets may be substituted at equal doses.

@@ -1,6 +1,6 @@
 # 17PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Administration Information
 
@@ -61,4 +61,4 @@ Pregnancy Registry
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of AEDs during pregnancy [see Use in Specific Populations (8.1)].
 
-T2024-09
+T2025-61
