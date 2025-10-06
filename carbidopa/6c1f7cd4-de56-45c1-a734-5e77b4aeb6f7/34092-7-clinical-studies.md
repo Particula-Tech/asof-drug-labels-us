@@ -5,10 +5,10 @@
 The effectiveness of RYTARY in patients with early Parkinson’s disease was established in a randomized, double-blind, placebo-controlled, fixed-dose, parallel-group, 30-week clinical trial (Study 1).
 Patients enrolled in Study 1 (n=381) were Hoehn and Yahr Stage I–III with a median disease duration of 1 year, and had limited or no prior exposure to levodopa and dopamine agonists.
 Patients continued taking concomitant selective monoamine oxidase B (MAO-B) inhibitors, amantadine, and anticholinergics provided the doses were stable for at least 4 weeks before screening.
-Eligible patients were randomized (1:1:1:1) to placebo or one of three fixed doses of RYTARY (carbidopa/levodopa doses of 36.25 mg / 145 mg, 61.25 mg / 245 mg, or 97.5 mg / 390 mg, three times a day).
+Eligible patients were randomized (1:1:1:1) to placebo or one of three fixed doses of RYTARY (carbidopa/levodopa doses of 36.25 mg/145 mg, 61.25 mg/245 mg, or 97.5 mg/390 mg, three times a day).
 Patients were not allowed to receive supplemental levodopa or catechol-O-methyl transferase (COMT) inhibitors.
-Patients receiving RYTARY initiated treatment at 23.75 mg / 95 mg three times daily (TID).
-The dose was increased on Day 4 and the maximum study dose (97.5 mg / 390 mg TID) was achieved by Day 22.
+Patients receiving RYTARY initiated treatment at 23.75 mg/95 mg three times daily (TID).
+The dose was increased on Day 4 and the maximum study dose (97.5 mg/390 mg TID) was achieved by Day 22.
 
 The clinical outcome measure in Study 1 was the mean change from baseline in the sum of the Unified Parkinson’s Disease Rating Scale (UPDRS) Part II (activities of daily living) score, and UPDRS Part III (motor score) for RYTARY, compared to placebo at Week 30 (or early termination).
 The mean score decrease (i.e., improvement) from baseline to Week 30 for each of the three RYTARY dosage groups was significantly greater than for placebo.
@@ -20,11 +20,10 @@ Table 4: Study 1: Change from Baseline in UPDRS Part II plus Part III Score at W
 | --- | --- | --- | --- |
 | Baselineb | Week 30 | Change from Baseline at Week 30c |  |
 | Placebo | 36.5 | 35.9 | −0.6 |
-| RYTARY 36.25 mg / 145 mg TID | 36.1 | 24.4 | −11.7d |
-| RYTARY 61.25 mg / 245 mg TID | 38.2 | 25.3 | −12.9d |
-| RYTARY 97.5 mg / 390 mg TID | 36.3 | 21.4 | −14.9d |
-
-a For the UPDRS, higher scores indicate greater severity of impairment b All values based on 361 patients who had valid End-of-Study values c Negative numbers indicate improvement as compared with the baseline value d P-value is less than 0.05
+| RYTARY 36.25 mg/145 mg TID | 36.1 | 24.4 | −11.7d |
+| RYTARY 61.25 mg/245 mg TID | 38.2 | 25.3 | −12.9d |
+| RYTARY 97.5 mg/390 mg TID | 36.3 | 21.4 | −14.9d |
+| a For the UPDRS, higher scores indicate greater severity of impairment. b All values based on 361 patients who had valid End-of-Study values. c Negative numbers indicate improvement as compared with the baseline value. d P-value is less than 0.05. |  |  |  |
 
 ## 14.2 Patients with Advanced Parkinson's Disease
 
@@ -54,5 +53,4 @@ Table 5: Study 2: Parkinson’s Disease Diary Measures in Patients with Advanced
 | “On” Time with no or non-troublesome dyskinesia (hours) |  |  |
 | RYTARY | 10.0 hours | 11.8 hoursa |
 | Immediate-release carbidopa-levodopa | 10.1 hours | 10.9 hours |
-
-a P-value is less than 0.05
+| a P-value is less than 0.05. |  |  |

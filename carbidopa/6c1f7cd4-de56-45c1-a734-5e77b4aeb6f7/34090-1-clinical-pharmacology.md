@@ -17,7 +17,7 @@ This is thought to be the mechanism whereby levodopa relieves symptoms of Parkin
 Because its decarboxylase inhibiting activity is limited to extracerebral tissues, administration of carbidopa with levodopa makes more levodopa available to the brain.
 The addition of carbidopa to levodopa reduces the peripheral effects (nausea, vomiting) due to decarboxylation of levodopa; however, carbidopa does not decrease the adverse reactions due to the central effects of levodopa.
 
-Patients treated with levodopa therapy for Parkinson's disease may develop motor fluctuations characterized by end-of-dose failure, peak dose dyskinesia, 'on-off' phenomenon, and akinesia.
+Patients treated with levodopa therapy for Parkinson's disease may develop motor fluctuations characterized by end-of-dose failure, peak dose dyskinesia, ‘on-off’ phenomenon, and akinesia.
 
 ## 12.3 Pharmacokinetics
 

@@ -9,7 +9,7 @@ The following serious adverse reactions are discussed below and elsewhere in the
 - Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.5)]
 - Dyskinesia [see Warnings and Precautions (5.6)]
 - Peptic Ulcer Disease [see Warnings and Precautions (5.7)]
-- Glaucoma [see Warnings and Precautions (5.8)
+- Glaucoma [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -42,7 +42,7 @@ Table 2: Adverse Reactions in Study 1 in Patients with Early Stage Parkinson’s
 
 Adverse Reactions Leading to Discontinuation in Study 1
 
-In Study 1, 12% of patients discontinued RYTARY early due to adverse reactions; a higher proportion of patients in the 61.25 mg / 245 mg RYTARY-treated group (14%) and in the 97.5 mg / 390 mg RYTARY-treated group (15%) experienced adverse reactions leading to early discontinuation compared to (4%) in the placebo group.
+In Study 1, 12% of patients discontinued RYTARY early due to adverse reactions; a higher proportion of patients in the 61.25 mg/245 mg RYTARY-treated group (14%) and in the 97.5 mg/390 mg RYTARY-treated group (15%) experienced adverse reactions leading to early discontinuation compared to (4%) in the placebo group.
 The most common adverse reactions resulting in early discontinuation were nausea, dizziness, and vomiting.
 
 Adverse Reactions in Advanced Parkinson’s Disease
@@ -58,15 +58,14 @@ Table 3: Adverse Reactions in Study 2 in Patients with Advanced Parkinson’s Di
 |  | RYTARY (N=201) |  | Immediate-Release Carbidopa-Levodopa (N=192) |  |
 | Nausea | 4 | 3 | 6 | 2 |
 | Headache | 5 | 1 | 3 | 2 |
-
-a All patients were converted to RYTARY in the open-label Dose Conversion period and then received randomized treatment during maintenance.
+| a All patients were converted to RYTARY in the open-label Dose Conversion period and then received randomized treatment during maintenance. |  |  |  |  |
 
 Adverse Reactions Leading to Discontinuation in Study 2
 
 In Study 2, 5% of patients discontinued treatment due to adverse reactions during conversion to RYTARY.
 The common adverse reactions leading to discontinuation during dose conversion were dyskinesia, anxiety, dizziness, and on and off phenomenon.
 
-## 6.2 Postmarketing Experience
+## 6.2 Post-marketing Experience
 
 The following adverse reactions have been identified during post approval use of RYTARY.
 Because these reactions are reported voluntarily from a population of unknown size, it is not always possible to reliably estimate their frequency or establish causal relationship to RYTARY exposure.

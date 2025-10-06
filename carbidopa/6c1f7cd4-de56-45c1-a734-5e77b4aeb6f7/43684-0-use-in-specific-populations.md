@@ -17,7 +17,7 @@ Animal Data
 When administered to pregnant rabbits throughout organogenesis, carbidopa-levodopa caused both visceral and skeletal malformation in fetuses at all doses and ratios of carbidopa-levodopa tested.
 No teratogenic effects were observed when carbidopa-levodopa was administered to pregnant mice throughout organogenesis.
 
-There was a decrease in the number of live pups delivered by rats receiving carbidopa-levodopa during organogenesis
+There was a decrease in the number of live pups delivered by rats receiving carbidopa-levodopa during organogenesis.
 
 ## 8.2 Lactation
 

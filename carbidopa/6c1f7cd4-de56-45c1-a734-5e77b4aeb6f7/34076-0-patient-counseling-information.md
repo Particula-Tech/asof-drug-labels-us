@@ -39,15 +39,13 @@ Advise patients to rise slowly after sitting or lying down, especially if they h
 
 Advise patients of the possible additive sedative effects when taking other CNS depressants in combination with RYTARY.
 
-Pregnancy and Breast-feeding
+Pregnancy and Breastfeeding
 
 Advise patients to notify their healthcare provider if they become pregnant or intend to become pregnant during RYTARY therapy [see Use in Specific Populations (8.1)].
 
-Advise female patients to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].
+Advise female patients to notify their physicians if they intend to breastfeed or are breastfeeding an infant [see Use in Specific Populations (8.2)].
 
-_________________________________________________________________________________________________________________________
-
-Manufactured By:
+Manufactured by:
 
 Bora Pharmaceutical Laboratories Inc.
 
@@ -64,5 +62,8 @@ Printed in USA
 Copyright 2019 Amneal Pharmaceuticals LLC
 
 All rights reserved
+
+Rev.
+08-2025-01
 
 1566-05
