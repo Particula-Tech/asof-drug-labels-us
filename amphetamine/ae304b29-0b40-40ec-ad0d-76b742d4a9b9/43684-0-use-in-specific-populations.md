@@ -51,9 +51,12 @@ Because of the potential for serious adverse reactions in a breastfed infant, ad
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness have been established in pediatric patients with ADHD ages 6 to 17 years [see Adverse Reactions (6.1), Clinical Pharmacology (12), and Clinical Studies (14)].
+The safety and effectiveness of DYANAVEL XR have not been established in pediatric patients below the age of 6 years.
 
-The safety and efficacy of DYANAVEL XR in pediatric patients less than 6 years have not been established.
+In studies evaluating extended-release amphetamine products, patients 4 to <6 years of age had higher systemic amphetamine exposures than those observed in older pediatric patients at the same dosage.
+Pediatric patients 4 to <6 years of age also had a higher incidence of adverse reactions, including weight loss.
+
+The safety and effectiveness have been established in pediatric patients with ADHD ages 6 to 17 years [see Adverse Reactions (6.1), Clinical Pharmacology (12), and Clinical Studies (14)].
 
 Long-Term Growth Suppression
 

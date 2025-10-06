@@ -6,13 +6,12 @@ DYANAVEL XR has a high potential for abuse and misuse.
 The use of DYANAVEL XR exposes individuals to the risks of abuse and misuse, which can lead to the development of a substance use disorder, including addiction.
 DYANAVEL XR can be diverted for non-medical use into illicit channels or distribution [see Drug Abuse and Dependence (9.2)].
 Misuse and abuse of CNS stimulants, including DYANAVEL XR, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses and or unapproved methods of administration, such as snorting or injection.
-
 Before prescribing DYANAVEL XR, assess each patient’s risk for abuse, misuse, and addiction.
 Educate patients and their families about these risks and proper disposal of any unused drug.
 Advise patients to store DYANAVEL XR in a safe place, preferably locked, and instruct patients to not give DYANAVEL XR to anyone else.
 Throughout DYANAVEL XR treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
 
-## 5.2 Risks for Patients with Serious Cardiac Disease
+## 5.2 Risks to Patients with Serious Cardiac Disease
 
 Sudden death has been reported in patients with structural cardiac abnormalities or other serious cardiac disease who were treated with CNS stimulants at the recommended ADHD dosages.
 
@@ -37,11 +36,13 @@ Prior to initiating DYANAVEL XR treatment, screen patients for risk factors for 
 
 New Psychotic or Manic Symptoms
 
-CNS stimulants, at the recommended dosage, may cause psychotic or manic symptoms, (e.g., hallucinations, delusional thinking, or mania) in patients without prior history of psychotic illness or mania.
+CNS stimulants, at the recommended dosage, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without prior history of psychotic illness or mania.
 In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients compared to 0% of placebo-treated patients.
 If such symptoms occur, consider discontinuing DYANAVEL XR.
 
 ## 5.5 Long-Term Suppression of Growth in Pediatric Patients
+
+DYANAVEL XR is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 Closely monitor growth (weight and height) in DYANAVEL XR treated pediatric patients treated with CNS stimulants.
@@ -77,4 +78,4 @@ CNS stimulants, including amphetamine, have been associated with the onset or ex
 Worsening of Tourette’s syndrome has also been reported [see Adverse Reactions (6.2)].
 
 Before initiating DYANAVEL XR, assess the family history and clinically evaluate patients for tics or Tourette’s syndrome.
-Regularly monitor DYANAVEL XR -treated patients for the emergence or worsening of tics or Tourette’s syndrome, and discontinue treatment if clinically appropriate.
+Regularly monitor DYANAVEL XR-treated patients for the emergence or worsening of tics or Tourette’s syndrome, and discontinue treatment if clinically appropriate.

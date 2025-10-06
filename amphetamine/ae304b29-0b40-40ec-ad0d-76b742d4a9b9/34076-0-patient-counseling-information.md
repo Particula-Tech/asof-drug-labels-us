@@ -29,7 +29,7 @@ Instruct patients to contact a healthcare provider immediately if they develop s
 
 Increased Blood Pressure and Heart Rate
 
-Instruct patients and their caregivers that DYANAVEL XR can cause elevations of their blood pressure and pulse rate [see Warnings and Precautions(5.3)].
+Instruct patients and their caregivers that DYANAVEL XR can cause elevations of their blood pressure and pulse rate [see Warnings and Precautions (5.3)].
 
 Psychiatric Adverse Reactions
 
@@ -88,4 +88,4 @@ Manufactured by:
 Tris Pharma, Inc. Monmouth Junction, NJ 08852
 
 LB8684 Rev.
-01
+02

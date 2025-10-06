@@ -35,7 +35,7 @@ The relative bioavailability of DYANAVEL XR tablets compared with an equal dose 
 Dyanavel XR extended-release tablets chewed or swallowed whole under fasted conditions did not significantly affect exposure and Tmax.
 
 Figure 2.
-Mean Plasma d-and l-Amphetamine Concentration-Time Profiles for DYANAVEL XR Extended-Release Tablet and DYANAVEL XR Extended-Release Oral Suspension
+Mean Plasma d- and l-Amphetamine Concentration-Time Profiles for DYANAVEL XR Extended-Release Tablet and DYANAVEL XR Extended-Release Oral Suspension
 
 Effect of Food
 
