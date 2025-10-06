@@ -10,10 +10,12 @@ Prior to treating patients with QUILLIVANT XR, assess:
 ## 2.2 Recommended Dosage
 
 Before administering the dose, VIGOROUSLY SHAKE the bottle of QUILLIVANT XR for at least 10 seconds, to ensure that the proper dose is administered.
+
 The recommended starting dose of QUILLIVANT XR for patients 6 years and above is 20 mg once daily in the morning.
 The dose may be titrated weekly in increments of 10 mg to 20 mg.
 Daily doses above 60 mg have not been studied and are not recommended.
 As with any CNS stimulant, during titration of QUILLIVANT XR, the prescribed dose should be adjusted, if necessary, until a well‑tolerated, therapeutic dose is achieved.
+
 Patients should be advised to avoid alcohol while taking QUILLIVANT XR [see Clinical Pharmacology (12.3)].
 
 ## 2.3 Administration Instructions

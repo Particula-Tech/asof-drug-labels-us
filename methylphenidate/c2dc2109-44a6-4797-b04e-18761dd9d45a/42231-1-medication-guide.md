@@ -50,9 +50,10 @@ QUILLIVANT XR is a liquid medicine that you take by mouth.
 It is used for the treatment of Attention Deficit Hyperactivity Disorder (ADHD).
 QUILLIVANT XR may help increase attention and decrease impulsiveness and hyperactivity in people with ADHD.
 
-It is not known if QUILLIVANT XR is safe and effective in children under 6 years of age.
+QUILLIVANT XR is not recommended for use in children under 6 years of age with ADHD.
 
-QUILLIVANT XR is a federally controlled substance (CII) because it contains methylphenidate that can be a target for people who abuse prescription medicines or street drugs.Keep QUILLIVANT XR in a safe place to protect it from theft.
+QUILLIVANT XR is a federally controlled substance (CII) because it contains methylphenidate that can be a target for people who abuse prescription medicines or street drugs.
+Keep QUILLIVANT XR in a safe place to protect it from theft.
 Never give your QUILLIVANT XR to anyone else, because it may cause death or harm them.
 Selling or giving away QUILLIVANT XR may harm others and is against the law.
 
@@ -210,10 +211,10 @@ Tris Pharma, Inc.
 
 Monmouth Junction, NJ 08852
 
-For more information, go to www.quillivantxr.com or call (732)-940-0358.
+For more information, go to www.quillivantxr.com or call (732) 940-0358.
 
 This product’s label may have been updated.
-For current full prescribing information, please visit www.trispharma.com
+For current full prescribing information, please visit www.trispharma.com.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 10/2023
+Revised:09/2025

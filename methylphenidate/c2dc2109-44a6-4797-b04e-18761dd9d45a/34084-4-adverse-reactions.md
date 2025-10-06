@@ -51,7 +51,7 @@ These adverse reactions are as follows:
 
 Blood and Lymphatic System Disorders: Pancytopenia, Thrombocytopenia, Thrombocytopenic purpura
 
-Cardiac Disorders: Angina pectoris, Bradycardia, Extra systole, Supraventricular tachycardia, Ventricular extra systole
+Cardiac Disorders: Angina pectoris, Bradycardia, Extrasystole, Supraventricular tachycardia, Ventricular extrasystole
 
 Eye Disorders: Diplopia, Increased intraocular pressure, Mydriasis, Visual impairment
 

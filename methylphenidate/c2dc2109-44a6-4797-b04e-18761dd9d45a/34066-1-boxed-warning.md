@@ -5,4 +5,4 @@ Misuse and abuse of CNS stimulants, including QUILLIVANT XR, can result in overd
 
 Before prescribing QUILLIVANT XR, assess each patient’s risk for abuse, misuse, and addiction.
 Educate patients and their families about these risks, proper storage of the drug, and proper disposal of any unused drug.
-Throughout QUILLIVANT XR treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2) ].
+Throughout QUILLIVANT XR treatment, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction [see Warnings and Precautions (5.1) , Drug Abuse and Dependence (9.2) ].
