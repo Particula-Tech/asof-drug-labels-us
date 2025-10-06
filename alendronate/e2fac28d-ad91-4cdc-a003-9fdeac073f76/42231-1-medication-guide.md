@@ -213,7 +213,7 @@ Manufactured by:
 
 Cipla Ltd.,
 
-Verna Goa, India.
+Verna-403722, Goa, India.
 
 Manufactured for:
 
@@ -223,4 +223,4 @@ Cipla USA, Inc.
 
 Warren, NJ 07059
 
-Revised: 03/2020
+Revised: 06/2025

@@ -27,21 +27,26 @@ Table 6: Effect of Alendronate Sodium on Fracture Incidence in the Three-Year St
 | --- | --- | --- | --- | --- |
 |  | Alendronate Sodium (n=1022) | Placebo (n=1005) | Absolute Reduction in Fracture Incidence | Relative Reduction in Fracture Risk % |
 | Patients with: |  |  |  |  |
-| Vertebral fractures (diagnosed by X-ray) Number evaluable for vertebral fractures: Alendronate sodium, n=984; placebo, n=966 |  |  |  |  |
-| ≥1 new vertebral fracture | 7.9 | 15.0 | 7.1 | 47 p<0.001, |
-| ≥2 new vertebral fractures | 0.5 | 4.9 | 4.4 | 90 |
+| Vertebral fractures (diagnosed by X-ray)* |  |  |  |  |
+| ≥1 new vertebral fracture | 7.9 | 15.0 | 7.1 | 47† |
+| ≥2 new vertebral fractures | 0.5 | 4.9 | 4.4 | 90† |
 | Clinical (symptomatic) fractures |  |  |  |  |
-| Any clinical (symptomatic) fracture | 13.8 | 18.1 | 4.3 | 26 p=0.007, |
-| ≥1 clinical (symptomatic) vertebral fracture | 2.3 | 5.0 | 2.7 | 54 p<0.01, |
-| Hip fracture | 1.1 | 2.2 | 1.1 | 51 p<0.05 |
-| Wrist (forearm) fracture | 2.2 | 4.1 | 1.9 | 48 |
+| Any clinical (symptomatic) fracture | 13.8 | 18.1 | 4.3 | 26‡ |
+| ≥1 clinical (symptomatic) vertebral fracture | 2.3 | 5.0 | 2.7 | 54§ |
+| Hip fracture | 1.1 | 2.2 | 1.1 | 51¶ |
+| Wrist (forearm) fracture | 2.2 | 4.1 | 1.9 | 48¶ |
+
+*Number evaluable for vertebral fractures: Alendronate sodium, n=984; placebo, n=966
+
+† p<0.001, ‡ p=0.007, § p<0.01, ¶ p<0.05
 
 Furthermore, in this population of patients with baseline vertebral fracture, treatment with alendronate sodium significantly reduced the incidence of hospitalizations (25.0% vs. 30.7%).
 
 In the Three-Year Study of FIT, fractures of the hip occurred in 22 (2.2%) of 1005 patients on placebo and 11 (1.1%) of 1022 patients on alendronate sodium, p=0.047.
 Figure 1 displays the cumulative incidence of hip fractures in this study.
 
-Figure 1:
+| Figure 1: |
+| --- |
 
 Fracture Intervention Trial: Four-Year Study (patients with low bone mass but without a baseline radiographic vertebral fracture)
 
@@ -50,20 +55,29 @@ The intent of the study was to recruit women with osteoporosis, defined as a bas
 However, due to subsequent revisions to the normative values for femoral neck BMD, 31% of patients were found not to meet this entry criterion and thus this study included both osteoporotic and non-osteoporotic women.
 The results are shown in Table 7 for the patients with osteoporosis.
 
-Table 7: Effect of Alendronate Sodium on Fracture Incidence in OsteoporoticBaseline femoral neck BMD at least 2 SD below the mean for young adult women Patients in the Four-Year Study of FIT (patients without vertebral fractureat baseline)
+Table 7: Effect of Alendronate Sodium on Fracture Incidence in Osteoporotic* Patients in the Four-Year Study of FIT (patients without vertebral fracture at baseline)
 
 |  | Percent of Patients |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Alendronate Sodium(n=1545) | Placebo(n=1521) | AbsoluteReduction in FractureIncidence | RelativeReduction in FractureRisk (%) |
+|  | Alendronate Sodium(n=1545) | Placebo (n=1521) | Absolute Reduction in Fracture Incidence | Relative Reduction in Fracture Risk (%) |
 | Patients with: |  |  |  |  |
-| Vertebral fractures (diagnosed by X-ray)Number evaluable for vertebral fractures: Alendronate sodium, n=1426; placebo, n=1428 |  |  |  |  |
-| ≥1 new vertebral fracture | 2.5 | 4.8 | 2.3 | 48p<0.001, |
-| ≥2 new vertebral fractures | 0.1 | 0.6 | 0.5 | 78p=0.035, |
+| Vertebral fractures (diagnosed by X-ray) † |  |  |  |  |
+| ≥1 new vertebral fracture | 2.5 | 4.8 | 2.3 | 48‡ |
+| ≥2 new vertebral fractures | 0.1 | 0.6 | 0.5 | 78§ |
 | Clinical (symptomatic) fractures |  |  |  |  |
-| Any clinical (symptomatic) fracture | 12.9 | 16.2 | 3.3 | 22p=0.01 |
-| ≥1 clinical (symptomatic) vertebral fracture | 1.0 | 1.6 | 0.6 | 41 (NS)Not significant. This study was not powered to detect differences at these sites. |
-| Hip fracture | 1.0 | 1.4 | 0.4 | 29 (NS) |
-| Wrist (forearm) fracture | 3.9 | 3.8 | -0.1 | NS |
+| Any clinical (symptomatic) fracture | 12.9 | 16.2 | 3.3 | 22¶ |
+| ≥1 clinical (symptomatic) vertebral fracture | 1.0 | 1.6 | 0.6 | 41 (NS)# |
+| Hip fracture | 1.0 | 1.4 | 0.4 | 29 (NS)# |
+| Wrist (forearm) fracture | 3.9 | 3.8 | -0.1 | NS# |
+
+* Baseline femoral neck BMD at least 2 SD below the mean for young adult women
+
+†Number evaluable for vertebral fractures: Alendronate sodium, n=1426; placebo, n=1428
+
+‡ p<0.001, § p=0.035, ¶ p=0.01
+
+# Not significant.
+This study was not powered to detect differences at these sites.
 
 Fracture Results Across Studies
 
@@ -72,15 +86,21 @@ In the Three-Year Study of FIT, alendronate sodium reduced the percentage of wom
 Alendronate sodium reduced the percentage of women experiencing multiple (two or more) new vertebral fractures from 4.2% to 0.6% (87% relative risk reduction, p<0.001) in the combined U.S./Multinational studies and from 4.9% to 0.5% (90% relative risk reduction, p<0.001) in the Three-Year Study of FIT.
 In the Four-Year Study of FIT, alendronate sodium reduced the percentage of osteoporotic women experiencing multiple vertebral fractures from 0.6% to 0.1% (78% relative risk reduction, p=0.035).
 
-Thus, alendronate sodiumreduced the incidence of radiographic vertebral fractures in osteoporotic women whether or not they had a previous radiographic vertebral fracture.
+Thus, alendronate sodium reduced the incidence of radiographic vertebral fractures in osteoporotic women whether or not they had a previous radiographic vertebral fracture.
 
 Effect on Bone Mineral Density
 
-The bone mineral density efficacy of alendronate sodium 10 mg once daily in postmenopausal women, 44 to 84 years of age, with osteoporosis (lumbar spine bone mineral density [BMD] of at least 2 standard deviations below the premenopausal mean) was demonstrated in four double-blind, placebo-controlled clinical studies of two or three years' duration.
+The bone mineral density efficacy of alendronate sodium 10 mg once daily in postmenopausal women, 44 to 84 years of age, with osteoporosis (lumbar spine bone mineral density [BMD] of at least 2 standard deviations below the premenopausal mean) was demonstrated in four double-blind, placebo-controlled clinical studies of two or three years’ duration.
 
 Figure 2 shows the mean increases in BMD of the lumbar spine, femoral neck, and trochanter in patients receiving alendronate sodium 10 mg/day relative to placebo-treated patients at three years for each of these studies.
 
 Figure 2:
+
+Osteoporosis Treatment Studies in Postmenopausal women
+
+Increase in BMD
+
+Alendronate Sodium 10 mg/day at Three Years
 
 At three years significant increases in BMD, relative both to baseline and placebo, were seen at each measurement site in each study in patients who received alendronate sodium 10 mg/day.
 Total body BMD also increased significantly in each study, suggesting that the increases in bone mass of the spine and hip did not occur at the expense of other skeletal sites.
@@ -91,6 +111,12 @@ BMD at the femoral neck, forearm and total body were maintained.
 Alendronate sodium was similarly effective regardless of age, race, baseline rate of bone turnover, and baseline BMD in the range studied (at least 2 standard deviations below the premenopausal mean).
 
 Figure 3:
+
+Osteoporosis Treatment Studies in Postmenopausal women
+
+Time course of Effect of Alendronate Sodium 10 mg/day Versus Placebo:
+
+Lumbar Spine BMD Percent change From Baseline
 
 In patients with postmenopausal osteoporosis treated with alendronate sodium 10 mg/day for one or two years, the effects of treatment withdrawal were assessed.
 Following discontinuation, there were no further increases in bone mass and the rates of bone loss were similar to those of the placebo groups.
@@ -115,7 +141,7 @@ The results of the intention-to-treat analysis were consistent with the primary 
 Concomitant Use with Estrogen/Hormone Replacement Therapy (HRT)
 
 The effects on BMD of treatment with alendronate sodium 10 mg once daily and conjugated estrogen (0.625 mg/day) either alone or in combination were assessed in a two-year, double-blind, placebo-controlled study of hysterectomized postmenopausal osteoporotic women (n=425).
-At two years, the increases in lumbar spine BMD from baseline were significantly greater with the combination (8.3%) than with either estrogen or alendronate sodiumalone (both 6.0%).
+At two years, the increases in lumbar spine BMD from baseline were significantly greater with the combination (8.3%) than with either estrogen or alendronate sodium alone (both 6.0%).
 
 The effects on BMD when alendronate sodium was added to stable doses (for at least one year) of HRT (estrogen ± progestin) were assessed in a one-year, double-blind, placebo-controlled study in postmenopausal osteoporotic women (n=428).
 The addition of alendronate sodium 10 mg once daily to HRT produced, at one year, significantly greater increases in lumbar spine BMD (3.7%) vs. HRT alone (1.1%).
@@ -169,6 +195,7 @@ A one-year, double-blind, placebo-controlled, multicenter study of once weekly a
 Patients in the study had either a BMD T-score less than or equal to -2 at the femoral neck and less than or equal to -1 at the lumbar spine, or a BMD T-score less than or equal to -2 at the lumbar spine and less than or equal to -1 at the femoral neck, or a baseline osteoporotic fracture and a BMD T-score less than or equal to -1 at the femoral neck.
 At one year, the mean increases relative to placebo in BMD in men receiving alendronate sodium 70 mg once weekly were significant at the following sites: lumbar spine, 2.8%; femoral neck, 1.9%; trochanter, 2.0%; and total body, 1.2%.
 These increases in BMD were similar to those seen at one year in the 10 mg once daily study.
+
 In both studies, BMD responses were similar regardless of age (greater than or equal to 65 years vs. less than 65 years), gonadal function (baseline testosterone less than 9 ng/dL vs. greater than or equal to 9 ng/dL), or baseline BMD (femoral neck and lumbar spine T-score less than or equal to -2.5 vs. greater than -2.5).
 
 ## 14.4 Treatment of Glucocorticoid-Induced Osteoporosis
