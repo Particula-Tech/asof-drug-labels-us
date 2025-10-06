@@ -9,8 +9,6 @@ Advise patients that performance of activities requiring mental alertness, such 
 Studies conducted in young animals and children suggest repeated or prolonged use of general anesthetic or sedation drugs in children younger than 3 years may have negative effects on their developing brains.
 Discuss with parents and caregivers the benefits, risks, and timing and duration of surgery or procedures requiring anesthetic and sedation drugs.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in Italy ©2023 Sagent Pharmaceuticals, Inc.
+sagent® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60173 (USA) Made in Italy ©2025 Sagent Pharmaceuticals
 
-Revised: February 2023
-
-SAGENT Pharmaceuticals ®
+Revised: April 2025
