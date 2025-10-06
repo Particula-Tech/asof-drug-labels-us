@@ -42,6 +42,8 @@ If such symptoms occur, consider discontinuing XELSTRYM.
 
 ## 5.5 Long-Term Suppression of Growth in Pediatric Patients
 
+XELSTRYM is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
+
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 Closely monitor growth (weight and height) in XELSTRYM-treated pediatric patients treated with CNS stimulants, including XELSTRYM.
 In a 7-week trial with a dose-optimization phase and a placebo-controlled phase of XELSTRYM in pediatric patients 6 to 17 years old with ADHD, there was a mean decrease in weight while taking XELSTRYM.

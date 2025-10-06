@@ -33,13 +33,15 @@ There were no discontinuations due to adverse reactions during the double-blind 
 
 Adverse Reactions Occurring at an Incidence of 5% or More in XELSTRYM Treated Pediatric Patients Ages 6 to 17 Years During Dose-optimized Treatment
 
-Adverse reactions (incidence of 5%) that occurred during the dose-optimization phase of the clinical study include: decreased appetite (54%), insomniainsomnia includes insomnia, delayed sleep phase, initial insomnia, middle insomnia, and terminal insomnia(32%), headache (21%), irritability (16%), abdominal painabdominal pain includes abdominal pain and abdominal pain upper(16%) affect labilityaffect lability includes affect lability, emotional disorder, mood swings, and mood altered(16%), application site painapplication site pain includes application site pain and application site burn(13%), nausea (9%), application site pruritus (7%), and fatigue (5%).
+Adverse reactions (incidence of ≥ 5%) that occurred during the dose-optimization phase of the clinical study include: decreased appetite (54%), insomnia1 (32%), headache (21%), irritability (16%), abdominal pain2 (16%) affect lability3 (16%), application site pain4 (13%), nausea (9%), application site pruritus (7%), and fatigue (5%).
+
+1insomnia includes insomnia, delayed sleep phase, initial insomnia, middle insomnia, and terminal insomnia 2abdominal pain includes abdominal pain and abdominal pain upper 3affect lability includes affect lability, emotional disorder, mood swings, and mood altered 4application site pain includes application site pain and application site burn
 
 Adverse Reactions Occurring at an Incidence of 2% or More of XELSTRYM-Treated Pediatric Patients Ages 6 to 17 Years During Double-blind Treatment
 
-Adverse reactions (incidence of 2% and incidence greater than placebo) that occurred during the double-blind, placebo-controlled phase of the clinical study are shown in Table 1.
+Adverse reactions (incidence of ≥ 2% and incidence greater than placebo) that occurred during the double-blind, placebo-controlled phase of the clinical study are shown in Table 1.
 
-Table 1: Adverse Reactions Reported by 2% of Pediatric Patients 6 to 17 Years with ADHD Receiving XELSTRYM and Greater Incidence Than Placebo in the Double-Blind Phase
+Table 1: Adverse Reactions Reported by ≥ 2% of Pediatric Patients 6 to 17 Years with ADHD Receiving XELSTRYM and Greater Incidence Than Placebo in the Double-Blind Phase
 
 | System Organ Class Preferred Term | XELSTRYM All Doses (n = 105) % | Placebo (n = 105) % |
 | --- | --- | --- |
@@ -112,7 +114,7 @@ In a 4-week controlled trial of lisdexamfetamine in pediatric patients 13 to 17 
 Other CNS stimulants
 
 Careful follow-up of weight and height in pediatric patients 7 to 10 years who were randomized to either methylphenidate or non-medication treatment groups over 14 months, as well as in naturalistic subgroups of newly methylphenidate-treated and non-medication treated pediatric patients over 36 months (to the ages of 10 to 13 years), suggests that consistently medicated pediatric patients 7 to 13 years (i.e., treatment for 7 days per week throughout the year) have a temporary slowing in growth rate (on average, a total of about 2 cm less growth in height and 2.7 kg less growth in weight over 3 years), without evidence of growth rebound during this period of development.
-In a controlled trial of amphetamine (d- and l-enantiomer ratio of 3:1) in pediatric patients 13 to 17 years, mean weight change from baseline within the initial 4 weeks of therapy was -1.1 pounds and -2.8 pounds, respectively, for patients receiving 10 mg and 20 mg of amphetamine.
+In a controlled trial of amphetamine (d- and l-enantiomer ration of 3:1) in pediatric patients 13 to 17 years, mean weight change from baseline within the initial 4 weeks of therapy was -1.1 pounds and -2.8 pounds, respectively, for patients receiving 10 mg and 20 mg of amphetamine.
 Higher doses were associated with greater weight loss within the initial 4 weeks of treatment [see WARNINGS AND PRECAUTIONS (5.5)].
 
 Clinical Trials Experience in Adult Patients with ADHD Treated with Lisdexamfetamine
@@ -123,9 +125,9 @@ In a controlled trial of lisdexamfetamine in adults with ADHD, 6% (21/358) of li
 The most frequently reported adverse reactions (1% or more and twice rate of placebo) were insomnia (8/358; 2%), tachycardia (3/358; 1%), irritability (2/358; 1%), hypertension (4/358; 1%), headache (2/358; 1%), anxiety (2/358; 1%), and dyspnea (3/358; 1%).
 Less frequently reported adverse reactions (less than 1% or less than twice rate of placebo) included palpitations, diarrhea, nausea, decreased appetite, dizziness, agitation, depression, paranoia and restlessness.
 
-Adverse Reactions Occurring at an Incidence of 5% or More Among Lisdexamfetamine-Treated Patients with ADHD in Clinical Trials
+Adverse Reactions Occurring at an Incidence of ≥5% or More Among Lisdexamfetamine-Treated Patients with ADHD in Clinical Trials
 
-The most common adverse reactions (incidence 5% and at a rate at least twice placebo) were: Decreased appetite, insomnia, dry mouth, diarrhea, nausea, and anxiety.
+The most common adverse reactions (incidence ≥5% and at a rate at least twice placebo) were: Decreased appetite, insomnia, dry mouth, diarrhea, nausea, and anxiety.
 
 In addition, in the adult population, erectile dysfunction was observed in 2.6% of males on lisdexamfetamine and 0% on placebo; decreased libido was observed in 1.4% of subjects on lisdexamfetamine and 0% on placebo.
 

@@ -86,4 +86,4 @@ Inform patients/caregivers:
 - to wash their hands immediately if they touch the adhesive side of the transdermal system to avoid amphetamine absorption and to check XELSTRYM periodically throughout the wear time [see DOSAGE AND ADMINISTRATION (2.3)].
 
 Manufactured by: Noven Pharmaceuticals, Inc., Miami, FL 33186 For more information, go to www.xelstrym.com or call 1-800-455-8070.
-Xelstrym® is a registered trademark of Noven Therapeutics, LLC. © 2023 Noven Pharmaceuticals, Inc. 102668-2
+Xelstrym® is a registered trademark of Noven Therapeutics, LLC. © 2025 Noven Pharmaceuticals, Inc. 102668-3

@@ -4,4 +4,4 @@ XELSTRYM® is indicated for the treatment of Attention Deficit Hyperactivity Dis
 
 Limitations of Use
 
-Pediatric patients younger than 6 years of age experienced more long-term weight loss than patients 6 years and older [see USE IN SPECIFIC POPULATIONS (8.4)].
+The use of XELSTRYM is not recommended in pediatric patients younger than 6 years of age because they had higher plasma exposure and a higher incidence of adverse reactions (e.g., weight loss) than patients 6 years and older at the same dosage [see Warnings and Precautions (5.5), Use in Specific Populations (8.4)].
