@@ -5,9 +5,9 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Angioedema [see Warnings and Precautions (5.1)]
 - Hypersensitivity [see Warnings and Precautions (5.2)]
 - Suicidal Behavior and Ideation [see Warnings and Precautions (5.3)]
-- Respiratory Depression [see Warnings and Precautions (5.4)]
-- Dizziness and Somnolence [see Warnings and Precautions (5.5)]
-- Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.6)]
+- Increased Risk of Adverse Reactions with Abrupt or Rapid Discontinuation [see Warnings and Precautions (5.4)]
+- Respiratory Depression [see Warnings and Precautions (5.5)]
+- Dizziness and Somnolence [see Warnings and Precautions (5.6)]
 - Peripheral Edema [see Warnings and Precautions (5.7)]
 - Weight Gain [see Warnings and Precautions (5.8)]
 - Tumorigenic Potential [see Warnings and Precautions (5.9)]
@@ -433,3 +433,6 @@ Skin and subcutaneous tissue disorders – Bullous pemphigoid
 There are postmarketing reports of life-threatening or fatal respiratory depression in patients taking pregabalin with opioids or other CNS depressants, or in the setting of underlying respiratory impairment.
 
 In addition, there are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
+
+There are postmarketing reports of withdrawal symptoms after discontinuation of pregabalin.
+Reported adverse reactions include, but are not limited to, seizures, depression, suicidal ideation and behavior, agitation, confusion, disorientation, psychotic symptoms, anxiety, insomnia, nausea, pain, sweating, tremor, headache, dizziness, malaise, and diarrhea.
