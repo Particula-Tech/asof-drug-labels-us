@@ -23,11 +23,10 @@ Bottle of 1000 NDC 13668-268-10
 Bottle of 2500 NDC 13668-268-31
 
 Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature].
-Protect from light and moisture.Dispense in a tight, light-resistant container as defined in the USP.
+Protect from light and moisture.
+Dispense in a tight, light-resistant container as defined in the USP.
 
 Trademarks are the property of their respective owners.
-
-Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
 
 Manufactured by:
 
@@ -37,4 +36,4 @@ Manufactured for:
 
 Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8099964 Revised: February 2025
+8105067 Revised: November 2025

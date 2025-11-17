@@ -1,5 +1,3 @@
-Dispense with Medication Guide available at: https://torrentpharma.com/pi/usa/products/
-
 MEDICATION GUIDE
 
 Carbamazepine (kar ba MAZ e peen) Tablets, USP, 200 mg and Carbamazepine (kar ba MAZ e peen) Tablets, USP (Chewable), 100 mg
@@ -34,7 +32,7 @@ Symptoms may include:
 Carbamazepine tablets or chewable tablets may cause rare but serious blood problems.
 Symptoms may include:
 
-- fever, sore throat or other infections that come and go or do not go away
+- fever, sore throat, or other infections that come and go or do not go away
 - easy bruising
 - red or purple spots on your body
 - bleeding gums or nose bleeds
@@ -213,7 +211,7 @@ How should I store carbamazepine tablets or chewable tablets?
 
 Keep carbamazepine tablets or chewable tablets and all medicines out of the reach of children.
 
-General Information about carbamazepine tablets or chewable tablets
+General Information about carbamazepine tablets or chewable tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use carbamazepine tablets or chewable tablets for a condition for which it was not prescribed.
@@ -248,4 +246,4 @@ Manufactured for:
 
 Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8098269 Revised: November 2024
+8105066 Revised: November 2025

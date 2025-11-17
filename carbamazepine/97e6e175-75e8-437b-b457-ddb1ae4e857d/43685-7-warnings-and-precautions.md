@@ -5,8 +5,8 @@
 Serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS), have been reported with carbamazepine treatment.
 The risk of these events is estimated to be about 1 to 6 per 10,000 new users in countries with mainly Caucasian populations.
 However, the risk in some Asian countries is estimated to be about 10 times higher.
-Carbamazepine should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
-If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
+Carbamazepine should be discontinued at the first sign of a rash, unless the rash is clearly not drug related.
+If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed, and alternative therapy should be considered.
 
 SJS/TEN and HLA-B*1502 Allele
 
@@ -16,19 +16,19 @@ The occurrence of higher rates of these reactions in countries with higher frequ
 Across Asian populations, notable variation exists in the prevalence of HLA-B*1502.
 Greater than 15% of the population is reported positive in Hong Kong, Thailand, Malaysia, and parts of the Philippines, compared to about 10% in Taiwan and 4% in North China.
 South Asians, including Indians, appear to have intermediate prevalence of HLA-B*1502, averaging 2% to 4%, but higher in some groups.
-HLA-B*1502 is pres ent in less than 1% of the population in Japan and Korea.
+HLA-B*1502 is present in less than 1% of the population in Japan and Korea.
 
 HLA-B*1502 is largely absent in individuals not of Asian origin (e.g., Caucasians, African-Americans, Hispanics, and Native Americans).
 
-Prior to initiating carbamazepine therapy, testing forHLA-B* 1502 should be performed in patients with ancestry in populations in which HLA-B*1502 may be present.
-In deciding which patients to screen, the rates provided above for the prevalence of HLA-B* 1502 may offer a rough guide, keeping in mind the limitations of these figures due to wide variability in rates even within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry.
-Carbamazepine should not be used in patients positive for HLA-B* 1502 unless the benefits clearly outweigh the risks.
+Prior to initiating carbamazepine therapy, testing for HLA-B*1502 should be performed in patients with ancestry in populations in which HLA-B*1502 may be present.
+In deciding which patients to screen, the rates provided above for the prevalence of HLA-B*1502 may offer a rough guide, keeping in mind the limitations of these figures due to wide variability in rates even within ethnic groups, the difficulty in ascertaining ethnic ancestry, and the likelihood of mixed ancestry.
+Carbamazepine should not be used in patients positive for HLA-B*1502 unless the benefits clearly outweigh the risks.
 Tested patients who are found to be negative for the allele are thought to have a low risk of SJS/TEN (see BOXED WARNING and PRECAUTIONS, Laboratory Tests).
 
 Over 90% of carbamazepine treated patients who will experience SJS/TEN have this reaction within the first few months of treatment.
 This information may be taken into consideration in determining the need for screening of genetically at-risk patients currently on carbamazepine.
 
-The HLA-B*1502 allele has not been found to predict risk of less severe adverse cuta-neous reactions from carbamazepine, such as maculopapular eruption (MPE) or to predict Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).
+The HLA-B*1502 allele has not been found to predict risk of less severe adverse cutaneous reactions from carbamazepine, such as maculopapular eruption (MPE) or to predict Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS).
 
 Limited evidence suggests that HLA-B*1502 may be a risk factor for the development of SJS/TEN in patients of Chinese ancestry taking other antiepileptic drugs associated with SJS/TEN, including phenytoin.
 Consideration should be given to avoiding use of other drugs associated with SJS/TEN in HLA-B*1502 positive patients, when alternative therapies are otherwise equally acceptable.
@@ -38,7 +38,7 @@ Hypersensitivity Reactions and HLA-A*3101 Allele
 Retrospective case-control studies in patients of European, Korean, and Japanese ancestry have found a moderate association between the risk of developing hypersensitivity reactions and the presence of HLA-A*3101, an inherited allelic variant of the HLA-A gene, in patients using carbamazepine.
 These hypersensitivity reactions include SJS/TEN, maculopapular eruptions, and Drug Reaction with Eosinophilia and Systemic Symptoms (see DRESS/Multiorgan hypersensitivity below).
 
-HLA-A*3101 is expected to be carried by more than 15% of patients of Japanese, Native American, Southern Indian (for example, Tamil Nadu), and some Arabic ancestry; up to about 10% in patients of Han Chinese, Korean, European, Latin American, and other Indian ancestry; and up to about 5% in African-Americans and patients of Thai, Taiwanese, and Chinese (Hong Kong) ancestry.
+HLA-A*3101 is expected to be carried by more than 15% of patients of Japanese, Native American, Southern Indian (for example, Tamil Nadu), and some Arabic ancestry; up to about 10% in patients of Han Chinese, Korean, European, Latin American, and other Indian ancestry; and up to about 5% in African-Americans, and patients of Thai, Taiwanese, and Chinese (Hong Kong) ancestry.
 
 The risks and benefits of carbamazepine therapy should be weighed before considering carbamazepine in patients known to be positive for HLA-A*3101.
 
@@ -53,7 +53,7 @@ Patients with a history of adverse hematologic reaction to any drug may be parti
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
 
-Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has occurred with Carbamazepine.
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multiorgan hypersensitivity, has occurred with carbamazepine.
 Some of these events have been fatal or life-threatening.
 DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling, in association with other organ system involvement, such as hepatitis, nephritis, hematologic abnormalities, myocarditis, or myositis sometimes resembling an acute viral infection.
 Eosinophilia is often present.
@@ -64,7 +64,7 @@ Carbamazepine should be discontinued if an alternative etiology for the signs or
 
 Hypersensitivity
 
-Hypersensitivity reactions to carbamazepine have been reported in patients who previously experienced this reaction to anticonvulsants including phenytoin, primidone, and phenobarbital.
+Hypersensitivity reactions to carbamazepine have been reported in patients who previously experienced this reaction to anticonvulsants, including phenytoin, primidone, and phenobarbital.
 If such history is present, benefits and risks should be carefully considered and, if carbamazepine is initiated, the signs and symptoms of hypersensitivity should be carefully monitored.
 
 Patients should be informed that about a third of patients who have had hypersensitivity reactions to carbamazepine also experience hypersensitivity reactions with oxcarbazepine (Trileptal®).
@@ -93,9 +93,10 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 1 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 1.
+Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-|  | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
+| Indication | Placebo patients with events per 1,000 patients | Drug patients with events per 1,000 patients | Relative risk: incidence of events in drug patients/incidence in placebo patients | Risk difference: additional drug patients with events per 1,000 patients |
 | --- | --- | --- | --- | --- |
 | Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
@@ -114,11 +115,11 @@ Carbamazepine has shown mild anticholinergic activity that may be associated wit
 
 Because of the relationship of the drug to other tricyclic compounds, the possibility of activation of a latent psychosis and, in elderly patients, of confusion or agitation should be borne in mind.
 
-The use of carbamazepine should be avoided in patients with a history of hepatic por phyria (e.g., acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda).
+The use of carbamazepine should be avoided in patients with a history of hepatic porphyria (e.g., acute intermittent porphyria, variegate porphyria, porphyria cutanea tarda).
 Acute attacks have been reported in such patients receiving carbamazepine therapy.
-Carbamazepine administration has also been demonstrated to increase porphyrin precur sors in rodents, a presumed mechanism for the induction of acute attacks of porphyria.
+Carbamazepine administration has also been demonstrated to increase porphyrin precursors in rodents, a presumed mechanism for the induction of acute attacks of porphyria.
 
-As with all antiepileptic drugs, carbamazepine should be withdrawn gradually to mini mize the potential of increased seizure frequency.
+As with all antiepileptic drugs, carbamazepine should be withdrawn gradually to minimize the potential of increased seizure frequency.
 
 Hyponatremia can occur as a result of treatment with carbamazepine.
 In many cases, the hyponatremia appears to be caused by the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
@@ -134,7 +135,7 @@ Carbamazepine can cause fetal harm when administered to a pregnant woman.
 Epidemiological data suggest that there may be an association between the use of carbamazepine during pregnancy and congenital malformations, including spina bifida.
 There have also been reports that associate carbamazepine with developmental disorders and congenital anomalies (e.g., craniofacial defects, cardiovascular malformations, and anomalies involving various body systems).
 Developmental delays based on neurobehavioral assessments have been reported.
-When treating or counseling women of childbearing poten tial, the prescribing physician will wish to weigh the benefits of therapy against the risks.
+When treating or counseling women of childbearing potential, the prescribing physician will wish to weigh the benefits of therapy against the risks.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
 Retrospective case reviews suggest that, compared with monotherapy, there may be a higher prevalence of teratogenic effects associated with the use of anticonvulsants in combination therapy.
@@ -142,22 +143,26 @@ Therefore, if therapy is to be continued, monotherapy may be preferable for preg
 
 In humans, transplacental passage of carbamazepine is rapid (30 to 60 minutes), and the drug is accumulated in the fetal tissues, with higher levels found in liver and kidney than in brain and lung.
 
-Carbamazepine has been shown to have adverse effects in reproduction studies in rats when given orally in dosages 10 to 25 times the maximum human daily dosage (MHDD) of 1200 mg on a mg/kg basis or 1.5 to 4 times the MHDD on a mg/m 2 basis.
-In rat tera tology studies, 2 of 135 offspring showed kinked ribs at 250 mg/kg and 4 of 119 offspring at 650 mg/kg showed other anomalies (cleft palate, 1; talipes, 1; anophthal mos, 2).
+Carbamazepine has been shown to have adverse effects in reproduction studies in rats when given orally in dosages 10 to 25 times the maximum human daily dosage (MHDD) of 1200 mg on a mg/kg basis or 1.5 to 4 times the MHDD on a mg/m2 basis.
+In rat teratology studies, 2 of 135 offspring showed kinked ribs at 250 mg/kg and 4 of 119 offspring at 650 mg/kg showed other anomalies (cleft palate, 1; talipes, 1; anophthalmos, 2).
 In reproduction studies in rats, nursing offspring demonstrated a lack of weight gain and an unkempt appearance at a maternal dosage level of 200 mg/kg.
-
-Antiepileptic drugs should not be discontinued abruptly in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
-In individual cases where the severity and frequency of the seizure disorder are such that removal of medication does not pose a serious threat to the patient, discontinuation of the drug may be considered prior to and during pregnancy, although it cannot be said with any confidence that even minor seizures do not pose some hazard to the developing embryo or fetus.
-
-Tests to detect defects using currently accepted procedures should be considered a part of routine prenatal care in childbearing women receiving carbamazepine.
 
 There have been a few cases of neonatal seizures and/or respiratory depression associated with maternal carbamazepine and other concomitant anticonvulsant drug use.
 A few cases of neonatal vomiting, diarrhea, and/or decreased feeding have also been reported in association with maternal carbamazepine use.
 These symptoms may represent a neonatal withdrawal syndrome.
 
 To provide information regarding the effects of in utero exposure to carbamazepine, physicians are advised to recommend that pregnant patients taking carbamazepine enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+This can be done by calling the toll-free number 1-888-233-2334 and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+
+Clinical Considerations
+
+Disease-associated Maternal and/or Embryofetal Risk
+
+Epilepsy, with or without exposure to antiepileptic drugs, has been associated with several adverse outcomes during pregnancy, including preeclampsia, preterm labor, antepartum and postpartum hemorrhage, placental abruption, poor fetal growth, prematurity, fetal death, and maternal mortality.
+The risk of maternal or fetal injury may be greatest for patients with untreated or poorly controlled convulsive seizures.
+
+Women with epilepsy who become pregnant should not abruptly discontinue antiepileptic drugs, including carbamazepine, due to the risk of status epilepticus or severe seizures, which may be life-threatening.
 
 # PRECAUTIONS
 
@@ -174,14 +179,14 @@ This occurred generally, but not solely, in patients with underlying EKG abnorma
 
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported (see ADVERSE REACTIONS and PRECAUTIONS, Laboratory Tests).
 In some cases, hepatic effects may progress despite discontinuation of the drug.
-In addition rare instances of vanishing bile duct syndrome have been reported.
+In addition, rare instances of vanishing bile duct syndrome have been reported.
 This syndrome consists of a cholestatic process with a variable clinical course ranging from fulminant to indolent, involving the destruction and disappearance of the intrahepatic bile ducts.
 Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes, such as multiorgan hypersensitivity (DRESS syndrome) and serious dermatologic reactions.
-As an example there has been a report of vanishing bile duct syndrome associated with Stevens-Johnson syndrome and in another case an association with fever and eosinophilia.
+As an example, there has been a report of vanishing bile duct syndrome associated with SJS and in another case an association with fever and eosinophilia.
 
 ## Information for Patients
 
-Patients should be informed of the availability of a Medication Guide and they should be instructed to read the Medication Guide before taking carbamazepine.
+Patients should be informed of the availability of a Medication Guide and they should be instructed to read the Medication Guide, before taking carbamazepine.
 
 Patients should be made aware of the early toxic signs and symptoms of a potential hematologic problem, as well as dermatologic, hypersensitivity or hepatic reactions.
 These symptoms may include, but are not limited to, fever, sore throat, rash, ulcers in the mouth, easy bruising, lymphadenopathy and petechial or purpuric hemorrhage, and in the case of liver reactions, anorexia, nausea/vomiting, or jaundice.
@@ -206,7 +211,7 @@ Since dizziness and drowsiness may occur, patients should be cautioned about the
 
 Patients should be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 (see WARNINGS, Usage in Pregnancy subsection).
+To enroll, patients can call the toll-free number 1-888-233-2334 (see WARNINGS, Usage in Pregnancy subsection).
 
 ## Laboratory Tests
 
@@ -228,7 +233,7 @@ Monitoring of blood levels (see CLINICAL PHARMACOLOGY) has increased the efficac
 This monitoring may be particularly useful in cases of dramatic increase in seizure frequency and for verification of compliance.
 In addition, measurement of drug serum levels may aid in determining the cause of toxicity when more than one medication is being used.
 
-Thyroid function tests have been reported to show decreased values with carba mazepine administered alone.
+Thyroid function tests have been reported to show decreased values with carbamazepine administered alone.
 
 Interference with some pregnancy tests has been reported.
 
@@ -247,7 +252,7 @@ Drugs that have been shown, or would be expected, to increase plasma carbamazepi
 
 Human microsomal epoxide hydrolase has been identified as the enzyme responsible for the formation of the 10,11-transdiol derivative from carbamazepine-10,11 epoxide.
 Coadministration of inhibitors of human microsomal epoxide hydrolase may result in increased carbamazepine-10,11 epoxide plasma concentrations.
-Accordingly, the dosage of carbamazepine should be adjusted and/or the plasma levels monitored when used concomitantly with loxapine, quetiapine, or valproic acid, or brivaracetam.
+Accordingly, the dosage of carbamazepine should be adjusted and/or the plasma levels monitored when used concomitantly with loxapine, quetiapine, valproic acid, or brivaracetam.
 
 Agents That Decrease Carbamazepine Levels
 
@@ -258,7 +263,7 @@ Drugs that have been shown, or that would be expected, to decrease plasma carbam
 
 Decreased Levels of Concomitant Medications
 
-Carbamazepine is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C8/9/19 and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP 1A2, 2B6, 2C8/9/19 and 3A4, through induction of their metabolism.
+Carbamazepine is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C8/9/19, and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP1A2, 2B6, 2C8/9/19, and 3A4, through induction of their metabolism.
 When used concomitantly with carbamazepine, monitoring of concentrations or dosage adjustment of these agents may be necessary:
 
 - When carbamazepine is added to aripiprazole, the aripiprazole dose should be doubled.
@@ -313,14 +318,14 @@ The effect of carbamazepine on human labor and delivery is unknown.
 ## Nursing Mothers
 
 Carbamazepine and its epoxide metabolite are transferred to breast milk.
-The ratio of the concentration in breast milk to that in maternal plasma is about 0.4 for carba mazepine and about 0.5 for the epoxide.
+The ratio of the concentration in breast milk to that in maternal plasma is about 0.4 for carbamazepine and about 0.5 for the epoxide.
 The estimated doses given to the newborn during breastfeeding are in the range of 2 to 5 mg daily for carbamazepine and 1 to 2 mg daily for the epoxide.
 
 Because of the potential for serious adverse reactions in nursing infants from carbamazepine, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
 
 ## Pediatric Use
 
-Substantial evidence of carbamazepine's effectiveness for use in the management of children with epilepsy (see INDICATIONS AND USAGE for specific seizure types) is derived from clinical investigations performed in adults and from studies in several in vitro systems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure prop agation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children.
+Substantial evidence of carbamazepine's effectiveness for use in the management of children with epilepsy (see INDICATIONS AND USAGE for specific seizure types) is derived from clinical investigations performed in adults and from studies in several in vitro systems which support the conclusion that (1) the pathogenetic mechanisms underlying seizure propagation are essentially identical in adults and children, and (2) the mechanism of action of carbamazepine in treating seizures is essentially identical in adults and children.
 
 Taken as a whole, this information supports a conclusion that the generally accepted therapeutic range of total carbamazepine in plasma (i.e., 4 to 12 mcg/mL) is the same in children and adults.
 

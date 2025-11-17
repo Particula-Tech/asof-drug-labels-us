@@ -1,4 +1,4 @@
-Rx Only
+Rx only
 
 Prescribing Information
 
@@ -9,12 +9,12 @@ DOSAGE AND ADMINISTRATION (SEE TABLE BELOW)
 Monitoring of blood levels has increased the efficacy and safety of anticonvulsants (see PRECAUTIONS, Laboratory Tests).
 Dosage should be adjusted to the needs of the individual patient.
 A low initial daily dosage with a gradual increase is advised.
-As soon as adequate control is achieved, the dosage may be reduced very gradually to the mini mum effective level.
+As soon as adequate control is achieved, the dosage may be reduced very gradually to the minimum effective level.
 Medication should be taken with meals.
 
-Conversion of patients from oral carbamazepine tablets to Tegretol suspension: Patients should be converted by administering the same number of mg per day in smaller, more frequent doses (i.e., twice a day. tablets to three times a day suspension).
+Conversion of patients from oral carbamazepine tablets to Tegretol suspension: Patients should be converted by administering the same number of mg per day in smaller, more frequent doses (i.e., twice a day tablets to three times a day suspension).
 
-Epilepsy (SEE INDICATIONS AND USAGE)
+Epilepsy (see INDICATIONS AND USAGE)
 
 Adults and children over 12 years of age-Initial: 200 mg twice a day.
 Increase at weekly intervals by adding up to 200 mg/day using a three times a day or four times a day regimen until the optimal response is obtained.
@@ -42,7 +42,7 @@ Initial: On the first day, 100 mg twice a day for a total daily dose of 200 mg.
 This daily dose may be increased by up to 200 mg/day using increments of 100 mg every 12 hours only as needed to achieve freedom from pain.
 Do not exceed 1200 mg daily.
 Maintenance: Control of pain can be maintained in most patients with 400 to 800 mg daily.
-However, some patients may be maintained on as little as 200 mg daily, while oth ers may require as much as 1200 mg daily.
+However, some patients may be maintained on as little as 200 mg daily, while others may require as much as 1200 mg daily.
 At least once every 3 months throughout the treatment period, attempts should be made to reduce the dose to the minimum effective level or even to discontinue the drug.
 
 Dosage Information
@@ -50,7 +50,7 @@ Dosage Information
 |  | Initial Dose | Subsequent Dose | Maximum Daily Dose |
 | --- | --- | --- | --- |
 | Indication | Tablet* | Tablet* | Tablet* |
-| Epilepsy Under 6 yr | 10 to 20 mg/kg/day twice a day or 3 times a day | Increase weekly to achieve optimal clinical response, 3 times a day or 4 times a day | 35 mg/kg/24 hr (See Dosage and Administration section above) |
+| Epilepsy Under 6 yr | 10 to 20 mg/kg/day twice a day or 3 times a day | Increase weekly to achieve optimal clinical response, 3 times a day or 4 times a day | 35 mg/kg/24 hr (see Dosage and Administration section above) |
 | 6 to 12 yr | 100 mg twice a day (200 mg/day) | Add up to 100 mg/day at weekly intervals, 3 times a day or 4 times a day | 1000 mg/24 hr |
 | Over 12 yr | 200 mg twice a day (400 mg/day) | Add up to 200 mg/day at weekly intervals, 3 times a day or 4 times a day | 1000 mg/24 hr (12 to 15 yr) 1200 mg/24 hr (>15 yr) 1600 mg/24 hr (adults, in rare instances) |
 | Trigeminal Neuralgia | 100 mg twice a day (200 mg/day) | Add up to 200 mg/day in increments of 100 mg every 12 hr | 1200 mg/24 hr |

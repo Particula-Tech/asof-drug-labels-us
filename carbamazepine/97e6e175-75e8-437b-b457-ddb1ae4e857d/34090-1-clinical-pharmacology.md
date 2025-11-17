@@ -4,14 +4,14 @@ In controlled clinical trials, carbamazepine has been shown to be effective in t
 
 ## Mechanism of Action
 
-Carbamazepine has demonstrated anticonvulsant properties in rats and mice with elec trically and chemically induced seizures.
+Carbamazepine has demonstrated anticonvulsant properties in rats and mice with electrically and chemically induced seizures.
 It appears to act by reducing polysynaptic responses and blocking the post-tetanic potentiation.
 Carbamazepine greatly reduces or abolishes pain induced by stimulation of the infraorbital nerve in cats and rats.
-It depresses thalamic potential and bulbar and polysynaptic reflexes, including the lin guomandibular reflex in cats.
+It depresses thalamic potential and bulbar and polysynaptic reflexes, including the linguomandibular reflex in cats.
 Carbamazepine is chemically unrelated to other anticonvulsants or other drugs used to control the pain of trigeminal neuralgia.
 The mechanism of action remains unknown.
 
-The principal metabolite of carbamazepine, carbamazepine-10,11-epoxide, has anticon vulsant activity as demonstrated in several in vivo animal models of seizures.
+The principal metabolite of carbamazepine, carbamazepine-10,11-epoxide, has anticonvulsant activity as demonstrated in several in vivo animal models of seizures.
 Though clinical activity for the epoxide has been postulated, the significance of its activity with respect to the safety and efficacy of carbamazepine has not been established.
 
 ## Pharmacokinetics
@@ -23,7 +23,7 @@ Following a twice a day dosage regimen, the suspension provides higher peak leve
 On the other hand, following a three times a day dosage regimen, Tegretol suspension affords steady-state plasma levels comparable to carbamazepine tablets given twice a day when administered at the same total mg daily dose.
 Following a twice a day dosage regimen, Tegretol-XR tablets afford steady-state plasma levels comparable to conventional carbamazepine tablets given four times a day, when administered at the same total mg daily dose.
 Carbamazepine in blood is 76% bound to plasma proteins.
-Plasma levels of carba-mazepine are variable and may range from 0.5 to 25 mcg/mL, with no apparent relationship to the daily intake of the drug.
+Plasma levels of carbamazepine are variable and may range from 0.5 to 25 mcg/mL, with no apparent relationship to the daily intake of the drug.
 Usual adult therapeutic levels are between 4 and 12 mcg/mL.
 In polytherapy, the concentration of carbamazepine and concomitant drugs may be increased or decreased during therapy, and drug effects may be altered (see PRECAUTIONS, Drug Interactions).
 Following chronic oral administration of suspension, plasma levels peak at approximately 1.5 hours compared to 4 to 5 hours after administration of conventional carbamazepine tablets, and 3 to 12 hours after administration of Tegretol-XR tablets.
@@ -40,6 +40,6 @@ This urinary radioactivity was composed largely of hydroxylated and conjugated m
 The pharmacokinetic parameters of carbamazepine disposition are similar in children and in adults.
 However, there is a poor correlation between plasma concentrations of carbamazepine and carbamazepine dose in children.
 Carbamazepine is more rapidly metabolized to carbamazepine-10,11-epoxide (a metabolite shown to be equipotent to carbamazepine as an anticonvulsant in animal screens) in the younger age groups than in adults.
-In children below the age of 15, there is an inverse relationship between CBZ- E/CBZ ratio and increasing age (in one report from 0.44 in children below the age of 1 year to 0.18 in children between 10 to 15 years of age).
+In children below the age of 15, there is an inverse relationship between CBZ-E/CBZ ratio and increasing age (in one report from 0.44 in children below the age of 1 year to 0.18 in children between 10 to 15 years of age).
 
 The effects of race and gender on carbamazepine pharmacokinetics have not been systematically evaluated.
