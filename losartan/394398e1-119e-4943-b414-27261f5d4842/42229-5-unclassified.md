@@ -35,7 +35,7 @@ Symptoms of an allergic reaction are swelling of the face, lips, throat or tongu
 Get emergency medical help right away and stop taking losartan potassium tablets. • Low blood pressure (hypotension).Low blood pressure may cause you to feel faint or dizzy.
 Lie down if you feel faint or dizzy.
 Call your doctor right away. • For people who already have kidney problems, you may see a worsening in how well your kidneys work.
-Call your doctor if you get swelling in your feet, ankles, or hands, or unexplained weight gain. • High blood levels of potassium The most common side effects of losartan potassium tablets in people with high blood pressure are: • "colds" (upper respiratory infection) • dizziness • stuffy nose • back pain The most common side effects of losartan potassium tablets in people with type 2 diabetes with diabetic kidney disease are: • diarrhea • tiredness • low blood sugar • chest pain • high blood potassium • low blood pressure Tell your doctor if you get any side effect that bothers you or that won' t go away.
+Call your doctor if you get swelling in your feet, ankles, or hands, or unexplained weight gain. • High blood levels of potassium The most common side effects of losartan potassium tablets in people with high blood pressure are: • "colds" (upper respiratory infection) • dizziness • stuffy nose • back pain The most common side effects of losartan potassium tablets in people with type 2 diabetes with diabetic kidney disease are: • diarrhea • tiredness • low blood sugar • chest pain • high blood potassium • low blood pressure Tell your doctor if you get any side effect that bothers you or that won't go away.
 This is nota complete list of side effects.
 For a complete list, ask your doctor or pharmacist.
 How do I store losartan potassium tablets? • Store losartan potassium tablets at 68°F to 77°F (20°C to 25°C). • Keep losartan potassium tablets in a tightly closed container that protects the medicine from light. • Keep losartan potassium tablets and all medicines out of the reach of children.
@@ -52,4 +52,4 @@ The tablets are coated with Opadry White which contains carnauba wax, hypromello
 
 Manufactured for: Northstar Rx LLC Memphis,TN 38141.
 Manufactured by: Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar - 509 301, India.
-Revised: 04/2025
+Revised: 08/2025

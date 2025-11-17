@@ -20,7 +20,7 @@ Hydrochlorothiazide 12.5 mg daily should be added and/or the dose of losartan po
 The usual starting dose is 50 mg once daily.
 The dose should be increased to 100 mg once daily based on blood pressure response [see Clinical Studies (14.3)].
 
-## 2.4 Dosing Modifications in Patients with Hepatic Impairment
+## 2.4 Dosage Modifications in Patients with Hepatic Impairment
 
 In patients with mild-to-moderate hepatic impairment the recommended starting dose of losartan potassium tablets is 25 mg once daily.
 Losartan potassium tablets has not been studied in patients with severe hepatic impairment [see Use in Specific Populations (8.8) and Clinical Pharmacology (12.3)].

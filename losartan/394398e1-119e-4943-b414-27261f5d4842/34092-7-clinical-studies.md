@@ -11,7 +11,8 @@ Doses of 50, 100 and 150 mg once daily gave statistically significant systolic/d
 Twice-daily dosing at 50 to 100 mg/day gave consistently larger trough responses than once-daily dosing at the same total dose.
 Peak (6 hour) effects were uniformly, but moderately, larger than trough effects, with the trough-to-peak ratio for systolic and diastolic responses 50 to 95% and 60 to 90%, respectively.
 Addition of a low dose of hydrochlorothiazide (12.5 mg) to losartan 50 mg once daily resulted in placebo- adjusted blood pressure reductions of 15.5/9.2 mmHg.
-Analysis of age, gender, and race subgroups of patients showed that men and women, and patients over and under 65, had generally similar responses. losartan potassium was effective in reducing blood pressure regardless of race, although the effect was somewhat less in Black patients (usually a low-renin population).
+Analysis of age, gender, and race subgroups of patients showed that men and women, and patients over and under 65, had generally similar responses.
+Losartan potassium was effective in reducing blood pressure regardless of race, although the effect was somewhat less in Black patients (usually a low-renin population).
 Pediatric Hypertension The antihypertensive effect of losartan was studied in one trial enrolling 177 hypertensive pediatric patients aged 6 to 16 years old.
 Children who weighed <50 kg received 2.5, 25 or 50 mg of losartan daily and patients who weighed ≥50 kg received 5, 50 or 100 mg of losartan daily.
 Children in the lowest dose group were given losartan in a suspension formulation [see Dosage and Administration (2.1)].The majority of the children had hypertension associated with renal and urogenital disease.
@@ -72,7 +73,7 @@ Table 3: Incidence of Primary Endpoint Events
 | Due to Stroke | 40 (1) | 1.8 | 62 (1) | 2.8 | 35% | 4% to 67% | 0.032 |
 | Other‡ | 39 (1) | 1.8 | 48 (1) | 2.2 | 16% | -28% to 45% | 0.411 |
 
-*Rate per 1000 patient-years of follow-up †Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy ‡Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease Although the LIFE study favoured losartan potassium over atenolol with respect to the primary endpoint (p=0.021), this result is from a single study and, therefore, is less compelling than the difference between losartan potassium and placebo.
+*Rate per 1000 patient-years of follow-up †Adjusted for baseline Framingham risk score and level of electrocardiographic left ventricular hypertrophy ‡Death due to heart failure, non-coronary vascular disease, pulmonary embolism, or a cardiovascular cause other than stroke or coronary heart disease Although the LIFE study favored losartan potassium over atenolol with respect to the primary endpoint (p=0.021), this result is from a single study and, therefore, is less compelling than the difference between losartan potassium and placebo.
 Although not measured directly, the difference between losartan potassium and placebo is compelling because there is evidence that atenolol is itself effective (vs. placebo) in reducing cardiovascular events, including stroke, in hypertensive patients.
 Other clinical endpoints of the LIFE study were: total mortality, hospitalization for heart failure or angina pectoris, coronary or peripheral revascularization procedures, and resuscitated cardiac arrest.
 There were no significant differences in the rates of these endpoints between the losartan potassium and atenolol groups.

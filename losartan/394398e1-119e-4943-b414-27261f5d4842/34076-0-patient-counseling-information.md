@@ -9,4 +9,4 @@ Potassium Supplements Advise patients receiving losartan potassium tablets not t
 The trademarks depicted herein are owned by their respective companies.
 Manufactured for: Northstar Rx LLC Memphis,TN 38141.
 Manufactured by: Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar - 509 301, India.
-Revised: 04/2025
+Revised: 08/2025

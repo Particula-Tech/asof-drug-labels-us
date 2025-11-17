@@ -18,8 +18,8 @@ In patients taking losartan potassium during pregnancy, perform serial ultrasoun
 Fetal testing may be appropriate, based on the week of gestation.
 If oligohydramnios is observed, discontinue losartan potassium, unless it is considered lifesaving for the mother.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
-Closely observe neonates with histories of in utero exposure to losartan potassium for hypotension, oliguria, and hyperkalemia.
-In neonates with a history of in utero exposure to losartan potassium, if oliguria or hypotension occurs, support blood pressure and renal perfusion.
+Closely observe neonates with histories of in uteroexposure to losartan potassium for hypotension, oliguria, and hyperkalemia.
+In neonates with a history of in uteroexposure to losartan potassium, if oliguria or hypotension occurs, support blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and replacing renal function.
 Data Animal Data Losartan potassium was administered orally to rats during the period of late gestation through lactation (Gestation Day 15 through Lactation Day 20) at doses of 10, 25, and 100 mg/kg/day.
 Losartan potassium has been shown to produce adverse effects in rat fetuses and neonates, including decreased body weight, delayed physical and behavioral development, mortality and renal toxicity.
@@ -57,7 +57,7 @@ However, the LIFE study provides no evidence that the benefits of losartan potas
 ## 8.7 Renal Impairment
 
 Patients with renal insufficiency have elevated plasma concentrations of losartan and its active metabolite compared to subjects with normal renal function.
-No dose adjustment is necessary in patients with renal impairment unless a patient with renal impairment is also volume depleted [see Dosage and Administration (2.3), Warnings and Precautions (5.3) and Clinical Pharmacology (12.3)].
+No dose adjustment is necessary in patients with renal impairment unless a patient with renal impairment is also volume depleted [see Dosage and Administration (2.3), Warnings and Precautions (5.3), and Clinical Pharmacology (12.3)].
 
 ## 8.8 Hepatic Impairment
 
