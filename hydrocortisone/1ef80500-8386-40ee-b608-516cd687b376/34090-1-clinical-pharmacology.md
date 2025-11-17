@@ -14,8 +14,8 @@ Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also h
 
 Absorption
 
-Following oral administration of KHINDIVI (5 mg) in dexamethasone-suppressed healthy adult volunteers under fasted conditions, mean (range) maximum plasma concentration (Cmax) of hydrocortisone is 152 (98-210) ng/mL.
-Mean (range) time to reach maximum concentration (Tmax) is 0.5 (0.25-0.75) hours.
+Following oral administration of KHINDIVI (5 mg) in dexamethasone-suppressed healthy adult volunteers under fasted conditions, mean (range) maximum plasma concentration (C max) of hydrocortisone is 152 (98-210) ng/mL.
+Mean (range) time to reach maximum concentration (T max) is 0.5 (0.25-0.75) hours.
 
 Effect of Food
 

@@ -10,7 +10,7 @@
 
 ## 2.2 Recommended Dosage and Administration
 
-- The recommended starting replacement dosage of KHINDIVI is 8 to 10 mg/m2 daily administered orally with or without food.
+- The recommended starting replacement dosage of KHINDIVI is 8 to 10 mg/m 2daily administered orally with or without food.
   Higher doses may be needed based on the patient's age and symptoms of the disease.
   Use of lower starting dose may be sufficient in patients with residual but decreased endogenous cortisol production.
 - Round the dose to the nearest 0.5 mg or 1 mg.
@@ -29,4 +29,4 @@
 
 - When switching patients to KHINDIVI from other oral hydrocortisone formulations to KHINDIVI use the same total daily hydrocortisone dosage.
   After switching to KHINDIVI, monitor patients for symptoms of adrenocortical insufficiency.
-  If symptoms of adrenal insufficiency occur after switching, increase the total daily dosage of KHINDIVI [see Dosage and Administration (2.2) and Warnings and Precautions (5.1, 5.2)].
+  If symptoms of adrenal insufficiency occur after switching, increase the total daily dosage of KHINDIVI [see Dosage and Administration (2.2)and Warnings and Precautions (5.1, 5.2)].
