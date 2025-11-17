@@ -13,9 +13,9 @@
    9th edition.
    Amarillo, TX: Pharmasoft Publishing, 2000: 225–226.
 
+Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
+
 Manufactured by: Hikma Pharmaceuticals P.O.
 Box 182400 Amman, 11118 - Jordan
 
-Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
-
-2INDOXY-E Revised August 2025
+2INDOXYN-E Revised August 2025
