@@ -269,19 +269,19 @@ Figure F: clean your injection site
 | Figure J: lift the needle straight out •Slowly release the plunger and allow the needle safety guard to automatically cover the exposed needle (see Figure K).•There may be a small amount of blood at the injection site. You can press a cotton ball or gauze onto the injection site and hold it for 10 seconds. Do not rub the injection site. You may cover the injection site with a small adhesive bandage, if needed. |
 | Figure K: slowly release the plunger |
 
-- •Disposing of used prefilled syringes
-- •Put your used prefilled syringe in an FDA-cleared sharps disposal container right away after use (see Figure L). Do not throw away (dispose of) any prefilled syringes in your household trash.
-- •If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
-  - omade of a heavy-duty plastic,
-  - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-  - oupright and stable during use,
-  - oleak resistant, and
-  - oproperly labeled to warn of hazardous waste inside the container.
-- •When your sharps container is almost full, you will need to follow your community guidelines, for the right way to dispose of your sharps disposal container.
-  There may be a state or local laws about how you should throw away used syringes, needles and prefilled syringe.
-  For more information about safe sharps disposal, and for specific information about sharps disposal, in the state that you live in, go to the FDA’s website at: www.fda.gov/safesharpsdisposal.
-- •Do not dispose your used sharps disposal container in your household trash unless your community guidelines permit this.
-  Do not recycle your used sharps disposal container.
+1. 4.Disposing of used prefilled syringes
+2. •Put your used prefilled syringe in an FDA-cleared sharps disposal container right away after use (see Figure L). Do not throw away (dispose of) any prefilled syringes in your household trash.
+3. •If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
+   - omade of a heavy-duty plastic,
+   - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+   - oupright and stable during use,
+   - oleak resistant, and
+   - oproperly labeled to warn of hazardous waste inside the container.
+4. •When your sharps container is almost full, you will need to follow your community guidelines, for the right way to dispose of your sharps disposal container.
+   There may be a state or local laws about how you should throw away used syringes, needles and prefilled syringe.
+   For more information about safe sharps disposal, and for specific information about sharps disposal, in the state that you live in, go to the FDA’s website at: www.fda.gov/safesharpsdisposal.
+5. •Do not dispose your used sharps disposal container in your household trash unless your community guidelines permit this.
+   Do not recycle your used sharps disposal container.
 
 Figure L: dispose of your used prefilled syringe
 
@@ -366,7 +366,7 @@ Preparing the Sensoready Pen
 - •For a more comfortable injection, take your Sensoready pen out of the refrigerator 15 to 30 minutes before injecting HYRIMOZ to allow it to reach room temperature.
   Do not try to warm the prefilled pen by using a heat source such as hot water or a microwave.
 - •Look through the viewing window.
-  The solution should be clear and colorless to slightly yellowish.
+  The solution should be clear and colorless or slightly yellowish.
   Do not use your Sensoready Pen if the solution is cloudy, discolored, or has flakes or particles in it.
   You may see small air bubbles, which is normal.
   If you are not sure what color the solution should be, then contact your pharmacist for help.
@@ -459,9 +459,8 @@ Figure J: check the green indicator
 4. •When your sharps container is almost full, you will need to follow your community guidelines, for the right way to dispose of your sharps disposal container.
    There may be state or local laws about how you should throw away used syringes, needles and pens.
    For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at:
-   - owww.fda.gov/safesharpsdisposal
-5. •Do not dispose your used sharps disposal container in your household trash unless your community guidelines permit this.
-   Do not recycle your used sharps disposal container.
+   - owww.fda.gov/safesharpsdisposalDo not dispose your used sharps disposal container in your household trash unless your community guidelines permit this.
+     Do not recycle your used sharps disposal container.
 
 Figure K: dispose of your used pen
 
@@ -599,7 +598,7 @@ Figure G: hold your pen
 
 Your injection
 
-| You must read this before injecting During the injection you will hear 2 loud clicks: •The first click indicates that the injection has started. •Several seconds later a second click will indicate that the injection is almost finished. You must keep holding your Sensoready Pen firmly against your skin until you see a green indicator fill the window and stop moving. |
+| You must read this before injecting During the injection you will hear 2 loud clicks: oThe first click indicates that the injection has started. oSeveral seconds later a second click will indicate that the injection is almost finished. You must keep holding your Sensoready Pen firmly against your skin until you see a green indicator fill the window and stop moving. |
 | --- |
 
 1. 5.Starting your injection
@@ -633,11 +632,11 @@ Figure J: check the green indicator
 1. 8.Disposing of used Sensoready Pens
 2. •Put your used Sensoready Pen in an FDA-cleared sharps disposal container right away after use (see Figure K). Do not throw away (dispose of) any Sensoready Pens in your household trash.
 3. •If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
-   - •made of a heavy-duty plastic,
-   - •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-   - •upright and stable during use,
-   - •leak resistant, and
-   - •properly labeled to warn of hazardous waste inside the container.
+   - omade of a heavy-duty plastic,
+   - ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+   - oupright and stable during use,
+   - oleak resistant, and
+   - oproperly labeled to warn of hazardous waste inside the container.
 4. •When your sharps container is almost full, you will need to follow your community guidelines, for the right way to dispose of your sharps disposal container.
    There may be state or local laws about how you should throw away used syringes, needles and pens.
    For more information about safe sharps disposal, and for specific information about sharps disposal, in the state that you live in, go to the FDA’s website at:
@@ -715,7 +714,7 @@ Figure B: items not included in the carton
 Preparing the prefilled syringe
 
 - •For a more comfortable injection, take the outer carton containing the prefilled syringe out of the refrigerator and leave it unopened on your work surface for about 15 to 30 minutes to allow it to reach room temperature.
-- •Do not try to warm the prefilled syringe by using a heat source such as hot water or a microwave.
+  Do not try to warm the prefilled syringe by using a heat source such as hot water or a microwave.
 - •Remove the prefilled syringe from the carton box and check it.
   The solution should be clear and colorless or slightly yellowish.
   Do not use a prefilled syringe if the solution is cloudy, discolored, or has flakes or particles in it.
@@ -742,7 +741,7 @@ Contact your pharmacist if:
 
 All third party trademarks are the property of their respective owners.
 
-1. This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 11/2023
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 11/2023
 
 INSTRUCTIONS FOR USE
 
@@ -830,4 +829,4 @@ Contact your pharmacist if:
 
 All third party trademarks are the property of their respective owners.
 
-1. This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 11/2023
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 11/2023
