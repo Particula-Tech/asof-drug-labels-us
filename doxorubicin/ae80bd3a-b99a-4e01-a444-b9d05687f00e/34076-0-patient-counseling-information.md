@@ -42,8 +42,8 @@ Administration
 
 Advise patients that Doxorubicin Hydrochloride Injection can cause their urine to appear red for 1 to 2 days after administration.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2023 Sagent Pharmaceuticals
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2024 Sagent Pharmaceuticals
 
-May 2023
+Revised: August 2024
 
 SAGENT Pharmaceuticals ®

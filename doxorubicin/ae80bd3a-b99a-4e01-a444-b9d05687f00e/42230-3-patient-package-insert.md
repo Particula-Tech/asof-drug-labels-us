@@ -122,7 +122,7 @@ You can ask your pharmacist or healthcare provider for information about Doxorub
 
 What are the ingredients in Doxorubicin?
 
-Active ingredient: doxorubicin hydrochloride
+Active ingredient: doxorubicin hydrochloride, USP.
 
 Inactive ingredients for Doxorubicin Hydrochloride Injection: sodium chloride, and hydrochloric acid, USP.
 
@@ -130,8 +130,8 @@ For more information, call 1-866-625-1618.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2023 Sagent Pharmaceuticals
+SAGENT® Mfd. for SAGENT Pharmaceuticals Schaumburg, IL 60195 (USA) Made in India ©2024 Sagent Pharmaceuticals
 
-May 2023
+Revised: August 2024
 
 SAGENT Pharmaceuticals ®
