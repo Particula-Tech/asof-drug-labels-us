@@ -20,7 +20,7 @@ Consider the use of a parenteral anti-platelet agent in acute coronary syndrome 
 Ticagrelor increases serum concentrations of simvastatin and lovastatin because these drugs are metabolized by CYP3A4.
 Avoid simvastatin and lovastatin doses greater than 40 mg [see Clinical Pharmacology (12.3)].
 
-Ticagrelor increases serum concentration of rosuvastatin because rosuvastatin is a BCRP substrate [see Clinical Pharmacology (12.3).
+Ticagrelor increases serum concentration of rosuvastatin because rosuvastatin is a BCRP substrate [see Clinical Pharmacology (12.3)].
 
 ## 7.5 Digoxin
 

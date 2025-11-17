@@ -30,6 +30,6 @@ Generally, use ticagrelor tablets with a daily maintenance dose of aspirin of 75
 ## 2.4 Acute Ischemic Stroke or Transient Ischemic Attack (TIA)
 
 Initiate treatment with a 180 mg loading dose of ticagrelor tablets and then continue with 90 mg twice daily for up to 30 days.
-Administer the first maintenance dose 6 to 12 hours after the loading dose
+Administer the first maintenance dose 6 to 12 hours after the loading dose.
 
 Use ticagrelor tablets with a loading dose of aspirin (300 mg to 325 mg) and a daily maintenance dose of aspirin of 75 mg to 100 mg [see Clinical Studies (14)].

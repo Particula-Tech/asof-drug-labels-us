@@ -118,7 +118,7 @@ Adverse reactions that occurred in PEGASUS at rates of 3% or more are shown in T
 
 Table 5 – Non-hemorrhagic adverse reactions reported in >3% of patients in the ticagrelor 60 mg treatment group (PEGASUS)
 
-|  | Ticagrelor* N=6958 | Placebo N=6996 |
+|  | Ticagrelor*N=6958 | PlaceboN=6996 |
 | --- | --- | --- |
 | Dyspnea | 14.2% | 5.5% |
 | Dizziness | 4.5% | 4.1% |
