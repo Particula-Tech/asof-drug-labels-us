@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761201"
+  ],
+  "inn": "insulin-glargine",
+  "labeler": "Civica, Inc.",
+  "package_ndcs": [
+    "72572-424-01",
+    "72572-424-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "insulin glargine-yfgn",
+      "name": "INSULIN GLARGINE"
+    }
+  ],
+  "setid": "216f2167-c201-76fe-81ed-0d51fe53832f",
+  "source": "dailymed"
+}
