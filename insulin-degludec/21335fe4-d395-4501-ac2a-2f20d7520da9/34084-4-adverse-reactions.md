@@ -16,7 +16,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Xultophy 100/3.6
+XULTOPHY 100/3.6
 
 The data in Table 3 reflect the exposure of 1881 patients to XULTOPHY 100/3.6 and a mean duration of exposure of 33 weeks in trials NCT01336023, NCT01618162, NCT02773368, NCT01676116, NCT01392573, NCT01952145 [see Clinical Studies (14.2 and 14.3)].
 The mean age was 57 years and 3% were older than 75 years; 53% were male, 75% were White, 6% were Black or African American and 16% were Hispanic or Latino.
@@ -25,8 +25,7 @@ The mean duration of diabetes was 9 years and the mean HbA1c at baseline was 8.2
 A history of neuropathy, ophthalmopathy, nephropathy and cardiovascular disease at baseline was reported in 25%, 12%, 7% and 6% respectively.
 The mean estimated glomerular filtration rate (eGFR) at baseline was 88.3 mL/min/1.73 m2 and 6% of the patients had an eGFR less than 60 mL/min/1.73 m2.
 
-Table 3.
-Adverse Reactions Occurring in ≥5% of XULTOPHY 100/3.6-Treated Patients with Type 2 Diabetes Mellitus
+Table 3: Adverse Reactions Occurring in ≥5% of XULTOPHY 100/3.6-Treated Patients with Type 2 Diabetes Mellitus
 
 |  | XULTOPHY 100/3.6N = 1881% |
 | --- | --- |
@@ -54,28 +53,29 @@ Hypoglycemia Episodes Reported in XULTOPHY 100/3.6-Treated Patients with T2DM
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | XULTOPHY 100/3.6 NCT01336023 | XULTOPHY 100/3.6 NCT01618162 | XULTOPHY 100/3.6NCT02773368 | XULTOPHY 100/3.6NCT01676116 | XULTOPHY 100/3.6NCT01392573 | XULTOPHY 100/3.6NCT01952145 |  |  |
 | Total Subjects (N) | 825 | 288 | 209 | 291 | 199 | 278 |  |  |
-| Severe Hypoglycemia (%)† | 0.2 | 0.7 | 0.5 | 0.3 | 0.5 | 0.0 |  |  |
+| Severe Hypoglycemia (%)† | 0.2 | 0.7 | 0.5 | 0.3 | 0.5 | 0 |  |  |
 | Hypoglycemia with a glucose level <54 mg/dL (%)* | 27.6 | 37.2 | 14.4 | 27.1 | 22.1 | 24.8 |  |  |
-| †Episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions. |  |  |  |  |  |  |  |  |
+| † Episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions. |  |  |  |  |  |  |  |  |
 
-*Episodes of hypoglycemia with a glucose level below 54 mg/dL that are associated with or without symptoms of hypoglycemia.
+* Episodes of hypoglycemia with a glucose level below 54 mg/dL that are associated with or without symptoms of hypoglycemia.
 
 Gastrointestinal Adverse Reactions
 
 Gastrointestinal adverse reactions including nausea, diarrhea, vomiting, constipation, dyspepsia, gastritis, abdominal pain, flatulence, eructation, gastroesophageal reflux disease, abdominal distension and decreased appetite have been reported in patients treated with XULTOPHY 100/3.6.
-In a XULTOPHY 100/3.6 clinical trial severe gastrointestinal adverse reactions were reported among patients receiving XULTOPHY 100/3.6 (0.8 %) and patients receiving the active comparators liraglutide (2.9%) and insulin degludec (0.2%) [see Clinical Studies (14.2)].
-Gastrointestinal adverse reactions may occur more frequently at the beginning of XULTOPHY 100/3.6 therapy and diminish within a few days or weeks on continued treatment.
+In a XULTOPHY 100/3.6 clinical trial severe gastrointestinal adverse reactions were reported among patients receiving XULTOPHY 100/3.6 (0.8%) and patients receiving the active comparators liraglutide (2.9%) and insulin degludec (0.2%) [see Clinical Studies (14.2)].Gastrointestinal adverse reactions may occur more frequently at the beginning of XULTOPHY 100/3.6 therapy and diminish within a few days or weeks on continued treatment.
 
-Papillary thyroid carcinoma Liraglutide
+Papillary thyroid carcinoma
 
-In glycemic control trials of liraglutide, there were 7 reported cases of papillary thyroid carcinoma in patients treated with liraglutide and 1 case in a comparator-treated patient (1.5 vs. 0.5 cases per 1000 patient years).
+Liraglutide
+
+In glycemic control trials of liraglutide, there were 7 reported cases of papillary thyroid carcinoma in patients treated with liraglutide and 1 case in a comparator-treated patient (1.5 vs. 0.5 cases per 1,000 patient years).
 Most of these papillary thyroid carcinomas were <1 cm in greatest diameter and were diagnosed in surgical pathology specimens after thyroidectomy prompted by findings on protocol-specified screening with serum calcitonin or thyroid ultrasound.
 
 Pancreatitis
 
 Liraglutide
 
-In glycemic control trials of liraglutide, there have been 13 cases of pancreatitis among liraglutide-treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1000 patient-years).
+In glycemic control trials of liraglutide, there have been 13 cases of pancreatitis among liraglutide-treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1,000 patient-years).
 Nine of the 13 cases with liraglutide were reported as acute pancreatitis and four were reported as chronic pancreatitis.
 In one case in a liraglutide-treated patient, pancreatitis, with necrosis, was observed and led to death; however clinical causality could not be established.
 Some patients had other risk factors for pancreatitis, such as a history of cholelithiasis or alcohol abuse.
@@ -87,8 +87,8 @@ Liraglutide
 In glycemic control trials of liraglutide, the incidence of cholelithiasis was 0.3% in both liraglutide-treated and placebo-treated patients.
 The incidence of cholecystitis was 0.2% in both liraglutide treated and placebo-treated patients.
 
-In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], the incidence of cholelithiasis was 1.5% (3.9 cases per 1000 patient years of observation) in liraglutide-treated and 1.1% (2.8 cases per 1000 patient years of observation) in placebo-treated patients, both on a background of standard of care.
-The incidence of acute cholecystitis was 1.1% (2.9 cases per 1000 patient years of observation) in liraglutide-treated and 0.7% (1.9 cases per 1000 patient years of observation) in placebo-treated patients.
+In a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], the incidence of cholelithiasis was 1.5% (3.9 cases per 1,000 patient years of observation) in liraglutide-treated and 1.1% (2.8 cases per 1,000 patient years of observation) in placebo-treated patients, both on a background of standard of care.
+The incidence of acute cholecystitis was 1.1% (2.9 cases per 1,000 patient years of observation) in liraglutide-treated and 0.7% (1.9 cases per 1,000 patient years of observation) in placebo-treated patients.
 The majority of events required hospitalization or cholecystectomy.
 
 Initiation of insulin containing products and intensification of glucose control
@@ -112,7 +112,7 @@ In study A, after 26 weeks of treatment, patients converting to XULTOPHY 100/3.6
 
 Injection Site reactions
 
-As with any insulin and GLP-1 receptor agonist-containing products, patients taking XULTOPHY 100/3.6 may experience injection site reactions, including injection site hematoma, pain, hemorrhage, erythema, nodules, swelling, discoloration, pruritis, warmth, and injection site mass.
+As with any insulin and GLP-1 receptor agonist-containing products, patients taking XULTOPHY 100/3.6 may experience injection site reactions, including injection site hematoma, pain, hemorrhage, erythema, nodules, swelling, discoloration, pruritus, warmth, and injection site mass.
 In the clinical program, the proportion of injection site reactions occurring in patients treated with XULTOPHY 100/3.6 was 2.6%.
 These reactions were usually mild and transitory and they normally disappear during continued treatment.
 
@@ -121,7 +121,11 @@ Hypersensitivity Reactions
 Severe, life-threatening, generalized allergy, including anaphylaxis, generalized skin reactions, angioedema, bronchospasm, hypotension, and shock have occurred with insulin, including XULTOPHY 100/3.6 and may be life threatening [see Warnings and Precautions (5.8)].
 Hypersensitivity (manifested with swelling of tongue and lips, diarrhea, nausea, tiredness, and itching) and urticaria were reported.
 
-Laboratory tests Bilirubin Liraglutide
+Laboratory tests
+
+Bilirubin
+
+Liraglutide
 
 In the five glycemic control trials of at least 26 weeks duration, mildly elevated serum bilirubin concentrations (elevations to no more than twice the upper limit of the reference range) occurred in 4.0% of liraglutide-treated patients, 2.1% of placebo-treated patients and 3.5% of active-comparator-treated patients.
 This finding was not accompanied by abnormalities in other liver tests.
@@ -166,13 +170,11 @@ Because these events are reported voluntarily from a population of uncertain siz
 Insulin degludec
 
 Localized cutaneous amyloidosis at the injection site has occurred.
-Hyperglycemia has been reported with repeated
-
-insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.
+Hyperglycemia has been reported with repeated insulin injections into areas of localized cutaneous amyloidosis; hypoglycemia has been reported with a sudden change to an unaffected injection site.
 
 Liraglutide
 
-- •Gastrointestinal: Acute pancreatitis; hemorrhagic and necrotizing pancreatitis sometimes resulting in death; ileus, and nausea, vomiting and diarrhea leading to dehydration
+- •Gastrointestinal: Acute pancreatitis; hemorrhagic and necrotizing pancreatitis sometimes resulting in death; ileus, and nausea, vomiting and diarrhea leading to dehydration, intestinal obstruction, severe constipation including fecal impaction
 - •Hepatobiliary: Elevations of liver enzymes, hyperbilirubinemia, cholestasis, cholecystitis, cholelithiasis requiring cholecystectomy, hepatitis
 - •Hypersensitivity: Angioedema, anaphylactic reactions, rash, pruritus
 - •Neoplasms: Medullary thyroid carcinoma

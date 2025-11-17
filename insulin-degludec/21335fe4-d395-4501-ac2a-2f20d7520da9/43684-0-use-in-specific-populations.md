@@ -8,17 +8,17 @@ Based on animal reproduction studies, there may be risks to the fetus from expos
 XULTOPHY 100/3.6 should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 There are no available data with XULTOPHY 100/3.6, insulin degludec or liraglutide in pregnant women to inform a drug associated risk for major birth defects and miscarriage.
-There are clinical considerations regarding the risks of poorly controlled diabetes in pregnancy [see Clinical Considerations].
+There are clinical considerations regarding the risks of poorly controlled diabetes in pregnancy (see Clinical Considerations).
 
 For insulin degludec, rats and rabbits were exposed in animal reproduction studies at 5 times (rat) and 10 times (rabbit) the human exposure at a dose of 0.75 U/kg/day.
-No adverse outcomes were observed for pregnant animals and offspring [see Data].
+No adverse outcomes were observed for pregnant animals and offspring (see Data).
 
 For liraglutide, animal reproduction studies identified increased adverse developmental outcomes from exposure during pregnancy.
 Liraglutide exposure was associated with early embryonic deaths and an imbalance in some fetal abnormalities in pregnant rats administered liraglutide during organogenesis at doses that approximate clinical exposures at the maximum recommended human dose (MRHD) of 1.8 mg/day.
-In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD [see Data].
+In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD (see Data).
 
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
-The estimated background risk of major birth defects is 6 to 10% in women with pre-gestational diabetes with a peri-conceptional HbA1c >7 and has been reported to be as high as 20 to 25% in women with a peri-conceptional HbA1c >10.
+The estimated background risk of major birth defects is 6 to 10% in women with pregestational diabetes with a peri-conceptional HbA1c >7 and has been reported to be as high as 20 to 25% in women with a peri-conceptional HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
 
 Clinical Considerations
@@ -26,12 +26,14 @@ Clinical Considerations
 Disease-Associated Maternal and/or Embryo/fetal Risk
 
 Hypoglycemia and hyperglycemia occur more frequently during pregnancy in patients with pre-gestational diabetes.
-Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, preeclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes mellitus increases the fetal risk for major birth defects, stillbirth, macrosomia related morbidity.
 
 Data
 
-Animal Data Insulin degludec
+Animal Data
+
+Insulin degludec
 
 Insulin degludec was investigated in studies covering fertility, embryo-fetal development and pre- and post-natal development in rats and during the period of embryo-fetal development in rabbits.
 Human insulin (NPH insulin) was included as comparator.
@@ -48,7 +50,7 @@ The incidence of fetal malformations in liraglutide-treated groups exceeding con
 
 Pregnant rabbits given subcutaneous doses of 0.01, 0.025 and 0.05 mg/kg/day liraglutide from gestation day 6 through day 18 inclusive, had estimated systemic exposures less than the human exposure at the MRHD of 1.8 mg/day at all doses, based on plasma AUC.
 Liraglutide decreased fetal weight and dose dependently increased the incidence of total major fetal abnormalities at all doses.
-The incidence of malformations exceeded concurrent and historical controls at 0.01 mg/kg/day (kidneys, scapula), ≥ 0.01 mg/kg/day (eyes, forelimb), 0.025 mg/kg/day (brain, tail and sacral vertebrae, major blood vessels and heart, umbilicus), ≥ 0.025 mg/kg/day (sternum) and at 0.05 mg/kg/day (parietal bones, major blood vessels).
+The incidence of malformations exceeded concurrent and historical controls at 0.01 mg/kg/day (kidneys, scapula), ≥0.01 mg/kg/day (eyes, forelimb), 0.025 mg/kg/day (brain, tail and sacral vertebrae, major blood vessels and heart, umbilicus), ≥0.025 mg/kg/day (sternum) and at 0.05 mg/kg/day (parietal bones, major blood vessels).
 Irregular ossification and/or skeletal abnormalities occurred in the skull and jaw, vertebrae and ribs, sternum, pelvis, tail, and scapula; and dose-dependent minor skeletal variations were observed.
 Visceral abnormalities occurred in blood vessels, lung, liver, and esophagus.
 Bilobed or bifurcated gallbladder was seen in all treatment groups, but not in the control group.
@@ -84,7 +86,7 @@ Safety and effectiveness of XULTOPHY 100/3.6 have not been established in pediat
 
 ## 8.5 Geriatric Use
 
-Of the total number of 1881 subjects in clinical studies of XULTOPHY 100/3.6, 375 (19.9%) were 65 years and over, while 52 (2.8%) were 75 years and over [see Clinical Studies (14)].
+Of the total number of 1,881 subjects in clinical studies of XULTOPHY 100/3.6, 375 (19.9%) were 65 years and over, while 52 (2.8%) were 75 years and over [see Clinical Studies (14)].
 No overall differences in safety or effectiveness of XULTOPHY 100/3.6 were observed between patients 65 years of age and older and younger patients.
 
 Age had no clinically relevant effect on the pharmacokinetics of XULTOPHY 100/3.6 [see Clinical Pharmacology (12.3)].
@@ -97,7 +99,7 @@ Hypoglycemia may be more difficult to recognize in geriatric patients.
 XULTOPHY 100/3.6
 
 There is limited experience with XULTOPHY 100/3.6 in patients with mild and moderate kidney impairment and when used in these patients, additional glucose monitoring and XULTOPHY 100/3.6 dose adjustments may be required on an individual basis.
-XULTOPHY 100/3.6 has not been studied in patients with severe kidney impairment [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.3)].
+XULTOPHY 100/3.6 has not been studied in patients with severe kidney impairment [see Warnings and Precautions (5.7), Clinical Pharmacology (12.3)].
 
 Insulin degludec
 
@@ -105,7 +107,7 @@ No clinically relevant difference in the pharmacokinetics of insulin degludec wa
 
 Liraglutide
 
-The safety and efficacy of liraglutide was evaluated in a 26 week clinical study that included patients with moderate kidney impairment (eGFR 30 to 60 mL/min/1.73 m2).
+The safety and efficacy of liraglutide was evaluated in a 26-week clinical study that included patients with moderate kidney impairment (eGFR 30 to 60 mL/min/1.73 m2).
 In the liraglutide treatment arm of a cardiovascular outcomes trial (LEADER trial) [see Clinical Studies (14.4)], 1932 (41.4%) patients had mild kidney impairment, 999 (21.4%) patients had moderate renal impairment and 117 (2.5%) patients had severe kidney impairment at baseline.
 No overall differences in safety or efficacy were seen in these patients compared to patients with normal kidney function.
 

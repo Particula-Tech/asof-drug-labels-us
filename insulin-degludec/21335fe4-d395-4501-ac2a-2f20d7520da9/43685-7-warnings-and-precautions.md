@@ -9,7 +9,7 @@ It is unknown whether XULTOPHY 100/3.6 will cause thyroid C-cell tumors, includi
 Cases of MTC in patients treated with liraglutide have been reported in the postmarketing period; the data in these reports are insufficient to establish or exclude a causal relationship between MTC and liraglutide use in humans.
 
 XULTOPHY 100/3.6 is contraindicated in patients with a personal or family history of MTC or in patients with MEN 2.
-Counsel patients regarding the potential risk for MTC with the use of XULTOPHY 100/3.6 and inform them of symptoms of thyroid tumors (e.g. a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
+Counsel patients regarding the potential risk for MTC with the use of XULTOPHY 100/3.6 and inform them of symptoms of thyroid tumors (e.g., a mass in the neck, dysphagia, dyspnea, persistent hoarseness).
 
 Routine monitoring of serum calcitonin or using thyroid ultrasound is of uncertain value for early detection of MTC in patients treated with XULTOPHY 100/3.6.
 Such monitoring may increase the risk of unnecessary procedures, due to low test specificity for serum calcitonin and a high background incidence of thyroid disease.
@@ -21,7 +21,7 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 
 Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, including liraglutide, one of the components of XULTOPHY 100/3.6 [see Adverse Reactions (6)].
 
-After initiation of XULTOPHY 100/3.6, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
+After initiation of XULTOPHY 100/3.6, observe patients carefully for signs and symptoms of acute pancreatitis, which may include persistent or severe abdominal pain (sometimes radiating to the back) and which may or may not be accompanied by nausea or vomiting.
 If pancreatitis is suspected, discontinue XULTOPHY 100/3.6 and initiate appropriate management.
 
 ## 5.3 Never Share a XULTOPHY 100/3.6 Pen Between Patients
@@ -83,8 +83,7 @@ Monitor renal function in patients reporting adverse reactions to XULTOPHY 100/3
 ## 5.8 Severe Gastrointestinal Adverse Reactions
 
 Use of GLP-1 receptor agonists, including liraglutide, one of the components of XULTOPHY 100/3.6, has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
-In a XULTOPHY 100/3.6 clinical trial severe gastrointestinal adverse reactions were reported among patients receiving XULTOPHY 100/3.6 (0.8 %) and patients receiving the active comparators liraglutide (2.9%) and insulin degludec (0.2%) [see Clinical Studies (14.2)].
-XULTOPHY 100/3.6 is not recommended in patients with severe gastroparesis.
+In a XULTOPHY 100/3.6 clinical trial severe gastrointestinal adverse reactions were reported among patients receiving XULTOPHY 100/3.6 (0.8 %) and patients receiving the active comparators liraglutide (2.9%) and insulin degludec (0.2%) [see Clinical Studies (14.2)].Severe gastrointestinal adverse reactions have also been reported postmarketing with GLP-1 receptor agonists.XULTOPHY 100/3.6 is not recommended in patients with severe gastroparesis.
 
 ## 5.9 Hypersensitivity Reactions
 
@@ -118,7 +117,7 @@ If congestive heart failure develops, it should be managed according to current 
 
 ## 5.13 Pulmonary Aspiration During General Anesthesia or Deep Sedation
 
-XULTOPHY 100/3.6 delays gastric emptying [seeClinicalPharmacology (12.1)].
+XULTOPHY 100/3.6 delays gastric emptying [see Clinical Pharmacology (12.1)].
 There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
 
 Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking XULTOPHY 100/3.6, including whether modifying preoperative fasting recommendations or temporarily discontinuing XULTOPHY 100/3.6 could reduce the incidence of retained gastric contents.

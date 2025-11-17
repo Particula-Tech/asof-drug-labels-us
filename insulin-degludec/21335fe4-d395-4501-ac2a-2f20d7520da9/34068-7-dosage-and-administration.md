@@ -67,12 +67,12 @@ Units of Insulin Degludec and Milligrams of Liraglutide in Each Dosage of XULTOP
 | 49 | 49 units | 1.76 mg |  |
 | 50 | 50 units | 1.8 mg | Maximum daily dosage [see Warnings and Precautions (5.5)] |
 
-* The dose counter on the XULTOPHY 100/3.6 pen displays numbers for the even units and displays lines for the odd units.
+*The dose counter on the XULTOPHY 100/3.6 pen displays numbers for the even units and displays lines for the odd units.
 
 ## 2.3 Titration of XULTOPHY 100/3.6
 
 - •After starting the recommended starting dosage of XULTOPHY 100/3.6 [see Dosage and Administration (2.2)], titrate the dosage upwards or downwards by two units (see Table 2) once weekly or twice weekly (every three to four days), based on the patient’s metabolic needs, blood glucose monitoring results, and glycemic control goal until the desired fasting plasma glucose is achieved.
-- •To minimize the risk of hypoglycemia or hyperglycemia, additional titration may be needed with changes in physical activity, meal patterns (i.e., macronutrient content or timing of food intake), or renal or hepatic function; during acute illness; or when used with other medications [see Warnings and Precautions (5.4) and Drug Interactions (7)].
+- •To minimize the risk of hypoglycemia or hyperglycemia, additional titration may be needed with changes in physical activity, meal patterns (i.e., macronutrient content or timing of food intake), or renal or hepatic function; during acute illness; or when used with other medications [see Warnings and Precautions (5.4), Drug Interactions (7)].
 
 Table 2.
 Recommended Titration of XULTOPHY 100/3.6 (Once or Twice Weekly)

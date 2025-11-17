@@ -18,7 +18,7 @@ Liraglutide is a GLP-1 receptor agonist that increases glucose-dependent insulin
 
 ## 12.2 Pharmacodynamics
 
-Following a single dose administration, XULTOPHY 100/3.6 has a duration of action reflecting the combination of the individual glucodynamic action profiles of insulin degludec and liraglutide.
+Following a single-dose administration, XULTOPHY 100/3.6 has a duration of action reflecting the combination of the individual glucodynamic action profiles of insulin degludec and liraglutide.
 
 Following once-daily administration, XULTOPHY 100/3.6 lowers fasting plasma glucose levels and postprandial glucose levels.
 
@@ -90,7 +90,7 @@ XULTOPHY 100/3.6 has not been studied in patients with severe renal impairment [
 
 Insulin degludec
 
-Insulin degludec has been studied in a pharmacokinetic study in 32 subjects (n=6/group) with normal or impaired renal function/end-stage renal disease following administration of a single dose (0.4U/kg) of insulin degludec.
+Insulin degludec has been studied in a pharmacokinetic study in 32 subjects (n=6/group) with normal or impaired renal function/end-stage renal disease following administration of a single dose (0.4 U/kg) of insulin degludec.
 Renal function was defined using creatinine clearance (Clcr) as follows: >80 mL/min (normal), 50-80 mL/min (mild), 30-50 mL/min (moderate) and <30 mL/min (severe).
 Subjects requiring dialysis were classified as having end-stage renal disease (ESRD).
 Total exposure (AUCIDeg,0-120h,SD) of insulin degludec was similar in subjects with normal and impaired renal function.
@@ -118,7 +118,7 @@ No clinically relevant differences in the pharmacokinetics of insulin degludec w
 Liraglutide
 
 The single-dose pharmacokinetics of liraglutide were evaluated in subjects with varying degrees of hepatic impairment.
-Subjects with mild (Child Pugh score 5-6) to severe (Child Pugh score > 9) hepatic impairment were included in the trial.
+Subjects with mild (Child Pugh score 5-6) to severe (Child Pugh score >9) hepatic impairment were included in the trial.
 Compared to healthy subjects, liraglutide AUC in subjects with mild, moderate and severe hepatic impairment was on average 11%, 14% and 42% lower, respectively.
 
 Drug Interaction Studies
@@ -136,7 +136,7 @@ Liraglutide
 
 The drug-drug interaction studies were performed at steady state with liraglutide 1.8 mg/day.
 Before administration of concomitant treatment, subjects underwent a 0.6 mg weekly dose increase to reach the maximum dose of 1.8 mg/day.
-Administration of the interacting drugs was timed so that Cmax of liraglutide (8-12 h) would coincide with the absorption peak of the co-administered drugs.
+Administration of the interacting drugs was timed so that Cmax of liraglutide (8-12 h) would coincide with the absorption peak of the coadministered drugs.
 
 Digoxin
 
@@ -157,7 +157,7 @@ Atorvastatin Cmax was decreased by 38% and median Tmax was delayed from 1 to 3 h
 
 Acetaminophen
 
-Liraglutide did not change the overall exposure (AUC) of acetaminophen following a single dose of acetaminophen 1000 mg, administered 8 hours after the dose of liraglutide at steady state.
+Liraglutide did not change the overall exposure (AUC) of acetaminophen following a single dose of acetaminophen 1,000 mg, administered 8 hours after the dose of liraglutide at steady state.
 Acetaminophen Cmax was decreased by 31% and median Tmax was delayed up to 15 minutes.
 
 Griseofulvin
@@ -182,20 +182,20 @@ XULTOPHY 100/3.6
 
 Administration of XULTOPHY 100/3.6 may cause formation of antibodies against insulin degludec and/or liraglutide.
 In rare cases, the presence of such antibodies may necessitate adjustment of the XULTOPHY 100/3.6 dose in order to correct a tendency to hyper- or hypoglycemia.
-During the 26-52 week clinical trials where antibodies were measured in patients receiving XULTOPHY 100/3.6, 90/812 (11%) patients were positive for insulin degludec specific antibodies at end of treatment vs. 22/936 (2%) at baseline, 250/811 (31%) patients were positive for antibodies cross-reacting with human insulin at end of treatment vs. 136/930 (15%) at baseline.
+During the 26-52-week clinical trials where antibodies were measured in patients receiving XULTOPHY 100/3.6, 90/812 (11%) patients were positive for insulin degludec specific antibodies at end of treatment vs. 22/936 (2%) at baseline, 250/811 (31%) patients were positive for antibodies cross-reacting with human insulin at end of treatment vs. 136/930 (15%) at baseline.
 17/815 (2%) of patients developed treatment induced anti-liraglutide antibodies.
-No patients had pre-existing anti-liraglutide antibodies.
+No patients had preexisting anti-liraglutide antibodies.
 Antibody formation has not been associated with reduced efficacy of XULTOPHY 100/3.6.
 
 Liraglutide
 
-A subset of liraglutide-treated patients (1104 of 2501, 44%) in five adult double-blind clinical trials of 26 weeks duration or longer were tested for the presence of anti-liraglutide antibodies at the end of treatment [see Clinical Studies (14.1)] and 102/1104 (9%) of liraglutide-treated patients developed anti-liraglutide antibodies.
+A subset of liraglutide-treated patients (1104 of 2501, 44%) in five adult double-blind clinical trials of 26-weeks duration or longer were tested for the presence of anti-liraglutide antibodies at the end of treatment [see Clinical Studies (14.1)] and 102/1104 (9%) of liraglutide-treated patients developed anti-liraglutide antibodies.
 Of these 102 liraglutide-treated patients, 56 (5%) patients developed antibodies that cross-reacted with native GLP-1.
 These cross-reacting antibodies were not tested for neutralizing effect against native GLP-1, and thus the potential for clinically significant neutralization of native GLP-1 was not assessed.
 Antibodies that had a neutralizing effect on liraglutide in an in vitro assay occurred in 12 (1%) of the liraglutide-treated patients.
 There was no identified clinically significant effect of anti-liraglutide antibodies on effectiveness of liraglutide.
 
-In five double-blind glycemic control trials of liraglutide, events from a composite of adverse events potentially related to immunogenicity (e.g. urticaria, angioedema) occurred among 0.8% of liraglutide-treated patients and among 0.4% of comparator-treated patients.
+In five double-blind glycemic control trials of liraglutide, events from a composite of adverse events potentially related to immunogenicity (e.g., urticaria, angioedema) occurred among 0.8% of liraglutide-treated patients and among 0.4% of comparator-treated patients.
 Urticaria accounted for approximately one-half of the events in this composite for liraglutide-treated patients.
 Patients who developed anti-liraglutide antibodies were not more likely to develop events from the immunogenicity events composite than were patients who did not develop anti-liraglutide antibodies.
 
@@ -204,5 +204,5 @@ Of the 11 liraglutide-treated patients who developed anti-liraglutide antibodies
 
 TRESIBA (insulin degludec)
 
-In a 52-week study of adult insulin-naïve type 2 diabetes mellitus patients of the patients who received insulin degludec, 13/760 (2%) patients were positive at baseline for anti-insulin degludec antibodies and 46/744 (6%) patients developed anti-insulin degludec antibodies at least once during the study.
+In a 52-week study of adult insulin-naïve type 2 diabetes mellitus patients, of the patients who received insulin degludec, 13/760 (2%) patients were positive at baseline for anti-insulin degludec antibodies and 46/744 (6%) patients developed anti-insulin degludec antibodies at least once during the study.
 The 58/60 (97%) patients who were positive for anti-insulin degludec antibodies were also positive for anti-human insulin antibodies.

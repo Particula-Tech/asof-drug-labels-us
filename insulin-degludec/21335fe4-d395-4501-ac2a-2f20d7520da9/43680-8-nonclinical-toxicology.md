@@ -38,12 +38,12 @@ Thyroid C-cell carcinomas are rare findings during carcinogenicity testing in ra
 
 Studies in mice demonstrated that liraglutide-induced C-cell proliferation was dependent on the GLP-1 receptor and that liraglutide did not cause activation of the REarranged during Transfection (RET) proto-oncogene in thyroid C-cells.
 
-Human relevance of thyroid C-cell tumors in mice and rats is unknown and has not been determined by clinical studies or nonclinical studies [see Boxed Warning and Warnings and Precautions (5.1)].
+Human relevance of thyroid C-cell tumors in mice and rats is unknown and has not been determined by clinical studies or nonclinical studies [see Boxed Warning, Warnings, Precautions (5.1)].
 
 Liraglutide was negative with and without metabolic activation in the Ames test for mutagenicity and in a human peripheral blood lymphocyte chromosome aberration test for clastogenicity.
 Liraglutide was negative in repeat-dose in vivo micronucleus tests in rats.
 
-In rat fertility studies using subcutaneous doses of 0.1, 0.25 and 1.0 mg/kg/day liraglutide, males were treated for 4 weeks prior to and throughout mating and females were treated 2 weeks prior to and throughout mating until gestation day 17.
-No direct adverse effects on male fertility was observed at doses up to 1.0 mg/kg/day, a high dose yielding an estimated systemic exposure 11- times the human exposure at the MRHD, based on plasma AUC.
-In female rats, an increase in early embryonic deaths occurred at 1.0 mg/kg/day.
-Reduced body weight gain and food consumption were observed in females at the 1.0 mg/kg/day dose.
+In rat fertility studies using subcutaneous doses of 0.1, 0.25 and 1 mg/kg/day liraglutide, males were treated for 4 weeks prior to and throughout mating and females were treated 2 weeks prior to and throughout mating until gestation day 17.
+No direct adverse effects on male fertility was observed at doses up to 1 mg/kg/day, a high dose yielding an estimated systemic exposure 11- times the human exposure at the MRHD, based on plasma AUC.
+In female rats, an increase in early embryonic deaths occurred at 1 mg/kg/day.
+Reduced body weight gain and food consumption were observed in females at the 1 mg/kg/day dose.

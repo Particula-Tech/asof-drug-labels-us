@@ -5,11 +5,11 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide a
 Risk of Thyroid C-cell Tumors
 
 Inform patients that liraglutide, one of the components of XULTOPHY 100/3.6, causes benign and malignant thyroid C-cell tumors in mice and rats and that the human relevance of this finding is unknown.
-Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia or dyspnea) to their physician [see Boxed Warning and Warnings and Precautions (5.1)].
+Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia or dyspnea) to their physician [see Boxed Warning, Warnings and Precautions (5.1)].
 
 Acute Pancreatitis
 
-Inform patients of the potential risk for pancreatitis acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting.
+Inform patients of the potential risk for pancreatitis acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by nausea or vomiting.
 Instruct patients to discontinue XULTOPHY 100/3.6 promptly and contact their physician if pancreatitis is suspected [see Warnings and Precautions (5.2)].
 
 Never Share a XULTOPHY 100/3.6 Pen Between Patients
@@ -19,7 +19,7 @@ Advise patients that they must never share a XULTOPHY 100/3.6 pen with another p
 Hyperglycemia or Hypoglycemia with Changes in Insulin Regimen
 
 Inform patients that hypoglycemia is the most common adverse reaction with insulin products.
-Inform patients of the symptoms of hypoglycemia (e.g. impaired ability to concentrate and react).
+Inform patients of the symptoms of hypoglycemia (e.g., impaired ability to concentrate and react).
 This may present a risk in situations where these abilities are especially important, such as driving or operating other machinery.
 Advise patients who have frequent hypoglycemia or reduced or absent warning signs of hypoglycemia to use caution when driving or operating machinery.
 
@@ -32,28 +32,23 @@ Accidental mix-ups between insulin products have been reported.
 To avoid medication errors between XULTOPHY 100/3.6 (an insulin containing product) and other insulin products, instruct patients to always check the label before each injection.
 
 Advise patients that the administration of more than 50 units of XULTOPHY 100/3.6 daily can result in overdose of the liraglutide component.
-Instruct patients not to administer concurrently with other glucagon-like peptide-1 receptor agonists [see Warnings and Precautions (5.5].
+Instruct patients not to administer concurrently with other glucagon-like peptide-1 receptor agonists [see Warnings and Precautions (5.5)].
 
 Acute Kidney Injury Due to Volume Depletion
 
-Inform patients of the potential risk of acute kidney injury due to dehydration associated with gastrointestinal
-
-adverse reactions.
+Inform patients of the potential risk of acute kidney injury due to dehydration associated with gastrointestinal adverse reactions.
 Advise patients to take precautions to avoid fluid depletion.
-Inform patients of the signs and symptoms of acute kidney injury and instruct them to promptly report any of these signs or symptoms or
-
-persistent (or extended) nausea, vomiting, and diarrhea to their healthcare provider [see Warnings and Precautions (5.7)].
+Inform patients of the signs and symptoms of acute kidney injury and instruct them to promptly report any of these signs or symptoms or persistent (or extended) nausea, vomiting, and diarrhea to their healthcare provider [see Warnings and Precautions (5.7)].
 
 Severe Gastrointestinal Adverse Reactions
 
 Inform patients of the potential risk of severe gastrointestinal adverse reactions.
-Instruct patients to contact their healthcare provider if they have severe or persistent gastrointestinal symptoms [see Warnings and Precautions (5.8)]
-
-.
+Instruct patients to contact their healthcare provider if they have severe or persistent gastrointestinal symptoms [see Warnings and Precautions (5.8)].
 
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions have been reported during postmarketing use of liraglutide, one of the components of XULTOPHY 100/3.6.
+
 Advise patients on the symptoms of hypersensitivity reactions and instruct them must stop taking XULTOPHY 100/3.6 and seek medical advice promptly [see Warnings and Precautions (5.9)].
 
 Acute Gallbladder Disease
@@ -74,9 +69,9 @@ Advise women to inform their healthcare provider if they are pregnant or intend 
 Missed Dose
 
 Inform patients not to take an extra dose of XULTOPHY 100/3.6 or increase the dose to make up for the missed dose.
-Instruct patients who miss a dose of XULTOPHY 100/3.6 to resume the once- daily dosage regimen as prescribed with the next scheduled dose.
+Instruct patients who miss a dose of XULTOPHY 100/3.6 to resume the once-daily dosage regimen as prescribed with the next scheduled dose.
 If more than three days have elapsed since the last XULTOPHY 100/3.6 dose, reinitiate XULTOPHY 100/3.6 at the recommended starting dose to reduce the risk of gastrointestinal adverse reactions associated with reinitiation of treatment.
-XULTOPHY 100/3.6 should be titrated at the direction of a healthcare provider [see Dosage and Administration (2.1, 2.2, 2.3), 2.4)].
+XULTOPHY 100/3.6 should be titrated at the direction of a healthcare provider [see Dosage and Administration (2.1, 2.2, 2.3, 2.4)].
 
 © 2025 Novo Nordisk
 

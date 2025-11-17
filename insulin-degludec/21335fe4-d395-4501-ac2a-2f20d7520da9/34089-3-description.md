@@ -26,7 +26,7 @@ Structural Formula of Liraglutide
 XULTOPHY 100/3.6 (insulin degludec and liraglutide) injection, for subcutaneous use, is a combination of a long-acting basal human insulin analog, insulin degludec, and a GLP-1 receptor agonist, liraglutide.
 
 XULTOPHY 100/3.6 is a sterile, aqueous, clear, and colorless solution.
-Each pre-filled pen contains 3 mL equivalent to 300 units insulin degludec and 10.8 mg liraglutide.
+Each prefilled pen contains 3 mL equivalent to 300 units insulin degludec and 10.8 mg liraglutide.
 Each mL contains 100 units insulin degludec and 3.6 mg liraglutide.
 
 XULTOPHY 100/3.6 contains the following inactive ingredients per mL: glycerol (19.7 mg), phenol (5.7 mg), zinc (55 mcg), and Water for Injection, USP.

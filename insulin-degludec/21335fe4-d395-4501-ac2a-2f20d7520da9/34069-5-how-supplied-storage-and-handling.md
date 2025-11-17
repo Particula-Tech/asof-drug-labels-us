@@ -2,8 +2,8 @@
 
 How Supplied
 
-XULTOPHY 100/3.6 (insulin degludec and liraglutide) injection is an injection supplied as a clear, colorless solution in a 3 mL pre-filled, disposable, single-patient use pen injector.
-The XULTOPHY 100/3.6 pen dials in one unit increments.
+XULTOPHY 100/3.6 (insulin degludec and liraglutide) injection is an injection supplied as a clear, colorless solution in a 3 mL prefilled, disposable, single-patient-use pen injector.
+The XULTOPHY 100/3.6 pen dials in one-unit increments.
 
 | Dosage Unit/Strength | Package size | NDC # |
 | --- | --- | --- |
@@ -13,13 +13,13 @@ Recommended Storage
 
 Dispense in the original sealed carton with the enclosed Instructions for Use.
 
-Prior to first use, XULTOPHY 100/3.6 should be stored between 2°C and 8°C (36°F to 46°F) until the expiration date printed on the label.
+Prior to first use, XULTOPHY 100/3.6 should be stored between 36°F to 46°F (2°C and 8°C) until the expiration date printed on the label.
 Store prefilled pens in the carton so they will stay clean and protected from light.
 Do not store in the freezer or directly adjacent to the refrigerator cooling element.
 Do not freeze.
 Do not use XULTOPHY 100/3.6 if it has been frozen.
 
-After first use, the XULTOPHY 100/3.6 pen can be stored for 21 days at controlled room temperature (59°F to 86°F; 15°C to 30°C) or in a refrigerator (36°F to 46°F; 2°C to 8°C).
+After first use, the XULTOPHY 100/3.6 pen can be stored for 21 days at controlled room temperature 59°F to 86°F (15°C to 30°C) or in a refrigerator 36°F to 46°F (2°C to 8°C).
 Keep all XULTOPHY 100/3.6 pens away from direct heat and light.
 
 Always remove the needle after each injection and store the XULTOPHY 100/3.6 pen without a needle attached.
