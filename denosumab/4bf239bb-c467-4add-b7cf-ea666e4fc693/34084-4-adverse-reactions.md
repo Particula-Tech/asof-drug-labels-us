@@ -3,11 +3,12 @@
 The following serious adverse reactions are discussed below and also elsewhere in the labeling:
 
 - •Severe Hypocalcemia and Mineral Metabolism Changes [see Warnings and Precautions (5.1)]
-- •Serious Infections [see Warnings and Precautions (5.7)]
-- •Dermatologic Adverse Reactions [see Warnings and Precautions (5.8)]
+- •Hypersensitivity [see Warnings and Precautions (5.3)]
 - •Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
 - •Atypical Subtrochanteric and Diaphyseal Femoral Fractures [see Warnings and Precautions (5.5)]
 - •Multiple Vertebral Fractures (MVF) Following Treatment Discontinuation [see Warnings and Precautions (5.6)]
+- •Serious Infections [see Warnings and Precautions (5.7)]
+- •Dermatologic Adverse Reactions [see Warnings and Precautions (5.8)]
 
 The most common adverse reactions reported with denosumab products in patients with postmenopausal osteoporosis are back pain, pain in extremity, musculoskeletal pain, hypercholesterolemia, and cystitis.
 
@@ -40,31 +41,31 @@ Adverse reactions reported in ≥ 2% of postmenopausal women with osteoporosis a
 - Table 1.
   Adverse Reactions Occurring in ≥ 2% of Patients with Osteoporosis and More Frequently than in Placebo-treated Patients
 
-| Preferred Term |  | Denosumab (N = 3886) n (%) |  | Placebo (N = 3876) n (%) |
-| --- | --- | --- | --- | --- |
-| Back pain | 1347 (34.7) |  | 1340 (34.6) |  |
-| Pain in extremity | 453 (11.7) |  | 430 (11.1) |  |
-| Musculoskeletal pain | 297 (7.6) |  | 291 (7.5) |  |
-| Hypercholesterolemia | 280 (7.2) |  | 236 (6.1) |  |
-| Cystitis | 228 (5.9) |  | 225 (5.8) |  |
-| Vertigo | 195 (5.0) |  | 187 (4.8) |  |
-| Upper respiratory tract infection | 190 (4.9) |  | 167 (4.3) |  |
-| Edema peripheral | 189 (4.9) |  | 155 (4.0) |  |
-| Sciatica | 178 (4.6) |  | 149 (3.8) |  |
-| Bone pain | 142 (3.7) |  | 117 (3.0) |  |
-| Abdominal pain upper | 129 (3.3) |  | 111 (2.9) |  |
-| Anemia | 129 (3.3) |  | 107 (2.8) |  |
-| Insomnia | 126 (3.2) |  | 122 (3.1) |  |
-| Myalgia | 114 (2.9) |  | 94 (2.4) |  |
-| Angina pectoris | 101 (2.6) |  | 87 (2.2) |  |
-| Rash | 96 (2.5) |  | 79 (2.0) |  |
-| Pharyngitis | 91 (2.3) |  | 78 (2.0) |  |
-| Asthenia | 90 (2.3) |  | 73 (1.9) |  |
-| Pruritus | 87 (2.2) |  | 82 (2.1) |  |
-| Flatulence | 84 (2.2) |  | 53 (1.4) |  |
-| Spinal osteoarthritis | 82 (2.1) |  | 64 (1.7) |  |
-| Gastroesophageal reflux disease |  | 80 (2.1) |  | 66 (1.7) |
-| Herpes zoster |  | 79 (2.0) |  | 72 (1.9) |
+| Preferred Term | Denosumab (N = 3886) n (%) | Placebo (N = 3876) n (%) |
+| --- | --- | --- |
+| Back pain | 1347 (34.7) | 1340 (34.6) |
+| Pain in extremity | 453 (11.7) | 430 (11.1) |
+| Musculoskeletal pain | 297 (7.6) | 291 (7.5) |
+| Hypercholesterolemia | 280 (7.2) | 236 (6.1) |
+| Cystitis | 228 (5.9) | 225 (5.8) |
+| Vertigo | 195 (5.0) | 187 (4.8) |
+| Upper respiratory tract infection | 190 (4.9) | 167 (4.3) |
+| Edema peripheral | 189 (4.9) | 155 (4.0) |
+| Sciatica | 178 (4.6) | 149 (3.8) |
+| Bone pain | 142 (3.7) | 117 (3.0) |
+| Abdominal pain upper | 129 (3.3) | 111 (2.9) |
+| Anemia | 129 (3.3) | 107 (2.8) |
+| Insomnia | 126 (3.2) | 122 (3.1) |
+| Myalgia | 114 (2.9) | 94 (2.4) |
+| Angina pectoris | 101 (2.6) | 87 (2.2) |
+| Rash | 96 (2.5) | 79 (2.0) |
+| Pharyngitis | 91 (2.3) | 78 (2.0) |
+| Asthenia | 90 (2.3) | 73 (1.9) |
+| Pruritus | 87 (2.2) | 82 (2.1) |
+| Flatulence | 84 (2.2) | 53 (1.4) |
+| Spinal osteoarthritis | 82 (2.1) | 64 (1.7) |
+| Gastroesophageal reflux disease | 80 (2.1) | 66 (1.7) |
+| Herpes zoster | 79 (2.0) | 72 (1.9) |
 
 Hypocalcemia
 

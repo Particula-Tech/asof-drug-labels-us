@@ -11,11 +11,11 @@ The prefilled syringe with safety guard is not made with natural rubber latex.
 
 Storage and Handling
 
-Store Jubbonti in a refrigerator at 2°C to 8°C (36°F to 46°F) in the original carton.
+Store Jubbonti refrigerated at 2°C to 8°C (36°F to 46°F) in the original carton to protect from light.
 Do not freeze.
-Prior to administration, Jubbonti may be allowed to reach room temperature (up to 25°C/77°F) in the original container.
+Prior to administration, Jubbonti may be allowed to reach room temperature up to 25°C (77°F) in the original container.
 Once removed from the refrigerator, Jubbonti must not be exposed to temperatures above 25°C (77°F) and must be used within 30 days.
-If not used within the 30 days, Jubbonti should be discarded.
+Discard Jubbonti if not used within the 30 days.
 Do not use Jubbonti after the expiry date printed on the label.
 
 Protect Jubbonti from direct light and heat.

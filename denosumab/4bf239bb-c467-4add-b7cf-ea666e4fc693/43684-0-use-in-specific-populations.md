@@ -62,11 +62,13 @@ Therefore, male condom use would not be necessary as it is unlikely that a femal
 
 The safety and effectiveness of Jubbonti have not been established in pediatric patients.
 
-In one multicenter, open-label study with denosumab conducted in 153 pediatric patients with osteogenesis imperfecta, aged 2 to 17 years, evaluating fracture risk reduction, efficacy was not established.
+In one multicenter, open-label study with denosumab conducted in 153 pediatric patients with osteogenesis imperfecta, aged 2 to 17 years, evaluating fracture risk reduction, efficacy was not demonstrated.
 
 Hypercalcemia has been reported in pediatric patients with osteogenesis imperfecta treated with denosumab products.
 Some cases required hospitalization and were complicated by acute renal injury [see Warnings and Precautions (5.11)].
 Clinical studies in pediatric patients with osteogenesis imperfecta were terminated early due to the occurrence of life-threatening events and hospitalizations due to hypercalcemia.
+
+Safety and effectiveness were not demonstrated for the treatment of glucocorticoid-induced osteoporosis in one multicenter, randomized, double-blind, placebo-controlled, parallel-group study conducted in 24 pediatric patients with glucocorticoid-induced osteoporosis, aged 5 to 17 years, evaluating change from baseline in lumbar spine BMD Z-score.
 
 Based on results from animal studies, denosumab may negatively affect long-bone growth and dentition in pediatric patients below the age of 4 years.
 
@@ -92,7 +94,7 @@ No dose adjustment is necessary in patients with renal impairment.
 
 Severe hypocalcemia resulting in hospitalization, life-threatening events and fatal cases have been reported postmarketing.
 In clinical studies, patients with advanced chronic kidney disease (i.e., eGFR < 30 mL/min/1.73 m2), including dialysis-dependent patients, were at greater risk of developing hypocalcemia.
-The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD), renal osteodystrophy) markedly increases the risk of hypocalcemia.
+The presence of underlying chronic kidney disease-mineral bone disorder (CKD-MBD, renal osteodystrophy) markedly increases the risk of hypocalcemia.
 Concomitant use of calcimimetic drugs may also worsen hypocalcemia risk.
 Consider the benefits and risks to the patient when administering Jubbonti to patients with advanced chronic kidney disease.
 Monitor calcium and mineral levels (phosphorus and magnesium).

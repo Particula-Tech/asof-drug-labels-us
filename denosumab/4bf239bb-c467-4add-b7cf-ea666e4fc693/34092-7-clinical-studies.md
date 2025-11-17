@@ -39,26 +39,26 @@ Denosumab was effective in reducing the risk for new morphometric vertebral frac
 Effect on Hip Fractures
 
 The incidence of hip fracture was 1.2% for placebo-treated women compared to 0.7% for denosumab-treated women at year 3.
-The age-adjusted absolute risk reduction of hip fractures was 0.3% with a relative risk reduction of 40% at 3 years (p = 0.04) (Figure 1).
+The age-adjusted absolute risk reduction of hip fractures was 0.3% with a relative risk reduction of 40% at 3 years (p = 0.04) (see Figure 1).
 
 Figure 1.
 Cumulative Incidence of Hip Fractures Over 3 Years
 
 Effect on Nonvertebral Fractures
 
-Treatment with denosumab resulted in a significant reduction in the incidence of nonvertebral fractures (Table 4).
+Treatment with denosumab resulted in a significant reduction in the incidence of nonvertebral fractures (see Table 4).
 
 Table 4.
 The Effect of Denosumab on the Incidence of Nonvertebral Fractures at Year 3
 
-|  | Proportion of Women with Fracture (%)+ |  | Absolute Risk Reduction (%)(95% CI) | Relative Risk Reduction (%)(95% CI) |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo | Denosumab |  |  |  |  |  |  |  |
-|  | N = 3906(%) | N = 3902(%) |  |  |  |  |  |  |  |
-| Nonvertebral fracture1 | 8.0 | 6.5 | 1.5 (0.3, 2.7) | 20 (5, 33)* |  |  |  |  |  |
-| + Event rates based on Kaplan-Meier estimates at 3 years. |  |  |  |  |  |  |  |  |  |
-| 1 Excluding those of the vertebrae (cervical, thoracic, and lumbar), skull, facial, mandible, metacarpus, and finger and toe phalanges. |  |  |  |  |  |  |  |  |  |
-| * p-value = 0.01. |  |  |  |  |  |  |  |  |  |
+|  | Proportion of Women with Fracture (%)+ |  | Absolute Risk Reduction (%)(95% CI) | Relative Risk Reduction (%)(95% CI) |
+| --- | --- | --- | --- | --- |
+|  | Placebo | Denosumab |  |  |
+|  | N = 3906(%) | N = 3902(%) |  |  |
+| Nonvertebral fracture1 | 8.0 | 6.5 | 1.5 (0.3, 2.7) | 20 (5, 33)* |
+| + Event rates based on Kaplan-Meier estimates at 3 years. |  |  |  |  |
+| 1 Excluding those of the vertebrae (cervical, thoracic, and lumbar), skull, facial, mandible, metacarpus, and finger and toe phalanges. |  |  |  |  |
+| * p-value = 0.01. |  |  |  |  |
 
 Effect on Bone Mineral Density (BMD)
 

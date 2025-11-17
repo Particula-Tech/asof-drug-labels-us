@@ -13,7 +13,7 @@ Consider also assessing bone turnover status (serum markers of bone turnover or 
 
 ## 2.3 Recommended Dosage
 
-Jubbonti should be administered by a healthcare professional.
+Jubbonti should be administered by a healthcare provider.
 
 The recommended dose of Jubbonti is 60 mg administered as a single subcutaneous injection once every 6 months.
 Administer Jubbonti via subcutaneous injection in the upper arm, the upper thigh, or the abdomen.
@@ -28,17 +28,16 @@ Parenteral drug products should be inspected visually for particulate matter and
 Jubbonti is a clear to slightly opalescent and colorless to slightly yellowish to slightly brownish solution.
 Do not use if the solution is discolored or cloudy or if the solution contains visible particles or foreign particulate matter.
 
-Prior to administration, Jubbonti may be removed from the refrigerator and brought to room temperature (up to 25°C/77°F) by standing in the original container.
+Prior to administration, Jubbonti may be removed from the refrigerator and brought to room temperature up to 25°C (77°F) by standing in the original container.
 This generally takes 15 to 30 minutes.
 Do not warm Jubbonti in any other way [see How Supplied/Storage and Handling (16)].
 
 Instructions for Administration of Prefilled Syringe with Needle Safety Guard
 
-The prefilled syringe has a safety guard that activates to cover the needle after the injection is finished.
-The safety guard helps to prevent needle stick injuries to anyone who handles the prefilled syringe after injection.
-
-Do not touch the safety guard wings before use.
-Touching them may cause the safety guard to activate too early.
+- •The prefilled syringe has a safety guard that activates to cover the needle after the injection is finished.
+  The safety guard helps to prevent needle stick injuries to anyone who handles the prefilled syringe after injection.
+- •Do not touch the safety guard wings before use.
+  Touching them may cause the safety guard to activate too early.
 
 | Step 1: Remove Needle CapStep 2: Administer Subcutaneous InjectionChoose an injection siteThe recommended injection sites for Jubbonti include: upper arm, upper thigh, or the abdomen.Do not press the plunger while inserting the needle. |  |
 | --- | --- |

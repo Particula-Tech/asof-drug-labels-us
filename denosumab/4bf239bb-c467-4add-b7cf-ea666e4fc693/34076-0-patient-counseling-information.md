@@ -14,7 +14,7 @@ Advise these patients to have their serum calcium measured weekly for the first 
 
 Drug Products with Same Active Ingredient
 
-Advise patients the active ingredient in Jubbonti is denosumab-bbdz and they should not receive other denosumab products concomitantly [see Warnings and Precautions (5.2)].
+Advise patients that if they receive Jubbonti, they should not receive other denosumab products concomitantly [see Warnings and Precautions (5.2)].
 
 Hypersensitivity
 

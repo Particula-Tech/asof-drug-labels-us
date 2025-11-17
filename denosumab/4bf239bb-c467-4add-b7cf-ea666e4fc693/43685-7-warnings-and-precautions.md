@@ -20,18 +20,17 @@ To minimize the risk of hypocalcemia in patients with advanced chronic kidney di
 Consider also assessing bone turnover status (serum markers of bone turnover or bone biopsy) to evaluate the underlying bone disease that may be present.
 Monitor serum calcium weekly for the first month after Jubbonti administration and monthly thereafter.
 Instruct all patients with advanced chronic kidney disease, including those who are dialysis-dependent, about the symptoms of hypocalcemia and the importance of maintaining serum calcium levels with adequate calcium and activated vitamin D supplementation.
-Treatment with Jubbonti in these patients should be supervised by a healthcare provider who is experienced in diagnosis and management of CKD-MBD
+Treatment with Jubbonti in these patients should be supervised by a healthcare provider who is experienced in diagnosis and management of CKD-MBD.
 
 ## 5.2 Drug Products with Same Active Ingredient
 
-The active ingredient in Jubbonti is denosumab-bbdz.
 Patients receiving Jubbonti should not receive other denosumab products concomitantly.
 
 ## 5.3 Hypersensitivity
 
 Clinically significant hypersensitivity including anaphylaxis has been reported with denosumab products.
 Symptoms have included hypotension, dyspnea, throat tightness, facial and upper airway edema, pruritus, and urticaria.
-If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy and discontinue further use of Jubbonti [see Contraindications (4), Adverse Reactions (6.2)].
+If an anaphylactic or other clinically significant allergic reaction occurs, initiate appropriate therapy, and discontinue further use of Jubbonti [see Contraindications (4), Adverse Reactions (6.2)].
 
 ## 5.4 Osteonecrosis of the Jaw
 
@@ -61,7 +60,7 @@ A number of reports note that patients were also receiving treatment with glucoc
 
 During Jubbonti treatment, patients should be advised to report new or unusual thigh, hip, or groin pain.
 Any patient who presents with thigh or groin pain should be suspected of having an atypical fracture and should be evaluated to rule out an incomplete femur fracture.
-Patients presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
+Patient presenting with an atypical femur fracture should also be assessed for symptoms and signs of fracture in the contralateral limb.
 Interruption of Jubbonti therapy should be considered, pending a benefit-risk assessment, on an individual basis.
 
 ## 5.6 Multiple Vertebral Fractures (MVF) Following Discontinuation of Treatment
