@@ -12,9 +12,11 @@ Storage and Handling
 
 Store Stoboclo refrigerated at 2°C to 8°C (36°F to 46°F) in the original carton to protect from light.
 Do not freeze.
-Prior to administration, Stoboclo may be allowed to reach room temperature up to 25°C (77°F) in the original container.
-Once removed from the refrigerator, Stoboclo must not be exposed to temperatures above 25°C (77°F) and must be used within 30 days.
-Discard Stoboclo if not used within the 30 days.
+Prior to administration, Stoboclo may be allowed to reach room temperature up to 25°C (77°F) in the original carton.
+Stoboclo may be stored at temperatures up to a maximum 25°C (77°F) for a single period of up to 63 days but not exceeding the original expiry date.
+If necessary, the product may be returned to the refrigerator once within 63 days and provided this does not exceed the original expiry date.
+It must be used after subsequent removal from refrigeration.
+Discard Stoboclo if not used or returned to refrigerator within the 63 days.
 Do not use Stoboclo after the expiry date printed on the label.
 
 Protect Stoboclo from direct light and heat.
