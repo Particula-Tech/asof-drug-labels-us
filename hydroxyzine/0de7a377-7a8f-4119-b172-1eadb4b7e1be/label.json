@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA087294"
+  ],
+  "inn": "hydroxyzine",
+  "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+  "package_ndcs": [
+    "68999-050-24",
+    "68999-050-52"
+  ],
+  "products": [
+    {
+      "form": "SYRUP",
+      "generic": "hydroxyzine hydrochloride",
+      "name": "HYDROXYZINE HYDROCHLORIDE"
+    }
+  ],
+  "setid": "0de7a377-7a8f-4119-b172-1eadb4b7e1be",
+  "source": "dailymed"
+}
