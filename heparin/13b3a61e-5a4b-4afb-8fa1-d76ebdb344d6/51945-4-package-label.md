@@ -16,14 +16,65 @@ Derived from Porcine Intestinal Mucosa
 
 3 mL
 
-For Instillation in Central Venous Catheters Not for systemic administration Do not use as a catheter lock flush
+For Instillation in Central Venous Catheters Not for systemic administration.
+Do not use as a catheter lock flush
 
 *See prescribing information for DEFENCATH for information about the limited population.
 
 Contains 10 Single-dose vials.
 Discard unused portion.
 
-CorMedix Inc.TM
+CorMedix Inc.®
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 72990-103-10
+
+Rx Only
+
+DEFENCATH®
+
+Taurolidine and Heparin Catheter Lock Solution
+
+Limited Population*
+
+Taurolidine 40.5 mg/3 mL (13.5 mg/mL) and Heparin 3,000 USP Units/3 mL (1,000 USP Units/mL)
+
+Derived from Porcine Intestinal Mucosa
+
+3 mL
+
+For Instillation in Central Venous Catheters Not for systemic administration.
+Do not use as a catheter lock flush
+
+*See prescribing information for DEFENCATH for information about the limited population.
+
+Contains 10 Single-dose vials.
+Discard unused portion.
+
+CorMedix Inc.®
+
+# PRINCIPAL DISPLAY PANEL
+
+NDC 72990-103-03
+
+Rx Only
+
+DEFENCATH®
+
+Taurolidine and Heparin Catheter Lock Solution
+
+Limited Population*
+
+Taurolidine 40.5 mg/3 mL (13.5 mg/mL) and Heparin 3,000 USP Units/3 mL (1,000 USP Units/mL)
+
+Derived from Porcine Intestinal Mucosa
+
+For Instillation in Central Venous Catheters Not for systemic administration Do not use as a catheter lock flush
+
+Store at 20°C to 25°C (68°F to 77°F)
+
+3 mL Fill Single-Dose Vial Discard Unused Portion
 
 # PRINCIPAL DISPLAY PANEL
 
