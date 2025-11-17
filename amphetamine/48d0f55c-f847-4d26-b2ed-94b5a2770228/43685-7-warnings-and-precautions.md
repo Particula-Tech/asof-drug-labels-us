@@ -1,5 +1,7 @@
 # 5 WARNINGS AND PRECAUTIONS
 
+.
+
 ## 5.1 Abuse, Misuse, and Addiction
 
 Amphetamine extended-release orally disintegrating tablets has a high potential for abuse and misuse.
@@ -42,6 +44,8 @@ In a pooled analysis of multiple short-term, placebo-controlled studies of CNS s
 If such symptoms occur, consider discontinuing amphetamine extended-release orally disintegrating tablets.
 
 ## 5.5 Long-Term Suppression of Growth in Pediatric Patients
+
+Amphetamine extended-release orally disintegrating tablets is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Population (8.4)].
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 Closely monitor growth (weight and height) in amphetamine extended-release orally disintegrating tablets-treated pediatric patients treated with CNS stimulants.

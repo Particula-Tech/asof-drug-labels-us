@@ -1,5 +1,7 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
+.
+
 ## 8.1 Pregnancy
 
 Pregnancy Exposure Registry
@@ -65,7 +67,11 @@ Because of the potential for serious adverse reactions in nursing infants, advis
 ## 8.4 Pediatric Use
 
 The safety and effectiveness have been established in pediatric patients with ADHD ages 6 to 17 years of age in three adequate and well-controlled clinical trials of up to 4 weeks in duration [seeAdverse Reactions (6.1), Clinical Pharmacology (12), Clinical Studies (14)].
-The safety and efficacy of amphetamine extended-release orally disintegrating tablets in pediatric patients less than 6 years have not been established.
+
+The safety and effectiveness of amphetamine extended-release orally disintegrating tablets have not been established in pediatric patients below the age of 6 years.
+
+In studies evaluating extended-release amphetamine products, patients 4 to <6 years of age had higher systemic amphetamine exposures than those observed in older pediatric patients at the same dosage.
+Pediatric patients 4 to <6 years of age also had a higher incidence of adverse reactions, including weight loss.
 
 Long-Term Growth Suppression
 
