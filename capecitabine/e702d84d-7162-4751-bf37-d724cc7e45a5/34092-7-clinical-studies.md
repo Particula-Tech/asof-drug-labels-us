@@ -213,44 +213,46 @@ The efficacy of XELODA as a single agent was evaluated in an open-label single-a
 Eligible patients had metastatic breast cancer resistant to both paclitaxel and an anthracycline-containing chemotherapy regimen or resistant to paclitaxel and for whom further anthracycline therapy is not indicated (e.g., patients who have received cumulative doses of 400 mg/m2 of doxorubicin or doxorubicin equivalents).
 Resistance was defined as progressive disease while on treatment, with or without an initial response, or relapse within 6 months of completing treatment with an anthracycline-containing adjuvant chemotherapy regimen.
 Patients received XELODA 1,255 mg/m2 orally twice daily for first 14-days of a 21-day treatment cycle.
-The major efficacy outcome measure was tumor response rate in patients with measurable disease, with response defined as a ≥50% decrease in sum of the products of the perpendicular diameters of bidimensionally measurable disease for at least 1 month.
+The major efficacy outcome measure was tumor response rate in patients with measurable disease, with response defined as a 50% decrease in sum of the products of the perpendicular diameters of bidimensionally measurable disease for at least 1 month.
 
 The baseline demographics are shown in Table 16.
 
 Table 16 Baseline Demographics in Metastatic Breast Cancer (Study SO14697)
 
-|  | Patients With Measurable Disease (N=135) | All Patients (N=162) |
+|  | Patients WithMeasurable Disease(N=135) | All Patients(N=162) |
 | --- | --- | --- |
 | Age (median, years) | 55 | 56 |
 | Karnofsky Performance Status | 90 | 90 |
-| No. Disease Sites |  |  |
+| No. Disease Status |  |  |
 | 1-2, % | 32 | 37 |
 | 3-4, % | 46 | 43 |
 | >5, % | 22 | 21 |
 | Dominant Site of Disease |  |  |
-| VisceralLung, pleura, liver, peritoneum, % | 75 | 68 |
+| Visceral*, % | 75 | 68 |
 | Soft Tissue, % | 22 | 22 |
 | Bone, % | 3 | 10 |
 | Prior Chemotherapy |  |  |
 | Paclitaxel, % | 100 | 100 |
-| AnthracyclineIncludes 2 patients treated with an anthracenedione, % | 90 | 91 |
+| Anthracycline†, % | 90 | 91 |
 | Fluorouracil, % | 81 | 82 |
 | Resistance to Paclitaxel, % | 76 | 77 |
-| Resistance to an Anthracycline, % | 41 | 41 |
-| Resistance to both Paclitaxel and an Anthracycline, % | 32 | 31 |
+| Resistance to an Anthracycline†, % | 41 | 41 |
+| Resistance to both Paclitaxel and an Anthracycline†, % | 32 | 31 |
+| * Lung, pleura, liver, peritoneum† Includes 2 patients treated with an anthracenedione |  |  |
 
 Efficacy for Study SO14697 are shown in Table 17.
 
 Table 17 Efficacy Results in Metastatic Breast Cancer (Study SO14697)
 
-| Efficacy Parameter | Resistance to Both Paclitaxel and an Anthracycline (N=43) |
+| Efficacy Parameter | Resistance to Both Paclitaxel and anAnthracycline(N=43) |
 | --- | --- |
-| Response RateIncludes 2 patients treated with an anthracenedione | 25.6% |
+| Response Rate* | 25.6% |
 | (95% CI) | (13.5, 41.2) |
-| Complete Response | 0% |
-| Partial Response | 11% |
-| Duration of Response |  |
-| Median, monthsFrom date of first response (Range) | 5.1 (2.1-7.7) |
+| Complet Response | 0% |
+| Partial Response* | 11% |
+| Duration of Response* |  |
+| Median, months (Range) | 5.1 (2.1-7.7) |
+| * Includes 2 patients treated with an anthracenedione† From date of first response |  |
 
 For the subgroup of 43 patients who were doubly resistant, the median time to progression was 3.4 months and the median survival was 8.4 months.
 The objective response rate in this population was supported by a response rate of 18.5% (1 CR, 24 PRs) in the overall population of 135 patients with measurable disease, who were less resistant to chemotherapy (see Table 15).

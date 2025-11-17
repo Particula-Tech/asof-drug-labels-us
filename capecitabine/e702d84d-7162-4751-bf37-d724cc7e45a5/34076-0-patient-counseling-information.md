@@ -2,16 +2,16 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
+Serious Adverse Reactions or Death from Dihydropyrimidine Dehydrogenase (DPD) Deficiency
+
+Prior to initiating XELODA treatment, inform patients of the potential for serious or fatal adverse reactions due to DPD deficiency and testing for genetic variants of DPYD.
+Advise patients to immediately contact their healthcare provider if symptoms of severe mucositis, diarrhea, neutropenia, and neurotoxicity occur [see Warnings and Precautions (5.1)and Clinical Pharmacology (12.5)].
+
 Increased Risk of Bleeding with Concomitant Use of Vitamin K Antagonists
 
 Advise patients on vitamin K antagonists, such as warfarin, that they are at an increased risk of severe bleeding while taking XELODA.
 Advise these patients that INR should be monitored more frequently, and dosage modifications of the vitamin K antagonist may be required, while taking and after discontinuation of XELODA.
-Advise these patients to immediately contact their healthcare provider if signs or symptoms of bleeding occur [see Warnings and Precautions (5.1)].
-
-Serious Adverse Reactions from Dihydropyrimidine Dehydrogenase (DPD) Deficiency
-
-Inform patients of the potential for serious and life-threatening adverse reactions due to DPD deficiency and discuss with your patient whether they should be tested for genetic variants of DPYD that are associated with an increased risk of serious adverse reactions from the use of XELODA.
-Advise patients to immediately contact their healthcare provider if symptoms of severe mucositis, diarrhea, neutropenia, and neurotoxicity occur [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.5)].
+Advise these patients to immediately contact their healthcare provider if signs or symptoms of bleeding occur [see Warnings and Precautions (5.2)].
 
 Cardiotoxicity
 

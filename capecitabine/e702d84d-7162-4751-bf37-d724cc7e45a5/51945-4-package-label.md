@@ -20,11 +20,17 @@ CHEPLAPHARM
 
 NDC 61269-475-12
 
-Xeloda® (capecitabine) Tablets
+Xeloda®
+
+(capecitabine)
+
+Tablets
 
 500 mg
 
-Each tablet contains 500 mg capecitabine.
+Each tablet contains 500 mg
+
+capecitabine.
 
 Rx only
 
