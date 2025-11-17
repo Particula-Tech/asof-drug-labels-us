@@ -28,9 +28,9 @@ Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
 Made in Ireland
 
-© 2023 Viatris Inc.
+© 2025 Viatris Inc.
 
-RUPJ503D
+RUPJ503D1
 
 # PRINCIPAL DISPLAY PANEL – 1 mg
 
@@ -62,9 +62,9 @@ Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
 Made in Ireland
 
-© 2023 Viatris Inc.
+© 2025 Viatris Inc.
 
-RUPJ504D
+RUPJ504D1
 
 # PRINCIPAL DISPLAY PANEL – 2 mg
 
@@ -96,9 +96,9 @@ Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
 Made in Ireland
 
-© 2023 Viatris Inc.
+© 2025 Viatris Inc.
 
-RUPJ505D
+RUPJ505D1
 
 # PRINCIPAL DISPLAY PANEL – 3 mg
 
@@ -130,6 +130,6 @@ Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
 Made in Ireland
 
-© 2023 Viatris Inc.
+© 2025 Viatris Inc.
 
-RUPJ506D
+RUPJ506D1
