@@ -53,7 +53,7 @@ Eligible patients had to demonstrate treatment response as defined by CGI-S <3 a
 Patients that maintained treatment response for 2 weeks at the end of the open label treatment period were eligible to be randomized to ongoing treatment with the same dose of lisdexamfetamine dimesylate capsules (N=78) or switched to placebo (N=79) during the double-blind phase.
 Patients were observed for relapse (treatment failure) during the 6 week double blind phase.
 A significantly lower proportion of treatment failures occurred among lisdexamfetamine dimesylate capsules subjects (15.8%) compared to placebo (67.5%) at endpoint of the randomized withdrawal period.
-The endpoint measurement was defined as the last post- randomization treatment week at which a valid ADHD-RS Total Score and CGI-S were observed.
+The endpoint measurement was defined as the last post-randomization treatment week at which a valid ADHD-RS Total Score and CGI-S were observed.
 Treatment failure was defined as a ≥50% increase (worsening) in the ADHD-RS Total Score and a ≥2-point increase in the CGI-S score compared to scores at entry into the double-blind randomized withdrawal phase.
 Subjects who withdrew from the randomized withdrawal period and who did not provide efficacy data at their last on-treatment visit were classified as treatment failures (Study 6, Figure 5).
 
@@ -113,13 +113,13 @@ Table 6: Summary of Primary Efficacy Results from Short-term Studies of Lisdexam
 | Placebo | 261.4 (75.0)c | 289.5 (8.6)d | -- |  |  |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval.a Difference (drug minus placebo) in least-squares mean change from baseline.b Pre-dose SKAMP-DS was not collected.c Pre-dose SKAMP-DS (Study 3) or PERMP (Study 8) total score, averaged over both periods.d LS Mean for SKAMP-DS (Study 2 and 3) or PERMP (Study 8) is post-dose average score over all sessions of the treatment day, rather than change from baseline.* Doses statistically significantly superior to placebo. |  |  |  |  |  |
 
-Figure 4: LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for Pediatric Patients Ages 6 to 12 with ADHD after 1 Week of Double Blind Treatment (Study 3)
+Figure 4: LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for Pediatric Patients Ages 6 to 12 with ADHD after 1 Week of Double-Blind Treatment (Study 3)
 
 Higher score on the SKAMP-Deportment scale indicates more severe symptoms
 
 Figure 5: Kaplan-Meier Estimated Proportion of Patients with Treatment Failure for Pediatric Patients Ages 6 to 17 (Study 6)
 
-Figure 6: LS Mean (SE) PERMP Total Score by Treatment and Time-point for Adults Ages 18 to 55 with ADHD after 1 Week of Double Blind Treatment (Study 8)
+Figure 6: LS Mean (SE) PERMP Total Score by Treatment and Time-point for Adults Ages 18 to 55 with ADHD after 1 Week of Double-Blind Treatment (Study 8)
 
 Higher score on the PERMP scale indicates less severe symptoms.
 
