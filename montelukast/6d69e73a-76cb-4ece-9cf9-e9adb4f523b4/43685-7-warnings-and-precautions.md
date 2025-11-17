@@ -41,11 +41,4 @@ Although montelukast sodium is effective in improving airway function in asthmat
 Patients with asthma on therapy with montelukast sodium may present with systemic eosinophilia, sometimes presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, a condition which is often treated with systemic corticosteroid therapy.
 These events have been sometimes associated with the reduction of oral corticosteroid therapy.
 Physicians should be alert to eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy presenting in their patients.
-A causal association between montelukast sodium and these underlying conditions has not been established [see Adverse Reactions(6.2)].
-
-## 5.6 Phenylketonuria
-
-Montelukast sodium contains aspartame, a source of phenylalanine.
-Phenylalanine can be harmful to patients with phenylketonuria (PKU).
-Each 4 mg and 5 mg chewable tablet contains 0.48 mg and 0.60 mg of phenylalanine, respectively.
-Before prescribing montelukast sodium to a patient with PKU, consider the combined daily amount of phenylalanine from all the sources, including montelukast sodium.
+A causal association between montelukast sodium and these underlying conditions has not been established [see Adverse Reactions (6.2)].
