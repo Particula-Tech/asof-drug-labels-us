@@ -1,6 +1,6 @@
 # 13 NONCLINICAL TOXICOLOGY
 
-## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
+## 13.1Carcinogenesis,Mutagenesis, Impairment of Fertility
 
 Animal carcinogenesis studies with sublingual nitroglycerin have not been performed.
 
@@ -9,10 +9,10 @@ At high dose, the incidences of hepatocellular carcinomas in both sexes were 52 
 Lifetime dietary administration of up to 1058 mg/kg/day of nitroglycerin was not tumorigenic in mice.
 
 Nitroglycerin was weakly mutagenic in Ames tests performed in two different laboratories.
-There was no evidence of mutagenicity in an in vivo dominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, p.o., or in in vitro cytogenic tests in rat and dog tissues and for chromosomal aberration in Chinese hamster ovary cells.
+There was no evidence of mutagenicity in an in vivodominant lethal assay with male rats treated with doses up to about 363 mg/kg/day, p.o., or in in vitrocytogenic tests in rat and dog tissues and for chromosomal aberration in Chinese hamster ovary cells.
 
-In a three-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for six months prior to mating of the F0 generation with treatment continuing through successive F1 and F2 generations.
+In a three-generation reproduction study, rats received dietary nitroglycerin at doses up to about 434 mg/kg/day for six months prior to mating of the F 0generation with treatment continuing through successive F 1and F 2generations.
 The high dose was associated with decreased feed intake and body weight gain in both sexes at all matings.
-No specific effect on the fertility of the F0 generation was seen.
+No specific effect on the fertility of the F 0generation was seen.
 Infertility noted in subsequent generations, however, was attributed to increased interstitial cell tissue and aspermatogenesis in the high- dose males.
 In this three-generation study there was no clear evidence of teratogenicity.

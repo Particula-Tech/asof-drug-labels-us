@@ -20,7 +20,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 Safety and effectiveness of nitroglycerin in pediatric patients have not been established.
 
-## 8.5 Geriatric Use
+## 8.5 GeriatricUse
 
 Clinical studies did not include sufficient numbers of subjects aged 65 and over to determine whether they respond differently from younger subjects.
 Other reported clinical experience has not identified differences in responses between elderly (greater than or equal to 65 years) and younger (less than 65 years) patients.

@@ -1,6 +1,6 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 PDE-5-Inhibitors and sGC-Stimulators
+## 7.1PDE-5-InhibitorsandsGC-Stimulators
 
 Nitrolingual Pumpspray is contraindicated in patients who are using a selective inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE-5).
 PDE-5-Inhibitors such as avanafil, sildenafil, vardenafil, and tadalafil have been shown to potentiate the hypotensive effects of organic nitrates.
@@ -19,7 +19,7 @@ Marked orthostatic hypotension has been reported when calcium channel blockers a
 Beta-adrenergic blockers blunt the reflex tachycardia produced by nitroglycerin without preventing its hypotensive effects.
 If beta-blockers are used with nitroglycerin in patients with angina pectoris, additional hypotensive effects may occur.
 
-## 7.3 Ergotamine
+## 7.3Ergotamine
 
 Oral administration of nitroglycerin markedly decreases the first-pass metabolism of dihydroergotamine and subsequently increases its oral bioavailability.
 Ergotamine is known to precipitate angina pectoris.

@@ -5,7 +5,7 @@
 Instruct the patient to administer one or two metered sprays (400 mcg of nitroglycerin per spray) at the onset of an attack onto or under the tongue.
 A spray may be repeated approximately every five minutes as needed.
 No more than three metered sprays are recommended within a 15-minute period.
-If the chest pain persists after a total of three sprays, advise prompt medical attention.
+If the chest pain persists after a total ofthreesprays, advise prompt medical attention.
 Nitrolingual Pumpspray may be used prophylactically 5 to 10 minutes prior to engaging in activities that might precipitate an acute attack.
 
 ## 2.2 Priming
@@ -25,7 +25,7 @@ Hold the container vertically with the valve head uppermost and the spray orific
 Spray the dose preferably onto or under the tongue by pressing the grooved-button firmly and the mouth closed immediately after each dose.
 THE SPRAY SHOULD NOT BE INHALED.
 The medication should not be expectorated or the mouth rinsed for 5 to 10 minutes following administration.
-Instruct patients to familiarize themselves with the position of the spray orifice, which can be identified by the finger rest on top of the valve, in order to facilitate orientation for administration at night [see Patient Information (17)].
+Instruct patients to familiarize themselves with the position of the spray orifice, which can be identified by the finger rest on top of the valve, in order to facilitate orientation for administration at night [seePatient Information (17)].
 
 The amount of liquid remaining in the container should be checked periodically.
 The transparent container can be used for continuous monitoring of the consumption.

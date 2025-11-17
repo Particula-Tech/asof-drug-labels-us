@@ -31,7 +31,7 @@ The mean elimination half-life of both 1,2- and 1,3-dinitroglycerin is about 40 
 The 1,2- and 1,3-dinitroglycerin metabolites have been reported to possess some pharmacological activity, whereas the glycerol mononitrate metabolites of nitroglycerin are essentially inactive.
 Higher plasma concentrations of the dinitro metabolites, with their nearly 8-fold longer elimination half-lives, may contribute significantly to the duration of pharmacologic effect.
 
-In a pharmacokinetic study when a single 0.8 mg dose of Nitrolingual Pumpspray was administered to healthy volunteers (n = 24), the mean Cmax and tmax were 1,041 pg/ml and 7.5 minutes, respectively.
+In a pharmacokinetic study when a single 0.8 mg dose of Nitrolingual Pumpspray was administered to healthy volunteers (n = 24), the mean C maxand t maxwere 1,041 pg/ml and 7.5 minutes, respectively.
 Additionally, in these subjects the mean area under the curve (AUC) was 12,769 pg/ml * min.
 
 The volume of distribution of nitroglycerin following intravenous administration is 3.3 L/kg.

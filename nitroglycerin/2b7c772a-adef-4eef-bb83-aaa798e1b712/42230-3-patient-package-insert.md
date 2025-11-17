@@ -1,4 +1,4 @@
-Instructions for Use Nitrolingual® Pumpspray (nī-trō-ling´gwal) (nitroglycerin) lingual spray
+Instructions for Use Nitrolingual® Pumpspray(nī-trō-ling´gwal) (nitroglycerin) lingualspray
 
 Read this Instructions for Use before you start using Nitrolingual Pumpspray and each time you get your prescription refilled.
 There may be new information.
@@ -6,8 +6,7 @@ This information does not take the place of talking to your healthcare provider 
 
 Important information:
 
-- Nitrolingual Pumpspray is for use onto or under the tongue.
-  Do not inhale Nitrolingual Pumpspray.
+- Nitrolingual Pumpspray is for use ontoor under the tongue.Do not inhale Nitrolingual Pumpspray.
 - A dose of Nitrolingual Pumpspray may be either 1 or 2 sprays.
   Follow your healthcare provider’s instructions about how many sprays you should use for each dose.
   Doses should be separated by approximately 5 minutes.
@@ -18,10 +17,10 @@ Nitrolingual Pumpspray parts:
 
 Figure A
 
-How should I use Nitrolingual Pumpspray?
+Howshould IuseNitrolingual Pumpspray?
 
 - It is best to use Nitrolingual Pumpspray while you are resting and in a sitting position.
-- Do not shake the Nitrolingual Pumpspray container.
+- Do notshake the Nitrolingual Pumpspray container.
 
 Priming Nitrolingual Pumpspray:
 
@@ -48,27 +47,27 @@ Figure C
 
 Giving a dose of Nitrolingual Pumpspray:
 
-Step 3.
+Step3.
 Hold your Nitrolingual Pumpspray container upright with your index finger on top of the grooved button.
 
 Step 4.
 Open your mouth and bring the Nitrolingual Pumpspray container as close to your mouth as possible.
 
-Step 5.
+Step5.
 Press down on the top of the grooved button firmly with your index finger to release the spray onto or under your tongue.
 (See Figure D). The grooved button can help you make sure the canister is turned to the correct position if you are administering the spray in the dark.
 
 Figure D
 
-Step 6.
+Step6.
 Release the grooved button and close your mouth right away.
 Avoid swallowing right after using Nitrolingual Pumpspray.
 Do not spit out Nitrolingual Pumpspray or rinse your mouth for 5 to 10 minutes after using Nitrolingual Pumpspray.
 
-Step 7.
+Step7.
 If a second dose of Nitrolingual Pumpspray is needed, repeat Steps 3 through 6 above.
 
-Step 8.
+Step8.
 Replace the plastic cap.
 
 Check the level of the fluid in your Nitrolingual Pumpspray container regularly.
