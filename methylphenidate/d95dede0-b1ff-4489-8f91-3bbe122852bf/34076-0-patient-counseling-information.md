@@ -69,4 +69,4 @@ Advise patients that there is a pregnancy exposure registry that monitors pregna
 
 Packaged by: Patheon Puerto Rico, Inc. Manatí, Puerto Rico, 00674
 
-Manufactured for: Ironshore Pharmaceuticals Inc. Morrisville, NC 27560
+Manufactured for: Collegium Pharmaceutical, Inc. Stoughton, MA 02072

@@ -31,12 +31,12 @@ Table 2 summarizes the primary endpoint results for Study 1 and Study 2.
 
 Table 2: Summary of Primary Efficacy Results in Pediatric Patients (6 – 12 years old) with ADHD (Studies 1 and 2)
 
-| Studv Number. | Measure (Primary Endpoint) | Treatment Group (#IIT Subjects) JORNAY PM (64) | Mean Baseline Score (SD) NA | LS Mean (SE) | Placebo-subtracted Difference (95% CI) |
+| Study Number. | Measure (Primary Endpoint) | Treatment Group (#IIT Subjects) JORNAY PM (64) | Mean Baseline Score (SD) NA | LS Mean (SE) | Placebo-subtracted Difference (95% CI) |
 | --- | --- | --- | --- | --- | --- |
 | Study 1 | SKAMP CS Average |  |  |  |  |
 | 14.8 (1.17) | -5.9 (-9.1, -2.7) |  |  |  |  |
 | Placebo (53) | NA | 20.7 (1.22) |  |  |  |
-| Study 2 | ADHD-RS-IV | JORNAY PM (81) | 43.1 (7.33) | 24.1 (1.50) | -7.0 (-11.4.-2.7) |
+| Study 2 | ADHD-RS-IV | JORNAY PM (81) | 43.1 (7.33) | 24.1 (1.50) | -7.0 (-11.4, -2.7) |
 | Placebo (80) | 43.5 (6.84) | 31.2 (1.60) |  |  |  |
 | ITT: Intent-to-treat. SE: Standard Error. SD: Standard Deviation. CI: Confidence Interval. NA: Not Available. |  |  |  |  |  |
 | CS: Combined Score (sum of items 1-13) |  |  |  |  |  |
