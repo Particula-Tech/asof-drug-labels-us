@@ -26,18 +26,27 @@ Hypersensitivity reactions, including cases of angioedema and anaphylaxis, have 
 If signs or symptoms of serious hypersensitivity reactions develop during treatment, discontinue ORKAMBI and institute appropriate therapy.
 Consider the benefits and risks for the individual patient to determine whether to resume treatment with ORKAMBI.
 
-## 5.4 Respiratory Events
+## 5.4 Intracranial Hypertension
+
+Cases of intracranial hypertension (IH) have been reported in the postmarketing setting with the use of ORKAMBI [see Adverse Reactions (6.2)].
+Clinical manifestations of IH include headache, blurred vision, diplopia, and potential vision loss; papilledema can be found on fundoscopy.
+If an unusual headache or visual disturbances occur during treatment, and IH is suspected, interrupt ORKAMBI and refer for prompt medical evaluation.
+Consider the benefits and risks for the individual patient to determine whether to resume treatment with ORKAMBI.
+Patients should be monitored until IH resolution and for recurrence.
+Patients with elevated vitamin A levels may be at increased risk.
+
+## 5.5 Respiratory Events
 
 Respiratory events (e.g., chest discomfort, dyspnea, and respiration abnormal) were observed more commonly in patients during initiation of ORKAMBI compared to those who received placebo.
 These events have led to drug discontinuation and can be serious, particularly in patients with advanced lung disease (percent predicted FEV1 <40).
 Clinical experience in patients with ppFEV1 <40 is limited, and additional monitoring of these patients is recommended during initiation of therapy [see Adverse Reactions (6.1)].
 
-## 5.5 Effect on Blood Pressure
+## 5.6 Effect on Blood Pressure
 
 Increased blood pressure has been observed in some patients treated with ORKAMBI.
 Blood pressure should be monitored periodically in all patients being treated with ORKAMBI [see Adverse Reactions (6.1)].
 
-## 5.6 Drug Interactions
+## 5.7 Drug Interactions
 
 Substrates of CYP3A
 
@@ -54,7 +63,7 @@ Ivacaftor is a substrate of CYP3A4 and CYP3A5 isoenzymes.
 Use of ORKAMBI with strong CYP3A inducers, such as rifampin, significantly reduces ivacaftor exposure, which may reduce the therapeutic effectiveness of ORKAMBI.
 Therefore, co-administration with strong CYP3A inducers (e.g., rifampin, St. John's wort [Hypericum perforatum]) is not recommended [see Drug Interactions (7.2) and Clinical Pharmacology (12.3)].
 
-## 5.7 Cataracts
+## 5.8 Cataracts
 
 Cases of non-congenital lens opacities have been reported in pediatric patients treated with ORKAMBI and ivacaftor, a component of ORKAMBI.
 Although other risk factors were present in some cases (such as corticosteroid use and exposure to radiation), a possible risk attributable to ivacaftor cannot be excluded [see Use in Specific Populations (8.4)].

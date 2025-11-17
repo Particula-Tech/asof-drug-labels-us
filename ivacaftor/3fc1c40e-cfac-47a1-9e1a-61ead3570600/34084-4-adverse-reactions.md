@@ -5,9 +5,10 @@ The following adverse reactions are discussed in greater detail in other section
 - Use in Patients with Advanced Liver Disease [see Warnings and Precautions (5.1)]
 - Liver-related Events [see Warnings and Precautions (5.2)]
 - Hypersensitivity Reactions, Including Anaphylaxis [see Warnings and Precautions (5.3)]
-- Respiratory Events [see Warnings and Precautions (5.4)]
-- Effect on Blood Pressure [see Warnings and Precautions (5.5)]
-- Cataracts [see Warnings and Precautions (5.7)]
+- Intracranial Hypertension [see Warnings and Precautions (5.4)]
+- Respiratory Events [see Warnings and Precautions (5.5)]
+- Effect on Blood Pressure [see Warnings and Precautions (5.6)]
+- Cataracts [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -90,9 +91,9 @@ Respiratory Adverse Reactions
 
 In Trials 1 and 2, the incidence of respiratory symptom-related adverse reactions (e.g., chest discomfort, dyspnea, and respiration abnormal) was more common in patients treated with ORKAMBI (22%) compared to patients who received placebo (14%).
 The incidence of these adverse reactions was more common in patients treated with ORKAMBI with lower pre-treatment FEV1.
-In patients treated with ORKAMBI, the majority of the events began during the first week of treatment [see Warnings and Precautions (5.4)].
+In patients treated with ORKAMBI, the majority of the events began during the first week of treatment [see Warnings and Precautions (5.5)].
 
-During the 24-week, open-label, clinical trial in 46 patients aged 12 years and older (Trial 5) with advanced lung disease (ppFEV1 <40) [mean ppFEV1 29.1 at baseline (range: 18.3 to 42.0)], the incidence of respiratory symptom-related adverse reactions was 65% [see Warnings and Precautions (5.4)].
+During the 24-week, open-label, clinical trial in 46 patients aged 12 years and older (Trial 5) with advanced lung disease (ppFEV1 <40) [mean ppFEV1 29.1 at baseline (range: 18.3 to 42.0)], the incidence of respiratory symptom-related adverse reactions was 65% [see Warnings and Precautions (5.5)].
 
 During the 24-week, open-label, clinical trial (Trial 3) in 58 patients aged 6 through 11 years (mean baseline ppFEV1 was 91.4), the incidence of respiratory symptom-related adverse reactions was 3% (2/58).
 
@@ -104,13 +105,13 @@ The post-dose decline was resolved by Week 16.
 Menstrual Abnormalities
 
 In Trials 1 and 2, the incidence of combined menstrual abnormality adverse reactions (e.g., amenorrhea, dysmenorrhea, menorrhagia, menstrual irregular) was more common in female patients treated with ORKAMBI (10%) compared to placebo (2%).
-These events occurred more frequently in the subset of female patients treated with ORKAMBI who were using hormonal contraceptives (27%) compared to those not using hormonal contraceptives (3%) [see Warnings and Precautions (5.6) and Drug Interactions (7.11)].
+These events occurred more frequently in the subset of female patients treated with ORKAMBI who were using hormonal contraceptives (27%) compared to those not using hormonal contraceptives (3%) [see Warnings and Precautions (5.7) and Drug Interactions (7.11)].
 
 Increased Blood Pressure
 
 In Trials 1 and 2, adverse reactions related to increases in blood pressure (e.g., hypertension, blood pressure increased) were reported in 1.1% (4/369) of patients treated with ORKAMBI and in no patients who received placebo.
 
-The proportion of patients who experienced a systolic blood pressure value >140 mmHg or a diastolic blood pressure >90 mmHg on at least two occasions was 3.6% and 2.2% in patients treated with ORKAMBI, respectively, compared with 1.6% and 0.5% in patients who received placebo [see Warnings and Precautions (5.5)].
+The proportion of patients who experienced a systolic blood pressure value >140 mmHg or a diastolic blood pressure >90 mmHg on at least two occasions was 3.6% and 2.2% in patients treated with ORKAMBI, respectively, compared with 1.6% and 0.5% in patients who received placebo [see Warnings and Precautions (5.6)].
 
 ## 6.2 Postmarketing Experience
 
@@ -119,4 +120,6 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Hepatobiliary: liver function decompensation including liver failure leading to death in patients with pre-existing cirrhosis with portal hypertension [see Warnings and Precautions (5.1)].
 
-Immune system disorders: anaphylaxis, angioedema
+Immune System Disorders: anaphylaxis, angioedema
+
+Nervous System Disorders: intracranial hypertension

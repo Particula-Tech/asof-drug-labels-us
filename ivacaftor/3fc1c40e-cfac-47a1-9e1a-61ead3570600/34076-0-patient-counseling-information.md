@@ -19,26 +19,31 @@ Hypersensitivity reactions including angioedema and anaphylaxis are possible wit
 Inform patients of the early signs of hypersensitivity reactions including rash, hives, itching, facial swelling, tightness of the chest and wheezing.
 Advise patients to discontinue use of ORKAMBI immediately and contact their physician or go to the emergency department if these symptoms occur.
 
+Intracranial Hypertension
+
+Inform patients that intracranial hypertension has occurred with the use of ORKAMBI.
+Instruct patients to notify their healthcare provider right away if they experience signs and symptoms of intracranial hypertension, including headache, blurred vision, diplopia, and vision loss [see Warnings and Precautions (5.4)].
+
 Respiratory Events
 
-Inform patients that chest discomfort, dyspnea, and respiration abnormal were more common during initiation of ORKAMBI therapy, especially in patients with advanced lung disease and to contact their healthcare provider if they develop any of these symptoms [see Warnings and Precautions (5.4)].
+Inform patients that chest discomfort, dyspnea, and respiration abnormal were more common during initiation of ORKAMBI therapy, especially in patients with advanced lung disease and to contact their healthcare provider if they develop any of these symptoms [see Warnings and Precautions (5.5)].
 
 Effect on Blood Pressure
 
-Inform patients that increased blood pressure has been observed in some patients treated with ORKAMBI and that periodic monitoring of their blood pressure during treatment is recommended and to contact their healthcare provider if they develop elevated blood pressure or notice elevations in pre-existing high blood pressure [see Warnings and Precautions (5.5)].
+Inform patients that increased blood pressure has been observed in some patients treated with ORKAMBI and that periodic monitoring of their blood pressure during treatment is recommended and to contact their healthcare provider if they develop elevated blood pressure or notice elevations in pre-existing high blood pressure [see Warnings and Precautions (5.6)].
 
 Drug Interactions with CYP3A Inhibitors and Inducers
 
 - Advise patients to inform their healthcare providers of all concomitant medications, herbal and dietary supplements.
-  Advise patients to avoid grapefruit products during the first week after treatment initiation with ORKAMBI [see Dosage and Administration (2.3), Warnings and Precautions (5.6), and Drug Interactions (7)].
+  Advise patients to avoid grapefruit products during the first week after treatment initiation with ORKAMBI [see Dosage and Administration (2.3), Warnings and Precautions (5.7), and Drug Interactions (7)].
 - Instruct post-menarchal patients including females of reproductive potential on alternative methods of birth control because hormonal contraceptives should not be relied upon as an effective method of contraception.
-  ORKAMBI may decrease the effectiveness of hormonal contraceptives and there is an increased incidence of menstruation-related adverse reactions when co-administered with ORKAMBI [see Warnings and Precautions (5.6), Adverse Reactions (6.1), and Drug Interactions (7.11)].
+  ORKAMBI may decrease the effectiveness of hormonal contraceptives and there is an increased incidence of menstruation-related adverse reactions when co-administered with ORKAMBI [see Warnings and Precautions (5.7), Adverse Reactions (6.1), and Drug Interactions (7.11)].
 
 Cataracts
 
 Inform patients that abnormalities of the eye lens (cataract) have been noted in some children and adolescents receiving ORKAMBI.
 Advise pediatric patients and their caregivers that they will receive ophthalmological examinations before initiating and during ORKAMBI treatment.
-Advise pediatric patients and/or their caregivers to contact their healthcare provider if they experience visual changes [see Warnings and Precautions (5.7)].
+Advise pediatric patients and/or their caregivers to contact their healthcare provider if they experience visual changes [see Warnings and Precautions (5.8)].
 
 Administration
 
