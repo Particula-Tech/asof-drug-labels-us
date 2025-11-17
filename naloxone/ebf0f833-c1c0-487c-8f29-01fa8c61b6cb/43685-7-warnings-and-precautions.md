@@ -15,7 +15,8 @@ Buprenorphine antagonism is characterized by a gradual onset of the reversal eff
 
 ## 5.3 Precipitation of Severe Opioid Withdrawal
 
-The use of KLOXXADO in patients who are opioid-dependent may precipitate opioid withdrawal characterized by the following signs and symptoms: body aches, diarrhea, tachycardia, fever, runny nose, sneezing, piloerection, sweating, yawning, nausea or vomiting, nervousness, restlessness or irritability, shivering or trembling, abdominal cramps, weakness, and increased blood pressure.
+The use of KLOXXADO in patients who are opioid-dependent may precipitate opioid withdrawal; the risk and severity of withdrawal increases as naloxone exposure increases.
+Opioid withdrawal is characterized by the following signs and symptoms: body aches, diarrhea, tachycardia, fever, runny nose, sneezing, piloerection, sweating, yawning, nausea or vomiting, nervousness, restlessness or irritability, shivering or trembling, abdominal cramps, weakness, and increased blood pressure.
 In neonates, opioid withdrawal may be life-threatening if not recognized and properly treated and may include the following signs and symptoms: convulsion, excessive crying, and hyperactive reflexes.
 Monitor the patient for the development of the signs and symptoms of opioid withdrawal.
 

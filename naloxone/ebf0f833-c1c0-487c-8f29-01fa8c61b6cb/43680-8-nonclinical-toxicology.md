@@ -12,4 +12,4 @@ Naloxone was weakly positive in the Ames mutagenicity and in the in vitro human 
 
 Impairment of Fertility
 
-Reproduction studies conducted in mice and rats at doses 3-times and 6-times, respectively, a human dose of 16 mg/day (from two nasal sprays of KLOXXADO) based on body surface area comparison, demonstrated no adverse effects on fertility of naloxone hydrochloride.
+Reproduction studies conducted in mice and rats at doses 3-times and 6-times, respectively, a human dose of 16 mg based on body surface area comparison, demonstrated no adverse effects on fertility of naloxone hydrochloride.

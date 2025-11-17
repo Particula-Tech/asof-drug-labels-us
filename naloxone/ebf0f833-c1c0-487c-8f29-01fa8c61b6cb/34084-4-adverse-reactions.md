@@ -9,7 +9,13 @@ The following serious adverse reactions are discussed elsewhere in the labeling:
 
 Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to the rates in the clinical studies of another drug and may not reflect the rates observed in practice.
 
-In two pharmacokinetic studies a total of 47 healthy adult volunteers were exposed to a single dose of KLOXXADO, one spray in one nostril.
+KLOXXADO nasal spray, 4 mg
+
+No adverse events were reported in a pharmacokinetic study of 72 healthy adult volunteers exposed to one spray of 4 mg KLOXXADO nasal spray in one nostril.
+
+KLOXXADO nasal spray, 8 mg
+
+In two pharmacokinetic studies a total of 47 healthy adult volunteers were exposed to a single dose of KLOXXADO nasal spray 8 mg, one spray in one nostril.
 The following adverse reactions were reported in two subjects each: abdominal pain, asthenia, dizziness, headache, nasal discomfort, and presyncope.
 On local tissue assessments for nasal irritation, signs of nasal inflammation and nasal congestion were observed.
 

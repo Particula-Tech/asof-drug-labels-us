@@ -3,6 +3,9 @@
 ## 2.1 Important Dosage and Administration Instructions
 
 - •KLOXXADO is for intranasal use only.
+- •One spray delivers the entire contents of the drug product.
+- •All approved naloxone hydrochloride products achieve plasma concentrations that have been shown to be efficacious in reversing the effects of opioid overdose.
+  Comparing different products on a nominal mg-for-mg basis may be misleading [see Clinical Pharmacology(12.3)].
 - •The device is ready to use.
   Do not prime or test prior to administration.
 - •Do not attempt to reuse KLOXXADO.
@@ -26,6 +29,8 @@
 
 Initial Dosing
 
+KLOXXADO nasal spray, 8 mg
+
 The recommended initial dose of KLOXXADO in adult and pediatric patients is one spray delivered by intranasal administration into one nostril, which delivers 8 mg of naloxone hydrochloride to adult or pediatric patients.
 
 Repeat Dosing
@@ -40,4 +45,4 @@ If the patient responds to KLOXXADO and subsequently relapses back into respirat
 
 Additional supportive and/or resuscitative measures may be helpful while awaiting emergency medical assistance.
 
-Reversal of respiratory depression by partial agonists or mixed agonist/antagonists, such as buprenorphine and pentazocine, may be incomplete and require repeated administration of KLOXXADO using a new nasal spray [see Warnings and Precautions(5.2)].
+Reversal of respiratory depression by partial agonists or mixed agonist/antagonists, such as buprenorphine and pentazocine, may be incomplete and require repeated administration of KLOXXADO using a new nasal spray [see Warnings and Precautions (5.2)].

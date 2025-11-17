@@ -39,14 +39,14 @@ Instruct patients and their family members or caregivers to:
   Administer KLOXXADO in alternate nostrils with each dose [see Dosage and Administration (2.1)].
 - •Replace KLOXXADO before its expiration date.
 
-Distr. by: Hikma
+Distributed by: Hikma
 
 Specialty USA Inc.
 
 Columbus, OH 43228
 
-C50001066/01
+C50001066/03
 
-Revised April 2021
+Revised September 2025
 
-KLOXXADOTM is a trademark of Hikma Pharmaceuticals USA Inc.
+KLOXXADO® is a registered trademark of Hikma Pharmaceuticals USA Inc.

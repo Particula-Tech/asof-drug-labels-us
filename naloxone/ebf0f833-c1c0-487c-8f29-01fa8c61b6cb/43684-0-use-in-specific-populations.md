@@ -6,7 +6,7 @@ Risk Summary
 
 Available data from retrospective cohort studies on naloxone use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 Naloxone may precipitate opioid withdrawal in the pregnant woman and fetus [see Warnings and Precautions (5.3) and Clinical Considerations].
-In animal reproduction studies, no embryotoxic or teratogenic effects were observed in mice and rats treated with naloxone hydrochloride during the period of organogenesis at doses equivalent to 3-times and 6-times, respectively, a human dose of 16 mg/day (see Data).
+In animal reproduction studies, no embryotoxic or teratogenic effects were observed in mice and rats treated with naloxone hydrochloride during the period of organogenesis at doses equivalent to 3-times and 6-times, respectively, a human dose of 16 mg (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
@@ -24,7 +24,7 @@ Data
 
 Animal Data
 
-Naloxone hydrochloride was administered during organogenesis to mice and rats at doses 3-times and 6-times, respectively, a human dose of 16 mg (from two nasal sprays of KLOXXADO) based on body surface area comparison.
+Naloxone hydrochloride was administered during organogenesis to mice and rats at doses 3-times and 6-times, respectively, a human dose of 16 mg based on body surface area comparison.
 These studies demonstrated no embryotoxic or teratogenic effects due to naloxone hydrochloride.
 
 ## 8.2 Lactation
@@ -37,7 +37,7 @@ Naloxone is minimally orally available and is unlikely to affect the breastfed i
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of KLOXXADO has been established in pediatric patients of all ages for known or suspected opioid overdose as manifested by respiratory and/or central nervous system depression.
+The safety and effectiveness of KLOXXADO have been established in pediatric patients of all ages for known or suspected opioid overdose as manifested by respiratory and/or central nervous system depression.
 Use of naloxone hydrochloride in pediatric patients is supported by evidence from adult bioavailability studies with additional evidence from the reported safe and effective use of other naloxone hydrochloride products.
 No pediatric studies were conducted for KLOXXADO.
 
@@ -56,7 +56,7 @@ Juvenile Animal Study
 
 In a juvenile animal study, male and female juvenile rats were administered a single intranasal dose of saline, vehicle consisting of 20% alcohol and 5% propylene glycol, or naloxone (123 mg/kg, 185 mg/kg, and 246 mg/kg) on postnatal day 7 (PND 7).
 There were no test article-related findings on sexual maturation, neuroapoptosis, or on a limited number of neurocognitive endpoints which included social interactions as well as learning and memory.
-The no-effect dose level for neurodevelopmental toxicity was the high dose tested, which is 6.8-times a neonate dose from two nasal sprays of KLOXXADO based on body surface area comparison and a neonate weight of 2.5 kg.
+The no-effect dose level for neurodevelopmental toxicity was the high dose tested, which is 2.7-times a neonate dose based on body surface area comparison and a neonate weight of 2.5 kg.
 
 ## 8.5 Geriatric Use
 
