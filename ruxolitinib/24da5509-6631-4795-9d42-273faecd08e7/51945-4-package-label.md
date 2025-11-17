@@ -57,3 +57,23 @@ Sample - Topical Use Only.
 NDC 50881-007-04
 
 5 g Rx only
+
+# 3 g Carton Label - Sample
+
+Opzelura® (ruxolitinib) cream 1.5%
+
+Sample - Topical Use Only.
+
+NDC 50881-007-14
+
+3 g Rx only
+
+# 3 g Tube Label - Sample
+
+Opzelura® (ruxolitinib) cream 1.5%
+
+Sample - Topical Use Only.
+
+NDC 50881-007-14
+
+3 g Rx only
