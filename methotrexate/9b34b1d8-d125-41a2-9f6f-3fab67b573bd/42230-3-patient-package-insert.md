@@ -31,4 +31,4 @@
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 Rev.
-B 8/2023
+C 9/2025

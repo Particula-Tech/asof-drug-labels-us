@@ -64,12 +64,10 @@ Drug Interactions
 
 Advise patients and caregivers to inform their healthcare provider of all concomitant medications, including prescription medicines, over-the-counter drugs, vitamins, and herbal products [see Drug Interactions (7)].
 
-Dispense with Patient Package Insert available at: www.tevausa.com/PatientPI
-
 Manufactured In Czech Republic By: Teva Czech Industries, s.r.o.
 Opava-Komarov, Czech Republic
 
 Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-E 8/2023
+F 9/2025
