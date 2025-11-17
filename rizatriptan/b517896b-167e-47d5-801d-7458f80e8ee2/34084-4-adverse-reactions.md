@@ -6,10 +6,10 @@ The following adverse reactions are discussed in more detail in other sections o
 - Arrhythmias [see Warnings and Precautions (5.2)].
 - Chest, Throat, Neck and/or Jaw Pain/Tightness/Pressure [see Warnings and Precautions (5.3)].
 - Cerebrovascular Events [see Warnings and Precautions (5.4)].
-- Other Vasospasm Reactions [seeWarnings and Precautions (5.5)].
-- Medication Overuse Headache [seeWarnings and Precautions (5.6)].
+- Other Vasospasm Reactions [see Warnings and Precautions (5.5)].
+- Medication Overuse Headache [see Warnings and Precautions (5.6)].
 - Serotonin Syndrome [see Warnings and Precautions (5.7)].
-- Increase in Blood Pressure [seeWarnings and Precautions (5.8)].
+- Increase in Blood Pressure [see Warnings and Precautions (5.8)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -64,29 +64,29 @@ Event frequencies are calculated as the number of patients who used rizatriptan 
 All reported events occurred at an incidence ≥1%, or are believed to be reasonably associated with the use of the drug.
 Events are further classified within body system categories and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are those defined as those occurring in at least (>) 1/100 patients; infrequent adverse experiences are those occurring in 1/100 to 1/1000 patients; and rare adverse experiences are those occurring in fewer than 1/1000 patients.
 
-General: Infrequent was facial edema.
+General:Infrequent was facial edema.
 Rare were syncope and edema/swelling.
 
-Atypical Sensations: Frequent were warm sensations.
+Atypical Sensations:Frequent were warm sensations.
 
-Cardiovascular: Frequent was palpitation.
+Cardiovascular:Frequent was palpitation.
 Infrequent were tachycardia, cold extremities, and bradycardia.
 
-Digestive: Frequent were diarrhea and vomiting.
+Digestive:Frequent were diarrhea and vomiting.
 Infrequent were dyspepsia, tongue edema and abdominal distention.
 
-Musculoskeletal: Infrequent were muscle weakness, stiffness, myalgia and muscle cramp/spasm.
+Musculoskeletal:Infrequent were muscle weakness, stiffness, myalgia and muscle cramp/spasm.
 
-Neurological/Psychiatric: Frequent were hypoesthesia, euphoria and tremor.
+Neurological/Psychiatric:Frequent were hypoesthesia, euphoria and tremor.
 Infrequent were vertigo, insomnia, confusion/disorientation, gait abnormality, memory impairment, and agitation.
 
-Respiratory: Frequent was dyspnea.
+Respiratory:Frequent was dyspnea.
 Infrequent was pharyngeal edema.
 
-Special Senses: Infrequent were blurred vision and tinnitus.
+Special Senses:Infrequent were blurred vision and tinnitus.
 Rare was eye swelling.
 
-Skin and Skin Appendage: Frequent was flushing.
+Skin and Skin Appendage:Frequent was flushing.
 Infrequent were sweating, pruritus, rash, and urticaria.
 Rare was erythema, hot flashes.
 
@@ -110,15 +110,15 @@ Event frequencies are calculated as the number of pediatric patients 6-17 years 
 All reported events occurred at an incidence ≥1%, or are believed to be reasonably associated with the use of the drug.
 Events are further classified within system organ class and enumerated in order of decreasing frequency using the following definitions: frequent adverse events are those occurring in (>) 1/100 pediatric patients; infrequent adverse experiences are those occurring in 1/100 to 1/1000 pediatric patients; and rare adverse experiences are those occurring in fewer than 1/1000 patients.
 
-General: Frequent was fatigue.
+General:Frequent was fatigue.
 
-Ear and labyrinth disorders: Infrequent was hypoacusis.
+Ear and labyrinth disorders:Infrequent was hypoacusis.
 
-Gastrointestinal disorders: Frequent was abdominal discomfort.
+Gastrointestinal disorders:Frequent was abdominal discomfort.
 
-Nervous system disorders: Infrequent were coordination abnormal, disturbance in attention, and presyncope.
+Nervous system disorders:Infrequent were coordination abnormal, disturbance in attention, and presyncope.
 
-Psychiatric disorders: Infrequent was hallucination.
+Psychiatric disorders:Infrequent was hallucination.
 
 ## 6.2 Postmarketing Experience
 
@@ -126,8 +126,8 @@ The following section enumerates potentially important adverse events that have 
 The events enumerated include all except those already listed in other sections of the labeling or those too general to be informative.
 Because the reports cite events reported spontaneously from worldwide postmarketing experience, frequency of events and the role of rizatriptan benzoate tablets in their causation cannot be reliably determined.
 
-Neurological/Psychiatric: Seizure
+Neurological/Psychiatric:Seizure
 
-General: Allergic conditions including anaphylaxis/anaphylactoid reaction, angioedema, wheezing, and toxic epidermal necrolysis [see Contraindications (4)].
+General:Allergic conditions including anaphylaxis/anaphylactoid reaction, angioedema, wheezing, and toxic epidermal necrolysis [see Contraindications (4)].
 
-Special Senses: Dysgeusia.
+Special Senses:Dysgeusia.

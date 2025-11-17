@@ -46,7 +46,7 @@ Talk to your doctor before taking this medicine if you have any of the condition
 
 What should I tell my doctor before taking rizatriptan benzoate tablets?
 
-Before you take rizatriptan benzoate tablets, tell your doctor if you:
+Before you take rizatriptan benzoate tablets,tell your doctor if you:
 
 - have or have had heart problems, high blood pressure, chest pain, or shortness of breath
 - have any risk factors for heart problems or blood vessel problems such as:
@@ -67,14 +67,14 @@ Before you take rizatriptan benzoate tablets, tell your doctor if you:
   It is not known if rizatriptan benzoate passes into your breast milk.
   Talk to your doctor about the best way to feed your baby if you take rizatriptan benzoate tablets.
 
-Tell your doctor about all the medicines you take, including prescription and nonprescription medicines, vitamins, and herbal supplements.
+Tell your doctor about all the medicines you take,including prescription and nonprescription medicines, vitamins, and herbal supplements.
 
 Rizatriptan benzoate tablets and other medicines may affect each other causing side effects.
 Rizatriptan benzoate tablets may affect the way other medicines work, and other medicines may affect how rizatriptan benzoate tablets work.
 
 Especially tell your doctor if you take:
 
-- propranolol containing medicines such as Inderal®, Inderal®LA, or Innopran®XL
+- propranolol containing medicines such as Inderal ®, Inderal ®LA, or Innopran ®XL
 - medicines used to treat mood disorders, including selective serotonin reuptake inhibitors (SSRIs) or serotonin norepinephrine reuptake inhibitors (SNRIs).
 
 Ask your doctor or pharmacist for a list of these medicines, if you are not sure.
@@ -100,11 +100,9 @@ If you have these symptoms, do not drive a car, use machinery, or do anything th
 
 What are the possible side effects of rizatriptan benzoate tablets?
 
-Rizatriptan benzoate tablets may cause serious side effects.
-Call your doctor or go to the nearest hospital emergency room right away if you think you are having any of the serious side effects of rizatriptan benzoate tablets including:
+Rizatriptan benzoate tablets may cause serious side effects.Call your doctor or go to the nearest hospital emergency room right away if you think you are having any of the serious side effects of rizatriptan benzoate tablets including:
 
-- heart attack.
-  Symptoms of a heart attack may include:
+- heart attack.Symptoms of a heart attack may include:
   - chest discomfort in the center of your chest that lasts for more than a few minutes or that goes away and comes back
   - chest discomfort that feels like uncomfortable pressure, squeezing, fullness or pain
   - pain or discomfort in your arms, back, neck, jaw or stomach
@@ -113,23 +111,20 @@ Call your doctor or go to the nearest hospital emergency room right away if you 
   - nausea or vomiting
   - feeling lightheaded
 
-- stroke.
-  Symptoms of a stroke may include the following sudden symptoms:
+- stroke.Symptoms of a stroke may include the following sudden symptoms:
   - numbness or weakness in your face, arm or leg, especially on one side of your body
   - confusion, problems speaking or understanding
   - problems seeing in 1 or both of your eyes
   - problems walking, dizziness, loss of balance or coordination
   - severe headache with no known cause
 
-- blood vessel problems.
-  Symptoms of blood vessel problems may include:
+- blood vessel problems.Symptoms of blood vessel problems may include:
   - stomach pain
   - bloody diarrhea
   - vision problems
   - coldness and numbness of hands and feet
 
-- serotonin syndrome.
-  A condition called serotonin syndrome can happen when Triptan medicines such as rizatriptan benzoate tablets are taken with certain other medicines.
+- serotonin syndrome.A condition called serotonin syndrome can happen when Triptan medicines such as rizatriptan benzoate tablets are taken with certain other medicines.
   Symptoms of serotonin syndrome may include:
   - agitation
   - hallucinations
@@ -186,7 +181,7 @@ Active ingredient in rizatriptan benzoate tablets:
 
 rizatriptan benzoate, USP.
 
-Inactive ingredients in rizatriptan benzoate tablets: Lactose Monohydrate USP NF, Microcrystalline Cellulose USP NF, Pregelatinised Starch USP NF, Ferric Oxide USP NF and Magnesium Stearate USP NF.
+Inactive ingredients in rizatriptan benzoate tablets:Lactose Monohydrate USP NF, Microcrystalline Cellulose USP NF, Pregelatinised Starch USP NF, Ferric Oxide USP NF and Magnesium Stearate USP NF.
 
 The brands listed are the trademarks of their respective owners.
 

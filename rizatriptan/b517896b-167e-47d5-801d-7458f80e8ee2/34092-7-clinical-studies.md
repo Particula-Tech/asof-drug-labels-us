@@ -24,8 +24,8 @@ Table 2: Response Rates 2 Hours Following Treatment of Initial Headache in Studi
 | 3 | 23% (n=80) | 63%* (n=352) | — |
 | 4 | 40% (n=159) | 60%* (n=164) | 67%* (n=385) |
 | * p-value <0.05 in comparison with placebo. |  |  |  |
-| † p-value <0.05 in comparison with 5 mg. |  |  |  |
-| ‡ Results for initial headache only. |  |  |  |
+| †p-value <0.05 in comparison with 5 mg. |  |  |  |
+| ‡Results for initial headache only. |  |  |  |
 
 Comparisons of drug performance based upon results obtained in different clinical trials may not be reliable.
 Because studies are conducted at different times, with different samples of patients, by different investigators, employing different criteria and/or different interpretations of the same criteria, under different conditions (dose, dosing regimen, etc.), quantitative estimates of treatment response and the timing of response may be expected to vary considerably from study to study.

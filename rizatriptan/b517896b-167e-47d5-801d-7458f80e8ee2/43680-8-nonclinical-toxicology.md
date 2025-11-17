@@ -10,7 +10,7 @@ Plasma exposures (AUC) at the highest dose tested were approximately 150 (mice) 
 
 Mutagenesis
 
-Rizatriptan was neither mutagenic nor clastogenic in a battery of in vitro and in vivo genetic toxicity studies, including: the microbial mutagenesis (Ames) assay, in vitro mammalian cell mutagenesis and chromosomal aberration assays, and the in vivo chromosomal aberration assay in mouse.
+Rizatriptan was neither mutagenic nor clastogenic in a battery of in vitroand in vivogenetic toxicity studies, including: the microbial mutagenesis (Ames) assay, in vitromammalian cell mutagenesis and chromosomal aberration assays, and the in vivochromosomal aberration assay in mouse.
 
 Impairment of Fertility
 
