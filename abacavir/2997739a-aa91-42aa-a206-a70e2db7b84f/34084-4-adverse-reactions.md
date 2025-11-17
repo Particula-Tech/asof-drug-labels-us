@@ -190,7 +190,7 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Blood and Lymphatic Systems
 
-Aplastic anemia, anemia (including pure red cell aplasia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly.
+Aplastic anemia, anemia (including pure red cell aplasia, sideroblastic anemia and severe anemias progressing on therapy), lymphadenopathy, splenomegaly.
 
 Digestive
 

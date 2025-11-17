@@ -152,10 +152,10 @@ Summary of Effect of Dolutegravir on the Pharmacokinetics of Coadministered Drug
 | --- | --- | --- | --- | --- | --- |
 | Cmax | AUC | Cτ or C24 |  |  |  |
 | Ethinyl estradiol 0.035 mg | 50 mg twice daily | 15 | 0.99 (0.91 to 1.08) | 1.03 (0.96 to 1.11) | 1.02 (0.93 to 1.11) |
-| Metformin 500 mg twice daily | 50 mg once daily | 15a | 1.66 (1.53 to 1.81) | 1.79 (1.65 to 1.93) | — |
-| Metformin 500 mg twice daily | 50 mg twice daily | 15a | 2.11 (1.91 to 2.33) | 2.45 (2.25 to 2.66) | — |
+| Metformin 500 mg twice daily | 50 mg once daily | 15a | 1.66 (1.53 to 1.81) | 1.79 (1.65 to 1.93) | _ |
+| Metformin 500 mg twice daily | 50 mg twice daily | 15a | 2.11 (1.91 to 2.33) | 2.45 (2.25 to 2.66) | _ |
 | Methadone 16 to 150 mg | 50 mg twice daily | 11 | 1.00 (0.94 to 1.06) | 0.98 (0.91 to 1.06) | 0.99 (0.91 to 1.07) |
-| Midazolam 3 mg | 25 mg once daily | 10 | — | 0.95 (0.79 to 1.15) | — |
+| Midazolam 3 mg | 25 mg once daily | 10 | _ | 0.95 (0.79 to 1.15) | _ |
 | Norelgestromin 0.25 mg | 50 mg twice daily | 15 | 0.89 (0.82 to 0.97) | 0.98 (0.91 to 1.04) | 0.93 (0.85 to 1.03) |
 | Rilpivirine 25 mg once daily | 50 mg once daily | 16 | 1.10 (0.99 to 1.22) | 1.06 (0.98 to 1.16) | 1.21 (1.07 to 1.38) |
 | Tenofovir disoproxil fumarate 300 mg once daily | 50 mg once daily | 15 | 1.09 (0.97 to 1.23) | 1.12 (1.01 to 1.24) | 1.19 (1.04 to 1.35) |
@@ -240,7 +240,7 @@ Lamivudine and Zidovudine: No clinically significant alterations in lamivudine o
 
 The effects of other coadministered drugs on abacavir or lamivudine are provided in Table 11.
 
-Table 10.
+Table 11.
 Effect of Coadministered Drugs on Abacavir or Lamivudine
 
 | Coadministered Drug and Dose | Drug and Dose | n | Concentrations of Abacavir or Lamivudine |  | Concentration of Coadministered Drug |
@@ -275,12 +275,12 @@ Dolutegravir EC50 values against three HIV-2 clinical isolates in PBMC assays ra
 
 Abacavir: The antiviral activity of abacavir against HIV‑1 was assessed in a number of cell lines including in primary monocytes/macrophages and PBMCs.
 EC50 values ranged from 3,700 to 5,800 nM (1 nM = 0.28 ng/mL) and 70 to 1,000 nM against HIV‑1IIIB and HIV‑1BaL, respectively, and the mean EC50 value was 260 ± 180 nM against 8 clinical isolates.
-The median EC50 values of abacavir were 344 nM (range: 14.8 to 676 nM), 16.9 nM (range: 5.9 to 27.9 nM), 8.1 nM (range: 1.5 to 16.7 nM), 356 nM (range: 35.7 to 396 nM), 105 nM (range: 28.1 to 168 nM), 47.6 nM (range: 5.2 to 200 nM), 51.4 nM (range: 7.1 to 177 nM), and 282 nM (range: 22.4 to 598 nM) against HIV‑1 clades A-G and group O viruses (n = 3 except n = 2 for clade B), respectively.
+The median EC50 values of abacavir were 344 nM (range: 14.8 to 676 nM), 16.9 nM (range: 5.9 to 27.9 nM), 8.1 nM (range: 1.5 to 16.7 nM), 356 nM (range: 35.7 to 396 nM), 105 nM (range: 28.1 to 168 nM), 47.6 nM (range: 5.2 to 200 nM), 51.4 nM (range: 7.1 to 177 nM), and 282 nM (range: 22.4 to 598 nM) against HIV‑1 clades A to G and group O viruses (n = 3 except n = 2 for clade B), respectively.
 The EC50 values against HIV‑2 isolates (n = 4), ranged from 24 to 490 nM.
 
 Lamivudine: The antiviral activity of lamivudine against HIV‑1 was assessed in a number of cell lines including monocytes and PBMCs using standard susceptibility assays.
 EC50 values were in the range of 3 to 15,000 nM (1 nM = 0.23 ng/mL).
-The median EC50 values of lamivudine were 60 nM (range: 20 to 70 nM), 35 nM (range: 30 to 40 nM), 30 nM (range: 20 to 90 nM), 20 nM (range: 3 to 40 nM), 30 nM (range: 1 to 60 nM), 30 nM (range: 20 to 70 nM), 30 nM (range: 3 to 70 nM), and 30 nM (range: 20 to 90 nM) against HIV‑1 clades A-G and group O viruses (n = 3 except n = 2 for clade B) respectively.
+The median EC50 values of lamivudine were 60 nM (range: 20 to 70 nM), 35 nM (range: 30 to 40 nM), 30 nM (range: 20 to 90 nM), 20 nM (range: 3 to 40 nM), 30 nM (range: 1 to 60 nM), 30 nM (range: 20 to 70 nM), 30 nM (range: 3 to 70 nM), and 30 nM (range: 20 to 90 nM) against HIV‑1 clades A to G and group O viruses (n = 3 except n = 2 for clade B) respectively.
 The EC50 values against HIV‑2 isolates (n = 4) from 3 to 120 nM in PBMCs.
 Ribavirin (50,000 nM) used in the treatment of chronic HCV infection decreased the anti-HIV‑1 activity of lamivudine by 3.5‑fold in MT‑4 cells.
 
