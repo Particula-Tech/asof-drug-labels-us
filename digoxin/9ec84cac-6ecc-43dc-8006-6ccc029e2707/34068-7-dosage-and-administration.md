@@ -3,7 +3,7 @@
 ## 2.1 Important Dosing and Administration Information
 
 In selecting a LANOXIN dosing regimen, it is important to consider factors that affect digoxin blood levels (e.g., body weight, age, renal function, concomitant drugs) since toxic levels of digoxin are only slightly higher than therapeutic levels.
-Dosing can be either initiated with a loading dose followed by maintenance dosing if rapid titration is desired or initiated with maintenance dosing without a loading dose.
+Dosing can be either initiated with a loading dose followed by maintenance dosing if rapid titration is desired orinitiated with maintenance dosing without a loading dose.
 
 Parenteral administration of digoxin should be used only when the need for rapid digitalization is urgent or when the drug cannot be taken orally.
 Intramuscular injection can lead to severe pain at the injection site, thus intravenous administration is preferred.
@@ -41,7 +41,7 @@ Recommended LANOXIN Injection Loading Dose
 
 The maintenance dose is based on lean body weight, renal function, age, and concomitant products [see Clinical Pharmacology (12.3)].
 
-The recommended starting maintenance doses in adults and pediatric patients over 10 years old with normal renal function are given in Table 2.
+The recommended startingmaintenance doses in adults and pediatric patients over 10 years old with normal renal function are given in Table 2.
 Doses may be increased every 2 weeks according to clinical response, serum drug levels, and toxicity.
 
 Table 2.
@@ -52,7 +52,7 @@ Recommended Starting LANOXIN Injection Maintenance Dosage in Adults and Pediatri
 | Adults and pediatric patients over 10 years | 2.4-3.6 |
 | mcg = microgram |  |
 
-Table 3 provides the recommended (once daily) maintenance dose for adults and pediatric patients over 10 years old (to be given once daily) according to lean body weight and renal function.
+Table 3provides the recommended (once daily) maintenance dose for adults and pediatric patients over 10 years old (to be given once daily) according to lean body weight and renal function.
 The doses are based on studies in adult patients with heart failure.
 Alternatively, the maintenance dose may be estimated by the following formula (peak body stores lost each day through elimination):
 
@@ -63,7 +63,7 @@ Reduce the dose of LANOXIN in patients whose lean weight is an abnormally small 
 Table 3.
 Recommended Maintenance Dose (in micrograms given once daily) of LANOXIN Injection in Pediatric Patients Over 10 Years Old and Adults by Lean Body Weight and by Renal Function
 
-| Corrected Creatinine Clearancea | Lean Body Weightc |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedb |
+| Corrected Creatinine Clearance a | Lean Body Weight c |  |  |  |  |  |  |  | Number of Days Before Steady State Achieved b |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |
 | 10 mL/min |  | 64 | 80 | 96 | 112 | 128 | 144 | 160 | 19 |
@@ -76,12 +76,12 @@ Recommended Maintenance Dose (in micrograms given once daily) of LANOXIN Injecti
 | 80 mL/min |  | 120 | 150 | 180 | 210 | 240 | 270 | 300 | 9 |
 | 90 mL/min |  | 128 | 160 | 192 | 224 | 256 | 288 | 320 | 8 |
 | 100 mL/min |  | 136 | 170 | 204 | 238 | 272 | 306 | 340 | 7 |
-| a For adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m2 body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatric patients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m2 body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m2) = (k x Height)/Scr b If no loading dose administered c The doses listed assume average body composition. |  |  |  |  |  |  |  |  |  |
+| aFor adults, creatinine clearance was corrected to 70-kg body weight or 1.73 m 2body surface area. If only serum creatinine concentrations (Scr) are available, a corrected Ccr may be estimated in men as (140 – Age)/Scr. For women, this result should be multiplied by 0.85. For pediatricpatients, the modified Schwartz equation may be used. The formula is based on height in cm and Scr in mg/dL where k is a constant. Ccr is corrected to 1.73 m 2body surface area. During the first year of life, the value of k is 0.33 for pre-term babies and 0.45 for term infants. The k is 0.55 for pediatric patients and adolescent girls and 0.7 for adolescent boys. GFR (mL/min/1.73 m 2) = (k x Height)/Scr b If no loading dose administered c The doses listed assume average body composition. |  |  |  |  |  |  |  |  |  |
 
 ## 2.4 Maintenance Dosing in Pediatric Patients Less Than 10 Years Old
 
 The starting maintenance dose for heart failure in pediatric patients less than 10 years old is based on lean body weight, renal function, age, and concomitant products [see Clinical Pharmacology (12.3)].
-The recommended starting maintenance doses for pediatric patients are given in Table 4.
+The recommended startingmaintenance doses for pediatric patients are given in Table 4.
 These recommendations assume the presence of normal renal function.
 
 Table 4.
@@ -96,12 +96,12 @@ Recommended Starting LANOXIN Injection Maintenance Dosage in Pediatric Patients 
 | 5-10 Years | 2.3-4.5 |
 | mcg = microgram |  |
 
-Table 5 provides average daily maintenance dose requirements for pediatric patients less than 10 years old (to be given twice daily) with heart failure based on age, lean body weight, and renal function.
+Table 5provides average daily maintenance dose requirements for pediatric patients less than 10 years old (to be given twice daily) with heart failure based on age, lean body weight, and renal function.
 
 Table 5.
-Recommended Maintenance Dose (in micrograms given TWICE daily) of LANOXIN Injection in Pediatric Patients Less Than 10 Years of Agea Based upon Lean Body Weight and Renal Functiona
+Recommended Maintenance Dose (in micrograms given TWICE daily) of LANOXIN Injection in Pediatric Patients Less Than 10 Years of Age aBased upon Lean Body Weight and Renal Function a
 
-| Corrected Creatinine Clearanceb | Lean Body Weight |  |  |  |  |  |  |  | Number of Days Before Steady State Achievedc |
+| Corrected Creatinine Clearance b | Lean Body Weight |  |  |  |  |  |  |  | Number of Days Before Steady State Achieved c |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | kg | 5 | 10 | 20 | 30 | 40 | 50 | 60 |  |  |
 | 10 mL/min |  | 8 | 16 | 32 | 48 | 64 | 80 | 96 | 19 |

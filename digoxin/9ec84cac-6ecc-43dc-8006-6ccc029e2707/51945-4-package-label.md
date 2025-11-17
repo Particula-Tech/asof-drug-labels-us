@@ -4,7 +4,7 @@ C O V I S
 
 10 single-dose ampuls 2 mL each NDC 70515-260-10 Discard unused portion
 
-LANOXIN® (digoxin) Injection 500 mcg/2 mL (250 mcg/mL)
+LANOXIN ®(digoxin) Injection 500 mcg/2 mL (250 mcg/mL)
 
 For intravenous or intramuscular injection.
 Dilution not required.
@@ -28,7 +28,7 @@ NDC 70515-261-10
 
 10 single-dose vials 2 mL each Discard unused portion
 
-LANOXIN® (digoxin) Injection
+LANOXIN ®(digoxin) Injection
 
 500 mcg/2 mL (250 mcg/mL)
 
@@ -37,7 +37,7 @@ Dilution not required.
 
 Rx only
 
-NDC 70515-261-10 LANOXIN® (digoxin) Injection 500 mcg/2 mL (250 mcg/mL)
+NDC 70515-261-10 LANOXIN ®(digoxin) Injection 500 mcg/2 mL (250 mcg/mL)
 
 In a vehicle of 42.5% (W/V) propylene glycol and 10% alcohol (V/V).
 Dibasic sodium phosphate 0.17%, citric acid anhydrous 0.08%.
@@ -54,7 +54,7 @@ Made in Germany ©2024, Covis Pharma
 
 NDC 70515-262-10 10 single-dose ampules 1 mL each – Discard unused portion
 
-LANOXIN® (digoxin) Injection Pediatric
+LANOXIN ®(digoxin) Injection Pediatric
 
 100 mcg/mL
 
@@ -74,7 +74,7 @@ Rx only C O V I S
 
 NDC 70515-263-10 10 vials 1 mL each – Discard unused portion Rx only
 
-LANOXIN® (digoxin) Injection Pediatric
+LANOXIN ®(digoxin) Injection Pediatric
 
 100 mcg/mL
 
@@ -84,7 +84,7 @@ C O V I S
 
 NDC 70515-263-10 10 single-dose vials 1 mL each
 
-LANOXIN® (digoxin) Injection Pediatric 100 mcg/mL
+LANOXIN ®(digoxin) Injection Pediatric 100 mcg/mL
 
 In a vehicle of 42.5% (W/V) propylene glycol and 10% alcohol (V/V).
 Sodium phosphate 0.17%.
