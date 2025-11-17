@@ -80,7 +80,7 @@ Carefully follow the reconstitution and storage procedures described in this lab
 Reconstitution of Daptomycin for Injection Vial
 
 Daptomycin for Injection is supplied in single-dose vials, each containing 500 mg daptomycin as a sterile, lyophilized powder.
-The contents of a daptomycin for injection vial should be reconstituted, using aseptic technique, to 50 mg/mL as follows:
+The contents of a daptomycin for injection vial should be reconstituted with 0.9% sodium chloride injection, using aseptic technique, to 50 mg/mL as follows:
 
 1. To minimize foaming, AVOID vigorous agitation or shaking of the vial during or after reconstitution.
 2. Remove the polypropylene flip-off cap from the daptomycin for injection vial to expose the central portion of the rubber stopper.
@@ -131,9 +131,11 @@ Stability studies have shown that the reconstituted solution is stable in the vi
 The diluted solution is stable in the infusion bag for 12 hours at room temperature and 48 hours if stored under refrigeration.
 The combined storage time (reconstituted solution in vial and diluted solution in infusion bag) should not exceed 12 hours at room temperature or 48 hours under refrigeration.
 
-## 2.8 Compatible Intravenous Solutions
+## 2.8 Compatible Intravenous Solution for Reconstitution and Dilution
 
-Daptomycin for Injection is compatible with 0.9% sodium chloride injection and Lactated Ringer's injection.
+Daptomycin for Injection is compatible with 0.9% sodium chloride injection for reconstitution.
+
+Reconstituted daptomycin for Injection can only be diluted with 0.9% sodium chloride injection.
 
 ## 2.9 Incompatibilities
 

@@ -146,17 +146,17 @@ Table 8 summarizes the CPK shifts from Baseline through End of Therapy in the cS
 
 Table 8: Incidence of CPK Elevations from Baseline during Therapy in Either the Daptomycin Treatment Group or the Comparator Treatment Group in Phase 3 cSSSI Adult Trials
 
-| % | n | % | n | % | n | % | n |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Change in CPK |  | All Adult Patients |  |  |  | Adult Patients with Normal CPK at Baseline |  |  |  |
-| Daptomycin 4 mg/kg (N=430) |  | Comparator Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). (N=459) |  | Daptomycin 4 mg/kg (N=374) |  | Comparator (N=392) |  |  |  |
-| No Increase |  | 90.7 | 390 | 91.1 | 418 | 91.2 | 341 | 91.1 | 357 |
-| Maximum Value | >1× ULN ULN (Upper Limit of Normal) is defined as 200 U/L. | 9.3 | 40 | 8.9 | 41 | 8.8 | 33 | 8.9 | 35 |
-|  | >2× ULN | 4.9 | 21 | 4.8 | 22 | 3.7 | 14 | 3.1 | 12 |
-|  | >4× ULN | 1.4 | 6 | 1.5 | 7 | 1.1 | 4 | 1.0 | 4 |
-|  | >5× ULN | 1.4 | 6 | 0.4 | 2 | 1.1 | 4 | 0.0 | 0 |
-|  | >10× ULN | 0.5 | 2 | 0.2 | 1 | 0.2 | 1 | 0.0 | 0 |
-| Note: Elevations in CPK observed in adult patients treated with daptomycin or comparator were not clinically or statistically significantly different. |  |  |  |  |  |  |  |  |  |
+| % | n | % | n | % | n | % | n |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Change in CPK | All Adult Patients |  |  |  | Adult Patients with Normal CPK at Baseline |  |  |  |
+| Daptomycin 4 mg/kg (N=430) |  | Comparator Comparator: vancomycin (1 g IV q12h) or an anti-staphylococcal semi-synthetic penicillin (i.e., nafcillin, oxacillin, cloxacillin, or flucloxacillin; 4 to 12 g/day IV in divided doses). †ULN (Upper Limit of Normal) is defined as 200 U/L. (N=459) |  | Daptomycin 4 mg/kg (N=374) |  | Comparator (N=392) |  |  |
+| No Increase | 90.7 | 390 | 91.1 | 418 | 91.2 | 341 | 91.1 | 357 |
+| Maximum Value >1×ULN † | 9.3 | 40 | 8.9 | 41 | 8.8 | 33 | 8.9 | 35 |
+| >2× ULN | 4.9 | 21 | 4.8 | 22 | 3.7 | 14 | 3.1 | 12 |
+| >4× ULN | 1.4 | 6 | 1.5 | 7 | 1.1 | 4 | 1.0 | 4 |
+| >5× ULN | 1.4 | 6 | 0.4 | 2 | 1.1 | 4 | 0.0 | 0 |
+| >10× ULN | 0.5 | 2 | 0.2 | 1 | 0.2 | 1 | 0.0 | 0 |
+| Note: Elevations in CPK observed in adult patients treated with daptomycin or comparator were not clinically or statistically significantly different. |  |  |  |  |  |  |  |  |
 
 S. aureus Bacteremia/Endocarditis Trial in Adults
 
@@ -170,7 +170,7 @@ Complicated Skin and Skin Structure Infection Trial in Pediatric Patients
 
 The safety of daptomycin was evaluated in one clinical trial (in cSSSI), which included 256 pediatric patients (1 to 17 years of age) treated with intravenous daptomycin and 133 patients treated with comparator agents.
 Patients were given age-dependent doses once daily for a treatment period of up to 14 days (median treatment period was 3 days).
-The doses given by age group were as follows: 10mg/kg for 1 to < 2 years, 9 mg/kg for 2 to 6 years, 7mg/kg for 7 to 11 years and 5 mg/kg for 12 to 17 years of age [see Clinical Studies (14)].
+The doses given by age group were as follows: 10 mg/kg for 1 to < 2 years, 9 mg/kg for 2 to 6 years, 7 mg/kg for 7 to 11 years and 5 mg/kg for 12 to 17 years of age [see Clinical Studies (14)].
 Patients treated with daptomycin were (51%) male, (49%) female and (46%) Caucasian and (32%) Asian.
 
 Adverse Reactions Leading to Discontinuation
@@ -183,8 +183,9 @@ The rates of the most common adverse reactions, organized by body system, observ
 
 Table 9: Adverse Reactions that Occurred in ≥2% of Pediatric Patients in the daptomycin Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the cSSSI Pediatric Trial
 
-| Adverse Reaction | Daptomycin (N = 256) n (%) | Comparator Comparators included intravenous therapy with either vancomycin, clindamycin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin) (N = 133) n (%) |
+| Adverse Reaction | Daptomycin(N = 256) | Comparator Comparators included intravenous therapy with either vancomycin, clindamycin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin)(N = 133) |
 | --- | --- | --- |
+| n (%) | n (%) |  |
 | Gastrointestinal disorders |  |  |
 | Diarrhea | 18 (7.0) | 7 (5.3) |
 | Vomiting | 7 (2.7) | 1 (0.8) |
@@ -218,13 +219,16 @@ The rates of the most common adverse reactions, organized by body system, observ
 
 Table 10: Incidence of Adverse Reactions that Occurred in ≥5% of Pediatric Patients in the daptomycin Treatment-Arm and Greater Than or Equal to the Comparator Treatment-Arm in the Pediatric Bacteremia Trial
 
-| Daptomycin N=55 n(%) | Comparator N=26 n(%) |  |
-| --- | --- | --- |
-| Adverse Reaction |  |  |
-| Gastrointestinal disorders |  |  |
-| Vomiting | 6 (10.9) | 2 (7.7) |
-| Investigations |  |  |
-| Blood CPK increased | 4 (7.3) | 0 |
+| n(%) | n(%) |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Adverse Reaction |  |  |  |  |  |  |  |  |
+| Daptomycin | Comparator * |  |  |  |  |  |  |  |
+| (N=55) | (N=26) |  |  |  |  |  |  |  |
+| Gastrointestinal disorders |  |  |  |  |  |  |  |  |
+| Vomiting | 6 (10.9) | 2 (7.7) |  |  |  |  |  |  |
+| Investigations |  |  |  |  |  |  |  |  |
+| Blood CPK increased | 4 (7.3) | 0 |  |  |  |  |  |  |
+| *Comparators included intravenous therapy with either vancomycin, cefazolin, or an anti-staphylococcal semi-synthetic penicillin (nafcillin, oxacillin or cloxacillin) |  |  |  |  |  |  |  |  |
 
 ## 6.2 Post-Marketing Experience
 
@@ -250,6 +254,8 @@ Nervous System Disorders:peripheral neuropathy [see Warnings and Precautions (5.
 Skin and Subcutaneous Tissue Disorders:serious skin reactions, including drug reaction with eosinophilia and systemic symptoms (DRESS), vesiculobullous rash (with or without mucous membrane involvement, including Stevens-Johnson syndrome [SJS] and toxic epidermal necrolysis [TEN]), and acute generalized exanthematous pustulosis [see Warnings and Precautions (5.4)].
 
 Gastrointestinal Disorders:nausea, vomiting
+
+Metabolic and Nutritional Disorders:hyperkalemia
 
 Renal and urinary disorders:acute kidney injury, renal insufficiency, renal failure, and tubulointerstitial nephritis (TIN) [see Warnings and Precautions (5.5)].
 

@@ -10,7 +10,7 @@ No evidence of adverse developmental outcomes was observed.
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Data
 
@@ -38,7 +38,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of daptomycin in the treatment of cSSSI and S. aureus bloodstream infections (bacteremia) have been established in the age groups 1 to 17 years of age.
-Use of daptomycin in these age groups is supported by evidence from adequate and well-controlled studies in adults, with additional data from pharmacokinetic studies in pediatric patients, and from safety, efficacy and PK studies in pediatric patients with cSSSI and S. aureus bloodstream infections [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1,14.2)].
+Use of daptomycin in these age groups is supported by evidence from adequate and well-controlled studies in adults, with additional data from pharmacokinetic studies in pediatric patients, and from safety, efficacy and PK studies in pediatric patients with cSSSI and S. aureusbloodstream infections [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1,14.2)].
 
 Safety and effectiveness in pediatric patients below the age of one year have not been established.
 Avoid use of daptomycin in pediatric patients younger than one year of age due to the risk of potential effects on muscular, neuromuscular, and/or nervous systems (either peripheral and/or central) observed in neonatal dogs [see Warnings and Precautions (5.7)and Nonclinical Toxicology (13.2)].

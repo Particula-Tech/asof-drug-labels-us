@@ -83,8 +83,8 @@ Table 4: Clinical Success Rates by Renal Function and Treatment Group in Phase 3
 | Daptomycin 4 mg/kg every 24h | Comparator |  |
 | --- | --- | --- |
 | CL CR | Success Rate n/N (%) |  |
-| 50-70 mL/min | 25/38 (66%) | 30/48 (63%) |
-| 30-<50 mL/min | 7/15 (47%) | 20/35 (57%) |
+| 50 to 70 mL/min | 25/38 (66%) | 30/48 (63%) |
+| 30 to <50 mL/min | 7/15 (47%) | 20/35 (57%) |
 
 In a subgroup analysis of the ITT population in the Phase 3 S. aureusbacteremia/endocarditis trial, clinical success rates, as determined by a treatment-blinded Adjudication Committee [see Clinical Studies (14.2)], in the daptomycin -treated adult patients were lower in patients with baseline CL CR<50 mL/min (see Table 5).
 A decrease of the magnitude shown in Table 5 was not observed in comparator-treated patients.
@@ -96,8 +96,8 @@ Table 5: Adjudication Committee Clinical Success Rates at Test of Cure by Baseli
 | Baseline CL CR | Success Rate n/N (%) |  |  |  |
 | Daptomycin 6 mg/kg every 24h |  | Comparator |  |  |
 | >80 mL/min | 30/50 (60%) | 7/14 (50%) | 19/42 (45%) | 5/11 (46%) |
-| 50–80 mL/min | 12/26 (46%) | 1/4 (25%) | 13/31 (42%) | 1/2 (50%) |
-| 30–<50 mL/min | 2/14 (14%) | 0/1 (0%) | 7/17 (41%) | 1/1 (100%) |
+| 50 to 80 mL/min | 12/26 (46%) | 1/4 (25%) | 13/31 (42%) | 1/2 (50%) |
+| 30 to <50 mL/min | 2/14 (14%) | 0/1 (0%) | 7/17 (41%) | 1/1 (100%) |
 
 Consider these data when selecting antibacterial therapy for use in adult patients with baseline moderate to severe renal impairment.
 

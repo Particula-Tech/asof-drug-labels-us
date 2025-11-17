@@ -4,7 +4,7 @@
 
 Daptomycin for Injection is indicated for the treatment of adult and pediatric patients (1 to 17 years of age) with complicated skin and skin structure infections (cSSSI) caused by susceptible isolates of the following Gram-positive bacteria: Staphylococcus aureus(including methicillin-resistant isolates), Streptococcus pyogenes, Streptococcus agalactiae, Streptococcus dysgalactiaesubsp. equisimilis,and Enterococcus faecalis(vancomycin-susceptible isolates only).
 
-## 1.2 Staphylococcus aureusBloodstream Infections (Bacteremia) in Adult Patients, Including those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
+## 1.2 Staphylococcus aureusBloodstream Infections (Bacteremia) in Adult Patients, Including Those with Right-Sided Infective Endocarditis, Caused by Methicillin-Susceptible and Methicillin-Resistant Isolates
 
 Daptomycin for Injection is indicated for the treatment of adult patients with Staphylococcus aureusbloodstream infections (bacteremia), including adult patients with right-sided infective endocarditis, caused by methicillin-susceptible and methicillin-resistant isolates.
 
@@ -14,7 +14,7 @@ Daptomycin for Injection is indicated for the treatment of pediatric patients (1
 
 ## 1.4 Limitations of Use
 
-Daptomycin for Injection is not indicated for the treatment of pneumonia.Daptomycin for Injection is not indicated for the treatment of pneumonia.
+Daptomycin for Injection is not indicated for the treatment of pneumonia.
 
 Daptomycin for Injection is not indicated for the treatment of left-sided infective endocarditis due to S. aureus.
 The clinical trial of daptomycin for injection in adult patients with S. aureusbloodstream infections included limited data from patients with left-sided infective endocarditis; outcomes in these patients were poor [see Clinical Studies (14.2)].
