@@ -58,7 +58,7 @@ In the pool of placebo- and active-controlled trials and in the 2-year cardiovas
 
 In a clinical trial with 959 patients treated with OZEMPIC 1 mg or OZEMPIC 2 mg once weekly as add-on to metformin with or without sulfonylurea treatment for 40 weeks, no new safety signals were identified.
 
-In the FLOW trial [see Clinical Studies 14.3] in patients with type 2 diabetes mellitus and chronic kidney disease, safety data collection was limited to serious adverse events and selected predefined categories of adverse events regardless of seriousness.
+In the FLOW trial [see Clinical Studies (14.3)] in patients with type 2 diabetes mellitus and chronic kidney disease, safety data collection was limited to serious adverse events and selected predefined categories of adverse events regardless of seriousness.
 There were no new serious or severe adverse reactions identified in this trial.
 
 Gastrointestinal Adverse Reactions
@@ -131,7 +131,7 @@ Other adverse reactions with a frequency of >0.4% were associated with OZEMPIC i
 The following adverse reactions have been reported during post-approval use of semaglutide, the active ingredient of OZEMPIC.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal Disorders: Ileus
+Gastrointestinal Disorders: Ileus, intestinal obstruction, small intestinal obstruction
 
 Hypersensitivity: anaphylaxis, angioedema, rash, urticaria.
 

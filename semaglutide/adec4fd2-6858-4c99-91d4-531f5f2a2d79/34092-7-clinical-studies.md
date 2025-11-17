@@ -76,7 +76,7 @@ Results at Week 56 in a Trial of OZEMPIC Compared to Sitagliptin in Adult Patien
    At week 56 the primary HbA1c endpoint was missing for 7%, 5% and 6% of patients and during the trial rescue medication was initiated by 5%, 2% and 19% of patients randomized to OZEMPIC 0.5 mg, OZEMPIC 1 mg and sitagliptin, respectively.
    Missing data were imputed using multiple imputation based on retrieved dropouts.
 2. b Intent-to-treat analysis using ANCOVA adjusted for baseline value and country.
-3. cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
+3. c p<0.0001 (2-sided) for superiority, adjusted for multiplicity.
 
 The mean baseline body weight was 89.9 kg, 89.2 kg, 89.3 kg in the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and sitagliptin arms, respectively.
 The mean changes from baseline to week 56 were -4.2 kg, -5.5 kg, and -1.7 kg for the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and sitagliptin arms, respectively.
@@ -113,7 +113,7 @@ Results at Week 56 in a Trial of OZEMPIC Compared to Exenatide 2 mg Once Weekly 
    At week 56 the primary HbA1c endpoint was missing for 9% and 11% of patients and during the trial rescue medication was initiated by 5% and 10% of patients randomized to OZEMPIC 1 mg and exenatide ER 2 mg, respectively.
    Missing data were imputed using multiple imputation based on retrieved dropouts.
 2. b Intent-to-treat analysis using ANCOVA adjusted for baseline value and country.
-3. cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
+3. c p<0.0001 (2-sided) for superiority, adjusted for multiplicity.
 
 The mean baseline body weight was 96.2 kg and 95.4 kg in the OZEMPIC 1 mg and exenatide ER arms, respectively.
 The mean changes from baseline to week 56 were -4.8 kg and -2 kg in the OZEMPIC 1 mg and exenatide ER arms, respectively.
@@ -152,7 +152,7 @@ Results at Week 30 in a Trial of OZEMPIC Compared to Insulin Glargine in Adult P
    At week 30 the primary HbA1c endpoint was missing for 8%, 6% and 6% of patients and during the trial rescue medication was initiated by 4%, 3% and 1% of patients randomized to OZEMPIC 0.5 mg, OZEMPIC 1 mg and insulin glargine, respectively.
    Missing data were imputed using multiple imputation based on retrieved dropouts.
 2. b Intent-to-treat analysis using ANCOVA adjusted for baseline value, country and stratification factors.
-3. cp<0.0001 (2-sided) for superiority, adjusted for multiplicity.
+3. c p<0.0001 (2-sided) for superiority, adjusted for multiplicity.
 4. The mean baseline body weight was 93.7 kg, 94 kg, 92.6 kg in the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and insulin glargine arms, respectively.
    The mean changes from baseline to week 30 were -3.2 kg, -4.7 kg and 0.9 kg in the OZEMPIC 0.5 mg, OZEMPIC 1 mg, and insulin glargine arms, respectively.
    The difference from insulin glargine (95% CI) for OZEMPIC 0.5 mg was -4.1 kg (-4.9, -3.3) and for OZEMPIC 1 mg was -5.6 kg (-6.4, -4.8).
@@ -293,19 +293,19 @@ OZEMPIC also reduced the annual rate of change in eGFR (Figure 9), the incidence
 The treatment effect on the primary composite endpoint was generally consistent across the pre-specified subgroups examined, including age, biological sex, eGFR and UACR.
 The treatment benefit on the primary composite endpoint was not evident in patients taking SGLT2 inhibitors at baseline, but there were few events in these patients.
 
-Table 10: Analyses of the Primary and Secondary Endpoints and their Individual Components in FLOW Trial
+Table 10: Analyses of the Primary and Secondary Endpoints and Their Individual Components in FLOW Trial
 
 |  | Placebo N=1766 (%) | OZEMPIC 1 mg N=1767 (%) | Hazard ratio vs placebo (95% CI)1 | p-value2 |
 | --- | --- | --- | --- | --- |
 |  | Number of Patients (%) |  |  |  |
-| Composite Endpoint (≥ 50% sustained eGFR decline, sustained eGFR < 15 mL/min/1.73 m2, chronic renal replacement therapy, or renal or cardiovascular death (time to first occurrence)3 | 410 (23.2) | 331 (18.7) | 0.76 (0.66, 0.88) | 0.0003 |
-| ≥ 50% sustained eGFR decline3 | 213 (12.1) | 165 (9.3) | 0.73 (0.59, 0.89) |  |
-| Sustained eGFR <15mL/min/1.73 m2 3 | 110 (6.2) | 92 (5.2) | 0.80 (0.61, 1.06) |  |
+| Composite Endpoint (≥50% sustained eGFR decline, sustained eGFR < 15 mL/min/1.73 m2, chronic renal replacement therapy, or renal or cardiovascular death (time to first occurrence)3 | 410 (23.2) | 331 (18.7) | 0.76 (0.66, 0.88) | 0.0003 |
+| ≥50% sustained eGFR decline3 | 213 (12.1) | 165 (9.3) | 0.73 (0.59, 0.89) |  |
+| Sustained eGFR <15mL/min/1.73 m2 3 | 110 (6.2) | 92 (5.2) | 0.8 (0.61, 1.06) |  |
 | Chronic renal replacement therapy | 100 (5.7) | 87 (4.9) | 0.84 (0.63, 1.12) |  |
 | Renal death | 5 (0.3) | 5 (0.3) | 0.97 (0.27, 3.49) |  |
-| Cardiovascular death | 169 (9.6) | 123 (7.0) | 0.71 (0.56, 0.89) |  |
-| Composite of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (time to first occurrence) | 254 (14.4) | 212 (12.0) | 0.82 (0.68, 0.98) | 0.0289 |
-| All-cause death | 279 (15.8) | 227 (12.8) | 0.80 (0.67, 0.95) | 0.0104 |
+| Cardiovascular death | 169 (9.6) | 123 (7) | 0.71 (0.56, 0.89) |  |
+| Composite of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (time to first occurrence) | 254 (14.4) | 212 (12) | 0.82 (0.68, 0.98) | 0.0289 |
+| All-cause death | 279 (15.8) | 227 (12.8) | 0.8 (0.67, 0.95) | 0.0104 |
 
 1 Cox proportional hazards model with treatment as factor and stratified by baseline use of SGLT2-inhibitor at baseline (yes or no).
 

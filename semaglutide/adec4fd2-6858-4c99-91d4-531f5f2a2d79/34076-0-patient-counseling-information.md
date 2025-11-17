@@ -54,7 +54,7 @@ Instruct patients to inform healthcare providers prior to any planned surgeries 
 Pregnancy
 
 Advise a pregnant woman of the potential risk to a fetus.
-Advise women to inform their healthcare provider if they are pregnant or intend to become pregnant [see Use in Specific Populations (8.1), (8.3)].
+Advise women to inform their healthcare provider if they are pregnant or intend to become pregnant [see Use in Specific Populations (8.1, 8.3)].
 
 Missed doses
 
@@ -80,7 +80,7 @@ Plainsboro, NJ 08536
 
 1-888-693-6742
 
-Version: 11
+Version: XX
 
 OZEMPIC® and NovoFine® are registered trademarks of Novo Nordisk A/S.
 

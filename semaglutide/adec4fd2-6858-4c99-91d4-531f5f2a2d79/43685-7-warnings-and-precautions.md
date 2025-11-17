@@ -20,7 +20,7 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 
 Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, including semaglutide [see Adverse Reactions (6.1)].
 
-After initiation of OZEMPIC, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
+After initiation of OZEMPIC, observe patients carefully for signs and symptoms of acute pancreatitis which may include persistent or severe abdominal pain (sometimes radiating to the back) and which may or may not be accompanied by nausea or vomiting.
 If pancreatitis is suspected, discontinue OZEMPIC and initiate appropriate management.
 
 ## 5.3 Diabetic Retinopathy Complications
@@ -54,6 +54,7 @@ Monitor renal function in patients reporting adverse reactions to OZEMPIC that c
 
 Use of OZEMPIC has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6.1)].
 In OZEMPIC clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving OZEMPIC (0.5 mg 0.4%, 1 mg 0.8%) than placebo (0%).
+Severe gastrointestinal adverse reactions have also been reported postmarketing with GLP-1 receptor agonists.
 
 OZEMPIC is not recommended in patients with severe gastroparesis.
 
