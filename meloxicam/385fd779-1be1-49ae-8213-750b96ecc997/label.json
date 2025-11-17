@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA217593"
+  ],
+  "inn": "meloxicam",
+  "labeler": "Nanjing Delova Biotech Co., Ltd.",
+  "package_ndcs": [
+    "82972-001-30"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "meloxicam",
+      "name": "QAMZOVA"
+    }
+  ],
+  "setid": "385fd779-1be1-49ae-8213-750b96ecc997",
+  "source": "dailymed"
+}
