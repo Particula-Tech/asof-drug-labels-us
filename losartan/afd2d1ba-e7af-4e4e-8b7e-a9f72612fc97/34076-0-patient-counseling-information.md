@@ -28,3 +28,7 @@ Distributed by:
 Scienture LLC
 
 Commack, NY 11725
+
+10/25-R1
+
+PPM-0085
