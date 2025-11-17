@@ -21,8 +21,10 @@ Dispense in a well-closed, light-resistant containers.
 
 Manufactured by: Unique Pharmaceutical Laboratories (A Div. of J. B. Chemicals & Pharmaceuticals Ltd.) Mumbai 400 030, India Distributed by:
 
-Rising Pharma Holdings, Inc. East Brunswick, NJ 08816
+Rising Pharma Holdings, Inc.
 
-138927
+East Brunswick, NJ 08816
 
-Revised: 4/2024
+141689
+
+Revised: 05/2025
