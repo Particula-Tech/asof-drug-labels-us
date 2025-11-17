@@ -121,12 +121,12 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Hyponatremia: Cases of severe hyponatremia and/or SIADH have been reported in patients taking tramadol, most often in females over the age of 65, and within the first week of therapy [see PRECAUTIONS].
 - Hypoglycemia: Cases of hypoglycemia have been reported in patients taking tramadol.
   Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients [see PRECAUTIONS].
-- Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids, and may occur more frequently in patients taking higher doses of opioid, and/or in patients taking opioids longer term [see WARNINGS].
+- Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids, and may occur more frequently in patients taking higher doses of opioids, and/or in patients taking opioids longer term [see WARNINGS].
 
 Adverse Reactions from Observational Studies
 
 A prospective, observational cohort study estimated the risks of addiction, abuse, and misuse in patients initiating long-term use of Schedule II opioid analgesics between 2017 and 2021.
-Study participants included in one or more analyses had been enrolled in selected insurance plans or health systems for at least one year, were free of at least one outcome at baseline, completed a minimum number of follow-up assessments, and either: 1) filled multiple extended-release/long-acting opioid analgesic prescriptions during a 90 day period (n=978); or 2) filled any Schedule II opioid analgesic for at least 70 of 90 days (n=1,244).
+Study participants included in one or more analyses had been enrolled in selected insurance plans or health systems for at least one year, were free of at least one outcome at baseline, completed a minimum number of follow-up assessments, and either: 1) filled multiple extended-release/long-acting opioid analgesic prescriptions during a 90 day period (n=978); or 2) filled any Schedule II opioid analgesic prescriptions covering at least 70 of 90 days (n=1,244).
 Those included also had no dispensing of the qualifying opioids in the previous 6 months.
 
 Over 12 months: • approximately 1% to 6% of participants across the two cohorts newly met criteria for addiction, as assessed with two validated interview-based measures of moderate-to-severe opioid use disorder based on Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria, and • approximately 9% and 22% of participants across the two cohorts newly met criteria for prescription opioid abuse and misuse [defined in DRUG ABUSE AND DEPENDENCE], respectively, as measured with a validated self-reported instrument.
@@ -197,9 +197,9 @@ Physical dependence is a state that develops as a result of a physiological adap
 Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
-Do not abruptly discontinue tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids.
-Rapid tapering of tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Do not rapidly reduce or abruptly discontinue tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids.
+Rapid reduction or abrupt discontinuation of tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 
 When discontinuing tramadol hydrochloride extended-release tablets, gradually taper the dosage using a patient-specific plan that considers the following: the dose of tramadol hydrochloride extended-release tablets the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.

@@ -4,6 +4,6 @@ Tramadol hydrochloride extended-release tablets are indicated for the management
 
 Limitations of Use
 
-• Because of the risks of addiction, abuse, misuse, overdose, and death,, which can occur at any dosages or duration and persist over the course of therapy [see Warnings], reserve opioid analgesics, including tramadol hydrochloride extended-release tablets, for use in patients for whom alternative treatment options are ineffective, not tolerated or would be otherwise inadequate to provide sufficient management of pain.
+• Because of the risks of addiction, abuse, misuse, overdose, and death, which can occur at any dosage or duration and persist over the course of therapy [see Warnings], reserve opioid analgesics, including tramadol hydrochloride extended-release tablets, for use in patients for whom alternative treatment options are ineffective, not tolerated, or would be otherwise inadequate to provide sufficient management of pain.
 
 • Tramadol hydrochloride extended-release tablets are not indicated as an as-needed (prn) analgesic.

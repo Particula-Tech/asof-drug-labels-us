@@ -14,7 +14,7 @@ Assess each patient’s risk for opioid addiction, abuse, or misuse prior to pre
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as tramadol hydrochloride extended-release tablets, but use in such patients necessitates intensive counseling about the risks and proper use of tramadol hydrochloride extended-release tablets along with frequent reevaluation for signs of addiction, abuse, and misuse.
-Consider prescribing an opioid overdose reversal agent [see WARNINGS; Life-Threatening Respiratory Depression, DOSAGE and ADMINISTRATION; Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose].
+Consider recommending or prescribing an opioid overdose reversal agent [see WARNINGS; Life-Threatening Respiratory Depression, DOSAGE and ADMINISTRATION; Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose].
 
 Abuse or misuse of tramadol hydrochloride extended-release tablets by cutting, breaking, chewing, crushing, snorting, or injecting the dissolved product will result in the uncontrolled delivery of tramadol and can result in overdose and death [see OVERDOSAGE].
 
@@ -27,7 +27,7 @@ Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see OVERDOSAGE].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents, depending on the patient’s clinical status [see OVERDOSAGE].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of tramadol hydrochloride extended-release tablets, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -57,7 +57,7 @@ Emphasize the importance of calling 911 or getting emergency medical help, even 
 
 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of tramadol hydrochloride extended-release tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids, and other opioids, alcohol).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of tramadol hydrochloride extended-release tablets with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids, alcohol).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -68,7 +68,7 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Inform patients and caregivers of this potential interaction, educate them on the signs and symptoms of respiratory depression (including sedation).
 
-If concomitant use is warranted, consider prescribing an opioid overdose reversal agent [see WARNINGS; Life-Threatening Respiratory Depression, DOSAGE and ADMINISTRATION; Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose].
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent [see WARNINGS; Life-Threatening Respiratory Depression, DOSAGE and ADMINISTRATION; Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when tramadol hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -188,7 +188,7 @@ Concomitant use of tramadol hydrochloride increases the seizure risk in patients
 
 Risk of seizures may also increase in patients with epilepsy, those with a history of seizures, or in patients with a recognized risk for seizure (such as head trauma, certain metabolic disorders, alcohol and drug withdrawal and CNS infections).
 
-In tramadol overdose, naloxone administration may increase the risk of seizures.
+In tramadol overdose, administration of an opioid overdose reversal agent (e.g., naloxone or nalmefene) may increase the risk of seizures.
 
 Suicide Risk
 
@@ -245,7 +245,7 @@ Regularly evaluate patients with biliary tract disease, including acute pancreat
 
 Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
 The risk of OIED may increase as the dose and/or duration of opioids increases.
-Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain), and if necessary, adjust opioid therapy as clinically appropriate.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain), and if necessary, adjust opioid therapy as clinically appropriate [see CLINICAL PHARMACOLOGY; Pharmacodynamics].
 
 Anaphylaxis and Other Hypersensitivity Reactions
 
@@ -258,7 +258,7 @@ Advise patients to seek immediate medical attention if they experience any sympt
 
 Withdrawal
 
-Do not abruptly discontinue tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids.
 When discontinuing tramadol hydrochloride extended-release tablets in a physically dependent patient, gradually taper the dosage.
 Rapid tapering of tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see DOSAGE and ADMINISTRATION, DRUG ABUSE and DEPENDENCE].
 
@@ -300,7 +300,7 @@ If no take back programs or DEA-registered collectors are available, instruct pa
 - Mix tramadol hydrochloride extended-release tablets (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
 - Place the mixture in a container such as a sealed plastic bag;
 - Throw the container in the household trash;
-- Delete all personal information on the prescription label of the empty bottle
+- Remove all personal information on the prescription label of the empty bottle
 
 Inform patients that they can visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
@@ -321,7 +321,7 @@ Inform patients that accidental ingestion, especially by children, may result in
 
 Interactions with Benzodiazepines or Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if tramadol hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see WARNINGS and PRECAUTIONS; Drug Interactions].
+Inform patients and caregivers that potentially fatal additive effects may occur if tramadol hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these concomitantly unless supervised by a healthcare provider [see WARNINGS and PRECAUTIONS; Drug Interactions].
 
 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
 Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
@@ -332,7 +332,7 @@ Educate patients and caregivers on how to recognize the signs and symptoms of an
 
 Explain to patients and caregivers that effects of opioid overdose reversal agents like naloxone and nalmefene are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if an opioid overdose reversal agent is administered [see OVERDOSAGE].
 
-Advise patients and caregivers: • how to treat with the overdose reversal agent in the event of an opioid overdose • to tell family and friends about their opioid overdose reversal agent,and to keep it in a place where family and friends can access it in an emergency • to read the Patient Information (or other educational material) that will come with their opioid overdose reversal agent.
+Advise patients and caregivers: • how to treat with the overdose reversal agent in the event of an opioid overdose. • to tell family and friends about their opioid overdose reversal agent, and to keep it in a place where family and friends can access it in an emergency. • to read the Patient Information (or other educational material) that will come with their opioid overdose reversal agent.
 Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children
@@ -465,7 +465,7 @@ Due to additive pharmacologic effect, the concomitant use of benzodiazepines or 
 Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 Limit dosages and durations to the minimum required.
 Inform patients and caregivers of this potential interaction, educate them on the signs and symptoms of respiratory depression (including sedation).
-If concomitant use is warranted, consider prescribing an opioid overdose reversal agent.
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent.
 [see WARNINGS, DOSAGE AND ADMINISTRATION].
 
 Serotonergic Drugs
@@ -491,7 +491,7 @@ Muscle Relaxants
 Tramadol hydrochloride extended-release tablets may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
 
 Because respiratory depression may be greater than otherwise expected, decrease the dosage of tramadol hydrochloride extended-release tablets and/or the muscle relaxant as necessary.
-Due to the risk of respiratory depression with concomitant use of muscle relaxants and opioids, consider prescribing an opioid overdose reversal agent [see WARNINGS, DOSAGE AND ADMINISTRATION].
+Due to the risk of respiratory depression with concomitant use of muscle relaxants and opioids, consider recommending or prescribing an opioid overdose reversal agent [see WARNINGS, DOSAGE AND ADMINISTRATION].
 
 Diuretics
 
