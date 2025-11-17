@@ -49,10 +49,9 @@ Table 2 – Adverse Reactions Occurring in at Least 1% of Subjects
 | Cough | 2% | 2% |
 | Joint Sprain | 1% | 1% |
 | Headache NOS | 4% | 4% |
+| NOS = Not otherwise specified |  |  |
 
-NOS = Not otherwise specified
-
-One subjects treated with ACZONE Gel in the clinical trials had facial swelling which led to discontinuation of medication.
+One subject treated with ACZONE Gel in the clinical trials had facial swelling which led to discontinuation of medication.
 
 In addition, 486 subjects were evaluated in a 12 month safety trial.
 The adverse event profile in this trial was consistent with that observed in the vehicle-controlled trials.
