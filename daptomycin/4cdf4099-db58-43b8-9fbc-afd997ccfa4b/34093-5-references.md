@@ -4,11 +4,11 @@
 Liu SL, Howard LC, Van Lier RBL, Markham JK: Teratology studies with daptomycin administered intravenously (iv) to rats and rabbits.
 Teratology 37(5):475, 1988.
 2.
-Stroup JS, Wagner J, Badzinski T: Use of daptomycin in a pregnant patient with Staphylococcus aureus endocarditis.
+Stroup JS, Wagner J, Badzinski T: Use of daptomycin in a pregnant patient with Staphylococcus aureusendocarditis.
 Ann Pharmacother 44(4):746-749, 2010.
 3.
 Buitrago MI, Crompton JA, Bertolami S, North DS, Nathan RA.
-Extremely low excretion of daptomycin into breast milk of a nursing mother with methicillin-resistant Staphylococcus aureus pelvic inflammatory disease.
+Extremely low excretion of daptomycin into breast milk of a nursing mother with methicillin-resistant Staphylococcus aureuspelvic inflammatory disease.
 Pharmacotherapy 2009;29(3):347–351.
 4.
 Klibanov OM, Vickery S, Nortey C: Successful treatment of infective panniculitis with daptomycin in a pregnant, morbidly obese patient.

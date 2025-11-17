@@ -52,43 +52,43 @@ Avoid use of daptomycin for injection in pediatric patients younger than 12 mont
 
 Clostridioides difficile–associated diarrhea (CDAD) has been reported with the use of nearly all systemic antibacterial agents, including daptomycin for injection, and may range in severity from mild diarrhea to fatal colitis [see Adverse Reactions (6.2)].
 Treatment with antibacterial agents alters the normal flora of the colon, leading to overgrowth of C. difficile.
-C. difficile produces toxins A and B, which contribute to the development of CDAD.
-Hypertoxin-producing strains of C. difficile cause increased morbidity and mortality, since these infections can be refractory to antimicrobial therapy and may require colectomy.
+C. difficileproduces toxins A and B, which contribute to the development of CDAD.
+Hypertoxin-producing strains of C. difficilecause increased morbidity and mortality, since these infections can be refractory to antimicrobial therapy and may require colectomy.
 CDAD must be considered in all patients who present with diarrhea following antibacterial use.
 Careful medical history is necessary because CDAD has been reported to occur more than 2 months after the administration of antibacterial agents.
-If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficile may need to be discontinued.
+If CDAD is suspected or confirmed, ongoing antibacterial use not directed against C. difficilemay need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.9 Persisting or Relapsing S. aureus Bacteremia/Endocarditis
+## 5.9 Persisting or Relapsing S. aureusBacteremia/Endocarditis
 
-Patients with persisting or relapsing S. aureus bacteremia/endocarditis or poor clinical response should have repeat blood cultures.
+Patients with persisting or relapsing S. aureusbacteremia/endocarditis or poor clinical response should have repeat blood cultures.
 If a blood culture is positive for S. aureus, minimum inhibitory concentration (MIC) susceptibility testing of the isolate should be performed using a standardized procedure, and diagnostic evaluation of the patient should be performed to rule out sequestered foci of infection.
 Appropriate surgical intervention (e.g., debridement, removal of prosthetic devices, valve replacement surgery) and/or consideration of a change in antibacterial regimen may be required.
-Failure of treatment due to persisting or relapsing S. aureus bacteremia/endocarditis may be due to reduced daptomycin susceptibility (as evidenced by increasing MIC of the S. aureus isolate) [see Clinical Studies (14.2)].
+Failure of treatment due to persisting or relapsing S. aureusbacteremia/endocarditis may be due to reduced daptomycin susceptibility (as evidenced by increasing MIC of the S. aureusisolate) [see Clinical Studies (14.2)].
 
 ## 5.10 Decreased Efficacy in Patients with Moderate Baseline Renal Impairment
 
-Limited data are available from the two Phase 3 complicated skin and skin structure infection (cSSSI) trials regarding clinical efficacy of daptomycin for injection treatment in adult patients with creatinine clearance (CLCR) <50 mL/min; only 31/534 (6%) patients treated with daptomycin for injection in the intent-to-treat (ITT) population had a baseline CLCR <50 mL/min.
+Limited data are available from the two Phase 3 complicated skin and skin structure infection (cSSSI) trials regarding clinical efficacy of daptomycin for injection treatment in adult patients with creatinine clearance (CL CR) <50 mL/min; only 31/534 (6%) patients treated with daptomycin for injection in the intent-to-treat (ITT) population had a baseline CL CR<50 mL/min.
 Table 4 shows the number of adult patients by renal function and treatment group who were clinical successes in the Phase 3 cSSSI trials.
 Table 4: Clinical Success Rates by Renal Function and Treatment Group in Phase 3 cSSSI Trials in Adult Patients (Population: ITT)
 
-| CLCR | Success Rate n/N (%) |  |
+| CL CR | Success Rate n/N (%) |  |
 | --- | --- | --- |
 | Daptomycin for Injection 4 mg/kg every 24h | Comparator |  |
-| 50-70 mL/min | 25/38 (66%) | 30/48 (63%) |
-| 30-<50 mL/min | 7/15 (47%) | 20/35 (57%) |
+| 50 to 70 mL/min | 25/38 (66%) | 30/48 (63%) |
+| 30 to <50 mL/min | 7/15 (47%) | 20/35 (57%) |
 
-In a subgroup analysis of the ITT population in the Phase 3 S. aureus bacteremia/endocarditis trial, clinical success rates, as determined by a treatment-blinded Adjudication Committee [see Clinical Studies (14.2)], in the daptomycin for injection-treated adult patients were lower in patients with baseline CLCR <50 mL/min (see Table 5).
+In a subgroup analysis of the ITT population in the Phase 3 S. aureusbacteremia/endocarditis trial, clinical success rates, as determined by a treatment-blinded Adjudication Committee [see Clinical Studies (14.2)], in the daptomycin for injection-treated adult patients were lower in patients with baseline CL CR<50 mL/min (see Table 5).
 A decrease of the magnitude shown in Table 5 was not observed in comparator-treated patients.
-Table 5: Adjudication Committee Clinical Success Rates at Test of Cure by Baseline Creatinine Clearance and Treatment Subgroup in the S. aureus Bacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
+Table 5: Adjudication Committee Clinical Success Rates at Test of Cure by Baseline Creatinine Clearance and Treatment Subgroup in the S. aureusBacteremia/Endocarditis Trial in Adult Patients (Population: ITT)
 
-| Baseline CLCR | Success Rate n/N (%) |  |  |  |
+| Baseline CL CR | Success Rate n/N (%) |  |  |  |
 | --- | --- | --- | --- | --- |
 | Daptomycin for Injection 6 mg/kg every 24h |  | Comparator |  |  |
 | Bacteremia | Right-Sided Infective Endocarditis | Bacteremia | Right-Sided Infective Endocarditis |  |
 | >80 mL/min | 30/50 (60%) | 7/14 (50%) | 19/42 (45%) | 5/11 (46%) |
-| 50–80 mL/min | 12/26 (46%) | 1/4 (25%) | 13/31 (42%) | 1/2 (50%) |
-| 30–<50 mL/min | 2/14 (14%) | 0/1 (0%) | 7/17 (41%) | 1/1 (100%) |
+| 50 to 80 mL/min | 12/26 (46%) | 1/4 (25%) | 13/31 (42%) | 1/2 (50%) |
+| 30 to <50 mL/min | 2/14 (14%) | 0/1 (0%) | 7/17 (41%) | 1/1 (100%) |
 
 Consider these data when selecting antibacterial therapy for use in adult patients with baseline moderate to severe renal impairment.
 
@@ -96,6 +96,6 @@ Consider these data when selecting antibacterial therapy for use in adult patien
 
 Clinically relevant plasma concentrations of daptomycin have been observed to cause a significant concentration-dependent false prolongation of prothrombin time (PT) and elevation of International Normalized Ratio (INR) when certain recombinant thromboplastin reagents are utilized for the assay [see Drug Interactions (7.2)].
 
-## 5.12Development of Drug-Resistant Bacteria
+## 5.12 Development of Drug-Resistant Bacteria
 
 Prescribing daptomycin for injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
