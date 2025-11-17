@@ -18,7 +18,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Disease Associated Maternal and Fetal Risk: Poorly controlled diabetes during pregnancy increases the maternal risk for diabetic ketoacidosis, pre- eclampsia, spontaneous abortions, preterm delivery and delivery complications.
+Disease Associated Maternal and Fetal Risk: Poorly controlled diabetes during pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth and macrosomia related morbidity.
 
 Data
@@ -61,7 +61,7 @@ The safety and effectiveness of RYBELSUS have not been established in pediatric 
 ## 8.5 Geriatric Use
 
 In the pool of glycemic control trials, 1,229 (30%) RYBELSUS-treated patients were 65 years of age and over and 199 (5%) RYBELSUS-treated patients were 75 years of age and over [see Clinical Studies (14)].
-In PIONEER 6, the cardiovascular outcomes trial, 891 (56%) RYBELSUS-treated patients were 65 years of age and over and 200 (13%) RYBELSUS-treated patients were 75 years of age and over.
+In Trial 8, one of the CV outcomes trials, 891 (56%) RYBELSUS-treated patients were 65 years of age and over and 200 (13%) RYBELSUS-treated patients were 75 years of age and over.
 
 No overall differences in safety or effectiveness for RYBELSUS have been observed between patients 65 years of age and older and younger adult patients.
 

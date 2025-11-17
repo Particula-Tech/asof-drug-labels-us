@@ -10,6 +10,6 @@ When initiating RYBELSUS, consider reducing the dose of concomitantly administer
 ## 7.2 Other Oral Drugs
 
 RYBELSUS causes a delay of gastric emptying and thereby has the potential to impact the absorption of other oral drugs.
-Levothyroxine exposure was increased 33% (90% CI: 125-142) when administered with RYBELSUS in a drug interaction study [see Clinical Pharmacology (12.3)].
+Levothyroxine exposure was increased 33% (90% CI: 1.25-1.42) when administered with RYBELSUS in a drug interaction study [see Clinical Pharmacology (12.3)].
 
 When coadministering RYBELSUS with other oral drugs that have a narrow therapeutic index or that require clinical monitoring, consider increased clinical or laboratory monitoring [see Dosage and Administration (2)].

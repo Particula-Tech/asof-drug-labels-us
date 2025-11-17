@@ -15,7 +15,7 @@ The efficacy of RYBELSUS was not impacted by baseline age, sex, race, ethnicity,
 
 ## 14.2 Monotherapy Use of RYBELSUS in Patients with Type 2 Diabetes Mellitus
 
-In a 26-week double-blind trial (NCT02906930), 703 adult patients with type 2 diabetes mellitus inadequately controlled with diet and exercise were randomized to RYBELSUS 3 mg, RYBELSUS 7 mg or RYBELSUS 14 mg once daily or placebo.
+In a 26-week double-blind trial (Trial 1, NCT02906930), 703 adult patients with type 2 diabetes mellitus inadequately controlled with diet and exercise were randomized to RYBELSUS 3 mg, RYBELSUS 7 mg or RYBELSUS 14 mg once daily or placebo.
 Patients had a mean age of 55 years and 51% were men.
 The mean duration of type 2 diabetes mellitus was 3.5 years and the mean BMI was 32 kg/m2.
 Overall, 75% were White, 5% were Black or African American and 17% were Asian; 26% identified as Hispanic or Latino ethnicity.
@@ -23,7 +23,7 @@ Overall, 75% were White, 5% were Black or African American and 17% were Asian; 2
 Monotherapy with RYBELSUS 7 mg and RYBELSUS 14 mg once daily for 26 weeks resulted in a statistically significant reduction in HbA1c compared with placebo (see Table 4).
 
 Table 4.
-Results at Week 26 in a Trial of RYBELSUS as Monotherapy in Adult Patients with Type 2 Diabetes Mellitus Inadequately Controlled with Diet and Exercise
+Trial 1 Results at Week 26 in a Trial of RYBELSUS as Monotherapy in Adult Patients with Type 2 Diabetes Mellitus Inadequately Controlled with Diet and Exercise
 
 |  | Placebo | RYBELSUS7 mg | RYBELSUS14 mg |
 | --- | --- | --- | --- |
@@ -57,7 +57,7 @@ The difference from placebo (95% CI) for RYBELSUS 7 mg was -0.9 kg (-1.9, 0.1) a
 
 Combination with Metformin
 
-In a 26-week trial (NCT02863328), 822 adult patients with type 2 mellitus diabetes were randomized to RYBELSUS 14 mg once daily or empagliflozin 25 mg once daily, all in combination with metformin.
+In a 26-week trial (Trial 2, NCT02863328), 822 adult patients with type 2 mellitus diabetes were randomized to RYBELSUS 14 mg once daily or empagliflozin 25 mg once daily, all in combination with metformin.
 Patients had a mean age of 58 years and 50% were men.
 The mean duration of type 2 diabetes mellitus was 7.4 years and the mean BMI was 33 kg/m2.
 Overall, 86% were White, 7% were Black or African American and 6% were Asian; 24% identified as Hispanic or Latino ethnicity.
@@ -65,7 +65,7 @@ Overall, 86% were White, 7% were Black or African American and 6% were Asian; 24
 Treatment with RYBELSUS 14 mg once daily for 26 weeks resulted in a statistically significant reduction in HbA1c compared to empagliflozin 25 mg once daily (see Table 5).
 
 Table 5.
-Results at Week 26 in a Trial of RYBELSUS Compared to Empagliflozin in Adult Patients with Type 2 Diabetes Mellitus in Combination with Metformin
+Trial 2 Results at Week 26 in a Trial of RYBELSUS Compared to Empagliflozin in Adult Patients with Type 2 Diabetes Mellitus in Combination with Metformin
 
 |  | RYBELSUS14 mg | Empagliflozin25 mg |
 | --- | --- | --- |
@@ -95,7 +95,7 @@ The difference from empagliflozin (95% CI) for RYBELSUS 14 mg was -0.1 kg (-0.7,
 
 Combination with Metformin or Metformin with Sulfonylurea
 
-In a 26-week, double-blind trial (NCT02607865), 1864 adult patients with type 2 mellitus diabetes on metformin alone or metformin with sulfonylurea were randomized to RYBELSUS 3 mg, RYBELSUS 7 mg, RYBELSUS 14 mg or sitagliptin 100 mg once daily.
+In a 26-week, double-blind trial (Trial 3, NCT02607865), 1864 adult patients with type 2 mellitus diabetes on metformin alone or metformin with sulfonylurea were randomized to RYBELSUS 3 mg, RYBELSUS 7 mg, RYBELSUS 14 mg or sitagliptin 100 mg once daily.
 Patients had a mean age of 58 years and 53% were men.
 The mean duration of type 2 diabetes mellitus was 8.6 years, and the mean BMI was 32 kg/m2.
 Overall, 71% were White, 9% were Black or African American and 13% were Asian; 17% identified as Hispanic or Latino ethnicity.
@@ -103,7 +103,7 @@ Overall, 71% were White, 9% were Black or African American and 13% were Asian; 1
 Treatment with RYBELSUS 7 mg and RYBELSUS 14 mg once daily for 26 weeks resulted in a statistically significant reduction in HbA1c compared to sitagliptin 100 mg once daily (see Table 6).
 
 Table 6.
-Results at Week 26 in a Trial of RYBELSUS Compared to Sitagliptin 100 mg Once Daily in Adult Patients with Type 2 Diabetes Mellitus in Combination with Metformin or Metformin with Sulfonylurea
+Trial 3 Results at Week 26 in a Trial of RYBELSUS Compared to Sitagliptin 100 mg Once Daily in Adult Patients with Type 2 Diabetes Mellitus in Combination with Metformin or Metformin with Sulfonylurea
 
 |  | RYBELSUS7 mg | RYBELSUS14 mg | Sitagliptin100 mg |
 | --- | --- | --- | --- |
@@ -133,7 +133,7 @@ The difference from sitagliptin (95% CI) for RYBELSUS 7 mg was -1.6 kg (-2.0, -1
 
 Combination with Metformin or Metformin with SGLT-2 Inhibitors
 
-In a 26-week, double-blind, double-dummy trial (NCT02863419), 711 adult patients with type 2 diabetes mellitus on metformin alone or metformin with SGLT-2 inhibitors were randomized to RYBELSUS 14 mg once daily, liraglutide 1.8 mg subcutaneous injection once daily or placebo.
+In a 26-week, double-blind, double-dummy trial (Trial 4, NCT02863419), 711 adult patients with type 2 diabetes mellitus on metformin alone or metformin with SGLT-2 inhibitors were randomized to RYBELSUS 14 mg once daily, liraglutide 1.8 mg subcutaneous injection once daily or placebo.
 Patients had a mean age of 56 years and 52% were men.
 The mean duration of type 2 diabetes mellitus was 7.6 years and the mean BMI was 33 kg/m2.
 Overall, 73% were White, 4% were Black or African American and 13% were Asian; 6% identified as Hispanic or Latino ethnicity.
@@ -142,7 +142,7 @@ Treatment with RYBELSUS 14 mg once daily for 26 weeks resulted in statistically 
 Treatment with RYBELSUS 14 mg once daily for 26 weeks resulted in non-inferior reductions in HbA1c compared to liraglutide 1.8 mg (see Table 7).
 
 Table 7.
-Results at Week 26 in a Trial of RYBELSUS Compared to Liraglutide and Placebo in Adult Patients with Type 2 Diabetes Mellitus in Combination with Metformin or Metformin with SGLT-2i
+Trial 4 Results at Week 26 in a Trial of RYBELSUS Compared to Liraglutide and Placebo in Adult Patients with Type 2 Diabetes Mellitus in Combination with Metformin or Metformin with SGLT-2i
 
 |  | Placebo | RYBELSUS14 mg | Liraglutide1.8 mg |
 | --- | --- | --- | --- |
@@ -176,7 +176,7 @@ The difference from liraglutide 1.8 mg for RYBELSUS 14 mg was -1.2 (-1.9, -0.6).
 
 Combination in patients with Type 2 Diabetes Mellitus and Moderate Renal Impairment with Metformin alone, Sulfonylurea alone, Basal Insulin alone or Metformin in Combination with either Sulfonylurea or Basal Insulin
 
-In a 26-week, double-blind trial (NCT02827708), 324 adult patients with moderate renal impairment (eGFRCKD-EPI 30-59 mL/min/1.73 m2) were randomized to RYBELSUS 14 mg or placebo once daily.
+In a 26-week, double-blind trial (Trial 5, NCT02827708), 324 adult patients with moderate renal impairment (eGFRCKD-EPI 30-59 mL/min/1.73 m2) were randomized to RYBELSUS 14 mg or placebo once daily.
 RYBELSUS was added to the patient’s stable pre-trial antidiabetic regimen.
 The insulin dose was reduced by 20% at randomization for patients on basal insulin.
 Dose reduction of insulin and sulfonylurea was allowed in case of hypoglycemia; up titration of insulin was allowed but not beyond the pre-trial dose.
@@ -189,7 +189,7 @@ Overall, 96% were White, 4% were Black or African American and 0.3% were Asian; 
 Treatment with RYBELSUS 14 mg once daily for 26 weeks resulted in a statistically significant reduction in HbA1c from baseline compared to placebo (see Table 8).
 
 Table 8.
-Results at Week 26 in a Trial of RYBELSUS Compared to Placebo in Patients with Moderate Renal Impairment
+Trial 5 Results at Week 26 in a Trial of RYBELSUS Compared to Placebo in Patients with Moderate Renal Impairment
 
 |  | Placebo | RYBELSUS14 mg |
 | --- | --- | --- |
@@ -219,7 +219,7 @@ The difference from placebo (95% CI) for RYBELSUS 14 mg was -2.5 kg (-3.2, -1.8)
 
 Combination with Insulin with or without Metformin
 
-In a 26-week double blind trial (NCT03021187), 731 adult patients with type 2 diabetes mellitus inadequately controlled on insulin (basal, basal/bolus or premixed) with or without metformin, were randomized to RYBELSUS 3 mg, 7 mg and 14 mg once daily or placebo once daily.
+In a 26-week double blind trial (Trial 6, NCT03021187), 731 adult patients with type 2 diabetes mellitus inadequately controlled on insulin (basal, basal/bolus or premixed) with or without metformin, were randomized to RYBELSUS 3 mg, 7 mg and 14 mg once daily or placebo once daily.
 All patients reduced their insulin dose by 20% at randomization to reduce the risk of hypoglycemia.
 Patients were allowed to increase the insulin dose only up to the starting insulin dose prior to randomization.
 
@@ -230,7 +230,7 @@ Overall, 51% were White, 7% were Black or African American and 36% were Asian; 1
 Treatment with RYBELSUS 7 mg and 14 mg once daily for 26 weeks resulted in a statistically significant reduction in HbA1c from baseline compared to placebo once daily (see Table 9).
 
 Table 9.
-Results at Week 26 in a Trial of RYBELSUS Compared to Placebo in Adult Patients with Type 2 Diabetes Mellitus in Combination with Insulin alone or with Metformin
+Trial 6 Results at Week 26 in a Trial of RYBELSUS Compared to Placebo in Adult Patients with Type 2 Diabetes Mellitus in Combination with Insulin alone or with Metformin
 
 |  | Placebo | RYBELSUS7 mg | RYBELSUS14 mg |
 | --- | --- | --- | --- |
@@ -255,24 +255,77 @@ b Estimated using an ANCOVA based on data irrespectively of discontinuation of t
 c p<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
 
 The mean baseline body weight was 86.0 kg, 87.1 kg and 84.6 kg in the placebo, RYBELSUS 7 mg and RYBELSUS 14 mg arms, respectively.
-The mean changes from baseline to week 26 were -0.4 kg, -2.4 kg and
-
--3.7 kg in the placebo, RYBELSUS 7 mg and RYBELSUS 14 mg arms, respectively.
+The mean changes from baseline to week 26 were -0.4 kg, -2.4 kg and -3.7 kg in the placebo, RYBELSUS 7 mg and RYBELSUS 14 mg arms, respectively.
 The difference from placebo (95% CI) for RYBELSUS 7 mg was -2.0 kg (-3.0, -1.0) and for RYBELSUS 14 mg was -3.3 kg (-4.2, -2.3).
 
-## 14.4 Cardiovascular Outcomes Trial in Patients with Type 2 Diabetes Mellitus and Cardiovascular Disease
+## 14.4 Cardiovascular Outcomes Trial of RYBELSUS in Adult Patients with Type 2 Diabetes Mellitus and High Risk of Having a Cardiovascular Event
 
-PIONEER 6 (NCT02692716) was a multi-center, multi-national, placebo-controlled, double-blind trial.
-In this trial, 3,183 adult patients with inadequately controlled type 2 diabetes mellitus and atherosclerotic cardiovascular disease were randomized to RYBELSUS 14 mg once daily or placebo for a median observation time of 16 months.
-The trial compared the risk of a Major Adverse Cardiovascular Event (MACE) between RYBELSUS 14 mg and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and cardiovascular disease.
-The primary endpoint, MACE, was the time to first occurrence of a three-part composite outcome which included cardiovascular death, non-fatal myocardial infarction and non-fatal stroke.
+Trial 7 [Semaglutide Cardiovascular Outcomes Trial (SOUL), NCT03914326] was a randomized, double-blind, parallel-group, placebo-controlled trial.
+In this trial, 9,650 patients with type 2 diabetes mellitus and established cardiovascular (CV) disease and/or chronic kidney disease (CKD) (defined as eGFR <60 mL/min/1.73 m2), were randomized to either once daily oral RYBELSUS 14 mg or placebo, in addition to standard of care.
+The primary endpoint, major adverse cardiovascular events (MACE), was the time to first occurrence of a three-part composite outcome which included CV death, non-fatal myocardial infarction (MI) and non-fatal stroke.
 
-Patients eligible to enter the trial were 50 years of age or older and had established, stable, cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or NYHA class II and III heart failure or were 60 years of age or older and had other specified risk factors for cardiovascular disease.
-In total, 1,797 patients (56.5%) had established cardiovascular disease without chronic kidney disease, 354 patients (11.1%) had chronic kidney disease only, and 544 patients (17.1%) had both cardiovascular disease and kidney disease; 488 patients (15.3%) had cardiovascular risk factors without established cardiovascular disease or chronic kidney disease.
+Patients eligible to enter the trial were: 50 years of age or older and with established CV disease or CKD.
+In total, 5,468 patients (56.7%) had established CV disease without CKD, 1,241 (13%) had CKD only, and 2,620 (27%) had both CV disease and CKD.
+Most patients (97%) were treated with one or more glucose lowering medications at baseline: metformin (76%), insulin (51%), SGLT-2 inhibitor (27%), sulfonylurea (29%), and DPP-4 inhibitor (23%).
+At baseline, CV disease and risk factors were managed with lipid-lowering medications (89%), platelet-aggregation inhibitors including aspirin (77%), angiotensin converting enzyme inhibitors or angiotensin II receptor blockers (79%), and beta blockers (64%).
+
+The mean age at baseline was 66.1 years, and 71% of the patients were men.
+Overall, 69% were White, 3% were Black or African American, and 23% were Asian; 14% identified as Hispanic or Latino ethnicity.
+
+The mean duration of diabetes was 15.4 years, the mean BMI was 31.1 kg/m2, the mean HbA1c was 8%, and the mean eGFR was 73.8 mL/min/1.73 m2.
+Concomitant diseases included heart failure (23%), hypertension (91%), previous ischemic stroke (12%), previous MI (40%), and peripheral artery disease (16%).
+In total, 98.4% patients completed the trial, and the vital status was known at the end of the trial for 99.5%.
+
+RYBELSUS significantly reduced the occurrence of MACE.
+The estimated hazard ratio for time to first MACE was 0.86 (95% CI: 0.77, 0.96) over the median follow-up duration of 49.6 months and 49.4 months for patients
+
+randomized to RYBELSUS and placebo, respectively.
+Refer to Table 10 and Figure 1.
+The treatment effect for the primary composite endpoint and its components in Trial 7 are shown in Table 10.
+
+Table 10.
+Trial 7 Treatment Effect for MACE and its Components
+
+|  | PLACEBON=4,825 | RYBELSUS 14 mgN=4,825 | Hazard ratiovs Placebo(95% CI) |
+| --- | --- | --- | --- |
+| Primary composite endpoint |  |  |  |
+| MACE: Composite of CV death,non-fatal MI, non-fatal stroke (time to first occurrence) | 668 (13.8%) | 579 (12.0%) | 0.86 (0.77, 0.96) |
+| CV Death | 320 (6.6%) | 301 (6.2%) | 0.93 (0.80, 1.09) |
+| Non-fatal MI | 253 (5.2%) | 191 (4.0%) | 0.74 (0.61, 0.89) |
+| Non-fatal Stroke | 161 (3.3%) | 144 (3.0%) | 0.88 (0.70, 1.11) |
+
+Note: Data from the in-trial period based on full analysis set defined as all randomized patients.
+
+Time from randomization to each endpoint was analyzed using a Cox proportional hazards model with treatment as categorical fixed factor.
+Subjects without events of interest were censored at the end of their in-trial period.
+For the primary endpoint the hazard ratio and CI were adjusted for the group sequential design using likelihood ratio ordering.
+CV death, non-fatal MI and non-fatal stroke are listed descriptively for supportive purpose.
+CV death includes both CV death and undetermined cause of death.
+
+N=number of patients; %: percentage of participants in the full analysis set with at least one event; CI: confidence interval
+
+Figure 1: Time to First Occurrence of a MACE in Trial 7
+
+Data from the in-trial period based on full analysis set defined as all randomized patients.
+Cumulative incidence estimates are based on time from randomization to first EAC-confirmed MACE with non-CV death modeled as competing risk using the Aalen-Johansen estimator.
+Patients without events of interest were censored at the end of their in-trial observation period.
+Time from randomization to first MACE was analyzed using a Cox proportional hazards model with treatment as categorical fixed factor.
+The hazard ratio and confidence interval are adjusted for the group sequential design using the likelihood ratio ordering.
+HR: Hazard ratio; CI: confidence interval.
+
+Cardiovascular Outcomes Trial in Patients with Type 2 Diabetes Mellitus and Cardiovascular Disease
+
+Trial 8 [Peptide Innovation for Early Diabetes Treatment (PIONEER 6), NCT02692716] was a multi-center, multi-national, placebo-controlled, double-blind trial.
+In this trial, 3,183 adult patients with inadequately controlled type 2 diabetes mellitus and atherosclerotic CV disease were randomized to RYBELSUS 14 mg once daily or placebo for a median observation time of 16 months.
+The trial compared the risk of a MACE between RYBELSUS 14 mg and placebo when added to current standard of care treatments for diabetes and CV disease.
+The primary endpoint, MACE, was the time to first occurrence of a three-part composite outcome which included CV death, non-fatal MI and non-fatal stroke.
+
+Patients eligible to enter the trial were 50 years of age or older and had established, stable, CV, cerebrovascular, peripheral artery disease, CKD or NYHA class II and III heart failure or were 60 years of age or older and had other specified risk factors for CV disease.
+In total, 1,797 patients (56.5%) had established CV disease without CKD, 354 patients (11.1%) had CKD only, and 544 patients (17.1%) had both CV disease and CKD; 488 patients (15.3%) had CV risk factors without established CV disease or CKD.
 The mean age at baseline was 66 years and 68% were men.
 The mean duration of diabetes was 14.9 years and mean BMI was 32 kg/m2.
 Overall, 72% were White, 6% were Black or African American and 20% were Asian; 16% identified as Hispanic or Latino ethnicity.
-Concomitant diseases of patients in this trial included, but were not limited to, heart failure (12%), history of ischemic stroke (8%) and history of a myocardial infarction (36%).
+Concomitant diseases of patients in this trial included, but were not limited to, heart failure (12%), history of ischemic stroke (8%) and history of a MI (36%).
 In total, 99.7% of the patients completed the trial and the vital status was known at the end of the trial for 100%.
 
 For the primary analysis, a Cox proportional hazards model was used to test for non-inferiority of RYBELSUS 14 mg to placebo for time to first MACE using a risk margin of 1.3.

@@ -6,7 +6,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 - •Acute Pancreatitis [see Warnings and Precautions (5.2)]
 - •Diabetic Retinopathy Complications [see Warnings and Precautions (5.3)]
 - •Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin [see Warnings and Precautions (5.4)]
-- •Acute Kidney Injury [see Warnings and Precautions (5.5)]
+- •Acute Kidney Injury Due to Volume Depletion [see Warnings and Precautions (5.5)]
 - •Severe Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.6)]
 - •Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
 - •Acute Gallbladder Disease [see Warnings and Precautions (5.8)]
@@ -22,12 +22,12 @@ Below is a display of the safety results of the adequate and well-controlled stu
 Pool of Placebo-Controlled Trials
 
 The data in Table 2 are derived from 2 placebo-controlled trials in adult patients with type 2 diabetes mellitus [see Clinical Studies (14)].
-These data reflect exposure of 1071 patients to RYBELSUS with a mean duration of exposure of 41.8 weeks.
+These data reflect exposure of 1,071 patients to RYBELSUS with a mean duration of exposure of 41.8 weeks.
 The mean age of patients was 58 years, 3.9% were 75 years or older and 52% were male.
 In these trials, 63% were White, 6% were Black or African American and 27% were Asian; 19% identified as Hispanic or Latino ethnicity.
 At baseline, patients had type 2 mellitus diabetes for an average of 9.4 years and had a mean HbA1c of 8.1%.
 At baseline, 20.1% of the population reported retinopathy.
-Baseline estimated renal function was normal (eGFR ≥90 mL/min/1.73m2) in 66.2%, mildly impaired (eGFR 60 to 90 mL/min/1.73m2) in 32.4% and moderately impaired (eGFR 30 to 60 mL/min/1.73m2) in 1.4% of patients.
+Baseline estimated renal function was normal (eGFR ≥90 mL/min/1.73 m2) in 66.2%, mildly impaired (eGFR 60 to 90 mL/min/1.73 m2) in 32.4% and moderately impaired (eGFR 30 to 60 mL/min/1.73 m2) in 1.4% of patients.
 
 Pool of Placebo- and Active-Controlled Trials
 
@@ -37,7 +37,7 @@ The mean age of patients was 58 years, 5% were 75 years or older and 55% were ma
 In these trials, 65% were White, 6% were Black or African American and 24% were Asian; 15% identified as Hispanic or Latino ethnicity.
 At baseline, patients had type 2 diabetes mellitus for an average of 8.8 years and had a mean HbA1c of 8.2%.
 At baseline, 16.6% of the population reported retinopathy.
-Baseline estimated renal function was normal (eGFR ≥90 mL/min/1.73m2) in 65.9%, mildly impaired (eGFR 60 to 90 mL/min/1.73m2) in 28.5% and moderately impaired (eGFR 30 to 60 mL/min/1.73m2) in 5.4% of the patients.
+Baseline estimated renal function was normal (eGFR ≥90 mL/min/1.73 m2) in 65.9%, mildly impaired (eGFR 60 to 90 mL/min/1.73 m2) in 28.5% and moderately impaired (eGFR 30 to 60 mL/min/1.73 m2) in 5.4% of the patients.
 
 Common Adverse Reactions
 
@@ -47,7 +47,7 @@ These adverse reactions occurred more commonly on RYBELSUS than on placebo and o
 Table 2.
 Adverse Reactions in Placebo-Controlled Trials Reported in ≥5% of RYBELSUS-Treated Patients with Type 2 Diabetes Mellitus
 
-| Adverse Reaction | Placebo(N=362)% | RYBELSUS 7 mg(N=356)% | RYBELSUS 14 mg(N=356)% |
+| Adverse Reaction | Placebo (N=362) % | RYBELSUS 7 mg (N=356) % | RYBELSUS 14 mg (N=356) % |
 | --- | --- | --- | --- |
 | Nausea | 6 | 11 | 20 |
 | Abdominal Pain | 4 | 10 | 11 |
@@ -57,6 +57,12 @@ Adverse Reactions in Placebo-Controlled Trials Reported in ≥5% of RYBELSUS-Tre
 | Constipation | 2 | 6 | 5 |
 
 In the pool of placebo- and active-controlled trials, the types and frequency of common adverse reactions, excluding hypoglycemia, were similar to those listed in Table 2.
+
+In a 4-year CV outcomes trial (Trial 7), 4,825 patients were randomized to RYBELSUS for a median follow-up of 49.6 months and 4,825 patients were randomized to placebo for a median follow-up of 49.4 months [see Clinical Studies (14.4)].
+Safety data collection was limited to serious adverse events (including death), adverse events leading to discontinuation, and adverse events of special interest.
+Study drug was permanently discontinued due to an adverse event in 15.5% of RYBELSUS-treated patients and 11.6% of placebo-treated patients.
+
+Additional information from this trial is included in subsequent sections below, when relevant.
 
 Gastrointestinal Adverse Reactions
 
@@ -75,7 +81,7 @@ Diabetic Retinopathy Complications: In the pool of placebo- and active-controlle
 Hypoglycemia: Table 3 summarizes the incidence of hypoglycemia by various definitions in the placebo-controlled trials.
 
 Table 3.
-Hypoglycemia Adverse Reactions in Placebo-Controlled Trials In Patients with Type 2 Diabetes Mellitus
+Hypoglycemia Adverse Reactions in Placebo-Controlled Trials in Patients with Type 2 Diabetes Mellitus
 
 |  | Placebo | RYBELSUS 7 mg | RYBELSUS 14 mg |
 | --- | --- | --- | --- |
@@ -99,8 +105,10 @@ Hypoglycemia was more frequent when RYBELSUS was used in combination with insuli
 Increases in Amylase and Lipase: In placebo-controlled trials, patients exposed to RYBELSUS 7 mg and 14 mg had a mean increase from baseline in amylase of 10% and 13%, respectively and lipase of 30% and 34%, respectively.
 These changes were not observed in placebo-treated patients.
 
-Cholelithiasis: In placebo-controlled trials, cholelithiasis was reported in 1% of patients treated with RYBELSUS 7 mg.
-Cholelithiasis was not reported in RYBELSUS 14 mg or placebo-treated patients.
+Cholelithiasis: In placebo-controlled trials to improve glycemic control, cholelithiasis was reported in 1% of patients treated with RYBELSUS 7 mg.
+
+In a 4-year CV outcomes trial (Trial 7), cholelithiasis was reported in 1.1% of patients treated with RYBELSUS 14 mg and in 0.9% of placebo-treated patients.
+In Trial 7, cholecystitis was reported in 1.1% of patients treated with RYBELSUS 14 mg and in 0.7% of placebo-treated patients.
 
 Increases in Heart Rate: In placebo-controlled trials, RYBELSUS 7 mg and 14 mg resulted in a mean increase in heart rate of 1 to 3 beats per minute.
 There was no change in heart rate in placebo-treated patients.
@@ -110,9 +118,10 @@ There was no change in heart rate in placebo-treated patients.
 The following adverse reactions have been reported during post-approval use of semaglutide, the active ingredient of RYBELSUS.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- •Gastrointestinal: ileus
+- •Gastrointestinal: acute pancreatitis and necrotizing pancreatitis, sometimes resulting in death; ileus, intestinal obstruction, severe constipation including fecal impaction
 - •Hypersensitivity: anaphylaxis, angioedema, rash, urticaria
 - •Hepatobiliary: cholecystitis, cholelithiasis requiring cholecystectomy
-- •Nervous system disorders: dizziness, dysesthesia, dysgeusia
+- •Nervous system disorders: dizziness, dysesthesia, dysgeusia, headache
 - •Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation
+- •Renal: acute kidney injury
 - •Skin and Subcutaneous Tissue: alopecia
