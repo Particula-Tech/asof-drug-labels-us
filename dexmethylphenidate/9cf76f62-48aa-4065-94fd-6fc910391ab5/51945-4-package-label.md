@@ -149,3 +149,43 @@ Dispense in tight container (USP).
 Dispense with Medication Guide attached or provided separately.
 
 SANDOZ
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 66758-241-31 Rx only
+
+Focalin XR®
+
+(dexmethylphenidate HCl)
+
+extended-release capsules
+
+35 mg
+
+Dispense with Medication Guide
+
+attached or provided separately.
+
+30 capsules
+
+SANDOZ
+
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL
+
+NDC 66758-235-31 Rx only
+
+Focalin XR®
+
+(dexmethylphenidate HCl)
+
+extended-release capsules
+
+5 mg
+
+Dispense with Medication Guide
+
+attached or provided separately.
+
+30 capsules
+
+SANDOZ
