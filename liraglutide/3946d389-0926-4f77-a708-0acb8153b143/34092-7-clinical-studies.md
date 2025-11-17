@@ -47,15 +47,15 @@ Changes in Weight at Week 56 for Studies 1, 2, and 3
 
 |  | Study 1 (Obesity or overweight with comorbidity) |  | Study 2 (Type 2 diabetes with obesity or overweight) |  | Study 3 (Obesity or overweight with comorbidity following at least 5% weight loss with diet) |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | SAXENDAN=2487 | PlaceboN=1244 | SAXENDAN=423 | PlaceboN=212 | SAXENDAN=212 | PlaceboN=210 |
+|  | SAXENDA N=2487 | Placebo N=1244 | SAXENDA N=423 | Placebo N=212 | SAXENDA N=212 | Placebo N=210 |
 | Weight |  |  |  |  |  |  |
-| Baseline mean (SD) (kg) | 106.2(21.2) | 106.2 (21.7) | 105.7(21.9) | 106.5(21.3) | 100.4(20.8) | 98.7(21.2) |
+| Baseline mean (SD) (kg) | 106.2 (21.2) | 106.2 (21.7) | 105.7 (21.9) | 106.5 (21.3) | 100.4 (20.8) | 98.7 (21.2) |
 | Percent change from baseline (LSMean) | -7.4 | -3 | -5.4 | -1.7 | -4.9 | 0.3 |
-| Difference from placebo (LSMean) (95% CI) | -4.5*(-5.2;-3.8) |  | -3.7*(-4.7;-2.7) |  | -5.2*(-6.8;-3.5) |  |
+| Difference from placebo (LSMean) (95% CI) | -4.5* (-5.2; -3.8) |  | -3.7* (-4.7; -2.7) |  | -5.2* (-6.8; -3.5) |  |
 | % of Patients losing greater than or equal to 5% body weight | 62.3% | 34.4% | 49% | 16.4% | 44.2% | 21.7% |
-| Difference from placebo (LSMean) (95% CI) | 27.9*(23.9;31.9) |  | 32.6*(25.1;40.1) |  | 22.6*(13.9;31.3) |  |
+| Difference from placebo (LSMean) (95% CI) | 27.9* (23.9; 31.9) |  | 32.6* (25.1; 40.1) |  | 22.6* (13.9; 31.3) |  |
 | % of Patients losing greater than 10% body weight | 33.9% | 15.4% | 22.4% | 5.5% | 25.4% | 6.9% |
-| Difference from placebo (LSMean) (95% CI) | 18.5*(15.2;21.7) |  | 16.9*(11.7;22.1) |  | 18.5*(11.7;25.3) |  |
+| Difference from placebo (LSMean) (95% CI) | 18.5* (15.2; 21.7) |  | 16.9* (11.7; 22.1) |  | 18.5* (11.7; 25.3) |  |
 
 SD = Standard Deviation; CI = Confidence Interval
 
@@ -89,7 +89,7 @@ The numbers and percentages of patients known to have lost greater than or equal
 - Table 5.
   Changes in Weight at Week 56 and Week 160 for Study 1 (Subset of Patients with Abnormal Blood Glucose at Randomization)
 
-|  | SAXENDAN=1505 | PlaceboN=749 |
+|  | SAXENDA N=1505 | Placebo N=749 |
 | --- | --- | --- |
 | Baseline mean body weight (SD) (kg) | 107.5 (21.6) | 107.9 (21.8) |
 | Number (%) of patients known to lose greater than or equal to 5% body weight at 56 weeks | 817 (56%) | 182 (25%) |
@@ -110,42 +110,36 @@ Results from Study 3, which also enrolled patients without diabetes mellitus, we
 1. Table 6.
    Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 1 (Patients without Diabetes)
 
-|  | SAXENDAN = 2487 |  | PlaceboN = 1244 |  |  |
+|  | SAXENDA N=2487 |  | Placebo N=1244 |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Baseline | Change fromBaseline(LSMean1) | Baseline | Change from Baseline(LSMean1) | SAXENDA minus Placebo(LSMean) |
+|  | Baseline | Change from Baseline (LSMean1) | Baseline | Change from Baseline (LSMean1) | SAXENDA minus Placebo (LSMean) |
 | Waist Circumference (cm) | 115 | -8.2 | 114.5 | -4 | -4.2 |
 | Systolic Blood Pressure (mmHg) | 123 | -4.3 | 123.3 | -1.5 | -2.8 |
 | Diastolic Blood Pressure (mmHg) | 78.7 | -2.7 | 78.9 | -1.8 | -0.9 |
 | Heart Rate (bpm)2 | 71.4 | 2.6 | 71.3 | 0.1 | 2.5 |
 | HbA1c (%) | 5.6 | -0.3 | 5.6 | -0.1 | -0.2 |
-|  | Baseline | % Changefrom Baseline(LSMean1) | Baseline | % Change from Baseline(LSMean1) | Relative Difference of SAXENDA to Placebo(LSMean) |
+|  | Baseline | % Change from Baseline (LSMean1) | Baseline | % Change from Baseline (LSMean1) | Relative Difference of SAXENDA to Placebo (LSMean) |
 | Total Cholesterol (mg/dL)* | 193.8 | -3.2 | 194.4 | -0.9 | -2.3 |
 | LDL Cholesterol (mg/dL)* | 111.8 | -3.1 | 112.3 | -0.7 | -2.4 |
 | HDL Cholesterol (mg/dL)* | 51.4 | 2.3 | 50.9 | 0.5 | 1.9 |
 | Triglycerides (mg/dL)† | 125.7 | -13 | 128.3 | -4.1 | -7.1 |
 
-Based on last observation carried forward method while on study drug
+1. Based on last observation carried forward method while on study drug
+2. 1 Least squares mean adjusted for treatment, country, sex, pre-diabetes status at screening, baseline BMI stratum and an interaction between pre-diabetes status at screening and BMI stratum as fixed factors, and the baseline value as covariate.
+3. 2 See Warnings and Precautions (5.5)
+4. * Baseline value is the geometric mean
+5. †Values are baseline median, median % change, and the Hodges-Lehmann estimate of the median treatment difference.Table 7.
+   Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 2 (Patients with Diabetes Mellitus)
 
-1 Least squares mean adjusted for treatment, country, sex, pre-diabetes status at screening, baseline BMI stratum and an interaction between pre-diabetes status at screening and BMI stratum as fixed factors, and the baseline value as covariate.
-
-2 See Warnings and Precautions (5.5)
-
-* Baseline value is the geometric mean
-
-†Values are baseline median, median % change, and the Hodges-Lehmann estimate of the median treatment difference.
-
-- Table 7.
-  Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 2 (Patients with Diabetes Mellitus)
-
-|  | SAXENDAN = 423 |  | PlaceboN = 212 |  |  |
+|  | SAXENDA N=423 |  | Placebo N=212 |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Baseline | Change from Baseline(LSMean1) | Baseline | Change From Baseline(LSMean1) | SAXENDA minus Placebo(LSMean) |
+|  | Baseline | Change from Baseline (LSMean1) | Baseline | Change From Baseline (LSMean1) | SAXENDA minus Placebo (LSMean) |
 | Waist Circumference (cm) | 118.1 | -6 | 117.3 | -2.8 | -3.2 |
 | Systolic Blood Pressure (mmHg) | 128.9 | -3 | 129.2 | -0.4 | -2.6 |
 | Diastolic Blood Pressure (mmHg) | 79 | -1 | 79.3 | -0.6 | -0.4 |
 | Heart Rate (bpm)2 | 74 | 2 | 74 | -1.5 | 3.4 |
 | HbA1c (%) | 7.9 | -1.3 | 7.9 | -0.4 | -0.9 |
-|  | Baseline | % Change from Baseline(LSMean1) | Baseline | % Change From Baseline(LSMean1) | Relative Difference of SAXENDA to Placebo(LSMean) |
+|  | Baseline | % Change from Baseline (LSMean1) | Baseline | % Change From Baseline (LSMean1) | Relative Difference of SAXENDA to Placebo (LSMean) |
 | Total Cholesterol (mg/dL)* | 171 | -1.4 | 169.4 | 2.4 | -3.7 |
 | LDL Cholesterol (mg/dL)* | 86.4 | 0.9 | 85.2 | 3.3 | -2.3 |
 | HDL Cholesterol (mg/dL)* | 45.2 | 4.8 | 45.4 | 1.9 | 2.9 |
@@ -159,14 +153,14 @@ Based on last observation carried forward method while on study drug
 
 * Baseline value is the geometric mean
 
-†Values are baseline median, median % change, and the Hodges-Lehmann estimate of the median treatment difference.
+† Values are baseline median, median % change, and the Hodges-Lehmann estimate of the median treatment difference.
 
 ## 14.2 Weight Management Trial in Pediatric Patients Ages 12 and Older with Obesity
 
 SAXENDA was evaluated in a 56-week, double-blind, randomized, parallel group, placebo controlled multi-center trial in 251 pubertal pediatric patients aged 12 to 17 years, with BMI corresponding to 30 kg/m2 or greater for adults by international cut-off points1 and BMI of 95th percentile or greater for age and sex (NCT02918279).
 After a 12-week lifestyle run-in period, patients were randomized 1:1 to SAXENDA once-daily or placebo once-daily.
 The SAXENDA dose was titrated to 3 mg over a 4- to 8-week period based on tolerability as judged by the investigator.
-Escalation of the trial product was not allowed if the subject had a self-monitored plasma glucose (SMPG) < 56 mg/dL or < 70 mg/dL in the presence of symptoms of hypoglycemia during the week prior to or during the dose escalation visits.
+Escalation of the trial product was not allowed if the subject had a self-monitored plasma glucose (SMPG) <56 mg/dL or <70 mg/dL in the presence of symptoms of hypoglycemia during the week prior to or during the dose escalation visits.
 The proportion of patients who reached the 3 mg dose was 82.4%; for 8.8% of patients 2.4 mg was the maximum tolerated dose.
 
 The mean age was 14.5 years: 40.6% of patients were male, 87.6% were White, 0.8% were Asian, 8% were Black or African American; 22.3% were of Hispanic or Latino ethnicity.
@@ -191,7 +185,7 @@ Changes in waist circumference and cardiometabolic parameters with SAXENDA are s
 Table 8.
 Changes in Weight and BMI at Week 56 for Study 4 (Pediatric Patients Ages 12 to Less than 18)
 
-|  | SAXENDAN=125 | PlaceboN=126 | SAXENDA minus Placebo |
+|  | SAXENDA N=125 | Placebo N=126 | SAXENDA minus Placebo |
 | --- | --- | --- | --- |
 | Body Weight |  |  |  |
 | Baseline mean Body Weight (kg) | 99.3 | 102.2 |  |
@@ -209,7 +203,7 @@ Missing observations were imputed from the placebo arm based on a jump to refere
 Table 9.
 Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 4 (Pediatric Patients Ages 12 to Less than 18)
 
-|  | SAXENDAN = 125 |  | PlaceboN = 126 |  |  |
+|  | SAXENDA N=125 |  | Placebo N=126 |  |  |
 | --- | --- | --- | --- | --- | --- |
 |  | Baseline | Change from Baseline | Baseline | Change from Baseline | SAXENDA minus Placebo |
 | Waist Circumference (cm) | 105 | -4.35 | 107 | -1.42 | -2.93 |
@@ -229,16 +223,3 @@ Baseline values are means, changes from baseline at week 56 are estimated means 
 Missing observations were imputed from the placebo arm based on a jump to reference multiple (x100) imputation approach.
 
 1. ** Baseline values are geometric means.
-
-## 14.3 Cardiovascular Outcomes Trial of Liraglutide 1.8 mg in Adult Patients with Type 2 Diabetes and Cardiovascular Disease
-
-Liraglutide 1.8 mg (Victoza) is used in the treatment of type 2 diabetes mellitus in adults.
-The efficacy of liraglutide at doses below 3 mg daily has not been established for chronic weight management.
-
-The LEADER trial (NCT01179048) randomized 9340 patients with inadequately controlled type 2 diabetes and cardiovascular disease to liraglutide 1.8 mg or placebo in addition to standard of care treatments for type 2 diabetes for a median duration of 3.5 years.
-Patients either were 50 years of age or older with established, stable cardiovascular, cerebrovascular, peripheral vascular disease, chronic renal failure or chronic heart failure (80% of patients), or were 60 years of age or older and had other specified risk factors of vascular disease (20% of patients).The population was 64% male, 78% White, 10% Asian and 8% Black or African American; 12% of the population was Hispanic or Latino Ethnicity.
-
-In total, 96.8% of the patients completed the trial; vital status was known at the end of the trial for 99.7%.
-The primary endpoint was the time from randomization to first occurrence of a major adverse cardiovascular event (MACE) defined as: cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke.
-No increased risk for MACE was observed with liraglutide 1.8 mg.
-The total number of primary component MACE endpoints was 1302 (608 [13.0%] with liraglutide 1.8 mg and 694 [14.9%] with placebo).

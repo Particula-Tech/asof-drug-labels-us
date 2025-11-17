@@ -14,7 +14,7 @@ Prior to first use, SAXENDA should be stored in a refrigerator between 36ºF to 
 Do not store in the freezer or directly adjacent to the refrigerator cooling element.
 Do not freeze SAXENDA and do not use SAXENDA if it has been frozen.
 
-After initial use of the SAXENDA pen, the pen can be stored for 30 days at controlled room temperature (59°F to 86°F; 15°C to 30°C) or in a refrigerator (36°F to 46°F; 2°C to 8°C).
+After initial use of the SAXENDA pen, the pen can be stored for 30 days at controlled room temperature 59°F to 86°F (15°C to 30°C) or in a refrigerator 36°F to 46°F (2°C to 8°C).
 Keep the pen cap on when not in use.
 Protect SAXENDA from excessive heat and sunlight.
 Always remove and safely discard the needle after each injection and store the SAXENDA pen without an injection needle attached.

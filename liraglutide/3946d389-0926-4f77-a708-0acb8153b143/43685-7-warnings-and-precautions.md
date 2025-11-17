@@ -20,7 +20,8 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 ## 5.2 Acute Pancreatitis
 
 Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, including liraglutide [see Adverse Reactions (6)].
-After initiation of SAXENDA, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
+
+After initiation of SAXENDA, observe patients carefully for signs and symptoms of acute pancreatitis which may include persistent or severe abdominal pain (sometimes radiating to the back) and which may or may not be accompanied by nausea or vomiting.
 If pancreatitis is suspected, discontinue SAXENDA and initiate appropriate management.
 
 ## 5.3 Acute Gallbladder Disease
@@ -34,7 +35,7 @@ If cholelithiasis is suspected, gallbladder studies and appropriate clinical fol
 ## 5.4 Hypoglycemia
 
 Adult patients with type 2 diabetes mellitus on an insulin secretagogue (e.g., sulfonylurea) or insulin may have an increased risk of hypoglycemia with use of SAXENDA, including severe hypoglycemia.
-In patients with type 2 diabetes, monitor blood glucose prior to starting SAXENDA and during SAXENDA treatment [see Dosage and Administration (2) and Adverse Reactions (6.1)].
+In patients with type 2 diabetes, monitor blood glucose prior to starting SAXENDA and during SAXENDA treatment [see Dosage and Administration (2), Adverse Reactions (6.1)].
 
 The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin.
 Inform patients using these concomitant medications of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
@@ -67,9 +68,8 @@ Monitor renal function in patients reporting adverse reactions to SAXENDA that c
 ## 5.7 Severe Gastrointestinal Adverse Reactions
 
 Use of GLP-1 receptor agonists, including liraglutide, has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
-In SAXENDA clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving SAXENDA (4.8%) than placebo
-
-(1.4%).
+In SAXENDA clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving SAXENDA (4.8%) than placebo (1.4%).
+Severe gastrointestinal adverse reactions have also been reported postmarketing with GLP-1 receptor agonists.
 SAXENDA is not recommended in patients with severe gastroparesis.
 
 ## 5.8 Hypersensitivity Reactions

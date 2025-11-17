@@ -21,7 +21,7 @@
   Then follow the dosage escalation schedule in Table 1 to reduce the risk of gastrointestinal adverse reactions [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
 
 Table 1.
-Dose Escalation Schedule
+Dosage Escalation Schedule
 
 | Week | Daily Dose |
 | --- | --- |

@@ -17,7 +17,7 @@ Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck,
 
 Acute Pancreatitis
 
-Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting.
+Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by nausea or vomiting.
 Instruct patients to discontinue SAXENDA promptly and contact their healthcare provider if pancreatitis is suspected [see Warnings and Precautions (5.2)].
 
 Acute Gallbladder Disease
@@ -73,13 +73,13 @@ Never Share a SAXENDA Pen Between Patients
 Inform patients that they should never share a SAXENDA pen with another person, even if the needle is changed.
 Sharing of the pen between patients may pose a risk of transmission of infection.
 
+Marketed by: Novo Nordisk Inc., Plainsboro, NJ 08536
+
 SAXENDA® and VICTOZA® are registered trademarks of Novo Nordisk A/S.
 
 PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
 © 2025 Novo Nordisk
-
-Manufactured by: Novo Nordisk A/S DK-2880 Bagsvaerd, Denmark
 
 For information about SAXENDA contact: Novo Nordisk Inc. 800 Scudders Mill Road Plainsboro, NJ 08536
 

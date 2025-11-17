@@ -75,11 +75,11 @@ Compared to healthy subjects, liraglutide AUC in subjects with mild, moderate an
 
 Drug Interactions
 
-In vitro assessment of drug−drug interactions
+In vitro assessment of drug-drug interactions
 
 Liraglutide has low potential for pharmacokinetic drug-drug interactions related to cytochrome P450 (CYP) and plasma protein binding.
 
-In vivo assessment of drug−drug interactions
+In vivo assessment of drug-drug interactions
 
 The drug-drug interaction studies were performed at steady state with liraglutide 1.8 mg/day.
 The effect on rate of gastric emptying was equivalent between liraglutide 1.8 mg and 3 mg (acetaminophen AUC0-300min).

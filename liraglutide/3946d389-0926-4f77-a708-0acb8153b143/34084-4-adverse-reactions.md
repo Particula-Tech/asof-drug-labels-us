@@ -32,9 +32,9 @@ Adverse reactions reported in greater than or equal to 2% of SAXENDA-treated adu
 Adverse reactions reported in greater than or equal to 3% of SAXENDA-treated pediatric patients and more frequently than in placebo-treated patients are shown in Table 3.
 
 - Table 2.
-  Adverse Reactions Occurring in > 2% of SAXENDA-treated Adult Patients and More Frequently than Placebo
+  Adverse Reactions Occurring in ≥2% of SAXENDA-treated Adult Patients and More Frequently than Placebo
 
-|  | PlaceboN = 1941% | SAXENDAN = 3384% |
+|  | PlaceboN=1941% | SAXENDAN=3384% |
 | --- | --- | --- |
 | Nausea | 13.8 | 39.3 |
 | Diarrhea | 9.9 | 20.9 |
@@ -68,9 +68,9 @@ See text below for further information regarding hypoglycemia in patients with a
 T2DM = type 2 diabetes mellitus.
 
 Table 3.
-Adverse Reactions Occurring in > 3% of SAXENDA-treated Pediatric Patients and More Frequently than Placebo in a 56 Week Clinical Trial
+Adverse Reactions Occurring in ≥3% of SAXENDA-treated Pediatric Patients and More Frequently than Placebo in a 56 Week Clinical Trial
 
-|  | PlaceboN = 126% | SAXENDAN = 125% |
+|  | PlaceboN=126% | SAXENDAN=125% |
 | --- | --- | --- |
 | Nausea | 14.3 | 42.4 |
 | Vomiting | 4 | 34.4 |
@@ -142,6 +142,15 @@ There have been reports of gastrointestinal adverse reactions, such as nausea, v
 
 In a pediatric clinical trial, 8% of patients treated with SAXENDA versus no patients who received placebo discontinued treatment as a result of gastrointestinal adverse reactions.
 Most adverse reactions leading to discontinuation were due to vomiting and nausea (4.8% and 3.2% of SAXENDA-treated patients, respectively).
+
+Cardiovascular Safety
+
+Cardiovascular safety was assessed (LEADER, NCT01179048) in 9,340 patients with inadequately controlled type 2 diabetes and cardiovascular disease randomized to liraglutide 1.8 mg or placebo in addition to standard of care treatments for type 2 diabetes for a median duration of 3.5 years.
+The primary endpoint was the time from randomization to first occurrence of a major adverse cardiovascular event (MACE) defined as: cardiovascular death, non-fatal myocardial infarction, or non-fatal stroke.
+No increased risk for MACE was observed with liraglutide 1.8 mg.
+The total number of primary component MACE endpoints was 1,302 [608 (13.0%) with liraglutide 1.8 mg and 694 (14.9%) with placebo].
+Liraglutide 1.8 mg (Victoza) is used in the treatment of type 2 diabetes mellitus in adults.
+The efficacy of liraglutide at doses below 3 mg daily has not been established for weight reduction.
 
 Asthenia, Fatigue, Malaise, Dysgeusia and Dizziness
 
@@ -226,23 +235,23 @@ Because these reactions are reported voluntarily from a population of uncertain 
 
 Gastrointestinal
 
-- acute pancreatitis; hemorrhagic and necrotizing pancreatitis, sometimes resulting in death; ileus, nausea, vomiting and diarrhea leading to dehydration
+Acute pancreatitis; hemorrhagic and necrotizing pancreatitis, sometimes resulting in death; ileus, intestinal obstruction, severe constipation including fecal impaction, nausea, vomiting and diarrhea leading to dehydration
 
 Hepatobiliary
 
-- hyperbilirubinemia, elevations of liver enzymes, cholestasis and hepatitis
+- Hyperbilirubinemia, elevations of liver enzymes, cholestasis and hepatitis
 
 Hypersensitivity
 
-- rash, pruritus, angioedema and anaphylactic reactions
+- Rash, pruritus, angioedema and anaphylactic reactions
 
 Neoplasms
 
-- medullary thyroid carcinoma
+- Medullary thyroid carcinoma
 
 Neurologic
 
-- dysesthesia
+- Dysesthesia, headache
 
 Pulmonary
 
@@ -250,7 +259,7 @@ Pulmonary
 
 Renal
 
-Acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis; increased serum creatinine
+Acute kidney injury, sometimes requiring hemodialysis; increased serum creatinine
 
 General Disorders and Administration Site Conditions
 
