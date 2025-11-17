@@ -1,18 +1,26 @@
 {
   "application_numbers": [
     "NDA203214",
-    "NDA208246"
+    "NDA208246",
+    "NDA213082"
   ],
   "inn": "tofacitinib",
   "labeler": "U.S. Pharmaceuticals",
   "package_ndcs": [
     "63539-012-02",
     "63539-016-02",
+    "63539-029-01",
+    "63539-029-02",
     "63539-501-14",
     "63539-501-30",
     "63539-502-30"
   ],
   "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "tofacitinib",
+      "name": "XELJANZ"
+    },
     {
       "form": "TABLET, EXTENDED RELEASE",
       "generic": "tofacitinib",

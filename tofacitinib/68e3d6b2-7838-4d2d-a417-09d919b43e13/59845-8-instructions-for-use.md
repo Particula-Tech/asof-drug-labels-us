@@ -1,27 +1,27 @@
 # INSTRUCTIONS FOR USE
 
-XELJANZ® (ZEL' JANS') (tofacitinib) Oral Solution
+XELJANZ® (ZEL' JANS') (tofacitinib) oral solution
 
-Read this Instructions for Use before you start taking XELJANZ Oral Solution and each time you get a refill.
+Read this Instructions for Use before you start taking XELJANZ oral solution and each time you get a refill.
 There may be new information.
 This leaflet does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
-Important information about measuring XELJANZ Oral Solution:
+Important information about measuring XELJANZ oral solution:
 
-Always use the oral dosing syringe that comes with XELJANZ Oral Solution to measure and take your prescribed dose.
+Always use the oral dosing syringe that comes with XELJANZ oral solution to measure and take your prescribed dose.
 Ask your healthcare provider or pharmacist to show you how to measure your prescribed dose if you are not sure.
 
 How should I store XELJANZ?
 
-- •Store XELJANZ Oral Solution at room temperature between 68°F to 77°F (20°C to 25°C).
-- •Always store XELJANZ Oral Solution in the original bottle and carton to protect from light.
+- •Store XELJANZ oral solution at room temperature between 68°F to 77°F (20°C to 25°C).
+- •Always store XELJANZ oral solution in the original bottle and carton to protect from light.
 
 Keep XELJANZ and all medicines out of the reach of children.
 
-Use XELJANZ Oral Solution within 60 days of opening the bottle.
-Throw away (discard) remaining XELJANZ Oral Solution after 60 days.
+Use XELJANZ oral solution within 60 days of opening the bottle.
+Throw away (discard) remaining XELJANZ oral solution after 60 days.
 
-To help you remember when to throw away your bottle of XELJANZ Oral Solution, you can write the date when you first start to use it on the carton and below:
+To help you remember when to throw away your bottle of XELJANZ oral solution, you can write the date when you first start to use it on the carton and below:
 
 Date of first use ____ / ____ / ____.
 
@@ -29,16 +29,16 @@ Before each use:
 
 Wash your hands with soap and water and place the items from the carton on a clean, flat surface.
 
-Each carton of XELJANZ Oral Solution contains:
+Each carton of XELJANZ oral solution contains:
 
 - •1 press-in bottle adapter
-- •1 bottle of XELJANZ Oral Solution
+- •1 bottle of XELJANZ oral solution
 - •1 oral dosing syringe
 
 Step 1.
 Remove bottle from carton
 
-Open the carton and remove the bottle of XELJANZ Oral Solution.
+Open the carton and remove the bottle of XELJANZ oral solution.
 
 Step 2.
 Open bottle
@@ -107,7 +107,7 @@ Close the bottle tightly by turning the child-resistant cap to the right (clockw
 
 Place the bottle back into the carton.
 
-Close the carton to protect XELJANZ Oral Solution from light.
+Close the carton to protect XELJANZ oral solution from light.
 
 Step 11.
 Clean oral dosing syringe
@@ -119,14 +119,14 @@ Rinse both with water after each use.
 Allow to air dry.
 When the barrel and plunger are dry, put the oral dosing syringe back together by inserting the plunger into the barrel.
 
-Store the oral dosing syringe with the XELJANZ Oral Solution.
+Store the oral dosing syringe with the XELJANZ oral solution.
 
 Do not throw away the oral dosing syringe.
 
-LAB-1422-2.0
-
-This product's labeling may have been updated.
-For the most recent prescribing information, please visit www.pfizer.com.
+LAB-1422-3.0
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
-Approved: May 2024
+Approved: October 2025
+
+This Instructions for Use may have been updated.
+For the most recent Instructions for Use, please visit www.pfizer.com.
