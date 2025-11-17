@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA212593"
+  ],
+  "inn": "vasopressin",
+  "labeler": "Civica, Inc.",
+  "package_ndcs": [
+    "72572-860-25"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "vasopressin",
+      "name": "Vasopressin"
+    }
+  ],
+  "setid": "cce1a220-3178-49ec-b046-f0cb134cf051",
+  "source": "dailymed"
+}
