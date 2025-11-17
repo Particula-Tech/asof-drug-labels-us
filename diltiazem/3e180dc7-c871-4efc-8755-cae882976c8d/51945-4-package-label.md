@@ -1,4 +1,4 @@
-# Principal Display Panel – 120 mg Bottle Label
+# PRINCIPAL DISPLAY PANEL – 120 mg Bottle Label
 
 NDC 0187-2045-90
 
