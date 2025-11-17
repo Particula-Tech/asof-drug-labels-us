@@ -5,7 +5,7 @@
 Risk Summary There are no adequate data on the developmental risk associated with the use of pramipexole dihydrochloride in pregnant women.
 No adverse developmental effects were observed in animal studies in which pramipexole was administered to rabbits during pregnancy.
 Effects on embryofetal development could not be adequately assessed in pregnant rats; however, postnatal growth was inhibited at clinically relevant exposures [see Data].
-In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated background risk of major birth defects and of miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 Data Animal Data Oral administration of pramipexole (0.1, 0.5, or 1.5 mg/kg/day) to pregnant rats during the period of organogenesis resulted in a high incidence of total resorption of embryos at the highest dose tested.
 This increase in embryolethality is thought to result from the prolactin-lowering effect of pramipexole; prolactin is necessary for implantation and maintenance of early pregnancy in rats but not in rabbits or humans.
@@ -27,7 +27,7 @@ Data In a study of radio-labeled pramipexole, pramipexole or metabolites, or bot
 
 ## 8.4 Pediatric Use
 
-The safety and efficacy of pramipexole dihydrochloride tablets in pediatric patients has not been established.
+Safety and efficacy of pramipexole dihydrochloride in pediatric patients has not been established.
 
 ## 8.5 Geriatric Use
 

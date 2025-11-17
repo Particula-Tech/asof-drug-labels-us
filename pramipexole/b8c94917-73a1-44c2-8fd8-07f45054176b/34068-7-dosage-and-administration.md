@@ -12,7 +12,7 @@ In all clinical studies, dosage was initiated at a subtherapeutic level to avoid
 Pramipexole dihydrochloride tablets should be titrated gradually in all patients.
 The dose should be increased to achieve a maximum therapeutic effect, balanced against the principal side effects of dyskinesia, hallucinations, somnolence, and dry mouth.
 Dosing in Patients with Normal Renal Function Initial Treatment Doses should be increased gradually from a starting dose of 0.375 mg/day given in three divided doses and should not be increased more frequently than every 5 to 7 days.
-A suggested ascending dosage schedule that was used in clinical studies is shown in the following Table 1: Table 1 Ascending Dosage Schedule of Pramipexole Dihydrochloride tablets for Parkinson's Disease
+A suggested ascending dosage schedule that was used in clinical studies is shown in the Table 1: Table 1 Ascending Dosage Schedule of Pramipexole Dihydrochloride Tablets for Parkinson's Disease
 
 | Week | Dosage (mg) | Total Daily Dose (mg) |
 | --- | --- | --- |
@@ -45,7 +45,7 @@ Table 2 Dosing of Pramipexole Dihydrochloride Tablets in Parkinson's Disease Pat
 | Very severe impairment (creatinine Cl <15 mL/min and hemodialysis patients) | The use of pramipexole dihydrochloride tablets has not been adequately studied in this group of patients. |  |
 
 Discontinuation of Treatment Pramipexole dihydrochloride tablets may be tapered off at a rate of 0.75 mg per day until the daily dose has been reduced to 0.75 mg.
-Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.10)]
+Thereafter, the dose may be reduced by 0.375 mg per day [see Warnings and Precautions (5.10, 5.11)].
 
 ## 2.3 Dosing for Restless Legs Syndrome
 
@@ -60,6 +60,6 @@ Table 3 Ascending Dosage Schedule of Pramipexole Dihydrochloride Tablets for RLS
 | 2* | 4-7 days | 0.25 |
 | 3* | 4-7 days | 0.5 |
 
-*if needed Dosing in Patients with Renal Impairment The duration between titration steps should be increased to 14 days in RLS patients with moderate and severe renal impairment (creatinine clearance 20-60 ml/min) [see Clinical Pharmacology (12.3)].
+*if needed Dosing in Patients with Renal Impairment The duration between titration steps should be increased to 14 days in RLS patients with moderate and severe renal impairment (creatinine clearance 20-60 mL/min) [see Clinical Pharmacology (12.3)].
 Discontinuation of Treatment In clinical trials of patients being treated for RLS with doses up to 0.75 mg once daily, pramipexole dihydrochloride tablets were discontinued without a taper.
 In a 26 week placebo-controlled clinical trial, patients reported a worsening of RLS symptom severity as compared to their untreated baseline when pramipexole dihydrochloride tablets treatment was suddenly withdrawn [see Warnings and Precautions (5.10)].

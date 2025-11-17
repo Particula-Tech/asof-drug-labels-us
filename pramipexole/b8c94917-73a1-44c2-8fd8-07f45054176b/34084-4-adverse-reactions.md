@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following adverse reactions are discussed in greater detail in other sections of the labeling: • Falling Asleep During Activities of Daily Living and Somnolence [see Warnings and Precautions (5.1)]. • Symptomatic Orthostatic Hypotension [see Warnings and Precautions (5.2)]. • Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.3)]. • Hallucinations and Psychotic-like Behavior [see Warnings and Precautions (5.4)]. • Dyskinesia [see Warnings and Precautions (5.5)]. • Postural Deformity [see Warnings and Preacautions (5.6)] • Rhabdomyolysis [see Warnings and Precautions (5.8)]. • Retinal Pathology [see Warnings and Precautions (5.9)]. • Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)].
+The following adverse reactions are discussed in greater detail in other sections of the labeling: • Falling Asleep During Activities of Daily Living and Somnolence [see Warnings and Precautions (5.1)]. • Symptomatic Orthostatic Hypotension [see Warnings and Precautions (5.2)]. • Impulse Control/Compulsive Behaviors [see Warnings and Precautions (5.3)]. • Hallucinations and Psychotic-like Behavior [see Warnings and Precautions (5.4)]. • Dyskinesia [see Warnings and Precautions (5.5)]. • Postural Deformity [see Warnings and Precautions (5.6)] • Rhabdomyolysis [see Warnings and Precautions (5.8)]. • Retinal Pathology [see Warnings and Precautions (5.9)]. • Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)]. • Withdrawal Symptoms [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -14,14 +14,14 @@ Patients with early disease did not receive concomitant levodopa therapy during 
 Because these two populations may have differential risks for various adverse reactions, this section will, in general, present adverse-reaction data for these two populations separately.
 Because the controlled trials performed during premarketing development all used a titration design, with a resultant confounding of time and dose, it was impossible to adequately evaluate the effects of dose on the incidence of adverse reactions.
 Early Parkinson's Disease In the three double-blind, placebo-controlled trials of patients with early Parkinson's disease, the most common adverse reactions (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets were nausea, dizziness, somnolence, insomnia, constipation, asthenia, and hallucinations.
-Approximately 12% of 388 patients with early Parkinson's disease and treated with pramipexole dihydrochloride tablets who participated in the double-blind, placebo-controlled trials discontinued treatment due to adverse reaction compared with 11% of 235 patients who received placebo.
+Approximately 12% of 388 patients with early Parkinson's disease and treated with pramipexole dihydrochloride tablets who participated in the double-blind, placebo-controlled trials discontinued treatment due to adverse reactions compared with 11% of 235 patients who received placebo.
 The adverse reactions most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [3.1% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dizziness [2.1% on pramipexole dihydrochloride tablets vs 1% on placebo]; somnolence [1.6% on pramipexole dihydrochloride tablets vs 0% on placebo]; headache and confusion [1.3% and 1.0%, respectively, on pramipexole dihydrochloride tablets vs 0% on placebo]); and gastrointestinal system (nausea [2.1% on pramipexole dihydrochloride tablets vs 0.4% on placebo]).
-Adverse-reaction Incidence in Controlled Clinical Studies in Early Parkinson's Disease: Table 4 lists adverse reactions that occurred in the double-blind, placebocontrolled studies in early Parkinson's disease that were reported by >1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
+Adverse-reaction Incidence in Controlled Clinical Studies in Early Parkinson's Disease: Table 4 lists adverse reactions that occurred in the double-blind, placebo-controlled studies in early Parkinson's disease that were reported by >1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
 In these studies, patients did not receive concomitant levodopa.
 
-Table 4 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride tablets in Early Parkinson's Disease
+Table 4 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride Tablets in Early Parkinson's Disease
 
-| Body System/ Adverse Reaction | Pramipexole Dihydrochloride (N=388) % | Placebo (N=235) % |
+| Body System/ Adverse Reaction | Pramipexole Dihydrochloride Tablets (N=388) % | Placebo (N=235) % |
 | --- | --- | --- |
 | Nervous System |  |  |
 | Dizziness | 25 | 24 |
@@ -61,7 +61,7 @@ The incidence of somnolence with pramipexole at a dose of 1.5 mg/day was compara
 
 Advanced Parkinson's Disease
 
-In the four double-blind, placebo-controlled trials of patients with advanced Parkinson's disease, the most commonly observed adverse reactions (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets and concomitant levodopa were postural (orthostatic) hypotension, dyskinesia, extrapyramidal syndrome, insomnia, dizziness, hallucinations, accidental injury, dream abnormalities, confusion, constipation, asthenia, somnolence, dystonia, gait abnormality, hypertonia, dry mouth, amnesia, and urinary frequency.
+In the four double-blind, placebo-controlled trials of patients with advanced Parkinson's disease, the most common adverse reactions (>5%) that were numerically more frequent in the group treated with pramipexole dihydrochloride tablets and concomitant levodopa were postural (orthostatic) hypotension, dyskinesia, extrapyramidal syndrome, insomnia, dizziness, hallucinations, accidental injury, dream abnormalities, confusion, constipation, asthenia, somnolence, dystonia, gait abnormality, hypertonia, dry mouth, amnesia, and urinary frequency.
 
 Approximately 12% of 260 patients with advanced Parkinson's disease who received pramipexole dihydrochloride tablets and concomitant levodopa in the double-blind, placebo-controlled trials discontinued treatment due to adverse reactions compared with 16% of 264 patients who received placebo and concomitant levodopa.
 The reactions most commonly causing discontinuation of treatment were related to the nervous system (hallucinations [2.7% on pramipexole dihydrochloride tablets vs 0.4% on placebo]; dyskinesia [1.9% on pramipexole dihydrochloride tablets vs 0.8% on placebo]; and cardiovascular system (postural [orthostatic] hypotension [2.3% on pramipexole dihydrochloride tablets vs 1.1% on placebo]).
@@ -70,9 +70,9 @@ Adverse-reaction Incidence in Controlled Clinical Studies in Advanced Parkinson'
 
 Table 5 lists adverse reactions that occurred in the double-blind, placebo-controlled studies in advanced Parkinson's disease that were reported by > 1% of patients treated with pramipexole dihydrochloride tablets and were numerically more frequent than in the placebo group.
 In these studies, pramipexole dihydrochloride tablets or placebo was administered to patients who were also receiving concomitant levodopa.
-Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride tablets in Advanced Parkinson's Disease
+Table 5 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with Pramipexole Dihydrochloride Tablets in Advanced Parkinson's Disease
 
-| Body System/ Adverse Event | Pramipexole Dihydrochloride † (N=260) % | Placebo † (N=264) % |
+| Body System/ Adverse Reaction | Pramipexole Dihydrochloride Tablets (N=260) % | Placebo (N=264) % |
 | --- | --- | --- |
 | Nervous System |  |  |
 | Dyskinesia | 47 | 31 |
@@ -154,7 +154,7 @@ Table 6 Adverse-Reactions in Pooled Double-Blind, Placebo-Controlled Trials with
 
 Table 7 summarizes data for adverse reactions that appeared to be dose related in the 12-week fixed dose study.
 
-Table 7 Dose-Related Adverse Reactions in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥5% of all Patients in the Treatment Phase
+Table 7 Dose-Related Adverse Reactions in a 12-Week Double-Blind, Placebo-Controlled Fixed Dose Study in Restless Legs Syndrome (Occurring in ≥5% of all Patients in the Treatment Phase)
 
 | Body System/Adverse Reaction | Pramipexole Dihydrochloride Tablets 0.25 mg (N=88) % | Pramipexole Dihydrochloride Tablets 0.5 mg (N=80) % | Pramipexole Dihydrochloride Tablets 0.75 mg (N=90) % | Placebo (N=86) % |
 | --- | --- | --- | --- | --- |
@@ -178,8 +178,14 @@ Adverse Reactions: Relationship to Age, Gender, and Race Among the adverse react
 Although no gender-related differences were observed in Parkinson’s disease patients, nausea and fatigue, both generally transient, were more frequently reported by female than male RLS patients.Less than 4% of patients enrolled were non-Caucasian: therefore, an evaluation of adverse reactions related to race is not possible.
 Laboratory Tests During the development of pramipexole dihydrochloride tablets, no systematic abnormalities on routine laboratory testing were noted.
 
-## 6.2 Post Marketing Experience
+## 6.2 Postmarketing Experience
 
 In addition to the adverse events reported during clinical trials, the following adverse reactions have been identified during post-approval use of pramipexole dihydrochloride tablets, primarily in Parkinson's disease patients.Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
-Cardiac Disorders: cardiac failure Gastrointestinal Disorders: vomiting Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH), weight increase Musculoskeletal and Connective Tissue Disorders: postural deformity [see Warnings and Precautions (5.6)] Nervous System Disorders: syncope Skin and Subcutaneous Tissue Disorders: skin reactions (including erythema, rash, pruritus, urticaria)
+Cardiac Disorders: cardiac failure Gastrointestinal Disorders: vomiting
+
+General Disorders and Administration Site Conditions: withdrawal symptoms [see Warnings and Precautions (5.11)] Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH), weight increase Musculoskeletal and Connective Tissue Disorders: postural deformity [see Warnings and Precautions (5.6)] Nervous System Disorders: syncope
+
+Reproductive System and Breast Disorders: priapism
+
+Skin and Subcutaneous Tissue Disorders: skin reactions (including erythema, rash, pruritus, urticaria)

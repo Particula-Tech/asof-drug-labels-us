@@ -2,13 +2,13 @@
 
 ## 12.1 Mechanism of Action
 
-Pramipexole is a non-ergot dopamine agonist with high relative in vitro specificity and full intrinsic activity at the D 2 subfamily of dopamine receptors, binding with higher affinity to D 3 than to D 2 or D 4 receptor subtypes.
+Pramipexole is a non-ergot dopamine agonist with high relative in vitro specificity and full intrinsic activity at the D2 subfamily of dopamine receptors, binding with higher affinity to D3 than to D2 or D4 receptor subtypes.
 
 Parkinson's Disease
 
 The precise mechanism of action of pramipexole as a treatment for Parkinson's disease is unknown, although it is believed to be related to its ability to stimulate dopamine receptors in the striatum.
 This conclusion is supported by electrophysiologic studies in animals that have demonstrated that pramipexole influences striatal neuronal firing rates via activation of dopamine receptors in the striatum and the substantia nigra, the site of neurons that send projections to the striatum.
-The relevance of D 3 receptor binding in Parkinson’s disease is unknown.
+The relevance of D3 receptor binding in Parkinson’s disease is unknown.
 
 Restless Legs Syndrome (RLS)
 
@@ -20,7 +20,7 @@ Positron Emission Tomographic (PET) studies suggest that a mild striatal presyna
 
 The effect of pramipexole on the QT interval of the ECG was investigated in a clinical study in 60 healthy male and female volunteers.
 All subjects initiated treatment with 0.375 mg extended release pramipexole tablets administered once daily, and were up-titrated every 3 days to 2.25 mg and 4.5 mg daily, a faster rate of titration than recommended in the label.
-No dose- or exposure-related effect on mean QT intervals was observed; however the study did not have a valid assessment of assay sensitivity.
+No dose- or exposure-related effect on mean QT intervals was observed; however, the study did not have a valid assessment of assay sensitivity.
 The effect of pramipexole on QTc intervals at higher exposures achieved either due to drug interactions (e.g., with cimetidine), renal impairment, or at higher doses has not been systematically evaluated.
 
 Although mean values remained within normal reference ranges throughout the study, supine systolic blood pressure (SBP), diastolic blood pressure (DBP), and pulse rate for subjects treated with pramipexole generally increased during the rapid up-titration phase, by 10 mmHg, 7 mmHg, and 10 bpm higher than placebo, respectively.
@@ -37,7 +37,7 @@ Absorption
 
 Pramipexole is rapidly absorbed, reaching peak concentrations in approximately 2 hours.
 The absolute bioavailability of pramipexole is greater than 90%, indicating that it is well absorbed and undergoes little presystemic metabolism.
-Food does not affect the extent of pramipexole absorption, although the time of maximum plasma concentration (T max) is increased by about 1 hour when the drug is taken with a meal.
+Food does not affect the extent of pramipexole absorption, although the time of maximum plasma concentration (Tmax) is increased by about 1 hour when the drug is taken with a meal.
 
 Distribution
 
@@ -88,7 +88,7 @@ Therefore, creatinine clearance can be used as a predictor of the extent of decr
 Drug Interactions
 
 Carbidopa/levodopa: Carbidopa/levodopa did not influence the pharmacokinetics of pramipexole in healthy volunteers (N=10).
-Pramipexole did not alter the extent of absorption (AUC) or the elimination of carbidopa/levodopa, although it caused an increase in levodopa C max by about 40% and a decrease in T max from 2.5 to 0.5 hours.
+Pramipexole did not alter the extent of absorption (AUC) or the elimination of carbidopa/levodopa, although it caused an increase in levodopa Cmax by about 40% and a decrease in Tmax from 2.5 to 0.5 hours.
 
 Selegiline: In healthy volunteers (N=11), selegiline did not influence the pharmacokinetics of pramipexole.
 
