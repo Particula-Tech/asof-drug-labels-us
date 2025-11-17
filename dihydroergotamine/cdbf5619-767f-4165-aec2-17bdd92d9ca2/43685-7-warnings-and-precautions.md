@@ -26,7 +26,7 @@ In a number of cases, it appears possible that the cerebrovascular events were p
 It should be noted that patients with migraine may be at increased risk of certain cerebrovascular events (e.g., stroke, hemorrhage, transient ischemic attack).
 Discontinue BREKIYA if a cerebrovascular event is suspected.
 
-## 5.4 Other Vasospasm-Related Adverse Reactions
+## 5.4 Other Vasospasm Related Adverse Reactions
 
 BREKIYA, like other ergot alkaloids, may cause vasospastic reactions other than coronary artery vasospasm.
 Myocardial, peripheral vascular, and colonic ischemia have been reported with dihydroergotamine mesylate.

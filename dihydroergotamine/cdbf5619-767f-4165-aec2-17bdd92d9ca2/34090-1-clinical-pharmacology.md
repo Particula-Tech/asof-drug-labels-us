@@ -9,7 +9,7 @@ The therapeutic activity of dihydroergotamine in migraine is generally attribute
 
 Significant elevation in blood pressure has been reported in patients treated with dihydroergotamine with and without a history of hypertension [see Warnings and Precautions (5.5)].
 
-Dihydroergotamine possesses oxytocic properties [see Warnings and Precautions (5.7)].
+Dihydroergotamine possesses oxytocic properties.
 
 ## 12.3 Pharmacokinetics
 

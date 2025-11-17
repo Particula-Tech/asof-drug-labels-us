@@ -5,7 +5,7 @@
 Risk Summary
 
 Available data from published literature indicate an increased risk of preterm delivery with dihydroergotamine, the active moiety in BREKIYA, use during pregnancy.
-Avoid use of BREKIYA during pregnancy [see Warnings and Precautions (5.9)].
+Avoid use of BREKIYA during pregnancy [see Warnings and Precautions (5.7)].
 Data collected over decades have shown no increased risk of major birth defects or miscarriage with the use of dihydroergotamine mesylate during pregnancy.
 
 In animal reproduction studies, adverse effects on development were observed following administration of dihydroergotamine mesylate during pregnancy (decreased fetal body weight and/or skeletal ossification) in rats and rabbits or during pregnancy and lactation in rats (decreased body weight and impaired reproductive function in the offspring) at doses that were not associated with maternal toxicity (see Data).

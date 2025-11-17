@@ -10,7 +10,7 @@ Myocardial Ischemia and/or Infarction, Other Cardiac Events, Cerebrovascular Eve
 
 Inform patients of the risk for serious cardiac, cerebrovascular, and other vasospasm related events.
 Advise patients to notify their healthcare provider if they develop any risk factors or symptoms while taking BREKIYA.
-Inform patients that nicotine may provoke vasoconstriction predisposing to a greater ischemic response [see Warnings and Precautions (5.2, 5.3, 5.4)].
+Inform patients that nicotine may provoke vasoconstriction predisposing to a greater ischemic response [see Warnings and Precautions (5.2, 5.3, 5.4, 7.5)].
 
 Increase in Blood Pressure
 
@@ -39,7 +39,7 @@ Advise patients not to breastfeed during treatment with BREKIYA [see Use in Spec
 
 Important Administration Instructions
 
-Advise patients on the proper use of BREKIYA prior to the initial use and instruct them to read the Instructions for Use [see Dosage and Administration (2.3)].
+Advise patients on the proper use of BREKIYA prior to the initial use and instruct them to read the Instructions for Use [see Dosage and Administration (2.2, 2.3)].
 
 For more information, call 1-877-835-5472.
 
@@ -59,4 +59,4 @@ Ltd.
 Ahmedabad 382213, INDIA
 
 Rev.
-05-2025-01
+10-2025-02

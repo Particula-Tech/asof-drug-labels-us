@@ -8,7 +8,7 @@ Administer moderate CYP3A4 inhibitors with caution.
 
 ## 7.2 Triptans
 
-Triptans (serotonin [5-HT 1B/1D receptor agonists) have been reported to cause coronary artery vasospasm, and its effect could be additive with BREKIYA.
+Triptans (serotonin [5-HT1B/1D receptor agonists) have been reported to cause coronary artery vasospasm, and its effect could be additive with BREKIYA.
 Therefore, triptans and BREKIYA should not be taken within 24 hours of each other [see Contraindications (4)].
 
 ## 7.3 Beta Blockers
@@ -21,7 +21,7 @@ BREKIYA is contraindicated for use with peripheral and central vasoconstrictors 
 
 ## 7.5 Nicotine
 
-Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy [see Warnings and Precautions (5.2, 5.4)].
+Nicotine may provoke vasoconstriction in some patients, predisposing to a greater ischemic response to ergot therapy [see Warnings and Precautions (5.4)].
 
 ## 7.6 Selective Serotonin Reuptake Inhibitors
 

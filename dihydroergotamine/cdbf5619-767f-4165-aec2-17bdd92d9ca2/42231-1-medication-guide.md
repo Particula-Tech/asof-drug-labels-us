@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-| BREKIYA®[breh-kee-yah] (dihydroergotamine mesylate) injection, for subcutaneous use |  |  |  |
+| BREKIYA® [breh-kee-yah] (dihydroergotamine mesylate) injection, for subcutaneous use |  |  |  |
 | --- | --- | --- | --- |
 | What is the most important information I should know about BREKIYA?BREKIYA can cause serious side effects, including: Serious problems with blood circulation to your legs and feet (peripheral ischemia). BREKIYA can cause peripheral ischemia when you take it with certain medicines known as CYP3A4 inhibitors. Peripheral ischemia may lead to a stroke and death. Stop taking BREKIYA and get emergency medical help right away if you have any of the following symptoms: |  |  |  |
 | cramping and pain in your legs or hipsfeeling of heaviness or tightness in your leg musclesburning or aching pain in your feet or toes while restingnumbness, tingling, or weakness in your legscold feeling or color changes in 1 or both legs or feetslurred speechsudden weakness Do not take medicines known as strong CYP3A4 inhibitors, such as: |  |  |  |
