@@ -58,8 +58,7 @@ Table 4: Adverse Reactions Occurring in ≥2% of Adult Patients Treated with XYW
 | Tremor | 3 |
 | Somnolence | 2 |
 | Muscle spasms | 2 |
-
-*Adverse reactions related to XYWAV were reported less frequently, as an overall incidence, in patients on Xyrem at study entry than in Xyrem-naïve patients. †Includes abnormal dreams, abnormal sleep-related event, rapid eye movements sleep abnormal, sleep paralysis, sleep talking, sleep terror, sleep-related eating disorder, somnambulism ‡Includes hyperhidrosis and night sweats §Includes anxiety, agitation, panic attack, tension ¶Includes fatigue and asthenia
+| *Adverse reactions related to XYWAV were reported less frequently, as an overall incidence, in patients on Xyrem at study entry than in Xyrem-naïve patients. †Includes abnormal dreams, abnormal sleep-related event, rapid eye movements sleep abnormal, sleep paralysis, sleep talking, sleep terror, sleep-related eating disorder, somnambulism ‡Includes hyperhidrosis and night sweats §Includes anxiety, agitation, panic attack, tension ¶Includes fatigue and asthenia |  |
 
 Pediatric Patients (7 Years of Age and Older) with Narcolepsy
 
@@ -135,8 +134,7 @@ Table 5: Adverse Reactions Occurring in ≥2% of Patients Treated with XYWAV in 
 | Depressed mood | 3 |
 | Feeling drunk | 3 |
 | Irritability | 3 |
-
-* includes anxiety, nervousness, and panic attack † includes middle insomnia, initial insomnia, insomnia, and terminal insomnia ‡ includes hyperhidrosis and night sweats § includes fatigue and asthenia ¶ includes somnolence and sedation # includes confusional arousal, sleep paralysis, nightmare, sleep talking, somnambulism, and hypnopompic hallucination ♠ includes balance disorder and ataxia
+| * includes anxiety, nervousness, and panic attack † includes middle insomnia, initial insomnia, insomnia, and terminal insomnia ‡ includes hyperhidrosis and night sweats § includes fatigue and asthenia ¶ includes somnolence and sedation # includes confusional arousal, sleep paralysis, nightmare, sleep talking, somnambulism, and hypnopompic hallucination ♠ includes balance disorder and ataxia |  |
 
 Additional Adverse Reactions
 

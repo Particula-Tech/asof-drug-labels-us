@@ -16,8 +16,7 @@ Table 1: Recommended Adult XYWAV Dosage Regimen (g = grams)
 | 6 g per night | 3 g | 3 g |
 | 7.5 g per night | 3.75 g | 3.75 g |
 | 9 g per night | 4.5 g | 4.5 g |
-
-Note: Some patients may achieve better responses with unequal nightly doses at bedtime and 2.5 to 4 hours later.
+| Note: Some patients may achieve better responses with unequal nightly doses at bedtime and 2.5 to 4 hours later. |  |  |
 
 ## 2.2 Dosing Information in Pediatric Patients with Narcolepsy
 
@@ -35,9 +34,7 @@ Table 2: Recommended XYWAV Dosage for Patients 7 Years of Age and Older*
 | 20 kg to <30 kg | ≤1 g | ≤1 g | 0.5 g | 0.5 g | 3 g | 3 g |
 | 30 kg to <45 kg | ≤1.5 g | ≤1.5 g | 0.5 g | 0.5 g | 3.75 g | 3.75 g |
 | ≥45 kg | ≤2.25 g | ≤2.25 g | 0.75 g | 0.75 g | 4.5 g | 4.5 g |
-
-* For patients who sleep more than 8 hours per night, the first nightly dose of XYWAV may be given at bedtime or after an initial period of sleep. ** If XYWAV is used in patients 7 years of age and older who weigh less than 20 kg, a lower starting dosage, lower maximum weekly dosage increases, and lower total maximum nightly dosage should be considered.
-Note: Some patients may achieve better responses with unequal nightly doses at bedtime and 2.5 to 4 hours later.
+| * For patients who sleep more than 8 hours per night, the first nightly dose of XYWAV may be given at bedtime or after an initial period of sleep. ** If XYWAV is used in patients 7 years of age and older who weigh less than 20 kg, a lower starting dosage, lower maximum weekly dosage increases, and lower total maximum nightly dosage should be considered. Note: Some patients may achieve better responses with unequal nightly doses at bedtime and 2.5 to 4 hours later. |  |  |  |  |  |  |
 
 ## 2.3 Dosing Information in Adult Patients with Idiopathic Hypersomnia (IH)
 
@@ -52,8 +49,7 @@ Table 3: Recommended Nightly Dosage in Adult Patients with IH
 | --- | --- | --- | --- |
 | Twice nightly*,† | ≤4.5 g per night divided into two doses (e.g., 2.25 g each) | ≤1.5 g per night per week (divided into two doses) | 9 g (divided into two doses) |
 | Once nightly | ≤3 g per night | ≤1.5 g per night per week | 6 g |
-
-* Some patients may achieve better responses with unequal nightly doses at bedtime and 2.5 to 4 hours later. † The first dose should be taken at bedtime and the second dose taken 2.5 to 4 hours later.
+| * Some patients may achieve better responses with unequal nightly doses at bedtime and 2.5 to 4 hours later. † The first dose should be taken at bedtime and the second dose taken 2.5 to 4 hours later. |  |  |  |
 
 The increase in the total nightly dose should not exceed 1.5 g /week.
 During titration, the dosing regimen may be changed between twice nightly and once nightly, as needed based on efficacy and tolerability [see Clinical Studies (14.3)].

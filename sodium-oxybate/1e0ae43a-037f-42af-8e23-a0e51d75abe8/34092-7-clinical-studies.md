@@ -40,8 +40,7 @@ Table 6: Mean and Median Number of Weekly Cataplexy Attacks and Epworth Sleepine
 | Mean (SD) | 11.5 (24.8) | 0.1 (5.8) | 3.0 (4.7) | 0.0 (2.9) |
 | Median | 2.4 | 0.0 | 2.0 | 0.0 |
 | p-value | <0.0001 |  | <0.0001 |  |
-
-DB RWP=Double‑blind Randomized-withdrawal Period; SD=standard deviation
+| DB RWP=Double‑blind Randomized-withdrawal Period; SD=standard deviation |  |  |  |  |
 
 ## 14.2 Cataplexy and Excessive Daytime Sleepiness in Pediatric Narcolepsy
 
@@ -79,8 +78,7 @@ Table 7: Number of Weekly Cataplexy Attacks and Epworth Sleepiness Scale (Child 
 | Median Epworth Sleepiness Scale (Child and Adolescent) Score |  |  |  |  |
 | Placebo (n=31**) | 11 | 12 | 3 | - |
 | Xyrem (n=30**) | 8 | 9 | 0 | 0.0004 |
-
-* For weekly number of cataplexy attacks, baseline value is calculated from the last 14 days of the stable-dose period. † For Epworth Sleepiness Scale score, baseline value is collected at the end of stable-dose period. ‡ Weekly number of cataplexy attacks is calculated from all days within the double-blind treatment period. § For Epworth Sleepiness Scale, value is collected at the end of the double-blind treatment period. ¶ P-value from rank-based analysis of covariance (ANCOVA) with treatment as a factor and rank baseline value as a covariate. ** One patient in each of the treatment groups did not have baseline ESS score available and were not included in this analysis.
+| * For weekly number of cataplexy attacks, baseline value is calculated from the last 14 days of the stable-dose period. † For Epworth Sleepiness Scale score, baseline value is collected at the end of stable-dose period. ‡ Weekly number of cataplexy attacks is calculated from all days within the double-blind treatment period. § For Epworth Sleepiness Scale, value is collected at the end of the double-blind treatment period. ¶ P-value from rank-based analysis of covariance (ANCOVA) with treatment as a factor and rank baseline value as a covariate. ** One patient in each of the treatment groups did not have baseline ESS score available and were not included in this analysis. |  |  |  |  |
 
 Patients randomized to receive placebo during the double-blind treatment period experienced a statistically significant worsening of cataplexy severity and narcolepsy overall according to the clinician’s assessment compared with patients randomized to continue receiving Xyrem (see Table 8).
 
@@ -91,8 +89,7 @@ Table 8: Clinical Global Impression of Change (CGIc) for Cataplexy Severity and 
 | Placebo (n=32) | Xyrem (n=29)‡ | Placebo (n=32) | Xyrem (n=29)‡ |  |
 | Much worse or very much worse | 66% | 17% | 59% | 10% |
 | p-value§ | 0.0001 |  | <0.0001 |  |
-
-* Responses indicate change of severity or symptoms relative to receiving Xyrem treatment at baseline. † Percentages based on total number of observed values. ‡ Two patients randomized to Xyrem did not have the CGIc assessments completed and were excluded from the analysis. § P-value from Pearson’s chi-square test.
+| * Responses indicate change of severity or symptoms relative to receiving Xyrem treatment at baseline. † Percentages based on total number of observed values. ‡ Two patients randomized to Xyrem did not have the CGIc assessments completed and were excluded from the analysis. § P-value from Pearson’s chi-square test. |  |  |  |  |
 
 ## 14.3 Idiopathic Hypersomnia (IH) in Adults
 
@@ -142,8 +139,7 @@ Table 9: Median Change in Epworth Sleepiness Scale (ESS)
 | Median Change from End of 2-Week SDP to End of 2-Week DB RWP |  |  |
 | Median | 8.0 | 0.0 |
 | p-value | <0.0001 |  |
-
-SDP=Stable Dose Period DB RWP=Double-blind Randomized-withdrawal Period
+| SDP=Stable Dose Period DB RWP=Double-blind Randomized-withdrawal Period |  |  |
 
 PGIc
 
@@ -157,8 +153,7 @@ Table 10: PGIc* at End of the DB RWP†
 | Worsened,% ‡† | Placebo (N=59) n (%) | XYWAV (N=56) n (%) |
 | Proportion Worsened (minimally, much, or very much worse) | 52 (88.1) | 12 (21.4) |
 | p‑value | <0.0001 | n/a |
-
-*PGIc is a 7‑point patient-reported scale by which patients rated their symptom change from “very much improved” to “very much worse.” †DB RWP=Double‑blind Randomized-withdrawal Period. ‡At the end of the DB RWP/early termination visit, patients rated the change in their condition since the end of the Open-Label Stable-Dose Period.
+| *PGIc is a 7‑point patient-reported scale by which patients rated their symptom change from “very much improved” to “very much worse.” †DB RWP=Double‑blind Randomized-withdrawal Period. ‡At the end of the DB RWP/early termination visit, patients rated the change in their condition since the end of the Open-Label Stable-Dose Period. |  |  |
 
 IHSS
 
@@ -177,5 +172,4 @@ Table 11: Median Changes in IHSS Total Score
 | Median Change from End of 2-Week SDP to End of 2-Week DB RWP |  |  |
 | Median | 14.0 | 0.0 |
 | p-value | <0.0001 |  |
-
-SDP=Stable Dose Period DB RWP=Double‑blind Randomized-withdrawal Period
+| SDP=Stable Dose Period DB RWP=Double‑blind Randomized-withdrawal Period |  |  |
