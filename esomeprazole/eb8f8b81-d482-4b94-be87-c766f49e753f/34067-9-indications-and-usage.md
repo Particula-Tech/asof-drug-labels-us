@@ -11,10 +11,6 @@ Pediatric Patients 12 Years to 17 Years of Age
 
 Esomeprazole Magnesium Delayed-release Capsules are indicated for the short-term treatment (4 to 8 weeks) for the healing of EE in pediatric patients 12 years to 17 years of age.
 
-Pediatric Patients 1 Year to 11 Years of Age
-
-Esomeprazole Magnesium is indicated for the short-term treatment (8 weeks) for the healing of EE in pediatric patients 1 year to 11 years of age.
-
 ## 1.2 Maintenance of Healing of EE
 
 Esomeprazole Magnesium Delayed-release Capsules are indicated for the maintenance of healing of EE in adults.
@@ -29,10 +25,6 @@ Esomeprazole Magnesium Delayed-release Capsules are indicated for short-term tre
 Pediatric Patients 12 Years to 17 Years of Age
 
 Esomeprazole Magnesium Delayed-release Capsules are indicated for short-term treatment (4 weeks) of heartburn and other symptoms associated with GERD in pediatric patients 12 years to 17 years of age.
-
-Pediatric Patients 1 Year to 11 Years of Age
-
-Esomeprazole Magnesium is indicated for short-term treatment (up to 8 weeks) of heartburn and other symptoms associated with GERD in pediatric patients 1 year to 11 years of age.
 
 ## 1.4 Risk Reduction of Nonsteroidal Anti-Inflammatory Drugs (NSAID)-Associated Gastric Ulcer
 

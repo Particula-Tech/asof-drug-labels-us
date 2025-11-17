@@ -20,7 +20,7 @@ Table 1: Recommended Dosage of Esomeprazole Magnesium Delayed-release Capsules i
 | Amoxicillin 1000 mg twice daily3 | 10 days |  |
 | Clarithromycin 500 mg twice daily3 | 10 days |  |
 | Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome | Starting dosage is 40 mg twice daily4; individualize the regimen to patient needs.Dosages of up to 240 mg/day have been administered [see Clinical Studies (14.7)]. | As long as clinically indicated |
-| 1. A maximum dosage of 20 mg once daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)].2. Most patients are healed within 4 to 8 weeks. For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be required to achieve healing [see Clinical Studies (14.1)].3. Refer to the amoxicillin and clarithromycin prescribing information for dosage adjustments in elderly and renally-impaired patients.4. A starting dosage of 20 mg twice daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)]. |  |  |
+| 1. A maximum dosage of 20 mg once daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)]. 2. Most patients are healed within 4 to 8 weeks. For patients who do not heal after 4 to 8 weeks, an additional 4 to 8 weeks of treatment may be required to achieve healing [see Clinical Studies (14.1)].3. Refer to the amoxicillin and clarithromycin prescribing information for dosage adjustments in elderly and renally-impaired patients.4. A starting dosage of 20 mg twice daily is recommended for patients with severe liver impairment (Child-Pugh Class C) [see Use in Specific Populations (8.6)]. |  |  |
 
 ## 2.2 Recommended Dosage in Pediatric Patients by Indication
 
@@ -31,11 +31,7 @@ Table 2: Recommended Dosage of Esomeprazole Magnesium Delayed-release Capsules i
 | Indication | Patient Age | Recommended Dosage | Duration |
 | --- | --- | --- | --- |
 | Healing of EE | 12 years to 17 years | Esomeprazole Magnesium Delayed-release Capsules: 20 mg or 40 mg once daily | 4 to 8 weeks |
-| 1 year to 11 years1 | Esomeprazole Magnesium:Less than 20 kg10 mg once daily20 kg and greater 10 mg or 20 mg once daily | 8 weeks |  |
 | Treatment of Symptomatic GERD | 12 years to 17 years | Esomeprazole Magnesium Delayed-release Capsules: 20 mg once daily | 4 weeks |
-| 1 year to 11 years | Esomeprazole Magnesium: 10 mg once daily1 | Up to 8 weeks |  |
-
-1 Dosages over 1 mg/kg/day have not been studied
 
 ## 2.3 Preparation and Administration Instructions
 

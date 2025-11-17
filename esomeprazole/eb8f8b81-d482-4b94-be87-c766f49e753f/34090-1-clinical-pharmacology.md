@@ -14,7 +14,7 @@ Antisecretory Activity
 Adults
 
 The effect of esomeprazole on intragastric pH was determined in adult patients with symptomatic GERD in two separate studies.
-In the first study of 36 patients, Esomeprazole Magnesium Delayed-release Capsules 40 mg and 20 mg delayed-release capsules were administered over 5 days as shown in the Table 5:
+In the first study of 36 patients, Esomeprazole Magnesium Delayed-release Capsules 40 mg and 20 mg delayed-release capsules were administered once daily over 5 days as shown in the Table 5:
 
 Table 5: Effect of Esomeprazole on Intragastric pH on Day 5 (N=36) Following Once Daily Dosing of Esomeprazole Magnesium Delayed-release Capsules in Adult Patients with Symptomatic GERD
 
@@ -118,29 +118,6 @@ Geriatric Patients
 
 The AUC and Cmax values of esomeprazole were slightly higher (25% and 18%, respectively) in the elderly as compared to younger subjects at steady state.
 This increase in exposure is not considered clinically relevant.
-
-Pediatric Patients
-
-1 Year to 11 Years of Age
-
-The pharmacokinetics of esomeprazole were studied in pediatric patients with GERD aged 1 year to 11 years.
-Following once daily dosing with Esomeprazole Magnesium for 5 days, the total exposure (AUC) for the 10 mg dosage in patients aged 6 years to 11 years was similar to that seen with the 20 mg dosage in adults and adolescents aged 12 years to 17 years.
-The total exposure for the 10 mg dosage in patients aged 1 year to 5 years was approximately 30% higher than the 10 mg dosage in patients aged 6 years to 11 years.
-The total exposure for the 20 mg dosage in patients aged 6 years to 11 years was higher than that observed with the 20 mg dosage in patients aged 12 years to 17 years and adults, but lower than that observed with the 40 mg dosage in 12 to 17 year-olds and adults.
-See Table 7.
-
-Table 7: Summary of Esomeprazole Pharmacokinetic Parameters Following Once Daily Dosing of Esomeprazole Magnesium for 5 Days in 1 Year to 11 Year Old Patients with GERD
-
-| Parameter | Esomeprazole Magnesium |  |  |
-| --- | --- | --- | --- |
-| 1 Year to 5 Years | 6 Years to 11 Years |  |  |
-| 10 mg once daily (N=8) | 10 mg once daily (N=7) | 20 mg once daily (N=6) |  |
-| AUC (micromol∙h/L)1 | 4.83 | 3.70 | 6.28 |
-| Cmax (micromol/L)1 | 2.98 | 1.77 | 3.73 |
-| tmax (h)2 | 1.44 | 1.79 | 1.75 |
-| t1/2λz (h)1 | 0.74 | 0.88 | 0.73 |
-| Cl/F (L/h)1 | 5.99 | 7.84 | 9.22 |
-| 1. Geometric mean2. Arithmetic mean |  |  |  |
 
 12 Years to 17 Years of Age
 

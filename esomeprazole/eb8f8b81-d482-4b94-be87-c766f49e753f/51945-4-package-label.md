@@ -8,9 +8,7 @@ Esomeprazole Magnesium Delayed-release Capsules, USP
 
 20 mg*
 
-Print Medication Guides at:
-
-www.lannett.com/med-guide/esomeprazole
+Dispense the Medication Guide available at: www.lannett.com/med-guide/esomeprazole, to each patient.
 
 Rx Only 30 Capsules
 
@@ -26,9 +24,7 @@ Esomeprazole Magnesium Delayed-release Capsules, USP
 
 40 mg*
 
-Print Medication Guides at:
-
-www.lannett.com/med-guide/esomeprazole
+Dispense the Medication Guide available at: www.lannett.com/med-guide/esomeprazole, to each patient.
 
 Rx Only 30 Capsules
 

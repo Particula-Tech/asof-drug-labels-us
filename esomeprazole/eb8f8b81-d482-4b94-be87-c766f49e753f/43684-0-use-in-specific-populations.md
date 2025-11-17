@@ -81,22 +81,16 @@ Healing of EE
 Pediatric Patients 1 Year to 17 Years of Age
 
 The safety and effectiveness of Esomeprazole Magnesium Delayed-release Capsules have been established in pediatric patients 12 years to 17 years for short-term treatment (4 to 8 weeks) for healing of EE.
-The safety and effectiveness of Esomeprazole Magnesium have been established in pediatric patients 1 year to 11 years for short-term treatment (up to 8 weeks) for healing of EE.
 Use of Esomeprazole Magnesium Delayed-release Capsules for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety and pharmacokinetic data in pediatric patients 1 year to 17 years of age.
 The safety profile in pediatric patients 1 year to 17 years of age was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
-
-The safety and effectiveness of Esomeprazole Magnesium Delayed-release Capsules for the treatment of EE due to acid-mediated GERD in pediatric patients less than 1 year of age have not been established.
 
 Symptomatic GERD
 
 Pediatric Patients 1 Year to 17 Years of Age
 
 The safety and effectiveness of Esomeprazole Magnesium Delayed-release Capsules have been established in pediatric patients 12 years to 17 years of age for the short-term treatment (4 weeks) of heartburn and other symptoms associated with GERD.
-The safety and effectiveness of Esomeprazole Magnesium have been established in pediatric patients 1 year to 11 years of age for the short-term treatment (up to 8 weeks) of heartburn and other symptoms associated with GERD.
 Use of Esomeprazole Magnesium Delayed-release Capsules for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety and pharmacokinetic data in pediatric patients 1 year to 17 years of age.
 The safety profile in pediatric patients 1 year to 17 years of age was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.4)].
-
-The safety and effectiveness of Esomeprazole Magnesium Delayed-release Capsules for the treatment of symptomatic GERD in pediatric patients less than 1 year of age have not been established.
 
 Other Conditions
 

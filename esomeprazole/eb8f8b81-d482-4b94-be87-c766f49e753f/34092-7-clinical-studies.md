@@ -83,19 +83,6 @@ No significant treatment related differences were seen.
 
 ## 14.4 Pediatric GERD
 
-1 Year to 11 Years of Age
-
-In a multicenter, parallel-group study, 109 pediatric patients with a history of endoscopically-proven GERD (1 year to 11 years of age; 53 female; 89 Caucasian, 19 Black, 1 Other) were treated with Esomeprazole Magnesium once daily for up to 8 weeks to evaluate safety and tolerability.
-Dosing by patient weight was as follows:
-
-- weight < 20 kg: once daily treatment with Esomeprazole Magnesium 5 mg or 10 mg
-- weight ≥ 20 kg: once daily treatment with Esomeprazole Magnesium 10 mg or 20 mg
-
-Patients were endoscopically characterized as to the presence or absence of EE.
-
-Of the 109 patients, 53 had EE at baseline (51 had mild, 1 moderate, and 1 severe esophagitis).
-Although most of the patients who had a follow up endoscopy at the end of 8 weeks of treatment healed, spontaneous healing cannot be ruled out because these patients had low grade EE prior to treatment, and the trial did not include a concomitant control.
-
 12 Years to 17 Years of Age
 
 In a multicenter, randomized, double-blind, parallel-group study, 149 adolescent patients (12 to 17 years of age; 89 female; 124 Caucasian, 15 Black, 10 Other) with clinically diagnosed GERD were treated with Esomeprazole Magnesium Delayed-release Capsules 20 mg or 40 mg once daily for up to 8 weeks to evaluate safety and tolerability.
@@ -125,7 +112,7 @@ Table 12: Cumulative Percentage of Patients at Least 60 Years of Age Taking NSAI
 |  | 257 | Placebo | 83.3 |
 | 1.%= Life Table Estimate. Significant difference from placebo (p<0.01). |  |  |  |
 
-## 14.6 H.pylori Eradication in Adult Patients with Duodenal Ulcer Disease
+## 14.6 H. pylori Eradication in Adult Patients with Duodenal Ulcer Disease
 
 Two multicenter, randomized, double-blind studies were conducted in adult patients using a 10-day treatment regimen of triple therapy (Esomeprazole Magnesium Delayed-release Capsules, amoxicillin and clarithromycin).
 The first study (191) compared Esomeprazole Magnesium Delayed-release Capsules 40 mg once daily in combination with amoxicillin 1000 mg twice daily and clarithromycin 500 mg twice daily to Esomeprazole Magnesium Delayed-release Capsules 40 mg once daily plus clarithromycin 500 mg twice daily.

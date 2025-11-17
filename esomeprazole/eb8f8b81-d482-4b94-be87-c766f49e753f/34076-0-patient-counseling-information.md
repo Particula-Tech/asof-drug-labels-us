@@ -68,11 +68,9 @@ Lannett Company, Inc.
 
 Philadelphia, PA 19136
 
-Dispense with Medication Guide available at: www.lannett.com/med-guide/esomeprazole
-
-CIA77977J
+CIA77977K
 
 Rev.
-03/2025
+11/2025
 
 All brand names are the trademarks of their respective owners.
