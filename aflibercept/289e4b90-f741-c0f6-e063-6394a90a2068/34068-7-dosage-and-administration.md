@@ -6,7 +6,16 @@ DOSAGE AND ADMINISTRATION
 For ophthalmic intravitreal injection.
 AHZANTIVE must only be administered by a qualified physician.
 
-A 5-micron sterile filter needle (18-gauge × 1½-inch), a 1-mL sterile Luer lock syringe and a 30‑gauge × ½-inch sterile injection needle are needed, but not provided.
+Pre-filled Syringe: A 30-gauge × ½-inch sterile injection needle is needed but not provided.
+
+Vial: A 5-micron sterile filter needle (18-gauge × 1½-inch), a 1-mL sterile Luer lock syringe and a 30‑gauge × ½-inch sterile injection needle are needed, but not provided.
+
+AHZANTIVE is available packaged as follows:
+
+- Pre-filled Syringe.
+  The AHZANTIVE pre-filled syringe cap and plunger are not made with natural rubber latex.
+- Vial Only.
+  The AHZANTIVE vial stopper is not made with natural rubber latex.
 
 [see How Supplied/Storage and Handling (16)].
 
@@ -34,7 +43,74 @@ The recommended dose for AHZANTIVE is 2 mg (0.05 mL of 40 mg/mL solution) admini
 Although AHZANTIVE may be dosed as frequently as 2 mg every 4 weeks (approximately every 25 days, monthly), additional efficacy was not demonstrated in most patients when aflibercept was dosed every 4 weeks compared to every 8 weeks [see Clinical Studies (14.5)].
 Some patients may need every 4 week (monthly) dosing after the first 20 weeks (5 months).
 
-2.6 Preparation for Administration - Vial
+2.6 Preparation for Administration - Pre-filled Syringe
+
+The AHZANTIVE pre-filled syringe is sterile and for one-time use in one eye only.
+
+The pre-filled syringe should be inspected visually prior to administration.
+Do not use if particulates, cloudiness, or discoloration are visible, or if the package is open or damaged.
+
+Do not use if any part of the pre-filled syringe is damaged or if the syringe cap is detached from the Luer lock.
+
+The intravitreal injection should be performed with a 30-gauge x ½-inch injection needle (not provided).
+
+The pre-filled syringe contains more than the recommended dose of 2 mg aflibercept-mrbb (equivalent to 50 microliters).
+The excess volume must be discarded prior to the administration.
+
+PRE-FILLED SYRINGE DESCRIPTION - Figure 1:
+
+Use aseptic technique to carry out the following steps:
+
+1.
+PREPARE
+
+When ready to administer AHZANTIVE, open the carton and remove sterilized blister pack.
+Carefully peel open the sterilized blister pack ensuring the sterility of its contents.
+Keep the syringe in the sterile tray until you are ready for assembly.
+
+2.
+REMOVE SYRINGE
+
+Using aseptic technique, remove the syringe from the sterilized blister pack.
+
+3.
+TWIST OFF SYRINGE CAP
+
+Twist off (do not snap off) the syringe cap by holding the syringe in one hand and the syringe cap with the thumb and forefinger of the other hand (see Figure 2).
+
+Figure 2:
+
+4.
+ATTACH NEEDLE
+
+Using aseptic technique, firmly twist a 30-gauge x ½-inch injection needle onto the Luer lock syringe tip (see Figure 3).
+
+Figure 3:
+
+Note: When ready to administer AHZANTIVE, remove the plastic needle shield from the needle.
+
+5.
+DISLODGE AIR BUBBLES
+
+Holding the syringe with the needle pointing up, check the syringe for bubbles.
+If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 4).
+
+Figure 4:
+
+6.
+EXPEL AIR AND SET THE DOSE
+
+To eliminate all bubbles and to expel excess drug, slowly depress the plunger rod to align the plunger dome edge (see Figure 5a) with the black dosing line on the syringe (equivalent to 50 microliters) (see Figure 5b).
+
+Figure 5a:
+
+Figure 5b:
+
+7.
+The pre-filled syringe is for one-time use in one eye only.
+After injection any unused product must be discarded.
+
+2.7 Preparation for Administration - Vial
 
 AHZANTIVE should be inspected visually prior to administration.
 If particulates, cloudiness, or discoloration are visible, the vial must not be used.
@@ -51,20 +127,20 @@ Prepare for intravitreal injection with the following medical devices for single
 - a sterile injection needle (30-gauge × ½-inch)
 
 1.
-Remove the protective plastic cap from the vial (see Figure 1).
+Remove the protective plastic cap from the vial (see Figure 6).
 
-Figure 1:
+Figure 6:
 
 2.
-Clean the top of the vial with an alcohol wipe (see Figure 2).
+Clean the top of the vial with an alcohol wipe (see Figure 7).
 
-Figure 2:
+Figure 7:
 
 3.
 Remove the 18-gauge x 1½-inch, 5-micron, filter needle and the 1-mL syringe from their packaging.
-Attach the filter needle to the syringe by twisting it onto the Luer lock syringe tip (see Figure 3).
+Attach the filter needle to the syringe by twisting it onto the Luer lock syringe tip (see Figure 8).
 
-Figure 3:
+Figure 8:
 
 4.
 Push the filter needle into the center of the vial stopper until the needle is completely inserted into the vial and the tip touches the bottom or bottom edge of the vial.
@@ -72,11 +148,11 @@ Push the filter needle into the center of the vial stopper until the needle is c
 5.
 Using aseptic technique withdraw all of the AHZANTIVE vial contents into the syringe, keeping the vial in an upright position, slightly inclined to ease complete withdrawal.
 To deter the introduction of air, ensure the bevel of the filter needle is submerged into the liquid.
-Continue to tilt the vial during withdrawal keeping the bevel of the filter needle submerged in the liquid (see Figure 4a and Figure 4b).
+Continue to tilt the vial during withdrawal keeping the bevel of the filter needle submerged in the liquid (see Figure 9a and Figure 9b).
 
-Figure 4a:
+Figure 9a:
 
-Figure 4b:
+Figure 9b:
 
 6.
 Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
@@ -86,30 +162,36 @@ Remove the filter needle from the syringe and properly dispose of the filter nee
 Note: Filter needle is not to be used for intravitreal injection.
 
 8.
-Remove the 30-gauge x ½-inch injection needle from its packaging and attach the injection needle to the syringe by firmly twisting the injection needle onto the Luer lock syringe tip (see Figure 5).
+Remove the 30-gauge x ½-inch injection needle from its packaging and attach the injection needle to the syringe by firmly twisting the injection needle onto the Luer lock syringe tip (see Figure 10).
 
-Figure 5:
+Figure 10:
 
 9.
 When ready to administer AHZANTIVE, remove the plastic needle shield from the needle.
 
 10.
 Holding the syringe with the needle pointing up, check the syringe for bubbles.
-If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 6).
+If there are bubbles, gently tap the syringe with your finger until the bubbles rise to the top (see Figure 11).
 
-Figure 6:
+Figure 11:
 
 11.
-To eliminate all of the bubbles and to expel excess drug, SLOWLY depress the plunger rod so that the plunger edge aligns with the line that marks 0.05 mL on the syringe (see Figure 7a and Figure 7b).
+To eliminate all of the bubbles and to expel excess drug, SLOWLY depress the plunger rod so that the plunger edge aligns with the line that marks 0.05 mL on the syringe (see Figure 12a and Figure 12b).
 
-Figure 7a:
+Figure 12a:
 
-Figure 7b:
+Figure 12b:
 
-2.7 Injection Procedure
+2.8 Injection Procedure
 
 The intravitreal injection procedure should be carried out under controlled aseptic conditions, which include surgical hand disinfection and the use of sterile gloves, a sterile drape, and a sterile eyelid speculum (or equivalent).
 Adequate anesthesia and a topical broad–spectrum microbicide should be given prior to the injection.
+
+Pre-filled syringe: Inject by pressing the plunger carefully and with constant pressure.
+Do not apply additional pressure once the plunger has reached the bottom of the syringe.
+A small residual volume may remain in the syringe after a full dose has been injected.
+This is normal.
+Do not administer any residual solution observed in the syringe.
 
 Immediately following the intravitreal injection, patients should be monitored for elevation in intraocular pressure.
 Appropriate monitoring may consist of a check for perfusion of the optic nerve head or tonometry.
