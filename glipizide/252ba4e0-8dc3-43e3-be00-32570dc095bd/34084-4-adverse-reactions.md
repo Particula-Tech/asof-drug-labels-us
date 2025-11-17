@@ -33,3 +33,5 @@ The relationship of these abnormalities to glipizide is uncertain, and they have
 Post-Marketing Experience The following adverse events have been reported in post-marketing surveillance:
 
 Hepatobiliary Cholestatic and hepatocellular forms of liver injury accompanied by jaundice have been reported rarely in association with glipizide; glipizide should be discontinued if this occurs.
+
+To report SUSPECTED ADVERSE REACTIONS, contact ANI Pharmaceuticals, Inc. at 1-855-204-1431 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

@@ -16,4 +16,4 @@ All brand names listed are the registered trademarks of their respective owners 
 
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-Issued: 08/2022 LB4530-00
+Issued: 04/2025 LB4530-01
