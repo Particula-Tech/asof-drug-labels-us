@@ -15,7 +15,7 @@ The safety of tranexamic acid USP tablets in the treatment of heavy menstrual bl
 
 Across the studies, the combined exposure to 3900 mg/day tranexamic acid USP tablets was 947 cycles and the average duration of use was 3.4 days per cycle.
 In both studies, subjects were generally healthy women who had menstrual blood loss of ≥ 80 mL.
-In these studies, subjects were 18 to 49 years of age with a mean age of approximately 40 years, had cyclic menses every 21-35 days, and a body mass index (BMI) of approximately 32 kg/m2.
+In these studies, subjects were 18 to 49 years of age with a mean age of approximately 40 years, had cyclic menses every 21–35 days, and a body mass index (BMI) of approximately 32 kg/m2.
 On average, subjects had a history of heavy menstrual bleeding for approximately 10 years and 40% had fibroids as determined by transvaginal ultrasound.
 Approximately 70% were Caucasian, 25% were Black, and 5% were Asian, Native American, Pacific Islander, or Other.
 Seven percent (7%) of all subjects were of Hispanic origin.
@@ -39,7 +39,7 @@ Adverse Reactions* Reported in Women with Heavy Menstrual Bleeding (Studies 1 an
 | Migraine | 14 (6.0%) | 8 (5.8%) |  |  |  |  |
 | Anemia | 13 (5.6%) | 5 (3.6%) |  |  |  |  |
 | Fatigue | 12 (5.2%) | 6 (4.3%) |  |  |  |  |
-| * Adverse reactions that were reported by ≥ 5% of tranexamic acid USP tablets-treated subjects and more frequently in tranexamic acid USP tablets -treated subjects compared to placebo-treated subjects |  |  |  |  |  |  |
+| * Adverse reactions that were reported by ≥ 5% of tranexamic acid USP tablets-treated subjects and more frequently in tranexamic acid USP tablets-treated subjects compared to placebo-treated subjects |  |  |  |  |  |  |
 | a Includes headache and tension headache |  |  |  |  |  |  |
 | b Nasal and sinus symptoms include nasal, respiratory tract and sinus congestion, sinusitis, acute sinusitis, sinus headache, allergic sinusitis and sinus pain, and multiple allergies and seasonal allergies |  |  |  |  |  |  |
 | c Abdominal pain includes abdominal tenderness and discomfort |  |  |  |  |  |  |

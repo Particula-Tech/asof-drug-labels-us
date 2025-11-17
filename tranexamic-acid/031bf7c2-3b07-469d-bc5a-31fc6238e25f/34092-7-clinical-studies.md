@@ -4,7 +4,7 @@
 
 The efficacy of tranexamic acid USP tablets in the treatment of heavy menstrual bleeding (HMB) in women of reproductive potential was demonstrated in two randomized, double-blind, placebo-controlled studies: one 3-cycle treatment study (Study 1) and one 6-cycle treatment study (Study 2) [see Adverse Reactions (6.1)].
 In these studies, HMB was defined as an average menstrual blood loss of ≥ 80 mL as assessed by alkaline hematin analysis of collected sanitary products over two baseline menstrual cycles.
-Subjects were 18 to 49 years of age with a mean age of approximately 40 years, had cyclic menses every 21-35 days, and a BMI of approximately 32 kg/m2.
+Subjects were 18 to 49 years of age with a mean age of approximately 40 years, had cyclic menses every 21–35 days, and a BMI of approximately 32 kg/m2.
 On average, subjects had an HMB history of approximately 10 years and 40% had fibroids as determined by transvaginal ultrasound.
 Approximately 70% were Caucasian, 25% were Black, and 5% were Asian, Native American, Pacific Islander, or Other.
 Seven percent (7%) of all subjects were of Hispanic origin.
@@ -38,23 +38,18 @@ No statistically significant treatment difference was observed in response rates
 
 Table 5: Secondary Outcomes in 3-Cycle Study in Women with Heavy Menstrual Bleeding (Study 1)
 
-| Outcome Measure | N | Baseline Meana | Least Squares Mean Reductionb |
+| Outcome Measure | N | Baseline MeanResponse categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited | Least Squares Mean ReductionPositive means reflect an improvement from baseline. |
 | --- | --- | --- | --- |
 | Social and Leisure Activities |  |  |  |
-| 3900 mg/day tranexamic acid USP tablets | 112 | 3.00 | 0.98c |
+| 3900 mg/day tranexamic acid USP tablets | 112 | 3.00 | 0.98p-value <0.05 versus placebo |
 | Placebo | 66 | 2.85 | 0.39 |
 | Physical Activities |  |  |  |
-| 3900 mg/day tranexamic acid USP tablets | 112 | 3.07 | 0.94c |
+| 3900 mg/day tranexamic acid USP tablets | 112 | 3.07 | 0.94 |
 | Placebo | 66 | 2.96 | 0.34 |
-|  | N |  | Respondersd |
+|  | N |  | RespondersResponders are defined as subjects who experienced a reduction from baseline in frequency of large stains. |
 | Reduction in Large Stains |  |  |  |
-| 3900 mg/day tranexamic acid USP tablets | 111 |  | 64%e |
+| 3900 mg/day tranexamic acid USP tablets | 111 |  | 64%Non-significant difference versus placebo |
 | Placebo | 67 |  | 52% |
-| a Response categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited |  |  |  |
-| b Positive means reflect an improvement from baseline. |  |  |  |
-| c p-value <0.05 versus placebo |  |  |  |
-| d Responders are defined as subjects who experienced a reduction from baseline in frequency of large stains. |  |  |  |
-| e Non-significant difference versus placebo |  |  |  |
 
 ## 14.3 Heavy Menstrual Bleeding in the Six-Cycle Treatment Study
 
@@ -79,23 +74,18 @@ No statistically significant treatment difference was observed in response rates
 Table 7.
 Secondary Outcomes in 6-Cycle Study in Women with Heavy Menstrual Bleeding (Study 2)
 
-| Outcome Measure | N | Baseline Meana | Least Squares Mean Reductionb |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Social and Leisure Activities |  |  |  |  |  |  |
-| 3900 mg/day tranexamic acid USP tablets | 115 | 2.92 | 0.85c |  |  |  |
-| Placebo | 72 | 2.74 | 0.44 |  |  |  |
-| Physical Activities |  |  |  |  |  |  |
-| 3900 mg/day tranexamic acid USP tablets | 115 | 3.05 | 0.87c |  |  |  |
-| Placebo | 72 | 2.90 | 0.40 |  |  |  |
-|  | N |  | Respondersd |  |  |  |
-| Reduction in Large Stains |  |  |  |  |  |  |
-| 3900 mg/day tranexamic acid USP tablets | 115 |  | 57%e |  |  |  |
-| Placebo | 72 |  | 51% |  |  |  |
-| a Response categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited |  |  |  |  |  |  |
-| b Positive means reflect an improvement from baseline |  |  |  |  |  |  |
-| c p-value <0.05 versus placebo |  |  |  |  |  |  |
-| d Responders are defined as subjects who experienced a reduction from baseline in frequency of large stains |  |  |  |  |  |  |
-| e Non-significant difference versus placebo |  |  |  |  |  |  |
+| Outcome Measure | N | Baseline MeanResponse categories: 1=not at all limited; 2=slightly limited; 3=moderately limited; 4=quite a bit limited; 5=extremely limited | Least Squares Mean ReductionPositive means reflect an improvement from baseline |
+| --- | --- | --- | --- |
+| Social and Leisure Activities |  |  |  |
+| 3900 mg/day tranexamic acid USP tablets | 115 | 2.92 | 0.85p-value <0.05 versus placebo |
+| Placebo | 72 | 2.74 | 0.44 |
+| Physical Activities |  |  |  |
+| 3900 mg/day tranexamic acid USP tablets | 115 | 3.05 | 0.87 |
+| Placebo | 72 | 2.90 | 0.40 |
+|  | N |  | RespondersResponders are defined as subjects who experienced a reduction from baseline in frequency of large stains |
+| Reduction in Large Stains |  |  |  |
+| 3900 mg/day tranexamic acid USP tablets | 115 |  | 57%Non-significant difference versus placebo |
+| Placebo | 72 |  | 51% |
 
 ## 14.4 Heavy Menstrual Bleeding Results over Time
 

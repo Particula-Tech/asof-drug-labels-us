@@ -18,9 +18,9 @@ Women using combined hormonal contraception were excluded from the clinical tria
 However, there have been US postmarketing reports of venous and arterial thrombotic events in women who have used tranexamic acid USP tablets concomitantly with combined hormonal contraceptives.
 For this reason, concomitant use of tranexamic acid with combined hormonal contraceptives is contraindicated [see Contraindications (4.1) and Drug Interactions (7.1)].
 
-Concomitant Use with Factor IX Complex Concentrates or Anti-Inhibitor Coagulant Concentrates
+Concomitant Use with Factor I X Complex Concentrates or Anti-Inhibitor Coagulant Concentrates
 
-Tranexamic acid USP tablets are not recommended in patients taking either Factor IX complex concentrates or anti-inhibitor coagulant concentrates because the risk of thrombosis may be increased [see Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
+Tranexamic acid USP tablets are not recommended in patients taking either Factor I X complex concentrates or anti-inhibitor coagulant concentrates because the risk of thrombosis may be increased [see Drug Interactions (7.3) and Clinical Pharmacology (12.3)].
 
 Patients with Acute Promyelocytic Leukemia Taking Concomitant All-Trans Retinoic Acid (Oral Tretinoin)
 

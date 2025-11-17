@@ -7,5 +7,3 @@ Tranexamic Acid, USP Tablets
 650 mg
 
 30 Tablets
-
-AMRING PHARMACEUTICALS

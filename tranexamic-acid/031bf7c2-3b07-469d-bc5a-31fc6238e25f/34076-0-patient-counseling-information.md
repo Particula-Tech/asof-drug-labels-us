@@ -2,16 +2,25 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
-Thromboembolic Risk Inform patients that tranexamic acid USP tablets may increase the risk of venous and arterial thrombosis or thromboembolism and to contact their healthcare provider for any signs or symptoms suggestive of thromboembolism [see Warnings and Precautions (5.1)].
+Thromboembolic Risk
+
+Inform patients that tranexamic acid USP tablets may increase the risk of venous and arterial thrombosis or thromboembolism and to contact their healthcare provider for any signs or symptoms suggestive of thromboembolism [see Warnings and Precautions (5.1)].
 
 Advise patients to discontinue use of tranexamic acid USP tablets and promptly report visual and ocular symptoms to their health care provider as retinal venous and arterial occlusion have been reported in patients using tranexamic acid USP tablets [see Warnings and Precautions (5.1)].
 
-Severe Allergic Reactions Inform patients that they should stop tranexamic acid USP tablets and seek immediate medical attention if they notice symptoms of a severe allergic reaction (e.g., shortness of breath or throat tightening) [see Warnings and Precautions (5.2)].
+Severe Allergic Reactions
 
-Administration Instructions Instruct patients to take tranexamic acid USP tablets only during menstruation and for a maximum of 5 days each month [see Recommended Dosage (2.1)].
+Inform patients that they should stop tranexamic acid USP tablets and seek immediate medical attention if they notice symptoms of a severe allergic reaction (e.g., shortness of breath or throat tightening) [see Warnings and Precautions (5.2)].
 
-Manufactured for: Amring Pharmaceuticals Inc. Berwyn, PA 19312 www.amringusa.com
+Administration Instructions
 
-The Amring Logo and the “A” Logo are trademarks of Amring Pharmaceuticals Inc.
+Instruct patients to take tranexamic acid USP tablets only during menstruation and for a maximum of 5 days each month [see Recommended Dosage (2.1)].
+
+Manufactured for: Nordic Pharma, Inc. Berwyn, PA 19312 www.nordicpharmausa.com
+
+The Nordic Pharma Logo is a trademark of Nordic Group B.V.
 
 Manufactured by: Mikart, LLC Atlanta, GA 30318
+
+1221E00 Rev.
+07/2024

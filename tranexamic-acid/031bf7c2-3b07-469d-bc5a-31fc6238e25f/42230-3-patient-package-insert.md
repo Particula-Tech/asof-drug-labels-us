@@ -1,6 +1,5 @@
-# PATIENT INFORMATION
-
-TRANEXAMIC ACID (TRAN-ex-AM-ik AS-id), USP TABLETS, for oral use
+| PATIENT INFORMATION TRANEXAMIC ACID (TRAN-ex-AM-ik AS-id), USP TABLETS, for oral use |
+| --- |
 
 Read the Patient Information that comes with tranexamic acid USP tablets before you start using the drug and each time you get a refill.
 There may be new information.
@@ -108,7 +107,7 @@ This may be a sign of a more serious condition.
 
 Call your healthcare provider for medical advice about side effects.
 You may report side effects to the FDA at 1-800-FDA-1088.
-You may also report side effects to Amring Pharmaceuticals Inc. at 1-844-Amring1 (1-844-267-4641).
+You may also report side effects to Nordic Pharma, Inc. at 1-844-267-4641.
 
 How should I store tranexamic acid USP tablets?
 
@@ -126,7 +125,7 @@ It may harm them.
 This patient information leaflet summarizes the most important information about tranexamic acid USP tablets.
 If you would like more information about tranexamic acid USP tablets, talk with your healthcare provider.
 You can ask your healthcare provider or pharmacist for information about tranexamic acid USP tablets that is written for healthcare professionals.
-For more information, call 1-844-Amring1 (1-844-267-4641).
+For more information, call Nordic Pharma, Inc. at 1-844-267-4641.
 
 What are the ingredients of tranexamic acid USP tablets?
 
@@ -136,11 +135,11 @@ Inactive ingredients: microcrystalline cellulose, colloidal silicon dioxide, pre
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Amring Pharmaceuticals Inc. Berwyn, PA 19312 www.amringusa.com
+Manufactured for: Nordic Pharma, Inc. Berwyn, PA 19312 www.nordicpharmausa.com
 
-The Amring Logo and the “A” Logo are trademarks of Amring Pharmaceuticals Inc.
+The Nordic Pharma Logo is a trademark of Nordic Group B.V.
 
 Manufactured by: Mikart, LLC Atlanta, GA 30318
 
-Rev.
-12/2020
+1221E00 Rev.
+07/2024

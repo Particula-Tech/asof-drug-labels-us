@@ -12,9 +12,9 @@ For this reason, concomitant use of tranexamic acid USP tablets with combined ho
 Concomitant therapy with tissue plasminogen activators may decrease the efficacy of both tranexamic acid USP tablets and tissue plasminogen activators.
 Discontinue tranexamic acid USP tablets if a patient requires tissue plasminogen activators.
 
-## 7.3 Factor IX Complex Concentrates or Anti-Inhibitor Coagulant Concentrates
+## 7.3 Factor I X Complex Concentrates or Anti-Inhibitor Coagulant Concentrates
 
-Tranexamic acid USP tablets are not recommended in patients taking either Factor IX complex concentrates or anti-inhibitor coagulant concentrates because the risk of thrombosis may be increased [see Warnings and Precautions (5.1)].
+Tranexamic acid USP tablets are not recommended in patients taking either Factor I X complex concentrates or anti-inhibitor coagulant concentrates because the risk of thrombosis may be increased [see Warnings and Precautions (5.1)].
 
 ## 7.4 All-Trans Retinoic Acid (Oral Tretinoin)
 
