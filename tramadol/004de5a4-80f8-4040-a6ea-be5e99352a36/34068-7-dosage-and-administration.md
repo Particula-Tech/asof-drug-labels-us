@@ -4,13 +4,14 @@
 
 Tramadol hydrochloride extended-release tablets should be prescribed only by healthcare professionals who are knowledgeable about the use of extended-release/long-acting opioids and how to mitigate the associated risks.
 
-- Do not use tramadol hydrochloride extended-release tablets concomitantly with other tramadol products [see Warnings and Precautions (5.7), (5.15)].
+- Do not use tramadol hydrochloride extended-release tablets concomitantly with other tramadol products [see Warnings and Precautions (5.3), (5.15)].
 - Do not administer tramadol hydrochloride extended-release tablets at a dose exceeding 300 mg per day.
 - Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)].
   Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of tramadol hydrochloride extended-release tablets for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 - Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)]
 - Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with tramadol hydrochloride extended-release tablets.
   Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)].
+- Tramadol hydrochloride extended-release tablets should be taken once daily, at approximately the same time every day.
 - Instruct patients to swallow tramadol hydrochloride extended-release tablets whole [see Patient Counseling Information (17)], and to take it with liquid.
   Crushing, chewing, splitting, or dissolving tramadol hydrochloride extended-release tablets will result in uncontrolled delivery of tramadol and can lead to overdose or death [see Warnings and Precautions (5.1)].
 - Tramadol hydrochloride extended-release tablets may be taken without regard to food, It is recommended that tramadol hydrochloride extended-release tablets be taken in a consistent manner [see Clinical Pharmacology (12.3)].
@@ -28,14 +29,28 @@ Be familiar with these differences, as outlined in the approved labeling for tho
 
 ## 2.3 Initial Dosage
 
+It is safer to underestimate a patient’s 24-hour tramadol requirements and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour tramadol dosage and manage an adverse reaction due to an overdose.
+While useful tables of opioid equivalents are readily available, there is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Frequently reevaluate patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to Tramadol Hydrochloride Extended-Release Tablets.
+
+Use of Tramadol Hydrochloride Extended-Release Tablets The initial dose of tramadol hydrochloride extended-release tablets is 100 mg once daily.
+
 Patients Currently on Tramadol Immediate-Release (IR) Products
 
-Calculate the 24-hour tramadol IR dose and initiate a total daily dose of tramadol hydrochloride extended-release tablets rounded down to the next lower 100 mg increment.
+Calculate the 24-hour tramadol IR dose and initiate a total daily dose of tramadol hydrochloride extended-release tablets rounded down to the next lower 100 mg increment..
+The dose should be taken once daily.
 The dose may subsequently be individualized according to patient need.
 Due to limitations in flexibility of dose selection with tramadol hydrochloride extended-release tablets, some patients maintained on tramadol IR products may not be able to convert to tramadol hydrochloride extended-release tablets.
-Conversion from Other Opioids to Tramadol Hydrochloride Extended-Release Tablets
+Conversion from Other Opioid Analgesics to Tramadol Hydrochloride Extended-Release Tablets
 
-When tramadol hydrochloride extended-release tablets therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
+When tramadol hydrochloride extended-release tablets therapy is initiated, discontinue all opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
+There are no established conversion ratios for conversion from other opioids to tramadol hydrochloride extended-release tablets defined by clinical trials.
+
+It is safer to underestimate a patient’s 24-hour tramadol requirements and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour tramadol dosage and manage an adverse reaction due to an overdose.
+While useful tables of opioid equivalents are readily available, there is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Frequently reevaluate patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to Tramadol Hydrochloride Extended-Release Tablets.
+
+Use of Tramadol Hydrochloride Extended-Release Tablets The initial dose of tramadol hydrochloride extended-release tablets is 100 mg once daily.
 
 ## 2.4 Titration and Maintenance of Therapy
 
@@ -55,8 +70,8 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 ## 2.5 Safe Reduction or Discontinuation of Tramadol Hydrochloride Extended-Release Tablets
 
 Do not rapidly reduce or abruptly discontinue tramadol hydrochloride extended-release tablets in patients who may be physically dependent on opioids.
-Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Rapid reduction or abrupt discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
 When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking tramadol hydrochloride extended-release tablets, there are a variety of factors that should be considered, including the total daily dose of opioid (including tramadol hydrochloride extended-release tablets) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.

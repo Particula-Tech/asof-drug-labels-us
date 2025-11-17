@@ -14,16 +14,19 @@ If no take back programs or DEA-registered collectors are available, instruct pa
 - Mix tramadol hydrochloride extended-release tablets (do not crush) with an unpalatable substance such as dirt, cat litter, or used coffee grounds;
 - Place the mixture in a container such as a sealed plastic bag;
 - Throw the container in the household trash;
-- Delete all personal information on the prescription label of the empty bottle
+- Remove all personal information on the prescription label of the empty bottle
 
 Inform patients that they can visit www.fda.gov/drugdisposal for additional information on disposal of unused medicines.
 
 Addiction, Abuse, and Misuse Inform patients that the use of tramadol hydrochloride extended-release tablets, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.1)].
 Instruct patients not to share tramadol hydrochloride extended-release tablets with others and to take steps to protect tramadol hydrochloride extended-release tablets from theft or misuse.
 Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting tramadol hydrochloride extended-release tablets or when the dosage is increased, and that it can occur even at recommended dosages.
-Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.2)].
+Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.2), Overdosage (10)].
 
-Interactions with Benzodiazepines and Other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if tramadol hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
+Accidental Ingestion (or Exposure) Inform patients that accidental ingestion (or exposure), especially by (or in) children, may result in respiratory depression or death [see Warnings and Precautions (5.2)].
+Instruct patients to take steps to store tramadol hydrochloride extended-release tablets securely and to dispose of unused tramadol hydrochloride extended-release tablets in accordance with the local state guidelines and/or regulations.
+
+Interactions with Benzodiazepines and Other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if tramadol hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
 Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
@@ -34,7 +37,7 @@ Educate patients and caregivers on how to recognize the signs and symptoms of an
 
 Explain to patients and caregivers that effects of opioid overdose reversal agents like naloxone and nalmefene are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if an opioid overdose reversal agent is administered [see Overdosage (10)].
 
-Advise patients and caregivers: • how to treat with the overdose reversal agent in the event of an opioid overdose • to tell family and friends about the opioid overdose reversal agent, and to keep it in a place where family and friends can access it in an emergency • to read the Patient Information (or other educational material) that will come with their opioid overdose reversal agent.
+Advise patients and caregivers: • how to treat with the overdose reversal agent in the event of an opioid overdose. • to tell family and friends about the opioid overdose reversal agent, and to keep it in a place where family and friends can access it in an emergency. • to read the Patient Information (or other educational material) that will come with their opioid overdose reversal agent.
 Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Ultra-Rapid Metabolism of Tramadol and Other Risk Factors for Life-threatening Respiratory Depression in Children Advise caregivers that tramadol hydrochloride extended-release tablets are contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy.
@@ -44,7 +47,7 @@ Hyperalgesia and Allodynia
 
 Advise patients to inform their healthcare professional if they experience symptoms of hyperalgesia, including worsening pain, increased sensitivity to pain, or new pain [see Warnings and Precautions (5.8); Adverse Reactions (6.2)].
 
-Serotonin Syndrome Inform patients that tramadol could cause a rare but potentially life-threatening condition, particularly during concomitant use with serotonergic drugs.
+Serotonin Syndrome Inform patients that tramadol could cause a rare but potentially life-threatening condition called serotonin syndrome, particularly during concomitant use with serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop after discharge from the hospital.
 Instruct patients to inform their healthcare provider if they are taking, or plan to take serotonergic medications [see Warnings and Precautions (5.9), Drug Interactions (7)].
 Seizures Inform patients that tramadol hydrochloride extended-release tablets may cause seizures with concomitant use of serotonergic agents (including SSRIs, SNRIs, and triptans) or drugs that significantly reduce the metabolic clearance of tramadol [see Warnings and Precautions (5.10)].
@@ -57,6 +60,7 @@ Important Administration Instructions Instruct patients how to properly take tra
 - Advise patients not to exceed the single-dose and 24-hour dose limit and the time interval between doses, since exceeding these recommendations can result in respiratory depression, seizures, hepatic toxicity, and death.
   [see Dosage and Administration (2.1)].
 - Do not discontinue tramadol hydrochloride extended-release tablets without first discussing the need for a tapering regimen with the prescriber [see Dosage and Administration (2.5)].
+- Tramadol hydrochloride extended-release tablets should not be taken with alcohol-containing beverages.
 
 Important Discontinuation Instructions In order to avoid developing withdrawal symptoms, instruct patients not to discontinue tramadol hydrochloride extended-release tablets without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.5)].
 

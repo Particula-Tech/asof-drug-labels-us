@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described in greater detail, in other sections:
+The following serious or otherwise important adverse reactions are described in greater detail, in other sections:
 
 - Addiction, Abuse, and Misuse [see Warnings and Precautions (5.1)]
 - Life-Threatening Respiratory Depression [see Warnings and Precautions (5.2)]
@@ -127,12 +127,15 @@ Hyponatremia: cases of severe hyponatremia and/or SIADH have been reported in pa
 Hypoglycemia: Cases of hypoglycemia have been reported in patients taking tramadol.
 Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients [see Warnings and Precautions (5.21)].
 
+Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration.
+[see Warnings and Precautions (5.8)]
+
 Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids, and may occur more frequently in patients taking higher doses of opioid, and/or in patients taking opioids longer term [see Warnings and Precautions (5.16)].
 
 Adverse Reactions from Observational Studies
 
-A prospective, observational cohort study estimated the risks of a addiction, abuse, and misuse in patients initiating long-term use of Schedule II opioid analgesics between 2017 and 2021.
-Study participants included in one or more analyses had been enrolled in selected insurance plans or health systems for at least one year, were free of at least one outcome at baseline, completed a minimum number of follow-up assessments, and either: 1) filled multiple extended-release/long-acting opioid analgesic prescriptions during a 90 day period (n=978); or 2) filled any Schedule II opioid analgesic for at least 70 of 90 days (n=1,244).
+A prospective, observational cohort study estimated the risks of addiction, abuse, and misuse in patients initiating long-term use of Schedule II opioid analgesics between 2017 and 2021.
+Study participants included in one or more analyses had been enrolled in selected insurance plans or health systems for at least one year, were free of at least one outcome at baseline, completed a minimum number of follow-up assessments, and either: 1) filled multiple extended-release/long-acting opioid analgesic prescriptions during a 90-day period (n=978); or 2) filled any Schedule II opioid analgesic prescriptions covering at least 70 of 90 days (n=1,244).
 Those included also had no dispensing of the qualifying opioids in the previous 6 months.
 
 Over 12 months: • approximately 1% to 6% of participants across the two cohorts newly met criteria for addiction, as assessed with two validated interview based measures of moderate-to-severe opioid use disorder based on Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria, and • approximately 9% and 22% of participants across the two cohorts newly met criteria for prescription opioid abuse and misuse [defined in Drug Abuse and Dependence (9.2)], respectively, as measured with a validated self-reported instrument.

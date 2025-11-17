@@ -15,7 +15,7 @@ Abuse is the intentional, non-therapeutic use of a drug, even once, for its desi
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
 
 Misuse and abuse of tramadol hydrochloride extended-release tablets increases risk of overdose, which may lead to central nervous system and respiratory depression, hypotension, seizures, and death.
-The risk is increased with concurrent abuse of tramadol hydrochloride extended-release tablets with alcohol and other CNS depressants.
+The risk is increased with concurrent abuse of tramadol hydrochloride extended-release tablets with alcohol and/or other CNS depressants.
 Abuse of and addiction to opioids in some individuals may not be accompanied by concurrent tolerance and symptoms of physical dependence.
 In addition, abuse of opioids can occur in the absence of addiction.
 
@@ -35,7 +35,8 @@ Proper assessment of the patient, proper prescribing practices, periodic reevalu
 Risks Specific to Abuse of Tramadol Hydrochloride Extended-Release Tablets
 
 Abuse of tramadol hydrochloride extended-release tablets poses a risk of overdose and death.
-This is increased with concurrent use of tramadol hydrochloride extended-release tablets with alcohol and/or other CNS depressants.
+This risk is increased with concurrent use of tramadol hydrochloride extended-release tablets with alcohol and/or other CNS depressants [see Warnings and Precautions (5.1, 5.3), Drug Interactions (7)].
+
 Tramadol Hydrochloride Extended-Release Tablets is approved for oral use only.
 Inappropriate intravenous, intramuscular, or subcutaneous use of tramadol hydrochloride extended-release tablets can result in death, local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis, and valvular heart injury, and embolism.
 Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
@@ -52,9 +53,9 @@ Physical dependence is a state that develops as a result of a physiological adap
 Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
-Do not abruptly discontinue tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids.
-Rapid tapering of tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Do not rapidly reduce or abruptly discontinue tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids.
+Rapid reduction or abrupt discontinuation of tramadol hydrochloride extended-release tablets in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 
 When discontinuing tramadol hydrochloride extended-release tablets, gradually taper the dosage using a patient-specific plan that considers the following: the dose of tramadol hydrochloride extended-release tablets the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.

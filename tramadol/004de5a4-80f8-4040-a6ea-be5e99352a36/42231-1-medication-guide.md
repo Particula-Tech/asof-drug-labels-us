@@ -47,7 +47,7 @@ Tell your healthcare provider if you are:
 - pregnant or planning to become pregnant.
   Use of tramadol hydrochloride extended-release tablets for an extended period of time during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated.
 - breastfeeding.
-  Not recommended; it may harm your baby.
+  Not recommended during treatment with tramadol hydrochloride extended-release tablets; it may harm your baby.
 - living in a household where there are small children or someone who has abused street or prescription drugs
 - taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
   Taking tramadol hydrochloride extended-release tablets with certain other medicines can cause serious side effects that could lead to death.
@@ -107,4 +107,4 @@ Halol-Baroda Highway,
 
 Halol-389 350, Gujarat, India.
 
-Revised: 08/2025
+Revised: 10/2025

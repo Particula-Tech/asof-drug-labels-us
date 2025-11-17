@@ -72,7 +72,7 @@ Because of the potential for serious adverse reactions, including excess sedatio
 
 Clinical Considerations
 
-IF infants are exposed to tramadol hydrochloride extended-release tablets through breast milk, they should be monitored for excess sedation and respiratory depression.
+Monitor infants exposed to tramadol hydrochloride extended-release tablets through breast milk, for excess sedation and respiratory depression.
 Withdrawal symptoms can occur in breastfed infants when maternal administration of an opioid analgesic is stopped, or when breast-feeding is stopped.
 Data
 
@@ -107,7 +107,7 @@ Of those subjects, 156 were 75 years of age and older.
 In general, higher incidence rates of adverse events were observed for patients older than 65 years of age compared with patients 65 years and younger, particularly for the following adverse events: constipation, fatigue, weakness, postural hypotension and dyspepsia.
 For this reason, tramadol hydrochloride extended-release tablets should be used with caution in patients over 65 years of age, and with even greater caution in patients older than 75 years of age [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
-Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid tolerant or when opioids were co-administered with other agents that depress respiration.
+Respiratory depression is the chief risk for elderly patients treated with opioids and has occurred after large initial doses were administered to patients who were not opioid tolerant or when opioids were co-administered with other agents that depress respiration.
 Titrate the dosage of tramadol hydrochloride extended-release tablets slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.12)].
 Tramadol is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
