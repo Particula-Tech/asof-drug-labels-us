@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-1. NDC 0781-2361-01 Rx only Methylphenidate HCl Extended-Release Capsules
+NDC 0781-2361-01 Rx only Methylphenidate HCl Extended-Release Capsules
 
 10 mg
 
@@ -12,7 +12,7 @@ SANDOZ
 
 # PRINCIPAL DISPLAY PANEL
 
-1. NDC 0781-2362-01 Rx only
+NDC 0781-2362-01 Rx only
 
 Methylphenidate HCl Extended-Release Capsules
 
@@ -26,8 +26,9 @@ SANDOZ
 
 # PRINCIPAL DISPLAY PANEL
 
-1. NDC 0781-2363-01 Rx only
-2. Methylphenidate HCl Extended-Release Capsules
+NDC 0781-2363-01 Rx only
+
+Methylphenidate HCl Extended-Release Capsules
 
 30 mg
 
@@ -39,8 +40,9 @@ SANDOZ
 
 # PRINCIPAL DISPLAY PANEL
 
-1. NDC 0781-2364-01 Rx only
-2. Methylphenidate HCl Extended-Release Capsules
+NDC 0781-2364-01 Rx only
+
+Methylphenidate HCl Extended-Release Capsules
 
 40 mg
 

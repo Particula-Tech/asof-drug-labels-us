@@ -7,9 +7,9 @@ The use of methylphenidate hydrochloride extended-release capsules exposes indiv
 Methylphenidate hydrochloride extended-release capsules can be diverted for non-medical use into illicit channels or distribution [see Drug Abuse and Dependence (9.2)].
 Misuse and abuse of CNS stimulants, including methylphenidate hydrochloride extended-release capsules, can result in overdose and death [see Overdosage (10)], and this risk is increased with higher doses or unapproved methods of administration, such as snorting or injection.
 
-Before prescribingmethylphenidate hydrochloride extended-release capsules, assess each patient’s risk for abuse, misuse, and addiction.
+Before prescribing methylphenidate hydrochloride extended-release capsules, assess each patient’s risk for abuse, misuse, and addiction.
 Educate patients and their families about these risks and proper disposal of any unused drug.
-Advise patients to store methylphenidate hydrochloride extended-release capsules in a safe place, preferably locked, and instruct patients to not givemethylphenidate hydrochloride extended-release capsules to anyone else.
+Advise patients to store methylphenidate hydrochloride extended-release capsules in a safe place, preferably locked, and instruct patients to not give methylphenidate hydrochloride extended-release capsules to anyone else.
 Throughout treatment with methylphenidate hydrochloride extended-release capsules, reassess each patient’s risk of abuse, misuse, and addiction and frequently monitor for signs and symptoms of abuse, misuse, and addiction.
 
 ## 5.2 Risks to Patients with Serious Cardiac Disease
@@ -60,6 +60,8 @@ Careful observation for digital changes is necessary during treatment with methy
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for patients treated with methylphenidate hydrochloride extended-release capsules who develop signs or symptoms of peripheral vasculopathy.
 
 ## 5.7 Long-Term Suppression of Growth in Pediatric Patients
+
+Methylphenidate hydrochloride extended release capsules is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
