@@ -13,6 +13,6 @@ Novaplus is a registered trademark of Vizient, Inc.
 
 Origin Sweden
 
-Rev 06/2024
+Rev 02/2025
 
-602345
+603330
