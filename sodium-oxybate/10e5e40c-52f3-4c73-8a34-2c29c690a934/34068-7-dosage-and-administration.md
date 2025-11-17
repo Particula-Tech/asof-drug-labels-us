@@ -29,7 +29,7 @@ There is insufficient information to provide specific dosing recommendations for
 
 LUMRYZ is taken orally as a single dose at bedtime.
 Prepare the dose of LUMRYZ prior to bedtime.
-Prior to ingestion, the dose of LUMRYZ should be suspended in approximately 1/3 cup (approximately 80 mL) of water in the mixing cup provided [see Instructions for Use].
+Prior to ingestion, the dose of LUMRYZ should be suspended in approximately 1/3 cup (approximately 80 mL) of water (with or without calorie-free drink mix or flavored water enhancer) in the mixing cup provided [see Instructions for Use].
 Do not use hot water [see Clinical Pharmacology (12.3)].
 After mixing, consume LUMRYZ within 30 minutes.
 

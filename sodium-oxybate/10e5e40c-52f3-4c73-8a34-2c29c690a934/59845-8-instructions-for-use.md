@@ -155,10 +155,10 @@ visit www.lumryz.com or call
 
 888-8AVADEL (888-828-2335).
 
-© Avadel 2024.
+© Avadel 2025.
 All rights reserved.
 AVADEL, the AVADEL logo, LUMRYZ, and the LUMRYZ logo are trademarks of an Avadel company.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 10/2024
+Revised: 11/2025

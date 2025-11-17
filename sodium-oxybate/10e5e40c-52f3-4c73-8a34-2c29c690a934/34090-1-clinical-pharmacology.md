@@ -29,6 +29,10 @@ Effect of Water Temperature
 
 An in vitro dissolution study showed that LUMRYZ mixed with hot water (90°C) resulted in a dose-dumping phenomenon for the release of sodium oxybate, whereas warm water (50°C) did not significantly affect the drug release from the extended-release suspension [see Dosage and Administration (2.3)].
 
+Effect of Water Flavoring
+
+An in vitro dissolution study showed that LUMRYZ mixed with water prepared with calorie-free drink mix (e.g., Crystal Light Raspberry Lemonade Drink Mix) or flavored water enhancer (e.g., Mio Fruit Punch Concentrate Liquid Water Enhancer) did not impact the drug release from the extended-release suspension [see Dosage and Administration (2.3)].
+
 Distribution
 
 GHB is a hydrophilic compound with an apparent volume of distribution averaging 190 mL/kg to 384 mL/kg.
