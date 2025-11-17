@@ -1,6 +1,6 @@
 # DESCRIPTION
 
-MAXITROL ® (neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) is a multiple dose anti-infective steroid combination in sterile suspension form for topical application.
+MAXITROL ®(neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) is a multiple dose anti-infective steroid combination in sterile suspension form for topical application.
 The chemical structure for the active ingredient, dexamethasone, is:
 
 Molecular Weight = 392.45 g/mol
@@ -20,5 +20,5 @@ Neomycin C (R 1=CH 2NH 2, R 2=H)
 
 The structural formula for polymyxin B sulfate is:
 
-Each mL of MAXITROL ® (neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) contains: Actives: neomycin sulfate equivalent to neomycin 3.5 mg, polymyxin B sulfate 10,000 units, dexamethasone 0.1%.
-Inactives: benzalkonium chloride 0.004% (preservative), hydrochloric acid and/or sodium hydroxide (to adjust pH), hypromellose 2910 0.5%, polysorbate 20, purified water, sodium chloride.
+Each mL of MAXITROL ®(neomycin and polymyxin B sulfates and dexamethasone ophthalmic suspension) contains: Actives:neomycin sulfate equivalent to neomycin 3.5 mg, polymyxin B sulfate 10,000 units, dexamethasone 0.1%.
+Inactives:benzalkonium chloride 0.004% (preservative), hydrochloric acid and/or sodium hydroxide (to adjust pH), hypromellose 2910 0.5%, polysorbate 20, purified water, sodium chloride.
