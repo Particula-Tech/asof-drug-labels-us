@@ -39,7 +39,7 @@ ACR Responses in Studies RA-II and RA-III (Percent of Patients)
 | Response | Placebo | Adalimumab | Adalimumab | Placebo/MTX | Adalimumab/MTX |
 |  |  | 40 mg every other week | 40 mg weekly |  | 40 mg every other week |
 | ACR20 |  |  |  |  |  |
-| Month 6 | 19% | 46%p < 0.01, adalimumab vs. placebo | 53% | 30% | 63% |
+| Month 6 | 19% | 46% p < 0.01, adalimumab vs. placebo | 53% | 30% | 63% |
 | Month 12 | NA | NA | NA | 24% | 59% |
 | ACR50 |  |  |  |  |  |
 | Month 6 | 8% | 22% | 35% | 10% | 39% |
@@ -61,13 +61,13 @@ Components of ACR Response in Studies RA-II and RA-III
 |  | Baseline | Wk 26 | Baseline | Wk 26 | Baseline | Wk 24 | Baseline | Wk 24 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Study RA-II |  |  |  | Study RA-III |  |  |  |
-| Parameter (median) | Placebo N = 110 |  | Adalimumab40 mg adalimumab administered every other week N = 113 |  | Placebo/MTX N = 200 |  | Adalimumab/MTX N = 207 |  |
-| Number of tender joints (0-68) | 35 | 26 | 31 | 16p < 0.001, adalimumab vs. placebo, based on mean change from baseline | 26 | 15 | 24 | 8 |
+| Parameter (median) | Placebo N = 110 |  | Adalimumab 40 mg adalimumab administered every other week N = 113 |  | Placebo/MTX N = 200 |  | Adalimumab /MTX N = 207 |  |
+| Number of tender joints (0-68) | 35 | 26 | 31 | 16 p < 0.001, adalimumab vs. placebo, based on mean change from baseline | 26 | 15 | 24 | 8 |
 | Number of swollen joints (0-66) | 19 | 16 | 18 | 10 | 17 | 11 | 18 | 5 |
-| Physician global assessmentVisual analog scale; 0 = best, 10 = worst | 7.0 | 6.1 | 6.6 | 3.7 | 6.3 | 3.5 | 6.5 | 2.0 |
+| Physician global assessment Visual analog scale; 0 = best, 10 = worst | 7.0 | 6.1 | 6.6 | 3.7 | 6.3 | 3.5 | 6.5 | 2.0 |
 | Patient global assessment | 7.5 | 6.3 | 7.5 | 4.5 | 5.4 | 3.9 | 5.2 | 2.0 |
 | Pain | 7.3 | 6.1 | 7.3 | 4.1 | 6.0 | 3.8 | 5.8 | 2.1 |
-| Disability index (HAQ)Disability Index of the Health Assessment Questionnaire; 0 = best, 3 = worst, measures the patient's ability to perform the following: dress/groom, arise, eat, walk, reach, grip, maintain hygiene, and maintain daily activity | 2.0 | 1.9 | 1.9 | 1.5 | 1.5 | 1.3 | 1.5 | 0.8 |
+| Disability index (HAQ) Disability Index of the Health Assessment Questionnaire; 0 = best, 3 = worst, measures the patient's ability to perform the following: dress/groom, arise, eat, walk, reach, grip, maintain hygiene, and maintain daily activity | 2.0 | 1.9 | 1.9 | 1.5 | 1.5 | 1.3 | 1.5 | 0.8 |
 | CRP (mg/dL) | 3.9 | 4.3 | 4.6 | 1.8 | 1.0 | 0.9 | 1.0 | 0.4 |
 
 The time course of ACR 20 response for Study RA-III is shown in Figure 1.
@@ -83,7 +83,7 @@ In Study RA-V with MTX naïve patients with recent onset RA, the combination tre
 Table 5.
 ACR Response in Study RA-V (Percent of Patients)
 
-| Response | MTXp < 0.05, Adalimumab/MTX vs. MTX for ACR 20 p < 0.001, Adalimumab/MTX vs. MTX for ACR 50 and 70, and Major Clinical Response N = 257 | Adalimumabp < 0.001, Adalimumab/MTX vs. Adalimumab N = 274 | Adalimumab/MTX N = 268 |
+| Response | MTX p < 0.05, Adalimumab/MTX vs. MTX for ACR 20 p < 0.001, Adalimumab/MTX vs. MTX for ACR 50 and 70, and Major Clinical Response N = 257 | Adalimumab p < 0.001, Adalimumab/MTX vs. Adalimumab N = 274 | Adalimumab/MTX N = 268 |
 | --- | --- | --- | --- |
 | ACR20 |  |  |  |
 | Week 52 | 63% | 54% | 73% |
@@ -94,7 +94,7 @@ ACR Response in Study RA-V (Percent of Patients)
 | ACR70 |  |  |  |
 | Week 52 | 27% | 26% | 46% |
 | Week 104 | 28% | 28% | 47% |
-| Major Clinical ResponseMajor clinical response is defined as achieving an ACR 70 response for a continuous six-month period | 28% | 25% | 49% |
+| Major Clinical Response Major clinical response is defined as achieving an ACR 70 response for a continuous six-month period | 28% | 25% | 49% |
 
 At Week 52, all individual components of the ACR response criteria for Study RA-V improved in the adalimumab/MTX group and improvements were maintained to Week 104.
 
@@ -108,7 +108,7 @@ Adalimumab/MTX treated patients demonstrated less radiographic progression than 
 Table 6.
 Radiographic Mean Changes Over 12 Months in Study RA-III
 
-|  | Placebo/MTX | Adalimumab/MTX 40 mg every other week | Placebo/MTX-Adalimumab/MTX (95% Confidence Interval95% confidence intervals for the differences in change scores between MTX and adalimumab.) | P-valueBased on rank analysis |
+|  | Placebo/MTX | Adalimumab/MTX 40 mg every other week | Placebo/MTX-Adalimumab/MTX (95% Confidence Interval 95% confidence intervals for the differences in change scores between MTX and adalimumab.) | P-value Based on rank analysis |
 | --- | --- | --- | --- | --- |
 | Total Sharp score | 2.7 | 0.1 | 2.6 (1.4, 3.8) | < 0.001 |
 | Erosion score | 1.6 | 0.0 | 1.6 (0.9, 2.2) | < 0.001 |
@@ -124,9 +124,9 @@ In Study RA-V, structural joint damage was assessed as in Study RA-III.
 Greater inhibition of radiographic progression, as assessed by changes in TSS, erosion score and JSN was observed in the adalimumab/MTX combination group as compared to either the MTX or adalimumab monotherapy group at Week 52 as well as at Week 104 (see Table 7).
 
 Table 7.
-Radiographic Mean Changemean (95% confidence interval) in Study RA-V
+Radiographic Mean Change mean (95% confidence interval)in Study RA-V
 
-|  |  | MTXp < 0.001, adalimumab/MTX vs. MTX at 52 and 104 weeks and for adalimumab /MTX vs. adalimumab at 104 weeks N = 257 | Adalimumab,p < 0.01, for adalimumab/MTX vs. adalimumab at 52 weeks N = 274 | Adalimumab/MTX N = 268 |
+|  |  | MTX p < 0.001, adalimumab/MTX vs. MTX at 52 and 104 weeks and for adalimumab /MTX vs. adalimumab at 104 weeks N = 257 | Adalimumab,p < 0.01, for adalimumab/MTX vs. adalimumab at 52 weeks N = 274 | Adalimumab/MTX N = 268 |
 | --- | --- | --- | --- | --- |
 | 52 Weeks | Total Sharp score | 5.7 (4.2, 7.3) | 3.0 (1.7, 4.3) | 1.3 (0.5, 2.1) |
 |  | Erosion score | 3.7 (2.7, 4.8) | 1.7 (1.0, 2.4) | 0.8 (0.4, 1.2) |
@@ -159,7 +159,7 @@ All patients had to show signs of active moderate or severe disease despite prev
 Patients who received prior treatment with any biologic DMARDs were excluded from the study.
 
 The study included four phases: an open-label lead in phase (OL-LI; 16 weeks), a double-blind randomized withdrawal phase (DB; 32 weeks), an open-label extension phase (OLE-BSA; up to 136 weeks), and an open-label fixed dose phase (OLE-FD; 16 weeks).
-In the first three phases of the study, adalimumab was administered based on body surface area at a dose of 24 mg/m2 up to a maximum total body dose of 40 mg subcutaneously (SC) every other week.
+In the first three phases of the study, adalimumab was administered based on body surface area at a dose of 24 mg/m 2up to a maximum total body dose of 40 mg subcutaneously (SC) every other week.
 In the OLE-FD phase, the patients were treated with 20 mg of adalimumab SC every other week if their weight was less than 30 kg and with 40 mg of adalimumab SC every other week if their weight was 30 kg or greater.
 Patients remained on stable doses of NSAIDs and or prednisone (≤ 0.2 mg/kg/day or 10 mg/day maximum).
 
@@ -170,14 +170,14 @@ After 32 weeks or at the time of disease flare during the DB phase, patients wer
 Study JIA-I Clinical Response
 
 At the end of the 16-week OL-LI phase, 94% of the patients in the MTX stratum and 74% of the patients in the non-MTX stratum were Pediatric ACR 30 responders.
-In the DB phase significantly fewer patients who received adalimumab experienced disease flare compared to placebo, both without MTX (43% vs. 71%) and with MTX (37% vs. 65%).
+In the DB phase significantly fewer patients who received adalimumab experienced disease flare compared to placebo, both without MTX (43% vs.71%) and with MTX (37% vs.65%).
 More patients treated with adalimumab continued to show pediatric ACR 30/50/70 responses at Week 48 compared to patients treated with placebo.
 Pediatric ACR responses were maintained for up to two years in the OLE phase in patients who received adalimumab throughout the study.
 
 Study JIA-II
 
 Adalimumab was assessed in an open-label, multicenter study in 32 patients who were 2 to < 4 years of age or 4 years of age and older weighing < 15 kg with moderately to severely active polyarticular JIA.
-Most patients (97%) received at least 24 weeks of adalimumab treatment dosed 24 mg/m2 up to a maximum of 20 mg every other week as a single SC injection up to a maximum of 120 weeks duration.
+Most patients (97%) received at least 24 weeks of adalimumab treatment dosed 24 mg/m 2up to a maximum of 20 mg every other week as a single SC injection up to a maximum of 120 weeks duration.
 During the study, most patients used concomitant MTX, with fewer reporting use of corticosteroids or NSAIDs.
 The primary objective of the study was evaluation of safety [see Adverse Reactions (6.1)].
 
@@ -190,7 +190,7 @@ Study PsA-I enrolled 313 adult patients with moderately to severely active PsA (
 Patients on MTX therapy (158 of 313 patients) at enrollment (stable dose of ≤ 30 mg/week for > 1 month) could continue MTX at the same dose.
 Doses of adalimumab 40 mg or placebo every other week were administered during the 24-week double-blind period of the study.
 
-Compared to placebo, treatment with adalimumab resulted in improvements in the measures of disease activity (see Tables 8 and 9).
+Compared to placebo, treatment with adalimumab resulted in improvements in the measures of disease activity (see Tables 8and 9).
 Among patients with PsA who received adalimumab, the clinical responses were apparent in some patients at the time of the first visit (two weeks) and were maintained up to 88 weeks in the ongoing open-label study.
 Similar responses were seen in patients with each of the subtypes of psoriatic arthritis, although few patients were enrolled with the arthritis mutilans and ankylosing spondylitis-like subtypes.
 Responses were similar in patients who were or were not receiving concomitant MTX therapy at baseline.
@@ -203,7 +203,7 @@ Responses were similar in patients who were or were not receiving concomitant MT
 Table 8.
 ACR Response in Study PsA-I (Percent of Patients)
 
-|  | Placebo N = 162 | Adalimumabp < 0.001 for all comparisons between adalimumab and placebo N = 151 |
+|  | Placebo N = 162 | Adalimumab p < 0.001 for all comparisons between adalimumab and placeboN = 151 |
 | --- | --- | --- |
 | ACR 20 |  |  |
 | Week 12 | 14% | 58% |
@@ -220,14 +220,14 @@ Components of Disease Activity in Study PsA-I
 
 | Parameter: median | Baseline | 24 weeks | Baseline | 24 weeks |
 | --- | --- | --- | --- | --- |
-|  | Placebo N = 162 |  | Adalimumabp < 0.001 for adalimumab vs. placebo comparisons based on median changes N = 151 |  |
-| Number of tender jointsScale 0-78 | 23.0 | 17.0 | 20.0 | 5.0 |
-| Number of swollen jointsScale 0-76 | 11.0 | 9.0 | 11.0 | 3.0 |
-| Physician global assessmentVisual analog scale; 0 = best, 100 = worst | 53.0 | 49.0 | 55.0 | 16.0 |
+|  | Placebo N = 162 |  | Adalimumab p < 0.001 for adalimumab vs. placebo comparisons based on median changes N = 151 |  |
+| Number of tender joints Scale 0-78 | 23.0 | 17.0 | 20.0 | 5.0 |
+| Number of swollen joints Scale 0-76 | 11.0 | 9.0 | 11.0 | 3.0 |
+| Physician global assessment Visual analog scale; 0 = best, 100 = worst | 53.0 | 49.0 | 55.0 | 16.0 |
 | Patient global assessment | 49.5 | 49.0 | 48.0 | 20.0 |
 | Pain | 49.0 | 49.0 | 54.0 | 20.0 |
-| Disability index (HAQ)Disability Index of the Health Assessment Questionnaire; 0 = best, 3 = worst; measures the patient's ability to perform the following: dress/groom, arise, eat, walk, reach, grip, maintain hygiene, and maintain daily activity | 1.0 | 0.9 | 1.0 | 0.4 |
-| CRP (mg/dL)Normal range: 0-0.287 mg/dL | 0.8 | 0.7 | 0.8 | 0.2 |
+| Disability index (HAQ) Disability Index of the Health Assessment Questionnaire; 0 = best, 3 = worst; measures the patient's ability to perform the following: dress/groom, arise, eat, walk, reach, grip, maintain hygiene, and maintain daily activity | 1.0 | 0.9 | 1.0 | 0.4 |
+| CRP (mg/dL) Normal range: 0-0.287 mg/dL | 0.8 | 0.7 | 0.8 | 0.2 |
 
 Similar results were seen in an additional, 12-week study in 100 patients with moderate to severe psoriatic arthritis who had suboptimal response to DMARD therapy as manifested by ≥ 3 tender joints and ≥ 3 swollen joints at enrollment.
 
@@ -246,7 +246,7 @@ Change in Modified Total Sharp Score in Psoriatic Arthritis
 | --- | --- | --- | --- |
 |  | Placebo N = 141 | Adalimumab N = 133 |  |
 | Baseline mean | 22.1 | 23.4 | 23.4 |
-| Mean Change ± SD | 0.9 ± 3.1 | -0.1 ± 1.7 | -0.2 ± 4.9< 0.001 for the difference between adalimumab, Week 48 and Placebo, Week 24 (primary analysis) |
+| Mean Change ± SD | 0.9 ± 3.1 | -0.1 ± 1.7 | -0.2 ± 4.9 < 0.001 for the difference between adalimumab, Week 48 and Placebo, Week 24 (primary analysis) |
 
 Physical Function Response
 
@@ -276,23 +276,23 @@ Components of Ankylosing Spondylitis Disease Activity
 |  | Baseline mean | Week 24 mean | Baseline mean | Week 24 mean |
 | --- | --- | --- | --- | --- |
 |  | Placebo N = 107 |  | Adalimumab N = 208 |  |
-| ASAS 20 Response Criteriastatistically significant for comparisons between adalimumab and placebo at Week 24 |  |  |  |  |
-| Patient's Global Assessment of Disease ActivityPercent of subjects with at least a 20% and 10-unit improvement measured on a Visual Analog Scale (VAS) with 0 = "none" and 100 = "severe" | 65 | 60 | 63 | 38 |
+| ASAS 20 Response Criteria statistically significant for comparisons between adalimumab and placebo at Week 24 |  |  |  |  |
+| Patient's Global Assessment of Disease Activity Percent of subjects with at least a 20% and 10-unit improvement measured on a Visual Analog Scale (VAS) with 0 = "none" and 100 = "severe" | 65 | 60 | 63 | 38 |
 | Total back pain | 67 | 58 | 65 | 37 |
-| Inflammationmean of questions 5 and 6 of BASDAI (defined in 'd') | 6.7 | 5.6 | 6.7 | 3.6 |
-| BASFIBath Ankylosing Spondylitis Functional Index | 56 | 51 | 52 | 34 |
-| BASDAIBath Ankylosing Spondylitis Disease Activity Index score | 6.3 | 5.5 | 6.3 | 3.7 |
-| BASMIBath Ankylosing Spondylitis Metrology Index score | 4.2 | 4.1 | 3.8 | 3.3 |
+| Inflammation mean of questions 5 and 6 of BASDAI (defined in 'd') | 6.7 | 5.6 | 6.7 | 3.6 |
+| BASFI Bath Ankylosing Spondylitis Functional Index | 56 | 51 | 52 | 34 |
+| BASDAI Bath Ankylosing Spondylitis Disease Activity Indexscore | 6.3 | 5.5 | 6.3 | 3.7 |
+| BASMI Bath Ankylosing Spondylitis Metrology Indexscore | 4.2 | 4.1 | 3.8 | 3.3 |
 | Tragus to wall (cm) | 15.9 | 15.8 | 15.8 | 15.4 |
 | Lumbar flexion (cm) | 4.1 | 4.0 | 4.2 | 4.4 |
 | Cervical rotation (degrees) | 42.2 | 42.1 | 48.4 | 51.6 |
 | Lumbar side flexion (cm) | 8.9 | 9.0 | 9.7 | 11.7 |
 | Intermalleolar distance (cm) | 92.9 | 94.0 | 93.5 | 100.8 |
-| CRPC-Reactive Protein (mg/dL) | 2.2 | 2.0 | 1.8 | 0.6 |
+| CRP C-Reactive Protein (mg/dL) | 2.2 | 2.0 | 1.8 | 0.6 |
 
 A second randomized, multicenter, double-blind, placebo-controlled study of 82 patients with ankylosing spondylitis showed similar results.
 
-Patients treated with adalimumab achieved improvement from baseline in the Ankylosing Spondylitis Quality of Life Questionnaire (ASQoL) score (-3.6 vs. -1.1) and in the Short Form Health Survey (SF-36) Physical Component Summary (PCS) score (7.4 vs. 1.9) compared to placebo-treated patients at Week 24.
+Patients treated with adalimumab achieved improvement from baseline in the Ankylosing Spondylitis Quality of Life Questionnaire (ASQoL) score (-3.6 vs.-1.1) and in the Short Form Health Survey (SF-36) Physical Component Summary (PCS) score (7.4 vs.1.9) compared to placebo-treated patients at Week 24.
 
 ## 14.5 Adult Crohn's Disease
 
@@ -323,8 +323,8 @@ Induction of Clinical Remission in Studies CD-I and CD-II (Percent of Patients)
 | --- | --- | --- | --- | --- |
 |  | CD-I |  | CD-II |  |
 |  | Placebo N = 74 | Adalimumab 160/80 mg N = 76 | Placebo N = 166 | Adalimumab 160/80 mg N = 159 |
-| Clinical remission | 12% | 36%p < 0.001 for adalimumab vs. placebo pairwise comparison of proportions | 7% | 21% |
-| Clinical response | 34% | 58%p < 0.01 for adalimumab vs. placebo pairwise comparison of proportions | 34% | 52% |
+| Clinical remission | 12% | 36% p < 0.001 for adalimumab vs. placebo pairwise comparison of proportions | 7% | 21% |
+| Clinical response | 34% | 58% p < 0.01 for adalimumab vs. placebo pairwise comparison of proportions | 34% | 52% |
 | Clinical remission is CDAI score < 150; clinical response is decrease in CDAI of at least 70 points. |  |  |  |  |
 
 Maintenance of Clinical Remission
@@ -340,7 +340,7 @@ Maintenance of Clinical Remission in CD-III (Percent of Patients)
 | --- | --- | --- |
 |  | Placebo | 40 mg Adalimumab every other week |
 | Week 26 |  |  |
-| Clinical remission | 17% | 40%p < 0.001 for adalimumab vs. placebo pairwise comparisons of proportions |
+| Clinical remission | 17% | 40% p < 0.001 for adalimumab vs. placebo pairwise comparisons of proportions |
 | Clinical response | 28% | 54% |
 | Week 56 |  |  |
 | Clinical remission | 12% | 36% |
@@ -385,11 +385,11 @@ Every week dosing is not the recommended maintenance dosing regimen [see Dosage 
 Table 14.
 Clinical Remission and Clinical Response in Study PCD-I
 
-|  | Low Maintenance DoseThe low maintenance dose was 20 mg every other week for patients weighing ≥ 40 kg and 10 mg every other week for patients weighing < 40 kg. (20 or 10 mg every other week) N = 95 | High Maintenance DoseThe high maintenance dose was 40 mg every other week for patients weighing ≥ 40 kg and 20 mg every other week for patients weighing < 40 kg. (40 or 20 mg every other week) N = 93 |
+|  | Low Maintenance Dose The low maintenance dose was 20 mg every other week for patients weighing ≥ 40 kg and 10 mg every other week for patients weighing < 40 kg. (20 or 10 mg every other week) N = 95 | High Maintenance Dose The high maintenance dose was 40 mg every other week for patients weighing ≥ 40 kg and 20 mg every other week for patients weighing < 40 kg. (40 or 20 mg every other week) N = 93 |
 | --- | --- | --- |
 | Week 26 |  |  |
-| Clinical remissionClinical remission defined as PCDAI ≤ 10. | 28% | 39% |
-| Clinical responseClinical response defined as reduction in PCDAI of at least 15 points from baseline. | 48% | 59% |
+| Clinical remission Clinical remission defined as PCDAI ≤ 10. | 28% | 39% |
+| Clinical response Clinical response defined as reduction in PCDAI of at least 15 points from baseline. | 48% | 59% |
 | Week 52 |  |  |
 | Clinical remission | 23% | 33% |
 | Clinical response | 28% | 42% |
@@ -424,7 +424,7 @@ Induction of Clinical Remission in Studies UC-I and UC-II and Sustained Clinical
 |  | Placebo N = 130 | Adalimumab 160/80 mg N = 130 | Treatment Difference (95% CI) | Placebo N = 246 | Adalimumab 160/80 mg N = 248 | Treatment Difference (95% CI) |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | Study UC-I |  |  | Study UC-II |  |  |
-| Induction of Clinical Remission (Clinical Remission at Week 8) | 9.2% | 18.5% | 9.3%p < 0.05 for adalimumab vs. placebo pairwise comparison of proportions (0.9%, 17.6%) | 9.3% | 16.5% | 7.2% (1.2%, 12.9%) |
+| Induction of Clinical Remission (Clinical Remission at Week 8) | 9.2% | 18.5% | 9.3% p < 0.05 for adalimumab vs. placebo pairwise comparison of proportions (0.9%, 17.6%) | 9.3% | 16.5% | 7.2% (1.2%, 12.9%) |
 | Sustained Clinical Remission (Clinical Remission at both Weeks 8 and 52) | N/A | N/A | N/A | 4.1% | 8.5% | 4.4% (0.1%, 8.6%) |
 | Clinical remission is defined as Mayo score ≤ 2 with no individual subscores > 1. |  |  |  |  |  |  |
 | CI = Confidence interval |  |  |  |  |  |  |
@@ -451,7 +451,7 @@ Study Ps-II evaluated 99 subjects randomized to adalimumab and 48 subjects rando
 Subjects received placebo, or an initial dose of 80 mg adalimumab at Week 0 followed by 40 mg every other week starting at Week 1 for 16 weeks.
 Across all treatment groups the mean baseline PASI score was 21 and the baseline PGA score ranged from "moderate" (41%) to "severe" (51%) to "very severe" (8%).
 
-Studies Ps-I and II evaluated the proportion of subjects who achieved "clear" or "minimal" disease on the 6-point PGA scale and the proportion of subjects who achieved a reduction in PASI score of at least 75% (PASI 75) from baseline at Week 16 (see Table 16 and 17).
+Studies Ps-I and II evaluated the proportion of subjects who achieved "clear" or "minimal" disease on the 6-point PGA scale and the proportion of subjects who achieved a reduction in PASI score of at least 75% (PASI 75) from baseline at Week 16 (see Table 16and 17).
 
 Additionally, Study Ps-I evaluated the proportion of subjects who maintained a PGA of "clear" or "minimal" disease or a PASI 75 response after Week 33 and on or before Week 52.
 
@@ -461,7 +461,7 @@ Efficacy Results at 16 Weeks in Study Ps-I Number of Subjects (%)
 |  | N = 814 | N = 398 |
 | --- | --- | --- |
 |  | Adalimumab 40 mg every other week | Placebo |
-| PGA: Clear or minimalClear = no plaque elevation, no scale, plus or minus hyperpigmentation or diffuse pink or red coloration Minimal = possible but difficult to ascertain whether there is slight elevation of plaque above normal skin, plus or minus surface dryness with some white coloration, plus or minus up to red coloration | 506 (62%) | 17 (4%) |
+| PGA: Clear or minimal Clear = no plaque elevation, no scale, plus or minus hyperpigmentation or diffuse pink or red coloration Minimal = possible but difficult to ascertain whether there is slight elevation of plaque above normal skin, plus or minus surface dryness with some white coloration, plus or minus up to red coloration | 506 (62%) | 17 (4%) |
 | PASI 75 | 578 (71%) | 26 (7%) |
 
 Table 17.
@@ -470,11 +470,11 @@ Efficacy Results at 16 Weeks in Study Ps-II Number of Subjects (%)
 |  | N = 99 | N = 48 |
 | --- | --- | --- |
 |  | Adalimumab 40 mg every other week | Placebo |
-| PGA: Clear or minimalClear = no plaque elevation, no scale, plus or minus hyperpigmentation or diffuse pink or red coloration Minimal = possible but difficult to ascertain whether there is slight elevation of plaque above normal skin, plus or minus surface dryness with some white coloration, plus or minus up to red coloration | 70 (71%) | 5 (10%) |
+| PGA: Clear or minimal Clear = no plaque elevation, no scale, plus or minus hyperpigmentation or diffuse pink or red coloration Minimal = possible but difficult to ascertain whether there is slight elevation of plaque above normal skin, plus or minus surface dryness with some white coloration, plus or minus up to red coloration | 70 (71%) | 5 (10%) |
 | PASI 75 | 77 (78%) | 9 (19%) |
 
 Additionally, in Study Ps-I, subjects on adalimumab who maintained a PASI 75 were re-randomized to adalimumab (N = 250) or placebo (N = 240) at Week 33.
-After 52 weeks of treatment with adalimumab, more subjects on adalimumab maintained efficacy when compared to subjects who were re-randomized to placebo based on maintenance of PGA of "clear" or "minimal" disease (68% vs. 28%) or a PASI 75 (79% vs. 43%).
+After 52 weeks of treatment with adalimumab, more subjects on adalimumab maintained efficacy when compared to subjects who were re-randomized to placebo based on maintenance of PGA of "clear" or "minimal" disease (68% vs.28%) or a PASI 75 (79% vs.43%).
 
 A total of 347 stable responders participated in a withdrawal and retreatment evaluation in an open-label extension study.
 Median time to relapse (decline to PGA "moderate" or worse) was approximately 5 months.
@@ -493,7 +493,7 @@ Furthermore, a higher proportion of subjects in the adalimumab group than in the
 Table 18.
 Efficacy Results at 26 Weeks
 
-| Endpoint | Adalimumab 40 mg every other weekSubjects received 80 mg of adalimumab at Week 0, followed by 40 mg every other week starting at Week 1. N = 109 | Placebo N = 108 |
+| Endpoint | Adalimumab 40 mg every other week Subjects received 80 mg of adalimumab at Week 0, followed by 40 mg every other week starting at Week 1. N = 109 | Placebo N = 108 |
 | --- | --- | --- |
 | PGA-F: ≥ 2-grade improvement and clear or minimal | 49% | 7% |
 | mNAPSI 75 | 47% | 3% |
@@ -518,7 +518,7 @@ Efficacy Results at 12 Weeks in Subjects with Moderate to Severe Hidradenitis Su
 
 |  | Placebo | Adalimumab 40 mg Weekly | Placebo | Adalimumab 40 mg Weekly |
 | --- | --- | --- | --- | --- |
-|  | HS Study I |  | HS Study II19.3% of subjects in Study HS-II continued baseline oral antibiotic therapy during the study. |  |
+|  | HS Study I |  | HS Study II 19.3% of subjects in Study HS-II continued baseline oral antibiotic therapy during the study. |  |
 | Hidradenitis Suppurativa Clinical Response (HiSCR) | N = 154 40 (26%) | N = 153 64 (42%) | N=163 45 (28%) | N=163 96 (59%) |
 
 In both studies, from Week 12 to Week 35 (Period B), subjects who had received adalimumab were re-randomized to 1 of 3 treatment groups (adalimumab 40 mg every week, adalimumab 40 mg every other week, or placebo).
@@ -548,11 +548,11 @@ In both studies, all components of the primary endpoint contributed cumulatively
 Table 20.
 Time to Treatment Failure in Studies UV I and UV II
 
-|  | Placebo (N = 107) | adalimumab (N = 110) | HR [95% CI]HR of adalimumab versus placebo from proportional hazards regression with treatment as factor. | Placebo (N = 111) | adalimumab (N = 115) | HR [95% CI] |
+|  | Placebo (N = 107) | adalimumab (N = 110) | HR [95% CI] HR of adalimumab versus placebo from proportional hazards regression with treatment as factor. | Placebo (N = 111) | adalimumab (N = 115) | HR [95% CI] |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | UV I |  |  | UV II |  |  |
-| FailureTreatment failure at or after Week 6 in Study UV I, or at or after Week 2 in Study UV II, was counted as event. Subjects who discontinued the study were censored at the time of dropping out. n (%) | 84 (78.5) | 60 (54.5) | 0.50 [0.36, 0.70] | 61 (55.0) | 45 (39.1) | 0.57 [0.39, 0.84] |
-| Median Time to Failure (Months) [95% CI] | 3.0 [2.7, 3.7] | 5.6 [3.9, 9.2] | N/A | 8.3 [4.8, 12.0] | NENE = not estimable. Fewer than half of at-risk subjects had an event. | N/A |
+| Failure Treatment failure at or after Week 6 in Study UV I, or at or after Week 2 in Study UV II, was counted as event. Subjects who discontinued the study were censored at the time of dropping out.n (%) | 84 (78.5) | 60 (54.5) | 0.50 [0.36, 0.70] | 61 (55.0) | 45 (39.1) | 0.57 [0.39, 0.84] |
+| Median Time to Failure (Months) [95% CI] | 3.0 [2.7, 3.7] | 5.6 [3.9, 9.2] | N/A | 8.3 [4.8, 12.0] | NE NE = not estimable. Fewer than half of at-risk subjects had an event. | N/A |
 
 Figure 3: Kaplan-Meier Curves Summarizing Time to Treatment Failure on or after Week 6 (Study UV I) or Week 2 (Study UV II)
 

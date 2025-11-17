@@ -35,7 +35,7 @@ The effectiveness of adalimumab products has not been established in patients wh
 ## 1.7 Plaque Psoriasis
 
 AMJEVITA is indicated for the treatment of adult patients with moderate to severe chronic plaque psoriasis who are candidates for systemic therapy or phototherapy, and when other systemic therapies are medically less appropriate.
-AMJEVITA should only be administered to patients who will be closely monitored and have regular follow-up visits with a physician [see Boxed Warning and Warnings and Precautions (5)].
+AMJEVITA should only be administered to patients who will be closely monitored and have regular follow-up visits with a physician [see Boxed Warningand Warnings and Precautions (5)].
 
 ## 1.8 Hidradenitis Suppurativa
 

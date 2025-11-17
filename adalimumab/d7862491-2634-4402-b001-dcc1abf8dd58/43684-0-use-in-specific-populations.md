@@ -9,7 +9,7 @@ Clinical data are available from the Organization of Teratology Information Spec
 Registry results showed a rate of 10% for major birth defects with first trimester use of adalimumab in pregnant women with RA or CD and a rate of 7.5% for major birth defects in the disease-matched comparison cohort.
 The lack of pattern of major birth defects is reassuring and differences between exposure groups may have impacted the occurrence of birth defects (see Data).
 
-Adalimumab is actively transferred across the placenta during the third trimester of pregnancy and may affect immune response in the in utero exposed infant (see Clinical Considerations).
+Adalimumab is actively transferred across the placenta during the third trimester of pregnancy and may affect immune response in the in uteroexposed infant (see Clinical Considerations).
 In an embryo-fetal perinatal development study conducted in cynomolgus monkeys, no fetal harm or malformations were observed with intravenous administration of adalimumab during organogenesis and later in gestation, at doses that produced exposures up to approximately 373 times the maximum recommended human dose (MRHD) of 40 mg subcutaneous without methotrexate (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
@@ -42,7 +42,7 @@ In an independent clinical study conducted in ten pregnant women with IBD treate
 The last dose of adalimumab was given between 1 and 56 days prior to delivery.
 Adalimumab concentrations were 0.16-19.7 mcg/mL in cord blood, 4.28-17.7 mcg/mL in infant serum, and 0-16.1 mcg/mL in maternal serum.
 In all but one case, the cord blood concentration of adalimumab was higher than the maternal serum concentration, suggesting adalimumab actively crosses the placenta.
-In addition, one infant had serum concentrations at each of the following: 6 weeks (1.94 mcg/mL), 7 weeks (1.31 mcg/mL), 8 weeks (0.93 mcg/mL), and 11 weeks (0.53 mcg/mL), suggesting adalimumab can be detected in the serum of infants exposed in utero for at least 3 months from birth.
+In addition, one infant had serum concentrations at each of the following: 6 weeks (1.94 mcg/mL), 7 weeks (1.31 mcg/mL), 8 weeks (0.93 mcg/mL), and 11 weeks (0.53 mcg/mL), suggesting adalimumab can be detected in the serum of infants exposed in uterofor at least 3 months from birth.
 
 Animal Data
 
@@ -70,7 +70,7 @@ Pediatric assessments for AMJEVITA demonstrate that AMJEVITA is safe and effecti
 However, AMJEVITA is not approved for such indications due to marketing exclusivity for HUMIRA (adalimumab).
 
 Due to their inhibition of TNFα, adalimumab products administered during pregnancy could affect immune response in the in utero-exposed newborn and infant.
-Data from eight infants exposed to adalimumab in utero suggest adalimumab crosses the placenta [see Use in Specific Populations (8.1)].
+Data from eight infants exposed to adalimumab in uterosuggest adalimumab crosses the placenta [see Use in Specific Populations (8.1)].
 The clinical significance of elevated adalimumab concentrations in infants is unknown.
 The safety of administering live or live-attenuated vaccines in exposed infants is unknown.
 Risks and benefits should be considered prior to vaccinating (live or live-attenuated) exposed infants.

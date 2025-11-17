@@ -21,7 +21,7 @@ Reported infections include:
 
 Carefully consider the risks and benefits of treatment with AMJEVITA prior to initiating therapy in patients with chronic or recurrent infection.
 
-Monitor patients closely for the development of signs and symptoms of infection during and after treatment with AMJEVITA, including the possible development of TB in patients who tested negative for latent TB infection prior to initiating therapy [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].
+Monitor patients closely for the development of signs and symptoms of infection during and after treatment with AMJEVITA, including the possible development of TB in patients who tested negative for latent TB infection prior to initiating therapy [see Warnings and Precautions (5.1)and Adverse Reactions (6.1)].
 
 MALIGNANCY
 

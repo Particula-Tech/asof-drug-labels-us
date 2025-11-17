@@ -26,8 +26,7 @@ Inform patients that the first injection is to be performed under the supervisio
 If a patient or caregiver is to administer AMJEVITA, instruct them in injection techniques and assess their ability to inject subcutaneously to ensure the proper administration of AMJEVITA [see Instructions for Use].
 
 Instruct patients to dispose of their used needles and syringes or used prefilled autoinjector in a FDA-cleared sharps disposal container immediately after use.
-Instruct patients not to dispose of loose needles and syringes or prefilled autoinjector in their household trash.
-Instruct patients that if they do not have a FDA-cleared sharps disposal container, they may use a household container that is made of a heavy-duty plastic, can be closed with a tight-fitting and puncture-resistant lid without sharps being able to come out, upright and stable during use, leak-resistant, and properly labeled to warn of hazardous waste inside the container.
+Instruct patients not to dispose of loose needles and syringes or prefilled autoinjector in their household trash.Instruct patients that if they do not have a FDA-cleared sharps disposal container, they may use a household container that is made of a heavy-duty plastic, can be closed with a tight-fitting and puncture-resistant lid without sharps being able to come out, upright and stable during use, leak-resistant, and properly labeled to warn of hazardous waste inside the container.
 
 Instruct patients that when their sharps disposal container is almost full, they will need to follow their community guidelines for the correct way to dispose of their sharps disposal container.
 

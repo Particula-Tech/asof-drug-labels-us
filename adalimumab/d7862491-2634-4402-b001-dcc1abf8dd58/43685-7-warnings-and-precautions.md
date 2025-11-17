@@ -6,7 +6,7 @@ Patients treated with adalimumab products including AMJEVITA are at increased ri
 Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, parasitic, or other opportunistic pathogens including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis and tuberculosis have been reported with TNF-blockers.
 Patients have frequently presented with disseminated rather than localized disease.
 
-The concomitant use of a TNF-blocker and abatacept or anakinra was associated with a higher risk of serious infections in patients with rheumatoid arthritis (RA); therefore, the concomitant use of AMJEVITA and these biologic products is not recommended in the treatment of patients with RA [see Warnings and Precautions (5.7, 5.11) and Drug Interactions (7.2)].
+The concomitant use of a TNF-blocker and abatacept or anakinra was associated with a higher risk of serious infections in patients with rheumatoid arthritis (RA); therefore, the concomitant use of AMJEVITA and these biologic products is not recommended in the treatment of patients with RA [see Warnings and Precautions (5.7, 5.11)and Drug Interactions (7.2)].
 
 Treatment with AMJEVITA should not be initiated in patients with an active infection, including localized infections.
 Patients 65 years of age and older, patients with co-morbid conditions and/or patients taking concomitant immunosuppressants (such as corticosteroids or methotrexate), may be at greater risk of infection.
@@ -58,7 +58,8 @@ Malignancies in Adults
 In the controlled portions of clinical trials of some TNF-blockers, including adalimumab products, more cases of malignancies have been observed among TNF-blocker-treated adult patients compared to control-treated adult patients.
 During the controlled portions of 39 global adalimumab clinical trials in adult patients with rheumatoid arthritis (RA), psoriatic arthritis (PsA), ankylosing spondylitis (AS), Crohn's disease (CD), ulcerative colitis (UC), plaque psoriasis (Ps), hidradenitis suppurativa (HS) and uveitis (UV), malignancies, other than non-melanoma (basal cell and squamous cell) skin cancer, were observed at a rate (95% confidence interval) of 0.7 (0.48, 1.03) per 100 patient-years among 7973 adalimumab-treated patients versus a rate of 0.7 (0.41, 1.17) per 100 patient-years among 4848 control-treated patients (median duration of treatment of 4 months for adalimumab-treated patients and 4 months for control-treated patients).
 In 52 global controlled and uncontrolled clinical trials of adalimumab in adult patients with RA, PsA, AS, CD, UC, Ps, HS and UV, the most frequently observed malignancies, other than lymphoma and NMSC, were breast, colon, prostate, lung, and melanoma.
-The malignancies in adalimumab-treated patients in the controlled and uncontrolled portions of the studies were similar in type and number to what would be expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1
+The malignancies in adalimumab-treated patients in the controlled and uncontrolled portions of the studies were similar in type and number to what would be expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).
+1
 
 In controlled trials of other TNF-blockers in adult patients at higher risk for malignancies (i.e., patients with COPD with a significant smoking history and cyclophosphamide-treated patients with Wegener's granulomatosis), a greater portion of malignancies occurred in the TNF-blocker group compared to the control group.
 
@@ -72,7 +73,8 @@ Lymphoma and Leukemia
 In the controlled portions of clinical trials of all the TNF-blockers in adults, more cases of lymphoma have been observed among TNF-blocker-treated patients compared to control-treated patients.
 In the controlled portions of 39 global adalimumab clinical trials in adult patients with RA, PsA, AS, CD, UC, Ps, HS and UV, 2 lymphomas occurred among 7973 adalimumab treated patients versus 1 among 4848 control-treated patients.
 In 52 global controlled and uncontrolled clinical trials of adalimumab in adult patients with RA, PsA, AS, CD, UC, Ps, HS and UV, with a median duration of approximately 0.7 years, including 24,605 patients and over 40,215 patient-years of adalimumab, the observed rate of lymphomas was approximately 0.11 per 100 patient-years.
-This is approximately 3-fold higher than expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).1 Rates of lymphoma in clinical trials of adalimumab cannot be compared to rates of lymphoma in clinical trials of other TNF-blockers and may not predict the rates observed in a broader patient population.
+This is approximately 3-fold higher than expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).
+1Rates of lymphoma in clinical trials of adalimumab cannot be compared to rates of lymphoma in clinical trials of other TNF-blockers and may not predict the rates observed in a broader patient population.
 Patients with RA and other chronic inflammatory diseases, particularly those with highly active disease and/or chronic exposure to immunosuppressant therapies, may be at a higher risk (up to several fold) than the general population for the development of lymphoma, even in the absence of TNF-blockers.
 Post-marketing cases of acute and chronic leukemia have been reported in association with TNF-blocker use in RA and other indications.
 Even in the absence of TNF-blocker therapy, patients with RA may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
@@ -154,7 +156,7 @@ No data are available on the secondary transmission of infection by live vaccine
 It is recommended that pediatric patients, if possible, be brought up to date with all immunizations in agreement with current immunization guidelines prior to initiating AMJEVITA therapy.
 Patients on AMJEVITA may receive concurrent vaccinations, except for live vaccines.
 
-The safety of administering live or live-attenuated vaccines in infants exposed to adalimumab products in utero is unknown.
+The safety of administering live or live-attenuated vaccines in infants exposed to adalimumab products in uterois unknown.
 Risks and benefits should be considered prior to vaccinating (live or live-attenuated) exposed infants [see Use in Specific Populations (8.1, 8.4)].
 
 ## 5.11 Increased Risk of Infection When Used with Abatacept

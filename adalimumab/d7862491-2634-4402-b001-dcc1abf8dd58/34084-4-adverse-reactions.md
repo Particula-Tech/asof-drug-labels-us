@@ -86,7 +86,7 @@ Adverse Reactions Reported by ≥ 5% of Patients Treated with Adalimumab During 
 | Gastrointestinal |  |  |
 | Nausea | 9% | 8% |
 | Abdominal pain | 7% | 4% |
-| Laboratory TestsLaboratory test abnormalities were reported as adverse reactions in European trials |  |  |
+| Laboratory Tests Laboratory test abnormalities were reported as adverse reactions in European trials |  |  |
 | Laboratory test abnormal | 8% | 7% |
 | Hypercholesterolemia | 6% | 4% |
 | Hyperlipidemia | 7% | 5% |
@@ -105,31 +105,31 @@ Less Common Adverse Reactions in Rheumatoid Arthritis Clinical Studies
 
 Other infrequent serious adverse reactions that do not appear in the Warnings and Precautions or Adverse Reaction sections that occurred at an incidence of less than 5% in adalimumab-treated patients in RA studies were:
 
-Body As A Whole: Pain in extremity, pelvic pain, surgery, thorax pain
+Body As A Whole:Pain in extremity, pelvic pain, surgery, thorax pain
 
-Cardiovascular System: Arrhythmia, atrial fibrillation, chest pain, coronary artery disorder, heart arrest, hypertensive encephalopathy, myocardial infarct, palpitation, pericardial effusion, pericarditis, syncope, tachycardia
+Cardiovascular System:Arrhythmia, atrial fibrillation, chest pain, coronary artery disorder, heart arrest, hypertensive encephalopathy, myocardial infarct, palpitation, pericardial effusion, pericarditis, syncope, tachycardia
 
-Digestive System: Cholecystitis, cholelithiasis, esophagitis, gastroenteritis, gastrointestinal hemorrhage, hepatic necrosis, vomiting
+Digestive System:Cholecystitis, cholelithiasis, esophagitis, gastroenteritis, gastrointestinal hemorrhage, hepatic necrosis, vomiting
 
-Endocrine System: Parathyroid disorder
+Endocrine System:Parathyroid disorder
 
-Hemic And Lymphatic System: Agranulocytosis, polycythemia
+Hemic And Lymphatic System:Agranulocytosis, polycythemia
 
-Metabolic And Nutritional Disorders: Dehydration, healing abnormal, ketosis, paraproteinemia, peripheral edema
+Metabolic And Nutritional Disorders:Dehydration, healing abnormal, ketosis, paraproteinemia, peripheral edema
 
-Musculo-Skeletal System: Arthritis, bone disorder, bone fracture (not spontaneous), bone necrosis, joint disorder, muscle cramps, myasthenia, pyogenic arthritis, synovitis, tendon disorder
+Musculo-Skeletal System:Arthritis, bone disorder, bone fracture (not spontaneous), bone necrosis, joint disorder, muscle cramps, myasthenia, pyogenic arthritis, synovitis, tendon disorder
 
-Neoplasia: Adenoma
+Neoplasia:Adenoma
 
-Nervous System: Confusion, paresthesia, subdural hematoma, tremor
+Nervous System:Confusion, paresthesia, subdural hematoma, tremor
 
-Respiratory System: Asthma, bronchospasm, dyspnea, lung function decreased, pleural effusion
+Respiratory System:Asthma, bronchospasm, dyspnea, lung function decreased, pleural effusion
 
-Special Senses: Cataract
+Special Senses:Cataract
 
-Thrombosis: Thrombosis leg
+Thrombosis:Thrombosis leg
 
-Urogenital System: Cystitis, kidney calculus, menstrual disorder
+Urogenital System:Cystitis, kidney calculus, menstrual disorder
 
 Juvenile Idiopathic Arthritis Clinical Studies
 
@@ -171,9 +171,9 @@ The safety profile for patients with PsA and AS treated with adalimumab 40 mg ev
 
 Crohn's Disease Clinical Studies
 
-Adults: The safety profile of adalimumab in 1478 adult patients with Crohn's disease (CD) from four placebo-controlled and two open-label extension studies [see Clinical Studies (14.5)] was similar to the safety profile seen in patients with RA.
+Adults:The safety profile of adalimumab in 1478 adult patients with Crohn's disease (CD) from four placebo-controlled and two open-label extension studies [see Clinical Studies (14.5)] was similar to the safety profile seen in patients with RA.
 
-Pediatric Patients 6 Years to 17 Years: The safety profile of adalimumab in 192 pediatric patients from one double-blind study (Study PCD-I) and one open-label extension study [see Clinical Studies (14.6)] was similar to the safety profile seen in adult patients with CD.
+Pediatric Patients 6 Years to 17 Years:The safety profile of adalimumab in 192 pediatric patients from one double-blind study (Study PCD-I) and one open-label extension study [see Clinical Studies (14.6)] was similar to the safety profile seen in adult patients with CD.
 
 During the 4-week open-label induction phase of Study PCD-I, the most common adverse reactions occurring in the pediatric population treated with adalimumab were injection site pain and injection site reaction (6% and 5%, respectively).
 
@@ -187,13 +187,13 @@ In Study PCD-I, allergic reactions were observed in 5% of children which were al
 
 Ulcerative Colitis Clinical Studies
 
-Adults: The safety profile of adalimumab in 1010 adult patients with ulcerative colitis (UC) from two placebo-controlled studies and one open-label extension study [see Clinical Studies (14.7)] was similar to the safety profile seen in patients with RA.
+Adults:The safety profile of adalimumab in 1010 adult patients with ulcerative colitis (UC) from two placebo-controlled studies and one open-label extension study [see Clinical Studies (14.7)] was similar to the safety profile seen in patients with RA.
 
 Plaque Psoriasis Clinical Studies
 
 Adalimumab has been studied in 1696 subjects with plaque psoriasis (Ps) in placebo controlled and open-label extension studies [see Clinical Studies (14.8)].
 The safety profile for subjects with Ps treated with adalimumab was similar to the safety profile seen in subjects with RA with the following exceptions.
-In the placebo-controlled portions of the clinical trials in Ps subjects, adalimumab-treated subjects had a higher incidence of arthralgia when compared to controls (3% vs. 1%).
+In the placebo-controlled portions of the clinical trials in Ps subjects, adalimumab-treated subjects had a higher incidence of arthralgia when compared to controls (3% vs.1%).
 
 Hidradenitis Suppurativa Clinical Studies
 
@@ -225,20 +225,20 @@ Anti-Adalimumab Antibody Development Determined by ELISA and ECL Assay in Patien
 |  |  |  | In all patients who received adalimumab | In patients with serum adalimumab concentrations < 2 mcg/mL |  |
 | --- | --- | --- | --- | --- | --- |
 | Indications |  | Study Duration | Anti-Adalimumab Antibody Incidence by ELISA (n/N) |  | Anti-Adalimumab Antibody Incidence by ECL Assay (n/N) |
-| Rheumatoid ArthritisIn patients receiving concomitant methotrexate (MTX), the incidence of anti-adalimumab antibody was 1% compared to 12% with adalimumab monotherapy |  | 6 to 12 months | 5% (58/1062) | NR | NA |
-| Juvenile Idiopathic Arthritis (JIA) | 4 to 17 years of ageIn patients receiving concomitant MTX, the incidence of anti-adalimumab antibody was 6% compared to 26% with adalimumab monotherapy | 48 weeks | 16% (27/171) | NR | NA |
-| 2 to 4 years of age or ≥ 4 years of age and weighing < 15 kg | 24 weeks | 7% (1/15)This patient received concomitant MTX | NR | NA |  |
-| Psoriatic ArthritisIn patients receiving concomitant MTX, the incidence of antibody development was 7% compared to 1% in RA |  | 48 weeksSubjects enrolled after completing 2 previous studies of 24 weeks or 12 weeks of treatments | 13% (24/178) | NR | NA |
+| Rheumatoid Arthritis In patients receiving concomitant methotrexate (MTX), the incidence of anti-adalimumab antibody was 1% compared to 12% with adalimumab monotherapy |  | 6 to 12 months | 5% (58/1062) | NR | NA |
+| Juvenile Idiopathic Arthritis (JIA) | 4 to 17 years of age In patients receiving concomitant MTX, the incidence of anti-adalimumab antibody was 6% compared to 26% with adalimumab monotherapy | 48 weeks | 16% (27/171) | NR | NA |
+| 2 to 4 years of age or ≥ 4 years of age and weighing < 15 kg | 24 weeks | 7% (1/15) This patient received concomitant MTX | NR | NA |  |
+| Psoriatic Arthritis In patients receiving concomitant MTX, the incidence of antibody development was 7% compared to 1% in RA |  | 48 weeks Subjects enrolled after completing 2 previous studies of 24 weeks or 12 weeks of treatments | 13% (24/178) | NR | NA |
 | Ankylosing Spondylitis |  | 24 weeks | 9% (16/185) | NR | NA |
 | Adult Crohn's Disease |  | 56 weeks | 3% (7/269) | 8% (7/86) | NA |
 | Pediatric Crohn's Disease |  | 52 weeks | 3% (6/182) | 10% (6/58) | NA |
 | Adult Ulcerative Colitis |  | 52 weeks | 5% (19/360) | 21% (19/92) | NA |
-| Plaque PsoriasisIn plaque psoriasis patients who were on adalimumab monotherapy and subsequently withdrawn from the treatment, the rate of antibodies to adalimumab after retreatment was similar to the rate observed prior to withdrawal |  | Up to 52 weeksOne 12-week Phase 2 study and one 52-week Phase 3 study | 8% (77/920) | 21% (77/372) | NA |
-| Hidradenitis Suppurativa |  | 36 weeks | 7% (30/461) | 28% (58/207)Among subjects in the two Phase 3 studies who stopped adalimumab treatment for up to 24 weeks and in whom adalimumab serum levels subsequently declined to < 2 mcg/mL (approximately 22% of total subjects studied) | 61% (272/445No apparent association between antibody development and safety was observed |
-| Non-infectious Uveitis |  | 52 weeks | 5% (12/249) | 21% (12/57) | 40% (99/249)No correlation of antibody development to safety or efficacy outcomes was observed |
+| Plaque Psoriasis In plaque psoriasis patients who were on adalimumab monotherapy and subsequently withdrawn from the treatment, the rate of antibodies to adalimumab after retreatment was similar to the rate observed prior to withdrawal |  | Up to 52 weeks One 12-week Phase 2 study and one 52-week Phase 3 study | 8% (77/920) | 21% (77/372) | NA |
+| Hidradenitis Suppurativa |  | 36 weeks | 7% (30/461) | 28% (58/207) Among subjects in the two Phase 3 studies who stopped adalimumab treatment for up to 24 weeks and in whom adalimumab serum levels subsequently declined to < 2 mcg/mL (approximately 22% of total subjects studied) | 61% (272/445 No apparent association between antibody development and safety was observed |
+| Non-infectious Uveitis |  | 52 weeks | 5% (12/249) | 21% (12/57) | 40% (99/249) No correlation of antibody development to safety or efficacy outcomes was observed |
 | n: number of patients with anti-adalimumab antibody; NR: not reported; NA: Not applicable (not performed) |  |  |  |  |  |
 
-Rheumatoid Arthritis and Psoriatic Arthritis: Patients in Studies RA-I, RA-II, and RA-III were tested at multiple time points for antibodies to adalimumab using the ELISA during the 6- to 12-month period.
+Rheumatoid Arthritis and Psoriatic Arthritis:Patients in Studies RA-I, RA-II, and RA-III were tested at multiple time points for antibodies to adalimumab using the ELISA during the 6- to 12-month period.
 No apparent correlation of antibody development to adverse reactions was observed.
 With monotherapy, patients receiving every other week dosing may develop antibodies more frequently than those receiving weekly dosing.
 In patients receiving the recommended dosage of 40 mg every other week as monotherapy, the ACR 20 response was lower among antibody-positive patients than among antibody-negative patients.
@@ -249,20 +249,20 @@ The long-term immunogenicity of adalimumab products is unknown.
 The following adverse reactions have been identified during post-approval use of adalimumab products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to adalimumab products exposure.
 
-Gastrointestinal disorders: Diverticulitis, large bowel perforations including perforations associated with diverticulitis and appendiceal perforations associated with appendicitis, pancreatitis
+Gastrointestinal disorders:Diverticulitis, large bowel perforations including perforations associated with diverticulitis and appendiceal perforations associated with appendicitis, pancreatitis
 
-General disorders and administration site conditions: Pyrexia
+General disorders and administration site conditions:Pyrexia
 
-Hepato-biliary disorders: Liver failure, hepatitis
+Hepato-biliary disorders:Liver failure, hepatitis
 
-Immune system disorders: Sarcoidosis
+Immune system disorders:Sarcoidosis
 
-Neoplasms benign, malignant and unspecified (including cysts and polyps): Merkel Cell Carcinoma (neuroendocrine carcinoma of the skin)
+Neoplasms benign, malignant and unspecified (including cysts and polyps):Merkel Cell Carcinoma (neuroendocrine carcinoma of the skin)
 
-Nervous system disorders: Demyelinating disorders (e.g., optic neuritis, Guillain-Barré syndrome), cerebrovascular accident
+Nervous system disorders:Demyelinating disorders (e.g., optic neuritis, Guillain-Barré syndrome), cerebrovascular accident
 
-Respiratory disorders: Interstitial lung disease, including pulmonary fibrosis, pulmonary embolism
+Respiratory disorders:Interstitial lung disease, including pulmonary fibrosis, pulmonary embolism
 
-Skin reactions: Stevens Johnson Syndrome, cutaneous vasculitis, erythema multiforme, new or worsening psoriasis (all sub types including pustular and palmoplantar), alopecia, lichenoid skin reaction
+Skin reactions:Stevens Johnson Syndrome, cutaneous vasculitis, erythema multiforme, new or worsening psoriasis (all sub types including pustular and palmoplantar), alopecia, lichenoid skin reaction
 
-Vascular disorders: Systemic vasculitis, deep vein thrombosis
+Vascular disorders:Systemic vasculitis, deep vein thrombosis
