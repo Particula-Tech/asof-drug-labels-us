@@ -11,3 +11,5 @@ Each tablet also contains the following inactive ingredients: crospovidone, sili
 The 10 mg tablet also contains FD&C Blue #1.
 
 Structural Formula:
+
+C18H28N2SO4 MW 368.49
