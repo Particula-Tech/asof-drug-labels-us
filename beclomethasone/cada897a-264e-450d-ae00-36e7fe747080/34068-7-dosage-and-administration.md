@@ -8,7 +8,8 @@ Administration
 
 - After inhalation, rinse mouth with water without swallowing to help reduce the risk of oropharyngeal candidiasis.
 
-- Consistent dose delivery is achieved, whether using the 40‑ or 80‑mcg strengths, due to proportionality of the 2 products (i.e., 2 actuations of 40‑mcg strength should provide a dose comparable to 1 actuation of the 80‑mcg strength).Inhaler Instructions
+- Consistent dose delivery is achieved, whether using the 40‑ or 80‑mcg strengths, due to proportionality of the 2 products (i.e., 2 actuations of 40‑mcg strength should provide a dose comparable to 1 actuation of the 80‑mcg strength).
+  Inhaler Instructions
 - Patients should be instructed on the proper use of their inhaler.
 - Do not use QVAR REDIHALER with a spacer or volume holding chamber.
 - Shaking the inhaler prior to use is not necessary.
@@ -22,9 +23,7 @@ Cleaning
 
 - Keep the inhaler clean and dry at all times.
   Never wash or put any part of the inhaler in water.
-
-- Routine maintenance is not required.
-  If the mouthpiece needs cleaning, gently wipe the mouthpiece with a dry cloth or tissue as needed.
+  Wipe the mouthpiece weekly with a clean, dry cloth or tissue.
 
 Dose Counter
 
@@ -68,5 +67,3 @@ If a dosage regimen of QVAR REDIHALER fails to provide adequate control of asthm
 
 As with any inhaled corticosteroid, physicians are advised to titrate the dose of QVAR REDIHALER downward over time to the lowest level that maintains proper asthma control.
 This is particularly important in children since a controlled study has shown that beclomethasone dipropionate has the potential to affect growth in children.
-
-The maximum number of inhalations should not exceed 8 per day.

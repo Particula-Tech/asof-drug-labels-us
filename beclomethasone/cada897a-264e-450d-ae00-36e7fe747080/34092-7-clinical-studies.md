@@ -43,7 +43,7 @@ Table 3: Primary Analysis of Standardized Baseline-Adjusted Trough Morning FEV1 
 
 |  | 12 weeks; FAS |  |  | 6 weeks; mITT Analysis set |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Parameter Statistic | Placebo (N=90) | QVAR REDIHALER 80 mcg/day (N=88) | QVAR REDIHALER 160 mcg/day (N=92) | Placebo (N=107) | QVAR REDIHALER 320 mcg/day (N=108) | QVAR REDIHALER 640 mcg/day (N=105) | QVAR MDI * 320 mcg/day (N=105) |
+| Parameter Statistic | Placebo (N=90) | QVAR REDIHALER 80 mcg/day (N=88) | QVAR REDIHALER 160 mcg/day (N=92) | Placebo (N=107) | QVAR REDIHALER 320 mcg/day (N=108) | QVAR REDIHALER 640 mcg/day (N=105) | QVAR MDI* 320 mcg/day (N=105) |
 | Difference from placebo |  |  |  |  |  |  |  |
 | Difference of Least Square mean | — | 0.124 | 0.116 | — | 0.144 | 0.150 | 0.148 |
 | 95% CI | — | 0.054, 0.193 | 0.048, 0.185 | — | 0.0807, 0.2066 | 0.0868, 0.2132 | 0.0847, 0.2114 |

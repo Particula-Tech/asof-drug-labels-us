@@ -52,7 +52,6 @@ Inform patients who are pregnant or nursing that they should contact their physi
 Use Daily for Best Effect
 
 Patients should use QVAR REDIHALER at regular intervals as directed.
-The daily dosage of QVAR REDIHALER should not exceed 8 inhalations per day.
 Advise patients, if they miss a dose, to take their next dose at the same time they normally do.
 Individual patients will experience a variable time to onset and degree of symptom relief and the full benefit may not be achieved until treatment has been administered for 1 to 2 weeks or longer.
 Patients should not increase the prescribed dosage but should contact their physicians if symptoms do not improve or if the condition worsens.
@@ -61,8 +60,8 @@ Patients should contact their physicians immediately if they discontinue use of 
 
 Caring for and Storing the Inhaler
 
-For normal hygiene, the mouthpiece of QVAR REDIHALER should be cleaned weekly with a clean, dry tissue or cloth.
-Never wash or put any part of QVAR REDIHALER in water.
+Instruct patients to clean the mouthpiece of QVAR REDIHALER weekly with a clean, dry tissue or cloth.
+Instruct patients not to wash or put any part of QVAR REDIHALER in water.
 Patient should replace QVAR REDIHALER if washed or placed in water.
 
 Instruct patients to store the inhaler at room temperature and to avoid exposure to extreme heat and cold.
@@ -79,14 +78,17 @@ The dose-counter window displays the number of sprays left in the inhaler in uni
 When the dose counter reaches 0, the background will change to solid red.
 Inform patients to discard QVAR REDIHALER when the dose counter displays 0 or after the expiration date on the product, whichever comes first.
 
-Distributed by:
+Manufactured for:
 
-Teva Pharmaceuticals USA
+Teva Pharmaceuticals
 
 Parsippany, NJ 07054
 
-© 2021 Teva Respiratory, LLC
+© 2025 Teva Respiratory, LLC
 
 U.S. Patent 7,637,260; 8,132,712; 8,931,476
 
-QVARH-003
+QVARH-004
+
+Rev.
+09/2025

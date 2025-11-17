@@ -150,16 +150,15 @@ Support
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Distributed by:
+Manufactured for:
 
-Teva Pharmaceuticals USA, Inc.
+Teva Pharmaceuticals
 
 Parsippany, NJ 07054
 
-©2021Teva Respiratory, LLC.
-All rights reserved.
+© 2025 Teva Respiratory, LLC.
 
-QVARHIFU-003
+QVARHIFU-004
 
 Rev.
-01/2021
+09/2025
