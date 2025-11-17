@@ -25,7 +25,7 @@ To ensure that the benefits of opioid analgesics outweigh the risks of addiction
 Under the requirements of the REMS, drug companies with approved opioid analgesic products must make REMS-compliant education programs available to healthcare providers.
 Healthcare providers are strongly encouraged to do all of the following:
 
-- Complete a REMS-compliant education program offered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
+- Complete a REMS-compliant education programoffered by an accredited provider of continuing education (CE) or another education program that includes all the elements of the FDA Education Blueprint for Health Care Providers Involved in the Management or Support of Patients with Pain.
 - Discuss the safe use, serious risks, and proper storage and disposal of opioid analgesics with patients and/or their caregivers every time these medicines are prescribed.
   The Patient Counseling Guide (PCG) can be obtained at this link: www.fda.gov/OpioidAnalgesicREMSPCG
 - Emphasize to patients and their caregivers the importance of reading the Medication Guide that they will receive from their pharmacist every time an opioid analgesic is dispensed to them.
@@ -53,7 +53,7 @@ Educate patients and caregivers on how to recognize respiratory depression and e
 
 Opioids can cause sleep-related breathing disorders including central sleep apnea (CSA) and sleep-related hypoxemia.
 Opioid use increases the risk of CSA in a dose-dependent fashion.
-In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [see Dosage and Administration (2.6)].
+In patients who present with CSA, consider decreasing the opioid dosage using best practices for opioid taper [seeDosage and Administration (2.6)].
 
 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
@@ -117,9 +117,9 @@ Screen patients for risk of substance use disorders, including opioid abuse and 
 
 The use of APADAZ in patients with acute or severe bronchial asthma in an unmonitored setting or in the absence of resuscitative equipment is contraindicated.
 
-Patients with Chronic Pulmonary Disease: APADAZ-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of APADAZ [see Warnings and Precautions (5.3)].
+Patients with Chronic Pulmonary Disease:APADAZ-treated patients with significant chronic obstructive pulmonary disease or cor pulmonale, and those with a substantially decreased respiratory reserve, hypoxia, hypercapnia, or pre-existing respiratory depression are at increased risk of decreased respiratory drive including apnea, even at recommended dosages of APADAZ [see Warnings and Precautions (5.3)].
 
-Elderly, Cachectic, or Debilitated Patients: Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
+Elderly, Cachectic, or Debilitated Patients:Life-threatening respiratory depression is more likely to occur in elderly, cachectic, or debilitated patients because they may have altered pharmacokinetics or altered clearance compared to younger, healthier patients [see Warnings and Precautions (5.3)].
 
 Monitor such patients closely, particularly when initiating and titrating APADAZ and when APADAZ is given concomitantly with other drugs that depress respiration [see Warnings and Precautions (5.3)].
 Alternatively, consider the use of non-opioid analgesics in these patients.
@@ -150,7 +150,7 @@ Inform patients about the signs of serious skin reactions and discontinue use at
 
 ## 5.12 Risks of Use in Patients with Increased Intracranial Pressure, Brain Tumors, Head Injury, or Impaired Consciousness
 
-In patients who may be susceptible to the intracranial effects of CO 2 retention (e.g., those with evidence of increased intracranial pressure or brain tumors), APADAZ may reduce respiratory drive, and the resultant CO 2 retention can further increase intracranial pressure.
+In patients who may be susceptible to the intracranial effects of CO 2retention (e.g., those with evidence of increased intracranial pressure or brain tumors), APADAZ may reduce respiratory drive, and the resultant CO 2retention can further increase intracranial pressure.
 Monitor such patients for signs of sedation and respiratory depression, particularly when initiating therapy with APADAZ.
 
 Opioids may also obscure the clinical course in a patient with a head injury.
@@ -181,7 +181,7 @@ Monitor patients with a history of seizure disorders for worsened seizure contro
 
 Do not abruptly discontinue APADAZ in a patient physically dependent on opioids.
 When discontinuing APADAZ in a physically dependent patient, gradually taper the dosage.
-Rapid tapering of APADAZ in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.6), Drug Abuse and Dependence (9.3)].
+Rapid tapering of APADAZ in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [seeDosage and Administration (2.6), Drug Abuse and Dependence (9.3)].
 
 Additionally, avoid the use of mixed agonist/antagonist (e.g, pentazocine, nalbuphine, and butorphanol) or partial agonist (e.g., buprenorphine) analgesics in patients who are receiving a full opioid agonist analgesic, including APADAZ.
 In these patients, mixed agonist/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms.

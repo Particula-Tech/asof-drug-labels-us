@@ -24,8 +24,8 @@ The most common AEs (>5%) reported across these studies were: nausea (21.5%), so
 
 The following adverse reactions occurred with an incidence of 1% to 5% in single-dose or repeated-dose clinical trials of APADAZ.
 
-Gastrointestinal disorder: abdominal distension, abdominal pain, flatulence General disorders and administration site conditions: asthenia Nervous system disorders: presyncope, tremor Respiratory, thoracic and mediastinal disorders: dyspnea Vascular disorders: hot flush, hypotension Adverse reactions occurring at less than 1%: the following lists clinically relevant adverse reactions that occurred with an incidence of less than 1% in APADAZ clinical trials.
-Eye disorders: eye pruritus Gastrointestinal disorders: diarrhea, gastroesophageal reflux disease, haematemesis General disorders and administration site conditions: chest discomfort Infections and infestations: rhinitis Nervous system disorders: hypoesthesia, syncope Psychiatric disorders: agitation, euphoric mood, nightmare
+Gastrointestinal disorder:abdominal distension, abdominal pain, flatulence General disorders and administration site conditions:asthenia Nervous system disorders:presyncope, tremor Respiratory, thoracic and mediastinal disorders:dyspnea Vascular disorders:hot flush, hypotension Adverse reactions occurring at less than 1%: the following lists clinically relevant adverse reactions that occurred with an incidence of less than 1% in APADAZ clinical trials.
+Eye disorders:eye pruritus Gastrointestinal disorders:diarrhea, gastroesophageal reflux disease, haematemesis General disorders and administration site conditions:chest discomfort Infections and infestations:rhinitis Nervous system disorders:hypoesthesia, syncope Psychiatric disorders:agitation, euphoric mood, nightmare
 
 ## 6.2 Postmarketing Experience
 

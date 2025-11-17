@@ -58,7 +58,7 @@ The pharmacokinetic data showed that overall (AUC last, AUC inf, and C max) hydr
 These treatments were also comparable with cumulative hydrocodone exposure at the timepoints of 4, 8, and 24 hours (AUC 0-4, AUC 0-8, AUC 0-24).
 Over the first 2 hours post-dosing (AUC 0-0.5, AUC 0-1, and AUC 0-2), the cumulative hydrocodone exposure was lower following intranasal APADAZ compared to intranasal hydrocodone/ acetaminophen.
 
-There were numerically small but not statistically significant differences between APADAZ and the hydrocodone/acetaminophen control observed for the pre-specified primary endpoint, maximum effect on Drug Liking VAS (Emax), and the secondary endpoints of E max for High VAS and Take Drug Again VAS.
+There were numerically small but not statistically significant differences between APADAZ and the hydrocodone/acetaminophen control observed for the pre-specified primary endpoint, maximum effect on Drug Liking VAS (Emax), and the secondary endpoints of E maxfor High VAS and Take Drug Again VAS.
 
 Table 3: Summary Statistics of Maximum Scores (E max) on Drug Liking, High and Take Drug Again, Following Intranasal Administration of APADAZ, Hydrocodone/APAP, and Placebo
 

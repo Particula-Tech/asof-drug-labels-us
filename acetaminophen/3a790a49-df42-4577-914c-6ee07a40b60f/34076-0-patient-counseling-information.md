@@ -25,7 +25,7 @@ In order to avoid developing withdrawal symptoms, instruct patients not to disco
 
 Addiction, Abuse, and Misuse
 
-Inform patients that the use of APADAZ, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [see Warnings and Precautions (5.1)].
+Inform patients that the use of APADAZ, even when taken as recommended, can result in addiction, abuse, and misuse, which can lead to overdose and death [seeWarnings and Precautions (5.1)].
 Instruct patients not to share APADAZ with others and to take steps to protect APADAZ from theft or misuse.
 
 Life-Threatening Respiratory Depression Inform patients of the risk of life-threatening respiratory depression, including information that the risk is greatest when starting APADAZ or when the dosage is increased, and that it can occur even at recommended dosages.
