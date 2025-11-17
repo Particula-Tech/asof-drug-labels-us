@@ -4,8 +4,6 @@ Carbamazepine Tablets, USP
 
 (kar" ba maz’ e peen)
 
-Medication Guide available at https://www.apotex.com/products/us/mg.asp
-
 Read this Medication Guide before you start taking carbamazepine tablets and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
@@ -158,13 +156,13 @@ How should I take carbamazepine tablets?
 - Your healthcare provider may change your dose.
   Do not change your dose of carbamazepine tablets without talking to your healthcare provider.
 - Take carbamazepine tablets with food.
-- If you take too much carbamazepine tablets, call your healthcare provider or local Poison Control Center right away.
+- If you take too many carbamazepine tablets, call your healthcare provider or local Poison Control Center right away.
 
 What should I avoid while taking carbamazepine tablets?
 
 - Do not drink alcohol or take other drugs that make you sleepy or dizzy while taking carbamazepine until you talk to your healthcare provider.
   Carbamazepine tablets taken with alcohol or drugs that cause sleepiness or dizziness may make your sleepiness or dizziness worse.
-- Do not drive, operate heavy machinery, or do other dangerous activities until you know how carbamazepine tablets affects you.
+- Do not drive, operate heavy machinery, or do other dangerous activities until you know how carbamazepine tablets affect you.
   Carbamazepine may slow your thinking and motor skills.
 
 What are the possible side effects of carbamazepine tablets?
@@ -212,7 +210,7 @@ How should I store carbamazepine tablets?
 
 Keep carbamazepine tablets and all medicines out of the reach of children.
 
-General Information about carbamazepine tablets
+General Information about carbamazepine tablets.
 
 Medicines are sometimes prescribed for purposes other than those listed in a Medication Guide.
 Do not use carbamazepine tablets for a condition for which it was not prescribed.
@@ -245,7 +243,7 @@ Toronto, Ontario Weston, Florida
 
 Canada M9L 1T9 USA, 33326
 
-February 2024
+October 2025
 
 Rev.
-9
+10

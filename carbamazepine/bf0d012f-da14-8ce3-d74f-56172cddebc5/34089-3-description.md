@@ -4,7 +4,7 @@ Carbamazepine USP, is an anticonvulsant and specific analgesic for trigeminal ne
 Its chemical name is 5H-dibenzo[b,f]azepine-5-carboxamide, and its structural formula is:
 
 Carbamazepine USP is a white to off-white crystalline powder, very slightly soluble in water, freely soluble in methylene chloride, sparingly soluble in acetone and in ethanol (96 per cent).
-Its molecular weight is 236.3.
+Its molecular weight is 236.3 g/mol.
 
 Carbamazepine tablets, USP 200 mg contain the active ingredient, carbamazepine USP, and the inactive ingredients: croscarmellose sodium, magnesium stearate, and microcrystalline cellulose.
 

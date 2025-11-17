@@ -5,8 +5,8 @@
 Serious and sometimes fatal dermatologic reactions, including toxic epidermal necrolysis (TEN) and Stevens-Johnson syndrome (SJS), have been reported with carbamazepine treatment.
 The risk of these events is estimated to be about 1 to 6 per 10,000 new users in countries with mainly Caucasian populations.
 However, the risk in some Asian countries is estimated to be about 10 times higher.
-Carbamazepine should be discontinued at the first sign of a rash, unless the rash is clearly not drug-related.
-If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed and alternative therapy should be considered.
+Carbamazepine should be discontinued at the first sign of a rash, unless the rash is clearly not drug related.
+If signs or symptoms suggest SJS/TEN, use of this drug should not be resumed, and alternative therapy should be considered.
 
 ## SJS/TEN and HLA-B*1502 Allele
 
@@ -38,7 +38,7 @@ Consideration should be given to avoiding use of other drugs associated with SJS
 Retrospective case-control studies in patients of European, Korean, and Japanese ancestry have found a moderate association between the risk of developing hypersensitivity reactions and the presence of HLA-A*3101, an inherited allelic variant of the HLA-A gene, in patients using carbamazepine.
 These hypersensitivity reactions include SJS/TEN, maculopapular eruptions, and Drug Reaction with Eosinophilia and Systemic Symptoms (see DRESS/Multiorgan hypersensitivity below).
 
-HLA-A*3101 is expected to be carried by more than 15% of patients of Japanese, Native American, Southern Indian (for example, Tamil Nadu), and some Arabic ancestry; up to about 10% in patients of Han Chinese, Korean, European, Latin American, and other Indian ancestry; and up to about 5% in African-Americans and patients of Thai, Taiwanese, and Chinese (Hong Kong) ancestry.
+HLA-A*3101 is expected to be carried by more than 15% of patients of Japanese, Native American, Southern Indian (for example, Tamil Nadu), and some Arabic ancestry; up to about 10% in patients of Han Chinese, Korean, European, Latin American, and other Indian ancestry; and up to about 5% in African-Americans, and patients of Thai, Taiwanese, and Chinese (Hong Kong) ancestry.
 
 The risks and benefits of carbamazepine therapy should be weighed before considering carbamazepine in patients known to be positive for HLA-A*3101.
 
@@ -64,7 +64,7 @@ Carbamazepine should be discontinued if an alternative etiology for the signs or
 
 ## Hypersensitivity
 
-Hypersensitivity reactions to carbamazepine have been reported in patients who previously experienced this reaction to anticonvulsants including phenytoin, primidone, and phenobarbital.
+Hypersensitivity reactions to carbamazepine have been reported in patients who previously experienced this reaction to anticonvulsants, including phenytoin, primidone, and phenobarbital.
 If such history is present, benefits and risks should be carefully considered and, if carbamazepine is initiated, the signs and symptoms of hypersensitivity should be carefully monitored.
 
 Patients should be informed that about a third of patients who have had hypersensitivity reactions to carbamazepine also experience hypersensitivity reactions with oxcarbazepine (Trileptal®).
@@ -93,13 +93,14 @@ The finding of increased risk with AEDs of varying mechanisms of action and acro
 The risk did not vary substantially by age (5 to 100 years) in the clinical trials analyzed.
 Table 1 shows absolute and relative risk by indication for all evaluated AEDs.
 
-Table 1 Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
+Table 1.
+Risk by Indication for Antiepileptic Drugs in the Pooled Analysis
 
-| Indication | Placebo Patients with Events Per 1,000 Patients | Drug Patients with Events Per 1,000 Patients | Relative Risk: Incidence of Events in Drug Patients/Incidence in Placebo Patients | Risk Difference: Additional Drug Patients with Events Per 1,000 Patients |
+| Indication | Placebo patients with events per 1,000 patients | Drug patients with events per 1,000 patients | Relative risk: incidence of events in drug patients/incidence in placebo patients | Risk difference: additional drug patients with events per 1,000 patients |
 | --- | --- | --- | --- | --- |
-| Epilepsy | 1.0 | 3.4 | 3.5 | 2.4 |
+| Epilepsy | 1 | 3.4 | 3.5 | 2.4 |
 | Psychiatric | 5.7 | 8.5 | 1.5 | 2.9 |
-| Other | 1.0 | 1.8 | 1.9 | 0.9 |
+| Other | 1 | 1.8 | 1.9 | 0.9 |
 | Total | 2.4 | 4.3 | 1.8 | 1.9 |
 
 The relative risk for suicidal thoughts or behavior was higher in clinical trials for epilepsy than in clinical trials for psychiatric or other conditions, but the absolute risk differences were similar for the epilepsy and psychiatric indications.
@@ -146,18 +147,22 @@ Carbamazepine has been shown to have adverse effects in reproduction studies in 
 In rat teratology studies, 2 of 135 offspring showed kinked ribs at 250 mg/kg and 4 of 119 offspring at 650 mg/kg showed other anomalies (cleft palate, 1; talipes, 1; anophthalmos, 2).
 In reproduction studies in rats, nursing offspring demonstrated a lack of weight gain and an unkempt appearance at a maternal dosage level of 200 mg/kg.
 
-Antiepileptic drugs should not be discontinued abruptly in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
-In individual cases where the severity and frequency of the seizure disorder are such that removal of medication does not pose a serious threat to the patient, discontinuation of the drug may be considered prior to and during pregnancy, although it cannot be said with any confidence that even minor seizures do not pose some hazard to the developing embryo or fetus.
-
-Tests to detect defects using currently accepted procedures should be considered a part of routine prenatal care in childbearing women receiving carbamazepine.
-
 There have been a few cases of neonatal seizures and/or respiratory depression associated with maternal carbamazepine and other concomitant anticonvulsant drug use.
 A few cases of neonatal vomiting, diarrhea, and/or decreased feeding have also been reported in association with maternal carbamazepine use.
 These symptoms may represent a neonatal withdrawal syndrome.
 
 To provide information regarding the effects of in utero exposure to carbamazepine, physicians are advised to recommend that pregnant patients taking carbamazepine enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
-This can be done by calling the toll free number 1-888-233-2334, and must be done by patients themselves.
+This can be done by calling the toll-free number 1-888-233-2334 and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+
+Clinical Considerations
+
+Disease-associated Maternal and/or Embryofetal Risk
+
+Epilepsy, with or without exposure to antiepileptic drugs, has been associated with several adverse outcomes during pregnancy, including preeclampsia, preterm labor, antepartum and postpartum hemorrhage placental abruption, poor fetal growth, prematurity, fetal death, and maternal mortality.
+The risk of maternal or fetal injury may be greatest for patients with untreated or poorly controlled convulsive seizures.
+
+Women with epilepsy who become pregnant should not abruptly discontinue antiepileptic drugs, including carbamazepine tablets, due to the risk of status epilepticus or severe seizures, which may be life-threatening.
 
 # PRECAUTIONS
 
@@ -174,16 +179,16 @@ This occurred generally, but not solely, in patients with underlying EKG abnorma
 
 Hepatic effects, ranging from slight elevations in liver enzymes to rare cases of hepatic failure have been reported (see ADVERSE REACTIONS and PRECAUTIONS, Laboratory Tests).
 In some cases, hepatic effects may progress despite discontinuation of the drug.
-In addition rare instances of vanishing bile duct syndrome have been reported.
+In addition, rare instances of vanishing bile duct syndrome have been reported.
 This syndrome consists of a cholestatic process with a variable clinical course ranging from fulminant to indolent, involving the destruction and disappearance of the intrahepatic bile ducts.
 Some, but not all, cases are associated with features that overlap with other immunoallergenic syndromes, such as multiorgan hypersensitivity (DRESS syndrome) and serious dermatologic reactions.
-As an example there has been a report of vanishing bile duct syndrome associated with Stevens-Johnson syndrome and in another case an association with fever and eosinophilia.
+As an example, there has been a report of vanishing bile duct syndrome associated with SJS and in another case an association with fever and eosinophilia.
 
 Since a given dose of tegretol suspension will produce higher peak levels than the same dose given as the tablet, it is recommended that patients given the suspension be started on lower doses and increased slowly to avoid unwanted side effects (see DOSAGE AND ADMINISTRATION).
 
 ## Information for Patients
 
-Patients should be informed of the availability of a Medication Guide and they should be instructed to read the Medication Guide before taking carbamazepine tablets.
+Patients should be informed of the availability of a Medication Guide, and they should be instructed to read the Medication Guide before taking carbamazepine tablets.
 
 Patients should be made aware of the early toxic signs and symptoms of a potential hematologic problem, as well as dermatologic, hypersensitivity or hepatic reactions.
 These symptoms may include, but are not limited to, fever, sore throat, rash, ulcers in the mouth, easy bruising, lymphadenopathy and petechial or purpuric hemorrhage, and in the case of liver reactions, anorexia, nausea/vomiting, or jaundice.
@@ -208,7 +213,7 @@ Since dizziness and drowsiness may occur, patients should be cautioned about the
 
 Patients should be encouraged to enroll in the NAAED Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of antiepileptic drugs during pregnancy.
-To enroll, patients can call the toll free number 1-888-233-2334 (see WARNINGS, Usage in Pregnancy subsection).
+To enroll, patients can call the toll-free number 1-888-233-2334 (see WARNINGS, Usage in Pregnancy subsection).
 
 ## Laboratory Tests
 
@@ -264,7 +269,7 @@ Drugs that have been shown, or that would be expected, to decrease plasma carbam
 
 ### Decreased Levels of Concomitant Medications
 
-Carbamazepine is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C8/9/19, and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP 1A2, 2B6, 2C8/9/19, and 3A4, through induction of their metabolism.
+Carbamazepine is a potent inducer of hepatic 3A4 and is also known to be an inducer of CYP1A2, 2B6, 2C8/9/19, and may therefore reduce plasma concentrations of co-medications mainly metabolized by CYP1A2, 2B6, 2C8/9/19, and 3A4, through induction of their metabolism.
 When used concomitantly with carbamazepine tablets, monitoring of concentrations or dosage adjustment of these agents may be necessary:
 
 - When carbamazepine is added to aripiprazole, the aripiprazole dose should be doubled.
