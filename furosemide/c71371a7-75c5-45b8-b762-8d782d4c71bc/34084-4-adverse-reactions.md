@@ -66,7 +66,7 @@ Other Reactions
 1. 1.Hyperglycemia
 2. 2.Glycosuria
 3. 3.Hyperuricemia
-4. 4.Muscle spasm
+4. 4.Muscle spasms
 5. 5.Weakness
 6. 6.Restlessness
 7. 7.Urinary bladder spasm
@@ -75,3 +75,5 @@ Other Reactions
 10. 10.Fever
 
 Whenever adverse reactions are moderate or severe, furosemide dosage should be reduced or therapy withdrawn.
+
+To report SUSPECTED ADVERSE REACTIONS, contact Baxter Healthcare Corporation. at 1-877-725-2747 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

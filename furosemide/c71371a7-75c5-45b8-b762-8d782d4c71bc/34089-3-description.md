@@ -11,4 +11,4 @@ It is practically insoluble in water, sparingly soluble in alcohol, freely solub
 
 The structural formula is as follows:
 
-Each mL contains: Furosemide 10 mg, Water for Injection q.s., Sodium Chloride for isotonicity, Sodium Hydroxide and, if necessary, Hydrochloric Acid to adjust pH between 8.0 and 9.3.
+Each mL contains: Furosemide 10 mg, Sodium Hydroxide 1.34 mg, Water for Injection q.s., Sodium Chloride for isotonicity, additional Sodium Hydroxide (q.s.) and, if necessary, Hydrochloric Acid (q.s.) to adjust pH between 8.0 and 9.3.

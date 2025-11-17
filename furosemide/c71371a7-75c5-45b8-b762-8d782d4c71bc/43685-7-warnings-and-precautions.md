@@ -8,14 +8,15 @@ Supplemental potassium chloride and, if required, an aldosterone antagonist are 
 If increasing azotemia and oliguria occur during treatment of severe progressive renal disease, furosemide should be discontinued.
 
 Cases of tinnitus and reversible or irreversible hearing impairment and deafness have been reported.
-Reports usually indicate that furosemide ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia, or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
-If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used) (See PRECAUTIONS, Drug Interactions.)
+Reports usually indicate that furosemide ototoxicity is associated with rapid injection, severe renal impairment, the use of higher than recommended doses, hypoproteinemia or concomitant therapy with aminoglycoside antibiotics, ethacrynic acid, or other ototoxic drugs.
+If the physician elects to use high dose parenteral therapy, controlled intravenous infusion is advisable (for adults, an infusion rate not exceeding 4 mg furosemide per minute has been used).
+(See PRECAUTIONS, Drug Interactions.)
 
 Pediatric Use: In premature neonates with respiratory distress syndrome, diuretic treatment with furosemide in the first few weeks of life may increase the risk of persistent patent ductus arteriosus (PDA), possibly through a prostaglandin-E-mediated process.
 
 Literature reports indicate that premature infants with post conceptual age (gestational plus postnatal) less than 31 weeks receiving doses exceeding 1 mg/kg/24 hours may develop plasma levels which could be associated with potential toxic effects including ototoxicity.
 
-Hearing loss in neonates has been associated with the use of furosemide injection (see WARNINGS, above).
+Hearing loss in neonates has been associated with the use of furosemide injection (See WARNINGS, above).
 
 # PRECAUTIONS
 
@@ -25,6 +26,7 @@ Hypokalemia may develop with furosemide, especially with brisk diuresis, inadequ
 Digitalis therapy may exaggerate metabolic effects of hypokalemia, especially myocardial effects.
 
 All patients receiving furosemide therapy should be observed for these signs or symptoms of fluid or electrolyte imbalance (hyponatremia, hypochloremic alkalosis, hypokalemia, hypomagnesemia or hypocalcemia): dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, arrhythmia or gastrointestinal disturbances such as nausea and vomiting.
+
 Increases in blood glucose and alterations in glucose tolerance tests (with abnormalities of the fasting and 2-hour postprandial sugar) have been observed, and rarely, precipitation of diabetes mellitus has been reported.
 
 In patients with severe symptoms of urinary retention (because of bladder emptying disorders, prostatic hyperplasia, urethral narrowing), the administration of furosemide can cause acute urinary retention related to increased production and retention of urine.
@@ -43,7 +45,6 @@ The possibility exists of exacerbation or activation of systemic lupus erythemat
 As with many other drugs, patients should be observed regularly for the possible occurrence of blood dyscrasias, liver or kidney damage, or other idiosyncratic reactions.
 
 Information for Patients: Patients receiving furosemide should be advised that they may experience symptoms from excessive fluid and/or electrolyte losses.
-
 The postural hypotension that sometimes occurs can usually be managed by getting up slowly.
 Potassium supplements and/or dietary measures may be needed to control or avoid hypokalemia.
 
@@ -58,18 +59,19 @@ Abnormalities should be corrected or the drug temporarily withdrawn.
 Other medications may also influence serum electrolytes.
 
 Reversible elevations of BUN may occur and are associated with dehydration, which should be avoided, particularly in patients with renal insufficiency.
+
 Urine and blood glucose should be checked periodically in diabetics receiving furosemide, even in those suspected of latent diabetes.
 
 Furosemide may lower serum levels of calcium (rarely cases of tetany have been reported) and magnesium.
 Accordingly, serum levels of these electrolytes should be determined periodically.
+
 In premature infants furosemide may precipitate nephrocalcinosis/nephrolithiasis, therefore renal function must be monitored and renal ultrasonography performed.
 (See PRECAUTIONS, Pediatric Use.)
 
 Drug Interactions: Furosemide may increase the ototoxic potential of aminoglycoside antibiotics, especially in the presence of impaired renal function.
-Except in life-threatening situations, avoid the combination.
+Except in life-threatening situations, avoid this combination.
 
 Furosemide should not be used concomitantly with ethacrynic acid because of the possibility of ototoxicity.
-
 Patients receiving high doses of salicylates concomitantly with furosemide, as in rheumatic diseases, may experience salicylate toxicity at lower doses because of competitive renal excretory sites.
 
 There is a risk of ototoxic effects if cisplatin and furosemide are given concomitantly.
@@ -104,7 +106,7 @@ Concomitant use of cyclosporine and furosemide is associated with increased risk
 One study in six subjects demonstrated that the combination of furosemide and acetylsalicylic acid temporarily reduced creatinine clearance in patients with chronic renal insufficiency.
 There are case reports of patients who developed increased BUN, serum creatinine and serum potassium levels, and weight gain when furosemide was used in conjunction with NSAIDs.
 
-Literature reports indicate that coadministration of indomethacin may reduce the natriuretic and antihypertensive effects of furosemide in some patients by inhibiting prostaglandin synthesis.
+Literature reports indicate that co-administration of indomethacin may reduce the natriuretic and antihypertensive effects of furosemide in some patients by inhibiting prostaglandin synthesis.
 Indomethacin may also affect plasma renin levels, aldosterone excretion, and renin profile evaluation.
 Patients receiving both indomethacin and furosemide should be observed closely to determine if the desired diuretic and/or antihypertensive effect of furosemide is achieved.
 
@@ -120,7 +122,7 @@ The urine of rats treated with this drug did not induce gene conversion in Sacch
 
 Furosemide produced no impairment of fertility in male or female rats, at 100 mg/kg/day (the maximum effective diuretic dose in the rat and 8 times the maximal human dose of 600 mg/day).
 
-Pregnancy: Teratogenic Effects: Pregnancy Category C. Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4, and 8 times the maximal recommended human oral dose.
+Pregnancy: Teratogenic Effects: Furosemide has been shown to cause unexplained maternal deaths and abortions in rabbits at 2, 4, and 8 times the maximal recommended human oral dose.
 There are no adequate and well-controlled studies in pregnant women.
 Furosemide should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -133,7 +135,7 @@ In another study, a dose of 50 mg/kg (4 times the maximal recommended human oral
 In a third study, none of the pregnant rabbits survived an oral dose of 100 mg/kg.
 Data from the above studies indicate fetal lethality that can precede maternal deaths.
 
-The results of the mouse study and one of the three rabbit studies also showed an increased incidence and severity of hydronephrosis (distention of the renal pelvis and, in some cases, of the ureters) in fetuses derived from treated dams as compared with the incidence of fetuses from the control group.
+The results of the mouse study and one of the three rabbit studies also showed an increased incidence and severity of hydronephrosis (distention of the renal pelvis and, in some cases, of the ureters) in fetuses derived from the treated dams as compared with the incidence of fetuses from the control group.
 
 Nursing Mothers: Because it appears in breast milk, caution should be exercised when furosemide is administered to a nursing mother.
 
