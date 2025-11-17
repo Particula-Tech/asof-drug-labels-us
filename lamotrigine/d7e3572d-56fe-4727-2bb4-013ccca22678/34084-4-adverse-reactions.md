@@ -48,7 +48,7 @@ In these trials, either LAMICTAL or placebo was added to the patient’s current
 Table 8.
 Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Adult Patients with Epilepsya,b
 
-| Body System/Adverse Reaction | Percent of Patients Receiving Adjunctive LAMICTAL(n = 711) | Percent of Patients Receiving Adjunctive Placebo(n = 419) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving Adjunctive LAMICTAL(n = 711) | Percent of Patients Receiving Adjunctive Placebo(n = 419) |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Headache | 29 | 19 |
@@ -163,7 +163,7 @@ Skin and Appendages: Contact dermatitis, dry skin, sweating.
 
 Special Senses: Vision abnormality.
 
-Incidence in Controlled Adjunctive Trials in Pediatric Patients with Epilepsy:Table 11 lists adverse reactions that occurred in 339 pediatric patients with partial-onset seizures or generalized seizures of Lennox-Gastaut syndrome who received LAMICTAL up to 15 mg/kg/day or a maximum of 750 mg/day.
+Incidence in Controlled Adjunctive Trials in Pediatric Patients with Epilepsy: Table 11 lists adverse reactions that occurred in 339 pediatric patients with partial-onset seizures or generalized seizures of Lennox-Gastaut syndrome who received LAMICTAL up to 15 mg/kg/day or a maximum of 750 mg/day.
 
 Table 11.
 Adverse Reactions in Pooled, Placebo-Controlled, Adjunctive Trials in Pediatric Patients with Epilepsya
@@ -404,3 +404,7 @@ Progressive immunosuppression.
 Renal and Urinary Disorders
 
 Tubulointerstitial nephritis (has been reported alone and in association with uveitis).
+
+Skin and subcutaneous tissue disorders
+
+Photosensitivity reaction

@@ -15,10 +15,17 @@ In animal studies, administration of lamotrigine during pregnancy resulted in de
 
 Lamotrigine decreased fetal folate concentrations in rats, an effect known to be associated with adverse pregnancy outcomes in animals and humans (see Data).
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
+
+Disease-associated Maternal and/or Embryofetal Risk
+
+Epilepsy, with or without exposure to antiepileptic drugs, has been associated with several adverse outcomes during pregnancy, including preeclampsia, preterm labor, antepartum and postpartum hemorrhage, placental abruption, poor fetal growth, prematurity, fetal death, and maternal mortality.
+The risk of maternal or fetal injury may be greatest for patients with untreated or poorly controlled convulsive seizures.
+Women with epilepsy who become pregnant should not abruptly discontinue antiepileptic drugs, including LAMICTAL, due to the risk of status epilepticus or severe seizures, which may be life-threatening [see Warnings and Precautions (5.10)].
+
+Dose Adjustments During Pregnancy and the Postpartum Period
 
 As with other AEDs, physiological changes during pregnancy may affect lamotrigine concentrations and/or therapeutic effect.
 There have been reports of decreased lamotrigine concentrations during pregnancy and restoration of pre-pregnancy concentrations after delivery.
@@ -107,8 +114,8 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## 8.6 Hepatic Impairment
 
 Experience in patients with hepatic impairment is limited.
-Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment [see Clinical Pharmacology (12.3)], the following general recommendations can be made.
-No dosage adjustment is needed in patients with mild liver impairment.
+Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment, the following general recommendations can be made.
+No dosage adjustment is needed in patients with mild liver impairment [see Clinical Pharmacology (12.3)].
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response [see Dosage and Administration (2.1)].
 

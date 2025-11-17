@@ -59,7 +59,7 @@ Lamotrigine pharmacokinetic parameters for adult and pediatric subjects and heal
 Table 14.
 Mean Pharmacokinetic Parametersa in Healthy Volunteers and Adult Subjects with Epilepsy
 
-| Adult Study Population | Number of Subjects | Tmax: Time of Maximum Plasma Concentration(h) | t½: Elimination Half-life(h) | CL/F: Apparent Plasma Clearance(mL/min/kg) |
+| Adult Study Population | Number of Subjects | Tmax: Time of Maximum Plasma Concentration(h) | t½:Elimination Half-life(h) | CL/F:Apparent Plasma Clearance(mL/min/kg) |
 | --- | --- | --- | --- | --- |
 | Healthy volunteers taking no other medications: |  |  |  |  |
 | Single-dose LAMICTAL | 179 | 2.2(0.25-12.0) | 32.8(14.0-103.0) | 0.44(0.12-1.10) |

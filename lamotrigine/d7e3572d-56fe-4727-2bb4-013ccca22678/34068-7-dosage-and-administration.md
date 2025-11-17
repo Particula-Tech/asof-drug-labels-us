@@ -4,7 +4,7 @@
 
 Rash
 
-There are suggestions, yet to be proven, that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of LAMICTAL with valproate, (2) exceeding the recommended initial dose of LAMICTAL, or (3) exceeding the recommended dose escalation for LAMICTAL.
+There are suggestions that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of LAMICTAL with valproate, (2) exceeding the recommended initial dose of LAMICTAL, or (3) exceeding the recommended dose escalation for LAMICTAL.
 However, cases have occurred in the absence of these factors [see Boxed Warning].
 Therefore, it is important that the dosing recommendations be followed closely.
 
@@ -34,31 +34,31 @@ Dosing of LAMICTAL should be based on therapeutic response [see Clinical Pharmac
 
 Women Taking Estrogen-Containing Oral Contraceptives
 
-Starting LAMICTAL in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for LAMICTAL should be necessary solely based on the use of estrogen-containing oral contraceptives.
+Starting LAMICTAL in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine, no adjustments to the recommended dose-escalation guidelines for LAMICTAL should be necessary solely based on the use of estrogen-containing oral contraceptives [see Clinical Pharmacology (12.3)].
 Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with LAMICTAL based on the concomitant AED or other concomitant medications (see Tables 1, 5, and 7).
 See below for adjustments to maintenance doses of LAMICTAL in women taking estrogen-containing oral contraceptives.
 
 Adjustments to the Maintenance Dose of LAMICTAL in Women Taking Estrogen-Containing Oral Contraceptives:
 
-(1) Taking Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of LAMICTAL will in most cases need to be increased by as much as 2-fold over the recommended target maintenance dose to maintain a consistent lamotrigine plasma level.
+(1) Taking Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, the maintenance dose of LAMICTAL will in most cases need to be increased by as much as 2-fold over the recommended target maintenance dose to maintain a consistent lamotrigine plasma level [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-(2) Starting Estrogen-Containing Oral Contraceptives: In women taking a stable dose of LAMICTAL and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose will in most cases need to be increased by as much as 2-fold to maintain a consistent lamotrigine plasma level.
+(2) Starting Estrogen-Containing Oral Contraceptives: In women taking a stable dose of LAMICTAL and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, the maintenance dose will in most cases need to be increased by as much as 2-fold to maintain a consistent lamotrigine plasma level [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 The dose increases should begin at the same time that the oral contraceptive is introduced and continue, based on clinical response, no more rapidly than 50 to 100 mg/day every week.
 Dose increases should not exceed the recommended rate (see Tables 1 and 5) unless lamotrigine plasma levels or clinical response support larger increases.
 Gradual transient increases in lamotrigine plasma levels may occur during the week of inactive hormonal preparation (pill-free week), and these increases will be greater if dose increases are made in the days before or during the week of inactive hormonal preparation.
 Increased lamotrigine plasma levels could result in additional adverse reactions, such as dizziness, ataxia, and diplopia.
 If adverse reactions attributable to LAMICTAL consistently occur during the pill-free week, dose adjustments to the overall maintenance dose may be necessary.
 Dose adjustments limited to the pill-free week are not recommended.
-For women taking LAMICTAL in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, no adjustment to the dose of LAMICTAL should be necessary[see Drug Interactions (7), Clinical Pharmacology (12.3)].
+For women taking LAMICTAL in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, no adjustment to the dose of LAMICTAL should be necessary [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-(3) Stopping Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of LAMICTAL will in most cases need to be decreased by as much as 50% in order to maintain a consistent lamotrigine plasma level.
+(3) Stopping Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, the maintenance dose of LAMICTAL will in most cases need to be decreased by as much as 50% in order to maintain a consistent lamotrigine plasma level [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 The decrease in dose of LAMICTAL should not exceed 25% of the total daily dose per week over a 2-week period, unless clinical response or lamotrigine plasma levels indicate otherwise [see Clinical Pharmacology (12.3)].
-In women taking LAMICTAL in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], no adjustment to the dose of LAMICTAL should be necessary.
+In women taking LAMICTAL in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, no adjustment to the dose of LAMICTAL should be necessary [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 Women and Other Hormonal Contraceptive Preparations or Hormone Replacement Therapy
 
 The effect of other hormonal contraceptive preparations or hormone replacement therapy (HRT) on the pharmacokinetics of lamotrigine has not been systematically evaluated.
-Other-estrogen containing therapies, such as HRT, may interfere with lamotrigine.
+Other estrogen-containing therapies, such as HRT, may interfere with lamotrigine.
 Therefore, close clinical monitoring on effectiveness of LAMICTAL with dose adjustment may be necessary [see Warnings and Precautions (5.9)].
 It has been reported that ethinylestradiol, not progestogens, increased the clearance of lamotrigine up to 2-fold, and the progestin-only pills had no effect on lamotrigine plasma levels.
 Therefore, adjustments to the dosage of LAMICTAL in the presence of progestogens alone will likely not be needed.
@@ -72,7 +72,7 @@ In patients already taking maintenance doses of LAMICTAL and not taking glucuron
 Patients with Hepatic Impairment
 
 Experience in patients with hepatic impairment is limited.
-Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)], the following general recommendations can be made.
+Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment, the following general recommendations can be made [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response.
@@ -111,7 +111,7 @@ Escalation Regimen for LAMICTAL in Patients Older than 12 Years with Epilepsy
 |  | In Patients TAKING Valproatea | In Patients NOT TAKING Carbamazepine, Phenytoin, Phenobarbital, Primidone,b or Valproatea | In Patients TAKING Carbamazepine, Phenytoin, Phenobarbital, or Primidoneb and NOT TAKING Valproatea |
 | --- | --- | --- | --- |
 | Weeks 1 and 2 | 25 mg every other day | 25 mg every day | 50 mg/day |
-| Weeks 3 and 4 | 25 mg every day | 50 mg/day | 100 mg/day(in 2 divided doses) |
+| Weeks 3 and 4 | 25 mg every day | 50 mg/day | 100 mg/day (in 2 divided doses) |
 | Week 5 onward to maintenance | Increase by 25 to 50 mg/day every 1 to 2 weeks. | Increase by 50 mg/day every 1 to 2 weeks. | Increase by 100 mg/day every 1 to 2 weeks. |
 | Usual maintenance dose | 100 to 200 mg/day with valproate alone100 to 400 mg/day with valproate and other drugs that induce glucuronidation(in 1 or 2 divided doses) | 225 to 375 mg/day (in 2 divided doses) | 300 to 500 mg/day (in 2 divided doses) |
 | a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for estrogen-containing products, including oral contraceptives, and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with AEDs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)]. |  |  |  |
