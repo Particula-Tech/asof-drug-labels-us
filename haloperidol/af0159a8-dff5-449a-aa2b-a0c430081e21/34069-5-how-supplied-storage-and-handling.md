@@ -1,15 +1,17 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-HALDOL (haloperidol) decanoate 50 for IM injection, 50 mg haloperidol as 70.52 mg per mL haloperidol decanoate:
+How Supplied
 
-NDC 50458-253-03 3 × 1 mL ampules.
+HALDOL DECANOATE (haloperidol decanoate injection) is a clear, yellow to light amber viscous liquid, free from visible foreign material and available as:
 
-HALDOL (haloperidol) decanoate 100 for IM injection, 100 mg haloperidol as 141.04 mg per mL haloperidol decanoate:
+- haloperidol 50 mg/mL (present as haloperidol decanoate)
+  - NDC 50458-253-03, 3 × 1 mL single-dose ampules, packaged in a carton
+- haloperidol 100 mg/mL (present as haloperidol decanoate)
+  - NDC 50458-254-14, 5 × 1 mL single-dose ampules, packaged in a carton
 
-NDC 50458-254-14, 5 × 1 mL ampules.
+Storage and Handling
 
-Store at controlled room temperature (15°–30° C, 59°–86° F). Do not refrigerate or freeze.
-
+Store at room temperature 20°C to 25°C (68°F to 77°F) with excursions permitted between 15°C and 30°C (59°F and 86°F).
+Do not refrigerate or freeze.
 Protect from light.
-
-Keep out of reach of children.
+Discard unused portion.
