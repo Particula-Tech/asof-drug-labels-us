@@ -62,7 +62,7 @@ Plaque Psoriasis
 
 The safety and effectiveness of STELARA have been established for the treatment of moderate to severe plaque psoriasis in pediatric patients 6 years of age and older who are candidates for phototherapy or systemic therapy.
 
-Use of STELARA in pediatric patients 12 to less than 17 years of age is supported by evidence from a multicenter, randomized, 60week trial (Ps STUDY 3) that included a 12week, double-blind, placebo-controlled, parallel group portion, in 110 pediatric subjects 12 years of age and older [see Adverse Reactions (6.1), Clinical Studies (14.2)].
+Use of STELARA in pediatric patients 12 to less than 17 years of age is supported by evidence from a multicenter, randomized, 60 week trial (Ps STUDY 3) that included a 12 week, double-blind, placebo-controlled, parallel group portion, in 110 pediatric subjects 12 years of age and older [see Adverse Reactions (6.1), Clinical Studies (14.2)].
 
 Use of STELARA in pediatric patients 6 to 11 years of age is supported by evidence from an open-label, single-arm, efficacy, safety, and pharmacokinetics trial (Ps STUDY 4) in 44 subjects [see Adverse Reactions (6.1), Pharmacokinetics (12.3)].
 

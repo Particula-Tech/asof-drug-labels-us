@@ -10,10 +10,11 @@ Malignancies
 
 Inform patients of the risk of developing malignancies while receiving STELARA [see Warnings and Precautions (5.4)].
 
-Hypersensitivity Reactions
+Serious Hypersensitivity and Reactions
 
-- Advise patients to seek immediate medical attention if they experience any signs or symptoms of serious hypersensitivity reactions and discontinue STELARA [see Warnings and Precautions (5.5)].
-- Inform patients the needle cover on the prefilled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex [see Dosage and Administration (2.4)]
+- Inform patients that serious hypersensitivity reactions have been reported with intravenous and subcutaneous administration of STELARA.
+  Instruct patients to discontinue STELARA and seek immediate medical attention if they experience any signs or symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
+- Inform patients the needle cover on the prefilled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex [see Dosage and Administration (2.4)].
 
 Posterior Reversible Encephalopathy Syndrome (PRES)
 

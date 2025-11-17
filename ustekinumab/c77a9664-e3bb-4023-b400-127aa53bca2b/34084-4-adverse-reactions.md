@@ -4,7 +4,7 @@ The following serious adverse reactions are discussed elsewhere in the label:
 
 - Infections [see Warnings and Precautions (5.1)]
 - Malignancies [see Warnings and Precautions (5.4)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
+- Serious Hypersensitivity Reactions [see Warnings and Precautions (5.5)]
 - Posterior Reversible Encephalopathy Syndrome (PRES) [see Warnings and Precautions (5.6)]
 - Noninfectious Pneumonia [see Warnings and Precautions (5.8)]
 
@@ -117,7 +117,7 @@ Hypersensitivity Reactions Including Anaphylaxis
 In CD trials, two subjects reported hypersensitivity reactions following STELARA administration.
 One subject experienced signs and symptoms consistent with anaphylaxis (tightness of the throat, shortness of breath, and flushing) after a single subcutaneous administration (0.1% of subjects receiving subcutaneous STELARA).
 In addition, one subject experienced signs and symptoms consistent with or related to a hypersensitivity reaction (chest discomfort, flushing, urticaria, and increased body temperature) after the initial intravenous STELARA dose (0.08% of subjects receiving intravenous STELARA).
-These subjects were treated with oral antihistamines or corticosteroids and in both cases symptoms resolved within an hour.
+These subjects were treated with oral antihistamines or corticosteroids and in both cases symptoms resolved within an hour [see Warnings and Precautions (5.5)].
 
 Ulcerative Colitis
 
@@ -155,7 +155,7 @@ No apparent association between the development of antibodies to ustekinumab and
 The following adverse reactions have been reported during post-approval use of STELARA.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to STELARA exposure.
 
-Immune system disorders:Serious hypersensitivity reactions (including anaphylaxis and angioedema), other hypersensitivity reactions (including rash and urticaria).
+Immune system disorders: Hypersensitivity reactions (e.g., anaphylaxis, angioedema, dyspnea, rash, urticaria), including a fatal case that presented with chest tightness and dyspnea during infusion of the first dose.
 
 Infections and infestations:Lower respiratory tract infection (including opportunistic fungal infections and tuberculosis).
 
