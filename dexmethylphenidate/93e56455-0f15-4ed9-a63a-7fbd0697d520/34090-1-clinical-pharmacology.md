@@ -26,15 +26,15 @@ Dexmethylphenidate hydrochloride extended-release capsules given once daily exhi
 This is due to an earlier onset and more prolonged absorption from the delayed-release beads (see Figure 1).
 
 The ratio of geometric mean of AUC(0-inf) and Cmax after administration of dexmethylphenidate hydrochloride extended-release capsules given once daily are 1.02 and 0.86 respectively, to the same total dose of dexmethylphenidate hydrochloride tablets given in 2 doses 4 hours apart.
-The variability in Cmax, Cmin, and AUC is similar between dexmethylphenidate hydrochloride extended-release capsules and dexmethylphenidate hydrochloride immediate-release tablets with approximately a 3-fold range in each.
+The variability in Cmax, Cmin, and AUC is similar between dexmethylphenidate hydrochloride extended-release capsules and Focalin immediate-release tablets with approximately a 3-fold range in each.
 
 Approximately 90% of the dose is absorbed after oral administration of radiolabeled racemic methylphenidate.
 However, due to first pass metabolism the mean absolute bioavailability of dexmethylphenidate when administered in various formulations was 22% to 25%.
 
 Figure 1.
-Mean Dexmethylphenidate Plasma Concentration-Time Profiles After Administration 1 x 20 mg Dexmethylphenidate Hydrochloride Extended-Release (n = 24) Capsules and 2 x 10 mg Dexmethylphenidate Hydrochloride Immediate-Release Tablets (n = 25)
+Mean Dexmethylphenidate Plasma Concentration-Time Profiles After Administration 1 x 20 mg Dexmethylphenidate Hydrochloride Extended-Release (n = 24) Capsules and 2 x 10 mg Focalin Immediate-Release Tablets (n = 25)
 
-After single dose administration, dexmethylphenidate hydrochloride extended-release demonstrated dose proportional pharmacokinetics (PK) in the range of 5 mg to 40 mg.
+After single-dose administration, dexmethylphenidate hydrochloride extended-release demonstrated dose proportional pharmacokinetics (PK) in the range of 5 mg to 40 mg.
 
 For patients unable to swallow the capsule, the contents may be sprinkled on applesauce and administered [see Dosage and Administration (2)].
 

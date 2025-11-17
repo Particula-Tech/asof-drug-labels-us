@@ -50,9 +50,11 @@ Pregnancy Registry
 
 Advise patients that there is a pregnancy exposure registry that monitors pregnancy outcomes in patients exposed to ADHD medications, including dexmethylphenidate hydrochloride extended-release, during pregnancy [see Use in Specific Populations (8.1)].
 
+Brands listed are the trademarks of their respective owners.
+
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-11-2023-05
+10-2025-06
 
 Dispense with Medication Guide available at: documents.amneal.com/mg/dexmethylphenidate-hcl-er-30-cap.pdf

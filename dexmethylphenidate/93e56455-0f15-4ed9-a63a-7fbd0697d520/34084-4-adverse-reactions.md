@@ -27,7 +27,7 @@ This study was a randomized, double-blind, placebo-controlled, parallel-group st
 
 Most Common Adverse Reactions (incidence of greater than or equal to 5% and at least twice placebo): dyspepsia, decreased appetite, headache, and anxiety.
 
-Adverse Reactions Leading to Discontinuation: 50 of 684 (7.3%) pediatric patients treated with dexmethylphenidate hydrochloride immediate-release tablets experienced an adverse reaction that resulted in discontinuation.
+Adverse Reactions Leading to Discontinuation: 50 of 684 (7.3%) pediatric patients treated with Focalin (dexmethylphenidate) immediate-release tablets experienced an adverse reaction that resulted in discontinuation.
 The most common reasons for discontinuation were twitching (described as motor or vocal tics), anorexia, insomnia, and tachycardia (approximately 1% each).
 
 Table 1 enumerates adverse reactions for the placebo-controlled, parallel-group study in children and adolescents with ADHD at flexible dexmethylphenidate hydrochloride extended-release doses of 5 mg/day to 30 mg/day.
@@ -105,9 +105,9 @@ Table 4: Changes (Mean ± SD) in Vital Signs and Weight by Randomized Dose Durin
 
 |  | DexmethylphenidateHydrochlorideExtended-Release20 mg(N=57) | DexmethylphenidateHydrochlorideExtended-Release30 mg(N=54) | DexmethylphenidateHydrochlorideExtended-Release40 mg(N=54) | Placebo (N=53) |
 | --- | --- | --- | --- | --- |
-| Pulse (bpm) | 3.1 ± 11.1 | 4.3 ± 11.7 | 6.0 ± 10.1 | -1.4 ± 9.3 |
-| Diastolic BP (mmHg) | -0.2 ± 8.2 | 1.2 ± 8.9 | 2.1 ± 8.0 | 0.3 ± 7.8 |
-| Weight (kg) | -1.4 ± 2.0 | -1.2 ± 1.9 | -1.7 ± 2.3 | -0.1 ± 3.9 |
+| Pulse (bpm) | 3.1 ± 11.1 | 4.3 ± 11.7 | 6 ± 10.1 | -1.4 ± 9.3 |
+| Diastolic BP (mmHg) | -0.2 ± 8.2 | 1.2 ± 8.9 | 2.1 ± 8 | 0.3 ± 7.8 |
+| Weight (kg) | -1.4 ± 2 | -1.2 ± 1.9 | -1.7 ± 2.3 | -0.1 ± 3.9 |
 
 ## 6.2 Post-marketing Experience
 
@@ -118,9 +118,9 @@ Musculoskeletal: rhabdomyolysis
 
 Immune System Disorders: hypersensitivity reactions, including angioedema and anaphylaxis
 
-Adverse Reactions Reported With All Methylphenidate Hydrochloride and Dexmethylphenidate Hydrochloride Formulations
+Adverse Reactions Reported With All Ritalin and Dexmethylphenidate Hydrochloride Formulations
 
-The following adverse reactions associated with the use of all methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations were identified in clinical trials, spontaneous reports, and literature.
+The following adverse reactions associated with the use of all Ritalin and dexmethylphenidate hydrochloride formulations were identified in clinical trials, spontaneous reports, and literature.
 Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency reliably or to establish a causal relationship to drug exposure.
 
 Infections and Infestations: nasopharyngitis
@@ -155,7 +155,7 @@ Vascular Disorders: peripheral coldness, Raynaud’s phenomenon
 
 Additional Adverse Reactions Reported with Other Methylphenidate Products
 
-The list below shows adverse reactions not listed with methylphenidate hydrochloride and dexmethylphenidate hydrochloride formulations that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
+The list below shows adverse reactions not listed with Ritalin and dexmethylphenidate hydrochloride formulations that have been reported with other methylphenidate products based on clinical trials data and post-marketing spontaneous reports.
 
 Blood and Lymphatic Disorders: pancytopenia
 
