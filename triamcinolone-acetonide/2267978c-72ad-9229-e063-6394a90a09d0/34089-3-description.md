@@ -6,7 +6,7 @@ It also contains calcium chloride (dihydrate), magnesium chloride (hexahydrate),
 Sodium hydroxide and hydrochloric acid may be present to adjust pH to a target value 6 - 7.5.
 
 The chemical name for triamcinolone acetonide is 9-Fluro- 11β, 16α, 17,21-tetrahydroxypregna-1,4-diene-3,20-dione cyclic 16,17- acetal with acetone.
-Its structural formula of C 24H 31FO 6 is:
+Its structural formula of C 24H 31FO 6is:
 
 434.50 g/mol Molecular Weight
 

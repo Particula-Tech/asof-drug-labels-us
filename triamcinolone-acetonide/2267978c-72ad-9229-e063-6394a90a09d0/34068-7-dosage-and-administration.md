@@ -6,7 +6,7 @@ The initial recommended dose of TRIESENCE suspension is 4 mg (100 microliters of
 
 ## 2.2 Dosage for Visualization During Vitrectomy
 
-The recommended dose of TRIESENCE ® suspension is 1 to 4 mg (25 to 100 microliters of 40 mg/mL suspension) administered intravitreally.
+The recommended dose of TRIESENCE ®suspension is 1 to 4 mg (25 to 100 microliters of 40 mg/mL suspension) administered intravitreally.
 
 ## 2.3 Preparation for Administration
 
