@@ -13,7 +13,7 @@ Carbamazepine extended-release tablets should be inspected for chips or cracks.
 Damaged tablets, or tablets without a release portal, should not be consumed.
 Carbamazepine extended-release tablet coating is not absorbed and is excreted in the feces; these coatings may be noticeable in the stool.
 
-Epilepsy (SEE INDICATIONS AND USAGE)
+Epilepsy (see INDICATIONS AND USAGE)
 
 Adults and children over 12 years of age - Initial: 200 mg twice a day (400 mg/day).
 Increase at weekly intervals by adding up to 200 mg/day using a twice a day regimen of carbamazepine extended-release tablets until the optimal response is obtained.
@@ -29,7 +29,7 @@ Maintenance: Adjust dosage to the minimum effective level, usually 400 mg to 800
 Combination Therapy: Carbamazepine may be used alone or with other anticonvulsants.
 When added to existing anticonvulsant therapy, the drug should be added gradually while the other anticonvulsants are maintained or gradually decreased, except phenytoin, which may have to be increased (see PRECAUTIONS, Drug Interactions, and Pregnancy).
 
-Trigeminal Neuralgia (SEE INDICATIONS AND USAGE)
+Trigeminal Neuralgia (see INDICATIONS AND USAGE)
 
 Initial: On the first day, 100 mg twice a day, for a total daily dose of 200 mg.
 This daily dose may be increased by up to 200 mg/day using increments of 100 mg every 12 hours, only as needed to achieve freedom from pain.
