@@ -41,7 +41,7 @@ How to Use SYMPAZAN:
 
 Manufactured by: Aquestive Therapeutics Warren, NJ 07059
 
-For more information or support about SYMPAZAN: Call 1-833-AQUESTV (1-833-278-3788).
+For more information or support about SYMPAZAN: Call 1-800-518-1084
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 Revision Date: 11/2018
