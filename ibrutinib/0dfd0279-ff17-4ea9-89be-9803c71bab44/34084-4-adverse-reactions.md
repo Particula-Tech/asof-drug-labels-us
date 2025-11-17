@@ -616,3 +616,4 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Skin and subcutaneous tissue disorders: Stevens-Johnson Syndrome (SJS), onychoclasis, panniculitis, neutrophilic dermatoses, cutaneous vasculitis
 - Infections: hepatitis B reactivation
 - Nervous system disorders: peripheral neuropathy
+- Eye disorders: uveitis

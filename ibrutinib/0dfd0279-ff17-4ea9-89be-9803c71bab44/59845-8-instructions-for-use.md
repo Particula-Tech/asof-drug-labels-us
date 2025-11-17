@@ -84,6 +84,13 @@ This Instructions for Use has been approved by the U.S. Food and Drug Administra
 
 Distributed and Marketed by: Pharmacyclics LLC South San Francisco, CA 94080 USA and Marketed by: Janssen Biotech, Inc. Horsham, PA 19044 USA
 
-Patent http://www.imbruvica.com IMBRUVICA® is a registered trademark owned by Pharmacyclics LLC
+Patent http://www.imbruvica.com IMBRUVICA® and its design are trademarks of Pharmacyclics, LLC, an AbbVie company
 
-© 2024 Pharmacyclics LLC © 2024 Janssen Biotech, Inc. 20080493 Revised: 2/2024
+© 2025 Pharmacyclics LLC.
+All rights reserved.
+
+© 2025 Janssen Biotech, Inc. All rights reserved.
+
+20096655
+
+Revised: 10/2025

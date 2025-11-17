@@ -49,8 +49,11 @@ Advise patients to maintain adequate hydration [see Adverse Reactions (6.1)].
 
 Distributed and Marketed by: Pharmacyclics LLC South San Francisco, CA 94080 USA and Marketed by: Janssen Biotech, Inc. Horsham, PA 19044 USA
 
-Patent http://www.imbruvica.com IMBRUVICA® is a registered trademark owned by Pharmacyclics LLC
+Patent http://www.imbruvica.com IMBRUVICA® and its design are trademarks of Pharmacyclics, LLC, an AbbVie company.
 
-© Pharmacyclics LLC 2024 © Janssen Biotech, Inc. 2024
+© 2025 Pharmacyclics LLC.
+All rights reserved.
 
-20088578
+© 2025 Janssen Biotech, Inc. All rights reserved.
+
+20096654
