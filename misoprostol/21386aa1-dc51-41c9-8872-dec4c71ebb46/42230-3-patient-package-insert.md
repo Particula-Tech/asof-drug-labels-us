@@ -44,6 +44,6 @@ ANI Pharmaceuticals, Inc.
 
 Baudette, MN 56623
 
-Issued: 09/2022
+Issued: 04/2025
 
-LB4429-02
+LB4429-03
