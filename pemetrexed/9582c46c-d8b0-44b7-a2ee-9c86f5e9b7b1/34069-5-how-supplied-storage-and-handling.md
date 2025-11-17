@@ -10,7 +10,7 @@ NDC 83831-132-01: 500 mg single-dose vial containing pemetrexed equivalent to 59
 
 Storage and Handling
 
-Store at controlled room temperature, 20°-25°C (68°-77°F); excursions permitted from 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at controlled room temperature, 20°C to 25°C (68°F to 77°F); excursions permitted from 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
 AXTLE is a hazardous drug.
 Follow applicable special handling and disposal procedures.1

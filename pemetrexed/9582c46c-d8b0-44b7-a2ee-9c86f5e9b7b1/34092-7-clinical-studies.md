@@ -1,6 +1,70 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Non-squamous NSCLC
+## 14.1 Non-Squamous NSCLC
+
+Initial Treatment in Combination with Pembrolizumab and Platinum
+
+The efficacy of pemetrexed in combination with pembrolizumab and platinum chemotherapy was investigated in Study KEYNOTE-189 (NCT02578680), a randomized, multicenter, double-blind, active-controlled trial conducted in patients with metastatic non-squamous NSCLC, regardless of PD-L1 tumor expression status, who had not previously received systemic therapy for metastatic disease and in whom there were no EGFR or ALK genomic tumor aberrations.
+Patients with autoimmune disease that required systemic therapy within 2 years of treatment; a medical condition that required immunosuppression; or who had received more than 30 Gy of thoracic radiation within the prior 26 weeks were ineligible.
+Randomization was stratified by smoking status (never versus former/current), choice of platinum (cisplatin versus carboplatin), and tumor PD-L1 status (TPS <1% [negative] versus TPS ≥1%).
+Patients were randomized (2:1) to one of the following treatment arms:
+
+● Pemetrexed 500 mg/m2, pembrolizumab 200 mg, and investigator's choice of cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles followed by pemetrexed 500 mg/m2 and pembrolizumab 200 mg intravenously every 3 weeks.
+Pemetrexed was administered after pembrolizumab and prior to platinum chemotherapy on Day 1.
+
+● Placebo, pemetrexed 500 mg/m2, and investigator's choice of cisplatin 75 mg/m2 or carboplatin AUC 5 mg/mL/min intravenously on Day 1 of each 21-day cycle for 4 cycles followed by placebo and pemetrexed 500 mg/m2 intravenously every 3 weeks.
+
+Treatment with pemetrexed continued until RECIST v1.1 (modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ)-defined progression of disease as determined by the investigator or unacceptable toxicity.
+Patients randomized to placebo, pemetrexed, and platinum chemotherapy were offered pembrolizumab as a single agent at the time of disease progression.
+
+Assessment of tumor status was performed at Week 6, Week 12, and then every 9 weeks thereafter.
+The main efficacy outcome measures were OS and PFS as assessed by BICR RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of five target lesions per organ.
+Additional efficacy outcome measures were ORR and duration of response, as assessed by the BICR according to RECIST v1.1, modified to follow a maximum of 10 target lesions and a maximum of 5 target lesions per organ.
+
+A total of 616 patients were randomized: 410 patients to the pemetrexed, pembrolizumab, and platinum chemotherapy arm and 206 to the placebo, pemetrexed, and platinum chemotherapy arm.
+The study population characteristics were: median age of 64 years (range: 34 to 84); 49% age 65 or older; 59% male; 94% White and 3% Asian; 56% ECOG performance status of 1; and 18% with history of brain metastases.
+Thirty-one percent had tumor PD-L1 expression TPS <1%.
+Seventy-two percent received carboplatin and 12% were never smokers.
+A total of 85 patients in the placebo, pemetrexed, and chemotherapy arm received an anti-PD-1/PD-L1 monoclonal antibody at the time of disease progression.
+
+The trial demonstrated a statistically significant improvement in OS and PFS for patients randomized to pemetrexed in combination with pembrolizumab and platinum chemotherapy compared with placebo, pemetrexed, and platinum chemotherapy (see Table 10 and Figure 1).
+
+Table 10: Efficacy Results of KEYNOTE-189
+
+| Endpoint | Pemetrexed Pembrolizumab Platinum Chemotherapy n=410 | Placebo Pemetrexed Platinum Chemotherapy n=206 |
+| --- | --- | --- |
+| OS |  |  |
+| Number (%) of patients with event | 127 (31%) | 108 (52%) |
+| Median in months (95% CI) | NR (NR, NR) | 11.3 (8.7, 15.1) |
+| Hazard ratioa (95% CI) | 0.49 (0.38, 0.64) |  |
+| p-valueb | <0.0001 |  |
+| PFS |  |  |
+| Number of patients with event (%) | 245 (60%) | 166 (81%) |
+| Median in months (95% CI) | 8.8 (7.6, 9.2) | 4.9 (4.7, 5.5) |
+| Hazard ratioa (95% CI) | 0.52 (0.43, 0.64) |  |
+| p-valueb | <0.0001 |  |
+| ORR |  |  |
+| Overall response ratec (95% CI) | 48% (43, 53) | 19% (14, 25) |
+| Complete response | 0.5% | 0.5% |
+| Partial response | 47% | 18% |
+| p-valued | <0.0001 |  |
+| Duration of Response |  |  |
+| Median in months (range) | 11.2 (1.1+, 18.0+) | 7.8 (2.1+, 16.4+) |
+| a Based on the stratified Cox proportional hazard model. |  |  |
+| b Based on stratified log-rank test. |  |  |
+| c Response: Best objective response as confirmed complete response or partial response. |  |  |
+| d Based on Miettinen and Nurminen method stratified by PD-L1 status, platinum chemotherapy and smoking status. |  |  |
+| NR = not reached |  |  |
+
+At the protocol specified final OS analysis, the median in the pemetrexed in combination with pembrolizumab and platinum chemotherapy arm was 22.0 months (95% CI: 19.5, 24.5) compared to 10.6 months (95% CI: 8.7, 13.6) in the placebo with pemetrexed and platinum chemotherapy arm, with an HR of 0.56 (95% CI: 0.46, 0.69).
+
+A+P+C = Pemetrexed + pembrolizumab + platinum chemotherapy.
+
+A+C = Pemetrexed + platinum chemotherapy + placebo.
+
+Figure 1: Kaplan-Meier Curve for Overall Survival in KEYNOTE-189*
+
+*Based on the protocol-specified final OS analysis
 
 Initial Treatment in Combination with Cisplatin
 
@@ -18,9 +82,9 @@ Among patients for whom ECOG PS (n=1722) and smoking history (n=1516) were colle
 For tumor characteristics, 73% had non-squamous NSCLC and 27% had squamous NSCLC; 76% had Stage IV disease.
 Among 1252 patients with non-squamous NSCLC histology, 68% had a diagnosis of adenocarcinoma, 12% had large cell histology and 20% had other histologic subtypes.
 
-Efficacy results in Study JMDB are presented in Table 8 and Figure 1.
+Efficacy results in Study JMDB are presented in Table 11 and Figure 2.
 
-Table 8: Efficacy Results in Study JMDB
+Table 11: Efficacy Results in Study JMDB
 
 | Efficacy Parameter | Pemetrexed plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
 | --- | --- | --- |
@@ -35,10 +99,10 @@ Table 8: Efficacy Results in Study JMDB
 | b Adjusted for gender, stage, basis of diagnosis, and performance status. |  |  |
 
 In pre-specified analyses assessing the impact of NSCLC histology on overall survival, clinically relevant differences in survival according to histology were observed.
-These subgroup analyses are shown in Table 9 and Figures 2 and 3.
+These subgroup analyses are shown in Table 12 and Figures 3 and 4.
 This difference in treatment effect for pemetrexed based on histology demonstrating a lack of efficacy in squamous cell histology was also observed in Studies JMEN and JMEI.
 
-Table 9: Overall Survival in NSCLC Histologic Subgroups in Study JMDB
+Table 12: Overall Survival in NSCLC Histologic Subgroups in Study JMDB
 
 | Histologic Subgroups | Pemetrexed plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
 | --- | --- | --- |
@@ -74,9 +138,9 @@ Median time from initiation of platinum-based chemotherapy to randomization was 
 With regard to tumor characteristics, 81% had Stage IV disease, 73% had non-squamous NSCLC and 27% had squamous NSCLC.
 Among the 481 patients with non-squamous NSCLC, 68% had adenocarcinoma, 4% had large cell, and 28% had other histologies.
 
-Efficacy results are presented in Table 10 and Figure 4.
+Efficacy results are presented in Table 13 and Figure 5.
 
-Table 10: Efficacy Results in Study JMEN
+Table 13: Efficacy Results in Study JMEN
 
 | Efficacy Parameter | Pemetrexed | Placebo |
 | --- | --- | --- |
@@ -90,9 +154,9 @@ Table 10: Efficacy Results in Study JMEN
 | p-value | p<0.00001 |  |
 | a Hazard ratios are adjusted for multiplicity but not for stratification variables. |  |  |
 
-The results of pre-specified subgroup analyses by NSCLC histology are presented in Table 11 and Figures 5 and 6.
+The results of pre-specified subgroup analyses by NSCLC histology are presented in Table 14 and Figures 6 and 7.
 
-Table 11: Efficacy Results in Study JMEN by Histologic Subgroup
+Table 14: Efficacy Results in Study JMEN by Histologic Subgroup
 
 | Efficacy Parameter | Overall Survival |  | Progression-Free Survival Per Independent Review |  |
 | --- | --- | --- | --- | --- |
@@ -128,9 +192,9 @@ A total of 539 patients were enrolled with 359 patients randomized to pemetrexed
 The median age was 61 years (range 32 to 83 years); 58% were male; 95% were White, 4.5% were Asian, and <1% were Black or African American; 67% had an ECOG PS of 1; 78% were current or former smokers; and 43% of the population achieved a partial or complete response to first-line, platinum-based chemotherapy.
 With regard to tumor characteristics, 91% had Stage IV disease, 87% had adenocarcinoma, 7% had large cell, and 6% had other histologies.
 
-Efficacy results for PARAMOUNT are presented in Table 12 and Figure 7.
+Efficacy results for PARAMOUNT are presented in Table 15 and Figure 8.
 
-Table 12: Efficacy Results in PARAMOUNT
+Table 15: Efficacy Results in PARAMOUNT
 
 | Efficacy Parameter | Pemetrexed (N=359) | Placebo (N=180) |
 | --- | --- | --- |
@@ -158,11 +222,11 @@ The median age was 58 years (range 22 to 87 years); 72% were male; 71% were Whit
 1.
 With regard to tumor characteristics, 75% had Stage IV disease; 53% had adenocarcinoma, 30% had squamous histology; 8% large cell; and 9% had other histologic subtypes of NSCLC.
 
-The efficacy results in the overall population and in subgroup analyses based on histologic subtype are provided in Tables 13 and 14, respectively.
+The efficacy results in the overall population and in subgroup analyses based on histologic subtype are provided in Tables 16 and 17, respectively.
 Study JMEI did not show an improvement in overall survival in the intent-to-treat population.
 In subgroup analyses, there was no evidence of a treatment effect on survival in patients with squamous NSCLC; the absence of a treatment effect in patients with NSCLC of squamous histology was also observed Studies JMDB and JMEN [see Clinical Studies (14.1)].
 
-Table 13: Efficacy Results in Study JMEI
+Table 16: Efficacy Results in Study JMEI
 
 | Efficacy Parameter | Pemetrexed (N=283) | Docetaxel (N=288) |
 | --- | --- | --- |
@@ -175,7 +239,7 @@ Table 13: Efficacy Results in Study JMEI
 | Overall response rate (95% CI) | 8.5% (5.2-11.7) | 8.3% (5.1-11.5) |
 | a Hazard ratios are not adjusted for multiplicity or for stratification variables. |  |  |
 
-Table 14: Exploratory Efficacy Analyses by Histologic Subgroup in Study JMEI
+Table 17: Exploratory Efficacy Analyses by Histologic Subgroup in Study JMEI
 
 | Histologic Subgroups | Pemetrexed (N=283) | Docetaxel (N=288) |
 | --- | --- | --- |
@@ -211,9 +275,9 @@ Across the study population, the median age was 61 years (range: 20 to 86 years)
 With regard to tumor characteristics, 46% had Stage IV disease, 31% Stage III, 15% Stage II, and 7% Stage I disease at baseline; the histologic subtype of mesothelioma was epithelial in 68% of patients, mixed in 16%, sarcomatoid in 10% and other histologic subtypes in 6%.
 The baseline demographics and tumor characteristics of the subgroup of fully supplemented patients was similar to the overall study population.
 
-The efficacy results from Study JMCH are summarized in Table 15 and Figure 8.
+The efficacy results from Study JMCH are summarized in Table 18 and Figure 9.
 
-Table 15: Efficacy Results in Study JMCH
+Table 18: Efficacy Results in Study JMCH
 
 | Efficacy Parameter | All Randomized and Treated Patients (N=448) |  | Fully Supplemented Patients (N=331) |  |
 | --- | --- | --- | --- | --- |

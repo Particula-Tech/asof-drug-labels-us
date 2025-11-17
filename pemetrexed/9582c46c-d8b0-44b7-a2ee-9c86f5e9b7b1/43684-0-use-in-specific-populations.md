@@ -24,7 +24,7 @@ At doses, based on BSA, greater than or equal to 0.0012 times the 500 mg/m2human
 Risk Summary
 
 There is no information regarding the presence of pemetrexed or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production.
-Because of the potential for serious adverse reactions in breastfed infants from pemetrexed, advise women not to breastfeed during treatment with AXTLE and for one week after last dose.
+Because of the potential for serious adverse reactions in breastfed infants from pemetrexed, advise women not to breastfeed during treatment with AXTLE and for one week after the last dose.
 
 ## 8.3 Females and Males of Reproductive Potential
 
