@@ -15,12 +15,12 @@ Then, with the tablet score facing you, apply pressure and snap the tablet segme
 
 Manufactured For:
 
-Accord Healthcare, Inc., 1009 Slater Road, Suite 210-B, Durham, NC 27703, USA.
+Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200, Raleigh, NC 27617, USA.
 
 Manufactured By:
 
 Intas Pharmaceuticals Limited, Ahmedabad-380 054, India
 
-10 1652 1 6009050
+10 1652 2 6030378
 
-Issued May, 2021
+Revised August 2024
