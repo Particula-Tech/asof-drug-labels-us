@@ -1,8 +1,6 @@
 # PATIENT INFORMATION
 
-Pramipexole Dihydrochloride Tablets
-
-(pram'' i pex' ole dye hye'' droe klor' ide)
+Pramipexole Dihydrochloride (pram'' i pex' ole dye hye'' droe klor' ide) Tablets
 
 Read this Patient Information before you start taking pramipexole dihydrochloride tablets and each time you get a refill.
 There may be new information.
@@ -180,4 +178,4 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 All brands listed are the trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 07/2021
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 10/2025

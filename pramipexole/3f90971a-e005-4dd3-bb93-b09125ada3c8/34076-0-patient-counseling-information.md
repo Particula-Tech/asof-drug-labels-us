@@ -42,4 +42,4 @@ Lactation
 
 Because of the possibility that pramipexole may be excreted in breast milk, advise women to notify their physicians if they intend to breast-feed or are breast-feeding an infant [see Use in Specific Populations (8.2)].
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 07/2021
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 10/2025

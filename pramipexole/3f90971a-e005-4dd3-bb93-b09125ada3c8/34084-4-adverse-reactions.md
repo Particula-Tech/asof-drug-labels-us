@@ -209,4 +209,8 @@ In addition to the adverse events reported during clinical trials, the following
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 Decisions to include these reactions in labeling are typically based on one or more of the following factors: (1) seriousness of the reaction, (2) frequency of reporting, or (3) strength of causal connection to pramipexole tablets.
 
-Cardiac Disorders: cardiac failure Gastrointestinal Disorders: vomiting General Disorders and Administration Site Conditions: withdrawal symptoms [see Warnings and Precautions (5.11)] Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH), weight increase Musculoskeletal and Connective Tissue Disorders: postural deformity [see Warnings and Precautions (5.6)] Nervous System Disorders: syncope Skin and Subcutaneous Tissue Disorders: skin reactions (including erythema, rash, pruritus, urticaria)
+Cardiac Disorders: cardiac failure Gastrointestinal Disorders: vomiting General Disorders and Administration Site Conditions: withdrawal symptoms [see Warnings and Precautions (5.11)] Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormone secretion (SIADH), weight increase Musculoskeletal and Connective Tissue Disorders: postural deformity [see Warnings and Precautions (5.6)] Nervous System Disorders: syncope
+
+Reproductive System and Breast Disorders: priapism
+
+Skin and Subcutaneous Tissue Disorders: skin reactions (including erythema, rash, pruritus, urticaria)
