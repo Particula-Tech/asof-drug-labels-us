@@ -6,4 +6,4 @@ Made in India
 
 Manufactured for UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-Revised: 3/2024
+Revised: 5/2025

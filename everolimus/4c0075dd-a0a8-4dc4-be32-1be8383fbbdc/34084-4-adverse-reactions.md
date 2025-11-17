@@ -13,6 +13,20 @@ The following serious adverse reactions are described elsewhere in the labeling:
 - Myelosuppression [see Warnings and Precautions (5.10)]
 - Radiation Sensitization and Radiation Recall [see Warnings and Precautions (5.12)]
 
+## 6.2 Post marketing Experience
+
+The following adverse reactions have been identified during post approval use of everolimus.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure:
+
+- Blood and Lymphatic Disorders:Thrombotic microangiopathy
+- Cardiac:Cardiac failure with some cases reported with pulmonary hypertension (including pulmonary arterial hypertension) as a secondary event
+- Gastrointestinal:Acute pancreatitis
+- Hepatobiliary:Cholecystitis and cholelithiasis
+- Infections:Sepsis and septic shock
+- Nervous System:Reflex sympathetic dystrophy
+- Vascular:Arterial thrombotic events, lymphedema
+- Injury, Poisoning and Procedural Complications:Radiation sensitization and radiation recall
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed cannot be directly compared to rates in other trials and may not reflect the rates observed in clinical practice.
@@ -36,7 +50,7 @@ Adverse reactions reported with an incidence of ≥ 10% for patients receiving e
 Laboratory abnormalities are presented in Table 7.
 The median duration of treatment with everolimus tablets was 23.9 weeks; 33% were exposed to everolimus tablets for a period of ≥ 32 weeks.
 
-Table 6: Adverse Reactions Reported in ≥ 10% of Patients Hormone Receptor-Positive Breast Cancer in BOLERO-2
+Table 6: Adverse Reactions Reported in ≥ 10% of Patients With Hormone Receptor-Positive Breast Cancer in BOLERO-2
 
 |  | All Grades % | Grade 3 to 4 % | All Grades % | Grade 3 to 4 % |
 | --- | --- | --- | --- | --- |
@@ -236,6 +250,7 @@ Table 17: Selected Laboratory Abnormalities Reported in Everolimus Tablets-Treat
 |  | All Grades % | Grade 3 to 4 % | All Grades % | Grade 3 to 4 % |
 | --- | --- | --- | --- | --- |
 |  | Everolimus Tablets N = 78 |  | Placebo N = 39 |  |
+| Hematology |  |  |  |  |
 | Elevated partial thromboplastin time | 72 | 3 No Grade 4 laboratory abnormalities were reported. | 44 | 5 |
 | Neutropenia | 46 | 9 | 41 | 3 |
 | Anemia | 41 | 0 | 21 | 0 |
@@ -248,17 +263,3 @@ Table 17: Selected Laboratory Abnormalities Reported in Everolimus Tablets-Treat
 | Grading according to NCI CTCAE Version 3.0. |  |  |  |  |
 
 Updated safety information from 111 patients treated with everolimus tablets for a median duration of 47 months identified the following additional notable adverse reactions and selected laboratory abnormalities: decreased appetite (14%), hyperglycemia (13%), hypertension (11%), urinary tract infection (9%), decreased fibrinogen (8%), cellulitis (6%), abdominal pain (5%), decreased weight (5%), elevated creatinine (5%), and azoospermia (1%).
-
-## 6.2 Post marketing Experience
-
-The following adverse reactions have been identified during post approval use of everolimus.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate frequency or establish a causal relationship to drug exposure:
-
-- Blood and Lymphatic Disorders:Thrombotic microangiopathy
-- Cardiac:Cardiac failure with some cases reported with pulmonary hypertension (including pulmonary arterial hypertension) as a secondary event
-- Gastrointestinal:Acute pancreatitis
-- Hepatobiliary:Cholecystitis and cholelithiasis
-- Infections:Sepsis and septic shock
-- Nervous System:Reflex sympathetic dystrophy
-- Vascular:Arterial thrombotic events, lymphedema
-- Injury, Poisoning and Procedural Complications:Radiation sensitization and radiation recall

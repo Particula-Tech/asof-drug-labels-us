@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-## 1.1 Hormone Receptor-Positive, HER2-Negative Breast Cancer
+1.1 Hormone Receptor-Positive, HER2-Negative Breast Cancer
 
 TORPENZ tablets are indicated for the treatment of postmenopausal women with advanced hormone receptor-positive, HER2-negative breast cancer in combination with exemestane, after failure of treatment with letrozole or anastrozole.
 

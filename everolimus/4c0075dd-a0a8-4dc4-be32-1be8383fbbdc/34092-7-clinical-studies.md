@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Hormone Receptor-Positive, HER2-Negative Breast Cancer
+14.1 Hormone Receptor-Positive, HER2-Negative Breast Cancer
 
 A randomized, double-blind, multicenter study (BOLERO-2, NCT00863655) of everolimus tablets in combination with exemestane vs. placebo in combination with exemestane was conducted in 724 postmenopausal women with estrogen receptor-positive, HER2-negative advanced breast cancer with recurrence or progression following prior therapy with letrozole or anastrozole.
 Randomization was stratified by documented sensitivity to prior hormonal therapy (yes vs. no) and by the presence of visceral metastasis (yes vs. no). Sensitivity to prior hormonal therapy was defined as either (1) documented clinical benefit (complete response [CR], partial response [PR], stable disease ≥ 24 weeks) to at least one prior hormonal therapy in the advanced setting or (2) at least 24 months of adjuvant hormonal therapy prior to recurrence.
@@ -26,11 +26,11 @@ Table 20: Efficacy Results in Hormone-Receptor Positive, HER-2 Negative Breast C
 
 | Analysis | Everolimus Tablets with Exemestane N=485 | Placebo with Exemestane N=239 | Hazard ratio | p-value |
 | --- | --- | --- | --- | --- |
-| Median progress-free survival (months, 95% CI) |  |  |  |  |
+| Median progression-free survival (months, 95% CI) |  |  |  |  |
 | Investigator | 7.8 | 3.2 | 0.4 Hazard ratio is obtained from the stratified Cox proportional-hazards model by sensitivity to prior hormonal therapy and presence of visceral metastasis | <0.0001 p-value is obtained from the one-sided log-rank test stratified by sensitivity to prior hormonal therapy and presence of visceral metastasis |
 | Radiological review | (6.9, 8.5) | (2.8, 4.1) | (0.38, 0.54) |  |
 | Independent | 11.0 | 4.1 | 0.38 | <0.0001 |
-| Radiological review | (9.7, 15.0) | (2.9, 5.6) | (o.3, 0.5) |  |
+| Radiological review | (9.7, 15.0) | (2.9, 5.6) | (0.3, 0.5) |  |
 | Best overall response (%, 95 CI) |  |  |  |  |
 | Objective response | 12.6% | 1.7% | n/a Not applicable |  |
 | Rate (ORR) Objective response rate = proportion of patients with CR or PR | (9.8, 15.9) | (0.5, 4.2) |  |  |
