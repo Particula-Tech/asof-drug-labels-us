@@ -16,6 +16,8 @@ For Intravenous Infusion Only
 
 Discard unused portion
 
+WARNING: Hazardous Drug
+
 # PRINCIPAL DISPLAY PANEL – Nelarabine Injection 50 mL Carton
 
 NDC 71288-165-54
@@ -33,3 +35,5 @@ For Intravenous Infusion Only
 1 x 50 mL Single-Dose Vial
 
 Discard unused portion
+
+WARNING: Hazardous Drug

@@ -1,3 +1,3 @@
 # 7 DRUG INTERACTIONS
 
-Administration of nelarabine in combination with adenosine deaminase inhibitors, such as pentostatin, is not recommended [see Clinical Pharmacology (12.3)].
+Administration of nelarabine in combination with adenosine deaminase (ADA) inhibitors, such as pentostatin, is not recommended [see Clinical Pharmacology (12.3)].
