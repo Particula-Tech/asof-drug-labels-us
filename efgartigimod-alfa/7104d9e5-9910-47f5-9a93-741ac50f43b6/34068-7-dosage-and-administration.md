@@ -32,7 +32,6 @@ The recommended dosage of VYVGART HYTRULO vial is 1,008 mg / 11,200 units (1,008
 General Dosage Considerations
 
 Administer subsequent treatment cycles according to clinical evaluation.
-The safety of initiating subsequent cycles sooner than 50 days from the start of the previous treatment cycle has not been established.
 
 If a scheduled dose is missed, VYVGART HYTRULO may be administered up to 3 days after the scheduled time point.
 Thereafter, resume the original dosing schedule until the treatment cycle is completed.

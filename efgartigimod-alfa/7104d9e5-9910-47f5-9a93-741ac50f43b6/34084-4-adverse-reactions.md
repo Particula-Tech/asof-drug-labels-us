@@ -22,9 +22,9 @@ In a placebo-controlled study (Study 1) in patients with gMG, 84 patients receiv
 Of these 84 patients, approximately 75% were female, 82% were White, 11% were Asian, and 8% were of Hispanic or Latino ethnicity.
 The mean age at study entry was 46 years (range 19 to 78).
 
-The minimum time to initiate a subsequent cycle, specified by study protocol, was 50 days from the start of the previous treatment cycle.
+The minimum time to initiate a subsequent cycle, specified by study protocol, was 28 days from the last administration of the previous treatment cycle.
 On average, efgartigimod alfa-fcab-treated patients received 2 cycles in Study 1.
-The mean and median times to the second treatment cycle were 94 days and 72 days from the initial infusion of the first treatment cycle, respectively, for efgartigimod alfa-fcab-treated patients.
+The mean and median times to the second treatment cycle were 54 days and 50 days from the last administration of the first treatment cycle, respectively, for efgartigimod alfa-fcab-treated patients.
 
 Adverse reactions reported in at least 5% of patients treated with efgartigimod alfa-fcab and more frequently than placebo are summarized in Table 1.
 The most common adverse reactions (reported in at least 10% of efgartigimod alfa-fcab-treated patients) were respiratory tract infection, headache, and urinary tract infection.
@@ -38,6 +38,10 @@ Table 1: Adverse Reactions in at least 5% of Patients with gMG Treated with Efga
 | Urinary tract infection | 10 | 5 |
 | ParaesthesiaParesthesia includes oral hypoesthesia, hypoesthesia, and hyperesthesia. | 7 | 5 |
 | Myalgia | 6 | 1 |
+
+The safety of initiating subsequent cycles between 7 and 28 days from the last administration of the previous treatment cycle was assessed in 60 patients.
+Of these patients, 63% were exposed to treatment for over a year when cycles were initiated less than 4 weeks after the last administration.
+Safety in these patients was similar to that seen in Study 1.
 
 Adverse Reactions with VYVGART HYTRULO in Patients with gMG
 

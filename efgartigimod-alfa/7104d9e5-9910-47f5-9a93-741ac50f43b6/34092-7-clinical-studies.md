@@ -27,7 +27,7 @@ At baseline, over 80% of patients in each group received AChE inhibitors, over 7
 
 Patients were treated with 10 mg/kg EFG IV administered as an intravenous infusion over one hour once weekly for 4 weeks.
 In patients weighing 120 kg or more, EFG IV was administered as 1200 mg per infusion.
-Subsequent treatment cycles were administered based on clinical evaluation, but no sooner than 50 days from the start of the previous treatment cycle.
+Subsequent treatment cycles were administered based on clinical evaluation, but no sooner than 28 days from the last administration of the previous treatment cycle.
 
 The efficacy of EFG IV was measured using the Myasthenia Gravis-Specific Activities of Daily Living scale (MG-ADL) which assesses the impact of gMG on daily functions of 8 signs or symptoms that are typically affected in gMG.
 Each item is assessed on a 4-point scale where a score of 0 represents normal function and a score of 3 represents loss of ability to perform that function.
@@ -35,7 +35,7 @@ A total score ranges from 0 to 24, with the higher scores indicating more impair
 In this study, an MG-ADL responder was defined as a patient with a 2-point or greater reduction in the total MG-ADL score compared to the treatment cycle baseline for at least 4 consecutive weeks, with the first reduction occurring no later than 1 week after the last infusion of the cycle.
 
 The primary efficacy endpoint was the comparison of the percentage of MG-ADL responders during the first treatment cycle between treatment groups in the AChR-Ab positive population.
-A statistically significant difference favoring EFG IV was observed in the MG-ADL responder rate during the first treatment cycle [67.7% in the EFG IV-treated group vs 29.7% in the placebo-treated group (p <0.0001)].
+A statistically significant difference favoring EFG IV was observed in the MG-ADL responder rate during the first treatment cycle [67.7% in the EFG IV-treated group vs 29.7% in the placebo- treated group (p <0.0001)].
 
 The efficacy of EFG IV was also measured using the Quantitative Myasthenia Gravis (QMG) total score which is a 13-item categorical grading system that assesses muscle weakness.
 Each item is assessed on a 4-point scale where a score of 0 represents no weakness and a score of 3 represents severe weakness.

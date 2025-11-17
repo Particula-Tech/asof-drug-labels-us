@@ -14,7 +14,7 @@ This effect is transient, and permeability of the subcutaneous tissue is restore
 In Study 1 [see Clinical Studies (14)], the pharmacological effect of efgartigimod alfa-fcab was assessed by measuring the decrease in serum IgG levels and AChR autoantibody levels.
 In patients testing positive for AChR antibodies and who were treated with efgartigimod alfa-fcab intravenous, there was a reduction in total IgG levels relative to baseline.
 Decrease in AChR autoantibody levels followed a similar pattern.
-A decrease in AChR-Ab was associated with a clinical response in AChR-Ab positive patients, as measured by the change from baseline in MG-ADL total score.
+A decrease in AChR-Ab was associated with a clinical response in AChR-Ab positive patients, as measured by the change from baseline in MG- ADL total score.
 
 In Study 2, the pharmacological effect of VYVGART HYTRULO administered subcutaneously (SC) at 1,008 mg / 11,200 Units was compared to efgartigimod alfa-fcab administered intravenously at 10 mg/kg (EFG IV) in gMG patients.
 The maximum mean reduction in AChR-Ab level was observed at week 4, with a mean reduction of 62.2% and 59.7% in the VYVGART HYTRULO SC and efgartigimod alfa-fcab IV arm, respectively.

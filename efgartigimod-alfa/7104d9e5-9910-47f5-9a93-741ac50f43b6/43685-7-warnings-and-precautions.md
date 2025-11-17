@@ -3,7 +3,7 @@
 ## 5.1 Infections
 
 VYVGART HYTRULO may increase the risk of infection.
-The most common infections observed in Study 1 were urinary tract infection (10% of efgartigimod alfa-fcab-treated patients compared to 5% of placebo-treated patients) and respiratory tract infections (33% of efgartigimod alfa-fcab-treated patients compared to 29% of placebo-treated patients) [see Adverse Reactions (6.1) and Clinical Studies (14)].
+The most common infections observed in Study 1 were urinary tract infection (10% of efgartigimod alfa-fcab-treated patients compared to 5% of placebo-treated patients) and respiratory tract infections (33% of efgartigimod alfa-fcab- treated patients compared to 29% of placebo-treated patients) [see Adverse Reactions (6.1) and Clinical Studies (14)].
 A higher frequency of patients who received efgartigimod alfa-fcab compared to placebo were observed to have below normal levels for white blood cell counts (12% versus 5%, respectively), lymphocyte counts (28% versus 19%, respectively), and neutrophil counts (13% versus 6%, respectively).
 The majority of infections and hematologic abnormalities were mild to moderate in severity.
 Delay VYVGART HYTRULO administration in patients with an active infection until the infection is resolved.
