@@ -2,12 +2,12 @@
 
 ## 2.1 Dosage Information
 
-The recommended dosage for monotherapy and adjunctive therapy for partial-onset seizures in patients 4 years of age and older and for adjunctive therapy for primary generalized tonic-clonic seizures in patients 4 years of age and older is included in Table 1.
+The recommended dosage for monotherapy and adjunctive therapy for partial-onset seizures in patients 1 month of age and older and for adjunctive therapy for primary generalized tonic-clonic seizures in patients 4 years of age and older is included in Table 1.
 In pediatric patients, the recommended dosing regimen is dependent upon body weight.
 Dosage should be increased based on clinical response and tolerability, no more frequently than once per week.
 Titration increments should not exceed those shown in Table 1.
 
-Table 1: Recommended Dosages for Partial-Onset Seizures (Monotherapy or Adjunctive Therapy) in Patients 4 Years of Age and Older, and for Primary Generalized Tonic-Clonic Seizures (Adjunctive Therapy) in Patients 4 Years of Age and Older*
+Table 1: Recommended Dosages for Partial-Onset Seizures (Monotherapy or Adjunctive Therapy) in Patients 1 month and Older, and for Primary Generalized Tonic-Clonic Seizures (Adjunctive Therapy) in Patients 4 Years of Age and Older*
 
 | Age and Body Weight | Initial Dosage | Titration Regimen | Maintenance Dosage |
 | --- | --- | --- | --- |
@@ -19,9 +19,6 @@ Table 1: Recommended Dosages for Partial-Onset Seizures (Monotherapy or Adjuncti
 | ** Monotherapy for partial-onset seizures only |  |  |  |
 
 In adjunctive clinical trials in adult patients with partial-onset seizures, a dosage higher than 200 mg twice daily (400 mg per day) was not more effective and was associated with a substantially higher rate of adverse reactions [see Adverse Reactions (6.1)and Clinical Studies (14.2)].
-
-Additional pediatric use information is approved for UCB, Inc.’s VIMPAT ®(lacosamide) tablets and oral solution.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.2 Alternate Initial Dosage Information to Achieve the Maintenance Dosage in a Shorter Timeframe
 
@@ -41,7 +38,7 @@ Table 2: Alternate Initial Dosing Regimen to Achieve the Maintenance Dosage in a
 
 **Monotherapy for partial-onset seizures only
 
-Additional pediatric use information is approved for UCB, Inc.’s VIMPAT ®(lacosamide) tablets and oral solution.
+Additional pediatric use information is approved for UCB, Inc.’s VIMPAT ®(lacosamide) tablets.
 However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 2.3 Converting From a Single Antiepileptic (AED) to Lacosamide Monotherapy for the Treatment of Partial-Onset Seizures

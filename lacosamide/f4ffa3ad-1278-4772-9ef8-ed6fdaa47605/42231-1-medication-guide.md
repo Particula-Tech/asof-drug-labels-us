@@ -67,7 +67,7 @@ What are Lacosamide Tablets?
 
 Lacosamide tabletis a prescription medicine used:
 
-- to treat partial-onset seizures in people 4 years of age and older.
+- to treat partial-onset seizures in people 1 month of age and older.
 - with other medicines to treat primary generalized tonic-clonic seizures in people 4 years of age and older.
 
 It is not known if lacosamide tablet is safe and effective for partial-onset seizures in children under 1 month of age or for primary generalized tonic-clonic seizures in children under 4 years of age.
@@ -175,13 +175,10 @@ Tablet inactive ingredients:colloidal silicon dioxide, crospovidone, hydroxyprop
 - 150 mg tablets:opadry beige 03F130001 contains hypromellose 6cp, titanium dioxide, polyethylene glycol, FD&C Yellow #6/sunset yellow FCF aluminum lake, FD&C Red #40/Allura Red AC aluminum lake, FD&C Blue #2/indigo carmine aluminum lake.
 - 200 mg tablets:opadry blue 03F105002 contains hypromellose 6cp, titanium dioxide, polyethylene glycol, FD&C Blue #2/indigo carmine aluminum lake.
 
-Additional pediatric use information is approved for UCB, Inc.’s VIMPAT ®(lacosamide) tablets and oral solution.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
-
 Manufactured By: ScieGen Pharmaceuticals, Inc. Hauppauge, New York 11788, USA
 
-For more information, call 1-855-724-3436 Dispense the Medication Guide available at: https://sciegenpharm.com/medication-guide/
+For more information, call 1-855-724-3436
 
-Rev: 11/2023
+Rev: 5/2025
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.

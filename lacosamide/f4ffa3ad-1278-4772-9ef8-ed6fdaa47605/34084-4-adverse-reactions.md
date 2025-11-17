@@ -79,9 +79,9 @@ Although there were few non-Caucasian patients, no differences in the incidences
 
 Lacosamide Tablet in Pediatric Patients
 
-Safety of lacosamide tablets was evaluated in clinical studies of pediatric patients 4 to less than 17 years of age for the treatment of partial-onset seizures.
-Across studies in pediatric patients with partial-onset seizures, 328 patients 4 to less than 17 years of age received lacosamide oral solution or tablet, of whom 148 received lacosamide for at least 1 year.
-Adverse reactions reported in clinical studies of pediatric patients 4 to less than 17 years of age were similar to those seen in adult patients.
+Safety of lacosamide tablets was evaluated in clinical studies of pediatric patients 1 month to less than 17 years of age for the treatment of partial-onset seizures.
+Across studies in pediatric patients with partial-onset seizures, 328 patients 1 month to less than 17 years of age received lacosamide oral solution or tablet, of whom 148 received lacosamide for at least 1 year.
+Adverse reactions reported in clinical studies of pediatric patients 1 month to less than 17 years of age were similar to those seen in adult patients.
 
 Primary Generalized Tonic-Clonic Seizures in Patients (4 Years of Age and Older) Adjunctive Therapy Trial (Study 5)
 
@@ -123,7 +123,7 @@ Nervous system disorders: paresthesia, cognitive disorder, hypoaesthesia, dysart
 
 Psychiatric disorders: confusional state, mood altered, depressed mood
 
-Additional pediatric use information is approved for UCB, Inc.’s VIMPAT ®(lacosamide) tablets and oral solution.
+Additional pediatric use information is approved for UCB, Inc.’s VIMPAT® (lacosamide) tablets.
 However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 6.2 Postmarketing Experience

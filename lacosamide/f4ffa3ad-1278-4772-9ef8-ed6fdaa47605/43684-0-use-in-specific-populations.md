@@ -54,8 +54,8 @@ Clinical Considerations Monitor infants exposed to lacosamide through breastmilk
 
 Partial-Onset Seizures
 
-Safety and effectiveness of lacosamide for the treatment of partial-onset seizures have been established in pediatric patients 4 years to less than 17 years of age.
-Use of lacosamide in this age group is supported by evidence from adequate and well-controlled studies of lacosamide in adults with partial-onset seizures, pharmacokinetic data from adult and pediatric patients, and safety data in 328 pediatric patients 4 years to less than 17 years of age [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1, 14.2)].
+Safety and effectiveness of lacosamide for the treatment of partial-onset seizures have been established in pediatric patients 1 month to less than 17 years of age.
+Use of lacosamide in this age group is supported by evidence from adequate and well-controlled studies of lacosamide in adults with partial-onset seizures, pharmacokinetic data from adult and pediatric patients, and safety data in 847 pediatric patients 1 month to less than 17 years of age [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1, 14.2)].
 
 Safety and effectiveness in pediatric patients below 1 month of age have not been established.
 
@@ -71,9 +71,6 @@ Lacosamide has been shown in vitroto interfere with the activity of collapsin re
 Potential related adverse effects on CNS development cannot be ruled out.
 Administration of lacosamide to rats during the neonatal and juvenile periods of postnatal development (approximately equivalent to neonatal through adolescent development in humans) resulted in decreased brain weights and long-term neurobehavioral changes (altered open field performance, deficits in learning and memory).
 The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide exposure (AUC) less than that in humans at the maximum recommended human dose of 400 mg/day.
-
-Additional pediatric use information is approved for UCB, Inc.’s VIMPAT ®(lacosamide) tablets and oral solution.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

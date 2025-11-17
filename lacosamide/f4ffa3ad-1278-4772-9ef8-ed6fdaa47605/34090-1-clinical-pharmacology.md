@@ -46,7 +46,7 @@ Lacosamide is less than 15% bound to plasma proteins.
 
 Metabolism and Elimination Lacosamide is primarily eliminated from the systemic circulation by renal excretion and biotransformation.
 
-After oral administration of 100 mg [14C]-lacosamide approximately 95% of radioactivity administered was recovered in the urine and less than 0.5% in the feces.
+After oral and intravenous administration of 100 mg [14C]-lacosamide approximately 95% of radioactivity administered was recovered in the urine and less than 0.5% in the feces.
 The major compounds excreted were unchanged lacosamide (approximately 40% of the dose), its O-desmethyl metabolite (approximately 30%), and a structurally unknown polar fraction (~20%).
 The plasma exposure of the major human metabolite, O-desmethyl-lacosamide, is approximately 10% of that of lacosamide.
 This metabolite has no known pharmacological activity.
@@ -66,16 +66,13 @@ Hepatic Impairment Lacosamide undergoes metabolism.
 Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50% to 60% higher AUC compared to healthy subjects).
 The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment [see Dosage and Administration (2.5)].
 
-Pediatric Patients (4 years to less than 17 Years of Age) The pediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in two open-label studies in 79 pediatric patients with epilepsy aged 4 years to less than 17 years who received oral solution or oral tablet formulations.
+Pediatric Patients (1 month to less than 17 Years of Age) The pediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in two open-label studies in 79 pediatric patients with epilepsy aged 1 month to less than 17 years who received oral solution or oral tablet formulations.
 
-A weight based dosing regimen is necessary to achieve lacosamide exposures in pediatric patients 4 years to less than 17 years of age similar to those observed in adults treated at effective doses of lacosamide [see Dosage and Administration (2.1)].
-For patients weighing 11 kg, 28.9 kg (the mean population body weight), and 70 kg, the typical plasma half-life (t1/2) is 7.4 hours, 10.6 hours, and 14.8 hours, respectively.
+A weight based dosing regimen is necessary to achieve lacosamide exposures in pediatric patients 1 month to less than 17 years of age similar to those observed in adults treated at effective doses of lacosamide [see Dosage and Administration (2.1)].
+For patients weighing 11 kg, 28.9 kg (the mean population body weight), and 70 kg, the typical plasma half-life (t1/2) is 7.2 hours, 10.6 hours, and 14.8 hours, respectively.
 Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.
 
 The pharmacokinetics of lacosamide in pediatric patients are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures and as adjunctive therapy for the treatment of primary generalized tonic-clonic seizures.
-
-Additional pediatric use information is approved for UCB, Inc.’s VIMPAT ®(lacosamide) tablets and oral solution.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 Geriatric Patients In the elderly (>65 years), dose and body-weight normalized AUC and C maxis about 20% increased compared to young subjects (18 to 64 years).
 This may be related to body weight and decreased renal function in elderly subjects.

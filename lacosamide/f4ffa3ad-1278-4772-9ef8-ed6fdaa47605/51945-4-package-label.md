@@ -6,7 +6,7 @@ Lacosamide Tablets, USP CV
 
 50 mg
 
-PHARMACIST: Dispense the enclosed Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 60 Tablets Rx Only
 
@@ -18,7 +18,7 @@ Lacosamide Tablets, USP CV
 
 100 mg
 
-PHARMACIST: Dispense the enclosed Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 60 Tablets Rx Only
 
@@ -30,7 +30,7 @@ Lacosamide Tablets, USP CV
 
 150 mg
 
-PHARMACIST: Dispense the enclosed Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 60 Tablets Rx Only
 
@@ -42,7 +42,7 @@ Lacosamide Tablets, USP CV
 
 200 mg
 
-PHARMACIST: Dispense the enclosed Medication Guide to each patient.
+PHARMACIST: Dispense the Medication Guide provided separately to each patient.
 
 60 Tablets Rx Only
 
