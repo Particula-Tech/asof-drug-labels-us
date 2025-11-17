@@ -1,10 +1,10 @@
 # 14 CLINICAL STUDIES
 
-The effects of CONTRAVE on weight loss in conjunction with reduced caloric intake and increased physical activity was studied in double-blind, placebo-controlled trials (BMI range 27 to 45 kg/m2) with study durations of 16 to 56 weeks randomized to naltrexone and/or bupropion or placebo.
+The effects of CONTRAVE on weight reduction and long-term maintenance in conjunction with reduced caloric intake and increased physical activity was studied in double-blind, placebo-controlled trials (BMI range 27 to 45 kg/m2) with study durations of 16 to 56 weeks randomized to naltrexone and/or bupropion or placebo.
 
-Effect on Weight Loss and Weight Maintenance
+Effect on Weight Reduction and Long-Term Maintenance
 
-Four 56-week multicenter, double-blind, placebo-controlled obesity trials (CONTRAVE Obesity Research, or COR-I, COR-II, COR-BMOD, and COR-Diabetes) were conducted to evaluate the effect of CONTRAVE in conjunction with lifestyle modification in 4,536 patients randomized to CONTRAVE or placebo.
+Four 56-week multicenter, double-blind, placebo-controlled obesity trials (CONTRAVE Obesity Research, or COR-I, COR-II, COR-BMOD, and COR-Diabetes) were conducted to evaluate the effect of CONTRAVE on weight reduction in conjunction with lifestyle modification in 4,536 patients randomized to CONTRAVE or placebo.
 The COR-I, COR-II, and COR-BMOD trials enrolled patients with obesity (BMI 30 kg/m2 or greater) or overweight (BMI 27 kg/m2 or greater) and at least one comorbidity (hypertension or dyslipidemia).
 The COR-Diabetes trial enrolled patients with BMI greater than 27 kg/m2 with type 2 diabetes with or without hypertension and/or dyslipidemia.
 

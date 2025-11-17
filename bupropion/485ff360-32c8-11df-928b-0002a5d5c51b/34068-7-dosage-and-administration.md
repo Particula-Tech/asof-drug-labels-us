@@ -1,8 +1,11 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing
+## 2.1 Recommended Dosage
 
-CONTRAVE dosing should be escalated according to the following schedule:
+Initiate and escalate the dosage of CONTRAVE according to the schedule in Table 1:
+
+Table 1.
+Dosage Initiation and Escalation Schedule for CONTRAVE
 
 |  | Morning Dose | Evening Dose |
 | --- | --- | --- |
@@ -11,7 +14,7 @@ CONTRAVE dosing should be escalated according to the following schedule:
 | Week 3 | 2 tablets | 1 tablet |
 | Week 4 – Onward | 2 tablets | 2 tablets |
 
-A total daily dosage of two CONTRAVE 8 mg/90 mg tablets twice daily (32 mg/360 mg) is reached at the start of Week 4.
+A total daily dosage of 32 mg of naltrexone hydrochloride (HCl) and 360 mg bupropion HCl (two CONTRAVE 8 mg/90 mg tablets twice daily) is reached at the start of Week 4.
 
 CONTRAVE should be taken by mouth in the morning and in the evening.
 The tablets should not be cut, chewed, or crushed.
@@ -24,12 +27,6 @@ Because patients with hypertension may be at increased risk for developing blood
 
 Response to therapy should be evaluated after 12 weeks at the maintenance dosage.
 If a patient has not lost at least 5% of baseline body weight, discontinue CONTRAVE, as it is unlikely that the patient will achieve and sustain clinically meaningful weight loss with continued treatment.
-
-BMI is calculated by dividing weight (in kg) by height (in meters) squared.
-A BMI chart for determining BMI based on height and weight is provided in Table 1.
-
-Table 1.
-BMI Conversion Chart
 
 ## 2.2 Dose Adjustment in Patients with Renal Impairment
 

@@ -13,6 +13,7 @@ In these same studies, suicidal ideation was reported by 3 (0.20%) of 1,515 pati
 
 Pooled analyses of short-term placebo-controlled trials of antidepressant drugs (selective serotonin re-uptake inhibitors [SSRIs] and others) show that these drugs increase the risk of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults (ages 18 to 24) with major depressive disorder (MDD) and other psychiatric disorders.
 Short-term clinical trials did not show an increase in the risk of suicidality with antidepressants compared with placebo in adults beyond age 24; there was a reduction with antidepressants compared with placebo in adults aged 65 and older.
+CONTRAVE is not approved for use in pediatric patients.
 
 The pooled analyses of placebo-controlled trials of antidepressant drugs in children and adolescents with MDD, obsessive compulsive disorder (OCD), or other psychiatric disorders included a total of 24 short-term trials of nine antidepressant drugs in over 4,400 patients.
 The pooled analyses of placebo-controlled trials in adults with MDD or other psychiatric disorders included a total of 295 short-term trials (median duration of two months) of 11 antidepressant drugs in over 77,000 patients.
@@ -71,7 +72,7 @@ No causal relationship has been demonstrated.
 ## 5.3 Seizures
 
 Bupropion, a component of CONTRAVE, can cause seizures.
-The risk of seizure is dose-related.
+The risk of seizure is dose- related.
 The incidence of seizure in patients receiving CONTRAVE in clinical trials was approximately 0.1% vs 0% on placebo.
 CONTRAVE should be discontinued and not restarted in patients who experience a seizure while being treated with CONTRAVE.
 
@@ -107,7 +108,7 @@ Patients should be told of the serious consequences of trying to overcome the op
 Precipitated Opioid Withdrawal: The symptoms of spontaneous opioid withdrawal, which are associated with the discontinuation of opioid in a dependent individual, are uncomfortable, but they are not generally believed to be severe or necessitate hospitalization.
 However, when withdrawal is precipitated abruptly, the resulting withdrawal syndrome can be severe enough to require hospitalization.
 To prevent occurrence of either precipitated withdrawal in patients dependent on opioids or exacerbation of a pre-existing subclinical withdrawal symptoms, opioid-dependent patients, including those being treated for alcohol dependence, should be opioid-free (including tramadol) before starting CONTRAVE treatment.
-An opioid-free interval of a minimum of 7 to 10 days is recommended for patients previously dependent on short-acting opioids, and those patients transitioning from buprenorphine or methadone may need as long as two weeks.
+An opioid-free interval of a minimum of 7 to 10 days is recommended for patients previously dependent on short- acting opioids, and those patients transitioning from buprenorphine or methadone may need as long as two weeks.
 Patients should be made aware of the risks associated with precipitated withdrawal and encouraged to give an accurate account of last opioid use.
 
 ## 5.5 Increase in Blood Pressure and Heart Rate

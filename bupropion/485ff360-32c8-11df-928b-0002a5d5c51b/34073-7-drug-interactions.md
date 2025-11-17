@@ -11,7 +11,7 @@ Conversely, at least 14 days should be allowed after stopping CONTRAVE before st
 ## 7.2 Opioid Analgesics
 
 Patients taking CONTRAVE may not fully benefit from treatment with opioid-containing medicines, such as cough and cold remedies, antidiarrheal preparations, and opioid analgesics.
-In patients requiring intermittent opiate treatment, CONTRAVE therapy should be temporarily discontinued and opiate dose should not be increased above the standard dose.
+In patients requiring intermittent opiate treatment, CONTRAVE therapy should be temporarily discontinued, and opiate dose should not be increased above the standard dose.
 CONTRAVE may be used with caution after chronic opioid use has been stopped for 7 to 10 days in order to prevent precipitation of withdrawal [see Contraindications (4) and Warnings and Precautions (5.4)].
 
 During CONTRAVE clinical studies, the use of concomitant opioid or opioid-like medications, including analgesics or antitussives, were excluded.

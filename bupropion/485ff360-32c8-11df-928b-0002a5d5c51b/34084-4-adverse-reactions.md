@@ -13,7 +13,7 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, the adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-CONTRAVE was evaluated for safety in five double-blind placebo controlled trials in 4,754 overweight or obese patients (3,239 patients treated with CONTRAVE and 1,515 patients treated with placebo) for a treatment period up to 56 weeks.
+CONTRAVE was evaluated for safety in five double-blind placebo-controlled trials in 4,754 overweight or obese patients (3,239 patients treated with CONTRAVE and 1,515 patients treated with placebo) for a treatment period up to 56 weeks.
 The majority of patients were treated with CONTRAVE 32 mg/360 mg total daily dose.
 In addition, some patients were treated with other combination daily doses including naltrexone up to 50 mg and bupropion up to 400 mg.
 All subjects received study drug in addition to diet and exercise counseling.
@@ -27,7 +27,7 @@ The most frequent adverse reactions leading to discontinuation with CONTRAVE wer
 
 Common Adverse Reactions
 
-Adverse reactions that were reported by greater than or equal to 2% of patients, and were more frequently reported by patients treated with CONTRAVE compared to placebo, are summarized in Table 3.
+Adverse reactions that were reported by greater than or equal to 2% of patients and were more frequently reported by patients treated with CONTRAVE compared to placebo, are summarized in Table 3.
 
 Table 3.
 Adverse Reactions Reported by Obese or Overweight Patients With an Incidence (%) of at Least 2% Among Patients Treated with CONTRAVE and More Common than with Placebo
@@ -94,3 +94,5 @@ Because these reactions are reported voluntarily from a population of uncertain 
 - Loss of consciousness, malaise
 - Brugada pattern/syndrome
 - Drug reaction with eosinophilia and systemic symptoms (DRESS)
+- Acute generalized exanthematous pustulosis (AGEP)
+- Aseptic meningitis
