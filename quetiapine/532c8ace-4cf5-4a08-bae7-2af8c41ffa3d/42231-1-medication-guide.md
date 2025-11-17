@@ -259,4 +259,4 @@ Made in India
 
 Code: TS/DRUGS/19/1993
 
-Revised: 04/2025
+Revised: 10/2025

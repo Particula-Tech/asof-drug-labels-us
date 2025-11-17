@@ -39,8 +39,6 @@ The decision to prescribe atypical antipsychotic medication will depend upon the
 
 Brands listed are the trademarks of their respective owners.
 
-Dispense with Medication Guide available at: https://risingpharma.com/Medguides/QuetiapineTabletsUSPMG.pdf
-
 Distributed by:
 
 Rising Pharma Holdings, Inc.
@@ -51,6 +49,4 @@ Made in India
 
 Code: TS/DRUGS/19/1993
 
-Revised: 04/2025
-
-Dispense with Medication Guide available at: https://risingpharma.com/Medguides/QuetiapineTabletsUSPMG.pdf
+Revised: 10/2025
