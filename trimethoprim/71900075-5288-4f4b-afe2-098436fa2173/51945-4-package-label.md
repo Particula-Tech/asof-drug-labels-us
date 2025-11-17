@@ -4,7 +4,7 @@ NDC 61314-628-10
 
 Polymyxin B
 
-Sulfateand
+Sulfate and
 
 Trimethoprim
 
@@ -14,6 +14,8 @@ Solution, USP
 
 Rx Only
 
-STERILE 10mL
+STERILE
+
+10mL
 
 SANDOZ

@@ -12,6 +12,6 @@ Peak serum concentrations were approximately 0.03 mcg/mL trimethoprim and 1 unit
 
 Microbiology: In vitro studies have demonstrated that the anti-infective components of Polymyxin B Sulfate and Trimethoprim Ophthalmic Solution are active against the following bacterial pathogens that are capable of causing external infections of the eye:
 
-Trimethoprim: Staphylococcus aureus and Staphylococcus epidermidis, Streptococcus pyogenes, Streptococcus faecalis, Streptococcus pneumoniae, Haemophilus influenzae, Haemophilus aegyptius, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis (indole-negative), Proteus vulgaris (indolepositive), Enterobacter aerogenes and Serratia marcescens.
+Trimethoprim: Staphylococcus aureus and Staphylococcus epidermidis, Streptococcus pyogenes, Streptococcus faecalis, Streptococcus pneumoniae, Haemophilus influenzae, Haemophilus aegyptius, Escherichia coli, Klebsiella pneumoniae, Proteus mirabilis (indole-negative), Proteus vulgaris (indole-positive), Enterobacter aerogenes and Serratia marcescens.
 
 Polymyxin B: Pseudomonas aeruginosa, Escherichia coli, Klebsiella pneumoniae, Enterobacter aerogenes and Haemophilus influenzae.

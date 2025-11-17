@@ -1,7 +1,9 @@
 # WARNINGS
 
 NOT FOR INJECTION INTO THE EYE.
-If a sensitivity reaction to Polymyxin B Sulfate and Trimethoprim Ophthalmic Solution occurs, discontinue use.
+
+If a hypersensitivity reaction to Polymyxin B Sulfate and Trimethoprim Ophthalmic Solution occurs, discontinue use.
+
 Polymyxin B Sulfate and Trimethoprim Ophthalmic Solution is not indicated for the prophylaxis or treatment of ophthalmia neonatorum.
 
 # PRECAUTIONS
@@ -15,7 +17,9 @@ If superinfection occurs, appropriate therapy should be initiated.
 
 Avoid contaminating the applicator tip with material from the eye, fingers, or other source.
 This precaution is necessary if the sterility of the drops is to be maintained.
-If redness, irritation, swelling or pain persists or increases, discontinue use immediately and contact your physician.
+
+If hypersensitivity reactions such as redness, irritation, swelling, or pain persist or increase, discontinue use immediately and contact your physician.
+
 Patients should be advised not to wear contact lenses if they have signs and symptoms of ocular bacterial infections.
 
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
