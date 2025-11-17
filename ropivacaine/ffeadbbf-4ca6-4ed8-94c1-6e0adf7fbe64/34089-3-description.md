@@ -15,6 +15,6 @@ The pKa of ropivacaine is approximately the same as bupivacaine (8.1) and is sim
 However, ropivacaine has an intermediate degree of lipid solubility compared to bupivacaine and mepivacaine.
 
 Ropivacaine hydrochloride injection, USP is a clear, colorless, and preservative-free solution.
-Each mL contains 2 mg, 5 mg, 7.5 mg or 10 mg ropivacaine hydrochloride anhydrous and 8.6 mg, 8.0 mg, 7.5 mg or 7.1 mg of sodium chloride; respectively, and sodium hydroxide and hydrochloric acid as pH adjusters, in water for injection.
-The pH is adjusted between 4.0 to 6.0 with.
+Each mL contains 2.1 mg, 5.3 mg, 7.9 mg or 10.6 mg ropivacaine hydrochloride monohydrate (equivalent to 2 mg, 5 mg, 7.5 mg or 10 mg of ropivacaine hydrochloride anhydrous) and 8.6 mg, 8.0 mg, 7.5 mg or 7.1 mg of sodium chloride; respectively, and sodium hydroxide and hydrochloric acid as pH adjusters, in water for injection.
+The pH is adjusted between 4.0 to 6.0.
 The specific gravity of ropivacaine hydrochloride injection, USP solutions range from 1.002 to 1.005 at 25°C.

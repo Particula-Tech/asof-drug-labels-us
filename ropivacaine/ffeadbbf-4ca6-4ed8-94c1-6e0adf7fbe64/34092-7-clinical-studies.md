@@ -63,7 +63,7 @@ In this study, the pain scores were higher in the ropivacaine hydrochloride inje
 
 Continuous epidural infusion of ropivacaine hydrochloride injection 2 mg/mL (0.2%) during up to 72 hours for postoperative pain management after major abdominal surgery was studied in 2 multicenter, double-blind studies.
 A total of 391 patients received a low thoracic epidural catheter, and ropivacaine hydrochloride injection 7.5 mg/L (0.75%) was given for surgery, in combination with GA.
-Postoperatively, 2 mg/mL (0.2%), 4 to 14 mL/h, alone or with fentanyl 1, 2, or 4 mcg/mL was infused through the epidural catheter and adjusted according to the patient's needs.
+Postoperatively, ropivacaine hydrochloride injection 2 mg/mL (0.2%), 4 to 14 mL/h, alone or with fentanyl 1, 2, or 4 mcg/mL was infused through the epidural catheter and adjusted according to the patient's needs.
 These studies support the use of ropivacaine hydrochloride injection 2 mg/mL (0.2%) for epidural infusion at 6 to 14 mL/h (12 to 28 mg) for up to 72 hours and demonstrated adequate analgesia with only slight and nonprogressive motor block in cases of moderate to severe postoperative pain.
 
 Clinical studies with 2 mg/mL (0.2%) ropivacaine hydrochloride injection have demonstrated that infusion rates of 6 to 14 mL (12 to 28 mg) per hour provide adequate analgesia with nonprogressive motor block in cases of moderate to severe postoperative pain.
