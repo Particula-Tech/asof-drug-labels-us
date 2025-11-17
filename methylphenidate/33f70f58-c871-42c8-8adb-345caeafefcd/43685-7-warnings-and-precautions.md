@@ -1,5 +1,7 @@
 # 5 WARNINGS AND PRECAUTIONS
 
+.
+
 ## 5.1 Abuse, Misuse, and Addiction
 
 COTEMPLA XR-ODT has a high potential for abuse and misuse.
@@ -59,6 +61,8 @@ Careful observation for digital changes is necessary during COTEMPLA XR-ODT trea
 Further clinical evaluation (e.g., rheumatology referral) may be appropriate for COTEMPLA XRODT-treated patients who develop signs or symptoms of peripheral vasculopathy.
 
 ## 5.7 Long-Term Suppression of Growth in Pediatric Patients
+
+COTEMPLA[A1] XR-ODT is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 

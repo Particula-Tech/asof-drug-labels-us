@@ -2,7 +2,7 @@ Manufactured for Neos Therapeutics Brands, LLC.
 Denver, CO 80237.
 Made in USA.
 
-For more information, call 1-(888)-319-1789
+For more information, call 1-888-319-1789
 
 COTEMPLA XR-ODT is a registered trademark of Neos Therapeutics, Inc.
 
