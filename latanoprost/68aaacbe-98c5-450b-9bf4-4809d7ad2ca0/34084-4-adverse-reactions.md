@@ -2,11 +2,11 @@
 
 The following adverse reactions were reported in postmarketing experience and are discussed in greater detail in other sections of the label:
 
-- •Iris pigmentation changes [see Warnings and Precautions (5.1)]
-- •Eyelid skin darkening [see Warnings and Precautions (5.1)]
-- •Eyelash changes (increased length, thickness, pigmentation, and number of lashes) [see Warnings and Precautions (5.2)]
-- •Intraocular inflammation (iritis/uveitis) [see Warnings and Precautions (5.3)]
-- •Macular edema, including cystoid macular edema [see Warnings and Precautions (5.4)]
+- Iris pigmentation changes [see Warnings and Precautions (5.1)]
+- Eyelid skin darkening [see Warnings and Precautions (5.1)]
+- Eyelash changes (increased length, thickness, pigmentation, and number of lashes) [see Warnings and Precautions (5.2)]
+- Intraocular inflammation (iritis/uveitis) [see Warnings and Precautions (5.3)]
+- Macular edema, including cystoid macular edema [see Warnings and Precautions (5.4)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -62,7 +62,7 @@ The reactions, which have been chosen for inclusion due to either their seriousn
 - Nervous System Disorders: Dizziness; headache; toxic epidermal necrolysis
 - Eye Disorders: Eyelash and vellus hair changes of the eyelid (increased length, thickness, pigmentation, and number of eyelashes); keratitis; corneal edema and erosions; intraocular inflammation (iritis/uveitis); macular edema, including cystoid macular edema; trichiasis; periorbital and lid changes resulting in deepening of the eyelid sulcus; iris cyst; eyelid skin darkening; localized skin reaction on the eyelids; conjunctivitis; pseudopemphigoid of the ocular conjunctiva
 - Respiratory, Thoracic and Mediastinal Disorders: Asthma and exacerbation of asthma; dyspnea
-- Gastrointestinal Disorders: Nausea; vomiting
+- Gastrointestinal Disorders:Nausea; vomiting
 - Skin and Subcutaneous Tissue Disorders: Pruritus
 - Infections and Infestations: Herpes keratitis
 - Cardiac Disorders: Angina; palpitations; angina unstable

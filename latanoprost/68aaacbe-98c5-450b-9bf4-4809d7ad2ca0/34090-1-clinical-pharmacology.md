@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Latanoprost is a prostaglandin F2α analogue that is believed to reduce the IOP by increasing the outflow of aqueous humor.
+Latanoprost is a prostaglandin F 2αanalogue that is believed to reduce the IOP by increasing the outflow of aqueous humor.
 Studies in animals and man suggest that the main mechanism of action is increased uveoscleral outflow.
 Elevated IOP represents a major risk factor for glaucomatous field loss.
 The higher the level of IOP, the greater the likelihood of optic nerve damage and visual field loss.
@@ -33,7 +33,7 @@ The active acid of latanoprost reaching the systemic circulation is primarily me
 
 Excretion
 
-The elimination of the acid of latanoprost from human plasma is rapid (t½ = 17 min) after both IV and topical administration.
+The elimination of the acid of latanoprost from human plasma is rapid (t ½= 17 min) after both IV and topical administration.
 Systemic clearance is approximately 7 mL/min/kg.
 Following hepatic β-oxidation, the metabolites are mainly eliminated via the kidneys.
 Approximately 88% and 98% of the administered dose are recovered in the urine after topical and IV dosing, respectively.

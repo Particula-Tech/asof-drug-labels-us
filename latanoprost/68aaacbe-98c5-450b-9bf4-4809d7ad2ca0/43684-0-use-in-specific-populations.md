@@ -25,14 +25,14 @@ No maternal toxicity was observed at doses up to 50 mcg/kg/day.
 
 Embryofetal studies were conducted in pregnant rats administered latanoprost daily by IV injection on gestation days 6 through 15, to target the period of organogenesis.
 A NOAEL for rat developmental toxicity was not established.
-Cleft palate was observed at 1 mcg/kg (equivalent to 3.2 times the maximum RHOD, on a mg/m² basis, assuming 100% absorption).
+Cleft palate was observed at 1 mcg/kg (equivalent to 3.2 times the maximum RHOD, on a mg/m ²basis, assuming 100% absorption).
 Brain porencephalic cyst(s) were observed ≥50 mcg/kg (162 times the maximum RHOD).
 Skeletal anomalies were observed at 250 mcg/kg (811 times the maximum RHOD).
 No maternal toxicity was detectable at 250 mcg/kg/day.
 
 Prenatal and postnatal development was assessed in rats.
 Pregnant rats were administered latanoprost daily by IV injection from gestation day 15, through delivery, until weaning (lactation day 21).
-No adverse effects on rat offspring were observed at doses up to 10 mcg/kg/day (32 times the maximum RHOD, on a mg/m2 basis, assuming 100% absorption).
+No adverse effects on rat offspring were observed at doses up to 10 mcg/kg/day (32 times the maximum RHOD, on a mg/m 2basis, assuming 100% absorption).
 At 100 mcg/kg/day (324 times the maximum RHOD), maternal deaths and pup mortality occurred.
 
 ## 8.2 Lactation
