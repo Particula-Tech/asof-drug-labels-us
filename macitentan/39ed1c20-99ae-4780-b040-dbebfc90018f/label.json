@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "ANDA211224"
+  ],
+  "inn": "macitentan",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-1166-3",
+    "70710-1166-4",
+    "70710-1166-5"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "macitentan",
+      "name": "MACITENTAN"
+    }
+  ],
+  "setid": "39ed1c20-99ae-4780-b040-dbebfc90018f",
+  "source": "dailymed"
+}

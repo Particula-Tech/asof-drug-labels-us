@@ -1,0 +1,11 @@
+# PACKAGE LABEL.PRINCIPAL DISPLAY PANEL
+
+NDC 70710-1166-3
+
+Macitentan Tablets, 10 mg
+
+Rx only
+
+30 tablets
+
+ZYDUS
