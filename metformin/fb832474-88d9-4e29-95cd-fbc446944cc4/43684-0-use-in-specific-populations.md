@@ -24,9 +24,7 @@ Data
 Human Data Published data from postmarketing studies have not reported a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin was used during pregnancy.
 However, these studies cannot definitely establish the absence of any metformin-associated risk because of methodological limitations, including small sample size and inconsistent comparator groups.
 
-Animal Data
-
-Metformin HCl was not teratogenic or embyrolethal when administered to rats prior to pregnancy through the period of organogenesis at doses up to 900 mg/kg, or when administered to rabbits during the period of organogenesis at doses up to 90 mg/kg.
+Animal Data Metformin HCl was not teratogenic or embyrolethal when administered to rats prior to pregnancy through the period of organogenesis at doses up to 900 mg/kg, or when administered to rabbits during the period of organogenesis at doses up to 90 mg/kg.
 
 ## 8.2 Lactation
 

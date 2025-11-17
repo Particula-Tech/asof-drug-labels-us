@@ -56,9 +56,7 @@ Gender
 
 In the pharmacokinetic studies in healthy volunteers, there were no important differences between male and female subjects with respect to metformin AUC and t1/2.
 However, Cmax for metformin was 40% higher in female subjects as compared to males.
-In controlled clinical studies in patients with type 2 diabetes, the antihyperglycemic effect of
-
-metformin HCl tablets was comparable in males and females.
+In controlled clinical studies in patients with type 2 diabetes, the antihyperglycemic effect of metformin HCl tablets was comparable in males and females.
 The gender differences for Cmax are unlikely to be clinically important.
 
 Race
@@ -78,27 +76,27 @@ However, such studies have been performed on metformin HCl tablets.
 
 Table 3: Effect of Coadministered Drug on Plasma Metformin Systemic Exposure
 
-| Coadministered Drug | Dose of Coadministered DrugAll metformin HCl and coadministered drugs were given as single doses. | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/ without coadministered drug)No Effect=1.00 |  |
-| --- | --- | --- | --- | --- |
-| AUCAUC=AUC0-inf | Cmax |  |  |  |
-| No dosing adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mgGLUMETZA (metformin hydrochloride) extended-release tablets 500 mg | 0.98Ratio of arithmetic means | 0.99 |
-| Furosemide | 40 mg | 850 mg | 1.09 | 1.22 |
-| Nifedipine | 10 mg | 850 mg | 1.16 | 1.21 |
-| Propranolol | 40 mg | 850 mg | 0.90 | 0.94 |
-| Ibuprofen | 400 mg | 850 mg | 1.05 | 1.07 |
-| Cationic drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin: [see Warnings and Precautions (5.1) and Drug Interactions (7)]. |  |  |  |  |
-| Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |
-| Carbonic anhydrase inhibitors may cause metabolic acidosis: [see Warnings and Precautions (5.1) and Drug Interactions (7)]. |  |  |  |  |
-| Topiramate | 100 mgAt steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC=AUC0-12h | 500 mg | 1.25 | 1.17 |
+| Coadministered Drug | Dose of Coadministered DrugAll metformin HCl and coadministered drugs were given as single doses. | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/ without coadministered drug)No Effect=1.00 |  |  |
+| --- | --- | --- | --- | --- | --- |
+| AUCAUC=AUC0-inf | Cmax |  |  |  |  |
+| No dosing adjustments required for the following: |  |  |  |  |  |
+| Glyburide | 5 mg | 500 mgGLUMETZA (metformin hydrochloride) extended-release tablets 500 mg | 0.98Ratio of arithmetic means | 0.99 |  |
+| Furosemide | 40 mg | 850 mg | 1.09 | 1.22 |  |
+| Nifedipine | 10 mg | 850 mg | 1.16 | 1.21 |  |
+| Propranolol | 40 mg | 850 mg | 0.90 | 0.94 |  |
+| Ibuprofen | 400 mg | 850 mg | 1.05 | 1.07 |  |
+| Cationic drugs that are eliminated by renal tubular secretion may increase the accumulation of metformin: [see Warnings and Precautions (5.1) and Drug Interactions (7)]. |  |  |  |  |  |
+| Cimetidine | 400 mg | 850 mg | 1.40 | 1.61 |  |
+| Carbonic anhydrase inhibitors may cause metabolic acidosis: [see Warnings and Precautions (5.1) and Drug Interactions (7)]. |  |  |  |  |  |
+| Topiramate | 100 mgAt steady state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC=AUC0-12h | 500 mg | 1.25 | 1.17 |  |
 
 Table 4: Effect of Metformin on Coadministered Drug Systemic Exposure
 
-| Coadministered Drug | Dose of Coadministered DrugAll metformin HCl and coadministered drugs were given as single doses | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/ without coadministered drug)No Effect=1.00 |  |
+| Coadministered Drug | Dose of Coadministered DrugAll metformin HCl and coadministered drugs were given as single doses. | Dose of Metformin HCl | Geometric Mean Ratio (ratio with/ without coadministered drug)No effect=1.00 |  |
 | --- | --- | --- | --- | --- |
 | AUCAUC=AUC0-inf unless otherwise noted | Cmax |  |  |  |
 | No dosing adjustments required for the following: |  |  |  |  |
-| Glyburide | 5 mg | 500 mgAUC0-24 hr reported | 0.78 | 0.63Ratio of arithmetic means, p-value of difference <0.05 |
+| Glyburide | 5 mg | 500 mgAUC0-24 hr reported | 0.78Ratio of arithmetic means, p-value of difference <0.05 | 0.63 |
 | Furosemide | 40 mg | 850 mg | 0.87 | 0.69 |
 | Nifedipine | 10 mg | 850 mg | 1.10 | 1.08 |
 | Propranolol | 40 mg | 850 mg | 1.01 | 0.94 |
