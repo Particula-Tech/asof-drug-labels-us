@@ -4,12 +4,8 @@ Preservative-free morphine sulfate injection (morphine sulfate injection, USP) i
 
 | Unit of Sale | Concentration |
 | --- | --- |
-| NDC 0409-3814-12 | 5 mg/10 mL |
-| Carton of 5 | (0.5 mg/mL) |
-| 10 mL Single-dose fliptop vials |  |
-| NDC 0409-3815-12 | 10 mg/10 mL |
-| Carton of 5 | (1 mg/mL) |
-| 10 mL Single-dose fliptop vials |  |
+| NDC 0409-3814-12Carton of 510 mLSingle-dose fliptop vials | 5 mg/10 mL(0.5 mg/mL) |
+| NDC 0409-3815-12Carton of 510 mL Single-dose fliptop vials | 10 mg/10 mL(1 mg/mL) |
 
 Preservative-free morphine sulfate injection is supplied in sealed vials.
 Accidental dermal exposure should be treated by the removal of any contaminated clothing and rinsing the affected area with water.
