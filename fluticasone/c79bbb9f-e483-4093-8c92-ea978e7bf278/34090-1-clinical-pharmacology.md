@@ -21,7 +21,7 @@ HPA Axis Effect
 The potential systemic effects of XHANCE on the HPA axis have not been evaluated.
 
 Serum cortisol concentrations, urinary excretion of cortisol, and urine 6-β- hydroxycortisol excretion collected over 24 hours in 24 healthy subjects following 8 oral inhalations of fluticasone propionate 44, 110, and 220 mcg decreased with increasing dose.
-However, in patients with asthma treated with 2 oral inhalations of fluticasone propionate 44, 110, and 220 mcg twice daily for at least 4 weeks, differences in serum cortisol AUC0-12h (n = 65) and 24-hour urinary excretion of cortisol (n = 47) compared with placebo were not related to dose and generally not significant.
+However, in patients with asthma treated with 2 oral inhalations of fluticasone propionate 44, 110, and 220 mcg twice daily for at least 4 weeks, differences in serum cortisol AUC 0-12h(n = 65) and 24-hour urinary excretion of cortisol (n = 47) compared with placebo were not related to dose and generally not significant.
 
 The potential systemic effects of orally inhaled fluticasone propionate on the HPA axis were also studied in subjects with asthma [see Warnings and Precautions (5.5) and Adverse Reactions (6)].
 Fluticasone propionate given by oral inhalation aerosol at dosages of 440 or 880 mcg twice daily was compared with placebo in oral corticosteroid‑dependent subjects with asthma (range of mean dose of prednisone at baseline: 13 to 14 mg/day) in a 16-week trial.
@@ -39,8 +39,8 @@ Due to the low bioavailability by the nasal route, the majority of the pharmacok
 
 Absorption
 
-The mean (SD) peak exposure (Cmax) and total exposure (AUC0-∞) following administration of a dose of 186 mcg of XHANCE during exhalation were 17.2 ± 7.40 pg/mL and 111.7 ± 49.75 pg·h/mL, respectively, and were 25.3 ± 10.34 pg/mL and 171.7 ± 85.55 pg·h/mL, respectively, following a dose of 372 mcg of XHANCE in healthy subjects.
-The Cmax and AUC0-∞ following a dose of 372 mcg of XHANCE in patients with mild to moderate asthma were 28.7±18.72 pg/mL and 222.6±84.60 pg·h/mL, respectively.
+The mean (SD) peak exposure (C max) and total exposure (AUC 0-∞) following administration of a dose of 186 mcg of XHANCE during exhalation were 17.2 ± 7.40 pg/mL and 111.7 ± 49.75 pg·h/mL, respectively, and were 25.3 ± 10.34 pg/mL and 171.7 ± 85.55 pg·h/mL, respectively, following a dose of 372 mcg of XHANCE in healthy subjects.
+The C maxand AUC 0-∞following a dose of 372 mcg of XHANCE in patients with mild to moderate asthma were 28.7±18.72 pg/mL and 222.6±84.60 pg·h/mL, respectively.
 
 Distribution
 
@@ -82,14 +82,14 @@ Inhibitors of Cytochrome P450 3A4
 Ritonavir: Fluticasone propionate is a substrate of CYP3A4.
 Coadministration of fluticasone propionate and the strong CYP3A4 inhibitor, ritonavir, is not recommended based upon a multiple-dose, crossover drug interaction trial in 18 healthy subjects.
 Fluticasone propionate aqueous nasal spray (200 mcg once daily) was coadministered for 7 days with ritonavir (100 mg twice daily).
-Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (< 10 pg/mL) in most subjects, and when concentrations were detectable, peak levels (Cmax) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC0-τ averaged 8.43 pg·h/mL (range: 4.2 to 18.8 pg·h/mL).
-Fluticasone propionate Cmax and AUC0-τ increased to 318 pg/mL (range: 110 to 648 pg/mL) and 3102.6 pg·h/mL (range: 1207.1 to 5662.0 pg·h/mL), respectively, after coadministration of ritonavir with fluticasone propionate aqueous nasal spray.
+Plasma fluticasone propionate concentrations following fluticasone propionate aqueous nasal spray alone were undetectable (< 10 pg/mL) in most subjects, and when concentrations were detectable, peak levels (C max) averaged 11.9 pg/mL (range: 10.8 to 14.1 pg/mL) and AUC 0-τaveraged 8.43 pg·h/mL (range: 4.2 to 18.8 pg·h/mL).
+Fluticasone propionate C maxand AUC 0-τincreased to 318 pg/mL (range: 110 to 648 pg/mL) and 3102.6 pg·h/mL (range: 1207.1 to 5662.0 pg·h/mL), respectively, after coadministration of ritonavir with fluticasone propionate aqueous nasal spray.
 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in serum cortisol AUC.
 
 Ketoconazole: Coadministration of fluticasone propionate orally inhaled into the lungs (1000 mcg) and ketoconazole (200 mg once daily) resulted in a 1.9-fold increase in plasma fluticasone propionate exposure and a 45% decrease in plasma cortisol AUC, but had no effect on urinary excretion of cortisol.
 
-Following orally-inhaled fluticasone propionate alone, AUC2-last averaged 1559 pg·h/mL (range: 555 to 2906 pg·h/mL) and AUC2-∞ averaged 2269 pg·h/mL (range: 836 to 3707 pg·h/mL).
-Fluticasone propionate AUC2-last and AUC2-∞ increased to 2781 pg·h/mL (range: 2489 to 8486 pg·h/mL) and 4317 pg·h/mL (range: 3256 to 9408 pg·h/mL), respectively, after coadministration of ketoconazole with orally-inhaled fluticasone propionate.
+Following orally-inhaled fluticasone propionate alone, AUC 2-lastaveraged 1559 pg·h/mL (range: 555 to 2906 pg·h/mL) and AUC 2-∞averaged 2269 pg·h/mL (range: 836 to 3707 pg·h/mL).
+Fluticasone propionate AUC 2-lastand AUC 2-∞increased to 2781 pg·h/mL (range: 2489 to 8486 pg·h/mL) and 4317 pg·h/mL (range: 3256 to 9408 pg·h/mL), respectively, after coadministration of ketoconazole with orally-inhaled fluticasone propionate.
 This increase in plasma fluticasone propionate concentration resulted in a decrease (45%) in serum cortisol AUC.
 
 Erythromycin: In a multiple-dose drug interaction study, coadministration of orally inhaled fluticasone propionate (500 mcg twice daily) and erythromycin (333 mg 3 times daily) did not affect fluticasone propionate pharmacokinetics.

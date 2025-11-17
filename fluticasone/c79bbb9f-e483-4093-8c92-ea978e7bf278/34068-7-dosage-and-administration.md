@@ -12,8 +12,8 @@ The safety and efficacy of XHANCE when administered in excess of recommended dos
 
 ## 2.2 Administration Information
 
-- •Shake XHANCE before each use.
-- •Administer XHANCE by the nasal route only.
+- Shake XHANCE before each use.
+- Administer XHANCE by the nasal route only.
   Avoid spraying directly on the nasal septum.
 
 Priming

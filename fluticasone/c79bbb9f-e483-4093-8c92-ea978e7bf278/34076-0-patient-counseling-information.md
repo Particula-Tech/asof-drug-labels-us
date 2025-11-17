@@ -1,11 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Informationand Instructions for Use).
 
 Local Nasal Adverse Reactions
 
 Inform patients that treatment with XHANCE may lead to adverse reactions, which include epistaxis, nasal erosions, and nasal ulceration.
-Candida infection may also occur with treatment with XHANCE.
+Candidainfection may also occur with treatment with XHANCE.
 In addition, XHANCE has been associated with nasal septal perforation and impaired wound healing.
 Patients who have experienced recent nasal ulcerations, nasal surgery, or nasal trauma should not use XHANCE until healing has occurred [see Warnings and Precautions (5.1)].
 
