@@ -18,13 +18,13 @@ As long-acting opioids such as Methadone Hydrochloride Oral Solution have pharma
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Methadone Hydrochloride Oral Solution and in those who obtain the drug illicitly.
 Addiction can occur at recommended doses and if the drug is misused or abused.
 The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
-In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Postmarketing Experience (6)].
+In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see Adverse Reactions (6)].
 
 Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing Methadone Hydrochloride Oral Solution, and reassess all patients receiving Methadone Hydrochloride Oral Solution for the development of these behaviors or conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol abuse or addiction) or mental illness (e.g., major depression).
 The potential for these risks should not, however, prevent the proper management of pain in any given patient.
 Patients at increased risk may be prescribed opioids such as Methadone Hydrochloride Oral Solution, but use in such patients necessitates intensive counseling about the risks and proper use of Methadone Hydrochloride Oral Solution along with frequent reevaluation for signs of addiction, abuse, and misuse.
-Consider prescribing an opioid overdose reversal agent [see Dosage and Administration (2.3), Warnings and Precautions (5.3)].
+Consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.3), Warnings and Precautions (5.3)].
 
 Opioids are sought for nonmedical use and are subject to diversion from legitimate prescribed use.
 Consider these risks when prescribing or dispensing Methadone Hydrochloride Oral Solution.
@@ -36,7 +36,7 @@ Contact local state professional licensing board or state-controlled substances 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of methadone, even when used as recommended.
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak analgesic effect.
 Respiratory depression from opioid use, if not immediately recognized and treated, may lead to respiratory arrest and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status [see Overdosage (10)].
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents, depending on the patient’s clinical status [see Overdosage (10)].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of done Methadone Hydrochloride Oral Solution, the risk is greatest during the initiation of therapy or following a dose increase.
@@ -80,7 +80,7 @@ Emphasize the importance of calling 911 or getting emergency medical help, even 
 
 ## 5.4 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Methadone Hydrochloride Oral Solution with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids, and other opioids).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Methadone Hydrochloride Oral Solution with benzodiazepines and/or other CNS depressants (e.g., alcohol, non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids).
 
 For Patients Being Treated for Pain
 
@@ -94,7 +94,7 @@ In patients already receiving an opioid analgesic, prescribe a lower initial dos
 If an opioid analgesic is initiated in a patient already taking a benzodiazepine or other CNS depressant, prescribe a lower initial dose of the opioid analgesic, and titrate based on clinical response.
 Inform patients and caregivers of this potential interaction, educate them on the signs and symptoms of respiratory depression (including sedation).
 
-If concomitant use is warranted, consider prescribing an opioid overdose reversal agent [see Dosage and Administration (2.3), Warnings and Precautions (5.4)].
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent [see Dosage and Administration (2.3), Warnings and Precautions (5.4)].
 
 Advise both patients and caregivers about the risks of respiratory depression and sedation when Methadone Hydrochloride Oral Solution is used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
 Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
@@ -121,7 +121,7 @@ For patients in methadone treatment, benzodiazepines are not the treatment of ch
 Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
 Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient’s methadone treatment and coordinate care to minimize the risks associated with concomitant use.
 
-If concomitant use is warranted, strongly consider prescribing an opioid overdose reversal agent, as is recommended for all patients in methadone treatment for opioid use disorder [see Warnings and Precautions (5.4)].
+If concomitant use is warranted, strongly consider recommending or prescribing an opioid overdose reversal agent, as is recommended for all patients in methadone treatment for opioid use disorder [see Warnings and Precautions (5.4)].
 
 In addition, take measures to confirm that patients are taking the medications prescribed and not diverting or supplementing with illicit drugs.
 Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].
@@ -253,11 +253,11 @@ Methadone Hydrochloride Oral Solution is contraindicated in patients with known 
 
 The methadone in Methadone Hydrochloride Oral Solution may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in the serum amylase.
-Regularly evaluate patients with biliary tract disease, including pancreatitis, for worsening symptoms.
+Regularly evaluate patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
 
 Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
 The risk of OIED may increase as the dose and/or duration of opioids increases.
-Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain), and if necessary, adjust opioid therapy as clinically appropriate.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate [see Clinical Pharmacology (12.2)].
 
 ## 5.16 Increased Risk of Seizures in Patients with Seizure Disorders
 
@@ -266,7 +266,7 @@ Regularly evaluate patients with a history of seizure disorders for worsened sei
 
 ## 5.17 Withdrawal
 
-Do not abruptly discontinue Methadone Hydrochloride Oral Solution in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue Methadone Hydrochloride Oral Solution in a patient physically dependent on opioids.
 When discontinuing Methadone Hydrochloride Oral Solution in a physically dependent patient, gradually taper the dosage.
 Rapid tapering of methadone in a patient physically dependent on opioids may lead to a withdrawal syndrome and return of pain [see Dosage and Administration (2.6), Drug Abuse and Dependence (9.3)].
 
