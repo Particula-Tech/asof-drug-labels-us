@@ -6,9 +6,8 @@ Darunavir Tablets, 800 mg are supplied as dark red colored, oval shaped, film-co
 
 Darunavir Tablets are packaged in bottles in the following configuration:
 
-600 mg tablets - bottles of 60 (NDC 68180-345-07)
-
-800 mg tablets - bottles of 30 (NDC 68180-346-06), bottles of 90 (NDC 68180-346-09)
+- 600 mg tablets - bottles of 60 (NDC 68180-345-07)
+- 800 mg tablets - bottles of 30 (NDC 68180-346-06)
 
 Storage
 

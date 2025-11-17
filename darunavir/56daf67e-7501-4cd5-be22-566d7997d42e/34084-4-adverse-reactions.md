@@ -15,7 +15,7 @@ Due to the need for co-administration of darunavir with ritonavir, please refer 
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Treatment Naïve-Adults:TMC114-C211
+Treatment Naïve-Adults: TMC114-C211
 
 The safety assessment is based on all safety data from the Phase 3 trial TMC114-C211 comparing darunavir/ritonavir 800/100 mg once daily versus lopinavir/ritonavir 800/200 mg per day in 689 antiretroviral treatment-naïve HIV-1-infected adult subjects.
 The total mean exposure for subjects in the darunavir/ritonavir 800/100 mg once daily arm and in the lopinavir/ritonavir 800/200 mg per day arm was 162.5 and 153.5 weeks, respectively.
@@ -26,7 +26,7 @@ The most common clinical ADRs to darunavir/ritonavir 800/100 mg once daily (grea
 
 ADRs to darunavir/ritonavir 800/100 mg once daily of at least moderate intensity (greater than or equal to Grade 2) in antiretroviral treatment-naïve HIV-1-infected adult subjects are presented in Table 6 and subsequent text below the table.
 
-Table 6: Selected Clinical Adverse Drug Reactions to Darunavir/Ritonavir 800/100 mg Once Dailya of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects (Trial TMC114-C211)
+Table 6: Selected Clinical Adverse Drug Reactions to Darunavir/Ritonavir 800/100 mg Once Daily Excluding laboratory abnormalities reported as ADRs. of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment-Naïve HIV-1-Infected Adult Subjects (Trial TMC114-C211)
 
 | System organ class, preferred term, % | Darunavir/Ritonavir 800/100 mg once daily + TDF/FTC N=343 | Lopinavir/Ritonavir 800/200 mg per day +TDF/FTC N=346 |
 | --- | --- | --- |
@@ -46,7 +46,6 @@ Table 6: Selected Clinical Adverse Drug Reactions to Darunavir/Ritonavir 800/100
 | N=total number of subjects per treatment group; |  |  |
 | FTC=emtricitabine; |  |  |
 | TDF=tenofovir disoproxil fumarate |  |  |
-| aExcluding laboratory abnormalities reported as ADRs. |  |  |
 
 Less Common Adverse Reactions
 
@@ -72,7 +71,8 @@ Laboratory Abnormalities:
 
 Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-naïve adult subjects treated with darunavir/ritonavir 800/100 mg once daily are presented in Table 7.
 
-Table 7: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Naïve HIV-1 Infected Adult Subjectsa (Trial TMC114-C211)
+Table 7: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Naïve HIV-1 Infected Adult Subjects Grade 4 data not applicable in Division of AIDS grading scale.
+(Trial TMC114-C211)
 
 | Laboratory parameter % | Limit | Darunavir/Ritonavir 800/100 mg once daily + TDF/FTC | Lopinavir/Ritonavir 800/200 mg per day + TDF/FTC |
 | --- | --- | --- | --- |
@@ -118,7 +118,6 @@ Table 7: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatm
 | N=total number of subjects per treatment group; |  |  |  |
 | FTC=emtricitabine; |  |  |  |
 | TDF=tenofovir disoproxil fumarate |  |  |  |
-| aGrade 4 data not applicable in Division of AIDS grading scale. |  |  |  |
 
 Treatment-Experienced Adults: TMC114-C214
 
@@ -131,7 +130,7 @@ The most common clinical ADRs to darunavir/ritonavir 600/100 mg twice daily (gre
 
 ADRs to darunavir/ritonavir 600/100 mg twice daily of at least moderate intensity (greater than or equal to Grade 2) in antiretroviral treatment-experienced HIV-1-infected adult subjects are presented in Table 8 and subsequent text below the table.
 
-Table 8: Selected Clinical Adverse Drug Reactions to Darunavir/Ritonavir 600/100 mg Twice Dailya of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment- Experienced HIV-1-Infected Adult Subjects (Trial TMC114-C214)
+Table 8: Selected Clinical Adverse Drug Reactions to Darunavir/Ritonavir 600/100 mg Twice Daily Excluding laboratory abnormalities reported as ADRs of at Least Moderate Intensity (≥Grade 2) Occurring in ≥2% of Antiretroviral Treatment- Experienced HIV-1-Infected Adult Subjects (Trial TMC114-C214)
 
 | System organ class, preferred term, % | Darunavir/Ritonavir 600/100 mg twice daily + OBR N=298 | Lopinavir/Ritonavir 400/100 mg twice daily + OBR N=297 |
 | --- | --- | --- |
@@ -154,7 +153,6 @@ Table 8: Selected Clinical Adverse Drug Reactions to Darunavir/Ritonavir 600/100
 | Rash | 7% | 3% |
 | N=total number of subjects per treatment group; |  |  |
 | OBR=optimized background regimen |  |  |
-| aExcluding laboratory abnormalities reported as ADRs |  |  |
 
 Less Common Adverse Reactions:
 
@@ -172,7 +170,7 @@ Laboratory Abnormalities:
 
 Selected Grade 2 to 4 laboratory abnormalities that represent a worsening from baseline observed in antiretroviral treatment-experienced adult subjects treated with darunavir/ritonavir 600/100 mg twice daily are presented in Table 9.
 
-Table 9: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjectsa (Trial TMC114-C214)
+Table 9: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatment-Experienced HIV-1-Infected Adult Subjects Grade 4 data not applicable in Division of AIDS grading scale (Trial TMC114-C214)
 
 | Laboratory parameter, % | Limit | Darunavir/Ritonavir 600/100 mg twice daily + OBR | Lopinavir/Ritonavir 400/100 mg twice daily + OBR |
 | --- | --- | --- | --- |
@@ -217,7 +215,6 @@ Table 9: Grade 2 to 4 Laboratory Abnormalities Observed in Antiretroviral Treatm
 | Grade 4 | >5.0 X ULN | 0% | 0% |
 | N=total number of subjects per treatment group; |  |  |  |
 | OBR=optimized background regimen |  |  |  |
-| aGrade 4 data not applicable in Division of AIDS grading scale |  |  |  |
 
 Serious ADRs
 
@@ -245,6 +242,7 @@ Grade 3 or 4 laboratory abnormalities were ALT increased (Grade 3: 3%; Grade 4: 
 TMC114-C228
 
 Clinical ADRs to darunavir/ritonavir (all grades, greater than or equal to 5%), were diarrhea (24%), vomiting (19%), rash (19%), abdominal pain (5%), and anorexia (5%).
+
 There were no Grade 3 or 4 laboratory abnormalities considered as ADRs in this trial.
 
 TMC114-C230
@@ -258,18 +256,10 @@ There were no Grade 3 or 4 laboratory abnormalities considered as ADRs in this t
 The following adverse reactions have been identified during post approval use of darunavir.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Metabolism and Nutrition Disorders
+Metabolism and Nutrition Disorders: Redistribution of body fat
 
-Redistribution of body fat
+Musculoskeletal and Connective Tissue Disorders: Rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors and darunavir/ritonavir)
 
-Musculoskeletal and Connective Tissue Disorders
+Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms [see Warnings and Precautions (5.3)]
 
-Rhabdomyolysis (associated with co-administration with HMG-CoA reductase inhibitors and darunavir/ritonavir)
-
-Skin and Subcutaneous Tissue Disorders
-
-Toxic epidermal necrolysis, acute generalized exanthematous pustulosis, drug rash with eosinophilia and systemic symptoms [see Warnings and Precautions (5.3)]
-
-Renal and Urinary Disorders
-
-Crystal nephropathy, crystalluria
+Renal and Urinary Disorders: Crystal nephropathy, crystalluria.

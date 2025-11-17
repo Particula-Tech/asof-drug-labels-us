@@ -10,14 +10,14 @@ Healthcare providers are encouraged to register patients by calling the Antiretr
 Risk Summary
 
 Prospective pregnancy data from the APR are not sufficient to adequately assess the risk of birth defects or miscarriage.
-Available limited data from the APR show no statistically significant difference in the overall risk of major birth defects for darunavir compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see DATA].
+Available limited data from the APR show no statistically significant difference in the overall risk of major birth defects for darunavir compared with the background rate for major birth defects of 2.7% in a U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP) [see Data].
 
 The rate of miscarriage is not reported in the APR.
 The estimated background rate of miscarriage in clinically recognized pregnancies in the U.S. general population is 15 to 20%.
 The background risk of major birth defects and miscarriage for the indicated population is unknown.
 
 Studies in animals did not show evidence of developmental toxicity.
-Exposures (based on AUC) in rats were 3-fold higher, whereas in mice and rabbits, exposures were lower (less than 1-fold) than human exposures at the recommended daily dose [see DATA].
+Exposures (based on AUC) in rats were 3-fold higher, whereas in mice and rabbits, exposures were lower (less than 1-fold) than human exposures at the recommended daily dose [see Data].
 
 Clinical Considerations
 
@@ -31,15 +31,15 @@ Human Data
 
 Darunavir/ritonavir (600/100 mg twice daily or 800/100 mg once daily) in combination with a background regimen was evaluated in a clinical trial of 36 pregnant women during the second and third trimesters, and postpartum.
 Eighteen subjects were enrolled in each BID and QD treatment arms.
-Twenty-nine subjects completed the trial through the postpartum period (6-12 weeks after delivery) and 7 subjects discontinued before trial completion, 5 subjects in the BID arm and 2 subjects in the QD arm.
+Twenty-nine subjects completed the trial through the postpartum period (6 to 12 weeks after delivery) and 7 subjects discontinued before trial completion, 5 subjects in the BID arm and 2 subjects in the QD arm.
 
 The pharmacokinetic data demonstrate that exposure to darunavir and ritonavir as part of an antiretroviral regimen was lower during pregnancy compared with postpartum (6 to 12 weeks).
 Exposure reductions during pregnancy were greater for the once daily regimen as compared to the twice daily regimen [see Clinical Pharmacology (12.3)].
 
 Virologic response was preserved.
-In the BID arm, the proportion of subjects with HIV-1 RNA <50 copies/mL were 39% (7/18) at baseline, 61% (11/18) through the third trimester visit, and 61% (11/18) through the 6-12 week postpartum visit.
+In the BID arm, the proportion of subjects with HIV-1 RNA <50 copies/mL were 39% (7/18) at baseline, 61% (11/18) through the third trimester visit, and 61% (11/18) through the 6 to 12 week postpartum visit.
 Virologic outcomes during the third trimester visit showed HIV-1 RNA ≥50 copies/mL for 11% (2/18) of subjects and were missing for 5 subjects (1 subject discontinued prematurely due to virologic failure).
-In the QD arm, the proportion of subjects with HIV-1 RNA <50 copies/mL were 61% (11/18) at baseline, 83% (15/18) through the third trimester visit, and 78% (14/18) through the 6-12 week postpartum visit.
+In the QD arm, the proportion of subjects with HIV-1 RNA <50 copies/mL were 61% (11/18) at baseline, 83% (15/18) through the third trimester visit, and 78% (14/18) through the 6 to 12 week postpartum visit.
 Virologic outcomes during the third trimester visit showed HIV-1 RNA ≥50 copies/mL for none of the subjects and were missing for 3 subjects (1 subject discontinued prematurely due to virologic failure).
 
 Darunavir/ritonavir was well tolerated during pregnancy and postpartum.
@@ -48,9 +48,7 @@ There were no new clinically relevant safety findings compared with the known sa
 Among the 31 infants with HIV test results available data, born to the 31 HIV-infected pregnant women who completed trial through delivery or postpartum period, all 31 infants had test results that were negative for HIV-1 at the time of delivery and/or through 16 weeks postpartum.
 All 31 infants received antiretroviral prophylactic treatment containing zidovudine.
 
-Based on prospective reports to the APR of over 980 exposures to darunavir-containing regimens during pregnancy resulting in live births (including over 660 exposed in the first trimester and over 320 exposed in the second/third trimester), the prevalence of birth defects in live births was 3.6.% (95% CI: 2.3% to 5.3.%) with first trimester exposure to darunavir-containing regimens and 2.5% (95% CI: 1.1% to 4.8%) with second/third trimester exposure to darunavir-containing regimens.
-
-.
+Based on prospective reports to the APR of over 980 exposures to darunavir containing regimens during pregnancy resulting in live births (including over 660 exposed in the first trimester and over 320 - exposed in the second/third trimester), the prevalence of birth defects in live births was 3.6.% (95% CI: 2.3% to 5.3.%) with first trimester exposure to darunavir-containing regimens and 2.5% (95% CI: 1.1% to 4.8%) with second/third trimester exposure to darunavir-containing regimens.
 
 Animal Data
 
@@ -62,8 +60,9 @@ In these studies, darunavir exposures (based on AUC) were higher in rats (3-fold
 Risk Summary
 
 The Centers for Disease Control and Prevention recommend that HIV-infected mothers not breastfeed their infants to avoid risking postnatal transmission of HIV.
+
 There are no data on the presence of darunavir in human milk, the effects on the breastfed infant, or the effects on milk production.
-Darunavir is present in the milk of lactating rats [see DATA].
+Darunavir is present in the milk of lactating rats [see Data].
 Because of the potential for (1) HIV transmission (in HIV-negative infants), (2) developing viral resistance (in HIV-positive infants) and (3) serious adverse reactions in a breastfed infant, instruct mothers not to breastfeed if they are receiving darunavir [see Use in Specific Populations (8.4)].
 
 Data

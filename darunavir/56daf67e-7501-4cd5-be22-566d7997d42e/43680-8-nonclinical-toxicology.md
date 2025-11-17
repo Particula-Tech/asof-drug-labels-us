@@ -9,7 +9,7 @@ Daily doses of 150, 450 and 1000 mg/kg were administered to mice and doses of 50
 A dose-related increase in the incidence of hepatocellular adenomas and carcinomas were observed in males and females of both species as well as an increase in thyroid follicular cell adenomas in male rats.
 The observed hepatocellular findings in rodents are considered to be of limited relevance to humans.
 Repeated administration of darunavir to rats caused hepatic microsomal enzyme induction and increased thyroid hormone elimination, which predispose rats, but not humans, to thyroid neoplasms.
-At the highest tested doses, the systemic exposures to darunavir (based on AUC) were between 0.4- and 0.7-fold (mice) and 0.7- and 1-fold (rats), relative to those observed in humans at the recommended therapeutic doses (600/100 mg twice daily or 800/100 mg once daily).
+At the highest tested doses, the systemic exposures to darunavir (based on AUC) were between 0.4 and 0.7-fold (mice) and 0.7- and 1-fold (rats), relative to those observed in humans at the recommended therapeutic doses (600/100 mg twice daily or 800/100 mg once daily).
 
 Darunavir was not mutagenic or genotoxic in a battery of in vitro and in vivo assays including bacterial reserve mutation (Ames), chromosomal aberration in human lymphocytes and in vivo micronucleus test in mice.
 

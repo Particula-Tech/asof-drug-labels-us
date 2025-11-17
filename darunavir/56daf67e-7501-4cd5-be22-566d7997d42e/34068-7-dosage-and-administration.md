@@ -31,12 +31,11 @@ However, when genotypic testing is not feasible, darunavir 600 mg taken with rit
 
 Table 1: Recommended Darunavir/Ritonavir Dosage in Treatment-Experienced Adult Patients
 
-|  | Formulation and Recommended Dosing |
+| Baseline Resistance | Formulation and Recommended Dosing |
 | --- | --- |
-| Baseline Resistance | Darunavir tablets with ritonavir tablets or capsule |
-| With no darunavir resistance associated substitutionsa | One 800 mg darunavir tablet with one 100 mg ritonavir tablet/capsule, taken once daily with food |
-| With at least one darunavir resistance associated substitutionsa, or with no baseline resistance information | One 600 mg darunavir tablet with one 100 mg ritonavir tablet/capsule, taken twice daily with food |
-| aV11I, V32I, L33F, I47V, I50V, I54L, I54M, T74P, L76V, I84V and L89V |  |
+| Darunavir tablets with ritonavir tablets or capsule |  |
+| With no darunavir resistance associated substitutions V11I, V32I, L33F, I47V, I50V, I54L, I54M, T74P, L76V, I84V and L89V | One 800 mg darunavir tablet with one 100 mg ritonavir tablet/capsule, taken once daily with food |
+| With at least one darunavir resistance associated substitutions, or with no baseline resistance information | One 600 mg darunavir tablet with one 100 mg ritonavir tablet/capsule, taken twice daily with food |
 
 ## 2.4 Recommended Dosage During Pregnancy
 
@@ -64,15 +63,14 @@ Pediatric patients weighing at least 15 kg
 
 Pediatric patients weighing at least 15 kg can be dosed with darunavir tablets using the following table:
 
-Table 3: Recommended Dose for Pediatric Patients Weighing At Least 15 kg Who are Treatment-Naïve or Treatment-Experienced with No Darunavir Resistance Associated Substitutionsa
+Table 3: Recommended Dose for Pediatric Patients Weighing At Least 15 kg Who are Treatment-Naïve or Treatment-Experienced with No Darunavir Resistance Associated Substitutions darunavir resistance associated substitutions: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
 
-|  | Formulation: Darunavir tablet(s) and ritonavir capsules or tablets (100 mg) |
+| Body weight (kg) | Formulation: Darunavir tablet(s) and ritonavir capsules or tablets (100 mg) |
 | --- | --- |
-| Body weight (kg) | Dose: once daily with food |
+| Dose: once daily with food |  |
 | Greater than or equal to 15 kg to less than 30 kg | Darunavir 600 mg with ritonavir 100 mg |
 | Greater than or equal to 30 kg to less than 40 kg | Darunavir 675 mg with ritonavir 100 mg |
 | Greater than or equal to 40 kg | Darunavir 800 mg with ritonavir 100 mg |
-| adarunavir resistance associated substitutions: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V |  |
 
 Dosing Recommendations for Treatment-Experienced Pediatric Patients with At Least One Darunavir Resistance Associated Substitutions
 
@@ -80,15 +78,14 @@ Pediatric patients weighing at least 15 kg
 
 Pediatric patients weighing at least 15 kg can be dosed darunavir tablets using the following table:
 
-Table 5:Recommended Dose for Pediatric Patients Weighing At Least 15 kg Who are Treatment-Experienced with At Least One Darunavir Resistance Associated Substitutiona
+Table 5: Recommended Dose for Pediatric Patients Weighing At Least 15 kg Who are Treatment-Experienced with At Least One Darunavir Resistance Associated Substitution darunavir resistance associated substitutions: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
 
-|  | Formulation: Darunavir tablet(s) and ritonavir tablets, capsules (100 mg) or oral solution (80 mg/mL) |
+| Body weight (kg) | Formulation: Darunavir tablet(s) and ritonavir tablets, capsules (100 mg) or oral solution (80 mg/mL) |
 | --- | --- |
-| Body weight (kg) | Dose: twice daily with food |
+| Dose: twice daily with food |  |
 | Greater than or equal to 15 kg to less than 30 kg | Darunavir 375 mg with ritonavir 0.6 mL (48 mg) |
 | Greater than or equal to 30 kg to less than 40 kg | Darunavir 450 mg with ritonavir 0.75 mL (60 mg) |
 | Greater than or equal to 40 kg | Darunavir 600 mg with ritonavir 100 mg |
-| adarunavir resistance associated substitutions: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V |  |
 
 The use of darunavir/ritonavir in pediatric patients below 3 years of age is not recommended [see Warnings and Precautions (5.10) and Use in Specific Populations (8.4)].
 

@@ -45,11 +45,13 @@ Instruct women with HIV-1 infection not to breastfeed because HIV-1 can be passe
 
 All brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States.
 
@@ -61,4 +63,4 @@ Nagpur 441 108
 
 INDIA.
 
-Revised: January 2024
+Revised: October 2024

@@ -1,4 +1,4 @@
-PATIENT INFORMATION
+# PATIENT INFORMATION
 
 DARUNAVIR (dar-UE-na-vir) TABLETS
 
@@ -19,24 +19,27 @@ What is the most important information I should know about Darunavir?
   Your healthcare provider should do blood tests before and during your darunavir and ritonavir combination treatment.
   If you have chronic hepatitis B or C infection, your healthcare provider should check your blood tests more often because you have an increased chance of developing liver problems.
   Tell your healthcare provider if you have any of the below signs and symptoms of liver problems.
-  - dark (tea colored) urine
-  - yellowing of your skin or whites of your eyes
-  - pale colored stools (bowel movements)
-  - nausea
-  - vomiting
-  - pain or tenderness on your right side below your ribs
-  - loss of appetite
-  - tiredness
 
-- Darunavir may cause severe or life-threatening skin reactions or rash.Sometimes these skin reactions and skin rashes can become severe and require treatment in a hospital.
+- dark (tea colored) urine
+- yellowing of your skin or whites of your eyes
+- pale colored stools (bowel movements)
+- nausea
+- vomiting
+- pain or tenderness on your right side below your ribs
+- loss of appetite
+- tiredness
+
+- Darunavir may cause severe or life-threatening skin reactions or rash.
+  Sometimes these skin reactions and skin rashes can become severe and require treatment in a hospital.
   Tell your healthcare provider right away if you develop a rash.
   Stop taking darunavir and ritonavir combination treatment and tell your healthcare provider right away if you have any skin changes with symptoms below:
-  - fever
-  - tiredness
-  - muscle or joint pain
-  - blisters or skin lesions
-  - mouth sores or ulcers
-  - red or inflamed eyes, like "pink eye" (conjunctivitis)
+
+- fever
+- tiredness
+- muscle or joint pain
+- blisters or skin lesions
+- mouth sores or ulcers
+- red or inflamed eyes, like "pink eye" (conjunctivitis)
 
 Rash occurred more often in people taking darunavir and raltegravir together than with either drug separately but was generally mild.
 
@@ -79,9 +82,10 @@ Do not take darunavir with any medicine that contains:
 - dronedarone
 - elbasvir and grazoprevir
 - ergot-containing medicines:
-  - dihydroergotamine
-  - ergotamine tartrate
-  - methylergonovine
+
+- dihydroergotamine
+- ergotamine tartrate
+- methylergonovine
 
 - ivabradine
 - lomitapide
@@ -112,15 +116,17 @@ Before taking darunavir, tell your healthcare provider if you:
 - have any other medical conditions
 - are pregnant or plan to become pregnant.
   Tell your healthcare provider if you become pregnant while taking darunavir.
-  - Pregnancy Registry:There is a pregnancy registry for women who take antiretroviral medicines during pregnancy.
-    The purpose of this registry is to collect information about the health of you and your baby.
-    Talk to your healthcare provider about how you can take part in this registry.
+
+- Pregnancy Registry:There is a pregnancy registry for women who take antiretroviral medicines during pregnancy.
+  The purpose of this registry is to collect information about the health of you and your baby.
+  Talk to your healthcare provider about how you can take part in this registry.
 
 - are breastfeeding or plan to breastfeed.
   Do not breastfeed if you take darunavir.
-  - You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
-  - It is not known if darunavir can pass into your breast milk.
-  - Talk to your healthcare provider about the best way to feed your baby.
+
+- You should not breastfeed if you have HIV-1 because of the risk of passing HIV-1 to your baby.
+- It is not known if darunavir can pass into your breast milk.
+- Talk to your healthcare provider about the best way to feed your baby.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, topical creams, vitamins, and herbal supplements.
 Some medicines interact with darunavir.
@@ -170,17 +176,19 @@ The most common side effects of darunavir include:
 - rash
 - headache
 - stomach-area (abdominal) pain
-- vomitting
+- vomiting
 
 Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
 These are not all of the possible side effects of darunavir.
 
 Call your doctor for medical advice about side effects.
-You may report side effects to FDA at 1-800-FDA-1088.
+You may report side effects to FDA at
+
+1-800-FDA-1088.
 
 How should I store Darunavir Tablets?
 
-Store Darunavir Tablets at room temperature 77°F (25°C).
+- Store Darunavir Tablets at room temperature 77°F (25°C).
 
 Keep darunavir tablets and all medicines out of the reach of children.
 
@@ -210,11 +218,13 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 
 All brands listed are trademarks of their respective owners and are not trademarks of Lupin Pharmaceuticals, Inc. The makers of these brands are not affiliated with and do not endorse Lupin Pharmaceuticals, Inc. or its products.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
@@ -226,4 +236,4 @@ Nagpur 441 108
 
 INDIA
 
-Revised: January 2024 ID#:272686
+Revised: October 2024 ID#: 276275

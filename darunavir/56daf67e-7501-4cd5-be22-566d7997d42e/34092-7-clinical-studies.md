@@ -2,18 +2,18 @@
 
 ## 14.1 Description of Adult Clinical Trials
 
-The evidence of efficacy of darunavir/ritonavir is based on the analyses of 192-week data from a randomized, controlled open-label Phase 3 trial in treatment-naive (TMC114-C211) HIV-1-infected adult subjects and 96-week data from a randomized, controlled, open-label Phase 3 trial in antiretroviral treatment-experienced (TMC114-C214) HIV-1-infected adult subjects.
-In addition, 96-week data are included from 2 randomized, controlled Phase 2b trials, TMC114-C213 and TMC114-C202, in antiretroviral treatment-experienced HIV-1-infected adult subjects.
+The evidence of efficacy of darunavir/ritonavir is based on the analyses of 192-week data from a randomized, controlled open-label Phase 3 trial in treatment-naïve (TMC114-C211) HIV-1 infected adult subjects and 96-week data from a randomized, controlled, open-label Phase 3 trial in antiretroviral treatment-experienced (TMC114-C214) HIV-1-infected adult subjects.
+In addition, 96-week data are included from 2 randomized, controlled Phase 2b trials, TMC114 C213 and TMC114-C202, in antiretroviral treatment-experienced HIV-1-infected adult subjects.
 
 ## 14.2 Treatment-Naïve Adult Subjects
 
 TMC114-C211
 
-TMC114-C211 is a randomized, controlled, open-label Phase 3 trial comparing darunavir/ritonavir 800/100 mg once daily versus lopinavir/ritonavir 800/200 mg per day (given as a twice daily or as a once daily regimen) in antiretroviral treatment-naïve HIV-1-infected adult subjects.
+TMC114-C211 is a randomized, controlled, open-label Phase 3 trial comparing darunavir/ritonavir 800/100 mg once daily versus lopinavir/ritonavir 800/200 mg per day (given as a twice daily or as a once daily regimen) in antiretroviral treatment-naïve HIV-1 infected adult subjects.
 Both arms used a fixed background regimen consisting of tenofovir disoproxil fumarate 300 mg once daily (TDF) and emtricitabine 200 mg once daily (FTC).
 
 HIV-1-infected subjects who were eligible for this trial had plasma HIV-1 RNA greater than or equal to 5000 copies/mL.
-Randomization was stratified by screening plasma viral load (HIV-1 RNA less than 100,000 copies/mL or greater than or equal to 100,000 copies/mL) and screening CD4+ cell count (less than 200 cells/mm3 or greater than or equal to 200 cells/mm3).
+Randomization was stratified by screening plasma viral load (HIV-1 RNA less than 100,000 copies/mL or greater than or equal to 100,000 copies/mL) and screening CD4+ cell count (less than 200 cells/mm3or greater than or equal to 200 cells/mm3).
 Virologic response was defined as a confirmed plasma HIV-1 RNA viral load less than 50 copies/mL.
 Analyses included 689 subjects in trial TMC114-C211 who had completed 192 weeks of treatment or discontinued earlier.
 
@@ -48,19 +48,14 @@ Table 20: Virologic Outcome of Randomized Treatment of Trial TMC114-C211 at 192 
 
 |  | Darunavir/ritonavir 800/100 mg Once Daily + TDF/FTC N=343 | Lopinavir/ritonavir 800/200 mg Per Day + TDF/FTC N=346 |
 | --- | --- | --- |
-| Virologic success HIV-1 RNA <50 copies/mL | 70%a | 61% |
-| Virologic failureb | 12% | 15% |
-| No virologic data at Week 192 windowc |  |  |
+| Virologic success HIV-1 RNA <50 copies/mL | 70% 95% CI: 1.9; 16.1 | 61% |
+| Virologic failure Includes patients who discontinued prior to Week 192 for lack or loss of efficacy and patients who are ≥50 copies in the 192-week window and patients who had a change in their background regimen that was not permitted by the protocol. | 12% | 15% |
+| No virologic data at Week 192 window Window 186 to 198 Weeks. |  |  |
 | Reasons |  |  |
-| Discontinued trial due to adverse event or deathd | 5% | 13% |
-| Discontinued trial for other reasonse | 13% | 12% |
-| Missing data during windowc but on trial | <1% | 0% |
+| Discontinued trial due to adverse event or death Includes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 5% | 13% |
+| Discontinued trial for other reasons Other includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was <50 copies/mL | 13% | 12% |
+| Missing data during window but on trial | <1% | 0% |
 | N = total number of subjects with data; FTC = emtricitabine; TDF = tenofovir disoproxil fumarate |  |  |
-| a95% CI: 1.9; 16.1 |  |  |
-| bIncludes patients who discontinued prior to Week 192 for lack or loss of efficacy and patients who are ≥50 copies in the 192-week window and patients who had a change in their background regimen that was not permitted by the protocol. |  |  |
-| cWindow 186 to 198 Weeks. |  |  |
-| dIncludes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. |  |  |
-| eOther includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was <50 copies/mL |  |  |
 
 In trial TMC114-C211 at 192 weeks of treatment, the median increase from baseline in CD4+ cell counts was 258 cells/mm3 in the darunavir/ritonavir 800/100 mg once daily arm and 263 cells/mm3 in the lopinavir/ritonavir 800/200 mg per day arm.
 Of the darunavir/ritonavir subjects with a confirmed virologic response of <50 copies/mL at Week 48, 81% remained undetectable at Week 192 versus 68% with lopinavir/ritonavir.
@@ -100,25 +95,22 @@ Table 21: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C
 | Median baseline CD4+ cell count (cells/mm3) (range, cells/mm3) | 219 (24 to 1306) | 236 (44 to 864) |
 | Percentage of patients with baseline viral load ≥100,000 copies/mL | 13% | 11% |
 | Percentage of patients with baseline CD4+ cell count <200 cells/mm3 | 43% | 39% |
-| Median darunavir fold change (range)a | 0.50 (0.1 to 1.8) | 0.50 (0.1 to 1.9) |
-| Median number of resistance-associatedb: |  |  |
+| Median darunavir fold change (range) Based on phenotype (Antivirogram®) | 0.50 (0.1 to 1.8) | 0.50 (0.1 to 1.9) |
+| Median number of resistance-associated Johnson VA, Brun-Vézinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: December 2008. Top HIV Med 2008; 16(5): 138-145: |  |  |
 | PI mutations | 3 | 4 |
 | NNRTI mutations | 2 | 1 |
 | NRTI mutations | 1 | 1 |
 | Percentage of subjects susceptible to all available PIs at baseline | 88% | 86% |
-| Percentage of subjects with number of baseline primary protease inhibitor mutationsb: |  |  |
+| Percentage of subjects with number of baseline primary protease inhibitor mutations: |  |  |
 | 0 | 84% | 84% |
 | 1 | 8% | 9% |
 | 2 | 5% | 4% |
 | ≥3 | 3% | 2% |
-| Median number of ARVs previously usedc: |  |  |
+| Median number of ARVs previously used Only counting ARVs, excluding low-dose ritonavir: |  |  |
 | NRTIs | 3 | 3 |
 | NNRTIs | 1 | 1 |
 | PIs (excluding low-dose ritonavir) | 1 | 1 |
 | OBR=optimized background regimen |  |  |
-| a Based on phenotype (Antivirogram®) |  |  |
-| b Johnson VA, Brun-Vézinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: December 2008. Top HIV Med 2008; 16(5): 138-145 |  |  |
-| c Only counting ARVs, excluding low-dose ritonavir |  |  |
 
 Week 48 outcomes for subjects on darunavir/ritonavir 800/100 mg once daily from trial TMC114-C229 are shown in Table 22.
 
@@ -127,19 +119,15 @@ Table 22: Virologic Outcome of Randomized Treatment of Trial TMC114-C229 at 48 W
 |  | Darunavir/Ritonavir 800/100 mg once daily + OBR N=294 | Darunavir/Ritonavir 600/100 mg twice daily + OBR N=296 |
 | --- | --- | --- |
 | Virologic success HIV-1 RNA <50 copies/mL | 69% | 69% |
-| Virologic failurea | 26% | 23% |
-| No virologic data at Week 48 windowb |  |  |
+| Virologic failure Includes patients who discontinued prior to Week 48 for lack or loss of efficacy, patients who are ≥50 copies in the 48-week window, patients who had a change in their background regimen that was not permitted in the protocol (provided the switch occurred before the earliest onset of an AE leading to permanent stop of trial medication) and patients who discontinued for reasons other than AEs/death and lack or loss of efficacy (provided their last available viral load was detectable (HIV RNA ≥50 copies/mL). | 26% | 23% |
+| No virologic data at Week 48 window Window 42 to 54 Weeks |  |  |
 | Reasons |  |  |
-| Discontinued trial due to adverse event or deathc | 3% | 4% |
-| Discontinued trial for other reasonsd | 2% | 3% |
-| Missing data during windowb but on trial | 0% | <1% |
+| Discontinued trial due to adverse event or death Patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 3% | 4% |
+| Discontinued trial for other reasons Other includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was <50 copies/mL. | 2% | 3% |
+| Missing data during window but on trial | 0% | <1% |
 | N = total number of subjects with data; OBR=optimized background regimen |  |  |
-| a Includes patients who discontinued prior to Week 48 for lack or loss of efficacy, patients who are ≥50 copies in the 48-week window, patients who had a change in their background regimen that was not permitted in the protocol (provided the switch occurred before the earliest onset of an AE leading to permanent stop of trial medication) and patients who discontinued for reasons other than AEs/death and lack or loss of efficacy (provided their last available viral load was detectable (HIV RNA ≥50 copies/mL). |  |  |
-| b Window 42 to 54 Weeks |  |  |
-| c Patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. |  |  |
-| d Other includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was <50 copies/mL. |  |  |
 
-The mean increase from baseline in CD4+ cell counts was comparable for both treatment arms (108 cells/mm3 and 112 cells/mm3 in the darunavir/ritonavir 800/100 mg once daily arm and the darunavir/ritonavir 600/100 mg twice daily arm, respectively).
+The mean increase from baseline in CD4+ cell counts was comparable for both treatment arms (108 cells/mm3and 112 cells/mm3in the darunavir/ritonavir 800/100 mg once daily arm and the darunavir/ritonavir 600/100 mg twice daily arm, respectively).
 
 TMC114-C214
 
@@ -170,29 +158,24 @@ Table 23: Demographic and Baseline Characteristics of Subjects in Trial TMC114-C
 | Baseline characteristics |  |  |
 | Mean baseline plasma HIV-1 RNA (log10 copies/mL) | 4.33 | 4.28 |
 | Median baseline CD4+ cell count (cells/mm3) (range,cells/mm3) | 235 (3 to 831) | 230 (2 to 1096) |
-| Percentage of patients with baseline viral load | 19% | 17% |
-| ≥100,000 copies/mL |  |  |
+| Percentage of patients with baseline viral load ≥100,000 copies/mL | 19% | 17% |
 | Percentage of patients with baseline CD4+ cell count <200 cells/mm3 | 40% | 40% |
 | Median darunavir fold change (range) | 0.60 (0.10 to 37.40) | 0.60 (0.1 to 43.8) |
 | Median lopinavir fold change (range) | 0.70 (0.40 to 74.40) | 0.80 (0.30 to 74.50) |
-| Median number of resistance-associateda: |  |  |
+| Median number of resistance-associated Johnson VA, Brun-Vezinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: Fall 2006. Top HIV Med 2006; 14(3): 125 130: |  |  |
 | PI mutations | 4 | 4 |
 | NNRTI mutations | 1 | 1 |
 | NRTI mutations | 2 | 2 |
-| Percentage of subjects with number of baseline primary protease inhibitor mutationsa: |  |  |
+| Percentage of subjects with number of baseline primary protease inhibitor mutations: |  |  |
 | ≤1 | 78% | 80% |
 | 2 | 8% | 9% |
 | ≥3 | 13% | 11% |
-| Median number of ARVs previously usedb: |  |  |
+| Median number of ARVs previously used Only counting ARVs, excluding low-dose ritonavir: |  |  |
 | NRTIs | 4 | 4 |
 | NNRTIs | 1 | 1 |
 | PIs (excluding low-dose ritonavir) | 1 | 1 |
-| Percentage of subjects resistantc to all availabled PIs at baseline, excluding darunavir | 2% | 3% |
+| Percentage of subjects resistant Based on phenotype (Antivirogram®) to all available Commercially available PIs at the time of trial enrollment PIs at baseline, excluding darunavir | 2% | 3% |
 | OBR=optimized background regimen |  |  |
-| a Johnson VA, Brun-Vezinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: Fall 2006. Top HIV Med 2006; 14(3): 125-130 |  |  |
-| b Only counting ARVs, excluding low-dose ritonavir |  |  |
-| c Based on phenotype (Antivirogram®) |  |  |
-| d Commercially available PIs at the time of trial enrollment |  |  |
 
 Week 96 outcomes for subjects on darunavir/ritonavir 600/100 mg twice daily from trial TMC114-C214 are shown in Table 24.
 
@@ -201,19 +184,15 @@ Table 24: Virologic Outcome of Randomized Treatment of Trial TMC114-C214 at 96 W
 |  | Darunavir/Ritonavir 600/100 mg Twice Daily + OBR N=298 | Lopinavir/Ritonavir 400/100 mg Twice Daily + OBR N=297 |
 | --- | --- | --- |
 | Virologic success HIV-1 RNA <50 copies/mL | 58% | 52% |
-| Virologic failurea | 26% | 33% |
-| No virologic data at Week 96 windowb |  |  |
+| Virologic failure Includes patients who discontinued prior to Week 96 for lack or loss of efficacy and patients who are ≥50 copies in the 96-week window and patients who had a change in their OBR that was not permitted by the protocol. | 26% | 33% |
+| No virologic data at Week 96 window Window 90 to 102 Weeks |  |  |
 | Reasons |  |  |
-| Discontinued trial due to adverse event or deathc | 7% | 8% |
-| Discontinued trial for other reasonsd | 8% | 7% |
+| Discontinued trial due to adverse event or death Includes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. | 7% | 8% |
+| Discontinued trial for other reasons Other includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was <50 copies/mL. | 8% | 7% |
 | Missing data during window† but on trial | 1% | <1% |
 | N = total number of subjects with data; OBR=optimized background regimen |  |  |
-| a Includes patients who discontinued prior to Week 96 for lack or loss of efficacy and patients who are ≥50 copies in the 96-week window and patients who had a change in their OBR that was not permitted by the protocol. |  |  |
-| b Window 90 to 102 Weeks |  |  |
-| c Includes patients who discontinued due to adverse event or death at any time point from Day 1 through the time window if this resulted in no virologic data on treatment during the specified window. |  |  |
-| d Other includes: withdrew consent, loss to follow-up, etc., if the viral load at the time of discontinuation was <50 copies/mL. |  |  |
 
-In trial TMC114-C214 at 96 weeks of treatment, the median increase from baseline in CD4+ cell counts was 81 cells/mm3 in the darunavir/ritonavir 600/100 mg twice daily arm and 93 cells/mm3 in the lopinavir/ritonavir 400/100 mg twice daily arm.
+In trial TMC114-C214 at 96 weeks of treatment, the median increase from baseline in CD4+ cell counts was 81 cells/mm3in the darunavir/ritonavir 600/100 mg twice daily arm and 93 cells/mm3 in the lopinavir/ritonavir 400/100 mg twice daily arm.
 
 TMC114-C213 and TMC114-C202
 
@@ -251,24 +230,21 @@ Table 25: Demographic and Baseline Characteristics of Subjects in the Trials TMC
 | Percentage of patients with baseline viral load >100,000 copies/mL | 24% | 29% |
 | Percentage of patients with baseline CD4+ cell count <200 cells/mm3 | 67% | 58% |
 | Median darunavir fold change | 4.3 | 3.3 |
-| Median number of resistance-associateda: |  |  |
+| Median number of resistance-associated Johnson VA, Brun-Vezinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: Fall 2006. Top HIV Med 2006; 14(3): 125 130: |  |  |
 | PI mutations | 12 | 12 |
 | NNRTI mutations | 1 | 1 |
 | NRTI mutations | 5 | 5 |
-| Percentage of subjects with number of baseline primary protease inhibitor mutationsa: |  |  |
+| Percentage of subjects with number of baseline primary protease inhibitor mutations: |  |  |
 | ≤1 | 8% | 9% |
 | 2 | 22% | 21% |
 | ≥3 | 70% | 70% |
-| Median number of ARVs previously usedb: |  |  |
+| Median number of ARVs previously used Based on phenotype (Antivirogram®): |  |  |
 | NRTIs | 6 | 6 |
 | NNRTIs | 1 | 1 |
 | PIs (excluding low-dose ritonavir) | 5 | 5 |
-| Percentage of subjects resistantc to all availablec PIs at baseline, excluding tipranavir and darunavir | 63% | 61% |
+| Percentage of subjects resistant Commercially available PIs at the time of trial enrollment to all available PIs at baseline, excluding tipranavir and darunavir | 63% | 61% |
 | Percentage of subjects with prior use of enfuvirtide | 20% | 17% |
 | OBR=optimized background regimen |  |  |
-| a Johnson VA, Brun-Vezinet F, Clotet B, et al. Update of the drug resistance mutations in HIV-1: Fall 2006. Top HIV Med 2006; 14(3): 125-130 |  |  |
-| b Based on phenotype (Antivirogram®) |  |  |
-| c Commercially available PIs at the time of trial enrollment |  |  |
 
 Week 96 outcomes for subjects on the recommended dose darunavir/ritonavir 600/100 mg twice daily from the pooled trials TMC114-C213 and TMC114-C202 are shown in Table 26.
 
@@ -279,15 +255,12 @@ Table 26: Outcomes of Randomized Treatment Through Week 96 of the Trials TMC114-
 |  | Darunavir/Ritonavir 600/100 mg Twice Daily + OBR N=131 | Comparator PI(s) +OBR N=124 |
 | Virologic responders confirmed at least 1 log10 HIV-1 RNA below baseline through Week 96 (<50 copies/mL at Week 96) | 57% (39%) | 10% (9%) |
 | Virologic failures | 29% | 80% |
-| Lack of initial responsea | 8% | 53% |
-| Rebounderb | 17% | 19% |
-| Never suppressedc | 4% | 8% |
+| Lack of initial responseSubjects who did not achieve at least a confirmed 0.5 log10 HIV-1 RNA drop from baseline at Week 12 | 8% | 53% |
+| Rebounder Subjects with an initial response (confirmed 1log10 drop in viral load), but without a confirmed 1 log10 drop in viral load at Week 96 | 17% | 19% |
+| Never suppressedSubjects who never reached a confirmed 1 log10 drop in viral load before Week 96 | 4% | 8% |
 | Death or discontinuation due to adverse events | 9% | 3% |
 | Discontinuation due to other reasons | 5% | 7% |
 | OBR=optimized background regimen |  |  |
-| a Subjects who did not achieve at least a confirmed 0.5 log10 HIV-1 RNA drop from baseline at Week 12 |  |  |
-| b Subjects with an initial response (confirmed 1 log10 drop in viral load), but without a confirmed 1 log10 drop in viral load at Week 96 |  |  |
-| c Subjects who never reached a confirmed 1 log10 drop in viral load before Week 96 |  |  |
 
 In the pooled trials TMC114-C213 and TMC114-C202 through 48 weeks of treatment, the proportion of subjects with HIV-1 RNA less than 400 copies/mL in the arm receiving darunavir/ritonavir 600/100 mg twice daily compared to the comparator PI arm was 55.0% and 14.5%, respectively.
 In addition, the mean changes in plasma HIV-1 RNA from baseline were – 1.69 log10 copies/mL in the arm receiving darunavir/ritonavir 600/100 mg twice daily and – 0.37 log10 copies/mL for the comparator PI arm.
@@ -340,6 +313,7 @@ Treatment-naïve pediatric subjects between the ages of 12 and less than 18 year
 The 12 randomized pediatric subjects had a median age of 14.4 years (range 12.6 to 17.3 years), and were 33.3% male, 58.3% Caucasian and 41.7% Black.
 The mean baseline plasma HIV-1 RNA was 4.72 log10 copies/mL, and the median baseline CD4+ cell count was 282 cells/mm3(range: 204 to 515 cells/mm3).
 Overall, 41.7% of pediatric subjects had baseline plasma HIV-1 RNA ≥100,000 copies/mL.
+
 All subjects completed the 48 week treatment period.
 
 The proportion of subjects with HIV-1 RNA less than 50 copies/mL and less than 400 copies/mL was 83.3% and 91.7%, respectively.
