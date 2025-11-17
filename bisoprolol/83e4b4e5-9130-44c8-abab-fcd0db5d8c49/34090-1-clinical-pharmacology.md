@@ -60,7 +60,7 @@ Sitting Systolic/Diastolic Pressure (BP) and Heart Rate (HR) Mean Decrease (D) A
 | Drug Effect a | - | 4.6/4.4 | 10.5/7.5 |  |
 | Total ΔHR (bpm) | 1.6 | 3.8 | 10.7 |  |
 | Drug Effect a | - | 2.2 | 9.1 |  |
-| a Observed total change from baseline minus placebo. |  |  |  |  |
+| aObserved total change from baseline minus placebo. |  |  |  |  |
 
 Blood pressure responses were seen within one week of treatment and changed little thereafter.
 They were sustained for 12 weeks and for over a year in studies of longer duration.

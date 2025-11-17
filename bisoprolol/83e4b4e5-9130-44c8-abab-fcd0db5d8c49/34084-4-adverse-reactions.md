@@ -46,7 +46,7 @@ Of the adverse events listed in the table, bradycardia, diarrhea, asthenia, fati
 | chest pain | 0.8 | 1.1 | 1.5 |
 | fatigue | 1.5 | 6.6 | 8.2 |
 | edema (peripheral) | 3.8 | 3.7 | 3.0 |
-| a percentage of patients with event |  |  |  |
+| apercentage of patients with event |  |  |  |
 
 The following is a comprehensive list of adverse experiences reported with bisoprolol fumarate in worldwide studies, or in postmarketing experience (in italics): Central Nervous System Dizziness, unsteadiness, vertigo, syncope, headache, paresthesia, hypoesthesia, hyperesthesia, somnolence, sleep disturbances, anxiety/restlessness, decreased concentration/memory.
 Autonomic Nervous System Dry mouth.
@@ -54,11 +54,11 @@ Cardiovascular Bradycardia, palpitations and other rhythm disturbances, cold ext
 Psychiatric Vivid dreams, insomnia, depression.
 Gastrointestinal Gastric/epigastric/abdominal pain, gastritis, dyspepsia, nausea, vomiting, diarrhea, constipation, peptic ulcer.
 Musculoskeletal Muscle/joint pain, arthralgia, back/neck pain, muscle cramps, twitching/tremor.
-Skin Rash, acne, eczema, psoriasis, skin irritation, pruritus, flushing, sweating, alopecia, dermatitis, angioedema, exfoliative dermatitis, cutaneous vasculitis.
+Skin Rash, acne, eczema, psoriasis, skin irritation, pruritus, flushing, sweating, alopecia, dermatitis, angioedema, exfoliative dermatitis,cutaneous vasculitis.
 Special Senses Visual disturbances, ocular pain/pressure, abnormal lacrimation, tinnitus, decreased hearing, earache, taste abnormalities.
 Metabolic Gout.
 Respiratory Asthma/bronchospasm, bronchitis, coughing, dyspnea, pharyngitis, rhinitis, sinusitis, URI.
-Genitourinary Decreased libido/impotence, Peyronie's disease, cystitis, renal colic, polyuria.
+Genitourinary Decreased libido/impotence, Peyronie's disease,cystitis, renal colic, polyuria.
 Hematologic Purpura.
 General Fatigue, asthenia, chest pain, malaise, edema, weight gain, angioedema.
 In addition, a variety of adverse effects have been reported with other beta-adrenergic blocking agents and should be considered potential adverse effects of bisoprolol fumarate.

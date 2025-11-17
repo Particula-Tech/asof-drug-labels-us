@@ -1,5 +1,7 @@
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL
 
+Bisoprolol Fumarate Tablets 2.5 mg - NDC 72888-233-01 - 30 Tablets Label
+
 Bisoprolol Fumarate Tablets 5 mg - NDC 72888-092-30 - 30 Tablets Label
 
 Bisoprolol Fumarate Tablets 5 mg - NDC 72888-092-01 - 100 Tablets Label

@@ -19,7 +19,7 @@ Caution should be exercised in such individuals.
 PATIENTS WITH BRONCHOSPASTIC DISEASE SHOULD, IN GENERAL, NOT RECEIVE BETA-BLOCKERS.
 Because of its relative beta 1-selectivity, however, bisoprolol fumarate may be used with caution in patients with bronchospastic disease who do not respond to, or who cannot tolerate other antihypertensive treatment.
 Since beta 1-selectivity is not absolute, the lowest possible dose of bisoprolol fumarate should be used, with therapy starting at 2.5 mg.
-A beta 2 agonist (bronchodilator) should be made available.
+A beta 2agonist (bronchodilator) should be made available.
 Major Surgery Chronically administered beta-blocking therapy should not be routinely withdrawn prior to major surgery; however, the impaired ability of the heart to respond to reflex adrenergic stimuli may augment the risks of general anesthesia and surgical procedures.
 Diabetes and Hypoglycemia Beta-blockers may mask some of the manifestations of hypoglycemia, particularly tachycardia.
 Nonselective beta-blockers may potentiate insulin-induced hypoglycemia and delay recovery of serum glucose levels.
@@ -30,7 +30,7 @@ Abrupt withdrawal of beta-blockade may be followed by an exacerbation of the sym
 
 # PRECAUTIONS
 
-Impaired Renal or Hepatic Function Use caution in adjusting the dose of bisoprolol fumarate in patients with renal or hepatic impairment (see CLINICAL PHARMACOLOGY and DOSAGE AND ADMINISTRATION).
+Impaired Renal or Hepatic Function Use caution in adjusting the dose of bisoprolol fumarate in patients with renal or hepatic impairment (see CLINICAL PHARMACOLOGYand DOSAGE AND ADMINISTRATION).
 Drug Interactions Bisoprolol fumarate should not be combined with other beta-blocking agents.
 Patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, should be closely monitored, because the added beta-adrenergic blocking action of bisoprolol fumarate may produce excessive reduction of sympathetic activity.
 In patients receiving concurrent therapy with clonidine, if therapy is to be discontinued, it is suggested that bisoprolol fumarate be discontinued for several days before the withdrawal of clonidine.
@@ -57,7 +57,7 @@ Long-term studies were conducted with oral bisoprolol fumarate administered in t
 No evidence of carcinogenic potential was seen in mice dosed up to 250 mg/kg/day or rats dosed up to 125 mg/kg/day.
 On a body weight basis, these doses are 625 and 312 times, respectively, the maximum recommended human dose (MRHD) of 20 mg, (or 0.4 mg/kg/day based on a 50 kg individual); on a body surface area basis, these doses are 59 times (mice) and 64 times (rats) the MRHD.
 The mutagenic potential of bisoprolol fumarate was evaluated in the microbial mutagenicity (Ames) test, the point mutation and chromosome aberration assays in Chinese hamster V79 cells, the unscheduled DNA synthesis test, the micronucleus test in mice, and the cytogenetics assay in rats.
-There was no evidence of mutagenic potential in these in vitro and in vivo assays.
+There was no evidence of mutagenic potential in these in vitroand in vivoassays.
 Reproduction studies in rats did not show any impairment of fertility at doses up to 150 mg/kg/day of bisoprolol fumarate, or 375 and 77 times the MRHD on the basis of body weight and body surface area, respectively.
 
 ## Nursing Mothers
