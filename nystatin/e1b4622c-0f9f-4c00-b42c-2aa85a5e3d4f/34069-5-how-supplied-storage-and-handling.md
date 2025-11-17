@@ -12,6 +12,6 @@ Nystop® Nystatin Topical Powder USP is supplied as 100,000 units nystatin per g
 
 Store at controlled room temperature 15°-30°C (59°-86°F); avoid excessive heat (40°C; 104°F).
 
-Manufactured By Padagis Minneapolis, MN 55427 www.padagis.com
+Manufactured by Padagis® Minneapolis, MN 55427 www.padagis.com
 
-Rev 01-23
+Rev 10-24 2204966 3W614 RC F4
