@@ -2,6 +2,8 @@ To reduce the development of drug-resistant bacteria and maintain the effectiven
 
 Distributed by: Alvogen, Inc. Morristown, NJ 07960 USA
 
-Rev: 06/2023
+Rev: 02/2025
 
-PI303-10
+PI303-11
+
+PKG03303
