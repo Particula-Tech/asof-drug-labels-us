@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "NDA203312"
+  ],
+  "inn": "levodopa",
+  "labeler": "Zydus Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "70710-2139-1",
+    "70710-2140-1",
+    "70710-2141-1",
+    "70710-2142-1"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE, EXTENDED RELEASE",
+      "generic": "carbidopa and levodopa",
+      "name": "Carbidopa and Levodopa"
+    }
+  ],
+  "setid": "74e7f96b-de31-4e3c-b32d-11421b291d4e",
+  "source": "dailymed"
+}

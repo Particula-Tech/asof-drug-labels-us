@@ -1,0 +1,93 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Carbidopa
+
+When levodopa is administered orally, it is rapidly decarboxylated to dopamine in extracerebral tissues so that only a small portion of a given dose is transported unchanged to the central nervous system.
+Carbidopa inhibits the decarboxylation of peripheral levodopa, making more levodopa available for delivery to the brain.
+
+Levodopa
+
+Levodopa is the metabolic precursor of dopamine, does cross the blood-brain barrier, and presumably is converted to dopamine in the brain.
+This is thought to be the mechanism whereby levodopa relieves symptoms of Parkinson's disease.
+
+## 12.2 Pharmacodynamics
+
+Because its decarboxylase inhibiting activity is limited to extracerebral tissues, administration of carbidopa with levodopa makes more levodopa available to the brain.
+The addition of carbidopa to levodopa reduces the peripheral effects (nausea, vomiting) due to decarboxylation of levodopa; however, carbidopa does not decrease the adverse reactions due to the central effects of levodopa.
+
+Patients treated with levodopa therapy for Parkinson's disease may develop motor fluctuations characterized by end-of-dose failure, peak dose dyskinesia, 'on-off' phenomenon, and akinesia.
+
+## 12.3 Pharmacokinetics
+
+Absorption
+
+Carbidopa
+
+Following oral dosing of carbidopa and levodopa extended-release capsules the maximum concentration occurred at approximately 3 hours.
+The bioavailability of carbidopa from carbidopa and levodopa extended-release capsules relative to immediate-release carbidopa-levodopa tablets was approximately 50%.
+
+Levodopa
+
+The pharmacokinetics of carbidopa and levodopa extended-release capsules were evaluated following single-doses in healthy subjects and following single- and multiple-doses in patients with Parkinson's disease.
+The bioavailability of levodopa from carbidopa and levodopa extended-release capsules in patients was approximately 70% relative to immediate-release carbidopa-levodopa.
+For comparable doses, carbidopa and levodopa extended-release capsules results in a levodopa peak concentration (Cmax) that is 30% that of immediate-release carbidopa-levodopa.
+Following an initial peak at about one hour, plasma concentrations are maintained for about 4 to 5 hours before declining.
+
+In patients with Parkinson's disease, multiple-dose pharmacokinetics was comparable to single-dose pharmacokinetics, i.e., there was minimal accumulation of levodopa.
+Variation in levodopa peak to trough plasma concentrations at steady-state defined as (Cmax-Cmin)/Cavg was approximately 1.5 for carbidopa and levodopa extended-release capsules compared to approximately 3.2 for immediate-release levodopa.
+
+Distribution
+
+Carbidopa is approximately 36% bound to plasma proteins.
+Approximately 10% to 30% of levodopa is bound to plasma protein.
+
+Metabolism and Elimination
+
+Carbidopa
+
+The terminal phase elimination half-life of carbidopa is approximately 2 hours.
+
+Carbidopa is metabolized to two main metabolites: α-methyl-3-methoxy-4-hydroxyphenylpropionic acid and α-methyl-3,4-dihydroxy-phenylpropionic acid.
+These two metabolites are primarily eliminated in the urine unchanged or as a glucuronide.
+Unchanged carbidopa accounts for 30% of the total urinary excretion.
+
+Peripheral dopa-decarboxylase may be saturated by carbidopa in other carbidopa-levodopa products at 70 mg per day to 100 mg per day, which produces equivalent exposure to 140 mg to 200 mg of carbidopa provided by carbidopa and levodopa extended-release capsules.
+
+Levodopa
+
+The terminal phase elimination half-life of levodopa, the active moiety of antiparkinsonian activity, is approximately 2 hours in the presence of carbidopa.
+
+Levodopa is extensively metabolized to various metabolites.
+The two major metabolic pathways are decarboxylation by dopa decarboxylase (DDC) and O-methylation by catechol-O-methyltransferase (COMT).
+
+Dose Proportionality
+
+Carbidopa and levodopa extended-release capsules show approximately dose proportional pharmacokinetics for both carbidopa and levodopa over the levodopa dosage strength range of 95 mg to 245 mg.
+
+Effect of Food
+
+In healthy adults, oral administration of carbidopa and levodopa extended-release capsules after a high-fat, high-calorie meal reduced Cmax approximately 21% and increased AUCinf approximately 13% for levodopa compared to administration in the fasted state.
+There may be a delay by 2 hours in the absorption of levodopa when carbidopa and levodopa extended-release capsule is taken with a high-fat, high-calorie meal.
+In addition, absorption of levodopa may be decreased by a high protein meal.
+
+Specific Populations
+
+Elderly
+
+In pharmacokinetics studies following a single-dose of carbidopa and levodopa extended-release capsules, the peak concentrations of carbidopa and levodopa are generally similar between younger (45 to 60 years) and older (60 to 75 years) subjects.
+
+Gender
+
+In pharmacokinetics studies following a single-dose of carbidopa and levodopa extended-release capsules:
+
+- Carbidopa
+
+At comparable doses females are reported to have higher carbidopa peak concentrations and systemic exposure (approximately 33%) compared to males.
+Median time to peak concentration and terminal half-life are comparable between males and females.
+
+- Levodopa
+
+At comparable doses females are reported to have higher levodopa peak concentrations (approximately 23% to 33%) and systemic exposure (approximately 33% to 37%) compared to males.
+Median time to peak concentration and terminal half-life are comparable between males and females.
