@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761392"
+  ],
+  "inn": "denosumab",
+  "labeler": "Samsung Bioepis Co., Ltd.,",
+  "package_ndcs": [
+    "71202-012-10",
+    "71202-012-11"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "denosumab",
+      "name": "OSPOMYV"
+    }
+  ],
+  "setid": "a3de0763-fb1c-46f5-851e-d0c402562f2f",
+  "source": "dailymed"
+}
