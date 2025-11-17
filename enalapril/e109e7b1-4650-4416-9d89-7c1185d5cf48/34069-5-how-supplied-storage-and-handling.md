@@ -38,17 +38,21 @@ Protect from moisture.
 
 Dispense in a tight container as per USP, if product package is subdivided.
 
-Manufactured for:
+1Registered trademark of Alza Corporation
 
-Northstar Rx LLC, Memphis, TN 38141.
+2Trademark of Paddock Laboratories, Inc.
+
+Manufactured for Northstar Rx LLC, Memphis TN 38141
+
+Toll-free Number: 1-800-206-7821
 
 Finished drug product manufactured by:
 
-Lek Pharmaceuticals d.d.
+Novartis d.o.o.
 
-S1-1526 Ljubljana, Slovenia.
+1000 Ljubljana, Slovenia.
 
 Product of India.
 
 Rev.
-October 2018 46235428
+01/2018
