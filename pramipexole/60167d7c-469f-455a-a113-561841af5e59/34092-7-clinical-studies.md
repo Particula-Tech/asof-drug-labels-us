@@ -105,7 +105,7 @@ In this study, 345 patients were randomized in a 2:1 ratio to pramipexole dihydr
 The mean improvement from baseline on the IRLS Scale total score was -12 for pramipexole dihydrochloride tablet-treated patients and -6 for placebo-treated patients.
 The percentage of CGI-I responders was 63% for pramipexole dihydrochloride tablet-treated patients and 32% for placebo-treated patients.
 The between-group differences were statistically significant for both outcome measures.
-For the patients randomized to Pramipexole dihydrochloride tablets, the distribution of achieved doses was: 35 on 0.125 mg, 51 on 0.25 mg, 65 on 0.5 mg, and 69 on 0.75 mg.
+For the patients randomized to pramipexole dihydrochloride tablets, the distribution of achieved doses was: 35 on 0.125 mg, 51 on 0.25 mg, 65 on 0.5 mg, and 69 on 0.75 mg.
 
 Study 4 was a 3-week study, comparing 4 fixed doses of pramipexole dihydrochloride tablets, 0.125 mg, 0.25 mg, 0.5 mg, and 0.75 mg, to placebo.
 Approximately 20 patients were randomized to each of the 5 dose groups.

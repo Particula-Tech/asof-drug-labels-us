@@ -126,7 +126,7 @@ Augmentation refers to the earlier onset of symptoms in the evening (or even the
 In a 26 week placebo-controlled clinical trial in patients with RLS, augmentation was reported with greater frequency by patients treated with pramipexole dihydrochloride tablets (up to 0.75 mg once daily) compared to patients who received placebo (12% vs. 9%, respectively).
 The incidence of augmentation increased with increasing duration of exposure to pramipexole dihydrochloride and to placebo.
 
-The frequency and severity of augmentation and/or rebound after longer-term use of pramipexole dihydrochloride and the appropriate management of these events have not been adequately evaluated in controlled clinical trials.
+The frequency and severity of augmentation and/or rebound after longer-term use of pramipexole dihydrochloride tablets and the appropriate management of these events have not been adequately evaluated in controlled clinical trials.
 
 ## 5.11 Withdrawal Symptoms
 

@@ -74,7 +74,7 @@ Table 3 Ascending Dosage Schedule of Pramipexole Dihydrochloride Tablets for RLS
 | 1 | 4 to 7 days | 0.125 |
 | 2* | 4 to 7 days | 0.25 |
 | 3* | 4 to 7 days | 0.5 |
-| *If needed |  |  |
+| *if needed |  |  |
 
 Dosing in Patients with Renal Impairment
 

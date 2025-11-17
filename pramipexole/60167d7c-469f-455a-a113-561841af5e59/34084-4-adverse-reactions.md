@@ -10,8 +10,8 @@ The following adverse reactions are discussed in greater detail in other section
 - Postural Deformity [see Warnings and Precautions (5.6)].
 - Rhabdomyolysis [see Warnings and Precautions (5.8)].
 - Retinal Pathology [see Warnings and Precautions (5.9)].
-- Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)]
-- ﻿Withdrawal Symptoms [see Warnings and Precautions (5.11)]
+- Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)].
+- ﻿Withdrawal Symptoms [see Warnings and Precautions (5.11)].
 
 ## 6.1 Clinical Trials Experience
 
@@ -221,5 +221,7 @@ Metabolism and Nutrition Disorders: syndrome of inappropriate antidiuretic hormo
 Musculoskeletal and Connective Tissue Disorders: postural deformity [see Warnings and Precautions (5.6)]
 
 Nervous System Disorders: syncope
+
+Reproductive System and Breast Disorders: priapism
 
 Skin and Subcutaneous Tissue Disorders: skin reactions (including erythema, rash, pruritus, urticaria)

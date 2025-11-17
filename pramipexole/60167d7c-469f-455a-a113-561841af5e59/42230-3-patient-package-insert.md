@@ -36,7 +36,8 @@ Especially tell your doctor if you take:
 - medicines called neuroleptics (phenothiazines, butyrophenones, thioxanthenes) or metoclopramide.
   Pramipexole dihydrochloride tablets may not work as well if you take these medicines.
 - extended-release pramipexole.
-  Pramipexole is the active ingredient in both pramipexole dihydrochloride tablets and extended-release pramipexole tablets If you are taking extended-release pramipexole tablets, you should not take pramipexole dihydrochloride tablets.
+  Pramipexole is the active ingredient in both pramipexole dihydrochloride tablets and extended-release pramipexole tablets.
+  If you are taking extended-release pramipexole tablets, you should not take pramipexole dihydrochloride tablets.
 - any other medicines that make you sleepy or may increase the effects of pramipexole dihydrochloride tablets, such as cimetidine (Tagamet).
 
 Ask your doctor for a list of these medicines if you are not sure.
@@ -174,7 +175,7 @@ This Patient Information leaflet summarizes the most important information about
 If you would like more information, talk with your doctor.
 You can ask your pharmacist or doctor for information about pramipexole dihydrochloride tablets that is written for healthcare professionals.
 
-For more information, you may also call at 1-800-912-9561.
+For additional information, you may also call at 1-800-912-9561.
 
 What are the ingredients in pramipexole dihydrochloride tablets?
 
@@ -194,4 +195,4 @@ Manufactured for:
 
 TORRENT PHARMA INC., Basking Ridge, NJ 07920.
 
-8093572 Revised: July 2023
+8103701 Revised: October 2025
