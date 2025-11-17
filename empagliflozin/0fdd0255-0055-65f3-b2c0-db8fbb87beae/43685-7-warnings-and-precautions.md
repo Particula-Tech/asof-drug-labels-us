@@ -83,11 +83,20 @@ Before initiating SYNJARDY or SYNJARDY XR in patients with one or more of these 
 In patients with volume depletion, correct this condition before initiating SYNJARDY or SYNJARDY XR.
 Monitor for signs and symptoms of volume depletion, and renal function after initiating therapy.
 
-## 5.4 Urosepsis and Pyelonephritis
+## 5.4 Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier's Gangrene), and Genital Mycotic Infections
 
-There have been reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving empagliflozin.
-Treatment with empagliflozin increases the risk for urinary tract infections.
-Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
+Empagliflozin increases urinary glucose excretion [see Clinical Pharmacology (12.2)] and increases the risk of genitourinary infections including urinary tract infections and genital mycotic infections in both male and female patients [see Adverse Reactions (6.1)].
+
+Serious genitourinary infections, including urosepsis, pyelonephritis, and necrotizing fasciitis of the perineum (Fournier's gangrene, a rare life-threatening infection requiring urgent surgical intervention), have occurred in patients with and without diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin [see Adverse Reactions (6.2)].
+Cases have required hospitalization.
+In patients with Fournier's gangrene, serious outcomes have included multiple surgeries and death.
+SYNJARDY and SYNJARDY XR are only indicated for use in patients with type 2 diabetes mellitus.
+
+Patients with a history of chronic or recurrent genitourinary infections are more likely to develop genitourinary infections when using SYNJARDY or SYNJARDY XR.
+Monitor patients for signs and symptoms of genitourinary infections and treat promptly, if indicated.
+
+Immediately evaluate patients presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, for necrotizing fasciitis.
+If suspected, discontinue SYNJARDY or SYNJARDY XR and promptly institute appropriate medical and/or surgical intervention.
 
 ## 5.5 Hypoglycemia
 
@@ -98,23 +107,7 @@ In pediatric patients aged 10 years and older, the risk of hypoglycemia was high
 The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin.
 Inform patients using these concomitant medications and pediatric patients of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
-## 5.6 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
-
-Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in patients with diabetes mellitus receiving SGLT2 inhibitors, including empagliflozin.
-Cases have been reported in both females and males.
-Serious outcomes have included hospitalization, multiple surgeries, and death.
-
-Patients treated with SYNJARDY or SYNJARDY XR presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
-If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
-Discontinue SYNJARDY or SYNJARDY XR, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
-
-## 5.7 Genital Mycotic Infections
-
-Empagliflozin increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
-Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop genital mycotic infections.
-Monitor and treat as appropriate.
-
-## 5.8 Lower Limb Amputation
+## 5.6 Lower Limb Amputation
 
 In some clinical studies with SGLT2 inhibitors an imbalance in the incidence of lower limb amputation has been observed.
 Across four empagliflozin outcome trials, lower limb amputation event rates were 4.3 and 5.0 events per 1,000 patient-years in the placebo group and the empagliflozin 10 mg or 25 mg dose group, respectively, with a HR of 1.05 (95% CI) (0.81, 1.36).
@@ -129,13 +122,13 @@ The risk of amputation was highest in patients with a baseline history of diabet
 Counsel patients about the importance of routine preventative foot care.
 Monitor patients receiving SYNJARDY or SYNJARDY XR for signs and symptoms of diabetic foot infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and institute appropriate treatment.
 
-## 5.9 Hypersensitivity Reactions
+## 5.7 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions (e.g., angioedema) in patients treated with empagliflozin.
 If a hypersensitivity reaction occurs, discontinue SYNJARDY or SYNJARDY XR; treat promptly per standard of care, and monitor until signs and symptoms resolve.
 SYNJARDY and SYNJARDY XR are contraindicated in patients with hypersensitivity to empagliflozin or any of the excipients in SYNJARDY or SYNJARDY XR [see Contraindications (4)].
 
-## 5.10 Vitamin B12 Deficiency
+## 5.8 Vitamin B12 Deficiency
 
 In metformin HCl clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of metformin-treated patients.
 Such decrease, possibly due to interference with B12 absorption from the B12-intrinsic factor complex, may be associated with anemia but appears to be rapidly reversible with discontinuation of metformin or vitamin B12 supplementation.

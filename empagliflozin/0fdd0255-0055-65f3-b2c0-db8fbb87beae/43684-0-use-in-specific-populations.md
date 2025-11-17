@@ -122,7 +122,7 @@ SYNJARDY or SYNJARDY XR should not be initiated in patients with an eGFR less th
 Empagliflozin
 
 The glucose lowering benefit of empagliflozin 25 mg decreased in adult patients with worsening renal function.
-The risks of renal impairment, volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function [see Warnings and Precautions (5.2)].
+The risks of renal impairment, volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function [see Warnings and Precautions (5.3)].
 In the trial of pediatric patients aged 10 to 17 years with type 2 diabetes mellitus, patients with an eGFR less than 60 mL/min/1.73 m2 were not enrolled.
 
 Metformin HCl

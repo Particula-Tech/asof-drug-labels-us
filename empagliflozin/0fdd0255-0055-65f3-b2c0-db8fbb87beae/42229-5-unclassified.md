@@ -12,6 +12,6 @@ The other brands listed are trademarks of their respective owners and are not tr
 
 Copyright © 2025 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL12574DC122025
+COL12574EJ282025
 
-SPL8975L
+SPL8978K

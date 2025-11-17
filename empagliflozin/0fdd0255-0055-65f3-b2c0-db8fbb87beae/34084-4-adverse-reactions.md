@@ -5,13 +5,11 @@ The following important adverse reactions are described below and elsewhere in t
 - Lactic Acidosis [see Boxed Warning and Warnings and Precautions (5.1)]
 - Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.2)]
 - Volume Depletion [see Warnings and Precautions (5.3)]
-- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
+- Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier's Gangrene), and Genital Mycotic Infections [see Warnings and Precautions (5.4)]
 - Hypoglycemia [see Warnings and Precautions (5.5)]
-- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.6)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.7)]
-- Lower Limb Amputation [see Warnings and Precautions (5.8)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
-- Vitamin B12 Deficiency [see Warnings and Precautions (5.10)]
+- Lower Limb Amputation [see Warnings and Precautions (5.6)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.8)]
 
 ## 6.1 Clinical Trials Experience
 
