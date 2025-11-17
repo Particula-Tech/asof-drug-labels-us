@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Atropine Sulfate Injection, USP is supplied in single-dose syringes as follows:
+September 2025Atropine Sulfate Injection, USP is supplied in single-dose syringes as follows:
 
 | Unit of Sale and Product Description | Strength (Concentration) | NDC |
 | --- | --- | --- |
@@ -20,6 +20,6 @@ Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200,
 
 Manufactured By: Intas Pharmaceuticals Limited, Ahmedabad-380 054, India.
 
-10 5231 3 6026793
+10 5231 4 6036329
 
-Issued November 2023
+Issued September 2025

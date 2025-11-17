@@ -2,13 +2,33 @@
 
 ## 8.1 Pregnancy
 
-Animal reproduction studies have not been conducted with atropine.
-It also is not known whether atropine can cause fetal harm when given to a pregnant woman or can affect reproduction capacity.
+Risk Summary There are risks to the mother and fetus associated with untreated severe or life-threatening muscarinic events (see Clinical Considerations).
+Available data from published observational studies on atropine sulfate use in pregnant women are insufficient to evaluate for a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
+Animal developmental and reproductive toxicity studies have not been conducted with atropine.
 
-## 8.3 Nursing Mothers
+Clinical Considerations
 
-Trace amounts of atropine was found in breast milk.
-The clinical impact of this is not known.
+Disease-Associated Maternal and/or Embryo/Fetal Risk Severe or life-threatening muscarinic events such as acute organophosphate poisoning and symptomatic bradycardia are medical emergencies in pregnancy which can be fatal if left untreated.
+Life-sustaining therapy for the pregnant woman should not be withheld because of concerns regarding the effects of atropine on the fetus.
+
+Data Human Data Atropine crosses the placenta [see Clinical Pharmacology (12.3)].
+No adequate and well-controlled studies are available regarding use of atropine in pregnant women.
+
+In a cohort study of 401 pregnancies in the first trimester and 797 pregnancies in the second or third trimester, atropine use was not associated with an increased risk of congenital malformations.
+In a surveillance study, 381 newborns were exposed to atropine during the first trimester; 18 major birth defects were observed when 16 were expected.
+No specific pattern of major defects was identified.
+In another surveillance study of 50 pregnancies in the first trimester, atropine use was not associated with an increased risk of malformations.
+Methodological limitations of these observational studies including the inability to control for the dosage and timing of atropine exposure, underlying maternal disease, or concomitant maternal drug use, cannot definitively establish or exclude any drug-associated risk during pregnancy.
+
+## 8.2 Lactation
+
+Risk Summary Trace amounts of atropine have been reported in human milk.
+There are no available data on atropine levels in human milk after intravenous injection, the effects on the breastfed infant, or the effects on milk production.
+
+Clinical Considerations Minimizing Exposure
+
+The elimination half-life of atropine is more than doubled in children less than 2 years of age [see Clinical Pharmacology (12.3)].
+To minimize potential infant exposure to Atropine Sulfate Injection, a woman may pump and discard her milk for 24 hours after use before resuming to breastfeed her infant.
 
 ## 8.4 Pediatric Use
 
