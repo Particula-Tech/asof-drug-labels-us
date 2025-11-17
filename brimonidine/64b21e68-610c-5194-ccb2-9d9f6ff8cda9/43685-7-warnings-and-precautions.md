@@ -12,4 +12,6 @@ Although brimonidine tartrate ophthalmic solution had minimal effect on the bloo
 ## 5.3 Contamination of Topical Ophthalmic Products After Use
 
 There have been reports of bacterial keratitis associated with the use of multiple-dose containers of topical ophthalmic products.
-These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface (see PATIENT COUNSELING INFORMATION, 17).
+These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface.
+Do not touch the tip of the dispensing container to the eye or surrounding structures.
+Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions [see Patient Counseling Information (17)].
