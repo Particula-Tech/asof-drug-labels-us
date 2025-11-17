@@ -7,6 +7,6 @@ The chemical name for norepinephrine bitartrate (monohydrate) is (-)-α-(aminome
 
 Norepinephrine bitartrate (monohydrate) is sparingly soluble in water, very slightly soluble in alcohol and ether, and readily soluble in acids.
 
-Norepinephrine Bitartrate in Sodium Chloride Injection is supplied as a sterile aqueous ready to use solution in 250 mL transparent intravenous bags.
-Each mL contains 32, 64 or 128 micrograms of norepinephrine bitartrate monohydrate, equivalent to 16, 32, or 64 micrograms of norepinephrine base, respectively.
-Each mL also contains 9 mg of Sodium Chloride USP as tonicity agent, and may contain Hydrochloric Acid NF and Sodium Hydroxide NF as pH adjusters, for the pH range of 3.4 to 4.0, in Water for Injection.
+Norepinephrine Bitartrate in 0.9% Sodium Chloride Injection is supplied as a sterile aqueous ready-to-use solution in 250 mL transparent intravenous bags.
+Each mL contains 32 mcg, 64 mcg, 128 mcg or 256 mcg of norepinephrine bitartrate monohydrate, equivalent to 16 mcg, 32 mcg, 64 mcg or 128 mcg of norepinephrine base, respectively.
+Each mL also contains 9 mg of Sodium Chloride USP as a tonicity agent, and may contain Hydrochloric Acid NF and Sodium Hydroxide NF as pH adjusters, for a pH range of 3.4 to 4.0, in Water for Injection.

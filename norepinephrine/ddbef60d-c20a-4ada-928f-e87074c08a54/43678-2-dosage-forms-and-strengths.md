@@ -7,3 +7,4 @@ Norepinephrine Bitartrate in Sodium Chloride is a clear, colorless solution, ava
 - •4 mg/250 mL (16 mcg per mL) of norepinephrine (free base), single-dose bags
 - •8 mg/250 mL (32 mcg per mL) of norepinephrine (free base), single-dose bags
 - •16 mg/250 mL (64 mcg per mL) of norepinephrine (free base), single-dose bags
+- •32 mg/250 mL (128 mcg per mL) of norepinephrine (free base), single-dose bags
