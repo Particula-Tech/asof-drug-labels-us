@@ -26,11 +26,11 @@ The median time to onset was 1 hour (range 0.1 to 18 hours) after start of infus
 The incidence of infusion modifications due to IRR was 62%, and 1.3% of patients permanently discontinued RYBREVANT due to IRR.
 
 Premedicate with antihistamines, antipyretics, and glucocorticoids and infuse RYBREVANT as recommended [see Dosage and Administration (2.5)].
-Administer RYBREVANT via a peripheral line on Week 1 and Week 2 to reduce the risk of infusion-related reactions [see Dosage and Administration (2.8)].
+Administer RYBREVANT via a peripheral line on Week 1 and Week 2 to reduce the risk of infusion-related reactions [see Dosage and Administration (2.10)].
 
 Monitor patients for signs and symptoms of infusion reactions during RYBREVANT infusion in a setting where cardiopulmonary resuscitation medication and equipment are available.
 Interrupt infusion if IRR is suspected.
-Reduce the infusion rate or permanently discontinue RYBREVANT based on severity [see Dosage and Administration (2.6)].
+Reduce the infusion rate or permanently discontinue RYBREVANT based on severity [see Dosage and Administration (2.8)].
 If an anaphylactic reaction occurs, permanently discontinue RYBREVANT.
 
 ## 5.2 Interstitial Lung Disease/Pneumonitis
@@ -53,25 +53,25 @@ In CHRYSALIS, [see Adverse Reactions (6.1)], ILD/pneumonitis occurred in 3.3% of
 Three patients (1%) permanently discontinued RYBREVANT due to ILD/pneumonitis.
 
 Monitor patients for new or worsening symptoms indicative of ILD/pneumonitis (e.g., dyspnea, cough, fever).
-Immediately withhold RYBREVANT in patients with suspected ILD/pneumonitis and permanently discontinue if ILD/pneumonitis is confirmed [see Dosage and Administration (2.6)].
+Immediately withhold RYBREVANT in patients with suspected ILD/pneumonitis and permanently discontinue if ILD/pneumonitis is confirmed [see Dosage and Administration (2.8)].
 
 ## 5.3 Venous Thromboembolic (VTE) Events with Concomitant Use of RYBREVANT and Lazertinib
 
 RYBREVANT in combination with lazertinib can cause serious and fatal venous thromboembolic (VTE) events, including deep vein thrombosis and pulmonary embolism.
-The majority of these events occurred during the first four months of therapy [see Adverse Reactions (6.1)].
+The majority of these events occurred during the first four months of treatment [see Adverse Reactions (6.1)].
 
 In MARIPOSA [see Adverse Reactions (6.1)], VTEs occurred in 36% of patients receiving RYBREVANT in combination with lazertinib, including Grade 3 in 10% and Grade 4 in 0.5% of patients.
 On-study VTEs occurred in 1.2% of patients (n=5) while receiving anticoagulation therapy.
 There were two fatal cases of VTE (0.5%), 9% of patients had VTE leading to dose interruptions of RYBREVANT, 1% of patients had VTE leading to dose reductions of RYBREVANT, and 3.1% of patients had VTE leading to permanent discontinuation of RYBREVANT.
 The median time to onset of VTEs was 84 days (range: 6 to 777).
-Administer prophylactic anticoagulation for the first four months of treatment [see Dosage and Administration (2.4)].
+Administer prophylactic anticoagulation for the first four months of treatment [see Dosage and Administration (2.7)].
 The use of Vitamin K antagonists is not recommended.
 Monitor for signs and symptoms of VTE events and treat as medically appropriate.
 
-Withhold RYBREVANT and lazertinib based on severity [see Dosage and Administration (2.6)].
-Once anticoagulant treatment has been initiated, resume RYBREVANT and lazertinib at the same dose level at the discretion of the healthcare provider [see Dosage and Administration (2.4)].
+Withhold RYBREVANT and lazertinib based on severity [see Dosage and Administration (2.8)].
+Once anticoagulant treatment has been initiated, resume RYBREVANT and lazertinib at the same dose level at the discretion of the healthcare provider.
 In the event of VTE recurrence despite therapeutic anticoagulation, permanently discontinue RYBREVANT.
-Treatment can continue with lazertinib at the same dose level at the discretion of the healthcare provider [see Dosage and Administration (2.6)].
+Treatment can continue with lazertinib at the same dose level at the discretion of the healthcare provider [see Dosage and Administration (2.8)].
 Refer to the lazertinib prescribing information for recommended lazertinib dosage modification.
 
 ## 5.4 Dermatologic Adverse Reactions
@@ -97,16 +97,14 @@ Rash leading to dose reduction occurred in 5% of patients, and RYBREVANT was per
 
 Toxic epidermal necrolysis (TEN) occurred in one patient (0.3%) treated with RYBREVANT as a single agent.
 
+When initiating treatment with RYBREVANT, prophylactic and concomitant medications are recommended to reduce the risk and severity of dermatologic adverse reactions [see Dosage and Administration (2.6)].
 Instruct patients to limit sun exposure during and for 2 months after treatment with RYBREVANT.
 Advise patients to wear protective clothing and use broad-spectrum UVA/UVB sunscreen.
-Alcohol-free (e.g., isopropanol-free, ethanol-free) emollient cream is recommended for dry skin.
 
-When initiating treatment with RYBREVANT, administer alcohol-free (e.g., isopropanol-free, ethanol-free) emollient cream to reduce the risk of dermatologic adverse reactions.
-Consider prophylactic measures (e.g., use of oral antibiotics) to reduce the risk of dermatologic adverse reactions.
-If skin reactions develop, start topical corticosteroids and topical and/or oral antibiotics.
+If skin reactions develop, administer supportive care including topical corticosteroids and topical and/or oral antibiotics.
 For Grade 3 reactions, add oral steroids and consider dermatologic consultation.
 Promptly refer patients presenting with severe rash, atypical appearance or distribution, or lack of improvement within 2 weeks to a dermatologist.
-Withhold, reduce the dose, or permanently discontinue RYBREVANT based on severity [see Dosage and Administration (2.6)].
+Withhold, reduce the dose, or permanently discontinue RYBREVANT based on severity [see Dosage and Administration (2.8)].
 
 ## 5.5 Ocular Toxicity
 
@@ -115,7 +113,7 @@ RYBREVANT can cause ocular toxicity including keratitis, blepharitis, dry eye sy
 RYBREVANT with Lazertinib
 
 In MARIPOSA [see Adverse Reactions (6.1)], ocular toxicity occurred in 16% of patients treated with RYBREVANT in combination with lazertinib, including Grade 3 or 4 ocular toxicity in 0.7% of patients.
-Withhold, reduce the dose, or permanently discontinue RYBREVANT and continue lazertinib based on severity [see Dosage and Administration (2.4)].
+Withhold, reduce the dose, or permanently discontinue RYBREVANT and continue lazertinib based on severity [see Dosage and Administration (2.8)].
 
 RYBREVANT with Carboplatin and Pemetrexed
 
@@ -128,7 +126,7 @@ In CHRYSALIS, [see Adverse Reactions (6.1)], keratitis occurred in 0.7% and uvei
 All events were Grade 1–2.
 
 Promptly refer patients with new or worsening eye symptoms to an ophthalmologist.
-Withhold, reduce the dose, or permanently discontinue RYBREVANT based on severity [see Dosage and Administration (2.6)].
+Withhold, reduce the dose, or permanently discontinue RYBREVANT based on severity [see Dosage and Administration (2.8)].
 
 ## 5.6 Embryo-Fetal Toxicity
 

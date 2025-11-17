@@ -23,9 +23,9 @@ Advise patients to immediately contact their healthcare provider for signs and s
 Dermatologic Adverse Reactions
 
 Advise patients of the risk of dermatologic adverse reactions.
-Advise patients to apply alcohol-free (e.g., isopropanol-free, ethanol-free) emollient cream to reduce the risk of skin reactions.
-Consider prophylactic measures (e.g., use of oral antibiotics) to reduce the risk of dermatologic adverse reactions.
-Advise patients to limit direct sun exposure during and for 2 months after treatment, to use broad-spectrum UVA/UVB sunscreen, and to wear protective clothing during treatment with RYBREVANT [see Warnings and Precautions (5.4)].
+Advise patients that prophylactic oral antibiotics are recommended starting on Day 1 for the first 12 weeks of treatment and, after completion of oral antibiotic treatment, topical antibiotic lotion to the scalp for the next 9 months of treatment.
+Advise patients to use a non-comedogenic skin moisturizer (ceramide-based or other formulations that provide long-lasting skin hydration and exclude drying components) on the face and whole body (except scalp) and 4% chlorhexidine solution to wash hands and feet, while on treatment.
+Advise patients to limit direct sun exposure during and for 2 months after treatment, to wear protective clothing, and to use broad-spectrum UVA/UVB sunscreen to reduce the risk and severity of dermatologic adverse reactions [see Warnings and Precautions (5.4)].
 
 Ocular Toxicity
 

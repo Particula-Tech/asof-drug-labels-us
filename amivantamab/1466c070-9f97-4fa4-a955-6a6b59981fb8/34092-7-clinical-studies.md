@@ -26,7 +26,7 @@ Among the 858 patients with EGFR exon 19 deletion or L858R substitution mutation
 Of the 544 patients with evaluable results, 527 (97%) patients were positive for EGFR exon 19 deletion or L858R substitution mutations, while 17 (3%) patients were negative.
 Available plasma samples from patients were retrospectively tested using an FDA-approved test to confirm the biomarker status.
 
-The trial demonstrated a statistically significant improvement in PFS by BICR assessment and OS for RYBREVANT in combination with lazertinib compared to osimertinib (see Table 18and Figures 1and 2).
+The trial demonstrated a statistically significant improvement in PFS by BICR assessment and OS for RYBREVANT in combination with lazertinib compared to osimertinib (see Table 18 and Figures 1 and 2).
 
 Efficacy results for RYBREVANT in combination with lazertinib are provided in Table 18.
 
@@ -84,7 +84,7 @@ The evaluation of efficacy for metastatic NSCLC relied upon comparison between:
   RYBREVANT was administered intravenously at 1,400 mg (for patients < 80 kg) or 1,750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1,750 mg (for patients < 80 kg) or 2,100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
 - Platinum-based chemotherapy with carboplatin and pemetrexed.
 
-For both arms, carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks and pemetrexed was administered intravenously at 500 mg/m 2once every 3 weeks until disease progression or unacceptable toxicity.
+For both arms, carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks and pemetrexed was administered intravenously at 500 mg/m2 once every 3 weeks until disease progression or unacceptable toxicity.
 
 Randomization was stratified by osimertinib line of therapy (first-line or second-line), prior brain metastases (yes or no), and Asian race (yes or no). Tumor assessments were performed every 6 weeks for the first 12 months and every 12 weeks thereafter.
 
@@ -112,7 +112,7 @@ Table 20: Efficacy results in MARIPOSA-2
 | p-value,Stratified logistic regression analysis. | p<0.0001 |  |
 | Complete response | 0.8% | 0% |
 | Partial response | 52% | 29% |
-| Duration of response,(DOR) |  |  |
+| Duration of response, (DOR) |  |  |
 | Median (95% CI), months | 6.9 (5.5, NE) | 5.6 (4.2, 9.6) |
 | CI = confidence interval; NE = not estimable |  |  |
 
@@ -139,7 +139,7 @@ Patients with a medical history of interstitial lung disease or active ILD were 
 A total of 308 patients were randomized 1:1 to receive RYBREVANT in combination with carboplatin and pemetrexed (n=153) or carboplatin and pemetrexed (n=155).
 Patients received RYBREVANT intravenously at 1,400 mg (for patients < 80 kg) or 1,750 mg (for patients ≥ 80 kg) once weekly through 4 weeks, then every 3 weeks with a dose of 1,750 mg (for patients < 80 kg) or 2,100 mg (for patients ≥ 80 kg) starting at Week 7 until disease progression or unacceptable toxicity.
 Carboplatin was administered intravenously at area under the concentration-time curve 5 mg/mL per minute (AUC 5) once every 3 weeks, for up to 12 weeks.
-Pemetrexed was administered intravenously at 500 mg/m 2on once every 3 weeks until disease progression or unacceptable toxicity.
+Pemetrexed was administered intravenously at 500 mg/m2 on once every 3 weeks until disease progression or unacceptable toxicity.
 Patients were stratified by Eastern Cooperative Oncology Group (ECOG) performance status (0 or 1) and prior brain metastases (yes or no).
 
 The primary efficacy outcome measure was progression-free survival (PFS) as assessed by blinded independent central review (BICR).
