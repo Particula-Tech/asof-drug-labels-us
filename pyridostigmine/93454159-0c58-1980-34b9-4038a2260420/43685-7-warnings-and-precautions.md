@@ -1,9 +1,9 @@
 # WARNINGS
 
 Although failure of patients to show clinical improvement may reflect underdosage, it can also be indicative of overdosage.
-As is true of all cholinergic drugs, overdosage of Pyridostigmine Bromide Extended release Tablets may result in cholinergic crisis, a state characterized by increasing muscle weakness which, through involvement of the muscles of respiration, may lead to death.
+As is true of all cholinergic drugs, overdosage of Pyridostigmine Bromide Extended-release Tablets may result in cholinergic crisis, a state characterized by increasing muscle weakness which, through involvement of the muscles of respiration, may lead to death.
 Myasthenic crisis due to an increase in the severity of the disease is also accompanied by extreme muscle weakness, and thus may be difficult to distinguish from cholinergic crisis on a symptomatic basis.
-Such differentiation is extremely important, since increases in doses of Pyridostigmine Bromide Extended release Tablets or other drugs of this class in the presence of cholinergic crisis or of a refractory or "insensitive" state could have grave consequences.
+Such differentiation is extremely important, since increases in doses of Pyridostigmine Bromide Extended-release Tablets or other drugs of this class in the presence of cholinergic crisis or of a refractory or "insensitive" state could have grave consequences.
 Osserman and Genkins1 indicate that the differential diagnosis of the two types of crisis may require the use of edrophonium chloride as well as clinical judgment.
 The treatment of the two conditions obviously differs radically.
 Whereas the presence of myasthenic crisis suggests the need for more intensive anticholinesterase therapy, the diagnosis of cholinergic crisis, according to Osserman and Genkins,1 calls for the prompt withdrawal of all drugs of this type.
@@ -14,8 +14,8 @@ For detailed information on the management of patients with myasthenia gravis, t
 
 ## Usage in Pregnancy
 
-The safety of Pyridostigmine Bromide Extended release Tablets during pregnancy or lactation in humans has not been established.
-Therefore, use of Pyridostigmine Bromide Extended release Tablets in women who may become pregnant requires weighing the drug's potential benefits against its possible hazards to mother and child.
+The safety of Pyridostigmine Bromide Extended-release Tablets during pregnancy or lactation in humans has not been established.
+Therefore, use of Pyridostigmine Bromide Extended-release Tablets in women who may become pregnant requires weighing the drug's potential benefits against its possible hazards to mother and child.
 
 # PRECAUTION
 

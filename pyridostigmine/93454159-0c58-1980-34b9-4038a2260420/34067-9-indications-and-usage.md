@@ -1,3 +1,3 @@
 # INDICATION
 
-Pyridostigmine Bromide Extended release Tablets is useful in the treatment of myasthenia gravis.
+Pyridostigmine Bromide Extended-release Tablets is useful in the treatment of myasthenia gravis.
