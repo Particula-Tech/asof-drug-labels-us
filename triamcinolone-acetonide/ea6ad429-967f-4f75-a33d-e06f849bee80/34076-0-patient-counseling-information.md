@@ -19,6 +19,6 @@ See https://patents.bausch.com for US patent information.
 
 XIPERE ®, SCS ®, and SCS Microinjector ®are trademarks of Clearside Biomedical, Inc. used under license.
 
-© 2022 Bausch & Lomb Incorporated or its affiliates
+© 2025 Bausch & Lomb Incorporated or its affiliates
 
 9772102
