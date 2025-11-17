@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA125822"
+  ],
+  "inn": "human-immunoglobulin-g",
+  "labeler": "Kedrion S.p.A.",
+  "package_ndcs": [
+    "76179-010-01",
+    "76179-010-02",
+    "76179-010-03",
+    "76179-010-04"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "human immunoglobulin g",
+      "name": "QIVIGY"
+    }
+  ],
+  "setid": "6f1933e0-240f-48f4-b246-8a30e63a4160",
+  "source": "dailymed"
+}
