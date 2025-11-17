@@ -19,7 +19,7 @@ Published studies report the presence of LNG in human milk.
 Small amounts of progestins (approximately 0.1% of the total maternal doses) were detected in the breast milk of nursing mothers who used Mirena, resulting in exposure of LNG to the breastfed infants.
 There are no reports of adverse effects in breastfed infants with maternal use of progestin-only contraceptives.
 Isolated cases of decreased milk production have been reported with Mirena.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Mirena and any potential adverse effects on the breastfed child from Mirena or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Mirena and any potential adverse effects on the breastfed child from Mirena or from the underlying maternal condition.
 
 ## 8.3 Females and Males of Reproductive Potential
 

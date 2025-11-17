@@ -1,23 +1,11 @@
-Mirena (levonorgestrel-releasing intrauterine system) Carton
+# PRINCIPAL DISPLAY PANEL - 52 mg Intrauterine System Carton
 
-NDC 50419-423-01
-
-1 Sterile Unit
-
-NEW contains updated single-handed inserter with no removable threads
+NDC 50419-423-01 1 Sterile Unit Rx only
 
 IMPORTANT: To be inserted in the uterus by a trained healthcare provider.
-Mirena cannot be reloaded..
+Mirena cannot be reloaded.
 See physician insert for detailed instructions for use.
 
-Mirena
+Contains single-handed inserter with no visible removal threads.
 
-(levonorgestrel-releasing intrauterine system)
-
-Rx only
-
-— 52 mg levonorgestrel
-
-— 1 sterile unit
-
-— intrauterine use
+Mirena® (levonorgestrel-releasing intrauterine system) 52 mg
