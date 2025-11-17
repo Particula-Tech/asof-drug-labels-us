@@ -22,6 +22,6 @@ Piperacillin and tazobactam for injection, is indicated in adults for the treatm
 
 ## 1.6 Usage
 
-To reduce the development of drug-resistant bacteria and maintain the effectiveness of piperacillin and tazobactam for injection and other antibacterial drugs, piperacillin and tazobactam for injection should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
+To reduce the development of drug-resistant bacteria and maintain the effectiveness of Piperacillin and Tazobactam for Injection, USP and other antibacterial drugs, Piperacillin and Tazobactam for injection, USP should be used only to treat or prevent infections that are proven or strongly suspected to be caused by bacteria.
 When culture and susceptibility information are available, they should be considered in selecting or modifying antibacterial therapy.
 In the absence of such data, local epidemiology and susceptibility patterns may contribute to the empiric selection of therapy.

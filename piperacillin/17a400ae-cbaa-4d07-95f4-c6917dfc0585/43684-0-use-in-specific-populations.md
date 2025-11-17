@@ -30,20 +30,20 @@ Risk Summary
 
 Piperacillin is excreted in human milk; tazobactam concentrations in human milk have not been studied.
 No information is available on the effects of piperacillin and tazobactam on the breast-fed child or on milk production.
-The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for piperacillin and tazobactam for injection and any potential adverse effects on the breastfed child from piperacillin and tazobactam for injection or from the underlying maternal condition.
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for piperacillin and tazobactam and any potential adverse effects on the breastfed child from piperacillin and tazobactam or from the underlying maternal condition.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of piperacillin and tazobactam for injection for intra-abdominal infections, and nosocomial pneumonia have been established in pediatric patients 2 months of age and older.
+The safety and effectiveness of piperacillin and tazobactam for intra-abdominal infections, and nosocomial pneumonia have been established in pediatric patients 2 months of age and older.
 
-Use of piperacillin and tazobactam for injection in pediatric patients 2 months of age and older with intra-abdominal infections including appendicitis and/or peritonitis is supported by evidence from well-controlled studies and pharmacokinetic studies in adults and in pediatric patients.
+Use of piperacillin and tazobactam in pediatric patients 2 months of age and older with intra-abdominal infections including appendicitis and/or peritonitis is supported by evidence from well-controlled studies and pharmacokinetic studies in adults and in pediatric patients.
 This includes a prospective, randomized, comparative, open-label clinical trial with 542 pediatric patients 2 to 12 years of age with intra-abdominal infections (including appendicitis and/or peritonitis), in which 273 pediatric patients received piperacillin and tazobactam [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
-Use of piperacillin and tazobactam for injection in pediatric patients 2 months of age and older with nosocomial pneumonia is supported by evidence from well-controlled studies in adults with nosocomial pneumonia, a simulation study performed with a population pharmacokinetic model, and a retrospective, cohort study of pediatric patients with nosocomial pneumonia in which 140 pediatric patients were treated with piperacillin and tazobactam for injection and 267 patients treated with comparators (which included ticarcillin-clavulanate, carbapenems, ceftazidime, cefepime, or ciprofloxacin) [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
+Use of piperacillin and tazobactam in pediatric patients 2 months of age and older with nosocomial pneumonia is supported by evidence from well-controlled studies in adults with nosocomial pneumonia, a simulation study performed with a population pharmacokinetic model, and a retrospective, cohort study of pediatric patients with nosocomial pneumonia in which 140 pediatric patients were treated with piperacillin and tazobactam and 267 patients treated with comparators (which included ticarcillin-clavulanate, carbapenems, ceftazidime, cefepime, or ciprofloxacin) [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 
-The safety and effectiveness of piperacillin and tazobactam for injection have not been established in pediatric patients less than 2 months of age [see Clinical Pharmacology (12) and Dosage and Administration (2)].
+The safety and effectiveness of piperacillin and tazobactam have not been established in pediatric patients less than 2 months of age [see Clinical Pharmacology (12) and Dosage and Administration (2)].
 
-Dosage of piperacillin and tazobactam for injection in pediatric patients with renal impairment has not been determined.
+Dosage of piperacillin and tazobactam in pediatric patients with renal impairment has not been determined.
 
 ## 8.5 Geriatric Use
 
@@ -52,7 +52,7 @@ However, dosage should be adjusted in the presence of renal impairment [see Dosa
 
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy.
 
-Piperacillin and tazobactam for injection contains 54 mg (2.35 mEq) of sodium per gram of piperacillin in the combination product.
+Piperacillin and tazobactam contains 54 mg (2.35 mEq) of sodium per gram of piperacillin in the combination product.
 At the usual recommended doses, patients would receive between 648 and 864 mg/day (28.2 and 37.6 mEq) of sodium.
 The geriatric population may respond with a blunted natriuresis to salt loading.
 This may be clinically important with regard to such diseases as congestive heart failure.
@@ -62,11 +62,11 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 ## 8.6 Renal Impairment
 
-In patients with creatinine clearance ≤ 40 mL/min and dialysis patients (hemodialysis and CAPD), the intravenous dose of piperacillin and tazobactam for injection should be reduced to the degree of renal function impairment [see Dosage and Administration (2)].
+In patients with creatinine clearance ≤ 40 mL/min and dialysis patients (hemodialysis and CAPD), the intravenous dose of piperacillin and tazobactam should be reduced to the degree of renal function impairment [see Dosage and Administration (2)].
 
 ## 8.7 Hepatic Impairment
 
-Dosage adjustment of piperacillin and tazobactam for injection is not warranted in patients with hepatic cirrhosis [see Clinical Pharmacology (12.3)].
+Dosage adjustment of piperacillin and tazobactam is not warranted in patients with hepatic cirrhosis [see Clinical Pharmacology (12.3)].
 
 ## 8.8 Patients with Cystic Fibrosis
 

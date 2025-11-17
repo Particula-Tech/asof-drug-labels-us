@@ -5,20 +5,21 @@ The following clinically signiﬁcant adverse reactions are described elsewhere 
 - •Hypersensitivity Adverse Reactions [see Warnings and Precautions (5.1)]
 - •Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.2)]
 - •Hemophagocytic Lymphohistiocytosis [see Warnings and Precautions (5.3)]
-- •Hematologic Adverse Reactions [see Warnings and Precautions (5.4)]
-- •Central Nervous System Adverse Reactions [see Warnings and Precautions (5.5)]
-- •Nephrotoxicity in Critically Ill Patients [see Warnings and Precautions (5.6)]
-- •Clostridioides difﬁcile-Associated Diarrhea [see Warnings and Precautions (5.8)]
+- •Rhabdomyolysis [see Warnings and Precautions (5.4)]
+- •Hematologic Adverse Reactions [see Warnings and Precautions (5.5)]
+- •Central Nervous System Adverse Reactions [see Warnings and Precautions (5.6)]
+- •Nephrotoxicity in Critically Ill Patients [see Warnings and Precautions (5.7)]
+- •Clostridioides difﬁcile-Associated Diarrhea [see Warnings and Precautions (5.9)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical Trials in Adult Patients During the initial clinical investigations, 2621 patients worldwide were treated with piperacillin and tazobactam for injection in phase 3 trials.
+Clinical Trials in Adult Patients During the initial clinical investigations, 2621 patients worldwide were treated with piperacillin and tazobactam in phase 3 trials.
 In the key North American monotherapy clinical trials (n=830 patients), 90% of the adverse events reported were mild to moderate in severity and transient in nature.
-However, in 3.2% of the patients treated worldwide, piperacillin and tazobactam for injection was discontinued because of adverse events primarily involving the skin (1.3%), including rash and pruritus; the gastrointestinal system (0.9%), including diarrhea, nausea, and vomiting; and allergic reactions (0.5%).
+However, in 3.2% of the patients treated worldwide, piperacillin and tazobactam was discontinued because of adverse events primarily involving the skin (1.3%), including rash and pruritus; the gastrointestinal system (0.9%), including diarrhea, nausea, and vomiting; and allergic reactions (0.5%).
 
-| Table 6. Adverse Reactions from Piperacillin and Tazobactam for Injection Monotherapy Clinical Trials |
+| Table 6. Adverse Reactions from Piperacillin and Tazobactam Monotherapy Clinical Trials |
 | --- |
 | System Organ Class Adverse Reaction |
 | Gastrointestinal disorders Diarrhea (11.3%) Constipation (7.7%) Nausea (6.9%) Vomiting (3.3%) Dyspepsia (3.3%) Abdominal pain (1.3%) |
@@ -40,7 +41,7 @@ Twenty-five (11.0%) patients in the piperacillin and tazobactam group and 14 (6.
 
 The second trial used a dosing regimen of 3.375 g given every 4 hours with an aminoglycoside.
 
-| Table 7. Adverse Reactions from Piperacillin and Tazobactam for Injection Plus Aminoglycoside Clinical Trialsa |
+| Table 7. Adverse Reactions from Piperacillin and Tazobactam Plus Aminoglycoside Clinical Trialsa |
 | --- |
 | System Organ Class Adverse Reaction |
 | Blood and lymphatic system disorders Thrombocythemia (1.4%) Anemia (≤1%) Thrombocytopenia (≤1%) Eosinophilia (≤1%) |
@@ -61,7 +62,7 @@ In a randomized, multicenter, controlled trial in 1200 adult critically ill pati
 
 Adverse Laboratory Changes (Seen During Clinical Trials)
 
-Of the trials reported, including that of nosocomial lower respiratory tract infections in which a higher dose of piperacillin and tazobactam for injection was used in combination with an aminoglycoside, changes in laboratory parameters include:
+Of the trials reported, including that of nosocomial lower respiratory tract infections in which a higher dose of piperacillin and tazobactam was used in combination with an aminoglycoside, changes in laboratory parameters include:
 
 Hematologic—decreases in hemoglobin and hematocrit, thrombocytopenia, increases in platelet count, eosinophilia, leukopenia, neutropenia.
 These patients were withdrawn from therapy; some had accompanying systemic symptoms (e.g., fever, rigors, chills).
@@ -76,18 +77,18 @@ Additional laboratory events include abnormalities in electrolytes (i.e., increa
 
 Clinical Trials in Pediatric Patients
 
-Clinical studies of piperacillin and tazobactam for injection in pediatric patients suggest a similar safety profile to that seen in adults.
+Clinical studies of piperacillin and tazobactam in pediatric patients suggest a similar safety profile to that seen in adults.
 
 In a prospective, randomized, comparative, open-label clinical trial of pediatric patients, 2 to 12 years of age, with intra-abdominal infections (including appendicitis and/or peritonitis), 273 patients were treated with piperacillin and tazobactam for injection 112.5 mg/kg given IV every 8 hours and 269 patients were treated with cefotaxime (50 mg/kg) plus metronidazole (7.5 mg/kg) every 8 hours.
 In this trial, treatment-emergent adverse events were reported by 146 patients, 73 (26.7%) in the piperacillin and tazobactam for injection group and 73 (27.1%) in the cefotaxime/metronidazole group.
 Six patients (2.2%) in the piperacillin and tazobactam for injection group and 5 patients (1.9%) in the cefotaxime/metronidazole group discontinued due to an adverse event.
 
-In a retrospective, cohort study, 140 pediatric patients 2 months to less than 18 years of age with nosocomial pneumonia were treated with piperacillin and tazobactam for injection and 267 patients were treated with comparators (which included ticarcillin-clavulanate, carbapenems, ceftazidime, cefepime, or ciprofloxacin).
-The rates of serious adverse reactions were generally similar between the piperacillin and tazobactam for injection and comparator groups, including patients aged 2 months to 9 months treated with piperacillin and tazobactam for injection 90 mg/kg IV every 6 hours and patients older than 9 months and less than 18 years of age treated with piperacillin and tazobactam for injection 112.5 mg/kg IV every 6 hours.
+In a retrospective, cohort study, 140 pediatric patients 2 months to less than 18 years of age with nosocomial pneumonia were treated with piperacillin and tazobactam and 267 patients were treated with comparators (which included ticarcillin-clavulanate, carbapenems, ceftazidime, cefepime, or ciprofloxacin).
+The rates of serious adverse reactions were generally similar between the piperacillin and tazobactam and comparator groups, including patients aged 2 months to 9 months treated with piperacillin and tazobactam 90 mg/kg IV every 6 hours and patients older than 9 months and less than 18 years of age treated with piperacillin and tazobactam 112.5 mg/kg IV every 6 hours.
 
 ## 6.2 Postmarketing Experience
 
-In addition to the adverse drug reactions identified in clinical trials in Table 6 and Table 7, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam for injection.
+In addition to the adverse drug reactions identified in clinical trials in Table 6 and Table 7, the following adverse reactions have been identified during post-approval use of piperacillin and tazobactam.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Hepatobiliary—hepatitis, jaundice
@@ -106,7 +107,9 @@ Respiratory—eosinophilic pneumonia
 
 Skin and Appendages—erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, drug reaction with eosinophilia and systemic symptoms (DRESS), acute generalized exanthematous pustulosis (AGEP), dermatitis exfoliative, and linear IgA bullous dermatosis
 
-Postmarketing experience with piperacillin and tazobactam for injection in pediatric patients suggests a similar safety profile to that seen in adults.
+Musculoskeletal—rhabdomyolysis
+
+Postmarketing experience with piperacillin and tazobactam in pediatric patients suggests a similar safety profile to that seen in adults.
 
 ## 6.3 Additional Experience with Piperacillin
 

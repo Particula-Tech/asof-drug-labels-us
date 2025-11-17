@@ -8,19 +8,19 @@ In vivo inactivation
 
 When aminoglycosides are administered in conjunction with piperacillin to patients with end-stage renal disease requiring hemodialysis, the concentrations of the aminoglycosides (especially tobramycin) may be significantly reduced and should be monitored.
 
-Sequential administration of piperacillin and tazobactam for injection and tobramycin to patients with either normal renal function or mild to moderate renal impairment has been shown to modestly decrease serum concentrations of tobramycin but no dosage adjustment is considered necessary.
+Sequential administration of piperacillin and tazobactam and tobramycin to patients with either normal renal function or mild to moderate renal impairment has been shown to modestly decrease serum concentrations of tobramycin but no dosage adjustment is considered necessary.
 
 In vitro inactivation
 
-Due to the in vitro inactivation of aminoglycosides by piperacillin, piperacillin and tazobactam for injection and aminoglycosides are recommended for separate administration.
+Due to the in vitro inactivation of aminoglycosides by piperacillin, piperacillin and tazobactam and aminoglycosides are recommended for separate administration.
 Piperacillin and tazobactam for injection and aminoglycosides should be reconstituted, diluted, and administered separately when concomitant therapy with aminoglycosides is indicated.
-Piperacillin and tazobactam for injection is compatible with amikacin and gentamicin for simultaneous Y-site infusion in certain diluents and at specific concentrations.
-Piperacillin and tazobactam for injection is not compatible with tobramycin for simultaneous Y-site infusion [see Dosage and Administration (2.6)].
+Piperacillin and tazobactam is compatible with amikacin and gentamicin for simultaneous Y-site infusion in certain diluents and at specific concentrations.
+Piperacillin and tazobactam is not compatible with tobramycin for simultaneous Y-site infusion [see Dosage and Administration (2.6)].
 
 ## 7.2 Probenecid
 
-Probenecid administered concomitantly with piperacillin and tazobactam for injection prolongs the half-life of piperacillin by 21% and that of tazobactam by 71% because probenecid inhibits tubular renal secretion of both piperacillin and tazobactam.
-Probenecid should not be co-administered with piperacillin and tazobactam for injection unless the benefit outweighs the risk.
+Probenecid administered concomitantly with piperacillin and tazobactam prolongs the half-life of piperacillin by 21% and that of tazobactam by 71% because probenecid inhibits tubular renal secretion of both piperacillin and tazobactam.
+Probenecid should not be co-administered with piperacillin and tazobactam unless the benefit outweighs the risk.
 
 ## 7.3 Vancomycin
 
@@ -54,5 +54,5 @@ There have been reports of positive test results using the Bio-Rad Laboratories 
 Cross-reactions with non-Aspergillus polysaccharides and polyfuranoses with the Bio-Rad Laboratories Platelia Aspergillus EIA test have been reported.
 Therefore, positive test results in patients receiving piperacillin and tazobactam should be interpreted cautiously and confirmed by other diagnostic methods.
 
-As with other penicillins, the administration of piperacillin and tazobactam for injection may result in a false-positive reaction for glucose in the urine using a copper-reduction method (CLINITEST®).
+As with other penicillins, the administration of piperacillin and tazobactam may result in a false-positive reaction for glucose in the urine using a copper-reduction method (CLINITEST®).
 It is recommended that glucose tests based on enzymatic glucose oxidase reactions be used.

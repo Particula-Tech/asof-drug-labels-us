@@ -13,9 +13,9 @@ The chemical formula is C10H11N4NaO5S and the molecular weight is 322.3.
 
 The chemical structure of tazobactam sodium is:
 
-Piperacillin and Tazobactam for Injection, USP contains a total of 2.35 mEq (54 mg) of sodium (Na+) per gram of piperacillin in the combination product.
+Piperacillin and tazobactam contains a total of 2.35 mEq (54 mg) of sodium (Na+) per gram of piperacillin in the combination product.
 
-Piperacillin and Tazobactam for Injection, USP, is a white to off-white sterile, powder consisting of piperacillin and tazobactam as their sodium salts packaged in glass bottles.
+Piperacillin and tazobactam is a white to off-white sterile, lyophilized powder consisting of piperacillin and tazobactam as their sodium salts packaged in glass bottles.
 This product does not contain excipients or preservatives.
 
 The pharmacy bulk package bottle is a container of sterile preparation which contains many single doses for parenteral use.

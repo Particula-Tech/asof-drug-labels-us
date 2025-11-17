@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Piperacillin and tazobactam for injection is an antibacterial drug [see Microbiology (12.4)].
+Piperacillin and tazobactam is an antibacterial drug [see Microbiology (12.4)].
 
 ## 12.2 Pharmacodynamics
 
@@ -26,8 +26,8 @@ The mean and coefficients of variation (CV%) for the pharmacokinetic parameters 
 | 4.5 g | 34 | 39.8 (15) | 206 | 14.7 | 0.82 | -- |
 | aPiperacillin and tazobactam were given in combination, infused over 30 minutes. bNumbers in parentheses are coefficients of variation (CV%).Cmax: maximum observed concentration, AUC: Area under the curve, CL=clearance, CLR= Renal clearance V=volume of distribution, T1/2 = elimination half-life |  |  |  |  |  |  |
 
-Peak plasma concentrations of piperacillin and tazobactam are attained immediately after completion of an intravenous infusion of piperacillin and tazobactam for injection.
-Piperacillin plasma concentrations, following a 30-minute infusion of piperacillin and tazobactam for injection, were similar to those attained when equivalent doses of piperacillin were administered alone.
+Peak plasma concentrations of piperacillin and tazobactam are attained immediately after completion of an intravenous infusion of piperacillin and tazobactam.
+Piperacillin plasma concentrations, following a 30-minute infusion of piperacillin and tazobactam, were similar to those attained when equivalent doses of piperacillin were administered alone.
 Steady-state plasma concentrations of piperacillin and tazobactam were similar to those attained after the first dose due to the short half-lives of piperacillin and tazobactam.
 
 Distribution
@@ -58,7 +58,7 @@ Tazobactam is metabolized to a single metabolite that lacks pharmacological and 
 
 Excretion
 
-Following single or multiple piperacillin and tazobactam for injection doses to healthy subjects, the plasma half-life of piperacillin and of tazobactam ranged from 0.7 to 1.2 hours and was unaffected by dose or duration of infusion.
+Following single or multiple piperacillin and tazobactam doses to healthy subjects, the plasma half-life of piperacillin and of tazobactam ranged from 0.7 to 1.2 hours and was unaffected by dose or duration of infusion.
 
 Both piperacillin and tazobactam are eliminated via the kidney by glomerular filtration and tubular secretion.
 Piperacillin is excreted rapidly as unchanged drug with 68% of the administered dose excreted in the urine.
@@ -71,7 +71,7 @@ Renal Impairment
 
 After the administration of single doses of piperacillin and tazobactam to subjects with renal impairment, the half-life of piperacillin and of tazobactam increases with decreasing creatinine clearance.
 At creatinine clearance below 20 mL/min, the increase in half-life is twofold for piperacillin and fourfold for tazobactam compared to subjects with normal renal function.
-Dosage adjustments for piperacillin and tazobactam for injection are recommended when creatinine clearance is below 40 mL/min in patients receiving the usual recommended daily dose of piperacillin and tazobactam for injection.
+Dosage adjustments for piperacillin and tazobactam are recommended when creatinine clearance is below 40 mL/min in patients receiving the usual recommended daily dose of piperacillin and tazobactam for injection.
 See Dosage and Administration (2) for specific recommendations for the treatment of patients with renal impairment.
 
 Hemodialysis removes 30% to 40% of a piperacillin and tazobactam dose with an additional 5% of the tazobactam dose removed as the tazobactam metabolite.
@@ -81,7 +81,7 @@ For dosage recommendations for patients undergoing hemodialysis [see Dosage and 
 Hepatic Impairment
 
 The half-life of piperacillin and of tazobactam increases by approximately 25% and 18%, respectively, in patients with hepatic cirrhosis compared to healthy subjects.
-However, this difference does not warrant dosage adjustment of piperacillin and tazobactam for injection due to hepatic cirrhosis.
+However, this difference does not warrant dosage adjustment of piperacillin and tazobactam due to hepatic cirrhosis.
 
 Pediatrics
 
@@ -106,7 +106,7 @@ No difference in piperacillin or tazobactam pharmacokinetics was observed betwee
 
 Drug Interactions
 
-The potential for pharmacokinetic drug interactions between piperacillin and tazobactam for injection and aminoglycosides, probenecid, vancomycin, heparin, vecuronium, and methotrexate has been evaluated [see Drug Interactions (7)].
+The potential for pharmacokinetic drug interactions between piperacillin and tazobactam and aminoglycosides, probenecid, vancomycin, heparin, vecuronium, and methotrexate has been evaluated [see Drug Interactions (7)].
 
 ## 12.4 Microbiology
 
