@@ -6,6 +6,7 @@ TONMYA (cyclobenzaprine hydrochloride sublingual tablets) are supplied as 2.8 mg
 Each bottle contains polyester coil and a desiccant canister.
 
 - 14 count bottle NDC [70792-102-14]
+- 30 count bottle NDC [70792-102-30]
 - 60 count bottle NDC [70792-102-60]
 - 90 count bottle NDC [70792-102-90]
 

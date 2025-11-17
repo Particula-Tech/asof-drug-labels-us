@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 2.8 mg Tablet Bottle Label
 
-NDC 70792-102-90 90 Tablets
+NDC 70792-102-30 30 Tablets
 
 Rx ONLY
 
