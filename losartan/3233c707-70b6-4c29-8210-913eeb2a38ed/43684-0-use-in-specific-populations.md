@@ -26,7 +26,7 @@ Fetal/Neonatal Adverse Reactions
 Oligohydramnios in pregnant women who use drugs affecting the renin-angiotensin system in the second and third trimesters of pregnancy can result in the following: reduced fetal renal function leading to anuria and renal failure, fetal lung hypoplasia, skeletal deformations, including skull hypoplasia, hypotension, and death.
 In the unusual case that there is no appropriate alternative to therapy with drugs affecting the renin angiotensin system for a particular patient, apprise the mother of the potential risk to the fetus.
 
-In patients taking losartan potassium during pregnancy, serial ultrasound examinations to assess the intra-amniotic environment.
+In patients taking losartan potassium during pregnancy, perform serial ultrasound examinations to assess the intra-amniotic environment.
 Fetal testing may be appropriate, based on the week of gestation.
 If oligohydramnios is observed, discontinue losartan potassium, unless it is considered lifesaving for the mother.
 Patients and physicians should be aware, however, that oligohydramnios may not appear until after the fetus has sustained irreversible injury.
