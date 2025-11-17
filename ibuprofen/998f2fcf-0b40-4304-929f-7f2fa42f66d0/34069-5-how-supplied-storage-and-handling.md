@@ -13,12 +13,14 @@ Store at 20 - 25ºC (68 - 77ºF) [see USP Controlled Room Temperature].
 Do not freeze.
 Preserve in well-closed containers.
 
-Manufactured By
-
-Padagis
+Manufactured by Padagis®
 
 Minneapolis, MN 55427
 
 www.padagis.com
 
-Rev 07-24
+Rev 12-24
+
+16K26 RC PH3
+
+2205000
