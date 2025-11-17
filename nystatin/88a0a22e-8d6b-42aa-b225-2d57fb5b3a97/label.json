@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA050299"
+  ],
+  "inn": "nystatin",
+  "labeler": "Chartwell Governmental & Specialty RX, LLC",
+  "package_ndcs": [
+    "68999-813-05",
+    "68999-813-24"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "nystatin",
+      "name": "Nystatin"
+    }
+  ],
+  "setid": "88a0a22e-8d6b-42aa-b225-2d57fb5b3a97",
+  "source": "dailymed"
+}
