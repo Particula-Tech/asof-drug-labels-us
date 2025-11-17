@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761392"
+  ],
+  "inn": "denosumab",
+  "labeler": "Cordavis Limited",
+  "package_ndcs": [
+    "83457-012-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "denosumab",
+      "name": "OSPOMYV"
+    }
+  ],
+  "setid": "e1d80a82-de52-4a34-9df3-609e50667ffb",
+  "source": "dailymed"
+}

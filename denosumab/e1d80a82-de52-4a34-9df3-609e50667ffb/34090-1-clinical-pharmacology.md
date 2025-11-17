@@ -1,0 +1,81 @@
+# 12 CLINICAL PHARMACOLOGY
+
+## 12.1 Mechanism of Action
+
+Denosumab products bind to RANKL, a transmembrane or soluble protein essential for the formation, function, and survival of osteoclasts, the cells responsible for bone resorption.
+Denosumab products prevent RANKL from activating its receptor, RANK, on the surface of osteoclasts and their precursors.
+Prevention of the RANKL/RANK interaction inhibits osteoclast formation, function, and survival, thereby decreasing bone resorption and increasing bone mass and strength in both cortical and trabecular bone.
+
+## 12.2 Pharmacodynamics
+
+In clinical studies, treatment with 60 mg of denosumab resulted in reduction in the bone resorption marker serum type 1 C-telopeptide (CTX) by approximately 85% by 3 days, with maximal reductions occurring by 1 month.
+CTX levels were below the limit of assay quantitation (0.049 ng/mL) in 39% to 68% of patients 1 to 3 months after dosing of denosumab.
+At the end of each dosing interval, CTX reductions were partially attenuated from a maximal reduction of ≥ 87% to ≥ 45% (range: 45% to 80%), as serum denosumab levels diminished, reflecting the reversibility of the effects of denosumab on bone remodeling.
+These effects were sustained with continued treatment.
+Upon reinitiation, the degree of inhibition of CTX by denosumab was similar to that observed in patients initiating denosumab treatment.
+
+Consistent with the physiological coupling of bone formation and resorption in skeletal remodeling, subsequent reductions in bone formation markers (i.e. osteocalcin and procollagen type 1 N-terminal peptide [P1NP]) were observed starting 1 month after the first dose of denosumab.
+After discontinuation of denosumab therapy, markers of bone resorption increased to levels 40% to 60% above pretreatment values but returned to baseline levels within 12 months.
+
+## 12.3 Pharmacokinetics
+
+In a study conducted in healthy male and female volunteers (n = 73, age range: 18 to 64 years) following a single subcutaneously administered denosumab dose of 60 mg, the mean area-under-the-concentration-time curve up to 16 weeks (AUC0-16 weeks) of denosumab was 316 mcg∙day/mL (standard deviation [SD] = 101 mcg∙day/mL).
+The mean maximum denosumab concentration (Cmax) was 6.75 mcg/mL (SD = 1.89 mcg/mL).
+No accumulation or change in denosumab pharmacokinetics with time is observed with multiple dosing of 60 mg subcutaneously administered once every 6 months.
+
+Absorption
+
+Following subcutaneous administration, the median time to maximum denosumab concentration (Tmax) was 10 days (range: 3 to 21 days).
+
+Distribution
+
+The mean volume of distribution for denosumab was 5.2 L (SD = 1.7 L).
+
+Elimination
+
+Serum denosumab concentrations declined over a period of 4 to 5 months with a mean half-life of 25.4 days (SD = 8.5 days; n = 46).
+
+A population pharmacokinetic analysis was performed to evaluate the effects of demographic characteristics.
+This analysis showed no notable differences in pharmacokinetics with age (in postmenopausal women), race, or body weight (36 to 140 kg).
+
+Seminal Fluid Pharmacokinetic Study
+
+Serum and seminal fluid concentrations of denosumab were measured in 12 healthy male volunteers (age range: 43-65 years).
+After a single 60 mg subcutaneous administration of denosumab, the mean (± SD) Cmax values in the serum and seminal fluid samples were 6170 (± 2070) and 100 (± 81.9) ng/mL, respectively, resulting in a maximum seminal fluid concentration of approximately 2% of serum levels.
+The median (range) Tmax values in the serum and seminal fluid samples were 8.0 (7.9 to 21) and 21 (8.0 to 49) days, respectively.
+Among the subjects, the highest denosumab concentration in seminal fluid was 301 ng/mL at 22 days post-dose.
+On the first day of measurement (10 days post-dose), nine of eleven subjects had quantifiable concentrations in semen.
+On the last day of measurement (106 days post-dose), five subjects still had quantifiable concentrations of denosumab in seminal fluid, with a mean (± SD) seminal fluid concentration of 21.1 (± 36.5) ng/mL across all subjects (n = 12).
+
+Drug Interactions
+
+In a study of 19 postmenopausal women with low BMD and rheumatoid arthritis treated with etanercept (50 mg subcutaneous injection once weekly), a single-dose of denosumab (60 mg subcutaneous injection) was administered 7 days after the previous dose of etanercept.
+No clinically significant changes in the pharmacokinetics of etanercept were observed.
+
+Cytochrome P450 substrates
+
+In a study of 17 postmenopausal women with osteoporosis, midazolam (2 mg oral) was administered 2 weeks after a single-dose of denosumab (60 mg subcutaneous injection), which approximates the Tmax of denosumab.
+Denosumab did not affect the pharmacokinetics of midazolam, which is metabolized by cytochrome P450 3A4 (CYP3A4).
+This indicates that denosumab products should not alter the pharmacokinetics of drugs metabolized by CYP3A4 in postmenopausal women with osteoporosis.
+
+Specific Populations
+
+Gender: Mean serum denosumab concentration-time profiles observed in a study conducted in healthy men ≥ 50 years were similar to those observed in a study conducted in postmenopausal women using the same dose regimen.
+
+Age: The pharmacokinetics of denosumab were not affected by age across all populations studied whose ages ranged from 28 to 87 years.
+
+Race: The pharmacokinetics of denosumab were not affected by race.
+
+Renal Impairment: In a study of 55 patients with varying degrees of renal function, including patients on dialysis, the degree of renal impairment had no effect on the pharmacokinetics of denosumab; thus, dose adjustment for renal impairment is not necessary.
+
+Hepatic Impairment: No clinical studies have been conducted to evaluate the effect of hepatic impairment on the pharmacokinetics of denosumab products.
+
+## 12.6 Immunogenicity
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
+Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those of denosumab or of other denosumab products.
+
+Using an electrochemiluminescent bridging immunoassay, less than 1% (55 out of 8113) of patients treated with denosumab for up to 5 years tested positive for binding antibodies (including pre-existing, transient, and developing antibodies).
+None of the patients tested positive for neutralizing antibodies, as was assessed using a chemiluminescent cell-based in vitro biological assay.
+
+There was no identified clinically significant effect of anti-drug antibodies on pharmacokinetics, pharmacodynamics, safety, or effectiveness of denosumab.
