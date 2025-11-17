@@ -4,14 +4,14 @@
 
 [see Boxed Warning]
 
-Pediatric Population: The incidence of serious rash associated with hospitalization and discontinuation of lamotrigine in a prospectively followed cohort of pediatric patients (aged 2 to 17 years) is approximately 0.3% to 0.8%.
+Pediatric Population:The incidence of serious rash associated with hospitalization and discontinuation of lamotrigine in a prospectively followed cohort of pediatric patients (aged 2 to 17 years) is approximately 0.3% to 0.8%.
 One rash-related death was reported in a prospectively followed cohort of 1,983 pediatric patients (aged 2 to 16 years) with epilepsy taking lamotrigine as adjunctive therapy.
 Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
 
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in pediatric patients.
 In pediatric patients who used valproate concomitantly for epilepsy, 1.2% (6 of 482) experienced a serious rash compared with 0.6% (6 of 952) patients not taking valproate.
 
-Adult Population: Serious rash associated with hospitalization and discontinuation of lamotrigine occurred in 0.3% (11 of 3,348) of adult patients who received lamotrigine in premarketing clinical trials of epilepsy.
+Adult Population:Serious rash associated with hospitalization and discontinuation of lamotrigine occurred in 0.3% (11 of 3,348) of adult patients who received lamotrigine in premarketing clinical trials of epilepsy.
 In the bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received lamotrigine as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received lamotrigine as adjunctive therapy.
 No fatalities occurred among these individuals.
 However, in worldwide postmarketing experience, rare cases of rash-related death have been reported, but their numbers are too few to permit a precise estimate of the rate.
@@ -21,7 +21,7 @@ Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered lamotrigine with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered lamotrigine in the absence of valproate were hospitalized.
 
-Patients with History of Allergy or Rash to Other Antiepileptic Drugs: The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for lamotrigine is exceeded and in patients with a history of allergy or rash to other AEDs.
+Patients with History of Allergy or Rash to Other Antiepileptic Drugs:The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for lamotrigine is exceeded and in patients with a history of allergy or rash to other AEDs.
 
 ## 5.2 Hemophagocytic Lymphohistiocytosis
 
@@ -67,7 +67,7 @@ These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytope
 
 ## 5.6 Suicidal Behavior and Ideation
 
-AEDs, including lamotrigine, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Antiepileptic drugs, including lamotrigine, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to 1 of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared with patients randomized to placebo.
@@ -129,12 +129,13 @@ To reduce the potential of medication errors, write and say lamotrigine clearly.
 Depictions of the lamotrigine tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid the medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription.
 
-## 5.9 Concomitant Use with Oral Contraceptives
+## 5.9 Concomitant Use with Estrogen Containing Products, Including Oral Contraceptives
 
 Some estrogen-containing oral contraceptives have been shown to decrease serum concentrations of lamotrigine [see Clinical Pharmacology (12.3)].
 Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking lamotrigine [see Dosage and Administration (2.1)].
 During the week of inactive hormone preparation (pill-free week) of oral contraceptive therapy, plasma lamotrigine levels are expected to rise, as much as doubling at the end of the week.
 Adverse reactions consistent with elevated levels of lamotrigine, such as dizziness, ataxia, and diplopia, could occur.
+Other oral contraceptive and other estrogen-containing therapies (such as HRT) have not been studied, though they may similarly affect lamotrigine pharmacokinetic parameters.
 
 ## 5.10 Withdrawal Seizures
 
@@ -149,39 +150,24 @@ Valid estimates of the incidence of treatment-emergent status epilepticus among 
 At a minimum, 7 of 2,343 adult patients had episodes that could unequivocally be described as status epilepticus.
 In addition, a number of reports of variably defined episodes of seizure exacerbation (e.g., seizure clusters, seizure flurries) were made.
 
-## 5.12 Sudden Unexplained Death in Epilepsy (SUDEP)
-
-During the premarketing development of lamotrigine, 20 sudden and unexplained deaths were recorded among a cohort of 4,700 patients with epilepsy (5,747 patient-years of exposure).
-
-Some of these could represent seizure-related deaths in which the seizure was not observed, e.g., at night.
-This represents an incidence of 0.0035 deaths per patient-year.
-Although this rate exceeds that expected in a healthy population matched for age and sex, it is within the range of estimates for the incidence of sudden unexplained death in epilepsy (SUDEP) in patients not receiving lamotrigine (ranging from 0.0005 for the general population of patients with epilepsy, to 0.004 for a recently studied clinical trial population similar to that in the clinical development program for lamotrigine, to 0.005 for patients with refractory epilepsy).
-Consequently, whether these figures are reassuring or suggest concern depends on the comparability of the populations reported upon with the cohort receiving lamotrigine and the accuracy of the estimates provided.
-Probably most reassuring is the similarity of estimated SUDEP rates in patients receiving lamotrigine and those receiving other AEDs, chemically unrelated to each other, that underwent clinical testing in similar populations.
-This evidence suggests, although it certainly does not prove, that the high SUDEP rates reflect population rates, not a drug effect.
-
-## 5.13 Addition of Lamotrigine to a Multidrug Regimen that Includes Valproate
+## 5.12 Addition of Lamotrigine to a Multidrug Regimen that Includes Valproate
 
 Because valproate reduces the clearance of lamotrigine, the dosage of lamotrigine in the presence of valproate is less than half of that required in its absence [see Dosage and Administration (2.2, 2.3, 2.4), Drug Interactions (7)].
 
-## 5.14 Binding in the Eye and Other Melanin-Containing Tissues
+## 5.13 Binding in the Eye and Other Melanin-Containing Tissues
 
 Because lamotrigine binds to melanin, it could accumulate in melanin-rich tissues over time.
 This raises the possibility that lamotrigine may cause toxicity in these tissues after extended use.
-Although ophthalmological testing was performed in 1 controlled clinical trial, the testing was inadequate to exclude subtle effects or injury occurring after long-term exposure.
-Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine's binding to melanin is unknown [see Clinical Pharmacology (12.2)].
+Although ophthalmological testing was performed in 1 controlled clinical trial, the testing was inadequate to exclude subtle effects or injury occurring after long- term exposure.
+Moreover, the capacity of available tests to detect potentially adverse consequences, if any, of lamotrigine’s binding to melanin is unknown [see Clinical Pharmacology (12.2)].
 
 Accordingly, although there are no specific recommendations for periodic ophthalmological monitoring, prescribers should be aware of the possibility of long-term ophthalmologic effects.
 
-## 5.15 Laboratory Tests
+## 5.14 Laboratory Tests
 
-False-Positive Drug Test Results
-
-Lamotrigine has been reported to interfere with the assay used in some rapid urine drug screens, which can result in false-positive readings, particularly for phencyclidine (PCP).
+False-Positive Drug Test Results Lamotrigine has been reported to interfere with the assay used in some rapid urine drug screens, which can result in false-positive readings, particularly for phencyclidine (PCP).
 A more specific analytical method should be used to confirm a positive result.
 
-Plasma Concentrations of Lamotrigine
-
-The value of monitoring plasma concentrations of lamotrigine in patients treated with lamotrigine has not been established.
+Plasma Concentrations of Lamotrigine The value of monitoring plasma concentrations of lamotrigine in patients treated with lamotrigine has not been established.
 Because of the possible pharmacokinetic interactions between lamotrigine and other drugs, including AEDs (see Table 13), monitoring of the plasma levels of lamotrigine and concomitant drugs may be indicated, particularly during dosage adjustments.
 In general, clinical judgment should be exercised regarding monitoring of plasma levels of lamotrigine and other drugs and whether or not dosage adjustments are necessary.

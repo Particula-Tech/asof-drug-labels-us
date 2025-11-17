@@ -13,7 +13,7 @@ Other side scored and engraved with "LMT" above the score and "25" below the sco
 | Bottles of 1000 | NDC 51672-4130-3 |
 | Unit dose packages of 100 | NDC 51672-4130-0 |
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature] in a dry place.
+Store at 20° to 25°C (68° to 77°F)[see USP Controlled Room Temperature] in a dry place.
 
 Lamotrigine Tablets USP, 100 mg:
 
@@ -56,7 +56,7 @@ Other side scored and engraved with "LMT" above the score and "200" below the sc
 | Bottles of 1000 | NDC 51672-4133-3 |
 | Unit dose packages of 100 | NDC 51672-4133-0 |
 
-Store at 20° to 25°C (68° to 77°F) [see USP Controlled Room Temperature] in a dry place and protect from light.
+Store at 20° to 25°C (68° to 77°F)[see USP Controlled Room Temperature] in a dry place and protect from light.
 
 Blister Packs
 
