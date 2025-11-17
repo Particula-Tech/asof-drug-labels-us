@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-Vijoice™ (alpelisib) tablets
+Vijoice® (alpelisib) tablets
 
 NDC 0078-1021-84
 
@@ -13,7 +13,8 @@ Rx only
 Recommended Dosage: Take one 50 mg tablet once daily with food.
 Swallow tablets whole.
 DO NOT chew, crush, or split tablets.
-See prescribing information for complete dosage information and instruction for patients who are unable to swallow whole tablets.
+
+Directions: See enclosed Instructions for Use for administration instructions, including options for patients who are unable to swallow whole tablets.
 
 28-Day Supply
 
@@ -23,7 +24,7 @@ NOVARTIS
 
 # PRINCIPAL DISPLAY PANEL
 
-Vijoice™ (alpelisib) tablets
+Vijoice® (alpelisib) tablets
 
 NDC 0078-1028-84
 
@@ -36,7 +37,8 @@ Rx only
 Recommended Dosage: Take one 125 mg tablet once daily with food.
 Swallow tablets whole.
 DO NOT chew, crush, or split tablets.
-See prescribing information for complete dosage information and instruction for patients who are unable to swallow whole tablets.
+
+Directions: See enclosed Instructions for Use for administration instructions, including options for patients who are unable to swallow whole tablets.
 
 28-Day Supply
 
@@ -46,7 +48,7 @@ NOVARTIS
 
 # PRINCIPAL DISPLAY PANEL
 
-Vijoice™ (alpelisib) tablets
+Vijoice® (alpelisib) tablets
 
 NDC 0078-1035-02
 
@@ -59,7 +61,8 @@ Rx only
 Recommended Dosage: Take one 200 mg tablet and one 50 mg tablet once daily with food.
 Swallow tablets whole.
 DO NOT chew, crush, or split tablets.
-See prescribing information for complete dosage information and instruction for patients who are unable to swallow whole tablets.
+
+Directions: See enclosed Instructions for Use for administration instructions, including options for patients who are unable to swallow whole tablets.
 
 28-Day Supply (56 Tablets)
 
@@ -82,6 +85,8 @@ Vijoice® (alpelisib) oral granules
 50 mg daily dose
 
 Take one 50 mg packet once daily
+
+Directions: See enclosed Instructions For Use for administration instructions.
 
 28 Packets
 
