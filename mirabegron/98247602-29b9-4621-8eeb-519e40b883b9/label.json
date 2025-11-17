@@ -1,0 +1,27 @@
+{
+  "application_numbers": [
+    "ANDA217989"
+  ],
+  "inn": "mirabegron",
+  "labeler": "Qilu Pharmaceutical Co., Ltd.",
+  "package_ndcs": [
+    "67184-0571-1",
+    "67184-0571-2",
+    "67184-0572-1",
+    "67184-0572-2"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "mirabegron",
+      "name": "Mirabegron"
+    },
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "mirabegron",
+      "name": "Mirabgeorn"
+    }
+  ],
+  "setid": "98247602-29b9-4621-8eeb-519e40b883b9",
+  "source": "dailymed"
+}
