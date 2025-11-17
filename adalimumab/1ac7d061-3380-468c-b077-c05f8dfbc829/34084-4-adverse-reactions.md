@@ -48,7 +48,7 @@ Liver Enzyme Elevations
 
 There have been reports of severe hepatic reactions including acute liver failure in subjects receiving TNF-blockers.
 In controlled Phase 3 trials of adalimumab (40 mg SC every other week) in subjects with RA, PsA, and AS with control period duration ranging from 4 to 104 weeks, ALT elevations ≥ 3 x ULN occurred in 3.5% of adalimumab-treated subjects and 1.5% of control-treated subjects.
-Since many of these subjects in these trials were also taking medications that cause liver enzyme elevations (e.g., NSAIDS, MTX), the relationship between adalimumab and the liver enzyme elevations is not clear.
+Since many of these subjects in these trials were also taking medications that cause liver enzyme elevations (e.g., NSAIDs, MTX), the relationship between adalimumab and the liver enzyme elevations is not clear.
 In a controlled Phase 3 trial of adalimumab in subjects with polyarticular JIA who were 4 to 17 years, ALT elevations ≥ 3 x ULN occurred in 4.4% of adalimumab-treated subjects and 1.5% of control-treated subjects (ALT more common than AST); liver enzyme test elevations were more frequent among those treated with the combination of adalimumab and MTX than those treated with adalimumab alone.
 In general, these elevations did not lead to discontinuation of adalimumab treatment.
 No ALT elevations ≥ 3 x ULN occurred in the open-label study of adalimumab in subjects with polyarticular JIA who were 2 to <4 years.
@@ -59,7 +59,7 @@ In the Phase 3 trial of adalimumab in pediatric subjects with Crohn’s disease 
 In controlled Phase 3 trials of adalimumab (initial doses of 160 mg and 80 mg on Days 1 and 15 respectively, followed by 40 mg every other week) in adult subjects with UC with control period duration ranging from 1 to 52 weeks, ALT elevations ≥3 x ULN occurred in 1.5% of adalimumab-treated subjects and 1.0% of control-treated subjects.
 In controlled Phase 3 trials of adalimumab (initial dose of 80 mg then 40 mg every other week) in subjects with Ps with control period duration ranging from 12 to 24 weeks, ALT elevations ≥ 3 x ULN occurred in 1.8% of adalimumab-treated subjects and 1.8% of control-treated subjects.
 
-In controlled trials of adalimumab (initial doses of 160 mg at Week 0 and 80 mg at Week 2, followed by 40 mg every week starting at Week 4), in subjects with HS with a control period duration ranging from 12 to 16 weeks, ALT elevations ≥ 3 x ULN occurred in 0.3% of adalimumab-treated subjects and 0.6% of control treated subjects.
+In controlled trials of adalimumab (initial doses of 160 mg at Week 0 and 80 mg at Week 2, followed by 40 mg every week starting at Week 4), in subjects with HS with a control period duration ranging from 12 to 16 weeks, ALT elevations ≥ 3 x ULN occurred in 0.3% of adalimumab-treated subjects and 0.6% of control-treated subjects.
 
 In controlled trials of adalimumab (initial doses of 80 mg at Week 0 followed by 40 mg every other week starting at Week 1) in adult subjects with uveitis with an exposure of 165.4 PYs and 119.8 PYs in adalimumab-treated and control-treated subjects, respectively, ALT elevations ≥ 3 x ULN occurred in 2.4% of adalimumab-treated subjects and 2.4% of control-treated subjects.
 
@@ -211,7 +211,7 @@ Flare of HS, defined as ≥25% increase from baseline in abscesses and inflammat
 
 Uveitis Clinical Studies
 
-Adalimumab has been studied in 464 adult subjects with uveitis (UV) in placebo-controlled and open-label extension studies [see Clinical Study (14.11)].
+Adalimumab has been studied in 464 adult subjects with uveitis (UV) in placebo-controlled and open-label extension studies and in 90 pediatric subjects with uveitis (Study PUV-I) [see Clinical Studies (14.11), (14.12)].
 The safety profile for subjects with UV treated with adalimumab was similar to the safety profile seen in subjects with RA.
 
 ## 6.2 Immunogenicity

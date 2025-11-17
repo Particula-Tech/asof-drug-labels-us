@@ -41,7 +41,7 @@ This study cannot reliably establish whether there is an association between ada
 In an independent clinical study conducted in ten pregnant women with IBD treated with adalimumab, adalimumab concentrations were measured in maternal serum as well as in cord blood (n=10) and infant serum (n=8) on the day of birth.
 The last dose of adalimumab was given between 1 and 56 days prior to delivery.
 Adalimumab concentrations were 0.16 to 19.7 mcg/mL in cord blood, 4.28 to 17.7 mcg/mL in infant serum, and 0 to 16.1 mcg/mL in maternal serum.
-In all but 1 case, the cord blood concentration of adalimumab was higher than the maternal serum concentration, suggesting adalimumab actively crosses the placenta.
+In all but one case, the cord blood concentration of adalimumab was higher than the maternal serum concentration, suggesting adalimumab actively crosses the placenta.
 In addition, one infant had serum concentrations at each of the following: 6 weeks (1.94 mcg/mL), 7 weeks (1.31 mcg/mL), 8 weeks (0.93 mcg/mL), and 11 weeks (0.53 mcg/mL), suggesting adalimumab can be detected in the serum of infants exposed in utero for at least 3 months from birth.
 
 Animal Data
@@ -66,10 +66,9 @@ The safety and effectiveness of HYRIMOZ have not been established in pediatric p
 The safety and effectiveness of HYRIMOZ have been established for:
 
 - •reducing signs and symptoms of moderately to severely active polyarticular JIA in pediatric patients 2 years of age and older.
-- •the treatment of moderately to severely active Crohn’s Disease in pediatric patients 6 years of age and older.
-
-Pediatric assessments for HYRIMOZ demonstrate that HYRIMOZ is safe and effective for pediatric patients in indications for which HUMIRA (adalimumab) is approved.
-However, HYRIMOZ is not approved for such indications due to marketing exclusivity for HUMIRA (adalimumab).
+- •the treatment of moderately to severely active Crohn’s disease in pediatric patients 6 years of age and older.
+- •the treatment of moderate to severe hidradenitis suppurativa in patients 12 years of age and older.
+- •the treatment of non-infectious intermediate, posterior, and panuveitis in pediatric patients 2 years of age and older.
 
 Due to their inhibition of TNFα, adalimumab products administered during pregnancy could affect immune response in the in utero-exposed newborn and infant.
 Data from eight infants exposed to adalimumab in utero suggest adalimumab crosses the placenta [see Use in Specific Populations (8.1)].
@@ -82,7 +81,7 @@ Post-marketing cases of lymphoma, including hepatosplenic T-cell lymphoma and ot
 Juvenile Idiopathic Arthritis
 
 The safety and effectiveness of HYRIMOZ for the treatment of moderately to severely active polyarticular JIA have been established in pediatric patients 2 years of age and older.
-Use for this indication is supported by evidence from an adequate and well-controlled study (Study JIA) in patients 4 to 17 years of age [see Clinical Studies (14.2)] and a safety study (Study JIA-II) in patients 2 to < 4 years of age where the safety profile was similar to patients 4 to 17 years of age [see Adverse Reactions (6.1)].
+Use for this indication is supported by evidence from an adequate and well-controlled study (Study JIA) of adalimumab in patients 4 to 17 years of age [see Clinical Studies (14.2)] and a safety study (Study JIA-II) of adalimumab in patients 2 to < 4 years of age where the safety profile was similar to patients 4 to 17 years of age [see Adverse Reactions (6.1)].
 Adalimumab products have not been studied in patients with polyarticular JIA less than 2 years of age or in patients with a weight below 10 kg.
 
 The safety of adalimumab in pediatric patients in the polyarticular JIA trials was generally similar to that observed in adults with certain exceptions [see Adverse Reactions (6.1)].
@@ -96,6 +95,21 @@ Use of HYRIMOZ for this indication is supported by evidence from adequate and we
 The adverse reaction profile in patients 6 years to 17 years of age was similar to adults.
 
 The safety and effectiveness of HYRIMOZ have not been established in pediatric patients with Crohn’s disease less than 6 years of age.
+
+Pediatric Uveitis
+
+The safety and effectiveness of HYRIMOZ for the treatment of non-infectious, intermediate, posterior, and panuveitis have been established in pediatric patients 2 years of age and older.
+Use of HYRIMOZ for this indication is supported by evidence from adequate and well-controlled studies of adalimumab in adults and a 2:1 randomized, controlled clinical study of adalimumab in 90 pediatric patients [see Clinical Studies (14.12)].
+The safety and effectiveness of HYRIMOZ have not been established in pediatric patients with uveitis less than 2 years of age.
+
+Hidradenitis Suppurativa
+
+Use of HYRIMOZ in pediatric patients 12 years of age and older for the treatment of moderate to severe HS is supported by evidence from adequate and well-controlled studies of adalimumab in adult HS patients.
+Additional population pharmacokinetic modeling and simulation predicted that weight-based dosing of adalimumab in pediatric patients 12 years of age and older can provide generally similar exposure to adult HS patients.
+The course of HS is sufficiently similar in adult and adolescent patients to allow extrapolation of data from adult to adolescent patients.
+The recommended dosage in pediatric patients 12 years of age or older is based on body weight [see Dosage and Administration (2.7), Clinical Pharmacology (12.3), and Clinical Studies (14.10)].
+
+The safety and effectiveness of HYRIMOZ have not been established in patients less than 12 years of age with HS.
 
 ## 8.5 Geriatric Use
 

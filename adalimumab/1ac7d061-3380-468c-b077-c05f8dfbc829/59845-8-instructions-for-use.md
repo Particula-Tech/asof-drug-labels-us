@@ -362,7 +362,7 @@ Preparing the Sensoready Pen
 - •For a more comfortable injection, take your Sensoready pen out of the refrigerator 15 to 30 minutes before injecting HYRIMOZ to allow it to reach room temperature.
   Do not try to warm the prefilled pen by using a heat source such as hot water or a microwave.
 - •Look through the viewing window.
-  The solution should be clear and colorless to slightly yellowish.
+  The solution should be clear and colorless or slightly yellowish.
   Do not use your Sensoready Pen if the solution is cloudy, discolored, or has flakes or particles in it.
   You may see small air bubbles, which is normal.
   If you are not sure what color the solution should be, then contact your pharmacist for help.
@@ -732,7 +732,7 @@ Contact your pharmacist if:
 | 4.Disposing of used prefilled syringes•Put the used prefilled syringe in an FDA-cleared sharps disposal container right away after use (see Figure H). Do not throw away (dispose of) any prefilled syringes in your household trash.•If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:omade of a heavy-duty plastic, ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, oupright and stable during use, oleak resistant, and oProperly labeled to warn of hazardous waste inside the container. •When your sharps container is almost full, you will need to follow your community guidelines, for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used syringes, needles and prefilled syringes. For more information about safe sharps disposal, and for specific information about sharps disposal, in the state that you live in, go to the FDA’s website at: www.fda.gov/safesharpsdisposal•Do not dispose your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. | Figure H: dispose of the used prefilled syringe. |
 | Manufactured by: Sandoz Inc. Princeton, NJ 08540US License No. 2003All third party trademarks are the property of their respective owners. |  |
 
-1. This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 11/2023
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 11/2023
 
 INSTRUCTIONS FOR USE
 
@@ -818,4 +818,4 @@ Contact your pharmacist if:
 | 4.Disposing of used prefilled syringes•Put the used prefilled syringe in an FDA-cleared sharps disposal container right away after use (see Figure H). Do not throw away (dispose of) any prefilled syringes in your household trash.•If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:omade of a heavy-duty plastic, ocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out, oupright and stable during use, oleak resistant, and oProperly labeled to warn of hazardous waste inside the container. •When your sharps container is almost full, you will need to follow your community guidelines, for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used syringes, needles and prefilled syringes. For more information about safe sharps disposal, and for specific information about sharps disposal, in the state that you live in, go to the FDA’s website at: www.fda.gov/safesharpsdisposal•Do not dispose your used sharps disposal container in your household trash unless your community guidelines permit this. Do not recycle your used sharps disposal container. | Figure H: dispose of the used prefilled syringe. |
 | Manufactured by: Sandoz Inc. Princeton, NJ 08540US License No. 2003All third party trademarks are the property of their respective owners. |  |
 
-1. This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 11/2023
+This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 11/2023
