@@ -7,10 +7,9 @@ Hyponatremia and Fluid Restriction
 - Advise patients to contact a healthcare provider if symptoms of hyponatremia occur.
 - Discuss adjustment of fluid intake and monitoring of urine output with patients.
 
-Manufactured for: Nordic Pharma, Inc. Berwyn, PA 19132
+Manufactured for: Nordic Pharma, Inc. Berwyn, PA 19312
 
 www.nordicpharmausa.com
 
 The Nordic Pharma Logo is a trademark of Nordic Group B.V.
-Origin Sweden Rev.
-06/2024 602339
+Origin Sweden Rev 06/2024 602339
