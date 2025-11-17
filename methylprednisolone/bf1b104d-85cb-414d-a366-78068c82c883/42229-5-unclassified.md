@@ -5,8 +5,8 @@ Not For Intravenous Use
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc New York, NY 10017
+Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10001
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-LAB-0407-14.0 Revised August 2025
+LAB-0407-15.0 Revised September 2025
