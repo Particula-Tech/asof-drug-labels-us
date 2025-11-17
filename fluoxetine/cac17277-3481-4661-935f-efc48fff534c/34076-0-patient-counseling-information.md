@@ -58,7 +58,7 @@ Signs and symptoms of ventricular arrhythmia include fast, slow, or irregular he
 Potential for Cognitive and Motor Impairment
 
 Fluoxetine may impair judgment, thinking, or motor skills.
-Patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected [see Warnings and Precautions(5.12)].
+Patients should be advised to avoid driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected [see Warnings and Precautions (5.12)].
 
 Use of Concomitant Medications
 
