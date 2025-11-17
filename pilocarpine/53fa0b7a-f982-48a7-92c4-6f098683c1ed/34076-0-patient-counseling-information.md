@@ -26,7 +26,13 @@ Systemic Exposure
 
 To limit exposure to pilocarpine to the eye alone, close eyes gently and apply pressure with finger to the corner of eye by the nose for 2 minutes after instillation of pilocarpine hydrochloride ophthalmic solution.
 
-Distributed by:
+update to
+
+Manufactured by
+
+Alcon Laboratories, Inc.
+
+Fort Worth, Texas 76134 for
 
 Sandoz Inc.
 
@@ -34,4 +40,4 @@ Princeton, NJ 08540
 
 T2020-98
 
-300050716 USG
+300072245-0825

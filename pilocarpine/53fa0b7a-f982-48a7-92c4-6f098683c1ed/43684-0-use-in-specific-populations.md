@@ -2,8 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Pregnancy.
-Category C. Animal reproduction studies have not been conducted with pilocarpine hydrochloride.
+Animal reproduction studies have not been conducted with pilocarpine hydrochloride.
 It is also not known whether pilocarpine hydrochloride can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 Pilocarpine hydrochloride ophthalmic solution should be given to a pregnant woman only if clearly needed.
 
