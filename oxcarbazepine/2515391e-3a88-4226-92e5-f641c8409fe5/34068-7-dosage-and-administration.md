@@ -85,7 +85,8 @@ Oxcarbazepine oral suspension can be taken with or without food [see Clinical Ph
 
 Before using oxcarbazepine oral suspension, shake the bottle well and prepare the dose immediately afterwards.
 The prescribed amount of oral suspension should be withdrawn from the bottle using the oral dosing syringe supplied.
+A household teaspoon or tablespoon is not an adequate measuring device and should not be used.
 Oxcarbazepine oral suspension can be mixed in a small glass of water just prior to administration, or alternatively, may be swallowed directly from the syringe.
 After each use, close the bottle and rinse the syringe with warm water, and allow it to dry thoroughly.
 
-Oxcarbazepine oral suspension and oxcarbazepine film-coated tablets may be interchanged at equal doses.
+Oxcarbazepine oral suspension and oxcarbazepine film-coated tablets may be substituted at equal doses.

@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Oxcarbazepine (ox-kar-BAY-zeh-peen) Oral Suspension
+Oxcarbazepine (ox” kar baz’ e peen) Oral Suspension
 
 What is the most important information I should know about oxcarbazepine oral suspension?
 
@@ -76,8 +76,8 @@ What is oxcarbazepine oral suspension?
 Oxcarbazepine oral suspension is a prescription medicine used:
 
 - alone or with other medicines to treat partial-onset seizures in adults.
-- alone to treat partial-onset seizures in children 4 years and older.
-- with other medicines to treat partial-onset seizures in children 2 years and older.
+- alone to treat partial-onset seizures in children 4 years of age and older.
+- with other medicines to treat partial-onset seizures in children 2 years of age and older.
 
 It is not known if oxcarbazepine oral suspension is safe and effective for use alone to treat partial-onset seizures in children less than 4 years of age or for use with other medicines to treat partial-onset seizures in children less than 2 years of age.
 
@@ -98,7 +98,7 @@ Before taking oxcarbazepine oral suspension, tell your healthcare provider about
   Oxcarbazepine oral suspension may cause your birth control medicine to be less effective.
   Talk to your healthcare provider about the best birth control method to use.
 - are pregnant or plan to become pregnant.
-  Oxcarbazepine oral suspension may harm your unborn baby.
+  It is not known if oxcarbazepine oral suspension may harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking oxcarbazepine oral suspension.
   You and your healthcare provider will decide if you should take oxcarbazepine oral suspension while you are pregnant.
   If you become pregnant while taking oxcarbazepine oral suspension, talk to your healthcare provider about registering with the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
@@ -152,11 +152,11 @@ The most common side effects of oxcarbazepine oral suspension include:
 | sleepiness | trembling |
 | double vision | problems with walking and coordination (unsteadiness) |
 | tiredness | rash |
-| nausea |  |
+| nausea | headache |
 | vomiting |  |
 
 These are not all the possible side effects of oxcarbazepine oral suspension.
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+Tell your healthcare provider if you have any side effect that bothers you or does not go away.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
@@ -165,7 +165,7 @@ How should I store oxcarbazepine oral suspension?
 
 - Store oxcarbazepine oral suspension at 20° to 25°C (68° to 77°F); excursions permitted between 15° to 30°C (59° to 86°F).
 - Keep oxcarbazepine oral suspension in the original container and use within 7 weeks of first opening the bottle.
-  Shake well before using.
+  Shake well before each use.
 
 Keep oxcarbazepine oral suspension and all medicines out of the reach of children.
 
@@ -194,4 +194,4 @@ For more information, go to www.amneal.com or call 1-877-835-5472.
 Distributed by: Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-10-2024-06
+10-2025-07
