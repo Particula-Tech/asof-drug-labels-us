@@ -17,7 +17,7 @@ It is very slightly soluble in water, sparingly soluble in methanol, slightly so
 Metformin HCl
 
 Metformin HCl (N,N-dimethylimidodicarbonimidic diamide HCl) is a biguanide.
-Metformin HCl is a white to off-white crystalline compound with a molecular formula of C4H11N5∙HCl and a molecular weight of 165.63.
+Metformin HCl is a white to off-white crystalline compound with a molecular formula of C4H11N5•HCl and a molecular weight of 165.63.
 Metformin HCl is freely soluble in water and is practically insoluble in acetone, ether, and chloroform.
 The pKa of metformin is 12.4.
 The pH of a 1% aqueous solution of metformin HCl is 6.68.

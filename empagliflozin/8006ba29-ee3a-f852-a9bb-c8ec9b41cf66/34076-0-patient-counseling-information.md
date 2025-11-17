@@ -24,11 +24,11 @@ Volume Depletion
 Inform patients that symptomatic hypotension may occur with SYNJARDY or SYNJARDY XR and advise them to contact their healthcare provider if they experience such symptoms [see Warnings and Precautions (5.3)].
 Inform patients that dehydration may increase the risk for hypotension, and to maintain adequate fluid intake.
 
-Urosepsis and Pyelonephritis
+Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier's Gangrene), and Genital Mycotic Infections
 
-Inform patients of the potential for urinary tract infections, which may be serious.
-Provide them with information on the symptoms of urinary tract infections.
-Advise them to seek medical advice if such symptoms occur [see Warnings and Precautions (5.4)].
+Counsel patients that genitourinary infections may occur when taking empagliflozin, a component of SYNJARDY and SYNJARDY XR, and may become serious.
+Educate them on the symptoms and advise them to seek medical advice if symptoms occur.
+Specifically, advise patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.4)].
 
 Hypoglycemia
 
@@ -36,35 +36,19 @@ Inform patients that hypoglycemia has been reported when SYNJARDY or SYNJARDY XR
 Hypoglycemia may occur in pediatric patients regardless of concomitant antidiabetic treatment.
 Educate patients or caregivers on the signs and symptoms of hypoglycemia [see Warnings and Precautions (5.5)].
 
-Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
-
-Inform patients that necrotizing infections of the perineum (Fournier's gangrene) have occurred with empagliflozin, a component of SYNJARDY and SYNJARDY XR.
-Counsel patients to promptly seek medical attention if they develop pain or tenderness, redness, or swelling of the genitals or the area from the genitals back to the rectum, along with a fever above 100.4°F or malaise [see Warnings and Precautions (5.6)].
-
-Genital Mycotic Infections in Females (e.g., Vulvovaginitis)
-
-Inform female patients that vaginal yeast infections may occur and provide them with information on the signs and symptoms of vaginal yeast infections.
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
-
-Genital Mycotic Infections in Males (e.g., Balanitis or Balanoposthitis)
-
-Inform male patients that yeast infection of the penis (e.g., balanitis or balanoposthitis) may occur, especially in uncircumcised males and patients with chronic and recurrent infections.
-Provide them with information on the signs and symptoms of balanitis and balanoposthitis (rash or redness of the glans or foreskin of the penis).
-Advise them of treatment options and when to seek medical advice [see Warnings and Precautions (5.7)].
-
 Lower Limb Amputation
 
 Counsel patients about the importance of routine preventative foot care.
-Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Warnings and Precautions (5.8)].
+Instruct patients to monitor for new pain or tenderness, sores or ulcers, or infections involving the leg or foot and to seek medical advice immediately if such signs or symptoms develop [see Warnings and Precautions (5.6)].
 
 Hypersensitivity Reactions
 
 Inform patients that serious hypersensitivity reactions, such as urticaria and angioedema, have been reported with empagliflozin, a component of SYNJARDY and SYNJARDY XR.
-Advise patients to report immediately any skin reaction or angioedema, and to discontinue the drug until they have consulted prescribing healthcare provider [see Warnings and Precautions (5.9)].
+Advise patients to report immediately any skin reaction or angioedema, and to discontinue the drug until they have consulted prescribing healthcare provider [see Warnings and Precautions (5.7)].
 
 Vitamin B12 Deficiency
 
-Inform patients about the importance of regular hematological parameters while receiving SYNJARDY or SYNJARDY XR [see Warnings and Precautions (5.10)].
+Inform patients about the importance of regular hematological parameters while receiving SYNJARDY or SYNJARDY XR [see Warnings and Precautions (5.8)].
 
 Laboratory Tests
 
