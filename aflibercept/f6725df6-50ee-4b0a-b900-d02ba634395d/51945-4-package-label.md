@@ -15,7 +15,7 @@ Discard unused portion
 
 Rx ONLY
 
-SANOFI
+sanofi
 
 # PRINCIPAL DISPLAY PANEL - 200 mg/8 mL Vial Carton
 
@@ -34,4 +34,4 @@ Discard unused portion
 
 Rx ONLY
 
-SANOFI
+sanofi
