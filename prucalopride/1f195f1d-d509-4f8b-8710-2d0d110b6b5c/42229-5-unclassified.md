@@ -12,4 +12,4 @@
 | What are the ingredients in prucalopride tablets? Active ingredient: prucalopride Inactive ingredients: colloidal silicon dioxide, crospovidone, lactose monohydrate, magnesium stearate and microcrystalline cellulose. The coating contains hypromellose, lactose monohydrate, polyethylene glycol, titanium dioxide and triacetin. The 2 mg tablet also contains red iron oxide, yellow iron oxide and FD&C Blue #2. |
 | Manufactured by MSN Laboratories Private Limited Telangana – 509 228, INDIA Distributed by: Novadoz Pharmaceuticals LLC Piscataway, NJ 08854 – 3714 The brands listed are trademarks or registered trademarks of their respective owners and are not affiliated with and do not endorse Novadoz Pharmaceuticals LLC. For more information, go to www.novadozpharma.com or call novadoz at 1-855-668-2369. |
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Issued: 01/2025
+This Patient Information has been approved by the U.S. Food and Drug Administration Revised: 08/2025

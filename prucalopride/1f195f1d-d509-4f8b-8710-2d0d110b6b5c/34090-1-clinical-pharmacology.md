@@ -24,7 +24,7 @@ The terminal half-life is approximately 1 day.
 Pharmacokinetic parameters in patients with CIC are similar to those seen in healthy subjects.
 Absorption Following a single oral dose of 2 mg prucalopride in healthy subjects, peak plasma concentrations are observed within 2 to 3 hours after administration.
 The absolute oral bioavailability is >90%.
-Effect of Food Concomitant intake with a high-fat meal (1000 kcal total, 500 kcal from fat) does not influence the oral bioavailability of prucalopride [see Dosage and Administration (2)].
+Effect of Food Concomitant intake with a high-fat meal (1,000 kcal total, 500 kcal from fat) does not influence the oral bioavailability of prucalopride [see Dosage and Administration (2)].
 Distribution Prucalopride has a steady-state volume of distribution (Vss) of 567 liters after intravenous administration.
 The plasma protein binding of prucalopride is approximately 30%.
 Elimination Renal excretion is the main route of elimination of prucalopride.
@@ -38,7 +38,7 @@ On average, 84.2% of administered radioactive dose was recovered in urine and 13
 Seven metabolites were recovered in urine and feces, with the most abundant metabolite (O-desmethyl prucalopride acid) accounting for 3.2% and 3.1% of the dose in urine and feces, respectively.
 None of the other metabolites accounted for more than 3% of the dose.
 Renal elimination of prucalopride involves both passive filtration and active secretion.
-Use in Specific Populations Population pharmacokinetic analysis of a combined study population of 1343 subjects indicated that there were no clinically significant differences in the pharmacokinetics of prucalopride based on age (17 to 95 years), sex, race (89% white, 7% black, 4% other), or body weight (37 to 161 kg), after accounting for the effect of renal function.
+Use in Specific Populations Population pharmacokinetic analysis of a combined study population of 1,343 subjects indicated that there were no clinically significant differences in the pharmacokinetics of prucalopride based on age (17 to 95 years), sex, race (89% white, 7% black, 4% other), or body weight (37 to 161 kg), after accounting for the effect of renal function.
 Geriatric Patients After once daily dosing of 1 mg, peak plasma concentrations (Cmax) and AUC of prucalopride in geriatric subjects were 26% to 28% higher than in younger adult subjects.
 The effect of age appeared to be related to decreased renal function in the elderly.
 Additionally, a population pharmacokinetic analysis indicated that age was not a significant covariate, after accounting for the effect of renal function [see Use in Specific Populations (8.5)].

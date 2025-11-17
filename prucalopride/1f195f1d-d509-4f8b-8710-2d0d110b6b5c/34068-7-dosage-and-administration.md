@@ -7,4 +7,4 @@ Table 1: Recommended Dosage Regimen and Dosage Adjustments by Population
 | Population with CIC | Recommended Oral Dose Regimen |
 | --- | --- |
 | Adults | 2 mg once daily |
-| Patients with severe renal impairment (creatinine clearance (CrCL) less than 30 mL/min) [seeUse in Specific Populations (8.5and 8.6)]. | 1 mg once daily |
+| Patients with severe renal impairment (creatinine clearance (CrCL) less than 30 mL/min) [see Use in Specific Populations (8.5, 8.6)]. | 1 mg once daily |
