@@ -16,6 +16,6 @@ Instruct patients that prior to dosing, peel open the blister pack and place the
 
 Rx Only
 
-Made in India Marketed by: Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067, USA Revised: 09/2025
+Made in USA Marketed by: Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067, USA Revised: 10/2025
 
 .

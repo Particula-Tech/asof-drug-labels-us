@@ -117,4 +117,4 @@ Discard when expired.
 All brands mentioned are trademarks of their respective owners and are not trademarks of Jubilant Generics Limited.
 Rx Only
 
-Made in India Marketed by: Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067, USA Revised: 09/2025
+Made in USA Marketed by: Jubilant Cadista Pharmaceuticals Inc. Yardley, PA 19067, USA Revised: 10/2025
