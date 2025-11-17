@@ -5,7 +5,7 @@
 The efficacy of clozapine in treatment-resistant schizophrenia was established in a multicenter, randomized, double-blind, active-controlled (chlorpromazine) study in patients with a DSM-III diagnosis of schizophrenia who had inadequate responses to at least 3 different antipsychotics (from at least 2 different chemical classes) during the preceding 5 years.
 The antipsychotic trials must have been judged adequate; the antipsychotic dosages must have been equivalent to or greater than 1000 mg per day of chlorpromazine for a period of at least 6 weeks, each without significant reduction of symptoms.
 There must have been no period of good functioning within the preceding 5 years.
-Patients must have had a baseline score of at least 45 on the investigator-rated Brief Psychiatric Rating Scale (BPRS).
+Patients must have had a baseline score of at least 45 on the investigator-rated BriefPsychiatric Rating Scale (BPRS).
 On the 18-item BPRS, 1 indicates the absence of symptoms, and 7 indicates severe symptoms; the maximum potential total BPRS score is 126.
 At baseline, the mean BPRS score was 61.
 In addition, patients must have had a score of at least 4 on at least two of the following four individual BPRS items: conceptual disorganization, suspiciousness, hallucinatory behavior, and unusual thought content.

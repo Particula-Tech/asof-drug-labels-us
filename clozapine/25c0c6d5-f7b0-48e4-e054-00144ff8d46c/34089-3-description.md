@@ -5,7 +5,7 @@ Clozapine, an atypical antipsychotic drug, is a tricyclic dibenzodiazepine deriv
 
 The structural formula is
 
-Clozapine is available in pale yellow tablets of 25 mg and 100 mg for oral administration.
+Clozapine tablets, USP is available in pale yellow tablets of 25 mg and 100 mg for oral administration.
 
 Active Ingredient: clozapine
 
