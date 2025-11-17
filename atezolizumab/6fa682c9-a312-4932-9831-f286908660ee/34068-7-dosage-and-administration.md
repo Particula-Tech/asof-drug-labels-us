@@ -36,7 +36,7 @@ Table 2: Recommended Dosage of TECENTRIQ in Combination with Other Therapeutic A
 | NSCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to chemotherapy and bevacizumab when given on the same day. | Until disease progression or unacceptable toxicity |
 | SCLC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to chemotherapy when given on the same day. |  |
 | HCC | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ prior to bevacizumab when given on the same day. Bevacizumab is administered at 15 mg/kg every 3 weeks. |  |
-| Melanoma | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ with cobimetinib 60 mg orally once daily (21 days on and 7 days off) and vemurafenib 720 mg orally twice daily. Prior to initiating TECENTRIQ, patients should receive a 28 day treatment cycle of cobimetinib 60 mg orally once daily (21 days on and 7 days off) and vemurafenib 960 mg orally twice daily from Days 1-21 and vemurafenib 720 mg orally twice daily from Days 22-28. |  |
+| Melanoma | 840 mg every 2 weeks or1200 mg every 3 weeks or1680 mg every 4 weeks Administer TECENTRIQ with cobimetinib 60 mg orally once daily (21 days on and 7 days off) and vemurafenib 720 mg orally twice daily. Prior to initiating TECENTRIQ, patients should receive a 28-day treatment cycle of cobimetinib 60 mg orally once daily (21 days on and 7 days off) and vemurafenib 960 mg orally twice daily from Days 1-21 and vemurafenib 720 mg orally twice daily from Days 22-28. |  |
 
 ## 2.3 Dosage Modifications for Adverse Reactions
 

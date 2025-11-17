@@ -32,7 +32,7 @@ Atezolizumab clearance was found to decrease over time, with a mean maximal redu
 
 Specific Populations
 
-The following factors had no clinically significant effect on the systemic exposure of atezolizumab: age (2 to 89 years), body weight, sex, albumin levels, tumor burden, region or race, mild or moderate renal impairment [estimated glomerular filtration rate (eGFR) 30 to 89 mL/min/1.73 m2], mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1 to 1.5 × ULN and any AST), moderate hepatic impairment (bilirubin >1.5 to 3× ULN and any AST), level of PD-L1 expression, or performance status.
+The following factors had no clinically significant effect on the systemic exposure of atezolizumab: age (2 to 89 years), body weight, sex, albumin levels, tumor burden, region or race, mild or moderate renal impairment [estimated glomerular filtration rate (eGFR) 30 to 89 mL/min/1.73 m2], mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1 to 1.5 × ULN and any AST), moderate hepatic impairment (bilirubin >1.5 to 3 × ULN and any AST), level of PD-L1 expression, or performance status.
 
 Pediatric Patients
 
@@ -47,11 +47,11 @@ During the first year of treatment with TECENTRIQ across 8 clinical studies, 13%
 Median atezolizumab clearance in patients who tested positive for ADA was 19% (minimum 18%, maximum 49%) higher as compared to atezolizumab clearance in patients who tested negative for ADA; this change in clearance is not expected to be clinically significant.
 
 In OAK and IMbrave150, exploratory analyses showed that the subset of patients who were ADA-positive appeared to have less efficacy (effect on overall survival) as compared to patients who tested negative for ADA [see Clinical Studies (14.1, 14.3)].
-In study IMpower150, the impact of ADA on efficacy did not appear to be clinically significant [see Clinical Studies (14.1)].
+In study IMpower150 and IMforte, the impact of ADA on efficacy did not appear to be clinically significant [see Clinical Studies (14.1)].
 In the remaining studies, there is insufficient information to characterize the effect of ADA on efficacy.
 
 The presence of ADA did not have a clinically significant effect on the incidence or severity of adverse reactions.
 
-Across clinical studies, 4.3% to 27.5% of neutralizing antibody (NAb)-evaluable patients had a positive NAb status at any timepoint post-treatment.
+Across clinical studies, the incidence of neutralizing antibodies (NAb) in ADA-positive patients was 24% to 83%.
 The effect of NAb on atezolizumab exposure and safety did not appear to be clinically significant.
 The effect of NAb on key efficacy endpoints is uncertain due to small sample sizes.

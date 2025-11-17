@@ -69,8 +69,20 @@ No new safety signals were observed in pediatric patients in this study.
 
 ## 8.5 Geriatric Use
 
+TECENTRIQ as a Single-Agent
+
 Of 2616 patients with metastatic NSCLC and other tumor types treated with single agent TECENTRIQ in clinical studies, 49% were 65 years and over and 15% were 75 years and over.
+
+No overall differences in safety or effectiveness were observed between patients aged 65 years or older and younger patients.
+
+TECENTRIQ in Combination with Other Antineoplastic Drugs
 
 Of 2421 patients with NSCLC and SCLC treated with TECENTRIQ in combination with other antineoplastic drugs in clinical studies, 48% were 65 years and over and 10% were 75 years and over.
 
 No overall differences in safety or effectiveness were observed between patients aged 65 years or older and younger patients.
+
+TECENTRIQ in Combination with Lurbinectedin
+
+Of the 242 patients with ES-SCLC treated with TECENTRIQ in combination with lurbinectedin in IMforte, 124 (51%) patients were 65 years of age and older, while 29 (12%) patients were 75 years of age and older.
+No overall differences in effectiveness were observed between older and younger patients.
+There was a higher incidence of Grade 3 or 4 adverse reactions (45% vs 31%) and treatment discontinuation (11% vs 0.8%) in patients ≥ 65 years of age compared to younger patients, respectively.

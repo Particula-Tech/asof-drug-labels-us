@@ -11,7 +11,8 @@
 
 ## 1.2 Small Cell Lung Cancer
 
-TECENTRIQ, in combination with carboplatin and etoposide, is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC).
+- TECENTRIQ, in combination with carboplatin and etoposide, is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC).
+- TECENTRIQ, in combination with lurbinectedin, is indicated for the maintenance treatment of adult patients with ES-SCLC whose disease has not progressed after first-line induction therapy with TECENTRIQ or atezolizumab and hyaluronidase-tqjs, carboplatin and etoposide.
 
 ## 1.3 Hepatocellular Carcinoma
 

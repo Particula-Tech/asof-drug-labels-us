@@ -14,7 +14,7 @@ The data described in WARNINGS AND PRECAUTIONS reflect exposure to TECENTRIQ as 
 TECENTRIQ was administered at a dose of 1200 mg intravenously every 3 weeks in all studies except PCD4989g.
 Among the 2616 patients who received a single-agent TECENTRIQ, 36% were exposed for longer than 6 months and 20% were exposed for longer than 12 months.
 Using the dataset described for patients who received TECENTRIQ as a single-agent, the most common adverse reactions in ≥ 20% of patients were fatigue/asthenia (48%), decreased appetite (25%), nausea (24%), cough (22%), and dyspnea (22%).
-In addition, the data reflect exposure to TECENTRIQ as a single agent as adjuvant therapy in 495 patients with early stage NSCLC enrolled in a randomized study (IMpower010).
+In addition, the data reflect exposure to TECENTRIQ as a single agent as adjuvant therapy in 495 patients with early-stage NSCLC enrolled in a randomized study (IMpower010).
 
 In addition, the data reflect exposure to TECENTRIQ in combination with other antineoplastic drugs in 2421 patients with NSCLC (N = 2223) or SCLC (N = 198) enrolled in five randomized, active-controlled trials, including IMpower150, IMpower130 and IMpower133.
 Among the 2421 patients, 53% were exposed to TECENTRIQ for longer than 6 months and 29% were exposed to TECENTRIQ for longer than 12 months.
@@ -44,7 +44,7 @@ Adverse reactions leading to interruption of TECENTRIQ occurred in 29% of patien
 
 Tables 4 and 5 summarize adverse reactions and selected laboratory abnormalities in patients receiving TECENTRIQ in IMpower010.
 
-Table 4: Adverse Reactions Occurring in ≥10% of Patients with Early Stage NSCLC Receiving TECENTRIQ in IMpower010
+Table 4: Adverse Reactions Occurring in ≥10% of Patients with Early-Stage NSCLC Receiving TECENTRIQ in IMpower010
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -65,7 +65,7 @@ Table 4: Adverse Reactions Occurring in ≥10% of Patients with Early Stage NSCL
 | Musculoskeletal painIncludes myalgia, bone pain, back pain, spinal pain, musculoskeletal chest pain, pain in extremity, neck pain, non-cardiac chest pain, musculoskeletal discomfort, musculoskeletal stiffness, musculoskeletal pain | 14 | 0.8 | 9 | 0.2 |
 | ArthralgiaIncludes arthralgia, arthritis | 11 | 0.6 | 6 | 0 |
 
-Table 5: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with Early Stage NSCLC Receiving TECENTRIQ in IMpower010
+Table 5: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with Early-Stage NSCLC Receiving TECENTRIQ in IMpower010
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -281,12 +281,14 @@ Table 11: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% o
 
 Previously Treated Metastatic NSCLC
 
+OAK
+
 The safety of TECENTRIQ was evaluated in OAK, a multicenter, international, randomized, open-label trial in patients with metastatic NSCLC who progressed during or following a platinum-containing regimen, regardless of PD-L1 expression [see Clinical Studies (14.1)].
 A total of 609 patients received TECENTRIQ 1200 mg intravenously every 3 weeks until unacceptable toxicity, radiographic progression, or clinical progression or docetaxel (n=578) 75 mg/m2 intravenously every 3 weeks until unacceptable toxicity or disease progression.
 The study excluded patients with active or prior autoimmune disease or with medical conditions that required systemic corticosteroids.
 The median duration of exposure was 3.4 months (0 to 26 months) in TECENTRIQ-treated patients and 2.1 months (0 to 23 months) in docetaxel-treated patients.
 
-The study population characteristics were: median age of 63 years (25 to 85 years), 46% age 65 years or older, 62% male, 71% White, 20% Asian, 68% former smoker, 16% current smoker, and 63% had ECOG performance status of 1.
+The study population characteristics were: median age of 63 years (25 to 85 years), 46% age 65 years or older, 62% male, 71% White, 20% Asian, 68% former smoker, 16% current smoker, and 63% had Eastern Cooperative Oncology Group (ECOG) performance status of 1.
 
 Fatal adverse reactions occurred in 1.6% of patients; these included pneumonia, sepsis, septic shock, dyspnea, pulmonary hemorrhage, sudden death, myocardial ischemia or renal failure.
 
@@ -343,6 +345,8 @@ Table 13: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% o
 | Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: TECENTRIQ (range: 546–585) and docetaxel (range: 532–560). Graded according to NCI CTCAE version 4.0 |  |  |  |  |
 
 Small Cell Lung Cancer (SCLC)
+
+IMpower133
 
 The safety of TECENTRIQ with carboplatin and etoposide was evaluated in IMpower133, a randomized, multicenter, double-blind, placebo-controlled trial in which 198 patients with ES-SCLC received TECENTRIQ 1200 mg and carboplatin AUC 5 mg/mL/min on Day 1 and etoposide 100 mg/m2 intravenously on Days 1, 2 and 3 of each 21-day cycle for a maximum of 4 cycles, followed by TECENTRIQ 1200 mg every 3 weeks until disease progression or unacceptable toxicity [see Clinical Studies (14.2)].
 Among 198 patients receiving TECENTRIQ, 32% were exposed for 6 months or longer and 12% were exposed for 12 months or longer.
@@ -402,7 +406,70 @@ Table 15: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% o
 | Increased TSH | 21 | NA | 7 | NA |
 | Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: TECENTRIQ (range: 181-193); Placebo (range: 181-196). Graded per NCI CTCAE v4.0 |  |  |  |  |
 
+IMforte
+
+The safety of TECENTRIQ in combination with lurbinectedin was evaluated in IMforte [see Clinical Studies (14.2)].
+Patients received TECENTRIQ 1200 mg IV and lurbinectedin 3.2 mg/m2 IV, on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
+Primary prophylaxis of G-CSF was administered to 84% of patients.
+Among 242 patients receiving TECENTRIQ with lurbinectedin, the median duration of exposure to TECENTRIQ was 4.2 months, with 34% of patients exposed for 6 months or longer and 8% of patients exposed for 12 months or longer.
+
+Serious adverse reactions occurred in 31% of patients receiving TECENTRIQ with lurbinectedin.
+Serious adverse reactions in >2% of patients were pneumonia (2.5%), respiratory tract infection (2.1%), dyspnea (2.1%), and decreased platelet count (2.1%).
+Fatal adverse reactions occurred in 5% of patients receiving TECENTRIQ with lurbinectedin including pneumonia (3 patients), sepsis (3 patients), cardio-respiratory arrest (2 patients), myocardial infarction (2 patients) and febrile neutropenia (1 patient).
+
+Permanent discontinuation of TECENTRIQ due to an adverse reaction occurred in 2.5% of patients.
+The adverse reactions requiring permanent discontinuation in ≥ 1% of patients who received TECENTRIQ were immune-mediated nephritis, peripheral neuropathy, nephropathy, pneumonitis, anemia, neutropenia, and thrombocytopenia.
+
+Dosage interruptions of TECENTRIQ due to an adverse reaction occurred in 29% of patients.
+Adverse reactions which required dosage interruption in ≥ 2% of patients included anemia, fatigue, decreased neutrophil count, pneumonitis, and decreased platelet count.
+
+Tables 16 and 17 summarize adverse reactions and laboratory abnormalities, respectively, in patients who received TECENTRIQ with lurbinectedin in IMforte.
+
+Table 16: Adverse Reactions (≥10%) in Patients with ES-SCLC Who Received TECENTRIQ with Lurbinectedin in IMforte
+
+| All Grades (%) | Grades 3 or 4 (%) | All Grades (%) | Grades 3 or 4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | TECENTRIQ with Lurbinectedin N = 242 |  | TECENTRIQ N = 240 |  |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 36 | 3 | 4 | 1 |
+| DiarrheaIncludes diarrhea and colitis. | 15 | 0 | 8 | 0 |
+| Vomiting | 14 | 1 | 3 | 0 |
+| Constipation | 12 | 0 | 6 | 1 |
+| General disorders and administration site conditions |  |  |  |  |
+| FatigueIncludes fatigue and asthenia. | 32 | 5 | 13 | 2 |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Musculoskeletal PainIncludes arthralgia, arthritis, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, and pain in extremity. | 19 | 2 | 16 | 1 |
+| Metabolism and Nutrition |  |  |  |  |
+| Decreased appetite | 17 | 0 | 7 | 0 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| CoughIncludes cough, productive cough, and upper-airway cough syndrome. | 12 | 0 | 8 | 0 |
+| DyspneaIncludes dyspnea and dyspnea exertional. | 11 | 2 | 10 | 2 |
+| Graded per NCI CTCAE v5.0 |  |  |  |  |
+
+Clinically relevant adverse reactions in < 10% of patients who received TECENTRIQ in combination with lurbinectedin included pneumonia, phlebitis, extravasation resulting in skin necrosis, hypersensitivity and increased creatine phosphokinase.
+
+Table 17: Select Laboratory Abnormalities (≥20%) That Worsened from Baseline in Patients with ES-SCLC Who Received TECENTRIQ in Combination with Lurbinectedin in IMforte
+
+| All Grades (%) | Grades 3 or 4 (%) | All Grades (%) | Grades 3 or 4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory Abnormality | TECENTRIQ with Lurbinectedin N = 242 |  | TECENTRIQ N = 240 |  |
+| Hematology |  |  |  |  |
+| Lymphopenia | 55 | 17 | 31 | 11 |
+| Thrombocytopenia | 54 | 15 | 15 | 3 |
+| Anemia | 51 | 13 | 12 | 3 |
+| Neutropenia | 36 | 18 | 7 | 4 |
+| Chemistry |  |  |  |  |
+| Increased alkaline phosphatase | 29 | 1 | 14 | 0 |
+| Decreased sodium | 27 | 4 | 30 | 5 |
+| Increased ALT | 25 | 3 | 18 | 2 |
+| Increased AST | 24 | 3 | 22 | 1 |
+| Decreased calcium | 24 | 3 | 8 | 1 |
+| Increased creatinine | 21 | 3 | 14 | 0 |
+| Graded per NCI CTCAE v5.0 |  |  |  |  |
+
 Hepatocellular Carcinoma (HCC)
+
+IMbrave150
 
 The safety of TECENTRIQ in combination with bevacizumab was evaluated in IMbrave150, a multicenter, international, randomized, open-label trial in patients with locally advanced or metastatic or unresectable hepatocellular carcinoma who have not received prior systemic treatment [see Clinical Studies (14.3)].
 Patients received 1,200 mg of TECENTRIQ intravenously followed by 15 mg/kg bevacizumab (n=329) every 3 weeks, or 400 mg of sorafenib (n=156) given orally twice daily, until disease progression or unacceptable toxicity.
@@ -421,9 +488,9 @@ Adverse reactions leading to interruption of TECENTRIQ occurred in 41% of patien
 
 Immune-related adverse reactions requiring systemic corticosteroid therapy occurred in 12% of patients in the TECENTRIQ and bevacizumab arm.
 
-Tables 16 and 17 summarize adverse reactions and laboratory abnormalities, respectively, in patients who received TECENTRIQ and bevacizumab in IMbrave150.
+Tables 18 and 19 summarize adverse reactions and laboratory abnormalities, respectively, in patients who received TECENTRIQ and bevacizumab in IMbrave150.
 
-Table 16: Adverse Reactions Occurring in ≥10% of Patients with HCC Receiving TECENTRIQ in IMbrave150
+Table 18: Adverse Reactions Occurring in ≥10% of Patients with HCC Receiving TECENTRIQ in IMbrave150
 
 | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -454,7 +521,7 @@ Table 16: Adverse Reactions Occurring in ≥10% of Patients with HCC Receiving T
 | Injury, Poisoning and Procedural Complications |  |  |  |  |
 | Infusion-Related Reaction | 11 | 2.4 | 0 | 0 |
 
-Table 17: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with HCC Receiving TECENTRIQ in IMbrave150
+Table 19: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with HCC Receiving TECENTRIQ in IMbrave150
 
 | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -481,6 +548,8 @@ Table 17: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% o
 
 Melanoma
 
+IMspire150
+
 The safety of TECENTRIQ, administered with cobimetinib and vemurafenib was evaluated in IMspire150, a double-blind, randomized (1:1), placebo-controlled study conducted in patients with previously untreated BRAF V600 mutation-positive metastatic or unresectable melanoma [see Clinical Studies (14.4)].
 Patients received TECENTRIQ with cobimetinib and vemurafenib (N=230) or placebo with cobimetinib and vemurafenib (n=281).
 
@@ -498,23 +567,23 @@ The most frequent (≥ 2%) adverse reactions leading to TECENTRIQ discontinuatio
 Adverse reactions leading to interruption of TECENTRIQ occurred in 68% of patients in the TECENTRIQ plus cobimetinib and vemurafenib arm.
 The most frequent (≥ 2%) adverse reactions leading to TECENTRIQ interruption were pyrexia (14%), increased ALT (13%), hyperthyroidism (10%), increased AST (10%), increased lipase (9%), increased amylase (7%), pneumonitis (5%), increased CPK (4.3%), diarrhea (3.5%), pneumonia (3.5%), asthenia (3%), rash (3%), influenza (3%), arthralgia (2.6%), fatigue (2.2%), dyspnea (2.2%), cough (2.2%), peripheral edema (2.2%), uveitis (2.2%), bronchitis (2.2%), hypothyroidism (2.2%), and respiratory tract infection (2.2%).
 
-Tables 18 and 19 summarize the incidence of adverse reactions and laboratory abnormalities in Study IMspire150.
+Tables 20 and 21 summarize the incidence of adverse reactions and laboratory abnormalities in Study IMspire150.
 
-Table 18: Adverse Reactions Occurring in ≥10% of Patients on the TECENTRIQ plus Cobimetinib and Vemurafenib Arm or the Placebo plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4 TECENTRIQ in IMspire150)
+Table 20: Adverse Reactions Occurring in ≥10% of Patients on the TECENTRIQ plus Cobimetinib and Vemurafenib Arm or the Placebo plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4 TECENTRIQ in IMspire150)
 
 | All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | TECENTRIQ in combination with Cobimetinib and Vemurafenib (n=230) |  | Placebo with Cobimetinib and Vemurafenib (n=281) |  |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-| RashIncludes rash, rash maculo-papular, dermatitis acneiform, rash macular, rash erythematous, eczema, skin exfoliation, rash papular, rash pustular, palmar-plantar erythrodysaesthesia syndrome, dermatitis, dermatitis contact, erythema multiforme, rash pruritic, drug eruption, nodular rash, dermatitis allergic, exfoliative rash, dermatitis exfoliative generalised and rash morbilliform | 75 | 27 | 72 | 23 |
+| RashIncludes rash, rash maculo-papular, dermatitis acneiform, rash macular, rash erythematous, eczema, skin exfoliation, rash papular, rash pustular, palmar-plantar erythrodysesthesia syndrome, dermatitis, dermatitis contact, erythema multiforme, rash pruritic, drug eruption, nodular rash, dermatitis allergic, exfoliative rash, dermatitis exfoliative generalized and rash morbilliform | 75 | 27 | 72 | 23 |
 | Pruritus | 26 | <1 | 17 | <1 |
 | Photosensitivity reaction | 21 | <1 | 25 | 3.2 |
 | General Disorders and Administration Site Conditions |  |  |  |  |
 | Fatigue Includes fatigue, asthenia and malaise | 51 | 3 | 45 | 1.8 |
 | Pyrexia Includes pyrexia and hyperpyrexia | 49 | 1.7 | 35 | 2.1 |
-| Edema Includes edema peripheral, lymphoedema, oedema, face oedema, eyelid oedema, periorbital oedema, lip oedema and generalised oedema | 26 | <1 | 21 | 0 |
+| Edema Includes edema peripheral, lymphoedema, edema, face edema, eyelid edema, periorbital edema, lip edema and generalized edema | 26 | <1 | 21 | 0 |
 | Gastrointestinal Disorders |  |  |  |  |
-| Hepatotoxicity Includes alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, transaminases increased, hepatitis, hepatic enzyme increased, hepatotoxicity, hypertransaminasaemia, bilirubin conjugated increased, hepatocellular injury, hyperbilirubinaemia, liver function test increased, hepatic failure, hepatitis fulminant and liver function test abnormal | 50 | 21 | 36 | 13 |
+| Hepatotoxicity Includes alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, transaminases increased, hepatitis, hepatic enzyme increased, hepatotoxicity, hypertransaminasemia, bilirubin conjugated increased, hepatocellular injury, hyperbilirubinemia, liver function test increased, hepatic failure, hepatitis fulminant and liver function test abnormal | 50 | 21 | 36 | 13 |
 | Nausea | 30 | <1 | 32 | 2.5 |
 | Stomatitis Includes stomatitis, mucosal inflammation, aphthous ulcer, mouth ulceration, cheilitis and glossitis | 23 | 1.3 | 15 | <1 |
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
@@ -547,7 +616,7 @@ Respiratory, thoracic and mediastinal disorders: Dyspnea, oropharyngeal pain
 
 Skin and Subcutaneous Tissue Disorders: Vitiligo
 
-Table 19: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% of Patients Receiving TECENTRIQ Plus Cobimetinib and Vemurafenib Arm or the Placebo Plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4) in IMspire150
+Table 21: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% of Patients Receiving TECENTRIQ Plus Cobimetinib and Vemurafenib Arm or the Placebo Plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4) in IMspire150
 
 | All Grades (%) | Grade 3–4 (%) | All Grades (%) | Grade 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -584,6 +653,8 @@ Table 19: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% 
 
 Unresectable or Metastatic Alveolar Soft Part Sarcoma (ASPS)
 
+ML39345 Study
+
 The safety of TECENTRIQ was evaluated in 47 adult and 2 pediatric patients enrolled in Study ML39345 [see Clinical Studies (14.5)].
 Adult patients received TECENTRIQ 1200 mg every 3 weeks and pediatric patients received 15 mg/kg up to a maximum 1200 mg every 3 weeks until disease progression or unacceptable toxicity.
 The median duration of exposure to TECENTRIQ was 8.9 months (1 to 40 months).
@@ -594,9 +665,9 @@ The most frequent serious adverse reactions (>2%) were fatigue, pain in extremit
 Dosage interruptions of TECENTRIQ due to an adverse reaction occurred in 35% of patients.
 The most common adverse reactions (≥3%) leading to dose interruptions were pneumonitis and pain in extremity (4.1% each).
 
-Tables 20 and 21 summarize adverse reactions and laboratory abnormalities in Study ML39345.
+Tables 22 and 23 summarize adverse reactions and laboratory abnormalities in Study ML39345.
 
-Table 20: Adverse Reactions Occurring in ≥15% of Patients with ASPS Receiving TECENTRIQ in ML39345
+Table 22: Adverse Reactions Occurring in ≥15% of Patients with ASPS Receiving TECENTRIQ in ML39345
 
 | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |
@@ -639,7 +710,7 @@ Table 20: Adverse Reactions Occurring in ≥15% of Patients with ASPS Receiving 
 | Weight increased | 16 | 6 |
 | Graded per NCI CTCAE v4.0 |  |  |
 
-Table 21: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with ASPS Receiving TECENTRIQ in ML39345
+Table 23: Laboratory Abnormalities Worsening from Baseline Occurring in ≥20% of Patients with ASPS Receiving TECENTRIQ in ML39345
 
 | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |
