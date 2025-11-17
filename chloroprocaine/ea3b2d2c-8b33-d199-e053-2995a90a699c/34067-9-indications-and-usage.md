@@ -1,3 +1,3 @@
 # 1 INDICATIONS AND USAGE
 
-IHEEZO TM is indicated for ocular surface anesthesia.
+IHEEZO TMis indicated for ocular surface anesthesia.

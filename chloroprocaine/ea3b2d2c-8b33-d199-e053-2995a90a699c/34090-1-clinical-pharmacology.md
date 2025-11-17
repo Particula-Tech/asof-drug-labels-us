@@ -10,7 +10,7 @@ Clinically, the order of loss of nerve function is as follows: (1) pain, (2) tem
 
 ## 12.3 Pharmacokinetics
 
-The systemic exposure to chloroprocaine following topical ocular administration of IHEEZO TM has not been studied.
+The systemic exposure to chloroprocaine following topical ocular administration of IHEEZO TMhas not been studied.
 
 Elimination
 

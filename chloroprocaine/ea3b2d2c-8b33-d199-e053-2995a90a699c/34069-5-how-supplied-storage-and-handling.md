@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-IHEEZO TM (chloroprocaine hydrochloride ophthalmic gel) 3% is supplied as a sterile, clear, colorless to light yellow gel in a single-patient‑use vial.
+IHEEZO TM(chloroprocaine hydrochloride ophthalmic gel) 3% is supplied as a sterile, clear, colorless to light yellow gel in a single-patient‑use vial.
 Each single‑patient‑use vial contains 24 mg chloroprocaine in 800 mg of gel.
 
 Aluminum pouch containing 1 LDPE single-patient‑use vial of IHEEZO TM.
