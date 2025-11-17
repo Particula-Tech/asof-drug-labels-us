@@ -2,7 +2,7 @@
 
 ## 2.1 General Considerations
 
-Epinephrine in Sodium Chloride Injection is a ready to administer product that requires no further dilution prior to infusion.
+Epinephrine in 0.9% Sodium Chloride Injection is a ready to administer product that requires no further dilution prior to infusion.
 Inspect visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 Do not use if the solution is colored or cloudy, or if it contains particulate matter.
 Discard all unused drug.
