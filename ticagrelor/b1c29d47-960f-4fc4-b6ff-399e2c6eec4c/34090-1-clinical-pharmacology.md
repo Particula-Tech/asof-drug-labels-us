@@ -45,7 +45,7 @@ The primary route of elimination for the major metabolite of ticagrelor is most 
 The mean t1/2 is approximately 7 hours for ticagrelor and 9 hours for the active metabolite.
 Specific Populations The effects of age, gender, ethnicity, renal impairment and mild hepatic impairment on the pharmacokinetics of ticagrelor are presented in Figure 7.
 Effects are modest and do not require dose adjustment.
-Patients with End-Stage Renal Disease on Hemodialysis In patients with end stage renal disease on hemodialysis AUC and Cmax of ticagrelor, 90 mg administered on a day without dialysis were 38% and 51% higher respectively, compared to subjects with normal renal function.
+Patients with End-Stage Renal Disease on Hemodialysis In patients with end stage renal disease on hemodialysis AUC and Cmax of ticagrelor 90 mg administered on a day without dialysis were 38% and 51% higher respectively, compared to subjects with normal renal function.
 A similar increase in exposure was observed when ticagrelor was administered immediately prior to dialysis showing that ticagrelor is not dialyzable.
 Exposure of the active metabolite increased to a lesser extent.
 The IPA effect of ticagrelor was independent of dialysis in patients with end stage renal disease and similar to healthy adults with normal renal function.

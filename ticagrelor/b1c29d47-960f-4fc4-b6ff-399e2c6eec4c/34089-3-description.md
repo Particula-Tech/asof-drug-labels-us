@@ -8,3 +8,6 @@ The chemical structure of ticagrelor is:
 Ticagrelor is a crystalline powder with an aqueous solubility of approximately 10 mcg/mL at room temperature.
 Ticagrelor 90 mg tablets for oral administration contain 90 mg of ticagrelor and the following ingredients: croscarmellose sodium, dibasic calcium phosphate, hydroxypropyl cellulose, magnesium stearate and mannitol.
 The tablets are film-coated with a coating material containing hydroxypropyl methylcellulose, iron oxide red, iron oxide yellow, polyethylene glycol 400, talc and titanium dioxide.
+
+Ticagrelor 60 mg tablets for oral administration contain 60 mg of ticagrelor and the following ingredients: croscarmellose sodium, dibasic calcium phosphate, hydroxypropyl cellulose, magnesium stearate and mannitol.
+The tablets are film-coated with a coating material containing hydroxypropyl methylcellulose, iron oxide red, iron oxide yellow, polyethylene glycol 400, talc and titanium dioxide.

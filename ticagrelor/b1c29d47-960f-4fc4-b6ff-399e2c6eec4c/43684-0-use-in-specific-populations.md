@@ -27,7 +27,9 @@ Breastfeeding is not recommended during treatment with ticagrelor.
 ## 8.4 Pediatric Use
 
 The safety and effectiveness of ticagrelor have not been established in pediatric patients.
-Effectiveness was not demonstrated in an adequate and well-controlled study conducted in 101 ticagrelor-treated pediatric patients, aged 2 to <18 for reducing the rate of vaso-occlusive crises in sickle cell disease.
+
+Pediatric use information describing a clinical study in which efficacy was not demonstrated is approved for AstraZeneca Pharmaceuticals LP’s BRILINTA (ticagrelor) tablets.
+However, due to AstraZeneca Pharmaceuticals LP’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 

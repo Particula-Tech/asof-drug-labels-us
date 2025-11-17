@@ -14,4 +14,4 @@ Advise women that breastfeeding is not recommended during treatment with ticagre
 
 Dispense with Medication Guide available at: www.NovadozPharma.com/Products
 
-Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA Distributed by: Novadoz Pharmaceuticals LLC Piscataway, NJ 08854-3714 Revised: 03/2025
+Manufactured by: MSN Laboratories Private Limited Telangana – 509 228, INDIA Distributed by: Novadoz Pharmaceuticals LLC Piscataway, NJ 08854-3714 Revised: 09/2025
