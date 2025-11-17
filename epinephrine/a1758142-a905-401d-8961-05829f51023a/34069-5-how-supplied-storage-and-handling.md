@@ -13,6 +13,8 @@ Table 4: Neffy Strengths and Package Configurations
 
 Storage and Handling
 
+Store neffy nasal spray in the blister pack until ready to use.
+
 Store at 68°F to 77°F (20°C to 25°C).
 Excursions permitted up to 122°F (50°C).
 
