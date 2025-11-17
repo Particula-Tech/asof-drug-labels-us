@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA219935"
+  ],
+  "inn": "famotidine",
+  "labeler": "Sagent Pharmaceuticals",
+  "package_ndcs": [
+    "25021-755-05",
+    "25021-756-10",
+    "25021-756-50"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "famotidine",
+      "name": "Famotidine"
+    }
+  ],
+  "setid": "9710995d-b518-40ce-bc2b-8b5dcf002c31",
+  "source": "dailymed"
+}
