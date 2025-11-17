@@ -12,9 +12,9 @@ Inform women of the importance of not taking doxylamine succinate and pyridoxine
 
 Inform women that use of doxylamine succinate and pyridoxine hydrochloride delayed-release tablets may result in false positive urine drug screening for methadone, opiates and PCP.
 
-Dispense with Patient Package Insert available at: www.tevausa.com/PatientPI
+Manufactured For:
 
-Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
+Teva Pharmaceuticals Parsippany, NJ 07054
 
 Rev.
-B 10/2023
+C 9/2025

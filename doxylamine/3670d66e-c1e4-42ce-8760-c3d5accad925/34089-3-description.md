@@ -1,9 +1,9 @@
 # 11 DESCRIPTION
 
-Doxylamine succinate and pyridoxine hydrochloride delayed-release tablets are round, unscored, white to off white, biconvex film-coated, delayed-release tablets containing 10 mg of doxylamine succinate, USP and 10 mg of pyridoxine hydrochloride, USP.
+Doxylamine succinate and pyridoxine hydrochloride delayed-release tablets are round, white to off white, biconvex film-coated, delayed-release tablets containing 10 mg of doxylamine succinate, USP and 10 mg of pyridoxine hydrochloride, USP.
 Tablets are printed with “2132” on one side with black ink and plain on the other.
 
-Inactive ingredients are as follows: colloidal silicon dioxide, croscarmellose sodium, hypromellose, iron oxide black, magnesium stearate, magnesium trisilicate, methacrylic acid and ethyl acrylate copolymer, microcrystalline cellulose, polyethylene glycol, polysorbate, propylene glycol, talc, titanium dioxide.
+Inactive ingredients are as follows: colloidal silicon dioxide, croscarmellose sodium, hypromellose, iron oxide black, magnesium stearate, magnesium trisilicate, methacrylic acid and ethyl acrylate copolymer, microcrystalline cellulose, polyethylene glycol 400, polyethylene glycol 8000, polysorbate 80, propylene glycol, talc, titanium dioxide.
 
 Doxylamine Succinate
 

@@ -70,6 +70,7 @@ How should I store doxylamine succinate and pyridoxine hydrochloride delayed-rel
 - Store doxylamine succinate and pyridoxine hydrochloride delayed-release tablets between 68° to 77°F (20° to 25°C).
 - Keep doxylamine succinate and pyridoxine hydrochloride delayed-release tablets dry, in a tightly closed container, and out of the light.
 - Safely throw away medicine that is out of date or no longer needed.
+- Doxylamine succinate and pyridoxine hydrochloride delayed-release tablets come in a bottle with a child-resistant cap.
 
 Keep doxylamine succinate and pyridoxine hydrochloride delayed-release tablets and all medicines out of the reach of children.
 
@@ -82,9 +83,9 @@ It may harm them.
 
 What are the ingredients in doxylamine succinate and pyridoxine hydrochloride delayed-release tablets?
 Active ingredient: doxylamine succinate (an antihistamine) and pyridoxine hydrochloride (vitamin B6).
-Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, iron oxide black, magnesium stearate, magnesium trisilicate, methacrylic acid and ethyl acrylate copolymer, microcrystalline cellulose, polyethylene glycol, polysorbate, propylene glycol, talc, titanium dioxide.
+Inactive ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, iron oxide black, magnesium stearate, magnesium trisilicate, methacrylic acid and ethyl acrylate copolymer, microcrystalline cellulose, polyethylene glycol 400, polyethylene glycol 8000, polysorbate 80, propylene glycol, talc, titanium dioxide.
 
-Manufactured For: Teva Pharmaceuticals Parsippany, NJ 07054
+Manufactured For: Teva Pharmaceuticals, Parsippany, NJ 07054
 
 This Patient Information has been approved by the U.S. Food and Drug Administration Rev.
-B 10/2023
+C 9/2025

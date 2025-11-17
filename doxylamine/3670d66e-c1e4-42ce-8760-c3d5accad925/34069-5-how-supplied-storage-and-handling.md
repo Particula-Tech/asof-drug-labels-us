@@ -3,7 +3,7 @@
 ## 16.1 How supplied
 
 Doxylamine succinate and pyridoxine hydrochloride delayed-release tablets 100 bottle count is supplied in a high-density polyethylene bottle with a polypropylene child-resistant cap and a silica gel desiccant canister.
-Each white to off white, unscored, round, biconvex film-coated, delayed-release tablet contains 10 mg doxylamine succinate, USP and 10 mg pyridoxine hydrochloride, USP and is printed with “2132” on one side with black ink and plain on the other.
+Each white to off white, round, biconvex film-coated, delayed-release tablet contains 10 mg doxylamine succinate, USP and 10 mg pyridoxine hydrochloride, USP and is printed with “2132” on one side with black ink and plain on the other.
 
 Doxylamine succinate and pyridoxine hydrochloride delayed-release tablets are provided as follows:
 
