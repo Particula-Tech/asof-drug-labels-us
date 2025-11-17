@@ -23,7 +23,7 @@ Individuals genetically deficient in IL-12/IL-23 are particularly vulnerable to 
 Serious infections and fatal outcomes have been reported in such patients.
 
 It is not known whether patients with pharmacologic blockade of IL-12/IL-23 from treatment with ustekinumab products may be susceptible to these types of infections.
-Consider appropriate diagnostic testing (e.g., tissue culture, stool culture, as dictated by clinical circumstances).
+Consider appropriate diagnostic testing, (e.g., tissue culture, stool culture, as dictated by clinical circumstances).
 
 ## 5.3 Pre-treatment Evaluation for Tuberculosis
 
@@ -42,7 +42,7 @@ In rodent models, inhibition of IL-12/IL-23p40 increased the risk of malignancy 
 
 The safety of ustekinumab products has not been evaluated in patients who have a history of malignancy or who have a known malignancy.
 
-There have been postmarketing reports of the rapid appearance of multiple cutaneous squamous cell carcinomas in patients receiving ustekinumab products who had pre-existing risk factors for developing non-melanoma skin cancer.
+There have been post-marketing reports of the rapid appearance of multiple cutaneous squamous cell carcinomas in patients receiving ustekinumab products who had pre-existing risk factors for developing non-melanoma skin cancer.
 Monitor all patients receiving WEZLANA for the appearance of non-melanoma skin cancer.
 Closely follow patients greater than 60 years of age, those with a medical history of prolonged immunosuppressant therapy and those with a history of PUVA treatment [see Adverse Reactions (6.1)].
 
@@ -54,7 +54,7 @@ If an anaphylactic or other clinically significant hypersensitivity reaction occ
 ## 5.6 Posterior Reversible Encephalopathy Syndrome (PRES)
 
 Two cases of posterior reversible encephalopathy syndrome (PRES), also known as Reversible Posterior Leukoencephalopathy Syndrome (RPLS), were reported in clinical trials.
-Cases have also been reported in postmarketing experience in patients with psoriasis, psoriatic arthritis and Crohn's disease.
+Cases have also been reported in postmarketing experience in patients with psoriasis, psoriatic arthritis, and Crohn's disease.
 Clinical presentation included headaches, seizures, confusion, visual disturbances, and imaging changes consistent with PRES a few days to several months after ustekinumab product initiation.
 A few cases reported latency of a year or longer.
 Patients recovered with supportive care following withdrawal of ustekinumab products.
@@ -73,7 +73,7 @@ Non-live vaccinations received during a course of WEZLANA may not elicit an immu
 
 ## 5.8 Noninfectious Pneumonia
 
-Cases of interstitial pneumonia, eosinophilic pneumonia and cryptogenic organizing pneumonia have been reported during post-approval use of ustekinumab products.
+Cases of interstitial pneumonia, eosinophilic pneumonia, and cryptogenic organizing pneumonia have been reported during post-approval use of ustekinumab products.
 Clinical presentations included cough, dyspnea, and interstitial infiltrates following one to three doses.
 Serious outcomes have included respiratory failure and prolonged hospitalization.
 Patients improved with discontinuation of therapy and in certain cases administration of corticosteroids.
