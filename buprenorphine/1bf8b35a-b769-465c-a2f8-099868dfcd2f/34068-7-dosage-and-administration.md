@@ -14,8 +14,8 @@ Provision of multiple refills is not advised early in treatment or without appro
 ## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
 Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
-Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing or recommending an overdose reversal agent for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Buprenorphine Sublingual Tablets.
-Also consider prescribing or recommending such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.2)].
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider recommending or prescribing an overdose reversal agent for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Buprenorphine Sublingual Tablets.
+Also consider recommending or prescribing such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.2)].
 
 Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.2)].
 

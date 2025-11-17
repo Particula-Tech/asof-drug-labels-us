@@ -16,8 +16,7 @@ Inform patients that they can visit www.fda.gov/drugdisposal for a complete list
 Before initiating treatment with Buprenorphine Sublingual Tablets, explain the points listed below to caregivers and patients.
 Instruct patients to read the Medication Guide each time Buprenorphine Sublingual Tablets are dispensed because new information may be available.
 
-- •Inform patients and caregivers that potentially fatal additive effects may occur if Buprenorphine Sublingual Tablets are used with benzodiazepines or other CNS depressants, including alcohol.
-  Counsel patients that such medications should not be used concomitantly unless supervised by a health care provider [see Warnings and Precautions (5.2, 5.3), Drug Interactions (7)].
+- •Inform patients and caregivers that potentially fatal additive effects may occur if Buprenorphine Sublingual Tablets are used with benzodiazepines or other CNS depressants (e.g., alcohol, non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
 - •Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.2)].
 - •Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
   Because patients being treated for opioid use disorder are at risk for relapse, discuss the importance of having access to an opioid overdose reversal agent.
@@ -34,4 +33,4 @@ Berkeley Heights, NJ 07922
 
 C50000231/13a
 
-Revised August 2025
+Revised October 2025

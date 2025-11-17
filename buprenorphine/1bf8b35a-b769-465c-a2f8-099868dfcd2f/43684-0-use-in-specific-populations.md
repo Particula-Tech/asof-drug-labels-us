@@ -37,7 +37,10 @@ Observe newborns for signs of neonatal opioid withdrawal syndrome and manage acc
 
 Labor or delivery: Opioid-dependent women on buprenorphine maintenance therapy may require additional analgesia during labor.
 
-Data:
+Opioids cross the placenta and may product respiratory depression and psycho-physiologic effects in neonates.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid induced respiratory depression in the neonate.
+
+Data
 
 Human Data: Studies have been conducted to evaluate neonatal outcomes in women exposed to buprenorphine during pregnancy.
 Limited data from trials, observational studies, case series, and case reports on buprenorphine use in pregnancy do not indicate an increased risk of major malformations specifically due to buprenorphine.

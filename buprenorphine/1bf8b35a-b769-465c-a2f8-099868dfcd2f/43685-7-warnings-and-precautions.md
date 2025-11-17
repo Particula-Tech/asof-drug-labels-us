@@ -40,7 +40,7 @@ Emphasize the importance of calling 911 or getting emergency medical help, even 
 
 ## 5.3 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Concomitant use of buprenorphine and benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepines, sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids, and other opioids) increases the risk of adverse reactions including overdose, respiratory depression, and death.
+Concomitant use of buprenorphine and benzodiazepines and/or other CNS depressants (e.g., alcohol, non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids) increases the risk of adverse reactions including overdose, respiratory depression, and death.
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
 Prohibiting or creating barriers to treatment can pose an even greater risk of morbidity and mortality due to the opioid use disorder alone.
 
@@ -59,7 +59,7 @@ For patients in buprenorphine treatment, benzodiazepines are not the treatment o
 Before co-prescribing benzodiazepines, ensure that patients are appropriately diagnosed and consider alternative medications and non-pharmacologic treatments to address anxiety or insomnia.
 Ensure that other healthcare providers prescribing benzodiazepines or other CNS depressants are aware of the patient’s buprenorphine treatment and coordinate care to minimize the risks associated with concomitant use.
 
-If concomitant use is warranted, consider prescribing an opioid overdose reversal agent, as is recommended for all patients on buprenorphine treatment for opioid use disorder [see Dosage and Administration (2.2), Warnings and Precautions (5.2), Overdosage (10)].
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent, as is recommended for all patients on buprenorphine treatment for opioid use disorder [see Dosage and Administration (2.2), Warnings and Precautions (5.2), Overdosage (10)].
 
 In addition, take measures to confirm that patients are taking their medications as prescribed and are not diverting or supplementing with illicit drugs.
 Toxicology screening should test for prescribed and illicit benzodiazepines [see Drug Interactions (7)].

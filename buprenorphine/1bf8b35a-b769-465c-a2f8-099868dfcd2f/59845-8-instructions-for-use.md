@@ -45,6 +45,6 @@ Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
 C50000231/13a
 
-Revised August 2025
+Revised October 2025
 
 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.
