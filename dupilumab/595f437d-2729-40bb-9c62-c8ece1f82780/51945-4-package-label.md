@@ -1,4 +1,4 @@
-# PRINCIPAL DISPLAY PANEL - 300 mg/2 mL Syringe Carton - 5914
+# PRINCIPAL DISPLAY PANEL - 300 mg/2 mL Syringe Carton
 
 NDC 0024-5914-01
 
@@ -10,7 +10,7 @@ DUPIXENT® (dupilumab) Injection
 
 For Subcutaneous Use Only.
 
-300 mg/2 mL
+300 mg/2 mL Per Pre-filled Syringe
 
 2 Single-dose Pre-filled Syringes with Needle Shield
 
@@ -35,7 +35,7 @@ DUPIXENT® (dupilumab) Injection
 
 For Subcutaneous Use Only.
 
-200 mg/1.14 mL
+200 mg/1.14 mL Per Pre-filled Syringe
 
 2 Single-dose Pre-filled Syringes with Needle Shield
 
@@ -48,11 +48,9 @@ Dosage and Administration: See package insert for dosage information and directi
 
 sanofi | REGENERON
 
-# PRINCIPAL DISPLAY PANEL - 300 mg/2 mL Pre-filled Pen Carton
+# PRINCIPAL DISPLAY PANEL - 300 mg/2 mL Pen Carton
 
-NDC 0024-5915-02
-
-Rx Only
+NDC 0024-5915-02 Rx Only
 
 DUPIXENT® (dupilumab) Injection Single-dose Pre-filled Pen
 
@@ -71,15 +69,13 @@ Do NOT freeze.
 Do NOT heat.
 Dosage and Administration: See package insert for dosage information and directions for use.
 
-300 mg/2 mL
+300 mg/2 mL Per Pre-filled Pen
 
 sanofi | REGENERON
 
-# PRINCIPAL DISPLAY PANEL - 200 mg/1.14 mL Pre-filled Pen Carton
+# PRINCIPAL DISPLAY PANEL - 200 mg/1.14 mL Pen Carton
 
-NDC 0024-5919-02
-
-Rx Only
+NDC 0024-5919-02 Rx Only
 
 DUPIXENT® (dupilumab) Injection Single-dose Pre-filled Pen
 
@@ -98,7 +94,7 @@ Do not freeze.
 Do not heat.
 Dosage and Administration: See package insert for dosage information and directions for use.
 
-200 mg/1.14 mL
+200 mg/1.14 mL Per Pre-filled Pen
 
 sanofi | REGENERON
 
