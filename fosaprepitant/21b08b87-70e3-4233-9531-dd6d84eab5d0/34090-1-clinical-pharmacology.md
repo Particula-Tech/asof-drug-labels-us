@@ -73,8 +73,22 @@ Table 10 Systemic Exposures of Aprepitant for 3-Day IV/Oral/Oral Regimen in Pedi
 
 †NE = Not Estimated.
 The geometric mean could not be estimated due to values being below the limitation of quantification.
-Plasma concentrations of fosaprepitant are negligible within 15 to 30 minutes after the completion of the infusion in pediatric patients.
 
+3-Day IV/IV/IV Aprepitant Regimen: Simulated aprepitant systemic exposures in patients 6 months to 17 years are shown in Table 11, including AUC0-24hr, peak plasma concentration (Cmax) on Day 1 and concentrations at the end of Day 1 (C24), Day 2 (C48) and Day 3 (C72).
+
+Table 11 Systemic Exposures of Aprepitant for 3-Day IV/IV/IV Regimen in Pediatric Patients
+
+| Population | 3-Day Dose of Aprepitant (IV/IV/IV)* | Geometric Mean |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| AUC 0-24hr. (mcg*hr/mL) | Cmax (mcg/mL) | C24 (mcg/mL) | C48 (mcg/mL) | C72 (mcg/mL) |  |  |
+| 12 Years to 17 Years | 115/80/80 mg | 21.1 | 2.5 | 0.4 | 0.4 | 0.4 |
+| 6 Years to less than 12 Years | 3/2/2 mg/kg | 25.6 | 2.7 | 0.5 | 0.4 | 0.4 |
+| 2 Years to less than 6 Years | 20.3 | 2.3 | 0.3 | 0.2 | 0.2 |  |
+| 6 Months to less than 2 Years | 16.7 | 1.9 | 0.2 | 0.2 | 0.2 |  |
+
+*IV on Day 1, Day 2, and Day 3
+
+Plasma concentrations of fosaprepitant are negligible within 15 to 30 minutes after the completion of the infusion in pediatric patients.
 Sex Following oral administration of a single dose of aprepitant, ranging from 40 mg to 375 mg, the AUC0-24hr and Cmax are 9% and 17% higher in females as compared with males.
 The half-life of aprepitant is approximately 25% lower in females as compared with males and Tmax occurs at approximately the same time.
 These differences are not considered clinically meaningful.
@@ -140,6 +154,3 @@ Co-administration of fosaprepitant and diltiazem; however, did not result in any
 
 Paroxetine: Coadministration of once daily doses of oral aprepitant 170 mg, with paroxetine 20 mg once daily, resulted in a decrease in AUC by approximately 25% and Cmax by approximately 20% of both aprepitant and paroxetine.
 This effect was not considered clinically important.
-
-Additional pediatric use information is approved for Merck Sharp & Dohme LLC’s EMEND (fosaprepitant) for injection.
-However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.

@@ -22,9 +22,9 @@ Table 12 Treatment Regimens in Adult HEC Trial*
 | Oral dexamethasone§ | 12 mg | 8 mg | 8 mg | 8 mg |
 | Ondansetron | Ondansetron‡ | none | none | none |
 
-* Fosaprepitant for injection placebo, fosaprepitant capsules placebo and dexamethasone placebo (in the evenings on Days 3 and 4) were used to maintain blinding. † Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4.
+* Fosaprepitant for injection placebo, aprepitant capsules placebo and dexamethasone placebo (in the evenings on Days 3 and 4) were used to maintain blinding. † Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4.
 Dexamethasone was also administered in the evenings on Days 3 and 4.
-The 12 mg dose of dexamethasone on Day 1 and the 8 mg once daily dose on Day 2 reflects a dosage adjustment to account for a drug interaction with the fosaprepitant for injection regimen [see Clinical Pharmacology (12.3)]. ‡ Ondansetron 32 mg intravenous was used in the clinical trials of fosaprepitant for injection.
+The 12 mg dose of dexamethasone on Day 1 and the 8 mg once daily dose on Day 2 reflects a dosage adjustment to account for a drug interaction with the fosaprepitant for injection regimen [see Clinical Pharmacology (12.3)]. ‡ Ondansetron 32 mg intravenous was used in the clinical trials of fosaprepitant/aprepitant.
 Although this dose was used in clinical trials, this is no longer the currently recommended dose.
 Refer to the ondansetron prescribing information for the current recommended dose. § Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 through 4.
 The 12 mg dose of dexamethasone on Day 1 and the 8 mg once daily dose on Days 2 through 4 reflects a dosage adjustment to account for a drug interaction with the oral aprepitant regimen [see Clinical Pharmacology (12.3)].
@@ -51,7 +51,7 @@ Table 13 Percent of Adult Patients Receiving HEC Responding by Treatment Group a
 
 ## 14.2 Prevention of Nausea and Vomiting Associated with MEC in Adults
 
-In a randomized, parallel, double-blind, active comparator-controlled study, fosaprepitant for injection 150 mg as a single intravenous infusion (N=502) in combination with ondansetron and dexamethasone (fosaprepitant for injection regimen) was compared with ondansetron and dexamethasone alone (standard therapy) (N=498) (see Table 14) in patients receiving a MEC regimen.
+In a randomized, parallel, double-blind, active comparator-controlled study, fosaprepitant for injection 150 mg as a single intravenous infusion (N=502) in combination with ondansetron and dexamethasone (fosaprepitant regimen) was compared with ondansetron and dexamethasone alone (standard therapy) (N=498) (see Table 14) in patients receiving a MEC regimen.
 Patient demographics were similar between the two treatment groups.
 Of the total 1,000 patients included in the efficacy analysis, 41% were men, 84% White, 4% Asian, 1% American Indian/Alaska Native, 2% Black, 10% Multi-Racial, and 19% Hispanic/Latino ethnicity.
 Patient ages ranged from 23 to 88 years of age, with a mean age of 60 years.

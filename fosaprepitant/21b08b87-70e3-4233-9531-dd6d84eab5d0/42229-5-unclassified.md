@@ -9,7 +9,7 @@ Fosaprepitant for injection is a prescription medicine used with other medicines
 Who should not receive fosaprepitant for injection?
 Do not receive fosaprepitant for injection if you: • are allergic to fosaprepitant, aprepitant, or any of the ingredients in fosaprepitant for injection.
 See the end of this leaflet for a complete list of the ingredients in fosaprepitant for injection. • are taking pimozide (ORAP®) What should I tell my healthcare provider before receiving fosaprepitant for injection?
-Before receiving fosaprepitant for injection, tell your healthcare provider if you: • have liver problems • are pregnant or plan to become pregnant.
+Before receiving fosaprepitant for injection, tell your healthcare provider if you: • have liver problems. • are pregnant or plan to become pregnant.
 It is not known if fosaprepitant for injection can harm your unborn baby. o Women who use birth control medicines containing hormones to prevent pregnancy (birth control pills, skin patches, implants, and certain IUDs) should also use a backup method of birth control that does not contain hormones, such as condoms and spermicides, during treatment with fosaprepitant for injection and for 1 month after receiving fosaprepitant for injection. • are breastfeeding or plan to breastfeed.
 It is not known if fosaprepitant passes into your breast milk.
 Talk to your healthcare provider about the best way to feed your baby if you receive fosaprepitant for injection.
@@ -25,7 +25,7 @@ Children 6 months to 17 years of age: Fosaprepitant for injection will be given 
 Depending on the chemotherapy treatment, there are 2 ways that fosaprepitant for injection may be given: 1.
 Fosaprepitant for injection is given on Day 1 only (single day of chemotherapy).
 2.
-Fosaprepitant for injection is given on Day 1 (single or multiple days of chemotherapy). • Your child may receive capsules of aprepitant or an oral suspension of aprepitant on Day 2 and 3.
+Fosaprepitant for injection is given on Days 1, 2, and 3 (single or multiple days of chemotherapy). • Your child may receive capsules of aprepitant or an oral suspension of aprepitant instead of fosaprepitant for injection on Day 2 and 3.
 If your child will receive either of these, see the Patient Information for aprepitant capsules or aprepitant for oral suspension for further information.
 If you take the blood thinner medicine warfarin sodium (COUMADIN®, JANTOVEN®), your healthcare provider may do blood tests after you receive fosaprepitant for injection to check your blood clotting.
 What are the possible side effects of fosaprepitant for injection?
@@ -46,11 +46,9 @@ If you would like more information about fosaprepitant for injection, talk with 
 You can ask your healthcare provider or pharmacist for information about fosaprepitant for injection that is written for health professionals.
 For more information about fosaprepitant for injection call 1-877-648-9517.
 What are the ingredients in fosaprepitant for injection?
-Active ingredient: fosaprepitant Inactive ingredients: edetate disodium, polysorbate 80, lactose anhydrous, sodium hydroxide and/or hydrochloric acid (for pH adjustment) Additional pediatric use information is approved for Merck Sharp & Dohme LLC’s EMEND (fosaprepitant) for injection.
-However, due to Merck Sharp & Dohme LLC’s marketing exclusivity rights, this drug product is not labeled with that information.
-Distributed by: BE Pharmaceuticals Inc. 203 New Edition Court Cary, NC 27511 Manufactured by:
+Active ingredient: fosaprepitant Inactive ingredients: edetate disodium, polysorbate 80, lactose anhydrous, sodium hydroxide and/or hydrochloric acid (for pH adjustment) Distributed by: BE Pharmaceuticals Inc. 203 New Edition Court Cary, NC 27511 Manufactured by:
 
 Biological E. Limited Plot No.4, Survey no. 542/P, Biotech Park Phase-II, Kolthur Village, Shameerpet Mandal, Medchal, Telangana 500078, India.
 The brands listed in the above sections “Who should not receive fosaprepitant for injection?” and “How will I receive fosaprepitant for injection?” are the registered trademarks of their respective owners and are not trademarks of Biological E. Limited.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: September 2024
+Revised: October 2025
