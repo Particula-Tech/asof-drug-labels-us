@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA219130"
+  ],
+  "inn": "escitalopram",
+  "labeler": "Almatica Pharma LLC",
+  "package_ndcs": [
+    "52427-795-30"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "escitalopram",
+      "name": "escitalopram"
+    }
+  ],
+  "setid": "c0401570-a3b0-bef2-7365-c23dc952b8b6",
+  "source": "dailymed"
+}
