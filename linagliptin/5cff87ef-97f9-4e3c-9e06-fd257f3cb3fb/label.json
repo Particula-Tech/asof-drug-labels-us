@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA208459"
+  ],
+  "inn": "linagliptin",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-407-01",
+    "72205-407-02",
+    "72205-408-01",
+    "72205-408-02",
+    "72205-409-01",
+    "72205-409-02"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "linagliptin and metformin hydrochloride",
+      "name": "Linagliptin and metformin hydrochloride"
+    }
+  ],
+  "setid": "5cff87ef-97f9-4e3c-9e06-fd257f3cb3fb",
+  "source": "dailymed"
+}
