@@ -1,5 +1,7 @@
 # 5. WARNINGS AND PRECAUTIONS
 
+.
+
 ## 5.1 Abuse, Misuse, and Addiction
 
 ADZENYS XR-ODT has a high potential for abuse and misuse.
@@ -43,6 +45,8 @@ In a pooled analysis of multiple short-term, placebo-controlled studies of CNS s
 If such symptoms occur, conisder discontinuing ADZENYS XR-ODT.
 
 ## 5.5 Long-Term Suppression of Growth in Pediatric Patients
+
+ADZENYS XR-ODT is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Population (8.4)].
 
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 Closely monitor growth (weight and height) in ADZENYS XR-ODT-treated pediatric patients treated with CNS stimulants.
