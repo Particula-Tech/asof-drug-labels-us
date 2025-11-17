@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "ANDA070868"
+  ],
+  "inn": "valproic-acid",
+  "labeler": "Xttrium Laboratories Inc.",
+  "package_ndcs": [
+    "0116-4021-05",
+    "0116-4021-10",
+    "0116-4021-11",
+    "0116-4021-16",
+    "0116-4021-40",
+    "0116-4021-41"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "valproic acid",
+      "name": "Valproic Acid"
+    }
+  ],
+  "setid": "3b124a29-30bd-d30e-e063-6294a90ac4ca",
+  "source": "dailymed"
+}

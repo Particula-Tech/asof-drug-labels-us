@@ -1,0 +1,6 @@
+# 2 DOSAGE AND ADMINISTRATION
+
+Valproic Acid Oral Solution is intended for oral administration.
+(2.1)
+
+Simple and Complex Absence Seizures: Start at 10 to 15 mg/kg/day, increasing at 1 week intervals by 5 to 10 mg/kg/week until seizure control or limiting side effects (2.1) Safety of doses above 60 mg/kg/day is not established (2.1, 2.2)
