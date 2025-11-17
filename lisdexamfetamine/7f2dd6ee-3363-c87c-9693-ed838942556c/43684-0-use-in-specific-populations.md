@@ -5,7 +5,7 @@
 Pregnancy Exposure Registry
 
 There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to ADHD medications during pregnancy.
-Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychostimulants at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/clinical-and-researchprograms/pregnancyregistry/adhdmedications/.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Psychostimulants at 1-866-961-2388 or visiting online at https://womensmentalhealth.org/clinical-and researchprograms/pregnancyregistry/adhdmedications/.
 
 Risk Summary
 
@@ -61,11 +61,11 @@ Because of the potential for serious adverse reactions in nursing infants, inclu
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of lisdexamfetamine dimesylate capsules have not been established in pediatric patients below the age of 6 years.
+
 ADHD
 
 Safety and effectiveness of lisdexamfetamine dimesylate capsules have been established in pediatric patients with ADHD ages 6 to 17 years [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
-
-Safety and effectiveness of lisdexamfetamine dimesylate capsules have not been established in pediatric patients below the age of 6 years.
 
 Safety and efficacy of lisdexamfetamine dimesylate capsules were evaluated in a double-blind, randomized, parallel-group, placebo-controlled, fixed-dose study in pediatric patients ages 4 to 5 years with ADHD, followed by a 1-year open-label extension study.
 In these studies, patients experienced elevated rates of adverse reactions, including weight loss, decreased BMI, decreased appetite, insomnia, infections (upper respiratory and nasopharyngitis), irritability, and affect lability.
@@ -100,7 +100,7 @@ In general, dose selection for an elderly patient should start at the low end of
 
 ## 8.6 Renal Impairment
 
-Due to reduced clearance in patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m2), the maximum dose should not exceed 50 mg/day.
-The maximum recommended dose in ESRD (GFR < 15 mL/min/1.73 m2) patients is 30 mg/day [see Clinical Pharmacology (12.3)].
+Due to reduced clearance in patients with severe renal impairment (GFR 15 to <30 mL/min/1.73 m2), the maximum dose should not exceed 50 mg/day.
+The maximum recommended dose in ESRD (GFR <15 mL/min/1.73 m2) patients is 30 mg/day [see Clinical Pharmacology (12.3)].
 
 Lisdexamfetamine and d-amphetamine are not dialyzable.

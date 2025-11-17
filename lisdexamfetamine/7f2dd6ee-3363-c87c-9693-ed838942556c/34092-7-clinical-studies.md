@@ -8,7 +8,7 @@ A double-blind, randomized, placebo-controlled, parallel-group study (Study 1) w
 Patients were randomized to receive final doses of 30 mg, 50 mg, or 70 mg of lisdexamfetamine dimesylate or placebo once daily in the morning for a total of four weeks of treatment.
 All patients receiving lisdexamfetamine dimesylate were initiated on 30 mg for the first week of treatment.
 Patients assigned to the 50 mg and 70 mg dose groups were titrated by 20 mg per week until they achieved their assigned dose.
-The primary efficacy outcome was change in Total Score from baseline to endpoint in investigator ratings on the ADHD Rating Scale (ADHD-RS), an 18-item questionnaire with a score range of 0-54 points that measures the core symptoms of ADHD which includes both hyperactive/ impulsive and inattentive subscales.
+The primary efficacy outcome was change in Total Score from baseline to endpoint in investigator ratings on the ADHD Rating Scale (ADHD-RS), an 18-item questionnaire with a score range of 0-54 points that measures the core symptoms of ADHD which includes both hyperactive/impulsive and inattentive subscales.
 Endpoint was defined as the last post-randomization treatment week (i.e., Weeks 1 through 4) for which a valid score was obtained.
 All lisdexamfetamine dimesylate dose groups were superior to placebo in the primary efficacy outcome.
 Mean effects at all doses were similar; however, the highest dose (70 mg/day) was numerically superior to both lower doses (Study 1 in Table 6).
@@ -39,7 +39,8 @@ Pediatric Patients Ages 6 to 17 Years: Short-Term Treatment in ADHD
 A double-blind, randomized, placebo- and active-controlled parallel-group, dose-optimization study (Study 5) was conducted in pediatric patients ages 6 to 17 years (n=336) who met DSM-IV criteria for ADHD.
 In this eight-week study, patients were randomized to a daily morning dose of lisdexamfetamine dimesylate (30 mg/day, 50 mg/day or 70 mg/day), an active control, or placebo (1:1:1).
 The study consisted of a Screening and Washout Period (up to 42 days), a 7-week Double-blind Evaluation Period (consisting of a 4-week Dose-Optimization Period followed by a 3-week Dose-Maintenance Period), and a 1-week Washout and Follow-up Period.
-During the Dose Optimization Period, subjects were titrated until an optimal dose, based on tolerability and investigator’s judgment, was reached.Lisdexamfetamine dimesylate showed significantly greater efficacy than placebo.
+During the Dose Optimization Period, subjects were titrated until an optimal dose, based on tolerability and investigator’s judgment, was reached.
+Lisdexamfetamine dimesylate showed significantly greater efficacy than placebo.
 The placebo-adjusted mean reduction from baseline in the ADHD-RS-IV total score was 18.6.
 Subjects on lisdexamfetamine dimesylate also showed greater improvement on the Clinical Global Impression-Improvement (CGI-I) rating scale compared to subjects on placebo (Study 5 in Table 6).
 
@@ -50,7 +51,7 @@ A total of 276 patients were enrolled into the study, 236 patients participated 
 Subjects were treated with open-label lisdexamfetamine dimesylate for at least 26 weeks prior to being assessed for entry into the randomized withdrawal period.
 Eligible patients had to demonstrate treatment response as defined by CGI-S <3 and Total Score on the ADHD-RS ≤22.
 Patients that maintained treatment response for 2 weeks at the end of the open label treatment period were eligible to be randomized to ongoing treatment with the same dose of lisdexamfetamine dimesylate (N=78) or switched to placebo (N=79) during the double-blind phase.
-Patients were observed for relapse (treatment failure) during the 6 week double blind phase.
+Patients were observed for relapse (treatment failure) during the 6 week double-blind phase.
 A significantly lower proportion of treatment failures occurred among lisdexamfetamine dimesylate subjects (15.8%) compared to placebo (67.5%) at endpoint of the randomized withdrawal period.
 The endpoint measurement was defined as the last post-randomization treatment week at which a valid ADHD-RS Total Score and CGI-S were observed.
 Treatment failure was defined as a ≥50% increase (worsening) in the ADHD-RS Total Score and a ≥2-point increase in the CGI-S score compared to scores at entry into the double-blind randomized withdrawal phase.
@@ -92,7 +93,7 @@ Table 6: Summary of Primary Efficacy Results from Short-term Studies of Lisdexam
 | --- | --- | --- | --- | --- | --- |
 | Study 1 (6 - 12 years) | ADHD-RS-IV | Lisdexamfetamine Dimesylate (30 mg/day)* | 43.2 (6.7) | -21.8 (1.6) | -15.6 (-19.9, -11.2) |
 | Lisdexamfetamine Dimesylate (50 mg/day)* | 43.3 (6.7) | -23.4 (1.6) | -17.2 (-21.5, -12.9) |  |  |
-| Lisdexamfetamine Dimesylate (70 mg/day)* | 45.1(6.8) | -26.7 (1.5) | -20.5 (-24.8, -16.2) |  |  |
+| Lisdexamfetamine Dimesylate (70 mg/day)* | 45.1 (6.8) | -26.7 (1.5) | -20.5 (-24.8, -16.2) |  |  |
 | Placebo | 42.4 (7.1) | -6.2 (1.6) | -- |  |  |
 | Study 2 (6 - 12 years) | Average SKAMP-DS | Lisdexamfetamine Dimesylate (30, 50 or 70 mg/day)* | --b | 0.8 (0.1)d | -0.9 (-1.1, -0.7) |
 | Placebo | --b | 1.7 (0.1)d | -- |  |  |

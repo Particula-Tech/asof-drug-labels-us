@@ -14,8 +14,8 @@ Throughout lisdexamfetamine dimesylate capsules treatment, reassess each patient
 
 ## 5.2 Risks to Patients with Serious Cardiac Disease
 
-Sudden death has been reported in patients withstructural cardiac abnormalities or other serious cardiac disease who were treated with CNS stimulantsat the recommended ADHD dosage.
-Avoid lisdexamfetamine dimesylate capsules use in patients with known structuralcardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease,or other serious cardiac disease.
+Sudden death has been reported in patients withstructural cardiac abnormalities or other serious cardiac disease who were treated with CNS stimulants at the recommended ADHD dosage.
+Avoid lisdexamfetamine dimesylate capsules use in patients with known structural cardiac abnormalities, cardiomyopathy, serious cardiac arrhythmia, coronary artery disease, or other serious cardiac disease.
 
 ## 5.3 Increased Blood Pressure and Heart Rate
 
@@ -33,24 +33,25 @@ CNS stimulants may exacerbate symptoms of behavior disturbance and thought disor
 Induction of a Manic Episode in Patients with Bipolar Disorder
 
 CNS stimulants may induce a manic or mixed episode.
-Prior to initiating lisdexamfetamine dimesylate capsules treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide,bipolar disorder, and depression).
+Prior to initiating lisdexamfetamine dimesylate capsules treatment, screen patients for risk factors for developing a manic episode (e.g., comorbid or history of depressive symptoms or a family history of suicide, bipolar disorder, and depression).
 
 New Psychotic or Manic Symptoms
 
 CNS stimulants, at the recommended dosage, may cause psychotic or manic symptoms (e.g., hallucinations, delusional thinking, or mania) in patients without a prior history of psychotic illness or mania.
-In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychoticor manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients compared to 0% of placebo-treated patients.
+In a pooled analysis of multiple short-term, placebo-controlled studies of CNS stimulants, psychotic or manic symptoms occurred in approximately 0.1% of CNS stimulant-treated patients compared to 0% of placebo-treated patients.
 If such symptoms occur, consider discontinuing lisdexamfetamine dimesylate capsules.
 
 ## 5.5 Long-Term Suppression of Growth in Pediatric Patients
 
+Lisdexamfetamine dimesylate capsules are not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
+
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
-In a 4-week,placebo-controlled trial of lisdexamfetamine dimesylate in pediatric patients ages 6 to 12 years old with ADHD,there was a dose-related decrease in weight in the lisdexamfetamine dimesylate groups compared to weight gain in the placebo group.
+In a 4-week, placebo-controlled trial of lisdexamfetamine dimesylate in pediatric patients ages 6 to 12 years old with ADHD, there was a dose-related decrease in weight in the lisdexamfetamine dimesylate groups compared to weight gain in the placebo group.
 Additionally, in studies of another stimulant, there was slowing of the increase in height [see Adverse Reactions (6.1)].
 
-Closely monitor growth (weight andheight) in lisdexamfetamine dimesylate capsules-treated pediatric patients.
+Closely monitor growth (weight and height) in lisdexamfetamine dimesylate capsules-treated pediatric patients.
 Patients who are not growing or gaining height or weight as expected may need to have their treatment interrupted.
-Lisdexamfetamine dimesylate capsules are not approved for use in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
 
 ## 5.6 Peripheral Vasculopathy, including Raynaud's Phenomenon
 
@@ -59,8 +60,8 @@ Signs and symptoms are usually intermittent and mild; however, sequelae have inc
 Effects of peripheral vasculopathy, including Raynaud’s phenomenon, were observed in post-marketing reports and at the therapeutic dosages of CNS stimulants in all age groups throughout the course of treatment.
 Signs and symptoms generally improved after dosage reduction or discontinuation of the CNS stimulant.
 
-Careful observation for digital changes is necessary duringlisdexamfetamine dimesylate capsules treatment.
-Furtherclinical evaluation (e.g., rheumatology referral) may be appropriate for lisdexamfetamine dimesylate capsules-treated patients who develop signs or symptoms of peripheral vasculopathy.
+Careful observation for digital changes is necessary during lisdexamfetamine dimesylate capsules treatment.
+Further clinical evaluation (e.g., rheumatology referral) may be appropriate for lisdexamfetamine dimesylate capsules-treated patients who develop signs or symptoms of peripheral vasculopathy.
 
 ## 5.7 Serotonin Syndrome
 
