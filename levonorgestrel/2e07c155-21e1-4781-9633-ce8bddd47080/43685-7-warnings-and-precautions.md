@@ -180,7 +180,7 @@ If Kyleena is displaced, remove it.
 A new Kyleena may be inserted at that time or during the next menses if it is certain that conception has not occurred.
 If Kyleena is in place with no evidence of perforation, no intervention is indicated.
 
-## 5.11 Magnetic Resonance Imaging (MRI) Information
+## 5.11 Magnetic Resonance Imaging (MRI) Safety Information
 
 Non-clinical testing has demonstrated that Kyleena is MR Conditional.
 A patient with Kyleena can be safely scanned in an MR system meeting the following conditions:
