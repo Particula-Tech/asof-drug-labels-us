@@ -19,9 +19,9 @@ Because these reactions are reported voluntarily from a population of uncertain 
   An overly prolonged clotting time or minor bleeding during therapy can usually be controlled by withdrawing the drug [see Overdosage (10)].
   Gastrointestinal or urinary tract bleeding during anticoagulant therapy may indicate the presence of an underlying occult lesion.
   Bleeding can occur at any site but certain specific hemorrhagic complications may be difficult to detect:
-- a.Adrenal hemorrhage, with resultant acute adrenal insufficiency, has occurred with heparin therapy, including fatal cases.during anticoagulant therapy.
-- b.Ovarian (corpus luteum) hemorrhage developed in a number of women of reproductive age receiving short- or long-term anticoagulant therapy.
-- c.Retroperitoneal hemorrhage.
+  - -Adrenal hemorrhage, with resultant acute adrenal insufficiency, has occurred with heparin therapy, including fatal cases.
+  - -Ovarian (corpus luteum) hemorrhage developed in a number of women of reproductive age receiving short- or long-term anticoagulant therapy.
+  - -Retroperitoneal hemorrhage.
 - •Vascular Disorders – Contusion, vasospastic reactions (including episodes of painful, ischemic, and cyanosed limbs).
 - •HIT and HITT, including delayed onset cases, and Thrombocytopenia - [see Warnings and Precautions (5.3, 5.4)]
 - •Histamine-like reactions – Such reactions have been observed at the site of injections.
