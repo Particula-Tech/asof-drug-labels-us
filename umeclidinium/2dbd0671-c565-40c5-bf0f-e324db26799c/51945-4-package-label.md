@@ -21,4 +21,4 @@ GSK
 
 ©2023 GSK group of companies or its licensor.
 
-1. 62000000084535 Rev.1/23
+- 62000000084535 Rev.1/23

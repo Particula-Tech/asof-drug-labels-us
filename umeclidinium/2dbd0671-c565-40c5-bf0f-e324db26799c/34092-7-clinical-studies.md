@@ -111,9 +111,9 @@ ANORO ELLIPTA and COPD Exacerbations: In Trial 6, the primary efficacy analysis 
 Table 3.
 Moderate and Severe Chronic Obstructive Pulmonary Disease Exacerbations (Trial 6)a
 
-| Treatment | n | Mean Annual Rate(exacerbations/year) | FF/UMEC/VI Rate Ratio vs. Comparator(95% CI) | % Reduction in Exacerbation Rate(95% CI) | P Value |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| FF/UMEC/VI | 4,145 | 0.91 |  |  |  |  |  |  |  |  |
-| FF/VI | 4,133 | 1.07 | 0.85(0.80, 0.90) | 15(10, 20) | P<0.001 |  |  |  |  |  |
-| ANORO ELLIPTA | 2,069 | 1.21 | 0.75(0.70, 0.81) | 25(19, 30) | P<0.001 |  |  |  |  |  |
-| FF/UMEC/VI = Fluticasone furoate/umeclidinium/vilanterol 100/62.5/25 mcg, FF/VI = Fluticasone furoate/vilanterol 100/25 mcg, ANORO ELLIPTA = Umeclidinium/vilanterol 62.5/25 mcg. a On-treatment analyses excluded exacerbation data collected after discontinuation of study treatment. |  |  |  |  |  |  |  |  |  |  |
+| Treatment | n | Mean Annual Rate(exacerbations/year) | FF/UMEC/VI Rate Ratio vs. Comparator(95% CI) | % Reduction in Exacerbation Rate(95% CI) | P Value |
+| --- | --- | --- | --- | --- | --- |
+| FF/UMEC/VI | 4,145 | 0.91 |  |  |  |
+| FF/VI | 4,133 | 1.07 | 0.85(0.80, 0.90) | 15(10, 20) | P<0.001 |
+| ANORO ELLIPTA | 2,069 | 1.21 | 0.75(0.70, 0.81) | 25(19, 30) | P<0.001 |
+| FF/UMEC/VI = Fluticasone furoate/umeclidinium/vilanterol 100/62.5/25 mcg, FF/VI = Fluticasone furoate/vilanterol 100/25 mcg, ANORO ELLIPTA = Umeclidinium/vilanterol 62.5/25 mcg. a On-treatment analyses excluded exacerbation data collected after discontinuation of study treatment. |  |  |  |  |  |
