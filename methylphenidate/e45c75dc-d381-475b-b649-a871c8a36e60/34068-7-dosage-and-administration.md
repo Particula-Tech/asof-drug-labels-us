@@ -1,29 +1,31 @@
-# DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-Methylphenidate HCl Extended-Release Capsules CD is administered once daily in the morning, before breakfast.
+## 2.1 Pretreatment Screening
 
-Methylphenidate HCl Extended-Release Capsules CD may be swallowed whole with the aid of liquids, or alternatively, the capsule may be opened and the capsule contents sprinkled onto a small amount (tablespoon) of applesauce and given immediately, and not stored for future use.
-Drinking some fluids, e.g. water, should follow the intake of the sprinkles with applesauce.
-The capsules and the capsule contents must not be crushed or chewed (see PRECAUTIONS: Information For Patients).
-Patients should be advised to avoid alcohol while taking Methylphenidate HCl Extended-Release Capsules CD.
+Prior to treating patients with Methylphenidate HCl Extended-Release Capsules CD, assess:
+
+- for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.10)].
+
+- the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome before initiating Methylphenidate HCl Extended-Release Capsules CD [see Warnings and Precautions (5.10)].
+
+## 2.2 Dosage Recommendations
+
+The recommended starting dose of Methylphenidate HCl Extended-Release Capsules CD is 20 mg once daily.
+Dosage may be adjusted in weekly 10 mg to 20 mg increments to the maximum recommended dose of 60 mg per day.
 
 Dosage should be individualized according to the needs and responses of the patient.
 
-## Initial Treatment
+## 2.3 Administration Instructions
 
-The recommended starting dose of Methylphenidate HCl Extended-Release Capsules CD is 20 mg once daily.
-Dosage may be adjusted in weekly 10-20 mg increments to a maximum of 60 mg/day taken once daily in the morning, depending upon tolerability and degree of efficacy observed.
-Daily dosage above 60 mg is not recommended.
+Administer Methylphenidate HCl Extended-Release Capsules CD orally once daily in the morning, before breakfast.
 
-## Maintenance/Extended Treatment
+Swallow the capsule whole with the aid of liquids.
+Alternatively, open the capsule and sprinkle the contents onto a small amount (tablespoon) of applesauce and administer immediately.
+Do not store for future use.
+Drink fluids following the intake of the sprinkled capsule contents with applesauce.
+The capsules and the capsule contents must not be crushed or chewed.
 
-There is no body of evidence available from controlled trials to indicate how long the patient with ADHD should be treated with Methylphenidate HCl Extended-Release Capsules CD.
-It is generally agreed, however, that pharmacological treatment of ADHD may be needed for extended periods.
-Nevertheless, the physician who elects to use Methylphenidate HCl Extended-Release Capsules CD for extended periods in patients with ADHD should periodically re-evaluate the long-term usefulness of the drug for the individual patient with trials off medication to assess the patient's functioning without pharmacotherapy.
-Improvement may be sustained when the drug is either temporarily or permanently discontinued.
+## 2.4 Dosage Reduction and Discontinuation
 
-## Dose Reduction And Discontinuation
-
-If paradoxical aggravation of symptoms or other adverse events occur, the dosage should be reduced, or, if necessary, the drug should be discontinued.
-
-If improvement is not observed after appropriate dosage adjustment over a one-month period, the drug should be discontinued.
+If paradoxical aggravation of symptoms or other adverse reactions occur, reduce dosage or, if necessary, discontinue Methylphenidate HCl Extended-Release Capsules CD.
+If improvement is not observed after appropriate dosage adjustment over a one-month period, discontinue Methylphenidate HCl Extended-Release Capsules CD.

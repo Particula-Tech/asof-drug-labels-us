@@ -1,33 +1,10 @@
-# CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
-## Agitation
+Methylphenidate HCl Extended-Release Capsules CD is contraindicated in patients with:
 
-Methylphenidate HCl Extended-Release Capsules CD is contraindicated in patients with marked anxiety, tension and agitation, since the drug may aggravate these symptoms.
-
-## Hypersensitivity To Methylphenidate Or Other Excipients
-
-Methylphenidate HCl Extended-Release Capsules CD is contraindicated in patients known to be hypersensitive to methylphenidate or other components of the product.
-
-Methylphenidate HCl Extended-Release Capsules CD contains sucrose.
-Therefore, patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption, or sucrase-isomaltase insufficiency should not take this medicine.
-
-## Glaucoma
-
-Methylphenidate HCl Extended-Release Capsules CD is contraindicated in patients with glaucoma.
-
-## Tics
-
-Methylphenidate HCl Extended-Release Capsules CD is contraindicated in patients with motor tics or with a family history or diagnosis of Tourette's syndrome (see ADVERSE REACTIONS).
-
-## Monoamine Oxidase Inhibitors
-
-Methylphenidate HCl Extended-Release Capsules CD is contraindicated during treatment with monoamine oxidase inhibitors, and also within a minimum of 14 days following discontinuation of a monoamine oxidase inhibitor (hypertensive crises may result).
-
-## Hypertension And Other Cardiovascular Conditions
-
-Methylphenidate HCl Extended-Release Capsules CD is contraindicated in patients with severe hypertension, angina pectoris, cardiac arrhythmias, heart failure, recent myocardial infarction, hyperthyroidism or thyrotoxicosis (see WARNINGS).
-
-## Halogenated Anesthetics
-
-There is a risk of sudden blood pressure increase during surgery.
-If surgery is planned, Methylphenidate HCl Extended-Release Capsules CD should not be taken on the day of the surgery.
+- known hypersensitivity to methylphenidate or other component of Methylphenidate HCl Extended-Release Capsules CD.
+  Angioedema has been reported in patients treated with Methylphenidate HCl Extended-Release Capsules CD.
+  Anaphylactic reactions have been reported in patients treated with other methylphenidate products [see Adverse Reactions (6)].
+- Concomitant treatment with monoamine oxidase inhibitors (MAOIs), or within 14 days following discontinuation of treatment with an MAOI, because of the risk of hypertensive crisis [see Drug Interactions (7)].
+- Methylphenidate HCl Extended-Release Capsules CD contains sucrose.
+  Therefore, patients with hereditary problems of fructose intolerance, glucose-galactose malabsorption, or sucrase-isomaltase insufficiency should not take this medicine.

@@ -1,87 +1,60 @@
-# CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## Pharmacodynamics
+## 12.1 Mechanism of Action
 
-Methylphenidate HCl is a central nervous system (CNS) stimulant.
-The mode of therapeutic action in Attention Deficit Hyperactivity Disorder (ADHD) is not known.
-Methylphenidate is thought to block the reuptake of norepinephrine and dopamine into the presynaptic neuron and increase the release of these monoamines into the extraneuronal space.
+Methylphenidate hydrochloride is a central nervous system (CNS) stimulant.
+The mode of therapeutic action in ADHD is not known.
+
+## 12.2 Pharmacodynamics
+
 Methylphenidate is a racemic mixture comprised of the d- and l-threo enantiomers.
 The d-threo enantiomer is more pharmacologically active than the l-threo enantiomer.
+Methylphenidate blocks the reuptake of norepinephrine and dopamine into the presynaptic neuron and increases the release of these monoamines into the extraneuronal space.
 
-## Pharmacokinetics
+## 12.3 Pharmacokinetics
 
-The pharmacokinetics of the Methylphenidate HCl Extended-Release Capsules CD methylphenidate hydrochloride formulation have been studied in healthy adult volunteers and in children with Attention Deficit Hyperactivity Disorder (ADHD).
+Following one week of once-daily doses of 20 mg or 40 mg Methylphenidate HCl Extended-Release Capsules CD to children aged 7 to12 years old with ADHD, Cmax and AUC of methylphenidate were approximately proportional to the administered doses.
 
-## Absorption And Distribution
+Absorption Following administration of Methylphenidate HCl Extended-Release Capsules CD in children aged 7 to 12 years old with ADHD, the plasma concentration time profile of methylphenidate showed two phases of drug release with a sharp, initial slope similar to a methylphenidate immediate-release tablet (median Tmax1 about 1.5 hours post dose), and a second rising portion approximately three hours later (median Tmax2 about 4.5 hours post dose)*, followed by a gradual decline (Figure 1).
+The means for Cmax and area under the curve (AUC) following a dose of 20 mg were slightly lower than those seen with 10 mg of the immediate-release formulation, dosed at 0 and 4 hours.
 
-Methylphenidate is readily absorbed.
-Methylphenidate HCl Extended-Release Capsules CD has a plasma/time concentration profile showing two phases of drug release with a sharp, initial slope similar to a methylphenidate immediate-release tablet, and a second rising portion approximately three hours later, followed by a gradual decline.
-(See Figure 1 below.)
+* 25-30% of the subjects had only one observed peak (Cmax) concentration of methylphenidate.
 
-## Comparison Of Immediate Release (IR) And Methylphenidate HCl Extended-Release Capsules CD Formulations After Repeated Doses Of Methylphenidate HCl In Children With ADHD
+Figure 1: Comparison of Immediate Release (IR) and Methylphenidate HCl Extended-Release Capsules CD Formulations After Repeated Doses of Methylphenidate HCl in Pediatric Patients 7 to 12 Years of Age with ADHD
 
-Methylphenidate HCl Extended-Release Capsules CD was administered as repeated once-daily doses of 20 mg or 40 mg to children aged 7-12 years with ADHD for one week.
-After a dose of 20 mg, the mean (±SD) early Cmax was 8.6 (±2.2) ng/mL, the later Cmax was 10.9 (±3.9)1 ng/mL and AUC0-9h was 63.0 (±16.8) ng∙h/mL.
-The corresponding values after a 40 mg dose were 16.8 (±5.1) ng/mL, 15.1 (±5.8)1 ng/mL and 120 (±39.6) ng∙h/mL, respectively.
-The early peak concentrations (median) were reached about 1.5 hours after dose intake, and the second peak concentrations (median) were reached about 4.5 hours after dose intake.
-The means for Cmax and AUC following a dose of 20 mg were slightly lower than those seen with 10 mg of the immediate-release formulation, dosed at 0 and 4 hours.
+Effect of Food Ingestion of a high-fat meal with Methylphenidate HCl Extended-Release Capsules CD increased the mean Cmax and AUC of methylphenidate by about 30% and 17%, respectively.
+The presence of food delayed the early peak by approximately 1 hour (range -2 to 5 hours delay) [see Dosage and Administration (2.1)].
 
-| FIGURE 1 Comparison of Immediate Release (IR) and Methylphenidate HCl Extended-Release Capsules CD Formulations After Repeated Doses of Methylphenidate HCl in Children with ADHD |
-| --- |
+The bioavailability (Cmax and AUC) of methylphenidate was unaffected by sprinkling the Methylphenidate HCl Extended-Release Capsules CD capsule contents on applesauce as compared to the intact capsule.
 
-## Dose Proportionality
+Effect of Alcohol At an alcohol concentration of 40%, there was an increase in the release rate of methylphenidate in the first hour, resulting in 84% of the methylphenidate being released.
+The results with the 60 mg capsule are considered to be representative of the other available capsule strengths [see Drug Interactions (7)].
 
-Following single oral doses of 10-60 mg methylphenidate free base as a solution given to ten healthy male volunteers, Cmax and AUC increased proportionally with increasing doses.
-After the 60 mg dose, tmax was reached 1.5 hours post-dose, with a mean Cmax of 31.8 ng/mL (range 24.7-40.9 ng/mL).
+Distribution
 
-Following one week of repeated once-daily doses of 20 mg or 40 mg Methylphenidate HCl Extended-Release Capsules CD to children aged 7-12 years with ADHD, Cmax and AUC were proportional to the administered dose.
+Plasma protein binding is 10% to 33%.
+The volume of distribution was 2.65 ± 1.11 L/kg for d- methylphenidate and 1.80 ± 0.91 L/kg for l- methylphenidate.
 
-## Food Effects
+Elimination The mean terminal half-life (t1/2) of methylphenidate following administration of Methylphenidate HCl Extended-Release Capsules CD (t1/2=6.8 hours) is longer than the mean terminal t1/2 following administration of methylphenidate hydrochloride immediate-release tablets (t1/2=2.9 hours) and methylphenidate hydrochloride extended-release tablets (t1/2=3.4 hours) in healthy adult volunteers.
 
-In a study in adult volunteers to investigate the effects of a high-fat meal on the bioavailability of a dose of 40 mg, the presence of food delayed the early peak by approximately 1 hour (range -2 to 5 hours delay).
-The plasma levels rose rapidly following the food-induced delay in absorption.
-Overall, a high-fat meal increased the Cmax of Methylphenidate HCl Extended-Release Capsules CD by about 30% and AUC by about 17%, on average (see DOSAGE AND ADMINISTRATION).
+Metabolism In vitro studies showed that methylphenidate was not metabolized by cytochrome P450 isoenzymes.
+Methylphenidate is metabolized primarily by deesterification to alpha-phenyl-piperidine acetic acid (ritalinic acid), which has little or no pharmacologic activity.
 
-After a single dose, the bioavailability (Cmax and AUC) of methylphenidate in 26 healthy adults was unaffected by sprinkling the capsule contents on applesauce as compared to the intact capsule.
-This finding demonstrates that a 20 mg Methylphenidate HCl Extended-Release Capsules CD capsule, when opened and sprinkled on one tablespoon of applesauce, is bioequivalent to the intact capsule.
+Excretion After oral administration of radiolabeled methylphenidate in humans, about 90% of the radioactivity was recovered in urine.
+The main urinary metabolite was ritalinic acid, accounting for approximately 80% of the dose.
 
-## Metabolism And Excretion
-
-In humans, methylphenidate is metabolized primarily via deesterification to alpha-phenyl-piperidine acetic acid (ritalinic acid).
-The metabolite has little or no pharmacologic activity.
-
-In vitro studies showed that methylphenidate was not metabolized by cytochrome P450 isoenzymes, and did not inhibit cytochrome P450 isoenzymes at clinically observed plasma drug concentrations.
-
-The mean terminal half-life (t½) of methylphenidate following administration of Methylphenidate HCl Extended-Release Capsules CD (t½=6.8h) is longer than the mean terminal (t½) following administration of methylphenidate hydrochloride immediate-release tablets (t½=2.9h) and methylphenidate hydrochloride sustained-release tablets (t½=3.4h) in healthy adult volunteers.
-This suggests that the elimination process observed for Methylphenidate HCl Extended-Release Capsules CD is controlled by the release rate of methylphenidate from the extended-release formulation, and that the drug absorption is the rate-limiting process.
-
-Alcohol Effect
-
-An in vitro study was conducted to explore the effect of alcohol on the release characteristics of methylphenidate from the Methylphenidate HCl Extended-Release Capsules CD 60 mg capsule dosage form.
-At an alcohol concentration of 40% there was an increase in the release rate of methylphenidate in the first hour, resulting in 84% of the methylphenidate being released.
-The results with the 60 mg capsule are considered to be representative of the other available capsule strengths.
-Patients should be advised to avoid alcohol while taking Methylphenidate HCl Extended-Release Capsules CD.
-
-## Special Populations
-
-### Gender
+Specific Populations Male and Female Patients
 
 The pharmacokinetics of methylphenidate after a single dose of Methylphenidate HCl Extended-Release Capsules CD were similar between adult men and women.
 
-### Race
+Racial or Ethnic Groups The influence of race on the pharmacokinetics of methylphenidate after Methylphenidate HCl Extended-Release Capsules CD administration has not been studied.
 
-The influence of race on the pharmacokinetics of methylphenidate after Methylphenidate HCl Extended-Release Capsules CD administration has not been studied.
+Pediatric Patients The pharmacokinetics of methylphenidate after Methylphenidate HCl Extended-Release Capsules CD administration has not been studied in children less than 6 years of age.
 
-### Age
+Patients with Renal Impairment Methylphenidate HCl Extended-Release Capsules CD has not been studied in patients with renal insufficiency.
+Since renal clearance is not an important route of methylphenidate clearance, and the major metabolite (ritalinic acid), has little or no pharmacologic activity, renal insufficiency is expected to have minimal effect on the pharmacokinetics of Methylphenidate HCl Extended-Release Capsules CD.
 
-The pharmacokinetics of methylphenidate after Methylphenidate HCl Extended-Release Capsules CD administration have not been studied in children less than 6 years of age.
+Patients with Hepatic Impairment Methylphenidate HCl Extended-Release Capsules CD has not been studied in patients with hepatic insufficiency.
+Hepatic impairment is expected to have minimal effect on the pharmacokinetics of methylphenidate since it is metabolized primarily to ritalinic acid by nonmicrosomal hydrolytic esterases that are widely distributed throughout the body.
 
-### Renal Insufficiency
-
-There is no experience with the use of Methylphenidate HCl Extended-Release Capsules CD in patients with renal insufficiency.
-After oral administration of radiolabeled methylphenidate in humans, methylphenidate was extensively metabolized and approximately 80% of the radioactivity was excreted in the urine in the form of ritalinic acid.
-Since renal clearance is not an important route of methylphenidate clearance, renal insufficiency is expected to have little effect on the pharmacokinetics of Methylphenidate HCl Extended-Release Capsules CD.
-
-### Hepatic Insufficiency
-
-There is no experience with the use of Methylphenidate HCl Extended-Release Capsules CD in patients with hepatic insufficiency.
+Drug Interaction Studies In vitro studies showed that methylphenidate did not inhibit cytochrome P450 isoenzymes at clinically observed plasma drug concentrations.
