@@ -15,7 +15,7 @@ Although behaviors such as "sleep-driving" may occur with hypnotics alone at the
 Due to the risk to the patient and the community, discontinuation of Doxepin HCl Tablets should be strongly considered for patients who report a "sleep-driving" episode.
 Other complex behaviors (e.g., preparing and eating food, making phone calls, or having sex) have been reported in patients who are not fully awake after taking a hypnotic.
 As with "sleep-driving", patients usually do not remember these events.
-Amnesia, anxiety and other neuropsychiatric symptoms may occur unpredictably.
+Amnesia, anxiety and other neuro-psychiatric symptoms may occur unpredictably.
 
 ## 5.3. Suicide Risk and Worsening of Depression
 
