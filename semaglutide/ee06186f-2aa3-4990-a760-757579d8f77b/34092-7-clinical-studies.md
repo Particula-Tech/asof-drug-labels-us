@@ -15,7 +15,7 @@ Mean baseline body weight was 97 kg and mean BMI was 33 kg/m2.
 At baseline, prior myocardial infarction was reported in 76% of randomized individuals, prior stroke in 23%, and peripheral arterial disease in 9%.
 Heart failure was reported in 24% of patients.
 At baseline, CV disease and risk factors were managed with lipid-lowering therapy (90%), platelet aggregation inhibitors (86%), angiotensin converting enzyme inhibitors or angiotensin II receptor blockers (74%), and beta blockers (70%).
-A total of 10% had moderate renal impairment (eGFR 30 to <60 mL/min/1.73m2) and 0.4% had severe renal impairment eGFR <30 mL/min/1.73m2.
+A total of 10% had moderate renal impairment (eGFR 30 to <60 mL/min/1.73 m2) and 0.4% had severe renal impairment eGFR <30 mL/min/1.73 m2.
 
 Results
 
@@ -29,8 +29,7 @@ Type 1 error was controlled across multiple tests.
 WEGOVY significantly reduced the risk for first occurrence of MACE.
 The estimated hazard ratio (95% CI) was 0.8 (0.72, 0.9) (see Figure 4 and Table 4).
 
-Figure 4.
-Cumulative Incidence Function: Time to First Occurrence of MACE in Study 1
+Figure 4.Cumulative Incidence Function: Time to First Occurrence of MACE in Study 1
 
 Data from the in-trial period.
 Cumulative incidence estimates are based on time from randomization to first EAC-confirmed CV death, non-fatal myocardial infarction, or non-fatal stroke with non-CV death modeled as competing risk using the Aalen-Johansen estimator.
@@ -57,18 +56,18 @@ Treatment Effect for MACE and Other Events in Study 1
 | Fatal or non-fatal myocardial infarction5 | 334 (3.8%) | 243 (2.8%) | 0.72 (0.61; 0.85) |
 | Fatal or non-fatal stroke5 | 178 (2%) | 160 (1.8%) | 0.89 (0.72; 1.11) |
 
-*p-value <0.001, one-sided p-value
+* p-value <0.001, one-sided p-value
 
-1Primary endpoint
+1 Primary endpoint
 
-2Adjusted for group sequential design using the likelihood ratio ordering.
+2 Adjusted for group sequential design using the likelihood ratio ordering.
 
-3CV death was the first confirmatory secondary endpoint in the testing hierarchy and superiority was not confirmed.
+3 CV death was the first confirmatory secondary endpoint in the testing hierarchy and superiority was not confirmed.
 
-4Confirmatory secondary endpoint.
+4 Confirmatory secondary endpoint.
 Not statistically significant based on the prespecified testing hierarchy.
 
-5Not included in the prespecified testing hierarchy for controlling type-I error.
+5 Not included in the prespecified testing hierarchy for controlling type-I error.
 
 NOTE: Time to first event was analyzed in a Cox proportional hazards model with treatment as factor.
 For patients with multiple events, only the first event contributed to the composite endpoint.
@@ -90,15 +89,15 @@ Mean Changes in Anthropometry and Cardiometabolic Parameters at Week 104 in Stud
 | HDL Cholesterol (mg/dL)4 | 44.2 |  | 0.6 | 44.1 | 4.9 | 4.2 |
 | Triglycerides (mg/dL)4 | 139.5 |  | -3.2 | 138.6 | -18.3 | -15.6 |
 
-1Parameters listed in the table were not included in the pre-specified hierarchical testing.
+1 Parameters listed in the table were not included in the pre-specified hierarchical testing.
 
-2Responses were analyzed using an ANCOVA with treatment as fixed factor and baseline value as covariate.
+2 Responses were analyzed using an ANCOVA with treatment as fixed factor and baseline value as covariate.
 Before analysis, missing data were multiple imputed.
 The imputation model (linear regression) was done separately for each treatment arm and included baseline value as a covariate and was fitted to all subjects with a measurement regardless of treatment status at week 104.
 
-3For body weight the ‘change from baseline’ and ‘difference to placebo’ the unit is percentage change from baseline.
+3 For body weight the ‘change from baseline’ and ‘difference to placebo’ the unit is percentage change from baseline.
 
-4Baseline value is the geometric mean.
+4 Baseline value is the geometric mean.
 
 The reduction of MACE with WEGOVY was not impacted by age, sex, race, ethnicity, BMI at baseline, or level of renal function impairment.
 
@@ -173,7 +172,7 @@ Greater proportions of patients treated with WEGOVY achieved 5%, 10% and 15% wei
 
 LSMean = least squares mean; CI = confidence interval
 
-1The intent-to-treat population includes all randomized patients.
+1 The intent-to-treat population includes all randomized patients.
 In Study 2, at week 68, the body weight was missing for 7.2% and 11.9% of patients randomized to WEGOVY and placebo, respectively.
 In Study 3, at week 68, the body weight was missing for 4% and 6.7% of patients randomized to WEGOVY and placebo, respectively.
 In Study 4, at week 68, the body weight was missing for 8.4% and 7.4% of patients randomized to WEGOVY and placebo, respectively.
@@ -186,27 +185,27 @@ For Study 5, the primary efficacy parameter was mean percent change in body weig
 From randomization (week 20) to week 68, treatment with WEGOVY resulted in a statistically significant reduction in body weight compared with placebo (Table 7).
 Because patients who discontinued WEGOVY during titration and those who did not reach the 2.4 mg weekly dose were not eligible for the randomized treatment period, the results may not reflect the experience of patients in the general population who are first starting WEGOVY.
 
-1. Table 7.
-   Changes in Body Weight at Week 68 in Study 5 (Obesity or Overweight with Comorbidity after 20-week Run-in)
+Table 7.
+Changes in Body Weight at Week 68 in Study 5 (Obesity or Overweight with Comorbidity after 20-week Run-in)
 
-|  | WEGOVYN=8031 |  |
-| --- | --- | --- |
-| Body Weight (only randomized patients) |  |  |
-| Mean at week 0 (kg) | 107.2 |  |
-|  | PLACEBON=268 | WEGOVYN=535 |
-| Body Weight |  |  |
-| Mean at week 20 (SD) (kg) | 95.4 (22.7) | 96.5 (22.5) |
-| % change from week 20 at week 68 (LSMean) | 6.9 | -7.9 |
-| % difference from placebo (LSMean) (95% CI) |  | -14.8 (-16; -13.5)* |
+|  |  | WEGOVYN=8031 |  |
+| --- | --- | --- | --- |
+| Body Weight (only randomized patients) |  |  |  |
+| Mean at week 0 (kg) | 107.2 |  |  |
+|  |  | PLACEBON=268 | WEGOVYN=535 |
+| Body Weight |  |  |  |
+| Mean at week 20 (SD) (kg) |  | 95.4 (22.7) | 96.5 (22.5) |
+| % change from week 20 at week 68 (LSMean) |  | 6.9 | -7.9 |
+| % difference from placebo (LSMean) (95% CI) |  |  | -14.8 (-16; -13.5)* |
 
 LSMean = least squares mean; CI = confidence interval
 
-1902 patients were enrolled at week 0 with a mean baseline body weight of 106.8 kg.
+1 902 patients were enrolled at week 0 with a mean baseline body weight of 106.8 kg.
 The intent-to-treat population includes all randomized patients.
 At week 68, the body weight was missing for 2.8% and 6.7% of patients randomized to WEGOVY and placebo, respectively.
 Missing data were imputed from retrieved subjects of the same randomized treatment arm (RD-MI).
 
-*p<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
+* p<0.001 (unadjusted 2-sided) for superiority, controlled for multiplicity.
 
 For Study 6, the primary efficacy parameters were mean percent change in body weight and the percentage of patients achieving greater than or equal to 5% weight loss from baseline to week 68.
 
@@ -262,7 +261,7 @@ Observed values for patients completing each scheduled visit, and estimates with
 1. Figure 8.
    Change from baseline (%) in body weight (Study 4 on left and Study 5a on right)
 
-Observed values for patients completing each scheduled visit, and estimates with multiple imputations from retrieved dropouts (RD-MI) aChange from week 0 was not a primary endpoint in study 5.
+Observed values for patients completing each scheduled visit, and estimates with multiple imputations from retrieved dropouts (RD-MI) a Change from week 0 was not a primary endpoint in study 5.
 Dotted line indicates time of randomization.
 Randomized patients (shown) do not include 99 patients that discontinued during the 20-week run-in period.
 
@@ -294,16 +293,16 @@ Changes in waist circumference and cardiometabolic parameters with WEGOVY are sh
 
 Missing data were imputed from retrieved subjects of the same randomized treatment arm (RD-MI)
 
-1Model based estimates based on an analysis of covariance model including treatment (and stratification factors for Study 3 only) as a factor and baseline value as a covariate
+1 Model based estimates based on an analysis of covariance model including treatment (and stratification factors for Study 3 only) as a factor and baseline value as a covariate
 
-2Not included in the pre-specified hierarchical testing (except HbA1c for Study 3)
+2 Not included in the pre-specified hierarchical testing (except HbA1c for Study 3)
 
-3Model based estimates based on a mixed model for repeated measures including treatment (and stratification factors for Study 3 only) as a factor and baseline values as a covariate
+3 Model based estimates based on a mixed model for repeated measures including treatment (and stratification factors for Study 3 only) as a factor and baseline values as a covariate
 
-4Baseline value is the geometric mean
+4 Baseline value is the geometric mean
 
-1. Table 10.
-   Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 5 (Obesity or Overweight with Comorbidity after 20-week Run-in)1
+Table 10.
+Mean Changes in Anthropometry and Cardiometabolic Parameters in Study 5 (Obesity or Overweight with Comorbidity after 20-week Run-in)1
 
 |  | PLACEBON=268 |  | WEGOVYN=535 |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -318,18 +317,18 @@ Missing data were imputed from retrieved subjects of the same randomized treatme
 | HDL Cholesterol (mg/dL)2,4 | 43.6 | 17.8 | 44.5 | 18.2 | 0.3 |
 | Triglycerides (mg/dL)2,4 | 95.3 | 14.8 | 98.1 | -5.6 | -17.8 |
 
-Missing data were imputed from retrieved subjects of the same randomized treatment arm (RD-MI).
+Missing data were imputed from retrieved subjects of the same randomized treatment arm (RD-MI)
 
-1Model based estimates based on an analysis of covariance model including treatment as a factor and baseline value as a covariate.
+1 Model based estimates based on an analysis of covariance model including treatment as a factor and baseline value as a covariate.
 
-2Not included in the pre-specified hierarchical testing.
+2 Not included in the pre-specified hierarchical testing
 
-3Model based estimates based on a mixed model for repeated measures including treatment as a factor and baseline values as a covariate.
+3 Model based estimates based on a mixed model for repeated measures including treatment as a factor and baseline values as a covariate
 
-4Baseline value is the geometric mean.
+4 Baseline value is the geometric mean
 
-1. Table 11.
-   Mean Changes in Anthropometry and Cardiometabolic Parameters at Week 68 in Study 6 in East-Asian Patients (WEGOVY 1.7 mg)
+Table 11.
+Mean Changes in Anthropometry and Cardiometabolic Parameters at Week 68 in Study 6 in East-Asian Patients (WEGOVY 1.7 mg)
 
 |  | Study 6 (BMI ≥35 kg/m2 with at least one comorbidity or BMI 27 to 34.9 kg/m2 with at least two comorbidities) |  |  |
 | --- | --- | --- | --- |
@@ -337,7 +336,7 @@ Missing data were imputed from retrieved subjects of the same randomized treatme
 | Waist circumference (cm) Baseline Change from baseline (LSMean1) Difference from placebo (LSMean) | 103.8-1.8 | 101.4-7.7-5.9 | 103.8-11-9.3 |
 | Systolic blood pressure (mmHg)2 Baseline Change from baseline (LSMean1) Difference from placebo (LSMean) | 133-5.3 | 135-10.8-5.4 | 133-10.8-5.5 |
 | Diastolic blood pressure (mmHg)2 Baseline Change from baseline (LSMean1) Difference from placebo (LSMean) | 86-2.2 | 85-4.6-2.4 | 83-5.3-3.1 |
-| Heart Rate2, 3 Baseline Change from baseline (LSMean) Difference from placebo (LSMean) | 732.4 | 734.42 | 736.33.9 |
+| Heart Rate2, 3 Baseline Change from baseline (LSMean1) Difference from placebo (LSMean) | 732.4 | 734.42 | 736.33.9 |
 | HbA1c (%)2 Baseline Change from baseline (LSMean1) Difference from placebo (LSMean) | 6.40 | 6.4-0.9-0.9 | 6.4-0.9-0.9 |
 | Total Cholesterol (mg/dL)2,4 Baseline Percent change from baseline (LSMean1) Relative difference from placebo (LSMean) | 203.10.8 | 203.3-6.6-7.3 | 197.2-8.7-9.4 |
 | LDL Cholesterol (mg/dL)2,4 Baseline Percent change from baseline (LSMean1) Relative difference from placebo (LSMean) | 123.3-3.8 | 120.1-10.1-6.5 | 116.5-14.6-11.2 |
@@ -347,18 +346,18 @@ Missing data were imputed from retrieved subjects of the same randomized treatme
 Missing data were imputed from retrieved subjects of the same randomized treatment arm (RD-MI).
 At baseline, 24.7% of patients had type 2 diabetes mellitus
 
-1Model based estimates based on an analysis of covariance model including treatment and type 2 diabetes status as factors and baseline value as a covariate
+1 Model based estimates based on an analysis of covariance model including treatment and type 2 diabetes status as factors and baseline value as a covariate
 
-2Not included in the pre-specified hierarchical testing
+2 Not included in the pre-specified hierarchical testing
 
-3Model based estimates based on a mixed model for repeated measures including treatment and type 2 diabetes status as factors and baseline values as a covariate
+3 Model based estimates based on a mixed model for repeated measures including treatment and type 2 diabetes status as factors and baseline values as a covariate
 
-4Baseline value is the geometric mean
+4 Baseline value is the geometric mean
 
 ## 14.3 Weight Reduction and Long-Term Maintenance Study in Pediatric Patients Aged 12 Years and Older with Obesity
 
 Overview of Clinical Trial in Pediatric Patients WEGOVY was evaluated in a 68-week, double-blind, randomized, parallel group, placebo-controlled, multi-center trial in 201 pubertal pediatric patients aged 12 years and older with BMI corresponding to ≥95th percentile standardized for age and sex (Study 7) (NCT#04102189).
-After a 12-week lifestyle run-in period (including dietary recommendations and physical activity counseling), patients were randomized 2:1 to WEGOVY once weekly or placebo once weekly.
+After a 12-week lifestyle run-in period (including dietary recommendations and physical activity counseling), patients were randomized 2:1 to WEGOVY once-weekly or placebo once-weekly.
 WEGOVY or matching placebo was escalated to 2.4 mg or maximally tolerated dose during a 16-week period followed by 52 weeks on maintenance dose.
 Of WEGOVY-treated patients who completed the trial, 86.7% were on the 2.4 mg dosage at the end of the trial; for 5% of patients, 1.7 mg was the maximum tolerated dosage.
 
@@ -373,8 +372,8 @@ The primary endpoint was percent change in BMI from baseline to week 68.
 After 68 weeks, treatment with WEGOVY resulted in a statistically significant reduction in percent BMI compared with placebo.
 Greater proportions of patients treated with WEGOVY achieved ≥5% reduction in baseline BMI than those treated with placebo as shown in Table 12.
 
-1. Table 12.
-   Changes in Weight and BMI at Week 68 in Pediatric Patients with Obesity Aged 12 Years and Older in Study 7
+Table 12.
+Changes in Weight and BMI at Week 68 in Pediatric Patients with Obesity Aged 12 Years and Older in Study 7
 
 | Intention-to-Treata | PLACEBO N=67 | WEGOVY N=134 |
 | --- | --- | --- |
@@ -395,11 +394,11 @@ Greater proportions of patients treated with WEGOVY achieved ≥5% reduction in 
 
 LSMean = least squares mean; CI = confidence interval
 
-aThe intention-to-treat population includes all randomized patients.
+a The intention-to-treat population includes all randomized patients.
 Missing data were imputed using available data according to value and timing of last available observation on treatment and endpoint’s baseline value from retrieved subjects (RD-MI).
 At week 68, the BMI was missing for 2.2% and 7.5% of patients randomized to WEGOVY and placebo, respectively.
 
-bParameters not included in the pre-specified hierarchical testing.
+b Parameters not included in the pre-specified hierarchical testing.
 
 * p<0.0001 (unadjusted 2-sided) for superiority.
 
@@ -408,18 +407,18 @@ The cumulative frequency distribution of change in BMI is shown in Figure 11.
 
 Figure 10.Change from Baseline (%) in BMI in Pediatric Patients with Obesity Aged 12 Years and Older in Study 7
 
-Observed values for patients completing each scheduled visit, and estimates with multiple imputations from retrieved dropouts (RD-MI)
+Observed values for patients completing each scheduled visit, and estimates with multiple imputations from retrieved dropouts (RD-MI).
 
 Figure 11.Change in BMI (%) from Baseline to Week 68 in Pediatric Patients with Obesity Aged 12 Years and Older in Study 7
 
-Observed data from in-trial period including imputed data for missing observations (RD-MI)
+Observed data from in-trial period including imputed data for missing observations (RD-MI).
 
 Effect of WEGOVY on Anthropometry and Cardiometabolic Parameters in Pediatric Patients with Obesity Aged 12 Years and Older
 
 Changes in waist circumference and cardiometabolic parameters with WEGOVY are shown in Table 13 for the study in pediatric patients aged 12 years and older.
 
-1. Table 13.
-   Mean Changes in Anthropometry and Cardiometabolic Parameters in Pediatric Patients with Obesity Aged 12 Years and Older in Study 7
+Table 13.
+Mean Changes in Anthropometry and Cardiometabolic Parameters in Pediatric Patients with Obesity Aged 12 Years and Older in Study 71
 
 |  | PLACEBON=67 |  | WEGOVYN=134 |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -434,16 +433,16 @@ Changes in waist circumference and cardiometabolic parameters with WEGOVY are sh
 | HDL Cholesterol (mg/dL)2,5 | 43.3 | 3.2 | 43.7 | 8 | 4.7 |
 | Triglycerides (mg/dL)2,5 | 108 | 2.6 | 111.3 | -28.4 | -30.2 |
 
-1Parameters listed in the table were not included in the pre-specified hierarchical testing.
+1 Parameters listed in the table were not included in the pre-specified hierarchical testing.
 
-2Missing data were imputed using available data according to value and timing of last available observation on treatment and endpoint’s baseline value from retrieved subjects (RD-MI).
+2 Missing data were imputed using available data according to value and timing of last available observation on treatment and endpoint’s baseline value from retrieved subjects (RD-MI).
 Model based estimates based on an analysis of covariance model including treatment and stratification groups (gender, Tanner stage group) and the interaction between stratification groups as factors and baseline value as a covariate.
 
-3Model based estimates based on a mixed model for repeated measures including treatment as a factor and baseline value as a covariate all nested within visit.
+3 Model based estimates based on a mixed model for repeated measures including treatment as a factor and baseline value as a covariate all nested within visit.
 
-4For patients without type 2 diabetes at randomization (N=129 for WEGOVY-treated patients and N=64 for placebo-treated patients).
+4 For patients without type 2 diabetes at randomization (N=129 for WEGOVY-treated patients and N=64 for placebo-treated patients).
 
-5Baseline value is the geometric mean.
+5 Baseline value is the geometric mean.
 
 ## 14.4 Noncirrhotic Metabolic Dysfunction-Associated Steatohepatitis with Moderate to Advanced Liver Fibrosis in Adults
 
@@ -453,9 +452,9 @@ The efficacy of WEGOVY was evaluated based on an efficacy analysis at Week 72 in
 Enrolled patients had a baseline or recent liver biopsy showing clinically significant MASLD (metabolic dysfunction-associated steatotic liver disease), defined as MASH with fibrosis stage 2 or 3 and a non-alcoholic fatty liver disease (NAFLD) Activity Score (NAS) ≥4 with a score of 1 or more in steatosis, lobular inflammation, and hepatocyte ballooning.
 Efficacy determination was based on the effect of WEGOVY on resolution of steatohepatitis without worsening of liver fibrosis and on at least one stage improvement in liver fibrosis without worsening of steatohepatitis, on post-baseline liver biopsies collected at 72 weeks.
 
-The Week 72 analysis included 800 F2 and F3 (at eligibility) patients randomized 1:2 to receive placebo (n=266) or WEGOVY once weekly (n=534), in addition to standard of care for cardiometabolic comorbidities and healthy lifestyle counseling.
-WEGOVY or matching placebo was escalated to 2.4 mg once weekly during the initial 16 weeks of the treatment period.
-Dose escalation could be prolonged or patients could remain at a lower dose if 2.4 mg once weekly was not tolerable.
+The Week 72 analysis included 800 F2 and F3 (at eligibility) patients randomized 1:2 to receive placebo (n=266) or WEGOVY once-weekly (n=534), in addition to standard of care for cardiometabolic comorbidities and healthy lifestyle counseling.
+WEGOVY or matching placebo was escalated to 2.4 mg once-weekly during the initial 16 weeks of the treatment period.
+Dose escalation could be prolonged or patients could remain at a lower dose if 2.4 mg once-weekly was not tolerable.
 
 Demographic and baseline characteristics were balanced between treatment and placebo groups.
 Overall, the median (Q1 to Q3) age of patients at baseline was 57 (49 to 65) years, 57% were female, 18% were Hispanic, 68% were White, 27% were Asian, and 0.6% were Black or African American.
@@ -465,7 +464,7 @@ Baseline characteristics are presented in Table 14.
 Table 14.
 Baseline Characteristics in Adults Patients with Noncirrhotic MASH with Stage 2 to Stage 3 Fibrosis in Study 8
 
-| Characteristic | Overall (N = 800) |
+| Characteristic | Overall (N=800) |
 | --- | --- |
 | Fibrosis stage, n (%)F2F3 | 250 (31)550 (69) |
 | Body Mass Index (BMI, kg/m2), n (%)a<2525-3030-35≥35 | 53 (7)164 (21)252 (32)330 (41) |
@@ -475,11 +474,11 @@ Baseline Characteristics in Adults Patients with Noncirrhotic MASH with Stage 2 
 | Dyslipidemia, n (%) | 198 (25) |
 | Statin use, n (%) | 300 (38) |
 | Fibrosis Index Based on 4 Factors (FIB-4), Median (Q1, Q3)a | 1.6 (1.1, 2.3) |
-| Enhanced Liver Fibrosis (ELF), Median (Q1, Q3) | 9.9 (9.3, 10.5) |
+| Enhanced Liver Fibrosis (ELF), Median (Q1, Q3) | 9.2(9.3, 10.5) |
 
-1. a Less than 5% missingness in the variable is omitted.
+a Less than 5% missingness in the variable is omitted.
 
-b Lean MASH defined as BMI <25 kg/m2 for non-Asian patients and BMI <23 kg/m2 for Asian patients.
+1. b Lean MASH defined as BMI <25 kg/m2 for non-Asian patients and BMI <23 kg/m2 for Asian patients.
 
 Among the 79% of the patients with vibration-controlled transient elastography (VCTE) at baseline, median (Q1 to Q3) VCTE was 10.9 (8.6 to 15.5) kPa, which may not be representative of the entire study population.
 The 21% of patients with missing VCTE at baseline had higher percentages of being female and having baseline diabetes, hypertension, and dyslipidemia.
@@ -494,7 +493,7 @@ WEGOVY demonstrated improvement on these histopathology endpoints at Week 72 com
 Table 15.
 Efficacy Results at Week 72 in Adult Patients with Noncirrhotic MASH with Stage 2 or
 
-1. Stage 3 Fibrosis in Study 8
+Stage 3 Fibrosis in Study 8
 
 |  | PlaceboN=266 | WEGOVYN=534 |
 | --- | --- | --- |

@@ -47,7 +47,7 @@ Maximum concentration of semaglutide is reached 1 to 3 days post dose.
 Similar exposure was achieved with subcutaneous administration of semaglutide in the abdomen, thigh, or upper arm.
 
 The average semaglutide steady state concentration following subcutaneous administration of WEGOVY was approximately 75 nmol/L in patients with either obesity (BMI greater than or equal to 30 kg/m2) or overweight (BMI greater than or equal to 27 kg/m2).
-The steady state exposure of WEGOVY increased proportionally with doses up to 2.4 mg once weekly.
+The steady state exposure of WEGOVY increased proportionally with doses up to 2.4 mg once-weekly.
 
 Distribution
 

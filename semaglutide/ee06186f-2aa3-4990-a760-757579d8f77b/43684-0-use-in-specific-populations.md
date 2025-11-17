@@ -74,7 +74,7 @@ Based on data from animal reproduction studies, females of reproductive potentia
 
 The safety and effectiveness of WEGOVY in combination with a reduced calorie diet and increased physical activity to reduce excess body weight and maintain weight reduction long term in pediatric patients aged 12 years and older with obesity have been established.
 Use of WEGOVY for this indication is supported by a 68-week, double-blind, placebo-controlled clinical trial in 201 pediatric patients aged 12 years and older with a BMI corresponding to ≥95th percentile for age and sex [see Clinical Studies (14.3)] and from trials in adult patients with obesity [see Clinical Studies (14.2)].
-Use of the 1.7 mg once weekly maintenance dosage of WEGOVY in pediatric patients is also supported by additional exposure-efficacy and safety analyses in pooled adult and pediatric patients.
+Use of the 1.7 mg once-weekly maintenance dosage of WEGOVY in pediatric patients is also supported by additional exposure-efficacy and safety analyses in pooled adult and pediatric patients.
 
 Adverse reactions with WEGOVY treatment in pediatric patients aged 12 years and older were generally similar to those reported in adults.
 Pediatric patients aged 12 years and older treated with WEGOVY had greater incidences of cholelithiasis, cholecystitis, hypotension, rash, and urticaria compared to adults treated with WEGOVY [see Adverse Reactions (6.1)].
