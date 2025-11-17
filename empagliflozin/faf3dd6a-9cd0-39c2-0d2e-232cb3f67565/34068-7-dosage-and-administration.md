@@ -21,12 +21,12 @@ Table 1 Recommended Dosage of JARDIANCE
 | Glycemic control in type 2 diabetes mellitus | 10 mg orally once daily in the morning, taken with or without food.For additional glycemic control, may increase to 25 mg orally once daily in patients tolerating 10 mg once daily. |  |
 | Pediatric patients aged 10 years and older | Glycemic control in type 2 diabetes mellitus | 10 mg orally once daily in the morning, taken with or without food.For additional glycemic control, may increase to 25 mg orally once daily in patients tolerating 10 mg once daily. |
 
-## 2.3 Recommendations Regarding Missed Dose
+## 2.3 Temporary Interruption for Surgery
+
+Withhold JARDIANCE for at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting.
+Resume JARDIANCE when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].
+
+## 2.4 Recommendations Regarding Missed Dose
 
 - If a dose is missed, instruct patients to take the dose as soon as possible.
-- Do not double up the next dose.
-
-## 2.4 Temporary Interruption for Surgery
-
-Withhold JARDIANCE for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
-Resume JARDIANCE when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].
+- Advise patients not to double up the next dose.

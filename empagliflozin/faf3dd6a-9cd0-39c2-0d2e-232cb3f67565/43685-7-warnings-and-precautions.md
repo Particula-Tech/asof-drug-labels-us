@@ -22,7 +22,7 @@ If ketoacidosis is suspected, discontinue JARDIANCE, promptly evaluate, and trea
 Monitor patients for resolution of ketoacidosis before restarting JARDIANCE.
 
 Withhold JARDIANCE, if possible, in temporary clinical situations that could predispose patients to ketoacidosis.
-Resume JARDIANCE when the patient is clinically stable and has resumed oral intake [see Dosage and Administration (2.4)].
+Resume JARDIANCE when the patient is clinically stable and has resumed oral intake [see Dosage and Administration (2.3)].
 
 Educate all patients on the signs and symptoms of ketoacidosis and instruct patients to discontinue JARDIANCE and seek medical attention immediately if signs and symptoms occur.
 
@@ -35,11 +35,19 @@ Before initiating JARDIANCE in patients with one or more of these characteristic
 In patients with volume depletion, correct this condition before initiating JARDIANCE.
 Monitor for signs and symptoms of volume depletion, and renal function after initiating therapy.
 
-## 5.3 Urosepsis and Pyelonephritis
+## 5.3 Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier's Gangrene), and Genital Mycotic Infections
 
-There have been reports of serious urinary tract infections including urosepsis and pyelonephritis requiring hospitalization in patients receiving JARDIANCE.
-Treatment with JARDIANCE increases the risk for urinary tract infections.
-Evaluate patients for signs and symptoms of urinary tract infections and treat promptly, if indicated [see Adverse Reactions (6)].
+JARDIANCE increases urinary glucose excretion [see Clinical Pharmacology (12.2)] and increases the risk of genitourinary infections including urinary tract infections and genital mycotic infections in both male and female patients [see Adverse Reactions (6.1)].
+
+Serious genitourinary infections, including urosepsis, pyelonephritis, and necrotizing fasciitis of the perineum (Fournier's gangrene, a rare life-threatening infection requiring urgent surgical intervention), have occurred in patients with and without diabetes mellitus receiving SGLT2 inhibitors, including JARDIANCE [see Adverse Reactions (6.2)].
+Cases have required hospitalization.
+In patients with Fournier's gangrene, serious outcomes have included multiple surgeries and death.
+
+Patients with a history of chronic or recurrent genitourinary infections are more likely to develop genitourinary infections when using JARDIANCE.
+Monitor patients for signs and symptoms of genitourinary infections and treat promptly, if indicated.
+
+Immediately evaluate patients presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, for necrotizing fasciitis.
+If suspected, discontinue JARDIANCE and promptly institute appropriate medical and/or surgical intervention.
 
 ## 5.4 Hypoglycemia
 
@@ -50,28 +58,12 @@ In pediatric patients aged 10 years and older, the risk of hypoglycemia was high
 The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogues) or insulin.
 Inform patients using these concomitant medications and pediatric patients of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 
-## 5.5 Necrotizing Fasciitis of the Perineum (Fournier's Gangrene)
-
-Reports of necrotizing fasciitis of the perineum (Fournier's gangrene), a rare but serious and life-threatening necrotizing infection requiring urgent surgical intervention, have been identified in patients with diabetes mellitus receiving SGLT2 inhibitors, including JARDIANCE.
-Cases have been reported in both females and males.
-Serious outcomes have included hospitalization, multiple surgeries, and death.
-
-Patients treated with JARDIANCE presenting with pain or tenderness, erythema, or swelling in the genital or perineal area, along with fever or malaise, should be assessed for necrotizing fasciitis.
-If suspected, start treatment immediately with broad-spectrum antibiotics and, if necessary, surgical debridement.
-Discontinue JARDIANCE, closely monitor blood glucose levels, and provide appropriate alternative therapy for glycemic control.
-
-## 5.6 Genital Mycotic Infections
-
-JARDIANCE increases the risk for genital mycotic infections [see Adverse Reactions (6.1)].
-Patients with a history of chronic or recurrent genital mycotic infections were more likely to develop genital mycotic infections.
-Monitor and treat as appropriate.
-
-## 5.7 Lower Limb Amputation
+## 5.5 Lower Limb Amputation
 
 In some clinical studies with SGLT2 inhibitors an imbalance in the incidence of lower limb amputation has been observed.
 Across four JARDIANCE outcome trials, lower limb amputation event rates were 4.3 and 5.0 events per 1,000 patient-years in the placebo group and the JARDIANCE 10 mg or 25 mg dose group, respectively, with a HR of 1.05 (95 % CI) (0.81, 1.36).
 
-In a long-term cardio-renal outcome trial [see Clinical Studies 14.5], in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1000 patient-years in the placebo, and JARDIANCE 10 mg treatment arms, respectively.
+In a long-term cardio-renal outcome trial [see Clinical Studies 14.5], in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1,000 patient-years in the placebo, and JARDIANCE 10 mg treatment arms, respectively.
 Amputation of the toe and mid-foot were most frequent (21 out of 28 JARDIANCE 10 mg treated patients with lower limb amputations), and some involving above and below the knee.
 Some patients had multiple amputations.
 
@@ -81,7 +73,7 @@ The risk of amputation was highest in patients with a baseline history of diabet
 Counsel patients about the importance of routine preventative foot care.
 Monitor patients receiving JARDIANCE for signs and symptoms of diabetic foot infection (including osteomyelitis), new pain or tenderness, sores or ulcers involving the lower limbs, and institute appropriate treatment.
 
-## 5.8 Hypersensitivity Reactions
+## 5.6 Hypersensitivity Reactions
 
 There have been postmarketing reports of serious hypersensitivity reactions (e.g., angioedema) in patients treated with JARDIANCE.
 If a hypersensitivity reaction occurs, discontinue JARDIANCE; treat promptly per standard of care, and monitor until signs and symptoms resolve.

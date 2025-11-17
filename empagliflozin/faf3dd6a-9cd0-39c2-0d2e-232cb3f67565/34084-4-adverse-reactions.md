@@ -4,11 +4,9 @@ The following important adverse reactions are described below and elsewhere in t
 
 - Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.1)]
 - Volume Depletion [see Warnings and Precautions (5.2)]
-- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.3)]
+- Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier's Gangrene), and Genital Mycotic Infections [see Warnings and Precautions (5.3)]
 - Hypoglycemia [see Warnings and Precautions (5.4)]
-- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.5)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.6)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -121,7 +119,7 @@ No new adverse reactions were identified in EMPEROR-Reduced or EMPEROR-Preserved
 Clinical Trial in Adults with Chronic Kidney Disease
 
 The safety profile in patients with chronic kidney disease was generally consistent with that observed across the studied indications.
-In a long-term cardio-renal outcome trial [see Clinical Studies 14.5], in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1,000 patient-years in the placebo, and JARDIANCE 10 mg treatment arms, respectively [see Warnings and Precautions (5.7)].
+In a long-term cardio-renal outcome trial [see Clinical Studies 14.5], in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1,000 patient-years in the placebo, and JARDIANCE 10 mg treatment arms, respectively [see Warnings and Precautions (5.5)].
 
 Laboratory Test Abnormalities in Clinical Trials
 

@@ -10,8 +10,8 @@ Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the EMPA-REG OUTC
 
 The other brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2023 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2025 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL8914OI212023
+COL8914PI262025
 
-SPL8934K
+SPL14754B

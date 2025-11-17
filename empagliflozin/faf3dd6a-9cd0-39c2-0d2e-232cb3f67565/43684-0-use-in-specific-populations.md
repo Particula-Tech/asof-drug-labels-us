@@ -80,8 +80,8 @@ The risk of urinary tract infections increased in patients who were 75 years of 
 
 In the EMPEROR-Reduced, EMPEROR-Preserved, and EMPA-KIDNEY trials, no overall differences in safety and effectiveness have been observed between patients 65 years of age and older and younger adult patients.
 EMPEROR-Reduced included 1,188 (64%) patients treated with JARDIANCE 65 years of age and older, and 503 (27%) patients 75 years of age and older.
-EMPEROR-Preserved included 2,402 (80%) patients treated with JARDIANCE 65 years of age and older, and 1,281 (43%) patients 75 years of age and older.
-EMPA-KIDNEY included 2,089 (32%) patients treated with JARDIANCE 65 years of age and older, and 1,518 (23%) patients 75 years of age and older.
+EMPEROR-Preserved included 2,403 (80%) patients treated with JARDIANCE 65 years of age and older, and 1,281 (43%) patients 75 years of age and older.
+EMPA-KIDNEY included 1,803 (55%) patients treated with JARDIANCE 65 years of age and older, and 758 (23%) patients 75 years of age and older.
 
 ## 8.6 Renal Impairment
 
