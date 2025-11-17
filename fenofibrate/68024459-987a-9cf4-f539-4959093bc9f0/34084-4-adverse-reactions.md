@@ -1,53 +1,74 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are described below and elsewhere in the labeling:
+The following serious adverse reactions are described below and elsewhere in the labelling:
 
 - Mortality and coronary heart disease morbidity [see Warnings and Precautions (5.1)]
 - Hepatoxicity [see Warnings and Precautions (5.2)]
+- Myopathy and Rhabdomyolysis [see Warnings and Precautions (5.3)]
+- Increased in Serum Creatinine [see Warnings and Precautions (5.4)]
+- Cholelithiasis [see Warnings and Precautions (5.5)]
+- Increased Bleeding Risk with Coumarin Anticoagulants [see Warnings and Precautions (5.6)]
 - Pancreatitis [see Warnings and Precautions (5.7)]
+- Hematologic Changes [see Warnings and Precautions (5.8)]
 - Hypersensitivity reactions [see Warnings and Precautions (5.9)]
 - Venothromboembolic disease [see Warnings and Precautions (5.10)]
+- Paradoxical Decreases in HDL Cholesterol Levels [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
 
-Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect rates observed in clinical practice.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
-Adverse events reported by 2% or more of patients treated with fenofibrate and greater than placebo during double-blind, placebo-controlled trials, regardless of causality, are listed in Table 1.
+The safety of fenofibrate capsules has been established in adults with hypertriglyceridemia or primary hyperlipidemia based on adequate and well-controlled trials of other formulations of fenofibrate, referenced below as “fenofibrate” [see Clinical Studies (14)].
+Dosages of fenofibrate used in these trials were comparable to fenofibrate capsules 90 mg per day [see Clinical Pharmacology (12.3)].
+
+Adverse reactions reported by 2% or more of patients treated with fenofibrate (and greater than placebo) during double-blind, placebo-controlled trials are listed in Table 1 below.
 Adverse reactions led to discontinuation of treatment in 5% of patients treated with fenofibrate and in 3% treated with placebo.
 Increases in liver function tests were the most frequent events, causing discontinuation of fenofibrate treatment in 1.6% of patients in double-blind trials.
 
-Table 1 Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate and Greater than Placebo During the Double-Blind, Placebo-Controlled Trials
+Table 1: Adverse Reactions Reported by 2% or More of Patients Treated with Fenofibrate and Greater than Placebo During the Double-Blind, Placebo-Controlled Trials
 
-| Body System Adverse Reaction | Fenofibrate* (N=439) | Placebo (N=365) |
+| Adverse Reaction | Placebo (N=365) | Fenofibrate (N=439) |
 | --- | --- | --- |
-| Body As A Whole |  |  |
-| Abdominal Pain | 4.6% | 4.4% |
-| Back Pain | 3.4% | 2.5% |
-| Headache | 3.2% | 2.7% |
-| Digestive |  |  |
-| Abnormal Liver Function Tests | 7.5%** | 1.4% |
-| Nausea | 2.3% | 1.9% |
-| Constipation | 2.1% | 1.4% |
-| Metabolic and Nutritional Disorders |  |  |
-| Increased AST | 3.4%** | 0.5% |
-| Increased ALT | 3% | 1.6% |
-| Increased Creatine Phosphokinase | 3% | 1.4% |
-| Respiratory |  |  |
-| Respiratory Disorder | 6.2% | 5.5% |
-| Rhinitis | 2.3% | 1.1% |
+| Abnormal Liver Tests | 1% | 8% |
+| Abdominal Pain | 4% | 5% |
+| Increased ALT | 2% | 3% |
+| Increased AST | 1% | 3% |
+| Increased Creatine Phosphokinase | 1% | 3% |
+| Rhinitis | 1% | 2% |
 
-* Dosage equivalent to 130 mg fenofibrate
+Other Adverse Reactions
 
-**Significantly different from placebo
+Urticaria
 
-Urticaria was seen in 1.1 vs. 0%, and rash in 1.4 vs. 0.8% of fenofibrate and placebo patients, respectively, in controlled trials.
+Urticaria was seen in 1.1% vs. 0% and rash in 1.4% vs. 0.8% of fenofibrate and placebo patients respectively in controlled trials.
 
 Increases in Liver Enzymes
 
-In a pooled analysis of 10 placebo-controlled trials, increases to >3 times the upper limit of normal in ALT occurred in 5.3% of patients taking fenofibrate at doses equivalent to 130 mg fenofibrate daily versus 1.1% of patients treated with placebo.
+In a pooled analysis of 10 placebo controlled trials, increases to >3 times the upper limit of normal in ALT occurred in 5.3% of patients taking either an intermediate or the maximum recommended daily dosage of fenofibrate at doses comparable to 130 mg fenofibrate daily versus 1.1% of patients treated with placebo.
+In an 8-week trial, the incidence of ALT or AST elevations ≥3 times the upper limit of normal was 13% in patients receiving an intermediate daily dosage or the maximum recommended daily dosage of fenofibrate and was 0% in those receiving the lowest recommended daily dosage of fenofibrate or placebo [see Warnings and Precautions (5.2)].
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been identified during post approval use of fenofibrate.
-Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure: myalgia, rhabdomyolysis, pancreatitis, renal failure, muscle spasms, acute renal failure, hepatitis, cirrhosis, increased total bilirubin, anemia, arthralgia, asthenia, severely depressed HDL-cholesterol levels, and interstitial lung disease.
-Photosensitivity reactions have occurred days to months after initiation; in some of these cases, patients reported a prior photosensitivity reaction to ketoprofen.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Blood: Anemia, white blood cell decreases
+
+Gastrointestinal: Pancreatitis
+
+General: Asthenia
+
+Hepatobiliary: Increased total bilirubin, hepatitis, cirrhosis
+
+Immune System: Anaphylaxis, angioedema
+
+Lipid: Severely depressed HDL-cholesterol levels
+
+Musculoskeletal: Myalgia, muscle spasms, rhabdomyolysis, arthralgia
+
+Renal and Urinary: Acute renal failure
+
+Respiratory: Interstitial lung disease
+
+Skin and Subcutaneous Tissue: Photosensitivity reactions days to months after initiation.
+This may occur in patients who report a prior photosensitivity reaction to ketoprofen.
