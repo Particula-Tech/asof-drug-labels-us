@@ -15,7 +15,6 @@ Each tablet contains: Clozapine, USP 25 mg
 Usual Adult Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
@@ -23,13 +22,15 @@ Protect from moisture.
 
 Dispense: Dispensing should be contingent upon ANC results; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
+Medication Guides may be obtained at Mylan.com/ MedCenter or call 1-888-839-8993.
+
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
 Mylan.com
 
-RMXA3813AX1
+RMXA3813A2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -38,8 +39,6 @@ Keep container tightly closed.
 This container is not intended for dispensing for household use.
 
 Code No.: MH/DRUGS/AD/089
-
-751XXXXX
 
 # PRINCIPAL DISPLAY PANEL – 100 mg
 
@@ -58,7 +57,6 @@ Each tablet contains: Clozapine, USP 100 mg
 Usual Adult Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
@@ -66,13 +64,15 @@ Protect from moisture.
 
 Dispense: Dispensing should be contingent upon ANC results; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
+Medication Guides may be obtained at Mylan.com/ MedCenter or call 1-888-839-8993.
+
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
 Mylan.com
 
-RMXA3815AX1
+RMXA3815A2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -81,8 +81,6 @@ Keep container tightly closed.
 This container is not intended for dispensing for household use.
 
 Code No.: MH/DRUGS/AD/089
-
-751XXXXX
 
 # PRINCIPAL DISPLAY PANEL - 150 mg
 
@@ -101,7 +99,6 @@ Each tablet contains: Clozapine, USP 150 mg
 Usual Adult Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
@@ -109,21 +106,21 @@ Protect from moisture.
 
 Dispense: Dispensing should be contingent upon ANC results; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
+Medication Guides may be obtained at Mylan.com/ MedCenter or call 1-888-839-8993.
+
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
 Mylan.com
 
-RMXA3816AX1
+RMXA3816A2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
 Keep container tightly closed.
 
 Code No.: MH/DRUGS/AD/089
-
-751XXXXX
 
 # PRINCIPAL DISPLAY PANEL - 200 mg
 
@@ -142,7 +139,6 @@ Each tablet contains: Clozapine, USP 200 mg
 Usual Adult Dosage: See accompanying prescribing information.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
 
@@ -150,11 +146,15 @@ Protect from moisture.
 
 Dispense: Dispensing should be contingent upon ANC results; quantities dispensed should not exceed the limits set forth in the full product labeling.
 
+Medication Guides may be obtained at Mylan.com/ MedCenter or call 1-888-839-8993.
+
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Made in India
 
 Mylan.com
+
+RMXA3817A2
 
 RMXA3817AX1
 
@@ -163,5 +163,3 @@ Dispense in a tight, light-resistant container as defined in the USP using a chi
 Keep container tightly closed.
 
 Code No.: MH/DRUGS/AD/089
-
-751XXXXX

@@ -36,8 +36,8 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-Revised: 6/2025
+Revised: 8/2025
 
-751XXXXX
+75110403
 
-MXA:CLOZOD:RX6
+MXA:CLOZOD:R5mh/MXA:MG:CLOZOD:R1mh
