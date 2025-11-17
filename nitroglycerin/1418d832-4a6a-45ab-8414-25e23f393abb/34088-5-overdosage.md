@@ -1,13 +1,13 @@
 # 10 OVERDOSAGE
 
-## 10.1 Signs and Symptoms, Methemoglobinemia
+## 10.1 Signs andSymptoms,Methemoglobinemia
 
 Nitrate overdosage may result in: severe hypotension, persistent throbbing headache, vertigo, palpitation, visual disturbance, flushing and perspiring skin (later becoming cold and cyanotic), nausea and vomiting (possibly with colic and even bloody diarrhea), syncope (especially in the upright posture), methemoglobinemia with cyanosis and anorexia, initial hyperpnea, dyspnea and slow breathing, slow pulse (dicrotic and intermittent), heart block, increased intracranial pressure with cerebral symptoms of confusion and moderate fever, paralysis and coma followed by clonic convulsions, and possibly death due to circulatory collapse.
 
 Case reports of clinically significant methemoglobinemia are rare at conventional doses of organic nitrates.
 The formation of methemoglobin is dose-related and in the case of genetic abnormalities of hemoglobin that favor methemoglobin formation, even conventional doses of organic nitrates could produce harmful concentrations of methemoglobin.
 
-## 10.2 Treatment of Overdosage
+## 10.2 Treatment ofOverdosage
 
 As hypotension associated with nitroglycerin overdose is the result of venodilatation and arterial hypovolemia, prudent therapy in this situation should be directed toward increase in central fluid volume.
 No specific antagonist to the vasodilator effects of nitroglycerin is known.

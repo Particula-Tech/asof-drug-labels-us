@@ -1,6 +1,6 @@
 # 12 CLINICAL PHARMACOLOGY
 
-## 12.1 Mechanism of Action
+## 12.1 Mechanism ofAction
 
 Nitroglycerin forms free radical nitric oxide (NO), which activates guanylate cyclase, resulting in an increase of guanosine 3',5'-monophosphate (cyclic GMP) in smooth muscle and other tissues.
 This eventually leads to dephosphorylation of myosin light chains, which regulates the contractile state in smooth muscle and results in vasodilatation.
@@ -24,10 +24,10 @@ In contrast, when filling pressures and cardiac index are normal, cardiac index 
 
 ## 12.3 Pharmacokinetics
 
-In a pharmacokinetic study a single 800 mcg dose of GONITRO was administered sublingually to healthy volunteers (n = 32), the mean Cmax and tmax for GTN were 1,700 pg/mL and 7 minutes, respectively.
-Additionally, in these subjects the mean area under the curve (AUC) for GTN was 12,300 pg/mL. min.
+In a pharmacokinetic study a single 800 mcg dose of GONITRO was administered sublingually to healthy volunteers (n = 32), the mean C maxand t max for GTN were 1,700 pg/mL and 7 minutes, respectively.
+Additionally, in these subjects the mean area under the curve (AUC) for GTN was 12,300 pg/mL.min.
 
-The results of the study indicate that the sublingual absorption of GTN is higher following the administration of GONITRO compared to Nitrolingual® Pumpspray.
+The results of the study indicate that the sublingual absorption of GTN is higher following the administration of GONITRO compared to Nitrolingual ®Pumpspray.
 
 A liver reductase enzyme is of primary importance in the metabolism of nitroglycerin to glycerol di- and mononitrate metabolites and ultimately to glycerol and organic nitrate.
 Known sites of extrahepatic metabolism include red blood cells and vascular walls.

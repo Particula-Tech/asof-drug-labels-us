@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Nitroglycerin, an organic nitrate, is a vasodilator which has effects on both arteries and veins.
-The chemical name for nitroglycerin is 1,2,3-propanetriol trinitrate (C3H5N3O9).
+The chemical name for nitroglycerin is 1,2,3-propanetriol trinitrate (C 3H 5N 3O 9).
 The compound has a molecular weight of 227.09.
 The chemical structure is:
 
