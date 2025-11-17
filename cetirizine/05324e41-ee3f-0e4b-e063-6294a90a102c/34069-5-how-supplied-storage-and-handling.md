@@ -13,7 +13,7 @@ NDC 61037-479-03 Bottle of 16 fl. oz.
 NDC 61037-479-04 Bottle of 8 fl. oz.
 (240 mL)
 
-NDC 61037-479-06 Unit Dose Cup of 5 mL
+NDC 61037-479-06 Unit-Dose Cup of 5 mL NDC 61037-479-12 Case of 100 Unit-Dose Cups of 5 mL (10 Unit-Dose Cups per Tray x 10 Trays per Case)
 
 STORAGE: Store at 20°-25°C (68°-77°F); excursions permitted to 15°-30°C (59°-86°F)
 

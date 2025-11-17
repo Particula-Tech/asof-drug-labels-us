@@ -6,7 +6,7 @@ CETIRIZINE HYDROCHLORIDE
 
 ORAL SOLUTION, USP
 
-1 mg/mL (5 mg/5 mL)
+5 mg/5 mL (1 mg/mL)
 
 FOR ORAL USE ONLY
 
@@ -35,7 +35,7 @@ Bajaj Medical, LLC
 
 Chicago IL 60609, USA
 
-Revised: 06/2025
+Revised: 10/2025
 
 # PRINCIPAL DISPLAY PANEL: NDC 61037-479-03 Bottle of 16 fl. oz. (480 mL)
 
@@ -45,7 +45,7 @@ CETIRIZINE HYDROCHLORIDE
 
 ORAL SOLUTION, USP
 
-1 mg/mL (5 mg/5 mL)
+5 mg/5 mL (1 mg/mL)
 
 FOR ORAL USE ONLY
 
@@ -74,17 +74,15 @@ Bajaj Medical, LLC
 
 Chicago IL 60609, USA
 
-Revised: 06/2025
+Revised: 10/2025
 
-# PRINCIPAL DISPLAY PANEL: NDC 61037-479-12 100 Unit Dose Cups (Each Cup Delivers 5 mL)
+# PRINCIPAL DISPLAY PANEL: NDC 61037-479-12 5 mL x 100 Unit-Dose Cups
 
 NDC 61037-479-12
 
-CETIRIZINE HYDROCHLORIDE
+Cetirizine Hydrochloride Oral Solution, USP
 
-ORAL SOLUTION, USP
-
-1 mg/mL (5 mg/5 mL)
+5 mg/5 mL (1 mg/mL)
 
 FOR ORAL USE ONLY
 
@@ -114,4 +112,4 @@ Bajaj Medical, LLC
 
 Chicago IL 60609, USA
 
-Revised: 06/2025
+Revised: 10/2025
