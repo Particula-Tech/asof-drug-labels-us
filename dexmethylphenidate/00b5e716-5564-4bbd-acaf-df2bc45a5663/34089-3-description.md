@@ -28,6 +28,6 @@ Inactive ingredients: colloidal silicon dioxide, crospovidone, hypromellose, mag
 
 Each strength capsule also contains colorant ingredients in the capsule shell as follows:
 
-- 26.1/5.2 mg: Back Iron Oxide, FD&C Blue No. 1, Titanium Dioxide
+- 26.1/5.2 mg: Black Iron Oxide, FD&C Blue No. 1, Titanium Dioxide
 - 39.2/7.8 mg: Black Iron Oxide, FD&C Blue No. 1, FD&C Red No. 40, Titanium Dioxide
 - 52.3/10.4 mg: Black Iron Oxide, FD&C Red No. 40, FD&C Yellow No. 6, Titanium Dioxide

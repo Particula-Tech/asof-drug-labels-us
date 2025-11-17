@@ -7,7 +7,7 @@ Abuse, Misuse, and Addiction
 Educate patients and their families about the risks of abuse, misuse, and addiction of AZSTARYS, which can lead to overdose and death, and proper disposal of any unused drug [see Warnings and Precautions (5.1), Drug Abuse and Dependence (9.2), Overdosage (10)].
 Advise patients to store AZSTARYS in a safe place, preferably locked, and instruct patients to not give AZSTARYS to anyone else.
 
-Risks to Patients with Serious Cardiac Disease
+Risk to Patients with Serious Cardiac Disease
 
 Advise patients that there are potential risks to patients with serious cardiac disease, including sudden death, with AZSTARYS use.
 Instruct patients to contact a healthcare provider immediately if they develop symptoms such as exertional chest pain, unexplained syncope, or other symptoms suggestive of cardiac disease [see Warnings and Precautions (5.2)].
@@ -58,8 +58,4 @@ Lactation
 
 Advise nursing mother to monitor infants exposed to AZSTARYS through breastmilk for agitation, poor feeding, and reduced weight gain [see Use in Specific Populations (8.2)].
 
-Distributed by: Corium, LLC
-
-11 Farnsworth St., 4th Floor
-
-Boston, MA 02210
+Distributed by: Corium, LLC 55 Cambridge Parkway, Suite 401 Cambridge, MA 02142

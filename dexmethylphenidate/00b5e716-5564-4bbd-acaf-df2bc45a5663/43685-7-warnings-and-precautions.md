@@ -62,6 +62,8 @@ Further clinical evaluation (e.g., rheumatology referral) may be appropriate for
 
 ## 5.7 Long-Term Suppression of Growth in Pediatric Patients
 
+AZSTARYS is not approved for use and is not recommended in pediatric patients below 6 years of age [see Use in Specific Populations (8.4)].
+
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients.
 
 In a long-term, open-label safety study with AZSTARYS conducted in pediatric patients 6 to 12 years of age with ADHD, there was a lower than expected increase in height and weight compared to pediatric patients of the same age and sex, on average [see Adverse Reactions (6.1)].
