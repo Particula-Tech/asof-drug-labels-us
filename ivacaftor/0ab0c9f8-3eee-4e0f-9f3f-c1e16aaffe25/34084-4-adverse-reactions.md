@@ -4,7 +4,8 @@ The following adverse reactions are discussed in greater detail in other section
 
 - Transaminase Elevations [see Warnings and Precautions (5.1)]
 - Hypersensitivity Reactions, Including Anaphylaxis [see Warnings and Precautions (5.2)]
-- Cataracts [see Warnings and Precautions (5.4)]
+- Intracranial Hypertension [see Warnings and Precautions (5.3)]
+- Cataracts [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -80,7 +81,16 @@ In the cohort of patients aged 1 month to less than 4 months (N=7), 1 patient (1
 
 ## 6.2 Postmarketing Experience
 
+Postmarketing Adverse Reactions with KALYDECO
+
 The following adverse reactions have been identified during post approval use of KALYDECO.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Immune system disorders: anaphylaxis
+Immune System Disorders: anaphylaxis
+
+Postmarketing Adverse Reactions with Other Drugs Containing the Same or Similar Active Ingredients as KALYDECO
+
+The following adverse reactions have been identified during post approval use of drugs containing the same or similar active ingredients as KALYDECO.
+Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Nervous System Disorders: intracranial hypertension

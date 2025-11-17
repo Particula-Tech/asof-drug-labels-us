@@ -14,6 +14,11 @@ Hypersensitivity reactions including anaphylaxis are possible with use of KALYDE
 Inform patients of the early signs of hypersensitivity reactions including rash, hives, itching, facial swelling, tightness of the chest and wheezing.
 Advise patients to discontinue use of KALYDECO immediately and contact their physician or go to the emergency department if these symptoms occur.
 
+Intracranial Hypertension
+
+Inform patients that intracranial hypertension has occurred in patients who received drugs containing the same or similar active ingredients as KALYDECO.
+Instruct patients to notify their healthcare provider right away if they experience signs and symptoms of intracranial hypertension, including headache, blurred vision, diplopia, and vision loss [see Warnings and Precautions (5.3)].
+
 Drug Interactions with CYP3A Inducers and Inhibitors
 
 Ask patients to tell you all the medications they are taking including any herbal supplements or vitamins.
@@ -64,4 +69,4 @@ Patients should be informed about what to do in the event they miss a dose of KA
 Cataracts
 
 Inform patients that abnormality of the eye lens (cataract) has been noted in some children and adolescents receiving KALYDECO.
-Baseline and follow-up ophthalmological examinations should be performed in pediatric patients initiating KALYDECO treatment [see Warnings and Precautions (5.4)].
+Baseline and follow-up ophthalmological examinations should be performed in pediatric patients initiating KALYDECO treatment [see Warnings and Precautions (5.5)].
