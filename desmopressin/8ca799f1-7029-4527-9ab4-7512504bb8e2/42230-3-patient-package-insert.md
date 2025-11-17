@@ -45,10 +45,10 @@ Desmopressin nasal spray solution may cause serious side effects including:
 - •low levels of sodium in the blood (hyponatremia).
   People using desmopressin nasal spray solution are at risk for low sodium levels in the blood, water intoxication, and fluid overload.
   Follow your healthcare provider's instructions on limiting the amount of fluid you can drink when using desmopressin nasal spray solution.
-- oDo not drink more than you need to satisfy your thirst.
+- •Do not drink more than you need to satisfy your thirst.
   You can have serious side effects such as seizures, coma, and death from drinking too much fluid.
-- oChildren and the elderly are at higher risk for these problems and should follow their healthcare provider's limits on drinking fluids.
-- oCall your healthcare provider right away if you have any of the following symptoms while using desmopressin nasal spray solution.
+- •Children and the elderly are at higher risk for these problems and should follow their healthcare provider's limits on drinking fluids.
+- •Call your healthcare provider right away if you have any of the following symptoms while using desmopressin nasal spray solution.
   They may mean that your blood sodium level is too low.
 - •headache • nausea, vomiting • weight gain
 - •restlessness • tiredness • sleepiness
