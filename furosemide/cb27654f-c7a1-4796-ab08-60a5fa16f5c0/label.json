@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "NDA217294"
+  ],
+  "inn": "furosemide",
+  "labeler": "SQ Innovation, Inc.",
+  "package_ndcs": [
+    "81137-001-15",
+    "81137-001-35"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "furosemide",
+      "name": "LASIX ONYU"
+    }
+  ],
+  "setid": "cb27654f-c7a1-4796-ab08-60a5fa16f5c0",
+  "source": "dailymed"
+}
