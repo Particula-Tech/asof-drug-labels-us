@@ -10,6 +10,6 @@ Boehringer Ingelheim Pharmaceuticals, Inc. either owns or uses the Jardiance®, 
 
 The other brands listed are trademarks of their respective owners and are not trademarks of Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2023 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2025 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL8994GK032023 SPL8995G
+COL8994IJ272025 SPL8995I

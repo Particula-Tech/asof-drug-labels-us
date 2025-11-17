@@ -2,7 +2,7 @@
 
 GLYXAMBI is a combination of empagliflozin and linagliptin indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.
 
-Empagliflozin is indicated to reduce the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease [see Clinical Studies (14.2)].
+Empagliflozin is indicated to reduce the risk of cardiovascular (CV) death in adults with type 2 diabetes mellitus and established CV disease [see Clinical Studies (14.2)].
 
 Limitations of Use
 

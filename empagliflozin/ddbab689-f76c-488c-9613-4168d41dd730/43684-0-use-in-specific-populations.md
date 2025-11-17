@@ -94,8 +94,8 @@ Empagliflozin
 The glucose lowering benefit of empagliflozin 25 mg decreased in patients with worsening renal function.
 The risks of renal impairment [see Warnings and Precautions (5.3)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
 
-Efficacy and safety trials with empagliflozin did not enroll patients with ESRD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m2.
-Empagliflozin is contraindicated in patients on dialysis [see Indications and Usage (1) and Contraindications (4)].
+Efficacy and safety trials with empagliflozin for glycemic control and the EMPA-REG OUTCOME trial did not enroll patients with ESRD on dialysis or patients with an eGFR less than 30 mL/min/1.73 m2.
+[see Indications and Usage (1)].
 
 ## 8.7 Hepatic Impairment
 

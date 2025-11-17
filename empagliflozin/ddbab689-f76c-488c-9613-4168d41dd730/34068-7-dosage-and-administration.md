@@ -13,14 +13,14 @@ GLYXAMBI may be increased to 25 mg empagliflozin/5 mg linagliptin once daily for
 
 ## 2.3 Dosage Recommendations in Patients with Renal Impairment
 
-GLYXAMBI is not recommended for use in patients with an eGFR less than 30 mL/min/1.73 m2 and contraindicated in patients on dialysis [see Indications and Usage (1), Contraindications (4), Warnings and Precautions (5.3), and Use in Specific Populations (8.6)].
+GLYXAMBI is not recommended for use in patients with an eGFR less than 30 mL/min/1.73 m2 [see Indications and Usage (1), Warnings and Precautions (5.3), and Use in Specific Populations (8.6)].
 
-## 2.4 Recommendations Regarding Missed Dose
+## 2.4 Temporary Interruption for Surgery
+
+Withhold GLYXAMBI for at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting.
+Resume GLYXAMBI when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].
+
+## 2.5 Recommendations Regarding Missed Dose
 
 - If a dose is missed, instruct patients to take the dose as soon as possible.
-- Do not double up the next dose.
-
-## 2.5 Temporary Interruption for Surgery
-
-Withhold GLYXAMBI for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
-Resume GLYXAMBI when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.1) and Clinical Pharmacology (12.2)].
+- Advise patients not to double up the next dose.

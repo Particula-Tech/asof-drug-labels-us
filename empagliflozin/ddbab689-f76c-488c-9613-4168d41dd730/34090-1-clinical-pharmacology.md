@@ -8,7 +8,7 @@ GLYXAMBI contains: empagliflozin, a SGLT2 inhibitor, and linagliptin, a DPP-4 in
 
 Empagliflozin
 
-Empagliflozin is an inhibitor of the SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
+Empagliflozin is an inhibitor of SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
 By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
 
 Linagliptin
@@ -96,7 +96,7 @@ Linagliptin
 Absorption
 
 The absolute bioavailability of linagliptin is approximately 30%.
-High-fat meal reduced Cmax by 15% and increased AUC by 4%; this effect is not clinically relevant.
+A high-fat meal reduced Cmax by 15% and increased AUC by 4%; this effect is not clinically relevant.
 Linagliptin may be administered with or without food.
 
 Distribution
@@ -229,7 +229,7 @@ Table 4 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | aMultiple dose (steady-state) unless otherwise noted |  |  |  |  |
 | bFor information regarding clinical recommendations [see Drug Interactions (7)]. |  |  |  |  |
 | cSingle dose |  |  |  |  |
-| dAUC = AUC(0 to 24 hours) for single dose treatments and AUC = AUC(TAU) for multiple-dose treatments |  |  |  |  |
+| dAUC = AUC (0 to 24 hours) for single dose treatments and AUC = AUC (TAU) for multiple-dose treatments |  |  |  |  |
 | QD = once daily |  |  |  |  |
 | BID = twice daily |  |  |  |  |
 | TID = three times daily |  |  |  |  |
@@ -257,8 +257,8 @@ Table 5 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 | levonorgestrel | 1.09 | 1.13 |  |  |  |
 | aMultiple dose (steady-state) unless otherwise noted |  |  |  |  |  |
 | bSingle dose |  |  |  |  |  |
-| cAUC = AUC(INF) for single dose treatments and AUC = AUC(TAU) for multiple dose treatments |  |  |  |  |  |
-| dAUC=AUC(0-168) and Cmax = Emax for pharmacodynamic end points |  |  |  |  |  |
+| cAUC = AUC (INF) for single dose treatments and AUC = AUC (TAU) for multiple dose treatments |  |  |  |  |  |
+| dAUC = AUC (0-168) and Cmax = Emax for pharmacodynamic end points |  |  |  |  |  |
 | INR = International Normalized Ratio |  |  |  |  |  |
 | PT = Prothrombin Time |  |  |  |  |  |
 | QD = once daily |  |  |  |  |  |

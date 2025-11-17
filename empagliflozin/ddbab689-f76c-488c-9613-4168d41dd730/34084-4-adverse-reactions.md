@@ -5,15 +5,13 @@ The following important adverse reactions are described below and elsewhere in t
 - Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.1)]
 - Pancreatitis [see Warnings and Precautions (5.2)]
 - Volume Depletion [see Warnings and Precautions (5.3)]
-- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.4)]
+- Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier's Gangrene), and Genital Mycotic Infections [see Warnings and Precautions (5.4)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.5)]
-- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.6)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.7)]
-- Lower Limb Amputation [see Warnings and Precautions (5.8)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.9)]
-- Severe and Disabling Arthralgia [see Warnings and Precautions (5.10)]
-- Bullous Pemphigoid [see Warnings and Precautions (5.11)]
-- Heart Failure [see Warnings and Precautions (5.12)]
+- Lower Limb Amputation [see Warnings and Precautions (5.6)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.8)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.9)]
+- Heart Failure [see Warnings and Precautions (5.10)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -94,7 +92,7 @@ Empagliflozin
 
 Increases in Serum Creatinine and Decreases in eGFR: Initiation of empagliflozin causes an increase in serum creatinine and decrease in eGFR within weeks of starting therapy and then these changes stabilize.
 In a trial of patients with moderate renal impairment, larger mean changes were observed.
-In a long-term cardiovascular outcomes trial, the increase in serum creatinine and decrease in eGFR generally did not exceed 0.1 mg/dL and -9.0 mL/min/1.73 m2, respectively, at Week 4, and reversed after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with empagliflozin.
+In a long-term CV outcomes trial, the increase in serum creatinine and decrease in eGFR generally did not exceed 0.1 mg/dL and -9.0 mL/min/1.73 m2, respectively, at Week 4, and reversed after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with empagliflozin.
 
 Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with empagliflozin.
 LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
@@ -110,7 +108,7 @@ Increase in Uric Acid: Changes in laboratory values that occurred more frequentl
 Increase in Lipase: In a placebo-controlled clinical trial with linagliptin in type 2 diabetes mellitus patients with micro- or macroalbuminuria, a mean increase of 30% in lipase concentrations from baseline to 24 weeks was observed in the linagliptin arm compared to a mean decrease of 2% in the placebo arm.
 Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 1.7% patients in the linagliptin and placebo arms, respectively.
 
-Increase in Amylase: In a cardiovascular safety trial comparing linagliptin versus glimepiride in patients with type 2 diabetes mellitus, amylase levels above 3 times upper limit of normal were seen in 1.0% compared to 0.5% of patients in the linagliptin and glimepiride arms, respectively.
+Increase in Amylase: In a CV safety trial comparing linagliptin versus glimepiride in patients with type 2 diabetes mellitus, amylase levels above 3 times upper limit of normal were seen in 1.0% compared to 0.5% of patients in the linagliptin and glimepiride arms, respectively.
 
 The clinical significance of elevations in lipase and amylase with linagliptin is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.2)].
 
