@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA075714"
+  ],
+  "inn": "carbamazepine",
+  "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+  "package_ndcs": [
+    "68999-802-24",
+    "68999-802-45",
+    "68999-867-24",
+    "68999-867-59"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "carbamazepine",
+      "name": "Carbamazepine"
+    }
+  ],
+  "setid": "35298eaf-3478-4dfb-a629-298dd52713f0",
+  "source": "dailymed"
+}
