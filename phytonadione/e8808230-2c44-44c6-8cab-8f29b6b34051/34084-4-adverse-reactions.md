@@ -1,16 +1,31 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Deaths have occurred after intravenous and intramuscular administration.
-(See Box Warning.)
+The following serious adverse reactions are described elsewhere in the labeling:
 
-Transient "flushing sensations" and "peculiar" sensations of taste have been observed, as well as rare instances of dizziness, rapid and weak pulse, profuse sweating, brief hypotension, dyspnea, and cyanosis.
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.1)]
+- •Cutaneous Reactions [see Warnings and Precautions (5.3)]
 
-Pain, swelling, and tenderness at the injection site may occur.
+## 6.1 Clinical Trials Experience
 
-The possibility of allergic sensitivity including an anaphylactoid reaction, should be kept in mind.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Infrequently, usually after repeated injection, erythematous, indurated, pruritic plaques have occurred; rarely, these have progressed to scleroderma-like lesions that have persisted for long periods.
-In other cases, these lesions have resembled erythema perstans.
+## 6.2 Postmarketing Experience
 
-Hyperbilirubinemia has been observed in the newborn following administration of phytonadione.
-This has occurred rarely and primarily with doses above those recommended (See PRECAUTIONS, Pediatric Use).
+The following adverse reactions have been identified during post-approval use of Vitamin K1 Injection.
+Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Cardiac Disorders: Tachycardia, hypotension.
+
+General Disorders and Administration Site Conditions: Generalized flushing; pain, swelling, and tenderness at injection site.
+
+Hepatobiliary Disorders: Hyperbilirubinemia.
+
+Immune System Disorders: Fatal hypersensitivity reactions, anaphylactic reactions.
+
+Neurologic: Dysgeusia, dizziness.
+
+Pulmonary: Dyspnea.
+
+Skin and Subcutaneous Tissue Disorders: Erythema, pruritic plaques, scleroderma-like lesions, erythema perstans.
+
+Vascular: Cyanosis.

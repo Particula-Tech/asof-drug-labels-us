@@ -1,58 +1,34 @@
-# WARNINGS
+# 5 WARNINGS AND PRECAUTIONS
 
-Benzyl alcohol as a preservative in Bacteriostatic Sodium Chloride Injection has been associated with toxicity in newborns.
-Data are unavailable on the toxicity of other preservatives in this age group.
-There is no evidence to suggest that the small amount of benzyl alcohol contained in Vitamin K1 Injection (Phytonadione Injectable Emulsion, USP), when used as recommended, is associated with toxicity.
+## 5.1 Hypersensitivity Reactions
 
-An immediate coagulant effect should not be expected after administration of phytonadione.
-It takes a minimum of 1 to 2 hours for measurable improvement in the prothrombin time.
-Whole blood or component therapy may also be necessary if bleeding is severe.
+Fatal and severe hypersensitivity reactions, including anaphylaxis, have occurred with intravenous or intramuscular administration of Vitamin K1 Injection.
+Reactions have occurred despite dilution to avoid rapid intravenous infusion and upon first dose.
+These reactions have included shock, cardiorespiratory arrest, flushing, diaphoresis, chest pain, tachycardia, cyanosis, weakness, and dyspnea.
+Administer Vitamin K1 Injection subcutaneously whenever feasible.
+Avoid the intravenous and intramuscular routes of administration unless the subcutaneous route is not feasible and the serious risk is justified [see Dosage and Administration (2.1)].
 
-Phytonadione will not counteract the anticoagulant action of heparin.
+## 5.2 Risk of Serious Adverse Reaction in Infants due to Benzyl Alcohol Preservative
 
-When vitamin K1 is used to correct excessive anticoagulant-induced hypoprothrombinemia, anticoagulant therapy still being indicated, the patient is again faced with the clotting hazards existing prior to starting the anticoagulant therapy.
-Phytonadione is not a clotting agent, but overzealous therapy with vitamin K1 may restore conditions which originally permitted thromboembolic phenomena.
-Dosage should be kept as low as possible, and prothrombin time should be checked regularly as clinical conditions indicate.
+Use benzyl alcohol-free phytonadione formulations in neonates and infants, if available.
+Serious and fatal adverse reactions including “gasping syndrome” can occur in neonates and infants treated with benzyl alcohol‑preserved drugs, including Vitamin K1 Injection.
+The “gasping syndrome” is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
 
-Repeated large doses of vitamin K are not warranted in liver disease if the response to initial use of the vitamin is unsatisfactory.
-Failure to respond to vitamin K may indicate that the condition being treated is inherently unresponsive to vitamin K.
+When prescribing Vitamin K1 Injection in infants, consider the combined daily metabolic load of benzyl alcohol from all sources including Vitamin K1 Injection (contains 9 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [see Use in Specific Populations (8.1, 8.2 and 8.4)].
 
-Benzyl alcohol has been reported to be associated with a fatal "Gasping Syndrome" in premature infants.
+## 5.3 Cutaneous Reactions
+
+Parenteral administration of vitamin K replacements (including Vitamin K1 Injection) may cause cutaneous reactions.
+Reactions have included eczematous reactions, scleroderma-like patches, urticaria, and delayed-type hypersensitivity reactions.
+Time of onset ranged from 1 day to a year after parenteral administration.
+Discontinue Vitamin K1 Injection for skin reactions and institute medical management.
+
+## 5.4 Aluminum Toxicity
 
 WARNING: This product contains aluminum that may be toxic.
 Aluminum may reach toxic levels with prolonged parenteral administration if kidney function is impaired.
-Premature neonates are particularly at risk because their kidneys are immature, and they required large amounts of calcium and phosphate solutions, which contain aluminum.
+Premature neonates are particularly at risk because their kidneys are immature, and they require large amounts of calcium and phosphate solutions, which contain aluminum.
 
 Research indicates that patients with impaired kidney function, including premature neonates, who receive parenteral levels of aluminum at greater than 4 to 5 mcg/kg/day accumulate aluminum at levels associated with central nervous system and bone toxicity.
 Tissue loading may occur at even lower rates of administration.
-
-# PRECAUTIONS
-
-## Drug Interactions
-
-Temporary resistance to prothrombin-depressing anticoagulants may result, especially when larger doses of phytonadione are used.
-If relatively large doses have been employed, it may be necessary when reinstituting anticoagulant therapy to use somewhat larger doses of the prothrombin-depressing anticoagulant, or to use one which acts on a different principle, such as heparin sodium.
-
-Laboratory Tests
-
-Prothrombin time should be checked regularly as clinical conditions indicate.
-
-## Carcinogenesis, Mutagenesis, Impairment of Fertility
-
-Studies of carcinogenicity, mutagenesis or impairment of fertility have not been conducted with Vitamin K1 Injection (Phytonadione Injectable Emulsion, USP).
-
-## Pregnancy
-
-Animal reproduction studies have not been conducted with Vitamin K1 Injection.
-It is also not known whether Vitamin K1 Injection can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
-Vitamin K1 Injection should be given to a pregnant woman only if clearly needed.
-
-## Nursing Mothers
-
-It is not known whether this drug is excreted in human milk.
-Because many drugs are excreted in human milk, caution should be exercised when Vitamin K1 Injection is administered to a nursing woman.
-
-## Pediatric Use
-
-Hemolysis, jaundice, and hyperbilirubinemia in neonates, particularly those that are premature, may be related to the dose of Vitamin K1 Injection.
-Therefore, the recommended dose should not be exceeded (See ADVERSE REACTIONS and DOSAGE AND ADMINISTRATION).
