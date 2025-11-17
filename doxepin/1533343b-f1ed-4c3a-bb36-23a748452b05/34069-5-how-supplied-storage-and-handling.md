@@ -1,6 +1,6 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Doxepin Hydrochloride Capsules, USP are available containing doxepin hydrochloride, USP equivalent to 10 mg, 25 mg, 50 mg, 75 mg or 100 mg of doxepin.
+How Supplied Doxepin Hydrochloride Capsules, USP are available containing doxepin hydrochloride, USP equivalent to 10 mg, 25 mg, 50 mg, 75 mg or 100 mg of doxepin.
 
 The 10 mg capsules are hard-shell, gelatin capsules with a buff opaque cap and buff opaque body axially printed with MYLAN over 1049 in black ink on both the cap and the body.
 They are available as follows:
