@@ -32,7 +32,7 @@ Do not drive or operate heavy machinery until you know how taking clonazepam ora
 
 - Do not suddenly stop taking clonazepam orally disintegrating tablets.
 
-Stopping clonazepam orally disintegrating tablets suddenly can cause serious and life-threatening side effects, including, unusual movements, responses, or expressions, seizures, sudden and severe mental or nervous system changes, depression, seeing or hearing things that others do not see or hear, an extreme increase in activity or talking, losing touch with reality, and suicidal thoughts or actions.
+Stopping clonazepam orally disintegrating tablets suddenly can cause serious and life- threatening side effects, including, unusual movements, responses, or expressions, seizures, sudden and severe mental or nervous system changes, depression, seeing or hearing things that others do not see or hear, an extreme increase in activity or talking, losing touch with reality, and suicidal thoughts or actions.
 Call your healthcare provider or go to the nearest hospital emergency room right away if you get any of these symptoms.
 
 - Some people who suddenly stop benzodiazepines have symptoms that can last for several weeks to more than 12 months, including, anxiety, trouble remembering, learning, or concentrating, depression, problems sleeping, feeling like insects are crawling under your skin, weakness, shaking, muscle twitching, burning or prickling feeling in your hands, arms, legs, or feet, and ringing in your ears.
@@ -203,10 +203,10 @@ Manufactured for: Endo USA Malvern, PA 19355 U.S.A.
 
 Made in India
 
-Neutral Code: MP/DRUGS/25/82/2020
+Neutral Code: TN/DRUGS/TN00002121
 
 © 2024 Endo, Inc. or one of its affiliates.
 
-OS306-01-74-02
+OS306C-01-74-01
 
-Revised: 10/2024
+Issued: 12/2024
