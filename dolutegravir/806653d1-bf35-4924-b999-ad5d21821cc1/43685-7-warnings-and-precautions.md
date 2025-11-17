@@ -26,7 +26,7 @@ Monitoring for hepatotoxicity is recommended.
 ## 5.3 Depressive Disorders
 
 Depressive disorders (including depressed mood, depression, dysphoria, major depression, mood altered, negative thoughts, suicide attempt, and suicidal ideation) have been reported with rilpivirine [see Adverse Reactions (6.1)].
-For information regarding depressive disorders reported in patients taking dolutegravir, see Adverse Reactions (6.1).
+For information regarding depressive disorders reported in patients taking dolutegravir, [see Adverse Reactions (6.1)].
 Promptly evaluate patients with severe depressive symptoms to assess whether the symptoms are related to JULUCA and to determine whether the risks of continued therapy outweigh the benefits.
 
 ## 5.4 Risk of Adverse Reactions or Loss of Virologic Response Due to Drug Interactions

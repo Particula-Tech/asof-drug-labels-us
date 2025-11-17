@@ -12,7 +12,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 The safety assessment of JULUCA is based on the pooled primary Week 48 analyses of data from 2 identical, international, multicenter, open-label trials, SWORD-1 and SWORD-2, including additional follow up through Week 148.
 
-A total of 1,024 adult HIV-1–infected subjects who were on a stable suppressive antiretroviral regimen (containing 2 nucleoside reverse transcriptase inhibitors [NRTIs] plus either an integrase strand transfer inhibitor [INSTI], a non-nucleoside reverse transcriptase inhibitor [NNRTI], or a protease inhibitor [PI]) for at least 6 months with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine, were randomized and received treatment.
+A total of 1,024 adult HIV-1-infected subjects who were on a stable suppressive antiretroviral regimen (containing 2 nucleoside reverse transcriptase inhibitors [NRTIs] plus either an integrase strand transfer inhibitor [INSTI], a non-nucleoside reverse transcriptase inhibitor [NNRTI], or a protease inhibitor [PI]) for at least 6 months with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine, were randomized and received treatment.
 Subjects were randomized 1:1 to continue their current antiretroviral regimen or be switched to dolutegravir plus rilpivirine administered once daily.
 Subjects originally assigned to continue their current antiretroviral regimen and who remained virologically suppressed at Week 48 switched to dolutegravir plus rilpivirine at Week 52.
 In the pooled analyses, the proportion of subjects who discontinued treatment due to an adverse event through Week 48 was 4% in subjects receiving dolutegravir plus rilpivirine once daily and less than 1% in subjects who remained on their current antiretroviral regimen.
@@ -115,6 +115,10 @@ Refer to the EDURANT (rilpivirine) Prescribing Information for additional inform
 
 The following adverse reactions have been identified during postmarketing experience in patients receiving a dolutegravir- or rilpivirine-containing regimen.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Blood and Lymphatic Systems
+
+Sideroblastic anemia.
 
 Hepatobiliary Disorders
 

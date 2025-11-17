@@ -102,7 +102,7 @@ Pharmacokinetic Results of Rilpivirine during the 2nd and 3rd Trimesters of Preg
 | --- | --- | --- | --- |
 | C0h (ng/mL) | 111 ± 69.2 | 65.0 ± 23.9 | 63.5 ± 26.2 |
 | Cmin (ng/mL) | 84.0 ± 58.8 | 54.3 ± 25.8 | 52.9 ± 24.4 |
-| Cmax (ng/mL) | 167 ± 101 | 121 ±45.9 | 123 ± 47.5 |
+| Cmax (ng/mL) | 167 ± 101 | 121 ± 45.9 | 123 ± 47.5 |
 | Tmax (h), median (range) | 4.00 (2.03-25.08) | 4.00 (1.00-9.00) | 4.00 (2.00-24.93) |
 | AUC24h (ng•h/mL) | 2,714 ± 1,535 | 1,792 ± 711 | 1,762 ± 662 |
 | a Total rilpivirine exposure after administration of rilpivirine 25 mg once daily as part of an antiretroviral regimen. |  |  |  |

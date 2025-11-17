@@ -35,7 +35,7 @@ Inform patients that there is an antiretroviral pregnancy registry to monitor fe
 
 Lactation
 
-Inform individuals with HIV-1 infection that the potential risks of breastfeeding include: (1) HIV‑1 transmission (in HIV-1–negative infants), (2) developing viral resistance (in HIV-1–positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults [seeUse in Specific Populations (8.2)].
+Inform individuals with HIV-1 infection that the potential risks of breastfeeding include: (1) HIV-1 transmission (in HIV-1–negative infants), (2) developing viral resistance (in HIV-1–positive infants), and (3) adverse reactions in a breastfed infant similar to those seen in adults [see Use in Specific Populations (8.2)].
 
 Storage
 
@@ -51,6 +51,6 @@ Manufactured for:
 
 ViiV Healthcare Durham, NC 27701
 
-©2024 ViiV Healthcare group of companies or its licensor.
+©2025 ViiV Healthcare group of companies or its licensor.
 
-JLC:10PI
+JLC:11PI
