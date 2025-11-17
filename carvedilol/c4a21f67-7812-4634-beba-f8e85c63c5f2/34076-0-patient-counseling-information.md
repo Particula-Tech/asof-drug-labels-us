@@ -15,13 +15,9 @@ Patients taking carvedilol should be advised of the following:
   Instruct patients or caregivers how to monitor for syns of hypoglycemia [see Warnings and Precautions (5.6)].
 - •Contact lens wearers may experience decreased lacrimation.
 
-Manufactured by:
+Distributed by:
 
-Glenmark Pharmaceuticals Ltd. India
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430 Questions?
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-August 2023
+August 2025

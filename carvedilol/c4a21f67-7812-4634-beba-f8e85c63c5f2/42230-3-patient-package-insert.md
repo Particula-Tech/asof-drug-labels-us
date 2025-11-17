@@ -139,17 +139,13 @@ High blood pressure makes the heart work harder to pump blood through the body a
 Carvedilol tablets can help your blood vessels relax so your blood pressure is lower.
 Medicines that lower blood pressure may lower your chance of having a stroke or heart attack.
 
-Manufactured by:
+Distributed by:
 
-Glenmark Pharmaceuticals Ltd. India
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-August 2023
+Revised: August 2025
