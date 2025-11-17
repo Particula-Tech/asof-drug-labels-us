@@ -96,7 +96,7 @@ Contact your pharmacist if:
 - •The recommended injection site is the front of your thighs.
   You may also use the lower abdomen, but not the area 2 inches (5 cm) around your navel (belly button) (see Figure E).
 - •Choose a different site each time you give yourself an injection.
-  - •Do not inject into areas where the skin is tender, bruised, red, scaly, or hard.
+  - oDo not inject into areas where the skin is tender, bruised, red, scaly, or hard.
     Avoid areas with scars or stretch marks.
     If you have psoriasis, you should not inject directly into areas with psoriasis plaques.
 
@@ -130,11 +130,11 @@ Figure G: pull the needle cap off
 1. 1.Disposing of used prefilled syringes
 2. 2.Put your used prefilled syringe in an FDA-cleared sharps disposal container right away after use (see Figure L). Do not throw away (dispose of) any prefilled syringes in your household trash.
 3. 3.If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
-   1. •made of a heavy-duty plastic,
-   2. •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-   3. •upright and stable during use,
-   4. •leak resistant, and
-   5. •properly labeled to warn of hazardous waste inside the container.
+   1. 1.made of a heavy-duty plastic,
+   2. 2.can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+   3. 3.upright and stable during use,
+   4. 4.leak resistant, and
+   5. 5.properly labeled to warn of hazardous waste inside the container.
 4. 4.When your sharps container is almost full, you will need to follow your community guidelines, for the right way to dispose of your sharps disposal container.
    There may be a state or local laws about how you should throw away used syringes, needles and prefilled syringe.
    For more information about safe sharps disposal, and for specific information about sharps disposal, in the state that you live in, go to the FDA’s website at: www.fda.gov/safesharpsdisposal
@@ -311,11 +311,11 @@ Figure J: check the green indicator
 1. 1.Disposing of used Sensoready Pens
 2. 2.Put your used Sensoready Pen in an FDA-cleared sharps disposal container right away after use (see Figure K). Do not throw away (dispose of) any Sensoready Pens in your household trash.
 3. 3.If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:
-   1. •made of a heavy-duty plastic,
-   2. •can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
-   3. •upright and stable during use,
-   4. •leak resistant, and
-   5. •properly labeled to warn of hazardous waste inside the container.
+   1. 1.made of a heavy-duty plastic,
+   2. 2.can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+   3. 3.upright and stable during use,
+   4. 4.leak resistant, and
+   5. 5.properly labeled to warn of hazardous waste inside the container.
 4. 4.When your sharps container is almost full, you will need to follow your community guidelines, for the right way to dispose of your sharps disposal container.
    There may be state or local laws about how you should throw away used syringes, needles and pens.
    For more information about safe sharps disposal, and for specific information about sharps disposal, in the state that you live in, go to the FDA’s website at:
@@ -419,4 +419,4 @@ Contact your pharmacist if:
 
 All third party trademarks are the property of their respective owners.
 
-1. This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 06/2024
+- This Instructions for Use has been approved by the U.S. Food and Drug Administration Revised: 06/2024

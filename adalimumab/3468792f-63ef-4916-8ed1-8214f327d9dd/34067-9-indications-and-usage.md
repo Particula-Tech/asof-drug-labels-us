@@ -38,8 +38,8 @@ Adalimumab-adaz should only be administered to patients who will be closely moni
 
 ## 1.8 Hidradenitis Suppurativa
 
-Adalimumab-adaz is indicated for the treatment of moderate to severe hidradenitis suppurativa in adult patients.
+Adalimumab-adaz is indicated for the treatment of moderate to severe hidradenitis suppurativa in patients 12 years of age and older.
 
 ## 1.9 Uveitis
 
-Adalimumab-adaz is indicated for the treatment of non-infectious intermediate, posterior, and panuveitis in adult patients.
+Adalimumab-adaz is indicated for the treatment of non-infectious intermediate, posterior, and panuveitis in adults and pediatric patients 2 years of age and older.

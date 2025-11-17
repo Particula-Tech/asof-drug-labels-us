@@ -30,7 +30,7 @@ Clinical Response
 
 The percent of adalimumab treated subjects achieving ACR 20, 50 and 70 responses in Studies RA-II and III are shown in Table 3.
 
-Table 3.
+Table 1.
 ACR Responses in Studies RA-II and RA-III (Percent of Subjects)
 
 |  | Study RA-II Monotherapy (26 weeks) |  |  | Study RA-III Methotrexate Combination (24 and 52 weeks) |  |
@@ -56,7 +56,7 @@ ACR response rates and improvement in all components of ACR response were mainta
 Over the 2 years in Study RA-III, 20% of adalimumab subjects receiving 40 mg every other week achieved a major clinical response, defined as maintenance of an ACR 70 response over a 6-month period.
 ACR responses were maintained in similar proportions of subjects for up to 5 years with continuous adalimumab treatment in the open-label portion of Study RA-III.
 
-Table 4.
+Table 2.
 Components of ACR Response in Studies RA-II and RA-III
 
 |  | Study RA-II |  |  |  | Study RA-III |  |  |  |
@@ -85,7 +85,7 @@ No unique adverse reactions related to the combination of adalimumab and other D
 
 In Study RA-V with MTX naïve subjects with recent onset RA, the combination treatment with adalimumab plus MTX led to greater percentages of subjects achieving ACR responses than either MTX monotherapy or adalimumab monotherapy at Week 52 and responses were sustained at Week 104 (see Table 5).
 
-Table 5.
+Table 3.
 ACR Response in Study RA-V (Percent of Subjects)
 
 | Response | MTXb N=257 | Adalimumabc N=274 | Adalimumab/MTX N=268 |
@@ -105,7 +105,7 @@ At baseline, the median TSS was approximately 55 in the placebo and 40 mg every 
 The results are shown in Table 6.
 Adalimumab/MTX treated subjects demonstrated less radiographic progression than subjects receiving MTX alone at 52 weeks.
 
-Table 6.
+Table 4.
 Radiographic Mean Changes Over 12 Months in Study RA-III
 
 |  | Placebo/MTX | Adalimumab/MTX 40 mg every other week | Placebo/MTX- Adalimumab/MTX (95% Confidence Interval*) | P-value** |
@@ -117,14 +117,14 @@ Radiographic Mean Changes Over 12 Months in Study RA-III
 
 In the open-label extension of Study RA-III, 77% of the original subjects treated with any dose of adalimumab were evaluated radiographically at 2 years.
 Subjects maintained inhibition of structural damage, as measured by the TSS.
-54% had no progression of structural damage as defined by a change in the TSS of zero or less.
+Fifty-four percent had no progression of structural damage as defined by a change in the TSS of zero or less.
 Fifty-five percent (55%) of subjects originally treated with 40 mg adalimumab every other week have been evaluated radiographically at 5 years.
 Subjects had continued inhibition of structural damage with 50% showing no progression of structural damage defined by a change in the TSS of zero or less.
 
 In Study RA-V, structural joint damage was assessed as in Study RA-III.
 Greater inhibition of radiographic progression, as assessed by changes in TSS, erosion score and JSN was observed in the adalimumab/MTX combination group as compared to either the MTX or adalimumab monotherapy group at Week 52 as well as at Week 104 (see Table 7).
 
-Table 7.
+Table 5.
 Radiographic Mean Change* in Study RA-V
 
 |  |  | MTXa N=257 | Adalimumaba,b N=274 | Adalimumab/MTX N=268 |
@@ -157,8 +157,8 @@ Study JIA-I
 
 The safety and efficacy of adalimumab were assessed in a multicenter, randomized, withdrawal, double-blind, parallel-group study in 171 subjects who were 4 to 17 years of age with polyarticular JIA.
 In the study, the subjects were stratified into two groups: MTX-treated or non-MTX-treated.
-All subjects had to show signs of active moderate or severe disease despite previous treatment with NSAIDs, analgesics, corticosteroids, or DMARDS.
-Subjects who received prior treatment with any biologic DMARDS were excluded from the study.
+All subjects had to show signs of active moderate or severe disease despite previous treatment with NSAIDs, analgesics, corticosteroids, or DMARDs.
+Subjects who received prior treatment with any biologic DMARDs were excluded from the study.
 
 The study included four phases: an open-label lead in phase (OL-LI; 16 weeks), a double-blind randomized withdrawal phase (DB; 32 weeks), an open-label extension phase (OLE-BSA; up to 136 weeks), and an open-label fixed dose phase (OLE-FD; 16 weeks).
 In the first three phases of the study, adalimumab was administered based on body surface area at a dose of 24 mg/m2 up to a maximum total body dose of 40 mg subcutaneously (SC) every other week.
@@ -197,12 +197,12 @@ Among subjects with PsA who received adalimumab, the clinical responses were app
 Similar responses were seen in subjects with each of the subtypes of psoriatic arthritis, although few subjects were enrolled with the arthritis mutilans and ankylosing spondylitis-like subtypes.
 Responses were similar in subjects who were or were not receiving concomitant MTX therapy at baseline.
 
-Subjects with psoriatic involvement of at least 3% body surface area (BSA) were evaluated for Psoriatic Area and Severity Index (PASI) responses.
+Subjects with psoriatic involvement of at least three percent body surface area (BSA) were evaluated for Psoriatic Area and Severity Index (PASI) responses.
 At 24 weeks, the proportions of subjects achieving a 75% or 90% improvement in the PASI were 59% and 42% respectively, in the adalimumab group (N=69), compared to 1% and 0% respectively, in the placebo group (N=69) (p<0.001).
 PASI responses were apparent in some subjects at the time of the first visit (two weeks).
 Responses were similar in subjects who were or were not receiving concomitant MTX therapy at baseline.
 
-Table 8.
+Table 6.
 ACR Response in Study PsA-I (Percent of Subjects)
 
 |  | Placebo N=162 | Adalimumab* N=151 |
@@ -212,7 +212,7 @@ ACR Response in Study PsA-I (Percent of Subjects)
 | ACR 70 Week 12 Week 24 | 1% 1% | 20% 23% |
 | * p<0.001 for all comparisons between adalimumab and placebo. |  |  |
 
-Table 9.
+Table 7.
 Components of Disease Activity in Study PsA-I
 
 |  | Placebo N=162 |  | Adalimumab* N=151 |  |
@@ -237,7 +237,7 @@ A modified Total Sharp Score (mTSS), which included distal interphalangeal joint
 
 Adalimumab-treated subjects demonstrated greater inhibition of radiographic progression compared to placebo-treated subjects and this effect was maintained at 48 weeks (see Table 10).
 
-Table 10.
+Table 8.
 Change in Modified Total Sharp Score in Psoriatic Arthritis
 
 |  | Placebo N=141 | Adalimumab N=133 |  |
@@ -272,7 +272,7 @@ Similar responses were seen at Week 24 and were sustained in subjects receiving 
 
 A greater proportion of subjects treated with adalimumab (22%) achieved a low level of disease activity at 24 weeks (defined as a value <20 [on a scale of 0 to 100 mm] in each of the four ASAS response parameters) compared to subjects treated with placebo (6%).
 
-Table 11.
+Table 9.
 Components of Ankylosing Spondylitis Disease Activity
 
 |  | Placebo N=107 |  | Adalimumab N=208 |  |
@@ -319,7 +319,7 @@ Induction of Clinical Remission
 
 A greater percentage of the subjects treated with 160/80 mg adalimumab achieved induction of clinical remission versus placebo at Week 4 regardless of whether the subjects were TNF blocker naïve (CD-I), or had lost response to or were intolerant to infliximab (CD-II) (see Table 12).
 
-Table 12.
+Table 10.
 Induction of Clinical Remission in Studies CD-I and CD-II (Percent of Subjects)
 
 |  | CD-I |  | CD-II |  |
@@ -336,7 +336,7 @@ In Study CD-III at Week 4, 58% (499/854) of subjects were in clinical response a
 At Weeks 26 and 56, greater proportions of subjects who were in clinical response at Week 4 achieved clinical remission in the adalimumab 40 mg every other week maintenance group compared to subjects in the placebo maintenance group (see Table 13).
 The group that received adalimumab therapy every week did not demonstrate significantly higher remission rates compared to the group that received adalimumab every other week.
 
-Table 13.
+Table 11.
 Maintenance of Clinical Remission in CD-III (Percent of Subjects)
 
 |  | Placebo | 40 mg Adalimumab every other week |
@@ -383,7 +383,7 @@ The proportions of subjects in clinical remission (defined as PCDAI ≤ 10) and 
 
 At both Weeks 26 and 52, the proportion of subjects in clinical remission and clinical response was numerically higher in the high dose group compared to the low dose group (Table 14).
 The recommended maintenance regimen is 20 mg every other week for subjects weighing < 40 kg and 40 mg every other week for subjects weighing ≥ 40 kg.
-Every week dosing is not the recommended maintenance dosing regimen [see Dosage and Administration (2.3)].
+Every week dosing is not the recommended maintenance dosing regimen [see Dosage and Administration (2.4)].
 
 Table 14.
 Clinical Remission and Clinical Response in Study PCD-I
@@ -400,7 +400,7 @@ Clinical Remission and Clinical Response in Study PCD-I
 
 ## 14.7 Clinical Studies in Adults with Ulcerative Colitis
 
-The safety and efficacy of adalimumab were assessed in adult subjects with moderately to severely active ulcerative colitis (Mayo score 6 to 12 on a 12 point scale, with an endoscopy subscore of 2 to 3 on a scale of 0 to 3) despite concurrent or prior treatment with immunosuppressants such as corticosteroids, azathioprine, or 6-MP in two randomized, double-blind, placebo-controlled clinical studies (Studies UC-I and UC-II).
+The safety and efficacy of adalimumab were assessed in adult subjects with moderately to severely active ulcerative colitis (Mayo score 6 to 12 on a 12-point scale, with an endoscopy subscore of 2 to 3 on a scale of 0 to 3) despite concurrent or prior treatment with immunosuppressants such as corticosteroids, azathioprine, or 6-MP in two randomized, double-blind, placebo-controlled clinical studies (Studies UC-I and UC-II).
 Both studies enrolled TNF-blocker naïve subjects, but Study UC-II also allowed entry of subjects who lost response to or were intolerant to TNF-blockers.
 Forty percent (40%) of subjects enrolled in Study UC-II had previously used another TNF-blocker.
 
@@ -458,7 +458,7 @@ Studies Ps-I and II evaluated the proportion of subjects who achieved “clear�
 
 Additionally, Study Ps-I evaluated the proportion of subjects who maintained a PGA of “clear” or “minimal” disease or a PASI 75 response after Week 33 and on or before Week 52.
 
-Table 16.
+Table 12.
 Efficacy Results at 16 Weeks in Study Ps-I Number of Subjects (%)
 
 |  | Adalimumab 40 mg every other week | Placebo |
@@ -468,7 +468,7 @@ Efficacy Results at 16 Weeks in Study Ps-I Number of Subjects (%)
 | PASI 75 | 578 (71%) | 26 (7%) |
 | * Clear = no plaque elevation, no scale, plus or minus hyperpigmentation or diffuse pink or red coloration. Minimal = possible but difficult to ascertain whether there is slight elevation of plaque above normal skin, plus or minus surface dryness with some white coloration, plus or minus up to red coloration. |  |  |
 
-Table 17.
+Table 13.
 Efficacy Results at 16 Weeks in Study Ps-II Number of Subjects (%)
 
 |  | Adalimumab 40 mg every other week | Placebo |
@@ -498,7 +498,7 @@ Furthermore, a higher proportion of subjects in the adalimumab group than in the
 Table 18.
 Efficacy Results at 26 Weeks
 
-| Endpoint | Adalimumab 40 mgEvery other week*N=109 | PlaceboN=108 |
+| Endpoint | Adalimumab 40 mgevery other week*N=109 | PlaceboN=108 |
 | --- | --- | --- |
 | PGA-F: ≥ 2-grade improvement and clear or minimal | 49 % | 7 % |
 | mNAPSI 75 | 47 % | 3 % |
@@ -514,7 +514,7 @@ Subjects used topical antiseptic wash daily.
 Concomitant oral antibiotic use was allowed in Study HS-II.
 
 Both studies evaluated Hidradenitis Suppurativa Clinical Response (HiSCR) at Week 12.
-HiSCR was defined as at least a 50% reduction in total abscess and inflammatory nodule count with no increase in abscess count and no increase in draining fistula count relative to baseline (see Table 17).
+HiSCR was defined as at least a 50% reduction in total abscess and inflammatory nodule count with no increase in abscess count and no increase in draining fistula count relative to baseline (see Table 19).
 Reduction in HS-related skin pain was assessed using a Numeric Rating Scale in subjects who entered the study with an initial baseline score of 3 or greater on a 11-point scale.
 
 In both studies, a higher proportion of adalimumab-than placebo-treated subjects achieved HiSCR (see Table 19).
@@ -569,3 +569,37 @@ Study UV I
 Study UV II
 
 Note: P# = Placebo (Number of Events/Number at Risk); A# = Adalimumab (Number of Events/Number at Risk).
+
+## 14.12 Clinical Studies in Pediatric Subjects with Uveitis
+
+The safety and efficacy of adalimumab were assessed in a randomized, double-masked, placebo-controlled study of 90 pediatric subjects from 2 to < 18 years of age with active JIA-associated non-infectious uveitis (PUV-I).
+Subjects received either placebo or 20 mg adalimumab (if < 30 kg) or 40 mg adalimumab (if ≥ 30 kg) every other week in combination with a dose of methotrexate.
+Concomitant dosages of corticosteroids were permitted at study entry followed by a mandatory reduction in topical corticosteroids within 3 months.
+
+The primary endpoint was ‘time to treatment failure’.
+The criteria determining treatment failure were worsening or sustained non-improvement in ocular inflammation, or worsening of ocular co-morbidities.
+
+Clinical Response
+
+Adalimumab significantly decreased the risk of treatment failure by 75% relative to placebo (HR = 0.25 [95% CI: 0.12, 0.49]) (Table 21).
+
+Table 21.
+Analysis Results of Time to Treatment Failure (Study PUV-I)
+
+|  | Placebo(N=30) | Adalimumab (N=60) | HR (95% CI)ª |
+| --- | --- | --- | --- |
+| Failure (n[%]) | 18 (60%) | 16 (26.7%) | 0.25 (0.12, 0.49) |
+| Median Time to Failure (Weeks) (95% CI)ᵇ | 24.1 (12.4, 81.0) | NEᶜ |  |
+
+a HR of adalimumab versus placebo from proportional hazards regression with treatment as factor.
+
+b Estimated based on Kaplan-Meier curve.
+
+c NE = not estimable.
+Fewer than half of at-risk subjects had an event.
+
+Figure 4: Kaplan-Meier Curves Summarizing Time to Treatment Failure (Study PUV-I)
+
+Study PUV-I
+
+Note: P = Placebo (Number at Risk); H = Adalimumab (Number at Risk).

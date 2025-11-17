@@ -7,12 +7,12 @@ Prior to initiating Adalimumab-adaz and periodically during therapy, evaluate pa
 ## 2.2 Recommended Dosage in Rheumatoid Arthritis, Psoriatic Arthritis, and Ankylosing Spondylitis
 
 The recommended subcutaneous dosage of Adalimumab-adaz for adult patients with rheumatoid arthritis (RA), psoriatic arthritis (PsA), or ankylosing spondylitis (AS) [see Indication and Usage (1.1, 1.3, 1.4)] is 40 mg administered every other week.
-Methotrexate (MTX), other non-biologic DMARDS, glucocorticoids, nonsteroidal anti-inflammatory drugs (NSAIDs), and/or analgesics may be continued during treatment with Adalimumab-adaz.
+Methotrexate (MTX), other non-biologic DMARDs, glucocorticoids, nonsteroidal anti-inflammatory drugs (NSAIDs), and/or analgesics may be continued during treatment with Adalimumab-adaz.
 In the treatment of RA, some patients not taking concomitant MTX may derive additional benefit from increasing the dosage of Adalimumab-adaz to 40 mg every week or 80 mg every other week.
 
-## 2.3 Recommended Dosage in Juvenile Idiopathic Arthritis
+## 2.3 Recommended Dosage in Juvenile Idiopathic Arthritis or Pediatric Patients with Uveitis
 
-The recommended subcutaneous dosage of Adalimumab-adaz for pediatric patients 2 years of age and older with polyarticular juvenile idiopathic arthritis (JIA) [see Indications and Usage (1.2)], based on weight, is shown below.
+The recommended subcutaneous dosage of Adalimumab-adaz for pediatric patients 2 years of age and older with polyarticular juvenile idiopathic arthritis (JIA) or pediatric uveitis [see Indications and Usage (1.2, 1.9)], based on weight, is shown below.
 MTX, glucocorticoids, NSAIDs, and/or analgesics may be continued during treatment with Adalimumab-adaz.
 
 | Pediatric Weight (2 Years of Age and older) | Recommended Dosage |
@@ -21,7 +21,7 @@ MTX, glucocorticoids, NSAIDs, and/or analgesics may be continued during treatmen
 | 15 kg (33 lbs) to less than 30 kg (66 lbs) | 20 mg every other week |
 | 30 kg (66 lbs) and greater | 40 mg every other week |
 
-Adalimumab products have not been studied in patients with polyarticular JIA less than 2 years of age or in patients with a weight below 10 kg.
+Adalimumab products have not been studied in patients with polyarticular JIA or pediatric uveitis less than 2 years of age or in patients with a weight below 10 kg.
 
 ## 2.4 Recommended Dosage in Crohn’s Disease
 
@@ -65,12 +65,21 @@ Subcutaneous Adult Dosage Regimen
 The recommended subcutaneous dosage of Adalimumab-adaz for adult patients with moderate to severe hidradenitis suppurativa (HS) is an initial dose of 160 mg (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
 Begin 40 mg weekly or 80 mg every other week dosing two weeks later (Day 29).
 
+Subcutaneous Pediatric Dosage Regimen
+
+The recommended subcutaneous dosage of Adalimumab-adaz for pediatric patients 12 years of age and older weighing at least 30 kg with moderate to severe hidradenitis suppurativa (HS), based on body weight, is shown below [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)]:
+
+| Body Weight of Pediatric Patients (12 years of age and older) | Recommended Dosage |
+| --- | --- |
+| 30 kg (66 lbs) to less than 60 kg (132 lbs) | •Day 1: 80 mg•Day 8 and subsequent doses: 40 mg every other week |
+| 60 kg (132 lbs) and greater | •Day 1: 160 mg (given in one day or split over two consecutive days);•Day 15: 80 mg•Day 29 and subsequent doses: 40 mg every week or 80 mg every other week |
+
 ## 2.8 General Considerations for Administration
 
 Adalimumab-adaz is intended for use under the guidance and supervision of a physician.
 A patient may self-inject Adalimumab-adaz or a caregiver may inject Adalimumab-adaz using either the Adalimumab-adaz single-dose prefilled Sensoready Pen or the Adalimumab-adaz single-dose prefilled syringe if a physician determines that it is appropriate, and with medical follow-up, as necessary, after proper training in subcutaneous injection technique.
 
-You may leave Adalimumab-adaz at room temperature for about 15 to 30 minutes before injecting.
+Adalimumab-adaz can be taken out of the refrigerator for 15 to 30 minutes before injecting to allow the liquid to come to room temperature.
 Do not remove the cap while allowing it to reach room temperature.
 Carefully inspect the solution in the Adalimumab-adaz single-dose prefilled Sensoready Pen or Adalimumab-adaz single-dose prefilled syringe for particulate matter and discoloration prior to subcutaneous administration.
 The solution should be clear, colorless or slightly yellowish.
