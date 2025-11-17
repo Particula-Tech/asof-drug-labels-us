@@ -21,7 +21,7 @@ Everolimus had a clinically minor influence on cyclosporine pharmacokinetics in 
 ## 7.3 Ketoconazole and Other Strong CYP3A4 Inhibitors
 
 Multiple-dose ketoconazole administration to healthy volunteers significantly increased single dose estimates of everolimus Cmax, AUC, and half-life.
-It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be co-administered with everolimus [see Warnings and Precautions (5.14), Clinical Pharmacology (12.5)].
+It is recommended that strong inhibitors of CYP3A4 (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir, boceprevir, telaprevir) should not be coadministered with everolimus [see Warnings and Precautions (5.14), Clinical Pharmacology (12.5)].
 
 ## 7.4 Erythromycin (Moderate CYP3A4 Inhibitor)
 
@@ -34,7 +34,7 @@ Multiple-dose verapamil administration to healthy volunteers significantly incre
 Everolimus half-life was not changed.
 If verapamil is coadministered, everolimus blood concentrations should be monitored and a dose adjustment made as necessary [see Clinical Pharmacology (12.5)].
 
-## 7.6 Atorvastatin (CYP3A4 substrate) and Pravastatin (P-gp substrate)
+## 7.6 Atorvastatin (CYP3A4 Substrate) and Pravastatin (P-gp Substrate)
 
 Single-dose administration of everolimus with either atorvastatin or pravastatin to healthy subjects did not influence the pharmacokinetics of atorvastatin, pravastatin and everolimus, as well as total HMG-CoA reductase bioreactivity in plasma to a clinically relevant extent.
 However, these results cannot be extrapolated to other HMG-CoA reductase inhibitors.
@@ -49,7 +49,7 @@ Due to an interaction with cyclosporine, clinical studies of everolimus with cyc
 Pretreatment of healthy subjects with multiple-dose rifampin followed by a single dose of everolimus increased everolimus clearance and decreased the everolimus Cmax and AUC estimates.
 Combination with rifampin is not recommended [see Warnings and Precautions (5.14), Clinical Pharmacology (12.5)].
 
-## 7.9 Midazolam (CYP3A4/5 substrate)
+## 7.9 Midazolam (CYP3A4/5 Substrate)
 
 Single-dose administration of midazolam to healthy volunteers following administration of multiple-dose everolimus indicated that everolimus is a weak inhibitor of CYP3A4/5.
 Dose adjustment of midazolam or other CYP3A4/5 substrates is not necessary when everolimus is coadministered with midazolam or other CYP3A4/5 substrates [see Clinical Pharmacology (12.5)].
@@ -66,3 +66,9 @@ Coadministration of everolimus and depot octreotide increased octreotide Cmin by
 ## 7.12 Tacrolimus
 
 There is little to no pharmacokinetic interaction of tacrolimus on everolimus, and consequently, dose adjustment of everolimus is not necessary when everolimus is coadministered with tacrolimus.
+
+## 7.13 Cannabidiol
+
+The blood levels of everolimus may increase upon concomitant use with cannabidiol.
+When cannabidiol and everolimus are coadministered, closely monitor for an increase in everolimus blood levels and for adverse reactions suggestive of everolimus toxicity.
+A dose reduction of everolimus should be considered as needed when everolimus is coadministered with cannabidiol [see Dosage and Administration (2.3),Warnings and Precautions (5.22)].

@@ -1,13 +1,15 @@
-WARNING: MALIGNANCIES AND SERIOUS INFECTIONS, KIDNEY GRAFT THROMBOSIS; NEPHROTOXICITY; AND MORTALITY IN HEART TRANSPLANTATION Malignancies and Serious Infections
+# WARNING: MALIGNANCIES and SERIOUS INFECTIONS; KIDNEY GRAFT THROMBOSIS; NEPHROTOXICITY; and MORTALITY IN HEART TRANSPLANTATION
+
+WARNING: MALIGNANCIES and SERIOUS INFECTIONS; KIDNEY GRAFT THROMBOSIS; NEPHROTOXICITY; and MORTALITY IN HEART TRANSPLANTATION Malignancies and Serious Infections
 
 - Only physicians experienced in immunosuppressive therapy and management of transplant patients should prescribe everolimus.
   Patients receiving the drug should be managed in facilities equipped and staffed with adequate laboratory and supportive medical resources.
   The physician responsible for maintenance therapy should have complete information requisite for the follow-up of the patient [see Warnings and Precautions (5.1)].
-- Increased susceptibility to infection and the possible development of malignancies such as lymphoma and skin cancer may result from immunosuppression [see Warnings and Precautions (5.2, 5.3)].
+- Increased susceptibility to infection and the possible development of malignancies, such as lymphoma and skin cancer may result from immunosuppression [see Warnings and Precautions (5.2, 5.3)].
 
 Kidney Graft Thrombosis
 
-- An increased risk of kidney arterial and venous thrombosis, resulting in graft loss, was reported, mostly within the first 30 days post-transplantation [see Warnings and Precautions (5.4)]
+- An increased risk of kidney arterial and venous thrombosis, resulting in graft loss, was reported, mostly within the first 30 days posttransplantation [see Warnings and Precautions (5.4)]
 
 Nephrotoxicity
 
@@ -17,5 +19,5 @@ Nephrotoxicity
 
 Mortality in Heart Transplantation
 
-- Increased mortality, often associated with serious infections, within the first three months post-transplantation was observed in a clinical trial of de novo heart transplant patients receiving immunosuppressive regimens with or without induction therapy.
+- Increased mortality, often associated with serious infections, within the first three months posttransplantation was observed in a clinical trial of de novo heart transplant patients receiving immunosuppressive regimens with or without induction therapy.
   Use in heart transplantation is not recommended [see Warnings and Precautions (5.7)].
