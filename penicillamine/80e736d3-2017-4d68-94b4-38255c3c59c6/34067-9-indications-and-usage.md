@@ -1,26 +1,26 @@
 # INDICATIONS
 
-CUPRIMINE is indicated in the treatment of Wilson's disease, cystinuria, and in patients with severe, active rheumatoid arthritis who have failed to respond to an adequate trial of conventional therapy.
+CUPRIMINE is indicated in the treatment of Wilson’s disease, cystinuria, and in patients with severe, active rheumatoid arthritis who have failed to respond to an adequate trial of conventional therapy.
 Available evidence suggests that CUPRIMINE is not of value in ankylosing spondylitis.
 
-## Wilson's Disease
+## Wilson’s Disease
 
-Wilson's disease (hepatolenticular degeneration) occurs in individuals who have inherited an autosomal-recessive defect that leads to an accumulation of copper far in excess of metabolic requirements.
+Wilson’s disease (hepatolenticular degeneration) occurs in individuals who have inherited an autosomal-recessive defect that leads to an accumulation of copper far in excess of metabolic requirements.
 The excess copper is deposited in several organs and tissues, and eventually produces pathological effects primarily in the liver, where damage progresses to postnecrotic cirrhosis, and in the brain, where degeneration is widespread.
 Copper is also deposited as characteristic, asymptomatic, golden-brown Kayser-Fleischer rings in the corneas of all patients with cerebral symptomatology and some patients who are either asymptomatic or manifest only hepatic symptomatology.
 
-Two types of patients require treatment for Wilson's disease: (1) the symptomatic, and (2) the asymptomatic in whom it can be assumed the disease will develop in the future if the patient is not treated.
+Two types of patients require treatment for Wilson’s disease: (1) the symptomatic, and (2) the asymptomatic in whom it can be assumed the disease will develop in the future if the patient is not treated.
 
 The diagnosis, if suspected on the basis of family or individual history or physical examination, can be confirmed if the plasma copper-protein ceruloplasmin** is less than 20 mg/dL and either a quantitative determination in a liver biopsy specimen shows an abnormally high concentration of copper (greater than 250 mcg/g dry weight) or Kayser-Fleischer rings are present.
 
 Treatment has two objectives:
 
-1. 1)to minimize dietary intake of copper;
-2. 2)to promote excretion and complex formation (i.e., detoxification) of excess tissue copper.
+1. (1)to minimize dietary intake of copper;
+2. (2)to promote excretion and complex formation (i.e., detoxification) of excess tissue copper.
 
 The first objective is attained by a daily diet that contains no more than 1 or 2 mg of copper.
 Such a diet should exclude, most importantly, chocolate, nuts, shellfish, mushrooms, liver, molasses, broccoli, and cereals and dietary supplements enriched with copper, and be composed to as great an extent as possible of foods with a low copper content.
-Distilled or demineralized water should be used if the patient's drinking water contains more than 0.1 mg/L of copper.
+Distilled or demineralized water should be used if the patient’s drinking water contains more than 0.1 mg/L of copper.
 
 For the second objective, a copper chelating agent is used.
 

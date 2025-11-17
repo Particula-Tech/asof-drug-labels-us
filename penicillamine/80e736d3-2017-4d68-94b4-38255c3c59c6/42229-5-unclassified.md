@@ -1,4 +1,4 @@
-** For quantitative test for serum ceruloplasmin see: Morell, A.G.; Windsor, J.; Sternlieb, I.;Scheinberg, I.H.: Measurement of the concentration of ceruloplasmin in serum by determination of its oxidase activity, in “Laboratory Diagnosis of Liver Disease”, F.W.
+** For quantitative test for serum ceruloplasmin see: Morell, A.G.; Windsor, J.; Sternlieb, I.; Scheinberg, I.H.: Measurement of the concentration of ceruloplasmin in serum by determination of its oxidase activity, in “Laboratory Diagnosis of Liver Disease”, F.W.
 Sunderman; F.W.
 Sunderman, Jr.
 (eds.), St. Louis, Warren H. Green, Inc., 1968, pp.
@@ -20,15 +20,17 @@ Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
 Manufactured by:
 
-Suven Pharmaceuticals Limited Telangana, India 502307
+Cohance Lifesciences Limited
+
+Telangana, India 502307
 
 M.L.No.: 24/MD/AP/2009/F/CC
 
-CUPRIMINE is a trademark of Bausch Health Companies Inc. or its affiliates.
+CUPRIMINE is a registered trademark of Bausch Health Companies Inc. or its affiliates.
 
-© 2020 Bausch Health Companies Inc. or its affiliates
+© 2025 Bausch Health Companies Inc. or its affiliates
 
 Rev.
-10/2020
+10/2025
 
-9655602 Lb30252-2-01
+9655603 Lb0252-2-00

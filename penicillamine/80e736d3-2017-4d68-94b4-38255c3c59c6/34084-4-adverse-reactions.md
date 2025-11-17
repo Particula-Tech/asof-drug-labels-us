@@ -55,7 +55,7 @@ Myasthenia gravis (see WARNINGS); dystonia.
 
 ## Other
 
-Adverse reactions that have been reported rarely include thrombophlebitis; hyperpyrexia (see PRECAUTIONS); falling hair or alopecia; lichen planus; polymyositis; dermatomyositis; mammary hyperplasia; elastosis perforans serpiginosa; toxic epidermal necrolysis; anetoderma (cutaneous macular atrophy); and Goodpasture's syndrome, a severe and ultimately fatal glomerulonephritis associated with intra-alveolar hemorrhage (see WARNINGS).
+Adverse reactions that have been reported rarely include thrombophlebitis; hyperpyrexia (see PRECAUTIONS); falling hair or alopecia; lichen planus; polymyositis; dermatomyositis; mammary hyperplasia; elastosis perforans serpiginosa; toxic epidermal necrolysis; anetoderma (cutaneous macular atrophy); and Goodpasture’s syndrome, a severe and ultimately fatal glomerulonephritis associated with intra-alveolar hemorrhage (see WARNINGS).
 Vasculitis, including fatal renal vasculitis, has also been reported.
 Allergic alveolitis, obliterative bronchiolitis, interstitial pneumonitis, and pulmonary fibrosis have been reported in patients with severe rheumatoid arthritis, some of whom were receiving penicillamine.
 Bronchial asthma also has been reported.

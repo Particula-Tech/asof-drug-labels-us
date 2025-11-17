@@ -6,7 +6,7 @@ Rx only
 
 Cuprimine® (penicillamine) Capsules, USP
 
-250 mg 100Capsules
+250 mg 100 Capsules
 
 Each capsule contains 250 mg of penicillamine, USP
 

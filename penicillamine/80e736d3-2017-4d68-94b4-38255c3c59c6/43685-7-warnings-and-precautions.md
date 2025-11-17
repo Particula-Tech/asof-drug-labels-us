@@ -1,8 +1,8 @@
 # WARNINGS
 
-The use of penicillamine has been associated with fatalities due to certain diseases such as aplastic anemia, agranulocytosis, thrombocytopenia, Goodpasture's syndrome, and myasthenia gravis.
+The use of penicillamine has been associated with fatalities due to certain diseases such as aplastic anemia, agranulocytosis, thrombocytopenia, Goodpasture’s syndrome, and myasthenia gravis.
 
-Because of the potential for serious hematological and renal adverse reactions to occur at any time, routine urinalysis, white and differential blood cell count, hemoglobin determination, and direct platelet count must be done twice weekly, together with monitoring of the patient's skin, lymph nodes, and body temperature, during the first month of therapy, every two weeks for the next 5 months, and monthly thereafter.
+Because of the potential for serious hematological and renal adverse reactions to occur at any time, routine urinalysis, white and differential blood cell count, hemoglobin determination, and direct platelet count must be done twice weekly, together with monitoring of the patient’s skin, lymph nodes, and body temperature, during the first month of therapy, every two weeks for the next 5 months, and monthly thereafter.
 Patients should be instructed to report promptly the development of signs and symptoms of granulocytopenia and/or thrombocytopenia such as fever, sore throat, chills, bruising, or bleeding.
 The above laboratory studies should then be promptly repeated.
 
@@ -26,16 +26,16 @@ In some patients, proteinuria has been reported to clear following reduction in 
 
 In rheumatoid arthritis patients, penicillamine should be discontinued if unexplained gross hematuria or persistent microscopic hematuria develops.
 
-In patients with Wilson's disease or cystinuria, the risks of continued penicillamine therapy in patients manifesting potentially serious urinary abnormalities must be weighed against the expected therapeutic benefits.
+In patients with Wilson’s disease or cystinuria, the risks of continued penicillamine therapy in patients manifesting potentially serious urinary abnormalities must be weighed against the expected therapeutic benefits.
 
 When penicillamine is used in cystinuria, an annual x-ray for renal stones is advised.
 Cystine stones form rapidly, sometimes in 6 months.
 Up to one year or more may be required for any urinary abnormalities to disappear after penicillamine has been discontinued.
 
 Because of rare reports of intrahepatic cholestasis and toxic hepatitis, liver function tests are recommended every 6 months for the duration of therapy.
-In Wilson's disease, these are recommended every 3 months, at least during the first year of treatment.
+In Wilson’s disease, these are recommended every 3 months, at least during the first year of treatment.
 
-Goodpasture's syndrome has occurred rarely.
+Goodpasture’s syndrome has occurred rarely.
 The development of abnormal urinary findings associated with hemoptysis and pulmonary infiltrates on x-ray requires immediate cessation of penicillamine.
 
 Obliterative bronchiolitis has been reported rarely.
@@ -55,7 +55,7 @@ When pemphigus is suspected, CUPRIMINE should be discontinued.
 Treatment has consisted of high doses of corticosteroids alone or, in some cases, concomitantly with an immunosuppressant.
 Treatment may be required for only a few weeks or months, but may need to be continued for more than a year.
 
-Once instituted for Wilson's disease or cystinuria, treatment with penicillamine should, as a rule, be continued on a daily basis.
+Once instituted for Wilson’s disease or cystinuria, treatment with penicillamine should, as a rule, be continued on a daily basis.
 Interruptions for even a few days have been followed by sensitivity reactions after reinstitution of therapy.
 
 ## Pregnancy
@@ -70,11 +70,11 @@ Penicillamine should be used in women of childbearing potential only when the ex
 Women on therapy with penicillamine who are of childbearing potential should be apprised of this risk, advised to report promptly any missed menstrual periods or other indications of possible pregnancy, and followed closely for early recognition of pregnancy.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to the fetus.
 
-## Wilson's Disease
+## Wilson’s Disease
 
-Reported experience*** shows that continued treatment with penicillamine throughout pregnancy protects the mother against relapse of Wilson's disease, and that discontinuation of penicillamine has deleterious effects on the mother, which may be fatal.
+Reported experience*** shows that continued treatment with penicillamine throughout pregnancy protects the mother against relapse of Wilson’s disease, and that discontinuation of penicillamine has deleterious effects on the mother, which may be fatal.
 
-If penicillamine is administered during pregnancy to patients with Wilson's disease, it is recommended that the daily dosage be limited to 750 mg.
+If penicillamine is administered during pregnancy to patients with Wilson’s disease, it is recommended that the daily dosage be limited to 750 mg.
 If cesarean section is planned, the daily dose should be reduced to 250 mg, but not lower, for the last 6 weeks of pregnancy and postoperatively until wound healing is complete.
 
 ## Cystinuria
@@ -92,7 +92,7 @@ There is a report that a woman with rheumatoid arthritis treated with less than 
 
 Some patients may experience drug fever, a marked febrile response to penicillamine, usually in the second to third week following initiation of therapy.
 Drug fever may sometimes be accompanied by a macular cutaneous eruption.
-In the case of drug fever in patients with Wilson's disease or cystinuria, penicillamine should be temporarily discontinued until the reaction subsides.
+In the case of drug fever in patients with Wilson’s disease or cystinuria, penicillamine should be temporarily discontinued until the reaction subsides.
 Then penicillamine should be reinstituted with a small dose that is gradually increased until the desired dosage is attained.
 Systemic steroid therapy may be necessary, and is usually helpful, in such patients in whom drug fever and rash develop several times.
 
@@ -122,7 +122,7 @@ These oral lesions are frequently dose-related and may preclude further increase
 
 Hypogeusia (a blunting or diminution in taste perception) has occurred in some patients.
 This may last 2 to 3 months or more and may develop into a total loss of taste; however, it is usually self-limited despite continued penicillamine treatment.
-Such taste impairment is rare in patients with Wilson's disease.
+Such taste impairment is rare in patients with Wilson’s disease.
 
 Penicillamine should not be used in patients who are receiving concurrently gold therapy, antimalarial or cytotoxic drugs, oxyphenbutazone or phenylbutazone because these drugs are also associated with similar serious hematologic and renal adverse reactions.
 
@@ -131,14 +131,14 @@ Patients who have had gold salt therapy discontinued due to a major toxic reacti
 Patients who are allergic to penicillin may theoretically have cross-sensitivity to penicillamine.
 The possibility of reactions from contamination of penicillamine by trace amounts of penicillin has been eliminated now that penicillamine is being produced synthetically rather than as a degradation product of penicillin.
 
-Patients with Wilson's disease or cystinuria should be given 25 mg/day of pyridoxine during therapy, since penicillamine increases the requirement for this vitamin.
+Patients with Wilson’s disease or cystinuria should be given 25 mg/day of pyridoxine during therapy, since penicillamine increases the requirement for this vitamin.
 Patients also may receive benefit from a multivitamin preparation, although there is no evidence that deficiency of any vitamin other than pyridoxine is associated with penicillamine.
-In Wilson's disease, multivitamin preparations must be copper-free.
+In Wilson’s disease, multivitamin preparations must be copper-free.
 
 Rheumatoid arthritis patients whose nutrition is impaired should also be given a daily supplement of pyridoxine.
 Mineral supplements should not be given, since they may block the response to penicillamine.
 Iron deficiency may develop, especially in pediatric patients and in menstruating women.
-In Wilson's disease, this may be a result of adding the effects of the low copper diet, which is probably also low in iron, and the penicillamine to the effects of blood loss or growth.
+In Wilson’s disease, this may be a result of adding the effects of the low copper diet, which is probably also low in iron, and the penicillamine to the effects of blood loss or growth.
 In cystinuria, a low methionine diet may contribute to iron deficiency, since it is necessarily low in protein.
 If necessary, iron may be given in short courses, but a period of 2 hours should elapse between administration of penicillamine and iron, since orally administered iron has been shown to reduce the effects of penicillamine.
 
@@ -158,7 +158,7 @@ Reinstitution of full therapy should be delayed until wound healing is complete.
 ## Carcinogenesis, Mutagenesis, Impairment of Fertility
 
 Long-term animal carcinogenicity studies have not been done with penicillamine.
-There is a report that five of ten autoimmune disease-prone New Zealand black (NZB) hybrid mice developed lymphocytic leukemia after 6 months' intraperitoneal treatment with a dose of 400 mg/kg penicillamine 5 days per week.
+There is a report that five of ten autoimmune disease-prone New Zealand black (NZB) hybrid mice developed lymphocytic leukemia after 6 months’ intraperitoneal treatment with a dose of 400 mg/kg penicillamine 5 days per week.
 
 Penicillamine is directly mutagenic to S. typhimurium strain TA92 in the Ames test; mutagenicity is enhanced by kidney postmitochondrial subcellular fraction 9.
 Penicillamine does not induce gene mutations in Chinese hamster V79 cells.

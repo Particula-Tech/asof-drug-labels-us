@@ -1,6 +1,6 @@
 # CLINICAL PHARMACOLOGY
 
-Penicillamine is a chelating agent recommended for the removal of excess copper in patients with Wilson's disease.
+Penicillamine is a chelating agent recommended for the removal of excess copper in patients with Wilson’s disease.
 From in vitro studies which indicate that one atom of copper combines with two molecules of penicillamine, it would appear that 1 g of penicillamine should be followed by the excretion of about 200 mg of copper; however, the actual amount excreted is about 1% of this.
 
 Penicillamine also reduces excess cystine excretion in cystinuria.

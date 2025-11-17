@@ -3,7 +3,7 @@
 In all patients receiving penicillamine, it is important that CUPRIMINE be given on an empty stomach, at least one hour before meals or two hours after meals, and at least one hour apart from any other drug, food, or milk.
 Because penicillamine increases the requirement for pyridoxine, patients may require a daily supplement of pyridoxine (see PRECAUTIONS).
 
-## Wilson's Disease
+## Wilson’s Disease
 
 Optimal dosage can be determined by measurement of urinary copper excretion and the determination of free copper in the serum.
 The urine must be collected in copper-free glassware, and should be quantitatively analyzed for copper before and soon after initiation of therapy with CUPRIMINE.
@@ -36,7 +36,7 @@ It is especially important to drink about a pint of fluid at bedtime and another
 The greater the fluid intake, the lower the required dosage of CUPRIMINE.
 
 Dosage must be individualized to an amount that limits cystine excretion to 100 to 200 mg/day in those with no history of stones, and below 100 mg/day in those who have had stone formation and/or pain.
-Thus, in determining dosage, the inherent tubular defect, the patient's size, age, and rate of growth, and his diet and water intake all must be taken into consideration.
+Thus, in determining dosage, the inherent tubular defect, the patient’s size, age, and rate of growth, and his diet and water intake all must be taken into consideration.
 
 The standard nitroprusside cyanide test has been reported useful as a qualitative measure of the effective dose:† Add 2 mL of freshly prepared 5% sodium cyanide to 5 mL of a 24-hour aliquot of protein-free urine and let stand 10 minutes.
 Add five drops of freshly prepared 5% sodium nitroprusside and mix.
@@ -57,7 +57,7 @@ Two or three months may be required before the first evidence of a clinical resp
 When treatment with CUPRIMINE has been interrupted because of adverse reactions or other reasons, the drug should be reintroduced cautiously by starting with a lower dosage and increasing slowly.
 
 Initial Therapy — The currently recommended dosage regimen in rheumatoid arthritis begins with a single daily dose of 125 mg or 250 mg, which is thereafter increased at 1- to 3-month intervals, by 125 or 250 mg/day, as patient response and tolerance indicate.
-If a satisfactoryremission of symptoms is achieved, the dose associated with the remission should be continued (see DOSAGE AND ADMINISTRATION, Rheumatoid Arthritis, Maintenance Therapy).
+If a satisfactory remission of symptoms is achieved, the dose associated with the remission should be continued (see DOSAGE AND ADMINISTRATION, Rheumatoid Arthritis, Maintenance Therapy).
 If there is no improvement and there are no signs of potentially serious toxicity after 2 to 3 months of treatment with doses of 500 to 750 mg/day, increases of 250 mg/day at 2- to 3-month intervals may be continued until a satisfactory remission occurs (see DOSAGE AND ADMINISTRATION, Rheumatoid Arthritis, Maintenance Therapy) or signs of toxicity develop (see WARNINGS and PRECAUTIONS).
 If there is no discernible improvement after three to four months of treatment with 1000 to 1500 mg of penicillamine/day, it may be assumed the patient will not respond and CUPRIMINE should be discontinued.
 
