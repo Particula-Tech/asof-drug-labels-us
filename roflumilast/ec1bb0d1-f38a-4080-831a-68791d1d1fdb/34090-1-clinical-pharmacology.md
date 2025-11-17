@@ -18,25 +18,30 @@ Following application of ZORYVE cream, the plasma concentration versus time prof
 
 Plaque Psoriasis
 
-The PK of ZORYVE cream, 0.3%, was investigated in 18 adult and 6 pediatric subjects 13 to 16 years of age with plaque psoriasis and a mean ± SD body surface area (BSA) involvement of 26.8 ± 6.80% and 13.0 ± 3.58% in adult and pediatric subjects, respectively.
+The PK of ZORYVE cream, 0.3%, was assessed in 18 adult and 6 pediatric subjects 13 to 16 years of age with plaque psoriasis and a mean ± SD body surface area (BSA) involvement of 26.8 ± 6.80% and 13.0 ± 3.58% in adult and pediatric subjects, respectively.
 In this study, on average, subjects applied 3 to 6.5 g of ZORYVE cream, 0.3%, once daily for 15 days.
 Plasma concentrations of roflumilast and roflumilast N-oxide (see Metabolism) were quantifiable in all but two subjects at Day 15.
 
 In adults, the mean ± SD systemic exposure (AUC0-24) was 72.7 ± 53.1 and 628 ± 648 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
 In pediatric subjects (13 to 16 years of age), the mean ± SD AUC0-24 was 25.1 ± 24.0 and 140 ± 179 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
 
-The PK of ZORYVE cream, 0.3%, was investigated in 10 pediatric subjects (6 to less than 12 years of age) with at least mild plaque psoriasis and a mean ± SD BSA involvement of 10.9 ± 6.56%.
+The PK of ZORYVE cream, 0.3%, was assessed in 10 pediatric subjects (6 to less than 12 years of age) with at least mild plaque psoriasis and a mean ± SD BSA involvement of 10.9 ± 6.56%.
 The 14-day mean ± SD extrapolated AUC0-24 was 75.6 ± 87.3 and 693 ± 986 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
-In another study, the PK of ZORYVE cream, 0.3%, was investigated in 9 pediatric subjects (2 to less than 6 years of age) with at least mild plaque psoriasis and a mean ± SD BSA involvement of 9.44 ± 5.57%.
+In another study, the PK of ZORYVE cream, 0.3%, was assessed in 9 pediatric subjects (2 to less than 6 years of age) with at least mild plaque psoriasis and a mean ± SD BSA involvement of 9.44 ± 5.57%.
 The 14-day mean ± SD extrapolated AUC0-24 was 51.6 ± 29.9 and 539 ± 372 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
 
 Atopic Dermatitis
 
-The PK of ZORYVE cream, 0.15%, was investigated in 12 pediatric subjects 12 to 16 years of age and 13 pediatric subjects 6 to 11 years of age with atopic dermatitis and a mean ± SD BSA involvement of 33.7 ± 14.8% and 43.5 ± 10.5%, respectively.
+The PK of ZORYVE cream, 0.15%, was assessed in 12 pediatric subjects 12 to 16 years of age and 13 pediatric subjects 6 to 11 years of age with atopic dermatitis and a mean ± SD BSA involvement of 33.7 ± 14.8% and 43.5 ± 10.5%, respectively.
 On average, subjects applied 8.2 to 10.5 g of ZORYVE cream, 0.15%, once daily.
 
 In pediatric subjects 12 to 16 years of age, the Day 14 mean ± SD systemic exposure (AUC0-24) was 62.9 ± 53.0 and 336 ± 310 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
 In pediatric subjects 6 to 11 years of age, the Day 14 mean ± SD AUC0-24 was 102 ± 96.5 and 743 ± 710 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
+
+The PK of ZORYVE cream, 0.05%, was assessed in 9 pediatric subjects 2 to 5 years of age with atopic dermatitis and a mean ± SD BSA involvement of 42.4 ± 6.21%.
+On average, subjects applied 5.2 g of ZORYVE cream, 0.05%, once daily.
+
+In pediatric subjects 2 to 5 years of age, the Day 14 mean ± SD systemic exposure (AUC0-24) was 47.2 ± 27.4 and 338 ± 280 h∙ng/mL for roflumilast and the N-oxide metabolite, respectively.
 
 Distribution
 
@@ -60,7 +65,7 @@ A similar ratio was observed following intravenous administration, whereas follo
 
 Specific Populations
 
-Following topical administration, no clinically significant differences in the pharmacokinetics of roflumilast and roflumilast N-oxide were observed based on age, sex, race, or ethnicity.
+Following topical administration, no clinically significant differences in the pharmacokinetics of roflumilast and roflumilast N-oxide were observed based on sex, race, or ethnicity.
 
 Patients with Hepatic Impairment
 
@@ -76,6 +81,8 @@ Following oral administration in 12 subjects with severe renal impairment, no cl
 Drug Interaction Studies
 
 Clinical Studies
+
+No formal drug-drug interaction studies were conducted with roflumilast cream.
 
 Since a major step in roflumilast metabolism is the N-oxidation of roflumilast to roflumilast N-oxide by CYP3A4 and CYP1A2, drug interaction studies were performed with oral roflumilast and systemic inhibitors of CYP3A4 and CYP1A2 [see Drug Interactions (7.1)].
 

@@ -10,5 +10,5 @@ The structural formula is represented below:
 
 Roflumilast is practically insoluble in water and hexane, sparingly soluble in ethanol, and freely soluble in acetone.
 
-Each gram of cream, 0.15% or 0.3%, contains 1.5 mg or 3 mg of roflumilast, respectively, in a cream base containing ceteareth-10 phosphate, cetearyl phosphate, cetostearyl alcohol, diethylene glycol monoethyl ether, hexylene glycol, isopropyl palmitate, methylparaben, propylparaben, purified water, sodium hydroxide, and white petrolatum.
+Each gram of cream, 0.05%, 0.15%, or 0.3%, contains 0.5 mg, 1.5 mg, or 3 mg of roflumilast, respectively, in a cream base containing ceteareth-10 phosphate, cetearyl phosphate, cetostearyl alcohol, diethylene glycol monoethyl ether, hexylene glycol, isopropyl palmitate, methylparaben, propylparaben, purified water, sodium hydroxide, and white petrolatum.
 Hydrochloric acid may have been added to adjust pH.

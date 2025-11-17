@@ -7,3 +7,5 @@ ZORYVE® cream, 0.3%, is indicated for topical treatment of plaque psoriasis, in
 ## 1.2 Atopic Dermatitis
 
 ZORYVE cream, 0.15%, is indicated for topical treatment of mild to moderate atopic dermatitis in adult and pediatric patients 6 years of age and older.
+
+ZORYVE cream, 0.05%, is indicated for topical treatment of mild to moderate atopic dermatitis in pediatric patients 2 to 5 years of age.

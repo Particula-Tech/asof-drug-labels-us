@@ -6,6 +6,7 @@ ZORYVE (roflumilast) cream is a white to off-white cream supplied as follows:
 
 - Cream, 0.3%: 3 mg of roflumilast per gram supplied in 60-gram aluminum tubes (NDC 80610-130-60).
 - Cream, 0.15%: 1.5 mg of roflumilast per gram supplied in 60-gram aluminum tubes (NDC 80610-115-60).
+- Cream, 0.05%: 0.5 mg of roflumilast per gram supplied in 60-gram aluminum tubes (NDC 80610-105-60).
 
 Storage and Handling
 

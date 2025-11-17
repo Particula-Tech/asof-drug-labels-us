@@ -15,14 +15,14 @@ In the U.S. general population, the estimated background risk of major birth def
 
 Clinical Considerations
 
-Labor and delivery
+Labor or Delivery
 
 Avoid using ZORYVE cream during labor and delivery.
 There are no human studies that have investigated effects of ZORYVE cream on preterm labor or labor at term; however, animal studies showed that oral roflumilast disrupted the labor and delivery process in mice.
 
 Data
 
-Animal data
+Animal Data
 
 In an embryo-fetal development study, pregnant rats were dosed orally during the period of organogenesis with up to 1.8 mg/kg/day roflumilast (36 times the MRHD on a mg/m2 basis).
 No evidence of structural abnormalities or effects on survival rates were observed.
@@ -59,9 +59,16 @@ If applied to the patient's chest, avoid exposure via direct contact with the in
 
 Data
 
-Animal data
+Animal Data
 
 Roflumilast and/or its metabolite concentrations measured 8 hours after an oral dose of 1 mg/kg given to lactating rats were 0.32 and 0.02 mcg/g in the milk and pup liver, respectively.
+The concentration of roflumilast in animal milk does not necessarily predict the concentration of drug in human milk.
+
+## 8.3 Females and Males of Reproductive Potential
+
+Infertility
+
+In a human spermatogenesis study, oral roflumilast 500 mcg had no effects on semen parameters or reproductive hormones during the 3-month treatment period and the following 3-month off-treatment period.
 
 ## 8.4 Pediatric Use
 
@@ -69,18 +76,30 @@ Plaque Psoriasis
 
 The safety and effectiveness of ZORYVE cream, 0.3%, for the topical treatment of plaque psoriasis, including intertriginous areas, have been established in pediatric patients 6 years of age and older.
 Use of ZORYVE cream, 0.3%, in pediatric patients 6 years of age and older is supported by data from two 8-week, vehicle-controlled, safety and efficacy trials which included 18 subjects 6 to 17 years of age, of whom 11 received ZORYVE cream, 0.3%.
-Use of ZORYVE cream, 0.3%, in pediatric patients 12 years of age and older is also supported by data from open-label trials of 2 and 24 weeks duration which included 18 subjects 12 to 17 years of age treated with ZORYVE cream, 0.3%.
-Use of ZORYVE cream, 0.3%, in pediatric patients 6 to less than 12 years of age is also supported by data from one 4-week, open-label, safety and pharmacokinetic (PK) study which included 20 pediatric subjects 6 to less than 12 years of age [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
+Use of ZORYVE cream, 0.3%, in pediatric patients 12 years of age and older is also supported by data from open-label trials of 2- and 24-weeks duration which included 18 subjects 12 to 17 years of age treated with ZORYVE cream, 0.3%.
+Use of ZORYVE cream, 0.3%, in pediatric patients 6 to less than 12 years of age is also supported by data from one 4-week, open-label, safety and pharmacokinetic (PK) study which included 20 pediatric subjects 6 to less than 12 years of age [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), Clinical Studies (14.1)].
 
 The safety and effectiveness of ZORYVE cream, 0.3%, have not been established in pediatric patients younger than 6 years of age.
 
 Atopic Dermatitis
 
+ZORYVE Cream, 0.15%
+
 The safety and effectiveness of ZORYVE cream, 0.15%, for the topical treatment of mild to moderate atopic dermatitis have been established in pediatric patients 6 years of age and older.
-Use of ZORYVE cream, 0.15%, in this age group is supported by data from two 4-week, vehicle-controlled, safety and efficacy trials which included 615 subjects 6 to 17 years of age, of whom 406 received ZORYVE cream, 0.15%.
-Use of ZORYVE cream, 0.15%, in pediatric patients 6 years of age and older is also supported by data from 481 pediatric subjects treated with ZORYVE cream, 0.15%, in open-label trials, of which 104 were treated for 52 weeks [see Clinical Pharmacology (12.3) and Clinical Studies (14.2)].
+Use of ZORYVE cream, 0.15%, in this age group is supported by data from two 4-week, vehicle-controlled, safety and efficacy trials which included 615 subjects 6 to 17 years of age, of whom 406 received ZORYVE cream, 0.15%, [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+Use of ZORYVE cream, 0.15%, in pediatric patients 6 years of age and older is also supported by data from 481 pediatric subjects treated with ZORYVE cream, 0.15%, in open-label trials, of which 104 were treated for 52 weeks.
+
+In an open-label PK trial in 36 pediatric subjects 2 to 16 years of age, following topical administration of roflumilast cream, 0.15%, once daily for 2 weeks, mean systemic exposure of roflumilast and roflumilast N-oxide in subjects 2 to 5 years of age was approximately 3.2-fold and 5.2-fold higher, respectively, compared to subjects 12 to 16 years of age, and approximately 2-fold and 2.3-fold higher, respectively, compared to subjects 6 to 11 years of age.
 
 The safety and effectiveness of ZORYVE cream, 0.15%, have not been established in pediatric patients younger than 6 years of age.
+
+ZORYVE Cream, 0.05%
+
+The safety and effectiveness of ZORYVE cream, 0.05%, for the topical treatment of mild to moderate atopic dermatitis have been established in pediatric patients 2 to 5 years of age.
+Use of ZORYVE cream, 0.05%, in this age group is supported by data from one 4-week, vehicle-controlled, safety and efficacy trial which included 652 subjects 2 to 5 years of age, of whom 437 received ZORYVE cream, 0.05%, [see Clinical Pharmacology (12.3), Clinical Studies (14.2)].
+Use of ZORYVE cream, 0.05%, in pediatric patients 2 to 5 years of age is also supported by data from 572 pediatric subjects treated with ZORYVE cream, 0.05%, in open-label trials, of whom 353 were treated for 52 weeks.
+
+The safety and effectiveness of ZORYVE cream, 0.05%, have not been established in pediatric patients younger than 2 years of age and older than 6 years of age.
 
 ## 8.5 Geriatric Use
 
@@ -102,4 +121,4 @@ Other reported clinical experience has not identified differences in responses b
 
 Oral roflumilast 250 mcg once daily for 14 days was studied in subjects with hepatic impairment.
 The systemic exposure of roflumilast and roflumilast N-oxide were increased in subjects with moderate (Child-Pugh B) hepatic impairment.
-ZORYVE cream is contraindicated in patients with moderate to severe liver impairment (Child-Pugh B or C). No dosage adjustment is needed in patients with mild (Child-Pugh A) hepatic impairment [see Contraindications (4) and Clinical Pharmacology (12.3)].
+ZORYVE cream is contraindicated in patients with moderate to severe liver impairment (Child-Pugh B or C). No dosage adjustment is needed in patients with mild (Child-Pugh A) hepatic impairment [see Contraindications (4), Clinical Pharmacology (12.3)].

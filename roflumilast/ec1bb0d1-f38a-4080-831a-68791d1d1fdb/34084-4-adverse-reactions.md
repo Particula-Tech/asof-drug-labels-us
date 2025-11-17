@@ -6,17 +6,16 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Plaque Psoriasis
 
-In two multicenter, randomized, double-blind, vehicle-controlled trials (DERMIS-1 and DERMIS-2), 881 adult and pediatric subjects 6 years of age or older with plaque psoriasis were treated with ZORYVE cream, 0.3%, or vehicle cream once daily for 8 weeks.
+Adult and Pediatric Subjects 6 Years of Age and Older
 
-The median age was 47 years (range 6 to 88).
-The majority of the subjects were male (64%) and White (82%).
-The median body surface area (BSA) affected was 5.5% (range 2% to 20%).
+In two multicenter, randomized, double-blind, vehicle-controlled trials (DERMIS-1 and DERMIS-2), 881 adult and pediatric subjects 6 years of age or older with plaque psoriasis were treated with ZORYVE cream, 0.3%, or vehicle cream once daily for 8 weeks [see Clinical Studies (14.1)].
+
 The proportion of subjects who discontinued treatment due to an adverse reaction was 1.0% for subjects treated with ZORYVE cream, 0.3%, and 1.3% for subjects treated with vehicle cream.
 The most common adverse reaction that led to discontinuation of ZORYVE cream, 0.3%, was application site urticaria (0.3%).
 
 Table 1 presents adverse reactions that occurred in at least 1% of subjects treated with ZORYVE cream, 0.3%, and for which the rate exceeded the rate for vehicle cream.
 
-Table 1: Adverse Reactions Reported in ≥1% of Subjects with Plaque Psoriasis Treated with ZORYVE Cream, 0.3%, (and More Frequently than Vehicle Cream) for 8 Weeks in Trials DERMIS-1 and DERMIS-2
+Table 1: Adverse Reactions Reported in ≥1% of Adult and Pediatric Subjects 6 Years of Age and Older with Plaque Psoriasis Treated with ZORYVE Cream, 0.3%, (and More Frequently than Vehicle Cream) for 8 Weeks in Trials DERMIS-1 and DERMIS-2
 
 | Adverse Reaction | ZORYVE Cream, 0.3% (N=576) n (%) | Vehicle Cream (N=305) n (%) |
 | --- | --- | --- |
@@ -32,17 +31,15 @@ In 594 subjects with plaque psoriasis who continued treatment with ZORYVE cream,
 
 Atopic Dermatitis
 
-In two multicenter, randomized, double-blind, vehicle-controlled trials (INTEGUMENT-1 and INTEGUMENT-2), 1336 adult and pediatric subjects 6 years of age or older with mild to moderate atopic dermatitis were treated with ZORYVE cream, 0.15%, or vehicle cream once daily for 4 weeks.
+Adult and Pediatric Subjects 6 Years of Age and Older
 
-The median age was 20 years (range 6 to 91).
-The majority of the subjects were female (57%) and White (60%).
-The median body surface area (BSA) affected was 10% (range 3% to 88%).
+In two multicenter, randomized, double-blind, vehicle-controlled trials (INTEGUMENT-1 and INTEGUMENT-2), 1336 adult and pediatric subjects 6 years of age or older with mild to moderate atopic dermatitis were treated with ZORYVE cream, 0.15%, or vehicle cream once daily for 4 weeks [see Clinical Studies (14.2)].
 
 The proportion of subjects who discontinued treatment due to an adverse reaction was 1.6% for subjects treated with ZORYVE cream, 0.15%, and 1.1% for subjects treated with vehicle cream.
 
 Table 2 presents adverse reactions that occurred in at least 1% of subjects treated with ZORYVE cream, 0.15%, and for which the rate exceeded the rate for vehicle cream.
 
-Table 2: Adverse Reactions Reported in ≥1% of Subjects with Atopic Dermatitis Treated with ZORYVE Cream, 0.15%, (and More Frequently than Vehicle Cream) for 4 Weeks in Trials INTEGUMENT-1 and INTEGUMENT-2
+Table 2: Adverse Reactions Reported in ≥1% of Adult and Pediatric Subjects 6 Years of Age and Older with Atopic Dermatitis Treated with ZORYVE Cream, 0.15%, (and More Frequently than Vehicle Cream) for 4 Weeks in Trials INTEGUMENT-1 and INTEGUMENT-2
 
 | Adverse Reaction | ZORYVE Cream, 0.15% (N=885) n (%) | Vehicle Cream (N=451) n (%) |
 | --- | --- | --- |
@@ -53,3 +50,25 @@ Table 2: Adverse Reactions Reported in ≥1% of Subjects with Atopic Dermatitis 
 | Vomiting | 13 (1.5) | 2 (0.4) |
 
 The adverse reaction of insomnia was reported in fewer than 1% of subjects treated with ZORYVE cream, 0.15%.
+
+Pediatric Subjects 2 to 5 Years of Age
+
+In a multicenter, randomized, double-blind, vehicle-controlled trial (INTEGUMENT-PED), 652 pediatric subjects 2 to 5 years of age with mild to moderate atopic dermatitis were treated with ZORYVE cream, 0.05%, or vehicle cream once daily for 4 weeks [see Clinical Studies (14.2)].
+
+Table 3 presents adverse reactions that occurred in at least 1% of subjects treated with ZORYVE cream, 0.05%, and for which the rate exceeded the rate for vehicle cream.
+
+Table 3: Adverse Reactions Reported in ≥1% of Pediatric Subjects 2 to 5 Years of Age with Atopic Dermatitis Treated with ZORYVE Cream, 0.05%, (and More Frequently than Vehicle) for 4 Weeks in Trial INTEGUMENT-PED
+
+| Adverse Reaction | ZORYVE Cream, 0.05% N=437 n (%) | Vehicle Cream N=215 n (%) |
+| --- | --- | --- |
+| Upper respiratory tract infection | 18 (4.1) | 3 (1.4) |
+| Diarrhea | 11 (2.5) | 1 (0.5) |
+| Vomiting | 9 (2.1) | 0 |
+| Rhinitis | 7 (1.6) | 0 |
+| Conjunctivitis | 6 (1.4) | 0 |
+| Headache | 5 (1.1) | 0 |
+
+Adult and Pediatric Subjects 2 Years of Age and Older
+
+The long-term safety of ZORYVE cream, 0.15%, and ZORYVE cream, 0.05%, was assessed in an open-label extension trial of 1219 subjects 2 years of age and older with mild to moderate atopic dermatitis who had completed one of the 4-week vehicle-controlled trials.
+The safety profile observed in the open-label extension trial was generally consistent with the safety profile observed at Week 4.
