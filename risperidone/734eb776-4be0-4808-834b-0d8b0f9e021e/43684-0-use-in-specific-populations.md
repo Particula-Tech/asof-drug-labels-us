@@ -11,7 +11,7 @@ Risk Summary
 
 Neonates exposed to antipsychotic drugs during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery (see Clinical Considerations).
 Overall, available data from published epidemiologic studies of pregnant women exposed to risperidone have not established a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes (see Data).
-There are risks to the mother associated with untreated schizophrenia and with exposure to antipsychotics, including UZEDY, during pregnancy (see Clinical Considerations).
+There are risks to the mother associated with untreated schizophrenia or bipolar I disorder and with exposure to antipsychotics, including UZEDY, during pregnancy (see Clinical Considerations).
 
 Oral administration of risperidone to pregnant mice caused cleft palate at doses 3- to 4-times the oral maximum recommended human dose (MRHD) of 16 mg/day with maternal toxicity observed at 4-times MRHD based on mg/m2 body surface area.
 Risperidone was not teratogenic in rats or rabbits at doses up to 6-times the oral MRHD based on mg/m2 body surface area.
@@ -26,8 +26,8 @@ Clinical Considerations
 
 Disease-associated maternal and/or embryo/fetal risk
 
-There is a risk to the mother from untreated schizophrenia, including increased risk of relapse, hospitalization, and suicide.
-Schizophrenia is associated with increased adverse perinatal outcomes, including preterm birth.
+There is a risk to the mother from untreated schizophrenia or bipolar I disorder, including increased risk of relapse, hospitalization, and suicide.
+Schizophrenia or bipolar I disorder are associated with increased adverse perinatal outcomes, including preterm birth.
 It is not known if this is a direct result of the illness or other comorbid factors.
 
 Fetal/Neonatal Adverse Reactions
@@ -116,13 +116,13 @@ UZEDY is not approved for the treatment of patients with dementia‑related psyc
 
 ## 8.6 Renal Impairment
 
-In patients with renal impairment, titrate with oral risperidone (up to at least 2 mg daily) before initiating treatment with UZEDY [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+In patients with renal impairment, titrate with oral risperidone (up to at least 2 mg daily) before initiating treatment with UZEDY [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 UZEDY was not studied in patients with renal impairment.
 
 ## 8.7 Hepatic Impairment
 
-In patients with hepatic impairment, titrate with oral risperidone (up to at least 2 mg daily) before initiating treatment with UZEDY [see Dosage and Administration (2.2) and Clinical Pharmacology (12.3)].
+In patients with hepatic impairment, titrate with oral risperidone (up to at least 2 mg daily) before initiating treatment with UZEDY [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
 UZEDY has not been studied in patients with hepatic impairment; however, such effect has been investigated with oral risperidone.
 

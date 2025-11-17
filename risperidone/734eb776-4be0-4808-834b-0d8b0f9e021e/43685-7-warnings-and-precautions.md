@@ -70,13 +70,13 @@ Any patient treated with atypical antipsychotics, including UZEDY, should be mon
 Patients who develop symptoms of hyperglycemia during treatment with atypical antipsychotics, including UZEDY, should undergo fasting blood glucose testing.
 In some cases, hyperglycemia has resolved when the atypical antipsychotic, including risperidone, was discontinued; however, some patients required continuation of antidiabetic treatment despite discontinuation of risperidone.
 
-Pooled data from three double-blind, placebo-controlled schizophrenia studies and four double-blind, placebo-controlled studies in another indication with oral risperidone are presented in Table 2.
+Pooled data from three double-blind, placebo-controlled schizophrenia studies and four double-blind, placebo-controlled studies in another indication with oral risperidone are presented in Table 4.
 
-Table 2: Change in Random Glucose from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adults with Schizophrenia or Another Indication with Oral Risperidone
+Table 4: Change in Random Glucose from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adults with Schizophrenia or Another Indication with Oral Risperidone
 
 |  |  | Oral Risperidone |  |
 | --- | --- | --- | --- |
-|  | Placebo | 1 mg to 8 mg per day | >8 mg to 16mg per day |
+|  | Placebo | 1 mg to 8 mg per day | >8 mg to 16 mg per day |
 |  | Mean change from baseline (mg/dL) |  |  |
 | Serum Glucose | N=555-1.4 | N=7480.8 | N=1640.6 |
 |  | Proportion of Patients with Shifts |  |  |
@@ -89,13 +89,13 @@ Dyslipidemia
 Undesirable alterations in lipids have been observed in patients treated with atypical antipsychotics.
 Before or soon after initiation of antipsychotic medications, obtain a fasting lipid profile at baseline and monitor periodically during treatment.
 
-Pooled data from 7 placebo-controlled, 3- to 8- week, fixed- or flexible-dose studies in adults with schizophrenia or another indication with oral risperidone are presented in Table 3.
+Pooled data from 7 placebo-controlled, 3- to 8- week, fixed- or flexible-dose studies in adults with schizophrenia or another indication with oral risperidone are presented in Table 5.
 
-Table 3: Change in Random Lipids from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adults with Schizophrenia or Another Indication with Oral Risperidone
+Table 5: Change in Random Lipids from Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adults with Schizophrenia or Another Indication with Oral Risperidone
 
 |  |  | Oral Risperidone |  |
 | --- | --- | --- | --- |
-|  | Placebo | 1 mg to 8 mg per day | >8 mg to 16mg per day |
+|  | Placebo | 1 mg to 8 mg per day | >8 mg to 16 mg per day |
 |  | Mean change from baseline (mg/dL) |  |  |
 | CholesterolChange from baseline | N=5590.6 | N=7426.9 | N=1561.8 |
 | TriglyceridesChange from baseline | N=183-17.4 | N=307-4.9 | N=123-8.3 |
@@ -110,13 +110,13 @@ Weight Gain
 Weight gain has been observed with atypical antipsychotic use.
 Clinical monitoring of weight is recommended.
 
-Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of 7% or greater of body weight from 7 placebo-controlled, 3- to 8- week, fixed- or flexible-dose studies in adults with schizophrenia or another indication with oral risperidone are presented in Table 4.
+Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of 7% or greater of body weight from 7 placebo-controlled, 3- to 8- week, fixed- or flexible-dose studies in adults with schizophrenia or another indication with oral risperidone are presented in Table 6.
 
-Table 4: Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥7% Gain in Body Weight From Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adults With Schizophrenia or Another Indication with Oral Risperidone
+Table 6: Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥7% Gain in Body Weight From Seven Placebo-Controlled, 3- to 8-Week, Fixed- or Flexible-Dose Studies in Adults With Schizophrenia or Another Indication with Oral Risperidone
 
 |  |  | Oral Risperidone |  |
 | --- | --- | --- | --- |
-|  | Placebo (n=597) | 1 mg to 8 mg per day (n=769) | >8 mg to 16mg per day (n=158) |
+|  | Placebo (n=597) | 1 mg to 8 mg per day (n=769) | >8 mg to 16 mg per day (n=158) |
 | Weight (kg)Change from baseline | -0.3 | 0.7 | 2.2 |
 | Weight Gain ≥7% increase from baseline | 2.9% | 8.7% | 20.9% |
 
@@ -174,7 +174,7 @@ Patients should be cautioned about operating hazardous machinery, including moto
 
 ## 5.11 Seizures
 
-During premarketing studies of oral risperidone in adult patients with schizophrenia, seizures occurred in 0.3% of patients (9 out of 2,607 patients), two in association with hyponatremia.
+During premarketing studies, seizures occurred in 0.3% of patients (9 out of 2,607 in adult patients with schizophrenia treated with oral risperidone [two in association with hyponatremia] and 5 out of 1,499 treated with another risperidone long-acting injection given once every 2 weeks).
 Use UZEDY cautiously in patients with a history of seizures or other conditions that potentially lower the seizure threshold.
 
 ## 5.12 Dysphagia

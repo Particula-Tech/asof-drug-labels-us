@@ -21,6 +21,9 @@ The following are discussed in more detail in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 
+Treatment of Schizophrenia in Adults
+
+UZEDY is to be administered subcutaneously [see Dosage and Administration (2.1)].
 The safety of UZEDY for the treatment of schizophrenia in adults is based on adequate and well-controlled studies of oral risperidone in studies of patients with schizophrenia and other indications.
 The results of those adequate and well-controlled studies are presented below.
 
@@ -35,15 +38,27 @@ The safety of UZEDY was evaluated in a total of 740 adult patients with schizoph
 A total of 351 patients were exposed to UZEDY for at least 6 months, of which 221 patients were exposed to UZEDY for at least 12 months, which included 112 patients exposed to once monthly and 109 patients to once every 2 months dosing regimens.
 In addition, 32 patients were exposed to UZEDY for at least 24 months.
 
+Treatment of Bipolar Disorder in Adults
+
+UZEDY is to be administered subcutaneously [see Dosage and Administration (2.1)].
+The data presented below are from studies with another risperidone long-acting injection given once every 2 weeks that was administered intramuscularly.
+
+The safety of UZEDY as monotherapy or as adjunctive therapy to lithium or valproate for the maintenance treatment of Bipolar I Disorder in adults is based on adequate and well-controlled studies of another risperidone long-acting injection given once every 2 weeks.
+The results of those adequate and well-controlled studies are presented below.
+
+Safety data are presented from a trial assessing the efficacy and safety of another risperidone long-acting injection, given once every 2 weeks, when administered as monotherapy for maintenance treatment in patients with bipolar I disorder.
+
+Safety data are also presented from a trial assessing the efficacy and safety of another risperidone long-acting injection, given once every 2 weeks, administered as adjunctive maintenance treatment in patients with bipolar disorder.
+
 Adverse Reactions in Studies with Oral Risperidone
 
 The most common adverse reactions in clinical trials of oral risperidone (>5% and twice placebo) were parkinsonism, akathisia, dystonia, tremor, sedation, dizziness, anxiety, blurred vision, nausea, vomiting, upper abdominal pain, stomach discomfort, dyspepsia, diarrhea, salivary hypersecretion, constipation, dry mouth, increased appetite, increased weight, fatigue, rash, nasal congestion, upper respiratory tract infection, nasopharyngitis, and pharyngolaryngeal pain.
 
 Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials – Adult Patients with Schizophrenia Treated with Oral Risperidone
 
-Table 5 lists the adverse reactions reported in 2% or more of oral risperidone-treated adult patients with schizophrenia in three 4- to 8-week, double-blind, placebo-controlled trials.
+Table 7 lists the adverse reactions reported in 2% or more of oral risperidone-treated adult patients with schizophrenia in three 4- to 8-week, double-blind, placebo-controlled trials.
 
-Table 5: Adverse Reactions in ≥2% of Oral Risperidone-Treated Adult Patients (and greater than placebo) with Schizophrenia in Double-Blind, Placebo-Controlled Trials
+Table 7: Adverse Reactions in ≥2% of Oral Risperidone-Treated Adult Patients (and greater than placebo) with Schizophrenia in Double-Blind, Placebo-Controlled Trials
 
 |  | Percentage of Patients Reporting Reaction |  |  |
 | --- | --- | --- | --- |
@@ -103,6 +118,61 @@ Akathisia includes akathisia and restlessness.
 Dystonia includes dystonia, muscle spasms, muscle contractions involuntary, muscle contracture, oculogyration, tongue paralysis.
 Tremor includes tremor and parkinsonian rest tremor.
 
+Adverse Reactions in Studies with Another Long-Acting Injection Risperidone, Given Once Every 2 Weeks
+
+The most common adverse reactions in the double-blind, placebo-controlled periods of the bipolar disorder trials of another risperidone long-acting injection were weight increased (5% in the monotherapy trial) and tremor and parkinsonism (≥ 10% in the adjunctive treatment trial).
+
+Commonly-Observed Adverse Reactions in Double-Blind, Placebo-Controlled Clinical Trials – Adult Patients with Bipolar Disorder Treated with Another Risperidone Long-Acting Injection Given Once Every 2 Weeks
+
+Table 8 lists the treatment-emergent adverse reactions reported in 2% or more of patients treated with another risperidone long-acting injection, given once every 2 weeks, in the 24-month double-blind, placebo-controlled treatment period of the trial assessing the efficacy and safety of another risperidone long-acting injection when administered as monotherapy for maintenance treatment in patients with bipolar I disorder.
+
+Table 8: Adverse Reactions in ≥2% of Adult Patients with Bipolar I Disorder Treated with Another Risperidone Long-Acting Injection, Given Once Every 2 Weeks, as Monotherapy in a 24-Month Double-Blind, Placebo-Controlled Trial
+
+|  | Percentage of Patients Reporting Event |  |
+| --- | --- | --- |
+| System/Organ Class Adverse Reaction | Risperidone Long-Acting Injectiona (N=154) | Placebo (N=149) |
+| Investigations |  |  |
+| Weight increased | 5 | 1 |
+| Nervous system disorders |  |  |
+| Dizziness | 3 | 1 |
+| Vascular disorders |  |  |
+| Hypertension | 3 | 1 |
+
+a The data presented are from a study with another risperidone long-acting injection that was administered once every 2 weeks, intramuscularly.
+UZEDY is to be administered subcutaneously.
+
+Table 9 lists the treatment-emergent adverse reactions reported in 4% or more of patients in the 52-week double-blind, placebo-controlled treatment phase of a trial assessing the efficacy and safety of another Risperidone Long-Acting Injection, given once every 2 weeks, when administered as adjunctive maintenance treatment in patients with bipolar disorder.
+
+Table 9: Adverse Reactions Occurring in ≥4% of Adult Patients with Bipolar I Disorder Treated with Another Risperidone Long-Acting Injection, Given Once Every 2 Weeks, as Adjunctive Therapy in a 52-Week Double-Blind, Placebo-Controlled Trial
+
+|  | Percentage of Patients Reporting Event |  |
+| --- | --- | --- |
+| System/Organ Class Adverse Reaction | Risperidone Long-Acting Injectiona + Treatment as Usualb (N=72) | Placebo + Treatment as Usualb (N=67) |
+| General disorders and administration site conditions |  |  |
+| Gait abnormal | 4 | 0 |
+| Infections and infestations |  |  |
+| Upper respiratory tract infection | 6 | 3 |
+| Investigations |  |  |
+| Weight increased | 7 | 1 |
+| Metabolism and nutrition disorders |  |  |
+| Decreased appetite | 6 | 1 |
+| Increased appetite | 4 | 0 |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Arthralgia | 4 | 3 |
+| Nervous system disorders |  |  |
+| Tremor | 24 | 16 |
+| Parkinsonismc | 15 | 6 |
+| Dyskinesiad | 6 | 3 |
+| Sedatione | 7 | 1 |
+| Disturbance in attention | 4 | 0 |
+| Reproductive system and breast disorders |  |  |
+| Amenorrhea | 4 | 1 |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Cough | 4 | 1 |
+
+a The data presented are from a study with another risperidone long-acting injection that was administered once every 2 weeks, intramuscularly.
+UZEDY is to be administered subcutaneously. b Patients received double-blind treatment with another risperidone long-acting injection, given once every 2 weeks, or placebo in addition to continuing their treatment as usual, which included mood stabilizers, antidepressants, and/or anxiolytics. c Parkinsonism includes muscle rigidity, hypokinesia, cogwheel rigidity, and bradykinesia. d Dyskinesia includes muscle twitching and dyskinesia. e Sedation includes sedation and somnolence.
+
 Other Adverse Reactions Observed During the Clinical Trial Evaluations of Oral Risperidone
 
 The following is a list of additional adverse drug reactions that have been reported during the clinical trial evaluation of oral risperidone:
@@ -129,7 +199,7 @@ Investigations: body temperature increased, blood prolactin increased, alanine a
 
 Metabolism and Nutrition Disorders: decreased appetite, polydipsia, anorexia
 
-Musculoskeletal, Connective Tissue, and Bone Disorders: joint swelling, joint stiffness, musculoskeletal chest pain, posture abnormal, myalgia, neck pain, muscular weakness, muscle rigidity, rhabdomyolysis
+Musculoskeletal, Connective Tissue, and Bone Disorders: joint swelling, joint stiffness, musculoskeletal chest pain, posture abnormal, myalgia, neck pain, muscular weakness, muscle rigidity, rhabdomyolysis, torticollis
 
 Nervous System Disorders: balance disorder, disturbance in attention, dysarthria, unresponsive to stimuli, depressed level of consciousness, movement disorder, transient ischemic attack, coordination abnormal, cerebrovascular accident, speech disorder, syncope, loss of consciousness, hypoesthesia, tardive dyskinesia, cerebral ischemia, cerebrovascular disorder, neuroleptic malignant syndrome, diabetic coma, head titubation
 
@@ -145,12 +215,48 @@ Skin and Subcutaneous Tissue Disorders: erythema, skin discoloration, skin lesio
 
 Vascular Disorders: hypotension, flushing
 
+Additional Adverse Reactions Reported With Another Risperidone Long-Acting Injection, Given Once Every 2 Weeks
+
+The following is a list of additional adverse reactions that have been reported during the premarketing evaluation of another risperidone long-acting injection, given once every 2 weeks, regardless of frequency of occurrence:
+
+Cardiac Disorders: bradycardia, tachycardia, palpitations
+
+Ear and Labyrinth Disorders: vertigo
+
+Eye Disorders: blepharospasm
+
+Gastrointestinal Disorders: toothache, tongue spasm, diarrhea, vomiting, abdominal pain upper, abdominal pain, stomach discomfort
+
+General Disorders and Administration Site Conditions: pain, injection site pain, induration, injection site induration, injection site swelling, injection site reaction
+
+Infections and Infestations: lower respiratory tract infection, infection, gastroenteritis, subcutaneous abscess, nasopharyngitis, urinary tract infection, rhinitis, sinusitis
+
+Injury and Poisoning: fall, procedural pain
+
+Investigations: weight decreased, gamma-glutamyltransferase increased, hepatic enzyme increased, aspartate aminotransferase increased, electrocardiogram QT prolonged, glucose urine present
+
+Musculoskeletal, Connective Tissue, and Bone Disorders: buttock pain, back pain
+
+Nervous System Disorders: convulsion, paresthesia, dystonia, drooling, dizziness postural, akinesia, hypokinesia
+
+Psychiatric Disorders: depression, insomnia, anxiety, initial insomnia
+
+Reproductive System and Breast Disorders: oligomenorrhea, breast discomfort, menstruation delayed, ejaculation delayed
+
+Respiratory, Thoracic, and Mediastinal Disorders: nasal congestion, pharyngolaryngeal pain, dyspnea, rhinorrhea
+
+Skin and Subcutaneous Tissue Disorders: eczema, rash, pruritis generalized
+
+Vascular Disorders: hypertension, orthostatic hypotension
+
 Discontinuations Due to Adverse Drug Reactions with Oral Risperidone
+
+Schizophrenia
 
 Approximately 7% (39/564) of oral risperidone-treated patients in double-blind, placebo-controlled trials discontinued treatment due to an adverse reaction, compared with 4% (10/225) who were receiving placebo.
 The adverse reactions associated with discontinuation in 2 or more oral risperidone-treated patients were:
 
-Table 6: Adverse Reactions Associated with Discontinuation in ≥2% of Oral Risperidone-Treated Adult Patients in Schizophrenia Trials
+Table 10: Adverse Reactions Associated with Discontinuation in ≥2% of Oral Risperidone-Treated Adult Patients in Schizophrenia Trials
 
 |  | Oral Risperidone |  |  |
 | --- | --- | --- | --- |
@@ -168,6 +274,15 @@ Table 6: Adverse Reactions Associated with Discontinuation in ≥2% of Oral Risp
 
 Discontinuation for extrapyramidal symptoms (including Parkinsonism, akathisia, dystonia, and tardive dyskinesia) was 1% in placebo-treated patients, and 3.4% in active control-treated patients in a double-blind, placebo- and active-controlled trial.
 
+Discontinuations Due to Adverse Drug Reactions with Another Long-Acting Injection Risperidone, Given Once Every 2 Weeks
+
+Bipolar Disorder
+
+In a 24-month double-blind, placebo-controlled treatment period of the trial assessing the efficacy and safety of another risperidone long-acting injection, given once every 2 weeks, monotherapy for maintenance treatment in patients with bipolar I disorder, 1 (0.6%) of 154 patients treated with another risperidone long-acting injection, given once every 2 weeks, discontinued due to an adverse reaction (hyperglycemia).
+
+In the 52-week double-blind phase of the placebo-controlled trial in which patients treated with another risperidone long-acting injection, given once every 2 weeks, was administered as adjunctive therapy to patients with bipolar disorder in addition to continuing with their usual treatment, approximately 4% (3/72) of patients treated with another risperidone long-acting injection, given once every 2 weeks, discontinued treatment due to an adverse event, compared with 1.5% (1/67) of placebo-treated patients.
+Adverse reactions associated with discontinuation in patients treated with another risperidone long-acting injection, given once every 2 weeks, were hypokinesia (one patient) and tardive dyskinesia (one patient).
+
 Dose Dependency of Adverse Reactions in Clinical Trials of Oral Risperidone
 
 Extrapyramidal Symptoms
@@ -175,7 +290,7 @@ Extrapyramidal Symptoms
 Data from two fixed-dose trials in adults with schizophrenia provided evidence of dose-relatedness for extrapyramidal symptoms associated with oral risperidone treatment.
 Two methods were used to measure extrapyramidal symptoms (EPS) in an 8-week trial comparing 4 fixed doses of oral risperidone (2, 6, 10, and 16 mg/day), including (1) a Parkinsonism score (mean change from baseline) from the Extrapyramidal Symptom Rating Scale, and (2) incidence of spontaneous complaints of EPS:
 
-Table 7: Extrapyramidal Symptoms Associated with Oral Risperidone-Treated Adult Patients in an 8-Week Fixed Dose Schizophrenia Trial
+Table 11: Extrapyramidal Symptoms Associated with Oral Risperidone-Treated Adult Patients in an 8-Week Fixed Dose Schizophrenia Trial
 
 | Dose Groups | Placebo | Oral Risperidone2 mg | Oral Risperidone6 mg | Oral Risperidone10 mg | Oral Risperidone16 mg |
 | --- | --- | --- | --- | --- | --- |
@@ -184,7 +299,7 @@ Table 7: Extrapyramidal Symptoms Associated with Oral Risperidone-Treated Adult 
 
 Similar methods were used to measure extrapyramidal symptoms (EPS) in an 8-week trial comparing 5 fixed doses of oral risperidone (1, 4, 8, 12, and 16 mg/day):
 
-Table 8: Extrapyramidal Symptoms Associated with Oral Risperidone-Treated Adult Patients in an 8-Week Fixed Dose Schizophrenia Trial
+Table 12: Extrapyramidal Symptoms Associated with Oral Risperidone-Treated Adult Patients in an 8-Week Fixed Dose Schizophrenia Trial
 
 | Dose Groups | Oral Risperidone1 mg | Oral Risperidone4 mg | Oral Risperidone8 mg | Oral Risperidone12 mg | Oral Risperidone16 mg |
 | --- | --- | --- | --- | --- | --- |
@@ -213,6 +328,12 @@ Between-group comparisons for pooled placebo-controlled trials of oral risperido
 When all oral risperidone doses were pooled from randomized controlled trials in several indications, there was a mean increase in heart rate of 1 beat per minute compared to no change for placebo patients.
 In short-term schizophrenia trials, higher doses of oral risperidone were associated with a higher mean increase in heart rate compared to placebo (4 to 6 beats per minute).
 
+The ECGs of 227 patients with Bipolar I Disorder were evaluated in the 24-month double-blind, placebo-controlled period.
+There were no clinically relevant differences in QTc intervals (using Fridericia's and linear correction factors) during treatment with another risperidone long-acting injection, given once every 2 weeks, compared to placebo.
+
+The ECGs of 85 patients with bipolar disorder were evaluated in the 52-week double-blind, placebo-controlled trial.
+There were no statistically significant differences in QTc intervals (using Fridericia's and linear correction factors) during adjunctive treatment with either another risperidone long-acting injection (25 mg, 37.5 mg, or 50 mg), given once every 2 weeks, or placebo in addition to treatment as usual.
+
 Injection Site Reactions with UZEDY
 
 Local tolerability assessments were administered to patients who reported injection site adverse reactions in a randomized withdrawal study with UZEDY in adult patients with schizophrenia.
@@ -228,5 +349,17 @@ The following adverse reactions have been identified during post-approval use of
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 These adverse reactions include: alopecia, anaphylactic reaction, angioedema, atrial fibrillation, cardiopulmonary arrest, catatonia, diabetic ketoacidosis in patients with impaired glucose metabolism, dysgeusia, hypoglycemia, hypothermia, ileus, inappropriate antidiuretic hormone secretion, intestinal obstruction, jaundice, mania, pancreatitis, pituitary adenoma, precocious puberty, pulmonary embolism, QT prolongation, sleep apnea syndrome, somnambulism, Stevens-Johnson syndrome and toxic epidermal necrolysis (SJS/TEN), sudden death, thrombocytopenia, thrombotic thrombocytopenic purpura, urinary retention, and water intoxication.
+
+In addition, the following adverse reactions have been observed during postapproval use of UZEDY: injection site pain.
+
+In addition, the following adverse reactions have been observed during postapproval use of another risperidone long-acting injection, given intramuscularly once every 2 weeks: cerebrovascular disorders, including cerebrovascular accidents, and diabetes mellitus aggravated.
+
+Retinal artery occlusion after injection of another risperidone long-acting injection, given intramuscularly once every 2 weeks, has been reported during postmarketing surveillance.
+This has been reported in the presence of abnormal arteriovenous anastomosis.
+
+Serious injection site reactions including abscess, cellulitis, cyst, hematoma, necrosis, nodule, and ulcer have been reported with another risperidone long-acting injection, given intramuscularly once every 2 weeks, during postmarketing surveillance.
+Isolated cases required surgical intervention.
+
+Very rarely, cases of anaphylactic reaction after injection with another risperidone long-acting injection, given intramuscularly once every 2 weeks, have been reported during postmarketing experience in patients who have previously tolerated oral risperidone.
 
 Postmarketing cases of extrapyramidal symptoms (dystonia and dyskinesia) have been reported in patients concomitantly taking methylphenidate and risperidone when there was an increase or decrease in dosage, initiation, or discontinuation of either or both medications.

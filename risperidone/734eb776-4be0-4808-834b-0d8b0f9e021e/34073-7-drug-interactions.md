@@ -5,9 +5,9 @@ The drug interaction data provided in this section is based on studies with oral
 
 ## 7.1 Drugs Having Clinically Important Interactions with UZEDY
 
-Table 9 includes clinically significant drug interactions with UZEDY.
+Table 13 includes clinically significant drug interactions with UZEDY.
 
-Table 9: Clinically Important Drug Interactions with UZEDY
+Table 13: Clinically Important Drug Interactions with UZEDY
 
 | Strong CYP2D6 Inhibitors |  |
 | --- | --- |
@@ -15,7 +15,7 @@ Table 9: Clinically Important Drug Interactions with UZEDY
 | Intervention: | When initiation of strong CYP2D6 inhibitors is considered, patients may be placed on the lowest dose (50 mg once monthly or 100 mg once every 2 months) of UZEDY prior to the planned start of strong CYP2D6 inhibitors to adjust for the expected increase in plasma concentrations of risperidone. When strong CYP2D6 inhibitors are initiated in patients receiving UZEDY 50 mg once monthly or 100 mg once every 2 months, it is recommended to continue treatment with the same dose unless clinical judgment necessitates interruption of UZEDY treatment. The effects of discontinuation of strong CYP2D6 inhibitors on the pharmacokinetics of risperidone and 9-hydroxyrisperidone have not been studied [see Clinical Pharmacology (12.3)]. |
 | Strong CYP3A4 Inducers |  |
 | Clinical Impact: | Concomitant use of UZEDY and a strong CYP3A4 inducer may cause decreases in the combined plasma concentrations of risperidone and 9-hydroxyrisperidone which could lead to decreased efficacy of UZEDY [see Clinical Pharmacology (12.3)]. |
-| Intervention: | Changes in efficacy and safety should be carefully monitored with any dose adjustment of UZEDY. At the initiation of therapy with a strong CYP3A4 inducer, patients should be closely monitored during the first 4 to 8 weeks. In patients receiving UZEDY at a specific dose, consider increasing the dose to the next highest dose. In patients receiving UZEDY 125 mg once monthly or 250 mg once every 2 months, additional oral risperidone therapy may need to be considered. On discontinuation of a strong CYP3A4 inducer, the dosage of UZEDY or any additional oral risperidone therapy should be reevaluated and, if necessary, decreased to adjust for the expected increase in plasma concentration of risperidone and 9-hydroxyrisperidone. For patients treated with UZEDY 50 mg once monthly or UZEDY 100 mg once every 2 months discontinuing from a strong CYP3A4 inducer, it is recommended to continue treatment with the same dose unless clinical judgment necessitates interruption of UZEDY treatment [see Dosage and Administration (2.3)]. |
+| Intervention: | Changes in efficacy and safety should be carefully monitored with any dose adjustment of UZEDY. At the initiation of therapy with a strong CYP3A4 inducer, patients should be closely monitored during the first 4 to 8 weeks. In patients receiving UZEDY at a specific dose, consider increasing the dose to the next highest dose. In patients receiving UZEDY 125 mg once monthly or 250 mg once every 2 months, additional oral risperidone therapy may need to be considered. On discontinuation of a strong CYP3A4 inducer, the dosage of UZEDY or any additional oral risperidone therapy should be reevaluated and, if necessary, decreased to adjust for the expected increase in plasma concentration of risperidone and 9-hydroxyrisperidone. For patients treated with UZEDY 50 mg once monthly or UZEDY 100 mg once every 2 months discontinuing from a strong CYP3A4 inducer, it is recommended to continue treatment with the same dose unless clinical judgment necessitates interruption of UZEDY treatment [see Dosage and Administration (2.6)]. |
 | Centrally-Acting Drugs and Alcohol |  |
 | Clinical Impact: | Due to additive pharmacologic effects, the concomitant use of centrally-acting drugs, including alcohol, may increase nervous system disorders. |
 | Intervention: | Caution should be used when UZEDY is administered in combination with other centrally-acting drugs or alcohol. |

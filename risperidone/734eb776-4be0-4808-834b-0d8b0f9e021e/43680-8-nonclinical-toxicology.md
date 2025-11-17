@@ -12,7 +12,7 @@ A maximum tolerated dose was not achieved in male mice.
 There were statistically significant increases in pituitary gland adenomas, endocrine pancreas adenomas, and mammary gland adenocarcinomas.
 The table below summarizes the multiples of the human dose on a mg/m2 (mg/kg) basis at which these tumors occurred.
 
-Table 10: Summary of Tumor Occurrence at the Multiples of the Human Oral Dose on a mg/m2 (mg/kg) Basis with Oral Risperidone Dosing
+Table 14: Summary of Tumor Occurrence at the Multiples of the Human Oral Dose on a mg/m2 (mg/kg) Basis with Oral Risperidone Dosing
 
 | Tumor Type | Species | Sex | Multiples of Maximum Human Dose in mg/m2 (mg/kg) |  |
 | --- | --- | --- | --- | --- |

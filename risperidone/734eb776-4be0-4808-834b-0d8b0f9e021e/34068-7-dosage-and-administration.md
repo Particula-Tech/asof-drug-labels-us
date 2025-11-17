@@ -1,40 +1,69 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage
+## 2.1 General Administration Information
 
 For patients who have never taken risperidone, establish tolerability with oral risperidone prior to initiating UZEDY.
 
 UZEDY must be administered by a healthcare professional as an abdominal or upper arm subcutaneous injection.
 Do not administer UZEDY by any other route.
 
-For detailed preparation and administration instructions, see Dosage and Administration (2.4).
+For detailed preparation and administration instructions, see Dosage and Administration (2.7).
 
-To start UZEDY, switch from oral daily risperidone.
+## 2.2 Dosage Recommendations for the Treatment of Schizophrenia
+
+To start UZEDY for the treatment of schizophrenia, switch from oral daily risperidone.
 Initiate UZEDY, as either a once monthly injection or a once every 2 month injection, the day after the last dose of oral therapy.
 See Table 1 to determine how to switch from oral risperidone to UZEDY once monthly (50 mg, 75 mg, 100 mg, or 125 mg) or once every 2 months (100 mg, 150 mg, 200 mg, or 250 mg) given via abdominal or upper arm subcutaneous injection.
 Neither a loading dose nor supplemental oral risperidone doses are recommended when switching.
 
-Table 1: Dosage Recommendations for Switching from Daily Oral Risperidone to UZEDY
+Table 1: Dosage Recommendations for Switching from Daily Oral Risperidone to UZEDY Given Once Monthly or Once Every 2 Months
 
-| Prior Therapy | UZEDY DosageOnce Monthly | UZEDY DosageOnce Every 2 Months |
+| Comparable Daily Oral Risperidone Therapy | UZEDY Dosage Once Monthly | UZEDY Dosage Once Every 2 Months |
 | --- | --- | --- |
-| 2 mg of oral risperidone per day | 50 mg | 100 mg |
-| 3 mg of oral risperidone per day | 75 mg | 150 mg |
-| 4 mg of oral risperidone per day | 100 mg | 200 mg |
-| 5 mg of oral risperidone per day | 125 mg | 250 mg |
+| 2 mg | 50 mg | 100 mg |
+| 3 mg | 75 mg | 150 mg |
+| 4 mg | 100 mg | 200 mg |
+| 5 mg | 125 mg | 250 mg |
 
 Patients can switch between doses of UZEDY once monthly and once every 2 months by administering the first dose of the new dosing regimen on the next scheduled date of administration in the original dosing regimen.
 Revise the dose administration schedule to reflect the change.
 
+## 2.3 Dosage Recommendations for Maintenance Treatment of Bipolar I Disorder
+
+Following establishment of tolerability with oral risperidone, start UZEDY as a once monthly injection for monotherapy or adjunctive therapy to lithium or valproate for the maintenance treatment of bipolar I disorder, according to the dosage recommendations in Table 2.
+UZEDY once every 2 months injection is not recommended for the maintenance treatment of bipolar I disorder.
+
+Table 2: Dosage Recommendations for Switching from Daily Oral Risperidone to UZEDY Given Once Monthly
+
+| Comparable Daily Oral Risperidone Therapy | UZEDY Dosage Once Monthly |
+| --- | --- |
+| 2 mg | 50 mg |
+| 3 mg | 75 mg |
+| 4 mg | 100 mg |
+
+For patients currently receiving risperidone long acting intramuscular injectable given once every 2 weeks, switch to UZEDY as a once monthly subcutaneous injection, starting at least 5 weeks after the last dose of risperidone long acting intramuscular injectable given once every 2 weeks.
+Refer to Table 3 to determine how to switch from risperidone long acting injectable given once every 2 weeks to UZEDY once monthly (50 mg, 75 mg, 100 mg) subcutaneous injection given via abdominal or upper arm.
+Neither a loading dose nor supplemental oral risperidone doses are recommended when initiating UZEDY.
+
+Table 3: Dosage Recommendations for Switching From Another Risperidone Long-Acting Intramuscular Injection Given Once Every 2 Weeks To UZEDY Given Once Monthly
+
+| Another Risperidone Long-Acting Intramuscular Injection Given Once Every 2 Weeks | UZEDY Dosage Once Monthly |
+| --- | --- |
+| 25 mg | 50 mg |
+| 37.5 mg | 75 mg |
+| 50 mg | 100 mg |
+
+## 2.4 Missed Doses
+
 When a dose of UZEDY is missed, administer the next UZEDY injection as soon as possible.
 Do not administer more frequently than recommended.
 
-## 2.2 Dosage Modifications in Patients with Renal Impairment or Hepatic Impairment
+## 2.5 Dosage Modifications in Patients with Renal Impairment or Hepatic Impairment
 
 Prior to initiating UZEDY in patients with renal or hepatic impairment, titrate with oral risperidone to at least 2 mg once daily.
 Following oral titration, and based on clinical response and tolerability, the recommended dosage of UZEDY is 50 mg once monthly [see Use in Specific Populations (8.6, 8.7) and Clinical Pharmacology (12.3)].
 
-## 2.3 Dosage Modifications for Concomitant Use with Strong CYP2D6 Inhibitors and Strong CYP3A4 Inducers
+## 2.6 Dosage Modifications for Concomitant Use with Strong CYP2D6 Inhibitors and Strong CYP3A4 Inducers
 
 Concomitant Use with Strong CYP2D6 Inhibitors
 
@@ -51,7 +80,7 @@ On discontinuation of a strong CYP3A4 inducer, re-evaluated the dosage of UZEDY 
 
 On discontinuation of a strong CYP3A4 inducer in a patient treated with UZEDY 50 mg once monthly or 100 mg once every 2 months, continue treatment with these doses unless clinical judgment necessitates interruption of UZEDY [see Drug Interactions (7.1)].
 
-## 2.4 Preparation and Administration Instructions
+## 2.7 Preparation and Administration Instructions
 
 - Read the instructions for preparation and administration below before administering UZEDY.
 - For subcutaneous injection only.

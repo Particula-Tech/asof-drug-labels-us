@@ -2,8 +2,8 @@
 
 ## 12.1 Mechanism of Action
 
-The mechanism of action of risperidone, in schizophrenia, is unclear.
-The drug’s therapeutic activity in schizophrenia could be mediated through a combination of dopamine Type 2 (D2) and serotonin Type 2 (5HT2) receptor antagonism.
+The mechanism of action of risperidone, for the listed indications, is unclear.
+The drug’s therapeutic activity could be mediated through a combination of dopamine Type 2 (D2) and serotonin Type 2 (5HT2) receptor antagonism.
 The clinical effect from risperidone results from the combined concentrations of risperidone and its major metabolite, 9-hydroxyrisperidone (paliperidone) [see Clinical Pharmacology (12.3)].
 Antagonism at receptors other than D2 and 5HT2 may explain some of the other effects of risperidone.
 
@@ -22,6 +22,8 @@ After administration of UZEDY, plasma levels of risperidone, 9-hydroxyrisperidon
 
 The average exposure values (Cavg,ss) over the dosing period are comparable for UZEDY administered once monthly and once every 2 months at corresponding doses.
 Following both once monthly (50 mg to 125 mg) and once every 2 months dosing (100 mg to 250 mg), the mean exposure of risperidone and 9-hydroxyrisperidone combined (AUC0-tau) of UZEDY corresponds to that of oral risperidone (2 mg to 5 mg/day) administered over an equivalent dosing period (see Table 1).
+
+No clinically significant difference in the steady state pharmacokinetic exposure of risperidone total active moiety (risperidone and 9-hydroxyrisperidone) following administration of UZEDY 50, 75, and 100 mg once monthly and another risperidone long-acting injection administered as 25, 37.5, and 50 mg once every 2 weeks.
 
 Absorption
 
@@ -44,7 +46,7 @@ Neither risperidone nor 9-hydroxyrisperidone displace each other from plasma bin
 Elimination
 
 The combined clearance of the risperidone and 9-hydroxyrisperidone following UZEDY administration is 14.3 L/h at steady state.
-The mean apparent half-life (t½) of UZEDY ranges between 14 to 22 days for risperidone, 9-hydroxyrisperidone, and risperidone and 9-hydroxyrisperidone combined.
+The mean apparent half-life (t1/2) of UZEDY ranges between 14 to 22 days for risperidone, 9-hydroxyrisperidone, and risperidone and 9-hydroxyrisperidone combined.
 
 Metabolism
 
@@ -80,6 +82,12 @@ The effect of hepatic impairment on the pharmacokinetics of UZEDY has not been s
 
 The effect of hepatic impairment on the pharmacokinetics of oral risperidone has been evaluated in a phase I study.
 While the pharmacokinetics of risperidone in subjects with liver disease were comparable to those in young healthy subjects, the mean free fraction of risperidone in plasma was increased by about 35% because of the diminished concentration of both albumin and α1-acid glycoprotein [see Use in Specific Populations (8.7)].
+
+Geriatric Patients
+
+The pharmacokinetics of UZEDY in geriatric patients has not been studied.
+
+In an open-label trial, steady-state concentrations of risperidone plus 9-hydroxyrisperidone in otherwise healthy elderly patients (≥ 65 years old) treated with another risperidone long-acting injection, given once every 2 weeks, for up to 12 months fell within the range of values observed in otherwise healthy nonelderly patients.
 
 Drug Interaction Studies
 

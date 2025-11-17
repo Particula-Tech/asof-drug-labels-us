@@ -2,7 +2,7 @@
 
 How Supplied
 
-UZEDY (risperidone) extended-release injectable suspension, for subcutaneous use is a sterile, white to off-white opaque viscous suspension.
+UZEDY (risperidone) extended-release injectable suspension, for subcutaneous use, is a sterile, preservative free, white to off-white opaque viscous suspension.
 
 UZEDY is supplied in single-dose kits as follows:
 

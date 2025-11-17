@@ -1,5 +1,7 @@
 # 14 CLINICAL STUDIES
 
+## 14.1 Schizophrenia
+
 The efficacy of UZEDY for the treatment of schizophrenia in adults is based, in part, on the established effectiveness of oral risperidone as well as in a randomized withdrawal study (Study 1: NCT03503318) with UZEDY in adults who met the DSM-5 criteria for schizophrenia.
 The results from Study 1 are presented below.
 
@@ -37,3 +39,35 @@ The cumulative percentage of relapse over time was calculated using Kaplan-Meier
 Subgroup analyses by gender, age, and race did not suggest any clear evidence of differential responsiveness to UZEDY.
 
 Figure 1: Kaplan-Meier Curve of Cumulative Proportion of UZEDY-Treated Patients with Relapse Over Time
+
+## 14.2 Bipolar Disorder - Monotherapy
+
+UZEDY is to be administered subcutaneously.
+The efficacy of UZEDY for the treatment of bipolar disorder monotherapy in adults is based on the established effectiveness of another risperidone long-acting injection, given once every 2 weeks, that was administered intramuscularly.
+
+The efficacy of risperidone long-acting injection for the maintenance treatment of bipolar I disorder was established in a multicenter, double-blind, placebo-controlled study of adult patients who met DSM-IV criteria for Bipolar Disorder Type I, who were stable on medications or experiencing an acute manic or mixed episode.
+The results of the adequate and well-controlled study are presented below.
+
+A total of 501 patients were treated during a 26-week open-label period with another risperidone long-acting injection (starting dose of 25 mg, and titrated, if deemed clinically desirable, to 37.5 mg or 50 mg; in patients not tolerating the 25 mg dose, the dose could be reduced to 12.5 mg), given once every 2 weeks.
+In the open-label phase, 303 (60%) patients were judged to be stable and were randomized to double-blind treatment with either the same dose of another risperidone long-acting injection, given once every 2 weeks, or placebo and monitored for relapse.
+The primary endpoint was time to relapse to any mood episode (depression, mania, hypomania, or mixed).
+
+Time to relapse was delayed in patients receiving another risperidone long-acting injection, given once every 2 weeks, monotherapy compared with patients receiving placebo.
+The majority of relapses were due to manic rather than depressive symptoms.
+Based on their bipolar disorder history, subjects entering this study had, on average, more manic episodes than depressive episodes.
+
+## 14.3 Bipolar Disorder - Adjunctive Therapy
+
+UZEDY is to be administered subcutaneously.
+The efficacy of UZEDY for the treatment of bipolar disorder as adjunctive therapy in adults is based on the established effectiveness of another risperidone long-acting injection, given once every 2 weeks, that was administered intramuscularly.
+
+The efficacy of risperidone long-acting injection as an adjunct to treatment with lithium or valproate for the maintenance treatment of bipolar I disorder was established in a multi-center, randomized, double-blind, placebo-controlled study of adult patients who met DSM-IV criteria for Bipolar Disorder Type I and who experienced at least 4 episodes of mood disorder requiring psychiatric/clinical intervention in the previous 12 months, including at least 2 episodes in the 6 months prior to the start of the study.
+The results of the adequate and well-controlled study are presented below.
+
+A total of 240 patients were treated during a 16-week open-label period with another risperidone long-acting injection (starting dose of 25 mg, and titrated, if deemed clinically desirable, to 37.5 mg or 50 mg), given once every 2 weeks, as adjunctive therapy in addition to continuing their usual treatment for bipolar disorder, which consisted of mood stabilizers (primarily lithium and valproate), antidepressants, and/or anxiolytics.
+All oral antipsychotics were discontinued after the first three weeks after the initial injection of risperidone long-acting injection.
+In the open-label phase, 124 (51.7%) were judged to be stable for at least the last 4 weeks and were randomized to double-blind treatment with either the same dose of another risperidone long-acting injection, given once every 2 weeks, or placebo in addition to continuing their usual treatment and monitored for relapse during a 52-week period.
+The primary endpoint was time to relapse to any new mood episode (depression, mania, hypomania, or mixed).
+
+Time to relapse was delayed in patients receiving adjunctive therapy with another risperidone long-acting injection, given once every 2 weeks, compared with patients receiving adjunctive therapy with placebo.
+The relapse types were about half depressive and half manic or mixed episodes.
