@@ -30,6 +30,8 @@ EEG may show dysrhythmias.
 
 Combined Poisoning: When alcohol, tricyclic antidepressants, barbiturates, or hydantoins are taken at the same time, the signs and symptoms of acute poisoning with Tegretol may be aggravated or modified.
 
+Propylene Glycol Toxicity: In cases of suspected overdose with Tegretol suspension, which contains 25 mg of propylene glycol per mL, monitor for signs of propylene glycol toxicity, including hemolysis, hyperosmolarity with anion gap metabolic acidosis, acute kidney injury, CNS toxicity, and multi-organ failure.
+
 Treatment
 
 The prognosis in cases of severe poisoning is critically dependent upon prompt elimination of the drug, which may be achieved by inducing vomiting, irrigating the stomach, and by taking appropriate steps to diminish absorption.

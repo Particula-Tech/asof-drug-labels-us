@@ -2,8 +2,6 @@ Tegretol®
 
 carbamazepine USP
 
-Chewable Tablets of 100 mg - red-speckled, pink
-
 Tablets of 200 mg – pink
 
 Suspension of 100 mg/5 mL

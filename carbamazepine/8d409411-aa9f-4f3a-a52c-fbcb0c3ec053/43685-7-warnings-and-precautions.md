@@ -48,7 +48,7 @@ The role of other possible factors in the development of, and morbidity from, SJ
 
 ## Aplastic Anemia and Agranulocytosis
 
-Aplastic anemia and agranulocytosis have been reported in association with the use of TEGRETOL (see BOXED WARNING).
+Aplastic anemia and agranulocytosis have been reported in association with the use of Tegretol (see BOXED WARNING).
 Patients with a history of adverse hematologic reaction to any drug may be particularly at risk of bone marrow depression.
 
 ## Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity
@@ -75,6 +75,18 @@ Rare cases of anaphylaxis and angioedema involving the larynx, glottis, lips, an
 Angioedema associated with laryngeal edema can be fatal.
 If a patient develops any of these reactions after treatment with Tegretol, the drug should be discontinued and an alternative treatment started.
 These patients should not be rechallenged with the drug.
+
+Propylene Glycol Toxicity
+
+Tegretol suspension contains propylene glycol (see DESCRIPTION).
+Patients less than 5 years of age are at highest risk for propylene glycol toxicity, and a safe level for propylene glycol exposure with repeated administration has not been established for this age group.
+Particularly, neonates i.e., less than 4 weeks of age (including full-term babies and pre-term babies less than 44 post-menstrual weeks of age) are known to have immature metabolic and renal clearance of propylene glycol.
+Therefore, Tegretol suspension should only be used in neonates after careful risk-benefit assessment if no therapeutic alternatives are available.
+When Tegretol suspension is administered at the maximum dose (35 mg/kg/day) for treatment of epilepsy, the exposure to propylene glycol will be 44 mg/kg/day.
+The total daily intake of propylene glycol from all sources, including concomitant drugs, should be considered in managing the risk of propylene glycol toxicity.
+
+Monitor patients for signs of potential propylene glycol toxicity, including hemolysis, hyperosmolarity with anion gap metabolic acidosis, acute kidney injury, and central nervous system (CNS) toxicity.
+Discontinue Tegretol suspension if propylene glycol toxicity is suspected (see DESCRIPTION).
 
 ## Suicidal Behavior and Ideation
 

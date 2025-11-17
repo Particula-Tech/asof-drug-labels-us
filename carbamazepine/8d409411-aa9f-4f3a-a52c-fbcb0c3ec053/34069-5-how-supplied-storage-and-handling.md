@@ -1,20 +1,5 @@
 # HOW SUPPLIED
 
-Chewable Tablets 100 mg - round, red-speckled, pink, single-scored (imprinted Tegretol on one side and 52 twice on the scored side)
-
-Bottles of 100………………………………………………………………………………….NDC 0078-0492-05
-
-Unit Dose (blister pack)
-
-Box of 100 (strips of 10)……………………………………………………………………....NDC 0078-0492-35
-
-Do not store above 30°C (86°F).
-Protect from light and moisture.
-
-Dispense in tight, light-resistant container (USP).
-
-Meets USP Dissolution Test 1.
-
 Tablets 200 mg - capsule-shaped, pink, single-scored (imprinted Tegretol on one side and 27 twice on the partially scored side)
 
 Bottles of 100.............................................................................................................................NDC 0078-0509-05
@@ -57,4 +42,4 @@ Dispense in tight, light-resistant container (USP).
 
 *Thorazine® is a registered trademark of GlaxoSmithKline.
 
-T2023-61 September 2023
+September 2025 T2025-64

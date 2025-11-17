@@ -17,11 +17,6 @@ Carbamazepine has been shown to have adverse effects in reproduction studies in 
 In rat teratology studies, 2 of 135 offspring showed kinked ribs at 250 mg/kg and 4 of 119 offspring at 650 mg/kg showed other anomalies (cleft palate, 1; talipes, 1; anophthalmos, 2).
 In reproduction studies in rats, nursing offspring demonstrated a lack of weight gain and an unkempt appearance at a maternal dosage level of 200 mg/kg.
 
-Antiepileptic drugs should not be discontinued abruptly in patients in whom the drug is administered to prevent major seizures because of the strong possibility of precipitating status epilepticus with attendant hypoxia and threat to life.
-In individual cases where the severity and frequency of the seizure disorder are such that removal of medication does not pose a serious threat to the patient, discontinuation of the drug may be considered prior to and during pregnancy, although it cannot be said with any confidence that even minor seizures do not pose some hazard to the developing embryo or fetus.
-
-Tests to detect defects using currently accepted procedures should be considered a part of routine prenatal care in childbearing women receiving carbamazepine.
-
 There have been a few cases of neonatal seizures and/or respiratory depression associated with maternal Tegretol and other concomitant anticonvulsant drug use.
 A few cases of neonatal vomiting, diarrhea, and/or decreased feeding have also been reported in association with maternal Tegretol use.
 These symptoms may represent a neonatal withdrawal syndrome.
@@ -29,6 +24,15 @@ These symptoms may represent a neonatal withdrawal syndrome.
 To provide information regarding the effects of in utero exposure to Tegretol, physicians are advised to recommend that pregnant patients taking Tegretol enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry.
 This can be done by calling the toll-free number 1-888-233-2334 and must be done by patients themselves.
 Information on the registry can also be found at the website http://www.aedpregnancyregistry.org/.
+
+Clinical Considerations
+
+Disease-associated Maternal and/or Embryofetal Risk
+
+Epilepsy, with or without exposure to antiepileptic drugs, has been associated with several adverse outcomes during pregnancy, including preeclampsia, preterm labor, antepartum and postpartum hemorrhage, placental abruption, poor fetal growth, prematurity, fetal death, and maternal mortality.
+The risk of maternal or fetal injury may be greatest for patients with untreated or poorly controlled convulsive seizures.
+
+Women with epilepsy who become pregnant should not abruptly discontinue antiepileptic drugs, including TEGRETOL, due to the risk of status epilepticus or severe seizures, which may be life-threatening.
 
 # Usage in Pregnancy
 

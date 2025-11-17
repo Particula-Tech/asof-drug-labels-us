@@ -7,3 +7,8 @@ Taken as a whole, this information supports a conclusion that the generally acce
 The evidence assembled was primarily obtained from short-term use of carbamazepine.
 The safety of carbamazepine in children has been systematically studied up to 6 months.
 No longer-term data from clinical trials is available.
+
+Tegretol suspension contains propylene glycol as an inactive ingredient.
+Patients less than 5 years of age are at the highest risk for propylene glycol toxicity due to incomplete alcohol dehydrogenase maturity.
+Particularly, neonates (including full-term babies and pre-term babies less than 44 post-menstrual weeks of age).
+The total daily intake of propylene glycol from all sources, including concomitant drugs, should be considered in managing the risk of propylene glycol toxicity (see WARNINGS Propylene Glycol Toxicity).

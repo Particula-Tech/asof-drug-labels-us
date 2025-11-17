@@ -1,8 +1,8 @@
 # MEDICATION GUIDE
 
-TEGRETOL® and TEGRETOL®-XR (Teg-ret-ol) (carbamazepine) Tablets, Suspension, Chewable Tablets, Extended-Release Tablets
+TEGRETOL® and TEGRETOL®-XR (Teg-ret-ol) (carbamazepine) Tablets, Suspension, Extended-Release Tablets
 
-Read this Medication Guide before you start taking Tegretol or Tegretol–XR (TEGRETOL) and each time you get a refill.
+Read this Medication Guide before you start taking TEGRETOL or TEGRETOL–XR (TEGRETOL) and each time you get a refill.
 There may be new information.
 This information does not take the place of talking to your healthcare provider about your medical condition or treatment.
 
@@ -44,7 +44,9 @@ TEGRETOL can cause serious side effects, including:
    - yellowing of your skin or eyes
    - severe fatigue or weakness
    - severe muscle pain
-4. Like other antiepileptic drugs, TEGRETOL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+4. Tegretol suspension contains 25 mg propylene glycol in each mL.
+   Your healthcare provider will monitor you for side effects of propylene glycol, especially if you are younger than 5 years of age (particularly babies less than 4 weeks old), you have liver or kidney problems, or you are taking other drugs that have propylene glycol or that are broken down by the same enzyme.
+5. Like other antiepileptic drugs, TEGRETOL may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
    Call your healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
    - thoughts about suicide or dying
    - attempts to commit suicide
@@ -198,9 +200,6 @@ How should I store TEGRETOL?
 
 - Store TEGRETOL Tablets at 20°C to 25°C (68°F to 77°F), excursions permitted between 15°C and 30°C (59°F and 86°F).
   - Keep TEGRETOL Tablets dry.
-- Do not store TEGRETOL Chewable Tablets above 30°C (86°F).
-  - Keep TEGRETOL Chewable Tablets out of the light.
-  - Keep TEGRETOL Chewable Tablets dry.
 - Store TEGRETOL-XR Tablets at 20°C to 25°C (68°F to 77°F); excursions permitted between 15°C and 30°C (59°F and 86°F).
   - Keep TEGRETOL-XR Tablets dry.
 - Do not store TEGRETOL Suspension above 30°C (86°F).
@@ -228,8 +227,8 @@ Active ingredient: carbamazepine
 
 Inactive ingredients:
 
-- TEGRETOL Tablets: colloidal silicon dioxide, D&C Red No. 30 Aluminum Lake (chewable tablets only), FD&C Red No. 40 (200 mg tablets only), flavoring (chewable tablets only), gelatin, glycerin, magnesium stearate, sodium starch glycolate (chewable tablets only), starch, stearic acid, and sucrose (chewable tablets only).
-- TEGRETOL Suspension: citric acid, FD&C Yellow No. 6, flavoring, polymer, potassium sorbate, propylene glycol, purified water, sorbitol, sucrose, and xanthan gum.
+- TEGRETOL Tablets: colloidal silicon dioxide, FD&C Red No. 40, gelatin, glycerin, magnesium stearate, starch, and stearic acid.
+- TEGRETOL Suspension: citric acid, FD&C Yellow No. 6, flavoring, polymer, potassium sorbate, propylene glycol (25 mg/ mL), purified water, sorbitol, sucrose, and xanthan gum.
 - TEGRETOL-XR Tablets: cellulose compounds, dextrates, iron oxides, magnesium stearate, mannitol, polyethylene glycol, sodium lauryl sulfate, titanium dioxide (200 mg tablets only).
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
@@ -238,4 +237,4 @@ Distributed by: Novartis Pharmaceuticals Corporation East Hanover, New Jersey 07
 
 © Novartis
 
-T2023-62 September 2023
+September 2025 T2025-65
