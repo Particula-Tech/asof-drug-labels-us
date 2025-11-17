@@ -141,4 +141,4 @@ Inactive ingredients: microcrystalline cellulose, lactose monohydrate, pregelati
 
 Ora-Plus™ and Ora-Sweet SF™ are the trademarks of Paddock Laboratories, Inc.
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2025
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 09/2025
