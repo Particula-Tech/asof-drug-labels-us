@@ -8,23 +8,37 @@ Physicians should instruct their patients to read the Medication Guide before st
 Infections
 
 Inform patients that SIMPONI may lower the ability of their immune system to fight infections.
-Instruct the patient of the importance of contacting their doctor if they develop any symptoms of infection, including tuberculosis, invasive fungal infections, and hepatitis B reactivation.
+Advise patients not to start taking SIMPONI if they have an active infection.
+Instruct patients to contact their healthcare provider if they develop any symptoms of infection, including tuberculosis, invasive fungal infections, and hepatitis B reactivation [see Warnings and Precautions (5.1, 5.5)].
 
 Malignancies
 
-Patients should be counseled about the risk of lymphoma and other malignancies while receiving SIMPONI.
+Inform patients that SIMPONI may increase their risk of lymphoma and other malignancies while receiving SIMPONI [see Warnings and Precautions (5.2)].
 
-Allergic Reactions
+Hypersensitivity Reactions
 
-Advise latex-sensitive patients that the needle cover on the prefilled syringe as well as the prefilled syringe in the prefilled SmartJect ®autoinjector contains dry natural rubber (a derivative of latex).
+Advise patients to stop taking SIMPONI and contact their healthcare provider immediately if they experience any symptoms of hypersensitivity reactions while taking SIMPONI [see Warnings and Precautions (5.12)].
+
+Advise latex-sensitive patients that the needle cover on the prefilled syringe as well as the prefilled syringe in the prefilled SmartJect ®autoinjector contains dry natural rubber (a derivative of latex) [see How Supplied/Storage and Handling (16)].
 
 Other Medical Conditions
 
-Advise patients to report any signs of new or worsening medical conditions such as congestive heart failure, demyelinating disorders, autoimmune diseases, liver disease, cytopenias, or psoriasis.
+Advise patients to report any signs of new or worsening medical conditions such as congestive heart failure, demyelinating disorders, autoimmune diseases, liver disease, or cytopenias [see Warnings and Precautions (5.3, 5.4, 5.5, 5.6, 5.10)].
 
 Instructions for Safe Administration
 
-The first self-injection should be performed under the supervision of a qualified healthcare professional.
+The first injection should be performed under the supervision of a qualified healthcare professional.
+Only the prefilled syringe is recommended for pediatric self-injection.
+
+SIMPONI Prefilled Syringe
+
+- Adult and pediatric patients 12 years of age and older may self-inject with SIMPONI prefilled syringe.
+
+SIMPONI SmartJect ®Autoinjector
+
+- Adult patients may self-inject with SIMPONI SmartJect ®autoinjector.
+- Use of the SmartJect ®autoinjector for pediatric self-administration has not been evaluated.
+
 If a patient or caregiver is to administer SIMPONI, he/she should be instructed in injection techniques and their ability to inject subcutaneously should be assessed to ensure the proper administration of SIMPONI.
 
 Advise the patient to read the FDA-approved Instructions for Use and provide the following instructions to patients:

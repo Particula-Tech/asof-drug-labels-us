@@ -62,22 +62,6 @@ Consider appropriate empiric antifungal therapy, and take into account both the 
 Antigen and antibody testing for histoplasmosis may be negative in some patients with active infection.
 To aid in the management of such patients, consider consultation with a physician with expertise in the diagnosis and treatment of invasive fungal infections.
 
-Hepatitis B Virus Reactivation
-
-The use of TNF blockers including SIMPONI has been associated with reactivation of hepatitis B virus (HBV) in patients who are chronic hepatitis B carriers (i.e., surface antigen positive).
-In some instances, HBV reactivation occurring in conjunction with TNF blocker therapy has been fatal.
-The majority of these reports have occurred in patients who received concomitant immunosuppressants.
-
-All patients should be tested for HBV infection before initiating TNF-blocker therapy.
-For patients who test positive for hepatitis B surface antigen, consultation with a physician with expertise in the treatment of hepatitis B is recommended before initiating TNF-blocker therapy.
-The risks and benefits of treatment should be considered prior to prescribing TNF blockers, including SIMPONI, to patients who are carriers of HBV.
-Adequate data are not available on whether antiviral therapy can reduce the risk of HBV reactivation in HBV carriers who are treated with TNF blockers.
-Patients who are carriers of HBV and require treatment with TNF blockers should be closely monitored for clinical and laboratory signs of active HBV infection throughout therapy and for several months following termination of therapy.
-
-In patients who develop HBV reactivation, TNF blockers should be stopped and antiviral therapy with appropriate supportive treatment should be initiated.
-The safety of resuming TNF blockers after HBV reactivation has been controlled is not known.
-Therefore, prescribers should exercise caution when considering resumption of TNF blockers in this situation and monitor patients closely.
-
 ## 5.2 Malignancies
 
 Malignancies, some fatal, have been reported among children, adolescents, and young adults who received treatment with TNF-blocking agents (initiation of therapy ≤ 18 years of age), of which SIMPONI is a member.
@@ -91,8 +75,8 @@ The risks and benefits of TNF-blocker treatment, including SIMPONI, should be co
 
 In the controlled portions of clinical trials of TNF blockers, including SIMPONI, more cases of lymphoma have been observed among patients receiving anti-TNF treatment compared with patients in the control groups.
 During the controlled portions of the Phase 2 trials in RA, and the Phase 3 trials in RA, PsA and AS, the incidence of lymphoma per 100 patient-years of follow-up was 0.21 (95% CI: 0.03, 0.77) in the combined SIMPONI group compared with an incidence of 0 (95% CI: 0, 0.96) in the placebo group.
-In the controlled and uncontrolled portions of these clinical trials in 2347 SIMPONI-treated patients with a median follow-up of 1.4 years, the incidence of lymphoma was 3.8-fold higher than expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).
-1Through Week 60 of the UC trials, there were no cases of lymphoma with SIMPONI.
+In the controlled and uncontrolled portions of these clinical trials in 2347 SIMPONI-treated patients with a median follow-up of 1.4 years, the incidence of lymphoma was 3.8-fold higher than expected in the general U.S. population according to the 1964–2004 data from SEER database (adjusted for age, gender, and race).
+Through Week 60 of the UC trials, there were no cases of lymphoma with SIMPONI.
 Patients with RA and other chronic inflammatory diseases, particularly patients with highly active disease and/or chronic exposure to immunosuppressant therapies, may be at higher risk (up to several fold) than the general population for the development of lymphoma, even in the absence of TNF-blocking therapy.
 Cases of acute and chronic leukemia have been reported with TNF-blocker use, including SIMPONI, in rheumatoid arthritis and other indications.
 Even in the absence of TNF-blocker therapy, patients with rheumatoid arthritis may be at a higher risk (approximately 2-fold) than the general population for the development of leukemia.
@@ -106,10 +90,10 @@ The potential risk with the combination of AZA or 6-MP and SIMPONI should be car
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with TNF blockers cannot be excluded.
 
 During the controlled portions of the Phase 2 trial in RA, and the Phase 3 trials in RA, PsA and AS, the incidence of malignancies other than lymphoma per 100 patient-years of follow-up was not elevated in the combined SIMPONI group compared with the placebo group.
-In the controlled and uncontrolled portions of these trials, the incidence of malignancies, other than lymphoma, in SIMPONI-treated patients was similar to that expected in the general U.S. population according to the SEER database (adjusted for age, gender, and race).
-1In the 6-week placebo-controlled portions of the SIMPONI Phase 2/3 clinical trials in UC, the incidence of non-lymphoma malignancies (excluding nonmelanoma skin cancer) was similar between the SIMPONI and the placebo group.
-Through Week 60, the incidence of non-lymphoma malignancies (excluding nonmelanoma skin cancer) was similar to the general U.S. population according to the SEER database (adjusted for age, gender, and race).
-1Short follow-up periods, such as those of one year or less in the studies above, may not adequately reflect the true incidence of malignancies.
+In the controlled and uncontrolled portions of these trials, the incidence of malignancies, other than lymphoma, in SIMPONI-treated patients was similar to that expected in the general U.S. population according to the 1969–2004 SEER database (adjusted for age, gender, and race).
+In the 6-week placebo-controlled portions of the SIMPONI Phase 2/3 clinical trials in UC, the incidence of non-lymphoma malignancies (excluding nonmelanoma skin cancer) was similar between the SIMPONI and the placebo group.
+Through Week 60, the incidence of non-lymphoma malignancies (excluding nonmelanoma skin cancer) was similar to the general U.S. population according to the 1969–2004 SEER database (adjusted for age, gender, and race).
+Short follow-up periods, such as those of one year or less in the studies above, may not adequately reflect the true incidence of malignancies.
 
 It is not known if SIMPONI treatment influences the risk for developing dysplasia or colon cancer.
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
@@ -121,7 +105,7 @@ Periodic skin examination is recommended for all patients, particularly those wi
 
 In controlled trials of other TNF blockers in patients at higher risk for malignancies (e.g., patients with chronic obstructive pulmonary disease [COPD], patients with Wegener's granulomatosis treated with concomitant cyclophosphamide) a greater portion of malignancies occurred in the TNF-blocker group compared to the controlled group.
 In an exploratory 1-year clinical trial evaluating the use of 50 mg, 100 mg, and 200 mg of SIMPONI in 309 patients with severe persistent asthma, 6 patients developed malignancies other than NMSC in the SIMPONI groups compared to none in the control group.
-Three of the 6 patients were in the 200-mg SIMPONI group.
+Three of the 6 patients were in the 200 mg SIMPONI group.
 
 ## 5.3 Congestive Heart Failure
 
@@ -138,37 +122,55 @@ Cases of central demyelination, MS, optic neuritis, and peripheral demyelinating
 Prescribers should exercise caution in considering the use of TNF blockers, including SIMPONI, in patients with central or peripheral nervous system demyelinating disorders.
 Discontinuation of SIMPONI should be considered if these disorders develop.
 
-## 5.5 Autoimmunity
+## 5.5 Hepatitis B Virus Reactivation
+
+The use of TNF blockers including SIMPONI has been associated with reactivation of hepatitis B virus (HBV) in patients who are chronic hepatitis B carriers (i.e., surface antigen positive).
+In some instances, HBV reactivation occurring in conjunction with TNF blocker therapy has been fatal.
+The majority of these reports have occurred in patients who received concomitant immunosuppressants.
+
+All patients should be tested for HBV infection before initiating TNF-blocker therapy.
+For patients who test positive for hepatitis B surface antigen, consultation with a physician with expertise in the treatment of hepatitis B is recommended before initiating TNF-blocker therapy.
+The risks and benefits of treatment should be considered prior to prescribing TNF blockers, including SIMPONI, to patients who are carriers of HBV.
+Adequate data are not available on whether antiviral therapy can reduce the risk of HBV reactivation in HBV carriers who are treated with TNF blockers.
+Patients who are carriers of HBV and require treatment with TNF blockers should be closely monitored for clinical and laboratory signs of active HBV infection throughout therapy and for several months following termination of therapy.
+
+In patients who develop HBV reactivation, TNF blockers should be stopped and antiviral therapy with appropriate supportive treatment should be initiated.
+The safety of resuming TNF blockers after HBV reactivation has been controlled is not known.
+Therefore, prescribers should exercise caution when considering resumption of TNF blockers in this situation and monitor patients closely.
+
+## 5.6 Autoimmunity
 
 Treatment with TNF blockers, including SIMPONI, may result in the formation of antinuclear antibodies (ANA) and, rarely, in the development of a lupus-like syndrome [see Adverse Reactions (6.1)].
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with SIMPONI, treatment should be discontinued.
 
-## 5.6 Use with Abatacept
+## 5.7 Use with Abatacept
 
 In controlled trials, the concurrent administration of another TNF blocker and abatacept was associated with a greater proportion of serious infections than the use of a TNF blocker alone; and the combination therapy, compared to the use of a TNF blocker alone, has not demonstrated improved clinical benefit in the treatment of RA.
 Therefore, the combination of TNF blockers, including SIMPONI, and abatacept is not recommended [see Drug Interactions (7.2)].
 
-## 5.7 Use with Anakinra
+## 5.8 Use with Anakinra
 
 Concurrent administration of anakinra (an interleukin-1 antagonist) and another TNF blocker was associated with a greater portion of serious infections and neutropenia and no additional benefits compared with the TNF-blocker alone.
 Therefore, the combination of anakinra with TNF blockers, including SIMPONI, is not recommended [see Drug Interactions (7.2)].
 
-## 5.8 Switching Between Biological Disease-Modifying Antirheumatic Drugs
+## 5.9 Switching Between Biological Disease-Modifying Antirheumatic Drugs
 
 Care should be taken when switching from one biological product to another biological product since overlapping biological activity may further increase the risk of infection.
 
-## 5.9 Hematologic Cytopenias
+## 5.10 Hematologic Cytopenias
 
 There have been reports of pancytopenia, leukopenia, neutropenia, agranulocytosis, aplastic anemia, and thrombocytopenia in patients receiving golimumab.
 Caution should be exercised when using TNF blockers, including SIMPONI, in patients who have or have had significant cytopenias.
 
-## 5.10 Vaccinations/Therapeutic Infectious Agents
+## 5.11 Vaccinations/Therapeutic Infectious Agents
 
 Live Vaccines
 
 Patients treated with SIMPONI may receive vaccinations, except for live vaccines.
 In patients receiving anti-TNF therapy, limited data are available on the response to live vaccination, or on the secondary transmission of infection by live vaccines.
 Use of live vaccines could result in clinical infections, including disseminated infections.
+
+If possible, it is recommended that prior to initiating therapy with SIMPONI, pediatric patients be brought up to date with all immunizations in agreement with current immunization guidelines.
 
 Therapeutic Infectious Agents
 
@@ -181,7 +183,7 @@ In the Phase 3 PsA trial, after pneumococcal vaccination, a similar proportion o
 In both SIMPONI-treated and placebo-treated patients, the proportions of patients with response to pneumococcal vaccine were lower among patients receiving MTX compared with patients not receiving MTX.
 The data suggest that SIMPONI does not suppress the humoral immune response to the pneumococcal vaccine.
 
-## 5.11 Hypersensitivity Reactions
+## 5.12 Hypersensitivity Reactions
 
 In postmarketing experience, serious systemic hypersensitivity reactions (including anaphylactic reaction) have been reported following SIMPONI administration.
 Some of these reactions occurred after the first administration of SIMPONI.

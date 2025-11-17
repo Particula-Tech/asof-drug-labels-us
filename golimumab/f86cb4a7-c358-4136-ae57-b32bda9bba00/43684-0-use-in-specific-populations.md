@@ -5,31 +5,37 @@
 Risk Summary
 
 Available data from postmarketing case reports with golimumab use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
-An observational study of northern European births observed similar unadjusted rates of major birth defects in infants exposed in utero to golimumab compared to no treatment or non-biologic systemic therapy.
+An observational study of northern European births observed similar unadjusted rates of major birth defects in infants exposed in uteroto golimumab compared to no treatment or non-biologic systemic therapy.
 However, this study had important limitations (see Data).
 
 Monoclonal antibodies, such as golimumab, are transported across the placenta during the third trimester of pregnancy and may affect immune response in the in uteroexposed infant (see Clinical Considerations).
 In an animal reproductive study, golimumab administered by the subcutaneous route to pregnant monkeys, during the period of organogenesis, at doses that produced exposures approximately 360 times the maximum recommended human dose (MRHD) had no adverse fetal effects (see Data).
-In a pre- and post-natal development study with pregnant monkeys, subcutaneous administration of golimumab, during the later gestational and lactation periods, at doses producing maximal maternal blood concentrations approximately 460 times those found with the MRHD had no adverse developmental effects on infants (see Data)
+In a pre- and post-natal development study with pregnant monkeys, subcutaneous administration of golimumab, during the later gestational and lactation periods, at doses producing maximal maternal blood concentrations approximately 460 times those found with the MRHD had no adverse developmental effects on infants (see Data).
+Data suggest that there are risks to the mother and the fetus associated with rheumatoid arthritis and ulcerative colitis in pregnancy (see Clinical Considerations).
 
 All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
-The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+The background risk of major birth defects and miscarriage for the indicated populations is unknown.
 In the U.S. general population, the estimated background risks of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and of miscarriage is 15–20%, respectively.
 
 Clinical Considerations
+
+Disease-associated Maternal and/or Embryo/Fetal Risk
+
+Published data suggest that increased disease activity is associated with the risk of developing adverse pregnancy outcomes in women with rheumatoid arthritis or ulcerative colitis.
+Adverse pregnancy outcomes include preterm delivery (before 37 weeks gestation), low birth weight (less than 2500 g) infants, and small for gestational age at birth.
 
 Fetal/Neonatal Adverse Reactions
 
 Golimumab crosses the placenta during pregnancy.
 Another TNF-blocking monoclonal antibody administered during pregnancy was detected for up to 6 months in the serum of infants.
 Consequently, these infants may be at increased risk of infection.
-Administration of live vaccines to infants exposed to SIMPONI in utero is not recommended for 6 months following the mother's last SIMPONI injection during pregnancy [see Warnings and Precautions (5.10) and Drug Interactions (7.3)].
+Administration of live vaccines to infants exposed to SIMPONI in uterois not recommended for 6 months following the mother's last SIMPONI injection during pregnancy [see Warnings and Precautions (5.11)and Drug Interactions (7.3)].
 
 Data
 
 Human Data
 
-An observational, exposure-based, cohort study based on data from the Swedish, Danish, and Finnish Medical Birth Registers conducted between 2006-2020 (Sweden and Denmark) and 2006-2019 (Finland) compared the risk of major birth defects in 134 live-born infants exposed to golimumab (116 from women treated for rheumatic conditions, 18 from women treated for ulcerative colitis) to no treatment or nonbiologic systemic therapy.
+An observational, exposure-based, cohort study based on data from the Swedish, Danish, and Finnish Medical Birth Registers conducted between 2006–2020 (Sweden and Denmark) and 2006–2019 (Finland) compared the risk of major birth defects in 134 live-born infants exposed to golimumab (116 from women treated for rheumatic conditions, 18 from women treated for ulcerative colitis) to no treatment or non-biologic systemic therapy.
 The unadjusted rate of major birth defects in infants exposed in uterowas similar across all groups.
 However, this study had important limitations such as a small number of pregnant women exposed to golimumab, a wide exposure ascertainment window, and incomplete risk adjustment for potential confounders.
 
@@ -39,7 +45,7 @@ In an embryofetal developmental toxicology study in which pregnant cynomolgus mo
 There was no evidence of maternal toxicity.
 Umbilical cord blood samples collected at the end of the second trimester showed that fetuses were exposed to golimumab during gestation.
 
-In a pre- and postnatal developmental study in which pregnant cynomolgus monkeys were treated with golimumab from gestation day 50 to postpartum day 33, maximal drug concentrations approximately 460 times greater than that found with the MRHD (on a maximum blood concentration (C max) basis at steady-state with maternal subcutaneous doses up to 50 mg/kg twice weekly) were not associated with any evidence of developmental defects in infants.
+In a pre- and post-natal developmental study in which pregnant cynomolgus monkeys were treated with golimumab from gestation day 50 to postpartum day 33, maximal drug concentrations approximately 460 times greater than that found with the MRHD (on a maximum blood concentration (C max) basis at steady state with maternal subcutaneous doses up to 50 mg/kg twice weekly) were not associated with any evidence of developmental defects in infants.
 There was no evidence of maternal toxicity.
 Golimumab was present in fetal serum at the end of the second trimester and in neonatal serum from the time of birth and for up to 6 months postpartum.
 
@@ -55,11 +61,20 @@ The developmental and health benefits of breast-feeding should be considered alo
 
 Data
 
-In the pre- and postnatal development study in cynomolgus monkeys in which golimumab was administered subcutaneously during pregnancy and lactation, golimumab was detected in the breast milk at concentrations that were approximately 400-fold lower than the maternal serum concentrations.
+In the pre- and post-natal development study in cynomolgus monkeys in which golimumab was administered subcutaneously during pregnancy and lactation, golimumab was detected in the breast milk at concentrations that were approximately 400-fold lower than the maternal serum concentrations.
 
 ## 8.4 Pediatric Use
 
-Effectiveness of SIMPONI in pediatric patients less than 18 years of age has not been established.
+Ulcerative Colitis
+
+The safety and effectiveness of SIMPONI for the treatment of moderately to severely active ulcerative colitis have been established in pediatric patients weighing at least 15 kg.
+Use of SIMPONI for this indication is supported by evidence from adequate and well-controlled studies in adults with additional safety and efficacy data from an open-label, study in 69 pediatric patients (4 to 17 years of age).
+The adverse reaction profile in these pediatric patients was similar to adults [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.5)].
+Additionally, headache (17%) and pyrexia (10%) were reported in at least 10% of pediatric patients in the trial.
+
+The safety and effectiveness of SIMPONI for the treatment of moderately to severely active ulcerative colitis have not been established in pediatric patients weighing less than 15 kg.
+
+Polyarticular Juvenile Idiopathic Arthritis (pJIA)
 
 The safety and efficacy of SIMPONI were evaluated in a multicenter, placebo-controlled, double-blind, randomized-withdrawal, parallel group study in 173 children (2 to 17 years of age) with active polyarticular juvenile idiopathic arthritis (pJIA) despite treatment with MTX for at least 3 months.
 Subjects were maintained on their stable dose of MTX at the same dose (mg/week) at study entry.
@@ -75,5 +90,5 @@ In this study, the frequency and type of the adverse reactions seen in children 
 ## 8.5 Geriatric Use
 
 In the Phase 3 trials in RA, PsA, and AS, there were no overall differences in SAEs, serious infections, and AEs in SIMPONI-treated patients ages 65 or older (N=155) compared with younger SIMPONI-treated patients.
-In UC, there were insufficient numbers of patients aged 65 and over to determine whether they respond differently from patients aged 18 to 65.
-Because there is a higher incidence of infections in the geriatric population in general, caution should be used in treating geriatric patients with SIMPONI.
+Clinical studies of SIMPONI in patients with moderately to severely active ulcerative colitis did not include sufficient numbers of patients aged 65 and over to determine whether they respond differently than younger adult patients.
+Because there is a higher incidence of infections in the geriatric population in general, caution should be used in treating geriatric patients with SIMPONI [see Warnings and Precautions (5.1, 5.5)].

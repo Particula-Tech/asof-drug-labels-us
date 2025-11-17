@@ -14,9 +14,4 @@ SIMPONI is indicated for the treatment of adult patients with active ankylosing 
 
 ## 1.4 Ulcerative Colitis
 
-SIMPONI is indicated in adult patients with moderately to severely active ulcerative colitis who have demonstrated corticosteroid dependence or who have had an inadequate response to or failed to tolerate oral aminosalicylates, oral corticosteroids, azathioprine, or 6-mercaptopurine for:
-
-- inducing and maintaining clinical response
-- improving endoscopic appearance of the mucosa during induction
-- inducing clinical remission
-- achieving and sustaining clinical remission in induction responders [see Clinical Studies (14.4)].
+SIMPONI is indicated for the treatment of adults and pediatric patients weighing at least 15 kg with moderately to severely active ulcerative colitis.

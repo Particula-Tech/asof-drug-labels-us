@@ -33,13 +33,13 @@ Clinical Response
 In the 3 RA trials, a greater percentage of patients treated with the combination of SIMPONI and MTX achieved ACR responses at Week 14 (Trials RA-1 and RA-2) and Week 24 (Studies RA-1, RA-2, and RA-3) versus patients treated with the MTX alone.
 There was no clear evidence of improved ACR response with the higher SIMPONI dose group (100 mg) compared to the lower SIMPONI dose group (50 mg).
 In Trials RA-2 and RA-3, the SIMPONI monotherapy groups were not statistically different from the MTX monotherapy groups in ACR responses.
-Table 2 shows the proportion of patients with the ACR response for the SIMPONI 50-mg and control groups in Trials RA-1, RA-2, and RA-3.
-In the subset of patients who received SIMPONI in combination with MTX in Trial RA-1, the proportion of patients achieving ACR 20, 50 and 70 responses at Week 14 were 40%, 18%, and 12%, respectively, in the SIMPONI 50-mg + MTX group (N=101) compared with 17%, 6%, and 2%, respectively, in the placebo + MTX group (N=103).
-Table 3 shows the percent improvement in the components of the ACR response criteria for the SIMPONI 50-mg + MTX and MTX groups in Trial RA-2.
+Table 3 shows the proportion of patients with the ACR response for the SIMPONI 50 mg and control groups in Trials RA-1, RA-2, and RA-3.
+In the subset of patients who received SIMPONI in combination with MTX in Trial RA-1, the proportion of patients achieving ACR 20, 50 and 70 responses at Week 14 were 40%, 18%, and 12%, respectively, in the SIMPONI 50 mg + MTX group (N=101) compared with 17%, 6%, and 2%, respectively, in the placebo + MTX group (N=103).
+Table 4 shows the percent improvement in the components of the ACR response criteria for the SIMPONI 50 mg + MTX and MTX groups in Trial RA-2.
 The percentage of patients achieving ACR 20 responses by visit for Trial RA-2 is shown in Figure 1.
-ACR 20 responses were observed in 38% of patients in the SIMPONI 50-mg + MTX group at the first assessment (Week 4) after the initial SIMPONI administration.
+ACR 20 responses were observed in 38% of patients in the SIMPONI 50 mg + MTX group at the first assessment (Week 4) after the initial SIMPONI administration.
 
-Table 2: Trials RA-1, RA-2, and RA-3 Proportion of Patients with an ACR Response Approximately 78% and 58% of the patients received concomitant NSAIDs and low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), respectively, during the 3 pooled RA trials.
+Table 3: Trials RA-1, RA-2, and RA-3 Proportion of Patients with an ACR Response Approximately 78% and 58% of the patients received concomitant NSAIDs and low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), respectively, during the 3 pooled RA trials.
 
 |  | Placebo ± DMARDs DMARDs in Trial RA-1 included MTX, HCQ, and/or SSZ (about 68%, 8%, and 5% of patients received MTX, HCQ, and SSZ, respectively). | SIMPONI 50 mg ± DMARDs | Background MTX | SIMPONI 50 mg + Background MTX | MTX | SIMPONI 50 mg + MTX |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ Table 2: Trials RA-1, RA-2, and RA-3 Proportion of Patients with an ACR Response
 | Week 14 | 2% | 10% | 4% | 13% | NA | NA |
 | Week 24 | 2% | 9% | 5% | 20% | 16% | 24% Not significantly different from MTX monotherapy. |
 
-Table 3: Trial RA-2 ─ Median Percent Improvement from Baseline in the Individual ACR Components at Week 14 In Trial RA-2, about 70% and 85% of patients received concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and/or NSAIDs during the trials, respectively.
+Table 4: Trial RA-2 ─ Median Percent Improvement from Baseline in the Individual ACR Components at Week 14 In Trial RA-2, about 70% and 85% of patients received concomitant low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day) and/or NSAIDs during the trials, respectively.
 
 |  | Background MTX | SIMPONI 50 mg + Background MTX |
 | --- | --- | --- |
@@ -88,8 +88,8 @@ Table 3: Trial RA-2 ─ Median Percent Improvement from Baseline in the Individu
 
 Physical Function Response in Patients with RA
 
-In Trials RA-1 and RA-2, the SIMPONI 50-mg groups demonstrated a greater improvement compared to the control groups in the change in mean Health Assessment Questionnaire Disability Index (HAQ-DI) score from baseline to Week 24: 0.23 vs. 0.03 in RA-1, 0.47 vs. 0.13 in RA-2, respectively.
-Also in Trials RA-1 and RA-2, the SIMPONI 50-mg groups compared to the control groups had a greater proportion of HAQ responders (change from baseline > 0.22) at Week 24: 43% vs. 27%, 65% vs. 35%, respectively.
+In Trials RA-1 and RA-2, the SIMPONI 50 mg groups demonstrated a greater improvement compared to the control groups in the change in mean Health Assessment Questionnaire Disability Index (HAQ-DI) score from baseline to Week 24: 0.23 vs. 0.03 in RA-1, 0.47 vs. 0.13 in RA-2, respectively.
+Also in Trials RA-1 and RA-2, the SIMPONI 50 mg groups compared to the control groups had a greater proportion of HAQ responders (change from baseline > 0.22) at Week 24: 43% vs. 27%, 65% vs. 35%, respectively.
 
 ## 14.2 Psoriatic Arthritis
 
@@ -107,19 +107,19 @@ The median duration of PsA disease was 5.1 years, 78% of patients received at le
 
 Clinical Response in Patients with PsA
 
-SIMPONI ± MTX, compared with placebo ± MTX, resulted in significant improvement in signs and symptoms as demonstrated by the proportion of patients with an ACR 20 response at Week 14 in Trial PsA (see Table 4).
+SIMPONI ± MTX, compared with placebo ± MTX, resulted in significant improvement in signs and symptoms as demonstrated by the proportion of patients with an ACR 20 response at Week 14 in Trial PsA (see Table 5).
 There was no clear evidence of improved ACR response with the higher SIMPONI dose group (100 mg) compared to the lower SIMPONI dose group (50 mg).
 ACR responses observed in the SIMPONI-treated groups were similar in patients receiving and not receiving concomitant MTX.
 Similar ACR 20 responses at Week 14 were observed in patients with different PsA subtypes.
 However, the number of patients with arthritis mutilans was too small to allow meaningful assessment.
-SIMPONI 50-mg treatment also resulted in significantly greater improvement compared with placebo for each ACR component in Trial PsA (Table 5).
+SIMPONI 50 mg treatment also resulted in significantly greater improvement compared with placebo for each ACR component in Trial PsA (Table 6).
 Treatment with SIMPONI resulted in improvement in enthesitis and skin manifestations in patients with PsA.
 However, the safety and efficacy of SIMPONI in the treatment of patients with plaque psoriasis has not been established.
 
 The percentage of patients achieving ACR 20 responses by visit for Trial PsA is shown in Figure 2.
-ACR 20 responses were observed in 31% of patients in the SIMPONI 50-mg + MTX group at the first assessment (Week 4) after the initial SIMPONI administration.
+ACR 20 responses were observed in 31% of patients in the SIMPONI 50 mg + MTX group at the first assessment (Week 4) after the initial SIMPONI administration.
 
-Table 4: Trial PsA - Proportion of Patients with ACR Responses
+Table 5: Trial PsA - Proportion of Patients with ACR Responses
 
 |  | Placebo ± MTX In Trial PsA, about 48%, 16%, and 72% of the patients received stable doses of MTX (≤ 25 mg/week), low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), and NSAIDs, respectively. | SIMPONI 50 mg ± MTX |
 | --- | --- | --- |
@@ -135,7 +135,7 @@ Table 4: Trial PsA - Proportion of Patients with ACR Responses
 | Week 24 | 1% | 19% |
 | Bold text indicates primary endpoint. |  |  |
 
-Table 5: Trial PsA - Percent Improvement in ACR Components at Week 14
+Table 6: Trial PsA - Percent Improvement in ACR Components at Week 14
 
 |  | Placebo ± MTX In Trial PsA, about 48%, 16%, and 78% of the patients received stable doses of MTX (≤ 25 mg/week), low dose corticosteroids (equivalent to ≤ 10 mg of prednisone a day), and NSAIDs, respectively. | SIMPONI 50 mg ± MTX |
 | --- | --- | --- |
@@ -169,7 +169,7 @@ Table 5: Trial PsA - Percent Improvement in ACR Components at Week 14
 Physical Function Response in Patients with PsA
 
 In Trial PsA, SIMPONI 50 mg demonstrated a greater improvement compared to placebo in the change in mean Health Assessment Questionnaire Disability Index (HAQ-DI) score from baseline to Week 24 (0.33 and -0.01, respectively).
-In addition, the SIMPONI 50-mg group compared to the placebo group had a greater proportion of HAQ responders (≥ 0.3 change from baseline) at Week 24: 43% vs. 22%, respectively.
+In addition, the SIMPONI 50 mg group compared to the placebo group had a greater proportion of HAQ responders (≥ 0.3 change from baseline) at Week 24: 43% vs. 22%, respectively.
 
 ## 14.3 Ankylosing Spondylitis
 
@@ -180,7 +180,7 @@ Patients were randomly assigned to placebo (N=78), SIMPONI 50 mg (N=138), or SIM
 Patients were allowed to continue stable doses of concomitant MTX, sulfasalazine (SSZ), hydroxychloroquine (HCQ), low dose corticosteroids (equivalent to < 10 mg of prednisone a day), and/or NSAIDs during the trial.
 The use of other DMARDs including cytotoxic agents or other biologics was prohibited.
 
-The primary endpoint was the percentage of patients achieving an ASsessment in Ankylosing Spondylitis (ASAS) 20 response at Week 14.
+The primary endpoint was the percentage of patients achieving an Assessment in Ankylosing Spondylitis (ASAS) 20 response at Week 14.
 Placebo-controlled efficacy data were collected and analyzed through Week 24.
 
 In Trial AS, the median duration of AS disease was 5.6 years, median duration of inflammatory back pain was 12 years, 83% were HLA-B27 positive, 24% had prior joint surgery or procedure, and 55% received at least one DMARD in the past.
@@ -188,16 +188,16 @@ During the trial, the use of concomitant DMARDs and/or NSAIDs was as follows: MT
 
 Clinical Response in Patients with AS
 
-In Trial AS, SIMPONI ± DMARDs treatment, compared with placebo ± DMARDs, resulted in a significant improvement in signs and symptoms as demonstrated by the proportion of patients with an ASAS 20 response at Week 14 (see Table 6).
+In Trial AS, SIMPONI ± DMARDs treatment, compared with placebo ± DMARDs, resulted in a significant improvement in signs and symptoms as demonstrated by the proportion of patients with an ASAS 20 response at Week 14 (see Table 7).
 There was no clear evidence of improved ASAS response with the higher SIMPONI dose group (100 mg) compared to the lower SIMPONI dose group (50 mg).
-Table 7 shows the percent improvement in the components of the ASAS response criteria for the SIMPONI 50 mg ± DMARDs and placebo ± DMARDs groups in Trial AS.
+Table 8 shows the percent improvement in the components of the ASAS response criteria for the SIMPONI 50 mg ± DMARDs and placebo ± DMARDs groups in Trial AS.
 
 The percentage of patients achieving ASAS 20 responses by visit for Trial AS is shown in Figure 3.
-ASAS 20 responses were observed in 48% of patients in the SIMPONI 50-mg + MTX group at the first assessment (Week 4) after the initial SIMPONI administration.
+ASAS 20 responses were observed in 48% of patients in the SIMPONI 50 mg + MTX group at the first assessment (Week 4) after the initial SIMPONI administration.
 
-Table 6: Trial AS – Proportion of ASAS Responders at Weeks 14 and 24
+Table 7: Trial AS – Proportion of ASAS Responders at Weeks 14 and 24
 
-|  | Placebo ± DMARDs During the trial, the concomitant use of stable doses of DMARDS was as follows: MTX (21%), SSZ (25%), and HCQ (1%). About 16% and 89% of patients received stable doses of low dose oral steroids and NSAIDs during the trial, respectively. | SIMPONI 50 mg ± DMARDs |
+|  | Placebo ± DMARDs During the trial, the concomitant use of stable doses of DMARDs was as follows: MTX (21%), SSZ (25%), and HCQ (1%). About 16% and 89% of patients received stable doses of low dose oral steroids and NSAIDs during the trial, respectively. | SIMPONI 50 mg ± DMARDs |
 | --- | --- | --- |
 | N N reflects randomized patients. | 78 | 138 |
 | Responders, % of patients |  |  |
@@ -209,9 +209,9 @@ Table 6: Trial AS – Proportion of ASAS Responders at Weeks 14 and 24
 | Week 24 | 15% | 44% |
 | Bold text indicates primary endpoint. |  |  |
 
-Table 7: Trial AS ─ Median Percent Improvement in ASAS Components at Week 14
+Table 8: Trial AS ─ Median Percent Improvement in ASAS Components at Week 14
 
-|  | Placebo ± DMARDs During the trial, the concomitant use of stable doses of DMARDS was as follows: MTX (21%), SSZ (25%), and HCQ (1%). About 16% and 89% of patients received stable doses of low dose oral steroids and NSAIDs during the trial, respectively. | SIMPONI 50 mg ± DMARDs |
+|  | Placebo ± DMARDs During the trial, the concomitant use of stable doses of DMARDs was as follows: MTX (21%), SSZ (25%), and HCQ (1%). About 16% and 89% of patients received stable doses of low dose oral steroids and NSAIDs during the trial, respectively. | SIMPONI 50 mg ± DMARDs |
 | --- | --- | --- |
 | N N reflects randomized patients. | 78 | 138 |
 | ASAS components |  |  |
@@ -228,54 +228,89 @@ Table 7: Trial AS ─ Median Percent Improvement in ASAS Components at Week 14
 | Baseline | 7.1 | 7.1 |
 | Week 14 | 6% | 59% |
 
-| Figure 3:Trial AS – Percentage of AS Patients Achieving ASAS 20 Response by Visit: Randomized Patients The same patients may not have responded at each timepoint. |
+| Figure 3: Trial AS – Percentage of AS Patients Achieving ASAS 20 Response by Visit: Randomized PatientsThe same patients may not have responded at each timepoint. |
 | --- |
 
-## 14.4 Ulcerative Colitis
+## 14.4 Adult Ulcerative Colitis
 
-The safety and efficacy of SIMPONI were evaluated in 2 multicenter, randomized, double-blind, placebo-controlled clinical trials in patients ≥ 18 years of age (Trials UC-1 and UC-2).
+The efficacy and safety of SIMPONI was evaluated in 2 multicenter, randomized, double-blind, placebo-controlled clinical trials in adults with moderately to severely active ulcerative colitis (UC).
+Trial UC-1 (NCT00487539) was a 6-week induction trial.
+Trial UC-2 (NCT00488631) was a randomized-withdrawal maintenance trial that evaluated 456 patients who achieved clinical response with SIMPONI induction and tolerated SIMPONI treatment.
 
-Trial UC-1 was an induction trial conducted in patients with moderately to severely active ulcerative colitis (UC), defined as a Mayo score of 6 to 12 [the Mayo score ranges from 0 to 12 and has 4 subscales that are each scored from 0 (normal) to 3 (most severe): stool frequency, rectal bleeding, findings on endoscopy, and physician global assessment].
+In Trial UC-1 moderately to severely active UC was, defined as a Mayo score of 6 to 12 [the Mayo score ranges from 0 to 12 and has 4 subscales that are each scored from 0 (normal) to 3 (most severe): stool frequency, rectal bleeding, findings on endoscopy, and physician global assessment].
 At baseline, subjects also had an endoscopy subscore of 2 or 3 on a 3-point scale (an endoscopy score of 2 is defined by marked erythema, absent vascular pattern, friability, erosions; and a score of 3 is defined by spontaneous bleeding, ulceration).
 Patients were corticosteroid dependent (i.e., an inability to successfully taper corticosteroids without a return of the symptoms of UC) or had an inadequate response to or had failed to tolerate at least one of the following therapies: oral aminosalicylates, oral corticosteroids, azathioprine, or 6-mercaptopurine.
 
 Trial UC-1 was divided into 2 parts.
-In Part 1 (dose finding), patients were randomized to one of 4 treatment groups: 400 mg SIMPONI administered subcutaneously (SC) at Week 0 and 200 mg at Week 2 (400/200 mg), 200-mg SIMPONI SC at Week 0 and 100 mg at Week 2 (200/100 mg), 100-mg SIMPONI SC at Week 0 and 50 mg at Week 2 (100/50 mg), or placebo SC at Weeks 0 and 2.
-In Part 2 (dose confirming), efficacy was evaluated in 761 patients who were randomized to receive either 400 mg SIMPONI SC at Week 0 and 200 mg at Week 2, 200-mg SIMPONI SC at Week 0 and 100 mg at Week 2, or placebo SC at Weeks 0 and 2.
+In Part 1 (dose finding), patients were randomized to one of 4 treatment groups: 400 mg SIMPONI administered subcutaneously (SC) at Week 0 and 200 mg at Week 2 (400/200 mg), 200 mg SIMPONI SC at Week 0 and 100 mg at Week 2 (200/100 mg), 100 mg SIMPONI SC at Week 0 and 50 mg at Week 2 (100/50 mg), or placebo SC at Weeks 0 and 2.
+In Part 2 (dose confirming), efficacy was evaluated in 761 patients who were randomized to receive either 400 mg SIMPONI SC at Week 0 and 200 mg at Week 2, 200 mg SIMPONI SC at Week 0 and 100 mg at Week 2, or placebo SC at Weeks 0 and 2.
 SIMPONI 100/50-mg SC was not evaluated in Part 2; its safety and effectiveness has not been established in UC.
 Concomitant stable doses of oral aminosalicylates (5-ASA), oral corticosteroids (less than 40 mg/day), azathioprine (AZA), 6-mercaptopurine (6-MP), and/or methotrexate (MTX) were permitted.
 Patients who received previous TNF inhibitors were excluded.
-The primary endpoint was the percent of patients in clinical response at Week 6, defined as a decrease from baseline in the Mayo score by ≥ 30% and ≥ 3 points, accompanied by a decrease in the rectal bleeding subscore of ≥ 1 or a rectal bleeding subscore of 0 (no blood seen) or 1 (streaks of blood with stool less than half the time).
+The primary endpoint in UC-1 was the percent of patients in clinical response at Week 6, defined as a decrease from baseline in the Mayo score by ≥ 30% and ≥ 3 points, accompanied by a decrease in the rectal bleeding subscore of ≥ 1 or a rectal bleeding subscore of 0 (no blood seen) or 1 (streaks of blood with stool less than half the time).
 
-Trial UC-2 was a randomized-withdrawal maintenance trial that evaluated 456 patients who achieved clinical response with SIMPONI induction and tolerated SIMPONI treatment.
+Trial UC-2 evaluated 456 patients who achieved clinical response with SIMPONI induction and tolerated SIMPONI treatment.
 Patients were randomized to receive SIMPONI 50 mg, SIMPONI 100 mg or placebo administered subcutaneously every 4 weeks.
 Concomitant stable doses of oral aminosalicylates, azathioprine, 6-mercaptopurine, and/or methotrexate were permitted.
 Corticosteroids were to be tapered at the start of the maintenance trial.
-The primary endpoint was the percent of patients maintaining clinical response through Week 54.
+The primary endpoint in UC-2 was the percent of patients maintaining clinical response through Week 54.
 
 Clinical Response, Clinical Remission and Improvement of Endoscopic Appearance of the Mucosa
 
-In Trial UC-1, a greater proportion of patients achieved clinical response, clinical remission and had improvement of endoscopic appearance of the mucosa at Week 6 in the SIMPONI 200/100-mg group compared with the placebo group.
-The SIMPONI 400/200-mg group did not demonstrate additional clinical benefit over the SIMPONI 200/100-mg group.
+In Trial UC-1, a greater proportion of patients achieved clinical response, clinical remission and had improvement of endoscopic appearance of the mucosa at Week 6 in the SIMPONI 200/100 mg group compared with the placebo group.
+The SIMPONI 400/200 mg group did not demonstrate additional clinical benefit over the SIMPONI 200/100 mg group.
 Clinical response was defined as a decrease from baseline in the Mayo score of ≥ 30% and ≥ 3 points, accompanied by a decrease in the rectal bleeding subscore of ≥ 1 or a rectal bleeding subscore of 0 or 1.
 Clinical remission was defined as a Mayo score ≤ 2 points, with no individual subscore > 1.
 Improvement of endoscopic appearance of the mucosa was defined as a Mayo endoscopy subscore of 0 (normal or inactive disease) or 1 (erythema, decreased vascular pattern, mild friability).
 
-In Trial UC-2, a greater proportion of patients maintained clinical response through Week 54 in the SIMPONI 100-mg group compared with the placebo group.
+In Trial UC-2, a greater proportion of patients maintained clinical response through Week 54 in the SIMPONI 100 mg group compared with the placebo group.
 In Trial UC-2, SIMPONI-treated patients in clinical response (which included the subset of patients in clinical remission) in Trial UC-1, were again assessed for clinical remission at Week 30 and Week 54.
-A greater proportion of patients had clinical remission at both Weeks 30 and 54 without demonstrating a loss of response at any time point through Week 54 in the SIMPONI 100-mg group compared with the placebo group.
+A greater proportion of patients had clinical remission at both Weeks 30 and 54 without demonstrating a loss of response at any time point through Week 54 in the SIMPONI 100 mg group compared with the placebo group.
 
-These results are shown in Table 8 below.
+These results are shown in Table 9 below.
 
-Table 8: The Proportion of Patients with UC in Clinical Response, Clinical Remission and with Improvement of Endoscopic Appearance of the Mucosa in Trials UC-1 and UC-2
+Table 9: The Proportion of Patients with UC in Clinical Response, Clinical Remission and with Improvement of Endoscopic Appearance of the Mucosa in Trials UC-1 and UC-2
 
 | Trial UC-1 (6-Week Induction Trial) |  |  |  |
 | --- | --- | --- | --- |
-|  | Placebo N=251 | SIMPONI 200/100 mg N=253 | Treatment difference (95% C.I.) |
+|  | Placebo N=251 | SIMPONI 200/100 mg N=253 | Treatment difference (95% CI) |
 | Clinical response Patients who had a prohibited change in concomitant UC medication, an ostomy or colectomy, discontinued trial agent due to lack of therapeutic effect, or a dose adjustment in Trial UC-2 were considered not to be in clinical response, clinical remission or have an improvement in endoscopic appearance of the mucosa from the time of the event onward.at Week 6 | 30% | 51% | 21% (12%, 29%) p<0.0001; |
 | Clinical remission at Week 6 | 6% | 18% | 11% (6%, 17%) |
 | Improvement of endoscopic appearance of the mucosa at Week 6 | 29% | 42% | 14% (5%, 22%) p=0.0014; |
 | Trial UC-2 (54-Week Maintenance Trial) Results in Trial UC-2 are based on patients who were in clinical response to SIMPONI at trial entry. |  |  |  |
-|  | Placebo N=154 | SIMPONI 100 mg N=151 | Treatment difference (95% C.I.) |
+|  | Placebo N=154 | SIMPONI 100 mg N=151 | Treatment difference (95% CI) |
 | Clinical response through Week 54 Patients were assessed for UC disease activity by partial Mayo score every 4 weeks (loss of response was confirmed by endoscopy). Therefore, a patient who maintained clinical response was in response at each evaluation through Week 54. | 31% | 50% | 19% (8%, 29%) p<0.001; |
 | Clinical remission at both Week 30 and Week 54 A patient had to be in remission at both Weeks 30 and 54 (without demonstrating a loss of response at any time point through Week 54) to achieve sustained remission. | 16% | 28% | 12% (3%, 21%) p=0.004 |
+
+## 14.5 Pediatric Ulcerative Colitis
+
+The efficacy and safety of SIMPONI was evaluated in a multi-center, open-label pediatric study of 69 patients (NCT03596645).
+Efficacy was assessed in 66 patients weighing at least 15 kg with moderately to severely active ulcerative colitis defined as a Mayo score of 6 to 12 with an endoscopy subscore of ≥2 who had an inadequate response to corticosteroids, 6‑mercaptopurine (6‑MP), or azathioprine (AZA), or who were intolerant to or had medical contraindications for such therapies.
+Patients with prior exposure to TNF blockers were ineligible.
+Of the 66 subjects assessed for efficacy, the mean age was 13.4 years (range 4 to 17 years), the median weight was 51 kg, and 53% were female.
+Twenty-four percent identified as Hispanic or Latino; 71% identified as White, 18% as Asian, 3% as American Indian or Alaskan Native, 3% as Black, and 2% identified as part of multiple racial subgroups.
+
+Patients weighing 15 to less than 45 kg received SIMPONI subcutaneously at 120 mg/m 2at dosages of 120 mg/m 2at Week 0, 60 mg/m 2at Week 2 and 60 mg/m 2every 4 weeks from Week 6 onward.
+
+Patients weighing at least 45 kg received SIMPONI 200 mg at Week 0, 100 mg at Week 2 and 100 mg every 4 weeks from Week 6 onward.
+
+The recommended body-weight tiered dosage for pediatric patients weighing 15 to less than 40 kg and 40 to less than 45 kg differs from the body surface area-based dosage administered in this study.
+There are no anticipated clinically relevant differences in efficacy between the recommended and studied pediatric dosages of SIMPONI [see Dosage and Administration (2.3)and Clinical Pharmacology (12.3)].
+
+At weeks 6, and 54, efficacy was assessed by the Mayo score.
+
+Efficacy Endpoints Week 6
+
+The results of the primary endpoint of clinical remission at Week 6 and secondary endpoint of clinical response at Week 6, both assessed by Mayo score are shown in Table 10.
+
+Table 10: Proportion of Pediatric Patients Weighing at Least 15 kg with UC in Clinical Remission and Clinical Response at Week 6
+
+| Endpoint | SIMPONI n (%) [90% CI] N=66 |
+| --- | --- |
+| Clinical remission at Week 6 Clinical remission is defined as a Mayo score ≤2 points, with no individual subscore >1. | 21 (32%) [22%, 41%] |
+| Clinical response at Week 6 Clinical response is defined as a decrease from baseline in the Mayo score by ≥ 30% and ≥ 3 points, with either a decrease from baseline in the rectal bleeding subscore of ≥ 1 or a rectal bleeding subscore of 0 or 1. | 38 (58%) [48%, 68%] |
+
+Additional Secondary Endpoints
+
+Of the 38 pediatric subjects with clinical response at Week 6, 13 subjects (34%) were in clinical remission and 15 subjects (39%) had endoscopic improvement, defined as an endoscopy subscore of 0 or 1 based on local endoscopy, at Week 54.
+Of the 21 subjects in clinical remission at Week 6, 12 subjects (57%) maintained clinical remission at Week 54.
