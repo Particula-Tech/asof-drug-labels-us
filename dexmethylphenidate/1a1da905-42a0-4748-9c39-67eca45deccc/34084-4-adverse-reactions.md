@@ -52,21 +52,21 @@ The table includes only those reactions that occurred in patients treated with F
 
 Table 2: Dose-Related Adverse Reactions in Pediatric Patients (6 to 17 years of age) With ADHD
 
-| System organ class Adverse reaction | Focalin XR 10 mg/day N = 64 | Focalin XR 20 mg/day N = 60 | Focalin XR 30 mg/day N = 58 | Placebo N = 63 |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Gastrointestinal disorders | 22% | 23% | 29% | 24% |  |  |  |
-| Vomiting | 2% | 8% | 9% | 0% |  |  |  |
-| Metabolism and nutritional disorders | 16% | 17% | 22% | 5% |  |  |  |
-| Anorexia | 5% | 5% | 7% | 0 |  |  |  |
-| Psychiatric disorders | 19% | 20% | 38% | 8% |  |  |  |
-| Insomnia | 5% | 8% | 17% | 3% |  |  |  |
-| Depression | 0 | 0 | 3% | 0 |  |  |  |
-| Mood swings | 0% | 0% | 3% | 2% |  |  |  |
-| Other adverse reactions |  |  |  |  |  |  |  |
-| Irritability | 0% | 2% | 5% | 0% |  |  |  |
-| Nasal congestion | 0% | 0% | 5% | 0% |  |  |  |
-| Pruritus | 0% | 0% | 3% | 0% |  |  |  |
-| Abbreviation: ADHD, attention deficit hyperactivity disorder. |  |  |  |  |  |  |  |
+| System organ class Adverse reaction | Focalin XR 10 mg/day N = 64 | Focalin XR 20 mg/day N = 60 | Focalin XR 30 mg/day N = 58 | Placebo N = 63 |
+| --- | --- | --- | --- | --- |
+| Gastrointestinal disorders | 22% | 23% | 29% | 24% |
+| Vomiting | 2% | 8% | 9% | 0% |
+| Metabolism and nutritional disorders | 16% | 17% | 22% | 5% |
+| Anorexia | 5% | 5% | 7% | 0 |
+| Psychiatric disorders | 19% | 20% | 38% | 8% |
+| Insomnia | 5% | 8% | 17% | 3% |
+| Depression | 0 | 0 | 3% | 0 |
+| Mood swings | 0% | 0% | 3% | 2% |
+| Other adverse reactions |  |  |  |  |
+| Irritability | 0% | 2% | 5% | 0% |
+| Nasal congestion | 0% | 0% | 5% | 0% |
+| Pruritus | 0% | 0% | 3% | 0% |
+| Abbreviation: ADHD, attention deficit hyperactivity disorder. |  |  |  |  |
 
 Adverse Reactions in Studies with Focalin XR in Adult Patients with ADHD
 
