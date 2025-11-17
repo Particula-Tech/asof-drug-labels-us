@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-- FLECTOR (diclofenac epolamine) topical system is supplied in resealable envelopes, each containing 5 topical systems (10 cm × 14 cm), with 6 envelopes per box (NDC 71858-0405-5).
+- FLECTOR (diclofenac epolamine) topical system is supplied in resealable envelopes, each containing 5 topical systems (10 cm × 14 cm), with 3 envelopes per box (NDC 71858-0405-6) or 6 envelopes per box (NDC 71858-0405-5).
   Each FLECTOR is debossed with "FLECTOR (DICLOFENAC EPOLAMINE) TOPICAL SYSTEM 1.3%".
 - The product is intended for topical use only.
 - Keep out of reach of children and pets.
