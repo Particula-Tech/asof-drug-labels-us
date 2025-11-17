@@ -12,10 +12,11 @@ Severe Gastrointestinal Adverse Reactions
 Inform patients of the potential risk of severe gastrointestinal adverse reactions.
 Instruct patients to contact their healthcare provider if they have severe or persistent gastrointestinal symptoms [see Warnings and Precautions (5.2)].
 
-Acute Kidney Injury
+Acute Kidney Injury Due to Volume Depletion
 
-Advise patients treated with ZEPBOUND of the potential risk of dehydration due to gastrointestinal adverse reactions and take precautions to avoid fluid depletion.
-Inform patients of the potential risk for worsening renal function and explain the associated signs and symptoms of renal impairment, as well as the possibility of dialysis as a medical intervention if renal failure occurs [see Warnings and Precautions (5.3)].
+Inform patients of the potential risk of acute kidney injury due to dehydration associated with gastrointestinal adverse reactions.
+Advise patients to take precautions to avoid fluid depletion.
+Inform patients of the signs and symptoms of acute kidney injury and instruct them to promptly report any of these signs or symptoms or persistent (or extended) nausea, vomiting, and diarrhea to their healthcare provider [see Warnings and Precautions (5.3)].
 
 Acute Gallbladder Disease
 
@@ -24,8 +25,8 @@ Instruct patients to contact their healthcare provider for appropriate clinical 
 
 Acute Pancreatitis
 
-Inform patients of the potential risk for pancreatitis.
-Instruct patients to discontinue ZEPBOUND promptly and contact their healthcare provider if pancreatitis is suspected (severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting) [see Warnings and Precautions (5.5)].
+Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting.
+Instruct patients to discontinue ZEPBOUND promptly and contact their healthcare provider if pancreatitis is suspected [see Warnings and Precautions (5.5)].
 
 Hypersensitivity Reactions
 
@@ -37,7 +38,7 @@ Hypoglycemia
 Inform patients of the risk of hypoglycemia and educate patients on the signs and symptoms of hypoglycemia.
 Advise patients on insulin or insulin secretagogue therapy that they may have an increased risk of hypoglycemia when using ZEPBOUND and to report signs and/or symptoms of hypoglycemia to their healthcare provider [see Warnings and Precautions (5.7)].
 
-Diabetic Retinopathy Complications
+Diabetic Retinopathy Complications in Patients with Type 2 Diabetes Mellitus
 
 Inform patients with type 2 diabetes mellitus to contact their healthcare provider if changes in vision are experienced during treatment with ZEPBOUND [see Warnings and Precautions (5.8)].
 
@@ -80,4 +81,4 @@ All rights reserved.
 
 Pat.: www.lilly.com/patents
 
-ZEP-0009-USPI-20250428
+ZEP-0010-USPI-20250925

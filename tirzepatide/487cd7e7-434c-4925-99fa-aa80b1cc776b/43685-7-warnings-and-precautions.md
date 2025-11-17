@@ -20,16 +20,13 @@ Use of ZEPBOUND has been associated with gastrointestinal adverse reactions, som
 In a pool of two ZEPBOUND clinical trials for weight reduction (Studies 1 and 2), severe gastrointestinal adverse reactions were reported more frequently among patients receiving ZEPBOUND (5 mg 1.7%, 10 mg 2.5%, 15 mg 3.1%) than placebo (1%).
 Similar rates of severe gastrointestinal adverse reactions were observed in ZEPBOUND clinical trials for weight reduction and in ZEPBOUND clinical trials for OSA.
 
-ZEPBOUND has not been studied in patients with severe gastrointestinal disease, including severe gastroparesis, and is therefore not recommended in these patients.
+ZEPBOUND is not recommended in patients with severe gastroparesis.
 
-## 5.3 Acute Kidney Injury
+## 5.3 Acute Kidney Injury Due to Volume Depletion
 
-Use of ZEPBOUND has been associated with acute kidney injury, which can result from dehydration due to gastrointestinal adverse reactions to ZEPBOUND, including nausea, vomiting, and diarrhea [see Adverse Reactions (6.1)].
-
-In patients treated with GLP-1 receptor agonists, there have been postmarketing reports of acute kidney injury and worsening of chronic renal failure, which may sometimes require hemodialysis.
-Some of these events have been reported in patients without known underlying renal disease.
-A majority of the reported events occurred in patients who had experienced nausea, vomiting, diarrhea, or dehydration.
-Monitor renal function in patients reporting adverse reactions to ZEPBOUND that could lead to volume depletion.
+There have been postmarketing reports of acute kidney injury, in some cases requiring hemodialysis, in patients treated with GLP-1 receptor agonists, or ZEPBOUND [see Adverse Reactions (6.2)].
+The majority of the reported events occurred in patients who experienced gastrointestinal adverse reactions leading to dehydration such as nausea, vomiting, or diarrhea [see Adverse Reactions (6.1)].
+Monitor renal function in patients reporting adverse reactions to ZEPBOUND that could lead to volume depletion, especially during dosage initiation and escalation of ZEPBOUND.
 
 ## 5.4 Acute Gallbladder Disease
 
@@ -42,15 +39,10 @@ If cholecystitis is suspected, gallbladder diagnostic studies and appropriate cl
 
 ## 5.5 Acute Pancreatitis
 
-Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists or tirzepatide.
+Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, or ZEPBOUND [see Adverse Reactions (6.1)].
 
-In clinical trials of tirzepatide for a different indication, 14 events of acute pancreatitis were confirmed by adjudication in 13 tirzepatide-treated patients (0.23 patients per 100 years of exposure) versus 3 events in 3 comparator-treated patients (0.11 patients per 100 years of exposure).
-In a pool of two ZEPBOUND clinical trials for weight reduction (Studies 1 and 2), 0.2% of ZEPBOUND-treated patients had acute pancreatitis confirmed by adjudication (0.14 patients per 100 years of exposure) versus 0.2% of placebo-treated patients (0.15 patients per 100 years of exposure).
-The exposure-adjusted incidence rate for treatment-emergent adjudication-confirmed pancreatitis in the pooled clinical studies for OSA (Studies 5 and 6) was 0.84 patients per 100 years for ZEPBOUND and 0 for placebo-treated patients.
-
-After initiation of ZEPBOUND, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back, which may or may not be accompanied by vomiting).
+After initiation of ZEPBOUND, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
 If pancreatitis is suspected, discontinue ZEPBOUND and initiate appropriate management.
-Continuation of ZEPBOUND after a confirmed diagnosis of pancreatitis should be individually determined in the clinical judgment of a patient's health care provider.
 
 ## 5.6 Hypersensitivity Reactions
 

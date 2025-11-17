@@ -47,7 +47,7 @@ Table 2: Changes in Body Weight at Week 72 in Studies 1 and 2 in Patients with O
 | Body Weight |  |  |  |  |  |  |  |
 | Baseline mean (kg) | 104.8 | 102.9 | 105.8 | 105.6 | 101.7 | 100.9 | 99.6 |
 | % Change from baselineb | -3.1 | -15.0 | -19.5 | -20.9 | -3.2 | -12.8 | -14.7 |
-| % Difference from placebob (95% CI) |  | -11.9 (-13.4, _10.4)d | -16.4 (_17.9, -14.8)d | -17.8 (_19.3, -16.3)d |  | -9.6 (-11.1, -8.1)d | -11.6 (-13.0, -10.1)d |
+| % Difference from placebob (95% CI) |  | -11.9 (-13.4, -10.4)d | -16.4 (-17.9, -14.8)d | -17.8 (-19.3, -16.3)d |  | -9.6 (-11.1, -8.1)d | -11.6 (-13.0, -10.1)d |
 | % of Patients losing ≥5% body weight | 34.5 | 85.1 | 88.9 | 90.9 | 32.5 | 79.2 | 82.8 |
 | % Difference from placebo (95% CI) |  | 50.3 (44.3, 56.2)c,d | 54.6 (49.1, 60.0)c,d | 56.4 (50.9, 62.0)c,d |  | 46.8 (39.5, 54.1)c,d | 50.4 (43.1, 57.8)c,d |
 | % of Patients losing ≥10% body weight | 18.8 | 68.5 | 78.1 | 83.5 | 9.5 | 60.5 | 64.8 |

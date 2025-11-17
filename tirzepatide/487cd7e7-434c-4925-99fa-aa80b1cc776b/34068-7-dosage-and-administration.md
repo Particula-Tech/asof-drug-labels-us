@@ -43,5 +43,5 @@ The maximum dosage of ZEPBOUND for all indications is 15 mg injected subcutaneou
   Do not use ZEPBOUND if particulate matter or discoloration is seen.
 - Administer ZEPBOUND in combination with a reduced-calorie diet and increased physical activity.
 - Administer ZEPBOUND once weekly at any time of day, with or without meals.
-- Inject ZEPBOUND subcutaneously in the abdomen, thigh, or upper arm.
+- Inject ZEPBOUND subcutaneously in the abdomen, thigh, or another person should inject in the back of the upper arm.
 - Rotate injection sites with each dose.

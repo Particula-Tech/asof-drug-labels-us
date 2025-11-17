@@ -4,7 +4,7 @@ The following serious adverse reactions are described below or elsewhere in the 
 
 - Risk of Thyroid C-cell Tumors [see Warnings and Precautions (5.1)]
 - Severe Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.2)]
-- Acute Kidney Injury [see Warnings and Precautions (5.3)]
+- Acute Kidney Injury Due to Volume Depletion [see Warnings and Precautions (5.3)]
 - Acute Gallbladder Disease [see Warnings and Precautions (5.4)]
 - Acute Pancreatitis [see Warnings and Precautions (5.5)]
 - Hypersensitivity Reactions [see Warnings and Precautions (5.6)]
@@ -72,6 +72,12 @@ Gastrointestinal Adverse Reactions
 In a pool of Study 1 and 2, gastrointestinal adverse reactions occurred more frequently among patients receiving ZEPBOUND (5 mg 56%, 10 mg 56%, 15 mg 56%) than placebo (30%).
 More patients receiving ZEPBOUND 5 mg (1.9%), ZEPBOUND 10 mg (3.3%), and ZEPBOUND 15 mg (4.3%) discontinued treatment due to gastrointestinal adverse reactions than patients receiving placebo (0.5%).
 The majority of nausea, vomiting, and/or diarrhea events occurred during dose escalation and decreased over time.
+
+Acute Pancreatitis
+
+In clinical trials of tirzepatide for a different indication, 14 events of acute pancreatitis were confirmed by adjudication in 13 tirzepatide-treated patients (0.23 patients per 100 years of exposure) versus 3 events in 3 comparator-treated patients (0.11 patients per 100 years of exposure).
+In a pool of two ZEPBOUND clinical trials for weight reduction (Studies 1 and 2), 0.2% of ZEPBOUND-treated patients had acute pancreatitis confirmed by adjudication (0.14 patients per 100 years of exposure) versus 0.2% of placebo-treated patients (0.15 patients per 100 years of exposure).
+The exposure-adjusted incidence rate for treatment-emergent adjudication-confirmed pancreatitis in the pooled clinical studies for OSA (Studies 5 and 6) was 0.84 patients per 100 years for ZEPBOUND and 0 for placebo-treated patients.
 
 Hypotension
 
@@ -145,8 +151,10 @@ The adverse reactions observed with ZEPBOUND 10 mg or 15 mg administered subcuta
 The following adverse reactions have been reported during post-approval use of tirzepatide, the active ingredient in ZEPBOUND.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or to establish a causal relationship to drug exposure.
 
+Gastrointestinal: acute pancreatitis, hemorrhagic and necrotizing pancreatitis sometimes resulting in death, ileus
+
 Hypersensitivity: anaphylaxis, angioedema
 
-Gastrointestinal: ileus
-
 Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation.
+
+Renal: acute renal failure or worsening of chronic renal failure, sometimes requiring hemodialysis

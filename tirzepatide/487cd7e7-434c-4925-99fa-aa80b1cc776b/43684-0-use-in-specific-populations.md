@@ -40,8 +40,15 @@ In a pre- and post-natal study in rats administered subcutaneous doses of 0.02, 
 
 Risk Summary
 
-There are no data on the presence of tirzepatide or its metabolites in animal or human milk, the effects on the breastfed infant, or the effects on milk production.
+In a single-dose clinical lactation study, the concentration of tirzepatide in breast milk was found to be either undetectable or low compared to the maternal administered dose (see Data).
+There are no available data on the effects of tirzepatide on the breastfed infant or on milk production.
 The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for ZEPBOUND and any potential adverse effects on the breastfed infant from ZEPBOUND or from the underlying maternal condition.
+
+Data
+
+Following subcutaneous administration of a single 5 mg dose to 11 healthy lactating adult females, the concentration of tirzepatide in breast milk was found to be undetectable (limit of detection in breast milk 4 ng/mL) in 164/171 samples assayed.
+The cumulative amount of tirzepatide detected in the remaining 7 breast milk samples over the 28-day sampling window was equivalent to less than 0.02% of the maternal administered dose, with the last measurable concentrations occurring 5 days post-dose.
+The AUC of tirzepatide in breast milk could not be calculated, due to insufficient quantifiable concentrations.
 
 ## 8.3 Females and Males of Reproductive Potential
 
