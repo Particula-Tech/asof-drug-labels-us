@@ -1,15 +1,15 @@
-PRINCIPAL DISPLAY PANEL - 150/12.5 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 150/12.5 mg Tablet Bottle Label
 
-30 Tablets NDC 0024-5855-30
+NDC 0024-5855-30 Rx only
 
-Avalide® (irbesartan- hydrochlorothiazide) Tablets 150/12.5 mg
+Avalide® (irbesartan and hydrochlorothiazide) Tablets 150/12.5 mg
 
-Rx only SANOFI
+30 Tablets sanofi
 
-PRINCIPAL DISPLAY PANEL - 300/12.5 mg Tablet Bottle Label
+# PRINCIPAL DISPLAY PANEL - 300/12.5 mg Tablet Bottle Label
 
-30 Tablets NDC 0024-5856-30
+NDC 0024-5856-30 Rx only
 
-Avalide® (irbesartan- hydrochlorothiazide) Tablets 300/12.5 mg
+Avalide® (irbesartan and hydrochlorothiazide) Tablets 300/12.5 mg
 
-Rx only SANOFI
+30 Tablets sanofi
