@@ -14,10 +14,17 @@ In animal studies, administration of lamotrigine during pregnancy resulted in de
 
 Lamotrigine decreased fetal folate concentrations in rats, an effect known to be associated with adverse pregnancy outcomes in animals and humans (see Data).
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
+
+Disease-associated Maternal and/or Embryofetal Risk
+
+Epilepsy, with or without exposure to antiepileptic drugs, has been associated with several adverse outcomes during pregnancy, including preeclampsia, preterm labor, antepartum and postpartum hemorrhage, placental abruption, poor fetal growth, prematurity, fetal death, and maternal mortality.
+The risk of maternal or fetal injury may be greatest for patients with untreated or poorly controlled convulsive seizures.
+Women with epilepsy who become pregnant should not abruptly discontinue antiepileptic drugs, including LAMICTAL XR, due to the risk of status epilepticus or severe seizures, which may be life-threatening [see Warnings and Precautions (5.10)].
+
+Dose Adjustments During Pregnancy and the Postpartum Period
 
 As with other AEDs, physiological changes during pregnancy may affect lamotrigine concentrations and/or therapeutic effect.
 There have been reports of decreased lamotrigine concentrations during pregnancy and restoration of pre-pregnancy concentrations after delivery.

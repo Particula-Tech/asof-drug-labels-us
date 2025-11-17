@@ -9,7 +9,7 @@ Pediatric Population
 
 The incidence of serious rash associated with hospitalization and discontinuation of immediate-release lamotrigine in a prospectively followed cohort of pediatric patients (aged 2 to 16 years) with epilepsy receiving adjunctive therapy with immediate-release lamotrigine was approximately 0.8% (16 of 1,983).
 When 14 of these cases were reviewed by 3 expert dermatologists, there was considerable disagreement as to their proper classification.
-To illustrate, one dermatologist considered none of the cases to be Stevens-Johnson syndrome; another assigned 7 of the 14 to this diagnosis.
+To illustrate, 1 dermatologist considered none of the cases to be Stevens-Johnson syndrome; another assigned 7 of the 14 to this diagnosis.
 There was 1 rash-related death in this 1,983-patient cohort.
 Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
 
@@ -25,12 +25,27 @@ In worldwide postmarketing experience, rare cases of rash-related death have bee
 
 Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and those associated with multiorgan hypersensitivity [see Warnings and Precautions (5.3)].
 
+Risk Factors
+
+Concomitant Use of Valproate
+
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered immediate-release lamotrigine with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered immediate-release lamotrigine in the absence of valproate were hospitalized.
 
 Patients with History of Allergy or Rash to Other Antiepileptic Drugs
 
-The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for LAMICTAL XR is exceeded and in patients with a history of allergy or rash to other AEDs.
+The risk of rash may be increased in patients with a history of allergy or rash to other AEDs.
+
+Not Adhering to the Recommended Dosage
+
+The risk of rash is increased by both exceeding the recommended initial dose of LAMICTAL XR and exceeding the recommended dose escalation for LAMICTAL XR.
+
+Patients with Genetic Variant Human Leukocyte Antigen (HLA)‑B*1502 Allele
+
+Retrospective case-control studies in patients of certain Asian ancestry (e.g., Han Chinese and Thai) suggest that the HLA-B*1502 allele is associated with an increased risk (approximately 2‑3 times higher) of developing Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) in patients using lamotrigine.
+The risks and benefits of therapy should be weighed when considering use of LAMICTAL XR in patients known to be positive for HLA-B*1502.
+Application of HLA genotyping as a screening tool has important limitations and must never substitute for appropriate clinical vigilance and patient management.
+Many HLA‑B*1502‑positive patients treated with LAMICTAL XR will not develop SJS/TEN or other hypersensitivity reactions, and these reactions can still occur in HLA‑B*1502‑negative patients of any ethnicity.
 
 ## 5.2 Hemophagocytic Lymphohistiocytosis
 

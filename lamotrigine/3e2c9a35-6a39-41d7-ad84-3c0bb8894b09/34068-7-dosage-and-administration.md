@@ -7,7 +7,7 @@ Tablets must be swallowed whole and must not be chewed, crushed, or divided.
 
 Rash
 
-There are suggestions, yet to be proven, that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of LAMICTAL XR with valproate, (2) exceeding the recommended initial dose of LAMICTAL XR, or (3) exceeding the recommended dose escalation for LAMICTAL XR.
+There are suggestions that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of LAMICTAL XR with valproate, (2) exceeding the recommended initial dose of lamictal XR, or (3) exceeding the recommended dose escalation for lamictal XR.
 However, cases have occurred in the absence of these factors [see Boxed Warning].
 Therefore, it is important that the dosing recommendations be followed closely.
 
@@ -37,7 +37,7 @@ Dosing of LAMICTAL XR should be based on therapeutic response [see Clinical Phar
 
 Women Taking Estrogen-Containing Oral Contraceptives
 
-Starting LAMICTAL XR in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for LAMICTAL XR should be necessary solely based on the use of estrogen-containing oral contraceptives.
+Starting LAMICTAL XR in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine, no adjustments to the recommended dose-escalation guidelines for LAMICTAL XR should be necessary solely based on the use of estrogen‑containing oral contraceptives [see Clinical Pharmacology (12.3)].
 Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with LAMICTAL XR based on the concomitant AED or other concomitant medications (see Table 1).
 See below for adjustments to maintenance doses of LAMICTAL XR in women taking estrogen-containing oral contraceptives.
 
@@ -109,8 +109,8 @@ Escalation Regimen for LAMICTAL XR in Patients Aged 13 Years and Older
 | Week 5 | 50 mg every day | 100 mg every day | 200 mg every day |
 | Week 6 | 100 mg every day | 150 mg every day | 300 mg every day |
 | Week 7 | 150 mg every day | 200 mg every day | 400 mg every day |
-| Maintenance range (week 8 and onward) | 200 to 250 mg every dayc | 300 to 400 mg every dayc | 400 to 600 mg every dayc |
-| a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for estrogen-containing products, including oral contraceptives, and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with AEDs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)]. c Dose increases at week 8 or later should not exceed 100 mg daily at weekly intervals. |  |  |  |
+| Maintenance range (Week 8 and onward) | 200 to 250 mg every dayc | 300 to 400 mg every dayc | 400 to 600 mg every dayc |
+| a Valproate has been shown to inhibit glucuronidation and decrease the apparent clearance of lamotrigine [see Drug Interactions (7), Clinical Pharmacology (12.3)]. b Drugs that induce lamotrigine glucuronidation and increase clearance, other than the specified AEDs, include estrogen-containing oral contraceptives, rifampin, and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir. Dosing recommendations for estrogen-containing products, including oral contraceptives, and the protease inhibitor atazanavir/ritonavir can be found in General Dosing Considerations [see Dosage and Administration (2.1)]. Patients on rifampin and the protease inhibitor lopinavir/ritonavir should follow the same dosing titration/maintenance regimen used with AEDs that induce glucuronidation and increase clearance [see Dosage and Administration (2.1), Drug Interactions (7), Clinical Pharmacology (12.3)]. c Dose increases at Week 8 or later should not exceed 100 mg daily at weekly intervals. |  |  |  |
 
 ## 2.3 Conversion from Adjunctive Therapy to Monotherapy
 
