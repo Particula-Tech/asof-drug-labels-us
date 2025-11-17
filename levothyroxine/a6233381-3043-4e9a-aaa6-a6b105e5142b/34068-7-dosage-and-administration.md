@@ -6,7 +6,7 @@ Administer levothyroxine sodium tablets as a single daily dose, on an empty stom
 
 Administer levothyroxine sodium tablets at least 4 hours before or after drugs known to interfere with levothyroxine sodium absorption [see Drug Interactions (7.1)].
 
-Evaluate the need for dosage adjustments when regularly administering within one hour of certain foods that may affect levothyroxine sodium tablets absorption [see Dosage and Administration (2.2and 2.3), Drug Interactions (7.9)and Clinical Pharmacology (12.3)].
+Evaluate the need for dosage adjustments when regularly administering within one hour of certain foods that may affect levothyroxine sodium tablets absorption [see Dosage and Administration (2.2and 2.3), Drug Interactions (7.9),and Clinical Pharmacology (12.3)].
 
 Administer levothyroxine sodium tablets to pediatric patients who cannot swallow intact tablets by crushing the tablet, suspending the freshly crushed tablet in a small amount (5 to 10 mL) of water and immediately administering the suspension by spoon or dropper.
 Ensure the patient ingests the full amount of the suspension.
@@ -22,6 +22,9 @@ For adult patients with primary hypothyroidism, titrate until the patient is cli
 
 For secondary or tertiary hypothyroidism, serum TSH is not a reliable measure of levothyroxine sodium dosage adequacy and should not be used to monitor therapy.
 Use the serum free-T4 level to titrate levothyroxine sodium tablets dosing until the patient is clinically euthyroid and the serum free-T4 level is restored to the upper half of the normal range [see Dosage and Administration (2.3)].
+
+Inquire whether patients are taking biotin or biotin-containing supplements.
+If so, advise them to stop biotin supplementation at least 2 days before assessing TSH and/or T4 levels [see Dosage and Administration (2.4)and Drug Interactions (7.10)].
 
 The peak therapeutic effect of a given dose of levothyroxine sodium tablets may not be attained for 4 to 6 weeks.
 
@@ -83,8 +86,8 @@ Levothyroxine Sodium Tablet Dosing Guidelines for Hypothyroidism in Pregnant Pat
 | Patient Population | Starting Dosage | Dose Adjustment and Titration |
 | --- | --- | --- |
 | Pre-existing primary hypothyroidism with serum TSH above normal trimester- specific range | Pre-pregnancy dosage may increase during pregnancy | Increase levothyroxine sodium dosage by 12.5 to 25 mcg per day. Monitor TSH every 4 weeks until a stable dose is reached and serum TSH is within normal trimester-specific range. Reduce levothyroxine sodium dosage to pre-pregnancy levels immediately after delivery. Monitor serum TSH 4 to 8 weeks postpartum. |
-| New onset hypothyroidism (TSH ≥10 IU per liter) | 1.6 mcg/kg/day | Monitor serum TSH every 4 weeks and adjust levothyroxine sodium dosage until serum TSH is within normal trimester-specific range. |
-| New onset hypothyroidism (TSH < 10 IU per liter) | 1.0 mcg/kg/day |  |
+| New onset hypothyroidism (TSH ≥10 mIU per liter) | 1.6 mcg/kg/day | Monitor serum TSH every 4 weeks and adjust levothyroxine sodium dosage until serum TSH is within normal trimester-specific range. |
+| New onset hypothyroidism (TSH < 10 mIU per liter) | 1.0 mcg/kg/day |  |
 
 TSH Suppression in Well-differentiated Thyroid Cancer in Adult and Pediatric Patients
 
@@ -93,6 +96,10 @@ The levothyroxine sodium dosage is based on the target level of TSH suppression 
 ## 2.4 Monitoring TSH and/or Thyroxine (T4) Levels
 
 Assess the adequacy of therapy by periodic assessment of laboratory tests and clinical evaluation.
+
+Biotin supplementation may interfere with immunoassays for TSH, T4, and T3, resulting in erroneous thyroid hormone test results.
+Stop biotin and biotin-containing supplements for at least 2 days before assessing TSH and/or T4 levels [see Drug Interactions (7.10)].
+
 Persistent clinical and laboratory evidence of hypothyroidism despite an apparent adequate replacement dose of levothyroxine sodium may be evidence of inadequate absorption, poor compliance, drug interactions, or a combination of these factors.
 
 ### Adults
@@ -109,7 +116,7 @@ Perform routine clinical examination, including assessment of development, menta
 
 The general aim of therapy is to normalize the serum TSH level.
 TSH may not normalize in some patients due to in utero hypothyroidism causing a resetting of pituitary-thyroid feedback.
-Failure of the serum T4 to increase into the upper half of the normal range within 2 weeks of initiation of levothyroxine sodium therapy and/or of the serum TSH to decrease below 20 IU per litre within 4 weeks may indicate the patient is not receiving adequate therapy.
+Failure of the serum T4 to increase into the upper half of the normal range within 2 weeks of initiation of levothyroxine sodium therapy and/or of the serum TSH to decrease below 20 mIU per litre within 4 weeks may indicate the patient is not receiving adequate therapy.
 Assess compliance, dose of medication administered, and method of administration prior to increasing the dose of levothyroxine sodium [see Warnings and Precautions (5.1)and Use in Specific Populations (8.4)].
 
 ### Secondary and Tertiary Hypothyroidism

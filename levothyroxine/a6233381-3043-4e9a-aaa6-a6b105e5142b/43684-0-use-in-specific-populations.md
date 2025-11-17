@@ -32,7 +32,7 @@ Since postpartum TSH levels are similar to preconception values, the levothyroxi
 Risk Summary
 
 Published studies report that levothyroxine is present in human milk following the administration of oral levothyroxine.
-No adverse effects on the breastfed infant have been reported there is no information on the effects of levothyroxine on milk production.
+No adverse effects on the breastfed infant have been reported and there is no information on the effects of levothyroxine on milk production.
 Adequate levothyroxine treatment during lactation may normalize milk production in hypothyroid lactating mothers with low milk supply.
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for levothyroxine sodium and any potential adverse effects on the breastfed infant from levothyroxine sodium or from the underlying maternal condition
 
@@ -47,7 +47,7 @@ Rapid restoration of normal serum T4 concentrations is essential for preventing 
 Therefore, initiate levothyroxine sodium therapy immediately upon diagnosis.
 Levothyroxine is generally continued for life in these patients [see Warnings and Precautions (5.1)].
 
-Closely monitor infants during the first 2 weeks of levothyroxine sodium therapy for cardiac overload, arrhythmias.
+Closely monitor infants during the first 2 weeks of levothyroxine sodium therapy for cardiac overload and arrhythmias.
 
 ## 8.5 Geriatric Use
 

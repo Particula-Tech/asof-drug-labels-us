@@ -2,11 +2,11 @@
 
 All tablets having functional scoring.
 
-Levothyroxine sodium, USP tablets are supplied as follows (Table 11):
+Levothyroxine sodium tablets, USP are supplied as follows (Table 11):
 
 Table 11: Levothyroxine Sodium Tablet Presentations
 
-| Strength (mcg) | Tablet Description | NDC# for bottles with child-resistant closure of 90 | NDC # for bottles of 1000 |
+| Strength (mcg) | Tablet Description | NDC# for bottles with a child-resistant closure of 90 | NDC # for bottles of 1000 |
 | --- | --- | --- | --- |
 | 25 | Round shaped, Orange colored, uncoated tablets, break line on both side and debossed with "P" and "1" on one side and plain on other side. | 16729-447-15 | 16729-447-17 |
 | 50 | Round shaped, White colored, uncoated tablets, break line on both side and debossed with "P" and "2" on one side and plain on other side. | 16729-448-15 | 16729-448-17 |

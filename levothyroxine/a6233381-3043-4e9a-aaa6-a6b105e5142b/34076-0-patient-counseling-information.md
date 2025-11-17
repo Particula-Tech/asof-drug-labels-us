@@ -17,6 +17,7 @@ Important Information
   Generally, replacement therapy is to be taken for life.
 - Inform patients that levothyroxine sodium tablets should not be used as a primary or adjunctive therapy in a weight control program.
 - Instruct patients to notify their healthcare provider if they are taking any other medications, including prescription and over-the-counter preparations.
+- Instruct patients to discontinue biotin or any biotin-containing supplements for at least 2 days before thyroid function testing is conducted.
 - Instruct patients to notify their physician of any other medical conditions they may have, particularly heart disease, diabetes, clotting disorders, and adrenal or pituitary gland problems, as the dose of medications used to control these other conditions may need to be adjusted while they are taking levothyroxine sodium tablets.
   If they have diabetes, instruct patients to monitor their blood and/or urinary glucose levels as directed by their physician and immediately report any changes to their physician.
   If patients are taking anticoagulants, their clotting status should be checked frequently.
@@ -31,6 +32,6 @@ Manufactured For: Accord Healthcare, Inc., 8041 Arco Corporate Drive, Suite 200,
 
 Manufactured By: Intas Pharmaceuticals Limited, Camp Road, Selaqui, Dehradun, Uttarakhand 248197, India (IND)
 
-80 3024 3 8618927
+80 3024 5 8619358
 
-Issued October 2023
+Issued June 2024
