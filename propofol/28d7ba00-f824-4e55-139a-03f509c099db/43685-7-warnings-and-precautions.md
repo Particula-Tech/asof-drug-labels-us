@@ -103,7 +103,7 @@ Serious and fatal adverse reactions including “gasping syndrome” can occur i
 The “gasping syndrome” is characterized by central nervous system depression, metabolic acidosis, and gasping respirations.
 
 When prescribing propofol injectable emulsion in infants consider the combined daily metabolic load of benzyl alcohol from all sources including propofol injectable emulsion (contains 1.5 mg of benzyl alcohol per mL) and other drugs containing benzyl alcohol.
-The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known[seeUse in Specific Populations (8.4)].
+The minimum amount of benzyl alcohol at which serious adverse reactions may occur is not known [seeUse in Specific Populations (8.4)].
 
 ## 5.12 Use in the Elderly, Debilitated, or ASA-PS III or IV Patients
 
