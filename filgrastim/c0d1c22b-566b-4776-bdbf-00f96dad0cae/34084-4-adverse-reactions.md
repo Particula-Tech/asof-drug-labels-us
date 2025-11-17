@@ -120,6 +120,7 @@ Initial dosage of filgrastim:
 - •Congenital neutropenia: 6 mcg/kg/day divided 2 times per day
 
 The dosage was increased incrementally to 12 mcg/kg/day divided 2 times per day if there was no response.
+
 Adverse reactions with ≥ 5% higher incidence in filgrastim patients compared to patients receiving no filgrastim included arthralgia, bone pain, back pain, muscle spasms, musculoskeletal pain, pain in extremity, splenomegaly, anemia, upper respiratory tract infection, and urinary tract infection (upper respiratory tract infection and urinary tract infection were higher in the filgrastim arm, total infection related events were lower in filgrastim-treated patients), epistaxis, chest pain, diarrhea, hypoesthesia, and alopecia.
 
 ## 6.2 Postmarketing Experience

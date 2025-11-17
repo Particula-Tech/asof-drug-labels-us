@@ -1,7 +1,6 @@
 # 11 DESCRIPTION
 
 Filgrastim-sndz is a 175 amino acid human granulocyte colony-stimulating factor (G-CSF) manufactured by recombinant DNA technology.
-
 Filgrastim-sndz is produced by Escherichia coli (E coli) bacteria into which has been inserted the human granulocyte colony-stimulating factor gene.
 Filgrastim-sndz has a molecular weight of 18‚800 daltons.
 The protein has an amino acid sequence that is identical to the natural sequence predicted from human DNA sequence analysis‚ except for the addition of an N-terminal methionine necessary for expression in E coli.

@@ -1,4 +1,4 @@
-# 300 mcg Carton
+# 300 mcg PFS Carton
 
 Zarxio®
 

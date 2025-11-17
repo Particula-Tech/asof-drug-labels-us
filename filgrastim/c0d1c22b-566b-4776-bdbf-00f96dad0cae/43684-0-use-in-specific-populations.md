@@ -72,4 +72,5 @@ The use of ZARXIO to increase survival in pediatric patients acutely exposed to 
 
 Among 855 subjects enrolled in 3 randomized, placebo-controlled trials of filgrastim treated-patients receiving myelosuppressive chemotherapy, there were 232 subjects age 65 or older, and 22 subjects age 75 or older.
 No overall differences in safety or effectiveness were observed between these subjects and younger subjects.
+
 Clinical studies of filgrastim in other approved indications (i.e., BMT recipients, PBPC mobilization, and SCN) did not include sufficient numbers of subjects aged 65 and older to determine whether elderly subjects respond differently from younger subjects.
