@@ -46,7 +46,7 @@ Wash hands thoroughly after applying TAZORAC Gel.
 Revised: 04/2018
 
 Distributed by Almirall, LLC, Exton, PA 19341, USA TAZORAC® is a trademark of Almirall, LLC.
-Almirall® and its design are trademarks of Almirall, Inc. © 2019 Almirall, Inc. All rights reserve4d.
+Almirall® and its design are trademarks of Almirall, Inc. © 2019 Almirall, Inc. All rights reserved.
 Made in the U.S.A.
 
 71722AM11

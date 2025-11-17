@@ -10,7 +10,7 @@ TAZORAC®
 
 For Dermatologic Use Only
 
-Not for Opthalmic Use
+Not for Ophthalmic Use
 
 Rx only
 
@@ -28,7 +28,7 @@ TAZORAC®
 
 For Dermatologic Use Only
 
-Not for Opthalmic Use
+Not for Ophthalmic Use
 
 Rx only
 
