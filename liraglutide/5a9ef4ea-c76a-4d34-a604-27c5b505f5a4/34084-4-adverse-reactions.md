@@ -29,7 +29,7 @@ These adverse reactions occurred more commonly on VICTOZA than on placebo and oc
 Overall, the type, and severity of adverse reactions in pediatric patients 10 years of age and older and above were comparable to that observed in the adult population.
 
 Table 1.
-Adverse reactions reported in ≥ 5% of Adult Patients Treated with VICTOZA for Type 2 Diabetes Mellitus
+Adverse reactions reported in ≥5% of Adult Patients Treated with VICTOZA for Type 2 Diabetes Mellitus
 
 |  | PlaceboN=661 | Liraglutide 1.2 mgN= 645 | Liraglutide 1.8 mgN= 1024 |
 | --- | --- | --- | --- |
@@ -54,8 +54,8 @@ Other Adverse Reactions
 Gastrointestinal Adverse Reactions
 
 In the pool of 5 glycemic control, placebo-controlled adult clinical trials, withdrawals due to gastrointestinal adverse reactions, occurred in 4.3% of VICTOZA-treated patients and 0.5% of placebo-treated patients.
-Severe gastrointestinal adverse reactions were reported more frequently among patients receiving VICTOZA (1.2 mg 4.4 %, 1.8 mg 4.2 %) than placebo (1.1 %).
-Withdrawal due to gastrointestinal adverse events mainly occurred during the first 2-3 months of the trials.
+Severe gastrointestinal adverse reactions were reported more frequently among patients receiving VICTOZA (1.2 mg 4.4%, 1.8 mg 4.2%) than placebo (1.1%).
+Withdrawal due to gastrointestinal adverse events mainly occurred during the first 2 to 3 months of the trials.
 
 Injection site reactions
 
@@ -64,7 +64,7 @@ Less than 0.2% of VICTOZA-treated patients discontinued due to injection site re
 
 Hypoglycemia
 
-In 5 adult glycemic control, placebo-controlled clinical trials of at least 26 weeks duration, hypoglycemia requiring the assistance of another person for treatment occurred in 8 VICTOZA-treated patients (7.5 events per 1000 patient-years).
+In 5 adult glycemic control, placebo-controlled clinical trials of at least 26 weeks duration, hypoglycemia requiring the assistance of another person for treatment occurred in 8 VICTOZA-treated patients (7.5 events per 1,000 patient-years).
 Of these 8 VICTOZA-treated patients, 7 patients were concomitantly using a sulfonylurea.
 
 Table 2.
@@ -72,35 +72,35 @@ Adult Incidence (%) and Rate (episodes/patient year) of Hypoglycemia in 26-Week 
 
 |  | Placebo Comparator | VICTOZA Treatment |
 | --- | --- | --- |
-| Add-on to Metformin | Placebo + Metformin(N = 121) | VICTOZA + Metformin (N = 724) |
+| Add-on to Metformin | Placebo + Metformin(N=121) | VICTOZA + Metformin (N=724) |
 | Patient not able to self-treat | 0 | 0.1 (0.001) |
 | Patient able to self-treat | 2.5 (0.06) | 3.6 (0.05) |
-| Add-on to Glimepiride | Placebo + Glimepiride (N = 114) | VICTOZA + Glimepiride (N = 695) |
+| Add-on to Glimepiride | Placebo + Glimepiride (N=114) | VICTOZA + Glimepiride (N=695) |
 | Patient not able to self-treat | 0 | 0.1 (0.003) |
 | Patient able to self-treat | 2.6 (0.17) | 7.5 (0.38) |
 | Not classified | 0 | 0.9 (0.05) |
-| Add-on to Metformin + Rosiglitazone | Placebo + Metformin + Rosiglitazone (N = 175) | VICTOZA + Metformin +Rosiglitazone (N = 355) |
+| Add-on to Metformin + Rosiglitazone | Placebo + Metformin + Rosiglitazone (N=175) | VICTOZA + Metformin +Rosiglitazone (N=355) |
 | Patient not able to self-treat | 0 | 0 |
 | Patient able to self-treat | 4.6 (0.15) | 7.9 (0.49) |
 | Not classified | 1.1 (0.03) | 0.6 (0.01) |
-| Add-on to Metformin + Glimepiride | Placebo + Metformin + Glimepiride (N = 114) | VICTOZA + Metformin +Glimepiride (N = 230) |
+| Add-on to Metformin + Glimepiride | Placebo + Metformin + Glimepiride (N=114) | VICTOZA + Metformin +Glimepiride (N=230) |
 | Patient not able to self-treat | 0 | 2.2 (0.06) |
 | Patient able to self-treat | 16.7 (0.95) | 27.4 (1.16) |
 | Not classified | 0 | 0 |
 
 “Patient not able to self-treat” is defined as an event requiring the assistance of another person for treatment.
 
-In a 26-week placebo-controlled clinical trial in pediatric patients 10 years of age and older with a 26-week open-label extension, 21.2% of VICTOZA-treated patients (mean age 14.6 years) with type 2 diabetes mellitus, had hypoglycemia with a blood glucose <54 mg/dL with or without symptoms (335 events per 1000 patient years).
+In a 26-week placebo-controlled clinical trial in pediatric patients 10 years of age and older with a 26-week open-label extension, 21.2% of VICTOZA-treated patients (mean age 14.6 years) with type 2 diabetes mellitus, had hypoglycemia with a blood glucose <54 mg/dL with or without symptoms (335 events per 1,000 patient years).
 No severe hypoglycemic episodes occurred in the VICTOZA treatment group (severe hypoglycemia was defined as an episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions).
 
 Papillary thyroid carcinoma
 
-In adult glycemic control trials of VICTOZA, there were 7 reported cases of papillary thyroid carcinoma in patients treated with VICTOZA and 1 case in a comparator-treated patient (1.5 vs. 0.5 cases per 1000 patient-years).
+In adult glycemic control trials of VICTOZA, there were 7 reported cases of papillary thyroid carcinoma in patients treated with VICTOZA and 1 case in a comparator-treated patient (1.5 vs. 0.5 cases per 1,000 patient-years).
 Most of these papillary thyroid carcinomas were <1 cm in greatest diameter and were diagnosed in surgical pathology specimens after thyroidectomy prompted by findings on protocol-specified screening with serum calcitonin or thyroid ultrasound.
 
 Pancreatitis
 
-In glycemic control trials of VICTOZA, there have been 13 cases of pancreatitis among VICTOZA-treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1000 patient-years).
+In glycemic control trials of VICTOZA, there have been 13 cases of pancreatitis among VICTOZA-treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1,000 patient-years).
 Nine of the 13 cases with VICTOZA were reported as acute pancreatitis and four were reported as chronic pancreatitis.
 In one case in a VICTOZA-treated patient, pancreatitis, with necrosis, was observed and led to death; however clinical causality could not be established.
 Some patients had other risk factors for pancreatitis, such as a history of cholelithiasis or alcohol abuse.
@@ -110,15 +110,15 @@ Cholelithiasis and cholecystitis
 In adult glycemic control trials of VICTOZA, the incidence of cholelithiasis was 0.3% in both VICTOZA-treated and placebo-treated patients.
 The incidence of cholecystitis was 0.2% in both VICTOZA-treated and placebo-treated patients.
 
-In the LEADER trial [see Clinical Studies (14.3)], the incidence of cholelithiasis was 1.5% (3.9 cases per 1000 patient years of observation) in adult VICTOZA-treated and 1.1% (2.8 cases per 1000 patient years of observation) in placebo-treated patients, both on a background of standard of care.
-The incidence of acute cholecystitis was 1.1% (2.9 cases per 1000 patient years of observation) in adult VICTOZA-treated and 0.7% (1.9 cases per 1000 patient years of observation) in placebo-treated patients.
+In the LEADER trial [see Clinical Studies (14.3)], the incidence of cholelithiasis was 1.5% (3.9 cases per 1,000 patient years of observation) in adult VICTOZA-treated and 1.1% (2.8 cases per 1,000 patient years of observation) in placebo-treated patients, both on a background of standard of care.
+The incidence of acute cholecystitis was 1.1% (2.9 cases per 1,000 patient years of observation) in adult VICTOZA-treated and 0.7% (1.9 cases per 1,000 patient years of observation) in placebo-treated patients.
 The majority of events required hospitalization or cholecystectomy.
 
 Laboratory Tests
 
 Bilirubin
 
-In the five adult glycemic control trials of at least 26 weeks duration, mildly elevated serum bilirubin concentrations (elevations to no more than twice the upper limit of the reference range) occurred in 4.0% of VICTOZA-treated patients, 2.1% of placebo-treated patients and 3.5% of active-comparator-treated patients.
+In the five adult glycemic control trials of at least 26 weeks duration, mildly elevated serum bilirubin concentrations (elevations to no more than twice the upper limit of the reference range) occurred in 4% of VICTOZA-treated patients, 2.1% of placebo-treated patients and 3.5% of active-comparator-treated patients.
 This finding was not accompanied by abnormalities in other liver tests.
 The significance of this isolated finding is unknown.
 
@@ -149,7 +149,7 @@ Mean increases from baseline in heart rate of 2 to 3 beats per minute have been 
 The following additional adverse reactions have been reported during post-approval use of VICTOZA.
 Because these events are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- •Gastrointestinal: Acute pancreatitis; hemorrhagic and necrotizing pancreatitis sometimes resulting in death; ileus, nausea, vomiting and diarrhea leading to dehydration
+- •Gastrointestinal: Acute pancreatitis; hemorrhagic and necrotizing pancreatitis sometimes resulting in death; ileus, intestinal obstruction, severe constipation including fecal impaction, nausea, vomiting and diarrhea leading to dehydration
 - •Hepatobiliary: Elevations of liver enzymes, hyperbilirubinemia, cholestasis, cholecystitis, cholelithiasis requiring cholecystectomy, hepatitis
 - •Hypersensitivity: Angioedema, anaphylactic reactions, pruritus
 - •Neoplasms: Medullary thyroid carcinoma

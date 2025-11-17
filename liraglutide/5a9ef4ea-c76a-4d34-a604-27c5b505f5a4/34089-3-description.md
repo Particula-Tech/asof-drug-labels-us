@@ -12,4 +12,4 @@ Structural Formula of liraglutide
 VICTOZA injection is a sterile, aqueous, clear, colorless or almost colorless solution for subcutaneous use.
 Each 1 mL of VICTOZA solution contains 6 mg of liraglutide and the following inactive ingredients: disodium phosphate dihydrate, 1.42 mg; propylene glycol, 14 mg; phenol, 5.5 mg; and water for injection.
 VICTOZA has a pH of approximately 8.15, hydrochloric acid or sodium hydroxide may be added to adjust pH.
-Each pre-filled pen contains a 3 mL solution of VICTOZA equivalent to 18 mg liraglutide (free-base, anhydrous).
+Each prefilled pen contains a 3 mL solution of VICTOZA equivalent to 18 mg liraglutide (free-base, anhydrous).

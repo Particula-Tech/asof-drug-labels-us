@@ -5,18 +5,12 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Risk of Thyroid C-cell Tumors
 
 Inform patients that liraglutide causes benign and malignant thyroid C-cell tumors in mice and rats and that the human relevance of this finding is unknown.
-Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning and Warnings and Precautions (5.1)].
+Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning, Warnings and Precautions (5.1)].
 
 Acute Pancreatitis
 
-Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may
-
-radiate to the back, and which may or may not be accompanied by vomiting.
-Instruct patients to discontinue
-
-VICTOZA promptly and contact their physician if pancreatitis is suspected [see Warnings and Precautions
-
-(5.2)].
+Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by nausea or vomiting.
+Instruct patients to discontinue VICTOZA promptly and contact their physician if pancreatitis is suspected [see Warnings and Precautions (5.2)].
 
 Never Share a VICTOZA Pen Between Patients
 
@@ -29,20 +23,14 @@ Educate patients or caregivers on the signs and symptoms of hypoglycemia [see Wa
 
 Acute Kidney Injury Due to Volume Depletion
 
-Inform patients of the potential risk of acute kidney injury due to dehydration associated with gastrointestinal
-
-adverse reactions.
+Inform patients of the potential risk of acute kidney injury due to dehydration associated with gastrointestinal adverse reactions.
 Advise patients to take precautions to avoid fluid depletion.
-Inform patients of the signs and symptoms of acute kidney injury and instruct them to promptly report any of these signs or symptoms or
-
-persistent (or extended) nausea, vomiting, and diarrhea to their healthcare provider [see Warnings and Precautions (5.5)].
+Inform patients of the signs and symptoms of acute kidney injury and instruct them to promptly report any of these signs or symptoms or persistent (or extended) nausea, vomiting, and diarrhea to their healthcare provider [see Warnings and Precautions (5.5)].
 
 Severe Gastrointestinal Adverse Reactions
 
 Inform patients of the potential risk of severe gastrointestinal adverse reactions.
-Instruct patients to contact their healthcare provider if they have severe or persistent gastrointestinal symptoms [see Warnings and Precautions
-
-(5.6)].
+Instruct patients to contact their healthcare provider if they have severe or persistent gastrointestinal symptoms [see Warnings and Precautions (5.6)].
 
 Hypersensitivity Reactions
 
@@ -66,15 +54,15 @@ If a dose is missed, the once-daily regimen should be resumed as prescribed with
 If more than 3 days have elapsed since the last dose, advise the patient to reinitiate VICTOZA at 0.6 mg to mitigate any gastrointestinal symptoms associated with reinitiation of treatment.
 VICTOZA should be titrated at the discretion of the healthcare provider [see Dosage and Administration (2.2)].
 
-Manufactured by:
+Marketed by:
 
-Novo Nordisk A/S
+Novo Nordisk Inc.
 
-DK-2880 Bagsvaerd, Denmark
+Plainsboro, NJ 08536
 
 VICTOZA® is a registered trademark of Novo Nordisk A/S.
 
-PATENTInformation: http://novonordisk-us.com/products/product-patents.html
+PATENT Information: http://novonordisk-us.com/products/product-patents.html
 
 © 2025 Novo Nordisk
 

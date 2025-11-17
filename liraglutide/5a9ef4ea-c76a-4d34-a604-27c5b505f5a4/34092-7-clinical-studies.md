@@ -16,10 +16,10 @@ Monotherapy
 In this 52-week trial, 746 adult patients with type 2 diabetes mellitus were randomized to VICTOZA 1.2 mg, VICTOZA 1.8 mg, or glimepiride 8 mg.
 Patients who were randomized to glimepiride were initially treated with 2 mg daily for two weeks, increasing to 4 mg daily for another two weeks, and finally increasing to 8 mg daily.
 Treatment with VICTOZA 1.8 mg and 1.2 mg resulted in a statistically significant reduction in HbA1c compared to glimepiride (Table 3).
-The percentage of patients who discontinued due to ineffective therapy was 3.6% in the VICTOZA 1.8 mg treatment group, 6.0% in the VICTOZA 1.2 mg treatment group, and 10.1% in the glimepiride-treatment group.
+The percentage of patients who discontinued due to ineffective therapy was 3.6% in the VICTOZA 1.8 mg treatment group, 6% in the VICTOZA 1.2 mg treatment group, and 10.1% in the glimepiride-treatment group.
 
 The mean age of participants was 53 years, and the mean duration of diabetes was 5 years.
-Participants were 49.7% male, 77.5% White, 12.6% Black or African American and 35.0% of Hispanic or Latino ethnicity.
+Participants were 49.7% male, 77.5% White, 12.6% Black or African American and 35% of Hispanic or Latino ethnicity.
 The mean BMI was 33.1 kg/m2.
 
 Table 3.
@@ -30,28 +30,28 @@ Results of a 52-week Monotherapy Trial in Adults with Type 2 Diabetes Mellitusa
 | Intent-to-Treat Population (N) | 246 | 251 | 248 |
 | HbA1c (%) (Mean) |  |  |  |
 | Baseline | 8.2 | 8.2 | 8.2 |
-| Change from baseline (adjusted mean) b | -1.1 | -0.8 | -0.5 |
-| Difference from glimepiride arm (adjusted mean) b | -0.6** | -0.3* |  |
+| Change from baseline (adjusted mean)b | -1.1 | -0.8 | -0.5 |
+| Difference from glimepiride arm (adjusted mean)b | -0.6** | -0.3* |  |
 | 95% Confidence Interval | (-0.8, -0.4) | (-0.5, -0.1) |  |
 | Percentage of patients achieving HbA1c <7% | 51 | 43 | 28 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |
 | Baseline | 172 | 168 | 172 |
-| Change from baseline (adjusted mean) b | -26 | -15 | -5 |
-| Difference from glimepiride arm (adjusted mean) b | -20** | -10* |  |
+| Change from baseline (adjusted mean)b | -26 | -15 | -5 |
+| Difference from glimepiride arm (adjusted mean)b | -20** | -10* |  |
 | 95% Confidence Interval | (-29, -12) | (-19, -1) |  |
 | Body Weight (kg) (Mean) |  |  |  |
 | Baseline | 92.6 | 92.1 | 93.3 |
-| Change from baseline (adjusted mean) b | -2.5 | -2.1 | +1.1 |
-| Difference from glimepiride arm (adjusted mean) b | -3.6** | -3.2** |  |
+| Change from baseline (adjusted mean)b | -2.5 | -2.1 | +1.1 |
+| Difference from glimepiride arm (adjusted mean)b | -3.6** | -3.2** |  |
 | 95% Confidence Interval | (-4.3, -2.9) | (-3.9, -2.5) |  |
 
-aIntent-to-treat population using last observation on study
+a Intent-to-treat population using last observation on study
 
-bLeast squares mean adjusted for baseline value
+b Least squares mean adjusted for baseline value
 
-*p-value <0.05
+* p-value <0.05
 
-**p-value <0.0001
+** p-value <0.0001
 
 Figure 3.
 Mean HbA1c for Adult Patients with Type 2 Diabetes Mellitus who Completed the 52-week Trial and for the Last Observation Carried Forward (LOCF, intent-to-treat) data at Week 52 (Monotherapy)
@@ -62,7 +62,7 @@ Add-on to Metformin
 
 In this 26-week trial, 1,091 adult patients with type 2 diabetes mellitus were randomized to VICTOZA 0.6 mg, VICTOZA 1.2 mg, VICTOZA 1.8 mg, placebo, or glimepiride 4 mg (one-half of the maximal approved dose in the United States), all as add-on to metformin.
 Randomization occurred after a 6-week run-in period consisting of a 3-week initial forced metformin titration period followed by a maintenance period of another 3 weeks.
-During the titration period, doses of metformin were increased up to 2000 mg/day.
+During the titration period, doses of metformin were increased up to 2,000 mg/day.
 Treatment with VICTOZA 1.2 mg and 1.8 mg as add-on to metformin resulted in a significant mean HbA1c reduction relative to placebo add-on to metformin and resulted in a similar mean HbA1c reduction relative to glimepiride 4 mg add-on to metformin (Table 4).
 The percentage of patients who discontinued due to ineffective therapy was 5.4% in the VICTOZA 1.8 mg + metformin treatment group, 3.3% in the VICTOZA 1.2 mg + metformin treatment group, 23.8% in the placebo + metformin treatment group, and 3.7% in the glimepiride + metformin treated group.
 
@@ -78,26 +78,26 @@ Results of a 26-week Trial of VICTOZA as Add-on to Metformin in Adults with Type
 | Intent-to-Treat Population (N) | 242 | 240 | 121 | 242 |
 | HbA1c (%) (Mean) |  |  |  |  |
 | Baseline | 8.4 | 8.3 | 8.4 | 8.4 |
-| Change from baseline (adjusted mean) b | -1.0 | -1.0 | +0.1 | -1.0 |
-| Difference from placebo + metformin arm (adjusted mean) b | -1.1** | -1.1** |  |  |
+| Change from baseline (adjusted mean)b | -1 | -1 | +0.1 | -1 |
+| Difference from placebo + metformin arm (adjusted mean)b | -1.1** | -1.1** |  |  |
 | 95% Confidence Interval | (-1.3, -0.9) | (-1.3, -0.9) |  |  |
-| Difference from glimepiride + metformin arm (adjusted mean) b | 0.0 | 0.0 |  |  |
+| Difference from glimepiride + metformin arm (adjusted mean)b | 0 | 0 |  |  |
 | 95% Confidence Interval | (-0.2, 0.2) | (-0.2, 0.2) |  |  |
 | Percentage of patients achieving HbA1c <7% | 42 | 35 | 11 | 36 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |  |
 | Baseline | 181 | 179 | 182 | 180 |
-| Change from baseline (adjusted mean) b | -30 | -30 | +7 | -24 |
-| Difference from placebo + metformin arm (adjusted mean) b | -38** | -37** |  |  |
+| Change from baseline (adjusted mean)b | -30 | -30 | +7 | -24 |
+| Difference from placebo + metformin arm (adjusted mean)b | -38** | -37** |  |  |
 | 95% Confidence Interval | (-48, -27) | (-47, -26) |  |  |
-| Difference from glimepiride + metformin arm (adjusted mean) b | -7 | -6 |  |  |
+| Difference from glimepiride + metformin arm (adjusted mean)b | -7 | -6 |  |  |
 | 95% Confidence Interval | (-16, 2) | (-15, 3) |  |  |
 | Body Weight (kg) (Mean) |  |  |  |  |
-| Baseline | 88.0 | 88.5 | 91.0 | 89.0 |
-| Change from baseline (adjusted mean) b | -2.8 | -2.6 | -1.5 | +1.0 |
-| Difference from placebo + metformin arm (adjusted mean) b 95% Confidence Interval | -1.3*(-2.2, -0.4) | -1.1*(-2.0, -0.2) |  |  |
-| Difference from glimepiride + metformin arm (adjusted mean) b | -3.8** | -3.5** |  |  |
+| Baseline | 88 | 88.5 | 91 | 89 |
+| Change from baseline (adjusted mean)b | -2.8 | -2.6 | -1.5 | +1 |
+| Difference from placebo + metformin arm (adjusted mean)b 95% Confidence Interval | -1.3*(-2.2, -0.4) | -1.1*(-2, -0.2) |  |  |
+| Difference from glimepiride + metformin arm (adjusted mean)b | -3.8** | -3.5** |  |  |
 | 95% Confidence Interval | (-4.5, -3.0) | (-4.3, -2.8) |  |  |
-| aIntent-to-treat population using last observation on study bLeast squares mean adjusted for baseline value† For glimepiride, one-half of the maximal approved United States dose.*p-value <0.05 **p-value <0.0001 |  |  |  |  |
+| a Intent-to-treat population using last observation on studyb Least squares mean adjusted for baseline value† For glimepiride, one-half of the maximal approved United States dose.* p-value <0.05 ** p-value <0.0001 |  |  |  |  |
 
 VICTOZA Compared to Sitagliptin, Both as Add-on to Metformin
 
@@ -122,25 +122,25 @@ Results of a 26-week Open-label Trial of VICTOZA Compared to Sitagliptin (both i
 | HbA1c (%) (Mean) |  |  |  |
 | Baseline | 8.4 | 8.4 | 8.5 |
 | Change from baseline (adjusted mean) | -1.5 | -1.2 | -0.9 |
-| Difference from sitagliptin arm (adjusted mean) b 95% Confidence Interval | -0.6**(-0.8, -0.4) | -0.3**(-0.5, -0.2) |  |
+| Difference from sitagliptin arm (adjusted mean)b 95% Confidence Interval | -0.6**(-0.8, -0.4) | -0.3**(-0.5, -0.2) |  |
 | Percentage of patients achieving HbA1c <7% | 56 | 44 | 22 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |
 | Baseline | 179 | 182 | 180 |
 | Change from baseline (adjusted mean) | -39 | -34 | -15 |
-| Difference from sitagliptin arm (adjusted mean) b 95% Confidence Interval | -24**(-31, -16) | -19**(-26, -12) |  |
+| Difference from sitagliptin arm (adjusted mean)b 95% Confidence Interval | -24**(-31, -16) | -19**(-26, -12) |  |
 
-aIntent-to-treat population using last observation on study
+a Intent-to-treat population using last observation on study
 
-bLeast squares mean adjusted for baseline value
+b Least squares mean adjusted for baseline value
 
-**p-value <0.0001
+** p-value <0.0001
 
 Figure 4.
 Mean HbA1c for Adult Patients with Type 2 Diabetes Mellitus who Completed the 26-week Trial and for the Last Observation Carried Forward (LOCF, intent-to-treat) data at Week 26
 
 Combination Therapy with Metformin and Insulin
 
-This 26-week open-label trial enrolled 988 adult patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c 7-10%) on metformin (≥1,500 mg/day) alone or inadequate glycemic control (HbA1c 7-8.5%) on metformin (≥1500 mg/day) and a sulfonylurea.
+This 26-week open-label trial enrolled 988 adult patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c 7% to 10%) on metformin (≥1,500 mg/day) alone or inadequate glycemic control (HbA1c 7% to 8.5%) on metformin (≥1,500 mg/day) and a sulfonylurea.
 Patients who were on metformin and a sulfonylurea discontinued the sulfonylurea then all patients entered a 12-week run-in period during which they received add-on therapy with VICTOZA titrated to 1.8 mg once-daily.
 At the end of the run-in period, 498 patients (50%) achieved HbA1c <7% with VICTOZA 1.8 mg and metformin and continued treatment in a non-randomized, observational arm.
 Another 167 patients (17%) withdrew from the trial during the run-in period with approximately one-half of these patients doing so because of gastrointestinal adverse reactions [see Adverse Reactions (6.1)].
@@ -150,13 +150,13 @@ During the 26 week randomized treatment period, the percentage of patients who d
 
 The mean age of participants was 57 years, and the mean duration of diabetes was 8 years.
 Participants were 55.7% male, 91.3% White, 5.6% Black or African American and 12.5% of Hispanic or Latino ethnicity.
-The mean BMI was 34.0 kg/m2.
+The mean BMI was 34 kg/m2.
 
 Treatment with insulin detemir as add-on to VICTOZA 1.8 mg + metformin resulted in statistically significant reductions in HbA1c and FPG compared to continued, unchanged treatment with VICTOZA 1.8 mg + metformin alone (Table 6).
 From a mean baseline body weight of 96 kg after randomization, there was a mean reduction of 0.3 kg in the patients who received insulin detemir add-on therapy compared to a mean reduction of 1.1 kg in the patients who continued on unchanged treatment with VICTOZA 1.8 mg + metformin alone.
 
 Table 6.
-Results of a 26-week Open-label Trial of Insulin detemir as add on to VICTOZA + Metformin Compared to Continued Treatment with VICTOZA + Metformin alone in Adult Patients with Type 2 Diabetes Mellitus not Achieving HbA1c < 7% after 12 weeks of Metformin and VICTOZAa
+Results of a 26-week Open-label Trial of Insulin detemir as add on to VICTOZA + Metformin Compared to Continued Treatment with VICTOZA + Metformin alone in Adult Patients with Type 2 Diabetes Mellitus not Achieving HbA1c <7% after 12 weeks of Metformin and VICTOZAa
 
 |  | Insulin detemir + VICTOZA + Metformin | VICTOZA + Metformin |
 | --- | --- | --- |
@@ -164,20 +164,20 @@ Results of a 26-week Open-label Trial of Insulin detemir as add on to VICTOZA + 
 | HbA1c (%) (Mean) |  |  |
 | Baseline (week 0) | 7.6 | 7.6 |
 | Change from baseline (adjusted mean) | -0.5 | 0 |
-| Difference from VICTOZA + metformin arm (LS mean) b | -0.5** |  |
+| Difference from VICTOZA + metformin arm (LS mean)b | -0.5** |  |
 | 95% Confidence Interval | (-0.7, -0.4) |  |
 | Percentage of patients achieving HbA1c <7% | 43 | 17 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |
 | Baseline (week 0) | 166 | 159 |
 | Change from baseline (adjusted mean) | -39 | -7 |
-| Difference from VICTOZA + metformin arm (LS mean) b | -31** |  |
+| Difference from VICTOZA + metformin arm (LS mean)b | -31** |  |
 | 95% Confidence Interval | (-39, -23) |  |
 
-aIntent-to-treat population using last observation on study
+a Intent-to-treat population using last observation on study
 
-bLeast squares mean adjusted for baseline value
+b Least squares mean adjusted for baseline value
 
-**p-value <0.0001
+** p-value <0.0001
 
 Add-on to Sulfonylurea
 
@@ -191,7 +191,7 @@ Participants were 49.4% male, 64.4% White and 2.8% Black or African American.
 The mean BMI was 29.9 kg/m2.
 
 Treatment with VICTOZA 1.2 mg and 1.8 mg as add-on to glimepiride resulted in a statistically significant reduction in mean HbA1c compared to placebo add-on to glimepiride (Table 7).
-The percentage of patients who discontinued due to ineffective therapy was 3.0% in the VICTOZA 1.8 mg + glimepiride treatment group, 3.5% in the VICTOZA 1.2 mg + glimepiride treatment group, 17.5% in the placebo + glimepiride treatment group, and 6.9% in the rosiglitazone + glimepiride treatment group.
+The percentage of patients who discontinued due to ineffective therapy was 3% in the VICTOZA 1.8 mg + glimepiride treatment group, 3.5% in the VICTOZA 1.2 mg + glimepiride treatment group, 17.5% in the placebo + glimepiride treatment group, and 6.9% in the rosiglitazone + glimepiride treatment group.
 
 Table 7.
 Results of a 26-week Trial of VICTOZA as add-on to Sulfonylurea in Adult Patients with Type 2 Diabetes Mellitusa
@@ -202,27 +202,27 @@ Results of a 26-week Trial of VICTOZA as add-on to Sulfonylurea in Adult Patient
 | HbA1c (%) (Mean) |  |  |  |  |
 | Baseline | 8.5 | 8.5 | 8.4 | 8.4 |
 | Change from baseline (adjusted mean) b | -1.1 | -1.1 | +0.2 | -0.4 |
-| Difference from placebo + glimepiride arm (adjusted mean) b | -1.4** | -1.3** |  |  |
+| Difference from placebo + glimepiride arm (adjusted mean)b | -1.4** | -1.3** |  |  |
 | 95% Confidence Interval | (-1.6, -1.1) | (-1.5, -1.1) |  |  |
 | Percentage of patients achieving HbA1c <7% | 42 | 35 | 7 | 22 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |  |
 | Baseline | 174 | 177 | 171 | 179 |
 | Change from baseline (adjusted mean) b | -29 | -28 | +18 | -16 |
-| Difference from placebo + glimepiride arm (adjusted mean) b | -47** | -46** |  |  |
+| Difference from placebo + glimepiride arm (adjusted mean)b | -47** | -46** |  |  |
 | 95% Confidence Interval | (-58, -35) | (-58, -35) |  |  |
 | Body Weight (kg) (Mean) |  |  |  |  |
-| Baseline | 83.0 | 80.0 | 81.9 | 80.6 |
+| Baseline | 83 | 80 | 81.9 | 80.6 |
 | Change from baseline (adjusted mean) b | -0.2 | +0.3 | -0.1 | +2.1 |
-| Difference from placebo + glimepiride arm (adjusted mean) b | -0.1 | 0.4 |  |  |
+| Difference from placebo + glimepiride arm (adjusted mean)b | -0.1 | 0.4 |  |  |
 | 95% Confidence Interval | (-0.9, 0.6) | (-0.4, 1.2) |  |  |
 
-aIntent-to-treat population using last observation on study
+a Intent-to-treat population using last observation on study
 
-bLeast squares mean adjusted for baseline value
+b Least squares mean adjusted for baseline value
 
 † For rosiglitazone, one-half of the maximal approved United States dose.
 
-**p-value <0.0001
+** p-value <0.0001
 
 Add-on to Metformin and Sulfonylurea
 
@@ -251,36 +251,36 @@ Results of a 26-week Trial of VICTOZA as Add-on to Metformin and Sulfonylurea in
 | Intent-to-Treat Population (N) | 230 | 114 | 232 |
 | HbA1c (%) (Mean) |  |  |  |
 | Baseline | 8.3 | 8.3 | 8.1 |
-| Change from baseline (adjusted mean) b | -1.3 | -0.2 | -1.1 |
-| Difference from placebo + metformin + glimepiride arm (adjusted mean) b | -1.1** |  |  |
+| Change from baseline (adjusted mean)b | -1.3 | -0.2 | -1.1 |
+| Difference from placebo + metformin + glimepiride arm (adjusted mean)b | -1.1** |  |  |
 | 95% Confidence Interval | (-1.3, -0.9) |  |  |
 | Percentage of patients achieving HbA1c <7% | 53 | 15 | 46 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |
 | Baseline | 165 | 170 | 164 |
-| Change from baseline (adjusted mean) b | -28 | +10 | -32 |
-| Difference from placebo + metformin + glimepiride arm (adjusted mean) b | -38** |  |  |
+| Change from baseline (adjusted mean)b | -28 | +10 | -32 |
+| Difference from placebo + metformin + glimepiride arm (adjusted mean)b | -38** |  |  |
 | 95% Confidence Interval | (-46, -30) |  |  |
 | Body Weight (kg) (Mean) |  |  |  |
 | Baseline | 85.8 | 85.4 | 85.2 |
-| Change from baseline (adjusted mean) b | -1.8 | -0.4 | 1.6 |
-| Difference from placebo + metformin + glimepiride arm (adjusted mean) b | -1.4* |  |  |
+| Change from baseline (adjusted mean)b | -1.8 | -0.4 | 1.6 |
+| Difference from placebo + metformin + glimepiride arm (adjusted mean)b | -1.4* |  |  |
 | 95% Confidence Interval | (-2.1, -0.7) |  |  |
 
-aIntent-to-treat population using last observation on study
+a Intent-to-treat population using last observation on study
 
-bLeast squares mean adjusted for baseline value
+b Least squares mean adjusted for baseline value
 
 † For insulin glargine, optimal titration regimen was not achieved for 80% of patients.
 
-*p-value <0.05
+* p-value <0.05
 
-**p-value <0.0001
+** p-value <0.0001
 
 VICTOZA Compared to Exenatide, Both as Add-on to Metformin and/or Sulfonylurea Therapy
 
-In this 26–week, open-label trial, 464 adult patients with type 2 diabetes mellitus on a background of metformin monotherapy, sulfonylurea monotherapy or a combination of metformin and sulfonylurea were randomized to once daily VICTOZA 1.8 mg or exenatide 10 mcg twice daily.
+In this 26-week, open-label trial, 464 adult patients with type 2 diabetes mellitus on a background of metformin monotherapy, sulfonylurea monotherapy or a combination of metformin and sulfonylurea were randomized to once daily VICTOZA 1.8 mg or exenatide 10 mcg twice daily.
 Maximally tolerated doses of background therapy were to remain unchanged for the duration of the trial.
-Patients randomized to exenatide started on a dose of 5 mcg twice-daily for 4 weeks and then were escalated to 10 mcg twice daily.
+Patients randomized to exenatide started on a dose of 5 mcg twice-daily for 4 weeks and then were escalated to 10 mcg twice-daily.
 
 The mean age of participants was 57 years, and the mean duration of diabetes was 8 years.
 Participants were 51.9% male, 91.8% White, 5.4% Black or African American and 12.3% of Hispanic or Latino ethnicity.
@@ -298,19 +298,19 @@ Results of a 26-week Open-label trial of VICTOZA versus Exenatide (both in combi
 | Intent-to-Treat Population (N) | 233 | 231 |
 | HbA1c (%) (Mean) |  |  |
 | Baseline | 8.2 | 8.1 |
-| Change from baseline (adjusted mean) b | -1.1 | -0.8 |
-| Difference from exenatide arm (adjusted mean) b 95% Confidence Interval | -0.3**(-0.5, -0.2) |  |
+| Change from baseline (adjusted mean)b | -1.1 | -0.8 |
+| Difference from exenatide arm (adjusted mean)b 95% Confidence Interval | -0.3**(-0.5, -0.2) |  |
 | Percentage of patients achieving HbA1c <7% | 54 | 43 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |
 | Baseline | 176 | 171 |
-| Change from baseline (adjusted mean) b | -29 | -11 |
-| Difference from exenatide arm (adjusted mean) b 95% Confidence Interval | -18**(-25, -12) |  |
+| Change from baseline (adjusted mean)b | -29 | -11 |
+| Difference from exenatide arm (adjusted mean)b 95% Confidence Interval | -18**(-25, -12) |  |
 
-aIntent-to-treat population using last observation carried forward
+a Intent-to-treat population using last observation carried forward
 
-bLeast squares mean adjusted for baseline value
+b Least squares mean adjusted for baseline value
 
-**p-value <0.0001
+** p-value <0.0001
 
 Add-on to Metformin and Thiazolidinedione
 
@@ -333,39 +333,39 @@ Results of a 26-week Trial of VICTOZA as Add-on to Metformin and Thiazolidinedio
 | Intent-to-Treat Population (N) | 178 | 177 | 175 |
 | HbA1c (%) (Mean) |  |  |  |
 | Baseline | 8.6 | 8.5 | 8.4 |
-| Change from baseline (adjusted mean) b | -1.5 | -1.5 | -0.5 |
-| Difference from placebo + metformin + rosiglitazone arm (adjusted mean) b | -0.9** | -0.9** |  |
+| Change from baseline (adjusted mean)b | -1.5 | -1.5 | -0.5 |
+| Difference from placebo + metformin + rosiglitazone arm (adjusted mean)b | -0.9** | -0.9** |  |
 | 95% Confidence Interval | (-1.1, -0.8) | (-1.1, -0.8) |  |
 | Percentage of patients achieving HbA1c <7% | 54 | 57 | 28 |
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |
 | Baseline | 185 | 181 | 179 |
-| Change from baseline (adjusted mean) b | -44 | -40 | -8 |
-| Difference from placebo + metformin + rosiglitazone arm (adjusted mean) b | -36** | -32** |  |
+| Change from baseline (adjusted mean)b | -44 | -40 | -8 |
+| Difference from placebo + metformin + rosiglitazone arm (adjusted mean)b | -36** | -32** |  |
 | 95% Confidence Interval | (-44, -27) | (-41, -23) |  |
 | Body Weight (kg) (Mean) |  |  |  |
 | Baseline | 94.9 | 95.3 | 98.5 |
-| Change from baseline (adjusted mean) b | -2.0 | -1.0 | +0.6 |
-| Difference from placebo + metformin + rosiglitazone arm (adjusted mean) b | -2.6** | -1.6** |  |
+| Change from baseline (adjusted mean)b | -2 | -1 | +0.6 |
+| Difference from placebo + metformin + rosiglitazone arm (adjusted mean)b | -2.6** | -1.6** |  |
 | 95% Confidence Interval | (-3.4, -1.8) | (-2.4, -1.0) |  |
 
-aIntent-to-treat population using last observation on study
+a Intent-to-treat population using last observation on study
 
-bLeast squares mean adjusted for baseline value
+b Least squares mean adjusted for baseline value
 
-**p-value <0.0001
+** p-value <0.0001
 
 VICTOZA Compared to Placebo Both With or Without metformin and/or Sulfonylurea and/or Pioglitazone and/or Basal or Premix insulin in Patients with Type 2 Diabetes Mellitus and Moderate Renal Impairment
 
-In this 26-week, double-blind, randomized, placebo-controlled, parallel-group trial in adult patients with type 2 diabetes mellitus, 279 patients with moderate renal impairment, as per MDRD formula (eGFR 30−59 mL/min/1.73 m2), were randomized to VICTOZA or placebo once daily.
+In this 26-week, double-blind, randomized, placebo-controlled, parallel-group trial in adult patients with type 2 diabetes mellitus, 279 patients with moderate renal impairment, as per MDRD formula (eGFR 30-59 mL/min/1.73 m2), were randomized to VICTOZA or placebo once daily.
 VICTOZA was added to the patient’s stable pre-trial antidiabetic regimen (insulin therapy and/or metformin, pioglitazone, or sulfonylurea).
 The dose of VICTOZA was escalated according to approved labeling to achieve a dose of 1.8 mg per day.
-The insulin dose was reduced by 20% at randomization for patients with baseline HbA1c ≤ 8% and fixed until liraglutide dose escalation was complete.
+The insulin dose was reduced by 20% at randomization for patients with baseline HbA1c ≤8% and fixed until liraglutide dose escalation was complete.
 Dose reduction of insulin and SU was allowed in case of hypoglycemia; up titration of insulin was allowed but not beyond the pre-trial dose.
 
 The mean age of participants was 67 years, and the mean duration of diabetes was 15 years.
 Participants were 50.5% male, 92.3% White, 6.6% Black or African American, and 7.2% of Hispanic or Latino ethnicity.
 The mean BMI was 33.9 kg/m2.
-Approximately half of patients had an eGFR between 30 and <45mL/min/1.73 m2.
+Approximately half of patients had an eGFR between 30 and <45 mL/min/1.73 m2.
 
 Treatment with VICTOZA resulted in a statistically significant reduction in HbA1c from baseline at Week 26 compared to placebo (see Table 11).
 123 patients reached the 1.8 mg dose of VICTOZA.
@@ -378,12 +378,12 @@ Results of a 26-week Trial of VICTOZA Compared to Placebo in Adult Patients with
 | Intent to Treat Population (N) | 140 | 137 |
 | HbA1c (%) |  |  |
 | Baseline (mean) | 8.1 | 8.0 |
-| Change from baseline (estimated mean) b, c | -0.9 | -0.4 |
+| Change from baseline (estimated mean)b, c | -0.9 | -0.4 |
 | Difference from placebob, c95% Confidence Interval | -0.6*(-0.8, -0.3) |  |
-| Proportion achieving HbA1c < 7% d | 39.3 | 19.7 |
+| Proportion achieving HbA1c < 7%d | 39.3 | 19.7 |
 | FPG (mg/dL) |  |  |
 | Baseline (mean) | 171 | 167 |
-| Change from baseline (estimated mean) e | -22 | -10 |
+| Change from baseline (estimated mean)e | -22 | -10 |
 | Difference from placeboe95% Confidence Interval | -12**(-23, -0.8) |  |
 
 a Intent-to-treat population
@@ -398,9 +398,9 @@ When applying the multiple imputation method described in b) above, the estimate
 
 e Estimated using a mixed model for repeated measurement with treatment, country, stratification groups as factors and baseline as a covariate, all nested within visit.
 
-*p-value <0.0001
+* p-value <0.0001
 
-**p-value <0.05
+** p-value <0.05
 
 ## 14.2 Glycemic Control Trial in Pediatric Patients Aged 10 Years and Older with Type 2 Diabetes Mellitus
 
@@ -458,7 +458,7 @@ The mean age was 64 years and the population was 64.3% male, 77.5% White, 10.0% 
 In the study, 12.1% of the population identified as Hispanic or Latino ethnicity.
 The mean duration of type 2 diabetes mellitus was 12.8 years, the mean HbA1c was 8.7% and the mean BMI was 32.5 kg/m2.
 A history of previous myocardial infarction was reported in 31% of randomized individuals, a prior revascularization procedure in 39%, a prior ischemic stroke in 11%, documented symptomatic coronary disease in 9%, documented asymptomatic cardiac ischemia in 26%, and a diagnosis of NYHA class II to III heart failure in 14%.
-The mean eGFR at baseline was 79 mL/min/1.73 m2 and 41.8% of patients had mild renal impairment (eGFR 60 to 90 mL/min/1.73m2), 20.7% had moderate renal impairment (eGFR 30 to 60 mL/min/1.73m2) and 2.4% of patients had severe renal impairment (eGFR < 30 mL/min/1.73m2).
+The mean eGFR at baseline was 79 mL/min/1.73 m2 and 41.8% of patients had mild renal impairment (eGFR 60 to 90 mL/min/1.73m2), 20.7% had moderate renal impairment (eGFR 30 to 60 mL/min/1.73 m2) and 2.4% of patients had severe renal impairment (eGFR <30 mL/min/1.73 m2).
 
 At baseline, patients treated their diabetes with; diet and exercise only (3.9%), oral antidiabetic drugs only (51.5%), oral antidiabetic drugs and insulin (36.7%) or insulin only (7.9%).
 The most common background antidiabetic drugs used at baseline and in the trial were metformin, sulfonylurea and insulin.
@@ -486,15 +486,15 @@ Treatment Effect for the Primary Composite Endpoint, MACE, and its Components in
 
 |  | VICTOZAN=4668 | PlaceboN=4672 | Hazard Ratio (95% CI)b |
 | --- | --- | --- | --- |
-| Composite of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (MACE)(time to first occurrence) c | 608 (13.0%) | 694 (14.9%) | 0.87 (0.78; 0.97) |
+| Composite of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke (MACE)(time to first occurrence)c | 608 (13.0%) | 694 (14.9%) | 0.87 (0.78; 0.97) |
 | Non-fatal myocardial infarctiond | 281 (6.0%) | 317 (6.8%) | 0.88 (0.75;1.03) |
 | Non-fatal stroked | 159 (3.4%) | 177 (3.8%) | 0.89 (0.72;1.11) |
 | Cardiovascular deathd | 219 (4.7%) | 278 (6%) | 0.78 (0.66;0.93) |
 
-aFull analysis set (all randomized patients)
+a Full analysis set (all randomized patients)
 
-bCox-proportional hazards model with treatment as a factor
+b Cox-proportional hazards model with treatment as a factor
 
-cp-value for superiority (2-sided) 0.011
+c p-value for superiority (2-sided) 0.011
 
-dNumber and percentage of first events
+d Number and percentage of first events

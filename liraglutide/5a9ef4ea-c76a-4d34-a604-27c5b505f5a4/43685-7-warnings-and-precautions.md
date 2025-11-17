@@ -19,10 +19,9 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 
 ## 5.2 Acute Pancreatitis
 
-Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in
+Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, including liraglutide [see Adverse Reactions (6)].
 
-patients treated with glucagon-like peptide-1 (GLP-1) receptor agonists, including VICTOZA [see Adverse Reactions (6)].
-After initiation of VICTOZA, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
+After initiation of VICTOZA, observe patients carefully for signs and symptoms of acute pancreatitis which may include persistent or severe abdominal pain (sometimes radiating to the back) and which may or may not be accompanied by nausea or vomiting.
 If pancreatitis is suspected, discontinue VICTOZA and initiate appropriate management.
 
 ## 5.3 Never Share a VICTOZA Pen Between Patients
@@ -43,12 +42,14 @@ Inform patients using these concomitant medications and pediatric patients of th
 
 There have been postmarketing reports of acute kidney injury, in some cases requiring hemodialysis, in patients treated with VICTOZA [see Adverse Reactions (6.2)].
 The majority of the reported events occurred in patients who experienced gastrointestinal reactions leading to dehydration such as nausea, vomiting, or diarrhea [see Adverse Reactions (6.1)].
-Monitor renal function in patients reporting adverse reactions to VICTOZA that could lead to volume depletion, especially during dosage initiation and escalation of VICTOZA.[see Use in Specific Populations (8.6)].
+Monitor renal function in patients reporting adverse reactions to VICTOZA that could lead to volume depletion, especially during dosage initiation and escalation of VICTOZA.
+[see Use in Specific Populations (8.6)].
 
 ## 5.6 Severe Gastrointestinal Adverse Reactions
 
-Use of GLP-1 receptor agonists, including VICTOZA, has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
-In VICTOZA clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving VICTOZA (1.2 mg 4.4 %, 1.8 mg 4.2 %) than placebo (1.1 %).
+Use of GLP-1 receptor agonists, including liraglutide, has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
+In VICTOZA clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving VICTOZA (1.2 mg 4.4%, 1.8 mg 4.2%) than placebo (1.1%).
+Severe gastrointestinal adverse reactions have also been reported postmarketing with GLP-1 receptor agonists.
 VICTOZA is not recommended in patients with severe gastroparesis.
 
 ## 5.7 Hypersensitivity Reactions
@@ -63,7 +64,9 @@ VICTOZA is contraindicated in patients who have had a serious hypersensitivity r
 ## 5.8 Acute Gallbladder Disease
 
 Acute events of gallbladder disease such as cholelithiasis or cholecystitis have been reported in GLP-1 receptor agonist trials and postmarketing.
-In the LEADER trial [see Clinical Studies (14.3)], 3.1% of VICTOZA-treated patients versus 1.9% of placebo-treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis [see Adverse Reactions (6.1)].
+In the LEADER trial [see Clinical Studies (14.3)], 3.1% of VICTOZA-treated patients versus 1.9% of placebo-treated patients reported an acute event of gallbladder disease, such as cholelithiasis or cholecystitis
+
+[see Adverse Reactions (6.1)].
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
 
 ## 5.9 Pulmonary Aspiration During General Anesthesia or Deep Sedation

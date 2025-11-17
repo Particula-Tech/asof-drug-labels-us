@@ -9,11 +9,11 @@ VICTOZA should be used during pregnancy only if the potential benefit justifies 
 
 Animal reproduction studies identified increased adverse developmental outcomes from exposure during pregnancy.
 Liraglutide exposure was associated with early embryonic deaths and an imbalance in some fetal abnormalities in pregnant rats administered liraglutide during organogenesis at doses that approximate clinical exposures at the maximum recommended human dose (MRHD) of 1.8 mg/day.
-In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD [see Animal Data].
+In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD (see Animal Data).
 
-The estimated background risk of major birth defects for women with uncontrolled pre-gestational diabetes (Hemoglobin A1C >7) is 6 to 10%.
-The major birth defect rate has been reported to be as high as 20 to 25% in women with a Hemoglobin A1C >10.
-In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
+The estimated background risk of major birth defects for women with uncontrolled pre-gestational diabetes (Hemoglobin A1c >7) is 6 to 10%.
+The major birth defect rate has been reported to be as high as 20 to 25% in women with a Hemoglobin A1c >10.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Clinical Considerations
 
@@ -24,7 +24,7 @@ Poorly controlled diabetes increases the fetal risk for major birth defects, sti
 
 Animal Data
 
-Female rats given subcutaneous doses of 0.1, 0.25 and 1.0 mg/kg/day liraglutide beginning 2 weeks before mating through gestation day 17 had estimated systemic exposures 0.8-, 3-, and 11-times the human exposure at the MRHD based on plasma AUC comparison.
+Female rats given subcutaneous doses of 0.1, 0.25 and 1 mg/kg/day liraglutide beginning 2 weeks before mating through gestation day 17 had estimated systemic exposures 0.8-, 3-, and 11-times the human exposure at the MRHD based on plasma AUC comparison.
 The number of early embryonic deaths in the 1 mg/kg/day group increased slightly.
 Fetal abnormalities and variations in kidneys and blood vessels, irregular ossification of the skull, and a more complete state of ossification occurred at all doses.
 Mottled liver and minimally kinked ribs occurred at the highest dose.
@@ -32,12 +32,12 @@ The incidence of fetal malformations in liraglutide-treated groups exceeding con
 
 Pregnant rabbits given subcutaneous doses of 0.01, 0.025 and 0.05 mg/kg/day liraglutide from gestation day 6 through day 18 inclusive, had estimated systemic exposures less than the human exposure at the MRHD of 1.8 mg/day at all doses, based on plasma AUC.
 Liraglutide decreased fetal weight and dose-dependently increased the incidence of total major fetal abnormalities at all doses.
-The incidence of malformations exceeded concurrent and historical controls at 0.01 mg/kg/day (kidneys, scapula), ≥ 0.01 mg/kg/day (eyes, forelimb), 0.025 mg/kg/day (brain, tail and sacral vertebrae, major blood vessels and heart, umbilicus), ≥ 0.025 mg/kg/day (sternum) and at 0.05 mg/kg/day (parietal bones, major blood vessels).
+The incidence of malformations exceeded concurrent and historical controls at 0.01 mg/kg/day (kidneys, scapula), ≥0.01 mg/kg/day (eyes, forelimb), 0.025 mg/kg/day (brain, tail and sacral vertebrae, major blood vessels and heart, umbilicus), ≥0.025 mg/kg/day (sternum) and at 0.05 mg/kg/day (parietal bones, major blood vessels).
 Irregular ossification and/or skeletal abnormalities occurred in the skull and jaw, vertebrae and ribs, sternum, pelvis, tail, and scapula; and dose-dependent minor skeletal variations were observed.
 Visceral abnormalities occurred in blood vessels, lung, liver, and esophagus.
 Bilobed or bifurcated gallbladder was seen in all treatment groups, but not in the control group.
 
-In pregnant female rats given subcutaneous doses of 0.1, 0.25 and 1.0 mg/kg/day liraglutide from gestation day 6 through weaning or termination of nursing on lactation day 24, estimated systemic exposures were 0.8-, 3-, and 11-times human exposure at the MRHD of 1.8 mg/day, based on plasma AUC.
+In pregnant female rats given subcutaneous doses of 0.1, 0.25 and 1 mg/kg/day liraglutide from gestation day 6 through weaning or termination of nursing on lactation day 24, estimated systemic exposures were 0.8-, 3-, and 11-times human exposure at the MRHD of 1.8 mg/day, based on plasma AUC.
 A slight delay in parturition was observed in the majority of treated rats.
 Group mean body weight of neonatal rats from liraglutide-treated dams was lower than neonatal rats from control group dams.
 Bloody scabs and agitated behavior occurred in male rats descended from dams treated with 1 mg/kg/day liraglutide.
@@ -48,7 +48,7 @@ Group mean body weight from birth to postpartum day 14 trended lower in F2 gener
 Risk Summary
 
 There are no data on the presence of VICTOZA in human milk, the effects on the breastfed infant, or the effects on milk production.
-Liraglutide was present in milk of lactating rats [see Data].
+Liraglutide was present in milk of lactating rats (see Data).
 
 Developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for VICTOZA and any potential adverse effects on the breastfed infant from VICTOZA or from the underlying maternal condition.
 
@@ -74,7 +74,7 @@ No overall differences in safety or effectiveness for VICTOZA have been observed
 ## 8.6 Renal Impairment
 
 No dose adjustment of VICTOZA is recommended for patients with renal impairment [see Clinical Pharmacology (12.3)].
-The safety and efficacy of VICTOZA was evaluated in a 26-week clinical study that included patients with moderate renal impairment (eGFR 30 to 60 mL/min/1.73m2) [see Clinical Studies (14.1)].
+The safety and efficacy of VICTOZA was evaluated in a 26-week clinical study that included patients with moderate renal impairment (eGFR 30 to 60 mL/min/1.73 m2) [see Clinical Studies (14.1)].
 
 In the VICTOZA treatment arm of the LEADER trial [see Clinical Studies (14.3)], 1,932 (41.4%) patients had mild renal impairment, 999 (21.4%) patients had moderate renal impairment and 117 (2.5%) patients had severe renal impairment at baseline.
 No overall differences in safety or efficacy were seen in these patients compared to patients with normal renal function.

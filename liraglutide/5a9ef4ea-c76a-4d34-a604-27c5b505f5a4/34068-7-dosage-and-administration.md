@@ -5,14 +5,14 @@
 Adult Patients
 
 - •The recommended starting dosage of VICTOZA is 0.6 mg injected subcutaneously once daily for one week.
-  The 0.6 mg once daily dosage is intended to reduce the risk of gastrointestinal adverse reactions [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)] during initial titration and is not effective for glycemic control in adults.
+  The 0.6 mg once daily dosage is intended to reduce the risk of gastrointestinal adverse reactions [see Warnings and Precautions (5.6), Adverse Reactions (6.1)] during initial titration and is not effective for glycemic control in adults.
 - •After one week at the 0.6 mg once daily dosage, increase the dosage to 1.2 mg injected subcutaneously once daily.
 - •If additional glycemic control is required, increase the dosage to the maximum recommended dosage of 1.8 mg injected subcutaneously once daily after at least one week of treatment with the 1.2 mg once daily dosage.
 
 Pediatric Patients Aged 10 Years and Older
 
 - •The recommended starting dosage of VICTOZA is 0.6 mg injected subcutaneously once daily.
-- •If additional glycemic control is required, increase the dosage in 0.6 mg increments after at least one week on the current dosage, to reduce the risk of gastrointestinal adverse reactions [see Warnings and Precautions (5.6) and Adverse Reactions (6.1)].
+- •If additional glycemic control is required, increase the dosage in 0.6 mg increments after at least one week on the current dosage, to reduce the risk of gastrointestinal adverse reactions [see Warnings and Precautions (5.6), Adverse Reactions (6.1)].
 - •The maximum recommended dosage is 1.8 mg injected subcutaneously once daily.
 
 ## 2.2 Recommendations Regarding Missed Dose
