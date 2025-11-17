@@ -32,16 +32,20 @@ Preparation of Solution:
 
 Erythrocin Lactobionate-IV is a lyophilized powder, which requires reconstitution and further dilution before administration according to the steps below:
 
-1. 1.
-   Reconstitute Erythrocin Lactobionate-IV by adding 10 mL of Sterile Water for Injection, USP to the 500 mg single-dose vial to give a concentration of 50 mg of erythromycin activity per milliliter (50 mg/mL).
-   Do not use other diluents in this step because other diluents may cause precipitation during reconstitution.
-   Do not use diluents containing preservatives or inorganic salts.
-   The reconstituted solution is stable at refrigerator temperature for 2 weeks, or for 24 hours at room temperature.
-2. 2.
-   Add the reconstituted solution to one of the following diluents before administration to give a concentration of 1 g of erythromycin activity per liter (1 mg/mL) for continuous infusion or 1 to 5 mg/mL for intermittent infusion:
-3. • 0.9% Sodium Chloride Injection, USP
-4. • Lactated Ringer’s Injection, USP
-5. • NormosolTM-R.
+1.
+Reconstitute Erythrocin Lactobionate-IV by adding 10 mL of Sterile Water for Injection, USP to the 500 mg single-dose vial to give a concentration of 50 mg of erythromycin activity per milliliter (50 mg/mL).
+Do not use other diluents in this step because other diluents may cause precipitation during reconstitution.
+Do not use diluents containing preservatives or inorganic salts.
+The reconstituted solution is stable at refrigerator temperature for 2 weeks, or for 24 hours at room temperature.
+
+2.
+Add the reconstituted solution to one of the following diluents before administration to give a concentration of 1 g of erythromycin activity per liter (1 mg/mL) for continuous infusion or 1 to 5 mg/mL for intermittent infusion:
+
+• 0.9% Sodium Chloride Injection, USP
+
+• Lactated Ringer’s Injection, USP
+
+• NormosolTM-R.
 
 Do not use other diluents in this step 2.
 Acidic solutions of Erythrocin Lactobionate-IV (solutions with a pH < 5.5) are unstable and lose their potency rapidly.
