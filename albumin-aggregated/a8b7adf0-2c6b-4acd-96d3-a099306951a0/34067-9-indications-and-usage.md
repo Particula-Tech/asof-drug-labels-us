@@ -1,4 +1,4 @@
-# 1INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
 PULMOTECH MAA, after radiolabeling with technetium-99m, is indicated for:
 

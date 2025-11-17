@@ -1,6 +1,6 @@
-# 2DOSAGE AND ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
-## 2.1Radiation Safety – Drug Handling
+## 2.1 Radiation Safety – Drug Handling
 
 After radiolabeling of PULMOTECH MAA, the vial contains Technetium Tc 99m Albumin Aggregated Injection.
 Handle Technetium Tc 99m Albumin Aggregated Injection with appropriate safety measures to minimize radiation exposure [see Warnings and Precautions (5.4)].
@@ -12,7 +12,7 @@ Radiopharmaceuticals should be used by or under the control of healthcare provid
 
 Instruct patients to drink a sufficient amount of water to ensure adequate hydration prior to administration of Technetium Tc 99m Albumin Aggregated Injection and to continue to drink and void frequently following administration to reduce radiation exposure [see Warnings and Precautions (5.4)].
 
-## 2.3Recommended Dosage for Lung Perfusion Scintigraphy
+## 2.3 Recommended Dosage for Lung Perfusion Scintigraphy
 
 Adult Patients
 
@@ -75,7 +75,7 @@ Assure uniform mixing with peritoneal fluid.
 Alternatively, administer the drug by percutaneous transtubal injection.
 The recommended activity for percutaneous transtubal administration in adult patients is 12 MBq to 37 MBq (0.3 mCi to 1 mCi) in a volume not to exceed 0.5 mL.
 
-## 2.5Directions for Drug Preparation and Handling
+## 2.5 Directions for Drug Preparation and Handling
 
 Procedural Precautions
 
@@ -94,20 +94,20 @@ Procedure for the Preparation, Storage, and Handling of Technetium Tc 99m Albumi
    In choosing the amount of Sodium Pertechnetate Tc 99m Injection to be used in the preparation of Technetium Tc 99m Albumin Aggregated Injection ensure that the radioactive dose will contain the desired number of macroaggregated albumin (MAA) particles, while taking into account the number of patients, administered activity, and radioactive decay.
    The recommended maximum activity of Sodium Pertechnetate Tc 99m Injection to be added to the reaction vial is 6.85 GBq (185 mCi).
    Calculate the amount of radioactivity per vial required to be added to maintain the number of particles per dose within a recommended range, for adults 200,000 to 700,000 and for pediatric patients as per Table 1 [see Dosage and Administration (2.3, 2.4)].
-5. After adding Sodium Pertechnetate Tc 99m Injection to the reaction vial in the dispensing vial shield (with cap in place), mix the contents by agitation and allow to stand for a minimum of 15 minutes at room temperature.
-   During or prior to addition of Sodium Pertechnetate Tc 99m Injection do not vent the reaction vial.
+5. During or prior to addition of Sodium Pertechnetate Tc 99m Injection do not vent the reaction vial.
+6. After adding Sodium Pertechnetate Tc 99m Injection to the reaction vial in the dispensing vial shield (with cap in place), mix the contents by inverting the vial at a frequency of one (1) inversion per second for 2 minutes (approximately 120 inversions total) and allow to stand for a minimum of 15 minutes at room temperature.
    Once prepared the product will have a turbid white appearance.
-6. Assay the product in a suitable dose calibrator and record the total activity of Technetium Tc 99m Albumin Aggregated Injection, total volume, number of MAA particles, radioactive concentration, time and date of preparation, onto the radioassay information label and attach it to the dispensing vial shield.
+7. Assay the product in a suitable dose calibrator and record the total activity of Technetium Tc 99m Albumin Aggregated Injection, total volume, number of MAA particles, radioactive concentration, time and date of preparation, onto the radioassay information label and attach it to the dispensing vial shield.
    0.9% Sodium Chloride Injection, USP may be used as a diluent for the radiolabeled product to achieve the desired number of particles and radioactivity.
-7. Prior to withdrawing a dose, gently agitate the contents of the radiolabeled PULMOTECH MAA vial to resuspend any settled technetium Tc 99m albumin aggregated particles.
+8. Prior to withdrawing a dose, gently agitate the contents of the radiolabeled PULMOTECH MAA vial to resuspend any settled technetium Tc 99m albumin aggregated particles.
    Failure to mix the reaction vial contents adequately before use may result in a non-homogenous suspension with a resulting non-uniform distribution of radioactivity in the lung.
    Since the vials contain nitrogen to prevent oxidation of the complex, the vials should not be vented.
    If repeated withdrawals are made from the vial, the contents should not be replaced with air.
-8. Store the radiolabeled PULMOTECH MAA in the dispensing vial shield in a refrigerator at 2°C to 8°C (36°F to 46°F).
+9. Store the radiolabeled PULMOTECH MAA in the dispensing vial shield in a refrigerator at 2°C to 8°C (36°F to 46°F).
    Use within 18 hours from the time of radiolabeling.
    Dispose unused radiolabeled PULMOTECH MAA in compliance with appropriate regulations.
 
-## 2.6Administration and Imaging Instructions
+## 2.6 Administration and Imaging Instructions
 
 - Position the patient under the imaging apparatus before administration of Technetium Tc 99m Albumin Aggregated Injection because of rapid lung clearance of technetium Tc 99m albumin aggregated.
 - Using proper shielding, visually inspect for foreign particulate matter and discoloration prior to administration.
@@ -122,7 +122,7 @@ Procedure for the Preparation, Storage, and Handling of Technetium Tc 99m Albumi
   Due to high kidney uptake, imaging later than one-half hour after administration is not recommended.
 - For peritoneovenous shunt imaging, obtain serial images of both the shunt and target organ.
 
-## 2.7Radiation Dosimetry
+## 2.7 Radiation Dosimetry
 
 Intravenous Administration
 

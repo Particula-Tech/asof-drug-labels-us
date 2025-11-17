@@ -1,4 +1,4 @@
-# 17PATIENT COUNSELING INFORMATION
+# 17 PATIENT COUNSELING INFORMATION
 
 Adequate Hydration
 
@@ -18,7 +18,7 @@ U.S License No. 2204
 
 Distributed by: Curium US LLC 2703 Wagner Place Maryland Heights, MO 63043
 
-©2023 Curium US LLC.
+©2025 Curium US LLC.
 Pulmotech™, Curium™, and the Curium logo are trademarks of a Curium company.
 
 A139I0 Curium™

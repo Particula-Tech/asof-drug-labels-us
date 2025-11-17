@@ -1,6 +1,6 @@
-# 8USE IN SPECIFIC POPULATIONS
+# 8 USE IN SPECIFIC POPULATIONS
 
-## 8.1Pregnancy
+## 8.1 Pregnancy
 
 Risk Summary
 
@@ -18,7 +18,7 @@ Human Data
 
 No adverse fetal effects of radiation risks have been identified for diagnostic procedures involving less than 50 mGy, which represents less than 10 mGy fetal doses.
 
-## 8.2Lactation
+## 8.2 Lactation
 
 Risk Summary
 
@@ -29,14 +29,14 @@ Based on clinical guidelines, exposure of technetium Tc 99m albumin aggregated t
 
 The developmental and health benefits of breastfeeding should be considered along with a mother’s clinical need for PULMOTECH MAA, any potential adverse effects on the breastfed child from technetium Tc 99m albumin aggregated or from the underlying maternal condition.
 
-## 8.4Pediatric Use
+## 8.4 Pediatric Use
 
 PULMOTECH MAA, after radiolabeling with technetium Tc-99m, is indicated for lung scintigraphy as an adjunct in the evaluation of pulmonary perfusion in pediatric patients (birth to less than 17 years of age).
 The safety profile of Technetium Tc99m Albumin Aggregated Injection is similar to the one in adults.
 
 The safety and efficacy of PULMOTECH MAA have not been established for peritoneovenous shunt scintigraphy in pediatric patients.
 
-## 8.5Geriatric Use
+## 8.5 Geriatric Use
 
 No formal studies of PULMOTECH MAA in subjects aged 65 and over were performed to determine whether they respond differently from younger adult subjects.
 Other reported clinical experience has not identified differences in responses between the elderly and younger adult patients.

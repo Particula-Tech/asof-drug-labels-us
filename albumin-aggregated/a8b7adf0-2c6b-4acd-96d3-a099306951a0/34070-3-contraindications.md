@@ -1,4 +1,4 @@
-# 4CONTRAINDICATIONS
+# 4 CONTRAINDICATIONS
 
 PULMOTECH MAA is contraindicated in patients with:
 

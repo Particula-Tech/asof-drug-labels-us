@@ -1,6 +1,6 @@
-# 11DESCRIPTION
+# 11 DESCRIPTION
 
-## 11.1Product Characteristics
+## 11.1 Product Characteristics
 
 PULMOTECH MAA contains albumin aggregated obtained by fractionating material (source blood, plasma, serum, or placentas) from healthy human donors.
 The macroaggregated albumin (MAA) particles are formed by heat denaturation of stannous chloride treated albumin human under controlled conditions.
@@ -15,7 +15,7 @@ Hydrochloric acid may have been added for pH adjustment.
 The pH is between 5 and 7.
 It contains no preservatives.
 
-## 11.2Physical Characteristics
+## 11.2 Physical Characteristics
 
 Technetium-99m decays by isomeric transition with a physical half-life of 6.02 hours.
 The principal photon that is useful for detection and imaging is listed in Table 4.
@@ -26,7 +26,7 @@ Table 4 – Principal Radiation Emission Data for Technetium-99m
 | --- | --- | --- |
 | Gamma-2 | 89.07 | 140.5 |
 
-## 11.3External Radiation
+## 11.3 External Radiation
 
 The specific gamma ray constant for technetium-99m is 0.78 R/mCi-hr at 1 cm.
 The first half-value thickness of lead (Pb) for technetium-99m is 0.017 cm.

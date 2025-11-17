@@ -1,17 +1,17 @@
-# 12CLINICAL PHARMACOLOGY
+# 12 CLINICAL PHARMACOLOGY
 
-## 12.1Mechanism of Action
+## 12.1 Mechanism of Action
 
 Within 1 to 5 minutes of intravenous injection, over 90 percent of the technetium Tc 99m albumin aggregated particles are trapped in the arterioles and capillaries of the lung.
 
 Following intraperitoneal administration, technetium Tc 99m albumin aggregated mixes with the peritoneal fluid.
 Clearance from the peritoneal cavity varies from insignificant, which may occur with complete shunt blockage, to very rapid clearance with subsequent transfer into the systemic circulation when the shunt is patent.
 
-## 12.2Pharmacodynamics
+## 12.2 Pharmacodynamics
 
 The exposure-response relationship and time course of pharmacodynamic response for the safety and effectiveness of technetium Tc 99m albumin aggregated have not been fully characterized.
 
-## 12.3Pharmacokinetics
+## 12.3 Pharmacokinetics
 
 Distribution
 
