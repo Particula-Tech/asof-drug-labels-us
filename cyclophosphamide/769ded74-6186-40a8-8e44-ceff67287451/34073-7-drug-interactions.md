@@ -10,8 +10,8 @@ An increase of the concentration of cytotoxic metabolites may occur with:
 Combined or sequential use of cyclophosphamide and other agents with similar toxicities can potentiate toxicities.
 
 - •Increased hematotoxicity and/or immunosuppression may result from a combined effect of cyclophosphamide and, for example:
-  - •ACE inhibitors: ACE inhibitors can cause leukopenia.
-  - •Natalizumab
+  - oACE inhibitors: ACE inhibitors can cause leukopenia.
+  - oNatalizumab
 - Paclitaxel: Increased hematotoxicity has been reported when cyclophosphamide was administered after paclitaxel infusion.
 - Thiazide diuretics Zidovudine Increased cardiotoxicity may result from a combined effect of cyclophosphamide and, for example:
 - •Anthracyclines
