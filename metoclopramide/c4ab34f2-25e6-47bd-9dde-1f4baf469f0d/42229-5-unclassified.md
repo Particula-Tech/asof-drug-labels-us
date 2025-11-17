@@ -1,0 +1,5 @@
+METOCLOPRAMIDE ORAL SOLUTION, USP
+
+5 mg/5 mL
+
+Rx only

@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA073680"
+  ],
+  "inn": "metoclopramide",
+  "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+  "package_ndcs": [
+    "68999-526-10",
+    "68999-526-24"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "metoclopramide hydrochloride",
+      "name": "metoclopramide hydrochloride"
+    }
+  ],
+  "setid": "c4ab34f2-25e6-47bd-9dde-1f4baf469f0d",
+  "source": "dailymed"
+}
