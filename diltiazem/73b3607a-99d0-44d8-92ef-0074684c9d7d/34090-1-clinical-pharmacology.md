@@ -51,8 +51,8 @@ Drugs that induce or inhibit hepatic microsomal enzymes may alter diltiazem disp
 
 Total radioactivity measurement following short IV administration in healthy volunteers suggests the presence of other unidentified metabolites, which attain higher concentrations than those of diltiazem and are more slowly eliminated; half-life of total radioactivity is about 20 hours compared to 2 to 5 hours for diltiazem.
 
-In vitrobinding studies show diltiazem is 70% to 80% bound to plasma proteins.
-Competitive in vitroligand binding studies have also shown diltiazem hydrochloride binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
+In vitro binding studies show diltiazem is 70% to 80% bound to plasma proteins.
+Competitive in vitro ligand binding studies have also shown diltiazem hydrochloride binding is not altered by therapeutic concentrations of digoxin, hydrochlorothiazide, phenylbutazone, propranolol, salicylic acid, or warfarin.
 The plasma elimination half-life following single or multiple drug administration is approximately 3.0 to 4.5 hours.
 Desacetyl diltiazem is also present in the plasma at levels of 10% to 20% of the parent drug and is 25% to 50% as potent as a coronary vasodilator as diltiazem.
 Minimum therapeutic plasma diltiazem concentrations appear to be in the range of 50 to 200 ng/mL.
@@ -86,7 +86,7 @@ If combination therapy is initiated or withdrawn in conjunction with propranolol
 Buspirone: In nine healthy subjects, diltiazem significantly increased the mean buspirone AUC 5.5-fold and Cmax 4.1-fold compared to placebo.
 The elimination half-life and Tmax of buspirone were not significantly affected by diltiazem.
 Enhanced effects and increased toxicity of buspirone may be possible during concomitant administration with diltiazem.
-Subsequent dose adjustments may be necessary during coadministration,and should be based on clinical assessment.
+Subsequent dose adjustments may be necessary during coadministration, and should be based on clinical assessment.
 
 Carbamazepine: Concomitant administration of diltiazem with carbamazepine has been reported to result in elevated serum levels of carbamazepine (40% to 72% increase), resulting in toxicity in some cases.
 
@@ -114,7 +114,7 @@ Subjects with increased average steady-state exposures of diltiazem showed a gre
 Computer-based simulations showed that at a daily dose of 480 mg of diltiazem, an 8- to 9-fold mean increase in simvastatin AUC can be expected.
 If coadministration of simvastatin with diltiazem is required, limit the daily doses of simvastatin to 10 mg and diltiazem to 240 mg.
 
-In a ten-subject randomized, open label, 4-way cross-over study, coadministration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
+In a 10-subject randomized, open label, 4-way cross-over study, coadministration of diltiazem (120 mg BID diltiazem SR for 2 weeks) with a single 20 mg dose of lovastatin resulted in 3- to 4-fold increase in mean lovastatin AUC and Cmax versus lovastatin alone.
 In the same study, there was no significant change in 20 mg single dose pravastatin AUC and Cmax during diltiazem coadministration.
 Diltiazem plasma levels were not significantly affected by lovastatin or pravastatin.
 

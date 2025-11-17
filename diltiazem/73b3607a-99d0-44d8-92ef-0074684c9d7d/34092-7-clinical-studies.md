@@ -5,10 +5,9 @@
 In a randomized, double-blind, parallel-group, dose-response study involving 478 patients with essential hypertension, evening doses of Diltiazem Hydrochloride Extended-Release Tablets 120, 240, 360, and 540 mg were compared to placebo and to 360 mg administered in the morning.
 The mean reductions in diastolic blood pressure by ABPM at roughly 24 hours after the morning (4 AM to 8 AM) or evening (6 PM to 10 PM) administration (i.e., the time corresponding to expected trough serum concentrations) are shown in the table below:
 
-Mean Change in Trough Diastolic Pressure by ABPM
-
-| Evening Dosing |  |  |  | Morning Dosing |
+| Mean Change in Trough Diastolic Pressure by ABPM |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| Evening Dosing |  |  |  | Morning Dosing |
 | 120 mg | 240 mg | 360 mg | 540 mg | 360 mg |
 | -2.0 | -4.4 | -4.4 | -8.1 | -6.4 |
 
