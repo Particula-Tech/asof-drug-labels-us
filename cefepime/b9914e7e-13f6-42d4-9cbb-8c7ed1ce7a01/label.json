@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA214402"
+  ],
+  "inn": "cefepime",
+  "labeler": "Hikma Pharmaceuticals USA Inc.",
+  "package_ndcs": [
+    "0143-9382-10",
+    "0143-9383-10"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, POWDER, FOR SOLUTION",
+      "generic": "cefepime hydrochloride",
+      "name": "Cefepime Hydrochloride"
+    }
+  ],
+  "setid": "b9914e7e-13f6-42d4-9cbb-8c7ed1ce7a01",
+  "source": "dailymed"
+}
