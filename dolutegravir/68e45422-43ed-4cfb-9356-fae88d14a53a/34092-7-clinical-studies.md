@@ -11,7 +11,7 @@ Trials Conducted with DOVATO in HIV-1–Infected Subjects
 | --- | --- | --- | --- |
 | Adults:Treatment-naïve | GEMINI-1 [NCT02831673] GEMINI-2 [NCT02831764] | Pooled presentationTIVICAY plus EPIVIR(n = 716)TIVICAY plus TRUVADA (n = 717) | 144 |
 | Virologically suppressed | TANGO [NCT03446573] | DOVATO (n = 369)TBR (n = 372) | 144 |
-| Adolescents:Treatment-naïve (12 to less than 18 years and weighing at least 25 kg) | DANCE [NCT03682848] | DOVATO (n = 32) | 48 |
+| Adolescents:Treatment-naïve (12 to less than 18 years of age and weighing at least 25 kg) | DANCE [NCT03682848] | DOVATO (n = 32) | 48 |
 | TBR = Tenofovir alafenamide-based regimen. |  |  |  |
 
 ## 14.2 Clinical Trial Results in HIV-1–Infected Adult Subjects with No Antiretroviral Treatment History
@@ -22,7 +22,7 @@ Subjects were enrolled with a screening plasma HIV-1 RNA of 1,000 to ≤500,000 
 Subjects were randomized to receive a 2-drug regimen of TIVICAY 50 mg plus EPIVIR 300 mg administered once daily or TIVICAY 50 mg plus fixed-dose TRUVADA administered once daily.
 The primary efficacy endpoint for each GEMINI trial was the proportion of subjects with plasma HIV-1 RNA <50 copies/mL at Week 48 (Snapshot algorithm) who were randomized and treated.
 
-At baseline, in the pooled analysis, the median age of subjects was 33 years, 15% female, 69% white, 9% were CDC Stage 3 (AIDS), the median plasma HIV-1 RNA was 4.4 log10 copies/mL, 20% had HIV-1 RNA >100,000 copies/mL, the median CD4+ cell count was 432 cells/mm3, and 8% had CD4+ cell count ≤200 cells/mm3; these characteristics were similar between trials and treatment arms within each trial.
+At baseline, in the pooled analysis, the median age of subjects was 33 years of age, 15% female, 69% white, 9% were CDC Stage 3 (AIDS), the median plasma HIV-1 RNA was 4.4 log10 copies/mL, 20% had HIV-1 RNA >100,000 copies/mL, the median CD4+ cell count was 432 cells/mm3, and 8% had CD4+ cell count ≤200 cells/mm3; these characteristics were similar between trials and treatment arms within each trial.
 
 Week 144 outcomes (including outcomes by key baseline covariates) for the pooled GEMINI-1 and GEMINI-2 trials are shown in Table 13.
 The results of the pooled analysis are consistent with the results from the individual trials, for which the secondary endpoint is the difference in proportion of subjects with plasma HIV-1 RNA <50 copies/mL at Week 144 based on the Snapshot algorithm for TIVICAY plus EPIVIR versus TIVICAY plus TRUVADA.
@@ -89,7 +89,7 @@ All subjects are followed up to Week 200.
 Randomization was stratified by baseline third-agent class (protease inhibitor [PI], INSTI, or non-nucleoside reverse transcriptase inhibitor [NNRTI]).
 The primary efficacy endpoint was the proportion of subjects with plasma HIV-1 RNA ≥50 copies/mL (virologic non-response) at Week 48 (Snapshot algorithm adjusting for randomization stratification factor).
 
-At baseline, the median age of subjects was 39 years, 8% were female, 21% non-white, 5% were CDC Class C (AIDS), and 98% of subjects had baseline CD4+ cell count ≥200 cells/mm3; these characteristics were similar between treatment arms.
+At baseline, the median age of subjects was 39 years of age, 8% were female, 21% non-white, 5% were CDC Class C (AIDS), and 98% of subjects had baseline CD4+ cell count ≥200 cells/mm3; these characteristics were similar between treatment arms.
 Subjects receiving DOVATO and a TBR had been on an antiretroviral regimen for a median of 2.8 and 2.9 years, respectively, prior to Day 1.
 Most subjects were on an integrase inhibitor-based TBR (78% and 80% of subjects who received DOVATO and a TBR, respectively).
 
@@ -124,5 +124,5 @@ The median change from baseline in CD4+ T-cell count at Week 144 was 36.0 cells/
 
 ## 14.4 Clinical Trial Results in Adolescent Subjects
 
-The 48 week efficacy of DOVATO was evaluated in an open-label multicenter trial (DANCE) in 30 evaluable treatment-naïve HIV-1–infected adolescents aged 12 to less than18 years and weighing at least 25 kg.
+The 48-week efficacy of DOVATO was evaluated in an open-label multicenter trial (DANCE) in 30 evaluable treatment-naïve HIV-1–infected adolescents 12 to less than18 years of age and weighing at least 25 kg.
 Eighty-seven percent (26/30) of subjects achieved HIV-1 RNA <50 copies/mL at Week 48, and the mean increase from baseline in CD4+ cell count was 234 cells/mm3 at Week 48 [see Adverse Reactions (6.1), Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)].

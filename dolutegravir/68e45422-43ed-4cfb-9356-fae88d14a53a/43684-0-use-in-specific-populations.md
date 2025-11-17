@@ -93,7 +93,7 @@ In general, caution should be exercised in the administration of DOVATO in elder
 
 ## 8.6 Renal Impairment
 
-DOVATO is not recommended for patients with creatinine clearance <30 mL/min because DOVATO is a fixed-dose combination and the dosage of the individual components cannot be adjusted.
+DOVATO is not recommended for patients with creatinine clearance <30 mL/min because DOVATO is a fixed-dose combination, and the dosage of the individual components cannot be adjusted.
 If a dose reduction of lamivudine, a component of DOVATO, is required for patients with creatinine clearance <30 mL/min, then the individual components should be used.
 
 Patients with a creatinine clearance between 30 and 49 mL/min receiving DOVATO may experience a 1.6- to 3.3-fold higher lamivudine exposure (AUC) than patients with a creatinine clearance ≥50 mL/min.
@@ -101,7 +101,7 @@ There are no safety data from randomized, controlled trials comparing DOVATO to 
 In the original lamivudine registrational trials in combination with zidovudine, higher lamivudine exposures were associated with higher rates of hematologic toxicities (neutropenia and anemia), although discontinuations due to neutropenia or anemia each occurred in <1% of subjects.
 Patients with a sustained creatinine clearance between 30 and 49 mL/min who receive DOVATO should be monitored for hematologic toxicities.
 If new or worsening neutropenia or anemia develop, dose adjustment of lamivudine, per lamivudine prescribing information, is recommended.
-If lamivudine dose adjustment is indicated, DOVATO should be discontinued and the individual components should be used to construct the treatment regimen.
+If lamivudine dose adjustment is indicated, DOVATO should be discontinued, and the individual components should be used to construct the treatment regimen.
 
 ## 8.7 Hepatic Impairment
 

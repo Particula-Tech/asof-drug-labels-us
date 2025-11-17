@@ -1,7 +1,7 @@
 # 10 OVERDOSAGE
 
 There is no known specific treatment for overdose with DOVATO.
-If overdose occurs, the patient should be monitored and standard supportive treatment applied as required.
+If overdose occurs, the patient should be monitored, and standard supportive treatment applied as required.
 
 Dolutegravir
 

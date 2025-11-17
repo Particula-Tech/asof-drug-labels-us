@@ -41,7 +41,7 @@ Pharmacokinetic Properties of the Components of DOVATO
 | Absorption |  |  |
 | Tmax (h), mediana | 2.5 | 1 |
 | Effect of Food |  |  |
-| High-fat mealb (relative to fasting) | No clinically significant differences in the pharmacokinetics of either component (after administration of DOVATO) were observedc |  |
+| High-fat mealb (relative to fasting) | No clinically significant differences in the pharmacokinetics of either component (after administration of DOVATO) were observedc. |  |
 | Distribution |  |  |
 | Plasma protein bindingd | Approximately 99% | 36% |
 | Blood-to-plasma ratio | 0.44 - 0.54 | 1.1 - 1.2 |
@@ -59,7 +59,7 @@ Pharmacokinetic Properties of the Components of DOVATO
 Specific Populations
 
 No clinically significant differences in the pharmacokinetics of the components of DOVATO were observed based on age, sex, or race.
-Pharmacokinetic data for dolutegravir and lamivudine in subjects aged 65 years and older are limited.
+Pharmacokinetic data for dolutegravir and lamivudine in subjects 65 years of age and older are limited.
 
 Patients with Renal Impairment: The pharmacokinetics for the individual components of DOVATO have been evaluated in patients with renal impairment.
 See the U.S. prescribing information for the individual components, TIVICAY (dolutegravir) and EPIVIR (lamivudine).
@@ -67,17 +67,17 @@ See the U.S. prescribing information for the individual components, TIVICAY (dol
 Patients with Hepatic Impairment: The pharmacokinetics for the individual components of DOVATO have been evaluated in patients with varying degrees of hepatic impairment.
 See the U.S. prescribing information for the individual components, TIVICAY (dolutegravir) and EPIVIR (lamivudine).
 
-Pediatric Subjects: In adolescents receiving DOVATO, dolutegravir and lamivudine exposures were higher as compared to adults; however the differences in exposure were not considered clinically significant.
+Pediatric Subjects: In adolescents receiving DOVATO, dolutegravir and lamivudine exposures were higher as compared to adults; however, the differences in exposure were not considered clinically significant.
 Lamivudine and dolutegravir exposures were within the observed ranges at the recommended doses in adults and pediatrics receiving the individual components of DOVATO (Table 8).
 
 Table 8.
-Pharmacokinetic Parameters Following Dovato in Adolescent Subjects Aged 12 to Less than 18 Years Weighing at Least 25 kg (n = 32)
+Pharmacokinetic Parameters Following Dovato in Adolescent Subjects 12 to Less than 18 Years of Age Weighing at Least 25 kg (n = 32)
 
 | Age/weight | Dose | Pharmacokinetic Parameter Estimates Geometric Mean (CV%) |  |  |
 | --- | --- | --- | --- | --- |
 | AUC(0-24) mcg·h/mL | Cmax mcg/mL | C24 mcg/mL |  |  |
-| 12 to <18 years and ≥25 kg | Dolutegravir50 mg once daily | 78.2 (91.6) | 6.71 (69.5) | 1.46 (154) |
-| 12 to <18 years and ≥25 kg | Lamivudine300 mg once daily | 14.7 (112) | 2.95 (82.8) | 0.106 (312) |
+| 12 to <18 years of age and ≥25 kg | Dolutegravir50 mg once daily | 78.2 (91.6) | 6.71 (69.5) | 1.46 (154) |
+| 12 to <18 years of age and ≥25 kg | Lamivudine300 mg once daily | 14.7 (112) | 2.95 (82.8) | 0.106 (312) |
 
 Pregnant women: Lamivudine: Lamivudine pharmacokinetics were studied in 36 pregnant women during 2 clinical trials conducted in South Africa.
 Lamivudine pharmacokinetics in pregnant women were similar to those seen in non-pregnant adults and in postpartum women.
@@ -177,7 +177,7 @@ Antiviral Activity in Cell Culture
 Dolutegravir: Dolutegravir exhibited antiviral activity against laboratory strains of wild-type HIV‑1 with mean concentrations of drug necessary to affect viral replication by 50 percent (EC50) values of 0.5 nM (0.21 ng/mL) to 2.1 nM (0.85 ng/mL) in peripheral blood mononuclear cells (PBMCs) and MT-4 cells.
 
 Dolutegravir exhibited antiviral activity against 13 clinically diverse clade B isolates with a mean EC50 value of 0.52 nM in a viral integrase susceptibility assay using the integrase coding region from clinical isolates.
-Dolutegravir demonstrated antiviral activity in cell culture against a panel of HIV-1 clinical isolates (3 in each group of M [clades A-G], and 3 in group O) with EC50 values ranging from 0.02 nM to 2.14 nM for HIV-1.
+Dolutegravir demonstrated antiviral activity in cell culture against a panel of HIV-1 clinical isolates (3 in each group of M [clades A to G], and 3 in group O) with EC50 values ranging from 0.02 nM to 2.14 nM for HIV-1.
 Dolutegravir EC50 values against three HIV-2 clinical isolates in PBMC assays ranged from 0.09 nM to 0.61 nM.
 
 Lamivudine: The antiviral activity of lamivudine against HIV‑1 was assessed in a number of cell lines including monocytes and PBMCs using standard susceptibility assays.

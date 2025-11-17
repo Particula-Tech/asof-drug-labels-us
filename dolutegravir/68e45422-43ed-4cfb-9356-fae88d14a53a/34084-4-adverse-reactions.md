@@ -106,7 +106,7 @@ Selected Laboratory Abnormalities (Grades 2 to 4; Week 144 Pooled Analyses) in G
 | ULN = Upper limit of normal. |  |  |
 
 Table 4.
-Mean Change from Baseline in Fasted Lipid Values (Week 144 Pooled Analysesa) in GEMINI-1 and GEMINI-2 Trials
+Mean Change from Baseline in Fasted Lipid Values (Week 144 Pooled Analysesa) in GEMINI 1 and GEMINI 2 Trials
 
 | Laboratory ParameterPreferred Term | TIVICAY plus EPIVIR(n = 716) | TIVICAY plus TRUVADA(n = 717) |
 | --- | --- | --- |
@@ -125,7 +125,7 @@ These changes are not considered to be clinically relevant.
 
 Clinical Trial Experience in Adolescents
 
-The safety of DOVATO was evaluated in HIV-1–infected treatment-naïve subjects between the ages of 12 to less than 18 years and weighing at least 25 kg (N = 32) through Week 48, in an open label clinical trial, DANCE (Trial 205861).
+The safety of DOVATO was evaluated in HIV‑1–infected treatment-naïve subjects between 12 to less than 18 years of age and weighing at least 25 kg (N = 32) through Week 48, in an open label clinical trial, DANCE (Trial 205861).
 Overall, the observed safety profile in adolescent subjects was similar to those seen in adults [see Use in Specific Populations (8.4), and Clinical Studies (14.4)].
 
 ## 6.2 Postmarketing Experience
@@ -147,11 +147,11 @@ Weakness.
 
 Hemic and Lymphatic
 
-Anemia (including pure red cell aplasia and severe anemias progressing on therapy).
+Anemia (including pure red cell aplasia, sideroblastic anemia, and severe anemias progressing on therapy).
 
 Hepatic and Pancreatic
 
-Lactic acidosis and hepatic steatosis [see Warnings and Precautions (5.4)], pancreatitis, posttreatment exacerbations of HBV [see Warnings and Precautions (5.1)].
+Lactic acidosis and hepatic steatosis, pancreatitis, posttreatment exacerbations of HBV [see Warnings and Precautions (5.1, 5.4)].
 
 Hepatobiliary Disorders
 
