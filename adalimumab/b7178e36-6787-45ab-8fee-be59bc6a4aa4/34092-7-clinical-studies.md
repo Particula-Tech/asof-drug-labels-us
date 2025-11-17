@@ -21,7 +21,7 @@ Study RA-IV assessed safety in 636 subjects who were either DMARD-naive or were 
 Subjects were randomized to 40 mg of adalimumab or placebo every other week for 24 weeks.
 
 Study RA-V evaluated 799 subjects with moderately to severely active RA of less than 3 years duration who were ≥ 18 years old and MTX naïve.
-Subjects were randomized to receive either MTX (optimized to 20 mg/week by week 8), adalimumab 40 mg every other week or adalimumab/MTX combination therapy for 104 weeks.
+Subjects were randomized to receive either MTX (optimized to 20 mg/week by Week 8), adalimumab 40 mg every other week or adalimumab/MTX combination therapy for 104 weeks.
 Subjects were evaluated for signs and symptoms, and for radiographic progression of joint damage.
 The median disease duration among subjects enrolled in the study was 5 months.
 The median MTX dose achieved was 20 mg.
@@ -51,7 +51,7 @@ ACR Responses in Studies RA-II and RA-III (Percent of Subjects)
 The results of Study RA-I were similar to Study RA-III; subjects receiving adalimumab 40 mg every other week in Study RA-I also achieved ACR 20, 50 and 70 response rates of 65%, 52% and 24%, respectively, compared to placebo responses of 13%, 7% and 3%, respectively, at 6 months (p < 0.01).
 
 The results of the components of the ACR response criteria for Studies RA-II and RA-III are shown in Table 4.
-ACR response rates and improvement in all components of ACR response were maintained to week 104.
+ACR response rates and improvement in all components of ACR response were maintained to Week 104.
 Over the 2 years in Study RA-III, 20% of adalimumab subjects receiving 40 mg every other week achieved a major clinical response, defined as maintenance of an ACR 70 response over a 6-month period.
 ACR responses were maintained in similar proportions of subjects for up to 5 years with continuous adalimumab treatment in the open-label portion of Study RA-III.
 
@@ -72,13 +72,13 @@ Components of ACR Response in Studies RA-II and RA-III
 
 The time course of ACR 20 response for Study RA-III is shown in Figure 1.
 
-In Study RA-III, 85% of subjects with ACR 20 responses at week 24 maintained the response at 52 weeks.
+In Study RA-III, 85% of subjects with ACR 20 responses at Week 24 maintained the response at 52 weeks.
 The time course of ACR 20 response for Study RA-I and Study RA-II were similar.
 
 | Figure 1. Study RA-III ACR 20 Responses over 52 Weeks |
 | --- |
 
-In Study RA-IV, 53% of subjects treated with adalimumab 40 mg every other week plus standard of care had an ACR 20 response at week 24 compared to 35% on placebo plus standard of care (p < 0.001).
+In Study RA-IV, 53% of subjects treated with adalimumab 40 mg every other week plus standard of care had an ACR 20 response at Week 24 compared to 35% on placebo plus standard of care (p < 0.001).
 No unique adverse reactions related to the combination of adalimumab and other DMARDs were observed.
 
 In Study RA-V with MTX naïve subjects with recent onset RA, the combination treatment with adalimumab plus MTX led to greater percentages of subjects achieving ACR responses than either MTX monotherapy or adalimumab monotherapy at Week 52 and responses were sustained at Week 104 (see Table 5).
@@ -103,7 +103,7 @@ At Week 52, all individual components of the ACR response criteria for Study RA-
 
 Radiographic Response
 
-In Study RA-III, structural joint damage was assessed radiographically and expressed as change in Total Sharp Score (TSS) and its components, the erosion score and Joint Space Narrowing (JSN) score, at month 12 compared to baseline.
+In Study RA-III, structural joint damage was assessed radiographically and expressed as change in Total Sharp Score (TSS) and its components, the erosion score and Joint Space Narrowing (JSN) score, at Month 12 compared to baseline.
 At baseline, the median TSS was approximately 55 in the placebo and 40 mg every other week groups.
 The results are shown in Table 6.
 Adalimumab/MTX-treated subjects demonstrated less radiographic progression than subjects receiving MTX alone at 52 weeks.
@@ -143,10 +143,10 @@ Physical Function Response
 In studies RA-I through IV, adalimumab showed significantly greater improvement than placebo in the disability index of Health Assessment Questionnaire (HAQ-DI) from baseline to the end of study, and significantly greater improvement than placebo in the health-outcomes as assessed by The Short Form Health Survey (SF 36).
 Improvement was seen in both the Physical Component Summary (PCS) and the Mental Component Summary (MCS).
 
-In Study RA-III, the mean (95% CI) improvement in HAQ-DI from baseline at week 52 was 0.60 (0.55, 0.65) for the adalimumab subjects and 0.25 (0.17, 0.33) for placebo/MTX (p < 0.001) subjects.
-Sixty-three percent of adalimumab-treated subjects achieved a 0.5 or greater improvement in HAQ-DI at week 52 in the double-blind portion of the study.
-Eighty-two percent of these subjects maintained that improvement through week 104 and a similar proportion of subjects maintained this response through week 260 (5 years) of open-label treatment.
-Mean improvement in the SF-36 was maintained through the end of measurement at week 156 (3 years).
+In Study RA-III, the mean (95% CI) improvement in HAQ-DI from baseline at Week 52 was 0.60 (0.55, 0.65) for the adalimumab subjects and 0.25 (0.17, 0.33) for placebo/MTX (p < 0.001) subjects.
+Sixty-three percent of adalimumab-treated subjects achieved a 0.5 or greater improvement in HAQ-DI at Week 52 in the double-blind portion of the study.
+Eighty-two percent of these subjects maintained that improvement through Week 104 and a similar proportion of subjects maintained this response through Week 260 (5 years) of open-label treatment.
+Mean improvement in the SF-36 was maintained through the end of measurement at Week 156 (3 years).
 
 In Study RA-V, the HAQ-DI and the physical component of the SF-36 showed greater improvement (p < 0.001) for the adalimumab/MTX combination therapy group versus either the MTX monotherapy or the adalimumab monotherapy group at Week 52, which was maintained through Week 104.
 
@@ -310,7 +310,7 @@ In the second induction study, Study CD-II, 325 subjects who had lost response t
 Clinical results were assessed at Week 4.
 
 Maintenance of clinical remission was evaluated in Study CD-III.
-In this study, 854 subjects with active disease received open-label adalimumab, 80 mg at week 0 and 40 mg at Week 2.
+In this study, 854 subjects with active disease received open-label adalimumab, 80 mg at Week 0 and 40 mg at Week 2.
 Subjects were then randomized at Week 4 to 40 mg adalimumab every other week, 40 mg adalimumab every week, or placebo.
 The total study duration was 56 weeks.
 Subjects in clinical response (decrease in CDAI ≥ 70) at Week 4 were stratified and analyzed separately from those not in clinical response at Week 4.
@@ -419,7 +419,7 @@ In Study UC-II, 518 subjects were randomized to receive either adalimumab 160 mg
 Corticosteroid taper was permitted starting at Week 8.
 
 In both Studies UC-I and UC-II, a greater percentage of the subjects treated with 160/80 mg of adalimumab compared to subjects treated with placebo achieved induction of clinical remission.
-In Study UC-II, a greater percentage of the subjects treated with 160/80 mg of adalimumab compared to subjects treated with placebo achieved sustained clinical remission (clinical remission at both Weeks 8 and 52) (Table 15).
+In Study UC-II, a greater percentage of the subjects treated with 160/80 mg of adalimumab compared to subjects treated with placebo achieved sustained clinical remission (clinical remission at both Weeks 8 and 52) (see Table 15).
 
 Table 15.
 Induction of Clinical Remission in Studies UC-I and UC-II and Sustained Clinical Remission in Study UC-II (Percent of Subjects)
@@ -481,8 +481,8 @@ After 52 weeks of treatment with adalimumab, more subjects on adalimumab maintai
 A total of 347 stable responders participated in a withdrawal and retreatment evaluation in an open-label extension study.
 Median time to relapse (decline to PGA "moderate" or worse) was approximately 5 months.
 During the withdrawal period, no subject experienced transformation to either pustular or erythrodermic psoriasis.
-A total of 178 subjects who relapsed re-initiated treatment with 80 mg of adalimumab, then 40 mg every other week beginning at week 1.
-At week 16, 69% (123/178) of subjects had a response of PGA "clear" or "minimal".
+A total of 178 subjects who relapsed re-initiated treatment with 80 mg of adalimumab, then 40 mg every other week beginning at Week 1.
+At Week 16, 69% (123/178) of subjects had a response of PGA "clear" or "minimal".
 
 A randomized, double-blind study (Study Ps-III) compared the efficacy and safety of adalimumab versus placebo in 217 adult subjects.
 Subjects in the study had to have chronic plaque psoriasis of at least moderate severity on the PGA scale, fingernail involvement of at least moderate severity on a 5-point Physician's Global Assessment of Fingernail Psoriasis (PGA-F) scale, a Modified Nail Psoriasis Severity Index (mNAPSI) score for the target-fingernail of ≥ 8, and either a BSA involvement of at least 10% or a BSA involvement of at least 5% with a total mNAPSI score for all fingernails of ≥ 20.
@@ -563,3 +563,31 @@ Kaplan-Meier Curves Summarizing Time to Treatment Failure on or after Week 6 (St
 | --- |
 | Study UV II |
 | Note: P# = Placebo (Number of Events/Number at Risk); A# = adalimumab (Number of Events/Number at Risk). |
+
+## 14.12 Clinical Studies in Pediatric Subjects with Uveitis
+
+The safety and efficacy of adalimumab were assessed in a randomized, double-masked, placebo-controlled study of 90 pediatric subjects from 2 to < 18 years of age with active JIA-associated non-infectious uveitis (PUV-I).
+Subjects received either placebo or 20 mg adalimumab (if < 30 kg) or 40 mg adalimumab (if ≥ 30 kg) every other week in combination with a dose of methotrexate.
+Concomitant dosages of corticosteroids were permitted at study entry followed by a mandatory reduction in topical corticosteroids within 3 months.
+
+The primary endpoint was 'time to treatment failure'.
+The criteria determining treatment failure were worsening or sustained non-improvement in ocular inflammation, or worsening of ocular co-morbidities.
+
+Clinical Response
+
+Adalimumab significantly decreased the risk of treatment failure by 75% relative to placebo (HR = 0.25 [95% CI: 0.12, 0.49]) (Table 21).
+
+Table 21.
+Analysis Results of Time to Treatment Failure (Study PUV-I)
+
+|  | Placebo N = 30 | Adalimumab N = 60 | HR (95% CI)HR of adalimumab versus placebo from proportional hazards regression with treatment as factor. |
+| --- | --- | --- | --- |
+| Failure (n[%]) | 18 (60%) | 16 (26.7%) | 0.25 (0.12, 0.49) |
+| Median Time to Failure (Weeks) (95% CI)Estimated based on Kaplan-Meier curve. | 24.1 (12.4, 81.0) | NENE = not estimable. Fewer than half of at-risk subjects had an event. |  |
+
+Figure 4.
+Kaplan-Meier Curves Summarizing Time to Treatment Failure (Study PUV-I)
+
+| Study PUV-I |
+| --- |
+| Note: P# = Placebo (Number at Risk); A# = adalimumab (Number at Risk). |
