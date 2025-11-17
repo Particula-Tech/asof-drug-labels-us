@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA202936"
+  ],
+  "inn": "desloratadine",
+  "labeler": "INA Pharmaceutics, Inc.",
+  "package_ndcs": [
+    "74157-011-01"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "desloratadine",
+      "name": "Desloratadine Oral Solution"
+    }
+  ],
+  "setid": "41d5e0d4-6188-847b-e063-6294a90a2e2f",
+  "source": "dailymed"
+}
