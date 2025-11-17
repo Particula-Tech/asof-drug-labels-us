@@ -13,9 +13,9 @@ Inform patients of the risk of immune-mediated adverse reactions that may requir
 - •Nephritis and Renal Dysfunction: Advise patients to contact their healthcare provider immediately for signs or symptoms of nephritis including decreased urine output, blood in urine, swelling in ankles, loss of appetite, and any other symptoms of renal dysfunction [see Warnings and Precautions (5.1)].
 - •Skin Adverse Reactions: Advise patients to contact their healthcare provider immediately for rash [see Warnings and Precautions (5.1)].
 - •Other immune-mediated adverse reactions:
-- •Advise patients that immune-mediated adverse reactions can occur and may involve any organ system, and to contact their healthcare provider immediately for any new or worsening signs or symptoms [see Warnings and Precautions (5.1)].
-- •Advise patients of the risk of solid organ transplant rejection and other transplant (including corneal graft) rejection.
-  Advise patients to contact their healthcare provider immediately for signs or symptoms of organ transplant rejection and other transplant (including corneal graft) rejection [see Warnings and Precautions (5.1)].
+  - ∘Advise patients that immune-mediated adverse reactions can occur and may involve any organ system, and to contact their healthcare provider immediately for any new or worsening signs or symptoms [see Warnings and Precautions (5.1)].
+  - ∘Advise patients of the risk of solid organ transplant rejection and other transplant (including corneal graft) rejection.
+    Advise patients to contact their healthcare provider immediately for signs or symptoms of organ transplant rejection and other transplant (including corneal graft) rejection [see Warnings and Precautions (5.1)].
 
 Complications of Allogeneic HSCT
 

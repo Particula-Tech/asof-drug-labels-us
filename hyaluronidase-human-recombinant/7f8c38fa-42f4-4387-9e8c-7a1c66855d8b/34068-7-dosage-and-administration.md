@@ -27,7 +27,7 @@ Select patients with advanced or metastatic gastric cancer, gastroesophageal jun
 
 ## 2.3 Recommended Dosage
 
-The recommended dosages of OPDIVO QVANTIG as monotherapy agent are presented in Table 1.
+The recommended dosages of OPDIVO QVANTIG as monotherapy are presented in Table 1.
 
 Table 1: Recommended Dosages for OPDIVO QVANTIG as Monotherapy
 
@@ -38,13 +38,15 @@ Table 1: Recommended Dosages for OPDIVO QVANTIG as Monotherapy
 | Metastatic non-small cell lung cancer |  |  |
 | Squamous cell carcinoma of the head and neck |  |  |
 | Locally advanced or metastatic urothelial carcinoma |  |  |
-| Microsatellite instability-high or mismatch repair deficient metastatic colorectal cancer† |  |  |
-| Hepatocellular carcinoma† |  |  |
+| Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer that has progressed following prior treatment for metastatic disease† |  |  |
+| Hepatocellular carcinoma previously treated with sorafenib† |  |  |
 | Esophageal squamous cell carcinoma |  |  |
+| Unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer† | 600 mg nivolumab and 10,000 units hyaluronidase* every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase* every 4 weeks | Until disease progression or unacceptable toxicity, or up to 2 years |
+| First-line unresectable or metastatic hepatocellular carcinoma† | 600 mg nivolumab and 10,000 units hyaluronidase* every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase* every 4 weeks | Until disease progression or unacceptable toxicity, or up to 2 years |
 | Adjuvant treatment of melanoma | 600 mg nivolumab and 10,000 units hyaluronidase* every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase* every 4 weeks | Until disease recurrence or unacceptable toxicity for up to 1 year |
 | Adjuvant treatment of urothelial carcinoma |  |  |
 | Adjuvant treatment of resected esophageal or gastroesophageal junction cancer |  |  |
-| † Dosing recommendations for both monotherapy or following intravenous nivolumab and ipilimumab combination therapy. * Administer over 3-5 minutes. |  |  |
+| † Dosing recommendations for monotherapy or monotherapy following intravenous nivolumab and ipilimumab combination therapy. * Administer over 3-5 minutes. |  |  |
 
 The recommended dosages of OPDIVO QVANTIG in combination with other therapeutic agents are presented in Table 2.
 Refer to the respective Prescribing Information for each therapeutic agent administered in combination with OPDIVO QVANTIG for the recommended dosage information, as appropriate.

@@ -54,21 +54,18 @@ OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients
 
 ## 1.9 Microsatellite Instability-High or Mismatch Repair Deficient Metastatic Colorectal Cancer
 
-OPDIVO QVANTIG, as monotherapy or as monotherapy following treatment with intravenous nivolumab and ipilimumab combination therapy, is indicated for the treatment of adult patients with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic CRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
+OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer (CRC) following treatment with intravenous nivolumab and ipilimumab combination therapy.
 
-Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of MSI-H or dMMR metastatic CRC.
+OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients with MSI-H or dMMR metastatic CRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
 
-This indication is approved under accelerated approval based on overall response rate and duration of response [see Clinical Studies (14.9)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.
+Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of unresectable or metastatic MSI-H or dMMR CRC.
 
 ## 1.10 Hepatocellular Carcinoma
 
-OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients with hepatocellular carcinoma (HCC) who have been previously treated with sorafenib and following treatment with intravenous nivolumab and ipilimumab.
+- •OPDIVO QVANTIG, as monotherapy, is indicated for the first-line treatment of adult patients with unresectable or metastatic hepatocellular carcinoma (HCC) following treatment with intravenous nivolumab and ipilimumab combination therapy.
+- •OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients with unresectable or metastatic hepatocellular carcinoma (HCC) who have been previously treated with sorafenib following treatment with intravenous nivolumab and ipilimumab combination therapy.
 
-Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of patients with HCC.
-
-This indication is approved under accelerated approval based on overall response rate and duration of response [see Clinical Studies (14.10)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials.
+Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of patients with unresectable or metastatic HCC.
 
 ## 1.11 Esophageal Cancer
 
