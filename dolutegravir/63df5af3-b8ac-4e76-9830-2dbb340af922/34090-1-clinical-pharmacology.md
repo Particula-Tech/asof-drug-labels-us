@@ -29,7 +29,7 @@ Dolutegravir Steady-State Pharmacokinetic Parameter Estimates in HIV-1–Infecte
 
 | Parameter | 50 mg Once DailyGeometric Meana (%CV) | 50 mg Twice DailyGeometric Meanb (%CV) |
 | --- | --- | --- |
-| AUC(0-24) (mcg∙h/mL) | 53.6 (27) | 75.1 (35) |
+| AUC(0-24) (mcg∙ h/mL) | 53.6 (27) | 75.1 (35) |
 | Cmax (mcg/mL) | 3.67 (20) | 4.15 (29) |
 | Cmin (mcg/mL) | 1.11 (46) | 2.12 (47) |
 | a Based on population pharmacokinetic analyses using data from SPRING-1 and SPRING-2. b Based on population pharmacokinetic analyses using data from VIKING (ING112961) and VIKING-3. |  |  |
@@ -198,7 +198,7 @@ The additional integrase substitutions included T97A, E138K, G140S, and M154I.
 Passage of mutant viruses containing both G140S and Q148H selected for L74M, E92Q, and N155H.
 
 Treatment-Naïve Subjects: No subject who received dolutegravir 50-mg once-daily in the treatment-naïve trials SPRING-2 (96 weeks) and SINGLE (144 weeks) had a detectable decrease in susceptibility to dolutegravir or background NRTIs in the resistance analysis subset (n = 12 with HIV-1 RNA greater than 400 copies per mL at failure or last visit and having resistance data).
-Two virologic failure subjects in SINGLE had treatment-emergent G/D/E193D and G193G/E integrase substitutions at Week 84 and Week 108, respectively, and 1 subject with 275 copies/mL HIV-1 RNA had a treatment-emergent Q157Q/P integrase substitution detected at Week 24.
+Two virologic failure subjects in SINGLE had treatment-emergent G/D/E193D and G193G/E integrase substitutions at Week 84 and Week 108, respectively, and 1 subject with 275 copies/mLHIV-1 RNA had a treatment-emergent Q157Q/P integrase substitution detected at Week 24.
 None of these subjects had a corresponding decrease in dolutegravir susceptibility.
 No treatment-emergent genotypic resistance to the background regimen was observed in the dolutegravir arm in either the SPRING-2 or SINGLE trials.
 No treatment-emergent primary resistance substitutions were observed in either treatment group in the FLAMINGO trial through Week 96.
@@ -226,7 +226,7 @@ The efficacy of TIVICAY 50 mg twice daily is reduced in patients with an INSTI-r
 
 Response by Baseline Genotype
 
-Of the 183 subjects with baseline data, 30% harbored virus with a substitution at Q148, and 33% had no primary INSTI-resistance substitutions (T66A/I/K, E92Q/V, Y143R/C/H, Q148H/R/K, and N155H) at baseline, but had historical genotypic evidence of INSTI-resistance substitutions, phenotypic evidence of elvitegravir or raltegravir resistance, or genotypic evidence of INSTI-resistance substitutions at screening.
+Of the 183 subjects with baseline data, 30% harbored virus with a substitution at Q148, and 33% had no primary INSTI-resistance substitutions (T66A/I/K, E92Q/V, Y143R/C/H, Q148H/R/K, and N155H) at baseline, but had historical genotypic evidence of INST-resistance substitutions, phenotypic evidence of elvitegravir or raltegravir resistance, or genotypic evidence of INSTI-resistance substitutions at screening.
 
 Response rates by baseline genotype were analyzed in an “as-treated” analysis at Week 48 (n = 175) (Table 13).
 The response rate at Week 48 to dolutegravir-containing regimens was 47% (24 of 51) when Q148 substitutions were present at baseline; Q148 was always present with additional INSTI-resistance substitutions (Table 13).

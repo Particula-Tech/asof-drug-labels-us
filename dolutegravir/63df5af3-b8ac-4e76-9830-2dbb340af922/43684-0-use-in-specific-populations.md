@@ -39,7 +39,7 @@ Antiretroviral Pregnancy Registry: Based on prospective reports to the APR, of 1
 In the U.S. reference population of the Metropolitan Atlanta Congenital Defects Program (MACDP), the background birth defect rate was 2.7%.
 
 Dolutegravir has been shown to cross the placenta.
-In a clinical trial in Uganda and South Africa in women during the last trimester of pregnancy receiving dolutegravir 50 mg once daily, the ratio of median dolutegravir concentration in fetal umbilical cord to that in maternal peripheral plasma was 1.21 (range 0.51-2.11) (n = 15).
+In a clinical trial in Uganda and South Africa in women during the last trimester of pregnancy receiving dolutegravir 50 mg once daily, the ratio of median dolutegravir concentration in fetal umbilical cord to that in maternal peripheral plasma was 1.21 (range 0.51 to 2.11) (n = 15).
 
 Animal Data:
 

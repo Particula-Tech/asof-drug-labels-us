@@ -65,7 +65,7 @@ The only treatment‑emergent adverse reaction of moderate to severe intensity w
 Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Subjects: In a multicenter, open-label, single‑arm trial (ING112574, VIKING-3), 183 HIV‑1–infected, antiretroviral treatment-experienced adults with virological failure and current or historical evidence of raltegravir and/or elvitegravir resistance received TIVICAY 50 mg twice daily with the current failing background regimen for 7 days and with optimized background therapy from Day 8.
 The rate of adverse events leading to discontinuation was 4% of subjects at Week 48.
 
-Treatment‑emergent adverse reactions in VIKING-3 were generally similar compared with observations with the 50-mg once-daily dose in adult Phase 3 trials.
+Treatment‑emergent adverse reactions in VIKING-3 were generally similar compared with observations with the 50-mg once-daily dose in adult Phase III trials.
 
 Virologically Suppressed Subjects: The adverse reactions observed for TIVICAY plus rilpivirine in the Week 48 analysis of pooled data from 2 identical, international, multicenter, open-label trials (SWORD-1 and SWORD-2) of 513 HIV-1–infected, virologically suppressed subjects switching from their current antiretroviral regimen to TIVICAY plus rilpivirine, were consistent with the adverse reaction profiles and severities for the individual components when administered with other antiretroviral agents.
 There were no adverse reactions (Grades 2 to 4) with an incidence of at least 2% in either treatment arm at Week 48.
@@ -114,7 +114,7 @@ Selected Laboratory Abnormalities (Grades 2 to 4) in Treatment-Naïve Subjects i
 | Grade 2 (6.0-9.9 x ULN) | 2% | 5% | 5% | 3% |
 | Grade 3 to 4 (≥10.0 x ULN) | 7% | 4% | 7% | 8% |
 | Hyperglycemia |  |  |  |  |
-| Grade 2 (126-250 mg/dL) | 6% | 6% | 9% | 6% |
+| Grade 2 (126 250 mg/dL) | 6% | 6% | 9% | 6% |
 | Grade 3 (>250 mg/dL) | <1% | 2% | 2% | <1% |
 | Lipase |  |  |  |  |
 | Grade 2 (>1.5-3.0 x ULN) | 7% | 7% | 11% | 11% |
@@ -144,9 +144,9 @@ Treatment-Experienced, Integrase Strand Transfer Inhibitor-Naïve Subjects: Labo
 Treatment-Experienced, Integrase Strand Transfer Inhibitor-Experienced Subjects: The most common treatment-emergent laboratory abnormalities (greater than 5% for Grades 2 to 4 combined) observed in VIKING-3 at Week 48 were elevated ALT (9%), AST (8%), cholesterol (10%), creatine kinase (6%), hyperglycemia (14%), and lipase (10%).
 Two percent (4 of 183) of subjects had a Grade 3 to 4 treatment-emergent hematology laboratory abnormality, with neutropenia (2% [3 of 183]) being the most frequently reported.
 
-Virologically Suppressed Adults: Laboratory abnormalities observed in SWORD-1 and SWORD-2 were generally similar compared with observations seen in the other Phase 3 trials.
+Virologically Suppressed Adults: Laboratory abnormalities observed in SWORD-1 and SWORD-2 were generally similar compared with observations seen in the other Phase III trials.
 
-Hepatitis B and/or Hepatitis C Virus Co-infection: In Phase 3 trials, subjects with hepatitis B and/or C virus co-infection were permitted to enroll provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal.
+Hepatitis B and/or Hepatitis C Virus Co-infection: In Phase III trials, subjects with hepatitis B and/or C virus co-infection were permitted to enroll provided that baseline liver chemistry tests did not exceed 5 times the upper limit of normal.
 Overall, the safety profile in subjects with hepatitis B and/or C virus co-infection was similar to that observed in subjects without hepatitis B or C co-infection, although the rates of AST and ALT abnormalities were higher in the subgroup with hepatitis B and/or C virus co-infection for all treatment groups.
 Grades 2 to 4 ALT abnormalities in hepatitis B and/or C co-infected compared with HIV mono-infected subjects receiving TIVICAY were observed in 18% vs. 3% with the 50-mg once-daily dose and 13% vs. 8% with the 50-mg twice-daily dose.
 Liver chemistry elevations consistent with immune reconstitution syndrome were observed in some subjects with hepatitis B and/or C at the start of therapy with TIVICAY, particularly in the setting where anti-hepatitis therapy was withdrawn [see Warnings and Precautions (5.2)].
@@ -177,6 +177,10 @@ Changes in median serum creatinine were similar to those observed in adults.
 
 In addition to adverse reactions reported from clinical trials, the following adverse reactions have been identified during postmarketing use.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+Blood and Lymphatic Systems
+
+Sideroblastic anemia.
 
 Hepatobiliary Disorders
 

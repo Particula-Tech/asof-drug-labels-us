@@ -164,7 +164,7 @@ The median change in CD4+ cell count from baseline was 80 cells/mm3 at Week 48.
 
 Virologically Suppressed Subjects
 
-SWORD-1 and SWORD-2 are identical 148-week, Phase 3, randomized, multicenter, parallel-group, non-inferiority trials.
+SWORD-1 and SWORD-2 are identical 148-week, Phase III, randomized, multicenter, parallel-group, non-inferiority trials.
 A total of 1,024 adult HIV-1–infected subjects who were on a stable suppressive antiretroviral regimen (containing 2 NRTIs plus either an INSTI, an NNRTI, or a PI) for at least 6 months (HIV-1 RNA less than 50 copies/mL), with no history of treatment failure and no known substitutions associated with resistance to dolutegravir or rilpivirine received treatment in the trials.
 Subjects were randomized 1:1 to continue their current antiretroviral regimen (n = 511) or be switched to TIVICAY 50 mg plus rilpivirine 25 mg administered once daily (n = 513).
 Subjects originally assigned to continue their current antiretroviral regimen and who remained virologically suppressed at Week 48 switched to TIVICAY plus rilpivirine at Week 52 (n = 477).
@@ -179,7 +179,7 @@ Refer to the prescribing information for JULUCA (dolutegravir and rilpivirine) t
 
 ## 14.3 Pediatric Subjects
 
-IMPAACT P1093 is an ongoing Phase 1/2, multicenter, open-label trial to evaluate the pharmacokinetic parameters, safety, tolerability, and efficacy of TIVICAY or TIVICAY PD in combination treatment regimens in HIV-1–infected infants, children, and adolescents aged at least 4 weeks to 18 years.
+IMPAACT P1093 is an ongoing Phase I/II, multicenter, open-label trial to evaluate the pharmacokinetic parameters, safety, tolerability, and efficacy of TIVICAY or TIVICAY PD in combination treatment regimens in HIV-1–infected infants, children, and adolescents aged at least 4 weeks to 18 years.
 Subjects were stratified by 5 age cohorts: Cohort 1, aged 12 to less than 18 years; Cohort 2A, aged 6 to less than 12 years; Cohort 3, aged 2 to less than 6 years; Cohort 4, aged 6 months to less than 2 years; and Cohort 5, aged 4 weeks to less than 6 months.
 Seventy-five subjects received the recommended dose (determined by weight and age) of TIVICAY or TIVICAY PD [see Dosage and Administration (2.2, 2.3, 2.4)].
 

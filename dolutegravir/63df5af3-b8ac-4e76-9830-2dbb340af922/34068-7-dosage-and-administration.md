@@ -17,17 +17,17 @@ Dosing Recommendations for TIVICAY Tablets in Adult Patients
 
 ## 2.2 General Dosing and Administration Instructions for Pediatric Patients
 
-Do not substitute TIVICAY tablets and TIVICAY PD tablets for oral suspension on a milligram-per-milligram basis due to differing pharmacokinetic profiles [see Warnings and Precautions (5.6), Clinical Pharmacology (12.3)].
+Do not substitute TIVICAY tablets and TIVICAY PD tablets for oral suspension on a milligram-per-milligram basis due to differing pharmacokinetic profiles [see Warnings and Precautions (5.5), Clinical Pharmacology (12.3)].
 If switching from the tablets to the tablets for oral suspension, follow the recommended dosage in Table 3.
 If switching from the tablets for oral suspension to the tablets, follow the recommended dosage in Table 4.
-See administration instructions in Dosage and Administration (2.5).
+See administration instructions in [Dosage and Administration (2.5)].
 
 ## 2.3 Recommended Dosage in Pediatric Patients Weighing 3 to 14 kg
 
 The recommended weight-based dosage of TIVICAY PD tablets for oral suspension in pediatric patients weighing 3 to 14 kg (4 weeks and older, treatment-naïve, or treatment-experienced but naïve to INSTI treatment) is described in Table 2.
 
 Do not use TIVICAY tablets in patients weighing 3 to 14 kg.
-See administration instructions in Dosage and Administration (2.5).
+See administration instructions in [Dosage and Administration (2.5)].
 
 Table 2.
 Recommended Dosage of TIVICAY PD in Pediatric Patients 4 Weeks and Older Weighing 3 to 14 kg
