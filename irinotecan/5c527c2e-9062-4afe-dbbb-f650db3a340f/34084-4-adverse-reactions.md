@@ -32,10 +32,10 @@ Tables 5 and 6 list the clinically relevant adverse events reported in Studies 1
 Table 5.
 Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events in Combination TherapiesSeverity of adverse events based on NCI CTC (version 1.0)
 
-| Grade 1–4 | Grade 3&4 | Grade 1–4 | Grade 3&4 | Grade 1–4 | Grade 3&4 |  |
-| --- | --- | --- | --- | --- | --- | --- |
 | Adverse Event | Study 1 |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
 | Irinotecan + Bolus 5-FU/LV weekly × 4 every 6 weeks N=225 |  | Bolus 5-FU/LV daily × 5 every 4 weeks N=219 |  | Irinotecan weekly × 4 every 6 weeks N=223 |  |  |
+| Grade 1–4 | Grade 3&4 | Grade 1–4 | Grade 3&4 | Grade 1–4 | Grade 3&4 |  |
 | TOTAL Adverse Events | 100 | 53.3 | 100 | 45.7 | 99.6 | 45.7 |
 | GASTROINTESTINAL |  |  |  |  |  |  |
 | Diarrhea |  |  |  |  |  |  |
@@ -82,12 +82,13 @@ Study 1: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events
 | Hypotension | 5.8 | 1.3 | 2.3 | 0.5 | 5.8 | 1.7 |
 | Thromboembolic eventsIncludes angina pectoris, arterial thrombosis, cerebral infarct, cerebrovascular accident, deep thrombophlebitis, embolus lower extremity, heart arrest, myocardial infarct, myocardial ischemia, peripheral vascular disorder, pulmonary embolus, sudden death, thrombophlebitis, thrombosis, vascular disorder. | 9.3 | -- | 11.4 | -- | 5.4 | -- |
 
-Table 6.Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events in Combination TherapiesSeverity of adverse events based on NCI CTC (version 1.0)
+Table 6.
+Study 2: Percent (%) of Patients Experiencing Clinically Relevant Adverse Events in Combination TherapiesSeverity of adverse events based on NCI CTC (version 1.0)
 
-| Grades 1–4 | Grades 3&4 | Grades 1–4 | Grades 3&4 |  |
-| --- | --- | --- | --- | --- |
 | Adverse Event | Study 2 |  |  |  |
+| --- | --- | --- | --- | --- |
 | Irinotecan + 5-FU/LV infusional days 1&2 every 2 weeks N= 145 |  | 5-FU/LV infusional days 1&2 every 2 weeks N=143 |  |  |
+| Grades 1–4 | Grades 3&4 | Grades 1–4 | Grades 3&4 |  |
 | TOTAL Adverse Events | 100 | 72.4 | 100 | 39.2 |
 | GASTROINTESTINAL |  |  |  |  |
 | Diarrhea |  |  |  |  |
