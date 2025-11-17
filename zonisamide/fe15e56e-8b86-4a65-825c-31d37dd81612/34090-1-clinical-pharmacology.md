@@ -152,7 +152,7 @@ Median % Reduction in All Partial Seizures and % Responders in Primary Efficacy 
 | Study 3: | n=67 | n=66 | n=67 | n=66 |
 | Weeks 5 to 12: | 27.2%* | -1.1% | 28%* | 12% |
 
-*p <0.05 compared to placebo
+*p<0.05 compared to placebo
 
 Table 2.
 Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in Study 1: Intent-To-Treat Analysis
@@ -167,7 +167,7 @@ Median % Reduction in All Partial Seizures and % Responders for Dose Analyses in
 | 200 mg/day: | n=55 | n=82 | n=55 | n=82 |
 | Weeks 2 to 6: | 20.4%* | 4% | 25.5%* | 9.8% |
 
-*p < 0.05 compared to placebo
+*p< 0.05 compared to placebo
 
 Figure 1 presents the proportion of patients (X-axis) whose percentage reduction from baseline in the all partial seizure rate was at least as great as that indicated on the Y-axis in the second and third placebo-controlled trials.
 A positive value on the Y-axis indicates an improvement from baseline (i.e., a decrease in seizure rate), while a negative value indicates a worsening from baseline (i.e., an increase in seizure rate).

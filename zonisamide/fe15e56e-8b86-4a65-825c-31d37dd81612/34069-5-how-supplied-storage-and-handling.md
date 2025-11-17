@@ -1,7 +1,7 @@
 # HOW SUPPLIED
 
-Zonisamide capsules USP are available as 25 mg, 50 mg and 100 mg two-piece hard gelatin capsules.
-Zonisamide capsules USP are available in bottles of 100 and 500 with strengths and colors as follows:
+Zonisamide capsules, USP are available as 25 mg, 50 mg and 100 mg two-piece hard gelatin capsules.
+Zonisamide capsules, USP are available in bottles of 100 and 500 with strengths and colors as follows:
 
 | Dosage Strength | Capsule Description | Pack | NDC # |
 | --- | --- | --- | --- |
@@ -19,11 +19,11 @@ Medication Guide available at
 
 www.glenmarkpharma-us.com/medguides
 
-Manufactured for:
+Distributed by:
 
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-October 2020
+April 2025
