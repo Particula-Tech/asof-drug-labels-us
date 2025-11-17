@@ -13,7 +13,7 @@ Counsel patients about the risk of malignancies while receiving AMJEVITA [see Wa
 
 Hypersensitivity Reactions
 
-Advise patients to seek immediate medical attention if they experience any symptoms of severe hypersensitivity reactions.
+Advise patients to seek immediate medical attention if they experience any symptoms of severe hypersensitivity reactions [see Warnings and Precautions (5.3)].
 
 Other Medical Conditions
 

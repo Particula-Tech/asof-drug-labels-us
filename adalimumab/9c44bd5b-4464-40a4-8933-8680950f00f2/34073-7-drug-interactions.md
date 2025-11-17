@@ -3,7 +3,7 @@
 ## 7.1 Methotrexate
 
 Adalimumab has been studied in rheumatoid arthritis (RA) patients taking concomitant methotrexate (MTX).
-Although MTX reduced the apparent adalimumab clearance, the data do not suggest the need for dose adjustment of either AMJEVITA or MTX [see Clinical Pharmacology (12.3)].
+Although MTX reduced the apparent clearance of adalimumab, the data do not suggest the need for dose adjustment of either AMJEVITA or MTX [see Clinical Pharmacology (12.3)].
 
 ## 7.2 Biological Products
 
@@ -19,5 +19,5 @@ Avoid the use of live vaccines with AMJEVITA [see Warnings and Precautions (5.10
 ## 7.4 Cytochrome P450 Substrates
 
 The formation of CYP450 enzymes may be suppressed by increased concentrations of cytokines (e.g., TNFα, IL-6) during chronic inflammation.
-It is possible for a molecule that antagonizes cytokine activity, such as adalimumab products, to influence the formation of CYP450 enzymes.
+It is possible for products that antagonize cytokine activity, such as adalimumab products, to influence the formation of CYP450 enzymes.
 Upon initiation or discontinuation of AMJEVITA in patients being treated with CYP450 substrates with a narrow therapeutic index, monitoring of the effect (e.g., warfarin) or drug concentration (e.g., cyclosporine or theophylline) is recommended and the individual dose of the drug product may be adjusted as needed.

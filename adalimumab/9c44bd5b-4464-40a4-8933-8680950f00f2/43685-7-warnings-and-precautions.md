@@ -2,7 +2,7 @@
 
 ## 5.1 Serious Infections
 
-Patients treated with adalimumab products including AMJEVITA are at increased risk for developing serious infections involving various organ systems and sites that may lead to hospitalization or death.
+Patients treated with adalimumab products, including AMJEVITA, are at increased risk for developing serious infections involving various organ systems and sites that may lead to hospitalization or death.
 Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, parasitic, or other opportunistic pathogens including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis and tuberculosis have been reported with TNF blockers.
 Patients have frequently presented with disseminated rather than localized disease.
 

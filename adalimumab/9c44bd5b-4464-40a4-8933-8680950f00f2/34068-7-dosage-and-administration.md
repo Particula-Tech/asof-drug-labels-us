@@ -10,9 +10,9 @@ The recommended subcutaneous dosage of AMJEVITA for adult patients with rheumato
 Methotrexate (MTX), other non-biologic DMARDs, glucocorticoids, nonsteroidal anti-inflammatory drugs (NSAIDs), and/or analgesics may be continued during treatment with AMJEVITA.
 In the treatment of RA, some patients not taking concomitant MTX may derive additional benefit from increasing the dosage of AMJEVITA to 40 mg every week or 80 mg every other week.
 
-## 2.3 Recommended Dosage in Juvenile Idiopathic Arthritis
+## 2.3 Recommended Dosage in Juvenile Idiopathic Arthritis or Pediatric Patients with Uveitis
 
-The recommended subcutaneous dosage of AMJEVITA for pediatric patients 2 years of age and older with polyarticular juvenile idiopathic arthritis (JIA) [see Indications and Usage (1.2)], based on weight, is shown below.
+The recommended subcutaneous dosage of AMJEVITA for pediatric patients 2 years of age and older with polyarticular juvenile idiopathic arthritis (JIA) or pediatric uveitis [see Indications and Usage (1.2, 1.9)], based on weight, is shown below.
 MTX, glucocorticoids, NSAIDs, and/or analgesics may be continued during treatment with AMJEVITA.
 
 | Pediatric Weight (2 Years of Age and Older) | Recommended Dosage |
@@ -21,7 +21,7 @@ MTX, glucocorticoids, NSAIDs, and/or analgesics may be continued during treatmen
 | 15 kg (33 lbs) to less than 30 kg (66 lbs) | 20 mg every other week |
 | 30 kg (66 lbs) and greater | 40 mg every other week |
 
-Adalimumab products have not been studied in patients with polyarticular JIA less than 2 years of age or in patients with a weight below 10 kg.
+Adalimumab products have not been studied in patients with polyarticular JIA or pediatric uveitis less than 2 years of age or in patients with a weight below 10 kg.
 
 ## 2.4 Recommended Dosage in Crohn's Disease
 
@@ -64,6 +64,15 @@ Subcutaneous Adult Dosage Regimen
 
 The recommended subcutaneous dosage of AMJEVITA for adult patients with moderate to severe hidradenitis suppurativa (HS) is an initial dose of 160 mg (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
 Begin 40 mg weekly or 80 mg every other week dosing two weeks later (Day 29).
+
+Subcutaneous Pediatric Dosage Regimen
+
+The recommended subcutaneous dosage of AMJEVITA for pediatric patients 12 years of age and older weighing at least 30 kg with moderate to severe hidradenitis suppurativa (HS), based on body weight, is shown below [see Use in Specific Populations (8.4) and Clinical Pharmacology (12.3)]:
+
+| Body Weight of Pediatric Patients (12 years of age and older) | Recommended Dosage |
+| --- | --- |
+| 30 kg (66 lbs) to less than 60 kg (132 lbs) | Day 1: 80 mgDay 8 and subsequent doses: 40 mg every other week |
+| 60 kg (132 lbs) and greater | Day 1: 160 mg (given in one day or split over two consecutive days);Day 15: 80 mgDay 29 and subsequent doses: 40 mg every week or 80 mg every other week |
 
 ## 2.8 General Considerations for Administration
 
