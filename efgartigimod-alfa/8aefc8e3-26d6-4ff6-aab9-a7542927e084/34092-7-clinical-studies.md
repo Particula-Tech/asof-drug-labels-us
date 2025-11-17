@@ -19,6 +19,7 @@ The majority of patients (n=65 for VYVGART; n=64 for placebo) were positive for 
 At baseline, over 80% of patients in each group received AChE inhibitors, over 70% in each treatment group received steroids, and approximately 60% in each treatment group received NSISTs, at stable doses.
 
 Patients were treated with VYVGART at the recommended dosage regimen [see Dosage and Administration (2.2)].
+Subsequent treatment cycles were administered based on clinical evaluation, but no sooner than 28 days from the last administration of the previous treatment cycle.
 
 The efficacy of VYVGART was measured using the Myasthenia Gravis-Specific Activities of Daily Living scale (MG-ADL) which assesses the impact of gMG on daily functions of 8 signs or symptoms that are typically affected in gMG.
 Each item is assessed on a 4-point scale where a score of 0 represents normal function and a score of 3 represents loss of ability to perform that function.

@@ -14,7 +14,6 @@ The recommended dosage of VYVGART is 10 mg/kg administered as an intravenous inf
 In patients weighing 120 kg or more, the recommended dose of VYVGART is 1200 mg (3 vials) per infusion.
 
 Administer subsequent treatment cycles based on clinical evaluation.
-The safety of initiating subsequent cycles sooner than 50 days from the start of the previous treatment cycle has not been established.
 
 If a scheduled infusion is missed, VYVGART may be administered up to 3 days after the scheduled time point.
 Thereafter, resume the original dosing schedule until the treatment cycle is completed.
