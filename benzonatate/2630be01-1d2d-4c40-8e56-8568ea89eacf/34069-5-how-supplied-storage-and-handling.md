@@ -10,3 +10,16 @@ Dispense in a tight, light-resistant container as defined in USP/NF.
 
 Manufactured for: Bionpharma Inc. Princeton, NJ 08540, USA Rev.
 12/2022
+
+For India Manufacturing Site:
+
+Manufactured for: Bionpharma Inc. Princeton, NJ 085 40, USA
+
+MADE IN INDIA
+
+Rev.
+08/2024
+
+Code: TN/DRUGS/TN/25/00074
+
+P3173/00/24

@@ -42,8 +42,6 @@ Do not take 2 doses of BENZONATATE at one time.
 
 ## Usage in Pregnancy:
 
-### Pregnancy Category C.
-
 Animal reproduction studies have not been conducted with BENZONATATE.
 It is also not known whether BENZONATATE can cause fetal harm when administered to a pregnant woman or can affect reproduction capacity.
 BENZONATATE should be given to a pregnant woman only if clearly needed.
