@@ -348,7 +348,7 @@ A total of 609 patients received intravenous atezolizumab 1200 mg intravenously 
 The study excluded patients with active or prior autoimmune disease or with medical conditions that required systemic corticosteroids.
 The median duration of exposure was 3.4 months (0 to 26 months) in intravenous atezolizumab-treated patients and 2.1 months (0 to 23 months) in docetaxel-treated patients.
 
-The study population characteristics were: median age of 63 years (25 to 85 years), 46% age 65 years or older, 62% male, 71% White, 20% Asian, 68% former smoker, 16% current smoker, and 63% had ECOG performance status of 1.
+The study population characteristics were: median age of 63 years (25 to 85 years), 46% age 65 years or older, 62% male, 71% White, 20% Asian, 68% former smoker, 16% current smoker, and 63% had Eastern Cooperative Oncology Group (ECOG) performance status of 1.
 
 Fatal adverse reactions occurred in 1.6% of patients; these included pneumonia, sepsis, septic shock, dyspnea, pulmonary hemorrhage, sudden death, myocardial ischemia or renal failure.
 
@@ -406,7 +406,7 @@ Table 14: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% 
 
 Adverse Reactions in Adult Patients with Small Cell Lung Cancer
 
-The safety of TECENTRIQ HYBREZA for its approved Small Cell Lung Cancer (SCLC) indication [see Indications and Usage (1.2)] has been established in adequate and well-controlled studies of intravenous atezolizumab for SCLC (IMpower133 study).
+The safety of TECENTRIQ HYBREZA for its approved Small Cell Lung Cancer (SCLC) indications [see Indications and Usage (1.2)] has been established in adequate and well-controlled studies of intravenous atezolizumab for SCLC (IMpower133 and IMforte studies).
 
 Small Cell Lung Cancer (SCLC)
 
@@ -470,6 +470,67 @@ Table 16: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% 
 | Increased TSH | 21 | NA | 7 | NA |
 | Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: Intravenous Atezolizumab (range: 181–193); Placebo (range: 181–196). Graded per NCI CTCAE v4.0 |  |  |  |  |
 
+IMforte
+
+The safety of intravenous atezolizumab in combination with lurbinectedin was evaluated in IMforte [see Clinical Studies (14.2)].
+Patients received intravenous atezolizumab 1200 mg IV and lurbinectedin 3.2 mg/m2 IV, on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
+Primary prophylaxis of G-CSF was administered to 84% of patients.
+Among 242 patients receiving intravenous atezolizumab with lurbinectedin, the median duration of exposure to intravenous atezolizumab was 4.2 months, with 34% of patients exposed for 6 months or longer and 8% of patients exposed for 12 months or longer.
+
+Serious adverse reactions occurred in 31% of patients receiving intravenous atezolizumab with lurbinectedin.
+Serious adverse reactions in >2% of patients were pneumonia (2.5%), respiratory tract infection (2.1%), dyspnea (2.1%), and decreased platelet count (2.1%).
+Fatal adverse reactions occurred in 5% of patients receiving intravenous atezolizumab with lurbinectedin including pneumonia (3 patients), sepsis (3 patients), cardio-respiratory arrest (2 patients), myocardial infarction (2 patients), and febrile neutropenia (1 patient).
+
+Permanent discontinuation of intravenous atezolizumab due to an adverse reaction occurred in 2.5% of patients.
+The adverse reactions requiring permanent discontinuation in ≥ 1% of patients who received intravenous atezolizumab were immune-mediated nephritis, peripheral neuropathy, nephropathy, pneumonitis, anemia, neutropenia, and thrombocytopenia.
+
+Dosage interruptions of intravenous atezolizumab due to an adverse reaction occurred in 29% of patients.
+Adverse reactions which required dosage interruption in ≥ 2% of patients included anemia, fatigue, decreased neutrophil count, pneumonitis, and decreased platelet count.
+
+Tables 17 and 18 summarize adverse reactions and laboratory abnormalities, respectively, in patients who received intravenous atezolizumab with lurbinectedin in IMforte.
+
+Table 17: Adverse Reactions (≥10%) in Patients with ES-SCLC Who Received Intravenous Atezolizumab with Lurbinectedin in IMforte
+
+| All Grades (%) | Grades 3 or 4 (%) | All Grades (%) | Grades 3 or 4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Adverse Reaction | Intravenous Atezolizumab with Lurbinectedin N = 242 |  | Intravenous Atezolizumab N = 240 |  |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 36 | 3 | 4 | 1 |
+| DiarrheaIncludes diarrhea and colitis. | 15 | 0 | 8 | 0 |
+| Vomiting | 14 | 1 | 3 | 0 |
+| Constipation | 12 | 0 | 6 | 1 |
+| General disorders and administration site conditions |  |  |  |  |
+| FatigueIncludes fatigue and asthenia. | 32 | 5 | 13 | 2 |
+| Musculoskeletal and connective tissue disorders |  |  |  |  |
+| Musculoskeletal PainIncludes arthralgia, arthritis, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, musculoskeletal pain, myalgia, neck pain, non-cardiac chest pain, and pain in extremity. | 19 | 2 | 16 | 1 |
+| Metabolism and Nutrition |  |  |  |  |
+| Decreased appetite | 17 | 0 | 7 | 0 |
+| Respiratory, thoracic and mediastinal disorders |  |  |  |  |
+| CoughIncludes cough, productive cough, and upper-airway cough syndrome. | 12 | 0 | 8 | 0 |
+| DyspneaIncludes dyspnea and dyspnea exertional. | 11 | 2 | 10 | 2 |
+| Graded per NCI CTCAE v5.0 |  |  |  |  |
+
+Clinically relevant adverse reactions in < 10% of patients who received intravenous atezolizumab in combination with lurbinectedin included pneumonia, phlebitis, extravasation resulting in skin necrosis, hypersensitivity and increased creatine phosphokinase.
+
+Table 18: Select Laboratory Abnormalities (≥20%) That Worsened from Baseline in Patients with ES-SCLC Who Received Intravenous Atezolizumab in Combination with Lurbinectedin in IMforte
+
+| All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
+| --- | --- | --- | --- | --- |
+| Laboratory Abnormality | Intravenous Atezolizumab with Lurbinectedin N = 242 |  | Intravenous Atezolizumab N = 240 |  |
+| Hematology |  |  |  |  |
+| Lymphopenia | 55 | 17 | 31 | 11 |
+| Thrombocytopenia | 54 | 15 | 15 | 3 |
+| Anemia | 51 | 13 | 12 | 3 |
+| Neutropenia | 36 | 18 | 7 | 4 |
+| Chemistry |  |  |  |  |
+| Increased alkaline phosphatase | 29 | 1 | 14 | 0 |
+| Decreased sodium | 27 | 4 | 30 | 5 |
+| Increased ALT | 25 | 3 | 18 | 2 |
+| Increased AST | 24 | 3 | 22 | 1 |
+| Decreased calcium | 24 | 3 | 8 | 1 |
+| Increased creatinine | 21 | 3 | 14 | 0 |
+| Graded per NCI CTCAE v5.0 |  |  |  |  |
+
 Adverse Reactions in Adult Patients with Hepatocellular Carcinoma
 
 The safety of TECENTRIQ HYBREZA for its approved indication hepatocellular carcinoma [see Indications and Usage (1.3)] has been established in adequate and well-controlled studies of intravenous atezolizumab for hepatocellular carcinoma (IMbrave150 study).
@@ -495,9 +556,9 @@ Adverse reactions leading to interruption of intravenous atezolizumab occurred i
 
 Immune-related adverse reactions requiring systemic corticosteroid therapy occurred in 12% of patients in the intravenous atezolizumab and bevacizumab arm.
 
-Tables 17 and 18 summarize adverse reactions and laboratory abnormalities, respectively, in patients who received intravenous atezolizumab and bevacizumab in IMbrave150.
+Tables 19 and 20 summarize adverse reactions and laboratory abnormalities, respectively, in patients who received intravenous atezolizumab and bevacizumab in IMbrave150.
 
-Table 17: Adverse Reactions Occurring in ≥ 10% of Patients with HCC Receiving Intravenous Atezolizumab in IMbrave150
+Table 19: Adverse Reactions Occurring in ≥ 10% of Patients with HCC Receiving Intravenous Atezolizumab in IMbrave150
 
 | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -528,7 +589,7 @@ Table 17: Adverse Reactions Occurring in ≥ 10% of Patients with HCC Receiving 
 | Injury, Poisoning and Procedural Complications |  |  |  |  |
 | Infusion-Related Reaction | 11 | 2.4 | 0 | 0 |
 
-Table 18: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% of Patients with HCC Receiving Intravenous Atezolizumab in IMbrave150
+Table 20: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% of Patients with HCC Receiving Intravenous Atezolizumab in IMbrave150
 
 | All GradesGraded per NCI CTCAE v4.0 (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -578,23 +639,23 @@ The most frequent (≥ 2%) adverse reactions leading to intravenous atezolizumab
 Adverse reactions leading to interruption of intravenous atezolizumab occurred in 68% of patients in the intravenous atezolizumab plus cobimetinib and vemurafenib arm.
 The most frequent (≥ 2%) adverse reactions leading to intravenous atezolizumab interruption were pyrexia (14%), increased ALT (13%), hyperthyroidism (10%), increased AST (10%), increased lipase (9%), increased amylase (7%), pneumonitis (5%), increased CPK (4.3%), diarrhea (3.5%), pneumonia (3.5%), asthenia (3%), rash (3%), influenza (3%), arthralgia (2.6%), fatigue (2.2%), dyspnea (2.2%), cough (2.2%), peripheral edema (2.2%), uveitis (2.2%), bronchitis (2.2%), hypothyroidism (2.2%), and respiratory tract infection (2.2%).
 
-Tables 19 and 20 summarize the incidence of adverse reactions and laboratory abnormalities in IMspire150.
+Tables 21 and 22 summarize the incidence of adverse reactions and laboratory abnormalities in IMspire150.
 
-Table 19: Adverse Reactions Occurring in ≥ 10% of Patients on the Intravenous Atezolizumab plus Cobimetinib and Vemurafenib Arm or the Placebo plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4 Intravenous Atezolizumab in IMspire150)
+Table 21: Adverse Reactions Occurring in ≥ 10% of Patients on the Intravenous Atezolizumab plus Cobimetinib and Vemurafenib Arm or the Placebo plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3-4 Intravenous Atezolizumab in IMspire150)
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
 | Adverse Reaction | Intravenous Atezolizumab in combination with Cobimetinib and Vemurafenib (n=230) |  | Placebo with Cobimetinib and Vemurafenib (n=281) |  |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |
-| RashIncludes rash, rash maculo-papular, dermatitis acneiform, rash macular, rash erythematous, eczema, skin exfoliation, rash papular, rash pustular, palmar-plantar erythrodysaesthesia syndrome, dermatitis, dermatitis contact, erythema multiforme, rash pruritic, drug eruption, nodular rash, dermatitis allergic, exfoliative rash, dermatitis exfoliative generalised and rash morbilliform | 75 | 27 | 72 | 23 |
+| RashIncludes rash, rash maculo-papular, dermatitis acneiform, rash macular, rash erythematous, eczema, skin exfoliation, rash papular, rash pustular, palmar-plantar erythrodysesthesia syndrome, dermatitis, dermatitis contact, erythema multiforme, rash pruritic, drug eruption, nodular rash, dermatitis allergic, exfoliative rash, dermatitis exfoliative generalized and rash morbilliform | 75 | 27 | 72 | 23 |
 | Pruritus | 26 | < 1 | 17 | < 1 |
 | Photosensitivity reaction | 21 | < 1 | 25 | 3.2 |
 | General Disorders and Administration Site Conditions |  |  |  |  |
 | FatigueIncludes fatigue, asthenia and malaise | 51 | 3 | 45 | 1.8 |
 | PyrexiaIncludes pyrexia and hyperpyrexia | 49 | 1.7 | 35 | 2.1 |
-| EdemaIncludes edema peripheral, lymphoedema, oedema, face oedema, eyelid oedema, periorbital oedema, lip oedema and generalised oedema | 26 | < 1 | 21 | 0 |
+| EdemaIncludes edema peripheral, lymphoedema, edema, face edema, eyelid edema, periorbital edema, lip edema and generalized edema | 26 | < 1 | 21 | 0 |
 | Gastrointestinal Disorders |  |  |  |  |
-| HepatotoxicityIncludes alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, transaminases increased, hepatitis, hepatic enzyme increased, hepatotoxicity, hypertransaminasaemia, bilirubin conjugated increased, hepatocellular injury, hyperbilirubinaemia, liver function test increased, hepatic failure, hepatitis fulminant and liver function test abnormal | 50 | 21 | 36 | 13 |
+| HepatotoxicityIncludes alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, transaminases increased, hepatitis, hepatic enzyme increased, hepatotoxicity, hypertransaminasemia, bilirubin conjugated increased, hepatocellular injury, hyperbilirubinemia, liver function test increased, hepatic failure, hepatitis fulminant and liver function test abnormal | 50 | 21 | 36 | 13 |
 | Nausea | 30 | < 1 | 32 | 2.5 |
 | StomatitisIncludes stomatitis, mucosal inflammation, aphthous ulcer, mouth ulceration, cheilitis and glossitis | 23 | 1.3 | 15 | < 1 |
 | Musculoskeletal and Connective Tissue Disorders |  |  |  |  |
@@ -627,7 +688,7 @@ Respiratory, thoracic and mediastinal disorders: Dyspnea, oropharyngeal pain
 
 Skin and Subcutaneous Tissue Disorders: Vitiligo
 
-Table 20: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% of Patients Receiving Intravenous Atezolizumab Plus Cobimetinib and Vemurafenib Arm or the Placebo Plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3–4) in IMspire150
+Table 22: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% of Patients Receiving Intravenous Atezolizumab Plus Cobimetinib and Vemurafenib Arm or the Placebo Plus Cobimetinib and Vemurafenib Arm and at a Higher Incidence (Between Arm Difference of ≥ 5% All Grades or ≥ 2% Grades 3–4) in IMspire150
 
 | All Grades (%) | Grades 3–4 (%) | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- | --- | --- |
@@ -679,9 +740,9 @@ The most frequent serious adverse reactions (> 2%) were fatigue, pain in extremi
 Dosage interruptions of intravenous atezolizumab due to an adverse reaction occurred in 35% of patients.
 The most common adverse reactions (≥ 3%) leading to dose interruptions were pneumonitis and pain in extremity (4.1% each).
 
-Tables 21 and 22 summarize adverse reactions and laboratory abnormalities in Study ML39345.
+Tables 23 and 24 summarize adverse reactions and laboratory abnormalities in Study ML39345.
 
-Table 21: Adverse Reactions Occurring in ≥ 15% of Patients with ASPS Receiving Intravenous Atezolizumab in ML39345
+Table 23: Adverse Reactions Occurring in ≥ 15% of Patients with ASPS Receiving Intravenous Atezolizumab in ML39345
 
 | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |
@@ -724,7 +785,7 @@ Table 21: Adverse Reactions Occurring in ≥ 15% of Patients with ASPS Receiving
 | Weight increased | 16 | 6 |
 | Graded per NCI CTCAE v4.0 |  |  |
 
-Table 22: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% of Patients with ASPS Receiving Intravenous Atezolizumab in ML39345
+Table 24: Laboratory Abnormalities Worsening from Baseline Occurring in ≥ 20% of Patients with ASPS Receiving Intravenous Atezolizumab in ML39345
 
 | All Grades (%) | Grades 3–4 (%) |  |
 | --- | --- | --- |

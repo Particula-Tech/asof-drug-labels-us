@@ -52,11 +52,11 @@ No clinically significant differences in the pharmacokinetics of atezolizumab we
 The observed incidence of anti-drug antibodies (ADA) is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of ADA in the studies described below with the incidence of ADA in other studies, including those of TECENTRIQ HYBREZA or of other atezolizumab products or hyaluronidase products.
 
-During the first year of treatment in the Study IMscin001 [see Clinical Studies (14.1)], the incidence of anti-atezolizumab antibodies was 20% (43/221) and the incidence of neutralizing antibodies (NAb) in ADA-positive patients was 54% (21/39) for TECENTRIQ HYBREZA.
+During the first year of treatment in the Study IMscin001 [see Clinical Studies (14.1)], the incidence of ADA was 20% (43/221) and the incidence of neutralizing antibodies (NAb) in ADA-positive patients was 54% (21/39) for TECENTRIQ HYBREZA.
 The corresponding incidence of ADA was 14% (15/108) and NAb was 60% (9/15) for intravenous atezolizumab.
 
 In Study IMscin001, atezolizumab clearance increased by 29% in patients who received TECENTRIQ HYBREZA and who tested positive for ADA, compared to patients who tested negative for ADA; this change in clearance is not expected to be clinically significant.
-Because of limited immunogenicity data the effect of anti-atezolizumab antibodies on the effectiveness of TECENTRIQ HYBREZA is unknown.
+Because of limited immunogenicity data the effect of ADA on the effectiveness of TECENTRIQ HYBREZA is unknown.
 There was no identified clinically significant effect of anti-atezolizumab antibodies on the safety of TECENTRIQ HYBREZA during the first 6 months of treatment.
 
 In Study IMscin001, the incidence of anti-rHuPH20 antibodies was 5.4% (12/224) and the incidence of NAb was 0% (0/12).
@@ -68,10 +68,10 @@ During the first year of treatment with intravenous atezolizumab across clinical
 Across clinical studies, the NAb incidence in ADA-positive patients was 24% to 83%.
 
 In OAK and IMbrave150, exploratory analyses showed that the subset of patients who were ADA-positive appeared to have less efficacy (effect on overall survival) as compared to patients who tested negative for ADA [see Clinical Studies (14.1, 14.3)].
-In study IMpower150, the impact of ADA on efficacy did not appear to be clinically significant [see Clinical Studies (14.1)].
+In study IMpower150 and IMforte, the impact of ADA on efficacy did not appear to be clinically significant [see Clinical Studies (14.1)].
 In the remaining studies, there is insufficient information to characterize the effect of ADA on efficacy.
 
-Median atezolizumab clearance in patients who tested positive for anti-atezolizumab antibodies (ADA) was 19% (range of 18% to 49%) higher as compared to atezolizumab clearance in patients who tested negative for ADA; this change in clearance is not expected to be clinically significant.
+Median atezolizumab clearance in patients who tested positive for ADA was 19% (range of 18% to 49%) higher as compared to atezolizumab clearance in patients who tested negative for ADA; this change in clearance is not expected to be clinically significant.
 The presence of ADA did not have a clinically significant effect on the incidence or severity of adverse reactions.
 The effect of NAb on atezolizumab exposure and safety did not appear to be clinically significant.
 The effect of NAb on key efficacy endpoints is uncertain due to small sample sizes.

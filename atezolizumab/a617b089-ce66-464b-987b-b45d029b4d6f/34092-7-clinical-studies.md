@@ -46,7 +46,7 @@ Tumor assessments were conducted at baseline of the randomization phase and ever
 
 The median age was 62 years (range: 26 to 84), and 67% of patients were male.
 The majority of patients were White (73%) and Asian (24%).
-Most patients were current or previous smokers (78%) and baseline ECOG performance status in patients was 0 (55%) or 1 (44%).
+Most patients were current or previous smokers (78%) and baseline Eastern Cooperative Oncology Group (ECOG) performance status in patients was 0 (55%) or 1 (44%).
 Overall, 12% of patients had Stage IB, 47% had Stage II and 41% had Stage IIIA disease.
 PD-L1 expression, defined as the percentage of tumor cells expressing PD-L1 as measured by the VENTANA PD-L1 (SP263) assay, was ≥ 1% in 53% of patients, < 1% in 44% and unknown in 2.6%.
 
@@ -57,9 +57,9 @@ A key secondary efficacy outcome measure was overall survival (OS) in the intent
 
 At the time of the interim DFS analysis, the study demonstrated a statistically significant improvement in DFS in the PD-L1 ≥ 1% TC, Stage II – IIIA patient population.
 
-Efficacy results are presented in Table 23 and Figure 1.
+Efficacy results are presented in Table 25 and Figure 1.
 
-Table 23: Efficacy Results from IMpower010 in Patients with Stage II - IIIA NSCLC with PD-L1 expression ≥ 1% TC
+Table 25: Efficacy Results from IMpower010 in Patients with Stage II - IIIA NSCLC with PD-L1 expression ≥ 1% TC
 
 |  | Arm A: Intravenous Atezolizumab N = 248 | Arm B: Best Supportive Care N = 228 |
 | --- | --- | --- |
@@ -110,9 +110,9 @@ Baseline ECOG performance status was 0 (36%) or 1 (64%); 88% were current or pre
 
 The trial demonstrated a statistically significant improvement in OS for patients with high PD-L1 expression (TC ≥ 50% or IC ≥ 10%) at the time of the OS interim analysis.
 There was no statistically significant difference in OS for the other two PD-L1 subgroups (TC ≥ 5% or IC ≥ 5%; and TC ≥ 1% or IC ≥ 1%) at the interim or final analyses.
-Efficacy results for patients with NSCLC with high PD-L1 expression are presented in Table 24 and Figure 2.
+Efficacy results for patients with NSCLC with high PD-L1 expression are presented in Table 26 and Figure 2.
 
-Table 24: Efficacy Results from IMpower110 in Patients with NSCLC with High PD-L1 Expression (TC ≥ 50% or IC ≥ 10%) and without EGFR or ALK Genomic Tumor Aberrations
+Table 26: Efficacy Results from IMpower110 in Patients with NSCLC with High PD-L1 Expression (TC ≥ 50% or IC ≥ 10%) and without EGFR or ALK Genomic Tumor Aberrations
 
 |  | N = 107 | N = 98 |
 | --- | --- | --- |
@@ -168,9 +168,9 @@ PD-L1 was TC3 and any IC in 12%, TC0/1/2 and IC2/3 in 13%, and TC0/1/2 and IC0/1
 The demographics for the 696 patients in the ITT-WT subpopulation were similar to the ITT population except for the absence of patients with EGFR- or ALK-positive NSCLC.
 
 The trial demonstrated a statistically significant improvement in PFS between Arms B and C in both the tGE-WT and ITT-WT subpopulations, but did not demonstrate a significant difference for either subpopulation between Arms A and C based on the final PFS analyses.
-In the interim analysis of OS, a statistically significant improvement was observed for Arm B compared to Arm C, but not for Arm A compared to Arm C. Efficacy results for the ITT-WT subpopulation are presented in Table 25 and Figure 3.
+In the interim analysis of OS, a statistically significant improvement was observed for Arm B compared to Arm C, but not for Arm A compared to Arm C. Efficacy results for the ITT-WT subpopulation are presented in Table 27 and Figure 3.
 
-Table 25: Efficacy Results in ITT-WT Population in IMpower150
+Table 27: Efficacy Results in ITT-WT Population in IMpower150
 
 |  | N = 337 | N = 359 | N = 349 |
 | --- | --- | --- | --- |
@@ -227,9 +227,9 @@ Baseline ECOG performance status was 0 (41%) or 1 (58%).
 Most patients were current or previous smokers (90%).
 PD-L1 tumor expression was TC0/1/2 and IC0/1 in 73%; TC3 and any IC in 14%; and TC0/1/2 and IC2/3 in 13%.
 
-Efficacy results for the ITT-WT population are presented in Table 26 and Figure 4.
+Efficacy results for the ITT-WT population are presented in Table 28 and Figure 4.
 
-Table 26: Efficacy Results from IMpower130
+Table 28: Efficacy Results from IMpower130
 
 |  | Intravenous Atezolizumab with Paclitaxel Protein-Bound and Carboplatin | Paclitaxel Protein-Bound and Carboplatin |
 | --- | --- | --- |
@@ -273,9 +273,9 @@ Additional efficacy outcome measures were OS in all randomized patients (n = 122
 Among the first 850 randomized patients, the median age was 64 years (33 to 85 years) and 47% were ≥ 65 years old; 61% were male; 70% were White and 21% were Asian; 15% were current smokers and 67% were former smokers; and 37% had baseline ECOG PS of 0 and 63% had a baseline ECOG PS of 1.
 Nearly all (94%) had metastatic disease, 74% had non-squamous histology, 75% had received only one prior platinum-based chemotherapy regimen, and 55% of patients had PD-L1-expressing tumors.
 
-Efficacy results are presented in Table 27 and Figure 5
+Efficacy results are presented in Table 29 and Figure 5
 
-Table 27: Efficacy Results in OAK
+Table 29: Efficacy Results in OAK
 
 |  | Intravenous Atezolizumab | Docetaxel |
 | --- | --- | --- |
@@ -327,8 +327,8 @@ The hazard ratio comparing the ADA negative subgroup with its matched control wa
 
 ## 14.2 Small Cell Lung Cancer
 
-The efficacy of TECENTRIQ HYBREZA in combination with carboplatin and etoposide for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC) has been established in adequate and well-controlled studies of intravenous atezolizumab in combination with carboplatin and etoposide for ES-SCLC.
-Below is a description of the efficacy results of intravenous atezolizumab in combination with carboplatin and etoposide in this adequate and well-controlled ES-SCLC trial.
+The efficacy of TECENTRIQ HYBREZA in combination with chemotherapy for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC) has been established in adequate and well-controlled studies of intravenous atezolizumab.
+Below is a description of the efficacy results of these adequate and well-controlled studies of intravenous atezolizumab in combination with chemotherapy in ES-SCLC (IMpower133 and IMforte studies).
 
 Small Cell Lung Cancer (SCLC)
 
@@ -354,9 +354,9 @@ A total of 403 patients were randomized, including 201 to the intravenous atezol
 The median age was 64 years (range: 26 to 90) and 65% were male.
 The majority of patients were White (80%); 17% were Asian, 4% were Hispanic and 1% were Black.
 Baseline ECOG performance status was 0 (35%) or 1 (65%); 9% of patients had a history of brain metastases, and 97% were current or previous smokers.
-Efficacy results are presented in Table 28 and Figure 6.
+Efficacy results are presented in Table 30 and Figure 6.
 
-Table 28: Efficacy Results from IMpower133
+Table 30: Efficacy Results from IMpower133
 
 |  | Intravenous Atezolizumab with Carboplatin and Etoposide | Placebo with Carboplatin and Etoposide |
 | --- | --- | --- |
@@ -383,6 +383,50 @@ Table 28: Efficacy Results from IMpower133
 | CI = confidence interval |  |  |
 
 Figure 6: Kaplan-Meier Plot of Overall Survival in IMpower133
+
+IMforte
+
+The efficacy of intravenous atezolizumab in combination with lurbinectedin as maintenance treatment was evaluated in IMforte (NCT05091567), a randomized, multicenter, open-label study in patients with ES-SCLC.
+Patients were eligible if their disease had not progressed after completion of four cycles of intravenous atezolizumab, carboplatin and etoposide (induction treatment) and they had an ECOG performance status of 0 or 1.
+The trial excluded patients with CNS metastases, history of autoimmune disease, or administration of systemic immunosuppressive medications within 1 week prior to enrollment.
+Unless contraindicated, primary prophylaxis with granulocyte colony-stimulating factor (G-CSF) was mandated for patients assigned to the intravenous atezolizumab with lurbinectedin arm.
+
+The trial randomized 483 patients who had not experienced disease progression following the completion of four cycles of intravenous atezolizumab with carboplatin and etoposide to one of the following two treatment arms:
+
+- Intravenous atezolizumab 1200 mg IV in combination with lurbinectedin 3.2 mg/m2 IV once every 3 weeks until disease progression or unacceptable toxicity, or
+- Intravenous atezolizumab 1200 mg IV once every 3 weeks until disease progression or unacceptable toxicity
+
+Randomization was stratified by ECOG performance status prior to randomization (0 vs. 1), lactate dehydrogenase (LDH) (≤ ULN vs. > ULN) prior to randomization, presence of liver metastases prior to initial study enrollment (yes vs. no), and prior receipt of prophylactic cranial irradiation (yes vs. no).
+
+The major efficacy outcome measures were OS and PFS by Independent Review Facility per RECIST v1.1.
+
+A total of 483 patients were randomized, including 242 to the intravenous atezolizumab with lurbinectedin arm and 241 to the intravenous atezolizumab arm.
+The median age was 66 years (range 35 to 85 years); 63% male; 82% White; 13% Asian; 0.8% were Black or African American; 7% were of Hispanic or Latino ethnicity and 98% were current or previous smokers.
+Baseline ECOG performance status was 0 (43%) or 1 (57%).
+
+Efficacy results are presented in Table 31 and Figures 7 and 8.
+
+Table 31: Efficacy Results from IMforte
+
+|  | Intravenous Atezolizumab with Lurbinectedin N=242 | Intravenous Atezolizumab N=241 |  |  |
+| --- | --- | --- | --- | --- |
+| Overall Survival Measured from the time of randomization |  |  |  |  |
+| Deaths (%) | 113 (47%) | 136 (56%) |  |  |
+| Median, months | 13.2 | 10.6 |  |  |
+| (95% CI) | (11.9, 16.4) | (9.5, 12.2) |  |  |
+| Hazard ratioStratified by ECOG performance status, LDH level, presence of liver metastases and prior receipt of prophylactic cranial irradiation (95% CI) | 0.73 (0.57, 0.95) |  |  |  |
+| p-valueBased on the stratified log-rank test, Compared to the allocated alpha of 0.0313 (two-sided) for this interim OS analysis. | 0.0174 |  |  |  |
+| Progression-Free Survival, As determined by an IRF, per RECIST v1.1 (Response Evaluation Criteria in Solid Tumors v1.1) |  |  |  |  |
+| Number of events (%) | 174 (72%) | 202 (84%) |  |  |
+| Median, months | 5.4 | 2.1 |  |  |
+| (95% CI) | (4.2, 5.8) | (1.6, 2.7) |  |  |
+| Hazard ratio (95% CI) | 0.54 (0.43, 0.67) |  |  |  |
+| p-value, Compared to the allocated alpha of 0.001 (two- sided) for this final PFS analysis. | <0.0001 |  |  |  |
+| CI=confidence interval |  |  |  |  |
+
+Figure 7: Kaplan-Meier Plot of IRF-assessed Progression-Free Survival in IMforte
+
+Figure 8: Kaplan-Meier Plot of Overall Survival in IMforte
 
 ## 14.3 Hepatocellular Carcinoma
 
@@ -415,9 +459,9 @@ The majority of patients had BCLC stage C (82%) disease at baseline, while 16% h
 The major efficacy outcome measures were overall survival (OS) and independent review facility (IRF)-assessed progression free survival (PFS) per RECIST v1.1.
 Additional efficacy outcome measures were IRF-assessed overall response rate (ORR) per RECIST and mRECIST.
 
-Efficacy results are presented in Table 29 and Figure 7.
+Efficacy results are presented in Table 32 and Figure 9.
 
-Table 29: Efficacy Results from IMbrave150
+Table 32: Efficacy Results from IMbrave150
 
 |  | Intravenous Atezolizumab in combination with Bevacizumab (N= 336) | Sorafenib (N=165) |
 | --- | --- | --- |
@@ -456,7 +500,7 @@ Table 29: Efficacy Results from IMbrave150
 | Range (months) | (1.3+, 13.4+) | (1.4+, 9.1+) |
 | + Denotes a censored value CI = confidence interval; HCC mRECIST = Modified RECIST Assessment for Hepatocellular Carcinoma; NE = not estimable; RECIST 1.1 = Response Evaluation Criteria in Solid Tumors v1.1 |  |  |
 
-Figure 7: Kaplan-Meier Plot of Overall Survival in IMbrave150
+Figure 9: Kaplan-Meier Plot of Overall Survival in IMbrave150
 
 Exploratory analyses showed that the subset of patients (20%) who were ADA-positive by week 6 appeared to have reduced efficacy (effect on OS) as compared to patients (80%) who tested negative for treatment-emergent ADA by week 6 [see Clinical Pharmacology (12.6)].
 ADA-positive patients by week 6 appeared to have similar overall survival compared to sorafenib-treated patients.
@@ -492,10 +536,10 @@ Additional efficacy outcomes included PFS assessed by an independent central rev
 The median age of the study population was 54 years (range: 22–88), 58% of patients were male, 95% were White, a baseline ECOG performance status of 0 (77%) or 1 (23%), 33% had elevated LDH, 94% had metastatic disease, 60% were Stage IV (M1C), 56% had less than three metastatic sites at baseline, 3% had prior treatment for brain metastases, 30% had liver metastases at baseline, and 14% had received prior adjuvant systemic therapy.
 Based on central testing, 74% were identified as having a V600E mutation, 11% as having V600K mutation, and 1% as having V600D or V600R mutations.
 
-Efficacy results are summarized in Table 30 and Figure 8.
+Efficacy results are summarized in Table 33 and Figure 10.
 Patients had a median survival follow up time of 18.9 months.
 
-Table 30: Efficacy Results from IMspire150
+Table 33: Efficacy Results from IMspire150
 
 |  | Intravenous Atezolizumab + Cobimetinib + Vemurafenib N = 256 | Placebo + Cobimetinib + Vemurafenib N = 258 |
 | --- | --- | --- |
@@ -514,7 +558,7 @@ Table 30: Efficacy Results from IMspire150
 | Median, months | 20.4 | 12.5 |
 | (95% CI) | (15.1, NE) | (10.7, 16.6) |
 
-Figure 8: Kaplan-Meier Plot for Progression-Free Survival in IMspire150
+Figure 10: Kaplan-Meier Plot for Progression-Free Survival in IMspire150
 
 At a pre-specified analysis at the time of the primary analysis of PFS, the OS data were not mature.
 The median OS was 28.8 months with 93 (36%) deaths in the intravenous atezolizumab plus cobimetinib and vemurafenib arm, and 25.1 months with 112 (43%) deaths in the placebo plus cobimetinib and vemurafenib arm.
@@ -527,7 +571,7 @@ TECENTRIQ HYBREZA is not indicated for the treatment of pediatric patients.
 Below is a description of the efficacy results of intravenous atezolizumab in this adequate and well-controlled ASPS trial.
 
 The efficacy of intravenous atezolizumab was evaluated in study ML39345 (NCT03141684), an open-label, single-arm study, in 49 adult and pediatric patients aged 2 years and older with unresectable or metastatic ASPS.
-Although this study enrolled pediatric patients, TECENTRIC HYBREZA is not indicated for use in pediatric patients.
+Although this study enrolled pediatric patients, TECENTRIQ HYBREZA is not indicated for use in pediatric patients.
 Eligible patients were required to have histologically or cytologically confirmed ASPS that was not curable by surgery, and an ECOG performance status of ≤ 2.
 
 Patients were excluded if they had known primary central nervous system (CNS) malignancy or symptomatic CNS metastases, known clinically significant liver disease, or history of idiopathic pulmonary fibrosis, pneumonitis, organizing pneumonia, or evidence of active pneumonitis on screening chest computed tomography (CT) scan.
@@ -541,9 +585,9 @@ The median age of patients was 31 years (range: 12–70); 2% of adult patients (
 All patients had prior surgery for ASPS and 55% received at least one prior line of treatment for ASPS; 55% received radiotherapy and 53% received chemotherapy.
 Of the patients who reported staging at initial diagnosis, all were Stage IV.
 
-Efficacy results of this study are summarized in Table 31.
+Efficacy results of this study are summarized in Table 34.
 
-Table 31: Efficacy Results from Study ML39345
+Table 34: Efficacy Results from Study ML39345
 
 | Endpoint | All Patients (N=49) |
 | --- | --- |

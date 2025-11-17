@@ -62,13 +62,26 @@ The safety and effectiveness of TECENTRIQ HYBREZA have not been established in p
 
 ## 8.5 Geriatric Use
 
+TECENTRIQ HYBREZA as a Single-Agent
+
 Of 247 adult patients treated with TECENTRIQ HYBREZA as monotherapy in IMscin001, 45% were 65 years and over and 10% were 75 years and over.
 No overall differences in safety or effectiveness of TECENTRIQ HYBREZA have been observed between patients aged 65 years or older and younger adult patients.
 
 The safety of TECENTRIQ HYBREZA as monotherapy or in combination with other antineoplastic drugs for its approved indications [see Indications and Usage (1.1, 1.2, 1.3, 1.4, 1.5)] has been established in adequate and well-controlled studies of intravenous atezolizumab as a single agent and in combination with other antineoplastic drugs.
 Below is a description of geriatric use information from the intravenous atezolizumab studies.
 
-- Of 2,616 adult patients with metastatic NSCLC and other tumor types treated with monotherapy intravenous atezolizumab in clinical studies, 49% were 65 years and over and 15% were 75 years and over.
-- Of 2,421 adult patients with NSCLC and EC-SCLC treated with intravenous atezolizumab in combination with other antineoplastic drugs in clinical studies, 48% were 65 years and over and 10% were 75 years and over.
+Intravenous Atezolizumab as a Single-Agent
 
+Of 2,616 adult patients with metastatic NSCLC and other tumor types treated with monotherapy intravenous atezolizumab in clinical studies, 49% were 65 years and over and 15% were 75 years and over.
+No overall differences in safety or effectiveness were observed between intravenous atezolizumab-treated patients aged 65 years or older and younger patients.
+
+Intravenous Atezolizumab in Combination with Other Antineoplastic Drugs
+
+Of 2,421 adult patients with NSCLC and EC-SCLC treated with intravenous atezolizumab in combination with other antineoplastic drugs in clinical studies, 48% were 65 years and over and 10% were 75 years and over.
 No overall differences in safety or effectiveness were observed between intravenous atezolizumab-treated patients aged 65 years or older and younger adult patients.
+
+Intravenous Atezolizumab in Combination with Lurbinectedin
+
+Of 242 adult patients with ES-SCLC treated with intravenous atezolizumab in combination with lurbinectedin in IMforte, 124 (51%) patients were 65 years of age and older, while 29 (12%) patients were 75 years of age and older.
+No overall differences in effectiveness were observed between older and younger patients.
+There was a higher incidence of Grade 3 or 4 adverse reactions (45% vs 31%) and treatment discontinuation (11% vs 0.8%) in patients ≥ 65 years of age compared to younger patients, respectively.
