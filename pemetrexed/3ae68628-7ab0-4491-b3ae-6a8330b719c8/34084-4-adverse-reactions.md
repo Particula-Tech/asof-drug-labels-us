@@ -2,11 +2,11 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Myelosuppression [see Warnings and Precautions (5.1)]
-- Renal failure [see Warnings and Precautions (5.2)]
-- Bullous and exfoliative skin toxicity [see Warnings and Precautions (5.3)]
-- Interstitial pneumonitis [see Warnings and Precautions (5.4)]
-- Radiation recall [see Warnings and Precautions (5.5)]
+- •Myelosuppression [see Warnings and Precautions (5.1)]
+- •Renal failure [see Warnings and Precautions (5.2)]
+- •Bullous and exfoliative skin toxicity [see Warnings and Precautions (5.3)]
+- •Interstitial pneumonitis [see Warnings and Precautions (5.4)]
+- •Radiation recall [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -295,9 +295,9 @@ Table 7: Exploratory Subgroup Analysis of Selected Grade 3/4 Adverse Reactions O
 
 The following adverse reactions occurred more frequently in patients who were fully vitamin supplemented than in patients who were never supplemented:
 
-- hypertension (11% versus 3%),
-- chest pain (8% versus 6%),
-- thrombosis/embolism (6% versus 3%).
+- •hypertension (11% versus 3%),
+- •chest pain (8% versus 6%),
+- •thrombosis/embolism (6% versus 3%).
 
 Additional Experience Across Clinical Trials
 
