@@ -170,6 +170,10 @@ Doravirine:
 
 Skin and Subcutaneous Tissue Disorders: Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN)
 
+Hepatobiliary Disorders: hepatitis
+
+Investigations: hepatic enzyme increased
+
 Lamivudine:
 
 Body as a Whole: redistribution/accumulation of body fat
