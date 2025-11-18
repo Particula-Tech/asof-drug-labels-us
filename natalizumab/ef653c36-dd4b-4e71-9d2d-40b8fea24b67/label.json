@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761322"
+  ],
+  "inn": "natalizumab",
+  "labeler": "Sandoz Inc",
+  "package_ndcs": [
+    "61314-543-94"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "natalizumab-sztn",
+      "name": "TYRUKO"
+    }
+  ],
+  "setid": "ef653c36-dd4b-4e71-9d2d-40b8fea24b67",
+  "source": "dailymed"
+}
