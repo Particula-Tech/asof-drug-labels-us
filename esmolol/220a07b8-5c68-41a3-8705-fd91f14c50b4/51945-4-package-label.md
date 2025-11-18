@@ -2,13 +2,29 @@
 
 LOT EXP
 
-NDC 10019-668-10 BREVIBLOC PREMIXED DOUBLE STRENGTH Injection Esmolol Hydrochloride in Sodium Chloride 2,000 mg/100 mL (20 mg/mL)
+NDC 10019-668-10 BREVIBLOC DOUBLE STRENGTH Injection Esmolol Hydrochloride in Sodium Chloride 2,000 mg/100 mL (20 mg/mL)
 
-100 mL Iso-Osmotic • No Preservative Added Single Intravenous Use Only Each mL contains 20 mg Esmolol Hydrochloride USP 4.1 mg Sodium Chloride USP in Water for Injection USP Buffered with 2.8 mg Sodium Acetate Trihydrate USP and 0.546 mg Glacial Acetic Acid USP pH adjusted with sodium hydroxide and/or hydrochloric acid pH 5.0 (4.5-5.5) Sterile Nonpyrogenic USUAL DOSAGE See package insert CAUTIONS Check for leaks by squeezing container firmly If leaks are found discard as sterility may be impaired Use only if solution is clear colorless to light yellow Discard unused portion DO NOT INTRODUCE ADDITIVES Must not be used in series connections Store at 25°C (77°F) Excursions permitted to 15°-30°C (59°-86°F) [See USP Controlled Room Temperature] PROTECT FROM FREEZING Avoid excessive heat Rx only
+100 mL Single-Dose Container Discard Unused Portion
 
-MANUFACTURED BY Baxter Logo USA novaplus logo
+Rx Only
 
-0725005676 2J1416
+For Intravenous Use Only
+
+EACH ML CONTAINS 20 mg ESMOLOL HYDROCHLORIDE USP 4.1 mg SODIUM CHLORIDE USP IN WATER FOR INJECTION USP BUFFERED WITH 2.8 mg SODIUM ACETATE TRIHYDRATE USP AND 0.546 mg GLACIAL ACETIC ACID USP pH ADJUSTED WITH SODIUM HYDROXIDE AND/OR HYDROCHLORIC ACID pH 5.0 (4.5-5.5) STERILE NONPYROGENIC
+
+RECOMMENDED DOSAGE: SEE PRESCRIBING INFORMATION
+
+CAUTIONS: CHECK FOR LEAKS BY SQUEEZING CONTAINER FIRMLY IF LEAKS ARE FOUND DISCARD AS STERILITY MAY BE IMPAIRED USE ONLY IF SOLUTION IS CLEAR COLORLESS TO LIGHT YELLOW
+
+DO NOT INTRODUCE ADDITIVES
+
+MUST NOT BE USED IN SERIES CONNECTIONS
+
+STORE AT 25°C (77°F) EXCURSIONS PERMITTED TO 15°-30°C (59°-86°F) [SEE USP CONTROLLED ROOM TEMPERATURE] PROTECT FROM FREEZING AVOID EXCESSIVE HEAT
+
+NovaPlus Logo 0725006216 2J1416
+
+MANUFACTURED BY Baxter Logo USA
 
 LOT EXP
 
