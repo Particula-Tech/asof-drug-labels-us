@@ -18,3 +18,5 @@ Store at controlled room temperature 20° to 25°C (68° to 77°F) [see USP].
 
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
+
+For medical information about DEPO-MEDROL, please visit www.pfizermedinfo.com or call 1-800-438-1985.

@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS: Pediatric Use)
+NOTE: CONTAINS BENZYL ALCOHOL (see WARNINGS and PRECAUTIONS: Pediatric Use).
 
 Because of possible physical incompatibilities, DEPO-MEDROL Sterile Aqueous Suspension should not be diluted or mixed with other solutions.
 
@@ -18,7 +18,7 @@ If after long-term therapy the drug is to be stopped, it is recommended that it 
 Therapy with DEPO-MEDROL does not obviate the need for the conventional measures usually employed.
 Although this method of treatment will ameliorate symptoms, it is in no sense a cure and the hormone has no effect on the cause of the inflammation.
 
-### 1. Rheumatoid Arthritis and Osteoarthritis
+### 1. Rheumatoid Arthritis and Osteoarthritis:
 
 The dose for intra-articular administration depends upon the size of the joint and varies with the severity of the condition in the individual patient.
 In chronic cases, injections may be repeated at intervals ranging from one to five or more weeks, depending upon the degree of relief obtained from the initial injection.
@@ -30,7 +30,7 @@ The doses in the following table are given as a general guide:
 | Medium | Elbows Wrists | 10 to 40 mg |
 | Small | Metacarpophalangeal Interphalangeal Sternoclavicular Acromioclavicular | 4 to 10 mg |
 
-#### Procedure
+#### Procedure:
 
 It is recommended that the anatomy of the joint involved be reviewed before attempting intra-articular injection.
 In order to obtain the full anti-inflammatory effect, it is important that the injection be made into the synovial space.
@@ -52,14 +52,14 @@ If failures occur when injections into the synovial spaces are certain, as deter
 
 If a local anesthetic is used prior to injection of DEPO-MEDROL, the anesthetic package insert should be read carefully and all the precautions observed.
 
-### 2. Bursitis
+### 2. Bursitis:
 
 The area around the injection site is prepared in a sterile way and a wheal at the site made with 1 percent procaine hydrochloride solution.
 A 20 to 24 gauge needle attached to a dry syringe is inserted into the bursa and the fluid aspirated.
 The needle is left in place and the aspirating syringe changed for a small syringe containing the desired dose.
 After injection, the needle is withdrawn and a small dressing applied.
 
-### 3. Miscellaneous: Ganglion, Tendinitis, Epicondylitis
+### 3. Miscellaneous: Ganglion, Tendinitis, Epicondylitis:
 
 In the treatment of conditions such as tendinitis or tenosynovitis, care should be taken following application of a suitable antiseptic to the overlying skin to inject the suspension into the tendon sheath rather than into the substance of the tendon.
 The tendon may be readily palpated when placed on a stretch.
@@ -71,15 +71,14 @@ The usual sterile precautions should be observed, of course, with each injection
 The dose in the treatment of the various conditions of the tendinous or bursal structures listed above varies with the condition being treated and ranges from 4 to 30 mg.
 In recurrent or chronic conditions, repeated injections may be necessary.
 
-### 4. Injections for Local Effect in Dermatologic Conditions
+### 4. Injections for Local Effect in Dermatologic Conditions:
 
 Following cleansing with an appropriate antiseptic such as 70% alcohol, 20 to 60 mg is injected into the lesion.
 It may be necessary to distribute doses ranging from 20 to 40 mg by repeated local injections in the case of large lesions.
 Care should be taken to avoid injection of sufficient material to cause blanching since this may be followed by a small slough.
 One to four injections are usually employed, the intervals between injections varying with the type of lesion being treated and the duration of improvement produced by the initial injection.
 
-When multidose vials are used, special care to prevent contamination of the contents is essential.
-(see WARNINGS).
+When multidose vials are used, special care to prevent contamination of the contents is essential (see WARNINGS).
 
 ## B. Administration for Systemic Effect
 

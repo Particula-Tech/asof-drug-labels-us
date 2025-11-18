@@ -50,7 +50,7 @@ There have been cases reported in which concomitant use of amphotericin B and hy
 
 ## Endocrine
 
-Hypothalamic-pituitary adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia: Monitor patients for these conditions with chronic use.
+Hypothalamic-pituitary adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia: monitor patients for these conditions with chronic use.
 
 Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
 Drug induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
@@ -74,47 +74,33 @@ Monitor for the development of infection and consider DEPO-MEDROL withdrawal or 
 
 Do not administer DEPO-MEDROL by an intraarticular, intrabursal, intratendinous or intralesional route in the presence of acute local infection.
 
-## Tuberculosis
-
-If DEPO-MEDROL is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, as reactivation of the disease may occur.
+Tuberculosis: If DEPO-MEDROL is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, as reactivation of the disease may occur.
 Closely monitor such patients for reactivation.
 During prolonged DEPO-MEDROL therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
 
-## Varicella Zoster and Measles Viral Infections
-
-Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including DEPO-MEDROL.
+Varicella Zoster and Measles Viral Infections: Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including DEPO-MEDROL.
 In corticosteroid treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles:
 
 - •If a DEPO-MEDROL-treated patient is exposed to varicella, prophylaxis with varicella zoster immune globulin (VZIG) may be indicated.
   If varicella develops, treatment with antiviral agents may be considered.
 - •If a DEPO-MEDROL-treated patient is exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
 
-## Hepatitis B Virus Reactivation
-
-Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including DEPO-MEDROL.
-Reactivation can also occur infrequently in corticosteroid‑treated patients who appear to have resolved hepatitis B infection.
+Hepatitis B Virus Reactivation: Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including DEPO-MEDROL.
+Reactivation can also occur infrequently in corticosteroid-treated patients who appear to have resolved hepatitis B infection.
 
 Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with DEPO-MEDROL.
 For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
 
-## Fungal Infections
-
-Corticosteroids, including DEPO-MEDROL, may exacerbate systemic fungal infections; therefore, avoid DEPO-MEDROL use in the presence of such infections unless DEPO-MEDROL is needed to control drug reactions.
+Fungal Infections: Corticosteroids, including DEPO-MEDROL, may exacerbate systemic fungal infections; therefore, avoid DEPO-MEDROL use in the presence of such infections unless DEPO-MEDROL is needed to control drug reactions.
 For patients on chronic DEPO-MEDROL therapy who develop systemic fungal infections, DEPO-MEDROL withdrawal or dosage reduction is recommended.
 
-## Amebiasis
-
-Corticosteroids, including DEPO-MEDROL, may activate latent amebiasis.
+Amebiasis: Corticosteroids, including DEPO-MEDROL, may activate latent amebiasis.
 Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating DEPO-MEDROL in patients who have spent time in the tropics or patients with unexplained diarrhea.
 
-## Strongyloides Infestation
-
-Corticosteroids, including DEPO-MEDROL, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
+Strongyloides Infestation: Corticosteroids, including DEPO-MEDROL, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
 In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
-## Cerebral Malaria
-
-Avoid corticosteroids, including DEPO-MEDROL, in patients with cerebral malaria.
+Cerebral Malaria: Avoid corticosteroids, including DEPO-MEDROL, in patients with cerebral malaria.
 
 ## Vaccinations
 
@@ -140,8 +126,7 @@ Discontinuation of corticosteroids may result in clinical improvement of Kaposi�
 ## General
 
 When multidose vials are used, special care to prevent contamination of the contents is essential.
-A povidone-iodine solution or similar product is recommended to cleanse the vial top prior to aspiration of contents.
-(see WARNINGS).
+A povidone-iodine solution or similar product is recommended to cleanse the vial top prior to aspiration of contents (see WARNINGS).
 
 This product, like many other steroid formulations, is sensitive to heat.
 Therefore, it should not be autoclaved when it is desirable to sterilize the outside of the vial.
@@ -283,9 +268,7 @@ Corticosteroids should be used during pregnancy only if the potential benefit ju
 Infants born to mothers who have received corticosteroids during pregnancy should be carefully observed for signs of hypoadrenalism.
 
 This product contains benzyl alcohol as a preservative.
-
-Benzyl alcohol can cross the placenta.
-See PRECAUTIONS: Pediatric use.
+Benzyl alcohol can cross the placenta (see PRECAUTIONS: Pediatric use).
 
 ## Nursing Mothers
 
