@@ -13,7 +13,7 @@ Neuropsychiatric Adverse Events and Suicide Risk in Smoking Cessation Treatment
 
 Although Wellbutrin XL is not indicated for smoking cessation treatment, it contains the same active ingredient as ZYBAN which is approved for this use.
 Inform patients that some patients have experienced changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation and suicide when attempting to quit smoking while taking bupropion.
-Instruct patients to discontinue Wellbutrin XL and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2)and Adverse Reactions (6.2)].
+Instruct patients to discontinue Wellbutrin XL and contact a healthcare professional if they experience such symptoms [see Warnings and Precautions (5.2) and Adverse Reactions (6.2)].
 
 Severe Allergic Reactions
 
@@ -59,24 +59,16 @@ Instruct patients if they miss a dose, not to take an extra tablet to make up fo
 Instruct patients that Wellbutrin XL tablets should be swallowed whole and not crushed, divided, or chewed.
 Wellbutrin XL should be administered in the morning and may be taken with or without food.
 
-Distributed by:
+Distributed by: Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
-Bausch Health US, LLC
-
-Bridgewater, NJ 08807 USA
-
-Manufactured by:
-
-Bausch Health Companies Inc.
-
-Steinbach, MB R5G 1Z7, Canada
+Manufactured by: Bausch Health Companies Inc. Steinbach, MB R5G 1Z7, Canada
 
 Wellbutrin XL is a registered trademark of GlaxoSmithKline LLC used under license.
 
-APLENZIN is a trademark of Bausch Health Companies Inc. or its affiliates.
+APLENZIN is a registered trademark of Bausch Health Companies Inc. or its affiliates.
 
 All other product/brand names and/or logos are the trademarks of the respective owners.
 
-© 2024 Bausch Health Companies Inc. or its affiliates
+© 2025 Bausch Health Companies Inc. or its affiliates
 
-1. 9395610 20005573
+9395611 XXXXXXXX
