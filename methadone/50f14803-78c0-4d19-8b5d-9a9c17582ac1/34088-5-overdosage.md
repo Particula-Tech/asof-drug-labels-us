@@ -19,9 +19,9 @@ Cardiac arrest or arrhythmias will require advanced life-support measures.
 
 For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid overdose reversal agent such as naloxone or nalmefene.
 
-Because the duration of reversal would be expected to be less than the duration of action of methadone in Methadone Hydrochloride Tablets, carefully monitor the patient until spontaneous respiration is reliably reestablished.
-If the response to opioid antagonists is suboptimal or not sustained, administer additional antagonist as directed in the product’s prescribing information.
+Because the duration of opioid reversal is expected to be less than the duration of action of methadone in Methadone Hydrochloride Tablets, carefully monitor the patient until spontaneous respiration is reliably re-established.
+If the response to an opioid overdose reversal agent is suboptimal or only brief in nature, administer additional reversal agent as directed in the product’s prescribing information.
 
-In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
-The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
-If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be begun with care and by titration with smaller than usual doses of the antagonist.
+In an individual physically dependent on opioids, administration of the recommended dosage of the opioid overdose reversal agent will precipitate an acute withdrawal syndrome.
+The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the reversal agent administered.
+If a decision is made to treat serious respiratory depression in the physically-dependent patient, administration of the reversal agent should begin with care and by titration with smaller than usual doses of the reversal agent.

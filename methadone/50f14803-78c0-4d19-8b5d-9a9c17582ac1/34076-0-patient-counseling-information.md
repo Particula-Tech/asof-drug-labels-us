@@ -32,7 +32,7 @@ Instruct patients to seek medical attention immediately if they experience sympt
 
 Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if Methadone Hydrochloride Tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if Methadone Hydrochloride Tablets are used with benzodiazepines or other CNS depressants (e.g., alcohol, non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
@@ -129,4 +129,4 @@ Instruct patients how to recognize the symptoms of low blood glucose and to cont
 
 Distributed by: Hikma Pharmaceuticals USA Inc. Berkeley Heights, NJ 07922
 
-C50000962/06 Revised August 2025
+C50000962/06 Revised October 2025

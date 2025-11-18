@@ -61,12 +61,14 @@ Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been report
 
 Hypoglycemia: Cases of hypoglycemia have been reported in patients taking methadone [see Warnings and Precautions (5.18)].
 
-Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids, and may occur more frequently in patients taking higher doses of opioid, and/or in patients taking opioids longer term [see Warnings and Precautions (5.14)].
+Opioid-induced esophageal dysfunction (OIED)
+
+Cases of OIED have been reported in patients taking opioids and may occur more frequently in patients taking higher doses of opioids, and/or in patients taking opioids longer term [see Warnings and Precautions (5.14)].
 
 Adverse Reactions from Observational Studies
 
 A prospective, observational cohort study estimated the risks of addiction, abuse, and misuse in patients initiating long-term use of Schedule II opioid analgesics between 2017 and 2021.
-Study participants included in one or more analyses had been enrolled in selected insurance plans or health systems for at least one year, were free of at least one outcome at baseline, completed a minimum number of follow-up assessments, and either: 1) filled multiple extended-release/long-acting opioid analgesic prescriptions during a 90 day period (n=978); or 2) filled any Schedule II opioid analgesic for at least 70 of 90 days (n=1,244).
+Study participants included in one or more analyses had been enrolled in selected insurance plans or health systems for at least one year, were free of at least one outcome at baseline, completed a minimum number of follow-up assessments, and either: 1) filled multiple extended-release/long-acting opioid analgesic prescriptions during a 90 day period (n=978); or 2) filled any Schedule II opioid analgesic prescriptions covering at least 70 of 90 days (n=1,244).
 Those included also had no dispensing of the qualifying opioids in the previous 6 months.
 
 Over 12 months:
