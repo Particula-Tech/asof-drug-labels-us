@@ -36,7 +36,7 @@ NDC 23155-773-10 bottles of 1000 (with desiccant)
 
 Storage
 
-Store at 25°C (77°F); excursions permitted to 15° to 30°C (59° to 86°F) [see USP Controlled Room Temperature].
+Store at 20º to 25ºC (68º to 77ºF) [See USP Controlled Room Temperature].
 
 Keep container tightly closed.
 Protect from moisture.
@@ -55,4 +55,4 @@ East Brunswick, NJ 08816
 
 51U000000368US02
 
-Revised: 11/2023
+Revised: 11/2025
