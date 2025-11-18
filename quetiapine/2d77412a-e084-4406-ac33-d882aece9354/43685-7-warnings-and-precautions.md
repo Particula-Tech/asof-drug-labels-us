@@ -340,8 +340,7 @@ Of the quetiapine treated patients with elevated TSH levels, 3 had simultaneous 
 About 0.7% (26/3489) of quetiapine patients did experience TSH increases in monotherapy studies.
 Some patients with TSH increases needed replacement thyroid treatment.
 
-In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were Based on shifts from normal baseline to potentially clinically important value at anytime post-baseline.
-Shifts in total T4, free T4, total T3 and free T3 are defined as < 0.8 x LLN (pmol/L) and shift in TSH is > 5 mlU/L at any time.: decrease in free T4 (<0.8 LLN), 2.0% (357/17513); decrease in total T 4(< 0.8 LLN), 4.0% (75/1861); decrease in free T 3(< 0.8 LLN), 0.4% (53/13766); decrease in total T 3(< 0.8 LLN), 2.0% (26/1312), and increase in TSH(> 5mIU/L), 4.9% (956/19412).
+In all quetiapine trials, the incidence of shifts in thyroid hormones and TSH were decrease in free T4 (<0.8 LLN), 2.0% (357/17513); decrease in total T 4(< 0.8 LLN), 4.0% (75/1861); decrease in free T 3(< 0.8 LLN), 0.4% (53/13766); decrease in total T 3(< 0.8 LLN), 2.0% (26/1312), and increase in TSH(> 5mIU/L), 4.9% (956/19412).
 In eight patients, where TBG was measured, levels of TBG were unchanged.
 
 Table 8 shows the incidence of these shifts in short-term placebo-controlled clinical trials.
@@ -379,8 +378,8 @@ Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported in pati
 Long-standing hyperprolactinemia when associated with hypogonadism may lead to decreased bone density in both female and male subjects.
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
-As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary, and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats.
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive [see Nonclinical Toxicology (13.1)].
+As is common with compounds which increase prolactin release, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary, and pancreatic adenomas) was observed in carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## 5.16 Potential for Cognitive and Motor Impairment
 
