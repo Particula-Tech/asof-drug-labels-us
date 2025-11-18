@@ -8,11 +8,11 @@ Nitrofurantoin Capsules, USP
 
 100 mg*
 
+Rx only
+
 (Twice-a-day Dosage)
 
 URINARY TRACT ANTIBACTERIAL
-
-Rx only
 
 100 Capsules
 
