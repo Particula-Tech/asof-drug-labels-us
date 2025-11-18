@@ -103,5 +103,5 @@ No dosage adjustment is recommended for elderly patients.
 ## 8.6 Renal Impairment
 
 Varenicline is substantially eliminated by renal glomerular filtration along with active tubular secretion.
-Dose reduction is not required in patients with mild to moderate renal impairment.
+Dose reduction is not required in patients with mild-to-moderate renal impairment.
 For patients with severe renal impairment (estimated creatinine clearance <30 mL/min), and for patients with end-stage renal disease undergoing hemodialysis, dosage adjustment is needed [see Dosage and Administration (2.2), Clinical Pharmacology (12.3)].

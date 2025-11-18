@@ -103,7 +103,7 @@ This study assessed the effect of an additional 12 weeks of CHANTIX therapy on t
 Patients in this study (N=1927) were treated with open-label CHANTIX 1 mg twice daily for 12 weeks.
 Patients who had stopped smoking for at least a week by Week 12 (N= 1210) were then randomized to double-blind treatment with CHANTIX (1 mg twice daily) or placebo for an additional 12 weeks and then followed for 28 weeks post-treatment.
 
-The continuous abstinence rate from Week 13 through Week 24 was higher for patients continuing treatment with CHANTIX (70%) than for patients switching to placebo (50%).
+The Continuous Abstinence Rate from Week 13 through Week 24 was higher for patients continuing treatment with CHANTIX (70%) than for patients switching to placebo (50%).
 Superiority to placebo was also maintained during 28 weeks post-treatment follow-up (CHANTIX 54% versus placebo 39%).
 
 In Figure 3 below, the x-axis represents the study week for each observation, allowing a comparison of groups at similar times after discontinuation of CHANTIX; post-CHANTIX follow-up begins at Week 13 for the placebo group and Week 25 for the CHANTIX group.
@@ -140,7 +140,7 @@ Continuous Abstinence (95% confidence interval), Re-Treatment Study
 |  | CHANTIX 1 mg BID | Placebo | CHANTIX 1 mg BID | Placebo |
 | --- | --- | --- | --- | --- |
 |  | Weeks 9 through 12 |  | Weeks 9 through 52 |  |
-| Retreatment Study | 45% (39%, 51%) | 12% (8%, 16%) | 20% (15%, 25%) | 3% (1%, 5%) |
+| Re-treatment Study | 45% (39%, 51%) | 12% (8%, 16%) | 20% (15%, 25%) | 3% (1%, 5%) |
 | BID = twice daily |  |  |  |  |
 
 ## 14.7 Subjects with Chronic Obstructive Pulmonary Disease

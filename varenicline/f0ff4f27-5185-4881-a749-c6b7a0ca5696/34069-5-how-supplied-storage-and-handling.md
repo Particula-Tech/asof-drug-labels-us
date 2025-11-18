@@ -5,11 +5,9 @@ CHANTIX is supplied in the following package configurations:
 
 |  | Description | NDC |
 | --- | --- | --- |
-| Packs | Starting 4-week card: 0.5 mg × 11 tablets and 1 mg × 42 tablets | NDC 0069-0471-03 |
-|  | Continuing 4-week card: 1 mg × 56 tablets | NDC 0069-0469-03 |
-|  | Starting Month Box: 0.5 mg × 11 tablets and 1 mg × 42 tablets | NDC 0069-0471-03 |
-|  | Continuing Month Box: 1 mg × 56 tablets | NDC 0069-0469-03 |
+| Packs | Starting 4-week card: 0.5 mg × 11 tablets and 1 mg × 42 tablets | NDC 0069-0471-28 |
+|  | Continuing 4-week card: 1 mg × 56 tablets | NDC 0069-0469-28 |
 | Bottles | 0.5 mg - bottle of 56 | NDC 0069-0468-56 |
-|  | 1 mg - bottle of 56 | NDC 0069-0469-56 |
+| 1 mg - bottle of 56 | NDC 0069-0469-56 |  |
 
-Store at 25ºC (77ºF); excursions permitted to 15–30ºC (59–86ºF) (see USP Controlled Room Temperature).
+Store at 25ºC (77ºF); excursions permitted to 15ºC to 30ºC (59ºF to 86ºF) (see USP Controlled Room Temperature).

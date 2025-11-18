@@ -1,20 +1,6 @@
-# PRINCIPAL DISPLAY PANEL - 0.5 / 1 mg Tablet Starting Pack Carton
-
-Contains: 1 Starting Week (0.5 mg* x 11 tablets) 3 Continuing Weeks (1 mg† x 42 tablets)
-
-NDC 0069-0471-03 Rx only
-
-CHANTIX® (varenicline) TABLETS
-
-STARTING MONTH BOX (Your first 4 weeks)
-
-Use the Starting Week (green) blister card first when beginning to take Chantix.
-
-ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
-
 # PRINCIPAL DISPLAY PANEL - 0.5 mg / 1 mg Tablet Starting Pack
 
-NDC 0069-0471-03 Rx only
+NDC 0069-0471-28 Rx only
 
 CHANTIX® (varenicline) TABLETS
 
@@ -52,24 +38,12 @@ Chantix® (varenicline) tablets
 
 # PRINCIPAL DISPLAY PANEL - 1 mg x 56 Tablet Continuing Pack
 
-NDC 0069-0469-03 Rx only
+NDC 0069-0469-28 Rx only
 
 CHANTIX® (varenicline) TABLETS
 
 CONTINUING PACK
 
 Contains: 4 Continuing Weeks (1 mg† x 56 tablets)
-
-ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
-
-# PRINCIPAL DISPLAY PANEL - 1 mg x 56 Tablet Continuing Month Box
-
-Contains: 4 Continuing Weeks (1 mg† x 56 tablets)
-
-NDC 0069-0469-03 Rx only
-
-CHANTIX® (varenicline) TABLETS
-
-CONTINUING MONTH BOX (Your next 4 weeks)
 
 ALWAYS DISPENSE WITH ENCLOSED MEDICATION GUIDE
