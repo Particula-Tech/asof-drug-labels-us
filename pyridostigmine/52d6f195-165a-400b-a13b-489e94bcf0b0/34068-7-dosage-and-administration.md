@@ -54,7 +54,7 @@ Therefore, it is expected that pyridostigmine bromide will not be effective if a
 
 Duration
 
-At the first sign of nerve agent poisoning, discontinue pyridostigmine bromide and administer treatment with atropine and pralidoxime immediately [see Warnings and Precautions (5.1)].
+At the first sign of nerve agent poisoning, discontinue pyridostigmine bromide and administer pretreatment with atropine and pralidoxime immediately [see Warnings and Precautions (5.1)].
 
 The benefits and risks of use beyond 14 consecutive days have not been definitively established; therefore, evaluate continued use beyond 14 consecutive days in the context of the likelihood of exposure to soman nerve agent.
 

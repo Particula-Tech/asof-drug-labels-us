@@ -5,7 +5,7 @@
 Concomitant use of mefloquine and pyridostigmine bromide may have additive effects on the gastrointestinal tract, the most common of which is loose bowels.
 Additive effects on the atrial rate may also occur with concomitant use of mefloquine and pyridostigmine bromide.
 
-## 7.2 Other Anticholinesterase Drug
+## 7.2 Other Anticholinesterase Drugs
 
 Concomitant use of anticholinesterase drugs used in the treatment of glaucoma and pyridostigmine bromide may have an additive effect that may cause or exacerbate problems with night vision.
 
@@ -23,4 +23,4 @@ However, aminoglycoside antibiotics, local and some general anesthetics, antiarr
 
 ## 7.5 Drugs Converted to Pantothenic Acid
 
-Concomitant use of drugs that are converted to pantothenic acid in vivo (e.g., dexpanthenol) and pyridostigmine bromide, may have additive effects by increasing production of acetylcholine.
+Concomitant use of drugs that are converted to pantothenic acid in vivo (e.g., dexpanthenol) and pyridostigmine bromide may have additive effects by increasing production of acetylcholine.

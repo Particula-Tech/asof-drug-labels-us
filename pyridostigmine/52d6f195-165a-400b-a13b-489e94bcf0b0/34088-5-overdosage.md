@@ -2,7 +2,6 @@
 
 Overdosage of pyridostigmine bromide may result in cholinergic crisis, a state characterized by increasing muscle weakness that, through involvement of the muscles of respiration, may lead to death.
 Overdosage with pyridostigmine bromide must be differentiated from the acute manifestations of nerve agent poisoning, which may also be characterized by a cholinergic crisis.
-Atropine should be used to treat pyridostigmine bromide overdosage.
 
 Extremely high doses of pyridostigmine bromide may also produce central nervous system (CNS) symptoms of agitation, restlessness, confusion, visual hallucinations, and paranoid delusions.
 Electrolyte abnormalities, possibly resulting from high serum bromide concentrations, also have been reported.

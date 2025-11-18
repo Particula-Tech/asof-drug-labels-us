@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis and Mutagenesis and Impairment of Fertility
 
-Carcinogenesis
+Carcinogenicity
 
 Studies to evaluate the carcinogenic potential of pyridostigmine bromide have not been conducted.
 
