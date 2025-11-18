@@ -1,3 +1,15 @@
-NDC 16110-916-30 Tazorac® (tazarotene) Cream, 0.1% For Topical Use Only | Not for Ophthalmic Use 30 grams | Rx only almirall
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-915-30 - 30 grams 0.05% Tube Label
 
-NDC 16110-915-30 Tazorac® (tazarotene) Cream, 0.05% For Topical Use Only | Not for Ophthalmic Use 30 grams | Rx only almirall
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-915-30 - 30 grams 0.05% Carton Label
+
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-915-60 - 60 grams 0.05% Tube Label
+
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-915-60 - 60 grams 0.05% Carton Label
+
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-916-30 - 30 grams 0.1% Tube Label
+
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-916-30 - 30 grams 0.1% Carton Label
+
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-916-60 - 60 grams 0.1% Tube Label
+
+# PRINCIPAL DISPLAY PANEL - NDC: 16110-916-60 - 60 grams 0.1% Carton Label
