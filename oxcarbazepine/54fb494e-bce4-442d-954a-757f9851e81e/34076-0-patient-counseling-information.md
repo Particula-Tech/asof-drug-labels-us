@@ -56,5 +56,3 @@ Pregnancy Registry
 
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of AEDs during pregnancy [see Use in Specific Populations (8.1)].
-
-Dispense with Medication Guide available at: www.breckenridgepharma.com/prescription-products/

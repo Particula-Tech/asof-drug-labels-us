@@ -26,7 +26,6 @@ Absorption
 Based on MHD concentrations, oxcarbazepine tablets and suspension were shown to have similar bioavailability.
 
 After single-dose administration of oxcarbazepine tablets to healthy male volunteers under fasted conditions, the median tmax was 4.5 (range, 3 to 13) hours.
-
 Steady-state plasma concentrations of MHD are reached within 2 to 3 days in patients when oxcarbazepine tablets is given twice a day.
 At steady state the pharmacokinetics of MHD are linear and show dose proportionality over the dose range of 300 to 2400 mg/day.
 
@@ -46,7 +45,6 @@ Metabolism and Excretion
 Oxcarbazepine is rapidly reduced by cytosolic enzymes in the liver to its 10-monohydroxy metabolite, MHD, which is primarily responsible for the pharmacological effect of oxcarbazepine tablets.
 MHD is metabolized further by conjugation with glucuronic acid.
 Minor amounts (4% of the dose) are oxidized to the pharmacologically inactive 10,11-dihydroxy metabolite (DHD).
-
 Oxcarbazepine is cleared from the body mostly in the form of metabolites which are predominantly excreted by the kidneys.
 More than 95% of the dose appears in the urine, with less than 1% as unchanged oxcarbazepine.
 Fecal excretion accounts for less than 4% of the administered dose.
@@ -64,7 +62,7 @@ Comparisons of creatinine clearance in young and elderly volunteers indicate tha
 Pediatrics
 
 Weight-adjusted MHD clearance decreases as age and weight increases, approaching that of adults.
-The mean weight- adjusted clearance in children 2 years to < 4 years of age is approximately 80% higher on average than that of adults.
+The mean weight-adjusted clearance in children 2 years to < 4 years of age is approximately 80% higher on average than that of adults.
 Therefore, MHD exposure in these children is expected to be about one-half that of adults when treated with a similar weight-adjusted dose.
 The mean weight-adjusted clearance in children 4 to 12 years of age is approximately 40% higher on average than that of adults.
 Therefore, MHD exposure in these children is expected to be about three-quarters that of adults when treated with a similar weight-adjusted dose.
@@ -112,7 +110,6 @@ Oxcarbazepine was evaluated in human liver microsomes to determine its capacity 
 Results demonstrate that oxcarbazepine and its pharmacologically active 10-monohydroxy metabolite (MHD) have little or no capacity to function as inhibitors for most of the human cytochrome P450 enzymes evaluated (CYP1A2, CYP2A6, CYP2C9, CYP2D6, CYP2E1, CYP4A9, and CYP4A11) with the exception of CYP2C19 and CYP3A4/5.
 Although inhibition of CYP3A4/5 by oxcarbazepine and MHD did occur at high concentrations, it is not likely to be of clinical significance.
 The inhibition of CYP2C19 by oxcarbazepine and MHD can cause increased plasma concentrations of drugs that are substrates of CYP2C19, which is clinically relevant.
-
 In vitro, the UDP-glucuronyl transferase level was increased, indicating induction of this enzyme.
 Increases of 22% with MHD and 47% with oxcarbazepine were observed.
 As MHD, the predominant plasma substrate, is only a weak inducer of UDP-glucuronyl transferase, it is unlikely to have an effect on drugs that are mainly eliminated by conjugation through UDP-glucuronyl transferase (e.g., valproic acid, lamotrigine).
@@ -132,9 +129,9 @@ Table 7: Summary of Antiepileptic Drug Interactions With Oxcarbazepine Tablets
 
 | AED coadministered | Dose of AED (mg/day) | Oxcarbazepine tablets dose (mg/day) | Influence of Oxcarbazepine tablets on AED concentration (mean change, 90% confidence interval) | Influence of AED on MHD concentration (mean change, 90% confidence interval) |
 | --- | --- | --- | --- | --- |
-| Carbamazepine | 400-2000 | 900 | nc nc denotes a mean change of less than 10% | 40% decrease [CI: 17% decrease, 57% decrease] |
+| Carbamazepine | 400-2000 | 900 | nc nc denotes a mean change of less than 10%. | 40% decrease [CI: 17% decrease, 57% decrease] |
 | Phenobarbital | 100-150 | 600-1800 | 14% increase [CI: 2% increase, 24% increase] | 25% decrease [CI: 12% decrease, 51% decrease] |
-| Phenytoin | 250-500 | 600-1800 >1200-2400 | nc, Pediatrics up to 40% increase Mean increase in adults at high oxcarbazepine tablets doses [CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |
+| Phenytoin | 250-500 | 600-1800 >1200-2400 | nc, Pediatrics. up to 40% increase Mean increase in adults at high oxcarbazepine tablets doses. [CI: 12% increase, 60% increase] | 30% decrease [CI: 3% decrease, 48% decrease] |
 | Valproic acid | 400-2800 | 600-1800 | nc | 18% decrease [CI: 13% decrease, 40% decrease] |
 | Lamotrigine | 200 | 1200 | nc | nc |
 | Abbreviations: AED, antiepileptic drugs; CI, confidence interval; MHD, 10-monohydroxy derivative. |  |  |  |  |

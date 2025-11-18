@@ -9,7 +9,7 @@ The effectiveness of oxcarbazepine tablets as monotherapy for partial-onset seiz
 Four randomized, controlled, double-blind, multicenter trials, conducted in a predominately adult population, demonstrated the efficacy of oxcarbazepine tablets as monotherapy.
 Two trials compared oxcarbazepine tablets to placebo and 2 trials used a randomized withdrawal design to compare a high dose (2400 mg) with a low dose (300 mg) of oxcarbazepine tablets, after substituting oxcarbazepine tablets 2400 mg/day for 1 or more AEDs.
 All doses were administered on a twice a day schedule.
-A fifth randomized, controlled, rater-blind, multicenter study, conducted in a pediatric population, failed to demonstrate a statistically significant difference between low- and high-dose oxcarbazepine tablets treatment groups.
+A fifth randomized, controlled, rater-blind, multicenter study, conducted in a pediatric population, failed to demonstrate a statistically significant difference between low- and high-dose oxcarbazepine tablets-treatment groups.
 
 One placebo-controlled trial was conducted in 102 patients (11 to 62 years of age) with refractory partial-onset seizures who had completed an inpatient evaluation for epilepsy surgery.
 Patients had been withdrawn from all AEDs and were required to have 2 to 10 partial-onset seizures within 48 hours prior to randomization.
@@ -49,7 +49,6 @@ Seizures were recorded through continuous video-EEG monitoring from Day 3 to Day
 Patients either completed the 5-day treatment or met 1 of the 2 exit criteria: 1) three study-specific seizures (i.e., electrographic partial-onset seizures with a behavioral correlate), 2) a prolonged study-specific seizure.
 The primary measure of effectiveness was a between-group comparison of the time to meet exit criteria in which the difference between the curves was not statistically significant (p = 0.904).
 The majority of patients from both dose groups completed the 5-day study without exiting.
-
 Although this study failed to demonstrate an effect of oxcarbazepine as monotherapy in pediatric patients, several design elements, including the short treatment and assessment period, the absence of a true placebo, and the likely persistence of plasma levels of previously administered AEDs during the treatment period, make the results uninterpretable.
 For this reason, the results do not undermine the conclusion, based on pharmacokinetic/pharmacodynamic considerations, that oxcarbazepine is effective as monotherapy in pediatric patients 4 years old and older.
 
@@ -73,7 +72,7 @@ It is important to note that in the high-dose group in the study in adults, over
 
 Table 8: Summary of Percentage Change in Partial-Onset Seizure Frequency From Baseline for Placebo-Controlled Adjunctive Therapy Trials
 
-| Trial | Treatment group | N | Baseline median seizure rate= number of seizures per 28 days | Median % reduction |
+| Trial | Treatment group | N | Baseline median seizure rate= number of seizures per 28 days. | Median % reduction |
 | --- | --- | --- | --- | --- |
 | 1 (pediatrics) | Oxcarbazepine tablets | 136 | 12.5 | 34.8p=0.0001. |
 | Placebo | 128 | 13.1 | 9.4 |  |

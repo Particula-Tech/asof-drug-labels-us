@@ -8,10 +8,9 @@ It is slightly soluble in chloroform, dichloromethane, acetone, and methanol and
 Its molecular weight is 252.27 g/mol.
 
 Oxcarbazepine film-coated tablets contain the following inactive ingredients: microcrystalline cellulose, crospovidone, hypromellose, colloidal silicon dioxide, magnesium stearate, talc.
-
-Coating: polyvinyl alcohol, talc, titanium dioxide, polyethylene glycol, Contains FD&C Yellow No. 6 as a color additive.FD&C Yellow No. 6 aluminum lake, lecithin, FD&C Blue No. 2 aluminum lake, Contains FD&C Yellow No. 5 as a color additive.
-[See WARNINGS AND PRECAUTIONS (5.12)].FD&C Yellow No. 5 aluminum lake.
-
+Coating: polyvinyl alcohol, talc, titanium dioxide, polyethylene glycol, Contains FD&C Yellow No. 6 as a color additive.
+FD&C Yellow No. 6 aluminum lake, lecithin, FD&C Blue No. 2 aluminum lake, Contains FD&C Yellow No. 5 as a color additive.
+[See Warnings and Precautions (5.12)].FD&C Yellow No. 5 aluminum lake.
 Allergen Statement: This product contains soy.
 
 Oxcarbazepine Tablets, USP complies with USP Dissolution Test 2.

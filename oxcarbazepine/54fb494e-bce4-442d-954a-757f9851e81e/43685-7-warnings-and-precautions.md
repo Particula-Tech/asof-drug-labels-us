@@ -3,7 +3,7 @@
 ## 5.1 Hyponatremia
 
 Clinically significant hyponatremia (sodium < 125 mmol/L) can develop during oxcarbazepine tablets use.
-In the 14 controlled epilepsy studies, 2.5% of oxcarbazepine tablets-treated patients (38/1,524) had a sodium of less than 125 mmol/L at some point during treatment, compared to no such patients assigned placebo or active control (carbamazepine and phenobarbital for adjunctive and monotherapy substitution studies, and phenytoin and valproate for the monotherapy initiation studies).
+In the 14 controlled epilepsy studies, 2.5% of oxcarbazepine tablets-treated patients (38/1524) had a sodium of less than 125 mmol/L at some point during treatment, compared to no such patients assigned placebo or active control (carbamazepine and phenobarbital for adjunctive and monotherapy substitution studies, and phenytoin and valproate for the monotherapy initiation studies).
 Clinically significant hyponatremia generally occurred during the first 3 months of treatment with oxcarbazepine tablets, although there were patients who first developed a serum sodium < 125 mmol/L more than 1 year after initiation of therapy.
 Most patients who developed hyponatremia were asymptomatic, but patients in the clinical trials were frequently monitored and some had their oxcarbazepine tablets dose reduced, discontinued, or had their fluid intake restricted for hyponatremia.
 Whether or not these maneuvers prevented the occurrence of more severe events is unknown.
@@ -133,7 +133,7 @@ In addition, 34.8% of oxcarbazepine-treated patients and 14.0% of placebo-treate
 Finally, 23.2% of oxcarbazepine-treated patients and 7.0% of placebo-treated patients experienced ataxia or gait disturbances.
 Two (1.4%) oxcarbazepine-treated patients and 1 (0.8%) placebo-treated patient discontinued due to ataxia or gait disturbances.
 
-## 5.8 Drug Reaction With Eosinophilia and Systemic Symptoms /Multi-Organ Hypersensitivity
+## 5.8 Drug Reaction With Eosinophilia and Systemic Symptoms/Multi-Organ Hypersensitivity
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has occurred with oxcarbazepine tablets.
 Some of these events have been fatal or life-threatening.

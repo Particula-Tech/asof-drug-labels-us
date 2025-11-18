@@ -19,7 +19,7 @@ Patients should be observed closely during this transition phase.
 ## 2.3 Initiation of Monotherapy for Adults
 
 Patients not currently being treated with AEDs may have monotherapy initiated with oxcarbazepine tablets.
-In these patients, initiate oxcarbazepine tablets at a dose of 600 mg/day (given a twice a day); the dose should be increased by 300 mg/day every third day to a dose of 1200 mg/day.
+In these patients, initiate oxcarbazepine tablets at a dose of 600 mg/day (given twice a day); the dose should be increased by 300 mg/day every third day to a dose of 1200 mg/day.
 Controlled trials in these patients examined the effectiveness of a 1200 mg/day dose; a dose of 2400 mg/day has been shown to be effective in patients converted from other AEDs to oxcarbazepine tablets monotherapy (see above).
 
 ## 2.4 Adjunctive Therapy for Pediatric Patients (Aged 2–16 Years)
@@ -27,9 +27,9 @@ Controlled trials in these patients examined the effectiveness of a 1200 mg/day 
 In pediatric patients aged 4–16 years, initiate oxcarbazepine tablets at a daily dose of 8 to 10 mg/kg generally not to exceed 600 mg/day, given twice a day.
 The target maintenance dose of oxcarbazepine tablets should be achieved over 2 weeks, and is dependent upon patient weight, according to the following chart:
 
-- 20 to 29 kg– 900 mg/day
-- 29.1 to 39 kg– 1200 mg/day
-- 39 kg– 1800 mg/day
+- 20 to 29 kg – 900 mg/day
+- 29.1 to 39 kg – 1200 mg/day
+- 39 kg – 1800 mg/day
 
 In the clinical trial, in which the intention was to reach these target doses, the median daily dose was 31 mg/kg with a range of 6 to 51 mg/kg.
 
@@ -38,7 +38,6 @@ For patients less than 20 kg, a starting dose of 16 to 20 mg/kg may be considere
 The maximum maintenance dose of oxcarbazepine tablets should be achieved over 2 to 4 weeks and should not exceed 60 mg/kg/day in a twice a day regimen.
 
 In the clinical trial in pediatric patients (2 to 4 years of age), in which the intention was to reach the target dose of 60 mg/kg/day, 50% of patients reached a final dose of at least 55 mg/kg/day.
-
 Under adjunctive therapy (with and without enzyme-inducing AEDs), when normalized by body weight, apparent clearance (L/hr/kg) decreased when age increased such that children 2 to < 4 years of age may require up to twice the oxcarbazepine dose per body weight compared to adults; and children 4 to ≤ 12 years of age may require a 50% higher oxcarbazepine dose per body weight compared to adults.
 
 Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain AEDs [see Drug Interactions (7.1, 7.2)].

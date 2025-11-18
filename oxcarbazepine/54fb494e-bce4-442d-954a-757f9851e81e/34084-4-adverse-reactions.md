@@ -45,7 +45,7 @@ The most common (≥ 5%) adverse reactions with oxcarbazepine tablets in these p
 Approximately 9.2% of 152 pediatric patients discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated (≥ 1%) with discontinuation were rash (5.3%) and maculopapular rash (1.3%).
 
-Adjunctive Therapy/Monotherapy in Pediatric Patients 1 Month to < 4 Years Old Previously Treated or Not Previously Treated With Other AEDs:
+Adjunctive Therapy/Monotherapy in Pediatric Patients 1 Month to < 4 Years Old Previously Treated or Not Previously Treated with Other AEDs:
 
 The most common (≥ 5%) adverse reactions with oxcarbazepine tablets in these patients were similar to those seen in older children and adults, except for infections and infestations which were more frequently seen in these younger children.
 
@@ -63,7 +63,7 @@ Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy 
 
 | Body system/ Adverse reaction | OXC 600 N = 163 % | OXC 1200 N = 171 % | OXC 2400 N = 126 % | Placebo N = 166 % |
 | --- | --- | --- | --- | --- |
-|  | Oxcarbazepine tablets Dosage (mg/day) |  |  |  |
+|  | Oxcarbazepine Tablets Dosage (mg/day) |  |  |  |
 | Body as a whole |  |  |  |  |
 | Fatigue | 15 | 12 | 15 | 7 |
 | Asthenia | 6 | 3 | 6 | 5 |
@@ -75,7 +75,7 @@ Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy 
 | Digestive system |  |  |  |  |
 | Nausea | 15 | 25 | 29 | 10 |
 | Vomiting | 13 | 25 | 36 | 5 |
-| Abdominal Pain | 10 | 13 | 11 | 5 |
+| Abdominal pain | 10 | 13 | 11 | 5 |
 | Diarrhea | 5 | 6 | 7 | 6 |
 | Dyspepsia | 5 | 5 | 6 | 2 |
 | Constipation | 2 | 2 | 6 | 4 |
@@ -118,6 +118,7 @@ Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy With Ox
 
 | Body system/ Adverse reaction | Oxcarbazepine tablets 2400 mg/day N = 86 % | Oxcarbazepine tablets 300 mg/day N = 86 % |
 | --- | --- | --- |
+|  | Oxcarbazepine Tablets Dosage (mg/day) |  |
 | Body as a whole |  |  |
 | Fatigue | 21 | 5 |
 | Fever | 3 | 0 |
@@ -223,7 +224,7 @@ Table 6 lists adverse reactions that occurred in at least 2% of pediatric patien
 
 Table 6: Adverse Reactions in Controlled Clinical Studies of Adjunctive Therapy/Monotherapy With Oxcarbazepine Tablets in Pediatric Patients Previously Treated With Other Antiepileptic Drugs
 
-| Body system/ Adverse reaction | Oxcarbazepine tablets N = 171 % | Placebo N = 139 % |
+| Body system/ Adverse reaction | Oxcarbazepine tablets N =171 % | Placebo N = 139 % |
 | --- | --- | --- |
 | Body as a whole |  |  |
 | Fatigue | 13 | 9 |
@@ -295,7 +296,6 @@ Laboratory Tests
 
 Serum sodium levels below 125 mmol/L have been observed in patients treated with oxcarbazepine tablets [see Warnings and Precautions (5.1)].
 Experience from clinical trials indicates that serum sodium levels return toward normal when the oxcarbazepine tablets dosage is reduced or discontinued, or when the patient was treated conservatively (e.g., fluid restriction).
-
 Laboratory data from clinical trials suggest that oxcarbazepine tablets use was associated with decreases in T4, without changes in T3 or TSH.
 
 ## 6.2 Postmarketing Experience
