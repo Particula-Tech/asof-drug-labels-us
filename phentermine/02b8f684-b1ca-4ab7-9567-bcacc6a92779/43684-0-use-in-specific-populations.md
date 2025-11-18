@@ -6,7 +6,7 @@ Pregnancy Category X
 
 Phentermine is contraindicated during pregnancy because weight loss offers no potential benefit to a pregnant woman and may result in fetal harm.
 A minimum weight gain, and no weight loss, is currently recommended for all pregnant women, including those who are already overweight or obese, due to obligatory weight gain that occurs in maternal tissues during pregnancy.
-Phentermine has pharmacologic activity similar to amphetamine (d- and d/l-amphetamine) [see Clinical Pharmacology (12.1)].
+Phentermine has pharmacologic activity similar to amphetamine (d- and d /l-amphetamine) [see Clinical Pharmacology (12.1)].
 Animal reproduction studies have not been conducted with phentermine.
 If this drug is used during pregnancy, or if the patient becomes pregnant while taking this drug, the patient should be apprised of the potential hazard to a fetus.
 
@@ -33,4 +33,4 @@ Based on the reported excretion of phentermine in urine, exposure increases can 
 [see Clinical Pharmacology (12.3)].
 
 Use caution when administering phentermine to patients with renal impairment.
-In patients with severe renal impairment (eGFR 15 to 29 mL/min/1.73m2), limit the dosage of phentermine to 15 mg daily [see Dosage and Administration (2.2)].Phentermine has not been studied in patients with eGFR less than 15 mL/min/1.73m2, including end-stage renal disease requiring dialysis; avoid use in these populations.
+In patients with severe renal impairment (eGFR 15 to 29 mL/min/1.73m 2), limit the dosage of phentermine to 15 mg daily [see Dosage and Administration (2.2)].Phentermine has not been studied in patients with eGFR less than 15 mL/min/1.73m 2, including end-stage renal disease requiring dialysis; avoid use in these populations.
