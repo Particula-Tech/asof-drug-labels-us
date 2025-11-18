@@ -30,7 +30,7 @@ Physical dependence is a state that develops as a result of physiological adapta
 Abrupt discontinuation or rapid dosage reduction of benzodiazepines or administration of flumazenil, a benzodiazepine antagonist, may precipitate acute withdrawal reactions, including seizures, which can be life-threatening.
 Patients at an increased risk of withdrawal adverse reactions after benzodiazepine discontinuation or rapid dosage reduction include those who take higher dosages (i.e., higher and/or more frequent doses) and those who have had longer durations of use (see WARNINGS: Dependence and Withdrawal Reactions).
 
-To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Ativan or reduce the dosage (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of Ativanand WARNINGS).
+To reduce the risk of withdrawal reactions, use a gradual taper to discontinue Ativan or reduce the dosage (see DOSAGE AND ADMINISTRATION: Discontinuation or Dosage Reduction of Ativan and WARNINGS).
 
 - Acute Withdrawal Signs and Symptoms
 - Acute withdrawal signs and symptoms associated with benzodiazepines have included abnormal involuntary movements, anxiety, blurred vision, depersonalization, depression, derealization, dizziness, fatigue, gastrointestinal adverse reactions (e.g., nausea, vomiting, diarrhea, weight loss, decreased appetite), headache, hyperacusis, hypertension, irritability, insomnia, memory impairment, muscle pain and stiffness, panic attacks, photophobia, restlessness, tachycardia, and tremor.

@@ -1,8 +1,8 @@
 # DESCRIPTION
 
-Ativan (lorazepam), an antianxiety agent, has the chemical formula, 7-chloro-5-(o-chlorophenyl)-1,3-dihydro-3-hydroxy-2 H-1,4-benzodiazepin-2-one:
+Ativan (lorazepam), an antianxiety agent, has the chemical formula, 7-chloro-5-(o-chlorophenyl)-1,3-dihydro-3-hydroxy-2H-1,4-benzodiazepin-2-one:
 
-C 15H 10Cl 2N 2O 2 M.W.
+C15H10Cl2N2O2 M.W.
 321.16
 
 It is a nearly white powder almost insoluble in water.

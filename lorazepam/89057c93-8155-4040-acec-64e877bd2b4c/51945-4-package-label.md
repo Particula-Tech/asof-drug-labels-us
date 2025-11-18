@@ -1,10 +1,10 @@
 # PRINCIPAL DISPLAY PANEL - 2.0 mg Bottle Label
 
-NDC0187-0065-01
+NDC 0187-0065-01
 
 Rx only
 
-Ativan ® (lorazepam) Tablets
+Ativan® (lorazepam) Tablets
 
 CIV SEALED FOR YOUR PROTECTION
 
@@ -18,11 +18,11 @@ BAUSCH Health
 
 # Package/Label Display Panel
 
-NDC0187-0064-01
+NDC 0187-0064-01
 
 Rx only
 
-Ativan ® (lorazepam) Tablets
+Ativan® (lorazepam) Tablets
 
 CIV SEALED FOR YOUR PROTECTION
 
@@ -34,13 +34,13 @@ PHARMACIST: Dispense the accompanying Medication Guide to each patient.
 
 BAUSCH Health
 
-# Package/Label Display Panel -.5 mg Bottle Label
+# Package/Label Display Panel 0.5 mg Bottle Label
 
 NDC0187-0063-01
 
 Rx only
 
-Ativan ® (lorazepam) Tablets
+Ativan® (lorazepam) Tablets
 
 CIV SEALED FOR YOUR PROTECTION
 
