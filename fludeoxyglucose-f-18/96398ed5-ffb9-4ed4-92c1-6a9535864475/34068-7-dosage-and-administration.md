@@ -61,8 +61,8 @@ Estimated Absorbed Radiation Doses (rem/mCi) After Intravenous Administration of
 | Brain | 0.29 | 0.13 | 0.09 | 0.078 | 0.072 | 0.070 |
 | Other tissues | 0.59 | 0.25 | 0.13 | 0.083 | 0.052 | 0.042 |
 
-a MIRDOSE 2 software was used to calculate the radiation absorbed dose.
-Assumptions on the biodistribution based on data from Gallagher et al. 1 and Jones et al. 2 b The dynamic bladder model with a uniform voiding frequency of 1.5 hours was used. *LLI = lower large intestine; **ULI = upper large intestine
+aMIRDOSE 2 software was used to calculate the radiation absorbed dose.
+Assumptions on the biodistribution based on data from Gallagher et al.1 and Jones et al.2bThe dynamic bladder model with a uniform voiding frequency of 1.5 hours was used. *LLI = lower large intestine; **ULI = upper large intestine.
 
 ## 2.5 Radiation Safety – Drug Handling
 

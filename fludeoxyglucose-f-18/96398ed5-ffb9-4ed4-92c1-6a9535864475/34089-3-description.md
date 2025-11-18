@@ -6,22 +6,22 @@ Fludeoxyglucose F 18 Injection is a positron emitting radiopharmaceutical that i
 The active ingredient 2-deoxy-2-[18F]fluoro-D-glucose has the molecular formula of C6H1118FO5 with a molecular weight of 181.26, and has the following chemical structure:
 
 Fludeoxyglucose F 18 Injection is provided as a ready to use sterile, pyrogen free, clear, colorless citrate buffered solution.
-Each mL contains between 0.740 to 11.1GBq (20.0-300 mCi) of 2-deoxy-2-[18F]fluoro-D-glucose at the EOS, 4.5 mg of sodium chloride in citrate buffer.
+Each mL contains between 0.740 to 11.1GBq (20-300 mCi) of 2-deoxy-2-[18F]fluoro-D-glucose at the EOS, 4.5 mg of sodium chloride in citrate buffer.
 The pH of the solution is between 4.5 and 7.5.
 The solution is packaged in a multiple-dose glass vial and does not contain any preservative.
 
 ## 11.2 Physical Characteristics
 
 Fluorine F 18 has a physical half-life of 109.7 minutes and decays to Oxygen O 18 (stable) by positron decay.
-The principal photons useful for imaging are the dual 511 keV “annihilation” gamma photons that are produced and emitted simultaneously in opposite directions when the positron interacts with an electron (Table 2).
+The principal photons useful for imaging are the dual 511 keV annihilation gamma photons that are produced and emitted simultaneously in opposite directions when the positron interacts with an electron (Table 2).
 
 Table 2.
 Principal Radiation Emission Data for Fluorine F 18
 
-| Radiation/Emission | % Per Disintegration | Mean Energy |
+| Radiation/Emission % Per Disintegration Mean Energy |  |  |
 | --- | --- | --- |
-| Positron(β+) | 96.73 | 249.8 keV |
-| Gamma(±)* | 193.46 | 511.0 keV |
+| Positron(+) 96.73 249.8 keV |  |  |
+| Gamma(±)* 193.46 511.0 keV |  |  |
 
 *Produced by positron annihilation
 
@@ -36,28 +36,28 @@ For example, the interposition of an 8 mm thickness of Pb, with a coefficient of
 Table 3.
 Radiation Attenuation of 511 keV Photons by lead (Pb) shielding
 
-| Shield thickness (Pb) mm | Coefficient of attenuation |
+| Shield thickness (Pb) mm Coefficient of attenuation |  |
 | --- | --- |
-| 0 | 0.00 |
-| 4 | 0.50 |
-| 8 | 0.25 |
-| 13 | 0.10 |
-| 26 | 0.01 |
-| 39 | 0.001 |
-| 52 | 0.0001 |
+| 0 0.00 |  |
+| 4 0.50 |  |
+| 8 0.25 |  |
+| 13 0.10 |  |
+| 26 0.01 |  |
+| 39 0.001 |  |
+| 52 0.0001 |  |
 
 For use in correcting for physical decay of this radionuclide, the fractions remaining at selected intervals after calibration are shown in Table 4.
 
 Table 4.
 Physical Decay Chart for Fluorine F 18
 
-| Minutes | Fraction Remaining |
+| Minutes Fraction Remaining |  |
 | --- | --- |
-| 0* | 1.000 |
-| 15 | 0.909 |
-| 30 | 0.826 |
-| 60 | 0.683 |
-| 110 | 0.500 |
-| 220 | 0.250 |
+| 0* 1.000 |  |
+| 15 0.909 |  |
+| 30 0.826 |  |
+| 60 0.683 |  |
+| 110 0.500 |  |
+| 220 0.250 |  |
 
 *calibration time
