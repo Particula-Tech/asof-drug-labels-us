@@ -19,8 +19,9 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 
 ## 5.2 Acute Pancreatitis
 
-Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with glucagon-like peptide-1 (GLP-1) receptor agonists, including liraglutide injection [see Adverse Reactions (6)].
-After initiation of liraglutide injection, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
+Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, including liraglutide [see Adverse Reactions (6)].
+
+After initiation of liraglutide injection, observe patients carefully for signs and symptoms of acute pancreatitis which may include persistent or severe abdominal pain (sometimes radiating to the back) and which may or may not be accompanied by nausea or vomiting.
 If pancreatitis is suspected, discontinue liraglutide injection and initiate appropriate management.
 
 ## 5.3 Never Share a Liraglutide Injection Pen Between Patients
@@ -45,8 +46,9 @@ Monitor renal function in patients reporting adverse reactions to liraglutide in
 
 ## 5.6 Severe Gastrointestinal Adverse Reactions
 
-Use of GLP-1 receptor agonists, including liraglutide injection, has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
+Use of GLP-1 receptor agonists, including liraglutide, has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
 In liraglutide injection clinical trials, severe gastrointestinal adverse reactions were reported more frequently among patients receiving liraglutide injection (1.2 mg 4.4 %, 1.8 mg 4.2 %) than placebo (1.1 %).
+Severe gastrointestinal adverse reactions have also been reported postmarketing with GLP-1 receptor agonists.
 Liraglutide injection is not recommended in patients with severe gastroparesis.
 
 ## 5.7 Hypersensitivity Reactions
@@ -67,5 +69,6 @@ If cholelithiasis is suspected, gallbladder studies and appropriate clinical fol
 
 Liraglutide injection delays gastric emptying [see Clinical Pharmacology (12.2)].
 There have been rare postmarketing reports of pulmonary aspiration in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation who had residual gastric contents despite reported adherence to preoperative fasting recommendations.
+
 Available data are insufficient to inform recommendations to mitigate the risk of pulmonary aspiration during general anesthesia or deep sedation in patients taking liraglutide injection, including whether modifying preoperative fasting recommendations or temporarily discontinuing liraglutide injection could reduce the incidence of retained gastric contents.
 Instruct patients to inform healthcare providers prior to any planned surgeries or procedures if they are taking liraglutide injection.

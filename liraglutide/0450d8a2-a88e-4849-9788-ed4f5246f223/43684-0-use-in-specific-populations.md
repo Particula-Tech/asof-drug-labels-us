@@ -9,7 +9,7 @@ Liraglutide injection should be used during pregnancy only if the potential bene
 
 Animal reproduction studies identified increased adverse developmental outcomes from exposure during pregnancy.
 Liraglutide exposure was associated with early embryonic deaths and an imbalance in some fetal abnormalities in pregnant rats administered liraglutide during organogenesis at doses that approximate clinical exposures at the maximum recommended human dose (MRHD) of 1.8 mg/day.
-In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD [see Animal Data].
+In pregnant rabbits administered liraglutide during organogenesis, decreased fetal weight and an increased incidence of major fetal abnormalities were seen at exposures below the human exposures at the MRHD (see Animal Data).
 
 The estimated background risk of major birth defects for women with uncontrolled pre-gestational diabetes (Hemoglobin A1C >7) is 6 to 10%.
 The major birth defect rate has been reported to be as high as 20 to 25% in women with a Hemoglobin A1C >10.
@@ -26,7 +26,7 @@ Poorly controlled diabetes increases the fetal risk for major birth defects, sti
 
 Animal Data
 
-Female rats given subcutaneous doses of 0.1, 0.25 and 1.0 mg/kg/day liraglutide beginning 2 weeks before mating through gestation day 17 had estimated systemic exposures 0.8-, 3-, and
+Female rats given subcutaneous doses of 0.1, 0.25 and 1 mg/kg/day liraglutide beginning 2 weeks before mating through gestation day 17 had estimated systemic exposures 0.8-, 3-, and
 
 11-times the human exposure at the MRHD based on plasma AUC comparison.
 The number of early embryonic deaths in the 1 mg/kg/day group increased slightly.
@@ -43,7 +43,7 @@ Irregular ossification and/or skeletal abnormalities occurred in the skull and j
 Visceral abnormalities occurred in blood vessels, lung, liver, and esophagus.
 Bilobed or bifurcated gallbladder was seen in all treatment groups, but not in the control group.
 
-In pregnant female rats given subcutaneous doses of 0.1, 0.25 and 1.0 mg/kg/day liraglutide from gestation day 6 through weaning or termination of nursing on lactation day 24, estimated systemic exposures were 0.8-, 3-, and 11-times human exposure at the MRHD of 1.8 mg/day, based on plasma AUC.
+In pregnant female rats given subcutaneous doses of 0.1, 0.25 and 1 mg/kg/day liraglutide from gestation day 6 through weaning or termination of nursing on lactation day 24, estimated systemic exposures were 0.8-, 3-, and 11-times human exposure at the MRHD of 1.8 mg/day, based on plasma AUC.
 A slight delay in parturition was observed in the majority of treated rats.
 Group mean body weight of neonatal rats from liraglutide-treated dams was lower than neonatal rats from control group dams.
 Bloody scabs and agitated behavior occurred in male rats descended from dams treated with 1 mg/kg/day liraglutide.
@@ -54,7 +54,7 @@ Group mean body weight from birth to postpartum day 14 trended lower in F2 gener
 Risk Summary
 
 There are no data on the presence of liraglutide injection in human milk, the effects on the breastfed infant, or the effects on milk production.
-Liraglutide was present in milk of lactating rats [see Data].
+Liraglutide was present in milk of lactating rats (see Data).
 
 Developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for liraglutide injection and any potential adverse effects on the breastfed infant from liraglutide injection or from the underlying maternal condition.
 
@@ -79,7 +79,7 @@ No overall differences in safety or effectiveness for liraglutide injection have
 ## 8.6 Renal Impairment
 
 No dose adjustment of liraglutide injection is recommended for patients with renal impairment [see Clinical Pharmacology (12.3)].
-The safety and efficacy of liraglutide injection was evaluated in a 26-week clinical study that included patients with moderate renal impairment (eGFR 30 to 60 mL/min/1.73m2) [see Clinical Studies (14.1)].
+The safety and efficacy of liraglutide injection was evaluated in a 26-week clinical study that included patients with moderate renal impairment (eGFR 30 to 60 mL/min/1.73 m2) [see Clinical Studies (14.1)].
 
 There is limited experience with liraglutide injection in patients with end stage renal disease.
 

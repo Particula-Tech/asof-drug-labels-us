@@ -15,10 +15,10 @@ Monotherapy
 In this 52-week trial, 746 adult patients with type 2 diabetes mellitus were randomized to liraglutide injection 1.2 mg, liraglutide injection 1.8 mg, or glimepiride 8 mg.
 Patients who were randomized to glimepiride were initially treated with 2 mg daily for two weeks, increasing to 4 mg daily for another two weeks, and finally increasing to 8 mg daily.
 Treatment with liraglutide injection 1.8 mg and 1.2 mg resulted in a statistically significant reduction in HbA1c compared to glimepiride (Table 3).
-The percentage of patients who discontinued due to ineffective therapy was 3.6% in the liraglutide injection 1.8 mg treatment group, 6.0% in the liraglutide injection 1.2 mg treatment group, and 10.1% in the glimepiride-treatment group.
+The percentage of patients who discontinued due to ineffective therapy was 3.6% in the liraglutide injection 1.8 mg treatment group, 6% in the liraglutide injection 1.2 mg treatment group, and 10.1% in the glimepiride-treatment group.
 
 The mean age of participants was 53 years, and the mean duration of diabetes was 5 years.
-Participants were 49.7% male, 77.5% White, 12.6% Black or African American and 35.0% of Hispanic or Latino ethnicity.
+Participants were 49.7% male, 77.5% White, 12.6% Black or African American and 35% of Hispanic or Latino ethnicity.
 The mean BMI was 33.1 kg/m2.
 
 Table 3: Results of a 52-week Monotherapy Trial in Adults with Type 2 Diabetes MellitusIntent-to-treat population using last observation on study
@@ -42,7 +42,7 @@ Add-on to Metformin:
 
 In this 26-week trial, 1,091 adult patients with type 2 diabetes mellitus were randomized to liraglutide injection 0.6 mg, liraglutide injection 1.2 mg, liraglutide injection 1.8 mg, placebo, or glimepiride 4 mg (one-half of the maximal approved dose in the United States), all as add-on to metformin.
 Randomization occurred after a 6-week run-in period consisting of a 3-week initial forced metformin titration period followed by a maintenance period of another 3 weeks.
-During the titration period, doses of metformin were increased up to 2000 mg/day.
+During the titration period, doses of metformin were increased up to 2,000 mg/day.
 Treatment with liraglutide injection 1.2 mg and 1.8 mg as add-on to metformin resulted in a significant mean HbA1c reduction relative to placebo add-on to metformin and resulted in a similar mean HbA1c reduction relative to glimepiride 4 mg add-on to metformin (Table 4).
 The percentage of patients who discontinued due to ineffective therapy was 5.4% in the liraglutide injection 1.8 mg + metformin treatment group, 3.3% in the liraglutide injection 1.2 mg + metformin treatment group, 23.8% in the placebo + metformin treatment group, and 3.7% in the glimepiride + metformin treated group.
 
@@ -61,7 +61,7 @@ Table 4: Results of a 26-week Trial of liraglutide injection as Add-on to Metfor
 | Fasting Plasma Glucose (mg/dL) (Mean) |  |  |  |  |
 | Baseline Change from baseline (adjusted mean) Difference from placebo + metformin arm (adjusted mean) 95% Confidence Interval Difference from glimepiride + metformin arm (adjusted mean) 95% Confidence Interval | 181 -30 -38 (-48, -27) -7 (-16, 2) | 179 -30 -37 (-47, -26) -6 (-15, 3) | 182 +7 | 180 -24 |
 | Body Weight (kg) (Mean) |  |  |  |  |
-| Baseline Change from baseline (adjusted mean) Difference from placebo + metformin arm (adjusted mean) 95% Confidence Interval Difference from glimepiride + metformin arm (adjusted mean) 95% Confidence Interval | 88 -2.8 -1.3p-value <0.05 (-2.2, -0.4) -3.8 (-4.5, -3) | 88.5 -2.6 -1.1 (-2.0, -0.2) -3.5 (-4.3, -2.8) | 91 -1.5 | 89 +1 |
+| Baseline Change from baseline (adjusted mean) Difference from placebo + metformin arm (adjusted mean) 95% Confidence Interval Difference from glimepiride + metformin arm (adjusted mean) 95% Confidence Interval | 88 -2.8 -1.3p-value <0.05 (-2.2, -0.4) -3.8 (-4.5, -3) | 88.5 -2.6 -1.1 (-2, -0.2) -3.5 (-4.3, -2.8) | 91 -1.5 | 89 +1 |
 
 Liraglutide Injection Compared to Sitagliptin, Both as Add-on to Metformin:
 
@@ -94,7 +94,7 @@ Figure 4: Mean HbA1c for Adult Patients with Type 2 Diabetes Mellitus who Comple
 
 Combination Therapy with Metformin and Insulin:
 
-This 26-week open-label trial enrolled 988 adult patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c 7 to 10%) on metformin (≥1,500 mg/day) alone or inadequate glycemic control (HbA1c 7 to 8.5%) on metformin (≥1500 mg/day) and a sulfonylurea.
+This 26-week open-label trial enrolled 988 adult patients with type 2 diabetes mellitus with inadequate glycemic control (HbA1c 7% to 10%) on metformin (≥1,500 mg/day) alone or inadequate glycemic control (HbA1c 7% to 8.5%) on metformin (≥1,500 mg/day) and a sulfonylurea.
 Patients who were on metformin and a sulfonylurea discontinued the sulfonylurea then all patients entered a 12-week run-in period during which they received add- on therapy with liraglutide injection titrated to 1.8 mg once-daily.
 At the end of the run-in period, 498 patients (50%) achieved HbA1c <7% with liraglutide injection 1.8 mg and metformin and continued treatment in a non-randomized, observational arm.
 Another 167 patients (17%) withdrew from the trial during the run-in period with approximately one-half of these patients doing so because of gastrointestinal adverse reactions [see Adverse Reactions (6.1)].
@@ -132,7 +132,7 @@ Participants were 49.4% male, 64.4% White and 2.8% Black or African American.
 The mean BMI was 29.9 kg/m2.
 
 Treatment with liraglutide injection 1.2 mg and 1.8 mg as add-on to glimepiride resulted in a statistically significant reduction in mean HbA1c compared to placebo add-on to glimepiride (Table 7).
-The percentage of patients who discontinued due to ineffective therapy was 3.0% in the liraglutide injection 1.8 mg + glimepiride treatment group, 3.5% in the liraglutide injection 1.2 mg + glimepiride treatment group, 17.5% in the placebo + glimepiride treatment group, and 6.9% in the rosiglitazone + glimepiride treatment group.
+The percentage of patients who discontinued due to ineffective therapy was 3% in the liraglutide injection 1.8 mg + glimepiride treatment group, 3.5% in the liraglutide injection 1.2 mg + glimepiride treatment group, 17.5% in the placebo + glimepiride treatment group, and 6.9% in the rosiglitazone + glimepiride treatment group.
 
 Table 7: Results of a 26-week Trial of liraglutide injection as add-on to Sulfonylurea in Adult Patients with Type 2 Diabetes MellitusIntent-to-treat population using last observation on study
 
@@ -149,7 +149,7 @@ Table 7: Results of a 26-week Trial of liraglutide injection as add-on to Sulfon
 | Baseline Change from baseline (adjusted mean) Difference from placebo + glimepiride arm (adjusted mean) | 174 -29 -47 | 177 -28 -46 | 171 +18 | 179 -16 |
 | 95% Confidence Interval | (-58, -35) | (-58, -35) |  |  |
 | Body Weight (kg) (Mean) |  |  |  |  |
-| Baseline Change from baseline (adjusted mean) Difference from placebo + glimepiride arm (adjusted mean) | 83.0 -0.2 -0.1 | 80.0 +0.3 0.4 | 81.9 -0.1 | 80.6 +2.1 |
+| Baseline Change from baseline (adjusted mean) Difference from placebo + glimepiride arm (adjusted mean) | 83 -0.2 -0.1 | 80 +0.3 0.4 | 81.9 -0.1 | 80.6 +2.1 |
 | 95% Confidence Interval | (-0.9, 0.6) | (-0.4, 1.2) |  |  |
 
 Add-on to Metformin and Sulfonylurea:
@@ -192,7 +192,7 @@ Liraglutide Injection Compared to Exenatide, Both as Add-on to Metformin and/or 
 
 In this 26–week, open-label trial, 464 adult patients with type 2 diabetes mellitus on a background of metformin monotherapy, sulfonylurea monotherapy or a combination of metformin and sulfonylurea were randomized to once daily liraglutide injection 1.8 mg or exenatide 10 mcg twice daily.
 Maximally tolerated doses of background therapy were to remain unchanged for the duration of the trial.
-Patients randomized to exenatide started on a dose of 5 mcg twice-daily for 4 weeks and then were escalated to 10 mcg twice daily.
+Patients randomized to exenatide started on a dose of 5 mcg twice-daily for 4 weeks and then were escalated to 10 mcg twice-daily.
 
 The mean age of participants was 57 years, and the mean duration of diabetes was 8 years.
 Participants were 51.9% male, 91.8% White, 5.4% Black or African American and 12.3% of Hispanic or Latino ethnicity.

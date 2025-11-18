@@ -62,7 +62,7 @@ Less than 0.2% of liraglutide injection-treated patients discontinued due to inj
 
 Hypoglycemia:
 
-In 5 adult glycemic control, placebo-controlled clinical trials of at least 26 weeks duration, hypoglycemia requiring the assistance of another person for treatment occurred in 8 liraglutide injection-treated patients (7.5 events per 1000 patient-years).
+In 5 adult glycemic control, placebo-controlled clinical trials of at least 26 weeks duration, hypoglycemia requiring the assistance of another person for treatment occurred in 8 liraglutide injection-treated patients (7.5 events per 1,000 patient-years).
 Of these 8 liraglutide injection-treated patients, 7 patients were concomitantly using a sulfonylurea.
 
 Table 2: Adult Incidence (%) and Rate (episodes/patient year) of Hypoglycemia in 26-Week Combination Therapy Placebo- controlled Trials
@@ -86,17 +86,17 @@ Table 2: Adult Incidence (%) and Rate (episodes/patient year) of Hypoglycemia in
 | Not classified | 0 | 0 |
 | "Patient not able to self-treat" is defined as an event requiring the assistance of another person for treatment. |  |  |
 
-In a 26-week placebo-controlled clinical trial in pediatric patients 10 years of age and older with a 26-week open-label extension, 21.2% of liraglutide injection-treated patients (mean age 14.6 years) with type 2 diabetes mellitus, had hypoglycemia with a blood glucose <54 mg/dL with or without symptoms (335 events per 1000 patient years).
+In a 26-week placebo-controlled clinical trial in pediatric patients 10 years of age and older with a 26-week open-label extension, 21.2% of liraglutide injection-treated patients (mean age 14.6 years) with type 2 diabetes mellitus, had hypoglycemia with a blood glucose <54 mg/dL with or without symptoms (335 events per 1,000 patient years).
 No severe hypoglycemic episodes occurred in the liraglutide injection treatment group (severe hypoglycemia was defined as an episode requiring assistance of another person to actively administer carbohydrate, glucagon, or other resuscitative actions).
 
 Papillary thyroid carcinoma:
 
-In adult glycemic control trials of liraglutide injection, there were 7 reported cases of papillary thyroid carcinoma in patients treated with liraglutide injection and 1 case in a comparator-treated patient (1.5 vs. 0.5 cases per 1000 patient- years).
+In adult glycemic control trials of liraglutide injection, there were 7 reported cases of papillary thyroid carcinoma in patients treated with liraglutide injection and 1 case in a comparator-treated patient (1.5 vs. 0.5 cases per 1,000 patient- years).
 Most of these papillary thyroid carcinomas were <1 cm in greatest diameter and were diagnosed in surgical pathology specimens after thyroidectomy prompted by findings on protocol-specified screening with serum calcitonin or thyroid ultrasound.
 
 Pancreatitis
 
-In glycemic control trials of liraglutide injection, there have been 13 cases of pancreatitis among liraglutide injection -treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1000 patient-years).
+In glycemic control trials of liraglutide injection, there have been 13 cases of pancreatitis among liraglutide injection -treated patients and 1 case in a comparator (glimepiride) treated patient (2.7 vs. 0.5 cases per 1,000 patient-years).
 Nine of the 13 cases with liraglutide injection were reported as acute pancreatitis and four were reported as chronic pancreatitis.
 In one case in a liraglutide injection-treated patient, pancreatitis, with necrosis, was observed and led to death; however clinical causality could not be established.
 Some patients had other risk factors for pancreatitis, such as a history of cholelithiasis or alcohol abuse.
@@ -110,7 +110,7 @@ Laboratory Tests
 
 Bilirubin:
 
-In the five adult glycemic control trials of at least 26 weeks duration, mildly elevated serum bilirubin concentrations (elevations to no more than twice the upper limit of the reference range) occurred in 4.0% of liraglutide injection-treated patients, 2.1% of placebo-treated patients and 3.5% of active-comparator-treated patients.
+In the five adult glycemic control trials of at least 26 weeks duration, mildly elevated serum bilirubin concentrations (elevations to no more than twice the upper limit of the reference range) occurred in 4% of liraglutide injection-treated patients, 2.1% of placebo-treated patients and 3.5% of active-comparator-treated patients.
 This finding was not accompanied by abnormalities in other liver tests.
 The significance of this isolated finding is unknown.
 
@@ -139,7 +139,7 @@ Mean increases from baseline in heart rate of 2 to 3 beats per minute have been 
 The following additional adverse reactions have been reported during post-approval use of liraglutide injection.
 Because these events are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-- Gastrointestinal: Acute pancreatitis; hemorrhagic and necrotizing pancreatitis sometimes resulting in death; ileus, nausea, vomiting and diarrhea leading to dehydration
+- Gastrointestinal: Acute pancreatitis; hemorrhagic and necrotizing pancreatitis sometimes resulting in death; ileus, intestinal obstruction, severe constipation including fecal impaction, nausea, vomiting and diarrhea leading to dehydration
 - Hepatobiliary: Elevations of liver enzymes, hyperbilirubinemia, cholestasis, cholecystitis, cholelithiasis requiring cholecystectomy, hepatitis
 - Hypersensitivity: Angioedema, anaphylactic reactions, pruritus
 - Neoplasms: Medullary thyroid carcinoma

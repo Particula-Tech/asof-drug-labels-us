@@ -5,11 +5,11 @@ Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 Risk of Thyroid C-cell Tumors
 
 Inform patients that liraglutide causes benign and malignant thyroid C-cell tumors in mice and rats and that the human relevance of this finding is unknown.
-Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning and Warnings and Precautions (5.1)].
+Counsel patients to report symptoms of thyroid tumors (e.g., a lump in the neck, hoarseness, dysphagia, or dyspnea) to their physician [see Boxed Warning, Warnings and Precautions (5.1)].
 
 Acute Pancreatitis
 
-Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by vomiting.
+Inform patients of the potential risk for acute pancreatitis and its symptoms: severe abdominal pain that may radiate to the back, and which may or may not be accompanied by nausea or vomiting.
 Instruct patients to discontinue liraglutide injection promptly and contact their physician if pancreatitis is suspected [see Warnings and Precautions (5.2)].
 
 Never Share a Liraglutide Injection Pen Between Patients
@@ -74,4 +74,4 @@ Nagpur 441 108
 
 India
 
-Revised: July 2025
+Revised: November 2025

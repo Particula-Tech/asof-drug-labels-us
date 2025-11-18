@@ -10,4 +10,4 @@ Figure 1: Structural Formula of Liraglutide
 Liraglutide injection is a sterile, aqueous, clear, colorless solution for subcutaneous use.
 Each 1 mL of liraglutide injection solution contains 6 mg of liraglutide and the following inactive ingredients: disodium hydrogen phosphate dihydrate, 1.42 mg; phenol, 5.5 mg; propylene glycol, 14 mg; and water for injection.
 Liraglutide injection has a pH between 8.0 and 8.4, hydrochloric acid or sodium hydroxide may be added to adjust pH.
-Each pre-filled pen contains a 3 mL solution of liraglutide injection equivalent to 18 mg liraglutide (free-base, anhydrous).
+Each prefilled pen contains a 3 mL solution of liraglutide injection equivalent to 18 mg liraglutide (free-base, anhydrous).

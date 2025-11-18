@@ -86,7 +86,7 @@ Age had no effect on the pharmacokinetics of liraglutide injection based on a ph
 Pediatric Patients:
 
 A population pharmacokinetic analysis was conducted for liraglutide injection using data from 72 pediatric patients (10 to 17 years of age) with type 2 diabetes mellitus.
-The pharmacokinetic profile of liraglutide injection in the pediatric patients was consistent with that in adults.
+The pharmacokinetic profile of liraglutide injection in pediatric patients was consistent with that in adults.
 
 Male and Female Patients:
 
@@ -100,7 +100,7 @@ Body Weight:
 
 Body weight significantly affects the pharmacokinetics of liraglutide injection based on results of population pharmacokinetic analyses.
 The exposure of liraglutide decreases with an increase in baseline body weight.
-However, the 1.2 mg and 1.8 mg daily doses of liraglutide injection provided adequate systemic exposures over the body weight range of 40 to 160 kg evaluated in the clinical trials.
+However, the 1.2 mg and 1.8 mg daily doses of liraglutide injection provided adequate systemic exposures over the body weight range of 40 kg to 160 kg evaluated in the clinical trials.
 Liraglutide was not studied in patients with body weight >160 kg.
 
 Patients with Renal Impairment:
@@ -119,13 +119,13 @@ Drug Interaction Studies
 
 In vitro assessment of drug-drug interactions:
 
-Liraglutide injection has low potential for pharmacokinetic drug-drug interactions related to cytochrome P450 (CYP) and plasma protein binding.
+Liraglutide injection has low potential for pharmacokinetic drug-drug interactions related to cytochrome P450 (CYP P450) and plasma protein binding.
 
 In vivo assessment of drug-drug interactions:
 
 The drug-drug interaction studies were performed at steady state with liraglutide injection 1.8 mg/day.
 Before administration of concomitant treatment, subjects underwent a 0.6 mg weekly dose increase to reach the maximum dose of 1.8 mg/day.
-Administration of the interacting drugs was timed so that Cmax of liraglutide injection (8 to 12 h) would coincide with the absorption peak of the co-administered drugs.
+Administration of the interacting drugs was timed so that Cmax of liraglutide injection (8 h to 12 h) would coincide with the absorption peak of the co-administered drugs.
 
 Digoxin
 
@@ -136,7 +136,7 @@ Digoxin median time to maximal concentration (Tmax) was delayed from 1 h to 1.5 
 Lisinopril
 
 A single dose of lisinopril 20 mg was administered 5 minutes after the dose of liraglutide injection at steady state.
-The co-administration with liraglutide injection resulted in a reduction of lisinopril AUC by 15%; Cmax decreased by 27%.
+The coadministration with liraglutide injection resulted in a reduction of lisinopril AUC by 15%; Cmax decreased by 27%.
 Lisinopril median Tmax was delayed from 6 h to 8 h with liraglutide injection.
 
 Atorvastatin
@@ -151,7 +151,7 @@ Acetaminophen Cmax was decreased by 31% and median Tmax was delayed up to 15 min
 
 Griseofulvin
 
-Liraglutide injection did not change the overall exposure (AUC) of griseofulvin following co-administration of a single dose of griseofulvin 500 mg with liraglutide injection at steady state.
+Liraglutide injection did not change the overall exposure (AUC) of griseofulvin following coadministration of a single dose of griseofulvin 500 mg with liraglutide injection at steady state.
 Griseofulvin Cmax increased by 37% while median Tmax did not change.
 
 Oral Contraceptives
@@ -171,7 +171,7 @@ No pharmacokinetic interaction was observed between liraglutide injection and in
 The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the studies described below with the incidence of anti-drug antibodies in other studies, including those with liraglutide injection or other liraglutide products.
 
-A subset of liraglutide injection-treated patients (1104 of 2501, 44%) in five adult double-blind clinical trials of 26 weeks duration or longer were tested for the presence of anti-liraglutide antibodies at the end of treatment [see Clinical Studies (14.1)] and 102/1104 (9%) of liraglutide injection-treated patients developed anti-liraglutide antibodies.
+A subset of liraglutide injection-treated patients (1,104 of 2,501, 44%) in five adult double-blind clinical trials of 26 weeks duration or longer were tested for the presence of anti-liraglutide antibodies at the end of treatment [see Clinical Studies (14.1)] and 102/1,104 (9%) of liraglutide injection-treated patients developed anti-liraglutide antibodies.
 Of these 102 liraglutide injection-treated patients, 56 (5%) patients developed antibodies that cross-reacted with native GLP-1.
 These cross-reacting antibodies were not tested for neutralizing effect against native GLP-1, and thus the potential for clinically significant neutralization of native GLP-1 was not assessed.
 Antibodies that had a neutralizing effect on liraglutide in an in vitro assay occurred in 12 (1%) of the liraglutide injection-treated patients.
