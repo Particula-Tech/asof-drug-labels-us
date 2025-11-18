@@ -2,7 +2,7 @@
 
 Dopamine Hydrochloride in 5% Dextrose Injection, USP is a sterile, nonpyrogenic, premixed solution of dopamine hydrochloride in 5% dextrose injection for intravenous infusion.
 
-Each 100 mL contains 160 mg (1600 mcg/mL) or 320 mg (3200 mcg/mL) of dopamine HCl; 5 grams of hydrous dextrose, in Water for Injection, and 50 mg of sodium metabisulfite (a stabilizer); pH = 3.8 (2.5 to 4.5), and the following osmolar concentrations: 269, or 286 mOsmol/liter, respectively.
+Each 100 mL contains 160 mg (1,600 mcg/mL) or 320 mg (3,200 mcg/mL) of dopamine HCl; 5 grams of hydrous dextrose, in Water for Injection, and 50 mg of sodium metabisulfite (a stabilizer); pH = 2.5 to 4.5, and the following osmolar concentrations: 269, or 286 mOsmol/liter, respectively.
 May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
 
 Dopamine HCl is chemically designated 3, 4-dihydroxyphenethylamine hydrochloride (C8H11NO2 ∙ HCl), a white crystalline powder freely soluble in water.

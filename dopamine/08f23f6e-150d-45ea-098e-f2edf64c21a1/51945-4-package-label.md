@@ -225,3 +225,126 @@ IM-4357
 Hospira
 
 DISTRIBUTED BY HOSPIRA, INC., LAKE FOREST, IL 60045 USA
+
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label -13444-01
+
+TO OPEN — TEAR AT NOTCH
+
+Each 100 mL contains dopamine hydrochloride 160 mg; dextrose, hydrous 5 g in water for injection; sodium metabisulfite added 50 mg.
+May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
+269 mOsmol/liter (calc.) pH 2.5 to 4.5 Single-dose container.
+Discard unused portion.
+For intravenous use only.
+Recommended Dosage: See Prescribing Information WARNING: CONTAINS SULFITES.
+Drug additives should not be made to this solution.
+
+The overwrap is a moisture and oxygen barrier.
+Do not remove unit from overwrap until ready for use.
+Visually inspect overwrap for tears or holes.
+Discard unit if overwrap is damaged or if solution is darker than slightly yellow or discolored in any other way.
+Use unit promptly when overwrap is opened.
+Store at 20°C to 25°C (68°F to 77°F).
+[See USP Controlled Room Temperature.]
+Protect from freezing.
+After removing the overwrap, check for minute leaks by squeezing container firmly.
+If leaks are found, discard solution as sterility may be impaired.
+Not made with natural rubber latex.
+
+Rx only 7 OTHER
+
+250 mL NDC 0409-0042-01 DOPAMINE HCl in 5% Dextrose Injection, USP
+
+400 mg/250 mL (1,600 mcg/mL)
+
+Single-dose container
+
+13444-01
+
+Hospira Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label-12726-02
+
+250 mL NDC 0409-0042-01 DOPAMINE HCl in 5% Dextrose Injection, USP 400 mg/250 mL (1,600 mcg/mL) Each 100 mL contains dopamine hydrochloride 160 mg; dextrose, hydrous 5 g in water for injection; sodium metabisulfite added 50 mg.
+May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
+269 mOsmol/liter (calc.) pH 2.5 to 4.5 Single-dose container.
+Discard unused portion.
+For intravenous use only.
+Recommended Dosage: See Prescribing Information.
+Warning: contains sulfites.
+Drug additives should not be made to this solution.
+Sterile, nonpyrogenic.
+Use only if solution is clear and container is undamaged.
+Not made with natural rubber latex.
+Rx only
+
+5 OTHER
+
+MADE IN GERMANY
+
+Hospira Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+
+12726-02
+
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label -13445-01
+
+TO OPEN — TEAR AT NOTCH Each 100 mL contains dopamine hydrochloride 320mg; dextrose, hydrous 5 g in water for injection; sodium metabisulfite added 50 mg.
+May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
+286 mOsmol/liter (calc.) pH 2.5 to 4.5
+
+Single-dose container.
+Discard unused portion.
+For intravenous use only.
+Recommended Dosage: See Prescribing Information.
+WARNING: CONTAINS SULFITES.
+Drug additives should not be made to this solution.
+
+The overwrap is a moisture and oxygen barrier.
+Do not remove unit from overwrap until ready for use.
+Visually inspect overwrap for tears or holes.
+Discard unit if overwrap is damaged or if solution is darker than slightly yellow or discolored in any other way.
+Use unit promptly when overwrap is opened.
+Store at 20°C to 25°C (68°F to 77°F).
+[See USP Controlled Room Temperature.]
+Protect from freezing.
+After removing the overwrap, check for minute leaks by squeezing container firmly.
+If leaks are found, discard solution as sterility may be impaired.
+Not made with natural rubber latex.
+
+Rx only 7 OTHER
+
+250 mL NDC 0409-1858-01 DOPAMINE HCl in 5% Dextrose Injection, USP
+
+800 mg/250 mL (3,200 mcg/mL)
+
+Single-dose container
+
+13445-01
+
+Hospira
+
+Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+
+# PRINCIPAL DISPLAY PANEL - 250 mL Bag Label-12727-02
+
+250 mL NDC 0409-1858-01
+
+DOPAMINE HCl in 5% Dextrose Injection, USP 800 mg/250 mL (3,200 mcg/mL)
+
+Each 100 mL contains dopamine hydrochloride 320 mg; dextrose, hydrous 5 g in water for injection; sodium metabisulfite added 50 mg.
+May contain hydrochloric acid and/or sodium hydroxide for pH adjustment.
+286 mOsmol/liter (calc.) pH 2.5 to 4.5 Single-dose container.Discard unused portion.
+For intravenous use only.
+Recommended Dosage: See Prescribing Information.
+Warning: contains sulfites Drug additives should not be made to this solution.
+Sterile, nonpyrogenic.
+Use only if solution is clear and container is undamaged.
+Not made with natural rubber latex.
+Rx only
+
+5 OTHER
+
+MADE IN GERMANY
+
+Hospira Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
+
+12727-02

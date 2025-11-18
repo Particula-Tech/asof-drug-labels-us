@@ -18,7 +18,7 @@ Discard product if outer wrap is damaged (e.g., tears or holes).
 Inspect Dopamine HCl in Dextrose Injection for particulate matter and discoloration prior to administration (the solution is clear to slightly yellow).
 Do not administer if the solution is darker than slightly yellow or the container is damaged.
 
-Use higher concentration premixed solutions (e.g., 3200 mcg/mL or 1600 mcg/mL strengths) in patients requiring fluid restriction.
+Use higher concentration premixed solutions (e.g., 3,200 mcg/mL or 1,600 mcg/mL strengths) in patients requiring fluid restriction.
 
 Discontinuation
 
@@ -36,17 +36,17 @@ Infusion rates may be calculated using the following formula:
 
 Example calculations for infusion rates are as follows:
 
-Example 1: for a 60 kg person at the recommended initial dose of 2 mcg/kg/minute using a 1600 mcg/mL concentration, the infusion rate would be as follows:
+Example 1: for a 60 kg person at the recommended initial dose of 2 mcg/kg/minute using a 1,600 mcg/mL concentration, the infusion rate would be as follows:
 
 | Infusion Rate (mL/hour) = | [2 (mcg/kg/minute) × 60 (kg) × 60 (minutes/hour)] | = 4.5 (mL/hour) |
 | --- | --- | --- |
-|  | 1600 (mcg/mL) |  |
+|  | 1,600 (mcg/mL) |  |
 
 Example 2: for a 70 kg person at a dose of 5 mcg/kg/minute using a 3,200 mcg/mL concentration, the infusion rate would be as follows:
 
 | Infusion Rate (mL/hour) = | [5 (mcg/kg/minute) × 70 (kg) × 60 (minutes/hour)] | = 6.56 (mL/hour) |
 | --- | --- | --- |
-|  | 3200 (mcg/mL) |  |
+|  | 3,200 (mcg/mL) |  |
 
 ## 2.3 Drug Incompatibilities
 
