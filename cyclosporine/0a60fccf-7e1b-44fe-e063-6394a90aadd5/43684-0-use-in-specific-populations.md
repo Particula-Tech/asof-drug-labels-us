@@ -2,11 +2,16 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary There are no adequate and well-controlled studies of VEVYE administration in pregnant women to inform a drug-associated risk.
-Oral administration of cyclosporine to pregnant rats or rabbits did not produce teratogenicity at clinically relevant doses.
-VEVYE doses are approximately 4,700 times lower than recommended oral doses, with blood concentrations being undetectable after topical administration.
+Risk Summary
 
-Data Animal Data Oral administration of cyclosporine oral solution to pregnant rats or rabbits was teratogenic at maternally toxic doses of 30 mg/kg/day in rats and 100 mg/kg/day in rabbits, as indicated by increased pre- and postnatal mortality, reduced fetal weight and skeletal retardations.
+There are no adequate and well-controlled studies of VEVYE administration in pregnant women to inform a drug-associated risk.
+Oral administration of cyclosporine to pregnant rats or rabbits did not produce teratogenicity at clinically relevant doses VEVYE doses are approximately 4,700 times lower than recommended oral doses, with blood concentrations being undetectable after topical administration.
+
+Data
+
+Animal Data
+
+Oral administration of cyclosporine oral solution to pregnant rats or rabbits was teratogenic at maternally toxic doses of 30 mg/kg/day in rats and 100 mg/kg/day in rabbits, as indicated by increased pre- and postnatal mortality, reduced fetal weight and skeletal retardations.
 These doses (normalized to body weight) were approximately 7,250 and 48,000 times higher than the daily maximum recommended human ophthalmic dose (MRHOD) of 0.67 mcg/kg/day, respectively.
 
 No adverse embryofetal effects were observed in rats or rabbits receiving cyclosporine during organogenesis at oral doses up to 17 mg/kg/day or 30 mg/kg/day, respectively (approximately 4,100 and 14,500 times higher than the MRHOD, respectively).
@@ -16,7 +21,9 @@ No adverse effects in mothers or offspring were observed at oral doses of up to 
 
 ## 8.2 Lactation
 
-Risk Summary Cyclosporine is known to be excreted in human milk following systemic administration but excretion in human milk after topical treatment has not been investigated.
+Risk Summary
+
+Cyclosporine is known to be excreted in human milk following systemic administration but excretion in human milk after topical treatment has not been investigated.
 VEVYE doses are approximately 4,700 times lower than recommended oral doses of cyclosporine, with blood concentrations being undetectable after topical administration.
 However, caution should be exercised when VEVYE is administered to a nursing woman.
 

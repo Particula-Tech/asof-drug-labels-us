@@ -1,24 +1,12 @@
-# PRINCIPAL DISPLAY PANEL - CARTON
+Principal Display Panel - 2 mL Carton Label
 
 NDC: 82667-900-02 Rx Only
 
-VEVYE ® (cyclosporine ophthalmic solution) 0.1%
+vevye ®
 
-For topical application in the eye
+(cyclosporine ophthalmic soliton) 0.1%
 
-Sterile, Non-Preserved
-
-2 mL
-
-# PRINCIPAL DISPLAY PANEL - SAMPLE CARTON
-
-NDC: 82667-900-00 Rx Only
-
-PROFESSIONAL SAMPLE - NOT FOR SALE.
-
-VEVYE® (cyclosporine ophthalmic solution) 0.1%
-
-For topical application in the eye
+For topical application In the eye
 
 Sterile, Non-Preserved
 
