@@ -32,7 +32,7 @@ Risk Summary
 
 It is unknown whether doravirine is present in human milk, affects human milk production, or has effects on the breastfed infant.
 Doravirine is present in the milk of lactating rats (see Data).
-Potential risks of breastfeeding include: (1) HIV-1 transmission (in HIV-1-negative infants), (2) developing viral resistance (in HIV-1-positive infants), and (3) serious adverse reactions in a breastfed infant in a breastfed infant similar to those seen in adults.
+Potential risks of breastfeeding include: (1) HIV-1 transmission (in HIV-1-negative infants), (2) developing viral resistance (in HIV-1-positive infants), and (3) serious adverse reactions in a breastfed infant similar to those seen in adults.
 
 Data
 

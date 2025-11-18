@@ -180,3 +180,7 @@ The following adverse reactions have been identified during postmarketing experi
 Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Skin and Subcutaneous Tissue Disorders: Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN)
+
+Hepatobiliary Disorders: hepatitis
+
+Investigations: hepatic enzyme increased

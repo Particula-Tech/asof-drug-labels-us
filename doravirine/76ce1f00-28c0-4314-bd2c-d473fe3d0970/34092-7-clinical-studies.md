@@ -52,11 +52,11 @@ Table 10: Virologic Outcome in DRIVE-FORWARD and DRIVE-AHEAD at Week 96 in HIV-1
 | Viral Subtype |  |  |  |  |
 | Subtype B | 71% (N = 266) | 66% (N = 272) | 80% (N = 232) | 72% (N = 253) |
 | Subtype Non-B | 75% (N = 117) | 62% (N = 111) | 73% (N = 130) | 77% (N = 111) |
-| Note: NRTIs = FTC/3TC or ABC/3TC. |  |  |  |  |
+| Note: NRTIs = FTC/TDF or ABC/3TC. |  |  |  |  |
 
 ## 14.2 Clinical Trial Results in Virologically-Suppressed Adults
 
-The efficacy of switching from a baseline regimen consisting of two NRTIs in combination with a PI plus either ritonavir or cobicistat, or elvitegravir plus cobicistat, or an NNRTI to DELSTRIGO was evaluated in a randomized, open-label trial (DRIVE-SHIFT, NCT02397096), in virologically-suppressed adultsliving with HIV.
+The efficacy of switching from a baseline regimen consisting of two NRTIs in combination with a PI plus either ritonavir or cobicistat, or elvitegravir plus cobicistat, or an NNRTI to DELSTRIGO was evaluated in a randomized, open-label trial (DRIVE-SHIFT, NCT02397096), in virologically-suppressed adults living with HIV.
 Participants must have been virologically-suppressed (HIV-1 RNA < 50 copies/mL) on their baseline regimen for at least 6 months prior to trial entry, with no history of virologic failure.
 Participants were randomized to either switch to DELSTRIGO at baseline (n = 447, Immediate Switch Group (ISG)), or stay on their baseline regimen until Week 24, at which point they switched to DELSTRIGO (n = 223, Delayed Switch Group (DSG)).
 
