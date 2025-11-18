@@ -11,11 +11,11 @@ It should be kept in mind that constant monitoring is needed in regard to drug d
 Included in the situations which may make dosage adjustments necessary are changes in clinical status secondary to remissions or exacerbations in the disease process, the patient's individual drug responsiveness, and the effect of patient exposure to stressful situations not directly related to the disease entity under treatment; in this latter situation it may be necessary to increase the dosage of MEDROL for a period of time consistent with the patient's condition.
 If after long-term therapy the drug is to be stopped, it is recommended that it be withdrawn gradually rather than abruptly.
 
-## Multiple Sclerosis
+## Multiple Sclerosis:
 
 In treatment of acute exacerbations of multiple sclerosis daily doses of 200 mg of prednisolone for a week followed by 80 mg every other day for 1 month have been shown to be effective (4 mg of methylprednisolone is equivalent to 5 mg of prednisolone).
 
-## ADT® (Alternate Day Therapy)
+## ADT® (Alternate Day Therapy):
 
 Alternate day therapy is a corticosteroid dosing regimen in which twice the usual daily dose of corticoid is administered every other morning.
 The purpose of this mode of therapy is to provide the patient requiring long-term pharmacologic dose treatment with the beneficial effects of corticoids while minimizing certain undesirable effects, including pituitary-adrenal suppression, the Cushingoid state, corticoid withdrawal symptoms, and growth suppression in children.

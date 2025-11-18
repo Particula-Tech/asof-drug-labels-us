@@ -10,7 +10,7 @@ Medrol® methylprednisolone tablets, USP
 
 100 Tablets Rx only
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Distributed by Pharmacia & Upjohn Company LLC A Subsidiary of Pfizer Inc. New York, NY 10007
 
 # PRINCIPAL DISPLAY PANEL - 4 mg Tablet Dose Pack
 
@@ -32,7 +32,7 @@ NDC 0009-0056-04
 
 Medrol® Dosepak™ (methylprednisolone) tablets, USP 4 mg
 
-Distributed by Pharmacia & Upjohn Co. Division of Pfizer Inc, NY, NY 10017
+Distributed by Pharmacia & Upjohn Company LLC, A subsidiary of Pfizer Inc., New York, NY 10001
 
 Unless otherwise directed by your physician, all six (6) tablets in the row labeled DAY 1 should be taken the day you receive your prescription, even though you may not receive it until late in the day.
 
@@ -71,7 +71,7 @@ Medrol® methylprednisolone tablets, USP
 
 25 Tablets Rx only
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Distributed by Pharmacia & Upjohn Company LLC A Subsidiary of Pfizer Inc. New York, NY 10001
 
 # PRINCIPAL DISPLAY PANEL - 16 mg Tablet Bottle Label
 
@@ -85,7 +85,7 @@ Medrol® methylprednisolone tablets, USP
 
 50 Tablets Rx only
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Distributed by Pharmacia & Upjohn Company LLC A Subsidiary of Pfizer Inc. New York, NY 10001
 
 # PRINCIPAL DISPLAY PANEL - 32 mg Tablet Bottle Label
 
@@ -113,4 +113,4 @@ Medrol® methylprednisolone tablets, USP
 
 100 Tablets Rx only
 
-Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Distributed by Pharmacia & Upjohn Company LLC A Subsidiary of Pfizer Inc. New York, NY 10001
