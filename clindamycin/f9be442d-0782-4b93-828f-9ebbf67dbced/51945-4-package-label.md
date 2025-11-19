@@ -22,4 +22,4 @@ For Intravaginal Use Only
 
 2%*
 
-Pfizer Distributed by Pharmacia & Upjohn Co Division of Pfizer Inc, NY, NY 10017
+Pfizer Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New York, NY 10001
