@@ -1,0 +1,26 @@
+{
+  "application_numbers": [
+    "ANDA214921"
+  ],
+  "inn": "brivaracetam",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-267-60",
+    "72205-268-06",
+    "72205-268-60",
+    "72205-269-06",
+    "72205-269-60",
+    "72205-270-60",
+    "72205-271-06",
+    "72205-271-60"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "brivaracetam",
+      "name": "brivaracetam"
+    }
+  ],
+  "setid": "11ca0e1d-1c0d-4357-9ebd-ee1e87185dde",
+  "source": "dailymed"
+}
