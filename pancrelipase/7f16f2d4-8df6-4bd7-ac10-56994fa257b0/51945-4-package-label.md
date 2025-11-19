@@ -1,8 +1,10 @@
-# PRINCIPAL DISPLAY PANEL - Lipase 3,000 USP Units
+# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - NDC 73562-113-01
 
 NDC 73562-113-01
 
-pancrelipase Zenpep® Delayed-Release Capsules
+pancrelipase
+
+Zenpep® DELAYED-RELEASE CAPSULES
 
 Rx only
 
@@ -12,11 +14,13 @@ Dispense enclosed Medication Guide to each patient
 
 100 Delayed-Release Capsules
 
-# PRINCIPAL DISPLAY PANEL - Lipase 5,000 USP Units
+# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - NDC 73562-115-01
 
 NDC 73562-115-01
 
-pancrelipase Zenpep® Delayed-Release Capsules
+pancrelipase
+
+Zenpep® DELAYED-RELEASE CAPSULES
 
 Rx only
 
@@ -26,11 +30,13 @@ Dispense enclosed Medication Guide to each patient
 
 100 Delayed-Release Capsules
 
-# PRINCIPAL DISPLAY PANEL - Lipase 10,000 USP Units
+# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - NDC 73562-110-01
 
 NDC 73562-110-01
 
-pancrelipase Zenpep® Delayed-Release Capsules
+pancrelipase
+
+Zenpep® DELAYED-RELEASE CAPSULES
 
 Rx only
 
@@ -40,11 +46,13 @@ Dispense enclosed Medication Guide to each patient
 
 100 Delayed-Release Capsules
 
-# PRINCIPAL DISPLAY PANEL - Lipase 15,000 USP Units
+# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - NDC 73562-111-01
 
 NDC 73562-111-01
 
-pancrelipase Zenpep® Delayed-Release Capsules
+pancrelipase
+
+Zenpep® DELAYED-RELEASE CAPSULES
 
 Rx only
 
@@ -54,11 +62,13 @@ Dispense enclosed Medication Guide to each patient
 
 100 Delayed-Release Capsules
 
-# PRINCIPAL DISPLAY PANEL - Lipase 20,000 USP Units
+# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - NDC 73562-112-01
 
 NDC 73562-112-01
 
-pancrelipase Zenpep® Delayed-Release Capsules
+pancrelipase
+
+Zenpep® DELAYED-RELEASE CAPSULES
 
 Rx only
 
@@ -68,11 +78,13 @@ Dispense enclosed Medication Guide to each patient
 
 100 Delayed-Release Capsules
 
-# PRINCIPAL DISPLAY PANEL - Lipase 25,000 USP Units
+# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - NDC 73562-116-01
 
 NDC 73562-116-01
 
-pancrelipase Zenpep® Delayed-Release Capsules
+pancrelipase
+
+Zenpep® DELAYED-RELEASE CAPSULES
 
 Rx only
 
@@ -82,11 +94,13 @@ Dispense enclosed Medication Guide to each patient
 
 100 Delayed-Release Capsules
 
-# PRINCIPAL DISPLAY PANEL - Lipase 40,000 USP Units
+# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - NDC 73562-114-01
 
 NDC 73562-114-01
 
-pancrelipase Zenpep® Delayed-Release Capsules
+pancrelipase
+
+Zenpep® DELAYED-RELEASE CAPSULES
 
 Rx only
 
@@ -96,11 +110,13 @@ Dispense enclosed Medication Guide to each patient
 
 100 Delayed-Release Capsules
 
-# PRINCIPAL DISPLAY PANEL - Lipase 60,000 USP Units
+# PRINCIPAL DISPLAY PANEL - 100 Capsule Bottle Label - NDC 73562-117-01
 
 NDC 73562-117-01
 
-pancrelipase Zenpep® Delayed-Release Capsules
+pancrelipase
+
+Zenpep® DELAYED-RELEASE CAPSULES
 
 Rx only
 
