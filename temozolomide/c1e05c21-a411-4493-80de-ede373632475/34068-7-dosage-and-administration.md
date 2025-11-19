@@ -64,13 +64,20 @@ Adjuvant Treatment of Newly Diagnosed Anaplastic Astrocytoma
 Beginning 4 weeks after the end of radiotherapy, administer temozolomide capsules orally in a single dose on days 1 to 5 of a 28-day cycle for 12 cycles.
 The recommended dosage of temozolomide capsules is:
 
-• Cycle 1: 150 mg/m2 per day on days 1 to 5. • Cycles 2 to 12: 200 mg/m2 per day on days 1 to 5 if patient experienced no or minimal toxicity in Cycle 1.
+• Cycle 1: 150 mg/m2 per day on days 1 to 5.
+
+• Cycles 2 to 12: 200 mg/m2 per day on days 1 to 5 if patient experienced no or minimal toxicity in Cycle 1.
 If the dose was not escalated at the onset of Cycle 2, do not increase the dose during Cycles 3 to 6.
 
 The recommended complete blood count testing and dosage modifications due to adverse reactions during adjuvant treatment are provided above and in Table 2 [see Dosage and Administration (2.2)].
 
-Refractory Anaplastic Astrocytoma The recommended initial dosage of temozolomide capsules are 150 mg/m2 once daily on Days 1 to 5 of each 28-day cycle.
-Increase the temozolomide dose to 200 mg/m2 per day if the following conditions are met at the nadir and on Day 1 of the next cycle: • ANC is greater than or equal to 1.5 x 109/L, and • Platelet count is greater than or equal to 100 x 109/L.
+Refractory Anaplastic Astrocytoma
+
+The recommended initial dosage of temozolomide capsules are 150 mg/m2 once daily on Days 1 to 5 of each 28-day cycle.
+Increase the temozolomide dose to 200 mg/m2 per day if the following conditions are met at the nadir and on Day 1 of the next cycle:
+
+- ANC is greater than or equal to 1.5 x 109/L, and
+- Platelet count is greater than or equal to 100 x 109/L.
 
 Continue temozolomide capsules until disease progression or unacceptable toxicity.
 
