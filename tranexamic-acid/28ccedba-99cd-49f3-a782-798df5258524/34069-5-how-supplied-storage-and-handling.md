@@ -1,5 +1,7 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
+Tranexamic acid injection, USP is a clear and colorless solution supplied in the following presentations:
+
 | Tranexamic Acid Injection, USP 1000 mg/10 mL (100 mg/mL) |  |
 | --- | --- |
 | NDC 23155-166-41 | 10 × 10 mL single-dose vials |
