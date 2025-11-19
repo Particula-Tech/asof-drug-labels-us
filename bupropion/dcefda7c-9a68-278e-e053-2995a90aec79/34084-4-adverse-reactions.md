@@ -84,7 +84,7 @@ Metabolic and Nutritional: Glycosuria.
 
 Musculoskeletal: Muscle rigidity/fever/rhabdomyolysis and muscle weakness.
 
-Nervous System: Abnormal electroencephalogram (EEG), aggression, agitation, akinesia, aphasia, coma, completed suicide, delirium, delusions, depression, dysarthria, euphoria, extrapyramidal syndrome (dyskinesia, dystonia, hypokinesia, parkinsonism), hallucinations, homicidal ideation, hostility, increased libido, manic reaction, neuralgia, neuropathy, panic, paranoid ideation, psychosis, restlessness, suicide ideation, suicide attempt, and unmasking tardive dyskinesia.
+Nervous System: Abnormal electroencephalogram (EEG), aggression, agitation, akinesia, aphasia, coma, completed suicide, delirium, delusions, depression, dysarthria, euphoria, extrapyramidal syndrome (dyskinesia, dystonia, hypokinesia, parkinsonism), hallucinations, homicidal ideation, hostility, increased libido, manic reaction, neuralgia, neuropathy, panic, paranoid ideation, psychosis, restlessness, suicide ideation, suicide attempt, unmasking tardive dyskinesia, and aseptic meningitis.
 
 Respiratory: Pneumonia.
 
