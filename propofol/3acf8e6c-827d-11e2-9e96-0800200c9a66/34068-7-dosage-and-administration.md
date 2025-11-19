@@ -28,13 +28,13 @@ When withdrawing propofol injectable emulsion from vials, a sterile vent spike s
 The syringe should be labelled with appropriate information including the date and time the vial was opened.
 Administration should commence promptly and be completed within 12 hours after the vial has been opened.
 
-Propofol injectable emulsion must be prepared for single patient use only.
+Propofol injectable emulsion must be prepared for single dose only.
 Any unused propofol injectable emulsion drug product, reservoirs, dedicated administration tubing and/or solutions containing propofol injectable emulsion must be discarded at the end of the anesthetic procedure or at 12 hours, whichever occurs sooner.
 The intravenous line should be flushed every 12 hours and at the end of the anesthetic procedure to remove residual propofol injectable emulsion [see Warnings and Precautions (5.2)].
 
 Guidelines for Aseptic Technique for ICU Sedation
 
-Propofol injectable emulsion must be prepared for single patient use only.
+Propofol injectable emulsion must be prepared for single dose only.
 Strict aseptic techniques must be followed.
 The vial rubber stopper should be disinfected using 70% isopropyl alcohol.
 A sterile vent spike and sterile tubing must be used for administration of propofol injectable emulsion.

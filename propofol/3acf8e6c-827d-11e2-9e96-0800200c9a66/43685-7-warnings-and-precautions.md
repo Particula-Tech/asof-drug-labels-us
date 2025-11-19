@@ -9,7 +9,7 @@ Clinical features of anaphylaxis, including angioedema, bronchospasm, erythema, 
 ## 5.2 Risks of Microbial Contamination
 
 Strict aseptic technique must always be maintained during handling.
-Propofol injectable emulsion is a single access parenteral product (single patient infusion vial) which contains 0.005% disodium edetate (EDTA) to inhibit the rate of growth of microorganisms, for up to 12 hours, in the event of accidental extrinsic contamination.
+Propofol injectable emulsion is a single-dose parenteral product (single patient infusion vial) which contains 0.005% disodium edetate (EDTA) to inhibit the rate of growth of microorganisms, for up to 12 hours, in the event of accidental extrinsic contamination.
 However, propofol injectable emulsion can still support the growth of microorganisms, as it is not an antimicrobially preserved product under USP standards.
 Do not use if contamination is suspected.
 Discard unused drug product as directed within the required time limits.
