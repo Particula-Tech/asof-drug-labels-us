@@ -20,7 +20,7 @@
 | What are the ingredients in YUSIMRY? Active ingredient: adalimumab-aqvh |  |
 | YUSIMRY Pen 40 mg/0.8 mL and YUSIMRY prefilled syringe 40 mg/0.8 mL: |  |
 | Inactive ingredients: glycine, L-histidine, L-histidine hydrochloride monohydrate, polysorbate 80, sodium chloride, and Water for Injection. Sodium hydroxide is added as necessary to adjust the pH. |  |
-| Manufactured for: Meitheal PharmaceuticalsChicago, IL 60631 (USA) ©2024 Meitheal Pharmaceuticals Inc.Manufactured by: Hong Kong King-Friend Industrial Company Limited, Hong Kong, China 999077 US License No. 2375 For more information, go to www.YUSIMRY.com or call Meitheal Pharmaceuticals at -1-888-808-5529. |  |
+| Manufactured for: Meitheal PharmaceuticalsChicago, IL 60631 (USA) ©2024 Meitheal Pharmaceuticals Inc.Manufactured by: Hong Kong King-Friend Industrial Company Limited, Hong Kong, China 999077US License No. 2375 For more information, go to www.YUSIMRY.com or call Meitheal Pharmaceuticals at -1-888-808-5529. |  |
 | This Medication Guide has been approved by the U.S. Food and Drug Administration. | Revised: 10/2024 |
 
 PCR-750-19767

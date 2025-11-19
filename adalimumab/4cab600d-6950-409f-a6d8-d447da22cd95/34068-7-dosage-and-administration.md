@@ -1,14 +1,18 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Rheumatoid Arthritis, Psoriatic Arthritis, and Ankylosing Spondylitis
+## 2.1 Recommended Tuberculosis Evaluation
 
-The recommended subcutaneous dosage of YUSIMRY for adult patients with rheumatoid arthritis (RA), psoriatic arthritis (PsA), or ankylosing spondylitis (AS) is 40 mg administered every other week.
+Prior to initiating YUSIMRY and periodically during therapy, evaluate patients for active tuberculosis and test for latent infection [see Warnings and Precautions (5.1)].
+
+## 2.2 Recommended Dosage in Rheumatoid Arthritis, Psoriatic Arthritis, and Ankylosing Spondylitis
+
+The recommended subcutaneous dosage of YUSIMRY for adult patients with rheumatoid arthritis (RA), psoriatic arthritis (PsA), or ankylosing spondylitis (AS) [see Indications and Usage (1.1, 1.3, 1.4)] is 40 mg administered every other week.
 Methotrexate (MTX), other non-biologic DMARDS, glucocorticoids, nonsteroidal anti-inflammatory drugs (NSAIDs), and/or analgesics may be continued during treatment with YUSIMRY.
 In the treatment of RA, some patients not taking concomitant MTX may derive additional benefit from increasing the dosage of YUSIMRY to 40 mg every week or 80 mg every other week.
 
-## 2.2 Juvenile Idiopathic Arthritis
+## 2.3 Recommended Dosage in Juvenile Idiopathic Arthritis
 
-The recommended subcutaneous dosage of YUSIMRY for patients 2 years of age and older with polyarticular juvenile idiopathic arthritis (JIA) is based on weight as shown below.
+The recommended subcutaneous dosage of YUSIMRY for pediatric patients 2 years of age and older with polyarticular juvenile idiopathic arthritis (JIA) [see Indications and Usage (1.2, 1.9)], based on weight, is shown below.
 MTX, glucocorticoids, NSAIDs, and/or analgesics may be continued during treatment with YUSIMRY.
 
 | Pediatric Weight (2 Years of Age and Older) | Recommended Dosage |
@@ -19,18 +23,18 @@ There is no dosage form for YUSIMRY that allows weight-based dosing for pediatri
 
 Adalimumab products have not been studied in patients with polyarticular JIA less than 2 years of age or in patients with a weight below 10 kg.
 
-## 2.3 Crohn's Disease
+## 2.4 Recommended Dosage in Crohn’s Disease
 
-Adults
+Subcutaneous Adult Dosage Regimen
 
-The recommended subcutaneous dosage of YUSIMRY for adult patients with Crohn's disease (CD) is 160 mg initially on Day 1 (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
+The recommended subcutaneous dosage of YUSIMRY for adult patients with moderately to severely active Crohn’s disease (CD) is 160 mg initially on Day 1 (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
 Two weeks later (Day 29) begin a dosage of 40 mg every other week.
 Aminosalicylates and/or corticosteroids may be continued during treatment with YUSIMRY.
 Azathioprine, 6-mercaptopurine (6-MP) [see Warnings and Precautions (5.2)] or MTX may be continued during treatment with YUSIMRY if necessary.
 
-Pediatrics
+Subcutaneous Pediatric Dosage Regimen
 
-The recommended subcutaneous dosage of YUSIMRY for pediatric patients 6 years of age and older with Crohn's disease (CD) is based on body weight as shown below:
+The recommended subcutaneous dosage of YUSIMRY for pediatric patients 6 years of age and older with moderately to severely active Crohn’s disease (CD), based on body weight, is shown below:
 
 | Days 1 through 15 | Starting on Day 29 |  |
 | --- | --- | --- |
@@ -39,32 +43,28 @@ The recommended subcutaneous dosage of YUSIMRY for pediatric patients 6 years of
 
 There is no dosage form for YUSIMRY that allows weight-based dosing for pediatric patients below 40 kg.
 
-## 2.4 Ulcerative Colitis
+## 2.5 Recommended Dosage in Ulcerative Colitis
 
-Adults
+Subcutaneous Adult Dosage Regimen
 
-The recommended subcutaneous dosage of YUSIMRY for adult patients with ulcerative colitis (UC) is 160 mg initially on Day 1 (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
+The recommended subcutaneous dosage of YUSIMRY for adult patients with moderately to severely active ulcerative colitis is 160 mg initially on Day 1 (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
 Two weeks later (Day 29) continue with a dosage of 40 mg every other week.
 
 Discontinue YUSIMRY in adult patients without evidence of clinical remission by eight weeks (Day 57) of therapy.
 Aminosalicylates and/or corticosteroids may be continued during treatment with YUSIMRY.
 Azathioprine and 6-mercaptopurine (6-MP) [see Warnings and Precautions (5.2)] may be continued during treatment with YUSIMRY if necessary.
 
-## 2.5 Plaque Psoriasis or Adult Uveitis
+## 2.6 Recommended Dosage in Plaque Psoriasis or Adults with Uveitis
 
-The recommended subcutaneous dosage of YUSIMRY for adult patients with plaque psoriasis (Ps) or Uveitis (UV) is an initial dose of 80 mg, followed by 40 mg given every other week starting one week after the initial dose.
+The recommended subcutaneous dosage of YUSIMRY for adult patients with plaque psoriasis (Ps) or uveitis (UV) [see Indications and Usage (1.7, 1.9)] is an initial dose of 80 mg, followed by 40 mg given every other week starting one week after the initial dose.
 The use of adalimumab products in moderate to severe chronic Ps beyond one year has not been evaluated in controlled clinical studies.
 
-## 2.6 Hidradenitis Suppurativa
+## 2.7 Recommended Dosage in Hidradenitis Suppurativa
 
-Adults
+Subcutaneous Adult Dosage Regimen
 
-The recommended subcutaneous dosage of YUSIMRY for adult patients with hidradenitis suppurativa (HS) is an initial dose of 160 mg (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
+The recommended subcutaneous dosage of YUSIMRY for adult patients with moderate to severe hidradenitis suppurativa (HS) is an initial dose of 160 mg (given in one day or split over two consecutive days), followed by 80 mg two weeks later (Day 15).
 Begin 40 mg weekly or 80 mg every other week dosing two weeks later (Day 29).
-
-## 2.7 Monitoring to Assess Safety
-
-Prior to initiating YUSIMRY and periodically during therapy, evaluate patients for active tuberculosis and test for latent infection [see Warnings and Precautions (5.1)].
 
 ## 2.8 General Considerations for Administration
 

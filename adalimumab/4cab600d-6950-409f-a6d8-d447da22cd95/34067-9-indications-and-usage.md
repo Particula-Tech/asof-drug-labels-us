@@ -42,4 +42,4 @@ YUSIMRY is indicated for the treatment of moderate to severe hidradenitis suppur
 
 ## 1.9 Uveitis
 
-YUSIMRY is indicated for the treatment of non-infectious intermediate, posterior, and panuveitis in adult patients.
+YUSIMRY is indicated for the treatment of non-infectious intermediate, posterior, and panuveitis in adults.

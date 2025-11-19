@@ -5,7 +5,7 @@ Advise the patient or caregiver to read the FDA-approved patient labeling (Medic
 Infections
 
 Inform patients that YUSIMRY may lower the ability of their immune system to fight infections.
-Instruct patients of the importance of contacting their doctor if they develop any symptoms of infection, including tuberculosis, invasive fungal infections, and reactivation of hepatitis B virus infections [see Warnings and Precautions (5.1,5.2, 5.4)].
+Instruct patients of the importance of contacting their doctor if they develop any symptoms of infection, including tuberculosis, invasive fungal infections, and reactivation of hepatitis B virus infections [see Warnings and Precautions (5.1, 5.2, 5.4)].
 
 Malignancies
 
@@ -47,12 +47,12 @@ Instruct patients not to recycle their used sharps disposal container.
 
 Manufactured for: Meitheal Pharmaceuticals
 
-Chicago, IL 60631 (USA) ©2024 Meitheal Pharmaceuticals Inc.
+Chicago, IL 60631 (USA) ©2025 Meitheal Pharmaceuticals Inc.
 
 Manufactured by: Hong Kong King-Friend Industrial Company Limited, Hong Kong, China 999077 US License No. 2375
 
 YUSIMRY is a trademark of Hong Kong King-Friend.
 
-October 2024
+Revised: November 2025
 
-PCR-750-19765
+PCR-750-20746
