@@ -1,19 +1,23 @@
 # WARNINGS
 
-Acyclovir capsule is intended for oral ingestion only.
+Acyclovir capsules are intended for oral ingestion only.
 Renal failure, in some cases resulting in death, has been observed with acyclovir therapy (see ADVERSE REACTIONS: Observed During Clinical Practice and OVERDOSAGE).
 Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), which has resulted in death, has occurred in immunocompromised patients receiving acyclovir therapy.
 
+Severe cutaneous adverse reactions (SCARs), including acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens- Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and erythema multiforme (EM) have been reported with acyclovir (see CONTRAINDICATIONS and ADVERSE REACTIONS).
+Discontinue acyclovir capsules immediately if a painful rash with mucosal involvement or a progressive severe rash develops.
+Closely monitor clinical status and initiate appropriate therapy.
+Acyclovir capsules are contraindicated in patients who have developed SCARs with the use of acyclovir or valacyclovir, or any component of the formulation (see CONTRAINDICATIONS and ADVERSE REACTIONS).
+
 # PRECAUTIONS
 
-Dosage adjustment is recommended when administering acyclovir to patients with renal impairment (see DOSAGE AND ADMINISTRATION).
-Caution should also be exercised when administering acyclovir to patients receiving potentially nephrotoxic agents since this may increase the risk of renal dysfunction and/or the risk of reversible central nervous system symptoms such as those that have been reported in patients treated with intravenous acyclovir.
+Dosage adjustment is recommended when administering acyclovir capsules to patients with renal impairment (see DOSAGE AND ADMINISTRATION).
+Caution should also be exercised when administering acyclovir capsules to patients receiving potentially nephrotoxic agents since this may increase the risk of renal dysfunction and/or the risk of reversible central nervous system symptoms such as those that have been reported in patients treated with intravenous acyclovir.
 Adequate hydration should be maintained.
 
 ## Information for Patients
 
-Patients are instructed to consult with their physician if they experience severe or troublesome adverse reactions, they become pregnant or intend to become pregnant, they intend to breastfeed while taking orally administered acyclovir, or they have any other questions.
-
+Patients are instructed to consult with their physician if they experience severe or troublesome adverse reactions, they become pregnant or intend to become pregnant, they intend to breastfeed while taking orally administered acyclovir capsules, or they have any other questions.
 Patients should be advised to maintain adequate hydration.
 
 ### Herpes Zoster
@@ -23,8 +27,8 @@ Patients should be advised to initiate treatment as soon as possible after a dia
 
 ### Genital Herpes Infections
 
-Patients should be informed that acyclovir is not a cure for genital herpes.
-There are no data evaluating whether acyclovir will prevent transmission of infection to others.
+Patients should be informed that acyclovir capsules are not a cure for genital herpes.
+There are no data evaluating whether acyclovir capsules will prevent transmission of infection to others.
 Because genital herpes is a sexually transmitted disease, patients should avoid contact with lesions or intercourse when lesions and/or symptoms are present to avoid infecting partners.
 Genital herpes can also be transmitted in the absence of symptoms through asymptomatic viral shedding.
 If medical management of a genital herpes recurrence is indicated, patients should be advised to initiate therapy at the first sign or symptom of an episode.
@@ -34,6 +38,12 @@ If medical management of a genital herpes recurrence is indicated, patients shou
 Chickenpox in otherwise healthy children is usually a self-limited disease of mild to moderate severity.
 Adolescents and adults tend to have more severe disease.
 Treatment was initiated within 24 hours of the typical chickenpox rash in the controlled studies, and there is no information regarding the effects of treatment begun later in the disease course.
+
+## Severe Cutaneous Adverse Reactions
+
+Inform patients that severe skin reactions including acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and erythema multiforme (EM) have been reported with acyclovir.
+Advise patients to immediately contact their healthcare provider if they develop a rash.
+Instruct patients to immediately stop taking acyclovir capsules and seek medical attention if a painful rash with mucosal involvement develops (see CONTRAINDICATIONS and WARNINGS).
 
 ## Drug Interactions
 
@@ -77,7 +87,7 @@ Acyclovir should be used during pregnancy only if the potential benefit justifie
 
 Acyclovir concentrations have been documented in breast milk in 2 women following oral administration of acyclovir and ranged from 0.6 to 4.1 times corresponding plasma levels.
 These concentrations would potentially expose the nursing infant to a dose of acyclovir up to 0.3 mg/kg/day.
-Acyclovir should be administered to a nursing mother with caution and only when indicated.
+Acyclovir capsules should be administered to a nursing mother with caution and only when indicated.
 
 ## Pediatric Use
 

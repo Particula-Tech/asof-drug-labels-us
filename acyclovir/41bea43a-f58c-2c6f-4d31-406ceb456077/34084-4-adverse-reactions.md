@@ -34,7 +34,7 @@ Anaphylaxis, angioedema, fever, headache, pain, peripheral edema.
 
 ### Nervous
 
-Aggressive behavior, agitation, ataxia, coma,confusion, decreased consciousness, delirium, dizziness, dysarthria, encephalopathy, hallucinations, paresthesia, psychosis, seizure, somnolence, tremors.
+Aggressive behavior, agitation, ataxia, coma, confusion, decreased consciousness, delirium, dizziness, dysarthria, encephalopathy, hallucinations, paresthesia, psychosis, seizure, somnolence, tremors.
 These symptoms may be marked, particularly in older adults or in patients with renal impairment (see PRECAUTIONS).
 
 ### Digestive
@@ -53,9 +53,9 @@ Elevated liver function tests, hepatitis, hyperbilirubinemia, jaundice.
 
 Myalgia.
 
-### Skin
+### Skin and Subcutaneous Tissue Disorders
 
-Alopecia, erythema multiforme, photosensitive rash, pruritus, rash, Stevens-Johnson syndrome, toxic epidermal necrolysis, urticaria.
+Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), acute generalized exanthematous pustulosis (AGEP), and drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme (EM), rashes including photosensitivity, alopecia, pruritus, urticaria (see CONTRAINDICATIONS and WARNINGS).
 
 ### Special Senses
 
@@ -63,4 +63,4 @@ Visual abnormalities.
 
 ### Urogenital
 
-Renal failure, elevated blood urea nitrogen, elevated creatinine, hematuria (see WARNINGS).
+Renal failure, renal pain (may be associated with renal failure), elevated blood urea nitrogen, elevated creatinine, hematuria (see WARNINGS).

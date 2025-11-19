@@ -16,7 +16,7 @@
 Alternative regimens have included doses ranging from 200 mg 3 times daily to 200 mg 5 times daily.
 
 The frequency and severity of episodes of untreated genital herpes may change over time.
-After 1 year of therapy, the frequency and severity of the patient’s genital herpes infection should be re-evaluated to assess the need for continuation of therapy with acyclovir.
+After 1 year of therapy, the frequency and severity of the patient’s genital herpes infection should be reevaluated to assess the need for continuation of therapy with acyclovir capsules.
 
 ### Intermittent Therapy
 
@@ -41,7 +41,7 @@ There is no information about the efficacy of therapy initiated more than 24 hou
 
 ## Patients With Acute or Chronic Renal Impairment
 
-In patients with renal impairment, the dose of acyclovir should be modified as shown in Table 3:
+In patients with renal impairment, the dose of acyclovir capsules should be modified as shown in Table 3:
 
 Table 3.
 Dosage Modification for Renal Impairment

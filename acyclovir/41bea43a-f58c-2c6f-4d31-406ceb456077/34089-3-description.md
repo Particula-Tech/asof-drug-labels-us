@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Acyclovir is a synthetic nucleoside analogue active against herpes viruses.
-Acyclovir capsule is a formulation for oral administration.
+Acyclovir capsules are a formulation for oral administration.
 Each capsule of acyclovir contains 200 mg of acyclovir and the inactive ingredients colloidal silicon dioxide, croscarmellose sodium, magnesium stearate and microcrystalline cellulose.
 The capsule shell consists of FD&C blue #1, gelatin and titanium dioxide.
 The capsule black imprinting ink contains the following inactive ingredients: ammonium hydroxide, black iron oxide, n-butyl, ethyl alcohol, isopropyl alcohol, potassium hydroxide, propylene glycol and shellac.
