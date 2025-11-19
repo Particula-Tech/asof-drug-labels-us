@@ -136,7 +136,7 @@ Table 10: Summary of Topiramate Treatment Difference Results at 12 Months for Ke
 
 * TBLH=total body less head
 
-** Whereas no patients were randomized to 2 to 5 year age subgroup for topiramate, 5 patients (4 to 5 years) were randomized to the active control group.
+** Whereas no patients were randomized to 2 to 5 year age subgroup for topiramate, 5 patients (4 to 5 years) were randomized to the active control group
 
 Metabolic acidosis (serum bicarbonate < 20 mEq/L) was observed in all topiramate-treated patients at some time in the study [see Warnings and Precautions (5.4)].
 Over the whole study, 76% more topiramate-treated patients experienced persistent metabolic acidosis (i.e.

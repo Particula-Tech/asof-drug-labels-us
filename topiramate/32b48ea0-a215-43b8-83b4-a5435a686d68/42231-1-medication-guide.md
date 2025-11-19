@@ -11,4 +11,4 @@
 | What are the ingredients in topiramate tablets? Active ingredient: topiramate Inactive ingredients: hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, polyethylene glycol, polysorbate 80, pregelatinized starch, sodium starch glycolate, and titanium dioxide. In addition, the 50 mg and 100 mg tablets contain iron oxide yellow and 200 mg tablet contains iron oxide red. The brands listed are trademarks of their respective owners and are not trademarks of Aurobindo Pharma Limited. For more information, call Aurobindo Pharma USA, Inc. at 1-866-850-2876. Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India |
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
-Revised: 04/2025
+Revised: 11/2025

@@ -173,7 +173,7 @@ Table 6: Most Common Adverse Reactions in Pooled Placebo-Controlled, Adjunctive 
 | Vision Disorders |  |  |
 | Vision abnormal | 2 | 13 |
 | Diplopia | 5 | 10 |
-| aPatients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. |  |  |
+| a Patients in these adjunctive trials were receiving 1 to 2 concomitant antiepileptic drugs in addition to topiramate or placebo. |  |  |
 
 In controlled clinical trials in adults, 11% of patients receiving topiramate 200 to 400 mg/day as adjunctive therapy discontinued due to adverse reactions.
 This rate appeared to increase at dosages above 400 mg/day.
@@ -302,7 +302,7 @@ Table 8: Adverse Reactions in Pooled, Placebo-Controlled, Migraine Trials in Adu
 | Urinary tract infection | 2 | 4 | 2 |
 | Vision Disorders |  |  |  |
 | Blurred visionc | 2 | 4 | 2 |
-| a Includes 35 adolescent patients age 12 to 15 years. b Values represent the percentage of patients reporting a given adverse reaction. Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. cBlurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for >50% of reactions coded as vision abnormal, a preferred term. |  |  |  |
+| a Includes 35 adolescent patients age 12 to 15 years. b Values represent the percentage of patients reporting a given adverse reaction. Patients may have reported more than one adverse reaction during the study and can be included in more than one adverse reaction category. c Blurred vision was the most common term considered as vision abnormal. Blurred vision was an included term that accounted for >50% of reactions coded as vision abnormal, a preferred term. |  |  |  |
 
 Of the 1,135 patients exposed to topiramate in the adult placebo-controlled studies, 25% of topiramate-treated patients discontinued due to adverse reactions, compared to 10% of the 445 placebo-treated patients.
 The adverse reactions associated with discontinuing therapy in the topiramate-treated patients included paresthesia (7%), fatigue (4%), nausea (4%), difficulty with concentration/attention (3%), insomnia (3%), anorexia (2%), and dizziness (2%).
