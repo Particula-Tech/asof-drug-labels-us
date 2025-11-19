@@ -75,6 +75,6 @@ GlaxoSmithKline
 
 Durham, NC 27701
 
-©2024 GSK group of companies or its licensor.
+©2025 GSK group of companies or its licensor.
 
-WLS:21PI
+WLS:22PI

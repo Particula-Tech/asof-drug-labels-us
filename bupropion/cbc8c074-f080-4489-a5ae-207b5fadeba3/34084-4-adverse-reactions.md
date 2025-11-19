@@ -21,7 +21,7 @@ In placebo‑controlled clinical trials, 4%, 9%, and 11% of the placebo, 300‑m
 The specific adverse reactions leading to discontinuation in at least 1% of the 300‑mg/day or 400‑mg/day groups and at a rate at least twice the placebo rate are listed in Table 2.
 
 Table 2.
-Treatment Discontinuations Due to Adverse Reactions in PlaceboControlled Trials
+Treatment Discontinuations Due to Adverse Reactions in Placebo-Controlled Trials
 
 | Adverse Reaction | Placebo(n = 385) | WELLBUTRIN SR 300 mg/day(n = 376) | WELLBUTRIN SR 400 mg/day(n = 114) |
 | --- | --- | --- | --- |
@@ -190,7 +190,7 @@ Muscle rigidity/fever/rhabdomyolysis and muscle weakness.
 
 Nervous System
 
-Abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, completed suicide, delirium, delusions, dysarthria, euphoria, extrapyramidal syndrome (dyskinesia, dystonia, hypokinesia, parkinsonism), hallucinations, increased libido, manic reaction, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, and unmasking tardive dyskinesia.
+Abnormal electroencephalogram (EEG), aggression, akinesia, aphasia, coma, completed suicide, delirium, delusions, dysarthria, euphoria, extrapyramidal syndrome (dyskinesia, dystonia, hypokinesia, parkinsonism), hallucinations, increased libido, manic reaction, neuralgia, neuropathy, paranoid ideation, restlessness, suicide attempt, unmasking tardive dyskinesia, and aseptic meningitis.
 
 Respiratory
 
