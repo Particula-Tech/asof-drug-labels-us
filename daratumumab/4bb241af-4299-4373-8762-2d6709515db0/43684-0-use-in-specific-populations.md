@@ -71,11 +71,11 @@ Safety and effectiveness of DARZALEX FASPRO in pediatric patients have not been 
 
 ## 8.5 Geriatric Use
 
-Of the 291 patients who received DARZALEX FASPRO as monotherapy for relapsed and refractory multiple myeloma, 37% were 65 to <75 years of age, and 19% were 75 years of age or older.
+Of the 291 patients who received DARZALEX FASPRO as monotherapy for relapsed and refractory multiple myeloma, 37% were 65 to <75 years of age, and 19% were 75 years of age and older.
 No overall differences in effectiveness of DARZALEX FASPRO have been observed between patients ≥65 years of age and younger patients.Adverse reactions that occurred at a higher frequency (≥5% difference) in patients ≥65 years of age included upper respiratory tract infection, urinary tract infection, dizziness, cough, dyspnea, diarrhea, nausea, fatigue, and peripheral edema.
 Serious adverse reactions that occurred at a higher frequency (≥2% difference) in patients ≥65 years of age included pneumonia.
 
-Of the 214 patients who received DARZALEX FASPRO as combination therapy with pomalidomide and dexamethasone or DARZALEX FASPRO as combination therapy with lenalidomide and low-dose dexamethasone for relapsed and refractory multiple myeloma, 43% were 65 to <75 years of age, and 18% were 75 years of age or older.
+Of the 214 patients who received DARZALEX FASPRO as combination therapy with pomalidomide and dexamethasone or DARZALEX FASPRO as combination therapy with lenalidomide and low-dose dexamethasone for relapsed and refractory multiple myeloma, 43% were 65 to <75 years of age, and 18% were 75 years of age and older.
 No overall differences in effectiveness were observed between patients ≥65 years (n=131) and <65 years (n=85).
 Adverse reactions occurring at a higher frequency (≥5% difference) in patients ≥65 years of age included fatigue, pyrexia, peripheral edema, urinary tract infection, diarrhea, constipation, vomiting, dyspnea, cough, and hyperglycemia.
 Serious adverse reactions occurring at a higher frequency (≥2% difference) in patients ≥65 years of age included neutropenia, thrombocytopenia, diarrhea, anemia, COVID-19, ischemic colitis, deep vein thrombosis, general physical health deterioration, pulmonary embolism, and urinary tract infection.
@@ -86,7 +86,12 @@ No overall differences in effectiveness of DARZALEX FASPRO in combination with b
 Adverse reactions that occurred at a higher frequency (≥5% difference) in patients 65 to 70 years of age included constipation, hemorrhoids, nausea, injection site erythema, bronchitis, nasopharyngitis, back pain, myalgia, pain in extremity, dysgeusia, peripheral motor neuropathy, and insomnia.
 Serious adverse reactions that occurred at a higher frequency (≥2% difference) in patients 65 to 70 years of age included febrile bone marrow aplasia, atrial fibrillation, pyrexia, and orthostatic hypotension.
 
-Of the 193 patients who received DARZALEX FASPRO as part of a combination therapy for light chain (AL) amyloidosis, 35% were 65 to <75 years of age, and 10% were 75 years of age or older.
+Of the 193 patients who received DARZALEX FASPRO as monotherapy for high-risk smoldering multiple myeloma, 35% (n=67) were 65 to <75 years of age, and 11% (n=21) were 75 years of age and older.
+No overall difference in effectiveness were observed between patients 65 to 75 years (n=67) and <65 years (n=105); there were too few patients 75 years of age and older to assess for a difference in effectiveness.
+Adverse reactions that occurred at a higher frequency (≥5% difference) in patients ≥65 years of age were pneumonia, dizziness, arrhythmia, hemorrhage, arthritis, and cataract.
+Serious adverse reactions occurring at a higher frequency (≥5% difference) in patients ≥65 years of age included pneumonia and fracture.
+
+Of the 193 patients who received DARZALEX FASPRO as part of a combination therapy for light chain (AL) amyloidosis, 35% were 65 to <75 years of age, and 10% were 75 years of age and older.
 Clinical studies of DARZALEX FASPRO as part of a combination therapy for patients with light chain (AL) amyloidosis did not include sufficient numbers of patients aged 65 and older to determine whether effectiveness differs from that of younger patients.
 Adverse reactions that occurred at a higher frequency in patients ≥65 years of age were peripheral edema, asthenia, pneumonia and hypotension.
 

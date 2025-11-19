@@ -32,19 +32,19 @@ The exposure-response relationship and time course of pharmacodynamics of DARZAL
 
 Following the recommended dose of DARZALEX FASPRO 1,800 mg/30,000 units subcutaneously once weekly for 8 weeks, daratumumab peak concentration (C max) increased 4.8-fold and area under the curve (AUC 0–7 days) increased 5.4-fold from the 1 stdose to the 8 thdose as monotherapy.
 Maximum trough concentrations for DARZALEX FASPRO are typically observed at the end of the weekly dosing regimens for both monotherapy and combination therapies.
-The mean ± standard deviation (SD) maximum trough serum concentration (C trough) after the 8 thdose was 593 ± 306 µg/mL when DARZALEX FASPRO was administered as monotherapy and 537 ± 277 µg/mL, 526 ± 226 µg/mL, 756 ± 276 µg/mL, and 526 ± 209 µg/mL when DARZALEX FASPRO was administered as combination with Pd, Rd, Kd, and VRd, respectively.
+The mean ± standard deviation (SD) maximum trough serum concentration (C trough) after the 8 thdose was 593 ± 306 µg/mL when DARZALEX FASPRO was administered as monotherapy in patients with multiple myeloma, 654 ± 243 µg/mL when DARZALEX FASPRO was administered as monotherapy in patients with smoldering multiple myeloma, and 537 ± 277 µg/mL, 526 ± 226 µg/mL, 756 ± 276 µg/mL, and 526 ± 209 µg/mL when DARZALEX FASPRO was administered as combination with Pd, Rd, Kd, and VRd, respectively.
 
-Table 21 lists the observed mean (±SD) maximum trough concentrations (C trough) after the 8 thdose, simulated median (5 th–95 thpercentiles) maximum C troughafter the 8 thdose, simulated median (5 th–95 thpercentiles) C maxafter the 8 thdose, and simulated median (5 th–95 thpercentiles) area under the curve (AUC 0–7day) after the 8 thdose following DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously or daratumumab 16 mg/kg administered intravenously in patients with multiple myeloma or light chain (AL) amyloidosis.
+Table 24 lists the observed mean (±SD) maximum trough concentrations (C trough) after the 8 thdose, simulated median (5 th–95 thpercentiles) maximum C troughafter the 8 thdose, simulated median (5 th–95 thpercentiles) C maxafter the 8 thdose, and simulated median (5 th–95 thpercentiles) area under the curve (AUC 0–7day) after the 8 thdose following DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously or daratumumab 16 mg/kg administered intravenously in patients with multiple myeloma, smoldering multiple myeloma or light chain (AL) amyloidosis.
 Daratumumab exposures were similar between patients treated with DARZALEX FASPRO 1,800 mg/30,000 units monotherapy and combination therapies.
 
-Table 21: Daratumumab Exposure for Patients with Multiple Myeloma or Light Chain (AL) Amyloidosis
+Table 24: Daratumumab Exposure for Patients with Multiple Myeloma or Light Chain (AL) Amyloidosis
 
-| Parameter | Intravenous Daratumumab 16 mg/kg Monotherapy in Patients with Multiple Myeloma | DARZALEX FASPRO 1,800 mg/30,000 units Monotherapy in Patients with Multiple Myeloma | DARZALEX FASPRO 1,800 mg/30,000 units in combination with VRd in Patients with Transplant Eligible Multiple Myeloma | DARZALEX FASPRO 1,800 mg/30,000 units in combination with VCd in Patients with Light Chain (AL) Amyloidosis |
-| --- | --- | --- | --- | --- |
-| Observed mean±SD max C troughafter 8 thdose (µg/mL) | 522±226 Geometric mean ratio between 1,800 mg SC and 16 mg/kg was 108% (90% CI: 96, 122) in patients with multiple myeloma | 593±306 | 526±209 | 597±232 |
-| Simulated median (5 th–95 thpercentiles) max C troughafter 8 thdose (µg/mL) | 472 (144–809) | 563 (177–1063) | 651 (413–915) | 662 (315–1037) |
-| Simulated median (5 th–95 thpercentiles) C maxafter 8 thdose (µg/mL) | 688 (369–1061) | 592 (234–1114) | 678 (431–958) | 729 (390–1105) |
-| Simulated median (5 th–95 thpercentiles) AUC 0–7daysafter 8 thdose (µg/mL∙day) | 4019 (1740–6370) | 4017 (1515–7564) | 4637 (2941–6522) | 4855 (2562–7522) |
+| Parameter | Intravenous Daratumumab 16 mg/kg Monotherapy in Patients with Multiple Myeloma | DARZALEX FASPRO 1,800 mg/30,000 units Monotherapy in Patients with Multiple Myeloma | DARZALEX FASPRO 1,800 mg/30,000 units Monotherapy in Patients with Smoldering Multiple Myeloma | DARZALEX FASPRO 1,800 mg/30,000 units in combination with VRd in Patients with Transplant Eligible Multiple Myeloma | DARZALEX FASPRO 1,800 mg/30,000 units in combination with VCd in Patients with Light Chain (AL) Amyloidosis |
+| --- | --- | --- | --- | --- | --- |
+| Observed mean±SD max C troughafter 8 thdose (µg/mL) | 522±226 Geometric mean ratio between 1,800 mg SC and 16 mg/kg was 108% (90% CI: 96, 122) in patients with multiple myeloma | 593±306 | 654±243 | 526±209 | 597±232 |
+| Simulated median (5 th–95 thpercentiles) max C troughafter 8 thdose (µg/mL) | 472 (144–809) | 563 (177–1063) | 690 (269–1034) | 651 (413–915) | 662 (315–1037) |
+| Simulated median (5 th–95 thpercentiles) C maxafter 8 thdose (µg/mL) | 688 (369–1061) | 592 (234–1114) | 780 (340–1152) | 678 (431–958) | 729 (390–1105) |
+| Simulated median (5 th–95 thpercentiles) AUC 0–7daysafter 8 thdose (µg/mL∙day) | 4019 (1740–6370) | 4017 (1515–7564) | 5043 (2242–7426) | 4637 (2941–6522) | 4855 (2562–7522) |
 
 Absorption
 
@@ -84,8 +84,8 @@ In patients with light chain (AL) amyloidosis who received DARZALEX FASPRO 1,800
 The observed incidence of anti-drug antibody (ADA, including neutralizing antibody) is highly dependent on the sensitivity and specificity of the assay.
 Differences in assay methods preclude meaningful comparisons of the incidence of ADA in the studies described below with the incidence of ADA in other studies, including those of daratumumab or of other daratumumab products.
 
-With the median DARZALEX FASPRO treatment ranging from 6.5 to 35.9 months across 7 clinical trials of patients with multiple myeloma and light chain (AL) amyloidosis treated with DARZALEX as monotherapy or as combination therapies, the incidence of anti-daratumumab antibody development was 0.6% (7/1,200) and 6 patients tested positive for neutralizing antibodies.
+With the median DARZALEX FASPRO treatment ranging from 6.5 to 56.6 months across 9 clinical trials of patients with smoldering multiple myeloma, multiple myeloma and light chain (AL) amyloidosis treated with DARZALEX as monotherapy or as combination therapies, the incidence of anti-daratumumab antibody development was 0.6% (9/1,563) and 8 patients tested positive for neutralizing antibodies.
 Because of the low occurrence of anti-daratumumab antibodies, the effect of these antibodies on the pharmacokinetics, pharmacodynamics, safety, and/or effectiveness of daratumumab products is unknown.
 
-With the median DARZALEX FASPRO treatment ranging from 6.5 to 35.9 months across 7 clinical trials of patients with multiple myeloma and light chain (AL) amyloidosis treated with DARZALEX as monotherapy or as combination therapies, the incidence of anti-rHuPH20 antibody development was 8.9% (106/1,193) and 1 patient tested positive for neutralizing antibodies.
+With the median DARZALEX FASPRO treatment ranging from 6.5 to 56.5 months across 9 clinical trials of patients with smoldering multiple myeloma, multiple myeloma and light chain (AL) amyloidosis treated with DARZALEX as monotherapy or as combination therapies, the incidence of anti-rHuPH20 antibody development was 8.7% (136/1,555) and 1 patient tested positive for neutralizing antibodies.
 There was no identified clinically significant effect of anti-rHuPH20 antibodies on pharmacokinetics, pharmacodynamics, safety, or effectiveness of daratumumab products.

@@ -30,9 +30,9 @@ Treatment with DARZALEX FASPRO-VRd resulted in a reduction in the risk of diseas
 
 Figure 1: Kaplan-Meier Curve of PFS in PERSEUS
 
-Additional efficacy results from PERSEUS are presented in Table 22.
+Additional efficacy results from PERSEUS are presented in Table 25.
 
-Table 22: Efficacy Results through End of Consolidation from PERSEUS
+Table 25: Efficacy Results through End of Consolidation from PERSEUS
 
 |  | DARZALEX FASPRO-VRd (n=355) | VRd (n=354) |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ Table 22: Efficacy Results through End of Consolidation from PERSEUS
 | Partial response (PR) | 15 (4.2%) | 35 (9.9%) |
 | CR or better (sCR+CR), n (%) | 158 (44.5%) | 123 (34.7%) |
 | 95% CI (%) Exact 95% confidence interval | (39.3%, 49.9%) | (29.8%, 40.0%) |
-| MRD negativity rate,Based on threshold of 10 -5 using a next-generation sequencing assay (clonoSEQ),Patients achieved both MRD negativity (threshold of 10 -5) and response of CR or better, n (%) | 204 (57.5%) | 115 (32.5%) |
+| MRD negativity rate,Based on threshold of 10-5 using a next-generation sequencing assay (clonoSEQ),Patients achieved both MRD negativity (threshold of 10-5) and response of CR or better, n (%) | 204 (57.5%) | 115 (32.5%) |
 | 95% CI (%) | (52.1%, 62.7%) | (27.6%, 37.6%) |
 | MRD negativity rate in patients with CR or better,Based on patients with CR or better response by the end of consolidation |  |  |
 | Number of patients with CR or better | n=158 | n=123 |
@@ -61,10 +61,10 @@ The major efficacy outcome measure was overall response rate (ORR).
 A total of 67 patients received DARZALEX FASPRO with VMP.
 The median age was 75 years (range: 66 to 86 years); 46% were male; 69% were White, 8% Asian, and 2% Black or African American; and 33% had ISS Stage I, 45% had ISS Stage II, and 22% had ISS Stage III disease.
 
-Efficacy results are summarized in Table 23.
+Efficacy results are summarized in Table 26.
 The median duration of follow-up for patients was 6.9 months.
 
-Table 23: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-VMP
+Table 26: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-VMP
 
 |  | DARZALEX FASPRO-VMP (N=67) |
 | --- | --- |
@@ -89,10 +89,10 @@ The median age was 69 years (range: 33 to 82 years); 69% were male; 69% were Whi
 Patients had received a median of 1 prior line of therapy.
 A total of 52% of patients had a prior ASCT; 95% of patients received a prior PI; 59% received a prior immunomodulatory agent, including 22% who received prior lenalidomide; and 54% of patients received both a prior PI and immunomodulatory agent.
 
-Efficacy results are summarized in Table 24.
+Efficacy results are summarized in Table 27.
 The median duration of follow-up for patients was 7.1 months.
 
-Table 24: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-Rd
+Table 27: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-Rd
 
 |  | DARZALEX FASPRO-Rd (N=65) |
 | --- | --- |
@@ -120,19 +120,19 @@ APOLLO demonstrated an improvement in PFS in the DARZALEX FASPRO-Pd treatment gr
 
 Figure 2: Kaplan-Meier Curve of PFS in APOLLO
 
-Additional efficacy results from APOLLO are presented in Table 25.
+Additional efficacy results from APOLLO are presented in Table 28.
 
-Table 25: Efficacy Results from APOLLO Based on intent-to-treat population
+Table 28: Efficacy Results from APOLLO Based on intent-to-treat population
 
 |  | DARZALEX FASPRO-Pd (n=151) | Pd (n=153) |
 | --- | --- | --- |
 | Overall response (sCR+CR+VGPR+PR) n (%) | 104 (68.9%) | 71 (46.4%) |
-| P-value p-value from Cochran Mantel-Haenszel Chi-Squared test adjusted for stratification factors | <0.0001 |  |
+| P-valuep-value from Cochran Mantel-Haenszel Chi-Squared test adjusted for stratification factors | <0.0001 |  |
 | Stringent complete response (sCR) | 14 (9.3%) | 2 (1.3%) |
 | Complete response (CR) | 23 (15.2%) | 4 (2.6%) |
 | Very good partial response (VGPR) | 40 (26.5%) | 24 (15.7%) |
 | Partial response (PR) | 27 (17.9%) | 41 (26.8%) |
-| MRD negativity rate Based on the intent-to-treat population,Based on threshold of 10 -5 using a next-generation sequencing assay (clonoSEQ). n (%) | 13 (8.6%) | 3 (2.0%) |
+| MRD negativity rate Based on the intent-to-treat population,Based on threshold of 10-5 using a next-generation sequencing assay (clonoSEQ). n (%) | 13 (8.6%) | 3 (2.0%) |
 | 95% CI (%) | (4.7%, 14.3%) | (0.4%, 5.6%) |
 | P-value p-value from Fisher's exact test. | 0.0102 |  |
 | MRD negativity rate in patients with CR or better |  |  |
@@ -159,10 +159,10 @@ The median age was 61 years (range: 42 to 84); 52% were male; 73% were White and
 A total of 79% of patients had a prior ASCT; 91% of patients received a prior PI.
 All patients received 1 prior line of therapy with exposure to lenalidomide and 62% of patients were refractory to lenalidomide.
 
-Efficacy results are summarized in Table 26.
+Efficacy results are summarized in Table 29.
 At a median follow-up of 9.2 months, the median duration of response had not been reached and an estimated 85.2% (95% CI: 72.5, 92.3) maintained response for at least 6 months and 82.5% (95% CI: 68.9, 90.6) maintained response for at least 9 months.
 
-Table 26: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-Kd
+Table 29: Efficacy Results from PLEIADES in Patients Who Received DARZALEX FASPRO-Kd
 
 |  | DARZALEX FASPRO-Kd (N=66) |
 | --- | --- |
@@ -192,9 +192,9 @@ Eighty-two percent of patients were refractory to their last line of prior syste
 
 The results show that DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously is non-inferior to daratumumab 16 mg/kg administered intravenously in terms of ORR and maximum trough concentration [see Clinical Pharmacology (12.3)].
 Median progression-free survival was 5.6 months in the DARZALEX FASPRO arm and 6.1 months in the intravenous daratumumab arm.
-ORR results are provided in Table 27.
+ORR results are provided in Table 30.
 
-Table 27: Efficacy Results from COLUMBA
+Table 30: Efficacy Results from COLUMBA
 
 |  | DARZALEX FASPRO (N=263) | Intravenous Daratumumab (N=259) |
 | --- | --- | --- |
@@ -205,7 +205,39 @@ Table 27: Efficacy Results from COLUMBA
 | Very good partial response (VGPR) | 45 (17%) | 37 (14%) |
 | Partial response (PR) | 58 (22%) | 52 (20%) |
 
-## 14.3 Light Chain Amyloidosis
+## 14.3 High-Risk Smoldering Multiple Myeloma
+
+Monotherapy
+
+The efficacy of DARZALEX FASPRO as monotherapy versus active monitoring was evaluated in AQUILA (NCT03301220), an open-label, randomized trial in patients with high-risk smoldering multiple myeloma.
+
+Patients randomized to the treatment arm received DARZALEX FASPRO 1,800 mg/30,000 units administered subcutaneously once weekly from weeks 1 to 8, once every 2 weeks from weeks 9 to 24 and once every 4 weeks starting with week 25 until 39 cycles or up to 36 months or until diagnosis to multiple myeloma or unacceptable toxicity.
+
+The major efficacy outcome measure was progression-free survival (PFS) by independent review committee (IRC) as defined as the diagnosis of multiple myeloma based on the IMWG diagnostic criteria for multiple myeloma or death.
+
+A total of 390 patients were randomized: 194 to the DARZALEX FASPRO arm and 196 to the active monitoring arm.
+The median age was 64 years (range: 31 to 86); 12% were ≥75 years; 48% were male; 83% White, 8% Asian, and 3% were Black or African American.
+Forty-one percent of patients had 2 or more of the following criteria for high-risk smoldering multiple myeloma: serum monoclonal protein level >2 g/dL, involved-to-uninvolved serum-free light chain ratio >20, and bone marrow plasma cells >20%.
+DARZALEX FASPRO is only indicated for patients with high-risk smoldering multiple myeloma.
+It is not indicated for other risk categories.
+
+PFS results are shown in Figure 3.
+
+Figure 3: Kaplan-Meier Curve of PFS in AQUILA
+
+Additional efficacy results from AQUILA are presented in Table 31.
+
+Table 31: Efficacy Results from AQUILABased on intent-to-treat population per investigator assessment
+
+|  | DARZALEX FASPRO (n=194) | Active Monitoring (n=196) |
+| --- | --- | --- |
+| Overall response (sCR+CR+VGPR+PR), n (%) | 123 (63.4%) | 2 (1.0%) |
+| Stringent complete response (sCR) | 7 (3.6%) | 0 |
+| Complete response (CR) | 10 (5.2%) | 0 |
+| Very good partial response (VGPR) | 41 (21.1%) | 1 (0.5%) |
+| Partial response (PR) | 65 (33.5%) | 1 (0.5%) |
+
+## 14.4 Light Chain Amyloidosis
 
 In Combination with Bortezomib, Cyclophosphamide and Dexamethasone
 
@@ -223,9 +255,9 @@ The median number of organs involved was 2 (range: 1–6) and 66% of patients ha
 Vital organ involvement was: cardiac 71%, renal 59% and hepatic 8%.
 The majority (79%) of patients had lambda free light chain disease.
 
-Efficacy results are summarized in Table 28.
+Efficacy results are summarized in Table 32.
 
-Table 28: Efficacy Results from ANDROMEDA Based on intent-to-treat population
+Table 32: Efficacy Results from ANDROMEDA Based on intent-to-treat population
 
 |  | DARZALEX FASPRO-VCd (n=195) | VCd (n=193) |
 | --- | --- | --- |

@@ -3,12 +3,12 @@
 ## 2.1 Important Dosing Information
 
 - DARZALEX FASPRO is for subcutaneous use only.
-- Administer medications before and after administration of DARZALEX FASPRO to minimize administration-related reactions [see Dosage and Administration (2.5)].
+- Administer medications before and after administration of DARZALEX FASPRO to minimize administration-related reactions [see Dosage and Administration (2.6)].
 - Type and screen patients prior to starting DARZALEX FASPRO.
 
 ## 2.2 Recommended Dosage for Multiple Myeloma
 
-The recommended dose of DARZALEX FASPRO is 1,800 mg/30,000 units (1,800 mg daratumumab and 30,000 units hyaluronidase) administered subcutaneously over approximately 3–5 minutes.
+The recommended dose of DARZALEX FASPRO is 1,800 mg/30,000 units (1,800 mg daratumumab and 30,000 units hyaluronidase) administered subcutaneously over approximately 3 to 5 minutes.
 Tables 1, 2, 3, 4, and 5 provide the recommended dosing schedule when DARZALEX FASPRO is administered as monotherapy or as part of a combination therapy.
 
 Monotherapy and In Combination with Lenalidomide and Dexamethasone (DARZALEX FASPRO-Rd), Pomalidomide and Dexamethasone (DARZALEX FASPRO-Pd) or Carfilzomib and Dexamethasone (DARZALEX FASPRO-Kd)
@@ -88,15 +88,29 @@ Table 5: DARZALEX FASPRO dosing schedule in combination with bortezomib and dexa
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see the prescribing information for dosage recommendations for the other drugs.
 
-## 2.3 Recommended Dosage for Light Chain Amyloidosis
+## 2.3 Recommended Dosage for High-Risk Smoldering Multiple Myeloma
+
+The recommended dose of DARZALEX FASPRO is 1,800 mg/30,000 units (1,800 mg daratumumab and 30,000 units hyaluronidase) administered subcutaneously over approximately 3 to 5 minutes.
+
+Use the dosing schedule provided in Table 6 when DARZALEX FASPRO is administered as monotherapy in high-risk smoldering multiple myeloma patients (4-week cycle).
+
+Table 6: DARZALEX FASPRO dosing schedule for monotherapy (4-week cycle)
+
+| Weeks | Schedule |
+| --- | --- |
+| Weeks 1 to 8 | weekly (total of 8 doses) |
+| Weeks 9 to 24First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
+| Week 25 onwards until diagnosis of multiple myeloma or a maximum of 3 yearsFirst dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
+
+## 2.4 Recommended Dosage for Light Chain Amyloidosis
 
 In Combination with Bortezomib, Cyclophosphamide and Dexamethasone (DARZALEX FASPRO-VCd)
 
-The recommended dose of DARZALEX FASPRO is 1,800 mg/30,000 units (1,800 mg daratumumab and 30,000 units hyaluronidase) administered subcutaneously over approximately 3–5 minutes.
+The recommended dose of DARZALEX FASPRO is 1,800 mg/30,000 units (1,800 mg daratumumab and 30,000 units hyaluronidase) administered subcutaneously over approximately 3 to 5 minutes.
 
-Use the dosing schedule provided in Table 6 when DARZALEX FASPRO is administered in combination with bortezomib, cyclophosphamide and dexamethasone (4-week cycle).
+Use the dosing schedule provided in Table 7 when DARZALEX FASPRO is administered in combination with bortezomib, cyclophosphamide and dexamethasone (4-week cycle).
 
-Table 6: DARZALEX FASPRO dosing schedule in combination with bortezomib, cyclophosphamide and dexamethasone (4-week cycle)
+Table 7: DARZALEX FASPRO dosing schedule in combination with bortezomib, cyclophosphamide and dexamethasone (4-week cycle)
 
 | Weeks | Schedule |
 | --- | --- |
@@ -104,13 +118,13 @@ Table 6: DARZALEX FASPRO dosing schedule in combination with bortezomib, cycloph
 | Weeks 9 to 24 First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
 | Week 25 onwards until disease progression or a maximum of 2 years First dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
 
-When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.2)and the prescribing information for dosage recommendations for the other drugs.
+When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.4)and the prescribing information for dosage recommendations for the other drugs.
 
-## 2.4 Missed DARZALEX FASPRO Doses
+## 2.5 Missed DARZALEX FASPRO Doses
 
 If a dose of DARZALEX FASPRO is missed, administer the dose as soon as possible and adjust the dosing schedule to maintain the dosing interval.
 
-## 2.5 Recommended Concomitant Medications
+## 2.6 Recommended Concomitant Medications
 
 Pre-medication
 
@@ -122,7 +136,7 @@ Administer the following pre-medications 1–3 hours before each dose of DARZALE
   Consider reducing the dose of methylprednisolone to 60 mg (or equivalent) following the second dose of DARZALEX FASPRO.
   In Combination Administer dexamethasone 20 mg (or equivalent) orally or intravenously prior to every DARZALEX FASPRO administration.
   When dexamethasone is the background regimen-specific corticosteroid, the dexamethasone dose that is part of the background regimen will serve as pre-medication on DARZALEX FASPRO administration days [see Clinical Studies (14)].
-  Do not administer background regimen-specific corticosteroids (e.g. prednisone) on DARZALEX FASPRO administration days when patients have received dexamethasone (or equivalent) as a pre-medication.
+  Do not administer background regimen-specific corticosteroids (e.g., prednisone) on DARZALEX FASPRO administration days when patients have received dexamethasone (or equivalent) as a pre-medication.
 
 Post-medication
 
@@ -141,12 +155,12 @@ Prophylaxis for Herpes Zoster Reactivation
 
 Initiate antiviral prophylaxis to prevent herpes zoster reactivation within 1 week after starting DARZALEX FASPRO and continue for 3 months following the end of treatment [see Adverse Reactions (6.1)].
 
-## 2.6 Dosage Modifications for Adverse Reactions
+## 2.7 Dosage Modifications for Adverse Reactions
 
 No dose reductions of DARZALEX FASPRO are recommended.
-Consider withholding DARZALEX FASPRO to allow recovery of blood cell counts in the event of myelosuppression [see Warnings and Precautions (5.3, 5.4)].
+Consider withholding DARZALEX FASPRO to allow recovery of blood cell counts in the event of myelosuppression [see Warnings and Precautions (5.4, 5.5)].
 
-## 2.7 Preparation and Administration
+## 2.8 Preparation and Administration
 
 DARZALEX FASPRO should be administered by a healthcare provider.
 
@@ -179,7 +193,7 @@ Storage
 
 Administration
 
-- Inject 15 mL of DARZALEX FASPRO into the subcutaneous tissue of the abdomenapproximately 3 inches [7.5 cm] to the right or left of the navel over approximately 3–5 minutes.
+- Inject 15 mL of DARZALEX FASPRO into the subcutaneous tissue of the abdomenapproximately 3 inches [7.5 cm] to the right or left of the navel over approximately 3 to 5 minutes.
   No data are available on performing the injection at other sites of the body.
 - Rotate injection sites for successive injections.
 - Never inject DARZALEX FASPRO into areas where the skin is red, bruised, tender, hard or areas where there are scars.

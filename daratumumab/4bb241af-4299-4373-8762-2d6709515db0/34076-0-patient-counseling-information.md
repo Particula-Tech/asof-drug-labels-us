@@ -10,18 +10,22 @@ Cardiac Toxicity in Patients with Light Chain (AL) Amyloidosis
 
 Advise patients to immediately contact their healthcare provider if they have signs or symptoms of cardiac adverse reactions [see Warnings and Precautions (5.2)].
 
+Infections
+
+Inform patients about the risk of developing infections during DARZALEX FASPRO treatment, and to report immediately any fever or symptoms of infection to their healthcare provider [see Warnings and Precautions (5.3)].
+
 Neutropenia
 
-Advise patients to contact their healthcare provider if they have a fever [see Warnings and Precautions (5.3)].
+Advise patients to contact their healthcare provider if they have a fever [see Warnings and Precautions (5.4)].
 
 Thrombocytopenia
 
-Advise patients to contact their healthcare provider if they have bruising or bleeding [see Warnings and Precautions (5.4)].
+Advise patients to contact their healthcare provider if they have bruising or bleeding [see Warnings and Precautions (5.5)].
 
 Embryo-Fetal Toxicity
 
 Advise pregnant women of the potential hazard to a fetus.
-Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.5), Use in Specific Populations (8.1, 8.3)].
+Advise females of reproductive potential to inform their healthcare provider of a known or suspected pregnancy [see Warnings and Precautions (5.6), Use in Specific Populations (8.1, 8.3)].
 
 Advise females of reproductive potential to use effective contraception during treatment with DARZALEX FASPRO and for 3 months after the last dose [see Use in Specific Populations (8.1, 8.3)].
 
@@ -30,9 +34,9 @@ Lenalidomide, thalidomide and pomalidomide are only available through a REMS pro
 
 Interference with Laboratory Tests
 
-Advise patients to inform their healthcare provider, including personnel at blood transfusion centers, that they are taking DARZALEX FASPRO, in the event of a planned transfusion [see Warnings and Precautions (5.6)].
+Advise patients to inform their healthcare provider, including personnel at blood transfusion centers, that they are taking DARZALEX FASPRO, in the event of a planned transfusion [see Warnings and Precautions (5.7)].
 
-Advise patients that DARZALEX FASPRO can affect the results of some tests used to determine complete response in some patients and additional tests may be needed to evaluate response [see Warnings and Precautions (5.7)].
+Advise patients that DARZALEX FASPRO can affect the results of some tests used to determine complete response in some patients and additional tests may be needed to evaluate response [see Warnings and Precautions (5.8)].
 
 Hepatitis B Virus (HBV) Reactivation
 
