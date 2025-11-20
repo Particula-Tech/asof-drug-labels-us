@@ -111,7 +111,7 @@ A post-marketing study showed a higher incidence of postpartum hemorrhage in mot
 Other bleeding events related to SSRI and SNRI use have ranged from ecchymoses, hematomas, epistaxis, and petechiae to life-threatening hemorrhages.
 Concomitant use of aspirin, nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, and other anti-coagulants may add to this risk
 
-Inform patients about the risk of bleeding associated with the concomitant use of duloxetine and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
+Inform patients about the risk of increased bleeding associated with the concomitant use of duloxetine and NSAIDs, aspirin, or other drugs that affect coagulation [see Drug Interactions (7.4)].
 
 ## 5.6 Severe Skin Reactions
 

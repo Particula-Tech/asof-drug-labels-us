@@ -110,7 +110,7 @@ Especially tell your healthcare provider if you take:
 
 - triptans used to treat migraine headache
 - medicines used to treat mood, anxiety, psychotic or thought disorders, including tricyclics, lithium, buspirone, SSRIs, SNRIs or MAOIs
-- tramadol, fentanyl, meperidine, methadone, or other opoids
+- tramadol, fentanyl, meperidine, methadone, or other opioids
 - amphetamines
 - cimetidine
 - the antibiotics ciprofloxacin, enoxacin

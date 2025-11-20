@@ -57,7 +57,7 @@ Fifteen percent of patients were down titrated.
 Study GAD-3 had a starting dose of 30 mg once daily for 1 week before increasing it to 60 mg once daily.
 
 Studies GAD-2 and GAD-3 involved dose titration with duloxetine doses ranging from 60 mg once daily to 120 mg once daily (N=168 and N=162) compared to placebo (N=159 and N=161) over a 10-week treatment period.
-The mean dose for completers at endpoint in these trials was 104.8 mg/day.
+The mean dosage for completers at endpoint in these trials was 104.8 mg/day.
 Study GAD-1 evaluated duloxetine dosages of 60 mg once daily (N=168) and 120 mg once daily (N=170) compared to placebo (N=175) over a 9-week treatment period.
 While a 120 mg/day dose was shown to be effective, there is no evidence that doses greater than 60 mg/day confer additional benefit.
 
@@ -147,7 +147,7 @@ A total of 354 patients (234 duloxetine, 120 placebo) were enrolled in Study FM-
 female).
 The patients had a baseline pain score of 6.5 on an 11-point scale ranging from 0 (no pain) to 10 (worse possible pain).
 
-Studies FM-1 and FM-2 compared duloxetine 60 mg once daily or 120 mg daily (given in divided doses in FM-1 and as a single daily dose in Study FM-2) with placebo.
+Studies FM-1 and FM-2 compared duloxetine 60 mg once daily or 120 mg daily (given in divided doses in Study FM-1 and as a single daily dose in Study FM-2) with placebo.
 Study FM-2 additionally compared duloxetine 20 mg with placebo during the initial three months of a six-month trial.
 
 Treatment with duloxetine 60 mg or 120 mg daily statistically significantly improved the endpoint mean pain scores from baseline and increased the proportion of patients with at least a 50% reduction in pain score from baseline.

@@ -231,20 +231,17 @@ In these trials, duloxetine-treated male patients experienced significantly more
 Duloxetine-treated female patients did not experience more sexual dysfunction than placebo-treated female patients as measured by ASEX total score.
 Healthcare providers should routinely inquire about possible sexual adverse reactions in duloxetine-treated patients.
 
-Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Trials
+Table 5: Mean Change in ASEX Scores by Gender in MDD Placebo-Controlled Adult Trials
 
-|  | Male Patientsa |  | Female Patientsa |  |
+|  | Male Patients n=Number of patients with non-missing change score for ASEX total |  | Female Patients |  |
 | --- | --- | --- | --- | --- |
 |  | Duloxetine (n=175) | Placebo (n=83) | Duloxetine (n=241) | Placebo (n=126) |
-| ASEX Total (Items 1 to 5) | 0.56b | -1.07 | -1.15 | -1.07 |
+| ASEX Total (Items 1 to 5) | 0.56 p=0.013 versus placebo | -1.07 | -1.15 | -1.07 |
 | Item 1-Sex drive | -0.07 | -0.12 | -0.32 | -0.24 |
 | Item 2-Arousal | 0.01 | -0.26 | -0.21 | -0.18 |
 | Item 3-Ability to achieve erection (men); Lubrication (women) | 0.03 | -0.25 | -0.17 | -0.18 |
-| Item 4-Ease of reaching orgasm | 0.40c | -0.24 | -0.09 | -0.13 |
+| Item 4-Ease of reaching orgasm | 0.40 p<0.001 versus placebo | -0.24 | -0.09 | -0.13 |
 | Item 5-Orgasm satisfaction | 0.09 | -0.13 | -0.11 | -0.17 |
-| a n=Number of patients with non-missing change score for ASEX total |  |  |  |  |
-| b p=0.013 versus placebo |  |  |  |  |
-| c p<0.001 versus placebo |  |  |  |  |
 
 Vital Sign Changes in Adults
 
@@ -339,15 +336,15 @@ Adverse Reactions Observed in Placebo-Controlled Clinical Trials in Pediatric Pa
 
 Pediatric Clinical Trial Database
 
-The data described below reflect exposure to duloxetine (N=476) in pediatric patients aged 7 to 17 years of age from two 10-week, placebo-controlled trials in patients with MDD (N=341) (Studies MDD-6 and MDD-7) and one 10-week placebo-controlled trial in GAD (N=135) (Study GAD-6).
+The data described below reflect exposure to duloxetine (N=567) in pediatric patients aged 7 to 18 years of age from two 10-week, placebo-controlled trials in patients with MDD (N=341) (Studies MDD-6 and MDD-7), one 10-week placebo-controlled trial in GAD (N=135) (Study GAD-6), and a 13-week trial in fibromyalgia (N=91).
 Duloxetine is not approved for the treatment of MDD in pediatric patients [see Use in Specific Populations (8.4)].
-Of the duloxetine-treated patients in these studies, 42% were 7 to 11 years of age (58% were between 12 to 17 years old), 51% were female, and 69% were white.
+Of the duloxetine-treated patients in these studies, 36% were 7 to 11 years of age (64% were between 12 to 18 years old), 55% were female, and 69% were Caucasian.
 Patients received 30 to 120 mg of duloxetine per day during placebo-controlled acute treatment studies.
-In the pediatric MDD and GAD, trials up to 36 weeks long, there were 822duloxetine-treated pediatric patients aged 7 to 17 years of age (most patients received 30 to 120 mg per day) – 42% were 7 to 11 years of age (58% were 12 to 17 years old) and 52% were female.
+In the pediatric MDD, GAD, and fibromyalgia trials up to 40 weeks long, there were 988 duloxetine-treated pediatric patients aged 7 to 17 years of age (most patients received 30 to 120 mg per day) – 35% were 7 to 11 years of age (65% were 12 to 17 years old) and 56% were female.
 
 Most Common Adverse Reactions in Pediatric Trials
 
-The most common adverse reactions (≥5% in duloxetine-treated patients and at least twice the incidence of placebo-treated patients) in all pooled pediatric populations (MDD, GAD, and another indication) were decreased weight, decreased appetite, nausea, vomiting, fatigue, and diarrhea.
+The most common adverse reactions (≥5% in duloxetine-treated patients and at least twice the incidence of placebo-treated patients) in all pooled pediatric populations (MDD, GAD, and fibromyalgia) were decreased weight, decreased appetite, nausea, vomiting, fatigue, and diarrhea.
 
 Adverse Reactions in Pediatric Patients Aged 7 to 17 Years Old with MDD and GAD
 

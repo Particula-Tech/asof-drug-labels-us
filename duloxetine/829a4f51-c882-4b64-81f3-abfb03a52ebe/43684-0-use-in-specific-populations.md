@@ -90,7 +90,7 @@ The presence of duloxetine metabolites in breast milk was not examined.
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of duloxetine have been established for treatment of generalized anxiety disorder (GAD) in patients 7 to 17 years of age.
+The safety and effectiveness of duloxetine have been established for treatment of generalized anxiety disorder (GAD) in patients 7 to 17 years of age and for treatment of juvenile fibromyalgia syndrome in patients 13 to 17 years of age.
 The safety and effectiveness of duloxetine have not been established in pediatric patients with major depressive disorder (MDD), diabetic peripheral neuropathic pain, or chronic musculoskeletal pain.
 
 Antidepressants increased the risk of suicidal thoughts and behavior in pediatric patients.

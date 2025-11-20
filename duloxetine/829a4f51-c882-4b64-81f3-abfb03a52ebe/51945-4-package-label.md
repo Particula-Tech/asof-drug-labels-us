@@ -6,9 +6,9 @@ Rx Only
 
 20 mg
 
-NDC 68180-294-06
+NDC 68180-294-07
 
-30's Bottles
+60's Bottles
 
 Duloxetine Delayed-release Capsules USP
 
