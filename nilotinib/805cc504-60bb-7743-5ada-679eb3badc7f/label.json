@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA218350"
+  ],
+  "inn": "nilotinib",
+  "labeler": "Dr. Reddy's Laboratories Inc",
+  "package_ndcs": [
+    "43598-055-04",
+    "43598-455-46",
+    "43598-455-74",
+    "43598-456-46",
+    "43598-456-74"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nilotinib",
+      "name": "Nilotinib"
+    }
+  ],
+  "setid": "805cc504-60bb-7743-5ada-679eb3badc7f",
+  "source": "dailymed"
+}
