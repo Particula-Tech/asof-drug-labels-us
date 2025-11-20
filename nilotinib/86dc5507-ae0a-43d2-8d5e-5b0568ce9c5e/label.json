@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA209651"
+  ],
+  "inn": "nilotinib",
+  "labeler": "Camber Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "31722-779-33",
+    "31722-780-33"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nilotinib",
+      "name": "Nilotinib"
+    }
+  ],
+  "setid": "86dc5507-ae0a-43d2-8d5e-5b0568ce9c5e",
+  "source": "dailymed"
+}
