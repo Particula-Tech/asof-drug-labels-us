@@ -1,0 +1,106 @@
+# CLINICAL PHARMACOLOGY
+
+In patients treated with intravenous metronidazole, using a dosage regimen of 15 mg/kg loading dose followed 6 hours later by 7.5 mg/kg every 6 hours, the average peak steady-state plasma concentrations (Cmax) and trough concentrations (Cmin) were 25 mcg/mL and 18 mcg/mL, respectively.
+Plasma concentrations of metronidazole are proportional to the administered dose.
+An eight-hour intravenous infusion of 100 mg to 4,000 mg of metronidazole in normal subjects showed a linear relationship between dose and peak plasma concentration.
+The average elimination half-life of metronidazole in healthy subjects is eight hours.
+
+## Distribution
+
+Metronidazole is the major component appearing in the plasma, with lesser quantities of metabolites also being present.
+Less than 20% of the circulating metronidazole is bound to plasma proteins.
+Metronidazole appears in cerebrospinal fluid, saliva and breast milk in concentrations similar to those found in plasma.
+Bactericidal concentrations of metronidazole have also been detected in pus from hepatic abscesses.
+
+Following a single intravenous dose of metronidazole 500 mg, 4 healthy subjects who underwent gastrointestinal endoscopy had peak gastric juice metronidazole concentrations of 5 to 6 mcg/mL at one hour post-dose.
+In patients receiving intravenous metronidazole in whom gastric secretions are continuously removed by nasogastric aspiration, sufficient metronidazole may be removed in the aspirate to cause a reduction in serum levels.
+
+## Metabolism
+
+The metabolites of metronidazole result primarily from side-chain oxidation [1-(ß-hydroxyethyl)-2-hydroxymethyl-5-nitroimidazole and 2-methyl-5-nitroimidazole-1-yl-acetic acid] and glucuronide conjugation.
+Both the parent compound and the hydroxyl metabolite possess in vitro antimicrobial activity.
+
+## Excretion
+
+The major route of elimination of metronidazole and its metabolites is via the urine (60-80% of the dose), with approximately 20% of the amount excreted appearing as unchanged metronidazole.
+Renal clearance of metronidazole is approximately 10 mL/min/1.73 m2.
+Fecal excretion accounts for 6-15% of the dose.
+
+## Renal Impairment
+
+Decreased renal function does not alter the single-dose pharmacokinetics of metronidazole.
+
+Subjects with end-stage renal disease (ESRD; CLCR= 8.1±9.1 mL/min) and who received a single intravenous infusion of metronidazole 500 mg had no significant change in metronidazole pharmacokinetics but had 2-fold higher Cmax of hydroxy-metronidazole and 5-fold higher Cmax of metronidazole acetate, compared to healthy subjects with normal renal function (CLCR= 126 ± 16 mL/min).
+Thus, on account of the potential accumulation of metronidazole metabolites in ESRD patients, monitoring for metronidazole associated adverse events is recommended (see PRECAUTIONS).
+
+## Effect of Dialysis
+
+Following a single intravenous infusion or oral dose of metronidazole 500 mg, the clearance of metronidazole was investigated in ESRD subjects undergoing hemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
+A hemodialysis session lasting for 4 to 8 hours removed 40% to 65% of the administered metronidazole dose, depending on the type of the dialyzer membrane used and the duration of the dialysis session.
+If the administration of metronidazole cannot be separated from the dialysis session, supplementation of metronidazole dose following hemodialysis should be considered (see DOSAGE AND ADMINISTRATION).
+A peritoneal dialysis session lasting for 7.5 hours removed approximately 10% of the administered metronidazole dose.
+No adjustment in metronidazole dose is needed in ESRD patients undergoing CAPD.
+
+## Hepatic Impairment
+
+Following a single intravenous infusion of 500 mg metronidazole, the mean AUC24 of metronidazole was higher by 114% in patients with severe (Child-Pugh C) hepatic impairment, and by 54% and 53% in patients with a mild (Child-Pugh A) and moderate (Child-Pugh B) hepatic impairment, respectively, compared to healthy control subjects.
+There were no significant changes in the AUC24 of hydroxy-metronidazole in these hepatically impaired patients.
+A reduction in metronidazole dosage by 50% is recommended in patients with severe (Child-Pugh C) hepatic impairment (see DOSAGE AND ADMINISTRATION).
+No dosage adjustment is needed for patients with mild to moderate hepatic impairment.
+Patients with mild to moderate hepatic impairment should be monitored for metronidazole associated adverse events (see PRECAUTIONS and DOSAGE AND ADMINISTRATION).
+
+## Geriatric Patients
+
+Following a single 500 mg oral or IV dose of metronidazole, subjects >70 years old with no apparent renal or hepatic dysfunction had a 40% to 80% higher mean AUC of hydroxy-metronidazole (active metabolite), with no apparent increase in the mean AUC of metronidazole (parent compound), compared to young healthy controls < 40 years old.
+In geriatric patients, monitoring for metronidazole associated adverse events is recommended (see PRECAUTIONS).
+
+## Pediatric Patients
+
+In one study newborn infants appeared to demonstrate diminished capacity to eliminate metronidazole.
+The elimination half-life, measured during the first three days of life, was inversely related to gestational age.
+In infants whose gestational ages were between 28 and 40 weeks, the corresponding elimination half-lives ranged from 109 to 22.5 hours.
+
+Two other trials included infants 23-48 weeks post-menstrual age, (0-80 days postnatal age) with complicated intra-abdominal infections.
+Clearance increased with increasing post-menstrual age, while volume of distribution and half-life decreased (see PRECAUTIONS, Pediatric Use and DOSAGE AND ADMINISTRATION).
+
+## Microbiology
+
+### Mechanism of Action
+
+Metronidazole, a nitroimidazole, exerts antibacterial effects in an anaerobic environment against most obligate anaerobes.
+Once metronidazole enters the organism by passive diffusion and is activated in the cytoplasm of susceptible anaerobic bacteria, it is reduced; this process includes intra-cellular electron transport proteins such as ferredoxin, transfer of an electron to the nitro group of the metronidazole, and formation of a short-lived nitroso free radical.
+Because of this alteration of the metronidazole molecule, a concentration gradient is created and maintained which promotes the drug’s intracellular transport.
+The reduced form of metronidazole and free radicals can interact with DNA leading to inhibition of DNA synthesis and DNA degradation leading to death of bacteria.
+The precise mechanism of action of metronidazole is unclear.
+
+### Drug Resistance
+
+A potential for development of resistance exists against metronidazole.
+
+Resistance may be due to multiple mechanisms that include decreased uptake of the drug, altered reduction efficiency, overexpression of the efflux pumps, inactivation of the drug, and/or increased DNA damage repair.
+
+Metronidazole does not possess any clinically relevant activity against facultative anaerobes or obligate aerobes.
+
+Activity In Vitro and in Clinical Infections
+
+Metronidazole has been shown to be active against most isolates of the following bacteria both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
+
+Gram-positive anaerobes
+
+Clostridium species Eubacterium species Peptococcus species Peptostreptococcus species
+
+Gram-negative anaerobes
+
+Bacteroides fragilis group (B. fragilis, B. distasonis, B. ovatus, B. thetaiotaomicron, B. vulgatus) Fusobacterium species
+
+The following in vitro data are available, but their clinical significance is unknown.
+
+Metronidazole exhibits in vitro minimal inhibitory concentrations (MIC’s) of 8 mcg/mL or less against most (≥ 90%) isolates of the following bacteria; however, the safety and effectiveness of metronidazole in treating clinical infections due to these bacteria have not been established in adequate and well-controlled clinical trials.
+
+Gram-negative anaerobes
+
+Bacteroides fragilis group (B. caccae, B. uniformis) Prevotella species (P. bivia, P. buccae, P. disiens)
+
+## Susceptibility Tests
+
+For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: http://www.fda.gov/STIC.
