@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA084754"
+  ],
+  "inn": "dexamethasone",
+  "labeler": "Kesin Pharma Corporation",
+  "package_ndcs": [
+    "81033-010-05",
+    "81033-010-24"
+  ],
+  "products": [
+    {
+      "form": "ELIXIR",
+      "generic": "dexamethasone",
+      "name": "Dexamethasone"
+    }
+  ],
+  "setid": "43e2a24a-4465-5787-e063-6394a90a0b81",
+  "source": "dailymed"
+}
