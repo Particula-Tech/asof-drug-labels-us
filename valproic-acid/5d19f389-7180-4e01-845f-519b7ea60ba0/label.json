@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA075782"
+  ],
+  "inn": "valproic-acid",
+  "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+  "package_ndcs": [
+    "68999-196-24",
+    "68999-196-45",
+    "68999-874-24",
+    "68999-874-59"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "valproic acid",
+      "name": "Valproic Acid"
+    }
+  ],
+  "setid": "5d19f389-7180-4e01-845f-519b7ea60ba0",
+  "source": "dailymed"
+}
