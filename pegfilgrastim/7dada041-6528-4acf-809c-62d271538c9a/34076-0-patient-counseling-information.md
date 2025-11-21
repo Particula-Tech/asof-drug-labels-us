@@ -13,9 +13,11 @@ Advise patients of the following risks and potential risks with ZIEXTENZO:
 - •Capillary Leak Syndrome
 - •Aortitis
 
+Advise patients acutely exposed to myelosuppressive doses of radiation (Hematopoietic Subsyndrome of Acute Radiation Syndrome) that efficacy studies of pegfilgrastim products for this indication could not be conducted in humans for ethical and feasibility reasons and that, therefore, approval of this use was based on efficacy studies conducted in animals [see Clinical Studies (14.2)].
+
 Instruct patients who self-administer ZIEXTENZO using the single-dose prefilled syringe of the:
 
-- •Importance of following the Instructions for Use.
+- •Importance of following the Instructions for Use (see Instructions for Use).
 - •Dangers of reusing syringes.
 - •Importance of following local requirements for proper disposal of used syringes.
 
@@ -26,5 +28,3 @@ Sandoz Inc.
 Princeton, NJ 08540
 
 US License No. 2003
-
-Product of Slovenia

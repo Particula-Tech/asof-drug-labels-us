@@ -138,7 +138,7 @@ Prepare the ZIEXTENZO prefilled syringe for use
 14.
 Disposing of used syringes
 
-| Figure M | Put the used syringes in an FDA-cleared sharps disposal container right away after use (See Figure M). Do not throw away the syringe in the household trash. •If you do not have an FDA-cleared sharps disposal container, you may use a household container that is:omade of a heavy-duty plasticocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come outoupright and stable during useoleak-resistantoproperly labeled to warn of hazardous waste inside the container.•When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.•Do not reuse the prefilled syringe.•Do not recycle prefilled syringes or sharps disposal container or throw them into household trash. Important: Keep the sharps disposal container out of the reach of children. |
+| Figure M | Put the used syringes in an FDA-cleared sharps disposal container right away after use (See Figure M). Do not throw away the syringe in the household trash. •If you do not have an FDA-cleared sharps disposal container, you may use a household container that is: omade of a heavy-duty plasticocan be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come outoupright and stable during useoleak-resistantoproperly labeled to warn of hazardous waste inside the container. •When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes. For more information about safe sharps disposal, and for specific information about sharps disposal in the state that you live in, go to the FDA’s website at: http://www.fda.gov/safesharpsdisposal.•Do not reuse the prefilled syringe.•Do not recycle prefilled syringes or sharps disposal container or throw them into household trash. Important: Keep the sharps disposal container out of the reach of children. |
 | --- | --- |
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
@@ -147,6 +147,4 @@ Manufactured by: Sandoz Inc. Princeton, NJ 08540
 
 US License No. 2003.
 
-Product of Slovenia
-
-Revised: Sep 2022
+Revised: Dec 2023

@@ -26,25 +26,25 @@ Discontinue ZIEXTENZO if sickle cell crisis occurs.
 
 ## 5.5 Glomerulonephritis
 
-Glomerulonephritis has occurred in patients receiving pegfilgrastim.
+Glomerulonephritis has occurred in patients receiving pegfilgrastim products.
 The diagnoses were based upon azotemia, hematuria (microscopic and macroscopic), proteinuria, and renal biopsy.
-Generally, events of glomerulonephritis resolved after dose-reduction or discontinuation of pegfilgrastim.
+Generally, events of glomerulonephritis resolved after dose-reduction or discontinuation of pegfilgrastim products.
 If glomerulonephritis is suspected, evaluate for cause.
 If causality is likely, consider dose-reduction or interruption of ZIEXTENZO.
 
 ## 5.6 Leukocytosis
 
-White blood cell (WBC) counts of 100 x 109/L or greater have been observed in patients receiving pegfilgrastim.
+White blood cell (WBC) counts of 100 x 109/L or greater have been observed in patients receiving pegfilgrastim products.
 Monitoring of complete blood count (CBC) during ZIEXTENZO therapy is recommended.
 
 ## 5.7 Thrombocytopenia
 
-Thrombocytopenia has been reported in patients receiving pegfilgrastim.
+Thrombocytopenia has been reported in patients receiving pegfilgrastim products.
 Monitor platelet counts.
 
 ## 5.8 Capillary Leak Syndrome
 
-Capillary leak syndrome has been reported after G-CSF administration, including pegfilgrastim, and is characterized by hypotension, hypoalbuminemia, edema and hemoconcentration.
+Capillary leak syndrome has been reported after G-CSF administration, including pegfilgrastim products, and is characterized by hypotension, hypoalbuminemia, edema and hemoconcentration.
 Episodes vary in frequency, severity and may be life-threatening if treatment is delayed.
 Patients who develop symptoms of capillary leak syndrome should be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care.
 
@@ -60,7 +60,7 @@ Monitor patients for signs and symptoms of MDS/AML in these settings.
 
 ## 5.11 Aortitis
 
-Aortitis has been reported in patients receiving pegfilgrastim.
+Aortitis has been reported in patients receiving pegfilgrastim products.
 It may occur as early as the first week after start of therapy.
 Manifestations may include generalized signs and symptoms such as fever, abdominal pain, malaise, back pain, and increased inflammatory markers (e.g., c-reactive protein and white blood cell count).
 Consider aortitis in patients who develop these signs and symptoms without known etiology.
