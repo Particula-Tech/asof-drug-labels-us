@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA214023"
+  ],
+  "inn": "estrogens-conjugated",
+  "labeler": "Ingenus Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "50742-390-01",
+    "50742-390-10",
+    "50742-391-01",
+    "50742-391-10"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED",
+      "generic": "estrogens, conjugated",
+      "name": "estrogens, conjugated"
+    }
+  ],
+  "setid": "7277bab4-d8c2-4e4b-a0d9-5dfe1885d547",
+  "source": "dailymed"
+}
