@@ -109,3 +109,5 @@ In patients 6 months to less than 12 years, the volume to be administered is cal
   FOCINVEZ is incompatible with any solutions containing divalent cations (e.g., Ca 2+, Mg 2+), including Lactated Ringer’s Solution and Hartmann's Solution.
 
 FOCINVEZ is compatible with 0.9% Sodium Chloride Injection.
+Always flush the IV set with 0.9% sodium chloride to remove any residual medication.
+Utilization of IV set without flushing may cause precipitation.

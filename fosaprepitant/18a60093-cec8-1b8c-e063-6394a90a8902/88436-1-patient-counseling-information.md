@@ -27,4 +27,4 @@ Limited
 
 Manufactured by:
 
-Steriscience Specialties Private Limited- Sterile Product Division Opp IIM, Bilekahalli, Bannerghatta Road, Bengaluru, Karnataka 560076, India.
+OneSource Specialty Pharma Limited Sterile Product Division, Opp IIM, Bilekahalli, Bannerghatta Road, Bengaluru, India 560076
