@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 100 mg Suppository Blister Pack
 
-Cleocin® 100 mg (clindamycin phosphate vaginal suppositories) Dist. by Pharmacia & Upjohn Co. LLC A subsidiary of Pfizer Inc., NY, NY 10017
+Cleocin® 100 mg (clindamycin phosphate vaginal suppositories) Dist. by Pharmacia & Upjohn Co. LLC A subsidiary of Pfizer Inc., NY, NY 10001
 
 Lot Exp
 
