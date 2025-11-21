@@ -10,7 +10,7 @@ Table 1: Acyclovir Pharmacokinetic Characteristics (Range)
 | Parameter | Range |
 | --- | --- |
 | Plasma protein binding | 9% to 33% |
-| Plasma elimination half-life | 2.5 to 3.3 h |
+| Plasma elimination half-life | 2.5 to 3.3 hr |
 | Average oral bioavailability | 10% to 20%Bioavailability decreases with increasing dose. |
 
 In one multiple-dose, crossover study in healthy subjects (n = 23), it was shown that increases in plasma acyclovir concentrations were less than dose proportional with increasing dose, as shown in Table 2.
@@ -28,7 +28,7 @@ The only known urinary metabolite is 9-[(carboxymethoxy)methyl]guanine.
 
 ## Special Populations
 
-### Adults with Impaired Renal Function
+### Adults With Impaired Renal Function
 
 The half-life and total body clearance of acyclovir are dependent on renal function.
 A dosage adjustment is recommended for patients with reduced renal function (see DOSAGE AND ADMINISTRATION).

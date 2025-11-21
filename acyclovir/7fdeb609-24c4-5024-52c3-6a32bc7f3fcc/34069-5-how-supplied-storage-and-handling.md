@@ -24,7 +24,7 @@ ACYCLOVIR TABLETS, USP
 | Toronto, Ontario | Weston, Florida |
 | Canada M9L 1T9 | 33326 |
 
-Revised: February 2016
+Revised: November 2025
 
 Rev.
-3
+4

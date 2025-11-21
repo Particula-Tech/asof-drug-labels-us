@@ -35,14 +35,14 @@ These symptoms may be marked, particularly in older adults or in patients with r
 
 Digestive: Diarrhea, gastrointestinal distress, nausea.
 
-Hematologic and Lymphatic: Anemia, leukocytoclastic vasculitis, leukopenia, lymphadenopathy, thrombocytopenia.
+Hematologic and Lymphatic:Anemia, leukocytoclastic vasculitis, leukopenia, lymphadenopathy, thrombocytopenia.
 
 Hepatobiliary Tract and Pancreas: Elevated liver function tests, hepatitis, hyperbilirubinemia, jaundice.
 
 Musculoskeletal: Myalgia.
 
-Skin: Alopecia, erythema multiforme, photosensitive rash, pruritus, rash, Stevens-Johnson syndrome, toxic epidermal necrolysis, urticaria.
+Skin and Subcutaneous Tissue Disorders: Stevens-Johnson Syndrome (SJS), toxic epidermal necrolysis (TEN), acute generalized exanthematous pustulosis (AGEP), and drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme (EM), rashes including photosensitivity, alopecia, pruritus, urticaria (see CONTRAINDICATIONS and WARNINGS).
 
 Special Senses: Visual abnormalities.
 
-Urogenital: Renal failure, elevated blood urea nitrogen, elevated creatinine, hematuria (see WARNINGS).
+Urogenital:Renal failure, renal pain (may be associated with renal failure), elevated blood urea nitrogen, elevated creatinine, hematuria (see WARNINGS).

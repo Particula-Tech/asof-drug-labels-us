@@ -4,6 +4,11 @@ Acyclovir tablets are intended for oral ingestion only.
 Renal failure, in some cases resulting in death, has been observed with acyclovir therapy (see ADVERSE REACTIONS: Observed During Clinical Practice and OVERDOSAGE).
 Thrombotic thrombocytopenic purpura/hemolytic uremic syndrome (TTP/HUS), which has resulted in death, has occurred in immunocompromised patients receiving acyclovir therapy.
 
+Severe cutaneous adverse reactions (SCARs), including acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and erythema multiforme (EM) have been reported with acyclovir (see CONTRAINDICATIONS and ADVERSE REACTIONS).
+Discontinue acyclovir tablets immediately if a painful rash with mucosal involvement or a progressive severe rash develops.
+Closely monitor clinical status and initiate appropriate therapy.
+Acyclovir tablets are contraindicated in patients who have developed SCARs with the use of acyclovir or valacyclovir, or any component of the formulation (see CONTRAINDICATIONS and ADVERSE REACTIONS).
+
 # PRECAUTIONS
 
 Dosage adjustment is recommended when administering acyclovir to patients with renal impairment (see DOSAGE AND ADMINISTRATION).
@@ -34,6 +39,12 @@ If medical management of a genital herpes recurrence is indicated, patients shou
 Chickenpox in otherwise healthy children is usually a self-limited disease of mild to moderate severity.
 Adolescents and adults tend to have more severe disease.
 Treatment was initiated within 24 hours of the typical chickenpox rash in the controlled studies, and there is no information regarding the effects of treatment begun later in the disease course.
+
+## Severe Cutaneous Adverse Reactions
+
+Inform patients that severe skin reactions including acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), and erythema multiforme (EM) have been reported with acyclovir.
+Advise patients to immediately contact their healthcare provider if they develop a rash.
+Instruct patients to immediately stop taking acyclovir tablets and seek medical attention if a painful rash with mucosal involvement develops (see CONTRAINDICATIONS and WARNINGS).
 
 ## Drug Interactions
 
