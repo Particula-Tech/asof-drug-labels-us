@@ -1,0 +1,9 @@
+# WARNING: QT PROLONGATION and SUDDEN DEATHS
+
+- Nilotinib prolongs the QT interval.
+  Prior to nilotinib administration and periodically, monitor for hypokalemia or hypomagnesemia and correct deficiencies [see Warnings and Precautions (5.2)].
+  Obtain ECGs to monitor the QTc at baseline, seven days after initiation, and periodically thereafter, and following any dose adjustments [see Warnings and Precautions (5.2, 5.3, 5.7, 5.12)].
+- Sudden deaths have been reported in patients receiving nilotinib [see Warnings and Precautions (5.3)].
+  Do not administer nilotinib to patients with hypokalemia, hypomagnesemia, or long QT syndrome [see Contraindications (4), Warnings and Precautions (5.2)].
+- Avoid use of concomitant drugs known to prolong the QT interval and strong CYP3A4 inhibitors [see Drug Interactions (7.1, 7.2)].
+- Avoid food 2 hours before and 1 hour after taking the dose [see Dosage and Administration (2.1)].

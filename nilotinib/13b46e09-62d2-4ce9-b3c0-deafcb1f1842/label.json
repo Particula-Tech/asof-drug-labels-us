@@ -1,0 +1,23 @@
+{
+  "application_numbers": [
+    "ANDA218544"
+  ],
+  "inn": "nilotinib",
+  "labeler": "Novadoz Pharmaceuticals LLC",
+  "package_ndcs": [
+    "72205-237-92",
+    "72205-238-63",
+    "72205-238-64",
+    "72205-239-63",
+    "72205-239-64"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nilotinib",
+      "name": "nilotinib"
+    }
+  ],
+  "setid": "13b46e09-62d2-4ce9-b3c0-deafcb1f1842",
+  "source": "dailymed"
+}
