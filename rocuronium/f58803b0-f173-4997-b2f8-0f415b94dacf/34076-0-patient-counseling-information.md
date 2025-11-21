@@ -12,4 +12,6 @@ Manufactured by: Mylan Laboratories Limited Bangalore, India
 
 Code No.: KR/DRUGS/KTK/28/384/2009
 
-Revised: 8/2025 50105971 MI/SFF:ROCUIJ:R1
+50106360
+
+Revised: 8/2025 MI/SFF:ROCUIJ:R2
