@@ -3,7 +3,7 @@
 A. Premature discontinuation of rivaroxaban increases the risk of thrombotic events
 
 Premature discontinuation of any oral anticoagulant, including rivaroxaban, increases the risk of thrombotic events.
-If anticoagulation with rivaroxaban is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.4), Warnings and Precautions (5.1), and Clinical Studies (14.1)].
+If anticoagulation with rivaroxaban is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.4) and Warnings and Precautions (5.1)].
 
 B. Spinal/epidural hematoma
 
@@ -16,9 +16,7 @@ Factors that can increase the risk of developing epidural or spinal hematomas in
 - concomitant use of other drugs that affect hemostasis, such as non-steroidal anti-inflammatory drugs (NSAIDs), platelet inhibitors, other anticoagulants
 - a history of traumatic or repeated epidural or spinal punctures
 - a history of spinal deformity or spinal surgery
-- optimal timing between the administration of rivaroxaban and neuraxial procedures is not known
-
-[see Warnings and Precautions (5.2, 5.3) and Adverse Reactions (6.2)].
+- optimal timing between the administration of rivaroxaban and neuraxial procedures is not known [see Warnings and Precautions (5.2, 5.3) and Adverse Reactions (6.2)].
 
 Monitor patients frequently for signs and symptoms of neurological impairment.
 If neurological compromise is noted, urgent treatment is necessary [see Warnings and Precautions (5.3)].

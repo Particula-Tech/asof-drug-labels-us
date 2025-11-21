@@ -6,24 +6,9 @@ Instructions for Patient Use
 
 - Advise patients to take rivaroxaban tablets only as directed.
 - Remind patients to not discontinue rivaroxaban tablets without first talking to their healthcare professional.
-
-Adults
-
-- Advise patients with atrial fibrillation to take rivaroxaban tablets once daily with the evening meal.
-- Advise patients for initial treatment of DVT and/or PE to take rivaroxaban 15 mg or 20 mg tablets with food at approximately the same time every day [see Dosage and Administration (2.1)].
-- Advise patients who are at a continued risk of recurrent DVT and/or PE after at least 6 months of initial treatment, to take rivaroxaban tablets 10 mg once daily with or without food [see Dosage and Administration (2.1)].
+  Adults
 - Advise patients who cannot swallow the tablet whole to crush rivaroxaban tablet and combine with a small amount of applesauce followed by food [see Dosage and Administration (2.6)].
 - For patients requiring an NG tube or gastric feeding tube, instruct the patient or caregiver to crush the rivaroxaban tablet and mix it with a small amount of water before administering via the tube [see Dosage and Administration (2.6)].
-- If a dose is missed, advise the patient according to the instructions in the Full Prescribing Information based on their dosing schedule [see Dosage and Administration (2.5)].
-
-Pediatric Patients
-
-- Advise the caregiver whether the dose needs to be taken with food or not [see Dosage and Administration (2.2)].
-- Advise the caregiver the tablet must not be split in an attempt to provide a fraction of a tablet dose [see Dosage and Administration (2.2)].
-- If a child vomits or spits up the dose within 30 minutes after receiving the dose, a new dose should be given.
-  However, if the child vomits more than 30 minutes after the dose is taken, the dose should not be re-administered and the next dose should be taken as scheduled.
-  If a child vomits or spits up the dose repeatedly, the caregiver should contact the child’s doctor right away [see Dosage and Administration (2.2)].
-- For children who are unable to swallow whole tablets, rivaroxaban oral suspension may be used.
 - If a dose is missed, advise the patient according to the instructions in the Full Prescribing Information based on their dosing schedule [see Dosage and Administration (2.5)].
 
 Bleeding Risks
@@ -54,4 +39,8 @@ Females and Males of Reproductive Potential
 
 Advise patients who can become pregnant to discuss pregnancy planning with their physician [see Use in Specific Populations (8.3)].
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 08/2025
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
+
+Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India
+
+Revised: 11/2025

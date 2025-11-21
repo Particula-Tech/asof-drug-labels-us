@@ -42,11 +42,9 @@ There is no clear understanding of the impact of hepatic impairment beyond this 
 Absorption
 
 The absolute bioavailability of rivaroxaban is dose-dependent.
-For the 2.5 mg and 10 mg dose, it is estimated to be 80% to 100% and is not affected by food.
-Rivaroxaban 2.5 mg and 10 mg tablets can be taken with or without food.
-Rivaroxaban 20 mg administered in the fasted state has an absolute bioavailability of approximately 66%.
-Coadministration of rivaroxaban with food increases the bioavailability of the 20 mg dose (mean AUC and Cmax increasing by 39% and 76% respectively with food).
-Rivaroxaban 15 mg and 20 mg tablets should be taken with food [see Dosage and Administration (2.1)].
+For the 2.5 mg dose, it is estimated to be 80% to 100% and is not affected by food.
+Rivaroxaban 2.5 mg tablets can be taken with or without food.
+[see Dosage and Administration (2.1)].
 
 The maximum concentrations (Cmax) of rivaroxaban appear 2 to 4 hours after tablet intake.
 The pharmacokinetics of rivaroxaban were not affected by drugs altering gastric pH.
@@ -98,18 +96,6 @@ Elderly
 
 The terminal elimination half-life is 11 to 13 hours in the elderly subjects aged 60 to 76 years [see Use in Specific Populations (8.5)].
 
-Pediatric Patients
-
-The rate and extent of absorption were similar between the tablet and suspension.
-After repeated administration of rivaroxaban for the treatment of VTE, the Cmax of rivaroxaban in plasma was observed at median times of 1.5 to 2.2 hours in subjects who ranged from birth to less than 18 years of age.
-
-In children who were 6 months to 9 years of age, in vitro plasma protein binding of rivaroxaban is approximately 90%.
-
-The half-life of rivaroxaban in plasma of pediatric patients treated for VTE decreased with decreasing age.
-Mean half-life values were 4.2 hours in adolescents, 3 hours in children 2 to 12 years of age, 1.9 hours in children 0.5 to <2 years of age, and 1.6 hours in children <0.5 years of age.
-
-An exploratory analysis in pediatric patients treated for VTE did not reveal relevant differences in rivaroxaban exposure based on gender or race.
-
 Renal Impairment
 
 The safety and pharmacokinetics of single-dose rivaroxaban (10 mg) were evaluated in a study in healthy subjects [CrCl ≥80 mL/min (n=8)] and in subjects with varying degrees of renal impairment (see Figure 2).
@@ -121,8 +107,6 @@ The systemic exposure to rivaroxaban administered 2 hours prior to a 4-hour hemo
 The extent of the increase is similar to the increase in patients with CrCl 15 to 50 mL/min taking rivaroxaban 15 mg.
 Hemodialysis had no significant impact on rivaroxaban exposure.
 Protein binding was similar (86% to 89%) in healthy controls and ESRD subjects in this study.
-
-Pediatric Patients: Limited clinical data are available in children 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2) or in children younger than 1 year with serum creatinine results above 97.5th percentile [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 Hepatic Impairment
 

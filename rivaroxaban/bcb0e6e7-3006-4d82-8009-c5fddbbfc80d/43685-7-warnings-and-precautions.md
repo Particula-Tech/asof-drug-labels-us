@@ -4,7 +4,7 @@
 
 Premature discontinuation of any oral anticoagulant, including rivaroxaban, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events.
 An increased rate of stroke was observed during the transition from rivaroxaban to warfarin in clinical trials in atrial fibrillation patients.
-If rivaroxaban is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.4) and Clinical Studies (14.1)].
+If rivaroxaban is discontinued for a reason other than pathological bleeding or completion of a course of therapy, consider coverage with another anticoagulant [see Dosage and Administration (2.3, 2.4)].
 
 ## 5.2 Risk of Bleeding
 
@@ -19,11 +19,6 @@ Concomitant use of other drugs that impair hemostasis increases the risk of blee
 These include aspirin, P2Y12 platelet inhibitors, dual antiplatelet therapy, other antithrombotic agents, fibrinolytic therapy, non-steroidal anti-inflammatory drugs (NSAIDs) [see Drug Interactions (7.4)], selective serotonin reuptake inhibitors, and serotonin norepinephrine reuptake inhibitors.
 
 Concomitant use of drugs that are known combined P-gp and strong CYP3A inhibitors increases rivaroxaban exposure and may increase bleeding risk [see Drug Interactions (7.2)].
-
-Risk of Hemorrhage in Acutely Ill Medical Patients at High Risk of Bleeding
-
-Acutely ill medical patients with the following conditions are at increased risk of bleeding with the use of rivaroxaban for primary VTE prophylaxis: history of bronchiectasis, pulmonary cavitation, or pulmonary hemorrhage, active cancer (i.e., undergoing acute, in-hospital cancer treatment), active gastroduodenal ulcer in the three months prior to treatment, history of bleeding in the three months prior to treatment, or dual antiplatelet therapy.
-Rivaroxaban is not for use for primary VTE prophylaxis in these hospitalized, acutely ill medical patients at high risk of bleeding.
 
 Reversal of Anticoagulant Effect
 
@@ -47,48 +42,13 @@ If signs or symptoms of spinal hematoma are suspected, initiate urgent diagnosis
 
 ## 5.4 Use in Patients with Renal Impairment
 
-Nonvalvular Atrial Fibrillation
-
-Periodically assess renal function as clinically indicated (i.e., more frequently in situations in which renal function may decline) and adjust therapy accordingly [see Dosage and Administration (2.1)].
-Consider dose adjustment or discontinuation of rivaroxaban in patients who develop acute renal failure while on rivaroxaban [see Use in Specific Populations (8.6)].
-
-Treatment of Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE), and Reduction in the Risk of Recurrence of DVT and of PE
-
-In patients with CrCl <30 mL/min, rivaroxaban exposure and pharmacodynamic effects are increased compared to patients with normal renal function.
-There are limited clinical data in patients with CrCl 15 to <30 mL/min; therefore, observe closely and promptly evaluate any signs or symptoms of blood loss in these patients.
-There are no clinical data in patients with CrCl <15 mL/min (including patients on dialysis); therefore, avoid the use of rivaroxaban in these patients.
-
 Discontinue rivaroxaban in patients who develop acute renal failure while on treatment [see Use in Specific Populations (8.6)].
-
-Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery
-
-In patients with CrCl <30 mL/min, rivaroxaban exposure and pharmacodynamic effects are increased compared to patients with normal renal function.
-There are limited clinical data in patients with CrCl 15 to <30 mL/min; therefore, observe closely and promptly evaluate any signs or symptoms of blood loss in these patients.
-There are no clinical data in patients with CrCl <15 mL/min (including patients on dialysis); therefore, avoid the use of rivaroxaban in these patients.
-
-Discontinue rivaroxaban in patients who develop acute renal failure while on treatment [see Use in Specific Populations (8.6)].
-
-Prophylaxis of Venous Thromboembolism in Acutely Ill Medical Patients at Risk for Thromboembolic Complications Not at High Risk of Bleeding
-
-In patients with CrCl <30 mL/min, rivaroxaban exposure and pharmacodynamic effects are increased compared to patients with normal renal function.
-There are limited clinical data in patients with CrCl 15 to <30 mL/min; therefore, observe closely and promptly evaluate any signs or symptoms of blood loss in these patients.
-There are no clinical data in patients with CrCl <15 mL/min (including patients on dialysis); therefore, avoid the use of rivaroxaban in these patients.
-
-Discontinue rivaroxaban in patients who develop acute renal failure while on treatment [see Use in Specific Populations (8.6)].
-
-Pediatric Patients
-
-There are limited clinical data in pediatric patients 1 year or older with moderate or severe renal impairment (eGFR <50 mL/min/1.73 m2); therefore, avoid the use of rivaroxaban in these patients.
-
-There are no clinical data in pediatric patients younger than 1 year with serum creatinine results above 97.5th percentile; therefore, avoid the use of rivaroxaban in these patients [see Dosage and Administration (2.2) and Use in Specific Populations (8.6)].
 
 ## 5.5 Use in Patients with Hepatic Impairment
 
 No clinical data are available for adult patients with severe hepatic impairment.
 
 Avoid use of rivaroxaban in patients with moderate (Child-Pugh B) and severe (Child-Pugh C) hepatic impairment or with any hepatic disease associated with coagulopathy since drug exposure and bleeding risk may be increased [see Use in Specific Populations (8.7)].
-
-No clinical data are available in pediatric patients with hepatic impairment.
 
 ## 5.6 Use with P-gp and Strong CYP3A Inhibitors or Inducers
 
