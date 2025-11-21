@@ -14,7 +14,7 @@ The effects were maintained throughout the day based on parent ratings (Conners�
 
 A double-blind, placebo-controlled, randomized, crossover design, analog classroom study (Study 2) was conducted in pediatric patients ages 6 to 12 years (N=52) who met DSM-IV criteria for ADHD (either the combined type or the hyperactive-impulsive type).
 Following a 3-week open-label dose optimization with Adderall XR®, patients were randomly assigned to continue their optimized dose of Adderall XR (10 mg, 20 mg, or 30 mg), lisdexamfetamine dimesylate (30 mg, 50 mg, or 70 mg), or placebo once daily in the morning for 1 week each treatment.
-Efficacy assessments were conducted at 1, 2, 3, 4.5, 6, 8, 10, and 12 hours post-dose using the Swanson, Kotkin, Agler, M. Flynn, and Pelham Deportment scores (SKAMP-DS), a 4-item subscale of the SKAMP with scores ranging from 0 to 24 points that measures deportment problems leading to classroom disruptions.
+Efficacy assessments were conducted at 1, 2, 3, 4.5, 6, 8, 10, and 12 hours post-dose using the Swanson, Kotkin, Agler, M.Flynn, and Pelham Deportment scores (SKAMP-DS), a 4-item subscale of the SKAMP with scores ranging from 0 to 24 points that measures deportment problems leading to classroom disruptions.
 A significant difference in patient behavior, based upon the average of investigator ratings on the SKAMP-DS across the 8 assessments were observed between patients when they received lisdexamfetamine dimesylate compared to patients when they received placebo (Study 2 in Table 6).
 The drug effect reached statistical significance from hours 2 to 12 post-dose, but was not significant at 1 hour.
 
@@ -43,7 +43,7 @@ A total of 276 patients were enrolled into the study, 236 patients participated 
 Subjects were treated with open-label lisdexamfetamine dimesylate for at least 26 weeks prior to being assessed for entry into the randomized withdrawal period.
 Eligible patients had to demonstrate treatment response as defined by CGI-S <3 and Total Score on the ADHD-RS ≤22.
 Patients that maintained treatment response for 2 weeks at the end of the open label treatment period were eligible to be randomized to ongoing treatment with the same dose of lisdexamfetamine dimesylate (N=78) or switched to placebo (N=79) during the double-blind phase.
-Patients were observed for relapse (treatment failure) during the 6 week double blind phase.
+Patients were observed for relapse (treatment failure) during the 6 week double-blind phase.
 A significantly lower proportion of treatment failures occurred among lisdexamfetamine dimesylate subjects (15.8%) compared to placebo (67.5%) at endpoint of the randomized withdrawal period.
 The endpoint measurement was defined as the last post-randomization treatment week at which a valid ADHD-RS Total Score and CGI-S were observed.
 Treatment failure was defined as a ≥50% increase (worsening) in the ADHD-RS Total Score and a ≥2-point increase in the CGI-S score compared to scores at entry into the double-blind randomized withdrawal phase.
@@ -93,7 +93,7 @@ Pediatric Patients (Ages 6 to 17) and Adults with ADHD
 |  |  | lisdexamfetamine dimesylate (50 mg/day) | 37.3 (6.3) | -21.1 (1.3) | -8.3 (-11.8, -4.8) |
 |  |  | lisdexamfetamine dimesylate (70 mg/day) | 37.0 (7.3) | -20.7 (1.3) | -7.9 (-11.4, -4.5) |
 |  |  | Placebo | 38.5 (7.1) | -12.8 (1.2) | -- |
-| Study 5 (6 -17 years) | ADHD-RS-IV | lisdexamfetamine dimesylate (30, 50 or 70 mg/day) | 40.7 (7.3) | -24.3 (1.2) | -18.6 (-21.5, -15.7) |
+| Study 5 (6 -17 years) | ADHD-RS- IV | lisdexamfetamine dimesylate (30, 50 or 70 mg/day) | 40.7 (7.3) | -24.3 (1.2) | -18.6 (-21.5, -15.7) |
 |  |  | Placebo | 41.0 (7.1) | -5.7 (1.1) | -- |
 | Study 7 (18 -55 years) | ADHD-RS-IV | lisdexamfetamine dimesylate (30 mg/day) | 40.5 (6.2) | -16.2 (1.1) | -8.0 (-11.5, -4.6) |
 |  |  | lisdexamfetamine dimesylate (50 mg/day) | 40.8 (7.3) | -17.4 (1.0) | -9.2 (-12.6, -5.7) |
@@ -103,13 +103,13 @@ Pediatric Patients (Ages 6 to 17) and Adults with ADHD
 |  |  | Placebo | 261.4 (75.0)c | 289.5 (8.6)d | -- |
 | SD: standard deviation; SE: standard error; LS Mean: least-squares mean; CI: confidence interval.a Difference (drug minus placebo) in least-squares mean change from baseline.b Pre-dose SKAMP-DS was not collected.c Pre-dose SKAMP-DS (Study 3) or PERMP (Study 8) total score, averaged over both periods.d LS Mean for SKAMP-DS (Study 2 and 3) or PERMP (Study 8) is post-dose average score over all sessions of the treatment day, rather than change from baseline. |  |  |  |  |  |
 
-Figure 4: LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for Pediatric Patients Ages 6 to 12 with ADHD after 1 Week of Double Blind Treatment (Study 3)
+Figure 4: LS Mean SKAMP Deportment Subscale Score by Treatment and Time-point for Pediatric Patients Ages 6 to 12 with ADHD after 1 Week of Double-Blind Treatment (Study 3)
 
-Higher score on the SKAMP-Deportment scale indicates more severe symptoms.
+Higher score on the SKAMP-Deportment scale indicates more severe symptoms
 
 Figure 5: Kaplan-Meier Estimated Proportion of Patients with Treatment Failure for Pediatric Patients Ages 6 to 17 (Study 6)
 
-Figure 6: LS Mean (SE) PERMP Total Score by Treatment and Time-point for Adults Ages 18 to 55 with ADHD after 1 Week of Double Blind Treatment (Study 8)
+Figure 6: LS Mean (SE) PERMP Total Score by Treatment and Time-point for Adults Ages 18 to 55 with ADHD after 1 Week of Double-Blind Treatment (Study 8)
 
 Higher score on the PERMP scale indicates less severe symptoms.
 

@@ -12,8 +12,8 @@ Risk Summary
 The limited available data from published literature and postmarketing reports on use of lisdexamfetamine dimesylate in pregnant women are not sufficient to inform a drug-associated risk for major birth defects and miscarriage.
 Adverse pregnancy outcomes, including premature delivery and low birth weight, have been seen in infants born to mothers dependent on amphetamines [see Clinical Considerations].
 In animal reproduction studies, lisdexamfetamine dimesylate (a prodrug of d-amphetamine) had no effects on embryo-fetal morphological development or survival when administered orally to pregnant rats and rabbits throughout the period of organogenesis.
-Pre-and postnatal studies were not conducted with lisdexamfetamine dimesylate.
-However, amphetamine (d-to l-ratio of 3:1) administration to pregnant rats during gestation and lactation caused a decrease in pup survival and a decrease in pup body weight that correlated with a delay in developmental landmarks at clinically relevant doses of amphetamine.
+Pre- and postnatal studies were not conducted with lisdexamfetamine dimesylate.
+However, amphetamine (d- to l- ratio of 3:1) administration to pregnant rats during gestation and lactation caused a decrease in pup survival and a decrease in pup body weight that correlated with a delay in developmental landmarks at clinically relevant doses of amphetamine.
 In addition, adverse effects on reproductive performance were observed in pups whose mothers were treated with amphetamine.
 Long-term neurochemical and behavioral effects have also been reported in animal developmental studies using clinically relevant doses of amphetamine [see Data].
 
@@ -38,14 +38,14 @@ Animal Data
 Lisdexamfetamine dimesylate had no apparent effects on embryo-fetal morphological development or survival when administered orally to pregnant rats and rabbits throughout the period of organogenesis at doses of up to 40 and 120 mg/kg/day, respectively.
 These doses are approximately 5.5 and 33 times, respectively, the maximum recommended human dose (MRHD) of 70 mg/day given to adults, on a mg/m2 body surface area basis.
 
-A study was conducted with amphetamine (d-to l-enantiomer ratio of 3:1) in which pregnant rats received daily oral doses of 2, 6, and 10 mg/kg from gestation day 6 to lactation day 20.
+A study was conducted with amphetamine (d- to l- enantiomer ratio of 3:1) in which pregnant rats received daily oral doses of 2, 6, and 10 mg/kg from gestation day 6 to lactation day 20.
 All doses caused hyperactivity and decreased weight gain in the dams.
 A decrease in pup survival was seen at all doses.
 A decrease in pup body weight was seen at 6 and 10 mg/kg which correlated with delays in developmental landmarks, such as preputial separation and vaginal opening.
 Increased pup locomotor activity was seen at 10 mg/kg on day 22 postpartum but not at 5 weeks postweaning.
 When pups were tested for reproductive performance at maturation, gestational weight gain, number of implantations, and number of delivered pups were decreased in the group whose mothers had been given 10 mg/kg.
 
-A number of studies from the literature in rodents indicate that prenatal or early postnatal exposure to amphetamine (d- or d, l-) at doses similar to those used clinically can result in long term neurochemical and behavioral alterations.
+A number of studies from the literature in rodents indicate that prenatal or early postnatal exposure to amphetamine (d- or d, l-) at doses similar to those used clinically can result in long-term neurochemical and behavioral alterations.
 Reported behavioral effects include learning and memory deficits, altered locomotor activity, and changes in sexual function.
 
 ## 8.2 Lactation
@@ -61,11 +61,13 @@ Because of the potential for serious adverse reactions in nursing infants, inclu
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of lisdexamfetamine dimesylate have not been established in pediatric patients below
+
+the age of 6 years.
+
 ADHD
 
 Safety and effectiveness of lisdexamfetamine dimesylate have been established in pediatric patients with ADHD ages 6 to 17 years [see Dosage and Administration (2.3), Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1)].
-
-Safety and effectiveness of lisdexamfetamine dimesylate have not been established in pediatric patients below the age of 6 years.
 
 Safety and efficacy of lisdexamfetamine dimesylate were evaluated in a double-blind, randomized, parallel-group, placebo-controlled, fixed-dose study in pediatric patients ages 4 to 5 years with ADHD, followed by a 1-year open-label extension study.
 In these studies, patients experienced elevated rates of adverse reactions, including weight loss, decreased BMI, decreased appetite, insomnia, infections (upper respiratory and nasopharyngitis), irritability, and affect lability.
@@ -100,7 +102,7 @@ In general, dose selection for an elderly patient should start at the low end of
 
 ## 8.6 Renal Impairment
 
-Due to reduced clearance in patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m2), the maximum dose should not exceed 50 mg/day.
-The maximum recommended dose in ESRD (GFR < 15 mL/min/1.73 m2) patients is 30 mg/day [see Clinical Pharmacology (12.3)].
+Due to reduced clearance in patients with severe renal impairment (GFR 15 to <30 mL/min/1.73 m2), the maximum dose should not exceed 50 mg/day.
+The maximum recommended dose in ESRD (GFR <15 mL/min/1.73 m2) patients is 30 mg/day [see Clinical Pharmacology (12.3)].
 
 Lisdexamfetamine and d-amphetamine are not dialyzable.

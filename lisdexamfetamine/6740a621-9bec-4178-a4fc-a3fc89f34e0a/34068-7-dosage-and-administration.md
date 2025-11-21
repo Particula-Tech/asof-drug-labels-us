@@ -5,7 +5,7 @@
 Prior to treating patients with lisdexamfetamine dimesylate capsules, assess:
 
 - •for the presence of cardiac disease (i.e., perform a careful history, family history of sudden death or ventricular arrhythmia, and physical exam) [see Warnings and Precautions (5.2)].
-- •the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome before initiating lisdexamfetamine dimesylate capsules[see Warnings and Precautions (5.8)].
+- •the family history and clinically evaluate patients for motor or verbal tics or Tourette’s syndrome before initiating lisdexamfetamine dimesylate capsules [see Warnings and Precautions (5.8)].
 
 ## 2.2 General Administration Information
 
@@ -37,9 +37,8 @@ Discontinue lisdexamfetamine dimesylate if binge eating does not improve.
 
 ## 2.5 Dosage in Patients with Renal Impairment
 
-In patients with severe renal impairment (GFR 15 to < 30 mL/min/1.73 m2), the maximum dosage should not exceed 50 mg once daily.
-In patients with end stage renal disease (ESRD, GFR < 15 mL/min/1.73 m2), the maximum recommended dosage is 30 mg once daily [see Use in Specific Populations (Error!
-Hyperlink reference not valid.)].
+In patients with severe renal impairment (GFR 15 to <30 mL/min/1.73 m2), the maximum dosage should not exceed 50 mg once daily.
+In patients with end stage renal disease (ESRD, GFR <15 mL/min/1.73 m2), the maximum recommended dosage is 30 mg once daily [see Use in Specific Populations (8.6)].
 
 ## 2.6 Dosage Modifications due to Drug Interactions
 

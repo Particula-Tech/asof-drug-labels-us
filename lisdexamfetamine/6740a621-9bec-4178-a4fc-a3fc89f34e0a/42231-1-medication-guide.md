@@ -11,8 +11,8 @@ Lisdexamfetamine dimesylate capsules may cause serious side effects, including:
 - •Abuse, misuse, and addiction.
   Lisdexamfetamine dimesylate capsules, has a high chance for abuse and misuse and may lead to substance use problems, including addiction.
   Misuse and abuse of lisdexamfetamine dimesylate capsules, other amphetamine containing medicines, and methylphenidate containing medicines, can lead to overdose and death.
-  The risk of overdose and death is increased with higher doses of Lisdexamfetamine dimesylate capsules or when it is used in ways that are not approved, such as snorting or injection.
-- •Your healthcare provider should check you or your child’s risk for abuse, misuse, and addiction before starting treatment with Lisdexamfetamine dimesylate capsules and will monitor you or your child during treatment.
+  The risk of overdose and death is increased with higher doses of lisdexamfetamine dimesylate capsules or when it is used in ways that are not approved, such as snorting or injection.
+- •Your healthcare provider should check you or your child’s risk for abuse, misuse, and addiction before starting treatment with lisdexamfetamine dimesylate capsules and will monitor you or your child during treatment.
 - •Lisdexamfetamine dimesylate capsules may lead to physical dependence after prolonged use, even if taken as directed by your healthcare provider.
 - •Do not give lisdexamfetamine dimesylate capsules to anyone else.
   See “What are Lisdexamfetamine dimesylate capsules?” for more information.
@@ -30,11 +30,7 @@ Tell your healthcare provider if you or your child have any heart problems, hear
 Call your healthcare provider right away or go to the nearest hospital emergency room right away if you or your child have any signs of heart problems such as chest pain, shortness of breath, or fainting during treatment with lisdexamfetamine dimesylate capsules.
 
 - •Increased blood pressure and heart rate.
-
-Your healthcare provider should check you or your child’s blood pressure and heart rate regularly during treatment with
-
-lisdexamfetamine dimesylate capsules.
-
+- Your healthcare provider should check you or your child’s blood pressure and heart rate regularly during treatment with lisdexamfetamine dimesylate capsules.
 - •Mental (psychiatric) problems, including:
 - •new or worse behavior and thought problems
 - •new or worse bipolar illness
@@ -51,7 +47,7 @@ Lisdexamfetamine dimesylate capsules are central nervous system (CNS) stimulant 
 - •Moderate to severe binge eating disorder (BED) in adults.
   Lisdexamfetamine dimesylate capsules may help reduce the number of binge eating days in people with BED.
 
-Lisdexamfetamine dimesylate capsules are not for use in children under 6 years of age with ADHD.
+Lisdexamfetamine dimesylate capsules are not recommended for use in children under 6 years of age with ADHD.
 
 Lisdexamfetamine dimesylate capsules are not for weight loss.
 It is not known if lisdexamfetamine dimesylate capsules are safe and effective for the treatment of obesity.
@@ -76,7 +72,7 @@ Before taking lisdexamfetamine dimesylate capsules, tell your healthcare provide
 - •have mental problems including psychosis, mania, bipolar illness, or depression or have a family history of suicide, bipolar illness, or depression
 - •have circulation problems in fingers and toes
 - •have kidney problems
-- •have or had repeated movements or sounds (tics) or Tourette’s syndrome, or have family history of tics or Tourette’s syndrome
+- •have or had repeated movements or sounds (tics) or Tourette’s syndrome, or have a family history of tics or Tourette’s syndrome
 - •are pregnant or plan to become pregnant.
   Lisdexamfetamine dimesylate capsules may harm the unborn baby.
 - oThere is a pregnancy registry for females who are exposed to lisdexamfetamine dimesylate capsules during pregnancy.
@@ -116,11 +112,11 @@ How should lisdexamfetamine dimesylate capsules be taken?
 - Taking lisdexamfetamine dimesylate capsules:
 - •Lisdexamfetamine dimesylate capsules may be swallowed whole.
 - •If lisdexamfetamine dimesylate capsules cannot be swallowed whole, the capsule may be opened and the entire contents sprinkled onto yogurt, or poured into water or orange juice.
-- •Using a spoon, break apart any powder that is stuck together.
+- oUsing a spoon, break apart any powder that is stuck together.
   Stir the lisdexamfetamine dimesylate capsules powder and yogurt, water, or orange juice until they are completely mixed together.
-- •Swallow all the yogurt, water, or orange juice mixture right away.
+- oSwallow all the yogurt, water, or orange juice mixture right away.
   Do not store the yogurt, water, or orange juice mixture.
-- •It is normal to see a filmy coating on the inside of your glass or container after you eat or drink all the lisdexamfetamine dimesylate capsules mixture.
+- oIt is normal to see a filmy coating on the inside of your glass or container after you eat or drink all the lisdexamfetamine dimesylate capsules mixture.
 - If you or your child take too much lisdexamfetamine dimesylate, call your healthcare provider or Poison Help line at 1-800-222-1222 or go to the nearest hospital emergency room right away.
 
 What are the possible side effects of lisdexamfetamine dimesylate capsules?
@@ -195,9 +191,9 @@ You can ask your pharmacist or healthcare provider for information about lisdexa
 
 What are the ingredients in lisdexamfetamine dimesylate capsules?
 
-Active Ingredient: lisdexamfetamine dimesylate
+Active ingredient: lisdexamfetamine dimesylate
 
-Inactive Ingredients: ammonium hydroxide, calcium phosphate, gelatin, iron oxide black, isopropyl alcohol, magnesium stearate, microcrystalline cellulose, n-butyl alcohol, propylene glycol, shellac glaze, sodium starch glycolate, and titanium dioxide.
+Inactive ingredients: ammonium hydroxide, calcium phosphate, gelatin, iron oxide black, isopropyl alcohol, magnesium stearate, microcrystalline cellulose, n-butyl alcohol, propylene glycol, shellac glaze, sodium starch glycolate, and titanium dioxide.
 In addition, the 10 mg capsule also contains FD&C red #40.
 The 20 mg capsule also contains yellow iron oxide.
 The 30 mg capsule also contains FD&C yellow #6.
@@ -215,6 +211,6 @@ Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50001173/04
+C50001173/05
 
-Revised January 2024
+Revised October 2025
