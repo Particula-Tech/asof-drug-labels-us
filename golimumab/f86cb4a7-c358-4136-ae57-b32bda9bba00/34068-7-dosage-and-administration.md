@@ -24,7 +24,7 @@ Table 1: Recommended Subcutaneous Dosage for Adults and Pediatric Patients Weigh
 | Week 0 | Week 2 | Week 6 and every 4 weeks thereafter |  |
 | --- | --- | --- | --- |
 | Weight for Patients with UC | Recommended Dosage of SIMPONI |  |  |
-| Adults and pediatric patients 40 kg and greater For pediatric patients weighing 15 kg or greater, administer the appropriate dose using the prefilled syringe (50 mg/0.5 mL or 100 mg/mL). | 200 mg | 100 mg | 100 mg |
+| Adults and pediatric patients 40 kg and greaterFor pediatric patients weighing 15 kg or greater, administer the appropriate dose using the prefilled syringe (50 mg/0.5 mL or 100 mg/mL). | 200 mg | 100 mg | 100 mg |
 | Pediatric patients at least 15 kg to less than 40 kg | 100 mg | 50 mg | 50 mg |
 
 ## 2.4 Preparation and Administration Instructions
@@ -37,10 +37,10 @@ SIMPONI Prefilled Syringe
 
 - Adult and pediatric patients 12 years of age and older may self-inject with SIMPONI prefilled syringe.
 
-SIMPONI SmartJect ®Autoinjector
+SIMPONI SmartJect® Autoinjector
 
-- Adult patients may self-inject with SIMPONI SmartJect ®autoinjector.
-- Use of the SmartJect ®autoinjector for pediatric self-administration has not been evaluated.
+- Adult patients may self-inject with SIMPONI SmartJect® autoinjector.
+- Use of the SmartJect® autoinjector for pediatric self-administration has not been evaluated.
 
 • To ensure proper use, allow the prefilled syringe or autoinjector to sit at room temperature outside the carton for at least 30 minutes prior to subcutaneous injection.
 Do not warm SIMPONI in any other way.

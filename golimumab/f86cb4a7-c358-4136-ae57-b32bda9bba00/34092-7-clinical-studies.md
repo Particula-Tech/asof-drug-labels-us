@@ -290,12 +290,12 @@ Patients with prior exposure to TNF blockers were ineligible.
 Of the 66 subjects assessed for efficacy, the mean age was 13.4 years (range 4 to 17 years), the median weight was 51 kg, and 53% were female.
 Twenty-four percent identified as Hispanic or Latino; 71% identified as White, 18% as Asian, 3% as American Indian or Alaskan Native, 3% as Black, and 2% identified as part of multiple racial subgroups.
 
-Patients weighing 15 to less than 45 kg received SIMPONI subcutaneously at 120 mg/m 2at dosages of 120 mg/m 2at Week 0, 60 mg/m 2at Week 2 and 60 mg/m 2every 4 weeks from Week 6 onward.
+Patients weighing 15 to less than 45 kg received SIMPONI subcutaneously at 120 mg/m2 at dosages of 120 mg/m2 at Week 0, 60 mg/m2 at Week 2 and 60 mg/m2 every 4 weeks from Week 6 onward.
 
 Patients weighing at least 45 kg received SIMPONI 200 mg at Week 0, 100 mg at Week 2 and 100 mg every 4 weeks from Week 6 onward.
 
 The recommended body-weight tiered dosage for pediatric patients weighing 15 to less than 40 kg and 40 to less than 45 kg differs from the body surface area-based dosage administered in this study.
-There are no anticipated clinically relevant differences in efficacy between the recommended and studied pediatric dosages of SIMPONI [see Dosage and Administration (2.3)and Clinical Pharmacology (12.3)].
+There are no anticipated clinically relevant differences in efficacy between the recommended and studied pediatric dosages of SIMPONI [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
 
 At weeks 6, and 54, efficacy was assessed by the Mayo score.
 
@@ -307,8 +307,8 @@ Table 10: Proportion of Pediatric Patients Weighing at Least 15 kg with UC in Cl
 
 | Endpoint | SIMPONI n (%) [90% CI] N=66 |
 | --- | --- |
-| Clinical remission at Week 6 Clinical remission is defined as a Mayo score ≤2 points, with no individual subscore >1. | 21 (32%) [22%, 41%] |
-| Clinical response at Week 6 Clinical response is defined as a decrease from baseline in the Mayo score by ≥ 30% and ≥ 3 points, with either a decrease from baseline in the rectal bleeding subscore of ≥ 1 or a rectal bleeding subscore of 0 or 1. | 38 (58%) [48%, 68%] |
+| Clinical remission at Week 6Clinical remission is defined as a Mayo score ≤2 points, with no individual subscore >1. | 21 (32%) [22%, 41%] |
+| Clinical response at Week 6Clinical response is defined as a decrease from baseline in the Mayo score by ≥ 30% and ≥ 3 points, with either a decrease from baseline in the rectal bleeding subscore of ≥ 1 or a rectal bleeding subscore of 0 or 1. | 38 (58%) [48%, 68%] |
 
 Additional Secondary Endpoints
 

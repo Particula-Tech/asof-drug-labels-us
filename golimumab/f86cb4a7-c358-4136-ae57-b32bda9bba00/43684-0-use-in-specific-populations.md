@@ -5,7 +5,7 @@
 Risk Summary
 
 Available data from postmarketing case reports with golimumab use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
-An observational study of northern European births observed similar unadjusted rates of major birth defects in infants exposed in uteroto golimumab compared to no treatment or non-biologic systemic therapy.
+An observational study of northern European births observed similar unadjusted rates of major birth defects in infants exposed in utero to golimumab compared to no treatment or non-biologic systemic therapy.
 However, this study had important limitations (see Data).
 
 Monoclonal antibodies, such as golimumab, are transported across the placenta during the third trimester of pregnancy and may affect immune response in the in uteroexposed infant (see Clinical Considerations).
@@ -29,7 +29,7 @@ Fetal/Neonatal Adverse Reactions
 Golimumab crosses the placenta during pregnancy.
 Another TNF-blocking monoclonal antibody administered during pregnancy was detected for up to 6 months in the serum of infants.
 Consequently, these infants may be at increased risk of infection.
-Administration of live vaccines to infants exposed to SIMPONI in uterois not recommended for 6 months following the mother's last SIMPONI injection during pregnancy [see Warnings and Precautions (5.11)and Drug Interactions (7.3)].
+Administration of live vaccines to infants exposed to SIMPONI in utero is not recommended for 6 months following the mother's last SIMPONI injection during pregnancy [see Warnings and Precautions (5.11) and Drug Interactions (7.3)].
 
 Data
 

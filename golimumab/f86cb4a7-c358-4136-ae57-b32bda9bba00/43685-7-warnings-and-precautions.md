@@ -6,7 +6,7 @@ Patients treated with SIMPONI are at increased risk for developing serious infec
 
 Opportunistic infections due to bacterial, mycobacterial, invasive fungal, viral, or parasitic organisms including aspergillosis, blastomycosis, candidiasis, coccidioidomycosis, histoplasmosis, legionellosis, listeriosis, pneumocystosis, and tuberculosis have been reported with TNF blockers.
 Patients have frequently presented with disseminated rather than localized disease.
-The concomitant use of a TNF blocker and abatacept or anakinra was associated with a higher risk of serious infections; therefore, the concomitant use of SIMPONI and these biologic products is not recommended [see Warnings and Precautions (5.6, 5.7)and Drug Interactions (7.2)].
+The concomitant use of a TNF blocker and abatacept or anakinra was associated with a higher risk of serious infections; therefore, the concomitant use of SIMPONI and these biologic products is not recommended [see Warnings and Precautions (5.6, 5.7) and Drug Interactions (7.2)].
 
 Treatment with SIMPONI should not be initiated in patients with an active infection, including clinically important localized infections.
 Patients greater than 65 years of age, patients with co-morbid conditions and/or patients taking concomitant immunosuppressants such as corticosteroids or methotrexate may be at greater risk of infection.

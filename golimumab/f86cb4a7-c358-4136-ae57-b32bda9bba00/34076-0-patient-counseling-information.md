@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-See FDA-approved patient labeling (Medication Guideand Instructions for Use)
+See FDA-approved patient labeling (Medication Guide and Instructions for Use)
 
 Patients should be advised of the potential benefits and risks of SIMPONI.
 Physicians should instruct their patients to read the Medication Guide before starting SIMPONI therapy and to read it each time the prescription is renewed.
@@ -19,7 +19,7 @@ Hypersensitivity Reactions
 
 Advise patients to stop taking SIMPONI and contact their healthcare provider immediately if they experience any symptoms of hypersensitivity reactions while taking SIMPONI [see Warnings and Precautions (5.12)].
 
-Advise latex-sensitive patients that the needle cover on the prefilled syringe as well as the prefilled syringe in the prefilled SmartJect ®autoinjector contains dry natural rubber (a derivative of latex) [see How Supplied/Storage and Handling (16)].
+Advise latex-sensitive patients that the needle cover on the prefilled syringe as well as the prefilled syringe in the prefilled SmartJect® autoinjector contains dry natural rubber (a derivative of latex) [see How Supplied/Storage and Handling (16)].
 
 Other Medical Conditions
 
@@ -34,19 +34,19 @@ SIMPONI Prefilled Syringe
 
 - Adult and pediatric patients 12 years of age and older may self-inject with SIMPONI prefilled syringe.
 
-SIMPONI SmartJect ®Autoinjector
+SIMPONI SmartJect® Autoinjector
 
-- Adult patients may self-inject with SIMPONI SmartJect ®autoinjector.
-- Use of the SmartJect ®autoinjector for pediatric self-administration has not been evaluated.
+- Adult patients may self-inject with SIMPONI SmartJect® autoinjector.
+- Use of the SmartJect® autoinjector for pediatric self-administration has not been evaluated.
 
 If a patient or caregiver is to administer SIMPONI, he/she should be instructed in injection techniques and their ability to inject subcutaneously should be assessed to ensure the proper administration of SIMPONI.
 
 Advise the patient to read the FDA-approved Instructions for Use and provide the following instructions to patients:
 
-- Prior to use, remove the prefilled syringe or the prefilled SmartJect ®autoinjector from the refrigerator and allow SIMPONI to sit at room temperature outside of the carton for at least 30 minutes and out of the reach of children.
+- Prior to use, remove the prefilled syringe or the prefilled SmartJect® autoinjector from the refrigerator and allow SIMPONI to sit at room temperature outside of the carton for at least 30 minutes and out of the reach of children.
 - Do not warm SIMPONI in any other way.
   For example, do not warm SIMPONI in a microwave or in hot water.
-- Do not remove the prefilled syringe needle cover or SmartJect ®autoinjector cap while allowing SIMPONI to reach room temperature.
+- Do not remove the prefilled syringe needle cover or SmartJect® autoinjector cap while allowing SIMPONI to reach room temperature.
   Remove these immediately before injection.
 - Do not pull the autoinjector away from the skin until you hear a first "click" sound and then a second "click" sound (the injection is finished and the needle is pulled back).
   It usually takes about 3 to 6 seconds but may take up to 15 seconds for you to hear the second "click" after the first "click".
