@@ -22,7 +22,7 @@ Cleocin Phosphate® clindamycin injection, USP
 
 For intramuscular or intravenous use
 
-Pfizer
+Pfizer Hospital
 
 Rx only
 
@@ -50,7 +50,7 @@ Cleocin Phosphate® clindamycin injection, USP
 
 For intramuscular or intravenous use
 
-Pfizer
+Pfizer Hospital
 
 Rx only
 
@@ -78,7 +78,7 @@ Cleocin Phosphate® clindamycin injection, USP
 
 For intramuscular or intravenous use
 
-Pfizer
+Pfizer Hospital
 
 Rx only
 
@@ -92,11 +92,11 @@ Cleocin Phosphate® clindamycin injection, USP 9,000 mg/60 mL* (150 mg/mL)
 
 For intramuscular or intravenous use Not for direct infusion
 
-Pfizer
+Pfizer Hospital
 
 Rx only
 
-Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc, New York, NY 10017
+Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc., New York, NY 10001
 
 # PRINCIPAL DISPLAY PANEL - 9,000 mg/60 mL Vial Bulk Carton
 
@@ -112,7 +112,7 @@ Cleocin Phosphate® clindamycin injection, USP
 
 For intramuscular or intravenous use Not for direct infusion
 
-Pfizer
+Pfizer Hospital
 
 Rx only
 
