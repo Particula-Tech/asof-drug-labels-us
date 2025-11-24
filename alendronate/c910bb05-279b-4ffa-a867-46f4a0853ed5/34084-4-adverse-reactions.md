@@ -1,5 +1,15 @@
 # 6 ADVERSE REACTIONS
 
+The following clinically significant adverse drug reactions are described elsewhere in the labeling:
+
+- •Upper Gastrointestinal Adverse Reactions [see Warnings and Precautions (5.1)]
+- •Mineral Metabolism [see Warnings and Precautions (5.2)]
+- •Musculoskeletal [see Warnings and Precautions (5.3)]
+- •Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
+- •Atypical Fractures Including Femoral Fractures [see Warnings and Precautions (5.5)]
+- •Renal Impairment [see Warnings and Precautions (5.6)]
+- •Glucocorticoid-Induced Osteoporosis [see Warnings and Precautions (5.7)]
+
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
@@ -93,19 +103,19 @@ The adverse reactions from these studies considered by the investigators as poss
 
 Table 3: Osteoporosis Prevention Studies in Postmenopausal Women Adverse Reactions Considered Possibly, Probably, or Definitely Drug Related by the Investigators and Reported in Greater Than or Equal to 1% of Patients
 
-|  | Two/Three-Year Studies |  |  | One-year Study |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Alendronate Sodium5 mg/day%(n=642) | Placebo%(n=648) |  | Alendronate Sodium5 mg/day%(n=361) | Once WeeklyAlendronate Sodium35 mg%(n=362) |
-| Gastrointestinal |  |  |  |  |  |
-| dyspepsia | 1.9 |  | 1.4 | 2.2 | 1.7 |
-| abdominal pain | 1.7 |  | 3.4 | 4.2 | 2.2 |
-| acid regurgitation | 1.4 |  | 2.5 | 4.2 | 4.7 |
-| nausea | 1.4 |  | 1.4 | 2.5 | 1.4 |
-| diarrhea | 1.1 |  | 1.7 | 1.1 | 0.6 |
-| constipation | 0.9 |  | 0.5 | 1.7 | 0.3 |
-| abdominal distention | 0.2 |  | 0.3 | 1.4 | 1.1 |
-| Musculoskeletal |  |  |  |  |  |
-| musculoskeletal (bone, muscle or joint) pain | 0.8 |  | 0.9 | 1.9 | 2.2 |
+|  | Two/Three-Year Studies |  | One-year Study |  |
+| --- | --- | --- | --- | --- |
+|  | Alendronate Sodium5 mg/day%(n=642) | Placebo%(n=648) | Alendronate Sodium5 mg/day%(n=361) | Once WeeklyAlendronate Sodium35 mg%(n=362) |
+| Gastrointestinal |  |  |  |  |
+| dyspepsia | 1.9 | 1.4 | 2.2 | 1.7 |
+| abdominal pain | 1.7 | 3.4 | 4.2 | 2.2 |
+| acid regurgitation | 1.4 | 2.5 | 4.2 | 4.7 |
+| nausea | 1.4 | 1.4 | 2.5 | 1.4 |
+| diarrhea | 1.1 | 1.7 | 1.1 | 0.6 |
+| constipation | 0.9 | 0.5 | 1.7 | 0.3 |
+| abdominal distention | 0.2 | 0.3 | 1.4 | 1.1 |
+| Musculoskeletal |  |  |  |  |
+| musculoskeletal (bone, muscle or joint) pain | 0.8 | 0.9 | 1.9 | 2.2 |
 
 Concomitant Use with Estrogen/Hormone Replacement Therapy:
 
@@ -162,7 +172,7 @@ Discontinuation of therapy due to any clinical adverse events occurred in 6.4% o
 
 ## 6.2 Post-Marketing Experience
 
-The following adverse reactions have been identified during post-approval use of alendronate sodium.
+The following adverse reactions have been identified during post-approval use of alendronate sodium or bisphosphonate products.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Body as a Whole: hypersensitivity reactions including urticaria and angioedema.
@@ -175,7 +185,7 @@ Gastric or duodenal ulcers, some severe and with complications, have also been r
 
 Localized osteonecrosis of the jaw, generally associated with tooth extraction and/or local infection with delayed healing, has been reported [see Warnings and Precautions (5.4)].
 
-Musculoskeletal: bone, joint, and/or muscle pain, occasionally severe, and incapacitating [see Warnings and Precautions (5.3)]; joint swelling; low-energy femoral shaft and subtrochanteric fractures [see Warnings and Precautions (5.5)].
+- Musculoskeletal: Bone, joint, or muscle pain, described as severe or incapacitating, have been reported rarely [see Warnings and Precautions (5.3)]; low-energy femoral shaft and subtrochanteric fractures, and atypical fractures of other bones [see Warnings and Precautions (5.5)].
 
 Nervous System: dizziness and vertigo.
 

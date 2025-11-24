@@ -1,4 +1,4 @@
-# Medication Guide
+- Medication Guide
 
 ONCE WEEKLY Alendronate Sodium Oral Solution
 
@@ -60,10 +60,11 @@ Your doctor may tell you to see your dentist before you start Alendronate Sodium
 It is important for you to practice good mouth care during treatment with Alendronate Sodium Oral Solution.
 
 5.
-Unusual thigh bone fractures.
+Unusual bone fractures including thigh bone fractures.
 
-Some people have developed unusual fractures in their thigh bone.
-Symptoms of a fracture may include new or unusual pain in your hip, groin, or thigh.
+Unusual bone fractures including thigh bone fractures.
+Some people have developed unusual fractures including fractures in their thigh bone.
+Symptoms of a fracture may include new or unusual pain in your hip, groin, thigh or in other bones.
 
 Call your doctor right away if you have any of these side effects.
 
@@ -195,10 +196,10 @@ Inactive ingredients: citric acid (anhydrous), methylparaben, propylparaben, pur
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Distr. by: Hikma
+Distributed by: Hikma
 
 Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000243/01 Revised September 2020
+C50000243/02 Revised October 2025

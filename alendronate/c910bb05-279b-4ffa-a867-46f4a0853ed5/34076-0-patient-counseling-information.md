@@ -26,10 +26,10 @@ Instruct patients that if they develop symptoms of esophageal disease (such as d
 If patients miss a dose of once weekly alendronate, instruct patients to take one dose on the morning after they remember.
 They should not take two doses on the same day but should return to taking one dose once a week, as originally scheduled on their chosen day.
 
-Distr. by: Hikma
+Distributed by: Hikma
 
 Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
-C50000243/01 Revised September 2020
+C50000243/02 Revised October 2025
