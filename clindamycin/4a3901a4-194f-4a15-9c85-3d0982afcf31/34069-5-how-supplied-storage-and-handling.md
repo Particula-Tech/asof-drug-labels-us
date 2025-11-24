@@ -21,3 +21,6 @@ CLEOCIN T Topical Lotion containing clindamycin phosphate equivalent to 10 mg cl
 Store at controlled room temperature 20° to 25°C (68° to 77°F) [see USP].
 
 Protect from freezing.
+
+CLEOCIN T Topical Solution is flammable.
+Keep away from heat, sparks or open flames.
