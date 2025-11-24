@@ -14,10 +14,10 @@ Adverse Findings Observed in Short-Term, Placebo-Controlled Studies with Venlafa
 Adverse Reactions Associated with Discontinuation of Treatment
 
 Major Depressive Disorder: Approximately 11% of the 357 patients who received venlafaxine hydrochloride extended-release capsules in placebo-controlled clinical trials for major depressive disorder discontinued treatment due to an adverse reaction, compared with 6% of the 285 placebo-treated patients in those studies.
-Adverse reactions that led to treatment discontinuation in a least 2% of drug-treated patients were nausea, dizziness, and somnolence.
+Adverse reactions that led to treatment discontinuation in at least 2% of drug-treated patients were nausea, dizziness, and somnolence.
 
 Social Anxiety Disorder: Approximately 17% of the 277 patients who received venlafaxine hydrochloride extended-release capsules in placebo-controlled clinical trials for Social Anxiety Disorder discontinued treatment due to an adverse reaction, compared with 5% of the 274 placebo-treated patients in those studies.
-Adverse reactions that led to treatment discontinuation in a least 2% of drug-treated patients were nausea, insomnia, impotence, headache, dizziness, and somnolence.
+Adverse reactions that led to treatment discontinuation in at least 2% of drug-treated patients were nausea, insomnia, impotence, headache, dizziness, and somnolence.
 
 Adverse Reactions Occurring at an Incidence of 5% or More
 
@@ -179,7 +179,7 @@ In a flexible-dose MDD study with doses of venlafaxine hydrochloride immediate-r
 
 Other Adverse Reactions Observed During the Premarketing Evaluation of Venlafaxine Hydrochloride Immediate-Release Tablets and Venlafaxine Hydrochloride Extended-Release Capsules
 
-During its premarketing assessment, multiple doses of venlafaxine hydrochloride extended-release capsules were administered to 705 patients in Phase 3 major depressive disorder studies and venlafaxine hydrochloride immediate-release tablets was administered to 96 patients.
+During its premarketing assessment, multiple doses of venlafaxine hydrochloride extended-release capsules were administered to 705 patients in Phase 3 major depressive disorder studies and venlafaxine hydrochloride immediate-release tablets were administered to 96 patients.
 During its premarketing assessment, multiple doses of venlafaxine hydrochloride extended-release capsules were also administered to 3514 patients in other Phase 3 studies.
 In addition, in premarketing assessment of venlafaxine hydrochloride immediate-release tablets, multiple doses were administered to 2897 patients in Phase 2 to Phase 3 studies for major depressive disorder.
 The conditions and duration of exposure to venlafaxine in both development programs varied greatly, and included (in overlapping categories) open and double-blind studies, uncontrolled and controlled studies, inpatient (venlafaxine hydrochloride immediate-release tablets only) and outpatient studies, fixed-dose, and titration studies.

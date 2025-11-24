@@ -2,40 +2,92 @@
 
 ## 8.1 Pregnancy
 
-Based on data from published observational studies, exposure to SNRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.13) and Clinical Considerations].
+Pregnancy Exposure Registry
 
-Teratogenic Effects
+There is a pregnancy exposure registry that monitors pregnancy outcomes in women exposed to antidepressants, including Venlafaxine Extended Release Tablets, during pregnancy.
+Healthcare providers are encouraged to register patients by calling the National Pregnancy Registry for Antidepressants at 1-844-405-6185 or visiting online at https://womensmentalhealth.org/clinical-and-researchprograms/pregnancyregistry/antidepressants/.
+
+Risk Summary
+
+Based on data from published observational studies, exposure to SNRIs, particularly in the month before delivery, has been associated with a less than 2-fold increase in the risk of postpartum hemorrhage [see Warnings and Precautions (5.4) and Clinical Considerations].
+
+Available data from published epidemiologic studies on venlafaxine use in pregnant women have not identified a drug-associated risk of major birth defects, miscarriage or adverse fetal outcomes (see Data).
+Available data from observational studies with venlafaxine have identified a potential increased risk for preeclampsia when used during mid to late pregnancy; exposure to SNRIs near delivery may increase the risk for postpartum hemorrhage (see Clinical Considerations).
+There are risks associated with untreated depression in pregnancy and poor neonatal adaptation in newborns with exposure to SNRIs, including Effexor XR, during pregnancy (see Clinical Considerations).
+
+In animal studies, there was no evidence of malformations or fetotoxicity following administration of venlafaxine during organogenesis at doses up to 2.5 times (rat) or 4 times (rabbit) the maximum recommended human daily dose on a mg/m2 basis.
+Postnatal mortality and decreased pup weights were observed following venlafaxine administration to pregnant rats during gestation and lactation at 2.5 times (mg/m2) the maximum human daily dose.
+
+The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+Clinical Considerations
+
+Disease-Associated Maternal and/or Embryo/Fetal Risk
+
+Women who discontinue antidepressants during pregnancy are more likely to experience a relapse of major depression than women who continue antidepressants.
+This finding is from a prospective, longitudinal study that followed 201 pregnant women with a history of major depression who were euthymic and taking antidepressants at the beginning of pregnancy.
+Consider the risk of untreated depression when discontinuing or changing treatment with antidepressant medication during pregnancy and postpartum.
+
+Maternal Adverse Reactions
+
+Exposure to Venlafaxine Extended Release Tablets in mid to late pregnancy may increase the risk for preeclampsia, and exposure to Venlafaxine Extended Release Tablets in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.4)].
+
+Fetal/Neonatal Adverse Reactions
+
+Neonates exposed to SNRIs late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
+Such complications can arise immediately upon delivery.
+Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremors, jitteriness, irritability, and constant crying.
+These findings are consistent with either a direct toxic effect of SNRIs or possibly a drug discontinuation syndrome.
+It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2)].
+Monitor neonates who were exposed to Venlafaxine Extended Release Tablets in the third trimester of pregnancy for drug discontinuation syndrome (see Data).
+
+Data
+
+Human Data
+
+Published epidemiological studies of pregnant women exposed to venlafaxine have not established an increased risk of major birth defects, miscarriage or other adverse developmental outcomes.
+Methodological limitations may both fail to identify true findings and also identify findings that are not true.
+
+Retrospective cohort studies based on claims data have shown an association between venlafaxine use and preeclampsia, compared to depressed women who did not take an antidepressant during pregnancy.
+One study that assessed venlafaxine exposure in the second trimester or first half of the third trimester and preeclampsia showed an increased risk compared to unexposed depressed women (adjusted [adj] RR 1.57, 95% confidence interval [CI] 1.29-1.91).
+Preeclampsia was observed at venlafaxine doses equal to or greater than 75 mg per day and a duration of treatment >30 days.
+Another study that assessed venlafaxine exposure in gestational weeks 10-20 and preeclampsia showed an increased risk at doses equal to or greater than 150 mg per day.
+Available data are limited by possible outcome misclassification and possible confounding due to depression severity and other confounders.
+
+Retrospective cohort studies based on claims data have suggested an association between venlafaxine use near the time of delivery or through delivery and postpartum hemorrhage.
+One study showed an increased risk for postpartum hemorrhage when venlafaxine exposure occurred through delivery, compared to unexposed depressed women (adj RR 2.24 [95% CI 1.69-2.97]).
+There was no increased risk in women who were exposed to venlafaxine earlier in pregnancy.
+Limitations of this study include possible confounding due to depression severity and other confounders.
+Another study showed an increased risk for postpartum hemorrhage when SNRI exposure occurred for at least 15 days in the last month of pregnancy or through delivery, compared to unexposed women (adj RR 1.64-1.76).
+The results of this study may be confounded by the effects of depression.
+
+Animal Data
 
 Venlafaxine did not cause malformations in offspring of rats or rabbits given doses up to 2.5 times (rat) or 4 times (rabbit) the maximum recommended human daily dose on a mg/m2 basis.
-
 However, in rats, there was a decrease in pup weight, an increase in stillborn pups, and an increase in pup deaths during the first 5 days of lactation, when dosing began during pregnancy and continued until weaning.
 The cause of these deaths is not known.
 These effects occurred at 2.5 times (mg/m2) the maximum human daily dose.
 The no effect dose for rat pup mortality was 0.25 times the human dose on a mg/m2 basis.
-There are no adequate and well-controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.
 
-Non-Teratogenic Effects
+When desvenlafaxine succinate, the major metabolite of venlafaxine, was administered orally to pregnant rats and rabbits during the period of organogenesis at doses up to 300 mg/kg/day and 75 mg/kg/day, respectively, no fetal malformations were observed.
+These doses were associated with a plasma exposure (AUC) 19 times (rats) and 0.5 times (rabbits) the AUC exposure at an adult human dose of 100 mg per day.
+However, fetal weights were decreased and skeletal ossification was delayed in rats in association with maternal toxicity at the highest dose, with an AUC exposure at the no-effect dose that is 4.5-times the AUC exposure at an adult human dose of 100 mg per day.
 
-Neonates exposed to venlafaxine hydrochloride extended-release capsules, other SNRIs (Serotonin and Norepinephrine Reuptake Inhibitors), or SSRIs (Selective Serotonin Reuptake Inhibitors), late in the third trimester have developed complications requiring prolonged hospitalization, respiratory support, and tube feeding.
-Such complications can arise immediately upon delivery.
-Reported clinical findings have included respiratory distress, cyanosis, apnea, seizures, temperature instability, feeding difficulty, vomiting, hypoglycemia, hypotonia, hypertonia, hyperreflexia, tremor, jitteriness, irritability, and constant crying.
-These features are consistent with either a direct toxic effect of SSRIs and SNRIs or, possibly, a drug discontinuation syndrome.
-It should be noted that, in some cases, the clinical picture is consistent with serotonin syndrome [see Warnings and Precautions (5.2)].
-When treating a pregnant woman with Venlafaxine Extended-Release Tablets during the third trimester, the physician should carefully consider the potential risks and benefits of treatment [see Dosage and Administration (2)].
+## 8.2 Lactation
 
-Maternal Adverse Reactions
+Risk Summary
 
-Exposure to Venlafaxine Extended Release Tablets in mid to late pregnancy may increase the risk for preeclampsia, and exposure to Venlafaxine Extended Release Tablets in the month before delivery may be associated with an increased risk of postpartum hemorrhage [see Warnings and Precautions (5.13)].
+Data from published literature report the presence of venlafaxine and its active metabolite in human milk and have not shown adverse reactions in breastfed infants (see Data).
+There are no data on the effects of venlafaxine on milk production.
 
-## 8.2 Labor and Delivery
+The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for Venlafaxine Extended Release Tablets and any potential adverse effects on the breastfed child from Venlafaxine Extended Release Tablets or from the underlying maternal condition.
 
-The effect of venlafaxine on labor and delivery in humans is unknown.
+Data
 
-## 8.3 Nursing Mothers
-
-Venlafaxine and ODV have been reported to be excreted in human milk.
-Because of the potential for serious adverse reactions in nursing infants from Venlafaxine Extended Release Tablets, a decision should be made whether to discontinue nursing or to discontinue the drug, taking into account the importance of the drug to the mother.
+In a lactation study conducted in 11 breastfeeding women (at a mean of 20.1 months post-partum) who were taking a mean daily dose of 194.3 mg of venlafaxine and in a lactation study conducted in 6 breastfeeding women who were taking a daily dose of 225 mg to 300 mg of venlafaxine (at a mean of 7 months post-partum), the estimated mean relative infant dose was 8.1% and 6.4% based on the sum of venlafaxine and its major metabolite, desvenlafaxine.
+No adverse reactions were seen in the infants
 
 ## 8.4 Pediatric Use
 

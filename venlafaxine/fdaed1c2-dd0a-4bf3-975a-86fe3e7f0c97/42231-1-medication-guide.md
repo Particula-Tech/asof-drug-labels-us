@@ -1,4 +1,4 @@
-Medication Guide
+# Medication Guide
 
 Antidepressant Medicines, Depression and Other Serious Mental Illnesses, and Suicidal Thoughts or Actions
 
@@ -86,11 +86,11 @@ You may report side effects to FDA at 1-800-FDA-1088.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration for all antidepressants.
 
-Marketed by:
+Manufactured for:
 
 Alpharetta, GA 30005
 
 Rev.
-08/2023
+07/2025
 
 70046582

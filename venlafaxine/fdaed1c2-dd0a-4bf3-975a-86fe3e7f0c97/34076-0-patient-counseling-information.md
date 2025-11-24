@@ -61,7 +61,7 @@ are susceptible to angle closure, and have a prophylactic procedure (e.g., iride
 Advise patient that use of Venlafaxine Extended Release Tablets may cause symptoms of sexual dysfunction in both male and female patients.
 Inform patients that they should discuss any changes in sexual function and potential management strategies with their healthcare provider [see Warnings and Precautions (5.18)].
 
-Marketed by:
+Manufactured for:
 
 Alpharetta, GA 30005
 
