@@ -1,7 +1,5 @@
 # MEDICATION GUIDE
 
-Dispense with Medication Guide available at: www.solcohealthcare.com/medguide/ticagrelor-tablets.pdf
-
 Ticagrelor Tablets
 
 (tye-KA-grel-or)
@@ -145,9 +143,9 @@ Active ingredient: ticagrelor
 
 90 mg tablets:
 
-Inactive ingredients: mannitol, dibasic calcium phosphate dihydrate, sodium starch glycolate, magnesium stearate, hypromellose, titanium dioxide, polyethylene glycol 400, and ferric oxide yellow.
+Inactive ingredients: dibasic calcium phosphate dihydrate, ferric oxide yellow, hypromellose, mannitol, magnesium stearate, polyethylene glycol 400, sodium starch glycolate, and titanium dioxide.
 
-For more information contact Prinston Pharmaceutical Inc. at 1-866-257-2597.
+For more information contact Solco Healthcare US, LLC at 1-866-257-2597.
 
 Distributed by:
 
@@ -163,4 +161,4 @@ Xunqiao, Linhai, Zhejiang 317024, China
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 12/2024
+Revised: 11/2025

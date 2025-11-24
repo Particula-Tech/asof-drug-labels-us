@@ -16,8 +16,6 @@ Advise patients to inform physicians and dentists that they are taking ticagrelo
 
 Advise women that breastfeeding is not recommended during treatment with ticagrelor tablets [see Use in Specific Populations (8.2)].
 
-Dispense with Medication Guide available at: www.solcohealthcare.com/medguide/ticagrelor-tablets.pdf
-
 Distributed by:
 
 Solco Healthcare US, LLC
@@ -30,4 +28,6 @@ Zhejiang Huahai Pharmaceutical Co., Ltd.
 
 Xunqiao, Linhai, Zhejiang 317024, China
 
-Revised: 12/2024
+Revised: 11/2025
+
+205326-03

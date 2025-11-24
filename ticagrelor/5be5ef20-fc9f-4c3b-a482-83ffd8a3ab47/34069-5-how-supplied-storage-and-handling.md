@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-Ticagrelor 90 mg is supplied as a round, biconvex, yellow, film-coated tablet debossed with “579” on one side, and “S” on the other side:
+Ticagrelor tablets, 90 mg are supplied as a round, biconvex, yellow, film-coated tablet debossed with “579” on one side, and “S” on the other side:
 
 Bottles of 60 – NDC 43547-657-06
 
