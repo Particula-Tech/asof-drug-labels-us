@@ -380,3 +380,5 @@ Nervous system disorders: hemiparesis
 Renal disorders: Anticoagulant-related nephropathy Respiratory, thoracic and mediastinal disorders: Eosinophilic pneumonia
 
 Skin and subcutaneous tissue disorders: Stevens-Johnson syndrome, drug reaction with eosinophilia and systemic symptoms (DRESS)
+
+Injury, poisoning and procedural complications: Atraumatic splenic rupture

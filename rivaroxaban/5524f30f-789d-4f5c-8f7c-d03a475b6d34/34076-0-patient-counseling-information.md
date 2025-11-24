@@ -26,6 +26,16 @@ Lactation Advise patients to discuss with their physician the benefits and risks
 
 Females and Males of Reproductive Potential Advise patients who can become pregnant to discuss pregnancy planning with their physician [see Use in Specific Populations (8.3)].
 
-Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal 389350, Gujarat, India.
+Manufactured by:
 
-Revised: 01/2025
+Alembic Pharmaceuticals Limited
+
+(Formulation Division),
+
+Village Panelav, P. O. Tajpura,
+
+Near Baska, Taluka-Halol,
+
+Panchmahal 389350, Gujarat, India.
+
+Revised: 10/2025
