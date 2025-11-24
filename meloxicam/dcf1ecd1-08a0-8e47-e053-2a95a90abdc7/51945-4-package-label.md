@@ -29,3 +29,21 @@ Patient Sample
 Not or Sale.
 
 Dispense with Medication Guide
+
+# Principal Display Panel - NDC: 81968-020-02 - 2-count Physician Sample
+
+Rx Only NDC 81968-020-02
+
+SYMBRAVO®
+
+(meloxicam and rizatriptan) tablets
+
+20 mg/10 mg
+
+Patient Sample
+
+2 Tablets For oral use
+
+Not or Sale.
+
+Dispense with Medication Guide
