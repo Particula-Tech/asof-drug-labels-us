@@ -1,8 +1,8 @@
 # ADVERSE REACTIONS
 
-The most frequently reported ocular event in clinical trials was burning/stinging on instillation and was comparable between Betimol® and timolol maleate (approximately one in eight patients).
+The most frequently reported ocular event in clinical trials was burning/stinging on instillation and was comparable between Betimol ®and timolol maleate (approximately one in eight patients).
 
-The following adverse events were associated with use of Betimol® in frequencies of more than 5% in two controlled, double-masked clinical studies in which 184 patients received 0.25% or 0.5% Betimol®:
+The following adverse events were associated with use of Betimol ®in frequencies of more than 5% in two controlled, double-masked clinical studies in which 184 patients received 0.25% or 0.5% Betimol ®:
 
 OCULAR:
 

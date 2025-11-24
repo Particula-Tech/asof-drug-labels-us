@@ -2,7 +2,7 @@
 
 Timolol is a non-selective beta-adrenergic antagonist.
 
-It blocks both beta1-and beta2-adrenergic receptors.
+It blocks both beta 1-and beta 2-adrenergic receptors.
 Timolol does not have significant intrinsic sympathomimetic activity, local anesthetic (membrane-stabilizing) or direct myocardial depressant activity.
 
 Timolol, when applied topically in the eye, reduces normal and elevated intraocular pressure (IOP) whether or not accompanied by glaucoma.
@@ -22,5 +22,5 @@ The half-life of timolol in plasma is approximately 4 hours.
 
 ## Clinical Studies
 
-In two controlled multicenter studies in the U.S., Betimol® 0.25% and 0.5% were compared with respective timolol maleate eyedrops.
-In these studies, the efficacy and safety profile of Betimol® was similar to that of timolol maleate.
+In two controlled multicenter studies in the U.S., Betimol ®0.25% and 0.5% were compared with respective timolol maleate eyedrops.
+In these studies, the efficacy and safety profile of Betimol ®was similar to that of timolol maleate.

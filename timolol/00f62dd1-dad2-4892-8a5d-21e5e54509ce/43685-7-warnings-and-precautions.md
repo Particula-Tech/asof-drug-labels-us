@@ -1,6 +1,6 @@
 # WARNINGS
 
-As with other topically applied ophthalmic drugs, Betimol® is absorbed systemically.
+As with other topically applied ophthalmic drugs, Betimol ®is absorbed systemically.
 The same adverse reactions found with systemic administration of beta-adrenergic blocking agents may occur with topical administration.
 For example, severe respiratory and cardiac reactions, including death due to bronchospasm in patients with asthma, and rarely, death in association with cardiac failure have been reported following systemic or topical administration of beta-adrenergic blocking agents.
 
@@ -9,7 +9,7 @@ For example, severe respiratory and cardiac reactions, including death due to br
 Sympathetic stimulation may be essential for support of the circulation in individuals with diminished myocardial contractility, and its inhibition by beta-adrenergic receptor blockade may precipitate more severe cardiac failure.
 
 In patients without a history of cardiac failure, continued depression of the myocardium with beta-blocking agents over a period of time can, in some cases, lead to cardiac failure.
-Betimol® should be discontinued at the first sign or symptom of cardiac failure.
+Betimol ®should be discontinued at the first sign or symptom of cardiac failure.
 
 ## Obstructive Pulmonary Disease
 
@@ -40,7 +40,7 @@ Patients suspected of developing thyrotoxicosis should be managed carefully to a
 ## General
 
 Because of the potential effects of beta-adrenergic blocking agents relative to blood pressure and pulse, these agents should be used with caution in patients with cerebrovascular insufficiency.
-If signs or symptoms suggesting reduced cerebral blood flow develop following initiation of therapy with Betimol®, alternative therapy should be considered.
+If signs or symptoms suggesting reduced cerebral blood flow develop following initiation of therapy with Betimol ®, alternative therapy should be considered.
 
 There have been reports of bacterial keratitis associated with the use of multiple dose containers of topical ophthalmic products.
 These containers had been inadvertently contaminated by patients who, in most cases, had a concurrent corneal disease or a disruption of the ocular epithelial surface.
@@ -53,7 +53,7 @@ Beta-adrenergic blocking agents have been reported rarely to increase muscle wea
 
 In angle-closure glaucoma, the goal of the treatment is to reopen the angle.
 This requires constricting the pupil.
-Betimol® has no effect on the pupil.
+Betimol ®has no effect on the pupil.
 Therefore, if timolol is used in angle-closure glaucoma, it should always be combined with a miotic and not used alone.
 
 ### Anaphylaxis
@@ -62,7 +62,7 @@ While taking beta-blockers, patients with a history of atopy or a history of sev
 Such patients may be unresponsive to the usual doses of epinephrine used to treat anaphylactic reactions.
 
 The preservative benzalkonium chloride may be absorbed by soft contact lenses.
-Patients who wear soft contact lenses should wait 5 minutes after instilling Betimol® before they insert their lenses.
+Patients who wear soft contact lenses should wait 5 minutes after instilling Betimol ®before they insert their lenses.
 
 ## Information for Patients
 
@@ -80,7 +80,7 @@ Patients with bronchial asthma, a history of bronchial asthma, severe chronic ob
 
 ### Beta-adrenergic blocking agents
 
-Patients who are receiving a beta-adrenergic blocking agent orally and Betimol® should be observed for a potential additive effect either on the intraocular pressure or on the known systemic effects of beta-blockade.
+Patients who are receiving a beta-adrenergic blocking agent orally and Betimol ®should be observed for a potential additive effect either on the intraocular pressure or on the known systemic effects of beta-blockade.
 
 Patients should not usually receive two topical ophthalmic beta-adrenergic blocking agents concurrently.
 
@@ -111,10 +111,10 @@ Furthermore, significant increases were observed in the incidences of benign and
 These changes were not seen at the daily dose level of 5 or 50 mg/kg (approximately 700 or 7,000, respectively, times the systemic exposure following the maximum recommended human ophthalmic dose).
 For comparison, the maximum recommended human oral dose of timolol maleate is 1 mg/kg/day.
 
-Mutagenic potential of timolol was evaluated in vivo in the micronucleus test and cytogenetic assay and in vitro in the neoplastic cell transformation assay and Ames test.
-In the bacterial mutagenicity test (Ames test) high concentrations of timolol maleate (5000 and 10,000 g/plate) statistically significantly increased the number of revertants in Salmonella typhimurium TA100, but not in the other three strains tested.
+Mutagenic potential of timolol was evaluated in vivoin the micronucleus test and cytogenetic assay and in vitroin the neoplastic cell transformation assay and Ames test.
+In the bacterial mutagenicity test (Ames test) high concentrations of timolol maleate (5000 and 10,000 g/plate) statistically significantly increased the number of revertants in Salmonella typhimuriumTA100, but not in the other three strains tested.
 However, no consistent dose-response was observed nor did the number of revertants reach the double of the control value, which is regarded as one of the criteria for a positive result in the Ames test.
-In vivo genotoxicity tests (the mouse micronucleus test and cytogenetic assay) and in vitro the neoplastic cell transformation assay were negative up to dose levels of 800 mg/kg and 100 g/mL, respectively.
+In vivogenotoxicity tests (the mouse micronucleus test and cytogenetic assay) and in vitrothe neoplastic cell transformation assay were negative up to dose levels of 800 mg/kg and 100 g/mL, respectively.
 
 No adverse effects on male and female fertility were reported in rats at Timolol oral doses of up to 150 mg/kg/day (21,000 times the systemic exposure following the maximum recommended human ophthalmic dose).
 
@@ -129,7 +129,7 @@ Doses of 1000 mg/kg/day (142,000 times the systemic exposure following the maxim
 Increased fetal resorptions were also seen in rabbits at doses of 14,000 times the systemic exposure following the maximum recommended human ophthalmic dose in this case without apparent maternotoxicity.
 
 There are no adequate and well-controlled studies in pregnant women.
-Betimol® should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
+Betimol ®should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
 ## Nursing mothers
 

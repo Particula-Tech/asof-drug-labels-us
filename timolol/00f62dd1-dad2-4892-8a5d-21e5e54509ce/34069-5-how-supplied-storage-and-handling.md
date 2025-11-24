@@ -1,15 +1,15 @@
 # HOW SUPPLIED
 
-Betimol® (timolol ophthalmic solution) is a clear, colorless solution.
+Betimol ®(timolol ophthalmic solution) is a clear, colorless solution.
 
-Betimol® 0.25% is supplied in a white, opaque, plastic, ophthalmic dispenser bottle with a controlled drop tip as follows:
+Betimol ®0.25% is supplied in a white, opaque, plastic, ophthalmic dispenser bottle with a controlled drop tip as follows:
 
 | NDC 68669-522-05 | 5.0mL | fill in 5 cc container |
 | --- | --- | --- |
 | NDC 68669-522-10 | 10mL | fill in 11 cc container |
 | NDC 68669-522-15 | 15mL | fill in 15 cc container |
 
-Betimol® 0.5% is supplied in a white, opaque, plastic, ophthalmic dispenser bottle with a controlled drop tip as follows:
+Betimol ®0.5% is supplied in a white, opaque, plastic, ophthalmic dispenser bottle with a controlled drop tip as follows:
 
 | NDC 68669-525-05 | 5.0mL | fill in 5 cc container |
 | --- | --- | --- |
