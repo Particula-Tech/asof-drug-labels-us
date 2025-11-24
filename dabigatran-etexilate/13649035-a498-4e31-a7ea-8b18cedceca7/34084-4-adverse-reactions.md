@@ -84,7 +84,7 @@ Apparent homogeneity or heterogeneity among groups should not be over-interprete
 
 Gastrointestinal Adverse Reactions
 
-Patients on dabigatran etexilate capsules 150 mg had an increased incidence of gastrointestinal adverse reactions (35% vs. 24% on warfarin).
+Patients on dabigatran etexilate capsules 150 mg had an increased incidence of gastrointestinal adverse reactions (35% vs 24% on warfarin).
 These were commonly dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) and gastritis-like symptoms (including GERD, esophagitis, erosive gastritis, gastric hemorrhage, hemorrhagic gastritis, hemorrhagic erosive gastritis, and gastrointestinal ulcer).
 
 Hypersensitivity Reactions
@@ -207,7 +207,7 @@ In the placebo-controlled study, a similar rate of nonfatal and fatal clinical m
 Gastrointestinal Adverse Reactions
 
 In the four pivotal studies, patients on dabigatran etexilate capsules 150 mg had a similar incidence of gastrointestinal adverse reactions (24.7% vs 22.7% on warfarin).
-Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules in 7.5% vs 5.5% on warfarin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 3% vs 1.7%, respectively.
+Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules 7.5% vs 5.5% on warfarin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 3% vs 1.7%, respectively.
 
 Hypersensitivity Reactions
 
@@ -235,7 +235,7 @@ Table 7: Bleeding Events in RE-NOVATE Treated Patients
 | Clinically relevant non-major bleeding | 48 (4.2) | 40 (3.5) |
 | Any bleeding | 141 (12.3) | 132 (11.4) |
 
-Table 8 Bleeding Events in RE-NOVATE II Treated Patients
+Table 8: Bleeding Events in RE-NOVATE II Treated Patients
 
 |  | Dabigatran Etexilate Capsules 220 mg N (%) | Enoxaparin N (%) |
 | --- | --- | --- |
@@ -249,7 +249,7 @@ In the two studies, the rate of major gastrointestinal bleeds in patients receiv
 Gastrointestinal Adverse Reactions
 
 In the two studies, the incidence of gastrointestinal adverse reactions for patients on dabigatran etexilate capsules 220 mg and enoxaparin was 39.5% and 39.5%, respectively.
-Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules 220 mg in 4.1% vs. 3.8% on enoxaparin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 0.6% vs. 1%, respectively.
+Dyspepsia (including abdominal pain upper, abdominal pain, abdominal discomfort, and epigastric discomfort) occurred in patients on dabigatran etexilate capsules 220 mg in 4.1% vs. 3.8% on enoxaparin, and gastritis-like symptoms (including gastritis, GERD, esophagitis, erosive gastritis and gastric hemorrhage) occurred at 0.6% vs 1%, respectively.
 
 Hypersensitivity Reactions
 
@@ -257,10 +257,60 @@ In the two studies, drug hypersensitivity (such as urticaria, rash, and pruritus
 
 Clinical Myocardial Infarction Events
 
-In the two studies, clinical myocardial infarction was reported in 2 (0.1%) of patients who received dabigatran etexilate 220 mg and 6 (0.3%) of patients who received enoxaparin.
+In the two studies, clinical myocardial infarction was reported in 2 (0.1%) of patients who received dabigatran etexilate capsules 220 mg and 6 (0.3%) of patients who received enoxaparin.
 
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Pediatric Trials
+
+Treatment of VTE in Pediatric Patients
+
+The safety of dabigatran etexilate capsules in the treatment of VTE in pediatric patients was studied in one phase III trial (DIVERSITY).
+The DIVERSITY study was a randomized, open-label, active-controlled, parallel-group trial comparing dabigatran etexilate capsules with standard of care – SOC (vitamin K antagonists, low molecular weight heparin, or fondaparinux).
+There were 266 pediatric patients who received study treatment, 176 patients treated with dabigatran etexilate capsules and 90 patients treated with SOC.
+Patients on dabigatran etexilate capsules received age- and weight-adjusted dosages of an age-appropriate formulation of dabigatran etexilate (capsules, pellets, or oral solution) twice daily.
+
+Patients had a median age of 14 years (range: 0 to 17 years), 92% were white, and half the patients were male (50%).
+Following at least 5 days of parenteral anticoagulant therapy, the median duration of treatment with dabigatran etexilate capsules was 85 days (range: 1 to 105).
+Patients with estimated glomerular filtration rate (eGFR) < 50 mL/min/1.73m2 were excluded from the trial.
+
+Bleeding
+
+Data on adjudicated major bleeding, clinically relevant non-major (CRNM) bleeding and minor bleeding events, for the dabigatran etexilate group and the SOC group in the DIVERSITY study, are reported in Table 9.
+There was no statistically significant difference in the time to first major bleeding event.
+
+Table 9: Summary of All Adjudicated Bleeding Events During On-Treatment Period in DIVERSITY
+
+|  | Dabigatran Etexilate Capsules N (%) | Standard of Care (SOC) N (%) |
+| --- | --- | --- |
+| Patients | N=176 | N=90 |
+| Major bleeding event1 | 4 (2.3) | 2 (2.2) |
+| Fatal bleeding | 0 | 1 (1.1) |
+| Clinically relevant non-major bleeding | 2 (1.1) | 1 (1.1) |
+| Minor bleeding | 33 (19) | 21 (23) |
+| Major and clinically relevant non-major bleeding | 6 (3.4) | 3 (3.3) |
+| Any bleeding | 38 (22) | 22 (24) |
+
+1 Major bleeding event if at least one of the following criteria applied: fatal bleeding, symptomatic bleeding in a critical area or organ (intraocular, intracranial, intraspinal or intramuscular with compartment syndrome, retroperitoneal bleeding, intra-articular bleeding, or pericardial bleeding), bleeding causing a fall in hemoglobin level of 2 g/dL (1.24 mmol/L) or more, or leading to transfusion of 2 or more units of whole blood or red cells.
+
+Site-specific bleeding rates were comparable between the two arms, with the exception of the rate of any gastrointestinal bleeds (5.7% in dabigatran etexilate arm vs 1.8% in SOC arm).
+
+Gastrointestinal Adverse Reactions
+
+The incidence of gastrointestinal adverse reactions for patients on dabigatran etexilate capsules and SOC was 32% and 12%, respectively, with the following occurring in ≥ 5% of patients taking dabigatran etexilate capsules: dyspepsia (including term gastro-esophageal reflux disease, gastric pH decreased and esophagitis) in 9% (vs 2%), upper abdominal pain in 5% (vs 1%), vomiting in 8% (vs 2%), nausea 5% (vs 4%), and diarrhea 5% (vs 1%).
+
+Reduction in Risk of Recurrence of VTE in Pediatric Patients
+
+The safety of dabigatran etexilate capsules in the reduction in the risk of recurrence of VTE in pediatric patients was studied in one open-label single-arm trial (Study 2).
+Study 2 enrolled patients who required further anticoagulation due to the presence of a clinical risk factor after completing the initial treatment for confirmed VTE (for at least 3 months) or after completing the DIVERSITY study and received dabigatran etexilate capsules until the clinical risk factor resolved, or up to a maximum of 12 months.
+There were 213 pediatric patients treated with dabigatran etexilate capsules, in a similar fashion as in the DIVERSITY trial.
+
+Patients had a median age of 14 years (range: 0 to 18 years), 91% were white, and 55% of patients were male.
+Patients previously enrolled on DIVERSITY accounted for 43% of patients enrolled on Study 2 (29% from dabigatran etexilate capsules arm and 14% from SOC arm).
+The median duration of treatment with dabigatran etexilate capsules in Study 2 was 42 weeks (range: 0 to 56 weeks), with 45% of patients completing the 12-month planned duration, 17% stopping due to resolution of VTE risk factors, 12% stopping due to failure to attain target dabigatran concentration and 6% had an adverse event leading to discontinuation.
+
+During the on-treatment period of Study 2, 3 patients (1.4%) had a major bleeding event, 3 patients (1.4%) had a clinically relevant non-major bleeding event, and 44 patients (20%) had a minor bleeding event.
+The most common drug-related adverse reactions were dyspepsia (5%), epistaxis (3.3%), nausea (3.3%) and menorrhagia (2.8%).
+
+The adverse reaction profile in pediatric patients was generally consistent with that of adult patients.
 
 ## 6.2 Postmarketing Experience
 

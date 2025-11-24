@@ -62,8 +62,8 @@ Prosthetic Heart Valves
 Instruct patients to inform their healthcare provider if they will have or have had surgery to place a prosthetic heart valve [see Warnings and Precautions (5.4)].
 
 Allergic Reactions Advise adult patients and caregivers that some adults taking dabigatran etexilate capsules have developed symptoms of an allergic reaction.
-Advise adult patients or caregivers to inform their healthcare provider if they develop symptoms of an allergic reaction, such as hives, rash, or itching.
-Advise adult patients or caregivers to seek emergency medical attention if they develop chest pain or tightness, swelling of the face or tongue, trouble breathing or wheezing, or feeling dizzy or faint.
+Advise adult patients or caregivers to inform their healthcare provider if they or their child develop symptoms of an allergic reaction, such as hives, rash, or itching.
+Advise adult patients or caregivers to seek emergency medical attention if they or their child develop chest pain or tightness, swelling of the face or tongue, trouble breathing or wheezing, or feeling dizzy or faint.
 
 Pregnancy
 
@@ -73,9 +73,8 @@ Lactation
 
 Advise patients not to breastfeed if they are taking dabigatran etexilate capsules[see Use in Specific Populations (8.2)].
 
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+Manufactured by:
 
-Manufactured by: Alembic Pharmaceuticals Limited (Formulation Division), Panelav 389350, Gujarat, India
+Alembic Pharmaceuticals Limited (Formulation Division), Village Panelav, P. O. Tajpura, Near Baska, Taluka-Halol, Panchmahal, Gujarat, India.
 
-Revised: 07/2024
+Revised: 10/2025

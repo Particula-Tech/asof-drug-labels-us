@@ -10,7 +10,7 @@ The use of the P-gp inhibitors verapamil, amiodarone, quinidine, clarithromycin,
 These results should not be extrapolated to other P-gp inhibitors [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 The concomitant use of dabigatran etexilate and P-gp inhibitors in patients with severe renal impairment (CrCl 15 to 30 mL/min) should be avoided [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
-## 7.2 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism In Adult Patients
+## 7.2 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients
 
 Avoid use of dabigatran etexilate and P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
@@ -19,5 +19,6 @@ Avoid use of dabigatran etexilate and P-gp inhibitors in patients with CrCl <50 
 In patients with CrCl ≥50 mL/min who have concomitant administration of P-gp inhibitors such as dronedarone or systemic ketoconazole, it may be helpful to separate the timing of administration of dabigatran and the P-gp inhibitor by several hours.
 The concomitant use of dabigatran etexilate and P-gp inhibitors in patients with CrCl <50 mL/min should be avoided [see Warnings and Precautions (5.5), Use in Specific Populations (8.6) and Clinical Pharmacology (12.2, 12.3)].
 
-Pediatric use information is approved for Boehringer Ingelheim Pharmaceuticals, Inc.’s Pradaxa (dabigatran etexilate) capsules.
-However, due to Boehringer Ingelheim Pharmaceuticals, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
+## 7.4 Treatment and Reduction in Risk of Recurrence of VTE in Pediatric Patients
+
+The concomitant use of dabigatran etexilate capsules with P-gp inhibitors has not been studied in pediatric patients but may increase exposure to dabigatran [see Warnings and Precautions (5.5)].
