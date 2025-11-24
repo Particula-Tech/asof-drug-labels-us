@@ -2,7 +2,7 @@
 
 Neomycin and polymyxin B sulfates and dexamethasone ophthalmic ointment is supplied as a STERILE ointment in an aluminum tube with a white polyethylene tip and white polyethylene cap as follows:
 
-1. 3.5 g in an aluminum tube NDC 61314-631-36
+3.5 g in an aluminum tube NDC 61314-631-36
 
 Storage: Store at 2°C to 25°C (36°F to 77°F).
 
