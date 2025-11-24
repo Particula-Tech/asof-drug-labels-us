@@ -1,12 +1,13 @@
 # 7 DRUG INTERACTIONS
 
-Table 2.
-Clinically Important Drug Interactions with Antara
+Table 2 presents clinically important drug interactions with Antara
+
+Table 2: Clinically Important Drug Interactions with Antara
 
 | Statins |  |
 | --- | --- |
 | Clinical Impact: | Fibrates may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with statins. |
-| Intervention: | Consider if the benefit of using Antara concomitantly with statin therapy outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of statin therapy. |
+| Intervention: | Consider if the benefit of using Antara concomitantly with statin therapy outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dosage titration of statin therapy. |
 | Colchicine |  |
 | Clinical Impact: | Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with fenofibrates. |
 | Intervention: | Consider if the benefit of using colchicine concomitantly with Antara outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dosage titration of colchicine. |

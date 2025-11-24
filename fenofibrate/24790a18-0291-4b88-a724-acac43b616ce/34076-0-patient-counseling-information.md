@@ -3,7 +3,7 @@
 Hepatotoxicity
 
 Inform patients that Antara may cause liver enzyme elevations and possibly liver failure.
-Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Contraindications (4), Warnings and Precautions (5.2)].
+Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Contraindications (4) and Warnings and Precautions (5.2)].
 
 Myopathy and Rhabdomyolysis
 
@@ -12,9 +12,14 @@ Inform patients that the risk is also increased when taking certain types of med
 Instruct patients to inform other healthcare providers prescribing a new medication or increasing the dosage of an existing medication that they are taking Antara.
 Instruct patients to promptly report any unexplained muscle pain, tenderness, or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.3) and Drug Interactions (7)].
 
+Increased Bleeding Risk with Coumarin Anticoagulants
+
+Inform patients that the concomitant use of Antara with coumarin-type anticoagulants may increase the risk of bleeding.
+Advise patients if they are taking or planning to take coumarin-type anticoagulants to inform their healthcare providers and that increased monitoring may be necessary [see Warnings and Precautions (5.6) and Drug Interactions (7)].
+
 Hypersensitivity Reactions
 
-Inform patients that serious hypersensitivity reactions, such as anaphylaxis and angioedema, have been reported with fibrates.
+Inform patients that serious hypersensitivity reactions, such as anaphylaxis and angioedema, have been reported with fenofibrates.
 Advise patients to report immediately any signs or symptoms suggesting allergic reaction, and to discontinue drug until they have consulted prescribing physicians [see Warnings and Precautions (5.9)].
 
 Pregnancy
@@ -27,13 +32,13 @@ Advise patients that breastfeeding during treatment with Antara is not recommend
 
 Missed Doses
 
-If a dose is missed, advise patients not take an extra dose and to resume treatment with the next dose.
+If a dose is missed, advise patients to not take an extra dose and to resume treatment with the next dose.
 
 Distributed by:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 

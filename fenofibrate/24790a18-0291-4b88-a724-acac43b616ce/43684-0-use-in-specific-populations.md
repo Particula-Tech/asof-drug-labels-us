@@ -5,7 +5,7 @@
 Risk Summary
 
 Limited available data with fenofibrate use in pregnant women are insufficient to determine a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes.
-In animal reproduction studies, no evidence of embryo-fetal toxicity was observed with oral administration of fenofibrate in rats and rabbits during organogenesis at doses less than or comparable to the maximum recommended clinical dose of 130 mg of Antara daily, based on body surface area (mg/m2).
+In animal reproduction studies, no evidence of embryo-fetal toxicity was observed with oral administration of fenofibrate in rats and rabbits during organogenesis at doses less than or comparable to the maximum recommended clinical dosage of 130 mg of Antara daily, based on body surface area (mg/m2).
 Adverse reproductive outcomes occurred at higher doses in the presence of maternal toxicity (see Data).
 Antara should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
@@ -32,7 +32,7 @@ Risk Summary
 
 There is no available information on the presence of fenofibrate in human milk, effects of the drug on the breastfed infant, or the effects on milk production.
 Fenofibrate is present in the milk of rats, and is therefore likely to be present in human milk.
-Because of the potential for serious adverse reactions in breastfed infants, such as disruption of infant lipid metabolism, women should not breastfeed during treatment with Antara and for 5 days after the final dose [see Contraindications (4)].
+Because of the potential for serious adverse reactions in breastfed infants, such as disruption of infant lipid metabolism, women should not breastfeed during treatment with Antara and for 5 days after the final dose.
 
 ## 8.4 Pediatric Use
 
@@ -40,19 +40,19 @@ The safety and effectiveness of Antara have not been established in pediatric pa
 
 ## 8.5 Geriatric Use
 
-Assess renal function in elderly patients and follow contraindications and dosing recommendations for patients with renal impairment [see Contraindications (4), Warnings and Precautions (5.3, 5.4), and Use in Specific Populations (8.6)].
-While fenofibric acid exposure is not influenced by age, elderly patients are more likely to have renal impairment, and fenofibric acid is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
+Assess renal function in geriatric patients and follow contraindications and dosing recommendations for patients with renal impairment [see Contraindications (4), Warnings and Precautions (5.3, 5.4), and Use in Specific Populations (8.6)].
+While fenofibric acid exposure is not influenced by age, geriatric patients are more likely to have renal impairment, and fenofibric acid is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
 
-Consider monitoring renal function in elderly patients taking Antara.
+Consider monitoring renal function in geriatric patients taking Antara.
 
 ## 8.6 Renal Impairment
 
-Antara is contraindicated in patients with severe renal impairment (eGFR <30 mL/min/1.73m2), including those with end-stage renal disease (ESRD) and those receiving dialysis [see Contraindications (4)].
-Dose reduction is required in patients with mild to moderate renal impairment [see Dosage and Administration (2.3) and Clinical Pharmacology (12.3)].
+Antara is contraindicated in patients with severe renal impairment (eGFR <30 mL/min/1.73m2), including those with end-stage renal disease (ESRD) and those receiving dialysis.
+Dosage reduction is required in patients with mild to moderate renal impairment [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 Patients with severe renal impairment have 2.7-fold higher exposure of fenofibric acid and increased accumulation of fenofibric acid during chronic dosing compared with healthy volunteers.
 Renal impairment is a risk factor for myopathy and rhabdomyolysis [see Warnings and Precautions (5.3, 5.4), and Clinical Pharmacology (12.3)].
 
 ## 8.7 Hepatic Impairment
 
-The use of Antara has not been evaluated in subjects with hepatic impairment.
-Antara is contraindicated in patients with active liver disease, including those with unexplained persistent liver function abnormalities [see Contraindications (4) and Clinical Pharmacology (12.3)].
+The use of Antara has not been evaluated in patients with hepatic impairment.
+Antara is contraindicated in patients with active liver disease, including those with unexplained persistent liver function abnormalities [see Clinical Pharmacology (12.3)].
