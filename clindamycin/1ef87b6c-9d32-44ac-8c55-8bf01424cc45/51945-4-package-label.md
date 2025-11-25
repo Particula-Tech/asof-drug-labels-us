@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 100 mL Bottle Label
 
-NDC 0009-0760-04
+NDC 0009-0760-12
 
 Pfizer
 
@@ -14,7 +14,7 @@ When reconstituted each 5 mL contains
 
 # PRINCIPAL DISPLAY PANEL - 100 mL Bottle Carton
 
-NDC 0009-0760-04
+NDC 0009-0760-12
 
 Pfizer
 
