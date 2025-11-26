@@ -45,7 +45,7 @@ Recurrence Rates in Immunocompetent Adults at 6 and 12 Months
 
 | Outcome | 6 Months |  |  | 12 Months |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| VALTREX 1 gram Once Daily(n = 269) | Oral Acyclovir400 mg Twice Daily(n = 267) | Placebo(n = 134) | VALTREX1 gram Once Daily(n = 269) | Oral Acyclovir 400 mg Twice Daily(n = 267) | Placebo(n = 134) |  |
+| VALTREX1 gramOnce Daily(n = 269) | Oral Acyclovir400 mgTwice Daily(n = 267) | Placebo(n = 134) | VALTREX1 gramOnce Daily(n = 269) | Oral Acyclovir400 mgTwice Daily(n = 267) | Placebo(n = 134) |  |
 | Recurrence free | 55% | 54% | 7% | 34% | 34% | 4% |
 | Recurrences | 35% | 36% | 83% | 46% | 46% | 85% |
 | Unknowna | 10% | 10% | 10% | 19% | 19% | 10% |

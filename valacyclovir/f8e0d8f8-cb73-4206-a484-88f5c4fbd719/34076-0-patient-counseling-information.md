@@ -2,6 +2,12 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
+Severe Cutaneous Adverse Reactions
+
+Inform patients that severe skin reactions including acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN), Stevens‑Johnson syndrome (SJS), and erythema multiforme (EM) have been reported with valacyclovir.
+Advise patients to immediately contact their healthcare provider if they develop a rash.
+Instruct patients to immediately stop taking VALTREX and seek medical attention if a painful rash with mucosal involvement develops [see Contraindications (4), Warnings and Precautions (5.4), Adverse Reactions (6.3)].
+
 Importance of Adequate Hydration
 
 Patients should be advised to maintain adequate hydration.
@@ -53,10 +59,6 @@ GlaxoSmithKline
 
 Durham, NC 27701
 
-©2022 GSK group of companies or its licensor.
+©2025 GSK group of companies or its licensor.
 
-VTX: 11PI
-
-PHARMACIST‑DETACH HERE AND GIVE INSTRUCTIONS TO PATIENT
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+VTX:12PI

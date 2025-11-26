@@ -25,7 +25,7 @@ Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameters Following Administration
 
 | Dose | Single‑Dose Administration(N = 8) |  | Multiple‑Dose Administrationa(N = 24, 8 per treatment arm) |  |
 | --- | --- | --- | --- | --- |
-| Cmax (±SD) (mcg/mL) | AUC (±SD) (h●mcg/mL) | Cmax (±SD) (mcg/mL) | AUC (±SD) (h●mcg/mL) |  |
+| Cmax (±SD) (mcg/mL) | AUC (±SD)(h●mcg/mL) | Cmax (±SD)(mcg/mL) | AUC (±SD)(h●mcg/mL) |  |
 | 100 mg | 0.83 (±0.14) | 2.28 (±0.40) | ND | ND |
 | 250 mg | 2.15 (±0.50) | 5.76 (±0.60) | 2.11 (±0.33) | 5.66 (±1.09) |
 | 500 mg | 3.28 (±0.83) | 11.59 (±1.79) | 3.69 (±0.87) | 9.88 (±2.01) |
@@ -113,7 +113,7 @@ The greater antiviral activity of acyclovir against HSV compared with VZV is due
 
 Antiviral Activity
 
-The quantitative relationship between the cell culture susceptibility of herpesviruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
+The quantitative relationship between the cell culture susceptibility of herpes viruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
 Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC50), vary greatly depending upon a number of factors.
 Using plaque‑reduction assays, the EC50 values against herpes simplex virus isolates range from 0.09 to 60 microM (0.02 to 13.5 mcg/mL) for HSV‑1 and from 0.04 to 44 microM (0.01 to 9.9 mcg/mL) for HSV‑2.
 The EC50 values for acyclovir against most laboratory strains and clinical isolates of VZV range from 0.53 to 48 microM (0.12 to 10.8 mcg/mL).
