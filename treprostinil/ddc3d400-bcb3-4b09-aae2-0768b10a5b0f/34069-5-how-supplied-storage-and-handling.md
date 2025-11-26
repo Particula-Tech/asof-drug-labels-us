@@ -38,6 +38,10 @@ Tyvaso DPI is available in the following configurations:
 | 66302-650-03 | 112 cartridges, each containing 16 mcg per cartridge | 5 |  |
 | 112 cartridges, each containing 48 mcg per cartridge |  |  |  |
 | 112 cartridges, each containing 64 mcg per cartridge |  |  |  |
+| 66302-660-03 | 112 cartridges, each containing 48 mcg per cartridge | 5 |  |
+| 112 cartridges, each containing 80 mcg per cartridge |  |  |  |
+| 66302-670-03 | 112 cartridges, each containing 64 mcg per cartridge | 5 |  |
+| 112 cartridges, each containing 80 mcg per cartridge |  |  |  |
 | Tyvaso DPI (treprostinil) Inhalation Powder Institutional Kit | 66302-716-04 | 16 cartridges, each containing 16 mcg per cartridge | 2 |
 | 66302-732-04 | 16 cartridges, each containing 32 mcg per cartridge | 2 |  |
 | 66302-748-04 | 16 cartridges, each containing 48 mcg per cartridge | 2 |  |

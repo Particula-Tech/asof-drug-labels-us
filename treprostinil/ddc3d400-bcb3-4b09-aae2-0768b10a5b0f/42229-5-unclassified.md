@@ -1,4 +1,4 @@
-©Copyright 2024 United Therapeutics Corp. All rights reserved.
+©Copyright 2025 United Therapeutics Corp. All rights reserved.
 Tyvaso DPI® and Tyvaso® are registered trademarks of United Therapeutics Corporation.
 
 Tyvaso DPI manufactured by:
