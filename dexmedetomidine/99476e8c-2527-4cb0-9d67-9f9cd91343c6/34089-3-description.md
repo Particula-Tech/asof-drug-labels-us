@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-IGALMI contains dexmedetomidine, an alpha-2 adrenergic receptor agonist, present as dexmedetomidine hydrochloride, the S-enantiomer of medetomidine chemically described as 4-[(1S)-1-(2, 3-dimethylphenyl) ethyl]-1H-imidazole hydrochloride.
+IGALMI contains dexmedetomidine, an alpha-2 adrenergic receptor agonist, present as dexmedetomidine hydrochloride, the S-enantiomer of medetomidine chemically described as 4-[(1S)-1- (2, 3-dimethylphenyl) ethyl]-1H-imidazole hydrochloride.
 The empirical formula is C13H16N2∙HCl with a molecular weight of 236.7 g/mol.
 The structural formula of dexmedetomidine hydrochloride is:
 

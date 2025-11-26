@@ -30,17 +30,19 @@ Patients should not perform activities requiring mental alertness, such as opera
 
 ## 5.4 Risk of Withdrawal Reactions
 
-Symptoms of withdrawal have been observed after procedural sedation with another dexmedetomidine product administered intravenously.
+Symptoms of withdrawal have been observed after treatment with another dexmedetomidine product administered as a continuous IV infusion in the ICU for another indication.
 In this study, 12 (5%) adult patients who received intravenous dexmedetomidine up to 7 days (regardless of dose) experienced at least 1 event related to withdrawal within the first 24 hours after discontinuing dexmedetomidine and 7 (3%) adult patients who received intravenous dexmedetomidine experienced at least 1 event related with withdrawal 24 to 48 hours after discontinuing dexmedetomidine.
 The most common withdrawal reactions were nausea, vomiting, and agitation.
 In these subjects, tachycardia and hypertension requiring intervention occurred at a frequency of <5% in the 48 hours following intravenous dexmedetomidine discontinuation.
+Withdrawal symptoms have been reported in pediatric patients who received another dexmedetomidine product intravenously for another indication.
+IGALMI is not approved for pediatric use.
 
-IGALMI was not studied for longer than 24 hours after the first dose.
+Withdrawal symptoms reported in published literature include cardiovascular symptoms, such as hypertension, tachycardia, arrhythmias, and in severe cases, hypertensive crisis; neurological symptoms, such as agitation, anxiety, tremors, seizures, and altered mental status; and autonomic symptoms such as diaphoresis, nausea, vomiting, hyperthermia, and mydriasis.
+In a randomized, double-blind, placebo-controlled, multiple ascending dose study assessing IGALMI at doses up to 120 mcg per day administered over 7 days in healthy volunteers, elevated heart rate and systolic blood pressure and vomiting occurred at a higher frequency upon abrupt discontinuation of 120-mcg doses of IGALMI as compared to placebo.
 There may be a risk of physical dependence and a withdrawal syndrome if IGALMI is used in a manner other than indicated [see Dosage and Administration (2.2) and Drug Abuse and Dependence (9.3)].
 
 ## 5.5 Tolerance and Tachyphylaxis
 
 Use of another dexmedetomidine product administered intravenously beyond 24 hours has been associated with tolerance and tachyphylaxis and a dose-related increase in adverse reactions.
-
-IGALMI was not studied for longer than 24 hours after the first dose.
-There may be a risk of tolerance and tachyphylaxis if IGALMI is used in a manner other than indicated [see Dosage and Administration (2.2) and Drug Abuse and Dependence (9.3)].
+The effectiveness of IGALMI beyond 24 hours after the first dose has not been established.
+There may be a risk of tolerance and tachyphylaxis if IGALMI is administered at higher doses or for a longer duration than were evaluated, or in a manner other than indicated [see Dosage and Administration (2.2) and Drug Abuse and Dependence (9.3)].
