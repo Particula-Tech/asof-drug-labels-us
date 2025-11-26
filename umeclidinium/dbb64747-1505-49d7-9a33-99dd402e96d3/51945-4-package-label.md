@@ -16,7 +16,11 @@ Each blister contains 62.5 mcg of umeclidinium, magnesium stearate, and lactose 
 
 1 ELLIPTA Inhaler containing 1 Foil Strip of 30 Blisters
 
+GSK
+
+Made in Singapore
+
 ©2025 GSK group of companies or its licensor
 
-- 62000000099570 Rev.
-  4/25
+- 62000000102193 Rev.
+  10/25
