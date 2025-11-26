@@ -1,23 +1,29 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Patients should be advised:
+Hepatotoxicity Inform patients that fenofibrate tablets may cause liver enzyme elevations and possibly liver failure.
+Advise patients to promptly report fatigue, anorexia, right upper abdominal discomfort, dark urine or jaundice [see Contraindications (4) and Warnings and Precautions (5.2)].
 
-- •of the potential benefits and risks of fenofibrate tablets.
-- •not to use fenofibrate tablets if there is a known hypersensitivity to fenofibrate or fenofibric acid.
-- •of medications that should not be taken in combination with fenofibrate tablets.
-- •that if they are taking coumarin anticoagulants, fenofibrate tablets may increase their anti-coagulant effect, and increased monitoring may be necessary.
-- •to continue to follow an appropriate lipid-modifying diet while taking fenofibrate tablets.
-- •to take fenofibrate tablets once daily, without regard to food, at the prescribed dose, swallowing each tablet whole.
-- •to return to their physician’s office for routine monitoring.
-- •to inform their physician of all medications, supplements, and herbal preparations they are taking and any change to their medical condition.
-  Patients should also be advised to inform their physicians prescribing a new medication that they are taking fenofibrate tablets.
-- •to inform their physician of symptoms of liver injury (e.g., jaundice, abdominal pain, nausea, malaise, dark urine, abnormal stool, pruritus); any muscle pain, tenderness, or weakness; or any other new symptoms.
-- •not to breastfeed during treatment with fenofibrate tablets and for 5 days after the final dose.
+Myopathy and Rhabdomyolysis Advise patients that fenofibrate tablets may cause myopathy and rhabdomyolysis.
+Inform patients that the risk is also increased when taking certain types of medication and they should discuss all medication, both prescription and over the counter, with their healthcare provider.
+Instruct patients to inform other healthcare providers prescribing a new medication or increasing the dosage of an existing medication that they are taking fenofibrate tablets.
+Instruct patients to promptly report any unexplained muscle pain, tenderness, or weakness particularly if accompanied by malaise or fever [see Warnings and Precautions (5.3) and Drug Interactions (7)].
+
+Increased Bleeding Risk with Coumarin Anticoagulants Inform patients that the concomitant use of fenofibrate tablets with coumarin-type anticoagulants may increase the risk of bleeding.
+Advise patients if they are taking or planning to take coumarin-type anticoagulants to inform their healthcare providers and that increased monitoring may be necessary [see Warnings and Precautions (5.6) and Drug Interactions (7)].
+
+Hypersensitivity Reactions Inform patients that serious hypersensitivity reactions, such as anaphylaxis and angioedema, have been reported with fenofibrates.
+Advise patients to report immediately any signs or symptoms suggesting allergic reaction, and to discontinue drug until they have consulted prescribing physicians [see Warnings and Precautions (5.9)].
+
+Pregnancy Advise patients to inform their healthcare provider of a known or suspected pregnancy to discuss if fenofibrate tablets should be discontinued [see Use in Specific Populations (8.1)].
+
+Lactation Advise patients that breastfeeding during treatment with fenofibrate tablets is not recommended [see Use in Specific Populations (8.2)].
+
+Missed Doses If a dose is missed, advise patients to not take an extra dose and to resume treatment with the next dose.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
-Manufactured by: Mylan Laboratories Limited Hyderabad—500 096, India
+Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75080369
+Revised: 8/2025
 
-Revised: 6/2021 MX:FNFBR:R6
+75110817 MX:FNFBR:R7

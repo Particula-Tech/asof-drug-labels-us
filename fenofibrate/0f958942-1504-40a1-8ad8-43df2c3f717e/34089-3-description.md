@@ -1,11 +1,11 @@
 # 11 DESCRIPTION
 
-Fenofibrate tablets, USP are a lipid regulating agent available as tablets for oral administration.
+Fenofibrate tablets, USP are a peroxisome proliferator-activated receptor (PPAR) alpha agonist available as tablets for oral administration.
 Each tablet contains 48 mg or 145 mg of fenofibrate.
 The chemical name for fenofibrate is 2-[4-(4-chlorobenzoyl) phenoxy]-2-methyl-propanoic acid, 1-methylethyl ester with the following structural formula:
 
-The molecular formula is C20H21O4Cl and the molecular weight is 360.8; fenofibrate is insoluble in water.
-The melting point is 79-82°C.
+The empirical formula is C20H21O4Cl and the molecular weight is 360.8; fenofibrate is insoluble in water.
+The melting point is 79 to 82°C.
 Fenofibrate, USP is a white or almost white crystalline powder which is stable under ordinary conditions.
 
-Inactive Ingredients: Each tablet contains croscarmellose sodium, crospovidone, hypromellose, lactose monohydrate, lecithin, magnesium stearate, microcrystalline cellulose, polyvinyl alcohol, sodium lauryl sulfate, sucrose, talc, titanium dioxide and xanthan gum.
+Inactive Ingredients Each tablet contains croscarmellose sodium, crospovidone, hypromellose, lactose monohydrate, lecithin, magnesium stearate, microcrystalline cellulose, polyvinyl alcohol, sodium lauryl sulfate, sucrose, talc, titanium dioxide and xanthan gum.
