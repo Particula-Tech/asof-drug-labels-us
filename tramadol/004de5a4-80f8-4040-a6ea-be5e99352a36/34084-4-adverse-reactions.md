@@ -127,9 +127,6 @@ Hyponatremia: cases of severe hyponatremia and/or SIADH have been reported in pa
 Hypoglycemia: Cases of hypoglycemia have been reported in patients taking tramadol.
 Most reports were in patients with predisposing risk factors, including diabetes or renal insufficiency, or in elderly patients [see Warnings and Precautions (5.21)].
 
-Hyperalgesia and Allodynia: Cases of hyperalgesia and allodynia have been reported with opioid therapy of any duration.
-[see Warnings and Precautions (5.8)]
-
 Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids, and may occur more frequently in patients taking higher doses of opioid, and/or in patients taking opioids longer term [see Warnings and Precautions (5.16)].
 
 Adverse Reactions from Observational Studies

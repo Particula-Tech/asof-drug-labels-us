@@ -160,7 +160,7 @@ These symptoms may suggest OIH only if there is no evidence of underlying diseas
 Cases of OIH have been reported, both with short-term and longer-term use of opioid analgesics.
 Though the mechanism of OIH is not fully understood, multiple biochemical pathways have been implicated.
 Medical literature suggests a strong biologic plausibility between opioid analgesics and OIH and allodynia.
-If a patient is suspected to be experiencing OIH, carefully consider appropriately decreasing the dose of the current opioid analgesic or opioid rotation (safely switching the patient to a different opioid moiety) [see Dosage and Administration (2.5); Warnings and Precautions (5.18)].
+If a patient is suspected to be experiencing OIH, carefully consider appropriately decreasing the dose of the current opioid analgesic or opioid rotation (safely switching the patient to a different opioid moiety) [see Dosage and Administration (2.5); Warnings and Precautions (5.7)].
 
 ## 5.9 Serotonin Syndrome with Concomitant Use of Serotonergic Drugs
 
@@ -174,14 +174,20 @@ Discontinue tramadol hydrochloride extended-release tablets if serotonin syndrom
 
 ## 5.10 Increased Risk of Seizures
 
-- Seizures have been reported in patients receiving tramadol within the recommended dosage range.
-  Spontaneous post-marketing reports indicate that seizure risk is increased with doses of tramadol above the recommended range.Concomitant use of tramadol increases the seizure risk in patients taking: [see Drug Interactions (7)].Risk of seizures may also increase in patients with epilepsy, those with a history of seizures, or in patients with a recognized risk for seizure (such as head trauma, metabolic disorders, alcohol and drug withdrawal, CNS infections).In tramadol overdose, administration of an opioid overdose reversal agent (e.g., naloxone or nalmefene) may increase the risk of seizure.
-  - Selective serotonin re-uptake inhibitors (SSRIs) and Serotonin-norepinephrine re-uptake inhibitors (SNRIs) antidepressants or anorectics,
-  - Tricyclic antidepressants (TCAs), and other tricyclic compounds (e.g., cyclobenzaprine, promethazine, etc.),
-  - Other opioids,
-  - monoamine oxidase inhibitors [see Warnings and Precautions (5.9), Drug Interactions (7)]
-  - Neuroleptics, or
-  - Other drugs that reduce the seizure threshold.
+Seizures have been reported in patients receiving tramadol within the recommended dosage range.
+Spontaneous post-marketing reports indicate that seizure risk is increased with doses of tramadol above the recommended range.
+Concomitant use of tramadol increases the seizure risk in patients taking: [see Drug Interactions (7)].
+
+- Selective serotonin re-uptake inhibitors (SSRIs) and Serotonin-norepinephrine re-uptake inhibitors (SNRIs) antidepressants or anorectics,
+- Tricyclic antidepressants (TCAs), and other tricyclic compounds (e.g., cyclobenzaprine, promethazine, etc.),
+- Other opioids,
+- Monoamine oxidase inhibitors [see Warnings and Precautions (5.8), Drug Interactions (7)]
+- Neuroleptics, or
+- Other drugs that reduce the seizure threshold.
+
+Risk of seizures may also increase in patients with epilepsy, those with a history of seizures, or in patients with a recognized risk for seizure (such as head trauma, metabolic disorders, alcohol and drug withdrawal, CNS infections).
+
+In tramadol overdose, administration of an opioid overdose reversal agent (e.g., naloxone or nalmefene) may increase the risk of seizure.
 
 ## 5.11 Suicide Risk
 

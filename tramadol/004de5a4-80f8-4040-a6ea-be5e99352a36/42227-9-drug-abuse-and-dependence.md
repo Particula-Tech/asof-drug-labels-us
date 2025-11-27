@@ -39,8 +39,9 @@ This risk is increased with concurrent use of tramadol hydrochloride extended-re
 
 Tramadol Hydrochloride Extended-Release Tablets is approved for oral use only.
 Inappropriate intravenous, intramuscular, or subcutaneous use of tramadol hydrochloride extended-release tablets can result in death, local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis, and valvular heart injury, and embolism.
-Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
+
 With parenteral abuse the inactive ingredients can result in local tissue necrosis, infection, pulmonary granulomas, increased risk of endocarditis and valvular heart injury, embolism, and death.
+Parenteral drug abuse is commonly associated with transmission of infectious diseases such as hepatitis and HIV.
 
 ## 9.3 Dependence
 
