@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA217737"
+  ],
+  "inn": "iohexol",
+  "labeler": "Amneal Pharmaceuticals Private Limited",
+  "package_ndcs": [
+    "80830-2467-1",
+    "80830-2467-2",
+    "80830-2468-1",
+    "80830-2468-2"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "iohexol",
+      "name": "Iohexol"
+    }
+  ],
+  "setid": "ff9456ef-c45a-450d-9004-a684af2bcc59",
+  "source": "dailymed"
+}
