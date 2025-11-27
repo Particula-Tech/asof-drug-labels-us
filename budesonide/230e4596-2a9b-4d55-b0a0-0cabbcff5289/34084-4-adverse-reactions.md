@@ -24,7 +24,7 @@ Adrenal insufficiency was defined as a cortisol level of <18 mcg/dL at 30 minute
 
 A total of 10% of UCERIS rectal foam-treated patients discontinued treatment due to an adverse reaction compared with 4% of placebo-treated patients.
 
-Table 1: Summary of Adverse Reactions in 2 Placebo-Controlled Trials* (Studies 1 and 2)
+Table 1:Summary of Adverse Reactions in 2 Placebo-Controlled Trials* (Studies 1 and 2)
 
 | Adverse Reaction | UCERIS Rectal Foam 2 mg/25 mL N=268 n (%) | Placebo N=278 n (%) |
 | --- | --- | --- |
@@ -37,10 +37,7 @@ All cases of adrenal insufficiency resolved.
 
 Table 2 summarizes the percentages of patients reporting glucocorticoid related effects in the 2 placebo-controlled trials (Studies 1 and 2).
 
-1. Table 2: Summary of Glucocorticoid Related Effects in Two Placebo-Controlled Trials
-2. (Studies 1 and 2)
-
-(Studies 1 and 2)
+Table 2: Summary of Glucocorticoid Related Effects in Two Placebo-Controlled Trials (Studies 1 and 2)
 
 | Adverse Reaction | UCERIS Rectal Foam 2 mg/25 mL N=268 n (%) | Placebo N=278 n (%) |
 | --- | --- | --- |

@@ -82,11 +82,11 @@ UCERIS rectal foam may cause serious side effects, including:
 - •Adrenal suppression.
   When UCERIS rectal foam is used for a long period of time (chronic use), the adrenal glands may not make enough steroid hormones (adrenal suppression).
   Tell your healthcare provider if you are under stress or have any symptoms of adrenal suppression during treatment with UCERIS rectal foam including:
-  - •tiredness
-  - •weakness
-  - •nausea
-  - •vomiting
-  - •low blood pressure
+  - otiredness
+  - oweakness
+  - onausea
+  - ovomiting
+  - olow blood pressure
 - •Immune system effects and a higher chance of infections.
   UCERIS rectal foam may weaken your immune system.
   Taking medicines that weaken your immune system makes you more likely to get infections.
