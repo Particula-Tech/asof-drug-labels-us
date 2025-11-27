@@ -26,7 +26,7 @@ TABLE 3: Most Common Adverse Reactions ≥1% and More Frequent than Placebo in P
 | --- | --- | --- |
 | Headache | 26 (6%) | 4 (2%) |
 | Eyelid ptosis | 9 (2%) | 0 (0%) |
-| Facial paresisFacial paresis, including facial asymmetry. | 5 (1%) | 0 (0%) |
+| Facial paresis Facial paresis, including facial asymmetry. | 5 (1%) | 0 (0%) |
 
 Injection site reactions were reported in 6% of subjects treated with DAXXIFY and in 6% of subjects treated with placebo (these reactions included injection site pain, injection site erythema, injection site oedema, injection site bruising, injection site hematoma, injection site papule, and injection site pruritus).
 

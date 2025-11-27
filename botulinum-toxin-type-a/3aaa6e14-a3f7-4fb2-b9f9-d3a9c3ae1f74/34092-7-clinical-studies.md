@@ -19,7 +19,7 @@ TABLE 5: Percentage of Subjects Achieving a Score of None or Mild and ≥ 2-Grad
 |  | DAXXIFY (N=201) n (%) | Placebo (N=102) n (%) | Treatment Difference and 95% Confidence Interval | DAXXIFY (N=205) n (%) | Placebo (N=101) n (%) | Treatment Difference and 95% Confidence Interval |
 | --- | --- | --- | --- | --- | --- | --- |
 |  | STUDY GL-1 |  |  | STUDY GL-2 |  |  |
-| Treatment SuccessA score of 0 or 1 (none or mild) and ≥ 2-grade improvement from baseline on both the investigator and subject assessment. | 148 (74%) | 0 (0%) | 74% (68%, 80%) | 152 (74%) | 0 (0%) | 74% (68%, 80%) |
+| Treatment Success A score of 0 or 1 (none or mild) and ≥ 2-grade improvement from baseline on both the investigator and subject assessment. | 148 (74%) | 0 (0%) | 74% (68%, 80%) | 152 (74%) | 0 (0%) | 74% (68%, 80%) |
 | Individual Components |  |  |  |  |  |  |
 | Investigator Assessment | 172 (86%) | 1 (1%) | --- | 187 (92%) | 2 (2%) | --- |
 | Subject Assessment | 152 (76%) | 0 (0%) | --- | 156 (77%) | 0 (0%) | --- |

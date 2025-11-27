@@ -2,11 +2,11 @@
 
 daxibotulinumtoxinA-lanm
 
-DAXXIFY® FOR INJECTION
+DAXXIFY ® FOR INJECTION
 
 100 units/vial
 
-REVANCE®
+REVANCE ®
 
 ATTENTION: Each patient is required to receive the enclosed Medication Guide.
 
@@ -16,11 +16,11 @@ Rx only 1 Single-Dose Vial For intramuscular use
 
 daxibotulinumtoxinA-lanm
 
-DAXXIFY® FOR INJECTION
+DAXXIFY ® FOR INJECTION
 
 100 units/vial
 
-REVANCE®
+REVANCE ®
 
 ATTENTION: Each patient is required to receive the enclosed Medication Guide.
 
