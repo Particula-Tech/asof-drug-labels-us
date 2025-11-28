@@ -25,14 +25,14 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 500 mg* per vial
 
-For Intramuscular or Intravenous Use Only
+For Intravenous or Intramuscular Use Only
 
 This Package Does Not Contain Diluent.
 The Recommended Diluent (Bacteriostatic Water for Injection) Contains Benzyl Alcohol as a Preservative.
 
 Rx only
 
-Pfizer Injectables
+Pfizer Hospital
 
 # PRINCIPAL DISPLAY PANEL - 1 gram Vial Label
 
@@ -45,7 +45,7 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 1 gram* per vial
 
-For Intramuscular or Intravenous Use Only
+For Intravenous or Intramuscular Use Only
 
 This Package Does Not Contain Diluent.
 Recommended Diluent (Bacteriostatic Water for Injection) Contains Benzyl Alcohol as a Preservative.
@@ -63,14 +63,14 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 1 gram* per vial
 
-For Intramuscular or Intravenous Use Only
+For Intravenous or Intramuscular Use Only
 
 This Package Does Not Contain Diluent.
 The Recommended Diluent (Bacteriostatic Water for Injection) Contains Benzyl Alcohol as a Preservative.
 
 Rx only
 
-Pfizer Injectables
+Pfizer Hospital
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Vial Label
 
@@ -110,7 +110,7 @@ Rx ONLY
 
 SOLU-MEDROL® Methylprednisolone Sodium Succinate for Injection, USP Single-Dose Vial
 
-For IM or IV Use Only
+For IV or IM Use Only
 
 Discard unused portion.
 
@@ -166,11 +166,11 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 125 mg* per vial
 
-For Intramuscular or Intravenous Use Only
+For Intravenous or Intramuscular Use Only
 
 Preservative-Free
 
-Pfizer Injectables Rx only
+Pfizer Hospital Rx only
 
 # PRINCIPAL DISPLAY PANEL - 125 mg Vial Label - Act-O-Vial System
 
@@ -180,7 +180,7 @@ Rx ONLY
 
 SOLU-MEDROL® Methylprednisolone Sodium Succinate for Injection, USP Single-Dose Vial
 
-For IM or IV Use Only
+For IV or IM Use Only
 
 Discard unused portion.
 
@@ -238,13 +238,13 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 500 mg* per vial
 
-For Intramuscular or Intravenous Use Only
+For Intravenous or Intramuscular Use Only
 
 Preservative-Free
 
 Rx only
 
-Pfizer Injectables
+Pfizer Hospital
 
 # PRINCIPAL DISPLAY PANEL - 1 gram Vial Label - Act-O-Vial System
 
@@ -272,13 +272,13 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 1 gram* per vial
 
-For Intramuscular or Intravenous Use Only
+For Intravenous or Intramuscular Use Only
 
 Preservative-Free
 
 Rx only
 
-Pfizer Injectables
+Pfizer Hospital
 
 # PRINCIPAL DISPLAY PANEL - 2 grams Vial Label - 0850
 
@@ -307,11 +307,11 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 2 grams* per vial
 
-For Intramuscular or Intravenous Use Only
+For Intravenous or Intramuscular Use Only
 
 This Package Does Not Contain Diluent.
 The Recommended Diluent (Bacteriostatic Water for Injection) Contains Benzyl Alcohol as a Preservative.
 
-Pfizer Injectables
+Pfizer Hospital
 
 Rx only
