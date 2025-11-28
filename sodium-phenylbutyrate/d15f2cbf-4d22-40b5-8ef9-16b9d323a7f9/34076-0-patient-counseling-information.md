@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Informationand Instructions for Use).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Neurotoxicity
 
@@ -22,4 +22,4 @@ Advise the patient or caregiver to discard any remaining PHEBURANE 45 days after
 
 Distributed by: Medunik USA, Inc. 2 Research Way, Suite 1B Princeton, NJ 08540
 
-PHEBURANE ®is a registered trademark of Lucane Pharma
+PHEBURANE® is a registered trademark of Lucane Pharma

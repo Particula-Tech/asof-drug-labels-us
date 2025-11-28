@@ -7,13 +7,13 @@ Most common adverse reactions (incidence ≥ 3%) are amenorrhea or menstrual dys
 
 Less Common Clinical Adverse Reactions
 
-Blood and lymphatic system disorders:aplastic anemia,ecchymoses
+Blood and lymphatic system disorders: aplastic anemia, ecchymoses
 
 Cardiac disorders: arrhythmia
 
 Gastrointestinal disorders: abdominal pain, decreased appetite, gastritis, nausea and vomiting, constipation, rectal bleeding, peptic ulcer disease, pancreatitis
 
-Metabolism and nutrition disorders:increased weight, edema
+Metabolism and nutrition disorders: increased weight, edema
 
 Nervous system disorders: syncope, headache
 
@@ -27,9 +27,9 @@ Laboratory Adverse Reactions
 
 Blood and lymphatic system disorders: anemia, leukopenia and leukocytosis, thrombocytopenia, thrombocytosis
 
-Hepatobiliary disorders:hyperbilirubinemia,increased blood alkaline phosphatase, increased transaminases
+Hepatobiliary disorders: hyperbilirubinemia, increased blood alkaline phosphatase, increased transaminases
 
-Metabolism and nutrition disorders:acidosis, alkalosis, hyperchloraemia, hypophosphataemia, hyperuricemia, hyperphosphatemia, hypernatremia, hypokalemia, hypoalbuminemia, decreased total protein
+Metabolism and nutrition disorders: acidosis, alkalosis, hyperchloraemia, hypophosphataemia, hyperuricemia, hyperphosphatemia, hypernatremia, hypokalemia, hypoalbuminemia, decreased total protein
 
 Clinical Adverse Reactions with Use of Phenylacetate
 
