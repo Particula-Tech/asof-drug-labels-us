@@ -40,9 +40,7 @@ PREMIERProRx®
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Vial Label
 
-NDC 0009-0039-05
-
-1 mL Act-O-Vial®
+1 mL Act-O-Vial® NDC 0009-0039-05
 
 Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
@@ -64,7 +62,7 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 40 mg* per vial
 
-For Intramuscular or Intravenous Use Only
+For Intravenous or Intramuscular Use Only
 
 Preservative-Free
 
@@ -74,11 +72,9 @@ Rx only
 
 # PRINCIPAL DISPLAY PANEL - 125 mg Vial Label
 
-NDC 0009-0047-03
-
 2 mL Act-O-Vial®
 
-Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
+NDC 0009-0047-03 Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 125 mg* per vial
 
@@ -98,7 +94,7 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 125 mg* per vial
 
-For Intramuscular or Intravenous Use Only
+For Intravenous or Intramuscular Use Only
 
 Preservative-Free
 
