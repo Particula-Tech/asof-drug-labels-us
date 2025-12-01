@@ -54,3 +54,5 @@ Lithium: ALDACTONE reduces the renal clearance of lithium, inducing a high risk 
 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs): In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of loop, potassium-sparing, and thiazide diuretics [see Drug Interactions (7.3)].
 
 Acetylsalicylic acid: A single dose of 600 mg of acetylsalicylic acid inhibited the natriuretic effect of spironolactone, which was hypothesized be due to inhibition of tubular secretion of canrenone, causing decreased effectiveness of spironolactone [see Drug Interactions (7.6)].
+
+Mitotane: The effect of concomitant spironolactone on the pharmacokinetics of mitotane has not been studied; however, patients exhibited significantly lower mitotane levels compared to those who did not receive concomitant spironolactone despite receiving higher mitotane doses [see Drug Interactions (7.8)].

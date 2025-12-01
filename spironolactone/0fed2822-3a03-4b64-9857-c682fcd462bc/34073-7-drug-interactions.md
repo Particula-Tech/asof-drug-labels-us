@@ -43,3 +43,8 @@ Therefore, when ALDACTONE and acetylsalicylic acid are used concomitantly, ALDAC
 
 Spironolactone binds to the androgen receptor and may increase prostate-specific antigen (PSA) levels in abiraterone-treated prostate cancer patients.
 Concomitant use of spironolactone and abiraterone is not recommended.
+
+## 7.8 Mitotane
+
+Avoid concomitant use of ALDACTONE and mitotane.
+Spironolactone reduces mitotane plasma levels [see Clinical Pharmacology (12.3)].
