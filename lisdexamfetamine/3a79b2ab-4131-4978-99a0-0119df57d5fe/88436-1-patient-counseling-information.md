@@ -44,8 +44,8 @@ All Product/Brand names are the trademarks of their respective owners.
 
 Mallinckrodt, the “M” brand mark and the Mallinckrodt Pharmaceuticals logo are trademarks of a Mallinckrodt company.
 
-© 2024 Mallinckrodt.
+© 2025 Mallinckrodt.
 
 Mallinckrodt™ Pharmaceuticals
 
-Rev 08/2024
+Rev 09/2025
