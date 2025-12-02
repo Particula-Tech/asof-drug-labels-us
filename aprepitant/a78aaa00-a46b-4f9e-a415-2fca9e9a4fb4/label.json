@@ -1,0 +1,31 @@
+{
+  "application_numbers": [
+    "ANDA207777"
+  ],
+  "inn": "aprepitant",
+  "labeler": "BluePoint Laboratories",
+  "package_ndcs": [
+    "68001-666-01",
+    "68001-666-17",
+    "68001-667-01",
+    "68001-667-19",
+    "68001-667-44",
+    "68001-668-19",
+    "68001-668-44",
+    "68001-669-15"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "aprepitant",
+      "name": "Aprepitant"
+    },
+    {
+      "form": "KIT",
+      "generic": "aprepitant",
+      "name": "Aprepitant"
+    }
+  ],
+  "setid": "a78aaa00-a46b-4f9e-a415-2fca9e9a4fb4",
+  "source": "dailymed"
+}
