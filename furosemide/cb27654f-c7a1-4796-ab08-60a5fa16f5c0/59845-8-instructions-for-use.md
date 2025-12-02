@@ -614,6 +614,8 @@ A. If the infusion does not start, follow the steps below:
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Issued: ##/20##
+Issued: 10/2025
+
+SP110004US
 
 Symbols
