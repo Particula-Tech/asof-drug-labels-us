@@ -54,7 +54,7 @@ Bupropion inhibits the reuptake of dopamine and norepinephrine.
 Concomitant use of MAOIs and bupropion is contraindicated because there is an increased risk of hypertensive reactions if bupropion is used concomitantly with MAOIs.
 Studies in animals demonstrate that the acute toxicity of bupropion is enhanced by the MAO inhibitor phenelzine.
 At least 14 days should elapse between discontinuation of an MAOI intended to treat depression and initiation of treatment with Wellbutrin XL.
-Conversely, at least 14 days should be allowed after stopping Wellbutrin XL before starting an MAOI antidepressant [see Dosage and Administration(2.8, 2.9) and Contraindications (4)].
+Conversely, at least 14 days should be allowed after stopping Wellbutrin XL before starting an MAOI antidepressant [see Dosage and Administration (2.8, 2.9) and Contraindications (4)].
 
 ## 7.7 Drug-Laboratory Test Interactions
 
