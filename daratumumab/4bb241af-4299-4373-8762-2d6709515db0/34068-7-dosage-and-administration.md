@@ -25,10 +25,10 @@ Table 1: DARZALEX FASPRO dosing schedule in combination with lenalidomide, pomal
 | Weeks | Schedule |
 | --- | --- |
 | Weeks 1 to 8 | weekly (total of 8 doses) |
-| Weeks 9 to 24 First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
-| Week 25 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
+| Weeks 9 to 24First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
+| Week 25 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
 
-When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.2)and the prescribing information for dosage recommendations for the other drugs.
+When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.2) and the prescribing information for dosage recommendations for the other drugs.
 
 In Combination with Bortezomib, Melphalan and Prednisone (DARZALEX FASPRO-VMP)
 
@@ -39,10 +39,10 @@ Table 2: DARZALEX FASPRO dosing schedule in combination with bortezomib, melphal
 | Weeks | Schedule |
 | --- | --- |
 | Weeks 1 to 6 | weekly (total of 6 doses) |
-| Weeks 7 to 54 First dose of the every-3-week dosing schedule is given at Week 7 | every three weeks (total of 16 doses) |
-| Week 55 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 55 | every four weeks |
+| Weeks 7 to 54First dose of the every-3-week dosing schedule is given at Week 7 | every three weeks (total of 16 doses) |
+| Week 55 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 55 | every four weeks |
 
-When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.1)and the prescribing information for dosage recommendations for the other drugs.
+When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.1) and the prescribing information for dosage recommendations for the other drugs.
 
 In Combination with Bortezomib, Thalidomide, and Dexamethasone (DARZALEX FASPRO-VTd)
 
@@ -53,9 +53,9 @@ Table 3: DARZALEX FASPRO dosing schedule in combination with bortezomib, thalido
 | Treatment phase | Weeks | Schedule |
 | --- | --- | --- |
 | Induction | Weeks 1 to 8 | weekly (total of 8 doses) |
-| Weeks 9 to 16 First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 4 doses) |  |
+| Weeks 9 to 16First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 4 doses) |  |
 | Stop for high dose chemotherapy and ASCT |  |  |
-| Consolidation | Weeks 1 to 8 First dose of the every-2-week dosing schedule is given at Week 1 upon re-initiation of treatment following ASCT | every two weeks (total of 4 doses) |
+| Consolidation | Weeks 1 to 8First dose of the every-2-week dosing schedule is given at Week 1 upon re-initiation of treatment following ASCT | every two weeks (total of 4 doses) |
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see the prescribing information for dosage recommendations for the other drugs.
 
@@ -68,11 +68,11 @@ Table 4: DARZALEX FASPRO dosing schedule in combination with bortezomib, lenalid
 | Treatment phase | Weeks | Schedule |
 | --- | --- | --- |
 | Induction | Weeks 1 to 8 | weekly (total of 8 doses) |
-| Weeks 9 to 16 First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 4 doses) |  |
+| Weeks 9 to 16First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 4 doses) |  |
 | Stop for high dose chemotherapy and ASCT |  |  |
-| Consolidation | Weeks 1 to 8 First dose of the every-2-week dosing schedule is given at Week 1 upon re-initiation of treatment following ASCT | every two weeks (total of 4 doses) |
+| Consolidation | Weeks 1 to 8First dose of the every-2-week dosing schedule is given at Week 1 upon re-initiation of treatment following ASCT | every two weeks (total of 4 doses) |
 
-When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.1)and the prescribing information for dosage recommendations for the other drugs.
+When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.1) and the prescribing information for dosage recommendations for the other drugs.
 
 In Combination with Bortezomib and Dexamethasone (DARZALEX FASPRO-Vd)
 
@@ -83,8 +83,8 @@ Table 5: DARZALEX FASPRO dosing schedule in combination with bortezomib and dexa
 | Weeks | Schedule |
 | --- | --- |
 | Weeks 1 to 9 | weekly (total of 9 doses) |
-| Weeks 10 to 24 First dose of the every-3-week dosing schedule is given at Week 10 | every three weeks (total of 5 doses) |
-| Week 25 onwards until disease progression First dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
+| Weeks 10 to 24First dose of the every-3-week dosing schedule is given at Week 10 | every three weeks (total of 5 doses) |
+| Week 25 onwards until disease progressionFirst dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
 
 When DARZALEX FASPRO is administered as part of a combination therapy, see the prescribing information for dosage recommendations for the other drugs.
 
@@ -115,10 +115,10 @@ Table 7: DARZALEX FASPRO dosing schedule in combination with bortezomib, cycloph
 | Weeks | Schedule |
 | --- | --- |
 | Weeks 1 to 8 | weekly (total of 8 doses) |
-| Weeks 9 to 24 First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
-| Week 25 onwards until disease progression or a maximum of 2 years First dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
+| Weeks 9 to 24First dose of the every-2-week dosing schedule is given at Week 9 | every two weeks (total of 8 doses) |
+| Week 25 onwards until disease progression or a maximum of 2 yearsFirst dose of the every-4-week dosing schedule is given at Week 25 | every four weeks |
 
-When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.4)and the prescribing information for dosage recommendations for the other drugs.
+When DARZALEX FASPRO is administered as part of a combination therapy, see Clinical Studies (14.4) and the prescribing information for dosage recommendations for the other drugs.
 
 ## 2.5 Missed DARZALEX FASPRO Doses
 
@@ -132,11 +132,14 @@ Administer the following pre-medications 1–3 hours before each dose of DARZALE
 
 - Acetaminophen 650 mg to 1,000 mg orally
 - Diphenhydramine 25 mg to 50 mg (or equivalent) orally or intravenously
-- Corticosteroid (long- or intermediate-acting) Monotherapy Administer methylprednisolone 100 mg (or equivalent) orally or intravenously.
-  Consider reducing the dose of methylprednisolone to 60 mg (or equivalent) following the second dose of DARZALEX FASPRO.
-  In Combination Administer dexamethasone 20 mg (or equivalent) orally or intravenously prior to every DARZALEX FASPRO administration.
-  When dexamethasone is the background regimen-specific corticosteroid, the dexamethasone dose that is part of the background regimen will serve as pre-medication on DARZALEX FASPRO administration days [see Clinical Studies (14)].
-  Do not administer background regimen-specific corticosteroids (e.g., prednisone) on DARZALEX FASPRO administration days when patients have received dexamethasone (or equivalent) as a pre-medication.
+- Corticosteroid (long- or intermediate-acting)
+  - Monotherapy
+  - Administer methylprednisolone 100 mg (or equivalent) orally or intravenously.
+    Consider reducing the dose of methylprednisolone to 60 mg (or equivalent) following the second dose of DARZALEX FASPRO.
+  - In Combination
+  - Administer dexamethasone 20 mg (or equivalent) orally or intravenously prior to every DARZALEX FASPRO administration.
+  - When dexamethasone is the background regimen-specific corticosteroid, the dexamethasone dose that is part of the background regimen will serve as pre-medication on DARZALEX FASPRO administration days [see Clinical Studies (14)].
+  - Do not administer background regimen-specific corticosteroids (e.g., prednisone) on DARZALEX FASPRO administration days when patients have received dexamethasone (or equivalent) as a pre-medication.
 
 Post-medication
 
@@ -175,15 +178,16 @@ Preparation
   Store the unpunctured vial at ambient temperature and ambient light for a maximum of 24 hours.
   Keep out of direct sunlight.
   Do not shake.
-- Withdraw 15 mL from the vial into a syringe.
+- Withdraw 15 mL from the vial into a syringe using an 18G to 22G transfer needle with a regular bevel.
+  Insert the needle into the vial at a 90° angle within the ring of the stopper.
+- Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+  Do not use if opaque particles, discoloration or other foreign particles are present.
 - DARZALEX FASPRO is compatible with polypropylene or polyethylene syringe material; polypropylene, polyethylene, or polyvinyl chloride (PVC) subcutaneous infusion sets; and stainless steel transfer and injection needles.
   Use the product immediately.
 - After the solution of DARZALEX FASPRO is withdrawn into the syringe, replace the transfer needle with a syringe closing cap.
   Label the syringe appropriately to include the route of administration per institutional standards.
   Label the syringe with the peel-off label.
 - To avoid needle clogging, attach the hypodermic injection needle or subcutaneous infusion set to the syringe immediately prior to injection.
-- Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
-  Do not use if opaque particles, discoloration or other foreign particles are present.
 
 Storage
 
@@ -193,7 +197,7 @@ Storage
 
 Administration
 
-- Inject 15 mL of DARZALEX FASPRO into the subcutaneous tissue of the abdomenapproximately 3 inches [7.5 cm] to the right or left of the navel over approximately 3 to 5 minutes.
+- Inject 15 mL of DARZALEX FASPRO into the subcutaneous tissue of the abdomen approximately 3 inches [7.5 cm] to the right or left of the navel over approximately 3 to 5 minutes.
   No data are available on performing the injection at other sites of the body.
 - Rotate injection sites for successive injections.
 - Never inject DARZALEX FASPRO into areas where the skin is red, bruised, tender, hard or areas where there are scars.

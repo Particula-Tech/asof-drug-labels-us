@@ -21,9 +21,6 @@ DARZALEX FASPRO as monotherapy is indicated for the treatment of adult patients 
 
 DARZALEX FASPRO in combination with bortezomib, cyclophosphamide and dexamethasone is indicated for the treatment of adult patients with newly diagnosed light chain (AL) amyloidosis.
 
-This indication is approved under accelerated approval based on response rate [see Clinical Studies (14.4)].
-Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s).
-
 Limitations of Use
 
 DARZALEX FASPRO is not indicated and is not recommended for the treatment of patients with light chain (AL) amyloidosis who have NYHA Class IIIB or Class IV cardiac disease or Mayo Stage IIIB outside of controlled clinical trials [see Warnings and Precautions (5.2)].

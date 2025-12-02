@@ -23,13 +23,14 @@ Fetal/Neonatal Adverse Reactions
 
 Immunoglobulin G1 (IgG1) monoclonal antibodies are transferred across the placenta.
 Based on its mechanism of action, DARZALEX FASPRO may cause depletion of fetal CD38 positive immune cells and decreased bone density.
-Defer administering live vaccines to neonates and infants exposed to daratumumab in uterountil a hematology evaluation is completed.
+Defer administering live vaccines to neonates and infants exposed to daratumumab in utero until a hematology evaluation is completed.
 
 Data
 
 Animal Data
 
-DARZALEX FASPRO for subcutaneous injection contains daratumumab and hyaluronidase.Mice that were genetically modified to eliminate all CD38 expression (CD38 knockout mice) had reduced bone density at birth that recovered by 5 months of age.
+DARZALEX FASPRO for subcutaneous injection contains daratumumab and hyaluronidase.
+Mice that were genetically modified to eliminate all CD38 expression (CD38 knockout mice) had reduced bone density at birth that recovered by 5 months of age.
 Data from studies using CD38 knockout animal models also suggest the involvement of CD38 in the regulation of humoral immune responses (mice), feto-maternal immune tolerance (mice), and early embryonic development (frogs).
 
 No systemic exposure of hyaluronidase was detected in monkeys given 22,000 U/kg subcutaneously (12 times higher than the human dose) and there were no effects on embryo-fetal development in pregnant mice given 330,000 U/kg hyaluronidase subcutaneously daily during organogenesis, which is 45 times higher than the human dose.
@@ -72,7 +73,8 @@ Safety and effectiveness of DARZALEX FASPRO in pediatric patients have not been 
 ## 8.5 Geriatric Use
 
 Of the 291 patients who received DARZALEX FASPRO as monotherapy for relapsed and refractory multiple myeloma, 37% were 65 to <75 years of age, and 19% were 75 years of age and older.
-No overall differences in effectiveness of DARZALEX FASPRO have been observed between patients ≥65 years of age and younger patients.Adverse reactions that occurred at a higher frequency (≥5% difference) in patients ≥65 years of age included upper respiratory tract infection, urinary tract infection, dizziness, cough, dyspnea, diarrhea, nausea, fatigue, and peripheral edema.
+No overall differences in effectiveness of DARZALEX FASPRO have been observed between patients ≥65 years of age and younger patients.
+Adverse reactions that occurred at a higher frequency (≥5% difference) in patients ≥65 years of age included upper respiratory tract infection, urinary tract infection, dizziness, cough, dyspnea, diarrhea, nausea, fatigue, and peripheral edema.
 Serious adverse reactions that occurred at a higher frequency (≥2% difference) in patients ≥65 years of age included pneumonia.
 
 Of the 214 patients who received DARZALEX FASPRO as combination therapy with pomalidomide and dexamethasone or DARZALEX FASPRO as combination therapy with lenalidomide and low-dose dexamethasone for relapsed and refractory multiple myeloma, 43% were 65 to <75 years of age, and 18% were 75 years of age and older.
