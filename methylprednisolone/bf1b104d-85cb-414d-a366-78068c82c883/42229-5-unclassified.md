@@ -9,4 +9,4 @@ Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New Yo
 
 Novaplus is a registered trademark of Vizient, Inc.
 
-LAB-0407-15.0 Revised September 2025
+LAB-0407-16.0 Revised November 2025

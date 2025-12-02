@@ -42,7 +42,9 @@ There have been cases reported in which concomitant use of amphotericin B and hy
 ## Endocrine
 
 Hypothalamic-pituitary adrenal (HPA) axis suppression.
-Cushing's syndrome, and Hyperglycemia: Monitor patients for these conditions with chronic use.
+Cushing's syndrome, and
+
+Hyperglycemia: monitor patients for these conditions with chronic use.
 
 Corticosteroids can produce reversible HPA axis suppression with the potential for glucocorticosteroid insufficiency after withdrawal of treatment.
 Drug induced secondary adrenocortical insufficiency may be minimized by gradual reduction of dosage.
@@ -66,13 +68,13 @@ Monitor for the development of infection and consider DEPO-MEDROL withdrawal or 
 
 Do not administer DEPO-MEDROL by an intraarticular, intrabursal, intratendinous or intralesional route in the presence of acute local infection.
 
-Tuberculosis
+Tuberculosis:
 
 If DEPO-MEDROL is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, as reactivation of the disease may occur.
 Closely monitor such patients for reactivation.
 During prolonged DEPO-MEDROL therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
 
-Varicella Zoster and Measles Viral Infections
+Varicella Zoster and Measles Viral Infections:
 
 Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including DEPO-MEDROL.
 In corticosteroid‑treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles:
@@ -81,7 +83,7 @@ In corticosteroid‑treated patients who have not had these diseases or are non-
   If varicella develops, treatment with antiviral agents may be considered.
 - •If a DEPO-MEDROL-treated patient is exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
 
-Hepatitis B Virus Reactivation
+Hepatitis B Virus Reactivation:
 
 Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including DEPO‑MEDROL.
 Reactivation can also occur infrequently in corticosteroid‑treated patients who appear to have resolved hepatitis B infection.
@@ -89,22 +91,22 @@ Reactivation can also occur infrequently in corticosteroid‑treated patients wh
 Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with DEPO-MEDROL.
 For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
 
-Fungal Infections
+Fungal Infections:
 
 Corticosteroids, including DEPO-MEDROL, may exacerbate systemic fungal infections; therefore, avoid DEPO-MEDROL use in the presence of such infections unless DEPO-MEDROL is needed to control drug reactions.
 For patients on chronic DEPO-MEDROL therapy who develop systemic fungal infections, DEPO‑MEDROL withdrawal or dosage reduction is recommended.
 
-Amebiasis
+Amebiasis:
 
 Corticosteroids, including DEPO-MEDROL, may activate latent amebiasis.
 Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating DEPO-MEDROL in patients who have spent time in the tropics or patients with unexplained diarrhea.
 
-Strongyloides Infestation
+Strongyloides Infestation:
 
 Corticosteroids, including DEPO-MEDROL, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
 In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
-Cerebral Malaria
+Cerebral Malaria:
 
 Avoid corticosteroids, including DEPO-MEDROL, in patients with cerebral malaria.
 
@@ -202,7 +204,7 @@ Corticosteroids should be used cautiously in patients with ocular herpes simplex
 In post marketing experience, tumor lysis syndrome (TLS) has been reported in patients with malignancies, including hematological malignancies and solid tumors, following the use of systemic corticosteroids alone or in combination with other chemotherapeutic agents.
 Patients at high risk of TLS, such as patients with tumors that have a high proliferative rate, high tumor burden and high sensitivity to cytotoxic agents, should be monitored closely and appropriate precautions should be taken.
 
-## Information for the Patient
+## Information for Patients
 
 Patients should be warned not to discontinue the use of corticosteroids abruptly or without medical supervision, to advise any medical attendants that they are taking corticosteroids and to seek medical advice at once should they develop a fever or other signs of infection.
 
@@ -233,9 +235,9 @@ Cholestyramine: Cholestyramine may increase the clearance of oral corticosteroid
 Cyclosporine: Increased activity of both cyclosporine and corticosteroids may occur when the two are used concurrently.
 Convulsions have been reported with this concurrent use.
 
-Digitalis Glycosides: Patients on digitalis glycosides may be at risk of arrhythmias due to hypokalemia.
+Digitalis glycosides: Patients on digitalis glycosides may be at risk of arrhythmias due to hypokalemia.
 
-Estrogens, Including Oral Contraceptives: Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect.
+Estrogens, including oral contraceptives: Estrogens may decrease the hepatic metabolism of certain corticosteroids, thereby increasing their effect.
 
 Hepatic Enzyme Inducers (e.g., barbiturates, phenytoin, carbamazepine, rifampin): Drugs which induce cytochrome P450 3A4 enzyme activity may enhance the metabolism of corticosteroids and require that the dosage of the corticosteroid be increased.
 
@@ -243,7 +245,7 @@ Hepatic Enzyme Inhibitors (e.g., ketoconazole, macrolide antibiotics such as ery
 
 Ketoconazole: Ketoconazole has been reported to significantly decrease the metabolism of certain corticosteroids by up to 60%, leading to an increased risk of corticosteroid side effects.
 
-Nonsteroidal Anti-Inflammatory Drugs (NSAIDs): Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
+Nonsteroidal anti-inflammatory drugs (NSAIDs): Concomitant use of aspirin (or other nonsteroidal anti-inflammatory agents) and corticosteroids increases the risk of gastrointestinal side effects.
 Aspirin should be used cautiously in conjunction with corticosteroids in hypoprothrombinemia.
 The clearance of salicylates may be increased with concurrent use of corticosteroids.
 

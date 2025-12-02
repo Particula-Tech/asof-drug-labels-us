@@ -14,7 +14,7 @@ Sodium Chloride was added to adjust tonicity.
 
 When necessary, pH was adjusted with sodium hydroxide and/or hydrochloric acid.
 
-The pH of the finished product remains within the USP specified range (e.g., 3.0 to 7.0.)
+The pH of the finished product remains within the USP specified range (e.g., 3.0 to 7.0).
 
 The chemical name for methylprednisolone acetate is pregna-1,4-diene-3,20-dione, 21-(acetyloxy)-11,17-dihydroxy-6-methyl-,(6α,11β)- and the molecular weight is 416.51.
 The structural formula is represented below:
