@@ -65,10 +65,8 @@ Residual Inert Matrix Tablet
 Patients receiving desvenlafaxine may notice an inert matrix tablet passing in the stool or via colostomy.
 Patients should be informed that the active medication has already been absorbed by the time the patient sees the inert matrix tablet.
 
-Manufactured by: Yichang Humanwell Oral Solid Dosage Plant Yichang, Hubei, China 443001
-
 Distributed by: Slate Run Pharmaceuticals, LLC Columbus, Ohio 43215
 
-Made in China
+Revised 06/2025
 
-Revised 02/2024
+10000046/07

@@ -15,3 +15,7 @@
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 For additional copies of the Medication Guide, please visit www.slaterunpharma.com/products/.
+
+Distributed by: Slate Run Pharmaceuticals, LLC Columbus, Ohio 43215
+
+Revised 06/2025
