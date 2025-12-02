@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Primary Hyperlipidemia Trials in Adults
+## 14.1 Primary Hypercholesterolemia Trials in Adults
 
 The efficacy of NEXLIZET was investigated in a single, multi-center, randomized, double-blind, placebo-controlled, parallel group trial that enrolled 301 patients with HeFH, established CVD, or multiple risk factors for CVD on maximally tolerated statin therapy.
 
@@ -40,19 +40,19 @@ Examination of age, sex, and race subgroups did not identify differences in resp
 
 Bempedoic Acid
 
-Primary Hyperlipidemia
+Primary Hypercholesterolemia
 
-In the two primary hyperlipidemia (52-week) trials (Trials 2 and 3) that included 3,009 adult patients with HeFH or established CVD on maximally tolerated statin therapy, the difference between bempedoic acid and placebo in mean percent change in LDL-C from baseline to Week 12 was -17% to -18%.
+In the two primary hypercholesterolemia (52-week) trials (Trials 2 and 3) that included 3,009 adult patients with HeFH or established CVD on maximally tolerated statin therapy, the difference between bempedoic acid and placebo in mean percent change in LDL-C from baseline to Week 12 was -17% to -18%.
 Bempedoic acid also significantly lowered non-HDL-C (-13%), apo B (-12% to -13%), and TC (-11%) compared with placebo.
 
 Ezetimibe
 
-Ezetimibe Added to On-going Statin Therapy: In a multicenter, double-blind, placebo-controlled, 8-week trial, 769 patients (age range 22 to 85 years, 42% were females; 90% were White, 6% were Black or African American, 1% were Asian, and 3% were other races; 2% identified as Hispanic or Latino ethnicity) with primary hyperlipidemia, known coronary heart disease or multiple cardiovascular risk factors who were already receiving statin monotherapy, but who had not met their NCEP ATP II target LDL-C goal, were randomized to receive either ezetimibe or placebo in addition to their on-going statin therapy.
+Ezetimibe Added to On-going Statin Therapy: In a multicenter, double-blind, placebo-controlled, 8-week trial, 769 patients (age range 22 to 85 years, 42% were females; 90% were White, 6% were Black or African American, 1% were Asian, and 3% were other races; 2% identified as Hispanic or Latino ethnicity) with primary hypercholesterolemia, known coronary heart disease or multiple cardiovascular risk factors who were already receiving statin monotherapy, but who had not met their NCEP ATP II target LDL-C goal, were randomized to receive either ezetimibe or placebo in addition to their on-going statin therapy.
 
 Ezetimibe, added to on-going statin therapy, significantly lowered TC (-17%), LDL-C (-25%), apo B (-19%), and non-HDL-C (-23%) relative to baseline and compared with a statin administered alone.
 LDL-C reductions induced by ezetimibe were generally consistent across all statins.
 
-Ezetimibe Initiated Concurrently with a Statin: In four, multicenter, double-blind, placebo-controlled, 12-week trials, in 2,382 patients (age range 18 to 87 years, 57% were female; 88% were White, 5% were Black or African American, 2% were Asian, and 5% were other races mostly identified as Hispanic or Latino ethnicity) with hyperlipidemia, ezetimibe or placebo was orally administered alone or with various doses of atorvastatin, simvastatin, pravastatin, or lovastatin.
+Ezetimibe Initiated Concurrently with a Statin: In four, multicenter, double-blind, placebo-controlled, 12-week trials, in 2,382 patients (age range 18 to 87 years, 57% were female; 88% were White, 5% were Black or African American, 2% were Asian, and 5% were other races mostly identified as Hispanic or Latino ethnicity) with hypercholesterolemia, ezetimibe or placebo was orally administered alone or with various doses of atorvastatin, simvastatin, pravastatin, or lovastatin.
 When all patients receiving ezetimibe with a statin were compared to all those receiving the corresponding statin alone, ezetimibe significantly lowered LDL-C (ezetimibe + all atorvastatin doses [-56%] versus all atorvastatin doses alone [-44%]; ezetimibe + all simvastatin doses [-51%] versus all simvastatin doses alone [-36%]; ezetimibe + all pravastatin doses [-39%] versus all pravastatin doses alone [-25%]; ezetimibe + all lovastatin doses [-40%] versus all lovastatin doses alone [-25%]).
 LDL-C reductions induced by ezetimibe were generally consistent across all statins.
 

@@ -11,18 +11,18 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 
 Bempedoic acid
 
-The data in Table 1 reflect exposure to bempedoic acid in two placebo-controlled primary hyperlipidemia trials that included 2,009 patients treated with bempedoic acid for 52 weeks (median treatment duration of 52 weeks) [see Clinical Studies (14.1)].
+The data in Table 1 reflect exposure to bempedoic acid in two placebo-controlled primary hypercholesterolemia trials that included 2,009 patients treated with bempedoic acid for 52 weeks (median treatment duration of 52 weeks) [see Clinical Studies (14.1)].
 The mean age for bempedoic acid-treated patients was 65 years, 29% were female, 95% were White, 3% were Black or African American, 1% were Asian, and 1% were other races; 3% identified as Hispanic or Latino ethnicity.
 All patients received bempedoic acid 180 mg orally once daily plus maximally tolerated statin therapy alone or in combination with other lipid-lowering therapies.
 At baseline, 97% of patients had CVD and about 4% had a diagnosis of HeFH.
 Patients on simvastatin 40 mg/day or higher were excluded from the trials.
 
-In the primary hyperlipidemia trials, adverse reactions led to discontinuation of treatment in 11% of bempedoic acid-treated patients and 8% of placebo-treated patients.
+In the primary hypercholesterolemia trials, adverse reactions led to discontinuation of treatment in 11% of bempedoic acid-treated patients and 8% of placebo-treated patients.
 The most common reasons for bempedoic acid treatment discontinuation were muscle spasms (0.5% versus 0.3% placebo), diarrhea (0.4% versus 0.1% placebo), and pain in extremity (0.3% versus 0.0% placebo).
 Adverse reactions reported in at least 2% of bempedoic acid-treated patients and more frequently than in placebo-treated patients are shown in Table 1.
 
 Table 1.
-Adverse Reactions (≥ 2% and greater than placebo) in Bempedoic Acid-Treated Patients with Primary Hyperlipidemia and CVD or HeFH (Trials 2 and 3)
+Adverse Reactions (≥ 2% and greater than placebo) in Bempedoic Acid-Treated Patients with Primary Hypercholesterolemia and CVD or HeFH (Trials 2 and 3)
 
 | Adverse Reaction | PlaceboBackground therapy included statin ± other lipid-lowering therapies (N = 999) % | Bempedoic acid (N = 2,009) % |
 | --- | --- | --- |
@@ -56,12 +56,12 @@ Other Adverse Reactions
 
 Tendon Rupture
 
-In the hyperlipidemia trials, tendon rupture occurred in 0.5% of bempedoic acid-treated patients versus 0% of placebo-treated patients.
+In the hypercholesterolemia trials, tendon rupture occurred in 0.5% of bempedoic acid-treated patients versus 0% of placebo-treated patients.
 In the cardiovascular outcomes trial, tendon rupture events occurred in 1.2% of bempedoic acid-treated patients versus 0.9% of placebo-treated patients.
 
 Gout
 
-In the hyperlipidemia trials, gout occurred in 1.5% of bempedoic acid-treated patients versus 0.4% of placebo-treated patients.
+In the hypercholesterolemia trials, gout occurred in 1.5% of bempedoic acid-treated patients versus 0.4% of placebo-treated patients.
 In the cardiovascular outcomes trial, gout occurred in 3.2% of bempedoic acid-treated patients versus 2.2% of placebo-treated patients.
 
 Laboratory Tests
@@ -70,17 +70,17 @@ Bempedoic acid was associated with persistent changes in multiple laboratory tes
 
 Increase in Creatinine and Blood Urea Nitrogen
 
-In the hyperlipidemia trials, there was a mean increase in serum creatinine of 0.05 mg/dL compared to baseline with bempedoic acid at Week 12.
+In the hypercholesterolemia trials, there was a mean increase in serum creatinine of 0.05 mg/dL compared to baseline with bempedoic acid at Week 12.
 Approximately 3.8% of patients treated with bempedoic acid had blood urea nitrogen values that doubled (versus 1.5% placebo), and about 2.2% of patients had creatinine values that increased by 0.5 mg/dL (versus 1.1% placebo).
 In the cardiovascular outcomes trial, 7.1% of patients had creatinine values that increased by 0.5 mg/dL (versus 5.5% placebo) and 9.5% of patients in the bempedoic acid group had BUN values that increased ≥ 2× baseline (versus 6.2% placebo).
 
 Decrease in Hemoglobin and Leukocytes
 
-In the hyperlipidemia trials, approximately 5.1% of patients treated with bempedoic acid (versus 2.3% placebo) had decreases in hemoglobin levels of 2 or more g/dL and below the lower limit of normal on one or more occasion.
+In the hypercholesterolemia trials, approximately 5.1% of patients treated with bempedoic acid (versus 2.3% placebo) had decreases in hemoglobin levels of 2 or more g/dL and below the lower limit of normal on one or more occasion.
 Anemia was reported in 2.8% of patients treated with bempedoic acid and 1.9% of patients treated with placebo.
 Approximately 9.0% of bempedoic acid-treated patients with normal baseline leukocyte count had a decrease to less than the lower limit of normal on one or more occasion (versus 6.7% placebo).
 Leukocyte decrease was generally asymptomatic and did not require medical intervention.
-In the hyperlipidemia trials, there was a small imbalance in skin or soft tissue infections, including cellulitis (0.8% versus 0.4%), but there was no imbalance in other infections.
+In the hypercholesterolemia trials, there was a small imbalance in skin or soft tissue infections, including cellulitis (0.8% versus 0.4%), but there was no imbalance in other infections.
 
 In the cardiovascular outcomes trial, 10.8% of patients (versus 7.4% placebo) had a decrease in hemoglobin of 2 or more g/dL and below the lower limit of normal.
 Anemia was reported in 4.7% of patients treated with bempedoic acid and 3.9% of patients treated with placebo.
@@ -88,13 +88,13 @@ There were 9.3% of bempedoic acid-treated patients with a leukocyte count below 
 
 Increase in Platelet Count
 
-In the hyperlipidemia trials, approximately 10.1% of bempedoic acid-treated patients (versus 4.7% placebo) had increases in platelet counts of 100× 109/L or more on one or more occasion.
+In the hypercholesterolemia trials, approximately 10.1% of bempedoic acid-treated patients (versus 4.7% placebo) had increases in platelet counts of 100× 109/L or more on one or more occasion.
 In the cardiovascular outcomes trial, 18.6% of patients in the bempedoic acid-treated group (versus 10.2% placebo) had an increase in platelet count of 100 × 109/L or more.
 Platelet count increase was asymptomatic and did not result in increased risk for thromboembolic events.
 
 Increase in Liver Enzymes
 
-In the hyperlipidemia trials, increases in hepatic transaminases (AST and/or ALT) were observed with bempedoic acid.
+In the hypercholesterolemia trials, increases in hepatic transaminases (AST and/or ALT) were observed with bempedoic acid.
 In most cases, the elevations were transient and resolved or improved with continued therapy or after discontinuation of therapy.
 Increases to more than 3× the upper limit of normal (ULN) in AST occurred in 1.4% of patients treated with bempedoic acid versus 0.4% of placebo patients, and increases to more than 5× ULN occurred in 0.4% of bempedoic acid- treated versus 0.2% of placebo-treated patients.
 Increases in ALT occurred with similar incidence between bempedoic acid- and placebo-treated patients.
@@ -105,11 +105,11 @@ A higher percentage of patients in the bempedoic acid-treated group had hepatic 
 
 Increase in Creatine Kinase
 
-In the hyperlipidemia trials, approximately 1.0% of patients (versus 0.6% placebo) had elevations of CK levels of 5 or more times the normal value on one or more occasions, and 0.4% of patients (versus 0.2% placebo) had elevations of CK levels of 10 or more times.
+In the hypercholesterolemia trials, approximately 1.0% of patients (versus 0.6% placebo) had elevations of CK levels of 5 or more times the normal value on one or more occasions, and 0.4% of patients (versus 0.2% placebo) had elevations of CK levels of 10 or more times.
 
 Ezetimibe
 
-In 10 double-blind, placebo-controlled clinical trials [see Clinical Studies (14.1)], 2,396 patients with primary hyperlipidemia (age range 9 to 86 years, 50% were female, 90% were White, 5% were Black or African American, 2% were Asian, 3% other races; 3% identified as Hispanic or Latino ethnicity) and elevated LDL-C were treated with ezetimibe 10 mg/day for a median treatment duration of 12 weeks (range 0 to 39 weeks).
+In 10 double-blind, placebo-controlled clinical trials [see Clinical Studies (14.1)], 2,396 patients with primary hypercholesterolemia (age range 9 to 86 years, 50% were female, 90% were White, 5% were Black or African American, 2% were Asian, 3% other races; 3% identified as Hispanic or Latino ethnicity) and elevated LDL-C were treated with ezetimibe 10 mg/day for a median treatment duration of 12 weeks (range 0 to 39 weeks).
 
 Adverse reactions reported in ≥ 2% of patients treated with ezetimibe and at an incidence greater than placebo in placebo-controlled studies of ezetimibe are shown in Table 3.
 

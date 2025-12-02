@@ -7,7 +7,6 @@ NEXLIZET tablets are supplied as follows:
 | Tablet Strength | Description | Package Configuration | NDC No. |
 | --- | --- | --- | --- |
 | 180 mg of bempedoic acid and 10 mg of ezetimibe | blue, oval shaped, debossed with "818" on one side and "ESP" on the other side | Bottle of 30 tablets with child-resistant cap | 72426-818-03 |
-| Bottle of 90 tablets with child-resistant cap | 72426-818-09 |  |  |
 
 Storage and Handling
 

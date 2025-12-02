@@ -11,8 +11,8 @@ There are insufficient data on ezetimibe use in pregnant women to evaluate for a
 In animal reproduction studies, bempedoic acid was not teratogenic in rats and rabbits when administered at doses resulting in exposures up to 11 and 12 times, respectively, the human exposures at the maximum clinical dose, based on AUC.
 In oral (gavage) embryo-fetal development studies of ezetimibe conducted in rats and rabbits during organogenesis, there was no evidence of maternal toxicity or embryo-fetal teratogenic or toxicologic effects at exposures up to 10 and 150 times the human exposure, respectively, based on AUC (see Data).
 NEXLIZET decreases cholesterol synthesis and possibly the synthesis of other biologically active substances derived from cholesterol; therefore, NEXLIZET may cause fetal harm when administered to pregnant women based on the mechanism of action [see Clinical Pharmacology (12.1)].
-In addition, treatment of hyperlipidemia is not generally necessary during pregnancy.
-Atherosclerosis is a chronic process and the discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hyperlipidemia for most patients.
+In addition, treatment of hypercholesterolemia is not generally necessary during pregnancy.
+Atherosclerosis is a chronic process and the discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hypercholesterolemia for most patients.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2-4% and 15-20%, respectively.
@@ -61,7 +61,7 @@ Risk Summary
 Bempedoic acid and ezetimibe have been detected in breast milk of lactating women who received six consecutive daily doses of 180 mg bempedoic acid plus 10 mg of ezetimibe administered as a single tablet.
 The mean daily infant dose through breastmilk was approximately 0.03 mg/day (95% CI: 0.01; 0.06) for bempedoic acid and 0.0002 mg/day (95% CI: 0.0001; 0.0003) for ezetimibe.
 A mean calculated daily infant oral dosage was 0.0109 mg/kg/day for bempedoic acid and 0.0001 mg/kg/day for ezetimibe, based on a standard infant milk intake of 150 mL/kg/day.
-The mean (SD) relative infant dose (RID) was approximately 0.5(0.29)% for bempedoic acid and 0.04 (0.01)% for ezetimibe of the corresponding maternal weight-adjusted dosages (see Data).
+The mean (SD) relative infant dose (RID) was approximately 0.5 (0.29)% for bempedoic acid and 0.04 (0.01)% for ezetimibe of the corresponding maternal weight-adjusted dosages (see Data).
 Concentrations of ESP15228, the active metabolite of bempedoic acid, in breast milk were below the limit of quantitation (20 ng/mL) in 7 of 8 subjects studied.
 Mean amounts of 0.0010 mg ezetimibe-glucuronide, the active metabolite of ezetimibe, were recovered in breast milk during the 24 hours following the final 180 mg/10 mg maternal dose.
 There is no information regarding the effects of NEXLIZET on the breastfed infant, or the effects on milk production.

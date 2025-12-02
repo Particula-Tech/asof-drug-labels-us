@@ -22,7 +22,7 @@ This causes a reduction of hepatic cholesterol stores and an increase in LDL rec
 
 ## 12.2 Pharmacodynamics
 
-Administration of bempedoic acid and ezetimibe in combination with other lipid modifying agents, decreases LDL-C, non-high density lipoprotein cholesterol (non-HDL-C), apolipoprotein B (apo B), and total cholesterol (TC) in patients with hyperlipidemia.
+Administration of bempedoic acid and ezetimibe in combination with other lipid modifying agents, decreases LDL-C, non-high density lipoprotein cholesterol (non-HDL-C), apolipoprotein B (apo B), and total cholesterol (TC) in patients with hypercholesterolemia.
 
 Cardiac Electrophysiology
 

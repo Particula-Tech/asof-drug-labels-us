@@ -2,10 +2,8 @@
 
 NEXLIZET, a combination of bempedoic acid and ezetimibe, is indicated:
 
-- As an adjunct to diet, alone or in combination with other low-density lipoprotein cholesterol (LDL-C) lowering therapies, to reduce LDL-C in adults with primary hyperlipidemia, including heterozygous familial hypercholesterolemia (HeFH).
+- as an adjunct to diet and exercise to reduce LDL-C in adults with hypercholesterolemia, including heterozygous familial hypercholesterolemia (HeFH).
 
-The bempedoic acid component of NEXLIZET is indicated:
+Bempedoic acid, a component of NEXLIZET, is indicated:
 
-- To reduce the risk of myocardial infarction and coronary revascularization in adults who are unable to take recommended statin therapy (including those not taking a statin) with:
-  - established cardiovascular disease (CVD), or
-  - a high risk for a CVD event but without established CVD.
+- to reduce the risk of major adverse cardiovascular events (cardiovascular death, myocardial infarction, stroke, or coronary revascularization) in adults at increased risk for these events who are unable to take recommended statin therapy (including those not taking a statin).
