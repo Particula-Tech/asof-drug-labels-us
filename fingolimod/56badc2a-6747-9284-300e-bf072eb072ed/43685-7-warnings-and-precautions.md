@@ -199,8 +199,12 @@ Spirometric evaluation of respiratory function and evaluation of DLCO should be 
 
 ## 5.8 Fetal Risk
 
-Based on findings from animal studies, fingolimod may cause fetal harm when administered to a pregnant woman.
+Fingolimod may cause fetal harm when administered to a pregnant woman.
+
 In animal reproduction studies conducted in rats and rabbits, developmental toxicity was observed with administration of fingolimod at doses less than the recommended human dose.
+
+Available observational pregnancy registry data suggest that use of fingolimod is associated with an increased prevalence of major birth defects in comparison to the general population.
+
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 Because it takes approximately 2 months to eliminate fingolimod from the body, advise females of reproductive potential to use effective contraception to avoid pregnancy during and for 2 months after stopping fingolimod treatment [see Use in Specific Populations (8.1, 8.3)].
 
@@ -223,9 +227,12 @@ Tumefactive MS should be considered when a severe MS relapse occurs during fingo
 
 ## 5.11 Increased Blood Pressure
 
+Increases in blood pressure have been observed in patients treated with fingolimod.
+
 In adult MS controlled clinical trials, patients treated with fingolimod 0.5 mg had an average increase over placebo of approximately 3 mmHg in systolic pressure, and approximately 2 mmHg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment.
 Hypertension was reported as an adverse reaction in 8% of patients on fingolimod 0.5 mg and in 4% of patients on placebo.
-Blood pressure (BP) should be monitored during treatment with fingolimod.
+
+Monitor blood pressure (BP) in adult and pediatric patients during treatment with fingolimod.
 
 ## 5.12 Malignancies
 

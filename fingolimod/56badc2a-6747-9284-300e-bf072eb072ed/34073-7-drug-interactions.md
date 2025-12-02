@@ -9,7 +9,7 @@ Since initiation of fingolimod treatment results in decreased heart rate and may
 ## 7.2 Ketoconazole
 
 The blood levels of fingolimod and fingolimod-phosphate are increased by 1.7-fold when used concomitantly with ketoconazole.
-Patients who use fingolimod and systemic ketoconazole concomitantly should be closely monitored, as the risk of adverse reactions is greater.
+Patients who use fingolimod and systemic ketoconazole concomitantly should be closely monitored, as the risk of adverse reactions is increased.
 
 ## 7.3 Vaccines
 
