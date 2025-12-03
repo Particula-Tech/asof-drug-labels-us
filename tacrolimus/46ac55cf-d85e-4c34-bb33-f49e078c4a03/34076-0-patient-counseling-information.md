@@ -77,6 +77,6 @@ Inform patients to report symptoms of tiredness, swelling, and/or shortness of b
 
 Inform patients that tacrolimus capsules can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.14)].
 
-Manufactured in India by Sandoz Private Limited for
+Manufactured by Sandoz Private Limited, India for
 
-Sandoz Inc., Princeton, NJ 08540
+Sandoz Inc., Princeton, NJ 08540.
