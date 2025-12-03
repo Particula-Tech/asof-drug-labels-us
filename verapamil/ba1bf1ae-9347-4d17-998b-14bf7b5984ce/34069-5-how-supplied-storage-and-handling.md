@@ -26,7 +26,7 @@ Bottles of 100 - NDC 68462-260-01
 
 Bottles of 500 - NDC 68462-260-05
 
-Bottles of 1000 - NDC 68462-260-10
+Bottles of 1,000 - NDC 68462-260-10
 
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F) [see USP Controlled Room Temperature].
 
@@ -37,23 +37,15 @@ Dispense in a tight, light-resistant container as defined in the USP.
 
 You may report side effects to FDA at 1-800-FDA-1088 or Glenmark Pharmaceuticals Inc., USA at 1 (888) 721-7115.
 
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Plot No. S-7, Colvale Industrial Estate
-
-Colvale - Bardez, Goa-403513, India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-February 2022
+August 2025

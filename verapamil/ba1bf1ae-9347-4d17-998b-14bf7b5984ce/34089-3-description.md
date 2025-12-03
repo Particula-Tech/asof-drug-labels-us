@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Verapamil Hydrochloride Extended-Release Tablets, USP are calcium ion influx inhibitor (slow-channel blocker or calcium ion antagonist).
-Verapamil Hydrochloride Extended-Release Tablets, USP are available for oral administration as brown colored, oval, biconvex, film-coated tablets containing 120 mg verapamil hydrochloride, USP (equivalent to 111.08 mg verapamil free base), as brown colored, oval, biconvex, film-coated tablets containing 180 mg verapamil hydrochloride, USP (equivalent to 166.62 mg verapamil free base), and as brown colored, oval, biconvex, film-coated tablets containing 240 mg verapamil hydrochloride, USP (equivalent to 222.16 mg verapamil free base).
+Verapamil Hydrochloride Extended-Release Tablets, USP are available for oral administration as brown colored, oval, biconvex, film-coated tablets containing 120 mg of verapamil hydrochloride, USP (equivalent to 111.08 mg verapamil free base), as brown colored, oval, biconvex, film-coated tablets containing 180 mg of verapamil hydrochloride, USP (equivalent to 166.62 mg verapamil free base), and as brown colored, oval, biconvex, film-coated tablets containing 240 mg of verapamil hydrochloride, USP (equivalent to 222.16 mg verapamil free base).
 The tablets are designed for sustained release of the drug in the gastrointestinal tract; sustained-release characteristics are not altered when the tablet is divided in half.
 
 The structural formula of verapamil HCl, USP is given below:
@@ -24,4 +24,4 @@ The following are the color additives per tablet strength:
 | 180 | Ferric Oxide Yellow, Ferric Oxide Red and Ferric Oxide Black |
 | 240 | Ferric Oxide Yellow, Ferric Oxide Red and Ferric Oxide Black |
 
-Verapamil Hydrochloride Extended-Release Tablets, USP, 120 mg, 180 mg and 240 mg meet USP Dissolution Test 1.
+FDA approved dissolution test specifications differ from USP for Verapamil Hydrochloride Extended-Release Tablets, USP, 120 mg, 180 mg and 240 mg.
