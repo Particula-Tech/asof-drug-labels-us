@@ -10,9 +10,9 @@ Store at 20°C to 25° C (68°F to 77°F).
 PROTECT FROM LIGHT.
 
 Manufactured by: Softgel Healthcare Pvt.
-Ltd., Survey No. 20/1, Vandalur-Kelambakkam Road, Pudupakkam Village, Kancheepuram District, Tamilnadu - 603 103, India.
-Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
+Ltd., Survey No. 20/1, Vandalur-Kelambakkam Road, Pudupakkam, Chengalpattu, Tamilnadu - 603 103, India.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
 
-Revised: November 2024
+Revised: November 2025
 
-PT3732 (2411326)
+PT3732-01 (2411326)
