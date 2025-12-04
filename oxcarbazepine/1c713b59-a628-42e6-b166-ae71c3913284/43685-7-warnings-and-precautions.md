@@ -10,7 +10,7 @@ Whether or not these maneuvers prevented the occurrence of more severe events is
 Cases of symptomatic hyponatremia and syndrome of inappropriate antidiuretic hormone secretion (SIADH) have been reported during postmarketing use.
 In clinical trials, patients whose treatment with oxcarbazepine was discontinued due to hyponatremia generally experienced normalization of serum sodium within a few days without additional treatment.
 
-Measurement of serum sodium levels should be considered for patients during maintenance treatment with oxcarbazepine, particularly if the patient is receiving other medications known to decrease serum sodium levels (e.g., drugs associated with inappropriate ADH secretion) or if symptoms possibly indicating hyponatremia develop (e.g., nausea, malaise, headache, lethargy, confusion, obtundation, or increase in seizure frequency or severity).
+Measurement of serum sodium levels should be considered for patients during maintenance treatment with oxcarbazepine, particularly if the patient is receiving other medications known to decrease serum sodium levels (e.g., drugs associated with inappropriate ADH secretion), or if symptoms possibly indicating hyponatremia develop (e.g., nausea, malaise, headache, lethargy, confusion, obtundation, or increase in seizure frequency or severity).
 
 ## 5.2 Anaphylactic Reactions and Angioedema
 
@@ -22,7 +22,7 @@ These patients should not be rechallenged with the drug [see Warnings and Precau
 ## 5.3 Cross Hypersensitivity Reaction to Carbamazepine
 
 Approximately 25% to 30% of patients who have had hypersensitivity reactions to carbamazepine will experience hypersensitivity reactions with oxcarbazepine.
-For this reason patients should be specifically questioned about any prior experience with carbamazepine, and patients with a history of hypersensitivity reactions to carbamazepine should ordinarily be treated with oxcarbazepine only if the potential benefit justifies the potential risk.
+For this reason, patients should be specifically questioned about any prior experience with carbamazepine, and patients with a history of hypersensitivity reactions to carbamazepine should ordinarily be treated with oxcarbazepine only if the potential benefit justifies the potential risk.
 If signs or symptoms of hypersensitivity develop, oxcarbazepine should be discontinued immediately [see Warnings and Precautions (5.2, 5.8)].
 
 ## 5.4 Serious Dermatological Reactions
@@ -52,19 +52,19 @@ The use of oxcarbazepine should be avoided in patients positive for HLA-B*1502 u
 Consideration should also be given to avoid the use of other drugs associated with SJS/TEN in HLA-B*1502 positive patients, when alternative therapies are otherwise equally acceptable.
 Screening is not generally recommended in patients from populations in which the prevalence of HLA-B* 1502 is low, or in current oxcarbazepine users, as the risk of SJS/TEN is largely confined to the first few months of therapy, regardless of HLA-B*1502 status.
 
-The use of HLA-B*1502 genotyping has important limitations and must never substitute for appropriate clinical vigilance and patient management.
+The use of HLA-B*1502 genotyping has important limitations, and must never substitute for appropriate clinical vigilance and patient management.
 The role of other possible factors in the development of, and morbidity from, SJS/TEN, such as AED dose, compliance, concomitant medications, comorbidities, and the level of dermatologic monitoring have not been well characterized.
 
 ## 5.5 Suicidal Behavior and Ideation
 
-Antiepileptic drugs including oxcarbazepine, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
+Antiepileptic drugs, including oxcarbazepine, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
 Pooled analyses of 199 placebo-controlled clinical trials (mono- and adjunctive therapy) of 11 different AEDs showed that patients randomized to one of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared to patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence rate of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared to 0.24% among 16,029 placebo-treated patients, representing an increase of approximately one case of suicidal thinking or behavior for every 530 patients treated.
 There were 4 suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number is too small to allow any conclusion about drug effect on suicide.
 
-The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs and persisted for the duration of treatment assessed.
+The increased risk of suicidal thoughts or behavior with AEDs was observed as early as one week after starting drug treatment with AEDs, and persisted for the duration of treatment assessed.
 Because most trials included in the analysis did not extend beyond 24 weeks, the risk of suicidal thoughts or behavior beyond 24 weeks could not be assessed.
 
 The risk of suicidal thoughts or behavior was generally consistent among drugs in the data analyzed.
@@ -98,7 +98,7 @@ But if withdrawal is needed because of a serious adverse event, rapid discontinu
 ## 5.7 Cognitive/Neuropsychiatric Adverse Reactions
 
 Use of oxcarbazepine has been associated with CNS-related adverse reactions.
-The most significant of these can be classified into three general categories: 1) cognitive symptoms including psychomotor slowing, difficulty with concentration, and speech or language problems, 2) somnolence or fatigue, and 3) coordination abnormalities, including ataxia and gait disturbances.
+The most significant of these can be classified into three general categories: 1) cognitive symptoms, including psychomotor slowing, difficulty with concentration, and speech or language problems; 2) somnolence or fatigue; and 3) coordination abnormalities, including ataxia and gait disturbances.
 
 Patients should be monitored for these signs and symptoms and advised not to drive or operate machinery until they have gained sufficient experience on oxcarbazepine to gauge whether it adversely affects their ability to drive or operate machinery.
 
@@ -128,12 +128,11 @@ By protocol, the dosage of concomitant AEDs could not be reduced as oxcarbazepin
 Oxcarbazepine was titrated to reach a target dose ranging from 30 mg/kg to 46 mg/kg (based on a patient's body weight with fixed doses for predefined weight ranges).
 
 Cognitive adverse events occurred in 5.8% of oxcarbazepine-treated patients (the single most common event being concentration impairment, 4 of 138 patients) and in 3.1% of patients treated with placebo.
-In addition, 34.8% of oxcarbazepine-treated patients and 14% of placebo-treated patients experienced somnolence.
-(no patient discontinued due to a cognitive adverse reaction or somnolence.).
+In addition, 34.8% of oxcarbazepine-treated patients and 14% of placebo-treated patients experienced somnolence (no patient discontinued due to a cognitive adverse reaction or somnolence).
 Finally, 23.2% of oxcarbazepine-treated patients and 7% of placebo-treated patients experienced ataxia or gait disturbances.
 Two (1.4%) oxcarbazepine-treated patients and 1 (0.8%) placebo-treated patient discontinued due to ataxia or gait disturbances.
 
-## 5.8 Drug Reaction with Eosinophilia and Systemic Symptoms / Multi-Organ Hypersensitivity
+## 5.8 Drug Reaction With Eosinophilia and Systemic Symptoms / Multi-Organ Hypersensitivity
 
 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS), also known as multi-organ hypersensitivity, has occurred with oxcarbazepine.
 Some of these events have been fatal or life-threatening.

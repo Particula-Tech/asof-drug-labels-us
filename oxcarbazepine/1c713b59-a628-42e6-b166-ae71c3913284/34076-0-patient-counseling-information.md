@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Medication Guide).
+Advise the patient to read the FDA-approved patient labeling (Medication Guide and Instructions for Use).
 
 Administration Information
 
@@ -14,7 +14,7 @@ Instruct patients to report symptoms of low sodium like nausea, tiredness, lack 
 Anaphylactic Reactions and Angioedema
 
 Anaphylactic reactions and angioedema may occur during treatment with oxcarbazepine.
-Advise patients to report immediately signs and symptoms suggesting angioedema (swelling of the face, eyes, lips, tongue or difficulty in swallowing or breathing) and to stop taking the drug until they have consulted with their physician [see Warnings and Precautions (5.2)].
+Advise patients to report immediately signs and symptoms suggesting angioedema (swelling of the face, eyes, lips, tongue, or difficulty in swallowing or breathing) and to stop taking the drug until they have consulted with their physician [see Warnings and Precautions (5.2)].
 
 Cross Hypersensitivity Reaction to Carbamazepine
 
@@ -33,8 +33,8 @@ Behaviors of concern should be reported immediately to healthcare providers [see
 
 Driving and Operating Machinery
 
-Advise patients that oxcarbazepine may cause adverse reactions such as dizziness, somnolence, ataxia, visual disturbances, and depressed level of consciousness.
-Accordingly, advise patients not to drive or operate machinery until they have gained sufficient experience on oxcarbazepine to gauge whether it adversely affects their ability to drive or operate machinery [see Warnings and Precautions (5.7) and Adverse Reactions (6)].
+Advise patients that oxcarbazepine may cause adverse reactions, such as dizziness, somnolence, ataxia, visual disturbances, and depressed level of consciousness.
+Accordingly, advise patients not to drive or operate machinery until they have gained sufficient experience on oxcarbazepine to gauge whether it adversely affects their ability to drive or operate machinery [see Warnings and Precautions (5.7) andAdverse Reactions (6)].
 
 Multi-Organ Hypersensitivity
 
@@ -56,3 +56,16 @@ Pregnancy Registry
 
 Encourage patients to enroll in the North American Antiepileptic Drug (NAAED) Pregnancy Registry if they become pregnant.
 This registry is collecting information about the safety of AEDs during pregnancy [see Use in Specific Populations (8.1)].
+
+Distributed by:
+
+Glenmark Pharmaceuticals Inc., USA
+
+Elmwood Park, NJ 07407
+
+Questions?
+1 (888) 721-7115
+
+www.glenmarkpharma-us.com
+
+November 2025

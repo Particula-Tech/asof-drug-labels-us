@@ -6,7 +6,7 @@ Initiate oxcarbazepine tablets with a dose of 600 mg/day, given twice a day.
 If clinically indicated, the dose may be increased by a maximum of 600 mg/day at approximately weekly intervals; the maximum recommended daily dose is 1200 mg/day.
 Daily doses above 1200 mg/day show somewhat greater effectiveness in controlled trials, but most patients were not able to tolerate the 2400 mg/day dose, primarily because of central nervous (CNS) effects.
 
-Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UDP-glucuronosyltransferases (UGT) inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions (7.1, 7.2)].
+Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UDP-glucuronosyltransferases (UGT) inducers, which include certain antiepileptic drugs (AEDs) [see Drug Interactions(7.1,7.2)].
 
 ## 2.2 Conversion to Monotherapy for Adults
 
@@ -19,7 +19,7 @@ Patients should be observed closely during this transition phase.
 ## 2.3 Initiation of Monotherapy for Adults
 
 Patients not currently being treated with AEDs may have monotherapy initiated with oxcarbazepine tablets.
-In these patients, initiate oxcarbazepine tablets at a dose of 600 mg/day (given a twice a day); the dose should be increased by 300 mg/day every third day to a dose of 1200 mg/day.
+In these patients, initiate oxcarbazepine tablets at a dose of 600 mg/day (given twice a day); the dose should be increased by 300 mg/day every third day to a dose of 1200 mg/day.
 Controlled trials in these patients examined the effectiveness of a 1200 mg/day dose; a dose of 2400 mg/day has been shown to be effective in patients converted from other AEDs to oxcarbazepine tablets monotherapy (see above).
 
 ## 2.4 Adjunctive Therapy for Pediatric Patients (Aged 2 to 16 Years)
@@ -41,12 +41,12 @@ In the clinical trial in pediatric patients (2 to 4 years of age), in which the 
 
 Under adjunctive therapy (with and without enzyme-inducing AEDs), when normalized by body weight, apparent clearance (L/hr/kg) decreased when age increased such that children 2 to < 4 years of age may require up to twice the oxcarbazepine dose per body weight compared to adults; and children 4 to ≤ 12 years of age may require a 50% higher oxcarbazepine dose per body weight compared to adults.
 
-Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain (AEDs) [see Drug Interactions (7.1, 7.2)].
+Dosage adjustment is recommended with concomitant use of strong CYP3A4 enzyme inducers or UGT inducers, which include certain AEDs [see Drug Interactions (7.1, 7.2)].
 
 ## 2.5 Conversion to Monotherapy for Pediatric Patients (Aged 4 to 16 Years)
 
 Patients receiving concomitant AEDs may be converted to monotherapy by initiating treatment with oxcarbazepine tablets at approximately 8 to 10 mg/kg/day given twice a day, while simultaneously initiating the reduction of the dose of the concomitant AEDs.
-The concomitant AEDs can be completely withdrawn over 3 to 6 weeks while oxcarbazepine tablets may be increased as clinically indicated by a maximum increment of 10 mg/kg/day at approximately weekly intervals to achieve the recommended daily dose.
+The concomitant AEDs can be completely withdrawn over 3 to 6 weeks, while oxcarbazepine tablets may be increased as clinically indicated by a maximum increment of 10 mg/kg/day at approximately weekly intervals to achieve the recommended daily dose.
 Patients should be observed closely during this transition phase.
 
 The recommended total daily dose of oxcarbazepine tablets is shown in Table 1.
@@ -76,10 +76,10 @@ Table 1: Range of Maintenance Doses of Oxcarbazepine Tablets for Pediatrics by W
 
 ## 2.7 Dosage Modification for Patients With Renal Impairment
 
-In patients with impaired renal function (creatinine clearance < 30 mL/min), initiate oxcarbazepine tablets at one-half the usual starting dose (300 mg/day, given twice a day) and increase slowly to achieve the desired clinical response [see Clinical Pharmacology (12.3)].
+In patients with impaired renal function (creatinine clearance < 30 mL/min), initiate oxcarbazepine tablets at one-half the usual starting dose (300 mg/day, given twice a day), and increase slowly to achieve the desired clinical response [see Clinical Pharmacology (12.3)].
 
 ## 2.8 Administration Information
 
 Oxcarbazepine tablets can be taken with or without food [see Clinical Pharmacology (12.3)].
 
-Oxcarbazepine oral suspension and oxcarbazepine film-coated tablets may be interchanged at equal doses.
+TRILEPTAL oral suspension and oxcarbazepine film-coated tablets may be substituted at equal doses.

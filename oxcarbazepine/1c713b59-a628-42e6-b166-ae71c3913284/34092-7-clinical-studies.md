@@ -2,7 +2,7 @@
 
 The effectiveness of oxcarbazepine as adjunctive and monotherapy for partial-onset seizures in adults, and as adjunctive therapy in children aged 2 to 16 years was established in seven multicenter, randomized, controlled trials.
 
-The effectiveness of oxcarbazepine as monotherapy for partial-onset seizures in children aged 4 to 16 years was determined from data obtained in the studies described, as well as by pharmacokinetic/pharmacodynamics considerations.
+The effectiveness of oxcarbazepine as monotherapy for partial-onset seizures in children aged 4 to 16 years was determined from data obtained in the studies described, as well as by pharmacokinetic/pharmacodynamic considerations.
 
 ## 14.1 Oxcarbazepine Monotherapy Trials
 
@@ -43,7 +43,7 @@ The time to meeting one of the exit criteria was also statistically significant 
 
 Figure 4: Kaplan-Meier Estimates of Exit Rate by Treatment Group
 
-A monotherapy trial was conducted in 92 pediatric patients (1 month to 16 years of age) with inadequately-controlled or new-onset partial-onset seizures.
+A monotherapy trial was conducted in 92 pediatric patients (1 month to 16 years of age) with inadequately-controlled or new-onset partial seizures.
 Patients were hospitalized and randomized to either oxcarbazepine 10 mg/kg/day or were titrated up to 40 to 60 mg/kg/day within 3 days while withdrawing the previous AED on the second day of oxcarbazepine.
 Seizures were recorded through continuous video-EEG monitoring from Day 3 to Day 5.
 Patients either completed the 5-day treatment or met 1 of the 2 exit criteria: 1) three study-specific seizures (i.e., electrographic partial-onset seizures with a behavioral correlate), 2) a prolonged study-specific seizure.

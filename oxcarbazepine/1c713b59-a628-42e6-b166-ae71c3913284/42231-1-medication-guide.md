@@ -28,8 +28,7 @@ Be sure to tell your healthcare provider about all the other medicines that you 
 
 Your healthcare provider may do blood tests to check your sodium levels during your treatment with oxcarbazepine tablets.
 
-2.
-Oxcarbazepine tablets may also cause allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
+2.Oxcarbazepine tablets may also cause allergic reactions or serious problems which may affect organs and other parts of your body like the liver or blood cells.
 You may or may not have a rash with these types of reactions.
 
 - Call your healthcare provider right away if you have any of the following:
@@ -40,8 +39,7 @@ You may or may not have a rash with these types of reactions.
 Many people who are allergic to carbamazepine are also allergic to oxcarbazepine tablets.
 Tell your healthcare provider if you are allergic to carbamazepine.
 
-3.
-Like other antiepileptic drugs (AEDs), oxcarbazepine tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
+3.Like other antiepileptic drugs (AEDs), oxcarbazepine tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
 
 Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
@@ -63,13 +61,13 @@ Do not stop taking oxcarbazepine tablets without first talking to a healthcare p
 Suicidal thoughts or actions may be caused by things other than medicines.
 If you have suicidal thoughts or actions, your healthcare provider may check for other causes.
 
-What is oxcarbazepine tablets?
+What are oxcarbazepine tablets?
 
 Oxcarbazepine tablets are a prescription medicine used:
 
 - •alone or with other medicines to treat partial-onset seizures in adults
-- •alone to treat partial-onset seizures in children 4 years and older
-- •with other medicines to treat partial-onset seizures in children 2 years and older
+- •alone to treat partial-onset seizures in children 4 years of age and older
+- •with other medicines to treat partial-onset seizures in children 2 years of age and older
 
 It is not known if oxcarbazepine tablets are safe and effective for use alone to treat partial-onset seizures in children less than 4 years of age or for use with other medicines to treat partial-onset seizures in children less than 2 years of age.
 
@@ -90,7 +88,7 @@ Before taking oxcarbazepine tablets, tell your healthcare provider about all you
   Oxcarbazepine tablets may cause your birth control medicine to be less effective.
   Talk to your healthcare provider about the best birth control method to use.
 - •are pregnant or plan to become pregnant.
-  Oxcarbazepine tablets may harm your unborn baby.
+  It is not known if Oxcarbazepine tablets may harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking oxcarbazepine tablets.
   You and your healthcare provider will decide if you should take oxcarbazepine tablets while you are pregnant.
 
@@ -128,9 +126,9 @@ What should I avoid while taking oxcarbazepine tablets?
 
 What are the possible side effects of oxcarbazepine tablets?
 
-See "What is the most important information I should know about oxcarbazepine tablets?"
+See “What is the most important information I should know about oxcarbazepine tablets?”
 
-Oxcarbazepine tablets may cause other serious side effects including:
+Oxcarbazepine tablets may cause other serious side effects, including:
 
 - •trouble concentrating
 - •problems with your speech and language
@@ -139,22 +137,22 @@ Oxcarbazepine tablets may cause other serious side effects including:
 - •trouble with walking and coordination
 - •seizures that can happen more often or become worse, especially in children
 
-Get medical help right away if you have any of the symptoms listed above or listed in "What is the most important information I should know about oxcarbazepine tablets?"
+Get medical help right away if you have any of the symptoms listed above or listed in “What is the most important information I should know about oxcarbazepine tablets?”
 
 The most common side effects of oxcarbazepine tablets include:
 
-| • dizziness•sleepiness•double vision•tiredness•nausea•vomiting | •problems with vision•trembling•problems with walking and coordination (unsteadiness)•rash |
+| • dizziness•sleepiness•double vision•tiredness•nausea•vomiting | •problems with vision•trembling•problems with walking and coordination (unsteadiness)•rash•headache |
 | --- | --- |
 
 These are not all the possible side effects of oxcarbazepine tablets.
-Tell your healthcare provider if you have any side effect that bothers you or that does not go away.
+Tell your healthcare provider if you have any side effect that bothers you or does not go away.
 
 Call your doctor for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store oxcarbazepine tablets?
 
-- •Store oxcarbazepine film-coated tablets at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
+- •Store oxcarbazepine film-coated tablets at 68°F to 77°F (20°C to 25°C).
 - •Keep oxcarbazepine film-coated tablets dry.
 
 Keep oxcarbazepine tablets and all medicines out of the reach of children.
@@ -176,28 +174,15 @@ Inactive ingredients:
 
 - •Film-coated tablets: colloidal silicon dioxide, crospovidone, ferric oxide (yellow), hypromellose, magnesium stearate, meglumine, microcrystalline cellulose, polyethylene glycol, and titanium dioxide.
 
-Medication Guide available at
-
-www.glenmarkpharma-us.com/medguides
-
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited.
-
-India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-October 2024
-
-1. This Medication Guide has been approved by the U.S. Food and Drug Administration.
-   October 2024
+This Medication Guide has been approved by the U.S. Food and Drug Administration Revised: November 2025

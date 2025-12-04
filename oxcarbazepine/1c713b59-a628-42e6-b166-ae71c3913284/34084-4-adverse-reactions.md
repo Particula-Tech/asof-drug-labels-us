@@ -22,7 +22,7 @@ Adjunctive Therapy/Monotherapy in Adults Previously Treated With Other AEDs
 The most common (≥ 10% more than placebo for adjunctive or low dose for monotherapy) adverse reactions with oxcarbazepine: dizziness, somnolence, diplopia, fatigue, nausea, vomiting, ataxia, abnormal vision, headache, nystagmus tremor, and abnormal gait.
 
 Approximately 23% of these 1,537 adult patients discontinued treatment because of an adverse reaction.
-The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%) and hyponatremia (1%).
+The adverse reactions most commonly associated with discontinuation were: dizziness (6.4%), diplopia (5.9%), ataxia (5.2%), vomiting (5.1%), nausea (4.9%), somnolence (3.8%), headache (2.9%), fatigue (2.1%), abnormal vision (2.1%), tremor (1.8%), abnormal gait (1.7%), rash (1.4%), and hyponatremia (1%).
 
 Monotherapy in Adults Not Previously Treated With Other AEDs
 
@@ -47,7 +47,7 @@ The adverse reactions most commonly associated (≥ 1%) with discontinuation wer
 
 Adjunctive Therapy/Monotherapy in Pediatric Patients 1 Month to < 4 Years Old Previously Treated or Not Previously Treated with Other AEDs:
 
-The most common (≥ 5%) adverse reactions with oxcarbazepine in these patients were similar to those seen in older children and adults except for infections and infestations which were more frequently seen in these younger children.
+The most common (≥ 5%) adverse reactions with oxcarbazepine in these patients were similar to those seen in older children and adults, except for infections and infestations which were more frequently seen in these younger children.
 
 Approximately 11% of these 241 pediatric patients discontinued treatment because of an adverse reaction.
 The adverse reactions most commonly associated with discontinuation were: convulsions (3.7%), status epilepticus (1.2%), and ataxia (1.2%).
@@ -77,7 +77,7 @@ Table 3: Adverse Reactions in a Controlled Clinical Study of Adjunctive Therapy 
 | Digestive system |  |  |  |  |
 | Nausea | 15 | 25 | 29 | 10 |
 | Vomiting | 13 | 25 | 36 | 5 |
-| Abdominal | 10 | 13 | 11 | 5 |
+| Abdominal pain | 10 | 13 | 11 | 5 |
 | Diarrhea | 5 | 6 | 7 | 6 |
 | Dyspepsia | 5 | 5 | 6 | 2 |
 | Constipation | 2 | 2 | 6 | 4 |
@@ -122,7 +122,7 @@ Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy With Ox
 |  | Oxcarbazepine dosage (mg/day) |  |
 | --- | --- | --- |
 |  | Oxcarbazepine | Oxcarbazepine |
-| Body System/ Adverse Reaction | 2400 mg/day | 300 mg/day |
+| Body system/ Adverse reaction | 2400 mg/day | 300 mg/day |
 | N = 86 | N = 86 |  |
 | % | % |  |
 | Body as a whole |  |  |
@@ -144,7 +144,7 @@ Table 4: Adverse Reactions in Controlled Clinical Studies of Monotherapy With Ox
 | Hemic and lymphatic system |  |  |
 | Lymphadenopathy | 2 | 0 |
 | Infections and infestations |  |  |
-| Viral Infection | 7 | 5 |
+| Viral infection | 7 | 5 |
 | Infection | 2 | 0 |
 | Metabolic and nutritional disorders |  |  |
 | Hyponatremia | 5 | 0 |
@@ -208,7 +208,7 @@ Table 5: Adverse Reactions in a Controlled Clinical Study of Monotherapy With Ox
 | Dyspepsia | 5 | 4 |
 | Musculoskeletal system |  |  |
 | Back pain | 4 | 2 |
-| Nervous System |  |  |
+| Nervous system |  |  |
 | Dizziness | 22 | 6 |
 | Headache | 13 | 10 |
 | Ataxia | 5 | 0 |
@@ -278,31 +278,31 @@ Events common in the population, events reflecting chronic illness and events li
 They are listed in order of decreasing frequency.
 Because the reports cite events observed in open label and uncontrolled trials, the role of oxcarbazepine in their causation cannot be reliably determined.
 
-Body as a Whole: fever, malaise, pain chest precordial, rigors, weight decrease.
+Body as a Whole: fever, malaise, pain chest precordial, rigors, weight decrease
 
-Cardiovascular System: bradycardia, cardiac failure, cerebral hemorrhage, hypertension, hypotension postural, palpitation, syncope, tachycardia.
+Cardiovascular System: bradycardia, cardiac failure, cerebral hemorrhage, hypertension, hypotension postural, palpitation, syncope, tachycardia
 
-Digestive System: appetite increased, blood in stool, cholelithiasis, colitis, duodenal ulcer, dysphagia, enteritis, eructation, esophagitis, flatulence, gastric ulcer, gingival bleeding, gum hyperplasia, hematemesis, hemorrhage rectum, hemorrhoids, hiccup, mouth dry, pain biliary, pain right hypochondrium, retching, sialoadenitis, stomatitis, stomatitis ulcerative.
+Digestive System: appetite increased, blood in stool, cholelithiasis, colitis, duodenal ulcer, dysphagia, enteritis, eructation, esophagitis, flatulence, gastric ulcer, gingival bleeding, gum hyperplasia, hematemesis, hemorrhage rectum, hemorrhoids, hiccup, mouth dry, pain biliary, pain right hypochondrium, retching, sialoadenitis, stomatitis, stomatitis ulcerative
 
-Hematologic and Lymphatic System: thrombocytopenia.
+Hematologic and Lymphatic System: thrombocytopenia
 
-Laboratory Abnormality: gamma-GT increased, hyperglycemia, hypocalcemia, hypoglycemia, hypokalemia, liver enzymes elevated, serum transaminase increased.
+Laboratory Abnormality: gamma-GT increased, hyperglycemia, hypocalcemia, hypoglycemia, hypokalemia, liver enzymes elevated, serum transaminase increased
 
-Musculoskeletal System: hypertonia muscle.
+Musculoskeletal System: hypertonia muscle
 
-Nervous System: aggressive reaction, amnesia, anguish, anxiety, apathy, aphasia, aura, convulsions aggravated, delirium, delusion, depressed level of consciousness, dysphonia, dystonia, emotional lability, euphoria, extrapyramidal disorder, feeling drunk, hemiplegia, hyperkinesia, hyperreflexia, hypoesthesia, hypokinesia, hyporeflexia, hypotonia, hysteria, libido decreased, libido increased, manic reaction, migraine, muscle contractions involuntary, nervousness, neuralgia, oculogyric crisis, panic disorder, paralysis, paroniria, personality disorder, psychosis, ptosis, stupor, tetany.
+Nervous System: aggressive reaction, amnesia, anguish, anxiety, apathy, aphasia, aura, convulsions aggravated, delirium, delusion, depressed level of consciousness, dysphonia, dystonia, emotional lability, euphoria, extrapyramidal disorder, feeling drunk, hemiplegia, hyperkinesia, hyperreflexia, hypoesthesia, hypokinesia, hyporeflexia, hypotonia, hysteria, libido decreased, libido increased, manic reaction, migraine, muscle contractions involuntary, nervousness, neuralgia, oculogyric crisis, panic disorder, paralysis, paroniria, personality disorder, psychosis, ptosis, stupor, tetany
 
-Respiratory System: asthma, dyspnea, epistaxis, laryngismus, pleurisy.
+Respiratory System: asthma, dyspnea, epistaxis, laryngismus, pleurisy
 
-Skin and Appendages: acne, alopecia, angioedema, bruising, dermatitis contact, eczema, facial rash, flushing, folliculitis, heat rash, hot flushes, photosensitivity reaction, pruritus genital, psoriasis, purpura, rash erythematous, rash maculopapular, vitiligo, urticaria.
+Skin and Appendages: acne, alopecia, angioedema, bruising, dermatitis contact, eczema, facial rash, flushing, folliculitis, heat rash, hot flushes, photosensitivity reaction, pruritus genital, psoriasis, purpura, rash erythematous, rash maculopapular, vitiligo, urticaria
 
-Special Senses: accommodation abnormal, cataract, conjunctival hemorrhage, edema eye, hemianopia, mydriasis, otitis externa, photophobia, scotoma, taste perversion, tinnitus, xerophthalmia.
+Special Senses: accommodation abnormal, cataract, conjunctival hemorrhage, edema eye, hemianopia, mydriasis, otitis externa, photophobia, scotoma, taste perversion, tinnitus, xerophthalmia
 
-Surgical and Medical Procedures: procedure dental oral, procedure female reproductive, procedure musculoskeletal, procedure skin.
+Surgical and Medical Procedures: procedure dental oral, procedure female reproductive, procedure musculoskeletal, procedure skin
 
-Urogenital and Reproductive System: dysuria, hematuria, intermenstrual bleeding, leukorrhea, menorrhagia, micturition frequency, pain renal, pain urinary tract, polyuria, priapism, renal calculus.
+Urogenital and Reproductive System: dysuria, hematuria, intermenstrual bleeding, leukorrhea, menorrhagia, micturition frequency, pain renal, pain urinary tract, polyuria, priapism, renal calculus
 
-Other: Systemic lupus erythematosus.
+Other: Systemic lupus erythematosus
 
 Laboratory Tests
 
@@ -330,7 +330,7 @@ Metabolism and Nutrition Disorders: hypothyroidism and syndrome of inappropriate
 
 Skin and Subcutaneous Tissue Disorders: erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis [see Warnings and Precautions (5.4)], Acute Generalized Exanthematous Pustulosis (AGEP)
 
-Musculoskeletal, Connective Tissue and Bone Disorders: There have been reports of decreased bone mineral density, osteoporosis and fractures in patients on long-term therapy with oxcarbazepine.
+Musculoskeletal, Connective Tissue and Bone Disorders: There have been reports of decreased bone mineral density, osteoporosis, and fractures in patients on long-term therapy with oxcarbazepine.
 
 Injury, Poisoning, and Procedural
 
