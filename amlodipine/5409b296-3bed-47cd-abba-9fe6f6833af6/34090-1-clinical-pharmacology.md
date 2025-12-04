@@ -23,7 +23,7 @@ This inhibition of coronary spasm is responsible for the effectiveness of amlodi
 
 Hemodynamics: Following administration of therapeutic doses to patients with hypertension, amlodipine besylate produces vasodilation resulting in a reduction of supine and standing blood pressures.
 These decreases in blood pressure are not accompanied by a significant change in heart rate or plasma catecholamine levels with chronic dosing.
-Although the acute intravenous administration of amlodipine besylate decreases arterial blood pressure and increases heart rate in hemodynamic studies of patients with chronic stable angina, chronic oral administration of amlodipine in clinical trials did not lead to clinically significant changes in heart rate or blood pressures in normotensive patients with angina.
+Although the acute intravenous administration of amlodipine decreases arterial blood pressure and increases heart rate in hemodynamic studies of patients with chronic stable angina, chronic oral administration of amlodipine in clinical trials did not lead to clinically significant changes in heart rate or blood pressures in normotensive patients with angina.
 
 With chronic once daily oral administration, antihypertensive effectiveness is maintained for at least 24 hours.
 Plasma concentrations correlate with effect in both young and elderly patients.
@@ -33,7 +33,7 @@ Normotensive subjects experienced no clinically significant change in blood pres
 In hypertensive patients with normal renal function, therapeutic doses of amlodipine besylate resulted in a decrease in renal vascular resistance and an increase in glomerular filtration rate and effective renal plasma flow without change in filtration fraction or proteinuria.
 
 As with other calcium channel blockers, hemodynamic measurements of cardiac function at rest and during exercise (or pacing) in patients with normal ventricular function treated with amlodipine besylate have generally demonstrated a small increase in cardiac index without significant influence on dP/dt or on left ventricular end diastolic pressure or volume.
-In hemodynamic studies, amlodipine besylate has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when coadministered with beta-blockers to man.
+In hemodynamic studies, amlodipine besylate has not been associated with a negative inotropic effect when administered in the therapeutic dose range to intact animals and man, even when co-administered with beta-blockers to man.
 Similar findings, however, have been observed in normal or well-compensated patients with heart failure with agents possessing significant negative inotropic effects.
 
 Electrophysiologic Effects: Amlodipine besylate does not change sinoatrial nodal function or atrioventricular conduction in intact animals or man.

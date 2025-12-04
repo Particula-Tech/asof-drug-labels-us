@@ -7,7 +7,7 @@ Because clinical trials are conducted under widely varying conditions, adverse r
 Amlodipine besylate has been evaluated for safety in more than 11,000 patients in U.S. and foreign clinical trials.
 In general, treatment with amlodipine besylate was well-tolerated at doses up to 10 mg daily.
 Most adverse reactions reported during therapy with amlodipine besylate were of mild or moderate severity.
-In controlled clinical trials directly comparing amlodipine (N=1730) at doses up to 10 mg to placebo (N=1250), discontinuation of amlodipine besylate because of adverse reactions was required in only about 1.5% of patients and was not significantly different from placebo (about 1%).
+In controlled clinical trials directly comparing amlodipine besylate (N=1730) at doses up to 10 mg to placebo (N=1250), discontinuation of amlodipine besylate because of adverse reactions was required in only about 1.5% of patients and was not significantly different from placebo (about 1%).
 The most commonly reported side effects more frequent than placebo are reflected in the table below.
 The incidence (%) of side effects that occurred in a dose related manner are as follows:
 
@@ -55,7 +55,7 @@ Psychiatric: sexual dysfunction (male1 and female), insomnia, nervousness, depre
 
 Respiratory System: dyspnea,1 epistaxis.
 
-Skin and Appendages: angioedema, erythema multiforme, pruritus, 1 rash, 1 rash erythematous, rash maculopapular.
+Skin and Appendages: angioedema, erythema multiforme, pruritus1 rash, 1 rash erythematous, rash maculopapular.
 
 Special Senses: abnormal vision, conjunctivitis, diplopia, eye pain, tinnitus.
 

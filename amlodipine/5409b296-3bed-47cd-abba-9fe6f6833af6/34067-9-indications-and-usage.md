@@ -4,7 +4,7 @@
 
 Amlodipine besylate tablets are indicated for the treatment of hypertension, to lower blood pressure.
 Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions.
-These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including amlodipine besylate tablet, USP.
+These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including amlodipine besylate tablet.
 
 Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake.
 Many patients will require more than one drug to achieve blood pressure goals.

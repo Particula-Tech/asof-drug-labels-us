@@ -119,15 +119,15 @@ You can ask your pharmacist or doctor for information about Amlodipine besylate 
 
 Manufactured by:
 
-Cipla, Ltd., Verna, Goa India
+Cipla Ltd., Verna-403722, Goa, India
 
 Manufactured by:
 
-Cipla Ltd., MIDC Patalganga, India
+Cipla Ltd., Patalganga-410220, Maharashtra, India
 
 Manufactured by:
 
-Cipla Ltd.,Indore SEZ, Pithampur, India
+Cipla Ltd., Indore SEZ-454775, MP, India
 
 Manufactured for:
 
@@ -137,4 +137,4 @@ Cipla USA, Inc.
 
 Warren, NJ 07059
 
-Revised: 2/2020
+Revised: 2/2024
