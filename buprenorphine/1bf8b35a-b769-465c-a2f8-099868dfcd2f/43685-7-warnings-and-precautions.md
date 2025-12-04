@@ -7,7 +7,7 @@ Prescribe and dispense buprenorphine with appropriate precautions to minimize ri
 Clinical monitoring appropriate to the patient’s level of stability is essential.
 Multiple refills should not be prescribed early in treatment or without appropriate patient follow-up visits [see Drug Abuse and Dependence (9.2)].
 
-## 5.2 Life-Threatening Respiratory and Central Nervous System (CNS) Depression
+## 5.2 Life-Threatening Respiratory Depression and Central Nervous System (CNS) Depression
 
 Buprenorphine has been associated with life-threatening respiratory depression and death.
 Many, but not all, post-marketing reports regarding coma and death involved misuse by self-injection or were associated with the concomitant use of benzodiazepines or other CNS depressants, including alcohol.
@@ -24,8 +24,8 @@ In patients who present with CSA, consider decreasing the opioid dosage using be
 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
 Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
-Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing or recommending an opioid overdose reversal agent for the emergency treatment of an opioid overdose, both when initiating and renewing treatment with Buprenorphine Sublingual Tablets.
-Also consider prescribing or recommending such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.2)].
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider recommending or prescribing an opioid overdose reversal agent for the emergency treatment of an opioid overdose, both when initiating and renewing treatment with Buprenorphine Sublingual Tablets.
+Also consider recommending or prescribing such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.2)].
 
 Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program).
 
