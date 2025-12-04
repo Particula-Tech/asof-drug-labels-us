@@ -2,20 +2,27 @@
 
 ## 8.1 Pregnancy
 
-Reproduction studies for lidocaine have been performed in both rats and rabbits.
-There was no evidence of harm to the fetus at subcutaneous doses up to 50 mg/kg lidocaine (more than 800 fold greater than the human dose on a body weight basis) in the rat model.
-There are, however, no adequate and well controlled studies in pregnant women.
-Because animal reproduction studies are not always predictive of human response, this drug should be used in pregnancy only if clearly needed.
+Risk Summary
 
-## 8.3 Nursing Mothers
+There are no adequate and well-controlled studies with AKTEN in pregnant women to inform a drug-associated risk.
+In animal reproduction studies, subcutaneous administration of lidocaine to pregnant rats at doses >800-fold the human dose based on body surface area did not result in adverse developmental effects.
+
+The estimated background risk of major birth defects and miscarriage for the indicated population(s) is unknown.
+All pregnancies have a background risk of birth defect, loss, or other adverse outcomes.
+In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+
+## 8.2 Lactation
+
+Risk Summary
 
 Lidocaine is secreted in human milk.
 The clinical significance of this observation is unknown.
-Although no systemic exposure is expected with administration of AKTEN ®, caution should be exercised when AKTEN ® is administered to a nursing woman.
+Caution should be exercised when AKTEN is administered to a nursing woman.
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy in pediatric patients have been extrapolated from studies in older subjects and studies in pediatric patients using different formulations of lidocaine.
+The safety and effectiveness of AKTEN for ocular surface anesthesia during ophthalmologic procedures have been established in pediatric patients.
+Use of AKTEN for this indication has been extrapolated from adequate and well-controlled studies in adults and studies in pediatric patients using different formulations of lidocaine.
 
 ## 8.5 Geriatric Use
 

@@ -1,3 +1,3 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-AKTEN ® Ophthalmic Gel, 3.5% contains 35 mg per mL of lidocaine hydrochloride.
+Ophthalmic Gel: 3.5% lidocaine hydrochloride in single-patient use tubes.

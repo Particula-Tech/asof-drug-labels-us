@@ -2,7 +2,7 @@
 
 ## 12.1 Mechanism of Action
 
-Lidocaine hydrochloride is a local anesthetic agent that stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses, thereby effecting local anesthetic action.
+Lidocaine hydrochloride is an amide local anesthetic agent that stabilizes the neuronal membrane by inhibiting the ionic fluxes required for the initiation and conduction of impulses, thereby effecting local anesthetic action.
 Anesthesia generally occurs between 20 seconds to 1 minute and persists for 5 to 30 minutes.
 
 ## 12.3 Pharmacokinetics
@@ -14,7 +14,7 @@ The plasma binding of lidocaine is dependent on drug concentration, and the frac
 At concentrations of 1 to 4 mcg of free base per mL, 60 to 80 percent of lidocaine is protein bound.
 Binding is also dependent on the plasma concentration of the alpha-1-acid glycoprotein.
 Lidocaine is metabolized rapidly by the liver, and metabolites and unchanged drug are excreted by the kidneys.
-Biotransformation includes oxidative N- dealkylation, ring hydroxylation, cleavage of the amide linkage, and conjugation.
+Biotransformation includes oxidative N-dealkylation, ring hydroxylation, cleavage of the amide linkage, and conjugation.
 N-dealkylation, a major pathway of biotransformation, yields the metabolites monoethylglycinexylidide and glycinexylidide.
 The pharmacologic/toxicologic actions of these metabolites are similar to, but less potent than, those of lidocaine.
 Approximately 90% of lidocaine administered is excreted in the form of various metabolites, and less than 10% is excreted unchanged.
@@ -22,5 +22,6 @@ The primary metabolite in urine is a conjugate of 4-hydroxy-2, 6-dimethylaniline
 
 Studies of lidocaine metabolism following intravenous bolus injections have shown that the elimination half-life of this agent is typically 1.5 to 2 hours.
 Because of the rate at which lidocaine is metabolized, any condition that affects liver function may alter lidocaine kinetics.
+
 The half-life may be prolonged twofold or more in patients with liver dysfunction.
 Renal dysfunction does not affect lidocaine kinetics but may increase the accumulation of metabolites.
