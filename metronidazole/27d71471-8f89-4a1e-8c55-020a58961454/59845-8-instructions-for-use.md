@@ -1,6 +1,6 @@
 # PATIENT INSTRUCTIONS FOR USE
 
-VANDAZOLE® (van-DA-zole) (metronidazole gel, USP), 0.75%
+VANDAZOLE ®(van-DA-zole) (metronidazole gel, USP), 0.75%
 
 For vaginal use only.
 

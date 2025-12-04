@@ -2,7 +2,7 @@
 
 NDC 0245-0860-70
 
-VANDAZOLE®
+VANDAZOLE ®
 
 (Metronidazole Gel USP, 0.75% [Vaginal])
 

@@ -9,11 +9,11 @@ Metronidazole is an antibacterial drug [see Clinical Pharmacology, Microbiology 
 Healthy Subjects
 
 Following a single, intravaginal 5 gram dose of metronidazole vaginal gel (equivalent to 37.5 mg of metronidazole) to 38 healthy female subjects, a mean maximum serum metronidazole concentration of 281 ng/mL was reported (range: 134 to 464 ng/mL).
-The average time to achieve this Cmax was 9.5 hours (range: 4 to 17 hours) after dosing with metronidazole vaginal gel.
-This Cmax is approximately 2% of the mean maximum serum concentration reported in healthy subjects administered a single, oral 500 mg dose of metronidazole (mean Cmax = 12,785 ng/mL).
+The average time to achieve this C maxwas 9.5 hours (range: 4 to 17 hours) after dosing with metronidazole vaginal gel.
+This C maxis approximately 2% of the mean maximum serum concentration reported in healthy subjects administered a single, oral 500 mg dose of metronidazole (mean C max= 12,785 ng/mL).
 
 The extent of exposure [area under the curve (AUC)] of metronidazole, when administered as a single intravaginal 5 gram dose of metronidazole vaginal gel (equivalent to 37.5 mg of metronidazole), was 5,989 ng•hr/mL (range: 2,797 to 10,515 ng•hr/mL).
-This AUC0-∞ is approximately 5% of the reported AUC of metronidazole following a single oral 500 mg dose of metronidazole approximately 125,000 ng•hr/mL.
+This AUC 0-∞is approximately 5% of the reported AUC of metronidazole following a single oral 500 mg dose of metronidazole approximately 125,000 ng•hr/mL.
 
 Patients with Bacterial Vaginosis
 
@@ -30,15 +30,15 @@ However, it is not clear whether interaction with DNA alone is an important comp
 
 Activity In Vitro
 
-Metronidazole is an antibacterial agent active in vitro against most strains of the following organisms that have been reported to be associated with bacterial vaginosis:
+Metronidazole is an antibacterial agent active in vitroagainst most strains of the following organisms that have been reported to be associated with bacterial vaginosis:
 
-Bacteroides spp.
+Bacteroidesspp.
 
 Gardnerella vaginalis
 
-Mobiluncus spp.
+Mobiluncusspp.
 
-Peptostreptococcus spp.
+Peptostreptococcusspp.
 
-Standard methodology for the susceptibility testing of the potential bacterial vaginosis pathogens, Gardnerella vaginalis and Mobiluncus spp., has not been defined.
+Standard methodology for the susceptibility testing of the potential bacterial vaginosis pathogens, Gardnerella vaginalisand Mobiluncusspp., has not been defined.
 Culture and sensitivity testing of bacteria are not routinely performed to establish the diagnosis of bacterial vaginosis [see Clinical Studies (14)].

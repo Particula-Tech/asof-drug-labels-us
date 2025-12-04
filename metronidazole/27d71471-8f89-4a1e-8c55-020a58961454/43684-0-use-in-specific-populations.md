@@ -32,8 +32,7 @@ However, in a single small study where the drug was administered intraperitoneal
 Risk Summary
 
 There are no data on the presence of metronidazole in human milk following intravaginal administration.
-Metronidazole is present in human milk following oral metronidazole administration at concentrations similar to those found in plasma (see Data).
-The metronidazole vaginal gel achieves 2% of the mean maximum serum concentration of a 500 mg oral metronidazole dose [see Clinical Pharmacology (12.3)].
+Metronidazole is present in human milk following oral metronidazole administration at concentrations similar to those found in plasma (see Data).The metronidazole vaginal gel achieves 2% of the mean maximum serum concentration of a 500 mg oral metronidazole dose [see Clinical Pharmacology (12.3)].
 The published literature reports no adverse effects in infants exposed through breastmilk to maternal orally administered metronidazole.
 There are no data on the effects on milk production.
 

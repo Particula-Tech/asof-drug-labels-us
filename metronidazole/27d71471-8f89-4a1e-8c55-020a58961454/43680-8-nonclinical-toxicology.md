@@ -14,7 +14,7 @@ In addition, a dose dependent increase in the frequency of micronuclei was obser
 An increase in chromosome aberrations has been reported in one study of patients with Crohn’s disease who were treated with 200 to 1200 mg/day of metronidazole for 1 to 24 months.
 However, in a second study, no increase in chromosome aberrations was reported in patients with Crohn’s disease who were treated with metronidazole for 8 months.
 
-Fertility studies have been performed in mice up to six times the recommended human oral dose (based on mg/m2) and have revealed no evidence of impaired fertility.
+Fertility studies have been performed in mice up to six times the recommended human oral dose (based on mg/m 2) and have revealed no evidence of impaired fertility.
 Metronidazole failed to produce any adverse effects on fertility or testicular function in male rats at doses up to 400 mg/kg/day (about 50 times the maximum recommended clinical dose based on body surface area comparisons) for 28 days.
 However, male rats treated at the same dose for 6 weeks or longer were infertile and showed severe degeneration of the seminiferous epithelium in the testes as well as marked decreases in testicular spermatid counts and epididymal sperm counts.
 Fertility was restored in most rats after an eight-week, drug-free recovery period.

@@ -16,7 +16,7 @@ The incidence of all adverse reactions in VANDAZOLE-treated patients was 42% (92
 Adverse reactions occurring in ≥ 1% of patients were: fungal infection* (12%), headache (7%), pruritus (6%), abdominal pain (5%), nausea (3%), dysmenorrhea (3%), pharyngitis (2%), rash (1%), infection (1%), diarrhea (1%), breast pain (1%), and metrorrhagia (1%).
 
 * Known or previously unrecognized vaginal candidiasis may present more prominent symptoms during therapy with VANDAZOLE.
-Approximately 10% of patients treated with VANDAZOLE developed Candida vaginitis during or immediately after therapy.
+Approximately 10% of patients treated with VANDAZOLE developed Candidavaginitis during or immediately after therapy.
 
 Additional uncommon events, reported by < 1% of those women treated with VANDAZOLE included:
 
@@ -43,17 +43,17 @@ Oral and Parenteral Formulations
 
 The following adverse reactions and altered laboratory tests have been reported with the oral or parenteral use of metronidazole:
 
-Cardiovascular: Flattening of the T-wave may be seen in electrocardiographic tracings.
+Cardiovascular:Flattening of the T-wave may be seen in electrocardiographic tracings.
 
-Nervous System: The most serious adverse reactions reported in patients treated with metronidazole have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
+Nervous System:The most serious adverse reactions reported in patients treated with metronidazole have been convulsive seizures, encephalopathy, aseptic meningitis, optic and peripheral neuropathy, the latter characterized mainly by numbness or paresthesia of an extremity.
 In addition, patients have reported syncope, vertigo, incoordination, ataxia, confusion, dysarthria, irritability, depression, weakness, and insomnia [see Warnings and Precautions (5.1)].
 
-Gastrointestinal: Abdominal discomfort, nausea, vomiting, diarrhea, an unpleasant metallic taste, anorexia, epigastric distress, abdominal cramping, constipation, “furry” tongue, glossitis, stomatitis, pancreatitis, and modification of taste of alcoholic beverages.
+Gastrointestinal:Abdominal discomfort, nausea, vomiting, diarrhea, an unpleasant metallic taste, anorexia, epigastric distress, abdominal cramping, constipation, “furry” tongue, glossitis, stomatitis, pancreatitis, and modification of taste of alcoholic beverages.
 
-Genitourinary: Overgrowth of Candida in the vagina, dyspareunia, decreased libido, proctitis.
+Genitourinary:Overgrowth of Candidain the vagina, dyspareunia, decreased libido, proctitis.
 
-Hematopoietic: Reversible neutropenia, reversible thrombocytopenia.
+Hematopoietic:Reversible neutropenia, reversible thrombocytopenia.
 
-Hypersensitivity Reactions: Urticaria; erythematous rash; Stevens-Johnson Syndrome, toxic epidermal necrolysis, flushing; nasal congestion; dryness of the mouth, vagina, or vulva; fever; pruritus; fleeting joint pains [see Contraindications (4.1)].
+Hypersensitivity Reactions:Urticaria; erythematous rash; Stevens-Johnson Syndrome, toxic epidermal necrolysis, flushing; nasal congestion; dryness of the mouth, vagina, or vulva; fever; pruritus; fleeting joint pains [see Contraindications (4.1)].
 
-Renal: Dysuria, cystitis, polyuria, incontinence, a sense of pelvic pressure, darkened urine.
+Renal:Dysuria, cystitis, polyuria, incontinence, a sense of pelvic pressure, darkened urine.
