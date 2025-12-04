@@ -21,10 +21,16 @@ Lactation
 
 Advise nursing mothers using SOMA to monitor neonates for signs of sedation [see Use in Specific Populations (8.2)].
 
-Manufactured for: Meda Pharmaceuticals Inc. 1000 Mylan Blvd Canonsburg, PA 15317
+For more information, call Viatris at 1-877-446-3679 (1-877-4-INFO-RX).
 
-SOMA is a registered trademark of Meda Pharmaceuticals Inc., a Viatris Company. ©2023 Viatris Inc.
+SOMA is a registered trademark of Meda Pharmaceuticals Inc., a Viatris Company.
 
-IN-90H2-23
+© 2025 Viatris Inc.
 
-Revised: 5/2023 500491-04
+Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
+
+Revised: 8/2025
+
+201112-01
+
+VS:SOV:SOMT:R1
