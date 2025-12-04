@@ -9,14 +9,8 @@ NDC 0406-0483-01
 Each Acetaminophen and Codeine Phosphate Tablet USP 300 mg/30 mg tablet contains acetaminophen 300 mg and codeine phosphate 30 mg.
 It is available as a round, white to off-white tablet debossed with “3” on one side and an on the other side.
 
-Bottles of 20............................................
-NDC 0406-0484-20
-
 Bottles of 30............................................
 NDC 0406-0484-03
-
-Bottles of 50............................................
-NDC 0406-0484-50
 
 Bottles of 100.........................................
 NDC 0406-0484-01
@@ -46,7 +40,7 @@ Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and 
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 03/2025
+Rev 09/2025
 
 Mallinckrodt™ Pharmaceuticals
 
