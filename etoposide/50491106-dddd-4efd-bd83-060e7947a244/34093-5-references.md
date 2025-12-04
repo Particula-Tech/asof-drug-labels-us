@@ -47,10 +47,12 @@ Am J Health-SystPharm.
 
 meitheal®
 
-Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2024 Meitheal Pharmaceuticals Inc.
+Mfd. for Meitheal Pharmaceuticals Chicago, IL 60631 (USA) ©2025 Meitheal Pharmaceuticals Inc.
 
 Mfd. by Kindos Pharmaceuticals Co., Ltd. Chengdu, China 611731
 
-June 2024
+Product of Italy
 
-LB-667-V1
+November 2025
+
+LB-667-V2

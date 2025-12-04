@@ -15,5 +15,7 @@ Store at 20° to 25°C (68° to 77°F).
 
 DO NOT FREEZE.
 
+Protect from light.
+
 Sterile, Nonpyrogenic, Preservative-free.
 The container closure is not made with natural rubber latex.
