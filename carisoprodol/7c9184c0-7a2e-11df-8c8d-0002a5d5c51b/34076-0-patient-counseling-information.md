@@ -21,12 +21,12 @@ Lactation
 
 Advise nursing mothers using carisoprodol tablets to monitor neonates for signs of sedation [see Use in Specific Populations (8.2)].
 
-Manufactured for: Wallace Pharmaceuticals Inc. 1000 Mylan Blvd Canonsburg, PA 15317
+For more information, call Viatris at 1-877-446-3679 (1-877-4-INFO-RX).
 
-WALLACE and are trademarks of Wallace Pharmaceuticals Inc., a Viatris Company.
+© 2025 Viatris Inc.
 
-© 2023 Viatris Inc.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-IN-5901-08 Revised: 6/2023
+201113-01
 
-500492-05
+Revised: 7/2025 VS:SOV:CART:R1
