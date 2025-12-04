@@ -61,6 +61,8 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of HADLIMA have not been established in pediatric patients with psoriatic arthritis, ankylosing spondylitis, or plaque psoriasis.
+
 The safety and effectiveness of HADLIMA have been established for:
 
 - •reducing signs and symptoms of moderately to severely active polyarticular JIA in pediatric patients 2 years of age and older.
@@ -79,11 +81,11 @@ Post-marketing cases of lymphoma, including hepatosplenic T-cell lymphoma and ot
 
 Juvenile Idiopathic Arthritis
 
-In Study JIA-I, adalimumab was shown to reduce signs and symptoms of active polyarticular JIA in patients 4 to 17 years of age [see Clinical Studies (14.2)].
-In Study JIA-II, the safety profile for patients 2 to <4 years of age was similar to the safety profile for patients 4 to 17 years of age with polyarticular JIA [see Adverse Reactions (6.1)].
+The safety and effectiveness of HADLIMA for the treatment of moderately to severely active polyarticular JIA have been established in pediatric patients 2 years of age and older.
+Use for this indication is supported by evidence from an adequate and well-controlled study (Study JIA) in patients 4 to 17 years of age [see Clinical Studies (14.2)] and a safety study (Study JIA-II) in patients 2 to <4 years of age where the safety profile was similar to patients 4 to 17 years of age [see Adverse Reactions (6.1)].
 Adalimumab products have not been studied in patients with polyarticular JIA less than 2 years of age or in patients with a weight below 10 kg.
 
-The safety of adalimumab in patients in the polyarticular JIA trials was generally similar to that observed in adults with certain exceptions [see Adverse Reactions (6.1)].
+The safety of adalimumab in pediatric patients in the polyarticular JIA trials was generally similar to that observed in adults with certain exceptions [see Adverse Reactions (6.1)].
 
 The safety and effectiveness of HADLIMA have not been established in pediatric patients with JIA less than 2 years of age.
 
@@ -97,8 +99,9 @@ The safety and effectiveness of HADLIMA have not been established in pediatric p
 
 ## 8.5 Geriatric Use
 
-A total of 519 RA patients 65 years of age and older, including 107 patients 75 years of age and older, received adalimumab in clinical studies RA-I through IV.
-No overall difference in effectiveness was observed between these patients and younger patients.
-The frequency of serious infection and malignancy among adalimumab treated patients 65 years of age and older was higher than for those less than 65 years of age.
+In clinical studies of RA (Studies RA-I, RA-II, RA-III, and RA-IV), a total of 519 RA subjects 65 years of age and older, including 107 subjects 75 years of age and older, received adalimumab in clinical studies RA-I through IV.
+No overall difference in effectiveness was observed between these subjects and younger adult subjects.
+
+The frequency of serious infection and malignancy among adalimumab treated subjects 65 years of age and older was higher than for those less than 65 years of age.
 Consider the benefits and risks of HADLIMA in patients 65 years of age and older.
 In patients treated with HADLIMA. closely monitor for the development of infection or malignancy [see Warnings and Precautions (5.1, 5.2)].

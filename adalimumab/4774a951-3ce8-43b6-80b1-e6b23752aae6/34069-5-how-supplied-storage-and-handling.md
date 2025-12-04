@@ -3,12 +3,10 @@
 HADLIMA (adalimumab-bwwd) is supplied as a preservative-free, sterile, clear to opalescent, and colorless to pale brown solution for subcutaneous administration.
 The following packaging configurations are available.
 
-- •HADLIMA PushTouch Autoinjector Carton - 40 mg/0.8 mL HADLIMA is supplied in a carton containing one dose tray.
-  The dose tray consists of two single-dose autoinjectors.
+- •HADLIMA PushTouch Autoinjector Carton - 40 mg/0.8 mL HADLIMA is supplied in a carton containing two single-dose autoinjectors.
   Each single-dose autoinjector contains a 1 mL prefilled glass syringe with a fixed ½ inch needle, providing 40 mg/0.8 mL of HADLIMA.
   The NDC number is 78206-184-01.
-- •HADLIMA Prefilled Syringe Carton - 40 mg/0.8 mL HADLIMA is supplied in a carton containing one dose tray.
-  The dose tray consists of two single-dose, 1 mL prefilled glass syringes, each with a fixed ½ inch needle, providing 40 mg/0.8 mL of HADLIMA.
+- •HADLIMA Prefilled Syringe Carton - 40 mg/0.8 mL HADLIMA is supplied in a carton containing two single-dose, 1 mL prefilled glass syringes, each with a fixed ½ inch needle, providing 40 mg/0.8 mL of HADLIMA.
   The NDC number is 78206-183-01.
 - •Single-dose Institutional Use Vial Carton – 40 mg/0.8 mL HADLIMA is supplied for institutional use only in a carton containing a single-dose, glass vial providing 40 mg/0.8 mL of HADLIMA.
   The NDC number is 78206-185-01.

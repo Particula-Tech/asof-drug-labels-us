@@ -119,46 +119,74 @@ Manufactured for: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07
 
 # PRINCIPAL DISPLAY PANEL - Single-dose Prefilled Syringe Carton - 40 mg/0.4 mL
 
-NDC 78206-186-01
+NDC 78206-186-01 40mg/0.4mL
 
 ORGANON
 
-HADLIMA™ 40 mg/0.4 mL (adalimumab-bwwd) injection 40 mg/0.4 mL Single-dose Prefilled Syringe
+HADLIMA™ (adalimumab-bwwd) injection 40 mg/0.4 mL Single-dose Prefilled Syringe
 
-For Subcutaneous Use Only
+For Subcutaneous Use only
+
+Dispense the enclosed Medication Guide to each patient.
 
 2 single-dose prefilled syringes
 
 The entire carton is to be dispensed as a unit.
 
-This carton contains: - 2 single-dose prefilled syringes - 1 package insert - 1 Medication Guide - 1 Instructions for Use
+This carton contains:
 
-Dispense the enclosed Medication Guide to each patient.
+- •2 single-dose prefilled syringes
+- •1 package insert (includes Medication Guide)
+- •1 Instructions for Use
 
-SAMSUNG BIOEPIS
+Rx only SAMSUNG BIOEPIS
 
-Rx only
+Manufactured for: Organon LLC, a subsidiary of ORGANON & Co., Jersey City, NJ 07302, USA
+
+Manufactured by: SAMSUNG BIOEPIS Samsung Bioepis Co., Ltd. Incheon, Republic of Korea
+
+US License No. 2046 Product of Korea
+
+The trademarks above are owned by their respective owners.
+
+Our website: www.HADLIMA.com
+
+Our hotline: 1-844-674-3200
 
 # PRINCIPAL DISPLAY PANEL - Single-dose Autoinjector Carton - 40 mg/0.4 mL
 
-NDC 78207-187-01
+NDC 78206-187-01 40mg/0.4 mL
 
 ORGANON
 
-HADLIMA™ PushTouch™ 40 mg/0.4 mL (adalimumab-bwwd) injection 40 mg/0.4 mL Single-dose Prefilled Autoinjector
+HADLIMA™ PushTouch™ (adalimumab-bwwd) injection 40 mg/0.4 mL Single-dose Prefilled Autoinjector
 
 For Subcutaneous Use only
+
+Dispense the enclosed Medication Guide to each patient.
 
 2 single-dose prefilled autoinjectors
 
 The entire carton is to be dispensed as a unit.
 
-This carton contains: - 2 single-dose prefilled autoinjectors - 1 package insert - 1 Medication Guide - 1 Instructions for Use
+This carton contains:
+
+- •2 single-dose prefilled autoinjectors
+- •1 package insert (includes Medication Guide)
+- •1 Instructions for Use
 
 There is NO BUTTON on your autoinjector.
 
-Dispense the enclosed Medication Guide to each patient.
+Rx only SAMSUNG BIOEPIS
 
-SAMSUNG BIOEPIS
+Manufactured for: Organon LLC, a subsidiary of Organon & Co., Jersey City, NJ 07302, USA
 
-Rx only
+Manufactured by: SAMSUNG BIOEPIS Samsung Bioepis Co., Ltd. Incheon, Republic of Korea
+
+US License No. 2046 Product of Korea
+
+The trademarks above are owned by their respective owners.
+
+Our website: www.HADLIMA.com
+
+Our hotline: 1-844-674-3200

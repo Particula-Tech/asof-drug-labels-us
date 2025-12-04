@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
 Adalimumab-bwwd is a tumor necrosis factor blocker.
-Adalimumab-bwwd is a recombinant human IgG1 monoclonal antibody with human derived heavy and light chain variable regions and human IgG1:k constant regions.
+Adalimumab-bwwd is a recombinant human IgG1 monoclonal antibody created using phage display technology resulting in an antibody with human derived heavy and light chain variable regions and human IgG1:k constant regions.
 Adalimumab-bwwd is produced by recombinant DNA technology in a mammalian cell (Chinese Hamster Ovary (CHO)) expression system and is purified by a process that includes specific viral inactivation and removal steps.
 It consists of 1330 amino acids and has a molecular weight of approximately 148 kilodaltons.
 
