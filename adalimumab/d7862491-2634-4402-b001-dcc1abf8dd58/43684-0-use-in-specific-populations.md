@@ -9,7 +9,7 @@ Clinical data are available from the Organization of Teratology Information Spec
 Registry results showed a rate of 10% for major birth defects with first trimester use of adalimumab in pregnant women with RA or CD and a rate of 7.5% for major birth defects in the disease-matched comparison cohort.
 The lack of pattern of major birth defects is reassuring and differences between exposure groups may have impacted the occurrence of birth defects (see Data).
 
-Adalimumab is actively transferred across the placenta during the third trimester of pregnancy and may affect immune response in the in uteroexposed infant (see Clinical Considerations).
+Adalimumab is actively transferred across the placenta during the third trimester of pregnancy and may affect immune response in the in-utero exposed infant (see Clinical Considerations).
 In an embryo-fetal perinatal development study conducted in cynomolgus monkeys, no fetal harm or malformations were observed with intravenous administration of adalimumab during organogenesis and later in gestation, at doses that produced exposures up to approximately 373 times the maximum recommended human dose (MRHD) of 40 mg subcutaneous without methotrexate (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
@@ -25,7 +25,7 @@ Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestatio
 
 Fetal/Neonatal Adverse Reactions
 
-Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third trimester [see Data].
+Monoclonal antibodies are increasingly transported across the placenta as pregnancy progresses, with the largest amount transferred during the third trimester (see Data).
 Risks and benefits should be considered prior to administering live or live-attenuated vaccines to infants exposed to adalimumab products in utero [see Use in Specific Populations (8.4)].
 
 Data
@@ -42,7 +42,7 @@ In an independent clinical study conducted in ten pregnant women with IBD treate
 The last dose of adalimumab was given between 1 and 56 days prior to delivery.
 Adalimumab concentrations were 0.16-19.7 mcg/mL in cord blood, 4.28-17.7 mcg/mL in infant serum, and 0-16.1 mcg/mL in maternal serum.
 In all but one case, the cord blood concentration of adalimumab was higher than the maternal serum concentration, suggesting adalimumab actively crosses the placenta.
-In addition, one infant had serum concentrations at each of the following: 6 weeks (1.94 mcg/mL), 7 weeks (1.31 mcg/mL), 8 weeks (0.93 mcg/mL), and 11 weeks (0.53 mcg/mL), suggesting adalimumab can be detected in the serum of infants exposed in uterofor at least 3 months from birth.
+In addition, one infant had serum concentrations at each of the following: 6 weeks (1.94 mcg/mL), 7 weeks (1.31 mcg/mL), 8 weeks (0.93 mcg/mL), and 11 weeks (0.53 mcg/mL), suggesting adalimumab can be detected in the serum of infants exposed in utero for at least 3 months from birth.
 
 Animal Data
 
@@ -61,16 +61,20 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
+The safety and effectiveness of AMJEVITA have not been established in pediatric patients with psoriatic arthritis, ankylosing spondylitis, or plaque psoriasis.
+
 The safety and effectiveness of AMJEVITA have been established for:
 
 - reducing signs and symptoms of moderately to severely active polyarticular JIA in pediatric patients 2 years of age and older.
 - the treatment of moderately to severely active Crohn's disease in pediatric patients 6 years of age and older.
+- the treatment of moderate to severe hidradenitis suppurativa in patients 12 years of age and older.
+- the treatment of non-infectious intermediate, posterior, and panuveitis in pediatric patients 2 years of age and older.
 
-Pediatric assessments for AMJEVITA demonstrate that AMJEVITA is safe and effective for pediatric patients in indications for which HUMIRA (adalimumab) is approved.
-However, AMJEVITA is not approved for such indications due to marketing exclusivity for HUMIRA (adalimumab).
+A pediatric assessment for AMJEVITA demonstrates that AMJEVITA is safe and effective for pediatric patients in an indication for which HUMIRA (adalimumab) is approved.
+However, AMJEVITA is not approved for such indication due to marketing exclusivity for HUMIRA (adalimumab).
 
 Due to their inhibition of TNFα, adalimumab products administered during pregnancy could affect immune response in the in utero-exposed newborn and infant.
-Data from eight infants exposed to adalimumab in uterosuggest adalimumab crosses the placenta [see Use in Specific Populations (8.1)].
+Data from eight infants exposed to adalimumab in utero suggest adalimumab crosses the placenta [see Use in Specific Populations (8.1)].
 The clinical significance of elevated adalimumab concentrations in infants is unknown.
 The safety of administering live or live-attenuated vaccines in exposed infants is unknown.
 Risks and benefits should be considered prior to vaccinating (live or live-attenuated) exposed infants.
@@ -79,26 +83,42 @@ Post-marketing cases of lymphoma, including hepatosplenic T-cell lymphoma and ot
 
 Juvenile Idiopathic Arthritis
 
-In Study JIA-I, adalimumab was shown to reduce signs and symptoms of active polyarticular JIA in patients 4 to 17 years of age [see Clinical Studies (14.2)].
-In Study JIA-II, the safety profile for patients 2 to < 4 years of age was similar to the safety profile for patients 4 to 17 years of age with polyarticular JIA [see Adverse Reactions (6.1)].
+The safety and effectiveness of AMJEVITA for the treatment of moderately to severely active polyarticular JIA have been established in pediatric patients 2 years of age and older.
+Use for this indication is supported by evidence from an adequate and well-controlled study (Study JIA) of adalimumab in patients 4 to 17 years of age [see Clinical Studies (14.2)] and a safety study (Study JIA-II), of adalimumab in patients 2 to < 4 years of age where the safety profile was similar to patients 4 to 17 years of age [see Adverse Reactions (6.1)].
 Adalimumab products have not been studied in patients with polyarticular JIA less than 2 years of age or in patients with a weight below 10 kg.
 
-The safety of adalimumab in patients in the polyarticular JIA trials was generally similar to that observed in adults with certain exceptions [see Adverse Reactions (6.1)].
+The safety of adalimumab in pediatric patients in the polyarticular JIA trials was generally similar to that observed in adults with certain exceptions [see Adverse Reactions (6.1)].
 
-The safety and effectiveness of adalimumab products have not been established in pediatric patients with JIA less than 2 years of age.
+The safety and effectiveness of AMJEVITA have not been established in pediatric patients with JIA less than 2 years of age.
 
 Pediatric Crohn's Disease
 
-The safety and effectiveness of adalimumab products for the treatment of moderately to severely active Crohn's disease have been established in pediatric patients 6 years of age and older.
-Use of adalimumab products for this indication is supported by evidence from adequate and well-controlled studies in adults with additional data from a randomized, double-blind, 52-week clinical study of two dose concentrations of adalimumab in 192 pediatric patients (6 years to 17 years of age) [see Adverse Reactions (6.1), Clinical Pharmacology (12.2, 12.3), Clinical Studies (14.6)].
+The safety and effectiveness of AMJEVITA for the treatment of moderately to severely active Crohn's disease have been established in pediatric patients 6 years of age and older.
+Use of AMJEVITA for this indication is supported by evidence from adequate and well-controlled studies in adults with additional data from a randomized, double-blind, 52-week clinical study of two dose concentrations of adalimumab in 192 pediatric patients (6 years to 17 years of age) [see Adverse Reactions (6.1), Clinical Pharmacology (12.2, 12.3), Clinical Studies (14.6)].
 The adverse reaction profile in patients 6 years to 17 years of age was similar to adults.
 
-The safety and effectiveness of adalimumab products have not been established in pediatric patients with Crohn's disease less than 6 years of age.
+The safety and effectiveness of AMJEVITA have not been established in pediatric patients with Crohn's disease less than 6 years of age.
+
+Pediatric Uveitis
+
+The safety and effectiveness of AMJEVITA for the treatment of non-infectious, intermediate, posterior, and panuveitis have been established in pediatric patients 2 years of age and older.
+Use of AMJEVITA for this indication is supported by evidence from adequate and well-controlled studies of adalimumab in adults and a 2:1 randomized, controlled clinical study of adalimumab in 90 pediatric patients [see Clinical Studies (14.12)].
+The safety and effectiveness of AMJEVITA have not been established in pediatric patients with uveitis less than 2 years of age.
+
+Hidradenitis Suppurativa
+
+Use of AMJEVITA in pediatric patients 12 years of age and older for the treatment of moderate to severe HS is supported by evidence from adequate and well-controlled studies of adalimumab in adult HS patients.
+Additional population pharmacokinetic modeling and simulation predicted that weight-based dosing of adalimumab in pediatric patients 12 years of age and older can provide generally similar exposure to adult HS patients.
+The course of HS is sufficiently similar in adult and adolescent patients to allow extrapolation of data from adult to adolescent patients.
+The recommended dosage in pediatric patients 12 years of age or older is based on body weight [see Dosage and Administration (2.6), Clinical Pharmacology (12.3), and Clinical Studies (14.10)].
+
+The safety and effectiveness of AMJEVITA have not been established in patients less than 12 years of age with HS.
 
 ## 8.5 Geriatric Use
 
-A total of 519 RA patients 65 years of age and older, including 107 patients 75 years of age and older, received adalimumab in clinical studies RA-I through IV.
-No overall difference in effectiveness was observed between these patients and younger patients.
-The frequency of serious infection and malignancy among adalimumab treated patients 65 years of age and older was higher than for those less than 65 years of age.
+In clinical studies of RA (Studies RA-I, RA-II, RA-III, and RA-IV), a total of 519 subjects 65 years of age and older, including 107 subjects 75 years of age and older, received adalimumab.
+No overall difference in effectiveness was observed between these subjects and younger adult subjects.
+
+The frequency of serious infection and malignancy among adalimumab-treated subjects 65 years of age and older was higher than for those less than 65 years of age.
 Consider the benefits and risks of AMJEVITA in patients 65 years of age and older.
 In patients treated with AMJEVITA, closely monitor for the development of infection or malignancy [see Warnings and Precautions (5.1, 5.2)].

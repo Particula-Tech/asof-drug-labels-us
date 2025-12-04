@@ -1,8 +1,9 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-AMJEVITA ®(adalimumab-atto) injection is supplied as a preservative-free, sterile, clear, colorless to slightly yellow solution for subcutaneous administration.
+AMJEVITA® (adalimumab-atto) injection is supplied as a preservative-free, sterile, clear, colorless to slightly yellow solution for subcutaneous administration.
 AMJEVITA is supplied in a single-dose prefilled syringe (PFS) or single-dose prefilled SureClick autoinjector (AI).
 The AMJEVITA prefilled syringe and prefilled SureClick autoinjector are not made with natural rubber latex.
+
 The following packaging configurations are available.
 
 | Presentation | Number of Units/Pack | NDC number |

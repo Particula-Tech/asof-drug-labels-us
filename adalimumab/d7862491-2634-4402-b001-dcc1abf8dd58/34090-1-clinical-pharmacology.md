@@ -3,7 +3,7 @@
 ## 12.1 Mechanism of Action
 
 Adalimumab products bind specifically to TNF-alpha and block its interaction with the p55 and p75 cell surface TNF receptors.
-Adalimumab products also lyse surface TNF expressing cells in vitroin the presence of complement.
+Adalimumab products also lyse surface TNF expressing cells in vitro in the presence of complement.
 Adalimumab products do not bind or inactivate lymphotoxin (TNF-beta).
 TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses.
 Elevated concentrations of TNF are found in the synovial fluid of patients with RA, JIA, PsA, and AS and play an important role in both the pathologic inflammation and the joint destruction that are hallmarks of these diseases.
@@ -11,7 +11,7 @@ Increased concentrations of TNF are also found in psoriasis plaques.
 In Ps, treatment with AMJEVITA may reduce the epidermal thickness and infiltration of inflammatory cells.
 The relationship between these pharmacodynamic activities and the mechanism(s) by which adalimumab products exert their clinical effects is unknown.
 
-Adalimumab products also modulate biological responses that are induced or regulated by TNF, including changes in the concentrations of adhesion molecules responsible for leukocyte migration (ELAM-1, VCAM-1, and ICAM-1 with an IC 50of 1-2 × 10 -10M).
+Adalimumab products also modulate biological responses that are induced or regulated by TNF, including changes in the concentrations of adhesion molecules responsible for leukocyte migration (ELAM-1, VCAM-1, and ICAM-1 with an IC50 of 1-2 × 10-10M).
 
 ## 12.2 Pharmacodynamics
 
@@ -35,7 +35,7 @@ The mean time to reach the maximum concentration was 5.5 days (131 ± 56 hours) 
 
 Distribution
 
-The distribution volume (V ss) ranged from 4.7 to 6.0 L following intravenous administration of doses ranging from 0.25 to 10 mg/kg in RA patients.
+The distribution volume (Vss) ranged from 4.7 to 6.0 L following intravenous administration of doses ranging from 0.25 to 10 mg/kg in RA patients.
 
 Elimination
 
@@ -45,23 +45,23 @@ In long-term studies with dosing more than two years, there was no evidence of c
 
 Patient Population
 
-Rheumatoid Arthritis and Ankylosing Spondylitis:In patients receiving 40 mg adalimumab every other week, adalimumab mean steady-state trough concentrations were approximately 5 mcg/mL and 8 to 9 mcg/mL, without and with MTX concomitant treatment, respectively.
+Rheumatoid Arthritis and Ankylosing Spondylitis: In patients receiving 40 mg adalimumab every other week, adalimumab mean steady-state trough concentrations were approximately 5 mcg/mL and 8 to 9 mcg/mL, without and with MTX concomitant treatment, respectively.
 Adalimumab concentrations in the synovial fluid from five rheumatoid arthritis patients ranged from 31 to 96% of those in serum.
 The pharmacokinetics of adalimumab in patients with AS were similar to those in patients with RA.
 
-Psoriatic Arthritis:In patients receiving 40 mg every other week, adalimumab mean steady-state trough concentrations were 6 to 10 mcg/mL and 8.5 to 12 mcg/mL, without and with MTX concomitant treatment, respectively.
+Psoriatic Arthritis: In patients receiving 40 mg every other week, adalimumab mean steady-state trough concentrations were 6 to 10 mcg/mL and 8.5 to 12 mcg/mL, without and with MTX concomitant treatment, respectively.
 
-Plaque Psoriasis:Adalimumab mean steady-state trough concentration was approximately 5 to 6 mcg/mL during adalimumab 40 mg every other week treatment.
+Plaque Psoriasis: Adalimumab mean steady-state trough concentration was approximately 5 to 6 mcg/mL during adalimumab 40 mg every other week treatment.
 
-Adult Uveitis:Adalimumab mean steady concentration was approximately 8 to 10 mcg/mL during adalimumab 40 mg every other week treatment.
+Adult Uveitis: Adalimumab mean steady concentration was approximately 8 to 10 mcg/mL during adalimumab 40 mg every other week treatment.
 
-Adult Hidradenitis Suppurativa:Adalimumab trough concentrations were approximately 7 to 8 mcg/mL at Week 2 and Week 4, respectively, after receiving 160 mg on Week 0 followed by 80 mg on Week 2.
+Adult Hidradenitis Suppurativa: Adalimumab trough concentrations were approximately 7 to 8 mcg/mL at Week 2 and Week 4, respectively, after receiving 160 mg on Week 0 followed by 80 mg on Week 2.
 Mean steady-state trough concentrations at Week 12 through Week 36 were approximately 7 to 11 mcg/mL during adalimumab 40 mg every week treatment.
 
-Adult Crohn's Disease:Adalimumab mean trough concentrations were approximately 12 mcg/mL at Week 2 and Week 4 after receiving 160 mg on Week 0 followed by 80 mg on Week 2.
+Adult Crohn's Disease: Adalimumab mean trough concentrations were approximately 12 mcg/mL at Week 2 and Week 4 after receiving 160 mg on Week 0 followed by 80 mg on Week 2.
 Mean steady-state trough concentrations were 7 mcg/mL at Week 24 and Week 56 during adalimumab 40 mg every other week treatment.
 
-Adult Ulcerative Colitis:Adalimumab mean trough concentrations were approximately 12 mcg/mL at Week 2 and Week 4 after receiving 160 mg on Week 0 followed by 80 mg on Week 2.
+Adult Ulcerative Colitis: Adalimumab mean trough concentrations were approximately 12 mcg/mL at Week 2 and Week 4 after receiving 160 mg on Week 0 followed by 80 mg on Week 2.
 Mean steady-state trough concentrations were approximately 8 mcg/mL and 15 mcg/mL at Week 52 after receiving a dose of adalimumab 40 mg every other week and 40 mg every week, respectively.
 
 Anti-Drug Antibody Effects on Pharmacokinetics
@@ -73,25 +73,27 @@ In general, the extent of reduction in serum adalimumab concentrations is greate
 
 Specific Populations
 
-Geriatric Patients:A lower clearance with increasing age was observed in patients with RA aged 40 to > 75 years.
+Geriatric Patients: A lower clearance with increasing age was observed in patients with RA aged 40 to > 75 years.
 
 Pediatric Patients:
 
 Juvenile Idiopathic Arthritis:
 
-- 4 years to 17 years of age:The adalimumab mean steady-state trough concentrations were 6.8 mcg/mL and 10.9 mcg/mL in patients weighing < 30 kg receiving 20 mg adalimumab subcutaneously every other week as monotherapy or with concomitant MTX, respectively.
+- 4 years to 17 years of age: The adalimumab mean steady-state trough concentrations were 6.8 mcg/mL and 10.9 mcg/mL in patients weighing < 30 kg receiving 20 mg adalimumab subcutaneously every other week as monotherapy or with concomitant MTX, respectively.
   The adalimumab mean steady-state trough concentrations were 6.6 mcg/mL and 8.1 mcg/mL in patients weighing ≥ 30 kg receiving 40 mg adalimumab subcutaneously every other week as monotherapy or with MTX concomitant treatment, respectively.
-- 2 years to < 4 years of age or 4 years of age and older weighing < 15 kg:The adalimumab mean steady-state trough adalimumab concentrations were 6.0 mcg/mL and 7.9 mcg/mL in patients receiving adalimumab subcutaneously every other week as monotherapy or with MTX concomitant treatment, respectively.
+- 2 years to < 4 years of age or 4 years of age and older weighing < 15 kg: The adalimumab mean steady-state trough adalimumab concentrations were 6.0 mcg/mL and 7.9 mcg/mL in patients receiving adalimumab subcutaneously every other week as monotherapy or with MTX concomitant treatment, respectively.
 
-Pediatric Crohn's Disease:Adalimumab mean ± SD concentrations were 15.7±6.5 mcg/mL at Week 4 following 160 mg at Week 0 and 80 mg at Week 2, and 10.5±6.0 mcg/mL at Week 52 following 40 mg every other week dosing in patients weighing ≥ 40 kg.
+Pediatric Hidradenitis Suppurativa: Adalimumab concentrations in adolescent patients with HS receiving the recommended dosage regimens are predicted to be similar to those observed in adult subjects with HS based on population pharmacokinetic modeling and simulation.
+
+Pediatric Crohn's Disease: Adalimumab mean ± SD concentrations were 15.7±6.5 mcg/mL at Week 4 following 160 mg at Week 0 and 80 mg at Week 2, and 10.5±6.0 mcg/mL at Week 52 following 40 mg every other week dosing in patients weighing ≥ 40 kg.
 Adalimumab mean ± SD concentrations were 10.6±6.1 mcg/mL at Week 4 following dosing 80 mg at Week 0 and 40 mg at Week 2, and 6.9±3.6 mcg/mL at Week 52 following 20 mg every other week dosing in patients weighing < 40 kg.
 
-Male and Female Patients:No gender-related pharmacokinetic differences were observed after correction for a patient's body weight.
+Male and Female Patients: No gender-related pharmacokinetic differences were observed after correction for a patient's body weight.
 Healthy subjects and patients with rheumatoid arthritis displayed similar adalimumab pharmacokinetics.
 
-Patients with Renal or Hepatic Impairment:No pharmacokinetic data are available in patients with hepatic or renal impairment.
+Patients with Renal or Hepatic Impairment: No pharmacokinetic data are available in patients with hepatic or renal impairment.
 
-Rheumatoid factor or CRP concentrations:Minor increases in apparent clearance were predicted in RA patients receiving doses lower than the recommended dose and in RA patients with high rheumatoid factor or CRP concentrations.
+Rheumatoid factor or CRP concentrations: Minor increases in apparent clearance were predicted in RA patients receiving doses lower than the recommended dose and in RA patients with high rheumatoid factor or CRP concentrations.
 These increases are not likely to be clinically important.
 
 Drug Interaction Studies:
