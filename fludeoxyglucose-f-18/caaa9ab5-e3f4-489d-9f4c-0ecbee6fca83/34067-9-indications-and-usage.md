@@ -1,4 +1,4 @@
-# 1 INDICATIONS AND USAGE
+# 1INDICATIONS AND USAGE
 
 Fludeoxyglucose F 18 Injection is indicated for positron emission tomography (PET) imaging in the following settings:
 
