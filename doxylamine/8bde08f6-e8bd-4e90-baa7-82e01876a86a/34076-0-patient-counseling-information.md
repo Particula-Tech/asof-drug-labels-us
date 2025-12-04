@@ -12,7 +12,7 @@ Inform women of the importance of not taking DICLEGIS with alcohol or sedating m
 
 Inform women that use of DICLEGIS may result in false positive urine drug screening for methadone, opiates and PCP.
 
-DICLEGIS ®is a registered trademark of Duchesnay Inc.
+DICLEGIS® is a registered trademark of Duchesnay Inc.
 
 U.S. Patent Nos. 6,340,695 & 7,560,122.
 

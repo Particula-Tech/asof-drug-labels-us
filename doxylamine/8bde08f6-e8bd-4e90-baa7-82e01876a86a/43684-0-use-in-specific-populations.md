@@ -23,7 +23,7 @@ A second meta-analysis of 12 cohort and 5 case-control studies published between
 Women should not breastfeed while using DICLEGIS.
 
 The molecular weight of doxylamine succinate is low enough that passage into breast milk can be expected.
-Excitement, irritability and sedation have been reported in nursing infants presumably exposed to doxylamine succinate through breast milk.
+Excitement, irritability and sedationhave been reported in nursing infants presumably exposed to doxylamine succinate through breast milk.
 Infants with apnea or other respiratory syndromes may be particularly vulnerable to the sedative effects of DICLEGIS resulting in worsening of their apnea or respiratory conditions.
 
 Pyridoxine hydrochloride is excreted into breast milk.
