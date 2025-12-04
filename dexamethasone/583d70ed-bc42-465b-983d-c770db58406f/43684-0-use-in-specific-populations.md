@@ -14,9 +14,9 @@ Data
 Animal Data
 
 Topical ocular administration of 0.15% dexamethasone (0.75 mg/kg/day) on gestational days 10 to 13 produced embryofetal lethality and a high incidence of cleft palate in mice.
-A dose of 0.75 mg/kg/day in the mouse is approximately 7-times the injected RHOD of DEXYCU, on a mg/m2 basis.
+A dose of 0.75 mg/kg/day in the mouse is approximately 7-times the injected RHOD of DEXYCU, on a mg/m 2basis.
 In rabbits, topical ocular administration of 0.1% dexamethasone throughout organogenesis (0.20 mg/kg/day on gestational day 6, followed by 0.13 mg/kg/day on gestational days 7 – 18) produced intestinal anomalies, intestinal aplasia, gastroschisis and hypoplastic kidneys.
-A dose of 0.13 mg/kg/day in the rabbit is approximately 5-times the injected RHOD of DEXYCU, on a mg/m2 basis.
+A dose of 0.13 mg/kg/day in the rabbit is approximately 5-times the injected RHOD of DEXYCU, on a mg/m 2basis.
 A no-observed-adverse-effect-level (NOAEL) was not identified in the mouse or rabbit studies.
 
 ## 8.2 Lactation
