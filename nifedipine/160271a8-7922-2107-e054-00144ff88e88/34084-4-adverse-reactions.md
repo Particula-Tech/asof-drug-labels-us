@@ -103,4 +103,4 @@ In post-marketing experience, there have been rare reports of exfoliative dermat
 There have been rare reports of exfoliative or bullous skin adverse events (such as erythema multiforme, Stevens-Johnson Syndrome, and toxic epidermal necrolysis) and photosensitivity reactions.
 Acute generalized exanthematous pustulosis also has been reported.
 
-To report SUSPECTED ADVERSE REACTIONS, contact TWi Pharmaceuticals, Inc. at 1-844-518-2989 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Upsher-Smith Laboratories, LLC at 1-855-899-9180 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

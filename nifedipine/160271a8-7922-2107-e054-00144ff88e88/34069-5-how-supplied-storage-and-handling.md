@@ -21,19 +21,8 @@ Bottles of 300: (NDC 24979-009-12)
 Store at 20° to 25°C (68° to 77°F).
 [see USP Controlled Room Temperature] Protect from moisture and humidity.
 
-Manufactured for:
+Distributed by UPSHER-SMITH LABORATORIES, LLC Maple Grove, MN 55369
 
-TWi Pharmaceuticals USA, Inc.
+Made in Taiwan
 
-Paramus, NJ 07652
-
-Manufactured by:
-
-TWi Pharmaceuticals, Inc.
-
-Taoyuan City, 32063, Taiwan
-
-LA-3039-01
-
-Rev.
-04/2021
+LA‑3039‑02 Revised: 8/2025
