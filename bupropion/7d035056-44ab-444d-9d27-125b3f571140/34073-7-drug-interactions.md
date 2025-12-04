@@ -1,5 +1,7 @@
 # 7 DRUG INTERACTIONS
 
+.
+
 ## 7.1 Potential for Other Drugs to Affect Bupropion Hydrochloride Tablets
 
 Bupropion is primarily metabolized to hydroxybupropion by CYP2B6.

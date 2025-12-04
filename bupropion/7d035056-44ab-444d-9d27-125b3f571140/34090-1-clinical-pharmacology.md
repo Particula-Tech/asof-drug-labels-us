@@ -1,5 +1,7 @@
 # 12 CLINICAL PHARMACOLOGY
 
+.
+
 ## 12.1 Mechanism of Action
 
 The exact mechanism of the antidepressant action of bupropion is not known but is presumed to be related to noradrenergic and/or dopaminergic mechanisms.
@@ -67,7 +69,7 @@ Pharmacokinetics of Bupropion and Metabolites in Patients with Severe Hepatic Ci
 | Hydroxybupropion | 0.31 | 1.28 | 3.88 | 19 h |
 | Threo/erythrohydrobupropion amino alcohol | 0.69 | 2.48 | 1.96 | 20 h |
 
-a= Difference.
+a = Difference.
 
 Patients with Left Ventricular Dysfunction: During a chronic dosing trial with bupropion in 14 depressed subjects with left ventricular dysfunction (history of CHF or an enlarged heart on x-ray), there was no apparent effect on the pharmacokinetics of bupropion or its metabolites, compared with healthy volunteers.
 

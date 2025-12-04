@@ -1,5 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
+.
+
 ## 2.1 General Instructions for Use
 
 To minimize the risk of seizure, increase the dose gradually [see Warnings and Precautions (5.3)].

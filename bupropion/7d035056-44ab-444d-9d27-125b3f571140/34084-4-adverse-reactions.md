@@ -37,11 +37,11 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Syncope | 1.2 | 0.5 |
 | Tachycardia | 10.8 | 8.6 |
 | Dermatologic |  |  |
-| Pruritus | 2.2 | 0.0 |
-| Rash | 8.0 | 6.5 |
+| Pruritus | 2.2 | 0 |
+| Rash | 8 | 6.5 |
 | Gastrointestinal |  |  |
 | Appetite increase | 3.7 | 2.2 |
-| Constipation | 26.0 | 17.3 |
+| Constipation | 26 | 17.3 |
 | Dyspepsia | 3.1 | 2.2 |
 | Nausea/vomiting | 22.9 | 18.9 |
 | Genitourinary |  |  |
@@ -59,7 +59,7 @@ Adverse Reactions Reported by at Least 1% of Subjects and at a Greater Frequency
 | Impaired sleep quality | 4.0 | 1.6 |
 | Insomnia | 18.6 | 15.7 |
 | Sedation | 19.8 | 19.5 |
-| Sensory disturbance | 4.0 | 3.2 |
+| Sensory disturbance | 4 | 3.2 |
 | Tremor | 21.1 | 7.6 |
 | Neuropsychiatric |  |  |
 | Agitation | 31.9 | 22.2 |
@@ -129,7 +129,7 @@ Altered PT and/or INR, infrequently associated with hemorrhagic or thrombotic co
 
 Musculoskeletal Muscle rigidity/fever/rhabdomyolysis, muscle weakness.
 
-Nervous System Aggression, coma, completed suicide, delirium, dream abnormalities, paranoid ideation, paresthesia, parkinsonism, restlessness, suicide attempt, unmasking of tardive dyskinesia.
+Nervous System Aggression, coma, completed suicide, delirium, dream abnormalities, paranoid ideation, paresthesia, parkinsonism, restlessness, suicide attempt, unmasking of tardive dyskinesia and aseptic meningitis.
 
 Skin and Subcutaneous Tissue Disorder Stevens-Johnson syndrome, angioedema, exfoliative dermatitis, urticaria, acute generalized exanthematous pustulosis, and drug reaction with eosinophilia and systemic symptoms (DRESS).
 

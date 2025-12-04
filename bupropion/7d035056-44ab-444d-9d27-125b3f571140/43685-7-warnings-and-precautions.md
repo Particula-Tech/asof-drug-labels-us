@@ -1,5 +1,7 @@
 # 5 WARNINGS AND PRECAUTIONS
 
+.
+
 ## 5.1 Suicidal Thoughts and Behaviors in Children, Adolescents, and Young Adults
 
 Patients with MDD, both adult and pediatric, may experience worsening of their depression and/or the emergence of suicidal ideation and behavior (suicidality) or unusual changes in behavior, whether or not they are taking antidepressant medications, and this risk may persist until significant remission occurs.
@@ -49,7 +51,7 @@ Prescriptions for bupropion hydrochloride tablets should be written for the smal
 
 Bupropion hydrochloride tablets are not approved for smoking cessation treatment; however, it contains the same active ingredient as the smoking cessation medication ZYBAN ®.
 Serious neuropsychiatric adverse events have been reported in patients taking bupropion for smoking cessation.
-These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Adverse Reactions(6.2)].
+These postmarketing reports have included changes in mood (including depression and mania), psychosis, hallucinations, paranoia, delusions, homicidal ideation, aggression, hostility, agitation, anxiety, and panic, as well as suicidal ideation, suicide attempt, and completed suicide [see Adverse Reactions (6.2)].
 Some patients who stopped smoking may have been experiencing symptoms of nicotine withdrawal, including depressed mood.
 Depression, rarely including suicidal ideation, has been reported in smokers undergoing a smoking cessation attempt without medication.
 However, some of these adverse events occurred in patients taking bupropion who continued to smoke.

@@ -59,7 +59,7 @@ Talk to your healthcare provider or your family member’s healthcare provider a
 - all risks and benefits of quit-smoking medicines.
 - all treatment choices for quitting smoking.
 
-When you try to quit smoking, with or without bupropion, you may have symptoms that may be due to nicotine withdrawal, including
+When you try to quit smoking, with or without bupropion, you may have symptoms that may be due to nicotine withdrawal, including:
 
 | urge to smokedepressed moodtrouble sleepingirritability | frustrationangerfeeling anxiousdifficulty concentrating | restlessnessdecreased heart rateincreased appetiteweight gain |
 | --- | --- | --- |
@@ -269,6 +269,6 @@ APOTEX INC. BUPROPION HYDROCHLORIDE TABLETS, USP 75 mg and 100 mg
 | Toronto, Ontario |  |
 | Canada M9L 1T9For BluePoint Laboratories |  |
 
-Revised: 05/2024
+Revised: August 2025
 
-Revision No.: 22
+Revision No.: 23
