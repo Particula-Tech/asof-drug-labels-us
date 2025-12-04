@@ -9,4 +9,4 @@ Distributed by Pharmacia & Upjohn Company LLC A subsidiary of Pfizer Inc. New Yo
 
 PREMIERProRx® is a registered trademark of Premier Healthcare Alliance, L.P., used under license.
 
-LAB-1161-8.0 Revised July 2025
+LAB-1161-9.0 Revised November 2025

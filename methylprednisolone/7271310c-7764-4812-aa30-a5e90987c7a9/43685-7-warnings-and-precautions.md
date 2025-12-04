@@ -281,7 +281,7 @@ Infants born to mothers who have received corticosteroids during pregnancy shoul
 This product contains benzyl alcohol as a preservative.
 
 Benzyl alcohol can cross the placenta.
-See PRECAUTIONS: Pediatric Use.
+See PRECAUTIONS: Pediatric use.
 
 ## Nursing Mothers
 
