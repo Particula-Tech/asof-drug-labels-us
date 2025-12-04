@@ -14,9 +14,9 @@ Subcutaneous Pediatric Dosage Regimen
 
 Administer Ustekinumab-aekn subcutaneously at Weeks 0 and 4, then every 12 weeks thereafter.
 
-The recommended dose of Ustekinumab-aekn for pediatric patients (6 to 17 years old) with plaque psoriasis based on body weight is shown below (Table 1).
+The recommended dose of Ustekinumab-aekn for pediatric patients 6 years of age and older with plaque psoriasis based on body weight is shown below (Table 1).
 
-Table 1: Recommended Dose of Ustekinumab-aekn for Subcutaneous Injection in Pediatric Patients (6 to 17 years old) with Plaque Psoriasis
+Table 1: Recommended Dose of Ustekinumab-aekn for Subcutaneous Injection in Pediatric Patients 6 Years of Age and Older With Plaque Psoriasis
 
 | Body Weight of Patient at the Time of Dosing | Recommended Dose |
 | --- | --- |
@@ -24,26 +24,26 @@ Table 1: Recommended Dose of Ustekinumab-aekn for Subcutaneous Injection in Pedi
 | 60 kg to 100 kg | 45 mg |
 | more than 100 kg | 90 mg |
 
-For pediatric patients weighing less than 60 kg, the administration volume for the recommended dose (0.75 mg/kg) is shown in Table 2; withdraw the appropriate volume from the single-dose vial.
+For pediatric patients weighing less than 60 kg, the administration volume for the recommended dose (0.75 mg/kg) is shown in Table 2; withdraw the appropriate volume from the vial.
 
-Table 2: Injection volumes of Ustekinumab-aekn 45 mg/0.5 mL single-dose vials for pediatric patients (6 to 17 years old) with plaque psoriasis and pediatric patients (6 to 17 years old) with psoriatic arthritis* weighing less than 60 kg
+Table 2: Injection volumes of Ustekinumab-aekn 45 mg/0.5 mL Vials for Pediatric Patients 6 Years of Age and Older With Plaque Psoriasis and Pediatric Patients 6 Years of Age and Older With Psoriatic Arthritis* Weighing Less Than 60 kg
 
 | Body Weight (kg) at the time of dosing | Dose (mg) | Volume of injection (mL) |
 | --- | --- | --- |
 | 15 | 11.3 | 0.12 |
-| 16 | 12.0 | 0.13 |
+| 16 | 12 | 0.13 |
 | 17 | 12.8 | 0.14 |
 | 18 | 13.5 | 0.15 |
 | 19 | 14.3 | 0.16 |
-| 20 | 15.0 | 0.17 |
+| 20 | 15 | 0.17 |
 | 21 | 15.8 | 0.17 |
 | 22 | 16.5 | 0.18 |
 | 23 | 17.3 | 0.19 |
-| 24 | 18.0 | 0.20 |
+| 24 | 18 | 0.20 |
 | 25 | 18.8 | 0.21 |
 | 26 | 19.5 | 0.22 |
 | 27 | 20.3 | 0.22 |
-| 28 | 21.0 | 0.23 |
+| 28 | 21 | 0.23 |
 | 29 | 21.8 | 0.24 |
 | 30 | 22.5 | 0.25 |
 | 31 | 23.3 | 0.26 |
@@ -88,16 +88,16 @@ Subcutaneous Pediatric Dosage Regimen
 
 Administer Ustekinumab-aekn subcutaneously at Weeks 0 and 4, then every 12 weeks thereafter.
 
-The recommended dose of Ustekinumab-aekn for pediatric patients (6 to 17 years old) with psoriatic arthritis, based on body weight, is shown below (Table 3).
+The recommended dose of Ustekinumab-aekn for pediatric patients 6 years of age and older with psoriatic arthritis, based on body weight, is shown below (Table 3).
 
-Table 3: Recommended Dose of Ustekinumab-aekn for Subcutaneous Injection in Pediatric Patients (6 to 17 years old) with Psoriatic Arthritis
+Table 3: Recommended Dose of Ustekinumab-aekn for Subcutaneous Injection in Pediatric Patients 6 Years of Age and Older With Psoriatic Arthritis
 
 | Body Weight of Patient at the Time of Dosing | Recommended Dose |
 | --- | --- |
-| Less than 60 kg* | 0.75 mg/kg |
+| less than 60 kg* | 0.75 mg/kg |
 | 60 kg or more | 45 mg |
 | greater than 100 kg with co-existent moderate-to-severe plaque psoriasis | 90 mg |
-| * For pediatric patients weighing less than 60 kg, the administration volume for the recommended dose (0.75 mg/kg) is shown in Table 2; withdraw the appropriate volume from the single-dose vial. |  |
+| * For pediatric patients weighing less than 60 kg, the administration volume for the recommended dose (0.75 mg/kg) is shown in Table 2; withdraw the appropriate volume from the vial. |  |
 
 ## 2.3 Recommended Dosage in Crohn’s Disease and Ulcerative Colitis
 
@@ -105,7 +105,7 @@ Intravenous Induction Adult Dosage Regimen
 
 A single intravenous infusion dose of Ustekinumab-aekn using the weight-based dosage regimen specified in Table 4
 
-[see Instructions for dilution of Ustekinumab-aekn 130 mg vial for intravenous infusion (2.6)].
+[see Instructions for dilution of Ustekinumab-aekn 130 mg vial for intravenous infusion (2.5)].
 
 Table 4: Initial Intravenous Dosage of Ustekinumab-aekn
 
@@ -126,35 +126,16 @@ The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 w
   The appropriate dose should be determined by a healthcare provider using the patient’s current weight at the time of dosing.
   In pediatric patients, it is recommended that Ustekinumab-aekn be administered by a healthcare provider.
   If a healthcare provider determines that it is appropriate, a patient may self-inject or a caregiver may inject Ustekinumab-aekn after proper training in subcutaneous injection technique.
-  Instruct patients to follow the directions provided in the Medication Guide [see Medication Guide].
+  Instruct patients to follow the directions provided in the Instructions for Use [see Instructions for Use].
 - Not made with natural rubber latex.
 - It is recommended that each injection be administered at a different anatomic location (such as upper arms, gluteal regions, thighs, or any quadrant of abdomen) than the previous injection, and not into areas where the skin is tender, bruised, erythematous, or indurated.
-  When using the single-dose vial, a 1 mL syringe with a 27-gauge, 1/2 inch needle is recommended.
+  When using the vial, a 1 mL syringe with a 27-gauge, 1/2 inch needle is recommended.
 - Prior to administration, visually inspect Ustekinumab-aekn for particulate matter and discoloration.
   Ustekinumab-aekn is a clear and colorless to slightly yellow solution and free of visible particles.
   Do not use Ustekinumab-aekn if it is discolored or cloudy, or if other particulate matter is present.
   Ustekinumab-aekn does not contain preservatives; therefore, discard any unused product remaining in the vial and/or syringe.
 
-## 2.5 Instructions for Administration of Ustekinumab-aekn Prefilled Syringes Equipped with Passive Safety Device
-
-Refer to the diagram below for the provided instructions.
-
-- Hold the SYRINGE BODY and remove the NEEDLE COVER.
-  Do not hold the PLUNGER or PLUNGER HEAD while removing the NEEDLE COVER or the PLUNGER may move.
-  Do not use the prefilled syringe if it is dropped without the NEEDLE COVER in place.
-
-- Inject Ustekinumab-aekn subcutaneously as recommended [see Dosage and Administration (2.1, 2.2, 2.3)].
-
-- Inject all of the medication by pushing in the PLUNGER HEAD all the way in until the plunger head is completely between the needle guard activation clips.
-  Injection of the entire prefilled syringe contents is necessary to activate the passive safety device guard.
-
-- After injection, maintain the pressure on the PLUNGER HEAD and remove the needle from the skin.
-  Slowly take your thumb off the PLUNGER HEAD.
-  The PLUNGER will move up with your thumb and retract the needle into the needle guard, as shown by the illustration below:
-
-- Used syringes should be placed in a puncture-resistant container.
-
-## 2.6 Preparation and Administration of Ustekinumab-aekn 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn’s Disease and Ulcerative Colitis)
+## 2.5 Preparation and Administration of Ustekinumab-aekn 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn’s Disease and Ulcerative Colitis)
 
 Ustekinumab-aekn solution for intravenous infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
 

@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Adult Plaque Psoriasis
+## 14.1 Adult Subjects with Plaque Psoriasis
 
 Two multicenter, randomized, double-blind, placebo-controlled trials (Ps STUDY 1 and Ps STUDY 2) enrolled a total of 1996 subjects 18 years of age and older with plaque psoriasis who had a minimum body surface area involvement of 10%, and Psoriasis Area and Severity Index (PASI) score ≥12, and who were candidates for phototherapy or systemic therapy.
 Subjects with guttate, erythrodermic, or pustular psoriasis were excluded from the trials.
@@ -23,7 +23,7 @@ Clinical Response
 
 The results of Ps STUDY 1 and Ps STUDY 2 are presented in Table 8 below.
 
-Table 8: Clinical Outcomes at Week 12 in Adults with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
+Table 8: Clinical Outcomes at Week 12 in Adult Subjects with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
 
 |  |  | Ps STUDY 1 |  |  | Ps STUDY 2 |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -37,7 +37,7 @@ Examination of age, gender, and race subgroups did not identify differences in r
 
 In subjects who weighed 100 kg or less, response rates were comparable with both the 45 mg and 90 mg doses; however, in subjects who weighed greater than 100 kg, higher response rates were seen with 90 mg dosing compared with 45 mg dosing (Table 9 below).
 
-Table 9: Clinical Outcomes by Weight at Week 12 in Adults with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
+Table 9: Clinical Outcomes by Weight at Week 12 in Adult Subjects with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
 
 |  | Ps STUDY 1 |  |  | Ps STUDY 2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -60,9 +60,9 @@ Subjects in Ps STUDY 1 who were PASI 75 responders at both Weeks 28 and 40 were 
 At Week 52, 89% (144/162) of subjects re-randomized to ustekinumab treatment were PASI 75 responders compared with 63% (100/159) of subjects re-randomized to placebo (treatment withdrawal after Week 28 dose).
 The median time to loss of PASI 75 response among the subjects randomized to treatment withdrawal was 16 weeks.
 
-## 14.2 Pediatric Plaque Psoriasis
+## 14.2 Pediatric Subjects with Plaque Psoriasis
 
-A multicenter, randomized, double blind, placebo-controlled trial (Ps STUDY 3) enrolled 110 pediatric subjects 12 to 17 years of age with a minimum BSA involvement of 10%, a PASI score greater than or equal to 12, and a PGA score greater than or equal to 3, who were candidates for phototherapy or systemic therapy and whose disease was inadequately controlled by topical therapy.
+A multicenter, randomized, double blind, placebo-controlled trial (Ps STUDY 3) enrolled 110 pediatric subjects 12 years of age and older with a minimum BSA involvement of 10%, a PASI score greater than or equal to 12, and a PGA score greater than or equal to 3, who were candidates for phototherapy or systemic therapy and whose disease was inadequately controlled by topical therapy.
 
 Subjects were randomized to receive placebo (n = 37), the recommended dose of ustekinumab (n = 36), or one-half the recommended dose of ustekinumab (n = 37) by subcutaneous injection at Weeks 0 and 4 followed by dosing every 12 weeks (q12w).
 The recommended dose of ustekinumab was 0.75 mg/kg for subjects weighing less than 60 kg, 45 mg for subjects weighing 60 kg to 100 kg, and 90 mg for subjects weighing greater than 100 kg.
@@ -75,7 +75,7 @@ Subjects were followed for up to 60 weeks following first administration of tria
 
 Clinical Response The efficacy results at Week 12 for Ps STUDY 3 are presented in Table 10.
 
-Table 10: Efficacy Results at Week 12 in Pediatric Subjects 12 to 17 years with Plaque Psoriasis in Ps STUDY 3
+Table 10: Efficacy Results at Week 12 in Pediatric Subjects 12 Years of Age and Older with Plaque Psoriasis in Ps STUDY 3
 
 |  | Ps STUDY 3 |  |
 | --- | --- | --- |
@@ -94,7 +94,7 @@ Table 10: Efficacy Results at Week 12 in Pediatric Subjects 12 to 17 years with 
 The safety and efficacy of ustekinumab was assessed in 927 subjects (PsA STUDY 1, n=615; PsA STUDY 2, n=312), in two randomized, double-blind, placebo-controlled trials in adult subjects 18 years of age and older with active PsA (≥5 swollen joints and ≥5 tender joints) despite nonsteroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy.
 Subjects in these trials had a diagnosis of PsA for at least 6 months.
 Subjects with each subtype of PsA were enrolled, including polyarticular arthritis with the absence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%).
-Over 70% and 40% of the subjects, respectively, had enthesitis and dactylitis at baseline.
+Over 70% and 40% of the patients, respectively, had enthesitis and dactylitis at baseline.
 
 Subjects were randomized to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing.
 Approximately 50% of subjects continued on stable doses of MTX (≤25 mg/week).
@@ -111,7 +111,7 @@ ACR 70 responses were also higher in the ustekinumab 45 mg and 90 mg groups, alt
 Responses were consistent in subjects treated with ustekinumab alone or in combination with methotrexate.
 Responses were similar in subjects regardless of prior TNFα exposure.
 
-Table 11: ACR 20, ACR 50, ACR 70 and PASI 75 responses in PsA STUDY 1 and PsA STUDY 2 at Week 24
+Table 11: ACR 20, ACR 50, ACR 70 and PASI 75 Responses In PsA STUDY 1 And PsA STUDY 2 At Week 24
 
 |  | PsA STUDY 1 |  |  | PsA STUDY 2 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -133,7 +133,7 @@ PsA STUDY 1
 
 The results of the components of the ACR response criteria are shown in Table 12.
 
-Table 12: Mean change from baseline in ACR components at Week 24
+Table 12: Mean Change From Baseline In ACR Components At Week 24
 
 |  |  | PsA STUDY 1 |  |
 | --- | --- | --- | --- |
@@ -170,7 +170,7 @@ An improvement in enthesitis and dactylitis scores was observed in each ustekinu
 
 Physical Function
 
-Ustekinumab-treated subjects showed improvement in physical function compared to subjects treated with placebo as assessed by HAQ-DI at Week 24.
+Ustekinumab-treated subjects showed improvement in physical function compared to subjects receiving placebo as assessed by HAQ-DI at Week 24.
 In both trials, the proportion of HAQ-DI responders (≥0.3 improvement in HAQ-DI score) was greater in the ustekinumab 45 mg and 90 mg groups compared to placebo at Week 24.
 
 ## 14.4 Crohn’s Disease
@@ -225,7 +225,7 @@ Trial CD-3
 The maintenance trial (CD-3), evaluated 388 subjects who achieved clinical response (≥100 point reduction in CDAI score) at Week 8 with either induction dose of ustekinumab in trials CD-1 or CD-2.
 Subjects were randomized to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks or placebo for 44 weeks (see Table 14).
 
-Table 14: Clinical Response and Remission in CD-3 (Week 44; 52 weeks from initiation of the induction dose)
+Table 14: Clinical Response and Remission In CD-3 (Week 44; 52 Weeks From Initiation Of The Induction Dose)
 
 |  |  | 90 mg Ustekinumab | Treatment |
 | --- | --- | --- | --- |
@@ -233,7 +233,7 @@ Table 14: Clinical Response and Remission in CD-3 (Week 44; 52 weeks from initia
 | N = 131† | N = 128† | 95% CI |  |
 | Clinical Remission | 47 (36%) | 68 (53%)a | 17% (5%, 29%) |
 | Clinical Response | 58 (44%) | 76 (59%)b | 15% (3%, 27%) |
-| Clinical Remission in subjects in remission at the start of maintenance therapy** | 36/79 (46%) | 52/78 (67%)a | 21% (6%, 36%) |
+| Clinical Remission in patients in remission at the start of maintenance therapy** | 36/79 (46%) | 52/78 (67%)a | 21% (6%, 36%) |
 | Clinical remission is defined as CDAI score < 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission |  |  |  |
 | * The placebo group consisted of subjects who were in response to ustekinumab and were randomized to receive placebo at the start of maintenance therapy.** Subjects in remission at the end of maintenance therapy who were in remission at the start of maintenance therapy. This does not account for any other time point during maintenance therapy.† Subjects who achieved clinical response to ustekinumab at the end of the induction trial.a p < 0.01b 0.01≤ p < 0.05 |  |  |  |
 

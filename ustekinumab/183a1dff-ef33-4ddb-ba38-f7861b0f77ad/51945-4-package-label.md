@@ -34,7 +34,7 @@ Single-Dose Prefilled Syringe Discard Unused Portion
 
 Contains one 90 mg/mL syringe
 
-# PACKAGE.LABEL.PRINCIPLE DISPLAY PANEL
+# PACKAGE.LABEL.PRINCIPAL DISPLAY PANEL
 
 NDC 51759-711-13
 
@@ -54,7 +54,7 @@ ATTENTION PHARMACIST: Each patient is required to receive the enclosed Medicatio
 
 Contains One Single-Dose Vial Discard Unused Portion
 
-# PACKAGE.LABEL.PRINCIPLE DISPLAY PANEL
+# PACKAGE.LABEL.PRINCIPAL DISPLAY PANEL
 
 NDC 51759-709-13
 

@@ -26,14 +26,19 @@ Single-dose Vial
 
 Storage and Stability
 
-Store Ustekinumab-aekn vials and prefilled syringes refrigerated between 2°C to 8°C (36°F to 46°F).
+Store Ustekinumab-aekn vials and prefilled syringes refrigerated between 36°F to 46°F (2°C to 8°C).
 Store Ustekinumab-aekn vials upright.
 Keep the product in the original carton to protect from light until the time of use.
 Do not freeze.
 Do not shake.
 
-If needed, individual prefilled syringes may be stored at room temperature up to 30°C (86°F) for a maximum single period of up to 30 days in the original carton to protect from light.
+If needed, individual prefilled syringes may be stored at room temperature up to 86°F (30°C) for a maximum single period of up to 30 days in the original carton to protect from light.
 Record the date when the prefilled syringe is first removed from the refrigerator on the carton in the space provided.
 Once a syringe has been stored at room temperature, do not return to the refrigerator.
 Discard the syringe if not used within 30 days at room temperature storage.
 Do not use Ustekinumab-aekn after the expiration date on the carton or on the prefilled syringe.
+
+If needed, Ustekinumab-aekn 130 mg vials may be stored at room temperature up to 86°F (30°C) for a maximum single period of up to 7 days, in the original carton to protect from light.
+Once a vial has been stored at room temperature, do not return to the refrigerator.
+Discard the vial if not used within 7 days at room temperature storage.
+Do not use ustekinumab-aekn after the expiration date on the carton or on the vial.

@@ -6,7 +6,10 @@ Infections Inform patients that Ustekinumab-aekn may lower the ability of their 
 
 Malignancies Inform patients of the risk of developing malignancies while receiving Ustekinumab-aekn [see Warnings and Precautions (5.4)].
 
-Hypersensitivity Reactions Advise patients to seek immediate medical attention if they experience any signs or symptoms of serious hypersensitivity reactions and discontinue Ustekinumab-aekn [see Warnings and Precautions (5.5)].
+Serious Hypersensitivity and Reactions
+
+Inform patients that serious hypersensitivity reactions have been reported with intravenous and subcutaneous administration of ustekinumab products.
+Instruct patients to discontinue Ustekinumab-aekn and seek immediate medical attention if they experience any signs or symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
 
 Posterior Reversible Encephalopathy Syndrome (PRES) Inform patients to immediately contact their healthcare provider if they experience signs and symptoms of PRES (which may include headache, seizures, confusion, or visual disturbances) [see Warnings and Precautions (5.6)].
 
