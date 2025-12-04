@@ -6,36 +6,45 @@ Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have be
 These reactions are more likely to occur in individuals with a history of sensitivity to multiple allergens.
 
 There have been reports of individuals with a history of penicillin hypersensitivity who have experienced severe hypersensitivity reactions when treated with another β-lactam.
-Before initiating therapy with Meropenem for Injection, it is important to inquire aboutprevious hypersensitivity reactions to penicillins, cephalosporins, other β-lactams, and other allergens.
-If an allergic reaction to Meropenem for Injection occurs, discontinue the drug immediately.
-Serious anaphylactic reactions require immediate emergency treatment with epinephrine, oxygen, intravenous steroids, and airway management, including intubation.
-Other therapy may also be administered as indicated.
+Before initiating therapy with meropenem, it is important to inquire about previous hypersensitivity reactions to penicillins, cephalosporins, other β-lactams, and other allergens.
+If an allergic reaction to meropenem occurs, discontinue the drug immediately.
 
-## 5.2 Seizure Potential
+## 5.2 Severe Cutaneous Adverse Reactions
 
-Seizures and other adverse CNS experiences have been reported during treatment with Meropenem for Injection These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) or with bacterial meningitis and/or compromised renal function [see Adverse Reactions (6.1) and Drug Interactions (7.2)].
+Severe cutaneous adverse reactions (SCAR) such as Stevens-Johnson syndrome (SJS), toxic epidermal necrolysis (TEN), drug reaction with eosinophilia and systemic symptoms (DRESS), erythema multiforme (EM) and acute generalized exanthematous pustulosis (AGEP) have been reported in patients receiving meropenem [see Adverse Reactions (6.2)].
+If signs and symptoms suggestive of these reactions appear, meropenem should be withdrawn immediately and an alternative treatment should be considered.
+
+## 5.3 Rhabdomyolysis
+
+Rhabdomyolysis has been reported with the use of meropenem [see Adverse Reactions (6.2)].
+If signs or symptoms of rhabdomyolysis such as muscle pain, tenderness or weakness, dark urine or elevated creatine phosphokinase are observed, discontinue meropenem for injection and initiate appropriate therapy.
+
+## 5.4 Seizure Potential
+
+Seizures and other adverse CNS experiences have been reported during treatment with meropenem.
+These experiences have occurred most commonly in patients with CNS disorders (e.g., brain lesions or history of seizures) or with bacterial meningitis and/or compromised renal function [see Adverse Reactions (6.1)and Drug Interactions (7.2)].
 
 During clinical investigations, 2904 immunocompetent adult patients were treated for non-CNS infections with the overall seizure rate being 0.7% (based on 20 patients with this adverse event).
-All meropenem- treated patients with seizures had pre-existing contributing factors.
+All meropenem-treated patients with seizures had pre-existing contributing factors.
 Among these are included prior history of seizures or CNS abnormality and concomitant medications with seizure potential.
-Dosage adjustment is recommended in patients with advanced age and/or reduced renal function [see Dosage and Administration (2.2)].
+Dosage adjustment is recommended in patients with advanced age and/or adult patients with creatinine clearance of 50 mL/min or less [see Dosage and Administration (2.2)].
 
 Close adherence to the recommended dosage regimens is urged, especially in patients with known factors that predispose to convulsive activity.
 Continue anti-convulsant therapy in patients with known seizure disorders.
-If focal tremors, myoclonus, or seizures occur, evaluate neurologically, placed on anti-convulsant therapy if not already instituted, and the dosage of Meropenem for Injection re-examined to determine whether it should be decreased or the antibacterial drug discontinued.
+If focal tremors, myoclonus, or seizures occur, evaluate neurologically, placed on anti-convulsant therapy if not already instituted, and re-examine the dosage of meropenem to determine whether it should be decreased or discontinued.
 
-## 5.3 Interaction with Valproic Acid
+## 5.5 Risk of Breakthrough Seizures Due to Drug Interaction with Valproic Acid
 
+The concomitant use of meropenem and valproic acid or divalproex sodium is generally not recommended.
 Case reports in the literature have shown that co-administration of carbapenems, including meropenem, to patients receiving valproic acid or divalproex sodium results in a reduction in valproic acid concentrations.
 The valproic acid concentrations may drop below the therapeutic range as a result of this interaction, therefore increasing the risk of breakthrough seizures.
 Increasing the dose of valproic acid or divalproex sodium may not be sufficient to overcome this interaction.
-The concomitant use of meropenem and valproic acid or divalproex sodium is generally not recommended.
-Antibacterials other than carbapenems should be considered to treat infections in patients whose seizures are well controlled on valproic acid or divalproex sodium.
-If administration of Meropenem for Injection is necessary, supplemental anti- convulsant therapy should be considered [see Drug Interactions (7.2)].
+Consider administration of antibacterial drugs other than carbapenems to treat infections in patients whose seizures are well controlled on valproic acid or divalproex sodium.
+If administration of meropenem is necessary, consider supplemental anti-convulsant therapy [see Drug Interactions (7.2)].
 
-## 5.4 Clostridium difficile–associated Diarrhea
+## 5.6 Clostridioides difficile-associated Diarrhea
 
-Clostridium difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Meropenem for Injection, and may range in severity from mild diarrhea to fatal colitis.
+Clostridioides difficile-associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including meropenem, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -46,29 +55,21 @@ Careful medical history is necessary since CDAD has been reported to occur over 
 If CDAD is suspected or confirmed, ongoing antibacterial drug use not directed against C. difficile may need to be discontinued.
 Appropriate fluid and electrolyte management, protein supplementation, antibacterial drug treatment of C. difficile, and surgical evaluation should be instituted as clinically indicated.
 
-## 5.5 Development of Drug-Resistant Bacteria
+## 5.7 Development of Drug-Resistant Bacteria
 
-Prescribing Meropenem for Injection in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
+Prescribing meropenem in the absence of a proven or strongly suspected bacterial infection or a prophylactic indication is unlikely to provide benefit to the patient and increases the risk of the development of drug-resistant bacteria.
 
-## 5.6 Overgrowth of Nonsusceptible Organisms
+## 5.8 Overgrowth of Nonsusceptible Organisms
 
 As with other broad-spectrum antibacterial drugs, prolonged use of meropenem may result in overgrowth of nonsusceptible organisms.
 Repeated evaluation of the patient is essential.
 If superinfection does occur during therapy, appropriate measures should be taken.
 
-## 5.7 Laboratory Tests
+## 5.9 Thrombocytopenia
 
-While Meropenem for Injection possesses the characteristic low toxicity of the beta-lactam group of antibacterial drugs, periodic assessment of organ system functions, including renal, hepatic, and hematopoietic, is advisable during prolonged therapy.
-
-## 5.8 Patients with Renal Impairment
-
-In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration (2.2), Adverse Reactions (6.1), Use In Specific Populations (8.5) and (8.6), and Clinical Pharmacology (12.3)].
-
-## 5.9 Dialysis
-
-There is inadequate information regarding the use of Meropenem for Injection in patients on hemodialysis or peritoneal dialysis.
+In patients with renal impairment, thrombocytopenia has been observed but no clinical bleeding reported [see Dosage and Administration (2.2), Adverse Reactions (6.1), Use In Specific Populations (8.5)and (8.6), and Clinical Pharmacology (12.3)].
 
 ## 5.10 Potential for Neuromotor Impairment
 
-Patients receiving Meropenem for Injection on an outpatient basis may develop adverse events such as seizures, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
-Until it is reasonably well established that Meropenem for Injection is well tolerated, patients should not operate machinery or motorized vehicles [see Adverse Reactions (6.1)].
+Alert patients receiving meropenem on an outpatient basis regarding adverse events such as seizures, delirium, headaches and/or paresthesias that could interfere with mental alertness and/or cause motor impairment.
+Until it is reasonably well established that meropenem is well tolerated, advise patients not to operate machinery or motorized vehicles [see Adverse Reactions (6.1)].
