@@ -1,12 +1,12 @@
 # 14 CLINICAL STUDIES
 
 The efficacy of COMBIVENT RESPIMAT (20/100 mcg) was evaluated in COPD patients in one randomized, double-blind, double-dummy parallel group trial.
-This was a 12-week trial in a total of 1460 adult patients (955 males and 505 females) conducted to demonstrate the efficacy and safety of COMBIVENT RESPIMAT (20/100 mcg) in COPD.
+This was a 12-week trial in a total of 1,460 adult patients (955 males and 505 females) conducted to demonstrate the efficacy and safety of COMBIVENT RESPIMAT (20/100 mcg) in COPD.
 All patients were required to have a clinical diagnosis of COPD, be at least 40 years of age or older, to have an FEV1 of less than or equal to 65% predicted and an FEV1/FVC ratio of less than or equal to 0.7 at screening, and a smoking history of greater than 10 pack-years prior to entering the trial.
 Patients with narrow-angle glaucoma, symptomatic prostatic hypertrophy, or bladder neck obstruction were excluded from the trial.
 The majority of the patients (89%) were Caucasian, had a mean age of 64 years, a mean percent predicted pre-bronchodilator FEV1 of 41% and FEV1/FVC ratio of 0.45.
 The patients were randomized to one of the following active treatments COMBIVENT RESPIMAT (20/100 mcg) (n=486), CFC-propelled COMBIVENT Inhalation Aerosol (36/206 mcg) (n=491), and ipratropium bromide delivered by the RESPIMAT (20 mcg) (n=483) administered four times a day.
-Data from 1424 patients were used in the efficacy analyses.
+Data from 1,424 patients were used in the efficacy analyses.
 
 There were three primary efficacy variables: (i) Mean FEV1 over 0 to 6 hours post-dose defined as the AUC of the change from test-day baseline in FEV1 over 0 to 6 hours post-dose divided by 6 hours (FEV1 AUC0-6h); (ii) Mean FEV1 over 0 to 4 hours post-dose defined as the AUC of the change from test-day baseline in FEV1 over 0 to 4 hours post-dose divided by 4 hours (FEV1 AUC0-4h), and (iii) Mean FEV1 over 4 to 6 hours post-dose defined as the AUC of the change from test-day baseline in FEV1 over 4 to 6 hours post-dose divided by 2 hours (FEV1 AUC4-6h).
 Test-day baseline was the FEV1 recorded prior to inhaling the dose of randomized treatment on test day.
@@ -31,6 +31,6 @@ A separate ANCOVA was fitted for each time point.
 The imputation method for data missing because the patient withdrew from the trial was Last Visit Carried Forward.
 The imputation method for data missing at the end of test days depends on why the data were missing.
 
-A second study was conducted in 1118 COPD patients using a higher than approved dose of COMBIVENT RESPIMAT.
+A second study was conducted in 1,118 COPD patients using a higher than approved dosage of COMBIVENT RESPIMAT.
 Patients were randomized to COMBIVENT RESPIMAT (40/200 mcg) (n=345), CFC-propelled COMBIVENT Inhalation Aerosol (36/206 mcg) (n=180), ipratropium delivered by the RESPIMAT (40 mcg) (n=252) or placebo (n= 341).
 The study was supportive, particularly for safety [see Adverse Reactions (6.1)].

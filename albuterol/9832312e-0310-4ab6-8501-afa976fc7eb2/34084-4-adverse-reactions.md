@@ -20,7 +20,7 @@ Ipratropium bromide is a component of COMBIVENT RESPIMAT.
 
 ### COMBIVENT RESPIMAT 12-Week Clinical Trials
 
-The safety data described in Table 1 below are derived from one 12-week, randomized, multicenter, double-blind, double-dummy, parallel-group trial that compared COMBIVENT RESPIMAT (20/100 mcg), CFC-propelled COMBIVENT Inhalation Aerosol (36/206 mcg), and ipratropium bromide delivered by the RESPIMAT inhaler (20 mcg) administered four times a day in 1460 adult COPD patients (955 males and 505 females) 40 years of age and older.
+The safety data described in Table 1 below are derived from one 12-week, randomized, multicenter, double-blind, double-dummy, parallel-group trial that compared COMBIVENT RESPIMAT (20/100 mcg), CFC-propelled COMBIVENT Inhalation Aerosol (36/206 mcg), and ipratropium bromide delivered by the RESPIMAT inhaler (20 mcg) administered four times a day in 1,460 adult COPD patients (955 males and 505 females) 40 years of age and older.
 Of these patients, 486 were treated with COMBIVENT RESPIMAT.
 The COMBIVENT RESPIMAT group was composed of mostly Caucasian (88.5%) patients with a mean age of 63.8 years, and a mean percent predicted FEV1 at screening of 41.5%.
 Patients with narrow-angle glaucoma, symptomatic prostatic hypertrophy or bladder-neck obstruction were excluded from the trial.
@@ -47,7 +47,7 @@ Table 1 Adverse Reactions in ≥2% of Patients in the COMBIVENT RESPIMAT Group i
 
 Adverse reactions that occurred in <2% in the COMBIVENT RESPIMAT (20/100 mcg) group observed in this 12-week trial include: Vascular disorders: hypertension; Nervous system disorders: dizziness and tremor; Musculoskeletal and connective tissue disorder: muscle spasms and myalgia; Gastrointestinal disorders: diarrhea, nausea, dry mouth, constipation, and vomiting; General disorders and administration site conditions: asthenia, influenza-like illness, and chest discomfort; Eye disorders: eye pain; Metabolism and nutritional disorders: hypokalemia; Cardiac disorders: palpitations and tachycardia; Skin and subcutaneous tissue disorders: pruritus and rash; Respiratory, thoracic, and mediastinal disorders; pharyngolaryngeal pain and wheezing.
 
-A separate 12-week trial evaluated a higher than approved dose of COMBIVENT RESPIMAT in 1118 COPD patients.
+A separate 12-week trial evaluated a higher than approved dosage of COMBIVENT RESPIMAT in 1,118 COPD patients.
 Patients were randomized to COMBIVENT RESPIMAT (40/200 mcg) (n=345), CFC-propelled COMBIVENT Inhalation Aerosol (36/206 mcg) (n=180), ipratropium delivered by the RESPIMAT (40 mcg) (n=252) or placebo (n=341).
 The overall incidence and nature of adverse reactions observed were similar to the adverse reactions seen with COMBIVENT RESPIMAT 20/100 mcg.
 

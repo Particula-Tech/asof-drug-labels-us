@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-The recommended dose of COMBIVENT RESPIMAT is one inhalation four times a day.
+The recommended dosage of COMBIVENT RESPIMAT is one inhalation four times a day.
 Patients may take additional inhalations as required; however, the total number of inhalations should not exceed six in 24 hours.
 
 Prior to first use, the COMBIVENT RESPIMAT cartridge is inserted into the COMBIVENT RESPIMAT inhaler and the unit is primed.

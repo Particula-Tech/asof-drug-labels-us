@@ -6,7 +6,7 @@ Risk Summary
 
 There are no randomized clinical studies of COMBIVENT RESPIMAT, or its individual components, ipratropium bromide and albuterol sulfate, in pregnant women.
 Ipratropium is negligibly absorbed systemically following oral inhalation; therefore, maternal use is not expected to result in fetal exposure to the drug [see Clinical Pharmacology (12.3)].
-Published literature, including cohort studies, case control studies and case series, over several decades have not identified a drug associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes with ipratropium bromide.
+Published literature, including cohort studies, case control studies and case series, over several decades have not identified a drug-associated risk of major birth defects, miscarriage or adverse maternal or fetal outcomes with ipratropium bromide.
 Available data from published epidemiological studies and postmarketing case reports of pregnancy outcomes following inhaled albuterol use do not consistently demonstrate a risk of major birth defects or, miscarriage.
 There are clinical considerations with the use of COMBIVENT RESPIMAT in pregnant women [see Clinical Considerations].
 Animal reproduction studies have not been conducted with COMBIVENT RESPIMAT, however, animal studies are available with its individual components, ipratropium bromide and albuterol sulfate.
@@ -17,7 +17,7 @@ When albuterol was administered to pregnant mice during organogenesis there was 
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 All pregnancies have a background risk of birth defect, loss or other adverse outcomes.
-In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
+In the U.S. general population, the estimated risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Consideration
 
@@ -33,9 +33,9 @@ Animal Data
 Ipratropium bromide
 
 In animal reproduction studies, oral and inhalation administration of ipratropium bromide to pregnant mice, rats and rabbits during the period of organogenesis did not show evidence of fetal structural alterations.
-The ipratropium dose in oral studies in mice, rats, and rabbits was up to approximately 340, 68,000 and 17,000 times, respectively, the maximum recommended human daily inhalation dose (MRHDID) in adults (on a mg/m2 basis at maternal doses in each species of 10, 1000 and 125 mg/kg/day, respectively).
+The ipratropium dose in oral studies in mice, rats, and rabbits was up to approximately 340, 68,000 and 17,000 times, respectively, the maximum recommended human daily inhalation dose (MRHDID) in adults (on a mg/m2 basis at maternal doses in each species of 10, 1,000 and 125 mg/kg/day, respectively).
 The ipratropium dose in inhalation studies in rats and rabbits was up to approximately 100 and 240 times, respectively, the MRHDID in adults (on a mg/m2 basis at maternal doses of 1.5 and 1.8 mg/kg/day, respectively).
-Embryotoxicity was observed as increased resorption in rats at oral doses approximately 6100 times MRHDID in adults (on a mg/m2 basis at maternal doses of 90 mg/kg/day and above).
+Embryotoxicity was observed as increased resorption in rats at oral doses approximately 6,100 times MRHDID in adults (on a mg/m2 basis at maternal doses of 90 mg/kg/day and above).
 This effect is not considered relevant to human use due to the large doses at which it was observed and the difference in route of administration.
 
 Albuterol
@@ -44,7 +44,7 @@ In a mouse reproduction study, subcutaneously administered albuterol sulfate pro
 Similar effects were not observed at approximately less than MRHDID in adults (on a mg/m2 basis at a maternal dose of 0.025 mg/kg/day).
 Cleft palate also occurred in 22 of 72 (30.5%) fetuses from females treated with 2.5 mg/kg/day isoproterenol (positive control).
 
-In a rabbit reproductive study, orally administered albuterol sulfate induced cranioschisis in 7 of 19 (37%) fetuses at approximately 1100 times the MRHDID in adults (on a mg/m2 basis at a maternal dose of 50 mg/kg/day).
+In a rabbit reproductive study, orally administered albuterol sulfate induced cranioschisis in 7 of 19 (37%) fetuses at approximately 1,100 times the MRHDID in adults (on a mg/m2 basis at a maternal dose of 50 mg/kg/day).
 
 In a rat reproduction study, an albuterol sulfate/HFA-134a formulation administered by inhalation did not produce any teratogenic effects at exposures approximately 80 times the MRHDID (on a mg/m2 basis at a maternal dose of 10.5 mg/kg).
 A study in which pregnant rats were dosed with radiolabeled albuterol sulfate demonstrated that drug-related material is transferred from the maternal circulation to the fetus.

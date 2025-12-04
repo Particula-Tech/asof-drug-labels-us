@@ -32,7 +32,7 @@ However, all beta‑adrenergic agonist drugs, including albuterol sulfate, can p
 
 ### Ipratropium bromide
 
-Cardiovascular effects At recommended doses, ipratropium bromide does not produce clinically significant changes in pulse rate or blood pressure.
+Cardiovascular effects At recommended dosages, ipratropium bromide does not produce clinically significant changes in pulse rate or blood pressure.
 
 Ocular effects In studies without a positive control, ipratropium bromide did not alter pupil size, accommodation, or visual acuity.
 

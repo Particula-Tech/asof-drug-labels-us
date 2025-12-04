@@ -28,7 +28,7 @@ Advise patients to consult their physician immediately if any of these symptoms 
 Ipratropium bromide, a component of COMBIVENT RESPIMAT, is an anticholinergic and may cause urinary retention.
 Therefore, caution is advised when administering this medication to patients with prostatic hyperplasia or bladder-neck obstruction [see Drug Interactions (7.1)].
 
-## 5.5 Do Not Exceed Recommended Dose
+## 5.5 Do Not Exceed Recommended Dosage
 
 Fatalities have been reported in association with excessive use of inhaled sympathomimetic drugs in patients with asthma.
 The exact cause of death is unknown, but cardiac arrest following an unexpected development of a severe acute asthmatic crisis and subsequent hypoxia is suspected [see Drug Interactions (7.2)].

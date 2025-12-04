@@ -13,7 +13,7 @@ Tell your doctor about all of the medicines you take.
 COMBIVENT RESPIMAT may affect the way some medicines work and some other medicines may affect the way COMBIVENT RESPIMAT works.
 Do not use other inhaled medicines with COMBIVENT RESPIMAT without talking to your doctor.
 
-The COMBIVENT RESPIMAT inhaler has a slow moving mist that helps you inhale the medicine.
+The COMBIVENT RESPIMAT inhaler has a slow-moving mist that helps you inhale the medicine.
 
 Do not turn the clear base before inserting the cartridge.
 
@@ -135,10 +135,10 @@ RESPIMAT® is a registered trademark of and used under license from Boehringer I
 
 COMBIVENT® is a registered trademark of and used under license from Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2021 Boehringer Ingelheim International GmbH
+Copyright © 2025 Boehringer Ingelheim International GmbH
 
 ALL RIGHTS RESERVED
 
-Revised: December 2021
+Revised: February 2025
 
-COL10574AL132021
+COL10574BB102025

@@ -61,6 +61,6 @@ RESPIMAT® is a registered trademark of and used under license from Boehringer I
 
 COMBIVENT® is a registered trademark of and used under license from Boehringer Ingelheim Pharmaceuticals, Inc.
 
-Copyright © 2021 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
+Copyright © 2025 Boehringer Ingelheim International GmbH ALL RIGHTS RESERVED
 
-COL10574AL132021 SPL10595A
+COL10574BB102025 SPL10595D

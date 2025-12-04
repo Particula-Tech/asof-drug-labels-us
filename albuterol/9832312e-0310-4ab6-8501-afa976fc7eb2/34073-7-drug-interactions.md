@@ -19,7 +19,7 @@ Beta-receptor blocking agents should be used with caution in patients with hyper
 
 ## 7.4 Diuretics
 
-The ECG changes and/or hypokalemia which may result from the administration of non‑potassium sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta2-agonists, especially when the recommended dose of the beta2-agonist is exceeded.
+The ECG changes and/or hypokalemia which may result from the administration of non‑potassium sparing diuretics (such as loop or thiazide diuretics) can be acutely worsened by beta2-agonists, especially when the recommended dosage of the beta2-agonist is exceeded.
 Although the clinical significance of these effects is not known, caution is advised in the coadministration of beta-agonist‑containing drugs, such as COMBIVENT RESPIMAT, with non‑potassium sparing diuretics.
 Consider monitoring potassium levels.
 

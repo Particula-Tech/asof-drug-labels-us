@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-COMBIVENT RESPIMAT is a combination of ipratropium bromide (as the monohydrate) and albuterol sulfate.
+COMBIVENT RESPIMAT is a combination of ipratropium bromide (monohydrate) and albuterol sulfate.
 
 Ipratropium bromide is an anticholinergic bronchodilator chemically described as 8-azoniabicyclo[3.2.1] octane, 3-(3-hydroxy-1-oxo-2-phenylpropoxy)-8-methyl-8-(1-methylethyl)-, bromide monohydrate, (3-endo, 8-syn)-: a synthetic quaternary ammonium compound chemically related to atropine.
 Ipratropium bromide is a white to off-white crystalline substance, freely soluble in water and methanol, sparingly soluble in ethanol, and insoluble in lipophilic solvents such as ether, chloroform, and fluorocarbons.
@@ -23,9 +23,9 @@ Wt.
 576.7
 
 The drug product, COMBIVENT RESPIMAT, is composed of a sterile, aqueous solution of ipratropium bromide and albuterol sulfate filled into a 4.5 mL plastic container crimped into an aluminum cylinder (COMBIVENT RESPIMAT cartridge) for use with the COMBIVENT RESPIMAT inhaler.
-Excipients include water for injection, benzalkonium chloride, edetate disodium, and hydrochloric acid.
+Excipients include benzalkonium chloride, edetate disodium, hydrochloric acid, and water for injection.
 The COMBIVENT RESPIMAT cartridge is only intended for use with the COMBIVENT RESPIMAT inhaler.
-The COMBIVENT RESPIMAT inhaler is a hand held, pocket sized oral inhalation device that uses mechanical energy to generate a slow moving aerosol cloud of medication from a metered volume of the drug solution.
+The COMBIVENT RESPIMAT inhaler is a hand held, pocket sized oral inhalation device that uses mechanical energy to generate a slow-moving aerosol cloud of medication from a metered volume of the drug solution.
 The COMBIVENT RESPIMAT inhaler has an orange-colored cap.
 
 When used with the COMBIVENT RESPIMAT inhaler, each cartridge containing 4 grams of a sterile aqueous solution delivers the labeled number of metered actuations after preparation for use.
