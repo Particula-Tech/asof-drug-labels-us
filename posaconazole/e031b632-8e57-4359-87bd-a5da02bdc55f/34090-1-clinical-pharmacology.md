@@ -84,7 +84,7 @@ Table 15: The Effect of Concomitant Medications that Affect the Gastric pH and G
 
 | Coadministered Drug | Administration Arms | Change in Cmax (ratio estimateRatio Estimate is the ratio of coadministered drug plus Noxafil to Noxafil alone for Cmax or AUC0-last.; 90% CI of the ratio estimate) | Change in AUC0-last (ratio estimate; 90% CI of the ratio estimate) |
 | --- | --- | --- | --- |
-| Mylanta® Ultimate strength liquid (Increase in gastric pH) | 25.4 meq/5 mL, 20 mL | ↑6% (1.06; 0.90 -1.26)↑ | ↑4% (1.04; 0.90 -1.20) |
+| Mylanta® Ultimate strength liquid (Increase in gastric pH) | 25.4 mEq/5 mL, 20 mL | ↑6% (1.06; 0.90 -1.26)↑ | ↑4% (1.04; 0.90 -1.20) |
 | Ranitidine (Zantac®) (Alteration in gastric pH) | 150 mg (morning dose of 150 mg Ranitidine twice daily) | ↑4% (1.04; 0.88 -1.23)↑ | ↓3% (0.97; 0.84 -1.12) |
 | Esomeprazole (Nexium®) (Increase in gastric pH) | 40 mg (every morning for 5 days, Day -4 to 1) | ↑2% (1.02; 0.88-1.17)↑ | ↑5% (1.05; 0.89 -1.24) |
 | Metoclopramide (Reglan®) (Increase in gastric motility) | 15 mg four times daily for 2 days (Day -1 and 1) | ↓14% (0.86, 0.73,1.02) | ↓7% (0.93, 0.803,1.07) |

@@ -24,4 +24,4 @@ Posaconazole may increase the plasma concentrations of ergot alkaloids (ergotami
 
 ## 4.6 Use with Venetoclax
 
-Coadministration of posaconazole with venetoclax at initiation and during the ramp-up phase is contraindicated in patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL) due to the potential for increased risk of tumor lysis syndrome [see Warnings and Precautions (5.9) and Drug Interactions (7.15)].
+Coadministration of posaconazole with venetoclax at initiation and during the ramp-up phase is contraindicated in patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL) due to the potential for increased risk of tumor lysis syndrome [see Warnings and Precautions (5.10) and Drug Interactions (7.15)].
