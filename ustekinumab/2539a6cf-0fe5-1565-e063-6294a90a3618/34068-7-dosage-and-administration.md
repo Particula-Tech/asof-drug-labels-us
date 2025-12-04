@@ -14,9 +14,9 @@ Subcutaneous Pediatric Dosage Regimen
 
 Administer IMULDOSA subcutaneously at Weeks 0 and 4, then every 12 weeks thereafter.
 
-The recommended dose of IMULDOSA for pediatric patients (6-17 years old) with plaque psoriasis based on body weight is shown below (Table 1).
+The recommended dose of IMULDOSA for pediatric patients 6 years of age and older with plaque psoriasis based on body weight is shown below (Table 1).
 
-Table 1: Recommended Dose of IMULDOSA for Subcutaneous Injection in Pediatric Patients (6-17 years old) with Plaque Psoriasis
+Table 1: Recommended Dose of IMULDOSA for Subcutaneous Injection in Pediatric Patients 6 years of age and older with Plaque Psoriasis
 
 | Body Weight of Patient at the Time of Dosing | Recommended Dose |
 | --- | --- |
@@ -35,20 +35,22 @@ Subcutaneous Pediatric Dosage Regimen
 
 Administer IMULDOSA subcutaneously at Weeks 0 and 4, then every 12 weeks thereafter.
 
-The recommended dose of IMULDOSA for pediatric patients (6 to 17 years old) with psoriatic arthritis, based on body weight, is shown below (Table 2).
+The recommended dose of IMULDOSA for pediatric patients 6 years of age and older with psoriatic arthritis, based on body weight, is shown below (Table 2).
 
-Table 2: Recommended Dose of IMULDOSA for Subcutaneous Injection in Pediatric Patients (6 to 17 years old) with Psoriatic Arthritis
+Table 2: Recommended Dose of IMULDOSA for Subcutaneous Injection in Pediatric Patients 6 years of age and older with Psoriatic Arthritis
 
 | Body Weight of Patient at the Time of Dosing | Recommended Dose |
 | --- | --- |
 | 60 kg or more | 45 mg |
 | greater than 100 kg with co-existent moderate- to-severe plaque psoriasis | 90 mg |
 
+There is no dosage form for IMULDOSA that allows weight-based dosing for pediatric patients below 60 kg.
+
 ## 2.3 Recommended Dosage in Crohn’s Disease and Ulcerative Colitis
 
 Intravenous Induction Adult Dosage Regimen
 
-A single intravenous infusion dose of IMULDOSA using the weight-based dosage regimen specified in Table 3 [see Instructions for dilution of IMULDOSA 130 mg vial for intravenous infusion (2.6)].
+A single intravenous infusion dose of IMULDOSA using the weight-based dosage regimen specified in Table 3 [see Instructions for dilution of IMULDOSA 130 mg vial for intravenous infusion (2.5)].
 
 Table 3: Initial Intravenous Dosage of IMULDOSA
 
@@ -69,32 +71,14 @@ The recommended maintenance dosage is a subcutaneous 90 mg dose administered 8 w
   The appropriate dose should be determined by a healthcare provider using the patient’s current weight at the time of dosing.
   In pediatric patients, it is recommended that IMULDOSA be administered by a healthcare provider.
   If a healthcare provider determines that it is appropriate, a patient may self-inject or a caregiver may inject IMULDOSA after proper training in subcutaneous injection technique.
-  Instruct patients to follow the directions provided in the Medication Guide [see Medication Guide].
+  Instruct patients to follow the directions provided in the Instructions for Use [see Instructions for Use].
 - It is recommended that each injection be administered at a different anatomic location (such as upper arms, gluteal regions, thighs, or any quadrant of abdomen) than the previous injection, and not into areas where the skin is tender, bruised, erythematous, or indurated.
   When using the single-dose vial, a 1 mL syringe with a 27 gauge, ½ inch needle is recommended.
 - Prior to administration, visually inspect IMULDOSA for particulate matter and discoloration IMULDOSA is a clear to slightly opalescent and colorless to slightly yellow solution.
   Do not use IMULDOSA if it is discolored or cloudy, or if other particulate matter is present.
   IMULDOSA does not contain preservatives; therefore, discard any unused product remaining in the vial and/or syringe.
 
-## 2.5 Instructions for Administration of IMULDOSA Prefilled Syringes Equipped with Needle Safety Guard
-
-Refer to the diagram below for the provided instructions.
-
-To prevent premature activation of the needle safety guard, do not touch the NEEDLE GUARD ACTIVATION CLIPS at any time during use.
-
-- Hold the BODY and remove the NEEDLE COVER.
-  Do not hold the PLUNGER or PLUNGER HEAD while removing the NEEDLE COVER or the PLUNGER may move.
-  Do not use the prefilled syringe if it is dropped without the NEEDLE COVER in place.
-- Inject IMULDOSA subcutaneously as recommended [see Dosage and Administration(2.1, 2.2, 2.3)].
-- Inject all of the medication by pushing in the PLUNGER until the PLUNGER HEAD is completely between the needle guard wings.
-  Injection of the entire prefilled syringe contents is necessary to activate the needle guard.
-
-- After injection, maintain the pressure on the PLUNGER HEAD and remove the needle from the skin.
-  Slowly take your thumb off the PLUNGER HEAD to allow the empty syringe to move up until the entire needle is covered by the needle guard, as shown by the illustration below:
-
-- Used syringes should be placed in a puncture-resistant container.
-
-## 2.6 Preparation and Administration of IMULDOSA 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn’s Disease and Ulcerative Colitis)
+## 2.5 Preparation and Administration of IMULDOSA 130 mg/26 mL (5 mg/mL) Vial for Intravenous Infusion (Crohn’s Disease and Ulcerative Colitis)
 
 IMULDOSA solution for intravenous infusion must be diluted, prepared and infused by a healthcare professional using aseptic technique.
 

@@ -9,6 +9,7 @@ The relevance of these experimental findings in mouse models for malignancy risk
 
 No effects on fertility were observed in male cynomolgus monkeys that were administered ustekinumab at subcutaneous doses up to 45 mg/kg twice weekly (45 times the MRHD on a mg/kg basis) prior to and during the mating period.
 However, fertility and pregnancy outcomes were not evaluated in mated females.
+
 No effects on fertility were observed in female mice that were administered an analogous IL-12/IL-23p40 antibody by subcutaneous administration at doses up to 50 mg/kg, twice weekly, prior to and during early pregnancy.
 
 ## 13.2 Animal Toxicology and/or Pharmacology

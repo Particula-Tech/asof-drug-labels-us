@@ -10,9 +10,10 @@ Malignancies
 
 Inform patients of the risk of developing malignancies while receiving IMULDOSA [see Warnings and Precautions (5.4)].
 
-HypersensitivityReactions
+Serious HypersensitivityandReactions
 
-- Advise patients to seek immediate medical attention if they experience any signs or symptoms of serious hypersensitivity reactions and discontinue IMULDOSA [see Warnings and Precautions (5.5)].
+- Inform patients that serious hypersensitivity reactions have been reported with intravenous and subcutaneous administration of ustekinumab products.
+  Instruct patients to discontinue IMULDOSA and seek immediate medical attention if they experience any signs or symptoms of hypersensitivity reactions [see Warnings and Precautions (5.5)].
 
 PosteriorReversibleEncephalopathySyndrome(PRES)
 
@@ -20,10 +21,10 @@ Inform patients to immediately contact their healthcare provider if they experie
 
 Immunizations
 
-Inform patients that IMULDOSA can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings and Precautions (5.7)].
+Inform patients that IMULDOSA can interfere with the usual response to immunizations and that they should avoid live vaccines [see Warnings andPrecautions (5.7)].
 
 Administration
 
 Instruct patients to follow sharps disposal recommendations, as described in the Instructions for Use.
 
-Manufactured by: Accord BioPharma Inc. 8041 Arco Corporate Drive, Suite 200, Raleigh, North Carolina (NC), 27617 USA US License No. 2105
+Manufactured by: Accord BioPharma Inc. 8041 Arco Corporate Drive, Suite 200 Raleigh, North Carolina (NC), 27617 USA US License No. 2105
