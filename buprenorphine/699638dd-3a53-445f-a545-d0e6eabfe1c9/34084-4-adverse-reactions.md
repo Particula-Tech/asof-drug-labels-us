@@ -48,7 +48,7 @@ The following adverse events were reported to occur by at least 5% of patients i
 | Insomnia | 22 (21.4%) | 17 (15.9%) |
 | Respiratory System |  |  |
 | Rhinitis | 10 (9.7%) | 14 (13.1%) |
-| Skin And Appendages |  |  |
+| Skin and Appendages |  |  |
 | Sweating | 13 (12.6%) | 11 (10.3%) |
 
 The adverse event profile of buprenorphine was also characterized in the dose-controlled study of buprenorphine solution, over a range of doses in four months of treatment.
@@ -56,8 +56,8 @@ Table 2 shows adverse events reported by at least 5% of subjects in any dose gro
 
 | Table 2. Adverse Events (≥5%) by Body System and Treatment Group in a 16-week Study |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Body System/ Adverse Event (COSTART Terminology) | Buprenorphine DoseSublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg. "Low" dose (4 mg solution) approximates a 6 mg tablet dose. "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose. "High" dose (16 mg solution) approximates a 24 mg tablet dose. |  |  |  |  |
-| Very Low (N=184) | Low (N=180) | Moderate (N=186) | High (N=181) | Total (N=731) |  |
+| Body System/ Adverse Event (COSTART Terminology) | Buprenorphine Dose* |  |  |  |  |
+| Very Low* (N=184) | Low* (N=180) | Moderate* (N=186) | High* (N=181) | Total* (N=731) |  |
 | N (%) | N (%) | N (%) | N (%) | N (%) |  |
 | Body as a Whole |  |  |  |  |  |
 | Abscess | 9 (5%) | 2 (1%) | 3 (2%) | 2 (1%) | 16 (2%) |
@@ -92,6 +92,7 @@ Table 2 shows adverse events reported by at least 5% of subjects in any dose gro
 | Sweat | 23 (13%) | 21 (12%) | 20 (11%) | 23 (13%) | 87 (12%) |
 | Special Senses |  |  |  |  |  |
 | Runny Eyes | 13 (7%) | 9 (5%) | 6 (3%) | 6 (3%) | 34 (5%) |
+| * Sublingual solution. Doses in this table cannot necessarily be delivered in tablet form, but for comparison purposes: "Very low" dose (1 mg solution) would be less than a tablet dose of 2 mg. "Low" dose (4 mg solution) approximates a 6 mg tablet dose. "Moderate" dose (8 mg solution) approximates a 12 mg tablet dose. "High" dose (16 mg solution) approximates a 24 mg tablet dose. |  |  |  |  |  |
 
 ## 6.2 Postmarketing Experience
 
@@ -112,3 +113,5 @@ Local reactions:Dental decay (including caries, tooth fracture, and tooth loss),
 
 Hypoglycemia:Cases of hypoglycemia have been reported in patients taking opioids.
 Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
+
+Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids, and may occur more frequently in patients taking higher doses of opioids, and/or in patients taking opioids longer term [see Warnings and Precautions (5.2)]

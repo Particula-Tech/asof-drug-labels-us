@@ -30,7 +30,7 @@ In addition, untreated opioid addiction often results in continued or relapsing 
 Dose Adjustment during Pregnancy and the Postpartum Period
 
 Dosage adjustments of buprenorphine may be required during pregnancy, even if the patient was maintained on a stable dose prior to pregnancy.
-Withdrawal signs and symptoms should be monitored closely, and the dose adjusted as necessary.
+Withdrawal signs and symptoms should be monitored closely and the dose adjusted as necessary.
 
 Fetal/neonatal adverse reactions
 
@@ -42,7 +42,7 @@ The duration and severity of neonatal opioid withdrawal syndrome may vary.
 Observe newborns for signs of neonatal opioid withdrawal syndrome and manage accordingly.
 [see Warnings and Precautions (5.5)].
 
-Labor or Delivery Opioid- dependent women on buprenorphine maintenance therapy may require additional analgesia during labor.
+Labor or Delivery Opioid-dependent women on buprenorphine maintenance therapy may require additional analgesia during labor.
 
 Data
 
@@ -52,13 +52,13 @@ Studies have been conducted to evaluate neonatal outcomes in women exposed to bu
 Limited data from trials, observational studies, case series, and case reports on buprenorphine use in pregnancy do not indicate an increased risk of major malformations specifically due to buprenorphine.
 Several factors may complicate the interpretation of investigations of the children of women who take buprenorphine during pregnancy, including maternal use of illicit drugs, late presentation for prenatal care, infection, poor compliance, poor nutrition, and psychosocial circumstances.
 Interpretation of data is complicated further by the lack of information on untreated opioid- dependent pregnant women, who would be the most appropriate group for comparison.
-Rather, women on another form of opioid medication- assisted treatment, or women in the general population are generally used as the comparison group.
-However, women in these comparison groups may be different from women prescribed buprenorphine- containing products with respect to maternal factors that may lead to poor pregnancy outcomes.
+Rather, women on another form of opioid medication-assisted treatment, or women in the general population are generally used as the comparison group.
+However, women in these comparison groups may be different from women prescribed buprenorphine-containing products with respect to maternal factors that may lead to poor pregnancy outcomes.
 
-In a multicenter, double- blind, randomized, controlled trial [Maternal Opioid Treatment: Human Experimental Research (MOTHER)] designed primarily to assess neonatal opioid withdrawal effects, opioid- dependent pregnant women were randomized to buprenorphine (n=86) or methadone (n=89) treatment, with enrollment at an average gestational age of 18.7 weeks in both groups.
+In a multicenter, double-blind, randomized, controlled trial [Maternal Opioid Treatment: Human Experimental Research (MOTHER)] designed primarily to assess neonatal opioid withdrawal effects, opioid- dependent pregnant women were randomized to buprenorphine (n=86) or methadone (n=89) treatment, with enrollment at an average gestational age of 18.7 weeks in both groups.
 A total of 28 of the 86 women in the buprenorphine group (33%) and 16 of the 89 women in the methadone group (18%) discontinued treatment before the end of pregnancy.
 
-Among women who remained in treatment until delivery, there was no difference between buprenorphine- treated and methadone- treated groups in the number of neonates requiring NOWS treatment or in the peak severity of NOWS.
+Among women who remained in treatment until delivery, there was no difference between buprenorphine-treated and methadone-treated groups in the number of neonates requiring NOWS treatment or in the peak severity of NOWS.
 Buprenorphine- exposed neonates required less morphine (mean total dose, 1.1 mg vs. 10.4 mg), had shorter hospital stays (10.0 days vs. 17.5 days), and shorter duration of treatment for NOWS (4.1 days vs. 9.9 days) compared to the methadone-exposed group.
 
 There were no differences between groups in other primary outcomes (neonatal head circumference,) or secondary outcomes (weight and length at birth, preterm birth, gestational age at delivery, and 1- minute and 5- minute Apgar scores), or in the rates of maternal or neonatal adverse events.
@@ -80,7 +80,7 @@ Buprenorphine was not teratogenic in rats or rabbits after IM or subcutaneous (S
 Significant increases in skeletal abnormalities (e.g., extra thoracic vertebra or thoraco-lumbar ribs) were noted in rats after SC administration of 1 mg/kg/day and up (estimated exposure was approximately 0.6 times the human sublingual dose of 16 mg), but were not observed at oral doses up to 160 mg/kg/day.
 Increases in skeletal abnormalities in rabbits after IM administration of 5 mg/kg/day (estimated exposure was approximately 6 times the human sublingual dose of 16 mg) in the absence of maternal toxicity or oral administration of 1 mg/kg/day or greater (estimated exposure was approximately equal to the human sublingual dose of 16 mg) were not statistically significant.
 
-In rabbits, buprenorphine produced statistically significant pre-implantation losses at oral doses of 1 mg/kg/day or greater and post- implantation losses that were statistically significant at IV doses of 0.2 mg/kg/day or greater (estimated exposure approximately 0.3 times the human sublingual dose of 16 mg).
+In rabbits, buprenorphine produced statistically significant pre-implantation losses at oral doses of 1 mg/kg/day or greater and post-implantation losses that were statistically significant at IV doses of 0.2 mg/kg/day or greater (estimated exposure approximately 0.3 times the human sublingual dose of 16 mg).
 No maternal toxicity was noted at doses causing post-implantation loss in this study.
 
 Dystocia was noted in pregnant rats treated intramuscularly with buprenorphine from Gestation Day 14 through Lactation Day 21 at 5 mg/kg/day (approximately 3 times the human sublingual dose of 16 mg).

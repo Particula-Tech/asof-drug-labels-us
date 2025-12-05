@@ -48,4 +48,5 @@ All registered trademarks are the property of their respective owners.
 
 This “Instructions for Use” has been approved by the U.S. Food and Drug Administration.
 
-Revision: 01, 12/2023
+Rev.
+08/2025
