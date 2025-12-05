@@ -27,7 +27,7 @@ Table 3 lists adverse reactions that occurred in at least 1% of gabapentin table
 TABLE 3.
 Adverse Reactions in Pooled Placebo-Controlled Trials in Postherpetic Neuralgia
 
-|  | GabapentinTabletsN=336% | PlaceboN=227% |
+|  | Gabapentin TabletsN=336% | PlaceboN=227% |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Asthenia | 6 | 5 |
@@ -81,7 +81,7 @@ In these studies, either gabapentin tablets or placebo was added to the patientâ
 TABLE 4.
 Adverse Reactions in Pooled Placebo-Controlled Add-On Trials in Epilepsy Patients > 12 Years of Age
 
-|  | GabapentinTabletsa N=543 % | Placeboa N=378 % |
+|  | Gabapentin Tabletsa N=543 % | Placeboa N=378 % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Fatigue | 11 | 5 |
@@ -132,7 +132,7 @@ Table 5 lists adverse reactions that occurred in at least 2% of gabapentin table
 TABLE 5.
 Adverse Reactions in a Placebo-Controlled Add-On Trial in Pediatric Epilepsy Patients Age 3 to 12 Years
 
-|  | GabapentinTabletsaN=119 % | PlaceboaN=128 % |
+|  | Gabapentin TabletsaN=119 % | PlaceboaN=128 % |
 | --- | --- | --- |
 | Body as a Whole |  |  |
 | Viral infection | 11 | 3 |

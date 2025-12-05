@@ -74,14 +74,14 @@ Analyses were also performed in each study to examine the effect of gabapentin t
 Patients who experienced a secondarily generalized tonic-clonic seizure in either the baseline or in the treatment period in all three placebo-controlled studies were included in these analyses.
 There were several response ratio comparisons that showed a statistically significant advantage for gabapentin tablets compared to placebo and favorable trends for almost all comparisons.
 
-Analysis of responder rate using combined data from all three studies and all doses (N=162, gabapentin tablets; N=89, placebo) also showed a significant advantage for gabapentin tablets over placebo in reducing the frequency of secondarily generalized tonic-clonic seizures.
+Analysis of responder rate using combined data from all three studies and all doses (N=162, gabapentin tablets; N=89, placebo) also showed a significant advantage for gabapentin over placebo in reducing the frequency of secondarily generalized tonic-clonic seizures.
 
 In two of the three controlled studies, more than one dose of gabapentin tablets was used.
 Within each study, the results did not show a consistently increased response to dose.
 However, looking across studies, a trend toward increasing efficacy with increasing dose is evident (see Figure 4).
 
 Figure 4.
-Responder Rate in Patients Receiving GabapentinTablets Expressed as a Difference from Placebo by Dose and Study: Adjunctive Therapy Studies in Patients ≥12 Years of Age with Partial Seizures
+Responder Rate in Patients Receiving Gabapentin Tablets Expressed as a Difference from Placebo by Dose and Study: Adjunctive Therapy Studies in Patients ≥12 Years of Age with Partial Seizures
 
 In the figure, treatment effect magnitude, measured on the Y axis in terms of the difference in the proportion of gabapentin and placebo-assigned patients attaining a 50% or greater reduction in seizure frequency from baseline, is plotted against the daily dose of gabapentin administered (X axis).
 
