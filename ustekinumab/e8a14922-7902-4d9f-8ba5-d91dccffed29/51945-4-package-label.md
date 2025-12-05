@@ -8,7 +8,7 @@ Contains one 45 mg/0.5 mL syringe Single-dose prefilled syringe - Discard unused
 
 Recommended Dosage: See Prescribing Information
 
-ATTENTION: Dispense the endosed
+ATTENTION: Dispense the enclosed
 
 Medication Guide to each patient.
 
@@ -26,9 +26,13 @@ One single-dose vial.
 Discard unused portion.
 Rx only
 
+SAMSUNG BIOEPIS SANDOZ
+
 # 45 mg Carton Label
 
-NDC 61314-651-94 Pyzchiva® 45 mg/0.5 mL (ustekinumab-ttwe) Injection 45 mg/0.5 mL For subcutaneous use ATTENTION: Dispense the encloded Medication Guide to each patient.
+NDC 61314-651-94 Pyzchiva® 45 mg/0.5 mL (ustekinumab-ttwe) Injection 45 mg/0.5 mL For subcutaneous use ATTENTION: Dispense the enclosed Medication Guide to each patient.
 One single-dose vial.
 Discard unused portion.
 Rx only
+
+SAMSUNG BIOEPIS SANDOZ

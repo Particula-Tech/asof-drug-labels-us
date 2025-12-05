@@ -1,6 +1,6 @@
 # 14 CLINICAL STUDIES
 
-## 14.1 Adult Plaque Psoriasis
+## 14.1 Adult Subjects with Plaque Psoriasis
 
 Two multicenter, randomized, double-blind, placebo-controlled trials (Ps STUDY 1 and Ps STUDY 2) enrolled a total of 1996 subjects 18 years of age and older with plaque psoriasis who had a minimum body surface area involvement of 10%, and Psoriasis Area and Severity Index (PASI) score ≥12, and who were candidates for phototherapy or systemic therapy.
 Subjects with guttate, erythrodermic, or pustular psoriasis were excluded from the trials.
@@ -23,7 +23,7 @@ Clinical Response
 
 The results of Ps STUDY 1 and Ps STUDY 2 are presented in Table 8 below.
 
-Table 8: Clinical Outcomes at Week 12 in Adults with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
+Table 8: Clinical Outcomes at Week 12 in Adult Subjects with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
 
 |  | Ps STUDY 1 Ustekinumab |  |  | Ps STUDY 2 Ustekinumab |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -36,7 +36,7 @@ Examination of age, gender, and race subgroups did not identify differences in r
 
 In subjects who weighed 100 kg or less, response rates were comparable with both the 45 mg and 90 mg doses; however, in subjects who weighed greater than 100 kg, higher response rates were seen with 90 mg dosing compared with 45 mg dosing (Table 9 below).
 
-Table 9: Clinical Outcomes by Weight at Week 12 in Adults with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
+Table 9: Clinical Outcomes by Weight at Week 12 in Adult Subjects with Plaque Psoriasis in Ps STUDY 1 and Ps STUDY 2
 
 |  | Ps STUDY 1 Ustekinumab |  |  | Ps STUDY 2 Ustekinumab |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -59,9 +59,9 @@ Subjects in Ps STUDY 1 who were PASI 75 responders at both Weeks 28 and 40 were 
 At Week 52, 89% (144/162) of subjects re-randomized to ustekinumab treatment were PASI 75 responders compared with 63% (100/159) of subjects re-randomized to placebo (treatment withdrawal after Week 28 dose).
 The median time to loss of PASI 75 response among the subjects randomized to treatment withdrawal was 16 weeks.
 
-## 14.2 Pediatric Plaque Psoriasis
+## 14.2 Pediatric Subjects with Plaque Psoriasis
 
-A multicenter, randomized, double blind, placebo-controlled trial (Ps STUDY 3) enrolled 110 pediatric subjects 12 to 17 years of age with a minimum BSA involvement of 10%, a PASI score greater than or equal to 12, and a PGA score greater than or equal to 3, who were candidates for phototherapy or systemic therapy and whose disease was inadequately controlled by topical therapy.
+A multicenter, randomized, double blind, placebo-controlled trial (Ps STUDY 3) enrolled 110 pediatric subjects 12 years of age and older with a minimum BSA involvement of 10%, a PASI score greater than or equal to 12, and a PGA score greater than or equal to 3, who were candidates for phototherapy or systemic therapy and whose disease was inadequately controlled by topical therapy.
 
 Subjects were randomized to receive placebo (n = 37), the recommended dose of ustekinumab (n = 36), or one-half the recommended dose of ustekinumab (n = 37) by subcutaneous injection at Weeks 0 and 4 followed by dosing every 12 weeks (q12w).
 The recommended dose of ustekinumab was 0.75 mg/kg for subjects weighing less than 60 kg, 45 mg for subjects weighing 60 kg to 100 kg, and 90 mg for subjects weighing greater than 100 kg.
@@ -76,7 +76,7 @@ Clinical Response
 
 The efficacy results at Week 12 for Ps STUDY 3 are presented in Table 10.
 
-Table 10: Efficacy Results at Week 12 in Pediatric Subjects 12 to 17 years with Plaque Psoriasis in Ps STUDY 3
+Table 10: Efficacy Results at Week 12 in Pediatric Subjects 12 Years of Age and Older with Plaque Psoriasis in Ps STUDY 3
 
 |  | Ps STUDY 3 |  |
 | --- | --- | --- |
@@ -166,7 +166,7 @@ An improvement in enthesitis and dactylitis scores was observed in each ustekinu
 
 Physical Function
 
-Ustekinumab-treated subjects showed improvement in physical function compared to subjects treated with placebo as assessed by HAQ-DI at Week 24.
+Ustekinumab-treated subjects showed improvement in physical function compared to subjects receiving placebo as assessed by HAQ-DI at Week 24.
 In both trials, the proportion of HAQ-DI responders (≥0.3 improvement in HAQ-DI score) was greater in the ustekinumab 45 mg and 90 mg groups compared to placebo at Week 24.
 
 ## 14.4 Crohn's Disease

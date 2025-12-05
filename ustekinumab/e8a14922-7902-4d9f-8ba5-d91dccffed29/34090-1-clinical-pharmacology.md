@@ -43,7 +43,7 @@ The total volume of distribution at steady-state was 4.6 L in subjects with Croh
 
 Elimination
 
-The mean (±SD) half-life ranged from 14.9 ± 4.6 to 45.6 ± 80.2 days across all plaque psoriasis trials following subcutaneous administration.
+The mean (±SD) half-life ranged from 14.9 ± 4.6 to 45.6 ± 80.2 days across all trials in subjects with plaque psoriasis following subcutaneous administration.
 Population pharmacokinetic analyses showed that the clearance of ustekinumab was 0.19 L/day (95% CI: 0.185, 0.197) in subjects with Crohn's disease and 0.19 L/day (95% CI: 0.179, 0.192) in subjects with ulcerative colitis with an estimated median terminal half-life of approximately 19 days for both IBD (Crohn's disease and ulcerative colitis) populations.
 
 These results indicate the pharmacokinetics of ustekinumab were similar between subjects with Crohn's disease and ulcerative colitis.
@@ -67,8 +67,8 @@ There were no apparent changes in pharmacokinetic parameters (clearance and volu
 
 Age: Pediatric Population
 
-Following multiple recommended doses of ustekinumab in pediatric subjects 6 to 17 years of age with plaque psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
-At Week 28, the mean ±SD steady-state trough serum ustekinumab concentrations were 0.36 ± 0.26 mcg/mL and 0.54 ± 0.43 mcg/mL, respectively, in pediatric subjects 6 to 11 years of age and pediatric subjects 12 to 17 years of age.
+Following multiple recommended doses of ustekinumab in pediatric subjects 6 years of age and older with plaque psoriasis, steady-state serum concentrations of ustekinumab were achieved by Week 28.
+At Week 28, the mean ±SD steady-state trough serum ustekinumab concentrations were 0.36 ± 0.26 mcg/mL and 0.54 ± 0.43 mcg/mL, respectively, in pediatric subjects 6 to 11 years of age and pediatric subjects 12 years of age and older.
 
 Overall, the observed steady-state ustekinumab trough concentrations in pediatric subjects with plaque psoriasis were within the range of those observed for adult subjects with plaque psoriasis and adult subjects with PsA after administration of ustekinumab.
 
@@ -76,7 +76,7 @@ Drug Interaction Studies
 
 The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4).
 
-No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosage in subjects with Crohn’s disease [see Drug Interactions (7.2)].
+No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosage in subjects with Crohn's disease [see Drug Interactions (7.2)].
 
 Population pharmacokinetic analyses indicated that the clearance of ustekinumab was not impacted by concomitant MTX, NSAIDs, and oral corticosteroids, or prior exposure to a TNF blocker in subjects with psoriatic arthritis.
 

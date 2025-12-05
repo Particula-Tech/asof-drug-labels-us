@@ -2,9 +2,9 @@
 
 ## 7.1 Concomitant Therapies
 
-In plaque psoriasis trials the safety of ustekinumab products in combination with immunosuppressive agents or phototherapy has not been evaluated.
-In psoriatic arthritis trials, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab.
-In Crohn's disease and ulcerative colitis induction trials, immunomodulators (6-MP, AZA, MTX) were used concomitantly in approximately 30% of subjects and corticosteroids were used concomitantly in approximately 40% and 50% of Crohn's disease and ulcerative colitis subjects, respectively.
+In trials in subjects with plaque psoriasis the safety of ustekinumab products in combination with immunosuppressive agents or phototherapy has not been evaluated.
+In trials in subjects with psoriatic arthritis, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab.
+In trials in subjects with Crohn's disease (CD-1 and CD-2) and ulcerative colitis (UC-1), immunomodulators (6-MP, AZA, MTX) were used concomitantly in approximately 30% of subjects and corticosteroids were used concomitantly in approximately 40% and 50% of Crohn's disease and ulcerative colitis subjects, respectively.
 Use of these concomitant therapies did not appear to influence the overall safety or efficacy of ustekinumab.
 
 ## 7.2 CYP450 Substrates
@@ -14,7 +14,7 @@ Thus, use of ustekinumab products, antagonists of IL-12 and IL-23, could normali
 Upon initiation or discontinuation of PYZCHIVA in patients who are receiving concomitant CYP450 substrates, particularly those with a narrow therapeutic index, consider monitoring for therapeutic effect or drug concentration and adjust the individual dosage of the CYP substrate as needed.
 See the prescribing information of specific CYP substrates.
 
-A CYP-mediated drug interaction effect was not observed in subjects with Crohn’s disease [see Clinical Pharmacology (12.3)].
+A CYP-mediated drug interaction effect was not observed in subjects with Crohn's disease [see Clinical Pharmacology (12.3)].
 
 ## 7.3 Allergen Immunotherapy
 
