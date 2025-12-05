@@ -1,12 +1,12 @@
 # DOSAGE AND ADMINISTRATION
 
-Methocarbamol tablets, USP, 500 mg – Adults:
+Methocarbamol tablets USP, 500 mg – Adults:
 
 Initial dosage: 3 tablets q.i.d.
 
 Maintenance dosage: 2 tablets q.i.d.
 
-Methocarbamol tablets, USP: 750 mg – Adults:
+Methocarbamol tablets USP, 750 mg – Adults:
 
 Initial dosage: 2 tablets q.i.d.
 

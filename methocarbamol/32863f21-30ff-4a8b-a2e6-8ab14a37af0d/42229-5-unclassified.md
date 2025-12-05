@@ -18,12 +18,14 @@ The mean (± SD) elimination half-life in the cirrhotic patients and the normal 
 
 To report SUSPECTED ADVERSE REACTIONS, contact Solco Healthcare at 1-866-257-2597 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Distributed by: Solco Healthcare U.S., LLC Somerset, NJ 08873, USA
-
 Manufactured by: Prinston Laboratories
 
-3241 Woodpark Blvd, Charlotte, NC 28206
+Charlotte, NC 28206, USA
 
-Revised: 06/2022 9040321-05
+Distributed by:
+
+Solco Healthcare U.S., LLC Somerset, NJ 08873, USA
+
+Revised: 09/2025 9040321-06
 
 Rx only

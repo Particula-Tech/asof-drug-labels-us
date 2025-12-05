@@ -18,13 +18,15 @@ Dispense in tight container.
 
 Keep this and all drugs out of the reach of children.
 
-Manufactured by: Prinston Laboratories 3241 Woodpark Blvd, Charlotte, NC 28206
+Manufactured by: Prinston Laboratories
+
+Charlotte, NC 28206, USA
 
 Distributed by: Solco Healthcare U.S., LLC Somerset, NJ 08873, USA
 
-Rev: APR2025
+Rev: OTC2025
 
-9040317-04
+9040317-05
 
 # Container Label - 500 mg - 100 tablets
 
@@ -46,10 +48,12 @@ Dispense in tight container.
 
 Keep this and all drugs out of the reach of children.
 
-## Manufactured by: Prinston Laboratories 3241 Woodpark Blvd, Charlotte, NC 28206
+Manufactured by: Prinston Laboratories
+
+Charlotte, NC 28206, USA
 
 Distributed by: Solco Healthcare U.S., LLC Somerset, NJ 08873, USA
 
-Rev: APR2025
+Rev: OCT2025
 
-9040315-04
+9040315-05
