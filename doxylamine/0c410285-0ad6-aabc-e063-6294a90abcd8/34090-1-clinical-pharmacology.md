@@ -89,7 +89,7 @@ The terminal elimination half-life of doxylamine and pyridoxine are 12.5 hours a
 
 Table 5: Terminal Elimination Half-Life (T 1/2el) for Doxylamine Succinate and Pyridoxine Hydrochloride Administered as a Single Dose of Two Tablets under Fasting Conditions in Healthy Non-Pregnant AdultWomen
 
-|  | T 1/2el (h) |
+|  | T 1/2el(h) |
 | --- | --- |
 | Doxylamine | 12.6 ± 3.4 |
 | Pyridoxine | 0.4 ± 0.2 |
