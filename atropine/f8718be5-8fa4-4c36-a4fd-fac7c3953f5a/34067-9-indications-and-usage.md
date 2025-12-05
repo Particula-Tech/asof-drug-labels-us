@@ -1,6 +1,6 @@
 # 1 INDICATIONS AND USAGE
 
-Atropine sulfate ophthalmic solution, 1% is indicated for:
+Atropine sulfate ophthalmic solution, 1% is indicated in adults and pediatric patients aged three (3) months and older for:
 
 ## 1.1 Cycloplegia
 

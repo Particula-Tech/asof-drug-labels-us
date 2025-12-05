@@ -1,7 +1,7 @@
 # 11 DESCRIPTION
 
-Atropine Sulfate Ophthalmic Solution USP, 1% is a sterile topical anticholinergic for ophthalmic use.
-The active ingredient is represented by the chemical structure.
+Atropine Sulfate Ophthalmic Solution USP, 1% contains atropine, an anticholinergic, in a sterile colorless, clear solution for topical ophthalmic use.
+The active ingredient is represented by the chemical structure:
 
 Chemical Name: Benzeneacetic acid, α-(hydroxymethyl)-, 8-methyl-8-azabicyclo-[3.2.1]oct-3-yl ester, endo –(±), sulfate (2:1) (salt), monohydrate.
 

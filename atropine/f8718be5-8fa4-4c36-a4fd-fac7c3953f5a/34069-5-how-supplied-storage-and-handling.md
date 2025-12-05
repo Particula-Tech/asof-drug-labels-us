@@ -10,3 +10,4 @@ Atropine Sulfate Ophthalmic Solution USP, 1% is supplied sterile in white opaque
 
 Storage: Store at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 Keep tightly closed.
+After opening, Atropine Sulfate Ophthalmic Solution can be used until the expiration date on the bottle.

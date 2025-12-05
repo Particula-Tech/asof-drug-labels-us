@@ -5,7 +5,7 @@
 Atropine is a reversible antagonist of muscarine-like actions of acetyl-choline and is therefore classified as an antimuscarinic agent.
 Atropine is relatively selective for muscarinic receptors.
 Its potency at nicotinic receptors is much lower, and actions at non-muscarinic receptors are generally undetectable clinically.
-Atropine does not distinguish among the M1, M2, and M3 subgroups of muscarinic receptors.
+Atropine does not distinguish among the M1, M2 and M3 subgroups of muscarinic receptors.
 
 The pupillary constrictor muscle depends on muscarinic cholinoceptor activation.
 This activation is blocked by topical atropine resulting in unopposed sympathetic dilator activity and mydriasis.
@@ -31,11 +31,11 @@ Terminal half-life of l-hyoscamine was not affected by route of administration a
 In another placebo-controlled study, the systemic exposure to l-hyoscyamine, and the anti-cholinergic effects of atropine were investigated in eight ocular surgery patients 56 to 66 years of age, following single topical ocular 0.4 mg atropine dose (given as 40 microliters of atropine sulfate ophthalmic solution, 1%).
 The mean (± standard deviation (SD)) Cmax of l-hyoscyamine in these patients was 860 ± 402 pg/mL, achieved within 8 minutes of eyedrop instillation.
 
-Following intravenous administration, the mean (± SD) elimination half-life (t1/2) of atropine was reported to be longer in pediatric subjects under 2 years (6.9 ± 3.3 hours) and in geriatric patients 65 to 75 years (10.0 ± 7.3 hours), compared to in children over 2 years (2.5 ± 1.2 hours) and in adults 16 to 58 years (3.0 ± 0.9 hours) (see 8.4 Pediatric Use).
+Following intravenous administration, the mean (± SD) elimination half-life (t1/2) of atropine was reported to be longer in pediatric subjects under 2 years (6.9 ± 3.3 hours) and in geriatric patients 65 to 75 years (10.0 ± 7.3 hours), compared to in children over 2 years (2.5 ± 1.2 hours) and in adults 16 to 58 years (3.0 ± 0.9 hours) [see Use in Specific Populations (8.4)].
 
 Atropine is destroyed by enzymatic hydrolysis, particularly in the liver; from 13% to 50% is excreted unchanged in the urine.
 Traces are found in various secretions, including milk.
-The major metabolites of atropine are noratropine, atropin-n-oxide, tropine, and tropic acid.
+The major metabolites of atropine are noratropine, atropin-n-oxide, tropine and tropic acid.
 Atropine readily crosses the placental barrier and enters the fetal circulation, but is not found in amniotic fluid.
 
 Atropine binds poorly (about 44%) to plasma protein, mainly to alpha-1 acid glycoprotein; age has no effect on the serum protein binding of atropine.
