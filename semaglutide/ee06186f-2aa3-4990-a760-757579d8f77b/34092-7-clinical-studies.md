@@ -52,9 +52,10 @@ Treatment Effect for MACE and Other Events in Study 1
 | Key secondary endpoints |  |  |  |
 | CV death3 | 262 (3%) | 223 (2.5%) | 0.85 (0.71; 1.01) |
 | All-cause death4 | 458 (5.2%) | 375 (4.3%) | 0.81 (0.71; 0.93) |
-| Other secondary endpoints |  |  |  |
+| Other endpoints |  |  |  |
 | Fatal or non-fatal myocardial infarction5 | 334 (3.8%) | 243 (2.8%) | 0.72 (0.61; 0.85) |
 | Fatal or non-fatal stroke5 | 178 (2%) | 160 (1.8%) | 0.89 (0.72; 1.11) |
+| Hospitalization for heart failure or urgent heart failure visits5,6 | 122 (1.4%) | 97 (1.1%) | 0.79 (0.60; 1.03) |
 
 * p-value <0.001, one-sided p-value
 
@@ -68,6 +69,8 @@ Treatment Effect for MACE and Other Events in Study 1
 Not statistically significant based on the prespecified testing hierarchy.
 
 5 Not included in the prespecified testing hierarchy for controlling type-I error.
+
+6 Effect on heart failure has not been established.
 
 NOTE: Time to first event was analyzed in a Cox proportional hazards model with treatment as factor.
 For patients with multiple events, only the first event contributed to the composite endpoint.
@@ -357,7 +360,7 @@ At baseline, 24.7% of patients had type 2 diabetes mellitus
 ## 14.3 Weight Reduction and Long-Term Maintenance Study in Pediatric Patients Aged 12 Years and Older with Obesity
 
 Overview of Clinical Trial in Pediatric Patients WEGOVY was evaluated in a 68-week, double-blind, randomized, parallel group, placebo-controlled, multi-center trial in 201 pubertal pediatric patients aged 12 years and older with BMI corresponding to ≥95th percentile standardized for age and sex (Study 7) (NCT#04102189).
-After a 12-week lifestyle run-in period (including dietary recommendations and physical activity counseling), patients were randomized 2:1 to WEGOVY once-weekly or placebo once-weekly.
+After a 12-week lifestyle run-in period (including dietary recommendations and physical activity counseling), patients were randomized 2:1 to WEGOVY once weekly or placebo once weekly.
 WEGOVY or matching placebo was escalated to 2.4 mg or maximally tolerated dose during a 16-week period followed by 52 weeks on maintenance dose.
 Of WEGOVY-treated patients who completed the trial, 86.7% were on the 2.4 mg dosage at the end of the trial; for 5% of patients, 1.7 mg was the maximum tolerated dosage.
 
@@ -407,18 +410,18 @@ The cumulative frequency distribution of change in BMI is shown in Figure 11.
 
 Figure 10.Change from Baseline (%) in BMI in Pediatric Patients with Obesity Aged 12 Years and Older in Study 7
 
-Observed values for patients completing each scheduled visit, and estimates with multiple imputations from retrieved dropouts (RD-MI).
+Observed values for patients completing each scheduled visit, and estimates with multiple imputations from retrieved dropouts (RD-MI)
 
 Figure 11.Change in BMI (%) from Baseline to Week 68 in Pediatric Patients with Obesity Aged 12 Years and Older in Study 7
 
-Observed data from in-trial period including imputed data for missing observations (RD-MI).
+Observed data from in-trial period including imputed data for missing observations (RD-MI)
 
 Effect of WEGOVY on Anthropometry and Cardiometabolic Parameters in Pediatric Patients with Obesity Aged 12 Years and Older
 
 Changes in waist circumference and cardiometabolic parameters with WEGOVY are shown in Table 13 for the study in pediatric patients aged 12 years and older.
 
 Table 13.
-Mean Changes in Anthropometry and Cardiometabolic Parameters in Pediatric Patients with Obesity Aged 12 Years and Older in Study 71
+Mean Changes in Anthropometry and Cardiometabolic Parameters in Pediatric Patients with Obesity Aged 12 Years and Older in Study 7
 
 |  | PLACEBON=67 |  | WEGOVYN=134 |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -444,7 +447,7 @@ Model based estimates based on an analysis of covariance model including treatme
 
 5 Baseline value is the geometric mean.
 
-## 14.4 Noncirrhotic Metabolic Dysfunction-Associated Steatohepatitis with Moderate to Advanced Liver Fibrosis in Adults
+## 14.4 Noncirrhotic Metabolic Dysfunction-associated Steatohepatitis with Moderate to Advanced Liver Fibrosis in Adults
 
 Overview of Clinical Trial
 
@@ -452,9 +455,9 @@ The efficacy of WEGOVY was evaluated based on an efficacy analysis at Week 72 in
 Enrolled patients had a baseline or recent liver biopsy showing clinically significant MASLD (metabolic dysfunction-associated steatotic liver disease), defined as MASH with fibrosis stage 2 or 3 and a non-alcoholic fatty liver disease (NAFLD) Activity Score (NAS) ≥4 with a score of 1 or more in steatosis, lobular inflammation, and hepatocyte ballooning.
 Efficacy determination was based on the effect of WEGOVY on resolution of steatohepatitis without worsening of liver fibrosis and on at least one stage improvement in liver fibrosis without worsening of steatohepatitis, on post-baseline liver biopsies collected at 72 weeks.
 
-The Week 72 analysis included 800 F2 and F3 (at eligibility) patients randomized 1:2 to receive placebo (n=266) or WEGOVY once-weekly (n=534), in addition to standard of care for cardiometabolic comorbidities and healthy lifestyle counseling.
-WEGOVY or matching placebo was escalated to 2.4 mg once-weekly during the initial 16 weeks of the treatment period.
-Dose escalation could be prolonged or patients could remain at a lower dose if 2.4 mg once-weekly was not tolerable.
+The Week 72 analysis included 800 F2 and F3 (at eligibility) patients randomized 1:2 to receive placebo (n=266) or WEGOVY once weekly (n=534), in addition to standard of care for cardiometabolic comorbidities and healthy lifestyle counseling.
+WEGOVY or matching placebo was escalated to 2.4 mg once weekly during the initial 16 weeks of the treatment period.
+Dose escalation could be prolonged or patients could remain at a lower dose if 2.4 mg once weekly was not tolerable.
 
 Demographic and baseline characteristics were balanced between treatment and placebo groups.
 Overall, the median (Q1 to Q3) age of patients at baseline was 57 (49 to 65) years, 57% were female, 18% were Hispanic, 68% were White, 27% were Asian, and 0.6% were Black or African American.
@@ -474,7 +477,7 @@ Baseline Characteristics in Adults Patients with Noncirrhotic MASH with Stage 2 
 | Dyslipidemia, n (%) | 198 (25) |
 | Statin use, n (%) | 300 (38) |
 | Fibrosis Index Based on 4 Factors (FIB-4), Median (Q1, Q3)a | 1.6 (1.1, 2.3) |
-| Enhanced Liver Fibrosis (ELF), Median (Q1, Q3) | 9.2(9.3, 10.5) |
+| Enhanced Liver Fibrosis (ELF), Median (Q1, Q3) | 9.9 (9.3, 10.5) |
 
 a Less than 5% missingness in the variable is omitted.
 

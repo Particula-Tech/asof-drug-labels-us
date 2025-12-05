@@ -47,7 +47,7 @@ Maximum concentration of semaglutide is reached 1 to 3 days post dose.
 Similar exposure was achieved with subcutaneous administration of semaglutide in the abdomen, thigh, or upper arm.
 
 The average semaglutide steady state concentration following subcutaneous administration of WEGOVY was approximately 75 nmol/L in patients with either obesity (BMI greater than or equal to 30 kg/m2) or overweight (BMI greater than or equal to 27 kg/m2).
-The steady state exposure of WEGOVY increased proportionally with doses up to 2.4 mg once-weekly.
+The steady state exposure of WEGOVY increased proportionally with doses up to 2.4 mg once weekly.
 
 Distribution
 
@@ -69,8 +69,7 @@ Approximately 3% of the dose is excreted in the urine as intact semaglutide.
 
 Specific Populations
 
-The effects of intrinsic factors on the pharmacokinetics of semaglutide are shown in Figure 2.
-Fibrosis stage (F2 or F3) did not impact semaglutide exposure in patients with MASH.
+The effects of intrinsic factors on the pharmacokinetics of semaglutide are shown in Figure 2.Fibrosis stage (F2 or F3) did not impact semaglutide exposure in patients with MASH.
 
 1. Figure 2.
    Impact of intrinsic factors on semaglutide exposure

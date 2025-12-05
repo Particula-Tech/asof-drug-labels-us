@@ -22,7 +22,7 @@ Adverse Reactions in Clinical Trials in Adults with Obesity or Overweight for We
 
 WEGOVY 2.4 mg Subcutaneous Weekly Dosage
 
-WEGOVY was evaluated for safety in 3 randomized, double-blind, placebo-controlled trials that included 2,116 adult patients with obesity or overweight treated with 2.4 mg WEGOVY for up to 68 weeks and a 7 week off-drug follow-up period [see Clinical Studies (14.2)].
+WEGOVY was evaluated for safety in 3 randomized, double-blind, placebo-controlled trials that included 2,116 adult patients with obesity or overweight treated with 2.4 mg WEGOVY for up to 68 weeks and a 7-week off-drug follow-up period [see Clinical Studies (14.2)].
 Baseline characteristics included a mean age of 48 years, 71% female, 72% White, 14% Asian, 9% Black or African American, and 5% reported as other or unknown; and 85% were not Hispanic or Latino ethnicity, 13% were Hispanic or Latino ethnicity, and 2% reported as unknown.
 The baseline characteristics were 42% with hypertension, 19% with type 2 diabetes, 43% with dyslipidemia, 28% with a BMI greater than 40 kg/m2, and 4% with CV disease.
 
@@ -32,7 +32,7 @@ The most common adverse reactions leading to discontinuation were nausea (1.8% v
 Adverse reactions reported in clinical trials in adults and greater than or equal to 2% of WEGOVY-treated patients and more frequently than in placebo-treated patients are shown in Table 2.
 
 Table 2.
-Adverse Reactions (≥2% and Greater Than Placebo) in WEGOVY-Treated Adults with Obesity or Overweight for Weight Reduction
+Adverse Reactions (≥2% and Greater Than Placebo) in WEGOVY-treated Adults with Obesity or Overweight for Weight Reduction
 
 |  | Placebo N=1,261 % | WEGOVY 2.4 mg N=2,116 % |
 | --- | --- | --- |
@@ -123,7 +123,7 @@ Acute Gallbladder Disease
 
 In WEGOVY clinical trials in adults for weight reduction, cholelithiasis was reported by 1.6% of WEGOVY-treated patients and 0.7% of placebo-treated patients.
 Cholecystitis was reported by 0.6% of WEGOVY-treated adult patients and 0.2% of placebo-treated patients.
-In a clinical trial in pediatric patients aged 12 years and older for weight reduction[see Clinical Studies (14.3)], cholelithiasis was reported by 3.8% of WEGOVY-treated patients and 0% placebo-treated patients.
+In a clinical trial in pediatric patients aged 12 years and older for weight reduction [see Clinical Studies (14.3)], cholelithiasis was reported by 3.8% of WEGOVY-treated patients and 0% placebo-treated patients.
 Cholecystitis was reported by 0.8% of WEGOVY-treated pediatric patients and 0% placebo-treated patients.
 
 Hypoglycemia
@@ -234,7 +234,7 @@ In the CV outcomes trial in adults, increases in total bilirubin greater than or
 The following adverse reactions have been reported during post-approval use of semaglutide, the active ingredient of WEGOVY.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal Disorders: acute pancreatitis and necrotizing pancreatitis, sometimes resulting in death; ileus intestinal obstruction, severe constipation including fecal impaction.
+Gastrointestinal Disorders: acute pancreatitis and necrotizing pancreatitis, sometimes resulting in death; ileus, intestinal obstruction, severe constipation including fecal impaction.
 
 Hypersensitivity: anaphylaxis, angioedema, rash, urticaria
 

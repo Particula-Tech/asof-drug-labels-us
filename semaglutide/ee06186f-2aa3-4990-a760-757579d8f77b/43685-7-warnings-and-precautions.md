@@ -29,7 +29,7 @@ The incidence of cholelithiasis and cholecystitis was higher in WEGOVY-treated p
 In randomized clinical trials in adults for weight reduction, cholelithiasis was reported by 1.6% of WEGOVY-treated patients and 0.7% of placebo-treated patients.
 Cholecystitis was reported by 0.6% of WEGOVY-treated adult patients and 0.2% of placebo-treated patients.
 In a clinical trial in pediatric patients aged 12 years and older for weight reduction, cholelithiasis was reported by 3.8% of WEGOVY-treated patients and 0% placebo-treated patients.
-Cholecystitis was reported by 0.8% of WEGOVY-treated pediatric patients and 0% placebo-treated patients [see Adverse Reactions(6.1)].
+Cholecystitis was reported by 0.8% of WEGOVY-treated pediatric patients and 0% placebo-treated patients [see Adverse Reactions (6.1)].
 
 Substantial or rapid weight loss can increase the risk of cholelithiasis; however, the incidence of acute gallbladder disease was greater in WEGOVY-treated patients than in placebo-treated patients, even after accounting for the degree of weight loss.
 If cholelithiasis is suspected, gallbladder studies and appropriate clinical follow-up are indicated.
@@ -43,7 +43,7 @@ One episode of severe hypoglycemia (requiring the assistance of another person) 
 
 Patients with diabetes mellitus taking WEGOVY in combination with insulin or an insulin secretagogue (e.g., sulfonylurea) may have an increased risk of hypoglycemia, including severe hypoglycemia.
 Hypoglycemia has been observed in patients treated with semaglutide at doses of 0.5 mg and 1 mg in combination with insulin.
-The use of WEGOVY (semaglutide 2.4 mg or 1.7 mg once-weekly) in patients with type 1 diabetes mellitus or in combination with insulin has not been evaluated.
+The use of WEGOVY (semaglutide 2.4 mg or 1.7 mg once weekly) in patients with type 1 diabetes mellitus or in combination with insulin has not been evaluated.
 
 Inform patients of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
 In patients with diabetes, monitor blood glucose prior to starting WEGOVY and during WEGOVY treatment.
@@ -58,7 +58,7 @@ Monitor renal function in patients reporting adverse reactions to WEGOVY that co
 
 ## 5.6 Severe Gastrointestinal Adverse Reactions
 
-Use of WEGOVY has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions(6)].
+Use of WEGOVY has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
 In WEGOVY clinical trials in adults for weight reduction, severe gastrointestinal adverse reactions were reported more frequently among patients receiving WEGOVY (4.1%) than placebo (0.9%).
 Severe gastrointestinal adverse reactions have also been reported postmarketing with GLP-1 receptor agonists.
 

@@ -63,6 +63,12 @@ WEGOVY may cause fetal harm.
 Advise patients to inform their healthcare provider of a known or suspected pregnancy.
 Advise patients who are exposed to WEGOVY during pregnancy to contact Novo Nordisk at 1-877-390-2760 or www.wegovypregnancyregistry.com [see Use in Specific Populations (8.1)].
 
+Missed Doses
+
+Inform patients if a dose is missed and the next scheduled dose is more than 2 days away (48 hours), administer WEGOVY as soon as possible.
+If one dose is missed and the next scheduled dose is less than 2 days away (48 hours), do not administer the dose.
+Inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.4)].
+
 Marketed by: Novo Nordisk Inc., Plainsboro, NJ 08536
 
 For additional information about WEGOVY contact:
@@ -77,6 +83,6 @@ Plainsboro, NJ 08536
 
 WEGOVY® is a registered trademark of Novo Nordisk A/S.
 
-PATENT INFORMATION: http://www.novonordisk-us.com/products/product-patents.html
+Patent Information: http://www.novonordisk-us.com/products/product-patents.html
 
 © 2025 Novo Nordisk
