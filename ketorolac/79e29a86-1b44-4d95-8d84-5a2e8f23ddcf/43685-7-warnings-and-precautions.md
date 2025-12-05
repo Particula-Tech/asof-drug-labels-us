@@ -31,6 +31,11 @@ Topical NSAIDs should be used with caution in these patients.
 
 Postmarketing experience with topical NSAIDs also suggests that use more than 1 day prior to surgery or use beyond 14 days post-surgery may increase patient risk for the occurrence and severity of corneal adverse events.
 
-## 5.5 Contact Lens Wear
+## 5.5 Risk of Contamination
+
+Avoid allowing the tip of the bottle to contact the eye or surrounding structures because this could cause the tip to become contaminated by common bacteria known to cause ocular infections.
+Serious damage to the eye and subsequent loss of vision may result from using contaminated solutions.
+
+## 5.6 Contact Lens Wear
 
 Ketorolac tromethamine ophthalmic solution should not be administered while wearing contact lenses.

@@ -1,12 +1,14 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosing
+## 2.1 Recommended Dosage
 
-Patient Dosing
+Temporary Relief of Ocular Itching Due to Seasonal Allergic Conjunctivitis
 
-The recommended dose of ketorolac tromethamine ophthalmic solution is one drop four times a day to the affected eye(s) for relief of ocular itching due to seasonal allergic conjunctivitis.
+The recommended dosage of ketorolac tromethamine ophthalmic solution is one drop four times a day to the affected eye(s) for the temporary relief of ocular itching due to seasonal allergic conjunctivitis.
 
-For the treatment of postoperative inflammation in patients who have undergone cataract extraction, one drop of ketorolac tromethamine ophthalmic solution should be applied to the affected eye four times daily beginning 24 hours after cataract surgery and continuing through the first 2 weeks of the postoperative period.
+Treatment of Postoperative Inflammation in Patients Who Have Undergone Cataract Extraction
+
+Apply one drop of ketorolac tromethamine ophthalmic solution should be applied to the affected eye four times daily beginning 24 hours after cataract surgery and continuing through the first 2 weeks of the postoperative period for the treatment of postoperative inflammation in patients who have undergone cataract extraction.
 
 ## 2.2 Use with Other Topical Ophthalmic Medications
 
