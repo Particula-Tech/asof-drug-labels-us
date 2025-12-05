@@ -12,12 +12,13 @@ At baseline, mean visual acuity was approximately 60 letters (range: 24 to 78 le
 The primary efficacy endpoint was the change from baseline in BCVA at week 48 as measured by the Early Treatment Diabetic Retinopathy Study (ETDRS) letter score.
 
 Both HDq12 and HDq16 treatments were shown to be non-inferior and clinically equivalent to 2q8 treatment with respect to the change in BCVA score at week 48 using the pre-specified non-inferiority margin of 4 letters.
+6.2% of total EYLEA HD treated patients who met protocol-defined criteria to be treated every 8 weeks did not maintain a response with every 8 weeks dosing after successful response to the 3 initial monthly doses.
 In patients completing week 48, the mean number of injections administered were 5.2 in the HDq16 group (n=312), 6.1 in the HDq12 group (n=316) and 6.9 in the EYLEA q8 group (n=309).
-Detailed results from the analysis of the PULSAR study are shown in Table 2 and Figure 8 below.
+Detailed results from the analysis of the PULSAR study are shown in Table 3 and Figure 8 below.
 
 Efficacy results in all subgroups (e.g., age, gender, geographic region, ethnicity, race, baseline BCVA and lesion type) were consistent with those in the overall population.
 
-Table 2: Efficacy Outcomes (Full Analysis Set) in PULSAR Study
+Table 3: Efficacy Outcomes (Full Analysis Set) in PULSAR Study
 
 | Efficacy Outcomes | EYLEA HDq12 | EYLEA HDq16 | EYLEA 2q8 |
 | --- | --- | --- | --- |
@@ -41,10 +42,11 @@ At baseline, the overall mean visual acuity was 63 letters (range: 24 to 79 lett
 
 The primary efficacy endpoint was the change from baseline in BCVA at week 48 as measured by the ETDRS letter score.
 Both HDq12 and HDq16 treatments were shown to be non-inferior and clinically equivalent to 2q8 treatment with respect to the change in BCVA score at week 48 using the pre-specified non-inferiority margin of 4 letters.
-In patients completing week 48, the mean number of injections administered were 5.0 in the HDq16 group (n=155), 6.0 in the HDq12 group (n=298) and 7.9 in the EYLEA q8 group (n=156).
-Detailed results from the analysis of the PHOTON study are shown in Table 3 and Figure 9 below.
+1.5% of total EYLEA HD treated patients who met protocol-defined criteria to be treated every 8 weeks did not maintain a response with every 8 weeks dosing after successful response to the 3 initial monthly doses.
+In patients completing week 48, the mean number of injections administered were 5.0 in the HDq16 group (n=155), 6.0 in the HDq12 group (n=300) and 7.9 in the EYLEA q8 group (n=157).
+Detailed results from the analysis of the PHOTON study are shown in Table 4 and Figure 9 below.
 
-Table 3: Efficacy Outcomes (Full Analysis Set) in PHOTON Study
+Table 4: Efficacy Outcomes (Full Analysis Set) in PHOTON Study
 
 | Efficacy Outcomes | EYLEA HDq12 | EYLEA HDq16 | EYLEA 2q8 |
 | --- | --- | --- | --- |
@@ -67,10 +69,11 @@ Each EYLEA HD group was compared to the 2q8 group using a NI margin of 10%.
 
 The ETDRS-DRSS score was assessed at baseline and approximately every 3 months thereafter for the duration of the study [see Clinical Studies (14.2)].
 Baseline ETDRS-DRSS scores were generally balanced across treatment groups.
+1.5% of total EYLEA HD treated patients who met protocol-defined criteria to be treated every 8 weeks did not maintain a response with every 8 weeks dosing after successful response to the 3 initial monthly doses.
 
-Results from the analysis of ETDRS-DRSS scores at week 48 in the PHOTON study are shown in Table 4 below:
+Results from the analysis of ETDRS-DRSS scores at week 48 in the PHOTON study are shown in Table 5 below:
 
-Table 4: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseline in the ETDRS-DRSS Score at Week 48 (Full Analysis Set) in PHOTON
+Table 5: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseline in the ETDRS-DRSS Score at Week 48 (Full Analysis Set) in PHOTON
 
 | Efficacy Outcomes | EYLEA HDq12 | EYLEA HDq16 | EYLEA 2q8 |
 | --- | --- | --- | --- |
@@ -82,3 +85,33 @@ Table 4: Proportion of Patients Who Achieved a ≥2-Step Improvement from Baseli
 The EYLEA HDq16 did not meet the non-inferiority criteria for the proportion of patients with a ≥2-step improvement on ETDRS-DRSS and is not considered clinically equivalent to EYLEA administered every 8 weeks.
 
 Results of the subgroups (e.g., age, gender, race, ethnicity, baseline BCVA and prior DME treatment) on the proportion of patients who achieved a ≥2-step improvement on the ETDRS-DRSS from baseline to week 48 were, in general, consistent with those in the overall population.
+
+## 14.4 Macular Edema Following Retinal Vein Occlusion (RVO)
+
+The safety and efficacy of EYLEA HD was assessed in a randomized, multi-center, double-masked, active-controlled study (QUASAR) in patients with treatment naïve macular edema secondary to RVO.
+A total of 892 patients (425 with CRVO/HRVO and 467 with BRVO) were treated and analyzed for efficacy (591 with EYLEA HD).
+Patients were randomly assigned in a 1:1:1 ratio to 1 of 3 treatment groups: 1) EYLEA HD administered every 8 weeks, following 3 initial monthly doses (HDq8/3); 2) EYLEA HD administered every 8 weeks, following 5 initial monthly doses (HDq8/5); 3) EYLEA 2 mg administered every 4 weeks (2q4).
+Dosing intervals could be shortened or extended by 4-week increments based on protocol-defined visual and anatomic criteria.
+Intervals could be shortened beginning at week 16 for the HDq8/3 group, at week 24 for the HDq8/5 group and, if previously extended, at week 40 for the 2q4 group; intervals could be extended beginning at week 32 for the HDq8/3 and 2q4 groups and at week 40 for the HDq8/5 group.
+Patient ages ranged from 23 to 95 years with a mean of 65.9 years.
+At baseline, mean visual acuity was approximately 55 letters (range: 18 to 74 letters).
+
+The primary efficacy endpoint was the change from baseline in BCVA at week 36 as measured by the Early Treatment Diabetic Retinopathy Study (ETDRS) letter score.
+
+Both EYLEA HD groups were shown to be non-inferior and clinically equivalent to EYLEA with respect to the change in BCVA score at week 36 using the pre-specified non-inferiority margin of 4 letters.
+9.1% of total EYLEA HD treated patients met protocol-defined criteria to be treated every 4 weeks.
+Detailed results from the analysis of the QUASAR study are shown in Table 6 and Figure 10 below.
+
+Efficacy results in all subgroups (e.g., age, gender, geographic region, ethnicity, race, baseline BCVA and RVO subtype) were generally consistent with those in the overall population.
+
+Table 6: Efficacy Outcomes (Full Analysis Set) in QUASAR Study
+
+| Full Analysis SetFull Analysis Set (FAS) includes all randomized patients who received at least 1 dose of study medication | N=293 | N=298 | N=301 |
+| --- | --- | --- | --- |
+| Efficacy Outcomes | EYLEA HDq8/3 | EYLEA HDq8/5 | EYLEA 2q4 |
+| Mean change in BCVA as measured by ETDRS letter score from baseline (SD) at week 36Observed values at week 36: n=260 for HDq8/3; n=248 for HDq8/5; n=264 for 2q4 | 17.0 (11.8) | 19.1 (11.2) | 17.8 (13.1) |
+| LS mean (SE) change from baseline Estimate based on the MMRM model, was computed for the differences of HDq8/3 minus 2q4 and HDq8/5 minus 2q4, respectively, with two-sided 95% CIs | 17.0 (0.7) | 17.9 (0.6) | 17.1 (0.7) |
+| Difference in LS mean (95% CI) | -0.1 (-2.0, 1.9) | 0.8 (-1.1, 2.7) |  |
+| BCVA = Best Corrected Visual Acuity; ETDRS = Early Treatment Diabetic Retinopathy Study; SD = Standard Deviation; LS = Least Square; SE = Standard Error; CI = Confidence Interval; MMRM = Mixed Model for Repeated Measurements |  |  |  |
+
+Figure 10: Mean Change from Baseline in BCVA as measured by ETDRS Letter Score by Visits through Week 36 (Observed Cases)

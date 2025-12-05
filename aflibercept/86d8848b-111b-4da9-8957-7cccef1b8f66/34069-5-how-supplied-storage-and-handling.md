@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-EYLEA HD (aflibercept) is a clear to slightly opalescent, colorless to pale yellow solution supplied in the following presentations [see Dosage and Administration (2.5) and (2.6)].
+EYLEA HD (aflibercept) is a clear to slightly opalescent, colorless to pale yellow solution supplied in the following presentations [see Dosage and Administration (2.6) and (2.7)].
 Each vial is for single eye use only.
 Discard unused portion.
 

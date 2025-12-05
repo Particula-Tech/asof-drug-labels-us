@@ -11,16 +11,19 @@ The following potentially serious adverse reactions are described elsewhere in t
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in other clinical trials of the same or another drug and may not reflect the rates observed in practice.
 
-A total of 1164 patients were treated with EYLEA HD and 503 patients were treated with EYLEA 2 mg in two clinical studies.
-The most common adverse reactions reported in ≥3% of patients treated with EYLEA HD were cataract, conjunctival hemorrhage, intraocular pressure increased, ocular discomfort/eye pain/eye irritation, vision blurred, vitreous floaters, vitreous detachment, corneal epithelium defect, and retinal hemorrhage.
-The data described below reflect exposure to EYLEA HD or EYLEA 2 mg in controlled clinical studies (PULSAR and PHOTON), each for 48 weeks [see Clinical Studies (14.1, 14.2)].
+A total of 1755 patients were treated with EYLEA HD and 804 patients were treated with EYLEA 2 mg in three clinical studies.
+The most common adverse reactions reported in ≥3% of patients treated with EYLEA HD were cataract, conjunctival hemorrhage, corneal epithelium defect, intraocular pressure increased, ocular discomfort/eye pain/eye irritation, retinal hemorrhage, vision blurred, vitreous detachment and vitreous floaters.
+
+Neovascular (Wet) Age-Related Macular Degeneration (AMD) and Diabetic Macular Edema (DME)
+
+The data described below reflect exposure to EYLEA HD administered every 12 weeks (HDq12), EYLEA HD administered every 16 weeks (HDq16), or EYLEA 2 mg administered every 8 weeks (2q8) in controlled clinical studies (PULSAR and PHOTON), each for 48 weeks [see Clinical Studies (14.1, 14.2)].
 
 Table 1: Adverse Reactions (≥1%) in at least one group in the PULSAR or PHOTON studies
 
 |  | n=335 | n=338 | n=336 | n=328 | n=163 | n=167 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Adverse Reactions | PULSAR |  |  | PHOTON |  |  |
-| EYLEA HD q12 | EYLEA HD q16 | EYLEA 2q8 | EYLEA HD q12 | EYLEA HD q16 | EYLEA 2q8 |  |
+| EYLEA HDq12 | EYLEA HDq16 | EYLEA 2q8 | EYLEA HDq12 | EYLEA HDq16 | EYLEA 2q8 |  |
 | CataractRepresents grouping of related terms | 4% | 4% | 4% | 3% | 6% | 3% |
 | Conjunctival hemorrhage | 3% | 2% | 1% | 4% | 4% | 4% |
 | Intraocular pressure increased | 4% | 4% | 2% | 3% | 1% | 4% |
@@ -38,6 +41,30 @@ Table 1: Adverse Reactions (≥1%) in at least one group in the PULSAR or PHOTON
 | Retinal pigment epithelial detachment | 1% | 1% | 2% | 0 | 0 | 0 |
 
 Adverse drug reactions (ADRs) reported in <1% of participants treated with EYLEA HD were ocular hyperemia (includes adverse events of conjunctival hyperemia, conjunctival irritation, ocular hyperemia), lacrimation increased, eyelid edema, hypersensitivity (includes adverse events of rash, urticaria, pruritus), retinal tear and injection site hemorrhage.
+
+Macular Edema Following Retinal Vein Occlusion (RVO)
+
+The data described below reflects 36 weeks exposure to EYLEA HD administered every 8 weeks (HDq8) after 3 or 5 initial monthly doses (HDq4), or EYLEA 2 mg administered every 4 weeks (2q4) in a controlled clinical study (QUASAR).
+[see Clinical Studies (14.4)].
+
+Table 2: Most Common Adverse Reactions (≥1%) in at least one group in the QUASAR study
+
+| Adverse Reactions | EYLEA HDq8 following 3 initial doses (HDq4) (N=293) | EYLEA HDq8 following 5 initial doses (HDq4) (N=298) | EYLEA 2q4 (N=301) |
+| --- | --- | --- | --- |
+| Intraocular pressure increasedRepresents grouping of related terms | 7% | 6% | 3% |
+| Vision blurred | 5% | 3% | 2% |
+| Conjunctival hemorrhage | 3% | 2% | 2% |
+| Ocular discomfort/eye pain/eye irritation | 3% | 3% | 1% |
+| Vitreous detachment | 3% | 3% | 1% |
+| Cataract | 2% | 4% | 3% |
+| Corneal epithelium defect | 2% | 2% | 2% |
+| Dry eye | 2% | 2% | 2% |
+| Vitreous floaters | 1% | 1% | 1% |
+| Intraocular inflammation | 1% | <1% | 1% |
+| Vitreous hemorrhage | 1% | 1% | 0 |
+| HypersensitivityRepresents reported non-ocular adverse events of hypersensitivity, rash, urticaria and pruritus | 1% | 1% | 1% |
+
+Adverse reactions reported in <1% of the patients treated with EYLEA HD in the RVO study were foreign body sensation in eyes (includes foreign body sensation in eyes and sensation of foreign body), ocular hyperaemia (includes conjunctival hyperemia, conjunctival irritation, ocular hyperemia), retinal hemorrhage, retinal pigment epithelial detachment (includes detachment of retinal pigment epithelium), retinal pigment epithelial tear/epitheliopathy (includes retinal pigment epitheliopathy), and retinal tear.
 
 ## 6.2 Postmarketing Experience
 

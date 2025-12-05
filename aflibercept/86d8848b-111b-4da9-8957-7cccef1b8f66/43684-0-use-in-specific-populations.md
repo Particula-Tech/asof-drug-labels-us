@@ -56,6 +56,6 @@ The safety and effectiveness of EYLEA HD in pediatric patients have not been est
 
 ## 8.5 Geriatric Use
 
-In PULSAR, approximately 90% (604/673) of the patients in the HDq12 and HDq16 groups were 65 years of age or older and approximately 51% (343/673) were 75 years of age or older.
+In the clinical studies, approximately 66% (1156/1755) of the patients in the HD groups were 65 years of age or older and approximately 31% (543/1755) of the patients were 75 years of age or older.
 
-In PHOTON, approximately 44% (214/491) of the patients in the HDq12 and HDq16 groups were 65 years of age or older and approximately 10% (50/491) were 75 years of age or older.
+No overall differences in safety or effectiveness of EYLEA HD have been observed.
