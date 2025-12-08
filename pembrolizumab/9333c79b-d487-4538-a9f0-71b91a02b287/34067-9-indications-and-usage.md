@@ -59,6 +59,8 @@ KEYTRUDA, as a single agent, is indicated for the treatment of patients with loc
 - who are not eligible for any platinum-containing chemotherapy, or
 - who have disease progression during or following platinum-containing chemotherapy or within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
 
+KEYTRUDA, in combination with enfortumab vedotin, as neoadjuvant treatment and then continued after cystectomy as adjuvant treatment, is indicated for the treatment of adult patients with muscle invasive bladder cancer (MIBC) who are ineligible for cisplatin-containing chemotherapy.
+
 KEYTRUDA, as a single agent, is indicated for the treatment of patients with Bacillus Calmette-Guerin (BCG)-unresponsive, high-risk, non-muscle invasive bladder cancer (NMIBC) with carcinoma in situ (CIS) with or without papillary tumors who are ineligible for or have elected not to undergo cystectomy.
 
 ## 1.8 Microsatellite Instability-High or Mismatch Repair Deficient Cancer
