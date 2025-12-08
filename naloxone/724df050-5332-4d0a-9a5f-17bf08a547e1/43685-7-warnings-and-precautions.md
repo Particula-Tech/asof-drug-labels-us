@@ -16,11 +16,7 @@ Buprenorphine antagonism is characterized by a gradual onset of the reversal eff
 ## 5.3 Precipitation of Severe Opioid Withdrawal
 
 The use of NARCAN Nasal Spray in patients who are opioid-dependent may precipitate opioid withdrawal characterized by the following signs and symptoms: body aches, diarrhea, tachycardia, fever, runny nose, sneezing, piloerection, sweating, yawning, nausea or vomiting, nervousness, restlessness or irritability, shivering or trembling, abdominal cramps, weakness, and increased blood pressure.
-In neonates, opioid withdrawal may be life-threatening if not recognized and properly treated and may include the following signs and symptoms: convulsions, excessive crying, and hyperactive reflexes.
-Monitor the patient for the development of the signs and symptoms of opioid withdrawal.
-
-There are limited data to inform if the 2 mg dose of NARCAN Nasal Spray will avoid precipitation of severe opioid withdrawal in the setting of opioid dependence.
-However, the 2 mg dose may not provide an adequate and timely reversal in persons who may be exposed to an overdose of a potent or very high dose of opioids.
+In neonates, opioid withdrawal may be life-threatening if not recognized and properly treated and may include the following signs and symptoms: convulsions, excessive crying, and hyperactive reflexes.Monitor the patient for the development of the signs and symptoms of opioid withdrawal.
 
 Abrupt postoperative reversal of opioid depression after using naloxone hydrochloride may result in nausea, vomiting, sweating, tremulousness, tachycardia, hypotension, hypertension, seizures, ventricular tachycardia and fibrillation, pulmonary edema, and cardiac arrest.
 Death, coma, and encephalopathy have been reported as sequelae of these events.

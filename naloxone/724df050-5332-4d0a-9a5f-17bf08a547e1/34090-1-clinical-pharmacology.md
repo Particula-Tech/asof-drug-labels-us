@@ -24,20 +24,20 @@ Table 1 Mean Pharmacokinetic Parameters (CV%) for Naloxone Following NARCAN (Nal
 
 | Parameter | 2 mg – One Nasal Spray in one nostril 20 mg/ml (N=29) | 4 mg – Two Nasal Sprays, one in each nostril 20 mg/ml (N=29) | 4 mg – One Nasal Spray in one nostril 40 mg/ml (N=29) | 8 mg –Two Nasal Sprays, one in each nostril 40 mg/ml (N=29) | 0.4 mg Intramuscular Injection (N=29) |
 | --- | --- | --- | --- | --- | --- |
-| tmax (h)tmax reported as median (minimum, maximum) | 0.33 (0.25, 1.00) | 0.33 (0.17, 0.57) | 0.50 (0.17, 1.00) | 0.33 (0.17, 1.00) | 0.38 (0.08, 2.05) |
-| Cmax (ng/mL) | 2.91 (35) | 6.30 (34) | 4.83 (43) | 9.70 (36) | 0.88 (31) |
+| t max(h) t max reported as median (minimum, maximum) | 0.33 (0.25, 1.00) | 0.33 (0.17, 0.57) | 0.50 (0.17, 1.00) | 0.33 (0.17, 1.00) | 0.38 (0.08, 2.05) |
+| C max(ng/mL) | 2.91 (35) | 6.30 (34) | 4.83 (43) | 9.70 (36) | 0.88 (31) |
 | AUCt (hr.ng/mL) | 4.60 (27) | 9.64 (24) | 7.87 (37) | 15.3 (23) | 1.75 (23) |
-| AUC0-inf (h*ng/mL) | 4.66 (27) | 9.74 (24) | 7.95 (37) | 15.5 (23) | 1.79 (23) |
+| AUC 0-inf(h*ng/mL) | 4.66 (27) | 9.74 (24) | 7.95 (37) | 15.5 (23) | 1.79 (23) |
 | t½ (h) | 1.85 (33) | 2.19 (33) | 2.08 (30) | 2.10 (32) | 1.24 (26) |
-| Dose normalized Relative BA (%) vs. IM | 51.7 (22) | 54.0 (23) | 44.2 (31)N=28 for Relative BA. | 43.1 (24) | 100 |
+| Dose normalized Relative BA (%) vs. IM | 51.7 (22) | 54.0 (23) | 44.2 (31) N=28 for Relative BA. | 43.1 (24) | 100 |
 
 Figure 1 Mean ± SD Plasma Concentration of Naloxone, (a) 0-6 h and (b) 0-1h Following Intranasal Administration and Intramuscular Injection
 
-| (a) Figure 1 Mean ± SD Plasma Concentration of Naloxone, (a) 0-6 h and (b) 0-1h Following Intranasal Administration and Intramuscular Injection |
+| (a) |
 | --- |
-| (b) Figure 1 Mean ± SD Plasma Concentration of Naloxone, (a) 0-6 h and (b) 0-1h Following Intranasal Administration and Intramuscular Injection |
+| (b) |
 
-The median naloxone tmax after intranasal administration of NARCAN Nasal Spray (one nasal spray in one nostril (2 mg or 4 mg) or two nasal sprays as one spray in each nostril (4 mg or 8 mg) was not significantly different compared to the 0.4 mg dose of naloxone hydrochloride intramuscular injection (Table 1).
+The median naloxone t maxafter intranasal administration of NARCAN Nasal Spray (one nasal spray in one nostril (2 mg or 4 mg) or two nasal sprays as one spray in each nostril (4 mg or 8 mg) was not significantly different compared to the 0.4 mg dose of naloxone hydrochloride intramuscular injection (Table 1).
 
 The dose normalized relative bioavailability of one dose (2 mg or 4 mg) or two doses (4 mg or 8 mg) of NARCAN Nasal Spray as compared to the 0.4 mg dose of naloxone hydrochloride administered by intramuscular injection was 52%, 44%, 54%, and 43%, respectively.
 
@@ -52,11 +52,3 @@ Elimination
 
 Following a single intranasal administration of NARCAN Nasal Spray (2 mg or 4 mg dose of naloxone hydrochloride), the mean plasma half-life of naloxone in healthy adults was approximately 1.85 (33% CV) hours and 2.08 (30% CV) hours; respectively, which was longer than that observed after administrations of a 0.4 mg naloxone hydrochloride intramuscular injection, where the half-life was 1.24 hours (26% CV).
 In a neonatal study of naloxone hydrochloride injection, the mean (± SD) plasma half-life was observed to be 3.1 (± 0.5) hours.
-
-Metabolism
-
-Naloxone hydrochloride is metabolized in the liver, primarily by glucuronide conjugation, with naloxone-3-glucoronide as the major metabolite.
-
-Excretion
-
-After an oral or intravenous dose, about 25-40% of naloxone is excreted as metabolites in urine within 6 hours, about 50% in 24 hours, and 60-70% in 72 hours.
