@@ -6,7 +6,7 @@ Pediatric Population
 
 The incidence of serious rash associated with hospitalization and discontinuation of lamotrigine tablets in a prospectively followed cohort of pediatric patients (aged 2 to 17 years) is approximately 0.3% to 0.8%.
 One rash-related death was reported in a prospectively followed cohort of 1,983 pediatric patients (aged 2 to 16 years) with epilepsy taking lamotrigine tablets as adjunctive therapy.
-Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
+Additionally, there have been rare cases of toxic epidermal necrolysis (TEN) with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
 
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in pediatric patients.
 In pediatric patients who used valproate concomitantly for epilepsy, 1.2% (6 of 482) experienced a serious rash compared with 0.6% (6 of 952) patients not taking valproate.
@@ -20,12 +20,27 @@ However, in worldwide postmarketing experience, rare cases of rash-related death
 
 Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and those associated with multiorgan hypersensitivity [see Warnings and Precautions (5.3)].
 
+Risk Factors
+
+Concomitant Use of Valproate
+
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered lamotrigine tablets with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered lamotrigine tablets in the absence of valproate were hospitalized.
 
 Patients with History of Allergy or Rash to Other Antiepileptic Drugs
 
-The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for lamotrigine tablets is exceeded and in patients with a history of allergy or rash to other AEDs.
+The risk of rash may be increased in patients with a history of allergy or rash to other AEDs.
+
+Not Adhering to the Recommended Dosage
+
+The risk of rash is increased by both exceeding the recommended initial dose of lamotrigine tablets and exceeding the recommended dose escalation for lamotrigine tablets.
+
+Patients with Genetic Variant Human Leukocyte Antigen (HLA)-B*1502 Allele
+
+Retrospective case-control studies in patients of certain Asian ancestry (e.g., Han Chinese and Thai) suggest that the HLA-B*1502 allele is associated with an increased risk (approximately 2-3 times higher) of developing Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) in patients using lamotrigine.
+The risks and benefits of therapy should be weighed when considering use of lamotrigine tablets in patients known to be positive for HLA-B*1502.
+Application of HLA genotyping as a screening tool has important limitations and must never substitute for appropriate clinical vigilance and patient management.
+Many HLA-B*1502-positive patients treated with lamotrigine tablets will not develop SJS/TEN or other hypersensitivity reactions, and these reactions can still occur in HLA-B*1502-negative patients of any ethnicity.
 
 ## 5.2 Hemophagocytic Lymphohistiocytosis
 
@@ -59,7 +74,8 @@ Prior to initiation of treatment with lamotrigine tablets, the patient should be
 
 ## 5.4 Cardiac Rhythm and Conduction Abnormalities
 
-In vitro testing showed that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations [see Clinical Pharmacology (12.2)].Based on these in vitro findings, lamotrigine tablets could slow ventricular conduction (widen QRS) and induce proarrhythmia, which can lead to sudden death, in patients with clinically important structural or functional heart disease (i.e., patients with heart failure, valvular heart disease, congenital heart disease, conduction system disease, ventricular arrhythmias, cardiac channelopathies [e.g., Brugada syndrome], clinically important ischemic heart disease, or multiple risk factors for coronary artery disease).
+In vitro testing showed that lamotrigine exhibits Class IB antiarrhythmic activity at therapeutically relevant concentrations [see Clinical Pharmacology (12.2)].
+Based on these in vitro findings, lamotrigine tablets could slow ventricular conduction (widen QRS) and induce proarrhythmia, which can lead to sudden death, in patients with clinically important structural or functional heart disease (i.e., patients with heart failure, valvular heart disease, congenital heart disease, conduction system disease, ventricular arrhythmias, cardiac channelopathies [e.g., Brugada syndrome], clinically important ischemic heart disease, or multiple risk factors for coronary artery disease).
 Any expected or observed benefit of lamotrigine tablets in an individual patient with clinically important structural or functional heart disease must be carefully weighed against the risks for serious arrythmias and/or death for that patient.
 Concomitant use of other sodium channel blockers may further increase the risk of proarrhythmia.
 
@@ -73,7 +89,7 @@ These have included neutropenia, leukopenia, anemia, thrombocytopenia, pancytope
 Antiepileptic drugs, including lamotrigine tablets, increase the risk of suicidal thoughts or behavior in patients taking these drugs for any indication.
 Patients treated with any AED for any indication should be monitored for the emergence or worsening of depression, suicidal thoughts or behavior, and/or any unusual changes in mood or behavior.
 
-Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to 1 of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI: 1.2, 2.7) of suicidal thinking or behavior compared with patients randomized to placebo.
+Pooled analyses of 199 placebo-controlled clinical trials (monotherapy and adjunctive therapy) of 11 different AEDs showed that patients randomized to 1 of the AEDs had approximately twice the risk (adjusted Relative Risk 1.8, 95% CI:1.2, 2.7) of suicidal thinking or behavior compared with patients randomized to placebo.
 In these trials, which had a median treatment duration of 12 weeks, the estimated incidence of suicidal behavior or ideation among 27,863 AED-treated patients was 0.43%, compared with 0.24% among 16,029 placebo-treated patients, representing an increase of approximately 1 case of suicidal thinking or behavior for every 530 patients treated.
 There were 4 suicides in drug-treated patients in the trials and none in placebo-treated patients, but the number of events is too small to allow any conclusion about drug effect on suicide.
 

@@ -92,4 +92,4 @@ Blister pack of 35 tablets NDC-13668-045-29
 
 Storage
 
-Store at 20 o to 25 o C (68 o to 77 o F); excursions permitted to 15 o to 30 o C (59 o to 86 o F) [See USP Controlled Room Temperature]
+Store at 20o to 25o C (68o to 77o F); excursions permitted to 15o to 30o C (59o to 86o F) [See USP Controlled Room Temperature].

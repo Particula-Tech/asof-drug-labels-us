@@ -15,10 +15,17 @@ In animal studies, administration of lamotrigine during pregnancy resulted in de
 
 Lamotrigine decreased fetal folate concentrations in rats, an effect known to be associated with adverse pregnancy outcomes in animals and humans (see Data).
 
-The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2% to 4% and 15% to 20%, respectively.
 
 Clinical Considerations
+
+Disease-associated Maternal and/or Embryofetal Risk
+
+Epilepsy, with or without exposure to antiepileptic drugs, has been associated with several adverse outcomes during pregnancy, including preeclampsia, preterm labor, antepartum and postpartum hemorrhage, placental abruption, poor fetal growth, prematurity, fetal death, and maternal mortality.
+The risk of maternal or fetal injury may be greatest for patients with untreated or poorly controlled convulsive seizures.
+Women with epilepsy who become pregnant should not abruptly discontinue antiepileptic drugs, including lamotrigine tablets, due to the risk of status epilepticus or severe seizures, which may be life-threatening [see Warnings and Precautions (5.10)].
+
+Dose Adjustments During Pregnancy and the Postpartum Period
 
 As with other AEDs, physiological changes during pregnancy may affect lamotrigine concentrations and/or therapeutic effect.
 There have been reports of decreased lamotrigine concentrations during pregnancy and restoration of pre-pregnancy concentrations after delivery.
@@ -50,10 +57,10 @@ The lowest effect dose for developmental neurotoxicity in rats is less than the 
 Maternal toxicity was observed at the higher dose tested.
 
 When pregnant rats were administered lamotrigine (oral doses of 0, 5, 10, or 20 mg/kg) during the latter part of gestation and throughout lactation, increased offspring mortality (including stillbirths) was seen at all doses.
-The lowest effect dose for pre- and post-natal developmental toxicity in rats is less than the human dose of 400 mg/day on a mg/m2 basis.
+The lowest effect dose for pre- and post-natal developmental toxicity in rats is less than the human dose of 400 mg/day on a mg/m 2 basis.
 Maternal toxicity was observed at the 2 highest doses tested.
 
-When administered to pregnant rats, lamotrigine decreased fetal folate concentrations at doses greater than or equal to 5 mg/kg/day, which is less than the human dose of 400 mg/day on a mg/m2 basis.
+When administered to pregnant rats, lamotrigine decreased fetal folate concentrations at doses greater than or equal to 5 mg/kg/day, which is less than the human dose of 400 mg/day on a mg/m 2 basis.
 
 ## 8.2 Lactation
 
@@ -97,7 +104,7 @@ In the randomized phase of the trial, adverse reactions that occurred in at leas
 Juvenile Animal Data
 
 In a juvenile animal study in which lamotrigine (oral doses of 0, 5, 15, or 30 mg/kg) was administered to young rats from postnatal day 7 to 62, decreased viability and growth were seen at the highest dose tested and long-term neurobehavioral abnormalities (decreased locomotor activity, increased reactivity, and learning deficits in animals tested as adults) were observed at the 2 highest doses.
-The no-effect dose for adverse developmental effects in juvenile animals is less than the human dose of 400 mg/day on a mg/m2 basis.
+The no-effect dose for adverse developmental effects in juvenile animals is less than the human dose of 400 mg/day on a mg/m 2 basis.
 
 ## 8.5 Geriatric Use
 
@@ -107,7 +114,7 @@ In general, dose selection for an elderly patient should be cautious, usually st
 ## 8.6 Hepatic Impairment
 
 Experience in patients with hepatic impairment is limited.
-Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment [see Clinical Pharmacology (12.3)], the following general recommendations can be made.
+Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment, the following general recommendations can be made [see Clinical Pharmacology (12.3)].
 No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response [see Dosage and Administration (2.1)].

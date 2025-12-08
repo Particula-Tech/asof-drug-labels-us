@@ -46,7 +46,7 @@ Controlled Adjunctive Clinical Trials in Adults with Epilepsy: Table 8 lists adv
 In these trials, either lamotrigine tablets or placebo was added to the patient’s current AED therapy.
 
 Table 8.
-Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Adult Patients with Epilepsy a,b
+Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Adult Patients with Epilepsya,b
 
 | Body System/Adverse Reaction | Percent of Patients Receiving Adjunctive Lamotrigine Tablets (n = 711) | Percent of Patients Receiving Adjunctive Placebo (n = 419) |
 | --- | --- | --- |
@@ -64,12 +64,12 @@ Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Adult Patie
 In a randomized, parallel trial comparing placebo with 300 and 500 mg/day of lamotrigine tablets, some of the more common drug-related adverse reactions were dose related (see Table 9).
 
 Table 9.
-Dose-Related Adverse Reactions from a Randomized, Placebo-Controlled Adjunctive Trial in Adults with Epilepsy
+Dose-Related Adverse Reactions from a Randomized, Placebo-Controlled, Adjunctive Trial in Adults with Epilepsy
 
 |  | Percent of Patients Experiencing Adverse Reactions |  |  |
 | --- | --- | --- | --- |
-| Adverse Reaction | Placebo (n = 73) | Lamotrigine 300 mg (n = 71) | Lamotrigine 500 mg (n = 72) |
-| Ataxia Blurred vision Diplopia Dizziness Nausea Vomiting | 10 10 8 27 11 4 | 10 11 24 a 31 18 11 | 28 a,b 25 a,b 49 a,b 54 a,b 25 a 18 a |
+| Adverse Reaction | Placebo (n = 73) | Lamotrigine Tablets 300 mg (n = 71) | Lamotrigine Tablets 500 mg (n = 72) |
+| Ataxia Blurred vision Diplopia Dizziness Nausea Vomiting | 10 10 8 27 11 4 | 10 11 24a 31 18 11 | 28a,b 25a,b 49a,b 54a,b 25a 18a |
 | a Significantly greater than placebo group (P <0.05). |  |  |  |
 | b Significantly greater than group receiving lamotrigine tablets 300 mg (P <0.05). |  |  |  |
 
@@ -82,9 +82,9 @@ There was little difference between females and males in the rates of discontinu
 Controlled Monotherapy Trial in Adults with Partial-Onset Seizures: Table 10 lists adverse reactions that occurred in patients with epilepsy treated with monotherapy with lamotrigine tablets in a double-blind trial following discontinuation of either concomitant carbamazepine or phenytoin not seen at an equivalent frequency in the control group.
 
 Table 10.
-Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Partial-Onset Seizures a,b
+Adverse Reactions in a Controlled Monotherapy Trial in Adult Patients with Partial-Onset Seizuresa,b
 
-| Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine Tablets c as Monotherapy (n = 43) | Percent of Patients Receiving Low-Dose Valproate d Monotherapy (n = 44) |
+| Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine Tabletsc as Monotherapy (n = 43) | Percent of Patients Receiving Low-Dose Valproated Monotherapy (n = 44) |
 | --- | --- | --- |
 | Body as a whole Pain Infection Chest pain | 5 5 5 | 0 2 2 |
 | Digestive Vomiting Dyspepsia Nausea | 9 7 7 | 0 2 2 |
@@ -116,7 +116,7 @@ Special Senses: Vision abnormality.
 Incidence in Controlled Adjunctive Trials in Pediatric Patients with Epilepsy: Table 11 lists adverse reactions that occurred in 339 pediatric patients with partial-onset seizures or generalized seizures of Lennox-Gastaut syndrome who received lamotrigine tablets up to 15 mg/kg/day or a maximum of 750 mg/day.
 
 Table 11.
-Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Pediatric Patients with Epilepsy a
+Adverse Reactions in Pooled, Placebo-Controlled Adjunctive Trials in Pediatric Patients with Epilepsya
 
 | Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine Tablets (n = 168) | Percent of Patients Receiving Placebo (n = 171) |
 | --- | --- | --- |
@@ -144,7 +144,7 @@ Approximately 16% of 2,401 patients who received lamotrigine tablets (50 to 500 
 The overall adverse reaction profile for lamotrigine tablets was similar between females and males, between elderly and nonelderly patients, and among racial groups.
 
 Table 12.
-Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar I Disorder a,b
+Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar I Disordera,b
 
 | Body System/ Adverse Reaction | Percent of Patients Receiving Lamotrigine Tablets (n=227) | Percent of Patients Receiving Placebo (n=190) |
 | --- | --- | --- |
@@ -152,7 +152,7 @@ Adverse Reactions in 2 Placebo-Controlled Trials in Adult Patients with Bipolar 
 | Digestive Nausea Constipation Vomiting | 14 5 5 | 11 2 2 |
 | Nervous System Insomnia Somnolence Xerostomia (dry mouth) | 10 9 6 | 6 7 4 |
 | Respiratory Rhinitis Exacerbation of cough Pharyngitis | 7 5 5 | 4 3 4 |
-| Skin Rash (nonserious) c | 7 | 5 |
+| Skin Rash (nonserious)c | 7 | 5 |
 | a Adverse reactions that occurred in at least 5% of patients treated with lamotrigine tablets and at a greater incidence than placebo. |  |  |
 | b Patients in these trials were converted to lamotrigine tablets (100 to 400 mg/day) or placebo monotherapy from add-on therapy with other psychotropic medications. Patients may have reported multiple adverse reactions during the trial; thus, patients may be included in more than 1 category. |  |  |
 | c In the overall bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received lamotrigine tablets as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received lamotrigine tablets as adjunctive therapy [see Warnings and Precautions (5.1)]. |  |  |
@@ -302,3 +302,7 @@ Progressive immunosuppression.
 Renal and Urinary Disorders
 
 Tubulointerstitial nephritis (has been reported alone and in association with uveitis).
+
+Skin and Subcutaneous Tissue Disorders
+
+Photosensitivity reaction.
