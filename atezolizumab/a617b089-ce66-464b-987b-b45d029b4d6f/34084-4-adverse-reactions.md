@@ -479,6 +479,7 @@ Among 242 patients receiving intravenous atezolizumab with lurbinectedin, the me
 
 Serious adverse reactions occurred in 31% of patients receiving intravenous atezolizumab with lurbinectedin.
 Serious adverse reactions in >2% of patients were pneumonia (2.5%), respiratory tract infection (2.1%), dyspnea (2.1%), and decreased platelet count (2.1%).
+
 Fatal adverse reactions occurred in 5% of patients receiving intravenous atezolizumab with lurbinectedin including pneumonia (3 patients), sepsis (3 patients), cardio-respiratory arrest (2 patients), myocardial infarction (2 patients), and febrile neutropenia (1 patient).
 
 Permanent discontinuation of intravenous atezolizumab due to an adverse reaction occurred in 2.5% of patients.

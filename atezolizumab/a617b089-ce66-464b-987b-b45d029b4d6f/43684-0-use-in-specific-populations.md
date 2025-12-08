@@ -58,7 +58,17 @@ Females: Based on animal studies, TECENTRIQ HYBREZA may impair fertility in fema
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of TECENTRIQ HYBREZA have not been established in pediatric patients.
+Alveolar Soft Part Sarcoma
+
+The safety and effectiveness of TECENTRIQ HYBREZA as monotherapy for the treatment of pediatric patients (12 years of age and older who weigh 40 kg or greater) with unresectable or metastatic alveolar soft part sarcoma (ASPS) has been established.
+Use of TECENTRIQ HYBREZA for this pediatric indication is supported by evidence from adequate and well controlled studies of intravenous atezolizumab in adults, and additional pharmacokinetic and safety data for intravenous atezolizumab in pediatric patients 12 years and older [see Adverse Reactions (6.1) and Clinical Studies (14)].
+Atezolizumab exposures following subcutaneous administration of TECENTRIQ HYBREZA (containing 1,875 mg of atezolizumab) every 3 weeks in pediatric patients 12 years of age and older who weigh 40 kg or greater are predicted to be within the range of those observed in adults at the same dosage.
+
+The safety and effectiveness of TECENTRIQ HYBREZA have not been established in pediatric patients <12 years of age with unresectable or metastatic ASPS.
+
+Solid Tumors and Lymphomas
+
+The safety and effectiveness of TECENTRIQ HYBREZA in pediatric patients have not been established for other approved indications.
 
 ## 8.5 Geriatric Use
 

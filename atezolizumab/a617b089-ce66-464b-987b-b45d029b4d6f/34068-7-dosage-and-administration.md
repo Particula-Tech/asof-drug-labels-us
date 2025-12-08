@@ -4,9 +4,9 @@
 
 Select adult patients with:
 
-- Stage II to IIIA NSCLC for adjuvant treatment with TECENTRIQ HYBREZA as a monotherapy (following tumor resection and platinum-based chemotherapy) based on PD-L1 expression on tumor cells [see Clinical Studies (14.2)].
-- Metastatic NSCLC for first-line treatment with TECENTRIQ HYBREZA as monotherapy based on the PD-L1 expression on tumor cells or on tumor-infiltrating immune cells [see Clinical Studies (14.2)].
-- Unresectable or metastatic melanoma for treatment with TECENTRIQ HYBREZA in combination with cobimetinib and vemurafenib after confirming the presence of a BRAF V600 mutation [see Clinical Studies (14.5)].
+- Stage II to IIIA NSCLC for adjuvant treatment with TECENTRIQ HYBREZA as a monotherapy (following tumor resection and platinum-based chemotherapy) based on PD-L1 expression on tumor cells [see Clinical Studies (14.1)].
+- Metastatic NSCLC for first-line treatment with TECENTRIQ HYBREZA as monotherapy based on the PD-L1 expression on tumor cells or on tumor-infiltrating immune cells [see Clinical Studies (14.1)].
+- Unresectable or metastatic melanoma for treatment with TECENTRIQ HYBREZA in combination with cobimetinib and vemurafenib after confirming the presence of a BRAF V600 mutation [see Clinical Studies (14.4)].
 
 Information on FDA-approved tests for the determination of PD-L1 expression in metastatic NSCLC or for detection of BRAF V600 mutations in melanoma is available at: http://www.fda.gov/CompanionDiagnostics.
 
@@ -16,8 +16,9 @@ Information on FDA-approved tests for the determination of PD-L1 expression in m
   - To reduce the risk of medication errors, prior to administration, check the vial labels to ensure that the drug being prepared is subcutaneously administered TECENTRIQ HYBREZA and not intravenously administered atezolizumab.
   - Do not substitute TECENTRIQ HYBREZA for or with intravenous atezolizumab products because they have different recommended dosages.
   - Adult patients who are treated with intravenous atezolizumab can switch to subcutaneous TECENTRIQ HYBREZA at their next scheduled dose.
-  - Adult patients who are treated with TECENTRIQ HYBREZA can switch to intravenous atezolizumab at their next scheduled dose.
-- TECENTRIQ HYBREZA is not indicated for use in pediatric patients.
+    Adult patients who are treated with TECENTRIQ HYBREZA can switch to intravenous atezolizumab at their next scheduled dose.
+  - Pediatric patients 12 years of age and older who weigh 40 kg or greater and are treated with intravenous atezolizumab can switch to subcutaneous TECENTRIQ HYBREZA at their next scheduled dose [see Indications and Usage (1.5)].
+    Pediatric patients who are treated with TECENTRIQ HYBREZA can switch to intravenous atezolizumab at their next scheduled dose.
 - TECENTRIQ HYBREZA is for subcutaneous use in the thigh only.
   Administer over approximately 7 minutes.
   Inject in healthy skin and never into areas where the skin is red, bruised, tender, or hard.
@@ -30,7 +31,9 @@ Information on FDA-approved tests for the determination of PD-L1 expression in m
 
 ## 2.3 Recommended Dosage and Administration Instructions
 
-The recommended dosage of TECENTRIQ HYBREZA is one 15 mL injection (containing 1,875 mg of atezolizumab and 30,000 units of hyaluronidase, referred to as TECENTRIQ HYBREZA) administered subcutaneously in the thigh over approximately 7 minutes every 3 weeks.
+The recommended dosage of TECENTRIQ HYBREZA in adult patients and pediatric patients (12 years of age and older who weigh 40 kg or greater) is one 15 mL injection (containing 1,875 mg of atezolizumab and 30,000 units of hyaluronidase, referred to as TECENTRIQ HYBREZA) administered subcutaneously in the thigh over approximately 7 minutes every 3 weeks.
+
+The recommended dosage for pediatric patients 12 years of age and older who weigh less than 40 kg has not been established [see Use in Specific Populations (8.4), Clinical Pharmacology (12.3)].
 
 Administration instructions for TECENTRIQ HYBREZA as monotherapy and in combination with other therapeutic agents are presented in Table 1.
 For the recommended dosage of each therapeutic agent administered in combination with TECENTRIQ HYBREZA refer to the product's respective Prescribing Information.

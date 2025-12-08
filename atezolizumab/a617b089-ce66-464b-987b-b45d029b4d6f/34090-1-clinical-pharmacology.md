@@ -47,6 +47,10 @@ Specific Populations
 
 No clinically significant differences in the pharmacokinetics of atezolizumab were observed based on age, body weight, sex, albumin levels, tumor burden, region, race, mild or moderate renal impairment (estimated glomerular filtration rate 30 to 89 mL/minute/1.73 m2), mild hepatic impairment (bilirubin ≤ ULN and AST > ULN or bilirubin > 1 to 1.5 × ULN and any AST), moderate hepatic impairment (bilirubin >1.5 to 3× ULN and any AST), level of PD-L1 expression, and performance status.
 
+Pediatric patients
+
+Atezolizumab exposure following subcutaneous administration of atezolizumab 1875 mg and 30,000 units hyaluronidase every 3 weeks in pediatric patients aged 12 years and older who weigh 40 kg or greater is predicted to be within range of those observed in adult patients at the same dosage.
+
 ## 12.6 Immunogenicity
 
 The observed incidence of anti-drug antibodies (ADA) is highly dependent on the sensitivity and specificity of the assay.

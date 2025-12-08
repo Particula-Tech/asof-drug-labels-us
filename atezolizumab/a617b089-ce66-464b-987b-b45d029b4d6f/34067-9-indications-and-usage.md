@@ -24,4 +24,4 @@ TECENTRIQ HYBREZA, in combination with cobimetinib and vemurafenib, is indicated
 
 ## 1.5 Alveolar Soft Part Sarcoma
 
-TECENTRIQ HYBREZA, as monotherapy, is indicated for the treatment of adult patients with unresectable or metastatic alveolar soft part sarcoma (ASPS).
+TECENTRIQ HYBREZA, as monotherapy, is indicated for the treatment of adult patients and pediatric patients (12 years of age and older who weigh 40 kg or greater) with unresectable or metastatic alveolar soft part sarcoma (ASPS).

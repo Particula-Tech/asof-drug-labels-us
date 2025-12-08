@@ -431,7 +431,7 @@ Figure 8: Kaplan-Meier Plot of Overall Survival in IMforte
 ## 14.3 Hepatocellular Carcinoma
 
 The efficacy of TECENTRIQ HYBREZA in combination with bevacizumab for the treatment of adult patients with unresectable or metastatic hepatocellular carcinoma (HCC) who have not received prior systemic therapy has been established in adequate and well-controlled studies of intravenous atezolizumab in combination with bevacizumab for HCC.
-Below is a description of efficacy results of intravenous atezolizumab in combination with bevacizumab in this adequate and well-controlled HCC trial.
+Below is a description of the efficacy results of intravenous atezolizumab in combination with bevacizumab in this adequate and well-controlled HCC trial.
 
 Hepatocellular Carcinoma
 
@@ -566,12 +566,10 @@ The hazard ratio for OS was 0.85 (95% CI: 0.64, 1.11) and the p-value was 0.2310
 
 ## 14.5 Alveolar Soft Part Sarcoma
 
-The efficacy of TECENTRIQ HYBREZA as monotherapy for the treatment of adult patients with unresectable or metastatic alveolar soft part sarcoma (ASPS) has been established in adequate and well-controlled studies of intravenous atezolizumab for ASPS.
-TECENTRIQ HYBREZA is not indicated for the treatment of pediatric patients.
+The efficacy of TECENTRIQ HYBREZA as monotherapy for the treatment of adult patients and pediatric patients 12 years of age or older with unresectable or metastatic alveolar soft part sarcoma (ASPS) has been established in adequate and well-controlled studies of intravenous atezolizumab for ASPS.
 Below is a description of the efficacy results of intravenous atezolizumab in this adequate and well-controlled ASPS trial.
 
 The efficacy of intravenous atezolizumab was evaluated in study ML39345 (NCT03141684), an open-label, single-arm study, in 49 adult and pediatric patients aged 2 years and older with unresectable or metastatic ASPS.
-Although this study enrolled pediatric patients, TECENTRIQ HYBREZA is not indicated for use in pediatric patients.
 Eligible patients were required to have histologically or cytologically confirmed ASPS that was not curable by surgery, and an ECOG performance status of ≤ 2.
 
 Patients were excluded if they had known primary central nervous system (CNS) malignancy or symptomatic CNS metastases, known clinically significant liver disease, or history of idiopathic pulmonary fibrosis, pneumonitis, organizing pneumonia, or evidence of active pneumonitis on screening chest computed tomography (CT) scan.
