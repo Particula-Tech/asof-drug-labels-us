@@ -159,15 +159,17 @@ Inactive ingredients in lansoprazole delayed-release capsules USP: sugar sphere,
 
 The imprinting ink contains shellac, propylene glycol, strong ammonia solution, black iron oxide and potassium hydroxide.
 
-Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
+Product of India
 
-Made in India
+Manufactured by: Ajanta Pharma Limited, India
+
+Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
 
 All other trademark names are the property of their respective owners.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Revised: 04/2025
+Revised: 11/2025
 
 INSTRUCTIONS FOR USE
 
@@ -224,14 +226,14 @@ Keep lansoprazole delayed-release capsules and all medicines out of the reach of
 
 This Instruction for Use has been approved by the U.S. Food and Drug Administration.
 
-Marketed by:
+Product of India
 
-Ajanta Pharma USA Inc.
+Manufactured by:
 
-Bridgewater, NJ 08807.
+Ajanta Pharma Limited, India
 
-Made in India
+Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
 
-Revised: April 2025
+Revised: November 2025
 
 All other trademark names are the property of their respective owners.
