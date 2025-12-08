@@ -6,20 +6,12 @@ LYBALVI (olanzapine and samidorphan) tablets have markings on both sides and are
 
 Table 9: LYBALVI Tablet Presentations
 
-| Tablet Strength(s) (olanzapine/samidorphan) | Tablet Description | Package Configurations | NDC Number |
+| Tablet Strength(s) (olanzapine/samidorphan) | Tablet Description | Package Configuration | NDC Number |
 | --- | --- | --- | --- |
-| 5 mg/10 mg | Yellow, capsule-shaped, debossed with “OS” on one side and “5” on the other side | 7-count bottle with child resistant closure | 65757-651-40 |
-| 30-count bottle with child resistant closure | 65757-651-42 |  |  |
-| 90-count bottle with child resistant closure | 65757-651-44 |  |  |
-| 10 mg/10 mg | Orange, capsule-shaped, debossed with “OS” on one side and “10” on the other side | 7-count bottle with child resistant closure | 65757-652-40 |
-| 30-count bottle with child resistant closure | 65757-652-42 |  |  |
-| 90-count bottle with child resistant closure | 65757-652-44 |  |  |
-| 15 mg/10 mg | Blue, capsule-shaped, debossed with “OS” on one side and “15” on the other side | 7-count bottle with child resistant closure | 65757-653-40 |
-| 30-count bottle with child resistant closure | 65757-653-42 |  |  |
-| 90-count bottle with child resistant closure | 65757-653-44 |  |  |
-| 20 mg/10 mg | Pink, capsule-shaped, debossed with “OS” on one side and “20” on the other side | 7-count bottle with child resistant closure | 65757-654-40 |
-| 30-count bottle with child resistant closure | 65757-654-42 |  |  |
-| 90-count bottle with child resistant closure | 65757-654-44 |  |  |
+| 5 mg/10 mg | Yellow, capsule-shaped, debossed with “OS” on one side and “5” on the other side | 30-count bottle with child resistant closure | 65757-651-42 |
+| 10 mg/10 mg | Orange, capsule-shaped, debossed with “OS” on one side and “10” on the other side | 30-count bottle with child resistant closure | 65757-652-42 |
+| 15 mg/10 mg | Blue, capsule-shaped, debossed with “OS” on one side and “15” on the other side | 30-count bottle with child resistant closure | 65757-653-42 |
+| 20 mg/10 mg | Pink, capsule-shaped, debossed with “OS” on one side and “20” on the other side | 30-count bottle with child resistant closure | 65757-654-42 |
 
 Storage and Handling
 
