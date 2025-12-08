@@ -6,20 +6,14 @@ Actemra® (tocilizumab) Injection
 
 80 mg/4 mL
 
-(20 mg/mL)
-
-For Intravenous Infusion only after dilution.
-Single-Dose Vial; Discard unusued portion
-
-ATTENTION PROVIDER: Each patient is required to receive the enclosed Medication Guide
-
-No Preservative
+(20 mg/mL) For Intravenous Infusion only after dilution.
+Single-Dose Vial; Discard unused portion ATTENTION PROVIDER: Each patient is required to receive the enclosed Medication Guide No Preservative
 
 Rx only
 
 Genentech
 
-11001081
+11037819
 
 # PRINCIPAL DISPLAY PANEL - 200 mg/10 mL Vial Carton
 
@@ -29,20 +23,14 @@ Actemra® (tocilizumab) Injection
 
 200 mg/10 mL
 
-(20 mg/mL)
-
-For Intravenous Infusion only after dilution.
-Single-Dose Vial; Discard unusued portion
-
-ATTENTION PROVIDER: Each patient is required to receive the enclosed Medication Guide
-
-No Preservative
+(20 mg/mL) For Intravenous Infusion only after dilution.
+Single-Dose Vial; Discard unused portion ATTENTION PROVIDER: Each patient is required to receive the enclosed Medication Guide No Preservative
 
 Rx only
 
 Genentech
 
-11001065
+11037833
 
 # PRINCIPAL DISPLAY PANEL - 400 mg/20 mL Vial Carton
 
@@ -52,20 +40,14 @@ Actemra® (tocilizumab) Injection
 
 400 mg/20 mL
 
-(20 mg/mL)
-
-For Intravenous Infusion only after dilution.
-Single-Dose Vial; Discard unusued portion
-
-ATTENTION PROVIDER: Each patient is required to receive the enclosed Medication Guide
-
-No Preservative
+(20 mg/mL) For Intravenous Infusion only after dilution.
+Single-Dose Vial; Discard unused portion ATTENTION PROVIDER: Each patient is required to receive the enclosed Medication Guide No Preservative
 
 Rx only
 
 Genentech
 
-11001057
+11037818
 
 # PRINCIPAL DISPLAY PANEL - 162 mg/0.9 mL Prefilled Syringe Carton
 
