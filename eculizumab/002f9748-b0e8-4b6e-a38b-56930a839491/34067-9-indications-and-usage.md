@@ -14,4 +14,4 @@ BKEMV is not indicated for the treatment of patients with Shiga toxin E. coli re
 
 ## 1.3 Generalized Myasthenia Gravis (gMG)
 
-BKEMV is indicated for treatment of generalized myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AchR) antibody positive.
+BKEMV is indicated for treatment of generalized myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) antibody positive.
