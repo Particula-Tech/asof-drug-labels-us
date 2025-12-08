@@ -8,6 +8,6 @@ Its chemical structure is:
 Bimatoprost is a powder, soluble in methanol and alcohol.
 Bimatoprost ophthalmic solution, 0.03% is a clear, isotonic, colorless, sterile ophthalmic solution with an osmolality of approximately 290 mOsmol/kg.
 
-Bimatoprost ophthalmic solution, 0.03% contains Active: bimatoprost 0.3 mg/mL; Inactives:benzalkonium chloride 0.05 mg/mL; disodium hydrogen phosphate heptahydrate, citric acid monohydrate, sodium chloride and water for injection.
+Bimatoprost ophthalmic solution, 0.03% contains Active: bimatoprost 0.3 mg/mL; Inactives: benzalkonium chloride 0.05 mg/mL; disodium hydrogen phosphate heptahydrate, citric acid monohydrate, sodium chloride and water for injection.
 Sodium hydroxide and/or hydrochloric acid may be added to adjust pH.
 The pH during its shelf life ranges from 6.8 to 7.8.
