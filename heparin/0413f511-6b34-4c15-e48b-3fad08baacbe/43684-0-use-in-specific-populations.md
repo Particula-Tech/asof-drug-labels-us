@@ -6,7 +6,7 @@ Risk Summary
 
 There are no available data on HEPARIN SODIUM IN SODIUM CHLORIDE INJECTION use in pregnant women to inform a drug-associated risk of major birth defects and miscarriage.
 In published reports, heparin exposure during pregnancy did not show evidence of an increased risk of adverse maternal or fetal outcomes in humans.
-No teratogenicity, but early embryo-fetal death was observed in animal reproduction studies with administration of heparin sodium to pregnant rats and rabbits during organogenesis at doses up to 10,000 USP units/kg/day, approximately 10 times the maximum recommended human dose (MRHD) of 40,000 USP units/24 hours infusion (see Data).
+No teratogenicity, but early embryo-fetal death was observed in animal reproduction studies with administration of heparin sodium to pregnant rats and rabbits during organogenesis at doses up to 10,000 USP Units/kg/day, approximately 10 times the maximum recommended human dose (MRHD) of 40,000 USP Units/24 hours infusion (see Data).
 Consider the benefits and risks of HEPARIN SODIUM IN SODIUM CHLORIDE INJECTION to a pregnant woman and possible risks to the fetus when prescribing HEPARIN SODIUM IN SODIUM CHLORIDE INJECTION.
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.
@@ -22,7 +22,7 @@ These studies generally reported normal deliveries with no maternal or fetal ble
 
 Animal Data
 
-In a published study conducted in rats and rabbits, pregnant animals received heparin intravenously during organogenesis at a dose of 10,000 USP units/kg/day, approximately 10 times the maximum human daily dose based on body weight.
+In a published study conducted in rats and rabbits, pregnant animals received heparin intravenously during organogenesis at a dose of 10,000 USP Units/kg/day, approximately 10 times the maximum human daily dose based on body weight.
 The number of early resorptions increased in both species.
 There was no evidence of teratogenic effects.
 
@@ -36,7 +36,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-There are no adequate and well controlled studies on heparin use in pediatric patients.
+There are no adequate and well-controlled studies on heparin use in pediatric patients.
 Pediatric dosing recommendations are based on clinical experience [see Dosage and Administration (2.4)].
 
 ## 8.5 Geriatric Use

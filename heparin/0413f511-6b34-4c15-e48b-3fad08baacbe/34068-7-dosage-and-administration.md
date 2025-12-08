@@ -16,7 +16,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 
 Do not administer unless the solution is clear and container is undamaged.
 
-Discard unused portion
+Discard unused portion.
 
 To Open
 
@@ -50,7 +50,7 @@ Dosage is considered adequate when the activated partial thromboplastin time (AP
 
 Periodic platelet counts, hematocrits, and tests for occult blood in stool are recommended during the entire course of heparin therapy.
 
-## 2.3 Therapeutic Anticoagulant Effect with Full-Dose Heparin
+## 2.3 Therapeutic Anticoagulant Effect With Full-Dose Heparin
 
 The dosing recommendations in Table 1 are based on clinical experience.
 Although dosage must be adjusted for the individual patient according to the results of suitable laboratory tests, the following dosage schedules may be used as guidelines:
@@ -62,17 +62,17 @@ Table 1: Recommended Adult Full-Dose Heparin Regimens for Therapeutic Anticoagul
 | Intermittent Intravenous Injection | Initial Dose | 10,000 Units |
 | Every 4 to 6 hours | 5,000 Units to 10,000 Units |  |
 | Continuous Intravenous Infusion | Initial Dose | 5,000 Units by intravenous injection |
-| Continuous | 20,000 Units to 40,000 Units/24 hours |  |
+| Continuous | 20,000 Units/24 hours to 40,000 Units/24 hours |  |
 
 ## 2.4 Pediatric Use
 
-There are no adequate and well controlled studies on heparin use in pediatric patients.
+There are no adequate and well-controlled studies on heparin use in pediatric patients.
 Pediatric dosing recommendations are based on clinical experience.
 In general, the following dosage schedule may be used as a guideline in pediatric patients:
 
-| Initial Dose | 75 units to 100 units/kg (intravenous bolus over 10 minutes) |
+| Initial Dose | 75 units/kg to 100 units/kg (intravenous bolus over 10 minutes) |
 | --- | --- |
-| Maintenance Dose | Infants: 25 units/kg/hour to 30 units/kg/hour; Infants less than 2 months have the highest requirements (average 28 units/kg/hour) Children greater than 1 year of age: 18 units/kg/hour to 20 units/kg/hour; Older children may require less heparin, similar to weight-adjusted adult dosage |
+| Maintenance Dose | Infants: 25 units/kg/hour to 30 units/kg/hour (continuous intravenous infusion); Infants less than 2 months have the highest requirements (average 28 units/kg/hour) Children greater than 1 year of age: 18 units/kg/hour to 20 units/kg/hour (continuous intravenous infusion); Older children may require less heparin, similar to weight-adjusted adult dosage. |
 | Monitoring | Adjust heparin to maintain APTT of 60 seconds to 85 seconds, assuming this reflects an anti-Factor Xa level of 0.35 to 0.70. |
 
 ## 2.5 Cardiovascular Surgery
@@ -83,9 +83,9 @@ Frequently, a dose of 300 units per kilogram is used for procedures estimated to
 ## 2.6 Converting to Warfarin
 
 To ensure continuous anticoagulation when converting from heparin sodium to warfarin, continue full heparin therapy for several days until the INR (prothrombin time) has reached a stable therapeutic range.
-Heparin therapy may then be discontinued without tapering [see Drug Interactions (7.4)].
+Heparin therapy may then be discontinued without tapering [see Drug Interactions (7.5)].
 
-## 2.7 Converting to Oral Anticoagulants other than Warfarin
+## 2.7 Converting to Oral Anticoagulants Other Than Warfarin
 
 For patients currently receiving intravenous heparin, stop intravenous infusion of heparin sodium immediately after administering the first dose of oral anticoagulant; or for intermittent intravenous administration of heparin sodium, start oral anticoagulant 0 to 2 hours before the time that the next dose of heparin was to have been administered.
 

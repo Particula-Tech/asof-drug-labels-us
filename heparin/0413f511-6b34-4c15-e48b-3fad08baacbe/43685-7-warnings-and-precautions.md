@@ -39,12 +39,19 @@ These serious thromboembolic events include deep vein thrombosis, pulmonary embo
 Once HIT (with or without thrombosis) is diagnosed or strongly suspected, all heparin sodium sources (including heparin flushes) should be discontinued and an alternative anticoagulant used.
 Future use of heparin sodium, especially within 3 to 6 months following the diagnosis of HIT (with or without thrombosis), and while patients test positive for HIT antibodies, should be avoided.
 
-Thrombocytopenia of any degree should be monitored closely.If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulants considered if patients require continued anticoagulation.
+Thrombocytopenia of any degree should be monitored closely.
+If the platelet count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be promptly discontinued and alternative anticoagulants considered if patients require continued anticoagulation.
 
 Delayed Onset of HIT (With or Without Thrombosis): Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) can occur up to several weeks after the discontinuation of heparin therapy.
 Patients presenting with thrombocytopenia or thrombosis after discontinuation of heparin should be evaluated for HIT (With or Without Thrombosis).
 
-## 5.4 Thrombocytopenia
+## 5.4 Unresponsiveness to Heparin with Concomitant Use With Andexanet Alfa
+
+Unresponsiveness to unfractionated heparin leading to non-prolongation of activated clotting times and serious thrombotic events has occurred when unfractionated heparin was administered after use of andexanet alfa for the reversal of direct Factor Xa inhibitors (apixaban and rivaroxaban).
+Avoid use of heparin after use of andexanet alfa.
+Use an alternative anticoagulant to heparin [see Drug Interactions (7.3)].
+
+## 5.5 Thrombocytopenia
 
 Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of up to 30%.
 It can occur 2 to 20 days (average 5 to 9) following the onset of heparin therapy.
@@ -53,25 +60,25 @@ Mild thrombocytopenia (count greater than 100,000/mm3) may remain stable or reve
 However, thrombocytopenia of any degree should be monitored closely.
 If the count falls below 100,000/mm3 or if recurrent thrombosis develops, the heparin product should be discontinued, and, if necessary, an alternative anticoagulant administered [see Warnings and Precautions (5.3)].
 
-## 5.5 Coagulation Testing and Monitoring
+## 5.6 Coagulation Testing and Monitoring
 
 When heparin sodium is administered in therapeutic amounts, its dosage should be monitored by frequent blood coagulation tests.
 If the coagulation test is unduly prolonged or if hemorrhage occurs, heparin sodium should be discontinued promptly [see Overdosage (10)].
 Periodic platelet counts, hematocrits and tests for occult blood in stool are recommended during the entire course of heparin therapy [see Dosage and Administration (2.2)].
 
-## 5.6 Heparin Resistance
+## 5.7 Heparin Resistance
 
 Increased resistance to heparin is frequently encountered in fever, thrombosis, thrombophlebitis, infections with thrombosing tendencies, myocardial infarction, cancer and in postsurgical patients, and patients with antithrombin III deficiency.
 Close monitoring of coagulation tests is recommended in these cases.
 Adjustment of heparin doses based on anti-Factor Xa levels may be warranted.
 
-## 5.7 Hypersensitivity Reactions
+## 5.8 Hypersensitivity Reactions
 
 Patients with documented hypersensitivity to heparin should be given the drug only in clearly life-threatening situations [see Adverse Reactions (6.1)].
 
 Because heparin sodium is derived from animal tissue, monitor for signs and symptoms of hypersensitivity when it is used in patients with a history of allergy.
 
-## 5.8 Hyperkalemia
+## 5.9 Hyperkalemia
 
 Heparin can suppress adrenal secretion of aldosterone leading to hyperkalemia, particularly in patients with diabetes mellitus, chronic renal failure, pre-existing metabolic acidosis, a raised plasma potassium, or taking potassium sparing drugs.
 The risk of hyperkalemia appears to increase with duration of therapy but is usually reversible upon discontinuation of heparin.

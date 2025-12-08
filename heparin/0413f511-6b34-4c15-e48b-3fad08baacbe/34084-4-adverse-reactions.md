@@ -5,10 +5,10 @@ The following clinically significant adverse reactions are described elsewhere i
 - •Fatal Medication Errors [see Warnings and Precautions (5.1)]
 - •Hemorrhage [see Warnings and Precautions (5.2)]
 - •Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) [see Warnings and Precautions (5.3)]
-- •Thrombocytopenia [see Warnings and Precautions (5.4)]
-- •Heparin Resistance [see Warnings and Precautions (5.6)]
-- •Hypersensitivity Reactions [see Warnings and Precautions (5.7)]
-- •Hyperkalemia [see Warnings and Precautions (5.8)]
+- •Thrombocytopenia [see Warnings and Precautions (5.5)]
+- •Heparin Resistance [see Warnings and Precautions (5.7)]
+- •Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
+- •Hyperkalemia [see Warnings and Precautions (5.9)]
 
 ## 6.1 Postmarketing Experience
 
@@ -29,7 +29,7 @@ Bleeding can occur at any site but certain specific hemorrhagic complications ma
    This complication if unrecognized may be fatal.
 3. c.Retroperitoneal hemorrhage.
 
-Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis): [see Warnings and Precautions (5.3, 5.4)]
+Thrombocytopenia, Heparin-induced Thrombocytopenia (HIT) (With or Without Thrombosis) and Delayed Onset of HIT (With or Without Thrombosis): [see Warnings and Precautions (5.3, 5.5)]
 
 Local Irritation
 
@@ -39,7 +39,7 @@ These complications are much more common after intramuscular use, and such use i
 Hypersensitivity
 
 Generalized hypersensitivity reactions have been reported with chills, fever, and urticaria as the most usual manifestations, and asthma, rhinitis, lacrimation, headache, nausea and vomiting, and anaphylactoid reactions, including shock, occurring more rarely.
-Itching and burning, especially on the plantar site of the feet, may occur [see Warnings and Precautions (5.7)].
+Itching and burning, especially on the plantar site of the feet, may occur [see Warnings and Precautions (5.8)].
 
 Episodes of painful, ischemic, and cyanosed limbs have been reported with heparin use.
 
@@ -47,10 +47,10 @@ Metabolism and Nutrition Disorders – Hyperkalemia.
 
 Elevations of Serum Aminotransferases
 
-Significant elevations of aspartate aminotransferase (AST) and alanine aminotransferase (ALT) levels have occurred in a high percentage of patients(and healthy subjects) who have received heparin.
+Significant elevations of aspartate aminotransferase (AST) and alanine aminotransferase (ALT) levels have occurred in a high percentage of patients (and healthy subjects) who have received heparin.
 
 Others
 
-Osteoporosis following long-term administration of high-doses of heparin, cutaneous necrosis after systemic administration, suppression of aldosterone synthesis, delayed transient alopecia, priapism, and rebound hyperlipemia on discontinuation of heparin sodium have also been reported.
+Osteoporosis following long-term administration of high doses of heparin, cutaneous necrosis after systemic administration, suppression of aldosterone synthesis, delayed transient alopecia, priapism, and rebound hyperlipemia on discontinuation of heparin sodium have also been reported.
 
 Reactions which may occur because of the solution or the technique of administration include febrile response, infection at the site of injection, venous thrombosis or phlebitis extending from the site of injection, extravasation, and hypervolemia.

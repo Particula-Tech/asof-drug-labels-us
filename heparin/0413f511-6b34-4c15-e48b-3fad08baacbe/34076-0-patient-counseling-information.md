@@ -14,12 +14,12 @@ Heparin-Induced Thrombocytopenia
 
 Inform patients of the risk of heparin-induced thrombocytopenia (HIT).
 HIT may progress to the development of venous and arterial thromboses, a condition known as heparin-induced thrombocytopenia and thrombosis (HITT).
-HIT (With or Without Thrombosis) can occur up to several weeks after the discontinuation of heparin therapy [see Warnings and Precautions (5.3, 5.4)].
+HIT (With or Without Thrombosis) can occur up to several weeks after the discontinuation of heparin therapy [see Warnings and Precautions (5.3, 5.5)].
 
 Hypersensitivity
 
 Inform patients that generalized hypersensitivity reactions have been reported.
-Necrosis of the skin has been reported at the site of subcutaneous injection of heparin [see Warnings and Precautions (5.7), Adverse Reactions (6.1)].
+Necrosis of the skin has been reported at the site of subcutaneous injection of heparin [see Warnings and Precautions (5.8), Adverse Reactions (6.1)].
 
 Other Medications
 
@@ -28,6 +28,8 @@ Because of the risk of hemorrhage, advise patients to inform their physicians an
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
+For medical information about HEPARIN SODIUM IN SODIUM CHLORIDE INJECTION, please visit www.pfizermedinfo.com or call 1-800-438-1985.
+
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1392-5.0
+LAB-1392-6.0

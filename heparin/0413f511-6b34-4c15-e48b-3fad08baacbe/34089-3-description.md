@@ -11,6 +11,6 @@ The solution may contain sodium hydroxide and/or hydrochloric acid for pH adjust
 The pH range is 6.1 (5.0 – 7.5) and the osmolarity mOsmol/L (calc.) is 155.
 The potency is determined by a biological assay using a USP reference standard based on units of heparin activity per milligram.
 
-Each mL of the 50 USP units per mL preparations contains: 50 USP units of heparin sodium, 4.5 mg sodium chloride and 0.1 mg edetate disodium, anhydrous added as a stabilizer.
+Each mL of the 50 USP Units per mL preparations contains: 50 USP Units of heparin sodium, 4.5 mg sodium chloride and 0.1 mg edetate disodium, anhydrous added as a stabilizer.
 
-Each mL of the 100 USP units per mL preparations contains: 100 USP units of heparin sodium, 4.5 mg sodium chloride and 0.1 mg edetate disodium, anhydrous added as a stabilizer.
+Each mL of the 100 USP Units per mL preparations contains: 100 USP Units of heparin sodium, 4.5 mg sodium chloride and 0.1 mg edetate disodium, anhydrous added as a stabilizer.
