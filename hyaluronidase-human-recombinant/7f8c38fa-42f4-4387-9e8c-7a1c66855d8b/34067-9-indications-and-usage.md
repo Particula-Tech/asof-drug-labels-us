@@ -12,15 +12,15 @@ OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients
 
 ## 1.2 Unresectable or Metastatic Melanoma
 
-OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients with unresectable or metastatic melanoma.
+OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult and pediatric patients 12 years and older who weigh 30 kg or greater with unresectable or metastatic melanoma.
 
-OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients with unresectable or metastatic melanoma following treatment with intravenous nivolumab and ipilimumab combination therapy.
+OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult and pediatric patients 12 years and older who weigh 30 kg or greater with unresectable or metastatic melanoma following treatment with intravenous nivolumab and ipilimumab combination therapy.
 
 Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of unresectable or metastatic melanoma.
 
 ## 1.3 Adjuvant Treatment of Melanoma
 
-OPDIVO QVANTIG, as monotherapy, is indicated for the adjuvant treatment of adult patients with completely resected Stage IIB, Stage IIC, Stage III, or Stage IV melanoma.
+OPDIVO QVANTIG, as monotherapy, is indicated for the adjuvant treatment of adult and pediatric patients 12 years and older who weigh 30 kg or greater with completely resected Stage IIB, Stage IIC, Stage III, or Stage IV melanoma.
 
 ## 1.4 Neoadjuvant Treatment of Resectable Non-Small Cell Lung Cancer
 
@@ -54,9 +54,9 @@ OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients
 
 ## 1.9 Microsatellite Instability-High or Mismatch Repair Deficient Metastatic Colorectal Cancer
 
-OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer (CRC) following treatment with intravenous nivolumab and ipilimumab combination therapy.
+OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult and pediatric patients 12 years and older who weigh 30 kg or greater with unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer (CRC) following treatment with intravenous nivolumab and ipilimumab combination therapy.
 
-OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult patients with MSI-H or dMMR metastatic CRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
+OPDIVO QVANTIG, as monotherapy, is indicated for the treatment of adult and pediatric patients 12 years and older who weigh 30 kg or greater, with MSI-H or dMMR metastatic CRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
 
 Limitations of Use: OPDIVO QVANTIG is not indicated in combination with ipilimumab for the treatment of unresectable or metastatic MSI-H or dMMR CRC.
 

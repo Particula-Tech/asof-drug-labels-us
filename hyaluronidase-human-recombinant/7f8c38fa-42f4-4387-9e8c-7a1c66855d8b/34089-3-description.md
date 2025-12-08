@@ -12,5 +12,8 @@ Hyaluronidase (human recombinant) has a molecular weight of approximately 61 kDa
 
 OPDIVO QVANTIG (nivolumab and hyaluronidase-nvhy) injection is a sterile, preservative-free, clear to opalescent, colorless to yellow solution that may contain a few translucent-to-white particles, supplied in a single-dose vial for subcutaneous use.
 
-Each 5 mL single-dose vial of OPDIVO QVANTIG contains 600 mg of nivolumab and 10,000 units of hyaluronidase (human recombinant), and the inactive ingredients: histidine (7.75 mg), histidine hydrochloride monohydrate (10.5 mg), methionine (3.73 mg), pentetic acid (0.0985 mg), polysorbate 80 (2.5 mg), sucrose (428 mg), and Water for Injection, USP.
+Each 2.5 mL single-dose vial contains 300 mg of nivolumab and 5,000 units of hyaluronidase (human recombinant), and the inactive ingredients: histidine (3.88 mg), histidine hydrochloride monohydrate (5.25 mg), methionine (1.87 mg), pentetic acid (0.049 mg), polysorbate 80 (1.25 mg), sucrose (214 mg), and Water for Injection, USP.
+The pH is 5.5 to 6.5.
+
+Each 5 mL single-dose vial contains 600 mg of nivolumab and 10,000 units of hyaluronidase (human recombinant), and the inactive ingredients: histidine (7.75 mg), histidine hydrochloride monohydrate (10.5 mg), methionine (3.73 mg), pentetic acid (0.0985 mg), polysorbate 80 (2.5 mg), sucrose (428 mg), and Water for Injection, USP.
 The pH is 5.5 to 6.5.

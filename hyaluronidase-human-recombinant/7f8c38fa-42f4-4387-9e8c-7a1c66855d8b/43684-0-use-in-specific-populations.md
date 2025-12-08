@@ -54,7 +54,20 @@ Advise females of reproductive potential to use effective contraception during t
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of OPDIVO QVANTIG have not been established in pediatric patients.
+The safety and effectiveness of OPDIVO QVANTIG have been established in pediatric patients aged 12 years and older who weigh 30 kg or greater for the following indications:
+
+- •Unresectable or metastatic melanoma [see Indications and Usage (1.2)]
+- •Unresectable or metastatic melanoma following combination treatment with intravenous nivolumab and ipilimumab [see Indications and Usage (1.2)]
+- •Completely resected Stage IIB, Stage IIC, Stage III, or Stage IV melanoma as adjuvant treatment [see Indications and Usage (1.3)]
+- •Unresectable or metastatic MSI-H or dMMR CRC following combination treatment with intravenous nivolumab and ipilimumab [see Indications and Usage (1.9)]
+- •MSI-H or dMMR mCRC that has progressed following treatment with a fluoropyrimidine, oxaliplatin, irinotecan [see Indications and Usage (1.9)]
+
+Use of OPDIVO QVANTIG in pediatric patients for these indications is supported by evidence from adequate and well-controlled studies for intravenous nivolumab in adults and additional pharmacokinetic and safety data for intravenous nivolumab in pediatric patients 12 years and older who weigh 30 kg or greater [see Adverse Reactions (6.1) and Clinical Studies (14)].
+Nivolumab exposure in pediatric patients 12 years and older who receive OPDIVO QVANTIG is predicted to be within range of those observed/predicted in adult patients at the recommended dosage [see Adverse Reactions (6.1), Clinical Pharmacology (12.3)].
+
+The safety and effectiveness of OPDIVO QVANTIG have not been established for pediatric patients younger than 12 years old with melanoma or MSI-H or dMMR mCRC.
+
+The safety and effectiveness of OPDIVO QVANTIG have not been established in pediatric patients for other approved adult indications [see Indications and Usage (1)].
 
 ## 8.5 Geriatric Use
 

@@ -237,9 +237,7 @@ Table 9: Adverse Reactions in >15% of Patients Receiving Intravenous Nivolumab a
 | Dysphonia | 17 | 0.3 | 3.4 | 0 |
 | Infections and Infestations |  |  |  |  |
 | Upper respiratory tract infectionk | 20 | 0.3 | 8 | 0.3 |
-| Toxicity was graded per NCI CTCAE v4. a Includes abdominal discomfort, abdominal pain lower, abdominal pain upper. b Includes gastroesophageal reflux disease. c Includes asthenia. d Includes hepatotoxicity, ALT increased, AST increased, blood alkaline phosphatase increased, gamma-glutamyl transferase increased, autoimmune hepatitis, blood bilirubin increased, drug induced liver injury, hepatic enzyme increased, hepatitis, hyperbilirubinemia, liver function test increased, liver function test abnormal, transaminases increased, hepatic failure. e Includes mucosal inflammation, aphthous ulcer, mouth ulceration. f Includes dermatitis, dermatitis acneiform, dermatitis bullous, exfoliative rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, rash pruritic. |  |  |  |  |
-| g Includes blood pressure increased, blood pressure systolic increased. h Includes primary hypothyroidism. i Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, spinal pain. |  |  |  |  |
-| j Includes productive cough. k Includes nasopharyngitis, pharyngitis, rhinitis. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes abdominal discomfort, abdominal pain lower, abdominal pain upper. b Includes gastroesophageal reflux disease. c Includes asthenia. d Includes hepatotoxicity, ALT increased, AST increased, blood alkaline phosphatase increased, gamma-glutamyl transferase increased, autoimmune hepatitis, blood bilirubin increased, drug induced liver injury, hepatic enzyme increased, hepatitis, hyperbilirubinemia, liver function test increased, liver function test abnormal, transaminases increased, hepatic failure. e Includes mucosal inflammation, aphthous ulcer, mouth ulceration. f Includes dermatitis, dermatitis acneiform, dermatitis bullous, exfoliative rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, rash pruritic. g Includes blood pressure increased, blood pressure systolic increased. h Includes primary hypothyroidism. i Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, spinal pain. j Includes productive cough. k Includes nasopharyngitis, pharyngitis, rhinitis. |  |  |  |  |
 
 Table 10: Laboratory Values Worsening from Baselinea Occurring in >20% of Patients on Intravenous Nivolumab and Cabozantinib - CHECKMATE-9ER
 
@@ -394,9 +392,7 @@ Table 13: Adverse Reactions Occurring in ≥10% of Intravenous Nivolumab-Treated
 | Upper respiratory tract infectionb | 11 | 0 | 2 | 0 |
 | General |  |  |  |  |
 | Peripheral edema | 10 | 0 | 5 | 0 |
-| Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
-| a Includes maculopapular rash, erythematous rash, pruritic rash, follicular rash, macular rash, papular rash, pustular rash, vesicular rash, and acneiform dermatitis. |  |  |  |  |
-| b Includes rhinitis, pharyngitis, and nasopharyngitis. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes maculopapular rash, erythematous rash, pruritic rash, follicular rash, macular rash, papular rash, pustular rash, vesicular rash, and acneiform dermatitis. b Includes rhinitis, pharyngitis, and nasopharyngitis. |  |  |  |  |
 
 Clinically important adverse reactions in <10% of patients who received intravenous nivolumab were:
 
@@ -463,11 +459,7 @@ Table 15: Adverse Reactions Occurring in ≥10% of Intravenous Nivolumab-Treated
 | Erythema | 10 | 0 | 2.9 | 0 |
 | Infections |  |  |  |  |
 | Upper respiratory tract infectiond | 17 | 0 | 6 | 0 |
-| Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
-| a Includes periorbital edema, face edema, generalized edema, gravitational edema, localized edema, peripheral edema, pulmonary edema, and lymphedema. |  |  |  |  |
-| b Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, pain in jaw, and spinal pain. |  |  |  |  |
-| c Includes maculopapular rash, erythematous rash, pruritic rash, follicular rash, macular rash, papular rash, pustular rash, vesicular rash, dermatitis, allergic dermatitis, exfoliative dermatitis, acneiform dermatitis, drug eruption, and skin reaction. |  |  |  |  |
-| d Includes rhinitis, viral rhinitis, pharyngitis, and nasopharyngitis. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes periorbital edema, face edema, generalized edema, gravitational edema, localized edema, peripheral edema, pulmonary edema, and lymphedema. b Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, pain in jaw, and spinal pain. c Includes maculopapular rash, erythematous rash, pruritic rash, follicular rash, macular rash, papular rash, pustular rash, vesicular rash, dermatitis, allergic dermatitis, exfoliative dermatitis, acneiform dermatitis, drug eruption, and skin reaction. d Includes rhinitis, viral rhinitis, pharyngitis, and nasopharyngitis. |  |  |  |  |
 
 Clinically important adverse reactions in <10% of patients who received intravenous nivolumab were:
 
@@ -543,12 +535,7 @@ Table 17: Adverse Reactions Occurring in ≥10% of Patients on the Intravenous N
 | Decreased weight | 12 | 0 | 7 | 0 | 7 | 0.3 |
 | Vascular |  |  |  |  |  |  |
 | Hypertensione | 7 | 2.2 | 11 | 5 | 9 | 2.3 |
-| Toxicity was graded per NCI CTCAE v4. |  |  |  |  |  |  |
-| a Includes asthenia and fatigue. |  |  |  |  |  |  |
-| b Includes pustular rash, dermatitis, acneiform dermatitis, allergic dermatitis, atopic dermatitis, bullous dermatitis, exfoliative dermatitis, psoriasiform dermatitis, drug eruption, exfoliative rash, erythematous rash, generalized rash, macular rash, maculopapular rash, morbilliform rash, papular rash, papulosquamous rash, and pruritic rash. |  |  |  |  |  |  |
-| c Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, and spinal pain. |  |  |  |  |  |  |
-| d Includes upper respiratory tract infection, nasopharyngitis, pharyngitis, and rhinitis. |  |  |  |  |  |  |
-| e Includes hypertension and blood pressure increased. |  |  |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes asthenia and fatigue. b Includes pustular rash, dermatitis, acneiform dermatitis, allergic dermatitis, atopic dermatitis, bullous dermatitis, exfoliative dermatitis, psoriasiform dermatitis, drug eruption, exfoliative rash, erythematous rash, generalized rash, macular rash, maculopapular rash, morbilliform rash, papular rash, papulosquamous rash, and pruritic rash. c Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity, and spinal pain. d Includes upper respiratory tract infection, nasopharyngitis, pharyngitis, and rhinitis. e Includes hypertension and blood pressure increased. |  |  |  |  |  |  |
 
 Clinically important adverse reactions in <10% of patients who received intravenous nivolumab with ipilimumab or intravenous nivolumab as a single agent were:
 
@@ -618,13 +605,7 @@ Table 19: Adverse Reactions Occurring in ≥10% of Patients Treated with Intrave
 | Hypothyroidisme | 14 | 0 | 2.3 | 0 |
 | Nervous system |  |  |  |  |
 | Headachef | 12 | 0.2 | 14 | 0.8 |
-| Toxicity was graded per NCI CTCAE v5. |  |  |  |  |
-| a Includes asthenia. |  |  |  |  |
-| b Includes arthralgia, arthritis, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, musculoskeletal stiffness, myalgia, neck pain, non-cardiac chest pain, spinal pain, pain in extremity. |  |  |  |  |
-| c Includes dermatitis, dermatitis acneiform, dyshidrotic eczema, eczema, eczema asteatotic, eyelid rash, genital rash, pemphigoid, penile rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, rash vesicular, skin exfoliation, toxic skin eruption. |  |  |  |  |
-| d Includes autoimmune colitis, colitis, diarrhea, enteritis, enterocolitis |  |  |  |  |
-| e Includes autoimmune hypothyroidism, blood thyroid stimulating hormone increased. |  |  |  |  |
-| f Includes cluster headache, migraine. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v5. a Includes asthenia. b Includes arthralgia, arthritis, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, musculoskeletal stiffness, myalgia, neck pain, non-cardiac chest pain, spinal pain, pain in extremity. c Includes dermatitis, dermatitis acneiform, dyshidrotic eczema, eczema, eczema asteatotic, eyelid rash, genital rash, pemphigoid, penile rash, rash erythematous, rash follicular, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, rash vesicular, skin exfoliation, toxic skin eruption. d Includes autoimmune colitis, colitis, diarrhea, enteritis, enterocolitis e Includes autoimmune hypothyroidism, blood thyroid stimulating hormone increased. f Includes cluster headache, migraine. |  |  |  |  |
 
 Table 20: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of Intravenous Nivolumab-Treated Patients - CHECKMATE-76K
 
@@ -690,14 +671,7 @@ Table 21: Adverse Reactions Occurring in ≥10% of Intravenous Nivolumab-Treated
 | Dyspnea/exertional dyspnea | 10 | 0.4 | 10 | 0.2 |
 | Endocrine |  |  |  |  |
 | Hypothyroidismg | 12 | 0.2 | 7.5 | 0.4 |
-| Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
-| a Includes asthenia. |  |  |  |  |
-| b Includes abdominal discomfort, lower abdominal pain, upper abdominal pain, and abdominal tenderness. |  |  |  |  |
-| c Includes dermatitis described as acneiform, allergic, bullous, or exfoliative and rash described as generalized, erythematous, macular, papular, maculopapular, pruritic, pustular, vesicular, or butterfly, and drug eruption. |  |  |  |  |
-| d Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, spinal pain, and pain in extremity. |  |  |  |  |
-| e Includes postural dizziness and vertigo. |  |  |  |  |
-| f Includes upper respiratory tract infection including viral respiratory tract infection, lower respiratory tract infection, rhinitis, pharyngitis, and nasopharyngitis. |  |  |  |  |
-| g Includes secondary hypothyroidism and autoimmune hypothyroidism. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes asthenia. b Includes abdominal discomfort, lower abdominal pain, upper abdominal pain, and abdominal tenderness. c Includes dermatitis described as acneiform, allergic, bullous, or exfoliative and rash described as generalized, erythematous, macular, papular, maculopapular, pruritic, pustular, vesicular, or butterfly, and drug eruption. d Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, spinal pain, and pain in extremity. e Includes postural dizziness and vertigo. f Includes upper respiratory tract infection including viral respiratory tract infection, lower respiratory tract infection, rhinitis, pharyngitis, and nasopharyngitis. g Includes secondary hypothyroidism and autoimmune hypothyroidism. |  |  |  |  |
 
 Table 22: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of Intravenous Nivolumab-Treated Patients - CHECKMATE-238
 
@@ -762,10 +736,7 @@ Table 23: Adverse Reactions in >10% of Patients with Early-Stage NSCLC Receiving
 | Alopecia | 11 | 0 | 15 | 0 |
 | Nervous System |  |  |  |  |
 | Peripheral neuropathyc | 13 | 0 | 6 | 0 |
-| Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
-| a Includes fatigue and asthenia. |  |  |  |  |
-| b Includes rash, dermatitis, acneiform dermatitis, atopic dermatitis, bullous dermatitis, drug eruption, maculopapular rash, and pruritic rash. |  |  |  |  |
-| c Includes peripheral neuropathy, dysesthesia, hypoesthesia, peripheral motor neuropathy, peripheral sensory neuropathy. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes fatigue and asthenia. b Includes rash, dermatitis, acneiform dermatitis, atopic dermatitis, bullous dermatitis, drug eruption, maculopapular rash, and pruritic rash. c Includes peripheral neuropathy, dysesthesia, hypoesthesia, peripheral motor neuropathy, peripheral sensory neuropathy. |  |  |  |  |
 
 Table 24: Select Laboratory Values Worsening from Baselinea Occurring in >20% of Patients with Early-Stage NSCLC Receiving Neoadjuvant Intravenous Nivolumab and Platinum-Doublet Chemotherapy in CHECKMATE-816
 
@@ -873,8 +844,7 @@ Table 26: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% 
 | Increased ALT | 22 | 1.7 | 17 | 0.5 |
 | Increased creatinine | 18 | 0 | 12 | 0.5 |
 | Increased TSHb | 14 | N/A | 6 | N/A |
-| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: intravenous nivolumab group (range: 405 to 417 patients) and docetaxel group (range: 372 to 390 patients), except for TSH: intravenous nivolumab group n=314 and docetaxel group n=297. |  |  |  |  |
-| b Not graded per NCI CTCAE v4. |  |  |  |  |
+| a Each test incidence is based on the number of patients who had both baseline and at least one on-study laboratory measurement available: intravenous nivolumab group (range: 405 to 417 patients) and docetaxel group (range: 372 to 390 patients), except for TSH: intravenous nivolumab group n=314 and docetaxel group n=297. b Not graded per NCI CTCAE v4. |  |  |  |  |
 
 ### Squamous Cell Carcinoma of the Head and Neck
 
@@ -953,18 +923,7 @@ Table 27: Adverse Reactions Occurring in ≥10% of Patients - CHECKMATE-274
 | Dizzinessj | 11 | 0.3 | 9 | 0 |
 | Hepatobiliary |  |  |  |  |
 | Hepatitisk | 11 | 4 | 8 | 0.6 |
-| Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
-| a Includes acne, blister, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis contact, eczema, eczema asteatotic, eczema nummular, erythema, erythema multiforme, lichen sclerosus, lichenoid keratosis, pemphigoid, photosensitivity reaction, pigmentation disorder, psoriasis, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rosacea, skin exfoliation, skin lesion, skin reaction, toxic skin eruption, and urticaria. |  |  |  |  |
-| b Includes colitis, colitis microscopic, diarrhea, duodenitis, enteritis, immune-mediated enterocolitis. |  |  |  |  |
-| c Includes abdominal pain, abdominal discomfort, abdominal tenderness, lower and upper abdominal pain. |  |  |  |  |
-| d Includes musculoskeletal pain, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity and spinal pain. |  |  |  |  |
-| e Includes cystitis, escherichia urinary tract infection, pyelonephritis, pyelonephritis acute, pyelonephritis chronic, urethritis, urinary tract infection, urinary tract infection bacterial, urinary tract infection staphylococcal, and urosepsis. |  |  |  |  |
-| f Includes upper respiratory tract infection, nasopharyngitis, pharyngitis and rhinitis. |  |  |  |  |
-| g Includes acute kidney injury, autoimmune nephritis, blood creatinine increased, glomerular filtration rate decreased, immune-mediated nephritis, nephritis, renal failure, and renal impairment. |  |  |  |  |
-| h Includes cough, productive cough, and upper-airway cough syndrome. |  |  |  |  |
-| i Includes dyspnea and exertional dyspnea. |  |  |  |  |
-| j Includes dizziness, postural dizziness and vertigo. |  |  |  |  |
-| k Includes aspartate aminotransferase increased, alanine aminotransferase increased, blood bilirubin increased, cholangitis, drug-induced liver injury, hepatic failure, hepatic function abnormal, hepatitis, hepatocellular injury, hyperbilirubinemia, gamma-glutamyl transferase increased, liver injury, and transaminases increased. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes acne, blister, dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis contact, eczema, eczema asteatotic, eczema nummular, erythema, erythema multiforme, lichen sclerosus, lichenoid keratosis, pemphigoid, photosensitivity reaction, pigmentation disorder, psoriasis, rash, rash erythematous, rash macular, rash maculo-papular, rash papular, rash pruritic, rosacea, skin exfoliation, skin lesion, skin reaction, toxic skin eruption, and urticaria. b Includes colitis, colitis microscopic, diarrhea, duodenitis, enteritis, immune-mediated enterocolitis. c Includes abdominal pain, abdominal discomfort, abdominal tenderness, lower and upper abdominal pain. d Includes musculoskeletal pain, back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity and spinal pain. e Includes cystitis, escherichia urinary tract infection, pyelonephritis, pyelonephritis acute, pyelonephritis chronic, urethritis, urinary tract infection, urinary tract infection bacterial, urinary tract infection staphylococcal, and urosepsis. f Includes upper respiratory tract infection, nasopharyngitis, pharyngitis and rhinitis. g Includes acute kidney injury, autoimmune nephritis, blood creatinine increased, glomerular filtration rate decreased, immune-mediated nephritis, nephritis, renal failure, and renal impairment. h Includes cough, productive cough, and upper-airway cough syndrome. i Includes dyspnea and exertional dyspnea. j Includes dizziness, postural dizziness and vertigo. k Includes aspartate aminotransferase increased, alanine aminotransferase increased, blood bilirubin increased, cholangitis, drug-induced liver injury, hepatic failure, hepatic function abnormal, hepatitis, hepatocellular injury, hyperbilirubinemia, gamma-glutamyl transferase increased, liver injury, and transaminases increased. |  |  |  |  |
 
 Table 28: Laboratory Abnormalities Worsening from Baselinea Occurring in ≥10% of Patients - CHECKMATE-274
 
@@ -1042,19 +1001,7 @@ Table 29: Adverse Reactions Occurring in ≥10% of Treated Patients - CHECKMATE-
 | Hematuria | 11 | 1 | 7 | 1.4 |
 | Investigations |  |  |  |  |
 | Weight decreased | 11 | 0.3 | 6 | 0 |
-| Toxicity was graded per NCI CTCAE v4. |  |  |  |  |
-| a Includes colitis, immune-mediated enterocolitis. |  |  |  |  |
-| b Includes upper abdominal pain, lower abdominal pain, abdominal discomfort, epigastric discomfort, gastrointestinal pain, and hepatic pain. |  |  |  |  |
-| c Includes asthenia. |  |  |  |  |
-| d Includes peripheral edema, swelling, peripheral swelling, localized edema, swelling, face edema, testicular edema, gravitational edema, and edema genital. |  |  |  |  |
-| e Includes hyperthermia, body temperature increased and hyperpyrexia. |  |  |  |  |
-| f Includes back pain, arthralgia, bone pain, arthritis, musculoskeletal chest pain, non-cardiac chest pain, myalgia, neck pain, pain in extremity, and spinal pain. |  |  |  |  |
-| g Includes maculopapular rash, erythematous rash, macular rash, papular rash, pustular rash, acneiform dermatitis, dermatitis, allergic dermatitis, atopic dermatitis, exfoliative rash, eczema asteatotic, erythema multiforme, palmar-plantar erythrodysesthesia syndrome, eczema, dermatitis exfoliative generalized, and skin exfoliation. |  |  |  |  |
-| h Includes paresthesia, peripheral sensory neuropathy, hypoesthesia, dysesthesia, neuralgia, hyperesthesia, peripheral motor neuropathy, polyneuropathy. |  |  |  |  |
-| i Includes occipital neuralgia. |  |  |  |  |
-| j Includes urosepsis, cystitis, pyelonephritis, pyelonephritis acute, urinary tract infection enterococcal, escherichia urinary tract infection. |  |  |  |  |
-| k Includes blood stimulating hormone increased. |  |  |  |  |
-| l Includes acute kidney injury, renal failure, renal impairment, glomerular filtration rate decreased, anuria, azotemia. |  |  |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes colitis, immune-mediated enterocolitis. b Includes upper abdominal pain, lower abdominal pain, abdominal discomfort, epigastric discomfort, gastrointestinal pain, and hepatic pain. c Includes asthenia. d Includes peripheral edema, swelling, peripheral swelling, localized edema, swelling, face edema, testicular edema, gravitational edema, and edema genital. e Includes hyperthermia, body temperature increased and hyperpyrexia. f Includes back pain, arthralgia, bone pain, arthritis, musculoskeletal chest pain, non-cardiac chest pain, myalgia, neck pain, pain in extremity, and spinal pain. g Includes maculopapular rash, erythematous rash, macular rash, papular rash, pustular rash, acneiform dermatitis, dermatitis, allergic dermatitis, atopic dermatitis, exfoliative rash, eczema asteatotic, erythema multiforme, palmar-plantar erythrodysesthesia syndrome, eczema, dermatitis exfoliative generalized, and skin exfoliation. h Includes paresthesia, peripheral sensory neuropathy, hypoesthesia, dysesthesia, neuralgia, hyperesthesia, peripheral motor neuropathy, polyneuropathy. i Includes occipital neuralgia. j Includes urosepsis, cystitis, pyelonephritis, pyelonephritis acute, urinary tract infection enterococcal, escherichia urinary tract infection. k Includes blood stimulating hormone increased. l Includes acute kidney injury, renal failure, renal impairment, glomerular filtration rate decreased, anuria, azotemia. |  |  |  |  |
 
 Table 30: Selected Laboratory Abnormalities Worsening from Baselinea Occurring in ≥20% of Patients - CHECKMATE-901
 
@@ -1128,11 +1075,7 @@ Table 31: Adverse Reactions Occurring in ≥10% of Patients - CHECKMATE-275
 | Pruritus | 12 | 0 |
 | Endocrine |  |  |
 | Thyroid disordersd | 15 | 0 |
-| Toxicity was graded per NCI CTCAE v4. |  |  |
-| a Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity and spinal pain. |  |  |
-| b Includes abdominal discomfort, lower and upper abdominal pain. |  |  |
-| c Includes dermatitis, dermatitis acneiform, dermatitis bullous, and rash described as generalized, macular, maculopapular, or pruritic. |  |  |
-| d Includes autoimmune thyroiditis, blood TSH decrease, blood TSH increase, hyperthyroidism, hypothyroidism, thyroiditis, thyroxine decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine free increased, tri-iodothyronine increased. |  |  |
+| Toxicity was graded per NCI CTCAE v4. a Includes back pain, bone pain, musculoskeletal chest pain, musculoskeletal discomfort, myalgia, neck pain, pain in extremity and spinal pain. b Includes abdominal discomfort, lower and upper abdominal pain. c Includes dermatitis, dermatitis acneiform, dermatitis bullous, and rash described as generalized, macular, maculopapular, or pruritic. d Includes autoimmune thyroiditis, blood TSH decrease, blood TSH increase, hyperthyroidism, hypothyroidism, thyroiditis, thyroxine decreased, thyroxine free increased, thyroxine increased, tri-iodothyronine free increased, tri-iodothyronine increased. |  |  |
 
 Table 32: Laboratory Abnormalities Worsening from Baseline Occurring in ≥10% of Patients - CHECKMATE-275
 
@@ -1211,7 +1154,7 @@ Table 34: Laboratory Values Worsening from Baselinea in ≥10% of Patients and a
 
 | Laboratory Abnormalitya | Intravenous Nivolumab and Ipilimumab (n=352) |  | Intravenous Nivolumab (n=351) |  |
 | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3-or 4 (%) | All Grades (%) | Grades 3 or -4 (%) |  |
+| All Grades (%) | Grades 3 or 4 (%) | All Grades (%) | Grades 3 or 4 (%) |  |
 | Chemistry |  |  |  |  |
 | Lipase increased | 44 | 10 | 32 | 11 |
 | Amylase increased | 41 | 4.6 | 33 | 5 |

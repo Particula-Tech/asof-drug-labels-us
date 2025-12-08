@@ -29,24 +29,30 @@ Select patients with advanced or metastatic gastric cancer, gastroesophageal jun
 
 The recommended dosages of OPDIVO QVANTIG as monotherapy are presented in Table 1.
 
+Administer OPDIVO QVANTIG as a subcutaneous injection over 3 to 5 minutes [see Dosage and Administration (2.5)].
+
 Table 1: Recommended Dosages for OPDIVO QVANTIG as Monotherapy
 
 | Indication | Recommended OPDIVO QVANTIG Dosage | Duration of Therapy |
 | --- | --- | --- |
-| Advanced renal cell carcinoma† | 600 mg nivolumab and 10,000 units hyaluronidase* every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase* every 4 weeks | Until disease progression or unacceptable toxicity |
-| Unresectable or metastatic melanoma† |  |  |
+| Advanced renal cell carcinoma† | 600 mg nivolumab and 10,000 units hyaluronidase every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase every 4 weeks | Until disease progression or unacceptable toxicity |
 | Metastatic non-small cell lung cancer |  |  |
 | Squamous cell carcinoma of the head and neck |  |  |
 | Locally advanced or metastatic urothelial carcinoma |  |  |
-| Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer that has progressed following prior treatment for metastatic disease† |  |  |
 | Hepatocellular carcinoma previously treated with sorafenib† |  |  |
 | Esophageal squamous cell carcinoma |  |  |
-| Unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer† | 600 mg nivolumab and 10,000 units hyaluronidase* every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase* every 4 weeks | Until disease progression or unacceptable toxicity, or up to 2 years |
-| First-line unresectable or metastatic hepatocellular carcinoma† | 600 mg nivolumab and 10,000 units hyaluronidase* every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase* every 4 weeks | Until disease progression or unacceptable toxicity, or up to 2 years |
-| Adjuvant treatment of melanoma | 600 mg nivolumab and 10,000 units hyaluronidase* every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase* every 4 weeks | Until disease recurrence or unacceptable toxicity for up to 1 year |
-| Adjuvant treatment of urothelial carcinoma |  |  |
+| Unresectable or metastatic melanoma† | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or greater:600 mg nivolumab and 10,000 units hyaluronidase every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase every 4 weeks | Until disease progression or unacceptable toxicity |
+| Pediatric patients age 12 years and older and weighing 30 kg or greater but less than 40 kg:300 mg nivolumab and 5,000 units hyaluronidase every 2 weeksor600 mg nivolumab and 10,000 units hyaluronidase every 4 weeks |  |  |
+| Adjuvant treatment of melanoma | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or greater:600 mg nivolumab and 10,000 units hyaluronidase every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase every 4 weeks | Until disease recurrence or unacceptable toxicity for up to 1 year |
+| Pediatric patients age 12 years and older and weighing 30 kg or greater but less than 40 kg:300 mg nivolumab and 5,000 units hyaluronidase every 2 weeksor600 mg nivolumab and 10,000 units hyaluronidase every 4 weeks |  |  |
+| Unresectable or metastatic microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) colorectal cancer† | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or greater:600 mg nivolumab and 10,000 units hyaluronidase every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase every 4 weeks | Until disease progression or unacceptable toxicity, or up to 2 years |
+| Pediatric patients age 12 years and older and weighing 30 kg or greater but less than 40 kg:300 mg nivolumab and 5,000 units hyaluronidase every 2 weeksor600 mg nivolumab and 10,000 units hyaluronidase every 4 weeks |  |  |
+| Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer that has progressed following prior treatment for metastatic disease† | Adult patients and pediatric patients age 12 years and older and weighing 40 kg or greater:600 mg nivolumab and 10,000 units hyaluronidase every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase every 4 weeks | Until disease progression or unacceptable toxicity |
+| Pediatric patients age 12 years and older and weighing 30 kg or greater but less than 40 kg:300 mg nivolumab and 5,000 units hyaluronidase every 2 weeksor600 mg nivolumab and 10,000 units hyaluronidase every 4 weeks |  |  |
+| First-line unresectable or metastatic hepatocellular carcinoma† | 600 mg nivolumab and 10,000 units hyaluronidase every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase every 4 weeks | Until disease progression or unacceptable toxicity, or up to 2 years |
+| Adjuvant treatment of urothelial carcinoma | 600 mg nivolumab and 10,000 units hyaluronidase every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase every 4 weeks | Until disease recurrence or unacceptable toxicity for up to 1 year |
 | Adjuvant treatment of resected esophageal or gastroesophageal junction cancer |  |  |
-| † Dosing recommendations for monotherapy or monotherapy following intravenous nivolumab and ipilimumab combination therapy. * Administer over 3-5 minutes. |  |  |
+| † Dosing recommendations for monotherapy or monotherapy following intravenous nivolumab and ipilimumab combination therapy. |  |  |
 
 The recommended dosages of OPDIVO QVANTIG in combination with other therapeutic agents are presented in Table 2.
 Refer to the respective Prescribing Information for each therapeutic agent administered in combination with OPDIVO QVANTIG for the recommended dosage information, as appropriate.
@@ -55,16 +61,15 @@ Table 2: Recommended Dosages for OPDIVO QVANTIG in Combination with Other Therap
 
 | Indication | Recommended OPDIVO QVANTIG Dosage | Duration of Therapy |
 | --- | --- | --- |
-| Advanced renal cell carcinoma | 600 mg nivolumab and 10,000 units hyaluronidase* every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase* every 4 weeksAdminister OPDIVO QVANTIG in combination with cabozantinib 40 mg orally once daily without food | OPDIVO QVANTIG: Until disease progression, unacceptable toxicity, or up to 2 years Cabozantinib: Until disease progression or unacceptable toxicity |
-| Neoadjuvant treatment of resectable non-small cell lung cancer | 900 mg nivolumab and 15,000 units hyaluronidase* with platinum-doublet chemotherapy on the same day every 3 weeks | In combination with platinum-doublet chemotherapy for 3 cycles |
-| Neoadjuvant and adjuvant treatment of resectable non-small cell lung cancer | Neoadjuvant: 900 mg nivolumab and 15,000 units hyaluronidase* with platinum-doublet chemotherapy on the same day every 3 weeks | Neoadjuvant: in combination with platinum-doublet chemotherapy until disease progression or unacceptable toxicity, for up to 4 cycles |
-| Adjuvant: 1,200 mg nivolumab and 20,000 units hyaluronidase* every 4 weeks | Adjuvant: following neoadjuvant therapy and surgery, administer as a single agent until disease progression, recurrence, or unacceptable toxicity, for up to 13 cycles (up to 1 year) |  |
-| First-line unresectable or metastatic urothelial carcinoma | 900 mg nivolumab and 15,000 units hyaluronidase* every 3 weeks Administer OPDIVO QVANTIG in combination with cisplatin and gemcitabine on the same day every 3 weeks | In combination with cisplatin and gemcitabine for up to 6 cycles |
-| 600 mg nivolumab and 10,000 units hyaluronidase* every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase* every 4 weeks | After completing up to 6 cycles of combination therapy, administer as single agent until disease progression, unacceptable toxicity, or up to 2 years from first dose |  |
-| Esophageal squamous cell carcinoma | 600 mg nivolumab and 10,000 units hyaluronidase* every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase* every 4 weeksAdminister OPDIVO QVANTIG in combination with fluoropyrimidine- and platinum-containing chemotherapy | Until disease progression, unacceptable toxicity, or up to 2 years |
+| Advanced renal cell carcinoma | 600 mg nivolumab and 10,000 units hyaluronidase every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase every 4 weeksAdminister OPDIVO QVANTIG in combination with cabozantinib 40 mg orally once daily without food | OPDIVO QVANTIG: Until disease progression, unacceptable toxicity, or up to 2 years Cabozantinib: Until disease progression or unacceptable toxicity |
+| Neoadjuvant treatment of resectable non-small cell lung cancer | 900 mg nivolumab and 15,000 units hyaluronidase with platinum-doublet chemotherapy on the same day every 3 weeks | In combination with platinum-doublet chemotherapy for 3 cycles |
+| Neoadjuvant and adjuvant treatment of resectable non-small cell lung cancer | Neoadjuvant: 900 mg nivolumab and 15,000 units hyaluronidase with platinum-doublet chemotherapy on the same day every 3 weeks | Neoadjuvant: in combination with platinum-doublet chemotherapy until disease progression or unacceptable toxicity, for up to 4 cycles |
+| Adjuvant: 1,200 mg nivolumab and 20,000 units hyaluronidase every 4 weeks | Adjuvant: following neoadjuvant therapy and surgery, administer as a single agent until disease progression, recurrence, or unacceptable toxicity, for up to 13 cycles (up to 1 year) |  |
+| First-line unresectable or metastatic urothelial carcinoma | 900 mg nivolumab and 15,000 units hyaluronidase every 3 weeks Administer OPDIVO QVANTIG in combination with cisplatin and gemcitabine on the same day every 3 weeks | In combination with cisplatin and gemcitabine for up to 6 cycles |
+| 600 mg nivolumab and 10,000 units hyaluronidase every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase every 4 weeks | After completing up to 6 cycles of combination therapy, administer as single agent until disease progression, unacceptable toxicity, or up to 2 years from first dose |  |
+| Esophageal squamous cell carcinoma | 600 mg nivolumab and 10,000 units hyaluronidase every 2 weeksor1,200 mg nivolumab and 20,000 units hyaluronidase every 4 weeksAdminister OPDIVO QVANTIG in combination with fluoropyrimidine- and platinum-containing chemotherapy | Until disease progression, unacceptable toxicity, or up to 2 years |
 | Chemotherapy: Until disease progression or unacceptable toxicity |  |  |
-| Gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma | 600 mg nivolumab and 10,000 units hyaluronidase* with fluoropyrimidine- and platinum-containing chemotherapy every 2 weeksor900 mg nivolumab and 15,000 units hyaluronidase* with fluoropyrimidine- and platinum-containing chemotherapy every 3 weeks | OPDIVO QVANTIG: Until disease progression, unacceptable toxicity, or up to 2 years Chemotherapy: Until disease progression or unacceptable toxicity |
-| * Administer over 3-5 minutes. |  |  |
+| Gastric cancer, gastroesophageal junction cancer, and esophageal adenocarcinoma | 600 mg nivolumab and 10,000 units hyaluronidase with fluoropyrimidine- and platinum-containing chemotherapy every 2 weeksor900 mg nivolumab and 15,000 units hyaluronidase with fluoropyrimidine- and platinum-containing chemotherapy every 3 weeks | OPDIVO QVANTIG: Until disease progression, unacceptable toxicity, or up to 2 years Chemotherapy: Until disease progression or unacceptable toxicity |
 
 ## 2.4 Dosage Modifications
 
@@ -125,21 +130,27 @@ Do not shake.
 No incompatibilities were observed between OPDIVO QVANTIG and polypropylene and polycarbonate syringes, or between OPDIVO QVANTIG and polyethylene, polyurethane, polyvinyl chloride, and fluorinated ethylene propylene subcutaneous administration sets.
 
 A syringe and a transfer needle are needed to withdraw OPDIVO QVANTIG solution from the vial.
-OPDIVO QVANTIG may be injected subcutaneously using a 23G-25G (3/8”-5/8”) hypodermic injection needle or subcutaneous administration set (eg., winged/butterfly).
+OPDIVO QVANTIG may be injected subcutaneously using a 23G to 25G (3/8 to 5/8 inch) hypodermic injection needle or subcutaneous administration set (eg., winged/butterfly).
 
+Calculate the appropriate number of vials of OPDIVO QVANTIG (300 mg/5,000 units and/or 600 mg/10,000 units) needed based on the prescribed dose.
+
+Allow vial(s) to reach room temperature 20°C to 25°C (68°F to 77°F) before withdrawing dose.
+
+- •300 mg nivolumab and 5,000 units hyaluronidase
+  - ∘Withdraw 2.5 mL from the 300 mg/5,000 units vial of OPDIVO QVANTIG into the syringe.
 - •600 mg nivolumab and 10,000 units hyaluronidase
-  - ∘Allow 1 OPDIVO QVANTIG vial to reach room temperature, then withdraw 5 mL of OPDIVO QVANTIG into the syringe.
+  - ∘Withdraw 5 mL from the 600 mg/10,000 units vial of OPDIVO QVANTIG into the syringe.
 - •900 mg nivolumab and 15,000 units hyaluronidase
-  - ∘Allow 2 OPDIVO QVANTIG vials to reach room temperature, then withdraw 5 mL from one vial and 2.5 mL from the other vial, for a total volume of 7.5 mL of OPDIVO QVANTIG into a single syringe.
+  - ∘Withdraw 5 mL from the 600 mg/10,000 units vial and 2.5 mL from the 300 mg/5,000 units vial of OPDIVO QVANTIG into a single syringe for a total volume of 7.5 mL.
 - •1,200 mg nivolumab and 20,000 units hyaluronidase
-  - ∘Allow 2 OPDIVO QVANTIG vials to reach room temperature, then withdraw 10 mL of OPDIVO QVANTIG into a single syringe.
+  - ∘Withdraw 5 mL from each vial of 600 mg/10,000 units OPDIVO QVANTIG into a single syringe for a total volume of 10 mL.
 
 Select the appropriate syringe label provided in the carton that matches the prescribed dose and apply to the prepared syringe.
 
 Discard partially used or empty vials of OPDIVO QVANTIG.
 
 If the dose is not to be used immediately, attach a tip cap to the syringe prior to storage.
-To avoid clogging of the hypodermic injection needle, attach a 23G-25G (3/8”-5/8”) hypodermic injection needle to the syringe immediately prior to administration.
+To avoid clogging of the hypodermic injection needle, attach a 23G to 25G (3/8 to 5/8 inch) hypodermic injection needle to the syringe immediately prior to administration.
 
 ### Storage in Syringe
 

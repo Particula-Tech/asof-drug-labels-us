@@ -22,30 +22,36 @@ The exposure-response relationship and time course of pharmacodynamics of OPDIVO
 
 ## 12.3 Pharmacokinetics
 
+Nivolumab pharmacokinetics were characterized at cycle 1 and at steady state in patients with advanced solid tumors at the approved recommended dosages and are presented as geometric mean (CV%) unless otherwise specified.
+
 When comparing nivolumab exposures following OPDIVO QVANTIG to those of intravenous nivolumab in CHECKMATE-67T [see Clinical Studies (14.1)], the geometric mean ratios (GMRs) (90% CI) for time-averaged concentration (Cavg) over 28 days and at steady state were 2.10 (2.00, 2.20) and 1.98 (1.87, 2.11), respectively, and for minimum concentration (Cmin) at 28 days and at steady state were 1.60 (1.49, 1.72) and 1.77 (1.63, 1.93), respectively.
 
-Steady state was achieved by 16 weeks.
+Nivolumab steady state was achieved by 16 weeks.
 The systemic accumulation ratio was 2.3.
 
-Absorption
+### Absorption
 
-The geometric mean bioavailability (CV%) of nivolumab is 74% (14%).
-Peak concentrations occurred by around 6 days.
+Nivolumab bioavailability is 74% (14%).
+Peak concentrations occurred by approximately 6 days.
 
-Distribution
+### Distribution
 
-The geometric mean (CV%) volume of distribution at steady state is 6.8 L (27%).
+The volume of distribution at steady state is 6.8 L (27%).
 
-Elimination
+### Elimination
 
-Nivolumab clearance decreases over time, with a mean maximal reduction (CV%) from baseline values of 24.5% (47.6%), resulting in a geometric mean steady-state clearance (CV%) of 8.2 mL/h (53.9%) in patients with metastatic tumors; this decrease in clearance is not considered clinically relevant.
-Nivolumab clearance does not decrease over time in patients with completely resected melanoma, as the geometric mean population clearance is 24% lower in this patient population compared with patients with metastatic melanoma at steady state.
+Nivolumab clearance decreases over time, with a maximal reduction from baseline values of 24.5% (47.6%), resulting in a steady-state clearance of 8.2 mL/h (53.9%) in patients with metastatic tumors; this decrease in clearance is not considered clinically relevant.
+Nivolumab clearance does not decrease over time in patients with completely resected melanoma, as the clearance is 24% lower in this patient population compared with patients with metastatic melanoma at steady state.
 
-The geometric mean (CV%) elimination half-life is 25 days (78%).
+The elimination half-life is 25 days (78%).
 
-Specific Populations
+### Specific Populations
 
-Body weight (35 to 153 kg), sex, eGFR (24 to 124 mL/min/1.73 m2), and performance status have no clinically significant effects on the clearance of nivolumab.
+No clinically significant differences in the pharmacokinetics of nivolumab were observed based on body weight (35 to 153 kg), sex, eGFR (24 to 124 mL/min/1.73 m2), and performance status.
+
+#### Pediatric Patients
+
+Nivolumab exposures in pediatric patients 12 years and older who weigh 30 kg or greater are predicted to be within range of those observed in adults at the recommended dosage [see Dosage and Administration (2.3)].
 
 ## 12.6 Immunogenicity
 

@@ -203,11 +203,9 @@ Figure 4: Overall Survival - CHECKMATE-025
 
 Previously Treated Metastatic Melanoma
 
-The effectiveness of OPDIVO QVANTIG has been established for the treatment of previously treated unresectable or metastatic melanoma.
+The effectiveness of OPDIVO QVANTIG has been established for the treatment of previously treated unresectable or metastatic melanoma in adult and pediatric patients 12 years and older who weigh 30 kg or greater.
 Use of OPDIVO QVANTIG for this indication is supported by evidence from an adequate and well-controlled study conducted with intravenous nivolumab, and additional pharmacokinetic and safety data that demonstrated comparable pharmacokinetics and safety profiles between OPDIVO QVANTIG and intravenous nivolumab [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 Below is a description of the efficacy results of this adequate and well-controlled study of intravenous nivolumab in this melanoma population.
-
-OPDIVO QVANTIG is not indicated for the treatment of pediatric patients.
 
 CHECKMATE-037
 
@@ -236,11 +234,9 @@ OS may be confounded by dropout, imbalance of subsequent therapies, and differen
 
 ### Previously Untreated Metastatic Melanoma
 
-The effectiveness of OPDIVO QVANTIG has been established for the treatment of previously untreated unresectable or metastatic melanoma.
+The effectiveness of OPDIVO QVANTIG has been established for the treatment of previously untreated unresectable or metastatic melanoma in adult and pediatric patients 12 years and older who weigh 30 kg or greater.
 Use of OPDIVO QVANTIG for this indication is supported by evidence from adequate and well-controlled studies conducted with intravenous nivolumab, and additional pharmacokinetic and safety data that demonstrated comparable pharmacokinetics and safety profiles between OPDIVO QVANTIG and intravenous nivolumab [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 Below is a description of the efficacy results of these adequate and well-controlled studies of intravenous nivolumab in this melanoma population.
-
-OPDIVO QVANTIG is not indicated for the treatment of pediatric patients.
 
 CHECKMATE-066
 
@@ -348,11 +344,9 @@ Based on a minimum follow-up of 28 months, the proportion of responses lasting �
 
 ## 14.3 Adjuvant Treatment of Melanoma
 
-The effectiveness of OPDIVO QVANTIG has been established for the adjuvant treatment of Stage IIB, Stage IIC, Stage III, or Stage IV melanoma.
+The effectiveness of OPDIVO QVANTIG has been established for the adjuvant treatment of Stage IIB, Stage IIC, Stage III, or Stage IV melanoma in adult and pediatric patients 12 years and older who weigh 30 kg or greater.
 Use of OPDIVO QVANTIG for this indication is supported by evidence from adequate and well-controlled studies conducted with intravenous nivolumab [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 Below is a description of the efficacy results of these adequate and well-controlled studies of intravenous nivolumab in these melanoma populations.
-
-OPDIVO QVANTIG is not indicated for the treatment of pediatric patients.
 
 CHECKMATE-76K
 
@@ -868,11 +862,10 @@ Table 64: Efficacy Results - CHECKMATE-275
 
 ### Treatment of MSI-H or dMMR mCRC
 
-The effectiveness of OPDIVO QVANTIG has been established for the treatment of unresectable or metastatic microsatellite instability-high or mismatch repair deficient colorectal cancer (CRC).
+The effectiveness of OPDIVO QVANTIG has been established for the treatment of unresectable or metastatic microsatellite instability-high or mismatch repair deficient colorectal cancer (CRC) in adult and pediatric patients 12 years and older who weigh 30 kg or greater following treatment with intravenous nivolumab and ipilimumab combination therapy.
+
 Use of OPDIVO QVANTIG for this indication is supported by evidence from an adequate and well-controlled study conducted with intravenous nivolumab (CHECKMATE-8HW, NCT03143153), and additional pharmacokinetic and safety data that demonstrated comparable pharmacokinetics and safety profiles between OPDIVO QVANTIG and intravenous nivolumab [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 Below is a description of the efficacy results of the adequate and well-controlled study of intravenous nivolumab in this CRC population.
-
-OPDIVO QVANTIG is not indicated for the treatment of pediatric patients.
 
 CHECKMATE-8HW
 
@@ -919,7 +912,7 @@ Among the 88 patients who received chemotherapy, 58% and 42% of patients receive
 The BICR-assessed PFS efficacy results for patients with centrally confirmed MSI-H/dMMR randomized to the intravenous nivolumab and ipilimumab arm compared with chemotherapy in the 1L setting are presented in Table 65 and Figure 20.
 The comparative results of ORR and OS between arms were not available at the time of the PFS analysis due to statistical testing strategy.
 
-Table 65: Efficacy Results, First Line - CHECKMATE-8HW
+Table 65: Efficacy Results, First-Line - CHECKMATE-8HW
 
 |  | Intravenous Nivolumab and Ipilimumab (n=171) | Chemotherapy (n=84) |
 | --- | --- | --- |
@@ -930,7 +923,7 @@ Table 65: Efficacy Results, First Line - CHECKMATE-8HW
 | p-valuea | <0.0001 |  |
 | NR: Not Reached; NE: Not Estimable. Minimum follow-up was 6.1 months at data cutoff date 12Oct2023. a Based on log-rank test stratified by the same factors as used in the Cox proportional hazards model. The p-value threshold for statistical significance was 0.0209. b Based on Kaplan-Meier estimates. c HR from a Cox proportional hazards model stratified by tumor sidedness (left vs right) per IRT. |  |  |
 
-Figure 20: Progression-free Survival (First Line Intravenous Nivolumab + Ipilimumab vs Chemotherapy) - CHECKMATE-8HW
+Figure 20: Progression-free Survival (First-Line Intravenous Nivolumab + Ipilimumab vs Chemotherapy) - CHECKMATE-8HW
 
 #### All lines intravenous nivolumab in combination with ipilimumab
 
@@ -960,11 +953,9 @@ Figure 21: Progression-free Survival (All lines Intravenous Nivolumab + Ipilimum
 
 ### Treatment of MSI-H or dMMR mCRC after Progression Following Treatment with a Fluoropyrimidine, Oxaliplatin, and Irinotecan
 
-The effectiveness of OPDIVO QVANTIG has been established for the treatment of microsatellite instability-high or mismatch repair deficient metastatic colorectal cancer (mCRC) that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan.
+The effectiveness of OPDIVO QVANTIG has been established for the treatment of microsatellite instability-high or mismatch repair deficient metastatic colorectal cancer (mCRC) that has progressed following treatment with a fluoropyrimidine, oxaliplatin, and irinotecan in adult and pediatric patients 12 years and older who weigh 30 kg or greater.
 Use of OPDIVO QVANTIG for this indication is supported by evidence from an adequate and well-controlled study conducted with intravenous nivolumab (CHECKMATE-142, NCT02060188), and additional pharmacokinetic and safety data that demonstrated comparable pharmacokinetics and safety profiles between OPDIVO QVANTIG and intravenous nivolumab [see Adverse Reactions (6.1) and Clinical Pharmacology (12.3)].
 Below is a description of the efficacy results of the adequate and well-controlled study of intravenous nivolumab in this CRC population.
-
-OPDIVO QVANTIG is not indicated for the treatment of pediatric patients.
 
 CHECKMATE-142
 
@@ -1002,9 +993,7 @@ Table 67: Efficacy Results - CHECKMATE-142
 | Duration of Response |  |  |  |  |
 | Proportion of responders with ≥6 months response duration | 86% | 94% | 89% | 87% |
 | Proportion of responders with ≥12 months response duration | 82% | 88% | 77% | 74% |
-| a Minimum follow-up 33.7 months for all patients treated with intravenous nivolumab (n=74). |  |  |  |  |
-| b Minimum follow-up 27.5 months for all patients treated with intravenous nivolumab and ipilimumab (n=119). |  |  |  |  |
-| c Estimated using the Clopper-Pearson method. |  |  |  |  |
+| a Minimum follow-up 33.7 months for all patients treated with intravenous nivolumab (n=74). b Minimum follow-up 27.5 months for all patients treated with intravenous nivolumab and ipilimumab (n=119). c Estimated using the Clopper-Pearson method. |  |  |  |  |
 
 ## 14.10 Hepatocellular Carcinoma
 
@@ -1114,8 +1103,7 @@ Table 69: Efficacy Results - Cohort 4 of CHECKMATE-040
 | (95% CI)b | (22, 50) |
 | Complete response | 6 (12%) |
 | Partial response | 11 (22%) |
-| a Confirmed by BICR. |  |
-| b Confidence interval is based on the Clopper and Pearson method. |  |
+| a Confirmed by BICR. b Confidence interval is based on the Clopper and Pearson method. |  |
 
 ## 14.11 Esophageal Cancer
 
@@ -1155,8 +1143,7 @@ Table 70: Efficacy Results - CHECKMATE-577
 | Median (months) (95% CI) | 22.4(16.6, 34.0) | 11.0(8.3, 14.3) |
 | Hazard ratioa (95% CI) | 0.69 (0.56, 0.85) |  |
 | p-valueb | 0.0003 |  |
-| a Based on a stratified proportional hazards model. |  |  |
-| b Based on a stratified log-rank test. |  |  |
+| a Based on a stratified proportional hazards model. b Based on a stratified log-rank test. |  |  |
 
 Figure 23: Disease-free Survival - CHECKMATE-577
 
@@ -1220,11 +1207,7 @@ Table 71: Efficacy Results - CHECKMATE-648
 | Duration of Response (months)a |  |  |  |  |  |  |
 | Median (95% CI) | 8.4(6.9, 12.4) | 11.8(7.1, 27.4) | 5.7(4.4, 8.7) | 8.2(6.7, 11.1) | 11.8(7.1, 23.6) | 6.9(5.7, 8.2) |
 | Range | 1.4+, 34.6 | 1.4+, 34.5+ | 1.4+, 31.8+ | 1.4+, 35.9+ | 1.4+, 34.5+ | 1.4+, 31.8+ |
-| a Assessed by BICR. |  |  |  |  |  |  |
-| b Based on stratified Cox proportional hazard model. Hazard ratios are reported for each intravenous nivolumab containing arm compared to chemotherapy within each analysis population. |  |  |  |  |  |  |
-| c Based on a stratified 2-sided log-rank test. |  |  |  |  |  |  |
-| S1, S2, S3 Significant p-value compared to stopping boundary of 0.005, 0.014, and 0.015, respectively. |  |  |  |  |  |  |
-| NS: Not Statistically significant, NT: Not evaluated for statistical significance as per pre-specified hierarchical testing procedure. |  |  |  |  |  |  |
+| a Assessed by BICR. b Based on stratified Cox proportional hazard model. Hazard ratios are reported for each intravenous nivolumab containing arm compared to chemotherapy within each analysis population. c Based on a stratified 2-sided log-rank test. S1, S2, S3 Significant p-value compared to stopping boundary of 0.005, 0.014, and 0.015, respectively. NS: Not Statistically significant, NT: Not evaluated for statistical significance as per pre-specified hierarchical testing procedure. |  |  |  |  |  |  |
 
 Figure 24: Overall Survival – CHECKMATE-648
 
@@ -1285,12 +1268,7 @@ Table 72: Efficacy Results - ATTRACTION-3
 | Disease progression or death (%) | 187 (89) | 176 (84) |
 | Median (months) (95% CI) | 1.7(1.5, 2.7) | 3.4(3.0, 4.2) |
 | Hazard ratio (95% CI)b | 1.1 (0.9, 1.3) |  |
-| a Based on ITT analysis. |  |  |
-| b Based on a stratified proportional hazards model. |  |  |
-| c Based on a stratified log-rank test. |  |  |
-| d Based on Response Evaluable Set (RES) analysis, n=171 in intravenous nivolumab group and n=158 in investigator’s choice group. |  |  |
-| e Based on stratified Cochran-Mantel-Haenszel test; p-value not significant. |  |  |
-| f PFS not tested due to pre-specified hierarchical testing strategy. |  |  |
+| a Based on ITT analysis. b Based on a stratified proportional hazards model. c Based on a stratified log-rank test. d Based on Response Evaluable Set (RES) analysis, n=171 in intravenous nivolumab group and n=158 in investigator’s choice group. e Based on stratified Cochran-Mantel-Haenszel test; p-value not significant. f PFS not tested due to pre-specified hierarchical testing strategy. |  |  |
 
 Figure 26: Overall Survival - ATTRACTION-3
 
@@ -1357,11 +1335,7 @@ Table 73: Efficacy Results - CHECKMATE-649
 | Partial response (%) | 249 (39) | 207 (32) | 182 (38) | 150 (31) |
 | Duration of Response (months)c,d |  |  |  |  |
 | Median(95% CI)Range | 8.5(7.7, 10.3)1.1+, 29.6+ | 6.9(5.8, 7.6)1.2+, 30.8+ | 9.5(8.1, 11.9)1.1+, 29.6+ | 6.9(5.6, 7.9)1.2+, 30.8+ |
-| a Based on stratified Cox proportional hazard model. |  |  |  |  |
-| b Based on stratified log-rank test. |  |  |  |  |
-| c Assessed by BICR. |  |  |  |  |
-| d Based on confirmed response. |  |  |  |  |
-| e Not evaluated for statistical significance. |  |  |  |  |
+| a Based on stratified Cox proportional hazard model. b Based on stratified log-rank test. c Assessed by BICR. d Based on confirmed response. e Not evaluated for statistical significance. |  |  |  |  |
 
 Figure 27: Overall Survival (PD-L1 CPS ≥1) - CHECKMATE-649
 
