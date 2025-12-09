@@ -18,7 +18,7 @@
 |  | Staying well hydrated, increasing physical activity, and taking fiber during treatment with clozapine tablets can help prevent constipation and other bowel problems. Your healthcare provider may prescribe medicines to prevent severe problems. |  |  |  |  |  |
 | •high count of a certain white blood cell (eosinophilia). Clozapine tablets can cause a high count of eosinophils in some people and can be serious. This is a different risk than the risk of clozapine tablets causing an abnormally low white blood cell count (neutropenia). Your healthcare provider may send you to see an internal medicine specialist (internist) or blood specialist (hematologist). Tell your healthcare provider right away if you have any of these symptoms: |  |  |  |  |  |  |
 | ofeeling very tired or weakofeverorashoswellingojoint pain |  |  |  | ocoughing and wheezingonausea, vomiting, or diarrheaonight sweatsoconfusionodifficulty swallowing |  |  |
-| •serious heart rhythm problems (QTc Interval Prolongation) that can cause death. Your healthcare provider will do a physical exam and may obtain blood tests and an electrocardiogram before starting you on treatment with clozapine tablets. Tell your healthcare provider right away if you have any of these symptoms: opassing out or feeling like you will pass outodizzinessofeeling as if your heart is pounding or missing beats •problems with your metabolism such as: high blood sugar (hyperglycemia) or diabetes. Increases in blood sugar can happen in some people who take clozapine tablets. Extremely high blood sugar can lead to coma and death. If you have diabetes or risk factors for diabetes (such as being overweight), your healthcare provider should check your blood sugar before you start clozapine tablets and during treatment. Tell your healthcare provider if you have any of these symptoms of high blood sugar while taking clozapine tablets: |  |  |  |  |  |  |
+| •serious heart rhythm problems (QTc Interval Prolongation) that can cause death. Your healthcare provider will do a physical exam and may obtain blood tests and an electrocardiogram before starting you on treatment with clozapine tablets. Tell your healthcare provider right away if you have any of these symptoms: opassing out or feeling like you will pass outodizzinessofeeling as if your heart is pounding or missing beats •problems with your metabolism such as: ohigh blood sugar (hyperglycemia) or diabetes. Increases in blood sugar can happen in some people who take clozapine tablets. Extremely high blood sugar can lead to coma and death. If you have diabetes or risk factors for diabetes (such as being overweight), your healthcare provider should check your blood sugar before you start clozapine tablets and during treatment. Tell your healthcare provider if you have any of these symptoms of high blood sugar while taking clozapine tablets: |  |  |  |  |  |  |
 |  | •feel very thirsty•need to urinate more than usual |  | •feel very hungry•feel weak or tired |  |  | •feel sick to your stomach•feel confused, or your breath smells fruity |
 | oincreased fat levels (cholesterol and triglycerides) in your blood (dyslipidemia). Your healthcare provider should check the fat levels in your blood before you start and during treatment with clozapine tablets. oweight gain. You and your healthcare provider should check your weight regularly. |  |  |  |  |  |  |
 | •neuroleptic malignant syndrome (NMS). NMS is a rare but serious condition that can lead to death and must be treated in a hospital. Tell your healthcare provider right away if you become severely ill and have any of these symptoms: |  |  |  |  |  |  |
@@ -38,8 +38,8 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-Revised: 7/2025
+Revised: 8/2025
 
-7XXXXXXX
+75110397
 
-MXA:CLOZ:RX1
+MXA:CLOZ:R8mh/MXA:MG:CLOZ:R1mh
