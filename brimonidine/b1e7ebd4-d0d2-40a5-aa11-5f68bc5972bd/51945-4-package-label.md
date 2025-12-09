@@ -1,6 +1,6 @@
 # PRINCIPLE DISPLAY PANEL
 
-1. NDC 61314-144-05
+NDC 61314-144-05
 
 Brimonidine
 
@@ -12,12 +12,12 @@ Solution
 
 0.15%
 
+For Topical Eye Use Only
+
 Rx Only
 
 STERILE
 
 5 mL
-
-FOR TOPICAL OPHTHALMIC USE ONLY
 
 SANDOZ

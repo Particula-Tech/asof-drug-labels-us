@@ -22,10 +22,15 @@ The peak plasma concentrations (Cmax) and AUC0-inf were 73 ± 19 pg/mL and 375 �
 Tmax was 1.7 ± 0.7 hours after dosing.
 The systemic half-life was approximately 2.1 hours.
 
+Distribution
+
+Brimonidine was approximately 29% bound to plasma proteins in healthy subjects.
+
+Elimination
+
 Metabolism
 
-Brimonidine is metabolized primarily by the liver.
-In vitro metabolism data from human microsomal fractions and liver slices indicate that brimonidine undergoes extensive hepatic metabolism.
+In humans, brimonidine is extensively metabolized by the liver.
 
 Excretion
 

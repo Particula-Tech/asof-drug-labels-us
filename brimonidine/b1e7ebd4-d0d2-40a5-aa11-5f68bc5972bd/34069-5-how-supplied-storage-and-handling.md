@@ -2,8 +2,11 @@
 
 Brimonidine tartrate ophthalmic solution, 0.15% is supplied sterile in opaque white LDPE plastic bottles and natural tips with purple polypropylene caps as follows:
 
-1. 5 mL in 8 mL bottle NDC 61314-144-05
-2. 10 mL in 10 mL bottle NDC 61314-144-10
-3. 15 mL in 15 mL bottle NDC 61314-144-15
+5 mL in 8 mL bottle NDC 61314-144-05
 
-Storage: Store at 15° to 25° C (59° to 77°F).
+10 mL in 10 mL bottle NDC 61314-144-10
+
+15 mL in 15 mL bottle NDC 61314-144-15
+
+Storage: Store at 15°C to 25° C (59°F to 77°F).
+After opening, Brimonidine tartrate ophthalmic solution, 0.15% can be used until the expiration date on the bottle.
