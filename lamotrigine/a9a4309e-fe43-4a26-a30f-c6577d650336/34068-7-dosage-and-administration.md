@@ -2,7 +2,7 @@
 
 ## 2.1 General Dosing Considerations
 
-Rash There are suggestions, yet to be proven, that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of lamotrigine tablets with valproate, (2) exceeding the recommended initial dose of lamotrigine tablets, or (3) exceeding the recommended dose escalation for lamotrigine tablets.
+Rash There are suggestions that the risk of severe, potentially life-threatening rash may be increased by (1) coadministration of lamotrigine tablets with valproate, (2) exceeding the recommended initial dose of lamotrigine tablets, or (3) exceeding the recommended dose escalation for lamotrigine tablets.
 However, cases have occurred in the absence of these factors [see Boxed Warning].
 Therefore, it is important that the dosing recommendations be followed closely.
 
@@ -25,15 +25,15 @@ For dosing considerations for lamotrigine tablets in patients on other drugs kno
 Target Plasma Levels for Patients with Epilepsy or Bipolar Disorder A therapeutic plasma concentration range has not been established for lamotrigine.
 Dosing of lamotrigine tablets should be based on therapeutic response [see Clinical Pharmacology (12.3)].
 
-Women Taking Estrogen-Containing Oral Contraceptives Starting Lamotrigine Tablets in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine [see Clinical Pharmacology (12.3)], no adjustments to the recommended dose-escalation guidelines for lamotrigine tablets should be necessary solely based on the use of estrogen-containing oral contraceptives.
+Women Taking Estrogen-Containing Oral Contraceptives Starting Lamotrigine Tablets in Women Taking Estrogen-Containing Oral Contraceptives: Although estrogen-containing oral contraceptives have been shown to increase the clearance of lamotrigine, no adjustments to the recommended dose-escalation guidelines for lamotrigine tablets should be necessary solely based on the use of estrogen-containing oral contraceptives [see Clinical Pharmacology (12.3)].
 Therefore, dose escalation should follow the recommended guidelines for initiating adjunctive therapy with lamotrigine tablets based on the concomitant AED or other concomitant medications (see Tables 1, 5, and 7).
 See below for adjustments to maintenance doses of lamotrigine tablets in women taking estrogen-containing oral contraceptives.
 
 Adjustments to the Maintenance Dose of Lamotrigine Tablets in Women Taking Estrogen-Containing Oral Contraceptives:
 
-(1) Taking Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of lamotrigine tablets will in most cases need to be increased by as much as 2-fold over the recommended target maintenance dose to maintain a consistent lamotrigine plasma level.
+(1) Taking Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, the maintenance dose of lamotrigine tablets will in most cases need to be increased by as much as 2-fold over the recommended target maintenance dose to maintain a consistent lamotrigine plasma level [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-(2) Starting Estrogen-Containing Oral Contraceptives: In women taking a stable dose of lamotrigine tablets and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose will in most cases need to be increased by as much as 2-fold to maintain a consistent lamotrigine plasma level.
+(2) Starting Estrogen-Containing Oral Contraceptives: In women taking a stable dose of lamotrigine tablets and not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, the maintenance dose will in most cases need to be increased by as much as 2-fold to maintain a consistent lamotrigine plasma level [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 The dose increases should begin at the same time that the oral contraceptive is introduced and continue, based on clinical response, no more rapidly than 50 to 100 mg/day every week.
 Dose increases should not exceed the recommended rate (see Tables 1 and 5) unless lamotrigine plasma levels or clinical response support larger increases.
 Gradual transient increases in lamotrigine plasma levels may occur during the week of inactive hormonal preparation (pill-free week), and these increases will be greater if dose increases are made in the days before or during the week of inactive hormonal preparation.
@@ -42,9 +42,9 @@ If adverse reactions attributable to lamotrigine tablets consistently occur duri
 Dose adjustments limited to the pill-free week are not recommended.
 For women taking lamotrigine tablets in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, no adjustment to the dose of lamotrigine tablets should be necessary [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
-(3) Stopping Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], the maintenance dose of lamotrigine tablets will in most cases need to be decreased by as much as 50% in order to maintain a consistent lamotrigine plasma level.
+(3) Stopping Estrogen-Containing Oral Contraceptives: In women not taking carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, the maintenance dose of lamotrigine tablets will in most cases need to be decreased by as much as 50% in order to maintain a consistent lamotrigine plasma level [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 The decrease in dose of lamotrigine tablets should not exceed 25% of the total daily dose per week over a 2-week period, unless clinical response or lamotrigine plasma levels indicate otherwise [see Clinical Pharmacology (12.3)].
-In women taking lamotrigine tablets in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7), Clinical Pharmacology (12.3)], no adjustment to the dose of lamotrigine tablets should be necessary.
+In women taking lamotrigine tablets in addition to carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation, no adjustment to the dose of lamotrigine tablets should be necessary [see Drug Interactions (7), Clinical Pharmacology (12.3)].
 
 Women and Other Hormonal Contraceptive Preparations or Hormone Replacement Therapy
 
@@ -59,7 +59,7 @@ Dose escalation should follow the recommended guidelines for initiating adjuncti
 In patients already taking maintenance doses of lamotrigine tablets and not taking glucuronidation inducers, the dose of lamotrigine tablets may need to be increased if atazanavir/ritonavir is added or decreased if atazanavir/ritonavir is discontinued [see Clinical Pharmacology (12.3)].
 
 Patients with Hepatic Impairment Experience in patients with hepatic impairment is limited.
-Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)], the following general recommendations can be made.
+Based on a clinical pharmacology study in 24 subjects with mild, moderate, and severe liver impairment, the following general recommendations can be made [see Use in Specific Populations (8.6), Clinical Pharmacology (12.3)].
 No dosage adjustment is needed in patients with mild liver impairment.
 Initial, escalation, and maintenance doses should generally be reduced by approximately 25% in patients with moderate and severe liver impairment without ascites and 50% in patients with severe liver impairment with ascites.
 Escalation and maintenance doses may be adjusted according to clinical response.

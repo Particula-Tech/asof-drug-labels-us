@@ -347,3 +347,7 @@ Non-site Specific
 
 Progressive immunosuppression.
 Renal and Urinary Disorders Tubulointerstitial nephritis (has been reported alone and in association with uveitis).
+
+Skin and Subcutaneous Tissue Disorders
+
+Photosensitivity reaction.

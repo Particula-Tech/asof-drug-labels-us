@@ -62,7 +62,7 @@ The effectiveness of lamotrigine in the maintenance treatment of bipolar I disor
 Trial 1 enrolled patients with a current or recent (within 60 days) depressive episode as defined by DSM-IV and Trial 2 included patients with a current or recent (within 60 days) episode of mania or hypomania as defined by DSM-IV.
 Both trials included a cohort of patients (30% of 404 subjects in Trial 1 and 28% of 171 patients in Trial 2) with rapid cycling bipolar disorder (4 to 6 episodes per year).
 
-In both trials, patients were titrated to a target dose of 200 mg of lamotrigine, as add-on therapy or as monotherapy with gradual withdrawal of any psychotropic medications during an 8- to 16-week open-label period.
+In both trials, patients were titrated to a target dose of 200 mg of lamotrigine as add-on therapy or as monotherapy with gradual withdrawal of any psychotropic medications during an 8- to 16-week open-label period.
 Overall 81% of 1,305 patients participating in the open-label period were receiving 1 or more other psychotropic medications, including benzodiazepines, selective serotonin reuptake inhibitors (SSRIs), atypical antipsychotics (including olanzapine), valproate, or lithium, during titration of lamotrigine.
 Patients with a CGI-severity score of 3 or less maintained for at least 4 continuous weeks, including at least the final week on monotherapy with lamotrigine, were randomized to a placebo-controlled double-blind treatment period for up to 18 months.
 The primary endpoint was TIME (time to intervention for a mood episode or one that was emerging, time to discontinuation for either an adverse event that was judged to be related to bipolar disorder, or for lack of efficacy).
