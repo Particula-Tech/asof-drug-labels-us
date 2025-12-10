@@ -1,6 +1,6 @@
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 25 mg per mL - 1 mL Ampule Label
 
-Rx only NDC 55150-318-01 chlorproMAZINE HCl Injection, USP 25 mg per mL For Deep IM Use 1 mL Ampule Protect from Light Mfd. in India for: Eugia US LLC E. Windsor, NJ 08520 Made in India Code: TS/DRUGS/13/2010
+Rx only NDC 55150-318-01 chlorproMAZINE HCl Injection, USP 25 mg per mL For Deep IM Use 1 mL Ampule Protect from Light Mfd. in India for: Eugia US LLC E. Windsor, NJ 08520 Code: TS/DRUGS/13/2010
 
 # PACKAGE LABEL-PRINCIPAL DISPLAY PANEL - 25 mg per mL - 1 mL Container-Carton [25 Ampules]
 
