@@ -23,13 +23,13 @@ Disease-Associated Maternal and/or Embryo/Fetal Risk
 Published data suggest that there is an increased risk of adverse pregnancy outcomes in women with inflammatory bowel disease or rheumatoid arthritis associated with increased disease activity.
 Adverse pregnancy outcomes include preterm delivery (before 37 weeks of gestation), low birth weight (less than 2.5 kg) and small for gestational age at birth.
 
-Fetal/Neonatal adverse reactions
+Fetal/Neonatal Adverse Reactions
 
 As with other IgG antibodies, infliximab products cross the placenta.
 Infliximab products have been detected in the serum of infants up to 6 months following birth.
 Consequently, these infants may be at increased risk of infection, including disseminated infection which can become fatal.
 At least a six month waiting period following birth is recommended before the administration of live vaccines (e.g., BCG vaccine or other live vaccines, such as the rotavirus vaccine) to these infants [see Warnings and Precautions (5.13)].
-Cases of agranulocytosis in infants exposed in utero have also been reported [see Adverse Reactions (6.2)].
+Cases of agranulocytosis in infants exposed in utero have also been reported [see Adverse Reactions (6.3)].
 
 Data
 
@@ -74,18 +74,18 @@ The safety and effectiveness of RENFLEXIS in the treatment of pediatric patients
 Pediatric Crohn's Disease
 
 The safety and effectiveness of RENFLEXIS have been established for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients 6 years of age and older with moderately to severely active CD who have had an inadequate response to conventional therapy.
-The use of RENFLEXIS for this indication is supported by RENFLEXIS's approval as a biosimilar to infliximab and evidence from a randomized, open-label pediatric CD study of infliximab in 112 pediatric patients aged 6 years and older [see Clinical Studies (14.2)].
+The use of RENFLEXIS for this indication is supported by evidence from a randomized, open-label pediatric CD study of infliximab in 112 pediatric patients aged 6 years and older [see Clinical Studies (14.2)].
 
 Infliximab has been studied only in combination with conventional immunosuppressive therapy in pediatric CD.
 The longer term (greater than 1 year) safety and effectiveness of infliximab products in pediatric CD patients have not been established in clinical trials.
 
 Postmarketing cases of HSTCL have been reported in pediatric patients treated with TNF blockers including infliximab products.
-Due to the risk of HSTCL, a careful risk-benefit assessment should be made when RENFLEXIS is used in combination with other immunosuppressants in pediatric CD patients [see Boxed Warning, Warnings and Precautions (5.2)].
+Due to the risk of HSTCL, a careful risk-benefit assessment should be made when RENFLEXIS is used in combination with other immunosuppressants in pediatric CD patients [see Boxed Warning and Warnings and Precautions (5.2)].
 
 Pediatric Ulcerative Colitis
 
 The safety and effectiveness of RENFLEXIS for reducing signs and symptoms and inducing and maintaining clinical remission in pediatric patients aged 6 years and older with moderately to severely active UC who have had an inadequate response to conventional therapy have been established.
-The use of RENFLEXIS for this indication is supported by RENFLEXIS's approval as a biosimilar to infliximab and evidence from adequate and well-controlled studies of infliximab in adults with additional safety and pharmacokinetic data from an open-label pediatric UC study in 60 pediatric patients aged 6 years and older [see Dosage and Administration (2.4), Adverse Reactions (6.1), and Clinical Studies (14.4)].
+The use of RENFLEXIS for this indication is supported by evidence from adequate and well-controlled studies of infliximab in adults with additional safety and pharmacokinetic data from an open-label pediatric UC study in 60 pediatric patients aged 6 years and older [see Dosage and Administration (2.4), Adverse Reactions (6.1), and Clinical Studies (14.4)].
 The effectiveness of infliximab in inducing and maintaining mucosal healing in pediatric UC was not established.
 Although 41 patients had a Mayo endoscopy subscore of 0 or 1 at the Week 8 endoscopy, the induction phase was open-label and lacked a control group.
 Only 9 patients had an optional endoscopy at Week 54.
@@ -99,7 +99,7 @@ Juvenile Rheumatoid Arthritis (JRA)
 
 The safety and effectiveness of RENFLEXIS in the treatment of pediatric patients with juvenile rheumatoid arthritis (JRA) have not been established.
 
-The safety and efficacy of RENFLEXIS in patients with JRA is based on RENFLEXIS's approval as a biosimilar to infliximab and evaluation of infliximab in a multicenter, randomized, placebo-controlled, double-blind study for 14 weeks, followed by a double-blind, all-active treatment extension, for a maximum of 44 weeks.
+The safety and efficacy of RENFLEXIS in patients with JRA is based on the evaluation of infliximab in a multicenter, randomized, placebo-controlled, double-blind study for 14 weeks, followed by a double-blind, all-active treatment extension, for a maximum of 44 weeks.
 Patients with active JRA between the ages of 4 and 17 years who had been treated with MTX for at least 3 months were enrolled.
 Concurrent use of folic acid, oral corticosteroids (≤ 0.2 mg/kg/day of prednisone or equivalent), NSAIDs, and/or disease modifying antirheumatic drugs (DMARDs) was permitted.
 
@@ -134,4 +134,4 @@ However, the incidence of serious adverse reactions in geriatric patients was hi
 Of the total number of infliximab-treated patients in CD, UC, AS, and PsA clinical studies, 76 (3.2%) were 65 years old and over, while 9 (0.4%) were 75 years old and over.
 In the CD, UC, AS, and PsA studies, there were insufficient numbers of geriatric patients to determine whether they respond differently from younger adults.
 
-The incidence of serious infections in infliximab-treated geriatric patients was greater than in infliximab-treated younger adult patients; therefore close monitoring of geriatric patients for the development of serious infections is recommended [see Warnings and Precautions (5.1), and Adverse Reactions (6.1)].
+The incidence of serious infections in infliximab-treated geriatric patients was greater than in infliximab-treated younger adult patients; therefore close monitoring of geriatric patients for the development of serious infections is recommended [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)].

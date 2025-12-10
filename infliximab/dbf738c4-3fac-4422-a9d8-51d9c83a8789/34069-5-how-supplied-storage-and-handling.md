@@ -3,6 +3,7 @@
 How Supplied
 
 Each RENFLEXIS® (infliximab-abda) for injection is supplied as one single-dose vial individually packaged in a carton (NDC 78206-162-01).
+
 Each single-dose vial contains 100 mg of infliximab-abda as a sterile, preservative-free, white lyophilized powder for reconstitution and dilution (more than one vial may be needed for a full dose) [see Dosage and Administration (2.11)].
 
 Storage and Handling

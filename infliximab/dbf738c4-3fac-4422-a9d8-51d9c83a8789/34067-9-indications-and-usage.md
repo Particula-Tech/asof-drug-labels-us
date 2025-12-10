@@ -34,4 +34,4 @@ RENFLEXIS is indicated for reducing signs and symptoms of active arthritis, inhi
 ## 1.8 Plaque Psoriasis
 
 RENFLEXIS is indicated for the treatment of adult patients with chronic severe (i.e., extensive and/or disabling) plaque psoriasis (Ps) who are candidates for systemic therapy and when other systemic therapies are medically less appropriate.
-RENFLEXIS should only be administered to patients who will be closely monitored and have regular follow-up visits with a physician [see Boxed Warning, Warnings and Precautions (5)].
+RENFLEXIS should only be administered to patients who will be closely monitored and have regular follow-up visits with a physician [see Boxed Warning and Warnings and Precautions (5)].

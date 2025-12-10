@@ -286,7 +286,7 @@ Postmarketing Adverse Reactions in Adults and Pediatric Patients
 - Neutropenia [see Warnings and Precautions (5.6)], agranulocytosis (including infants exposed in utero to infliximab products), idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura.
 - Interstitial lung disease (including pulmonary fibrosis/interstitial pneumonitis and rapidly progressive disease).
 - Pericardial effusion, systemic and cutaneous vasculitis.
-- Erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, linear IgA bullous dermatosis (LABD), acute generalized exanthematous pustulosis (AGEP), new onset and worsening psoriasis (all subtypes including pustular, primarily palmoplantar), lichenoid reactions.
+- Erythema multiforme, Stevens-Johnson Syndrome, toxic epidermal necrolysis, linear IgA bullous dermatosis (LABD), acute generalized exanthematous pustulosis (AGEP), worsening psoriasis (all subtypes including pustular, primarily palmoplantar), lichenoid reactions.
 - Peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, and multifocal motor neuropathy), transverse myelitis, and neuropathies (additional neurologic reactions have also been observed) [see Warnings and Precautions (5.9)].
 - Acute liver failure, jaundice, hepatitis, and cholestasis [see Warnings and Precautions (5.4)].
 - Serious infections [see Warnings and Precautions (5.1)] and vaccine breakthrough infection including bovine tuberculosis (disseminated BCG infection) following vaccination in an infant exposed in utero to infliximab products [see Warnings and Precautions (5.13)].
@@ -294,6 +294,7 @@ Postmarketing Adverse Reactions in Adults and Pediatric Patients
 - Anaphylactic reactions, including anaphylactic shock, laryngeal/pharyngeal edema and severe bronchospasm, and seizure have been associated with administration of infliximab products.
 - Transient visual loss have been reported in association with infliximab products during or within 2 hours of infusion.
   Cerebrovascular accidents, myocardial ischemia/infarction (some fatal), and arrhythmia occurring within 24 hours of initiation of infusion have also been reported [see Warnings and Precautions (5.8)].
+- New onset immune disorders (e.g., psoriasis, rheumatoid arthritis, inflammatory bowel disease).
 
 Postmarketing Serious Adverse Reactions in Pediatric Patients
 

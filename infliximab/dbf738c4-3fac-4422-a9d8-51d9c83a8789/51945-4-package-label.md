@@ -6,18 +6,18 @@ NDC 78206-162-01
 
 ORGANON
 
-RENFLEXIS™ (infliximab-abda) for injection
+RENFLEXIS® (infliximab-abda) for injection
 
 100 mg / vial
 
 For Intravenous Infusion Only
 
-Dispense the enclosed Medication Guide to each patient.
+ATTENTION: Dispense the enclosed Medication Guide to each patient.
 
 Must reconstitute and dilute before intravenous infusion.
 Must infuse over at least 2 hours with an in-line filter.
 
-Single-dose vial.
+One single-dose vial.
 Discard unused portion.
 
 Rx only

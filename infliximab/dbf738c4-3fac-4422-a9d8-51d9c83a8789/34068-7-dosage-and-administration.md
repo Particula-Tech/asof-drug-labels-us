@@ -76,7 +76,7 @@ The infusion solution should be prepared and administered by a trained medical p
    500 mL) or multiple 250 mL infusion bags to ensure that the concentration of the infusion solution does not exceed 4 mg/mL. with sterile 0.9% Sodium Chloride Injection, USP, (do not dilute with any other diluent) as follows:
    - Withdraw a volume from the 0.9% Sodium Chloride Injection, USP, 250 mL bottle or bag equal to the total volume of reconstituted RENFLEXIS required for a dose.
      Slowly add the total volume of reconstituted RENFLEXIS solution from the vial(s) to the 250 mL infusion bottle or bag.
-   - Discard any unused portion of the reconstituted REFLEXIS solution remaining in the vial(s).
+   - Discard any unused portion of the reconstituted RENFLEXIS solution remaining in the vial(s).
    - Gently invert the bag to mix the solution.
      The resulting infusion concentration should range between 0.4 mg/mL (minimum recommended concentration) and 4 mg/mL (maximum recommended concentration) of infliximab-abda.
 4. The RENFLEXIS infusion should begin within 4 hours of reconstitution and dilution.
