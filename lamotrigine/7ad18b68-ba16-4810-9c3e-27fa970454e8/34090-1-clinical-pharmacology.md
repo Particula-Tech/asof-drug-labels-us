@@ -13,7 +13,7 @@ In vitro pharmacological studies suggest that lamotrigine inhibits voltage-sensi
 Effect of Lamotrigine on N-Methyl d-Aspartate-Receptor-Mediated Activity
 
 Lamotrigine did not inhibit N-methyl d-aspartate (NMDA)-induced depolarizations in rat cortical slices or NMDA-induced cyclic GMP formation in immature rat cerebellum, nor did lamotrigine displace compounds that are either competitive or noncompetitive ligands at this glutamate receptor complex (CNQX, CGS, TCHP).
-The IC 50 for lamotrigine effects on NMDA-induced currents (in the presence of 3 µM of glycine) in cultured hippocampal neurons exceeded 100 µM.
+The IC50 for lamotrigine effects on NMDA-induced currents (in the presence of 3 µM of glycine) in cultured hippocampal neurons exceeded 100 µM.
 
 The mechanisms by which lamotrigine exerts its therapeutic action in bipolar disorder have not been established.
 
@@ -57,9 +57,9 @@ The pharmacokinetics of lamotrigine have been studied in subjects with epilepsy,
 Lamotrigine pharmacokinetic parameters for adult and pediatric subjects and healthy normal volunteers are summarized in Tables 14 and 16.
 
 Table 14.
-Mean Pharmacokinetic Parameters a in Healthy Volunteers and Adult Subjects with Epilepsy
+Mean Pharmacokinetic Parametersa in Healthy Volunteers and Adult Subjects with Epilepsy
 
-| Adult Study Population | Number of Subjects | T max: Time of Maximum Plasma Concentration (h) | t 1/2: Elimination Half-life (h) | CL/F: Apparent Plasma Clearance (mL/min/kg) |
+| Adult Study Population | Number of Subjects | Tmax: Time of Maximum Plasma Concentration (h) | t1/2: Elimination Half-life (h) | CL/F: Apparent Plasma Clearance (mL/min/kg) |
 | --- | --- | --- | --- | --- |
 | Healthy volunteers taking no other medications: Single-dose SUBVENITE Multiple-dose SUBVENITE | 179 36 | 2.2 (0.25 to 12.0) 1.7 (0.5 to 4.0) | 32.8 (14.0 to 103.0) 25.4 (11.6 to 61.6) | 0.44 (0.12 to 1.10) 0.58 (0.24 to 1.15) |
 | Healthy volunteers taking valproate: Single-dose SUBVENITE Multiple-dose SUBVENITE | 6 18 | 1.8 (1.0 to 4.0) 1.9 (0.5 to 3.5) | 48.3 (31.5 to 88.6) 70.3 (41.9 to 113.5) | 0.30 (0.14 to 0.42) 0.18 (0.12 to 0.33) |
@@ -90,7 +90,7 @@ Vd/F is independent of dose and is similar following single and multiple doses i
 
 Protein Binding
 
-Data from in vitro studies indicate that lamotrigine is approximately 55% bound to human plasma proteins at plasma lamotrigine concentrations from 1 to 10 mcg/mL (10 mcg/mL is 4 to 6 times the trough plasma concentration observed in the controlled efficacy trials).
+Data from in vitrostudies indicate that lamotrigine is approximately 55% bound to human plasma proteins at plasma lamotrigine concentrations from 1 to 10 mcg/mL (10 mcg/mL is 4 to 6 times the trough plasma concentration observed in the controlled efficacy trials).
 Because lamotrigine is not highly bound to plasma proteins, clinically significant interactions with other drugs through competition for protein binding sites are unlikely.
 The binding of lamotrigine to plasma proteins did not change in the presence of therapeutic concentrations of phenytoin, phenobarbital, or valproate.
 Lamotrigine did not displace other AEDs (carbamazepine, phenytoin, phenobarbital) from protein-binding sites.
@@ -105,7 +105,7 @@ Enzyme Induction
 
 The effects of lamotrigine on the induction of specific families of mixed-function oxidase isozymes have not been systematically evaluated.
 
-Following multiple administrations (150 mg twice daily) to normal volunteers taking no other medications, lamotrigine induced its own metabolism, resulting in a 25% decrease in t ½ and a 37% increase in CL/F at steady state compared with values obtained in the same volunteers following a single dose.
+Following multiple administrations (150 mg twice daily) to normal volunteers taking no other medications, lamotrigine induced its own metabolism, resulting in a 25% decrease in t½ and a 37% increase in CL/F at steady state compared with values obtained in the same volunteers following a single dose.
 Evidence gathered from other sources suggests that self-induction by lamotrigine may not occur when lamotrigine is given as adjunctive therapy in patients receiving enzyme-inducing drugs such as carbamazepine, phenytoin, phenobarbital, primidone, or other drugs such as rifampin and the protease inhibitors lopinavir/ritonavir and atazanavir/ritonavir that induce lamotrigine glucuronidation [see Drug Interactions (7)].
 
 Elimination
@@ -194,12 +194,12 @@ Therefore, adjustments to the dosage of SUBVENITE in the presence of progestogen
 
 Aripiprazole
 
-In 18 patients with bipolar disorder on a stable regimen of 100 to 400 mg/day of lamotrigine, the lamotrigine AUC and C max were reduced by approximately 10% in patients who received aripiprazole 10 to 30 mg/day for 7 days, followed by 30 mg/day for an additional 7 days.
+In 18 patients with bipolar disorder on a stable regimen of 100 to 400 mg/day of lamotrigine, the lamotrigine AUC and Cmax were reduced by approximately 10% in patients who received aripiprazole 10 to 30 mg/day for 7 days, followed by 30 mg/day for an additional 7 days.
 This reduction in lamotrigine exposure is not considered clinically meaningful.
 
 Atazanavir/Ritonavir
 
-In a study in healthy volunteers, daily doses of atazanavir/ritonavir (300 mg/100 mg) reduced the plasma AUC and C max of lamotrigine (single 100-mg dose) by an average of 32% and 6%, respectively, and shortened the elimination half-lives by 27%.
+In a study in healthy volunteers, daily doses of atazanavir/ritonavir (300 mg/100 mg) reduced the plasma AUC and Cmax of lamotrigine (single 100-mg dose) by an average of 32% and 6%, respectively, and shortened the elimination half-lives by 27%.
 In the presence of atazanavir/ritonavir (300 mg/100 mg), the metabolite-to-lamotrigine ratio was increased from 0.45 to 0.71 consistent with induction of glucuronidation.
 The pharmacokinetics of atazanavir/ritonavir were similar in the presence of concomitant lamotrigine to the historical data of the pharmacokinetics in the absence of lamotrigine.
 
