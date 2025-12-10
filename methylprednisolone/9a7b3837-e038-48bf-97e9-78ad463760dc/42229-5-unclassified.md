@@ -3,4 +3,4 @@
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0160-18.0 Revised August 2025
+LAB-0160-19.0 Revised September 2025

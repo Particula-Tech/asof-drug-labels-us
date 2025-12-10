@@ -66,13 +66,13 @@ Monitor for the development of infection and consider DEPO-MEDROL withdrawal or 
 
 Do not administer DEPO-MEDROL by an intraarticular, intrabursal, intratendinous or intralesional route in the presence of acute local infection.
 
-## Tuberculosis
+### Tuberculosis
 
 If DEPO-MEDROL is used to treat a condition in patients with latent tuberculosis or tuberculin reactivity, as reactivation of the disease may occur.
 Closely monitor such patients for reactivation.
 During prolonged DEPO-MEDROL therapy, patients with latent tuberculosis or tuberculin reactivity should receive chemoprophylaxis.
 
-## Varicella Zoster and Measles Viral Infections
+### Varicella Zoster and Measles Viral Infections
 
 Varicella and measles can have a serious or even fatal course in non-immune patients taking corticosteroids, including DEPO-MEDROL.
 In corticosteroid‑treated patients who have not had these diseases or are non-immune, particular care should be taken to avoid exposure to varicella and measles:
@@ -81,7 +81,7 @@ In corticosteroid‑treated patients who have not had these diseases or are non-
   If varicella develops, treatment with antiviral agents may be considered.
 - •If a DEPO-MEDROL-treated patient is exposed to measles, prophylaxis with immunoglobulin (IG) may be indicated.
 
-## Hepatitis B Virus Reactivation
+### Hepatitis B Virus Reactivation
 
 Hepatitis B virus reactivation can occur in patients who are hepatitis B carriers treated with immunosuppressive dosages of corticosteroids, including DEPO‑MEDROL.
 Reactivation can also occur infrequently in corticosteroid‑treated patients who appear to have resolved hepatitis B infection.
@@ -89,22 +89,22 @@ Reactivation can also occur infrequently in corticosteroid‑treated patients wh
 Screen patients for hepatitis B infection before initiating immunosuppressive (e.g., prolonged) treatment with DEPO-MEDROL.
 For patients who show evidence of hepatitis B infection, recommend consultation with physicians with expertise in managing hepatitis B regarding monitoring and consideration for hepatitis B antiviral therapy.
 
-## Fungal Infections
+### Fungal Infections
 
 Corticosteroids, including DEPO-MEDROL, may exacerbate systemic fungal infections; therefore, avoid DEPO-MEDROL use in the presence of such infections unless DEPO-MEDROL is needed to control drug reactions.
 For patients on chronic DEPO-MEDROL therapy who develop systemic fungal infections, DEPO-MEDROL withdrawal or dosage reduction is recommended.
 
-## Amebiasis
+### Amebiasis
 
 Corticosteroids, including DEPO-MEDROL, may activate latent amebiasis.
 Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating DEPO-MEDROL in patients who have spent time in the tropics or patients with unexplained diarrhea.
 
-## Strongyloides Infestation
+### Strongyloides Infestation
 
 Corticosteroids, including DEPO-MEDROL, should be used with great care in patients with known or suspected Strongyloides (threadworm) infestation.
 In such patients, corticosteroid-induced immunosuppression may lead to Strongyloides hyperinfection and dissemination with widespread larval migration, often accompanied by severe enterocolitis and potentially fatal gram-negative septicemia.
 
-## Cerebral Malaria
+### Cerebral Malaria
 
 Avoid corticosteroids, including DEPO-MEDROL, in patients with cerebral malaria.
 
