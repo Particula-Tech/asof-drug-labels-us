@@ -1,7 +1,7 @@
 # 3 DOSAGE FORMS AND STRENGTHS
 
-Injection: Three concentrations of norepinephrine, a clear, colorless sterile solution in 250 mL of 0.9% sodium chloride, available in the premixed, ready-to-use single dose intravenous infusion bags:
+Injection: Norepinephrine is a clear, colorless sterile solution in the premixed, ready-to-use single dose intravenous infusion bags available as:
 
-- 4 mg equivalent of norepinephrine (16 mcg/mL)
-- 8 mg equivalent of norepinephrine (32 mcg/mL)
-- 16 mg equivalent of norepinephrine (64 mcg/mL)
+- 4 mg/250 mL (16 mcg/mL) of norepinephrine in 0.9% Sodium Chloride
+- 8 mg/250 mL (32 mcg/mL) of norepinephrine in 0.9% Sodium Chloride
+- 16 mg/250 mL (64 mcg/mL) of norepinephrine in 0.9% Sodium Chloride

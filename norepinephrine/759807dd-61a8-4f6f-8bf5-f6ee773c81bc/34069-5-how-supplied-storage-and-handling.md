@@ -12,4 +12,4 @@ Supplied as:
 Store at 20°C to 25°C (68°F to 77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
 [See USP Controlled Room Temperature.]
 Protect from light.
-Once the overwrap is removed, the bag can be stored at room temperature for up to 7 days.
+Once the overwrap is removed, the bag can be stored at room temperature for up to 45 days.
