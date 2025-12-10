@@ -1,6 +1,6 @@
 # PATIENT INFORMATION
 
-Prucalopride (proo kal′ oh pride) Tablets
+Prucalopride (proo kal′ oh pride) Tablets,
 
 for oral use
 
@@ -93,8 +93,8 @@ PRUCALOPRIDE TABLETS
 | Canada M9L 1T9 | 33326 |
 
 Rev.
-2
+3
 
-Revised: August 2025
+Revised: December 2025
 
-This Patient Information has been approved by the U.S. Food and Drug Administration
+This Patient Information has been approved by the U.S. Food and Drug Administration.

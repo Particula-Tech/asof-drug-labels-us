@@ -10,7 +10,7 @@ Storage
 
 Advise patients to keep prucalopride tablets in the original container to protect from moisture.
 
-For more information go to www.apotex.com, or call 1-800-706-5575.
+For more information go to www.apotex.com or call 1-800-706-5575.
 
 Rx Only
 
@@ -27,4 +27,4 @@ PRUCALOPRIDE TABLETS
 | Canada M9L 1T9 | 33326 |
 
 Rev.
-2
+3
