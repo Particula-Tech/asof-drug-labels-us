@@ -2,8 +2,11 @@
 
 ## 2.1 Important Administration Instructions
 
-Non-substitutable Noxafil® oral suspension is not substitutable with posaconazole delayed-release tablets or Noxafil® powdermix for delayed-release oral suspension due to the differences in the dosing of each formulation.
+Non-substitutable
+
+Noxafil® oral suspension is not substitutable with posaconazole delayed-release tablets or Noxafil® powdermix for delayed-release oral suspension due to the differences in the dosing of each formulation.
 Therefore, follow the specific dosage recommendations for each of the formulations [see Dosage and Administration (2.2,2.3).
+
 Posaconazole delayed-release tablets
 
 - Swallow tablets whole.
@@ -20,18 +23,15 @@ Table 1: Dosing Regimens in Adult Patients
 | --- | --- | --- |
 | Prophylaxis of invasive Aspergillus and Candida infections | Posaconazole Delayed-Release Tablets: Loading dose: 300 mg (three 100 mg delayed-release tablets) twice a day on the first day. Maintenance dose: 300 mg (three 100 mg delayed-release tablets) once a day, starting on the second day. | Posaconazole Delayed-Release Tablets: Loading dose: 1 day Maintenance dose: Duration of therapy is based on recovery from neutropenia or immunosuppression. |
 
-## 2.3 Dosing Regimen in Pediatric Patients (ages 13 to less than 18 years of age)
+## 2.3 Dosing Regimen in Pediatric Patients (ages 2 to less than 18 years of age)
 
-The recommended dosing regimen of posaconazole for pediatric patients 13 to less than 18 years of age is shown in Table 2[see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
+The recommended dosing regimen of posaconazole for pediatric patients 2 to less than 18 years of age is shown in Table 2 [see Dosage and Administration (2.5) and Clinical Pharmacology (12.3)].
 
-Table 2: Posaconazole delayed-release tablet Dosing Regimens for Pediatric Patients (Ages 13 to less than 18 years of age)
+Table 2: Posaconazole delayed-release tablet Dosing Regimens for Pediatric Patients (Ages 2 to less than 18 years of age)
 
-| Indication | Recommended Pediatric Dosage | Duration of Therapy |
-| --- | --- | --- |
-| Prophylaxis of invasive Aspergillus and Candida infections | Posaconazole Delayed-Release Tablets: Loading dose: 300 mg twice daily on the first day. Maintenance dose: 300 mg once daily. | Duration of therapy is based on recovery from neutropenia or immunosuppression. |
-
-Additional Pediatric Use information is approved for Merck Sharp & Dohme Corp.'s NOXAFIL (posaconazole) delayed-release tablets.
-However, due to Merck Sharp & Dohme Corp.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+| Indication | Weight/Age | Recommended Pediatric Dosage | Duration of Therapy |
+| --- | --- | --- | --- |
+| Prophylaxis of invasive Aspergillus and Candida infections | Greater than 40 kg (2 to less than 18 years of age) | Posaconazole Delayed-Release Tablets: Loading dose: 300 mg twice daily on the first day. Maintenance dose: 300 mg once daily. | Duration of therapy is based on recovery from neutropenia or immunosuppression. |
 
 ## 2.5 Administration Instructions for Posaconazole Delayed-Release Tablets
 

@@ -38,12 +38,9 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 The safety and effectiveness of posaconazole delayed-release tablets for the prophylaxis of invasive Aspergillus and Candida infections have been established in pediatric patients aged 13 years and older who are at high risk of developing these infections due to being severely immunocompromised, such as HSCT recipients with GVHD or those with hematologic malignancies with prolonged neutropenia from chemotherapy.
 
-Use of posaconazole in these age groups is supported by evidence from adequate and well-controlled studies of posaconazole in adult and pediatric patients and additional pharmacokinetic and safety data in pediatric patients 13 years of age and older [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14)].
+Use of posaconazole in these age groups is supported by evidence from adequate and well-controlled studies of posaconazole in adult and pediatric patients and additional pharmacokinetic and safety data in pediatric patients 2 years of age and older [see Adverse Reactions (6.1), Clinical Pharmacology (12.3) and Clinical Studies (14)].
 
 The safety and effectiveness of posaconazole have not been established in pediatric patients younger than 2 years of age.
-
-Additional Pediatric Use information is approved for Merck Sharp & Dohme Corp.'s NOXAFIL (posaconazole) delayed-release tablets.
-However, due to Merck Sharp & Dohme Corp.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 8.5 Geriatric Use
 
@@ -68,7 +65,7 @@ Compared to subjects with normal hepatic function, the mean Cmax was 1% higher, 
 The mean apparent oral clearance (CL/F) was reduced by 18%, 36%, and 28% in subjects with mild, moderate, or severe hepatic impairment, respectively, compared to subjects with normal hepatic function.
 The elimination half-life (t½) was 27 hours, 39 hours, 27 hours, and 43 hours in subjects with normal hepatic function and mild, moderate, or severe hepatic impairment, respectively.
 
-It is recommended that no dose adjustment of posaconazole delayed-release tablet is needed in patients with mild to severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2) and Warnings and Precautions (5.4)].
+It is recommended that no dose adjustment of posaconazole delayed-release tablet is needed in patients with mild to severe hepatic impairment (Child-Pugh Class A, B, or C) [see Dosage and Administration (2) and Warnings and Precautions (5.5)].
 However, a specific study has not been conducted with posaconazole delayed-release tablets.
 
 ## 8.8 Gender

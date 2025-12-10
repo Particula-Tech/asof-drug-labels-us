@@ -4,7 +4,7 @@ The following serious and otherwise important adverse reactions are discussed in
 
 - Hypersensitivity [see Contraindications (4.1)]
 - Arrhythmias and QT Prolongation [see Warnings and Precautions (5.2)]
-- Hepatic Toxicity [see Warnings and Precautions (5.4)]
+- Hepatic Toxicity [see Warnings and Precautions (5.5)]
 
 ## 6.1 Clinical Trials Experience
 
@@ -59,9 +59,6 @@ Table 9: Posaconazole Delayed-Release Tablet Study: Adverse Reactions in at Leas
 The most frequently reported adverse reactions (>25%) with posaconazole delayed-release tablets 300 mg once daily were diarrhea, pyrexia, and nausea.
 
 The most common adverse reaction leading to discontinuation of posaconazole delayed-release tablets 300 mg once daily was nausea (2%).
-
-Additional Pediatric Use information is approved for Merck Sharp & Dohme Corp.'s NOXAFIL (posaconazole) products.
-However, due to Merck Sharp & Dohme Corp.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
 
 ## 6.2 Postmarketing Experience
 

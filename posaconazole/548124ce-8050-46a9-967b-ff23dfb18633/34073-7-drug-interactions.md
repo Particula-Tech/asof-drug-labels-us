@@ -8,8 +8,8 @@ If such drugs are necessary, patients should be monitored closely for breakthrou
 Posaconazole is also a strong inhibitor of CYP3A4.
 Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole [see Clinical Pharmacology (12.3)].
 
-The following information was derived from data with Noxafil oral suspension or early tablet formulation.
-All drug interactions with Noxafil oral suspension, except for those that affect the absorption of posaconazole (via gastric pH and motility) are considered relevant to Noxafil injection as well [see Drug Interactions (7.9) and (7.13)].
+The following information was derived from data with Noxafil®oral suspension or early tablet formulation.
+All drug interactions with Noxafil® oral suspension, except for those that affect the absorption of posaconazole (via gastric pH and motility) are considered relevant to posaconazole delayed-release tablet as well [see Drug Interactions (7.9) and (7.13)].
 
 ## 7.1 Immunosuppressants Metabolized by CYP3A4
 
@@ -45,7 +45,7 @@ Therefore, posaconazole is contraindicated with ergot alkaloids [see Contraindic
 Concomitant administration of posaconazole with midazolam increases the midazolam plasma concentrations by approximately 5-fold.
 Increased plasma midazolam concentrations could potentiate and prolong hypnotic and sedative effects.
 Concomitant use of posaconazole and other benzodiazepines metabolized by CYP3A4 (e.g., alprazolam, triazolam) could result in increased plasma concentrations of these benzodiazepines.
-Patients must be monitored closely for adverse effects associated with high plasma concentrations of benzodiazepines metabolized by CYP3A4 and benzodiazepine receptor antagonists must be available to reverse these effects [see Warnings and Precautions (5.6) and Clinical Pharmacology (12.3)].
+Patients must be monitored closely for adverse effects associated with high plasma concentrations of benzodiazepines metabolized by CYP3A4 and benzodiazepine receptor antagonists must be available to reverse these effects [see Warnings and Precautions (5.7) and Clinical Pharmacology (12.3)].
 
 ## 7.6 Anti-HIV Drugs
 
@@ -82,7 +82,7 @@ No dosage adjustment of posaconazole delayed-release tablets is required when po
 ## 7.10 Vinca Alkaloids
 
 Most of the vinca alkaloids (e.g., vincristine and vinblastine) are substrates of CYP3A4.
-Concomitant administration of azole antifungals, including posaconazole, with vincristine has been associated with serious adverse reactions [see Warnings and Precautions (5.7)].
+Concomitant administration of azole antifungals, including posaconazole, with vincristine has been associated with serious adverse reactions [see Warnings and Precautions (5.8)].
 Posaconazole may increase the plasma concentrations of vinca alkaloids which may lead to neurotoxicity and other serious adverse reactions.
 Therefore, reserve azole antifungals, including posaconazole, for patients receiving a vinca alkaloid, including vincristine, who have no alternative antifungal treatment options.
 
@@ -108,5 +108,5 @@ Although no dosage adjustment of glipizide is required, it is recommended to mon
 
 ## 7.16 Venetoclax
 
-Concomitant use of venetoclax (a CYP3A4 substrate) with posaconazole increases venetoclax Cmax and AUC0-INF, which may increase venetoclax toxicities [see Contraindications (4.6), Warnings and Precautions (5.10)].
+Concomitant use of venetoclax (a CYP3A4 substrate) with posaconazole increases venetoclax Cmax and AUC0-INF, which may increase venetoclax toxicities [see Contraindications (4.6), Warnings and Precautions (5.11)].
 Refer to the venetoclax prescribing information for more information on the dosing instructions and the extent of increase in venetoclax exposure.

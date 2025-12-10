@@ -61,7 +61,7 @@ Table 23: The Effect of Concomitant Medications that Affect the Gastric pH and G
 
 | Coadministered Drug | Administration Arms | Change in Cmax (ratio estimate*; 90% CI of the ratio estimate) | Change in AUC0-last (ratio estimate*; 90% CI of the ratio estimate) |
 | --- | --- | --- | --- |
-| Mylanta® Ultimate strength liquid (Increase in gastric pH) | 25.4 meq/5 mL, 20 mL | ↑6% (1.06; 0.90 -1.26)↑ | ↑4% (1.04; 0.90 -1.20) |
+| Mylanta® Ultimate strength liquid (Increase in gastric pH) | 25.4 mEq/5 mL, 20 mL | ↑6% (1.06; 0.90 -1.26)↑ | ↑4% (1.04; 0.90 -1.20) |
 | Ranitidine (Zantac®) (Alteration in gastric pH) | 150 mg (morning dose of 150 mg Ranitidine twice daily) | ↑4% (1.04; 0.88 -1.23)↑ | ↓3% (0.97; 0.84 -1.12) |
 | Esomeprazole (Nexium®) (Increase in gastric pH) | 40 mg (every morning for 5 days, Day -4 to 1) | ↑2% (1.02; 0.88-1.17)↑ | ↑5% (1.05; 0.89 -1.24) |
 | Metoclopramide (Reglan®) (Increase in gastric motility) | 15 mg four times daily for 2 days (Day -1 and 1) | ↓14% (0.86, 0.73,1.02) | ↓7% (0.93, 0.803,1.07) |
@@ -98,7 +98,7 @@ A clinical study in healthy volunteers also indicates that posaconazole is a str
 Therefore, plasma concentrations of drugs predominantly metabolized by CYP3A4 may be increased by posaconazole.
 A summary of the drugs studied clinically, for which plasma concentrations were affected by posaconazole, is provided in Table 28 [see Contraindications (4) and Drug Interactions (7.1) including recommendations].
 
-Table 28: Summary of the Effect of Posaconazole on Coadministered Drugs in Healthy Volunteers and Patients
+Table 28: Summary of the Effect of Posaconazole on Coadministered Drugs in Healthy Adult Volunteers and Patients
 
 | Coadministered Drug (Postulated Mechanism of Interaction is Inhibition of CYP3A4 by posaconazole) | Coadministered Drug Dose/Schedule | Posaconazole Dose/ Schedule | Effect on Bioavailability of Coadministered Drugs |  |
 | --- | --- | --- | --- | --- |
@@ -144,12 +144,9 @@ Patients administered posaconazole weighing more than 120 kg may be at higher ri
 
 Pediatric Patients
 
-A total of 12 patients 13 to 17 years of age received 600 mg/day (200 mg three times a day) of Noxafil oral suspension for prophylaxis of invasive fungal infections.
+A total of 12 patients 13 to 17 years of age received 600 mg/day (200 mg three times a day) of Noxafil® oral suspension for prophylaxis of invasive fungal infections.
 Based on pharmacokinetic data in 10 of these pediatric patients, the mean steady-state Cav was similar between these patients and adults (≥18 years of age).
-In a study of 136 neutropenic pediatric patients 11 months to less than 18 years treated with Noxafil oral suspension, the exposure target of steady-state posaconazole Cavg between 500 ng/mL and less than 2,500 ng/mL was attained in approximately 50% of patients instead of the pre-specified 90% of patients.
-
-Additional Pediatric Use information is approved for Merck Sharp & Dohme Corp.'s NOXAFIL (posaconazole) delayed-release tablets.
-However, due to Merck Sharp & Dohme Corp.'s marketing exclusivity rights, this drug product is not labeled with that pediatric information.
+In a study of 136 neutropenic pediatric patients 11 months to less than 18 years treated with Noxafil® oral suspension, the exposure target of steady-state posaconazole Cavg between 500 ng/mL and less than 2,500 ng/mL was attained in approximately 50% of patients instead of the pre-specified 90% of patients.
 
 ## 12.4 Microbiology
 
