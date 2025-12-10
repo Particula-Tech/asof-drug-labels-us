@@ -1,4 +1,19 @@
+# 1 INDICATIONS AND USAGE
+
+AKTEN is indicated for ocular surface anesthesia during ophthalmologic procedures in adults and pediatric patients.
+
+# 2 DOSAGE AND ADMINISTRATION
+
+The recommended dose of AKTEN is 2 drops applied to the ocular surface in the area of the planned procedure.
+AKTEN may be reapplied to maintain anesthetic effect.
+
+# 3 DOSAGE FORMS AND STRENGTHS
+
+Ophthalmic Gel: 3.5% lidocaine hydrochloride in single-patient use tubes.
+
 # 5 WARNINGS AND PRECAUTIONS
+
+.
 
 ## 5.1 For Topical Ophthalmic Use
 
@@ -15,4 +30,9 @@ Prolonged use of a topical ocular anesthetic may produce permanent corneal opaci
 ## 5.4 For Administration by Healthcare Provider
 
 AKTEN is indicated for administration under the direct supervision of a healthcare provider.
+
 AKTEN is not intended for patient self-administration.
+
+# 6 ADVERSE REACTIONS
+
+Most common adverse reactions are conjunctival hyperemia, corneal epithelial changes, headache, and burning upon instillation.

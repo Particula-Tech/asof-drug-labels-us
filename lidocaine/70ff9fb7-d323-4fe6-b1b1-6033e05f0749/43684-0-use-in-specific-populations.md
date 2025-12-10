@@ -1,5 +1,7 @@
 # 8 USE IN SPECIFIC POPULATIONS
 
+.
+
 ## 8.1 Pregnancy
 
 Risk Summary
@@ -13,9 +15,7 @@ In the U.S. general population, the estimated background risk of major birth def
 
 ## 8.2 Lactation
 
-Risk Summary
-
-Lidocaine is secreted in human milk.
+Risk Summary Lidocaine is secreted in human milk.
 The clinical significance of this observation is unknown.
 Caution should be exercised when AKTEN is administered to a nursing woman.
 
