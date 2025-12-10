@@ -250,7 +250,7 @@ Patients may have reported multiple adverse reactions during the trial; thus, pa
 | Exacerbation of cough | 5 | 3 |
 | Pharyngitis | 5 | 4 |
 | Skin |  |  |
-| Rash (nonserious) In the overall bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received lamotrigine as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received lamotrigine as adjunctive therapy [see Warnings and Precautions (5.1)]. | 7 | 5 |
+| Rash (nonserious) In the overall bipolar and other mood disorders clinical trials, the rate of serious rash was 0.08% (1 of 1,233) of adult patients who received lamotrigine as initial monotherapy and 0.13% (2 of 1,538) of adult patients who received lamotrigine as adjunctive therapy [see Warnings and Precautions (5.1). | 7 | 5 |
 
 Other reactions that occurred in 5% or more patients but equally or more frequently in the placebo group included: dizziness, mania, headache, infection, influenza, pain, accidental injury, diarrhea, and dyspepsia.
 
@@ -345,3 +345,5 @@ Nervous System:Aggression, exacerbation of Parkinsonian symptoms in patients wit
 Non-site Specific:Progressive immunosuppression.
 
 Renal and Urinary Disorders:Tubulointerstitial nephritis (has been reported alone and in association with uveitis).
+
+Skin and Subcutaneous Tissue Disorders Photosensitivity reaction.

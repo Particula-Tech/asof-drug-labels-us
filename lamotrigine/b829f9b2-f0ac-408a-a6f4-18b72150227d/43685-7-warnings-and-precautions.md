@@ -6,7 +6,7 @@
 
 Pediatric Population:The incidence of serious rash associated with hospitalization and discontinuation of lamotrigine in a prospectively followed cohort of pediatric patients (aged 2 to 17 years) is approximately 0.3% to 0.8%.
 One rash-related death was reported in a prospectively followed cohort of 1,983 pediatric patients (aged 2 to 16 years) with epilepsy taking lamotrigine as adjunctive therapy.
-Additionally, there have been rare cases of toxic epidermal necrolysis with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
+Additionally, there have been rare cases of toxic epidermal necrolysis (TEN) with and without permanent sequelae and/or death in U.S. and foreign postmarketing experience.
 
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in pediatric patients.
 In pediatric patients who used valproate concomitantly for epilepsy, 1.2% (6 of 482) experienced a serious rash compared with 0.6% (6 of 952) patients not taking valproate.
@@ -18,10 +18,27 @@ However, in worldwide postmarketing experience, rare cases of rash-related death
 
 Among the rashes leading to hospitalization were Stevens-Johnson syndrome, toxic epidermal necrolysis, angioedema, and those associated with multiorgan hypersensitivity [see Warnings and Precautions (5.3)].
 
+Risk Factors
+
+Concomitant Use of Valporate
+
 There is evidence that the inclusion of valproate in a multidrug regimen increases the risk of serious, potentially life-threatening rash in adults.
 Specifically, of 584 patients administered lamotrigine with valproate in epilepsy clinical trials, 6 (1%) were hospitalized in association with rash; in contrast, 4 (0.16%) of 2,398 clinical trial patients and volunteers administered lamotrigine in the absence of valproate were hospitalized.
 
-Patients with History of Allergy or Rash to Other Antiepileptic Drugs:The risk of nonserious rash may be increased when the recommended initial dose and/or the rate of dose escalation for lamotrigine is exceeded and in patients with a history of allergy or rash to other AEDs.
+Patients with History of Allergy or Rash to Other Antiepileptic Drugs
+
+The risk of rash may be increased in patients with a history of allergy or rash to other AEDs.
+
+Not Adhering to the Recommended Dosage
+
+The risk of rash is increased by both exceeding the recommended initial dose of lamotrigine and exceeding the recommended dose escalation for lamotrigine.
+
+Patients with Genetic Variant Human Leukocyte Antigen (HLA)-B*1502 Allele
+
+Retrospective case-control studies in patients of certain Asian ancestry (e.g., Han Chinese and Thai) suggest that the HLA-B*1502 allele is associated with an increased risk (approximately 2-3 times higher) of developing Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) in patients using lamotrigine.
+The risks and benefits of therapy should be weighed when considering use of lamotrigine in patients known to be positive for HLA-B*1502.
+Application of HLA genotyping as a screening tool has important limitations and must never substitute for appropriate clinical vigilance and patient management.
+Many HLA‑B*1502‑positive patients treated with lamotrigine will not develop SJS/TEN or other hypersensitivity reactions, and these reactions can still occur in HLA‑B*1502‑negative patients of any ethnicity.
 
 ## 5.2 Hemophagocytic Lymphohistiocytosis
 
@@ -129,7 +146,7 @@ To reduce the potential of medication errors, write and say lamotrigine clearly.
 Depictions of the lamotrigine tablets can be found in the Medication Guide that accompanies the product to highlight the distinctive markings, colors, and shapes that serve to identify the different presentations of the drug and thus may help reduce the risk of medication errors.
 To avoid the medication error of using the wrong drug or formulation, patients should be strongly advised to visually inspect their tablets to verify that they are lamotrigine, as well as the correct formulation of lamotrigine, each time they fill their prescription.
 
-## 5.9 Concomitant Use with Estrogen Containing Products, Including Oral Contraceptives
+## 5.9 Concomitant Use with Estrogen-Containing Products, Including Oral Contraceptives
 
 Some estrogen-containing oral contraceptives have been shown to decrease serum concentrations of lamotrigine [see Clinical Pharmacology (12.3)].
 Dosage adjustments will be necessary in most patients who start or stop estrogen-containing oral contraceptives while taking lamotrigine [see Dosage and Administration (2.1)].
