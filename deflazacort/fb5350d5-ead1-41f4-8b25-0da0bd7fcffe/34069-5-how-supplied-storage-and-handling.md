@@ -2,22 +2,22 @@
 
 ## 16.1 How Supplied
 
-- Deflazacort Tablets, 6 mg are white to off-white round tablet with “C1” debossed on one side.
+- Deflazacort Tablets, 6 mgare white to off-white round tablet with “ C1” debossed on one side.
   They are supplied as follows:
 
 NDC 70095-040-01 Bottle of 100 tablets (with child-resistant closure)
 
-- Deflazacort Tablets, 18 mg are white to off-white round tablet with “C2” debossed on one side.
+- Deflazacort Tablets, 18 mgare white to off-white round tablet with “ C2” debossed on one side.
   They are supplied as follows:
 
 NDC 70095-041-30 Bottle of 30 tablets (with child-resistant closure)
 
-- Deflazacort Tablets, 30 mg are white to off-white oval tablet with “C3” debossed on one side.
+- Deflazacort Tablets, 30 mgare white to off-white oval tablet with “ C3” debossed on one side.
   They are supplied as follows:
 
 NDC 70095-042-30 Bottle of 30 tablets (with child-resistant closure)
 
-- Deflazacort Tablets, 36 mg are white to off-white oval tablet with “C4” debossed on one side.
+- Deflazacort Tablets, 36 mgare white to off-white oval tablet with “ C4” debossed on one side.
   They are supplied as follows:
 
 NDC 70095-043-30 Bottle of 30 tablets (with child-resistant closure)

@@ -2,7 +2,7 @@
 
 The active ingredient in deflazacort tablets is deflazacort (a corticosteroid).
 Corticosteroids are adrenocortical steroids, both naturally occurring and synthetic.
-The molecular formula for deflazacort is C25H31NO6.
+The molecular formula for deflazacort is C 25H 31NO 6.
 The chemical name for deflazacort is 16α,17-isoxazole-11β,21-dihydroxypregna-1,4-diene-3,20-dione 21acetate, and the structure is:
 
 Deflazacort is a white or almost white crystalline powder and has a molecular weight of 441.52.

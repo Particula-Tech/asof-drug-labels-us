@@ -11,7 +11,7 @@ In a 6-month carcinogenicity study in transgenic (Tg.RasH2) mice, oral administr
 
 Mutagenesis
 
-Deflazacort and 21-desDFZ were negative in in vitro (bacterial reverse mutation and human lymphocyte chromosomal aberration) assays and deflazacort was negative in an in vivo (rat micronucleus) assay.
+Deflazacort and 21-desDFZ were negative in in vitro(bacterial reverse mutation and human lymphocyte chromosomal aberration) assays and deflazacort was negative in an in vivo(rat micronucleus) assay.
 
 Impairment of Fertility
 

@@ -120,8 +120,7 @@ Avoid corticosteroids if there is a probability of impending perforation, absces
 
 ## 5.5 Behavioral and Mood Disturbances
 
-Potentially severe psychiatric adverse reactions may occur with systemic corticosteroids, including deflazacort.
-Symptoms typically emerge within a few days or weeks of starting treatment and may be dose-related.
+Potentially severe psychiatric adverse reactions may occur with systemic corticosteroids, including deflazacort.Symptoms typically emerge within a few days or weeks of starting treatment and may be dose-related.
 These reactions may improve after either dose reduction or withdrawal, although pharmacologic treatment may be necessary.
 Psychiatric adverse reactions usually involve hypomanic or manic symptoms (e.g., euphoria, insomnia, mood swings) during treatment and depressive episodes after discontinuation of treatment.
 Inform patients or caregivers of the potential for behavioral and mood changes and encourage them to seek medical attention if psychiatric symptoms develop, especially if depressed mood or suicidal ideation is suspected.

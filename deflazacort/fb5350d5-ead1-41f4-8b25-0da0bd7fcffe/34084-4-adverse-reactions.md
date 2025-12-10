@@ -21,15 +21,15 @@ The following serious adverse reactions are discussed in more detail in other se
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-In Study 1 [see Clinical Studies (14)], the adverse reactions that were associated with deflazacort treatment discontinuation, in decreasing order of frequency, were weight increased, obesity, cataract, and sleep disorder.
+In Study 1 [see Clinical Studies (14)],the adverse reactions that were associated with deflazacort treatment discontinuation, in decreasing order of frequency, were weight increased, obesity, cataract, and sleep disorder.
 
 Most Common Adverse Reactions in Clinical Studies
 
 Table 1 lists the adverse reactions that occurred in ≥ 5% of patients in the 0.9 mg/kg/day deflazacort-treated group and that occurred more frequently than in placebo patients in Study 1, which included patients with DMD between the ages of 5 and 15 years.
 
-Table 1: Adverse Reactions that Occurred in ≥ 5% of Deflazacort-Treated Patients and Occurred More Frequently than in Placebo Patients with DMD (Study 1)
+Table 1:Adverse Reactions that Occurred in ≥ 5% of Deflazacort-Treated Patients and Occurred More Frequently than in Placebo Patients with DMD (Study 1)
 
-| Adverse Reaction | Deflazacort 0.9 mg/kg/d(N = 51)% at 12 weeks | Placebo (N = 50)% at 12 weeks1 |
+| Adverse Reaction | Deflazacort0.9 mg/kg/d(N = 51)% at 12 weeks | Placebo(N = 50)% at 12 weeks 1 |
 | --- | --- | --- |
 | Cushingoid appearance | 33 | 12 |
 | Weight increased | 20 | 6 |
@@ -45,7 +45,7 @@ Table 1: Adverse Reactions that Occurred in ≥ 5% of Deflazacort-Treated Patien
 | Rhinorrhea | 8 | 0 |
 | Abdominal discomfort | 6 | 2 |
 
-[1] At 12 weeks placebo patients were re-randomized to receive either deflazacort or an active comparator.
+[1]At 12 weeks placebo patients were re-randomized to receive either deflazacort or an active comparator.
 
 Common adverse reactions (≥ 5% of deflazacort-treated patients) that occurred over 52 weeks of exposure to deflazacort 0.9 mg/kg/day in Study 1 and at a higher rate than deflazacort 0.9 mg/kg/day in the 12-week placebo-controlled phase of the trial include Cushingoid appearance (60%), hirsutism (35%), weight increased (28%), erythema (28%), central obesity (25%), abdominal pain/abdominal pain upper (18% combined), pollakiuria (15%), constipation (10%), irritability (10%), abnormal behavior (9%), pyrexia (9%), back pain (7%), rash (7%), contusion (6%), nausea (6%), psychomotor hyperactivity (6%), epistaxis (6%), and skin striae (6%).
 
@@ -60,59 +60,59 @@ Less Common Adverse Reactions Observed in Clinical Studies
 
 Other adverse reactions (≥ 1% frequency in any deflazacort treatment group and greater than placebo) that were observed during the 12-week placebo-controlled phase of Study 1 are shown below.
 
-Eye Disorders: Lacrimation increased
+Eye Disorders:Lacrimation increased
 
-Gastrointestinal Disorders: Dyspepsia, nausea, gastrointestinal disorder
+Gastrointestinal Disorders:Dyspepsia, nausea, gastrointestinal disorder
 
-General Disorders and Administration Site Conditions: Thirst
+General Disorders and Administration Site Conditions:Thirst
 
-Infections: Hordeolum, impetigo, influenza, otitis externa, pharyngitis, tooth abscess, urinary tract infection, viral infection
+Infections:Hordeolum, impetigo, influenza, otitis externa, pharyngitis, tooth abscess, urinary tract infection, viral infection
 
-Injury, Poisoning and Procedural Complications: Back injury, contusion, face injury, fibula fracture, greenstick fracture, heat exhaustion
+Injury, Poisoning and Procedural Complications:Back injury, contusion, face injury, fibula fracture, greenstick fracture, heat exhaustion
 
-Investigations: Glucose urine present, heart rate irregular
+Investigations:Glucose urine present, heart rate irregular
 
-Musculoskeletal and Connective Tissue Disorders: Back pain, muscle spasms, myalgia, neck mass, neck pain, pain in extremity
+Musculoskeletal and Connective Tissue Disorders:Back pain, muscle spasms, myalgia, neck mass, neck pain, pain in extremity
 
-Nervous System Disorders: Dizziness, psychomotor hyperactivity
+Nervous System Disorders:Dizziness, psychomotor hyperactivity
 
-Psychiatric Disorders: Affect lability, aggression, depression, emotional disorder, middle insomnia, mood altered, mood swings, sleep disorder
+Psychiatric Disorders:Affect lability, aggression, depression, emotional disorder, middle insomnia, mood altered, mood swings, sleep disorder
 
-Renal and Urinary Disorders: Chromaturia, dysuria, hypertonic bladder
+Renal and Urinary Disorders:Chromaturia, dysuria, hypertonic bladder
 
-Reproductive System and Breast Disorders: Testicular pain
+Reproductive System and Breast Disorders:Testicular pain
 
-Respiratory, Thoracic, and Mediastinal Disorders: Hypoventilation, rhinorrhea
+Respiratory, Thoracic, and Mediastinal Disorders:Hypoventilation, rhinorrhea
 
-Skin and Subcutaneous Tissue Disorders: Acne, alopecia, dermatitis acneiform
+Skin and Subcutaneous Tissue Disorders:Acne, alopecia, dermatitis acneiform
 
-Vascular Disorders: Hot flush
+Vascular Disorders:Hot flush
 
 ## 6.2 Postmarketing Experience
 
 The following adverse reactions have been reported during post-approval use of deflazacort worldwide or during post-approval use of other corticosteroids.
 These reactions are reported voluntarily from a population of uncertain size; therefore, it is not always possible to estimate their frequency or establish a causal relationship to drug exposure.
 
-Blood and Lymphatic System Disorders: Leukocytosis
+Blood and Lymphatic System Disorders:Leukocytosis
 
-Cardiac Disorder: Heart failure
+Cardiac Disorder:Heart failure
 
-Eye Disorders: Chorioretinopathy, corneal or scleral thinning
+Eye Disorders:Chorioretinopathy, corneal or scleral thinning
 
-Gastrointestinal Disorders: Acute pancreatitis (especially in children), hemorrhage, peptic ulceration, perforation of peptic ulcer
+Gastrointestinal Disorders:Acute pancreatitis (especially in children), hemorrhage, peptic ulceration, perforation of peptic ulcer
 
-General Disorders and Administration Site Conditions: Edema, impaired healing
+General Disorders and Administration Site Conditions:Edema, impaired healing
 
-Immune System Disorders: Hypersensitivity including anaphylaxis
+Immune System Disorders:Hypersensitivity including anaphylaxis
 
-Metabolism and Nutrition Disorders: Impaired carbohydrate tolerance with increased requirement for anti-diabetic therapy, negative protein and calcium balance, potassium loss and hypokalemic alkalosis when co-administered with beta 2-agonist and xanthines
+Metabolism and Nutrition Disorders:Impaired carbohydrate tolerance with increased requirement for anti-diabetic therapy, negative protein and calcium balance, potassium loss and hypokalemic alkalosis when co-administered with beta 2-agonist and xanthines
 
-Musculoskeletal and Connective Tissue Disorders: Avascular necrosis, muscle wasting, negative nitrogen balance, tendonitis and tendon rupture when co-administered with quinolones, vertebral and long bone fractures
+Musculoskeletal and Connective Tissue Disorders:Avascular necrosis, muscle wasting, negative nitrogen balance, tendonitis and tendon rupture when co-administered with quinolones, vertebral and long bone fractures
 
-Nervous System Disorders: Aggravation of epilepsy, increased intra-cranial pressure with papilledema in children (pseudotumor cerebri) usually after treatment withdrawal, vertigo
+Nervous System Disorders:Aggravation of epilepsy, increased intra-cranial pressure with papilledema in children (pseudotumor cerebri) usually after treatment withdrawal, vertigo
 
-Psychiatric Disorders: Anxiety, cognitive dysfunction including confusion and amnesia, delusions, hallucinations, mania, suicidal thoughts
+Psychiatric Disorders:Anxiety, cognitive dysfunction including confusion and amnesia, delusions, hallucinations, mania, suicidal thoughts
 
-Skin and Subcutaneous Tissue Disorders: Toxic epidermal necrolysis
+Skin and Subcutaneous Tissue Disorders:Toxic epidermal necrolysis
 
-Vascular Disorders: Thromboembolism, in particular in patients with underlying conditions associated with increased thrombotic tendency, benign intracranial hypertension
+Vascular Disorders:Thromboembolism, in particular in patients with underlying conditions associated with increased thrombotic tendency, benign intracranial hypertension

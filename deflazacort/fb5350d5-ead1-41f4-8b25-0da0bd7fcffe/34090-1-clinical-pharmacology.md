@@ -9,9 +9,9 @@ The precise mechanism by which deflazacort exerts its therapeutic effects in pat
 
 Absorption
 
-After oral administration in the fasted state, the median Tmax with deflazacort tablets is about 1 hour (range 0.25 to 2 hours).
+After oral administration in the fasted state, the median T maxwith deflazacort tablets is about 1 hour (range 0.25 to 2 hours).
 
-Food Effect: Co-administration of deflazacort tablets with a high-fat meal reduced Cmax by about 30% and delayed Tmax by one hour, relative to administration under fasting conditions, but there was no effect on the overall systemic absorption as measured by AUC.
+Food Effect:Co-administration of deflazacort tablets with a high-fat meal reduced C maxby about 30% and delayed T maxby one hour, relative to administration under fasting conditions, but there was no effect on the overall systemic absorption as measured by AUC.
 The bioavailability of deflazacort tablets was similar to that of the oral suspension.
 The administration of deflazacort with food or crushed in applesauce did not affect the absorption and bioavailability of deflazacort.
 
@@ -35,8 +35,8 @@ Specific Populations
 
 Pediatric Patients
 
-The Cmax values (Geometric mean, %CV) of 21-desDFZ in children (ages 4 to 11, N = 16) and adolescents (ages 12 to 16, N = 8) was 206 ng/mL (95.6%) and 381 ng/mL (37.7%), respectively, on Day 1 after administration of 0.9 mg/kg deflazacort.
-The AUCinf (Geometric mean, %CV) of 21-desDFZ in children (ages 4 to 11, N = 16) and adolescents (ages 12 to 16, N = 8) was 400 ng•h/mL (87.5%) and 655 ng•h/mL (58.1%) on Day 1 after administration of 0.9 mg/kg deflazacort.
+The C maxvalues (Geometric mean, %CV) of 21-desDFZ in children (ages 4 to 11, N = 16) and adolescents (ages 12 to 16, N = 8) was 206 ng/mL (95.6%) and 381 ng/mL (37.7%), respectively, on Day 1 after administration of 0.9 mg/kg deflazacort.
+The AUC inf(Geometric mean, %CV) of 21-desDFZ in children (ages 4 to 11, N = 16) and adolescents (ages 12 to 16, N = 8) was 400 ng •h/mL (87.5%) and 655 ng •h/mL (58.1%) on Day 1 after administration of 0.9 mg/kg deflazacort.
 
 Male and Female Patients
 
@@ -59,11 +59,11 @@ Drug Interaction Studies
 
 In Vivo Assessment of Drug Interactions
 
-Compared to administration of deflazacort alone, administration of deflazacort following multiple doses of a strong CYP3A4 and Pgp inhibitor (clarithromycin) resulted in markedly higher Cmax, AUClast, and AUCinf values of 21-desDFZ.
-Geometric mean exposure (Cmax, AUClast, and AUCinf) of 21-desDFZ ranged from 2.3-fold to 3.4-fold higher following administration of clarithromycin [see Dosage and Administration (2.5)].
+Compared to administration of deflazacort alone, administration of deflazacort following multiple doses of a strong CYP3A4 and Pgp inhibitor (clarithromycin) resulted in markedly higher C max, AUC last, and AUC infvalues of 21-desDFZ.
+Geometric mean exposure (C max, AUC last, and AUC inf) of 21-desDFZ ranged from 2.3-fold to 3.4-fold higher following administration of clarithromycin [see Dosage and Administration (2.5)].
 
-Compared to administration of deflazacort alone, administration of deflazacort following multiple doses of a strong CYP3A4 inducer (rifampicin) resulted in markedly lower Cmax, AUClast, and AUCinf values of 21-desDFZ.
-Geometric mean exposures (Cmax, AUClast, and AUCinf) of 21-desDFZ were approximately 95% lower following administration of rifampin [see Drug Interactions (7.1)].
+Compared to administration of deflazacort alone, administration of deflazacort following multiple doses of a strong CYP3A4 inducer (rifampicin) resulted in markedly lower C max, AUC last, and AUC infvalues of 21-desDFZ.
+Geometric mean exposures (C max, AUC last, and AUC inf) of 21-desDFZ were approximately 95% lower following administration of rifampin [see Drug Interactions (7.1)].
 
 6β-Hydroxy-21-desacetyl deflazacort, a secondary and inactive metabolite, is not expected to cause any clinically meaningful interactions with the CYP enzymes or transporters.
 

@@ -11,8 +11,7 @@ There are no adequate and well-controlled studies with deflazacort in pregnant w
 Corticosteroids, including deflazacort, readily cross the placenta.
 Adverse developmental outcomes, including orofacial clefts (cleft lip, with or without cleft palate) and intrauterine growth restriction, and decreased birth weight, have been reported with maternal use of corticosteroids, including deflazacort, during pregnancy.
 Some epidemiologic studies report an increased risk of orofacial clefts from about 1 per 1,000 infants to 3 to 5 per 1,000 infants; however, a risk for orofacial clefts has not been observed in all studies.
-Intrauterine growth restriction and decreased birth weight appear to be dose-related; however, the underlying maternal condition may also contribute to these risks (see Data).
-The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
+Intrauterine growth restriction and decreased birth weight appear to be dose-related; however, the underlying maternal condition may also contribute to these risks (see Data).The estimated background risk of major birth defects and miscarriage for the indicated populations is unknown.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2 to 4% and 15 to 20%, respectively.
 
 Animal reproduction studies have not been conducted with deflazacort.
@@ -48,7 +47,7 @@ A no-effect dose was not identified.
 In addition, neurological and neurobehavioral abnormalities were observed at the mid and/or high dose.
 Plasma 21-desDFZ exposure (AUC) at the lowest dose tested (0.1 mg/kg/day) was lower than that in humans at the recommended human dose of deflazacort (0.9 mg/kg/day).
 
-Additional pediatric use information is approved for PTC Therapeutics, Inc.'s EmflazaTM (deflazacort) tablets.
+Additional pediatric use information is approved for PTC Therapeutics, Inc.'s Emflaza TM(deflazacort) tablets.
 However, due to PTC Therapeutics, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
