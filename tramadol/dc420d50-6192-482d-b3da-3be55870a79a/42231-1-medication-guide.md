@@ -90,8 +90,6 @@ Call your healthcare provider for medical advice about side effects.
 You may report side effects to FDA at 1-800-FDA-1088.
 For more information go to dailymed.nlm.nih.gov or call 1-800-818-4555
 
-Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
 Distributed by:
@@ -109,4 +107,4 @@ Halol-Baroda Highway,
 Halol-389 350, Gujarat, India.
 
 Revised.
-11/2025
+12/2025

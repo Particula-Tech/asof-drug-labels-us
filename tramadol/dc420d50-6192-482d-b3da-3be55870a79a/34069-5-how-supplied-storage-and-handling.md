@@ -39,5 +39,3 @@ Dispense in a tight, light resistant container.
 Warning: keep out of reach of children.
 
 Store tramadol hydrochloride extended-release tablets securely and dispose of properly [see PRECAUTIONS/ Information for Patients].
-
-Dispense with Medication Guide available at: https://www.sunpharma.com/usa/products

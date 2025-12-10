@@ -19,10 +19,6 @@ Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
 Reserve concomitant prescribing of tramadol hydrochloride extended-release tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see Warnings, Precautions; Drug Interactions].
 
-Advise both patients and caregivers about the risks of respiratory depression and sedation when tramadol hydrochloride extended-release tablets are used with benzodiazepines or other CNS depressants (including alcohol and illicit drugs).
-Advise patients not to drive or operate heavy machinery until the effects of concomitant use of the benzodiazepine or other CNS depressant have been determined.
-Screen patients for risk of substance use disorders, including opioid abuse and misuse, and warn them of the risk for overdose and death associated with the use of additional CNS depressants including alcohol and illicit drugs [see PRECAUTIONS; Information for Patients, Drug Interactions].
-
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
 Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
