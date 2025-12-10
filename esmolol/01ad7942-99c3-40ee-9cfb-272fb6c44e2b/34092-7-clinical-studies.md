@@ -2,7 +2,7 @@
 
 Supraventricular Tachycardia
 
-esmolol hydrochloride in sodium chloride injection were found to be more effective than placebo and about as effective as propranolol, 3 to 6 mg given by bolus injections, in the treatment of supraventricular tachycardia, principally atrial fibrillation and atrial flutter.
+In two multicenter, randomized, double-blind, controlled comparisons of esmolol hydrochloride in sodium chloride injection with placebo and propranolol, maintenance doses of 50 to 300 mcg/kg/min of esmolol hydrochloride in sodium chloride injection were found to be more effective than placebo and about as effective as propranolol, 3 to 6 mg given by bolus injections, in the treatment of supraventricular tachycardia, principally atrial fibrillation and atrial flutter.
 The majority of these patients developed their arrhythmias postoperatively.
 About 60 to 70% of the patients treated with esmolol hydrochloride in sodium chloride injection developed either a 20% reduction in heart rate, a decrease in heart rate to less than 100 bpm, or, rarely, conversion to normal sinus rhythm and about 95% of these patients did so at a dosage of 200 mcg/kg/min or less.
 The average effective dosage of esmolol hydrochloride in sodium chloride injection was approximately 100 mcg/kg/min in the two studies.

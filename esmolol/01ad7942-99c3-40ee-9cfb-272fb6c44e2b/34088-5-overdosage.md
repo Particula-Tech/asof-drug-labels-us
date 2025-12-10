@@ -12,26 +12,18 @@ Continuous monitoring of the patient is required.
 
 ## 10.2 Treatment Recommendations
 
-Because of its approximately 9-minute elimination half-life, the first step in the management of toxicity should be to discontinue the esmolol hydrochloride in sodium chloride injection infusion.
+Because of its approximately 9-minute elimination half-life, the first step in the management of toxicity should be to discontinue the esmolol hydrochloride in sodium chloride infusion.
 Then, based on the observed clinical effects, consider the following general measures.
 
-Bradycardia:
+Bradycardia Consider intravenous administration of atropine or another anticholinergic drug or cardiac pacing.
 
-Consider intravenous administration of atropine or another anticholinergic drug or cardiac pacing.
-
-Cardiac Failure
-
-Consider intravenous administration of a diuretic or digitalis glycoside.
+Cardiac Failure Consider intravenous administration of a diuretic or digitalis glycoside.
 In shock resulting from inadequate cardiac contractility, consider intravenous administration of dopamine, dobutamine, isoproterenol, or inamrinone.
 Glucagon has been reported to be useful.
 
-Symptomatic hypotension
+Symptomatic hypotension Consider intravenous administration of fluids or vasopressor agents such as dopamine or norepinephrine.
 
-Consider intravenous administration of fluids or vasopressor agents such as dopamine or norepinephrine.
-
-Bronchospasm
-
-Consider intravenous administration of a beta2 stimulating agent or a theophylline derivative.
+Bronchospasm Consider intravenous administration of a beta2 stimulating agent or a theophylline derivative.
 
 ## 10.3 Dilution Errors
 

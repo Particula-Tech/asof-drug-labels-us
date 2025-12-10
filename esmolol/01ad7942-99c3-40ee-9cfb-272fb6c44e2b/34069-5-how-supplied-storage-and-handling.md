@@ -21,6 +21,9 @@ Avoid excessive heat.
 Each bag contains no preservative.
 Once drug has been withdrawn from ready-to-use bag, the bag should be used within 24 hours, with any unused portion discarded.
 
+Visually inspect the container.
+If the administration port protector is damaged, detached, or not present, discard container as solution path sterility may be impaired.
+
 Do not use plastic containers in series connections.
 Such use could result in an embolism due to residual air being drawn from the primary container before administration of the fluid from the secondary container is completed.
 
@@ -39,12 +42,8 @@ Do not use unless the solution is clear (colorless to light yellow) and the seal
 
 Preparation for intravenous administration:
 
-Use aseptic technique.
-
-Suspend premixed bag from eyelet support.
-
-Remove plastic protector from delivery port at bottom of bag.
-
-Attach administration set.
-
-Refer to complete directions accompanying set.
+- •Use aseptic technique.
+- •Suspend premixed bag from eyelet support.
+- •Remove plastic protector from delivery port at bottom of bag.
+- •Attach administration set.
+- •Refer to complete directions accompanying set.
