@@ -1,4 +1,4 @@
-# WARNING: DIFFERENTIATION SYNDROME, CARDIAC CONDUCTION ABNORMALITIES AND ENCEPHALOPATHY INCLUDING WERNICKES
+# BOXED WARNING
 
 Differentiation Syndrome: Patients with acute promyelocytic leukemia (APL) treated with arsenic trioxide injection have experienced differentiation syndrome, which may be life-threatening or fatal.
 Signs and symptoms may include unexplained fever, dyspnea, hypoxia, acute respiratory distress, pulmonary infiltrates, pleural or pericardial effusions, weight gain, peripheral edema, hypotension, renal insufficiency, hepatopathy, and multi-organ dysfunction, in the presence or absence of leukocytosis.

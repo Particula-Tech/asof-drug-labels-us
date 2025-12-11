@@ -49,8 +49,6 @@ Manufactured for:
 
 Ingenus Pharmaceuticals, LLC
 
-Orlando, FL 32839-6408
+Orlando, FL 32811-7193
 
 Made in Switzerland
-
-Revised: 11/2021
