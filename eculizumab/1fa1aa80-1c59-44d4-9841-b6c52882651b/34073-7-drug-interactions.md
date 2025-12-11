@@ -1,8 +1,8 @@
 # 7 DRUG INTERACTIONS
 
-## 7.1 Plasmapheresis, Plasma Exchange, or Fresh Frozen Plasma Infusion
+## 7.1 Plasmapheresis, Plasma Exchange, Fresh Frozen Plasma Infusion or IVIg
 
-Concomitant use of eculizumab products with plasma exchange (PE), plasmapheresis (PP) or fresh frozen plasma infusion (PE/PI) treatment can reduce serum eculizumab product concentrations and requires a supplemental dose of EPYSQLI [see Dosage and Administration (2.5)].
+Concomitant use of eculizumab products with plasma exchange (PE), plasmapheresis (PP), fresh frozen plasma infusion (PE/PI), or in patients with gMG on concomitant IVIg treatment can reduce serum eculizumab product concentrations and requires a supplemental dose of EPYSQLI [see Dosage and Administration (2.5)].
 
 ## 7.2 Neonatal Fc Receptor Blockers
 

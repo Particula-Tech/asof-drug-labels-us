@@ -28,7 +28,7 @@ All patients received the recommended eculizumab dose regimen.
 
 Table 4 summarizes the adverse reactions that occurred at a numerically higher rate in the eculizumab group than the placebo group and at a rate of 5% or more among patients treated with eculizumab.
 
-Table 4: Adverse Reactions Reported in 5% or More of Eculizumab Treated Patients with PNH and Greater than Placebo in the Controlled Clinical Study
+Table 5: Adverse Reactions Reported in 5% or More of Eculizumab Treated Patients with PNH and Greater than Placebo in the Controlled Clinical Study
 
 | N (%) | N (%) |  |
 | --- | --- | --- |
@@ -63,9 +63,9 @@ The safety of eculizumab therapy in patients with aHUS was evaluated in four pro
 The data described below were derived from 78 adult and adolescent patients with aHUS in Studies C08-002A/B, C08-003A/B and C10-004.
 All patients received the recommended dosage of eculizumab.
 Median exposure was 67 weeks (range: 2-145 weeks).
-Table 5 summarizes all adverse events reported in at least 10% of patients in Studies C08-002A/B, C08-003A/B and C10-004 combined.
+Table 6 summarizes all adverse events reported in at least 10% of patients in Studies C08-002A/B, C08-003A/B and C10-004 combined.
 
-Table 5: Per Patient Incidence of Adverse Events in 10% or More Adult and Adolescent Patients Enrolled in Studies C08-002A/B, C08-003A/B and C10-004 Separately and in Total
+Table 6: Per Patient Incidence of Adverse Events in 10% or More Adult and Adolescent Patients Enrolled in Studies C08-002A/B, C08-003A/B and C10-004 Separately and in Total
 
 |  | (N=17) | (N=20) | (N=41) | (N=78) |
 | --- | --- | --- | --- | --- |
@@ -124,7 +124,7 @@ Median exposure was 44 weeks (range: 1 dose-87 weeks).
 
 Table 6 summarizes all adverse events reported in at least 10% of patients enrolled in Study C10-003.
 
-Table 6: Per Patient Incidence of Adverse Reactions in 10% or More Patients Enrolled in Study C10-003
+Table 7: Per Patient Incidence of Adverse Reactions in 10% or More Patients Enrolled in Study C10-003
 
 |  | 1 month to <12 yrs (N=18) | Total (N=22) |
 | --- | --- | --- |
@@ -163,9 +163,9 @@ Analysis of retrospectively collected adverse event data from pediatric and adul
 Study C09-001r included 19 pediatric patients less than 18 years of age.
 
 Overall, the safety of eculizumab in pediatric patients with aHUS enrolled in Study C09-001r appeared similar to that observed in adult patients.
-The most common (≥15%) adverse events occurring in pediatric patients are presented in Table 7.
+The most common (≥15%) adverse events occurring in pediatric patients are presented in Table 8.
 
-Table 7: Adverse Reactions Occurring in at Least 15% of Patients Less than 18 Years of Age Enrolled in Study C09-001r
+Table 8: Adverse Reactions Occurring in at Least 15% of Patients Less than 18 Years of Age Enrolled in Study C09-001r
 
 |  | < 2 yrs (N=5) | 2 to < 12 yrs (N=10) | 12 to < 18 yrs (N=4) | Total (N=19) |
 | --- | --- | --- | --- | --- |
@@ -186,11 +186,13 @@ Table 7: Adverse Reactions Occurring in at Least 15% of Patients Less than 18 Ye
 
 Generalized Myasthenia Gravis (gMG)
 
-In a 26-week placebo-controlled trial evaluating the effect of eculizumab for the treatment of gMG (gMG Study 1), 62 patients received eculizumab at the recommended dosage regimen and 63 patients received placebo [see Clinical Studies (14.3)].
-Patients were 19 to 79 years of age, and 66% were female.
-Table 8 displays the most common adverse reactions from gMG Study 1 that occurred in ≥5% of eculizumab-treated patients and at a greater frequency than on placebo.
+Adults
 
-Table 8: Adverse Reactions Reported in 5% or More of Eculizumab-Treated Patients in gMG Study 1 and at a Greater Frequency than in Placebo-Treated Patients
+In a 26-week placebo-controlled trial evaluating the effect of eculizumab for the treatment of adult patients with gMG (Study ECU-MG-301), 62 patients received eculizumab at the recommended dosage regimen and 63 patients received placebo [see Clinical Studies (14.3)].
+Patients were 19 to 79 years of age, and 66% were female.
+Table 9 displays the most common adverse reactions from gMG Study 1 that occurred in ≥5% of eculizumab-treated patients and at a greater frequency than on placebo.
+
+Table 9: Adverse Reactions Reported in 5% or More of Eculizumab-Treated Patients in Study ECU-MG-301 and at a Greater Frequency than in Placebo-Treated Patients
 
 |  | Eculizumab (N=62) N (%) | Placebo (N=63) N (%) |
 | --- | --- | --- |
@@ -206,7 +208,7 @@ Table 8: Adverse Reactions Reported in 5% or More of Eculizumab-Treated Patients
 | Musculoskeletal and Connective Tissue Disorders |  |  |
 | Musculoskeletal pain | 9 (15) | 5 (8) |
 
-The most common adverse reactions (≥10%) that occurred in eculizumab-treated patients in the long-term extension to gMG Study 1, Study ECU-MG-302, and that are not included in Table 8 were headache (26%), nasopharyngitis (24%), diarrhea (15%), arthralgia (12%), upper respiratory tract infection (11%), and nausea (10%).
+The most common adverse reactions (≥10%) that occurred in eculizumab-treated patients in the long-term extension to Study ECU-MG-301, Study ECU-MG-302, and that are not included in Table 8 were headache (26%), nasopharyngitis (24%), diarrhea (15%), arthralgia (12%), upper respiratory tract infection (11%), and nausea (10%).
 
 ## 6.2 Postmarketing Experience
 

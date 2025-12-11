@@ -1,6 +1,6 @@
 # 11 DESCRIPTION
 
-Eculizumab-aagh, a complement inhibitor, is a recombinant humanized monoclonal IgG2/4ϰ antibody produced in a Chinese Hamster Ovary cell line expression system and purified by standard bioprocess technology.
+Eculizumab-aagh, a complement inhibitor, is a recombinant humanized monoclonal IgG2/4κ antibody produced in a Chinese Hamster Ovary cell line expression system and purified by standard bioprocess technology.
 
 Eculizumab-aagh contains human constant regions from human IgG2 sequences and human IgG4 sequences and murine complementarity-determining regions grafted onto the human framework light- and heavy-chain variable regions.
 Eculizumab-aagh is composed of two 448 amino acid heavy chains and two 214 amino acid light chains and has a molecular weight of approximately 148 kDa.

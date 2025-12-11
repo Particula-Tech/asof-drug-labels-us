@@ -46,12 +46,21 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of EPYSQLI for the treatment of PNH or gMG in pediatric patients have not been established.
+PNH
+
+Safety and effectiveness of EPYSQLI for the treatment of PNH in pediatric patients have not been established.
+
+aHUS
 
 The safety and effectiveness of EPYSQLI for the treatment of aHUS have been established in pediatric patients.
 Use of EPYSQLI in pediatric patients for this indication is supported by evidence from four adequate and well-controlled clinical studies assessing the safety and effectiveness of eculizumab for the treatment of aHUS.
 The studies included a total of 47 pediatric patients (ages 2 months to 17 years).
 The safety and effectiveness of eculizumab for the treatment of aHUS appear similar in pediatric and adult patients [see Adverse Reactions (6.1), and Clinical Studies (14.2)].
+
+A pediatric assessment for EPYSQLI demonstrates that EPYSQLI is safe and effective for pediatric patients in an indication for which Soliris (eculizumab) is approved.
+However, EPYSQLI is not approved for such indication due to marketing exclusivity for Soliris (eculizumab).
+
+Vaccinations
 
 Administer vaccinations for the prevention of infection due to Neisseria meningitidis, Streptococcus pneumoniae and Haemophilus influenzae type b (Hib) according to ACIP guidelines [see Warnings and Precautions (5.1, 5.3)].
 

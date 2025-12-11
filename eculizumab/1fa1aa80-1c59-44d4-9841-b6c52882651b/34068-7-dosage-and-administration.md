@@ -8,9 +8,9 @@ If urgent EPYSQLI therapy is indicated in a patient who is not up to date with m
 
 Healthcare providers who prescribe EPYSQLI must enroll in the EPYSQLI REMS [see Warnings and Precautions (5.2)].
 
-## 2.2 Recommended Dosage Regimen – PNH
+## 2.2 Recommended Dosage for Adults – PNH
 
-For patients 18 years of age and older, EPYSQLI therapy consists of:
+The recommended dosage of EPYSQLI for the treatment of PNH in patients 18 years of age and older is administered as an intravenous infusion [see Dosage and Administration (2.7)] as follows:
 
 - 600 mg weekly for the first 4 weeks, followed by
 - 900 mg for the fifth dose 1 week later, then
@@ -18,49 +18,53 @@ For patients 18 years of age and older, EPYSQLI therapy consists of:
 
 Administer EPYSQLI at the recommended dosage regimen time points, or within two days of these time points [see Warnings and Precautions (5.4)].
 
-## 2.3 Recommended Dosage Regimen – aHUS
+## 2.3 Recommended Dosage for Adults – aHUS and gMG
 
-For patients 18 years of age and older, EPYSQLI therapy consists of:
+The recommended dosage of EPYSQLI for the treatment of aHUS and gMG in patients 18 years of age and older is administered as an intravenous infusion [see Dosage and Administration (2.7)] as follows:
 
 - 900 mg weekly for the first 4 weeks, followed by
 - 1,200 mg for the fifth dose 1 week later, then
 - 1,200 mg every 2 weeks thereafter.
 
-For patients less than 18 years of age, administer EPYSQLI based upon body weight, according to the following schedule (Table 1):
+## 2.4 Recommended Dosage for Pediatric Patients – aHUS
 
-Table 1: Dosing Recommendations in aHUS Patients Less Than 18 Years of Age
+The recommended dosage of EPYSQLI for the treatment of aHUS in pediatric patients less than 18 years of age is administered as an intravenous infusion based upon body weight, according to the following schedule (Table 1):
+
+Table 1: Dosing Recommendations in Pediatric Patients Less Than 18 Years of Age with aHUS
 
 | Patient Body Weight | Induction | Maintenance |
 | --- | --- | --- |
-| 40 kg and over | 900 mg weekly x 4 doses | 1,200 mg at week 5; then 1,200 mg every 2 weeks |
-| 30 kg to less than 40 kg | 600 mg weekly x 2 doses | 900 mg at week 3; then 900 mg every 2 weeks |
-| 20 kg to less than 30 kg | 600 mg weekly x 2 doses | 600 mg at week 3; then 600 mg every 2 weeks |
-| 10 kg to less than 20 kg | 600 mg weekly x 1 dose | 300 mg at week 2; then 300 mg every 2 weeks |
-| 5 kg to less than 10 kg | 300 mg weekly x 1 dose | 300 mg at week 2; then 300 mg every 3 weeks |
+| 40 kg and over | 900 mg weekly for the first 4 weeks | 1,200 mg at week 5; then 1,200 mg every 2 weeks |
+| 30 kg to less than 40 kg | 600 mg weekly for the first 2 weeks | 900 mg at week 3; then 900 mg every 2 weeks |
+| 20 kg to less than 30 kg | 600 mg weekly for the first 2 weeks | 600 mg at week 3; then 600 mg every 2 weeks |
+| 10 kg to less than 20 kg | 600 mg single dose at Week 1 | 300 mg at week 2; then 300 mg every 2 weeks |
+| 5 kg to less than 10 kg | 300 mg single dose at Week 1 | 300 mg at week 2; then 300 mg every 3 weeks |
 
 Administer EPYSQLI at the recommended dosage regimen time points, or within two days of these time points.
 
-## 2.4 Recommended Dosage Regimen – gMG
-
-For adult patients with generalized myasthenia gravis, EPYSQLI therapy consists of:
-
-- 900 mg weekly for the first 4 weeks, followed by
-- 1,200 mg for the fifth dose 1 week later, then
-- 1,200 mg every 2 weeks thereafter.
-
-Administer EPYSQLI at the recommended dosage regimen time points, or within two days of these time points.
-
-## 2.5 Dose Adjustment in Case of Plasmapheresis, Plasma Exchange, or Fresh Frozen Plasma Infusion
+## 2.5 Dose Adjustment in Case of Plasmapheresis, Plasma Exchange, Fresh Frozen Plasma Infusion or IVIg
 
 For adult and pediatric patients with aHUS, and adult patients with gMG, supplemental dosing of EPYSQLI is required in the setting of concomitant plasmapheresis or plasma exchange, or fresh frozen plasma infusion (PE/PI) (Table 2).
 
-Table 2: Supplemental Dose of EPYSQLI after PE/PI
+Table 2: Supplemental Dose of EPYSQLI after Plasmapheresis/PE/PI
 
 | Type of Plasma Intervention | Most Recent EPYSQLI Dose | Supplemental EPYSQLI Dose with Each Plasma Intervention | Timing of Supplemental EPYSQLI Dose |
 | --- | --- | --- | --- |
 | Plasmapheresis or plasma exchange | 300 mg | 300 mg per each plasmapheresis or plasma exchange session | Within 60 minutes after each plasmapheresis or plasma exchange |
 | ≥600 mg | 600 mg per each plasmapheresis or plasma exchange session |  |  |
 | Fresh frozen plasma infusion | ≥300 mg | 300 mg per infusion of fresh frozen plasma | 60 minutes prior to each infusion of fresh frozen plasma |
+
+For patients with gMG, a supplemental dose of EPYSQLI is required in the setting of concomitant use of intravenous immunoglobulin (IVIg) treatment as described in Table 3.
+
+Table 3: Supplemental Dose of EPYSQLI with concomitant IVIg
+
+| IVIg Frequency | Most Recent EPYSQLI Dose | Supplemental EPYSQLI Dose per IVIg Cycle | Timing of Supplemental EPYSQLI Dose |
+| --- | --- | --- | --- |
+| Acute rescue therapy | No supplemental EPYSQLI dose needed |  |  |
+| Equal to or more frequent than every 4 weeks | 900 mg or more | 600 mg | At the same time as scheduled EPYSQLI dose |
+| 600 mg or less | 300 mg |  |  |
+| Less frequent than every 4 weeks | 900 mg or more | 600 mg | At the next scheduled EPYSQLI dose after the last IVIg cycle |
+| 600 mg or less | 300 mg |  |  |
 
 ## 2.6 Preparation
 
@@ -70,9 +74,9 @@ Dilute EPYSQLI to a final admixture concentration of 5 mg/mL using the following
 - Transfer the recommended dose to an infusion bag.
 - Dilute EPYSQLI to a final concentration of 5 mg/mL by adding the appropriate amount (equal volume of diluent to drug volume) of 0.9% Sodium Chloride Injection, USP; 0.45% Sodium Chloride Injection, USP; or 5% Dextrose in Water Injection, USP to the infusion bag.
 
-The final admixed EPYSQLI 5 mg/mL infusion volume is 60 mL for 300 mg doses, 120 mL for 600 mg doses, 180 mL for 900 mg doses or 240 mL for 1,200 mg doses (Table 3).
+The final admixed EPYSQLI 5 mg/mL infusion volume is 60 mL for 300 mg doses, 120 mL for 600 mg doses, 180 mL for 900 mg doses or 240 mL for 1,200 mg doses (Table 4).
 
-Table 3: Preparation and Reconstitution of EPYSQLI
+Table 4: Preparation and Reconstitution of EPYSQLI
 
 | EPYSQLI Dose | Diluent Volume | Final Volume |
 | --- | --- | --- |
