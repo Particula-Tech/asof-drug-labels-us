@@ -18,10 +18,10 @@ Dispense in a tight, light-resistant container with a child-resistant closure.
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company.
 
-© 2023 Mallinckrodt.
+© 2025 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Rev 10/2023
+Rev 09/2025
 
 Mallinckrodt™ Pharmaceuticals

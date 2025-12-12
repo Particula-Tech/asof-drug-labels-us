@@ -43,6 +43,8 @@ If such symptoms occur, consider discontinuing dextroamphetamine sulfate extende
 
 Long-Term Suppression of Growth in Pediatric Patients
 
+Dextroamphetamine sulfate extended-release capsules are not approved for use and are not recommended in pediatric patients below 6 years of age (see PRECAUTIONS, Pediatric Use).
+
 CNS stimulants have been associated with weight loss and slowing of growth rate in pediatric patients, including dextroamphetamine sulfate extended-release capsules.
 Closely monitor growth (weight and height) in dextroamphetamine sulfate extended-release capsules-treated pediatric patients treated with CNS stimulants.
 
@@ -261,9 +263,11 @@ Mothers taking amphetamines should be advised to refrain from nursing.
 
 ## Pediatric Use
 
-Long-term effects of amphetamines in pediatric patients have not been well established.
+The safety and effectiveness of dextroamphetamine sulfate extended-release capsules have not been established in pediatric patients below the age of 6 years.
 
-Dextroamphetamine sulfate extended-release capsules are not recommended for use in pediatric patients younger than 6 years of age with Attention Deficit Disorder with Hyperactivity described under INDICATIONS AND USAGE.
+In studies evaluating extended-release amphetamine products, patients 4 to <6 years of age had higher systemic amphetamine exposures than those observed in older pediatric patients at the same dosage.
+Pediatric patients 4 to <6 years of age also had a higher incidence of adverse reactions, including weight loss.
+
 Clinical experience suggests that in psychotic children, administration of amphetamines may exacerbate symptoms of behavior disturbance and thought disorder.
 Amphetamines have been reported to exacerbate motor and phonic tics and Tourette’s syndrome.
 Therefore, clinical evaluation for tics and Tourette’s syndrome in children and their families should precede use of stimulant medications.

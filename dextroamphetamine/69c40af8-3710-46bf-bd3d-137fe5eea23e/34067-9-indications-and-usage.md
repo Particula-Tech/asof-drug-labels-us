@@ -24,3 +24,7 @@ Drug treatment may not be indicated for all patients with this syndrome.
 Stimulants are not intended for use in patients who exhibit symptoms secondary to environmental factors and/or other primary psychiatric disorders, including psychosis.
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 When remedial measures alone are insufficient, the decision to prescribe stimulant medication will depend upon the physician’s assessment of the chronicity and severity of the patient’s symptoms.
+
+Limitations of Use
+
+The use of dextroamphetamine sulfate extended-release capsules is not recommended in pediatric patients younger than 6 years of age because they had higher plasma exposure and a higher incidence of adverse reactions (e.g., weight loss) than patients 6 years and older at the same dosage (see PRECAUTIONS, Pediatric Use).
