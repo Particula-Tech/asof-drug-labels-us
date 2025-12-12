@@ -4,7 +4,7 @@ NDC0187-0795-42
 
 Rx only
 
-CARDIZEM ®CD
+CARDIZEM® CD
 
 (diltiazem hydrochloride)
 
@@ -22,7 +22,7 @@ NDC0187-0796-42
 
 Rx only
 
-CARDIZEM ®CD
+CARDIZEM® CD
 
 (diltiazem hydrochloride)
 
@@ -40,7 +40,7 @@ NDC0187-0797-42
 
 Rx only
 
-CARDIZEM ®CD
+CARDIZEM® CD
 
 (diltiazem hydrochloride)
 
@@ -58,7 +58,7 @@ NDC0187-0798-42
 
 Rx only
 
-CARDIZEM ®CD
+CARDIZEM® CD
 
 (diltiazem hydrochloride)
 
@@ -76,7 +76,7 @@ NDC0187-0799-42
 
 Rx only
 
-CARDIZEM ®CD
+CARDIZEM® CD
 
 (diltiazem hydrochloride)
 

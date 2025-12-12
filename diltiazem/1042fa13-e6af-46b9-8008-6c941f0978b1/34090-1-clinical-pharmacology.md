@@ -4,10 +4,10 @@ The therapeutic effects of diltiazem are believed to be related to its ability t
 
 Mechanisms of Action
 
-Hypertension:Diltiazem produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
+Hypertension: Diltiazem produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
 The magnitude of blood pressure reduction is related to the degree of hypertension; thus hypertensive individuals experience an antihypertensive effect, whereas there is only a modest fall in blood pressure in normotensives.
 
-Angina:Diltiazem has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
+Angina: Diltiazem has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
 This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal workloads.
 Diltiazem has been shown to be a potent dilator of coronary arteries, both epicardial and subendocardial.
 Spontaneous and ergonovine-induced coronary artery spasms are inhibited by diltiazem.
@@ -72,14 +72,14 @@ There is a departure from linearity when dose strengths are increased; the half-
 A study that compared patients with normal hepatic function to patients with cirrhosis found an increase in half-life and a 69% increase in bioavailability in the hepatically impaired patients.
 A single study in nine patients with severely impaired renal function showed no difference in the pharmacokinetic profile of diltiazem compared to patients with normal renal function.
 
-CARDIZEM CD Capsules:When compared to a regimen of CARDIZEM tablets at steady-state, more than 95% of drug is absorbed from the CARDIZEM CD formulation.
+CARDIZEM CD Capsules: When compared to a regimen of CARDIZEM tablets at steady-state, more than 95% of drug is absorbed from the CARDIZEM CD formulation.
 A single 360 mg dose of the capsule results in detectable plasma levels within 2 hours and peak plasma levels between 10 and 14 hours; absorption occurs throughout the dosing interval.
 When CARDIZEM CD was coadministered with a high fat content breakfast, the extent of diltiazem absorption was not affected.
 Dose-dumping does not occur.
 The apparent elimination half-life after single or multiple dosing is 5 to 8 hours.
 A departure from linearity similar to that seen with CARDIZEM tablets and CARDIZEM SR capsules is observed.
 As the dose of CARDIZEM CD capsules is increased from a daily dose of 120 mg to 240 mg, there is an increase in the area under the curve (AUC) of 2.7 times.
-When the dose is increased from 240 mg to 360 mg, there is an increase in the AUC of 1.6 times.
+When the dose is increased from 240 mg to 360 mg, there is an increase in AUC of 1.6 times.
 
 In an in vitro dissolution study, the release rate of diltiazem from CARDIZEM CD increased significantly as the alcohol percentage in the dissolution medium increased.
 The effect of alcohol on the release rate may lead to a change in the pharmacokinetics of diltiazem, such as a more rapid absorption and/or an increase in the systemic exposure of diltiazem (see PRECAUTIONS, Drug Interactions).
