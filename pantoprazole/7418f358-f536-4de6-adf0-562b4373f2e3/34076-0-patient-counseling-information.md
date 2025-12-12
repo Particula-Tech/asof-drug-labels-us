@@ -51,4 +51,4 @@ Administration
 Brands listed are the trademarks of their respective owners.
 Dispense with Medication Guide available at: www.aurobindousa.com/medication-guides
 
-Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 10/2023
+Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520 Manufactured by: Aurobindo Pharma Limited Hyderabad-500 032, India Revised: 12/2025

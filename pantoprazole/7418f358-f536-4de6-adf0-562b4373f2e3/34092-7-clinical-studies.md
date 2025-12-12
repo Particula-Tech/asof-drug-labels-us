@@ -80,7 +80,7 @@ Table 11: Number of Episodes of Heartburn (mean ± SD)
 | Nighttime | 3.9 ± 1.1* | 11.9 ± 1.1 |  |
 | Month 12 | Daytime | 2.9 ± 1.5* | 17.5 ± 1.5 |
 | Nighttime | 2.5 ± 1.2* | 13.8 ± 1.3 |  |
-| *(p <0.001 vs. ranitidine, combined data from the two U.S. studies) |  |  |  |
+| * (p <0.001 vs. ranitidine, combined data from the two U.S. studies) |  |  |  |
 
 ## 14.3 Pathological Hypersecretory Conditions Including Zollinger-Ellison Syndrome
 
