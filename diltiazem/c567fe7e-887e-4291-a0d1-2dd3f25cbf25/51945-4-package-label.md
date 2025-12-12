@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL - 120 mg Capsule Bottle Label
 
-NDC0187-2612-30
+NDC 0187-2612-30
 
 Rx only
 
@@ -16,7 +16,7 @@ BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 180 mg Capsule Bottle Label
 
-NDC0187-2613-30
+NDC 0187-2613-30
 
 Rx only
 
@@ -32,7 +32,7 @@ BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 240 mg Capsule Bottle Label
 
-NDC0187-2614-30
+NDC 0187-2614-30
 
 Rx only
 
@@ -48,7 +48,7 @@ BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 300 mg Capsule Bottle Label
 
-NDC0187-2615-30
+NDC 0187-2615-30
 
 Rx only
 
@@ -64,7 +64,7 @@ BAUSCH Health
 
 # PRINCIPAL DISPLAY PANEL - 360 mg Capsule Bottle Label
 
-NDC0187-2616-30
+NDC 0187-2616-30
 
 Rx only
 

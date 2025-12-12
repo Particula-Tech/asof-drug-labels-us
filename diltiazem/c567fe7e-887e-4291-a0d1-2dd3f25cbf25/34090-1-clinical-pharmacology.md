@@ -4,10 +4,10 @@ The therapeutic effects of diltiazem hydrochloride are believed to be related to
 
 Mechanisms of Action
 
-Hypertension:Diltiazem produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
+Hypertension: Diltiazem produces its antihypertensive effect primarily by relaxation of vascular smooth muscle and the resultant decrease in peripheral vascular resistance.
 The magnitude of blood pressure reduction is related to the degree of hypertension: thus hypertensive individuals experience an antihypertensive effect, whereas there is only a modest fall in blood pressure in normotensives.
 
-Angina:Diltiazem hydrochloride has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
+Angina: Diltiazem hydrochloride has been shown to produce increases in exercise tolerance, probably due to its ability to reduce myocardial oxygen demand.
 This is accomplished via reductions in heart rate and systemic blood pressure at submaximal and maximal workloads.
 
 Diltiazem has been shown to be a potent dilator of coronary arteries, both epicardial and subendocardial.
@@ -51,7 +51,7 @@ There were no instances of greater than first-degree AV block in any of the clin
 
 Pharmacodynamics
 
-Hypertension:In short-term, double-blind, placebo-controlled clinical trials Tiazac demonstrated a dose-related antihypertensive response among patients with mild to moderate hypertension.
+Hypertension: In short-term, double-blind, placebo-controlled clinical trials Tiazac demonstrated a dose-related antihypertensive response among patients with mild to moderate hypertension.
 In one parallel-group study of 198 patients Tiazac was given for four weeks.
 The changes in diastolic blood pressure measured at trough (24 hours after the dose) for placebo, 90 mg, 180 mg, 360 mg and 540 mg were -5.4, -6.3, -6.2, -8.2, and -11.8 mm Hg, respectively.
 Supine diastolic blood pressure as well as standing diastolic and systolic blood pressures also showed statistically significant linear dose response effects.
@@ -59,7 +59,7 @@ Supine diastolic blood pressure as well as standing diastolic and systolic blood
 In another clinical trial that followed a dose-escalation design, Tiazac also reduced blood pressure in a linear dose-related manner.
 Supine diastolic blood pressure measured following two-week intervals of treatment was reduced by -3.7 mm Hg with 120 mg/day versus -2.0 mm Hg with placebo, by -7.6 mm Hg after escalation to 240 mg/day versus -2.3 mm Hg with placebo, by -8.1 mm Hg after escalation to 360 mg/day versus -0.9 mm Hg with placebo, and by -10.8 mm Hg after escalation to 480/540 mg/day versus -2.2 mm Hg with placebo.
 
-Angina:In a double-blind, parallel-group, placebo-controlled trial (approximately 50 patients/group, in patients with chronic stable angina), Tiazac at doses of 120 to 540 mg/day increased exercise tolerance time.
+Angina: In a double-blind, parallel-group, placebo-controlled trial (approximately 50 patients/group, in patients with chronic stable angina), Tiazac at doses of 120 to 540 mg/day increased exercise tolerance time.
 At trough, 24 hours after dosing, exercise tolerance times using a Bruce exercise protocol, increased by 14, 26, 41, 33 and 32 seconds over baseline for placebo and the 120 mg, 240 mg, 360 mg, and 540 mg treated patient groups, respectively.
 At peak, 8 hours after dosing, exercise tolerance times relative to baseline were statistically significantly increased by 13, 38, 64, 55 and 42 seconds for placebo and 120 mg, 240 mg, 360 mg, and 540 mg Tiazac treated patients, respectively.
 Compared to baseline, Tiazac treated patients experienced statistically significant reductions in anginal attacks and decreased nitroglycerin requirements when compared to placebo treated patients.
@@ -86,9 +86,9 @@ Competitive in vitro ligand binding studies have also shown diltiazem hydrochlor
 A study that compared patients with normal hepatic function to patients with cirrhosis who received immediate-release diltiazem found an increase in diltiazem elimination half-life and a 69% increase in bioavailability in the hepatically impaired patients.
 Patients with severely impaired renal function (creatinine clearance <50 mL/min) who received immediate-release diltiazem had modestly increased diltiazem concentrations compared to patients with normal renal function.
 
-Tiazac Capsules:When compared to a regimen of immediate-release tablets at steady-state, approximately 93% of drug is absorbed from the Tiazac formulation.
-When Tiazac was coadministered with a high fat content breakfast, the extent of diltiazem absorption was not affected; T max, however, occurred slightly earlier.
+Tiazac Capsules: When compared to a regimen of immediate-release tablets at steady-state, approximately 93% of drug is absorbed from the Tiazac formulation.
+When Tiazac was coadministered with a high fat content breakfast, the extent of diltiazem absorption was not affected; Tmax, however, occurred slightly earlier.
 The apparent elimination half-life after single or multiple dosing is 4 to 9.5 hours (mean 6.5 hours).
 
 Tiazac demonstrates non-linear pharmacokinetics.
-As the daily dose of Tiazac capsules was increased from 120 to 540 mg, there was a more than proportional increase in diltiazem plasma concentrations as evidenced by an increase of AUC, C maxand C minof 6.8, 6 and 8.6 times, respectively, for a 4.5 times increase in dose.
+As the daily dose of Tiazac capsules was increased from 120 to 540 mg, there was a more than proportional increase in diltiazem plasma concentrations as evidenced by an increase of AUC, Cmax and Cmin of 6.8, 6 and 8.6 times, respectively, for a 4.5 times increase in dose.
