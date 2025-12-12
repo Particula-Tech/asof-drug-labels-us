@@ -1,4 +1,4 @@
-# DOSAGE & ADMINISTRATION
+# DOSAGE AND ADMINISTRATION
 
 1.
 Abortion and Indications 1–4 An initial dose of 1 mL of carboprost tromethamine injection sterile solution (containing the equivalent of 250 micrograms of carboprost) is to be administered deep in the muscle with a tuberculin syringe.
@@ -10,7 +10,7 @@ The dose may be increased to 500 micrograms (2 mL) if uterine contractility is j
 The total dose administered of carboprost tromethamine should not exceed 12 milligrams and continuous administration of the drug for more than two days is not recommended.
 
 2.
-For Refractory Postpartum Uterine Bleeding: An initial dose of 250 micrograms of carboprost tromethamine injection sterile solution (1 mL of carboprost tromethamine injection, USP) is to be given deep, intramuscularly.
+For Refractory Postpartum Uterine Bleeding: An initial dose of 250 micrograms of carboprost tromethamine injection sterile solution (1 mL of carboprost tromethamine injection) is to be given deep, intramuscularly.
 In clinical trials it was found that the majority of successful cases (73%) responded to single injections.
 In some selected cases, however, multiple dosing at intervals of 15 to 90 minutes was carried out with successful outcome.
 The need for additional injections and the interval at which these should be given can be determined only by the attending physicians as dictated by the course of clinical events.

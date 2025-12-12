@@ -1,6 +1,6 @@
 # WARNINGS
 
-| WARNINGS Carboprost tromethamine injection sterile solution (carboprost tromethamine), like other potent oxytocic agents, should be used only with strict adherence to recommended dosages. Carboprost tromethamine injection should be used by medically trained personnel in a hospital which can provide immediate intensive care and acute surgical facilities. |
+| Carboprost tromethamine injection sterile solution (carboprost tromethamine), like other potent oxytocic agents, should be used only with strict adherence to recommended dosages. Carboprost tromethamine injection should be used by medically trained personnel in a hospital which can provide immediate intensive care and acute surgical facilities. |
 | --- |
 
 Carboprost tromethamine injection does not appear to directly affect the fetoplacental unit.
@@ -35,7 +35,7 @@ Differentiation of post-abortion endometritis from drug-induced temperature elev
 
 |  | Endometritis pyrexia | Pyrexia induced by Carboprost tromethamine injection |
 | --- | --- | --- |
-| 1. | Time of onset: Typically, on third post- abortional day (38° C or higher). | Within 1 to 16 hours after the first injection. |
+| 1. | Time of onset: Typically, on third post- abortional day (38°C or higher). | Within 1 to 16 hours after the first injection. |
 | 2. | Duration: Untreated pyrexia and infection continue and may give rise to other pelvic infections. | Temperatures revert to pretreatment levels after discontinuation of therapy without any other treatment. |
 | 3. | Retention: Products of conception are often retained in the cervical os or uterine cavity. | Temperature elevation occurs whether or not tissue is retained. |
 | 4. | Histology: Endometrium is infiltrated with lymphocytes and some areas are necrotic and hemorrhagic. | Although the endometrial stroma may be edematous and vascular, it is not inflamed. |

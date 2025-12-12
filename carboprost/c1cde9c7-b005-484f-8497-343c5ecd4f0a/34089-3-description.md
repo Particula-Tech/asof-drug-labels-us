@@ -15,7 +15,7 @@ The structural formula is represented below:
 The molecular formula is C25H47O8N.
 The molecular weight of carboprost tromethamine is 489.64.
 It is a white to slightly off-white crystalline powder.
-It generally melts between 95° and 105° C, depending on the rate of heating.
+It generally melts between 95° and 105°C, depending on the rate of heating.
 
 Carboprost tromethamine dissolves readily in water at room temperature at a concentration greater than 75 mg/mL.
 
