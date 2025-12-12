@@ -50,7 +50,7 @@ Closely follow patients greater than 60 years of age, those with a medical histo
 Serious hypersensitivity reactions, including anaphylaxis and angioedema, have been reported with ustekinumab products in clinical trials and postmarketing.
 Some serious hypersensitivity reactions have occurred during the first intravenous dose of ustekinumab products [see Adverse Reactions (6.1, 6.3)].
 
-If a servere or clinically significant hypersensitivity reaction occurs, discontinue PYZCHIVA immediately and initiate appropriate medical treatment [see Contraindications (4)].
+If a severe or clinically significant hypersensitivity reaction occurs, discontinue PYZCHIVA immediately and initiate appropriate medical treatment [see Contraindications (4)].
 
 ## 5.6 Posterior Reversible Encephalopathy Syndrome (PRES)
 
