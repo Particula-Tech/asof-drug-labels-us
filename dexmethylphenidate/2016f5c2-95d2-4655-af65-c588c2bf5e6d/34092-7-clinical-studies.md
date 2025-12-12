@@ -17,8 +17,7 @@ Table 3: Summary of Efficacy Results from ADHD Acute-Phase Study in Pediatric Pa
 |  |  | Mean baseline score (SD) | Mean change from baseline Week 4 score (SD) |
 | Study 1 | Focalin 5-20 mg/dayb (n = 44) | 1.4 (0.7) (n = 42) | - 0.7 (0.7) (n = 42) |
 |  | Placebo (n = 42) | 1.6 (0.7) (n = 41) | - 0.2 (0.7) (n = 39) |
-
-1. Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SNAP; swanson, Nolan and Pelham; n, number of patients available at the assessment time point. aAverage of two ratings. bStatistically significantly different from placebo.
+| Abbreviations: ADHD, attention deficit hyperactivity disorder; SD, standard deviation; SNAP; swanson, Nolan and Pelham; n, number of patients available at the assessment time point. aAverage of two ratings. bStatistically significantly different from placebo. |  |  |  |
 
 Study 2 was a multicenter, placebo-controlled, double-blind, 2-week treatment withdrawal study in 75 children (ages 6 to 12 years) who were responders during a 6-week, open-label initial treatment period.
 Children took study medication twice a day separated by a 3.5 to 5.5 hour interval.
@@ -32,5 +31,4 @@ Table 4: Summary of Efficacy Results from ADHD Randomized Withdrawal Study in Pe
 |  |  | Number of treatment failures / Number of randomized patients | Percentage |
 | Study 2 | Focalin 5-20 mg/dayb | 6/35 | 17.1% |
 |  | Placebo | 25/40 | 62.5% |
-
-1. Abbreviation: ADHD, attention deficit hyperactivity disorder. aOne patient did not have the value at Visit 10 and hence not included in this analysis. bStatistically significantly different from placebo.
+| Abbreviation: ADHD, attention deficit hyperactivity disorder. aOne patient did not have the value at Visit 10 and hence not included in this analysis. bStatistically significantly different from placebo. |  |  |  |

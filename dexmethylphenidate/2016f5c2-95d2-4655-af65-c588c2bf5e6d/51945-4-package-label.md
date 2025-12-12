@@ -1,6 +1,6 @@
 # PRINCIPAL DISPLAY PANEL
 
-1. Sandoz NDC 66758-250-01
+Sandoz NDC 66758-250-01
 
 Focalin®
 
@@ -16,7 +16,7 @@ Dispense with Medication Guide attached or provided separately.
 
 # PRINCIPAL DISPLAY PANEL
 
-1. Sandoz NDC 66758-251-01
+Sandoz NDC 66758-251-01
 
 Focalin®
 
@@ -32,7 +32,7 @@ Dispense with Medication Guide attached or provided separately.
 
 # PRINCIPAL DISPLAY PANEL
 
-1. Sandoz NDC 66758-252-01
+Sandoz NDC 66758-252-01
 
 Focalin®
 
