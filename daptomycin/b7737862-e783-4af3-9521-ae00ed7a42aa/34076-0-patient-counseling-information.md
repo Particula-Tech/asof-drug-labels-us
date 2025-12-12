@@ -32,6 +32,6 @@ Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-5XXXXXXX
+50106521
 
 Revised: 9/2025
