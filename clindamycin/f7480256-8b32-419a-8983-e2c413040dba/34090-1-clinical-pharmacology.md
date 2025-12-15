@@ -23,4 +23,4 @@ Clindamycin is active in vitro against most isolates of Propionibacterium acnes;
 
 Resistance to clindamycin is most often caused by modification of specific bases of the 23S ribosomal RNA.
 Cross-resistance between clindamycin and lincomycin is complete.
-Because the binding sites for these antibacterial drugs overlap, cross resistance is sometimes observed among lincosamides, macrolides and streptogramin B. Macrolide-inducible resistance to clindamycin occurs in some isolates of macrolide-resistant bacteria.
+Because the binding sites for these antibacterial drugs overlap, cross-resistance is sometimes observed among lincosamides, macrolides and streptogramin B. Macrolide-inducible resistance to clindamycin occurs in some isolates of macrolide-resistant bacteria.

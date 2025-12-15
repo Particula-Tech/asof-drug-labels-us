@@ -4,7 +4,7 @@ Clindamycin phosphate topical solution and clindamycin phosphate topical lotion 
 Clindamycin phosphate topical gel contains clindamycin phosphate, USP, at a concentration equivalent to 10 mg clindamycin per gram.
 Each clindamycin phosphate topical solution pledget applicator contains approximately 1 mL of topical solution.
 
-Clindamycin phosphate is a water soluble ester of the semi-synthetic antibiotic produced by a 7(S)-chloro-substitution of the 7(R)-hydroxyl group of the parent antibiotic lincomycin.
+Clindamycin phosphate is a water soluble ester of the semi-synthetic antibacterial drug produced by a 7(S)-chloro-substitution of the 7(R)-hydroxyl group of the parent compound lincomycin.
 
 The solution contains isopropyl alcohol 50% v/v, propylene glycol, and water.
 

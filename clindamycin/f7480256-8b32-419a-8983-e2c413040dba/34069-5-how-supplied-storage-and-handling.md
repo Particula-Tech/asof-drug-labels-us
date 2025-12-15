@@ -9,3 +9,6 @@ Clindamycin phosphate topical lotion containing clindamycin phosphate equivalent
 Store at controlled room temperature 20° to 25°C (68° to 77°F) [see USP].
 
 Protect from freezing.
+
+Clindamycin phosphate topical solution is flammable.
+Keep away from heat, sparks or open flames.
