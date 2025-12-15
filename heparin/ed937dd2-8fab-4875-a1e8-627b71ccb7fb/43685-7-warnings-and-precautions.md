@@ -40,7 +40,7 @@ If the coagulation test is unduly prolonged or if hemorrhage occurs, heparin sod
 
 Thrombocytopenia has been reported to occur in patients receiving heparin with a reported incidence of up to 30%.
 Platelet counts should be obtained at baseline and periodically during heparin administration.
-Mild thrombocytopenia (count greater than 100,000/mm 3) may remain stable or reverse even if heparin is continued.
+Mild thrombocytopenia (count greater than 100,000/mm3) may remain stable or reverse even if heparin is continued.
 However, thrombocytopenia of any degree should be monitored closely.
 If the count falls below 100,000/mm 3 or if recurrent thrombosis develops (see Heparin-induced Thrombocytopenia and Heparin-induced Thrombocytopenia and Thrombosis), the heparin product should be discontinued and, if necessary, an alternative anticoagulant administered.
 
