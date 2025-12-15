@@ -4,7 +4,7 @@
 
 The Randomized Spironolactone Evaluation Study was a placebo controlled, double-blind study of the effect of spironolactone on mortality in patients with highly symptomatic heart failure and reduced ejection fraction.
 To be eligible to participate patients had to have an ejection fraction of ≤ 35%, NYHA class III-IV symptoms, and a history of NYHA class IV symptoms within the last 6 months before enrollment.
-Patients with a baseline serum creatinine of >2.5 mg/dL or a recent increase of 25% or with a baseline serum potassium of >5.0 mEq/L were excluded.
+Patients with a baseline serum creatinine of >2.5 mg/dL or a recent increase of 25% or with a baseline serum potassium of >5 mEq/L were excluded.
 
 Follow-up visits and laboratory measurements (including serum potassium and creatinine) were performed every four weeks for the first 12 weeks, then every 3 months for the first year, and then every 6 months thereafter.
 
@@ -28,7 +28,6 @@ Other medications used at any time during the study included digoxin (78%), anti
 The primary endpoint for the Randomized Spironolactone Evaluation Study was time to all-cause mortality.
 The Randomized Spironolactone Evaluation Study was terminated early because of significant mortality benefit demonstrated during a planned interim analysis.
 Compared to placebo, spironolactone reduced the risk of death by 30% (p<0.001; 95% confidence interval 18% to 40%).
-
 Spironolactone also reduced the risk of hospitalization for cardiac causes (defined as worsening heart failure, angina, ventricular arrhythmias, or myocardial infarction) by 30% (p <0.001; 95% confidence interval 18% to 41%).
 
 The survival curves by treatment group are shown in Figure 1.

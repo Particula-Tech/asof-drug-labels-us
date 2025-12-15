@@ -9,11 +9,11 @@ Check serum potassium levels when ACE inhibitor or ARB therapy is altered in pat
 
 Examples of drugs that can increase potassium include:
 
-- •ACE inhibitors
-- •angiotensin receptor blockers
-- •non-steroidal anti-inflammatory drugs (NSAIDs)
-- •heparin and low molecular weight heparin
-- •trimethoprim
+- ACE inhibitors
+- angiotensin receptor blockers
+- non-steroidal anti-inflammatory drugs (NSAIDs)
+- heparin and low molecular weight heparin
+- trimethoprim
 
 ## 7.2 Lithium
 
@@ -38,9 +38,14 @@ Hyperkalemic metabolic acidosis has been reported in patients given spironolacto
 ## 7.6 Acetylsalicylic Acid
 
 Acetylsalicylic acid may reduce the efficacy of spironolactone.
-Therefore, when spironolactone tablets and acetylsalicylic acid are used concomitantly, spironolactone tablets may need to be titrated to higher maintenance dose and the patient should be observed closely to determine if the desired effect is obtained [see Clinical Pharmacology (12.3)]
+Therefore, when spironolactone tablets and acetylsalicylic acid are used concomitantly, spironolactone tablets may need to be titrated to higher maintenance dose and the patient should be observed closely to determine if the desired effect is obtained [see Clinical Pharmacology (12.3)].
 
 ## 7.7 Abiraterone
 
 Spironolactone binds to the androgen receptor and may increase prostate-specific antigen (PSA) levels in abiraterone-treated prostate cancer patients.
 Concomitant use of spironolactone and abiraterone is not recommended.
+
+## 7.8 Mitotane
+
+Avoid concomitant use of spironolactone tablets and mitotane.
+Spironolactone reduces mitotane plasma levels [see Clinical Pharmacology (12.3)].

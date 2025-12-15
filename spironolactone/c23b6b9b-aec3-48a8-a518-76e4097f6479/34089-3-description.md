@@ -2,7 +2,7 @@
 
 Spironolactone oral tablets contain 25 mg, 50 mg, or 100 mg of the aldosterone antagonist spironolactone, 17‑ hydroxy-7α-mercapto-3-oxo-17α-pregn-4-ene-21-carboxylic acid γ-lactone acetate, which has the following structural formula:
 
-Spironolactone is practically insoluble in water, soluble in alcohol, and freely soluble in benzene and in chloroform.
+Spironolactone, USP is practically insoluble in water, soluble in alcohol, and freely soluble in benzene and in chloroform.
 
 Spironolactone tablets, 25 mg contain the following inactive ingredients: anhydrous lactose, colloidal silicon dioxide, docusate sodium 85%/sodium benzoate 15%, entrapped peppermint flavor, magnesium stearate, microcrystalline cellulose, povidone, and sodium starch glycolate.
 
