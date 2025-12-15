@@ -2,9 +2,10 @@
 
 The following serious adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- •Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome [see Warnings and Precautions (5.1)].
-- •Acute Renal Failure [see Warnings and Precautions (5.2)].
-- •Central Nervous System Effects [see Warnings and Precautions (5.3)].
+- Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome [see Warnings and Precautions (5.1)].
+- Acute Renal Failure [see Warnings and Precautions (5.2)].
+- Central Nervous System Effects [see Warnings and Precautions (5.3)].
+- Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.4)].
 
 The most common adverse reactions reported in at least 1 indication by greater than 10% of adult subjects treated with valacyclovir hydrochloride and observed more frequently with valacyclovir hydrochloride compared with placebo are headache, nausea, and abdominal pain.
 The only adverse reaction reported in greater than 10% of pediatric subjects aged less than 18 years was headache.
@@ -30,7 +31,7 @@ For the incidence of laboratory abnormalities see Table 2.
 Suppressive Therapy: Suppression of Recurrent Genital Herpes in Immunocompetent Adults: In a clinical trial for the suppression of recurrent genital herpes infections, the adverse reactions reported by subjects receiving valacyclovir hydrochloride 1 gram once daily (n = 269), valacyclovir hydrochloride 500 mg once daily (n = 266), or placebo (n = 134), respectively, included headache (35%, 38%, 34%), nausea (11%, 11%, 8%), abdominal pain (11%, 9%, 6%), dysmenorrhea (8%, 5%, 4%), depression (7%, 5%, 5%), arthralgia (6%, 5%, 4%), vomiting (3%, 3%, 2%), and dizziness (4%, 2%, 1%).
 For the incidence of laboratory abnormalities see Table 2.
 
-Suppression of Recurrent Genital Herpes in HIV-1‑Infected Subjects: In HIV‑infected subjects, frequently reported adverse reactions for valacyclovir hydrochloride (500 mg twice daily; n = 194, median days on therapy = 172) and placebo (n = 99, median days on therapy = 59), respectively, included headache (13%, 8%), fatigue (8%, 5%), and rash (8%, 1%).
+Suppression of Recurrent Genital Herpes in HIV-1‑Infected Subjects: In HIV-1‑infected subjects, frequently reported adverse reactions for valacyclovir hydrochloride (500 mg twice daily; n = 194, median days on therapy = 172) and placebo (n = 99, median days on therapy = 59), respectively, included headache (13%, 8%), fatigue (8%, 5%), and rash (8%, 1%).
 Post‑randomization laboratory abnormalities that were reported more frequently in valacyclovir subjects versus placebo included elevated alkaline phosphatase (4%, 2%), elevated ALT (14%, 10%), elevated AST (16%, 11%), decreased neutrophil counts (18%, 10%), and decreased platelet counts (3%, 0%), respectively.
 
 Reduction of Transmission: In a clinical trial for the reduction of transmission of genital herpes, the adverse reactions reported by subjects receiving valacyclovir hydrochloride 500 mg once daily (n = 743) or placebo once daily (n = 741), respectively, included headache (29%, 26%), nasopharyngitis (16%, 15%), and upper respiratory tract infection (9%, 10%).
@@ -46,7 +47,7 @@ Incidence (%) of Laboratory Abnormalities in Herpes Zoster and Genital Herpes Tr
 | Laboratory Abnormality | Herpes Zoster |  | Genital Herpes Treatment |  |  | Genital Herpes Suppression |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Valacyclovir hydrochloride 1 gram3 Times Daily(n = 967) | Placebo(n = 195) | Valacyclovir hydrochloride 1 gram Twice Daily(n = 1,194) | Valacyclovir hydrochloride 500 mg Twice Daily(n = 1,159) | Placebo(n = 439) | Valacyclovir hydrochloride 1 gram Once Daily(n = 269) | Valacyclovir hydrochloride 500 mg Once Daily(n = 266) | Placebo(n = 134) |  |
-| Hemoglobin (< 0.8 x LLN) | 0.8% | 0% | 0.3% | 0.2% | 0% | 0% | 0.8% | 0.8% |
+| Hemoglobin(< 0.8 x LLN) | 0.8% | 0% | 0.3% | 0.2% | 0% | 0% | 0.8% | 0.8% |
 | White blood cells(< 0.75 x LLN) | 1.3% | 0.6% | 0.7% | 0.6% | 0.2% | 0.7% | 0.8% | 1.5% |
 | Platelet count (< 100,000/mm3) | 1% | 1.2% | 0.3% | 0.1% | 0.7% | 0.4% | 1.1% | 1.5% |
 | AST (SGOT)(> 2 x ULN) | 1% | 0% | 1% | a | 0.5% | 4.1% | 3.8% | 3% |
@@ -113,6 +114,6 @@ Hematologic
 
 Thrombocytopenia, aplastic anemia, leukocytoclastic vasculitis, TTP/HUS [see Warnings and Precautions (5.1)].
 
-Skin
+Skin and Subcutaneous Tissue Disorders
 
-Erythema multiforme, rashes including photosensitivity, alopecia.
+Acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), erythema multiforme (EM), rashes including photosensitivity, alopecia [see Contraindications (4), Warnings and Precautions (5.4)].

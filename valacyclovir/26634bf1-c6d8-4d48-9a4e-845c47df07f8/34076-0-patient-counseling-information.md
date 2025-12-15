@@ -2,6 +2,12 @@
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
 
+Severe Cutaneous Adverse Reactions
+
+Inform patients that severe skin reactions including acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), and erythema multiforme (EM) have been reported with valacyclovir.
+Advise patients to immediately contact their healthcare provider if they develop a rash.
+Instruct patients to immediately stop taking valacyclovir tablets and seek medical attention if a painful rash with mucosal involvement develops [see Contraindications (4), Warnings and Precautions (5.4), Adverse Reactions (6.3)].
+
 Importance of Adequate Hydration
 
 Patients should be advised to maintain adequate hydration.
@@ -34,7 +40,7 @@ If medical management of a genital herpes recurrence is indicated, patients shou
 There are no data on the effectiveness of treatment initiated more than 72 hours after the onset of signs and symptoms of a first episode of genital herpes or more than 24 hours after the onset of signs and symptoms of a recurrent episode.
 
 There are no data on the safety or effectiveness of chronic suppressive therapy of more than 1 year’s duration in otherwise healthy patients.
-There are no data on the safety or effectiveness of chronic suppressive therapy of more than 6 months’ duration in HIV‑infected patients.
+There are no data on the safety or effectiveness of chronic suppressive therapy of more than 6 months’ duration in HIV‑1-infected patients.
 
 Herpes Zoster
 
@@ -45,16 +51,8 @@ Chickenpox
 
 Patients should be advised to initiate treatment at the earliest sign or symptom of chickenpox.
 
-Manufactured by:
+Manufactured by:Ohm Laboratories Inc.New Brunswick, NJ 08901
 
-Ohm Laboratories Inc.
+Distributed by: Sun Pharmaceutical Industries, Inc.Cranbury, NJ 08512
 
-New Brunswick, NJ 08901
-
-Distributed by:
-
-Sun Pharmaceutical Industries, Inc.
-
-Cranbury, NJ 08512
-
-August 2023 FDA-17
+November 2025 FDA-18

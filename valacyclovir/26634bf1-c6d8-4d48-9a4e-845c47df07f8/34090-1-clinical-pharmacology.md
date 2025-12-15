@@ -80,7 +80,7 @@ Mean (±SD) Plasma Acyclovir Pharmacokinetic Parameter Estimates Following First
 | Parameter | Pediatric Subjects (20 mg/kg Oral Suspension) |  |  | Adults 1 gram Solid Dose of Valacyclovir Hydrochloridea(n = 15) |
 | --- | --- | --- | --- | --- |
 | 1 to < 2 yr(n = 6) | 2 to < 6 yr(n = 12) | 6 to < 12 yr(n = 8) |  |  |
-| AUC (mcg•hr/mL) | 14.4 (± 6.26) | 10.1 (± 3.35) | 13.1 (± 3.43) | 17.2 (± 3.10) |
+| AUC (mcg•h/mL) | 14.4 (± 6.26) | 10.1 (± 3.35) | 13.1 (± 3.43) | 17.2 (± 3.10) |
 | Cmax (mcg/mL) | 4.03 (± 1.37) | 3.75 (± 1.14) | 4.71 (± 1.20) | 4.72 (± 1.37) |
 
 a Historical estimates using pediatric pharmacokinetic sampling schedule.
@@ -115,13 +115,13 @@ In biochemical assays, acyclovir triphosphate inhibits replication of α-herpes 
 This is accomplished in 3 ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.
 The greater antiviral activity of acyclovir against HSV compared with VZV is due to its more efficient phosphorylation by the viral TK.
 
-Antiviral Activitiy
+Antiviral Activity
 
 The quantitative relationship between the cell culture susceptibility of herpesviruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
 Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC50), vary greatly depending upon a number of factors.
-Using plaque‑reduction assays, the EC50 values against herpes simplex virus isolates range from 0.09 to 60 μM (0.02 to 13.5 mcg/mL) for HSV‑1 and from 0.04 to 44 μM (0.01 to 9.9 mcg/mL) for HSV‑2.
-The EC50 values for acyclovir against most laboratory strains and clinical isolates of VZV range from 0.53 to 48 μM (0.12 to 10.8 mcg/mL).
-Acyclovir also demonstrates activity against the Oka vaccine strain of VZV with a mean EC50 of 6 μM (1.35 mcg/mL).
+Using plaque‑reduction assays, the EC50 values against herpes simplex virus isolates range from 0.09 to 60 microM (0.02 to 13.5 mcg/mL) for HSV‑1 and from 0.04 to 44 microM (0.01 to 9.9 mcg/mL) for HSV‑2.
+The EC50 values for acyclovir against most laboratory strains and clinical isolates of VZV range from 0.53 to 48 microM (0.12 to 10.8 mcg/mL).
+Acyclovir also demonstrates activity against the Oka vaccine strain of VZV with a mean EC50 of 6 microM (1.35 mcg/mL).
 
 Resistance
 

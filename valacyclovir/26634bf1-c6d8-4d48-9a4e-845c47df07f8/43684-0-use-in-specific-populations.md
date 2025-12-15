@@ -29,7 +29,8 @@ There are insufficient data on the use of valacyclovir regarding miscarriage or 
 The Acyclovir and the Valacyclovir Pregnancy Registries, both population-based international prospective studies, collected pregnancy data through April 1999.
 The Acyclovir Registry documented outcomes of 1,246 infants and fetuses exposed to acyclovir during pregnancy (756 with earliest exposure during the first trimester, 197 during the second trimester, 291 during the third trimester, and 2 unknown).
 The occurrence of major birth defects during first-trimester exposure to acyclovir was 3.2% (95% CI: 2.0% to 5.0%) and during any trimester of exposure was 2.6% (95% CI: 1.8% to 3.8%).
-The Valacyclovir Pregnancy Registry documented outcomes of 111 infants and fetuses exposed to valacyclovir during pregnancy (28 with earliest exposure in the first trimester, 31 during the second trimester, and 52 during the third trimester).The occurrence of major birth defects during first-trimester exposure to valacyclovir was 4.5% (95% CI: 0.24% to 24.9%) and during any trimester of exposure was 3.9% (95% CI: 1.3% to 10.7%).
+The Valacyclovir Pregnancy Registry documented outcomes of 111 infants and fetuses exposed to valacyclovir during pregnancy (28 with earliest exposure in the first trimester, 31 during the second trimester, and 52 during the third trimester).
+The occurrence of major birth defects during first-trimester exposure to valacyclovir was 4.5% (95% CI: 0.24% to 24.9%) and during any trimester of exposure was 3.9% (95% CI: 1.3% to 10.7%).
 
 Available studies have methodological limitations including insufficient sample size to support conclusions about overall malformation risk or for making comparisons of the frequencies of specific birth defects.
 
@@ -66,11 +67,11 @@ The use of valacyclovir hydrochloride for treatment of chickenpox in pediatric p
 
 The efficacy and safety of valacyclovir have not been established in pediatric patients:
 
-- •aged less than 12 years with cold sores
-- •aged less than 18 years with genital herpes
-- •aged less than 18 years with herpes zoster
-- •aged less than 2 years with chickenpox
-- •for suppressive therapy following neonatal HSV infection.
+- aged less than 12 years with cold sores
+- aged less than 18 years with genital herpes
+- aged less than 18 years with herpes zoster
+- aged less than 2 years with chickenpox
+- for suppressive therapy following neonatal HSV infection.
 
 The pharmacokinetic profile and safety of valacyclovir oral suspension in children aged less than 12 years were studied in 3 open-label trials.
 No efficacy evaluations were conducted in any of the 3 trials.

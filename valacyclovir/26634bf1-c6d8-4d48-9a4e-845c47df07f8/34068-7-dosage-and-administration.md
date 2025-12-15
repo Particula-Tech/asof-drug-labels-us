@@ -1,7 +1,7 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-- •Valacyclovir tablets may be given without regard to meals.
-- •Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) may be prepared extemporaneously from 500 mg valacyclovir tablets for use in pediatric patients for whom a solid dosage form is not appropriate [see Dosage and Administration (2.3)].
+- Valacyclovir tablets may be given without regard to meals.
+- Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) may be prepared extemporaneously from 500 mg valacyclovir tablets for use in pediatric patients for whom a solid dosage form is not appropriate [see Dosage and Administration (2.3)].
 
 ## 2.1 Adult Dosing Recommendations
 
@@ -52,19 +52,19 @@ Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) should be prepared in lots o
 
 Instructions for Preparing Suspension at Time of Dispensing
 
-- •Prepare SSV according to the USP-NF.
-- •Using a pestle and mortar, grind the required number of valacyclovir tablets 500 mg until a fine powder is produced (5 valacyclovir tablets for 25 mg/mL suspension; 10 valacyclovir tablets for 50 mg/mL suspension).
-- •Gradually add approximately 5 mL aliquots of SSV to the mortar and triturate the powder until a paste has been produced.
+- Prepare SSV according to the USP-NF.
+- Using a pestle and mortar, grind the required number of valacyclovir tablets 500 mg until a fine powder is produced (5 valacyclovir tablets for 25 mg/mL suspension; 10 valacyclovir tablets for 50 mg/mL suspension).
+- Gradually add approximately 5 mL aliquots of SSV to the mortar and triturate the powder until a paste has been produced.
   Ensure that the powder has been adequately wetted.
-- •Continue to add approximately 5 mL aliquots of SSV to the mortar, mixing thoroughly between additions, until a concentrated suspension is produced, to a minimum total quantity of 20 mL SSV and a maximum total quantity of 40 mL SSV for both the 25 mg/mL and 50 mg/mL suspensions.
-- •Transfer the mixture to a suitable 100 mL measuring flask.
-- •Transfer the cherry flavor* to the mortar and dissolve in approximately 5 mL of SSV.
+- Continue to add approximately 5 mL aliquots of SSV to the mortar, mixing thoroughly between additions, until a concentrated suspension is produced, to a minimum total quantity of 20 mL SSV and a maximum total quantity of 40 mL SSV for both the 25 mg/mL and 50 mg/mL suspensions.
+- Transfer the mixture to a suitable 100 mL measuring flask.
+- Transfer the cherry flavor* to the mortar and dissolve in approximately 5 mL of SSV.
   Once dissolved, add to the measuring flask.
-- •Rinse the mortar at least 3 times with approximately 5 mL aliquots of SSV, transferring the rinsing to the measuring flask between additions.
-- •Make the suspension to volume (100 mL) with SSV and shake thoroughly to mix.
-- •Transfer the suspension to an amber glass medicine bottle with a child-resistant closure.
-- •The prepared suspension should be labeled with the following information “Shake well before using.
-  Store suspension between 2° to 8° C (36° to 46° F) in a refrigerator.
+- Rinse the mortar at least 3 times with approximately 5 mL aliquots of SSV, transferring the rinsing to the measuring flask between additions.
+- Make the suspension to volume (100 mL) with SSV and shake thoroughly to mix.
+- Transfer the suspension to an amber glass medicine bottle with a child-resistant closure.
+- The prepared suspension should be labeled with the following information “Shake well before using.
+  Store suspension between 2°C to 8° C (36°F to 46° F) in a refrigerator.
   Discard after 28 days.”
 
 *The amount of cherry flavor added is as instructed by the suppliers of the cherry flavor.
@@ -80,7 +80,7 @@ Valacyclovir Tablets Dosage Recommendations for Adults with Renal Impairment
 | Indications | Normal DosageRegimen(Creatinine Clearance ≥ 50 mL/min) | Creatinine Clearance (mL/min) |  |  |
 | --- | --- | --- | --- | --- |
 | 30 to 49 | 10 to 29 | < 10 |  |  |
-| Cold sores (Herpes Labialis)Do not exceed 1 day of treatment. | Two 2 gram doses taken 12 hours apart | Two 1 gram doses taken 12 hours apart | Two 500 mg doses taken 12 hours apart | 500 mg single dose |
+| Cold sores (Herpes Labialis)Do not exceed 1 day of treatment. | Two 2-gram doses taken 12 hours apart | Two 1-gram doses taken 12 hours apart | Two 500-mg doses taken 12 hours apart | 500-mg single dose |
 | Genital herpes: Initial episode | 1 gram every 12 hours | no reduction | 1 gram every 24 hours | 500 mg every 24 hours |
 | Genital herpes: Recurrent episode | 500 mg every 12 hours | no reduction | 500 mg every 24 hours | 500 mg every 24 hours |
 | Genital herpes: Suppressive therapy |  |  |  |  |
