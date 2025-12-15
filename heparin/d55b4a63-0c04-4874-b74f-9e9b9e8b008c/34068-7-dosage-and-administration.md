@@ -45,7 +45,7 @@ Although dosage must be adjusted for the individual patient according to the res
 
 ## Pediatric Use
 
-Use preservative-free HEPARIN SODIUM INJECTION in neonates and infants (see WARNINGS, Benzyl Alcohol Toxicityand PRECAUTIONS, Pediatric Use).
+Use preservative-free HEPARIN SODIUM INJECTION in neonates and infants (see WARNINGS, Benzyl Alcohol Toxicity and PRECAUTIONS, Pediatric Use).
 
 There are no adequate and well-controlled studies on heparin use in pediatric patients.
 Pediatric dosing recommendations are based on clinical experience.
