@@ -35,7 +35,7 @@ The specific adverse reactions leading to discontinuation in at least 1% of the 
 
 Table 3: Treatment Discontinuation Due to Adverse Reactions in Placebo-Controlled Trials in MDD
 
-| Adverse Reaction Term | Placebo (n=385) | Bupropion HCl Sustained-Release 300 mg/dayEquivalent to 348 mg/day bupropion HBr (n=376) | Bupropion HCl Sustained-Release 400 mg/dayEquivalent to 464 mg/day bupropion HBr (n=114) |
+| Adverse Reaction Term | Placebo (n=385) | Bupropion HCl Sustained-Release 300 mg/dayEquivalent to 348 mg/day bupropion HBr(n=376) | Bupropion HCl Sustained-Release 400 mg/dayEquivalent to 464 mg/day bupropion HBr (n=114) |
 | --- | --- | --- | --- |
 | Rash | 0.0% | 2.4% | 0.9% |
 | Nausea | 0.3% | 0.8% | 1.8% |
@@ -61,7 +61,7 @@ Table 4: Adverse Reactions in Placebo-Controlled Trials in Patients with MDD
 | Asthenia | 2% | 2% | 4% |
 | Chest pain | 1% | 3% | 4% |
 | Pain | 2% | 2% | 3% |
-| Fever | —Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients. | 1% | 2% |
+| Fever | —Hyphen denotes adverse reactions occurring in greater than 0 but less than 0.5% of patients | 1% | 2% |
 | Cardiovascular |  |  |  |
 | Palpitation | 2% | 2% | 6% |
 | Flushing | — | 1% | 4% |
