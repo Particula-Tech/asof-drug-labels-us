@@ -55,3 +55,7 @@ Hypotension, palpitations.
 Neurological
 
 Dystonia, tremor.
+
+Reproductive System and Breast Disorders
+
+Breast pain [see Use in Specific Populations (8.2)].
