@@ -83,9 +83,9 @@ Table 15: Subset Analyses-Adjuvant Breast Cancer Study
 | Patient subset | Number of patients | Hazard ratio* | 95% CI | Hazard ratio* | 95% CI |
 | --- | --- | --- | --- | --- | --- |
 |  |  | Disease Free Survival |  | Overall Survival |  |
-| No. of positive nodes Overall 1 to 3 4+ | 744 467 277 | 0.74 0.64 0.84 | (0.60, 0.92) (0.47, 0.87) (0.63, 1.12) | 0.69 0.45 0.93 | (0.53, 0.90) (0.29, 0.70) (0.66, 1.32) |
+| No. of positive nodes Overall 1 - 3 4+ | 744 467 277 | 0.74 0.64 0.84 | (0.60, 0.92) (0.47, 0.87) (0.63, 1.12) | 0.69 0.45 0.93 | (0.53, 0.90) (0.29, 0.70) (0.66, 1.32) |
 | Receptor status Positive Negative | 566 178 | 0.76 0.68 | (0.59, 0.98) (0.48, 0.97) | 0.69 0.66 | (0.48, 0.99) (0.44, 0.98) |
-| * A hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC. |  |  |  |  |  |
+| * a hazard ratio of less than 1 indicates that TAC is associated with a longer disease free survival or overall survival compared to FAC. |  |  |  |  |  |
 
 ## 14.3 Non-small Cell Lung Cancer (NSCLC)
 

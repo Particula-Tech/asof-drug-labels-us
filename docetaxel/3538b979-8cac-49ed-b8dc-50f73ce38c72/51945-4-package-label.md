@@ -16,6 +16,8 @@ Warning: Hazardous Drug
 
 BEIZRAY (docetaxel) Injection, 80 mg/4 mL -Vial Label
 
+BEIZRAY (docetaxel) Injection, 20 mg/mL -Vial Label
+
 BEIZRAY (docetaxel) Injection, 80 mg Kit -Carton Label
 
 Each kit Contains:
@@ -35,3 +37,7 @@ Each kit Contains:
 BEIZRAY (docetaxel) Injection, 80 mg single-dose vial -Carton Label
 
 Contains One 4 mL Single-dose vial of Beizray (docetaxel) Injection only
+
+BEIZRAY (docetaxel) Injection, 20 mg single-dose vial -Carton Label
+
+Contains One 1 mL Single-dose vial of Beizray (docetaxel) Injection only

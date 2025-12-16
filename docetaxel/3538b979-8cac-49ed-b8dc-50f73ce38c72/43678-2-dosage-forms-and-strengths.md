@@ -15,3 +15,4 @@ BEIZRAY 160 mg kit consisting of the following:
 BEIZRAY carton containing one single-dose vial:
 
 - 80 mg/4 mL
+- 20 mg/mL
