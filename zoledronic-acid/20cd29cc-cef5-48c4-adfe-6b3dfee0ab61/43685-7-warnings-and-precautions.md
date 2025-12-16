@@ -79,7 +79,7 @@ Only limited clinical data are available for use of zoledronic acid to treat hyp
 
 Hypocalcemia has been reported in patients treated with zoledronic acid.
 Cardiac arrhythmias and neurologic adverse events (seizures, tetany, and numbness) have been reported secondary to cases of severe hypocalcemia.
-In some instances, hypocalcemia may be life-threatening.
+In some instances, hypocalcemia may be lifethreatening.
 Caution is advised when zoledronic acid is administered with drugs known to cause hypocalcemia, as severe hypocalcemia may develop [see Drug Interactions (7)].
 Serum calcium should be measured and hypocalcemia must be corrected before initiating zoledronic acid.
 Adequately supplement patients with calcium and vitamin D.

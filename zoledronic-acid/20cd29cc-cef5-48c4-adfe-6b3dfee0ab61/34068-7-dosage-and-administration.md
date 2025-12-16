@@ -1,6 +1,8 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
+Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and
+
+container permit.
 
 ## 2.1 Hypercalcemia of Malignancy
 
@@ -33,20 +35,19 @@ CrCl is calculated using the Cockcroft-Gault formula [see Warnings and Precautio
 
 Table 1: Reduced Doses for Patients With Baseline CrCl Less Than or Equal to 60 mL/min
 
-| Baseline Creatinine Clearance(mL/min) | Zoledronic Acid Injection Recommended Dose(mg)* |
+| Baseline Creatinine Clearance (mL/min) | Zoledronic Acid Injection Recommended Dose (mg)*Doses calculated assuming target AUC of 0.66 (mg•hr/L) (CrCl=75 mL/min) |
 | --- | --- |
 | greater than 60 | 4 |
 | 50 to 60 | 3.5 |
 | 40 to 49 | 3.3 |
 | 30 to 39 | 3 |
 
-*Doses calculated assuming target AUC of 0.66 (mg•hr/L) (CrCl=75 mL/min)
-
 During treatment, serum creatinine should be measured before each zoledronic acid injection dose and treatment should be withheld for renal deterioration.
 In the clinical studies, renal deterioration was defined as follows:
 
-1. For patients with normal baseline creatinine, increase of 0.5 mg/dL
-2. For patients with abnormal baseline creatinine, increase of 1 mg/dL
+For patients with normal baseline creatinine, increase of 0.5 mg/dL
+
+For patients with abnormal baseline creatinine, increase of 1 mg/dL
 
 In the clinical studies, zoledronic acid injection treatment was resumed only when the creatinine returned to within 10% of the baseline value.
 Zoledronic acid injection should be reinitiated at the same dose as that prior to treatment interruption.
@@ -65,9 +66,9 @@ Do not store undiluted zoledronic acid injection (4 mg/5 mL) in a syringe, to av
 
 To prepare reduced doses for patients with baseline CrCl less than or equal to 60 mL/min, withdraw the specified volume of the zoledronic acid injection (4 mg/5 mL) from the vial for the dose required (see Table 3).
 
-Table 3: Preparation of Reduced Doses–Zoledronic Acid Injection 4 mg/5 mL Single-Dose Vial for Dilution
+Table 3: Preparation of Reduced Doses - Zoledronic Acid Injection 4 mg/5 mL Single-Dose Vial for Dilution
 
-| Remove and Use Zoledronic Acid InjectionVolume (mL) | Dose(mg) |
+| Remove and Use Zoledronic Acid Injection Volume (mL) | Dose (mg) |
 | --- | --- |
 | 4.4 | 3.5 |
 | 4.1 | 3.3 |

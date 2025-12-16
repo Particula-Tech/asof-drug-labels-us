@@ -37,7 +37,7 @@ Embryo-Fetal Toxicity
 
 - •Zoledronic acid injection should not be given if the patient is pregnant or plans to become pregnant.
   Inform female patients of the risk to a fetus and potential loss of the pregnancy [see Warnings and Precautions (5.10)].
-- •Advise females of reproductive potential to use effective contraception during and after treatment with zoledronic acid injection [see Warnings and Precautions (5.10), Use in Specific Populations (8.1,8.3)].
+- •Advise females of reproductive potential to use effective contraception during and after treatment with zoledronic acid injection [see Warnings and Precautions (5.10), Use in Specific Populations (8.1, 8.3)].
 
 Lactation
 
@@ -49,16 +49,12 @@ Advise patients that the most common side effects of zoledronic acid injection a
 
 Reclast® is a registered trademark of Novartis.
 
-Manufactured for:
+Manufactured for: Mylan Institutional LLC Morgantown, WV 26505 U.S.A.
 
-Mylan Institutional LLC
+Manufactured by: Mylan Laboratories Limited Bangalore, India
 
-Morgantown, WV 26505 U.S.A.
+Code No.: KR/DRUGS/KTK/28/384/2009
 
-Manufactured by:
+OCTOBER 2023
 
-Mylan Laboratories Limited
-
-Bangalore, India
-
-JUNE 2022
+1034646

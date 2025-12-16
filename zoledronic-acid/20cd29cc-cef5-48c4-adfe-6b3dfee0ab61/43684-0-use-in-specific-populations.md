@@ -2,7 +2,7 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary
+### Risk Summary
 
 Based on findings from animal studies and its mechanism of action, zoledronic acid can cause fetal harm when administered to a pregnant woman [see Clinical Pharmacology (12.1)].
 There are no available data in pregnant women to inform the drug-associated risk.
@@ -13,9 +13,9 @@ Advise pregnant women and females of reproductive potential of the potential ris
 
 The background risk of major birth defects and miscarriage for the indicated population is unknown; however, in the U.S. general population, the estimated background risk of major birth defects is 2% to 4% and of miscarriage is 15% to 20% of clinically recognized pregnancies.
 
-Data
+### Data
 
-Animal Data
+#### Animal Data
 
 In female rats given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day beginning 15 days before mating and continuing through gestation, the number of stillbirths was increased and survival of neonates was decreased in the mid- and high-dose groups (greater than or equal to 0.2 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
 Adverse maternal effects were observed in all dose groups (with a systemic exposure of greater than or equal to 0.07 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison) and included dystocia and periparturient mortality in pregnant rats allowed to deliver.
@@ -23,10 +23,12 @@ Maternal mortality may have been related to drug-induced inhibition of skeletal 
 This appears to be a bisphosphonate-class effect.
 
 In pregnant rats given a subcutaneous dose of zoledronic acid of 0.1, 0.2, or 0.4 mg/kg/day during gestation, adverse fetal effects were observed in the mid- and high-dose groups (with systemic exposures of 2.4 and 4.8 times, respectively, the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
-These adverse effects included increases in pre- and post-implantation losses, decreases in viable fetuses, and fetal skeletal, visceral, and external malformations.
+These adverse effects included increases in pre- and postimplantation losses, decreases in viable fetuses, and fetal skeletal, visceral, and external malformations.
 Fetal skeletal effects observed in the high-dose group included unossified or incompletely ossified bones, thickened, curved, or shortened bones, wavy ribs, and shortened jaw.
 Other adverse fetal effects observed in the high-dose group included reduced lens, rudimentary cerebellum, reduction or absence of liver lobes, reduction of lung lobes, vessel dilation, cleft palate, and edema.
-Skeletal variations were also observed in the low-dose group at 0.1 mg/kg/day (with systemic exposure of 1.2 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC comparison).
+Skeletal variations were also observed in the low-dose group at 0.1 mg/kg/day (with systemic exposure of 1.2 times the human systemic exposure following an intravenous dose of 4 mg, based on an AUC
+
+comparison).
 Signs of maternal toxicity were observed in the high-dose group and included reduced body weights and food consumption, indicating that maximal exposure levels were achieved in this study.
 
 In pregnant rabbits given subcutaneous doses of zoledronic acid of 0.01, 0.03, or 0.1 mg/kg/day during gestation (less than or equal to 0.5 times the human intravenous dose of 4 mg, based on a comparison of relative body surface areas), no adverse fetal effects were observed.
@@ -35,7 +37,7 @@ Adverse maternal effects were associated with, and may have been caused by, drug
 
 ## 8.2 Lactation
 
-Risk Summary
+### Risk Summary
 
 After administration of zoledronic acid, it is not known whether zoledronic acid is present in human milk, or whether it affects milk production or the breastfed child.
 Zoledronic acid binds to bone long term and may be released over periods of weeks to years.
@@ -43,21 +45,21 @@ Because of the potential for serious adverse reactions in a breastfed child, adv
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Pregnancy Testing
+### Pregnancy Testing
 
 Verify pregnancy status of females of reproductive potential prior to initiation of zoledronic acid.
 
-Contraception
+### Contraception
 
-Females
+#### Females
 
 Zoledronic acid can cause fetal harm when administered to a pregnant woman [see Use in Specific Populations (8.1)].
 Zoledronic acid binds to bone long term and may be released over periods of weeks to years.
 Advise females of reproductive potential to use effective contraception during and after zoledronic acid treatment.
 
-Infertility
+### Infertility
 
-Females
+#### Females
 
 Based on animal studies, zoledronic acid may impair fertility in females of reproductive potential [see Nonclinical Toxicology (13.1)].
 
