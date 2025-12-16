@@ -33,7 +33,8 @@ Advise patients to notify their healthcare provider if they become pregnant duri
 
 Lactation
 
-Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
+Advise breastfeeding women that they may develop transient breast pain when taking IMITREX.
+Advise breastfeeding women that avoiding breastfeeding for 12 hours after treatment with IMITREX can minimize their infant’s exposure to sumatriptan [see Use in Specific Populations (8.2)].
 
 Ability to Perform Complex Tasks
 
@@ -55,6 +56,6 @@ The maker of this brand is not affiliated with and does not endorse the GSK grou
 
 GlaxoSmithKline Durham, NC 27701
 
-©2023 GSK group of companies or its licensor.
+©2025 GSK group of companies or its licensor.
 
-IMJ:12PI
+IMJ:13PI

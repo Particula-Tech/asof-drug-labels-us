@@ -48,18 +48,15 @@ The highest no-effect dose for this finding was 100 mg/kg/day.
 
 Risk Summary
 
-Sumatriptan is excreted in human milk following subcutaneous administration (see Data).
+Sumatriptan is excreted in human milk following subcutaneous administration.
 There are no data on the effects of sumatriptan on the breastfed infant or the effects of sumatriptan on milk production.
+Use of sumatriptan may be associated with transient breast pain [see Adverse Reactions (6.2)].
 
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for IMITREX injection and any potential adverse effects on the breastfed infant from sumatriptan or from the underlying maternal condition.
 
 Clinical Considerations
 
 Infant exposure to sumatriptan can be minimized by avoiding breastfeeding for 12 hours after treatment with IMITREX injection.
-
-Data
-
-Following subcutaneous administration of a 6-mg dose of IMITREX injection in 5 lactating volunteers, sumatriptan was present in milk.
 
 ## 8.4 Pediatric Use
 
