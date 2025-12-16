@@ -16,6 +16,7 @@ Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+Avoid excessive humidity.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
@@ -23,7 +24,7 @@ Made in India
 
 Mylan.com
 
-RMX6060A1
+RMX6060A2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -49,6 +50,7 @@ Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+Avoid excessive humidity.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
@@ -56,7 +58,7 @@ Made in India
 
 Mylan.com
 
-RMX6090A1
+RMX6090A2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
@@ -82,6 +84,7 @@ Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
 [See USP Controlled Room Temperature.]
+Avoid excessive humidity.
 
 Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
@@ -89,7 +92,7 @@ Made in India
 
 Mylan.com
 
-RMX6120A1
+RMX6120A2
 
 Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 

@@ -30,6 +30,8 @@ Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
 
 Manufactured by: Mylan Laboratories Limited Hyderabad — 500 096, India
 
-75106328
+Revised: 11/2025
 
-Revised: 9/2024 MX:DILER:R3
+75XXXXXX
+
+MX:DILER:R4
