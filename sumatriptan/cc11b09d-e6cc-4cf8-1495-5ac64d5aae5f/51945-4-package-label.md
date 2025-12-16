@@ -28,9 +28,8 @@ Made in India
 
 ©2019 GSK group of companies or licensor.
 
-1. 62000000046138 Rev.
-   1/20
-2. 
+- 62000000046138 Rev.
+  1/20
 
 PRINCIPAL DISPLAY PANEL
 
@@ -62,6 +61,5 @@ Made in India
 
 ©2019 GSK group of companies or licensor.
 
-1. 62000000046139 Rev.
-   1/20
-2. 
+- 62000000046139 Rev.
+  1/20

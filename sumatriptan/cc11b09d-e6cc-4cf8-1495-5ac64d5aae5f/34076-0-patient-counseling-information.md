@@ -1,6 +1,6 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Patient Information).
+Advise the patient to read the FDA-approved patient labeling (Patient Information and Instructions for Use).
 
 Risk of Myocardial Ischemia and/or Infarction, Prinzmetal’s Angina, Other Vasospasm-Related Events, Arrhythmias, and Cerebrovascular Events
 
@@ -32,7 +32,8 @@ Advise patients to notify their healthcare provider if they become pregnant duri
 
 Lactation
 
-Advise patients to notify their healthcare provider if they are breastfeeding or plan to breastfeed [see Use in Specific Populations (8.2)].
+Advise breastfeeding women that they may develop transient breast pain when taking IMITREX.
+Advise breastfeeding women that avoiding breastfeeding for 12 hours after treatment with IMITREX can minimize their infant’s exposure to sumatriptan [see Use in Specific Populations (8.2)].
 
 Ability to Perform Complex Tasks
 
@@ -48,10 +49,12 @@ How to Use IMITREX Nasal Spray
 Provide patients instruction on the proper use of IMITREX nasal spray.
 Caution patients to avoid spraying the contents of the device in their eyes.
 
-Trademarks are owned by or licensed to the GSK group of companies.
+IMITREX is a trademark owned by or licensed to the GSK group of companies.
+The other brand listed is a trademark owned by or licensed to its owner and is not owned by or licensed to the GSK group of companies.
+The maker of this brand is not affiliated with and does not endorse the GSK group of companies or its products.
 
 GlaxoSmithKline Durham, NC 27701
 
-©2024 GSK group of companies or its licensor.
+©2025 GSK group of companies or its licensor.
 
-IMN:6PI
+IMN:7PI
