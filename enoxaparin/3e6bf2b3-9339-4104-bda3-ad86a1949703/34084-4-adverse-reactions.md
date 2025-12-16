@@ -4,8 +4,6 @@ The following serious adverse reactions are also discussed in other sections of 
 
 ## 6.1 Clinical Trials Experience
 
-The following serious adverse reactions are also discussed in other sections of the labeling: • Spinal/epidural hematoma [see Boxed Warning and Warnings and Precautions (5.1)] • Increased Risk of Hemorrhage [see Warnings and Precautions (5.1)] • Thrombocytopenia [see Warnings and Precautions (5.5)]
-
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical practice.
 During clinical development for the approved indications, 15,918 patients were exposed to Enoxaparin Sodium Injection.
 These included 1,228 for prophylaxis of deep vein thrombosis following abdominal surgery in patients at risk for thromboembolic complications, 1,368 for prophylaxis of deep vein thrombosis following hip or knee replacement surgery, 711 for prophylaxis of deep vein thrombosis in medical patients with severely restricted mobility during acute illness, 1,578 for prophylaxis of ischemic complications in unstable angina and non-Q-wave myocardial infarction, 10,176 for treatment of acute ST-elevation myocardial infarction, and 857 for treatment of deep vein thrombosis with or without pulmonary embolism.
@@ -16,43 +14,39 @@ Hemorrhage
 
 The following rates of major bleeding events have been reported during clinical trials with Enoxaparin Sodium Injection (see Tables 2 to 7).
 
-| 40 mg daily subcutaneously | 5000 U q8h subcutaneously |  |
+| Table 2 Major Bleeding Episodes Following Abdominal and Colorectal SurgeryBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products. Retroperitoneal, intraocular, and intracranial hemorrhages were always considered major. |  |  |
 | --- | --- | --- |
-| Table 2 Major Bleeding Episodes Following Abdominal and Colorectal SurgeryBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease 2 g/dL or transfusion of 2 or more units of blood products. Retroperitoneal, intraocular, and intracranial hemorrhages were always considered major. |  |  |
-| Indications | Dosing Regimen |  |
-| Enoxaparin Sodium Injection | Heparin |  |
-| Abdominal Surgery | n=555 | n=560 |
-|  | 23 (4%) | 16 (3%) |
-| Colorectal Surgery | n=673 | n=674 |
-|  | 28 (4%) | 21 (3%) |
+|  | Dosing Regimen |  |
+| Indications | Enoxaparin Sodium Injection40 mg daily subcutaneously | Heparin5000 U q8h subcutaneously |
+| Abdominal Surgery | n=55523 (4%) | n=56016 (3%) |
+| Colorectal Surgery | n=673 28 (4%) | n=67421 (3%) |
 
-Table 3 Major Bleeding Episodes Following Hip or Knee Replacement SurgeryBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease 2 g/dL or transfusion of 2 or more units of blood products.
+Table 3 Major Bleeding Episodes Following Hip or Knee Replacement SurgeryBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products.
 Retroperitoneal and intracranial hemorrhages were always considered major.
-In the knee replacement surgery trials, intraocular hemorrhages were also considered major hemorrhages.
+In the knee replacement surgery trials, Intraocular hemorrhages were also considered major hemorrhages.
 
-| Indications | Enoxaparin Sodium Injection 40 mg dailysubcutaneously | Enoxaparin Sodium Injection 30 mg q12hsubcutaneously | Heparin 15,000 U/24h subcutaneously |
-| --- | --- | --- | --- |
 |  | Dosing Regimen |  |  |
+| --- | --- | --- | --- |
+| Indications | Enoxaparin Sodium Injection40 mg dailysubcutaneously | Enoxaparin Sodium Injection30 mg q12hsubcutaneously | Heparin15,000 U/24hsubcutaneously |
 | Hip Replacement Surgery without Extended ProphylaxisEnoxaparin Sodium Injection 30 mg every 12 hours subcutaneously initiated 12 to 24 hours after surgery and continued for up to 14 days after surgery. | - | n = 786 31 (4%) | n = 541 32 (6%) |
 | Hip Replacement Surgery with Extended Prophylaxis | - | - | - |
-| Peri-operative PeriodEnoxaparin Sodium Injection 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery and continued for up to 7 days after surgery. | n = 288 | - | - |
-|  | 4 (2%) |  |  |
+| Peri-operative PeriodEnoxaparin Sodium Injection 40 mg subcutaneously once a day initiated up to 12 hours prior to surgery and continued for up to 7 days after surgery. | n = 2884 (2%) | - | - |
 | Extended Prophylaxis PeriodEnoxaparin Sodium Injection 40 mg subcutaneously once a day for up to 21 days after discharge. | n = 221 0 (0%) | - | - |
 | Knee Replacement Surgery without Extended Prophylaxis | - | n = 294 3 (1%) | n = 225 3 (1%) |
+| Knee Replacement Surgery without Extended Prophylaxis† | - | n = 294 3 (1%) | n = 225 3 (1%) |
 
 NOTE: At no time point were the 40 mg once a day pre-operative and the 30 mg every 12 hours postoperative hip replacement surgery prophylactic regimens compared in clinical trials.
-Injection site hematomas during the extended prophylaxis period after hip replacement surgery occurred in 9% of the Lovenox patients versus 1.8% of the placebo patients.
+Injection site hematomas during the extended prophylaxis period after hip replacement surgery occurred in 9% of the Enoxaparin Sodium Injection patients versus 1.8% of the placebo patients.
 
 Table 4 Major Bleeding Episodes in Medical Patients with Severely Restricted Mobility During Acute IllnessBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, (2) if the hemorrhage caused a decrease in hemoglobin of 2 g/dL or transfusion of 2 or more units of blood products.
 Retroperitoneal and intracranial hemorrhages were always considered major although none were reported during the trial.
 
-| 20 mg daily subcutaneously | 40 mg daily subcutaneously |  |  |
-| --- | --- | --- | --- |
 |  | Dosing Regimen |  |  |
-| Indications | Enoxaparin Sodium InjectionThe rates represent major bleeding on study medication up to 24 hours after last dose. | Enoxaparin Sodium Injection† | Placebo† |
+| --- | --- | --- | --- |
+| Indications | Enoxaparin Sodium InjectionThe rates represent major bleeding on study medication up to 24 hours after last dose.20 mg daily subcutaneously | Enoxaparin SodiumInjection†40 mg daily subcutaneously | Placebo† |
 | Medical Patients During Acute Illness | n = 351 1 (<1%) | n = 360 3 (<1%) | n = 362 2 (<1%) |
 
-Table 5 Major Bleeding Episodes in Deep Vein Thrombosis with or without Pulmonary Embolism TreatmentBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease 2 g/dL or transfusion of 2 or more units of blood products.
+Table 5 Major Bleeding Episodes in Deep Vein Thrombosis with or without Pulmonary Embolism TreatmentBleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease ≥2 g/dL or transfusion of 2 or more units of blood products.
 Retroperitoneal, intraocular, and intracranial hemorrhages were always considered major.
 
 | Indication | Enoxaparin Sodium Injection 1.5 mg/kg daily subcutaneously | Enoxaparin Sodium Injection 1 mg/kg q12h subcutaneously | Heparin aPTT AdjustedIntravenous Therapy |
@@ -62,19 +56,18 @@ Retroperitoneal, intraocular, and intracranial hemorrhages were always considere
 
 Table 6 Major Bleeding Episodes in Unstable Angina and Non-Q-Wave Myocardial Infarction
 
-| Indication | Enoxaparin Sodium InjectionThe rates represent major bleeding on study medication up to 12 hours after dose. 1 mg/kg q12h subcutaneously | Heparin* aPTT Adjusted Intravenous Therapy |
+| Indications | Enoxaparin Sodium InjectionThe rates represent major bleeding on study medication up to 12 hours after dose.1 mg/kg q12h subcutaneously | Heparin*aPTT Adjusted Intravenous Therapy |
 | --- | --- | --- |
 |  | Dosing Regimen |  |
-| Unstable Angina and Non-Q-Wave MI Aspirin therapy was administered concurrently (100 to 325 mg per day).Bleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease by 3 g/dL or transfusion of 2 or more units of blood products. Intraocular, retroperitoneal, and intracranial hemorrhages were always considered major. | n = 1578 17 (1%) | n = 1529 18 (1%) |
+| Unstable Angina and Non-Q-Wave MI Aspirin therapy was administered concurrently (100 to 325 mg per day).Bleeding complications were considered major: (1) if the hemorrhage caused a significant clinical event, or (2) if accompanied by a hemoglobin decrease by ≥3 g/dL or transfusion of 2 or more units of blood products. Intraocular, retroperitoneal, and intracranial hemorrhages were always considered major. | n = 1578 17 (1%) | n = 1529 18 (1%) |
 
 Table 7 Major Bleeding Episodes in Acute ST-Segment Elevation Myocardial Infarction
 
-| Indication | Enoxaparin Sodium InjectionThe rates represent major bleeding (including ICH) up to 30 days Initial 30 mg intravenous bolus followed by 1 mg/kg q12h subcutaneously | Heparin* ​aPTT Adjusted Intravenous Therapy |
-| --- | --- | --- |
 |  | Dosing Regimen |  |
-| Acute ST-Segment Elevation | n = 10176 | n = 10151 |
-| Myocardial Infarction | n (%) | n (%) |
-| Major bleeding (including ICH)Bleedings were considered major if the hemorrhage caused a significant clinical event associated with hemoglobin decrease by ≥ 5 g/dL. ICH were always considered major. | 211 (2.1) | 138 (1.4) |
+| --- | --- | --- |
+| Indication | Enoxaparin Sodium InjectionThe rates represent major bleeding (including ICH) up to 30 daysInitial 30 mg intravenous bolus followed by 1 mg/kg q12h subcutaneously | Heparin*aPTT Adjusted Intravenous Therapy |
+| Acute ST-Segment Elevation Myocardial Infarction | n = 10176n (%) | n = 10151n (%) |
+| Major bleeding (including ICH)Bleedings were considered major if the hemorrhage caused a significant clinical event associated with hemoglobin decrease by ≥5 g/dL. ICH were always considered major. | 211 (2.1) | 138 (1.4) |
 | Intracranial hemorrhages (ICH) | 84 (0.8) | 66 (0.7) |
 
 Elevations of Serum Aminotransferases Asymptomatic increases in aspartate (AST [SGOT]) and alanine (ALT [SGPT]) aminotransferase levels greater than three times the upper limit of normal of the laboratory reference range have been reported in up to 6.1% and 5.9% of patients, respectively, during treatment with Enoxaparin Sodium Injection.
@@ -82,14 +75,16 @@ Since aminotransferase determinations are important in the differential diagnosi
 
 Local Reactions Local irritation, pain, hematoma, ecchymosis, and erythema may follow subcutaneous injection of Enoxaparin Sodium Injection.
 
-Adverse Reactions in Patients Receiving Enoxaparin Sodium Injection for Prophylaxis or Treatment of DVT, PE Other adverse reactions that were thought to be possibly or probably related to treatment with Enoxaparin Sodium Injection, heparin, or placebo in clinical trials with patients undergoing hip or knee replacement surgery, abdominal or colorectal surgery, or treatment for DVT and that occurred at a rate of at least 2% in the Enoxaparin Sodium Injection group, are provided below (see Tables 8 to 11).
+Adverse Reactions in Patients Receiving Enoxaparin Sodium Injection for Prophylaxis or Treatment of DVT, PE
+
+Other adverse reactions that were thought to be possibly or probably related to treatment with Enoxaparin Sodium Injection, heparin, or placebo in clinical trials with patients undergoing hip or knee replacement surgery, abdominal or colorectal surgery, or treatment for DVT and that occurred at a rate of at least 2% in the Enoxaparin Sodium Injection group, are provided below (see Tables 8 to 11).
 
 Table 8 Adverse Reactions Occurring at 2% Incidence in Enoxaparin Sodium Injection-Treated Patients Undergoing Abdominal or Colorectal Surgery
 
-| Adverse Reaction | Severe | Total | Severe | Total |
-| --- | --- | --- | --- | --- |
 |  | Dosing Regimen |  |  |  |
+| --- | --- | --- | --- | --- |
 |  | Enoxaparin Sodium Injection 40 mg daily subcutaneously n = 1228 % |  | Heparin 5000 U q8h subcutaneously n = 1234 % |  |
+| Adverse Reaction | Severe | Total | Severe | Total |
 | Hemorrhage | <1 | 7 | <1 | 6 |
 | Anemia | <1 | 3 | <1 | 3 |
 | Ecchymosis | 0 | 3 | 0 | 3 |
@@ -109,9 +104,9 @@ Table 9 Adverse Reactions Occurring at 2% Incidence in Enoxaparin Sodium Injecti
 | Edema | - | - | - | - | <1 | 2 | <1 | 2 | 0 | 2 |
 | Peripheral edema | 0 | 6 | 0 | 0 | <1 | 3 | <1 | 4 | 0 | 3 |
 
-Table 10 Adverse Reactions Occurring at ≥2% Incidence in Enoxaparin Sodium Injection-Treated Medical Patients with Severely Restricted Mobility During Acute Illness
+Table 10 Adverse Reactions Occurring at 2% Incidence in Enoxaparin Sodium Injection-Treated Medical Patients with Severely Restricted Mobility During Acute Illness
 
-| Enoxaparin Sodium Inj. 40 mg daily subcutaneously n = 360 % | Placebo daily subcutaneously n = 362 % |  |
+| Enoxaparin Sodium Injection 40 mg daily subcutaneously n = 360 % | Placebo daily subcutaneously n = 362 % |  |
 | --- | --- | --- |
 | Adverse Reaction | Dosing Regimen |  |
 | Dyspnea | 3.3 | 5.2 |
@@ -120,7 +115,7 @@ Table 10 Adverse Reactions Occurring at ≥2% Incidence in Enoxaparin Sodium Inj
 | Diarrhea | 2.2 | 1.7 |
 | Nausea | 2.5 | 1.7 |
 
-Table 11 Adverse Reactions Occurring at ≥2% Incidence in Enoxaparin Sodium Injection-Treated Patients Undergoing Treatment of Deep Vein Thrombosis with or without Pulmonary Embolism
+Table 11 Adverse Reactions Occurring at 2% Incidence in Enoxaparin Sodium Injection-Treated Patients Undergoing Treatment of Deep Vein Thrombosis with or without Pulmonary Embolism
 
 | Severe | Total | Severe | Total | Severe | Total |  |
 | --- | --- | --- | --- | --- | --- | --- |

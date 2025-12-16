@@ -35,13 +35,17 @@ Storing Enoxaparin Sodium Injection prefilled syringes:
 
 Parts of Enoxaparin Sodium Injection prefilled syringe:
 
-Preparing to inject Enoxaparin Sodium Injection:Step 1: Gather the following supplies for your injection (see Figure A):
+Preparing to inject Enoxaparin Sodium Injection:
+
+Step 1: Gather the following supplies for your injection (see Figure A):
 
 - 1 Enoxaparin Sodium Injection prefilled syringe
 - 1 alcohol wipe*
 - 1 cotton ball or gauze*
 - a small adhesive bandage, if needed*
-- a sharps disposal container* (see Step 13) *Items not included.
+- a sharps disposal container* (see Step 13)
+
+*Items not included.
 
 Figure A
 
@@ -63,7 +67,10 @@ Figure B
 
 Step 4: Check the Enoxaparin Sodium Injection prefilled syringe
 
-- When you receive your Enoxaparin Sodium Injection syringes, always check to see that: o you have the correct medicine and dose. o the expiration date on the prefilled syringe has not passed (see Figure C).
+- When you receive your Enoxaparin Sodium Injection syringes, always check to see that:
+
+o you have the correct medicine and dose. o the expiration date on the prefilled syringe has not passed (see Figure C).
+
 - Do not use the Enoxaparin Sodium Injection prefilled syringe if the expiration date has passed.
 
 Figure C
@@ -72,7 +79,7 @@ Step 5: Check the medicine
 
 - Look at the medicine inside the Enoxaparin Sodium Injection prefilled syringe:
 
-o The liquid should be clear and colorless to pale yellow (see Figure D). o Note: You may see air bubble(s), this is normal.
+o The liquid should be clear and colorless to pale yellow (see Figure D).o Note: You may see air bubble(s), this is normal.
 Do not try to remove any air bubbles.
 
 - Do not use the Enoxaparin Sodium Injection prefilled syringe if the liquid is discolored or cloudy, or if it contains visible flakes or particles.
@@ -165,9 +172,9 @@ For more information about safe sharps disposal, and for specific information ab
 
 Figure N
 
-Amphastar Pharmaceuticals, Inc.Rancho Cucamonga, CA 91730 U.S.A.
+Amphastar Pharmaceuticals, Inc.
 
-Rev.
+Rancho Cucamonga, CA 91730 U.S.A. Rev.
 09/22 6756016B/9-22
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.

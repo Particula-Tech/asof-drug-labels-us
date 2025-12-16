@@ -4,7 +4,7 @@
 
 Cases of epidural or spinal hemorrhage and subsequent hematomas have been reported with the use of Enoxaparin Sodium Injection and epidural or spinal anesthesia/analgesia or spinal puncture procedures, resulting in long-term or permanent paralysis.
 The risk of these events is higher with the use of postoperative indwelling epidural catheters, with the concomitant use of additional drugs affecting hemostasis such as NSAIDs, with traumatic or repeated epidural or spinal puncture, or in patients with a history of spinal surgery or spinal deformity [see Boxed Warning, Adverse Reactions (6.2) and Drug Interactions (7)].
-To reduce the potential risk of bleeding associated with the concurrent use of Enoxaparin Sodium Injection and epidural or spinal anesthesia/ analgesia or spinal puncture, consider the pharmacokinetic profile of Enoxaparin Sodium Injection [see Clinical Pharmacology (12.3)].
+To reduce the potential risk of bleeding associated with the concurrent use of Enoxaparin Sodium Injection and epidural or spinal anesthesia/analgesia or spinal puncture, consider the pharmacokinetic profile of Enoxaparin Sodium Injection [see Clinical Pharmacology (12.3)].
 Placement or removal of an epidural catheter or lumbar puncture is best performed when the anticoagulant effect of Enoxaparin Sodium Injection is low; however, the exact timing to reach a sufficiently low anticoagulant effect in each patient is not known.
 Placement or removal of a catheter should be delayed for at least 12 hours after administration of lower doses (30 mg once or twice-daily or 40 mg once daily) of Enoxaparin Sodium Injection, and at least 24 hours after the administration of higher doses (0.75 mg/kg twice daily, 1 mg/kg twice daily, or 1.5 mg/kg once daily) of Enoxaparin Sodium Injection.
 Anti-Xa levels are still detectable at these time points, and these delays are not a guarantee that neuraxial hematoma will be avoided.
@@ -24,7 +24,7 @@ An unexplained fall in hematocrit or blood pressure should lead to a search for 
 
 To minimize the risk of bleeding following the vascular instrumentation during the treatment of unstable angina, non-Q-wave myocardial infarction, and acute ST-segment elevation myocardial infarction, adhere precisely to the intervals recommended between Enoxaparin Sodium Injection doses.
 It is important to achieve hemostasis at the puncture site after PCI.In case a closure device is used, the sheath can be removed immediately.
-If a manual compression method is used, sheath should be removed 6 hours after the last intravenous/subcutaneous Enoxaparin Sodium Injection.
+If a manual compression method is used, sheath should be removed 6 hours after the last intravenous/ subcutaneous Enoxaparin Sodium Injection.
 If the treatment with enoxaparin sodium is to be continued, the next scheduled dose should be given no sooner than 6 to 8 hours after sheath removal.
 The site of the procedure should be observed for signs of bleeding or hematoma formation [see Dosage and Administration (2.1)].
 
@@ -34,13 +34,15 @@ Enoxaparin Sodium Injection should be used with care in patients with a bleeding
 
 ## 5.4 Risk of Heparin-Induced Thrombocytopenia with or without Thrombosis
 
-Enoxaparin Sodium Injection may cause heparin-induced thrombocytopenia (HIT) or heparininduced thrombocytopenia with thrombosis (HITTS).
+Enoxaparin Sodium Injection may cause heparin-induced thrombocytopenia (HIT) or heparin-induced thrombocytopenia with thrombosis (HITTS).
 HITTS may lead to organ infarction, limb ischemia, or death.
 Monitor thrombocytopenia of any degree closely.
 Use of Enoxaparin Sodium Injection in patients with a history of immune-mediated HIT within the past 100 days or in the presence of circulating antibodies is contraindicated [see Contraindications (4)].
+
 Circulating antibodies may persist for several years.
+
 Only use Enoxaparin Sodium Injection in patients with a history of HIT, if more than 100 days have elapsed since the prior HIT episode and no circulating antibodies are present.
-Because HIT may still occur in these circumstances, the decision to use Enoxaparin Sodium Injection in such a case must be made only after a careful benefit-risk assessment and after nonheparin alternative treatments are considered.
+Because HIT may still occur in these circumstances, the decision to use Enoxaparin Sodium Injection in such a case must be made only after a careful benefit-risk assessment and after non-heparin alternative treatments are considered.
 
 ## 5.5 Thrombocytopenia
 
@@ -51,7 +53,7 @@ Platelet counts less than 50,000/mm3 occurred at a rate of 0.1% in patients give
 Thrombocytopenia of any degree should be monitored closely.
 If the platelet count falls below 100,000/mm3, Enoxaparin Sodium Injection should be discontinued.
 
-## 5.6 Interchangeability with Other Heparins
+## 5.6 Interchangeability with other Heparins
 
 Enoxaparin Sodium Injection cannot be used interchangeably (unit for unit) with heparin or other low molecular weight heparins as they differ in manufacturing process, molecular weight distribution, anti-Xa and anti-IIa activities, units, and dosage.
 Each of these medicines has its own instructions for use.

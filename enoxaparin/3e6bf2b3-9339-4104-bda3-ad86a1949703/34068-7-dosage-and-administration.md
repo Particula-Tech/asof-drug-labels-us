@@ -57,11 +57,10 @@ If the last Enoxaparin Sodium Injection subcutaneous administration was given mo
 
 The recommended prophylaxis and treatment dosage regimens for patients with severe renal impairment (creatinine clearance <30 mL/min) are described in Table 1 [see Use in Specific Populations (8.7) and Clinical Pharmacology (12.3)].
 
-Table 1
+Table 1: Dosage Regimens for Patients with Severe Renal Impairment (creatinine clearance <30 mL/minute)
 
-| Dosage Regimens for Patients with Severe Renal Impairment (creatinine clearance <30 mL/minute) |  |
-| --- | --- |
 | Indication | Dosage Regimen |
+| --- | --- |
 | Prophylaxis in abdominal surgery | 30 mg administered subcutaneously once daily |
 | Prophylaxis in hip or knee replacement surgery | 30 mg administered subcutaneously once daily |
 | Prophylaxis in medical patients during acute illness | 30 mg administered subcutaneously once daily |
@@ -69,7 +68,7 @@ Table 1
 | Outpatient treatment of acute deep veinthrombosis without pulmonary embolism, whenadministered in conjunction with warfarin sodium | 1 mg/kg administered subcutaneously once daily |
 | Prophylaxis of ischemic complications of unstableangina and non–Q-wave myocardial infarction,when concurrently administered with aspirin | 1 mg/kg administered subcutaneously once daily |
 | Treatment of acute ST-segment elevationmyocardial infarction in patients <75 years of age,when administered in conjunction with aspirin | 30 mg single intravenous bolus plus a 1 mg/kgsubcutaneous dose followed by 1 mg/kgadministered subcutaneously once daily |
-| Treatment of acute ST-segment elevationmyocardial infarction in geriatric patients ≥75 yearsof age, when administered in conjunction with aspirin | 1 mg/kg administered subcutaneously once daily (no initial bolus) |
+| Treatment of acute ST-segment elevation myocardial infarction in geriatric patients ≥75 yearsof age, when administered in conjunction with aspirin | 1 mg/kg administered subcutaneously once daily (no initial bolus) |
 
 Although no dose adjustment is recommended in patients with creatinine clearance 30 to 50 mL/min and creatinine clearance 50 to 80 mL/min, observe these patients frequently for signs and symptoms of bleeding.
 
@@ -107,10 +106,6 @@ Enoxaparin Sodium Injection prefilled syringes and graduated prefilled syringes 
 Remove the prefilled syringe from the blister packaging by peeling the lid completely off at the arrow as directed on the blister.
 Then gently lift the syringe straight up by grasping either the middle of the syringe or the needle guard.
 Do not remove by pulling on the plunger as this may damage the syringe.
-
-- Peel lid completely off
-- Do not remove syringe by pulling on plunger
-- Gently lift syringe straight up
 
 |  | Remove needle cover by pulling straight off of needle. DO NOT twist the needle cover or touch the needle/plunger. If required, adjust dose prior to injecting into the patient. |
 | --- | --- |

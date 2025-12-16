@@ -14,14 +14,11 @@ The average aPTT prolongation value on Day 1 was about 16% higher than on Day 4.
 
 ## 12.3 Pharmacokinetics
 
-### Absorption
-
-Pharmacokinetic trials were conducted using the 100 mg/mL formulation.
+Absorption Pharmacokinetic trials were conducted using the 100 mg/mL formulation.
 Maximum anti-Factor Xa and anti-thrombin (anti-Factor IIa) activities occur 3 to 5 hours after subcutaneous injection of enoxaparin.
 Mean peak anti-Factor Xa activity was 0.16 IU/mL (1.58 mcg/mL) and 0.38 IU/mL (3.83 mcg/mL) after the 20 mg and the 40 mg clinically tested subcutaneous doses, respectively.
 Mean (n = 46) peak anti-Factor Xa activity was 1.1 IU/mL at steady state in patients with unstable angina receiving 1 mg/kg subcutaneously every 12 hours for 14 days.
 Mean absolute bioavailability of enoxaparin, after 1.5 mg/kg given subcutaneously, based on anti-Factor Xa activity is approximately 100% in healthy subjects.
-
 A 30 mg intravenous bolus immediately followed by a 1 mg/kg subcutaneously every 12 hours provided initial peak anti-Factor Xa levels of 1.16 IU/mL (n=16) and average exposure corresponding to 84% of steady-state levels.
 Steady state is achieved on the second day of treatment.
 Enoxaparin pharmacokinetics appear to be linear over the recommended dosage ranges [see Dosage and Administration (2)].
@@ -32,7 +29,7 @@ Based on enoxaparin sodium pharmacokinetics, this difference in steady state is 
 Although not studied clinically, the 150 mg/mL concentration of enoxaparin sodium is projected to result in anticoagulant activities similar to those of 100 mg/mL and 200 mg/mL concentrations at the same enoxaparin dose.
 When a daily 1.5 mg/kg subcutaneous injection of enoxaparin sodium was given to 25 healthy male and female subjects using a 100 mg/mL or a 200 mg/mL concentration the following pharmacokinetic profiles were obtained (see Table 13).
 
-Table 13 Pharmacokinetic Parameters* After 5 Days of 1.5 mg/kg Subcutaneous Once Daily Doses of Enoxaparin Sodium Using 100 mg/mL or 200 mg/mL Concentrations
+Table 13 Pharmacokinetic Parameters After 5 Days of 1.5 mg/kg Subcutaneous Once-Daily Doses of Enoxaparin Sodium Using 100 mg/mL or 200 mg/mL Concentrations
 
 |  | Concentration | Anti-Xa | Anti-IIa | Heptest | aPTT |
 | --- | --- | --- | --- | --- | --- |
@@ -41,28 +38,22 @@ Table 13 Pharmacokinetic Parameters* After 5 Days of 1.5 mg/kg Subcutaneous Once
 | 90% CI | 102%-110% |  | 102%-111% |  |  |
 | tmaxMedian (range)(h) | 100 mg/mL | 3 (2-6) | 4 (2-5) | 2.5 (2-4.5) | 3 (2-4.5) |
 | 200 mg/mL | 3.5 (2-6) | 4.5 (2.5-6) | 3.3 (2-5) | 3 (2-5) |  |
-| AUC (ss) (hMeans ± SD at Day 5 and 90% Confidence Interval (CI) of the ratioIU/mL or h† sec) | 100 mg/mL | 14.26 (±2.93) | 1.54 (±0.61) | 1321 (±219) |  |
+| AUC (ss) (hMeans ± SD at Day 5 and 90% Confidence Interval (CI) of the ratioIU/mL or h†sec) | 100 mg/mL | 14.26 (±2.93) | 1.54 (±0.61) | 1321 (±219) |  |
 | 200 mg/mL | 15.43 (±2.96) | 1.77 (±0.67) | 1401 (±227) |  |  |
 | 90% CI | 105%-112% |  | 103%-109% |  |  |
 
-### Distribution
+Distribution The volume of distribution of anti-Factor Xa activity is about 4.3 L.
 
-The volume of distribution of anti-Factor Xa activity is about 4.3 L.
-
-### Elimination
-
-Following intravenous dosing, the total body clearance of enoxaparin is 26 mL/min.
+Elimination Following intravenous dosing, the total body clearance of enoxaparin is 26 mL/min.
 After intravenous dosing of enoxaparin labeled with the gamma-emitter, 99mTc, 40% of radioactivity and 8 to 20% of anti-Factor Xa activity were recovered in urine in 24 hours.
 Elimination half-life based on anti-Factor Xa activity was 4.5 hours after a single subcutaneous dose to about 7 hours after repeated dosing.
 Significant anti-Factor Xa activity persists in plasma for about 12 hours following a 40 mg subcutaneous once a day dose.
 Following subcutaneous dosing, the apparent clearance (CL/F) of enoxaparin is approximately 15 mL/min.
 
-### Metabolism
-
-Enoxaparin sodium is primarily metabolized in the liver by desulfation and/or depolymerization to lower molecular weight species with much reduced biological potency.
+Metabolism Enoxaparin sodium is primarily metabolized in the liver by desulfation and/or depolymerization to lower molecular weight species with much reduced biological potency.
 Renal clearance of active fragments represents about 10% of the administered dose and total renal excretion of active and non-active fragments 40% of the dose.
 
-Special Population
+Special Populations
 
 Gender Apparent clearance and Amax derived from anti-Factor Xa values following single subcutaneous dosing (40 mg and 60 mg) were slightly higher in males than in females.
 The source of the gender difference in these parameters has not been conclusively identified; however, body weight may be a contributing factor.

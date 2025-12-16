@@ -27,10 +27,9 @@ The efficacy data are provided below (see Table 15).
 
 Table 15 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Deep Vein Thrombosis Following Colorectal Surgery
 
-| Indication | 40 mg daily subcutaneously n (%) | 5000 U q8h subcutaneously n (%) |
-| --- | --- | --- |
 |  | Dosing Regimen |  |
-|  | Enoxaparin Sodium Injection | Heparin |
+| --- | --- | --- |
+| Indication | Enoxaparin Sodium Injection40 mg daily subcutaneously n (%) | Heparin5000 U q8h subcutaneously n (%) |
 | All Treated Colorectal Surgery Patients | 673 (100) | 674 (100) |
 | Treatment Failures Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin. (%) | 48 (7.1) (95% CICI = Confidence Interval: 5 to 9) | 45 (6.7) (95% CI: 5 to 9) |
 | DVT Only (%) | 47 (7.0) (95% CI: 5 to 9) | 44 (6.5) (95% CI: 5 to 8) |
@@ -133,8 +132,8 @@ Table 20 Efficacy of Enoxaparin Sodium Injection in Prophylaxis of Deep Vein Thr
 | --- | --- | --- | --- |
 | Indication | Enoxaparin Sodium Injection 20 mg daily subcutaneously n (%) | Enoxaparin Sodium Injection 40 mg daily subcutaneously n (%) | Placebo n (%) |
 | All Treated Medical Patients During Acute Illness | 351 (100) | 360 (100) | 362 (100) |
-| Treatment FailureTreatment failures during therapy, between Days 1 and 14. Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin. (%) | 43 (12.3) | 16 (4.4) | 43 (11.9) |
-| Total DVT (%) | 43 (12.3) (95% CICI = Confidence Interval 8.8 to 15.7) | 16 (4.4) (95% CI 2.3 to 6.6) | 41 (11.3) (95% CI 8.1 to 14.6) |
+| Treatment FailureTreatment failures during therapy, between Days 1 and 14 Total VTEVTE = Venous thromboembolic events which included DVT, PE, and death considered to be thromboembolic in origin. (%) | 43 (12.3) | 16 (4.4) | 43 (11.9) |
+| Total DVT (%) | 43 (12.3) (95% CICI = Confidence Interval 8.8 to 15.7) | 16 (4.4) (95% CI‡ 2.3 to 6.6) | 41 (11.3) (95% CI‡ 8.1 to 14.6) |
 | Proximal DVT (%) | 13 (3.7) | 5 (1.4) | 14 (3.9) |
 
 At approximately 3 months following enrollment, the incidence of venous thromboembolism remained lower in the Enoxaparin Sodium Injection 40 mg treatment group versus the placebo treatment group.
@@ -194,25 +193,26 @@ The lower incidence of the triple endpoint was sustained up to 30 days after ini
 These results were observed in an analysis of both all-randomized and all-treated patients.
 The efficacy data are provided below (see Table 23).
 
-| Enoxaparin Sodium Injection 1 mg/kg q12h Subcutaneously n (%) | Heparin aPTT Adjusted Intravenous Therapy n (%) | Reduction (%) | p Value |  |
+Table 23 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Ischemic Complications in Unstable Angina and Non-Q-Wave Myocardial Infarction (combined endpoint of death, myocardial infarction, or recurrent angina)
+
+|  | Dosing RegimenAll patients were also treated with aspirin 100 to 325 mg per day. |  |  |  |
 | --- | --- | --- | --- | --- |
-| Table 23 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Ischemic Complications in Unstable Angina and Non-Q-Wave Myocardial Infarction (combined endpoint of death, myocardial infarction, or recurrent angina) |  |  |  |  |
-| Indication | Dosing RegimenAll patients were also treated with aspirin 100 to 325 mg per day. |  |  |  |
-| All Treated Unstable Angina and Non-Q-Wave MI Patients | 1578 (100) | 1529 (100) |  |  |
-| TimepointEvaluation time points are after initiation of treatment. Therapy continued for up to 8 days (median duration of 2.6 days). |  |  |  |  |
-| 48 Hours | 96 (6.1) | 112 (7.3) | 1.2 | 0.120 |
+| Indication | Enoxaparin Sodium Injection 1 mg/kg q12hSubcutaneously n (%) | Heparin aPTT Adjusted Intravenous Therapy n (%) | Reduction (%) | p Value |
+| All Treated Unstable Angina and Non-Q-Wave MI Patients | 1578 (100) | 1529 (100) | - | - |
+| TimepointEvaluation time points are after initiation of treatment. Therapy continued for up to 8 days (median duration of 2.6 days). 48 Hours | 96 (6.1) | 112 (7.3) | 1.2 | 0.120 |
 | 14 Days | 261 (16.5) | 303 (19.8) | 3.3 | 0.017 |
 | 30 Days | 313 (19.8) | 358 (23.4) | 3.6 | 0.014 |
 
 The combined incidence of death or myocardial infarction at all time points was lower for Enoxaparin Sodium Injection compared to standard heparin therapy, but did not achieve statistical significance.
 The efficacy data are provided below (see Table 24).
 
-| Indication | Enoxaparin Sodium Injection 1 mg/kg q12h subcutaneously n (%) | Heparin aPTT Adjusted Intravenous Therapy n (%) | Reduction (%) | p Value |
-| --- | --- | --- | --- | --- |
-| Table 24 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Ischemic Complications in Unstable Angina and Non-Q-Wave Myocardial Infarction (Combined endpoint of death or myocardial infarction) |  |  |  |  |
+Table 24 Efficacy of Enoxaparin Sodium Injection in the Prophylaxis of Ischemic Complications in Unstable Angina and Non-Q-Wave Myocardial Infarction (Combined endpoint of death or myocardial infarction)
+
 |  | Dosing RegimenAll patients were also treated with aspirin 100 to 325 mg per day. |  |  |  |
-| All Treated Unstable Angina and Non-Q-Wave MI Patients | 1578 (100) | 1529 (100) |  |  |
-| Time pointEvaluation time points are after initiation of treatment. Therapy continued for up to 8 days (median duration of 2.6 days). |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Indication | Enoxaparin Sodium Injection 1 mg/kg q12h subcutaneously n (%) | Heparin aPTT Adjusted Intravenous Therapy n (%) | Reduction (%) | p Value |
+| All Treated UnstableAngina and Non-Q-WaveMI Patients | 1578 (100) | 1529 (100) |  |  |
+| TimepointEvaluation time points are after initiation of treatment. Therapy continued for up to 8 days (median duration of 2.6 days). |  |  |  |  |
 | 48 Hours | 16 (1.0) | 20 (1.3) | 0.3 | 0.126 |
 | 14 Days | 76 (4.8) | 93 (6.1) | 1.3 | 0.115 |
 | 30 Days | 96 (6.1) | 118 (7.7) | 1.6 | 0.069 |
@@ -246,42 +246,27 @@ The primary efficacy endpoint was the composite of death from any cause or myoca
 Total follow-up was one year.
 The rate of the primary efficacy endpoint (death or myocardial re-infarction) was 9.9% in the Enoxaparin Sodium Injection group, and 12% in the unfractionated heparin group, a 17% reduction in the relative risk, (P=0.000003) (see Table 25).
 
-|  | EnoxaparinSodium Injection (N=10,256) | UFH (N=10,223) | Relative Risk (95% CI) | P Value |
-| --- | --- | --- | --- | --- |
-| Table 25 Efficacy of Enoxaparin Sodium Injection in the Treatment of Acute ST-Segment Elevation Myocardial Infarction |  |  |  |  |
-| Outcome at 48 hours | n (%) | n (%) |  |  |
-| Death or Myocardial Re-infarction | 478 (4.7) | 531 (5.2) | 0.90 (0.80 to 1.01) | 0.08 |
-| Death | 383 (3.7) | 390 (3.8) | 0.98 (0.85 to 1.12) | 0.76 |
-| Myocardial Re-infarction | 102 (1.0) | 156 (1.5) | 0.65 (0.51 to 0.84) | <0.001 |
-| Urgent Revascularization | 74 (0.7) | 96 (0.9) | 0.77 (0.57 to 1.04) | 0.09 |
-| Death or Myocardial Re-infarction or Urgent Revascularization | 548 (5.3) | 622 (6.1) | 0.88 (0.79 to 0.98) | 0.02 |
-| Outcome at 8 Days |  |  |  |  |
-| Death or Myocardial Re-infarction | 740 (7.2) | 954 (9.3) | 0.77 (0.71 to 0.85) | <0.001 |
-| Death | 559 (5.5) | 605 (5.9) | 0.92 (0.82 to 1.03) | 0.15 |
-| Myocardial Re-infarction | 204 (2.0) | 379 (3.7) | 0.54 (0.45 to 0.63) | <0.001 |
-| Urgent Revascularization | 145 (1.4) | 247 (2.4) | 0.59 (0.48 to 0.72) | <0.001 |
-| Death or Myocardial Re-infarction or Urgent Revascularization | 874 (8.5) | 1181 (11.6) | 0.74 (0.68 to 0.80) | <0.001 |
-| Outcome at 30 Days |  |  |  |  |
-| Primary efficacy endpoint (Death or Myocardial Re-infarction) | 1017 (9.9) | 1223 (12.0) | 0.83 (0.77 to 0.90) | 0.000003 |
-| Death | 708 (6.9) | 765 (7.5) | 0.92 (0.84 to 1.02) | 0.11 |
-| Myocardial Re-infarction | 352 (3.4) | 508 (5.0) | 0.69 (0.60 to 0.79) | <0.001 |
-| Urgent Revascularization | 213 (2.1) | 286 (2.8) | 0.74 (0.62 to 0.88) | <0.001 |
-| Death or Myocardial Re-infarction or Urgent Revascularization | 1199 (11.7) | 1479 (14.5) | 0.81 (0.75 to 0.87) | <0.001 |
-| Note: Urgent revascularization denotes episodes of recurrent myocardial ischemia (without infarction) leading to the clinical decision to perform coronary revascularization during the same hospitalization. CI denotes confidence intervals. |  |  |  |  |
+Table 25 Efficacy of Enoxaparin Sodium Injection in the Treatment of Acute ST-Segment Elevation Myocardial Infarction
 
+|  | Enoxaparin Sodium Injection(N=10,256) | UFH (N=10,223) | Relative Risk (95% CI) | P Value |
+| --- | --- | --- | --- | --- |
+| Outcome at 48 hours | n(%) | n(%) |  |  |
+| Death or Myocardial Re-infarction Death Myocardial Re-infarctionUrgent RevascularizationDeath or Myocardial Re-infarction orUrgent Revascularization | 478 (4.7)383 (3.7)102 (1.0)74 (0.7)548 (5.3) | 531 (5.2)390 (3.8)156 (1.5)96 (0.9)622 (6.1) | 0.90 (0.80 to 1.01)0.98 (0.85 to 1.12)0.65 (0.51 to 0.84)0.77 (0.57 to 1.04)0.88 (0.79 to 0.98) | 0.080.76<0.0010.090.02 |
+| Outcome at 8 Days |  |  |  |  |
+| Death or Myocardial Re-infarction Death Myocardial Re-infarctionUrgent RevascularizationDeath or Myocardial Re-infarction orUrgent Revascularization | 740 (7.2)559 (5.5)204 (2.0)145 (1.4)874 (8.5) | 954 (9.3)605 (5.9)379 (3.7)247 (2.4)1181 (11.6) | 0.77 (0.71 to 0.85)0.92 (0.82 to 1.03)0.54 (0.45 to 0.63)0.59 (0.48 to 0.72)0.74 (0.68 to 0.80) | <0.0010.15<0.001<0.001<0.001 |
+| Outcome at 30 Days |  |  |  |  |
+| Primary efficacy endpoint (Death or Myocardial Re-infarction) Death Myocardial Re-infarction Urgent RevascularizationDeath or Myocardial Re-infarction orUrgent Revascularization | 1017 (9.9)708 (6.9)352 (3.4)213 (2.1)1199 (11.7) | 1223 (12.0)765 (7.5)508 (5.0)286 (2.8)1479 (14.5) | 0.83 (0.77 to 0.90)0.92 (0.84 to 1.02)0.69 (0.60 to 0.79)0.74 (0.62 to 0.88)0.81 (0.75 to 0.87) | 0.0000030.11<0.001<0.001<0.001 |
+
+Note: Urgent revascularization denotes episodes of recurrent myocardial ischemia (without infarction) leading to the clinical decision to perform coronary revascularization during the same hospitalization.
+CI denotes confidence intervals.
 The beneficial effect of Enoxaparin Sodium Injection on the primary endpoint was consistent across key subgroups including age, gender, infarct location, history of diabetes, history of prior myocardial infarction, fibrinolytic agent administered, and time to treatment with study drug (see Figure 1); however, it is necessary to interpret such subgroup analyses with caution.
 
-| Figure 1. Relative Risks of and Absolute Event Rates for the Primary Endpoint at 30 Days in Various SubgroupsThe primary efficacy endpoint was the composite of death from any cause or myocardial re-infarction in the first 30 days. The overall treatment effect of Enoxaparin Sodium Injection as compared to the unfractionated heparin (UFH) is shown at the bottom of the figure. For each subgroup, the circle is proportional to the number and represents the point estimate of the treatment effect and the horizontal lines represent the 95% confidence intervals. Fibrin-specific fibrinolytic agents included alteplase, tenecteplase and reteplase. Time to treatment indicates the time from the onset of symptoms to the administration of study drug (median: 3.2 hours). |
-| --- |
-
 The beneficial effect of Enoxaparin Sodium Injection on the primary end point observed during the first 30 days was maintained over a 12 month follow-up period (see Figure 2).
-
-| Figure 2. Kaplan-Meier plot - Death or Myocardial re-infarction at 30 days - ITT Population |
-| --- |
 
 There is a trend in favor of Enoxaparin Sodium Injection during the first 48 hours, but most of the treatment difference is attributed to a step increase in the event rate in the UFH group at 48 hours (seen in Figure 2), an effect that is more striking when comparing the event rates just prior to and just subsequent to actual times of discontinuation.
 These results provide evidence that UFH was effective and that it would be better if used longer than 48 hours.
 There is a similar increase in endpoint event rate when Enoxaparin Sodium Injection was discontinued, suggesting that it too was discontinued too soon in this study.
+
 The rates of major hemorrhages (defined as requiring 5 or more units of blood for transfusion, or 15% drop in hematocrit or clinically overt bleeding, including intracranial hemorrhage) at 30 days were 2.1% in the Enoxaparin Sodium Injection group and 1.4% in the unfractionated heparin group.
 The rates of intracranial hemorrhage at 30 days were 0.8% in the Enoxaparin Sodium Injection group and 0.7% in the unfractionated heparin group.
 The 30-day rate of the composite endpoint of death, myocardial re-infarction or ICH (a measure of net clinical benefit) was significantly lower in the Enoxaparin Sodium Injection group (10.1%) as compared to the heparin group (12.2%).
