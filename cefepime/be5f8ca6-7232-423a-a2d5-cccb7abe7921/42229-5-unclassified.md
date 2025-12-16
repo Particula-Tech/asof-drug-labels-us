@@ -8,4 +8,6 @@ Baxter and Galaxy are trademarks of Baxter International Inc. or its subsidiarie
 
 Clinitest is a registered trademark of Siemens Healthcare Diagnostics Inc.
 
-07-19-06-949
+Any other trademarks, product names or brand images appearing herein are the property of their respective owners.
+
+07-19-06-951
