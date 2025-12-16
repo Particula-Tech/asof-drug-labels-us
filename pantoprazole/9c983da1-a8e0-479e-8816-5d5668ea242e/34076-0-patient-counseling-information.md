@@ -65,4 +65,4 @@ Manufactured for:
 
 Torrent Pharma INC., Basking Ridge, NJ 07920.
 
-8096094 Revised: June 2024
+8098026 Revised: April 2025
