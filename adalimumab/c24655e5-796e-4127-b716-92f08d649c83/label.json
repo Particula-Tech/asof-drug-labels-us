@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "BLA761059"
+  ],
+  "inn": "adalimumab",
+  "labeler": "Cordavis Limited",
+  "package_ndcs": [
+    "83457-186-01",
+    "83457-186-99",
+    "83457-187-01",
+    "83457-187-99"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "adalimumab-bwwd",
+      "name": "Adalimumab-bwwd"
+    }
+  ],
+  "setid": "c24655e5-796e-4127-b716-92f08d649c83",
+  "source": "dailymed"
+}
