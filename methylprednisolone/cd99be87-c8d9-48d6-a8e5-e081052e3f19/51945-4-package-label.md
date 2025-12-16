@@ -96,11 +96,11 @@ Solu-Medrol® (methylprednisolone sodium succinate for injection, USP)
 
 40 mg* per vial
 
-For Intramuscular or Intravenous Use Only
+For Intravenous or Intramuscular Use Only
 
 Preservative-Free
 
-Pfizer Injectables Rx only
+Pfizer Hospital Rx only
 
 # PRINCIPAL DISPLAY PANEL - 40 mg Vial Label - Act-O-Vial System
 
@@ -132,7 +132,7 @@ Preservative-Free
 
 25–1 mL Act-O-Vial® Systems
 
-For Intramuscular or Intravenous Use Only
+For Intravenous or Intramuscular Use Only
 
 Single-Dose Vials
 
@@ -202,7 +202,7 @@ Preservative-Free
 
 25–2 mL Act-O-Vial® Systems
 
-For Intramuscular or Intravenous Use Only
+For Intravenous or Intramuscular Use Only
 
 Single-Dose Vials
 
