@@ -55,6 +55,8 @@ Renal and urinary disorders: Acute tubulointerstitial nephritis (ATIN)
 
 Skin and subcutaneous tissue disorders: Acute generalized exanthematous pustulosis (AGEP)
 
+Cardiac disorders: Kounis syndrome
+
 ## 6.3 Cephalosporin-class Adverse Reactions
 
 In addition to the adverse reactions listed above that have been observed in patients treated with cefazolin, the following adverse reactions and altered laboratory tests have been reported for cephalosporin-class antibacterials:

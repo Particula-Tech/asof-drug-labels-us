@@ -43,14 +43,14 @@ Dosage for Perioperative Prophylaxis in Adults with CLcr Equal to 55 mL/min or G
 
 To prevent postoperative infection in contaminated or potentially contaminated surgery, recommended dosages are described in Table 3 below.
 
-Table 3: Recommended Dosage for Perioperative Prophylaxis in Adults with Clcr of 55 mL/min or Greater
+Table 3: Recommended Dosage for Perioperative Prophylaxis in Adults with CLcr of 55 mL/min or Greater
 
 | Body Weight (kg) | Dose Administered (½ hour to 1 hour prior to the start of surgery) | Additional Dose During Lengthy Operative Procedures (e.g., 2 hours or more) | Dose for 24 Hours Postoperatively |
 | --- | --- | --- | --- |
 | Less than 120 kg | 1 gram to 2 grams | 500 mg to 1 g | 500 mg to 1 g every 6 hours to 8 hours |
 | Greater than or equal to 120 kg | 3 grams |  |  |
 
-If a dose of Cefazolin in Dextrose Injection is required that does not equal 1 gram, 2 grams or 3 grams, this product is not recommended, and an alternative formulation of cefazolin should be considered.
+If a dose of Cefazolin in Dextrose Injection is required that does not equal 1 gram, 2 grams, or 3 grams, this product is not recommended, and an alternative formulation of cefazolin should be considered.
 
 It is important that (i) the preoperative dose be given just prior (1/2 hour to 1 hour) to the start of surgery so that adequate antibacterial concentrations are present in the serum and tissues at the time of initial surgical incision; and (ii) cefazolin be administered, if necessary, at appropriate intervals during surgery to provide sufficient concentrations of the antibacterial drug at the anticipated moments of greatest exposure to infective organisms.
 
