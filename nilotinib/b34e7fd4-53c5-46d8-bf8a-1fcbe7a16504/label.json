@@ -1,0 +1,22 @@
+{
+  "application_numbers": [
+    "ANDA218532"
+  ],
+  "inn": "nilotinib",
+  "labeler": "Torrent Pharmaceuticals Limited",
+  "package_ndcs": [
+    "13668-710-57",
+    "13668-710-91",
+    "13668-711-57",
+    "13668-711-91"
+  ],
+  "products": [
+    {
+      "form": "CAPSULE",
+      "generic": "nilotinib",
+      "name": "nilotinib"
+    }
+  ],
+  "setid": "b34e7fd4-53c5-46d8-bf8a-1fcbe7a16504",
+  "source": "dailymed"
+}
