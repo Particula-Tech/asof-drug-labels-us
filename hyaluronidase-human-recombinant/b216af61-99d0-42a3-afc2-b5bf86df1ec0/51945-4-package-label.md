@@ -2,7 +2,7 @@
 
 NDC 50242-554-01
 
-Ocrevus Zunovo™ (ocrelizumab and hyaluronidase-ocsq) Injection
+Ocrevus Zunovo® (ocrelizumab and hyaluronidase-ocsq) Injection
 
 920 mg and 23,000 units/23 mL (40 mg and 1,000 units/mL)
 
@@ -18,4 +18,4 @@ Attention Pharmacist: Dispense the accompanying Medication Guide to each patient
 
 Rx only Genentech
 
-11006726
+11038285
