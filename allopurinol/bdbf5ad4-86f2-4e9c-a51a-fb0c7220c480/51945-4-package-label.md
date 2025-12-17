@@ -8,27 +8,24 @@ Rx only 100 Tablets
 
 Each tablet contains: Allopurinol, USP 100 mg
 
-Dispense in a tight, light-resistant container as deﬁned in the USP using a child-resistant closure.
-Keep container tightly closed.
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
 
+Keep container tightly closed.
 Keep this and all medication out of the reach of children.
 
 Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
-
+[See USP Controlled Room Temperature].
 Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-Mylan.com
+3392/2
 
-3392/1
-
-RALP0137A1
+RALP0137A2
 
 # PRINCIPAL DISPLAY PANEL – 300 mg
 
@@ -40,24 +37,21 @@ Rx only 100 Tablets
 
 Each tablet contains: Allopurinol, USP 300 mg
 
-Dispense in a tight, light-resistant container as deﬁned in the USP using a child-resistant closure.
+Dispense in a tight, light-resistant container as defined in the USP using a child-resistant closure.
+
 Keep container tightly closed.
 
 Keep this and all medication out of the reach of children.
-
 Store at 20° to 25°C (68° to 77°F).
-[See USP Controlled Room Temperature.]
-
+[See USP Controlled Room Temperature].
 Protect from moisture.
 
 Usual Dosage: See accompanying prescribing information.
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
 Made in Australia
 
-Mylan.com
+3394/2
 
-3394/1
-
-RALP0181A1
+RALP0181A2

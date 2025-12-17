@@ -50,8 +50,8 @@ Lactation
 
 Advise women not to breastfeed during treatment with allopurinol tablets and for one week after the last dose [see Use in Specific Populations (8.2)].
 
-Manufactured for: Mylan Pharmaceuticals Inc. Morgantown, WV 26505 U.S.A.
+Distributed by: Mylan Pharmaceuticals Inc., a Viatris Company Morgantown, WV 26505 U.S.A.
 
-Manufactured by: ALPHAPHARM PTY LTD 15 Garnet Street Carole Park QLD 4300 Australia
+Revised: 11/2025
 
-Revised: 3/2024 ALP:ALLO:R4 (3396/3)
+ALP:ALLO:R5
