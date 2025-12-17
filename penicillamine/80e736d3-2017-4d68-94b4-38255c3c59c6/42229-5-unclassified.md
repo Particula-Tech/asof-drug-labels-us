@@ -20,9 +20,7 @@ Bausch Health US, LLC Bridgewater, NJ 08807 USA
 
 Manufactured by:
 
-Cohance Lifesciences Limited
-
-Telangana, India 502307
+Cohance Lifesciences Limited Telangana, India 502307
 
 M.L.No.: 24/MD/AP/2009/F/CC
 
