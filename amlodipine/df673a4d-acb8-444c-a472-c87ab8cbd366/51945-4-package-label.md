@@ -2,7 +2,7 @@
 
 NDC 52652-5001-1
 
-Katerzia® (amlodipine) Oral Suspension 1 mg/mL
+Katerzia ® (amlodipine) Oral Suspension 1 mg/mL
 
 150 mL Rx Only
 

@@ -6,7 +6,7 @@ Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or sl
 Experimental data suggest that amlodipine binds to both dihydropyridine and nondihydropyridine binding sites.
 The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels.
 Amlodipine inhibits calcium ion influx across cell membranes selectively, with a greater effect on vascular smooth muscle cells than on cardiac muscle cells.
-Negative inotropic effects can be detected in vitro but such effects have not been seen in intact animals at therapeutic doses.
+Negative inotropic effects can be detected in vitrobut such effects have not been seen in intact animals at therapeutic doses.
 Serum calcium concentration is not affected by amlodipine.
 Within the physiologic pH range, amlodipine is an ionized compound (pKa=8.6), and its kinetic interaction with the calcium channel receptor is characterized by a gradual rate of association and dissociation with the receptor binding site, resulting in a gradual onset of effect.
 
@@ -44,7 +44,7 @@ In clinical trials with angina patients alone, amlodipine therapy did not alter 
 
 ## 12.3 Pharmacokinetics
 
-The exposure (Cmax and AUC) of KATERZIA oral suspension is similar to that of Norvasc® tablet.
+The exposure (C maxand AUC) of KATERZIA oral suspension is similar to that of Norvasc ®tablet.
 
 Absorption
 
@@ -57,7 +57,7 @@ Compared to fasted state administration, standard high-fat, high-calorie breakfa
 
 Distribution
 
-Ex vivo studies have shown that approximately 93% of the circulating drug is bound to plasma proteins in hypertensive patients.
+Ex vivostudies have shown that approximately 93% of the circulating drug is bound to plasma proteins in hypertensive patients.
 
 Metabolism
 
@@ -87,7 +87,7 @@ A similar increase in AUC was observed in patients with moderate to severe heart
 
 Drug Interactions
 
-In vitro data indicate that amlodipine has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.
+In vitrodata indicate that amlodipine has no effect on the human plasma protein binding of digoxin, phenytoin, warfarin, and indomethacin.
 
 Impact of Other Drugs on Amlodipine
 

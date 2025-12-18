@@ -11,4 +11,4 @@ Worsening angina and acute myocardial infarction can develop after starting or i
 
 ## 5.3 Patients with Hepatic Failure
 
-Because KATERZIA is extensively metabolized by the liver and the plasma elimination half-life (t1/2) is 56 hours in patients with impaired hepatic function, titrate slowly when administering KATERZIA to patients with severe hepatic impairment.
+Because KATERZIA is extensively metabolized by the liver and the plasma elimination half-life (t 1/2) is 56 hours in patients with impaired hepatic function, titrate slowly when administering KATERZIA to patients with severe hepatic impairment.
