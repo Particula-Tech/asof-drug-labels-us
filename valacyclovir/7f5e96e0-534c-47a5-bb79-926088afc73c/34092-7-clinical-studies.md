@@ -44,7 +44,7 @@ Overall, the median pretrial HIV-1 RNA was 2.6 log 10copies/mL.
 Among subjects who received valacyclovir, the pretrial median CD4+ cell count was 336 cells/mm 3; 11% had less than 100 cells/mm 3, 16% had 100 to 199 cells/mm 3, 42% had 200 to 499 cells/mm 3, and 31% had greater than or equal to 500 cells/mm 3.
 Outcomes for the overall trial population are shown in Table 9.
 Table 9.
-Recurrence Rates in HIV-1-infected Adults at 6 Months
+Recurrence Rates in HIV-1-Infected Adults at 6 Months
 
 | Outcome | Valacyclovir 500 mg Twice Daily (n = 194) | Placebo (n = 99) |
 | --- | --- | --- |

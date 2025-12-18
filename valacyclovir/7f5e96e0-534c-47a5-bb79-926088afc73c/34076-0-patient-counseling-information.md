@@ -1,6 +1,11 @@
 # 17 PATIENT COUNSELING INFORMATION
 
 Advise the patient to read the FDA-approved patient labeling (Patient Information).
+Severe Cutaneous Adverse Reactions
+
+Inform patients that severe skin reactions including acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), and erythema multiforme (EM) have been reported with valacyclovir.
+Advise patients to immediately contact their healthcare provider if they develop a rash.
+Instruct patients to immediately stop taking valacyclovir and seek medical attention if a painful rash with mucosal involvement develops [see Contraindications (4), Warnings and Precautions (5.4), Adverse Reactions (6.3)].
 Importance of Adequate Hydration Patients should be advised to maintain adequate hydration.
 Missed Dose Instruct patients that if they miss a dose of valacyclovir, to take it as soon as they remember.
 Advise patients not to double their next dose or take more than the prescribed dose.
@@ -29,4 +34,4 @@ By: Hetero TM Hetero Labs Limited, Unit V, Polepally, Jadcherla, Mahabubnagar-50
 
 By: HETERO TM Plot No. 28P1 to 36P1 & 37 to 54, Vemagal Industrial Area, Hobli Vemagal, Kolar, Karnataka - 563102, India.
 
-Revised: 10/2023
+Revised: 11/2025

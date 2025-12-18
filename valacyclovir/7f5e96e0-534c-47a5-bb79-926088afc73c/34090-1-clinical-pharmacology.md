@@ -69,7 +69,7 @@ Drug Interaction Studies When valacyclovir is coadministered with antacids, cime
 Therefore, when valacyclovir is coadministered with these drugs in patients with normal renal function, no dosage adjustment is recommended.
 Antacids:The pharmacokinetics of acyclovir after a single dose of valacyclovir (1 gram) were unchanged by coadministration of a single dose of antacids (Al3 +or Mg ++).
 Cimetidine:Acyclovir C maxand AUC following a single dose of valacyclovir (1 gram) increased by 8% and 32%, respectively, after a single dose of cimetidine (800 mg).
-Cimetidine Plus Probenecid:Acyclovir C maxand AUC following a single dose of valacyclovir (1 gram) increased by 30% and 78%, respectively, after a combination of cimetidine and probenecid, primarily due to a reduction in renal clearance of acyclovir.
+Cimetidine plus Probenecid:Acyclovir C maxand AUC following a single dose of valacyclovir (1 gram) increased by 30% and 78%, respectively, after a combination of cimetidine and probenecid, primarily due to a reduction in renal clearance of acyclovir.
 Digoxin:The pharmacokinetics of digoxin were not affected by coadministration of valacyclovir 1 gram 3 times daily, and the pharmacokinetics of acyclovir after a single dose of valacyclovir (1 gram) was unchanged by coadministration of digoxin (2 doses of 0.75 mg).
 Probenecid:Acyclovir C maxand AUC following a single dose of valacyclovir (1 gram) increased by 22% and 49%, respectively, after probenecid (1 gram).
 Thiazide Diuretics:The pharmacokinetics of acyclovir after a single dose of valacyclovir (1 gram) were unchanged by coadministration of multiple doses of thiazide diuretics.
@@ -83,7 +83,7 @@ The monophosphate is further converted into diphosphate by cellular guanylate ki
 In biochemical assays, acyclovir triphosphate inhibits replication of α-herpes viral DNA.
 This is accomplished in 3 ways: 1) competitive inhibition of viral DNA polymerase, 2) incorporation and termination of the growing viral DNA chain, and 3) inactivation of the viral DNA polymerase.
 The greater antiviral activity of acyclovir against HSV compared with VZV is due to its more efficient phosphorylation by the viral TK.
-Antiviral Activity The quantitative relationship between the cell culture susceptibility of herpesviruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
+Antiviral Activity The quantitative relationship between the cell culture susceptibility of herpes viruses to antivirals and the clinical response to therapy has not been established in humans, and virus sensitivity testing has not been standardized.
 Sensitivity testing results, expressed as the concentration of drug required to inhibit by 50% the growth of virus in cell culture (EC 50), vary greatly depending upon a number of factors.
 Using plaque-reduction assays, the EC 50values against herpes simplex virus isolates range from 0.09 to 60 microM (0.02 to 13.5 mcg/mL) for HSV-1 and from 0.04 to 44 microM (0.01 to 9.9 mcg/mL) for HSV-2.
 The EC 50values for acyclovir against most laboratory strains and clinical isolates of VZV range from 0.53 to 48 microM (0.12 to 10.8 mcg/mL).

@@ -1,6 +1,6 @@
 # 6 ADVERSE REACTIONS
 
-The following serious adverse reactions are discussed in greater detail in other sections of the labeling: • Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome [see Warnings and Precautions (5.1)]. • Acute Renal Failure [see Warnings and Precautions (5.2)]. • Central Nervous System Effects [see Warnings and Precautions (5.3)].
+The following serious adverse reactions are discussed in greater detail in other sections of the labeling: • Thrombotic Thrombocytopenic Purpura/Hemolytic Uremic Syndrome [see Warnings and Precautions (5.1)]. • Acute Renal Failure [see Warnings and Precautions (5.2)]. • Central Nervous System Effects [see Warnings and Precautions (5.3)]. • Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.4)].
 The most common adverse reactions reported in at least 1 indication by greater than 10% of adult subjects treated with valacyclovir and observed more frequently with valacyclovir compared with placebo are headache, nausea, and abdominal pain.
 The only adverse reaction reported in greater than 10% of pediatric subjects aged less than 18 years was headache.
 
@@ -12,7 +12,7 @@ The frequencies of abnormal ALT (greater than 2 x ULN) were 1.8% for subjects re
 Other laboratory abnormalities (hemoglobin, white blood cells, alkaline phosphatase, and serum creatinine) occurred with similar frequencies in the 2 groups.
 Genital Herpes Initial Episode:In a clinical trial for the treatment of initial episodes of genital herpes, the adverse reactions reported by greater than or equal to 5% of subjects receiving valacyclovir 1 gram twice daily for 10 days (n = 318) or oral acyclovir 200 mg 5 times daily for 10 days (n = 318), respectively, included headache (13%, 10%) and nausea (6%, 6%).
 For the incidence of laboratory abnormalities see Table 2.
-Recurrent Episodes:In 3 clinical trials for the episodic treatment of recurrent genital herpes, the adverse reactions reported by greater than or equal to 5% of subjects receiving valacyclovir 500 mg twice daily for 3 days (n = 402), valacyclovir 500 mg twice daily for 5 days (n = 1,136) or placebo (n = 259), respectively, included headache (16%, 11%, 14%) and nausea (5%, 4%, 5%).
+Recurrent Episodes:In 3 clinical trials for the episodic treatment of recurrent genital herpes, the adverse reactions reported by greater than or equal to 5% of subjects receiving valacyclovir 500 mg twice daily for 3 days (n = 402), valacyclovir 500 mg twice daily for 5 days (n = 1,136), or placebo (n = 259), respectively, included headache (16%, 11%, 14%) and nausea (5%, 4%, 5%).
 For the incidence of laboratory abnormalities see Table 2.
 Suppressive Therapy:Suppression of Recurrent Genital Herpes in Immunocompetent Adults:In a clinical trial for the suppression of recurrent genital herpes infections, the adverse reactions reported by subjects receiving valacyclovir 1 gram once daily (n = 269), valacyclovir 500 mg once daily (n = 266), or placebo (n = 134), respectively, included headache (35%, 38%, 34%), nausea (11%, 11%, 8%), abdominal pain (11%, 9%, 6%), dysmenorrhea (8%, 5%, 4%), depression (7%, 5%, 5%), arthralgia (6%, 5%, 4%), vomiting (3%, 3%, 2%), and dizziness (4%, 2%, 1%).
 For the incidence of laboratory abnormalities see Table 2.
@@ -62,4 +62,5 @@ Gastrointestinal Diarrhea.
 Hepatobiliary Tract and Pancreas Liver enzyme abnormalities, hepatitis.
 Renal Renal failure, renal pain (may be associated with renal failure) [see Warnings and Precautions (5.2), Use in Specific Populations (8.5, 8.6)].
 Hematologic Thrombocytopenia, aplastic anemia, leukocytoclastic vasculitis, TTP/HUS [see Warnings and Precautions (5.1)].
-Skin Erythema multiforme, rashes including photosensitivity, alopecia.
+
+Skin and Subcutaneous Tissue Disorders Acute generalized exanthematous pustulosis (AGEP), drug reaction with eosinophilia and systemic symptoms (DRESS), toxic epidermal necrolysis (TEN), Stevens-Johnson syndrome (SJS), erythema multiforme (EM), rashes including photosensitivity, alopecia [see Contraindications (4), Warnings and Precautions (5.4)].

@@ -39,7 +39,7 @@ Valacyclovir oral suspension (25 mg/mL or 50 mg/mL) should be prepared in lots o
 Instructions for Preparing Suspension at Time of Dispensing • Prepare SSV according to the USP-NF. • Using a pestle and mortar, grind the required number of valacyclovir 500-mg tablets until a fine powder is produced (5 valacyclovir tablets for 25-mg/mL suspension; 10 valacyclovir tablets for 50-mg/mL suspension). • Gradually add approximately 5-mL aliquots of SSV to the mortar and triturate the powder until a paste has been produced.
 Ensure that the powder has been adequately wetted. • Continue to add approximately 5-mL aliquots of SSV to the mortar, mixing thoroughly between additions, until a concentrated suspension is produced, to a minimum total quantity of 20 mL SSV and a maximum total quantity of 40 mL SSV for both the 25-mg/mL and 50-mg/mL suspensions. • Transfer the mixture to a suitable 100-mL measuring flask. • Transfer the cherry flavor* to the mortar and dissolve in approximately 5 mL of SSV.
 Once dissolved, add to the measuring flask. • Rinse the mortar at least 3 times with approximately 5-mL aliquots of SSV, transferring the rinsing to the measuring flask between additions. • Make the suspension to volume (100 mL) with SSV and shake thoroughly to mix. • Transfer the suspension to an amber glass medicine bottle with a child-resistant closure. • The prepared suspension should be labeled with the following information “Shake well before using.
-Store suspension between 2° to 8°C (36° to 46°F) in a refrigerator.
+Store suspension between 2°C to 8°C (36°F to 46°F) in a refrigerator.
 Discard after 28 days.” *The amount of cherry flavor added is as instructed by the suppliers of the cherry flavor.
 
 ## 2.4 Patients with Renal Impairment
