@@ -136,10 +136,12 @@ Inactive ingredients: 500 mg tablet: hypromellose, magnesium stearate, methacryl
 1000 mg tablet: hypromellose, magnesium stearate, methacrylic acid and ethyl acrylate copolymer (sodium lauryl sulfate and polysorbate 80), microcrystalline cellulose, polyethylene glycol, sodium hydroxide, titanium dioxide, polyvinyl alcohol, talc, Iron oxide Yellow and Iron Oxide Red (Non-Irradiated).
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
+Product of India
+
+Manufactured by: Ajanta Pharma Limited, India
+
 Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
 
-Manufactured by: Ajanta Pharma Limited Z-103/A, Dahej SEZ - Part II Bharuch, Gujarat 392130, India
-
-Revised: 07/2020
+Revised: October 2025
 
 # All trademarks are the properties of their respective owners
