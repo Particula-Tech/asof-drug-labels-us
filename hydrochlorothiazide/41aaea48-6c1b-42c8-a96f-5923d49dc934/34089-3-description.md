@@ -9,4 +9,4 @@ The molecular formula is C7H8ClN3O4S2 and the molecular weight is 297.74.
 
 INZIRQO (hydrochlorothiazide) is supplied in one strength as an off-white to light-brown colored powder for oral suspension.
 When reconstituted with 66 mL of water, the total volume of the suspension is 80 mL containing 10 mg/mL of hydrochlorothiazide, USP.
-In addition, INZIRQO contains the following inactive ingredients: anhydrous citric acid, caramel flavor (artificial flavor, caramel, maltodextrin, molasses, propylene glycol, salt and sucrose), cellulose, peppermint flavor (acacia and natural flavor), potassium sorbate, sucralose, sucrose, talc and xanthan gum.
+In addition, INZIRQO contains the following inactive ingredients: anhydrous citric acid, caramel flavor (artificial flavor, caramel, maltodextrin, molasses, propylene glycol, salt and sucrose), cellulose, peppermint flavor (acacia and natural flavor), potassium sorbate, sucrose, talc and xanthan gum.

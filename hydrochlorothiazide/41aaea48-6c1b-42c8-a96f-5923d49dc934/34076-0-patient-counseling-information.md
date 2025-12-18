@@ -29,6 +29,6 @@ ANI Pharmaceuticals, Inc.,
 
 Baudette, MN 56623
 
-LB4824-00
+LB4824-01
 
 INZIRQO is a pending trademark of ANI Pharmaceuticals, Inc.
