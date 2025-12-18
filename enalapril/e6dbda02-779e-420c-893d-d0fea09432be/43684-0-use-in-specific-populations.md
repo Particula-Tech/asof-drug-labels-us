@@ -28,8 +28,8 @@ In the unusual case that there is no appropriate alternative to therapy with dru
 Perform serial ultrasound examinations to assess the intra-amniotic environment.
 Fetal testing may be appropriate, based on the week of pregnancy.
 Patients and physicians should be aware, however, that oligohydraminos may not appear until after the fetus has sustained irreversible injury.
-Closely observe infants with histories of in utero exposure to EPANED for hypotension, oliguria, and hyperkalemia.
-If oliguria or hypotension occurs in neonates with a history of in utero exposure to EPANED, support blood pressure and renal perfusion.
+Closely observe infants with histories of in uteroexposure to EPANED for hypotension, oliguria, and hyperkalemia.
+If oliguria or hypotension occurs in neonates with a history of in uteroexposure to EPANED, support blood pressure and renal perfusion.
 Exchange transfusions or dialysis may be required as a means of reversing hypotension and substituting for disordered renal function.
 
 ## 8.2 Lactation
@@ -49,15 +49,15 @@ Enalapril, which crosses the placenta, has been removed from neonatal circulatio
 
 Pediatric patients with hypertension
 
-EPANED is not recommended in neonates (i.e., infants 1 month of age or less), preterm infants who have not reached a corrected post-conceptual age of 44 weeks, and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m2[see Nonclinical Toxicology (13.2)].
+EPANED is not recommended in neonates (i.e., infants 1 month of age or less), preterm infants who have not reached a corrected post-conceptual age of 44 weeks, and in pediatric patients with glomerular filtration rate <30 mL/min/1.73 m 2[see NonclinicalToxicology (13.2)].
 
 Enalapril lowers blood pressure in hypertensive pediatric patients age 6 years to 16 years.
-Use of enalapril in these age groups is supported by evidence from adequate and well-controlled studies of enalapril in pediatric and adult patients as well as by published literature in pediatric patients [see Clinical Pharmacology (12.3) and Dosage and Administration (2.1)].
+Use of enalapril in these age groups is supported by evidence from adequate and well-controlled studies of enalapril in pediatric and adult patients as well as by published literature in pediatric patients [see ClinicalPharmacology (12.3) and Dosage and Administration (2.1)].
 Clinical efficacy studies of enalapril in pediatric patients with hypertension did not enroll patients less than 6 years of age.
-In a previous clinical study in pediatric patients between 2 months and 6 years of age, a higher weight-based dose was required to match exposure in children aged 6 to 16 years [see Clinical Pharmacology (12.3)].
+In a previous clinical study in pediatric patients between 2 months and 6 years of age, a higher weight-based dose was required to match exposure in children aged 6 to 16 years [see ClinicalPharmacology (12.3)].
 
 It is unknown whether post-natal use of ACE inhibitors such as enalapril before maturation of renal function is complete has long-term deleterious effects on the kidney.
-In humans, nephrogenesis is thought to be complete around birth; however maturation of other aspects of kidney function (such as glomerular filtration and tubular function) may continue until approximately 2 years of age [see Nonclinical Toxicology (13.2)].
+In humans, nephrogenesis is thought to be complete around birth; however maturation of other aspects of kidney function (such as glomerular filtration and tubular function) may continue until approximately 2 years of age [see NonclinicalToxicology (13.2)].
 
 Pediatric patients with heart failure or asymptomatic left ventricular dysfunction
 

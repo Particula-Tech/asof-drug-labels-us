@@ -2,7 +2,7 @@
 
 NDC 52652-4001-1
 
-Epaned® (enalapril maleate)
+Epaned ® (enalapril maleate)
 
 Oral Solution 1 mg/mL
 

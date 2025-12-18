@@ -30,7 +30,7 @@ Symptomatic postural hypotension is therefore infrequent, although it might be a
 In most patients studied, after oral administration of a single dose of enalapril, onset of antihypertensive activity was seen at one hour with peak reduction of blood pressure achieved by four to six hours.
 
 At recommended doses, antihypertensive effects have been maintained for at least 24 hours.
-In some patients the effects may diminish toward the end of the dosing interval [see Dosage and Administration (2.1)].
+In some patients the effects may diminish toward the end of the dosing interval [see Dosageand Administration (2.1)].
 
 In some patients achievement of optimal blood pressure reduction may require several weeks of therapy.
 
@@ -67,11 +67,11 @@ Effects on exercise tolerance, heart size, and severity and symptoms of heart fa
 
 The pharmacokinetics of ready-to-use EPANED Oral Solution was shown to be bioequivalent to that of reconstituted EPANED Powder for Oral Solution under fasted conditions.
 
-Reconstituted EPANED Powder for Oral Solution was shown to be bioequivalent to Vasotec® tablets.
+Reconstituted EPANED Powder for Oral Solution was shown to be bioequivalent to Vasotec ®tablets.
 Reconstituted EPANED Powder for Oral Solution was also evaluated under fed and fasted conditions.
-A high-fat meal reduced the Cmax of enalapril and enalaprilat by 46% and 36%, respectively.
+A high-fat meal reduced the C maxof enalapril and enalaprilat by 46% and 36%, respectively.
 The exposure, as measured by AUC, to enalaprilat was reduced by 23%.
-The time to peak concentrations (Cmax) was delayed by 20 minutes for enalapril and 62 minutes for enalaprilat.
+The time to peak concentrations (C max) was delayed by 20 minutes for enalapril and 62 minutes for enalaprilat.
 The trough plasma concentrations of enalapril (from 6 to 12 hours) and enalaprilat (from 16 to 36 hours) are similar between fasted and fed administrations.
 
 Adults
@@ -95,7 +95,7 @@ The disposition of enalapril and enalaprilat in patients with renal insufficienc
 With glomerular filtration rate ≤30 mL/min, peak and trough enalaprilat levels increase, time to peak concentration increases, and time to steady state may be delayed.
 The effective half-life of enalaprilat following multiple doses of enalapril maleate is prolonged at this level of renal insufficiency [see Dosage and Administration (2.1)].
 Enalaprilat is dialyzable at the rate of 62 mL/min.
-Administering enalapril 1 h after hemodialysis led to a reduction of approximately 50% in the enalaprilat AUC0-6 h compared to off dialysis days.
+Administering enalapril 1 h after hemodialysis led to a reduction of approximately 50% in the enalaprilat AUC 0-6 hcompared to off dialysis days.
 
 Pediatric Patients
 
