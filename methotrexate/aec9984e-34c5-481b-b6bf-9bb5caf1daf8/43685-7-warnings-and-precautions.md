@@ -10,7 +10,7 @@ Provide supportive care and modify dose or discontinue XATMEP as needed.
 
 ## 5.2 Serious Infections
 
-Patients treated with XATMEP are at increased risk for developing life-threatening or fatal bacterial, fungal, or viral infections including opportunistic infections such as Pneumocystis jiroveci pneumonia, invasive fungal infections, hepatitis B reactivation, tuberculosis primary infection or reactivation, and disseminated Herpes zoster and cytomegalovirus infections.
+Patients treated with XATMEP are at increased risk for developing life-threatening or fatal bacterial, fungal, or viral infections including opportunistic infections such as Pneumocystis jirovecipneumonia, invasive fungal infections, hepatitis B reactivation, tuberculosis primary infection or reactivation, and disseminated Herpes zosterand cytomegalovirus infections.
 
 Monitor patients for the signs and symptoms of infection during and after treatment with XATMEP and treat promptly.
 Consider dose modification or discontinuation of XATMEP in patients who develop serious infections [see Warnings and Precautions (5.1)].

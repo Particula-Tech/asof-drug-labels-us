@@ -2,7 +2,7 @@
 
 Importance of Proper Dosing and Administration
 
-Advise patients that the recommended dose should be taken one time weekly, as directed, and that mistaken daily use of the recommended dose has led to fatal toxicity [see Dosage and Administration (2.1), Warnings and Precautions (5.15)].
+Advise patients that the recommended dose should be taken one timeweekly, as directed, and that mistaken daily use of the recommended dose has led to fatal toxicity [see Dosage and Administration (2.1), Warnings and Precautions (5.15)].
 
 Advise patients and caregivers to measure XATMEP with an accurate milliliter measuring device.
 A household teaspoon is not an accurate measuring device.
