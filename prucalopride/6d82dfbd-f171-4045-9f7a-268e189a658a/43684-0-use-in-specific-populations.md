@@ -39,9 +39,12 @@ The prucalopride concentration detected in breast milk during weaning may not re
 
 The safety and effectiveness of prucalopride tablets have not been established in pediatric patients.
 
+Pediatric information describing a clinical study in which efficacy was not demonstrated is approved for Takeda Pharmaceuticals U.S.A., Inc’s MOTEGRITY (prucalopride) tablets.
+However, due to Takeda Pharmaceuticals U.S.A., Inc’s marketing exclusivity rights, this drug product is not labeled with that information.
+
 ## 8.5 Geriatric Use
 
-Of the 2484 patients treated with prucalopride tablets 1 mg or 2 mg once daily in 6 controlled trials of at least 12-week duration in patients with CIC, 15% were 65 years of age and over, and 5% were 75 years of age and over [see Clinical Studies (14)].
+Of the 2,484 patients treated with prucalopride tablets 1 mg or 2 mg once daily in 6 controlled trials of at least 12-week duration in patients with CIC, 15% were 65 years of age and over, and 5% were 75 years of age and over [see Clinical Studies (14)].
 No overall differences in safety and effectiveness were observed between elderly and younger patients.
 
 In an additional 4-week double-blind, placebo-controlled dose escalation study in 89 elderly nursing home residents with CIC (PRU-USA-26, NCT00627692), no unanticipated safety issues were identified.

@@ -18,8 +18,8 @@ ANI Pharmaceuticals, Inc.
 
 Baudette, MN 56623
 
-Issued: 09/2024
+Issued: 12/2025
 
-LB4664-01
+LB4664-04
 
 For more information, call 1-855-204-1431.
