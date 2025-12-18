@@ -20,4 +20,4 @@ NDC 0074-1658-01 Single-Dose Vial 1 mL Discard unused portion Zemplar® (parical
 
 NDC 0074-4637-01 Single-Dose Vials – Discard unused portion Zemplar® 2 mcg/mL (paricalcitol) Injection For Intravenous Use 25 x 1 mL Vials Rx only abbvie
 
-NDC 0074-4637-01 Single-Doxe Vial 1 mL Discard unused portion Zemplar® (paricalcitol) Injection 2 mcg/mL For Intravenous Use Rx only
+NDC 0074-4637-01 Single-Dose Vial 1 mL Discard unused portion Zemplar® (paricalcitol) Injection 2 mcg/mL For Intravenous Use Rx only
