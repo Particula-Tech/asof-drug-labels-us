@@ -4,11 +4,11 @@
 
 TRIJARDY XR
 
-TRIJARDY XR contains: empagliflozin, a SGLT2 inhibitor, linagliptin, a DPP-4 inhibitor, and metformin, a biguanide.
+TRIJARDY XR contains: empagliflozin, a SGLT2 inhibitor, linagliptin, a DPP-4 inhibitor, and metformin HCl, a biguanide.
 
 Empagliflozin
 
-Empagliflozin is an inhibitor of the SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
+Empagliflozin is an inhibitor of SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation.
 By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion.
 
 Linagliptin
@@ -22,9 +22,9 @@ Furthermore, GLP-1 also reduces glucagon secretion from pancreatic alpha cells, 
 
 Metformin HCl
 
-Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
-Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
-With metformin therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may decrease.
+Metformin HCl is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose.
+Metformin HCl decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization.
+With metformin HCl therapy, insulin secretion remains unchanged while fasting insulin levels and day-long plasma insulin response may decrease.
 
 ## 12.2 Pharmacodynamics
 
@@ -61,7 +61,7 @@ At the 100 mg dose, peak linagliptin plasma concentrations were approximately 38
 TRIJARDY XR
 
 Administration of TRIJARDY XR with food resulted in no change in overall exposure of empagliflozin or linagliptin.
-For metformin extended-release, high-fat meals increased systemic exposure (as measured by area-under-the-curve [AUC]) by approximately 70% relative to fasting, while Cmax is not affected.
+For metformin HCl extended-release, high-fat meals increased systemic exposure (as measured by area-under-the-curve [AUC]) by approximately 70% relative to fasting, while Cmax is not affected.
 Meals prolonged Tmax by approximately 3 hours.
 
 Empagliflozin
@@ -173,14 +173,14 @@ Empagliflozin: Age, body mass index (BMI), gender and race (Asians versus primar
 Linagliptin: Based on the population PK analysis, age, body mass index (BMI), gender and race do not have a clinically meaningful effect on pharmacokinetics of linagliptin [see Use in Specific Populations (8.5)].
 
 Metformin HCl: Metformin pharmacokinetic parameters did not differ significantly between normal subjects and patients with type 2 diabetes mellitus when analyzed according to gender.
-Similarly, in controlled clinical studies in patients with type 2 diabetes mellitus, the antihyperglycemic effect of metformin was comparable in males and females.
+Similarly, in controlled clinical studies in patients with type 2 diabetes mellitus, the antihyperglycemic effect of metformin HCl was comparable in males and females.
 
 No studies of metformin pharmacokinetic parameters according to race have been performed.
 In controlled clinical studies of metformin HCl in patients with type 2 diabetes mellitus, the antihyperglycemic effect was comparable in Whites (n=249), Blacks or African Americans (n=51), and Hispanics or Latinos (n=24).
 
 Patients with Renal Impairment
 
-TRIJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin, linagliptin, and metformin after administration of TRIJARDY XR in renally impaired patients have not been performed.
+TRIJARDY XR: Studies characterizing the pharmacokinetics of empagliflozin, linagliptin, and metformin HCl after administration of TRIJARDY XR in renally impaired patients have not been performed.
 
 Empagliflozin: In patients with mild (eGFR: 60 to less than 90 mL/min/1.73 m2), moderate (eGFR: 30 to less than 60 mL/min/1.73 m2), and severe (eGFR: less than 30 mL/min/1.73 m2) renal impairment and patients on dialysis due to kidney failure, AUC of empagliflozin increased by approximately 18%, 20%, 66%, and 48%, respectively, compared to subjects with normal renal function.
 Peak plasma levels of empagliflozin were similar in patients with moderate renal impairment and patients on dialysis due to kidney failure compared to subjects with normal renal function.
@@ -238,7 +238,7 @@ Empagliflozin does not inhibit any of these human uptake transporters at clinica
 
 In vivo Assessment of Drug Interactions
 
-Empagliflozin pharmacokinetics were similar with and without coadministration of metformin, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, and simvastatin in healthy volunteers and with or without coadministration of hydrochlorothiazide and torsemide in patients with type 2 diabetes mellitus (see Figure 1).
+Empagliflozin pharmacokinetics were similar with and without coadministration of metformin HCl, glimepiride, pioglitazone, sitagliptin, linagliptin, warfarin, verapamil, ramipril, and simvastatin in healthy volunteers and with or without coadministration of hydrochlorothiazide and torsemide in patients with type 2 diabetes mellitus (see Figure 1).
 In subjects with normal renal function, coadministration of empagliflozin with probenecid resulted in a 30% decrease in the fraction of empagliflozin excreted in urine without any effect on 24-hour urinary glucose excretion.
 The relevance of this observation to patients with renal impairment is unknown.
 
@@ -281,7 +281,7 @@ Table 3 Effect of Coadministered Drugs on Systemic Exposure of Linagliptin
 | aMultiple dose (steady-state) unless otherwise noted |  |  |  |  |
 | bFor information regarding clinical recommendations [see Drug Interactions (7)]. |  |  |  |  |
 | cSingle dose |  |  |  |  |
-| dAUC = AUC(0 to 24 hours) for single dose treatments and AUC = AUC(TAU) for multiple-dose treatments |  |  |  |  |
+| dAUC = AUC (0 to 24 hours) for single dose treatments and AUC = AUC (TAU) for multiple-dose treatments |  |  |  |  |
 | QD = once daily |  |  |  |  |
 | BID = twice daily |  |  |  |  |
 | TID = three times daily |  |  |  |  |
@@ -302,8 +302,8 @@ Table 4 Effect of Linagliptin on Systemic Exposure of Coadministered Drugs
 | Ethinylestradiol and levonorgestrel | ethinylestradiol 0.03 mg and levonorgestrel 0.150 mg QD | 5 mg QD | ethinylestradiol levonorgestrel | 1.01 1.09 | 1.08 1.13 |
 | aMultiple dose (steady-state) unless otherwise noted |  |  |  |  |  |
 | bSingle dose |  |  |  |  |  |
-| cAUC = AUC(INF) for single dose treatments and AUC = AUC(TAU) for multiple-dose treatments |  |  |  |  |  |
-| dAUC = AUC(0-168) and Cmax = Emax for pharmacodynamic end points |  |  |  |  |  |
+| cAUC = AUC (INF) for single dose treatments and AUC = AUC (TAU) for multiple-dose treatments |  |  |  |  |  |
+| dAUC = AUC (0-168) and Cmax = Emax for pharmacodynamic end points |  |  |  |  |  |
 | INR = International Normalized Ratio |  |  |  |  |  |
 | PT = Prothrombin Time |  |  |  |  |  |
 | QD = once daily |  |  |  |  |  |
@@ -328,10 +328,10 @@ Table 5 Effect of Coadministered Drugs on Plasma Metformin Systemic Exposure
 | Carbonic anhydrase inhibitors may cause metabolic acidosis [see Drug Interactions (7)]. |  |  |  |  |  |
 | Topiramate** | 100 mg | 500 mg | metformin | 1.25 | 1.17 |
 | *All metformin and coadministered drugs were given as single doses |  |  |  |  |  |
-| †AUC = AUC(INF) |  |  |  |  |  |
+| †AUC = AUC (INF) |  |  |  |  |  |
 | ≠Metformin HCl extended-release tablets 500 mg |  |  |  |  |  |
 | ‡Ratio of arithmetic means |  |  |  |  |  |
-| **At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC(0-12 hours) |  |  |  |  |  |
+| **At steady-state with topiramate 100 mg every 12 hours and metformin 500 mg every 12 hours; AUC = AUC (0-12 hours) |  |  |  |  |  |
 
 Table 6 describes the effect of metformin on coadministered drug systemic exposure.
 
@@ -347,7 +347,7 @@ Table 6 Effect of Metformin on Coadministered Drug Systemic Exposure
 | Ibuprofen | 400 mg | 850 mg | ibuprofen | 0.97¶ | 1.01¶ |
 | Cimetidine | 400 mg | 850 mg | cimetidine | 0.95§ | 1.01 |
 | *All metformin and coadministered drugs were given as single doses |  |  |  |  |  |
-| †AUC = AUC(INF) unless otherwise noted |  |  |  |  |  |
-| §AUC(0-24 hours) reported |  |  |  |  |  |
+| †AUC = AUC (INF) unless otherwise noted |  |  |  |  |  |
+| §AUC (0-24 hours) reported |  |  |  |  |  |
 | ‡Ratio of arithmetic means, p-value of difference <0.05 |  |  |  |  |  |
 | ¶Ratio of arithmetic means |  |  |  |  |  |

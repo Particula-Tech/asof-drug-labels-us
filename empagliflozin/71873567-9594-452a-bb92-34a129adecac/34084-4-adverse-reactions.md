@@ -6,29 +6,27 @@ The following important adverse reactions are described below and elsewhere in t
 - Diabetic Ketoacidosis in Patients with Type 1 Diabetes Mellitus and Other Ketoacidosis [see Warnings and Precautions (5.2)]
 - Pancreatitis [see Warnings and Precautions (5.3)]
 - Volume Depletion [see Warnings and Precautions (5.4)]
-- Urosepsis and Pyelonephritis [see Warnings and Precautions (5.5)]
+- Genitourinary Infections, including Urosepsis, Pyelonephritis, Necrotizing Fasciitis of the Perineum (Fournier's Gangrene), and Genital Mycotic Infections [see Warnings and Precautions (5.5)]
 - Hypoglycemia with Concomitant Use with Insulin and Insulin Secretagogues [see Warnings and Precautions (5.6)]
-- Necrotizing Fasciitis of the Perineum (Fournier's Gangrene) [see Warnings and Precautions (5.7)]
-- Genital Mycotic Infections [see Warnings and Precautions (5.8)]
-- Lower Limb Amputation [see Warnings and Precautions (5.9)]
-- Hypersensitivity Reactions [see Warnings and Precautions (5.10)]
-- Vitamin B12 Deficiency [see Warnings and Precautions (5.11)]
-- Severe and Disabling Arthralgia [see Warnings and Precautions (5.12)]
-- Bullous Pemphigoid [see Warnings and Precautions (5.13)]
-- Heart Failure [see Warnings and Precautions (5.14)]
+- Lower Limb Amputation [see Warnings and Precautions (5.7)]
+- Hypersensitivity Reactions [see Warnings and Precautions (5.8)]
+- Vitamin B12 Deficiency [see Warnings and Precautions (5.9)]
+- Severe and Disabling Arthralgia [see Warnings and Precautions (5.10)]
+- Bullous Pemphigoid [see Warnings and Precautions (5.11)]
+- Heart Failure [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Empagliflozin, Linagliptin and Metformin
+Empagliflozin, Linagliptin and Metformin HCl
 
-The safety of concomitantly administered empagliflozin (daily dosage 10 mg or 25 mg), linagliptin (daily dosage 5 mg) and metformin has been evaluated in a total of 686 patients with type 2 diabetes mellitus treated for up to 52 weeks in an active-controlled clinical trial.
+The safety of concomitantly administered empagliflozin (daily dosage 10 mg or 25 mg), linagliptin (daily dosage 5 mg) and metformin HCl has been evaluated in a total of 686 patients with type 2 diabetes mellitus treated for up to 52 weeks in an active-controlled clinical trial.
 The most common adverse reactions are shown in Table 1.
 
-Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Empagliflozin, Linagliptin, and Metformin in an Active-Controlled Clinical Trial of 52 Weeks
+Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Empagliflozin, Linagliptin, and Metformin HCl in an Active-Controlled Clinical Trial of 52 Weeks
 
-| Adverse Reactions | Empagliflozin 10 mg + Linagliptin 5 mg + Metformin (%) n=136 | Empagliflozin 25 mg + Linagliptin 5 mg + Metformin (%) n=137 |
+| Adverse Reactions | Empagliflozin 10 mg + Linagliptin 5 mg + Metformin HCl (%) n=136 | Empagliflozin 25 mg + Linagliptin 5 mg + Metformin HCl (%) n=137 |
 | --- | --- | --- |
 | Upper respiratory tract infection | 10.3 | 8.0 |
 | Urinary tract infectiona | 9.6 | 10.2 |
@@ -41,7 +39,7 @@ Table 1 Adverse Reactions Reported in ≥5% of Patients Treated with Empaglifloz
 
 Hypoglycemia
 
-The incidence of hypoglycemia (defined as plasma or capillary glucose of less than 54 mg/dL) was 0.7% in patients receiving empagliflozin 10 mg/linagliptin 5 mg/metformin and 0.7% in patients receiving empagliflozin 25 mg/linagliptin 5 mg/metformin.
+The incidence of hypoglycemia (defined as plasma or capillary glucose of less than 54 mg/dL) was 0.7% in patients receiving empagliflozin 10 mg/linagliptin 5 mg/metformin HCl and 0.7% in patients receiving empagliflozin 25 mg/linagliptin 5 mg/metformin HCl.
 Events of severe hypoglycemia (requiring assistance regardless of blood glucose) did not occur in this trial.
 
 Empagliflozin
@@ -51,7 +49,7 @@ Adverse reactions that occurred in ≥2% of patients receiving empagliflozin and
 Thirst (including polydipsia) was reported in 0%, 1.7%, and 1.5% for placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
 
 Empagliflozin causes an osmotic diuresis, which may lead to intravascular volume contraction and adverse reactions related to volume depletion.
-Events related to volume depletion (hypotension and syncope) were reported in 3 patients (1.1%) treated with empagliflozin, linagliptin and metformin combination therapy.
+Events related to volume depletion (hypotension and syncope) were reported in 3 patients (1.1%) treated with empagliflozin, linagliptin and metformin HCl combination therapy.
 
 Linagliptin
 
@@ -62,11 +60,11 @@ Other adverse reactions reported in clinical trials with treatment of linaglipti
 In the clinical trial program, pancreatitis was reported in 15.2 cases per 10,000 patient-year exposure while being treated with linagliptin, compared with 3.7 cases per 10,000 patient-year exposure while being treated with comparator (placebo and active comparator, sulfonylurea).
 Three additional cases of pancreatitis were reported following the last administered dose of linagliptin.
 
-Metformin
+Metformin HCl
 
-The most common (>5%) adverse reactions due to initiation of metformin therapy are diarrhea, nausea/vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
+The most common (>5%) adverse reactions due to initiation of metformin HCl therapy are diarrhea, nausea/vomiting, flatulence, abdominal discomfort, indigestion, asthenia, and headache.
 
-In a 24-week clinical trial in which extended-release metformin or placebo was added to glyburide therapy, the most common (>5% and greater than placebo) adverse reactions in the combined treatment group were hypoglycemia (13.7% vs 4.9%), diarrhea (12.5% vs 5.6%), and nausea (6.7% vs 4.2%).
+In a 24-week clinical trial in which extended-release metformin HCl or placebo was added to glyburide therapy, the most common (>5% and greater than placebo) adverse reactions in the combined treatment group were hypoglycemia (13.7% vs 4.9%), diarrhea (12.5% vs 5.6%), and nausea (6.7% vs 4.2%).
 
 Other Adverse Reactions in Clinical Trials with Empagliflozin in Adults
 
@@ -81,16 +79,16 @@ Other Adverse Reactions in Clinical Trials with Empagliflozin in Adults
   The incidence of urinary tract infections in female patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 16.6%, 18.4%, and 17.0%, respectively.
   The incidence of urinary tract infections in male patients randomized to placebo, empagliflozin 10 mg, and empagliflozin 25 mg was 3.2%, 3.6%, and 4.1%, respectively [see Use in Specific Populations (8.5)].
 - Lower Limb Amputations: Across four empagliflozin outcome trials, lower limb amputation event rates were 4.3 and 5.0 events per 1,000 patient-years in the placebo group and the empagliflozin 10 mg or 25 mg dose group, respectively, with a HR of 1.05 (95% CI) (0.81, 1.36).
-  In a long-term cardio-renal outcome trial, in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1,000 patient-years in the placebo, and empagliflozin 10 mg treatment arms, respectively.
+  In a long-term cardio-renal outcome trial with empagliflozin, in patients with chronic kidney disease, the occurrence of lower limb amputations was reported with event rates of 2.9, and 4.3 events per 1,000 patient-years in the placebo, and empagliflozin 10 mg treatment arms, respectively.
   TRIJARDY XR is not indicated for the treatment of chronic kidney disease.
 
-Laboratory Test Abnormalities in Clinical Trials of Empagliflozin, Linagliptin, or Metformin
+Laboratory Test Abnormalities in Clinical Trials of Empagliflozin, Linagliptin, or Metformin HCl
 
 Empagliflozin
 
 Increases in Serum Creatinine and Decreases in eGFR: Initiation of empagliflozin causes an increase in serum creatinine and decrease in eGFR within weeks of starting therapy and then these changes stabilize.
 In a trial of patients with moderate renal impairment, larger mean changes were observed.
-In a long-term cardiovascular outcomes trial, the increase in serum creatinine and decrease in eGFR generally did not exceed 0.1 mg/dL and -9.0 mL/min/1.73 m2, respectively, at Week 4, and reversed after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with empagliflozin.
+In a long-term CV outcomes trial, the increase in serum creatinine and decrease in eGFR generally did not exceed 0.1 mg/dL and -9.0 mL/min/1.73 m2, respectively, at Week 4, and reversed after treatment discontinuation, suggesting acute hemodynamic changes may play a role in the renal function changes observed with empagliflozin.
 
 Increase in Low-Density Lipoprotein Cholesterol (LDL-C): Dose-related increases in low-density lipoprotein cholesterol (LDL-C) were observed in patients treated with empagliflozin.
 LDL-C increased by 2.3%, 4.6%, and 6.5% in patients treated with placebo, empagliflozin 10 mg, and empagliflozin 25 mg, respectively.
@@ -106,17 +104,17 @@ Increase in Uric Acid: Changes in laboratory values that occurred more frequentl
 Increase in Lipase: In a placebo-controlled clinical trial with linagliptin in type 2 diabetes mellitus patients with micro- or macroalbuminuria, a mean increase of 30% in lipase concentrations from baseline to 24 weeks was observed in the linagliptin arm, compared to a mean decrease of 2% in the placebo arm.
 Lipase levels above 3 times upper limit of normal were seen in 8.2% compared to 1.7% patients in the linagliptin and placebo arms, respectively.
 
-Increase in Amylase: In a cardiovascular safety trial comparing linagliptin versus glimepiride in patients with type 2 diabetes mellitus, amylase levels above 3 times upper limit of normal were seen in 1.0% compared to 0.5% of patients in the linagliptin and glimepiride arms, respectively.
+Increase in Amylase: In a CV safety trial comparing linagliptin versus glimepiride in patients with type 2 diabetes mellitus, amylase levels above 3 times upper limit of normal were seen in 1.0% compared to 0.5% of patients in the linagliptin and glimepiride arms, respectively.
 
 The clinical significance of elevations in lipase and amylase with linagliptin is unknown in the absence of other signs and symptoms of pancreatitis [see Warnings and Precautions (5.3)].
 
-Metformin
+Metformin HCl
 
-Decrease in Vitamin B12: In metformin clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
+Decrease in Vitamin B12: In metformin HCl clinical trials of 29-week duration, a decrease to subnormal levels of previously normal serum vitamin B12 levels was observed in approximately 7% of patients.
 
 ## 6.2 Postmarketing Experience
 
-Additional adverse reactions have been identified during postapproval use of linagliptin, empagliflozin, or metformin.
+Additional adverse reactions have been identified during postapproval use of linagliptin, empagliflozin, or metformin HCl.
 Because these reactions are reported voluntarily from a population of uncertain size, it is generally not possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 - Gastrointestinal Disorders: Acute pancreatitis, including fatal pancreatitis [see Indications and Usage (1)], mouth ulceration, stomatitis

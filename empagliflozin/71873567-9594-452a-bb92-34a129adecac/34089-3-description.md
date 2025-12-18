@@ -38,7 +38,7 @@ The structural formula is:
 
 TRIJARDY XR
 
-Each film-coated tablet of TRIJARDY XR consists of an extended-release metformin hydrochloride core tablet that is coated with the immediate-release drug substances: empagliflozin and linagliptin.
+Each film-coated tablet of TRIJARDY XR consists of an extended-release metformin HCl core tablet that is coated with the immediate-release drug substances: empagliflozin and linagliptin.
 
 TRIJARDY XR tablets for oral administration are available in four strengths containing:
 

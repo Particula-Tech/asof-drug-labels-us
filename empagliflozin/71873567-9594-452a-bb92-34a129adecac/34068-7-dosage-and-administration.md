@@ -20,8 +20,8 @@
 
 ## 2.3 Dosage Recommendations in Patients with Renal Impairment
 
-- Initiation of TRIJARDY XR is not recommended in patients with an eGFR less than 45 mL/min/1.73 m2, due to the metformin component.
-- TRIJARDY XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 or in patients on dialysis [see Contraindications (4), Warnings and Precautions (5.1, 5.4), and Use in Specific Populations (8.6)].
+- Initiation of TRIJARDY XR is not recommended in patients with an eGFR less than 45 mL/min/1.73 m2, due to the metformin HCl component.
+- TRIJARDY XR is contraindicated in patients with an eGFR less than 30 mL/min/1.73 m2 [see Contraindications (4), Warnings and Precautions (5.1, 5.4), and Use in Specific Populations (8.6)].
 
 ## 2.4 Discontinuation for Iodinated Contrast Imaging Procedures
 
@@ -30,10 +30,10 @@ Re-evaluate eGFR 48 hours after the imaging procedure; restart TRIJARDY XR if re
 
 ## 2.5 Temporary Interruption for Surgery
 
-Withhold TRIJARDY XR for at least 3 days, if possible, prior to major surgery or procedures associated with prolonged fasting.
+Withhold TRIJARDY XR for at least 3 days, if possible, prior to surgery or procedures associated with prolonged fasting.
 Resume TRIJARDY XR when the patient is clinically stable and has resumed oral intake [see Warnings and Precautions (5.2) and Clinical Pharmacology (12.2)].
 
 ## 2.6 Recommendations Regarding Missed Dose
 
 - If a dose is missed, instruct patients to take the dose as soon as possible.
-- Do not double up the next dose.
+- Advise patients not to double up the next dose.

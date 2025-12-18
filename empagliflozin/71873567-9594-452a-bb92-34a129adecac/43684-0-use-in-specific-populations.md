@@ -7,12 +7,12 @@ Risk Summary
 Based on animal data showing adverse renal effects from empagliflozin, TRIJARDY XR is not recommended during the second and third trimesters of pregnancy.
 
 The limited available data with TRIJARDY XR, linagliptin, or empagliflozin in pregnant women are not sufficient to determine a drug-associated risk for major birth defects and miscarriage.
-Published studies with metformin use during pregnancy have not reported a clear association with metformin and major birth defect or miscarriage risk (see Data).
+Published studies with metformin HCl use during pregnancy have not reported a clear association with metformin HCl and major birth defect or miscarriage risk (see Data).
 There are risks to the mother and fetus associated with poorly controlled diabetes in pregnancy (see Clinical Considerations).
 
 In animal studies, empagliflozin, a component of TRIJARDY XR, resulted in adverse renal changes in rats when administered during a period of renal development corresponding to the late second and third trimesters of human pregnancy.
 Doses approximately 13-times the maximum clinical dose caused renal pelvic and tubule dilatations that were reversible.
-No adverse developmental effects were observed when linagliptin or metformin were administered to pregnant rats or rabbits (see Data).
+No adverse developmental effects were observed when linagliptin or metformin HCl were administered to pregnant rats or rabbits (see Data).
 
 The estimated background risk of major birth defects is 6% to 10% in women with pre-gestational diabetes with a HbA1c >7 and has been reported to be as high as 20% to 25% in women with HbA1c >10.
 The estimated background risk of miscarriage for the indicated population is unknown.
@@ -29,7 +29,7 @@ Data
 
 Human Data
 
-Published data from postmarketing studies have not reported a clear association with metformin and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin was used during pregnancy.
+Published data from postmarketing studies have not reported a clear association with metformin HCl and major birth defects, miscarriage, or adverse maternal or fetal outcomes when metformin HCl was used during pregnancy.
 However, these studies cannot definitely establish the absence of any metformin-associated risk because of methodological limitations, including small sample size and inconsistent comparator groups.
 
 Animal Data
@@ -60,7 +60,7 @@ This represents an exposure of approximately 2- and 6-times a clinical dose of 2
 
 Risk Summary
 
-There is limited information regarding the presence of TRIJARDY XR, or its components (empagliflozin, linagliptin, or metformin) in human milk, the effects on the breastfed infant, or the effects on milk production.
+There is limited information regarding the presence of TRIJARDY XR, or its components (empagliflozin, linagliptin, or metformin HCl) in human milk, the effects on the breastfed infant, or the effects on milk production.
 Limited published studies report that metformin is present in human milk (see Data).
 Empagliflozin and linagliptin are present in rat milk (see Data).
 Since human kidney maturation occurs in utero and during the first 2 years of life when lactational exposure may occur, there may be risk to the developing human kidney.
@@ -70,7 +70,7 @@ Because of the potential for serious adverse reactions in a breastfed infant, in
 Data
 
 Published clinical lactation studies report that metformin is present in human milk which resulted in infant doses approximately 0.11% to 1% of the maternal weight-adjusted dosage and a milk/plasma ratio ranging between 0.13 and 1.
-However, the studies were not designed to definitely establish the risk of use of metformin during lactation because of small sample size and limited adverse event data collected in infants.
+However, the studies were not designed to definitely establish the risk of use of metformin HCl during lactation because of small sample size and limited adverse event data collected in infants.
 
 Empagliflozin was present at a low level in rat fetal tissues after a single oral dose to the dams at gestation day 18.
 In rat milk, the mean milk to plasma ratio ranged from 0.634 to 5, and was greater than one from 2 to 24 hours post-dose.
@@ -79,7 +79,7 @@ Juvenile rats directly exposed to empagliflozin showed a risk to the developing 
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Discuss the potential for unintended pregnancy with premenopausal women as therapy with metformin may result in ovulation in some anovulatory women.
+Discuss the potential for unintended pregnancy with premenopausal women as therapy with metformin HCl may result in ovulation in some anovulatory women.
 
 ## 8.4 Pediatric Use
 
@@ -89,9 +89,9 @@ Safety and effectiveness of TRIJARDY XR have not been established in pediatric p
 
 Assess renal function more frequently in TRIJARDY XR-treated geriatric patients because there is a greater risk of empagliflozin-associated intravascular volume contraction and symptomatic hypotension in geriatric patients and there is a greater risk of metformin-associated lactic acidosis in geriatric patients [see Warnings and Precautions (5.1, 5.4)].
 
-The recommended dosage for the metformin component of TRIJARDY XR in geriatric patients should usually start at the lower end of the dosage range.
+The recommended dosage for the metformin HCl component of TRIJARDY XR in geriatric patients should usually start at the lower end of the dosage range.
 
-Of the 273 patients treated with the combination of empagliflozin, linagliptin, and metformin hydrochloride to improve glycemic control in adults with type 2 diabetes mellitus, 58 were 65 years of age and older, while 8 were 75 years of age and older.
+Of the 273 patients treated with the combination of empagliflozin, linagliptin, and metformin HCl to improve glycemic control in adults with type 2 diabetes mellitus, 58 were 65 years of age and older, while 8 were 75 years of age and older.
 Clinical trials of TRIJARDY XR did not include sufficient numbers of geriatric patients to determine whether they respond differently from younger adult patients.
 
 Empagliflozin
@@ -104,20 +104,20 @@ Linagliptin
 In linagliptin trials, 1,085 linagliptin-treated patients were 65 years of age and older and 131 patients were 75 years of age and older.
 In these linagliptin trials, no overall differences in safety or effectiveness of linagliptin were observed between geriatric patients and younger adult patients.
 
-Metformin
+Metformin HCl
 
-Clinical trials of metformin did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger adult patients.
+Clinical trials of metformin HCl did not include sufficient numbers of patients 65 years of age and older to determine whether they respond differently from younger adult patients.
 
 ## 8.6 Renal Impairment
 
-TRIJARDY XR should not be initiated in patients with an eGFR less than 45 mL/min/1.73 m2 due to the metformin component and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2), end-stage renal disease, or dialysis.
+TRIJARDY XR should not be initiated in patients with an eGFR less than 45 mL/min/1.73 m2 due to the metformin HCl component and is contraindicated in patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m2).
 
 Empagliflozin
 
 The glucose lowering benefit of empagliflozin 25 mg decreased in patients with worsening renal function.
 The risks of renal impairment [see Warnings and Precautions (5.4)], volume depletion adverse reactions and urinary tract infection-related adverse reactions increased with worsening renal function.
 
-Metformin
+Metformin HCl
 
 Metformin is substantially excreted by the kidney, and the risk of metformin accumulation and lactic acidosis increases with the degree of renal impairment [see Warnings and Precautions (5.1)].
 
