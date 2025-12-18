@@ -11,4 +11,4 @@ For current Full Prescribing Information, please visit www.FLEQSUVY.com
 
 PN: 65628-00623
 
-REV: 01 02/2023
+REV: 02 04/2024
