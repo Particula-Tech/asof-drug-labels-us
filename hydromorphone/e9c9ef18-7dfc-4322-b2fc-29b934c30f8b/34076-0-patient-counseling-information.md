@@ -28,4 +28,4 @@ For Medical Information about Hydromorphone Hydrochloride, please visit www.pfiz
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0856-5.0
+LAB-0856-6.0
