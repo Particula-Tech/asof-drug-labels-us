@@ -23,8 +23,22 @@ Keep out of reach of children.
 
 Albuterol Sulfate Inhalation Aerosol does not contain chlorofluorocarbons (CFCs) as the propellant.
 
+Developed and Manufactured by:
+
+Kindeva Drug Delivery L.P.
+
+Northridge, CA 91324, USA
+
+or
+
+Kindeva Drug Delivery Limited
+
+Loughborough, UK
+
 Distributed by: Sandoz Inc. Princeton, NJ 08540
 
-Copyright © 1996, 2011, 2012, 2017, 2018, 2020 All rights reserved.The trademarks depicted in this piece are owned by their respective companies.
+Copyright © 1996, 2011, 2012, 2017, 2018, 2020, 2025 All rights reserved.
 
-Revised: 12/2020 34-8726-6023-7
+The trademarks depicted in this piece are owned by their respective companies.
+
+Revised: 03/2025 3200001123

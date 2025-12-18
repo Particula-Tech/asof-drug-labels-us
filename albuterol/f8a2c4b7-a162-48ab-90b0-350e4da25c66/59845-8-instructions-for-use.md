@@ -107,10 +107,18 @@ How should I store Albuterol Sulfate Inhalation Aerosol?
 Developed and Manufactured by: Kindeva Drug Delivery L.P.
 Northridge, CA 91324, USA
 
+or
+
+Kindeva Drug Delivery Limited
+
+Loughborough, UK
+
 Distributed by: Sandoz Inc. Princeton, NJ 08540
 
-Copyright © 1996, 2011, 2012, 2017, 2018, 2020All rights reserved.
+Copyright © 1996, 2011, 2012, 2017, 2018, 2020, 2025
+
+All rights reserved.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 12/2020 34-8726-6023-7
+Revised: 03/2025 3200001123
