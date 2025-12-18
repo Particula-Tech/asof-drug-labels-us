@@ -8,8 +8,10 @@ The mechanism of action of MPA is multifaceted and includes effects on cellular 
 MPA shifts transcriptional activities in lymphocytes from a proliferative state to catabolic processes.
 In vitro studies suggest that MPA modulates transcriptional activities in human CD4+ T-lymphocytes by suppressing the Akt/mTOR and STAT5 pathways that are relevant to metabolism and survival, leading to an anergic state of T-cells whereby the cells become less responsive to antigenic stimulation.
 Additionally, MPA enhanced the expression of negative co-stimulators such as CD70, PD-1, CTLA-4, and transcription factor FoxP3 as well as decreased the expression of positive co-stimulators CD27 and CD28.
+
 MPA decreases proliferative responses of T- and B-lymphocytes to both mitogenic and allo-antigenic stimulation, antibody responses, as well as the production of cytokines from lymphocytes and monocytes such as GM-CSF, IFN-ɣ, IL-17, and TNF-α.
 Additionally, MPA prevents the glycosylation of lymphocyte and monocyte glycoproteins that are involved in intercellular adhesion to endothelial cells and may inhibit recruitment of leukocytes into sites of inflammation and graft rejection.
+
 Overall, the effect of MPA is cytostatic and reversible.
 
 ## 12.2 Pharmacodynamics
@@ -41,7 +43,7 @@ Table 10 Pharmacokinetic Parameters for MPA [mean (±SD)] Following Administrati
 | Late (Greater than 3 months) | 1.5 g/oral | 0.90 (±0.24) (n=23) | 24.1 (±12.1) (n=23) | 65.3 (±35.4) (n=23) |
 | Heart transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | T max (h) | C max (mcg/mL) | Interdosing Interval AUC (0 to 12h) (mcg∙h/mL) |
 | Early (Day before discharge) | 1.5 g/oral | 1.8 (±1.3) (n=11) | 11.5 (±6.8) (n=11) | 43.3 (±20.8) (n=9) |
-| Late (Greater than 6 months) | 1.5 g/oral | 1.1 (±0.7) (n=52) | 20.0 (±9.4) (n=52) | 54.1 AUC(0 to 12h) values quoted are extrapolated from data from samples collected over 4 hours. (±20.4) (n=49) |
+| Late (Greater than 6 months) | 1.5 g/oral | 1.1 (±0.7) (n=52) | 20.0 (±9.4) (n=52) | 54.1 AUC (0 to 12h) values quoted are extrapolated from data from samples collected over 4 hours. (±20.4) (n=49) |
 | Liver transplant Patients (twice daily dosing) Time After Transplantation | Dose/Route | T max (h) | C max (mcg/mL) | Interdosing Interval AUC(0 to 12h) (mcg∙h/mL) |
 | 4 to 9 days | 1 g/iv | 1.50 (±0.517) (n=22) | 17.0 (±12.7) (n=22) | 34.0 (±17.4) (n=22) |
 | Early (5 to 8 days) | 1.5 g/oral | 1.15 (±0.432) (n=20) | 13.1 (±6.76) (n=20) | 29.2 (±11.9) (n=20) |
@@ -152,30 +154,33 @@ The pharmacokinetic data for MPA is provided in Table 12.
 
 Table 12 Mean (±SD) Computed Pharmacokinetic Parameters for MPA by Age and Time After Allogeneic Kidney Transplantation
 
-| Age Group | (n) | Time | T max (h) |  | Dose Adjusted adjusted to a dose of 600 mg/m 2C max (mcg/mL) |  | Dose Adjusted AUC 0 to 12 (mcg∙h/mL) |  |
+| Age Group | (n) | Time | T max (h) |  | Dose Adjusted a C max (mcg/mL) |  | Dose Adjusted a AUC 0 to 12 (mcg∙h/mL) |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Early (Day 7) |  |  |  |  |  |  |
-| 1 to less than 2 yr | (6) a subset of 1 to <6 yr |  | 3.03 | (4.70) | 10.3 | (5.80) | 22.5 | (6.66) |
+| 1 to less than 2 yr | (6) d |  | 3.03 | (4.70) | 10.3 | (5.80) | 22.5 | (6.66) |
 | 1 to less than 6 yr | (17) |  | 1.63 | (2.85) | 13.2 | (7.16) | 27.4 | (9.54) |
 | 6 to less than 12 yr | (16) |  | 0.940 | (0.546) | 13.1 | (6.30) | 33.2 | (12.1) |
-| 12 to 18 yr | (21) |  | 1.16 | (0.830) | 11.7 | (10.7) | 26.3 | (9.14) n=20 |
+| 12 to 18 yr | (21) |  | 1.16 | (0.830) | 11.7 | (10.7) | 26.3 | (9.14) |
 |  |  | Late (Month 3) |  |  |  |  |  |  |
-| 1 to less than 2 yr | (4) |  | 0.725 | (0.276) | 23.8 | (13.4) | 47.4 | (14.7) |
+| 1 to less than 2 yr | (4) d |  | 0.725 | (0.276) | 23.8 | (13.4) | 47.4 | (14.7) |
 | 1 to less than 6 yr | (15) |  | 0.989 | (0.511) | 22.7 | (10.1) | 49.7 | (18.2) |
 | 6 to less than 12 yr | (14) |  | 1.21 | (0.532) | 27.8 | (14.3) | 61.9 | (19.6) |
-| 12 to 18 yr | (17) |  | 0.978 | (0.484) | 17.9 | (9.57) | 53.6 | (20.3) n=16 |
+| 12 to 18 yr | (17) |  | 0.978 | (0.484) | 17.9 | (9.57) | 53.6 | (20.3) |
 |  |  | Late (Month 9) |  |  |  |  |  |  |
-| 1 to less than 2 yr | (4) |  | 0.604 | (0.208) | 25.6 | (4.25) | 55.8 | (11.6) |
+| 1 to less than 2 yr | (4) d |  | 0.604 | (0.208) | 25.6 | (4.25) | 55.8 | (11.6) |
 | 1 to less than 6 yr | (12) |  | 0.869 | (0.479) | 30.4 | (9.16) | 61.0 | (10.7) |
 | 6 to less than 12 yr | (11) |  | 1.12 | (0.462) | 29.2 | (12.6) | 66.8 | (21.2) |
 | 12 to 18 yr | (14) |  | 1.09 | (0.518) | 18.1 | (7.29) | 56.7 | (14.0) |
+| aadjusted to a dose of 600 mg/m2 bn=20 cn=16 da subset of 1 to <6 yr |  |  |  |  |  |  |  |  |
 
 The mycophenolate mofetil oral suspension dose of 600 mg/m 2twice daily (up to a maximum of 1 g twice daily) achieved mean MPA AUC values in pediatric patients similar to those seen in adult kidney transplant patients receiving mycophenolate mofetil capsules at a dose of 1 g twice daily in the early post-transplant period.
 There was wide variability in the data.
 As observed in adults, early post-transplant MPA AUC values were approximately 45% to 53% lower than those observed in the later post-transplant period (>3 months).
 MPA AUC values were similar in the early and late post-transplant period across the 1 to 18-year age range.
+
 A comparison of dose-normalized (to 600 mg/m2) MPA AUC values in 12 pediatric kidney transplant patients less than 6 years of age at 9 months post-transplant with those values in 7 pediatric liver transplant patients [median age 17 months (range: 10 to 60 months)] and at 6 months and beyond post-transplant revealed that, at the same dose, there were on average 23% lower AUC values in the pediatric liver compared to pediatric kidney patients.
 This is consistent with the need for higher dosing in adult liver transplant patients compared to kidney transplant patients to achieve the same exposure.
+
 In adult transplant patients administered the same dosage of mycophenolate mofetil, there is similar MPA exposure among kidney transplant and heart transplant patients.
 Based on the established similarity in MPA exposure between pediatric kidney transplant and adult kidney transplant patients at their respective approved doses, it is expected that MPA exposure at the recommended dosage will be similar in pediatric heart transplant and adult heart transplant patients.
 

@@ -16,9 +16,9 @@ Mycophenolate Mofetil Capsules, USP are available containing 250 mg of mycopheno
 
 | NDC Number | Size |
 | --- | --- |
-| NDC 16729-094-01 | Bottle of 100’s count with child-resistant closure |
-| NDC 16729-094-29 | Bottle of 120’s count with child-resistant closure |
-| NDC 16729-094-16 | Bottle of 500’s count |
+| 16729-094-01 | Bottle of 100’s count with a child-resistant closure |
+| 16729-094-29 | Bottle of 120’s count with a child-resistant closure |
+| 16729-094-16 | Bottle of 500’s count |
 
 Storage
 
@@ -32,10 +32,10 @@ Mycophenolate Mofetil Tablets, USP are available containing 500 mg of mycophenol
 
 | NDC Number | Size |
 | --- | --- |
-| NDC 16729-019-01 | Bottle of 100’s count with child-resistant closure |
-| NDC 16729-019-16 | Bottle of 500’s count |
+| 16729-019-01 | Bottle of 100’s count with a child-resistant closure |
+| 16729-019-16 | Bottle of 500’s count |
 
 Storage and Dispensing Information
 
-1.Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
-2.Dispense in light-resistant containers, such as the manufacturer's original containers.
+- Store at 25°C (77°F); excursions permitted to 15°C to 30°C (59°F to 86°F).
+- Dispense in light-resistant containers, such as the manufacturer's original containers.
