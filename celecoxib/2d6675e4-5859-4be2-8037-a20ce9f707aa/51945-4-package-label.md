@@ -20,13 +20,11 @@ DOSAGE AND USE See accompanying prescribing information.
 
 Each capsule contains 50 mg celecoxib.
 
-Distributed by: Viatris Specialty LLC Morgantown, WV
+Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-26505 U.S.A.
+© 2025 Viatris Inc.
 
-© 2023 Viatris Inc.
-
-RUPJ082D
+RUPJ082D1
 
 # PRINCIPAL DISPLAY PANEL – 100 mg
 
@@ -52,9 +50,9 @@ Each capsule contains 100 mg celecoxib.
 
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-© 2023 Viatris Inc.
+© 2025 Viatris Inc.
 
-RUPJ083A
+RUPJ083A1
 
 # PRINCIPAL DISPLAY PANEL – 200 mg
 
@@ -80,9 +78,9 @@ Each capsule contains 200 mg celecoxib.
 
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-© 2023 Viatris Inc.
+© 2025 Viatris Inc.
 
-RUPJ084A
+RUPJ084A1
 
 # PRINCIPAL DISPLAY PANEL – 400 mg
 
@@ -108,6 +106,6 @@ Each capsule contains 400 mg celecoxib.
 
 Distributed by: Viatris Specialty LLC Morgantown, WV 26505 U.S.A.
 
-© 2023 Viatris Inc.
+© 2025 Viatris Inc.
 
-RUPJ085D
+RUPJ085D1
