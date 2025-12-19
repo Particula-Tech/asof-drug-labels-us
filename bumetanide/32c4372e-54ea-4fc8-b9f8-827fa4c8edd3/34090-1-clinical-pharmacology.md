@@ -5,7 +5,7 @@ Pharmacological and clinical studies have shown that 1 mg bumetanide has a diure
 The major site of bumetanide action is the ascending limb of the loop of Henle.
 
 The mode of action has been determined through various clearance studies in both humans and experimental animals.
-Bumetanide inhibits sodium reabsorption in the ascending limb of the loop of Henle, as shown by marked reduction of free-water clearance (CH2O) during hydration and tubular free-water reabsorption (TCH2O) during hydropenia.
+Bumetanide inhibits sodium reabsorption in the ascending limb of the loop of Henle, as shown by marked reduction of free-water clearance (CH 2O) during hydration and tubular free-water reabsorption (T CH 2O) during hydropenia.
 Reabsorption of chloride in the ascending limb is also blocked by bumetanide, and bumetanide is somewhat more chloruretic than natriuretic.
 
 Potassium excretion is also increased by bumetanide, in a dose-related fashion.
