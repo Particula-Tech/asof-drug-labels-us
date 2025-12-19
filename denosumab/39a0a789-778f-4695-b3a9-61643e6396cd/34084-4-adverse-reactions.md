@@ -3,11 +3,12 @@
 The following serious adverse reactions are discussed below and also elsewhere in the labeling:
 
 - Severe Hypocalcemia and Mineral Metabolism Changes [see Warnings and Precautions (5.1)]
-- Serious Infections [see Warnings and Precautions (5.7)]
-- Dermatologic Adverse Reactions [see Warnings and Precautions (5.8)]
+- Hypersensitivity [see Warnings and Precautions (5.3)]
 - Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
 - Atypical Subtrochanteric and Diaphyseal Femoral Fractures [see Warnings and Precautions (5.5)]
-- Multiple Vertebral Fractures (MVF) Following Treatment Discontinuation [see Warnings and Precautions (5.6)]
+- Multiple Vertebral Fractures (MVF) Following Treatment Discontinuation of Treatment [see Warnings and Precautions (5.6)]
+- Serious Infections [see Warnings and Precautions (5.7)]
+- Dermatologic Adverse Reactions [see Warnings and Precautions (5.8)]
 
 The most common adverse reactions reported with denosumab products in patients with postmenopausal osteoporosis are back pain, pain in extremity, musculoskeletal pain, hypercholesterolemia, and cystitis.
 

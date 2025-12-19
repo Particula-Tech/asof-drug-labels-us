@@ -28,7 +28,7 @@ Parenteral drug products should be inspected visually for particulate matter and
 Conexxence is a clear, colorless to pale yellow solution that is free from visible particles.
 Do not use if the solution is discolored or cloudy or if the solution contains particles or foreign particulate matter.
 
-Prior to administration, Conexxence may be removed from the refrigerator and brought to room temperature (up to 25°C/77°F) by standing in the original container.
+Prior to administration, Conexxence may be removed from the refrigerator and brought to room temperature up to 25°C (77°F) by standing in the original container.
 This generally takes 15 to 30 minutes.
 Do not warm Conexxence in any other way [see How Supplied/Storage and Handling (16)].
 Do not shake the prefilled syringe.

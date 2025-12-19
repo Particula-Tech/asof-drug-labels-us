@@ -62,7 +62,7 @@ Therefore, male condom use would not be necessary as it is unlikely that a femal
 
 The safety and effectiveness of Conexxence have not been established in pediatric patients.
 
-In one multicenter, open-label study with denosumab conducted in 153 pediatric patients with osteogenesis imperfecta, aged 2 to 17 years, evaluating fracture risk reduction, efficacy was not established.
+In one multicenter, open-label study with denosumab conducted in 153 pediatric patients with osteogenesis imperfecta, aged 2 to 17 years, evaluating fracture risk reduction, efficacy was not demonstrated.
 
 Hypercalcemia has been reported in pediatric patients with osteogenesis imperfecta treated with denosumab products.
 Some cases required hospitalization and were complicated by acute renal injury [see Warnings and Precautions (5.11)].
