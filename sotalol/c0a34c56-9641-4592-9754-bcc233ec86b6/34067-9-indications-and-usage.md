@@ -1,11 +1,18 @@
-# INDICATIONS AND USAGE
+# 1 INDICATIONS AND USAGE
 
-Sotalol hydrochloride tablets (AF) are indicated for the maintenance of normal sinus rhythm [delay in time to recurrence of atrial fibrillation/atrial flutter (AFIB/AFL)] in patients with symptomatic AFIB/AFL who are currently in sinus rhythm.
-Because sotalol hydrochloride tablets (AF) can cause life-threatening ventricular arrhythmias, it should be reserved for patients in whom AFIB/AFL is highly symptomatic.
-Patients with paroxysmal AFIB whose AFIB/AFL that is easily reversed (by Valsalva maneuver, for example) should usually not be given sotalol hydrochloride tablets (AF) (see WARNINGS).
+## 1.1 Life-Threatening Ventricular Arrhythmias
 
-In general, antiarrhythmic therapy for AFIB/AFL aims to prolong the time in normal sinus rhythm.
-Recurrence is expected in some patients (see Clinical Studies).
+Sotalol hydrochloride tablets (AF) are indicated for the treatment of documented, life-threatening ventricular arrhythmias, such as sustained ventricular tachycardia (VT).
 
-Sotalol hydrochloride tablets (AF) are also indicated for the treatment of documented life-threatening ventricular arrhythmias and is marketed under the brand name Betapace ® (sotalol hydrochloride tablets).
-Sotalol hydrochloride tablets, however, must not be substituted for sotalol hydrochloride tablets (AF) because of significant differences in labeling (i.e., patient package insert, dosing administration and safety information).
+Limitation of Use:
+
+Sotalol hydrochloride tablets (AF) has not been shown to enhance survival in patients with life-threatening ventricular arrhythmias.
+
+## 1.2 Delay in Recurrence of Atrial Fibrillation/Atrial Flutter (AFIB/AFL)
+
+Sotalol hydrochloride tablets (AF) is indicated for the maintenance of normal sinus rhythm (delay in time to recurrence of AFIB/AFL) in patients with highly symptomatic AFIB/AFL who are currently in sinus rhythm.
+
+Limitation of Use:
+
+Because sotalol hydrochloride tablets (AF) can cause life-threatening ventricular arrhythmias, reserve its use for patients in whom AFIB/AFL is highly symptomatic.
+Patients with paroxysmal AFIB that is easily reversed (by Valsalva maneuver, for example) should usually not be given sotalol.

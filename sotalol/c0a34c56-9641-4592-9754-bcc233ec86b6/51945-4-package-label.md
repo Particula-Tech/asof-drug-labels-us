@@ -1,4 +1,4 @@
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 80 mg, 100 Count
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 80 mg 100 ct
 
 Sotalol Hydrochloride Tablets USP (AF), 80 mg
 
@@ -8,7 +8,7 @@ Rx Only
 
 100 Tablets
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 120 mg, 100 Count
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 120 mg, 100 ct
 
 Sotalol Hydrochloride Tablets USP (AF), 120 mg
 
@@ -18,7 +18,7 @@ Rx Only
 
 100 Tablets
 
-# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 160 mg, 100 Count
+# PACKAGE/LABEL PRINCIPAL DISPLAY PANEL – 160 mg, 100 ct
 
 Sotalol Hydrochloride Tablets USP (AF), 160 mg
 
