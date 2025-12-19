@@ -70,6 +70,7 @@ Before taking Depo-Provera CI, tell your healthcare professional if you have:
 - •breast cancer now or in the past, or think you have breast cancer
 - •a family history of breast cancer
 - •an abnormal mammogram (breast X-ray), lumps in your breasts, or bleeding from your nipples
+- •have or have ever had a type of usually benign brain tumor called a meningioma
 - •kidney problems
 - •high blood pressure
 - •had a stroke
@@ -137,6 +138,7 @@ Depo-Provera CI can cause serious side effects, including:
   Severe allergic reactions have been reported in some women using Depo-Provera CI.
 - •loss of vision or other eye problems
 - •migraine headaches
+- •possible increased risk for growth of a meningioma (a usually benign brain tumor), primarily when the product is used for a long time.
 - •depression
 - •convulsions or seizures
 - •liver problems
@@ -235,6 +237,6 @@ This Patient Information has been approved by the U.S. Food and Drug Administrat
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0148-14.0
+LAB-0148-15.0
 
-Revised July 2024
+Revised December 2025

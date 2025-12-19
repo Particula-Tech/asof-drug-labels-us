@@ -5,7 +5,7 @@
 In five clinical studies using Depo-Provera CI, the 12-month failure rate for the group of women treated with Depo-Provera CI was zero (no pregnancies reported) to 0.7 by Life-Table method.
 The effectiveness of Depo‑Provera CI is dependent on the patient returning every 3 months (13 weeks) for reinjection.
 
-## 14.2 Bone Mineral Density Changes in Women Treated with DepoProvera CI
+## 14.2 Bone Mineral Density Changes in Women Treated with Depo-Provera CI
 
 In a controlled, clinical study, adult women using Depo-Provera CI (150mg) for up to 5 years showed spine and hip bone mineral density (BMD) mean decreases of 5–6%, compared to no significant change in BMD in the control group.
 The decline in BMD was more pronounced during the first two years of use, with smaller declines in subsequent years.
@@ -25,7 +25,7 @@ Mean Percent Change from Baseline in BMD in Adults by Skeletal Site and Cohort (
 | 5 years | -5.38% n=33 | 0.43% n=105 | -5.16% n=21 | 0.19% n=65 | -6.12% n=34 | -0.27% n=106 |
 | 7 years | -3.13% n=12 | 0.53% n=60 | -1.34% n=7 | 0.94% n=39 | -5.38% n=13 | -0.11% n=63 |
 
-## 14.3 Bone Mineral Density Changes in Adolescent Females (12 to 18 Years of Age) Treated with DepoProvera CI
+## 14.3 Bone Mineral Density Changes in Adolescent Females (12 to 18 Years of Age) Treated with Depo-Provera CI
 
 The impact of Depo-Provera CI (150 mg) use for up to 240 weeks (4.6 years) was evaluated in an open-label non-randomized clinical study in 389 adolescent females (12 to 18 years of age).
 Use of Depo-Provera CI was associated with a significant decline from baseline in BMD.
@@ -94,7 +94,7 @@ BMD Recovery (Months Post-Treatment) in Adolescents by Years of Depo‑Provera C
 | 48 M post-treatment | 10 | 6.5% | 9 | 3.5% |
 | 60 M post-treatment | 3 | 6.2% | 2 | 5.7% |
 
-## 14.4 Bone Fracture Incidence in Women Treated with DepoProvera CI
+## 14.4 Bone Fracture Incidence in Women Treated with Depo-Provera CI
 
 A retrospective cohort study to assess the association between Depo-Provera CI injection and the incidence of bone fractures was conducted in 312,395 female contraceptive users in the UK.
 The incidence rates of fracture were compared between Depo-Provera CI users and contraceptive users who had no recorded use of Depo-Provera CI.
@@ -105,4 +105,5 @@ In the study, when cumulative exposure to Depo-Provera CI was calculated, the fr
 However, it is not clear that cumulative exposure, which may include periods of intermittent use separated by periods of non-use, is a useful measure of risk, as compared to exposure measures based on continuous use.
 
 There were very few osteoporotic fractures (fracture sites known to be related to low BMD) in the study overall, and the incidence of osteoporotic fractures was not found to be higher in Depo-Provera CI users compared to non-users.
+
 Importantly, this study could not determine whether use of Depo-Provera CI has an effect on fracture rate later in life.
