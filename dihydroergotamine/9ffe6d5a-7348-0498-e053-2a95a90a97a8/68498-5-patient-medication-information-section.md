@@ -80,6 +80,7 @@ Although the following reactions rarely occur, they can be serious and should be
 Dosing Information
 
 - •Each vial contains one complete dose of dihydroergotamine mesylate nasal spray, which is 1 spray in each nostril followed in 15 minutes by an additional spray in each nostril, for a total of 4 sprays.
+
 - •Studies have shown no benefit from acute doses greater than 2 mg (4 sprays) for a single administration.
   The safety of doses greater than 3 mg in a 24 hour period has not been established.
 - •The safety of doses greater than 4 mg in a 7-day period has not been established.
