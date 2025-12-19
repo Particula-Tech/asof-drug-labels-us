@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA213811"
+  ],
+  "inn": "beclomethasone",
+  "labeler": "Amneal Pharmaceuticals NY LLC",
+  "package_ndcs": [
+    "69238-1289-4",
+    "69238-1290-4"
+  ],
+  "products": [
+    {
+      "form": "AEROSOL, METERED",
+      "generic": "beclomethasone dipropionate",
+      "name": "Beclomethasone Dipropionate"
+    }
+  ],
+  "setid": "d853c96f-21a3-4def-931d-4d47d16acd62",
+  "source": "dailymed"
+}
