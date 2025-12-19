@@ -10,33 +10,33 @@ Convulsions also have occurred; however, a causal relationship with concomitant 
 The following other adverse reactions have been reported with levodopa and carbidopa-levodopa combination products.
 These same adverse reactions may also occur when carbidopa is administered with these products.
 
-Body as a Whole: abdominal pain and distress, asthenia, chest pain, fatigue.
+Body as a Whole:abdominal pain and distress, asthenia, chest pain, fatigue.
 
-Cardiovascular: cardiac irregularities, hypertension, myocardial infarction, hypotension including orthostatic hypotension, palpitation, phlebitis, syncope.
+Cardiovascular:cardiac irregularities, hypertension, myocardial infarction, hypotension including orthostatic hypotension, palpitation, phlebitis, syncope.
 
-Gastrointestinal: anorexia, bruxism, burning sensation of the tongue, constipation, dark saliva, development of duodenal ulcer, diarrhea, dry mouth, dyspepsia, dysphagia, flatulence, gastrointestinal bleeding, gastrointestinal pain, heartburn, hiccups, sialorrhea, taste alterations, vomiting.
+Gastrointestinal:anorexia, bruxism, burning sensation of the tongue, constipation, dark saliva, development of duodenal ulcer, diarrhea, dry mouth, dyspepsia, dysphagia, flatulence, gastrointestinal bleeding, gastrointestinal pain, heartburn, hiccups, sialorrhea, taste alterations, vomiting.
 
-Hematologic: hemolytic and non-hemolytic anemia, leukopenia, thrombocytopenia, agranulocytosis.
+Hematologic:hemolytic and non-hemolytic anemia, leukopenia, thrombocytopenia, agranulocytosis.
 
-Hypersensitivity: angioedema, urticaria, pruritus, Henoch-Schonlein purpura, bullous lesions (including pemphigus-like reactions).
+Hypersensitivity:angioedema, urticaria, pruritus, Henoch-Schonlein purpura, bullous lesions (including pemphigus-like reactions).
 
-Metabolic: edema, weight gain, weight loss.
+Metabolic:edema, weight gain, weight loss.
 
-Musculoskeletal: back pain, leg pain, muscle cramps, shoulder pain.
+Musculoskeletal:back pain, leg pain, muscle cramps, shoulder pain.
 
-Nervous System/Psychiatric: Psychotic episodes including delusions, hallucinations and paranoid ideation, neuroleptic malignant syndrome (NMS), (see WARNINGS), bradykinetic episodes ("on-off" phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
+Nervous System/Psychiatric:Psychotic episodes including delusions, hallucinations and paranoid ideation, neuroleptic malignant syndrome (NMS), (see WARNINGS), bradykinetic episodes ("on-off" phenomenon), confusion, agitation, dizziness, somnolence, dream abnormalities including nightmares, insomnia, paresthesia, headache, depression with or without development of suicidal tendencies, dementia, pathological gambling, increased libido including hypersexuality, impulse control symptoms.
 Convulsions also have occurred; however, a causal relationship with carbidopa and levodopa, has not been established.
 
-Respiratory: upper respiratory infection, dyspnea, pharyngeal pain, cough.
+Respiratory:upper respiratory infection, dyspnea, pharyngeal pain, cough.
 
-Skin: flushing, increased sweating, malignant melanoma (see also CONTRAINDICATIONS), rash, alopecia, dark sweat.
+Skin:flushing, increased sweating, malignant melanoma (see also CONTRAINDICATIONS), rash, alopecia, dark sweat.
 
-Special Senses: oculogyric crises, diplopia, blurred vision, dilated pupils.
+Special Senses:oculogyric crises, diplopia, blurred vision, dilated pupils.
 
-Urogenital: dark urine, priapism, urinary frequency, urinary incontinence, urinary retention, urinary tract infection.
+Urogenital:dark urine, priapism, urinary frequency, urinary incontinence, urinary retention, urinary tract infection.
 
-Laboratory Tests: abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT), lactic dehydrogenase, bilirubin, blood urea nitrogen (BUN), Coombs test; elevated serum glucose; decreased hemoglobin and hematocrit; decreased white blood cell count and serum potassium; increased serum creatinine and uric acid; white blood cells, bacteria and blood in the urine; protein and glucose in the urine.
+Laboratory Tests:abnormalities in alkaline phosphatase, SGOT (AST), SGPT (ALT), lactic dehydrogenase, bilirubin, blood urea nitrogen (BUN), Coombs test; elevated serum glucose; decreased hemoglobin and hematocrit; decreased white blood cell count and serum potassium; increased serum creatinine and uric acid; white blood cells, bacteria and blood in the urine; protein and glucose in the urine.
 
-Miscellaneous: bizarre breathing patterns, faintness, hoarseness, hot flashes, malaise, neuroleptic malignant syndrome, sense of stimulation.
+Miscellaneous:bizarre breathing patterns, faintness, hoarseness, hot flashes, malaise, neuroleptic malignant syndrome, sense of stimulation.
 
 To report SUSPECTED ADVERSE REACTIONS, contact Edenbridge Pharmaceuticals, LLC at 1-877-381-3336 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

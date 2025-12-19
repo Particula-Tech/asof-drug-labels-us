@@ -9,7 +9,7 @@ Carbidopa tablets are for use with levodopa in the occasional patient whose dosa
 Carbidopa tablets are used with carbidopa-levodopa or with levodopa to permit the administration of lower doses of levodopa with reduced nausea and vomiting, more rapid dosage titration, and with a somewhat smoother response.
 However, patients with markedly irregular ("on-off") responses to levodopa have not been shown to benefit from the addition of carbidopa.
 
-Since carbidopa prevents the reversal of levodopa effects caused by pyridoxine, supplemental pyridoxine (vitamin B6), can be given to patients when they are receiving carbidopa and levodopa concomitantly or as carbidopa-levodopa.
+Since carbidopa prevents the reversal of levodopa effects caused by pyridoxine, supplemental pyridoxine (vitamin B 6), can be given to patients when they are receiving carbidopa and levodopa concomitantly or as carbidopa-levodopa.
 
 Although the administration of carbidopa tablets permits control of parkinsonism and Parkinson's disease with much lower doses of levodopa, there is no conclusive evidence at present that this is beneficial other than in reducing nausea and vomiting, permitting more rapid titration, and providing a somewhat smoother response to levodopa.
 

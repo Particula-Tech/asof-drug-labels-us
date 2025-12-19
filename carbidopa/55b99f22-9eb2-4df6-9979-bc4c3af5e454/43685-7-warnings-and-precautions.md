@@ -8,7 +8,7 @@ When carbidopa is to be given to carbidopa-naive patients who are being treated 
 
 At least twelve hours should elapse between the last dose of levodopa and initiation of therapy with carbidopa and levodopa in combination.
 Start with no more than one-fifth (20%) to one-fourth (25%) of the previous daily dosage of levodopa when given without carbidopa.
-See the DOSAGE AND ADMINISTRATION section before initiating therapy.
+See the DOSAGE AND ADMINISTRATIONsection before initiating therapy.
 
 The addition of carbidopa with levodopa or carbidopa-levodopa reduces the peripheral effects (nausea, vomiting) due to decarboxylation of levodopa; however, carbidopa does not decrease the adverse reactions due to the central effects of levodopa.
 Because carbidopa permits more levodopa to reach the brain and more dopamine to be formed, certain adverse central nervous system (CNS) effects, e.g., dyskinesias (involuntary movements), may occur at lower dosages and sooner with levodopa in combination with carbidopa than with levodopa alone.
@@ -124,7 +124,7 @@ False-negative tests may result with the use of glucose-oxidase methods of testi
 
 ## Drug Interactions
 
-Caution should be exercised when the following drugs are administered concomitantly with carbidopa given with levodopa or carbidopa-levodopa fixed dose combination products.
+Caution should be exercised when the following drugs are administered concomitantly withcarbidopa given with levodopa or carbidopa-levodopa fixed dose combination products.
 
 Symptomatic postural hypotension has occurred when carbidopa, given with levodopa or carbidopa-levodopa combination products, was added to the treatment of a patient receiving antihypertensive drugs.
 Therefore, when therapy with carbidopa, given with or without levodopa or carbidopa-levodopa combination products, is started, dosage adjustment of the antihypertensive drug may be required.
@@ -134,7 +134,7 @@ Concomitant therapy with selegiline or rasigiline and carbidopa and carbidopa-le
 
 There have been rare reports of adverse reactions, including hypertension and dyskinesia, resulting from the concomitant use of tricyclic antidepressants and carbidopa-levodopa preparations.
 
-Dopamine D2 receptor antagonists (e.g., phenothiazines, butyrophenones, risperidone) and isoniazid may reduce the therapeutic effects of levodopa.
+Dopamine D 2receptor antagonists (e.g., phenothiazines, butyrophenones, risperidone) and isoniazid may reduce the therapeutic effects of levodopa.
 In addition, the beneficial effects of levodopa in Parkinson's disease have been reported to be reversed by phenytoin and papaverine.
 Patients taking these drugs with carbidopa and levodopa or carbidopa-levodopa combination products should be carefully observed for loss of therapeutic response.
 
