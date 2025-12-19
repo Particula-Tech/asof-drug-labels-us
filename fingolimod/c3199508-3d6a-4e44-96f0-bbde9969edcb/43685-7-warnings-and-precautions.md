@@ -12,7 +12,7 @@ In controlled clinical trials in adult patients, adverse reactions of symptomati
 Patients who experienced bradycardia were generally asymptomatic, but some patients experienced hypotension, dizziness, fatigue, palpitations, and/or chest pain that usually resolved within the first 24 hours on treatment.
 Patients with some preexisting conditions (e.g., ischemic heart disease, history of myocardial infarction, congestive heart failure, history of cardiac arrest, cerebrovascular disease, uncontrolled hypertension, history of symptomatic bradycardia, history of recurrent syncope, severe untreated sleep apnea, AV block, sinoatrial heart block) may poorly tolerate the fingolimod-induced bradycardia, or experience serious rhythm disturbances after the first dose of fingolimod.
 Prior to treatment with fingolimod, these patients should have a cardiac evaluation by a physician appropriately trained to conduct such evaluation, and if treated with fingolimod, should be monitored overnight with continuous ECG in a medical facility after the first dose.
-Since initiation of fingolimod treatment, results in decreased heart rate and may prolong the QT interval, patients with a prolonged QTc interval (> 450 msec adult and pediatric males, > 470 msec adult females, or > 460 msec pediatric females) before dosing or during 6-hour observation, or at additional risk for QT prolongation (e.g., hypokalemia, hypomagnesemia, congenital long-QT syndrome), or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility.
+Since initiation of fingolimod treatment results in decreased heart rate and may prolong the QT interval, patients with a prolonged QTc interval (> 450 msec adult and pediatric males, > 470 msec adult females, or > 460 msec pediatric females) before dosing or during 6-hour observation, or at additional risk for QT prolongation (e.g., hypokalemia, hypomagnesemia, congenital long-QT syndrome), or on concurrent therapy with QT prolonging drugs with a known risk of torsades de pointes (e.g., citalopram, chlorpromazine, haloperidol, methadone, erythromycin) should be monitored overnight with continuous ECG in a medical facility.
 Following the second dose, a further decrease in heart rate may occur when compared to the heart rate prior to the second dose, but this change is of a smaller magnitude than that observed following the first dose.
 With continued dosing, the heart rate returns to baseline within 1 month of chronic treatment.
 Clinical data indicate effects of fingolimod on heart rate are maximal after the first dose although milder effects on heart rate may persist for, on average, 2 to 4 weeks after initiation of therapy at which time heart rate generally returns to baseline.
@@ -67,7 +67,7 @@ Cancer screening, including Papanicolaou (Pap) test, is recommended as per stand
 ## 5.3 Progressive Multifocal Leukoencephalopathy
 
 Cases of progressive multifocal leukoencephalopathy (PML) have occurred in patients with MS who received fingolimod in the postmarketing setting.
-PML is an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads todeath or severe disability.
+PML is an opportunistic viral infection of the brain caused by the JC virus (JCV) that typically only occurs in patients who are immunocompromised, and that usually leads to death or severe disability.
 PML has occurred in patients who had not been treated previously with natalizumab, which has a known association with PML, were not taking any other immunosuppressive or immunomodulatory medications concomitantly, and did not have any ongoing systemic medical conditions resulting in compromised immune system function.
 Longer treatment duration increases the risk of PML in fingolimod-treated patients; the majority of cases have occurred in patients treated with fingolimod for at least 18 months.
 At the first sign or symptom suggestive of PML, withhold fingolimod and perform an appropriate diagnostic evaluation.
@@ -89,7 +89,7 @@ Monitoring for development of IRIS and appropriate treatment of the associated i
 ## 5.4 Macular Edema
 
 S1P receptor modulators, including fingolimod, have been associated with an increased risk of macular edema.
-Obtain a baseline evaluation of the fundus, including the macula, near thestart of treatment with fingolimod.
+Obtain a baseline evaluation of the fundus, including the macula, near the start of treatment with fingolimod.
 Perform an examination of the fundus, including the macula, 3 to 4 months after starting treatment, periodically while on therapy, and any time there is a change in vision.
 A dose-dependent increase in the risk of macular edema occurred in the fingolimod clinical development program.
 
@@ -102,10 +102,10 @@ Macular edema generally partially or completely resolved with or without treatme
 Some patients had residual visual acuity loss even after resolution of macular edema.
 Macular edema has also been reported in patients taking fingolimod in the postmarketing setting, usually within the first 6 months of treatment.
 Continuation of fingolimod in patients who develop macular edema has not been evaluated.
-Macular edema over an extended period of time (i.e., 6 months) can leadto permanent visual loss.
+Macular edema over an extended period of time (i.e., 6 months) can lead to permanent visual loss.
 Consider discontinuing fingolimod if macular edema develops; this decision should include an assessment of the potential benefits and risks for the individual patient.
 The risk of recurrence after rechallenge has not been evaluated.
-Macular Edema in Patients with History of Uveitis or Diabetes Mellitus Patients with a historyofuveitis and patients with diabetes mellitus are at increased risk of macular edema during fingolimod therapy.
+Macular Edema in Patients with History of Uveitis or Diabetes Mellitus Patients with a history of uveitis and patients with diabetes mellitus are at increased risk of macular edema during fingolimod therapy.
 In the combined clinical trial experience in adult patients with all doses of fingolimod, the rate of macular edema was higher in MS patients with a history of uveitis compared to those without a history of uveitis (approximately 20% versus 0.6%, respectively).
 Fingolimod has not been tested in MS patients with diabetes mellitus.
 
@@ -150,8 +150,9 @@ Spirometric evaluation of respiratory function and evaluation of DLCO should be 
 
 ## 5.8 Fetal Risk
 
-Based on findings from animal studies, fingolimod may cause fetal harm when administered to a pregnant woman.
-In animal reproduction studies conducted in rats and rabbits, developmental toxicity was observed with administration of fingolimod at doses less than the recommended human dose.
+Fingolimodmay cause fetal harm when administered to a pregnant woman.
+In animalreproduction studies conducted in rats and rabbits, developmental toxicity was observed with administration of fingolimod at doses less than the recommended human dose.
+Availableobservational pregnancy registry data suggest that use of fingolimod is associated with an increased prevalence of major birth defects in comparison to the general population.
 Advise pregnant women and females of reproductive potential of the potential risk to a fetus.
 Because it takes approximately 2 months to eliminate fingolimod from the body, advise females of reproductive potential to use effective contraception to avoid pregnancy during and for 2 months after stopping fingolimod treatment [see Use in Specific Populations (8.1, 8.3)].
 
@@ -162,7 +163,7 @@ Patients in most of these reported cases did not return to the functional status
 The increase in disability generally occurred within 12 weeks after stopping fingolimod, but was reported up to 24 weeks after fingolimod discontinuation.
 
 Monitor patients for development of severe increase in disability following discontinuation of fingolimod and begin appropriate treatment as needed.
-After stoppingfingolimod in the setting of PML, monitor for development of immune reconstitution inflammatory syndrome (PML-IRIS) [see Warnings and Precautions (5.3)].
+After stopping fingolimod in the setting of PML, monitor for development of immune reconstitution inflammatory syndrome (PML-IRIS) [see Warnings and Precautions (5.3)].
 
 ## 5.10 Tumefactive Multiple Sclerosis
 
@@ -173,19 +174,22 @@ Tumefactive MS should be considered when a severe MS relapse occurs during fingo
 
 ## 5.11 Increased Blood Pressure
 
+Increasesin blood pressure have been observed in patients treated with fingolimod.
 In adult MS controlled clinical trials, patients treated with fingolimod 0.5 mg had an average increase over placebo of approximately 3 mmHg in systolic pressure, and approximately 2 mmHg in diastolic pressure, first detected after approximately 1 month of treatment initiation, and persisting with continued treatment.
 Hypertension was reported as an adverse reaction in 8% of patients on fingolimod 0.5 mg and in 4% of patients on placebo.
-Blood pressure (BP) should be monitored during treatment with fingolimod.
+
+Monitor blood pressure (BP)in adult and pediatric patients during treatment with fingolimod.
 
 ## 5.12 Malignancies
 
-Cutaneous Malignancies The risk of cutaneous malignancies (including basal cell carcinoma (BCC), squamous cell carcinoma (SCC) and melanoma) is increased in patients treated with S1P receptor modulators.Use of fingolimod has been associated with an increased risk of BCC and melanoma.
+Cutaneous Malignancies The risk of cutaneous malignancies (including basal cell carcinoma (BCC), squamous cell carcinoma (SCC) and melanoma) is increased in patients treated with S1P receptor modulators.
+Use of fingolimod has been associated with an increased risk of BCC and melanoma.
 In two-year placebo-controlled trials in adult patients, the incidence of BCC was 2% in patients on fingolimod 0.5 mg and 1% in patients on placebo [see Adverse Reactions (6.1)].
-Melanoma, basalcell carcinoma, squamous cell carcinoma, Kaposi’s sarcoma [see Warnings and Precautions (5.2)], and Merkel cell carcinoma have been reported with fingolimod in the postmarketing setting.
+Melanoma, basal cell carcinoma, squamous cell carcinoma, Kaposi’s sarcoma [see Warnings and Precautions (5.2)], and Merkel cell carcinoma have been reported with fingolimod in the postmarketing setting.
 Skin examinations are recommended prior to or shortly after the start of treatment and periodically thereafter for all patients, particularly those with risk factors for skin cancer.
 Providers and patients are advised to monitor for suspicious skin lesions.
 If a suspicious skin lesion is observed, it should be promptly evaluated.
-As usual for patientswith increased risk for skin cancer, exposure to sunlight and ultraviolet light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+As usual for patients with increased risk for skin cancer, exposure to sunlight and ultraviolet light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 Concomitant phototherapy with UV-B radiation or PUVA photochemotherapy is not recommended in patients taking fingolimod.
 Lymphoma Cases of lymphoma, including both T-cell and B-cell types and CNS lymphoma, have occurred in patients receiving fingolimod.
 The reporting rate of non-Hodgkin lymphoma with fingolimod is greater than that expected in the general population adjusted by age, gender, and region.

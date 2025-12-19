@@ -2,8 +2,10 @@
 
 ## 8.1 Pregnancy
 
-Risk Summary Based on findings from animal studies, fingolimod may cause fetal harm when administered to a pregnant woman.
-Data from prospective reports to the Fingolimod Pregnancy Registry (FPR) are currently not sufficient to allow for an adequate assessment of the drug-associated risk for birth defects and miscarriage in humans.
+Risk Summary Available observational pregnancy registry data suggest that use of fingolimod is associated with an increased prevalence of major birth defects in comparison to the general population.
+However, limitations in the number of exposed pregnant women and in the study design preclude definitive conclusions (see Data).
+Data from prospective reports to the pregnancy registry are currently not sufficient to allow for an adequate assessment of the drug-associated risk for miscarriage.
+Based on findings from animal studies, fingolimod may cause fetal harm when administered to a pregnant woman.
 In oral studies conducted in rats and rabbits, fingolimod demonstrated developmental toxicity, including an increase in malformations (rats) and embryolethality, when given to pregnant animals.
 In rats, the highest no-effect dose was less than the recommended human dose of 0.5 mg/day on a body surface area (mg/m 2) basis.
 The most common fetal visceral malformations in rats were persistent truncus arteriosus and ventricular septal defect.
@@ -13,7 +15,15 @@ The background risk of major birth defects and miscarriage for the indicated pop
 Clinical Considerations In females planning to become pregnant, fingolimod should be stopped 2 months before planned conception.
 The possibility of severe increase in disability should be considered in women who discontinue or are considering discontinuation of fingolimod because of pregnancy or planned pregnancy.
 In many of the cases in which increase in disability was reported after stopping fingolimod, patients had stopped fingolimod because of pregnancy or planned pregnancy [see Warnings and Precautions (5.9)].
-Data Animal Data When fingolimod was orally administered to pregnant rats during the period of organogenesis (0, 0.03, 0.1, and 0.3 mg/kg/day or 0, 1, 3, and 10 mg/kg/day), increased incidences of fetal malformations and embryofetal deaths were observed at all but the lowest dose tested (0.03 mg/kg/day), which is less than the recommended human dose (RHD) on a mg/m 2basis.
+Data
+
+Human Data In a prospective observational fingolimod pregnancy registry (GPR) (2011 to 2024), the rate of major birth defects among 147 live births, stillbirths, or terminations of pregnancy due to fetal anomalies from women who were administered fingolimod during the first trimester was 8.2% (95% CI: 4.3 to 13.8) using the European Registration of Congenital Anomalies and Twin classification and 10.9% (95% CI: 6.4 to 17.1) using the Metropolitan Atlanta Congenital Defects Program classification.
+The most frequent major birth defects were congenital heart defects, renal/urinary malformations, and limb/musculoskeletal malformations.
+Study limitations include no adjustment for confounders, no re-adjudication in case of spontaneous resolution, lack of an internal comparator cohort, and small sample size.
+In fingolimod prospective pharmacovigilance data, the most frequent major birth defect types were similar to those reported in the GPR.
+The pattern of malformations reported for fingolimod is similar to that observed in the general population.
+There is no evidence of clustering of specific birth defects with fingolimod.
+Animal Data When fingolimod was orally administered to pregnant rats during the period of organogenesis (0, 0.03, 0.1, and 0.3 mg/kg/day or 0, 1, 3, and 10 mg/kg/day), increased incidences of fetal malformations and embryofetal deaths were observed at all but the lowest dose tested (0.03 mg/kg/day), which is less than the recommended human dose (RHD) on a mg/m 2basis.
 Oral administration to pregnant rabbits during organogenesis (0, 0.5, 1.5, and 5 mg/kg/day) resulted in increased incidences of embryofetal mortality and fetal growth retardation at the mid and high doses.
 The no-effect dose for these effects in rabbits (0.5 mg/kg/day) is approximately 20 times the RHD on a mg/m 2basis.
 When fingolimod was orally administered to female rats during pregnancy and lactation (0, 0.05, 0.15, and 0.5 mg/kg/day), pup survival was decreased at all doses and a neurobehavioral (learning) deficit was seen in offspring at the high dose.
