@@ -15,17 +15,11 @@ Instruct patients to discontinue use immediately and contact their physician at 
 
 Rx Only
 
-| Manufactured by: | Manufactured for: |
-| --- | --- |
-| Apotex Inc. | Apotex Corp. |
-| Toronto, Ontario | Weston, Florida |
-| Canada | 33326 |
-| M9L 1T9 |  |
+| Manufactured by: | Manufactured for: | Marketed by: |
+| --- | --- | --- |
+| Apotex Inc. | Apotex Corp. | GSMS, Inc. |
+| Toronto, Ontario | Weston, Florida | Camarillo, CA |
+| Canada | 33326 | 93012 USA |
+| M9L 1T9 |  |  |
 
 Revised: April 2023
-
-Marketed by:
-
-GSMS, Inc.
-
-Camarillo, CA 93012 USA
