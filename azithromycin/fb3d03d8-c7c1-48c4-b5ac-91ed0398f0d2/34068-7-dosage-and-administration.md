@@ -31,10 +31,10 @@ PEDIATRIC DOSAGE GUIDELINES FOR OTITIS MEDIA, ACUTE BACTERIAL SINUSITIS, AND COM
 
 OTITIS MEDIA AND COMMUNITY-ACQUIRED PNEUMONIA: (5-Day Regimen)Effectiveness of the 3-day or 1-day regimen in pediatric patients with community-acquired pneumonia has not been established.
 
-| Kg | Day 1 | Days 2–5 | Day 1 | Days 2–5 |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
 | Dosing Calculated on 10 mg/kg/day Day 1 and 5 mg/kg/day Days 2 to 5. |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
 | Weight | 100 mg/5 mL |  | 200 mg/5 mL |  | Total mL per Treatment Course | Total mg per Treatment Course |
+| Kg | Day 1 | Days 2–5 | Day 1 | Days 2–5 | Days 2–5 |  |
 | 5 | 2.5 mL; (½ tsp) | 1.25 mL;(¼ tsp) |  |  | 7.5 mL | 150 mg |
 | 10 | 5 mL; (1tsp) | 2.5 mL; (½ tsp) |  |  | 15 mL | 300 mg |
 | 20 |  |  | 5 mL; (1 tsp) | 2.5 mL; (½ tsp) | 15 mL | 600 mg |
@@ -44,10 +44,10 @@ OTITIS MEDIA AND COMMUNITY-ACQUIRED PNEUMONIA: (5-Day Regimen)Effectiveness of t
 
 OTITIS MEDIA AND ACUTE BACTERIAL SINUSITIS: (3-Day Regimen)Effectiveness of the 5-day or 1-day regimen in pediatric patients with acute bacterial sinusitis has not been established.
 
-| Kg | Days 1–3 | Days 1–3 |  |  |
-| --- | --- | --- | --- | --- |
 | Dosing Calculated on 10 mg/kg/day. |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Weight | 100 mg/5 mL | 200 mg/5 mL | Total mL per Treatment Course | Total mg per Treatment Course |
+| Kg | Days 1–3 | Days 1–3 |  |  |
 | 5 | 2.5 mL; (1/2 tsp) |  | 7.5 mL | 150 mg |
 | 10 | 5 mL; (1 tsp) |  | 15 mL | 300 mg |
 | 20 |  | 5 mL (1 tsp) | 15 mL | 600 mg |

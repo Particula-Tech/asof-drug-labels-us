@@ -119,8 +119,8 @@ ZITHROMAX can cause serious side effects, including:
   Hepatotoxicity can happen in people who take ZITHROMAX.
   Call your healthcare provider right away if you have unexplained symptoms such as:
 
-| onausea or vomitingostomach painofeveroweaknessoabdominal pain or tendernessoitchingounusual tiredness | oloss of appetiteochange in the color of your bowel movementsodark colored urineoyellowing of your skin or of the whites of your eyes |
-| --- | --- |
+|  | onausea or vomitingostomach painofeveroweaknessoabdominal pain or tendernessoitchingounusual tiredness | oloss of appetiteochange in the color of your bowel movementsodark colored urineoyellowing of your skin or of the whites of your eyes |
+| --- | --- | --- |
 
 1. Stop taking ZITHROMAX and tell your healthcare provider right away if you have yellowing of your skin or white part of your eyes, or if you have dark urine.
    These can be signs of a serious reaction to ZITHROMAX (a liver problem).
