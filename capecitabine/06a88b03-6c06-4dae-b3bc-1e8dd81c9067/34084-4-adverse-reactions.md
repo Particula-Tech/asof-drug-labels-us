@@ -64,7 +64,7 @@ Skin & Subcutaneous Tissue: rash, alopecia, erythema
 
 Table 3 Grade 3 or 4 Laboratory Abnormalities (>1%) in Patients Who Received Capecitabine Tablets as a Single Agent for Adjuvant Treatment of Colon Cancer in X- ACT
 
-| Laboratory Abnormality | CapecitabineTablets (N=995) | Fluorouracil + Leucovorin (N=974) |
+| Laboratory Abnormality | Capecitabine Tablets (N=995) | Fluorouracil + Leucovorin (N=974) |
 | --- | --- | --- |
 | Grade 3 or 4 (%) | Grade 3 or 4 (%) |  |
 | Bilirubin increased | 20 | 6 |

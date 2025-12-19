@@ -6,6 +6,19 @@ What is the most important information I should know about capecitabine tablets?
 
 Capecitabine tablets can cause serious side effects, including:
 
+- Serious side effects or death in people with dihydropyrimidine dehydrogenase (DPD) enzyme deficiency.
+  People with certain changes in a gene called “DPYD” may have a deficiency of the DPD enzyme.
+- People who do not have any DPD enzyme are at increased risk of sudden side effects that come on early during treatment with capecitabine tablets and can be serious, and sometimes lead to death.
+- People who have some DPD enzyme may have an increased risk of serious side effects or death with capecitabine tablets treatment.
+- Your healthcare provider will test you for “DPYD” before starting treatment with capecitabine tablets, unless you need treatment right away.
+
+Call your healthcare provider right away if you develop any of the following symptoms and they are severe, including:
+
+| sores of the mouth, tongue, throat and esophagus | trouble walking, or problems with balance or coordination |
+| --- | --- |
+| diarrhea | changes in mood or mental status |
+| fever, chills, cough or any other signs of infection | problems with thinking, concentrating, memory, or sleep |
+
 - Increased risk of bleeding when taking capecitabine tablets with blood thinner medicines, such as warfarin.
   Taking capecitabine tablets with these medicines can cause changes in how fast your blood clots and can cause bleeding that can lead to death.
   This can happen as soon as a few days after you start taking capecitabine tablets, or later during treatment, and possibly within 1 month after you stop taking capecitabine tablets.
@@ -34,7 +47,7 @@ Capecitabine tablets are a prescription medicine used to treat:
   Capecitabine tablets may be used in adults:
   - in combination with other chemotherapy medicines when your cancer of the stomach, esophagus, or GEJ cannot be removed by surgery or has spread to other parts of the body (metastatic).
   - when your cancer of the stomach, esophagus, or GEJ is metastatic adenocarcinoma, and:
-    - isHER2-positive,and
+    - is HER2-positive, and
     - you have not received treatment with capecitabine tablets in combination with other treatments for your metastatic cancer.
 
 - A kind of cancer called pancreatic cancer.
@@ -97,20 +110,6 @@ What are the possible side effects of capecitabine tablets?
 Capecitabine tablets can cause serious side effects including:
 
 - See "What is the most important information I should know about capecitabine tablets?"
-
-- Serious side effects in people with dihydropyrimidine dehydrogenase (DPD) enzyme deficiency.
-  People with certain changes in a gene called “DPYD” may have a deficiency of the DPD enzyme.
-  Some of these people may not produce enough DPD enzyme, and some of these people may not produce the DPD enzyme at all.
-  - People who do not produce any DPD enzyme are at increased risk of sudden side effects that come on early during treatment with capecitabine tablets and can be serious, and sometimes lead to death.
-    Call your healthcare provider right away if you develop any of the following symptoms and they are severe, including:
-
-| sores of the mouth, tongue, throat and esophagus (mucositis) |  |  |
-| --- | --- | --- |
-| diarrhea | low white blood cell counts | nervous system problems. |
-
-- People with some DPD enzyme may have an increased risk of serious side effects with capecitabine tablets treatment that can sometimes lead to death.
-
-Your healthcare provider should talk with you about DPYD testing to look for DPD deficiency.
 
 - Heart problems.
   Capecitabine tablets can cause heart problems including: heart attack and decreased blood flow to the heart, chest pain, irregular heartbeats, changes in the electrical activity of your heart seen on an electrocardiogram (ECG), problems with your heart muscle, heart failure, and sudden death.
@@ -244,13 +243,12 @@ Active ingredient: Capecitabine, USP
 Inactive ingredients: anhydrous lactose, croscarmellose sodium, hypromellose, magnesium stearate, microcrystalline cellulose, and purified water.
 The light peach film coating contains hydroxypropyl methylcellulose, talc, titanium dioxide, iron oxide yellow and iron oxide red.
 
-Manufactured by: Alkem Laboratories Ltd., INDIA.
-
-Distributed by: Ascend Laboratories, LLC Parsippany, NJ 07054
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
 
 Trademarks are the property of their respective owners.
 For more information, call 1-877-272-7901.
 This Patient Information has been approved by the U.S. Food and Drug Administration.
-Revised: 02/2023
+Revised: 10/2025
 
-PT3341-03
+PT3341-04
