@@ -1,11 +1,9 @@
-# CHEMISTRY
-
 Doxepin hydrochloride is a dibenzoxepin derivative and is the first of a family of tricyclic psychotherapeutic agents.
 Specifically, it is an isomeric mixture of:
 
 1-Propanamine, 3-dibenz[b,e]oxepin-11(6H)ylidene-N,N-dimethyl-, hydrochloride.
 
-# ACTIONS
+# CLINICAL PHARMACOLOGY
 
 The mechanism of action doxepin hydrochloride is not definitely known.
 It is not a central nervous system stimulant nor a monoamine oxidase inhibitor.
