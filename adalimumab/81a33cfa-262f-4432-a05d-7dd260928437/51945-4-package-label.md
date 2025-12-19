@@ -12,7 +12,7 @@ For Subcutaneous Injection Only
 
 Dosage: See Prescribing Information.
 
-Manufactured by Pfizer Inc. New York, NY 10017 Distributed by Pfizer Labs Division of Pfizer Inc. New York, NY 10017 US License No. 2001
+Manufactured by Pfizer Inc. New York, NY 10001 Distributed by Pfizer Labs Division of Pfizer Inc. New York, NY 10001 US License No. 2001
 
 Store in refrigerator at 36°F to 46°F (2°C to 8°C).
 DO NOT FREEZE.
@@ -30,7 +30,7 @@ This carton contains:
 
 - •2 Prefilled Pens
 - •2 Alcohol Preps
-- •1 Package Insert
+- •1 Prescribing Information
 - •1 Instructions for Use with Medication Guide
 
 Do not shake.
