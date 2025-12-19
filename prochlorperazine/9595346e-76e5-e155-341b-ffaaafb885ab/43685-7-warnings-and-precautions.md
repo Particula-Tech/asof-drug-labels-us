@@ -1,12 +1,14 @@
 # WARNINGS
 
-Increased Mortality in Elderly Patients with Dementia-Related Psychosis Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
+Increased Mortality in Elderly Patients with Dementia-Related Psychosis
+
+Elderly patients with dementia-related psychosis treated with antipsychotic drugs are at an increased risk of death.
 Prochlorperazine Suppositories, USP is not approved for the treatment of patients with dementia-related psychosis (see BOXED WARNING).
 
 The extrapyramidal symptoms which can occur secondary to prochlorperazine may be confused with the central nervous system signs of an undiagnosed primary disease responsible for the vomiting, e.g., Reye's Syndrome or other encephalopathy.
 The use of prochlorperazine and other potential hepatotoxins should be avoided in children and adolescents whose signs and symptoms suggest Reye's Syndrome.
 
-Tardive Dyskinesia:Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with neuroleptic (anti-psychotic) drugs.
+Tardive Dyskinesia: Tardive dyskinesia, a syndrome consisting of potentially irreversible, involuntary, dyskinetic movements, may develop in patients treated with neuroleptic (anti-psychotic) drugs.
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to rely upon prevalence estimates to predict, at the inception of neuroleptic treatment, which patients are likely to develop the syndrome.
 Whether neuroleptic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
@@ -19,7 +21,7 @@ Neuroleptic treatment itself, however, may suppress (or partially suppress) the 
 The effect that symptomatic suppression has upon the long-term course of the syndrome is unknown.
 
 Given these considerations, neuroleptics should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
-Chronic neuroleptic treatment should generally be reserved for patients who suffer from a chronic illness that, 1) is known to respond to neuroleptic drugs, and, 2) for whom alternative, equally effective, but potentially less harmful treatments are notavailable or appropriate.
+Chronic neuroleptic treatment should generally be reserved for patients who suffer from a chronic illness that, 1) is known to respond to neuroleptic drugs, and, 2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
 In patients who do require chronic treatment, the smallest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
 The need for continued treatment should be reassessed periodically.
 
@@ -28,7 +30,7 @@ However, some patients may require treatment despite the presence of the syndrom
 
 For further information about the description of tardive dyskinesia and its clinical detection, please refer to the sections on PRECAUTIONSand ADVERSE REACTIONS.
 
-Neuroleptic Malignant Syndrome (NMS):A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.
+Neuroleptic Malignant Syndrome (NMS): A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with antipsychotic drugs.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmias).
 
 The diagnostic evaluation of patients with this syndrome is complicated.
@@ -37,21 +39,20 @@ Other important considerations in the differential diagnosis include central ant
 
 The management of NMS should include 1) immediate discontinuation of antipsychotic drugs and other drugs not essential to concurrent therapy, 2) intensive symptomatic treatment and medical monitoring, and 3) treatment of any concomitant serious medical problems for which specific treatments are available.
 There is no general agreement about specific pharmacological treatment regimens for uncomplicated NMS.
-
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
 The patient should be carefully monitored, since recurrences of NMS have been reported.
 
-Falls:Prochlorperazine suppositories may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
+Falls: Prochlorperazine suppositories may cause somnolence, postural hypotension, motor and sensory instability, which may lead to falls and, consequently, fractures or other injuries.
 For patients with diseases, conditions, or medications that could exacerbate these effects, complete fall risk assessments when initiating antipsychotic treatment and recurrently for patients on long-term antipsychotic therapy.
 
-General:Patients with bone marrow depression or who have previously demonstrated a hypersensitivity reaction (e.g., blood dyscrasias, jaundice) with a phenothiazine should not receive any phenothiazine, including prochlorperazine unless in the judgment of the physician the potential benefits of treatment outweigh the possible hazards.
+General: Patients with bone marrow depression or who have previously demonstrated a hypersensitivity reaction (e.g., blood dyscrasias, jaundice) with a phenothiazine should not receive any phenothiazine, including prochlorperazine, unless in the judgment of the physician the potential benefits of treatment outweigh the possible hazards.
 
 Prochlorperazine may impair mental and/or physical abilities, especially during the first few days of therapy.
 Therefore, caution patients about activities requiring alertness (e.g., operating vehicles or machinery).
 
 Phenothiazines may intensify or prolong the action of central nervous system depressants (e.g., alcohol, anesthetics, narcotics).
 
-Usage in Pregnancy:Safety for the use of prochlorperazine during pregnancy has not been established.
+Usage in Pregnancy: Safety for the use of prochlorperazine during pregnancy has not been established.
 Therefore, prochlorperazine is not recommended for use in pregnant patients except in cases of severe nausea and vomiting that are so serious and intractable that, in the judgment of the physician, drug intervention is required and potential benefits outweigh possible hazards.
 
 There have been reported instances of prolonged jaundice, extrapyramidal signs, hyperreflexia or hyporeflexia in newborn infants whose mothers received phenothiazines.
@@ -62,11 +63,13 @@ These complications have varied in severity; while in some cases symptoms have b
 
 Prochlorperazine should be used during pregnancy only if the potential benefit justifies the potential risk to the fetus.
 
-Nursing Mothers:There is evidence that phenothiazines are excreted in the breast milk of nursing mothers.
+Nursing Mothers: There is evidence that phenothiazines are excreted in the breast milk of nursing mothers.
 
 # PRECAUTIONS
 
-Leukopenia, Neutropenia and AgranulocytosisIn clinical trial and postmarketing experience, events of leukopenia/neutropenia and agranulocytosis have been reported temporally related to antipsychotic agents.
+Leukopenia, Neutropenia and Agranulocytosis
+
+In clinical trial and postmarketing experience, events of leukopenia/ neutropenia and agranulocytosis have been reported temporally related to antipsychotic agents.
 
 Possible risk factors for leukopenia/neutropenia include preexisting low white blood cell count (WBC) and history of drug induced leukopenia/neutropenia.
 Patients with a pre-existing low WBC or a history of drug induced leukopenia/neutropenia should have their complete blood count (CBC) monitored frequently during the first few months of therapy and should discontinue Prochlorperazine Suppositories, USP at the first sign of a decline in WBC in the absence of other causative factors.
@@ -91,8 +94,8 @@ Deep sleep, from which patients can be aroused, and coma have been reported, usu
 Neuroleptic drugs elevate prolactin levels; the elevation persists during chronic administration.
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin-dependent in vitro, a factor of potential importance if the prescribing of these drugs is contemplated in a patient with a previously detected breast cancer.
 Although disturbances such as galactorrhea, amenorrhea, gynecomastia and impotence have been reported, the clinical significance of elevated serum prolactin levels is unknown for most patients.
-An increase in mammary neoplasms has been found in rodents after chronic administration of neuroleptic drugs.
-Neither clinical nor epidemiologic studies conducted to date, however, have shown an association between chronic administration of these drugs and mammary tumorigenesis; the available evidence is considered too limited to be conclusive at this time.
+An increase in mammary neoplasms has been found in rodents after chronic administration of antipsychotic drugs.
+Published epidemiologic studies have shown inconsistent results when exploring the association between hyperprolactinemia and breast cancer.
 
 Chromosomal aberrations in spermatocytes and abnormal sperm have been demonstrated in rodents treated with certain neuroleptics.
 
@@ -116,7 +119,7 @@ However, it has been reported that phenothiazines may interfere with the metabol
 
 The presence of phenothiazines may produce false-positive phenylketonuria (PKU) test results.
 
-Long-Term Therapy:Given the likelihood that some patients exposed chronically to neuroleptics will develop tardive dyskinesia, it is advised that all patients in whom chronic use is contemplated be given, if possible, full information about this risk.
+Long-Term Therapy: Given the likelihood that some patients exposed chronically to neuroleptics will develop tardive dyskinesia, it is advised that all patients in whom chronic use is contemplated be given, if possible, full information about this risk.
 The decision to inform patients and/or their guardians must obviously take into account the clinical circumstances and the competency of the patient to understand the information provided.
 
 To lessen the likelihood of adverse reactions related to cumulative drug effect, patients with a history of long-term therapy with prochlorperazine and/or other neuroleptics should be evaluated periodically to decide whether the maintenance dosage could be lowered or drug therapy discontinued.
@@ -127,13 +130,13 @@ In such patients, the drug should be used only under close supervision.
 Drugs which lower the seizure threshold, including phenothiazine derivatives, should not be used with metrizamide.
 As with other phenothiazine derivatives, prochlorperazine should be discontinued at least 48 hours before myelography, should not be resumed for at least 24 hours postprocedure, and should not be used for the control of nausea and vomiting occurring either prior to myelography with metrizamide or postprocedure.
 
-Geriatric Use:Clinical studies of prochlorperazine did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
+Geriatric Use: Clinical studies of prochlorperazine did not include sufficient numbers of subjects aged 65 and over to determine whether elderly subjects respond differently from younger subjects.
 Geriatric patients are more sensitive to the side effects of antipsychotics, including prochlorperazine.
-These adverse events include hypotension, anticholinergic effects (such as urinary retention, constipation, and confusion), and neuromuscular reactions (such as parkinsonism and tardive dyskinesia) (see PRECAUTIONSand ADVERSE REACTIONS).
+These adverse events include hypotension, anticholinergic effects (such as urinary retention, constipation, and confusion), and neuromuscular reactions (such as parkinsonism and tardive dyskinesia) (see PRECAUTIONS and ADVERSE REACTIONS).
 Also, postmarketing safety experience suggests that the incidence of agranulocytosis may be higher in geriatric patients compared to younger individuals who received prochlorperazine.
 In general, dose selection for an elderly patient should be cautious, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function, and of concomitant disease or other drug therapy (see DOSAGE ANDADMINISTRATION).
 
-Pregnancy:Non-teratogenic Effects Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
+Pregnancy: Non-teratogenic Effects Neonates exposed to antipsychotic drugs, during the third trimester of pregnancy are at risk for extrapyramidal and/or withdrawal symptoms following delivery.
 There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress and feeding disorder in these infants.
 These complications have varied in severity; while in some cases symptoms have been self-limited, in other cases infants have required intensive care unit support and prolonged hospitalization.
 
