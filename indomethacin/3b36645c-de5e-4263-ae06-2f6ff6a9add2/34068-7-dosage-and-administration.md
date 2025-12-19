@@ -3,10 +3,12 @@
 ## 2.1 General Dosing Instructions
 
 Carefully consider the potential benefits and risks of INDOCIN and other treatment options before deciding to use INDOCIN.
-Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [see Warnings and Precautions (5)].
+Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals [seeWarnings and Precautions (5)].
 After observing the response to initial therapy with indomethacin, the dose and frequency should be adjusted to suit an individual patient’s needs.
 Adverse reactions generally appear to correlate with the dose of indomethacin.
+
 Therefore, every effort should be made to determine the lowest effective dosage for the individual patient.
+
 SUPPOSITORIES: INDOCIN Suppositories are available as 50 mg suppositories for rectal use only.
 INDOCIN Suppositories are not for oral or intravaginal use.
 

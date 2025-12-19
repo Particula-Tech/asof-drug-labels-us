@@ -5,19 +5,22 @@
 Clinical trials of several COX-2 selective and nonselective NSAIDs of up to three years duration have shown an increased risk of serious cardiovascular (CV) thrombotic events, including myocardial infarction (MI) and stroke, which can be fatal.
 Based on available data, it is unclear that the risk for CV thrombotic events is similar for all NSAIDs.
 The relative increase in serious CV thrombotic events over baseline conferred by NSAID use appears to be similar in those with and without known CV disease or risk factors for CV disease.
+
 However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.
 Some observational studies found that this increased risk of serious CV thrombotic events began as early as the first weeks of treatment.
 The increase in CV thrombotic risk has been observed most consistently at higher doses.
+
 To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.
 Physicians and patients should remain alert for the development of such events, throughout the entire treatment course, even in the absence of previous CV symptoms.
 Patients should be informed about the symptoms of serious CV events and the steps to take if they occur.
 There is no consistent evidence that concurrent use of aspirin mitigates the increased risk of serious CV thrombotic events associated with NSAID use.
-The concurrent use of aspirin and an NSAID, such as indomethacin, increases the risk of serious gastrointestinal (GI) events [see Warnings and Precautions (5.2)].
+The concurrent use of aspirin and an NSAID, such as indomethacin, increases the risk of serious gastrointestinal (GI) events [seeWarnings and Precautions (5.2)].
 Status Post Coronary Artery Bypass Graft (CABG) Surgery Two large, controlled clinical trials of a COX-2 selective NSAID for the treatment of pain in the first 10–14 days following CABG surgery found an increased incidence of myocardial infarction and stroke.
-NSAIDs are contraindicated in the setting of CABG [see Contraindications (4)].
+NSAIDs are contraindicated in the setting of CABG [seeContraindications (4)].
 Post-MI Patients Observational studies conducted in the Danish National Registry have demonstrated that patients treated with NSAIDs in the post-MI period were at increased risk of reinfarction, CV-related death, and all-cause mortality beginning in the first week of treatment.
 In this same cohort, the incidence of death in the first year post-MI was 20 per 100 person years in NSAID-treated patients compared to 12 per 100 person years in non-NSAID exposed patients.
 Although the absolute rate of death declined somewhat after the first year post-MI, the increased relative risk of death in NSAID users persisted over at least the next four years of follow-up.
+
 Avoid the use of INDOCIN in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events.
 If INDOCIN is used in patients with a recent MI, monitor patients for signs of cardiac ischemia.
 
@@ -40,7 +43,7 @@ Strategies to Minimize the GI Risks in NSAID-treated patients:
   For such patients, as well as those with active GI bleeding, consider alternate therapies other than NSAIDs.
 - Remain alert for signs and symptoms of GI ulceration and bleeding during NSAID therapy.
 - If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue INDOCIN until a serious GI adverse event is ruled out.
-- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [see Drug Interactions (7)].
+- In the setting of concomitant use of low-dose aspirin for cardiac prophylaxis, monitor patients more closely for evidence of GI bleeding [seeDrug Interactions (7)].
 
 ## 5.3 Hepatotoxicity
 
@@ -53,7 +56,7 @@ If clinical signs and symptoms consistent with liver disease develop, or if syst
 ## 5.4 Hypertension
 
 NSAIDs, including INDOCIN, can lead to new onset of hypertension or worsening of preexisting hypertension, either of which may contribute to the increased incidence of CV events.
-Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [see Drug Interactions (7)].
+Patients taking angiotensin converting enzyme (ACE) inhibitors, thiazide diuretics, or loop diuretics may have impaired response to these therapies when taking NSAIDs [seeDrug Interactions (7)].
 Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.
 
 ## 5.5 Heart Failure and Edema
@@ -75,8 +78,7 @@ Discontinuation of NSAID therapy is usually followed by recovery to the pretreat
 No information is available from controlled clinical studies regarding the use of INDOCIN in patients with advanced renal disease.
 The renal effects of INDOCIN may hasten the progression of renal dysfunction in patients with preexisting renal disease.
 Correct volume status in dehydrated or hypovolemic patients prior to initiating INDOCIN.
-Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of INDOCIN [see Drug Interactions (7)].
-Avoid the use of INDOCIN in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
+Monitor renal function in patients with renal or hepatic impairment, heart failure, dehydration, or hypovolemia during use of INDOCIN [seeDrug Interactions (7)].Avoid the use of INDOCIN in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.
 If INDOCIN is used in patients with advanced renal disease, monitor patients for signs of worsening renal function.
 It has been reported that the addition of the potassium-sparing diuretic, triamterene, to a maintenance schedule of indomethacin resulted in reversible acute renal failure in two of four healthy volunteers.
 Indomethacin and triamterene should not be administered together.
@@ -93,39 +95,64 @@ Seek emergency help if an anaphylactic reaction occurs.
 ## 5.8 Exacerbation of Asthma Related to Aspirin Sensitivity
 
 A subpopulation of patients with asthma may have aspirin-sensitive asthma which may include chronic rhinosinusitis complicated by nasal polyps; severe, potentially fatal bronchospasm; and/or intolerance to aspirin and other NSAIDs.
-Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, INDOCIN is contraindicated in patients with this form of aspirin sensitivity [see Contraindications (4)].
+Because cross-reactivity between aspirin and other NSAIDs has been reported in such aspirin-sensitive patients, INDOCIN is contraindicated in patients with this form of aspirin sensitivity [seeContraindications (4)].
 When INDOCIN is used in patients with preexisting asthma (without known aspirin sensitivity), monitor patients for changes in the signs and symptoms of asthma.
 
 ## 5.9 Serious Skin Reactions
 
 NSAIDs, including indomethacin, can cause serious skin adverse reactions such as exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and toxic epidermal necrolysis (TEN), which can be fatal.
+NSAIDs can also cause fixed drug eruption (FDE).
+FDE may present as a more severe variant known as generalized bullous fixed drug eruption (GBFDE), which can be life-threatening.
 These serious events may occur without warning.
 Inform patients about the signs and symptoms of serious skin reactions, and to discontinue the use of INDOCIN at the first appearance of skin rash or any other sign of hypersensitivity.
-INDOCIN is contraindicated in patients with previous serious skin reactions to NSAIDs [see Contraindications (4)].
 
-## 5.10 Premature Closure of Fetal Ductus Arteriosus
+INDOCIN is contraindicated in patients with previous serious skin reactions to NSAIDs [seeContraindications (4)].
 
-Indomethacin may cause premature closure of the fetal ductus arteriosus.
-Avoid use of NSAIDs, including INDOCIN, in pregnant women starting at 30 weeks of gestation (third trimester) [see Use in Specific Populations (8.1)].
+## 5.10 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
 
-## 5.11 Hematologic Toxicity
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported in patients taking NSAIDs such as INDOCIN.
+Some of these events have been fatal or life-threatening.
+DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.
+Other clinical manifestations may include hepatitis, nephritis, hematological abnormalities, myocarditis, or myositis.
+Sometimes symptoms of DRESS may resemble an acute viral infection.
+Eosinophilia is often present.
+Because this disorder is variable in its presentation, other organ systems not noted here may be involved.
+It is important to note that early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident.
+If such signs or symptoms are present, discontinue INDOCIN and evaluate the patient immediately.
+
+## 5.11 Fetal Toxicity
+
+Premature Closure of Fetal Ductus Arteriosus: Avoid use of NSAIDs, including INDOCIN, in pregnant women at about 30 weeks gestation and later.
+NSAIDs, including INDOCIN, increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.
+
+Oligohydramnios/Neonatal Renal Impairment: Use of NSAIDs, including INDOCIN, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to oligohydramnios and, in some cases, neonatal renal impairment.
+These adverse outcomes are seen, on average, after days to weeks of treatment, although oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.
+Oligohydramnios is often, but not always, reversible with treatment discontinuation.
+Complications of prolonged oligohydramnios may, for example, include limb contractures and delayed lung maturation.
+In some postmarketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.
+
+If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit INDOCIN use to the lowest effective dose and shortest duration possible.
+Consider ultrasound monitoring of amniotic fluid if INDOCIN treatment extends beyond 48 hours.
+Discontinue INDOCIN if oligohydramnios occurs and follow up according to clinical practice [see Use in Specific Populations (8.1)].
+
+## 5.12 Hematologic Toxicity
 
 Anemia has occurred in NSAID-treated patients.
 This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect on erythropoiesis.
 If a patient treated with INDOCIN has any signs or symptoms of anemia, monitor hemoglobin or hematocrit.
 NSAIDs, including INDOCIN, may increase the risk of bleeding events.
 Co-morbid conditions, such as coagulation disorders, or concomitant use of warfarin, other anticoagulants, antiplatelet agents (e.g., aspirin), serotonin reuptake inhibitors (SSRIs) and serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk.
-Monitor these patients for signs of bleeding [see Drug Interactions (7)].
+Monitor these patients for signs of bleeding [seeDrug Interactions (7)].
 
-## 5.12 Masking of Inflammation and Fever
+## 5.13 Masking of Inflammation and Fever
 
 The pharmacological activity of INDOCIN in reducing inflammation, and possibly fever, may diminish the utility of diagnostic signs in detecting infections.
 
-## 5.13 Laboratory Monitoring
+## 5.14 Laboratory Monitoring
 
-Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3, 5.6)].
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [seeWarnings and Precautions (5.2, 5.3, 5.6)].
 
-## 5.14 Central Nervous System Effects
+## 5.15 Central Nervous System Effects
 
 INDOCIN may aggravate depression or other psychiatric disturbances, epilepsy, and parkinsonism, and should be used with considerable caution in patients with these conditions.
 Discontinue INDOCIN if severe CNS adverse reactions develop.
@@ -133,7 +160,7 @@ INDOCIN may cause drowsiness; therefore, caution patients about engaging in acti
 Indomethacin may also cause headache.
 Headache which persists despite dosage reduction requires cessation of therapy with INDOCIN.
 
-## 5.15 Ocular Effects
+## 5.16 Ocular Effects
 
 Corneal deposits and retinal disturbances, including those of the macula, have been observed in some patients who had received prolonged therapy with INDOCIN.
 Be alert to the possible association between the changes noted and INDOCIN.

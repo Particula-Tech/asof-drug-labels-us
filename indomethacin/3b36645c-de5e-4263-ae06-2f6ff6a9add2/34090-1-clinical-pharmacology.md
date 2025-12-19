@@ -5,7 +5,7 @@
 Indomethacin has analgesic, anti-inflammatory, and antipyretic properties.
 The mechanism of action of INDOCIN, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2).
 Indomethacin is a potent inhibitor of prostaglandin synthesis in vitro.
-Indomethacin concentrations reached during therapy have produced in vivo effects.
+Indomethacin concentrations reached during therapy have produced in vivoeffects.
 Prostaglandins sensitize afferent nerves and potentiate the action of bradykinin in inducing pain in animal models.
 Prostaglandins are mediators of inflammation.
 Because indomethacin is an inhibitor of prostaglandin synthesis, its mode of action may be due to a decrease of prostaglandins in peripheral tissues.
@@ -22,18 +22,30 @@ This is probably because some subjects did not retain the material from the supp
 Since the suppository dissolves rather quickly rather than melting slowly, it is seldom recovered in recognizable form if the patient retains the suppository for more than a few minutes.
 Distribution Indomethacin is highly bound to protein in plasma (about 99%) over the expected range of therapeutic plasma concentrations.
 Indomethacin has been found to cross the blood-brain barrier and the placenta, and appears in breast milk.
-Elimination Metabolism Indomethacin exists in the plasma as the parent drug and its desmethyl, desbenzoyl, and desmethyldesbenzoyl metabolites, all in the unconjugated form.
+Elimination
+
+Metabolism Indomethacin exists in the plasma as the parent drug and its desmethyl, desbenzoyl, and desmethyldesbenzoyl metabolites, all in the unconjugated form.
 Appreciable formation of glucuronide conjugates of each metabolite and of indomethacin are formed.
 Excretion Indomethacin is eliminated via renal excretion, metabolism, and biliary excretion.
 Indomethacin undergoes appreciable enterohepatic circulation.
 About 60% of an oral dose is recovered in urine as drug and metabolites (26% as indomethacin and its glucuronide), and 33% is recovered in feces (1.5% as indomethacin).
 The mean half-life of indomethacin is estimated to be about 4.5 hours.
-Specific Populations Pediatric: The pharmacokinetics of INDOCIN has not been investigated in pediatric patients.
-Race: Pharmacokinetic differences due to race have not been identified.
+Specific Populations
+
+Pediatric:The pharmacokinetics of INDOCIN has not been investigated in pediatric patients.
+Race:Pharmacokinetic differences due to race have not been identified.
 Hepatic Impairment: The pharmacokinetics of INDOCIN has not been investigated in patients with hepatic impairment.
-Renal Impairment: The pharmacokinetics of INDOCIN has not been investigated in patients with renal impairment [see Warnings and Precautions (5.6)].
-Drug Interaction Studies Aspirin: In a study in normal volunteers, it was found that chronic concurrent administration of 3.6 g of aspirin per day decreases indomethacin blood levels approximately 20% [see Drug Interactions (7)].
+Renal Impairment: The pharmacokinetics of INDOCIN has not been investigated in patients with renal impairment [seeWarnings and Precautions (5.6)].
+Drug Interaction Studies
+
+Aspirin:
+
+In a study in normal volunteers, it was found that chronic concurrent administration of 3.6 g of aspirin per day decreases indomethacin blood levels approximately 20% [seeDrug Interactions (7)].
+
 When NSAIDs were administered with aspirin, the protein binding of NSAIDs were reduced, although the clearance of free NSAID was not altered.
 The clinical significance of this interaction is not known.
 See Table 2 for clinically significant drug interactions of NSAIDs with aspirin [see Drug Interactions (7)].
-Diflunisal: In normal volunteers receiving indomethacin, the administration of diflunisal decreased the renal clearance and significantly increased the plasma levels of indomethacin [see Drug Interactions (7)].
+
+Diflunisal:
+
+In normal volunteers receiving indomethacin, the administration of diflunisal decreased the renal clearance and significantly increased the plasma levels of indomethacin [seeDrug Interactions (7)].
