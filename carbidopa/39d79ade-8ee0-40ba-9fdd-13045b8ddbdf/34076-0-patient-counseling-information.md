@@ -1,7 +1,5 @@
 # 17 PATIENT COUNSELING INFORMATION
 
-Advise the patient to read the FDA-approved patient labeling (Instructions for Use).
-
 Dosing Instructions
 
 - It is important that DHIVY be taken at regular intervals according to the schedule outlined by their physician.
@@ -38,16 +36,10 @@ Advise patients to notify their healthcare provider if they become pregnant or i
 
 Advise female patients to notify their physicians if they intend to breastfeed or are breastfeeding an infant [seeUse in Specific Populations (8.2)].
 
-Distributed by:
-
-Avion Pharmaceuticals, LLC
-
-Alpharetta, GA, 30005 USA
+Distributed by: Avion Pharmaceuticals, LLC Alpharetta, GA, 30005 USA
 
 L-0344 Rev.
-0921-01
-
-U.S. Patent 11,033,521
+0423-02
 
 INSTRUCTIONS FOR USE
 
@@ -76,7 +68,7 @@ Important Information You Need to Know Before Taking DHIVY
 - Call your healthcare provider before you stop taking DHIVY.
   Call your healthcare provider if you develop withdrawal symptoms such as fever and confusion.
 - Changing your diet to highly acidic foods or foods that are high in protein or taking iron salts or multivitamins with iron may affect how DHIVY works.
-  If you are not sure if you are on any of these diets or are taking any of these medicines, ask your healthcare provider.
+  If you are not sure if you are on any of these diets or taking any of these medicines, ask your healthcare provider.
 
 DHIVY Tablet
 

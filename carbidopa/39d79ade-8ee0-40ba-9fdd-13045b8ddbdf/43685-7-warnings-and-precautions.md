@@ -41,6 +41,7 @@ Case reports suggest that patients can experience an intense urge to gamble, inc
 In some cases, although not all, these urges were reported to have stopped when the dosage was reduced or the medication was discontinued.
 
 Because patients may not recognize these behaviors as abnormal, it is important for prescribers to specifically ask patients or the caregivers about the development of new or increased gambling urges, sexual urges, uncontrolled spending, or other urges while being treated with DHIVY.
+
 Consider dosage reduction or stopping the medication if a patient develops such urges while taking DHIVY.
 
 ## 5.6 Dyskinesia
