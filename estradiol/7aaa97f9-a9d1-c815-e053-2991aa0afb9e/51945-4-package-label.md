@@ -2,9 +2,7 @@
 
 NDC 72495-201-05
 
-Femring®
-
-(estradiol acetate vaginal ring)
+Femring® (estradiol acetate vaginal ring)
 
 0.05 mg/day
 
@@ -14,9 +12,7 @@ N 72495-201-05
 
 PM00004
 
-Femring®
-
-(estradiol acetate vaginal ring)
+Femring® (estradiol acetate vaginal ring)
 
 0.05 mg/day
 
@@ -38,9 +34,7 @@ NDC 72495-202-10
 
 Femring®
 
-(estradiol acetate vaginal ring)
-
-0.10 mg/day
+(estradiol acetate vaginal ring) 0.10 mg/day
 
 # PRINCIPAL DISPLAY PANEL – 0.10 mg/day Pouch Label
 
@@ -48,9 +42,7 @@ N 72495-202-10
 
 PM00005
 
-Femring®
-
-(estradiol acetate vaginal ring)
+Femring® (estradiol acetate vaginal ring)
 
 0.10 mg/day
 

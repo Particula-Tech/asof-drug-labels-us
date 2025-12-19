@@ -9,7 +9,7 @@ N 72495-202-10 Femring 0.10 mg/day (estradiol acetate vaginal ring) is available
 
 ## 16.2 Storage and Handling
 
-Store at 20º C to 25º C (68º F to77º F); excursions permitted to -20º C to 40º C (-4º F to 104º F).
+Store at 20º C to 25º C (68º F to 77º F); excursions permitted to -20º C to 40º C (-4º F to 104º F).
 
 Do not store unpouched.
 Insert immediately upon removal from the protective pouch.
