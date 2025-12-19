@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "BLA761433"
+  ],
+  "inn": "amivantamab",
+  "labeler": "Janssen Biotech, Inc.",
+  "package_ndcs": [
+    "57894-510-01",
+    "57894-514-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "amivantamab and hyaluronidase-lpuj (human recombinant)",
+      "name": "RYBREVANT FASPRO"
+    }
+  ],
+  "setid": "9e58b045-e352-4f62-99bf-77fae1bebc69",
+  "source": "dailymed"
+}
