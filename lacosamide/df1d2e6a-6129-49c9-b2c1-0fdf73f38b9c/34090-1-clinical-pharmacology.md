@@ -81,15 +81,16 @@ Hepatic Impairment
   Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma concentrations of lacosamide (approximately 50 to 60% higher AUC compared to healthy subjects).
   The pharmacokinetics of lacosamide have not been evaluated in severe hepatic impairment [see Dosage and Administration (2.5)].
 
-Pediatric Patients (4 to less than 17 Years of Age)
+Pediatric Patients (1 month to less than 17 Years of Age)
 
-- The pediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in two open-label studies in 79 pediatric patients with epilepsy aged 4 years to less than 17 years who received oral solution or oral tablet formulations.
-- A weight based dosing regimen is necessary to achieve lacosamide exposures in pediatric patients 4 years to less than 17 years of age similar to those observed in adults treated at effective doses of lacosamide [see Dosage and Administration (2.1)].
-  For patients weighing 11 kg, 28.9 kg (the mean population body weight), and 70 kg, the typical plasma half-life (t1/2) is 7.4 hours, 10.6 hours, and 14.8 hours, respectively.
-  Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.
+- A multicenter, double-blind, randomized, placebo-controlled, parallel-group study with a 20-day titration period and 7-day maintenance period using lacosamide oral solution (8mg/kg/day to 12mg/kg/day) was conducted in 255 (128 were randomized to lacosamide and 127 were randomized to placebo) pediatric patients with epilepsy 1 month to less than 4 years of age with uncontrolled partial-onset seizures.
+  The pediatric pharmacokinetic profile of lacosamide was determined in a population pharmacokinetic analysis using sparse plasma concentration data obtained in six placebo-controlled studies and five open-label studies in 1655 adult and pediatric patients with epilepsy aged 1 month to less than 17 years who received oral solution or oral tablet formulations.
+
+A weight based dosing regimen is necessary to achieve lacosamide exposures in pediatric patients 1 month to less than 17 years of age similar to those observed in adults treated at effective doses of lacosamide [see Dosage and Administration (2.1)].
+For patients weighing 10 kg, 28.9 kg (the mean population body weight), and 70 kg, the typical plasma half-life (t1/2) is 7.2 hours, 10.6 hours, and 14.8 hours, respectively.
+Steady state plasma concentrations are achieved after 3 days of twice daily repeated administration.
+
 - The pharmacokinetics of lacosamide in pediatric patients are similar when used as monotherapy or as adjunctive therapy for the treatment of partial-onset seizures.
-- Additional pediatric use information is approved for UCB, Inc.’s VIMPAT® (lacosamide) tablets.
-  However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 Geriatric Patients
 
@@ -125,29 +126,29 @@ In Vitro Assessment of Drug Interactions
 In Vivo Assessment of Drug Interactions
 
 - •Drug interaction studies with AEDs
-- •Effect of lacosamide on concomitant AEDs
+- oEffect of lacosamide on concomitant AEDs
 - Lacosamide 400 mg/day had no influence on the pharmacokinetics of 600 mg/day valproic acid and 400 mg/day carbamazepine in healthy subjects.
 - The placebo-controlled clinical studies in patients with partial-onset seizures showed that steady-state plasma concentrations of levetiracetam, carbamazepine, carbamazepine epoxide, lamotrigine, topiramate, oxcarbazepine monohydroxy derivative (MHD), phenytoin, valproic acid, phenobarbital, gabapentin, clonazepam, and zonisamide were not affected by concomitant intake of lacosamide at any dose.
-- •Effect of concomitant AEDs on lacosamide
+- oEffect of concomitant AEDs on lacosamide
 - Drug-drug interaction studies in healthy subjects showed that 600 mg/day valproic acid had no influence on the pharmacokinetics of 400 mg/day lacosamide.
   Likewise, 400 mg/day carbamazepine had no influence on the pharmacokinetics of lacosamide in a healthy subject study.
   Population pharmacokinetics results in patients with partial-onset seizures showed small reductions (15% to 20% lower) in lacosamide plasma concentrations when lacosamide was coadministered with carbamazepine, phenobarbital or phenytoin.
 - •Drug-drug interaction studies with other drugs
-- •Digoxin
+- oDigoxin
 - There was no effect of lacosamide (400 mg/day) on the pharmacokinetics of digoxin (0.5 mg once daily) in a study in healthy subjects.
-- •Metformin
+- oMetformin
 - There were no clinically relevant changes in metformin levels following coadministration of lacosamide (400 mg/day).
 - Metformin (500 mg three times a day) had no effect on the pharmacokinetics of lacosamide (400 mg/day).
-- •Omeprazole
+- oOmeprazole
 - Omeprazole is a CYP2C19 substrate and inhibitor.
 - There was no effect of lacosamide (600 mg/day) on the pharmacokinetics of omeprazole (40 mg single dose) in healthy subjects.
   The data indicated that lacosamide had little in vivo inhibitory or inducing effect on CYP2C19.
 - Omeprazole at a dose of 40 mg once daily had no effect on the pharmacokinetics of lacosamide (300 mg single dose).
   However, plasma levels of the O-desmethyl metabolite were reduced about 60% in the presence of omeprazole.
-- •Midazolam
+- oMidazolam
 - Midazolam is a 3A4 substrate.
 - There was no effect of lacosamide (200 mg single dose or repeat doses of 400 mg/day given as 200 mg BID) on the pharmacokinetics of midazolam (single dose, 7.5 mg), indicating no inhibitory or inducing effects on CYP3A4.
-- •Oral Contraceptives
+- oOral Contraceptives
 - There was no influence of lacosamide (400 mg/day) on the pharmacodynamics and pharmacokinetics of an oral contraceptive containing 0.03 mg ethinylestradiol and 0.15 mg levonorgestrel in healthy subjects, except that a 20% increase in ethinylestradiol Cmax was observed.
-- •Warfarin
+- oWarfarin
 - Co-administration of lacosamide (400 mg/day) with warfarin (25 mg single dose) did not result in a clinically relevant change in the pharmacokinetic and pharmacodynamic effects of warfarin in a study in healthy male subjects.

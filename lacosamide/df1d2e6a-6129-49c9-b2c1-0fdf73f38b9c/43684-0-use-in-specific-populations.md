@@ -56,10 +56,16 @@ Monitor infants exposed to lacosamide through breastmilk for excess sedation.
 
 Partial-Onset Seizures
 
-Safety and effectiveness of lacosamide for the treatment of partial-onset seizures have been established in pediatric patients 4 years to less than 17 years of age.
-Use of lacosamide in this age group is supported by evidence from adequate and well-controlled studies of lacosamide in adults with partial-onset seizures, pharmacokinetic data from adult and pediatric patients, and safety data in 328 pediatric patients 4 years to less than 17 years of age [see Adverse Reactions (6.1), and Clinical Pharmacology (12.3), and Clinical Studies (14.1, 14.2)].
+Safety and effectiveness of lacosamide for the treatment of partial-onset seizures have been established in pediatric patients 1 month to less than 17 years of age.
+Use of lacosamide in this age group is supported by evidence from adequate and well-controlled studies of lacosamide in adults with partial-onset seizures, pharmacokinetic data from adult and pediatric patients, and safety data in 847 pediatric patients 1 month to less than 17 years of age [see Adverse Reactions (6.1), Clinical Pharmacology (12.3), and Clinical Studies (14.1, 14.2)].
 
 Safety and effectiveness in pediatric patients below 1 month of age have not been established.
+
+Primary Generalized Tonic-Clonic Seizures
+
+Safety and effectiveness of lacosamide as adjunctive therapy in the treatment of primary generalized tonic-clonic seizures in pediatric patients with idiopathic generalized epilepsy 4 years of age and older was established in a 24- week double-blind, randomized, placebo-controlled, parallel-group, multi-center study (Study 5), which included 37 pediatric patients 4 years to less than 17 years of age [see Adverse Reactions (6.1) and Clinical Studies (14.3)].
+
+Safety and effectiveness in pediatric patients below the age of 4 years have not been established.
 
 Animal Data
 
@@ -67,9 +73,6 @@ Lacosamide has been shown in vitro to interfere with the activity of collapsin r
 Potential related adverse effects on CNS development cannot be ruled out.
 Administration of lacosamide to rats during the neonatal and juvenile periods of postnatal development (approximately equivalent to neonatal through adolescent development in humans) resulted in decreased brain weights and long-term neurobehavioral changes (altered open field performance, deficits in learning and memory).
 The no-effect dose for developmental neurotoxicity in rats was associated with a plasma lacosamide exposure (AUC) less than that in humans at the maximum recommended human dose of 400 mg/day.
-
-Additional pediatric use information is approved for UCB, Inc.’s VIMPAT® (lacosamide) tablets.
-However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
 ## 8.5 Geriatric Use
 
@@ -81,8 +84,7 @@ In elderly patients, dose titration should be performed with caution, usually st
 ## 8.6 Renal Impairment
 
 No dose adjustment is necessary in patients with mild to moderate renal impairment (CLCR ≥30 mL/min).
-In patients with severe renal impairment (CLCR <30 mL/min as estimated by the Cockcroft-Gault equation for adults; CLCR <30 mL/min/1.73m2 as estimated by the Schwartz equation for pediatric patients) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (Error!
-Hyperlink reference not valid.) and Clinical Pharmacology (12.3)].
+In patients with severe renal impairment (CLCR <30 mL/min as estimated by the Cockcroft-Gault equation for adults; CLCR <30 mL/min/1.73m2 as estimated by the Schwartz equation for pediatric patients) and in those with end-stage renal disease, a reduction of 25% of the maximum dosage is recommended [see Dosage and Administration (2.4) and Clinical Pharmacology (12.3)].
 
 In all patients with renal impairment, dose initiation and titration should be based on clinical response and tolerability.
 
@@ -92,8 +94,7 @@ Dosage supplementation of up to 50% following hemodialysis should be considered.
 ## 8.7 Hepatic Impairment
 
 For adult and pediatric patients with mild to moderate hepatic impairment, a reduction of 25% of the maximum dosage is recommended.
-Patients with mild to moderate hepatic impairment should be observed closely for adverse reactions, and dose initiation and titration should be based on clinical response and tolerability [see Dosage and Administration (Error!
-Hyperlink reference not valid.), Clinical Pharmacology (12.3)].
+Patients with mild to moderate hepatic impairment should be observed closely for adverse reactions, and dose initiation and titration should be based on clinical response and tolerability [see Dosage and Administration (2.5), Clinical Pharmacology (12.3)].
 
 The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment.
 Lacosamide use is not recommended in patients with severe hepatic impairment.

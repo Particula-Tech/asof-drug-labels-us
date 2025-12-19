@@ -18,9 +18,7 @@ Stopping seizure medicine suddenly in a patient who has epilepsy can cause seizu
 
 Lacosamide tablets can cause serious side effects, including:
 
-- 1.
-  Like other antiepileptic drugs, lacosamide tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.
-- Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
+1. 1.Like other antiepileptic drugs, lacosamide tablets may cause suicidal thoughts or actions in a very small number of people, about 1 in 500.Call a healthcare provider right away if you have any of these symptoms, especially if they are new, worse, or worry you:
 
 | •thoughts about suicide or dying | •trouble sleeping (insomnia) |
 | --- | --- |
@@ -30,38 +28,35 @@ Lacosamide tablets can cause serious side effects, including:
 | •feeling agitated or restless | •an extreme increase in activity and talking (mania) |
 | •panic attacks | •other unusual changes in behavior or mood |
 
-1. How can I watch for early symptoms of suicidal thoughts and actions?
-
 | •Pay attention to any changes, especially sudden changes, in mood, behaviors, thoughts, or feelings. •Keep all follow-up visits with your healthcare provider as scheduled. •Call your healthcare provider between visits as needed, especially if you are worried about symptoms.•Suicidal thoughts or actions can be caused by things other than medicines. If you have suicidal thoughts or actions, your healthcare provider may check for other causes. |
 | --- |
 
-- 2.
-  Lacosamide tablets may cause you to feel dizzy, have double vision, feel sleepy, or have problems with coordination and walking.
-  Do not drive, operate heavy machinery, or do other dangerous activities until you know how lacosamide tablets affects you.
-- 3.
-  Lacosamide tablets may cause you to have an irregular heartbeat or may cause you to faint.
-  In rare cases, cardiac arrest has been reported.
-  Call your healthcare provider right away if you:
+1. 2.Lacosamide tablets may cause you to feel dizzy, have double vision, feel sleepy, or have problems with coordination and walking.
+   Do not drive, operate heavy machinery, or do other dangerous activities until you know how lacosamide tablets affects you.
+2. 3.Lacosamide tablets may cause you to have an irregular heartbeat or may cause you to faint.
+   In rare cases, cardiac arrest has been reported.
+   Call your healthcare provider right away if you:
 
-| •have a fast, slow, or pounding heartbeat or feel your heart skip a beat | •feel lightheaded |
+| •Have a fast, slow, or pounding heartbeat or feel your heart skip a beat | •Feel lightheaded |
 | --- | --- |
-| •have shortness of breath | •fainted or if you feel like you are going to faint |
-| •have chest pain |  |
+| •Have shortness of breath | •Fainted or if you feel like you are going to faint |
+| •Have chest pain |  |
 
 - If you have fainted or feel like you are going to faint you should lay down with your legs raised.
-- 4.
-  Lacosamide tablets are a federally controlled substance (CV) because it can be abused or lead to drug dependence.
-  Keep your lacosamide tablets in a safe place, to protect it from theft.
-  Never give your lacosamide tablets to anyone else, because it may harm them.
-  Selling or giving away this medicine is against the law.
+
+1. 4.Lacosamide tablets are a federally controlled substance (CV) because it can be abused or lead to drug dependence.
+   Keep your lacosamide tablets in a safe place, to protect it from theft.
+   Never give your lacosamide tablets to anyone else, because it may harm them.
+   Selling or giving away this medicine is against the law.
 
 What are lacosamide tablets?
 
 Lacosamide tablets are a prescription medicine used:
 
-- •to treat partial-onset seizures in people 4 years of age and older.
+- •to treat partial-onset seizures in people 1 month of age and older.
+- • with other medicines to treat primary generalized tonic-clonic seizures in people 17 years of age and older.
 
-It is not known if lacosamide tablets are safe and effective for partial-onset seizures in children under 1 month of age.
+It is not known if lacosamide tablets are safe and effective for partial-onset seizures in children under 1 month of age or for primary generalized tonic-clonic seizures in children under 4 years of age.
 
 What should I tell my healthcare provider before taking lacosamide tablets?
 
@@ -76,13 +71,13 @@ Before you take lacosamide tablets, tell your healthcare provider about all of y
   It is not known if lacosamide tablets can harm your unborn baby.
   Tell your healthcare provider right away if you become pregnant while taking lacosamide tablets.
   You and your healthcare provider will decide if you should take lacosamide tablets while you are pregnant.
-- •If you become pregnant while taking lacosamide tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
+- oIf you become pregnant while taking lacosamide tablets, talk to your healthcare provider about registering with the North American Antiepileptic Drug Pregnancy Registry.
   You can enroll in this registry by calling 1-888-233-2334.
   The purpose of this registry is to collect information about the safety of antiepileptic medicine during pregnancy.
 - •are breastfeeding or plan to breastfeed. lacosamide passes into breast milk.
-- •Breastfeeding during treatment with lacosamide tablets may cause your baby to have more sleepiness than normal.
+- oBreastfeeding during treatment with lacosamide tablets may cause your baby to have more sleepiness than normal.
   If this happens, contact your baby’s healthcare provider.
-- •Talk to your healthcare provider about the best way to feed your baby if you take lacosamide tablets.
+- oTalk to your healthcare provider about the best way to feed your baby if you take lacosamide tablets.
 
 Tell your healthcare provider about all the medicines you take, including prescription and over-the-counter medicines, vitamins, and herbal supplements.
 
@@ -139,8 +134,7 @@ You may report side effects to FDA at 1-800-FDA-1088.
 How should I store lacosamide tablets?
 
 - •Store lacosamide tablets between 20ºC to 25ºC (68ºF to 77ºF).
-- •Bottles of 30 with child-resistant closures.
-- •Bottles of 60 with child-resistant closures.
+- •Lacosamide tablets come in child-resistant bottles of 30 tablets and 60 tablets.
 
 Keep lacosamide tablets and all medicines out of the reach of children.
 
@@ -171,21 +165,11 @@ Tablet inactive ingredients: colloidal silicon dioxide, crospovidone, hydroxypro
 Additional pediatric use information is approved for UCB, Inc.’s VIMPAT® (lacosamide) tablets.
 However, due to UCB, Inc.’s marketing exclusivity rights, this drug product is not labeled with that information.
 
-Medication Guide available at:
-
-www.glenmarkpharma-us.com/medguides
-
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-Pithampur, Madhya Pradesh, 454775 India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
@@ -194,4 +178,4 @@ www.glenmarkpharma-us.com
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-November 2023
+August 2025
