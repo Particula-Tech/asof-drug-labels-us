@@ -12,50 +12,54 @@ Advise the patient that serious arterial and venous thrombotic events have been 
 
 Anaphylaxis
 
-Counsel patients on the importance of seeking urgent medical attention if they experience symptoms of anaphylaxis [see Warnings and Precautions (5.5)].
+Counsel patients on the importance of seeking urgent medical attention if they experience symptoms of anaphylaxis [see Warnings and Precautions (5.6)].
 
 Ectopic Pregnancy
 
-Advise patients to tell their healthcare professional right away if they become pregnant or experience severe abdominal pain to exclude a diagnosis of ectopic pregnancy [see Warnings and Precautions (5.4)].
+Advise patients to tell their healthcare professional right away if they become pregnant or experience severe abdominal pain to exclude a diagnosis of ectopic pregnancy [see Warnings and Precautions (5.5)].
 
 Bleeding Irregularities
 
 Advise patients at the beginning of treatment that their menstrual cycle may be disrupted, resulting in irregular and unpredictable bleeding or spotting.
-Explain that bleeding and spotting irregularities usually decrease to the point of amenorrhea as treatment with depo-subQ provera 104 continues, and does not require other therapy [see Warnings and Precautions (5.11)].
+Explain that bleeding and spotting irregularities usually decrease to the point of amenorrhea as treatment with depo-subQ provera 104 continues and does not require other therapy [see Warnings and Precautions (5.12)].
 
 Delayed Return of Ovulation and Fertility
 
-Advise patients that return to ovulation and fertility is likely to be delayed after stopping depo-subQ provera 104 [see Warnings and Precautions (5.8)].
+Advise patients that return to ovulation and fertility is likely to be delayed after stopping depo-subQ provera 104 [see Warnings and Precautions (5.9)].
 
 Risks of Breast Cancer
 
 Counsel patients about the possible increased risk of breast cancer in women who use depo-subQ provera 104 [see Warnings and Precautions (5.3)].
 
+Meningioma
+
+Counsel patients with a history of meningioma about the possible risk of worsening meningioma [see Warnings and Precautions (5.4)].
+
 Depression
 
 Counsel patients about the possible risk of depression and mood disorders.
 Advise patients with a history of depression or who are receiving treatment for depression to be alert to any mood changes or worsening of their depression.
-Counsel patients to follow up with their healthcare professional accordingly [see Warnings and Precautions (5.9)].
+Counsel patients to follow up with their healthcare professional accordingly [see Warnings and Precautions (5.10)].
 
 Risk of Hyperglycemia in Patients with Diabetes
 
-Advise diabetic patients that some patients receiving progestins may exhibit a decrease in glucose tolerance and hyperglycemia [see Warnings and Precautions (5.12)].
+Advise diabetic patients that some patients receiving progestins may exhibit a decrease in glucose tolerance and hyperglycemia [see Warnings and Precautions (5.13)].
 
 Liver Dysfunction
 
-Advise patients to seek medical advice if they experience symptoms of liver problems such as jaundice [see Warnings and Precautions (5.13)].
+Advise patients to seek medical advice if they experience symptoms of liver problems such as jaundice [see Warnings and Precautions (5.14)].
 
 Fluid Retention
 
-Counsel patients with conditions that may be influenced by fluid retention to inform their healthcare professional if they experience symptoms of fluid retention [see Warnings and Precautions (5.6)].
+Counsel patients with conditions that may be influenced by fluid retention to inform their healthcare professional if they experience symptoms of fluid retention [see Warnings and Precautions (5.7)].
 
 Injection Site Reactions
 
-Counsel patients that injection site reactions including site dimpling, scarring or discoloration may occur [see Warnings and Precautions (5.10)].
+Counsel patients that injection site reactions including site dimpling, scarring or discoloration may occur [see Warnings and Precautions (5.11)].
 
 Sexually Transmitted Infections
 
-Counsel patients that depo-subQ provera 104 does not protect against HIV infection (AIDS) and other sexually transmitted infections [see Warnings and Precautions (5.14)].
+Counsel patients that depo-subQ provera 104 does not protect against HIV infection (AIDS) and other sexually transmitted infections [see Warnings and Precautions (5.15)].
 
 Drug Interactions
 

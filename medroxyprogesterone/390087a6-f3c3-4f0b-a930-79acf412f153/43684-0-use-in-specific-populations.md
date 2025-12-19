@@ -26,7 +26,7 @@ The developmental and health benefits of breast-feeding should be considered alo
 ## 8.3 Females and Males of Reproductive Potential
 
 Depo-subQ provera 104 is indicated for the prevention of pregnancy and would therefore be expected to impair female fertility until cessation of treatment.
-Women may experience a delay in return to ovulation and fertility (conception) following discontinuation of depo-subQ provera 104 [see Warnings and Precautions (5.8)].
+Women may experience a delay in return to ovulation and fertility (conception) following discontinuation of depo-subQ provera 104 [see Warnings and Precautions (5.9)].
 
 ## 8.4 Pediatric Use
 

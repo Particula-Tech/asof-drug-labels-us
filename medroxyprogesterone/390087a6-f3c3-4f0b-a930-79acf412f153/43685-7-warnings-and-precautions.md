@@ -50,20 +50,26 @@ No trends in risk with duration of use or times since initial or most recent exp
 
 Long-term, case-controlled surveillance of users of DMPA-IM found no overall increased risk of ovarian or liver cancer.
 
-## 5.4 Ectopic Pregnancy
+## 5.4 Meningioma
+
+Cases of meningiomas have been reported following repeated administration of medroxyprogesterone acetate, primarily with long term use.
+Monitor patients on depo-subQ provera 104 for signs and symptoms of meningioma.
+Discontinue depo-subQ provera 104 if a meningioma is diagnosed.
+
+## 5.5 Ectopic Pregnancy
 
 Healthcare professionals should be alert to the possibility of an ectopic pregnancy among women using depo-subQ provera 104 who become pregnant or complain of severe abdominal pain.
 
-## 5.5 Anaphylaxis
+## 5.6 Anaphylaxis
 
 Serious anaphylactic reactions have been reported in women using depo-subQ provera 104.
 If an anaphylactic reaction occurs, appropriate emergency medical treatment should be administered.
 
-## 5.6 Fluid Retention
+## 5.7 Fluid Retention
 
 Because progestational drugs including depo-subQ provera 104 may cause fluid retention, monitor patients with conditions that might be affected by fluid retention.
 
-## 5.7 Weight Gain
+## 5.8 Weight Gain
 
 Weight gain is a common occurrence in women using depo-subQ provera 104.
 In three large clinical trials using depo-subQ provera 104, the mean weight gain was 3.5 lb (1.6 kg) in the first year of use.
@@ -72,7 +78,7 @@ In a small, two-year study comparing depo-subQ provera 104 to DMPA-IM, the mean 
 Although there are no data related to weight gain beyond 2 years for depo-subQ provera 104, the data on DMPA-IM may be relevant.
 In a clinical study, after five years, 41 women using Depo-Provera CI (150 mg) had a mean weight gain of 11.2 lb (5.1 kg), while 114 women using non-hormonal contraception had a mean weight gain of 6.4 lb (2.9 kg).
 
-## 5.8 Delayed Return of Ovulation or Fertility
+## 5.9 Delayed Return of Ovulation or Fertility
 
 Return to ovulation is likely to be delayed after stopping depo-subQ provera 104, as demonstrated in a study of 15 women who received multiple doses of depo-subQ provera 104:
 
@@ -87,18 +93,18 @@ Among 28 women using depo-subQ provera 104 for contraception who stopped treatme
 One woman became pregnant within one year of her last injection and another woman became pregnant 443 days after her last injection.
 The remaining 19 women had not become pregnant; it is not known if these 19 women were still attempting to become pregnant or if they had started a new contraceptive method.
 
-## 5.9 Depression
+## 5.10 Depression
 
 Depression (3% of depo-subQ provera 104-treated patients) and other mood disorders have been reported in clinical trials of depo-subQ provera 104 [see Adverse Reactions (6.1)].
 Patients with a history of depression or who are on treatment for depression may be at increased risk for depression recurrence or exacerbation and for associated mood disorders while receiving depo-subQ provera 104.
 Therefore, patients should be monitored for symptoms of depression and mood changes.
 
-## 5.10 Injection Site Reactions
+## 5.11 Injection Site Reactions
 
 In five clinical studies of depo-subQ provera 104 involving 2325 women (282 treated for up to 6 months, 1780 treated for up to 1 year, and 263 women treated for up to 2 years), 5% of women reported injection site reactions (such as pain/tenderness, nodule/lump, lipodystrophy, discoloration), and 1% had persistent atrophy/indentation/dimpling [see Adverse Reactions (6.1)].
 These injection site reactions have also been reported in post-marketing experience.
 
-## 5.11 Bleeding Irregularities
+## 5.12 Bleeding Irregularities
 
 Most women using depo-subQ provera 104 experienced changes in menstrual bleeding patterns, such as amenorrhea, irregular unpredictable spotting or bleeding, prolonged spotting or bleeding, or heavy bleeding [see Adverse Reactions (6.1)].
 Fewer women experienced irregular bleeding and more experienced amenorrhea with longer term use of depo‑subQ provera 104, consistent with expected endometrial thinning effects.
@@ -108,15 +114,15 @@ In two endometriosis trials using depo-subQ provera 104, 24% of 289 women experi
 
 If abnormal bleeding is persistent or severe, evaluate the patient for underlying pathology or pregnancy.
 
-## 5.12 Risk of Hyperglycemia in Patients with Diabetes
+## 5.13 Risk of Hyperglycemia in Patients with Diabetes
 
 Some patients receiving progestins may exhibit a decrease in glucose tolerance; therefore, patients with diabetes may be at greater risk of hyperglycemia.
 
-## 5.13 Jaundice and Elevated Transaminase
+## 5.14 Jaundice and Elevated Transaminase
 
 Discontinue depo-subQ provera 104 if jaundice or elevated transaminase levels develop.
 Depo-subQ provera 104 may be resumed after both the jaundice and elevated transaminase levels resolve, and the healthcare professional determines that depo-subQ provera 104 did not cause the abnormalities.
 
-## 5.14 Protection Against Sexually Transmitted Infections
+## 5.15 Protection Against Sexually Transmitted Infections
 
 Patients should be counseled that this product does not protect against HIV infection (including AIDS) and other sexually transmitted infections.

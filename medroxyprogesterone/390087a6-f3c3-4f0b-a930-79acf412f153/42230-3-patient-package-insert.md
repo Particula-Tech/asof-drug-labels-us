@@ -114,6 +114,7 @@ Most importantly, tell your healthcare professional if you:
 - •Have or have ever had breast cancer, or think you have breast cancer
 - •Have breast cancer in your family
 - •Have an abnormal mammogram (breast X-ray), lumps in your breast, or bleeding from your nipples
+- •Have or have ever had a type of usually benign brain tumor called a meningioma
 - •Have irregular, light, or heavy menstrual periods
 - •Have or had any of the following medical problems:
   - oKidney problems
@@ -218,6 +219,9 @@ Call your healthcare professional immediately if you:
 Depression.
 If you suffer from depression or have a history of depression, inform your healthcare professional if you notice any worsening of your depression while taking depo-subQ provera 104.
 
+Meningioma (a type of usually benign brain tumor).
+Possible increased risk for growth of a meningioma, primarily when the product is used for a long time.
+
 WHAT ARE COMMON SIDE EFFECTS OF depo-subQ provera 104?
 
 The most common side effects are:
@@ -273,4 +277,4 @@ When necessary, the pH is adjusted with sodium hydroxide or hydrochloric acid, o
 This product's labeling may have been updated.
 For the most recent prescribing information, please visit www.pfizer.com.
 
-LAB-0298-11.0 Revised December 2024
+LAB-0298-12.0 Revised December 2025

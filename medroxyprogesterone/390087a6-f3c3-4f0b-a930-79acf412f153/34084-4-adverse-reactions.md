@@ -4,12 +4,12 @@ The following important adverse reactions are described in more detail in other 
 
 - •Loss of bone mineral density [see Warnings and Precautions (5.1)]
 - •Arterial and venous thromboembolic disorders [see Warnings and Precautions (5.2)]
-- •Anaphylaxis [see Warnings and Precautions (5.5)]
-- •Fluid retention [see Warnings and Precautions (5.6)]
-- •Delayed return of ovulation or fertility [see Warnings and Precautions (5.8)]
-- •Depression [see Warnings and Precautions (5.9)]
-- •Injection site reactions [see Warnings and Precautions (5.10)]
-- •Bleeding irregularities [see Warnings and Precautions (5.11)]
+- •Anaphylaxis [see Warnings and Precautions (5.6)]
+- •Fluid retention [see Warnings and Precautions (5.7)]
+- •Delayed return of ovulation or fertility [see Warnings and Precautions (5.9)]
+- •Depression [see Warnings and Precautions (5.10)]
+- •Injection site reactions [see Warnings and Precautions (5.11)]
+- •Bleeding irregularities [see Warnings and Precautions (5.12)]
 
 ## 6.1 Clinical Trials Experience
 
