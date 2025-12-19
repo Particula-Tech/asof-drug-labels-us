@@ -1,0 +1,24 @@
+{
+  "application_numbers": [
+    "NDA018569"
+  ],
+  "inn": "furosemide",
+  "labeler": "Granulation Technology, Inc.",
+  "package_ndcs": [
+    "63561-0164-2",
+    "63561-0164-9",
+    "63561-0165-2",
+    "63561-0165-9",
+    "63561-0166-5",
+    "63561-0166-9"
+  ],
+  "products": [
+    {
+      "form": "TABLET",
+      "generic": "furosemide",
+      "name": "Furosemide"
+    }
+  ],
+  "setid": "462e8917-cbe0-f4f9-e063-6394a90ab4ff",
+  "source": "dailymed"
+}
