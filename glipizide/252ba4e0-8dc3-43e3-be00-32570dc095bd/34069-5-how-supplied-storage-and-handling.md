@@ -14,6 +14,8 @@ KEEP THIS AND ALL MEDICATIONS OUT OF THE REACH OF CHILDREN.
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of ANI Pharmaceuticals, Inc.
 
+Manufactured by: Esjay Pharma Private Limited, Sipcot Industrial Park, Kanchipuram, Tamilnadu, India – 602117
+
 Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-Issued: 04/2025 LB4530-01
+P3381/00/25 Issued: 07/2025
