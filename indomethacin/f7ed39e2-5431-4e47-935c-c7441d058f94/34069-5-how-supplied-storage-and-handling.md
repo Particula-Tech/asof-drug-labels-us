@@ -7,7 +7,7 @@ They are available as follows:
 
 Bottles of 100 capsules ‒ NDC 68462-406-01
 
-Bottles of 1000 capsules ‒ NDC 68462-406-10
+Bottles of 1,000 capsules ‒ NDC 68462-406-10
 
 The 50 mg capsule is a size ‘1’ two piece opaque green hard gelatin capsule imprinted with ‘G302’ on the body and ‘G’ on the cap, filled with white to off-white granular powder.
 They are available as follows:
