@@ -2,7 +2,9 @@
 
 ## 2.1 Important Administration Instructions
 
-Mycophenolate Mofetil Capsules, Tablets and Oral Suspension Mycophenolate mofetil should not be used without the supervision of a physician with experience in immunosuppressive therapy.
+Mycophenolate mofetil should not be used without the supervision of a physician with experience in immunosuppressive therapy.
+
+Mycophenolate Mofetil Capsules, Tablets and Oral Suspension
 
 Mycophenolate mofetil oral dosage forms (capsules, tablets or oral suspension) should not be used interchangeably with mycophenolic acid delayed-release tablets without supervision of a physician with experience in immunosuppressive therapy because the rates of absorption following the administration of mycophenolate mofetil oral dosage forms and mycophenolic acid delayed-release tablets are not equivalent.
 

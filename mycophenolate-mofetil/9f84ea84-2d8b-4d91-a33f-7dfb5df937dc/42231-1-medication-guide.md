@@ -278,7 +278,7 @@ Mycophenolate mofetil 500 mg tablets: croscarmellose sodium, povidone (K-90), is
 
 All trademarks in this document are the property of their respective owners.
 
-For more information call at Ascend Laboratories, LLC at 1-877-ASC-RX01 (877-272-7901)
+For more information call at Ascend Laboratories, LLC at 1-877-272-7901
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
@@ -286,18 +286,9 @@ For Medication Guide, please visit:
 
 http://www.ascendlaboratories.com/mg/mycomofetil.pdf
 
-Manufactured by:
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
 
-Alkem Laboratories Ltd.,
+Revised: March 2025
 
-Mumbai - 400 013, INDIA.
-
-Distributed by:
-
-Ascend Laboratories, LLC
-
-Parsippany, NJ 07054
-
-Revised: May 2024
-
-PT 2075-13
+PT 2075-14
