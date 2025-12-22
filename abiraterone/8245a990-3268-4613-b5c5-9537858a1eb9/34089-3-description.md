@@ -1,12 +1,12 @@
 # 11 DESCRIPTION
 
-AKEEGA ®(niraparib and abiraterone acetate) tablets contain niraparib tosylate (as the monohydrate) and abiraterone acetate.
+AKEEGA ® (niraparib and abiraterone acetate) tablets contain niraparib tosylate (as the monohydrate) and abiraterone acetate.
 
 Niraparib
 
 Niraparib is a poly (ADP-ribose) polymerase (PARP) inhibitor.
 The chemical name for niraparib tosylate monohydrate is 2-{4-[(3S)-piperidin-3-yl]phenyl}- 2H-indazole 7-carboxamide 4-methylbenzenesulfonate hydrate (1:1:1).
-The molecular formula is C 26H 30N 4O 5S and it has a molecular weight of 510.61 g/mol.
+The molecular formula is C 26 H 30 N 4 O 5 S and it has a molecular weight of 510.61 g/mol.
 The molecular structure is shown below:
 
 Niraparib tosylate monohydrate is a white to off-white, non-hygroscopic crystalline solid.
@@ -16,7 +16,7 @@ Abiraterone Acetate
 
 Abiraterone acetate is the acetyl ester of abiraterone.
 Abiraterone is an inhibitor of CYP17 (17α-hydroxylase/C17,20-lyase).
-Its molecular formula is C 26H 33NO 2and it has a molecular weight of 391.55 g/mol.
+Its molecular formula is C 26 H 33 N O 2 and it has a molecular weight of 391.55 g/mol.
 Abiraterone acetate is designated chemically as (3β)-17-(3-pyridinyl) androsta-5,16-dien-3-yl acetate and its structure is:
 
 Abiraterone acetate is a white to off-white, non-hygroscopic, crystalline powder.

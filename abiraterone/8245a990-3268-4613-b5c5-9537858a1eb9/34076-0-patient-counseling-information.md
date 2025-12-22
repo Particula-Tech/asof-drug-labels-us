@@ -41,13 +41,13 @@ Dosage and Administration
 - Inform patients that in the event of a missed daily dose of AKEEGA, they should take their normal dose as soon as possible on the same day and resume their next dose at the normal schedule on the following day.
   The patient should not take extra tablets to make up the missed dose [see Dosage and Administration (2.2)].
 - Instruct patients to take AKEEGA tablets as a single dose once daily on an empty stomach.
-  Instruct patients to not eat food 2 hours before and 1 hour after taking AKEEGA.
+  Instruct patients to take AKEEGA on an empty stomach at least one hour before or two hours after food.
   AKEEGA taken with food causes increased exposure and may result in adverse reactions.
   Instruct patients to swallow tablets whole with water and not to break, crush, or chew the tablets [see Dosage and Administration (2.2)].
 
 Embryo-Fetal Toxicity
 
-- Inform patients that AKEEGA may harm a developing fetus and can cause loss of pregnancy [see Warnings & Precautions (5.9)and Use in Specific Populations (8.1)].
+- Inform patients that AKEEGA may harm a developing fetus and can cause loss of pregnancy [see Warnings and Precautions (5.9)and Use in Specific Populations (8.1)].
 - Advise males with female partners of reproductive potential to use effective contraception during treatment and for 4 months after the last dose of AKEEGA [see Use in Specific Populations (8.3)].
 - Advise females who are pregnant or may become pregnant to handle AKEEGA tablets with protection, e.g., gloves [see Use in Specific Populations (8.1)and How Supplied/Storage and Handling (16)].
 

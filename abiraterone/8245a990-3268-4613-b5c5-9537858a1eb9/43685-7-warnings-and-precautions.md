@@ -4,9 +4,9 @@
 
 AKEEGA may cause myelodysplastic syndrome/acute myeloid leukemia (MDS/AML).
 
-MDS/AML, including cases with fatal outcome, has been observed in patients treated with niraparib, a component of AKEEGA.
+In the individual AMPLITUDE and MAGNITUDE studies, MDS or AML, including cases with fatal outcomes, were reported in 0.6% (2/347) and 0.5% (1/212) of patients treated with AKEEGA plus prednisone, respectively.
 
-All patients treated with niraparib who developed secondary MDS/cancer-therapy-related AML had received previous chemotherapy with platinum agents and/or other DNA-damaging agents, including radiotherapy.
+All patients in other tumor types treated with niraparib, a component of AKEEGA, who developed secondary MDS/cancer-therapy-related AML had received previous chemotherapy with platinum agents and/or other DNA-damaging agents, including radiotherapy.
 
 For suspected MDS/AML or prolonged hematological toxicities, refer the patient to a hematologist for further evaluation.
 Discontinue AKEEGA if MDS/AML is confirmed.
@@ -15,8 +15,12 @@ Discontinue AKEEGA if MDS/AML is confirmed.
 
 AKEEGA may cause myelosuppression (anemia, thrombocytopenia, or neutropenia).
 
+In AMPLITUDE, Grade 3–4 anemia, neutropenia, and thrombocytopenia were reported, respectively in 29%, 10%, and 4.9% of patients receiving AKEEGA.
+Overall, 25% of patients with anemia required a red blood cell transfusion, including 15% who required more than one transfusion.
+Discontinuation due to anemia occurred in 1.2% of patients.
+
 In MAGNITUDE Cohort 1, Grade 3–4 anemia, thrombocytopenia, and neutropenia were reported, respectively in 28%, 8%, and 7% of patients receiving AKEEGA.
-Overall, 27% of patients required a red blood cell transfusion, including 11% who required multiple transfusions.
+Overall, 27% of patients with anemia required a red blood cell transfusion, including 19.5% who required more than one transfusion.
 Discontinuation due to anemia occurred in 3% of patients.
 
 Monitor complete blood counts weekly during the first month of AKEEGA treatment, every two weeks for the next two months, monthly for the remainder of the first year and then every other month, and as clinically indicated.
@@ -29,15 +33,16 @@ AKEEGA may cause hypokalemia and fluid retention as a consequence of increased m
 In post-marketing experience, QT prolongation and Torsades de Pointes have been observed in patients who develop hypokalemia while taking abiraterone acetate, a component of AKEEGA.
 Hypertension and hypertensive crisis have also been reported in patients treated with niraparib, a component of AKEEGA.
 
-In MAGNITUDE Cohort 1, which used prednisone 10 mg daily in combination with AKEEGA, Grades 3–4 hypokalemia was detected in 2.7% of patients on the AKEEGA arm and Grades 3–4 hypertension were observed in 14% of patients on the AKEEGA arm.
+In AMPLITUDE, which used prednisone 5 mg daily in combination with AKEEGA, Grades 3–4 hypokalemia was detected in 9% of patients on the AKEEGA arm, and Grades 3–4 hypertension was observed in 30% of patients on the AKEEGA arm.
 
-The safety of AKEEGA in patients with New York Heart Association (NYHA) Class II to IV heart failure has not been established because these patients were excluded from MAGNITUDE.
+In MAGNITUDE Cohort 1, which used prednisone 10 mg daily in combination with AKEEGA, Grade 3–4 hypokalemia was detected in 2.7% of patients on the AKEEGA arm and Grade 3–4 hypertension was observed in 14% of patients on the AKEEGA arm.
 
 Monitor patients for hypertension, hypokalemia, and fluid retention at least weekly for the first two months, then once a month.
 Closely monitor patients whose underlying medical conditions might be compromised by increases in blood pressure, hypokalemia, or fluid retention, such as those with heart failure, recent myocardial infarction, cardiovascular disease, or ventricular arrhythmia.
 Control hypertension and correct hypokalemia before and during treatment with AKEEGA.
-
 Discontinue AKEEGA in patients who develop hypertensive crisis or other severe cardiovascular adverse reactions.
+
+The safety of AKEEGA in patients with New York Heart Association (NYHA) Class II to IV heart failure has not been established because these patients were excluded from AMPLITUDE and MAGNITUDE.
 
 ## 5.4 Hepatotoxicity
 
@@ -46,8 +51,11 @@ AKEEGA may cause hepatotoxicity.
 Hepatotoxicity in patients receiving abiraterone acetate, a component of AKEEGA, has been reported in clinical trials.
 In post-marketing experience, there have been abiraterone acetate-associated severe hepatic toxicity, including fulminant hepatitis, acute liver failure, and deaths.
 
-In MAGNITUDE Cohort 1, Grade 3–4 ALT or AST increases (at least 5 × ULN) were reported in 1.8% of patients.
-The safety of AKEEGA in patients with moderate or severe hepatic impairment has not been established as these patients were excluded from MAGNITUDE.
+In AMPLITUDE, Grade 3–4 ALT or AST increases (at least 5 × ULN) were reported in 1.9% and 1.3% of patients, respectively.
+
+In MAGNITUDE Cohort 1, Grade 3–4 ALT or AST increases (at least 5 × ULN) were reported in 1.8% and 0.9% of patients, respectively.
+
+The safety of AKEEGA in patients with moderate or severe hepatic impairment has not been established as these patients were excluded from AMPLITUDE and MAGNITUDE.
 
 Measure serum transaminases (ALT and AST) and bilirubin levels prior to starting treatment with AKEEGA, every two weeks for the first three months of treatment and monthly thereafter.
 Promptly measure serum total bilirubin, AST, and ALT if clinical symptoms or signs suggestive of hepatotoxicity develop.

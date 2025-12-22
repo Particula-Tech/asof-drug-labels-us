@@ -6,7 +6,7 @@ Niraparib
 
 Carcinogenicity studies have not been conducted with niraparib.
 
-Niraparib was clastogenic in an in vitromammalian chromosomal aberration assay and in an in vivorat bone marrow micronucleus assay.
+Niraparib was clastogenic in an in vitro mammalian chromosomal aberration assay and in an in vivo rat bone marrow micronucleus assay.
 This clastogenicity is consistent with genomic instability resulting from the primary pharmacology of niraparib and indicates potential for genotoxicity in humans.
 Niraparib was not mutagenic in a bacterial reverse mutation assay (Ames) test.
 
@@ -25,7 +25,7 @@ Rats are regarded as more sensitive than humans to developing interstitial cell 
 Abiraterone acetate was not carcinogenic in female rats at exposure levels up to 0.8 times the human clinical exposure (1,000 mg daily) based on AUC.
 Abiraterone acetate was not carcinogenic in a 6-month study in the transgenic (Tg.rasH2) mouse.
 
-Abiraterone acetate and abiraterone were not mutagenic in an in vitromicrobial mutagenesis (Ames) assay or clastogenic in an in vitrocytogenetic assay using primary human lymphocytes or an in vivorat micronucleus assay.
+Abiraterone acetate and abiraterone were not mutagenic in an in vitro microbial mutagenesis (Ames) assay or clastogenic in an in vitro cytogenetic assay using primary human lymphocytes or an in vivo rat micronucleus assay.
 
 In repeat-dose toxicity studies in male rats (13- and 26-weeks) and monkeys (39-weeks), atrophy, aspermia/hypospermia, and hyperplasia in the reproductive system were observed at ≥50 mg/kg/day in rats and ≥250 mg/kg/day in monkeys and were consistent with the antiandrogenic pharmacological activity of abiraterone.
 These effects were observed in rats at systemic exposures similar to humans and in monkeys at exposures approximately 0.6 times the AUC in humans at 1,000 mg daily.
@@ -48,13 +48,13 @@ The changes in the reproductive organs are consistent with the antiandrogenic ph
 
 Niraparib
 
-In vitro, niraparib bound to DAT, NET, and SERT and inhibited uptake of norepinephrine and dopamine in cells with IC 50values that were lower than the C minat steady-state in patients receiving the 200 mg dose.
+In vitro, niraparib bound to DAT, NET, and SERT and inhibited uptake of norepinephrine and dopamine in cells with IC 50 values that were lower than the C min at steady-state in patients receiving the 200 mg dose.
 Niraparib has the potential to cause effects in patients related to inhibition of these transporters (e.g., cardiovascular, central nervous system).
 Intravenous administration of niraparib to vagotomized dogs over 30 minutes at 1, 3, and 10 mg/kg resulted in an increased range of arterial pressures of 13% to 20%, 18% to 27%, and 19% to 25%, respectively, and increased range of heart rates of 2% to 11%, 4% to 17%, and 12% to 21%, respectively, above pre-dose levels.
-The unbound plasma concentrations of niraparib in dogs at these dose levels were approximately 1.2, 3.9, and 15.5 times the unbound C maxat steady state in patients receiving the 200 mg dose.
+The unbound plasma concentrations of niraparib in dogs at these dose levels were approximately 1.2, 3.9, and 15.5 times the unbound C max at steady state in patients receiving the 200 mg dose.
 
 In addition, niraparib crossed the blood-brain barrier in rats and monkeys following oral administration.
-The cerebrospinal fluid plasma C maxratios of niraparib administered at 10 mg/kg orally to two rhesus monkeys were 0.10 and 0.52.
+The cerebrospinal fluid plasma C max ratios of niraparib administered at 10 mg/kg orally to two rhesus monkeys were 0.10 and 0.52.
 
 Abiraterone Acetate
 

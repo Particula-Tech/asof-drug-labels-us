@@ -3,11 +3,11 @@
 ## 12.1 Mechanism of Action
 
 Niraparib is an inhibitor of PARP enzymes, including PARP-1 and PARP-2, that play a role in DNA repair.
-In vitrostudies have shown that niraparib-induced cytotoxicity may involve inhibition of PARP enzymatic activity and increased formation of PARP-DNA complexes resulting in DNA damage, apoptosis, and cell death.
+In vitro studies have shown that niraparib-induced cytotoxicity may involve inhibition of PARP enzymatic activity and increased formation of PARP-DNA complexes resulting in DNA damage, apoptosis, and cell death.
 Increased niraparib‑induced cytotoxicity was observed in tumor cell lines with or without deficiencies in BRCA1/2.
-Niraparib decreased tumor growth in mouse xenograft models of human cancer cell lines with deficiencies in BRCA1/2and in human patient‑derived xenograft tumor models with homologous recombination deficiency (HRD) that had either mutated or wild-type BRCA1/2.
+Niraparib decreased tumor growth in mouse xenograft models of human cancer cell lines with deficiencies in BRCA1/2 and in human patient‑derived xenograft tumor models with homologous recombination deficiency (HRD) that had either mutated or wild-type BRCA1/2.
 
-Abiraterone acetate is converted in vivoto abiraterone, an androgen biosynthesis inhibitor, that inhibits 17 α-hydroxylase/C17,20-lyase (CYP17).
+Abiraterone acetate is converted in vivo to abiraterone, an androgen biosynthesis inhibitor, that inhibits 17 α-hydroxylase/C17,20-lyase (CYP17).
 This enzyme is expressed in testicular, adrenal, and prostatic tumor tissues and is required for androgen biosynthesis.
 
 CYP17 catalyzes two sequential reactions: 1) the conversion of pregnenolone and progesterone to their 17α-hydroxy derivatives by 17α-hydroxylase activity and 2) the subsequent formation of dehydroepiandrosterone (DHEA) and androstenedione, respectively, by C17, 20 lyase activity.
@@ -42,15 +42,15 @@ No large (>20 ms) increases in the mean QTc interval were detected following the
 
 Niraparib
 
-Following the administration of AKEEGA, the mean (coefficient of variation [CV%]) C max,sswas 831 ng/mL (32%) and AUC 0–24h,sswas 13,616 ng∙h/mL (36%).
-The accumulation ratio following daily administration of AKEEGA was 3.5-, and 2.6-fold for niraparib AUC 0–24hand C max.
+Following the administration of AKEEGA, the mean (coefficient of variation [CV%]) C max, ss was 831 ng/mL (32%) and AUC 0–24h, ss was 13,616 ng∙h/mL (36%).
+The accumulation ratio following daily administration of AKEEGA was 3.5-, and 2.6-fold for niraparib AUC 0–24h and C max.
 
-Niraparib exhibits dose proportional increase in C maxand AUC in the dose range of 30 mg (0.15 times the recommended dosage) to 400 mg (2 times the recommended dosage).
+Niraparib exhibits dose proportional increase in C max and AUC in the dose range of 30 mg (0.15 times the recommended dosage) to 400 mg (2 times the recommended dosage).
 
 Abiraterone Acetate
 
-Following the administration of AKEEGA, the mean (CV%) C max,sswas 151 ng/mL (59%) and AUC 0–24h,sswas 707 ng∙h/mL (59%) for abiraterone.
-The accumulation ratio following daily administration of AKEEGA was 2-, and 1.8-fold for abiraterone AUC 0–24hand C max.
+Following the administration of AKEEGA, the mean (CV%) C max,ss was 151 ng/mL (59%) and AUC 0–24h,ss was 707 ng∙h/mL (59%) for abiraterone.
+The accumulation ratio following daily administration of AKEEGA was 2-, and 1.8-fold for abiraterone AUC 0–24h and C max.
 
 No major deviation from dose proportionality was observed for abiraterone acetate in the dose range of 250 mg (0.25 times the recommended dosage) to 1,000 mg (the recommended dosage).
 
@@ -58,12 +58,12 @@ Absorption
 
 Niraparib
 
-The median T maxwas 3 hours after dosing.
+The median T max was 3 hours after dosing.
 The absolute bioavailability of niraparib is approximately 73%.
 
 Abiraterone Acetate
 
-The median T maxof abiraterone was 1.5 hours after dosing.
+The median T max of abiraterone was 1.5 hours after dosing.
 
 Administration of abiraterone acetate with food, compared with administration in a fasted state, results in up to a 10-fold (AUC) and up to a 17-fold (C max) increase in mean systemic exposure of abiraterone, depending on the fat content of the meal.
 Given the normal variation in the content and composition of meals, taking abiraterone acetate with meals has the potential to result in increased and highly variable exposures.
@@ -82,11 +82,11 @@ Elimination
 
 Niraparib
 
-The mean t ½of niraparib when given in combination was approximately 62 hours (CV%: 42%) and apparent CL/F was 16.7 L/h (CV%: 27%).
+The mean t ½ of niraparib when given in combination was approximately 62 hours (CV%: 42%) and apparent CL/F was 16.7 L/h (CV%: 27%).
 
 Abiraterone Acetate
 
-The mean t ½of abiraterone when given in combination was approximately 20 hours (CV%: 7.8%) and apparent CL/F was 1673 L/h (CV%: 24%).
+The mean t ½ of abiraterone when given in combination was approximately 20 hours (CV%: 7.8%) and apparent CL/F was 1673 L/h (CV%: 24%).
 
 Metabolism
 
@@ -96,7 +96,7 @@ Niraparib is metabolized by carboxylesterases.
 
 Abiraterone Acetate
 
-Abiraterone acetate is rapidly converted in vivoto abiraterone.
+Abiraterone acetate is rapidly converted in vivo to abiraterone.
 CYP3A4 and SULT2A1 are the enzymes involved in the metabolism of abiraterone.
 
 Excretion
@@ -135,29 +135,29 @@ Niraparib
 
 In Vitro Studies
 
-- Inhibition of Cytochrome P450(CYP) Enzymes:Niraparib is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4.
+- Inhibition of Cytochrome P450 (CYP) Enzymes: Niraparib is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4.
 - Induction of CYP Enzymes:Niraparib is not a CYP3A4 inducer.
   Niraparib induces CYP1A2 in vitro.
-- Inhibition of Uridine 5'-Diphospho-Glucuronosyltransferases (UGTs):Niraparib did not inhibit UGT1A1, UGT1A4, UGT1A9, and UGT2B7.
-- Inhibition of Transporter Systems:Niraparib inhibits BCRP, but does not inhibit P-gp, BSEP, or MRP2.
+- Inhibition of Uridine 5'-Diphospho-Glucuronosyltransferases (UGTs): Niraparib did not inhibit UGT1A1, UGT1A4, UGT1A9, and UGT2B7.
+- Inhibition of Transporter Systems: Niraparib inhibits BCRP, but does not inhibit P-gp, BSEP, or MRP2.
   Niraparib inhibits MATE 1 and 2.
-- Substrate of Transporter Systems:Niraparib is a substrate of P-gp and BCRP.
+- Substrate of Transporter Systems: Niraparib is a substrate of P-gp and BCRP.
   Niraparib is not a substrate of BSEP, MRP2, or MATE1 or 2.
 
 Abiraterone Acetate
 
 Clinical Studies
 
-- Effect of Strong CYP3A4 Inducers on Abiraterone:Coadministration of rifampin (strong CYP3A4 inhibitor) decreased abiraterone mean AUC by 55%.
-- Effect of Strong CYP3A4 Inhibitors on Abiraterone:Coadministration of ketoconazole (strong CYP3A4 inhibitor) had no clinically meaningful effect on the pharmacokinetics of abiraterone.
-- Effect of Abiraterone Acetate on CYP2D6 Substrates:The C maxand AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively when dextromethorphan 30 mg was given with abiraterone acetate 1,000 mg daily (plus prednisone).
+- Effect of Strong CYP3A4 Inducers on Abiraterone: Coadministration of rifampin (strong CYP3A4 inhibitor) decreased abiraterone mean AUC by 55%.
+- Effect of Strong CYP3A4 Inhibitors on Abiraterone: Coadministration of ketoconazole (strong CYP3A4 inhibitor) had no clinically meaningful effect on the pharmacokinetics of abiraterone.
+- Effect of Abiraterone Acetate on CYP2D6 Substrates: The C max and AUC of dextromethorphan (CYP2D6 substrate) were increased 2.8- and 2.9-fold, respectively when dextromethorphan 30 mg was given with abiraterone acetate 1,000 mg daily (plus prednisone).
   The AUC for dextrorphan, the active metabolite of dextromethorphan, increased approximately 1.3-fold.
-- Effect of Abiraterone Acetate on CYP1A2 Substrates:When abiraterone acetate (plus prednisone) was given with a single dose of 100 mg theophylline (CYP1A2 substrate), no increase in systemic exposure of theophylline was observed.
-- Effect of Abiraterone Acetate on CYP2C8 Substrates:The AUC of pioglitazone (CYP2C8 substrate) was increased by 46% when pioglitazone was given to healthy subjects with a single dose of abiraterone acetate.
+- Effect of Abiraterone Acetate on CYP1A2 Substrates: When abiraterone acetate (plus prednisone) was given with a single dose of 100 mg theophylline (CYP1A2 substrate), no increase in systemic exposure of theophylline was observed.
+- Effect of Abiraterone Acetate on CYP2C8 Substrates: The AUC of pioglitazone (CYP2C8 substrate) was increased by 46% when pioglitazone was given to healthy subjects with a single dose of abiraterone acetate.
 
 In vitro Studies
 
-- Cytochrome P450 (CYP) Enzymes:Abiraterone is a substrate of CYP3A4 and has the potential to inhibit CYP1A2, CYP2D6, CYP2C8 and to a lesser extent CYP2C9, CYP2C19 and CYP3A4/5.
-- Transporter Systems:Abiraterone acetate and abiraterone are not substrates of P-gp.
+- Cytochrome P450 (CYP) Enzymes: Abiraterone is a substrate of CYP3A4 and has the potential to inhibit CYP1A2, CYP2D6, CYP2C8 and to a lesser extent CYP2C9, CYP2C19 and CYP3A4/5.
+- Transporter Systems: Abiraterone acetate and abiraterone are not substrates of P-gp.
   Abiraterone acetate is an inhibitor of P-gp.
   Abiraterone and its major metabolites were inhibitors of OATP1B1.

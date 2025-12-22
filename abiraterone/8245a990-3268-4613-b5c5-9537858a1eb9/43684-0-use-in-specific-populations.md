@@ -55,9 +55,13 @@ Safety and effectiveness of AKEEGA in pediatric patients have not been establish
 
 ## 8.5 Geriatric Use
 
+Of the 162 patients with BRCA2gene alteration(s) who received AKEEGA in AMPLITUDE, 40% of patients were less than 65 years, 36% of patients were 65 years to 74 years, and 23% were 75 years and over.
+
 Of the 113 patients with BRCAgene alteration(s) who received AKEEGA in MAGNITUDE, 34.5% of patients were less than 65 years, 38.9% of patients were 65 years to 74 years, and 26.5% were 75 years and over.
 
-There was an insufficient number of patients with BRCAgene alteration(s) treated with AKEEGA in MAGNITUDE to accurately characterize efficacy or safety by age.
+No overall differences in effectiveness were observed between patients 65 years of age or older and younger patients in AMPLITUDE or MAGNITUDE.
+Patients 75 years of age or older who received AKEEGA experienced a higher incidence of fatal adverse reactions than younger patients.
+The incidence of fatal adverse reactions was 4.3% in patients younger than 75 and 13% in patients 75 or older.
 
 ## 8.6 Hepatic Impairment
 

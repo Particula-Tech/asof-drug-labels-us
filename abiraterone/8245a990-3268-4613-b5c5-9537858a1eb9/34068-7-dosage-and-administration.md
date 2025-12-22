@@ -2,17 +2,25 @@
 
 ## 2.1 Patient Selection
 
-Select patients for the treatment of mCRPC with AKEEGA based on the presence of a BRCAgene alteration [see Clinical Studies (14)].
+Select patients for the treatment of mCSPC with AKEEGA based on the presence of a BRCA2 gene alteration [see Clinical Studies (14.1)].
+
+Select patients for the treatment of mCRPC with AKEEGA based on the presence of a BRCA gene alteration [see Clinical Studies (14.2)].
 
 Information on FDA-approved tests is available at: http://www.fda.gov/CompanionDiagnostics.
 
 ## 2.2 Recommended Dosage
 
-The recommended dosage of AKEEGA is 200 mg niraparib/1,000 mg abiraterone acetate orally once daily in combination with 10 mg prednisone daily until disease progression or unacceptable toxicity.
+BRCA2-mutated (BRCA2m) Metastatic Castration-Sensitive Prostate Cancer (mCSPC)
+
+- The recommended dosage of AKEEGA is 200 mg niraparib/1,000 mg abiraterone acetate orally once daily in combination with 5 mg prednisone once daily until disease progression or unacceptable toxicity.
+
+BRCA-mutated (BRCAm) Metastatic Castration-Resistant Prostate Cancer (mCRPC)
+
+- The recommended dosage of AKEEGA is 200 mg niraparib/1,000 mg abiraterone acetate orally once daily in combination with 10 mg prednisone once daily until disease progression or unacceptable toxicity.
 
 Patients receiving AKEEGA should also receive a gonadotropin-releasing hormone (GnRH) analog concurrently or should have had bilateral orchiectomy.
-Take AKEEGA on an empty stomach.
-Do not eat food two hours before and one hour after taking AKEEGA.
+
+Take AKEEGA on an empty stomach at least one hour before or two hours after food.
 Swallow tablets whole with water.
 Do not break, crush, or chew tablets.
 
