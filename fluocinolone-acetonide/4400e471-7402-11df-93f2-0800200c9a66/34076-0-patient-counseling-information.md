@@ -11,7 +11,7 @@ Advise patients that if the eye becomes red, sensitive to light, painful, or dev
 Driving and Using Machines Inform patients that they may experience temporary blurred vision after injection of the implant.
 Advise patients not to drive or use machines until this has been resolved.
 
-Manufactured for: Alimera Sciences, Inc. 6310 Town Square, Suite 400 Alpharetta, GA 30005
+Manufactured for: Alimera Sciences, Inc. Baudette, MN 56623
 
 Patented.
 
