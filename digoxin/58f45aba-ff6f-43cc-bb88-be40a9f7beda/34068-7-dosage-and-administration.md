@@ -24,8 +24,7 @@ Discard unused portion of digoxin injection.
 
 ## 2.2 Loading Dosing Regimen in Adults and Pediatric Patients
 
-Table 1.
-Recommended Digoxin Injection Loading Dose
+Table 1: Recommended Digoxin Injection Loading Dose
 
 | Age | Total IV Loading Dose (mcg/kg) Administer half the total loading dose initially, then ¼ the loading dose every 6 to 8 hours twice |
 | --- | --- |
@@ -44,8 +43,7 @@ The maintenance dose is based on lean body weight, renal function, age, and conc
 The recommended starting maintenance doses in adults and pediatric patients over 10 years old with normal renal function are given in Table 2.
 Doses may be increased every 2 weeks according to clinical response, serum drug levels, and toxicity.
 
-Table 2.
-Recommended Starting Digoxin Injection Maintenance Dosage in Adults and Pediatric Patients Over 10 Years Old
+Table 2: Recommended Starting Digoxin Injection Maintenance Dosage in Adults and Pediatric Patients Over 10 Years Old
 
 | Age | Total Intravenous Maintenance Dose, mcg/kg/day (given once daily) |
 | --- | --- |
@@ -62,8 +60,7 @@ Total Maintenance Dose = Loading Dose (i.e., Peak Body Stores) x % Daily Loss/10
 
 Reduce the dose of digoxin injection in patients whose lean weight is an abnormally small fraction of their total body mass because of obesity or edema.
 
-Table 3.
-Recommended Maintenance Dose (in micrograms given once daily) of Digoxin Injection in Pediatric Patients over 10 Years Old and Adults by Lean Body Weight and by Renal Function
+Table 3: Recommended Maintenance Dose (in micrograms given once daily) of Digoxin Injection in Pediatric Patients over 10 Years Old and Adults by Lean Body Weight and by Renal Function
 
 | kg | 40 | 50 | 60 | 70 | 80 | 90 | 100 |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -85,8 +82,7 @@ The starting maintenance dose for heart failure in pediatric patients less than 
 The recommended starting maintenance doses for pediatric patients are given in Table 4.
 These recommendations assume the presence of normal renal function.
 
-Table 4.
-Recommended Starting Digoxin Injection Maintenance Dosage in Pediatric Patients Less Than 10 Years Old
+Table 4: Recommended Starting Digoxin Injection Maintenance Dosage in Pediatric Patients Less Than 10 Years Old
 
 | Age | Dose Regimen, mcg/kg/dose (given TWICE daily) |
 | --- | --- |
@@ -99,8 +95,7 @@ Recommended Starting Digoxin Injection Maintenance Dosage in Pediatric Patients 
 
 Table 5 provides average daily maintenance dose requirements for pediatric patients less than 10 years old (to be given twice daily) with heart failure based on age, lean body weight, and renal function.
 
-Table 5.
-Recommended Maintenance Dose (in micrograms given TWICE daily) of Digoxin Injection in Pediatric Patients Less Than 10 Years of AgeRecommended are doses to be given twice daily.
+Table 5: Recommended Maintenance Dose (in micrograms given TWICE daily) of Digoxin Injection in Pediatric Patients Less Than 10 Years of AgeRecommended are doses to be given twice daily.
 Based upon Lean Body Weight and Renal Function
 
 | Corrected Creatinine ClearanceThe modified Schwartz equation may be used to estimate creatinine clearance. See footnote * under Table 3. | kg | 5 | 10 | 20 | 30 | 40 | 50 | 60 | Number of Days Before Steady State AchievedIf no loading dose administered. |
@@ -136,8 +131,7 @@ However, there will be only minor differences in digoxin concentrations using tw
 
 When switching from intravenous to oral digoxin formulations, make allowances for differences in bioavailability when calculating maintenance dosages (see Table 6).
 
-Table 6.
-Comparison of the Systemic Availability and Equivalent Doses of Oral and Intravenous Digoxin
+Table 6: Comparison of the Systemic Availability and Equivalent Doses of Oral and Intravenous Digoxin
 
 |  | Absolute Bioavailability | Equivalent Doses (mcg) |  |  |  |
 | --- | --- | --- | --- | --- | --- |
