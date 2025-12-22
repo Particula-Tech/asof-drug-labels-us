@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA074028"
+  ],
+  "inn": "amantadine",
+  "labeler": "Chartwell Governmental & Specialty RX, LLC.",
+  "package_ndcs": [
+    "68999-011-24",
+    "68999-011-59"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "amantadine hydrochloride",
+      "name": "Amantadine Hydrochloride"
+    }
+  ],
+  "setid": "3c448cb3-7996-4a83-a9ad-23a00a431fbe",
+  "source": "dailymed"
+}
