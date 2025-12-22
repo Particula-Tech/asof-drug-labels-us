@@ -8,7 +8,7 @@ Isoproterenol hydrochloride, USP is a racemic compound.
 
 | Each milliliter of the sterile solution contains: |  |
 | --- | --- |
-| Isoproterenol hydrochloride, USP (equivalent to Isoproterenol 0.17 mg) | 0.2 mg |
+| Isoproterenolhydrochloride,USP (equivalent to Isoproterenol 0.17 mg) | 0.2 mg |
 | Edetate Disodium (EDTA) | 0.2 mg |
 | Sodium Citrate Dihydrate | 2.07 mg |
 | Citric Acid, Anhydrous | 2.5 mg |

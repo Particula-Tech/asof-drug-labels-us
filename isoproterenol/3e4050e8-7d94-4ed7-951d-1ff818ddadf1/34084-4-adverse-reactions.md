@@ -7,6 +7,6 @@ Nervous system disorders: Nervousness, headache, dizziness, visual blurring
 
 Cardiovascular: Tachycardia, tachyarrhythmias, palpitations, angina, ventricular arrhythmias, Adams-Stokes attacks, pulmonary edema
 
-Respiratory: Dyspnea
+Respiratory:Dyspnea
 
 Other: Flushing of the skin, sweating, mild tremors, pallor, nausea
