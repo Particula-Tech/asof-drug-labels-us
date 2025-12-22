@@ -123,7 +123,7 @@ NEXIUM can cause serious side effects, including:
 - •Low vitamin B-12 levels in your body can happen in people who have taken NEXIUM for a long time (more than 3 years).
   Tell your doctor if you have symptoms of low vitamin B-12 levels, including shortness of breath, lightheadedness, irregular heartbeat, muscle weakness, pale skin, feeling tired, mood changes, and tingling or numbness in the arms and legs.
 - •Low magnesium levels in your body can happen in people who have taken NEXIUM for at least 3 months.
-- Tell your doctor right away if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
+  Tell your doctor right away if you have symptoms of low magnesium levels, including seizures, dizziness, irregular heartbeat, jitteriness, muscle aches or weakness, and spasms of hands, feet or voice.
 - •Stomach growths (fundic gland polyps).
   People who take PPI medicines for a long time have an increased risk of developing a certain type of stomach growths called fundic gland polyps, especially after taking PPI medicines for more than 1 year.
 - •Severe skin reactions.
