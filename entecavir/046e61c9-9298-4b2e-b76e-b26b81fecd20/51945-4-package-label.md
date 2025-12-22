@@ -2,7 +2,11 @@
 
 See HOW SUPPLIED section for a complete list of available packages of BARACLUDE.
 
-30 Tablets NDC 0003-1611-12 Baraclude® (entecavir) Tablets 0.5 mg Bristol-Myers Squibb Rx only
+30 Tablets NDC 0003-1611-12 Baraclude® (entecavir) Tablets 0.5 mg
+
+Bristol-Myers Squibb
+
+Rx only
 
 # BARACLUDE 1 mg Tablets Representative Packaging
 

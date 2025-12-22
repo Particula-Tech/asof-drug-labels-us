@@ -2,7 +2,7 @@
 
 ## 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility
 
-### Carcinogenesis
+Carcinogenesis
 
 Long-term oral carcinogenicity studies of entecavir in mice and rats were carried out at exposures up to approximately 42 times (mice) and 35 times (rats) those observed in humans at the highest recommended dose of 1 mg/day.
 In mouse and rat studies, entecavir was positive for carcinogenic findings.

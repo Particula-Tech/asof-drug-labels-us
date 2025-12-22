@@ -9,9 +9,9 @@ The following adverse reactions are discussed in other sections of the labeling:
 
 Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-### Clinical Trial Experience in Adults
+Clinical Trial Experience in Adults
 
-#### Compensated Liver Disease
+Compensated Liver Disease
 
 Assessment of adverse reactions is based on four studies (AI463014, AI463022, AI463026, and AI463027) in which 1720 subjects with chronic hepatitis B virus infection and compensated liver disease received double-blind treatment with BARACLUDE 0.5 mg/day (n=679), BARACLUDE 1 mg/day (n=183), or lamivudine (n=858) for up to 2 years.
 Median duration of therapy was 69 weeks for BARACLUDE-treated subjects and 63 weeks for lamivudine-treated subjects in Studies AI463022 and AI463027 and 73 weeks for BARACLUDE-treated subjects and 51 weeks for lamivudine-treated subjects in Studies AI463026 and AI463014.
@@ -23,11 +23,11 @@ One percent of BARACLUDE-treated subjects in these four studies compared with 4%
 
 Clinical adverse reactions of moderate-severe intensity and considered at least possibly related to treatment occurring during therapy in four clinical studies in which BARACLUDE was compared with lamivudine are presented in Table 3.
 
-Table 3: Clinical Adverse Reactionsa of Moderate-Severe Intensity (Grades 2–4) Reported in Four Entecavir Clinical Trials Through 2 Years
+Table 3: Clinical Adverse Reactionsa of Moderate-Severe Intensity (Grades 2‑4) Reported in Four Entecavir Clinical Trials Through 2 Years
 
-| Body System/ Adverse Reaction | BARACLUDE 0.5 mg n=679 | Lamivudine 100 mg n=668 | BARACLUDE 1 mg n=183 | Lamivudine 100 mg n=190 |
+|  | Nucleoside-Inhibitor‑Naïveb |  | Lamivudine- Refractoryc |  |
 | --- | --- | --- | --- | --- |
-|  | Nucleoside-Inhibitor- Naïveb |  | Lamivudine- Refractoryc |  |
+| Body System/ Adverse Reaction | BARACLUDE0.5 mgn=679 | Lamivudine100 mgn=668 | BARACLUDE1 mgn=183 | Lamivudine100 mgn=190 |
 | Any Grade 2–4 adverse reactiona | 15% | 18% | 22% | 23% |
 | Gastrointestinal |  |  |  |  |
 | Diarrhea | <1% | 0 | 1% | 0 |
@@ -42,17 +42,19 @@ Table 3: Clinical Adverse Reactionsa of Moderate-Severe Intensity (Grades 2–4)
 | Somnolence | <1% | <1% | 0 | 0 |
 | Psychiatric |  |  |  |  |
 | Insomnia | <1% | <1% | 0 | <1% |
-| a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. b Studies AI463022 and AI463027. c Includes Study AI463026 and the BARACLUDE 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of BARACLUDE (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. |  |  |  |  |
+| a Includes events of possible, probable, certain, or unknown relationship to treatment regimen. |  |  |  |  |
+| b Studies AI463022 and AI463027. |  |  |  |  |
+| c Includes Study AI463026 and the BARACLUDE 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of BARACLUDE (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. |  |  |  |  |
 
-##### Laboratory Abnormalities
+Laboratory Abnormalities
 
 Frequencies of selected treatment-emergent laboratory abnormalities reported during therapy in four clinical trials of BARACLUDE compared with lamivudine are listed in Table 4.
 
 Table 4: Selected Treatment-Emergenta Laboratory Abnormalities Reported in Four Entecavir Clinical Trials Through 2 Years
 
-| Test | BARACLUDE 0.5 mg n=679 | Lamivudine 100 mg n=668 | BARACLUDE 1 mg n=183 | Lamivudine 100 mg n=190 |
-| --- | --- | --- | --- | --- |
 |  | Nucleoside-Inhibitor-Naïveb |  | Lamivudine-Refractoryc |  |
+| --- | --- | --- | --- | --- |
+| Test | BARACLUDE0.5 mgn=679 | Lamivudine100 mgn=668 | BARACLUDE1 mgn=183 | Lamivudine100 mgn=190 |
 | Any Grade 3–4 laboratory abnormalityd | 35% | 36% | 37% | 45% |
 | ALT >10 × ULN and >2 × baseline | 2% | 4% | 2% | 11% |
 | ALT >5 × ULN | 11% | 16% | 12% | 24% |
@@ -65,13 +67,19 @@ Table 4: Selected Treatment-Emergenta Laboratory Abnormalities Reported in Four 
 | Glycosuriae | 4% | 3% | 4% | 6% |
 | Hematuriaf | 9% | 10% | 9% | 6% |
 | Platelets <50,000/mm3 | <1% | <1% | <1% | <1% |
-| a On-treatment value worsened from baseline to Grade 3 or Grade 4 for all parameters except albumin (any on-treatment value <2.5 g/dL), confirmed creatinine increase ≥0.5 mg/dL, and ALT >10 × ULN and >2 × baseline. b Studies AI463022 and AI463027. c Includes Study AI463026 and the BARACLUDE 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of BARACLUDE (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. d Includes hematology, routine chemistries, renal and liver function tests, pancreatic enzymes, and urinalysis. e Grade 3 = 3+, large, ≥500 mg/dL; Grade 4 = 4+, marked, severe. f Grade 3 = 3+, large; Grade 4 = ≥4+, marked, severe, many. ULN=upper limit of normal. |  |  |  |  |
+| a On-treatment value worsened from baseline to Grade 3 or Grade 4 for all parameters except albumin (any on-treatment value <2.5 g/dL), confirmed creatinine increase ≥0.5 mg/dL, and ALT >10 × ULN and >2 × baseline. |  |  |  |  |
+| b Studies AI463022 and AI463027. |  |  |  |  |
+| c Includes Study AI463026 and the BARACLUDE 1 mg and lamivudine treatment arms of Study AI463014, a Phase 2 multinational, randomized, double-blind study of three doses of BARACLUDE (0.1, 0.5, and 1 mg) once daily versus continued lamivudine 100 mg once daily for up to 52 weeks in subjects who experienced recurrent viremia on lamivudine therapy. |  |  |  |  |
+| d Includes hematology, routine chemistries, renal and liver function tests, pancreatic enzymes, and urinalysis. |  |  |  |  |
+| e Grade 3 = 3+, large, ≥500 mg/dL; Grade 4 = 4+, marked, severe. |  |  |  |  |
+| f Grade 3 = 3+, large; Grade 4 = ≥4+, marked, severe, many. |  |  |  |  |
+| ULN=upper limit of normal. |  |  |  |  |
 
 Among BARACLUDE-treated subjects in these studies, on-treatment ALT elevations greater than 10 times the upper limit of normal (ULN) and greater than 2 times baseline generally resolved with continued treatment.
 A majority of these exacerbations were associated with a ≥2 log10/mL reduction in viral load that preceded or coincided with the ALT elevation.
 Periodic monitoring of hepatic function is recommended during treatment.
 
-##### Exacerbations of Hepatitis After Discontinuation of Treatment
+Exacerbations of Hepatitis After Discontinuation of Treatment
 
 An exacerbation of hepatitis or ALT flare was defined as ALT greater than 10 times ULN and greater than 2 times the subject’s reference level (minimum of the baseline or last measurement at end of dosing).
 For all subjects who discontinued treatment (regardless of reason), Table 5 presents the proportion of subjects in each study who experienced post-treatment ALT flares.
@@ -81,16 +89,16 @@ If BARACLUDE is discontinued without regard to treatment response, the rate of p
 
 Table 5: Exacerbations of Hepatitis During Off-Treatment Follow-up, Subjects in Studies AI463022, AI463027, and AI463026
 
-|  | BARACLUDE | Lamivudine |
-| --- | --- | --- |
 |  | Subjects with ALT Elevations >10 × ULN and >2 × Referencea |  |
+| --- | --- | --- |
+|  | BARACLUDE | Lamivudine |
 | Nucleoside-inhibitor-naïve |  |  |
 | HBeAg-positive | 4/174 (2%) | 13/147 (9%) |
 | HBeAg-negative | 24/302 (8%) | 30/270 (11%) |
 | Lamivudine-refractory | 6/52 (12%) | 0/16 |
 | a Reference is the minimum of the baseline or last measurement at end of dosing. Median time to off-treatment exacerbation was 23 weeks for BARACLUDE-treated subjects and 10 weeks for lamivudine-treated subjects. |  |  |
 
-#### Decompensated Liver Disease
+Decompensated Liver Disease
 
 Study AI463048 was a randomized, open-label study of BARACLUDE 1 mg once daily versus adefovir dipivoxil 10 mg once daily given for up to 48 weeks in adult subjects with chronic HBV infection and evidence of hepatic decompensation, defined as a Child-Turcotte-Pugh (CTP) score of 7 or higher [see Clinical Studies (14.1)].
 Among the 102 subjects receiving BARACLUDE, the most common treatment-emergent adverse events of any severity, regardless of causality, occurring through Week 48 were peripheral edema (16%), ascites (15%), pyrexia (14%), hepatic encephalopathy (10%), and upper respiratory infection (10%).
@@ -104,15 +112,15 @@ Five percent of subjects in either treatment arm discontinued therapy due to an 
 No subject in either treatment arm experienced an on-treatment hepatic flare (ALT >2 × baseline and >10 × ULN) through Week 48.
 Eleven of 102 (11%) subjects treated with BARACLUDE and 11/89 (13%) subjects treated with adefovir dipivoxil had a confirmed increase in serum creatinine of 0.5 mg/dL through Week 48.
 
-#### HIV/HBV Co-infected
+HIV/HBV Co-infected
 
 The safety profile of BARACLUDE 1 mg (n=51) in HIV/HBV co-infected subjects enrolled in Study AI463038 was similar to that of placebo (n=17) through 24 weeks of blinded treatment and similar to that seen in non-HIV infected subjects [see Warnings and Precautions (5.2)].
 
-#### Liver Transplant Recipients
+Liver Transplant Recipients
 
 Among 65 subjects receiving BARACLUDE in an open-label, post-liver transplant trial [see Use in Specific Populations (8.8)], the frequency and nature of adverse events were consistent with those expected in patients who have received a liver transplant and the known safety profile of BARACLUDE.
 
-### Clinical Trial Experience in Pediatric Subjects
+Clinical Trial Experience in Pediatric Subjects
 
 The safety of BARACLUDE in pediatric subjects 2 to less than 18 years of age is based on two clinical trials in subjects with chronic HBV infection (one Phase 2 pharmacokinetic trial [AI463028] and one Phase 3 trial [AI463189]).
 These trials provided experience in 168 HBeAg-positive subjects treated with BARACLUDE for a median duration of 72 weeks.
@@ -135,22 +143,26 @@ The principal clinical outcome event assessments are shown in Table 6.
 
 Table 6: Principal Analyses of Time to Adjudicated Events - Randomized Treated Subjects
 
-| Endpointc | BARACLUDE N=6,216 | Non-ETV N=6,162 | Hazard Ratio [BARACLUDE:Non-ETV] (CIa) |
-| --- | --- | --- | --- |
-|  | Number of Subjects with Events |  |  |
-| Primary Endpoints |  |  |  |
-| Overall malignant neoplasm | 331 | 337 | 0.93 (0.800, 1.084) |
-| Liver-related HBV disease progression | 350 | 375 | 0.89 (0.769, 1.030) |
-| Death | 238 | 264 | 0.85 (0.713, 1.012) |
-| Secondary Endpoints |  |  |  |
-| Non-HCC malignant neoplasm | 95 | 81 | 1.10 (0.817, 1.478) |
-| HCC | 240b | 263 | 0.87 (0.727, 1.032) |
-| Analyses were stratified by geographic region and prior HBV nucleos(t)ide experience. a 95.03% CI for overall malignant neoplasm, death, and liver-related HBV disease progression; 95% CI for non-HCC malignant neoplasm and HCC. b One subject had a pre-treatment HCC event and was excluded from the analysis. c Overall malignant neoplasm is a composite event of HCC or non-HCC malignant neoplasm. Liver-related HBV disease progression is a composite event of liver-related death, HCC, or non-HCC HBV disease progression. CI = confidence interval; N = total number of subjects. |  |  |  |
+|  |  | Number of Subjects with Events |  |  |
+| --- | --- | --- | --- | --- |
+| Endpointc |  | BARACLUDEN=6,216 | Non-ETVN=6,162 | Hazard Ratio[BARACLUDE:Non-ETV] (CIa) |
+| Primary Endpoints |  |  |  |  |
+| Overall malignant neoplasm |  | 331 | 337 | 0.93 (0.800, 1.084) |
+| Liver-related HBV disease progression |  | 350 | 375 | 0.89 (0.769, 1.030) |
+| Death |  | 238 | 264 | 0.85 (0.713, 1.012) |
+| Secondary Endpoints |  |  |  |  |
+| Non-HCC malignant neoplasm |  | 95 | 81 | 1.10 (0.817, 1.478) |
+| HCC |  | 240b | 263 | 0.87 (0.727, 1.032) |
+| Analyses were stratified by geographic region and prior HBV nucleos(t)ide experience. |  |  |  |  |
+| a 95.03% CI for overall malignant neoplasm, death, and liver-related HBV disease progression; 95% CI for non-HCC malignant neoplasm and HCC. |  |  |  |  |
+| b One subject had a pre-treatment HCC event and was excluded from the analysis. |  |  |  |  |
+| c Overall malignant neoplasm is a composite event of HCC or non-HCC malignant neoplasm. Liver-related HBV disease progression is a composite event of liver-related death, HCC, or non-HCC HBV disease progression. |  |  |  |  |
+| CI = confidence interval; N = total number of subjects. |  |  |  |  |
 
 Limitations of the study included population changes over the long-term follow-up period and more frequent post-randomization treatment changes in the non-ETV group.
 In addition, the study was underpowered to demonstrate a difference in the non-HCC malignancy rate because of the lower than expected background rate.
 
-### Adverse Reactions from Postmarketing Spontaneous Reports
+Adverse Reactions from Postmarketing Spontaneous Reports
 
 The following adverse reactions have been reported during postmarketing use of BARACLUDE.
 Because these reactions were reported voluntarily from a population of unknown size, it is not possible to reliably estimate their frequency or establish a causal relationship to BARACLUDE exposure.

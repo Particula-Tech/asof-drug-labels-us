@@ -19,7 +19,7 @@ In the U.S. general population, the estimated background risk of miscarriage in 
 In animal reproduction studies, no adverse developmental effects were observed with entecavir at clinically relevant exposures.
 No developmental toxicities were observed at systemic exposures (AUC) approximately 25 (rats) and 200 (rabbits) times the exposure at the maximum recommended human dose (MRHD) of 1 mg/day (see Data).
 
-### Data
+Data
 
 #### Animal Data
 
@@ -33,13 +33,13 @@ No adverse effects on the offspring occurred at up to the highest dose evaluated
 
 ## 8.2 Lactation
 
-### Risk Summary
+Risk Summary
 
 It is not known whether BARACLUDE is present in human breast milk, affects human milk production, or has effects on the breastfed infant.
 When administered to lactating rats, entecavir was present in milk (see Data).
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for BARACLUDE and any potential adverse effects on the breastfed infant from BARACLUDE or from the underlying maternal condition.
 
-### Data
+Data
 
 Entecavir was excreted into the milk of lactating rats following a single oral dose of 10 mg per kg on lactation day 7.
 Entecavir in milk was approximately 25% that in maternal plasma (based on AUC).

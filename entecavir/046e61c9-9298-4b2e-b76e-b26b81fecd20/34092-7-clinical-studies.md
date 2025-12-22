@@ -2,14 +2,14 @@
 
 ## 14.1 Outcomes in Adults
 
-### At 48 Weeks
+At 48 Weeks
 
 The safety and efficacy of BARACLUDE in adults were evaluated in three Phase 3 active-controlled trials.
 These studies included 1633 subjects 16 years of age or older with chronic hepatitis B virus infection (serum HBsAg-positive for at least 6 months) accompanied by evidence of viral replication (detectable serum HBV DNA, as measured by the bDNA hybridization or PCR assay).
 Subjects had persistently elevated ALT levels at least 1.3 times ULN and chronic inflammation on liver biopsy compatible with a diagnosis of chronic viral hepatitis.
 The safety and efficacy of BARACLUDE were also evaluated in a study of 191 HBV-infected subjects with decompensated liver disease and in a study of 68 subjects co-infected with HBV and HIV.
 
-#### Nucleoside-inhibitor-naïve Subjects with Compensated Liver Disease
+Nucleoside-inhibitor-naïve Subjects with Compensated Liver Disease
 
 HBeAg-positive: Study AI463022 was a multinational, randomized, double-blind study of BARACLUDE 0.5 mg once daily versus lamivudine 100 mg once daily for a minimum of 52 weeks in 709 (of 715 randomized) nucleoside-inhibitor-naïve subjects with chronic hepatitis B virus infection, compensated liver disease, and detectable HBeAg.
 The mean age of subjects was 35 years, 75% were male, 57% were Asian, 40% were Caucasian, and 13% had previously received interferon-α.
@@ -27,9 +27,9 @@ Selected virologic, biochemical, and serologic outcome measures are shown in Tab
 
 Table 9: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027
 
-|  | BARACLUDE 0.5 mg n=314 a | Lamivudine 100 mg n=314 a | BARACLUDE 0.5 mg n=296 a | Lamivudine 100 mg n=287 a |
-| --- | --- | --- | --- | --- |
 |  | Study AI463022 (HBeAg-Positive) |  | Study AI463027 (HBeAg-Negative) |  |
+| --- | --- | --- | --- | --- |
+|  | BARACLUDE0.5 mgn=314a | Lamivudine100 mgn=314a | BARACLUDE0.5 mgn=296a | Lamivudine100 mgn=287a |
 | Histologic Improvement (Knodell Scores) |  |  |  |  |
 | Improvementb | 72% | 62% | 70% | 61% |
 | No improvement | 21% | 24% | 19% | 26% |
@@ -38,23 +38,25 @@ Table 9: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, N
 | No change | 46% | 40% | 41% | 34% |
 | Worseningc | 8% | 10% | 12% | 15% |
 | Missing Week 48 biopsy | 7% | 14% | 10% | 13% |
-| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |  |  |
+| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). |  |  |  |  |
+| b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |  |  |
+| c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |  |  |
 
 Table 10: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Nucleoside-Inhibitor-Naïve Subjects in Studies AI463022 and AI463027
 
-|  | BARACLUDE 0.5 mg n=354 | Lamivudine 100 mg n=355 | BARACLUDE 0.5 mg n=325 | Lamivudine 100 mg n=313 |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Study AI463022 (HBeAg-Positive) |  | Study AI463027 (HBeAg-Negative) |  |  |  |  |  |  |
-| HBV DNAa |  |  |  |  |  |  |  |  |  |
-| Proportion undetectable (<300 copies/mL) | 67% | 36% | 90% | 72% |  |  |  |  |  |
-| Mean change from baseline (log10 copies/mL) | −6.86 | −5.39 | −5.04 | −4.53 |  |  |  |  |  |
-| ALT normalization (≤1 × ULN) | 68% | 60% | 78% | 71% |  |  |  |  |  |
-| HBeAg seroconversion | 21% | 18% | NA | NA |  |  |  |  |  |
-| a Roche COBAS Amplicor PCR assay [lower limit of quantification (LLOQ) = 300 copies/mL]. |  |  |  |  |  |  |  |  |  |
+|  | Study AI463022(HBeAg-Positive) |  | Study AI463027(HBeAg-Negative) |  |
+| --- | --- | --- | --- | --- |
+|  | BARACLUDE0.5 mgn=354 | Lamivudine100 mgn=355 | BARACLUDE0.5 mgn=325 | Lamivudine100 mgn=313 |
+| HBV DNAa |  |  |  |  |
+| Proportion undetectable (<300 copies/mL) | 67% | 36% | 90% | 72% |
+| Mean change from baseline (log10 copies/mL) | ‑6.86 | ‑5.39 | ‑5.04 | ‑4.53 |
+| ALT normalization (≤1 × ULN) | 68% | 60% | 78% | 71% |
+| HBeAg seroconversion | 21% | 18% | NA | NA |
+| a Roche COBAS Amplicor PCR assay [lower limit of quantification (LLOQ) = 300 copies/mL]. |  |  |  |  |
 
 Histologic Improvement was independent of baseline levels of HBV DNA or ALT.
 
-#### Lamivudine-refractory Subjects with Compensated Liver Disease
+Lamivudine-refractory Subjects with Compensated Liver Disease
 
 Study AI463026 was a multinational, randomized, double-blind study of BARACLUDE in 286 (of 293 randomized) subjects with lamivudine-refractory chronic hepatitis B virus infection and compensated liver disease.
 Subjects receiving lamivudine at study entry either switched to BARACLUDE 1 mg once daily (with neither a washout nor an overlap period) or continued on lamivudine 100 mg for a minimum of 52 weeks.
@@ -69,7 +71,7 @@ Table 12 shows selected virologic, biochemical, and serologic endpoints.
 
 Table 11: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, Lamivudine-Refractory Subjects in Study AI463026
 
-|  | BARACLUDE 1 mg n=124 a | Lamivudine 100 mg n=116 a |
+|  | BARACLUDE1 mgn=124a | Lamivudine100 mgn=116a |
 | --- | --- | --- |
 | Histologic Improvement (Knodell Scores) |  |  |
 | Improvementb | 55% | 28% |
@@ -79,22 +81,24 @@ Table 11: Histologic Improvement and Change in Ishak Fibrosis Score at Week 48, 
 | No change | 44% | 42% |
 | Worseningc | 11% | 26% |
 | Missing Week 48 biopsy | 11% | 16% |
-| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |
+| a Subjects with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥2). |  |  |
+| b ≥2-point decrease in Knodell Necroinflammatory Score from baseline with no worsening of the Knodell Fibrosis Score. |  |  |
+| c For Ishak Fibrosis Score, improvement = ≥1-point decrease from baseline and worsening = ≥1-point increase from baseline. |  |  |
 
 Table 12: Selected Virologic, Biochemical, and Serologic Endpoints at Week 48, Lamivudine-Refractory Subjects in Study AI463026
 
-|  | BARACLUDE 1 mg n=141 | Lamivudine 100 mg n=145 |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| HBV DNAa |  |  |  |  |  |
-| Proportion undetectable (<300 copies/mL) | 19% | 1% |  |  |  |
-| Mean change from baseline (log10 copies/mL) | −5.11 | −0.48 |  |  |  |
-| ALT normalization (≤1 × ULN) | 61% | 15% |  |  |  |
-| HBeAg seroconversion | 8% | 3% |  |  |  |
-| a Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |  |  |  |
+|  | BARACLUDE1 mgn=141 | Lamivudine100 mgn=145 |
+| --- | --- | --- |
+| HBV DNAa |  |  |
+| Proportion undetectable (<300 copies/mL) | 19% | 1% |
+| Mean change from baseline (log10 copies/mL) | ‑5.11 | ‑0.48 |
+| ALT normalization (≤1 × ULN) | 61% | 15% |
+| HBeAg seroconversion | 8% | 3% |
+| a Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
 
 Histologic Improvement was independent of baseline levels of HBV DNA or ALT.
 
-#### Subjects with Decompensated Liver Disease
+Subjects with Decompensated Liver Disease
 
 Study AI463048 was a randomized, open-label study of BARACLUDE 1 mg once daily versus adefovir dipivoxil 10 mg once daily in 191 (of 195 randomized) adult subjects with HBeAg-positive or -negative chronic HBV infection and evidence of hepatic decompensation, defined as a Child-Turcotte-Pugh (CTP) score of 7 or higher.
 Subjects were either HBV-treatment-naïve or previously treated, predominantly with lamivudine or interferon-α.
@@ -108,16 +112,20 @@ Results for selected study endpoints at Week 48 are shown in Table 13.
 
 Table 13: Selected Endpoints at Week 48, Subjects with Decompensated Liver Disease, Study AI463048
 
-|  | BARACLUDE 1 mg n=100 a | Adefovir Dipivoxil 10 mg n=91 a |
+|  | BARACLUDE1 mgn=100a | Adefovir Dipivoxil10 mgn=91a |
 | --- | --- | --- |
 | HBV DNAb |  |  |
 | Proportion undetectable (<300 copies/mL) | 57% | 20% |
 | Stable or improved CTP scorec | 61% | 67% |
 | HBsAg loss | 5% | 0 |
 | Normalization of ALT (≤1 × ULN)d | 49/78 (63%) | 33/71 (46%) |
-| a Endpoints were analyzed using intention-to-treat (ITT) method, treated subjects as randomized. b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). c Defined as decrease or no change from baseline in CTP score. d Denominator is subjects with abnormal values at baseline. ULN=upper limit of normal. |  |  |
+| a Endpoints were analyzed using intention-to-treat (ITT) method, treated subjects as randomized. |  |  |
+| b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
+| c Defined as decrease or no change from baseline in CTP score. |  |  |
+| d Denominator is subjects with abnormal values at baseline. |  |  |
+| ULN=upper limit of normal. |  |  |
 
-#### Subjects Co-infected with HIV and HBV
+Subjects Co-infected with HIV and HBV
 
 Study AI463038 was a randomized, double-blind, placebo-controlled study of BARACLUDE versus placebo in 68 subjects co-infected with HIV and HBV who experienced recurrence of HBV viremia while receiving a lamivudine-containing highly active antiretroviral (HAART) regimen.
 Subjects continued their lamivudine-containing HAART regimen (lamivudine dose 300 mg/day) and were assigned to add either BARACLUDE 1 mg once daily (51 subjects) or placebo (17 subjects) for 24 weeks followed by an open-label phase for an additional 24 weeks where all subjects received BARACLUDE.
@@ -130,24 +138,26 @@ BARACLUDE has not been evaluated in HIV/HBV co-infected patients who were not si
 
 Table 14: Virologic and Biochemical Endpoints at Week 24, Study AI463038
 
-|  | BARACLUDE 1 mga n=51 | Placeboa n=17 |
+|  | BARACLUDE 1 mgan=51 | Placeboan=17 |
 | --- | --- | --- |
 | HBV DNAb |  |  |
 | Proportion undetectable (<300 copies/mL) | 6% | 0 |
-| Mean change from baseline (log10 copies/mL) | −3.65 | +0.11 |
-| ALT normalization (≤1 × ULN) | 34%c | 8% c |
-| a All subjects also received a lamivudine-containing HAART regimen. b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). c Percentage of subjects with abnormal ALT (>1 × ULN) at baseline who achieved ALT normalization (n=35 for BARACLUDE and n=12 for placebo). |  |  |
+| Mean change from baseline (log10 copies/mL) | ‑3.65 | +0.11 |
+| ALT normalization (≤1 × ULN) | 34%c | 8%c |
+| a All subjects also received a lamivudine-containing HAART regimen. |  |  |
+| b Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/mL). |  |  |
+| c Percentage of subjects with abnormal ALT (>1 × ULN) at baseline who achieved ALT normalization (n=35 for BARACLUDE and n=12 for placebo). |  |  |
 
 For subjects originally assigned to BARACLUDE, at the end of the open-label phase (Week 48), 8% of subjects had HBV DNA <300 copies/mL by PCR, the mean change from baseline HBV DNA by PCR was −4.20 log10 copies/mL, and 37% of subjects with abnormal ALT at baseline had ALT normalization (≤1 × ULN).
 
-### Beyond 48 Weeks
+Beyond 48 Weeks
 
 The optimal duration of therapy with BARACLUDE is unknown.
 According to protocol-mandated criteria in the Phase 3 clinical trials, subjects discontinued BARACLUDE or lamivudine treatment after 52 weeks according to a definition of response based on HBV virologic suppression (<0.7 MEq/mL by bDNA assay) and loss of HBeAg (in HBeAg-positive subjects) or ALT <1.25 × ULN (in HBeAg-negative subjects) at Week 48.
 Subjects who achieved virologic suppression but did not have serologic response (HBeAg-positive) or did not achieve ALT <1.25 × ULN (HBeAg-negative) continued blinded dosing through 96 weeks or until the response criteria were met.
 These protocol-specified subject management guidelines are not intended as guidance for clinical practice.
 
-#### Nucleoside-inhibitor-naïve Subjects
+Nucleoside-inhibitor-naïve Subjects
 
 Among nucleoside-inhibitor-naïve, HBeAg-positive subjects (Study AI463022), 243 (69%) BARACLUDE-treated subjects and 164 (46%) lamivudine-treated subjects continued blinded treatment for up to 96 weeks.
 Of those continuing blinded treatment in Year 2, 180 (74%) BARACLUDE subjects and 60 (37%) lamivudine subjects achieved HBV DNA <300 copies/mL by PCR at the end of dosing (up to 96 weeks).
@@ -164,7 +174,7 @@ Among nucleoside-inhibitor-naïve, HBeAg-negative subjects, 275 (85%) BARACLUDE 
 In this cohort, very few subjects in each treatment arm had HBV DNA <300 copies/mL by PCR at the end of follow-up.
 At the end of follow-up, 126 (46%) BARACLUDE subjects and 84 (34%) lamivudine subjects had ALT ≤1 × ULN.
 
-#### Lamivudine-refractory Subjects
+Lamivudine-refractory Subjects
 
 Among lamivudine-refractory subjects (Study AI463026), 77 (55%) BARACLUDE-treated subjects and 3 (2%) lamivudine subjects continued blinded treatment for up to 96 weeks.
 In this cohort of BARACLUDE subjects, 31 (40%) subjects achieved HBV DNA <300 copies/mL, 62 (81%) subjects had ALT ≤1 × ULN, and 8 (10%) subjects demonstrated HBeAg seroconversion at the end of dosing.
