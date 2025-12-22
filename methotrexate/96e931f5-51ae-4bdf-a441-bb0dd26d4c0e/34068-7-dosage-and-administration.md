@@ -44,7 +44,7 @@ Administer folic acid or folinic acid to reduce the risk of methotrexate adverse
 ## 2.4 Recommended Dosage for Polyarticular Juvenile Idiopathic Arthritis
 
 The recommended starting dose of JYLAMVO is 10 mg/m2 orally once weekly with escalation to achieve optimal response.
-Dosages of more than 30 mg/m2once weekly result in an increased risk of serious adverse reactions, including myelosuppression.
+Dosages of more than 30 mg/m2 once weekly result in an increased risk of serious adverse reactions, including myelosuppression.
 When responses are observed, the majority occurred between 3 and 6 weeks from initiation of treatment; however, responses have occurred up to 12 weeks after treatment initiation.
 
 Administer folic acid or folinic acid to reduce the risk of methotrexate adverse reactions [see Warnings and Precautions (5.10)].
