@@ -3,7 +3,7 @@
 ## Strongyloidiasis
 
 The recommended dosage of ivermectin tablets for the treatment of strongyloidiasis is a single oral dose designed to provide approximately 200 mcg of ivermectin per kg of body weight.
-See Table 1 for dosage guidelines.
+See Table 1for dosage guidelines.
 Patients should take tablets on an empty stomach with water (See CLINICAL PHARMACOLOGY, Pharmacokinetics).
 In general, additional doses are not necessary.
 However, follow-up stool examinations should be performed to verify eradication of infection (See CLINICAL PHARMACOLOGY, Clinical Studies).
@@ -22,7 +22,7 @@ Table 1: Dosage Guidelines for Ivermectin Tablets for Strongyloidiasis
 ## Onchocerciasis
 
 The recommended dosage of ivermectin Tablets for the treatment of onchocerciasis is a single oral dose designed to provide approximately 150 mcg of ivermectin per kg of body weight.
-See Table 2 for dosage guidelines.
+See Table 2for dosage guidelines.
 Patients should take tablets on an empty stomach with water (See CLINICAL PHARMACOLOGY, Pharmacokinetics).
 In mass distribution campaigns in international treatment programs, the most commonly used dose interval is 12 months.
 For the treatment of individual patients, retreatment may be considered at intervals as short as 3 months.

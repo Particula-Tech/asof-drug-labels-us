@@ -17,7 +17,7 @@ These reactions have generally resolved with supportive care and the discontinua
 
 After treatment with microfilaricidal drugs, patients with hyperreactive onchodermatitis (sowda) may be more likely than others to experience severe adverse reactions, especially edema and aggravation of onchodermatitis.
 
-Rarely, patients with onchocerciasis who are also heavily infected with Loa loa may develop a serious or even fatal encephalopathy either spontaneously or following treatment with an effective microfilaricide.
+Rarely, patients with onchocerciasis who are also heavily infected with Loa loamay develop a serious or even fatal encephalopathy either spontaneously or following treatment with an effective microfilaricide.
 In these patients, the following adverse experiences have also been reported: pain (including neck and back pain), red eye, conjunctival hemorrhage, dyspnea, urinary and/or fecal incontinence, difficulty in standing/walking, mental status changes, confusion, lethargy, stupor, seizures, or coma.
 This syndrome has been seen very rarely following the use of ivermectin.
 In individuals who warrant treatment with ivermectin for any reason and have had significant exposure to Loa loa-endemic areas of West or Central Africa, pretreatment assessment for loiasis and careful post-treatment follow-up should be implemented.
@@ -32,7 +32,7 @@ The patient should be reminded of the need for repeated stool examinations to do
 
 ### Onchocerciasis
 
-The patient should be reminded that treatment with ivermectin does not kill the adult Onchocerca parasites, and therefore repeated follow-up and retreatment is usually required.
+The patient should be reminded that treatment with ivermectin does not kill the adult Onchocercaparasites, and therefore repeated follow-up and retreatment is usually required.
 
 ## Drug Interactions
 
@@ -42,9 +42,9 @@ Post-marketing reports of increased INR (International Normalized Ratio) have be
 
 Long-term studies in animals have not been performed to evaluate the carcinogenic potential of ivermectin.
 
-Ivermectin was not genotoxic in vitro in the Ames microbial mutagenicity assay of Salmonella typhimurium strains TA1535, TA1537, TA98, and TA100 with and without rat liver enzyme activation, the Mouse Lymphoma Cell Line L5178Y (cytotoxicity and mutagenicity) assays, or the unscheduled DNA synthesis assay in human fibroblasts.
+Ivermectin was not genotoxic in vitroin the Ames microbial mutagenicity assay of Salmonella typhimuriumstrains TA1535, TA1537, TA98, and TA100 with and without rat liver enzyme activation, the Mouse Lymphoma Cell Line L5178Y (cytotoxicity and mutagenicity) assays, or the unscheduled DNA synthesis assay in human fibroblasts.
 
-Ivermectin had no adverse effects on the fertility in rats in studies at repeated doses of up to 3 times the maximum recommended human dose of 200 mcg/kg (on a mg/m2/day basis).
+Ivermectin had no adverse effects on the fertility in rats in studies at repeated doses of up to 3 times the maximum recommended human dose of 200 mcg/kg (on a mg/m 2/day basis).
 
 ## Pregnancy, Teratogenic Effects
 

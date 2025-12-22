@@ -4,13 +4,13 @@
 
 In four clinical studies involving a total of 109 patients given either one or two doses of 170 to 200 mcg/kg of ivermectin, the following adverse reactions were reported as possibly, probably, or definitely related to ivermectin:
 
-Body as a Whole: asthenia/fatigue (0.9%), abdominal pain (0.9%)
+Body as a Whole:asthenia/fatigue (0.9%), abdominal pain (0.9%)
 
-Gastrointestinal: anorexia (0.9%), constipation (0.9%), diarrhea (1.8%), nausea (1.8%), vomiting (0.9%)
+Gastrointestinal:anorexia (0.9%), constipation (0.9%), diarrhea (1.8%), nausea (1.8%), vomiting (0.9%)
 
-Nervous System/Psychiatric: dizziness (2.8%), somnolence (0.9%), vertigo (0.9%), tremor (0.9%)
+Nervous System/Psychiatric:dizziness (2.8%), somnolence (0.9%), vertigo (0.9%), tremor (0.9%)
 
-Skin: pruritus (2.8%), rash (0.9%), and urticaria (0.9%).
+Skin:pruritus (2.8%), rash (0.9%), and urticaria (0.9%).
 
 In comparative trials, patients treated with ivermectin experienced more abdominal distention and chest discomfort than patients treated with albendazole.
 However, ivermectin was better tolerated than thiabendazole in comparative studies involving 37 patients treated with thiabendazole.

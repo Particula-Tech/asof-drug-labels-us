@@ -3,7 +3,7 @@
 ## Pharmacokinetics
 
 Following oral administration of ivermectin, plasma concentrations are approximately proportional to the dose.
-In two studies, after single 12-mg doses of ivermectin tablets in fasting healthy volunteers (representing a mean dose of 165 mcg/kg), the mean peak plasma concentrations of the major component (H2B1a) were 46.6 (±21.9) (range: 16.4 - 101.1) and 30.6 (±15.6) (range: 13.9 - 68.4) ng/mL, respectively, at approximately 4 hours after dosing.
+In two studies, after single 12-mg doses of ivermectin tablets in fasting healthy volunteers (representing a mean dose of 165 mcg/kg), the mean peak plasma concentrations of the major component (H 2B 1a) were 46.6 (±21.9) (range: 16.4 - 101.1) and 30.6 (±15.6) (range: 13.9 - 68.4) ng/mL, respectively, at approximately 4 hours after dosing.
 Ivermectin is metabolized in the liver, and ivermectin and/or its metabolites are excreted almost exclusively in the feces over an estimated 12 days, with less than 1% of the administered dose excreted in the urine.
 The plasma half-life of ivermectin in man is approximately 18 hours following oral administration.
 
@@ -11,9 +11,9 @@ The safety and pharmacokinetic properties of ivermectin were further assessed in
 Subjects received oral doses of 30 to 120 mg (333 to 2000 mcg/kg) ivermectin in a fasted state or 30 mg (333 to 600 mcg/kg) ivermectin following a standard high-fat (48.6 g of fat) meal.
 Administration of 30 mg ivermectin following a high-fat meal resulted in an approximate 2.5-fold increase in bioavailability relative to administration of 30 mg ivermectin in the fasted state.
 
-In vitro studies using human liver microsomes and recombinant CYP450 enzymes have shown that ivermectin is primarily metabolized by CYP3A4.
-Depending on the in vitro method used, CYP2D6 and CYP2E1 were also shown to be involved in the metabolism of ivermectin but to a significantly lower extent compared to CYP3A4.
-The findings of in vitro studies using human liver microsomes suggest that clinically relevant concentrations of ivermectin do not significantly inhibit the metabolizing activities of CYP3A4, CYP2D6, CYP2C9, CYP1A2, and CYP2E1.
+In vitrostudies using human liver microsomes and recombinant CYP450 enzymes have shown that ivermectin is primarily metabolized by CYP3A4.
+Depending on the in vitromethod used, CYP2D6 and CYP2E1 were also shown to be involved in the metabolism of ivermectin but to a significantly lower extent compared to CYP3A4.
+The findings of in vitrostudies using human liver microsomes suggest that clinically relevant concentrations of ivermectin do not significantly inhibit the metabolizing activities of CYP3A4, CYP2D6, CYP2C9, CYP1A2, and CYP2E1.
 
 ## Microbiology
 
@@ -26,8 +26,8 @@ The selective activity of compounds of this class is attributable to the facts t
 In addition, ivermectin does not readily cross the blood-brain barrier in humans.
 
 Ivermectin is active against various life-cycle stages of many but not all nematodes.
-It is active against the tissue microfilariae of Onchocerca volvulus but not against the adult form.
-Its activity against Strongyloides stercoralis is limited to the intestinal stages.
+It is active against the tissue microfilariae of Onchocerca volvulusbut not against the adult form.
+Its activity against Strongyloides stercoralisis limited to the intestinal stages.
 
 ## Clinical Studies
 
@@ -42,11 +42,11 @@ Summary of Cure Rates for Ivermectin Versus Comparative Agents in the Treatment 
 
 |  | Cure Rate* (%) |  |
 | --- | --- | --- |
-| Ivermectin† | Comparative Agent |  |
-| Albendazole‡ Comparative |  |  |
+| Ivermectin † | Comparative Agent |  |
+| Albendazole ‡Comparative |  |  |
 | International Study | 24/26 (92) | 12/22 (55) |
 | WHO Study | 126/152 (83) | 67/149 (45) |
-| Thiabendazole§ Comparative |  |  |
+| Thiabendazole §Comparative |  |  |
 | International Study | 9/14 (64) | 13/15 (87) |
 | US Studies | 14/14 (100) | 16/17 (94) |
 

@@ -2,8 +2,8 @@
 
 Ivermectin is a semisynthetic, anthelmintic agent for oral administration.
 Ivermectin is derived from the avermectins, a class of highly active broad-spectrum, anti-parasitic agents isolated from the fermentation products of Streptomyces avermitilis.
-Ivermectin is a mixture containing at least 90% 5-O-demethyl-22,23-dihydroavermectin A1a and less than 10% 5-O-demethyl-25-de(1-methylpropyl)-22,23-dihydro-25-(1-methylethyl)avermectin A1a, generally referred to as 22,23-dihydroavermectin B1a and B1b, or H2B1a and H2B1b, respectively.
-The respective empirical formulas are C48H74O14 and C47H72O14, with molecular weights of 875.10 and 861.07, respectively.
+Ivermectin is a mixture containing at least 90% 5- O-demethyl-22,23-dihydroavermectin A 1aand less than 10% 5- O-demethyl-25-de(1-methylpropyl)-22,23-dihydro-25-(1-methylethyl)avermectin A 1a, generally referred to as 22,23-dihydroavermectin B 1aand B 1b, or H 2B 1aand H 2B 1b, respectively.
+The respective empirical formulas are C 48H 74O 14and C 47H 72O 14, with molecular weights of 875.10 and 861.07, respectively.
 The structural formulas are:
 
 Ivermectin is a white to yellowish-white, nonhygroscopic, crystalline powder with a melting point of about 155°C.
