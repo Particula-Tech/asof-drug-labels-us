@@ -2,11 +2,7 @@
 
 NDC 0781-3117-46
 
-Piperacillin and
-
-Tazobactam for
-
-Injection, USP
+Piperacillin and Tazobactam for Injection, USP
 
 13.5 grams – per Pharmacy Bulk Package
 
@@ -14,43 +10,27 @@ PHARMACY BULK PACKAGE – NOT FOR DIRECT INFUSION
 
 Rx Only
 
-RECONSTITUTED STOCK
-
-SOLUTION MUST BE
-
-TRANSFERRED AND FURTHER
-
-DILUTED FOR I.V.
+RECONSTITUTED STOCK SOLUTION MUST BE TRANSFERRED AND FURTHER DILUTED FOR I.V.
 INFUSION
 
 1 Bottle
 
-Sandoz – A Novartis Division
+Sandoz
 
 # 40.5 grams Carton
 
 NDC 0781-3180-94
 
-Piperacillin and
+Piperacillin and Tazobactam for Injection, USP
 
-Tazobactam for
+40.5 grams per Pharmacy Bulk Package
 
-Injection, USP
-
-40.5 grams – per Pharmacy Bulk Package
-
-PHARMACY BULK PACKAGE – NOT FOR DIRECT INFUSION
+PHARMACY BULK PACKAGE NOT FOR DIRECT INFUSION
 
 Rx Only
 
-RECONSTITUTED STOCK
-
-SOLUTION MUST BE
-
-TRANSFERRED AND FURTHER
-
-DILUTED FOR INTRAVENOUS INFUSION
+RECONSTITUTED STOCK SOLUTION MUST BE TRANSFERRED AND FURTHER DILUTED FOR INTRAVENOUS INFUSION
 
 1 Bottle
 
-Sandoz – A Novartis Division
+Sandoz

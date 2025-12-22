@@ -119,7 +119,8 @@ Reconstituted piperacillin and tazobactam solutions for bulk bottles should be f
 1. 1.Calculate patient dose as described in Table 2 above [see Dosage and Administration (2.4)].
 2. 2.Reconstitute bottle with a compatible reconstitution diluent, as listed above under the subheading “Compatible Reconstitution Diluents for Pharmacy Bulk Bottles,” using the appropriate volume of diluent, as listed in Table 4 below.
    Following the addition of the diluent, shake the pharmacy bulk bottle until the powder is completely dissolved.
-3. Table 4: Reconstitution of Pharmacy Bulk Bottle and Resulting Concentration
+
+Table 4: Reconstitution of Pharmacy Bulk Bottle and Resulting Concentration
 
 | Strength per Pharmacy Bulk Bottle | Volume of Diluent to be Added to the Bottle | Concentration of the Reconstituted Product |
 | --- | --- | --- |
