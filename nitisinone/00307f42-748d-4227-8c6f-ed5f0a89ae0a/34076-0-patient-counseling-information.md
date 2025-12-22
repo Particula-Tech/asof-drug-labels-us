@@ -2,7 +2,7 @@
 
 Advise the patient to read the FDA-approved patient labeling (Instructions for Use).
 
-Preparation and Administration Instructions [see Dosage and Administration (2.2)]
+Preparation and Administration Instructions[see Dosage and Administration (2.2)]
 
 Preparation of the Oral Suspension
 
@@ -44,10 +44,10 @@ Once the bottle is prepared with the adapter:
 Administration of ORFADIN Capsules and Oral Suspension
 
 - Maintain dietary restriction of tyrosine and phenylalanine when taking ORFADIN.
-- Capsules: Take at least one hour before, or two hours after a meal.
+- Capsules:Take at least one hour before, or two hours after a meal.
   For patients who have difficulty swallowing the capsules and for which the oral suspension is not suitable [see Warnings and Precautions (5.3]), the capsules may be opened and the contents suspended in a small amount of water, formula or apple sauce immediately before use.
   Or, the oral suspension may be used instead.
-- Oral suspension: Take without regard to meals.
+- Oral suspension:Take without regard to meals.
 
 Elevated Plasma Tyrosine Levels, Ocular Symptoms, Developmental Delay and Hyperkeratotic Plaques
 
@@ -60,4 +60,4 @@ Advise patients receiving doses of greater than 20 mL of ORFADIN oral suspension
 
 Manufactured by: Apotek Produktion & Laboratorier AB, Sweden
 
-Marketed by: Sobi, Inc 77 Fourth Avenue, 3 rd Floor, Waltham, MA 02451-7559
+Marketed by: Sobi, Inc 77 Fourth Avenue, 3 rdFloor, Waltham, MA 02451-7559

@@ -31,7 +31,7 @@ The single-dose pharmacokinetics of nitisinone have been studied for both ORFADI
 Absorption
 
 The pharmacokinetic characteristics following single oral administration of ORFADIN 30 mg under fasting conditions are shown in Table 3.
-Compared to ORFADIN capsule, the median T max occurred about 3 hours earlier with ORFADIN oral suspension.
+Compared to ORFADIN capsule, the median T maxoccurred about 3 hours earlier with ORFADIN oral suspension.
 The multiple-dose characteristics of ORFADIN 80 mg once daily are shown in Table 4.
 Steady-state (SS) was reached within 14 days dosing in all subjects.
 
@@ -53,21 +53,21 @@ TABLE 4 Nitisinone Arithmetic Mean (CV%) Pharmacokinetic Parameters in Healthy S
 |  |  |  | [0.0 to 16.0] |  |  |
 | * presented as median [range] |  |  |  |  |  |
 
-Food Effect: No food effect study was conducted with ORFADIN capsules.
-For ORFADIN oral suspension, a high calorie (800 to 1000 calories) and high fat meal (approximately 50% of total caloric content) did not affect nitisinone total exposure (AUC 72h), but decreased the C max by approximately 20% [see Dosage and Administration (2.2)].
+Food Effect:No food effect study was conducted with ORFADIN capsules.
+For ORFADIN oral suspension, a high calorie (800 to 1000 calories) and high fat meal (approximately 50% of total caloric content) did not affect nitisinone total exposure (AUC 72h), but decreased the C maxby approximately 20% [see Dosage and Administration (2.2)].
 
 Distribution
 
-In vitro binding of nitisinone to human plasma proteins is greater than 95% at 50 micromolar concentration.
+In vitrobinding of nitisinone to human plasma proteins is greater than 95% at 50 micromolar concentration.
 
 Elimination
 
 The mean terminal plasma half-life of single dose nitisinone in healthy male subjects is 54 hours.
 The mean (CV%)apparent plasma clearance in 18 healthy adults following multiple once daily doses of ORFADIN 80 mg is 113 (16) mL/h.
 
-Metabolism: In vitro studies have shown that nitisinone is relatively stable in human liver microsomes with minor metabolism possibly mediated by CYP3A4 enzyme.
+Metabolism: In vitrostudies have shown that nitisinone is relatively stable in human liver microsomes with minor metabolism possibly mediated by CYP3A4 enzyme.
 
-Excretion: Renal elimination of nitisinone is of minor importance, since the mean of the fraction of dose excreted as unchanged nitisinone in the urine (fe(%)) was 3.0% (n=3) following multiple oral doses of 80 mg daily in healthy subjects.
+Excretion:Renal elimination of nitisinone is of minor importance, since the mean of the fraction of dose excreted as unchanged nitisinone in the urine (fe(%)) was 3.0% (n=3) following multiple oral doses of 80 mg daily in healthy subjects.
 The estimated mean (CV%) renal clearance of nitisinone was 0.003 L/h (25%).
 
 Drug Interaction Studies
@@ -77,21 +77,21 @@ Nitisinone is a moderate inhibitor of CYP2C9, and a weak inducer of CYP2E1 (Tabl
 Nitisinone is an inhibitor of OAT1/3 (Table 5).
 
 Table 5.
-Percent Change in AUC 0-∞ and C max for Co-administered Drugs in the Presence of ORFADIN in 18 Healthy Subjects
+Percent Change in AUC 0-∞and C maxfor Co-administered Drugs in the Presence of ORFADIN in 18 Healthy Subjects
 
-| Co-administered Drug a | Dose of Co-administered Drug (Route of Administration) | Effect of Nitisinone on the Pharmacokinetics of Co-administered Drug b |  |
+| Co-administered Druga | Dose of Co-administered Drug (Route of Administration) | Effect of Nitisinone on the Pharmacokinetics of Co-administered Drugb |  |
 | --- | --- | --- | --- |
 | AUC0-∞ | Cmax |  |  |
 | CYP2C9 Substrate Tolbutamide c | 500 mg (oral) | 131% ↑ | 16% ↑ |
 | CYP2E1 Substrate Chlorzoxazone | 250 mg (oral) | 27% ↓ | 18% ↓ |
 | OAT1/3 Substrate Furosemide | 20 mg (intravenous) | 72% ↑ | 12% ↑ |
 | ↑ = Increased; ↓ = Decreased |  |  |  |
-| a The interacting drug was administered alone on Day 1 and together with ORFADIN on Day 17. |  |  |  |
-| b Multiple doses of 80 mg ORFADIN were administered daily alone from Day 3 to Day 16. |  |  |  |
-| c 16 subjects in Period 2 received ORFADIN and tolbutamide while 18 subjects in Period 1 received ORFADIN alone. |  |  |  |
+| aThe interacting drug was administered alone on Day 1 and together with ORFADIN on Day 17. |  |  |  |
+| bMultiple doses of 80 mg ORFADIN were administered daily alone from Day 3 to Day 16. |  |  |  |
+| c16 subjects in Period 2 received ORFADIN and tolbutamide while 18 subjects in Period 1 received ORFADIN alone. |  |  |  |
 
-In Vitro Studies Where Drug Interaction Potential Was Not Further Evaluated Clinically
+In VitroStudies Where Drug Interaction Potential Was Not Further Evaluated Clinically
 
-In vitro studies showed that nitisinone does not inhibit CYP1A2, 2C19, or 3A4.
+In vitrostudies showed that nitisinone does not inhibit CYP1A2, 2C19, or 3A4.
 Nitisinone does not induce CYP1A2, 2B6 or 3A4/5.
 Nitisinone does not inhibit P-gp, BCRP, OATP1B1, OATP1B3 and OCT2-mediated transports at therapeutically relevant concentrations.

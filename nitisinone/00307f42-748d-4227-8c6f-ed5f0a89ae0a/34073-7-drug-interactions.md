@@ -1,7 +1,7 @@
 # 7 DRUG INTERACTIONS
 
 Nitisinone is a moderate CYP2C9 inhibitor, a weak CYP2E1 inducer and an inhibitor of OAT1/OAT3.
-Table 2 includes drugs with clinically important drug interactions when administered concomitantly with ORFADIN and instructions for preventing or managing them.
+Table 2includes drugs with clinically important drug interactions when administered concomitantly with ORFADIN and instructions for preventing or managing them.
 
 Table 2: Clinically Relevant Interactions Affecting Co-Administered Drugs
 

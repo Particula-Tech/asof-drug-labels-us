@@ -65,6 +65,6 @@ Once the bottle is prepared with the adapter:
 Administration of ORFADIN Capsules and Oral Suspension
 
 - Maintain dietary restriction of tyrosine and phenylalanine when taking ORFADIN.
-- Capsules: Take at least one hour before, or two hours after a meal [see Clinical Pharmacology (12.3)].
+- Capsules:Take at least one hour before, or two hours after a meal [see Clinical Pharmacology (12.3)].
   For patients who have difficulty swallowing the capsules and who are intolerant to the oral suspension [see Warnings and Precautions (5.3)], the capsules may be opened and the contents suspended in a small amount of water, formula or apple sauce immediately before use.
-- Oral suspension: Take without regard to meals [see Clinical Pharmacology (12.3)].
+- Oral suspension:Take without regard to meals [see Clinical Pharmacology (12.3)].

@@ -22,9 +22,9 @@ Important information about measuring ORFADIN oral suspension:
 
 Figure A
 
-If the adapter is not inserted in your bottle of ORFADIN oral suspension when you receive it, follow the instructions in “ How to prepare a bottle of ORFADIN oral suspension if the adapter is not inserted.”
+If the adapter is notinserted in your bottle of ORFADIN oral suspension when you receive it, follow the instructions in “ How to prepare a bottle of ORFADIN oral suspension if the adapter is not inserted.”
 
-If the adapter is inserted in your bottle of ORFADIN oral suspension when you receive it, follow the instructions in “ How to prepare a dose of ORFADIN oral suspension after the adapter is inserted.”
+If the adapter isinserted in your bottle of ORFADIN oral suspension when you receive it, follow the instructions in “ How to prepare a dose of ORFADIN oral suspension after the adapter is inserted.”
 
 How to prepare a bottle of ORFADIN oral suspension if the adapter is not inserted:
 
@@ -34,7 +34,7 @@ See “ How should I store ORFADIN oral suspension?” for instructions on how t
    ORFADIN oral suspension should be thrown away (discarded) 60 days after it is removed from the refrigerator and the adapter is inserted in the bottle.
    Write the discard date on the bottle label.
 
-| Shake the bottle well for at least 20 seconds until the solid cake of particles at the bottom of the bottle is dissolved (See Figure B). Check that there are no particles left at the bottom of the bottle. Foam will form in the bottle. | Figure B |
+| Shake the bottle well for at least 20 secondsuntil the solid cake of particles at the bottom of the bottle is dissolved (See Figure B). Check that there are no particles left at the bottom of the bottle. Foam will form in the bottle. | Figure B |
 | --- | --- |
 | Remove the child resistant screw cap by pushing it down firmly and turning it counter-clockwise (See Figure C). | Figure C |
 | Place the open bottle upright on a flat surface. Push the ribbed end of the adapter firmly into the neck of the bottle as far as it will go (See Figure D). Replace the child resistant screw cap on the bottle. Do not remove the adapter from the bottle after it is inserted. | Figure D |
@@ -45,7 +45,7 @@ How to prepare a dose of ORFADIN oral suspension after the adapter is inserted
 
 See “ How should I store ORFADIN oral suspension?” for instructions on how to store ORFADIN oral suspension after the adapter is inserted.
 
-| Shake the ORFADIN oral suspension bottle well for at least 5 seconds (See Figure E). Check that there are no particles left at the bottom of the bottle. Foam will form in the bottle. | Figure E |
+| Shake the ORFADIN oral suspension bottle well for at least 5 seconds(See Figure E). Check that there are no particles left at the bottom of the bottle. Foam will form in the bottle. | Figure E |
 | --- | --- |
 | Remove the child resistant screw cap right away by pushing it down firmly and turning it counter-clockwise (See Figure F). | Figure F |
 | Hold the oral syringe in one hand. With your other hand, fully push down (depress) the plunger (See Figure G). | Figure G |
@@ -70,7 +70,7 @@ How should I store ORFADIN oral suspension?
 
 Before the adapter is inserted into the bottle:
 
-- If the adapter has not been inserted into the bottle, store ORFADIN oral suspension in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- If the adapter has notbeen inserted into the bottle, store ORFADIN oral suspension in the refrigerator between 36°F to 46°F (2°C to 8°C).
 - Do not freeze ORFADIN oral suspension.
 
 After the adapter is inserted into the bottle:
@@ -81,15 +81,15 @@ After the adapter is inserted into the bottle:
 
 What are the ingredients in ORFADIN oral suspension?
 
-Active ingredient: nitisinone
+Active ingredient:nitisinone
 
-Inactive ingredients: hydroxypropyl methylcellulose, glycerol, polysorbate 80, sodium benzoate, citric acid monohydrate, trisodium citrate dihydrate, strawberry aroma (artificial) and purified water
+Inactive ingredients:hydroxypropyl methylcellulose, glycerol, polysorbate 80, sodium benzoate, citric acid monohydrate, trisodium citrate dihydrate, strawberry aroma (artificial) and purified water
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
 Manufactured by: Apotek Produktion & Laboratorier AB, Sweden
 
-Marketed by: Sobi, Inc 77 Fourth Avenue, 3 rd Floor, Waltham, MA 02451-7559
+Marketed by: Sobi, Inc 77 Fourth Avenue, 3 rdFloor, Waltham, MA 02451-7559
 
 © Swedish Orphan Biovitrum AB (publ).
 All rights reserved.
