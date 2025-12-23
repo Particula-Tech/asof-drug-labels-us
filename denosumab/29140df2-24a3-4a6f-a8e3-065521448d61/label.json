@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761456"
+  ],
+  "inn": "denosumab",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-2702-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "denosumab-mobz",
+      "name": "Boncresa"
+    }
+  ],
+  "setid": "29140df2-24a3-4a6f-a8e3-065521448d61",
+  "source": "dailymed"
+}

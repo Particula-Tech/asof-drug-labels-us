@@ -1,0 +1,246 @@
+# 6 ADVERSE REACTIONS
+
+The following serious adverse reactions are discussed below and also elsewhere in the labeling:
+
+- Severe Hypocalcemia and Mineral Metabolism Changes [see Warnings and Precautions (5.1)]
+- Hypersensitivity [see Warnings and Precautions (5.3)]
+- Osteonecrosis of the Jaw [see Warnings and Precautions (5.4)]
+- Atypical Subtrochanteric and Diaphyseal Femoral Fractures [see Warnings and Precautions (5.5)]
+- Multiple Vertebral Fractures (MVF) Following Treatment Discontinuation [see Warnings and Precautions (5.6)]
+- Serious Infections [see Warnings and Precautions (5.7)]
+- Dermatologic Adverse Reactions [see Warnings and Precautions (5.8)]
+
+The most common adverse reactions reported with denosumab products in patients with postmenopausal osteoporosis are back pain, pain in extremity, musculoskeletal pain, hypercholesterolemia, and cystitis.
+
+The most common adverse reactions reported with denosumab products in men with osteoporosis are back pain, arthralgia, and nasopharyngitis.
+
+The most common adverse reactions reported with denosumab products in patients with glucocorticoid-induced osteoporosis are back pain, hypertension, bronchitis, and headache.
+
+The most common (per patient incidence ≥ 10%) adverse reactions reported with denosumab products in patients with bone loss receiving androgen deprivation therapy for prostate cancer or adjuvant aromatase inhibitor therapy for breast cancer are arthralgia and back pain.
+Pain in extremity and musculoskeletal pain have also been reported in clinical trials.
+
+The most common adverse reactions leading to discontinuation of denosumab products in patients with postmenopausal osteoporosis are back pain and constipation.
+
+## 6.1 Clinical Trials Experience
+
+Because clinical studies are conducted under widely varying conditions, adverse reaction rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the rates observed in clinical practice.
+
+Treatment of Postmenopausal Women with Osteoporosis
+
+The safety of denosumab in the treatment of postmenopausal osteoporosis was assessed in a 3-year, randomized, double-blind, placebo-controlled, multinational study of 7808 postmenopausal women aged 60 to 91 years.
+A total of 3876 women were exposed to placebo and 3886 women were exposed to denosumab administered subcutaneously once every 6 months as a single 60 mg dose.
+All women were instructed to take at least 1000 mg of calcium and 400 IU of vitamin D supplementation per day.
+
+The incidence of all-cause mortality was 2.3% (n = 90) in the placebo group and 1.8% (n = 70) in the denosumab group.
+The incidence of nonfatal serious adverse events was 24.2% in the placebo group and 25.0% in the denosumab group.
+The percentage of patients who withdrew from the study due to adverse events was 2.1% and 2.4% for the placebo and denosumab groups, respectively.
+The most common adverse reactions reported with denosumab in patients with postmenopausal osteoporosis are back pain, pain in extremity, musculoskeletal pain, hypercholesterolemia, and cystitis.
+
+Adverse reactions reported in ≥ 2% of postmenopausal women with osteoporosis and more frequently in the denosumab-treated women than in the placebo-treated women are shown in the table below.
+
+Table 1.
+Adverse Reactions Occurring in ≥ 2% of Patients with Osteoporosis and More Frequently than in Placebo-treated Patients
+
+| Preferred Term | Denosumab (N = 3886)n (%) | Placebo(N = 3876)n (%) |
+| --- | --- | --- |
+| Back pain | 1347 (34.7) | 1340 (34.6) |
+| Pain in extremity | 453 (11.7) | 430 (11.1) |
+| Musculoskeletal pain | 297 (7.6) | 291 (7.5) |
+| Hypercholesterolemia | 280 (7.2) | 236 (6.1) |
+| Cystitis | 228 (5.9) | 225 (5.8) |
+| Vertigo | 195 (5.0) | 187 (4.8) |
+| Upper respiratory tract infection | 190 (4.9) | 167 (4.3) |
+| Edema peripheral | 189 (4.9) | 155 (4.0) |
+| Sciatica | 178 (4.6) | 149 (3.8) |
+| Bone pain | 142 (3.7) | 117 (3.0) |
+| Abdominal pain upper | 129 (3.3) | 111 (2.9) |
+| Anemia | 129 (3.3) | 107 (2.8) |
+| Insomnia | 126 (3.2) | 122 (3.1) |
+| Myalgia | 114 (2.9) | 94 (2.4) |
+| Angina pectoris | 101 (2.6) | 87 (2.2) |
+| Rash | 96 (2.5) | 79 (2.0) |
+| Pharyngitis | 91 (2.3) | 78 (2.0) |
+| Asthenia | 90 (2.3) | 73 (1.9) |
+| Pruritus | 87 (2.2) | 82 (2.1) |
+| Flatulence | 84 (2.2) | 53 (1.4) |
+| Spinal osteoarthritis | 82 (2.1) | 64 (1.7) |
+| Gastroesophageal reflux disease | 80 (2.1) | 66 (1.7) |
+| Herpes zoster | 79 (2.0) | 72 (1.9) |
+
+Hypocalcemia
+
+Decreases in serum calcium levels to less than 8.5 mg/dL at any visit were reported in 0.4% women in the placebo group and 1.7% women in the denosumab group.
+The nadir in serum calcium level occurred at approximately day 10 after denosumab dosing in subjects with normal renal function.
+
+In clinical studies, subjects with impaired renal function were more likely to have greater reductions in serum calcium levels compared to subjects with normal renal function.
+In a study of 55 subjects with varying degrees of renal function, serum calcium levels < 7.5 mg/dL or symptomatic hypocalcemia were observed in 5 subjects.
+These included no subjects in the normal renal function group, 10% of subjects in the creatinine clearance 50 to 80 mL/min group, 29% of subjects in the creatinine clearance < 30 mL/min group, and 29% of subjects in the hemodialysis group.
+These subjects did not receive calcium and vitamin D supplementation.
+In a study of 4550 postmenopausal women with osteoporosis, the mean change from baseline in serum calcium level 10 days after denosumab dosing was -5.5% in subjects with creatinine clearance < 30 mL/min vs. -3.1% in subjects with creatinine clearance ≥ 30 mL/min.
+
+Serious Infections
+
+Receptor activator of nuclear factor kappa-B ligand (RANKL) is expressed on activated T and B lymphocytes and in lymph nodes.
+Therefore, a RANKL inhibitor such as denosumab products may increase the risk of infection.
+
+In the clinical study of 7808 postmenopausal women with osteoporosis, the incidence of infections resulting in death was 0.2% in both placebo and denosumab treatment groups.
+However, the incidence of nonfatal serious infections was 3.3% in the placebo and 4.0% in the denosumab groups.
+Hospitalizations due to serious infections in the abdomen (0.7% placebo vs. 0.9% denosumab), urinary tract (0.5% placebo vs. 0.7% denosumab), and ear (0.0% placebo vs. 0.1% denosumab) were reported.
+Endocarditis was reported in no placebo patients and 3 patients receiving denosumab.
+
+Skin infections, including erysipelas and cellulitis, leading to hospitalization were reported more frequently in patients treated with denosumab (< 0.1% placebo vs. 0.4% denosumab).
+
+The incidence of opportunistic infections was similar to that reported with placebo.
+
+Dermatologic Adverse Reactions
+
+A significantly higher number of patients treated with denosumab developed epidermal and dermal adverse events (such as dermatitis, eczema, and rashes), with these events reported in 8.2% of the placebo and 10.8% of the denosumab groups (p < 0.0001).
+Most of these events were not specific to the injection site [see Warnings and Precautions (5.8)].
+
+Osteonecrosis of the Jaw
+
+ONJ has been reported in the osteoporosis clinical trial program in patients treated with denosumab [see Warnings and Precautions (5.4)].
+
+Atypical Subtrochanteric and Diaphyseal Femoral Fractures
+
+In the osteoporosis clinical trial program, atypical femoral fractures were reported in patients treated with denosumab.
+The duration of denosumab exposure to time of atypical femoral fracture diagnosis was as early as 2&frac12; years [see Warnings and Precautions (5.5)].
+
+Multiple Vertebral Fractures (MVF) Following Treatment Discontinuation
+
+In the osteoporosis clinical trial program, multiple vertebral fractures were reported in patients after discontinuation of denosumab.
+In the phase 3 trial in women with postmenopausal osteoporosis, 6% of women who discontinued denosumab and remained in the study developed new vertebral fractures, and 3% of women who discontinued denosumab and remained in the study developed multiple new vertebral fractures.
+The mean time to onset of multiple vertebral fractures was 17 months (range: 7 to 43 months) after the last injection of denosumab.
+Prior vertebral fracture was a predictor of multiple vertebral fractures after discontinuation [see Warnings and Precautions (5.6)].
+
+Pancreatitis
+
+Pancreatitis was reported in 4 patients (0.1%) in the placebo and 8 patients (0.2%) in the denosumab groups.
+Of these reports, 1 patient in the placebo group and all 8 patients in the denosumab group had serious events, including one death in the denosumab group.
+Several patients had a prior history of pancreatitis.
+The time from product administration to event occurrence was variable.
+
+New Malignancies
+
+The overall incidence of new malignancies was 4.3% in the placebo and 4.8% in the denosumab groups.
+New malignancies related to the breast (0.7% placebo vs. 0.9% denosumab), reproductive system (0.2% placebo vs. 0.5% denosumab), and gastrointestinal system (0.6% placebo vs. 0.9% denosumab) were reported.
+A causal relationship to drug exposure has not been established.
+
+Treatment to Increase Bone Mass in Men with Osteoporosis
+
+The safety of denosumab in the treatment of men with osteoporosis was assessed in a 1-year randomized, double-blind, placebo-controlled study.
+A total of 120 men were exposed to placebo and 120 men were exposed to denosumab administered subcutaneously once every 6 months as a single 60 mg dose.
+All men were instructed to take at least 1000 mg of calcium and 800 IU of vitamin D supplementation per day.
+
+The incidence of all-cause mortality was 0.8% (n = 1) in the placebo group and 0.8% (n = 1) in the denosumab group.
+The incidence of nonfatal serious adverse events was 7.5% in the placebo group and 8.3% in the denosumab group.
+The percentage of patients who withdrew from the study due to adverse events was 0% and 2.5% for the placebo and denosumab groups, respectively.
+
+Adverse reactions reported in ≥ 5% of men with osteoporosis and more frequently with denosumab than in the placebo-treated patients were: back pain (6.7% placebo vs. 8.3% denosumab), arthralgia (5.8% placebo vs. 6.7% denosumab), and nasopharyngitis (5.8% placebo vs. 6.7% denosumab).
+
+Serious Infections
+
+Serious infection was reported in 1 patient (0.8%) in the placebo group and no patients in the denosumab group.
+
+Dermatologic Adverse Reactions
+
+Epidermal and dermal adverse events (such as dermatitis, eczema, and rashes) were reported in 4 patients (3.3%) in the placebo group and 5 patients (4.2%) in the denosumab group.
+
+Osteonecrosis of the Jaw
+
+No cases of ONJ were reported.
+
+Pancreatitis
+
+Pancreatitis was reported in 1 patient (0.8%) in the placebo group and 1 patient (0.8%) in the denosumab group.
+
+New Malignancies
+
+New malignancies were reported in no patients in the placebo group and 4 (3.3%) patients (3 prostate cancers, 1 basal cell carcinoma) in the denosumab group.
+
+Treatment of Glucocorticoid-Induced Osteoporosis
+
+The safety of denosumab in the treatment of glucocorticoid-induced osteoporosis was assessed in the 1-year, primary analysis of a 2-year randomized, multicenter, double-blind, parallel-group, active-controlled study of 795 patients (30% men and 70% women) aged 20 to 94 (mean age of 63 years) treated with greater than or equal to 7.5 mg/day oral prednisone (or equivalent).
+A total of 384 patients were exposed to 5 mg oral daily bisphosphonate (active-control) and 394 patients were exposed to denosumab administered once every 6 months as a 60 mg subcutaneous dose.
+All patients were instructed to take at least 1000 mg of calcium and 800 IU of vitamin D supplementation per day.
+
+The incidence of all-cause mortality was 0.5% (n = 2) in the active-control group and 1.5% (n = 6) in the denosumab group.
+The incidence of serious adverse events was 17% in the active-control group and 16% in the denosumab group.
+The percentage of patients who withdrew from the study due to adverse events was 3.6% and 3.8% for the active-control and denosumab groups, respectively.
+
+Adverse reactions reported in ≥ 2% of patients with glucocorticoid-induced osteoporosis and more frequently with denosumab than in the active-control-treated patients are shown in the table below.
+
+Table 2.
+Adverse Reactions Occurring in ≥ 2% of Patients with Glucocorticoid-induced Osteoporosis and More Frequently with Denosumab than in Active-Control-treated Patients
+
+| Preferred Term | Denosumab(N = 394) n (%) | Oral Daily Bisphosphonate (Active-Control) (N = 384) n (%) |
+| --- | --- | --- |
+| Back pain | 18 (4.6) | 17 (4.4) |
+| Hypertension | 15 (3.8) | 13 (3.4) |
+| Bronchitis | 15 (3.8) | 11 (2.9) |
+| Headache | 14 (3.6) | 7 (1.8) |
+| Dyspepsia | 12 (3.0) | 10 (2.6) |
+| Urinary tract infection | 12 (3.0) | 8 (2.1) |
+| Abdominal pain upper | 12 (3.0) | 7 (1.8) |
+| Upper respiratory tract infection | 11 (2.8) | 10 (2.6) |
+| Constipation | 11 (2.8) | 6 (1.6) |
+| Vomiting | 10 (2.5) | 6 (1.6) |
+| Dizziness | 9 (2.3) | 8 (2.1) |
+| Fall | 8 (2.0) | 7 (1.8) |
+| Polymyalgia rheumatica* | 8 (2.0) | 1 (0.3) |
+
+*Events of worsening of underlying polymyalgia rheumatica.
+
+Osteonecrosis of the Jaw
+
+No cases of ONJ were reported.
+
+Atypical Subtrochanteric and Diaphyseal Femoral Fractures
+
+Atypical femoral fractures were reported in 1 patient treated with denosumab.
+The duration of denosumab exposure to time of atypical femoral fracture diagnosis was at 8.0 months [see Warnings and Precautions (5.5)].
+
+Serious Infections
+
+Serious infection was reported in 15 patients (3.9%) in the active-control group and 17 patients (4.3%) in the denosumab group.
+
+Dermatologic Adverse Reactions
+
+Epidermal and dermal adverse events (such as dermatitis, eczema, and rashes) were reported in 16 patients (4.2%) in the active-control group and 15 patients (3.8%) in the denosumab group.
+
+Treatment of Bone Loss in Patients Receiving Androgen Deprivation Therapy for Prostate Cancer or Adjuvant Aromatase Inhibitor Therapy for Breast Cancer
+
+The safety of denosumab in the treatment of bone loss in men with nonmetastatic prostate cancer receiving androgen deprivation therapy (ADT) was assessed in a 3-year, randomized, double-blind, placebo-controlled, multinational study of 1468 men aged 48 to 97 years.
+A total of 725 men were exposed to placebo and 731 men were exposed to denosumab administered once every 6 months as a single 60 mg subcutaneous dose.
+All men were instructed to take at least 1000 mg of calcium and 400 IU of vitamin D supplementation per day.
+
+The incidence of serious adverse events was 30.6% in the placebo group and 34.6% in the denosumab group.
+The percentage of patients who withdrew from the study due to adverse events was 6.1% and 7.0% for the placebo and denosumab groups, respectively.
+
+The safety of denosumab in the treatment of bone loss in women with nonmetastatic breast cancer receiving aromatase inhibitor (AI) therapy was assessed in a 2-year, randomized, double-blind, placebo-controlled, multinational study of 252 postmenopausal women aged 35 to 84 years.
+A total of 120 women were exposed to placebo and 129 women were exposed to denosumab administered once every 6 months as a single 60 mg subcutaneous dose.
+All women were instructed to take at least 1000 mg of calcium and 400 IU of vitamin D supplementation per day.
+
+The incidence of serious adverse events was 9.2% in the placebo group and 14.7% in the denosumab group.
+The percentage of patients who withdrew from the study due to adverse events was 4.2% and 0.8% for the placebo and denosumab groups, respectively.
+
+Adverse reactions reported in ≥ 10% of denosumab-treated patients receiving ADT for prostate cancer or adjuvant AI therapy for breast cancer, and more frequently than in the placebo-treated patients were: arthralgia (13.0% placebo vs. 14.3% denosumab) and back pain (10.5% placebo vs. 11.5% denosumab).
+Pain in extremity (7.7% placebo vs. 9.9% denosumab) and musculoskeletal pain (3.8% placebo vs. 6.0% denosumab) have also been reported in clinical trials.
+Additionally, in denosumab-treated men with nonmetastatic prostate cancer receiving ADT, a greater incidence of cataracts was observed (1.2% placebo vs. 4.7% denosumab).
+Hypocalcemia (serum calcium < 8.4 mg/dL) was reported only in denosumab-treated patients (2.4% vs. 0.0%) at the month 1 visit.
+
+## 6.2 Postmarketing Experience
+
+Because postmarketing reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+
+The following adverse reactions have been identified during post approval use of denosumab products:
+
+- Drug-related hypersensitivity reactions: anaphylaxis, rash, urticaria, facial swelling, and erythema
+- Hypocalcemia: severe symptomatic hypocalcemia resulting in hospitalization, life-threatening events, and fatal cases
+- Musculoskeletal pain, including severe cases
+- Parathyroid hormone (PTH): Marked elevation in serum PTH in patients with severe renal impairment (creatinine clearance < 30 mL/min) or receiving dialysis
+- Multiple vertebral fractures following treatment discontinuation
+- Cutaneous and mucosal lichenoid drug eruptions (e.g., lichen planus-like reactions)
+- Alopecia
+- Vasculitis (e.g., ANCA positive vasculitis, leukocytoclastic vasculitis)
+- Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome
