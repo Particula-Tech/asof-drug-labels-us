@@ -30,9 +30,10 @@ Safety and effectiveness in pediatric patients have not been established.
 
 ## 8.5 Geriatric Use
 
-Geriatric patients 65 years of age and older may be more sensitive to the anticholinergic adverse reactions of glycopyrrolate leading to complications of urinary retention, bowel obstruction, heat prostration, arrhythmias, delirium, and falls or fractures;therefore, DARTISLA ODT is not recommended in geriatric patients and may be contraindicated in some geriatric patients with underlying medical conditions [see Contraindications (4) and Warnings and Precautions (5)].
+Geriatric patients 65 years of age and older may be more sensitive to the anticholinergic adverse reactions of glycopyrrolate leading to complications of urinary retention, bowel obstruction, heat prostration, arrhythmias, delirium, and falls or fractures; therefore, DARTISLA ODT is not recommended in geriatric patients and may be contraindicated in some geriatric patients with underlying medical conditions [see Contraindications (4) and Warnings and Precautions (5)].
 
 ## 8.6 Renal Impairment
 
 Glycopyrrolate is substantially excreted by the kidney [see Clinical Pharmacology (12.3)].
-Monitor patients with renal impairment for anticholinergic adverse reactions [see Adverse Reactions (6)].If anticholinergic adverse reactions occur, discontinue DARTISLA ODT.
+Monitor patients with renal impairment for anticholinergic adverse reactions [see Adverse Reactions (6)].
+If anticholinergic adverse reactions occur, discontinue DARTISLA ODT.

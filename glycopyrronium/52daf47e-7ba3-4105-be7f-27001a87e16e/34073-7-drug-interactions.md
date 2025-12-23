@@ -4,7 +4,7 @@
 
 There is potential for an additive interaction between glycopyrrolate and concomitantly used anticholinergic drugs (e.g., tricyclic antidepressants, anti-epileptics, class I antiarrhythmics, anti-spasmodics, amantadine) resulting in increased anticholinergic adverse reactions.
 Coadministration of antipsychotics with glycopyrrolate may lead to worsening of tardive dyskinesia.
-DARTISLA ODT is not recommended in patients taking other anticholinergic drugs [see Warnings and Precautions (5.3, 5.4, 5.6)].
+DARTISLA ODT is not recommended in patients taking other anticholinergic drugs [see Warnings and Precautions (5.3,5.4,5.6)].
 
 ## 7.2 Drugs with Altered Absorption due to Decreased Gastrointestinal Motility and Increased Transit Time
 

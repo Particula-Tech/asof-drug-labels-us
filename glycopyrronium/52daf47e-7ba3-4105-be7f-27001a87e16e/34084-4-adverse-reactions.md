@@ -13,22 +13,22 @@ The following serious or otherwise important adverse reactions are discussed els
 The following adverse reactions associated with the use of glycopyrrolate, or other anticholinergic drugs, were identified in clinical studies or postmarketing reports.
 Because some of these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Cardiac Disorders: chest, pain, hypertension, tachycardia
+Cardiac Disorders:chest, pain, hypertension, tachycardia
 
-Endocrine Disorders: decreased sweating
+Endocrine Disorders:decreased sweating
 
-Eye Disorders: blurred vision, cycloplegia, dilatation of the pupil, increased ocular tension
+Eye Disorders:blurred vision, cycloplegia, dilatation of the pupil, increased ocular tension
 
-Gastrointestinal Disorders: bloated feeling, constipation, dry mouth, dysgeusia, nausea, vomiting
+Gastrointestinal Disorders:bloated feeling, constipation, dry mouth, dysgeusia, nausea, vomiting
 
 Immune System Disorders: anaphylaxis [see Contraindications (4)]
 
 Nervous System Disorders: agitation, dizziness, drowsiness, headache, insomnia, mental confusion, nervousness, weakness
 
-Respiratory Disorders: respiratory depression, throat irritation
+Respiratory Disorders:respiratory depression, throat irritation
 
-Renal and Urinary Disorders: urinary hesitancy, urinary retention
+Renal and Urinary Disorders:urinary hesitancy, urinary retention
 
-Reproductive System and Breast Disorders: impotence, suppression of lactation
+Reproductive System and Breast Disorders:impotence, suppression of lactation
 
-Vascular Disorders: flushing
+Vascular Disorders:flushing

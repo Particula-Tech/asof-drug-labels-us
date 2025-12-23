@@ -28,7 +28,7 @@ Discontinue DARTISLA ODT if signs or symptoms of cognitive or visual impairment 
 
 In the presence of a high environmental temperature, heat prostration resulting in fever and heat stroke can occur with use of DARTISLA ODT due to decreased sweating, particularly in geriatric patients [see Adverse Reactions (6)].
 Advise patients to avoid exposure to hot or very warm environmental temperatures when taking DARTISLA ODT.
-DARTISLA ODT is not recommended in geriatric patients [see Warnings and Precautions (5.7)].
+DARTISLA ODT is not recommended in geriatric patients [seeWarnings and Precautions (5.7)].
 
 ## 5.6 Other Conditions Exacerbated by Anticholinergic Adverse Reactions
 

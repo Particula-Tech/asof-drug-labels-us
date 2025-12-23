@@ -12,16 +12,16 @@ No formal pharmacodynamic studies have been conducted with DARTISLA ODT.
 
 Absorption
 
-After DARTISLA ODT administration under fasted conditions, the mean (SD) Cmax was 390 (±237) pg/mL, and the mean AUC0-t and AUC0-inf was 1862 (±1116) and 1977 (± 1171) pg·hr/mL, respectively.
+After DARTISLA ODT administration under fasted conditions, the mean (SD) C maxwas 390 (±237) pg/mL, and the mean AUC 0-tand AUC 0-infwas 1862 (±1116) and 1977 (± 1171) pg·hr/mL, respectively.
 The median time to maximum plasma concentration was 3 hours.
-After DARTISLA ODT 1.7 mg administration, the Cmax and AUC of glycopyrrolate were comparable to an oral 2 mg glycopyrrolate tablet [see Dosage and Administration (2.2)].
+After DARTISLA ODT 1.7 mg administration, the C maxand AUC of glycopyrrolate were comparable to an oral 2 mg glycopyrrolate tablet [see Dosage and Administration (2.2)].
 
-When DARTISLA ODT was placed in the mouth and immediately swallowed with 240 mL water, the mean Cmax and AUC of glycopyrrolate decreased by 24% and 20%, respectively, compared to administration without water [see Dosage and Administration (2.2)].
+When DARTISLA ODT was placed in the mouth and immediately swallowed with 240 mL water, the mean C maxand AUC of glycopyrrolate decreased by 24% and 20%, respectively, compared to administration without water [see Dosage and Administration (2.2)].
 
 Effect of Food
 
 In healthy adults, a high-fat, high-calorie meal (939 calories, 60% fat) significantly reduced the absorption of glycopyrrolate following administration of DARTISLA ODT 1.7 mg.
-The mean Cmax and AUC were approximately 83% and 77% lower, respectively, than those observed under fasted conditions [see Dosage and Administration (2.2)].
+The mean C maxand AUC were approximately 83% and 77% lower, respectively, than those observed under fasted conditions [see Dosage and Administration (2.2)].
 
 Elimination After DARTISLA ODT 1.7 mg administration, the mean plasma half-life was 2.8 hours.
 Specific Populations Patients with Renal Impairment In published literature, glycopyrrolate 4 mcg/kg was administered intravenously (DARTISLA ODT is not recommended for intravenous use) in uremic patients undergoing renal transplantation surgery.
