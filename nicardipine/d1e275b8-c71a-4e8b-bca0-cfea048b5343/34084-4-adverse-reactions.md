@@ -96,3 +96,5 @@ Respiratory: rhinitis, sinusitis
 Special Senses: tinnitus, abnormal vision, blurred vision
 
 Urogenital: increased urinary frequency
+
+To report SUSPECTED ADVERSE REACTIONS, contact ANI Pharmaceuticals, Inc. at 1-855-204-1431 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
