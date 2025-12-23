@@ -91,9 +91,9 @@ How should I store Otrexup?
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Mfd. for Otter Pharmaceuticals, LLC.
+Mfd. for Assertio Specialty Pharmaceuticals, LLC.
 Lake Forest, IL 60045
 
 9/2024
 
-PII-13-001 V11
+PII-13-001 V12

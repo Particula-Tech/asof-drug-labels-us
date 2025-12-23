@@ -46,12 +46,12 @@ Proper Storage and Disposal
 Advise patients to store Otrexup at room temperature (68 to 77°F or 20 to 25°C).
 Inform patients and caregivers of the need for proper disposal after use, including the use of a sharps disposal container.
 
-Address Medical Inquiries to: Otter Pharmaceuticals, LLC 100 S. Saunders Road Lake Forest, IL 60045 USA
+Address Medical Inquiries to: Assertio Specialty Pharmaceuticals, LLC 100 S. Saunders Road Lake Forest, IL 60045 USA
 
 1-855-Otrexup (1-855-687-3987)
 
-Manufactured for: Otter Pharmaceuticals, LLC 100 S. Saunders Road Lake Forest, IL 60045, USA
+Manufactured for: Assertio Specialty Pharmaceuticals, LLC 100 S. Saunders Road Lake Forest, IL 60045, USA
 
 Otrexup™ is the subject of US Patent Nos. 8,021,335, 6,746,429, 8,480,631, 8,562,564, 8,579,865, and 8,945,063.
 
-©2024 Otter Pharmaceuticals, LLC
+©2024 Assertio Specialty Pharmaceuticals, LLC

@@ -190,8 +190,8 @@ Inactive ingredients: hydrochloric acid, sodium chloride, sodium hydroxide and w
 
 This Patient Information has been approved by the U.S. Food and Drug Administration.
 
-Manufactured for: Otter Pharmaceuticals, LLC 100 S. Saunders Road Lake Forest, IL 60045 USA
+Manufactured for: Assertio Specialty Pharmaceuticals, LLC 100 S. Saunders Road Lake Forest, IL 60045 USA
 
-©2024 Otter Pharmaceuticals, LLC, Lake Forest, IL 60045
+©2024 Assertio Specialty Pharmaceuticals, LLC, Lake Forest, IL 60045
 
 Issued: 9/2024
