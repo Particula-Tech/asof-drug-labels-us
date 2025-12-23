@@ -16,7 +16,7 @@ In placebo-controlled trials, discontinuation of therapy due to clinical adverse
 
 The most common reasons for discontinuation of therapy with candesartan cilexetil were headache (0.6%) and dizziness (0.3%).
 
-The adverse events that occurred in placebo-controlled clinical trials in at least 1% of patients treated with candesartan cilexetil and at a higher incidence in candesartan cilexetil (n = 2350) than placebo (n = 1027) patients included back pain (3% vs. 2%), dizziness (4% vs. 3%), upper respiratory tract infection (6% vs. 4%), pharyngitis (2% vs. 1%), and rhinitis (2% vs. 1%).
+The adverse events that occurred in placebo-controlled clinical trials in at least 1% of patients treated with candesartan cilexetil tablets and at a higher incidence in candesartan cilexetil (n = 2350) than placebo (n = 1027) patients included back pain (3% vs. 2%), dizziness (4% vs. 3%), upper respiratory tract infection (6% vs. 4%), pharyngitis (2% vs. 1%), and rhinitis (2% vs. 1%).
 
 Pediatric Hypertension
 

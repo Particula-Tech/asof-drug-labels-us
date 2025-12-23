@@ -159,7 +159,7 @@ This leaflet summarizes the most important information about candesartan cilexet
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about candesartan cilexetil that is written for health professionals.
 
-For more information visit www.anipharmaceuticals.com or call 1-800-308-6755.
+For more information visit www.anipharmaceuticals.com or call 1-855-204-1431.
 
 What are the ingredients in candesartan cilexetil?
 
