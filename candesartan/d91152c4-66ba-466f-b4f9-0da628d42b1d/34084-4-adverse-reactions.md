@@ -49,3 +49,5 @@ Skin: erythema multiforme including Stevens-Johnson syndrome, exfoliative dermat
 Special Senses: transient blurred vision, xanthopsia
 
 Urogenital: impotence
+
+To report SUSPECTED ADVERSE REACTIONS, contact ANI Pharmaceuticals, Inc. at 1-855-204-1431 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.

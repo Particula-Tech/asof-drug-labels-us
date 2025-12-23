@@ -22,4 +22,4 @@ Distributed by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
 ATACAND HCT is a registered trademark of the AstraZeneca group of companies and is licensed to ANI Pharmaceuticals.
 
-10114 Rev 05/20
+10114 Rev 07/25
