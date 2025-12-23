@@ -24,12 +24,12 @@ If a CYP3A4 inducer is discontinued, consider hydrocodone bitartrate and ibuprof
 
 Benzodiazepines and Other Central Nervous System (CNS) Depressants
 
-Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants such as benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, and other opioids, including alcohol, increase the risk of hypotension, respiratory depression, profound sedation, coma, and death.
+Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants such as benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids (gabapentin or pregabalin) and other opioids, including alcohol, increase the risk of hypotension, respiratory depression, profound sedation, coma, and death.
 
 Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 Limit dosages and durations to the minimum required.
 Inform patients and caregivers of this potential interaction, educate them on the signs and symptoms of respiratory depression (including sedation).
-If concomitant use is warranted, consider prescribing naloxone for the emergency treatment of opioid overdose (see WARNINGS).
+If concomitant use is warranted, consider recommending or prescribing an opioid overdose reversal agent (see WARNINGS, DOSAGE AND ADMINISTRATION).
 
 Serotonergic Drugs
 
@@ -58,7 +58,9 @@ Muscle Relaxants
 Hydrocodone, as well as other opioid analgesics, may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression.
 
 Because respiratory depression may be greater than otherwise expected decrease the dosage of hydrocodone bitartrate and ibuprofen and/or the muscle relaxant as necessary.
-Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider prescribing naloxone for the emergency treatment of opioid overdose (see WARNINGS).
+Due to the risk of respiratory depression with concomitant use of skeletal muscle relaxants and opioids, consider recommending or prescribing an opioid overdose reversal agent (see WARNINGS; DOSAGE AND ADMINISTRATION).
+
+Examples: Cyclobenzaprine, metaxalone.
 
 Anticholinergic Drugs
 
@@ -233,7 +235,7 @@ Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage 
 Labor and Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Monitor neonates exposed to opioid analgesics during labor for signs of excess sedation and respiratory depression.
 There are no studies on the effects of hydrocodone bitartrate and ibuprofen during labor or delivery.
 In animal studies, NSAIDs, including ibuprofen, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of stillbirth.

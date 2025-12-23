@@ -20,7 +20,7 @@ Reserve concomitant prescribing of hydrocodone bitartrate and ibuprofen and benz
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
+Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
 Ensure that management by neonatology experts will be available at delivery (see WARNINGS).
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
