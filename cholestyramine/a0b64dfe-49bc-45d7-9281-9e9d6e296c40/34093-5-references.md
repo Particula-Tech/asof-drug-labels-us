@@ -20,12 +20,8 @@
 
 To report SUSPECTED ADVERSE REACTIONS, contact Ajanta Pharma USA Inc. at 855-664-7744 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
-Marketed by:
+Product of Romania
 
-Ajanta Pharma USA Inc.
+Manufactured by: Ajanta Pharma Limited, India Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
 
-Bridgewater, NJ 08807.
-
-Made in India.
-
-Revised: 09/2021
+Revised: 10/2025

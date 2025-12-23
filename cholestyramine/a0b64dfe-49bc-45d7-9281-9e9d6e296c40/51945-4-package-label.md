@@ -8,7 +8,9 @@ POWDER
 
 Each 9 g sachet contains 4 grams of Cholestyramine resin, USP
 
-Rx Only NDC 27241-134-51
+Rx Only
+
+NDC 27241-134-51
 
 Cholestyramine for Oral Suspension, USP
 
