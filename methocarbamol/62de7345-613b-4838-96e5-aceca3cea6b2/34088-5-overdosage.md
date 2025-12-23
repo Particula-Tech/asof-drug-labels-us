@@ -1,0 +1,17 @@
+# 10 OVERDOSAGE
+
+Clinical Presentation
+
+Deaths have been reported with an overdose of methocarbamol alone and when methocarbamol was used with other CNS depressants, including alcohol.
+Limited information is available on the acute toxicity of methocarbamol.
+Symptoms of overdose include the following: respiratory depression, nausea, drowsiness, blurred vision, hypotension, seizures, coma, and death.
+Other CNS depressants (e.g., benzodiazepines, opioids, tricyclic antidepressants) can have an additive effect, even when taken at recommended dosages.
+
+Treatment of Overdose
+
+The standard of treatment is supportive care, including monitoring for CNS and respiratory depression and managing airway as needed, monitoring urinary output and vital signs, and administration of intravenous fluids if necessary.
+
+Hypotension should be treated with intravenous fluids and vasopressors as needed.
+Gastrointestinal decontamination procedures (including emesis) should generally be avoided because aspiration may result from CNS depression and seizures.
+Extracorporeal elimination such as hemodialysis or plasmapheresis has no proven clinical benefit.
+Consider contacting the Poison Help line (1-800-222-1222) or a medical toxicologist for additional overdose management recommendations.

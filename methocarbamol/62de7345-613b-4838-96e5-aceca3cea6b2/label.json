@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA219843"
+  ],
+  "inn": "methocarbamol",
+  "labeler": "Metacel Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "69528-701-05"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "methocarbamol",
+      "name": "ATMEKSI"
+    }
+  ],
+  "setid": "62de7345-613b-4838-96e5-aceca3cea6b2",
+  "source": "dailymed"
+}
