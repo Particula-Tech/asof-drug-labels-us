@@ -159,7 +159,7 @@ This leaflet summarizes the most important information about ATACAND.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about ATACAND that is written for health professionals.
 
-For more information, visit www.anipharmaceuticals.com or call 1-800-308-6755.
+For more information, visit www.anipharmaceuticals.com or call 1-855-204-1431.
 
 What are the ingredients in ATACAND?
 
@@ -188,4 +188,4 @@ ATACAND is a registered trademark of the AstraZeneca group of companies and is l
 
 All brand names listed are the registered trademarks of their respective owners and are not trademarks of ANI Pharmaceuticals, Inc.
 
-Issued: 06/2020
+Issued: 07/2025
