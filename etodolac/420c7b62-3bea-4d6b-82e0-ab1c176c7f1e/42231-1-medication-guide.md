@@ -128,10 +128,9 @@ It may harm them.
 If you would like more information about NSAIDs, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
 
-This Medication Guide has been approved by the U.S. Food and Drug Administration.
-
-For more information, go to www.anipharmaceuticals.com or call 1-800-308-6755.
-
 Manufactured by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-9660 Rev 11/20
+For more information, go to www.anipharmaceuticals.com or call 1-855-204-1431.
+
+This Medication Guide has been approved by the U.S. Food and Drug Administration.
+Revised: October 2025
