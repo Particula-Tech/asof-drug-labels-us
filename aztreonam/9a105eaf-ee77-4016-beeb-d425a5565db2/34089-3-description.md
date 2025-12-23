@@ -8,6 +8,7 @@ The monobactams, having a unique monocyclic beta-lactam nucleus, are structurall
 The sulfonic acid substituent in the 1-position of the ring activates the beta-lactam moiety; an aminothiazolyl oxime side chain in the 3-position and a methyl group in the 4-position confer the specific antibacterial spectrum and beta-lactamase stability.
 
 Aztreonam is designated chemically as (Z)-2-[[[(2-amino-4-thiazolyl)[[(2S,3S)-2-methyl-4-oxo-1-sulfo-3-azetidinyl]carbamoyl]methylene]amino]oxy]-2-methylpropionic acid.
+
 Structural formula:
 
 C13H17N5O8S2 MW 435.44

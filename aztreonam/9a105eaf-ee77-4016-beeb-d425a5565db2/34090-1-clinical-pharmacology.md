@@ -33,7 +33,7 @@ About 12% of a single intravenous radiolabeled dose was recovered in the feces.
 Unchanged aztreonam and the inactive beta-lactam ring hydrolysis product of aztreonam were present in feces and urine.
 
 Intravenous or intramuscular administration of a single 500 mg or 1 g dose of AZACTAM every 8 hours for 7 days to healthy subjects produced no apparent accumulation of aztreonam or modification of its disposition characteristics; serum protein binding averaged 56% and was independent of dose.
-An average of about 6% of a 1 g intramuscular dose was excreted as a microbiologically inactive open beta-lactam ring hydrolysis product (serum half-life approximately 26 hours) of aztreonam in the 0- to 8-hour urine collection on the last day of multiple dosing.
+An average of about 6% of a 1 g intramuscular dose was excreted as a microbiologically inactive open beta-lactam ring hydrolysis product (serum half-life approximately 26 hours) of aztreonam in the 0‑ to 8-hour urine collection on the last day of multiple dosing.
 
 Renal function was monitored in healthy subjects given aztreonam; standard tests (serum creatinine, creatinine clearance, BUN, urinalysis, and total urinary protein excretion) as well as special tests (excretion of N-acetyl-β-glucosaminidase, alanine aminopeptidase, and β2-microglobulin) were used.
 No abnormal results were obtained.
@@ -80,26 +80,42 @@ Concomitant administration of probenecid or furosemide and aztreonam causes clin
 Single-dose intravenous pharmacokinetic studies have not shown any significant interaction between aztreonam and concomitantly administered gentamicin, nafcillin sodium, cephradine, clindamycin, or metronidazole.
 No reports of disulfiram-like reactions with alcohol ingestion have been noted; this is not unexpected since aztreonam does not contain a methyl-tetrazole side chain.
 
-## Microbiology
+Microbiology
 
-#### Mechanism of Action
+Mechanism of Action
 
 Aztreonam is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis.
 Aztreonam has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria.
 
-#### Mechanism of Resistance
+Mechanism of Resistance
 
 Resistance to aztreonam is primarily through hydrolysis by beta-lactamase, alteration of penicillin-binding proteins (PBPs), and decreased permeability.
 
-#### Interaction with Other Antimicrobials
+Interaction with Other Antimicrobials
 
 Aztreonam and aminoglycosides have been shown to be synergistic in vitro against most strains of P. aeruginosa, many strains of Enterobacteriaceae, and other Gram-negative aerobic bacilli.
 
-Aztreonam has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE5 section.
+Aztreonam has been shown to be active against most strains of the following microorganisms, both in vitro and in clinical infections as described in the INDICATIONS AND USAGE section.
 
 Aerobic Gram-negative microorganisms:
 
-Citrobacter species Enterobacter species Escherichia coli Haemophilus influenzae (including ampicillin-resistant and other penicillinase-producing strains) Klebsiella oxytoca Klebsiella pneumoniae Proteus mirabilis Pseudomonas aeruginosa Serratia species
+Citrobacter species
+
+Enterobacter species
+
+Escherichia coli
+
+Haemophilus influenzae (including ampicillin-resistant and other penicillinase-producing strains)
+
+Klebsiella oxytoca
+
+Klebsiella pneumoniae
+
+Proteus mirabilis
+
+Pseudomonas aeruginosa
+
+Serratia species
 
 The following in vitro data are available, but their clinical significance is unknown.
 At least 90% of the following microorganisms exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for aztreonam.
@@ -107,15 +123,27 @@ However, the efficacy of aztreonam in treating clinical infections due to these 
 
 Aerobic Gram-negative microorganisms:
 
-Aeromonas hydrophila Morganella morganii Neisseria gonorrhoeae (including penicillinase-producing strains) Pasteurella multocida Proteus vulgaris Providencia stuartii Providencia rettgeri Yersinia enterocolitica
+Aeromonas hydrophila
+
+Morganella morganii
+
+Neisseria gonorrhoeae (including penicillinase-producing strains)
+
+Pasteurella multocida Proteus vulgaris
+
+Providencia stuartii
+
+Providencia rettgeri
+
+Yersinia enterocolitica
 
 Aztreonam and aminoglycosides have been shown to be synergistic in vitro against most strains of P. aeruginosa, many strains of Enterobacteriaceae, and other Gram-negative aerobic bacilli.
 
 Alterations of the anaerobic intestinal flora by broad-spectrum antibiotics may decrease colonization resistance, thus permitting overgrowth of potential pathogens, eg, Candida and Clostridium species.
 Aztreonam has little effect on the anaerobic intestinal microflora in in vitro studies.
 Clostridium difficile and its cytotoxin were not found in animal models following administration of aztreonam.
-(See ADVERSE REACTIONS: Gastrointestinal.)
+(See ADVERSE REACTIONS:Gastrointestinal.)
 
-#### Susceptibility Testing
+Susceptibility Testing
 
 For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC.
