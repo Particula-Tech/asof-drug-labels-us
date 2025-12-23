@@ -99,7 +99,7 @@ For more information:
 
 - •Talk with your doctor.
 - •Ask your doctor or pharmacist for information about Nebivolol Tablets that is written for healthcare professionals.
-- •Visit www.anipharmaceuticals.com or call 1-800-308-6755.
+- •Visit www.anipharmaceuticals.com or call 1-800-204-1431.
 
 What is in Nebivolol Tablets?
 Active Ingredient: Nebivolol Inactive Ingredients: colloidal silicon dioxide, croscarmellose sodium, hypromellose, lactose monohydrate, magnesium stearate, microcrystalline cellulose, pregelatinized starch, polysorbate 80, and sodium lauryl sulfate
@@ -114,4 +114,4 @@ Medicines that lower your blood pressure lower your chance of having a stroke or
 
 Manufactured by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-10465 Rev 07/23
+10465 Rev 10/25

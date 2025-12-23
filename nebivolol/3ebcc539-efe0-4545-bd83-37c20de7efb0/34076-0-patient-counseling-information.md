@@ -20,4 +20,4 @@ All brand names listed are the registered trademarks of their respective owners 
 
 Manufactured by: ANI Pharmaceuticals, Inc. Baudette, MN 56623
 
-10465 Rev 07/23
+10465 Rev 10/25
