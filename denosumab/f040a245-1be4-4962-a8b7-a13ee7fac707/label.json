@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761457"
+  ],
+  "inn": "denosumab",
+  "labeler": "Amneal Pharmaceuticals LLC",
+  "package_ndcs": [
+    "70121-2701-1"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "denosumab-mobz",
+      "name": "Oziltus"
+    }
+  ],
+  "setid": "f040a245-1be4-4962-a8b7-a13ee7fac707",
+  "source": "dailymed"
+}
