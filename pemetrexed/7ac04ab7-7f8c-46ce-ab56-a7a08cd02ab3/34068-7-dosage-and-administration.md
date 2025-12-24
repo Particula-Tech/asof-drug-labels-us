@@ -1,24 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Recommended Dosage for Non-Squamous NSCLC
-
-- •The recommended dose of Pemetrexed Injection when administered with pembrolizumab and platinum chemotherapy for the initial treatment of metastatic non-squamous NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes administered after pembrolizumab and prior to carboplatin or cisplatin on Day 1 of each 21-day cycle for 4 cycles.
-  Following completion of platinum-based therapy, treatment with Pemetrexed Injection with or without pembrolizumab is administered until disease progression or unacceptable toxicity.
-  Please refer to the full prescribing information for pembrolizumab and for carboplatin or cisplatin.
-- •The recommended dose of Pemetrexed Injection when administered with cisplatin for initial treatment of locally advanced or metastatic non-squamous NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes administered prior to cisplatin on Day 1 of each 21-day cycle for up to six cycles in the absence of disease progression or unacceptable toxicity.
-- •The recommended dose of Pemetrexed Injection for maintenance treatment of non-squamous NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity after four cycles of platinum based first-line chemotherapy.
-- •The recommended dose of Pemetrexed Injection for treatment of recurrent non-squamous NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
-
-## 2.2 Recommended Dosage for Mesothelioma
-
-- •The recommended dose of Pemetrexed Injection when administered with cisplatin in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
-
-## 2.3 Renal Impairment
-
-- •Pemetrexed Injection dosing recommendations are provided for patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater [see Dosage and Administration (2.1, 2.2)].
-  There is no recommended dose for patients whose creatinine clearance is less than 45 mL/min [see Use in Specific Populations (8.6)].
-
-## 2.4 Premedication and Concomitant Medications to Mitigate Toxicity
+## 2.1 Premedication and Concomitant Medications to Mitigate Toxicity
 
 Vitamin Supplementation
 
@@ -31,14 +13,22 @@ Corticosteroids
 
 - •Administer dexamethasone 4 mg orally twice daily for three consecutive days, beginning the day before each Pemetrexed Injection administration.
 
-## 2.5 Dosage Modification of Ibuprofen in Patients with Mild to Moderate Renal Impairment Receiving Pemetrexed Injection
+## 2.2 Recommended Dosage and Administration
 
-In patients with creatinine clearances between 45 mL/min and 79 mL/min, modify administration of ibuprofen as follows [see Warnings and Precautions (5.6), Drug Interactions (7) and Clinical Pharmacology (12.3)]:
+Non-Squamous NSCLC
 
-- •Avoid administration of ibuprofen for 2 days before, the day of, and 2 days following administration of Pemetrexed Injection.
-- •Monitor patients more frequently for myelosuppression, renal, and gastrointestinal toxicity, if concomitant administration of ibuprofen cannot be avoided.
+- •The recommended dosage of Pemetrexed Injection when administered with pembrolizumab and platinum chemotherapy for the initial treatment of metastatic non-squamous NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes administered after pembrolizumab and prior to carboplatin or cisplatin on Day 1 of each 21-day cycle for 4 cycles.
+  Following completion of platinum-based therapy, treatment with Pemetrexed Injection with or without pembrolizumab is administered until disease progression or unacceptable toxicity.
+  Please refer to the full prescribing information for pembrolizumab and for carboplatin or cisplatin.
+- •The recommended dosage of Pemetrexed Injection when administered with cisplatin for initial treatment of locally advanced or metastatic non-squamous NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes administered prior to cisplatin on Day 1 of each 21-day cycle for up to six cycles in the absence of disease progression or unacceptable toxicity.
+- •The recommended dosage of Pemetrexed Injection for maintenance treatment of non-squamous NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity after four cycles of platinum based first-line chemotherapy.
+- •The recommended dosage of Pemetrexed Injection for treatment of recurrent non-squamous NSCLC in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
 
-## 2.6 Dosage Modifications for Adverse Reactions
+Mesothelioma
+
+- •The recommended dosage of Pemetrexed Injection when administered with cisplatin in patients with a creatinine clearance (calculated by Cockcroft-Gault equation) of 45 mL/min or greater is 500 mg/m2 as an intravenous infusion over 10 minutes on Day 1 of each 21-day cycle until disease progression or unacceptable toxicity.
+
+## 2.3 Dosage Modifications for Adverse Reactions
 
 Obtain complete blood count on Days 1, 8, and 15 of each cycle.
 Assess creatinine clearance prior to each cycle.
@@ -73,7 +63,13 @@ Table 1: Recommended Dosage Modifications for Adverse Reactions*
 
 *National Cancer Institute Common Toxicity Criteria for Adverse Events version 2 (NCI CTCAE v2).
 
-## 2.7 Preparation for Administration
+## 2.4 Dosage Modifications for OAT3 Inhibitors
+
+Avoid concomitant administration of ibuprofen for 2 days before, the day of, and 2 days following administration of Pemetrexed Injection [see Warnings and Precautions (5.6) and Drug Interactions (7)].
+Avoid concomitant administration of other OAT3 inhibitors with Pemetrexed Injection.
+If concomitant administration cannot be avoided, monitor patients more frequently for myelosuppression, renal, and gastrointestinal toxicity.
+
+## 2.5 Preparation for Administration
 
 Pemetrexed Injection is a hazardous drug.
 Follow applicable special handling and disposal procedures.1

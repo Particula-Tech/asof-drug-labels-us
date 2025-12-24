@@ -86,16 +86,16 @@ Efficacy results in Study JMDB are presented in Table 11 and Figure 2.
 
 Table 11: Efficacy Results in Study JMDB
 
-| Efficacy Parameter | Pemetrexed plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Overall Survival |  |  |  |  |  |
-| Median (months) (95% CI) | 10.3 (9.8-11.2) | 10.3 (9.6-10.9) |  |  |  |
-| Hazard ratio (HR)*,† (95% CI) | 0.94 (0.84-1.05) |  |  |  |  |
-| Progression-Free Survival |  |  |  |  |  |
-| Median (months) (95% CI) | 4.8 (4.6-5.3) | 5.1 (4.6-5.5) |  |  |  |
-| Hazard ratio (HR)*,† (95% CI) | 1.04 (0.94-1.15) |  |  |  |  |
-| Overall Response Rate (95% CI) | 27.1% (24.2-30.1) | 24.7% (21.8-27.6) |  |  |  |
-| *Unadjusted for multiple comparisons. |  |  |  |  |  |
+| Efficacy Parameter | Pemetrexed plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
+| --- | --- | --- |
+| Overall Survival |  |  |
+| Median (months) (95% CI) | 10.3 (9.8-11.2) | 10.3 (9.6-10.9) |
+| Hazard ratio (HR)*,† (95% CI) | 0.94 (0.84-1.05) |  |
+| Progression-Free Survival |  |  |
+| Median (months) (95% CI) | 4.8 (4.6-5.3) | 5.1 (4.6-5.5) |
+| Hazard ratio (HR)*,† (95% CI) | 1.04 (0.94-1.15) |  |
+| Overall Response Rate (95% CI) | 27.1% (24.2-30.1) | 24.7% (21.8-27.6) |
+| *Unadjusted for multiple comparisons. |  |  |
 
 †Adjusted for gender, stage, basis of diagnosis, and performance status.
 
@@ -107,25 +107,25 @@ This difference in treatment effect for pemetrexed based on histology demonstrat
 
 Table 12: Overall Survival in NSCLC Histologic Subgroups in Study JMDB
 
-| Histologic Subgroups | Pemetrexed plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Non-squamous NSCLC (N=1252) |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 11.0 (10.1-12.5) | 10.1 (9.3-10.9) |  |  |  |  |  |  |
-| HR*,† (95% CI) | 0.84 (0.74-0.96) |  |  |  |  |  |  |  |
-| Adenocarcinoma (N=847) |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 12.6 (10.7-13.6) | 10.9 (10.2-11.9) |  |  |  |  |  |  |
-| HR*,† (95% CI) | 0.84 (0.71-0.99) |  |  |  |  |  |  |  |
-| Large Cell (N=153) |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 10.4 (8.6-14.1) | 6.7 (5.5-9.0) |  |  |  |  |  |  |
-| HR*,† (95% CI) | 0.67 (0.48-0.96) |  |  |  |  |  |  |  |
-| Non-squamous, not otherwise specified (N=252) |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 8.6 (6.8-10.2) | 9.2 (8.1-10.6) |  |  |  |  |  |  |
-| HR*,† (95% CI) | 1.08 (0.81-1.45) |  |  |  |  |  |  |  |
-| Squamous Cell(N=473) |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 9.4 (8.4-10.2) | 10.8 (9.5-12.1) |  |  |  |  |  |  |
-| HR*,† (95% CI) | 1.23 (1.00-1.51) |  |  |  |  |  |  |  |
-| *Unadjusted for multiple comparisons. |  |  |  |  |  |  |  |  |
-| †Adjusted for ECOG PS, gender, disease stage, and basis for pathological diagnosis (histopathological/cytopathological). |  |  |  |  |  |  |  |  |
+| Histologic Subgroups | Pemetrexed plus Cisplatin (N=862) | Gemcitabine plus Cisplatin (N=863) |
+| --- | --- | --- |
+| Non-squamous NSCLC (N=1252) |  |  |
+| Median (months) (95% CI) | 11.0 (10.1-12.5) | 10.1 (9.3-10.9) |
+| HR*,† (95% CI) | 0.84 (0.74-0.96) |  |
+| Adenocarcinoma (N=847) |  |  |
+| Median (months) (95% CI) | 12.6 (10.7-13.6) | 10.9 (10.2-11.9) |
+| HR*,† (95% CI) | 0.84 (0.71-0.99) |  |
+| Large Cell (N=153) |  |  |
+| Median (months) (95% CI) | 10.4 (8.6-14.1) | 6.7 (5.5-9.0) |
+| HR*,† (95% CI) | 0.67 (0.48-0.96) |  |
+| Non-squamous, not otherwise specified (N=252) |  |  |
+| Median (months) (95% CI) | 8.6 (6.8-10.2) | 9.2 (8.1-10.6) |
+| HR*,† (95% CI) | 1.08 (0.81-1.45) |  |
+| Squamous Cell(N=473) |  |  |
+| Median (months) (95% CI) | 9.4 (8.4-10.2) | 10.8 (9.5-12.1) |
+| HR*,† (95% CI) | 1.23 (1.00-1.51) |  |
+| *Unadjusted for multiple comparisons. |  |  |
+| †Adjusted for ECOG PS, gender, disease stage, and basis for pathological diagnosis (histopathological/cytopathological). |  |  |
 
 Figure 3: Kaplan-Meier Curves for Overall Survival in Non-squamous NSCLC in Study JMDB
 
@@ -160,26 +160,26 @@ Table 13: Efficacy Results in Study JMEN
 
 The results of pre-specified subgroup analyses by NSCLC histology are presented in Table 14andFigures 6and7.
 
-| Efficacy Parameter | Overall Survival |  | Progression-Free Survival Per Independent Review |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Pemetrexed (N=441) | Placebo (N=222) | Pemetrexed (N=387) | Placebo (N=194) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Non-squamous NSCLC (n=481) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) | 15.5 | 10.3 | 4.4 | 1.8 |  |  |  |  |  |  |  |  |  |  |  |  |
-| HR* (95% CI) | 0.70 (0.56-0.88) |  | 0.47 (0.37-0.60) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Adenocarcinoma (n=328) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) | 16.8 | 11.5 | 4.6 | 2.7 |  |  |  |  |  |  |  |  |  |  |  |  |
-| HR* (95% CI) | 0.73 (0.56-0.96) |  | 0.51 (0.38-0.68) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Large cell carcinoma (n=20) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) | 8.4 | 7.9 | 4.5 | 1.5 |  |  |  |  |  |  |  |  |  |  |  |  |
-| HR* (95% CI) | 0.98 (0.36-2.65) |  | 0.40 (0.12-1.29) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Other† (n=133) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) | 11.3 | 7.7 | 4.1 | 1.6 |  |  |  |  |  |  |  |  |  |  |  |  |
-| HR* (95% CI) | 0.61 (0.40-0.94) |  | 0.44 (0.28-0.68) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Squamous cell NSCLC (n=182) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) | 9.9 | 10.8 | 2.4 | 2.5 |  |  |  |  |  |  |  |  |  |  |  |  |
-| HR* (95% CI) | 1.07 (0.77-1.50) |  | 1.03 (0.71-1.49) |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| *Hazard ratios are not adjusted for multiplicity. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| †Primary diagnosis of NSCLC not specified as adenocarcinoma, large cell carcinoma, or squamous cell carcinoma. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Efficacy Parameter | Overall Survival |  | Progression-Free Survival Per Independent Review |  |
+| --- | --- | --- | --- | --- |
+| Pemetrexed (N=441) | Placebo (N=222) | Pemetrexed (N=387) | Placebo (N=194) |  |
+| Non-squamous NSCLC (n=481) |  |  |  |  |
+| Median (months) | 15.5 | 10.3 | 4.4 | 1.8 |
+| HR* (95% CI) | 0.70 (0.56-0.88) |  | 0.47 (0.37-0.60) |  |
+| Adenocarcinoma (n=328) |  |  |  |  |
+| Median (months) | 16.8 | 11.5 | 4.6 | 2.7 |
+| HR* (95% CI) | 0.73 (0.56-0.96) |  | 0.51 (0.38-0.68) |  |
+| Large cell carcinoma (n=20) |  |  |  |  |
+| Median (months) | 8.4 | 7.9 | 4.5 | 1.5 |
+| HR* (95% CI) | 0.98 (0.36-2.65) |  | 0.40 (0.12-1.29) |  |
+| Other† (n=133) |  |  |  |  |
+| Median (months) | 11.3 | 7.7 | 4.1 | 1.6 |
+| HR* (95% CI) | 0.61 (0.40-0.94) |  | 0.44 (0.28-0.68) |  |
+| Squamous cell NSCLC (n=182) |  |  |  |  |
+| Median (months) | 9.9 | 10.8 | 2.4 | 2.5 |
+| HR* (95% CI) | 1.07 (0.77-1.50) |  | 1.03 (0.71-1.49) |  |
+| *Hazard ratios are not adjusted for multiplicity. |  |  |  |  |
+| †Primary diagnosis of NSCLC not specified as adenocarcinoma, large cell carcinoma, or squamous cell carcinoma. |  |  |  |  |
 
 Maintenance Treatment Following First-line Pemetrexed Plus Platinum Chemotherapy
 
@@ -196,18 +196,18 @@ With regard to tumor characteristics, 91% had Stage IV disease, 87% had adenocar
 
 Efficacy results for PARAMOUNT are presented in Table 15andFigure 8.
 
-| Efficacy Parameter | Pemetrexed (N=359) | Placebo (N=180) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Overall survival |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 13.9 (12.8-16.0) | 11.0 (10.0-12.5) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hazard ratio (HR)* (95% CI) | 0.78 (0.64-0.96) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| p-value | p=0.02 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Progression-free survival† |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 4.1 (3.2-4.6) | 2.8 (2.6-3.1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hazard ratio (HR)* (95% CI) | 0.62 (0.49-0.79) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| p-value | p<0.0001 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| *Hazard ratios are adjusted for multiplicity but not for stratification variables. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| †Based on investigator’s assessment. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Efficacy Parameter | Pemetrexed (N=359) | Placebo (N=180) |
+| --- | --- | --- |
+| Overall survival |  |  |
+| Median (months) (95% CI) | 13.9 (12.8-16.0) | 11.0 (10.0-12.5) |
+| Hazard ratio (HR)* (95% CI) | 0.78 (0.64-0.96) |  |
+| p-value | p=0.02 |  |
+| Progression-free survival† |  |  |
+| Median (months) (95% CI) | 4.1 (3.2-4.6) | 2.8 (2.6-3.1) |
+| Hazard ratio (HR)* (95% CI) | 0.62 (0.49-0.79) |  |
+| p-value | p<0.0001 |  |
+| *Hazard ratios are adjusted for multiplicity but not for stratification variables. |  |  |
+| †Based on investigator’s assessment. |  |  |
 
 Treatment of Recurrent Disease After Prior Chemotherapy
 
@@ -224,38 +224,38 @@ The efficacy results in the overall population and in subgroup analyses based on
 Study JMEI did not show an improvement in overall survival in the intent-to-treat population.
 In subgroup analyses, there was no evidence of a treatment effect on survival in patients with squamous NSCLC; the absence of a treatment effect in patients with NSCLC of squamous histology was also observed Studies JMDB and JMEN [see Clinical Studies (14.1)].
 
-| Efficacy Parameter | Pemetrexed (N=283) | Docetaxel (N=288) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Overall survival |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 8.3 (7.0-9.4) | 7.9 (6.3-9.2) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hazard ratio* (95% CI) | 0.99 (0.82-1.20) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Progression-free survival |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 2.9 (2.4-3.1) | 2.9 (2.7-3.4) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hazard ratio* (95% CI) | 0.97 (0.82-1.16) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Overall response rate (95% CI) | 8.5% (5.2-11.7) | 8.3% (5.1-11.5) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| *Hazard ratios are not adjusted for multiplicity or for stratification variables. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Efficacy Parameter | Pemetrexed (N=283) | Docetaxel (N=288) |
+| --- | --- | --- |
+| Overall survival |  |  |
+| Median (months) (95% CI) | 8.3 (7.0-9.4) | 7.9 (6.3-9.2) |
+| Hazard ratio* (95% CI) | 0.99 (0.82-1.20) |  |
+| Progression-free survival |  |  |
+| Median (months) (95% CI) | 2.9 (2.4-3.1) | 2.9 (2.7-3.4) |
+| Hazard ratio* (95% CI) | 0.97 (0.82-1.16) |  |
+| Overall response rate (95% CI) | 8.5% (5.2-11.7) | 8.3% (5.1-11.5) |
+| *Hazard ratios are not adjusted for multiplicity or for stratification variables. |  |  |
 
 Table 17: Exploratory Efficacy Analyses by Histologic Subgroup in Study JMEI
 
-| Histologic Subgroups | Pemetrexed (N=283) | Docetaxel (N=288) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Non-squamous NSCLC (N=399) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 9.3 (7.8-9.7) | 8.0 (6.3-9.3) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| HR* (95% CI) | 0.89 (0.71-1.13) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Adenocarcinoma (N=301) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 9.0 (7.6-9.6) | 9.2 (7.5-11.3) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| HR* (95% CI) | 1.09 (0.83-1.44) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Large Cell (N=47) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 12.8 (5.8-14.0) | 4.5 (2.3-9.1) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| HR* (95% CI) | 0.38 (0.18-0.78) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Other† (N=51) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 9.4 (6.0-10.1) | 7.9 (4.0-8.9) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| HR* (95% CI) | 0.62 (0.32-1.23) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Squamous NSCLC (N=172) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Median (months) (95% CI) | 6.2 (4.9-8.0) | 7.4 (5.6-9.5) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| HR* (95% CI) | 1.32 (0.93-1.86) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| *Hazard ratio unadjusted for multiple comparisons. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| †Primary diagnosis of NSCLC not specified as adenocarcinoma, large cell carcinoma, or squamous cell carcinoma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Histologic Subgroups | Pemetrexed (N=283) | Docetaxel (N=288) |
+| --- | --- | --- |
+| Non-squamous NSCLC (N=399) |  |  |
+| Median (months) (95% CI) | 9.3 (7.8-9.7) | 8.0 (6.3-9.3) |
+| HR* (95% CI) | 0.89 (0.71-1.13) |  |
+| Adenocarcinoma (N=301) |  |  |
+| Median (months) (95% CI) | 9.0 (7.6-9.6) | 9.2 (7.5-11.3) |
+| HR* (95% CI) | 1.09 (0.83-1.44) |  |
+| Large Cell (N=47) |  |  |
+| Median (months) (95% CI) | 12.8 (5.8-14.0) | 4.5 (2.3-9.1) |
+| HR* (95% CI) | 0.38 (0.18-0.78) |  |
+| Other† (N=51) |  |  |
+| Median (months) (95% CI) | 9.4 (6.0-10.1) | 7.9 (4.0-8.9) |
+| HR* (95% CI) | 0.62 (0.32-1.23) |  |
+| Squamous NSCLC (N=172) |  |  |
+| Median (months) (95% CI) | 6.2 (4.9-8.0) | 7.4 (5.6-9.5) |
+| HR* (95% CI) | 1.32 (0.93-1.86) |  |
+| *Hazard ratio unadjusted for multiple comparisons. |  |  |
+| †Primary diagnosis of NSCLC not specified as adenocarcinoma, large cell carcinoma, or squamous cell carcinoma |  |  |
 
 ## 14.2 Mesothelioma
 

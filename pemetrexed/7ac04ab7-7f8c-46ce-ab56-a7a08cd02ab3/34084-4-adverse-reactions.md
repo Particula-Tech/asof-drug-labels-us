@@ -109,35 +109,35 @@ Study JMDB was not designed to demonstrate a statistically significant reduction
 
 Table 4: Adverse Reactions Occurring in ≥5% of Fully Vitamin-Supplemented Patients Receiving Pemetrexed in Combination with Cisplatin Chemotherapy in Study JMDB
 
-| Adverse Reaction* | Pemetrexed /Cisplatin (N=839) |  | Gemcitabine/Cisplatin (N=830) |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |
-| All adverse reactions | 90 | 37 | 91 | 53 |  |  |  |  |  |  |  |  |  |  |
-| Laboratory |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hematologic |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anemia | 33 | 6 | 46 | 10 |  |  |  |  |  |  |  |  |  |  |
-| Neutropenia | 29 | 15 | 38 | 27 |  |  |  |  |  |  |  |  |  |  |
-| Thrombocytopenia | 10 | 4 | 27 | 13 |  |  |  |  |  |  |  |  |  |  |
-| Renal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Elevated creatinine | 10 | 1 | 7 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Clinical |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Constitutional symptoms |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatigue | 43 | 7 | 45 | 5 |  |  |  |  |  |  |  |  |  |  |
-| Gastrointestinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 56 | 7 | 53 | 4 |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 40 | 6 | 36 | 6 |  |  |  |  |  |  |  |  |  |  |
-| Anorexia | 27 | 2 | 24 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Constipation | 21 | 1 | 20 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Stomatitis/pharyngitis | 14 | 1 | 12 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 12 | 1 | 13 | 2 |  |  |  |  |  |  |  |  |  |  |
-| Dyspepsia/heartburn | 5 | 0 | 6 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Neurology |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Sensory neuropathy | 9 | 0 | 12 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Taste disturbance | 8 | 0 | 9 | 0 |  |  |  |  |  |  |  |  |  |  |
-| Dermatology/Skin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Alopecia | 12 | 0 | 21 | 1 |  |  |  |  |  |  |  |  |  |  |
-| Rash/Desquamation | 7 | 0 | 8 | 1 |  |  |  |  |  |  |  |  |  |  |
-| *NCI CTCAE version 2.0. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction* | Pemetrexed /Cisplatin (N=839) |  | Gemcitabine/Cisplatin (N=830) |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
+| All adverse reactions | 90 | 37 | 91 | 53 |
+| Laboratory |  |  |  |  |
+| Hematologic |  |  |  |  |
+| Anemia | 33 | 6 | 46 | 10 |
+| Neutropenia | 29 | 15 | 38 | 27 |
+| Thrombocytopenia | 10 | 4 | 27 | 13 |
+| Renal |  |  |  |  |
+| Elevated creatinine | 10 | 1 | 7 | 1 |
+| Clinical |  |  |  |  |
+| Constitutional symptoms |  |  |  |  |
+| Fatigue | 43 | 7 | 45 | 5 |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 56 | 7 | 53 | 4 |
+| Vomiting | 40 | 6 | 36 | 6 |
+| Anorexia | 27 | 2 | 24 | 1 |
+| Constipation | 21 | 1 | 20 | 0 |
+| Stomatitis/pharyngitis | 14 | 1 | 12 | 0 |
+| Diarrhea | 12 | 1 | 13 | 2 |
+| Dyspepsia/heartburn | 5 | 0 | 6 | 0 |
+| Neurology |  |  |  |  |
+| Sensory neuropathy | 9 | 0 | 12 | 1 |
+| Taste disturbance | 8 | 0 | 9 | 0 |
+| Dermatology/Skin |  |  |  |  |
+| Alopecia | 12 | 0 | 21 | 1 |
+| Rash/Desquamation | 7 | 0 | 8 | 1 |
+| *NCI CTCAE version 2.0. |  |  |  |  |
 
 The following additional adverse reactions of pemetrexed were observed.
 
@@ -171,32 +171,32 @@ Table 5 provides the frequency and severity of adverse reactions reported in ≥
 
 Table 5: Adverse Reactions Occurring in ≥5% of Patients Receiving Pemetrexed in StudyJMEN
 
-| Adverse Reaction* | Pemetrexed (N=438) |  | Placebo (N=218) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| All adverse reactions | 66 | 16 | 37 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Laboratory |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hematologic |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anemia | 15 | 3 | 6 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Neutropenia | 6 | 3 | 0 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hepatic |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased ALT | 10 | 0 | 4 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased AST | 8 | 0 | 4 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Clinical |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Constitutional symptoms |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatigue | 25 | 5 | 11 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Gastrointestinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 19 | 1 | 6 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anorexia | 19 | 2 | 5 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 9 | 0 | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Mucositis/stomatitis | 7 | 1 | 2 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 5 | 1 | 3 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Infection | 5 | 2 | 2 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Neurology |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Sensory neuropathy | 9 | 1 | 4 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dermatology/Skin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rash/desquamation | 10 | 0 | 3 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| *NCI CTCAE version 3.0. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction* | Pemetrexed (N=438) |  | Placebo (N=218) |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
+| All adverse reactions | 66 | 16 | 37 | 4 |
+| Laboratory |  |  |  |  |
+| Hematologic |  |  |  |  |
+| Anemia | 15 | 3 | 6 | 1 |
+| Neutropenia | 6 | 3 | 0 | 0 |
+| Hepatic |  |  |  |  |
+| Increased ALT | 10 | 0 | 4 | 0 |
+| Increased AST | 8 | 0 | 4 | 0 |
+| Clinical |  |  |  |  |
+| Constitutional symptoms |  |  |  |  |
+| Fatigue | 25 | 5 | 11 | 1 |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 19 | 1 | 6 | 1 |
+| Anorexia | 19 | 2 | 5 | 0 |
+| Vomiting | 9 | 0 | 1 | 0 |
+| Mucositis/stomatitis | 7 | 1 | 2 | 0 |
+| Diarrhea | 5 | 1 | 3 | 0 |
+| Infection | 5 | 2 | 2 | 0 |
+| Neurology |  |  |  |  |
+| Sensory neuropathy | 9 | 1 | 4 | 0 |
+| Dermatology/Skin |  |  |  |  |
+| Rash/desquamation | 10 | 0 | 3 | 0 |
+| *NCI CTCAE version 3.0. |  |  |  |  |
 
 The requirement for transfusions (9.5% versus 3.2%), primarily red blood cell transfusions, and for erythropoiesis stimulating agents (5.9% versus 1.8%) were higher in the pemetrexed arm compared to the placebo arm.
 
@@ -234,24 +234,24 @@ Table6 provides the frequency and severity of adverse reactions reported in ≥5
 
 Table 6: Adverse Reactions Occurring in ≥5% of Patients Receiving Pemetrexed in PARAMOUNT
 
-| Adverse Reaction* | Pemetrexed (N=333) |  | Placebo (N=167) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| All adverse reactions | 53 | 17 | 34 | 4.8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Laboratory |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hematologic |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anemia | 15 | 4.8 | 4.8 | 0.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Neutropenia | 9 | 3.9 | 0.6 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Clinical |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Constitutional symptoms |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatigue | 18 | 4.5 | 11 | 0.6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Gastrointestinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 12 | 0.3 | 2.4 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 6 | 0 | 1.8 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Mucositis/stomatitis | 5 | 0.3 | 2.4 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| General disorders |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Edema | 5 | 0 | 3.6 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| *NCI CTCAE version 3.0. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction* | Pemetrexed (N=333) |  | Placebo (N=167) |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grades 3-4 (%) |  |
+| All adverse reactions | 53 | 17 | 34 | 4.8 |
+| Laboratory |  |  |  |  |
+| Hematologic |  |  |  |  |
+| Anemia | 15 | 4.8 | 4.8 | 0.6 |
+| Neutropenia | 9 | 3.9 | 0.6 | 0 |
+| Clinical |  |  |  |  |
+| Constitutional symptoms |  |  |  |  |
+| Fatigue | 18 | 4.5 | 11 | 0.6 |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 12 | 0.3 | 2.4 | 0 |
+| Vomiting | 6 | 0 | 1.8 | 0 |
+| Mucositis/stomatitis | 5 | 0.3 | 2.4 | 0 |
+| General disorders |  |  |  |  |
+| Edema | 5 | 0 | 3.6 | 0 |
+| *NCI CTCAE version 3.0. |  |  |  |  |
 
 The requirement for red blood cell (13% versus 4.8%) and platelet (1.5% versus 0.6%) transfusions, erythropoiesis stimulating agents (12% versus 7%), and granulocyte colony stimulating factors (6% versus 0%) were higher in the pemetrexed arm compared to the placebo arm.
 
@@ -285,33 +285,33 @@ Study JMEI is not designed to demonstrate a statistically significant reduction 
 
 Table 7: Adverse Reactions Occurring in ≥5% of Fully Supplemented Patients Receiving Pemetrexed in Study JMEI
 
-| Adverse Reaction* | Pemetrexed (N=265) |  | Docetaxel (N=276) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grades 3-4 (%) | All Grade (%) | Grades 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Laboratory |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hematologic |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anemia | 19 | 4 | 22 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Neutropenia | 11 | 5 | 45 | 40 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Thrombocytopenia | 8 | 2 | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hepatic |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased ALT | 8 | 2 | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Increased AST | 7 | 1 | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Clinical |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Gastrointestinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 31 | 3 | 17 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anorexia | 22 | 2 | 24 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 16 | 2 | 12 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Stomatitis/pharyngitis | 15 | 1 | 17 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 13 | 0 | 24 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Constipation | 6 | 0 | 4 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Constitutional symptoms |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatigue | 34 | 5 | 36 | 5 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fever | 8 | 0 | 8 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dermatology/Skin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rash/desquamation | 14 | 0 | 6 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Pruritus | 7 | 0 | 2 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Alopecia | 6 | 1 | 38 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| *NCI CTCAE version 2.0. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction* | Pemetrexed (N=265) |  | Docetaxel (N=276) |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grades 3-4 (%) | All Grade (%) | Grades 3-4 (%) |  |
+| Laboratory |  |  |  |  |
+| Hematologic |  |  |  |  |
+| Anemia | 19 | 4 | 22 | 4 |
+| Neutropenia | 11 | 5 | 45 | 40 |
+| Thrombocytopenia | 8 | 2 | 1 | 0 |
+| Hepatic |  |  |  |  |
+| Increased ALT | 8 | 2 | 1 | 0 |
+| Increased AST | 7 | 1 | 1 | 0 |
+| Clinical |  |  |  |  |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 31 | 3 | 17 | 2 |
+| Anorexia | 22 | 2 | 24 | 3 |
+| Vomiting | 16 | 2 | 12 | 1 |
+| Stomatitis/pharyngitis | 15 | 1 | 17 | 1 |
+| Diarrhea | 13 | 0 | 24 | 3 |
+| Constipation | 6 | 0 | 4 | 0 |
+| Constitutional symptoms |  |  |  |  |
+| Fatigue | 34 | 5 | 36 | 5 |
+| Fever | 8 | 0 | 8 | 0 |
+| Dermatology/Skin |  |  |  |  |
+| Rash/desquamation | 14 | 0 | 6 | 0 |
+| Pruritus | 7 | 0 | 2 | 0 |
+| Alopecia | 6 | 1 | 38 | 2 |
+| *NCI CTCAE version 2.0. |  |  |  |  |
 
 The following additional adverse reactions were observed in patients assigned to receive pemetrexed.
 
@@ -344,40 +344,40 @@ Study JMCH was not designed to demonstrate a statistically significant reduction
 
 Table 8: Adverse Reactions Occurring in ≥5% of Fully Supplemented Subgroup of Patients Receiving Pemetrexed/Cisplatin in Study JMCH*
 
-| Adverse Reaction† | Pemetrexed/cisplatin (N=168) |  | Cisplatin (N=163) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Laboratory |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Hematologic |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Neutropenia | 56 | 23 | 13 | 3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anemia | 26 | 4 | 10 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Thrombocytopenia | 23 | 5 | 9 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Renal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Elevated creatinine | 11 | 1 | 10 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Decreased creatinine clearance | 16 | 1 | 18 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Clinical |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Eye Disorder |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Conjunctivitis | 5 | 0 | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Gastrointestinal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Nausea | 82 | 12 | 77 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 57 | 11 | 50 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Stomatitis/pharyngitis | 23 | 3 | 6 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Anorexia | 20 | 1 | 14 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 17 | 4 | 8 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Constipation | 12 | 1 | 7 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dyspepsia | 5 | 1 | 1 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Constitutional Symptoms |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Fatigue | 48 | 10 | 42 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Metabolism and Nutrition |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dehydration | 7 | 4 | 1 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Neurology |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Sensory neuropathy | 10 | 0 | 10 | 1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Taste disturbance | 8 | 0 | 6 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Dermatology/Skin |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Rash | 16 | 1 | 5 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Alopecia | 11 | 0 | 6 | 0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| *In Study JMCH, 226 patients received at least one dose of pemetrexed in combination with cisplatin and 222 patients received at least one dose of cisplatin. Table 8 provides the ADRs for subgroup of patients treated with pemetrexed in combination with cisplatin (168 patients) or cisplatin alone (163 patients) who received full supplementation with folic acid and vitamin B12 during study therapy. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| †NCI CTCAE version 2.0. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Adverse Reaction† | Pemetrexed/cisplatin (N=168) |  | Cisplatin (N=163) |  |
+| --- | --- | --- | --- | --- |
+| All Grades (%) | Grade 3-4 (%) | All Grades (%) | Grade 3-4 (%) |  |
+| Laboratory |  |  |  |  |
+| Hematologic |  |  |  |  |
+| Neutropenia | 56 | 23 | 13 | 3 |
+| Anemia | 26 | 4 | 10 | 0 |
+| Thrombocytopenia | 23 | 5 | 9 | 0 |
+| Renal |  |  |  |  |
+| Elevated creatinine | 11 | 1 | 10 | 1 |
+| Decreased creatinine clearance | 16 | 1 | 18 | 2 |
+| Clinical |  |  |  |  |
+| Eye Disorder |  |  |  |  |
+| Conjunctivitis | 5 | 0 | 1 | 0 |
+| Gastrointestinal |  |  |  |  |
+| Nausea | 82 | 12 | 77 | 6 |
+| Vomiting | 57 | 11 | 50 | 4 |
+| Stomatitis/pharyngitis | 23 | 3 | 6 | 0 |
+| Anorexia | 20 | 1 | 14 | 1 |
+| Diarrhea | 17 | 4 | 8 | 0 |
+| Constipation | 12 | 1 | 7 | 1 |
+| Dyspepsia | 5 | 1 | 1 | 0 |
+| Constitutional Symptoms |  |  |  |  |
+| Fatigue | 48 | 10 | 42 | 9 |
+| Metabolism and Nutrition |  |  |  |  |
+| Dehydration | 7 | 4 | 1 | 1 |
+| Neurology |  |  |  |  |
+| Sensory neuropathy | 10 | 0 | 10 | 1 |
+| Taste disturbance | 8 | 0 | 6 | 0 |
+| Dermatology/Skin |  |  |  |  |
+| Rash | 16 | 1 | 5 | 0 |
+| Alopecia | 11 | 0 | 6 | 0 |
+| *In Study JMCH, 226 patients received at least one dose of pemetrexed in combination with cisplatin and 222 patients received at least one dose of cisplatin. Table 8 provides the ADRs for subgroup of patients treated with pemetrexed in combination with cisplatin (168 patients) or cisplatin alone (163 patients) who received full supplementation with folic acid and vitamin B12 during study therapy. |  |  |  |  |
+| †NCI CTCAE version 2.0. |  |  |  |  |
 
 The following additional adverse reactions were observed in patients receiving pemetrexed plus cisplatin:
 
@@ -397,15 +397,15 @@ Table 9 provides the results of exploratory analyses of the frequency and severi
 
 Table 9: Exploratory Subgroup Analysis of Selected Grade 3/4 Adverse Reactions Occurring in Patients Receiving Pemetrexed in Combination with Cisplatin with or without Full Vitamin Supplementation in Study JMCH*
 
-| Grade 3-4 Adverse Reactions | Fully Supplemented Patients N=168 (%) | Never Supplemented Patients N=32 (%) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Neutropenia | 23 | 38 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Thrombocytopenia | 5 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Vomiting | 11 | 31 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Febrile neutropenia | 1 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Infection with Grade 3/4 neutropenia | 0 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Diarrhea | 4 | 9 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| *NCI CTCAE version 2.0. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Grade 3-4 Adverse Reactions | Fully Supplemented Patients N=168 (%) | Never Supplemented Patients N=32 (%) |
+| --- | --- | --- |
+| Neutropenia | 23 | 38 |
+| Thrombocytopenia | 5 | 9 |
+| Vomiting | 11 | 31 |
+| Febrile neutropenia | 1 | 9 |
+| Infection with Grade 3/4 neutropenia | 0 | 6 |
+| Diarrhea | 4 | 9 |
+| *NCI CTCAE version 2.0. |  |  |
 
 The following adverse reactions occurred more frequently in patients who were fully vitamin supplemented than in patients who were never supplemented:
 

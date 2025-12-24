@@ -59,18 +59,12 @@ The safety and pharmacokinetics of pemetrexed were evaluated in two clinical stu
 Patients in both studies received concomitant vitamin B12 and folic acid supplementation and dexamethasone.
 
 No tumor responses were observed.
-Adverse reactions observed in pediatric patients were similar to those observed in adults.
+No new safety signals were observed.
 
-Single-dose pharmacokinetics of pemetrexed were evaluated in 22 patients age 4 to 18 years enrolled in NCT00070473 were within range of values in adults.
+Single-dose pharmacokinetics of pemetrexed were evaluated in 22 patients aged 4 to 18 years enrolled in NCT00070473 were within range of values in adults.
 
 ## 8.5 Geriatric Use
 
 Of the 3,946 patients enrolled in clinical studies of pemetrexed, 34% were 65 and over and 4% were 75 and over.
 No overall differences in effectiveness were observed between these patients and younger patients.
 The incidences of Grade 3 to 4 anemia, fatigue, thrombocytopenia, hypertension, and neutropenia were higher in patients 65 years of age and older as compared to younger patients: in at least one of five randomized clinical trials [see Adverse Reactions (6.1) and Clinical Studies (14.1, 14.2)].
-
-## 8.6 Patients with Renal Impairment
-
-Pemetrexed is primarily excreted by the kidneys.
-Decreased renal function results in reduced clearance and greater exposure (AUC) to pemetrexed compared with patients with normal renal function [Warnings and Precautions (5.2, 5.6) and Clinical Pharmacology (12.3)].
-No dose is recommended for patients with creatinine clearance less than 45 mL/min [see Dosage and Administration (2.3)].
