@@ -19,7 +19,7 @@ Examples of drugs that can increase potassium include:
 Like other diuretics, spironolactone reduces the renal clearance of lithium, thus increasing the risk of lithium toxicity.
 Monitor lithium levels periodically when spironolactone is co-administered [see Clinical Pharmacology (12.3)].
 
-## 7.3 Nonsteroidal anti-inflammatory drugs (NSAIDs)
+## 7.3 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)
 
 In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of diuretics.
 Therefore, when spironolactone and NSAIDs are used concomitantly, monitor closely to determine if the desired effect of the diuretic is obtained [see Clinical Pharmacology (12.3)].
@@ -43,3 +43,8 @@ Therefore, when spironolactone and acetylsalicylic acid are used concomitantly, 
 
 Spironolactone binds to the androgen receptor and may increase prostate-specific antigen (PSA) levels in abiraterone-treated prostate cancer patients.
 Concomitant use of spironolactone and abiraterone is not recommended.
+
+## 7.8 Mitotane
+
+Avoid concomitant use of spironolactone tablets and mitotane.
+Spironolactone reduces mitotane plasma levels [see Clinical Pharmacology (12.3)].
