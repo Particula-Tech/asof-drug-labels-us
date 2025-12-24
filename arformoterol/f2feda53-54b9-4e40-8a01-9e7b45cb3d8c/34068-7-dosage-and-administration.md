@@ -1,4 +1,4 @@
-# 2 DOSAGE & ADMINISTRATION
+# 2 DOSAGE AND ADMINISTRATION
 
 The recommended dose of arformoterol tartrate inhalation solution is one 15 mcg unit-dose vial administered twice daily (morning and evening) by nebulization.
 A total daily dose of greater than 30 mcg (15 mcg twice daily) is not recommended.

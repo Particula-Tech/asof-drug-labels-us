@@ -13,7 +13,7 @@ Arformoterol was not mutagenic or clastogenic in the following tests: mutagenici
 
 Arformoterol had no effects on fertility and reproductive performance in rats at oral doses up to 10,000 mcg/kg (approximately 3,200 times the MRHDID in adults on a mcg/m2 basis).
 
-## 13.2 Animal Pharmacology and/or Toxicology
+## 13.2 Animal Toxicology and/or Pharmacology
 
 Animal Pharmacology
 
