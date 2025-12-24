@@ -1,8 +1,8 @@
-# WARNING: SERIOUS INFECTIONS and MALIGNANCY
+# WARNING: SERIOUS INFECTIONS AND MALIGNANCY
 
 SERIOUS INFECTIONS
 
-Patients treated with adalimumab products including ABRILADA are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1)].
+Patients treated with adalimumab products, including ABRILADA are at increased risk for developing serious infections that may lead to hospitalization or death [see Warnings and Precautions (5.1)].
 Most patients who developed these infections were taking concomitant immunosuppressants such as methotrexate or corticosteroids.
 
 Discontinue ABRILADA if a patient develops a serious infection or sepsis.

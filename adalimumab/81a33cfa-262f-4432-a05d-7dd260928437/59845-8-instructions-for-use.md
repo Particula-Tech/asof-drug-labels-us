@@ -19,8 +19,7 @@ Storage Information:
 - •Record the date you first remove ABRILADA from the refrigerator in the spaces provided on the ABRILADA pen carton.
 - •Do not store ABRILADA in extreme heat or cold.
 - •Do not use the pen if the liquid is cloudy, discolored, or has flakes or particles in it.
-
-Note: The ABRILADA prefilled pen is not made with natural rubber latex.
+  Note: The ABRILADA prefilled pen is not made with natural rubber latex.
 
 Keep ABRILADA, injection supplies, and all other medicines out of the reach of children.
 
@@ -141,70 +140,57 @@ Getting ready
 Questions and Answers
 
 What should I do with my pen if it has been dropped?
-
 Do not use it, even if it looks undamaged.
 Dispose of your pen in the same way as a used pen.
 You will need to use a new pen to give your injection.
 
 Can I use my pen straight from the refrigerator?
-
 Yes, however you may find that using the pen at room temperature reduces stinging or discomfort.
 If you allow your pen to reach room temperature before use, you must keep it away from direct sunlight as this can damage your medicine.
 
 What should I do if I need to travel?
-
 When you are traveling, you may store your pen in its carton at room temperature up to 86°F (30°C) for up to 30 days.
 
 Is it okay to shake my pen before I use it?
-
 No, do not shake your pen.
 Shaking can damage your medicine.
 When you check your medicine, gently tilt your pen back and forth while looking carefully into the window.
 It is normal to see one or more air bubbles.
 
 Do I need to remove any air bubbles before using my pen?
-
 No, do not attempt to remove air bubbles.
 
 Drops of medicine have appeared at the needle tip.
 Is this okay?
-
 Yes, it is normal to see a few drops of medicine at the needle tip when you remove the cap.
 
 Can I re-insert the needle if I change my mind where I want to inject?
-
 No, you should not re-insert the needle into your skin.
 If you change your mind, you will need a replacement pen if the needle has already been inserted into the skin.
 After the injection button has been pressed, you must not lift your pen from the skin until the injection has finished.
 
 I pushed my pen against the skin but could not press the button down.
 What should I do?
-
 Take your finger off the injection button and push your pen down more firmly against the skin.
 Then try pushing the button again.
 If this does not work, stretching the skin may make the injection site firmer, making pressing the injection button easier.
 
 Can I pinch or stretch the skin at the injection area?
-
 Yes, pinching or stretching the skin before injection may make the injection site firmer, making it easier to press the injection button.
 
 Do I need to keep my finger pressed on the injection button for the whole injection?
-
 No, you can stop pressing the button when the injection has started.
 However, make sure you keep holding the pen firmly against the skin.
 The pen will continue to deliver your medicine.
 
 How long will the injection take?
-
 From the time the dose begins until you hear the 2nd click, it usually takes 3 to 10 seconds.
 After the 2nd click, you should continue to hold your pen in place for at least 5 more seconds to make sure you give the full dose.
 
 What should I do if I see more than a small drop of medicine on the skin after giving my injection?
-
 Nothing this time, but for your next injection wait a little longer before removing the pen from the skin to make sure all of the medicine went into your skin.
 
 What should I do if I have any questions about my ABRILADA pen or medicine?
-
 Contact your healthcare provider or pharmacist.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
@@ -244,8 +230,7 @@ Storage Information:
 - •Do not use a prefilled syringe if the liquid is cloudy, discolored, or has flakes or particles in it.
 - •Do not drop or crush ABRILADA.
   The prefilled syringe is glass.
-
-Note: The ABRILADA prefilled syringe is not made with natural rubber latex.
+  Note: The ABRILADA prefilled syringe is not made with natural rubber latex.
 
 Keep ABRILADA, injection supplies, and all other medicines out of the reach of children.
 
@@ -285,9 +270,8 @@ Getting ready
   - othe seals on a new carton are broken
   - oit has been out of the refrigerator for more than 30 days
   - othe expiration date has passed
-
-Wash your hands with soap and water, and dry completely.
-If you have any questions about your medicine, please contact your healthcare provider or pharmacist.
+- Wash your hands with soap and water, and dry completely.
+  If you have any questions about your medicine, please contact your healthcare provider or pharmacist.
 
 - •Peel back the paper seal on the tray.
 - •Remove 1 prefilled syringe from the tray and put the original carton with any unused prefilled syringes back in the refrigerator.
@@ -364,48 +348,39 @@ If you have any questions about your medicine, please contact your healthcare pr
 Questions and Answers
 
 What should I do with my prefilled syringe if it has been dropped?
-
 Do not use it if it has been dropped or the carton containing your prefilled syringe has been dropped even if it looks undamaged.
 Dispose of your prefilled syringe in the same way as a used prefilled syringe.
 You will need to use a new prefilled syringe to give your injection.
 
 Can I use my prefilled syringe straight from the refrigerator?
-
 Yes, however you may find that using the prefilled syringe at room temperature reduces stinging or discomfort.
 If you allow your prefilled syringe to reach room temperature before use, you must keep it away from direct sunlight as this can damage your medicine.
 
 What should I do if I need to travel?
-
 When you are traveling, you may store your prefilled syringe in its carton at room temperature up to 86°F (30°C) for up to 30 days.
 
 Is it okay to shake my prefilled syringe before I use it?
-
 No, do not shake your prefilled syringe.
 Shaking can damage your medicine.
 When you check your medicine, gently tilt your syringe back and forth while looking carefully into the window.
 It is normal to see one or more bubbles.
 
 Do I need to remove any air bubbles before using my prefilled syringe?
-
 No, do not attempt to remove air bubbles.
 
 Drops of medicine have appeared at the needle tip.
 Is this okay?
-
 Yes, it is normal to see a few drops of medicine at the needle tip when you remove the needle cover.
 
 Can I re-insert the needle into my skin?
-
 No, you should not re-insert the needle into the skin.
 You will need a replacement prefilled syringe if the needle has already been inserted into the skin.
 
 How long will the injection take?
-
 Dose delivery will take approximately 2 to 5 seconds.
 Remember to hold your prefilled syringe in place for at least 5 seconds after the plunger has been pushed down all the way.
 
 What should I do if I have any questions about my prefilled syringe or medicine?
-
 Contact your healthcare provider or pharmacist.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.

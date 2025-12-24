@@ -27,9 +27,7 @@ ABRILADA is indicated for the treatment of moderately to severely active Crohn's
 
 ABRILADA is indicated for the treatment of moderately to severely active ulcerative colitis in adult patients.
 
-Limitations of Use
-
-The effectiveness of adalimumab products has not been established in patients who have lost response to or were intolerant to TNF blockers [see Clinical Studies (14.7)].
+Limitations of Use The effectiveness of adalimumab products has not been established in patients who have lost response to or were intolerant to TNF blockers [see Clinical Studies (14.7)].
 
 ## 1.7 Plaque Psoriasis
 
