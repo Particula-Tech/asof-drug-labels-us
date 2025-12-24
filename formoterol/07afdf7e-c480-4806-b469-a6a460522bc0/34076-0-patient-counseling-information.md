@@ -22,9 +22,9 @@ Rx Only
 
 Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA
 
-Manufactured by: ® HOLOPACK Verpackungstechnik GmbH Made in Germany.
+Manufactured by: Rommelag CDMO GmbH Made in Germany.
 
-Issued 01/2024
+Issued 07/2025
 
 The brands listed are trademarks of their respective owners.
 
@@ -38,9 +38,9 @@ The brands listed are trademarks of their respective owners.
 | • sudden shortness of breath immediately after use of formoterol fumarate inhalation solution. Sudden shortness of breath may be life-threatening. If you have sudden breathing problems immediately after inhaling your medicine, call your healthcare provider or go to nearest hospital emergency room right away. • effects on your heart, including fast or irregular heartbeat, chest pain or increased blood pressure. • changes in laboratory levels, including high levels of blood sugar (hyperglycemia) and low levels of potassium (hypokalemia), which may cause symptoms of muscle spasm, muscle weakness or abnormal heart rhythm. • serious allergic reactions including rash, hives, swelling of the face, mouth, and tongue, and breathing problems. Call your healthcare provider or get emergency medical care if you get any symptoms of a serious allergic reaction. Common side effects of formoterol fumarate inhalation solution include: • headache • tremor • nervousness • dry mouth • muscle cramps • nausea • vomiting • diarrhea • dizziness • tiredness • trouble sleeping Tell your healthcare provider if you get any side effect that bothers you or that does not go away. These are not all the possible side effects of formoterol fumarate inhalation solution. For more information, ask your healthcare provider or pharmacist for more information. Call your doctor for medical advice about side effects. You may report side effects to FDA at 1-800-FDA-1088. |
 | How should I store formoterol fumarate inhalation solution? • Store formoterol fumarate inhalation solution in a refrigerator between 36° to 46°F (2° to 8°C) in the protective foil pouch. Protect from light and heat. Do not open a sealed pouch until you are ready to use a dose of formoterol fumarate inhalation solution. After a sealed pouch is opened, formoterol fumarate inhalation solution must be used right away. Formoterol fumarate inhalation solution may be used directly from the refrigerator. • Formoterol fumarate inhalation solution may also be stored at room temperature between 68ºF to 77ºF (20º to 25ºC) for up to 3 months (90 days). If stored at room temperature, discard formoterol fumarate inhalation solution if it is not used after 3 months or if past the expiration date, whichever is sooner. Space is provided on the packaging to record dispense date and use by date. • Do not use formoterol fumarate inhalation solution after the expiration date provided on the foil pouch and vial. • Formoterol fumarate inhalation solution should be colorless. Discard formoterol fumarate inhalation solution if it is not colorless. Keep formoterol fumarate inhalation solution and all medicines out of the reach of children. |
 | General information about the safe and effective use of formoterol fumarate inhalation solution. Medicines are sometimes prescribed for purposes that are not listed in a Patient Information leaflet. Do not use formoterol fumarate inhalation solution for a condition for which it was not prescribed. Do not give formoterol fumarate inhalation solution to other people, even if they have the same symptoms that you have. It may harm them. You can ask your health care provider or pharmacist for information about formoterol fumarate inhalation solution that is written for health professionals. |
-| What are the ingredients in formoterol fumarate inhalation solution? Active ingredient: formoterol Inactive ingredients: sodium chloride, citric acid and sodium citrate Rx Only Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA Manufactured by: HOLOPACK® Verpackungstechnik GmbH Made in Germany. |
+| What are the ingredients in formoterol fumarate inhalation solution? Active ingredient: formoterol Inactive ingredients: sodium chloride, citric acid and sodium citrate Rx Only Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921, USA Manufactured by: Rommelag CDMO GmbH Made in Germany. |
 
-This Patient Information has been approved by the U.S. Food and Drug Administration Issued 01/2024
+This Patient Information has been approved by the U.S. Food and Drug Administration Issued 07/2025
 
 Instructions for Using formoterol fumarate inhalation solution
 
@@ -81,12 +81,10 @@ Manufactured for: Alembic Pharmaceuticals, Inc. Bedminster, NJ 07921 USA
 
 Manufactured by:
 
-HOLOPACK® Verpackungstechnik GmbH
+Rommelag CDMO GmbH
 
 Made in Germany.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration.
 
-Revised: 01/2024
-
-006-00617/V01
+Revised: 07/2025
