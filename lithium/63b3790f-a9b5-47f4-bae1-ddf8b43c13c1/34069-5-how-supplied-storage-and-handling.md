@@ -14,7 +14,7 @@ NDC 68462-221-11: Unit-dose box of 100 capsules (10 blister cards each containin
 
 NDC 68462-221-01: Bottles of 100 capsules.
 
-NDC 68462-221-10: Bottles of 1000 capsules.
+NDC 68462-221-10: Bottles of 1,000 capsules.
 
 600 mg supplied as hard gelatin capsules, pink cap imprinted with ‘G222’ and light gray body imprinted with ‘600’, filled with white to off-white granules.
 
