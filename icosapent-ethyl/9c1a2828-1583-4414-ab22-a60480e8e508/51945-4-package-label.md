@@ -36,3 +36,15 @@ PATIENT SAMPLE PACK Contains 8 Capsules
 
 Please see enclosed full Prescribing Information for more information on VASCEPA®.
 Keep out of reach of children.
+
+# PRINCIPAL DISPLAY PANEL - 120 Capsule Bottle Label
+
+NDC 52937-005-20
+
+Vascepa® (icosapent ethyl) Capsules
+
+1 gram
+
+120 capsules
+
+Rx only
