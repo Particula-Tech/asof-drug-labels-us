@@ -50,7 +50,11 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Safety and efficacy for pediatric use have not been established [see Indications and Usage (1)].
+FUROSCIX is approved for the treatment of edema in pediatric patients weighing at least 43 kg with chronic heart failure or chronic kidney disease, including the nephrotic syndrome.
+FUROSCIX has not been studied in pediatric patients.
+Use of FUROSCIX for this indication is supported by: 1) efficacy, safety, and pharmacokinetic data of furosemide in adult and pediatric patients; 2) pharmacokinetic and pharmacodynamic data of FUROSCIX in adults with New York Heart Association (NYHA) Functional Classification Class II and Class III heart failure [see Clinical Pharmacology (12.2, 12.3)]; and 3) population pharmacokinetic modeling which demonstrated no significant difference in furosemide exposure following FUROSCIX administration in a simulated pediatric population weighing 43 kg and above and aged 6 to <17 years compared to adult patients with chronic heart failure [see Clinical Pharmacology (12.3)].
+
+FUROSCIX is not approved for the treatment of edema in pediatric patients weighing less than 43 kg.
 
 ## 8.5 Geriatric Use
 

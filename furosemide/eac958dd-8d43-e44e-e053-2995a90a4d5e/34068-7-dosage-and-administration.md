@@ -1,6 +1,6 @@
 # 2 DOSAGE AND ADMINISTRATION
 
-## 2.1 Dosage
+## 2.1 Recommended Dosage
 
 The single-use, On-body Infusor with prefilled cartridge is pre-programmed to deliver 30 mg of furosemide over the first hour followed by 12.5 mg per hour for the subsequent 4 hours [see Use in Specific Populations (8.6) and see Clinical Pharmacology (12)].
 
@@ -29,3 +29,6 @@ Start the injection by firmly pressing and releasing the blue start button.
 Do not remove until the injection is complete (signaled by the solid green status light, beeping sound, and the white plunger rod filling the cartridge window).
 
 Rotate the site of each subcutaneous administration.
+
+In pediatric patients weighing at least 43 kg, FUROSCIX must be administered by a healthcare provider or adult caregiver.
+Adult patients or caregivers should receive proper instruction in preparing and administering FUROSCIX before using the FUROSCIX On-body Infusor.

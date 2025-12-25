@@ -2,8 +2,7 @@
 
 Advise the patient and/or caregiver to read the FDA-approved patient labeling [see FDA-approved Instructions for Use].
 
-Advise the patient that they should not allow the On-body Infusor to come into contact with water or other fluids.
-Patients should check the device for alarms to ensure a complete dose is administered [see Warnings and Precautions (5.5)].
+Advise the patient that they should not allow the On-body Infusor to come into contact with water or other fluids.Advise patients and/or caregiver to check the device for alarms to ensure a complete dose is administered [see Warnings and Precautions (5.5)].
 
 Fluid, Electrolyte, and Metabolic Abnormalities
 
@@ -27,7 +26,7 @@ FUROSCIX ® (furosemide injection 80 mg/10 mL) for subcutaneous use
 
 Manufactured for:
 
-scPharmaceuticals, Inc.,
+scPharmaceuticals Inc.,
 
 25 Mall Road, Suite 203,
 
@@ -37,4 +36,4 @@ Patent Protected: www.scpharmaceuticals.com/patents
 
 FUROSCIX ® is a mark of scPharmaceuticals Inc.
 
-Reg-0018 Rev 02
+Reg-0018 Rev 04

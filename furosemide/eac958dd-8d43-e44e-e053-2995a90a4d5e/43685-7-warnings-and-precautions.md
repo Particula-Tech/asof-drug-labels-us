@@ -30,4 +30,4 @@ Fluid contact with the circuit board can lead to device errors and premature ter
 The On-body Infusor is intended for use in a setting where the patient can limit their activity for the duration of administration.
 Certain patient movements may cause interruption of device adherence to skin and premature termination of infusion.
 
-The On-body Infusor for FUROSCIX should only be used in patients who can detect and respond to alarms to ensure a complete dose is administered.
+The On-body Infusor for FUROSCIX should only be administered in settings where alarms can be detected and responded to in order to ensure a complete dose is administered [see Dosage and Administration (2.2)].
