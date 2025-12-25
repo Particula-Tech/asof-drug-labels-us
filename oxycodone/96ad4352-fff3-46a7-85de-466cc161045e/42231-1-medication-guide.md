@@ -1,4 +1,4 @@
-# MEDICATION GUIDE
+# SPL MEDGUIDE SECTION
 
 Medication Guide
 
@@ -16,15 +16,14 @@ Selling or giving away Oxycodone Hydrochloride Tablets is against the law. • S
 Do not take Oxycodone Hydrochloride Tablets if you have: • severe asthma, trouble breathing, or other lung problems. • a bowel blockage or have narrowing of the stomach or intestines. • allergy to oxycodone.
 
 Before taking Oxycodone Hydrochloride Tablets, tell your healthcare provider if you have a history of: • head injury, seizures • liver, kidney, thyroid problems • problems urinating • pancreas or gallbladder problems • abuse of street or prescription drugs, alcohol addiction, opioid overdose, or mental health problems.
-
-Tell your healthcare provider if you are: • pregnant or planning to become pregnant.
-Prolonged use of Oxycodone Hydrochloride Tablets during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated. • breastfeeding.
+Tell your healthcare provider if you are: • noticing your pain getting worse.
+If your pain gets worse after you take Oxycodone Hydrochloride Tablets, do not take more of Oxycodone Hydrochloride Tablets without first talking to your healthcare provider.
+Talk to your healthcare provider if the pain that you have increases, if you feel more sensitive to pain, or if you have new pain after taking Oxycodone Hydrochloride Tablets. • pregnant or planning to become pregnant.
+Prolonged Use of Oxycodone Hydrochloride Tablets for an extended period of time during pregnancy can cause withdrawal symptoms in your newborn baby that could be life-threatening if not recognized and treated. • breastfeeding.
 Oxycodone Hydrochloride Tablets passes into breast milk and may harm your baby.
 Carefully observe infants for increased sleepiness (more than usual), breathing difficulties, or limpness.
 Seek immediate medical care if you notice these signs. • living in a household where there are small children or someone who has abused street or prescription drugs • taking prescription or over-the-counter medicines, vitamins, or herbal supplements.
-Taking Oxycodone Hydrochloride Tablets with certain other medicines can cause serious side effects that could lead to death.
-
-When taking Oxycodone Hydrochloride Tablets: • Do not change your dose.
+Taking Oxycodone HydrochlorideWhen taking Oxycodone Hydrochloride Tablets: • Do not change your dose.
 Take Oxycodone Hydrochloride Tablets exactly as prescribed by your healthcare provider.
 Use the lowest dose possible for the shortest time needed. • Take your prescribed dose every 4 to 6 hours as needed for pain.
 Do not take more than your prescribed dose.
@@ -33,8 +32,7 @@ Visit www.fda.gov/drugdisposal for additional information on disposal of unused 
 
 While taking Oxycodone Hydrochloride Tablets DO NOT: • Drive or operate heavy machinery, until you know how Oxycodone Hydrochloride Tablets affects you.
 Oxycodone Hydrochloride Tablets can make you sleepy, dizzy, or lightheaded. • Drink alcohol or use prescription or over-the-counter medicines that contain alcohol.
-Using products containing alcohol during treatment with Oxycodone Hydrochloride Tablets may cause you to overdose and die
-
+Using products containing alcohol during treatment with Oxycodone Hydrochloride Tablets may cause you to overdose and die.
 The possible side effects of Oxycodone Hydrochloride Tablets are: • constipation, nausea, sleepiness, vomiting, tiredness, headache, dizziness, abdominal pain.
 Call your healthcare provider if you have any of these symptoms and they are severe.
 
@@ -51,4 +49,4 @@ Dispense with Medication Guide available at www.aurobindousa.com/medication-guid
 
 Distributed by: Aurobindo Pharma USA, Inc. 279 Princeton-Hightstown Road East Windsor, NJ 08520
 
-Revised: 12/2023
+Revised: 06/2025

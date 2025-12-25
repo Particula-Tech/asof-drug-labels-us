@@ -25,7 +25,7 @@ Effects on Cardiovascular System Oxycodone produces peripheral vasodilatation, w
 Manifestations of histamine release and/or peripheral vasodilatation may include pruritus, flushing, red eyes, sweating, and/or orthostatic hypotension.
 Effects on the Endocrine System Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
-Chronic use of opioids may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
+Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
 The causal role of opioids in the clinical syndrome of hypogonadism is unknown because the various medical, physical, lifestyle, and psychological stressors that may influence gonadal hormone levels have not been adequately controlled for in studies conducted to date [see Adverse Reactions (6.2)].
 Effects on the Immune System Opioids have been shown to have a variety of effects on components of the immune system in in vitro and animal models.
 The clinical significance of these findings is unknown.
@@ -33,7 +33,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration-Efficacy Relationships The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with potent opioid agonists.
 The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 Concentration-Adverse Reaction Relationships There is a relationship between increasing oxycodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.2, 2.3)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.3)].
 
 ## 12.3 Pharmacokinetics
 
@@ -55,20 +55,19 @@ Oxycodone Hydrochloride Tablets tablets are designed to provide immediate releas
 | Oxycodone Hydrochloride Tablets 5 mg tabs q6h x 14 doses | 113.3±24.0 | 15.7±3.2 | 1.3±0.3 | 7.4±1.8 | 9.4±2.0 | n/a |
 | Oxycodone Hydrochloride Tablets 3.33 mg (3.33 mL) oral sol’n. q4h x 21 doses | 99.0±24.8 | 12.9±3.1 | 1.0±0.3 | 7.2±2.3 | 9.7±2.6 | n/a |
 
-Absorption
-
-About 60% to 87% of an oral dose of oxycodone reaches the systemic circulation in comparison to a parenteral dose.
+Absorption About 60% to 87% of an oral dose of oxycodone reaches the systemic circulation in comparison to a parenteral dose.
 This high oral bioavailability (compared to other oral opioids) is due to lower presystemic and/or first-pass metabolism of oxycodone.
 The relative oral bioavailability of Oxycodone Hydrochloride Tablets 15 mg and 30 mg tablets, compared to the 5 mg Oxycodone Hydrochloride Tablets, is 96% and 101% respectively.
 Oxycodone Hydrochloride Tablets 15 mg tablets and 30 mg tablets are bioequivalent to the 5 mg Oxycodone Hydrochloride Tablets (see Table 2 for pharmacokinetic parameters).
 Dose proportionality of oxycodone has been established using the Oxycodone Hydrochloride Tablets 5 mg tablets at doses of 5 mg, 15 mg (three 5 mg tablets) and 30 mg (six 5 mg tablets) based on extent of absorption (AUC) (see Figure 1).
 It takes approximately 18 to 24 hours to reach steady-state plasma concentrations of oxycodone with Oxycodone Hydrochloride Tablets.
 
-Food Effect A single-dose food effect study was conducted in normal volunteers using the 5 mg/5 mL solution.
+Food Effect
+
+A single-dose food effect study was conducted in normal volunteers using the 5 mg/5 mL solution.
 The concurrent intake of a high fat meal was shown to enhance the extent (27% increase in AUC), but not the rate of oxycodone absorption from the oral solution (see Table 2).
 In addition, food caused a delay in Tmax (1.25 to 2.54 hour).
 Similar effects of food are expected with the 15 mg and 30 mg tablets.
-
 Distribution Following intravenous administration, the volume of distribution (Vss) for oxycodone was 2.6 L/kg.
 Plasma protein binding of oxycodone at 37°C and a pH of 7.4 was about 45%.
 Oxycodone has been found in breast milk [see Special Populations (8.2)].

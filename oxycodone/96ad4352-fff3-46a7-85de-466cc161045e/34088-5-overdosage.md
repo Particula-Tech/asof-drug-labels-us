@@ -4,11 +4,11 @@ Clinical Presentation Acute overdose with Oxycodone Hydrochloride Tablets can be
 Marked mydriasis rather than miosis may be seen with hypoxia in overdose situations [see Clinical Pharmacology (12.2)].
 Treatment of Overdose In case of overdose, priorities are the re-establishment of a patent and protected airway and institution of assisted or controlled ventilation, if needed.
 Employ other supportive measures (including oxygen and vasopressors) in the management of circulatory shock and pulmonary edema as indicated.
-Cardiac arrest or arrhythmias will require advanced life-support techniques.
+Cardiac arrest or arrhythmias will require advanced life-support measures.
 Opioid antagonists, such as naloxone, are specific antidotes to respiratory depression resulting from opioid overdose.
 For clinically significant respiratory or circulatory depression secondary to opioid overdose, administer an opioid antagonist.
 Because the duration of opioid reversal is expected to be less than the duration of action of oxycodone in Oxycodone Hydrochloride Tablets, carefully monitor the patient until spontaneous respiration is reliably reestablished.
-If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product's prescribing information.
+If the response to an opioid antagonist is suboptimal or only brief in nature, administer additional antagonist as directed by the product’s prescribing information.
 In an individual physically dependent on opioids, administration of the recommended usual dosage of the antagonist will precipitate an acute withdrawal syndrome.
 The severity of the withdrawal symptoms experienced will depend on the degree of physical dependence and the dose of the antagonist administered.
 If a decision is made to treat serious respiratory depression in the physically dependent patient, administration of the antagonist should be initiated with care and by titration with smaller than usual doses of the antagonist.
