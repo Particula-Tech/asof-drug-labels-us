@@ -1,6 +1,6 @@
 # 16 HOW SUPPLIED/STORAGE AND HANDLING
 
-NDC 70645-123 ZINGO ® (lidocaine hydrochloride monohydrate) powder intradermal injection system contains 0.5 mg of sterile lidocaine hydrochloride monohydrate.
+NDC 61388-123 ZINGO ® (lidocaine hydrochloride monohydrate) powder intradermal injection system contains 0.5 mg of sterile lidocaine hydrochloride monohydrate.
 ZINGO ® is a single-dose device packaged in an individual clear pouch.
 Twelve pouched devices are placed in labeled cartons.
 

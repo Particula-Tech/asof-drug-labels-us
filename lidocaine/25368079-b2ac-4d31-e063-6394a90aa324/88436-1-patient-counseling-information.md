@@ -13,6 +13,6 @@ Powder Pharmaceuticals, Inc.
 
 Hong Kong, China
 
-500113 Rev 02
+500113 Rev 03
 
 ZINGO® is a trademark of Powder Pharmaceuticals, Incorporated.

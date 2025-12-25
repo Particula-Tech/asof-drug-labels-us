@@ -63,7 +63,7 @@ To report SUSPECTED ADVERSE REACTIONS, contact 7T Pharma, LLC, at 1-800-941-2848
 
 See 17 for PATIENT COUNSELING INFORMATION.
 
-Revised: November 2018
+Revised: December 2025
 
 # FULL PRESCRIBING INFORMATION: CONTENTS*
 
@@ -91,9 +91,7 @@ Revised: November 2018
 
 8.1 Pregnancy
 
-8.2 Labor and Delivery
-
-8.3 Nursing Mothers
+8.2 Lactation
 
 8.4 Pediatric Use
 

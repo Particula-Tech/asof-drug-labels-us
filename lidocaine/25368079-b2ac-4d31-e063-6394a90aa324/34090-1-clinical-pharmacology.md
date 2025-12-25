@@ -1,5 +1,7 @@
 # 12 CLINICAL PHARMACOLOGY
 
+12 CLINICAL PHARMACOLOGY
+
 ## 12.1 Mechanism of Action
 
 ZINGO delivers lidocaine hydrochloride monohydrate into the dermis.
