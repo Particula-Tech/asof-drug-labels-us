@@ -1,4 +1,4 @@
-# DESCRIPTION
+# 11 DESCRIPTION
 
 Labetalol hydrochloride tablets, USP are an adrenergic receptor blocking agent that has both selective alpha 1-adrenergic and nonselective beta-adrenergic receptor blocking actions in a single substance.
 

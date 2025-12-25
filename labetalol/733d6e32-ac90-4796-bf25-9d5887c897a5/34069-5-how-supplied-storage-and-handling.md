@@ -1,4 +1,4 @@
-# HOW SUPPLIED
+# 16 HOW SUPPLIED/STORAGE AND HANDLING
 
 Labetalol Hydrochloride Tablets, USP, for oral administration, are available as
 
@@ -42,13 +42,13 @@ Labetalol Hydrochloride Tablets, USP should be stored at 20° to 25°C (68° to 
 
 Dispense in a tight, light-resistant container as defined in the USP with a child-resistant closure as required.
 
-To report SUSPECTED ADVERSE REACTIONS, contact1-844-466-6469 or FDA at 1-800-FDA-1088 orwww.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Innogenix, LLC at1-844-466-6469 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
 
 Distributed by:
 
 Method Pharmaceuticals, LLC
 
-Fort Worth, TX 76118
+Southlake, TX 76092
 
 Rev.
-05/2025
+12/2025

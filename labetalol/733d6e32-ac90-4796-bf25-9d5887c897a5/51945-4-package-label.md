@@ -1,25 +1,59 @@
-# PRINCIPAL DISPLAY PANEL
+Labetalol Hydrochloride Tablets, USP 100 mg
 
-NDC 58657-602-01 Labetalol Hydrochloride Tablets, USP 100 mg Rx Only 100 Tablets
+NDC 58657-602-01
 
-# PRINCIPAL DISPLAY PANEL
+100 mg, 100 count
 
-NDC 58657-603-01 Labetalol Hydrochloride Tablets, USP 200 mg Rx Only 100 Tablets
+Labetalol Hydrochloride Tablets, USP 100 mg
 
-# PRINCIPAL DISPLAY PANEL
+NDC 58657-602-50
 
-NDC 58657-604-01 Labetalol Hydrochloride Tablets, USP 300 mg Rx Only 100 Tablets
+100 mg, 500 count
 
-# PRINCIPAL DISPLAY PANEL
+Labetalol Hydrochloride Tablets, USP 100 mg
 
-NDC 58657-906-01 Labetalol Hydrochloride Tablets, USP 100 mg Rx Only 100 Tablets
+NDC 58657-603-01
 
-# PRINCIPAL DISPLAY PANEL
+200 mg, 100 count
+
+Labetalol Hydrochloride Tablets, USP 100 mg
+
+NDC 58657-603-50
+
+200 mg, 500 count
+
+Labetalol Hydrochloride Tablets, USP 100 mg
+
+NDC 58657-604-01
+
+300 mg, 100 count
+
+Labetalol Hydrochloride Tablets, USP 100 mg
+
+NDC 58657-604-50
+
+100 mg, 500 count
+
+Labetalol Hydrochloride Tablets, USP
+
+NDC 58657-906-01
+
+Unit Dose
+
+100mg 100 count
+
+Labetalol Hydrochloride Tablets, USP
 
 NDC 58657-907-01
 
-Labetalol Hydrochloride Tablets, USP 200 mg Rx Only 100 Tablets
+Unit Dose
 
-# PRINCIPAL DISPLAY PANEL
+200mg 100 count
 
-NDC 58657-908-01 Labetalol Hydrochloride Tablets, USP 300 mg Rx Only 100 Tablets
+Labetalol Hydrochloride Tablets, USP
+
+NDC 58657-908-01
+
+Unit Dose
+
+300mg 100 count

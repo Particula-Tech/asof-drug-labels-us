@@ -1,148 +1,44 @@
-# ADVERSE REACTIONS
+# 6 ADVERSE REACTIONS
 
-Most adverse effects are mild and transient and occur early in the course of treatment.
-In controlled clinical trials of 3 to 4 months’ duration, discontinuation of labetalol hydrochloride due to one or more adverse effects was required in 7% of all patients.
-In these same trials, other agents with solely beta-blocking activity used in the control groups led to discontinuation in 8% to 10% of patients, and a centrally acting alpha-agonist led to discontinuation in 30% of patients.
+- Hypotension [see Warnings and Precautions (5.1)
+- Bradycardia [see Warnings and Precautions (5.2)]
+- Cardiac failure [see Warnings and Precautions (5.3)]
+- Ischemic heart disease [see Warnings and Precautions (5.4)]
+- Nonallergic bronchospasm [see Warnings and Precautions (5.5))]
+- Use in patients with pheochromocytoma [see Warnings and Precautions (5.7)]
+- Hepatic injury [see Warnings and Precautions (5.8)]
+- Risk of severe acute hypersensitivity reaction [see Warnings and Precautions (5.9)]
 
-The incidence rates of adverse reactions listed in the following table were derived from multicenter, controlled clinical trials comparing labetalol hydrochloride, placebo, metoprolol, and propranolol over treatment periods of 3 and 4 months.
-Where the frequency of adverse effects for labetalol hydrochloride and placebo is similar, causal relationship is uncertain.
-The rates are based on adverse reactions considered probably drug related by the investigator.
-If all reports are considered, the rates are somewhat higher (e.g., dizziness, 20%; nausea, 14%; fatigue, 11%), but the overall conclusions are unchanged.
+## 6.1 Clinical Trials Experience
 
-|  | Labetalol Hydrochloride (N=227) % | Placebo (N=98) % | Propranolol (N=84) % | Metoprolol (N=49) % |
-| --- | --- | --- | --- | --- |
-| Body as a whole |  |  |  |  |
-| Fatigue | 5 | 0 | 12 | 12 |
-| Asthenia | 1 | 1 | 1 | 0 |
-| Headache | 2 | 1 | 1 | 2 |
-| Gastrointestinal |  |  |  |  |
-| Nausea | 6 | 1 | 1 | 2 |
-| Vomiting | less than 1 | 0 | 0 | 0 |
-| Dyspepsia | 3 | 1 | 1 | 0 |
-| Abdominal pain | 0 | 0 | 1 | 2 |
-| Diarrhea | less than 1 | 0 | 2 | 0 |
-| Taste distortion | 1 | 0 | 0 | 0 |
-| Central and Peripheral Nervous Systems |  |  |  |  |
-| Dizziness | 11 | 3 | 4 | 4 |
-| Paresthesia | less than 1 | 0 | 0 | 0 |
-| Drowsiness | less than 1 | 2 | 2 | 2 |
-| Autonomic Nervous System |  |  |  |  |
-| Nasal stuffiness | 3 | 0 | 0 | 0 |
-| Ejaculation failure | 2 | 0 | 0 | 0 |
-| Impotence | 1 | 0 | 1 | 3 |
-| Increased sweating | less than 1 | 0 | 0 | 0 |
-| Cardiovascular |  |  |  |  |
-| Edema | 1 | 0 | 0 | 0 |
-| Postural hypotension | 1 | 0 | 0 | 0 |
-| Bradycardia | 0 | 0 | 5 | 12 |
-| Respiratory |  |  |  |  |
-| Dyspnea | 2 | 0 | 1 | 2 |
-| Skin |  |  |  |  |
-| Rash | 1 | 0 | 0 | 0 |
-| Special Senses |  |  |  |  |
-| Vision abnormality | 1 | 0 | 0 | 0 |
-| Vertigo | 2 | 1 | 0 | 0 |
+Adverse Reactions Resulting in Discontinuation of Treatment
 
-The adverse effects were reported spontaneously and are representative of the incidence of adverse effects that may be observed in a properly selected hypertensive patient population, i.e., a group excluding patients with bronchospastic disease, overt congestive heart failure, or other contraindications to beta-blocker therapy.
+Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.
 
-Clinical trials also included studies utilizing daily doses up to 2400 mg in more severely hypertensive patients.
-Certain of the side effects increased with increasing dose, as shown in the following table that depicts the entire U.S. therapeutic trials data base for adverse reactions that are clearly or possibly dose related.
+In controlled clinical trials of 3 to 4 months' duration, discontinuation of Labetalol Hydrochloride Tablets due to one or more adverse effects was required in 7% of all patients.
 
-| Labetalol Hydrochloride Daily Dose (mg) | 200 | 300 | 400 | 600 | 800 | 900 | 1200 | 1600 | 2400 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Number of Patients | 522 | 181 | 606 | 608 | 503 | 117 | 411 | 242 | 175 |
-| Dizziness (%) | 2 | 3 | 3 | 3 | 5 | 1 | 9 | 13 | 16 |
-| Fatigue | 2 | 1 | 4 | 4 | 5 | 3 | 7 | 6 | 10 |
-| Nausea | less than 1 | 0 | 1 | 2 | 4 | 0 | 7 | 11 | 19 |
-| Vomiting | 0 | 0 | less than 1 | less than 1 | less than 1 | 0 | 1 | 2 | 3 |
-| Dyspepsia | 1 | 0 | 2 | 1 | 1 | 0 | 2 | 2 | 4 |
-| Paresthesias | 2 | 0 | 2 | 2 | 1 | 1 | 2 | 5 | 5 |
-| Nasal Stuffiness | 1 | 1 | 2 | 2 | 2 | 2 | 4 | 5 | 6 |
-| Ejaculation Failure | 0 | 2 | 1 | 2 | 3 | 0 | 4 | 3 | 5 |
-| Impotence | 1 | 1 | 1 | 1 | 2 | 4 | 3 | 4 | 3 |
-| Edema | 1 | 0 | 1 | 1 | 1 | 0 | 1 | 2 | 2 |
+The incidence rates of adverse reactions listed in Table 1 were derived from multicenter, controlled clinical trials comparing labetalol hydrochloride and placebo over treatment periods of 3 and 4 months.
 
-In addition, a number of other less common adverse events have been reported:
+Table 1: Adverse Reactions Occurring in at Least 2% of Patients and More Frequent on Labetalol
 
-Body as a Whole
+|  | Labetalol HCl (n=227) | Placebo (n=98) |
+| --- | --- | --- |
+| Body as a whole |  |  |
+| Fatigue | 5% | 0% |
+| Headache | 2% | 1% |
+| Gastrointestinal |  |  |
+| Nausea | 6% | 1% |
+| Dyspepsia | 3% | 1% |
+| Central and Peripheral Nervous Systems |  |  |
+| Dizziness | 11% | 3% |
+| Autonomic Nervous System |  |  |
+| Nasal stuffiness | 3% | 0% |
+| Respiratory |  |  |
+| Dyspnea | 2% | 0% |
+| Special Senses |  |  |
+| Vertigo | 2% | 1% |
 
-Fever.
+The adverse effects were reported spontaneously and are representative of the incidence of adverse effects that may be observed in a properly selected hypertensive patient population, i.e., a group excluding patients with bronchospastic disease, overt congestive heart failure, or other contraindications to beta‑blocker therapy.
 
-Cardiovascular
-
-Hypotension, and rarely, syncope, bradycardia, heart block.
-
-Central and Peripheral Nervous Systems
-
-Paresthesia, most frequently described as scalp tingling.
-
-In most cases, it was mild and transient and usually occurred at the beginning of treatment.
-
-Collagen Disorders
-
-Systemic lupus erythematosus, positive antinuclear factor.
-
-Eyes
-
-Dry eyes.
-
-Immunological System
-
-Antimitochondrial antibodies.
-
-Liver and Biliary System
-
-Hepatic necrosis, hepatitis, cholestatic jaundice, elevated liver function tests.
-
-Musculoskeletal System
-
-Muscle cramps, toxic myopathy.
-
-Respiratory System
-
-Bronchospasm.
-
-Skin and Appendages
-
-Rashes of various types, such as generalized maculopapular, lichenoid, urticarial, bullous lichen planus, psoriaform, and facial erythema; Peyronie’s disease, reversible alopecia.
-
-Urinary System
-
-Difficulty in micturition, including acute urinary bladder retention.
-
-Hypersensitivity
-
-Rare reports of hypersensitivity (e.g., rash, urticaria, pruritus, angioedema, dyspnea) and anaphylactoid reactions.
-
-Following approval for marketing in the United Kingdom, a monitored release survey involving approximately 6,800 patients was conducted for further safety and efficacy evaluation of this product.
-Results of this survey indicate that the type, severity, and incidence of adverse effects were comparable to those cited above.
-
-Potential Adverse Effects
-
-In addition, other adverse effects not listed above have been reported with other beta-adrenergic blocking agents.
-
-Central Nervous System
-
-Reversible mental depression progressing to catatonia, an acute reversible syndrome characterized by disorientation for time and place, short-term memory loss, emotional lability, slightly clouded sensorium, and decreased performance on psychometrics.
-
-Cardiovascular
-
-Intensification of A-V block [see Contraindications].
-
-Allergic
-
-Fever combined with aching and sore throat, laryngospasm, respiratory distress.
-
-Hematologic
-
-Agranulocytosis, thrombocytopenic or nonthrombocytopenic purpura.
-
-Gastrointestinal
-
-Mesenteric artery thrombosis, ischemic colitis.
-
-The oculomucocutaneous syndrome associated with the beta-blocker practolol has not been reported with labetalol hydrochloride.
-
-Clinical Laboratory Tests
-
-There have been reversible increases of serum transaminases in 4% of patients treated with labetalol hydrochloride and tested and, more rarely, reversible increases in blood urea.
+Clinical trials also included studies utilizing daily doses up to 2,400 mg in more severely hypertensive patients.
+Certain of the side effects increased with increasing dose, as shown in Table 2 that depicts the entire US therapeutic trials data base for adverse reactions that are clearly or possibly dose related.
