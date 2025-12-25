@@ -15,7 +15,7 @@ In 1 case of death, the amount of acutely ingested olanzapine was reported to be
 
 ## 10.2 Management of Overdose
 
-There is no specific antidote to an overdose of olanzapineThe possibility of multiple drug involvement should be considered.
+There is no specific antidote to an overdose of olanzapine.The possibility of multiple drug involvement should be considered.
 Establish and maintain an airway and ensure adequate oxygenation and ventilation.
 Cardiovascular monitoring should commence immediately and should include continuous electrocardiographic monitoring to detect possible arrhythmias.
 

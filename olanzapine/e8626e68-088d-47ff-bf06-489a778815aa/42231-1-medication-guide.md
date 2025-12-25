@@ -1,6 +1,6 @@
 # Medication Guide
 
-Olanzapine(oh-LAN-za-peen) Tablets USP
+Olanzapine(oh-LAN-za-peen) Tablets, USP
 
 Read the Medication Guide that comes with olanzapine tablets before you start taking it and each time you get a refill.
 There may be new information.
@@ -92,7 +92,7 @@ High blood sugar could lead to:
   You can register by calling 1-866-961-2388 or go to http://womensmentalhealth.org/clinical-and-research-programs/pregnancyregistry/.
 - are breast-feeding or plan to breast-feed.
   Olanzapine tablets passes into your breast milk.
-  Talk to your doctor about the best way to feed your baby if you take Olanzapine tablets.
+  Talk to your doctor about the best way to feed your baby if you take olanzapine tablets.
   Tell your doctor if you exercise a lot or are in hot places often.
   The symptoms of bipolar I disorder, treatment resistant depression, or schizophrenia may include thoughts of suicide or of hurting yourself or others.
   If you have these thoughts at any time, tell your doctor or go to an emergency room right away.
@@ -106,14 +106,14 @@ High blood sugar could lead to:
 - If you miss a dose of olanzapine tablets, take the missed dose as soon as you remember.
   If it is almost time for the next dose, just skip the missed dose and take your next dose at the regular time.
   Do not take two doses of olanzapine tablets at the same time.
-- To prevent serious side effects, do not stop taking Olanzapine tablets suddenly.
-  If you need to stop taking Olanzapine tablets, your doctor can tell you how to safely stop taking it.
+- To prevent serious side effects, do not stop taking olanzapine tablets suddenly.
+  If you need to stop taking olanzapine tablets, your doctor can tell you how to safely stop taking it.
 - If you take too much olanzapine tablets, call your doctor or poison control center at 1-800-222-1222 right away, or get emergency treatment.
 - Olanzapine tablets can be taken with or without food.
 - Olanzapine tablets is usually taken one time each day.
 
 - Call your doctor if you do not think you are getting better or have any concerns about your condition while taking olanzapine tablets.
-  What should I avoid while taking Olanzapine tablets?
+  What should I avoid while taking olanzapine tablets?
 - Olanzapine tablets can cause sleepiness and may affect your ability to make decisions, think clearly, or react quickly.
   You should not drive, operate heavy machinery, or do other dangerous activities until you know how olanzapine tablets affects you.
 - Avoid drinking alcohol while taking olanzapine tablets.
@@ -150,7 +150,7 @@ High blood sugar could lead to:
   These are not all the possible side effects with olanzapine tablets.
   For more information, ask your doctor or pharmacist.
   Call your doctor for medical advice about side effects.
-  You may report side effects to FDA at1-800-FDA-1088.
+  You may report side effects to FDA at 1-800-FDA-1088.
   How should I store olanzapine tablets?
   - sweating too much or not at all
   - dry mouth
@@ -173,7 +173,7 @@ It may harm them.
 This Medication Guide summarizes the most important information about olanzapine tablets.
 If you would like more information, talk with your doctor.
 You can ask your doctor or pharmacist for information about olanzapine tablets that was written for healthcare professionals.
-For more information about olanzapine tablets contact Ascend Laboratories, LLC at 1-877-ASC-RX01 (877-272-7901).
+For more information about olanzapine tablets contact Ascend Laboratories, LLC at 1-877-272-7901.
 
 What are the ingredients in olanzapine tablets, USP?
 
@@ -181,22 +181,17 @@ Active ingredient: olanzapine, USP
 
 Inactive ingredients: lactose monohydrate, hydroxypropyl cellulose, mannitol, and magnesium stearate.
 The color coating contains pectin, triacetin, titanium dioxide, talc, and FD&C Blue No. 2 Aluminum Lake (15 mg strength) or Iron Oxide Red (20 mg strength).
-Olanzapine tablets USP of all strengths are imprinted with edible ink which contains shellac, Iron Oxide Black, N-Butyl Alcohol, Propylene Glycol, Ammonium Hydroxide.
+Olanzapine tablets, USP of all strengths are imprinted with edible ink which contains shellac, Iron Oxide Black, N-Butyl Alcohol, Propylene Glycol, Ammonium Hydroxide.
 
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
 
-Medication Guide Revised September, 2022
+Medication Guide Revised September 2025
 
-Manufactured by:
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921
 
-Alkem Laboratories Ltd.,
+All other product/ brand names are trademarks of the respective owners.
 
-INDIA.
-
-Distributed by:
-
-Ascend Laboratories, LLC
-
-Parsippany, NJ 07054
+Revised September 2025
 
 PT1481-01

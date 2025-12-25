@@ -88,16 +88,5 @@ Atypical antipsychotics are not intended for use in the pediatric patient who ex
 Appropriate educational placement is essential and psychosocial intervention is often helpful.
 The decision to prescribe atypical antipsychotic medication will depend upon the healthcare provider’s assessment of the chronicity and severity of the patient’s symptoms [see Indications and Usage (1.3)].
 
-Manufactured by:
-
-Alkem Laboratories Ltd.,
-
-INDIA.
-
-Distributed by:
-
-Ascend Laboratories, LLC
-
-Parsippany, NJ 07054
-
-Revised September, 2022
+Manufactured by: Alkem Laboratories Ltd., Mumbai - 400 013, INDIA.
+Distributed by: Ascend Laboratories, LLC Bedminster, NJ 07921

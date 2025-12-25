@@ -24,6 +24,7 @@ Adolescents
 Dose Selection — Oral olanzapine should be administered on a once-a-day schedule without regard to meals with a recommended starting dose of 2.5 or 5 mg, with a target dose of 10 mg/day.
 Efficacy in adolescents with schizophrenia was demonstrated based on a flexible dose range of 2.5 to 20 mg/day in clinical trials, with a mean modal dose of 12.5 mg/day (mean dose of 11.1 mg/day).
 When dosage adjustments are necessary, dose increments/decrements of 2.5 or 5 mg are recommended.
+
 The safety and effectiveness of doses above 20 mg/day have not been evaluated in clinical trials [see Clinical Studies (14.1)].
 
 Maintenance Treatment — The efficacy of olanzapine for the maintenance treatment of schizophrenia in the adolescent population has not been systematically evaluated; however, maintenance efficacy can be extrapolated from adult data along with comparisons of olanzapine pharmacokinetic parameters in adult and adolescent patients.
@@ -37,6 +38,7 @@ Adults
 Dose Selection for Monotherapy — Oral olanzapine should be administered on a once-a-day schedule without regard to meals, generally beginning with 10 or 15 mg.
 Dosage adjustments, if indicated, should generally occur at intervals of not less than 24 hours, reflecting the procedures in the placebo-controlled trials.
 When dosage adjustments are necessary, dose increments/decrements of 5 mg QD are recommended.
+
 Short-term (3 to 4 weeks) antimanic efficacy was demonstrated in a dose range of 5 mg to 20 mg/day in clinical trials.
 The safety of doses above 20 mg/day has not been evaluated in clinical trials [see Clinical Studies (14.2)].
 
@@ -84,7 +86,7 @@ Dosage adjustments, if indicated, should be made with the individual components 
 
 Table 1: Approximate Dose Correspondence Between Symbyaxa and the
 
-Combination of olanzapine and Fluoxetine
+Combination of Olanzapine and Fluoxetine
 
 | For Symbyax (mg/day) | Use in Combination |  |
 | --- | --- | --- |

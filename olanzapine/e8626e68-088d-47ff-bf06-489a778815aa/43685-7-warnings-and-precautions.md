@@ -1,4 +1,4 @@
-# 5WARNINGS AND PRECAUTIONS
+# 5 WARNINGS AND PRECAUTIONS
 
 When using olanzapine and fluoxetine in combination, also refer to the Warnings and Precautions section of the package insert for Symbyax.
 
@@ -18,13 +18,6 @@ Olanzapine is not approved for the treatment of patients with dementia-related p
 The possibility of a suicide attempt is inherent in schizophrenia and in bipolar I disorder, and close supervision of high-risk patients should accompany drug therapy.
 Prescriptions for olanzapine should be written for the smallest quantity of tablets consistent with good patient management, in order to reduce the risk of overdose.
 
-## 5.4 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
-
-Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported with olanzapine exposure.
-DRESS may present with a cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, and/or lymphadenopathy with systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and/or pericarditis.
-DRESS is sometimes fatal.
-Discontinue olanzapine if DRESS is suspected [see Patient Counseling Information (17)].
-
 ## 5.3 Neuroleptic Malignant Syndrome (NMS)
 
 A potentially fatal symptom complex sometimes referred to as Neuroleptic Malignant Syndrome (NMS) has been reported in association with administration of antipsychotic drugs, including olanzapine.
@@ -40,6 +33,13 @@ There is no general agreement about specific pharmacological treatment regimens 
 
 If a patient requires antipsychotic drug treatment after recovery from NMS, the potential reintroduction of drug therapy should be carefully considered.
 The patient should be carefully monitored, since recurrences of NMS have been reported [see Patient Counseling Information (17)].
+
+## 5.4 Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)
+
+Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported with olanzapine exposure.
+DRESS may present with a cutaneous reaction (such as rash or exfoliative dermatitis), eosinophilia, fever, and/or lymphadenopathy with systemic complications such as hepatitis, nephritis, pneumonitis, myocarditis, and/or pericarditis.
+DRESS is sometimes fatal.
+Discontinue olanzapine if DRESS is suspected [see Patient Counseling Information (17)].
 
 ## 5.5 Metabolic Changes
 
@@ -358,7 +358,7 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is contemplated in a patient with previously detected breast cancer.
 As is common with compounds which increase prolactin release, an increase in mammary gland neoplasia was observed in the olanzapine carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans; the available evidence is considered too limited to be conclusive at this time.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 In placebo-controlled olanzapine clinical studies (up to 12 weeks), changes from normal to high in prolactin concentrations were observed in 30% of adults treated with olanzapine as compared to 10.5% of adults treated with placebo.
 In a pooled analysis from clinical studies including 8,136 adults treated with olanzapine, potentially associated clinical manifestations included menstrual-related events1 (2% [49/3,240] of females), sexual function-related events2 (2% [150/8,136] of females and males), and breast-related events3 (0.7% [23/3,240] of females, 0.2% [9/4,896] of males).

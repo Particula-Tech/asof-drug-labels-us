@@ -2,7 +2,7 @@
 
 ## 16.1 How Supplied
 
-Olanzapine tablets 2.5 mg USP
+Olanzapine tablets, USP 2.5 mg
 
 White to off white colored, film-coated, round shaped, biconvex tablets, imprinted “2.5” with black ink on one side and plain on the other side.
 
@@ -18,7 +18,7 @@ Bottles of 100 tablets NDC 67877-172-01
 
 Bottles of 1000 tablets NDC 67877-172-10
 
-Olanzapine tablets5 mg USP
+Olanzapine tablets, USP 5 mg
 
 White to off white colored film-coated, round shaped, biconvex tablets, imprinted “5” with black ink on one side and plain on the other side.
 
@@ -34,7 +34,7 @@ Bottles of 100 tablets NDC 67877-173-01
 
 Bottles of 1000 tablets NDC 67877-173-10
 
-Olanzapine tablets7.5 mg USP
+Olanzapine tablets, USP 7.5 mg
 
 White to off white colored, film-coated, round shaped, biconvex tablets, imprinted “7.5” with black ink on one side and plain on the other side.
 
@@ -50,7 +50,7 @@ Bottles of 100 tablets NDC 67877-174-01
 
 Bottles of 1000 tablets NDC 67877-174-10
 
-Olanzapine tablets10 mg USP
+Olanzapine tablets, USP 10 mg
 
 White to off white colored, film-coated, round shaped, biconvex tablets, imprinted “10” with black ink on one side and plain on the other side.
 
@@ -66,7 +66,7 @@ Bottles of 100 tablets NDC 67877-175-01
 
 Bottles of 1000 tablets NDC 67877-175-10
 
-Olanzapine tablets 15 mg USP
+Olanzapine tablets, USP 15 mg
 
 Blue colored, film-coated, elliptical shaped, biconvex tablets, imprinted “15” with black ink on one side and plain on the other side.
 
@@ -82,7 +82,7 @@ Bottles of 100 tablets NDC 67877-176-01
 
 Bottles of 1000 tablets NDC 67877-176-10
 
-Olanzapine tablets USP 20 mg
+Olanzapine tablets, USP 20 mg
 
 Pink colored, film-coated, elliptical shaped, biconvex tablets, imprinted “20” with black ink on one side and plain on the other side.
 
