@@ -164,4 +164,4 @@ The brands listed are trademarks of their respective owners and are not trademar
 
 Manufactured by: ScieGen Pharmaceuticals, Inc. Hauppauge, NY 11788 USA
 
-Rev: 8/2021
+Rev: 10/2025

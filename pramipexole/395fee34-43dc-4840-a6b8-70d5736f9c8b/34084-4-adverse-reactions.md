@@ -210,4 +210,6 @@ Musculoskeletal and Connective Tissue Disorders: postural deformity [see Warning
 
 Nervous System Disorders: syncope
 
+Reproductive System and Breast Disorders: priapism
+
 Skin and Subcutaneous Tissue Disorders: skin reactions (including erythema, rash, pruritus, urticaria)
