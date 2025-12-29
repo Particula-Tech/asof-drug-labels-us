@@ -7,3 +7,7 @@ The molecular formula of the compound is C5H9NO3S, and its molecular weight is 1
 Acetylcysteine has the following structural formula: Acetylcysteine injection is supplied as a sterile solution in vials containing 20% w/v (200 mg/mL) acetylcysteine USP.
 The pH of the solution ranges from 6 to 7.5.
 Acetylcysteine injection contains the following inactive ingredients: 0.5 mg/mL edetate disodium, sodium hydroxide (used for pH adjustment), and Water for Injection, USP.
+
+The amount of sodium in acetylcysteine injection is approximately 30 mg/mL.
+Because acetylcysteine injection is administered based on a patient’s weight, the amount of sodium administered in a course of treatment will vary from approximately 225 mg to 4,500 mg.
+The use of ½ normal saline will contribute approximately an additional 1,770 mg of sodium per liter of diluent.

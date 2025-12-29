@@ -25,4 +25,4 @@ Breastfeeding women may consider pumping and discarding their milk for 30 hours 
 ## 8.4 Pediatric Use
 
 Safety and effectiveness of acetylcysteine in pediatric patients have not been established by adequate and well-controlled studies.
-Use of acetylcysteine in pediatric patients 5 kg and greater is based on clinical practice [see Dosage and Administration (2.4)].
+Use of acetylcysteine in pediatric patients 5 kg and greater is based on clinical practice [see Dosage and Administration (2.5)].
