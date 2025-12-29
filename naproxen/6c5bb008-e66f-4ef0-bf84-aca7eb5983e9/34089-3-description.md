@@ -27,7 +27,9 @@ Naproxen, USP has a molecular weight of 230.26 g/mol and a molecular formula of 
 Naproxen sodium, USP has a molecular weight of 252.24 g/mol and a molecular formula of C14H13NaO3.
 Naproxen, USP and naproxen sodium, USP have the following structures, respectively:
 
-- Naproxen Naproxen Sodium
+1. Naproxen
+
+1. Naproxen Sodium
 
 Naproxen, USP is a white to off-white crystalline powder.
 It is soluble in chloroform, dehydrated alcohol and alcohol; sparingly soluble in ether, insoluble in water.

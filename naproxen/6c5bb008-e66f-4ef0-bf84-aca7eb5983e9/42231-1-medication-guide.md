@@ -71,7 +71,9 @@ NSAIDs can cause serious side effects, including: See “What is the most import
 - •life-threatening skin reactions
 - •life-threatening allergic reactions
 - •Other side effects of NSAIDs include: stomach pain, constipation, diarrhea, gas, heartburn, nausea, vomiting, and dizziness.
-  Get emergency help right away if you get any of the following symptoms:
+
+Get emergency help right away if you get any of the following symptoms:
+
 - •shortness of breath or trouble breathing
 - •slurred speech
 - •chest pain
@@ -113,19 +115,17 @@ It may harm them.
 If you would like more information about NSAIDs, talk with your healthcare provider.
 You can ask your pharmacist or healthcare provider for information about NSAIDs that is written for health professionals.
 
-Medication Guide available at www.glenmarkpharma-us.com/medguides
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-May 2021
-
 This Medication Guide has been approved by the U.S. Food and Drug Administration.
+
+1. Revised: July 2025
