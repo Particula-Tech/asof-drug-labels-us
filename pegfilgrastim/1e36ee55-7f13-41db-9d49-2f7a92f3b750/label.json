@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761173"
+  ],
+  "inn": "pegfilgrastim",
+  "labeler": "NORTHSTAR RX LLC",
+  "package_ndcs": [
+    "72603-402-01"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "pegflilgrastim-fpgk",
+      "name": "STIMUFEND"
+    }
+  ],
+  "setid": "1e36ee55-7f13-41db-9d49-2f7a92f3b750",
+  "source": "dailymed"
+}
