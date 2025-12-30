@@ -22,4 +22,4 @@ Ahmedabad 382213, INDIA Distributed by:
 Amneal Pharmaceuticals LLC Bridgewater, NJ 08807
 
 Rev.
-06-2024-06
+12-2025-07

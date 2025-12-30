@@ -67,7 +67,7 @@ Corticosteroid-associated infections can be mild but can be severe and at times 
 The rate of infectious complications increases with increasing corticosteroid dosages.
 
 A study has failed to establish the efficacy of methylprednisolone sodium succinate in the treatment of sepsis syndrome and septic shock.
-The study also suggests that treatment of these conditions with methylprednisolone sodium succinate may increase the risk of mortality in certain patients (i.e. patients with elevated serum creatinine levels or patients who develop secondary infections after methylprednisolone sodium succinate).
+The study also suggests that treatment of these conditions with methylprednisolone sodium succinate may increase the risk of mortality in certain patients (i.e., patients with elevated serum creatinine levels or patients who develop secondary infections after methylprednisolone sodium succinate).
 
 Monitor for the development of infection and consider methylprednisolone sodium succinate withdrawal or dosage reduction as needed.
 
@@ -102,7 +102,7 @@ For patients on chronic methylprednisolone sodium succinate therapy who develop 
 Amebiasis
 
 Corticosteroids, including methylprednisolone sodium succinate, may activate latent amebiasis.
-Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating corticosteroid therapy in patients who have spent time in the tropics or patients with unexplained diarrhea.
+Therefore, it is recommended that latent amebiasis or active amebiasis be ruled out before initiating methylprednisolone sodium succinate in patients who have spent time in the tropics or patients with unexplained diarrhea.
 
 Strongyloides Infestation
 
@@ -180,9 +180,9 @@ There is an enhanced effect due to decreased metabolism of corticosteroids in pa
 
 Musculoskeletal
 
-Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (i.e. decreasing absorption and increasing excretion) and inhibition of osteoblast function.
+Corticosteroids decrease bone formation and increase bone resorption both through their effect on calcium regulation (i.e., decreasing absorption and increasing excretion) and inhibition of osteoblast function.
 This, together with a decrease in the protein matrix of the bone secondary to an increase in protein catabolism, and reduced sex hormone production, may lead to inhibition of bone growth in pediatric patients and the development of osteoporosis at any age.
-Special consideration should be given to patients at increased risk of osteoporosis (i.e. postmenopausal women) before initiating corticosteroid therapy.
+Special consideration should be given to patients at increased risk of osteoporosis (i.e., postmenopausal women) before initiating corticosteroid therapy.
 
 Local injection of a steroid into a previously infected site is not usually recommended.
 
@@ -220,7 +220,7 @@ Patients should also be advised that if they are exposed, medical advice should 
 
 Aminoglutethimide: Aminoglutethimide may lead to a loss of corticosteroid-induced adrenal suppression.
 
-Amphotericin B injection and potassium-depleting agents: When corticosteroids are administered concomitantly with potassium-depleting agents (i.e. amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
+Amphotericin B injection and potassium-depleting agents: When corticosteroids are administered concomitantly with potassium-depleting agents (i.e., amphotericin B, diuretics), patients should be observed closely for development of hypokalemia.
 There have been cases reported in which concomitant use of amphotericin B and hydrocortisone was followed by cardiac enlargement and congestive heart failure.
 
 Antibiotics: Macrolide antibiotics have been reported to cause a significant decrease in corticosteroid clearance (see Drug Interactions, Hepatic Enzyme Inhibitors).
@@ -304,7 +304,7 @@ Other indications for pediatric use of corticosteroids, e.g., severe asthma and 
 The adverse effects of corticosteroids in pediatric patients are similar to those in adults (see ADVERSE REACTIONS).
 Like adults, pediatric patients should be carefully observed with frequent measurements of blood pressure, weight, height, intraocular pressure, and clinical evaluation for the presence of infection, psychosocial disturbances, thromboembolism, peptic ulcers, cataracts, and osteoporosis.
 Pediatric patients who are treated with corticosteroids by any route, including systemically administered corticosteroids, may experience a decrease in their growth velocity.
-This negative impact of corticosteroids on growth has been observed at low systemic doses and in the absence of laboratory evidence of HPA axis suppression (i.e. cosyntropin stimulation and basal cortisol plasma levels).
+This negative impact of corticosteroids on growth has been observed at low systemic doses and in the absence of laboratory evidence of HPA axis suppression (i.e., cosyntropin stimulation and basal cortisol plasma levels).
 Growth velocity may therefore be a more sensitive indicator of systemic corticosteroid exposure in pediatric patients than some commonly used tests of HPA axis function.
 The linear growth of pediatric patients treated with corticosteroids should be monitored, and the potential growth effects of prolonged treatment should be weighed against clinical benefits obtained and the availability of treatment alternatives.
 In order to minimize the potential growth effects of corticosteroids, pediatric patients should be titrated to the lowest effective dose.

@@ -27,6 +27,8 @@ Arachnoiditis, meningitis, paraparesis/paraplegia, and sensory disturbances have
 
 Ophthalmic: Exophthalmos, glaucoma, increased intraocular pressure, posterior subcapsular cataracts, rare instances of blindness associated with periocular injections.
 
+Vascular: Flushing.
+
 Other: Abnormal fat deposits, decreased resistance to infection, hiccups, increased or decreased motility and number of spermatozoa, injection site infections following non-sterile administration (see WARNINGS), malaise, moon face, weight gain.
 
-To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
+To report SUSPECTED ADVERSE REACTIONS, contact Amneal Pharmaceuticals LLC at 1-877-835-5472 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch.
