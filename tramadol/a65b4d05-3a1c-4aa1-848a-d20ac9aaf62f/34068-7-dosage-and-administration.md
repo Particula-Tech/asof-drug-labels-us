@@ -10,46 +10,46 @@
 - Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 - Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with CONZIP.
   Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5.2)].
+- CONZIP is administered orally once daily.
 - Instruct patients to swallow CONZIP capsules whole, and to take it with liquid.
   Breaking, chewing, splitting, or dissolving CONZIP capsules will result in uncontrolled delivery of tramadol and can lead to overdose or death [see Warnings and Precautions (5.1)].
 - CONZIP may be taken without regard to food.
   It is recommended that CONZIP be taken in a consistent manner [see Clinical Pharmacology (12.3)].
 
-## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with CONZIP [see Warnings and Precautions (5.2)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
 
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of community-based program).
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.2)].
 
-Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.2, 5.8)].
-
-Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
 ## 2.3 Initial Dosage
 
-Patients Not Currently on a Tramadol Product
+It is safer to underestimate a patient's 24-hour tramadol requirements and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour tramadol dosage and manage an adverse reaction due to an overdose.
+While useful tables of opioid equivalents are readily available, there is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Frequently reevaluate patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to CONZIP.
+
+Use of CONZIP
 
 The initial dose of CONZIP is 100 mg once daily.
 
 Patients Currently on Tramadol Immediate-Release (IR) Products
 
 Calculate the 24-hour tramadol IR dose and initiate a total daily dose of CONZIP rounded down to the next lowest 100 mg increment.
+The dose should be taken once daily.
 The dose may subsequently be individualized according to patient need.
 
 Due to limitations in flexibility of dose selection with CONZIP, some patients maintained on tramadol IR products may not be able to convert to CONZIP.
 
-Conversion from Other Opioids to CONZIP
+Conversion from Other Opioid Analgesics to CONZIP
 
-When CONZIP therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
+When CONZIP therapy is initiated, discontinue all opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
 There are no established conversion ratios for conversion from other opioids to CONZIP defined by clinical trials.
 Initiate dosing using CONZIP 100 mg once a day.
-
-It is safer to underestimate a patient's 24-hour tramadol requirements and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour tramadol dosage and manage an adverse reaction due to an overdose.
-While useful tables of opioid equivalents are readily available, there is inter-patient variability in the potency of opioid drugs and opioid formulations.
-
-Close observation and frequent titration are warranted until pain management is stable on the new opioid.
-Monitor patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to CONZIP.
 
 ## 2.4 Titration and Maintenance Therapy
 
@@ -69,9 +69,9 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 ## 2.5 Safe Reduction or Discontinuation of CONZIP
 
-Do not abruptly discontinue CONZIP in patients who may be physically dependent on opioids.
-Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Do not rapidly reduce or abruptly discontinue CONZIP in patients who may be physically dependent on opioids.
+Rapid reduction or abrupt discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
 When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking CONZIP, there are a variety of factors that should be considered, including the total daily dose of opioid (including CONZIP) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.

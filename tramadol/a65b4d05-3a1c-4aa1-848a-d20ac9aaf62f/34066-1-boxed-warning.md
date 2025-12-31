@@ -13,7 +13,7 @@ Instruct patients to swallow CONZIP capsules intact, and not to split, break, ch
 
 Accidental Ingestion
 
-Accidental ingestion of CONZIP, especially by children, can result in a fatal overdose of tramadol [see Warnings and Precautions (5.2)].
+Accidental ingestion of even one dose of CONZIP, especially by children, can result in a fatal overdose of tramadol [see Warnings and Precautions (5.2)].
 
 Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 
@@ -22,7 +22,7 @@ Reserve concomitant prescribing of CONZIP and benzodiazepines or other CNS depre
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
+Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
 Ensure that management by neonatology experts will be available at delivery [see Warnings and Precautions (5.4)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)

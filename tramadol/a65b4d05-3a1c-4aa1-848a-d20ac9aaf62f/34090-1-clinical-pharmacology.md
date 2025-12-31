@@ -35,7 +35,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Tramadol causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -87,10 +87,10 @@ Following administration of CONZIP 200 mg capsules, steady-state plasma concentr
 
 Table 3
 
-| Parameter | Tramadol hydrochloride Extended- Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg | Tramadol hydrochloride Extended-Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg |
+| Tramadol hydrochloride Extended- Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg | Tramadol hydrochloride Extended-Release Capsules 200 mg | A Reference Extended-Release Tramadol Product 200 mg |  |
 | --- | --- | --- | --- | --- |
 | Mean (%CV) Steady-State Pharmacokinetic Parameter Values (N= 38) |  |  |  |  |
-|  | Tramadol |  | O-Desmethyltramadol (M1 Metabolite) |  |
+| Parameter | Tramadol |  | O-Desmethyltramadol (M1 Metabolite) |  |
 | AUC0-24 (ng.hr/mL) | 5678 (27%) | 5563 (32%) | 1319 (34%) | 1302 (40%) |
 | Cmax (ng/mL) | 332 (25%) | 350 (31%) | 70 (34%) | 74 (41%) |
 | Cmin (ng/mL) | 128 (39%) | 125 (45%) | 35 (34%) | 33 (42%) |
