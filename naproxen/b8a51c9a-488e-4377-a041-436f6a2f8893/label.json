@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA020353"
+  ],
+  "inn": "naproxen",
+  "labeler": "Upsher-Smith Laboratories, LLC",
+  "package_ndcs": [
+    "24979-249-01",
+    "24979-250-68",
+    "24979-251-06"
+  ],
+  "products": [
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "naproxen sodium",
+      "name": "Naprelan"
+    }
+  ],
+  "setid": "b8a51c9a-488e-4377-a041-436f6a2f8893",
+  "source": "dailymed"
+}
