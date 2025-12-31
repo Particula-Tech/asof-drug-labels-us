@@ -1,0 +1,21 @@
+{
+  "application_numbers": [
+    "NDA219531"
+  ],
+  "inn": "amlodipine",
+  "labeler": "Pangea Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "81279-133-10",
+    "81279-134-10",
+    "81279-135-10"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "amlodipine",
+      "name": "Sdamlo"
+    }
+  ],
+  "setid": "886a7f97-60a4-4206-a6c7-5206069ed487",
+  "source": "dailymed"
+}
