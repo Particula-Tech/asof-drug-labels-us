@@ -16,9 +16,9 @@ Patients with thyroid nodules noted on physical examination or neck imaging shou
 
 ## 5.2 Acute Pancreatitis
 
-Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, or MOUNJARO [see Adverse Reactions (6.1)].
+Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, or MOUNJARO [see Adverse Reactions (6)].
 
-After initiation of MOUNJARO, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting).
+After initiation of MOUNJARO, observe patients carefully for signs and symptoms of acute pancreatitis, which may include persistent or severe abdominal pain (sometimes radiating to the back) and which may or may not be accompanied by nausea or vomiting.
 If pancreatitis is suspected, discontinue MOUNJARO and initiate appropriate management.
 
 ## 5.3 Hypoglycemia with Concomitant Use of Insulin Secretagogues or Insulin
@@ -39,14 +39,16 @@ Use caution in patients with a history of angioedema or anaphylaxis with a GLP-1
 
 ## 5.5 Acute Kidney Injury Due to Volume Depletion
 
-There have been postmarketing reports of acute kidney injury, in some cases requiring hemodialysis, in patients treated with GLP-1 receptor agonists, or MOUNJARO [see Adverse Reactions (6.2)].
-The majority of the reported events occurred in patients who experienced gastrointestinal adverse reactions leading to dehydration such as nausea, vomiting, or diarrhea [see Adverse Reactions (6.1)].
+There have been postmarketing reports of acute kidney injury, in some cases requiring hemodialysis, in patients treated with GLP-1 receptor agonists, or MOUNJARO.
+The majority of the reported events occurred in patients who experienced gastrointestinal adverse reactions leading to dehydration such as nausea, vomiting, or diarrhea [see Adverse Reactions (6)].
+
 Monitor renal function in patients reporting adverse reactions to MOUNJARO that could lead to volume depletion, especially during dosage initiation and escalation of MOUNJARO.
 
 ## 5.6 Severe Gastrointestinal Adverse Reactions
 
 Use of MOUNJARO has been associated with gastrointestinal adverse reactions, sometimes severe [see Adverse Reactions (6)].
-In the pool of placebo-controlled trials, severe gastrointestinal adverse reactions occurred more frequently among patients receiving MOUNJARO (5 mg 1.3%, 10 mg 0.4%, 15 mg 1.2%) than placebo (0.9%).
+In the pool of placebo-controlled trials in adults, severe gastrointestinal adverse reactions occurred more frequently among patients receiving MOUNJARO (5 mg 1.3%, 10 mg 0.4%, 15 mg 1.2%) than placebo (0.9%).
+Severe gastrointestinal adverse reactions have also been reported postmarketing with GLP-1 receptor agonists.
 
 MOUNJARO is not recommended in patients with severe gastroparesis.
 
@@ -60,7 +62,7 @@ Patients with a history of diabetic retinopathy should be monitored for progress
 
 Acute events of gallbladder disease such as cholelithiasis or cholecystitis have been reported in GLP-1 receptor agonist trials and postmarketing.
 
-In MOUNJARO placebo-controlled clinical trials, acute gallbladder disease (cholelithiasis, biliary colic, and cholecystectomy) was reported by 0.6% of MOUNJARO-treated patients and 0% of placebo-treated patients.
+In MOUNJARO placebo-controlled clinical trials in adults, acute gallbladder disease (cholelithiasis, biliary colic, and cholecystectomy) was reported by 0.6% of MOUNJARO-treated patients and 0% of placebo-treated patients.
 If cholelithiasis is suspected, gallbladder diagnostic studies and appropriate clinical follow-up are indicated.
 
 ## 5.9 Pulmonary Aspiration During General Anesthesia or Deep Sedation

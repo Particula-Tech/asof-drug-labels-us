@@ -21,7 +21,7 @@ Clinical Considerations
 
 Disease-Associated Maternal and/or Embryo/Fetal Risk
 
-Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery and delivery complications.
+Poorly controlled diabetes in pregnancy increases the maternal risk for diabetic ketoacidosis, pre-eclampsia, spontaneous abortions, preterm delivery, and delivery complications.
 Poorly controlled diabetes increases the fetal risk for major birth defects, stillbirth, and macrosomia-related morbidity.
 
 Data
@@ -57,7 +57,12 @@ Advise patients using oral hormonal contraceptives to switch to a non-oral contr
 
 ## 8.4 Pediatric Use
 
-Safety and effectiveness of MOUNJARO have not been established in pediatric patients.
+The safety and effectiveness of MOUNJARO as an adjunct to diet and exercise to improve glycemic control in pediatric patients 10 years of age and older with type 2 diabetes mellitus have been established.
+Use of MOUNJARO for this indication is supported by a 30-week, randomized, double-blind, placebo-controlled trial with a 22-week open label extension in 99 pediatric patients [see Clinical Studies (14.5)].
+
+Adverse reactions reported in pediatric patients 10 years of age and older treated with MOUNJARO were similar to those reported in adults with the exception of a higher incidence of vomiting, abdominal pain, and hypoglycemia [see Adverse Reactions (6.1)].
+
+The safety and effectiveness of MOUNJARO have not been established in pediatric patients less than 10 years of age.
 
 ## 8.5 Geriatric Use
 

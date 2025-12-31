@@ -67,6 +67,11 @@ Specific Populations
 
 The intrinsic factors of age, gender, race, ethnicity, or body weight do not have a clinically relevant effect on the PK of tirzepatide.
 
+Pediatric Patients
+
+A population pharmacokinetic analysis was conducted for tirzepatide 5 mg and 10 mg using data from 93 pediatric patients 10 years of age and older with type 2 diabetes mellitus.
+The tirzepatide exposure in pediatric patients was within the range observed in adult patients.
+
 Patients with Renal Impairment
 
 Renal impairment does not impact the pharmacokinetics of tirzepatide.
@@ -101,9 +106,14 @@ The observed incidence of anti-drug antibodies is highly dependent on the sensit
 Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies in the trials described below with the incidence of anti-drug antibodies in other trials.
 
 During the 40- to 104-week treatment periods with ADA sampling conducted up to 44 to 108 weeks in seven clinical trials in adults with type 2 diabetes mellitus [see Clinical Studies (14)], 51% (2,570/5,025) of MOUNJARO-treated patients developed anti-tirzepatide antibodies.
-In these trials, anti-tirzepatide antibody formation in 34% and 14% of MOUNJARO-treated patients showed cross-reactivity to native GIP or native GLP-1, respectively.
+In these trials, anti-tirzepatide antibody formation in 34% and 14% of MOUNJARO-treated adult patients showed cross-reactivity to native GIP or native GLP-1, respectively.
 
 Of the 2,570 MOUNJARO-treated patients who developed anti-tirzepatide antibodies during the treatment periods in these seven trials, 2% and 2% developed neutralizing antibodies against tirzepatide activity on the GIP or GLP-1 receptors, respectively, and 0.9% and 0.4% developed neutralizing antibodies against native GIP or GLP-1, respectively.
 
+During the 30-week double-blind placebo-controlled period of the glycemic control trial in pediatric patients 10 years of age or older with type 2 diabetes mellitus [see Clinical Studies (14.5)], 30/61 (49%) of MOUNJARO-treated pediatric patients developed anti-tirzepatide antibodies.
+Anti-tirzepatide antibodies showed cross reactivity to native GIP or native GLP-1 in 26% and 8% of MOUNJARO-treated pediatric patients, respectively.
+There were no neutralizing antibodies against tirzepatide activity on the GIP or GLP-1 receptors.
+No pediatric patients developed neutralizing antibodies against native GIP or GLP-1.
+
 There was no identified clinically significant effect of anti-tirzepatide antibodies on pharmacokinetics or effectiveness of MOUNJARO.
-More MOUNJARO-treated patients who developed anti-tirzepatide antibodies experienced hypersensitivity reactions or injection site reactions than those who did not develop these antibodies [see Adverse Reactions (6.1)].
+More MOUNJARO-treated adult and pediatric patients who developed anti-tirzepatide antibodies experienced hypersensitivity reactions or injection site reactions than those who did not develop these antibodies [see Adverse Reactions (6.1)].

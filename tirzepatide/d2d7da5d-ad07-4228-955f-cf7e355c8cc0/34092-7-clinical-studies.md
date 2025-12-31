@@ -4,22 +4,24 @@
 
 The effectiveness of MOUNJARO as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus was established in five trials.
 In these trials, MOUNJARO was studied as monotherapy (SURPASS-1); as an add-on to metformin, sulfonylureas, and/or sodium-glucose co-transporter 2 inhibitors (SGLT2 inhibitors) (SURPASS-2, -3, and -4); and in combination with basal insulin with or without metformin (SURPASS-5).
-In these trials, MOUNJARO (5 mg, 10 mg, and 15 mg given subcutaneously once weekly) was compared with placebo, semaglutide 1 mg, insulin degludec, and/or insulin glargine.
+In these trials, MOUNJARO (5 mg, 10 mg, and 15 mg given subcutaneously once weekly) was compared with placebo, semaglutide 1 mg, insulin degludec, and/or insulin glargine [see Clinical Studies (14.2, 14.3, 14.4)].
 
 In adult patients with type 2 diabetes mellitus, treatment with MOUNJARO produced a statistically significant reduction from baseline in HbA1c compared to placebo.
 The effectiveness of MOUNJARO was not impacted by age, gender, race, ethnicity, region, or by baseline BMI, HbA1c, diabetes duration, or renal function.
 
+MOUNJARO 5 mg and 10 mg was studied in pediatric patients 10 years of age and older with type 2 diabetes in combination with metformin and/or basal insulin [see Clinical Studies (14.5)].
+
 ## 14.2 Monotherapy Use of MOUNJARO in Adult Patients with Type 2 Diabetes Mellitus
 
-SURPASS-1 (NCT03954834) was a 40-week double-blind trial that randomized 478 adult patients with type 2 diabetes mellitus with inadequate glycemic control with diet and exercise to MOUNJARO 5 mg, MOUNJARO 10 mg, MOUNJARO 15 mg, or placebo once weekly.
+SURPASS-1 (NCT03954834) was a 40-week double-blind trial that randomized 478 adult patients with type 2 diabetes mellitus with inadequate glycemic control with diet and exercise to subcutaneous MOUNJARO 5 mg, MOUNJARO 10 mg, MOUNJARO 15 mg, or placebo once weekly.
 
 Patients had a mean age of 54 years, and 52% were men.
 The mean duration of type 2 diabetes mellitus was 4.7 years, and the mean BMI was 32 kg/m2.
 Overall, 36% were White, 35% were Asian, 25% were American Indians/Alaska Natives, and 5% were Black or African American; 43% identified as Hispanic or Latino ethnicity.
 
-Monotherapy with MOUNJARO 5 mg, 10 mg and 15 mg once weekly for 40 weeks resulted in a statistically significant reduction in HbA1c compared with placebo (see Table 3).
+Monotherapy with MOUNJARO 5 mg, 10 mg and 15 mg once weekly for 40 weeks resulted in a statistically significant reduction in HbA1c compared with placebo (see Table 4).
 
-Table 3: Results at Week 40 in a Trial of MOUNJARO as Monotherapy in Adult Patients with Type 2 Diabetes Mellitus with Inadequate Glycemic Control with Diet and Exercise
+Table 4: Results at Week 40 in a Trial of MOUNJARO as Monotherapy in Adult Patients with Type 2 Diabetes Mellitus with Inadequate Glycemic Control with Diet and Exercise
 
 |  | Placebo | MOUNJARO 5 mg | MOUNJARO 10 mg | MOUNJARO 15 mg |
 | --- | --- | --- | --- | --- |
@@ -39,22 +41,22 @@ Table 3: Results at Week 40 in a Trial of MOUNJARO as Monotherapy in Adult Patie
 | Difference from placebob (95% CI) | -- | -5.3c (-6.8, -3.9) | -6.0c (-7.4, -4.6) | -6.8c (-8.3, -5.4) |
 | a The modified intent-to-treat population consists of all randomly assigned participants who were exposed to at least 1 dose of study drug. Patients who discontinued study treatment because they did not meet study enrollment criteria were excluded. During the trial, rescue medication (additional antihyperglycemic medication) was initiated by 25%, 2%, 3%, and 2% of patients randomized to placebo, MOUNJARO 5 mg, 10 mg, and 15 mg, respectively. At Week 40 the HbA1c data were missing for 12%, 6%, 7%, and 14% of patients randomized to placebo, MOUNJARO 5 mg, 10 mg, and 15 mg, respectively. Missing Week 40 data were imputed using placebo-based multiple imputation. |  |  |  |  |
 | b Least-squares mean from ANCOVA adjusted for baseline value and other stratification factors. |  |  |  |  |
-| c p<0.001 (two-sided) for superiority vs. placebo, adjusted for multiplicity. |  |  |  |  |
+| c p<0.001 (two-sided) for superiority versus placebo, adjusted for multiplicity. |  |  |  |  |
 | d Analyzed using logistic regression adjusted for baseline value and other stratification factors. |  |  |  |  |
 
 ## 14.3 MOUNJARO Use in Combination with Metformin, Sulfonylureas, and/or SGLT2 Inhibitors in Adult Patients with Type 2 Diabetes Mellitus
 
 Add-on to metformin
 
-SURPASS-2 (NCT03987919) was a 40-week open-label trial (double-blind with respect to MOUNJARO dose assignment) that randomized 1879 adult patients with type 2 diabetes mellitus with inadequate glycemic control on stable doses of metformin alone to the addition of MOUNJARO 5 mg, MOUNJARO 10 mg, or MOUNJARO 15 mg once weekly or subcutaneous semaglutide 1 mg once weekly.
+SURPASS-2 (NCT03987919) was a 40-week open-label trial (double-blind with respect to MOUNJARO dose assignment) that randomized 1879 adult patients with type 2 diabetes mellitus with inadequate glycemic control on stable doses of metformin alone to the addition of subcutaneous MOUNJARO 5 mg, MOUNJARO 10 mg, or MOUNJARO 15 mg once weekly or subcutaneous semaglutide 1 mg once weekly.
 
 Patients had a mean age of 57 years and 47% were men.
 The mean duration of type 2 diabetes mellitus was 8.6 years, and the mean BMI was 34 kg/m2.
 Overall, 83% were White, 4% were Black or African American, and 1% were Asian; 70% identified as Hispanic or Latino ethnicity.
 
-Treatment with MOUNJARO 10 mg and 15 mg once weekly for 40 weeks resulted in a statistically significant reduction in HbA1c compared with semaglutide 1 mg once weekly (see Table 4 and Figure 2).
+Treatment with MOUNJARO 10 mg and 15 mg once weekly for 40 weeks resulted in a statistically significant reduction in HbA1c compared with semaglutide 1 mg once weekly (see Table 5 and Figure 2).
 
-Table 4: Results at Week 40 in a Trial of MOUNJARO versus Semaglutide 1 mg in Adult Patients with Type 2 Diabetes Mellitus Added to Metformin
+Table 5: Results at Week 40 in a Trial of MOUNJARO versus Semaglutide 1 mg in Adult Patients with Type 2 Diabetes Mellitus Added to Metformin
 
 |  | Semaglutide 1 mg | MOUNJARO 5 mg | MOUNJARO 10 mg | MOUNJARO 15 mg |
 | --- | --- | --- | --- | --- |
@@ -73,10 +75,10 @@ Table 4: Results at Week 40 in a Trial of MOUNJARO versus Semaglutide 1 mg in Ad
 | Difference from semaglutideb (95% CI) | -- | -1.9c (-2.8, -1.0) | -3.6d (-4.5, -2.7) | -5.5d (-6.4, -4.6) |
 | a The modified intent-to-treat population consists of all randomly assigned participants who were exposed to at least 1 dose of study drug. Patients who discontinued study treatment because they did not meet study enrollment criteria were excluded. During the trial, rescue medication (additional antihyperglycemic medication) was initiated by 3%, 2%, 1%, and 1% of patients randomized to semaglutide 1 mg, MOUNJARO 5 mg, 10 mg, and 15 mg, respectively. At Week 40 the HbA1c endpoint was missing for 5%, 4%, 5%, and 5% of patients randomized to semaglutide 1 mg, MOUNJARO 5 mg, 10 mg, and 15 mg, respectively. Missing Week 40 data were imputed using multiple imputation with retrieved dropout. |  |  |  |  |
 | b Least-squares mean from ANCOVA adjusted for baseline value and other stratification factors. |  |  |  |  |
-| c p<0.05 (two-sided) for superiority vs. semaglutide, adjusted for multiplicity. |  |  |  |  |
-| d p<0.001 (two-sided) for superiority vs. semaglutide, adjusted for multiplicity. |  |  |  |  |
+| c p<0.05 (two-sided) for superiority versus semaglutide, adjusted for multiplicity. |  |  |  |  |
+| d p<0.001 (two-sided) for superiority versus semaglutide, adjusted for multiplicity. |  |  |  |  |
 | e Analyzed using logistic regression adjusted for baseline value and other stratification factors. |  |  |  |  |
-| f p<0.01 (two-sided) for superiority vs. semaglutide, adjusted for multiplicity. |  |  |  |  |
+| f p<0.01 (two-sided) for superiority versus semaglutide, adjusted for multiplicity. |  |  |  |  |
 
 Figure 2: Mean HbA1c (%) Over Time - Baseline to Week 40
 
@@ -92,7 +94,7 @@ Note: Displayed results are from modified Intent-to-Treat Full Analysis Set.
 
 Add-on to metformin with or without SGLT2 inhibitor
 
-SURPASS-3 (NCT03882970) was a 52-week open-label trial that randomized 1444 adult patients with type 2 diabetes mellitus with inadequate glycemic control on stable doses of metformin with or without SGLT2 inhibitor to the addition of MOUNJARO 5 mg, MOUNJARO 10 mg, MOUNJARO 15 mg once weekly, or insulin degludec 100 units/mL once daily.
+SURPASS-3 (NCT03882970) was a 52-week open-label trial that randomized 1444 adult patients with type 2 diabetes mellitus with inadequate glycemic control on stable doses of metformin with or without SGLT2 inhibitor to the addition of subcutaneous MOUNJARO 5 mg, MOUNJARO 10 mg, MOUNJARO 15 mg once weekly, or insulin degludec 100 units/mL once daily.
 In this trial, 32% of patients were on SGLT2 inhibitor.
 Insulin degludec was initiated at 10 units once daily and adjusted weekly throughout the trial using a treat-to-target algorithm based on self-measured fasting blood glucose values.
 At Week 52, 26% of patients randomized to insulin degludec achieved the fasting serum glucose target of <90 mg/dL, and the mean daily insulin degludec dose was 49 U (0.5 U per kilogram).
@@ -101,9 +103,9 @@ Patients had a mean age of 57 years, and 56% were men.
 The mean duration of type 2 diabetes mellitus was 8.4 years, and the mean baseline BMI was 34 kg/m2.
 Overall, 91% were White, 3% were Black or African American, and 5% were Asian; 29% identified as Hispanic or Latino ethnicity.
 
-Treatment with MOUNJARO 10 mg and 15 mg once weekly for 52 weeks resulted in a statistically significant reduction in HbA1c compared with daily insulin degludec (see Table 5).
+Treatment with MOUNJARO 10 mg and 15 mg once weekly for 52 weeks resulted in a statistically significant reduction in HbA1c compared with daily insulin degludec (see Table 6).
 
-Table 5: Results at Week 52 in a Trial of MOUNJARO versus Insulin Degludec in Adult Patients with Type 2 Diabetes Mellitus Added to Metformin with or without SGLT2 Inhibitor
+Table 6: Results at Week 52 in a Trial of MOUNJARO versus Insulin Degludec in Adult Patients with Type 2 Diabetes Mellitus Added to Metformin with or without SGLT2 Inhibitor
 
 |  | Insulin Degludec | MOUNJARO 5 mg | MOUNJARO 10 mg | MOUNJARO 15 mg |
 | --- | --- | --- | --- | --- |
@@ -122,12 +124,12 @@ Table 5: Results at Week 52 in a Trial of MOUNJARO versus Insulin Degludec in Ad
 | Difference from insulin degludecb (95% CI) | -- | -8.9c (-10.0, -7.8) | -11.5c (-12.6, -10.4) | -13.2c (-14.3, -12.1) |
 | a The modified intent-to-treat population consists of all randomly assigned participants who were exposed to at least 1 dose of study drug. Patients who discontinued study treatment because they did not meet study enrollment criteria were excluded. During the trial, rescue medication (additional antihyperglycemic medication) was initiated by 1%,1%, 1%, and 2% of patients randomized to insulin degludec, MOUNJARO 5 mg, 10 mg, and 15 mg, respectively. At Week 52 the HbA1c endpoint was missing for 9%, 6%, 10%, and 5% of patients randomized to insulin degludec, MOUNJARO 5 mg, 10 mg, and 15 mg, respectively. Missing Week 52 data were imputed using multiple imputation with retrieved dropout. |  |  |  |  |
 | b Least-squares mean from ANCOVA adjusted for baseline value and other stratification factors. |  |  |  |  |
-| c p<0.001 (two-sided) for superiority vs. insulin degludec, adjusted for multiplicity. |  |  |  |  |
+| c p<0.001 (two-sided) for superiority versus insulin degludec, adjusted for multiplicity. |  |  |  |  |
 | d Analyzed using logistic regression adjusted for baseline value and other stratification factors. |  |  |  |  |
 
 Add-on to 1-3 oral anti-hyperglycemic agents (metformin, sulfonylurea, or SGLT-2 inhibitor)
 
-SURPASS-4 (NCT03730662) was a 104-week open-label trial (52-week primary endpoint) that randomized 2002 adult patients with type 2 diabetes mellitus with increased cardiovascular risk to MOUNJARO 5 mg, MOUNJARO 10 mg, MOUNJARO 15 mg once weekly, or insulin glargine 100 units/mL once daily (1:1:1:3 ratio) on a background of metformin (95%) and/or sulfonylureas (54%) and/or SGLT2 inhibitors (25%).
+SURPASS-4 (NCT03730662) was a 104-week open-label trial (52-week primary endpoint) that randomized 2002 adult patients with type 2 diabetes mellitus with increased cardiovascular risk to subcutaneous MOUNJARO 5 mg, MOUNJARO 10 mg, MOUNJARO 15 mg once weekly, or insulin glargine 100 units/mL once daily (1:1:1:3 ratio) on a background of metformin (95%) and/or sulfonylureas (54%) and/or SGLT2 inhibitors (25%).
 
 Patients had a mean age of 64 years, and 63% were men.
 The mean duration of type 2 diabetes mellitus was 11.8 years, and the mean baseline BMI was 33 kg/m2.
@@ -138,9 +140,9 @@ At baseline, eGFR was ≥90 mL/min/1.73 m2 in 43%, 60 to 90 mL/min/1.73 m2 in 40
 Insulin glargine was initiated at 10 U once daily and adjusted weekly throughout the trial using a treat-to-target algorithm based on self-measured fasting blood glucose values.
 At Week 52, 30% of patients randomized to insulin glargine achieved the fasting serum glucose target of <100 mg/dL, and the mean daily insulin glargine dose was 44 U (0.5 U per kilogram).
 
-Treatment with MOUNJARO 10 mg and 15 mg once weekly for 52 weeks resulted in a statistically significant reduction in HbA1c compared with insulin glargine once daily (see Table 6).
+Treatment with MOUNJARO 10 mg and 15 mg once weekly for 52 weeks resulted in a statistically significant reduction in HbA1c compared with insulin glargine once daily (see Table 7).
 
-Table 6: Results at Week 52 in a Trial of MOUNJARO versus Insulin Glargine in Adult Patients with Type 2 Diabetes Mellitus Added to Metformin and/or Sulfonylurea and/or SGLT2 Inhibitor
+Table 7: Results at Week 52 in a Trial of MOUNJARO versus Insulin Glargine in Adult Patients with Type 2 Diabetes Mellitus Added to Metformin and/or Sulfonylurea and/or SGLT2 Inhibitor
 
 |  | Insulin Glargine | MOUNJARO 5 mg | MOUNJARO 10 mg | MOUNJARO 15 mg |
 | --- | --- | --- | --- | --- |
@@ -159,12 +161,12 @@ Table 6: Results at Week 52 in a Trial of MOUNJARO versus Insulin Glargine in Ad
 | Difference from insulin glargineb (95% CI) | -- | -8.1c (-8.9, -7.3) | -10.6c (-11.4, -9.8) | -12.2c (-13.0, -11.5) |
 | a The modified intent-to-treat population consists of all randomly assigned participants who were exposed to at least 1 dose of study drug. Patients who discontinued study treatment because they did not meet study enrollment criteria were excluded. During the trial, rescue medication (additional antihyperglycemic medication) was initiated by 1%, 0%, 0%, and 1% of patients randomized to insulin glargine, MOUNJARO 5 mg, 10 mg, and 15 mg, respectively. At Week 52 the HbA1c endpoint was missing for 9%, 9%, 6%, and 4% of patients randomized to insulin glargine, MOUNJARO 5 mg, 10 mg, and 15 mg, respectively. Missing Week 52 data were imputed using multiple imputation with retrieved dropout. |  |  |  |  |
 | b Least-squares mean from ANCOVA adjusted for baseline value and other stratification factors. |  |  |  |  |
-| c p<0.001 (two-sided) for superiority vs. insulin glargine, adjusted for multiplicity. |  |  |  |  |
+| c p<0.001 (two-sided) for superiority versus insulin glargine, adjusted for multiplicity. |  |  |  |  |
 | d Analyzed using logistic regression adjusted for baseline value and other stratification factors. |  |  |  |  |
 
 ## 14.4 MOUNJARO Use in Combination with Basal Insulin with or without Metformin in Adult Patients with Type 2 Diabetes Mellitus
 
-SURPASS-5 (NCT04039503) was a 40-week double-blind trial that randomized 475 patients with type 2 diabetes mellitus with inadequate glycemic control on insulin glargine 100 units/mL, with or without metformin, to MOUNJARO 5 mg, MOUNJARO 10 mg, MOUNJARO 15 mg once weekly, or placebo.
+SURPASS-5 (NCT04039503) was a 40-week double-blind trial that randomized 475 adult patients with type 2 diabetes mellitus with inadequate glycemic control on insulin glargine 100 units/mL, with or without metformin, to subcutaneous MOUNJARO 5 mg, MOUNJARO 10 mg, MOUNJARO 15 mg once weekly, or placebo.
 The dose of background insulin glargine was adjusted using a treat-to-target algorithm based on self-measured fasting blood glucose values, targeting <100 mg/dL.
 
 Patients had a mean age of 61 years, and 56% were men.
@@ -175,9 +177,9 @@ The mean dose of insulin glargine at baseline was 34, 32, 35, and 33 units/day f
 At randomization, the initial insulin glargine dose in patients with HbA1c ≤8.0% was reduced by 20%.
 At week 40, mean dose of insulin glargine was 38, 36, 29, and 59 units/day for patients receiving MOUNJARO 5 mg, 10 mg, 15 mg, and placebo, respectively.
 
-Treatment with MOUNJARO 5 mg once weekly, 10 mg once weekly and 15 mg once weekly for 40 weeks resulted in a statistically significant reduction in HbA1c compared with placebo (see Table 7).
+Treatment with MOUNJARO 5 mg once weekly, 10 mg once weekly and 15 mg once weekly for 40 weeks resulted in a statistically significant reduction in HbA1c compared with placebo (see Table 8).
 
-Table 7: Results at Week 40 in a Trial of MOUNJARO Added to Basal Insulin with or without Metformin in Adult Patients with Type 2 Diabetes Mellitus
+Table 8: Results at Week 40 in a Trial of MOUNJARO Added to Basal Insulin with or without Metformin in Adult Patients with Type 2 Diabetes Mellitus
 
 |  | Placebo | MOUNJARO 5 mg | MOUNJARO 10 mg | MOUNJARO 15 mg |
 | --- | --- | --- | --- | --- |
@@ -197,5 +199,40 @@ Table 7: Results at Week 40 in a Trial of MOUNJARO Added to Basal Insulin with o
 | Difference from placebob (95% CI) | -- | -7.1c (-8.7, -5.4) | -9.1c (-10.7, -7.5) | -10.5c (-12.1, -8.8) |
 | a The modified intent-to-treat population consists of all randomly assigned participants who were exposed to at least 1 dose of study drug. Patients who discontinued study treatment because they did not meet study enrollment criteria were excluded. During the trial, rescue medication (additional antihyperglycemic medication) was initiated by 4%, 1%, 0%, and 1% of patients randomized to placebo, MOUNJARO 5 mg, 10 mg, and 15 mg, respectively. At Week 40 the HbA1c endpoint was missing for 2%, 6%, 3%, and 7% of patients randomized to placebo, MOUNJARO 5 mg, 10 mg, and 15 mg, respectively. Missing Week 40 data were imputed using placebo-based multiple imputation. |  |  |  |  |
 | b Least-squares mean from ANCOVA adjusted for baseline value and other stratification factors. |  |  |  |  |
-| c p<0.001 (two-sided) for superiority vs. placebo, adjusted for multiplicity. |  |  |  |  |
+| c p<0.001 (two-sided) for superiority versus placebo, adjusted for multiplicity. |  |  |  |  |
 | d Analyzed using logistic regression adjusted for baseline value and other stratification factors. |  |  |  |  |
+
+## 14.5 MOUNJARO Use in Combination with Metformin or Basal Insulin, or Both in Pediatric Patients 10 Years of Age and Older with Type 2 Diabetes Mellitus
+
+SURPASS-PEDS (NCT05260021) was a 30-week double-blind, placebo-controlled trial with a 22-week open-label extension that randomized 99 pediatric patients 10 years of age and older with type 2 diabetes mellitus with inadequate glycemic control on metformin (69%), or basal insulin (8%), or both (23%) to receive subcutaneous MOUNJARO 5 mg, MOUNJARO 10 mg, or placebo once weekly as add-on therapy.
+
+Patients had a mean age of 15 years, and 61% were female.
+The mean duration of type 2 diabetes mellitus was 2.4 years, mean HbA1c was 8.0%, mean weight was 97 kg, and the mean baseline BMI was 35 kg/m2.
+Overall, 58% were White, 11% were Black or African American, 6% were Asian, 20% were American Indian or Alaska Native, and 5% were other races; 66% identified as Hispanic or Latino ethnicity.
+
+Treatment with MOUNJARO 5 mg once weekly and 10 mg once weekly for 30 weeks, both pooled and individually, resulted in a statistically significant reduction in HbA1c compared with placebo (see Table 9).
+
+Table 9: Results at Week 30 in a Trial of MOUNJARO Added to Metformin or Basal Insulin, or Both in Pediatric Patients 10 Years of Age and Older with Type 2 Diabetes Mellitus
+
+|  | Placebo | MOUNJARO 5 mg | MOUNJARO 10 mg | MOUNJARO 5 mg/10 mg pooled |
+| --- | --- | --- | --- | --- |
+| Modified Intent-to-Treat (mITT) Population (N)a | 34 | 32 | 33 | 65 |
+| HbA1c (%) |  |  |  |  |
+| Baseline (mean) | 8.0 | 8.2 | 7.9 | 8.1 |
+| Change at Week 30b | -0.2 | -1.9 | -2.2 | -2.0 |
+| Difference from placebob (95% CI) | -- | -1.7c (-2.4, -1.0) | -2.0c (-2.7, -1.3) | -1.8c (-2.4, -1.2) |
+| Patients (%) with HbA1c ≤6.5% at Week 30d | 28 | 68c | 81c | 75c |
+| Fasting Serum Glucose (mg/dL) |  |  |  |  |
+| Baseline (mean) | 156f | 148f | 152f | 150f |
+| Change at Week 30b | -5 | -35 | -51 | -43 |
+| Difference from placebob (95% CI) | -- | -30e (-53, -8) | -46c (-68, -24) | -38c (-57, -19) |
+| BMI (kg/m2) |  |  |  |  |
+| Baseline (mean) | 34.7 | 33.9 | 37.7 | 35.8 |
+| Percent Change at Week 30b | -0.5 | -6.9 | -10.8 | -8.8 |
+| Difference from placebo (%)b (95% CI) | -- | -6.4c (-9.5, -3.2) | -10.3c (-13.5, -7.1) | -8.3c (-11.0, -5.6) |
+| a The modified intent-to-treat population consists of all randomly assigned participants who were exposed to at least 1 dose of study drug. During the trial, rescue medication (additional antihyperglycemic medication) was initiated by 6%, 0%, and 0% of patients randomized to placebo, MOUNJARO 5 mg, and 10 mg, respectively. At Week 30 the HbA1c endpoint was missing for 6%, 9%, and 18% of patients randomized to placebo, MOUNJARO 5 mg, and 10 mg, respectively. Missing Week 30 data were imputed using multiple imputation with placebo wash-out or with assumption of missing at random. |  |  |  |  |
+| b Least-squares mean from ANCOVA adjusted for baseline value and other stratification factors. |  |  |  |  |
+| c p<0.001 (two-sided) for superiority versus placebo, adjusted for multiplicity. |  |  |  |  |
+| d Response in (%) is calculated by combining proportion of participants achieving target in imputed datasets using Rubin's rule. |  |  |  |  |
+| e p<0.01 (two-sided) for superiority versus placebo, adjusted for multiplicity. |  |  |  |  |
+| f Any missing values at baseline were imputed as missing at random. |  |  |  |  |
