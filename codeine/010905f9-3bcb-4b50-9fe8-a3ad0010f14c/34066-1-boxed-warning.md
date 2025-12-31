@@ -2,35 +2,38 @@
 
 Addiction, Abuse, and Misuse
 
-Because the use of Codeine Sulfate Tablets exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions[see Warnings and Precautions (5.1), Dosage and Administration (2.1)].
+Because the use of Codeine Sulfate Tablets exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1), Dosage and Administration (2.1)].
 
 Life-Threatening Respiratory Depression
 
 Serious, life-threatening, or fatal respiratory depression may occur with use of Codeine Sulfate Tablets, especially during initiation or following a dosage increase.
-To reduce the risk of respiratory depression, proper dosing and titration of Codeine Sulfate Tablets are essential[see Warnings and Precautions (5.2).
+To reduce the risk of respiratory depression, proper dosing and titration of Codeine Sulfate Tablets are essential [see Warnings and Precautions (5.2)].
 
 Accidental Ingestion
 
-Accidental ingestion of even one dose of Codeine Sulfate Tablets, especially by children, can result in a fatal overdose of codeine[see Warnings and Precautions (5.2)].
+Accidental ingestion of even one dose of Codeine Sulfate Tablets, especially by children, can result in a fatal overdose of codeine [see Warnings and Precautions (5.2)].
 
 Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
-Reserve concomitant prescribing of Codeine Sulfate Tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate[see Warnings and Precautions (5.3), Drug Interactions (7)].
+Reserve concomitant prescribing of Codeine Sulfate Tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
-Ensure that management by neonatology experts will be available at delivery[see Warnings and Precautions (5.4)].
+Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
+Ensure that management by neonatology experts will be available at delivery.
+[see Warnings and Precautions (5.4)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
-Healthcare providers are strongly encouraged to complete a REMS-compliant education program and to counsel patients and caregivers on serious risks, safe use, and the importance of reading the Medication Guide with each prescription[see Warnings and Precautions (5.5)].
+Healthcare providers are strongly encouraged to complete a REMS-compliant education program and to counsel patients and caregivers on serious risks, safe use, and the importance of reading the Medication Guide with each prescription [see Warnings and Precautions (5.5)].
 
 Ultra-Rapid Metabolism of Codeine and Other Risk Factors for Life-Threatening Respiratory Depression in Children
 
 Life-threatening respiratory depression and death have occurred in children who received codeine.
-Most of the reported cases occurred following tonsillectomy and/or adenoidectomy, and many of the children had evidence of being an ultra-rapid metabolizer of codeine due to a CYP2D6 polymorphism [see Warnings and Precautions (5.6)].Codeine Sulfate Tablets are contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].Avoid the use of Codeine Sulfate Tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine.
+Most of the reported cases occurred following tonsillectomy and/or adenoidectomy, and many of the children had evidence of being an ultra-rapid metabolizer of codeine due to a CYP2D6 polymorphism [see Warnings and Precautions (5.6)].
+Codeine Sulfate Tablets are contraindicated in children younger than 12 years of age and in children younger than 18 years of age following tonsillectomy and/or adenoidectomy [see Contraindications (4)].
+Avoid the use of Codeine Sulfate Tablets in adolescents 12 to 18 years of age who have other risk factors that may increase their sensitivity to the respiratory depressant effects of codeine.
 
 Interactions with Drugs Affecting Cytochrome P450 Isoenzymes
 
