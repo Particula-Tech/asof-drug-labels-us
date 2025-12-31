@@ -4,25 +4,30 @@ Life-Threatening Respiratory Depression Discuss the risk of respiratory depressi
 
 Educate patients and caregivers on how to recognize respiratory depression and emphasize the importance of calling 911 or getting emergency medical help right away in the event of a known or suspected overdose [see Warnings and Precautions (5.1)].
 
-Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose Because patients being treated with methadone may be at risk for opioid overdose during initiation or titration, or in the case of relapse to illicit use, discuss the importance of having access to naloxone with the patient and caregiver.
-Also discuss the importance of having access to naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Inform patients and caregivers of the options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements and guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
+Because patients being treated with methadone may be at risk for opioid overdose during initiation or titration, or in the case of relapse to illicit use, discuss the importance of having access to an opioid overdose reversal agent.
+Also discuss the importance of having access to an opioid overdose reversal agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+
+Discuss with the patient the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter (some products), or as part of a community-based program) [see Dosage and Administration (2.3), Warnings and Precautions (5.1)].
+
+There are important differences among the opioid overdose reversal agents.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
 Educate patients and caregivers on how to recognize the signs and symptoms of an opioid overdose.
 
-Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered.
-Repeat administration may be necessary, particularly for overdose involving METHADOSE, because naloxone is often not effective at the doses available for patient access [see Dosage and Administration (2.3), Warnings and Precautions (5.1), Overdosage (10)].
+Explain to patients and caregivers that effects of opioid overdose reversal agents like naloxone and nalmefene are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if an opioid overdose reversal agent is administered.
+Repeat administration may be necessary, particularly for overdose involving METHADOSE [see Dosage and Administration (2.3), Warnings and Precautions (5.1), Overdosage (10)].
 
-If naloxone is prescribed, also advise patients and caregivers:
+Advise patients and caregivers:
 
-- How to treat with naloxone in the event of an opioid overdose
-- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
-- To read the Patient Information (or other educational material) that will come with their naloxone.
+- how to treat with an opioid overdose reversal agent in the event of an opioid overdose.
+- to tell family and friends about their opioid overdose reversal agent, and to keep it in a place where family and friends can access it in an emergency.
+- to read the Patient Information (or other educational material) that will come with their opioid overdose reversal agent.
   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
-Interactions with Benzodiazepines and Other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if METHADOSE is used with benzodiazepines or other CNS depressants, including alcohol.
-Counsel patients that such medications should not be used concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.2), Drug Interactions (7)].
+Interactions with Benzodiazepines and Other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if METHADOSE is used with benzodiazepines or other CNS depressants (e.g., alcohol, non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.2), Drug Interactions (7)].
 
 Symptoms of Arrhythmia Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking METHADOSE [see Warnings and Precautions (5.3)].
 
@@ -63,7 +68,7 @@ Instruct nursing mothers using METHADOSE to watch for signs of methadone toxicit
 Instruct nursing mothers to talk to their baby’s healthcare provider immediately if they notice these signs.
 If they cannot reach the healthcare provider right away, instruct them to take the baby to the emergency room or call 911 (or local emergency services) [see Use in Specific Populations (8.2)].
 
-Infertility Advise patients that chronic use of opioids, such as METHADOSE, may cause reduced fertility.
+Infertility Advise patients that use of opioids, such as METHADOSE, for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
 
 Constipation Advise patients of the potential for severe constipation, including management instructions and when to seek medical attention [see Adverse Reactions (6), Clinical Pharmacology (12.2)].
@@ -73,7 +78,7 @@ Instruct patients how to recognize the symptoms of low blood glucose and to cont
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and other brands are trademarks of a Mallinckrodt company.
 
-© 2024 Mallinckrodt.
+© 2025 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA Made in USA
 
