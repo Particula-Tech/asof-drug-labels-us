@@ -49,7 +49,7 @@ Mean (SE) change from baseline to end of treatment (Week 12 or last observation 
 | Urinary void volume/toilet void (mL)a,c |  |  |  |
 | Mean baseline | 154.6 | 154.8 |  |
 | Mean change from baseline | 9.4 (2.8) | 35.6 (2.8) | <0.001 |
-| a Treatment differences assessed by analysis of variance for ITT:LOCF data set.b Treatment differences assessed by ranked analysis of variance for ITT:LOCF data set.c Placebo N=320, trospium chloride N=319.* Denotes primary endpointITT=intent-to-treat, LOCF=last observation carried forward. |  |  |  |
+| a Treatment differences assessed by analysis of variance for ITT: LOCF data set.b Treatment differences assessed by ranked analysis of variance for ITT: LOCF data set.c Placebo N=320, trospium chloride N=319.* Denotes primary endpointITT=intent-to-treat, LOCF=last observation carried forward. |  |  |  |
 
 Figure 4 – Mean Change from Baseline in Urinary Frequency/24 Hours, by Visit: Study 2
 

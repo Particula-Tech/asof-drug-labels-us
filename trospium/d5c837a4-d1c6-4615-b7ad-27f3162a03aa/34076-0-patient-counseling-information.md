@@ -29,3 +29,18 @@ Patients should be instructed regarding the recommended dosing and administratio
 Patients should be informed that the most common side effects with trospium chloride are dry mouth and constipation and that other less common side effects include trouble emptying the bladder, blurred vision, and heat prostration.
 Because anticholinergics, such as trospium chloride, may produce dizziness or blurred vision, patients should be advised to exercise caution in decisions to engage in potentially dangerous activities until the drug’s effects have been determined.
 Patients should be informed that alcohol may enhance the drowsiness caused by anticholinergic agents.
+
+Trademarks are the property of their respective owners.
+
+Distributed by:
+
+Glenmark Pharmaceuticals Inc., USA
+
+Elmwood Park, NJ 07407
+
+Questions?
+1 (888) 721-7115
+
+www.glenmarkpharma-us.com
+
+August 2025

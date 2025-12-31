@@ -86,9 +86,6 @@ How should I store trospium chloride tablets?
 
 - •Keep trospium chloride tablets and all other medicines out of the reach of children.
 - •Store trospium chloride tablets at room temperature, 68°F to 77°F (20°C to 25°C).
-- •Protect from light and moisture.
-  Store in a dry place.
-  Keep container tightly closed.
 - •Safely dispose of trospium chloride tablets that are out of date or that you no longer need.
 
 General information about trospium chloride tablets
@@ -109,17 +106,15 @@ Active Ingredient: trospium chloride, USP.
 
 Inactive Ingredients: microcrystalline cellulose, lactose monohydrate, corn starch, povidone, croscarmellose sodium, colloidal silicon dioxide, magnesium stearate, titanium dioxide, polyethylene glycol 400, hypromellose, yellow iron oxide and red iron oxide.
 
-Rx only
-
 Trademarks are the property of their respective owners.
 
-Manufactured for:
+Distributed by:
 
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-February 2022
+Revised: August 2025

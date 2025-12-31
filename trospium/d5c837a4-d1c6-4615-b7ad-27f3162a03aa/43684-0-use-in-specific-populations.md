@@ -4,6 +4,8 @@
 
 ### Teratogenic Effects
 
+Pregnancy Category C:
+
 There are no adequate and well-controlled studies of trospium chloride in pregnant women.
 Trospium chloride should be used during pregnancy only if the potential benefit to the patient outweighs the risk to the patient and fetus.
 Women who become pregnant during trospium chloride treatment are encouraged to contact their physician.

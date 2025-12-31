@@ -1,4 +1,4 @@
-# 10 Overdosage
+# 10 OVERDOSAGE
 
 Overdosage with antimuscarinic agents, including trospium chloride, can result in severe antimuscarinic effects.
 Supportive treatment should be provided according to symptoms.
