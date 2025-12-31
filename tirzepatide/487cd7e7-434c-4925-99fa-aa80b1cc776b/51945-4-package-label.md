@@ -2,7 +2,7 @@ PACKAGE LABEL - ZepboundTM, 2.5 mg/0.5 mL, Carton, 4 Single-Dose Pens
 
 NDC 0002-2506-80
 
-ZepboundTM
+Zepbound®
 
 (tirzepatide) injection
 
@@ -26,7 +26,7 @@ PACKAGE LABEL - ZepboundTM, 5 mg/0.5 mL, Carton, 4 Single-Dose Pens
 
 NDC 0002-2495-80
 
-ZepboundTM
+Zepbound®
 
 (tirzepatide) injection
 
@@ -50,7 +50,7 @@ PACKAGE LABEL - ZepboundTM, 7.5 mg/0.5 mL, Carton, 4 Single-Dose Pens
 
 NDC 0002-2484-80
 
-ZepboundTM
+Zepbound®
 
 (tirzepatide) injection
 
@@ -74,7 +74,7 @@ PACKAGE LABEL - ZepboundTM, 10 mg/0.5 mL, Carton, 4 Single-Dose Pens
 
 NDC 0002-2471-80
 
-ZepboundTM
+Zepbound®
 
 (tirzepatide) injection
 
@@ -98,7 +98,7 @@ PACKAGE LABEL - ZepboundTM, 12.5 mg/0.5 mL, Carton, 4 Single-Dose Pens
 
 NDC 0002-2460-80
 
-ZepboundTM
+Zepbound®
 
 (tirzepatide) injection
 
@@ -122,7 +122,7 @@ PACKAGE LABEL - ZepboundTM, 15 mg/0.5 mL, Carton, 4 Single-Dose Pens
 
 NDC 0002-2457-80
 
-ZepboundTM
+Zepbound®
 
 (tirzepatide) injection
 
