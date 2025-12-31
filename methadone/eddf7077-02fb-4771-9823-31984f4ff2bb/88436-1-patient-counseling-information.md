@@ -20,22 +20,28 @@ Accidental Ingestion Inform patients that accidental ingestion, especially by ch
 
 Symptoms of Arrhythmia Instruct patients to seek medical attention immediately if they experience symptoms suggestive of an arrhythmia (such as palpitations, near syncope, or syncope) when taking methadone [see Warnings and Precautions (5.4)].
 
-Interactions with Benzodiazepines and Other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if methadone hydrochloride tablets are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
+Interactions with Benzodiazepines and Other CNS Depressants Inform patients and caregivers that potentially fatal additive effects may occur if methadone hydrochloride tablets are used with benzodiazepines or other CNS depressants (e.g., alcohol, non-benzodiazepines, sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
-Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with methadone hydrochloride tablets.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.3), Warnings and Precautions (5.2)].
+Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
 
-Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent, both when initiating and renewing treatment with methadone hydrochloride tablets.
+Because patients being treated for opioid use disorder are at risk for relapse, discuss the importance of having access to an opioid overdose reversal agent.
+Also discuss the importance of having access to an opioid overdose reversal agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
 
-Explain to patients and caregivers that naloxone’s effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+Discuss with the patient the options for obtaining an opioid overdose reversal agent [e.g., prescription, over-the-counter (some products), or as part of a community-based program] [see Dosage and Administration (2.3), Warnings and Precautions (5.2)].
 
-If naloxone is prescribed, also advise patients and caregivers:
+There are important differences among the opioid overdose reversal agents.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
-- How to treat with naloxone in the event of an opioid overdose
+Educate patients and caregivers on how to recognize the signs and symptoms of an opioid overdose.
 
-- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
+Explain to patients and caregivers that effects of opioid overdose reversal agents like naloxone and nalmefene are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if an opioid overdose reversal agent is administered [see Overdosage (10)].
 
-- To read the Patient Information (or other educational material) that will come with their naloxone.
+Advise patients and caregivers:
+
+- how to treat with an opioid overdose reversal agent in the event of an opioid overdose
+- to tell family and friends about their opioid overdose reversal agent, and to keep it in a place where family and friends can access it in an emergency
+- to read the Patient Information (or other educational material) that will come with their opioid overdose reversal agent.
   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do.
 
 Hyperalgesia and Allodynia Inform patients and caregivers not to increase opioid dosage without first consulting a clinician.
@@ -84,11 +90,11 @@ Instruct patients how to recognize the symptoms of low blood glucose and to cont
 
 Mallinckrodt, the “M” brand mark, the Mallinckrodt Pharmaceuticals logo and are trademarks of a Mallinckrodt company.
 
-© 2023 Mallinckrodt.
+© 2025 Mallinckrodt.
 
 SpecGx LLC Webster Groves, MO 63119 USA
 
-Issued: 12/2023
+Issued: 12/2025
 
 Mallinckrodt™ Pharmaceuticals
 

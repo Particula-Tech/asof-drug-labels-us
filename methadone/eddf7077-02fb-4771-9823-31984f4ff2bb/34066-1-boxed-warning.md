@@ -10,8 +10,12 @@ Accidental Ingestion Accidental ingestion of even one dose of methadone hydrochl
 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
 Reserve concomitant prescribing of methadone hydrochloride tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
-Neonatal Opioid Withdrawal Syndrome (NOWS) If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
-Ensure that management by neonatology experts will be available at delivery [see Warnings and Precautions (5.5)].
+Neonatal Opioid Withdrawal Syndrome (NOWS)
+
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of use of methadone hydrochloride tablets during pregnancy.
+NOWS may be life-threatening if not recognized and treated in the neonate.
+The balance between the risks of NOWS and the benefits of maternal methadone hydrochloride tablet use may differ based on the risks associated with the mother’s underlying condition, pain, or addiction.
+Advise the patient of the risk of NOWS so that appropriate planning for management of the neonate can occur [see Warnings and Precautions (5.5)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS) Healthcare providers are strongly encouraged to complete a REMS-compliant education program and to counsel patients and caregivers on serious risks, safe use, and the importance of reading the Medication Guide with each prescription [see Warnings and Precautions (5.6)].
 
