@@ -11,8 +11,8 @@ In a rat model for assessing the tumor promotion potential, a 2-week oral treatm
 
 Mutagenesis
 
-Metoclopramide was positive in the in vitro Chinese hamster lung cell/HGPRT forward mutation assay for mutagenic effects and in the in vitro human lymphocyte chromosome aberration assay for clastogenic effects.
-It was negative in the in vitro Ames mutation assay, the in vitro unscheduled DNA synthesis assay with rat and human hepatocytes, and the in vivo rat micronucleus assay.
+Metoclopramide was positive in the in vitroChinese hamster lung cell/HGPRT forward mutation assay for mutagenic effects and in the in vitrohuman lymphocyte chromosome aberration assay for clastogenic effects.
+It was negative in the in vitroAmes mutation assay, the in vitrounscheduled DNA synthesis assay with rat and human hepatocytes, and the in vivorat micronucleus assay.
 
 Impairment of Fertility
 

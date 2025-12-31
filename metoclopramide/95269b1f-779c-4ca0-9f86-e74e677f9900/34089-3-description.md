@@ -4,7 +4,7 @@ Metoclopramide hydrochloride, the active ingredient in GIMOTI, is a dopamine-2 r
 Metoclopramide hydrochloride is a white, crystalline, odorless substance, freely soluble in water.
 Its chemical name is 4-amino­5-chloro-N-[2-(diethylamino)ethyl]-2-methoxy benzamide monohydrochloride monohydrate.
 
-The molecular formula is C14H22ClN3O2∙HCl∙H2O.
+The molecular formula is C 14H 22ClN 3O 2∙HCl∙H 2O.
 Its molecular weight is 354.3.
 The structural formula is:
 

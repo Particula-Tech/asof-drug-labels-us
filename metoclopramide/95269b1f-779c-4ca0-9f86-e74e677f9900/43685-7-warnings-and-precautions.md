@@ -78,13 +78,13 @@ Discontinue GIMOTI if any of these adverse reactions occur.
 
 ## 5.7 Hyperprolactinemia
 
-As with other dopamine D2 receptor antagonists, metoclopramide elevates prolactin levels.
+As with other dopamine D 2receptor antagonists, metoclopramide elevates prolactin levels.
 Hyperprolactinemia may suppress hypothalamic gonadotropin-releasing hormone, resulting in reduced pituitary gonadotropin secretion.
 This, in turn, may inhibit reproductive function by impairing gonadal steroidogenesis in both female and male patients.
 Galactorrhea, amenorrhea, gynecomastia, and impotence have been reported with prolactin-elevating drugs, including metoclopramide.
 
 Hyperprolactinemia may potentially stimulate prolactin-dependent breast cancer.
-However, some clinical studies and epidemiology studies have not shown an association between administration of dopamine D2 receptor antagonists and tumorigenesis in humans [see Nonclinical Toxicology (13.1)].
+However, some clinical studies and epidemiology studies have not shown an association between administration of dopamine D 2receptor antagonists and tumorigenesis in humans [see Nonclinical Toxicology (13.1)].
 
 ## 5.8 Effects on the Ability to Drive and Operate Machinery
 

@@ -18,9 +18,9 @@ Drug Interactions
 Inform the patients or their caregivers that concomitant treatment with numerous other medications can precipitate or worsen serious adverse reactions such as tardive dyskinesia or other extrapyramidal reactions, neuroleptic malignant syndrome, and CNS depression [see Drug Interactions (7.1, 7.2)].
 Explain that the prescriber of any other medication must be made aware that the patient is taking GIMOTI.
 
-Administration Instructions [see Dosage and Administration (2.1)]
+Administration Instructions[see Dosage and Administration (2.1)]
 
-Advise the patients or their caregiver to read the Instructions for Use on how to appropriately administer GIMOTI:
+Advise the patients or their caregiver to read the Instructions for Useon how to appropriately administer GIMOTI:
 
 - Avoid treatment with metoclopramide (all dosage forms and routes of administration) for longer than 12 weeks because of the increased risk of developing TD with longer-term use [see Warnings and Precautions (5.1)].
 - One spray in one nostril administers the appropriate dose.

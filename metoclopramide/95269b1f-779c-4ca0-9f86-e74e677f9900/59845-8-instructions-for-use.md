@@ -21,21 +21,21 @@ Parts of your GIMOTI bottle
 
 Steps to use GIMOTI
 
-- 1.Uncap the GIMOTI nasal spray bottle
+- Uncap the GIMOTI nasal spray bottle
   - Remove the cap from the spray nozzle by pulling straight up.
 
-- 2.Prime the GIMOTI nasal spray bottleIf you are not able to press and release 10 sprays from the GIMOTI nasal spray, call your healthcare provider or pharmacist.
+- Prime the GIMOTI nasal spray bottleIf you are not able to press and release 10 sprays from the GIMOTI nasal spray, call your healthcare provider or pharmacist.
   - Remove the safety clip from the spray pump.
   - Place your index finger and middle finger on each side of the finger flange and your thumb on the bottom of the glass bottle.
   - Turn the spray nozzle away from your face, keeping the bottle upright.
-    Do not spray into your eyes.
+    Do notspray into your eyes.
   - Press down firmly and release 10 times on the finger flange until a spray appears from the spray nozzle.
     You may not see a spray the first few times you press down.
     After pressing down and releasing a spray 10 times, the GIMOTI nasal spray will be primed and ready to use.
 
 The GIMOTI nasal spray bottle is now ready for use.
 
-- 3.Using the GIMOTI nasal spray
+- Using the GIMOTI nasal spray
   - Place the spray nozzle tip under one of your nostrils.
     Tilt your head slightly forward so the tip of the spray nozzle is aimed away from the center of your nose.
   - Close the other nostril with your other index finger.
@@ -52,7 +52,7 @@ Cleaning the spray pump nozzle
 If the spray pump nozzle becomes clogged, remove it for cleaning by grasping the base of the spray nozzle and pulling up.
 
 Soak the spray nozzle in warm water and rinse.
-Do not try to unblock the spray nozzle by inserting a pin or other sharp object because this will damage the spray nozzle.
+Do nottry to unblock the spray nozzle by inserting a pin or other sharp object because this will damage the spray nozzle.
 
 Dry the spray nozzle at room temperature.
 When the spray nozzle is dry, place the dry spray nozzle back on the GIMOTI bottle.

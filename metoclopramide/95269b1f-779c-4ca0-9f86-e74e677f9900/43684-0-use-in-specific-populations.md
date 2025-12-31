@@ -7,7 +7,7 @@ Risk Summary
 Published studies, including retrospective cohort studies, national registry studies, and meta-analyses, do not report a consistent pattern or a consistently increased risk of adverse pregnancy-related outcomes with oral use of metoclopramide during pregnancy.
 However, available data from a case report of GIMOTI use in pregnancy is insufficient to evaluate for a drug-associated risk of major birth defects, miscarriage, or adverse maternal or fetal outcomes.
 
-There are potential risks to the neonate following exposure in utero to metoclopramide during delivery (see Clinical Considerations).
+There are potential risks to the neonate following exposure in uteroto metoclopramide during delivery (see Clinical Considerations).
 
 In animal reproduction studies, no adverse developmental effects were observed with oral administration of metoclopramide to pregnant rats and rabbits at exposures about 6 and 12 times the maximum recommended human dose (MRHD) (see Data).
 
@@ -54,7 +54,7 @@ Metoclopramide is not recommended for use in pediatric patients due to the risk 
 The safety and effectiveness of GIMOTI in pediatric patients have not been established.
 
 Dystonias and other extrapyramidal symptoms associated with metoclopramide are more common in pediatric patients than in adults [see Indications and Usage (1), Warnings and Precautions (5.1, 5.2)].
-In addition, neonates have reduced levels of NADH-cytochrome b5 reductase, making them more susceptible to methemoglobinemia, a possible adverse reaction of metoclopramide use in neonates [see Use in Specific Populations (8.8)].
+In addition, neonates have reduced levels of NADH-cytochrome b 5reductase, making them more susceptible to methemoglobinemia, a possible adverse reaction of metoclopramide use in neonates [see Use in Specific Populations (8.8)].
 
 ## 8.5 Geriatric Use
 
@@ -79,9 +79,9 @@ Use the recommended dosage of GIMOTI in patients with mild hepatic impairment (C
 Metoclopramide, by producing a transient increase in plasma aldosterone, may increase the risk of fluid retention in patients with hepatic impairment [see Warnings and Precautions (5.6)].
 Monitor patients with hepatic impairment for the occurrence of fluid retention and volume overload.
 
-## 8.8 NADH-Cytochrome b5 Reductase Deficiency
+## 8.8 NADH-Cytochrome b 5Reductase Deficiency
 
-Metoclopramide-treated patients with NADH-cytochrome b5 reductase deficiency are at an increased risk of developing methemoglobinemia and/or sulfhemoglobinemia.
+Metoclopramide-treated patients with NADH-cytochrome b 5reductase deficiency are at an increased risk of developing methemoglobinemia and/or sulfhemoglobinemia.
 For patients with glucose-6-phosphate dehydrogenase (G6PD) deficiency with metoclopramide-induced methemoglobinemia, methylene blue treatment is not recommended.
 Methylene blue may cause hemolytic anemia in patients with G6PD deficiency, which may be fatal [see Overdosage (10)].
 
