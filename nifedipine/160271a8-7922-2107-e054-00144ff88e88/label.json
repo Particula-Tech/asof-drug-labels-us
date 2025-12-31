@@ -14,6 +14,11 @@
       "form": "TABLET, EXTENDED RELEASE",
       "generic": "nifedipine",
       "name": "Nifedipine"
+    },
+    {
+      "form": "TABLET, FILM COATED, EXTENDED RELEASE",
+      "generic": "nifedipine",
+      "name": "Nifedipine"
     }
   ],
   "setid": "160271a8-7922-2107-e054-00144ff88e88",
