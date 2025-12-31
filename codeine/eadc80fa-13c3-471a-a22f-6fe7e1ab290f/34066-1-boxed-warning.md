@@ -10,7 +10,7 @@ Accidental Ingestion Accidental ingestion of even one dose of acetaminophen and 
 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
 Reserve concomitant prescribing of acetaminophen and codeine phosphate tablets and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate (see PRECAUTIONS, Drug Interactions).
 
-Neonatal Opioid Withdrawal Syndrome (NOWS) If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
+Neonatal Opioid Withdrawal Syndrome (NOWS) Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
 Ensure that management by neonatology experts will be available (see WARNINGS).
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS) Healthcare providers are strongly encouraged to complete a REMS-compliant education program and to counsel patients and caregivers on serious risks, safe use, and the importance of reading the Medication Guide with each prescription (see WARNINGS).
