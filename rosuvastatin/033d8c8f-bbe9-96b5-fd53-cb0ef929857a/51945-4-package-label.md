@@ -46,7 +46,9 @@ Bengaluru, Karnataka 560099, India
 
 Mfg.
 Lic.
-No. KTK/25/664/2017 or
+No. KTK/25/664/2017
+
+BPL0037/03 or
 
 # Package/Label Display Panel – 10 mg
 
@@ -97,6 +99,8 @@ Bengaluru, Karnataka 560099, India
 Mfg.
 Lic.
 No. KTK/25/664/2017
+
+BPL0038/02
 
 or
 
@@ -150,6 +154,8 @@ Mfg.
 Lic.
 No. KTK/25/664/2017
 
+BPL0039/02
+
 or
 
 # Package/Label Display Panel – 40 mg
@@ -188,7 +194,27 @@ Mfg.
 Lic.
 No. KTK/25/460/2001
 
-or
+NDC 70377-009-11
+
+30 tablets
+
+Rosuvastatin Tablets, USP
+
+40 mg tablets
+
+Rx only
+
+Manufactured for:
+
+Biocon Pharma Inc.,
+
+485 US Highway 1 S,
+
+Suite B305, Iselin,
+
+NJ 08830-3009, USA
+
+Manufactured by:
 
 Biocon Pharma Limited,
 
@@ -202,4 +228,4 @@ Mfg.
 Lic.
 No. KTK/25/664/2017
 
-or
+BPL0040/02
