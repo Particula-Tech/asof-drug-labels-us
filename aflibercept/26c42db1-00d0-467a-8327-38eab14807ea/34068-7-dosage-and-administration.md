@@ -5,7 +5,7 @@
 For ophthalmic intravitreal injection.
 OPUVIZ must only be administered by a qualified physician.
 
-Vial: A 5-micron sterile filter needle (18-gauge × 1½-inch), a 1-mL Luer lock syringe and a 30-gauge × ½-inch sterile injection needle are needed.
+Vial:A 5-micron sterile filter needle (18-gauge × 1½-inch), a 1-mL Luer lock syringe and a 30-gauge × ½-inch sterile injection needle are needed.
 
 OPUVIZ is available packaged as follows:
 
@@ -22,7 +22,7 @@ Patients should be assessed regularly.
 
 ## 2.3 Macular Edema Following Retinal Vein Occlusion (RVO)
 
-The recommended dose for OPUVIZ is 2 mg (0.05 mL of 40 mg/mL solution) administered by intravitreal injection once every 4 weeks (approximately every 25 days, monthly) [see Clinical Studies (14.2), (14.3)].
+The recommended dose for OPUVIZ is 2 mg (0.05 mL of 40 mg/mL solution) administered by intravitreal injection once every 4 weeks (approximately every 25 days, monthly) [see Clinical Studies(14.2), (14.3)].
 
 ## 2.4 Diabetic Macular Edema (DME)
 
@@ -82,7 +82,7 @@ Figure 4a Figure 4b
 Ensure that the plunger rod is drawn sufficiently back when emptying the vial in order to completely empty the filter needle.
 7.
 Remove the filter needle from the syringe and properly dispose of the filter needle.
-Note: Filter needle is not to be used for intravitreal injection.
+Note: Filter needle is notto be used for intravitreal injection.
 8.
 Remove the 30-gauge × ½-inch injection needle from its packaging and attach the injection needle to the syringe by firmly twisting the injection needle onto the Luer lock syringe tip (see Figure 5).
 9.

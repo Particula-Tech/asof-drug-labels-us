@@ -53,11 +53,11 @@ Macular Edema Following Retinal Vein Occlusion (RVO)
 
 The data described below reflect 6 months exposure to aflibercept with a monthly 2 mg dose in 218 patients following central retinal vein occlusion (CRVO) in 2 clinical studies (COPERNICUS and GALILEO) and 91 patients following branch retinal vein occlusion (BRVO) in one clinical study (VIBRANT) [see Clinical Studies (14.2), (14.3)].
 
-Table 2: Most Common Adverse Reactions (≥1%) in RVO Studies
+Table2: Most Common Adverse Reactions (≥1%) in RVO Studies
 
 | Adverse Reactions | CRVO |  | BRVO |  |
 | --- | --- | --- | --- | --- |
-|  | Aflibercept(N=218) | Control(N=142) | Aflibercept(N=91) | Control (N=92) |
+|  | Aflibercept(N=218) | Control(N=142) | Aflibercept(N=91) | Control(N=92) |
 | Eye pain | 13% | 5% | 4% | 5% |
 | Conjunctival hemorrhage | 12% | 11% | 20% | 4% |
 | Intraocular pressure increased | 8% | 6% | 2% | 0% |
@@ -79,7 +79,7 @@ Diabetic Macular Edema (DME) and Diabetic Retinopathy (DR)
 
 The data described below reflect exposure to aflibercept in 578 patients with DME treated with the 2-mg dose in 2 double-masked, controlled clinical studies (VIVID and VISTA) from baseline to week 52 and from baseline to week 100 [see Clinical Studies (14.4)].
 
-Table 3: Most Common Adverse Reactions (≥1%) in DME Studies
+Table3: Most Common Adverse Reactions (≥1%) in DME Studies
 
 | Adverse Reactions | Baseline to Week 52 |  | Baseline to Week 100 |  |
 | --- | --- | --- | --- | --- |
@@ -108,4 +108,7 @@ Safety data observed in 269 patients with nonproliferative diabetic retinopathy 
 The following adverse reactions have been identified during postapproval use of aflibercept.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Eye disorders: retinal vasculitis and occlusive retinal vasculitis related to intravitreal injection with aflibercept (reported at a rate of 0.6 and 0.2 per 1 million injections, respectively, based on postmarketing experience from November 2011 until November 2023).
+Eye disorders:
+
+- Retinal vasculitis and occlusive retinal vasculitis related to intravitreal injection with aflibercept (reported at a rate of 0.6 and 0.2 per 1 million injections, respectively, based on postmarketing experience from November 2011 until November 2023).
+- Scleritis.

@@ -4,11 +4,11 @@
 
 Intravitreal injections, including those with aflibercept products, have been associated with endophthalmitis and retinal detachments [see Adverse Reactions (6.1)] and, more rarely, retinal vasculitis with or without occlusion [see Adverse Reactions (6.2)].
 Proper aseptic injection technique must always be used when administering OPUVIZ.
-Patients and/or caregivers should be instructed to report any signs and/or symptoms suggestive of endophthalmitis, retinal detachment, or retinal vasculitis without delay and should be managed appropriately [see Dosage and Administration (2.7) and Patient Counseling Information (17)].
+Patients and/or caregivers should be instructed to report any signs and/or symptoms suggestive of endophthalmitis, retinal detachment, or retinal vasculitis without delay and should be managed appropriately [see Dosage and Administration (2.7)and Patient Counseling Information (17)].
 
 ## 5.2 Increase in Intraocular Pressure
 
-Acute increases in intraocular pressure have been seen within 60 minutes of intravitreal injection, including with aflibercept products [seeAdverse Reactions (6.1)].
+Acute increases in intraocular pressure have been seen within 60 minutes of intravitreal injection, including with aflibercept products [see Adverse Reactions (6.1)].
 Sustained increases in intraocular pressure have also been reported after repeated intravitreal dosing with vascular endothelial growth factor (VEGF) inhibitors.
 Intraocular pressure and the perfusion of the optic nerve head should be monitored and managed appropriately [see Dosage and Administration (2.7)].
 
