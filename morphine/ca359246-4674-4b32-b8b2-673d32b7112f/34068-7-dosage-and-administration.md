@@ -28,28 +28,32 @@ Strongly advise patients and caregivers to always use a graduated oral syringe w
 
 Instruct patients and caregivers to never use household teaspoons or tablespoons to measure Morphine Sulfate Oral Solution.
 
-- •Morphine Sulfate Oral Solution should be prescribed only by healthcare professionals who are knowledgeable about the use of opioids and how to mitigate the associated risks.
-- •Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [see Warnings and Precautions (5)].
-  Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of Morphine Sulfate Oral Solution for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial
-- risks.
-- •Many acute pain conditions (e.g., the pain that occurs with a number of surgical procedures or acute musculoskeletal injuries) require no more than a few days of an opioid analgesic.
-  Clinical guidelines on opioidprescribing for some acute pain conditions are available.
-- •There is variability in the opioid analgesic dose and duration needed to adequately manage pain due both to the cause of pain and to individual patient factors.
-  Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
-- •Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Morphine Sulfate Oral Solution.
-  Consider this risk when selecting an initial dose andwhen making dose adjustments [see Warnings and Precautions (5)].
-- •Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.2)].
+Morphine Sulfate Oral Solution should be prescribed only by healthcare professionals who are knowledgeable about the use of opioids and how to mitigate the associated risks.
 
-## 2.3 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals [seeWarnings and Precautions (5)].
+Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of Morphine Sulfate Oral Solution for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with Morphine Sulfate Oral Solution [see Warnings and Precautions (5.3)].
+Many acute pain conditions (e.g., the pain that occurs with a number of surgical procedures or acute musculoskeletal injuries) require no more than a few days of an opioid analgesic.
+Clinical guidelines on opioid prescribing for some acute pain conditions are available.
 
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+There is variability in the opioid analgesic dose and duration needed to adequately manage pain due both to the cause of pain and to individual patient factors.
+Initiate the dosing regimen for each patient individually, taking into account the patient’s underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 
-Consider prescribing naloxone, based on the patient’s risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.2, 5.3, 5.4)].
+Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with Morphine Sulfate Oral Solution.
+Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5)].
 
-Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+Initiate the dosing regimen for each patient individually, taking into account the patient's severity of pain, patient response, prior analgesic treatment experience, and risk factors for addiction, abuse, and misuse [see Warnings andPrecautions (5.2)].
+
+## 2.3 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
+
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions (5.2, 5.3, 5.4)].
+
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.3)].
+
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
 ## 2.4 Initial Dosage
 
@@ -115,9 +119,9 @@ Adjust the dosage to obtain an appropriate balance between management of pain an
 
 ## 2.6 Safe Reduction or Discontinuation of Morphine Sulfate Oral Solution
 
-Do not abruptly discontinue Morphine Sulfate Oral Solution in patients who may be physically dependent on opioids.
-Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Do not rapidly reduce or abruptly discontinue Morphine Sulfate Oral Solution in patients who may be physically dependent on opioids.
+Rapid reduction or abrupt discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
 When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking Morphine Sulfate Oral Solution, there are a variety of factors that should be considered, including the total daily dose of opioid (including Morphine Sulfate Oral Solution) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.

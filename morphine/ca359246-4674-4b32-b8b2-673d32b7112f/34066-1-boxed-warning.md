@@ -7,7 +7,7 @@ Dosing errors due to confusion between mg and mL, and other morphine sulfate ora
 
 Addiction, Abuse, and Misuse
 
-Because the use of Morphine Sulfate Oral Solution exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [seeWarnings and Precautions (5.2)].
+Because the use of Morphine Sulfate Oral Solution exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient’s risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.2)].
 
 Life-Threatening Respiratory Depression
 
@@ -21,12 +21,12 @@ Accidental ingestion of even one dose of Morphine Sulfate Oral Solution, especia
 Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
-Reserve concomitant prescribing of Morphine Sulfate Oral Solution and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see Warnings and Precautions (5.4), DrugInteractions (7)].
+Reserve concomitant prescribing of Morphine Sulfate Oral Solution and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate [see Warnings and Precautions (5.4), Drug Interactions (7)].
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threating if not recognized and treated.
-Ensure that management by neonatology experts will be available at delivery [see Warnings and Precautions (5.5)].
+Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threating if not recognized and treated.
+Ensure that management by neonatology experts will be available at delivery[see Warnings and Precautions (5.5)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 

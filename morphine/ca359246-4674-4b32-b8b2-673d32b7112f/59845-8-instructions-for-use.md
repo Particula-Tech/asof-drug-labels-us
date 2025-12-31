@@ -1,5 +1,3 @@
-# INSTRUCTIONS FOR USE
-
 Instructions For Use
 
 Morphine Sulfate Oral Solution, CII
@@ -35,9 +33,9 @@ How should I store Morphine Sulfate Oral Solution?
 - •Protect from moisture.
 - •Keep Morphine Sulfate Oral Solution and all medicines out of the reach of children.
 
-Distributed by: Hikma
+Distributed by:
 
-Pharmaceuticals USA Inc.
+Hikma Pharmaceuticals USA Inc.
 
 Berkeley Heights, NJ 07922
 
@@ -45,4 +43,4 @@ For more information, please call 1-800-962-8364.
 
 This Instructions for Use has been approved by the U.S. Food and Drug Administration
 
-C50001154/02 Revised December 2023
+C50001154/03 Revised December 2023
