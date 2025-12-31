@@ -18,7 +18,8 @@ It is not known if pramipexole dihydrochloride tablets are safe and effective in
 
 What should I tell my doctor before taking pramipexole dihydrochloride tablets?
 
-- •Before taking pramipexole dihydrochloride tablets, tell your doctor if you:
+Before taking pramipexole dihydrochloride tablets, tell your doctor if you:
+
 - •feel sleepy during the day from a sleep problem other than Restless Legs Syndrome
 - •have low blood pressure, or if you feel dizzy or faint, especially when getting up from sitting or lying down
 - •have trouble controlling your muscles (dyskinesia)
@@ -106,16 +107,16 @@ Pramipexole dihydrochloride tablets may cause serious side effects, including:
 - •withdrawal symptoms. pramipexole dihydrochloride tablets is a dopamine agonist medicine.
   Dopamine agonist medicines, including pramipexole dihydrochloride tablets, can cause withdrawal symptoms as your dose is slowly lowered (tapered) or when treatment with pramipexole dihydrochloride tablets is stopped.
   Tell your doctor right away if you get any of the following withdrawal symptoms:
-- fever
-- confusion
-- severe muscle stiffness
-- feeling like you do not care about things you usually care about (apathy)
-- anxiety
-- depression
-- fatigue
-- insomnia
-- sweating
-- pain
+- •fever
+- •confusion
+- •severe muscle stiffness
+- •feeling like you do not care about things you usually care about (apathy)
+- •anxiety
+- •depression
+- •fatigue
+- •insomnia
+- •sweating
+- •pain
 
 After you have stopped taking pramipexole dihydrochloride tablets, your doctor may need to restart you at a low dose of pramipexole dihydrochloride tablets if you get severe withdrawal symptoms.
 
@@ -165,19 +166,15 @@ Active Ingredient: pramipexole dihydrochloride, USP
 
 Inactive Ingredients: mannitol, corn starch, colloidal silicon dioxide, povidone K-30, and magnesium stearate
 
-This Patient Information has been approved by the U.S. Food and Drug Administration.
-
 *Trademarks are the property of their respective owners.
 
-Manufactured by:
+Distributed by:
 
-Glenmark Pharmaceuticals Limited Colvale-Bardez, Goa 403513, India
-
-Manufactured for:
-
-Glenmark Pharmaceuticals Inc., USA Mahwah, NJ 07430
+Glenmark Pharmaceuticals Inc., USA Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115 www.glenmarkpharma-us.com
 
-August 2021
+This Patient Information has been approved by the U.S. Food and Drug Administration.
+
+Revised: August 2025

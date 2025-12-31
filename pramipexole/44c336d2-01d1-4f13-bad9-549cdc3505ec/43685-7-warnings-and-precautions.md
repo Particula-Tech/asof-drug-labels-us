@@ -68,8 +68,7 @@ Reducing the dose or discontinuing pramipexole dihydrochloride has been reported
 
 ## 5.7 Renal Impairment
 
-Since pramipexole is eliminated through the kidneys, caution should be exercised when prescribing pramipexole dihydrochloride tablets to patients with renal impairment [see Dosage and Administration (Error!
-Hyperlink reference not valid.), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
+Since pramipexole is eliminated through the kidneys, caution should be exercised when prescribing pramipexole dihydrochloride tablets to patients with renal impairment [see Dosage and Administration (2.3), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)].
 
 ## 5.8 Rhabdomyolysis
 
@@ -77,7 +76,7 @@ A single case of rhabdomyolysis occurred in a 49-year-old male with advanced Par
 The patient was hospitalized with an elevated CPK (10,631 IU/L).
 The symptoms resolved with discontinuation of the medication.
 
-Advisepatients to contact a physician if they experience any unexplained muscle pain, tenderness, or weakness, as these may be symptoms of rhabdomyolysis.
+Advise patients to contact a physician if they experience any unexplained muscle pain, tenderness, or weakness, as these may be symptoms of rhabdomyolysis.
 
 ## 5.9 Retinal Pathology
 

@@ -10,8 +10,7 @@ The following adverse reactions are discussed in greater detail in other section
 - •Postural Deformity [see Warnings and Precautions (5.6)]
 - •Rhabdomyolysis [see Warnings and Precautions (5.8)]
 - •Retinal Pathology [see Warnings and Precautions (5.9)]
-- •Events Reported with Dopaminergic Therapy [see Warnings and Precautions (Error!
-  Hyperlink reference not valid.)]
+- •Events Reported with Dopaminergic Therapy [see Warnings and Precautions (5.10)]
 - •Withdrawal Symptoms [see Warnings and Precautions (5.11)]
 
 ## 6.1 Clinical Trials Experience
