@@ -2,4 +2,4 @@
 
 Rosuvastatin tablets are indicated:
 
-1. Rosuvastatin tablets are indicated:
+- Rosuvastatin tablets are indicated:

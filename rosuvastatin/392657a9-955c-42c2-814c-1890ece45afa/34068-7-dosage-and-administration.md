@@ -50,9 +50,9 @@ Table 1: Rosuvastatin Tablets Dosage Modifications Due to Drug Interactions
 | Fostamatinib | Do not exceed 20 mg once daily. |
 | Febuxostat | Do not exceed 20 mg once daily. |
 | Gemfibrozil | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 10 mg once daily. |
-| Tafamidis Tafamidis | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 20 mg once daily. |
+| Tafamidis | Avoid concomitant use. If used concomitantly, initiate at 5 mg once daily and do not exceed 20 mg once daily. |
 | Antiviral Medications |  |
-| oSofbuvir/velpatasvir/voxilapreviroLedipasvir/sofosbuvir | Concomitant use not recommended. |
-| oSimepreviroDasabuvir/ombitasvir/paritaprevir/ritonavir oElbasvir/Grazoprevir oSofosbuvir/VelpatasviroGlecaprevir/PibrentasviroAtazanavir/RitonaviroLopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |
+| •Sofbuvir/velpatasvir/voxilaprevir•Ledipasvir/sofosbuvir | Concomitant use not recommended. |
+| •Simeprevir•Dasabuvir/ombitasvir/paritaprevir/ritonavir •Elbasvir/Grazoprevir •Sofosbuvir/Velpatasvir•Glecaprevir/Pibrentasvir•Atazanavir/Ritonavir•Lopinavir/Ritonavir | Initiate at 5 mg once daily. Do not exceed 10 mg once daily. |
 | Darolutamide | Do not exceed 5 mg once daily. |
 | Regorafenib | Do not exceed 10 mg once daily. |
