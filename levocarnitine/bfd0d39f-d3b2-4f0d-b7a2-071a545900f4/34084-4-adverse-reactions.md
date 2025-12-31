@@ -13,4 +13,4 @@ Musculoskeletal Reactions: Mild myasthenia has been described only in uremic pat
 Neurologic Reactions: Seizures have been reported to occur in patients with or without pre-existing seizure activity receiving either oral or intravenous levocarnitine.
 In patients with pre-existing seizure activity, an increase in seizure frequency and/or severity has been reported.
 
-Hypersensitivity Reactions: Rash, urticaria, and facial edema have been reported with oral Levocarnitine (see WARNINGS).
+Hypersensitivity Reactions: Rash, urticaria, and facial edema have been reported with oral levocarnitine (see WARNINGS).

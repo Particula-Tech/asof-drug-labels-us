@@ -52,14 +52,10 @@
     Quantitative estimation of absorption and degradation of a carnitine supplement by human adults.
     Metabolism 40:1305-1310.
 
-Manufactured by:
+Distributed by:
 
-Novitium Pharma LLC
+ANI Pharmaceuticals, Inc.
 
-70 Lake Drive, East Windsor
+Baudette, MN 56623
 
-New Jersey 08520
-
-Revised: 07/2022
-
-LB4397-01
+LB4397-02 / 10738 Rev 04/2024
