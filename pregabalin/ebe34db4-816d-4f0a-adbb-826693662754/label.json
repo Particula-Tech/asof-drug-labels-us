@@ -1,26 +1,13 @@
 {
   "application_numbers": [
-    "NDA021446",
     "NDA022488"
   ],
   "inn": "pregabalin",
   "labeler": "Mylan Pharmaceuticals Inc.",
   "package_ndcs": [
-    "59762-1342-1",
-    "59762-1344-1",
-    "59762-1346-1",
-    "59762-1348-1",
-    "59762-1351-1",
-    "59762-1354-1",
-    "59762-1364-1",
     "59762-1576-1"
   ],
   "products": [
-    {
-      "form": "CAPSULE",
-      "generic": "pregabalin",
-      "name": "Pregabalin"
-    },
     {
       "form": "SOLUTION",
       "generic": "pregabalin",

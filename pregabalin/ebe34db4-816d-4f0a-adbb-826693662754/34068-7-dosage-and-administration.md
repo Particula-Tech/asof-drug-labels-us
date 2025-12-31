@@ -4,7 +4,7 @@
 
 Pregabalin is given orally with or without food.
 
-When discontinuing pregabalin, taper gradually over a minimum of 1 week [see Warnings and Precautions (5.6)].
+When discontinuing pregabalin, taper gradually over a minimum of 1 week [see Warnings and Precautions (5.4)].
 
 Because pregabalin is eliminated primarily by renal excretion, adjust the dose in adult patients with reduced renal function [see Dosage and Administration (2.7)].
 
@@ -40,7 +40,7 @@ Recommended Dosage for Adults and Pediatric Patients 1 Month and Older
 | --- | --- | --- | --- |
 | Adults (17 years and older) | 150 mg/day | 600 mg/day | 2 or 3 divided doses |
 | Pediatric patients weighing 30 kg or more | 2.5 mg/kg/day | 10 mg/kg/day(not to exceed 600 mg/day) | 2 or 3 divided doses |
-| Pediatric patients weighing less than 30 kg | 3.5 mg/kg/day | 14 mg/kg/day | 1 month to less than 4 years of age:3 divided doses 4 years of age and older:2 or 3 divided doses |
+| Pediatric patients weighing less than 30 kg | 3.5 mg/kg/day | 14 mg/kg/day | 1 month to less than 4 years of age:3 divided doses4 years of age and older:2 or 3 divided doses |
 
 Both the efficacy and adverse event profiles of pregabalin have been shown to be dose-related.
 
@@ -93,5 +93,8 @@ Pregabalin Dosage Adjustment Based on Renal Function
 | 15-30 | 25-50 | 75 | 100-150 | 150 | QD or BID |
 | Less than 15 | 25 | 25-50 | 50-75 | 75 | QD |
 | Supplementary dosage following hemodialysis (mg)Supplementary dose is a single additional dose. |  |  |  |  |  |
-| Patients on the 25 mg QD regimen: take one supplemental dose of 25 mg or 50 mgPatients on the 25-50 mg QD regimen: take one supplemental dose of 50 mg or 75 mgPatients on the 50-75 mg QD regimen: take one supplemental dose of 75 mg or 100 mgPatients on the 75 mg QD regimen: take one supplemental dose of 100 mg or 150 mg |  |  |  |  |  |
+| Patients on the 25 mg QD regimen: take one supplemental dose of 25 mg or 50 mg |  |  |  |  |  |
+| Patients on the 25-50 mg QD regimen: take one supplemental dose of 50 mg or 75 mg |  |  |  |  |  |
+| Patients on the 50-75 mg QD regimen: take one supplemental dose of 75 mg or 100 mg |  |  |  |  |  |
+| Patients on the 75 mg QD regimen: take one supplemental dose of 100 mg or 150 mg |  |  |  |  |  |
 | TID = Three divided doses; BID = Two divided doses; QD = Single daily dose. |  |  |  |  |  |

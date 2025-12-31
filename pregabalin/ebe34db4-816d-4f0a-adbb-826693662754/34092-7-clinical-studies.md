@@ -212,9 +212,9 @@ When considering return of pain or withdrawal due to adverse events as loss of r
 Fifty-three percent of the pregabalin-treated subjects compared to 33% of placebo patients remained on study drug and maintained a therapeutic response to Week 26 of the study.
 Treatment with pregabalin also resulted in a longer time to loss of response based on the FIQ1, and longer time to loss of overall assessment of patient status, as measured by the PGIC2.
 
-1Time to worsening of the FIQ was defined as the time to a 1-point increase from double-blind baseline in each of the subscales, and a 5-point increase from double-blind baseline evaluation for the FIQ total score.
+1 Time to worsening of the FIQ was defined as the time to a 1-point increase from double-blind baseline in each of the subscales, and a 5-point increase from double-blind baseline evaluation for the FIQ total score.
 
-2Time to PGIC lack of improvement was defined as time to PGIC assessments indicating less improvement than “much improvement.”
+2 Time to PGIC lack of improvement was defined as time to PGIC assessments indicating less improvement than “much improvement.”
 
 ## 14.5 Management of Neuropathic Pain Associated with Spinal Cord Injury
 
