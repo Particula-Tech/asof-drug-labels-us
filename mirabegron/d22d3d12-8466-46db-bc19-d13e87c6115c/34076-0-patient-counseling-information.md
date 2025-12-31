@@ -33,11 +33,13 @@ Missed Dose
 Instruct patients and/or their caregivers to take any missed doses as soon as they remember, unless more than 12 hours have passed since the missed dose.
 If more than 12 hours have passed, the missed dose can be skipped and the next dose should be taken at the usual time.
 
+LUPIN and the are registered trademarks of Lupin Pharmaceuticals, Inc.
+
 Manufactured for:
 
 Lupin Pharmaceuticals, Inc.
 
-Baltimore, Maryland 21202
+Naples, FL 34108
 
 United States
 
@@ -49,4 +51,4 @@ Nagpur 441 108
 
 INDIA
 
-Revised: December 2023
+Revised: November 2024

@@ -41,7 +41,7 @@ The developmental and health benefits of breastfeeding should be considered alon
 
 ## 8.4 Pediatric Use
 
-Increased mean systolic and diastolic blood pressures with use of mirabegron extended release-tablets occurred in patients less than 12 years of age with larger increases in patients younger than 8 years of age.
+Increased mean systolic and diastolic blood pressures with use of mirabegron extended-release-tablets occurred in patients less than 12 years of age with larger increases in patients younger than 8 years of age.
 
 Pediatric use information is approved for Astellas Pharma Global Development, Inc.'s MYRBETRIQ (mirabegron extended-release tablets).
 However, due to Astellas Pharma Global Development, Inc.'s marketing exclusivity rights, this drug product is not labeled with that information.
