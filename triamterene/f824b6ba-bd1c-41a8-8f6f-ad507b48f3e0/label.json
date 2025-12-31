@@ -1,16 +1,12 @@
 {
   "application_numbers": [
-    "ANDA073191",
     "ANDA074821"
   ],
   "inn": "triamterene",
   "labeler": "Sandoz Inc",
   "package_ndcs": [
     "0781-2074-01",
-    "0781-2074-10",
-    "0781-2715-01",
-    "0781-2715-10",
-    "0781-2715-13"
+    "0781-2074-10"
   ],
   "products": [
     {
