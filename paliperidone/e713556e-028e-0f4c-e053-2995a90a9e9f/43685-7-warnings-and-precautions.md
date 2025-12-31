@@ -14,13 +14,13 @@ Paliperidone extended-release tablets are not approved for the treatment of deme
 
 In placebo-controlled trials with risperidone, aripiprazole, and olanzapine in elderly subjects with dementia, there was a higher incidence of cerebrovascular adverse reactions (cerebrovascular accidents and transient ischemic attacks) including fatalities compared to placebo-treated subjects.
 Paliperidone extended-release tablets were not marketed at the time these studies were performed.
-Paliperidone extended-release tablets are not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warning and Warnings and Precautions (5.1)].
+Paliperidone extended-release tablets are not approved for the treatment of patients with dementia-related psychosis [see also Boxed Warningand Warnings and Precautions (5.1)].
 
 ## 5.3 Neuroleptic Malignant Syndrome
 
 Neuroleptic Malignant Syndrome (NMS), a potentially fatal symptom complex, has been reported in association with antipsychotic drugs, including paliperidone.
-Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status including delirium,, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
-Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
+Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status including delirium, and autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
+Additional signs may include elevated creatine phosphokinase, myoglobinuria, rhabdomyolysis, and acute renal failure.
 
 If NMS is suspected, immediately discontinue paliperidone extended-release tablets and provide symptomatic treatment and monitoring.
 
@@ -35,8 +35,8 @@ Certain circumstances may increase the risk of the occurrence of torsade de poin
 The effects of paliperidone on the QT interval were evaluated in a double-blind, active-controlled (moxifloxacin 400 mg single dose), multicenter QT study in adults with schizophrenia and schizoaffective disorder, and in three placebo- and active-controlled 6-week, fixed-dose efficacy trials in adults with schizophrenia.
 
 In the QT study (n = 141), the 8 mg dose of immediate-release oral paliperidone (n = 50) showed a mean placebo-subtracted increase from baseline in QTcLD of 12.3 msec (90% CI: 8.9; 15.6) on day 8 at 1.5 hours post-dose.
-The mean steady-state peak plasma concentration for this 8 mg dose of paliperidone immediate-release was more than twice the exposure observed with the maximum recommended 12 mg dose of paliperidone extended-release tablets (C max ss = 113 ng/mL and 45 ng/mL, respectively, when administered with a standard breakfast).
-In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which C max ss = 35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on day 2 at 1.5 hours post-dose.
+The mean steady-state peak plasma concentration for this 8 mg dose of paliperidone immediate-release was more than twice the exposure observed with the maximum recommended 12 mg dose of paliperidone extended-release tablets (C max ss= 113 ng/mL and 45 ng/mL, respectively, when administered with a standard breakfast).
+In this same study, a 4 mg dose of the immediate-release oral formulation of paliperidone, for which C max ss= 35 ng/mL, showed an increased placebo-subtracted QTcLD of 6.8 msec (90% CI: 3.6; 10.1) on day 2 at 1.5 hours post-dose.
 None of the subjects had a change exceeding 60 msec or a QTcLD exceeding 500 msec at any time during this study.
 
 For the three fixed-dose efficacy studies in subjects with schizophrenia, electrocardiogram (ECG) measurements taken at various time points showed only one subject in the paliperidone extended-release tablets 12 mg group had a change exceeding 60 msec at one time-point on Day 6 (increase of 62 msec).
@@ -48,15 +48,17 @@ Tardive dyskinesia, a syndrome consisting of potentially irreversible, involunta
 Although the prevalence of the syndrome appears to be highest among the elderly, especially elderly women, it is impossible to predict which patients will develop the syndrome.
 Whether antipsychotic drug products differ in their potential to cause tardive dyskinesia is unknown.
 
-The risk of developing tardive dyskinesia and the likelihood that it will become irreversible appear to increase as the duration of treatment and the total cumulative dose of antipsychotic drugs administered to the patient increase, but the syndrome can develop after relatively brief treatment periods at low doses, although this is uncommon.
+The risk of developing tardive dyskinesia and the likelihood that it will become irreversible appear to increase with duration of treatment and the cumulative dose.
+The syndrome can develop after relatively brief treatment periods, even at low doses.
+It may also occur after discontinuation of treatment.
 
-The syndrome may remit, partially or completely, if antipsychotic treatment is withdrawn.
-Antipsychotic treatment itself may suppress (or partially suppress) the signs and symptoms of the syndrome and may thus mask the underlying process.
+Tardive Dyskinesia may remit, partially or completely, if antipsychotic treatment is withdrawn.
+Antipsychotic treatment itself, however, may suppress (or partially suppress) the signs and symptoms of the syndrome and thereby may possibly mask the underlying process.
 The effect of symptomatic suppression on the long-term course of the syndrome is unknown.
 
 Given these considerations, paliperidone extended-release tablets should be prescribed in a manner that is most likely to minimize the occurrence of tardive dyskinesia.
 Chronic antipsychotic treatment should generally be reserved for patients: (1) who suffer from a chronic illness that is known to respond to antipsychotic drugs, and (2) for whom alternative, equally effective, but potentially less harmful treatments are not available or appropriate.
-In patients who do require chronic treatment, use the lowest dose and the shortest duration of treatment producing a satisfactory clinical response should be sought.
+In patients who do require chronic treatment, use the lowest dose and the shortest duration of treatment producing a satisfactory clinical response.
 The need for continued treatment should be reassessed periodically.
 
 If signs and symptoms of tardive dyskinesia appear in a patient treated with paliperidone extended-release tablets, drug discontinuation should be considered.
@@ -188,7 +190,7 @@ Change in Fasting Lipids from a Placebo-Controlled 6-Week Study in Adolescent Su
 Weight gain has been observed with atypical antipsychotic use.
 Clinical monitoring of weight is recommended.
 
-#### Schizophrenia Trials
+#### Schizophrenia Trials:
 
 Data on mean changes in body weight and the proportion of subjects meeting a weight gain criterion of ≥ 7% of body weight from the three placebo-controlled, 6-week, fixed-dose studies in adult subjects are presented in Table 3a.
 
@@ -217,7 +219,7 @@ Mean Change in Body Weight (kg) and the Proportion of Subjects with ≥ 7% Gain 
 | Weight (kg)Change from baseline | 0.0 | 0.3 | 0.8 | 1.2 | 1.5 |
 | Weight Gain≥ 7% increase from baseline | 2% | 6% | 19% | 7% | 18% |
 
-In the open-label long-term study the proportion of total subjects treated with paliperidone extended-release tablets with an increase in body weight of ≥ 7% from baseline was 33%.
+In the open-label long-term study the proportion of total subjects treated with paliperidone extended-release tablets with an increase in body weight of ≥7% from baseline was 33%.
 When treating adolescent patients with paliperidone extended-release tablets, weight gain should be assessed against that expected with normal growth.
 When taking into consideration the median duration of exposure to paliperidone extended-release tablets in the open-label study (182 days) along with expected normal growth in this population based on age and gender, an assessment of standardized scores relative to normative data provides a more clinically relevant measure of changes in weight.
 The mean change from open-label baseline to endpoint in standardized score for weight was 0.1 (4% above the median for normative data).
@@ -230,7 +232,7 @@ In the study that examined high- and low-dose groups, the increase in body weigh
 
 ## 5.7 Hyperprolactinemia
 
-Like other drugs that antagonize dopamine D 2 receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
+Like other drugs that antagonize dopamine D 2receptors, paliperidone elevates prolactin levels and the elevation persists during chronic administration.
 Paliperidone has a prolactin-elevating effect similar to that seen with risperidone, a drug that is associated with higher levels of prolactin than other antipsychotic drugs.
 
 Hyperprolactinemia, regardless of etiology, may suppress hypothalamic GnRH, resulting in reduced pituitary gonadotrophin secretion.
@@ -240,13 +242,13 @@ Long-standing hyperprolactinemia when associated with hypogonadism may lead to d
 
 Tissue culture experiments indicate that approximately one-third of human breast cancers are prolactin dependent in vitro, a factor of potential importance if the prescription of these drugs is considered in a patient with previously detected breast cancer.
 An increase in the incidence of pituitary gland, mammary gland, and pancreatic islet cell neoplasia (mammary adenocarcinomas, pituitary and pancreatic adenomas) was observed in the risperidone carcinogenicity studies conducted in mice and rats [see Nonclinical Toxicology (13.1)].
-Neither clinical studies nor epidemiologic studies conducted to date have shown an association between chronic administration of this class of drugs and tumorigenesis in humans, but the available evidence is too limited to be conclusive.
+Published epidemiologic studies have shown inconsistent results when exploring the potential association between hyperprolactinemia and breast cancer.
 
 ## 5.8 Potential for Gastrointestinal Obstruction
 
 Because the paliperidone extended-release tablet is non-deformable and does not appreciably change in shape in the gastrointestinal tract, paliperidone extended-release tablets should ordinarily not be administered to patients with pre-existing severe gastrointestinal narrowing (pathologic or iatrogenic, for example: esophageal motility disorders, small bowel inflammatory disease, “short gut” syndrome due to adhesions or decreased transit time, past history of peritonitis, cystic fibrosis, chronic intestinal pseudo obstruction, or Meckel’s diverticulum).
 There have been rare reports of obstructive symptoms in patients with known strictures in association with the ingestion of drugs in non-deformable controlled-release formulations.
-Because of the controlled-release design of the tablet, paliperidone extended-release tablets should only be used in patients who are able to swallow the tablet whole [see Dosage and Administration (2.3) and Patient Counseling Information (17)].
+Because of the controlled-release design of the tablet, paliperidone extended-release tablets should only be used in patients who are able to swallow the tablet whole [see Dosage and Administration (2.3)and Patient Counseling Information (17)].
 
 A decrease in transit time, e.g., as seen with diarrhea, would be expected to decrease bioavailability and an increase in transit time, e.g., as seen with gastrointestinal neuropathy, diabetic gastroparesis, or other causes, would be expected to increase bioavailability.
 These changes in bioavailability are more likely when the changes in transit time occur in the upper GI tract.

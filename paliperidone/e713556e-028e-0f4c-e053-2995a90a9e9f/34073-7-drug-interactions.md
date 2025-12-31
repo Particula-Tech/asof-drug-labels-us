@@ -8,25 +8,25 @@ Paliperidone may antagonize the effect of levodopa and other dopamine agonists.
 Because of its potential for inducing orthostatic hypotension, an additive effect may be observed when paliperidone extended-release tablets are administered with other therapeutic agents that have this potential [see Warnings and Precautions (5.9)].
 
 Paliperidone is not expected to cause clinically important pharmacokinetic interactions with drugs that are metabolized by cytochrome P450 isozymes.
-In vitro studies in human liver microsomes showed that paliperidone does not substantially inhibit the metabolism of drugs metabolized by cytochrome P450 isozymes, including CYP1A2, CYP2A6, CYP2C8/9/10, CYP2D6, CYP2E1, CYP3A4, and CYP3A5.
+In vitrostudies in human liver microsomes showed that paliperidone does not substantially inhibit the metabolism of drugs metabolized by cytochrome P450 isozymes, including CYP1A2, CYP2A6, CYP2C8/9/10, CYP2D6, CYP2E1, CYP3A4, and CYP3A5.
 Therefore, paliperidone is not expected to inhibit clearance of drugs that are metabolized by these metabolic pathways in a clinically relevant manner.
 Paliperidone is also not expected to have enzyme inducing properties.
 
 Paliperidone is a weak inhibitor of P-glycoprotein (P-gp) at high concentrations.
-No in vivo data are available and the clinical relevance is unknown.
+No in vivodata are available and the clinical relevance is unknown.
 
 Pharmacokinetic interaction between lithium and paliperidone extended-release tablets is unlikely.
 
-In a drug interaction study, co-administration of paliperidone extended-release tablets (12 mg once daily for 5 days) with divalproex sodium extended-release tablets (500 mg to 2000 mg once daily) did not affect the steady-state pharmacokinetics (AUC 24h and C max,ss) of valproate in 13 patients stabilized on valproate.
+In a drug interaction study, co-administration of paliperidone extended-release tablets (12 mg once daily for 5 days) with divalproex sodium extended-release tablets (500 mg to 2000 mg once daily) did not affect the steady-state pharmacokinetics (AUC 24hand C max,ss) of valproate in 13 patients stabilized on valproate.
 In a clinical study, subjects on stable doses of valproate had comparable valproate average plasma concentrations when paliperidone extended-release tablets 3-15 mg/day were added to their existing valproate treatment.
 
 ## 7.2 Potential for Other Drugs to Affect Paliperidone Extended-Release Tablets
 
 Paliperidone is not a substrate of CYP1A2, CYP2A6, CYP2C9, and CYP2C19, so that an interaction with inhibitors or inducers of these isozymes is unlikely.
-While in vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, in vivo studies do not show decreased elimination by these isozymes and they contribute to only a small fraction of total body clearance.
-In vitro studies have shown that paliperidone is a P-gp substrate.
+While in vitrostudies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, in vivostudies do not show decreased elimination by these isozymes and they contribute to only a small fraction of total body clearance.
+In vitrostudies have shown that paliperidone is a P-gp substrate.
 
-Co-administration of paliperidone extended-release tablets 6 mg once daily with carbamazepine, a strong inducer of both CYP3A4 and P-glycoprotein (P-gp), at 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state C max and AUC of paliperidone.
+Co-administration of paliperidone extended-release tablets 6 mg once daily with carbamazepine, a strong inducer of both CYP3A4 and P-glycoprotein (P-gp), at 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state C maxand AUC of paliperidone.
 This decrease is caused, to a substantial degree, by a 35% increase in renal clearance of paliperidone.
 A minor decrease in the amount of drug excreted unchanged in the urine suggests that there was little effect on the CYP metabolism or bioavailability of paliperidone during carbamazepine co-administration.
 On initiation of carbamazepine, the dose of paliperidone extended-release tablets should be re-evaluated and increased if necessary.
@@ -37,7 +37,7 @@ In an interaction study in healthy subjects in which a single 3 mg dose of palip
 Higher doses of paroxetine have not been studied.
 The clinical relevance is unknown.
 
-Co-administration of a single dose of paliperidone extended-release tablets 12 mg with divalproex sodium extended-release tablets (two 500 mg tablets once daily) resulted in an increase of approximately 50% in the C max and AUC of paliperidone.
+Co-administration of a single dose of paliperidone extended-release tablets 12 mg with divalproex sodium extended-release tablets (two 500 mg tablets once daily) resulted in an increase of approximately 50% in the C maxand AUC of paliperidone.
 Dosage reduction for paliperidone extended-release tablets should be considered when paliperidone extended-release tablets are co-administered with valproate after clinical assessment.
 
 Pharmacokinetic interaction between lithium and paliperidone extended-release tablets is unlikely.

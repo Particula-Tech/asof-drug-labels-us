@@ -17,8 +17,8 @@ The estimated background risk of major birth defects and miscarriage for the ind
 All pregnancies have a background risk of birth defects, loss, or other adverse outcomes.
 In the U.S. general population, the estimated background risk of major birth defects and miscarriage in clinically recognized pregnancies is 2–4% and 15–20%, respectively.
 
-In animal reproduction studies, there were no increases in fetal abnormalities when pregnant rats and rabbits were treated with paliperidone during the period of organogenesis with up to 8 times the maximum recommended human dose (MRHD) based on mg/m 2 body surface area.
-Additional reproduction toxicity studies were conducted with orally administered risperidone, which is extensively converted to paliperidone (see Animal data).
+In animal reproduction studies, there were no increases in fetal abnormalities when pregnant rats and rabbits were treated with paliperidone during the period of organogenesis with up to 8 times the maximum recommended human dose (MRHD) based on mg/m 2body surface area.
+Additional reproduction toxicity studies were conducted with orally administered risperidone, which is extensively converted to paliperidone (seeAnimal data).
 
 ### Clinical Considerations
 
@@ -46,15 +46,15 @@ There was a small increase in the risk of major birth defects (RR = 1.26, 95% CI
 
 #### Animal Data:
 
-In animal reproduction studies, there were no increases in fetal abnormalities when pregnant rats and rabbits were treated with paliperidone during the period of organogenesis with up to 8 times the MRHD of 12 mg based on mg/m 2 body surface area.
+In animal reproduction studies, there were no increases in fetal abnormalities when pregnant rats and rabbits were treated with paliperidone during the period of organogenesis with up to 8 times the MRHD of 12 mg based on mg/m 2body surface area.
 
 Additional reproduction toxicity studies were conducted with orally administered risperidone, which is extensively converted to paliperidone.
-Cleft palate was observed in the offspring of pregnant mice treated with risperidone at 3 to 4 times the MRHD of 16 mg based on mg/m 2 body surface area; maternal toxicity occurred at 4 times the MHRD.
-There was no evidence of teratogenicity in embryo-fetal developmental toxicity studies with risperidone in rats and rabbits at doses up to 6 times the MRHD of 16 mg/day risperidone based on mg/m 2 body surface area.
-When the offspring of pregnant rats, treated with risperidone at 0.6 times the MRHD based on mg/m 2 body surface area, reached adulthood, learning was impaired.
+Cleft palate was observed in the offspring of pregnant mice treated with risperidone at 3 to 4 times the MRHD of 16 mg based on mg/m 2body surface area; maternal toxicity occurred at 4 times the MHRD.
+There was no evidence of teratogenicity in embryo-fetal developmental toxicity studies with risperidone in rats and rabbits at doses up to 6 times the MRHD of 16 mg/day risperidone based on mg/m 2body surface area.
+When the offspring of pregnant rats, treated with risperidone at 0.6 times the MRHD based on mg/m 2body surface area, reached adulthood, learning was impaired.
 Increased neuronal cell death occurred in the fetal brains of the offspring of pregnant rats treated at 0.5 to 1.2 times the MRHD; the postnatal development and growth of the offspring was delayed.
 
-In rat reproduction studies with risperidone, pup deaths occurred at oral doses which are less than the MRHD of risperidone based on mg/m 2 body surface area; it is not known whether these deaths were due to a direct effect on the fetuses or pups or to effects on the dams (see RISPERDAL ® package insert).
+In rat reproduction studies with risperidone, pup deaths occurred at oral doses which are less than the MRHD of risperidone based on mg/m 2body surface area; it is not known whether these deaths were due to a direct effect on the fetuses or pups or to effects on the dams (see RISPERDAL ®package insert).
 
 ## 8.2 Lactation
 

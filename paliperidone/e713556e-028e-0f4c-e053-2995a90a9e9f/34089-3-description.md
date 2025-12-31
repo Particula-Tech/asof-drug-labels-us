@@ -3,17 +3,16 @@
 Paliperidone Extended-Release Tablets contain paliperidone, USP, an atypical antipsychotic belonging to the chemical class of benzisoxazole derivatives.
 Paliperidone extended-release tablets contain a racemic mixture of (+)- and (-)- paliperidone.
 The chemical name is (9 RS)-3-[2-[4-(6-Fluoro-1,2-benzisoxazol-3-yl)piperidin-1-yl]]ethyl]-9-hydroxy-2-methyl-6,7,8,9-tetrahydro-4 H-pyrido[1,2- a]pyrimidin-4-one.
-Its molecular formula is C 23H 27FN 4O 3 and its molecular weight is 426.49.
+Its molecular formula is C 23H 27FN 4O 3and its molecular weight is 426.49.
 The structural formula is:
 
 Paliperidone is sparingly soluble in 0.1N HCl and methylene chloride; practically insoluble in water, 0.1N NaOH, and hexane; and slightly soluble in N,N-dimethylformamide.
 
-Paliperidone extended-release tablets are intended for oral administration and are available in 1.5 mg (brown), 3 mg (white), 6 mg (light beige), and 9 mg (pink) strengths.
-Paliperidone extended-release tablets utilize osmotic drug-release technology [see Description (11)].
+Paliperidone extended-release tablets are intended for oral administration and are available in 3 mg (white), 6 mg (light beige), and 9 mg (pink) strengths.
+Paliperidone extended-release tablets utilize osmotic drug-release technology [seeDescription (11)].
 
 Inactive ingredients are butylated hydroxytoluene, cellulose acetate, colloidal silicon dioxide, hydroxypropyl cellulose, hypromellose, polyethylene glycol, polyethylene oxide, red iron oxide, sodium chloride, sodium stearyl fumarate, talc, titanium dioxide and yellow iron oxide.
 
-The 1.5 mg tablets also contain black iron oxide and polydextrose.
 The 3 mg tablets also contain polyvinyl alcohol.
 The 6 mg tablets also contain black iron oxide, FD&C Blue No. 1 Aluminum Lake and polyvinyl alcohol.
 The 9 mg tablets also contain FD&C Blue No. 1 Aluminum Lake and polyvinyl alcohol.

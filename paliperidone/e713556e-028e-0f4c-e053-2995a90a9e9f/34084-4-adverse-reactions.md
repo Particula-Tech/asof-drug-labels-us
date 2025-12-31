@@ -2,7 +2,7 @@
 
 The following adverse reactions are discussed in more detail in other sections of the labeling:
 
-- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warning and Warnings and Precautions (5.1)]
+- Increased mortality in elderly patients with dementia-related psychosis [see Boxed Warningand Warnings and Precautions (5.1)]
 - Cerebrovascular adverse reactions, including stroke, in elderly patients with dementia-related psychosis [see Warnings and Precautions (5.2)]
 - Neuroleptic malignant syndrome [see Warnings and Precautions (5.3)]
 - QT prolongation [see Warnings and Precautions (5.4)]
@@ -25,7 +25,7 @@ The most common adverse reactions in clinical trials in adult subjects with schi
 The most common adverse reactions in clinical trials in adult patients with schizoaffective disorder (reported in 5% or more of subjects treated with paliperidone extended-release tablets and at least twice the placebo rate) were extrapyramidal symptoms, somnolence, dyspepsia, constipation, weight increased, and nasopharyngitis.
 
 The most common adverse reactions that were associated with discontinuation from clinical trials in adult subjects with schizophrenia (causing discontinuation in 2% of paliperidone extended-release tablets-treated subjects) were nervous system disorders.
-The most common adverse reactions that were associated with discontinuation from clinical trials in adult subjects with schizoaffective disorder were gastrointestinal disorders, which resulted in discontinuation in 1% of paliperidone extended-release tablets-treated subjects [see Adverse Reactions (6)].
+The most common adverse reactions that were associated with discontinuation from clinical trials in adult subjects with schizoaffective disorder were gastrointestinal disorders, which resulted in discontinuation in 1% of paliperidone extended-release tablets-treated subjects [seeAdverse Reactions (6)].
 
 The safety of paliperidone extended-release tablets was evaluated in 1205 adult subjects with schizophrenia who participated in three placebo-controlled, 6-week, double-blind trials, of whom 850 subjects received paliperidone extended-release tablets at fixed doses ranging from 3 mg to 12 mg once daily.
 The information presented in this section was derived from pooled data from these three trials.
@@ -316,7 +316,7 @@ Treatment-Emergent Extrapyramidal Symptoms (EPS)-Related Adverse Events by MedDR
 
 ### Dystonia
 
-Class Effect: Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
+Class Effect:Symptoms of dystonia, prolonged abnormal contractions of muscle groups, may occur in susceptible individuals during the first few days of treatment.
 Dystonic symptoms include: spasm of the neck muscles, sometimes progressing to tightness of the throat, swallowing difficulty, difficulty breathing, and/or protrusion of the tongue.
 While these symptoms can occur at low doses, they occur more frequently and with greater severity with high potency and at higher doses of first generation antipsychotic drugs.
 An elevated risk of acute dystonia is observed in males and younger age groups.

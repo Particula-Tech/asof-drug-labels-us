@@ -8,8 +8,8 @@ However, the drug’s therapeutic effect in schizophrenia could be mediated thro
 
 ## 12.2 Pharmacodynamics
 
-In vitro, paliperidone acts as an antagonist at the central dopamine Type 2 (D 2) and serotonin Type 2 (5HT 2A) receptors, with binding affinities (Ki values) of 1.6 – 2.8 nM for D 2 and 0.8 – 1.2 nM for 5HT 2A receptors.
-Paliperidone is also active as an antagonist at the α 1 and α 2 adrenergic receptors and H 1 histaminergic receptors, which may explain some of the other effects of the drug.
+In vitro, paliperidone acts as an antagonist at the central dopamine Type 2 (D 2) and serotonin Type 2 (5HT 2A) receptors, with binding affinities (Ki values) of 1.6 – 2.8 nM for D 2and 0.8 – 1.2 nM for 5HT 2Areceptors.
+Paliperidone is also active as an antagonist at the α 1and α 2adrenergic receptors and H 1histaminergic receptors, which may explain some of the other effects of the drug.
 Paliperidone has no affinity for cholinergic muscarinic or β 1- and β 2-adrenergic receptors.
 The pharmacological activity of the (+)- and (-)- paliperidone enantiomers is qualitatively and quantitatively similar in vitro.
 
@@ -28,7 +28,7 @@ Following administration of paliperidone extended-release tablets, the (+) and (
 
 The absolute oral bioavailability of paliperidone following paliperidone extended-release tablets administration is 28%.
 
-Administration of a 12 mg paliperidone extended-release tablet to healthy ambulatory subjects with a standard high-fat/high-caloric meal gave mean C max and AUC values of paliperidone that were increased by 60% and 54%, respectively, compared with administration under fasting conditions.
+Administration of a 12 mg paliperidone extended-release tablet to healthy ambulatory subjects with a standard high-fat/high-caloric meal gave mean C maxand AUC values of paliperidone that were increased by 60% and 54%, respectively, compared with administration under fasting conditions.
 Clinical trials establishing the safety and efficacy of paliperidone extended-release tablets were carried out in subjects without regard to the timing of meals.
 While paliperidone extended-release tablets can be taken without regard to food, the presence of food at the time of paliperidone extended-release tablets administration may increase exposure to paliperidone [see Dosage and Administration (2.3)].
 
@@ -36,7 +36,7 @@ Based on a population analysis, the apparent volume of distribution of paliperid
 
 ### Metabolism and Elimination
 
-Although in vitro studies suggested a role for CYP2D6 and CYP3A4 in the metabolism of paliperidone, in vivo results indicate that these isozymes play a limited role in the overall elimination of paliperidone [see Drug Interactions (7)].
+Although in vitrostudies suggested a role for CYP2D6 and CYP3A4 in the metabolism of paliperidone, in vivoresults indicate that these isozymes play a limited role in the overall elimination of paliperidone [see Drug Interactions (7)].
 
 One week following administration of a single oral dose of 1 mg immediate-release 14C-paliperidone to 5 healthy volunteers, 59% (range 51% - 67%) of the dose was excreted unchanged into urine, 32% (26% - 41%) of the dose was recovered as metabolites, and 6% - 12% of the dose was not recovered.
 Approximately 80% of the administered radioactivity was recovered in urine and 11% in the feces.
@@ -69,7 +69,7 @@ Age did not influence the paliperidone exposure.
 #### Elderly:
 
 No dosage adjustment is recommended based on age alone.
-However, dose adjustment may be required because of age-related decreases in creatinine clearance [see Renal Impairment above and Dosage and Administration (2.1, 2.5)].
+However, dose adjustment may be required because of age-related decreases in creatinine clearance [see Renal Impairmentabove and Dosage and Administration (2.1, 2.5)].
 
 #### Race:
 
@@ -84,4 +84,4 @@ No differences in pharmacokinetics were observed in a pharmacokinetic study cond
 #### Smoking:
 
 No dosage adjustment is recommended based on smoking status.
-Based on in vitro studies utilizing human liver enzymes, paliperidone is not a substrate for CYP1A2; smoking should, therefore, not have an effect on the pharmacokinetics of paliperidone.
+Based on in vitrostudies utilizing human liver enzymes, paliperidone is not a substrate for CYP1A2; smoking should, therefore, not have an effect on the pharmacokinetics of paliperidone.
