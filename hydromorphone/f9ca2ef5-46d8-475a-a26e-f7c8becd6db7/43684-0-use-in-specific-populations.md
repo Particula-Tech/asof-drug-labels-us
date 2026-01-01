@@ -5,7 +5,7 @@
 Risk Summary
 
 Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal opioid withdrawal syndrome [see Warnings and Precautions (5.4)].
-There are no available data with Hydromorphone Hydrochloride Injection in pregnant women to inform a drug-associated risk for major birth defects and miscarriage or adverse maternal outcomes‎.‎ There are adverse outcomes reported with fetal exposure to opioid analgesics (see Clinical Considerations).
+There are no available data with Hydromorphone Hydrochloride Injection in pregnant women to inform a drug-associated risk for major birth defects and miscarriage or adverse maternal outcomes‎.‎ There are adverse outcomes reported with fetal exposure to opioid analgesics [see Clinical Considerations].
 
 In published animal reproduction studies, neural tube defects were noted following subcutaneous injection of hydromorphone to pregnant hamsters at doses 6.4 times the HDD and soft tissue and skeletal abnormalities were noted following subcutaneous continuous infusion of 3 times the HDD to pregnant mice.
 No malformations were noted at 4 or 40.5 times the HDD in pregnant rats or rabbits, respectively [see Data].
@@ -28,7 +28,7 @@ Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage 
 Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid‑induced respiratory depression in the neonate.
 Hydromorphone Hydrochloride Injection is not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including Hydromorphone Hydrochloride Injection, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -94,5 +94,4 @@ A further increase in Cmax and AUC of hydromorphone in this group is expected an
 The pharmacokinetics of hydromorphone are affected by renal impairment.
 In addition, in patients with severe renal impairment, hydromorphone appeared to be more slowly eliminated with a longer terminal elimination half-life.
 Start patients with renal impairment on one-fourth to one-half the usual starting dose depending on the degree of impairment.
-Patients with renal impairment should be closely monitored during dose titration.
-[see Clinical Pharmacology (12.3)]
+Patients with renal impairment should be closely monitored during dose titration [see Clinical Pharmacology (12.3)].
