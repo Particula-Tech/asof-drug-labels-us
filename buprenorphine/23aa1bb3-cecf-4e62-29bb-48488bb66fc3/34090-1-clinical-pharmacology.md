@@ -4,7 +4,7 @@
 
 Buprenorphine is a partial agonist at the mu-opioid receptor and an antagonist at the kappa-opioid receptor.
 One unusual property of buprenorphine hydrochloride observed in vitro studies is its very slow rate of dissociation from its receptor.
-This could account for its longer duration of action than morphine, the unpredictability of its reversal by opioid antagonists, and its low level of manifest physical dependence.
+This could account for its longer duration of action than morphine, the unpredictability of its reversal by opioid antagonists, including overdose reversal agent such as naloxone or nalmefene, and its low level of manifest physical dependence.
 
 ## Pharmacodynamics
 
@@ -34,7 +34,7 @@ Marked mydriasis rather than miosis may be seen due to hypoxia in overdose situa
 Buprenorphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 ### Effects on the Cardiovascular System
 

@@ -4,6 +4,6 @@ Rx only
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-0952-4.0
+LAB-0952-5.0
 
-Revised: 2/2024
+Revised: 12/2025

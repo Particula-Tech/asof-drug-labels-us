@@ -7,6 +7,8 @@ As an opioid, buprenorphine hydrochloride exposes users to the risks of addictio
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed buprenorphine hydrochloride.
 Addiction can occur at recommended doses and if the drug is misused or abused.
+The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
+In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use [see ADVERSE REACTIONS].
 
 Assess each patient's risk for opioid addiction, abuse, or misuse prior to prescribing buprenorphine hydrochloride, and reassess all patients receiving buprenorphine hydrochloride for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol addiction or abuse) or mental illness (e.g., major depression).
@@ -23,7 +25,7 @@ Contact local state professional licensing board or state controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory depression and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient's clinical status.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents (e.g., naloxone, nalmefene), depending on the patient's clinical status [see OVERDOSAGE].
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of buprenorphine hydrochloride, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -37,7 +39,7 @@ In patients who present with CSA, consider decreasing the opioid dosage using be
 
 ## Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of buprenorphine hydrochloride with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of buprenorphine hydrochloride with benzodiazepines and/or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -122,13 +124,17 @@ The most common signs and symptoms include rashes, hives, and pruritus.
 Cases of bronchospasm, angioneurotic edema, and anaphylactic shock have been reported.
 Buprenorphine hydrochloride is contraindicated in patients with a history of hypersensitivity to buprenorphine.
 
-## Risks of Use in Patients with Gastrointestinal Conditions
+## Risk of Gastrointestinal Complications
 
 Buprenorphine hydrochloride is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
 The buprenorphine in buprenorphine hydrochloride may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in the serum amylase.
 Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
+The risk of OIED may increase as the dose and/or duration of opioids increases.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate [see CLINICAL PHARMACOLOGY].
 
 ## Increased Risk of Seizures in Patients with Seizure Disorders
 
@@ -179,8 +185,8 @@ Clinically significant drug interactions with Buprenorphine Hydrochloride
 | Benzodiazepines and Other Central Nervous System (CNS) Depressants |  |
 | --- | --- |
 | Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Inform patients and caregivers of this potential interaction and educate them on the signs and symptoms of respiratory depression (including sedation). |
-| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, and other opioids, alcohol. |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Monitor patients closely for signs of respiratory depression and sedation [see WARNINGS]. |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids (gabapentin or pregabalin), other opioids, alcohol. |
 | Inhibitors of CYP3A4 |  |
 | Clinical Impact: | The concomitant use of buprenorphine and CYP3A4 inhibitors can increase the plasma concentration of buprenorphine, resulting in increased or prolonged opioid effects, particularly when an inhibitor is added after a stable dose of buprenorphine hydrochloride is achieved. After stopping a CYP3A4 inhibitor, as the effects of the inhibitor decline, the buprenorphine plasma concentration will decrease [see CLINICAL PHARMACOLOGY: Pharmacokinetics], potentially resulting in decreased opioid efficacy or a withdrawal syndrome in patients who had developed physical dependence to buprenorphine. |
 | Intervention: | If concomitant use is necessary, consider dosage reduction of buprenorphine hydrochloride until stable drug effects are achieved. Monitor patients for respiratory depression and sedation. If a CYP3A4 inhibitor is discontinued, consider increasing the buprenorphine hydrochloride dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. |
@@ -204,6 +210,7 @@ Clinically significant drug interactions with Buprenorphine Hydrochloride
 | Muscle Relaxants |  |
 | Clinical Impact: | Buprenorphine may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
 | Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected, decrease the dosage of buprenorphine hydrochloride and/or the muscle relaxant as necessary. |
+| Examples: | Cyclobenzaprine, metaxalone. |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
 | Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
@@ -282,8 +289,8 @@ Observe newborns for signs of neonatal opioid withdrawal syndrome and manage acc
 The safety of buprenorphine hydrochloride given during labor and delivery has not been established.
 As with all opioids, use of buprenorphine prior to delivery may result in respiratory depression in the newborn.
 
-Closely monitor neonates for signs of respiratory depression.
-An opioid antagonist such as naloxone should be available for reversal of opioid induced respiratory depression in the neonate.
+Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
+An opioid overdose reversal agent, such as naloxone or nalmefene, should be available for reversal of opioid induced respiratory depression in the neonate.
 
 ### Data
 
