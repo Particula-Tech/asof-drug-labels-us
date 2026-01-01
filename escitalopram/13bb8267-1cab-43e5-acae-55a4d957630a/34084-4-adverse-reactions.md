@@ -105,10 +105,7 @@ Reactions included are those occurring in 2% or more of patients treated with Le
 | Ejaculation Disorder1,2 | 9% | <1% |
 | Impotence2 | 3% | <1% |
 | Anorgasmia3 | 2% | <1% |
-
-1Primarily ejaculatory delay.
-2Denominator used was for males only (N=225 Lexapro; N=188 placebo).
-3Denominator used was for females only (N=490 Lexapro; N=404 placebo).
+| 1Primarily ejaculatory delay. 2Denominator used was for males only (N=225 Lexapro; N=188 placebo). 3Denominator used was for females only (N=490 Lexapro; N=404 placebo). |  |  |
 
 Pediatric Patients
 
@@ -164,10 +161,7 @@ Reactions included are those occurring in 2% or more of patients treated with Le
 | Ejaculation Disorder1,2 | 14% | 2% |
 | Anorgasmia3 | 6% | <1% |
 | Menstrual Disorder | 2% | 1% |
-
-1Primarily ejaculatory delay.
-2Denominator used was for males only (N=182 Lexapro; N=195 placebo).
-3Denominator used was for females only (N=247 Lexapro; N=232 placebo).
+| 1Primarily ejaculatory delay. 2Denominator used was for males only (N=182 Lexapro; N=195 placebo). 3Denominator used was for females only (N=247 Lexapro; N=232 placebo). |  |  |
 
 Pediatric Patients
 
@@ -220,16 +214,24 @@ Priapism has been reported with all SSRIs.
 
 While it is difficult to know the precise risk of sexual dysfunction associated with the use of SSRIs, physicians should routinely inquire about such possible side effects.
 
-Vital Sign Changes Lexapro and placebo groups were compared with respect to (1) mean change from baseline in vital signs (pulse, systolic blood pressure, and diastolic blood pressure) and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
+Vital Sign Changes
+
+Lexapro and placebo groups were compared with respect to (1) mean change from baseline in vital signs (pulse, systolic blood pressure, and diastolic blood pressure) and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
 These analyses did not reveal any clinically important changes in vital signs associated with Lexapro treatment.
 In addition, a comparison of supine and standing vital sign measures in subjects receiving Lexapro indicated that Lexapro treatment is not associated with orthostatic changes.
 
-Weight Changes Patients treated with Lexapro in controlled trials did not differ from placebo-treated patients with regard to clinically important change in body weight.
+Weight Changes
 
-Laboratory Changes Lexapro and placebo groups were compared with respect to (1) mean change from baseline in various serum chemistry, hematology, and urinalysis variables, and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
+Patients treated with Lexapro in controlled trials did not differ from placebo-treated patients with regard to clinically important change in body weight.
+
+Laboratory Changes
+
+Lexapro and placebo groups were compared with respect to (1) mean change from baseline in various serum chemistry, hematology, and urinalysis variables, and (2) the incidence of patients meeting criteria for potentially clinically significant changes from baseline in these variables.
 These analyses revealed no clinically important changes in laboratory test parameters associated with Lexapro treatment.
 
-ECG Changes Electrocardiograms from Lexapro (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
+ECG Changes
+
+Electrocardiograms from Lexapro (N=625) and placebo (N=527) groups were compared with respect to outliers defined as subjects with QTc changes over 60 msec from baseline or absolute values over 500 msec post-dose, and subjects with heart rate increases to over 100 bpm or decreases to less than 50 bpm with a 25% change from baseline (tachycardic or bradycardic outliers, respectively).
 None of the patients in the Lexapro group had a QTcF interval >500 msec or a prolongation >60 msec compared to 0.2% of patients in the placebo group.
 The incidence of tachycardic outliers was 0.2% in the Lexapro and the placebo group.
 The incidence of bradycardic outliers was 0.5% in the Lexapro group and 0.2% in the placebo group.
@@ -240,7 +242,9 @@ Based on the established exposure-response relationship, the predicted QTcF chan
 Escitalopram 30 mg given once daily resulted in mean Cmax of 1.7-fold higher than the mean Cmax for the maximum recommended therapeutic dose at steady state (20 mg).
 The exposure under supratherapeutic 30 mg dose is similar to the steady state concentrations expected in CYP2C19 poor metabolizers following a therapeutic dose of 20 mg.
 
-Other Reactions Observed During the Premarketing Evaluation of Lexapro Following is a list of treatment-emergent adverse reactions, as defined in the introduction to the ADVERSE REACTIONS section, reported by the 1428 patients treated with Lexapro for periods of up to one year in double-blind or open-label clinical trials during its premarketing evaluation.
+Other Reactions Observed During the Premarketing Evaluation of Lexapro
+
+Following is a list of treatment-emergent adverse reactions, as defined in the introduction to the ADVERSE REACTIONS section, reported by the 1428 patients treated with Lexapro for periods of up to one year in double-blind or open-label clinical trials during its premarketing evaluation.
 The listing does not include those reactions already listed in Tables 2 & 3, those reactions for which a drug cause was remote and at a rate less than 1% or lower than placebo, those reactions which were so general as to be uninformative, and those reactions reported only once which did not have a substantial probability of being acutely life threatening.
 Reactions are categorized by body system.
 Reactions of major clinical importance are described in the Warnings and Precautions section (5).
@@ -271,7 +275,9 @@ Urinary System Disorders: urinary frequency, urinary tract infection.
 
 ## 6.2Post-Marketing Experience
 
-Adverse Reactions Reported Subsequent to the Marketing of Escitalopram The following adverse reactions have been identified during post-approval use of Lexapro.
+Adverse Reactions Reported Subsequent to the Marketing of Escitalopram
+
+The following adverse reactions have been identified during post-approval use of Lexapro.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
 Blood and Lymphatic System Disorders: anemia, agranulocytis, aplastic anemia, hemolytic anemia, idiopathic thrombocytopenia purpura, leukopenia, thrombocytopenia.
@@ -285,6 +291,7 @@ Endocrine Disorders: diabetes mellitus, hyperprolactinemia, SIADH.
 Eye Disorders: angle closure glaucoma, diplopia, mydriasis, visual disturbance.
 
 Gastrointestinal Disorder: dysphagia, gastrointestinal hemorrhage, gastroesophageal reflux, pancreatitis, rectal hemorrhage.
+
 General Disorders and Administration Site Conditions: abnormal gait, asthenia, edema, fall, feeling abnormal, malaise.
 
 Hepatobiliary Disorders: fulminant hepatitis, hepatic failure, hepatic necrosis, hepatitis.
