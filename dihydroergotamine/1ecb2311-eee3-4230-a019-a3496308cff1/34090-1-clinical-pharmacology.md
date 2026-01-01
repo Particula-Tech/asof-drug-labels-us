@@ -9,7 +9,7 @@ The therapeutic activity of dihydroergotamine in migraine is generally attribute
 Two current theories have been proposed to explain the efficacy of 5-HT1D receptor agonists in migraine.
 One theory suggests that activation of 5-HT1D receptors located on intracranial blood vessels, including those on arterio-venous anastomoses, leads to vasoconstriction, which correlates with the relief of migraine headache.
 The alternative hypothesis suggests that activation of 5-HT1D receptors on sensory nerve endings of the trigeminal system results in the inhibition of pro-inflammatory neuropeptide release.
-In addition, dihydroergotamine possesses oxytocic properties..
+In addition, dihydroergotamine possesses oxytocic properties.
 
 ## Pharmacokinetics
 
