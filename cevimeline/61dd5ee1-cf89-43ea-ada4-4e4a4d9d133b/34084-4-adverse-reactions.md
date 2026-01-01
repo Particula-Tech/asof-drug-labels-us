@@ -58,33 +58,33 @@ The following events were reported rarely in treated Sjögren’s patients (<1%)
 
 Body as a Whole Disorders: aggravated allergy, precordial chest pain, abnormal crying, hematoma, leg pain, edema, periorbital edema, activated pain trauma, pallor, changed sensation temperature, weight decrease, weight increase, choking, mouth edema, syncope, malaise, face edema, substernal chest pain
 
-Cardiovascular Disorders: abnormal ECG, heart disorder, heart murmur, aggravated hypertension, hypotension, arrhythmia, extrasystoles, t wave inversion, tachycardia, supraventricular tachycardia, angina pectoris, myocardial infarction, pericarditis, pulmonary embolism, peripheral ischemia, superficial phlebitis, purpura, deep thrombophlebitis, vascular disorder, vasculitis, hypertension
+Cardiovascular Disorders:abnormal ECG, heart disorder, heart murmur, aggravated hypertension, hypotension, arrhythmia, extrasystoles, t wave inversion, tachycardia, supraventricular tachycardia, angina pectoris, myocardial infarction, pericarditis, pulmonary embolism, peripheral ischemia, superficial phlebitis, purpura, deep thrombophlebitis, vascular disorder, vasculitis, hypertension
 
-Digestive Disorders: appendicitis, increased appetite, ulcerative colitis, diverticulitis, duodenitis, dysphagia, enterocolitis, gastric ulcer, gastritis, gastroenteritis, gastrointestinal hemorrhage, gingivitis, glossitis, rectum hemorrhage, hemorrhoids, ileus, irritable bowel syndrome, melena, mucositis, esophageal stricture, esophagitis, oral hemorrhage, peptic ulcer, periodontal destruction, rectal disorder, stomatitis, tenesmus, tongue discoloration, tongue disorder, geographic tongue, tongue ulceration, dental caries
+Digestive Disorders:appendicitis, increased appetite, ulcerative colitis, diverticulitis, duodenitis, dysphagia, enterocolitis, gastric ulcer, gastritis, gastroenteritis, gastrointestinal hemorrhage, gingivitis, glossitis, rectum hemorrhage, hemorrhoids, ileus, irritable bowel syndrome, melena, mucositis, esophageal stricture, esophagitis, oral hemorrhage, peptic ulcer, periodontal destruction, rectal disorder, stomatitis, tenesmus, tongue discoloration, tongue disorder, geographic tongue, tongue ulceration, dental caries
 
-Endocrine Disorders: increased glucocorticoids, goiter, hypothyroidism
+Endocrine Disorders:increased glucocorticoids, goiter, hypothyroidism
 
-Hematologic Disorders: thrombocytopenic purpura, thrombocythemia, thrombocytopenia, hypochromic anemia, eosinophilia, granulocytopenia, leucopenia, leukocytosis, cervical lymphadenopathy, lymphadenopathy
+Hematologic Disorders:thrombocytopenic purpura, thrombocythemia, thrombocytopenia, hypochromic anemia, eosinophilia, granulocytopenia, leucopenia, leukocytosis, cervical lymphadenopathy, lymphadenopathy
 
-Liver and Biliary System Disorders: cholelithiasis, increased gamma-glutamyl transferase, increased hepatic enzymes, abnormal hepatic function, viral hepatitis, increased serum glutamate oxaloacetic transaminase (SGOT) (also called AST-aspartate aminotransferase), increased serum glutamate pyruvate transaminase (SGPT) (also called ALT-alanine aminotransferase)
+Liver and Biliary System Disorders:cholelithiasis, increased gamma-glutamyl transferase, increased hepatic enzymes, abnormal hepatic function, viral hepatitis, increased serum glutamate oxaloacetic transaminase (SGOT) (also called AST-aspartate aminotransferase), increased serum glutamate pyruvate transaminase (SGPT) (also called ALT-alanine aminotransferase)
 
 Metabolic and Nutritional Disorders: dehydration, diabetes mellitus, hypercalcemia, hypercholesterolemia, hyperglycemia, hyperlipemia, hypertriglyceridemia, hyperuricemia, hypoglycemia, hypokalemia, hyponatremia, thirst
 
-Musculoskeletal Disorders: arthritis, aggravated arthritis, arthropathy, femoral head avascular necrosis, bone disorder, bursitis, costochondritis, plantar fasciitis, muscle weakness, osteomyelitis, osteoporosis, synovitis, tendinitis, tenosynovitis
+Musculoskeletal Disorders:arthritis, aggravated arthritis, arthropathy, femoral head avascular necrosis, bone disorder, bursitis, costochondritis, plantar fasciitis, muscle weakness, osteomyelitis, osteoporosis, synovitis, tendinitis, tenosynovitis
 
 Neoplasms: basal cell carcinoma, squamous carcinoma
 
-Nervous Disorders: carpal tunnel syndrome, coma, abnormal coordination, dysesthesia, dyskinesia dysphonia, aggravated multiple sclerosis, involuntary muscle contractions, neuralgia, neuropathy, paresthesia, speech disorder, agitation, confusion, depersonalization, aggravated depression, abnormal dreaming, emotional lability, manic reaction, paroniria, somnolence, abnormal thinking, hyperkinesia, hallucination
+Nervous Disorders:carpal tunnel syndrome, coma, abnormal coordination, dysesthesia, dyskinesia dysphonia, aggravated multiple sclerosis, involuntary muscle contractions, neuralgia, neuropathy, paresthesia, speech disorder, agitation, confusion, depersonalization, aggravated depression, abnormal dreaming, emotional lability, manic reaction, paroniria, somnolence, abnormal thinking, hyperkinesia, hallucination
 
-Miscellaneous Disorders: fall, food poisoning, heat stroke, joint dislocation, post-operative hemorrhage
+Miscellaneous Disorders:fall, food poisoning, heat stroke, joint dislocation, post-operative hemorrhage
 
 Resistance Mechanism Disorders: cellulitis, herpes simplex, herpes zoster, bacterial infection, viral infection, genital moniliasis, sepsis
 
-Respiratory Disorders: asthma, bronchospasm, chronic obstructive airway disease, dyspnea, hemoptysis, laryngitis, nasal ulcer, pleural effusion, pleurisy, pulmonary congestion, pulmonary fibrosis, respiratory disorder
+Respiratory Disorders:asthma, bronchospasm, chronic obstructive airway disease, dyspnea, hemoptysis, laryngitis, nasal ulcer, pleural effusion, pleurisy, pulmonary congestion, pulmonary fibrosis, respiratory disorder
 
-Rheumatologic Disorders: aggravated rheumatoid arthritis, lupus erythematosus rash, lupus erythematosus syndrome
+Rheumatologic Disorders:aggravated rheumatoid arthritis, lupus erythematosus rash, lupus erythematosus syndrome
 
-Skin and Appendages Disorders: acne, alopecia, burn, dermatitis, contact dermatitis, lichenoid dermatitis, eczema, furunculosis, hyperkeratosis, lichen planus, nail discoloration, nail disorder, onychia, onychomycosis, paronychia, photosensitivity reaction, rosacea, scleroderma, seborrhea, skin discoloration, dry skin, skin exfoliation, skin hypertrophy, skin ulceration, urticaria, verruca, bullous eruption, cold clammy skin
+Skin and Appendages Disorders:acne, alopecia, burn, dermatitis, contact dermatitis, lichenoid dermatitis, eczema, furunculosis, hyperkeratosis, lichen planus, nail discoloration, nail disorder, onychia, onychomycosis, paronychia, photosensitivity reaction, rosacea, scleroderma, seborrhea, skin discoloration, dry skin, skin exfoliation, skin hypertrophy, skin ulceration, urticaria, verruca, bullous eruption, cold clammy skin
 
 Special Senses Disorders: deafness, decreased hearing, motion sickness, parosmia, taste perversion, blepharitis, cataract, corneal opacity, corneal ulceration, diplopia, glaucoma, anterior chamber eye hemorrhage, keratitis, keratoconjunctivitis, mydriasis, myopia, photopsia, retinal deposits, retinal disorder, scleritis, vitreous detachment, tinnitus
 
@@ -99,7 +99,6 @@ Additional adverse events (relationship unknown) which occurred in other clinica
 cholinergic syndrome, blood pressure fluctuation, cardiomegaly, postural hypotension, aphasia, convulsions, abnormal gait, hyperesthesia, paralysis, abnormal sexual function, enlarged abdomen, change in bowel habits, gum hyperplasia, intestinal obstruction, bundle branch block, increased creatine phosphokinase, electrolyte abnormality, glycosuria, gout, hyperkalemia, hyperproteinemia, increased lactic dehydrogenase (LDH), increased alkaline phosphatase, failure to thrive, abnormal platelets, aggressive reaction, amnesia, apathy, delirium, delusion, dementia, illusion, impotence, neurosis, paranoid reaction, personality disorder, hyperhemoglobinemia, apnea, atelectasis, yawning, oliguria, urinary retention, distended vein, lymphocytosis.
 
 The following adverse reaction has been identified during post-approval use of cevimeline capsules.
-Because post-marketing adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
-Because post-marketing adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
+Because post-marketing adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.Because post-marketing adverse reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Post-Marketing Adverse Events Liver and Biliary System Disorders: cholecystitis
+Post-Marketing Adverse Events Liver and Biliary System Disorders:cholecystitis

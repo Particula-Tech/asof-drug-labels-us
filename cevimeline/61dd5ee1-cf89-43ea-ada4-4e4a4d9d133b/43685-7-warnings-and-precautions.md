@@ -27,7 +27,7 @@ Cevimeline should be administered with caution to patients with a history of nep
 Contractions of the gallbladder or biliary smooth muscle could precipitate complications such as cholecystitis, cholangitis and biliary obstruction.
 An increase in the ureteral smooth muscle tone could theoretically precipitate renal colic or ureteral reflux in patients with nephrolithiasis.
 
-Information for Patients: Patients should be informed that cevimeline may cause visual disturbances, especially at night, that could impair their ability to drive safely.
+Information for Patients:Patients should be informed that cevimeline may cause visual disturbances, especially at night, that could impair their ability to drive safely.
 
 If a patient sweats excessively while taking cevimeline, dehydration may develop.
 The patient should drink extra water and consult a health care provider.
@@ -40,7 +40,7 @@ Cevimeline might interfere with desirable antimuscarinic effects of drugs used c
 
 Drugs which inhibit CYP2D6 and CYP3A3/4 also inhibit the metabolism of cevimeline.
 Cevimeline should be used with caution in individuals known or suspected to be deficient in CYP2D6 activity, based on previous experience, as they may be at a higher risk of adverse events.
-In an in vitro study, cytochrome P450 isozymes 1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4 were not inhibited by exposure to cevimeline.
+In an in vitrostudy, cytochrome P450 isozymes 1A2, 2A6, 2C9, 2C19, 2D6, 2E1, and 3A4 were not inhibited by exposure to cevimeline.
 
 Carcinogenesis, Mutagenesis and Impairment of Fertility:
 
@@ -48,7 +48,7 @@ Lifetime carcinogenicity studies were conducted in CD-1 mice and F-344 rats.
 A statistically significant increase in the incidence of adenocarcinomas of the uterus was observed in female rats that received cevimeline at a dosage of 100 mg/kg/day (approximately 8 times the maximum human exposure based on comparison of AUC data).
 No other significant differences in tumor incidence were observed in either mice or rats.
 
-Cevimeline exhibited no evidence of mutagenicity or clastogenicity in a battery of assays that included an Ames test, an in vitro chromosomal aberration study in mammalian cells, a mouse lymphoma study in L5178Y cells, or a micronucleus assay conducted in vivo in ICR mice.
+Cevimeline exhibited no evidence of mutagenicity or clastogenicity in a battery of assays that included an Ames test, an in vitro chromosomal aberration study in mammalian cells, a mouse lymphoma study in L5178Y cells, or a micronucleus assay conducted in vivoin ICR mice.
 
 Cevimeline did not adversely affect the reproductive performance or fertility of male Sprague-Dawley rats when administered for 63 days prior to mating and throughout the period of mating at dosages up to 45 mg/kg/day (approximately 5 times the maximum recommended dose for a 60 kg human following normalization of the data on the basis of body surface area estimates).
 Females that were treated with cevimeline at dosages up to 45 mg/kg/day from 14 days prior to mating through day seven of gestation exhibited a statistically significantly smaller number of implantations than did control animals.
