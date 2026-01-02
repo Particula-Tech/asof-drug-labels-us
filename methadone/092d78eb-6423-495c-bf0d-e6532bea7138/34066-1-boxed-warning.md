@@ -11,10 +11,12 @@ To reduce the risk of respiratory depression, proper dosing and titration of Met
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life-threatening if not recognized and treated.
-Ensure that management by neonatology experts will be available at delivery (see WARNINGS).
+Neonatal opioid withdrawal syndrome (NOWS) is an expected and treatable outcome of use of Methadone Hydrochloride Injection during pregnancy.
+NOWS may be life-threatening if not recognized and treated in the neonate.
+The balance between the risks of NOWS and the benefits of maternal Methadone Hydrochloride Injection use may differ based on the risks associated with the mother’s underlying condition, pain, or addiction.
+Advise the patient of the risk of NOWS so that appropriate planning for management of the neonate can occur (see WARNINGS).
 
-Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
+Managing Risks From Concomitant Use With Benzodiazepines Or Other CNS Depressants
 
 Concomitant use of opioids with benzodiazepines or other central nervous system (CNS) depressants, including alcohol, may result in profound sedation, respiratory depression, coma, and death.
 Reserve concomitant prescribing of Methadone Hydrochloride Injection and benzodiazepines or other CNS depressants for use in patients for whom alternative treatment options are inadequate (see WARNINGS, PRECAUTIONS).

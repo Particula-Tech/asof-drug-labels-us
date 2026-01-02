@@ -13,9 +13,13 @@ Consider the following important factors that differentiate methadone from other
 - •Steady-state plasma concentrations are not attained until 3 to 5 days after initiation of dosing.
 - •Methadone has a narrow therapeutic index, especially when combined with other drugs.
 
+It is safer to underestimate a patient’s 24-hour methadone dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour methadone dosage and manage an adverse reaction due to an overdose.
+While useful tables of opioid equivalents are readily available, there is substantial inter-patient variability in the relative potency of different opioid drugs and products.
+Frequently reevaluate patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to methadone.
+
 ## Methadone Hydrochloride Injection for Management of Pain
 
-Methadone Hydrochloride Injection should be prescribed only by healthcare professionals who are knowledgeable in the use of potent opioids for the management of chronic pain.
+Methadone Hydrochloride Injection should be prescribed only by healthcare professionals who are knowledgeable about the use of extended-release/long-acting opioids and how to mitigate the associated risks.
 
 Consider the following important factors that differentiate methadone from other opioid analgesics:
 
@@ -24,8 +28,6 @@ Consider the following important factors that differentiate methadone from other
 - •The duration of analgesic action of methadone is 4 to 8 hours (based on single-dose studies) but the plasma elimination half-life is 8 to 59 hours.
 - •With repeated dosing, the potency of methadone increases due to systemic accumulation.
 - •Steady-state plasma concentrations, and full analgesic effects, are not attained until at least 3 to 5 days on a dose and may take longer in some patients.
-
-Methadone Hydrochloride Injection should be prescribed only by healthcare professionals who are knowledgeable about the use of extended-release/long-acting opioids and how to mitigate the associated risks.
 
 Use the lowest effective dosage for the shortest duration of time consistent with individual patient treatment goals (see WARNINGS).
 Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of Methadone Hydrochloride Injection for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
@@ -41,25 +43,24 @@ Local tissue reactions may occur.
 
 Parenteral products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 
-### Initiation of Therapy in Opioid Non-Tolerant Patients
+### Use of Parenteral Methadone in Patients who are not Opioid Tolerant
 
-When parenteral methadone is used as the first analgesic in patients who are not already being treated with, and tolerant to, opioids, the usual intravenous methadone starting dose is 2.5 mg to 10 mg every 8 to 12 hours, slowly titrated to effect.
+When parenteral methadone is used in patients who are not tolerant to opioids, the usual intravenous methadone starting dose is 2.5 mg to 10 mg every 8 to 12 hours, slowly titrated to effect.
 More frequent administration may be required during methadone initiation in order to maintain adequate analgesia, and extreme caution is necessary to avoid overdosage, taking into account methadone's long elimination half-life.
 
 ### Conversion from Oral Methadone to Parenteral Methadone
 
 Conversion from oral methadone to parenteral methadone should initially use a 2:1 dose ratio (e.g., 10 mg oral methadone to 5 mg parenteral methadone).
 
-### Switching Patients to Parenteral Methadone from Other Chronic Opioids
+### Conversion from other Opioid Analgesics to Parenteral Methadone
 
-Switching a patient from another chronically administered opioid to methadone requires caution due to the uncertainty of dose conversion ratios and incomplete cross-tolerance.
+Switching a patient from another opioid analgesic to methadone requires caution due to the uncertainty of dose conversion ratios and incomplete cross-tolerance.
 Deaths have occurred in opioid tolerant patients during conversion to methadone.
 
 The potency of methadone relative to other opioid analgesics is nonlinear and increases with increasing dose.
 Table 1 provides an estimated conversion factor for use when converting patients from another opioid to methadone.
 Because of the high inter-patient variability in absorption, metabolism, and relative potency, it is critical to avoid overestimating the methadone dose which can lead to fatal respiratory depression.
-It is safer to underestimate a patient’s 24-hour methadone dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour methadone dosage and manage an adverse reaction due to an overdose.
-The dose conversion scheme below is derived from various consensus guidelines for converting chronic pain patients to methadone from morphine.
+The dose conversion scheme below is derived from various consensus guidelines for converting patients to methadone from morphine.
 The guidelines used to construct this table, however, were all designed for converting patients from oral morphine to oral methadone.
 The third column assumes a 2:1 ratio for converting from oral to intravenous methadone.
 Clinicians should consult published conversion guidelines to determine the equivalent morphine dose for patients converting from other opioids.
@@ -72,7 +73,7 @@ Consider the following when using the information in Table 1:
   Doing so will result in an overestimation of the dose of the new opioid and may result in fatal overdose.
 
 Table 1.
-Oral Morphine to Intravenous Methadone Conversion for Chronic Administration
+Oral Morphine to Intravenous Methadone Conversion
 
 | Total Daily Baseline Oral Morphine Dose | Estimated Daily Oral Methadone Requirement as Percent of Total Daily Morphine Dose | Estimated Daily Intravenous Methadone as Percent of Total Daily Oral Morphine DoseThe total daily methadone dose derived from the table above may then be divided to reflect the intended dosing schedule (i.e., for administration every 8 hours, divide total daily methadone dose by 3). |
 | --- | --- | --- |
@@ -83,7 +84,7 @@ Oral Morphine to Intravenous Methadone Conversion for Chronic Administration
 | Greater than 1000 mg | Less than 5% | Less than 3% |
 
 Table 2.
-Parenteral Morphine to Intravenous Methadone Conversion for Chronic Administration (Derived from Table 1, Assuming a 3:1 Oral:Parenteral Morphine Ratio)
+Parenteral Morphine to Intravenous Methadone Conversion (Derived from Table 1, Assuming a 3:1 Oral:Parenteral Morphine Ratio)
 
 | Total Daily Baseline Parenteral Morphine Dose | Estimated Daily Parenteral Methadone Requirement as Percent of Total Daily Morphine DoseThe total daily methadone dose derived from the table above may then be divided to reflect the intended dosing schedule (i.e., for administration every 8 hours, divide total daily methadone dose by 3). |
 | --- | --- |

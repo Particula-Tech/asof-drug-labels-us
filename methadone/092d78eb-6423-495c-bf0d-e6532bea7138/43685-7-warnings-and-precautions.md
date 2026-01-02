@@ -7,6 +7,8 @@ As an opioid, Methadone Hydrochloride Injection exposes users to the risks of ad
 
 Although the risk of addiction in any individual is unknown, it can occur in patients appropriately prescribed Methadone Hydrochloride Injection.
 Addiction can occur at recommended doses and if the drug is misused or abused.
+The risk of opioid-related overdose or overdose-related death is increased with higher opioid doses, and this risk persists over the course of therapy.
+In postmarketing studies, addiction, abuse, misuse, and fatal and non-fatal opioid overdose were observed in patients with long-term opioid use (see ADVERSE REACTIONS; Postmarketing Experience).
 
 Assess each patient’s risk for opioid addiction, abuse, or misuse prior to prescribing Methadone Hydrochloride Injection, and reassess all patients receiving Methadone Hydrochloride Injection for the development of these behaviors and conditions.
 Risks are increased in patients with a personal or family history of substance abuse (including drug or alcohol addiction or abuse) or mental illness (e.g., major depression).
@@ -21,7 +23,7 @@ Contact local state professional licensing board or state-controlled substances 
 
 Serious, life-threatening, or fatal respiratory depression has been reported with the use of opioids, even when used as recommended.
 Respiratory depression, if not immediately recognized and treated, may lead to respiratory depression and death.
-Management of respiratory depression may include close observation, supportive measures, and use of opioid antagonists, depending on the patient’s clinical status.
+Management of respiratory depression may include close observation, supportive measures, and use of opioid overdose reversal agents (e.g., naloxone, nalmefene), depending on the patient’s clinical status.
 Carbon dioxide (CO2) retention from opioid-induced respiratory depression can exacerbate the sedating effects of opioids.
 
 While serious, life-threatening, or fatal respiratory depression can occur at any time during the use of Methadone Hydrochloride Injection, the risk is greatest during the initiation of therapy or following a dosage increase.
@@ -58,9 +60,9 @@ Only initiate methadone hydrochloride tablets therapy for pain in patients for w
 
 The use of methadone in patients already known to have a prolonged QT interval has not been systematically studied.
 
-## Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
+## Managing Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Methadone Hydrochloride Injection with benzodiazepines or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids).
+Profound sedation, respiratory depression, coma, and death may result from the concomitant use of Methadone Hydrochloride Injection with benzodiazepines and/or other CNS depressants (e.g., alcohol, non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids).
 Because of these risks, reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate.
 
 Observational studies have demonstrated that concomitant use of opioid analgesics and benzodiazepines increases the risk of drug-related mortality compared to use of opioid analgesics alone.
@@ -143,13 +145,17 @@ Opioids may also obscure the clinical course in a patient with a head injury.
 
 Avoid the use of Methadone Hydrochloride Injection in patients with impaired consciousness or coma.
 
-## Risks of Use in Patients with Gastrointestinal Conditions
+## Risks of Gastrointestinal Complications
 
 Methadone Hydrochloride Injection is contraindicated in patients with known or suspected gastrointestinal obstruction, including paralytic ileus.
 
 The methadone in Methadone Hydrochloride Injection may cause spasm of the sphincter of Oddi.
 Opioids may cause increases in the serum amylase.
-Monitor patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+Regularly evaluate patients with biliary tract disease, including acute pancreatitis, for worsening symptoms.
+
+Cases of opioid-induced esophageal dysfunction (OIED) have been reported in patients taking opioids.
+The risk of OIED may increase as the dose and/or duration of opioids increases.
+Regularly evaluate patients for signs and symptoms of OIED (e.g., dysphagia, regurgitation, non-cardiac chest pain) and, if necessary, adjust opioid therapy as clinically appropriate (see CLINICAL PHARMACOLOGY: Pharmacodynamics).
 
 ## Increased Risk of Seizures in Patients with Seizure Disorders
 
@@ -162,7 +168,7 @@ Avoid the use of mixed agonist/antagonist (i.e., pentazocine, nalbuphine, and bu
 In these patients, mixed agonists/antagonist and partial agonist analgesics may reduce the analgesic effect and/or may precipitate withdrawal symptoms (see PRECAUTIONS: Drug Interactions).
 
 When discontinuing Methadone Hydrochloride Injection, gradually taper the dosage (see DOSAGE AND ADMINISTRATION).
-Do not abruptly discontinue Methadone Hydrochloride Injection (see DRUG ABUSE AND DEPENDENCE).
+Do not rapidly reduce or abruptly discontinue Methadone Hydrochloride Injection in patients who may be physically dependent on opioids (see DRUG ABUSE AND DEPENDENCE).
 
 ## Risks Driving and Operating Machinery
 
@@ -203,7 +209,7 @@ Instruct patients to seek medical attention immediately if they experience sympt
 
 ### Interactions with Benzodiazepines and Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if Methadone Hydrochloride Injection are used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a health care provider (see WARNINGS, PRECAUTIONS: Drug Interactions).
+Inform patients and caregivers that potentially fatal additive effects may occur if Methadone Hydrochloride Injection are used with benzodiazepines or other CNS depressants (e.g., alcohol, non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these concomitantly unless supervised by a health care provider (see WARNINGS, PRECAUTIONS: Drug Interactions).
 
 ### Hyperalgesia and Allodynia
 
@@ -255,7 +261,7 @@ If they cannot reach the healthcare provider right away, instruct them to take t
 
 ### Infertility
 
-Advise patients that chronic use of opioids, such as Methadone Hydrochloride Injection, may cause reduced fertility.
+Advise patients that use of opioids, such as Methadone Hydrochloride Injection, for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible (see PRECAUTIONS: Females and Males of Reproductive Potential).
 
 ### Driving or Operating Heavy Machinery
@@ -274,6 +280,8 @@ Instruct patients how to recognize the symptoms of low blood glucose and to cont
 
 ## Drug Interactions
 
+Table 1: Clinically Significant Drug Interactions with Methadone Hydrochloride Injection
+
 | Inhibitors of CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 |  |
 | --- | --- |
 | Clinical Impact: | Methadone undergoes hepatic N-demethylation by several cytochrome P450 (CYP) isoforms, including CYP3A4, CYP2B6, CYP2C19, CYP2C9, and CYP2D6. The concomitant use of Methadone Hydrochloride Injection and CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitors can increase the plasma concentration of methadone, resulting in increased or prolonged opioid effects, and may result in a fatal overdose, particularly when an inhibitor is added after a stable dose of Methadone Hydrochloride Injection is achieved. These effects may be more pronounced with concomitant use of drugs that inhibit more than one of the CYP enzymes listed above. After stopping a CYP3A4, CYP2B6, CYP2C19, CYP2C9, or CYP2D6 inhibitor, as the effects of the inhibitor decline, the methadone plasma concentration can decrease (see CLINICAL PHARMACOLOGY), resulting in decreased opioid efficacy or withdrawal symptoms in patients physically dependent on methadone. |
@@ -284,9 +292,9 @@ Instruct patients how to recognize the symptoms of low blood glucose and to cont
 | Intervention: | If concomitant use is necessary, consider increasing the Methadone Hydrochloride Injection dosage until stable drug effects are achieved. Monitor for signs of opioid withdrawal. If a CYP3A4, CYP2B6, CYP2C19, or CYP2C9 inducer is discontinued, consider Methadone Hydrochloride Injection dosage reduction and monitor for signs of respiratory depression and sedation. |
 | Examples: | Rifampin, carbamazepine, phenytoin, St. John’s Wort, Phenobarbital |
 | Benzodiazepines and other Central Nervous System (CNS) Depressants |  |
-| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants including alcohol, increases the risk of respiratory depression, profound sedation, coma, and death. |
-| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Follow patients closely for signs of respiratory depression and sedation (see WARNINGS, PRECAUTIONS). |
-| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, other opioids, alcohol. |
+| Clinical Impact: | Due to additive pharmacologic effect, the concomitant use of benzodiazepines or other CNS depressants, including alcohol, can increase the risk of hypotension, respiratory depression, profound sedation, coma, and death (see WARNINGS). |
+| Intervention: | Reserve concomitant prescribing of these drugs for use in patients for whom alternative treatment options are inadequate. Limit dosages and durations to the minimum required. Monitor patients closely for signs of respiratory depression and sedation (see WARNINGS, PRECAUTIONS). |
+| Examples: | Benzodiazepines and other sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids (gabapentin or pregabalin), other opioids, alcohol. |
 | Potentially Arrhythmogenic Agents |  |
 | Clinical Impact: | Pharmacodynamic interactions may occur with concomitant use of methadone and potentially arrhythmogenic agents or drugs capable of inducing electrolyte disturbances (hypomagnesemia, hypokalemia). |
 | Intervention: | Monitor patients closely for cardiac conduction changes. |
@@ -305,6 +313,7 @@ Instruct patients how to recognize the symptoms of low blood glucose and to cont
 | Muscle Relaxants |  |
 | Clinical Impact: | Methadone may enhance the neuromuscular blocking action of skeletal muscle relaxants and produce an increased degree of respiratory depression. |
 | Intervention: | Monitor patients for signs of respiratory depression that may be greater than otherwise expected and decrease the dosage of Methadone Hydrochloride Injection and/or the muscle relaxant as necessary. |
+| Examples: | cyclobenzaprine, metaxalone |
 | Diuretics |  |
 | Clinical Impact: | Opioids can reduce the efficacy of diuretics by inducing the release of antidiuretic hormone. |
 | Intervention: | Monitor patients for signs of diminished diuresis and/or effects on blood pressure and increase the dosage of the diuretic as needed. |
