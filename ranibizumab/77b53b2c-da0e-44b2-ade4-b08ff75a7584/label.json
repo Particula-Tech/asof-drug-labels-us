@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761202"
+  ],
+  "inn": "ranibizumab",
+  "labeler": "Harrow Eye, LLC",
+  "package_ndcs": [
+    "82667-018-05"
+  ],
+  "products": [
+    {
+      "form": "INJECTION, SOLUTION",
+      "generic": "ranibizumab-nuna",
+      "name": "Byooviz"
+    }
+  ],
+  "setid": "77b53b2c-da0e-44b2-ade4-b08ff75a7584",
+  "source": "dailymed"
+}
