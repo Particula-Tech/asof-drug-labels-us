@@ -10,7 +10,7 @@ Blood pressure should be closely monitored when amlodipine is co-administered wi
 
 Sildenafil
 
-Monitor for hypotension when sildenafil is co-administered with amlodipine [see Clinical Pharmacology (12.2)].
+Monitor for hypotension when sildenafil is co-administered with amlodipine [see Clinical Pharmacology(12.2)].
 
 ## 7.2 Impact of Amlodipine on Other Drugs
 
