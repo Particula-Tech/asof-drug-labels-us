@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "NDA021530"
+  ],
+  "inn": "meloxicam",
+  "labeler": "Redmont Pharmaceuticals, LLC",
+  "package_ndcs": [
+    "71741-228-10"
+  ],
+  "products": [
+    {
+      "form": "SUSPENSION",
+      "generic": "meloxicam",
+      "name": "Zybic"
+    }
+  ],
+  "setid": "a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec",
+  "source": "dailymed"
+}
