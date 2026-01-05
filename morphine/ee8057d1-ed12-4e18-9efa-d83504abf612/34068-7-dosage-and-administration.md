@@ -73,11 +73,11 @@ Recommended maintenance dosage for patients 1 to less than 17 years old is as fo
 
 The maintenance dosage in pediatric patients should be adjusted based on individual patient's needs to obtain an appropriate balance between effective pain management and opioid-related adverse reactions.
 
-## 2.4 Discontinuation of Morphine Sulfate Injection
+## 2.4 Safe Reduction and Discontinuation of Morphine Sulfate Injection
 
 When a patient who has been taking Morphine Sulfate Injection regularly and may be physically dependent no longer requires therapy with Morphine Sulfate Injection, taper the dose gradually, by 25% to 50% every 2 to 4 days, while monitoring carefully for signs and symptoms of withdrawal.
 If the patient develops these signs or symptoms, raise the dose to the previous level and taper more slowly, either by increasing the interval between decreases, decreasing the amount of change in dose, or both.
-Do not abruptly discontinue Morphine Sulfate Injection in a physically-dependent patient [see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].
+Do not rapidly reduce or abruptly discontinue Morphine Sulfate Injection in patients who may be physically dependent on opioids [see Warnings and Precautions (5.14), Drug Abuse and Dependence (9.3)].
 
 ## 2.5 Preparation of Solutions for Infusion
 

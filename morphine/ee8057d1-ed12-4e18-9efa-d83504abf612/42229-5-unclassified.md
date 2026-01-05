@@ -2,4 +2,4 @@ For Medical Information about Morphine Sulfate Injection, please visit www.pfize
 
 Distributed by Hospira, Inc., Lake Forest, IL 60045 USA
 
-LAB-1306-3.0
+LAB-1306-4.0
