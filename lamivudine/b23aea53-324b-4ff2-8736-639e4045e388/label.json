@@ -1,0 +1,20 @@
+{
+  "application_numbers": [
+    "ANDA203564"
+  ],
+  "inn": "lamivudine",
+  "labeler": "Chartwell Govermental & Specialty RX, LLC.",
+  "package_ndcs": [
+    "68999-706-24",
+    "68999-706-30"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "lamivudine oral",
+      "name": "lamivudine"
+    }
+  ],
+  "setid": "b23aea53-324b-4ff2-8736-639e4045e388",
+  "source": "dailymed"
+}
