@@ -7,7 +7,7 @@ Proper dosing and titration are essential and DISKETS Dispersible Tablets should
 Monitor for respiratory depression, especially during initiation of DISKETS Dispersible Tablets or following a dose increase.
 The peak respiratory depressant effect of methadone occurs later, and persists longer than the peak pharmacologic effect, especially during the initial dosing period.
 
-Risks From Concomitant Use With Benzodiazepines or Other CNS Depressants
+Managing Risks From Concomitant Use With Benzodiazepines or Other CNS Depressants
 
 Concomitant use with benzodiazepines or other central nervous system (CNS) depressants,
 

@@ -113,7 +113,7 @@ Methadone has been detected in very low plasma concentrations in some infants wh
 Infertility
 
 The effect of DISKETS on fertility is unknown.
-Chronic use of opioids may cause reduced fertility in females and males of reproductive potential.
+Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
 It is not known whether these effects on fertility are reversible [see Adverse Reactions (6), Clinical Pharmacology (12.2), Nonclinical Pharmacology (13.1)].
 Reproductive function in human males may be decreased by methadone treatment.
 Reductions in ejaculate volume and seminal vesicle and prostate secretions have been reported in methadone-treated individuals.
