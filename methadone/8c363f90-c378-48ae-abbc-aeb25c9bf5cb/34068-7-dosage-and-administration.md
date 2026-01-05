@@ -40,7 +40,7 @@ For Patients Being Treated for Opioid Addiction
 1. Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider recommending or prescribing an overdose reversal agent for the emergency treatment of opioid overdose, both when initiating and renewing treatment with Methadone Hydrochloride Oral Solution.
    Advise patients and caregivers that an opioid overdose reversal agent, such as naloxone or nalmefene may also be administered for a known or suspected overdose with Methadone Hydrochloride Oral Solution itself [see Overdosage (10)].
 
-For patients being treated with methadone (regardless of indication), also consider prescribing or recommending such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+For patients being treated with methadone (regardless of indication), also consider recommending or prescribing such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
 
 Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.4)].
 
