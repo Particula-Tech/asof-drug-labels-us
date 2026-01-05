@@ -23,7 +23,7 @@ The most common adverse reactions (>10% of patients treated with Zanaflex) repor
 Three-quarters of the patients rated the reactions as mild to moderate and one-quarter of the patients rated the reactions as being severe.
 These adverse reactions appeared to be dose related.
 
-Table 1 lists adverse reactions that were reported in greater than 2% of patients in three multiple dose, placebo-controlled studies who received Zanaflex where the frequency in the Zanaflex group was greater than the placebo group.
+Table 1lists adverse reactions that were reported in greater than 2% of patients in three multiple dose, placebo-controlled studies who received Zanaflex where the frequency in the Zanaflex group was greater than the placebo group.
 
 Table 1: Multiple Dose, Placebo-Controlled Studies-Adverse Reactions Reported in >2% of Patients Treated with Zanaflex Tablets and Incidence Greater than Placebo
 
@@ -31,7 +31,7 @@ Table 1: Multiple Dose, Placebo-Controlled Studies-Adverse Reactions Reported in
 | --- | --- | --- |
 | Dry mouth | 10 | 49 |
 | Somnolence | 10 | 48 |
-| Astheniaincludes weakness, fatigue, and/or tiredness | 16 | 41 |
+| Asthenia includes weakness, fatigue, and/or tiredness | 16 | 41 |
 | Dizziness | 4 | 16 |
 | UTI | 7 | 10 |
 | Infection | 5 | 6 |
@@ -58,7 +58,7 @@ Table 2: Single Dose, Placebo-Controlled Study-Common Adverse Reactions Reported
 | --- | --- | --- | --- |
 | Somnolence | 31 | 78 | 92 |
 | Dry mouth | 35 | 76 | 88 |
-| Astheniaincludes weakness, fatigue, and/or tiredness | 40 | 67 | 78 |
+| Asthenia includes weakness, fatigue, and/or tiredness | 40 | 67 | 78 |
 | Dizziness | 4 | 22 | 45 |
 | Hypotension | 0 | 16 | 33 |
 | Bradycardia | 0 | 2 | 10 |

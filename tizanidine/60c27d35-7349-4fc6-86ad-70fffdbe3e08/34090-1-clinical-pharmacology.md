@@ -30,27 +30,27 @@ Pharmacokinetics under fed conditions were different than under fasting conditio
 
 Tablets or Capsules - Fasting
 
-- Tmax was 1.0 hours after dosing
-- T1/2 was approximately 2 hours.
+- T maxwas 1.0 hours after dosing
+- T 1/2was approximately 2 hours.
 
 Tablets - Fed
 
-- Mean Cmax was increased by approximately 30%
-- Median Tmax was increased by 25 minutes, to 1 hour and 25 minutes.
+- Mean C maxwas increased by approximately 30%
+- Median T maxwas increased by 25 minutes, to 1 hour and 25 minutes.
 - Extent of absorption was increased approximately 30%
 
 Capsules - Fed
 
-- Mean Cmax was decreased by 20% (consequently, approximately 66% the Cmax for the tablet when administered with food)
-- Median Tmax was increased 2 to 3 hours
+- Mean C maxwas decreased by 20% (consequently, approximately 66% the Cmax for the tablet when administered with food)
+- Median T maxwas increased 2 to 3 hours
 - Extent of absorption was increased approximately 10% (consequently, approximately 80% of the amount absorbed from the tablet administered with food)
 
 Capsule Content Sprinkled on Applesauce
 
 Compared to administration of an intact capsule while fasting:
 
-- Cmax and AUC was increased 15%–20%
-- Tmax was decreased 15 minutes
+- C maxand AUC was increased 15%–20%
+- T maxwas decreased 15 minutes
 
 Figure 1: Mean Tizanidine Concentration vs. Time Profiles For Zanaflex Tablets and Capsules (2 × 4 mg) Under Fasted and Fed Conditions
 
@@ -99,7 +99,7 @@ CYP1A2 Inhibitors
 
 The effects of coadministration of fluvoxamine or ciprofloxacin, both strong CYP1A2 inhibitors, on the pharmacokinetics of a single 4 mg dose of Zanaflex was studied in 10 healthy subjects.
 The Cmax, AUC, and half-life of tizanidine increased by 12-fold, 33-fold, and 3-fold, respectively, with coadministration of fluvoxamine.
-The Cmax and AUC of tizanidine increased by 7-fold and 10-fold, respectively, with coadministration of ciprofloxacin [see Contraindications (4)].
+The C maxand AUC of tizanidine increased by 7-fold and 10-fold, respectively, with coadministration of ciprofloxacin [see Contraindications (4)].
 
 There have been no clinical studies evaluating the effects of other CYP1A2 inhibitors on tizanidine [see Drug Interactions (7.2)].
 
@@ -112,9 +112,9 @@ Retrospective analysis of population pharmacokinetic data following single and m
 
 Acetaminophen
 
-Tizanidine delayed the Tmax of acetaminophen by 16 minutes.
+Tizanidine delayed the T maxof acetaminophen by 16 minutes.
 Acetaminophen did not affect the pharmacokinetics of tizanidine.
 
 Alcohol
 
-Alcohol increased the AUC and Cmax of tizanidine by approximately 20% and 15%, respectively [see Drug Interactions (7.4)].
+Alcohol increased the AUC and C maxof tizanidine by approximately 20% and 15%, respectively [see Drug Interactions (7.4)].

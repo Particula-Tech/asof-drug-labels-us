@@ -23,7 +23,7 @@ This was associated with an increase in adverse reactions of Zanaflex.
 Concomitant use of Zanaflex with CNS depressants (e.g., alcohol, benzodiazepines, opioids, tricyclic antidepressants) may cause additive CNS depressant effects, including sedation.
 Monitor patients who take Zanaflex with another CNS depressant for symptoms of excess sedation [see Clinical Pharmacology (12.3)].
 
-## 7.5 α2-Adrenergic Agonists
+## 7.5 α 2-Adrenergic Agonists
 
 Concomitant use of Zanaflex with other α2-adrenergic agonists is not recommended because hypotensive effects may be cumulative [see Warnings and Precautions (5.1)].
 

@@ -26,7 +26,7 @@ Hypersensitivity Reactions
 
 Inform patients of the signs and symptoms of severe allergic reactions and instruct them to discontinue Zanaflex and seek immediate medical care should these signs and symptoms occur [see Warnings and Precautions (5.5)].
 
-Zanaflex® capsules is a registered trademark of Legacy Pharma Inc. Zanaflex® tablets is a registered trademark of Legacy Pharma Inc.
+Zanaflex ®capsules is a registered trademark of Legacy Pharma Inc. Zanaflex ®tablets is a registered trademark of Legacy Pharma Inc.
 
 Manufactured for:
 
