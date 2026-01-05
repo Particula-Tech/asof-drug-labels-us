@@ -49,8 +49,6 @@ The recommendations on management of ARIA do not differ between ApoE ε4 carrier
 Testing for ApoE ε4 status should be performed prior to initiation of treatment to inform the risk of developing ARIA.
 Prior to testing, prescribers should discuss with patients the risk of ARIA across genotypes and the implications of genetic testing results.
 Prescribers should inform patients that if genotype testing is not performed they can still be treated with LEQEMBI; however, it cannot be determined if they are ApoE ε4 homozygotes and at higher risk for ARIA.
-An FDA-authorized test for the detection of ApoE ε4 alleles to identify patients at risk of ARIA if treated with LEQEMBI is not currently available.
-Currently available tests used to identify ApoE ε4 alleles may vary in accuracy and design.
 
 Radiographic Findings of Cerebral Amyloid Angiopathy (CAA)
 
