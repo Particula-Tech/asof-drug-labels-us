@@ -96,3 +96,5 @@ Insufficient dosing: Cases of drug withdrawal reactions consistent with insuffic
 
 Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opiods.
 Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
+
+Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids, and may occur more frequently in patients taking higher doses of opioids, and/or in patients taking opioids longer term.

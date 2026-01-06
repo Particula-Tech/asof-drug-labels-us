@@ -43,7 +43,7 @@ Overall, supplemental 8 mg injections were given to 14 patients (6.6%) in the BR
 Table 8 shows the doses of BRIXADI (weekly) administered following the initial titration period and at the final visit before transition to BRIXADI (monthly) was allowed.
 Table 9 shows the first and final BRIXADI (monthly) dose administered to each patient.
 
-Table 8: Number of patients receiving each BRIXADI (weekly) dose at selected time points
+Table 9: Number of patients receiving each BRIXADI (weekly) dose at selected time points
 
 | BRIXADI (weekly) Dose | Following Titration Period | End of Weekly Phase |
 | --- | --- | --- |
@@ -51,7 +51,7 @@ Table 8: Number of patients receiving each BRIXADI (weekly) dose at selected tim
 | 24 mg | 128 | 84 |
 | 32 mg | 54 | 64 |
 
-Table 9: Number of patients receiving each BRIXADI (monthly) dose at selected time points
+Table 10: Number of patients receiving each BRIXADI (monthly) dose at selected time points
 
 | BRIXADI (monthly) Dose | First BRIXADI (monthly) dose | Final BRIXADI (monthly) dose |
 | --- | --- | --- |
@@ -68,9 +68,9 @@ Missing urine drug screen samples and/or self-reports were counted as positive f
 
 A total of 428 patients were randomized equally (215 patients in the SL BPN/NX group and 213 in the BRIXADI group).
 Of the randomized patients, 69.0% (147/213) of the patients in BRIXADI treatment group and 72.6% (156/215) of the patients in the SL BPN/NX treatment group completed the 24-week period.
-Patient demographics and baseline characteristics are provided in Table 10.
+Patient demographics and baseline characteristics are provided in Table 11.
 
-Table 10: Patient Demographics and Baseline Characteristics
+Table 11: Patient Demographics and Baseline Characteristics
 
 |  | BRIXADI (N=213) | SL BPN/NX (N=215) |
 | --- | --- | --- |
@@ -102,7 +102,7 @@ Table 10: Patient Demographics and Baseline Characteristics
 | Back Pain | 15.5 | 18.6 |
 | Depression | 11.7 | 13.0 |
 
-Table 11 below illustrates the proportion of patients who were considered to be responders.
+Table 12 below illustrates the proportion of patients who were considered to be responders.
 A patient was a responder if they met all of the following criteria:
 
 - Negative opioid assessment (urinalysis and self-report) during week 12 (evaluated during week 13 visit).
@@ -114,15 +114,15 @@ This responder definition was designed to identify patients who were successfull
 Therefore, patients were required to have negative opioid assessments at the end of each treatment phase.
 Each phase also included an allowable grace period (an initial period of time when positive opioid assessments were not taken into account) and the definition also allowed for sporadic positive assessments.
 Based on the results of this trial, the efficacy of BRIXADI was demonstrated.
-Table 11 shows the response rate for each treatment arm along with the associated 95% confidence interval for their difference.
+Table 12 shows the response rate for each treatment arm along with the associated 95% confidence interval for their difference.
 
-Table 11: Number (Percentage) of Patients who met the Responder Definition
+Table 12: Number (Percentage) of Patients who met the Responder Definition
 
 | BRIXADI Injection with placebo sublingual tablets (N=213) | SL BPN/NX Tablets with Placebo Injections (N=215) | Treatment Difference (95% CI) |
 | --- | --- | --- |
 | 36 (16.9%) | 30 (14.0%) | 2.9% (-3.9%, 9.8%)The lower bound of the confidence interval was within the agreed upon noninferiority threshold of −10%. |
 
-The cumulative distribution function (CDF) of the percentage of negative opioid assessments (urine samples negative for illicit opioid use combined with self-reports negative for illicit opioid use) from Week 4 through Week 24 are shown in Figure 17 and Table 12.
+The cumulative distribution function (CDF) of the percentage of negative opioid assessments (urine samples negative for illicit opioid use combined with self-reports negative for illicit opioid use) from Week 4 through Week 24 are shown in Figure 17 and Table 13.
 The figure and table are cumulative, so that a patient whose percentage of opioid-free assessments is, for example 50%, is also included at every level of negative opioid assessments below 50%.
 Missing values and values after premature discontinuation were considered positive.
 Based on the CDF of the percentage of negative opioid assessments, superiority was demonstrated with BRIXADI with statistical significance compared with SL BPN/NX.
@@ -130,7 +130,7 @@ However, on the right-hand side of the curves where patients were reporting most
 
 Figure 17: Patients Achieving Varying Percentages of Negative Opioid Assessments (urine and self-report) in weeks 4 through 24
 
-Table 12: Patients Achieving Varying Percentage of Opioid-Negative Assessments (urine and self report) (Weeks 4-24)
+Table 13: Patients Achieving Varying Percentage of Opioid-Negative Assessments (urine and self report) (Weeks 4-24)
 
 | BRIXADI N=213 | SL BPN/NX N=215 |  |
 | --- | --- | --- |

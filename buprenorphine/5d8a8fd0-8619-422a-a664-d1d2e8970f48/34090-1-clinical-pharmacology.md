@@ -62,7 +62,7 @@ BRIXADI is an extended-release formulation of buprenorphine designed for subcuta
 BRIXADI is available in two regimens: weekly and monthly.
 Following single doses of BRIXADI (weekly) or BRIXADI (monthly), the buprenorphine Cmax and AUCinf increase dose-proportionally.
 
-The steady-state PK of buprenorphine following BRIXADI (weekly), BRIXADI (monthly) and their comparison to sublingual SUBUTEX across three studies are shown in Table 7.
+The steady-state PK of buprenorphine following BRIXADI (weekly), BRIXADI (monthly) and their comparison to sublingual SUBUTEX across three studies are shown in Table 8.
 In these studies, BRIXADI (weekly) was administered for 4 or 4 to 7 weekly doses, BRIXADI (monthly) was administered for 4 monthly doses, and SUBUTEX was administered for 7 daily doses.
 
 After BRIXADI subcutaneous injection, the buprenorphine plasma concentration increases with a median time to maximum plasma concentration (tmax) of about 24 hours for BRIXADI (weekly) and 6-10 hours for BRIXADI (monthly).
@@ -71,7 +71,7 @@ Based on trough levels after each dose, steady-state exposure is reached at admi
 After four repeated doses of BRIXADI (weekly) (16 mg) AUCτ (0-7d), Cmax and Ctrough values are ~40% higher exposure compared to the first dose.
 Based on cross-study comparisons, four repeated doses of BRIXADI (monthly) (128 mg) results in 68%, 65%, and 124% higher AUCτ (0-28d), Cmax and Ctrough values, respectively compared to the first dose.
 
-Table 7: Summary of steady-state PK parameters of buprenorphine after subcutaneous buttock injections of BRIXADI (weekly) and BRIXADI (monthly) and sublingual (SL) administration of SUBUTEX
+Table 8: Summary of steady-state PK parameters of buprenorphine after subcutaneous buttock injections of BRIXADI (weekly) and BRIXADI (monthly) and sublingual (SL) administration of SUBUTEX
 
 | SL BPN | Brixadi (weekly) | Brixadi (monthly) | SL BPN Average value of two studies | Brixadi (weekly) | Brixadi (monthly) | SL BPN | Brixadi (weekly) | Brixadi (monthly) | SL BPN | Brixadi (weekly) | Brixadi (monthly) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

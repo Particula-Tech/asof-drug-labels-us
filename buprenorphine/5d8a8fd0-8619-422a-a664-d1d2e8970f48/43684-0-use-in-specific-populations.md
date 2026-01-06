@@ -46,7 +46,7 @@ Opioid-dependent women on buprenorphine maintenance therapy may require addition
 
 As with all opioids, use of buprenorphine prior to delivery may result in respiratory depression in the newborn.
 Closely monitor neonates for signs of respiratory depression.
-An opioid antagonist such as naloxone should be available for reversal of opioid induced respiratory depression in the neonate.
+An opioid antagonist such as naloxone or nalmefene, should be available for reversal of opioid induced respiratory depression in the neonate.
 
 Data
 

@@ -28,16 +28,19 @@ To avoid missed doses, the weekly dose may be administered up to 2 days before o
 
 If a dose is missed, the next dose should be administered as soon as practically possible.
 
-## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver.
-Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with BRIXADI.
-Also consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.4)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing or recommending an overdose reversal agent for the emergency treatment of opioid overdose, both when initiating and renewing treatment with BRIXADI.
+Also consider prescribing or recommending such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Warnings and Precautions (5.4)].
 
-Advise patients and caregivers that naloxone may also be administered for a known or suspected overdose with buprenorphine itself.
-Higher than normal doses and repeated administration of naloxone may be necessary due to the long duration of action of buprenorphine and its affinity for the mu receptor [see Overdosage (10)].
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the- counter, or as part of a community-based program) [see Warnings and Precautions (5.4)].
 
-Inform patients and caregivers of their options for obtaining naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Patient Counseling Information (17)].
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
+
+Advise patients and caregivers that opioid overdose reversal agents, such as naloxone or nalmefene, may also be administered for a known or suspected overdose with buprenorphine itself.
+Higher than normal doses and repeated administration of an opioid overdose reversal agent may be necessary due to the long duration of action of buprenorphine and its affinity for the mu receptor [see Overdosage (10)].
 
 ## 2.3 Recommended Dosing
 
@@ -136,13 +139,13 @@ IMPORTANT INFORMATION:
 
 | SAFETY SYRINGE PARTS (see Figures 1, 2, and 3 below) | Figure 1. Figure 2. Figure 3. |
 | --- | --- |
-| MATERIALS NEEDED FOR INJECTION Illustrated in Figure 4. Alcohol wipeCotton ballSharps disposal container | Figure 4. |
-| SELECTING AN INJECTION SITE The areas for subcutaneous injection are highlighted in Figure 5. BRIXADI should not be administered to the same site of injection for at least 8 weeks for BRIXADI (weekly). No injection site rotation is required for BRIXADI (monthly). BRIXADI should be injected slowly, into the subcutaneous tissue of the buttock, thigh, abdomen, or upper arm. In patients who are not currently receiving buprenorphine treatment, for BRIXADI (weekly), the upper arm site should only be used after steady-state has been achieved (after 4 consecutive doses) [see Dosage and Administration (2.1)]. | Figure 5. |
-| PREPARE THE SAFETY SYRINGE Step 1: Wash hands thoroughly with soap and water prior to handling the safety syringe. Step 2: Remove the safety syringe components from the carton. Assemble the safety syringe. While holding the syringe guard body, insert the plunger into the body of the syringe and rotate clockwise until it is attached to the stopper inside the syringe as illustrated in Figure 6. | Figure 6. |
+| MATERIALS NEEDED FOR INJECTION Illustrated in Figures 4. Alcohol wipeCotton ballSharps disposal container | Figure 4. |
+| SELECTING AN INJECTION SITE The areas for subcutaneous injection are highlighted in Figures 5. BRIXADI should not be administered to the same site of injection for at least 8 weeks for BRIXADI (weekly). No injection site rotation is required for BRIXADI (monthly). BRIXADI should be injected slowly, into the subcutaneous tissue of the buttock, thigh, abdomen, or upper arm. In patients who are not currently receiving buprenorphine treatment, for BRIXADI (weekly), the upper arm site should only be used after steady-state has been achieved (after 4 consecutive doses) [see Dosage and Administration (2.1)]. | Figure 5. |
+| PREPARE THE SAFETY SYRINGE Step 1: Wash hands thoroughly with soap and water prior to handling the safety syringe. Step 2: Remove the safety syringe components from the carton. Assemble the safety syringe. While holding the syringe guard body, insert the plunger into the body of the syringe and rotate clockwise until it is attached to the stopper inside the syringe as illustrated in Figures 6. | Figure 6. |
 | Step 3: Inspect the safety syringe closely: Do not use the safety syringe after the expiration date shown on the carton or on the safety syringe label. The liquid should be clear and yellowish to yellow in color.A small air bubble may be visible. Do not use the safety syringe if the liquid contains visible particles or is cloudy. |  |
 | PREPARATION OF SITE Step 4: Put on gloves.Clean the injection site with an alcohol wipe using a circular motion. Do not touch the cleaned area again before injecting. |  |
 | ADMINISTERING INJECTION Step 5: Grasp the safety syringe by the syringe, as shown (see Figure 7).Carefully pull the needle cap straight off.Immediately dispose of the needle cap (Never try to recap the needle). It is normal to see a small drop of liquid at the tip of the needle. | Figure 7. |
-| Step 6: Pinch the skin at the injection site between your thumb and index finger as shown in Figure 8. | Figure 8. |
+| Step 6: Pinch the skin at the injection site between your thumb and index finger as shown in Figures 8. | Figure 8. |
 | Step 7: Hold the syringe, as shown, and insert the needle at an angle of approximately 90° (see Figure 9). The needle is designed to inject into the subcutaneous space. It is important to fully insert the needle. | Figure 9. |
 | Step 8: After the needle is completely inserted into the subcutaneous tissue, release the skin that you are grasping. Slowly press down the plunger head until it latches in the safety device 'wings' (see Figure 10). This will ensure that all of the medication has been injected.Keep the plunger pressed fully down while you hold the safety syringe in place for an additional 2 seconds. | Figure 10. |
 | Step 9: Gently pull the needle out of the skin.Keep the plunger fully depressed while you carefully lift the needle straight out from the injection site (see Figure 11). | Figure 11. |
