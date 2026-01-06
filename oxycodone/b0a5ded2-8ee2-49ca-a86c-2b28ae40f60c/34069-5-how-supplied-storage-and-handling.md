@@ -2,7 +2,7 @@
 
 XTAMPZA ER capsules are supplied in 100-count bottles with a child-resistant closure and as a hospital unit dose package with 10 individually blistered capsules per card; two cards per carton as follows:
 
-Table 8: Summary of XTAMPZA ER Capsule Strengths and Packaging Configurations
+Table 9: Summary of XTAMPZA ER Capsule Strengths and Packaging Configurations
 
 | Strength | Capsule Description | NDC Number (100-count Bottles with a child-resistant closure) | NDC Number (20-count Hospital Unit Dose Blister Cartons) |
 | --- | --- | --- | --- |

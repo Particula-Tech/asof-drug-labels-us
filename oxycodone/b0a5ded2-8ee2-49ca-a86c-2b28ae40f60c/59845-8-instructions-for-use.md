@@ -23,6 +23,6 @@ Giving XTAMPZA ER through a nasogastric or gastrostomy tube: Use water, milk, or
 | Step 4: | Flush the tube two more times, each time with 10 mL of liquid, to ensure that none of the contents of the capsule are left in the tube. |
 
 This Instruction for Use has been approved by the U.S. Food and Drug Administration.
-Issued: DECEMBER 2023
+Issued: December 2025
 
 Collegium® PHARMACEUTICAL

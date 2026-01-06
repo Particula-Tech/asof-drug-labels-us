@@ -27,7 +27,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Oxycodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -88,9 +88,9 @@ Following a low-fat low-calorie meal, Cmax was 19% higher and AUC was comparable
 Pharmacokinetic Profile of XTAMPZA ER Intact and Sprinkled
 
 Plasma concentration over time has been measured following administration of XTAMPZA ER capsule contents intact with food and sprinkled.
-The pharmacokinetic profile for the capsule contents sprinkled was equivalent to intact capsule administration (Table 7).
+The pharmacokinetic profile for the capsule contents sprinkled was equivalent to intact capsule administration (Table 8).
 
-Table 7: Oxycodone Pharmacokinetic Parameters, Administration of Capsule Contents and Intact Capsules (36 mg)
+Table 8: Oxycodone Pharmacokinetic Parameters, Administration of Capsule Contents and Intact Capsules (36 mg)
 
 | Treatment | Cmax (ng/mL) | Tmax (hr) | AUC0-INF (hr∙ng/mL) |
 | --- | --- | --- | --- |

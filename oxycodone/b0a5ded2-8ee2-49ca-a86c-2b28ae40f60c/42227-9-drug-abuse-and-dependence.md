@@ -69,11 +69,11 @@ The two comparators in this study were intact XTAMPZA ER capsules and an immedia
 In two oral pharmacokinetic studies, XTAMPZA ER capsule contents were crushed prior to oral administration in healthy, naltrexone-blocked volunteers.
 The comparators in these studies included intact XTAMPZA ER capsules, intact and crushed reformulated OXYCONTIN (oxycodone hydrochloride) extended-release tablets at an equivalent dose, and crushed immediate-release oxycodone tablets at an equivalent dose.
 
-The data displayed in Table 3 illustrate the findings from the oral pharmacokinetic studies (data were similar for the two oral pharmacokinetic studies comparing XTAMPZA ER to OXYCONTIN).
+The data displayed in Table 4 illustrate the findings from the oral pharmacokinetic studies (data were similar for the two oral pharmacokinetic studies comparing XTAMPZA ER to OXYCONTIN).
 Collectively, the data demonstrated that crushing or chewing XTAMPZA ER prior to administration did not increase the maximum observed plasma concentration (Cmax) or total exposure (AUC0-INF) relative to dosing the intact product under fed conditions.
 Relative to immediate-release oxycodone and crushed reformulated OXYCONTIN (oxycodone hydrochloride) extended-release tablets, the Cmax for all XTAMPZA ER treatments was lower and the Tmax longer, consistent with an extended-release profile.
 
-Table 3: Oxycodone Pharmacokinetic Parameters, Administration of Manipulated and Intact Dosage Forms (36 mg of XTAMPZA ER or equivalent)
+Table 4: Oxycodone Pharmacokinetic Parameters, Administration of Manipulated and Intact Dosage Forms (36 mg of XTAMPZA ER or equivalent)
 
 |  | Cmax (ng/mL) | Tmax (hr) | AUC0-INF (hr∙ng/mL) |
 | --- | --- | --- | --- |
@@ -101,9 +101,9 @@ In Nasal Pharmacokinetic Study 2, XTAMPZA ER capsule contents (36 mg) were crush
 The two comparators in this study were intact XTAMPZA ER capsules (oral) and crushed oxycodone immediate-release tablets (intranasal) at an equivalent dose.
 
 The results of Nasal Pharmacokinetic Studies 1 and 2 are comparable and both studies demonstrated that intranasal administration of crushed XTAMPZA ER capsule contents did not result in higher peak plasma concentration (Cmax) or shorter time to peak concentration (Tmax) than taking XTAMPZA ER orally.
-The data from Nasal Pharmacokinetic Study 2 are displayed in Table 4 to represent these findings.
+The data from Nasal Pharmacokinetic Study 2 are displayed in Table to represent these findings.
 
-Table 4: Oxycodone Pharmacokinetic Parameters, Nasal Pharmacokinetic Study 2:
+Table 5: Oxycodone Pharmacokinetic Parameters, Nasal Pharmacokinetic Study 2:
 
 | Treatment | Cmax (ng/mL) | Tmax (hr) | AUC0-INF (hr∙ng/mL) |
 | --- | --- | --- | --- |
@@ -129,7 +129,7 @@ Fifty-two subjects completed the study, and the results are summarized in Table 
 The oral administration of chewed and intact XTAMPZA ER in the fasted state was associated with statistically lower mean Drug Liking and Take Drug Again VAS scores compared with crushed immediate-release oxycodone.
 In addition, the Drug Liking and Take Drug Again scores were similar for XTAMPZA ER taken in the intact and chewed states.
 
-Table 5: Summary of Maximum Drug Liking and Take Drug Again (Emax) Following Oral Administration
+Table 6: Summary of Maximum Drug Liking and Take Drug Again (Emax) Following Oral Administration
 
 |  |  | XTAMPZA ER Intact (Fasted) | XTAMPZA ER Chewed (Fasted) | Crushed IR Oxycodone (Fasted) | Placebo |
 | --- | --- | --- | --- | --- | --- |
@@ -149,9 +149,9 @@ The four treatment arms were crushed XTAMPZA ER 36 mg dosed intranasally; intact
 Data for intranasal XTAMPZA ER and crushed immediate-release oxycodone are described below.
 
 Thirty-six subjects completed the study.
-Intranasal administration of crushed XTAMPZA ER was associated with statistically lower mean Drug Liking and Take Drug Again scores compared with crushed immediate-release oxycodone (summarized in Table 6).
+Intranasal administration of crushed XTAMPZA ER was associated with statistically lower mean Drug Liking and Take Drug Again scores compared with crushed immediate-release oxycodone (summarized in 7).
 
-Table 6: Summary of Maximum Drug Liking and Take Drug Again (Emax) Following Intranasal Administration
+Table 7: Summary of Maximum Drug Liking and Take Drug Again (Emax) Following Intranasal Administration
 
 |  |  | XTAMPZA ER Intranasal | Crushed IR Oxycodone Intranasal | Placebo |
 | --- | --- | --- | --- | --- |
@@ -190,10 +190,10 @@ Tolerance is a physiological state characterized by a reduced response to a drug
 
 Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
-Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
-Do not abruptly discontinue XTAMPZA ER in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue XTAMPZA ER in a patient physically dependent on opioids.
 Rapid tapering of XTAMPZA ER in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 

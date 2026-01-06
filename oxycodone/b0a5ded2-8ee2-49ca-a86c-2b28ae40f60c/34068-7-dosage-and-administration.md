@@ -15,9 +15,35 @@
 - Patients who are unable to swallow XTAMPZA ER should be instructed to sprinkle the capsule contents on soft foods or into a cup and then administer directly into the mouth and immediately swallow.
   XTAMPZA ER may also be administered through a gastrostomy or nasogastric feeding tube [see Dosage and Administration (2.7)].
 - The maximum daily dose of XTAMPZA ER is 288 mg per day (eight 36 mg capsules, equivalent to 320 mg oxycodone HCl per day) as the safety of the excipients in XTAMPZA ER for doses over 288 mg/day has not been established.
-- XTAMPZA ER is formulated with oxycodone base.
-  The following table describes the equivalent amount of oxycodone HCl present in other oxycodone products.
 
+## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
+
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
+
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.2)].
+
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
+
+## 2.3 Initial Dosage
+
+It is safer to underestimate a patient's 24-hour oral oxycodone dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral oxycodone dosage and manage adverse reactions due to an overdose.
+While useful tables of opioid equivalents are readily available, there is substantial inter-patient variability in the relative potency of different opioid drugs and products.
+Frequently reevaluate patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to XTAMPZA ER.
+
+Use of XTAMPZA ER in Patients who are not Opioid Tolerant
+
+The starting dose for patients who are not opioid tolerant is XTAMPZA ER 9 mg orally every 12 hours with food.
+Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)].
+
+Conversion from other Oral Oxycodone Formulations to XTAMPZA ER
+
+XTAMPZA ER is formulated with oxycodone base.
+The following table describes the equivalent amount of oxycodone HCl present in other oxycodone products.
+
+Table 1.
 Equivalence table for dosage strengths of oxycodone hydrochloride salt and oxycodone base (XTAMPZA ER)
 
 | Oxycodone Hydrochloride | Oxycodone base (XTAMPZA ER) |
@@ -28,43 +54,8 @@ Equivalence table for dosage strengths of oxycodone hydrochloride salt and oxyco
 | 30 mg | 27 mg |
 | 40 mg | 36 mg |
 
-## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
-
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with XTAMPZA ER [see Warnings and Precautions (5.2)].
-
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
-
-Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
-
-Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
-
-## 2.3 Initial Dosing
-
-Use of XTAMPZA ER as the First Opioid Analgesic (Opioid-Naïve Patients)
-
-Initiate treatment with XTAMPZA ER with one 9 mg capsule orally every 12 hours with food.
-
-Use of XTAMPZA ER in Patients who are not Opioid Tolerant
-
-The starting dose for patients who are not opioid tolerant is XTAMPZA ER 9 mg orally every 12 hours with food.
-
-Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)].
-
-Conversion from other Oral Oxycodone Formulations to XTAMPZA ER
-
 Patients receiving other oral oxycodone formulations may be converted to XTAMPZA ER, using the same total daily dose of oxycodone, by administering one-half of the patient's total daily oral oxycodone dose as XTAMPZA ER every 12 hours with food.
-Because XTAMPZA ER is not bioequivalent to other oxycodone extended-release products, monitor patients for possible dosage adjustment [see Dosage and Administration (2.1)].
-
-Conversion from other Opioids to XTAMPZA ER
-
-When XTAMPZA ER therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
-
-There are no established conversion ratios for conversion from other opioids to XTAMPZA ER defined by clinical trials.
-Initiate dosing using XTAMPZA ER 9 mg orally every 12 hours with food.
-
-It is safer to underestimate a patient's 24-hour oral oxycodone dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral oxycodone dosage and manage adverse reactions due to an overdose.
-While useful tables of opioid equivalents are readily available, there is substantial inter-patient variability in the relative potency of different opioid drugs and products.
+Because XTAMPZA ER is not bioequivalent to other oxycodone extended-release products (refer to Table 1), monitor patients for possible dosage adjustment.
 
 Conversion from Methadone to XTAMPZA ER
 
@@ -72,11 +63,18 @@ Frequent evaluation is of particular importance when converting from methadone t
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and can accumulate in the plasma.
 
-Conversion from Transdermal Fentanyl to XTAMPZA ER
+Conversion from Fentanyl Transdermal System to XTAMPZA ER
 
-Eighteen hours following the removal of the transdermal fentanyl patch, XTAMPZA ER treatment can be initiated.
-Although there has been no systematic assessment of such conversion, a conservative oxycodone dose, approximately 9 mg (equivalent to 10 mg oxycodone HCl) every 12 hours of XTAMPZA ER, should be initially substituted for each 25 mcg/hr fentanyl transdermal patch.
-Follow the patient closely during conversion from transdermal fentanyl to XTAMPZA ER, as there is limited documented experience with this conversion.
+Eighteen hours following the removal of the fentanyl transdermal system, XTAMPZA ER treatment can be initiated.
+Although there has been no systematic assessment of such conversion, a conservative oxycodone dose, approximately 9 mg (equivalent to 10 mg oxycodone HCl) every 12 hours of XTAMPZA ER, should be initially substituted for each 25 mcg/hr fentanyl transdermal system.
+Follow the patient closely during conversion from fentanyl transdermal system to XTAMPZA ER, as there is limited documented experience with this conversion.
+
+Conversion from Other Opioid Analgesics to XTAMPZA ER
+
+When XTAMPZA ER therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
+
+There are no established conversion ratios for conversion from other opioids to XTAMPZA ER defined by clinical trials.
+Initiate dosing using XTAMPZA ER 9 mg orally every 12 hours with food.
 
 ## 2.4 Dosage Modifications in Patients with Hepatic Impairment
 
@@ -105,9 +103,9 @@ As a guideline, the total daily oxycodone dose usually can be increased by 25% t
 
 ## 2.6 Safe Reduction or Discontinuation of XTAMPZA ER
 
-Do not abruptly discontinue XTAMPZA ER in patients who may be physically dependent on opioids.
-Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Do not rapidly reduce or abruptly discontinue XTAMPZA ER in patients who may be physically dependent on opioids.
+Rapid reduction or abrupt discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
 When a decision has been made to decrease the dose or discontinue therapy in an opioid-dependent patient taking XTAMPZA ER, there are a variety of factors that should be considered, including the total daily dose of opioid (including XTAMPZA ER) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.
