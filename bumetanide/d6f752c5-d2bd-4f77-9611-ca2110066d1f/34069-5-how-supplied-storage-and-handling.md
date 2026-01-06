@@ -2,14 +2,13 @@
 
 How Supplied
 
-ENBUMYST is a clear, colorless solution, supplied as 6- or 12-pack cartons containing unit-dose nasal sprays as shown in Table 1.
+ENBUMYST is a clear, colorless solution, supplied as a 12-pack carton containing unit-dose nasal sprays as shown in Table 1.
 Each unit-dose nasal spray delivers 0.5 mg bumetanide.
 
 Table 1: Available Packaging Configurations
 
 | Description | Package Configuration | NDC |
 | --- | --- | --- |
-| 6-pack carton | Six (6) blister packages each with a unit-dose nasal spray | NDC 84388-005-06 |
 | 12-pack carton | Two (2) 6-pack cartons containing twelve (12) blister packages each with a unit-dose nasal spray | NDC 84388-005-12 |
 
 Storage and Handling
