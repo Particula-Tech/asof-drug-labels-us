@@ -29,12 +29,12 @@ The baseline characteristics were 42% with hypertension, 19% with type 2 diabete
 In these clinical trials, 6.8% of patients treated with 2.4 mg WEGOVY and 3.2% of patients treated with placebo permanently discontinued treatment as a result of adverse reactions.
 The most common adverse reactions leading to discontinuation were nausea (1.8% versus 0.2%), vomiting (1.2% versus 0%), and diarrhea (0.7% versus 0.1%) for WEGOVY and placebo, respectively.
 
-Adverse reactions reported in clinical trials in adults and greater than or equal to 2% of WEGOVY-treated patients and more frequently than in placebo-treated patients are shown in Table 2.
+Adverse reactions reported in clinical trials in adults and greater than or equal to 2% of WEGOVY-treated patients and more frequently than in placebo-treated patients are shown in Table 3.
 
-Table 2.
-Adverse Reactions (≥2% and Greater Than Placebo) in WEGOVY-treated Adults with Obesity or Overweight for Weight Reduction
+Table 3.
+Adverse Reactions (≥2% and Greater Than Placebo) in WEGOVY Injection-treated Adults with Obesity or Overweight for Weight Reduction
 
-|  | Placebo N=1,261 % | WEGOVY 2.4 mg N=2,116 % |
+|  | Placebo N=1,261 % | WEGOVY Injection (2.4 mg once weekly) N=2,116 % |
 | --- | --- | --- |
 | Nausea | 16 | 44 |
 | Diarrhea | 16 | 30 |
@@ -64,23 +64,36 @@ c Defined as blood glucose <54 mg/dL with or without symptoms of hypoglycemia or
 See text below for further information regarding hypoglycemia in patients with and without type 2 diabetes.
 T2DM = type 2 diabetes mellitus d Includes chronic gastritis, gastritis, gastritis erosive, and reflux gastritis e Includes paresthesia, hyperesthesia, burning sensation, allodynia, dysesthesia, skin burning sensation, pain of skin, and sensitive skin
 
-In a CV outcomes trial, 8,803 patients were exposed to WEGOVY for a median of 37.3 months and 8,801 patients were exposed to placebo for a median of 38.6 months [see Clinical Studies (14.1)].
+In a CV outcomes trial, 8,803 patients were exposed to WEGOVY injection for a median of 37.3 months and 8,801 patients were exposed to placebo for a median of 38.6 months [see Clinical Studies (14.1)].
 Safety data collection was limited to serious adverse events (including death), adverse events leading to discontinuation, and adverse events of special interest.
-Sixteen percent (16%) of WEGOVY-treated patients and 8% of placebo-treated patients, respectively, discontinued study drug due to an adverse event.
+Sixteen percent (16%) of WEGOVY injection-treated patients and 8% of placebo-treated patients, respectively, discontinued study drug due to an adverse event.
 Additional information from this trial is included in subsequent sections below when relevant.
 
-Adverse Reactions in a Clinical Trial of Pediatric Patients Aged 12 Years and Older with Obesity for Weight Reduction
+WEGOVY Tablet 25 mg Oral Daily Dosage
 
-WEGOVY was evaluated in a 68-week, double-blind, randomized, parallel group, placebo-controlled, multi-center trial in 201 pediatric patients aged 12 years and older with obesity [see Clinical Studies (14.3)].
+WEGOVY tablet was evaluated for safety in a randomized, double-blind, placebo-controlled trial that included 204 adult patients with obesity or overweight and at least one weight-related comorbidity, treated with WEGOVY tablet for up to 64 weeks and a 7-week off drug follow-up period (Study 7) [see Clinical Studies (14.2)].
+Patients with type 2 diabetes mellitus were excluded.
+Baseline characteristics included a mean age of 48 years, 75.6% were female, 92.7% were White, 0.5% were Asian, 6.3% were Black or African American, and 8.3% were Hispanic or Latino ethnicity.
+Mean baseline body weight was 106.4 kg and mean BMI was 37.5 kg/m2.
+The baseline characteristics were 44% with hypertension, 31% with dyslipidemia, 27% with a BMI greater than 40 kg/m2, and 1.5% with coronary artery disease.
+
+In the clinical trial, 6.9% of patients treated with WEGOVY 25 mg tablets and 5.9% patients treated with placebo permanently discontinued treatment as a result of adverse reactions.
+The most common event type leading to discontinuation was gastrointestinal adverse reactions reported in 3.4% with WEGOVY tablets and 2% with placebo.
+
+In the clinical trial with WEGOVY tablets, the types and frequency of common adverse reactions were similar to those listed in Table 3.
+
+Adverse Reactions in a Clinical Trial of Pediatric Patients Aged 12 Years and Older with Obesity Treated with WEGOVY Injection for Weight Reduction
+
+WEGOVY injection was evaluated in a 68-week, double-blind, randomized, parallel group, placebo-controlled, multi-center trial in 201 pediatric patients aged 12 years and older with obesity [see Clinical Studies (14.3)].
 Baseline characteristics included a mean age of 15.4 years; 38% of patients were male; 79% were White, 8% were Black or African American, 2% were Asian, and 11% were of other or unknown race; and 11% were of Hispanic or Latino ethnicity.
 The mean baseline body weight was 107.5 kg, and mean BMI was 37 kg/m2.
 
-Table 3 shows adverse reactions reported in greater than or equal to 3% of WEGOVY-treated pediatric patients and more frequently than in the placebo group from a study in pediatric patients aged 12 years and older.
+Table 4 shows adverse reactions reported in greater than or equal to 3% of WEGOVY injection-treated pediatric patients and more frequently than in the placebo group from a study in pediatric patients aged 12 years and older.
 
-Table 3.
-Adverse Reactions (≥3% and Greater than Placebo) in WEGOVY-Treated Pediatric Patients Aged 12 Years and Older with Obesity for Weight Reduction
+Table 4.
+Adverse Reactions (≥3% and Greater than Placebo) in WEGOVY Injection-treated Pediatric Patients Aged 12 Years and Older with Obesity for Weight Reduction
 
-|  | Placebo N=67 % | WEGOVY 2.4 mg N=133 % |
+|  | Placebo N=67 % | WEGOVY Injection (2.4 mg once weekly) N=133 % |
 | --- | --- | --- |
 | Nausea | 18 | 42 |
 | Vomiting | 10 | 36 |
@@ -103,45 +116,78 @@ Adverse Reactions (≥3% and Greater than Placebo) in WEGOVY-Treated Pediatric P
 | Rash | 0 | 3 |
 | Urticaria | 0 | 3 |
 
-Adverse Reactions in Clinical Trials in Adults with MASH
+Adverse Reactions in Clinical Trials in Adults with MASH Treated with WEGOVY Injection
 
-The safety of WEGOVY was evaluated in a randomized, double-blind, placebo-controlled trial (Study 8) that included 1,195 adult patients with MASH, including 800 patients who were exposed to WEGOVY for a median of 95.3 weeks and 395 patients who were exposed to placebo for a median of 83.1 weeks [see Clinical Studies (14.4)].
+The safety of WEGOVY injection was evaluated in a randomized, double-blind, placebo-controlled trial (Study 9) that included 1,195 adult patients with MASH, including 800 patients who were exposed to WEGOVY for a median of 95.3 weeks and 395 patients who were exposed to placebo for a median of 83.1 weeks [see Clinical Studies (14.4)].
 
-The most commonly reported adverse reactions were consistent with the other approved WEGOVY indications (see Table 2).
+The most commonly reported adverse reactions were consistent with the other approved WEGOVY indications (see Table 3).
 There is limited information in patients with MASH and a BMI <25 kg/m2.
 Additional information from the MASH trial is included in subsequent sections when notable.
 Unless indicated, the incidence of the adverse reactions in MASH patients was similar to other approved indications.
 
-Other Adverse Reactions in Adults and/or Pediatric Patients
-
-Acute Pancreatitis
-
-In WEGOVY clinical trials in adults for weight reduction, acute pancreatitis was confirmed by adjudication in 4 WEGOVY-treated patients (0.2 cases per 100 patient years) and 1 in placebo-treated patients (less than 0.1 cases per 100 patient years).
-One additional case of acute pancreatitis was confirmed in a patient treated with WEGOVY in another clinical trial.
+Other Adverse Reactions in Adults and/or Pediatric Patients Treated with WEGOVY Injection or WEGOVY Tablets
 
 Acute Gallbladder Disease
 
-In WEGOVY clinical trials in adults for weight reduction, cholelithiasis was reported by 1.6% of WEGOVY-treated patients and 0.7% of placebo-treated patients.
-Cholecystitis was reported by 0.6% of WEGOVY-treated adult patients and 0.2% of placebo-treated patients.
-In a clinical trial in pediatric patients aged 12 years and older for weight reduction [see Clinical Studies (14.3)], cholelithiasis was reported by 3.8% of WEGOVY-treated patients and 0% placebo-treated patients.
-Cholecystitis was reported by 0.8% of WEGOVY-treated pediatric patients and 0% placebo-treated patients.
+In WEGOVY clinical trials in adults for weight reduction, cholelithiasis was reported by 1.6% of WEGOVY injection-treated patients and 0.7% of placebo-treated patients and by 2.5% of WEGOVY tablet-treated patients and 1% of placebo tablet-treated patients.
+Cholecystitis was reported by 0.6% of WEGOVY injection-treated adult patients and 0.2% of placebo-treated patients.
+In a clinical trial in pediatric patients aged 12 years and older for weight reduction [see Clinical Studies (14.3)], cholelithiasis was reported by 3.8% of WEGOVY injection-treated patients and 0% placebo-treated patients.
+Cholecystitis was reported by 0.8% of WEGOVY injection-treated pediatric patients and 0% placebo-treated patients.
 
 Hypoglycemia
 
 Patients with Type 2 Diabetes
 
-In a trial of adult patients with type 2 diabetes and BMI greater than or equal to 27 kg/m2 for weight reduction, clinically significant hypoglycemia (defined as a plasma glucose less than 54 mg/dL) was reported in 6.2% of WEGOVY-treated patients versus 2.5% of placebo-treated patients.
-A higher rate of clinically significant hypoglycemic episodes was reported with WEGOVY (semaglutide 2.4 mg) versus semaglutide 1 mg (10.7 vs. 7.2 episodes per 100 patient years of exposure, respectively); the rate in the placebo-treated group was 3.2 episodes per 100 patient years of exposure.
-In addition, one episode of severe hypoglycemia requiring intravenous glucose was reported in a WEGOVY-treated patient versus none in placebo-treated patients.
+In a trial of adult patients with type 2 diabetes and BMI greater than or equal to 27 kg/m2 for weight reduction, clinically significant hypoglycemia (defined as a plasma glucose less than 54 mg/dL) was reported in 6.2% of WEGOVY injection-treated patients versus 2.5% of placebo-treated patients.
+A higher rate of clinically significant hypoglycemic episodes was reported with WEGOVY injection (semaglutide 2.4 mg) versus semaglutide 1 mg injection (10.7 vs. 7.2 episodes per 100 patient years of exposure, respectively); the rate in the placebo-treated group was 3.2 episodes per 100 patient years of exposure.
+In addition, one episode of severe hypoglycemia requiring intravenous glucose was reported in a WEGOVY injection-treated patient versus none in placebo-treated patients.
 The risk of hypoglycemia was increased when WEGOVY was used with a sulfonylurea.
+
+In a glycemic control trial evaluating a dose comparable to the 9 mg dose and the 25 mg semaglutide tablet dose in patients with type 2 diabetes not on insulin, clinically significant hypoglycemia was reported in similar proportions of subjects in both treatment groups.
 
 Patients without Type 2 Diabetes
 
 Episodes of hypoglycemia have been reported with GLP-1 receptor agonists in adult patients without type 2 diabetes mellitus.
 In WEGOVY clinical trials in adult patients without type 2 diabetes mellitus for weight reduction, there was no systematic capturing or reporting of hypoglycemia.
 
-In a CV outcomes trial in adult patients without type 2 diabetes, 3 episodes of serious hypoglycemia were reported in WEGOVY-treated patients versus 1 episode in placebo.
-Patients with a history of bariatric surgery (a risk factor for hypoglycemia) had more events of serious hypoglycemia while taking WEGOVY (2.3%, 2/87) than placebo (0%, 0/97).
+In a CV outcomes trial in adult patients without type 2 diabetes, 3 episodes of serious hypoglycemia were reported in WEGOVY injection-treated patients versus 1 episode in placebo.
+Patients with a history of bariatric surgery (a risk factor for hypoglycemia) had more events of serious hypoglycemia while taking WEGOVY injection (2.3%, 2/87) than placebo (0%, 0/97).
+
+Retinal Disorders in Patients with Type 2 Diabetes
+
+In a trial of adult patients with type 2 diabetes and BMI greater than or equal to 27 kg/m2 for weight reduction, retinal disorders were reported by 6.9% of patients treated with WEGOVY injection (semaglutide 2.4 mg), 6.2% of patients treated with semaglutide 1 mg, and 4.2% of patients treated with placebo.
+The majority of events were reported as diabetic retinopathy (4%, 2.7%, and 2.7%, respectively) and non-proliferative retinopathy (0.7%, 0%, and 0%, respectively).
+
+In a glycemic control trial evaluating the 9 mg and 25 mg semaglutide tablet doses in patients with type 2 diabetes, a similar proportion of patients in each dose group reported diabetic retinopathy related adverse reactions during the trial; 1.3% and 1.9% of patients in the 9 mg and 25 mg semaglutide group, respectively, reported moderate-severe non-proliferative diabetic retinopathy events, and 0% and 0.4% reported proliferative retinopathy events, respectively.
+
+In a 2-year trial with semaglutide 0.5 mg and 1 mg once-weekly injection in adult patients with type 2 diabetes and high cardiovascular risk, diabetic retinopathy complications (which was a 4-component adjudicated endpoint) occurred in patients treated with semaglutide injection (3%) compared to placebo (1.8%).
+The absolute risk increase for diabetic retinopathy complications was larger among patients with a history of diabetic retinopathy at baseline (semaglutide injection 8.2%, placebo 5.2%) than among patients without a known history of diabetic retinopathy (semaglutide injection 0.7%, placebo 0.4%).
+
+Gastrointestinal Adverse Reactions
+
+In clinical trials in adults for weight reduction, 73% of WEGOVY injection-treated patients and 47% of patients receiving placebo reported gastrointestinal adverse reactions, including severe reactions that were reported more frequently among patients receiving WEGOVY injection (4.1%) than placebo (0.9%).
+The most frequently reported reactions were nausea (44% vs. 16%), vomiting (25% vs. 6%), and diarrhea (30% vs. 16%).
+Other reactions that occurred at a higher incidence among WEGOVY injection-treated adult patients included dyspepsia, abdominal pain, abdominal distension, eructation, flatulence, gastroesophageal reflux disease, gastritis, hemorrhoids, and hiccups.
+These reactions were most frequently reported during dosage escalation.
+
+Severe gastrointestinal adverse reactions were reported in 2% of WEGOVY tablet-treated and 0% of placebo-treated patients, respectively.
+
+In the pediatric clinical trial for weight reduction, 62% of WEGOVY injection-treated patients and 42% of placebo-treated patients reported gastrointestinal adverse reactions.
+The most frequently reported reactions were nausea (42% vs. 18%), vomiting (36% vs. 10%), and diarrhea (22% vs. 19%).
+Other gastrointestinal-related reactions that occurred at a higher incidence than placebo among WEGOVY injection-treated pediatric patients included abdominal pain, constipation, eructation, gastroesophageal reflux disease, dyspepsia, and flatulence.
+
+Permanent discontinuation of treatment as a result of a gastrointestinal adverse reaction occurred in 4.3% of WEGOVY injection-treated adult patients versus 0.7% of placebo-treated patients.
+In a pediatric clinical trial for weight reduction, 2.3% of patients treated with WEGOVY injection versus 1.5% of patients who received placebo discontinued treatment as a result of gastrointestinal adverse reactions.
+
+Other Adverse Reactions in Adults and/or Pediatric Patients Treated with WEGOVY Injection
+
+The below adverse reactions are applicable for both WEGOVY injection and WEGOVY tablets and include descriptions of WEGOVY injection clinical trial data, where relevant.
+The safety and effectiveness of WEGOVY tablets have not been established in pediatric patients or patients with MASH.
+
+Acute Pancreatitis
+
+In WEGOVY clinical trials in adults for weight reduction, acute pancreatitis was confirmed by adjudication in 4 WEGOVY-treated patients (0.2 cases per 100 patient years) and 1 in placebo-treated patients (less than 0.1 cases per 100 patient years).
+One additional case of acute pancreatitis was confirmed in a patient treated with WEGOVY in another clinical trial.
 
 Acute Kidney Injury
 
@@ -149,11 +195,6 @@ Acute kidney injury occurred in clinical trials for weight reduction in 7 adult 
 Some of these adverse reactions occurred in association with gastrointestinal adverse reactions or dehydration.
 In addition, 2 patients treated with WEGOVY had acute kidney injury with dehydration in other clinical trials.
 The risk of renal adverse reactions with WEGOVY was increased in adult patients with a history of renal impairment (trials included 65 patients with a history of moderate or severe renal impairment at baseline), and occurred more frequently during dose titration.
-
-Retinal Disorders in Patients with Type 2 Diabetes
-
-In a trial of adult patients with type 2 diabetes and BMI greater than or equal to 27 kg/m2 for weight reduction, retinal disorders were reported by 6.9% of patients treated with WEGOVY (semaglutide 2.4 mg), 6.2% of patients treated with semaglutide 1 mg, and 4.2% of patients treated with placebo.
-The majority of events were reported as diabetic retinopathy (4%, 2.7%, and 2.7%, respectively) and non-proliferative retinopathy (0.7%, 0%, and 0%, respectively).
 
 Increase in Heart Rate
 
@@ -172,20 +213,6 @@ Appendicitis
 
 Appendicitis (including perforated appendicitis) occurred in 10 (0.5%) WEGOVY-treated adult patients and 2 (0.2%) patients receiving placebo in clinical trials for weight reduction.
 
-Gastrointestinal Adverse Reactions
-
-In clinical trials in adults for weight reduction, 73% of WEGOVY-treated patients and 47% of patients receiving placebo reported gastrointestinal adverse reactions, including severe reactions that were reported more frequently among patients receiving WEGOVY (4.1%) than placebo (0.9%).
-The most frequently reported reactions were nausea (44% vs. 16%), vomiting (25% vs. 6%), and diarrhea (30% vs. 16%).
-Other reactions that occurred at a higher incidence among WEGOVY-treated adult patients included dyspepsia, abdominal pain, abdominal distension, eructation, flatulence, gastroesophageal reflux disease, gastritis, hemorrhoids, and hiccups.
-These reactions were most frequently reported during dosage escalation.
-
-In the pediatric clinical trial for weight reduction, 62% of WEGOVY-treated patients and 42% of placebo-treated patients reported gastrointestinal adverse reactions.
-The most frequently reported reactions were nausea (42% vs. 18%), vomiting (36% vs. 10%), and diarrhea (22% vs. 19%).
-Other gastrointestinal-related reactions that occurred at a higher incidence than placebo among WEGOVY-treated pediatric patients included abdominal pain, constipation, eructation, gastroesophageal reflux disease, dyspepsia, and flatulence.
-
-Permanent discontinuation of treatment as a result of a gastrointestinal adverse reaction occurred in 4.3% of WEGOVY-treated adult patients versus 0.7% of placebo-treated patients.
-In a pediatric clinical trial for weight reduction, 2.3% of patients treated with WEGOVY versus 1.5% of patients who received placebo discontinued treatment as a result of gastrointestinal adverse reactions.
-
 Injection Site Reactions
 
 In clinical trials in adults for weight reduction, 1.4% of WEGOVY-treated patients and 1% of patients receiving placebo experienced injection site reactions (including injection site pruritus, erythema, inflammation, induration, and irritation).
@@ -196,14 +223,14 @@ Serious hypersensitivity reactions (e.g., anaphylaxis, angioedema) have been rep
 
 In a pediatric clinical trial for weight reduction, rash was reported in 3% of WEGOVY-treated patients and 0% of placebo-treated patients, and urticaria was reported in 3% of WEGOVY-treated patients and 0% of placebo-treated patients.
 
-In adult clinical trials for weight reduction, allergic reactions occurred in 16% (8/50) of WEGOVY-treated patients with anti-semaglutide antibodies and in 7% (114/1,659) of WEGOVY-treated patients who did not develop anti-semaglutide antibodies [see Clinical Pharmacology (12.6)].
+In adult clinical trials for weight reduction, allergic reactions occurred in 16% (8/50) of WEGOVY-treated patients with anti-semaglutide antibodies and in 7% (114/1659) of WEGOVY-treated patients who did not develop anti-semaglutide antibodies [see Clinical Pharmacology (12.6)].
 
 Fractures
 
 In the CV outcomes trial in adults, more fractures of the hip and pelvis were reported on WEGOVY than on placebo in female patients: 1% (24/2,448) vs. 0.2% (5/2,424), and in patients ages 75 years and older: 2.4% (17/703) vs. 0.6% (4/663), respectively.
 
 In a clinical trial in adults with MASH, fractures occurred in 4.4% of WEGOVY-treated patients (2.6 cases per 100 patient years) compared to 3.3% of placebo-treated patients (2 cases per 100 patient years).
-Fractures were reported in both males and females with a median age of 61 years (range, 44-75).
+Fractures were reported in both males and females with a median age of 61 years (range, 44 to 75).
 
 Urolithiasis
 
@@ -213,11 +240,20 @@ Dysgeusia
 
 In clinical trials in adults for weight reduction, 1.7% of WEGOVY-treated patients and 0.5% of placebo-treated patients reported dysgeusia.
 
-Laboratory Abnormalities
+Other Adverse Reactions in Adult Patients Treated with WEGOVY Tablets for Weight Reduction
+
+Dysesthesia
+
+In a clinical trial with WEGOVY tablets, 4.9% of WEGOVY-treated patients and no placebo-treated patients reported dysesthesia adverse reactions, with preferred terms including sensitive skin, hyperesthesia, paresthesia, allodynia, and skin burning sensation.
+
+Laboratory Abnormalities in Adults and/or Pediatric Patients Treated with WEGOVY Injection
+
+The below laboratory abnormalities are applicable for both WEGOVY injection and WEGOVY tablets and include descriptions of WEGOVY injection clinical trial data, where relevant.
+The safety and effectiveness of WEGOVY tablets have not been established in pediatric patients or patients with MASH.
 
 Amylase and Lipase
 
-Adult and pediatric patients treated with WEGOVY had a mean increase from baseline in amylase of 15 to 16% and lipase of 39% in clinical trials for weight reduction.
+Adult and pediatric patients treated with WEGOVY had a mean increase from baseline in amylase of 15% to 16% and lipase of 39% in clinical trials for weight reduction.
 These changes were not observed in the placebo group.
 
 In a clinical trial in adults with MASH, increases in lipase greater than 3 times the upper limit of normal (ULN) occurred in 4.7% (35/750) of WEGOVY-treated patients compared with 1.3% (5/374) of placebo-treated patients.
@@ -234,12 +270,10 @@ In the CV outcomes trial in adults, increases in total bilirubin greater than or
 The following adverse reactions have been reported during post-approval use of semaglutide, the active ingredient of WEGOVY.
 Because these reactions are reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure.
 
-Gastrointestinal Disorders: acute pancreatitis and necrotizing pancreatitis, sometimes resulting in death; ileus, intestinal obstruction, severe constipation including fecal impaction.
+Gastrointestinal Disorders: acute pancreatitis and necrotizing pancreatitis, sometimes resulting in death; ileus, intestinal obstruction, severe constipation including fecal impaction
 
 Hypersensitivity: anaphylaxis, angioedema, rash, urticaria
 
-Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing
-
-elective surgeries or procedures requiring general anesthesia or deep sedation
+Pulmonary: Pulmonary aspiration has occurred in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures requiring general anesthesia or deep sedation
 
 Renal and Urinary Disorders: acute kidney injury

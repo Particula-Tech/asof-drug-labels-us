@@ -65,9 +65,15 @@ Advise patients who are exposed to WEGOVY during pregnancy to contact Novo Nordi
 
 Missed Doses
 
-Inform patients if a dose is missed and the next scheduled dose is more than 2 days away (48 hours), administer WEGOVY as soon as possible.
+Inform patients if a dose of WEGOVY injection is missed and the next scheduled dose is more than 2 days away (48 hours), administer WEGOVY injection as soon as possible.
 If one dose is missed and the next scheduled dose is less than 2 days away (48 hours), do not administer the dose.
-Inform patients to resume their regular once weekly dosing schedule [see Dosage and Administration (2.4)].
+Inform patients to resume their regular once-weekly dosing schedule [see Dosage and Administration (2.4)].
+
+Inform patients if a dose of WEGOVY tablets is missed, skip the missed dose and take the next dose the following day [see Dosage and Administration (2.4)].
+
+Lactation
+
+Advise females not to breastfeed during treatment with WEGOVY tablets [see Use in Specific Populations (8.2)].
 
 Marketed by: Novo Nordisk Inc., Plainsboro, NJ 08536
 

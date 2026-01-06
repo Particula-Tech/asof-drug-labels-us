@@ -1,4 +1,4 @@
-# wegovy® 0.25 mg
+# Package/Label Display Panel – 0.25 mg Injection
 
 NDC 0169-4525-14 List 452514
 
@@ -26,7 +26,7 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# wegovy® 0.5 mg
+# Package/Label Display Panel – 0.5 mg Injection
 
 NDC 0169-4505-14 List 450514
 
@@ -54,7 +54,7 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# wegovy® 1 mg
+# Package/Label Display Panel – 1 mg Injection
 
 NDC 0169-4501-14 List 450114
 
@@ -82,7 +82,7 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# wegovy® 1.7 mg
+# Package/Label Display Panel – 1.7 mg Injection
 
 NDC 0169-4517-14 List 451714
 
@@ -110,7 +110,7 @@ Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
 
-# wegovy® 2.4 mg
+# Package/Label Display Panel – 2.4 mg Injection
 
 NDC 0169-4524-14 List 452414
 
@@ -137,3 +137,63 @@ Rx only
 Contains: 4 Wegovy pens, Product Literature.
 
 Dispense the enclosed Medication Guide to each patient.
+
+# Package/Label Display Panel – 1.5 mg Tablets
+
+1. NDC 0169-4415-31 LIST 441531
+2. wegovy® 1.5 mg
+
+(semaglutide) Tablets
+
+1.5 mg
+
+Rx only
+
+DISPENSE WITH MEDICATION GUIDE
+
+30 tablets
+
+# Package/Label Display Panel – 4 mg Tablets
+
+1. NDC 0169-4404-31 LIST 440431
+2. wegovy® 4 mg
+
+(semaglutide) Tablets
+
+4 mg
+
+Rx only
+
+DISPENSE WITH MEDICATION GUIDE
+
+30 tablets
+
+# Package/Label Display Panel – 9 mg Tablets
+
+1. NDC 0169-4409-31 LIST 440931
+2. wegovy® 9 mg
+
+(semaglutide) Tablets
+
+9 mg
+
+Rx only
+
+DISPENSE WITH MEDICATION GUIDE
+
+30 tablets
+
+# Package/Label Display Panel – 25 mg Tablets
+
+1. NDC 0169-4425-31 LIST 442531
+2. wegovy® 25 mg
+
+(semaglutide) Tablets
+
+25 mg
+
+Rx only
+
+DISPENSE WITH MEDICATION GUIDE
+
+30 tablets

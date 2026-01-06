@@ -1,10 +1,16 @@
 {
   "application_numbers": [
-    "NDA215256"
+    "NDA215256",
+    "NDA218316"
   ],
   "inn": "semaglutide",
   "labeler": "Novo Nordisk",
   "package_ndcs": [
+    "0169-4404-31",
+    "0169-4409-31",
+    "0169-4415-31",
+    "0169-4415-92",
+    "0169-4425-31",
     "0169-4501-01",
     "0169-4501-14",
     "0169-4505-01",
@@ -21,6 +27,11 @@
   "products": [
     {
       "form": "INJECTION, SOLUTION",
+      "generic": "semaglutide",
+      "name": "WEGOVY"
+    },
+    {
+      "form": "TABLET",
       "generic": "semaglutide",
       "name": "WEGOVY"
     }

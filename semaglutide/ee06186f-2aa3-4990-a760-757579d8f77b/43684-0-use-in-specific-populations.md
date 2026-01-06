@@ -53,61 +53,77 @@ Pharmacologically mediated, marked initial maternal body weight loss and reducti
 In a pre- and postnatal development study in pregnant cynomolgus monkeys, subcutaneous doses of 0.015, 0.075, and 0.15 mg/kg twice weekly (0.2-, 1-, and 3-fold the MRHD) were administered from Gestation Day 16 to 140.
 Pharmacologically mediated marked initial maternal body weight loss and reductions in body weight gain and food consumption coincided with an increase in early pregnancy losses and led to delivery of slightly smaller offspring at greater than or equal to 0.075 mg/kg twice weekly (greater than or equal to 1-time human exposure).
 
+Salcaprozate sodium (SNAC), an absorption enhancer in WEGOVY tablets, crosses the placenta and reaches fetal tissues in rats.
+In a pre- and postnatal development study in pregnant Sprague Dawley rats, SNAC was administered orally at 1,000 mg/kg/day (exposure levels were not measured) on Gestation Day 7 through lactation Day 20.
+An increase in gestation length, an increase in the number of stillbirths and a decrease in pup viability were observed.
+
 ## 8.2 Lactation
 
 Risk Summary
 
+WEGOVY Oral Tablets
+
+Data from a clinical lactation study with semaglutide oral tablet formulation reported semaglutide concentrations below the lower limit of quantification in human milk.
+However, SNAC and/or its metabolites are present in human milk.
+Since the activity of enzymes involved in SNAC clearance may be lower in infants compared to adults, higher SNAC plasma levels may occur in neonates and infants.
+Because of the unknown potential for serious adverse reactions in the breastfed infant due to the possible accumulation of SNAC, and because there are alternative formulations of semaglutide that do not contain SNAC that can be used during lactation, advise patients that breastfeeding is not recommended during treatment with WEGOVY tablets.
+
+WEGOVY Subcutaneous Injection
+
 There are no data on the presence of subcutaneously administered semaglutide or its metabolites in human milk, the effects on the breastfed infant, or the effects on milk production.
-Semaglutide was present in the milk of lactating rats.
-When a drug is present in animal milk, it is likely that the drug will be present in human milk (see Data).
+WEGOVY subcutaneous injection does not contain the SNAC metabolites.
+
 The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for WEGOVY and any potential adverse effects on the breastfed infant from WEGOVY or from the underlying maternal condition.
-
-Data
-
-In lactating rats, semaglutide was detected in milk at levels 3- to 12-fold lower than in maternal plasma.
 
 ## 8.3 Females and Males of Reproductive Potential
 
-Based on data from animal reproduction studies, females of reproductive potential receiving WEGOVY for CV risk reduction or weight reduction or females of reproductive potential receiving WEGOVY for MASH in whom the potential risk outweighs the potential benefit should discontinue WEGOVY at least 2 months before they plan to become pregnant to account for the long half-life of semaglutide [see Use in Specific Populations (8.1)].
+Because of the potential for fetal harm, discontinue WEGOVY in patients at least 2 months before they plan to become pregnant to account for the long half-life of semaglutide [see Use in Specific Populations (8.1)].
 
 ## 8.4 Pediatric Use
 
-The safety and effectiveness of WEGOVY in combination with a reduced calorie diet and increased physical activity to reduce excess body weight and maintain weight reduction long term in pediatric patients aged 12 years and older with obesity have been established.
-Use of WEGOVY for this indication is supported by a 68-week, double-blind, placebo-controlled clinical trial in 201 pediatric patients aged 12 years and older with a BMI corresponding to ≥95th percentile for age and sex [see Clinical Studies (14.3)] and from trials in adult patients with obesity [see Clinical Studies (14.2)].
-Use of the 1.7 mg once-weekly maintenance dosage of WEGOVY in pediatric patients is also supported by additional exposure-efficacy and safety analyses in pooled adult and pediatric patients.
+The safety and effectiveness of WEGOVY injection in combination with a reduced-calorie diet and increased physical activity to reduce excess body weight and maintain weight reduction long term in pediatric patients aged 12 years and older with obesity have been established.
+Use of WEGOVY injection for this indication is supported by a 68-week, double-blind, placebo-controlled clinical trial in 201 pediatric patients aged 12 years and older with a BMI corresponding to ≥95th percentile for age and sex [see Clinical Studies (14.3)] and from trials in adult patients with obesity [see Clinical Studies (14.2)].
+Use of the 1.7 mg once weekly maintenance dosage of WEGOVY injection in pediatric patients is also supported by additional exposure-efficacy and safety analyses in pooled adult and pediatric patients.
 
-Adverse reactions with WEGOVY treatment in pediatric patients aged 12 years and older were generally similar to those reported in adults.
-Pediatric patients aged 12 years and older treated with WEGOVY had greater incidences of cholelithiasis, cholecystitis, hypotension, rash, and urticaria compared to adults treated with WEGOVY [see Adverse Reactions (6.1)].
+Adverse reactions with WEGOVY-injection treatment in pediatric patients aged 12 years and older were generally similar to those reported in adults.
+Pediatric patients aged 12 years and older treated with WEGOVY injection had greater incidences of cholelithiasis, cholecystitis, hypotension, rash, and urticaria compared to adults treated with WEGOVY [see Adverse Reactions (6.1)].
 
-There are insufficient data in pediatric patients with type 2 diabetes treated with WEGOVY for obesity to determine if there is an increased risk of hypoglycemia with WEGOVY treatment similar to that reported in adults.
-Inform patients of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
-In pediatric patients aged 12 years and older with type 2 diabetes, monitor blood glucose prior to starting WEGOVY and during WEGOVY treatment.
-When initiating WEGOVY in pediatric patients aged 12 years and older with type 2 diabetes, consider reducing the dose of concomitantly administered insulin secretagogue (such as sulfonylureas) or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4)].
+Although there was an increased frequency of hypoglycemia in adults with type 2 diabetes with obesity or overweight treated with WEGOVY injection, there are insufficient data to determine if the risk of hypoglycemia is higher in WEGOVY-treated pediatric patients with type 2 diabetes with obesity.
+Inform pediatric patients of the risk of hypoglycemia and educate them on the signs and symptoms of hypoglycemia.
+In pediatric patients aged 12 years and older with type 2 diabetes, monitor blood glucose prior to starting WEGOVY injection and during treatment.
+When initiating WEGOVY injection in pediatric patients aged 12 years and older with type 2 diabetes, consider reducing the dosage of concomitantly administered insulin secretagogue (such as sulfonylureas) or insulin to reduce the risk of hypoglycemia [see Warnings and Precautions (5.4)].
 
-The safety and effectiveness of WEGOVY have not been established in pediatric patients:
+The safety and effectiveness of WEGOVY injection have not been established in pediatric patients:
 
-- •To reduce the risk of major adverse CV events.
+- •to reduce the risk of major adverse CV events.
   Clinical trials for this indication are highly impracticable because of the low prevalence of the condition in pediatric patients.
-- •To reduce excess body weight and maintain weight reduction long term in those less than 12 years of age.
-- •For the treatment of noncirrhotic MASH.
+- •to reduce excess body weight and maintain weight reduction long term in those less than 12 years of age.
+- •for the treatment of noncirrhotic MASH.
+
+The safety and effectiveness of WEGOVY tablets have not been established in pediatric patients.
 
 ## 8.5 Geriatric Use
 
-In the WEGOVY clinical trials for weight reduction and long-term maintenance, 233 (9%) WEGOVY-treated patients were aged 65 to 75 years and 23 (1%) WEGOVY-treated patients were aged 75 years and older [see Clinical Studies (14.2)].
-In a CV outcomes trial, 2,656 (30%) WEGOVY-treated patients were aged 65 to 75 years and 703 (8%) WEGOVY-treated patients were aged 75 years and older [see Clinical Studies (14.1)].
-No overall difference in effectiveness was observed between patients aged 65 years and older and younger adult patients.
-In the CV outcomes trial, patients aged 75 years and older reported more fractures of the hip and pelvis on WEGOVY than on placebo.
-Patients aged 75 years and older (WEGOVY-treated and placebo-treated) reported more serious adverse reactions overall compared to younger adult patients [see Adverse Reactions (6.1)].
+In the WEGOVY injection clinical trials for weight reduction and long-term maintenance, 233 (9%) WEGOVY injection-treated patients were aged 65 to less than 75 years and 23 (1%) WEGOVY injection-treated patients were aged 75 years and older [see Clinical Studies (14.2)].
+In a WEGOVY tablets clinical trial for weight reduction and long-term maintenance, 16 (8%) WEGOVY tablets-treated patients were aged 65 to less than 75 years and 5 (2%) WEGOVY tablet-treated patients were aged 75 years and older [see Clinical Studies (14.2)].
 
-In the clinical trial in patients with MASH, of the 534 patients randomized to WEGOVY, 138 (26%) were aged 65 years and older and 13 (2%) were aged 75 years and older [see Clinical Studies (14.4)].
-No overall differences in safety or effectiveness of WEGOVY have been observed between patients 65 years of age and older and younger adult patients.
+In a CV outcomes trial, 2,656 (30%) WEGOVY injection-treated patients were aged 65 to 75 years and 703 (8%) WEGOVY injection-treated patients were aged 75 years and older [see Clinical Studies (14.1)].
+No overall difference in the effectiveness was observed between patients aged 65 years and older and younger adult patients.
+In the CV outcomes trial, patients aged 75 years and older reported more hip and pelvis fractures in the WEGOVY injection-treated patients than placebo-treated patients.
+Patients aged 75 years and older (WEGOVY injection-treated and placebo-treated) reported more serious adverse reactions overall compared to younger adult patients [see Adverse Reactions (6.1)].
 
-## 8.6 Renal Impairment
+In the clinical trial in patients with MASH, of the 534 patients randomized to WEGOVY injection, 138 (26%) were aged 65 years and older and 13 (2%) were aged 75 years and older [see Clinical Studies (14.4)].
+No overall differences in safety or effectiveness of WEGOVY injection have been observed between patients 65 years of age and older and younger adult patients with MASH.
 
-The recommended dosage of WEGOVY in patients with renal impairment is the same as those with normal renal function.
-In a study in patients with renal impairment, including end-stage renal disease, no clinically relevant change in semaglutide pharmacokinetics was observed [see Clinical Pharmacology (12.3)].
+## 8.6 Type 2 Diabetes Mellitus
 
-## 8.7 Hepatic Impairment
+WEGOVY tablets have not been studied for weight reduction in adults with type 2 diabetes and obesity or overweight [see Clinical Studies (14.2)].
 
-The recommended dosage of WEGOVY in patients with hepatic impairment is the same as those with normal hepatic function.
-In a study in patients with different degrees of hepatic impairment, no clinically relevant change in semaglutide pharmacokinetics was observed [see Clinical Pharmacology (12.3)].
+Administration of WEGOVY injection resulted in less weight reduction in patients with type 2 diabetes and obesity or overweight compared to those without type 2 diabetes and obesity or overweight [see Clinical Studies (14.2)].
+
+In patients without type 2 diabetes, the average semaglutide blood concentrations following administration of WEGOVY 25 mg tablets once daily or WEGOVY 2.4 mg injection once weekly were similar.
+In patients with type 2 diabetes, the average semaglutide blood concentrations following administration of WEGOVY 25 mg tablets once daily were lower than the average semaglutide blood concentrations following use of WEGOVY 2.4 mg injection once weekly [see Clinical Pharmacology (12.3)].
+The lower semaglutide blood concentrations after administration of WEGOVY tablets in patients with type 2 diabetes may be associated with reductions in absolute bioavailability.
+
+Given the differences in average semaglutide blood concentrations after administration of WEGOVY tablets and WEGOVY injection, and the higher variability in semaglutide blood concentrations after administration of WEGOVY tablets in all patient populations, some patients with type 2 diabetes taking WEGOVY tablets may experience subtherapeutic semaglutide blood concentrations.
+In patients with type 2 diabetes with an inadequate response to WEGOVY tablets, consider alternative therapies, including switching to WEGOVY injection [see Dosage and Administration (2.5)].
