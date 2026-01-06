@@ -31,13 +31,11 @@ Dry Skin
 Inform patients that solifenacin succinate tablets, like other antimuscarinics, may cause dry skin due to decreased sweating.
 Heat prostration due to decreased sweating can occur when solifenacin succinate tablets are used in a hot environment [see Adverse Reactions (6.2)].
 
-Marketed by:
+Product of India
 
-Ajanta Pharma USA Inc.
+Manufactured by: Ajanta Pharma Limited, India
 
-Bridgewater, NJ 08807.
-
-Made in India.
+Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
 
 All other trademark names are the property of their respective owners.
 
@@ -170,12 +168,14 @@ What is overactive bladder?
 Overactive bladder occurs when you cannot control your bladder contractions.
 When these muscle contractions happen too often or cannot be controlled you can get symptoms of overactive bladder, which are urinary frequency, urinary urgency, and urinary incontinence (leakage).
 
-Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
+Product of India
 
-Made in India.
+Manufactured by: Ajanta Pharma Limited, India
+
+Marketed by: Ajanta Pharma USA Inc. Bridgewater, NJ 08807.
 
 All other trademark names are the property of their respective owners.
 
 This Patient Information has been approved by the U.S. Food and Drug Administration
 
-Revised: 12/2020
+Revised: 12/2025
