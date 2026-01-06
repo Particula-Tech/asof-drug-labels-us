@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "BLA761436"
+  ],
+  "inn": "denosumab",
+  "labeler": "Biocon Biologics Inc.",
+  "package_ndcs": [
+    "83257-029-41"
+  ],
+  "products": [
+    {
+      "form": "INJECTION",
+      "generic": "denosumab-kyqq",
+      "name": "BOSAYA"
+    }
+  ],
+  "setid": "1e5e8c88-3c65-3076-e44b-02d92c2d343d",
+  "source": "dailymed"
+}
