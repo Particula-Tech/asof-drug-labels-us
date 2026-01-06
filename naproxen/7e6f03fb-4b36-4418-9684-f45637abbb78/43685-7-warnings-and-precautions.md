@@ -141,7 +141,7 @@ The pharmacological activity of Naproxen Suspension in reducing inflammation, an
 
 ## 5.13 Long-Term Use and Laboratory Monitoring
 
-Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3 Hepatotoxicity, 5.6 Renal Toxicity and Hyperkalemia)].
+Because serious GI bleeding, hepatotoxicity, and renal injury can occur without warning symptoms or signs, consider monitoring patients on long-term NSAID treatment with a CBC and a chemistry profile periodically [see Warnings and Precautions (5.2, 5.3Hepatotoxicity, 5.6Renal Toxicity and Hyperkalemia)].
 
 Patients with initial hemoglobin values of 10 g or less who are to receive long-term therapy should have hemoglobin values determined periodically.
 

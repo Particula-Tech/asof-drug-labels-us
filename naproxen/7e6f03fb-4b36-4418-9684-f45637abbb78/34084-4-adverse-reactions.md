@@ -2,12 +2,12 @@
 
 The following adverse reactions are discussed in greater detail in other sections of the labeling:
 
-- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1 Cardiovascular Thrombotic Events)]
+- Cardiovascular Thrombotic Events [see Warnings and Precautions (5.1Cardiovascular Thrombotic Events)]
 - GI Bleeding, Ulceration, and Perforation [see Warnings and Precautions (5.2)]
-- Hepatotoxicity [see Warnings and Precautions (5.3 Hepatotoxicity)]
-- Hypertension [see Warnings and Precautions (5.4 Hypertension)]
-- Heart Failure and Edema [see Warnings and Precautions (5.5 Heart Failure and Edema)]
-- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6 Renal Toxicity and Hyperkalemia)]
+- Hepatotoxicity [see Warnings and Precautions (5.3Hepatotoxicity)]
+- Hypertension [see Warnings and Precautions (5.4Hypertension)]
+- Heart Failure and Edema [see Warnings and Precautions (5.5Heart Failure and Edema)]
+- Renal Toxicity and Hyperkalemia [see Warnings and Precautions (5.6Renal Toxicity and Hyperkalemia)]
 - Anaphylactic Reactions [see Warnings and Precautions (5.7)]
 - Serious Skin Reactions [see Warnings and Precautions (5.9)]
 - Hematologic Toxicity [see Warnings and Precautions (5.11)]
@@ -26,26 +26,26 @@ In controlled clinical trials with about 80 pediatric patients and in well-monit
 
 In patients taking naproxen in clinical trials, the most frequently reported adverse experiences in approximately 1% to 10% of patients are:
 
-Gastrointestinal (GI) Experiences, including: heartburn*, abdominal pain*, nausea*, constipation*, diarrhea, dyspepsia, stomatitis
+Gastrointestinal (GI) Experiences, including:heartburn*, abdominal pain*, nausea*, constipation*, diarrhea, dyspepsia, stomatitis
 
-Central Nervous System: headache*, dizziness*, drowsiness*, lightheadedness, vertigo
+Central Nervous System:headache*, dizziness*, drowsiness*, lightheadedness, vertigo
 
-Dermatologic: pruritus (itching)*, skin eruptions*, ecchymoses*, sweating, purpura
+Dermatologic:pruritus (itching)*, skin eruptions*, ecchymoses*, sweating, purpura
 
-Special Senses: tinnitus*, visual disturbances, hearing disturbances
+Special Senses:tinnitus*, visual disturbances, hearing disturbances
 
-Cardiovascular: edema*, palpitations
+Cardiovascular:edema*, palpitations
 
-General: dyspnea*, thirst
+General:dyspnea*, thirst
 
 *Incidence of reported reaction between 3% and 9%.
 Those reactions occurring in less than 3% of the patients are unmarked.
 
 In patients taking NSAIDs, the following adverse experiences have also been reported in approximately 1% to 10% of patients.
 
-Gastrointestinal (GI) Experiences, including: flatulence, gross bleeding/perforation, GI ulcers (gastric/duodenal), vomiting
+Gastrointestinal (GI) Experiences, including:flatulence, gross bleeding/perforation, GI ulcers (gastric/duodenal), vomiting
 
-General: abnormal renal function, anemia, elevated liver enzymes, increased bleeding time, rashes
+General:abnormal renal function, anemia, elevated liver enzymes, increased bleeding time, rashes
 
 ## 6.2 Postmarketing Experience
 

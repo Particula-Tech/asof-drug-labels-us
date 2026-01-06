@@ -35,10 +35,10 @@ When Naproxen Suspension and immediate release naproxen tablets were given to fa
 
 |  | Naproxen Suspension | Naproxen Tablets 500 mg |
 | --- | --- | --- |
-| C max (µg/mL) | 64.3 | 71.1 |
-| T max (hours) | 2.6 | 2.3 |
-| T 1/2 (hours) | 16.8 | 16.3 |
-| AUC 0–t (µg·hr/mL) | 1249 | 1218 |
+| C max(µg/mL) | 64.3 | 71.1 |
+| T max(hours) | 2.6 | 2.3 |
+| T 1/2(hours) | 16.8 | 16.3 |
+| AUC 0–t(µg·hr/mL) | 1249 | 1218 |
 
 Distribution
 
