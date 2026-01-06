@@ -7,7 +7,7 @@ Prescribe and dispense buprenorphine with appropriate precautions to minimize ri
 Clinical monitoring appropriate to the patient’s level of stability is essential.
 Multiple refills should not be prescribed early in treatment or without appropriate patient follow-up visits [see Drug Abuse and Dependence (9.2)].
 
-## 5.2 Life-Threatening Respiratory Depression
+## 5.2 Life-Threatening Respiratory Depression and Central Nervous System (CNS) Depression
 
 Buprenorphine has been associated with life-threatening respiratory depression and death.
 Many, but not all, post-marketing reports regarding coma and death involved misuses by self-injection or were associated with the concomitant use of benzodiazepines or other CNS depressants, including alcohol.
@@ -25,8 +25,8 @@ In patients who present with CSA, consider decreasing the opioid dosage using be
 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
 Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene) and discuss the importance of having access to an opioid overdose reversal agent.
-Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider prescribing or recommending an opioid overdose reversal agent for the emergency treatment of an opioid overdose, both when initiating and renewing treatment with Buprenorphine Sublingual Tablets.
-Also consider prescribing or recommending such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.2)].
+Because patients being treated for opioid use disorder have the potential for relapse, putting them at risk for opioid overdose, strongly consider recommending or prescribing an opioid overdose reversal agent for the emergency treatment of an opioid overdose, both when initiating and renewing treatment with Buprenorphine Sublingual Tablets.
+Also consider recommending or prescribing such an agent if the patient has household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose [see Dosage and Administration (2.2)].
 
 Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program).
 
@@ -39,9 +39,9 @@ Higher than normal doses and repeated administration of an opioid overdose rever
 Educate patients and caregivers on how to recognize respiratory depression, and how to use an opioid overdose reversal agent for the emergency treatment of opioid overdose.
 Emphasize the importance of calling 911 or getting emergency medical help, even if an opioid overdose reversal agent is administered.
 
-## 5.3 Risks from Concomitant Use of Benzodiazepines or Other CNS Depressants
+## 5.3 Risks from Concomitant Use with Benzodiazepines or Other CNS Depressants
 
-Concomitant use of buprenorphine and benzodiazepines and/or other CNS depressants (e.g., alcohol, non-benzodiazepine, sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids) increases the risk of adverse reactions including overdose and death.
+Concomitant use of buprenorphine and benzodiazepines and/or other CNS depressants (e.g., alcohol, non-benzodiazepine sedatives/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids) increases the risk of adverse reactions including overdose, respiratory depression, and death.
 Medication-assisted treatment of opioid use disorder, however, should not be categorically denied to patients taking these drugs.
 Prohibiting or creating barriers to treatment can pose an even greater risk of morbidity and mortality due to the opioid use disorder alone.
 
