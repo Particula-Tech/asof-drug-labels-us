@@ -27,9 +27,9 @@ The most common serious adverse drug reactions (all ≤ 0.2%) occurring during c
 
 The most common adverse events (≥ 2%) leading to discontinuation were nausea, vomiting, and liver function test abnormality.
 
-The most common adverse events (≥ 5%) reported by opioid-naïve, opioid-experienced, and overall patients exposed to BELBUCA in clinical trials and compared against placebo are shown in Table 2, Table 3 and Table 4:
+The most common adverse events (≥ 5%) reported by patients who were not opioid tolerant, opioid-experienced patients, and overall patients exposed to BELBUCA in clinical trials and compared against placebo are shown in Table 2, Table 3 and Table 4:
 
-Table 2: Adverse Events Reported in ≥ 5% of Patients during the Open-Label Titration Phase and Double-Blind Treatment Phase of Controlled Studies: Opioid-Naïve Patients
+Table 2: Adverse Events Reported in ≥ 5% of Patients during the Open-Label Titration Phase and Double-Blind Treatment Phase of Controlled Studies: Patients Who Were Not Opioid Tolerant
 
 | MedDRA Preferred Term | BELBUCA (N=749) | BELBUCA (N=229) | Placebo (N=232) |
 | --- | --- | --- | --- |
@@ -120,3 +120,28 @@ Local reactions: dental decay (including caries, tooth fracture, and tooth loss)
 
 Hypoglycemia: Cases of hypoglycemia have been reported in patients taking opioids.
 Most reports were in patients with at least one predisposing risk factor (e.g., diabetes).
+
+Opioid-induced esophageal dysfunction (OIED): Cases of OIED have been reported in patients taking opioids, and may occur more frequently in patients taking higher doses of opioids, and/or in patients taking opioids longer term [see Warnings and Precautions (5.12)].
+
+Adverse Reactions from Observational Studies
+
+A prospective, observational cohort study estimated the risks of addiction, abuse, and misuse in patients initiating long-term use of Schedule II opioid analgesics between 2017 and 2021.
+Study participants included in one or more analyses had been enrolled in selected insurance plans or health systems for at least one year, were free of at least one outcome at baseline, completed a minimum number of follow-up assessments, and either: 1) filled multiple extended-release/long-acting opioid analgesic prescriptions during a 90-day period (n=978); or 2) filled any Schedule II opioid analgesic prescriptions covering at least 70 of 90 days (n=1,244).
+Those included also had no dispensing of the qualifying opioids in the previous 6 months.
+
+Over 12 months:
+
+- approximately 1% to 6% of participants across the two cohorts newly met criteria for addiction, as assessed with two validated interview-based measures of moderate-to-severe opioid use disorder based on Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria, and
+- approximately 9% and 22% of participants across the two cohorts newly met criteria for prescription opioid abuse and misuse [defined in Drug Abuse and Dependence (9.2)], respectively, as measured with a validated self-reported instrument.
+
+A retrospective, observational cohort study estimated the risk of opioid-involved overdose or opioid overdose-related death in patients with new long-term use of Schedule II opioid analgesics from 2006 through 2016 (n=220,249).
+Included patients had been enrolled in either one of two commercial insurance programs, one managed care program, or one Medicaid program for at least 9 months.
+New long-term use was defined as having Schedule II opioid analgesic prescriptions covering at least 70 days' supply over the 3 months prior to study entry and none during the preceding 6 months.
+Patients were excluded if they had an opioid-involved overdose in the 9 months prior to study entry.
+Overdose was measured using a validated medical code-based algorithm with linkage to the National Death Index database.
+The 5-year cumulative incidence estimates for opioid-involved overdose or opioid overdose-related death ranged from approximately 1.5% to 4% across study sites, counting only the first event during follow-up.
+Approximately 17% of first opioid overdoses observed over the entire study period (5-11 years, depending on the study site) were fatal.
+Higher baseline opioid dose was the strongest and most consistent predictor of opioid-involved overdose or opioid overdose-related death.
+Study exclusion criteria may have selected patients at lower risk of overdose, and substantial loss to follow-up (approximately 80%) also may have biased estimates.
+
+The risk estimates from the studies described above may not be generalizable to all patients receiving opioid analgesics, such as those with exposures shorter or longer than the duration evaluated in the studies.

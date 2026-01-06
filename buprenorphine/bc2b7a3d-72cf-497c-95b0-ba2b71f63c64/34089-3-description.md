@@ -16,6 +16,7 @@ The pKa is 8.5 for the amine function and 10.0 for the phenol function.
 Dosage strengths of BELBUCA are based on the active moiety, buprenorphine.
 BELBUCA is available as 75 mcg, 150 mcg, 300 mcg, 450 mcg, 600 mcg, 750 mcg, and 900 mcg buprenorphine per film.
 The strength of each film is dependent on the buprenorphine concentration in the formulation and the surface area of the film.
+
 Table 6 lists the dosage strength, equivalent amount of buprenorphine hydrochloride USP (active ingredient), unique identifier and film size for each strength.
 
 Table 6: BELBUCA Identifier and Film Size

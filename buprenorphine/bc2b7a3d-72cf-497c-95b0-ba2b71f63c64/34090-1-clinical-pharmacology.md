@@ -25,7 +25,7 @@ Buprenorphine causes a reduction in motility associated with an increase in tone
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone is increased to the point of spasm, resulting in constipation.
 Buprenorphine may cause an increase in biliary tract pressure as a result of spasm of the sphincter of Oddi.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 

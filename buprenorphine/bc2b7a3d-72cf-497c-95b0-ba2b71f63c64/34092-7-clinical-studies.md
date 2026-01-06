@@ -1,10 +1,10 @@
 # 14 CLINICAL STUDIES
 
-The efficacy of BELBUCA has been evaluated in three 12-week double-blind, placebo-controlled clinical trials in opioid-naïve and opioid-experienced patients with moderate-to-severe chronic low back pain using pain scores as the primary efficacy variable.
+The efficacy of BELBUCA has been evaluated in three 12-week double-blind, placebo-controlled clinical trials in patients who were not opioid tolerant and opioid-experienced patients with moderate-to-severe chronic low back pain using pain scores as the primary efficacy variable.
 Two of these studies, described below, demonstrated efficacy in patients with low back pain.
 One study in low back pain did not show a statistically significant pain reduction for BELBUCA compared to placebo.
 
-12-Week Study in Opioid-Naïve Patients with Chronic Low Back Pain
+12-Week Study in Patients who were not Opioid Tolerant with Chronic Low Back Pain
 
 A total of 749 patients with chronic low back pain entered an open-label, dose-titration period for up to eight weeks.
 Potential subjects were excluded from participation for QTcF interval of 450 ms or more, hypokalemia, clinically unstable cardiac disease, a history of Long QT Syndrome or an immediate family member with this condition, or taking Class IA or Class III antiarrhythmic medications.

@@ -13,5 +13,4 @@ BELBUCA (buprenorphine buccal film) films are supplied in cartons containing 60 
 | The 900 mcg buccal film is printed with E9 | 59385-027-60 | 59385-027-01 | Orange |
 
 Store at 20°C to 25°C (68°F to 77°F), with excursions permitted between 15°C and 30°C (59°F and 86°F).
-
 Store BELBUCA securely and dispose of properly.
