@@ -35,7 +35,7 @@ Labor or Delivery
 Use of codeine during labor may lead to respiratory depression in the neonate.
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid-induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules are not recommended for use in pregnant women during or immediately prior to labor, when other analgesic techniques are more appropriate.
 Opioid analgesics, including Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate Capsules, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
