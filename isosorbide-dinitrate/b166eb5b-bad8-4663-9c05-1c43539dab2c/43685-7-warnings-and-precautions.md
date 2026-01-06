@@ -21,7 +21,7 @@ Nitrate therapy may aggravate the angina caused by hypertrophic cardiomyopathy.
 As tolerance to isosorbide dinitrate develops, the effect of sublingual nitroglycerin on exercise tolerance, although still observable, is somewhat blunted.
 
 Some clinical trials in angina patients have provided nitroglycerin for about 12 continuous hours of every 24-hour day.
-During the daily dose-free interval in some of these trials, anginal attacks have been more easily provoked than before treatment, and patients have demonstrated hemodynamic rebound and decreased exercise tolerance.
+During the daily dose-free interval in some of these trials, anginal attacks have been more easily provoked than before treatment, and patients have demonstrated hemodynamic rebound and decreasedexercise tolerance.
 The importance of these observations to the routine, clinical use of immediate-release oral isosorbide dinitrate is not known.
 
 In industrial workers who have had long-term exposure to unknown (presumably high) doses of organic nitrates, tolerance clearly occurs.

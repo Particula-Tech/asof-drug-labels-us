@@ -32,7 +32,7 @@ Studies of nitroglycerin (an organic nitrate with a very short half-life) have s
 Daily dose-free intervals that have succeeded in avoiding tolerance during trials of moderate doses (e.g., 30 mg) of immediate-release ISDN have generally been somewhat longer (at least 14 hours), but this is consistent with the longer half-lives of ISDN and its active metabolites.
 
 Few well-controlled clinical trials of organic nitrates have been designed to detect rebound or withdrawal effects.
-In one such trial, however, subjects receiving nitroglycerin had less exercise tolerance at the end of the daily dose-free interval than the parallel group receiving placebo.
+In one such trial, however, subjects receiving nitroglycerin had lessexercise tolerance at the end of the daily dose-free interval than the parallel group receiving placebo.
 The incidence, magnitude, and clinical significance of similar phenomena in patients receiving ISDN have not been studied.
 
 ## Clinical Trials

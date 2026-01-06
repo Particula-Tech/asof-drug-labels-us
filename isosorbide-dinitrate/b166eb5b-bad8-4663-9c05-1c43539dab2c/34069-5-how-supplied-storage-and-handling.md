@@ -38,8 +38,8 @@ Dispense in a light-resistant, tight container.
 
 All trademarks are the property of their respective owners.
 
-Manufactured by: Rubicon Research Private Limited Ambernath, Dist: Thane, 421506 India
+Manufactured by: Rubicon Research Limited Thane, 421506 India
 
-Distributed by: Advagen Pharma Ltd 666 Plainsboro Road Suite 605Plainsboro, NJ 08536, US
+Distributed by: Advagen Pharma Ltd East Windsor, NJ 08520, USA.
 
-Revision: 06/22
+Revision: 01/2026
