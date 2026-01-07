@@ -2,7 +2,7 @@
 
 Addiction, Abuse, and Misuse
 
-Because the use of MS CONTIN exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient's risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warnings and Precautions (5.1)].
+Because the use of MS CONTIN exposes patients and other users to the risks of opioid addiction, abuse, and misuse, which can lead to overdose and death, assess each patient's risk prior to prescribing and reassess all patients regularly for the development of these behaviors and conditions [see Warning and Precautions (5.1)].
 
 Life-Threatening Respiratory Depression
 
@@ -22,9 +22,9 @@ Reserve concomitant prescribing of MS CONTIN and benzodiazepines or other CNS de
 
 Neonatal Opioid Withdrawal Syndrome (NOWS)
 
-If opioid use is required for an extended period of time in a pregnant woman, advise the patient of the risk of NOWS, which may be life threatening if not recognized and treated.
+Advise pregnant women using opioids for an extended period of time of the risk of Neonatal Opioid Withdrawal Syndrome, which may be life-threatening if not recognized and treated.
 Ensure that management by neonatology experts will be available at delivery [see Warnings and Precautions (5.4)].
 
 Opioid Analgesic Risk Evaluation and Mitigation Strategy (REMS)
 
-Healthcare providers are strongly encouraged to complete a REMS-compliant education program, and to counsel patients and caregivers on serious risks, safe use, and the importance of reading the Medication Guide with each prescription [see Warnings and Precautions (5.5)].
+Healthcare providers are strongly encouraged to complete a REMS-compliant education program, and to counsel patients and caregivers on serious risks, safe use, and the importance of reading the Medication Guide with each prescription [see Warning and Precautions (5.5)].

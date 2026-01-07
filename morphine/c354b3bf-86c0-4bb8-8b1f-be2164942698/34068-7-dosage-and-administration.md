@@ -9,58 +9,49 @@
   Because the risk of overdose increases as opioid doses increase, reserve titration to higher doses of MS CONTIN for patients in whom lower doses are insufficiently effective and in whom the expected benefits of using a higher dose opioid clearly outweigh the substantial risks.
 - Initiate the dosing regimen for each patient individually, taking into account the patient's underlying cause and severity of pain, prior analgesic treatment and response, and risk factors for addiction, abuse, and misuse [see Warnings and Precautions (5.1)].
 - Respiratory depression can occur at any time during opioid therapy, especially when initiating and following dosage increases with MS CONTIN.
-  Consider this risk when selecting an initial dose and when making dose adjustments [see Warnings and Precautions (5.2)].
+  Consider this risk when selecting an initial dose and when making dose adjustments [see Warning and Precautions (5.2)].
+- MS CONTIN is administered orally once every 8 or 12 hours.
 - Instruct patients to swallow MS CONTIN tablets whole.
   Crushing, chewing, or dissolving MS CONTIN tablets will result in uncontrolled delivery of morphine and can lead to overdose or death [see Warnings and Precautions (5.1)].
-- MS CONTIN is administered orally once every 8 or 12 hours.
 
-## 2.2 Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+## 2.2 Patient Access to an Opioid Overdose Reversal Agent for the Emergency Treatment of Opioid Overdose
 
-Discuss the availability of naloxone for the emergency treatment of opioid overdose with the patient and caregiver and assess the potential need for access to naloxone, both when initiating and renewing treatment with MS CONTIN [see Warnings and Precautions (5.2)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+The presence of risk factors for overdose should not prevent the management of pain in any patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
 
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program).
+Discuss the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Warnings and Precautions (5.2)].
 
-Consider prescribing naloxone, based on the patient's risk factors for overdose, such as concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose.
-The presence of risk factors for overdose should not prevent the proper management of pain in any given patient [see Warnings and Precautions (5.1, 5.2, 5.3)].
-
-Consider prescribing naloxone if the patient has household members (including children) or other close contacts at risk for accidental ingestion or overdose.
+There are important differences among the opioid overdose reversal agents, such as route of administration, product strength, approved patient age range, and pharmacokinetics.
+Be familiar with these differences, as outlined in the approved labeling for those products, prior to recommending or prescribing such an agent.
 
 ## 2.3 Initial Dosage
 
-Use of MS CONTIN as the First Opioid Analgesic (opioid-naïve patients)
+It is safer to underestimate a patient's 24-hour oral morphine dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral morphine dosage and manage an adverse reaction due to an overdose.
+While useful tables of opioid equivalents are readily available, there is inter-patient variability in the potency of opioid drugs and opioid formulations.
+Frequently reevaluate patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to MS CONTIN.
 
-Initiate treatment with MS CONTIN at a dose of 15 mg tablets orally every 8 or 12 hours.
+Use of MS CONTIN in Patients who are not Opioid Tolerant
 
-Use of MS CONTIN in Patients who are not Opioid Tolerant (opioid non-tolerant patients)
+The starting dose for patients who are not opioid tolerant is MS CONTIN 15 mg orally every 8 to 12 hours.
+Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression [see Warnings and Precautions (5.2)].
 
-The starting dose for patients who are not opioid tolerant is MS CONTIN 15 mg orally every 12 hours.
-
-Use of higher starting doses in patients who are not opioid tolerant may cause fatal respiratory depression.
-
-Conversion from Other Oral Morphine to MS CONTIN
+Conversion from Other Oral Morphine Formulations to MS CONTIN
 
 Patients receiving other oral morphine formulations may be converted to MS CONTIN by administering one-half of the patient's 24-hour requirement as MS CONTIN on an every-12-hour schedule or by administering one-third of the patient's daily requirement as MS CONTIN on an every-8-hour schedule.
 
-Conversion from Other Opioids to MS CONTIN
+Conversion from Parenteral Morphine or Other Parenteral Opioid Analgesics to MS CONTIN
 
-When MS CONTIN therapy is initiated, discontinue all other opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
+When converting from parenteral morphine or other parenteral non-morphine opioids to MS CONTIN, consider the following general points:
 
-There are no established conversion ratios for conversion from other opioids to MS CONTIN defined by clinical trials.
-Initiate dosing using MS CONTIN 15 mg orally every 8 to 12 hours.
+Parenteral to oral morphine ratio:
 
-It is safer to underestimate a patient's 24-hour oral morphine dosage and provide rescue medication (e.g., immediate-release opioid) than to overestimate the 24-hour oral morphine dosage and manage an adverse reaction due to an overdose.
-While useful tables of opioid equivalents are readily available, there is inter-patient variability in the potency of opioid drugs and opioid formulations.
-Close observation and frequent titration are warranted until pain management is stable on the new opioid.
-Monitor patients for signs and symptoms of opioid withdrawal and for signs of oversedation/toxicity after converting patients to MS CONTIN.
-
-Conversion from Parenteral Morphine or Other Opioids (Parenteral or Oral) to MS CONTIN
-
-When converting from parenteral morphine or other non-morphine opioids (parenteral or oral) to MS CONTIN, consider the following general points:
-
-Parenteral to oral morphine ratio: Between 2 to 6 mg of oral morphine may be required to provide analgesia equivalent to 1 mg of parenteral morphine.
+Between 2 to 6 mg of oral morphine may be required to provide analgesia equivalent to 1 mg of parenteral morphine.
 Typically, a dose of morphine that is approximately three times the previous daily parenteral morphine requirement is sufficient.
 
-Other parenteral or oral non-morphine opioids to oral morphine ratios: Specific recommendations are not available because of a lack of systematic evidence for these types of analgesic substitutions.
+Other parenteral non-morphine opioid analgesics to oral morphine ratios:
+
+Specific recommendations are not available because of a lack of systematic evidence for these types of analgesic substitutions.
 Published relative potency data are available, but such ratios are approximations.
 In general, begin with half of the estimated daily morphine requirement as the initial dose, managing inadequate analgesia by supplementation with immediate-release morphine.
 
@@ -70,6 +61,13 @@ Regular evaluation is of particular importance when converting methadone to othe
 The ratio between methadone and other opioid agonists may vary widely as a function of previous dose exposure.
 Methadone has a long half-life and can accumulate in the plasma.
 
+Conversion from Other Oral Opioid Analgesics to MS CONTIN
+
+When MS CONTIN therapy is initiated, discontinue all opioid analgesics other than those used on an as needed basis for breakthrough pain when appropriate.
+
+There are no established conversion ratios for conversion from other opioid analgesics to MS CONTIN defined by clinical trials.
+Initiate dosing using MS CONTIN 15 mg orally every 8 to 12 hours.
+
 ## 2.4 Titration and Maintenance of Therapy
 
 Individually titrate MS CONTIN to a dose that provides adequate analgesia and minimizes adverse reactions.
@@ -77,7 +75,7 @@ Continually reevaluate patients receiving MS CONTIN to assess the maintenance of
 Frequent communication is important among the prescriber, other members of the healthcare team, the patient, and the caregiver/family during periods of changing analgesic requirements, including initial titration.
 During use of opioid therapy for an extended period of time, periodically reassess the continued need for the use of opioid analgesics.
 
-Patients who experience breakthrough pain may require a dosage adjustment of MS CONTIN, or may need rescue medication with an appropriate dose of an immediate-release analgesic.
+Patients who experience breakthrough pain may require a dosage adjustment of MS CONTIN or may need rescue medication with an appropriate dose of an immediate-release analgesic.
 
 If the level of pain increases after dose stabilization, attempt to identify the source of increased pain before increasing the MS CONTIN dosage.
 If after increasing the dosage, unacceptable opioid- related adverse reactions are observed (including an increase in pain after a dosage increase), consider reducing the dosage [see Warnings and Precautions (5)].
@@ -91,9 +89,9 @@ If the patient is currently taking a central nervous system (CNS) depressant and
 
 ## 2.6 Safe Reduction or Discontinuation of MS CONTIN
 
-Do not abruptly discontinue MS CONTIN in patients who may be physically dependent on opioids.
-Rapid discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
-Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
+Do not rapidly reduce or abruptly discontinue MS CONTIN in patients who may be physically dependent on opioids.
+Rapid reduction or abrupt discontinuation of opioid analgesics in patients who are physically dependent on opioids has resulted in serious withdrawal symptoms, uncontrolled pain, and suicide.
+Rapid reduction or abrupt discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 Patients may also attempt to treat their pain or withdrawal symptoms with illicit opioids, such as heroin, and other substances.
 
 When a decision has been made to decrease the dose or discontinue therapy in an opioid dependent patient taking MS CONTIN, there are a variety of factors that should be considered, including the total daily dose of opioid (including MS CONTIN) the patient has been taking, the duration of treatment, the type of pain being treated, and the physical and psychological attributes of the patient.

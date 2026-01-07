@@ -3,8 +3,6 @@ Healthcare professionals can telephone Rhodes Pharmaceuticals L.P.'s Medical Ser
 Manufactured by: Purdue Pharma L.P.
 Stamford, CT 06901-3431
 
-Marketed by: Rhodes Pharmaceuticals, Wilson, NC 27893
+Marketed by: Rhodes Pharmaceuticals Wilson, NC 27893
 
-xxxxxxx-0x
-
-Revised 12/2023
+MS Contin® CII (morphine sulfate extended-release tablets)

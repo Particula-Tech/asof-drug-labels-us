@@ -5,6 +5,7 @@
 Morphine is a full opioid agonist and is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses.
 The principal therapeutic action of morphine is analgesia.
 Like all full opioid agonists, there is no ceiling effect for analgesia with morphine.
+
 Clinically, dosage is titrated to provide adequate analgesia and may be limited by adverse reactions, including respiratory and CNS depression.
 
 The precise mechanism of the analgesic action is unknown.
@@ -30,7 +31,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Morphine causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and in the duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include reduction in biliary and pancreatic secretions, spasm of the sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include reduction in biliary and pancreatic secretions, spasm of the sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -39,7 +40,7 @@ Manifestations of histamine release and/or peripheral vasodilation may include p
 
 Effects on the Endocrine System
 
-Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reaction (6.2)].
+Opioids inhibit the secretion of adrenocorticotropic hormone (ACTH), cortisol, and luteinizing hormone (LH) in humans [see Adverse Reactions (6.2)].
 They also stimulate prolactin, growth hormone (GH) secretion, and pancreatic secretion of insulin and glucagon.
 
 Use of opioids for an extended period of time may influence the hypothalamic-pituitary-gonadal axis, leading to androgen deficiency that may manifest as low libido, impotence, erectile dysfunction, amenorrhea, or infertility.
@@ -54,7 +55,7 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 Concentration-Efficacy Relationships
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
-The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)]
+The minimum effective analgesic concentration of morphine for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.3)].
 
 Concentration–Adverse Reaction Relationships
 
@@ -68,7 +69,7 @@ Absorption
 MS CONTIN is an extended-release tablet containing morphine sulfate.
 Morphine is released from MS CONTIN somewhat more slowly than from immediate-release oral preparations.
 Following oral administration of a given dose of morphine, the amount ultimately absorbed is essentially the same whether the source is MS CONTIN or an immediate-release formulation.
-Because of pre- systemic elimination (i.e., metabolism in the gut wall and liver) only about 40% of the administered dose reaches the central compartment.
+Because of pre-systemic elimination (i.e., metabolism in the gut wall and liver) only about 40% of the administered dose reaches the central compartment.
 
 The oral bioavailability of morphine is approximately 20 to 40%.
 When MS CONTIN is given on a fixed dosing regimen, steady-state is achieved in about a day.
@@ -76,7 +77,7 @@ When MS CONTIN is given on a fixed dosing regimen, steady-state is achieved in a
 Food Effect
 
 The effect of food upon the systemic bioavailability of MS CONTIN has not been systematically evaluated for all strengths.
-One study, conducted with the 30 mg MS CONTIN tablets, showed no significant differences in Cmax and AUC (0-24h) values, whether the tablet was taken while fasting or with a high-fat breakfast.
+One study, conducted with the 30 mg MS CONTIN tablets, showed no significant differences in Cmax and AUC(0-24h) values, whether the tablet was taken while fasting or with a high-fat breakfast.
 
 Distribution
 

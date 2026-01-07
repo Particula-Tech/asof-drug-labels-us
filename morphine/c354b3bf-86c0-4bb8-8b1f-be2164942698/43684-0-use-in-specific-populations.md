@@ -4,7 +4,7 @@
 
 Risk Summary
 
-Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal withdrawal syndrome [see Warnings and Precautions (5.4)].
+Use of opioid analgesics for an extended period of time during pregnancy may cause neonatal withdrawal syndrome [see Warnings And Precautions(5.4)].
 There are no available data with MS CONTIN in pregnant women to inform a drug-associated risk for major birth defects and miscarriage.
 Published studies with morphine use during pregnancy have not reported a clear association with morphine and major birth defects [see Human Data].
 In published animal reproduction studies, morphine administered subcutaneously during the early gestational period produced neural tube defects (i.e., exencephaly and cranioschisis) at 5 and 16 times the human daily dose of 60 mg based on body surface area (HDD) in hamsters and mice, respectively, lower fetal body weight and increased incidence of abortion at 0.4 times the HDD in the rabbit, growth retardation at 6 times the HDD in the rat, and axial skeletal fusion and cryptorchidism at 16 times the HDD in the mouse.
@@ -27,7 +27,7 @@ Observe newborns for symptoms of neonatal opioid withdrawal syndrome and manage 
 Labor or Delivery
 
 Opioids cross the placenta and may produce respiratory depression and psycho-physiologic effects in neonates.
-An opioid antagonist, such as naloxone, must be available for reversal of opioid- induced respiratory depression in the neonate.
+An opioid overdose reversal agent, such as naloxone or nalmefene, must be available for reversal of opioid-induced respiratory depression in the neonate.
 MS CONTIN is not recommended for use in pregnant women during or immediately prior to labor, when use of shorter-acting analgesics or other analgesic techniques are more appropriate.
 Opioid analgesics, including MS CONTIN, can prolong labor through actions which temporarily reduce the strength, duration, and frequency of uterine contractions.
 However, this effect is not consistent and may be offset by an increased rate of cervical dilation, which tends to shorten labor.
@@ -50,7 +50,7 @@ A no adverse effect level was not defined in this study and the findings cannot 
 Neural tube defects (exencephaly), axial skeletal fusions, and cryptorchidism were reported following a single subcutaneous (SC) injection of morphine sulfate to pregnant mice (100 to 500 mg/kg) on Gestation Day 8 or 9 at 200 mg/kg or greater (16 times the HDD) and fetal resorption at 400 mg/kg or higher (32 times the HDD).
 No adverse effects were noted following 100 mg/kg morphine in this model (8 times the HDD).
 In one study, following continuous subcutaneous infusion of doses greater than or equal to 2.72 mg/kg to mice (0.2 times the HDD), exencephaly, hydronephrosis, intestinal hemorrhage, split supraoccipital, malformed sternebrae, and malformed xiphoid were noted.
-The effects were reduced with increasing daily dose; possibly due to rapid induction of tolerance under these infusion conditions.
+The effects were reduced with increasing daily dose, possibly due to rapid induction of tolerance under these infusion conditions.
 The clinical significance of this report is not clear.
 
 Decreased fetal weights were observed in pregnant rats treated with 20 mg/kg/day morphine sulfate (3.2 times the HDD) from Gestation Day 7 to 9.
@@ -79,7 +79,7 @@ Risk Summary
 Morphine is present in breast milk.
 Published lactation studies report variable concentrations of morphine in breast milk with administration of immediate-release morphine to nursing mothers in the early postpartum period with a milk-to-plasma morphine AUC ratio of 2.5:1 measured in one lactation study.
 However, there is insufficient information to determine the effects of morphine on the breastfed infant and the effects of morphine on milk production.
-Lactation studies have not been conducted with extended –release morphine, including MS Contin.
+Lactation studies have not been conducted with extended-release morphine, including MS Contin.
 Because of the potential for serious adverse reactions, including excess sedation and respiratory depression in a breastfed infant, advise patients that breastfeeding is not recommended during treatment with MS CONTIN.
 
 Clinical Considerations
@@ -92,7 +92,7 @@ Withdrawal symptoms can occur in breastfed infants when maternal administration 
 Infertility
 
 Use of opioids for an extended period of time may cause reduced fertility in females and males of reproductive potential.
-It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)]].
+It is not known whether these effects on fertility are reversible [see Adverse Reactions (6.2), Clinical Pharmacology (12.2), Nonclinical Toxicology (13.1)].
 
 In published animal studies, morphine administration adversely effected fertility and reproductive endpoints in male rats and prolonged estrus cycle in female rats [see Nonclinical Toxicology (13)].
 
@@ -109,7 +109,7 @@ Elderly patients (aged 65 years or older) may have increased sensitivity to morp
 In general, use caution when selecting a dosage for an elderly patient, usually starting at the low end of the dosing range, reflecting the greater frequency of decreased hepatic, renal, or cardiac function and of concomitant disease or other drug therapy.
 
 Respiratory depression is the chief risk for elderly patients treated with opioids, and has occurred after large initial doses were administered to patients who were not opioid-tolerant or when opioids were co-administered with other agents that depress respiration.
-Titrate the dosage of MS CONTIN slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings and Precautions (5.7)].
+Titrate the dosage of MS CONTIN slowly in geriatric patients and frequently reevaluate the patient for signs of central nervous system and respiratory depression [see Warnings And Precautions (5.7)].
 
 Morphine is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.
 Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to regularly evaluate renal function.
