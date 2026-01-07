@@ -1,6 +1,6 @@
 PATIENT INFORMATION
 
-Glipizide (GLIP-i-zide) Extended-release Tablets
+Glipizide (GLIP-i-zide) Extended-release Tablets, USP
 
 The 2.5 mg tablets contain FD&C Yellow No. 5 (tartrazine) which may cause allergic-type reactions (including bronchial asthma) in certain susceptible persons.
 Although the overall incidence of FD&C Yellow No. 5 (tartrazine) sensitivity in the general population is low, it is frequently seen in patients who also have aspirin hypersensitivity.
@@ -147,4 +147,4 @@ Zydus Lifesciences Ltd.
 
 Ahmedabad, India.
 
-Rev.: 06/22
+Rev.: 12/25
