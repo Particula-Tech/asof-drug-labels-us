@@ -4,6 +4,9 @@ OXYCONTIN® (oxycodone hydrochloride) extended-release tablets is an opioid agon
 The tablet strengths describe the amount of oxycodone per tablet as the hydrochloride salt.
 The structural formula for oxycodone hydrochloride is as follows:
 
+|  | C18 H21 NO4 ∙ HCl | MW 351.83 |
+| --- | --- | --- |
+
 The chemical name is 4, 5α-epoxy-14-hydroxy-3-methoxy-17-methylmorphinan-6-one hydrochloride.
 
 Oxycodone is a white, odorless crystalline powder derived from the opium alkaloid, thebaine.

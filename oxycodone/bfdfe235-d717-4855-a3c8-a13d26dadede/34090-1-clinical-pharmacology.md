@@ -26,7 +26,7 @@ Effects on the Gastrointestinal Tract and Other Smooth Muscle
 Oxycodone causes a reduction in motility associated with an increase in smooth muscle tone in the antrum of the stomach and duodenum.
 Digestion of food in the small intestine is delayed and propulsive contractions are decreased.
 Propulsive peristaltic waves in the colon are decreased, while tone may be increased to the point of spasm, resulting in constipation.
-Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, and transient elevations in serum amylase.
+Other opioid-induced effects may include a reduction in biliary and pancreatic secretions, spasm of sphincter of Oddi, transient elevations in serum amylase, and opioid-induced esophageal dysfunction (OIED).
 
 Effects on the Cardiovascular System
 
@@ -49,15 +49,15 @@ Overall, the effects of opioids appear to be modestly immunosuppressive.
 
 Concentration –Efficacy Relationships
 
-Studies in normal volunteers and patients reveal predictable relationships between oxycodone dosage and plasma oxycodone concentrations, as well as between concentration and certain expected opioid effects, such as pupillary constriction, sedation, overall subjective "drug effect", analgesia and feelings of relaxation.
+Studies in normal volunteers and patients reveal predictable relationships between oxycodone dosage and plasma oxycodone concentrations, as well as between concentration and certain expected opioid effects, such as pupillary constriction, sedation, overall subjective "drug effect," analgesia and feelings of relaxation.
 
 The minimum effective analgesic concentration will vary widely among patients, especially among patients who have been previously treated with opioid agonists.
-The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.6)].
+The minimum effective analgesic concentration of oxycodone for any individual patient may increase over time due to an increase in pain, the development of a new pain syndrome, and/or the development of analgesic tolerance [see Dosage and Administration (2.1, 2.5)].
 
 Concentration –Adverse Reaction Relationships
 
 There is a relationship between increasing oxycodone plasma concentration and increasing frequency of dose-related opioid adverse reactions such as nausea, vomiting, CNS effects, and respiratory depression.
-In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.6)].
+In opioid-tolerant patients, the situation may be altered by the development of tolerance to opioid-related adverse reactions [see Dosage and Administration (2.1, 2.5)].
 
 ## 12.3 Pharmacokinetics
 
@@ -78,22 +78,23 @@ Absorption
 About 60% to 87% of an oral dose of oxycodone reaches the central compartment in comparison to a parenteral dose.
 This high oral bioavailability is due to low pre-systemic and/or first-pass metabolism.
 
-Plasma Oxycodone Concentration over Time Dose proportionality has been established for OXYCONTIN 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablet strengths for both peak plasma concentrations (Cmax) and extent of absorption (AUC) (see Table 6).
+Plasma Oxycodone Concentration over Time
+
+Dose proportionality has been established for OXYCONTIN 10 mg, 15 mg, 20 mg, 30 mg, 40 mg, 60 mg, and 80 mg tablet strengths for both peak plasma concentrations (Cmax) and extent of absorption (AUC) (see Table 6).
 Given the short elimination t½ of oxycodone, steady-state plasma concentrations of oxycodone are achieved within 24-36 hours of initiation of dosing with OXYCONTIN.
 In a study comparing 10 mg of OXYCONTIN every 12 hours to 5 mg of immediate-release oxycodone every 6 hours, the two treatments were found to be equivalent for AUC and Cmax, and similar for Cmin (trough) concentrations.
 
 TABLE 6 Mean [% coefficient of variation]
 
-| Regimen | Dosage Form | AUC (ng∙hr/mL)* | Cmax (ng/mL) | Tmax (hr) |
+| Regimen | Dosage Form | AUC (ng∙hr/mL)for single-dose AUC = AUC0-inf | Cmax (ng/mL) | Tmax (hr) |
 | --- | --- | --- | --- | --- |
-| Single Dose† | 10 mg | 136 [27] | 11.5 [27] | 5.11 [21] |
+| Single Dosedata obtained while subjects received naltrexone, which can enhance absorption | 10 mg | 136 [27] | 11.5 [27] | 5.11 [21] |
 |  | 15 mg | 196 [28] | 16.8 [29] | 4.59 [19] |
 |  | 20 mg | 248 [25] | 22.7 [25] | 4.63 [22] |
 |  | 30 mg | 377 [24] | 34.6 [21] | 4.61 [19] |
 |  | 40 mg | 497 [27] | 47.4 [30] | 4.40 [22] |
 |  | 60 mg | 705 [22] | 64.6 [24] | 4.15 [26] |
 |  | 80 mg | 908 [21] | 87.1 [29] | 4.27 [26] |
-| * for single-dose AUC = AUC0-inf †data obtained while subjects received naltrexone, which can enhance absorption |  |  |  |  |
 
 Food Effects
 

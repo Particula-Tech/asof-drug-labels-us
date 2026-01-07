@@ -2,14 +2,14 @@
 
 Advise the patient to read the FDA-approved patient labeling (Medication Guide).
 
-Storage and Disposal
+Storage and Disposal:
 
 Because of the risks associated with accidental ingestion, misuse, and abuse, advise patients to store OXYCONTIN securely, out of sight and reach of children, and in a location not accessible by others, including visitors to the home.
 Inform patients that leaving OXYCONTIN unsecured can pose a deadly risk to others in the home [see Warnings and Precautions (5.1, 5.2), Drug Abuse and Dependence (9.2)].
 
 Advise patients and caregivers that when medicines are no longer needed, they should be disposed of promptly.
 Expired, unwanted, or unused OXYCONTIN should be disposed of by flushing the unused medication down the toilet if a drug take-back option is not readily available.
-Inform patients that they can visit www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
+Inform patients that they can visit http://www.fda.gov/drugdisposal for a complete list of medicines recommended for disposal by flushing, as well as additional information on disposal of unused medicines.
 
 Addiction, Abuse and Misuse
 
@@ -30,22 +30,24 @@ Inform patients that accidental ingestion, especially by children, may result in
 
 Interactions with Benzodiazepines or Other CNS Depressants
 
-Inform patients and caregivers that potentially fatal additive effects may occur if OXYCONTIN is used with benzodiazepines or other CNS depressants, including alcohol, and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
+Inform patients and caregivers that potentially fatal additive effects may occur if OXYCONTIN is used with benzodiazepines or other CNS depressants, including alcohol (e.g., non-benzodiazepine sedative/hypnotics, anxiolytics, tranquilizers, muscle relaxants, general anesthetics, antipsychotics, gabapentinoids [gabapentin or pregabalin], and other opioids), and not to use these concomitantly unless supervised by a healthcare provider [see Warnings and Precautions (5.3), Drug Interactions (7)].
 
-Patient Access to Naloxone for the Emergency Treatment of Opioid Overdose
+Patient Access to an Opioid Overdose Reversal for the Emergency Treatment of Opioid Overdose
 
-Discuss with the patient and caregiver the availability of naloxone for the emergency treatment of opioid overdose, both when initiating and renewing treatment with OXYCONTIN.
-Inform patients and caregivers about the various ways to obtain naloxone as permitted by individual state naloxone dispensing and prescribing requirements or guidelines (e.g., by prescription, directly from a pharmacist, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.2)].
+Inform patients and caregivers about opioid overdose reversal agents (e.g., naloxone, nalmefene).
+Discuss the importance of having access to an opioid overdose reversal agent, especially if the patient has risk factors for overdose (e.g., concomitant use of CNS depressants, a history of opioid use disorder, or prior opioid overdose) or if there are household members (including children) or other close contacts at risk for accidental ingestion or opioid overdose.
+
+Discuss with the patient the options for obtaining an opioid overdose reversal agent (e.g., prescription, over-the-counter, or as part of a community-based program) [see Dosage and Administration (2.2), Warnings and Precautions (5.3)].
 
 Educate patients and caregivers on how to recognize the signs and symptoms of an overdose.
 
-Explain to patients and caregivers that naloxone's effects are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if naloxone is administered [see Overdosage (10)].
+Explain to patients and caregivers that effects of opioid overdose reversal agents like naloxone and nalmefene are temporary, and that they must call 911 or get emergency medical help right away in all cases of known or suspected opioid overdose, even if an opioid overdose reversal agent is administered [see Overdosage (10)].
 
-If naloxone is prescribed, also advise patients and caregivers:
+Advise patients and caregivers:
 
-- How to treat with naloxone in the event of an opioid overdose
-- To tell family and friends about their naloxone and to keep it in a place where family and friends can access it in an emergency
-- To read the Patient Information (or other educational material) that will come with their naloxone.
+- how to treat with the overdose reversal agent in the event of an opioid overdose
+- to tell family and friends about their opioid overdose reversal agent, and to keep it in a place where family and friends can access it in an emergency
+- to read the Patient Information (or other educational material) that will come with their opioid overdose reversal agent.
   Emphasize the importance of doing this before an opioid emergency happens, so the patient and caregiver will know what to do
 
 Hyperalgesia and Allodynia
@@ -57,7 +59,7 @@ Serotonin Syndrome
 
 Inform patients that opioids could cause a rare but potentially life-threatening condition called serotonin syndrome resulting from concomitant administration of serotonergic drugs.
 Warn patients of the symptoms of serotonin syndrome and to seek medical attention right away if symptoms develop.
-Instruct patients to inform their healthcare provider if they are taking, or plan to take serotonergic medications [see Drug Interactions (7)].
+Instruct patients to inform their healthcare provider if they are taking, or plan to take, serotonergic medications [see Drug Interactions (7)].
 
 MAOI Interaction
 
@@ -76,7 +78,7 @@ Instruct patients how to properly take OXYCONTIN, including the following:
 
 Important Discontinuation Instructions
 
-In order to avoid developing withdrawal symptoms, instruct patients not to discontinue OXYCONTIN without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.10)].
+In order to avoid developing withdrawal symptoms, instruct patients not to discontinue OXYCONTIN without first discussing a tapering plan with the prescriber [see Dosage and Administration (2.9)].
 
 Driving or Operating Heavy Machinery
 
@@ -96,7 +98,7 @@ Advise patients to seek medical attention if they experience a constellation of 
 Hypotension
 
 Inform patients that OXYCONTIN may cause orthostatic hypotension and syncope.
-Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.10)].
+Instruct patients how to recognize symptoms of low blood pressure and how to reduce the risk of serious consequences should hypotension occur (e.g., sit or lie down, carefully rise from a sitting or lying position) [see Warnings and Precautions (5.10, 5.11)].
 
 Anaphylaxis
 
@@ -105,24 +107,19 @@ Advise patients how to recognize such a reaction and when to seek medical attent
 
 Pregnancy
 
-Neonatal Opioid Withdrawal Syndrome Inform female patients of reproductive potential that use of OXYCONTIN for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
+Neonatal Opioid Withdrawal Syndrome
 
-Embryo-Fetal Toxicity Inform female patients of reproductive potential that OXYCONTIN can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+Inform female patients of reproductive potential that use of OXYCONTIN for an extended period of time during pregnancy can result in neonatal opioid withdrawal syndrome, which may be life-threatening if not recognized and treated [see Warnings and Precautions (5.4), Use in Specific Populations (8.1)].
 
-Lactation:
+Embryo-Fetal Toxicity
 
-Advise patients that breastfeeding is not recommended during treatment with OXYCONTIN [see Use in Specific Populations (8.2)]
+Inform female patients of reproductive potential that OXYCONTIN can cause fetal harm and to inform their healthcare provider of a known or suspected pregnancy [see Use in Specific Populations (8.1)].
+
+Lactation
+
+Advise patients that breastfeeding is not recommended during treatment with OXYCONTIN [see Use in Specific Populations (8.2)].
 
 Infertility
 
 Inform patients that use of opioids for an extended period of time may cause reduced fertility.
 It is not known whether these effects on fertility are reversible [see Use in Specific Populations (8.3)].
-
-Healthcare professionals can telephone Purdue Pharma's Medical Services Department (1-888-726-7535) for information on this product.
-
-Purdue Pharma L.P.
-Stamford, CT 06901-3431
-
-©2023, Purdue Pharma L.P.
-
-U.S. Patent Numbers 7,129,248; 8,808,741; 8,821,929; 8,894,987; 8,894,988; 9,073,933; 9,492,389; 9,492,391; 9,492,392; 9,492,393; 9,522,919; 9,763,886; 9,763,933; 9,770,416; 9,775,808; 9,775,810; 9,775,811; 9,777,011; 10,407,434; 10,696,684; 11,304,908 and 11,304,909.

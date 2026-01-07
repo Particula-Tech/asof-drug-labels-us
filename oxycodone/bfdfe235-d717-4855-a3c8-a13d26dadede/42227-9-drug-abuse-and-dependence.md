@@ -8,13 +8,13 @@ OXYCONTIN contains oxycodone, a Schedule II controlled substance.
 
 OXYCONTIN contains oxycodone, a substance with high potential for misuse and abuse, which can lead to the development of substance use disorder, including addiction [see Warnings and Precautions (5.1)].
 
-Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a health care provider or for whom it was not prescribed.
+Misuse is the intentional use, for therapeutic purposes, of a drug by an individual in a way other than prescribed by a healthcare provider or for whom it was not prescribed.
 
 Abuse is the intentional, non-therapeutic use of a drug, even once, for its desirable psychological or physiological effects.
 
 Drug addiction is a cluster of behavioral, cognitive, and physiological phenomena that may include a strong desire to take the drug, difficulties in controlling drug use (e.g., continuing drug use despite harmful consequences, giving a higher priority to drug use than other activities and obligations), and possible tolerance or physical dependence.
 
-Misuse and abuse of OXYCONTIN increases risk of overdose, which may lead to central nervous system and respiratory depression, hypotension, seizures, and death.
+Misuse and abuse of OXYCONTIN increases the risk of overdose, which may lead to central nervous system and respiratory depression, hypotension, seizures, and death.
 The risk is increased with concurrent abuse of OXYCONTIN with alcohol and/or other CNS depressants.
 Abuse of and addiction to opioids in some individuals may not be accompanied by concurrent tolerance and symptoms of physical dependence.
 In addition, abuse of opioids can occur in the absence of addiction.
@@ -50,14 +50,18 @@ Parenteral drug abuse is commonly associated with transmission of infectious dis
 Abuse Deterrence Studies
 
 OXYCONTIN is formulated with inactive ingredients intended to make the tablet more difficult to manipulate for misuse and abuse.
-For the purposes of describing the results of studies of the abuse-deterrent characteristics of OXYCONTIN resulting from a change in formulation, in this section, the original formulation of OXYCONTIN, which is no longer marketed, will be referred to as "original OxyContin" and the reformulated, currently marketed product will be referred to as "OXYCONTIN".
+For the purposes of describing the results of studies of the abuse-deterrent characteristics of OXYCONTIN resulting from a change in formulation, in this section, the original formulation of OXYCONTIN, which is no longer marketed, will be referred to as "original OxyContin" and the reformulated, currently marketed product will be referred to as "OXYCONTIN."
 
-In Vitro Testing In vitro physical and chemical tablet manipulation studies were performed to evaluate the success of different extraction methods in defeating the extended-release formulation.
+In Vitro Testing
+
+In vitro physical and chemical tablet manipulation studies were performed to evaluate the success of different extraction methods in defeating the extended-release formulation.
 Results support that, relative to original OxyContin, there is an increase in the ability of OXYCONTIN to resist crushing, breaking, and dissolution using a variety of tools and solvents.
 The results of these studies also support this finding for OXYCONTIN relative to an immediate-release oxycodone.
 When subjected to an aqueous environment, OXYCONTIN gradually forms a viscous hydrogel (i.e., a gelatinous mass) that resists passage through a needle.
 
-Clinical Studies In a randomized, double-blind, placebo-controlled 5-period crossover pharmacodynamic study, 30 recreational opioid users with a history of intranasal drug abuse received intranasally administered active and placebo drug treatments.
+Clinical Studies
+
+In a randomized, double-blind, placebo-controlled 5-period crossover pharmacodynamic study, 30 recreational opioid users with a history of intranasal drug abuse received intranasally administered active and placebo drug treatments.
 The five treatment arms were finely crushed OXYCONTIN 30 mg tablets, coarsely crushed OXYCONTIN 30 mg tablets, finely crushed original OxyContin 30 mg tablets, powdered oxycodone HCl 30 mg, and placebo.
 Data for finely crushed OXYCONTIN, finely crushed original OxyContin, and powdered oxycodone HCl are described below.
 
@@ -71,13 +75,12 @@ The intranasal administration of finely crushed OXYCONTIN was associated with a 
 
 Table 5: Summary of Maximum Drug Liking (Emax) Data Following Intranasal Administration
 
-| VAS Scale (100 mm)* |  | OXYCONTIN (finely crushed) | Original OxyContin (finely crushed) | Oxycodone HCl (powdered) |
+| VAS Scale (100 mm)Bipolar scales (0 = maximum negative response, 50 = neutral response, 100 = maximum positive response) |  | OXYCONTIN (finely crushed) | Original OxyContin (finely crushed) | Oxycodone HCl (powdered) |
 | --- | --- | --- | --- | --- |
 | Drug Liking | Mean (SE) | 80.4 (3.9) | 94.0 (2.7) | 89.3 (3.1) |
 | Median (Range) | 88 (36-100) | 100 (51-100) | 100 (50-100) |  |
 | Take Drug Again | Mean (SE) | 64.0 (7.1) | 89.6 (3.9) | 86.6 (4.4) |
 | Median (Range) | 78 (0-100) | 100 (20-100) | 100 (0-100) |  |
-| * Bipolar scales (0 = maximum negative response, 50 = neutral response, 100 = maximum positive response) |  |  |  |  |
 
 Figure 1 demonstrates a comparison of drug liking for finely crushed OXYCONTIN compared to powdered oxycodone HCl in subjects who received both treatments.
 The Y-axis represents the percent of subjects attaining a percent reduction in drug liking for OXYCONTIN vs. oxycodone HCl powder greater than or equal to the value on the X-axis.
@@ -91,7 +94,9 @@ The results of a similar analysis of drug liking for finely crushed OXYCONTIN re
 Approximately 43% (n = 12) of subjects had no reduction in liking with OXYCONTIN relative to original OxyContin.
 Approximately 57% (n = 16) of subjects had some reduction in drug liking, 36% (n = 10) of subjects had a reduction of at least 30% in drug liking, and approximately 29% (n = 8) of subjects had a reduction of at least 50% in drug liking with OXYCONTIN compared to original OxyContin.
 
-Summary The in vitro data demonstrate that OXYCONTIN has physicochemical properties expected to make abuse via injection difficult.
+Summary
+
+The in vitro data demonstrate that OXYCONTIN has physicochemical properties expected to make abuse via injection difficult.
 The data from the clinical study, along with support from the in vitro data, also indicate that OXYCONTIN has physicochemical properties that are expected to reduce abuse via the intranasal route.
 However, abuse of OXYCONTIN by these routes, as well as by the oral route, is still possible.
 
@@ -109,15 +114,15 @@ Tolerance is a physiological state characterized by a reduced response to a drug
 
 Physical dependence is a state that develops as a result of a physiological adaptation in response to repeated drug use, manifested by withdrawal signs and symptoms after abrupt discontinuation or a significant dose reduction of a drug.
 
-Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
+Withdrawal may be precipitated through the administration of drugs with opioid antagonist activity (e.g., naloxone, nalmefene), mixed agonist/antagonist analgesics (e.g., pentazocine, butorphanol, nalbuphine), or partial agonists (e.g., buprenorphine).
 Physical dependence may not occur to a clinically significant degree until after several days to weeks of continued use.
 
-Do not abruptly discontinue OXYCONTIN in a patient physically dependent on opioids.
+Do not rapidly reduce or abruptly discontinue OXYCONTIN in a patient physically dependent on opioids.
 Rapid tapering of OXYCONTIN in a patient physically dependent on opioids may lead to serious withdrawal symptoms, uncontrolled pain, and suicide.
 Rapid discontinuation has also been associated with attempts to find other sources of opioid analgesics, which may be confused with drug-seeking for abuse.
 
 When discontinuing OXYCONTIN, gradually taper the dosage using a patient-specific plan that considers the following: the dose of OXYCONTIN the patient has been taking, the duration of treatment, and the physical and psychological attributes of the patient.
 To improve the likelihood of a successful taper and minimize withdrawal symptoms, it is important that the opioid tapering schedule is agreed upon by the patient.
-In patients taking opioids for an extended period of time at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.10), Warnings and Precautions (5.15)].
+In patients taking opioids for an extended period of time at high doses, ensure that a multimodal approach to pain management, including mental health support (if needed), is in place prior to initiating an opioid analgesic taper [see Dosage and Administration (2.9), Warnings and Precautions (5.15)].
 
 Infants born to mothers physically dependent on opioids will also be physically dependent and may exhibit respiratory difficulties and withdrawal signs [see Use in Specific Populations (8.1)].
