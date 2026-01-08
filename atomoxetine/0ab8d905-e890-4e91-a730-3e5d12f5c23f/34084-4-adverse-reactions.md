@@ -16,11 +16,10 @@
   In the clinical development program, seizures were reported in 0.2% (12/5073) of children whose average age was 10 years (range 6 to 16 years).
   In these clinical trials, the seizure risk among poor metabolizers was 0.3% (1/293) compared to 0.2% (11/4741) for extensive metabolizers.
 
-- Commonly observed adverse reactions in acute child and adolescent, placebo-controlled trials — Commonly observed adverse reactions associated with the use of atomoxetine (incidence of 2% or greater) and not observed at an equivalent incidence among placebo-treated patients (atomoxetine incidence greater than placebo) are listed in Table 2.
-  Results were similar in the BID and the QD trial except as shown in Error!
-  Hyperlink reference not valid., which shows both BID and QD results for selected adverse reactions based on statistically significant Breslow-Day tests.
-  The most commonly observed adverse reactions in patients treated with atomoxetine (incidence of 5% or greater and at least twice the incidence in placebo patients, for either BID or QD dosing) were: nausea, vomiting, fatigue, decreased appetite, abdominal pain, and somnolence (see Tables 2 and Error!
-  Hyperlink reference not valid.).
+Commonly observed adverse reactions in acute child and adolescent, placebo-controlled trials — Commonly observed adverse reactions associated with the use of atomoxetine (incidence of 2% or greater) and not observed at an equivalent incidence among placebo-treated patients (atomoxetine incidence greater than placebo) are listed in Table 2.
+Results were similar in the BID and the QD trial except as shown in Table 3, which shows both BID and QD results for selected adverse reactions based on statistically significant Breslow-Day tests.
+The most commonly observed adverse reactions in patients treated with atomoxetine (incidence of 5% or greater and at least twice the incidence in placebo patients, for either BID or QD dosing) were: nausea, vomiting, fatigue, decreased appetite, abdominal pain, and somnolence (see Tables 2 and 3).
+
 - Additional data from ADHD clinical trials (controlled and uncontrolled) has shown that approximately 5 to 10% of pediatric patients experienced potentially clinically important changes in heart rate (≥20 beats per min) or blood pressure (≥15 to 20 mm Hg) [see Contraindications (4) and Warnings and Precautions (5)].
 
 Table 2: Common Treatment–Emergent Adverse Reactions Associated with the Use of Atomoxetine in Acute (up to 18 weeks) Child and Adolescent Trials
@@ -53,21 +52,21 @@ Table 2: Common Treatment–Emergent Adverse Reactions Associated with the Use o
 
 Table 3: Common Treatment-Emergent Adverse Reactions Associated with the Use of Atomoxetine in Acute (up to 18 weeks) Child and Adolescent Trials
 
-| Adverse Reaction | Percentage of Patients Reporting Reaction from BID Trials |  | Percentage of Patients Reporting Reaction from QD Trials |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Atomoxetine (N=715) | Placebo (N=434) | Atomoxetine (N=882) | Placebo (N=500) |  |  |  |
-| Gastrointestinal Disorders |  |  |  |  |  |  |  |
-| Abdominal paina | 17 | 13 | 18 | 7 |  |  |  |
-| Vomiting | 11 | 8 | 11 | 4 |  |  |  |
-| Nausea | 7 | 6 | 13 | 4 |  |  |  |
-| Constipationb | 2 | 1 | 1 | 0 |  |  |  |
-| General Disorders |  |  |  |  |  |  |  |
-| Fatigue | 6 | 4 | 9 | 2 |  |  |  |
-| Psychiatric Disorders |  |  |  |  |  |  |  |
-| Mood swingsc | 2 | 0 | 1 | 1 |  |  |  |
-| a Abdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort. |  |  |  |  |  |  |  |
-| b Constipation didn't meet the statistical significance on Breslow-Day test but is included in the table because of pharmacologic plausibility. |  |  |  |  |  |  |  |
-| c Mood swings didn't meet the statistical significance on Breslow-Day test at 0.05 level but p-value was <0.1 (trend). |  |  |  |  |  |  |  |
+| Adverse Reaction | Percentage of Patients Reporting Reaction from BID Trials |  | Percentage of Patients Reporting Reaction from QD Trials |  |
+| --- | --- | --- | --- | --- |
+|  | Atomoxetine (N=715) | Placebo (N=434) | Atomoxetine (N=882) | Placebo (N=500) |
+| Gastrointestinal Disorders |  |  |  |  |
+| Abdominal paina | 17 | 13 | 18 | 7 |
+| Vomiting | 11 | 8 | 11 | 4 |
+| Nausea | 7 | 6 | 13 | 4 |
+| Constipationb | 2 | 1 | 1 | 0 |
+| General Disorders |  |  |  |  |
+| Fatigue | 6 | 4 | 9 | 2 |
+| Psychiatric Disorders |  |  |  |  |
+| Mood swingsc | 2 | 0 | 1 | 1 |
+| a Abdominal pain includes the terms: abdominal pain upper, abdominal pain, stomach discomfort, abdominal discomfort, epigastric discomfort. |  |  |  |  |
+| b Constipation didn't meet the statistical significance on Breslow-Day test but is included in the table because of pharmacologic plausibility. |  |  |  |  |
+| c Mood swings didn't meet the statistical significance on Breslow-Day test at 0.05 level but p-value was <0.1 (trend). |  |  |  |  |
 
 - The following adverse reactions occurred in at least 2% of child and adolescent CYP2D6 PM patients and were statistically significantly more frequent in PM patients compared with CYP2D6 EM patients: insomnia (11% of PMs, 6% of EMs); weight decreased (7% of PMs, 4% of EMs); constipation (7% of PMs, 4% of EMs); depression1 (7% of PMs, 4% of EMs); tremor (5% of PMs, 1% of EMs); excoriation (4% of PMs, 2% of EMs); middle insomnia (3% of PMs, 1% of EMs); conjunctivitis (3% of PMs, 1% of EMs); syncope (3% of PMs, 1% of EMs); early morning awakening (2% of PMs, 1% of EMs); mydriasis (2% of PMs, 1% of EMs); sedation (4% of PMs, 2% of EMs).
 

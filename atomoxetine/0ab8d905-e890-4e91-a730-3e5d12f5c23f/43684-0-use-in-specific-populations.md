@@ -15,7 +15,7 @@ Some animal reproduction studies of atomoxetine had adverse developmental outcom
 One of 3 studies in pregnant rabbits dosed during organogenesis resulted in decreased live fetuses and an increase in early resorptions, as well as slight increases in the incidences of atypical origin of carotid artery and absent subclavian artery.
 These effects were observed at plasma levels (AUC) 3 times and 0.4 times the human plasma levels in extensive and poor metabolizers receiving the maximum recommended human dose (MRHD), respectively.
 In rats dosed prior to mating and during organogenesis a decrease in fetal weight (female only) and an increase in the incidence of incomplete ossification of the vertebral arch in fetuses were observed at a dose approximately 5 times the MRHD on a mg/m2 basis.
-In one of 2 studies in which rats were dosed prior to mating through the periods of organogenesis and lactation, decreased pup weight and decreased pup survival were observed at doses corresponding to 5-6 times the MRHD on a mg/m2 basis.
+In one of 2 studies in which rats were dosed prior to mating through the periods of organogenesis and lactation, decreased pup weight and decreased pup survival were observed at doses corresponding to 5 to 6 times the MRHD on a mg/m2 basis.
 No adverse fetal effects were seen in pregnant rats dosed during the organogenesis period (see Data).
 
 The estimated background risk of major birth defects and miscarriage for the indicated population is unknown.

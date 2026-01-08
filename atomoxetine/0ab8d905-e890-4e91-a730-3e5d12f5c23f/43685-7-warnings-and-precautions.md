@@ -94,10 +94,10 @@ Table 1a
 
 ## 5.7 Aggressive Behavior or Hostility
 
-1. Patient s beginning treatment with atomoxetine should be monitored for the appearance or worsening of aggressive behavior or hostility.
-   There is evidence that atomoxetine may cause the emergence or worsening of aggressive behavior or hostility.
-   ADHD and other mental illnesses can be associated with irritability, which can make it difficult to determine if the drug or the underlying psychiatric condition is causing the emergence or worsening of aggressive behavior or hostility in specific patients.
-   If such symptoms occur during treatment, consider a possible causal role of atomoxetine.
+- Patients beginning treatment with atomoxetine should be monitored for the appearance or worsening of aggressive behavior or hostility.
+  There is evidence that atomoxetine may cause the emergence or worsening of aggressive behavior or hostility.
+  ADHD and other mental illnesses can be associated with irritability, which can make it difficult to determine if the drug or the underlying psychiatric condition is causing the emergence or worsening of aggressive behavior or hostility in specific patients.
+  If such symptoms occur during treatment, consider a possible causal role of atomoxetine.
 
 ## 5.8 Allergic Events
 

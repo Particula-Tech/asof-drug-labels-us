@@ -1,6 +1,6 @@
 # MEDICATION GUIDE
 
-Atomoxetine (A-toe-MOX-e-teen) Capsules USP
+Atomoxetine (A-toe-MOX-e-teen) Capsules, USP
 
 - Read the Medication Guide that comes with atomoxetine capsules before you or your child starts taking it and each time you get a refill.
   There may be new information.
@@ -21,18 +21,37 @@ Suicidal thoughts and actions in children and teenagers:
 - •has bipolar illness (manic-depressive illness)
 - •had suicide thoughts or actions before starting atomoxetine capsules
 - The chance for suicidal thoughts and actions may be higher:
+- •early during atomoxetine capsules treatment
+- •during dose adjustments
+- Prevent suicidal thoughts and action in your child or teenager by:
+- •paying close attention to your child or teenager’s moods, behaviors, thoughts, and feelings during atomoxetine capsules treatment
+- •keeping all follow-up visits with your child or teenager’s doctor as scheduled
+- Watch for the following signs in your child or teenager during atomoxetine capsules treatment:
+- •anxiety
+- •agitation
+- •panic attacks
+- •trouble sleeping
+- •irritability
+- •hostility
+- •aggressiveness
+- •impulsivity
+- •restlessness
+- •mania
+- •depression
+- •suicide thoughts
+- Call your child or teenager’s doctor right away if they have any of the above signs, especially if they are new, sudden, or severe.
+  Your child or teenager may need to be closely watched for suicidal thoughts and actions or need a change in medicine.
 
 2.
 Severe liver damage:
 
-- Atomoxetine capsules can cause liver injury in some patients.
-  Call your doctor right away if you or your child has the following signs of liver problems:
-
-- •itching
-- •right upper belly pain
-- •dark urine
-- •yellow skin or eyes
-- •unexplained flu-like symptoms
+1. Atomoxetine capsules can cause liver injury in some patients.
+   Call your doctor right away if you or your child has the following signs of liver problems:
+2. •itching
+3. •right upper belly pain
+4. •dark urine
+5. •yellow skin or eyes
+6. •unexplained flu-like symptoms
 
 3.
 Heart-related problems:
@@ -42,6 +61,10 @@ Heart-related problems:
 - •increased blood pressure and heart rate
 - Tell your doctor if you or your child has any heart problems, heart defects, high blood pressure, or a family history of these problems.
   Your doctor should check you or your child carefully for heart problems before starting atomoxetine capsules.
+
+Your doctor should check your blood pressure or your child’s blood pressure and heart rate regularly during treatment with atomoxetine capsules.
+
+Call your doctor right away if you or your child has any signs of heart problems such as chest pain, shortness of breath, or fainting while taking atomoxetine capsules.
 
 4.
 New mental (psychiatric) problems in children and teenagers:
@@ -59,30 +82,43 @@ What Are Atomoxetine Capsules?
 
 Who should not take atomoxetine capsules?
 
-- Atomoxetine capsules should not be taken if you or your child:
-
-- •are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
-  Some names of MAOI medicines are Nardil® (phenelzine sulfate), Parnate® (tranylcypromine sulfate) and Emsam® (selegiline transdermal system).
-- •have an eye problem called narrow angle glaucoma
-- •are allergic to anything in atomoxetine capsules.
-  See the end of this Medication Guide for a complete list of ingredients.
-- •have or have had a rare tumor called pheochromocytoma.
-- Atomoxetine capsules may not be right for you or your child.
-  Before starting atomoxetine capsules tell your doctor or your child's doctor about all health conditions (or a family history of) including:
+1. Atomoxetine capsules should not be taken if you or your child:
+2. •are taking or have taken within the past 14 days an anti-depression medicine called a monoamine oxidase inhibitor or MAOI.
+   Some names of MAOI medicines are Nardil® (phenelzine sulfate), Parnate® (tranylcypromine sulfate) and Emsam® (selegiline transdermal system).
+3. •have an eye problem called narrow angle glaucoma
+4. •are allergic to anything in atomoxetine capsules.
+   See the end of this Medication Guide for a complete list of ingredients.
+5. •have or have had a rare tumor called pheochromocytoma.
+6. Atomoxetine capsules may not be right for you or your child.
+   Before starting atomoxetine capsules tell your doctor or your child's doctor about all health conditions (or a family history of) including:
+7. •have or had suicide thoughts or actions
+8. •heart problems, heart defects, irregular heart beat, high blood pressure, or low blood pressure
+9. •mental problems, psychosis, mania, bipolar illness, or depression
+10. •liver problems
+11. •are pregnant or plan to become pregnant.
+    It is not known if atomoxetine will harm your unborn baby.
+    Talk to your doctor if you are pregnant or plan to become pregnant.
+12. oThere is a pregnancy registry for females who are exposed to ADHD medications, including atomoxetine capsule, during pregnancy.
+    The purpose of the registry is to collect information about the health of females exposed to atomoxetine and their baby.
+    If you or your child becomes pregnant during treatment with atomoxetine capsules, talk to your healthcare provider about registering with the National Pregnancy Registry of ADHD Medications at 1-866-961-2388 or visit online at https://womensmentalhealth.org/adhdmedications/.
+13. •are breastfeeding or plan to breastfeed.
+    It is not known if atomoxetine passes into your breast milk.
+    Talk to your doctor about the best way to feed your baby if you take atomoxetine capsules.
 
 Can atomoxetine capsules be taken with other medicines?
 
 - Tell your doctor about all the medicines that you or your child takes including prescription and nonprescription medicines, vitamins, and herbal supplements.
   Atomoxetine capsules and some medicines may interact with each other and cause serious side effects.
   Your doctor will decide whether atomoxetine capsules can be taken with other medicines.
-- Especially tell your doctor if you or your child takes:
 
-- •asthma medicines
-- •anti-depression medicines including MAOIs
-- •blood pressure medicines
-- •cold or allergy medicines that contain decongestants
-- Know the medicines that you or your child takes.
-  Keep a list of your medicines with you to show your doctor and pharmacist.
+1. Especially tell your doctor if you or your child takes:
+2. •asthma medicines
+3. •anti-depression medicines including MAOIs
+4. •blood pressure medicines
+5. •cold or allergy medicines that contain decongestants
+6. Know the medicines that you or your child takes.
+   Keep a list of your medicines with you to show your doctor and pharmacist.
+7. Do not start any new medicine while taking atomoxetine capsules without talking to your doctor first.
 
 How should atomoxetine capsules be taken?
 
@@ -111,14 +147,38 @@ How should atomoxetine capsules be taken?
 What are possible side effects of atomoxetine capsules?
 
 - See “What is the most important information I should know about atomoxetine capsules?” for information on reported suicidal thoughts and actions, other mental problems, severe liver damage, and heart problems.
-- Other serious side effects include:
 
-- •serious allergic reactions (call your doctor if you have trouble breathing, see swelling or hives, or experience other allergic reactions)
-- •slowing of growth (height and weight) in children
-- •problems passing urine including
-  - •trouble starting or keeping a urine stream
-  - •cannot fully empty the bladder
-- Common side effects in children and teenagers include:
+1. Other serious side effects include:
+2. •serious allergic reactions (call your doctor if you have trouble breathing, see swelling or hives, or experience other allergic reactions)
+3. •slowing of growth (height and weight) in children
+4. •problems passing urine including
+   - otrouble starting or keeping a urine stream
+   - ocannot fully empty the bladder
+5. Common side effects in children and teenagers include:
+6. •upset stomach
+7. •decreased appetite
+8. •nausea or vomiting
+9. •dizziness
+10. •tiredness
+11. •mood swings
+12. Common side effects in adults include:
+13. •constipation
+14. •dry mouth
+15. •nausea
+16. •decreased appetite
+17. •dizziness
+18. •sexual side effects
+19. •problems passing urine
+20. Other information for children, teenagers, and adults:
+21. •Erections that won’t go away (priapism) have occurred rarely during treatment with atomoxetine capsules.
+    If you have an erection that lasts more than 4 hours, seek medical help right away.
+    Because of the potential for lasting damage, including the potential inability to have erections, priapism should be evaluated by a doctor immediately.
+22. •Atomoxetine capsules may affect your ability or your child’s ability to drive or operate heavy machinery.
+    Be careful until you know how atomoxetine capsules affects you or your child.
+23. •Talk to your doctor if you or your child has side effects that are bothersome or do not go away.
+24. This is not a complete list of possible side effects.
+    Call your doctor for medical advice about side effects.
+    You may report side effects to FDA at 1-800-FDA-1088.
 
 How should I store atomoxetine capsules?
 
@@ -139,40 +199,29 @@ For more information about atomoxetine capsules, call Glenmark Pharmaceuticals I
 
 What are the ingredients in atomoxetine capsules?
 
-- Active ingredient: atomoxetine hydrochloride USP.
+- Active ingredient: atomoxetine hydrochloride, USP.
 - Inactive ingredients: pregelatinized starch, gelatin, and titanium dioxide.
   The capsule shell for atomoxetine capsules USP, 18 mg contains D&C Yellow No. 10, FD&C Yellow No. 6, gelatin, sodium lauryl sulfate, and titanium dioxide.
-- The capsule shell for atomoxetine capsules USP, 25 mg and 40 mg contains D&C Red No. 28, FD&C Blue No.1, gelatin, and titanium dioxide.
-- The capsule shell for atomoxetine capsules USP, 60 mg contains D&C Yellow No. 10, FD&C Blue No. 1, FD&C Red No. 3, FD&C Yellow No. 6, gelatin, sodium lauryl sulfate, and titanium dioxide.
-- The capsule shell for atomoxetine capsules USP, 80 mg and 100 mg contains D&C Red No. 28, D&C Yellow No. 10, FD&C Blue No. 1, gelatin, and titanium dioxide.
+- The capsule shell for atomoxetine capsules, USP 25 mg and 40 mg contains D&C Red No. 28, FD&C Blue No.1, gelatin, and titanium dioxide.
+- The capsule shell for atomoxetine capsules, USP 60 mg contains D&C Yellow No. 10, FD&C Blue No. 1, FD&C Red No. 3, FD&C Yellow No. 6, gelatin, sodium lauryl sulfate, and titanium dioxide.
+- The capsule shell for atomoxetine capsules, USP 80 mg and 100 mg contains D&C Red No. 28, D&C Yellow No. 10, FD&C Blue No. 1, gelatin, and titanium dioxide.
 
-The imprinting ink for atomoxetine capsules USP, 10 mg, 25 mg, 40 mg, 80 mg, and 100 mg has the following components: black iron oxide, D&C Yellow No. 10, FD&C Blue No. 2, FD&C Blue No. 1, FD&C Red No. 40, methanol, propylene glycol, and shellac.
+The imprinting ink for atomoxetine capsules, USP 10 mg, 25 mg, 40 mg, 80 mg, and 100 mg has the following components: black iron oxide, D&C Yellow No. 10, FD&C Blue No. 2, FD&C Blue No. 1, FD&C Red No. 40, methanol, propylene glycol, and shellac.
 
-The imprinting ink for atomoxetine capsules USP, 18 mg and 60 mg has the following components: black iron oxide, propylene glycol, potassium hydroxide, strong ammonia solution, and shellac.
+The imprinting ink for atomoxetine capsules, USP 18 mg and 60 mg has the following components: black iron oxide, propylene glycol, potassium hydroxide, strong ammonia solution, and shellac.
 
 All trademarks are the property of their respective owners.
 
-This Medication Guide has been approved by the US Food and Drug Administration.
-
-Medication Guide available at
-
-www.glenmarkpharma-us.com/medguides
-
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-March 2023
+This Medication Guide has been approved by the US Food and Drug Administration.
+Revised: June 2025

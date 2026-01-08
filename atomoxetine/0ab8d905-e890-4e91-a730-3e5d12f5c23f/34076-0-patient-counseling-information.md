@@ -54,25 +54,15 @@ Interference with Psychomotor Performance
 
 Patients should be instructed to use caution when driving a car or operating hazardous machinery until they are reasonably certain that their performance is not affected by atomoxetine capsules.
 
-Medication Guide available at
-
-www.glenmarkpharma-us.com/medguides
-
-Manufactured by:
-
-Glenmark Pharmaceuticals Limited
-
-India
-
-Manufactured for:
+Distributed by:
 
 Glenmark Pharmaceuticals Inc., USA
 
-Mahwah, NJ 07430
+Elmwood Park, NJ 07407
 
 Questions?
 1 (888) 721-7115
 
 www.glenmarkpharma-us.com
 
-March 2023
+June 2025
