@@ -1,0 +1,19 @@
+{
+  "application_numbers": [
+    "ANDA210523"
+  ],
+  "inn": "sodium-oxybate",
+  "labeler": "XLCare Pharmaceuticals, Inc.",
+  "package_ndcs": [
+    "72865-349-18"
+  ],
+  "products": [
+    {
+      "form": "SOLUTION",
+      "generic": "sodium oxybate",
+      "name": "sodium oxybate"
+    }
+  ],
+  "setid": "c0fb2620-7247-464d-a37a-8b516ce7d563",
+  "source": "dailymed"
+}
