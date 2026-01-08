@@ -16,7 +16,7 @@ If after long-term therapy the drug is to be stopped, it is recommended that it 
 Therapy with DEPO-MEDROL does not obviate the need for the conventional measures usually employed.
 Although this method of treatment will ameliorate symptoms, it is in no sense a cure and the hormone has no effect on the cause of the inflammation.
 
-### 1. Rheumatoid Arthritis and Osteoarthritis.
+### 1. Rheumatoid Arthritis and Osteoarthritis:
 
 The dose for intra-articular administration depends upon the size of the joint and varies with the severity of the condition in the individual patient.
 In chronic cases, injections may be repeated at intervals ranging from one to five or more weeks, depending upon the degree of relief obtained from the initial injection.
@@ -29,11 +29,11 @@ The doses in the following table are given as a general guide:
 | Small | MetacarpophalangealInterphalangealSternoclavicularAcromioclavicular | 4 to 10 mg |
 
 Procedure: It is recommended that the anatomy of the joint involved be reviewed before attempting intra-articular injection.
-In order to obtain the full anti‑inflammatory effect, it is important that the injection be made into the synovial space.
+To obtain the full anti‑inflammatory effect, it is important that the injection be made into the synovial space.
 Employing the same sterile technique as for a lumbar puncture, a sterile 20 to 24 gauge needle (on a dry syringe) is quickly inserted into the synovial cavity.
 Procaine infiltration is elective.
 The aspiration of only a few drops of joint fluid proves the joint space has been entered by the needle.
-The injection site for each joint is determined by that location where the synovial cavity is most superficial and most free of large vessels and nerves.
+The injection site for each joint is determined by the location where the synovial cavity is most superficial and most free of large vessels and nerves.
 With the needle in place, the aspirating syringe is removed and replaced by a second syringe containing the desired amount of DEPO-MEDROL.
 The plunger is then pulled outward slightly to aspirate synovial fluid and to make sure the needle is still in the synovial space.
 After injection, the joint is moved gently a few times to aid mixing of the synovial fluid and the suspension.
@@ -46,35 +46,35 @@ Treatment failures are most frequently the result of failure to enter the joint 
 Little or no benefit follows injection into surrounding tissue.
 If failures occur when injections into the synovial spaces are certain, as determined by aspiration of fluid, repeated injections are usually futile.
 
-If a local anesthetic is used prior to injection of DEPO-MEDROL, the anesthetic package insert should be read carefully and all the precautions observed.
+If a local anesthetic is used prior to injection of DEPO-MEDROL, the anesthetic package insert should be read carefully, and all the precautions observed.
 
-### 2. Bursitis.
+### 2. Bursitis:
 
 The area around the injection site is prepared in a sterile way and a wheal at the site made with 1 percent procaine hydrochloride solution.
 A 20 to 24 gauge needle attached to a dry syringe is inserted into the bursa and the fluid aspirated.
 The needle is left in place and the aspirating syringe changed for a small syringe containing the desired dose.
 After injection, the needle is withdrawn and a small dressing applied.
 
-### 3. Miscellaneous: Ganglion, Tendinitis, Epicondylitis.
+### 3. Miscellaneous: Ganglion, Tendinitis, Epicondylitis:
 
 In the treatment of conditions such as tendinitis or tenosynovitis, care should be taken following application of a suitable antiseptic to the overlying skin to inject the suspension into the tendon sheath rather than into the substance of the tendon.
 The tendon may be readily palpated when placed on a stretch.
 When treating conditions such as epicondylitis, the area of greatest tenderness should be outlined carefully and the suspension infiltrated into the area.
 For ganglia of the tendon sheaths, the suspension is injected directly into the cyst.
-In many cases, a single injection causes a marked decrease in the size of the cystic tumor and may effect disappearance.
+In many cases, a single injection causes a marked decrease in the size of the cystic tumor and may affect disappearance.
 The usual sterile precautions should be observed, of course, with each injection.
 
 The dose in the treatment of the various conditions of the tendinous or bursal structures listed above varies with the condition being treated and ranges from 4 to 30 mg.
 In recurrent or chronic conditions, repeated injections may be necessary.
 
-### 4. Injections for Local Effect in Dermatologic Conditions.
+### 4. Injections for Local Effect in Dermatologic Conditions:
 
 Following cleansing with an appropriate antiseptic such as 70% alcohol, 20 to 60 mg is injected into the lesion.
 It may be necessary to distribute doses ranging from 20 to 40 mg by repeated local injections in the case of large lesions.
 Care should be taken to avoid injection of sufficient material to cause blanching since this may be followed by a small slough.
 One to four injections are usually employed, the intervals between injections varying with the type of lesion being treated and the duration of improvement produced by the initial injection.
 
-## B. Administration for Systemic Effect.
+## B. Administration for Systemic Effect
 
 The intramuscular dosage will vary with the condition being treated.
 When employed as a temporary substitute for oral therapy, a single injection during each 24-hour period of a dose of the suspension equal to the total daily oral dose of MEDROL® Tablets (methylprednisolone tablets, USP) is usually sufficient.

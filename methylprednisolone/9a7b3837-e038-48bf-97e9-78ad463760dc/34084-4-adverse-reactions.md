@@ -18,11 +18,13 @@ Gastrointestinal: Abdominal distention, bowel/bladder dysfunction (after intrath
 
 Metabolic: Negative nitrogen balance due to protein catabolism.
 
-Musculoskeletal: Aseptic necrosis of femoral and humeral heads, calcinosis (following intra-articular or intra-lesional use), Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, postinjection flare (following intra-articular use), steroid myopathy, tendon rupture, vertebral compression fractures.
+Musculoskeletal: Aseptic necrosis of femoral and humeral heads, calcinosis (following intra-articular or intra-lesional use), Charcot-like arthropathy, loss of muscle mass, muscle weakness, osteoporosis, pathologic fracture of long bones, post injection flare (following intra-articular, soft tissue, and tendon sheath injections), steroid myopathy, tendon rupture, vertebral compression fractures.
 
 Neurologic/Psychiatric: Convulsions, depression, emotional instability, euphoria, headache, increased intracranial pressure with papilledema (pseudotumor cerebri) usually following discontinuation of treatment, insomnia, mood swings, neuritis, neuropathy, paresthesia, personality changes, psychic disorders, vertigo.
 
 Ophthalmic: Exophthalmoses, glaucoma, increased intraocular pressure, posterior subcapsular cataracts.
+
+Vascular: Flushing.
 
 Other: Abnormal fat deposits, decreased resistance to infection, hiccups, increased or decreased motility and number of spermatozoa, injection site infections following non-sterile administration (see WARNINGS), malaise, moon face, weight gain.
 
@@ -34,4 +36,4 @@ Intranasal: Allergic reactions, rhinitis, temporary/permanent visual impairment 
 
 Ophthalmic: Increased intraocular pressure, infection, ocular and periocular inflammation including allergic reactions, residue or slough at injection site, temporary/permanent visual impairment including blindness.
 
-Miscellaneous injection sites (scalp, tonsillar fauces, sphenopalatine ganglion): blindness.
+Miscellaneous injection sites (scalp, tonsillar fauces, sphenopalatine ganglion): Blindness.

@@ -3,4 +3,6 @@
 This product's label may have been updated.
 For current full prescribing information, please visit www.pfizer.com.
 
-LAB-0160-19.0 Revised September 2025
+For medical information about DEPO-MEDROL, please visit www.pfizermedinfo.com or call 1-800-438-1985.
+
+LAB-0160-20.0 Revised November 2025

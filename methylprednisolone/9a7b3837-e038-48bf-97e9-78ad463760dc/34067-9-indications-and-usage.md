@@ -16,7 +16,7 @@ Hematologic Disorders: Acquired (autoimmune) hemolytic anemia, congenital (eryth
 
 Miscellaneous: Trichinosis with neurologic or myocardial involvement, tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy.
 
-Neoplastic Diseases: For palliative management of: leukemias and lymphomas.
+Neoplastic Diseases: For palliative management of leukemias and lymphomas.
 
 Nervous System: Cerebral edema associated with primary or metastatic brain tumor or craniotomy.
 
