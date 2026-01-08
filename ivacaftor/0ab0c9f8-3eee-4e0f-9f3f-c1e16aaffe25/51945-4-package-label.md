@@ -58,7 +58,7 @@ kalydeco® (ivacaftor) oral granules
 
 56 packets Each packet contains 25 mg ivacaftor
 
-Carton contains: 4 individual wallets wtih 14 packets per wallet
+Carton contains: 4 individual wallets with 14 packets per wallet
 
 Lift here to open
 
