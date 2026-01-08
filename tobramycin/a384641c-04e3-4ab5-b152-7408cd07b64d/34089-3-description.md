@@ -1,7 +1,7 @@
 # DESCRIPTION
 
 Tobramycin sulfate, a water-soluble antibiotic of the aminoglycoside group, is derived from the actinomycete Streptomyces tenebrarius.
-Tobramycin for Injection, USP is supplied as a sterile dry powder and is intended for reconstitution with 30 mL of Sterile Water for Injection, USP.
+Tobramycin for injection, USP is supplied as a sterile dry powder and is intended for reconstitution with 30 mL of sterile water for injection, USP.
 
 Sulfuric acid and/or sodium hydroxide may have been added during manufacture to adjust the pH.
 Each vial contains tobramycin sulfate equivalent to 1200 mg of tobramycin.

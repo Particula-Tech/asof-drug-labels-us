@@ -1,6 +1,6 @@
 # HOW SUPPLIED
 
-Tobramycin for Injection, USP is available as:
+Tobramycin for injection, USP is available as:
 
 | NDC Number | Package/Volume | Units per Carton | Tobramycin Content |
 | --- | --- | --- | --- |
@@ -9,4 +9,8 @@ Tobramycin for Injection, USP is available as:
 
 Store dry powder at 20° to 25°C (68° to 77°F) [See USP Controlled Room Temperature].
 
-Manufactured for: XGen Pharmaceuticals DJB, Inc. Big Flats, NY 14814 Revised: March 2023
+Manufactured in India.
+
+Manufactured for: XGen Pharmaceuticals DJB, Inc. Big Flats, NY 14814 Revised: April 2025
+
+TOBRA-PI-MV-00

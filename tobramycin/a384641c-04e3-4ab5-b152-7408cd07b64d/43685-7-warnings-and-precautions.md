@@ -8,7 +8,7 @@ Although rare, fatalities have been reported.
 
 If an allergic reaction occurs, the drug should be discontinued and appropriate therapy instituted.
 
-Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including Tobramycin, and may range in severity from mild diarrhea to fatal colitis.
+Clostridium difficile associated diarrhea (CDAD) has been reported with use of nearly all antibacterial agents, including tobramycin, and may range in severity from mild diarrhea to fatal colitis.
 Treatment with antibacterial agents alters the normal flora of the colon leading to overgrowth of C. difficile.
 
 C. difficile produces toxins A and B which contribute to the development of CDAD.
@@ -46,7 +46,7 @@ In order to measure the peak level, a serum sample should be drawn about 30 minu
 Trough levels are measured by obtaining serum samples at 8 hours or just prior to the next dose of tobramycin.
 These suggested time intervals are intended only as guidelines and may vary according to institutional practices.
 It is important, however, that there be consistency within the individual patient program unless computerized pharmacokinetic dosing programs are available in the institution.
-These serum-level assays may be especially useful for monitoring the treatment of severely ill patients with changing renal function or of those infected with less susceptible organisms or those receiving maximum dosage.
+These serum-level assays may be especially useful for monitoring the treatment of severely ill patients with changing renal function or of those infected with less sensitive organisms or those receiving maximum dosage.
 
 Neuromuscular blockade and respiratory paralysis have been reported in cats receiving very high doses of tobramycin (40 mg/kg).
 The possibility of prolonged or secondary apnea should be considered if tobramycin is administered to anesthetized patients who are also receiving neuromuscular blocking agents, such as succinylcholine, tubocurarine, or decamethonium, or to patients receiving massive transfusions of citrated blood.
@@ -54,7 +54,7 @@ If neuromuscular blockade occurs, it may be reversed by the administration of ca
 
 Cross-allergenicity among aminoglycosides has been demonstrated.
 
-In patients with extensive burns, altered pharmacokinetics may result in reduced serum concentrations of aminoglycosides.
+In patients with extensive burns or cystic fibrosis, altered pharmacokinetics may result in reduced serum concentrations of aminoglycosides.
 In such patients treated with tobramycin, measurement of serum concentration is especially important as a basis for determination of appropriate dosage.
 
 Elderly patients may have reduced renal function that may not be evident in the results of routine screening tests, such as BUN or serum creatinine.

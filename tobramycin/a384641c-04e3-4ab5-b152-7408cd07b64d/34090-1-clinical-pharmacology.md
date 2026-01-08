@@ -55,7 +55,7 @@ Susceptibility testing and tests for antibiotic synergism are emphasized.
 
 Cross-resistance between aminoglycosides may occur.
 
-Tobramycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections: (see INDICATIONS AND USAGE).
+Tobramycin has been shown to be active against most strains of the following organisms both in vitro and in clinical infections: (see INDICATIONS AND USAGE)
 
 Aerobic and facultative Gram-positive microorganisms
 

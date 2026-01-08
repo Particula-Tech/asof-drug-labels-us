@@ -1,6 +1,6 @@
 # DOSAGE AND ADMINISTRATION
 
-Tobramycin for Injection, USP may be given intramuscularly or intravenously.
+Tobramycin for injection may be given intramuscularly or intravenously.
 Recommended dosages are the same for both routes.
 This insert is for a Pharmacy Bulk Package and is intended for preparing I.V. admixtures only.
 Dosage recommendations for intramuscular use are for informational purposes only.
@@ -16,9 +16,9 @@ The dosage should be reduced to 3 mg/kg/day as soon as clinically indicated.
 To prevent increased toxicity due to excessive blood levels, dosage should not exceed 5 mg/kg/day unless serum levels are monitored (see WARNINGS box and PRECAUTIONS).
 
 Table 1.
-DOSAGE SCHEDULE GUIDE FOR TOBRAMYCIN FOR INJECTION, USP IN ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals)
+DOSAGE SCHEDULE GUIDE FOR TOBRAMYCIN FOR INJECTION IN ADULTS WITH NORMAL RENAL FUNCTION (Dosage at 8-Hour Intervals)
 
-| For Patient Weighing |  | Usual Dose for Serious Infections |  |  | Maximum Dose for Life- hreatening Injections(Reduce as soon as possible) |  |  |
+| For Patient Weighing |  | Usual Dose for Serious Infections |  |  | Maximum Dose for Life-Threatening Infections(Reduce as soon as possible) |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | kg | lb | 1 mg/kg q8h (Total, 3 mg/kg/day) |  |  | 1.66 mg/kg q8h(Total, 5 mg/kg/day) |  |  |
 |  |  | mg/dose |  | mL/dose | mg/dose |  | mL/dose |
@@ -84,12 +84,12 @@ The appropriate dose may be calculated by using the patient’s estimated lean b
 
 ## Intravenous Administration
 
-For intravenous administration, the usual volume of diluent (0.9% Sodium Chloride Injection or 5% Dextrose Injection) is 50 to 100 mL for adult doses.
+For intravenous administration, the usual volume of diluent (0.9% sodium chloride injection or 5% dextrose injection) is 50 to 100 mL for adult doses.
 For pediatric patients, the volume of diluent should be proportionately less than that for adults.
 The diluted solution usually should be infused over a period of 20 to 60 minutes.
 Infusion periods of less than 20 minutes are not recommended because peak serum levels may exceed 12 mcg/mL (see WARNINGSbox).
 
-Tobramycin for Injection, USP should not be physically premixed with other drugs but should be administered separately according to the recommended dose and route.
+Tobramycin for injection should not be physically premixed with other drugs but should be administered separately according to the recommended dose and route.
 
 Parenteral drug products should be inspected visually for particulate matter and discoloration prior to administration, whenever solution and container permit.
 

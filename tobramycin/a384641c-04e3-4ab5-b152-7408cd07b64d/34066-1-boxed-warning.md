@@ -2,7 +2,7 @@
 
 WARNINGS
 
-Patients treated with Tobramycin for Injection, USP and other aminoglycosides should be under close clinical observation, because these drugs have an inherent potential for causing ototoxicity and nephrotoxicity.
+Patients treated with tobramycin for injection and other aminoglycosides should be under close clinical observation, because these drugs have an inherent potential for causing ototoxicity and nephrotoxicity.
 
 Neurotoxicity, manifested as both auditory and vestibular ototoxicity, can occur.
 The auditory changes are irreversible, are usually bilateral, and may be partial or total.
